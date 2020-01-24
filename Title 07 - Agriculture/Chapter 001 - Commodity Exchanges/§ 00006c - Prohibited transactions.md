@@ -56,7 +56,7 @@
 
 #### (C) Theft of nonpublic information
 
-&emsp;&emsp;It shall be unlawful for any person to steal, convert, or misappropriate, by anymeans whatsoever, information held or created by any department or agency of the Federal Government or by Congress or by the judiciary that may affect or tend to affect the price of any commodity in interstate commerce, or for future delivery, or any swap, where such person knows, or acts in reckless disregard of the fact, that such information has not been disseminated by the department or agency of the Federal Government holding or creating the information or by Congress or by the judiciary in a manner which makes it generally available to the trading public, or disclosed in a criminal, civil, or administrative hearing, or in a congressional, administrative, or Government Accountability Office report, hearing, audit, or investigation, and to use such information, or to impart such information with the intent to assist another person, directly or indirectly, to use such information to enter into, or offer to enter into—
+&emsp;&emsp;It shall be unlawful for any person to steal, convert, or misappropriate, by any means whatsoever, information held or created by any department or agency of the Federal Government or by Congress or by the judiciary that may affect or tend to affect the price of any commodity in interstate commerce, or for future delivery, or any swap, where such person knows, or acts in reckless disregard of the fact, that such information has not been disseminated by the department or agency of the Federal Government holding or creating the information or by Congress or by the judiciary in a manner which makes it generally available to the trading public, or disclosed in a criminal, civil, or administrative hearing, or in a congressional, administrative, or Government Accountability Office report, hearing, audit, or investigation, and to use such information, or to impart such information with the intent to assist another person, directly or indirectly, to use such information to enter into, or offer to enter into—
 
 &emsp;&emsp;&emsp;(i) a contract of sale of a commodity for future delivery (or option on such a contract);
 
@@ -114,7 +114,7 @@ Notwithstanding the provisions of subsection (c) of this section—
 
 &emsp;&emsp;&emsp;(v) provides an identification number for each transaction; and
 
-&emsp;&emsp;&emsp;(vi) provides confirmation of all orders for such transactions executed, including the execution price and a transaction identification number;
+&emsp;&emsp;&emsp;(vi) provides confirmation of all orders for such transactions executed, includingthe execution price and a transaction identification number;
 
 &emsp;&emsp;(B) the futures commission merchant is a person who—
 

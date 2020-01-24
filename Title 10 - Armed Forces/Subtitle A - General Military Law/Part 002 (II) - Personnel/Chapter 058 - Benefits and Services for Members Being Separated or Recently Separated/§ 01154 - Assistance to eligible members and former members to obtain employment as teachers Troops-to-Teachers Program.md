@@ -124,7 +124,7 @@ Selection priorities.—In selecting eligible members of the armed forces to rec
 
 &emsp;&emsp;&emsp;(i) have educational or military experience in science, mathematics, special education, foreign language, or career or technical subjects; and
 
-&emsp;&emsp;&emsp;(ii) agree to seek employment as science, mathematics, foreign language, or special education teachers in elementary schools or secondary schools or in other schools under the jurisdiction of a local educational agency; and
+&emsp;&emsp;&emsp;(ii) agree to seek employment as science, mathematics, foreign language, or special education teachers in elementary schools or secondary schools or in other schoolsunder the jurisdiction of a local educational agency; and
 
 &emsp;&emsp;(B) may give priority to members who agree to seek employment in a high-need school.
 
@@ -274,7 +274,7 @@ Transfer.—The responsibility and authority for operation and administration of
 
 Memorandum of agreement.—In connection with the transfer of responsibility and authority for operation and administration of the Troops-to-Teachers Program from the Secretary of Education to the Secretary of Defense under paragraph (1), the Secretaries shall enter into a memorandum of agreement pursuant to which the Secretary of Education will undertake the following:
 
-&emsp;"(A) Disseminate information about the Troops-to-Teachers Program to eligible schools (as defined insubsection (a) of section 1154 of title 10, United States Code, as added by subsection (b)).
+&emsp;"(A) Disseminate information about the Troops-to-Teachers Program to eligible schools (as defined in subsection (a) of section 1154 of title 10, United States Code, as added by subsection (b)).
 
 &emsp;"(B) Advise the Department of Defense on how to prepare eligible members of the Armed Forces described in subsection (d) of such section 1154 to become participants in the Program, to meet the requirements necessary to become a teacher in a school described in subsection (b)(2) of such section 1154, and to find post-service employment in an eligible school.
 

@@ -4,7 +4,7 @@
 
 #### (b) Resource center
 
-The Secretary of Health and Human Services (referred to in this section as the "Secretary", except as otherwise provided), in consultation with the Secretary of Education and other heads of agencies, including the Assistant Secretary for Mental Health and Substance Use and the Administrator of the Health Resources and Services Administration, as appropriate, shall establish a resource center to provide technical support to recipients of grants under subsection (c).
+The Secretary of Health and Human Services (referred to in this section as the "Secretary", except as otherwise provided), in consultationwith the Secretary of Education and other heads of agencies, including the Assistant Secretary for Mental Health and Substance Use and the Administrator of the Health Resources and Services Administration, as appropriate, shall establish a resource center to provide technical support to recipients of grants under subsection (c).
 
 #### (c) Youth prevention and recovery initiative
 
@@ -159,4 +159,8 @@ The Secretary of Health and Human Services (referred to in this section as the "
 Section is comprised of section 7102 of Pub. L. 115–271. Subsec. (a) of section 7102 of Pub. L. 115–271 amended section 290bb–7 of this title.
 
 Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

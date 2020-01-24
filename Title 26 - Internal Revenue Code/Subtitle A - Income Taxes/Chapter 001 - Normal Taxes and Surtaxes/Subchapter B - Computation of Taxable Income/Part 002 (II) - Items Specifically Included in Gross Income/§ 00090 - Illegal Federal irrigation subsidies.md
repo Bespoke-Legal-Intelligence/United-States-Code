@@ -32,5 +32,5 @@ Section 202 of the Reclamation Reform Act of 1982, referred to in subsec. (b)(2)
 
 #### Effective Date
 
-Pub. L. 100–203, title X, §10611(c), Dec. 22, 1987, 101 Stat. 1330–452, provided that: "The amendments made by this section \[enacting this section\] shall apply towater delivered to the taxpayer in months beginning after the date of the enactment of this Act \[Dec. 22, 1987\]."
+Pub. L. 100–203, title X, §10611(c), Dec. 22, 1987, 101 Stat. 1330–452, provided that: "The amendments made by this section \[enacting this section\] shall apply to water delivered to the taxpayer in months beginning after the date of the enactment of this Act \[Dec. 22, 1987\]."
 

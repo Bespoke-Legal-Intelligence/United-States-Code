@@ -20,7 +20,7 @@ For purposes of this section, the term "security" means any share of stock in an
 
 #### (1) In general
 
-&emsp;In the case of a floor specialist (but only with respect to acquisitions, in connection with his duties on an exchange, of stock in which the specialist is registered with the exchange), subsection (a) shall be applied—
+&emsp;In the case of a floor specialist (but only with respect to acquisitions, in connectionwith his duties on an exchange, of stock in which the specialist is registered with the exchange), subsection (a) shall be applied—
 
 &emsp;&emsp;(A) by inserting "the 7th business day following" before "the day" the first place it appears in paragraph (1) and by inserting "7th business" before "day" in paragraph (2), and
 

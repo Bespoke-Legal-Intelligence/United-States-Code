@@ -26,7 +26,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–113 added subsec. (c).
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–53 redesignated subsec. (d) as (b), and repealed former subsec. (b) which related to Presidential report to Congress on the impact of development programs, etc., on the economic integration of women.
+<b>1979</b>—Subsec. (b). Pub. L. 96–53 redesignated subsec. (d) as (b), and repealed former subsec. (b) which relatedto Presidential report to Congress on the impact of development programs, etc., on the economic integration of women.
 
 Subsec. (c). Pub. L. 96–53 repealed subsec. (c) which required the report under former subsec. (b) to be submitted not later than one year after Aug. 3, 1977.
 

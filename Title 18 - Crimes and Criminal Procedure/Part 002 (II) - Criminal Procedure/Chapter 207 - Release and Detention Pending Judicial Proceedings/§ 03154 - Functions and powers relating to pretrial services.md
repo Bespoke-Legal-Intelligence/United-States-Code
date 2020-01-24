@@ -10,7 +10,7 @@ Pretrial services functions shall include the following:
 
 &emsp;(4) Operate or contract for the operation of appropriate facilities for the custody or care of persons released under this chapter including residential halfway houses, addict and alcoholic treatment centers, and counseling services, and contract with any appropriate public or private agency or person, or expend funds, to monitor and provide treatment as well as nontreatment services to any such persons released in the community, including equipment and emergency housing, corrective and preventative guidance and training, and other services reasonably deemed necessary to protect the public and ensure that such persons appear in court as required.
 
-&emsp;(5) Inform the court and the United States attorney of all apparent violations of pretrial release conditions, arrests of persons released to the custody of providers of pretrial services or under the supervision of providers of pretrial services, and any danger that any such person may come to pose to any other personor the community, and recommend appropriate modifications of release conditions.
+&emsp;(5) Inform the court and the United States attorney of all apparent violations of pretrial release conditions, arrests of persons released to the custody of providers of pretrial services or under the supervision of providers of pretrial services, and any danger that any such person may come to pose to any other person or the community, and recommend appropriate modifications of release conditions.
 
 &emsp;(6) Serve as coordinator for other local agencies which serve or are eligible to serve as custodians under this chapter and advise the court as to the eligibility, availability, and capacity of such agencies.
 

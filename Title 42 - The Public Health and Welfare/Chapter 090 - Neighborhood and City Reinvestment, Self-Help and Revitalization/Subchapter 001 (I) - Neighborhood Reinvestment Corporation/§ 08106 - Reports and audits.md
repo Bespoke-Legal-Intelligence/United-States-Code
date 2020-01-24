@@ -30,5 +30,5 @@ The corporation shall conduct or require each grantee or contractor to provide f
 
 #### National Demonstration Program of Mutual Housing Associations; Report to Congress
 
-Pub. L. 96–399, title III, §316, Oct. 8, 1980, 94 Stat. 1645, directed submission to Congress, not later than Sept. 30, 1981, of report by Neighborhood Reinvestment Corporation, in conjunction with the National ConsumerCooperative Bank and the Secretary of Housing and Urban Development, on the findings, conclusions, and legislative recommendations reached as a result of the national demonstration program of mutual housing associations.
+Pub. L. 96–399, title III, §316, Oct. 8, 1980, 94 Stat. 1645, directed submission to Congress, not later than Sept. 30, 1981, of report by Neighborhood Reinvestment Corporation, in conjunction with the National Consumer Cooperative Bank and the Secretary of Housing and Urban Development, on the findings, conclusions, and legislative recommendations reached as a result of the national demonstration program of mutual housing associations.
 

@@ -148,7 +148,7 @@ Pub. L. 110–181, div. A, title XVII, §1704, Jan. 28, 2008, 122 Stat. 490, pro
 
 "(a)
 
-In General.—To improve the provision of health care by the Department of Veterans Affairs to veteranswith traumatic brain injuries, the Secretary of Veterans Affairs shall—
+In General.—To improve the provision of health care by the Department of Veterans Affairs to veterans with traumatic brain injuries, the Secretary of Veterans Affairs shall—
 
 &emsp;"(1) conduct research, including—
 

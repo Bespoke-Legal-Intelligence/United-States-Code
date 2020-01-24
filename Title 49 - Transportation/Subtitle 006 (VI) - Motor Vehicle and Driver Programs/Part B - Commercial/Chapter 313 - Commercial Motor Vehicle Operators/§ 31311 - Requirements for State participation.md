@@ -8,7 +8,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(2) The State may issue a commercial driver's license to an individual only if the individual passes written and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards.
 
-&emsp;(3) The State shall have in effect and enforce a law providing that an individual with a blood alcohol concentration level at or above the level established by section 31310(a) of this title when operating a commercial motor vehicle is deemed to be driving under the influence of alcohol.
+&emsp;(3) The State shall have in effect and enforce a law providing that an individual with a blood alcohol concentration level at or above the level established by section 31310(a) of thistitle when operating a commercial motor vehicle is deemed to be driving under the influence of alcohol.
 
 &emsp;(4) The State shall authorize an individual to operate a commercial motor vehicle only by issuing a commercial driver's license containing the information described in section 31308(3) of this title.<sup>1</sup>
 

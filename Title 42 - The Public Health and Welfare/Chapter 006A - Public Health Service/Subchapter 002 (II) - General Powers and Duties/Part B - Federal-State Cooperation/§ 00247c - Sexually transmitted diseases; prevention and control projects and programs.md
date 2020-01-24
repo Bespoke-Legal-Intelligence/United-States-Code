@@ -36,7 +36,7 @@ The Secretary may make grants to States and political subdivisions of States for
 
 (1) For the purpose of making grants under subsections (b) through (d), there are authorized to be appropriated $85,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1998.
 
-(2) Each recipient of a grant under this section shall keep such records as the Secretary shallprescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the project or undertaking in connection with which such grant was given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(2) Each recipient of a grant under this section shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the project or undertaking in connection with which such grant was given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (3) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients of grants under this section that are pertinent to such grants.
 
@@ -118,7 +118,7 @@ Subsec. (g). Pub. L. 95–626, §204(b)(1), redesignated subsec. (h) as (g). For
 
 Subsec. (b)(1). Pub. L. 94–317, §203(i), inserted "education," before "and training".
 
-Subsec. (b)(2). Pub. L. 94–317, §203(b)(1), substituted provisions authorizing appropriations of $5,000,000 for fiscal year 1976, $6,600,000 for fiscal year 1977, and $7,600,000 for fiscal year 1978, for provisions authorizing appropriations of $7,500,000 for fiscal year ending June 30, 1973, and for each of the next two fiscal years.
+Subsec. (b)(2). Pub. L. 94–317, §203(b)(1), substituted provisions authorizing appropriations of $5,000,000 for fiscal year 1976, $6,600,000 for fiscal year 1977, and $7,600,000 for fiscal year 1978, for provisions authorizingappropriations of $7,500,000 for fiscal year ending June 30, 1973, and for each of the next two fiscal years.
 
 Subsec. (c). Pub. L. 94–484, purported to amend former subsec. (c)(1) by defining "State" to include the Northern Mariana Islands. Former subsec. (c) of this section had been previously repealed by section 203(f)(1) of Pub. L. 94–317. See par. below.
 
@@ -136,7 +136,7 @@ Subsec. (h). Pub. L. 94–317, §203(h), added subsec. (h). Former subsec. (h) r
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183,see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
+Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
 
 #### Distribution of Information on Acquired Immune Deficiency Syndrome by Director of Centers for Disease Control to Every American Household
 

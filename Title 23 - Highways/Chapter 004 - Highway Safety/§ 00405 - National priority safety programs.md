@@ -516,7 +516,7 @@ Fiscal year 2017.—In fiscal year 2017, up to 15 percent of the amounts receive
 
 &emsp;&emsp;&emsp;(iii)
 
-Fiscal year 2018.—In fiscal year 2018, up to 25 percent of the amounts received by a State under subparagraph (A) may be used for any eligible project or activity under section 402.
+Fiscal year 2018.—In fiscal year 2018, up to 25 percent of the amounts receivedby a State under subparagraph (A) may be used for any eligible project or activity under section 402.
 
 &emsp;(7)
 
@@ -584,7 +584,7 @@ Motorcycle rider training courses.—An effective motorcycle rider training cour
 
 &emsp;&emsp;(B)
 
-Motorcyclists awareness program.—An effective statewide program to enhancemotorist awareness of the presence of motorcyclists on or near roadways and safe driving practices that avoid injuries to motorcyclists.
+Motorcyclists awareness program.—An effective statewide program to enhance motorist awareness of the presence of motorcyclists on or near roadways and safe driving practices that avoid injuries to motorcyclists.
 
 &emsp;&emsp;(C)
 
@@ -628,7 +628,7 @@ In general.—A State may use funds from a grant under this subsection only for 
 
 &emsp;&emsp;(B)
 
-Suballocations of funds.—An agency of a State that receives a grant under this subsection may suballocate funds from the grant to a nonprofit organization incorporated in that State to carry out this subsection.
+Suballocations of funds.—An agency of a State that receives a grant under thissubsection may suballocate funds from the grant to a nonprofit organization incorporated in that State to carry out this subsection.
 
 &emsp;&emsp;(C)
 
@@ -788,7 +788,7 @@ Federal share.—The Federal share of the cost of a project carried out by a Sta
 
 &emsp;(3)
 
-Eligibility.—A State shall receive a grant under this subsection in a fiscal year if the annual combined pedestrian and bicyclefatalities in the State exceed 15 percent of the total annual crash fatalities in the State, based on the most recently reported final data from the Fatality Analysis Reporting System.
+Eligibility.—A State shall receive a grant under this subsection in a fiscal year if the annual combined pedestrian and bicycle fatalities in the State exceed 15 percent of the total annual crash fatalities in the State, based on the most recently reported final data from the Fatality Analysis Reporting System.
 
 &emsp;(4)
 

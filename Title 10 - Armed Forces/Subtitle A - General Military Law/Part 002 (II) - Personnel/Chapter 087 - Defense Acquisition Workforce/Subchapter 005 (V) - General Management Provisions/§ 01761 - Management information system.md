@@ -18,7 +18,7 @@ Minimum Information.—The management information system shall, at a minimum, pr
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–375 substituted "provide for the following:" for "provide for—" in introductory provisions, capitalized first letter of first word in pars. (1) to (3), substituted period for semicolon at end in pars. (1) and (2), substituted period for "; and" at end in par. (3), and struck out par. (4) which read as follows: "collection of the information necessary for the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Secretary of Defense to comply with the requirements of section 1762 for the years in which that section is in effect."
+<b>2004</b>—Subsec. (b). Pub. L. 108–375 substituted "provide for the following:" for "provide for—" in introductoryprovisions, capitalized first letter of first word in pars. (1) to (3), substituted period for semicolon at end in pars. (1) and (2), substituted period for "; and" at end in par. (3), and struck out par. (4) which read as follows: "collection of the information necessary for the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Secretary of Defense to comply with the requirements of section 1762 for the years in which that section is in effect."
 
 <b>2001</b>—Subsec. (b)(4). Pub. L. 107–107 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
 
@@ -26,9 +26,5 @@ Minimum Information.—The management information system shall, at a minimum, pr
 
 #### Establishment of Management Information System
 
-Pub. L. 101–510, div. A, title XII, §1209(k), Nov. 5, 1990, 104 Stat. 1667, provided that:
-
-"(1) Not later than October 1, 1991, the Secretary of Defense shall prescribe in regulations the requirements under section 1761 of title 10, United States Code (as added by section 1202), including data elements, for the uniform management information system.
-
-"(2) The Secretary of Defense shall ensure that the requirements prescribed pursuant to paragraph (1) are implemented not later than October 1, 1992."
+Pub. L. 101–510, div. A, title XII, §1209(k), Nov. 5, 1990, 104 Stat. 1667, required the Secretary of Defense to prescribe in regulations the requirements under this section for the uniform management information system by Oct. 1, 1991, and ensure that the requirements were implemented by Oct. 1, 1992.
 

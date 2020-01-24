@@ -30,5 +30,5 @@ Prior similar provisions were contained in Pub. L. 107–68, title I, §131, Nov
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–244, div. B, title I, §133(b), Sept. 21, 2018, 132 Stat. 2936, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2019 and each succeeding fiscal year."
+Pub. L. 115–244, div. B, title I, §133(b), Sept. 21, 2018, 132 Stat. 2936, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply withrespect to fiscal year 2019 and each succeeding fiscal year."
 

@@ -72,7 +72,7 @@ Reference to Assistant Secretary of Labor for Veterans' Employment in any law in
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–163, title II, §204(c), May 5, 2010, 124 Stat. 1144, provided that: "The amendments made by this section \[amending this section and section 544 of this title\] shall apply to appointments made on or after the date of the enactment of this Act \[May 5, 2010\]."
+Pub. L. 111–163, title II, §204(c), May 5, 2010, 124 Stat. 1144, provided that: "The amendments made by thissection \[amending this section and section 544 of this title\] shall apply to appointments made on or after the date of the enactment of this Act \[May 5, 2010\]."
 
 #### Termination of Advisory Committees
 

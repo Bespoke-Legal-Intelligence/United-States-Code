@@ -100,7 +100,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 &emsp;(6)(A) implement plans and projects for Hass avocado promotion, industry information, consumer information, or related research, as provided in subsection (d); or
 
-&emsp;(B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e), andpay the costs of the implementation, or contracts and agreement, with funds received under the order;
+&emsp;(B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e), and pay the costs of the implementation, or contracts and agreement, with funds received under the order;
 
 &emsp;(7) evaluate on-going and completed plans and projects for Hass avocado promotion, industry information, consumer information, or related research and comply with the independent evaluation provisions of the Commodity Promotion, Research, and Information Act of 1996 (subtitle B of title V of Public Law 104–127 \[7 U.S.C. 7411 et seq.\]);
 
@@ -172,7 +172,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 &emsp;&emsp;The order shall provide that any contract or agreement entered into under this paragraph shall provide that—
 
-&emsp;&emsp;&emsp;(i) the contracting or agreeing party shall develop and submit to the Board aplan or project, together with a budget that includes the estimated costs to be incurred for the plan or project;
+&emsp;&emsp;&emsp;(i) the contracting or agreeing party shall develop and submit to the Board a plan or project, together with a budget that includes the estimated costs to be incurred for the plan or project;
 
 &emsp;&emsp;&emsp;(ii) the plan or project shall become effective on the approval of the Secretary; and
 
@@ -296,7 +296,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (8) Assessment funds for State association
 
-&emsp;The order shall provide that a State organization of avocado producers established pursuant to State law shall receive an amount equal to the product obtained by multiplying the aggregate amount of assessments attributable to the pounds of Hass avocados produced in such State by 85 percent. The State organization shall use such funds and any proceeds from the investment of such funds for financing domestic promotion, research, consumer information, and industry information plans and projects, except that no such funds shall be used for the administrative expenses of such State organization.
+&emsp;The order shall provide that a State organization of avocado producers established pursuant to State law shall receive an amount equal to the product obtained by multiplying the aggregate amount of assessments attributable tothe pounds of Hass avocados produced in such State by 85 percent. The State organization shall use such funds and any proceeds from the investment of such funds for financing domestic promotion, research, consumer information, and industry information plans and projects, except that no such funds shall be used for the administrative expenses of such State organization.
 
 #### (9) Assessment funds for importers associations
 
@@ -424,7 +424,7 @@ The order shall contain such other terms and provisions, consistent with this ch
 
 #### References in Text
 
-The Commodity Promotion, Research, and Information Act of 1996, referred to in subsec. (c)(7), is subtitleB of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§7411 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Commodity Promotion, Research, and Information Act of 1996, referred to in subsec. (c)(7), is subtitle B of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§7411 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 #### Transfer of Functions
 

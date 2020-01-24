@@ -26,7 +26,7 @@
 
 (c) No travel or transportation allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 475, §410; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; renumbered §480 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(13), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 475, §410; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6,1991, 105 Stat. 117; renumbered §480 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(13), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 Historical and Revision Notes
 

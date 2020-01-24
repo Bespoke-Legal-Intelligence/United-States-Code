@@ -2,7 +2,7 @@
 
 #### (a) Authority to make grants
 
-As part of the program established under section 1531 of this title, the Director may award aninitial grant under this subsection, and renewal grants under subsection (f), to any coalition awarded a grant under section 1532 of this title that meets the criteria specified in subsection (d) in order to fund coalition mentoring activities by such coalition in support of the program.
+As part of the program established under section 1531 of this title, the Director may award an initial grant under this subsection, and renewal grants under subsection (f), to any coalition awarded a grant under section 1532 of this title that meets the criteria specified in subsection (d) in order to fund coalition mentoring activities by such coalition in support of the program.
 
 #### (b) Treatment with other grants
 
@@ -66,9 +66,15 @@ The total amount available for grants under this section, including renewal gran
 
 In awarding initial grants under this section, priority shall be given to a coalition that expressly proposes to provide mentorship to a coalition or aspiring coalition serving economically disadvantaged areas.
 
-(Pub. L. 100–690, title I, §1035, as added Pub. L. 107–82, §2, Dec. 14, 2001, 115 Stat. 819; amended Pub. L. 115–271, title VIII, §8203(b)(4)(A), Oct. 24, 2018, 132 Stat. 4111.)
+(Pub. L. 100–690, title I, §1035, as added Pub. L. 107–82, §2, Dec. 14, 2001, 115 Stat. 819; amended Pub. L. 115–271, title VIII, §8203(b)(4)(A), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, §2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–271, which directed substitution of "substance use and misuse" for "substance abuse" wherever appearing in subchapter I of "chapter 2 of subtitle A of title I of the National Narcotics Leadership Act of 1988", was executed throughout part A of this subchapter, which is subchapter I of chapter 2 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. The National Narcotics Leadership Act of 1988 is itself subtitle A of title I of Pub. L. 100–690.
+<b>2019</b>—Pub. L. 116–74, §2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, §8203(b)(4)(A). See 2018 Amendment note below.
+
+<b>2018</b>—Pub. L. 115–271, §8203(b)(4)(A), as amended by Pub. L. 116–74, §2(c)(1)(A)(ii)(II), substituted "substance use and misuse" for "substance abuse" wherever appearing.
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under section 1522 of this title.
 

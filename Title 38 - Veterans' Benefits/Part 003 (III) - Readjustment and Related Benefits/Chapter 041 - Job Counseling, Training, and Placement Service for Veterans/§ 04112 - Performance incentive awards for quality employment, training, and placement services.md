@@ -18,7 +18,7 @@ Form of Awards.—Under the criteria established by the Secretary for performanc
 
 Administration and Use of Awards.—Performance incentive cash awards under this section—
 
-&emsp;(1) shall be made from amounts allocated from the grant or contract amount for a Statefor a program year under section 4102A(c)(7) of this title;
+&emsp;(1) shall be made from amounts allocated from the grant or contract amount for a State for a program year under section 4102A(c)(7) of this title;
 
 &emsp;(2) in the case of such an award made to an eligible employee, shall be in addition to the regular pay of the recipient; and
 

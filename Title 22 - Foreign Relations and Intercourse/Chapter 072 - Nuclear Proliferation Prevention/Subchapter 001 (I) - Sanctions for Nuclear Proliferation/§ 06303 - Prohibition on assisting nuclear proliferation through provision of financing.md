@@ -16,7 +16,7 @@ To the extent that the United States has jurisdiction to prohibit such activity 
 
 #### (c) Presidential determination and order with respect to United States and foreign persons
 
-If the President determines,,<sup>1</sup> that a United States person or a foreign person has engaged in a prohibited activity (without regard to whether subsection (b) applies), the President shall, by order, impose the sanctions described in subsection (d) on such person.
+If the President determines,,<sup>1</sup> that a United States person or a foreign person has engaged in a prohibited activity (without regard to whether subsection (b) applies), the President shall, byorder, impose the sanctions described in subsection (d) on such person.
 
 #### (d) Sanctions
 
@@ -104,7 +104,7 @@ The Attorney General may bring an action in an appropriate district court of the
 
 #### (2) Knowledge of the existence of a particular circumstance
 
-&emsp;If knowledge of the existence of a particular circumstance is required for an offense, such knowledge is established if a person is aware of a high probability of the existence of such circumstance, unless the person actually believes that such circumstance does not exist.
+&emsp;If knowledge of the existence of a particular circumstance is required for an offense, such knowledge is established if a person is awareof a high probability of the existence of such circumstance, unless the person actually believes that such circumstance does not exist.
 
 #### (j) Scope of application
 

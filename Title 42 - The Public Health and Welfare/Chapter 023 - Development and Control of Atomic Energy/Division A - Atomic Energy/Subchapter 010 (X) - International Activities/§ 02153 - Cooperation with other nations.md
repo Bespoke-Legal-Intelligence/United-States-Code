@@ -134,6 +134,30 @@ Amendment by Pub. L. 95–242 effective Mar. 10, 1978, except as otherwise provi
 
 Pub. L. 93–485, §2, Oct. 26, 1974, 88 Stat. 1460, provided that: "This Act \[amending this section\] shall apply to proposed agreements for cooperation and to proposed amendments to agreements for cooperation hereafter \[Oct. 26, 1974\] submitted to the Congress."
 
+#### Limitation on Production of Nuclear Proliferation Assessment Statements
+
+Pub. L. 116–92, div. A, title XII, §1264, Dec. 20, 2019, 133 Stat. 1692, provided that:
+
+"(a)
+
+Limitation.—The Secretary of State may not provide to the President, and the President may not submit to Congress, a Nuclear Proliferation Assessment Statement described in subsection a. of section 123 of the Atomic Energy Act of 1954 (42 U.S.C. 2153) with respect to a proposed cooperation agreement with any country that has not signed and implemented an Additional Protocol with the International Atomic Energy Agency, other than a country with which, as of June 19, 2019, there is in effect a civilian nuclear cooperation agreement pursuant to such section 123.
+
+"(b)
+
+Waiver.—The limitation under subsection (a) shall be waived with respect to a particular country beginning on the date that is 90 days after the date on which the President submits to the appropriate congressional committees a report describing the manner in which such agreement would advance the national security and defense interests of the United States and not contribute to the proliferation of nuclear weapons.
+
+"(c)
+
+Form.—The report described in subsection (b) shall be submitted in unclassified form but may include a classified annex.
+
+"(d)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+&emsp;"(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives."
+
 #### Support for United States-Republic of Korea Civil Nuclear Cooperation
 
 Pub. L. 113–81, Feb. 12, 2014, 128 Stat. 1007, provided that:
@@ -152,7 +176,7 @@ Pub. L. 113–81, Feb. 12, 2014, 128 Stat. 1007, provided that:
 
 &emsp;"(3) Both the United States and Republic of Korea have a shared objective in strengthening the Treaty on the Non-Proliferation of Nuclear Weapons, done at London, Moscow, and Washington July 1, 1968, and a political and a commercial interest in working collaboratively to address challenges to their respective peaceful civil nuclear programs.
 
-&emsp;"(4) The nuclear energy agreement referred to in section 3 is scheduled to expire on March 19, 2014. Inorder to maintain healthy and uninterrupted cooperation in this area between the two countries while a new agreement is being negotiated, Congress should authorize the President to extend the duration of the current agreement until March 19, 2016.
+&emsp;"(4) The nuclear energy agreement referred to in section 3 is scheduled to expire on March 19, 2014. In order to maintain healthy and uninterrupted cooperation in this area between the two countries while a new agreement is being negotiated, Congress should authorize the President to extend the duration of the current agreement until March 19, 2016.
 
 #### "SEC. 3. EXTENSION OF NUCLEAR ENERGY AGREEMENT WITH THE REPUBLIC OF KOREA.
 
@@ -188,7 +212,7 @@ Act Aug. 1, 1946, ch. 724, title I, §125, as added by Apr. 12, 1957, Pub. L. 85
 
 Ex. Ord. No. 10841, eff. Sept. 30, 1959, 24 F.R. 7941, as amended by Ex. Ord. No. 10956, eff. Aug. 10, 1961, 26 F.R. 7315; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
-Section 1. Whenever the President, pursuant to section 123 of the Act \[this section\], has approved and authorized the execution of a proposed agreement providing for cooperation pursuant to section 91c, 144a, 144b, or 144c of the Act \[sections 2121(c), 2164(a), 2164(b), 2164 (c) of this title\], such approval and authorization by the President shall constitute his authorization to cooperate to the extent provided for in the agreement and in the manner provided for in section 91c, 144a, 144b, or 144c \[sections 2121(c), 2164(a), 2164(b), or 2164(c) of this title\], as pertinent. In respect of sections 91c, 144b, and 144c \[sections 2121(c), 2164(b), and 2164(c) of this title\], authorizations by the President to cooperate shall be subject to the requirements of sections 123d of the Act \[subsec. (d) of this section\] and shall also be subject to appropriate determinations made pursuant to section 2 of this order.
+Section 1. Whenever the President, pursuant to section 123 of the Act \[this section\], has approved and authorized the execution of a proposed agreement providing for cooperation pursuant to section 91c, 144a, 144b, or 144c of the Act \[sections 2121(c), 2164(a), 2164(b), 2164 (c) of this title\], such approval and authorization by the President shall constitute his authorization to cooperate to the extent provided for in the agreement and in the manner provided for in section 91c, 144a, 144b, or144c \[sections 2121(c), 2164(a), 2164(b), or 2164(c) of this title\], as pertinent. In respect of sections 91c, 144b, and 144c \[sections 2121(c), 2164(b), and 2164(c) of this title\], authorizations by the President to cooperate shall be subject to the requirements of sections 123d of the Act \[subsec. (d) of this section\] and shall also be subject to appropriate determinations made pursuant to section 2 of this order.
 
 Sec. 2. (a) The Secretary of Defense and the Secretary of Energy are hereby designated and empowered to exercise jointly, after consultation with executive agencies as may be appropriate, the following-described authority without the approval, ratification, or other action of the President:
 

@@ -36,7 +36,7 @@ Pub. L. 108–458, title I, subtitle H, Dec. 17, 2004, 118 Stat. 3697, as amende
 
 "(a)
 
-Transfer.—There shall be transferred to the Office of the Director of National Intelligence such staff of the Community Management Staff as of the date of the enactment of this Act \[Dec. 17, 2004\] as the Director of National Intelligence determines to be appropriate, including all functions and activities discharged by the Community Management Staff as of that date.
+Transfer.—There shall be transferred to the Office of the Director of National Intelligence such staff of the Community Management Staff as of the date of the enactment of this Act \[Dec. 17, 2004\] as the Director of National Intelligence determines to be appropriate,including all functions and activities discharged by the Community Management Staff as of that date.
 
 "(b)
 
@@ -233,7 +233,7 @@ Head of Central Intelligence Agency.—(1) During the period beginning on the da
 
 "(2) Upon the appointment of an individual as Director of the Central Intelligence Agency under section 104A of the National Security Act of 1947, as so amended, any reference in this Act, or in the classified annex to accompany this Act, to the Director of Central Intelligence as head of the Central Intelligence Agency shall be deemed to be a reference to the Director of the Central Intelligence Agency."
 
-Act Aug. 10, 1949, ch. 412, §12(g), 63 Stat. 591, provided: "All laws, orders, regulations, and other actions relating to the National Military Establishment, the Departments of the Army, the Navy, or the Air Force, or to any officer or activity of such establishment or such departments, shall, except to the extent inconsistent with the provisions of this Act \[see Tables for classification\], have the same effect as if this Act had not been enacted; but, after the effective date of this Act \[Aug. 10, 1949\], any such law, order, regulation, or other action which vested functions in or otherwise related to any officer, department, or establishment, shall be deemed to have vested such function in or relate to the officer or department, executive or military, succeeding the officer, department, or establishment in which such function was vested. For purposes of this subsection the Department of Defense shall be deemed the department succeeding the National Military Establishment, and the military departments of Army, Navy, and Air Force shall be deemed the departments succeeding the Executive Departments of Army, Navy, and Air Force."
+Act Aug. 10, 1949, ch. 412, §12(g), 63 Stat. 591, provided: "All laws, orders, regulations, and other actions relating to the National Military Establishment, the Departments of the Army, the Navy, or the Air Force, or to any officer or activity of such establishment or such departments, shall, except to the extent inconsistent with the provisions of this Act \[see Tables for classification\], have the same effect as if this Act had not been enacted; but, after the effective date of this Act \[Aug. 10, 1949\], any such law, order, regulation, or other action which vested functions in or otherwise related to any officer, department, or establishment, shall be deemed to have vested such function in or relate to the officer or department, executive or military, succeeding the officer, department, or establishment in whichsuch function was vested. For purposes of this subsection the Department of Defense shall be deemed the department succeeding the National Military Establishment, and the military departments of Army, Navy, and Air Force shall be deemed the departments succeeding the Executive Departments of Army, Navy, and Air Force."
 
 #### Separability
 
@@ -243,125 +243,15 @@ Pub. L. 108–458, title I, §1103, Dec. 17, 2004, 118 Stat. 3700, provided that
 
 Pub. L. 108–487, title VIII, §802, Dec. 23, 2004, 118 Stat. 3962, provided that: "Except as otherwise specifically provided or otherwise provided by context, any reference in this Act \[see Effective Date of 2004 Amendments note set out under section 2656f of Title 22, Foreign Relations and Intercourse\], or in the classified annex to accompany this Act, to the Director of Central Intelligence shall be deemed to be a reference to the Director of Central Intelligence as head of the intelligence community."
 
+#### Consideration of Adversarial Telecommunications and Cybersecurity Infrastructure When Sharing Intelligence With Foreign Governments and Entities
+
+Pub. L. 116–92, div. E, title LXIII, §6307, Dec. 20, 2019, 133 Stat. 2189, provided that: "Whenever the head of an element of the intelligence community enters into an intelligence-sharing agreement with a foreign government or any other foreign entity, the head of the element shall consider the pervasiveness of telecommunications and cybersecurity infrastructure, equipment, and services provided by adversaries of the United States, particularly China and Russia, or entities of such adversaries in the country or region of the foreign government or other foreign entity entering into the agreement."
+
+\[For definition of "intelligence community" as used in section 6307 of Pub. L. 116–92, set out above, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.\]
+
 #### Committee to Counter Active Measures by the Russian Federation To Exert Covert Influence Over Peoples and Governments
 
-Pub. L. 115–31, div. N, title V, §501, May 5, 2017, 131 Stat. 823, provided that:
-
-"(a)
-
-Definitions.—In this section:
-
-&emsp;"(1)
-
-Active measures by russia to exert covert influence.—The term 'active measures by Russia to exert covert influence' means activities intended to influence a person or government that are carried out in coordination with, or at the behest of, political leaders or the security services of the Russian Federation and the role of the Russian Federation has been hidden or not acknowledged publicly, including the following:
-
-&emsp;&emsp;"(A) Establishment or funding of a front group.
-
-&emsp;&emsp;"(B) Covert broadcasting.
-
-&emsp;&emsp;"(C) Media manipulation.
-
-&emsp;&emsp;"(D) Disinformation and forgeries.
-
-&emsp;&emsp;"(E) Funding agents of influence.
-
-&emsp;&emsp;"(F) Incitement and offensive counterintelligence.
-
-&emsp;&emsp;"(G) Assassinations.
-
-&emsp;&emsp;"(H) Terrorist acts.
-
-&emsp;"(2)
-
-Appropriate committees of congress.—The term 'appropriate committees of Congress' means—
-
-&emsp;&emsp;"(A) the congressional intelligence committees \[Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives\];
-
-&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
-
-&emsp;&emsp;"(C) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
-
-"(b)
-
-Establishment.—There is established within the executive branch an interagency committee to counter active measures by the Russian Federation to exert covert influence.
-
-"(c)
-
-Membership.—
-
-&emsp;"(1)
-
-In general.—
-
-&emsp;&emsp;"(A)
-
-Appointment.—Each head of an agency or department of the Government set out under subparagraph (B) shall appoint one member of the committee established by subsection (b) from among officials of such agency or department who occupy a position that is required to be appointed by the President, with the advice and consent of the Senate.
-
-&emsp;&emsp;"(B)
-
-Head of an agency or department.—The head of an agency or department of the Government set out under this subparagraph are the following:
-
-&emsp;&emsp;&emsp;"(i) The Director of National Intelligence.
-
-&emsp;&emsp;&emsp;"(ii) The Secretary of State.
-
-&emsp;&emsp;&emsp;"(iii) The Secretary of Defense.
-
-&emsp;&emsp;&emsp;"(iv) The Secretary of the Treasury.
-
-&emsp;&emsp;&emsp;"(v) The Attorney General.
-
-&emsp;&emsp;&emsp;"(vi) The Secretary of Energy.
-
-&emsp;&emsp;&emsp;"(vii) The Director of the Federal Bureau of Investigation.
-
-&emsp;&emsp;&emsp;"(viii) The head of any other agency or department of the United States Government designated by the President for purposes of this section.
-
-"(d)
-
-Meetings.—The committee shall meet on a regular basis.
-
-"(e)
-
-Duties.—The duties of the committee established by subsection (b) shall be as follows:
-
-&emsp;"(1) To counter active measures by Russia to exert covert influence, including by exposing falsehoods, agents of influence, corruption, human rights abuses, terrorism, and assassinations carried out by the security services or political elites of the Russian Federation or their proxies.
-
-&emsp;"(2) Such other duties as the President may designate for purposes of this section.
-
-"(f)
-
-Staff.—The committee established by subsection (b) may employ such staff as the members of such committee consider appropriate.
-
-"(g)
-
-Budget Request.—A request for funds required for the functioning of the committee established by subsection (b) may be included in each budget for a fiscal year submitted by the President pursuant to section 1105(a) of title 31, United States Code.
-
-"(h)
-
-Annual Report.—
-
-&emsp;"(1)
-
-Requirement.—Not later than 180 days after the date of the enactment of this Act \[May 5, 2017\], and annually thereafter, and consistent with the protection of intelligence sources and methods, the committee established by subsection (b) shall submit to the appropriate committees of Congress a report describing steps being taken by the committee to counter active measures by Russia to exert covert influence.
-
-&emsp;"(2)
-
-Content.—Each report required by paragraph (1) shall include the following:
-
-&emsp;&emsp;"(A) A summary of the active measures by the Russian Federation to exert covert influence during the previous year, including significant incidents and notable trends.
-
-&emsp;&emsp;"(B) A description of the key initiatives of the committee.
-
-&emsp;&emsp;"(C) A description of the implementation of the committee's initiatives by the head of an agency or department of the Government set out under subsection (c)(1)(B).
-
-&emsp;&emsp;"(D) An analysis of the impact of the committee's initiatives.
-
-&emsp;&emsp;"(E) Recommendations for changes to the committee's initiatives from the previous year.
-
-&emsp;"(3)
-
-Separate reporting requirement.—The requirement to submit an annual report under paragraph (1) is in addition to any other reporting requirements with respect to Russia."
+Pub. L. 115–31, div. N, title V, §501, May 5, 2017, 131 Stat. 823, which established an interagency committee to counter active measures by the Russian Federation to exert covert influence within the executive branch and was formerly set out as a note under this section, was transferred to section 3369d of this title.
 
 #### Charter for the National Reconnaissance Office
 
@@ -405,7 +295,7 @@ Pub. L. 106–120, title VII, Dec. 3, 1999, 113 Stat. 1620, established the Nati
 
 #### Commission on Roles and Capabilities of United States Intelligence Community
 
-Pub. L. 103–359, title IX, Oct. 14, 1994, 108 Stat. 3456, related to establishment, composition, duties, reports, powers, payment of expenses, and termination, not later than Mar. 1, 1996, of the Commission on the Roles and Capabilities of the United States Intelligence Community.
+Pub. L. 103–359, title IX, Oct. 14, 1994, 108 Stat. 3456, related to establishment, composition, duties, reports,powers, payment of expenses, and termination, not later than Mar. 1, 1996, of the Commission on the Roles and Capabilities of the United States Intelligence Community.
 
 #### National Commission on Defense and National Security
 
@@ -499,7 +389,7 @@ Quorum.—A majority of the members of the Commission shall constitute a quorum,
 
 "(f)
 
-Chairman and Vice Chairman.—The Chairman of the Commission shall be designated by the Presidentfrom among the members appointed by the President. The Vice Chairman of the Commission shall be designated by the Speaker of the House of Representatives from among the members appointed by the Speaker.
+Chairman and Vice Chairman.—The Chairman of the Commission shall be designated by the President from among the members appointed by the President. The Vice Chairman of the Commission shall be designated by the Speaker of the House of Representatives from among the members appointed by the Speaker.
 
 "(g)
 
@@ -535,7 +425,7 @@ Additional and Minority Views.—Each report may include such additional and min
 
 "(a)
 
-Director.—The Commission shall, without regard to section 5311(b) of title 5, United States Code, have a Director who shall be appointed by the Chairman and who shall be paid at a rate not to exceed the maximum rate of basic pay payable for GS–18 of the General Schedule.
+Director.—The Commission shall, without regard to section 5311(b) of title 5, United States Code,have a Director who shall be appointed by the Chairman and who shall be paid at a rate not to exceed the maximum rate of basic pay payable for GS–18 of the General Schedule.
 
 "(b)
 
@@ -603,7 +493,7 @@ Ex. Ord. No. 10431, Jan. 19, 1953, 18 F.R. 437, as amended by Ex. Ord. No. 13709
 
 1\. There is hereby established a medal to be known as the National Security Medal with accompanying ribbons and appurtenances. The medal and its appurtenances shall be of appropriate design, approved by the Executive Secretary of the National Security Council.
 
-2\. The National Security Medal may be awarded to any person, without regard to nationality, includingmembers of the Armed Forces of the United States, for distinguished achievement or outstanding contribution made on or after July 26, 1947, in the field of national security through either exceptionally meritorious service performed in a position of high responsibility or through an act of heroism requiring personal courage of a high degree and complete disregard of personal safety.
+2\. The National Security Medal may be awarded to any person, without regard to nationality, including members of the Armed Forces of the United States, for distinguished achievement or outstanding contribution made on or after July 26, 1947, in the field of national security through either exceptionally meritorious service performed in a position of high responsibility or through an act of heroism requiring personal courage of a high degree and complete disregard of personal safety.
 
 3\. The decoration established by this order shall be awarded by the President of the United States or, under regulations approved by him, by such person or persons as he may designate.
 
@@ -613,7 +503,7 @@ Ex. Ord. No. 10431, Jan. 19, 1953, 18 F.R. 437, as amended by Ex. Ord. No. 13709
 
 6\. The decoration established by this order may be awarded posthumously.
 
-7\. Any individual having personal knowledge of the facts of a potential recipient's exceptionally meritorious service or act of heroism, either as an eyewitness or from the testimony of others who have personal knowledge or were eyewitnesses, may recommend the potential recipient as a candidate for the award to the Executive Secretary of the National Security Council. Any recommendations shall be made with the concurrence of the department or agency employing the proposed recipient, if appropriate, and be accompanied by complete documentation, including, where necessary, certificates, affidavits, or sworn transcripts of testimony. Each recommendation for an award shall show the exact status, at the time of the rendition of the service on which the recommendation is based, with respect to citizenship, employment, and all other material factors of the person who is being recommended for the National Security Medal. Each recommendation shall contain a draft of an appropriate citation to accompany the award of the National Security Medal.
+7\. Any individual having personal knowledge of the facts of a potential recipient's exceptionally meritorious service or act of heroism, either as an eyewitness or from the testimony of others who have personal knowledge or were eyewitnesses, may recommend the potential recipient as a candidate for the award to the Executive Secretary of the National Security Council. Any recommendations shall be made with the concurrence of the department or agency employing the proposed recipient, if appropriate, and be accompanied by complete documentation, including, where necessary, certificates, affidavits, or sworn transcripts of testimony. Each recommendation for an award shall show the exact status, at the time of the rendition of theservice on which the recommendation is based, with respect to citizenship, employment, and all other material factors of the person who is being recommended for the National Security Medal. Each recommendation shall contain a draft of an appropriate citation to accompany the award of the National Security Medal.
 
 8\. Upon a determination by the Executive Secretary of the National Security Council that the National Security Medal is warranted, and following approval by the President, the Executive Secretary shall notify the Office of the Director of National Intelligence, which will then process the award recommendation, prepare the National Security Medal, with any appropriate devices, and deliver the National Security Medal to the National Security Council for presentation to the recipient.
 
@@ -665,7 +555,7 @@ The United States intelligence effort shall provide the President, the National 
 
 (e) Special emphasis shall be given to the production of timely, accurate, and insightful reports, responsive to decisionmakers in the executive branch, that draw on all appropriate sources of information, including open source information, meet rigorous analytic standards, consider diverse analytic viewpoints, and accurately represent appropriate alternative views.
 
-(f) State, local, and tribal governments are critical partners in securing and defending the United States from terrorism and other threats to the United Statesand its interests. Our national intelligence effort should take into account the responsibilities and requirements of State, local, and tribal governments and, as appropriate, private sector entities, when undertaking the collection and dissemination of information and intelligence to protect the United States.
+(f) State, local, and tribal governments are critical partners in securing and defending the United States from terrorism and other threats to the United States and its interests. Our national intelligence effort should take into account the responsibilities and requirements of State, local, and tribal governments and, as appropriate, private sector entities, when undertaking the collection and dissemination of information and intelligence to protect the United States.
 
 (g) All departments and agencies have a responsibility to prepare and to provide intelligence in a manner that allows the full and free exchange of information, consistent with applicable law and presidential guidance.
 
@@ -741,7 +631,7 @@ Subject to the authority, direction, and control of the President, the Director 
 
 (13) Shall establish uniform criteria for the determination of relative priorities for the transmission of critical foreign intelligence, and advise the Secretary of Defense concerning the communications requirements of the Intelligence Community for the transmission of such communications;
 
-(14) Shall have ultimate responsibility for production and dissemination of intelligence produced by the Intelligence Community and authority to levy analytic tasks on intelligence production organizations within the Intelligence Community, in consultation with the heads of the Intelligence Community elements concerned;
+(14) Shall have ultimate responsibility for production and dissemination of intelligence produced by the Intelligence Community and authority to levy analytic tasks on intelligence production organizations withinthe Intelligence Community, in consultation with the heads of the Intelligence Community elements concerned;
 
 (15) May establish advisory groups for the purpose of obtaining advice from within the Intelligence Community to carry out the Director's responsibilities, to include Intelligence Community executive management committees composed of senior Intelligence Community leaders. Advisory groups shall consist of representatives from elements of the Intelligence Community, as designated by the Director, or other executive branch departments, agencies, and offices, as appropriate;
 
@@ -775,15 +665,15 @@ Subject to the authority, direction, and control of the President, the Director 
 
 (d) Appointments to certain positions.
 
-(1) The relevant department or bureau head shall provide recommendations and obtain the concurrence of the Director for the selection of: the Director of the National Security Agency, the Director of the National Reconnaissance Office, the Director of the National Geospatial-Intelligence Agency, the Under Secretary of Homeland Security for Intelligence and Analysis, theAssistant Secretary of State for Intelligence and Research, the Director of the Office of Intelligence and Counterintelligence of the Department of Energy, the Assistant Secretary for Intelligence and Analysis of the Department of the Treasury, and the Executive Assistant Director for the National Security Branch of the Federal Bureau of Investigation. If the Director does not concur in the recommendation, the department head may not fill the vacancy or make the recommendation to the President, as the case may be. If the department head and the Director do not reach an agreement on the selection or recommendation, the Director and the department head concerned may advise the President directly of the Director's intention to withhold concurrence.
+(1) The relevant department or bureau head shall provide recommendations and obtain the concurrence of the Director for the selection of: the Director of the National Security Agency, the Director of the National Reconnaissance Office, the Director of the National Geospatial-Intelligence Agency, the Under Secretary of Homeland Security for Intelligence and Analysis, the Assistant Secretary of State for Intelligence and Research, the Director of the Office of Intelligence and Counterintelligence of the Department of Energy, the Assistant Secretary for Intelligence and Analysis of the Department of the Treasury, and the Executive Assistant Director for the National Security Branch of the Federal Bureau of Investigation. If the Director does not concur in the recommendation, the department head may not fill the vacancy or make the recommendation to the President, as the case may be. If the department head and the Director do not reach an agreement on the selection or recommendation, the Director and the department head concerned may advise the President directly of the Director's intention to withhold concurrence.
 
-(2) The relevant department head shall consult with the Director before appointing an individual to fill a vacancy or recommending to the President an individual be nominated to fill a vacancy in any of the following positions: the Under Secretary of Defense for Intelligence; the Director of the Defense Intelligence Agency; uniformed heads of the intelligence elements of the Army, the Navy, the Air Force, and the Marine Corps above the rank of Major General or Rear Admiral; the Assistant Commandant of the Coast Guard for Intelligence; and the Assistant Attorney General for National Security.
+(2) The relevant department head shall consult with the Director before appointing an individual to fill a vacancy or recommending to the President an individual be nominated to fill a vacancy in any of the following positions: the Under Secretary of Defense for Intelligence \[now Under Secretary of Defense for Intelligence and Security\]; the Director of the Defense Intelligence Agency; uniformed heads of the intelligence elements of the Army, the Navy, the Air Force, and the Marine Corps above the rank of Major General or Rear Admiral; the Assistant Commandant of the Coast Guard for Intelligence; and the Assistant Attorney General for National Security.
 
 (e) Removal from certain positions.
 
 (1) Except for the Director of the Central Intelligence Agency, whose removal the Director may recommend to the President, the Director and the relevant department head shall consult on the removal, or recommendation to the President for removal, as the case may be, of: the Director of the National Security Agency, the Director of the National Geospatial-Intelligence Agency, the Director of the Defense Intelligence Agency, the Under Secretary of Homeland Security for Intelligence and Analysis, the Assistant Secretary of State for Intelligence and Research, and the Assistant Secretary for Intelligence and Analysis of the Department of the Treasury. If the Director and the department head do not agree on removal, or recommendation for removal, either may make a recommendation to the President for the removal of the individual.
 
-(2) The Director and the relevant department or bureau head shall consult on the removal of: the Executive Assistant Director for the National Security Branch of the Federal Bureau of Investigation, the Director of the Office of Intelligence and Counterintelligence of the Department of Energy, the Director of the National Reconnaissance Office, the Assistant Commandant of the Coast Guard for Intelligence, and the Under Secretary of Defense for Intelligence. With respect to an individual appointed by a department head, the department head may remove the individual upon the request of the Director; if the department head chooses not to remove the individual, either the Director or the department head may advise the President of the department head's intention to retain the individual. In the case of the Under Secretary of Defense for Intelligence, the Secretary of Defense may recommend to the President either the removal or the retention of the individual. For uniformed heads of the intelligence elements of the Army, the Navy, the Air Force, and the Marine Corps, the Director may make a recommendation for removal to the Secretary of Defense.
+(2) The Director and the relevant department or bureau head shall consult on the removal of: the Executive Assistant Director for the National Security Branch of the Federal Bureau of Investigation, the Director of the Office of Intelligence and Counterintelligence of the Department of Energy, the Director of the National Reconnaissance Office, the Assistant Commandant of the Coast Guard for Intelligence, and the Under Secretary of Defense for Intelligence \[now Under Secretary of Defense for Intelligence and Security\]. With respect to an individual appointed by a department head, the department head may remove the individual upon the request of the Director; if the department head chooses not to remove the individual, either the Director or the department head may advise the President of the department head's intention to retain the individual. In the case of the Under Secretary of Defense for Intelligence, the Secretary of Defense may recommend to the President either the removal or the retention of the individual. For uniformed heads of the intelligence elements of the Army, the Navy, the Air Force, and the Marine Corps, the Director may make a recommendation for removal to the Secretary of Defense.
 
 (3) Nothing in this subsection shall be construed to limit or otherwise affect the authority of the President to nominate, appoint, assign, or terminate the appointment or assignment of any individual, with or without a consultation, recommendation, or concurrence.
 
@@ -829,7 +719,7 @@ The heads of all departments and agencies shall:
 
 (f) Ensure that all elements within the department or agency comply with the provisions of Part 2 of this order, regardless of Intelligence Community affiliation, when performing foreign intelligence and counterintelligence functions;
 
-(g) Deconflict, coordinate, and integrate all intelligence activities in accordance with section 1.3(b)(20),and intelligence and other activities in accordance with section 1.3(b)(21) of this order;
+(g) Deconflict, coordinate, and integrate all intelligence activities in accordance with section 1.3(b)(20), and intelligence and other activities in accordance with section 1.3(b)(21) of this order;
 
 (h) Inform the Attorney General, either directly or through the Federal Bureau of Investigation, and the Director of clandestine collection of foreign intelligence and counterintelligence activities inside the United States not coordinated with the Federal Bureau of Investigation;
 
@@ -1303,7 +1193,7 @@ Section 1. <i>Policy</i>. In order to enhance the national security of the Unite
 
 Sec. 2. <i>National Strategy for Professional Development</i>. Not later than 60 days after the date of this order, the Assistant to the President for Homeland Security and Counterterrorism (APHS/CT), in coordination with the Assistant to the President for National Security Affairs (APNSA), shall submit to the President for approval a National Strategy for the Development of Security Professionals (National Strategy). The National Strategy shall set forth a framework that will provide to security professionals access to integrated education, training, and professional experience opportunities for the purpose of enhancing their mission-related knowledge, skills, and experience and thereby improve their capability to safeguard the security of the Nation. Such opportunities shall be provided across organizations, levels of government, and incident management disciplines, as appropriate.
 
-Sec. 3. <i>Executive Steering Committee</i>. (a) There is established the Security Professional Development Executive Steering Committee (Steering Committee), which shall facilitate the implementation of the National Strategy. Not later than 120 days after the approval of the National Strategy by the President, the Steering Committee shall submit to the APHS/CT and theAPNSA an implementation plan (plan) for the National Strategy, and annually thereafter shall submit to the APHS/CT and the APNSA a status report on the implementation of the plan and any recommendations for changes to the National Strategy.
+Sec. 3. <i>Executive Steering Committee</i>. (a) There is established the Security Professional Development Executive Steering Committee (Steering Committee), which shall facilitate the implementation of the National Strategy. Not later than 120 days after the approval of the National Strategy by the President, the Steering Committee shall submit to the APHS/CT and the APNSA an implementation plan (plan) for the National Strategy, and annually thereafter shall submit to the APHS/CT and the APNSA a status report on the implementation of the plan and any recommendations for changes to the National Strategy.
 
 (b) The Steering Committee shall consist exclusively of the following members (or their designees who shall be full-time officers or employees of the members' respective agencies):
 
@@ -1339,7 +1229,7 @@ Sec. 3. <i>Executive Steering Committee</i>. (a) There is established the Securi
 
 (xvi) such other officers of the United States as the Chair of the Steering Committee may designate from time to time.
 
-(c) The Steering Committee shall coordinate, to the maximum extent practicable, national security professional development programs and guidance issued by the heads of agencies in order to ensure an integrated approach to such programs.
+(c) The Steering Committee shall coordinate, to the maximum extent practicable, national security professional development programs and guidance issued bythe heads of agencies in order to ensure an integrated approach to such programs.
 
 (d) The Chair of the Steering Committee shall convene and preside at the meetings of the Steering Committee, set its agenda, coordinate its work, and, as appropriate to deal with particular subject matters, establish subcommittees of the Steering Committee that shall consist exclusively of members of the Steering Committee (or their designees under subsection (b) of this section), and such other full-time or permanent part-time officers or employees of the Federal Government as the Chair may designate.
 
@@ -1389,7 +1279,7 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 (c) "intelligence community" means the organizations listed in or designated pursuant to section 3(4) of the National Security Act of 1947, as amended.
 
-Sec. 3. <i>Establishment of the President's Intelligence Advisory Board</i>. (a) There is hereby established, within theExecutive Office of the President and exclusively to advise and assist the President as set forth in this order, the President's Intelligence Advisory Board (PIAB).
+Sec. 3. <i>Establishment of the President's Intelligence Advisory Board</i>. (a) There is hereby established, within the Executive Office of the President and exclusively to advise and assist the President as set forth in this order, the President's Intelligence Advisory Board (PIAB).
 
 (b) The PIAB shall consist of not more than 16 members appointed by the President from among individuals who are not full-time employees of the Federal Government.
 
@@ -1405,7 +1295,7 @@ Sec. 3. <i>Establishment of the President's Intelligence Advisory Board</i>. (a)
 
 Sec. 4. <i>Functions of the PIAB</i>. Consistent with the policy set forth in section 1 of this order, the PIAB shall have the authority to, as the PIAB determines appropriate, or shall, when directed by the President:
 
-(a) assess the quality, quantity, and adequacy of intelligence collection, of analysis and estimates, and of counterintelligence and other intelligence activities, assess the adequacy of management, personnel and organization in the intelligence community, and review the performance of all agencies of the Federal Government that are engaged in the collection, evaluation, or production of intelligence or the execution of intelligence policy and report the results of such assessments or reviews:
+(a) assess the quality, quantity, and adequacy of intelligence collection, of analysis and estimates, and ofcounterintelligence and other intelligence activities, assess the adequacy of management, personnel and organization in the intelligence community, and review the performance of all agencies of the Federal Government that are engaged in the collection, evaluation, or production of intelligence or the execution of intelligence policy and report the results of such assessments or reviews:
 
 (i) to the President, as necessary but not less than twice each year; and
 
@@ -1485,7 +1375,7 @@ Sec. 8. <i>Functions of Heads of Departments Concerned and Additional Functions 
 
 (d) The DNI shall ensure that the Director of the Central Intelligence Agency performs the functions with respect to the Central Intelligence Agency under this order that a head of a department concerned performs with respect to organizations within the intelligence community that are part of that department.
 
-Sec. 9. <i>References and Transition</i>. (a) References in Executive Orders other than this order, or in any other presidential guidance, to the "President's Foreign Intelligence Advisory Board" shall be deemed to be references to the President's Intelligence Advisory Board established by this order.
+Sec. 9. <i>References and Transition</i>. (a) References in Executive Orders other than this order, or in any otherpresidential guidance, to the "President's Foreign Intelligence Advisory Board" shall be deemed to be references to the President's Intelligence Advisory Board established by this order.
 
 (b) Individuals who are members of the President's Foreign Intelligence Advisory Board under Executive Order 12863 of September 13, 1993, as amended, immediately prior to the signing of this order shall be members of the President's Intelligence Advisory Board immediately upon the signing of this order, to serve as such consistent with this order until the date that is 15 months following the date of this order.
 
@@ -1513,7 +1403,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13732. United States Policy on Pre- and Post-Strike Measures To Address Civilian Casualties in U.S. Operations Involving the Use of Force
 
-Ex. Ord. No. 13732, July 1, 2016, 81 F.R. 44485, provided:
+Ex. Ord. No. 13732, July 1, 2016, 81 F.R. 44485, as amended by Ex. Ord. No. 13862, §2, Mar. 6, 2019, 84 F.R. 8789, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct as follows:
 
@@ -1533,7 +1423,7 @@ Sec. 2. <i>Policy</i>. In furtherance of U.S. Government efforts to protect civi
 
 (iii) develop, acquire, and field weapon systems and other technological capabilities that further enable the discriminate use of force in different operational contexts;
 
-(iv) take feasible precautions in conducting attacks to reduce the likelihood of civilian casualties, such as providing warnings to the civilian population (unless the circumstances do not permit), adjusting the timing of attacks, taking steps to ensure military objectivesand civilians are clearly distinguished, and taking other measures appropriate to the circumstances; and
+(iv) take feasible precautions in conducting attacks to reduce the likelihood of civilian casualties, such as providing warnings to the civilian population (unless the circumstances do not permit), adjusting the timing of attacks, taking steps to ensure military objectives and civilians are clearly distinguished, and taking other measures appropriate to the circumstances; and
 
 (v) conduct assessments that assist in the reduction of civilian casualties by identifying risks to civilians and evaluating efforts to reduce risks to civilians.
 
@@ -1545,15 +1435,9 @@ Sec. 2. <i>Policy</i>. In furtherance of U.S. Government efforts to protect civi
 
 (iii) engage with foreign partners to share and learn best practices for reducing the likelihood of and responding to civilian casualties, including through appropriate training and assistance; and
 
-(iv) maintain channels for engagement with the International Committee of the Red Cross and other nongovernmental organizations that operate in conflict zones and encourage such organizations to assist in efforts to distinguish between military objectives and civilians, including by appropriately marking protected facilities, vehicles, and personnel, and by providing updated information on the locations of such facilities and personnel.
+(iv) maintain channels for engagement with the International Committee of the Red Cross and other nongovernmental organizations that operate in conflict zones and encourage such organizations to assist in efforts to distinguish between military objectives and civilians, including by appropriately marking protectedfacilities, vehicles, and personnel, and by providing updated information on the locations of such facilities and personnel.
 
-Sec. 3. <i>Report on Strikes Undertaken by the U.S. Government Against Terrorist Targets Outside Areas of Active Hostilities</i>. (a) The Director of National Intelligence (DNI), or such other official as the President may designate, shall obtain from relevant agencies information about the number of strikes undertaken by the U.S. Government against terrorist targets outside areas of active hostilities from January 1, 2016, through December 31, 2016, as well as assessments of combatant and non-combatant deaths resulting from those strikes, and publicly release an unclassified summary of such information no later than May 1, 2017. By May 1 of each subsequent year, as consistent with the need to protect sources and methods, the DNI shall publicly release a report with the same information for the preceding calendar year.
-
-(b) The annual report shall also include information obtained from relevant agencies regarding the general sources of information and methodology used to conduct these assessments and, as feasible and appropriate, shall address the general reasons for discrepancies between post-strike assessments from the U.S. Government and credible reporting from nongovernmental organizations regarding non-combatant deaths resulting from strikes undertaken by the U.S. Government against terrorist targets outside areas of active hostilities.
-
-(c) In preparing a report under this section, the DNI shall review relevant and credible post-strike all-source reporting, including such information from nongovernmental sources, for the purpose of ensuring that this reporting is available to and considered by relevant agencies in their assessment of deaths.
-
-(d) The Assistant to the President for National Security Affairs may, as appropriate, request that the head of any relevant agency conduct additional reviews related to the intelligence assessments of deaths from strikes against terrorist targets outside areas of active hostilities.
+Sec. 3. <i>Report on Strikes Undertaken by the U.S. Government Against Terrorist Targets Outside Areas of Active Hostilities</i>. \[Revoked by Ex. Ord. No. 13862, §2, Mar. 6, 2019, 84 F.R. 8789.\]
 
 Sec. 4. <i>Periodic Consultation</i>. In furtherance of the policies and practices set forth in this order, the Assistant to the President for National Security Affairs, through the National Security Council staff, will convene agencies with relevant defense, counterterrorism, intelligence, legal, civilian protection, and technology expertise to consult on civilian casualty trends, consider potential improvements to U.S. Government civilian casualty mitigation efforts, and, as appropriate, report to the Deputies and Principals Committees, consistent with Presidential Policy Directive 1 or its successor. Specific incidents will not be considered in this context, and will continue to be examined within relevant chains of command.
 
@@ -1566,8 +1450,6 @@ Sec. 5. <i>General Provisions</i>. (a) The policies and practices set forth abov
 (d) The policies set forth in this order are consistent with existing U.S. obligations under international law and are not intended to create new international legal obligations; nor shall anything in this order be construed to derogate from obligations under applicable law, including the law of armed conflict.
 
 (e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Effective Dates of Provisions in Title I of the Intelligence Reform and Terrorism Prevention Act of 2004
 

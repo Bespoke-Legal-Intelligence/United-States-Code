@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Bureau may take any action authorized under part E to prevent a covered person or service provider from committing or engaging in an unfair, deceptive, or abusive act or practice under Federal law in connection with any transaction with a consumer for a consumer financial product or service, or the offering of a consumer financial product or service.
+The Bureau may take any action authorized under part E to prevent a covered person or service provider from committing or engaging inan unfair, deceptive, or abusive act or practice under Federal law in connection with any transaction with a consumer for a consumer financial product or service, or the offering of a consumer financial product or service.
 
 #### (b) Rulemaking
 
@@ -20,7 +20,7 @@ The Bureau may prescribe rules applicable to a covered person or service provide
 
 #### (2) Consideration of public policies
 
-&emsp;In determining whether an act or practice is unfair, the Bureau may consider establishedpublic policies as evidence to be considered with all other evidence. Such public policy considerations may not serve as a primary basis for such determination.
+&emsp;In determining whether an act or practice is unfair, the Bureau may consider established public policies as evidence to be considered with all other evidence. Such public policy considerations may not serve as a primary basis for such determination.
 
 #### (d) Abusive
 

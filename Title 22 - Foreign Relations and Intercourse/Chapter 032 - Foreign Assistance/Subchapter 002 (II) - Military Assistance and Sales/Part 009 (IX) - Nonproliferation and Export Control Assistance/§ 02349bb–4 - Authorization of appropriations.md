@@ -34,7 +34,7 @@ The FREEDOM Support Act, referred to in subsec. (d)(4), is Pub. L. 102–511, Oc
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–228, §1301(a)(1), substituted "$162,000,000 for fiscal year 2003" for"$129,000,000 for fiscal year 2001 and $142,000,000 for fiscal year 2002".
+<b>2002</b>—Subsec. (a). Pub. L. 107–228, §1301(a)(1), substituted "$162,000,000 for fiscal year 2003" for "$129,000,000 for fiscal year 2001 and $142,000,000 for fiscal year 2002".
 
 Subsec. (c). Pub. L. 107–228, §1301(a)(2), struck out "fiscal year 2001" before "appropriations" in heading and substituted "2002" for "2001" in text.
 

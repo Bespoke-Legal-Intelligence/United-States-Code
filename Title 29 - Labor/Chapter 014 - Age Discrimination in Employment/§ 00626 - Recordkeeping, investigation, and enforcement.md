@@ -24,7 +24,7 @@ The provisions of this chapter shall be enforced in accordance with the powers, 
 
 (2) Upon receiving such a charge, the Commission shall promptly notify all persons named in such charge as prospective defendants in the action and shall promptly seek to eliminate any alleged unlawful practice by informal methods of conciliation, conference, and persuasion.
 
-(3) For purposes of this section, an unlawful practice occurs, with respect to discrimination in compensation in violation of this chapter, when a discriminatory compensation decision or other practice is adopted, when a person becomes subject to a discriminatory compensation decision or other practice, or when a person is affected by application of a discriminatory compensation decision or other practice, including each time wages, benefits, or other compensation is paid, resulting in whole or in part from such a decision or other practice.
+(3) For purposes of this section, an unlawful practice occurs, with respect to discrimination in compensation in violation of this chapter, when a discriminatory compensation decision or other practice is adopted, when a person becomes subject to a discriminatory compensation decision or other practice, or when a person is affected by application of a discriminatory compensation decision or other practice, includingeach time wages, benefits, or other compensation is paid, resulting in whole or in part from such a decision or other practice.
 
 #### (e) Reliance on administrative rulings; notice of dismissal or termination; civil action after receipt of notice
 

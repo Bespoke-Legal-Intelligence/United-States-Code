@@ -150,7 +150,7 @@ Pub. L. 100–360, title III, §301(e)(3), July 1, 1988, 102 Stat. 750, provided
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date,see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
 #### Effective Date of 1983 Amendment; Transitional Rule
 

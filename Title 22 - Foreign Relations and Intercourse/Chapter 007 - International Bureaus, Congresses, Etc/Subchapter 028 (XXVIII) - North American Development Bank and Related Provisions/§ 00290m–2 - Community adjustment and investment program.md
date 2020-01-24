@@ -42,7 +42,7 @@
 
 #### (B) Representation
 
-&emsp;&emsp;Each of the categories described in clauses (i) through (iv) of subparagraph (A) shall berepresented by no fewer than 1 and no more than 3 members of the Advisory Committee.
+&emsp;&emsp;Each of the categories described in clauses (i) through (iv) of subparagraph (A) shall be represented by no fewer than 1 and no more than 3 members of the Advisory Committee.
 
 #### (3) Function
 

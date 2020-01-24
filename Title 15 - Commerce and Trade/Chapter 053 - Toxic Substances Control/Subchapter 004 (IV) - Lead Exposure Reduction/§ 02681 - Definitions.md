@@ -68,7 +68,7 @@ For the purposes of this subchapter:
 
 #### (15) Residential real property
 
-&emsp;The term "residential real property" means real property on which there is situated 1 or more residential dwellings used or occupied, or intended to be used or occupied, in whole or in part, as the home or residence of 1 or more persons.
+&emsp;The term "residential real property" means real property on which there is situated 1 or more residential dwellings used or occupied, orintended to be used or occupied, in whole or in part, as the home or residence of 1 or more persons.
 
 #### (16) Risk assessment
 
@@ -92,7 +92,7 @@ For the purposes of this subchapter:
 
 #### Amendments
 
-<b>2017</b>—Par. (17). Pub. L. 115–31, §237(c)(1), which directed insertion of "or any 0-bedroom dwelling" after"disabilities,", was executed by making the insertion after "disabilities" the first place appearing to reflect the probable intent of Congress.
+<b>2017</b>—Par. (17). Pub. L. 115–31, §237(c)(1), which directed insertion of "or any 0-bedroom dwelling" after "disabilities,", was executed by making the insertion after "disabilities" the first place appearing to reflect the probable intent of Congress.
 
 Pub. L. 115–31, §237(c)(2), which directed substitution of "housing)" for "housing for the elderly or persons with disabilities) or any 0 bedroom dwelling", was executed by making the substitution for "housing for the elderly or persons with disabilities) or any 0-bedroom dwelling" to reflect the probable intent of Congress.
 

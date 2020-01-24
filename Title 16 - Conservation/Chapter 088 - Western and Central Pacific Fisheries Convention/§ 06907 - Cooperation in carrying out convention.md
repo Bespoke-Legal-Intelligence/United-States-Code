@@ -44,7 +44,7 @@ Except as provided in subsection (e) of this section, nothing in this chapter sh
 
 #### (f) Review of State laws and regulations
 
-To ensure that the purposes of subsection (e) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (e) applies or may apply and the extent to which such laws and regulations are enforced.
+To ensure that the purposes of subsection (e) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (e) applies or mayapply and the extent to which such laws and regulations are enforced.
 
 (Pub. L. 109–479, title V, §508, Jan. 12, 2007, 120 Stat. 3642.)
 

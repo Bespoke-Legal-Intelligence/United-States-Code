@@ -6,7 +6,7 @@ For the purposes of this chapter:
 
 &emsp;(2) The term "Commission" means the Federal Trade Commission.
 
-&emsp;(3) The term "consumer" means a buyer (other than for purposes of resale) of any consumer product, any person to whom such product is transferred during the duration of animplied or written warranty (or service contract) applicable to the product, and any other person who is entitled by the terms of such warranty (or service contract) or under applicable State law to enforce against the warrantor (or service contractor) the obligations of the warranty (or service contract).
+&emsp;(3) The term "consumer" means a buyer (other than for purposes of resale) of any consumer product, any person to whom such product is transferred during the duration of an implied or written warranty (or service contract) applicable to the product, and any other person who is entitled by the terms of such warranty (or service contract) or under applicable State law to enforce against the warrantor (or service contractor) the obligations of the warranty (or service contract).
 
 &emsp;(4) The term "supplier" means any person engaged in the business of making a consumer product directly or indirectly available to consumers.
 
@@ -62,5 +62,5 @@ Pub. L. 114–51, §1, Sept. 24, 2015, 129 Stat. 494, provided that: "This Act \
 
 #### Short Title
 
-Pub. L. 93–637, §1, Jan. 4, 1975, 88 Stat. 2183, provided: "That this act \[enacting this chapter and sections 57a to 57c of this title, amending sections 45, 46, 49, 50, 52, 56, and 58 of this title, and enacting provisions set out as notes under sections 45, 56, 57a, and 57b of this title\] may be cited as the 'Magnuson-Moss Warranty—Federal Trade Commission Improvement Act'."
+Pub. L. 93–637, §1, Jan. 4, 1975, 88 Stat. 2183, provided: "That this act \[enacting this chapter and sections 57ato 57c of this title, amending sections 45, 46, 49, 50, 52, 56, and 58 of this title, and enacting provisions set out as notes under sections 45, 56, 57a, and 57b of this title\] may be cited as the 'Magnuson-Moss Warranty—Federal Trade Commission Improvement Act'."
 

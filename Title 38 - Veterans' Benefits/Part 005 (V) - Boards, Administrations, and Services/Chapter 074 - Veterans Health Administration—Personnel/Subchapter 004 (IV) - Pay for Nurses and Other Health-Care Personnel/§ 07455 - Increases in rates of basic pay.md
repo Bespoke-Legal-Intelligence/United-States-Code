@@ -92,7 +92,7 @@ Sec. 3. The Secretary of Veterans Affairs shall provide to the Director of the O
 
 Sec. 4. The Director of the Office of Personnel Management shall provide the Secretary of Veterans Affairs with a copy of any written statement provided to the appropriate committees of the Congress that sets forth the reasons for disapproval of any proposed increase in rates of basic pay under this order.
 
-Sec. 5. In the case of any other law authorizing another agency to use the authority provided by section 7455 of title 38, United States Code, the Director of the Office of Personnel Management shall exercise the same authority in the same manner as provided for with respect to section 7455 under sections 1 through 4 of this order, and the head of such other agency shall provide information requested by the Director as provided for in section 3 of this order.
+Sec. 5. In the case of any other law authorizing another agency to use the authority provided by section 7455 of title 38, United States Code, the Director of the Office of Personnel Management shall exercise the same authority in the same manner as provided for with respect to section 7455 under sections 1 through 4of this order, and the head of such other agency shall provide information requested by the Director as provided for in section 3 of this order.
 
 Sec. 6. Executive Order No. 12438 of August 23, 1983, is revoked.
 

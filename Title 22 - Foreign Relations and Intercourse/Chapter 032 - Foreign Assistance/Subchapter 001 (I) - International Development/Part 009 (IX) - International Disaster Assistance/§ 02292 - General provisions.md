@@ -16,7 +16,7 @@ Subject to limitations in section 2292a of this title, and notwithstanding any o
 
 #### (2) Designation
 
-&emsp;Funds made available under this subsection shall be known as the "International DisasterAssistance – Emergency Food Security Program".
+&emsp;Funds made available under this subsection shall be known as the "International Disaster Assistance – Emergency Food Security Program".
 
 #### (d) Specific direction
 

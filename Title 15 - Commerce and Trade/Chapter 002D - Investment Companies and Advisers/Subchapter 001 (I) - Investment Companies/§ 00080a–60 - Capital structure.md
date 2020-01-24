@@ -46,7 +46,7 @@ Notwithstanding the exemption set forth in section 80a–6(f) of this title, sec
 
 &emsp;&emsp;&emsp;(ii) such warrants, options, or rights are not separately transferable unless no class of such warrants, options, or rights and the securities accompanying them has been publicly distributed;
 
-&emsp;&emsp;&emsp;(iii) the exercise or conversion price is not less than the current market value atthe date of issuance, or if no such market value exists, the current net asset value of such voting securities; and
+&emsp;&emsp;&emsp;(iii) the exercise or conversion price is not less than the current market value at the date of issuance, or if no such market value exists, the current net asset value of such voting securities; and
 
 &emsp;&emsp;&emsp;(iv) the proposal to issue such securities is authorized by the shareholders or partners of such business development company, and such issuance is approved by the required majority (as defined in section 80a–56(o) of this title) of the directors of or general partners in such company on the basis that such issuance is in the best interests of such company and its shareholders or partners;
 

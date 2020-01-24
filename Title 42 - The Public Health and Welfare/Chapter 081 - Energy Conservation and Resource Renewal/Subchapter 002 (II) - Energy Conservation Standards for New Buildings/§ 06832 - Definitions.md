@@ -8,7 +8,7 @@ As used in this subchapter:
 
 &emsp;(3) The term "building code" means a legal instrument which is in effect in a State or unit of general purpose local government, the provisions of which must be adhered to if a building is to be considered to be in conformance with law and suitable for occupancy and use.
 
-&emsp;(4) The term "commercial building" means any building other than a residential building,including any building developed for industrial or public purposes.
+&emsp;(4) The term "commercial building" means any building other than a residential building, including any building developed for industrial or public purposes.
 
 &emsp;(5) The term "Federal agency" means any department, agency, corporation, or other entity or instrumentality of the executive branch of the Federal Government, including the United States Postal Service, the Federal National Mortgage Association, and the Federal Home Loan Mortgage Corporation.
 

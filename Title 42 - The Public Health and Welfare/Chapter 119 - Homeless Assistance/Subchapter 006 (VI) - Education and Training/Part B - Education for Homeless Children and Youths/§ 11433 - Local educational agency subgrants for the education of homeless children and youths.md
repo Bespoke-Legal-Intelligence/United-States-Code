@@ -48,7 +48,7 @@ A local educational agency that desires to receive a subgrant under this section
 
 &emsp;(3) An assurance that the local educational agency's combined fiscal effort per student, or the aggregate expenditures of that agency and the State with respect to the provision of free public education by such agency for the fiscal year preceding the fiscal year for which the determination is made, was not less than 90 percent of such combined fiscal effort or aggregate expenditures for the second fiscal year preceding the fiscal year for which the determination is made.
 
-&emsp;(4) An assurance that the applicant complies with, or will use requested funds to complywith, paragraphs (3) through (7) of section 11432(g) of this title.
+&emsp;(4) An assurance that the applicant complies with, or will use requested funds to comply with, paragraphs (3) through (7) of section 11432(g) of this title.
 
 &emsp;(5) A description of policies and procedures, consistent with section 11432(e)(3) of this title, that the agency will implement to ensure that activities carried out by the agency will not isolate or stigmatize homeless children and youths.
 
@@ -108,9 +108,9 @@ A local educational agency may use funds awarded under this section for activiti
 
 &emsp;(4) The provision of referral services to homeless children and youths for medical, dental, mental, and other health services.
 
-&emsp;(5) The provision of assistance to defray the excess cost of transportation for students under section 11432(g)(4)(A) of this title, not otherwise provided through Federal, State, or local funding, where necessary to enable students to attend the school selected under section 11432(g)(3) of this title.
+&emsp;(5) The provision of assistance to defray the excess cost of transportation for students under section 11432(g)(4)(A) of this title, not otherwise provided through Federal, State, orlocal funding, where necessary to enable students to attend the school selected under section 11432(g)(3) of this title.
 
-&emsp;(6) The provision of developmentally appropriate early childhood education programs,not otherwise provided through Federal, State, or local funding, for preschool-aged homeless children.
+&emsp;(6) The provision of developmentally appropriate early childhood education programs, not otherwise provided through Federal, State, or local funding, for preschool-aged homeless children.
 
 &emsp;(7) The provision of services and assistance to attract, engage, and retain homeless children and youths, particularly homeless children and youths who are not enrolled in school, in public school programs and services provided to nonhomeless children and youths.
 

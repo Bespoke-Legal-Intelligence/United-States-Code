@@ -54,7 +54,7 @@ Reports.—Not later than 30 days after acting on a complaint under this section
 
 (g)
 
-Actions Against Discriminatory Activity by Foreign CRS Systems.—The Secretary of Transportation may take such actions as the Secretary considers are in the public interest to eliminate an activity of a foreign air carrier that owns or markets a computer reservations system, or of a computer reservations system firm whose principal offices are located outside the United States, when the Secretary, on the initiative of the Secretary or on complaint, decides that the activity, with respect to airline service—
+Actions Against Discriminatory Activity by Foreign CRS Systems.—The Secretary of Transportation may take such actions as the Secretary considers are in the public interest to eliminate an activity of a foreign air carrier that owns or markets a computer reservations system, or of a computer reservations systemfirm whose principal offices are located outside the United States, when the Secretary, on the initiative of the Secretary or on complaint, decides that the activity, with respect to airline service—
 
 &emsp;(1) is an unjustifiable or unreasonable discriminatory, predatory, or anticompetitive practice against a computer reservations system firm whose principal offices are located inside the United States; or
 
@@ -140,7 +140,7 @@ In subsections (c)(1) and (d)(1), before each clause (A), the words "foreign ent
 
 In subsection (c)(2), the words "alteration", "cancellation", "limitation", and "pursuant to the powers of the Secretary" are omitted as surplus.
 
-In subsection (d)(1), before clause (A), the words "department, agency, or instrumentality of the United States Government" are substituted for "agency of the Government of the United States" for consistency in the revised title and with other titles of the Code. Thewords "additional periods totaling not more than 30 days" are substituted for "an additional period or periods of up to 30 days each" for clarity because the amendment made by section 10111 of the Omnibus Trade and Competitiveness Act of 1988 (Public Law 100–418, 102 Stat. 1573) changed the additional period within which the Secretary had to act to only 30 days. The word "initial" is added for clarity.
+In subsection (d)(1), before clause (A), the words "department, agency, or instrumentality of the United States Government" are substituted for "agency of the Government of the United States" for consistency in the revised title and with other titles of the Code. The words "additional periods totaling not more than 30 days" are substituted for "an additional period or periods of up to 30 days each" for clarity because the amendment made by section 10111 of the Omnibus Trade and Competitiveness Act of 1988 (Public Law 100–418, 102 Stat. 1573) changed the additional period within which the Secretary had to act to only 30 days. The word "initial" is added for clarity.
 
 In subsection (d)(2)(A), the words "the Secretaries of Commerce and State and the United States Trade Representative" are substituted for "the Department of State, the Department of Commerce, and the Office of the United States Trade Representative" because of 15:1501, 22:2651, and 19:2171, respectively.
 

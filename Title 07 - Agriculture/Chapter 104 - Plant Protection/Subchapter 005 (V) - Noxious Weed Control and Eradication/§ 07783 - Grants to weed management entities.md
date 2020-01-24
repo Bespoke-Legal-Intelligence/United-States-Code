@@ -30,7 +30,7 @@ In determining the amount of a grant to a weed management entity, the Secretary 
 
 #### (A) Federal cost share
 
-&emsp;&emsp;The Federal share of the cost of carrying out an authorized project under this sectionexclusively on non-Federal land shall not exceed 50 percent.
+&emsp;&emsp;The Federal share of the cost of carrying out an authorized project under this section exclusively on non-Federal land shall not exceed 50 percent.
 
 #### (B) Form of non-Federal cost share
 

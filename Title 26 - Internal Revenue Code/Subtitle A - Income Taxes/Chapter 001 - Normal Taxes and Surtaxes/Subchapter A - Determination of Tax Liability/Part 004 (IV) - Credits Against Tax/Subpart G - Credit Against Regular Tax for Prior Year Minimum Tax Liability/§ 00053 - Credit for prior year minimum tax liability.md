@@ -2,7 +2,7 @@
 
 #### (a) Allowance of credit
 
-There shall be allowed as a credit against the tax imposed by this chapter for any taxable year an amount equal to the minimum tax credit for such taxable year.
+There shall be allowed as a credit against the tax imposed by this chapter for any taxable yearan amount equal to the minimum tax credit for such taxable year.
 
 #### (b) Minimum tax credit
 
@@ -84,13 +84,13 @@ For purposes of this section—
 
 #### (4) Short taxable years
 
-&emsp;In the case of any taxable year of less than 365 days, the AMT refundable credit amount determined under paragraph (2) with respect to such taxable year shall be the amountwhich bears the same ratio to such amount determined without regard to this paragraph as the number of days in such taxable year bears to 365.
+&emsp;In the case of any taxable year of less than 365 days, the AMT refundable credit amount determined under paragraph (2) with respect to such taxable year shall be the amount which bears the same ratio to such amount determined without regard to this paragraph as the number of days in such taxable year bears to 365.
 
 (Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 108–357, title IV, §421(a)(2), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 109–58, title XIII, §1322(a)(3)(G), Aug. 8, 2005, 119 Stat. 1012; Pub. L. 109–432, div. A, title IV, §402(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–172, §2(a), Dec. 29, 2007, 121 Stat. 2473; Pub. L. 110–343, div. C, title I, §103(a), (b), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §1142(b)(4), Feb. 17, 2009, 123 Stat. 331; Pub. L. 113–295, div. A, title II, §221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038; Pub. L. 115–97, title I, §§12001(b)(2), 12002(a), (b), Dec. 22, 2017, 131 Stat. 2092, 2094.)
 
 #### References in Text
 
-The Tax Cuts and Jobs Act, referred to in subsec. (d)(3), probably means title I of Pub. L. 115–97, Dec. 22, 2017, 131 Stat. 2054. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97. For complete classification of title I of Pub. L. 115–97 to the Code, see Tables.
+The Tax Cuts and Jobs Act, referred to in subsec. (d)(3), probably means title I of Pub. L. 115–97, Dec. 22, 2017, 131 Stat. 2054. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub.L. 115–97. For complete classification of title I of Pub. L. 115–97 to the Code, see Tables.
 
 #### Prior Provisions
 

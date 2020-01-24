@@ -206,7 +206,7 @@ The Secretary may make a grant under subsection (a) or (b) only if the applicant
 
 &emsp;The authorization of appropriations established in paragraph (1) for a fiscal year is effective only if the amount appropriated under such paragraph for such year equals or exceeds the amount appropriated to carry out this section for fiscal year 2009.
 
-(July 1, 1944, ch. 373, title III, §317E, as added Pub. L. 103–183, title III, §301(a), Dec. 14, 1993, 107 Stat. 2233; amended Pub. L. 105–392, title IV, §§401(b)(1), 405, Nov. 13, 1998, 112 Stat. 3587, 3588; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023; Pub. L. 110–392, title I, §§101, 111(a), (c), 131, Oct. 13, 2008, 122 Stat. 4196, 4197, 4199, 4200.)
+(July 1, 1944, ch. 373, title III, §317E, as added Pub. L. 103–183, title III, §301(a), Dec. 14, 1993, 107Stat. 2233; amended Pub. L. 105–392, title IV, §§401(b)(1), 405, Nov. 13, 1998, 112 Stat. 3587, 3588; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023; Pub. L. 110–392, title I, §§101, 111(a), (c), 131, Oct. 13, 2008, 122 Stat. 4196, 4197, 4199, 4200.)
 
 #### References in Text
 
@@ -216,7 +216,7 @@ Section 256a of this title, referred to in subsec. (c), was repealed by Pub. L. 
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–392, §101(1), substituted "National strategy for combating and eliminating tuberculosis"for "Preventive health services regarding tuberculosis" in section catchline.
+<b>2008</b>—Pub. L. 110–392, §101(1), substituted "National strategy for combating and eliminating tuberculosis" for "Preventive health services regarding tuberculosis" in section catchline.
 
 Subsec. (b). Pub. L. 110–392, §101(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to research, demonstration projects, education, and training for the purpose of prevention, control, and elimination of tuberculosis.
 

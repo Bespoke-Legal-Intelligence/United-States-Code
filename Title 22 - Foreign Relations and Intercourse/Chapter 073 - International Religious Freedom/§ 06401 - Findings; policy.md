@@ -12,13 +12,13 @@ Congress makes the following findings:
 
 &emsp;(4) The right to freedom of religion is under renewed and, in some cases, increasing assault in many countries around the world. More than one-half of the world's population lives under regimes that severely restrict or prohibit the freedom of their citizens to study, believe, observe, and freely practice the religious faith of their choice. Religious believers and communities suffer both government-sponsored and government-tolerated violations of their rights to religious freedom. Among the many forms of such violations are state-sponsored slander campaigns, confiscations of property, desecration of cemeteries, surveillance by security police, including by special divisions of "religious police", severe prohibitions against construction and repair of places of worship, denial of the right to assemble and relegation of religious communities to illegal status through arbitrary registration laws, prohibitions against the pursuit of education or public office, and prohibitions against publishing, distributing, or possessing religious literature and materials. A policy or practice of routinely denying applications for visas for religious workers in a country can be indicative of a poor state of religious freedom in that country.
 
-&emsp;(5) Even more abhorrent, religious believers in many countries face such severe and violent forms of religious persecution as detention, torture, beatings, forced marriage, rape, imprisonment, enslavement, mass resettlement, and death merely for the peaceful belief in, change of or practice of their faith. In many countries, religious believers are forced to meet secretly, and religious leaders are targeted by national security forces and hostile mobs.
+&emsp;(5) Even more abhorrent, religious believers in many countries face such severe and violent forms of religious persecution as detention, torture, beatings, forced marriage, rape, imprisonment, enslavement, mass resettlement, and death merely for the peaceful belief in,change of or practice of their faith. In many countries, religious believers are forced to meet secretly, and religious leaders are targeted by national security forces and hostile mobs.
 
 &emsp;(6) Though not confined to a particular region or regime, religious persecution and the specific targeting of non-theists, humanists, and atheists because of their beliefs is often particularly widespread, systematic, and heinous under totalitarian governments and in countries with militant, politicized religious majorities and in regions where non-state actors exercise significant political power and territorial control.
 
 &emsp;(7) Congress has recognized and denounced acts of religious persecution through the adoption of the following resolutions:
 
-&emsp;&emsp;(A) House Resolution 515 of the One Hundred Fourth Congress, expressing the senseof the House of Representatives with respect to the persecution of Christians worldwide.
+&emsp;&emsp;(A) House Resolution 515 of the One Hundred Fourth Congress, expressing the sense of the House of Representatives with respect to the persecution of Christians worldwide.
 
 &emsp;&emsp;(B) Senate Concurrent Resolution 71 of the One Hundred Fourth Congress, expressing the sense of the Senate regarding persecution of Christians worldwide.
 
@@ -56,7 +56,7 @@ House Concurrent Resolution 102, referred to in subsec. (a)(7)(C), is H. Con. Re
 
 The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The International Financial Institutions Act of 1977, referred to in subsec. (b)(1)(B), probably means the International Financial Institutions Act, Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, as amended, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–12, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 261 of this title and Tables.
+The International Financial Institutions Act of 1977, referred to in subsec. (b)(1)(B), probably means the International Financial Institutions Act, Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, as amended, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–13, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 261 of this title and Tables.
 
 #### Amendments
 
@@ -72,6 +72,8 @@ Subsec. (b). Pub. L. 114–281, §2(b), designated existing provisions as par. (
 
 #### Short Title of 2019 Amendment
 
+Pub. L. 116–94, div. J, title VIII, §801, Dec. 20, 2019, 133 Stat. 3076, provided that: "This title \[amending sections 6431 to 6432b, 6433a, and 6435 to 6436 of this title and section 1301 of Title 2, The Congress\] may be cited as the 'United States Commission on International Religious Freedom Reauthorization Act of 2019'."
+
 Pub. L. 115–434, §1, Jan. 14, 2019, 132 Stat. 5526, provided that: "This Act \[amending section 6412 of this title and enacting provisions set out as a note under section 6412 of this title\] may be cited as the 'Combating European Anti-Semitism Act of 2017'."
 
 #### Short Title of 2016 Amendment
@@ -84,7 +86,7 @@ Pub. L. 114–71, §1, Oct. 16, 2015, 129 Stat. 563, provided that: "This Act \[
 
 #### Short Title of 2011 Amendment
 
-Pub. L. 112–75, §1, Dec. 23, 2011, 125 Stat. 1272, provided that: "This Act \[amending sections 6431, 6432b, 6435,6435a, and 6436 of this title and enacting provisions set out as a note under section 6432b of this title\] may be cited as the 'United States Commission on International Religious Freedom Reform and Reauthorization Act of 2011'."
+Pub. L. 112–75, §1, Dec. 23, 2011, 125 Stat. 1272, provided that: "This Act \[amending sections 6431, 6432b, 6435, 6435a, and 6436 of this title and enacting provisions set out as a note under section 6432b of this title\] may be cited as the 'United States Commission on International Religious Freedom Reform and Reauthorization Act of 2011'."
 
 #### Short Title
 

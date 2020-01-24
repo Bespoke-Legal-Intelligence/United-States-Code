@@ -2,7 +2,7 @@
 
 #### (a) Certification
 
-The Commission shall issue a certification for the purposes of section 119(g)(3)(A)(iii) of title 17 if the Commission determines that—
+The Commission shall issue a certification for the purposes of section 119(g)(3)(A)(iii) <sup>1</sup> of title 17 if the Commission determines that—
 
 &emsp;(1) a satellite carrier is providing local service pursuant to the statutory license under section 122 of such title in each designated market area; and
 
@@ -42,7 +42,7 @@ Any entity seeking the certification provided for in subsection (a) shall submit
 
 #### (d) Subsequent affirmation
 
-An entity granted qualified carrier status pursuant to section 119(g) of title 17 shall file an affidavit with the Commission 30 months after such status was granted stating that, to the best of the affiant's knowledge, it is in compliance with the requirements for a qualified carrier.
+An entity granted qualified carrier status pursuant to section 119(g) <sup>1</sup> of title 17 shall file an affidavit with the Commission 30 months after such status was granted stating that, to the best of the affiant's knowledge, it is in compliance with the requirements for a qualified carrier.
 
 #### (e) Definitions
 
@@ -78,9 +78,13 @@ For the purposes of this section:
 
 #### References in Text
 
+Section 119(g) of title 17, referred to in subsecs. (a) and (d), was redesignated section 119(f) of title 17 by Pub. L. 116–94, div. P, title XI, §1102(a)(6), Dec. 20, 2019, 133 Stat. 3203.
+
 The date of enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsecs. (a)(2) and (b)(1), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights.
 
 #### Effective Date
 
 Section effective Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

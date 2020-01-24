@@ -62,7 +62,7 @@ For purposes of this section, the term "foreign partner" means any partner who i
 
 #### (A) In general
 
-&emsp;&emsp;No person shall be required to deduct and withhold any amount under paragraph (1)with respect to any disposition if the transferor furnishes to the transferee an affidavit by the transferor stating, under penalty of perjury, the transferor's United States taxpayer identification number and that the transferor is not a foreign person.
+&emsp;&emsp;No person shall be required to deduct and withhold any amount under paragraph (1) with respect to any disposition if the transferor furnishes to the transferee an affidavit by the transferor stating, under penalty of perjury, the transferor's United States taxpayer identification number and that the transferor is not a foreign person.
 
 #### (B) False affidavit
 
@@ -138,5 +138,5 @@ Pub. L. 100–647, title I, §1012(s)(1)(D), Nov. 10, 1988, 102 Stat. 3527, prov
 
 #### Effective Date
 
-Pub. L. 99–514, title XII, §1246(d), Oct. 22, 1986, 100 Stat. 2583, provided that: "The amendment made bythis section \[enacting this section and amending section 6401 of this title\] shall apply to distributions after December 31, 1987 (or, if earlier, the effective date (which shall not be earlier than January 1, 1987) of the initial regulations issued under section 1446 of the Internal Revenue Code of 1986 as added by this section)."
+Pub. L. 99–514, title XII, §1246(d), Oct. 22, 1986, 100 Stat. 2583, provided that: "The amendment made by this section \[enacting this section and amending section 6401 of this title\] shall apply to distributions after December 31, 1987 (or, if earlier, the effective date (which shall not be earlier than January 1, 1987) of the initial regulations issued under section 1446 of the Internal Revenue Code of 1986 as added by this section)."
 

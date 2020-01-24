@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (ii) Personal services as an employee
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (B), personal services performed as an employee shall not be treated as performed in real property trades or businesses. The preceding sentence shall not apply if such employee is a 5-percent owner (as defined in section 416(i)(1)(B)) in the employer.
+&emsp;&emsp;&emsp;For purposes of subparagraph (B), personal services performed as an employee shall not be treated as performed in realproperty trades or businesses. The preceding sentence shall not apply if such employee is a 5-percent owner (as defined in section 416(i)(1)(B)) in the employer.
 
 #### (d) Passive activity loss and credit defined
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (B) Return on working capital
 
-&emsp;&emsp;For purposes of subparagraph (A), any income, gain, or loss which is attributable toan investment of working capital shall be treated as not derived in the ordinary course of a trade or business.
+&emsp;&emsp;For purposes of subparagraph (A), any income, gain, or loss which is attributable to an investment of working capital shall be treated as not derived in the ordinary course of a trade or business.
 
 #### (2) Passive losses of certain closely held corporations may offset active income
 
@@ -252,7 +252,7 @@ If during the taxable year a taxpayer disposes of his entire interest in any pas
 
 #### (3) Installment sale of entire interest
 
-&emsp;In the case of an installment sale of an entire interest in an activity to which section453 applies, paragraph (1) shall apply to the portion of such losses for each taxable year which bears the same ratio to all such losses as the gain recognized on such sale during such taxable year bears to the gross profit from such sale (realized or to be realized when payment is completed).
+&emsp;In the case of an installment sale of an entire interest in an activity to which section 453 applies, paragraph (1) shall apply to the portion of such losses for each taxable year which bears the same ratio to all such losses as the gain recognized on such sale during such taxable year bears to the gross profit from such sale (realized or to be realized when payment is completed).
 
 #### (h) Material participation defined
 
@@ -350,7 +350,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), in the case of any married individual filing aseparate return, this subsection shall be applied by substituting—
+&emsp;&emsp;Except as provided in subparagraph (B), in the case of any married individual filing a separate return, this subsection shall be applied by substituting—
 
 &emsp;&emsp;&emsp;(i) "$12,500" for "$25,000" each place it appears,
 
@@ -490,7 +490,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) which deal with changes in marital status and changes between joint returns and separate returns.
 
-(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §412(a), Mar. 9, 2002, 116 Stat. 53; Pub. L. 108–357, title I, §102(d)(5), title III, §331(g), Oct. 22, 2004, 118 Stat. 1429, 1477; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (60)(A), Dec. 19, 2014, 128 Stat. 4044, 4047; Pub. L. 115–97, title I, §§13305(b)(1), 14202(b)(3), Dec. 22, 2017, 131 Stat. 2126, 2216; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(ii), (5)(B)(i)–(iii), Mar. 23, 2018, 132 Stat. 1206, 1210.)
+(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, titleX, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §412(a), Mar. 9, 2002, 116 Stat. 53; Pub. L. 108–357, title I, §102(d)(5), title III, §331(g), Oct. 22, 2004, 118 Stat. 1429, 1477; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (60)(A), Dec. 19, 2014, 128 Stat. 4044, 4047; Pub. L. 115–97, title I, §§13305(b)(1), 14202(b)(3), Dec. 22, 2017, 131 Stat. 2126, 2216; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(ii), (5)(B)(i)–(iii), Mar. 23, 2018, 132 Stat. 1206, 1210.)
 
 #### Amendments
 
@@ -676,7 +676,7 @@ Amendment by Pub. L. 105–277 effective as if included in the provision of the 
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title XVII, §1704(d)(2), Aug. 20, 1996, 110 Stat. 1878, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986."
+Pub. L. 104–188, title XVII, §1704(d)(2), Aug. 20, 1996, 110 Stat. 1878, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986."
 
 Pub. L. 104–188, title XVII, §1704(e)(2), Aug. 20, 1996, 110 Stat. 1879, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986."
 
@@ -716,7 +716,7 @@ Amendment by Pub. L. 100–203 effective as if included in the amendments made b
 
 #### Effective Date
 
-Pub. L. 99–514, title V, §501(c), Oct. 22, 1986, 100 Stat. 2241, as amended by Pub. L. 100–647, title I, §1005(a)(10),title IV, §4003(b)(2), Nov. 10, 1988, 102 Stat. 3388, 3644, provided that:
+Pub. L. 99–514, title V, §501(c), Oct. 22, 1986, 100 Stat. 2241, as amended by Pub. L. 100–647, title I, §1005(a)(10), title IV, §4003(b)(2), Nov. 10, 1988, 102 Stat. 3388, 3644, provided that:
 
 "(1)
 
@@ -764,7 +764,7 @@ Pub. L. 99–514, title V, §502, Oct. 22, 1986, 100 Stat. 2241, as amended by P
 
 "(a)
 
-General Rule.—Any loss sustained by a qualified investor with respect to an interest in a qualified low-income housing project for any taxable year in the relief period shall not be treated as a loss from a passive activity for purposes of section 469 of the Internal Revenue Code of 1986.
+General Rule.—Any loss sustained by a qualified investor with respect to an interest in a qualified low-income housing project for any taxable year in therelief period shall not be treated as a loss from a passive activity for purposes of section 469 of the Internal Revenue Code of 1986.
 
 "(b)
 
@@ -816,7 +816,7 @@ Special rule for certain partnerships.—In the case of any property which is he
 
 &emsp;&emsp;"(A) which placed such property in service on or after December 31, 1985, and before August 17, 1986, and continuously held such property through the close of the taxable year for which the determination is being made, and
 
-&emsp;&emsp;"(B) which was not treated as a new partnership or as terminated at any time on or after the dateon which such property was placed in service and through the close of the taxable year for which the determination is being made,
+&emsp;&emsp;"(B) which was not treated as a new partnership or as terminated at any time on or after the date on which such property was placed in service and through the close of the taxable year for which the determination is being made,
 
 > &emsp;paragraph (1)(A)(i) shall be applied by substituting 'December 31, 1988' for 'August 16, 1986' the 2nd place it appears.
 

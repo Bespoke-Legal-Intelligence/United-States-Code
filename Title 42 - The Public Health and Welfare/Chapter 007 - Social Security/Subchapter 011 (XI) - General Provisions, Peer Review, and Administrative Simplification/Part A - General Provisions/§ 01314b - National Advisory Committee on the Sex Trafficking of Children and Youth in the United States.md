@@ -2,7 +2,7 @@
 
 #### (a) Official designation
 
-This section relates to the National Advisory Committee on the Sex Trafficking of Children and Youth in the United States (in this section referred to as the "Committee").
+This section relates to the National Advisory Committee on the Sex Trafficking of Childrenand Youth in the United States (in this section referred to as the "Committee").
 
 #### (b) Authority
 
@@ -120,11 +120,15 @@ The Committee shall terminate 5 years after the date of its establishment, but t
 
 #### (h) Definition
 
-For the purpose of this section, the term "sex trafficking" includes the definition set forth in section 7102(10) of title 22 and "severe form of trafficking in persons" described in section 7102(9)(A) of title 22.
+For the purpose of this section, the term "sex trafficking" includes the definition set forth in section 7102(10) <sup>1</sup> of title 22 and "severe form of trafficking in persons" described in section 7102(9)(A) <sup>1</sup> of title 22.
 
 (Aug. 14, 1935, ch. 531, title XI, §1114A, as added Pub. L. 113–183, title I, §121, Sept. 29, 2014, 128 Stat. 1931.)
 
 #### References in Text
 
 Sections 101 and 102 of the Preventing Sex Trafficking and Strengthening Families Act, referred to in subsec. (d)(3)(B), are sections 101 and 102 of Pub. L. 113–183. Section 101 amended sections 671 and 675 of this title. Section 102 amended section 671 of this title.
+
+Section 7102(9)(A) and (10) of title 22, referred to in subsec. (h), was redesignated section 7102(11)(A) and (12), respectively, of title 22 by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

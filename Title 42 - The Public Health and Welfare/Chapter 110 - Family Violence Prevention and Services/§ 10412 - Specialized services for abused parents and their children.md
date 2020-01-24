@@ -16,7 +16,7 @@ To be eligible to receive a grant under this section, an entity shall be a local
 
 #### (c) Application
 
-An entity seeking a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including—
+An entity seeking a grant under this section shall submit an application to the Secretary atsuch time, in such manner, and containing such information as the Secretary may reasonably require, including—
 
 &emsp;(1) a description of how the entity will prioritize the safety of, and confidentiality of information about—
 
@@ -34,7 +34,7 @@ An entity that receives a grant under this section for a family violence, domest
 
 &emsp;(1) shall use the funds made available through the grant—
 
-&emsp;&emsp;(A) to provide direct counseling, appropriate services consistent with subsection (c)(2), or advocacy on behalf of victims offamily violence, domestic violence, or dating violence and their children, including coordinating services with services provided by the child welfare system;
+&emsp;&emsp;(A) to provide direct counseling, appropriate services consistent with subsection (c)(2), or advocacy on behalf of victims of family violence, domestic violence, or dating violence and their children, including coordinating services with services provided by the child welfare system;
 
 &emsp;&emsp;(B) to provide services for nonabusing parents to support those parents' roles as caregivers and their roles in responding to the social, emotional, and developmental needs of their children; and
 

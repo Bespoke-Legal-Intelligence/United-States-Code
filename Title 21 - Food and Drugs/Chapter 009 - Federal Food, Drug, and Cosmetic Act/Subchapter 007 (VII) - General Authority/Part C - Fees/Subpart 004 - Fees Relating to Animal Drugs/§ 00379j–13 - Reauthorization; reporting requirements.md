@@ -6,11 +6,11 @@ Beginning with fiscal year 2019, not later than 120 days after the end of each f
 
 #### (b) Fiscal report
 
-Beginning with fiscal year 2019, not later than 120 days after the end of each fiscal year duringwhich fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.
+Beginning with fiscal year 2019, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.
 
 #### (c) Public availability
 
-The Secretary shall make the reports required under subsections (a) and (b) available to the public on the Internet Web site of the Food and Drug Administration.
+The Secretary shall make the reports required under subsections (a) and (b) available to thepublic on the Internet Web site of the Food and Drug Administration.
 
 #### (d) Reauthorization
 
@@ -96,7 +96,7 @@ Subsec. (d)(1), (5). Pub. L. 115–234, §104(3), substituted "2023" for "2018".
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–234 effective Oct. 1, 2018, and fees under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C.379j–11 et seq.) to be assessed for animal drug applications and supplemental animal drug applications received on or after Oct. 1, 2018, see section 106 of Pub. L. 115–234, set out as a note under section 379j–11 of this title.
+Amendment by Pub. L. 115–234 effective Oct. 1, 2018, and fees under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–11 et seq.) to be assessed for animal drug applications and supplemental animal drug applications received on or after Oct. 1, 2018, see section 106 of Pub. L. 115–234, set out as a note under section 379j–11 of this title.
 
 #### Effective Date of 2013 Amendment
 

@@ -58,7 +58,7 @@ Other Limitations.—Nothing in this subtitle impairs or affects the authority o
 
 &emsp;&emsp;&emsp;(ii) held in connection with the insurance of mortgages, loans, or savings association accounts under the National Housing Act (12 U.S.C. 1701 et seq.), the Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.), or any other law;
 
-&emsp;(11) the Tennessee Valley Authority with respect to nonpersonal services, with respect to section 501(c) of this title, and with respect to property acquired in connection with a program of processing, manufacture, production,or force account construction, but the Authority shall, to the maximum extent it considers practicable, consistent with the purposes of its program and the effective, efficient conduct of its business, coordinate its operations with the requirements of this subtitle and with policies and regulations prescribed under this subtitle;
+&emsp;(11) the Tennessee Valley Authority with respect to nonpersonal services, with respect to section 501(c) of this title, and with respect to property acquired in connection with a program of processing, manufacture, production, or force account construction, but the Authority shall, to the maximum extent it considers practicable, consistent with the purposes of its program and the effective, efficient conduct of its business, coordinate its operations with the requirements of this subtitle and with policies and regulations prescribed under this subtitle;
 
 &emsp;(12) the Secretary of Energy with respect to atomic energy;
 

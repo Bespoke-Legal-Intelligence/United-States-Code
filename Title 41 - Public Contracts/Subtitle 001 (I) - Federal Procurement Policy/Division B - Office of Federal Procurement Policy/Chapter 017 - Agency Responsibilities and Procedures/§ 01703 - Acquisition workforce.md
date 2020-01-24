@@ -110,7 +110,7 @@ In general.—Subject to paragraph (2), the Administrator shall—
 
 &emsp;&emsp;&emsp;(iv) positions in other General Schedule series in which significant acquisition-related functions are performed; and
 
-&emsp;&emsp;(B) prescribe the manner and extent to which the qualification requirements shall apply to an individual serving in a position described in subparagraph (A) at the time the requirements are established.
+&emsp;&emsp;(B) prescribe the manner and extent to which the qualification requirements shall apply to an individual serving in a positiondescribed in subparagraph (A) at the time the requirements are established.
 
 &emsp;(2)
 
@@ -340,9 +340,13 @@ Pub. L. 112–74 struck out "for training" after "amounts collected" and substit
 
 Subsec. (l). Pub. L. 112–81, §864(c)(2), added subsec. (l).
 
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(15) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made bysection 1076(a)(15) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Communication Between Government and Industry
 
@@ -362,7 +366,7 @@ Pub. L. 103–355, title V, §5051(c), Oct. 13, 1994, 108 Stat. 3351, provided t
 
 &emsp;"(1) establish policies and procedures for the heads of such departments and agencies to designate acquisition positions and manage employees (including the accession, education, training and career development of employees) in the designated acquisition positions; and
 
-&emsp;"(2) review the incentives and personnel actions available to the heads of departments and agencies of the Federal Government for encouraging excellence in the acquisition workforce of the Federal Government and provide an enhanced system of incentivesfor the encouragement of excellence in such workforce which—
+&emsp;"(2) review the incentives and personnel actions available to the heads of departments and agencies of the Federal Government for encouraging excellence in the acquisition workforce of the Federal Government and provide an enhanced system of incentives for the encouragement of excellence in such workforce which—
 
 &emsp;&emsp;"(A) relates pay to performance (including the extent to which the performance of personnel in such workforce contributes to achieving the cost goals, schedule goals, and performance goals established for acquisition programs pursuant to section 313(b) of the Federal Property and Administrative Services Act of 1949, as added by subsection (a) \[now 41 U.S.C. 3103(b)\]); and
 

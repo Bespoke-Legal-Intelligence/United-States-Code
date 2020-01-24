@@ -2,7 +2,7 @@
 
 (a) When any veteran dies after December 31, 1956, from a service-connected or compensable disability, the Secretary shall pay dependency and indemnity compensation to such veteran's surviving spouse, children, and parents. The standards and criteria for determining whether or not a disability is service-connected shall be those applicable under chapter 11 of this title.
 
-(b) Dependency and indemnity compensation shall not be paid to the surviving spouse, children, or parents of any veteran dying after December 31, 1956, unless such veteran (1) was discharged or released under conditions other thandishonorable from the period of active military, naval, or air service in which the disability causing such veteran's death was incurred or aggravated, or (2) died while in the active military, naval, or air service.
+(b) Dependency and indemnity compensation shall not be paid to the surviving spouse, children, or parents of any veteran dying after December 31, 1956, unless such veteran (1) was discharged or released under conditions other than dishonorable from the period of active military, naval, or air service in which the disability causing such veteran's death was incurred or aggravated, or (2) died while in the active military, naval, or air service.
 
 (c) A person who receives a payment under the provisions of the Radiation Exposure Compensation Act of 1990 (42 U.S.C. 2210 note) shall not be deprived, by reason of the receipt of that payment, of receipt of dependency and indemnity compensation to which that person is otherwise entitled, but there shall be deducted from payment of such dependency and indemnity compensation the amount of the payment under that Act.
 
@@ -60,75 +60,7 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 #### GAO Report Relating to Benefits for Survivors of Veterans and Members of Armed Forces
 
-Pub. L. 102–568, title I, §104, Oct. 29, 1992, 106 Stat. 4322, provided that:
-
-"(a)
-
-In General.—The Comptroller General of the United States shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report with respect to the most appropriate combination of financial, health-care, educational, and other survivor benefits to meet the needs of survivors of veterans.
-
-"(b)
-
-Contents of Report.—The report shall include the following:
-
-&emsp;"(1) A review and compilation of data on current and proposed survivor benefits programs that will permit an assessment of the adequacy of such benefits programs, including information on—
-
-&emsp;&emsp;"(A) in the case of each current and proposed alternative survivor benefits program—
-
-&emsp;&emsp;&emsp;"(i) each benefit provided;
-
-&emsp;&emsp;&emsp;"(ii) the survivors entitled to the benefit;
-
-&emsp;&emsp;&emsp;"(iii) the extent to which survivors are entitled to similar benefits under the program; and
-
-&emsp;&emsp;&emsp;"(iv) the costs of providing such benefits under the program;
-
-&emsp;&emsp;"(B) the extent to which current and anticipated benefits under current survivor benefits programs meet the current and anticipated financial, health-care, educational, and other needs of survivors; and
-
-&emsp;&emsp;"(C) the differences, if any, in the survivor benefits provided under current and proposed survivor benefits programs to survivors of various categories of veterans and members of the Armed Forces (including survivors of veterans having service-connected disabilities, veterans without such disabilities, members of the Armed Forces who die during service in the Armed Forces, members of the Armed Forces retired under any provision of law other than chapter 61 of title 10, United States Code, and members of the Armed Forces retired under chapter 61 of title 10, United States Code (relating to retirement or separation for physical disability)).
-
-&emsp;"(2) A review and compilation of existing studies on the adequacy of survivor benefits provided under current and proposed survivor benefits programs to meet the financial, health-care, educational, and other needs of survivors.
-
-&emsp;"(3) A comprehensive assessment and evaluation of the adequacy of current and proposed survivor benefits programs, including data and methods for an assessment and evaluation of—
-
-&emsp;&emsp;"(A) the feasibility and desirability of limiting the period of entitlement of survivors to survivor benefits;
-
-&emsp;&emsp;"(B) the feasibility and desirability of modifying the provision of monetary benefits to survivors by—
-
-&emsp;&emsp;&emsp;"(i) revising the term of payment of any such benefits;
-
-&emsp;&emsp;&emsp;"(ii) replacing the periodic payment of such benefits with a lump sum payment;
-
-&emsp;&emsp;&emsp;"(iii) providing such benefits through insurance or other premium-based payment mechanisms; or
-
-&emsp;&emsp;&emsp;"(iv) carrying out any other revision or modification proposed before the date of the enactment of this Act \[Oct. 29, 1992\] by the Secretary of Veterans Affairs, the Secretary of Defense, the Secretary of Health and Human Services, or organizations recognized by the Secretary of Veterans Affairs under section 5902(a)(1) of title 38, United States Code;
-
-&emsp;&emsp;"(C) the feasibility and desirability of modifying the provision of health-care benefits to survivors;
-
-&emsp;&emsp;"(D) the feasibility and desirability of modifying the provision of benefits to children survivors; and
-
-&emsp;&emsp;"(E) the feasibility and desirability of consolidating, expanding, or otherwise modifying any program relating to the provision of survivor benefits.
-
-&emsp;"(4) The recommendations of the Comptroller General (including a proposal for legislation) on the most appropriate combination of survivor benefits to meet the current and anticipated financial, health-care, educational, and other needs of survivors.
-
-"(c)
-
-Submission of Report.—The Comptroller General shall submit the report not later than April 1, 1994.
-
-"(d)
-
-Definitions.—In this section:
-
-&emsp;"(1) The term 'survivor', in the case of a veteran or member of the Armed Forces who dies, means the surviving spouse or surviving dependent child of the veteran or member.
-
-&emsp;"(2) The term 'survivor benefit' means any monetary, health-care, educational, or other benefit paid, payable, or otherwise provided to survivors of veterans and survivors of members of the Armed Forces under the following:
-
-&emsp;&emsp;"(A) Laws administered by the Secretary of Veterans Affairs.
-
-&emsp;&emsp;"(B) Laws administered by the Secretary of Defense.
-
-&emsp;&emsp;"(C) The Social Security Act (42 U.S.C. 301 et seq.).
-
-&emsp;"(3) The term 'veteran' has the meaning given such term in section 101(2) of title 38, United States Code."
+Pub. L. 102–568, title I, §104, Oct. 29, 1992, 106 Stat. 4322, required the Comptroller General of the United States to submit to Congress a report, with specified contents and due not later than Apr. 1, 1994, with respect to the most appropriate combination of financial, health-care, educational, and other survivor benefits to meet the needs of survivors of veterans.
 
 #### Dependency and Indemnity Compensation Program
 

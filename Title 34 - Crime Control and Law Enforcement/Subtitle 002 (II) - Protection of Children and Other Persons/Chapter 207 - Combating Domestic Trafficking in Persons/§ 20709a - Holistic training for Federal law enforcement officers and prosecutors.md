@@ -2,7 +2,7 @@
 
 All training required under section 20709 of this title and section 7105(c)(4) <sup>1</sup> of title 22 shall—
 
-&emsp;(1) emphasize that an individual who knowingly solicits or patronizes a commercial sexact from a person who was a minor (consistent with section 1591(c) of title 18) or was subject to force, fraud, or coercion is guilty of an offense under chapter 77 of title 18 and is a party to a human trafficking offense;
+&emsp;(1) emphasize that an individual who knowingly solicits or patronizes a commercial sex act from a person who was a minor (consistent with section 1591(c) of title 18) or was subject to force, fraud, or coercion is guilty of an offense under chapter 77 of title 18 and is a party to a human trafficking offense;
 
 &emsp;(2) develop specific curriculum for—
 

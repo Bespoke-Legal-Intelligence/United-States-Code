@@ -58,7 +58,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of Higher Lear
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the number of course hours borne by the individual in pursuit of the program of education, divided by the minimum number of course hours required for full-time pursuit of the program of education, rounded to the nearest multiple of 10.
 
-&emsp;&emsp;&emsp;(iii) In the case of an individual pursuing a program of education solely through distance learning on more than a half-time basis, a monthly housing stipend equal to 50 percent of the amount payable under clause (ii) if the individual were otherwise entitled to a monthly housing stipend under that clause for pursuit of the program of education.
+&emsp;&emsp;&emsp;(iii) In the case of an individual pursuing a program of education solely through distance learning on more than a half-timebasis, a monthly housing stipend equal to 50 percent of the amount payable under clause (ii) if the individual were otherwise entitled to a monthly housing stipend under that clause for pursuit of the program of education.
 
 &emsp;&emsp;&emsp;(iv) For the first month of each quarter, semester, or term, as applicable, of the program of education pursued by the individual, a lump sum amount for books, supplies, equipment, and other educational costs with respect to such quarter, semester, or term in the amount equal to—
 
@@ -120,7 +120,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) any waiver of, or reduction in, tuition and fees; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965) that is provided directly tothe institution and specifically designated for the sole purpose of defraying tuition and fees; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount equal to—
 
@@ -246,7 +246,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;&emsp;(V) during any month after the first 24 months of such program, 20 percent of the monthly amount of the basic allowance for housing payable as described in subclause (I).
 
-&emsp;&emsp;&emsp;(ii) Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books <sup>1</sup> supplies, equipment, and other educational costs.
+&emsp;&emsp;&emsp;(ii) Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books, supplies, equipment, and other educational costs.
 
 &emsp;&emsp;&emsp;(iii) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of sections 3311(b), the amounts payable pursuant to clauses (i) and (ii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
 
@@ -326,7 +326,7 @@ Charge against entitlement for certificate and other non-college degree programs
 
 &emsp;&emsp;(A)
 
-In general.—In the case of amounts paid under paragraph (3)(A)(i) for pursuit of a program of education, the charge against entitlement to educational assistance under this chapter of the individual for whom such payment is made shall be one month for each of—
+In general.—In the case of amounts paid under paragraph (3)(A)(i) for pursuit of a program of education, the charge against entitlement to educational assistance underthis chapter of the individual for whom such payment is made shall be one month for each of—
 
 &emsp;&emsp;&emsp;(i) the amount so paid, divided by
 
@@ -360,7 +360,7 @@ In general.—The Secretary shall furnish to individuals receiving educational a
 
 Manner.—The Secretary shall make such documentation available to the individual using an internet website in the same manner the Secretary provides documentation verifying compensation and other benefits furnished by the Secretary to individuals.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2363; amended Pub. L. 111–32, title X, §1002(b), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(1)–(3), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, 124 Stat. 4108–4110,4112–4117, 4121; Pub. L. 114–58, title VI, §601(16)–(18), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §§102(b), 105(b), (c)(2), 107(a), 113(a), Aug. 16, 2017, 131 Stat. 975, 977, 985; Pub. L. 115–62, title V, §501(b)(1), (c)(1), Sept. 29, 2017, 131 Stat. 1165, 1166; Pub. L. 115–407, title I, §102, Dec. 31, 2018, 132 Stat. 5369.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2363; amended Pub. L. 111–32, title X, §1002(b), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(1)–(3), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, 124 Stat. 4108–4110, 4112–4117, 4121; Pub. L. 114–58, title VI, §601(16)–(18), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §§102(b), 105(b), (c)(2), 107(a), 113(a), Aug. 16, 2017, 131 Stat. 975, 977, 985; Pub. L. 115–62, title V, §501(b)(1), (c)(1), Sept. 29, 2017, 131 Stat. 1165, 1166; Pub. L. 115–407, title I, §102, Dec. 31, 2018, 132 Stat. 5369; Pub. L. 116–61, §6(3), Sept. 30, 2019, 133 Stat. 1117.)
 
 #### Amendment of Section
 
@@ -410,6 +410,8 @@ Section 401(b) of the Higher Education Act of 1965, referred to in subsecs. (c)(
 
 #### Amendments
 
+<b>2019</b>—Subsec. (g)(3)(B)(ii). Pub. L. 116–61 inserted comma after "for books".
+
 <b>2018</b>—Subsec. (k). Pub. L. 115–407 added subsec. (k).
 
 <b>2017</b>—Subsec. (c)(1). Pub. L. 115–48, §105(c)(2)(A), substituted "(8), or (9)" for "(9), or (10)".
@@ -418,7 +420,7 @@ Pub. L. 115–48, §102(b), substituted "(9), or (10)" for "or (9)".
 
 Subsec. (c)(1)(B)(i)(I). Pub. L. 115–48, §107(a), substituted "the campus of the institution of higher learning where the individual physically participates in a majority of classes" for "the institution of higher learning at which the individual is enrolled".
 
-Subsec. (c)(7). Pub. L. 115–48, §105(b), struck out par. (7) which read as follows: "In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(8), amounts equal to 40 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph."
+Subsec. (c)(7). Pub. L. 115–48, §105(b), struck out par. (7) which read as follows: "In the case of an individual entitled to educational assistance under this chapterby reason of section 3311(b)(8), amounts equal to 40 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph."
 
 Subsec. (d)(1), (2). Pub. L. 115–48, §105(c)(2)(B), substituted "paragraphs (2) through (6)" for "paragraphs (2) through (7)".
 
@@ -456,7 +458,7 @@ Subsec. (c)(1). Pub. L. 111–377, §112(a)(1), which directed amendment identic
 
 Subsec. (c)(1)(A). Pub. L. 111–377, §102(a)(1)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: "An amount equal to the established charges for the program of education, except that the amount payable under this subparagraph may not exceed the maximum amount of established charges regularly charged in-State students for full-time pursuit of approved programs of education for undergraduates by the public institution of higher learning offering approved programs of education for undergraduates in the State in which the individual is enrolled that has the highest rate of regularly-charged established charges for such programs of education among all public institutions of higher learning in such State offering such programs of education."
 
-Subsec. (c)(1)(B). Pub. L. 111–377, §102(b), redesignated cl. (ii) as (iv), added cls. (i) to (iii), and struck outformer cl. (i) which read as follows: "For each month the individual pursues the program of education (other than, in the case of assistance under this section only, a program of education offered through distance learning), a monthly housing stipend amount equal to the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution of higher learning at which the individual is enrolled."
+Subsec. (c)(1)(B). Pub. L. 111–377, §102(b), redesignated cl. (ii) as (iv), added cls. (i) to (iii), and struck out former cl. (i) which read as follows: "For each month the individual pursues the program of education (other than, in the case of assistance under this section only, a program of education offered through distance learning), a monthly housing stipend amount equal to the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution of higher learning at which the individual is enrolled."
 
 Subsec. (e). Pub. L. 111–377, §103(b), amended heading generally. Prior to amendment, heading read as follows: "Programs of Education Pursued on Active Duty".
 
@@ -502,7 +504,7 @@ Subsec. (e)(2)(B). Pub. L. 111–275, §1001(g)(3), inserted period at end.
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–62, title V, §501(b)(2), Sept. 29, 2017, 131 Stat. 1165, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to enrollment for a quarter, semester, or term, as applicable, commencing on or after August 1, 2018."
+Pub. L. 115–62, title V, §501(b)(2), Sept. 29, 2017, 131 Stat. 1165, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply with respect to enrollment for a quarter, semester, or term, as applicable, commencing on or after August 1, 2018."
 
 Pub. L. 115–62, title V, §501(c)(2), Sept. 29, 2017, 131 Stat. 1166, provided that: "Such subsection \[meaning subsec. (j) of this section\], as amended by paragraph (1), shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after August 1, 2018."
 
@@ -583,6 +585,4 @@ Definitions.—In this section:
 &emsp;"(2) The term 'established charges', with respect to a program of education, means the actual charges (as determined pursuant to regulations prescribed by the Secretary of Veterans Affairs on the basis of a full academic year) for tuition and fees which similarly circumstanced nonveterans enrolled in the program of education would be required to pay.
 
 &emsp;"(3) The term 'institution of higher learning' has the meaning given that term in section 3452(f) of title 38, United States Code."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

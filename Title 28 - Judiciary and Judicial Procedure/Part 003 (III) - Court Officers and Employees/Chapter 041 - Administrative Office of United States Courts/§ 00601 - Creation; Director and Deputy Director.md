@@ -62,7 +62,7 @@ Submission to congress; effective date.—
 
 &emsp;"(A)
 
-Submission to congress.—Not later than 12 months after the date of enactment of this Act \[Oct. 31, 1998\], the Judicial Conference of the United States shall submit a copy of the procedures prescribed under this subsection to the Committee on Government Reform and Oversight \[now Committee on Oversight and Government Reform\] and the Committee on the Judiciary of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] and the Committee on the Judiciary of the Senate.
+Submission to congress.—Not later than 12 months after the date of enactment of this Act \[Oct. 31, 1998\], the Judicial Conference of the United States shall submit a copy of the procedures prescribed under this subsection to the Committee on Government Reform and Oversight \[now Committee on Oversight and Reform\] and the Committee on the Judiciary of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] and the Committee on the Judiciary of the Senate.
 
 &emsp;"(B)
 

@@ -48,7 +48,7 @@ Amendment by Pub. L. 98–369 effective as if included in Subchapter S Revision 
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1983, except that this section as in effect before Oct. 19, 1982, to remain in effect for years beginning before Jan. 1, 1984, see section 6(a), (b)(1) of Pub. L. 97–354, set out as a note under section 1361 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1983, except that this section as in effect beforeOct. 19, 1982, to remain in effect for years beginning before Jan. 1, 1984, see section 6(a), (b)(1) of Pub. L. 97–354, set out as a note under section 1361 of this title.
 
 #### Coordination of Repeals of Certain Sections
 

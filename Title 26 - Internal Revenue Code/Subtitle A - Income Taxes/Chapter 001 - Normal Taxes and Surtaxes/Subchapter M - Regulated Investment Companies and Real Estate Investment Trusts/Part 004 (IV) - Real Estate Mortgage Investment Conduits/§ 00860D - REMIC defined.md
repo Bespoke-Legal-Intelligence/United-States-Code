@@ -20,7 +20,7 @@ For purposes of this title, the terms "real estate mortgage investment conduit" 
 
 &emsp;&emsp;(B) information necessary for the application of section 860E(e) will be made available by the entity.
 
-> In the case of a qualified liquidation (as defined in section 860F(a)(4)(A)), paragraph (4) shall not apply during the liquidation period (as defined in section 860F(a)(4)(B)).
+> In the case of a qualified liquidation (as defined in section 860F(a)(4)(A)), paragraph (4) shall notapply during the liquidation period (as defined in section 860F(a)(4)(B)).
 
 #### (b) Election
 

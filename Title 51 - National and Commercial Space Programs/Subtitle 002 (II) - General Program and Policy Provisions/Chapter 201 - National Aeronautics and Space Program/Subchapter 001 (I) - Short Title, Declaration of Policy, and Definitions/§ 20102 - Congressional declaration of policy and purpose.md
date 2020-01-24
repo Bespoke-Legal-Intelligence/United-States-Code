@@ -2,7 +2,7 @@
 
 (a)
 
-Devotion of Space Activities to Peaceful Purposes for Benefit of All Humankind.—Congress declares that it is the policy of the United States that activities in space shouldbe devoted to peaceful purposes for the benefit of all humankind.
+Devotion of Space Activities to Peaceful Purposes for Benefit of All Humankind.—Congress declares that it is the policy of the United States that activities in space should be devoted to peaceful purposes for the benefit of all humankind.
 
 (b)
 
@@ -70,7 +70,7 @@ Historical and Revision Notes
 
 Pub. L. 85–568, title I, §102, July 29, 1958, 72 Stat. 426; Pub. L. 94–413, §15(a), (b), Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–238, title III, §311, Feb. 25, 1978, 92 Stat. 83; Pub. L. 95–401, §7, Sept. 30, 1978, 92 Stat. 860; Pub. L. 98–361, title I, §110, July 16, 1984, 98 Stat. 426; Pub. L. 100–685, title II, §214, Nov. 17, 1988, 102 Stat. 4093; Pub. L. 106–391, title III, §302(a), Oct. 30, 2000, 114 Stat. 1591; Pub. L. 109–155, title III, §321(d)(2), Dec. 30, 2005, 119 Stat. 2923.
 
-In subsection (b), the words "in conformity with section 201(e)", which appeared at the end of the subsection, are omitted as obsolete. Section 201 of Public Law 85–568, which was classified to former section 2471 of title 42 (last appearing in the 1970 edition of the United States Code), established the National Aeronautics and Space Council, with the functions of the Council specified in section 201(e). Those functions included advising the President "as he may request" with respect to promoting cooperation and resolving differences among agencies of the United States engaged in aeronautical and space activities. The words are obsolete because section 3(a)(4) of Reorganization Plan No. 1 of 1973 (5 App. U.S.C.), abolished the National Aeronautics and Space Council, including the office of Executive Secretary of the Council, together with its functions.
+In subsection (b), the words "in conformity with section 201(e)", which appeared at the end of the subsection, are omitted as obsolete. Section 201 of PublicLaw 85–568, which was classified to former section 2471 of title 42 (last appearing in the 1970 edition of the United States Code), established the National Aeronautics and Space Council, with the functions of the Council specified in section 201(e). Those functions included advising the President "as he may request" with respect to promoting cooperation and resolving differences among agencies of the United States engaged in aeronautical and space activities. The words are obsolete because section 3(a)(4) of Reorganization Plan No. 1 of 1973 (5 App. U.S.C.), abolished the National Aeronautics and Space Council, including the office of Executive Secretary of the Council, together with its functions.
 
 In subsection (c), the words "(as established by title II of this Act)", which appeared after "Administration", are omitted as unnecessary.
 
@@ -142,7 +142,7 @@ Pub. L. 102–195, §§2, 3, Dec. 9, 1991, 105 Stat. 1605, 1606, provided that:
 
 &emsp;"(9) the aeronautical program contributes to the Nation's technological competitive advantage, and it has been a key factor in maintaining preeminence in aviation over many decades; and
 
-&emsp;"(10) the National Aero Space Plane program can have benefits to the military and civilian aviation programs from the new and innovative technologies developed in propulsion systems, aerodynamics, and control systems that could be enormous, especially for high-speed aeronautical and space flight.
+&emsp;"(10) the National Aero Space Plane program can have benefits to the military and civilian aviation programs from the new and innovative technologies developed in propulsion systems, aerodynamics, andcontrol systems that could be enormous, especially for high-speed aeronautical and space flight.
 
 #### "SEC. 3. POLICY.
 
@@ -232,7 +232,7 @@ Pub. L. 101–611, title I, §§101, 102, Nov. 16, 1990, 104 Stat. 3188, 3189, p
 
 Pub. L. 100–685, title I, §101, Nov. 17, 1988, 102 Stat 4083, provided that: "Congress finds that—
 
-&emsp;"(1) in accordance with section 106 of the National Aeronautics and Space Administration AuthorizationAct of 1988 (Public Law 100–147) \[set out as a note under section 70901 of this title\], a space station, hereafter referred to as the United States International Space Station, shall be constructed in order to establish a permanent presence for man in space for the following purposes—
+&emsp;"(1) in accordance with section 106 of the National Aeronautics and Space Administration Authorization Act of 1988 (Public Law 100–147) \[set out as a note under section 70901 of this title\], a space station, hereafter referred to as the United States International Space Station, shall be constructed in order to establish a permanent presence for man in space for the following purposes—
 
 &emsp;&emsp;"(A) the conduct of scientific experiments, applications experiments, and engineering experiments;
 

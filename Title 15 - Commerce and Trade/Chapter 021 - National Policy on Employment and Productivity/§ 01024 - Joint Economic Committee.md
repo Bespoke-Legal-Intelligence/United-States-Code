@@ -2,7 +2,7 @@
 
 #### (a) Composition
 
-There is established a Joint Economic Committee, to be composed of ten Members of the Senate, to be appointed by the President of the Senate, and ten Members of the House of Representatives, to be appointed by the Speaker ofthe House of Representatives. In each case, the majority party shall be represented by six Members and the minority party shall be represented by four Members.
+There is established a Joint Economic Committee, to be composed of ten Members of the Senate, to be appointed by the President of the Senate, and ten Members of the House of Representatives, to be appointed by the Speaker of the House of Representatives. In each case, the majority party shall be represented by six Members and the minority party shall be represented by four Members.
 
 #### (b) Functions
 
@@ -28,7 +28,7 @@ To enable the joint committee to exercise its powers, functions, and duties unde
 
 #### (f) Service as attorney or expert for committee
 
-Service of one individual, until the completion of the investigation authorized by Senate Concurrent Resolution 26, Eighty-first Congress, as an attorney or expert for the joint committee, in any business or professional field, on a part-time basis, with or without compensation, shall not be considered as service or employment bringing such individual within the provisions of section 281, 283, or 284 of title 18,<sup>1</sup> or of any other Federal law imposing restrictions, requirements, or penalties in relation to the employment of persons, the performance of services, or the payment or receipt of compensation in connection with any claim, proceeding, or matter involving the United States.
+Service of one individual, until the completion of the investigation authorized by Senate Concurrent Resolution 26, Eighty-first Congress, asan attorney or expert for the joint committee, in any business or professional field, on a part-time basis, with or without compensation, shall not be considered as service or employment bringing such individual within the provisions of section 281, 283, or 284 of title 18,<sup>1</sup> or of any other Federal law imposing restrictions, requirements, or penalties in relation to the employment of persons, the performance of services, or the payment or receipt of compensation in connection with any claim, proceeding, or matter involving the United States.
 
 (Feb. 20, 1946, ch. 33, §11, formerly §5, 60 Stat. 25; Aug. 2, 1946, ch. 753, title II, §225, 60 Stat. 838; Feb. 2, 1948, ch. 42, 62 Stat. 16; Oct. 6, 1949, ch. 627, §§1, 2, 63 Stat. 721; June 18, 1956, ch. 399, §2, 70 Stat. 290; Pub. L. 86–1, Feb. 17, 1959, 73 Stat. 3; Pub. L. 88–661, Oct. 13, 1964, 78 Stat. 1093; Pub. L. 90–2, Jan. 25, 1967, 81 Stat. 4; Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1776; renumbered §11, Pub. L. 95–523, §104, Oct. 27, 1978, 92 Stat. 1893.)
 

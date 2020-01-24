@@ -20,5 +20,5 @@ R.S. §2217, concerning duration of term of office of surveyors general;
 
 R.S. §§2226 and 2227, concerning allowances for clerk hire and office expenses;
 
-Act Mar. 3, 1893, ch. 211, 27 Stat. 709, relative to consolidation of offices of two or more surveyors general; and provisions of act May 24, 1922, ch. 199, 42 Stat. 556, and prior acts concerning detail of clerks from office of one surveyor general to another.
+Act Mar. 3, 1893, ch. 211, 27 Stat. 709, relative to consolidation of offices of two or more surveyors general;and provisions of act May 24, 1922, ch. 199, 42 Stat. 556, and prior acts concerning detail of clerks from office of one surveyor general to another.
 

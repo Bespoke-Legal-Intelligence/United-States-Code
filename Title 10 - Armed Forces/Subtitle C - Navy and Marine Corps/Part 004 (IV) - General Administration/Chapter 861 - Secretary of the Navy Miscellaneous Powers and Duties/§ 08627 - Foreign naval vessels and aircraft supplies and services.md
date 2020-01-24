@@ -1,6 +1,6 @@
 ### §8627. Foreign naval vessels and aircraft: supplies and services
 
-(a) The Secretary of the Navy, under such regulations as he prescribes, may authorize any United States naval vessel or activity to furnish any of the following supplies or services, when in the best interests of the United States, on a reimbursable basis without an advance of funds if similar supplies and services are furnished on a like basis to naval vessels and military aircraft of the United States by the foreign country concerned:
+(a) The Secretary of the Navy, under such regulations as he prescribes, may authorize anyUnited States naval vessel or activity to furnish any of the following supplies or services, when in the best interests of the United States, on a reimbursable basis without an advance of funds if similar supplies and services are furnished on a like basis to naval vessels and military aircraft of the United States by the foreign country concerned:
 
 &emsp;(1) Routine port services in territorial waters of the United States or in waters under United States control, including pilotage, tugs, garbage removal, line-handling, and utilities, to naval vessels of foreign countries.
 
@@ -40,7 +40,7 @@ May 27, 1953, ch. 67, 67 Stat. 34.
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–190, §1048(a), struck out "friendly" before "foreign country" in introductory provisions and "friendly" before "foreign countries" in pars. (1) to (4).
 
-Subsec. (b)(2). Pub. L. 102–190, §1048(b), struck out subpar. (A) designation, substituted "naval vessels of a foreign country" for "naval vessels of an allied country", inserted after first sentence "When furnishing routine airport services under this section to militaryaircraft of a foreign country, the Secretary may furnish such services without reimbursement if such services are provided under an agreement that provides for the reciprocal furnishing by such country of routine airport services to military aircraft of the United States without reimbursement.", designated last sentence relating to furnishing of routine services by a working-capital fund activity of the Navy as par. (3), and struck out former subpar. (B) which defined "allied country".
+Subsec. (b)(2). Pub. L. 102–190, §1048(b), struck out subpar. (A) designation, substituted "naval vessels of a foreign country" for "naval vessels of an allied country", inserted after first sentence "When furnishing routine airport services under this section to military aircraft of a foreign country, the Secretary may furnish such services without reimbursement if such services are provided under an agreement that provides for the reciprocal furnishing by such country of routine airport services to military aircraft of the United States without reimbursement.", designated last sentence relating to furnishing of routine services by a working-capital fund activity of the Navy as par. (3), and struck out former subpar. (B) which defined "allied country".
 
 Subsec. (b)(3). Pub. L. 102–190, §1048(b)(5), designated last sentence of par. (2) relating to furnishing of routine services by a working-capital fund activity of the Navy as par. (3) and substituted "port or airport services" for "port services" and "paragraph (2)" for "this paragraph".
 

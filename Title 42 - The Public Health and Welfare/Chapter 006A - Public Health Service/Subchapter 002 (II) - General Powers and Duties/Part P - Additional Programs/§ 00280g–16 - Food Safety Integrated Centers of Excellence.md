@@ -18,7 +18,7 @@ Not later than 1 year after January 4, 2011, the Secretary, acting through the D
 
 #### (2) Working group
 
-&emsp;Not later than 180 days after January 4, 2011, the Secretary shall establish a diverse working group of experts and stakeholders from Federal, State, and local food safety and health agencies, the food industry, including food retailers and food manufacturers, consumer organizations, and academia to makerecommendations to the Secretary regarding designations of the Centers of Excellence.
+&emsp;Not later than 180 days after January 4, 2011, the Secretary shall establish a diverse working group of experts and stakeholders from Federal, State, and local food safety and health agencies, the food industry, including food retailers and food manufacturers, consumer organizations, and academia to make recommendations to the Secretary regarding designations of the Centers of Excellence.
 
 #### (3) Additional Centers of Excellence
 

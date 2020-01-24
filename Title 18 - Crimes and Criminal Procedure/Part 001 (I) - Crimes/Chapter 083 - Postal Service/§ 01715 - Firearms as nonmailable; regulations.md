@@ -18,7 +18,7 @@ Minor changes were made in phraseology.
 
 #### 1949 Act
 
-This section \[section 40\] inserts "Air Force," in section 1715 of title 18, U.S.C., in view of the establishment in 1947 of this separate branch of the armed forces, and substitutes, "Organized" for "Officers' ", preceding "Reserve Corps", to conform to section 2 of title 10, U.S.C., as amended by the act of March 25, 1948 (ch. 157, §1, 62 Stat. 87), which grouped all reserve branches into a reserve component called the Organized Reserve Corps.
+This section \[section 40\] inserts "Air Force," in section 1715 of title 18, U.S.C., in view of the establishmentin 1947 of this separate branch of the armed forces, and substitutes, "Organized" for "Officers' ", preceding "Reserve Corps", to conform to section 2 of title 10, U.S.C., as amended by the act of March 25, 1948 (ch. 157, §1, 62 Stat. 87), which grouped all reserve branches into a reserve component called the Organized Reserve Corps.
 
 #### Amendments
 

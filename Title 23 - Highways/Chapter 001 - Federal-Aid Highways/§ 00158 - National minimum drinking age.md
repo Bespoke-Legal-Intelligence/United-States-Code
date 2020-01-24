@@ -48,7 +48,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (c), is set out in Tit
 
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–141 designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–178, §1103(l)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted "In general" for "After the first year" in heading and "104(b)(3), and 104(b)(4)" for "104(b)(2), 104(b)(5), and 104(b)(6)" in text, and struck out former par. (1) which read as follows:
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–178, §1103(l)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted "In general" for "After the first year" in heading and "104(b)(3), and 104(b)(4)" for "104(b)(2), 104(b)(5),and 104(b)(6)" in text, and struck out former par. (1) which read as follows:
 
 "(1)
 

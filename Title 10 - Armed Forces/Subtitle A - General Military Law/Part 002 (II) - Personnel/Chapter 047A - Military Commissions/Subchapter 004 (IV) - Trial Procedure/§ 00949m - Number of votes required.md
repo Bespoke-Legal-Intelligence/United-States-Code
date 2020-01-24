@@ -18,7 +18,7 @@ Sentences.—(1) Except as provided in paragraphs (2) and (3), sentences shall b
 
 &emsp;(D) all primary members present at the time the vote was taken on the sentence concurred in the sentence of death.
 
-(3) No person may be sentenced to life imprisonment, or to confinement for more than 10years, by a military commission under this chapter except by the concurrence of three-fourths of the primary members present at the time the vote is taken.
+(3) No person may be sentenced to life imprisonment, or to confinement for more than 10 years, by a military commission under this chapter except by the concurrence of three-fourths of the primary members present at the time the vote is taken.
 
 (4) The primary members present for a vote on a sentence need not be the same primary members who voted on the conviction if the requirements of section 948m(d) of this title are met.
 

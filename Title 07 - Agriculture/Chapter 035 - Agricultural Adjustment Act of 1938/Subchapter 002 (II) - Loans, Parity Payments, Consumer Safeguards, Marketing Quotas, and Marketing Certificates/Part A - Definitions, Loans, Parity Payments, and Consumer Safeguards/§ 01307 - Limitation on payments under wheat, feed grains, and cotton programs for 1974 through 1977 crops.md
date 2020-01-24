@@ -40,5 +40,5 @@ Pub. L. 95–113, title XIX, §1901, Sept. 29, 1977, 91 Stat. 1045, provided tha
 
 #### Exemption of Disaster Payment Limitations Respecting 1977 Crops of Wheat, Feed Grains, Upland Cotton, and Rice
 
-Pub. L. 95–156, Nov. 8, 1977, 91 Stat. 1264, provided: "That, notwithstanding any other provision of law, the term 'payments' as used in section 101 of the Agricultural Act of 1970, as amended \[this section\], and section 101(g)(13) of the Agricultural Act of 1949, as amended \[section 1441(g)(13) of this title\], shall not include any part of any payment which is determined by the Secretary of Agriculture to represent compensation fordisaster loss with respect to the 1977 crops of wheat, feed grains, upland cotton, and rice."
+Pub. L. 95–156, Nov. 8, 1977, 91 Stat. 1264, provided: "That, notwithstanding any other provision of law, the term 'payments' as used in section 101 of the Agricultural Act of 1970, as amended \[this section\], and section 101(g)(13) of the Agricultural Act of 1949, as amended \[section 1441(g)(13) of this title\], shall not include any part of any payment which is determined by the Secretary of Agriculture to represent compensation for disaster loss with respect to the 1977 crops of wheat, feed grains, upland cotton, and rice."
 

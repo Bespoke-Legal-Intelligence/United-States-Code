@@ -138,7 +138,7 @@ For purposes of this section—
 
 #### (4) Foreign financial institution
 
-&emsp;The term "foreign financial institution" means any financial institution which is a foreign entity. Except as otherwise provided by the Secretary, such term shall not include afinancial institution which is organized under the laws of any possession of the United States.
+&emsp;The term "foreign financial institution" means any financial institution which is a foreign entity. Except as otherwise provided by the Secretary, such term shall not include a financial institution which is organized under the laws of any possession of the United States.
 
 #### (5) Financial institution
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) with respect to United States accounts maintained by the foreign financial institution, and
 
-&emsp;&emsp;(B) except as otherwise provided by the Secretary, with respect to United States accounts maintained by each other foreign financial institution (other than any foreign financial institution which meets the requirements of subsection (b)) which is a member of the same expanded affiliated group as such foreign financial institution.
+&emsp;&emsp;(B) except as otherwise provided by the Secretary, with respect to United States accounts maintained by each other foreign financial institution (other than any foreignfinancial institution which meets the requirements of subsection (b)) which is a member of the same expanded affiliated group as such foreign financial institution.
 
 #### (2) Expanded affiliated group
 

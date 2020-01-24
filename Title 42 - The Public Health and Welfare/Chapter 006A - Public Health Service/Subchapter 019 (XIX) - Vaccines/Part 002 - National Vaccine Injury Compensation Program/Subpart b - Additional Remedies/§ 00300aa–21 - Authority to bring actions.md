@@ -60,7 +60,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–168 effective as in effect on and after Oct. 1, 1988, see section 201(i)(2) of Pub. L.102–168, set out as a note under section 300aa–11 of this title.
+Amendment by Pub. L. 102–168 effective as in effect on and after Oct. 1, 1988, see section 201(i)(2) of Pub. L. 102–168, set out as a note under section 300aa–11 of this title.
 
 #### Effective Date of 1990 Amendment
 

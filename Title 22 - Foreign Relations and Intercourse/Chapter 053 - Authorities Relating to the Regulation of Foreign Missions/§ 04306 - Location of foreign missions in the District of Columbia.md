@@ -24,7 +24,7 @@ The location, replacement, or expansion of chanceries in the District of Columbi
 
 (2) Regulations issued to carry out this section shall provide appropriate opportunities for participation by the public in proceedings concerning the location, replacement, or expansion of chanceries.
 
-(3) A final determination concerning the location, replacement, or expansion of a chancery shall be made not later than six months after the date of the filing of an application with respect to such location, replacement, or expansion. Such determination shall not be subject to the administrative proceedings of any other agency or official except as provided in this chapter.
+(3) A final determination concerning the location, replacement, or expansion of a chancery shall be made not later than six months after the date of the filing of an application with respect to such location, replacement, or expansion. Such determination shall not be subject to the administrative proceedings of any otheragency or official except as provided in this chapter.
 
 #### (d) Criteria for determination
 
@@ -34,7 +34,7 @@ Any determination concerning the location of a chancery under subsection (b)(2),
 
 &emsp;(2) Historic preservation, as determined by the Board of Zoning Adjustment in carrying out this section; and in order to ensure compatibility with historic landmarks and districts, substantial compliance with District of Columbia and Federal regulations governing historic preservation shall be required with respect to new construction and to demolition of or alteration to historic landmarks.
 
-&emsp;(3) The adequacy of off-street or other parking and the extent to which the area will beserved by public transportation to reduce parking requirements, subject to such special security requirements as may be determined by the Secretary, after consultation with Federal agencies authorized to perform protective services.
+&emsp;(3) The adequacy of off-street or other parking and the extent to which the area will be served by public transportation to reduce parking requirements, subject to such special security requirements as may be determined by the Secretary, after consultation with Federal agencies authorized to perform protective services.
 
 &emsp;(4) The extent to which the area is capable of being adequately protected, as determined by the Secretary, after consultation with Federal agencies authorized to perform protective services.
 

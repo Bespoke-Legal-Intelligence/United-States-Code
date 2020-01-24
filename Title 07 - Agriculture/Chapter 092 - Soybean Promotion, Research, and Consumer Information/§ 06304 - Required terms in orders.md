@@ -20,7 +20,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (B) Combined units
 
-&emsp;&emsp;A State in which average annual soybean production is less than 3,000,000 bushels shallbe grouped with other States into a combined unit. To the extent practicable, each State with average annual soybean production of less than 3,000,000 bushels shall be grouped with other States with average annual soybean production of less than 3,000,000 bushels into a combined unit, in a manner prescribed in the order, and each combined unit shall consist of geographically contiguous States. To the extent practicable, each combined unit shall have an average annual production of soybeans of at least 3,000,000 bushels.
+&emsp;&emsp;A State in which average annual soybean production is less than 3,000,000 bushels shall be grouped with other States into a combined unit. To the extent practicable, each State with average annual soybean production of less than 3,000,000 bushels shall be grouped with other States with average annual soybean production of less than 3,000,000 bushels into a combined unit, in a manner prescribed in the order, and each combined unit shall consist of geographically contiguous States. To the extent practicable, each combined unit shall have an average annual production of soybeans of at least 3,000,000 bushels.
 
 #### (C) Number of seats per unit
 
@@ -132,7 +132,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) In general
 
-&emsp;The order shall establish procedures for the conduct of voting by the Board, as provided in this subsection. On or after the end of the 3-year period beginning on the effective date of the order, the Board may recommend to the Secretary changes in the voting procedures of the Board and the Secretary may amend the order to make such changes. Such changes shall not be subject to a referendum of producers.
+&emsp;The order shall establish procedures for the conduct of voting by the Board, as provided in this subsection. On or after the end of the 3-year period beginning on the effective date of the order, the Board may recommend to the Secretary changes in the voting procedures of the Board and the Secretary may amend theorder to make such changes. Such changes shall not be subject to a referendum of producers.
 
 #### (2) Number of votes per member
 
@@ -154,7 +154,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (I) First fiscal year
 
-&emsp;&emsp;&emsp;&emsp;During the first fiscal year of the Board, each unit shall be allotted onevote for each percent, or portion of a percent, of the total production of soybeans in the United States that was produced in the unit, on the average, during each of the 3 immediately preceding crop years.
+&emsp;&emsp;&emsp;&emsp;During the first fiscal year of the Board, each unit shall be allotted one vote for each percent, or portion of a percent, of the total production of soybeans in the United States that was produced in the unit, on the average, during each of the 3 immediately preceding crop years.
 
 #### (II) Second and third fiscal years
 
@@ -218,7 +218,7 @@ The order shall provide that the Board shall review or, on its own initiative, d
 
 #### (B) Certification
 
-&emsp;&emsp;To serve on the Committee, each producer elected by the national, nonprofit soybean producer-governed organization shall be certified by the Secretary as a producer who is duly elected by such organization as a representative to the Committee.
+&emsp;&emsp;To serve on the Committee, each producer elected by the national, nonprofit soybeanproducer-governed organization shall be certified by the Secretary as a producer who is duly elected by such organization as a representative to the Committee.
 
 #### (3) Terms
 
@@ -420,7 +420,7 @@ The order shall require the Board to—
 
 #### (I) Establishment
 
-&emsp;&emsp;&emsp;&emsp;The qualified State soybean board and, for producers in States where no qualified State soybean board exists, the Board shall establish escrow accounts to be used to pay refunds under clause (ii) and, if necessary, clauses (v) and (vi).
+&emsp;&emsp;&emsp;&emsp;The qualified State soybean board and, for producers in States where no qualified State soybean board exists, theBoard shall establish escrow accounts to be used to pay refunds under clause (ii) and, if necessary, clauses (v) and (vi).
 
 #### (II) Separate accounts
 
@@ -568,7 +568,7 @@ The order shall provide that the Board may provide a credit to each qualified St
 
 #### (4) Penalty
 
-&emsp;Any person who willfully violates the provisions of this subsection, upon conviction, shall be subject to a fine of not more than $1,000, or to imprisonment for not more than one year, or both, and, if a member or an agent of the Board or an officer or employee of the Department, shall be removed from office.
+&emsp;Any person who willfully violates the provisions of this subsection, upon conviction, shallbe subject to a fine of not more than $1,000, or to imprisonment for not more than one year, or both, and, if a member or an agent of the Board or an officer or employee of the Department, shall be removed from office.
 
 #### (r) Incidental terms and conditions
 

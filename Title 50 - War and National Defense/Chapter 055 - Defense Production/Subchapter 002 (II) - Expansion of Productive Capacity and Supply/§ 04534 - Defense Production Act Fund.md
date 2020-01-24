@@ -36,7 +36,7 @@ The President shall designate a Fund manager. The duties of the Fund manager sha
 
 #### (g) Liabilities against Fund
 
-When any agreement entered into pursuant to this subchapter after December 31, 1991, imposes any contingent liability upon the United States, such liability shall be considered an obligation against the Fund.
+When any agreement entered into pursuant to this subchapter after December 31, 1991, imposesany contingent liability upon the United States, such liability shall be considered an obligation against the Fund.
 
 (Sept. 8, 1950, ch. 932, title III, §304, as added Pub. L. 111–67, §7, Sept. 30, 2009, 123 Stat. 2017.)
 

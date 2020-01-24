@@ -16,15 +16,15 @@ In addition to any other fee authorized by law, the Secretary of the Treasury sh
 
 &emsp;(B) For the arrival of each passenger aboard a commercial vessel from a place referred to in subsection (b)(1)(A)(i) of this section, $1.75.
 
-&emsp;(6) For each item of dutiable mail for which a document is prepared by a customs officer, $5.
+&emsp;(6) For each item of dutiable mail for which a document is prepared by a customs officer (other than an item subject to a fee under subsection (b)(9)(D)), $5.
 
 &emsp;(7) For each customs broker permit held by an individual, partnership, association, or corporate customs broker, $125 per year.
 
 &emsp;(8) For the arrival of a barge or other bulk carrier from Canada or Mexico, $100.
 
-&emsp;(9)(A) For the processing of merchandise that is formally entered or released during any fiscal year, a fee in an amount equal to 0.21 percent ad valorem, unless adjusted under subparagraph (B).
+&emsp;(9)(A) For the processing of merchandise that is formally entered or released during any fiscal year, a fee in an amount equal to 0.21 <sup>1</sup> percent ad valorem, unless adjusted under subparagraph (B).
 
-&emsp;(B)(i) The Secretary of the Treasury may adjust the ad valorem rate specified in subparagraph (A) to an ad valorem rate (but not to a rate of more than 0.21 percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would, if charged, offset the salaries and expenses that will likely be incurred by the Customs Service in the processing of such entries and releases during the fiscal year in which such costs are incurred.
+&emsp;(B)(i) The Secretary of the Treasury may adjust the ad valorem rate specified in subparagraph (A) to an ad valorem rate (but not to a rate of more than 0.21 <sup>1</sup> percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would, if charged, offset the salaries and expenses that will likely be incurred by the Customs Service in the processing of such entries and releases during the fiscal year in which such costs are incurred.
 
 &emsp;(ii) In determining the amount of any adjustment under clause (i), the Secretary of the Treasury shall take into account whether there is a surplus or deficit in the fund established under subsection (f) with respect to the provision of customs services for the processing of formal entries and releases of merchandise.
 
@@ -54,7 +54,7 @@ In addition to any other fee authorized by law, the Secretary of the Treasury sh
 
 &emsp;&emsp;(B) an express consignment carrier facility, or
 
-&emsp;&emsp;(C) a small airport or other facility to which section 58b of this title applies, if more than 25,000 informal entries were cleared through such airport or facility during the fiscal year preceding such entry or release,
+&emsp;&emsp;(C) a small airport or other facility to which section 58b of this title applies, if more than 25,000 informal entries were cleared through such airport or facility during the fiscal year preceding such entry or release (other than Inbound EMS items described in subsection (b)(9)(D)),
 
 > &emsp;a fee of—
 
@@ -64,7 +64,7 @@ In addition to any other fee authorized by law, the Secretary of the Treasury sh
 
 &emsp;&emsp;(iii) $9 if the entry or release, whether automated or manual, is prepared by customs personnel.
 
-> &emsp;For provisions relating to the informal entry or release of merchandise at facilities referred to in subparagraphs (A), (B), and (C), see subsection (b)(9).
+> &emsp;For provisions relating to the informal entry or release of merchandise at facilities referred to in subparagraphs (A), (B), and (C), or of Inbound EMS items described in subsection (b)(9)(D), see subsection (b)(9).
 
 #### (b) Limitations on fees
 
@@ -76,7 +76,7 @@ In addition to any other fee authorized by law, the Secretary of the Treasury sh
 
 &emsp;&emsp;(II) originated in the United States and was limited to territories and possessions of the United States;
 
-&emsp;(ii) the arrival of any railroad car the journey of which originates and terminates in the same country, but only if no passengers boardor disembark from the train and no cargo is loaded or unloaded from such car while the car is within any country other than the country in which such car originates and terminates;
+&emsp;(ii) the arrival of any railroad car the journey of which originates and terminates in the same country, but only if no passengers board or disembark from the train and no cargo is loaded or unloaded from such car while the car is within any country other than the country in which such car originates and terminates;
 
 &emsp;(iii) the arrival of a ferry, except for a ferry whose operations begin on or after August 1, 1999, and that operates south of 27 degrees latitude and east of 89 degrees longitude; or
 
@@ -152,7 +152,7 @@ In addition to any other fee authorized by law, the Secretary of the Treasury sh
 
 &emsp;(ii) except as otherwise provided in this paragraph, be based on the value of the merchandise as determined under section 1401a of this title;
 
-&emsp;(iii) in the case of merchandise classified under subheading 9802.00.60 of the Harmonized Tariff Schedule of the United States, be applied to the value of the foreign repairs or alterations to the merchandise;
+&emsp;(iii) in the case of merchandise classified under subheading 9802.00.60 of the HarmonizedTariff Schedule of the United States, be applied to the value of the foreign repairs or alterations to the merchandise;
 
 &emsp;(iv) in the case of merchandise classified under heading 9802.00.80 of such Schedule, be applied to the full value of the merchandise, less the cost or value of the component United States products;
 
@@ -198,7 +198,27 @@ In addition to any other fee authorized by law, the Secretary of the Treasury sh
 
 &emsp;(i) The terms "centralized hub facility" and "express consignment carrier facility" have the respective meanings that are applied to such terms in part 128 of chapter I of title 19, Code of Federal Regulations. Nothing in this paragraph shall be construed as prohibiting the Secretary of the Treasury from processing merchandise that is informally entered or released at any centralized hub facility or express consignment carrier facility during the normal operating hours of the Customs Service, subject to reimbursement and payment under subparagraph (A).
 
-&emsp;(ii) The term "small airport or other facility" means any airport or facility to which section 58b of this title applies, if more than25,000 informal entries were cleared through such airport or facility during the preceding fiscal year.
+&emsp;(ii) The term "small airport or other facility" means any airport or facility to which section 58b of this title applies, if more than 25,000 informal entries were cleared through such airport or facility during the preceding fiscal year.
+
+(D)(i) With respect to the processing of items that are sent to the United States through the international postal network by "Inbound Express Mail service" or "Inbound EMS" (as that service is described in the mail classification schedule referred to in section 3631 of title 39), the following payments are required:
+
+&emsp;(I) $1 per Inbound EMS item.
+
+&emsp;(II) If an Inbound EMS item is formally entered, the fee provided for under subsection (a)(9), if applicable.
+
+(ii) Notwithstanding section 1451 of this title, the payments required by clause (i), as allocated pursuant to clause (iii)(I), shall be the only payments required for reimbursement of U.S. Customs and Border Protection for customs services provided in connection with the processing of an Inbound EMS item.
+
+(iii)(I) The payments required by clause (i)(I) shall be allocated as follows:
+
+&emsp;(aa) 50 percent of the amount of the payments shall be paid on a quarterly basis by the United States Postal Service to the Commissioner of U.S. Customs and Border Protection in accordance with regulations prescribed by the Secretary of the Treasury to reimburse U.S. Customs and Border Protection for customs services provided in connection with the processing of Inbound EMS items.
+
+&emsp;(bb) 50 percent of the amount of the payments shall be retained by the Postal Service to reimburse the Postal Service for services provided in connection with the customs processing of Inbound EMS items.
+
+(II) Payments received by U.S. Customs and Border Protection under subclause (I)(aa) shall, in accordance with section 1524 of this title, be deposited in the Customs User Fee Account and used to directly reimburse each appropriation for the amount paid out of that appropriation for the costs incurred in providing services to international mail facilities. Amounts deposited in accordance with the preceding sentence shall be available until expended for the provision of such services.
+
+(III) Payments retained by the Postal Service under subclause (I)(bb) shall be used to directly reimburse the Postal Service for the costs incurred in providing services in connection with the customs processing of Inbound EMS items.
+
+(iv) Beginning in fiscal year 2021, the Secretary, in consultation with the Postmaster General, may adjust, not more frequently than once each fiscal year, the amount described in clause (i)(I) to an amount commensurate with the costs of services provided in connection with the customs processing of Inbound EMS items, consistent with the obligations of the United States under international agreements.
 
 (10)(A) The fee charged under subsection (a)(9) or (10) with respect to goods of Canadian origin (as determined under section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988) when the United States-Canada Free-Trade Agreement is in force shall be in accordance with article 403 of that Agreement.
 
@@ -292,7 +312,7 @@ For purposes of this section—
 
 &emsp;(II) pays any overtime fees incurred in connection with such services.
 
-(ii) Services described in this clause are customs services for passengers and their baggage or any other similar service that could lawfully be performed during regular hours of operation.
+(ii) Services described in this clause are customs services for passengers and their baggageor any other similar service that could lawfully be performed during regular hours of operation.
 
 (2)(A) This subsection shall not apply with respect to any airport, seaport, or other facility to which section 58b of this title applies.
 
@@ -402,7 +422,7 @@ For purposes of this section—
 
 (4)(A) There is created within the general fund of the Treasury a separate account that shall be known as the "Customs Commercial and Homeland Security Automation Account". In each of fiscal years 2003, 2004, and 2005 there shall be deposited into the Account from fees collected under subsection (a)(9)(A), $350,000,000.
 
-(B) There is authorized to be appropriated from the Account in fiscal years 2016 through 2018 not less than $153,736,000 to complete the development and implementation, establishment, and implementation <sup>1</sup> of the Automated Commercial Environment computer system for the processing of merchandise that is entered or released and for other purposes related to the functions of the Department of Homeland Security. Amounts appropriated pursuant to this subparagraph are authorized to remain available until expended.
+(B) There is authorized to be appropriated from the Account in fiscal years 2016 through 2018 not less than $153,736,000 to complete the development and implementation, establishment, and implementation <sup>2</sup> of the Automated Commercial Environment computer system for the processing of merchandise that is entered or released and for other purposes related to the functions of the Department of Homeland Security. Amounts appropriated pursuant to this subparagraph are authorized to remain available until expended.
 
 (C) In adjusting the fee imposed by subsection (a)(9)(A) for fiscal year 2006, the Secretary of the Treasury shall reduce the amount estimated to be collected in fiscal year 2006 by the amount by which total fees deposited to the Account during fiscal years 2003, 2004, and 2005 exceed total appropriations from that Account.
 
@@ -418,7 +438,7 @@ For purposes of this section—
 
 #### (i) Effect on other authority
 
-Except with respect to customs services for which fees are imposed under subsection (a),nothing in this section shall be construed as affecting the authority of the Secretary of the Treasury to charge fees under section 58a of this title.
+Except with respect to customs services for which fees are imposed under subsection (a), nothing in this section shall be construed as affecting the authority of the Secretary of the Treasury to charge fees under section 58a of this title.
 
 #### (j) Effective dates
 
@@ -426,9 +446,9 @@ Except with respect to customs services for which fees are imposed under subsect
 
 (2) Fees may be charged under subsection (a)(5) only with respect to customs services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after the date that is 90 days after April 7, 1986.
 
-(3)(A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after October 20, 2027.
+(3)(A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after September 30, 2029.
 
-(B)(i) Subject to clause (ii), Fees <sup>2</sup> may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2027.
+(B)(i) Subject to clause (ii), Fees <sup>3</sup> may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2029.
 
 (ii) In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) are authorized—
 
@@ -462,45 +482,9 @@ The Commissioner of U.S. Customs and Border Protection shall establish an adviso
 
 &emsp;For purposes of this subsection, the term "Consumer Price Index" means the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
 
-(Pub. L. 99–272, title XIII, §13031, Apr. 7, 1986, 100 Stat. 308; Pub. L. 99–509, title VIII, §8101, Oct. 21, 1986, 100 Stat. 1965; Pub. L. 99–514, §2, title XVIII, §1893(a)–(c)(1), (d), (e), Oct. 22, 1986, 100 Stat. 2095, 2927–2930; Pub. L. 100–203, title IX, §9501(a), Dec. 22, 1987, 101 Stat. 1330–377; Pub. L. 100–418, title I, §1214(g), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–449, title II, §203, Sept. 28, 1988, 102 Stat. 1861; Pub. L. 100–647, title IX, §9001(a)(13), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–207, §3(c)(1), (f)(2), Dec. 7, 1989, 103 Stat. 1834, 1835; Pub. L. 101–382, title I, §§111(a)–(e), 139(c), Aug. 20, 1990, 104 Stat. 635–639, 654; Pub. L. 101–508, title X, §10001(a), (b), (e), (f), Nov. 5, 1990, 104 Stat. 1388–385 to 1388–387; Pub. L. 103–66, title XIII, §§13801, 13813, Aug. 10, 1993, 107 Stat. 667, 671; Pub. L. 103–182, title II, §204, title V, §521(a), title VI, §682, Dec. 8, 1993, 107 Stat. 2092, 2160, 2218; Pub. L. 103–465, title VI, §§611(a), 612(a), Dec. 8, 1994, 108 Stat. 4991, 4992; Pub. L. 104–295, §§4(a), 6, 21(a)(1), 38(a)–(c), Oct. 11, 1996, 110 Stat. 3516, 3517, 3529, 3539, 3540; Pub. L. 105–150, §1(a), Dec. 16, 1997, 111 Stat. 2685; Pub. L. 106–36, title I, §1001(b)(1), title II, §2418(a)–(d), June 25, 1999, 113 Stat. 131, 176, 177; Pub. L. 106–476, title I, §1457, Nov. 9, 2000, 114 Stat. 2170; Pub. L. 107–210, div. A, title III, §337(a), Aug. 6, 2002, 116 Stat. 978; Pub. L. 107–296, title IV, §419(a), Nov. 25, 2002, 116 Stat. 2181; Pub. L. 108–77, title II, §204,Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §203, Sept. 3, 2003, 117 Stat. 961; Pub. L. 108–89, title III, §301, Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–121, title II, §201, Nov. 11, 2003, 117 Stat. 1343; Pub. L. 108–286, title II, §204, Aug. 3, 2004, 118 Stat. 939; Pub. L. 108–357, title VIII, §892(a), (b), (c)(2), (d), Oct. 22, 2004, 118 Stat. 1644–1646; Pub. L. 108–429, title II, §2004(f), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–53, title II, §204, Aug. 2, 2005, 119 Stat. 483; Pub. L. 109–169, title II, §203, Jan. 11, 2006, 119 Stat. 3591; Pub. L. 109–280, title XIV, §1635(f)(5), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 109–283, title II, §203, Sept. 26, 2006, 120 Stat. 1201; Pub. L. 110–42, §3, June 30, 2007, 121 Stat. 236; Pub. L. 110–52, §2, Aug. 1, 2007, 121 Stat. 264; Pub. L. 110–89, §2(b), Sept. 28, 2007, 121 Stat. 982; Pub. L. 110–138, title II, §204, title VI, §601, Dec. 14, 2007, 121 Stat. 1475, 1489; Pub. L. 110–191, §3, Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–234, title XV, §15201(a), (b), May 22, 2008, 122 Stat. 1500; Pub. L. 110–246, §4(a), title XV, §15201(a), (b), June 18, 2008, 122 Stat. 1664, 2262; Pub. L. 110–287, §2, July 29, 2008, 122 Stat. 2649; Pub. L. 110–436, §5(a), Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–42, title I, §103, July 28, 2009, 123 Stat. 1963; Pub. L. 111–124, §3, Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–171, §11, May 24, 2010, 124 Stat. 1207; Pub. L. 111–210, §2, July 27, 2010, 124 Stat. 2256; Pub. L. 111–227, title IV, §4001(a), (b)(1), Aug. 11, 2010, 124 Stat. 2480; Pub. L. 111–291, title VIII, §821, Dec. 8, 2010, 124 Stat. 3163; Pub. L. 111–344, title III, §301, Dec. 29, 2010, 124 Stat. 3617; Pub. L. 112–41, title II, §203, title V, §504, Oct. 21, 2011, 125 Stat. 447, 460; Pub. L. 112–42, title II, §204, title VI, §§601(a), 602, Oct. 21, 2011, 125 Stat. 483, 495, 496; Pub. L. 112–43, title II, §204, title V, §501, Oct. 21, 2011, 125 Stat. 518, 530; Pub. L. 112–163, §5, Aug. 10, 2012, 126 Stat. 1277; Pub. L. 113–67, div. A, title VII, §701, Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–159, title II, §2004, Aug. 8, 2014, 128 Stat. 1851; Pub. L. 113–188, title X, §1001(c), Nov. 26, 2014, 128 Stat. 2022; Pub. L. 114–27, title VIII, §§801(a), 802(a), June 29, 2015, 129 Stat. 414; Pub. L. 114–94, div. C, title XXXII, §32201(a), (c), Dec. 4, 2015, 129 Stat. 1738; Pub. L. 114–125, title I, §106(a), title VIII, §802(d)(2), title IX, §§908, 920(a), Feb. 24, 2016, 130 Stat. 133, 210, 235, 280; Pub. L. 115–31, div. M, title I, §105(a), May 5, 2017, 131 Stat. 804; Pub. L. 115–123, div. C, title II, §30201(a), Feb. 9, 2018, 132 Stat. 126; Pub. L. 115–141, div. M, title V, §503, Mar. 23, 2018, 132 Stat. 1051; Pub. L. 115–239, §1665, Sept. 13, 2018, 132 Stat. 2887; Pub. L. 115–264, §2, Oct. 11, 2018, 132 Stat. 3676; Pub. L. 115–271, title VIII, §8002(a), (b), Oct. 24, 2018, 132 Stat. 4073, 4074.)
+(Pub. L. 99–272, title XIII, §13031, Apr. 7, 1986, 100 Stat. 308; Pub. L. 99–509, title VIII, §8101, Oct. 21, 1986, 100 Stat. 1965; Pub. L. 99–514, §2, title XVIII, §1893(a)–(c)(1), (d), (e), Oct. 22, 1986, 100 Stat. 2095, 2927–2930; Pub. L. 100–203, title IX, §9501(a), Dec. 22, 1987, 101 Stat. 1330–377; Pub. L. 100–418, title I, §1214(g), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–449, title II, §203, Sept. 28, 1988, 102 Stat. 1861; Pub. L. 100–647, title IX, §9001(a)(13), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–207, §3(c)(1), (f)(2), Dec. 7, 1989, 103 Stat. 1834, 1835; Pub. L. 101–382, title I, §§111(a)–(e), 139(c), Aug. 20, 1990, 104 Stat. 635–639, 654; Pub. L. 101–508, title X, §10001(a), (b), (e), (f), Nov. 5, 1990, 104 Stat. 1388–385 to 1388–387; Pub. L. 103–66, title XIII, §§13801, 13813, Aug. 10, 1993, 107 Stat. 667, 671; Pub. L. 103–182, title II, §204, title V, §521(a), title VI, §682, Dec. 8, 1993, 107 Stat. 2092, 2160, 2218; Pub. L. 103–465, title VI, §§611(a), 612(a), Dec. 8, 1994, 108 Stat. 4991, 4992; Pub. L. 104–295, §§4(a), 6, 21(a)(1), 38(a)–(c), Oct. 11, 1996, 110 Stat. 3516, 3517, 3529, 3539, 3540; Pub. L. 105–150, §1(a), Dec. 16, 1997, 111 Stat. 2685; Pub. L. 106–36, title I, §1001(b)(1), title II, §2418(a)–(d), June 25, 1999, 113 Stat. 131, 176, 177; Pub. L. 106–476, title I, §1457, Nov. 9, 2000, 114 Stat. 2170; Pub. L. 107–210, div. A, title III, §337(a), Aug. 6, 2002, 116 Stat. 978; Pub. L. 107–296, title IV, §419(a), Nov. 25, 2002, 116 Stat. 2181; Pub. L. 108–77, title II, §204, Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §203, Sept. 3, 2003, 117 Stat. 961; Pub. L. 108–89, title III, §301, Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–121, title II, §201, Nov. 11, 2003, 117 Stat. 1343; Pub. L. 108–286, title II, §204, Aug. 3, 2004, 118 Stat. 939; Pub. L. 108–357, title VIII, §892(a), (b), (c)(2), (d), Oct. 22, 2004, 118 Stat. 1644–1646; Pub. L. 108–429, title II, §2004(f), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–53, title II, §204, Aug. 2, 2005, 119 Stat. 483; Pub. L. 109–169, title II, §203, Jan. 11, 2006, 119 Stat. 3591; Pub. L. 109–280, title XIV, §1635(f)(5), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 109–283, title II, §203, Sept. 26, 2006, 120 Stat. 1201; Pub. L. 110–42, §3, June 30, 2007, 121 Stat. 236; Pub. L. 110–52, §2, Aug. 1, 2007, 121 Stat. 264; Pub. L. 110–89, §2(b), Sept. 28, 2007, 121 Stat. 982; Pub. L. 110–138, title II, §204, title VI, §601, Dec. 14, 2007, 121 Stat. 1475, 1489; Pub. L. 110–191, §3, Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–234, title XV, §15201(a), (b), May 22, 2008, 122 Stat. 1500; Pub. L. 110–246, §4(a), title XV, §15201(a), (b), June 18, 2008, 122 Stat. 1664, 2262; Pub. L. 110–287, §2, July 29, 2008, 122 Stat. 2649; Pub. L. 110–436, §5(a), Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–42, title I, §103, July 28, 2009, 123 Stat. 1963; Pub. L. 111–124, §3, Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–171, §11, May 24, 2010, 124 Stat. 1207; Pub. L. 111–210, §2, July 27, 2010, 124 Stat. 2256; Pub. L. 111–227, title IV, §4001(a), (b)(1), Aug. 11, 2010, 124 Stat. 2480; Pub. L. 111–291, title VIII, §821, Dec. 8, 2010, 124 Stat. 3163; Pub. L. 111–344, title III, §301, Dec. 29, 2010, 124 Stat. 3617; Pub. L. 112–41, title II, §203, title V, §504, Oct. 21, 2011, 125 Stat. 447, 460; Pub. L. 112–42, title II, §204, title VI, §§601(a), 602, Oct. 21, 2011, 125 Stat. 483, 495, 496; Pub. L. 112–43, title II, §204, title V, §501, Oct. 21, 2011, 125 Stat. 518, 530; Pub. L. 112–163, §5, Aug. 10, 2012, 126 Stat. 1277; Pub. L. 113–67, div. A, title VII, §701, Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–159, title II, §2004, Aug. 8, 2014, 128 Stat. 1851; Pub. L. 113–188, title X, §1001(c), Nov. 26, 2014, 128 Stat. 2022; Pub. L. 114–27, title VIII, §§801(a), 802(a), June 29, 2015, 129 Stat. 414; Pub. L. 114–94, div. C, title XXXII, §32201(a), (c), Dec. 4, 2015, 129 Stat. 1738; Pub. L. 114–125, title I, §106(a), title VIII, §802(d)(2), title IX, §§908, 920(a), Feb. 24, 2016, 130 Stat. 133, 210, 235, 280; Pub. L. 115–31, div. M, title I, §105(a), May 5, 2017, 131 Stat. 804; Pub. L. 115–123, div. C, title II, §30201(a), Feb. 9, 2018, 132 Stat. 126; Pub. L. 115–141, div. M, title V, §503, Mar. 23, 2018, 132 Stat. 1051; Pub. L. 115–239, §1665, Sept. 13, 2018, 132 Stat. 2887; Pub. L. 115–264, §2, Oct. 11, 2018, 132 Stat. 3676; Pub. L. 115–271, title VIII, §8002(a), (b), Oct. 24, 2018, 132 Stat. 4073, 4074; Pub. L. 116–37, title IV, §401(a), Aug. 2, 2019, 133 Stat. 1058.)
 
 #### Amendment of Section
-
-<i>Pub. L. 115–271, title VIII, §8002, Oct. 24, 2018, 132 Stat. 4073, provided that, effective on Jan. 1, 2020, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)—</i>
-
-<i>(A) in paragraph (6), by inserting "(other than an item subject to a fee under subsection (b)(9)(D))" after "customs officer"; and</i>
-
-<i>(B) in paragraph (10)—</i>
-
-<i>(i) in subparagraph (C), by inserting "(other than Inbound EMS items described in subsection (b)(9)(D))" after "release"; and</i>
-
-<i>(ii) in the flush text at the end, by inserting "or of Inbound EMS items described in subsection (b)(9)(D)," after "(C),"; and</i>
-
-<i>(2) in subsection (b)(9), by adding at the end the following new subparagraph:</i>
-
-<i>(D)(i) With respect to the processing of items that are sent to the United States through the international postal network by "Inbound Express Mail service" or "Inbound EMS" (as that service is described in the mail classification schedule referred to in section 3631 of title 39), the following payments are required:</i>
-
-&emsp;<i>(I) $1 per Inbound EMS item.</i>
-
-&emsp;<i>(II) If an Inbound EMS item is formally entered, the fee provided for under subsection (a)(9), if applicable.</i>
-
-<i>(ii) Notwithstanding section 1451 of this title, the payments required by clause (i), as allocated pursuant to clause (iii)(I), shall be the only payments required for reimbursement of U.S. Customs and Border Protection for customs services provided in connection with the processing of an Inbound EMS item.</i>
-
-<i>(iii)(I) The payments required by clause (i)(I) shall be allocated as follows:</i>
-
-&emsp;<i>(aa) 50 percent of the amount of the payments shall be paid on a quarterly basis by the United States Postal Service to the Commissioner of U.S. Customs and Border Protection in accordance with regulations prescribed by the Secretary of the Treasury to reimburse U.S. Customs and Border Protection for customs services provided in connection with the processing of Inbound EMS items.</i>
-
-&emsp;<i>(bb) 50 percent of the amount of the payments shall be retained by the Postal Service to reimburse the Postal Service for services provided in connection with the customs processing of Inbound EMS items.</i>
-
-<i>(II) Payments received by U.S. Customs and Border Protection under subclause (I)(aa) shall, in accordance with section 1524 of this title, be deposited in the Customs User Fee Account and used to directly reimburse each appropriation for the amount paid out of that appropriation for the costs incurred in providing services to international mail facilities. Amounts deposited in accordance with the preceding sentence shall be available until expended for the provision of such services.</i>
-
-<i>(III) Payments retained by the Postal Service under subclause (I)(bb) shall be used to directly reimburse the Postal Service for the costs incurred in providing services in connection with the customs processing of Inbound EMS items.</i>
-
-<i>(iv) Beginning in fiscal year 2021, the Secretary, in consultation with the Postmaster General, may adjust, not more frequently than once each fiscal year, the amount described in clause (i)(I) to an amount commensurate with the costs of services provided in connection with the customs processing of Inbound EMS items, consistent with the obligations of the United States under international agreements.</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 <i>For termination of amendment by section 107(c) of Pub. L. 112–43, see Effective and Termination Dates of 2011 Amendment note below.</i>
 
@@ -569,6 +553,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section is comprised of section 13031 of Pub. L. 99–272. Subsec. (h) of section 13031 of Pub. L. 99–272 amended section 545(i) of Title 45, Railroads, and repealed section 1741(e) of former Title 49, Transportation.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (j)(3)(A). Pub. L. 116–37, §401(a)(1), substituted "September 30, 2029" for "October 20, 2027".
+
+Subsec. (j)(3)(B)(i). Pub. L. 116–37, §401(a)(2), substituted "September 30, 2029" for "September 30, 2027".
 
 <b>2018</b>—Subsec. (a)(6). Pub. L. 115–271, §8002(b)(1), inserted "(other than an item subject to a fee under subsection (b)(9)(D))" after "customs officer".
 
@@ -800,7 +788,7 @@ Subsec. (e)(1). Pub. L. 106–36, §1001(b)(1)(A), realigned margins.
 
 Subsec. (f)(3)(A)(ii). Pub. L. 106–36, §1001(b)(1)(B)(i), substituted "collected under paragraphs (1) through (8) of subsection (a)" for "collected under subsection (a)(1) through (a)(8)".
 
-Subsec. (f)(3)(A)(iii). Pub. L. 106–36, §2418(a), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "to the extent funds remain available after making reimbursements under clause (ii), in providing salaries for up to 50 full-time equivalent inspectional positions through September 30, 1998, that enhance customs services in connection with the arrival in Florida of passengers aboard commercial vessels, regardless of whether those passengers are required to pay fees under paragraphs (1) through (8) of subsection (a) of this section."
+Subsec. (f)(3)(A)(iii). Pub. L. 106–36, §2418(a), amended cl. (iii) generally. Prior to amendment, cl. (iii) read asfollows: "to the extent funds remain available after making reimbursements under clause (ii), in providing salaries for up to 50 full-time equivalent inspectional positions through September 30, 1998, that enhance customs services in connection with the arrival in Florida of passengers aboard commercial vessels, regardless of whether those passengers are required to pay fees under paragraphs (1) through (8) of subsection (a) of this section."
 
 Subsec. (f)(3)(C)(ii)(I). Pub. L. 106–36, §1001(b)(1)(B)(ii), substituted "subparagraph (A)(i)" for "paragraph (A)(i)".
 
@@ -978,7 +966,7 @@ Subsec. (b)(8)(D)(ii). Pub. L. 101–382, §111(b)(2)(D)(i), substituted "except
 
 Subsec. (b)(8)(D)(iii). Pub. L. 101–382, §139(c)(1), substituted "subheading 9802.00.60 of the Harmonized Tariff Schedule of the United States" for "subparagraph 9802.00.60 of the Tariff Schedules of the United States".
 
-Subsec. (b)(8)(D)(iv). Pub. L. 101–382, §139(c)(2), which directed amendment of cl. (iv) by substituting "heading 9802.00.80 of such Schedule" for "subparagraph 9802.00.80 of Schedules", could not be executed because "subparagraph 9802.00.80 of Schedules" did not appear in text.
+Subsec. (b)(8)(D)(iv). Pub. L. 101–382, §139(c)(2), which directed amendment of cl. (iv) by substituting "heading9802.00.80 of such Schedule" for "subparagraph 9802.00.80 of Schedules", could not be executed because "subparagraph 9802.00.80 of Schedules" did not appear in text.
 
 Subsec. (b)(8)(D)(v). Pub. L. 101–382, §111(b)(2)(D)(ii)–(iv), added cl. (v).
 
@@ -1054,7 +1042,7 @@ Subsec. (a)(8). Pub. L. 99–514, §1893(a)(1)(B), which directed the amendment 
 
 Subsec. (a)(9), (10). Pub. L. 99–509, §8101(a), added pars. (9) and (10).
 
-Subsec. (b)(1)(A). Pub. L. 99–514, §1893(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the arrival of any passenger whose journey originated in—
+Subsec. (b)(1)(A). Pub. L. 99–514, §1893(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: "the arrival of any passenger whose journey originated in—
 
 &emsp;"(i) Canada,
 
@@ -1126,7 +1114,7 @@ Pub. L. 111–42, title I, §104, July 28, 2009, 123 Stat. 1963, provided that: 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–287, §4, July 29, 2008, 122 Stat. 2649, provided that: "This joint resolution \[amending this section and enacting provisions set out as notes under section 6655 of Title 26, Internal Revenue Code, and section 1701 of Title 50, War and National Defense\] and theamendments made by this joint resolution shall take effect on the date of the enactment of this joint resolution \[July 29, 2008\] or July 26, 2008, whichever occurs first."
+Pub. L. 110–287, §4, July 29, 2008, 122 Stat. 2649, provided that: "This joint resolution \[amending this section and enacting provisions set out as notes under section 6655 of Title 26, Internal Revenue Code, and section 1701 of Title 50, War and National Defense\] and the amendments made by this joint resolution shall take effect on the date of the enactment of this joint resolution \[July 29, 2008\] or July 26, 2008, whichever occurs first."
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
@@ -1278,7 +1266,7 @@ Pub. L. 103–182, title II, §212, Dec. 8, 1993, 107 Stat. 2099, provided that:
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as ofNov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Use of Fees
 
@@ -1314,7 +1302,7 @@ Fees for Period From October 1, 2016
 
 &emsp;"(2) in subparagraph (B)(i), by substituting '0.1740' for '0.21'."
 
-\[For additional application and administration of subsec. (a)(9) of this section for period beginning on Dec. 1, 2015, and ending on June 30, 2021, see section 503 of Pub. L. 112–41, set out in a note under section 3805 of this title.\]
+\[For additional application and administration of subsec. (a)(9) of this section for period beginning on Dec. 1, 2015, and ending on Sept. 30, 2029, see section 503 of Pub. L. 112–41, set out in a note under section 3805 of this title.\]
 
 #### Time for Remitting Certain Merchandise Processing Fees
 
@@ -1350,19 +1338,21 @@ Pub. L. 101–382, title I, §112, Aug. 20, 1990, 104 Stat. 639, provided that: 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Fee for Customs Broker Permit for 1986; Reinstatement of Revoked or Suspended Customs Brokers' Licenses and Permits
 
 Pub. L. 99–514, title XVIII, §1893(c)(2), (3), Oct. 22, 1986, 100 Stat. 2929, provided that:
 
-"(2) Notwithstanding section 13031(a)(7) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a)(7)), the fee imposed by section 13031(a) of such Act with respect to each customs broker permit held by an individual, partnership, association, or corporate customs broker for calendar year 1986 is $62.50.
+"(2) Notwithstanding section 13031(a)(7) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a)(7)), the fee imposed by section 13031(a) of such Act with respect to each customs broker permitheld by an individual, partnership, association, or corporate customs broker for calendar year 1986 is $62.50.
 
 "(3)(A) The Secretary of the Treasury shall reinstate any customs broker's license or customs broker permit issued under subsection (b) or (c) of section 641 of the Tariff Act of 1930 (19 U.S.C. 1641) that was suspended or revoked on or before the date of enactment of this Act \[Oct. 22, 1986\] solely by reason of nonpayment of the fee imposed by section 13031(a)(7) of the Consolidated Omnibus Budget Reconciliation Act of 1985.
 
 "(B) Notwithstanding any other provision of law, the Secretary of the Treasury may not suspend or revoke any customs broker permit issued under section 641(c) of the Tariff Act of 1930 (19 U.S.C. 1641(c)) solely by reason of nonpayment of the fee imposed by section 13031(a)(7) of the Consolidated Omnibus Budget Reconciliation Act of 1985 before the date that is 60 days after the date of enactment of this Act \[Oct. 22, 1986\]."
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> See Rates for Merchandise Processing Fees notes below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
 

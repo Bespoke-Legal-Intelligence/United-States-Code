@@ -8,7 +8,7 @@ The Secretary shall establish in the Department the position of Military Veteran
 
 The Military Veterans Agricultural Liaison shall—
 
-&emsp;(1) provide information to returning veterans about, and connect returning veterans with, beginning farmer training and agricultural vocational and rehabilitation programsappropriate to the needs and interests of returning veterans, including assisting veterans in using Federal veterans educational benefits for purposes relating to beginning a farming or ranching career;
+&emsp;(1) provide information to returning veterans about, and connect returning veterans with, beginning farmer training and agricultural vocational and rehabilitation programs appropriate to the needs and interests of returning veterans, including assisting veterans in using Federal veterans educational benefits for purposes relating to beginning a farming or ranching career;
 
 &emsp;(2) provide information to veterans concerning the availability of, and eligibility requirements for, participation in agricultural programs, with particular emphasis on beginning farmer and rancher programs;
 

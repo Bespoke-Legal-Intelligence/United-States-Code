@@ -42,7 +42,7 @@ Except as provided in this section, the Administrator shall not disclose informa
 
 #### (A) In general
 
-&emsp;&emsp;If the Administrator promulgates a rule pursuant to section 2605(a) of this title that establishes a ban or phase-out of a chemical substance or mixture, the protection from disclosure of any information under this section with respect to the chemical substance or mixture shall be presumed to no longer apply, subject to subsection (g)(1)(E) and subparagraphs (B) and (C) of this paragraph.
+&emsp;&emsp;If the Administrator promulgates a rule pursuant to section 2605(a) of this title that establishes a ban or phase-out of a chemical substance or mixture, the protection from disclosure of any information under this section with respect to the chemical substanceor mixture shall be presumed to no longer apply, subject to subsection (g)(1)(E) and subparagraphs (B) and (C) of this paragraph.
 
 #### (B) Limitations
 
@@ -56,7 +56,7 @@ Except as provided in this section, the Administrator shall not disclose informa
 
 #### (iii) Specific conditions of use
 
-&emsp;&emsp;&emsp;In the case of a chemical substance or mixture for which the Administrator establishes a ban or phase-out described in subparagraph (A) with respect to a specific condition of use of the chemical substance or mixture, the presumption against protection under such subparagraph shallonly apply to information that relates solely to the condition of use of the chemical substance or mixture for which the ban or phase-out is established.
+&emsp;&emsp;&emsp;In the case of a chemical substance or mixture for which the Administrator establishes a ban or phase-out described in subparagraph (A) with respect to a specific condition of use of the chemical substance or mixture, the presumption against protection under such subparagraph shall only apply to information that relates solely to the condition of use of the chemical substance or mixture for which the ban or phase-out is established.
 
 #### (C) Request for nondisclosure
 
@@ -136,7 +136,7 @@ Except as provided in this section, the Administrator shall not disclose informa
 
 #### (5) Certification
 
-&emsp;An authorized official of a person described in paragraph (1)(A) shall certify that thestatement required to assert a claim submitted pursuant to paragraph (1)(B), and any information required to substantiate a claim submitted pursuant to paragraph (3), are true and correct.
+&emsp;An authorized official of a person described in paragraph (1)(A) shall certify that the statement required to assert a claim submitted pursuant to paragraph (1)(B), and any information required to substantiate a claim submitted pursuant to paragraph (3), are true and correct.
 
 #### (d) Exceptions to protection from disclosure
 
@@ -282,7 +282,7 @@ Information described in subsection (a)—
 
 #### (A) In general
 
-&emsp;&emsp;Except for claims regarding information described in subsection (c)(2), the Administrator shall, subject to subparagraph (C), not later than 90 days after the receipt of a claim under subsection (c), and not laterthan 30 days after the receipt of a request for extension of a claim under subsection (e) or a request under subsection (b)(4)(C), review and approve, approve in part and deny in part, or deny the claim or request.
+&emsp;&emsp;Except for claims regarding information described in subsection (c)(2), the Administrator shall, subject to subparagraph (C), not later than 90 days after the receipt of a claim under subsection (c), and not later than 30 days after the receipt of a request for extension of a claim under subsection (e) or a request under subsection (b)(4)(C), review and approve, approve in part and deny in part, or deny the claim or request.
 
 #### (B) Reasons for denial
 
@@ -318,7 +318,7 @@ Information described in subsection (a)—
 
 #### (i) Fifteen day notification
 
-&emsp;&emsp;&emsp;For information the Administrator intends to disclose under subsections (d)(3), (d)(4), (d)(5), and (j), the Administrator shall not disclose the information until the date that is 15 days after the date on which the person that asserted the claim or submitted the request receives notification under subparagraph (A), except that, with respect to information to be disclosed under subsection (d)(3), if the Administrator determines that disclosure of the information is necessary to protect against an imminent and substantial harm to health or the environment, no prior notification shall be necessary.
+&emsp;&emsp;&emsp;For information the Administrator intends to disclose under subsections (d)(3), (d)(4), (d)(5), and (j), the Administrator shall not disclose the information until the date that is 15 days after the date on which the person that asserted the claimor submitted the request receives notification under subparagraph (A), except that, with respect to information to be disclosed under subsection (d)(3), if the Administrator determines that disclosure of the information is necessary to protect against an imminent and substantial harm to health or the environment, no prior notification shall be necessary.
 
 #### (ii) Notification as soon as practicable
 

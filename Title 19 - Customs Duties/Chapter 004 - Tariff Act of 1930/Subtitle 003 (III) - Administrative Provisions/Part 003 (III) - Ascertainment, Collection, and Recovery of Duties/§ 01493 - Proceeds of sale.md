@@ -6,7 +6,7 @@ The surplus of the proceeds of sales under section 1491 of this title, after the
 
 #### Prior Provisions
 
-Provisions substantially similar in most respects to those in this section, with further provisions concerning the documents to be forwarded by the collector to the Treasury Department, were contained in R.S. §2974, which was superseded and more nearly assimilated to the present section by act Sept. 21, 1922, ch. 356, title IV, §493, 42 Stat. 964, and repealed by section 642 thereof. Section 493 of the 1922 act was superseded by section493 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions substantially similar in most respects to those in this section, with further provisions concerning the documents to be forwarded by the collector to the Treasury Department, were contained in R.S. §2974, which was superseded and more nearly assimilated to the present section by act Sept. 21, 1922, ch. 356, title IV, §493, 42 Stat. 964, and repealed by section 642 thereof. Section 493 of the 1922 act was superseded by section 493 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 
@@ -24,5 +24,5 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Appropriations
 
-Act June 26, 1934, ch. 756, §2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title "Refunding proceeds of unclaimed merchandise (Customs) (2x326)" effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+Act June 26, 1934, ch. 756, §2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money andFinance, repealed the permanent appropriation under the title "Refunding proceeds of unclaimed merchandise (Customs) (2x326)" effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 

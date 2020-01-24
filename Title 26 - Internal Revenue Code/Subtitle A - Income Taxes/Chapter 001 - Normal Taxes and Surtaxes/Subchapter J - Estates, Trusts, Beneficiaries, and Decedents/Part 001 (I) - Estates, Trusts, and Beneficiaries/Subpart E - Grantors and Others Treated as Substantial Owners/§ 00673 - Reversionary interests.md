@@ -20,7 +20,7 @@ For purposes of subsection (a), the value of the grantor's reversionary interest
 
 #### (d) Postponement of date specified for reacquisition
 
-Any postponement of the date specified for the reacquisition of possession or enjoyment of thereversionary interest shall be treated as a new transfer in trust commencing with the date on which the postponement is effective and terminating with the date prescribed by the postponement. However, income for any period shall not be included in the income of the grantor by reason of the preceding sentence if such income would not be so includible in the absence of such postponement.
+Any postponement of the date specified for the reacquisition of possession or enjoyment of the reversionary interest shall be treated as a new transfer in trust commencing with the date on which the postponement is effective and terminating with the date prescribed by the postponement. However, income for any period shall not be included in the income of the grantor by reason of the preceding sentence if such income would not be so includible in the absence of such postponement.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 227; Pub. L. 91–172, title II, §201(c), Dec. 30, 1969, 83 Stat. 560; Pub. L. 99–514, title XIV, §1402(a), Oct. 22, 1986, 100 Stat. 2711; Pub. L. 100–647, title I, §1014(b), Nov. 10, 1988, 102 Stat. 3559.)
 

@@ -6,7 +6,7 @@ If, in any judicial or administrative action brought by the Commission under the
 
 #### (b) Acceptance of additional donations
 
-The Commission is authorized to accept, hold, administer, and utilize gifts, bequests and devises of property, both real and personal, to the United States for a disgorgement fund or other fund described in subsection (a). Such gifts, bequests, and devises of money and proceeds fromsales of other property received as gifts, bequests, or devises shall be deposited in such fund and shall be available for allocation in accordance with subsection (a).
+The Commission is authorized to accept, hold, administer, and utilize gifts, bequests and devises of property, both real and personal, to the United States for a disgorgement fund or other fund described in subsection (a). Such gifts, bequests, and devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in such fund and shall be available for allocation in accordance with subsection (a).
 
 #### (c) Study required
 
@@ -30,7 +30,7 @@ Section is comprised of section 308 of Pub. L. 107–204. Subsec. (d) of section
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §929B(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "If in any judicial or administrative action brought by the Commission under the securities laws (as such term is defined in section 78c(a)(47) of this title) the Commission obtains an order requiring disgorgement against any person for a violation of such laws or the rules or regulations thereunder, or such person agrees in settlement of any such action to such disgorgement, and the Commission also obtains pursuant to such laws a civil penalty against such person, the amount of such civil penalty shall, on the motion or at the direction of the Commission, be added to and become part of the disgorgement fund for the benefit of the victims of such violation."
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §929B(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "If in any judicial or administrative action brought by the Commissionunder the securities laws (as such term is defined in section 78c(a)(47) of this title) the Commission obtains an order requiring disgorgement against any person for a violation of such laws or the rules or regulations thereunder, or such person agrees in settlement of any such action to such disgorgement, and the Commission also obtains pursuant to such laws a civil penalty against such person, the amount of such civil penalty shall, on the motion or at the direction of the Commission, be added to and become part of the disgorgement fund for the benefit of the victims of such violation."
 
 Subsec. (b). Pub. L. 111–203, §929B(2), substituted "for a disgorgement fund or other fund described in subsection (a)" for "for a disgorgement fund described in subsection (a)" and "in such fund" for "in the disgorgement fund".
 

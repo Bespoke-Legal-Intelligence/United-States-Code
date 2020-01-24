@@ -5,7 +5,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [4301\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2004301%20-%20Committee%20staffs.md) | Committee staffs. |
-| [4302\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2004302%20-%20Per%20annum%20rate%20of%20compensation%20of%20Chief%20of%20Staff%20of%20Joint%20Committee%20on%20Taxation.md) | Per annum rate of compensation of Chief of Staff of Joint Committee on Taxation. |
+| [4302\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2004302%20-%20Maximum%20annual%20rate%20of%20compensation%20of%20Chief%20of%20Staff%20of%20Joint%20Committee%20on%20Taxation.md) | Maximum annual rate of compensation of Chief of Staff of Joint Committee on Taxation. |
 | [4303\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2004303%20-%20Preparation%20and%20contents%20of%20statement%20of%20appropriations.md) | Preparation and contents of statement of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

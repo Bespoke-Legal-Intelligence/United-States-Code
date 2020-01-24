@@ -44,7 +44,7 @@ The Secretary shall—
 
 #### (1) In general
 
-&emsp;Not later than 1 year after June 10, 2014, the Secretary, in coordination with the Users Board, shall develop and submit to Congress a report describing a 20-year program for making capital investments on the inland and intracoastal waterways based on the application of objective, national project selection prioritization criteria.
+&emsp;Not later than 1 year after June 10, 2014, the Secretary, in coordination with the Users Board, shall develop and submit to Congress a report describing a 20-year program for making capital investments on the inland and intracoastal waterways based on the applicationof objective, national project selection prioritization criteria.
 
 #### (2) Consideration
 

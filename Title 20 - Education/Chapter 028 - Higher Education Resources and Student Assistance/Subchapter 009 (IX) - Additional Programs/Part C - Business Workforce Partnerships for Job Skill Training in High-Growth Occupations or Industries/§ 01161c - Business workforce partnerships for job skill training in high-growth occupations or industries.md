@@ -32,7 +32,7 @@ In consultation with all of the members of an eligible partnership, grant funds 
 
 &emsp;(3) purchase equipment that will facilitate the development of academic programs or programs of training that provide training for high-growth and high-wage occupations or industries;
 
-&emsp;(4) strengthen outreach efforts that enable students, including students with limited English proficiency, to attend institutions ofhigher education with academic programs or programs of training focused on high-growth and high-wage occupations or industries;
+&emsp;(4) strengthen outreach efforts that enable students, including students with limited English proficiency, to attend institutions of higher education with academic programs or programs of training focused on high-growth and high-wage occupations or industries;
 
 &emsp;(5) expand worksite learning and training opportunities, including registered apprenticeships as appropriate; and
 

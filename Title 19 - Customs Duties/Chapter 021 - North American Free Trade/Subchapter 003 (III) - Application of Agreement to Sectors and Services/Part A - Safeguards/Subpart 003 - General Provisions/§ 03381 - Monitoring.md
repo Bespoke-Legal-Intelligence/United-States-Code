@@ -6,7 +6,7 @@ For purposes of expediting an investigation concerning provisional relief under 
 
 &emsp;(2) fresh or chilled peppers, other than chili peppers provided for in subheading 0709.60.00 of the HTS;
 
-> the International Trade Commission, until January 1, 2009, shall monitor imports of such goods as if proper requests for such monitoring had been made under subsection (d)(1)(C)(i) of section 2252 of this title. At the request of the International Trade Commission, the Secretary of Agriculture and the Commissioner of Customs shall provide to the International Trade Commission information relevant to the monitoring carried out under this section.
+> the International Trade Commission, until January 1, 2009, shall monitor imports of such goodsas if proper requests for such monitoring had been made under subsection (d)(1)(C)(i) of section 2252 of this title. At the request of the International Trade Commission, the Secretary of Agriculture and the Commissioner of Customs shall provide to the International Trade Commission information relevant to the monitoring carried out under this section.
 
 (Pub. L. 103–182, title III, §316, Dec. 8, 1993, 107 Stat. 2108; Pub. L. 104–295, §21(b)(3), Oct. 11, 1996, 110 Stat. 3530.)
 

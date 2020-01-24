@@ -24,7 +24,7 @@
 
 &emsp;(B) remove and reduce to possession any such species from areas under Federal jurisdiction; maliciously damage or destroy any such species on any such area; or remove, cut, dig up, or damage or destroy any such species on any other area in knowing violation of any law or regulation of any State or in the course of any violation of a State criminal trespass law;
 
-&emsp;(C) deliver, receive, carry, transport, or ship in interstate or foreign commerce, by any means whatsoever and in the course of a commercial activity, any such species;
+&emsp;(C) deliver, receive, carry, transport, or ship in interstate or foreign commerce, by anymeans whatsoever and in the course of a commercial activity, any such species;
 
 &emsp;(D) sell or offer for sale in interstate or foreign commerce any such species; or
 
@@ -52,7 +52,7 @@
 
 &emsp;(A) such fish or wildlife is not an endangered species listed pursuant to section 1533 of this title but is listed in Appendix II to the Convention,
 
-&emsp;(B) the taking and exportation of such fish or wildlife is not contrary to the provisions ofthe Convention and all other applicable requirements of the Convention have been satisfied,
+&emsp;(B) the taking and exportation of such fish or wildlife is not contrary to the provisions of the Convention and all other applicable requirements of the Convention have been satisfied,
 
 &emsp;(C) the applicable requirements of subsections (d), (e), and (f) of this section have been satisfied, and
 
@@ -112,7 +112,7 @@ Section 668cc–4 of this title, referred to in subsec. (f)(2), was repealed by 
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–478, §1006, amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: "remove and reduce to possession any such species from areas under Federal jurisdiction;".
+<b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–478, §1006, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "remove and reduce to possession any such species from areas under Federal jurisdiction;".
 
 Subsec. (d). Pub. L. 100–478, §2301, amended subsec. (d) generally, revising and restating as pars. (1) to (4) provisions of former pars. (1) to (3).
 
@@ -204,7 +204,7 @@ Lawful Approaches.—In waters of the United States surrounding the State of Haw
 
 "(b)
 
-Termination of Legal Effect of Certain Regulations.—Subsection (b) of section 222.31 of title 50,Code of Federal Regulations, shall cease to be in force and effect."
+Termination of Legal Effect of Certain Regulations.—Subsection (b) of section 222.31 of title 50, Code of Federal Regulations, shall cease to be in force and effect."
 
 #### Territorial Sea of United States
 

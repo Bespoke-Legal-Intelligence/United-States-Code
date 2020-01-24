@@ -96,7 +96,7 @@ Findings.—The Congress finds and declares that—
 
 &emsp;"(6) in order to be successful, quality improvement programs must be management-led and customer-oriented and this may require fundamental changes in the way companies and agencies do business;
 
-&emsp;"(7) several major industrial nations have successfully coupled rigorous private sector quality auditswith national awards giving special recognition to those enterprises the audits identify as the very best; and
+&emsp;"(7) several major industrial nations have successfully coupled rigorous private sector quality audits with national awards giving special recognition to those enterprises the audits identify as the very best; and
 
 &emsp;"(8) a national quality award program of this kind in the United States would help improve quality and productivity by—
 

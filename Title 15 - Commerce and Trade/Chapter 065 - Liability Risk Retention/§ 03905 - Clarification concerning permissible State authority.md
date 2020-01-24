@@ -10,7 +10,7 @@ The exemptions provided under this chapter shall apply only to the provision of 
 
 #### (c) Prohibited insurance policy coverage
 
-The terms of any insurance policy provided by a risk retention group or purchased by a purchasing group shall not provide or be construed to provide insurance policy coverage prohibited generally by State statute or declared unlawfulby the highest court of the State whose law applies to such policy.
+The terms of any insurance policy provided by a risk retention group or purchased by a purchasing group shall not provide or be construed to provide insurance policy coverage prohibited generally by State statute or declared unlawful by the highest court of the State whose law applies to such policy.
 
 #### (d) State authority to specify acceptable means of demonstrating financial responsibility
 

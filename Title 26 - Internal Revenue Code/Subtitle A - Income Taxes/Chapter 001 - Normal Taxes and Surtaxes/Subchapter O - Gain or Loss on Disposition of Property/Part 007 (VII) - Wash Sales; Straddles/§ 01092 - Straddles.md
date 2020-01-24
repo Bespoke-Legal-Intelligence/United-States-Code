@@ -300,7 +300,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In determining whether 2 or more positions are offsetting, the taxpayer shall be treated as holding any position held by a related person.
+&emsp;&emsp;In determining whether 2 or more positions are offsetting, the taxpayer shall betreated as holding any position held by a related person.
 
 #### (B) Related person
 
@@ -388,7 +388,7 @@ Subsec. (a)(2)(C), (D). Pub. L. 110–172, §7(d)(3), (4), added subpar. (C), re
 
 Subsec. (a)(3)(B). Pub. L. 110–172, §7(d)(2)(C), substituted "offsetting position" for "identified offsetting position".
 
-<b>2005</b>—Subsec. (a)(2). Pub. L. 109–135 added subpar. (C) and struck out concluding provisions of subpar. (B) which read as follows: "The Secretary shall prescribe regulations which specify the proper methods for clearly identifying a straddle as an identified straddle (and the positions comprising such straddle), which specify the rules for the application of this section for a taxpayer which fails to properly identify the positions of an identified straddle, and which specify the ordering rules in cases where a taxpayer disposes of less than an entire position which is part of an identified straddle."
+<b>2005</b>—Subsec. (a)(2). Pub. L. 109–135 added subpar. (C) and struck out concluding provisions of subpar. (B)which read as follows: "The Secretary shall prescribe regulations which specify the proper methods for clearly identifying a straddle as an identified straddle (and the positions comprising such straddle), which specify the rules for the application of this section for a taxpayer which fails to properly identify the positions of an identified straddle, and which specify the ordering rules in cases where a taxpayer disposes of less than an entire position which is part of an identified straddle."
 
 <b>2004</b>—Subsec. (a)(2)(A). Pub. L. 108–357, §888(a)(1), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: "In the case of any straddle which is an identified straddle as of the close of any taxable year—
 
@@ -470,7 +470,7 @@ Pub. L. 110–172, §7(e), Dec. 29, 2007, 121 Stat. 2483, provided that:
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 45, 45H, 179B, 280C, 470, 1016, and 6501 of this title\] shall take effect as if included in the provisions of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\] to which they relate.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 45, 45H, 179B, 280C,470, 1016, and 6501 of this title\] shall take effect as if included in the provisions of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\] to which they relate.
 
 "(2)
 
@@ -502,7 +502,7 @@ Pub. L. 99–514, title III, §331(b), Oct. 22, 1986, 100 Stat. 2221, provided t
 
 Amendment by section 1261(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1261(e) of Pub. L. 99–514, set out as an Effective Date note under section 985 of this title.
 
-Amendment by section 1808(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in theprovisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1808(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -568,7 +568,7 @@ Under section 1256(e)(2)
 
 "(c)
 
-Election With Respect to Property Held on June 23, 1981.—If the taxpayer so elects (at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe) with respect to all regulated futures contracts or positions held by the taxpayer on June 23, 1981, the amendments made by this title shall apply to all such contracts and positions, effective for periods after such date in taxable years ending after such date. For purposes of the preceding sentence, the term 'regulated futures contract' has the meaning given to such term by section 1256(b) of the Internal Revenue Code of 1986, and the term 'position' has the meaning given to such term by section 1092(d)(2) of such Code."
+Election With Respect to Property Held on June 23, 1981.—If the taxpayer so elects (at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe) with respect to all regulated futures contracts or positions held by the taxpayer on June 23, 1981, the amendments made by this title shall apply to all such contracts and positions, effective for periods after such date in taxable years ending after such date. For purposes of the preceding sentence, the term 'regulated futures contract' has the meaning given to such term by section 1256(b) of the Internal Revenue Code of 1986, and the term 'position' hasthe meaning given to such term by section 1092(d)(2) of such Code."
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -602,7 +602,7 @@ Other Rules.—Except as otherwise provided in subsections (a) and (c) and in se
 
 "(e)
 
-Straddle.—For purposes of this section, the term 'straddle' has the meaning given to such term bysection 1092(c) of the Internal Revenue Code of 1986 as in effect on the day after the date of the enactment of the Economic Recovery Tax Act of 1981 \[Aug. 13, 1981\], and shall include a straddle all the positions of which are regulated futures contracts.
+Straddle.—For purposes of this section, the term 'straddle' has the meaning given to such term by section 1092(c) of the Internal Revenue Code of 1986 as in effect on the day after the date of the enactment of the Economic Recovery Tax Act of 1981 \[Aug. 13, 1981\], and shall include a straddle all the positions of which are regulated futures contracts.
 
 "(f)
 

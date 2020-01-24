@@ -4,7 +4,7 @@
 
 (b) The regular periodic compensation payments after adjustment under this section shall be fixed at the nearest dollar. However, the regular periodic compensation after adjustment shall reflect an increase of at least $1.
 
-(c) This section shall be applicable to persons excluded by section 15 of the Federal Employees'Compensation Act Amendments of 1966 (Public Law 89–488) under the following statutes: Act of February 15, 1934 (48 Stat. 351); Act of June 26, 1936 (49 Stat. 2035); Act of April 8, 1935 (49 Stat. 115); Act of July 25, 1942 (56 Stat. 710); Public Law 84–955 (August 3, 1956); Public Law 77–784 (December 2, 1942); Public Law 84–879 (August 1, 1956); Public Law 80–896 (July 3, 1948); Act of September 8, 1959 (73 Stat. 469). Benefit payments to these persons shall initially be increased by the total percentage of the increases in the price index from the base month of July 1966, to the next most recent base month following the effective date of this subsection.
+(c) This section shall be applicable to persons excluded by section 15 of the Federal Employees' Compensation Act Amendments of 1966 (Public Law 89–488) under the following statutes: Act of February 15, 1934 (48 Stat. 351); Act of June 26, 1936 (49 Stat. 2035); Act of April 8, 1935 (49 Stat. 115); Act of July 25, 1942 (56 Stat. 710); Public Law 84–955 (August 3, 1956); Public Law 77–784 (December 2, 1942); Public Law 84–879 (August 1, 1956); Public Law 80–896 (July 3, 1948); Act of September 8, 1959 (73 Stat. 469). Benefit payments to these persons shall initially be increased by the total percentage of the increases in the price index from the base month of July 1966, to the next most recent base month following the effective date of this subsection.
 
 (Added Pub. L. 90–83, §1(67)(A), Sept. 11, 1967, 81 Stat. 212; amended Pub. L. 93–416, §§21, 24, Sept. 7, 1974, 88 Stat. 1149, 1150; Pub. L. 96–499, title IV, §421(a), Dec. 5, 1980, 94 Stat. 2608.)
 
@@ -72,5 +72,5 @@ Amendment by Pub. L. 93–416 applicable to cases where injury or death occurred
 
 #### Personnel Not Affected by Cost-of-Living Adjustment
 
-Increases authorized by this section not applicable to employees and individuals not within the definition of "employee" in section 8101(1)(A), (B), or (D) of this title, members of the Metropolitan Police or the Fire Department of the District of Columbia who are pensioned or pensionable under sections 521 to 535 of title4, District of Columbia Code, or members of a uniformed service, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
+Increases authorized by this section not applicable to employees and individuals not within the definition of "employee" in section 8101(1)(A), (B), or (D) of this title, members of the Metropolitan Police or the Fire Department of the District of Columbia who are pensioned or pensionable under sections 521 to 535 of title 4, District of Columbia Code, or members of a uniformed service, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
 

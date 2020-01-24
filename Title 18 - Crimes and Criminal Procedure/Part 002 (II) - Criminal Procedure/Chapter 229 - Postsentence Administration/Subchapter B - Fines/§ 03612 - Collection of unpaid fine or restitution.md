@@ -28,7 +28,7 @@ Information to be Included in Judgment; Judgment to be Transmitted to Attorney G
 
 &emsp;(G) in the case of a restitution order, information sufficient to identify each victim to whom restitution is owed. It shall be the responsibility of each victim to notify the Attorney General, or the appropriate entity of the court, by means of a form to be provided by the Attorney General or the court, of any change in the victim's mailing address while restitution is still owed the victim. The confidentiality of any information relating to a victim shall be maintained.
 
-(2) Not later than ten days after entry of the judgment or order, the court shall transmit acertified copy of the judgment or order to the Attorney General.
+(2) Not later than ten days after entry of the judgment or order, the court shall transmit a certified copy of the judgment or order to the Attorney General.
 
 (c)
 
@@ -222,7 +222,7 @@ Subsec. (d). Pub. L. 100–185, §11(c)(1), substituted "section 3572(h)" for "s
 
 Subsec. (e). Pub. L. 100–185, §11(c)(2), substituted "section 3572(i)" for "section 3572(j)".
 
-Subsec. (f). Pub. L. 100–185, §11(d), amended subsec. (f) generally, substituting provisions relating to intereston fines, computation of interest, and modification of interest by court, for provisions relating to interest and monetary penalties for delinquent fines.
+Subsec. (f). Pub. L. 100–185, §11(d), amended subsec. (f) generally, substituting provisions relating to interest on fines, computation of interest, and modification of interest by court, for provisions relating to interest and monetary penalties for delinquent fines.
 
 Subsecs. (g) to (i). Pub. L. 100–185, §11(e), added subsecs. (g) to (i).
 

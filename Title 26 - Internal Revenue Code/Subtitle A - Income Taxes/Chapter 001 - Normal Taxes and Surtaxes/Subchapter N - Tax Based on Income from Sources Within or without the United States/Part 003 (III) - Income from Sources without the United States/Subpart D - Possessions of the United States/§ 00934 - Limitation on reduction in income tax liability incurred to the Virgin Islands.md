@@ -32,7 +32,7 @@ Tax liability incurred to the Virgin Islands pursuant to this subtitle, as made 
 
 &emsp;The determination as to whether income is derived from sources within the United States or is effectively connected with the conduct of a trade or business within the United States shall be made under regulations prescribed by the Secretary.
 
-(Added Pub. L. 86–779, §4(a)(1), Sept. 14, 1960, 74 Stat. 998; amended Pub. L. 94–455, title XIX, §§1901(a)(118), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1784, 1834; Pub. L. 97–248, title II, §213(b), Sept. 3, 1982, 96 Stat. 463; Pub. L. 97–455, §1(c), Jan. 12, 1983, 96 Stat. 2498; Pub. L. 98–369, div. A, title VIII, §801(d)(7), July 18, 1984, 98 Stat. 996; Pub. L. 99–514, title XII, §1275(a)(2)(A), (c)(1), (2), title XVIII, §1876(f)(2), Oct. 22, 1986, 100 Stat. 2598, 2900; Pub. L. 108–357, title VIII, §908(c)(3), Oct. 22, 2004, 118 Stat. 1656.)
+(Added Pub. L. 86–779, §4(a)(1), Sept. 14, 1960, 74 Stat. 998; amended Pub. L. 94–455, title XIX,§§1901(a)(118), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1784, 1834; Pub. L. 97–248, title II, §213(b), Sept. 3, 1982, 96 Stat. 463; Pub. L. 97–455, §1(c), Jan. 12, 1983, 96 Stat. 2498; Pub. L. 98–369, div. A, title VIII, §801(d)(7), July 18, 1984, 98 Stat. 996; Pub. L. 99–514, title XII, §1275(a)(2)(A), (c)(1), (2), title XVIII, §1876(f)(2), Oct. 22, 1986, 100 Stat. 2598, 2900; Pub. L. 108–357, title VIII, §908(c)(3), Oct. 22, 2004, 118 Stat. 1656.)
 
 #### Amendments
 

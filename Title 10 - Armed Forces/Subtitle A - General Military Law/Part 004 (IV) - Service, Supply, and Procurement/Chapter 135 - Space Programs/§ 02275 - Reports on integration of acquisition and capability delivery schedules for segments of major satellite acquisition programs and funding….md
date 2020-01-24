@@ -2,7 +2,7 @@
 
 (a)
 
-Reports Required.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees a report on each major satellite acquisition program in accordance with subsection (d) that assesses—
+Reports Required.—The Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report on each major satellite acquisition program in accordance with subsection (d) that assesses—
 
 &emsp;(1) the integration of the schedules for the acquisition and the delivery of the capabilities of the segments for the program; and
 
@@ -88,7 +88,7 @@ Milestone b approval.—The term "Milestone B approval" has the meaning given th
 
 Non-integrated program.—The term "non-integrated program" means a program with respect to which the schedules for the acquisition and the delivery of the capabilities of the segments for the program, or a related program that is necessary for the operational capability of the program, provide for the acquisition or the delivery of the capabilities of at least two of the three segments for the program or related program more than one year apart.
 
-(Added Pub. L. 112–239, div. A, title IX, §911(a), Jan. 2, 2013, 126 Stat. 1870; amended Pub. L. 113–291, div. A, title X, §1071(e)(3), Dec. 19, 2014, 128 Stat. 3509.)
+(Added Pub. L. 112–239, div. A, title IX, §911(a), Jan. 2, 2013, 126 Stat. 1870; amended Pub. L. 113–291, div. A, title X, §1071(e)(3), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–92, div. A, title IX, §902(29), Dec. 20, 2019, 133 Stat. 1546.)
 
 #### References in Text
 
@@ -99,6 +99,8 @@ Such date of enactment, referred to in subsec. (d)(1), is a reference to the dat
 A prior section 2275, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related to award of contracts and review of decisions, was repealed by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics" in introductory provisions.
 
 <b>2014</b>—Subsec. (d)(1). Pub. L. 113–291, §1071(e)(3)(A), substituted "before January 2, 2013" for "before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013".
 

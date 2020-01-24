@@ -12,7 +12,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### (A) In general
 
-&emsp;&emsp;With respect to all oil, gas, and geothermal properties of the taxpayer, the amount (if any) by which the amount of the excess intangible drilling costs arising in the taxable year is greater than 65 percent of the net income of the taxpayer from oil, gas, and geothermal properties for the taxable year.
+&emsp;&emsp;With respect to all oil, gas, and geothermal properties of the taxpayer, the amount (if any) by which the amount of the excess intangible drilling costs arising in thetaxable year is greater than 65 percent of the net income of the taxpayer from oil, gas, and geothermal properties for the taxable year.
 
 #### (B) Excess intangible drilling costs
 
@@ -88,11 +88,11 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### (iv) Exception for refundings
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term "private activity bond" shall not include anyrefunding bond (whether a current or advance refunding) if the refunded bond (or in the case of a series of refundings, the original bond) was issued before August 8, 1986.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "private activity bond" shall not include any refunding bond (whether a current or advance refunding) if the refunded bond (or in the case of a series of refundings, the original bond) was issued before August 8, 1986.
 
 #### (v) Certain bonds issued before September 1, 1986
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, a bond issued before September 1, 1986, shall be treated as issued before August 8, 1986, unless such bond would be a private activity bond if—
+&emsp;&emsp;&emsp;For purposes of this subparagraph, a bond issued before September 1, 1986, shallbe treated as issued before August 8, 1986, unless such bond would be a private activity bond if—
 
 &emsp;&emsp;&emsp;&emsp;(I) paragraphs (1) and (2) of section 141(b) were applied by substituting "25 percent" for "10 percent" each place it appears,
 
@@ -148,7 +148,7 @@ A prior section 57, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a)(1). Pub. L. 113–295, §221(a)(10), substituted "This paragraph" for "Effective with respectto taxable years beginning after December 31, 1992, this paragraph".
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–295, §221(a)(10), substituted "This paragraph" for "Effective with respect to taxable years beginning after December 31, 1992, this paragraph".
 
 Subsec. (a)(2)(E)(i). Pub. L. 113–295, §221(a)(11)(A), substituted "This paragraph" for "In the case of any taxable year beginning after December 31, 1992, this paragraph".
 
@@ -244,7 +244,7 @@ Amendment by Pub. L. 102–486 applicable to taxable years beginning after Dec. 
 
 Amendment by section 1007(b)(14)(B) of Pub. L. 100–647 applicable with respect to options exercised after Dec. 31, 1987, see section 1007(b)(14)(C) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
-Amendment by section 1007(c) of Pub. L. 100–647 effective, except as otherwise provided, as if included in theprovision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1007(c) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date
 

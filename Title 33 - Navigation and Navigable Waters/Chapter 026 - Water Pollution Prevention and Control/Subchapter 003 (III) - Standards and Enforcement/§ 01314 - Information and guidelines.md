@@ -34,7 +34,7 @@ In general.—Not later than 5 years after October 10, 2000, after consultation 
 
 &emsp;(B)
 
-Reviews.—Not later than the date that is 5 years after the date of publication of water quality criteria under this paragraph,and at least once every 5 years thereafter, the Administrator shall review and, as necessary, revise the water quality criteria.
+Reviews.—Not later than the date that is 5 years after the date of publication of water quality criteria under this paragraph, and at least once every 5 years thereafter, the Administrator shall review and, as necessary, revise the water quality criteria.
 
 #### (b) Effluent limitation guidelines
 
@@ -44,7 +44,7 @@ For the purpose of adopting or revising effluent limitations under this chapter 
 
 &emsp;(B) specify factors to be taken into account in determining the control measures and practices to be applicable to point sources (other than publicly owned treatment works) within such categories or classes. Factors relating to the assessment of best practicable control technology currently available to comply with subsection (b)(1) of section 1311 of this title shall include consideration of the total cost of application of technology in relation to the effluent reduction benefits to be achieved from such application, and shall also take into account the age of equipment and facilities involved, the process employed, the engineering aspects of the application of various types of control techniques, process changes, non-water quality environmental impact (including energy requirements), and such other factors as the Administrator deems appropriate;
 
-&emsp;(2)(A) identify, in terms of amounts of constituents and chemical, physical, and biological characteristics of pollutants, the degree of effluent reduction attainable through the application of the best control measures and practices achievable including treatment techniques, process and procedure innovations, operating methods, and other alternatives for classes and categories of point sources (other than publicly owned treatment works); and
+&emsp;(2)(A) identify, in terms of amounts of constituents and chemical, physical, and biological characteristics of pollutants, the degree of effluent reduction attainable through the application of the best control measures and practices achievable including treatment techniques, process and procedure innovations, operating methods, and other alternatives forclasses and categories of point sources (other than publicly owned treatment works); and
 
 &emsp;(B) specify factors to be taken into account in determining the best measures and practices available to comply with subsection (b)(2) of section 1311 of this title to be applicable to any point source (other than publicly owned treatment works) within such categories or classes. Factors relating to the assessment of best available technology shall take into account the age of equipment and facilities involved, the process employed, the engineering aspects of the application of various types of control techniques, process changes, the cost of achieving such effluent reduction, non-water quality environmental impact (including energy requirements), and such other factors as the Administrator deems appropriate;
 
@@ -70,7 +70,7 @@ The Administrator, after consultation, with appropriate Federal and State agenci
 
 #### (e) Best management practices for industry
 
-The Administrator, after consultation with appropriate Federal and State agencies and other interested persons, may publish regulations, supplemental to any effluent limitations specified under subsections (b) and (c) of this section for a class or category of point sources, for any specific pollutant which the Administrator is charged with a duty to regulate as a toxic or hazardous pollutant under section 1317(a)(1) or 1321 of this title, to control plant site runoff, spillage or leaks, sludge or waste disposal, and drainage from raw material storage which the Administrator determines are associated with or ancillary to the industrial manufacturing or treatment process within such class or category of point sources and may contribute significant amounts of such pollutants to navigable waters. Any applicable controls established under this subsection shall be included as a requirement for the purposes of section 1311, 1312, 1316, 1317, or 1343 of this title, as the case may be, in any permit issued to a point source pursuant to section 1342 of this title.
+The Administrator, after consultation with appropriate Federal and State agencies and other interested persons, may publish regulations, supplemental to any effluent limitations specified under subsections (b) and (c) of this section for a class or category of point sources, for any specific pollutant which the Administrator is charged with a duty to regulate as a toxic or hazardous pollutant under section 1317(a)(1) or 1321 of this title, to control plant site runoff, spillage or leaks, sludge or waste disposal, and drainage from raw material storage which the Administrator determines are associated with or ancillary to the industrial manufacturing or treatment process within such class or category of point sources and may contribute significant amounts of such pollutants to navigable waters. Any applicable controls established under this subsection shall be includedas a requirement for the purposes of section 1311, 1312, 1316, 1317, or 1343 of this title, as the case may be, in any permit issued to a point source pursuant to section 1342 of this title.
 
 #### (f) Identification and evaluation of nonpoint sources of pollution; processes, procedures, and methods to control pollution
 
@@ -122,7 +122,7 @@ The Administrator shall, within 1 year after February 4, 1987, and biennially th
 
 (2) The Administrator is authorized to transfer to the Secretary of Agriculture, the Secretary of the Army, and the Secretary of the Interior and the heads of such other departments, agencies, and instrumentalities of the United States as the Administrator determines, any funds appropriated under paragraph (3) of this subsection to supplement funds otherwise appropriated to programs authorized pursuant to any agreement under paragraph (1).
 
-(3) There is authorized to be appropriated to carry out the provisions of this subsection, $100,000,000 per fiscal year for the fiscal years 1979 through 1983 and such sums as may be necessary for fiscal years 1984 through 1990.
+(3) There is authorized to be appropriated to carry out the provisions of this subsection,$100,000,000 per fiscal year for the fiscal years 1979 through 1983 and such sums as may be necessary for fiscal years 1984 through 1990.
 
 #### (l) Individual control strategies for toxic pollutants
 

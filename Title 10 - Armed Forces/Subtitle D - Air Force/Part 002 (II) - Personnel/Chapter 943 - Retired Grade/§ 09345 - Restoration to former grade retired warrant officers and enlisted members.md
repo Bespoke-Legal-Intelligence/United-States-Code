@@ -1,6 +1,6 @@
 ### §9345. Restoration to former grade: retired warrant officers and enlisted members
 
-Each retired warrant officer or enlisted member of the Air Force who has been advanced on the retired list to a higher commissioned grade under section 9344 of this title, and who applies to the Secretary of the Air Force within three months after his advancement, shall, if the Secretary approves, be restored on the retired list to his former warrant-officer or enlisted status, as the case may be.
+Each retired warrant officer or enlisted member of the Air Force who has been advanced on the retired list to a higher commissioned grade under section 9344 of this title, and who applies to the Secretary of the Air Force within threemonths after his advancement, shall, if the Secretary approves, be restored on the retired list to his former warrant-officer or enlisted status, as the case may be.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 555, §8965; Pub. L. 100–180, div. A, title V, §512(d)(3), Dec. 4, 1987, 101 Stat. 1090; Pub. L. 100–456, div. A, title XII, §1233(i)(2)(A), Sept. 29, 1988, 102 Stat. 2058; renumbered §9345 and amended Pub. L. 115–232, div. A, title VIII, §§806(b)(14), 809(a), Aug. 13, 2018, 132 Stat. 1833, 1840.)
 

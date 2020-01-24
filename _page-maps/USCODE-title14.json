@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title14",
- "package": "USCODE-2018-title14",
+ "package": "USCODE-2019-title14",
  "pieces": [
   {
    "id": "14_",
@@ -174,10 +174,10 @@
    "marks": [
     [
      "I",
-     28,
+     29,
      [
       [
-       304,
+       202,
        "[Page 11]"
       ]
      ]
@@ -202,10 +202,14 @@
    "id": "14_302",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 12]",
-     true
+     "I",
+     8,
+     [
+      [
+       116,
+       "[Page 12]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 003 - Composition and Organization/§ 00302 - Commandant; appointment.md",
@@ -219,7 +223,7 @@
    "marks": [
     [
      "L",
-     44,
+     40,
      "[Page 13]",
      true
     ]
@@ -235,7 +239,7 @@
    "marks": [
     [
      "L",
-     52,
+     50,
      "[Page 14]",
      true
     ]
@@ -250,10 +254,14 @@
    "id": "14_305",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 15]",
-     true
+     "I",
+     40,
+     [
+      [
+       164,
+       "[Page 15]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 003 - Composition and Organization/§ 00305 - Vice admirals.md",
@@ -267,7 +275,7 @@
    "marks": [
     [
      "L",
-     42,
+     38,
      "[Page 16]",
      true
     ]
@@ -291,14 +299,10 @@
    "id": "14_308",
    "marks": [
     [
-     "I",
-     50,
-     [
-      [
-       88,
-       "[Page 17]"
-      ]
-     ]
+     "L",
+     48,
+     "[Page 17]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 003 - Composition and Organization/§ 00308 - Chief Acquisition Officer.md",
@@ -312,7 +316,7 @@
    "marks": [
     [
      "L",
-     46,
+     42,
      "[Page 18]",
      true
     ]
@@ -345,10 +349,14 @@
    "id": "14_312",
    "marks": [
     [
-     "L",
-     56,
-     "[Page 19]",
-     true
+     "I",
+     52,
+     [
+      [
+       179,
+       "[Page 19]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 003 - Composition and Organization/§ 00312 - Prevention and response workforces.md",
@@ -362,10 +370,10 @@
    "marks": [
     [
      "I",
-     80,
+     74,
      [
       [
-       106,
+       99,
        "[Page 20]"
       ]
      ]
@@ -381,10 +389,14 @@
    "id": "14_314",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 21]",
-     true
+     "I",
+     18,
+     [
+      [
+       114,
+       "[Page 21]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 003 - Composition and Organization/§ 00314 - Marine industry training program.md",
@@ -406,10 +418,14 @@
    "id": "14_316",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 22]",
-     true
+     "I",
+     12,
+     [
+      [
+       87,
+       "[Page 22]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 003 - Composition and Organization/§ 00316 - National Coast Guard Museum.md",
@@ -432,10 +448,10 @@
    "marks": [
     [
      "I",
-     8,
+     6,
      [
       [
-       176,
+       171,
        "[Page 23]"
       ]
      ]
@@ -451,17 +467,21 @@
    "id": "14_319",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 24]",
-     true
+     "I",
+     8,
+     [
+      [
+       82,
+       "[Page 24]"
+      ]
+     ]
     ],
     [
      "I",
-     82,
+     80,
      [
       [
-       289,
+       220,
        "[Page 25]"
       ]
      ]
@@ -470,6 +490,15 @@
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 003 - Composition and Organization/§ 00319 - Land-based unmanned aircraft system program.md",
    "printed_pages": [
     23,
+    25
+   ]
+  },
+  {
+   "id": "14_320",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 003 - Composition and Organization/§ 00320 - Coast Guard Junior Reserve Officers' Training Corps.md",
+   "printed_pages": [
+    25,
     25
    ]
   },
@@ -496,50 +525,41 @@
    "marks": [
     [
      "L",
-     26,
+     6,
      "[Page 26]",
      true
     ],
     [
-     "I",
-     102,
-     [
-      [
-       98,
-       "[Page 27]"
-      ]
-     ]
+     "L",
+     72,
+     "[Page 27]",
+     true
     ],
     [
      "L",
-     188,
+     156,
      "[Page 28]",
+     true
+    ],
+    [
+     "L",
+     302,
+     "[Page 29]",
      true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 001 (I) - General Powers/§ 00501 - Secretary; general powers.md",
    "printed_pages": [
     25,
-    28
+    29
    ]
   },
   {
    "id": "14_502",
-   "marks": [
-    [
-     "I",
-     18,
-     [
-      [
-       109,
-       "[Page 29]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 001 (I) - General Powers/§ 00502 - Delegation of powers by the Secretary.md",
    "printed_pages": [
-    28,
+    29,
     29
    ]
   },
@@ -557,51 +577,47 @@
    "marks": [
     [
      "I",
-     30,
+     16,
      [
       [
-       276,
+       321,
        "[Page 30]"
       ]
      ]
     ],
     [
-     "L",
-     88,
-     "[Page 31]",
-     true
-    ],
-    [
      "I",
-     156,
+     56,
      [
       [
-       232,
-       "[Page 32]"
+       316,
+       "[Page 31]"
       ]
      ]
     ],
     [
      "L",
-     240,
+     142,
+     "[Page 32]",
+     true
+    ],
+    [
+     "L",
+     212,
      "[Page 33]",
      true
     ],
     [
      "L",
-     370,
+     330,
      "[Page 34]",
      true
     ],
     [
-     "I",
-     458,
-     [
-      [
-       92,
-       "[Page 35]"
-      ]
-     ]
+     "L",
+     434,
+     "[Page 35]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 001 (I) - General Powers/§ 00504 - Commandant; general powers.md",
@@ -612,26 +628,30 @@
   },
   {
    "id": "14_505",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       168,
+       "[Page 36]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 001 (I) - General Powers/§ 00505 - Functions and powers vested in the Commandant.md",
    "printed_pages": [
     35,
-    35
+    36
    ]
   },
   {
    "id": "14_506",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 36]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 001 (I) - General Powers/§ 00506 - Prospective payment of funds necessary to provide medical care.md",
    "printed_pages": [
-    35,
+    36,
     36
    ]
   },
@@ -646,11 +666,18 @@
   },
   {
    "id": "14_508",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 37]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 001 (I) - General Powers/§ 00508 - Coast Guard health-care professionals; licensure portability.md",
    "printed_pages": [
     36,
-    36
+    37
    ]
   },
   {
@@ -658,39 +685,36 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 002 (II) - Life Saving and Law Enforcement Authorities/README.md",
    "printed_pages": [
-    36,
-    36
+    37,
+    37
    ]
   },
   {
    "id": "14_521",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 37]",
-     true
+     "I",
+     66,
+     [
+      [
+       119,
+       "[Page 38]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 002 (II) - Life Saving and Law Enforcement Authorities/§ 00521 - Saving life and property.md",
    "printed_pages": [
-    36,
-    37
+    37,
+    38
    ]
   },
   {
    "id": "14_522",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 38]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 002 (II) - Life Saving and Law Enforcement Authorities/§ 00522 - Law enforcement.md",
    "printed_pages": [
-    37,
+    38,
     38
    ]
   },
@@ -716,14 +740,10 @@
    "id": "14_525",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       272,
-       "[Page 39]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 39]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 002 (II) - Life Saving and Law Enforcement Authorities/§ 00525 - Special agents of the Coast Guard Investigative Service law enforcement authority.md",
@@ -734,26 +754,30 @@
   },
   {
    "id": "14_526",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     46,
+     [
+      [
+       110,
+       "[Page 40]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 002 (II) - Life Saving and Law Enforcement Authorities/§ 00526 - Stopping vessels; indemnity for firing at or into vessel.md",
    "printed_pages": [
     39,
-    39
+    40
    ]
   },
   {
    "id": "14_527",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 40]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 002 (II) - Life Saving and Law Enforcement Authorities/§ 00527 - Safety of vessels of the Armed Forces.md",
    "printed_pages": [
-    39,
+    40,
     40
    ]
   },
@@ -762,7 +786,7 @@
    "marks": [
     [
      "L",
-     38,
+     12,
      "[Page 41]",
      true
     ]
@@ -787,10 +811,10 @@
    "marks": [
     [
      "I",
-     66,
+     32,
      [
       [
-       153,
+       483,
        "[Page 42]"
       ]
      ]
@@ -804,30 +828,30 @@
   },
   {
    "id": "14_542",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 003 (III) - Aids to Navigation/§ 00542 - Unauthorized aids to maritime navigation; penalty.md",
-   "printed_pages": [
-    42,
-    42
-   ]
-  },
-  {
-   "id": "14_543",
    "marks": [
     [
      "I",
      2,
      [
       [
-       185,
+       620,
        "[Page 43]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 003 (III) - Aids to Navigation/§ 00543 - Interference with aids to navigation; penalty.md",
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 003 (III) - Aids to Navigation/§ 00542 - Unauthorized aids to maritime navigation; penalty.md",
    "printed_pages": [
     42,
+    43
+   ]
+  },
+  {
+   "id": "14_543",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 003 (III) - Aids to Navigation/§ 00543 - Interference with aids to navigation; penalty.md",
+   "printed_pages": [
+    43,
     43
    ]
   },
@@ -842,30 +866,30 @@
   },
   {
    "id": "14_545",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 003 (III) - Aids to Navigation/§ 00545 - Marking of obstructions.md",
-   "printed_pages": [
-    43,
-    43
-   ]
-  },
-  {
-   "id": "14_546",
    "marks": [
     [
      "I",
      2,
      [
       [
-       90,
+       137,
        "[Page 44]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 003 (III) - Aids to Navigation/§ 00546 - Deposit of damage payments.md",
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 003 (III) - Aids to Navigation/§ 00545 - Marking of obstructions.md",
    "printed_pages": [
     43,
+    44
+   ]
+  },
+  {
+   "id": "14_546",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 003 (III) - Aids to Navigation/§ 00546 - Deposit of damage payments.md",
+   "printed_pages": [
+    44,
     44
    ]
   },
@@ -898,40 +922,37 @@
   },
   {
    "id": "14_562",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       88,
+       "[Page 45]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 004 (IV) - Miscellaneous/§ 00562 - Appeals and waivers.md",
    "printed_pages": [
     44,
-    44
+    45
    ]
   },
   {
    "id": "14_563",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       83,
-       "[Page 45]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     90,
-     [
-      [
-       224,
-       "[Page 46]"
-      ]
-     ]
+     "L",
+     68,
+     "[Page 46]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 004 (IV) - Miscellaneous/§ 00563 - Notification of certain determinations.md",
    "printed_pages": [
-    44,
+    45,
     46
    ]
   },
@@ -948,14 +969,10 @@
    "id": "14_701",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       214,
-       "[Page 47]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 47]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00701 - Cooperation with other agencies, States, territories, and political subdivisions.md",
@@ -986,10 +1003,14 @@
    "id": "14_704",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 48]",
-     true
+     "I",
+     4,
+     [
+      [
+       91,
+       "[Page 48]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00704 - Department of the Army and Department of the Air Force.md",
@@ -1000,26 +1021,26 @@
   },
   {
    "id": "14_705",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00705 - Navy Department.md",
-   "printed_pages": [
-    48,
-    48
-   ]
-  },
-  {
-   "id": "14_706",
    "marks": [
     [
      "L",
-     10,
+     40,
      "[Page 49]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00706 - United States Postal Service.md",
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00705 - Navy Department.md",
    "printed_pages": [
     48,
+    49
+   ]
+  },
+  {
+   "id": "14_706",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00706 - United States Postal Service.md",
+   "printed_pages": [
+    49,
     49
    ]
   },
@@ -1034,30 +1055,30 @@
   },
   {
    "id": "14_708",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00708 - Department of Health and Human Services.md",
-   "printed_pages": [
-    49,
-    49
-   ]
-  },
-  {
-   "id": "14_709",
    "marks": [
     [
      "I",
-     2,
+     10,
      [
       [
-       180,
+       92,
        "[Page 50]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00709 - Maritime instruction.md",
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00708 - Department of Health and Human Services.md",
    "printed_pages": [
     49,
+    50
+   ]
+  },
+  {
+   "id": "14_709",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00709 - Maritime instruction.md",
+   "printed_pages": [
+    50,
     50
    ]
   },
@@ -1065,10 +1086,14 @@
    "id": "14_710",
    "marks": [
     [
-     "L",
-     58,
-     "[Page 51]",
-     true
+     "I",
+     34,
+     [
+      [
+       322,
+       "[Page 51]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00710 - Assistance to foreign governments and maritime authorities.md",
@@ -1088,26 +1113,26 @@
   },
   {
    "id": "14_712",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00712 - Contracts with Government-owned establishments for work and material.md",
-   "printed_pages": [
-    51,
-    51
-   ]
-  },
-  {
-   "id": "14_713",
    "marks": [
     [
      "L",
-     14,
+     10,
      "[Page 52]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00713 - Nonappropriated fund instrumentalities contracts with other agencies and instrumentalities to provide or obtain goods and services.md",
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00712 - Contracts with Government-owned establishments for work and material.md",
    "printed_pages": [
     51,
+    52
+   ]
+  },
+  {
+   "id": "14_713",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00713 - Nonappropriated fund instrumentalities contracts with other agencies and instrumentalities to provide or obtain goods and services.md",
+   "printed_pages": [
+    52,
     52
    ]
   },
@@ -1131,26 +1156,26 @@
   },
   {
    "id": "14_716",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00716 - Arctic maritime transportation.md",
-   "printed_pages": [
-    52,
-    52
-   ]
-  },
-  {
-   "id": "14_717",
    "marks": [
     [
      "L",
-     6,
+     12,
      "[Page 53]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00717 - Agreements.md",
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00716 - Arctic maritime transportation.md",
    "printed_pages": [
     52,
+    53
+   ]
+  },
+  {
+   "id": "14_717",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00717 - Agreements.md",
+   "printed_pages": [
+    53,
     53
    ]
   },
@@ -1158,35 +1183,38 @@
    "id": "14_718",
    "marks": [
     [
-     "L",
-     68,
-     "[Page 54]",
-     true
-    ]
-   ],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00718 - Training; emergency response providers.md",
-   "printed_pages": [
-    53,
-    54
-   ]
-  },
-  {
-   "id": "14_-SUBTITLE_I-ch9",
-   "marks": [
-    [
      "I",
-     29,
+     42,
      [
       [
-       43,
+       116,
+       "[Page 54]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     128,
+     [
+      [
+       176,
        "[Page 55]"
       ]
      ]
     ]
    ],
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00718 - Training; emergency response providers.md",
+   "printed_pages": [
+    53,
+    55
+   ]
+  },
+  {
+   "id": "14_-SUBTITLE_I-ch9",
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/README.md",
    "printed_pages": [
-    54,
+    55,
     55
    ]
   },
@@ -1204,10 +1232,10 @@
    "marks": [
     [
      "I",
-     28,
+     14,
      [
       [
-       114,
+       138,
        "[Page 56]"
       ]
      ]
@@ -1233,10 +1261,10 @@
    "marks": [
     [
      "I",
-     32,
+     14,
      [
       [
-       162,
+       207,
        "[Page 57]"
       ]
      ]
@@ -1259,11 +1287,22 @@
   },
   {
    "id": "14_905",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       102,
+       "[Page 58]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00905 - Procurement authority for family housing.md",
    "printed_pages": [
     57,
-    57
+    58
    ]
   },
   {
@@ -1271,27 +1310,16 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00906 - Air Station Cape Cod Improvements.md",
    "printed_pages": [
-    57,
-    57
+    58,
+    58
    ]
   },
   {
    "id": "14_907",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       904,
-       "[Page 58]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00907 - Long-term lease of special purpose facilities.md",
    "printed_pages": [
-    57,
+    58,
     58
    ]
   },
@@ -1306,67 +1334,75 @@
   },
   {
    "id": "14_909",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00909 - Small boat station rescue capability.md",
-   "printed_pages": [
-    58,
-    58
-   ]
-  },
-  {
-   "id": "14_910",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 59]",
-     true
+     "I",
+     2,
+     [
+      [
+       283,
+       "[Page 59]"
+      ]
+     ]
     ]
    ],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00910 - Small boat station closures.md",
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00909 - Small boat station rescue capability.md",
    "printed_pages": [
     58,
     59
    ]
   },
   {
-   "id": "14_911",
+   "id": "14_910",
    "marks": [],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00911 - Search and rescue center standards.md",
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00910 - Small boat station closures.md",
    "printed_pages": [
     59,
     59
    ]
   },
   {
-   "id": "14_912",
+   "id": "14_911",
    "marks": [
     [
      "L",
-     18,
+     26,
      "[Page 60]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00912 - Air facility closures.md",
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00911 - Search and rescue center standards.md",
    "printed_pages": [
     59,
     60
    ]
   },
   {
-   "id": "14_913",
+   "id": "14_912",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 61]",
-     true
+     "I",
+     74,
+     [
+      [
+       109,
+       "[Page 61]"
+      ]
+     ]
     ]
    ],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00913 - Turnkey selection procedures.md",
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00912 - Air facility closures.md",
    "printed_pages": [
     60,
+    61
+   ]
+  },
+  {
+   "id": "14_913",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00913 - Turnkey selection procedures.md",
+   "printed_pages": [
+    61,
     61
    ]
   },
@@ -1381,11 +1417,18 @@
   },
   {
    "id": "14_-SUBTITLE_I-ch9-scII",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 62]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/README.md",
    "printed_pages": [
     61,
-    61
+    62
    ]
   },
   {
@@ -1393,23 +1436,16 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00931 - Oaths required for boards.md",
    "printed_pages": [
-    61,
-    61
+    62,
+    62
    ]
   },
   {
    "id": "14_932",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 62]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00932 - Administration of oaths.md",
    "printed_pages": [
-    61,
+    62,
     62
    ]
   },
@@ -1424,26 +1460,26 @@
   },
   {
    "id": "14_934",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00934 - Penalty for unauthorized use of words Coast Guard.md",
-   "printed_pages": [
-    62,
-    62
-   ]
-  },
-  {
-   "id": "14_935",
    "marks": [
     [
      "L",
-     8,
+     4,
      "[Page 63]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00935 - Coast Guard band recordings for commercial sale.md",
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00934 - Penalty for unauthorized use of words Coast Guard.md",
    "printed_pages": [
     62,
+    63
+   ]
+  },
+  {
+   "id": "14_935",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00935 - Coast Guard band recordings for commercial sale.md",
+   "printed_pages": [
+    63,
     63
    ]
   },
@@ -1451,14 +1487,10 @@
    "id": "14_936",
    "marks": [
     [
-     "I",
-     42,
-     [
-      [
-       91,
-       "[Page 64]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 64]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00936 - Confidentiality of medical quality assurance records; qualified immunity for participants.md",
@@ -1469,55 +1501,55 @@
   },
   {
    "id": "14_937",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     26,
+     "[Page 65]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00937 - Admiralty claims against the United States.md",
    "printed_pages": [
     64,
-    64
+    65
    ]
   },
   {
    "id": "14_938",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       1202,
-       "[Page 65]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00938 - Claims for damage to property of the United States.md",
    "printed_pages": [
-    64,
+    65,
     65
    ]
   },
   {
    "id": "14_939",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       94,
+       "[Page 66]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00939 - Accounting for industrial work.md",
    "printed_pages": [
     65,
-    65
+    66
    ]
   },
   {
    "id": "14_940",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 66]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00940 - Supplies and equipment from stock.md",
    "printed_pages": [
-    65,
+    66,
     66
    ]
   },
@@ -1532,11 +1564,18 @@
   },
   {
    "id": "14_942",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 67]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00942 - Public and commercial vessels and other watercraft; sale of fuel, supplies, and services.md",
    "printed_pages": [
     66,
-    66
+    67
    ]
   },
   {
@@ -1544,27 +1583,16 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00943 - Arms and ammunition; immunity from taxation.md",
    "printed_pages": [
-    66,
-    66
+    67,
+    67
    ]
   },
   {
    "id": "14_944",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       279,
-       "[Page 67]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00944 - Confidential investigative expenses.md",
    "printed_pages": [
-    66,
+    67,
     67
    ]
   },
@@ -1582,7 +1610,7 @@
    "marks": [
     [
      "L",
-     46,
+     22,
      "[Page 68]",
      true
     ]
@@ -1604,11 +1632,18 @@
   },
   {
    "id": "14_948",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 69]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00948 - Contracts for medical care for retirees, dependents, and survivors alternative delivery of health care.md",
    "printed_pages": [
     68,
-    68
+    69
    ]
   },
   {
@@ -1616,23 +1651,16 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00949 - Telephone installation and charges.md",
    "printed_pages": [
-    68,
-    68
+    69,
+    69
    ]
   },
   {
    "id": "14_950",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 69]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00950 - Designation, powers, and accountability of deputy disbursing officials.md",
    "printed_pages": [
-    68,
+    69,
     69
    ]
   },
@@ -1641,10 +1669,10 @@
    "marks": [
     [
      "I",
-     50,
+     28,
      [
       [
-       95,
+       80,
        "[Page 70]"
       ]
      ]
@@ -1673,7 +1701,7 @@
      56,
      [
       [
-       4594,
+       1767,
        "[Page 71]"
       ]
      ]
@@ -1707,16 +1735,26 @@
    "id": "14_1102",
    "marks": [
     [
+     "I",
+     8,
+     [
+      [
+       122,
+       "[Page 72]"
+      ]
+     ]
+    ],
+    [
      "L",
-     60,
-     "[Page 72]",
+     128,
+     "[Page 73]",
      true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 001 (I) - General Provisions/§ 01102 - Improvements in Coast Guard acquisition management.md",
    "printed_pages": [
     71,
-    72
+    73
    ]
   },
   {
@@ -1724,81 +1762,66 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 001 (I) - General Provisions/§ 01103 - Role of Vice Commandant in major acquisition programs.md",
    "printed_pages": [
-    72,
-    72
+    73,
+    73
    ]
   },
   {
    "id": "14_1104",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 73]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 001 (I) - General Provisions/§ 01104 - Recognition of Coast Guard personnel for excellence in acquisition.md",
    "printed_pages": [
-    72,
+    73,
     73
    ]
   },
   {
    "id": "14_1105",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     42,
+     "[Page 74]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 001 (I) - General Provisions/§ 01105 - Prohibition on use of lead systems integrators.md",
    "printed_pages": [
     73,
-    73
+    74
    ]
   },
   {
    "id": "14_1106",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       92,
-       "[Page 74]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 001 (I) - General Provisions/§ 01106 - Required contract terms.md",
    "printed_pages": [
-    73,
+    74,
     74
    ]
   },
   {
    "id": "14_1107",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 75]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 001 (I) - General Provisions/§ 01107 - Extension of major acquisition program contracts.md",
    "printed_pages": [
     74,
-    74
+    75
    ]
   },
   {
    "id": "14_1108",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       94,
-       "[Page 75]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 001 (I) - General Provisions/§ 01108 - Department of Defense consultation.md",
    "printed_pages": [
-    74,
+    75,
     75
    ]
   },
@@ -1806,14 +1829,10 @@
    "id": "14_1109",
    "marks": [
     [
-     "I",
-     68,
-     [
-      [
-       122,
-       "[Page 76]"
-      ]
-     ]
+     "L",
+     38,
+     "[Page 76]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 001 (I) - General Provisions/§ 01109 - Undefinitized contractual actions.md",
@@ -1827,7 +1846,7 @@
    "marks": [
     [
      "L",
-     60,
+     30,
      "[Page 77]",
      true
     ]
@@ -1861,85 +1880,84 @@
    "marks": [
     [
      "I",
-     48,
+     26,
      [
       [
-       97,
+       95,
        "[Page 78]"
       ]
      ]
+    ],
+    [
+     "L",
+     116,
+     "[Page 79]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 002 (II) - Improved Acquisition Process and Procedures/§ 01132 - Acquisition.md",
    "printed_pages": [
     77,
-    78
+    79
    ]
   },
   {
    "id": "14_1133",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       79,
-       "[Page 79]"
-      ]
-     ]
-    ],
-    [
      "L",
-     62,
+     40,
      "[Page 80]",
      true
+    ],
+    [
+     "I",
+     114,
+     [
+      [
+       114,
+       "[Page 81]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 002 (II) - Improved Acquisition Process and Procedures/§ 01133 - Preliminary development and demonstration.md",
    "printed_pages": [
-    78,
-    80
+    79,
+    81
    ]
   },
   {
    "id": "14_1134",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 81]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 002 (II) - Improved Acquisition Process and Procedures/§ 01134 - Acquisition, production, deployment, and support.md",
    "printed_pages": [
-    80,
+    81,
     81
    ]
   },
   {
    "id": "14_1135",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 002 (II) - Improved Acquisition Process and Procedures/§ 01135 - Acquisition program baseline breach.md",
-   "printed_pages": [
-    81,
-    81
-   ]
-  },
-  {
-   "id": "14_1136",
    "marks": [
     [
      "L",
-     14,
+     48,
      "[Page 82]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 002 (II) - Improved Acquisition Process and Procedures/§ 01136 - Acquisition approval authority.md",
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 002 (II) - Improved Acquisition Process and Procedures/§ 01135 - Acquisition program baseline breach.md",
    "printed_pages": [
     81,
+    82
+   ]
+  },
+  {
+   "id": "14_1136",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 002 (II) - Improved Acquisition Process and Procedures/§ 01136 - Acquisition approval authority.md",
+   "printed_pages": [
+    82,
     82
    ]
   },
@@ -1975,10 +1993,10 @@
    "marks": [
     [
      "I",
-     36,
+     16,
      [
       [
-       262,
+       75,
        "[Page 83]"
       ]
      ]
@@ -2013,7 +2031,7 @@
    "marks": [
     [
      "L",
-     54,
+     28,
      "[Page 84]",
      true
     ]
@@ -2047,7 +2065,7 @@
    "marks": [
     [
      "L",
-     72,
+     44,
      "[Page 85]",
      true
     ]
@@ -2069,11 +2087,22 @@
   },
   {
    "id": "14_-SUBTITLE_II-ch19",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     35,
+     [
+      [
+       62,
+       "[Page 86]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/README.md",
    "printed_pages": [
     85,
-    85
+    86
    ]
   },
   {
@@ -2081,27 +2110,16 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 001 (I) - Administration/README.md",
    "printed_pages": [
-    85,
-    85
+    86,
+    86
    ]
   },
   {
    "id": "14_1901",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       100,
-       "[Page 86]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 001 (I) - Administration/§ 01901 - Administration of Academy.md",
    "printed_pages": [
-    85,
+    86,
     86
    ]
   },
@@ -2110,7 +2128,7 @@
    "marks": [
     [
      "L",
-     72,
+     44,
      "[Page 87]",
      true
     ]
@@ -2125,10 +2143,14 @@
    "id": "14_1903",
    "marks": [
     [
-     "L",
-     76,
-     "[Page 88]",
-     true
+     "I",
+     34,
+     [
+      [
+       115,
+       "[Page 88]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 001 (I) - Administration/§ 01903 - Annual Board of Visitors.md",
@@ -2139,26 +2161,26 @@
   },
   {
    "id": "14_1904",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 001 (I) - Administration/§ 01904 - Participation in Federal, State, or other educational research grants.md",
-   "printed_pages": [
-    88,
-    88
-   ]
-  },
-  {
-   "id": "14_-SUBTITLE_II-ch19-scII",
    "marks": [
     [
      "L",
-     6,
+     36,
      "[Page 89]",
      true
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 002 (II) - Cadets/README.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 001 (I) - Administration/§ 01904 - Participation in Federal, State, or other educational research grants.md",
    "printed_pages": [
     88,
+    89
+   ]
+  },
+  {
+   "id": "14_-SUBTITLE_II-ch19-scII",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 002 (II) - Cadets/README.md",
+   "printed_pages": [
+    89,
     89
    ]
   },
@@ -2182,11 +2204,22 @@
   },
   {
    "id": "14_1923",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     30,
+     [
+      [
+       102,
+       "[Page 90]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 002 (II) - Cadets/§ 01923 - Admission of foreign nationals for instruction; restrictions; conditions.md",
    "printed_pages": [
     89,
-    89
+    90
    ]
   },
   {
@@ -2194,23 +2227,16 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 002 (II) - Cadets/§ 01924 - Conduct.md",
    "printed_pages": [
-    89,
-    89
+    90,
+    90
    ]
   },
   {
    "id": "14_1925",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 90]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 002 (II) - Cadets/§ 01925 - Agreement.md",
    "printed_pages": [
-    89,
+    90,
     90
    ]
   },
@@ -2225,30 +2251,30 @@
   },
   {
    "id": "14_1927",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 002 (II) - Cadets/§ 01927 - Cadets; initial clothing allowance.md",
-   "printed_pages": [
-    90,
-    90
-   ]
-  },
-  {
-   "id": "14_1928",
    "marks": [
     [
      "I",
-     12,
+     2,
      [
       [
-       104,
+       641,
        "[Page 91]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 002 (II) - Cadets/§ 01928 - Cadets; degree of bachelor of science.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 002 (II) - Cadets/§ 01927 - Cadets; initial clothing allowance.md",
    "printed_pages": [
     90,
+    91
+   ]
+  },
+  {
+   "id": "14_1928",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 002 (II) - Cadets/§ 01928 - Cadets; degree of bachelor of science.md",
+   "printed_pages": [
+    91,
     91
    ]
   },
@@ -2283,10 +2309,14 @@
    "id": "14_1941",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 92]",
-     true
+     "I",
+     12,
+     [
+      [
+       105,
+       "[Page 92]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 003 (III) - Faculty/§ 01941 - Civilian teaching staff.md",
@@ -2306,59 +2336,55 @@
   },
   {
    "id": "14_1943",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 003 (III) - Faculty/§ 01943 - Appointment of permanent commissioned teaching staff.md",
-   "printed_pages": [
-    92,
-    92
-   ]
-  },
-  {
-   "id": "14_1944",
    "marks": [
     [
      "I",
      2,
      [
       [
-       186,
+       637,
        "[Page 93]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 003 (III) - Faculty/§ 01944 - Grade of permanent commissioned teaching staff.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 003 (III) - Faculty/§ 01943 - Appointment of permanent commissioned teaching staff.md",
    "printed_pages": [
     92,
     93
    ]
   },
   {
-   "id": "14_1945",
+   "id": "14_1944",
    "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 003 (III) - Faculty/§ 01945 - Retirement of permanent commissioned teaching staff.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 003 (III) - Faculty/§ 01944 - Grade of permanent commissioned teaching staff.md",
    "printed_pages": [
     93,
     93
    ]
   },
   {
-   "id": "14_1946",
+   "id": "14_1945",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       111,
-       "[Page 94]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 94]",
+     true
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 003 (III) - Faculty/§ 01946 - Credit for service as member of civilian teaching staff.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 003 (III) - Faculty/§ 01945 - Retirement of permanent commissioned teaching staff.md",
    "printed_pages": [
     93,
+    94
+   ]
+  },
+  {
+   "id": "14_1946",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Personnel/Chapter 019 - Coast Guard Academy/Subchapter 003 (III) - Faculty/§ 01946 - Credit for service as member of civilian teaching staff.md",
+   "printed_pages": [
+    94,
     94
    ]
   },
@@ -2385,10 +2411,10 @@
    "marks": [
     [
      "I",
-     74,
+     33,
      [
       [
-       40,
+       57,
        "[Page 95]"
       ]
      ]
@@ -2402,42 +2428,46 @@
   },
   {
    "id": "14_-SUBTITLE_II-ch21-scI",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/README.md",
-   "printed_pages": [
-    95,
-    95
-   ]
-  },
-  {
-   "id": "14_2101",
    "marks": [
     [
      "L",
-     14,
+     50,
      "[Page 96]",
      true
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02101 - Original appointment of permanent commissioned officers.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/README.md",
    "printed_pages": [
     95,
     96
    ]
   },
   {
-   "id": "14_2102",
+   "id": "14_2101",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 97]",
-     true
+     "I",
+     50,
+     [
+      [
+       444,
+       "[Page 97]"
+      ]
+     ]
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02102 - Active duty promotion list.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02101 - Original appointment of permanent commissioned officers.md",
    "printed_pages": [
     96,
+    97
+   ]
+  },
+  {
+   "id": "14_2102",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02102 - Active duty promotion list.md",
+   "printed_pages": [
+    97,
     97
    ]
   },
@@ -2445,10 +2475,14 @@
    "id": "14_2103",
    "marks": [
     [
-     "L",
-     52,
-     "[Page 98]",
-     true
+     "I",
+     40,
+     [
+      [
+       164,
+       "[Page 98]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02103 - Number and distribution of commissioned officers on active duty promotion list.md",
@@ -2462,10 +2496,10 @@
    "marks": [
     [
      "I",
-     14,
+     4,
      [
       [
-       501,
+       91,
        "[Page 99]"
       ]
      ]
@@ -2479,11 +2513,22 @@
   },
   {
    "id": "14_2105",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       281,
+       "[Page 100]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02105 - Rank of warrant officers.md",
    "printed_pages": [
     99,
-    99
+    100
    ]
   },
   {
@@ -2491,27 +2536,16 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02106 - Selection boards; convening of boards.md",
    "printed_pages": [
-    99,
-    99
+    100,
+    100
    ]
   },
   {
    "id": "14_2107",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       98,
-       "[Page 100]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02107 - Selection boards; composition of boards.md",
    "printed_pages": [
-    99,
+    100,
     100
    ]
   },
@@ -2535,26 +2569,26 @@
   },
   {
    "id": "14_2110",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02110 - Number of officers to be selected for promotion.md",
-   "printed_pages": [
-    100,
-    100
-   ]
-  },
-  {
-   "id": "14_2111",
    "marks": [
     [
      "L",
-     20,
+     6,
      "[Page 101]",
      true
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02111 - Promotion zones.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02110 - Number of officers to be selected for promotion.md",
    "printed_pages": [
     100,
+    101
+   ]
+  },
+  {
+   "id": "14_2111",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02111 - Promotion zones.md",
+   "printed_pages": [
+    101,
     101
    ]
   },
@@ -2569,11 +2603,22 @@
   },
   {
    "id": "14_2113",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     44,
+     [
+      [
+       110,
+       "[Page 102]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02113 - Eligibility of officers for consideration for promotion.md",
    "printed_pages": [
     101,
-    101
+    102
    ]
   },
   {
@@ -2581,48 +2626,45 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02114 - United States Deputy Marshals in Alaska.md",
    "printed_pages": [
-    101,
-    101
+    102,
+    102
    ]
   },
   {
    "id": "14_2115",
-   "marks": [
-    [
-     "L",
-     24,
-     "[Page 102]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02115 - Selection boards; information to be furnished boards.md",
    "printed_pages": [
-    101,
+    102,
     102
    ]
   },
   {
    "id": "14_2116",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       100,
+       "[Page 103]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02116 - Officers to be recommended for promotion.md",
    "printed_pages": [
     102,
-    102
+    103
    ]
   },
   {
    "id": "14_2117",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 103]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02117 - Selection boards; reports.md",
    "printed_pages": [
-    102,
+    103,
     103
    ]
   },
@@ -2637,11 +2679,22 @@
   },
   {
    "id": "14_2119",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       104,
+       "[Page 104]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02119 - Failure of selection for promotion.md",
    "printed_pages": [
     103,
-    103
+    104
    ]
   },
   {
@@ -2649,24 +2702,18 @@
    "marks": [
     [
      "I",
-     10,
+     64,
      [
       [
-       96,
-       "[Page 104]"
+       172,
+       "[Page 105]"
       ]
      ]
-    ],
-    [
-     "L",
-     82,
-     "[Page 105]",
-     true
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02120 - Special selection boards; correction of errors.md",
    "printed_pages": [
-    103,
+    104,
     105
    ]
   },
@@ -2675,34 +2722,33 @@
    "marks": [
     [
      "I",
-     14,
+     4,
      [
       [
-       454,
+       328,
        "[Page 106]"
       ]
      ]
+    ],
+    [
+     "L",
+     80,
+     "[Page 107]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02121 - Promotions; appointments.md",
    "printed_pages": [
     105,
-    106
+    107
    ]
   },
   {
    "id": "14_2122",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 107]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02122 - Removal of officer from list of selectees for promotion.md",
    "printed_pages": [
-    106,
+    107,
     107
    ]
   },
@@ -2728,10 +2774,14 @@
    "id": "14_2125",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 108]",
-     true
+     "I",
+     14,
+     [
+      [
+       188,
+       "[Page 108]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02125 - Wartime temporary service promotions.md",
@@ -2760,11 +2810,18 @@
   },
   {
    "id": "14_2128",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 109]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02128 - Recall to active duty with consent of officer.md",
    "printed_pages": [
     108,
-    108
+    109
    ]
   },
   {
@@ -2772,8 +2829,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 001 (I) - Appointment and Promotion/§ 02129 - Aviation cadets; appointment as Reserve officers.md",
    "printed_pages": [
-    108,
-    108
+    109,
+    109
    ]
   },
   {
@@ -2781,27 +2838,16 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/README.md",
    "printed_pages": [
-    108,
-    108
+    109,
+    109
    ]
   },
   {
    "id": "14_2141",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       182,
-       "[Page 109]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02141 - Revocation of commissions during first five years of commissioned service.md",
    "printed_pages": [
-    108,
+    109,
     109
    ]
   },
@@ -2818,10 +2864,14 @@
    "id": "14_2143",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 110]",
-     true
+     "I",
+     10,
+     [
+      [
+       234,
+       "[Page 110]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02143 - Regular lieutenants; separation for failure of selection for promotion; continuation.md",
@@ -2832,40 +2882,47 @@
   },
   {
    "id": "14_2144",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02144 - Regular Coast Guard; officers serving under temporary appointments.md",
-   "printed_pages": [
-    110,
-    110
-   ]
-  },
-  {
-   "id": "14_2145",
    "marks": [
     [
      "I",
-     12,
+     28,
      [
       [
-       94,
+       109,
        "[Page 111]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02145 - Regular lieutenant commanders and commanders; retirement for failure of selection for promotion.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02144 - Regular Coast Guard; officers serving under temporary appointments.md",
    "printed_pages": [
     110,
     111
    ]
   },
   {
-   "id": "14_2146",
+   "id": "14_2145",
    "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02146 - Discharge in lieu of retirement; separation pay.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02145 - Regular lieutenant commanders and commanders; retirement for failure of selection for promotion.md",
    "printed_pages": [
     111,
     111
+   ]
+  },
+  {
+   "id": "14_2146",
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 112]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02146 - Discharge in lieu of retirement; separation pay.md",
+   "printed_pages": [
+    111,
+    112
    ]
   },
   {
@@ -2873,19 +2930,19 @@
    "marks": [
     [
      "I",
-     4,
+     46,
      [
       [
-       139,
-       "[Page 112]"
+       106,
+       "[Page 113]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02147 - Regular warrant officers separation pay.md",
    "printed_pages": [
-    111,
-    112
+    112,
+    113
    ]
   },
   {
@@ -2893,27 +2950,16 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02148 - Separation for failure of selection for promotion or continuation; time of.md",
    "printed_pages": [
-    112,
-    112
+    113,
+    113
    ]
   },
   {
    "id": "14_2149",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       795,
-       "[Page 113]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02149 - Regular captains; retirement.md",
    "printed_pages": [
-    112,
+    113,
     113
    ]
   },
@@ -2921,14 +2967,10 @@
    "id": "14_2150",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       256,
-       "[Page 114]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 114]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02150 - Captains; continuation on active duty; involuntary retirement.md",
@@ -2941,20 +2983,20 @@
    "id": "14_2151",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 115]",
-     true
-    ],
-    [
      "I",
-     80,
+     4,
      [
       [
-       1109,
-       "[Page 116]"
+       278,
+       "[Page 115]"
       ]
      ]
+    ],
+    [
+     "L",
+     54,
+     "[Page 116]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02151 - Rear admirals and rear admirals (lower half); continuation on active duty; involuntary retirement.md",
@@ -2983,11 +3025,22 @@
   },
   {
    "id": "14_2154",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       91,
+       "[Page 117]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02154 - Compulsory retirement.md",
    "printed_pages": [
     116,
-    116
+    117
    ]
   },
   {
@@ -2995,23 +3048,16 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02155 - Retirement for physical disability after selection for promotion; grade in which retired.md",
    "printed_pages": [
-    116,
-    116
+    117,
+    117
    ]
   },
   {
    "id": "14_2156",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 117]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02156 - Deferment of retirement or separation for medical reasons.md",
    "printed_pages": [
-    116,
+    117,
     117
    ]
   },
@@ -3044,26 +3090,30 @@
   },
   {
    "id": "14_2160",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       94,
+       "[Page 118]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02160 - Boards of review.md",
    "printed_pages": [
     117,
-    117
+    118
    ]
   },
   {
    "id": "14_2161",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 118]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 002 (II) - Discharges; Retirements; Revocation of Commissions; Separation for Cause/§ 02161 - Composition of boards.md",
    "printed_pages": [
-    117,
+    118,
     118
    ]
   },
@@ -3090,7 +3140,7 @@
    "marks": [
     [
      "L",
-     48,
+     20,
      "[Page 119]",
      true
     ]
@@ -3130,11 +3180,22 @@
   },
   {
    "id": "14_2182",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     40,
+     [
+      [
+       110,
+       "[Page 120]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 021 - Personnel; Officers/Subchapter 003 (III) - General Provisions/§ 02182 - Multirater assessment of certain personnel.md",
    "printed_pages": [
     119,
-    119
+    120
    ]
   },
   {
@@ -3142,33 +3203,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/README.md",
    "printed_pages": [
-    119,
-    119
+    120,
+    120
    ]
   },
   {
    "id": "14_2301",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 120]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02301 - Recruiting campaigns.md",
    "printed_pages": [
-    119,
+    120,
     120
    ]
   },
   {
    "id": "14_2302",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     50,
+     "[Page 121]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02302 - Enlistments; term, grade.md",
    "printed_pages": [
     120,
-    120
+    121
    ]
   },
   {
@@ -3176,27 +3237,16 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02303 - Promotion.md",
    "printed_pages": [
-    120,
-    120
+    121,
+    121
    ]
   },
   {
    "id": "14_2304",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       109,
-       "[Page 121]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02304 - Compulsory retirement at age of sixty-two.md",
    "printed_pages": [
-    120,
+    121,
     121
    ]
   },
@@ -3222,14 +3272,10 @@
    "id": "14_2307",
    "marks": [
     [
-     "I",
-     32,
-     [
-      [
-       562,
-       "[Page 122]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 122]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02307 - Retirement of enlisted members increase in retired pay.md",
@@ -3249,26 +3295,30 @@
   },
   {
    "id": "14_2309",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       137,
+       "[Page 123]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02309 - Recall to active duty with consent of member.md",
    "printed_pages": [
     122,
-    122
+    123
    ]
   },
   {
    "id": "14_2310",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 123]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02310 - Relief of retired enlisted member promoted while on active duty.md",
    "printed_pages": [
-    122,
+    123,
     123
    ]
   },
@@ -3283,55 +3333,55 @@
   },
   {
    "id": "14_2312",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02312 - Extension of enlistments.md",
-   "printed_pages": [
-    123,
-    123
-   ]
-  },
-  {
-   "id": "14_2313",
    "marks": [
     [
      "L",
-     6,
+     10,
      "[Page 124]",
      true
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02313 - Retention beyond term of enlistment in case of disability.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02312 - Extension of enlistments.md",
    "printed_pages": [
     123,
+    124
+   ]
+  },
+  {
+   "id": "14_2313",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02313 - Retention beyond term of enlistment in case of disability.md",
+   "printed_pages": [
+    124,
     124
    ]
   },
   {
    "id": "14_2314",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02314 - Detention beyond term of enlistment.md",
-   "printed_pages": [
-    124,
-    124
-   ]
-  },
-  {
-   "id": "14_2315",
    "marks": [
     [
      "I",
-     12,
+     28,
      [
       [
-       279,
+       112,
        "[Page 125]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02315 - Inclusion of certain conditions in enlistment contract.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02314 - Detention beyond term of enlistment.md",
    "printed_pages": [
     124,
+    125
+   ]
+  },
+  {
+   "id": "14_2315",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02315 - Inclusion of certain conditions in enlistment contract.md",
+   "printed_pages": [
+    125,
     125
    ]
   },
@@ -3355,11 +3405,18 @@
   },
   {
    "id": "14_2318",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 126]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02318 - Aviation cadets; benefits.md",
    "printed_pages": [
     125,
-    125
+    126
    ]
   },
   {
@@ -3367,27 +3424,16 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 023 - Personnel; Enlisted/§ 02319 - Critical skill training bonus.md",
    "printed_pages": [
-    125,
-    125
+    126,
+    126
    ]
   },
   {
    "id": "14_-SUBTITLE_II-ch25",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       61,
-       "[Page 126]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 025 - Personnel; General Provisions/README.md",
    "printed_pages": [
-    125,
+    126,
     126
    ]
   },
@@ -3402,26 +3448,26 @@
   },
   {
    "id": "14_2501",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 025 - Personnel; General Provisions/Subchapter 001 (I) - General Provisions/§ 02501 - Grade on retirement.md",
-   "printed_pages": [
-    126,
-    126
-   ]
-  },
-  {
-   "id": "14_2502",
    "marks": [
     [
      "L",
-     20,
+     30,
      "[Page 127]",
      true
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 025 - Personnel; General Provisions/Subchapter 001 (I) - General Provisions/§ 02502 - Retirement.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 025 - Personnel; General Provisions/Subchapter 001 (I) - General Provisions/§ 02501 - Grade on retirement.md",
    "printed_pages": [
     126,
+    127
+   ]
+  },
+  {
+   "id": "14_2502",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Personnel/Chapter 025 - Personnel; General Provisions/Subchapter 001 (I) - General Provisions/§ 02502 - Retirement.md",
+   "printed_pages": [
+    127,
     127
    ]
   },
@@ -3438,14 +3484,10 @@
    "id": "14_2504",
    "marks": [
     [
-     "I",
-     50,
-     [
-      [
-       600,
-       "[Page 128]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 128]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 025 - Personnel; General Provisions/Subchapter 001 (I) - General Provisions/§ 02504 - Computation of retired pay.md",
@@ -3456,11 +3498,22 @@
   },
   {
    "id": "14_2505",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       172,
+       "[Page 129]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 025 - Personnel; General Provisions/Subchapter 001 (I) - General Provisions/§ 02505 - Limitations on retirement and retired pay.md",
    "printed_pages": [
     128,
-    128
+    129
    ]
   },
   {
@@ -3468,52 +3521,45 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 025 - Personnel; General Provisions/Subchapter 001 (I) - General Provisions/§ 02506 - Suspension of payment of retired pay of members who are absent from the United States to avoid prosecution.md",
    "printed_pages": [
-    128,
-    128
+    129,
+    129
    ]
   },
   {
    "id": "14_2507",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       126,
-       "[Page 129]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 025 - Personnel; General Provisions/Subchapter 001 (I) - General Provisions/§ 02507 - Board for Correction of Military Records deadline.md",
    "printed_pages": [
-    128,
+    129,
     129
    ]
   },
   {
    "id": "14_2508",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     30,
+     [
+      [
+       110,
+       "[Page 130]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 025 - Personnel; General Provisions/Subchapter 001 (I) - General Provisions/§ 02508 - Emergency leave retention authority.md",
    "printed_pages": [
     129,
-    129
+    130
    ]
   },
   {
    "id": "14_2509",
-   "marks": [
-    [
-     "L",
-     30,
-     "[Page 130]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 025 - Personnel; General Provisions/Subchapter 001 (I) - General Provisions/§ 02509 - Prohibition of certain involuntary administrative separations.md",
    "printed_pages": [
-    129,
+    130,
     130
    ]
   },
@@ -3537,11 +3583,22 @@
   },
   {
    "id": "14_2512",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     24,
+     [
+      [
+       116,
+       "[Page 131]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 025 - Personnel; General Provisions/Subchapter 001 (I) - General Provisions/§ 02512 - Leave policies for the Coast Guard.md",
    "printed_pages": [
     130,
-    130
+    131
    ]
   },
   {
@@ -3549,8 +3606,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 025 - Personnel; General Provisions/Subchapter 001 (I) - General Provisions/§ 02513 - Computation of length of service.md",
    "printed_pages": [
-    130,
-    130
+    131,
+    131
    ]
   },
   {
@@ -3558,8 +3615,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 025 - Personnel; General Provisions/Subchapter 002 (II) - Lighthouse Service/README.md",
    "printed_pages": [
-    130,
-    130
+    131,
+    131
    ]
   },
   {
@@ -3567,24 +3624,18 @@
    "marks": [
     [
      "I",
-     2,
+     14,
      [
       [
-       360,
-       "[Page 131]"
+       1109,
+       "[Page 132]"
       ]
      ]
-    ],
-    [
-     "L",
-     28,
-     "[Page 132]",
-     true
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 025 - Personnel; General Provisions/Subchapter 002 (II) - Lighthouse Service/§ 02531 - Personnel of former Lighthouse Service.md",
    "printed_pages": [
-    130,
+    131,
     132
    ]
   },
@@ -3592,10 +3643,14 @@
    "id": "14_-SUBTITLE_II-ch27",
    "marks": [
     [
-     "L",
-     82,
-     "[Page 133]",
-     true
+     "I",
+     50,
+     [
+      [
+       72,
+       "[Page 133]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/README.md",
@@ -3633,30 +3688,26 @@
   },
   {
    "id": "14_2703",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 134]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 001 (I) - Personnel Rights and Benefits/§ 02703 - Contingent expenses.md",
    "printed_pages": [
     133,
-    133
+    134
    ]
   },
   {
    "id": "14_2704",
-   "marks": [
-    [
-     "I",
-     26,
-     [
-      [
-       107,
-       "[Page 134]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 001 (I) - Personnel Rights and Benefits/§ 02704 - Equipment to prevent accidents.md",
    "printed_pages": [
-    133,
+    134,
     134
    ]
   },
@@ -3689,30 +3740,30 @@
   },
   {
    "id": "14_2708",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 001 (I) - Personnel Rights and Benefits/§ 02708 - Clothing for officers and enlisted personnel.md",
-   "printed_pages": [
-    134,
-    134
-   ]
-  },
-  {
-   "id": "14_2709",
    "marks": [
     [
      "I",
-     2,
+     6,
      [
       [
-       85,
+       150,
        "[Page 135]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 001 (I) - Personnel Rights and Benefits/§ 02709 - Procurement and sale of stores to members and civilian employees.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 001 (I) - Personnel Rights and Benefits/§ 02708 - Clothing for officers and enlisted personnel.md",
    "printed_pages": [
     134,
+    135
+   ]
+  },
+  {
+   "id": "14_2709",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 001 (I) - Personnel Rights and Benefits/§ 02709 - Procurement and sale of stores to members and civilian employees.md",
+   "printed_pages": [
+    135,
     135
    ]
   },
@@ -3727,26 +3778,26 @@
   },
   {
    "id": "14_2711",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 001 (I) - Personnel Rights and Benefits/§ 02711 - Deserters; payment of expenses incident to apprehension and delivery; penalties.md",
-   "printed_pages": [
-    135,
-    135
-   ]
-  },
-  {
-   "id": "14_2712",
    "marks": [
     [
      "L",
-     20,
+     6,
      "[Page 136]",
      true
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 001 (I) - Personnel Rights and Benefits/§ 02712 - Payment for the apprehension of stragglers.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 001 (I) - Personnel Rights and Benefits/§ 02711 - Deserters; payment of expenses incident to apprehension and delivery; penalties.md",
    "printed_pages": [
     135,
+    136
+   ]
+  },
+  {
+   "id": "14_2712",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 001 (I) - Personnel Rights and Benefits/§ 02712 - Payment for the apprehension of stragglers.md",
+   "printed_pages": [
+    136,
     136
    ]
   },
@@ -3779,26 +3830,26 @@
   },
   {
    "id": "14_2733",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 002 (II) - Awards/§ 02733 - Medal of honor duplicate medal.md",
-   "printed_pages": [
-    136,
-    136
-   ]
-  },
-  {
-   "id": "14_2734",
    "marks": [
     [
      "L",
-     20,
+     10,
      "[Page 137]",
      true
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 002 (II) - Awards/§ 02734 - Medal of honor presentation of Medal of Honor Flag.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 002 (II) - Awards/§ 02733 - Medal of honor duplicate medal.md",
    "printed_pages": [
     136,
+    137
+   ]
+  },
+  {
+   "id": "14_2734",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 002 (II) - Awards/§ 02734 - Medal of honor presentation of Medal of Honor Flag.md",
+   "printed_pages": [
+    137,
     137
    ]
   },
@@ -3822,11 +3873,22 @@
   },
   {
    "id": "14_2737",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       229,
+       "[Page 138]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 002 (II) - Awards/§ 02737 - Silver star medal.md",
    "printed_pages": [
     137,
-    137
+    138
    ]
   },
   {
@@ -3834,27 +3896,16 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 002 (II) - Awards/§ 02738 - Distinguished flying cross.md",
    "printed_pages": [
-    137,
-    137
+    138,
+    138
    ]
   },
   {
    "id": "14_2739",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       86,
-       "[Page 138]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 002 (II) - Awards/§ 02739 - Coast Guard medal.md",
    "printed_pages": [
-    137,
+    138,
     138
    ]
   },
@@ -3869,30 +3920,30 @@
   },
   {
    "id": "14_2741",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 002 (II) - Awards/§ 02741 - Time limit on award; report concerning deed.md",
-   "printed_pages": [
-    138,
-    138
-   ]
-  },
-  {
-   "id": "14_2742",
    "marks": [
     [
      "I",
-     4,
+     14,
      [
       [
-       161,
+       103,
        "[Page 139]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 002 (II) - Awards/§ 02742 - Honorable subsequent service as condition to award.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 002 (II) - Awards/§ 02741 - Time limit on award; report concerning deed.md",
    "printed_pages": [
     138,
+    139
+   ]
+  },
+  {
+   "id": "14_2742",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 002 (II) - Awards/§ 02742 - Honorable subsequent service as condition to award.md",
+   "printed_pages": [
+    139,
     139
    ]
   },
@@ -3909,14 +3960,10 @@
    "id": "14_2744",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       1902,
-       "[Page 140]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 140]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 002 (II) - Awards/§ 02744 - Life-saving medals.md",
@@ -3936,26 +3983,30 @@
   },
   {
    "id": "14_2746",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       89,
+       "[Page 141]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 002 (II) - Awards/§ 02746 - Award of other medals.md",
    "printed_pages": [
     140,
-    140
+    141
    ]
   },
   {
    "id": "14_2747",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 141]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 002 (II) - Awards/§ 02747 - Awards and insignia for excellence in service or conduct.md",
    "printed_pages": [
-    140,
+    141,
     141
    ]
   },
@@ -3979,11 +4030,22 @@
   },
   {
    "id": "14_2761",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       478,
+       "[Page 142]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 003 (III) - Payments/§ 02761 - Persons discharged as result of court-martial; allowances to.md",
    "printed_pages": [
     141,
-    141
+    142
    ]
   },
   {
@@ -3991,27 +4053,16 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 003 (III) - Payments/§ 02762 - Shore patrol duty; payment of expenses.md",
    "printed_pages": [
-    141,
-    141
+    142,
+    142
    ]
   },
   {
    "id": "14_2763",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       326,
-       "[Page 142]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 003 (III) - Payments/§ 02763 - Compensatory absence from duty for military personnel at isolated duty stations.md",
    "printed_pages": [
-    141,
+    142,
     142
    ]
   },
@@ -4035,26 +4086,26 @@
   },
   {
    "id": "14_2766",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 003 (III) - Payments/§ 02766 - Travel card management.md",
-   "printed_pages": [
-    142,
-    142
-   ]
-  },
-  {
-   "id": "14_2767",
    "marks": [
     [
      "L",
-     14,
+     10,
      "[Page 143]",
      true
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 003 (III) - Payments/§ 02767 - Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 003 (III) - Payments/§ 02766 - Travel card management.md",
    "printed_pages": [
     142,
+    143
+   ]
+  },
+  {
+   "id": "14_2767",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 003 (III) - Payments/§ 02767 - Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States.md",
+   "printed_pages": [
+    143,
     143
    ]
   },
@@ -4071,14 +4122,10 @@
    "id": "14_2769",
    "marks": [
     [
-     "I",
-     46,
-     [
-      [
-       170,
-       "[Page 144]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 144]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 003 (III) - Payments/§ 02769 - Remission of indebtedness.md",
@@ -4107,30 +4154,26 @@
   },
   {
    "id": "14_2772",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 145]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 003 (III) - Payments/§ 02772 - Education loan repayment program.md",
    "printed_pages": [
     144,
-    144
+    145
    ]
   },
   {
    "id": "14_2773",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       91,
-       "[Page 145]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 003 (III) - Payments/§ 02773 - Rations or commutation therefor in money.md",
    "printed_pages": [
-    144,
+    145,
     145
    ]
   },
@@ -4145,11 +4188,18 @@
   },
   {
    "id": "14_2775",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 146]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 003 (III) - Payments/§ 02775 - Flight rations.md",
    "printed_pages": [
     145,
-    145
+    146
    ]
   },
   {
@@ -4157,27 +4207,16 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 003 (III) - Payments/§ 02776 - Payments at time of discharge for good of service.md",
    "printed_pages": [
-    145,
-    145
+    146,
+    146
    ]
   },
   {
    "id": "14_2777",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       86,
-       "[Page 146]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 003 (III) - Payments/§ 02777 - Clothing for destitute shipwrecked persons.md",
    "printed_pages": [
-    145,
+    146,
     146
    ]
   },
@@ -4192,30 +4231,30 @@
   },
   {
    "id": "14_2779",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 003 (III) - Payments/§ 02779 - Transportation to and from certain places of employment.md",
-   "printed_pages": [
-    146,
-    146
-   ]
-  },
-  {
-   "id": "14_-SUBTITLE_II-ch29",
    "marks": [
     [
      "I",
-     23,
+     18,
      [
       [
-       62,
+       272,
        "[Page 147]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 002 (II) - Personnel/Chapter 029 - Coast Guard Family Support, Child Care, and Housing/README.md",
+   "path": "Subtitle 002 (II) - Personnel/Chapter 027 - Pay, Allowances, Awards, and Other Rights and Benefits/Subchapter 003 (III) - Payments/§ 02779 - Transportation to and from certain places of employment.md",
    "printed_pages": [
     146,
+    147
+   ]
+  },
+  {
+   "id": "14_-SUBTITLE_II-ch29",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Personnel/Chapter 029 - Coast Guard Family Support, Child Care, and Housing/README.md",
+   "printed_pages": [
+    147,
     147
    ]
   },
@@ -4251,7 +4290,7 @@
    "marks": [
     [
      "L",
-     42,
+     6,
      "[Page 148]",
      true
     ]
@@ -4264,26 +4303,30 @@
   },
   {
    "id": "14_2904",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       139,
+       "[Page 149]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 029 - Coast Guard Family Support, Child Care, and Housing/Subchapter 001 (I) - Coast Guard Families/§ 02904 - Education and training opportunities for Coast Guard spouses.md",
    "printed_pages": [
     148,
-    148
+    149
    ]
   },
   {
    "id": "14_2905",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 149]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 029 - Coast Guard Family Support, Child Care, and Housing/Subchapter 001 (I) - Coast Guard Families/§ 02905 - Youth sponsorship initiatives.md",
    "printed_pages": [
-    148,
+    149,
     149
    ]
   },
@@ -4307,11 +4350,18 @@
   },
   {
    "id": "14_2921",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 150]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 029 - Coast Guard Family Support, Child Care, and Housing/Subchapter 002 (II) - Coast Guard Child Care/§ 02921 - Definitions.md",
    "printed_pages": [
     149,
-    149
+    150
    ]
   },
   {
@@ -4319,19 +4369,19 @@
    "marks": [
     [
      "I",
-     10,
+     42,
      [
       [
-       89,
-       "[Page 150]"
+       432,
+       "[Page 151]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 029 - Coast Guard Family Support, Child Care, and Housing/Subchapter 002 (II) - Coast Guard Child Care/§ 02922 - Child development services.md",
    "printed_pages": [
-    149,
-    150
+    150,
+    151
    ]
   },
   {
@@ -4339,33 +4389,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 029 - Coast Guard Family Support, Child Care, and Housing/Subchapter 002 (II) - Coast Guard Child Care/§ 02923 - Child development center standards and inspections.md",
    "printed_pages": [
-    150,
-    150
+    151,
+    151
    ]
   },
   {
    "id": "14_2924",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 151]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 029 - Coast Guard Family Support, Child Care, and Housing/Subchapter 002 (II) - Coast Guard Child Care/§ 02924 - Child development center employees.md",
    "printed_pages": [
-    150,
+    151,
     151
    ]
   },
   {
    "id": "14_2925",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       102,
+       "[Page 152]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 029 - Coast Guard Family Support, Child Care, and Housing/Subchapter 002 (II) - Coast Guard Child Care/§ 02925 - Parent partnerships with child development centers.md",
    "printed_pages": [
     151,
-    151
+    152
    ]
   },
   {
@@ -4373,23 +4427,16 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 029 - Coast Guard Family Support, Child Care, and Housing/Subchapter 003 (III) - Housing/README.md",
    "printed_pages": [
-    151,
-    151
+    152,
+    152
    ]
   },
   {
    "id": "14_2941",
-   "marks": [
-    [
-     "L",
-     24,
-     "[Page 152]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 029 - Coast Guard Family Support, Child Care, and Housing/Subchapter 003 (III) - Housing/§ 02941 - Definitions.md",
    "printed_pages": [
-    151,
+    152,
     152
    ]
   },
@@ -4407,19 +4454,25 @@
    "marks": [
     [
      "I",
-     16,
+     2,
      [
       [
-       431,
+       841,
        "[Page 153]"
       ]
      ]
+    ],
+    [
+     "L",
+     56,
+     "[Page 154]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 029 - Coast Guard Family Support, Child Care, and Housing/Subchapter 003 (III) - Housing/§ 02943 - Leasing and hiring of quarters; rental of inadequate housing.md",
    "printed_pages": [
     152,
-    153
+    154
    ]
   },
   {
@@ -4427,23 +4480,16 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 029 - Coast Guard Family Support, Child Care, and Housing/Subchapter 003 (III) - Housing/§ 02944 - Retired service members and dependents serving on advisory committees.md",
    "printed_pages": [
-    153,
-    153
+    154,
+    154
    ]
   },
   {
    "id": "14_2945",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 154]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Personnel/Chapter 029 - Coast Guard Family Support, Child Care, and Housing/Subchapter 003 (III) - Housing/§ 02945 - Conveyance of real property.md",
    "printed_pages": [
-    153,
+    154,
     154
    ]
   },
@@ -4452,10 +4498,10 @@
    "marks": [
     [
      "I",
-     56,
+     22,
      [
       [
-       107,
+       83,
        "[Page 155]"
       ]
      ]
@@ -4469,11 +4515,22 @@
   },
   {
    "id": "14_2947",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       102,
+       "[Page 156]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Personnel/Chapter 029 - Coast Guard Family Support, Child Care, and Housing/Subchapter 003 (III) - Housing/§ 02947 - Reports.md",
    "printed_pages": [
     155,
-    155
+    156
    ]
   },
   {
@@ -4481,27 +4538,16 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/README.md",
    "printed_pages": [
-    155,
-    155
+    156,
+    156
    ]
   },
   {
    "id": "14_-SUBTITLE_III-ch1&#160;",
-   "marks": [
-    [
-     "I",
-     32,
-     [
-      [
-       22,
-       "[Page 156]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/README.md",
    "printed_pages": [
-    155,
+    156,
     156
    ]
   },
@@ -4525,26 +4571,26 @@
   },
   {
    "id": "14_3702",
-   "marks": [],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 001 (I) - Administration/§ 03702 - Authorized strength.md",
-   "printed_pages": [
-    156,
-    156
-   ]
-  },
-  {
-   "id": "14_3703",
    "marks": [
     [
      "L",
-     12,
+     8,
      "[Page 157]",
      true
     ]
    ],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 001 (I) - Administration/§ 03703 - Coast Guard Reserve Boards.md",
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 001 (I) - Administration/§ 03702 - Authorized strength.md",
    "printed_pages": [
     156,
+    157
+   ]
+  },
+  {
+   "id": "14_3703",
+   "marks": [],
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 001 (I) - Administration/§ 03703 - Coast Guard Reserve Boards.md",
+   "printed_pages": [
+    157,
     157
    ]
   },
@@ -4559,26 +4605,30 @@
   },
   {
    "id": "14_3705",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       149,
+       "[Page 158]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 001 (I) - Administration/§ 03705 - Benefits.md",
    "printed_pages": [
     157,
-    157
+    158
    ]
   },
   {
    "id": "14_3706",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 158]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 001 (I) - Administration/§ 03706 - Temporary members of the Reserve; eligibility and compensation.md",
    "printed_pages": [
-    157,
+    158,
     158
    ]
   },
@@ -4587,10 +4637,10 @@
    "marks": [
     [
      "I",
-     52,
+     18,
      [
       [
-       110,
+       136,
        "[Page 159]"
       ]
      ]
@@ -4613,40 +4663,47 @@
   },
   {
    "id": "14_3709",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 160]",
+     true
+    ]
+   ],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 001 (I) - Administration/§ 03709 - Reserve student aviation pilots; Reserve aviation pilots; appointments in commissioned grade.md",
    "printed_pages": [
     159,
-    159
+    160
    ]
   },
   {
    "id": "14_3710",
-   "marks": [
-    [
-     "I",
-     36,
-     [
-      [
-       95,
-       "[Page 160]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 001 (I) - Administration/§ 03710 - Reserve student pre-commissioning assistance program.md",
    "printed_pages": [
-    159,
+    160,
     160
    ]
   },
   {
    "id": "14_3711",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       90,
+       "[Page 161]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 001 (I) - Administration/§ 03711 - Appointment or wartime promotion; retention of grade upon release from active duty.md",
    "printed_pages": [
     160,
-    160
+    161
    ]
   },
   {
@@ -4654,8 +4711,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 001 (I) - Administration/§ 03712 - Exclusiveness of service.md",
    "printed_pages": [
-    160,
-    160
+    161,
+    161
    ]
   },
   {
@@ -4663,15 +4720,15 @@
    "marks": [
     [
      "L",
-     4,
-     "[Page 161]",
+     38,
+     "[Page 162]",
      true
     ]
    ],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 001 (I) - Administration/§ 03713 - Active duty for emergency augmentation of regular forces.md",
    "printed_pages": [
-    160,
-    161
+    161,
+    162
    ]
   },
   {
@@ -4679,8 +4736,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 001 (I) - Administration/§ 03714 - Enlistment of members engaged in schooling.md",
    "printed_pages": [
-    161,
-    161
+    162,
+    162
    ]
   },
   {
@@ -4688,23 +4745,16 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/README.md",
    "printed_pages": [
-    161,
-    161
+    162,
+    162
    ]
   },
   {
    "id": "14_3731",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 162]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03731 - Definitions.md",
    "printed_pages": [
-    161,
+    162,
     162
    ]
   },
@@ -4728,84 +4778,80 @@
   },
   {
    "id": "14_3734",
-   "marks": [],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03734 - Effect of this subchapter on retirement and retired pay.md",
-   "printed_pages": [
-    162,
-    162
-   ]
-  },
-  {
-   "id": "14_3735",
    "marks": [
     [
      "I",
-     10,
+     2,
      [
       [
-       186,
+       201,
        "[Page 163]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03735 - Authorized number of officers.md",
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03734 - Effect of this subchapter on retirement and retired pay.md",
    "printed_pages": [
     162,
     163
    ]
   },
   {
-   "id": "14_3736",
+   "id": "14_3735",
    "marks": [],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03736 - Precedence.md",
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03735 - Authorized number of officers.md",
    "printed_pages": [
     163,
     163
    ]
   },
   {
-   "id": "14_3737",
+   "id": "14_3736",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       187,
-       "[Page 164]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 164]",
+     true
     ]
    ],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03737 - Running mates.md",
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03736 - Precedence.md",
    "printed_pages": [
     163,
     164
    ]
   },
   {
-   "id": "14_3738",
+   "id": "14_3737",
    "marks": [],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03738 - Constructive credit upon initial appointment.md",
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03737 - Running mates.md",
    "printed_pages": [
     164,
     164
    ]
   },
   {
-   "id": "14_3739",
+   "id": "14_3738",
    "marks": [
     [
      "L",
-     22,
+     4,
      "[Page 165]",
      true
     ]
    ],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03739 - Promotion of Reserve officers on active duty.md",
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03738 - Constructive credit upon initial appointment.md",
    "printed_pages": [
     164,
+    165
+   ]
+  },
+  {
+   "id": "14_3739",
+   "marks": [],
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03739 - Promotion of Reserve officers on active duty.md",
+   "printed_pages": [
+    165,
     165
    ]
   },
@@ -4814,10 +4860,10 @@
    "marks": [
     [
      "I",
-     48,
+     30,
      [
       [
-       109,
+       350,
        "[Page 166]"
       ]
      ]
@@ -4831,36 +4877,51 @@
   },
   {
    "id": "14_3741",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       282,
+       "[Page 167]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03741 - Selection boards; appointment.md",
    "printed_pages": [
     166,
-    166
+    167
    ]
   },
   {
    "id": "14_3742",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 167]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03742 - Establishment of promotion zones under running mate system.md",
    "printed_pages": [
-    166,
+    167,
     167
    ]
   },
   {
    "id": "14_3743",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       238,
+       "[Page 168]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03743 - Eligibility for promotion.md",
    "printed_pages": [
     167,
-    167
+    168
    ]
   },
   {
@@ -4868,27 +4929,16 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03744 - Recommendation for promotion of an officer previously removed from an active status.md",
    "printed_pages": [
-    167,
-    167
+    168,
+    168
    ]
   },
   {
    "id": "14_3745",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       109,
-       "[Page 168]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03745 - Qualifications for promotion.md",
    "printed_pages": [
-    167,
+    168,
     168
    ]
   },
@@ -4903,11 +4953,22 @@
   },
   {
    "id": "14_3747",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       398,
+       "[Page 169]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03747 - Date of rank upon promotion; entitlement to pay.md",
    "printed_pages": [
     168,
-    168
+    169
    ]
   },
   {
@@ -4915,91 +4976,87 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03748 - Type of promotion; temporary.md",
    "printed_pages": [
-    168,
-    168
+    169,
+    169
    ]
   },
   {
    "id": "14_3749",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 169]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03749 - Effect of removal by the President or failure of consent of the Senate.md",
    "printed_pages": [
-    168,
+    169,
     169
    ]
   },
   {
    "id": "14_3750",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 170]",
+     true
+    ]
+   ],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03750 - Failure of selection for promotion.md",
    "printed_pages": [
     169,
-    169
+    170
    ]
   },
   {
    "id": "14_3751",
-   "marks": [
-    [
-     "I",
-     22,
-     [
-      [
-       109,
-       "[Page 170]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03751 - Failure of selection and removal from an active status.md",
    "printed_pages": [
-    169,
+    170,
     170
    ]
   },
   {
    "id": "14_3752",
-   "marks": [],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03752 - Retention boards; removal from an active status to provide a flow of promotion.md",
-   "printed_pages": [
-    170,
-    170
-   ]
-  },
-  {
-   "id": "14_3753",
    "marks": [
     [
      "I",
-     8,
+     26,
      [
       [
-       95,
+       96,
        "[Page 171]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03753 - Maximum ages for retention in an active status.md",
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03752 - Retention boards; removal from an active status to provide a flow of promotion.md",
    "printed_pages": [
     170,
     171
    ]
   },
   {
-   "id": "14_3754",
+   "id": "14_3753",
    "marks": [],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03754 - Rear admiral and rear admiral (lower half); maximum service in grade.md",
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03753 - Maximum ages for retention in an active status.md",
    "printed_pages": [
     171,
     171
+   ]
+  },
+  {
+   "id": "14_3754",
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 172]",
+     true
+    ]
+   ],
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03754 - Rear admiral and rear admiral (lower half); maximum service in grade.md",
+   "printed_pages": [
+    171,
+    172
    ]
   },
   {
@@ -5007,8 +5064,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03755 - Appointment of a former Navy or Coast Guard officer.md",
    "printed_pages": [
-    171,
-    171
+    172,
+    172
    ]
   },
   {
@@ -5016,23 +5073,16 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03756 - Grade on entry upon active duty.md",
    "printed_pages": [
-    171,
-    171
+    172,
+    172
    ]
   },
   {
    "id": "14_3757",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 172]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 001 - Coast Guard Reserve/Subchapter 002 (II) - Personnel/§ 03757 - Recall of a retired officer; grade upon release.md",
    "printed_pages": [
-    171,
+    172,
     172
    ]
   },
@@ -5049,14 +5099,10 @@
    "id": "14_3901",
    "marks": [
     [
-     "I",
-     64,
-     [
-      [
-       164,
-       "[Page 173]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 173]",
+     true
     ]
    ],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 039 - Coast Guard Auxiliary/§ 03901 - Administration of the Coast Guard Auxiliary.md",
@@ -5076,26 +5122,26 @@
   },
   {
    "id": "14_3903",
-   "marks": [],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 039 - Coast Guard Auxiliary/§ 03903 - Eligibility; enrollments.md",
-   "printed_pages": [
-    173,
-    173
-   ]
-  },
-  {
-   "id": "14_3904",
    "marks": [
     [
      "L",
-     6,
+     4,
      "[Page 174]",
      true
     ]
    ],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 039 - Coast Guard Auxiliary/§ 03904 - Members of the Auxiliary; status.md",
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 039 - Coast Guard Auxiliary/§ 03903 - Eligibility; enrollments.md",
    "printed_pages": [
     173,
+    174
+   ]
+  },
+  {
+   "id": "14_3904",
+   "marks": [],
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 039 - Coast Guard Auxiliary/§ 03904 - Members of the Auxiliary; status.md",
+   "printed_pages": [
+    174,
     174
    ]
   },
@@ -5110,26 +5156,30 @@
   },
   {
    "id": "14_3906",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       92,
+       "[Page 175]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 039 - Coast Guard Auxiliary/§ 03906 - Membership in other organizations.md",
    "printed_pages": [
     174,
-    174
+    175
    ]
   },
   {
    "id": "14_3907",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 175]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 039 - Coast Guard Auxiliary/§ 03907 - Use of member's facilities.md",
    "printed_pages": [
-    174,
+    175,
     175
    ]
   },
@@ -5153,40 +5203,47 @@
   },
   {
    "id": "14_3910",
-   "marks": [],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 039 - Coast Guard Auxiliary/§ 03910 - Radio station deemed government station.md",
-   "printed_pages": [
-    175,
-    175
-   ]
-  },
-  {
-   "id": "14_3911",
    "marks": [
     [
      "I",
      4,
      [
       [
-       283,
+       158,
        "[Page 176]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 039 - Coast Guard Auxiliary/§ 03911 - Availability of appropriations.md",
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 039 - Coast Guard Auxiliary/§ 03910 - Radio station deemed government station.md",
    "printed_pages": [
     175,
     176
    ]
   },
   {
-   "id": "14_3912",
+   "id": "14_3911",
    "marks": [],
-   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 039 - Coast Guard Auxiliary/§ 03912 - Assignment and performance of duties.md",
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 039 - Coast Guard Auxiliary/§ 03911 - Availability of appropriations.md",
    "printed_pages": [
     176,
     176
+   ]
+  },
+  {
+   "id": "14_3912",
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 177]",
+     true
+    ]
+   ],
+   "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 039 - Coast Guard Auxiliary/§ 03912 - Assignment and performance of duties.md",
+   "printed_pages": [
+    176,
+    177
    ]
   },
   {
@@ -5194,27 +5251,16 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 039 - Coast Guard Auxiliary/§ 03913 - Injury or death in line of duty.md",
    "printed_pages": [
-    176,
-    176
+    177,
+    177
    ]
   },
   {
    "id": "14_-SUBTITLE_III-ch41",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       97,
-       "[Page 177]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 041 - General Provisions for Coast Guard Reserve and Auxiliary/README.md",
    "printed_pages": [
-    176,
+    177,
     177
    ]
   },
@@ -5238,11 +5284,18 @@
   },
   {
    "id": "14_4103",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 178]",
+     true
+    ]
+   ],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 041 - General Provisions for Coast Guard Reserve and Auxiliary/§ 04103 - Limitation on rights of members of the Auxiliary and temporary members of the Reserve.md",
    "printed_pages": [
     177,
-    177
+    178
    ]
   },
   {
@@ -5250,8 +5303,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Coast Guard Reserve and Auxiliary/Chapter 041 - General Provisions for Coast Guard Reserve and Auxiliary/§ 04104 - Availability of facilities and appropriations.md",
    "printed_pages": [
-    177,
-    177
+    178,
+    178
    ]
   },
   {
@@ -5259,48 +5312,41 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/README.md",
    "printed_pages": [
-    177,
-    177
+    178,
+    178
    ]
   },
   {
    "id": "14_-SUBTITLE_IV-ch49",
-   "marks": [
-    [
-     "L",
-     15,
-     "[Page 178]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 049 - Authorizations/README.md",
    "printed_pages": [
-    177,
+    178,
     178
    ]
   },
   {
    "id": "14_4901",
-   "marks": [],
-   "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 049 - Authorizations/§ 04901 - Requirement for prior authorization of appropriations.md",
-   "printed_pages": [
-    178,
-    178
-   ]
-  },
-  {
-   "id": "14_4902",
    "marks": [
     [
      "L",
-     32,
+     60,
      "[Page 179]",
      true
     ]
    ],
-   "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 049 - Authorizations/§ 04902 - Authorizations of appropriations.md",
+   "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 049 - Authorizations/§ 04901 - Requirement for prior authorization of appropriations.md",
    "printed_pages": [
     178,
+    179
+   ]
+  },
+  {
+   "id": "14_4902",
+   "marks": [],
+   "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 049 - Authorizations/§ 04902 - Authorizations of appropriations.md",
+   "printed_pages": [
+    179,
     179
    ]
   },
@@ -5315,11 +5361,18 @@
   },
   {
    "id": "14_4904",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 180]",
+     true
+    ]
+   ],
    "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 049 - Authorizations/§ 04904 - Authorized levels of military strength and training.md",
    "printed_pages": [
     179,
-    179
+    180
    ]
   },
   {
@@ -5327,23 +5380,16 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 051 - Reports/README.md",
    "printed_pages": [
-    179,
-    179
+    180,
+    180
    ]
   },
   {
    "id": "14_5101",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 180]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 051 - Reports/§ 05101 - Transmission of annual Coast Guard authorization request.md",
    "printed_pages": [
-    179,
+    180,
     180
    ]
   },
@@ -5352,17 +5398,23 @@
    "marks": [
     [
      "L",
-     84,
+     40,
      "[Page 181]",
      true
     ],
     [
+     "L",
+     126,
+     "[Page 182]",
+     true
+    ],
+    [
      "I",
-     170,
+     214,
      [
       [
-       113,
-       "[Page 182]"
+       493,
+       "[Page 183]"
       ]
      ]
     ]
@@ -5370,67 +5422,60 @@
    "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 051 - Reports/§ 05102 - Capital investment plan.md",
    "printed_pages": [
     180,
-    182
+    183
    ]
   },
   {
    "id": "14_5103",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       91,
-       "[Page 183]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 051 - Reports/§ 05103 - Major acquisitions.md",
-   "printed_pages": [
-    182,
-    183
-   ]
-  },
-  {
-   "id": "14_5104",
-   "marks": [
-    [
      "L",
-     10,
+     70,
      "[Page 184]",
      true
     ]
    ],
-   "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 051 - Reports/§ 05104 - Manpower requirements plan.md",
+   "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 051 - Reports/§ 05103 - Major acquisitions.md",
    "printed_pages": [
     183,
     184
    ]
   },
   {
-   "id": "14_5105",
+   "id": "14_5104",
    "marks": [],
-   "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 051 - Reports/§ 05105 - Inventory of real property.md",
+   "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 051 - Reports/§ 05104 - Manpower requirements plan.md",
    "printed_pages": [
     184,
     184
    ]
   },
   {
-   "id": "14_5106",
+   "id": "14_5105",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 185]",
-     true
+     "I",
+     24,
+     [
+      [
+       83,
+       "[Page 185]"
+      ]
+     ]
     ]
    ],
-   "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 051 - Reports/§ 05106 - Annual performance report.md",
+   "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 051 - Reports/§ 05105 - Inventory of real property.md",
    "printed_pages": [
     184,
+    185
+   ]
+  },
+  {
+   "id": "14_5106",
+   "marks": [],
+   "path": "Subtitle 004 (IV) - Coast Guard Authorizations and Reports to Congress/Chapter 051 - Reports/§ 05106 - Annual performance report.md",
+   "printed_pages": [
+    185,
     185
    ]
   },
@@ -5453,6 +5498,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2018-title14 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2019-title14 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 14 - Coast Guard"
 }

@@ -52,7 +52,7 @@ For purposes of this chapter, the term "excepted benefits" means benefits under 
 
 &emsp;(G) Coverage for on-site medical clinics.
 
-&emsp;(H) Other similar insurance coverage, specified in regulations, under which benefits for medical care are secondary or incidental to other insurance benefits.
+&emsp;(H) Other similar insurance coverage, specified in regulations, under which benefits formedical care are secondary or incidental to other insurance benefits.
 
 #### (2) Benefits not subject to requirements if offered separately
 
@@ -160,7 +160,7 @@ For purposes of this chapter—
 
 #### (10) Underwriting purposes
 
-&emsp;The term "underwriting purposes" means, with respect to any group health plan, or health insurance coverage offered in connection with a group health plan—
+&emsp;The term "underwriting purposes" means, with respect to any group health plan, orhealth insurance coverage offered in connection with a group health plan—
 
 &emsp;&emsp;(A) rules for, or determination of, eligibility (including enrollment and continued eligibility) for benefits under the plan or coverage;
 

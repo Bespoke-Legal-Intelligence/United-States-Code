@@ -40,7 +40,7 @@ As used in this section—
 
 &emsp;(1) the term "housing" means (A) new structures (including household furnishings) suitable for dwelling use by domestic farm labor, and (B) existing structures (including household furnishings) which can be made suitable for dwelling use by domestic farm labor by rehabilitation, alteration, conversion, or improvement;
 
-&emsp;(2) the term "related facilities" means (A) new structures (including household furnishings) suitable for use as dining halls, community rooms or buildings, or infirmaries, or for other essential services facilities, and (B) existing structures (including household furnishings) which can be made suitable for the aboveuses by rehabilitation, alteration, conversion, or improvement and (C) land necessary for an adequate site; and
+&emsp;(2) the term "related facilities" means (A) new structures (including household furnishings) suitable for use as dining halls, community rooms or buildings, or infirmaries, or for other essential services facilities, and (B) existing structures (including household furnishings) which can be made suitable for the above uses by rehabilitation, alteration, conversion, or improvement and (C) land necessary for an adequate site; and
 
 &emsp;(3) the term "domestic farm labor" means any person (and the family of such person) who receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities, the handling of agricultural or aquacultural commodities in the unprocessed stage, or the processing of agricultural or aquacultural commodities, without respect to the source of employment, except that—
 

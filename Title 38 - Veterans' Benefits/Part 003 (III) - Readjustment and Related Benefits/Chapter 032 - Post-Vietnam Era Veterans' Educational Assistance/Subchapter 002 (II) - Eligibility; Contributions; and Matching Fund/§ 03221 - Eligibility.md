@@ -38,7 +38,7 @@ For provisions for continued eligibility for enrollment in the program establish
 
 #### Suspension of Right To Enroll in Post-Vietnam Era Program
 
-Pub. L. 98–525, title VII, §704, Oct. 19, 1984, 98 Stat. 2564, which provided that no individual on active dutyin the Armed Forces could initially enroll in the educational assistance program provided for in this chapter during the period beginning on July 1, 1985, and ending on June 30, 1988, was repealed by Pub. L. 99–576, title III, §309(b), Oct. 28, 1986, 100 Stat. 3270.
+Pub. L. 98–525, title VII, §704, Oct. 19, 1984, 98 Stat. 2564, which provided that no individual on active duty in the Armed Forces could initially enroll in the educational assistance program provided for in this chapter during the period beginning on July 1, 1985, and ending on June 30, 1988, was repealed by Pub. L. 99–576, title III, §309(b), Oct. 28, 1986, 100 Stat. 3270.
 
 #### New Enrollments in Educational Assistance Program After December 31, 1981, Presidential Recommendation to Congress
 

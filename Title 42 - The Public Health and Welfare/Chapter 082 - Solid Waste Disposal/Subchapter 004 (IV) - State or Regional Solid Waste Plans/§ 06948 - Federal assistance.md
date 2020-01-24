@@ -30,7 +30,7 @@ The sums appropriated in any fiscal year under subsection (a)(1) shall be allott
 
 #### (c) Distribution of Federal financial assistance within the State
 
-The Federal assistance allotted to the States under subsection (b) shall be allocated by the State receiving such funds to State, local, regional, and interstate authorities carrying out planning and implementation of the State plan. Such allocation shall be based upon the responsibilities of the respective parties as determined pursuant to section 6946(b) of this title.
+The Federal assistance allotted to the States under subsection (b) shall be allocated by the State receiving such funds to State, local, regional, and interstate authorities carrying out planning and implementation of the State plan.Such allocation shall be based upon the responsibilities of the respective parties as determined pursuant to section 6946(b) of this title.
 
 #### (d) Technical assistance
 

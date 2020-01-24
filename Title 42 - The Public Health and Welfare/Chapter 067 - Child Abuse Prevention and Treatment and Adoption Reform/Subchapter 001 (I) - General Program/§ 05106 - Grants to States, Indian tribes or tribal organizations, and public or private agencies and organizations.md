@@ -398,3 +398,7 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, §141(2), substituted "child with disa
 
 <b>1984</b>—Pub. L. 98–457 substituted "among programs" for "between programs".
 
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+

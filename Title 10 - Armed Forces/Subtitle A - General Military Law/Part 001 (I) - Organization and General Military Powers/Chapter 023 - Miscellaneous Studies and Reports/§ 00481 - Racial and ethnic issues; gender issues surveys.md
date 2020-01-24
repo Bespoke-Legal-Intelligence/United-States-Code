@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) The Secretary of Defense shall carry out four surveys in accordance with this section to identify and assess racial and ethnic issues and discrimination, and to identify and assess gender issues and discrimination,among members of the armed forces. Each such survey shall be conducted so as to identify and assess the extent (if any) of activity among such members that may be seen as so-called "hate group" activity.
+In General.—(1) The Secretary of Defense shall carry out four surveys in accordance with this section to identify and assess racial and ethnic issues and discrimination, and to identify and assess gender issues and discrimination, among members of the armed forces. Each such survey shall be conducted so as to identify and assess the extent (if any) of activity among such members that may be seen as so-called "hate group" activity.
 
 (2) The four surveys shall be as follows:
 
@@ -30,17 +30,17 @@ Armed Forces Workplace and Equal Opportunity Surveys.—The Armed Forces Workpla
 
 (c)
 
-Armed Forces Workplace and Gender Relations Surveys.—The Armed Forces Workplace and Gender Relations Surveys shall be conducted so as to solicit information on gender issues, including issues relating to gender-based harassment, assault, and discrimination, and the climate in the armed forces for forming professional relationships between male and female members of the armed forces. Both such surveys shall be conducted so as to solicit information on the following:
+Armed Forces Workplace and Gender Relations Surveys.—The Armed Forces Workplace and Gender Relations Surveys shall be conducted so as to solicit information on gender issues, including issues relating to gender-based harassment, assault (including unwanted sexual contact), and discrimination, and the climate in the armed forces for forming professional relationships between male and female members of the armed forces. Both such surveys shall be conducted so as to solicit information on the following:
 
 &emsp;(1) Indicators of positive and negative trends for professional and personal relationships between male and female members of the armed forces.
 
-&emsp;(2) The specific types of assault that have occurred, and the number of times each respondent has been assaulted during the preceding year.
+&emsp;(2) The specific types of assault (including unwanted sexual contact) that have occurred, and the number of times each respondent has been assaulted during the preceding year.
 
 &emsp;(3) The effectiveness of Department of Defense policies designed to improve professional relationships between male and female members of the armed forces.
 
-&emsp;(4) The effectiveness of current processes for complaints on and investigations into gender-based discrimination, harassment, and assault.
+&emsp;(4) The effectiveness of current processes for complaints on and investigations into gender-based discrimination, harassment, and assault (including unwanted sexual contact).
 
-&emsp;(5) Any other issues relating to discrimination, harassment, or assault as the Secretary of Defense considers appropriate.
+&emsp;(5) Any other issues relating to discrimination, harassment, or assault (including unwanted sexual contact) as the Secretary of Defense considers appropriate.
 
 (d)
 
@@ -56,9 +56,11 @@ Reports to Congress.—Upon the completion of a survey under this section, the S
 
 Inapplicability to Coast Guard.—This section does not apply to the Coast Guard.
 
-(Added Pub. L. 103–337, div. A, title V, §554(a)(1), Oct. 5, 1994, 108 Stat. 2773, §451; renumbered §481 and amended Pub. L. 104–201, div. A, title V, §571(c)(1), title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2532, 2687; Pub. L. 107–314, div. A, title V, §561(a)(1), Dec. 2, 2002, 116 Stat. 2553; Pub. L. 112–239, div. A, title V, §570, Jan. 2, 2013, 126 Stat. 1752.)
+(Added Pub. L. 103–337, div. A, title V, §554(a)(1), Oct. 5, 1994, 108 Stat. 2773, §451; renumbered §481 and amended Pub. L. 104–201, div. A, title V, §571(c)(1), title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2532, 2687; Pub. L. 107–314, div. A, title V, §561(a)(1), Dec. 2, 2002, 116 Stat. 2553; Pub. L. 112–239, div. A, title V, §570, Jan. 2, 2013, 126 Stat. 1752; Pub. L. 116–92, div. A, title V, §591(a), Dec. 20, 2019, 133 Stat. 1414.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c). Pub. L. 116–92 inserted "(including unwanted sexual contact)" after "assault" wherever appearing.
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §570(b)(1), substituted "four surveys" for "four quadrennial surveys (each in a separate year)".
 
@@ -75,6 +77,10 @@ Subsec. (d). Pub. L. 112–239, §570(b)(2), added subsec. (d) and struck out fo
 <b>1996</b>—Pub. L. 104–201, §1121(a), renumbered section 451 of this title as this section.
 
 Pub. L. 104–201, §571(c)(1), substituted "Race relations, gender discrimination, and hate group activity: annual survey and report" for "Racial and ethnic issues; biennial survey; biennial report" as section catchline and amended text generally, substituting provisions requiring an annual survey and report for provisions requiring a biennial survey and report.
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–92, div. A, title V, §591(c), Dec. 20, 2019, 133 Stat. 1414, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 481a of this title\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2019\] and shall apply with respect to surveys under sections 481 and 481a of title 10, United States Code, that are initiated after such date."
 
 #### Effective Date of 2002 Amendment
 

@@ -8,7 +8,7 @@ For purposes of this subchapter:
 
 #### (2) Agency
 
-&emsp;The term "agency" means any agency of the Department designated by the Secretary or a successor agency of the Department, exceptthat the term shall include the following (and any successor to the following):
+&emsp;The term "agency" means any agency of the Department designated by the Secretary or a successor agency of the Department, except that the term shall include the following (and any successor to the following):
 
 &emsp;&emsp;(A) The Farm Service Agency (or other office, agency, or administrative unit of the Department assigned the functions authorized for the Farm Service Agency under section 6932 of this title).
 

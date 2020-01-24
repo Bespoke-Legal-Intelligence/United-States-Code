@@ -4,7 +4,7 @@
 
 &emsp;(1) a brief description of the subject area of any rule which the agency expects to propose or promulgate which is likely to have a significant economic impact on a substantial number of small entities;
 
-&emsp;(2) a summary of the nature of any such rule under consideration for each subject area listed in the agenda pursuant to paragraph (1), the objectives and legal basis for the issuance ofthe rule, and an approximate schedule for completing action on any rule for which the agency has issued a general notice of proposed rulemaking,<sup>1</sup> and
+&emsp;(2) a summary of the nature of any such rule under consideration for each subject area listed in the agenda pursuant to paragraph (1), the objectives and legal basis for the issuance of the rule, and an approximate schedule for completing action on any rule for which the agency has issued a general notice of proposed rulemaking,<sup>1</sup> and
 
 &emsp;(3) the name and telephone number of an agency official knowledgeable concerning the items listed in paragraph (1).
 

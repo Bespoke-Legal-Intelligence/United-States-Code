@@ -8,7 +8,7 @@
 
 (2) The board shall include in its record of decision in any mixed case a statement of the board's exclusive jurisdiction under this subsection and the basis for such exclusive jurisdiction.
 
-(3) For purposes of paragraph (2), a mixed case is a case that includes both a major adverse action arising out of a question of professional conduct or competence and an adverse action which is not a major adverse action or which does not arise out of a question of professional conduct or competence.
+(3) For purposes of paragraph (2), a mixed case is a case that includes both a major adverse action arising out of a question of professional conduct or competence and an adverse action which is not a major adverse action or whichdoes not arise out of a question of professional conduct or competence.
 
 (b)(1) In any case in which charges are brought against a section 7401(1) employee which arises out of, or includes, a question of professional conduct or competence which could result in a major adverse action, the employee is entitled, within the aggregate time period specified in paragraph (5)(A), to the following:
 
@@ -20,7 +20,7 @@
 
 (3) After considering the employee's answer, if any, and within the time period provided for in paragraph (5)(B), the deciding official shall render a decision on the charges. The decision shall be in writing and shall include the specific reasons therefor.
 
-(4)(A) The period for the response of an employee under paragraph (1)(B) to advance written <sup>1</sup> under paragraph (1)(A) shall be seven business days.
+(4)(A) The period for the response of an employee under paragraph (1)(B) to advance written notice under paragraph (1)(A) shall be seven business days.
 
 (B) The Secretary shall require that any appeal to a Disciplinary Appeals Board from a decision to impose a major adverse action shall be received within seven business days after the date of service of the written decision on the employee.
 
@@ -44,7 +44,7 @@
 
 (4) The board shall render a decision in any case within 45 days of completion of the hearing, if there is a hearing, and in any event no later than 120 days after the appeal commenced.
 
-(d)(1) After resolving any question as to whether a matter involves professional conduct or competence, the Secretary shall cause to be executed the decision of the Disciplinary Appeals Board in a timely manner and in any event in not more than 90 days after the decision of the Board is received by the Secretary. Pursuant to the board's decision, the Secretary may order reinstatement, award back pay, and providesuch other remedies as the board found appropriate relating directly to the proposed action, including expungement of records relating to the action.
+(d)(1) After resolving any question as to whether a matter involves professional conduct or competence, the Secretary shall cause to be executed the decision of the Disciplinary Appeals Board in a timely manner and in any event in not more than 90 days after the decision of the Board is received by the Secretary. Pursuant to the board's decision, the Secretary may order reinstatement, award back pay, and provide such other remedies as the board found appropriate relating directly to the proposed action, including expungement of records relating to the action.
 
 (2) If the Secretary finds a decision of the board to be clearly contrary to the evidence or unlawful, the Secretary may—
 
@@ -68,13 +68,15 @@
 
 &emsp;(C) unsupported by substantial evidence.
 
-(Added Pub. L. 102–40, title II, §203(a), May 7, 1991, 105 Stat. 203; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 115–41, title II, §208(b), June 23, 2017, 131 Stat. 878.)
+(Added Pub. L. 102–40, title II, §203(a), May 7, 1991, 105 Stat. 203; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 115–41, title II, §208(b), June 23, 2017, 131 Stat. 878; Pub. L. 116–61, §6(7), Sept. 30, 2019, 133 Stat. 1117.)
 
 #### Prior Provisions
 
 Provisions similar to those in this subchapter were contained in section 4110 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(4)(A). Pub. L. 116–61 inserted "notice" after "written".
 
 <b>2017</b>—Subsec. (b)(1). Pub. L. 115–41, §208(b)(1)(A), in introductory provisions, inserted ", within the aggregate time period specified in paragraph (5)(A)," after "is entitled".
 
@@ -91,6 +93,4 @@ Subsec. (b)(4)(B). Pub. L. 115–41, §208(b)(3)(B), substituted "seven business
 Subsec. (b)(5), (6). Pub. L. 115–41, §208(b)(4), added pars. (5) and (6).
 
 <b>1992</b>—Subsec. (b)(1). Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Director" in subpars. (A) and (B).
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "notice".</i>
 

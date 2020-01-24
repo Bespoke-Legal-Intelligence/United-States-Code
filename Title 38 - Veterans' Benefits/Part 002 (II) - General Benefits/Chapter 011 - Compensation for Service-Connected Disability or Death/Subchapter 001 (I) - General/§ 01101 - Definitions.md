@@ -178,7 +178,7 @@ Membership.—(1) The commission shall be composed of 13 members, appointed as f
 
 &emsp;"(A) Two members appointed by the Speaker of the House of Representatives, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2).
 
-&emsp;"(B) Two members appointed by the minority leader of the House of Representatives, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2).
+&emsp;"(B) Two members appointed by the minority leader of the House of Representatives, at least one ofwhom shall be a veteran who was awarded a decoration specified in paragraph (2).
 
 &emsp;"(C) Two members appointed by the majority leader of the Senate, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2).
 
@@ -320,7 +320,7 @@ Pub. L. 103–446, title V, §506, Nov. 2, 1994, 108 Stat. 4664, provided that: 
 
 #### Cost-of-Living Increases in Compensation Rates
 
-Pub. L. 103–446, title I, §111(b), Nov. 2, 1994, 108 Stat. 4654, provided that: "The fiscal year 1995 cost-of-living adjustments in the rates of and limitations for compensation payable under chapter 11 of title 38, United States Code, and of dependency and indemnity compensation payable under chapter 13 of such title will be no more than a percentage equal to the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1994, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)), with all increased monthly rates and limitations (other thanincreased rates or limitations equal to a whole dollar amount) rounded down to the next lower dollar."
+Pub. L. 103–446, title I, §111(b), Nov. 2, 1994, 108 Stat. 4654, provided that: "The fiscal year 1995 cost-of-living adjustments in the rates of and limitations for compensation payable under chapter 11 of title 38, United States Code, and of dependency and indemnity compensation payable under chapter 13 of such title will be no more than a percentage equal to the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1994, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)), with all increased monthly rates and limitations (other than increased rates or limitations equal to a whole dollar amount) rounded down to the next lower dollar."
 
 Pub. L. 103–66, title XII, §12008, Aug. 10, 1993, 107 Stat. 415, provided that:
 
@@ -364,7 +364,7 @@ Pub. L. 95–479, title III, §305, Oct. 18, 1978, 92 Stat. 1565, directed Admin
 
 #### Amputees, Cardiovascular Disorders; Study
 
-Pub. L. 94–433, title IV, §403, Sept. 30, 1976, 90 Stat. 1378, directed Administrator to conduct a scientific study to determine if there is causal relationship between amputation of an extremity and subsequent development of cardiovascular disorders and to report to Speaker and President of Senate not later than June 30, 1977.
+Pub. L. 94–433, title IV, §403, Sept. 30, 1976, 90 Stat. 1378, directed Administrator to conduct a scientificstudy to determine if there is causal relationship between amputation of an extremity and subsequent development of cardiovascular disorders and to report to Speaker and President of Senate not later than June 30, 1977.
 
 #### Study of Claims for Dependency and Indemnity Compensation
 

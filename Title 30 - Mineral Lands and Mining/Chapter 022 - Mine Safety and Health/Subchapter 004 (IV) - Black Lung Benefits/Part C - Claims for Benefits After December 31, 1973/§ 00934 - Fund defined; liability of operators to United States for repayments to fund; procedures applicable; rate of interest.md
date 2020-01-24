@@ -12,7 +12,7 @@
 
 (2) If any operator liable to the fund under paragraph (1) refuses to pay, after demand, the amount of such liability (including interest), then there shall be a lien in favor of the United States for such amount upon all property and rights to property, whether real or personal, belonging to such operator. The lien arises on the date on which such liability is finally determined, and continues until it is satisfied or becomes unenforceable by reason of lapse of time.
 
-(3)(A) Except as otherwise provided under this subsection, the priority of the lien shall be determined in the same manner as under section6323 of title 26. That section shall be applied for such purposes—
+(3)(A) Except as otherwise provided under this subsection, the priority of the lien shall be determined in the same manner as under section 6323 of title 26. That section shall be applied for such purposes—
 
 &emsp;(i) by substituting "lien imposed by section 424(b)(2) of the Federal Mine Safety and Health Act of 1977" for "lien imposed by section 6321"; "operator liability lien" for "tax lien"; "operator" for "taxpayer"; "lien arising under section 424(b)(2) of the Federal Mine Safety and Health Act of 1977" for "assessment of the tax"; "payment of the liability is made to the Black Lung Disability Trust Fund" for "satisfaction of a levy pursuant to section 6332(b)"; and "satisfaction of operator liability" for "collection of any tax under this title" each place such terms appear; and
 
@@ -34,7 +34,7 @@
 
 &emsp;(B) for any period after calendar year 1982, shall be the rate established by section 6621 of title 26 which is in effect for such period.
 
-(Pub. L. 91–173, title IV, §424, Dec. 30, 1969, 83 Stat. 798; Pub. L. 92–303, §1(c)(1), May 19, 1972, 86 Stat. 151; Pub. L. 95–227, §3(d), Feb. 10, 1978, 92 Stat. 13; Pub. L. 96–222, title I, §108(b)(2)(A), Apr. 1, 1980, 94 Stat. 226; Pub. L. 97–119, title I, §104(a)(1), (2), (b)(6), Dec. 29, 1981, 95 Stat. 1639; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 91–173, title IV, §424, Dec. 30, 1969, 83 Stat. 798; Pub. L. 92–303, §1(c)(1), May 19, 1972, 86 Stat. 151; Pub. L. 95–227, §3(d), Feb. 10, 1978, 92Stat. 13; Pub. L. 96–222, title I, §108(b)(2)(A), Apr. 1, 1980, 94 Stat. 226; Pub. L. 97–119, title I, §104(a)(1), (2), (b)(6), Dec. 29, 1981, 95 Stat. 1639; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### References in Text
 

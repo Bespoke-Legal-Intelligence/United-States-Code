@@ -4,7 +4,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [661\.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000661%20-%20Declaration%20of%20purpose%3B%20cooperation%20of%20agencies%3B%20surveys%20and%20investigations%3B%20donations.md) | Declaration of purpose; cooperation of agencies; surveys and investigations; donations. |
+| [661\.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000661%20-%20Short%20title%3B%20authorization.md) | Short title; authorization. |
 | [662\.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000662%20-%20Impounding%2C%20diverting%2C%20or%20controlling%20of%20waters.md) | Impounding, diverting, or controlling of waters. |
 | [663\.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000663%20-%20Impoundment%20or%20diversion%20of%20waters.md) | Impoundment or diversion of waters. |
 | [664\.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000664%20-%20Administration%3B%20rules%20and%20regulations%3B%20availability%20of%20lands%20to%20State%20agencies.md) | Administration; rules and regulations; availability of lands to State agencies. |
@@ -14,6 +14,7 @@
 | [666a.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000666a%20-%20Penalties.md) | Penalties. |
 | [666b.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000666b%20-%20Definitions.md) | Definitions. |
 | [666c.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000666c%20-%20Applicability%20to%20Tennessee%20Valley%20Authority.md) | Applicability to Tennessee Valley Authority. |
+| 666c–1. | Protection of water, oceans, coasts, and wildlife from invasive species. |
 | [666d.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000666d%20-%20Skagit%20National%20Wildlife%20Refuge%3B%20exchange%20of%20lands.md) | Skagit National Wildlife Refuge; exchange of lands. |
 | [666e.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000666e%20-%20Administration%20of%20acquired%20lands.md) | Administration of acquired lands. |
 | [666f.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000666f%20-%20Wildlife%20conservation%20and%20agricultural%2C%20industrial%2C%20recreational%2C%20and%20related%20uses%20for%20certain%20Federal%20lands%3B%20transfer%20of%20lands%20to%E2%80%A6.md) | Wildlife conservation and agricultural, industrial, recreational, and related uses for certain Federal lands; transfer of lands to Secretary of the Interior; administration, development, and disposition. |

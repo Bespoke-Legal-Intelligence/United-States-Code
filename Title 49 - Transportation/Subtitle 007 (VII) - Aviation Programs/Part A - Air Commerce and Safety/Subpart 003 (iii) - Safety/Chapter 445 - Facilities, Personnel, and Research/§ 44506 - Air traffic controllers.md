@@ -2,7 +2,7 @@
 
 (a)
 
-Research on Effect of Automation on Performance.—To develop the means necessary to establish appropriate selection criteria and training methodologies for the next generation of air traffic controllers, the Administrator of the Federal Aviation Administration shall conduct research to study the effect of automation on the performance of the next generation of air traffic controllers and the air traffic control system. The research shall include investigating—
+Research on Effect of Automation on Performance.—To develop the means necessaryto establish appropriate selection criteria and training methodologies for the next generation of air traffic controllers, the Administrator of the Federal Aviation Administration shall conduct research to study the effect of automation on the performance of the next generation of air traffic controllers and the air traffic control system. The research shall include investigating—
 
 &emsp;(1) methods for improving and accelerating future air traffic controller training through the application of advanced training techniques, including the use of simulation technology;
 
@@ -98,7 +98,7 @@ Ensuring selection of most qualified applicants.—In appointing individuals to 
 
 &emsp;&emsp;&emsp;(i) a Federal Aviation Administration air traffic control facility;
 
-&emsp;&emsp;&emsp;(ii) a civilian or military air traffic control facility of the Department of Defense; or
+&emsp;&emsp;&emsp;(ii) a civilian or military air traffic control facility of the Department of Defense (including a facility of the National Guard); or
 
 &emsp;&emsp;&emsp;(iii) a tower operating under contract with the Federal Aviation Administration under section 47124.
 
@@ -108,7 +108,7 @@ Consideration of additional applicants.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—After giving preferential consideration to applicants under subparagraph (A), the Administrator shall consider additional applicants for the position of air traffic controller by referring an approximately equal number of individuals for appointment among the 2 applicant pools described in this subparagraph. The number of individuals referred for consideration from each group shall not differ by more than 10 percent.
+In general.—After giving preferential consideration to applicants under subparagraph (A), the Administrator shall consider additional applicants for the position of air traffic controller by giving further preferential consideration, within each qualification category based upon pre-employment testing results (including application of veterans' preference as required under section 40122(g)(2)(B)), to pool 1 applicants described in clause (ii) before pool 2 applicants described in clause (iii).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -160,11 +160,11 @@ Reconsideration of applicants disqualified on basis of biographical assessments.
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—If an individual described in paragraph (1)(A) or paragraph (1)(B)(ii), who applied for the position of air traffic controller with the Administration in response to Vacancy Announcement FAA–AMC–14–ALLSRCE–33537 (issued on February 10, 2014), was disqualified from the position as the result of a biographical assessment, the Administrator shall provide the applicant an opportunity to reapply for the position as soon as practicable under the revised hiring practices.
+In general.—If an individual described in paragraph (1)(A) or paragraph\(1)(B)(ii), who applied for the position of air traffic controller with the Administration in response to Vacancy Announcement FAA–AMC–14–ALLSRCE–33537 (issued on February 10, 2014), was disqualified from the position as the result of a biographical assessment, the Administrator shall provide the applicant an opportunity to reapply for the position as soon as practicable under the revised hiring practices.
 
 &emsp;&emsp;&emsp;(ii)
 
-Waiver of age restriction.—The Administrator shall waive any maximum age restriction for the position of air traffic controller with the Administrationthat would otherwise disqualify an individual from the position if the individual—
+Waiver of age restriction.—The Administrator shall waive any maximum age restriction for the position of air traffic controller with the Administration that would otherwise disqualify an individual from the position if the individual—
 
 &emsp;&emsp;&emsp;&emsp;(I) is reapplying for the position pursuant to clause (i) on or before December 31, 2017; and
 
@@ -182,7 +182,7 @@ Retired military controllers.—The Administrator may establish a program to pro
 
 &emsp;&emsp;(B) have held either an air traffic certification or air traffic control facility rating according to Administration standards within 5 years of applying for the appointment.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1178; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 112–95, title VI, §607, Feb. 14, 2012, 126 Stat. 114; Pub. L. 114–190, title II, §2106(a), July 15, 2016, 130 Stat. 620; Pub. L. 115–141, div. M, title I, §108, Mar. 23, 2018, 132 Stat. 1047.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1178; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 112–95, title VI, §607, Feb. 14, 2012, 126 Stat. 114; Pub. L. 114–190, title II, §2106(a), July 15, 2016, 130 Stat. 620; Pub. L. 115–141, div. M, title I, §108, Mar. 23, 2018, 132 Stat. 1047; Pub. L. 116–92, div. A, title XI, §§1132, 1133, Dec. 20, 2019, 133 Stat. 1615, 1616.)
 
 Historical and Revision Notes
 
@@ -221,6 +221,10 @@ In subsection (c), the words "institutions of higher education" are substituted 
 The date of enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (f)(1)(A)(ii). Pub. L. 116–92, §1133, inserted "(including a facility of the National Guard)" after "Department of Defense".
+
+Subsec. (f)(1)(B)(i). Pub. L. 116–92, §1132, substituted "giving further preferential consideration, within each qualification category based upon pre-employment testing results (including application of veterans' preference as required under section 40122(g)(2)(B)), to pool 1 applicants described in clause (ii) before pool 2 applicants described in clause (iii)." for "referring an approximately equal number of individuals for appointment among the 2 applicant pools described in this subparagraph. The number of individuals referred for consideration from each group shall not differ by more than 10 percent."
 
 <b>2018</b>—Subsec. (f)(1)(C). Pub. L. 115–141, §108(1), added subpar. (C).
 
@@ -276,9 +280,13 @@ Pub. L. 112–95, title VI, §609(b), Feb. 14, 2012, 126 Stat. 116, provided tha
 
 #### Controller Staffing
 
-Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 977, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]".
+Pub. L. 116–6, div. G, title I, Feb. 15, 2019, 133 Stat. 401, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]".
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–94, div. H, title I, Dec. 20, 2019, 133 Stat. 2940.
+
+Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 977.
 
 Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 730.
 

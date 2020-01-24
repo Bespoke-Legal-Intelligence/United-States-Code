@@ -8,7 +8,7 @@ The Court of International Trade may appoint a clerk, a chief deputy clerk, an a
 
 Based on section 6 of title 19, U.S.C., 1940 ed., Customs Duties (May 4, 1923, ch. 251, §2, 42 Stat. 1453; Jan. 13, 1925, ch. 76, 43 Stat. 748; May 28, 1926, ch. 411, §1, 44 Stat. 669; June 17, 1930, ch. 497, title IV, §§518, 649, 46 Stat. 737, 762).
 
-Section is based on the last two sentences of section 6 of title 19, U.S.C., 1940 ed., which provided for appointment by the Attorney General in conformity with thecivil service laws. This and other administrative powers of the Department of Justice with respect to the courts were transferred to the Administrative Office of the United States Courts by section 446 of title 28, U.S.C., 1940 ed., which is section 604 of this title. The revised section vests the power of appointment in the chief judge to conform with section 253 of this title and rules 5 and 22 of the Rules of the Customs Court adopted May 29, 1936.
+Section is based on the last two sentences of section 6 of title 19, U.S.C., 1940 ed., which provided for appointment by the Attorney General in conformity with the civil service laws. This and other administrative powers of the Department of Justice with respect to the courts were transferred to the Administrative Office of the United States Courts by section 446 of title 28, U.S.C., 1940 ed., which is section 604 of this title. The revised section vests the power of appointment in the chief judge to conform with section 253 of this title and rules 5 and 22 of the Rules of the Customs Court adopted May 29, 1936.
 
 Changes were made in phraseology.
 

@@ -10,7 +10,7 @@ Persons Covered.—The database shall cover the following:
 
 &emsp;(1) Any person awarded a Federal agency contract or grant in excess of $500,000, if any information described in subsection (c) exists with respect to the person.
 
-&emsp;(2) Any person awarded such other category or categories of Federal agency contract as the Federal Acquisition Regulation may provide, if any information described in subsection (c) exists with respect to the person.
+&emsp;(2) Any person awarded such other category or categories of Federal agency contract asthe Federal Acquisition Regulation may provide, if any information described in subsection (c) exists with respect to the person.
 
 (c)
 
@@ -66,7 +66,7 @@ Requirements Relating to Database Information.—
 
 &emsp;(1)
 
-Direct input and update.—The Administrator of General Services shall design and maintain the database in a manner that allows the appropriate Federal agency officials to directly input and update information in the database relating to actions that the officialshave taken with regard to contractors or grant recipients.
+Direct input and update.—The Administrator of General Services shall design and maintain the database in a manner that allows the appropriate Federal agency officials to directly input and update information in the database relating to actions that the officials have taken with regard to contractors or grant recipients.
 
 &emsp;(2)
 
@@ -96,7 +96,7 @@ Review and assessment of data.—
 
 &emsp;&emsp;(A)
 
-In general.—Before awarding a contract or grant in excess of the simplified acquisition threshold under section 134 of this title, the Federal agency official responsible for awarding the contract or grant shall review the database and consider all information in the database with regard to any offer or proposal, and in the case of a contract, shall consider other past performance information available with respect to the offeror in making any responsibility determination or past performance evaluation for the offeror.
+In general.—Before awarding a contract or grant in excess of the simplified acquisition threshold under section 134 of this title, the Federal agency official responsible for awarding the contract or grant shall review the database and consider all information in the database with regard to any offeror proposal, and in the case of a contract, shall consider other past performance information available with respect to the offeror in making any responsibility determination or past performance evaluation for the offeror.
 
 &emsp;&emsp;(B)
 

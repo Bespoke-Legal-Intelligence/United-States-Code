@@ -2,9 +2,9 @@
 
 (a)
 
-Rules.—The Attorney General shall, within a reasonable time after the effective date ofthis section, issue rules requiring uniform forms for (and from time to time thereafter to appropriately modify and approve)—
+Rules.—The Attorney General shall, within a reasonable time after the effective date of this section, issue rules requiring uniform forms for (and from time to time thereafter to appropriately modify and approve)—
 
-&emsp;(1) final reports by trustees in cases under chapters 7, 12, and 13 of title 11; and
+&emsp;(1) final reports by trustees in cases under subchapter V of chapter 11 and chapters 7, 12, and 13 of title 11; and
 
 &emsp;(2) periodic reports by debtors in possession or trustees in cases under chapter 11 of title 11.
 
@@ -24,7 +24,7 @@ Required Information.—The information required to be filed in the reports refe
 
 (d)
 
-Final Reports.—The uniform forms for final reports required under subsection (a) for use by trustees under chapters 7, 12, and 13 of title 11 shall, in addition to such other matters as are required by law or as the Attorney General in the discretion of the Attorney General shall propose, include with respect to a case under such title—
+Final Reports.—The uniform forms for final reports required under subsection (a) for use by trustees under subchapter V of chapter 11 and chapters 7, 12, and 13 of title 11 shall, in addition to such other matters as are required by law or as the Attorney General in the discretion of the Attorney General shall propose, include with respect to a case under such title—
 
 &emsp;(1) information about the length of time the case was pending;
 
@@ -42,7 +42,7 @@ Final Reports.—The uniform forms for final reports required under subsection (
 
 &emsp;(8) distributions to claimants and claims discharged without payment,
 
-> in each case by appropriate category and, in cases under chapters 12 and 13 of title 11, date of confirmation of the plan, each modification thereto, and defaults by the debtor in performance under the plan.
+> in each case by appropriate category and, in cases under subchapter V of chapter 11 and chapters 12 and 13 of title 11, date of confirmation of the plan, each modification thereto, and defaults by the debtor in performance under the plan.
 
 (e)
 
@@ -62,11 +62,21 @@ Periodic Reports.—The uniform forms for periodic reports required under subsec
 
 &emsp;(7) plans of reorganization filed and confirmed and, with respect thereto, by class, the recoveries of the holders, expressed in aggregate dollar values and, in the case of claims, as a percentage of total claims of the class allowed.
 
-(Added Pub. L. 109–8, title VI, §602(a), Apr. 20, 2005, 119 Stat. 120.)
+(Added Pub. L. 109–8, title VI, §602(a), Apr. 20, 2005, 119 Stat. 120; amended Pub. L. 116–54, §4(b)(2), Aug. 23, 2019, 133 Stat. 1086.)
 
 #### References in Text
 
 For the effective date of this section, referred to in subsec. (a), see Effective Date note set out below.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (a)(1). Pub. L. 116–54, §4(b)(2)(A), inserted "subchapter V of chapter 11 and" after "cases under".
+
+Subsec. (d). Pub. L. 116–54, §4(b)(2)(B), inserted "subchapter V of chapter 11 and" after "trustees under" in introductory provisions and "subchapter V of chapter 11 and" after "cases under" in concluding provisions.
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under section 101 of Title 11, Bankruptcy.
 
 #### Effective Date
 

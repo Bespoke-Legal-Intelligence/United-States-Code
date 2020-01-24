@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The Secretary of the Interior (hereinafter referred to as the "Secretary") shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the national park system, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1–4) <sup>1</sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467).<sup>1</sup> The Secretary may acquire lands or interests in land within the boundaries of the park by donation, purchase with donated or appropriated funds, or exchange.
+The Secretary of the Interior (hereinafter referred to as the "Secretary") shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the national park system, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1–4) <sup>1</sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C.461–467).<sup>1</sup> The Secretary may acquire lands or interests in land within the boundaries of the park by donation, purchase with donated or appropriated funds, or exchange.
 
 #### (b) Donations
 
-Notwithstanding any other provision of law, the Secretary may accept and retain donations of funds, property, or services from individuals,foundations, corporations, or public entities for the purpose of providing services and facilities which he deems consistent with the purposes of this subchapter.
+Notwithstanding any other provision of law, the Secretary may accept and retain donations of funds, property, or services from individuals, foundations, corporations, or public entities for the purpose of providing services and facilities which he deems consistent with the purposes of this subchapter.
 
 #### (c) Separate units
 

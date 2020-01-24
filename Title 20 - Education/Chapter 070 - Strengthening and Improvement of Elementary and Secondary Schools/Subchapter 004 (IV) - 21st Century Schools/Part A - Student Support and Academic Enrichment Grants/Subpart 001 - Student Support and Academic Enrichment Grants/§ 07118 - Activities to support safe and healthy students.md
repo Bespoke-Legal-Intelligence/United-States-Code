@@ -1,6 +1,6 @@
 ### §7118. Activities to support safe and healthy students
 
-Subject to section 7116(f) of this title, each local educational agency, or consortium of suchagencies, that receives an allocation under section 7115(a) of this title shall use a portion of such funds to develop, implement, and evaluate comprehensive programs and activities that—
+Subject to section 7116(f) of this title, each local educational agency, or consortium of such agencies, that receives an allocation under section 7115(a) of this title shall use a portion of such funds to develop, implement, and evaluate comprehensive programs and activities that—
 
 &emsp;(1) are coordinated with other schools and community-based services and programs;
 
@@ -58,7 +58,7 @@ Subject to section 7116(f) of this title, each local educational agency, or cons
 
 &emsp;&emsp;&emsp;(iii) crisis management and conflict resolution techniques;
 
-&emsp;&emsp;&emsp;(iv) human trafficking (defined, for purposes of this subparagraph, as an act or practice described in paragraph (9) or (10) of section 7102 of title 22);
+&emsp;&emsp;&emsp;(iv) human trafficking (defined, for purposes of this subparagraph, as an act or practice described in paragraph (9) or (10) <sup>1</sup> of section 7102 of title 22);
 
 &emsp;&emsp;&emsp;(v) school-based violence prevention strategies;
 
@@ -66,11 +66,11 @@ Subject to section 7116(f) of this title, each local educational agency, or cons
 
 &emsp;&emsp;&emsp;(vii) bullying and harassment prevention;
 
-&emsp;&emsp;(E) in accordance with sections 7101 and 7121 of this title, child sexual abuse awareness and prevention programs or activities, such as programs or activities designed to provide—
+&emsp;&emsp;(E) in accordance with sections 7101 and 7121 of this title, child sexual abuse awareness and prevention programs or activities,such as programs or activities designed to provide—
 
 &emsp;&emsp;&emsp;(i) age-appropriate and developmentally-appropriate instruction for students in child sexual abuse awareness and prevention, including how to recognize child sexual abuse and how to safely report child sexual abuse; and
 
-&emsp;&emsp;&emsp;(ii) information to parents and guardians of students about child sexual abuseawareness and prevention, including how to recognize child sexual abuse and how to discuss child sexual abuse with a child;
+&emsp;&emsp;&emsp;(ii) information to parents and guardians of students about child sexual abuse awareness and prevention, including how to recognize child sexual abuse and how to discuss child sexual abuse with a child;
 
 &emsp;&emsp;(F) designing and implementing a locally-tailored plan to reduce exclusionary discipline practices in elementary and secondary schools that—
 
@@ -98,6 +98,8 @@ Subject to section 7116(f) of this title, each local educational agency, or cons
 
 The Individuals with Disabilities Education Act, referred to in par. (5)(B)(ii)(II)(bb), (G), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
+Paragraphs (9) and (10) of section 7102 of title 22, referred to in par. (5)(D)(iv), were redesignated pars. (11) and (12), respectively, of section 7102 of title 22 by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503.
+
 #### Prior Provisions
 
 A prior section 7118, Pub. L. 89–10, title IV, §4118, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3685, related to programs for Native Hawaiians, and was omitted in the general amendment of this subchapter by Pub. L. 107–110.
@@ -107,4 +109,6 @@ A prior section 4108 of Pub. L. 89–10 was classified to section 3068 of this t
 #### Effective Date
 
 Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under section 6301 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

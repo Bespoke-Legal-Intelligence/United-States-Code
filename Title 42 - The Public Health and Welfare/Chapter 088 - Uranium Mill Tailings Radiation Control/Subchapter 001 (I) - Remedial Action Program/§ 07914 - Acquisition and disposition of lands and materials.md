@@ -28,7 +28,7 @@ In the case of each processing site designated under this subchapter other than 
 
 &emsp;(A) sell such lands and interests,
 
-&emsp;(B) permanently retain such land and interests in lands (or donate such lands and interests therein to another governmental entitywithin such State) for permanent use by such State or entity solely for park, recreational, or other public purposes, or
+&emsp;(B) permanently retain such land and interests in lands (or donate such lands and interests therein to another governmental entity within such State) for permanent use by such State or entity solely for park, recreational, or other public purposes, or
 
 &emsp;(C) transfer such lands and interests to the United States as provided in subsection (f).
 

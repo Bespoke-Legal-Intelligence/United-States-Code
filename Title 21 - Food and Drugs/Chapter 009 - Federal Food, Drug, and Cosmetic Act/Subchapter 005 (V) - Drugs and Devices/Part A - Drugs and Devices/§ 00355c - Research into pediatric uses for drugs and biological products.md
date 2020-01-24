@@ -8,7 +8,7 @@
 
 &emsp;&emsp;Except with respect to an application for which subparagraph (B) applies, a person that submits, on or after September 27, 2007, an application (or supplement to an application) for a drug—
 
-&emsp;&emsp;&emsp;(i) under section 355 of this title for a new active ingredient, new indication, new dosage form, new dosing regimen, or new route of administration; or
+&emsp;&emsp;&emsp;(i) under section 355 of this title for a new active ingredient, new indication, newdosage form, new dosing regimen, or new route of administration; or
 
 &emsp;&emsp;&emsp;(ii) under section 262 of title 42 for a new active ingredient, new indication, new dosage form, new dosing regimen, or new route of administration,
 
@@ -96,7 +96,7 @@
 
 #### (ii) Timing and information
 
-&emsp;&emsp;&emsp;If the deferral extension under this subparagraph is requested by the applicant, the applicant shall submit the deferral extension request containing the information described in this subparagraph not less than 90 days prior to the date that the deferral would expire. The Secretary shall respond to such request not later than 45 days after the receipt of such letter. If the Secretary grants such an extension, the specified date shall be the extended date. The sponsor of the required assessment under paragraph (1)(A) or reports on theinvestigation under paragraph (1)(B) shall not be issued a letter described in subsection (d) unless the specified or extended date of submission for such required studies has passed or if the request for an extension is pending. For a deferral that has expired prior to July 9, 2012, or that will expire prior to 270 days after July 9, 2012, a deferral extension shall be requested by an applicant not later than 180 days after July 9, 2012. The Secretary shall respond to any such request as soon as practicable, but not later than 1 year after July 9, 2012. Nothing in this clause shall prevent the Secretary from updating the status of a study or studies publicly if components of such study or studies are late or delayed.
+&emsp;&emsp;&emsp;If the deferral extension under this subparagraph is requested by the applicant, the applicant shall submit the deferral extension request containing the information described in this subparagraph not less than 90 days prior to the date that the deferral would expire. The Secretary shall respond to such request not later than 45 days after the receipt of such letter. If the Secretary grants such an extension, the specified date shall be the extended date. The sponsor of the required assessment under paragraph (1)(A) or reports on the investigation under paragraph (1)(B) shall not be issued a letter described in subsection (d) unless the specified or extended date of submission for such required studies has passed or if the request for an extension is pending. For a deferral that has expired prior to July 9, 2012, or that will expire prior to 270 days after July 9, 2012, a deferral extension shall be requested by an applicant not later than 180 days after July 9, 2012. The Secretary shall respond to any such request as soon as practicable, but not later than 1 year after July 9, 2012. Nothing in this clause shall prevent the Secretary from updating the status of a study or studies publicly if components of such study or studies are late or delayed.
 
 #### (C) Annual review
 
@@ -162,7 +162,7 @@
 
 #### (D) Labeling requirement
 
-&emsp;&emsp;If the Secretary grants a full or partial waiver because there is evidence that a drug or biological product would be ineffective or unsafe in pediatric populations, the information shall be included in the labeling for the drug or biological product.
+&emsp;&emsp;If the Secretary grants a full or partial waiver because there is evidence that a drugor biological product would be ineffective or unsafe in pediatric populations, the information shall be included in the labeling for the drug or biological product.
 
 #### (b) Marketed drugs and biological products
 
@@ -230,9 +230,9 @@ For the purposes of paragraph (4)(A)(iii)(I) and (4)(B)(iii)(I) of subsection (a
 
 If a person fails to submit a required assessment described in subsection (a)(2) or the investigation described in subsection (a)(3), fails to meet the applicable requirements in subsection (a)(4), or fails to submit a request for approval of a pediatric formulation described in subsection (a) or (b), in accordance with applicable provisions of subsections (a) and (b), the following shall apply:
 
-&emsp;(1) Beginning 270 days after July 9, 2012, the Secretary shall issue a non-compliance letter to such person informing them of such failure to submit or meet the requirements of the applicable subsection. Such letter shall require the person to respond in writing within 45 calendar days of issuance of such letter. Such response may include the person's request for a deferral extension if applicable. Such letter and the person's written response to such letter shall be made publicly available on the Internet Web site of the Food and Drug Administration 60 calendar days after issuance, with redactions for any trade secrets and confidential commercial information. If the Secretary determines that the letter was issued in error, the requirements of this paragraph shall not apply. The Secretary shall inform the Pediatric Advisory Committee of letters issued under this paragraph and responses to such letters.
+&emsp;(1) Beginning 270 days after July 9, 2012, the Secretary shall issue a non-compliance letter to such person informing them of such failure to submit or meet the requirements of the applicable subsection. Such letter shall require the person to respond in writing within 45 calendar days of issuance of such letter. Such response may include the person's request for a deferral extension if applicable. Such letter and the person's written response to such letter shall be made publicly available on theInternet Web site of the Food and Drug Administration 60 calendar days after issuance, with redactions for any trade secrets and confidential commercial information. If the Secretary determines that the letter was issued in error, the requirements of this paragraph shall not apply. The Secretary shall inform the Pediatric Advisory Committee of letters issued under this paragraph and responses to such letters.
 
-&emsp;(2) The drug or biological product that is the subject of an assessment described in subsection (a)(2) or the investigation described in subsection (a)(3), applicable requirements insubsection (a)(4), or request for approval of a pediatric formulation, may be considered misbranded solely because of that failure and subject to relevant enforcement action (except that the drug or biological product shall not be subject to action under section 333 of this title), but such failure shall not be the basis for a proceeding—
+&emsp;(2) The drug or biological product that is the subject of an assessment described in subsection (a)(2) or the investigation described in subsection (a)(3), applicable requirements in subsection (a)(4), or request for approval of a pediatric formulation, may be considered misbranded solely because of that failure and subject to relevant enforcement action (except that the drug or biological product shall not be subject to action under section 333 of this title), but such failure shall not be the basis for a proceeding—
 
 &emsp;&emsp;(A) to withdraw approval for a drug under section 355(e) of this title; or
 
@@ -296,7 +296,7 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 #### (5) Amendments to the agreed initial pediatric study plan
 
-&emsp;At the initiative of the Secretary or the applicant, the agreed initial pediatric study plan may be amended at any time. The requirements of paragraph (2)(C) shall apply to any such proposed amendment in the same manner and to the same extent as such requirements apply to an initial pediatric study plan under paragraph (1). The requirements of paragraphs (3) and (4) shall apply to any agreement resulting from such proposed amendment in the same manner and to the same extent as such requirements apply to an agreed initial pediatric study plan.
+&emsp;At the initiative of the Secretary or the applicant, the agreed initial pediatric study plan may be amended at any time. The requirements of paragraph (2)(C) shall apply to any such proposed amendment in the same manner and to the same extent as such requirements apply to an initial pediatric study plan underparagraph (1). The requirements of paragraphs (3) and (4) shall apply to any agreement resulting from such proposed amendment in the same manner and to the same extent as such requirements apply to an agreed initial pediatric study plan.
 
 #### (6) Internal committee
 

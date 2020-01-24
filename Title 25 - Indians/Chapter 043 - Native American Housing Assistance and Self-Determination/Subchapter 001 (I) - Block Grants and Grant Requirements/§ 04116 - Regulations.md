@@ -18,7 +18,7 @@
 
 #### (1) Timing
 
-&emsp;The Secretary shall issue final regulations necessary to carry out this chapter not laterthan September 1, 1997, and such regulations shall take effect not later than the effective date of this chapter.
+&emsp;The Secretary shall issue final regulations necessary to carry out this chapter not later than September 1, 1997, and such regulations shall take effect not later than the effective date of this chapter.
 
 #### (2) Negotiated rulemaking procedure
 

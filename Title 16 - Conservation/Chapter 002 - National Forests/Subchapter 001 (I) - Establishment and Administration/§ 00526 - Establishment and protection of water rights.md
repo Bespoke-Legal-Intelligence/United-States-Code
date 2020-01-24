@@ -34,7 +34,7 @@ Existing non-federal water rights.—Nothing in this section prevents or inhibit
 
 &emsp;"(2)
 
-Renewal or reissuance of expiring land use authorization for decreed water rights.—Nothing in this section prevents or inhibits the renewal or reissuance of expiring land use authorizations for decreed water rights. The Forest Service may extend, as needed, any expiring land use authorization for such time as is necessary to incorporate the results of the study authorized by subsection (d).
+Renewal or reissuance of expiring land use authorization for decreed water rights.—Nothingin this section prevents or inhibits the renewal or reissuance of expiring land use authorizations for decreed water rights. The Forest Service may extend, as needed, any expiring land use authorization for such time as is necessary to incorporate the results of the study authorized by subsection (d).
 
 "(d)
 
@@ -70,7 +70,7 @@ Subjects to be studied.—The Task Force shall study and make recommendations on
 
 &emsp;"(4)
 
-Final report.—As soon as practicable, but not later than 14 months, after the date of enactment ofthis Act \[Apr. 4, 1996\], the Task Force shall provide the final report of the Task Force to—
+Final report.—As soon as practicable, but not later than 14 months, after the date of enactment of this Act \[Apr. 4, 1996\], the Task Force shall provide the final report of the Task Force to—
 
 &emsp;&emsp;"(A) the Secretary of Agriculture;
 

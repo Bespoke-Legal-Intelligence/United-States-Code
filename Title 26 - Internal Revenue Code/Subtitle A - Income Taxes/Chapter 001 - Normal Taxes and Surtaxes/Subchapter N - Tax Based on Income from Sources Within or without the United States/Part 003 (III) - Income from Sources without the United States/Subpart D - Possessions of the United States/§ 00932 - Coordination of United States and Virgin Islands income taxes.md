@@ -106,7 +106,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Enactment of section 932 and repeal of prior section 932 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 931 of this title.
+Enactment of section 932 and repeal of prior section 932 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as an EffectiveDate of 1986 Amendment note under section 931 of this title.
 
 #### Regulations
 

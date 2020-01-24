@@ -38,7 +38,7 @@ The Director shall require a 50 percent non-Federal cost-share from partnerships
 
 No Federal funds provided under this section may be used—
 
-&emsp;(1) for the purpose of providing stipends or compensation to students for private sector internships unless private sector entities match 75 percent of such funding; or
+&emsp;(1) for the purpose of providing stipends or compensation to students for private sectorinternships unless private sector entities match 75 percent of such funding; or
 
 &emsp;(2) as payment or reimbursement to private sector entities, except for institutions of higher education.
 

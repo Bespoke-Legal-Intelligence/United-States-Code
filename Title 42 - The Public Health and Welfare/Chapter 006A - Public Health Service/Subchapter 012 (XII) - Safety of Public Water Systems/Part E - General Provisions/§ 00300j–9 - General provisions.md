@@ -38,7 +38,7 @@ Not later than April 1 of each year, the Administrator shall submit to the Commi
 
 #### (i) Discrimination prohibition; filing of complaint; investigation; orders of Secretary; notice and hearing; settlements; attorneys' fees; judicial review; filing of petition; procedural requirements; stay of orders; exclusiveness of remedy; civil actions for enforcement of orders; appropriate relief; mandamus proceedings; prohibition inapplicable to undirected but deliberate violations
 
-(1) No employer may discharge any employee or otherwise discriminate against any employeewith respect to his compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to a request of the employee) has—
+(1) No employer may discharge any employee or otherwise discriminate against any employee with respect to his compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to a request of the employee) has—
 
 &emsp;(A) commenced, caused to be commenced, or is about to commence or cause to be commenced a proceeding under this subchapter or a proceeding for the administration or enforcement of drinking water regulations or underground injection control programs of a State,
 
@@ -82,7 +82,7 @@ In subsec. (e), "sections 3141–3144, 3146, and 3147 of title 40" substituted f
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1984 Amendment
 

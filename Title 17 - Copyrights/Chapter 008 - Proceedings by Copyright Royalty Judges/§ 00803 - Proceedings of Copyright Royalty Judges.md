@@ -98,7 +98,7 @@ In general.—If, in a proceeding under this chapter to determine the distributi
 
 &emsp;&emsp;(B)
 
-Bad faith inflation of claim.—If the Copyright Royalty Judges determine that a participant asserts in bad faith an amount in controversy in excess of $10,000 for the purpose of avoiding a determination under the procedure set forth in subparagraph (A), the Copyright Royalty Judges shall impose a fine on that participant in an amount not to exceed the difference between the actual amount distributed and the amount asserted by the participant.
+Bad faith inflation of claim.—If the Copyright Royalty Judges determine that a participant asserts in bad faith an amount in controversy in excess of $10,000 for the purpose of avoiding a determination under the procedure set forth in subparagraph (A), the Copyright Royalty Judges shall impose a fine on that participant in an amount not to exceed the difference between the actualamount distributed and the amount asserted by the participant.
 
 &emsp;(5)
 
@@ -138,7 +138,7 @@ Requirements.—Regulations issued under subparagraph (A) shall include the foll
 
 &emsp;&emsp;&emsp;(vi)(I) Any participant under paragraph (2) in a proceeding under this chapter to determine royalty rates may, by means of written motion or on the record, request of an opposing participant or witness other relevant information and materials if, absent the discovery sought, the Copyright Royalty Judges' resolution of the proceeding would be substantially impaired. In determining whether discovery will be granted under this clause, the Copyright Royalty Judges may consider—
 
-&emsp;&emsp;&emsp;&emsp;(aa) whether the burden or expense of producing the requested information or materials outweighs the likely benefit, taking into account the needs and resources of the participants, the importance of the issues at stake, and the probative value of the requested information or materials in resolving such issues;
+&emsp;&emsp;&emsp;&emsp;(aa) whether the burden or expense of producing the requested information or materials outweighs the likely benefit,taking into account the needs and resources of the participants, the importance of the issues at stake, and the probative value of the requested information or materials in resolving such issues;
 
 &emsp;&emsp;&emsp;&emsp;(bb) whether the requested information or materials would be unreasonably cumulative or duplicative, or are obtainable from another source that is more convenient, less burdensome, or less expensive; and
 
@@ -190,9 +190,9 @@ Continuity of rates and terms.—(i) If the decision of the Copyright Royalty Ju
 
 &emsp;&emsp;&emsp;(I) the initial determination of the Copyright Royalty Judges that is the subject of the rehearing motion shall be effective as of the day following the date on which the rates and terms that were previously in effect expire; and
 
-&emsp;&emsp;&emsp;(II) in the case of a proceeding under section 114(f)(1)(C), royalty rates and termsshall, for purposes of section 114(f)(3)(B), be deemed to have been set at those rates and terms contained in the initial determination of the Copyright Royalty Judges that is the subject of the rehearing motion, as of the date of that determination.
+&emsp;&emsp;&emsp;(II) in the case of a proceeding under section 114(f)(1)(C), royalty rates and terms shall, for purposes of section 114(f)(3)(B), be deemed to have been set at those rates and terms contained in the initial determination of the Copyright Royalty Judges that is the subject of the rehearing motion, as of the date of that determination.
 
-&emsp;&emsp;(ii) The pendency of a motion for a rehearing under this paragraph shall not relieve persons obligated to make royalty payments who would be affected by the determination on that motion from providing the statements of account and any reports of use, to the extent required, and paying the royalties required under the relevant determination or regulations.
+&emsp;&emsp;(ii) The pendency of a motion for a rehearing under this paragraph shall not relieve persons obligated to make royalty paymentswho would be affected by the determination on that motion from providing the statements of account and any reports of use, to the extent required, and paying the royalties required under the relevant determination or regulations.
 
 &emsp;&emsp;(iii) Notwithstanding clause (ii), whenever royalties described in clause (ii) are paid to a person other than the Copyright Office, the entity designated by the Copyright Royalty Judges to which such royalties are paid by the copyright user (and any successor thereto) shall, within 60 days after the motion for rehearing is resolved or, if the motion is granted, within 60 days after the rehearing is concluded, return any excess amounts previously paid to the extent necessary to comply with the final determination of royalty rates by the Copyright Royalty Judges. Any underpayment of royalties resulting from a rehearing shall be paid within the same period.
 
@@ -234,7 +234,7 @@ Expiration on specified date.—When this title provides that the royalty rates 
 
 &emsp;&emsp;(B)
 
-Other cases.—In cases where rates and terms have not, prior to the inception of an activity, been established for that particular activity under the relevant license, suchrates and terms shall be retroactive to the inception of activity under the relevant license covered by such rates and terms. In other cases where rates and terms do not expire on a specified date, successor rates and terms shall take effect on the first day of the second month that begins after the publication of the determination of the Copyright Royalty Judges in the Federal Register, except as otherwise provided in this title, or by the Copyright Royalty Judges, or as agreed by the participants in a proceeding that would be bound by the rates and terms. Except as otherwise provided in this title, the rates and terms, to the extent applicable, shall remain in effect until such successor rates and terms become effective.
+Other cases.—In cases where rates and terms have not, prior to the inception of an activity, been established for that particular activity under the relevant license, such rates and terms shall be retroactive to the inception of activity under the relevant license covered by such rates and terms. In other cases where rates and terms do not expire on a specified date, successor rates and terms shall take effect on the first day of the second month that begins after the publication of the determination of the Copyright Royalty Judges in the Federal Register, except as otherwise provided in thistitle, or by the Copyright Royalty Judges, or as agreed by the participants in a proceeding that would be bound by the rates and terms. Except as otherwise provided in this title, the rates and terms, to the extent applicable, shall remain in effect until such successor rates and terms become effective.
 
 &emsp;&emsp;(C)
 
@@ -262,7 +262,7 @@ Deduction of costs of library of congress and copyright office from filing fees.
 
 &emsp;&emsp;(A)
 
-Deduction from filing fees.—The Librarian of Congress may, to the extent not otherwise provided under this title, deduct from the filing fees collected under subsection (b) for a particular proceeding under this chapter the reasonable costs incurred by the Librarian of Congress, the Copyright Office, and the Copyright Royalty Judges in conducting that proceeding, other than the salaries of the Copyright Royalty Judges and the 3 staff members appointed under section 802(b).
+Deduction from filing fees.—The Librarian of Congress may, to the extent not otherwise provided under this title, deduct from the filing fees collected under subsection (b) for a particular proceeding under this chapter the reasonable costs incurred by the Librarian of Congress, the Copyright Office, and the Copyright Royalty Judges in conducting that proceeding, other than the salaries of the Copyright Royalty Judges and the staff members appointed under section 802(b).
 
 &emsp;&emsp;(B)
 
@@ -272,7 +272,7 @@ Authorization of appropriations.—There are authorized to be appropriated such 
 
 Positions required for administration of compulsory licensing.—Section 307 of the Legislative Branch Appropriations Act, 1994, shall not apply to employee positions in the Library of Congress that are required to be filled in order to carry out section 111, 112, 114, 115, 116, 118, or 119 or chapter 10.
 
-(Added Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2348; amended Pub. L. 108–447, div. J, title IX \[title I, §112\], Dec. 8, 2004, 118 Stat. 3409; Pub. L. 109–303, §3(5)–(11), Oct. 6, 2006, 120 Stat. 1479, 1481; Pub. L. 111–295, §5(b), Dec. 9, 2010, 124 Stat. 3181; Pub. L. 115–264, title I, §103(g)(3), Oct. 11, 2018, 132 Stat. 3725.)
+(Added Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2348; amended Pub. L. 108–447, div. J, title IX \[title I, §112\], Dec. 8, 2004, 118 Stat. 3409; Pub. L. 109–303, §3(5)–(11), Oct. 6, 2006, 120 Stat. 1479, 1481; Pub. L. 111–295, §5(b), Dec. 9, 2010, 124 Stat. 3181; Pub. L. 115–264, title I, §103(g)(3), Oct. 11, 2018, 132 Stat. 3725; Pub. L. 116–94, div. P, title XIV, §1405(a)(2), Dec. 20, 2019, 133 Stat. 3208.)
 
 #### References in Text
 
@@ -290,11 +290,13 @@ Another prior section 803, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 S
 
 #### Amendments
 
+<b>2019</b>—Subsec. (e)(1)(A). Pub. L. 116–94 struck out "3" before "staff members".
+
 <b>2018</b>—Subsec. (c)(2)(E)(i)(II). Pub. L. 115–264 struck out "or 114(f)(2)(C)" after "under section 114(f)(1)(C)" and substituted "114(f)(3)(B)" for "114(f)(4)(B)".
 
-<b>2010</b>—Subsec. (b)(6)(A). Pub. L. 111–295 substituted "All regulations issued by the Copyright RoyaltyJudges are subject to the approval of the Librarian of Congress and are subject to judicial review pursuant to chapter 7 of title 5, except as set forth in subsection (d)." for "All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress."
+<b>2010</b>—Subsec. (b)(6)(A). Pub. L. 111–295 substituted "All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress and are subject to judicial review pursuant to chapter 7 of title 5, except as set forth in subsection (d)." for "All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress."
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–303, §3(5), substituted "The Copyright Royalty Judges shall act in accordance with this title, and to the extent not inconsistent with this title, in accordance with subchapter II of chapter 5 of title 5, in carrying out the purposes set forth in section 801. The Copyright" for "The Copyright" and inserted "copyright arbitration royalty panels (to the extent those determinations are not inconsistent with a decision of the Librarian of Congress or the Register of Copyrights)," after "Congress, the Register of Copyrights,".
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–303, §3(5), substituted "The Copyright Royalty Judges shall act in accordancewith this title, and to the extent not inconsistent with this title, in accordance with subchapter II of chapter 5 of title 5, in carrying out the purposes set forth in section 801. The Copyright" for "The Copyright" and inserted "copyright arbitration royalty panels (to the extent those determinations are not inconsistent with a decision of the Librarian of Congress or the Register of Copyrights)," after "Congress, the Register of Copyrights,".
 
 Subsec. (b)(1)(A)(i)(V). Pub. L. 109–303, §3(6)(A), substituted "the publication of notice requirement shall not apply in the case of" for "in the case of" and struck out ", such notice may not be published." at end.
 
@@ -323,6 +325,10 @@ Subsec. (d)(2)(C)(i)(I). Pub. L. 109–303, §3(10), substituted "applicable sta
 Subsec. (d)(3). Pub. L. 109–303, §3(11), substituted "Section 706 of title 5 shall apply with respect to review by the court of appeals under this subsection. If the court modifies" for "If the court, pursuant to section 706 of title 5, modifies".
 
 <b>2004</b>—Subsec. (b)(1)(A)(i)(V). Pub. L. 108–447 inserted ", except that in the case of proceedings under section 111 that are scheduled to commence in 2005, such notice may not be published." before period at end.
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–94 effective with respect to fiscal year 2020 and each fiscal year thereafter, see section 1405(b) of Pub. L. 116–94, set out as a note under section 802 of this title.
 
 #### Effective Date of 2006 Amendment
 

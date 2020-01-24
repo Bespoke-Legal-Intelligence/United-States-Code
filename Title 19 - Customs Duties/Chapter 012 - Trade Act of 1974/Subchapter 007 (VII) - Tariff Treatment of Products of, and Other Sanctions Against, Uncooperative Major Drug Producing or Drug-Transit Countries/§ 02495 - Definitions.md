@@ -12,7 +12,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) through which are transported such drugs or substances; or
 
-&emsp;&emsp;(C) through which significant sums of drug-related profits or monies are launderedwith the knowledge or complicity of the government; and
+&emsp;&emsp;(C) through which significant sums of drug-related profits or monies are laundered with the knowledge or complicity of the government; and
 
 &emsp;(4) the term "narcotic and psychotropic drugs and other controlled substances" has the same meaning as is given by any applicable international narcotics control agreement or domestic law of the country or countries concerned.
 

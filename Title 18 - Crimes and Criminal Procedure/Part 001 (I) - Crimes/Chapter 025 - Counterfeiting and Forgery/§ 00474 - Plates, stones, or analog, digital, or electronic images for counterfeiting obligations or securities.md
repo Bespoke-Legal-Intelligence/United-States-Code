@@ -1,6 +1,6 @@
 ### §474. Plates, stones, or analog, digital, or electronic images for counterfeiting obligations or securities
 
-(a) Whoever, having control, custody, or possession of any plate, stone, or other thing, or any part thereof, from which has been printed, or which may be prepared by direction of the Secretary of the Treasury for the purpose of printing, any obligation or other security of the United States, uses such plate, stone, or other thing, or any part thereof, or knowingly suffers the same to be used for the purpose of printing any such or similar obligation or other security, or any part thereof, except as may be printed for the use of the United States by order of the proper officer thereof; or
+(a) Whoever, having control, custody, or possession of any plate, stone, or other thing, or any part thereof, from which has been printed,or which may be prepared by direction of the Secretary of the Treasury for the purpose of printing, any obligation or other security of the United States, uses such plate, stone, or other thing, or any part thereof, or knowingly suffers the same to be used for the purpose of printing any such or similar obligation or other security, or any part thereof, except as may be printed for the use of the United States by order of the proper officer thereof; or
 
 Whoever makes or executes any plate, stone, or other thing in the likeness of any plate designated for the printing of such obligation or other security; or
 

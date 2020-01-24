@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any Federal Reserve bank, under rules and regulations prescribed by the Board of Governors of the Federal Reserve System, may make advances to any member bank on its time or demand notes having maturities of not more than four months and which are secured to the satisfaction of such Federal Reserve bank.
+Any Federal Reserve bank, under rules and regulations prescribed by the Board of Governors of the Federal Reserve System, may make advances to any member bank on its time or demand notes having maturities of not morethan four months and which are secured to the satisfaction of such Federal Reserve bank.
 
 Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulations prescribed by the Board of Governors of the Federal Reserve System, may make advances to any member bank on its time notes having such maturities as the Board may prescribe and which are secured by mortgage loans covering a one-to-four family residence. Such advances shall bear interest at a rate equal to the lowest discount rate in effect at such Federal Reserve bank on the date of such note.
 

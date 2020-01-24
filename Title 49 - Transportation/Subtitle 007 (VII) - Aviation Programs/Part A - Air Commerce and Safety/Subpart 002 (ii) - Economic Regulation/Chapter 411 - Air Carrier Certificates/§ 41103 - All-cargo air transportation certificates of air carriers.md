@@ -82,7 +82,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §418(b)(2), (c), (d); added Nov.
 
 49 App.:1388(d).
 
-In subsection (a), the words "After the three hundred and sixty-fifth day which begins after November 9, 1977" are omitted as executed. The words "under this section" are omitted as surplus. The words "authorizing the citizen" are added for clarity and consistency in this chapter.
+In subsection (a), the words "After the three hundred and sixty-fifth day which begins after November 9,1977" are omitted as executed. The words "under this section" are omitted as surplus. The words "authorizing the citizen" are added for clarity and consistency in this chapter.
 
 In subsection (b), the words "pursuant to paragraph (4) of subsection (a) of this section" are omitted as surplus. The word "citizen" is substituted for "applicant" for clarity and consistency because only a citizen of the United States may be an "air carrier" as defined in section 40102(a) of the revised title and only an air carrier can provide all–cargo air transportation. The words "to provide" are added for clarity and consistency in this subchapter. The word "rules" is omitted as being synonymous with "regulations". The word "promulgated" is omitted as surplus.
 

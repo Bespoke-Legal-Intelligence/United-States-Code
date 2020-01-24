@@ -118,7 +118,7 @@ In general.—Subject to subparagraph (B), in response to a known or reasonably 
 
 &emsp;&emsp;(B)
 
-Exception.—The authorities of the Secretary under this subsection shall not apply to a system described subsection (d) orto a system described in paragraph (2) or (3) of subsection (e).
+Exception.—The authorities of the Secretary under this subsection shall not apply to a system described subsection (d) or to a system described in paragraph (2) or (3) of subsection (e).
 
 &emsp;(2)
 
@@ -200,13 +200,17 @@ Annual Report to Congress.—Not later than February 1 of each year, the Directo
 
 (j)
 
+Rule of Construction.—Nothing in this section shall be construed to require the Secretary to provide notice to any private entity before the Secretary issues a binding operational directive under subsection (b)(2).
+
+(k)
+
 Appropriate Congressional Committees Defined.—In this section, the term "appropriate congressional committees" means—
 
 &emsp;(1) the Committee on Appropriations and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
 &emsp;(2) the Committee on Appropriations, the Committee on Homeland Security, the Committee on Oversight and Government Reform, and the Committee on Science, Space, and Technology of the House of Representatives.
 
-(Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3075; amended Pub. L. 114–113, div. N, titleII, §§224(e), 229(a), Dec. 18, 2015, 129 Stat. 2967, 2972; Pub. L. 115–390, title II, §204(a)(1), Dec. 21, 2018, 132 Stat. 5192.)
+(Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3075; amended Pub. L. 114–113, div. N, title II, §§224(e), 229(a), Dec. 18, 2015, 129 Stat. 2967, 2972; Pub. L. 115–390, title II, §204(a)(1), Dec. 21, 2018, 132 Stat. 5192; Pub. L. 116–92, div. E, title LXIV, §6432, Dec. 20, 2019, 133 Stat. 2200.)
 
 #### References in Text
 
@@ -220,11 +224,17 @@ Provisions similar to this section were contained in sections 3533 and 3543 of t
 
 #### Amendments
 
+<b>2019</b>—Subsecs. (j), (k). Pub. L. 116–92 added subsec. (j) and redesignated former subsec. (j) as (k).
+
 <b>2018</b>—Subsec. (a)(5). Pub. L. 115–390 inserted "and section 1326 of title 41" after "compliance with the requirements of this subchapter".
 
 <b>2015</b>—Subsec. (b)(6)(B). Pub. L. 114–113, §224(e), inserted ", operating, and maintaining" after "deploying".
 
 Subsecs. (h) to (j). Pub. L. 114–113, §229(a), added subsecs. (h) to (j).
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 

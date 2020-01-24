@@ -122,7 +122,7 @@ Subsec. (c)(5). Pub. L. 102–550, §207(c)(2)(B), redesignated par. (5) as (4).
 
 Subsec. (c)(6) to (8). Pub. L. 102–550, §210(b)(3), added pars. (6) to (8).
 
-Subsec. (d). Pub. L. 102–550, §210(c), added subsec. (d) and struck out former subsec. (d) which read as follows: "If a jurisdiction demonstrates to the satisfaction of the Secretary that a reduction of the matching requirement specified in subsection (a) of this section is necessary to permit the jurisdiction to carry out the purposes of this subchapter, the Secretary may reduce the matching requirement during a period not to exceed 3years after the jurisdiction is first designated as a participating jurisdiction. Such reduction shall be not more than 75 percent in the first year, not more than 50 percent in the second year, and not more than 25 percent in the third year."
+Subsec. (d). Pub. L. 102–550, §210(c), added subsec. (d) and struck out former subsec. (d) which read as follows: "If a jurisdiction demonstrates to the satisfaction of the Secretary that a reduction of the matching requirement specified in subsection (a) of this section is necessary to permit the jurisdiction to carry out the purposes of this subchapter, the Secretary may reduce the matching requirement during a period not to exceed 3 years after the jurisdiction is first designated as a participating jurisdiction. Such reduction shall be not more than 75 percent in the first year, not more than 50 percent in the second year, and not more than 25 percent in the third year."
 
 #### Effective Date of 1994 Amendment
 

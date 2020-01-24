@@ -6,11 +6,11 @@
 
 (c) A certificate may not be furnished under the program under subsection (a) on behalf of a deceased person described in section 2411(b) of this title.
 
-(Added Pub. L. 89–88, §1(a), July 24, 1965, 79 Stat. 264; amended Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 107–330, title II, §201(a), Dec. 6, 2002, 116 Stat. 2823; Pub. L. 112–154, title VI, §603, Aug. 6, 2012, 126 Stat. 1201; Pub. L. 114–315, title III, §302(a), Dec. 16, 2016, 130 Stat. 1551.)
+(Added Pub. L. 89–88, §1(a), July 24, 1965, 79 Stat. 264; amended Pub. L. 102–83, §4(b)(1), (2)(E), Aug.6, 1991, 105 Stat. 404, 405; Pub. L. 107–330, title II, §201(a), Dec. 6, 2002, 116 Stat. 2823; Pub. L. 112–154, title VI, §603, Aug. 6, 2012, 126 Stat. 1201; Pub. L. 114–315, title III, §302(a), Dec. 16, 2016, 130 Stat. 1551.)
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a). Pub. L. 114–315 substituted "persons eligible for burial in a national cemetery by reason ofany of paragraphs (1), (2), (3), or (7) of section 2402(a) of this title," for "veterans, discharged under honorable conditions, and persons who died in the active military, naval, or air service,".
+<b>2016</b>—Subsec. (a). Pub. L. 114–315 substituted "persons eligible for burial in a national cemetery by reason of any of paragraphs (1), (2), (3), or (7) of section 2402(a) of this title," for "veterans, discharged under honorable conditions, and persons who died in the active military, naval, or air service,".
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–154 inserted "and persons who died in the active military, naval, or air service," after "under honorable conditions," and substituted "deceased individual's" for "veteran's".
 

@@ -50,5 +50,5 @@ Pub. L. 88–114, §2, Sept. 6, 1963, 77 Stat. 144, provided that: "The amendmen
 
 #### Service Credit for Certain Enlisted Personnel
 
-Act June 3, 1948, ch. 394, 62 Stat. 302, provided: "That those enlisted men of the Coast Guard who, during 1940 and 1941, were discharged from the Coast Guard to accept employment as policemen and guards at the Ivigtut Cryolite Mine, Greenland, and who reenlisted in the Coast Guard within three months after the termination of their service as such policemen and guards, shall be credited with the time between discharge and reenlistment for purposes of longevity pay and retirement, but no increased retroactive pay shall accrue by reason of the enactment of this Act."
+Act June 3, 1948, ch. 394, 62 Stat. 302, provided for special service credit for enlisted men of the Coast Guard who, in 1940 and 1941, were discharged to accept employment as policemen and guards at the Ivigtut Cryolite Mine, Greenland, and who reenlisted in the Coast Guard within three months after the termination of their service at the mine.
 

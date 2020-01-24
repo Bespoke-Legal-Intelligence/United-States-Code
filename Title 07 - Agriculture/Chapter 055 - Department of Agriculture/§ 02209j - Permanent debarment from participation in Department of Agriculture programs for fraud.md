@@ -8,7 +8,7 @@ Subject to subsection (b), the Secretary of Agriculture shall permanently debar 
 
 #### (1) Secretary determination
 
-&emsp;The Secretary may reduce a debarment under subsection (a) to a period of not less than 10 years if the Secretary considers it appropriate.
+&emsp;The Secretary may reduce a debarment under subsection (a) to a period of not lessthan 10 years if the Secretary considers it appropriate.
 
 #### (2) Food assistance
 
@@ -22,5 +22,5 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

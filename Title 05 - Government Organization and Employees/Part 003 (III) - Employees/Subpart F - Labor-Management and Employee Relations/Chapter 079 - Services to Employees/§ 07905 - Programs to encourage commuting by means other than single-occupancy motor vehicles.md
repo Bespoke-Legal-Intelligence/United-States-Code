@@ -72,7 +72,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date
 
-Pub. L. 103–172, §3, Dec. 2, 1993, 107 Stat. 1997, provided that: "This Act \[enacting this section and provisions set out as notes under this section and section 7901 of this title\] and the amendments made by this Act shall take effect on January 1, 1994."
+Pub. L. 103–172, §3, Dec. 2, 1993, 107 Stat. 1997, provided that: "This Act \[enacting this section and provisionsset out as notes under this section and section 7901 of this title\] and the amendments made by this Act shall take effect on January 1, 1994."
 
 #### Transit Subsidy for Department of Labor Employees of National Capital Region
 

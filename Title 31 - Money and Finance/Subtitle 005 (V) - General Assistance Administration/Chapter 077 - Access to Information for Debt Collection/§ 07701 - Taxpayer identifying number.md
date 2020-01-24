@@ -22,7 +22,7 @@
 
 &emsp;(E) in a relationship with the agency that may give rise to a receivable due to that agency, such as a partner of a borrower in or a guarantor of a Federal direct or insured loan administered by the agency.
 
-(3) Each agency shall disclose to a person required to furnish a taxpayer identifying number under this subsection its intent to use such number for purposes of collecting and reportingon any delinquent amounts arising out of such person's relationship with the Government.
+(3) Each agency shall disclose to a person required to furnish a taxpayer identifying number under this subsection its intent to use such number for purposes of collecting and reporting on any delinquent amounts arising out of such person's relationship with the Government.
 
 (4) For purposes of this subsection, a person shall not be treated as doing business with a Federal agency solely by reason of being a debtor under third party claims of the United States. The preceding sentence shall not apply to a debtor owing claims resulting from petroleum pricing violations or owing claims resulting from Federal loan or loan guarantee/insurance programs.
 

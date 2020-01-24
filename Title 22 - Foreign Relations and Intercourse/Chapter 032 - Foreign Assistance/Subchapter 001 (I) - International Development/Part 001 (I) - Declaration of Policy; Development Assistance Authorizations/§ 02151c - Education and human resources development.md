@@ -130,7 +130,7 @@ Assistance provided under this section shall be used primarily to expand and str
 
 &emsp;&emsp;(C) there is the greatest opportunity to reduce childhood and adolescence exposure to or engagement in violent extremism or extremist ideologies.
 
-(Pub. L. 87–195, pt. I, §105, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 715; amended Pub. L. 93–559, §5, Dec. 30, 1974, 88 Stat. 1796; Pub. L. 94–161, title III, §305, Dec. 20, 1975, 89 Stat. 858; Pub. L. 95–88, title I, §104, Aug. 3, 1977, 91 Stat. 535; Pub. L. 95–424, title I, §105, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §§103, 122, Aug. 14, 1979, 93 Stat. 360, 366; Pub. L. 96–533, title III, §303, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title III, §303, Dec. 29, 1981, 95 Stat. 1532; Pub. L. 99–83, title III, §306, title XII, §1211(a)(1), Aug. 8, 1985, 99 Stat. 215, 279; Pub. L. 99–440, title II, §201(a), Oct. 2, 1986, 100 Stat. 1094; Pub. L. 99–631, §1(b)(1), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 101–513, title V, §562(d)(1), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 115–56, div. A, §3, Sept. 8, 2017, 131 Stat. 1130.)
+(Pub. L. 87–195, pt. I, §105, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 715; amendedPub. L. 93–559, §5, Dec. 30, 1974, 88 Stat. 1796; Pub. L. 94–161, title III, §305, Dec. 20, 1975, 89 Stat. 858; Pub. L. 95–88, title I, §104, Aug. 3, 1977, 91 Stat. 535; Pub. L. 95–424, title I, §105, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §§103, 122, Aug. 14, 1979, 93 Stat. 360, 366; Pub. L. 96–533, title III, §303, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title III, §303, Dec. 29, 1981, 95 Stat. 1532; Pub. L. 99–83, title III, §306, title XII, §1211(a)(1), Aug. 8, 1985, 99 Stat. 215, 279; Pub. L. 99–440, title II, §201(a), Oct. 2, 1986, 100 Stat. 1094; Pub. L. 99–631, §1(b)(1), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 101–513, title V, §562(d)(1), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 115–56, div. A, §3, Sept. 8, 2017, 131 Stat. 1130.)
 
 #### Amendments
 
@@ -270,7 +270,7 @@ Elements.—The strategy required under subsection (a)—
 
 &emsp;&emsp;"(D) to project general levels of resources needed to achieve stated program objectives;
 
-&emsp;&emsp;"(E) to develop means to track implementation in partner countries and ensure that such countriesare expending appropriate domestic resources and instituting any relevant legal, regulatory, or institutional reforms needed to achieve stated program objectives;
+&emsp;&emsp;"(E) to develop means to track implementation in partner countries and ensure that such countries are expending appropriate domestic resources and instituting any relevant legal, regulatory, or institutional reforms needed to achieve stated program objectives;
 
 &emsp;&emsp;"(F) to leverage United States capabilities, including through technical assistance, training, and research; and
 

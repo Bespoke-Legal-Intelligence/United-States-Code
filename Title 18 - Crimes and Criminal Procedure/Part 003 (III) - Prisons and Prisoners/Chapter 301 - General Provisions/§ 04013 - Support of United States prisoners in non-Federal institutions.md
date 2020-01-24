@@ -82,7 +82,7 @@ Notice to prisoners of state or local implementation.—The implementation of th
 
 &emsp;(5)
 
-Notice before public comment period.—Before the beginning of any period a proposed implementation under this subsection is open to public comment, written and oral notice of the provisions of that proposed implementation shall be provided to groups that advocate on behalf of Federal prisoners and to each prisoner subject to such proposed implementation.
+Notice before public comment period.—Before the beginning of any period a proposed implementation under this subsection is open to public comment, written and oral notice ofthe provisions of that proposed implementation shall be provided to groups that advocate on behalf of Federal prisoners and to each prisoner subject to such proposed implementation.
 
 &emsp;(6)
 

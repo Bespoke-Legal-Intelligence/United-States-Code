@@ -16,7 +16,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (3) Ticket terms
 
-&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences the Commissioner's agreement to pay (as provided in paragraph (4)) an employment network, which is serving under the Program and to which such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
+&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences the Commissioner's agreement to pay (as providedin paragraph (4)) an employment network, which is serving under the Program and to which such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
 
 #### (4) Payments to employment networks
 
@@ -80,7 +80,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (6) Quality assurance
 
-&emsp;The Commissioner shall provide for such periodic reviews as are necessary to providefor effective quality assurance in the provision of services by employment networks. The Commissioner shall solicit and consider the views of consumers and the program manager under which the employment networks serve and shall consult with providers of services to develop performance measurements. The Commissioner shall ensure that the results of the periodic reviews are made available to beneficiaries who are prospective service recipients as they select employment networks. The Commissioner shall ensure that the periodic surveys of beneficiaries receiving services under the Program are designed to measure customer service satisfaction.
+&emsp;The Commissioner shall provide for such periodic reviews as are necessary to provide for effective quality assurance in the provision of services by employment networks. The Commissioner shall solicit and consider the views of consumers and the program manager under which the employment networks serve and shall consult with providers of services to develop performance measurements. The Commissioner shall ensure that the results of the periodic reviews are made available to beneficiaries who are prospective service recipients as they select employment networks. The Commissioner shall ensure that the periodic surveys of beneficiaries receiving services under the Program are designed to measure customer service satisfaction.
 
 #### (7) Dispute resolution
 
@@ -126,7 +126,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (D) Single or associated providers allowed
 
-&emsp;&emsp;An employment network shall consist of either a single provider of such services or ofan association of such providers organized so as to combine their resources into a single entity. An employment network may meet the requirements of subsection (e)(4) by providing services directly, or by entering into agreements with other individuals or entities providing appropriate employment services, vocational rehabilitation services, or other support services.
+&emsp;&emsp;An employment network shall consist of either a single provider of such services or of an association of such providers organized so as to combine their resources into a single entity. An employment network may meet the requirements of subsection (e)(4) by providing services directly, or by entering into agreements with other individuals or entities providing appropriate employment services, vocational rehabilitation services, or other support services.
 
 #### (2) Requirements relating to provision of services
 
@@ -184,7 +184,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) No change in method of payment for beneficiaries with tickets already assigned to the employment networks
 
-&emsp;&emsp;Any election of a payment system by an employment network that would result in achange in the method of payment to the employment network for services provided to a beneficiary who is receiving services from the employment network at the time of the election shall not be effective with respect to payment for services provided to that beneficiary and the method of payment previously selected shall continue to apply with respect to such services.
+&emsp;&emsp;Any election of a payment system by an employment network that would result in a change in the method of payment to the employment network for services provided to a beneficiary who is receiving services from the employment network at the time of the election shall not be effective with respect to payment for services provided to that beneficiary and the method of payment previously selected shall continue to apply with respect to such services.
 
 #### (2) Outcome payment system
 
@@ -242,7 +242,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (A) Percentages and periods
 
-&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph (2)(C), the total payments permissible under paragraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, while providing for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
+&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph (2)(C), the total payments permissible under paragraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, whileproviding for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
 
 #### (B) Number and amounts of milestone payments
 
@@ -300,7 +300,7 @@ In this section:
 
 #### (4) Title XVI disability beneficiary
 
-&emsp;The term "title XVI disability beneficiary" means an individual eligible for supplemental security income benefits under subchapter XVI on the basis of blindness (within the meaning of section 1382c(a)(2) of this title) ordisability (within the meaning of section 1382c(a)(3) of this title). An individual is a title XVI disability beneficiary for each month for which such individual is eligible for such benefits.
+&emsp;The term "title XVI disability beneficiary" means an individual eligible for supplementalsecurity income benefits under subchapter XVI on the basis of blindness (within the meaning of section 1382c(a)(2) of this title) or disability (within the meaning of section 1382c(a)(3) of this title). An individual is a title XVI disability beneficiary for each month for which such individual is eligible for such benefits.
 
 #### (5) Supplemental security income benefit
 

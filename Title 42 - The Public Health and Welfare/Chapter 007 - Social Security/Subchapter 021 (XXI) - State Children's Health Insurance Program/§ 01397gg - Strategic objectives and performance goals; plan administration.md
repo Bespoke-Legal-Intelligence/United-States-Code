@@ -132,7 +132,7 @@ Notwithstanding subsection (e)(2)(A) and section 1315(a) of this title:
 
 &emsp;&emsp;(A) under which children who are under the age of 19 and are not eligible to receive medical assistance under subchapter XIX or child health assistance under this subchapter may purchase coverage through the State that provides benefits that are at least identical to the benefits provided under the State child health plan under this subchapter (or a waiver of such plan); and
 
-&emsp;&emsp;(B) that is funded exclusively through non-Federal funds, including funds received bythe State in the form of premiums for the purchase of such coverage.
+&emsp;&emsp;(B) that is funded exclusively through non-Federal funds, including funds received by the State in the form of premiums for the purchase of such coverage.
 
 (Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565; amended Pub. L. 106–554, §1(a)(6) \[title VIII, §803\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 109–171, title VI, §6102(a), Feb. 8, 2006, 120 Stat. 131; Pub. L. 111–3, title I, §112(a)(2)(A), title II, §§203(a)(2), (d)(2), 214(b), title V, §§501(d)(2), 503(a)(1), Feb. 4, 2009, 123 Stat. 33, 46, 49, 57, 87, 89; Pub. L. 111–5, div. B, title V, §5006(b)(2), (d)(2), (e)(2)(B), Feb. 17, 2009, 123 Stat. 506, 510; Pub. L. 111–148, title II, §2101(d)(2), (e), title VI, §6401(c), Mar. 23, 2010, 124 Stat. 287, 753; Pub. L. 111–152, title I, §1004(b)(2)(B), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 111–309, title II, §205(f)(2), Dec. 15, 2010, 124 Stat. 3291; Pub. L. 114–255, div. A, title V, §5005(c)(1), Dec. 13, 2016, 130 Stat. 1194; Pub. L. 115–120, div. C, §3002(g)(1), Jan. 22, 2018, 132 Stat. 35; Pub. L. 115–123, div. E, title XII, §53102(d)(1), Feb. 9, 2018, 132 Stat. 299.)
 
@@ -288,7 +288,7 @@ Nothing in amendment by Pub. L. 114–255 to be construed as changing or limitin
 
 Pub. L. 109–171, title VI, §6102(c), Feb. 8, 2006, 120 Stat. 131, as amended by Pub. L. 111–3, title I, §112(a)(2)(B), Feb. 4, 2009, 123 Stat. 33, provided that: "Subject to section 2111 of the Social Security Act \[42 U.S.C. 1397kk\], as added by section 112 of the Children's Health Insurance Program Reauthorization Act of 2009 \[Pub. L. 111–3\], nothing in this section \[amending this section and section 1397ee of this title and enacting provisions set out as a note above\] or the amendments made by this section shall be construed to—
 
-&emsp;"(1) authorize the waiver of any provision of title XIX or XXI of the Social Security Act (42 U.S.C. 1396 et seq., 1397aa et seq.) that is not otherwise authorized to be waived under such titles or under title XI of such Act (42 U.S.C. 1301 et seq.) as of the date of enactment of this Act \[Feb. 8, 2006\];
+&emsp;"(1) authorize the waiver of any provision of title XIX or XXI of the Social Security Act (42 U.S.C. 1396 et seq., 1397aa et seq.) that is not otherwise authorized to be waived under such titles or under title XIof such Act (42 U.S.C. 1301 et seq.) as of the date of enactment of this Act \[Feb. 8, 2006\];
 
 &emsp;"(2) imply congressional approval of any waiver, experimental, pilot, or demonstration project affecting funds made available under the State children's health insurance program under title XXI of the Social Security Act (42 U.S.C. 1397aa et. seq.) or any amendment to such a waiver or project that has been approved as of such date of enactment; or
 

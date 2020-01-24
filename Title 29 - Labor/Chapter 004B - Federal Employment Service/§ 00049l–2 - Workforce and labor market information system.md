@@ -78,13 +78,13 @@
 
 #### (A) Structure
 
-&emsp;&emsp;The workforce and labor market information system described in subsection (a) shall be evaluated and improved by the Secretary, in consultation with the Workforce Information Advisory Council established in subsection (d).
+&emsp;&emsp;The workforce and labor market information system described in subsection (a) shallbe evaluated and improved by the Secretary, in consultation with the Workforce Information Advisory Council established in subsection (d).
 
 #### (B) Grants and responsibilities
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall carry out the provisions of this section in a timely manner,through grants to or agreements with States.
+&emsp;&emsp;&emsp;The Secretary shall carry out the provisions of this section in a timely manner, through grants to or agreements with States.
 
 #### (ii) Distribution of funds
 
@@ -134,13 +134,13 @@ The Secretary, acting through the Commissioner of Labor Statistics and the Assis
 
 #### (A) Establishment
 
-&emsp;&emsp;The Secretary shall establish an advisory council that shall be known as the Workforce Information Advisory Council (referred to in this section as the "Council") to participate in the consultations and provide the recommendations described in paragraph (1).
+&emsp;&emsp;The Secretary shall establish an advisory council that shall be known as the Workforce Information Advisory Council (referredto in this section as the "Council") to participate in the consultations and provide the recommendations described in paragraph (1).
 
 #### (B) Membership
 
 &emsp;&emsp;The Secretary shall appoint the members of the Council, which shall consist of—
 
-&emsp;&emsp;&emsp;(i) 4 members who are representatives of lead State agencies with responsibility forworkforce investment activities, or State agencies described in section 49c of this title, who have been nominated by such agencies or by a national organization that represents such agencies;
+&emsp;&emsp;&emsp;(i) 4 members who are representatives of lead State agencies with responsibility for workforce investment activities, or State agencies described in section 49c of this title, who have been nominated by such agencies or by a national organization that represents such agencies;
 
 &emsp;&emsp;&emsp;(ii) 4 members who are representatives of the State workforce and labor market information directors affiliated with the State agencies that perform the duties described in subsection (e)(2), who have been nominated by the directors;
 
@@ -194,7 +194,11 @@ The Secretary, acting through the Commissioner of Labor Statistics and the Assis
 
 &emsp;&emsp;(A) consult with State and local employers, participants, and local workforce investment boards about the labor market relevance of the data to be collected and disseminated through the statewide workforce and labor market information system;
 
-&emsp;&emsp;(B) consult with State educational agencies and local educational agencies concerning the provision of workforce and labor market information in order to meet the needs of secondary school and postsecondary school students who seek such information;
+&emsp;&emsp;(B) consult with eligible agencies (defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302)), State educational agencies, and local educational agencies concerning the provision of workforce and labor market information in order to—
+
+&emsp;&emsp;&emsp;(i) meet the needs of secondary school and postsecondary school students who seek such information; and
+
+&emsp;&emsp;&emsp;(ii) annually inform the development and implementation of programs of study defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302), and career pathways;
 
 &emsp;&emsp;(C) collect and disseminate for the system, on behalf of the State and localities in the State, the information and data described in subparagraphs (A) and (B) of subsection (a)(1);
 
@@ -204,9 +208,11 @@ The Secretary, acting through the Commissioner of Labor Statistics and the Assis
 
 &emsp;&emsp;(F) conduct such other data collection, analysis, and dissemination activities as will ensure an effective statewide workforce and labor market information system;
 
-&emsp;&emsp;(G) actively seek the participation of other State and local agencies in data collection, analysis, and dissemination activities in order to ensure complementarity, compatibility, and usefulness of data; and
+&emsp;&emsp;(G) actively seek the participation of other State and local agencies in data collection, analysis, and dissemination activities in order to ensure complementarity, compatibility, and usefulness of data;
 
-&emsp;&emsp;(H) utilize the quarterly records described in section 3141(i)(2) of this title to assist the State and other States in measuring State progress on State performance measures.
+&emsp;&emsp;(H) utilize the quarterly records described in section 3141(i)(2) of this title to assist the State and other States in measuring State progress on State performance measures; and
+
+&emsp;&emsp;(I) provide, on an annual and timely basis to each eligible agency (defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302)), the data and information described in subparagraphs (A) and (B) of subsection (a)(1).
 
 #### (3) Rule of construction
 
@@ -214,7 +220,7 @@ The Secretary, acting through the Commissioner of Labor Statistics and the Assis
 
 #### (f) Nonduplication requirement
 
-None of the functions and activities carried out pursuant to this section shall duplicate thefunctions and activities carried out under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.).
+None of the functions and activities carried out pursuant to this section shall duplicate the functions and activities carried out under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.).
 
 #### (g) Authorization of appropriations
 
@@ -225,28 +231,6 @@ There are authorized to be appropriated to carry out this section $60,153,000 fo
 In this section, the term "local area" means the smallest geographical area for which data can be produced with statistical reliability.
 
 (June 6, 1933, ch. 49, §15, as added Pub. L. 105–220, title III, §309(2), Aug. 7, 1998, 112 Stat. 1082; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §403(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 105–332, §5(b)(1), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 109–270, §2(g), Aug. 12, 2006, 120 Stat. 747; Pub. L. 113–128, title III, §308, July 22, 2014, 128 Stat. 1627; Pub. L. 115–224, title III, §301, July 31, 2018, 132 Stat. 1622.)
-
-#### Amendment of Subsection (e)(2)
-
-<i>Pub. L. 115–224, §4, title III, §301, July 31, 2018, 132 Stat. 1564, 1622, provided that, effective July 1, 2019, subsection (e)(2) of this section is amended—</i>
-
-<i>(1) by striking subparagraph (B) and inserting the following:</i>
-
-&emsp;&emsp;<i>"(B) consult with eligible agencies (defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302)), State educational agencies, and local educational agencies concerning the provision of workforce and labor market information in order to—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) meet the needs of secondary school and postsecondary school students who seek such information; and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) annually inform the development and implementation of programs of study defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302), and career pathways;";</i>
-
-<i>(2) in subparagraph (G), by striking "and" after the semicolon;</i>
-
-<i>(3) in subparagraph (H), by striking the period at the end and inserting "; and"; and</i>
-
-<i>(4) by adding at the end the following:</i>
-
-&emsp;&emsp;<i>"(I) provide, on an annual and timely basis to each eligible agency (defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302)), the data and information described in subparagraphs (A) and (B) of subsection (a)(1)."</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 #### References in Text
 
@@ -292,11 +276,15 @@ Subsec. (g). Pub. L. 113–128, §308(g), substituted "$60,153,000 for fiscal ye
 
 <b>2006</b>—Subsec. (f). Pub. L. 109–270 substituted "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Applied Technology Education Act".
 
-<b>1998</b>—Subsec. (a)(2)(A)(i). Pub. L. 105–332, §5(b)(1)(A), substituted "under the provisions of this section forany purpose other than the statistical purposes for which" for "under the provisions of this section for any purpose other than the statistical purposes for which".
+<b>1998</b>—Subsec. (a)(2)(A)(i). Pub. L. 105–332, §5(b)(1)(A), substituted "under the provisions of this section for any purpose other than the statistical purposes for which" for "under the provisions of this section for any purpose other than the statistical purposes for which".
 
 Pub. L. 105–277, §101(f) \[title VIII, §403(a)(1)(A)\], struck out "of this section" after "statistical purposes".
 
-Subsec. (e)(2)(G). Pub. L. 105–277, §101(f) \[title VIII, §403(a)(1)(B)\], and Pub. L. 105–332, §5(b)(1)(B), amended subpar. (G) identically, substituting "complementarity" for "complementary".
+Subsec. (e)(2)(G). Pub. L. 105–277, §101(f) \[title VIII, §403(a)(1)(B)\], and Pub. L. 105–332, §5(b)(1)(B), amendedsubpar. (G) identically, substituting "complementarity" for "complementary".
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 

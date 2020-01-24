@@ -120,5 +120,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Accrual of Benefits; Prospective Applicability
 
-No benefits to accrue for months beginning before Oct. 23, 1992, by reason of the amendment by Pub. L. 102–484, see section 642(c) of Pub. L. 102–484, set out as a note under section 1402 of this title.
+No benefits to accrue for months beginning before Oct. 23, 1992, by reason of the amendment by Pub. L.102–484, see section 642(c) of Pub. L. 102–484, set out as a note under section 1402 of this title.
 

@@ -8,7 +8,7 @@ The Administrator, in coordination with the appropriate departments and agencies
 
 &emsp;(2) Methods and means by which collection, pretreatment, treatment, storage and distribution facilities utilized or used in connection with public water systems and collection and pretreatment storage facilities used in connection with public water systems could be destroyed or otherwise prevented from providing adequate supplies of drinking water meeting applicable public health standards.
 
-&emsp;(3) Methods and means by which pipes, constructed conveyances, collection, pretreatment, treatment, storage and distribution systems that are utilized in connection with public water systems could be altered oraffected so as to be subject to cross-contamination of drinking water supplies.
+&emsp;(3) Methods and means by which pipes, constructed conveyances, collection, pretreatment, treatment, storage and distribution systems that are utilized in connection with public water systems could be altered or affected so as to be subject to cross-contamination of drinking water supplies.
 
 &emsp;(4) Methods and means by which pipes, constructed conveyances, collection, pretreatment, treatment, storage and distribution systems that are utilized in connection with public water systems could be reasonably protected from terrorist attacks or other acts intended to disrupt the supply or affect the safety of drinking water.
 

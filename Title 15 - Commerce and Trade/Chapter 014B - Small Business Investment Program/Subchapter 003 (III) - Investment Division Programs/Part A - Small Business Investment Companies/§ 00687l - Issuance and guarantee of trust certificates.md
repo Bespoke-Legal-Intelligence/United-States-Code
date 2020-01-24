@@ -2,7 +2,7 @@
 
 #### (a) Issuance; debentures or participating securities composing trust or pool
 
-The Administration is authorized to issue trust certificates representing ownership of all or a fractional part of debentures issued by small business investment companies and guaranteed by the Administration under this chapter, or participating securities which are issued by such companies and purchased and guaranteed pursuant to section 683(g) of this title: <i>Provided</i>, That such trust certificates shall be based on and backed by a trust or pool approved by the Administration and composed solely of guaranteed debentures or guaranteed participating securities.
+The Administration is authorized to issue trust certificates representing ownership of all or a fractional part of debentures issued by small business investment companies and guaranteed by the Administration under this chapter, or participating securities which are issued by such companies and purchased and guaranteed pursuant to section 683(g) of this title: <i>Provided</i>, That such trust certificates shall be based on and backed by a trust or pool approved by theAdministration and composed solely of guaranteed debentures or guaranteed participating securities.
 
 #### (b) Terms and conditions of guarantee; payment of principal and interest
 
@@ -34,7 +34,7 @@ The Administration shall not collect a fee for any guarantee under this section:
 
 (5) Nothing in this subsection shall prohibit the use of a book-entry or other electronic form of registration for trust certificates.
 
-(Pub. L. 85–699, title III, §319, formerly §321, as added Pub. L. 99–272, title XVIII, §18005(a), Apr. 7, 1986, 100 Stat. 364; amended Pub. L. 101–162,title V, (5), Nov. 21, 1989, 103 Stat. 1028; Pub. L. 102–366, title IV, §404, Sept. 4, 1992, 106 Stat. 1013; renumbered §319 and amended Pub. L. 104–208, div. D, title II, §§205(b), 208(h)(1)(E), (F), Sept. 30, 1996, 110 Stat. 3009–738, 3009–747.)
+(Pub. L. 85–699, title III, §319, formerly §321, as added Pub. L. 99–272, title XVIII, §18005(a), Apr. 7, 1986, 100 Stat. 364; amended Pub. L. 101–162, title V, (5), Nov. 21, 1989, 103 Stat. 1028; Pub. L. 102–366, title IV, §404, Sept. 4, 1992, 106 Stat. 1013; renumbered §319 and amended Pub. L. 104–208, div. D, title II, §§205(b), 208(h)(1)(E), (F), Sept. 30, 1996, 110 Stat. 3009–738, 3009–747.)
 
 #### References in Text
 
@@ -70,7 +70,7 @@ Subsec. (f)(2). Pub. L. 104–208, §208(h)(1)(F)(ii), inserted "or investments 
 
 Subsec. (f)(5). Pub. L. 104–208, §205(b)(2), added par. (5).
 
-<b>1992</b>—Pub. L. 102–366 amended section generally, in subsec. (a) authorizing issuance of trust certificates representing ownership of participating securities, in subsec. (b) inserting provisions authorizing Administration to guarantee payment of redemption price of and priority payments on participating securities, in subsec. (e)(2) including participating securities within prohibition against preclusion or limitation of Administration's ownership rights, and in subsec. (f) in par. (1) substituting provisions relating to small business investment company for provisions relating to development company and requiring prioritized payment rate to be included in central registration requirements, and in par. (2) inserting provisions relating to participating securities, contracts to carry out pooling, and maintenance of commercial bank accounts.
+<b>1992</b>—Pub. L. 102–366 amended section generally, in subsec. (a) authorizing issuance of trust certificatesrepresenting ownership of participating securities, in subsec. (b) inserting provisions authorizing Administration to guarantee payment of redemption price of and priority payments on participating securities, in subsec. (e)(2) including participating securities within prohibition against preclusion or limitation of Administration's ownership rights, and in subsec. (f) in par. (1) substituting provisions relating to small business investment company for provisions relating to development company and requiring prioritized payment rate to be included in central registration requirements, and in par. (2) inserting provisions relating to participating securities, contracts to carry out pooling, and maintenance of commercial bank accounts.
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–162 inserted ", including companies operating under the authority of section 681(d) of this title," after "investment companies".
 

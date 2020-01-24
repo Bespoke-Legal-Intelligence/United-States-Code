@@ -20,7 +20,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-<b>1979</b>—Pars. (1), (5). Pub. L. 96–39 substituted in par. (1) "on bonded premises for storage or processing" for "instorage on bonded premises" and struck out par. (5) which related to an appropriate entry by the proprietor for immediate denaturation.
+<b>1979</b>—Pars. (1), (5). Pub. L. 96–39 substituted in par. (1) "on bonded premises for storage or processing" for "in storage on bonded premises" and struck out par. (5) which related to an appropriate entry by the proprietor for immediate denaturation.
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 

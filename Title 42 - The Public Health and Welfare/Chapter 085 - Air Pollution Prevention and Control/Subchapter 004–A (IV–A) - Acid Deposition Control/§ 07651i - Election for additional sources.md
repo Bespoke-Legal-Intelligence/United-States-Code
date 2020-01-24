@@ -10,7 +10,7 @@ The baseline for a unit designated under this section shall be established by th
 
 #### (c) Emission limitations
 
-Annual emissions limitations for sulfur dioxide shall be equal to the product of the baselinemultiplied by the lesser of the unit's 1985 actual or allowable emission rate in lbs/mmBtu, or, if the unit did not operate in 1985, by the lesser of the unit's actual or allowable emission rate for a calendar year after 1985 (as determined by the Administrator), divided by 2,000.
+Annual emissions limitations for sulfur dioxide shall be equal to the product of the baseline multiplied by the lesser of the unit's 1985 actual or allowable emission rate in lbs/mmBtu, or, if the unit did not operate in 1985, by the lesser of the unit's actual or allowable emission rate for a calendar year after 1985 (as determined by the Administrator), divided by 2,000.
 
 #### (d) Process sources
 
@@ -18,7 +18,7 @@ Not later than 18 months after November 15, 1990, the Administrator shall establ
 
 #### (e) Allowances and permits
 
-The Administrator shall issue allowances to an affected unit under this section in an amount equal to the emissions limitation calculated under subsection (c) or (d), in accordance with section 7651b of this title. Such allowance may be used in accordance with, and shall be subject to, the provisions of section 7651b of this title. Affected sources under this section shall be subject to the requirements of sections 7651b, 7651g, 7651j, 7651k, 7651l, and 7651m of this title.
+The Administrator shall issue allowances to an affected unit under this section in an amount equal to the emissions limitation calculated under subsection (c) or (d), in accordance withsection 7651b of this title. Such allowance may be used in accordance with, and shall be subject to, the provisions of section 7651b of this title. Affected sources under this section shall be subject to the requirements of sections 7651b, 7651g, 7651j, 7651k, 7651l, and 7651m of this title.
 
 #### (f) Limitation
 

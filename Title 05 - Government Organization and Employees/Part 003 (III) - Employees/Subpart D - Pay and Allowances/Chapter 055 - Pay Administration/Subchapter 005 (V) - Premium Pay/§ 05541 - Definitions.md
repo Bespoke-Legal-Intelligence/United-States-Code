@@ -118,7 +118,7 @@ Aug. 18, 1959, Pub. L. 86–168, §202(c) 73 Stat. 389.
 
 July 17, 1959, Pub. L. 86–91, §10(a) (as applicable to the Federal Employees Pay Act of 1945, as amended), 73 Stat. 217.
 
-The section is revised as a definition section. The provisions of former section 901(d) are omitted as unnecessary because the sections referred to state their application and there is no need to restate the application here.
+The section is revised as a definition section. The provisions of former section 901(d) are omitted as unnecessary because the sections referred to state theirapplication and there is no need to restate the application here.
 
 In paragraph (1), the terms "Executive agency" and "military department" are substituted for the references in former section 901(a) and (e) to the executive branch, including Government-owned or controlled corporations, and the General Accounting Office in view of the definitions in sections 105 and 102.
 
@@ -152,7 +152,7 @@ Section 1291(a) of title 50, appendix, referred to in par. (2)(C)(ix), is sectio
 
 <b>1992</b>—Par. (3). Pub. L. 102–378 added par. (3).
 
-<b>1990</b>—Par. (2)(iv). Pub. L. 101–509 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "amember of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, or the Executive Protective Service;".
+<b>1990</b>—Par. (2)(iv). Pub. L. 101–509 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "a member of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, or the Executive Protective Service;".
 
 <b>1988</b>—Par. (2)(xvii). Pub. L. 100–325 added cl. (xvii).
 
@@ -216,7 +216,7 @@ Section 412(a)(2) of Pub. L. 95–105 provided that: "The amendments made by par
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
+Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90thday after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
 
 #### Effective Date of 1970 Amendment
 
@@ -238,7 +238,7 @@ Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §115\], Nov. 29, 1999, 113 S
 
 "(b) Notwithstanding any other provision of law, neither the United States nor any individual or entity acting on its behalf shall be liable for premium pay under title 5, United States Code, sections 5542–5549, for any work performed on or after the date of the enactment of this Act \[Nov. 29, 1999\] by any individual employed as an attorney in the Department of Justice, including an Assistant United States Attorney."
 
-\[Pub. L. 106–553, §1(a)(2) \[title I, §111\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, provided that: "Section 115 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act,2000 (as enacted into law by section 1000(a)(1) of Public Law 106–113) \[set out above\] shall apply hereafter."\]
+\[Pub. L. 106–553, §1(a)(2) \[title I, §111\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, provided that: "Section 115 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2000 (as enacted into law by section 1000(a)(1) of Public Law 106–113) \[set out above\] shall apply hereafter."\]
 
 #### Sense of Congress Relating to Law Enforcement Officer Provisions
 

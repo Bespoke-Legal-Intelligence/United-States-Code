@@ -50,7 +50,7 @@ Ex. Ord. No. 12966, July 14, 1995, 60 F.R. 36949, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Defense Authorization Act for Fiscal Year 1995, Public Law 103–337 (the "Act") \[see Tables for classification\] and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. This order governs the implementation of section 404 of title 10, United States Code, as added by amendment set forth in section 1412(a) of the Act. Pursuant to 10 U.S.C. 404(a), the Secretary of Defense ishereby directed to provide disaster assistance outside the United States to respond to manmade or natural disasters when the Secretary of Defense determines that such assistance is necessary to prevent loss of lives. The Secretary of Defense shall exercise the notification functions required of the President by 10 U.S.C. 404(c).
+Section 1. This order governs the implementation of section 404 of title 10, United States Code, as added by amendment set forth in section 1412(a) of the Act. Pursuant to 10 U.S.C. 404(a), the Secretary of Defense is hereby directed to provide disaster assistance outside the United States to respond to manmade or natural disasters when the Secretary of Defense determines that such assistance is necessary to prevent loss of lives. The Secretary of Defense shall exercise the notification functions required of the President by 10 U.S.C. 404(c).
 
 Sec. 2. The Secretary of Defense shall provide disaster assistance only: (a) at the direction of the President; or
 

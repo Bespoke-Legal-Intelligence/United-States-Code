@@ -188,7 +188,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (4) S termination year
 
-&emsp;For purposes of this subsection, the term "S termination year" means any taxable year of a corporation (determined without regard to this subsection) in which a termination of anelection made under subsection (a) takes effect (other than on the 1st day thereof).
+&emsp;For purposes of this subsection, the term "S termination year" means any taxable year of a corporation (determined without regard to this subsection) in which a termination of an election made under subsection (a) takes effect (other than on the 1st day thereof).
 
 #### (5) Tax for C short year determined on annualized basis
 
@@ -240,7 +240,7 @@ If—
 
 &emsp;(4) the corporation for which the election was made or the termination occurred, and each person who was a shareholder in such corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of such corporation as an S corporation or a qualified subchapter S subsidiary, as the case may be) as may be required by the Secretary with respect to such period,
 
-> then, notwithstanding the circumstances resulting in such ineffectiveness or termination, such corporation shall be treated as an S corporation or a qualified subchapter S subsidiary, as the case may be, during the period specified by the Secretary.
+> then, notwithstanding the circumstances resulting in such ineffectiveness or termination, suchcorporation shall be treated as an S corporation or a qualified subchapter S subsidiary, as the case may be, during the period specified by the Secretary.
 
 #### (g) Election after termination
 
@@ -260,7 +260,7 @@ Subsec. (f). Pub. L. 115–141, §401(a)(191), substituted "may be, during" for 
 
 &emsp;"(II) the corporation was an S corporation for such taxable year."
 
-<b>2007</b>—Subsec. (d)(3)(B) to (F). Pub. L. 110–28 added subpars. (B) and (C) and struck out former subpar. (B),which related to gross receipts from dispositions of capital assets (other than stock and securities) being taken into account only to the extent of the capital gain net income therefrom, subpar. (C), which defined passive investment income, subpar. (D), which provided that, in the case of any options dealer or commodities dealer, passive investment income was to be determined by not taking into account any gain or loss from any section 1256 contract or property related to such a contract, subpar. (E), which related to certain dividends not being treated as passive investment income if an S corporation held stock in a C corporation meeting the requirements of section 1504(a)(2), and subpar. (F), which related to the exception from passive investment income for banks and depository institution holding companies.
+<b>2007</b>—Subsec. (d)(3)(B) to (F). Pub. L. 110–28 added subpars. (B) and (C) and struck out former subpar. (B), which related to gross receipts from dispositions of capital assets (other than stock and securities) being taken into account only to the extent of the capital gain net income therefrom, subpar. (C), which defined passive investment income, subpar. (D), which provided that, in the case of any options dealer or commodities dealer, passive investment income was to be determined by not taking into account any gain or loss from any section 1256 contract or property related to such a contract, subpar. (E), which related to certain dividends not being treated as passive investment income if an S corporation held stock in a C corporation meeting the requirements of section 1504(a)(2), and subpar. (F), which related to the exception from passive investment income for banks and depository institution holding companies.
 
 Subsec. (f)(1). Pub. L. 110–172 substituted "or section 1361(b)(3)(B)(ii)" for ", section 1361(b)(3)(B)(ii), or section 1361(c)(1)(A)(ii)" in introductory provisions and "or section 1361(b)(3)(C)" for ", section 1361(b)(3)(C), or section 1361(c)(1)(D)(iii)" in subpar. (B).
 
@@ -354,7 +354,7 @@ Pub. L. 108–357, title II, §231(c)(2), Oct. 22, 2004, 118 Stat. 1434, provide
 
 Pub. L. 108–357, title II, §237(b), Oct. 22, 2004, 118 Stat. 1436, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004."
 
-Pub. L. 108–357, title II, §238(b), Oct. 22, 2004, 118 Stat. 1436, provided that: "The amendments made by thissection \[amending this section\] shall apply to elections made and terminations made after December 31, 2004."
+Pub. L. 108–357, title II, §238(b), Oct. 22, 2004, 118 Stat. 1436, provided that: "The amendments made by this section \[amending this section\] shall apply to elections made and terminations made after December 31, 2004."
 
 #### Effective Date of 1999 Amendment
 

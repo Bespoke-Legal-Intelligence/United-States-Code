@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator shall offer to enter into agreements with eligible States to makecapitalization grants, including letters of credit, to the States under this subsection to further the health protection objectives of this subchapter, promote the efficient use of fund resources, and for other purposes as are specified in this subchapter.
+&emsp;&emsp;The Administrator shall offer to enter into agreements with eligible States to make capitalization grants, including letters of credit, to the States under this subsection to further the health protection objectives of this subchapter, promote the efficient use of fund resources, and for other purposes as are specified in this subchapter.
 
 #### (B) Establishment of fund
 
@@ -40,7 +40,7 @@
 
 #### (ii) Operator certification
 
-&emsp;&emsp;&emsp;The Administrator shall withhold 20 percent of each capitalization grant made pursuant to this section unless the State has met the requirements of 300g–8 <sup>1</sup> of this title (relating to operator certification). All funds withheld by the Administrator pursuant to this clause shall be reallotted by the Administrator on the basis of the same ratio as applicable to funds allottedunder subparagraph (D). None of the funds reallotted by the Administrator pursuant to this paragraph shall be allotted to a State unless the State has met the requirements of section 300g–8 of this title (relating to operator certification).
+&emsp;&emsp;&emsp;The Administrator shall withhold 20 percent of each capitalization grant made pursuant to this section unless the State has met the requirements of 300g–8 <sup>1</sup> of this title (relating to operator certification). All funds withheld by the Administrator pursuant to this clause shall be reallotted by the Administrator on the basis of the same ratio as applicable to funds allotted under subparagraph (D). None of the funds reallotted by the Administrator pursuant to this paragraph shall be allotted to a State unless the State has met the requirements of section 300g–8 of this title (relating to operator certification).
 
 #### (2) Use of funds
 
@@ -50,7 +50,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;Financial assistance under this section may be used by a public water system only for expenditures (including expenditures for planning, design, siting, and associated preconstruction activities, or for replacing or rehabilitating aging treatment, storage, or distribution facilities of public water systems, but not including monitoring, operation, and maintenance expenditures) of a type or category which the Administrator has determined, through guidance, will facilitate compliance with national primary drinking water regulations applicable to the system under section 300g–1 of this title or otherwise significantly further the health protection objectives of this subchapter.
+&emsp;&emsp;Financial assistance under this section may be used by a public water system only for expenditures (including expenditures for planning, design, siting, and associated preconstruction activities, or for replacing or rehabilitating aging treatment, storage, ordistribution facilities of public water systems, but not including monitoring, operation, and maintenance expenditures) of a type or category which the Administrator has determined, through guidance, will facilitate compliance with national primary drinking water regulations applicable to the system under section 300g–1 of this title or otherwise significantly further the health protection objectives of this subchapter.
 
 #### (C) Sale of bonds
 
@@ -67,6 +67,30 @@
 #### (F) Loan assistance
 
 &emsp;&emsp;Of the amount credited to any State loan fund established under this section in any fiscal year, 15 percent shall be available solely for providing loan assistance to public water systems which regularly serve fewer than 10,000 persons to the extent such funds can be obligated for eligible projects of public water systems.
+
+#### (G) Emerging contaminants
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding any other provision of law and subject to clause (ii), amounts deposited under subsection (t) in a State loan fund established under this section may only be used to provide grants for the purpose of addressing emerging contaminants, with a focus on perfluoroalkyl and polyfluoroalkyl substances.
+
+#### (ii) Requirements
+
+#### (I) Small and disadvantaged communities
+
+&emsp;&emsp;&emsp;&emsp;Not less than 25 percent of the amounts described in clause (i) shall be used to provide grants to—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) disadvantaged communities (as defined in subsection (d)(3)); or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) public water systems serving fewer than 25,000 persons.
+
+#### (II) Priorities
+
+&emsp;&emsp;&emsp;&emsp;In selecting the recipient of a grant using amounts described in clause (i), a State shall use the priorities described in subsection (b)(3)(A).
+
+#### (iii) No increased bonding authority
+
+&emsp;&emsp;&emsp;The amounts deposited in the State loan fund of a State under subsection (t) may not be used as a source of payment of, or security for (directly or indirectly), in whole or in part, any obligation the interest on which is exempt from the tax imposed under chapter 1 of the Internal Revenue Code of 1986.
 
 #### (3) Limitation
 
@@ -206,7 +230,7 @@ Each State loan fund under this section shall be established, maintained, and cr
 
 #### (e) State contribution
 
-Each agreement under subsection (a) shall require that the State deposit in the State loanfund from State moneys an amount equal to at least 20 percent of the total amount of the grant to be made to the State on or before the date on which the grant payment is made to the State, except that a State shall not be required to deposit such amount into the fund prior to the date on which each grant payment is made for fiscal years 1994, 1995, 1996, and 1997 if the State deposits the State contribution amount into the State loan fund prior to September 30, 1999.
+Each agreement under subsection (a) shall require that the State deposit in the State loan fund from State moneys an amount equal to at least 20 percent of the total amount of the grant to be made to the State on or before the date on which the grant payment is made to the State, except that a State shall not be required to deposit such amount into the fund prior to the date on which each grant payment is made for fiscal years 1994, 1995, 1996, and 1997 if the State deposits the State contribution amount into the State loan fund prior to September 30, 1999.
 
 #### (f) Types of assistance
 
@@ -348,7 +372,7 @@ Except as otherwise limited by State law, the amounts deposited into a State loa
 
 #### (j) Other areas
 
-Of the funds annually available under this section for grants to States, the Administrator shall make allotments in accordance with section 300j–2(a)(4) of this title for the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam. Thegrants allotted as provided in this subsection may be provided by the Administrator to the governments of such areas, to public water systems in such areas, or to both, to be used for the public water system expenditures referred to in subsection (a)(2). The grants, and grants for the District of Columbia, shall not be deposited in State loan funds. The total allotment of grants under this section for all areas described in this subsection in any fiscal year shall not exceed 0.33 percent of the aggregate amount made available to carry out this section in that fiscal year.
+Of the funds annually available under this section for grants to States, the Administrator shall make allotments in accordance with section 300j–2(a)(4) of this title for the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam. The grants allotted as provided in this subsection may be provided by the Administrator to the governments of such areas, to public water systems in such areas, or to both, to be used for the public water system expenditures referred to in subsection (a)(2). The grants, and grants for the District of Columbia, shall not be deposited in State loan funds. The total allotment of grants under this section for all areas described in this subsection in any fiscal year shall not exceed 0.33 percent of the aggregate amount made available to carry out this section in that fiscal year.
 
 #### (k) Other authorized activities
 
@@ -394,7 +418,7 @@ The failure or inability of any public water system to receive funds under this 
 
 #### (m) Authorization of appropriations
 
-(1) There are authorized to be appropriated to carry out the purposes of this section—
+(1) There are authorized to be appropriated to carry out the purposes of this section, except for subsections (a)(2)(G) and (t)—
 
 &emsp;(A) $1,174,000,000 for fiscal year 2019;
 
@@ -406,7 +430,7 @@ The failure or inability of any public water system to receive funds under this 
 
 #### (n) Health effects studies
 
-From funds appropriated pursuant to this section for each fiscal year, the Administrator shall reserve $10,000,000 for health effects studies on drinking water contaminants authorized by the Safe Drinking Water Act Amendments of 1996. In allocating funds made available under this subsection, the Administrator shall give priority to studies concerning the health effects of cryptosporidium (as authorized by section 300j–18(c) of this title), disinfection byproducts (as authorized by section 300j–18(c) of this title), and arsenic (as authorized by section 300g–1(b)(12)(A) of this title), and the implementation of a plan for studies of subpopulations at greater risk of adverse effects (as authorized by section 300j–18(a) of this title).
+From funds appropriated pursuant to this section for each fiscal year, the Administrator shall reserve $10,000,000 for health effects studies on drinking water contaminants authorized by the Safe Drinking Water Act Amendments of 1996. In allocating funds made available under this subsection, the Administrator shall give priority to studies concerning the health effects of cryptosporidium (as authorized by section 300j–18(c) of this title), disinfection byproducts (as authorized by section 300j–18(c) of this title),and arsenic (as authorized by section 300g–1(b)(12)(A) of this title), and the implementation of a plan for studies of subpopulations at greater risk of adverse effects (as authorized by section 300j–18(a) of this title).
 
 #### (o) Monitoring for unregulated contaminants
 
@@ -452,15 +476,33 @@ The Administrator shall—
 
 &emsp;(3) periodically update such best practices, as appropriate.
 
-(July 1, 1944, ch. 373, title XIV, §1452, as added Pub. L. 104–182, title I, §130, Aug. 6, 1996, 110 Stat. 1662; amended Pub. L. 114–322, title II, §§2102, 2103, 2110, 2112(b), 2113, Dec. 16, 2016, 130 Stat. 1717, 1729, 1730; Pub. L. 115–270, title II, §§2002, 2015, 2022, 2023, Oct. 23, 2018, 132 Stat. 3840, 3854, 3862.)
+#### (t) Emerging contaminants
+
+#### (1) In general
+
+&emsp;Amounts made available under this subsection shall be allotted to a State as if allotted under subsection (a)(1)(D) as a capitalization grant, for deposit into the State loan fund of the State, for the purposes described in subsection (a)(2)(G).
+
+#### (2) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection $100,000,000 for each of fiscal years 2020 through 2024, to remain available until expended.
+
+(July 1, 1944, ch. 373, title XIV, §1452, as added Pub. L. 104–182, title I, §130, Aug. 6, 1996, 110 Stat. 1662; amended Pub. L. 114–322, title II, §§2102, 2103, 2110, 2112(b), 2113, Dec. 16, 2016, 130 Stat. 1717, 1729, 1730; Pub. L. 115–270, title II, §§2002, 2015, 2022, 2023, Oct. 23, 2018, 132 Stat. 3840, 3854, 3862; Pub. L. 116–92, div. F, title LXXIII, §7312, Dec. 20, 2019, 133 Stat. 2277.)
 
 #### References in Text
+
+The Internal Revenue Code of 1986, referred to in subsec. (a)(2)(G)(iii), is classified generally to Title 26, Internal Revenue Code.
 
 The Safe Drinking Water Act Amendments of 1996, referred to in subsec. (n), is Pub. L. 104–182, Aug. 6, 1996, 110 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 201 of this title and Tables.
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–270, §2015(a), substituted "(including expenditures for planning, design, siting, and associated preconstruction activities, or for replacing or rehabilitating aging treatment, storage, or distribution facilities of public water systems, but not" for "(including expenditures for planning, design, and associated preconstruction activities, including activities relating to the siting of the facility, but not".
+<b>2019</b>—Subsec. (a)(2)(G). Pub. L. 116–92, §7312(1), added subpar. (G).
+
+Subsec. (m)(1). Pub. L. 116–92, §7312(2), substituted "this section, except for subsections (a)(2)(G) and (t)" for "this section" in introductory provisions.
+
+Subsec. (t). Pub. L. 116–92, §7312(3), added subsec. (t).
+
+<b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–270, §2015(a), substituted "(including expenditures for planning, design,siting, and associated preconstruction activities, or for replacing or rehabilitating aging treatment, storage, or distribution facilities of public water systems, but not" for "(including expenditures for planning, design, and associated preconstruction activities, including activities relating to the siting of the facility, but not".
 
 Subsec. (a)(4)(A). Pub. L. 115–270, §2022, substituted "fiscal years 2019 through 2023" for "fiscal year 2017".
 
@@ -478,7 +520,7 @@ Subsec. (f)(1)(C) to (E). Pub. L. 115–270, §2015(d)(1), (2), added subpar. (C
 
 Subsec. (h). Pub. L. 115–270, §2015(e), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (k)(1)(C). Pub. L. 115–270, §2015(f), substituted "to delineate, assess, and update assessments for source water protection areas in accordance with section 300j–13 of this title" for "for fiscal years 1996 and1997 to delineate and assess source water protection areas in accordance with section 300j–13 of this title".
+Subsec. (k)(1)(C). Pub. L. 115–270, §2015(f), substituted "to delineate, assess, and update assessments for source water protection areas in accordance with section 300j–13 of this title" for "for fiscal years 1996 and 1997 to delineate and assess source water protection areas in accordance with section 300j–13 of this title".
 
 Subsec. (k)(1)(D). Pub. L. 115–270, §2002(1), inserted "and for the implementation of efforts (other than actions authorized under subparagraph (A)) to protect source water in areas delineated pursuant to section 300j–13 of this title" before period at end.
 

@@ -1,0 +1,78 @@
+### §1731. Critical acquisition positions
+
+(a)
+
+Designation of Critical Acquisition Positions.—(1) The Secretary of Defense shall designate the acquisition positions in the Department of Defense that are critical acquisition positions. Such positions shall include the following:
+
+&emsp;(A) Any acquisition position which—
+
+&emsp;&emsp;(i) in the case of employees, is required to be filled by an employee in a senior position in the National Security Personnel System, as determined in accordance with guidelines prescribed by the Secretary, or in the Senior Executive Service; or
+
+&emsp;&emsp;(ii) in the case of members of the armed forces, is required to be filled by a commissioned officer of the Army, Navy, Air Force, or Marine Corps who is serving in the grade of lieutenant colonel, or, in the case of the Navy, commander, or a higher grade.
+
+&emsp;(B) Other selected acquisition positions not covered by subparagraph (A), including the following:
+
+&emsp;&emsp;(i) Program executive officer.
+
+&emsp;&emsp;(ii) Program manager of a major defense acquisition program (as defined in section 2430 of this title) or of a significant nonmajor defense acquisition program (as defined in section 1737(a)(3) of this title).
+
+&emsp;&emsp;(iii) Deputy program manager of a major defense acquisition program.
+
+&emsp;(C) Any other acquisition position of significant responsibility in which the primary duties are supervisory or management duties.
+
+(2) The Secretary shall periodically publish a list of the positions designated under this subsection.
+
+(b)
+
+Promotion Rate for Officers in the Acquisition Workforce.—The Secretary of Defense shall ensure that the qualifications of commissioned officers in the acquisition workforce are such that those officers are expected, as a group, to be promoted at a rate not less than the rate for all line (or the equivalent) officers of the same armed force (both in the zone and below the zone) in the same grade.
+
+(c)
+
+Mobility Statements.—(1) The Secretary of Defense is authorized to require civilians in critical acquisition positions to sign mobility statements.
+
+(2) The Secretary of Defense shall identify which categories of civilians in critical acquisition positions, as a condition of employment, shall be required to sign mobility statements. The Secretary shall make available published information on such identification of categories.
+
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646, §1733; amended Pub. L. 102–484, div. A, title X, §1052(22), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–89, §3(b)(3)(C), Sept. 30, 1993, 107 Stat. 983; Pub. L. 104–201, div. A, title X, §1074(a)(9)(C), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 108–136, div. A, title VIII, §833(2), Nov. 24, 2003, 117 Stat. 1550; Pub. L. 108–375, div. A, title VIII, §812(a)(2), Oct. 28, 2004, 118 Stat. 2013; renumbered §1731 and amended Pub. L. 116–92, div. A, title VIII, §861(j)(2)–(4), (6)(A), Dec. 20, 2019, 133 Stat. 1519.)
+
+#### Codification
+
+The text of former section 1731(b) of this title, which was transferred to section 1733(b) of this title and then to subsec. (b) of this section by Pub. L. 116–92, §861(j)(3), (6)(A), was based on Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1644; Pub. L. 108–136, div. A, title VIII, §833(1)(B), Nov. 24, 2003, 117 Stat. 1550.
+
+The text of section 1732(e) of this title, which was transferred to section 1733(c) of this title and then to subsec. (c) of this section by Pub. L. 116–92, §861(j)(4), (6)(A), was based on Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1644; Pub. L. 108–136, div. A, title VIII, §833(2), Nov. 24, 2003, 117 Stat. 1550.
+
+#### Prior Provisions
+
+A prior section 1731, added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L. 108–136, div. A, title VIII, §§832(b)(1), 833(1), Nov. 24, 2003, 117 Stat. 1550; Pub. L. 116–92, div. A, title VIII, §861(j)(3), Dec. 20, 2019, 133 Stat. 1519, related to establishment of the Acquisition Corps, prior to repeal by Pub. L. 116–92, div. A, title VIII, §861(j)(5), Dec. 20, 2019, 133 Stat. 1519.
+
+#### Amendments
+
+<b>2019</b>—Pub. L. 116–92, §861(j)(6)(A), renumbered section 1733 of this title as this section.
+
+Subsec. (a). Pub. L. 116–92, §861(j)(2), in section 1733 of this title prior to renumbering as this section, redesignated subsec. (b) as (a) and struck out former subsec. (a). Prior to amendment, text of subsec. (a) of section 1733 read as follows: "A critical acquisition position may be filled only by a member of the Acquisition Corps."
+
+Subsec. (b). Pub. L. 116–92, §861(j)(3), prior to repeal of former section 1731, transferred subsec. (b) of that section to section 1733 of this title and substituted "the Acquisition Workforce" for "Acquisition Corps" in heading and "in the acquisition workforce" for "selected for the Acquisition Corps" in text. See Codification note above. Section 1733 was subsequently renumbered as this section.
+
+Subsec. (c). Pub. L. 116–92, §861(j)(4), prior to repeal of section 1732 of this title, transferred subsec. (e) of that section to section 1733 of this title, redesignated it as (c), and substituted "in critical acquisition positions" for "in the Acquisition Corps" in pars. (1) and (2) and "employment" for "serving in the Corps" in par. (2). See Codification note above. Section 1733 was subsequently renumbered as this section.
+
+<b>2004</b>—Subsec. (b)(1)(A)(i). Pub. L. 108–375 substituted "in a senior position in the National Security Personnel System, as determined in accordance with guidelines prescribed by the Secretary," for "in a position within grade GS–14 or above of the General Schedule,".
+
+<b>2003</b>—Subsec. (a). Pub. L. 108–136 substituted "the Acquisition Corps" for "an Acquisition Corps".
+
+<b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted "A critical" for "On and after October 1, 1993, a critical".
+
+<b>1993</b>—Subsec. (b)(1)(A)(i). Pub. L. 103–89 substituted "Schedule" for "Schedule (including an employee covered by chapter 54 of title 5)".
+
+<b>1992</b>—Subsec. (b)(1)(B)(ii). Pub. L. 102–484 substituted "1737(a)(3)" for "1736(a)(3)".
+
+#### Effective Date of 1993 Amendment
+
+Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as a note under section 3372 of Title 5, Government Organization and Employees.
+
+#### Effective Date for Requirement for Corps Members To Fill Critical Acquisition Positions
+
+Pub. L. 101–510, div. A, title XII, §1209(f), Nov. 5, 1990, 104 Stat. 1666, as amended by Pub. L. 102–25, title VII, §704(b)(3)(C), Apr. 6, 1991, 105 Stat. 119; Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that the Secretaries of the military departments were to make every effort to fill critical acquisition positions by Acquisition Corps members as soon as possible after Nov. 5, 1990, and that for each of the first three years after Nov. 5, 1990, the report of the Under Secretary of Defense for Acquisition and Technology to the Secretary of Defense under section 1762 of this title was to include the number of critical acquisition positions filled by Acquisition Corps members.
+
+#### Termination of Defense Acquisition Corps
+
+Pub. L. 116–92, div. A, title VIII, §861(j)(1), Dec. 20, 2019, 133 Stat. 1519, provided that: "The Acquisition Corps for the Department of Defense referred to in \[former\] section 1731(a) of title 10, United States Code, is terminated."
+

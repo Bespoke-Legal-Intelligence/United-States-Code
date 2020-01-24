@@ -62,7 +62,7 @@ A civil action may be brought—
 
 (6) If, within 30 days of a request by the Secretary to a plan administrator for documents under section 1024(a)(6) of this title, the plan administrator fails to furnish the material requested to the Secretary, the Secretary may assess a civil penalty against the plan administrator of up to $100 a day from the date of such failure (but in no event in excess of $1,000 per request). No penalty shall be imposed under this paragraph for any failure resulting from matters reasonably beyond the control of the plan administrator.
 
-(7) The Secretary may assess a civil penalty against a plan administrator of up to $100 a dayfrom the date of the plan administrator's failure or refusal to provide notice to participants and beneficiaries in accordance with subsection (i) or (m) of section 1021 of this title. For purposes of this paragraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
+(7) The Secretary may assess a civil penalty against a plan administrator of up to $100 a day from the date of the plan administrator's failure or refusal to provide notice to participants and beneficiaries in accordance with subsection (i) or (m) of section 1021 of this title. For purposesof this paragraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
 
 (8) The Secretary may assess against any plan sponsor of a multiemployer plan a civil penalty of not more than $1,100 per day—
 
@@ -150,7 +150,7 @@ Definitions.—Terms used in this paragraph which are defined in section 1191b o
 
 (11) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) <sup>2</sup> of title 42.
 
-(12) The Secretary may assess a civil penalty against any sponsor of a CSEC plan of up to $100a day from the date of the plan sponsor's failure to comply with the requirements of section 1085a(j)(3) of this title to establish or update a funding restoration plan.
+(12) The Secretary may assess a civil penalty against any sponsor of a CSEC plan of up to $100 a day from the date of the plan sponsor's failure to comply with the requirements of section1085a(j)(3) of this title to establish or update a funding restoration plan.
 
 #### (d) Status of employee benefit plan as entity
 
@@ -204,7 +204,7 @@ In all civil actions under this subchapter, attorneys appointed by the Secretary
 
 #### (k) Jurisdiction of actions against the Secretary of Labor
 
-Suits by an administrator, fiduciary, participant, or beneficiary of an employee benefit plan to review a final order of the Secretary, to restrain the Secretary from taking any actioncontrary to the provisions of this chapter, or to compel him to take action required under this subchapter, may be brought in the district court of the United States for the district where the plan has its principal office, or in the United States District Court for the District of Columbia.
+Suits by an administrator, fiduciary, participant, or beneficiary of an employee benefit plan to review a final order of the Secretary, to restrain the Secretary from taking any action contrary to the provisions of this chapter, or to compel him to take action required under thissubchapter, may be brought in the district court of the United States for the district where the plan has its principal office, or in the United States District Court for the District of Columbia.
 
 #### (l) Civil penalties on violations by fiduciaries
 
@@ -268,7 +268,7 @@ Subsec. (b)(3). Pub. L. 110–233, §101(e)(2), substituted "Except as provided 
 
 Subsec. (c)(2). Pub. L. 110–458, §102(b)(1)(H), substituted "1021(b)(1)" for "1021(b)(4)".
 
-Subsec. (c)(4). Pub. L. 110–458, §101(c)(1)(H), substituted "by any person of subsection (j), (k), or (l) of section 1021 of this title or section 1144(e)(3) of this title." for "by any person of subsection (j), (k), or (l) of section 1021 of this title, section 1082(b)(7)(F)(vi) of this title, or section 1144(e)(3) of this title."
+Subsec. (c)(4). Pub. L. 110–458, §101(c)(1)(H), substituted "by any person of subsection (j), (k), or (l) ofsection 1021 of this title or section 1144(e)(3) of this title." for "by any person of subsection (j), (k), or (l) of section 1021 of this title, section 1082(b)(7)(F)(vi) of this title, or section 1144(e)(3) of this title."
 
 Subsec. (c)(8)(A). Pub. L. 110–458, §102(b)(1)(I), inserted "plan" after "multiemployer".
 
@@ -444,7 +444,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Regulations
 
-Pub. L. 110–233, title I, §101(f)(1), May 21, 2008, 122 Stat. 888, provided that: "The Secretary of Labor shallissue final regulations not later than 12 months after the date of enactment of this Act \[May 21, 2008\] to carry out the amendments made by this section \[amending this section and sections 1182 and 1191b of this title\]."
+Pub. L. 110–233, title I, §101(f)(1), May 21, 2008, 122 Stat. 888, provided that: "The Secretary of Labor shall issue final regulations not later than 12 months after the date of enactment of this Act \[May 21, 2008\] tocarry out the amendments made by this section \[amending this section and sections 1182 and 1191b of this title\]."
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 

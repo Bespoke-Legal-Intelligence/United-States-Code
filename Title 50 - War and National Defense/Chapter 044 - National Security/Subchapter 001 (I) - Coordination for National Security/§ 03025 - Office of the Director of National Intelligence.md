@@ -6,7 +6,7 @@ There is an Office of the Director of National Intelligence.
 
 #### (b) Function
 
-The function of the Office of the Director of National Intelligence is to assist the Director ofNational Intelligence in carrying out the duties and responsibilities of the Director under this Act and other applicable provisions of law, and to carry out such other duties as may be prescribed by the President or by law.
+The function of the Office of the Director of National Intelligence is to assist the Director of National Intelligence in carrying out the duties and responsibilities of the Director under this Act and other applicable provisions of law, and to carry out such other duties as may be prescribed by the President or by law.
 
 #### (c) Composition
 
@@ -76,7 +76,7 @@ Section was formerly classified to section 403–3 of this title prior to editor
 
 A prior section 103 of act July 26, 1947, ch. 343, title I, as added Pub. L. 102–496, title VII, §705(a)(3), Oct. 24, 1992, 106 Stat. 3190; amended Pub. L. 103–178, title V, §502, Dec. 3, 1993, 107 Stat. 2038; Pub. L. 104–293, title VIII, §§806, 807(a), Oct. 11, 1996, 110 Stat. 3479, 3480; Pub. L. 107–56, title IX, §901, Oct. 26, 2001, 115 Stat. 387, related to responsibilities of Director of Central Intelligence, prior to repeal by Pub. L. 108–458, title I, §§1011(a), 1097(a), Dec. 17, 2004, 118 Stat. 3643, 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See sections 3024 and 3036 of this title.
 
-Another prior section 103 of act July 26, 1947, was renumbered section 107 and is classified to section 3042 of this title.
+Another prior section 103 of act July 26, 1947, was renumbered section 107 and is classified to former section 3042 of this title.
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Subsec. (e). Pub. L. 111–259, §403, amended subsec. (e) generally. Prior to a
 
 #### Effective Date
 
-For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President ofthe United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
+For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 

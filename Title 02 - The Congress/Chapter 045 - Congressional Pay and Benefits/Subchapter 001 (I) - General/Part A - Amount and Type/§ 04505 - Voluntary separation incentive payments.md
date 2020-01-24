@@ -46,7 +46,7 @@ A voluntary separation incentive payment made under this section—
 
 #### (3) Applicable committee
 
-&emsp;For purposes of this subsection, the "applicable committee" with respect to an office means any committee of the House of Representatives or Senate with jurisdiction over the activities of the office under the applicable rules of the House of Representatives and the Senate (as determined by the head of the office), but does not include the Committees on Appropriations of the House of Representatives and the Senate.
+&emsp;For purposes of this subsection, the "applicable committee" with respect to an officemeans any committee of the House of Representatives or Senate with jurisdiction over the activities of the office under the applicable rules of the House of Representatives and the Senate (as determined by the head of the office), but does not include the Committees on Appropriations of the House of Representatives and the Senate.
 
 #### (d) Repealed. Pub. L. 112–74, div. G, title I, §1401(a)(1), Dec. 23, 2011, 125 Stat. 1134
 

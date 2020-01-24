@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsection (b), no State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food in interstate commerce—
 
-&emsp;(1) any requirement for a food which is the subject of a standard of identity established under section 341 of this title that is not identical to such standard of identity or that is not identical to the requirement of section 343(g) of this title, except that this paragraph does not apply to a standard of identity of a State or political subdivision of a State formaple syrup that is of the type required by sections 341 and 343(g) of this title,
+&emsp;(1) any requirement for a food which is the subject of a standard of identity established under section 341 of this title that is not identical to such standard of identity or that is not identical to the requirement of section 343(g) of this title, except that this paragraph does not apply to a standard of identity of aState or political subdivision of a State for maple syrup that is of the type required by sections 341 and 343(g) of this title,
 
 &emsp;(2) any requirement for the labeling of food of the type required by section 343(c), 343(e), 343(i)(2), 343(w), or 343(x) of this title that is not identical to the requirement of such section, except that this paragraph does not apply to a requirement of a State or political subdivision of a State that is of the type required by section 343(c) of this title and that is applicable to maple syrup,
 

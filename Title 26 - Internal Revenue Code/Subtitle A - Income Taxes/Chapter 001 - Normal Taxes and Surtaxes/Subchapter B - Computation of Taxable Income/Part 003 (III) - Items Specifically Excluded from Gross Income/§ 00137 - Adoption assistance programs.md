@@ -8,7 +8,7 @@
 
 #### (2) $10,000 exclusion for adoption of child with special needs regardless of expenses
 
-&emsp;In the case of an adoption of a child with special needs which becomes final during ataxable year, the qualified adoption expenses with respect to such adoption for such year shall be increased by an amount equal to the excess (if any) of $10,000 over the actual aggregate qualified adoption expenses with respect to such adoption during such taxable year and all prior taxable years.
+&emsp;In the case of an adoption of a child with special needs which becomes final during a taxable year, the qualified adoption expenses with respect to such adoption for such year shall be increased by an amount equal to the excess (if any) of $10,000 over the actual aggregate qualified adoption expenses with respect to such adoption during such taxable year and all prior taxable years.
 
 #### (b) Limitations
 
@@ -132,7 +132,7 @@ Subsec. (f). Pub. L. 107–16, §202(d)(2), (e)(2), added subsec. (f) and struck
 
 Amendment by section 11002(d)(1)(N) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
-Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017,except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 #### Effective and Termination Dates of 2010 Amendment
 

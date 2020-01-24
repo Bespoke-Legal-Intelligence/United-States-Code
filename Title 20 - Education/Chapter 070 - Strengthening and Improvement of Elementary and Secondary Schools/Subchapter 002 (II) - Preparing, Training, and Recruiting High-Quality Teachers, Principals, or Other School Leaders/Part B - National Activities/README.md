@@ -10,3 +10,4 @@ Part B—National Activities
 - [Subpart 002 - Literacy Education for All, Results for the Nation](Subpart%20002%20-%20Literacy%20Education%20for%20All%2C%20Results%20for%20the%20Nation/README.md)
 - [Subpart 003 - American History and Civics Education](Subpart%20003%20-%20American%20History%20and%20Civics%20Education/README.md)
 - [Subpart 004 - Programs of National Significance](Subpart%20004%20-%20Programs%20of%20National%20Significance/README.md)
+- [Subpart 005 - Recognizing Achievement in Classified School Employees](Subpart%20005%20-%20Recognizing%20Achievement%20in%20Classified%20School%20Employees/README.md)

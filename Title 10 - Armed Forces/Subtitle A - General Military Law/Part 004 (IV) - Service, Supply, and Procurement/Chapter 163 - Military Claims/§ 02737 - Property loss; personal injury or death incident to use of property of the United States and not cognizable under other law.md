@@ -8,7 +8,7 @@
 
 > caused by a civilian official or employee of a military department or the Coast Guard, or a member of the armed forces, incident to the use of a vehicle of the United States at any place, or any other property of the United States on a Government installation.
 
-(b) Under such regulations as the Secretary of Defense may prescribe, he or his designee has the same authority as the Secretary of a military department with respect to a claim, not cognizable under any other provision of law, for—
+(b) Under such regulations as the Secretary of Defense may prescribe, he or his designee hasthe same authority as the Secretary of a military department with respect to a claim, not cognizable under any other provision of law, for—
 
 &emsp;(1) damage to, or loss of, property; or
 

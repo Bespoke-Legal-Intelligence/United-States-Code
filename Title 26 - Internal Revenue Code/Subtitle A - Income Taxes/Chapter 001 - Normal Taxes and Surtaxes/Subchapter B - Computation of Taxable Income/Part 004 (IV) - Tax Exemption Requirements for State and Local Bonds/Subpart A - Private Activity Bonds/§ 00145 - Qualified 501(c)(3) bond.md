@@ -10,7 +10,7 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 &emsp;&emsp;(A) 501(c)(3) organizations were treated as governmental units with respect to their activities which do not constitute unrelated trades or businesses, determined by applying section 513(a), and
 
-&emsp;&emsp;(B) paragraphs (1) and (2) of section 141(b) were applied by substituting "5 percent" for"10 percent" each place it appears and by substituting "net proceeds" for "proceeds" each place it appears.
+&emsp;&emsp;(B) paragraphs (1) and (2) of section 141(b) were applied by substituting "5 percent" for "10 percent" each place it appears and by substituting "net proceeds" for "proceeds" each place it appears.
 
 #### (b) $150,000,000 limitation on bonds other than hospital bonds
 
@@ -38,7 +38,7 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 &emsp;&emsp;&emsp;&emsp;(I) such bond would have been an industrial development bond (as defined in section 103(b)(2), as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) if 501(c)(3) organizations were not exempt persons, and
 
-&emsp;&emsp;&emsp;&emsp;(II) such bond was not described in paragraph (4), (5), or (6) of such section 103(b) (as in effect on the date such bond was issued).
+&emsp;&emsp;&emsp;&emsp;(II) such bond was not described in paragraph (4), (5), or (6) of such section103(b) (as in effect on the date such bond was issued).
 
 #### (C) Only nonhospital portion of bonds taken into account
 
@@ -136,7 +136,7 @@ This section shall not apply to an issue if—
 
 #### References in Text
 
-The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (b)(2)(B)(ii)(I), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
+The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (b)(2)(B)(ii)(I), is the date ofenactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 The date of the enactment of this paragraph, referred to in subsec. (b)(5), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
 

@@ -40,7 +40,7 @@
 
 #### (3) Waiver
 
-&emsp;The Secretary may waive the limitation established by paragraph (1) with respect to apayment pursuant to a covered benefit described in paragraph (2)(C), on a case-by-case basis, if the Secretary determines that environmentally sensitive land of special significance would be protected as a result of such waiver.
+&emsp;The Secretary may waive the limitation established by paragraph (1) with respect to a payment pursuant to a covered benefit described in paragraph (2)(C), on a case-by-case basis, if the Secretary determines that environmentally sensitive land of special significance would be protected as a result of such waiver.
 
 #### (c) Enforcement
 
@@ -106,7 +106,7 @@ Subsec. (b). Pub. L. 113–79, §1605(a), substituted "Limitations on commodity 
 
 Subsec. (c). Pub. L. 113–79, §1605(c), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to income determination.
 
-Subsec. (c)(1). Pub. L. 113–79, §1605(d)(3)(A), struck out ", average adjusted gross farm income, and averageadjusted gross nonfarm income" after "average adjusted gross income" in subpars. (A) and (B).
+Subsec. (c)(1). Pub. L. 113–79, §1605(d)(3)(A), struck out ", average adjusted gross farm income, and average adjusted gross nonfarm income" after "average adjusted gross income" in subpars. (A) and (B).
 
 Subsec. (c)(2). Pub. L. 113–79, §1605(d)(3)(B), substituted "subsection (b)(2)" for "paragraphs (1)(C) and (2)(B) of subsection (b)".
 

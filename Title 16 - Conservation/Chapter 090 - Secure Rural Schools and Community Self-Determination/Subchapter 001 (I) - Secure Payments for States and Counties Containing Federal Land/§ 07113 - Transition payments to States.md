@@ -16,7 +16,7 @@ In this section:
 
 &emsp;&emsp;(B) for fiscal year 2009, 81 percent of—
 
-&emsp;&emsp;&emsp;(i) the sum of the amounts paid for fiscal year 2006 under section 102(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the covered State that have elected under section 7112(b) of this title to receive a share of the State payment for fiscal year 2009; and
+&emsp;&emsp;&emsp;(i) the sum of the amounts paid for fiscal year 2006 under section 102(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligiblecounties in the covered State that have elected under section 7112(b) of this title to receive a share of the State payment for fiscal year 2009; and
 
 &emsp;&emsp;&emsp;(ii) the sum of the amounts paid for fiscal year 2006 under section 103(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the State of Oregon that have elected under section 7112(b) of this title to receive the county payment for fiscal year 2009; and
 
@@ -44,13 +44,13 @@ The following payments shall be distributed among the eligible counties in the S
 
 &emsp;(1) Payments to the State of California under subsection (b).
 
-&emsp;(2) The shares of the eligible counties of the State payment for California under section 7112 of this title for each of fiscal years 2011 through and <sup>2</sup> for fiscal years 2017 and 2018.
+&emsp;(2) The shares of the eligible counties of the State payment for California under section 7112 of this title for each of fiscal years 2011 through 2015 and for each of fiscal years 2017 through 2020.
 
 #### (e) Treatment of payments
 
 For purposes of this chapter, any payment made under subsection (b) shall be considered to be a payment made under section 7112(a) of this title.
 
-(Pub. L. 106–393, title I, §103, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3899; amended Pub. L. 112–141, div. F, title I, §100101(a)(4), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, §10(a)(1)(C), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, §524(a)(4), Apr. 16, 2015, 129 Stat. 179; Pub. L. 115–141, div. O, title IV, §401(a)(3)(E), Mar. 23, 2018, 132 Stat. 1078.)
+(Pub. L. 106–393, title I, §103, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3899; amended Pub. L. 112–141, div. F, title I, §100101(a)(4), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, §10(a)(1)(C), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, §524(a)(4), Apr. 16, 2015, 129 Stat. 179; Pub. L. 115–141, div. O, title IV, §401(a)(3)(E), Mar. 23, 2018, 132 Stat. 1078; Pub. L. 116–94, div. I, title III, §301(a)(2)(C), Dec. 20, 2019, 133 Stat. 3020.)
 
 #### References in Text
 
@@ -64,6 +64,8 @@ A prior section 103 of Pub. L. 106–393 was set out in a note under section 500
 
 #### Amendments
 
+<b>2019</b>—Subsec. (d)(2). Pub. L. 116–94 substituted "through 2015 and for each of fiscal years 2017 through 2020" for "through and for fiscal years 2017 and 2018".
+
 <b>2018</b>—Subsec. (d)(2). Pub. L. 115–141 substituted "and for fiscal years 2017 and 2018" for "2015".
 
 <b>2015</b>—Subsec. (d)(2). Pub. L. 114–10 substituted "2015" for "2013".
@@ -73,6 +75,4 @@ A prior section 103 of Pub. L. 106–393 was set out in a note under section 500
 <b>2012</b>—Subsec. (d)(2). Pub. L. 112–141 substituted "each of fiscal years 2011 and 2012" for "fiscal year 2011".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

@@ -1,6 +1,6 @@
 ### §651. Members: required service
 
-(a) Each person who becomes a member of an armed force, other than a person deferred under the next to the last sentence of section 6(d)(1) of the Military Selective Service Act (50 U.S.C. 3806(d)(1)) <sup>1</sup> in the armed forces for a total initial period of not less than six years nor more than eight years, as provided in regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as service in the Navy, unless such person is sooner discharged under such regulations because of personal hardship. Any part of such service that is not active duty or that is active duty for training shall be performed in a reserve component.
+(a) Each person who becomes a member of an armed force, other than a person deferred under the next to the last sentence of section 6(d)(1) of the Military Selective Service Act (50 U.S.C. 3806(d)(1)) <sup>1</sup> shall serve in the armed forces for a total initial period of not less than six years nor more than eight years, as provided in regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as service in the Navy, unless such person is sooner discharged under such regulations because of personal hardship. Any part of such service that is not active duty or that is active duty for training shall be performed in a reserve component.
 
 (b) Each person covered by subsection (a) who is not a Reserve, and who is qualified, shall, upon his release from active duty, be transferred to a reserve component of his armed force to complete the service required by subsection (a).
 
@@ -12,7 +12,7 @@
 
 &emsp;(B) in the case of an officer who has accepted an accession bonus or executed a contract or agreement for the multiyear receipt of special pay for service in the armed forces, the period of obligated service specified in such contract or agreement.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 27; Pub. L. 85–861, §§1(12), 36B(3), Sept. 2, 1958, 72 Stat. 1440, 1570; Pub. L. 89–718, §5, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 95–79, title VIII, §803(a), July 30, 1977, 91 Stat. 333; Pub. L. 96–107, title VIII, §805(b), Nov. 9, 1979, 93 Stat. 813; Pub. L. 96–513, title V, §511(18), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–94, title X, §1022(b)(1), Sept. 24, 1983, 97 Stat. 670; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title V, §505, Jan. 28, 2008, 122 Stat. 96; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(iv), Dec. 23, 2016, 130 Stat. 2418.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 27; Pub. L. 85–861, §§1(12), 36B(3), Sept. 2, 1958, 72 Stat. 1440, 1570; Pub. L. 89–718, §5, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 95–79, title VIII, §803(a), July 30, 1977, 91 Stat. 333; Pub. L. 96–107, title VIII, §805(b), Nov. 9, 1979, 93 Stat. 813; Pub. L. 96–513, title V, §511(18), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–94, title X, §1022(b)(1), Sept. 24, 1983, 97 Stat. 670; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title V, §505, Jan. 28, 2008, 122 Stat. 96; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(iv), Dec. 23, 2016, 130 Stat. 2418; Pub. L. 116–92, div. A, title XVII, §1731(a)(19), Dec. 20, 2019, 133 Stat. 1813.)
 
 Historical and Revision Notes<br>1956
 
@@ -56,7 +56,7 @@ June 24, 1948, ch. 625, §4(d)(3) (less 4th sentence, and less applicability to 
 
 In subsection (a), the word "male" is inserted, since the source statute (Universal Military Training and Service Act (50 U.S.C. App. 451 et seq.)) applies only to male persons. The words "subsequent to the date of enactment of this paragraph \[June 19, 1951\]" are omitted as executed. The words "becomes a member" are substituted for the words "is inducted, enlisted, or appointed \* \* \* in". The words "in the armed forces" are substituted for the words "on active training and service in the Armed Forces \* \* \* and in a reserve component". The last sentence is substituted for the words "or in training in the National Security Training Corps". The words "under any provision of law" and "including the reserve components thereof" are omitted as surplusage.
 
-In subsection (b), the words "who is not a Reserve" are inserted, since the eight year obligation for Reserves is covered by subsection (a). The words "active duty" are substituted for the words "active training and service". The last eight words are substituted for the words "and shall serve therein for the remainder of the period which he is required to serve under this paragraph". The words "physically and mentally" and50 App.:454(d)(3) (last 15 words of 2d sentence) are omitted as surplusage.
+In subsection (b), the words "who is not a Reserve" are inserted, since the eight year obligation for Reserves is covered by subsection (a). The words "active duty" are substituted for the words "active training and service". The last eight words are substituted for the words "and shall serve therein for the remainder of the period which he is required to serve under this paragraph". The words "physically and mentally" and 50 App.:454(d)(3) (last 15 words of 2d sentence) are omitted as surplusage.
 
 In \[former\] subsection (c), the words "who is released from active duty" are inserted for clarity. The words "shall become a member" are substituted for the words "it shall be the duty of such person to enlist, enroll, or accept appointment in, or accept assignment to". The words "there is a vacancy" are substituted for the words "enlistment, enrollment, or appointment in, or assignment to". 50 App.:454(d)(3) (last sentence) is omitted as surplusage.
 
@@ -79,6 +79,8 @@ Aug. 9, 1955, ch. 665, §3(a) (last sentence), 69 Stat. 603.
 In subsection (a), the word "male" is inserted, since the source statute applies only to male persons. The words "subsequent to the date of enactment of the Reserve Forces Act of 1955" are omitted as executed. The words "becomes a member" are substituted for the words "is inducted, enlisted, or appointed . . . in". The last sentence is substituted for the words "on active training and service . . . and in a reserve component". The requirement of transfer to and service in a reserve component, after active training and service is covered by subsection (b) of this section. The words "under any provision of law" and "including the reserve components thereof" are omitted as surplusage.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–92 inserted "shall serve" before "in the armed forces".
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–328 substituted "(50 U.S.C. 3806(d)(1))" for "(50 U.S.C. App. 456(d)(1)) shall serve".
 
@@ -120,5 +122,5 @@ Amendment by Pub. L. 96–107 applicable to individuals who become members of an
 
 Pub. L. 95–79, title VIII, §803(b), July 30, 1977, 91 Stat. 333, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the seventh calendar month beginning after the month in which this Act is enacted \[July 1977\] and shall apply to any female person who becomes a member of an Armed Force on or after such day."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by ", shall serve".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

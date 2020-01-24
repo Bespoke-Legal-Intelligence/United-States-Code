@@ -38,7 +38,7 @@ Administrative Classification and Optional Deposit.—
 
 &emsp;&emsp;(C) the renewal application and fee are received not more than twenty-eight or less than twenty-seven years after the thirty-first day of December of the calendar year in which all of the works were first published; and
 
-&emsp;&emsp;(D) the renewal application identifies each work separately, including the periodical containing it and its date of first publication.
+&emsp;&emsp;(D) the renewal application identifies each work separately, including the periodicalcontaining it and its date of first publication.
 
 (d)
 

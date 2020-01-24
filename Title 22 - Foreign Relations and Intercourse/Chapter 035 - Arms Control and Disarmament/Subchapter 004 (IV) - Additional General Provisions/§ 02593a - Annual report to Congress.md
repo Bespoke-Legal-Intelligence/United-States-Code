@@ -126,9 +126,25 @@ Amendment by section 828(a) of Pub. L. 103–236 effective 60 days after Apr. 30
 
 For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
 
+#### United States Participation in Open Skies Treaty
+
+Pub. L. 116–92, div. A, title XII, §1234(a), (d), Dec. 20, 2019, 133 Stat. 1648, 1649, provided that:
+
+"(a)
+
+Notification Required.—Not later than 120 days before the provision of notice of intent to withdraw the United States from the Open Skies Treaty to either treaty depository pursuant to Article XV of the Treaty, the Secretary of Defense and the Secretary of State shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a notification that—
+
+&emsp;"(1) such withdrawal is in the best interests of the United States national security; and
+
+&emsp;"(2) the other state parties to the Treaty have been consulted with respect to such withdrawal.
+
+"(d)
+
+Definition of Open Skies Treaty; Treaty.—In this section \[enacting this note\], the term 'Open Skies Treaty' or 'Treaty' means the Treaty on Open Skies, done at Helsinki March 24, 1992, and entered into force January 1, 2002."
+
 #### Notification of Breach of INF Treaty by the Russian Federation
 
-Pub. L. 115–91, div. A, title XII, §§1244(a), 1246, Dec. 12, 2017, 131 Stat. 1673, 1675, provided that:
+Pub. L. 115–91, div. A, title XII, §§1244(a), 1246, Dec. 12, 2017, 131 Stat. 1673, 1675, as amended by Pub. L. 116–92,div. A, title XII, §1235(c), Dec. 20, 2019, 133 Stat. 1650, provided that:
 
 #### SEC. 1244. NOTIFICATION REQUIREMENT RELATED TO RUSSIAN FEDERATION DEVELOPMENT OF NONCOMPLIANT SYSTEMS AND UNITED STATES ACTIONS REGARDING MATERIAL BREACH OF INF TREATY BY THE RUSSIAN FEDERATION.
 
@@ -142,7 +158,11 @@ In general.—The Director of National Intelligence shall notify the appropriate
 
 &emsp;"(2)
 
-Deadline.—A notification under this subsection shall be made not later than 15 days after the date on which the Director makes the determination under this subsection with respect to which the notification is required."
+Deadline.—A notification under this subsection shall be made not later than 15 days after the date on which the Director makes the determination under this subsection with respect to which the notification is required.
+
+&emsp;"(3)
+
+Sunset.—The notification requirement under paragraph (1) shall be in effect so long as the INF Treaty remains in force.
 
 #### SEC. 1246. DEFINITIONS.
 
@@ -174,7 +194,7 @@ Open skies treaty.—The term 'Open Skies Treaty' means the Treaty on Open Skies
 
 #### Report on Non-Compliance by the Russian Federation With Its Obligations Under the INF Treaty
 
-Pub. L. 113–291, div. A, title XII, §1244, Dec. 19, 2014, 128 Stat. 3564, provided that:
+Pub. L. 113–291, div. A, title XII, §1244, Dec. 19, 2014, 128 Stat. 3564, as amended by Pub. L. 116–92, div. A, title XII, §1235(a), Dec. 20, 2019, 133 Stat. 1649, provided that:
 
 "(a)
 
@@ -230,7 +250,15 @@ Form.—The report required under paragraph (1) shall be submitted in unclassifi
 
 "(d)
 
-Briefings Required.—At the time of the submission of the report required under subsection (c), and every six months thereafter until the date on which the Russian Federation is in compliance with its obligations under the INF Treaty, the Secretary of State, jointly with the Secretary of Defense and the heads of such other departments or agencies as appropriate, shall provide to the appropriate congressional committees a briefing on the status of United States efforts to resolve its concerns relating to noncompliance by the Russian Federation with its obligations under the INF Treaty.
+Briefings Required.—
+
+&emsp;"(1)
+
+In general.—At the time of the submission of the report required under subsection (c), and every six months thereafter until the date on which the Russian Federation is in compliance with its obligations under the INF Treaty, the Secretary of State,jointly with the Secretary of Defense and the heads of such other departments or agencies as appropriate, shall provide to the appropriate congressional committees a briefing on the status of United States efforts to resolve its concerns relating to noncompliance by the Russian Federation with its obligations under the INF Treaty.
+
+&emsp;"(2)
+
+Sunset.—The briefing requirement under paragraph (1) shall be in effect so long as the INF Treaty remains in force.
 
 "(e)
 

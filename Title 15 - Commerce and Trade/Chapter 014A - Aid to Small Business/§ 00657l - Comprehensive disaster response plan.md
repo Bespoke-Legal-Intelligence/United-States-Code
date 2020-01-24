@@ -2,7 +2,7 @@
 
 #### (a) Plan required
 
-The Administrator shall develop, implement, or maintain a comprehensive written disaster response plan. The plan shall include the following:
+The Administrator shall develop, implement, or maintain a comprehensive written disasterresponse plan. The plan shall include the following:
 
 &emsp;(1) For each region of the Administration, a description of the disasters most likely to occur in that region.
 

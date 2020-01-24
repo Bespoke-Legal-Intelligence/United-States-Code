@@ -10,7 +10,7 @@ Notwithstanding subsection (a), a hospital or skilled nursing facility of the In
 
 #### (c) Payments into special fund for improvements to achieve compliance with conditions and requirements; certification of compliance by Secretary
 
-Notwithstanding any other provision of this subchapter, payments to which any hospital orskilled nursing facility of the Indian Health Service is entitled by reason of this section shall be placed in a special fund to be held by the Secretary and used by him (to such extent or in such amounts as are provided in appropriation Acts) exclusively for the purpose of making any improvements in the hospitals and skilled nursing facilities of such Service which may be necessary to achieve compliance with the applicable conditions and requirements of this subchapter. The preceding sentence shall cease to apply when the Secretary determines and certifies that substantially all of the hospitals and skilled nursing facilities of such Service in the United States are in compliance with such conditions and requirements.
+Notwithstanding any other provision of this subchapter, payments to which any hospital or skilled nursing facility of the Indian Health Service is entitled by reason of this section shall be placed in a special fund to be held by the Secretary and used by him (to such extent or in such amounts as are provided in appropriation Acts) exclusively for the purpose of making any improvements in the hospitals and skilled nursing facilities of such Service which may be necessary to achieve compliance with the applicable conditions and requirements of this subchapter. The preceding sentence shall cease to apply when the Secretary determines and certifies that substantially all of the hospitals and skilled nursing facilities of such Service in the United States are in compliance with such conditions and requirements.
 
 #### (d) Report by Secretary; status of facilities in complying with conditions and requirements
 
@@ -18,7 +18,7 @@ The annual report of the Secretary which is required by section 1671 of title 25
 
 #### (e) Services provided by Indian Health Service, Indian tribe, or tribal organization
 
-(1)(A) Notwithstanding section 1395n(d) of this title, subject to subparagraph (B), the Secretary shall make payment under part B to a hospital or an ambulatory care clinic (whether provider-based or freestanding) that is operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined for purposes of subsection (a)) for services described in paragraph (2) (and for items and services furnished on or after January 1, 2005, all items and services for which payment may be made under part B) furnished in or at the direction of the hospital or clinic under the same situations, terms, and conditions as would apply if the services were furnished in or at the direction of such a hospital or clinic that was not operated by such Service, tribe, or organization.
+(1)(A) Notwithstanding section 1395n(d) of this title, subject to subparagraph (B), the Secretary shall make payment under part B to a hospital or an ambulatory care clinic (whether provider-based or freestanding) that is operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined for purposes of subsection (a)) for services described in paragraph (2) (and for items and services furnished on or after January 1, 2005, all items and services for which payment may be made under part B) furnished in or at the direction of the hospital or clinic under the same situations, terms,and conditions as would apply if the services were furnished in or at the direction of such a hospital or clinic that was not operated by such Service, tribe, or organization.
 
 (B) Payment shall not be made for services under subparagraph (A) to the extent that payment is otherwise made for such services under this subchapter.
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 106–417 effective Oct. 1, 2000, see section 3(c) of Pub. 
 
 #### Medicare Payments Not Considered in Determining Appropriations for Indian Health Care
 
-Pub. L. 94–437, title IV, §401(c), Sept. 30, 1976, 90 Stat. 1409, provided that any payments received for servicesprovided to beneficiaries under this section were not to be considered in determining appropriations for health care and services to Indians, prior to the general amendment of section 401 of Pub. L. 94–437 by Pub. L. 102–573, title IV, §401(a), Oct. 29, 1992, 106 Stat. 4565. Similar provisions are contained in section 401(a) of Pub. L. 94–437, which is classified to section 1641(a) of Title 25, Indians.
+Pub. L. 94–437, title IV, §401(c), Sept. 30, 1976, 90 Stat. 1409, provided that any payments received for services provided to beneficiaries under this section were not to be considered in determining appropriations for health care and services to Indians, prior to the general amendment of section 401 of Pub. L. 94–437 by Pub. L. 102–573, title IV, §401(a), Oct. 29, 1992, 106 Stat. 4565. Similar provisions are contained in section 401(a) of Pub. L. 94–437, which is classified to section 1641(a) of Title 25, Indians.
 
 #### Preference in Services for Indians With Medicare Coverage Not Authorized
 

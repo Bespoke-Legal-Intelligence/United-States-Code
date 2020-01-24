@@ -6,7 +6,7 @@ If any small business investment company has obtained financing from the Adminis
 
 &emsp;(1) the private capital of such company; and
 
-&emsp;(2) the total amount of leverage projected by the company in the company's business planthat was approved by the Administrator at the time of the grant of the company's license.
+&emsp;(2) the total amount of leverage projected by the company in the company's business plan that was approved by the Administrator at the time of the grant of the company's license.
 
 #### (b) Repealed. Pub. L. 92–595, §2(f), Oct. 27, 1972, 86 Stat. 1316
 

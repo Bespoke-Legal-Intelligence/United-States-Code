@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(A) provide to PACE program eligible individuals, regardless of source of payment and directly or under contracts with other entities, at a minimum—
 
-&emsp;&emsp;&emsp;(i) all items and services covered under subchapter XVIII (for individuals enrolled under section 1395eee of this title) and all items and services covered under this subchapter, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under such subchapter or this subchapter, respectively; and
+&emsp;&emsp;&emsp;(i) all items and services covered under subchapter XVIII (for individuals enrolled under section 1395eee of this title) and allitems and services covered under this subchapter, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under such subchapter or this subchapter, respectively; and
 
 &emsp;&emsp;&emsp;(ii) all additional items and services specified in regulations, based upon those required under the PACE protocol;
 
@@ -158,7 +158,7 @@
 
 #### (4) Continuation of eligibility
 
-&emsp;An individual who is a PACE program eligible individual may be deemed to continue to be such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected to meet such requirement within the succeeding 6-month period.
+&emsp;An individual who is a PACE program eligible individual may be deemed to continue to be such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected tomeet such requirement within the succeeding 6-month period.
 
 #### (5) Enrollment; disenrollment
 
@@ -236,7 +236,7 @@
 
 &emsp;&emsp;&emsp;(iv) shall require a PACE provider to meet all applicable State and local laws and requirements; and
 
-&emsp;&emsp;&emsp;(v) shall contain such additional terms and conditions as the parties may agree to, so long as such terms and conditions are consistent with this section and regulations.
+&emsp;&emsp;&emsp;(v) shall contain such additional terms and conditions as the parties may agree to,so long as such terms and conditions are consistent with this section and regulations.
 
 #### (B) Service area overlap
 
@@ -296,7 +296,7 @@
 
 &emsp;&emsp;&emsp;(i) the Secretary or a State administering agency may terminate a PACE program agreement for cause, and
 
-&emsp;&emsp;&emsp;(ii) a PACE provider may terminate such an agreement after appropriate notice tothe Secretary, the State administering agency, and enrollees.
+&emsp;&emsp;&emsp;(ii) a PACE provider may terminate such an agreement after appropriate notice to the Secretary, the State administering agency, and enrollees.
 
 #### (B) Causes for termination
 
@@ -432,7 +432,7 @@ Nothing in this section or section 1395eee of this title shall be construed as p
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3)(A)(i), is classified generally to Title 26, Internal Revenue Code.
 
-The Balanced Budget Act of 1997, referred to in subsecs. (a)(3)(B)(ii) and (g)(5), is Pub. L. 105–33, Aug. 5,1997, 111 Stat. 251. Section 4804(b) of the Act is set out as a note under section 1395eee of this title. For complete classification of this Act to the Code, see Tables.
+The Balanced Budget Act of 1997, referred to in subsecs. (a)(3)(B)(ii) and (g)(5), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. Section 4804(b) of the Act is set out as a note under section 1395eee of this title. For complete classification of this Act to the Code, see Tables.
 
 Section 603(c) of the Social Security Amendments of 1983, referred to in subsec. (a)(7)(A), is section 603(c) of Pub. L. 98–21, title VI, Apr. 20, 1983, 97 Stat. 168, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, §4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions.
 
@@ -454,7 +454,7 @@ A prior section 1934 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Change of Name
 
-References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriatetransition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 #### Effective Date of 2003 Amendment
 

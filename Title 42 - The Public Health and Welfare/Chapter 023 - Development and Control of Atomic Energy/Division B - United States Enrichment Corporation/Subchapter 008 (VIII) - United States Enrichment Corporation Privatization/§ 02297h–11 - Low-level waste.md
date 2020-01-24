@@ -8,7 +8,7 @@
 
 &emsp;(B) any person licensed by the Nuclear Regulatory Commission to operate a uranium enrichment facility under sections 2073, 2093, and 2243 of this title.
 
-(2) Except as provided in paragraph (3), the generator shall reimburse the Secretary for the disposal of low-level radioactive waste pursuant to paragraph (1) in an amount equal to the Secretary's costs, including a pro rata share of any capital costs, but in no event more than an amount equal to that which would be charged by commercial, State, regional, or interstate compact entities for disposal of such waste.
+(2) Except as provided in paragraph (3), the generator shall reimburse the Secretary for the disposal of low-level radioactive waste pursuant to paragraph (1) in an amount equal to the Secretary's costs, including a pro rata share of anycapital costs, but in no event more than an amount equal to that which would be charged by commercial, State, regional, or interstate compact entities for disposal of such waste.
 
 (3) In the event depleted uranium were ultimately determined to be low-level radioactive waste, the generator shall reimburse the Secretary for the disposal of depleted uranium pursuant to paragraph (1) in an amount equal to the Secretary's costs, including a pro rata share of any capital costs.
 
@@ -16,7 +16,7 @@
 
 #### (b) Agreements with other persons
 
-The generator may also enter into agreements for the disposal of low-level radioactive wastesubject to subsection (a) with any person other than the Secretary that is authorized by applicable laws and regulations to dispose of such wastes.
+The generator may also enter into agreements for the disposal of low-level radioactive waste subject to subsection (a) with any person other than the Secretary that is authorized by applicable laws and regulations to dispose of such wastes.
 
 #### (c) State or interstate compacts
 

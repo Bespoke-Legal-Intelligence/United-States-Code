@@ -100,7 +100,7 @@ In general.—The Deputy Chief shall be responsible for coordinating the investi
 
 &emsp;"(2)
 
-Coordination.—In investigating a complaint under paragraph (1), the Deputy Chief may coordinate investigative activities with State and local law enforcement officials, and eligible entities.
+Coordination.—In investigating a complaint under paragraph (1), the Deputy Chief may coordinateinvestigative activities with State and local law enforcement officials, and eligible entities.
 
 &emsp;"(3)
 
@@ -394,7 +394,7 @@ Pub. L. 103–317, title I, §109, Aug. 26, 1994, 108 Stat. 1735, provided that:
 
 #### Neighborhood Revitalization
 
-Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: "That for fiscal year 1993 and thereafter the Attorney General shall (1) promote neighborhood revitalization by developing a plan for the use of Federal funds appropriated for selected activities in the Departments of Labor, Education, Health and Human Services, Transportation, Agriculture, and Housing and Urban Development; (2) the Attorney General shall solicit from State and local governments plans to revitalize neighborhoods using programs administered by such agencies; and (3) the Attorney General shall review and approve such plans in consultation with the Federal agency to which funds are appropriated".
+Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: "That for fiscal year 1993 and thereafter the Attorney General shall (1) promote neighborhood revitalization by developing a plan for the use of Federal funds appropriated for selected activities in the Departments of Labor, Education, Health and Human Services, Transportation, Agriculture, and Housing andUrban Development; (2) the Attorney General shall solicit from State and local governments plans to revitalize neighborhoods using programs administered by such agencies; and (3) the Attorney General shall review and approve such plans in consultation with the Federal agency to which funds are appropriated".
 
 #### Procurement of Expert Witnesses Without Regard to Competitive Procurement Procedures
 
@@ -546,7 +546,7 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated $
 
 "(2) Any appropriation of funds authorized under paragraph (1) shall be—
 
-&emsp;"(A) in addition to any appropriations requested by the President in the 1989 fiscal year budget submitted by the President to the Congress on February 18, 1988, or provided in regular appropriations Acts or continuing resolutions for the fiscal year ending September 30, 1989; and
+&emsp;"(A) in addition to any appropriations requested by the President in the 1989 fiscal year budget submittedby the President to the Congress on February 18, 1988, or provided in regular appropriations Acts or continuing resolutions for the fiscal year ending September 30, 1989; and
 
 &emsp;"(B) used to increase the number of field attorneys and related support staff over such personnel levels employed at the Department of Justice on September 30, 1988.
 
@@ -714,7 +714,7 @@ The response of the Federal Government must be unified. And it must be total.
 
 Today, in my Message on Crime, I recommended strong new laws to control dangerous drugs. I also recommended an increase of more than thirty percent in the number of Federal agents enforcing the narcotic and dangerous drug laws.
 
-I now propose that a single Bureau of Narcotics and Dangerous Drugs be established in the Department of Justice to administer those laws and to bring to theAmerican people the most efficient and effective Federal enforcement machinery we can devise.
+I now propose that a single Bureau of Narcotics and Dangerous Drugs be established in the Department of Justice to administer those laws and to bring to the American people the most efficient and effective Federal enforcement machinery we can devise.
 
 Under this Reorganization Plan the Attorney General will have full authority and responsibility for enforcing the Federal laws relating to narcotics and dangerous drugs. The new Bureau of Narcotics and Dangerous Drugs, to be headed by a Director appointed by the Attorney General, will:
 
@@ -834,11 +834,11 @@ Funding for this effort has increased sevenfold during the past five years, from
 
 The enforcement work could benefit significantly, however, from consolidation of our anti-drug forces under a single unified command. Right now the Federal Government is fighting the war on drug abuse under a distinct handicap, for its efforts are those of a loosely confederated alliance facing a resourceful, elusive, worldwide enemy. Admiral Mahan, the master naval strategist, described this handicap precisely when he wrote that "Granting the same aggregate of force, it is never as great in two hands as in one, because it is not perfectly concentrated."
 
-More specifically, the drug law enforcement activities of the United States now are not merely in two hands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. The Treasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
+More specifically, the drug law enforcement activities of the United States now are not merely in twohands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. The Treasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
 
 This aggregation of Federal activities has grown up rapidly over the past few years in response to the urgent need for stronger anti-drug measures. It has enabled us to make a very encouraging beginning in the accelerated drug enforcement drive of this Administration.
 
-But it also has serious operational and organizational shortcomings. Certainly the cold-blooded underworld networks that funnel narcotics from suppliers all over the world into the veins of American drug victims are no respecters of the bureaucratic dividing lines that now complicate our anti-drug efforts. On the contrary,these modern-day slave traders can derive only advantage from the limitations of the existing organizational patchwork. Experience has now given us a good basis for correcting those limitations, and it is time to do so.
+But it also has serious operational and organizational shortcomings. Certainly the cold-blooded underworld networks that funnel narcotics from suppliers all over the world into the veins of American drug victims are no respecters of the bureaucratic dividing lines that now complicate our anti-drug efforts. On the contrary, these modern-day slave traders can derive only advantage from the limitations of the existing organizational patchwork. Experience has now given us a good basis for correcting those limitations, and it is time to do so.
 
 I therefore propose creation of a single, comprehensive Federal agency within the Department of Justice to lead the war against illicit drug traffic.
 
@@ -1098,7 +1098,7 @@ Sec. 2. <i>Establishment of the Identity Theft Task Force.</i>
 
 (xi) such other officers of the United States as the Attorney General may designate from time to time, with the concurrence of the respective heads of departments and agencies concerned.
 
-(c) The Chairman and Co-Chairman shall convene and preside at the meetings of the Task Force, determine its agenda, direct its work and, as appropriate, establish and direct subgroups of the Task Force that shall consist exclusively of members of the Task Force. Such subgroups may address particular subject matters, such as criminal law enforcement or private sector education and outreach. The Chairman and Co-Chairman may also designate, with the concurrence of the head of department, agency, or instrumentality of which the official is part, such other Federal officials as they deem appropriate for participation in the Task Force subgroups.
+(c) The Chairman and Co-Chairman shall convene and preside at the meetings of the Task Force, determineits agenda, direct its work and, as appropriate, establish and direct subgroups of the Task Force that shall consist exclusively of members of the Task Force. Such subgroups may address particular subject matters, such as criminal law enforcement or private sector education and outreach. The Chairman and Co-Chairman may also designate, with the concurrence of the head of department, agency, or instrumentality of which the official is part, such other Federal officials as they deem appropriate for participation in the Task Force subgroups.
 
 (d) A member of the Task Force, including the Chairman and Co-Chairman, may designate, to perform the Task Force or Task Force subgroup functions of the member, any person who is a part of the member's department, agency, or instrumentality and who has high-level policy or operational duties or responsibilities related to the mission of the Task Force.
 

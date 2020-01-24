@@ -4,7 +4,7 @@
 
 (1) From the amount appropriated pursuant to section 1087aa(b) <sup>1</sup> of this title for each fiscal year, the Secretary shall first allocate to each eligible institution an amount equal to—
 
-&emsp;(A) 100 percent of the amount received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year), multiplied by
+&emsp;(A) 100 percent of the amount received under subsections (a) and (b) of this section for fiscalyear 1999 (as such subsections were in effect with respect to allocations for such fiscal year), multiplied by
 
 &emsp;(B) the institution's default penalty, as determined under subsection (e),
 
@@ -146,7 +146,7 @@
 
 #### (2) Years following fiscal year 2000
 
-&emsp;For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort default rate (as defined under subsection (g)) that equals or exceeds 25 percent shall have a default penalty of zero.
+&emsp;For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort defaultrate (as defined under subsection (g)) that equals or exceeds 25 percent shall have a default penalty of zero.
 
 #### (3) Ineligibility
 
@@ -160,7 +160,7 @@
 
 #### (B) Continued participation
 
-&emsp;&emsp;During an appeal under subparagraph (A), the Secretary may permit the institution tocontinue to participate in a program under this part.
+&emsp;&emsp;During an appeal under subparagraph (A), the Secretary may permit the institution to continue to participate in a program under this part.
 
 #### (C) Return of funds
 
@@ -214,7 +214,7 @@
 
 &emsp;(iii) any other loan that the Secretary determines should be excluded from such determination.
 
-(F) The Secretary shall prescribe regulations designed to prevent an institution from evading the application to that institution of a cohort default rate determination under this subsection through the use of such measures as branching, consolidation, change of ownership or control or other means as determined by the Secretary.
+(F) The Secretary shall prescribe regulations designed to prevent an institution from evadingthe application to that institution of a cohort default rate determination under this subsection through the use of such measures as branching, consolidation, change of ownership or control or other means as determined by the Secretary.
 
 (2) For purposes of calculating the cohort default rate under this subsection, a loan shall be considered to be in default—
 
@@ -398,7 +398,7 @@ Subsec. (j)(2)(B). Pub. L. 105–244, §462(a)(2)(G)(ii), substituted "subsectio
 
 <b>1993</b>—Subsec. (a)(1), (2)(D). Pub. L. 103–208, §2(f)(1), substituted "if the institution has" for "if the institution which has" in closing provisions.
 
-Subsec. (d)(4)(C). Pub. L. 103–208, §2(f)(2), substituted "150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college" for "three-fourths in the Pell Grant family size offset".
+Subsec. (d)(4)(C). Pub. L. 103–208, §2(f)(2), substituted "150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a familyof six with one in college" for "three-fourths in the Pell Grant family size offset".
 
 Subsecs. (e)(2), (h)(4)(B). Pub. L. 103–208, §2(f)(3), (4), realigned margins.
 

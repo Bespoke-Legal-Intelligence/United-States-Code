@@ -56,7 +56,7 @@ A prior section 6233, added Pub. L. 98–369, div. A, title VII, §714(p)(1), Ju
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub.L. 115–141, set out as a note under section 6031 of this title.
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under section 6031 of this title.
 
 #### Effective Date
 

@@ -1,6 +1,6 @@
 ### §923. Licensing
 
-(a) No person shall engage in the business of importing, manufacturing, or dealing in firearms, or importing or manufacturing ammunition, until he has filed an application with and received a license to do so from the Attorney General. The application shall be in such form and contain only that information necessary to determine eligibility for licensing as the Attorney General shall by regulation prescribe and shall include a photograph and fingerprints of the applicant. Each applicant shall pay a fee for obtaining such a license, a separate fee being required for each place in which the applicant is to do business, as follows:
+(a) No person shall engage in the business of importing, manufacturing, or dealing in firearms, or importing or manufacturing ammunition, until he has filed an application with and received a license to do so from the Attorney General. The application shall be in such form and contain only that information necessary to determine eligibility for licensing as the Attorney General shall by regulation prescribe and shall include a photograph and fingerprints of the applicant. Each applicant shall pay a fee forobtaining such a license, a separate fee being required for each place in which the applicant is to do business, as follows:
 
 (1) If the applicant is a manufacturer—
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(i) the business to be conducted under the license is not prohibited by State or local law in the place where the licensed premise is located;
 
-&emsp;&emsp;(ii)(I) within 30 days after the application is approved the business will comply withthe requirements of State and local law applicable to the conduct of the business; and
+&emsp;&emsp;(ii)(I) within 30 days after the application is approved the business will comply with the requirements of State and local law applicable to the conduct of the business; and
 
 &emsp;&emsp;(II) the business will not be conducted under the license until the requirements of State and local law applicable to the business have been met; and
 
@@ -98,7 +98,7 @@
 
 (5)(A) Each licensee shall, when required by letter issued by the Attorney General, and until notified to the contrary in writing by the Attorney General, submit on a form specified by the Attorney General, for periods and at the times specified in such letter, all record information required to be kept by this chapter or such lesser record information as the Attorney General in such letter may specify.
 
-(B) The Attorney General may authorize such record information to be submitted in a mannerother than that prescribed in subparagraph (A) of this paragraph when it is shown by a licensee that an alternate method of reporting is reasonably necessary and will not unduly hinder the effective administration of this chapter. A licensee may use an alternate method of reporting if the licensee describes the proposed alternate method of reporting and the need therefor in a letter application submitted to the Attorney General, and the Attorney General approves such alternate method of reporting.
+(B) The Attorney General may authorize such record information to be submitted in a manner other than that prescribed in subparagraph (A) of this paragraph when it is shown by a licensee that an alternate method of reporting is reasonably necessary and will not unduly hinder the effective administration of this chapter. A licensee may use an alternate method of reporting if the licensee describes the proposed alternate method of reporting and the need therefor in a letter application submitted to the Attorney General, and the Attorney General approves such alternate method of reporting.
 
 (6) Each licensee shall report the theft or loss of a firearm from the licensee's inventory or collection, within 48 hours after the theft or loss is discovered, to the Attorney General and to the appropriate local authorities.
 
@@ -204,13 +204,13 @@ Subsec. (f)(3). Pub. L. 99–308, §103(6)(A), inserted "de novo" before "judici
 
 Subsec. (f)(4). Pub. L. 99–308, §103(6)(B), added par. (4).
 
-Subsec. (g). Pub. L. 99–308, §103(7), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "Each licensed importer, licensed manufacturer, licensed dealer, and licensed collector shall maintain such records of importation, production, shipment, receipt, sale, or other disposition, of firearms and ammunition except .22 caliber rimfire ammunitionat such place, for such period, and in such form as the Secretary may by regulations prescribe. Such importers, manufacturers, dealers, and collectors shall make such records available for inspection at all reasonable times, and shall submit to the Secretary such reports and information with respect to such records and the contents thereof as he shall by regulations prescribe. The Secretary may enter during business hours the premises (including places of storage) of any firearms or ammunition importer, manufacturer, dealer, or collector for the purpose of inspecting or examining (1) any records or documents required to be kept by such importer, manufacturer, dealer, or collector under the provisions of this chapter or regulations issued under this chapter, and (2) any firearms or ammunition kept or stored by such importer, manufacturer, dealer, or collector at such premises. Upon the request of any State or any political subdivision thereof, the Secretary may make available to such State or any political subdivision thereof, any information which he may obtain by reason of the provisions of this chapter with respect to the identification of persons within such State or political subdivision thereof, who have purchased or received firearms or ammunition, together with a description of such firearms or ammunition."
+Subsec. (g). Pub. L. 99–308, §103(7), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "Each licensed importer, licensed manufacturer, licensed dealer, and licensed collector shall maintain such records of importation, production, shipment, receipt, sale, or other disposition, of firearms and ammunition except .22 caliber rimfire ammunition at such place, for such period, and in such form as the Secretary may by regulations prescribe. Such importers, manufacturers, dealers, and collectors shall make such records available for inspection at all reasonable times, and shall submit to the Secretary such reports and information with respect to such records and the contents thereof as he shall by regulations prescribe. The Secretary may enter during business hours the premises (including places of storage) of any firearms or ammunition importer, manufacturer, dealer, or collector for the purpose of inspecting or examining (1) any records or documents required to be kept by such importer, manufacturer, dealer, or collector under the provisions of this chapter or regulations issued under this chapter, and (2) any firearms or ammunition kept or stored by such importer, manufacturer, dealer, or collector at such premises. Upon the request of any State or any political subdivision thereof, the Secretary may make available to such State or any political subdivision thereof, any information which he may obtain by reason of the provisions of this chapter with respect to the identification of persons within such State or political subdivision thereof, who have purchased or received firearms or ammunition, together with a description of such firearms or ammunition."
 
 Subsec. (j). Pub. L. 99–308, §103(8), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "This section shall not apply to anyone who engages only in hand loading, reloading, or custom loading ammunition for his own firearm, and who does not hand load, reload, or custom load ammunition for others."
 
 Subsec. (k). Pub. L. 99–408, §7, added subsec. (k).
 
-<b>1982</b>—Subsec. (g). Pub. L. 97–377 inserted "except .22 caliber rimfire ammunition" after "and ammunition". The amendment by Pub. L. 97–377, which purported to amend subsec. (9), was executed instead to subsec. (g) as the probable intent of Congress because this section does not contain a subsec. (9).
+<b>1982</b>—Subsec. (g). Pub. L. 97–377 inserted "except .22 caliber rimfire ammunition" after "and ammunition". The amendment by Pub. L. 97–377, which purported toamend subsec. (9), was executed instead to subsec. (g) as the probable intent of Congress because this section does not contain a subsec. (9).
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–618 struck out "be required to" after "Each applicant shall".
 
@@ -294,7 +294,7 @@ Pub. L. 113–6, div. B, title II, Mar. 26, 2013, 127 Stat. 248, provided in par
 
 #### Funding for Bureau Not Authorized To Deny License Applications or Renewals Due to Lack of Business Activity
 
-Pub. L. 113–6, div. B, title II, Mar. 26, 2013, 127 Stat. 248, provided in part: "That, in the current fiscal year and any fiscal year thereafter, no funds authorized or made available under this or any other Act may be used to deny any application for a license under section 923 of title 18, United States Code, or renewal of such a license due to a lack of business activity, provided that the applicant is otherwise eligible to receive such a license, and is eligible to report business income or to claim an income tax deduction for business expenses under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]."
+Pub. L. 113–6, div. B, title II, Mar. 26, 2013, 127 Stat. 248, provided in part: "That, in the current fiscal year and any fiscal year thereafter, no funds authorized or made available under this or any other Act may be used to deny any application for a license under section 923 of title 18, United States Code, or renewal of such a license due to a lack of business activity, provided that the applicant is otherwise eligible to receive such a license, and is eligible to report business income or toclaim an income tax deduction for business expenses under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]."
 
 #### Tracing Studies Disclaimer
 

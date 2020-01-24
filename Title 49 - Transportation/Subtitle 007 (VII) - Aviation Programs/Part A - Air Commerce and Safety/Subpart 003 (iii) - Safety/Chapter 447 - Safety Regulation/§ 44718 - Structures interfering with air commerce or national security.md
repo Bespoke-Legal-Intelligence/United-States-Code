@@ -94,7 +94,7 @@ Adverse impact on military operations and readiness.—The term "adverse impact 
 
 &emsp;(2)
 
-Unacceptable risk to the national security of the united states.—The term "unacceptable risk to the national security of the United States" has the meaning given the term in section 183a(h)(7) of title 10.
+Unacceptable risk to the national security of the united states.—The term "unacceptable risk to the national security of the United States" has the meaning given the term in section 183a(h)(7) <sup>1</sup> of title 10.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1200; Pub. L. 104–264, title XII, §1220(a), Oct. 9, 1996, 110 Stat. 3286; Pub. L. 106–181, title V, §503(b), Apr. 5, 2000, 114 Stat. 133; Pub. L. 112–81, div. A, title III, §332, Dec. 31, 2011, 125 Stat. 1369; Pub. L. 114–248, §1(a), Nov. 28, 2016, 130 Stat. 998; Pub. L. 114–328, div. A, title III, §341(a)(1)–(4)(A), Dec. 23, 2016, 130 Stat. 2079–2081; Pub. L. 115–91, div. A, title III, §311(b)(2), (3), (e), Dec. 12, 2017, 131 Stat. 1347, 1348; Pub. L. 115–232, div. A, title X, §1081(e)(2), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 115–254, div. B, title V, §539(h), Oct. 5, 2018, 132 Stat. 3371.)
 
@@ -130,6 +130,8 @@ In subsection (b)(1), before clause (A), the word "thoroughly" is omitted as sur
 
 The date of the enactment of this subsection, referred to in subsec. (d), probably means the date of enactment of Pub. L. 106–181, which amended subsec. (d) generally, and which was approved Apr. 5, 2000.
 
+Section 183a(h)(7) of title 10, referred to in subsec. (h)(2), was redesignated as section 183a(h)(9) of title 10 by Pub. L. 116–92, div. A, title III, §371(5)(A), Dec. 20, 2019, 133 Stat. 1329.
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–254, §539(h)(1), substituted "air or space navigation facilities and equipment" for "air navigation facilities and equipment" in introductory provisions.
@@ -162,13 +164,13 @@ Subsecs. (f), (g). Pub. L. 114–328, §341(a)(3), added subsecs. (f) and (g).
 
 <b>2011</b>—Subsec. (e). Pub. L. 112–81 added subsec. (e).
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–181 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "For the purposes of enhancing aviation safety, in a case in which 2 landfills have been proposed to be constructed or established within 6 miles of a commercial service airport with fewer than 50,000 enplanements per year, no person shall construct or establish either landfill if an official of the Federal Aviation Administration has stated in writing within the 3-year period ending on the date of the enactment of this subsection that 1 of the landfills would be incompatible with aircraft operations at the airport, unless the landfill is already active on such date of enactment or the airport operator agrees to the construction or establishment of the landfill."
+<b>2000</b>—Subsec. (d). Pub. L. 106–181 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "For the purposes of enhancing aviation safety, in a case in which 2 landfills have been proposed to be constructed or established within 6 miles of a commercial service airport with fewer than 50,000 enplanements per year, no person shall construct or establish either landfill if an official of the Federal Aviation Administration has stated in writing withinthe 3-year period ending on the date of the enactment of this subsection that 1 of the landfills would be incompatible with aircraft operations at the airport, unless the landfill is already active on such date of enactment or the airport operator agrees to the construction or establishment of the landfill."
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–264 added subsec. (d).
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -302,7 +304,7 @@ Exclusion and Waiver Authorities.—As part of a rulemaking conducted pursuant t
 
 &emsp;"(1) may exclude a class, category, or type of tower that is determined by the Administrator, after public notice and comment, to not pose a hazard to aviation safety;
 
-&emsp;"(2) shall establish a process to waive specific covered towers from the marking requirements underthis section as required under the rulemaking if the Administrator later determines such tower or towers do not pose a hazard to aviation safety;
+&emsp;"(2) shall establish a process to waive specific covered towers from the marking requirements under this section as required under the rulemaking if the Administrator later determines such tower or towers do not pose a hazard to aviation safety;
 
 &emsp;"(3) shall consider, in establishing exclusions and granting waivers under this subsection, factors that may sufficiently mitigate risks to aviation safety, such as the length of time the tower has been in existence or alternative marking methods or technologies that maintains a tower's level of conspicuousness to a degree which adequately maintains the safety of the airspace; and
 
@@ -335,4 +337,6 @@ Pub. L. 106–181, title V, §503(a), Apr. 5, 2000, 114 Stat. 133, provided that
 &emsp;"(5) while certain mileage limits have the potential to be arbitrary, keeping landfills at least 6 miles away from an airport, especially an airport served by small planes, is an appropriate minimum requirement for aviation safety; and
 
 &emsp;"(6) closure of existing landfills (due to concerns about aviation safety) should be avoided because of the likely disruption to those who use and depend on such landfills."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

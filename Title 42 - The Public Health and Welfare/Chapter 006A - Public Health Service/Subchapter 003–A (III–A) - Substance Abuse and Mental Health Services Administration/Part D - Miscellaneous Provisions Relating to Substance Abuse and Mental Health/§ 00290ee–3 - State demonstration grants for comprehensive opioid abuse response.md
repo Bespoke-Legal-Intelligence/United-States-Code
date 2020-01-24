@@ -104,7 +104,7 @@ In this section:
 
 #### (B) Plan for interoperability
 
-&emsp;&emsp;In submitting an application to the Secretary under paragraph (3), a county or other unit of local government shall submit a plan outlining the methods such county or unit of local government shall use to ensure the capability of data sharing with other counties and units of local government within the state <sup>1</sup> and with other States, as applicable.
+&emsp;&emsp;In submitting an application to the Secretary under paragraph (3), a county orother unit of local government shall submit a plan outlining the methods such county or unit of local government shall use to ensure the capability of data sharing with other counties and units of local government within the state <sup>1</sup> and with other States, as applicable.
 
 #### (c) Authorization of funding
 
@@ -182,11 +182,11 @@ Appropriate mechanisms.—The Secretary, in consultation with Indian Tribes, sha
 
 "(f)
 
-Report to Congress.—Not later than 1 year after the date on which amounts are first awarded afterthe date of enactment of this subsection \[Oct. 24, 2018\], pursuant to subsection (b), and annually thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing the information provided to the Secretary in reports made pursuant to subsection (c), including the purposes for which grant funds are awarded under this section and the activities of such grant recipients.
+Report to Congress.—Not later than 1 year after the date on which amounts are first awarded after the date of enactment of this subsection \[Oct. 24, 2018\], pursuant to subsection (b), and annually thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing the information provided to the Secretary in reports made pursuant to subsection (c), including the purposes for which grant funds are awarded under this section and the activities of such grant recipients.
 
 "(g)
 
-Technical Assistance.—The Secretary, including through the Tribal Training and Technical Assistance Center of the Substance Abuse and Mental Health Services Administration, shall provide State agencies and Indian Tribes, as applicable, with technical assistance concerning grant application and submission procedures under this section, award management activities, and enhancing outreach and direct support to rural and underserved communities and providers in addressing the opioid crisis.
+Technical Assistance.—The Secretary, including through the Tribal Training and Technical Assistance Center of the Substance Abuse and Mental Health Services Administration, shall provide State agencies and Indian Tribes, as applicable, with technical assistance concerning grant application and submission procedures under this section, award management activities, and enhancing outreach and direct support torural and underserved communities and providers in addressing the opioid crisis.
 
 "(h)
 

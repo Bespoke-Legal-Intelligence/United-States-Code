@@ -30,7 +30,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;(i) is lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\]; and
 
-&emsp;&emsp;&emsp;(ii)(I) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under section 1645 ofthis title, and (II) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
+&emsp;&emsp;&emsp;(ii)(I) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under section 1645 of this title, and (II) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
 
 #### (C) Veteran and active duty exception
 
@@ -136,7 +136,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (L) Food stamp exception for certain qualified aliens
 
-&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any qualified alien who has resided in the United States with a status within the meaning of the term "qualified alien" for a period of 5 years or more beginning on the date of the alien's entry into the United States.
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described inparagraph (3)(B), paragraph (1) shall not apply to any qualified alien who has resided in the United States with a status within the meaning of the term "qualified alien" for a period of 5 years or more beginning on the date of the alien's entry into the United States.
 
 #### (M) SSI extensions through fiscal year 2011
 
@@ -178,7 +178,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (V) Payment of benefits to aliens whose benefits ceased in prior fiscal years
 
-&emsp;&emsp;&emsp;&emsp;Benefits paid to a qualified alien or victim described in subclause (II) shall be paid prospectively over the duration of the qualified alien's or victim's renewed eligibility.
+&emsp;&emsp;&emsp;&emsp;Benefits paid to a qualified alien or victim described in subclause (II) shallbe paid prospectively over the duration of the qualified alien's or victim's renewed eligibility.
 
 #### (ii) Special rule in case of pending or approved naturalization application
 
@@ -242,7 +242,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;(i) is lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\]; and
 
-&emsp;&emsp;&emsp;(ii)(I) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under section 1645 of this title, and (II) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
+&emsp;&emsp;&emsp;(ii)(I) has worked 40 qualifying quarters of coverage as defined under title II of theSocial Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under section 1645 of this title, and (II) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
 
 #### (C) Veteran and active duty exception
 
@@ -282,7 +282,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;A State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], other than medical assistance described in section 1611(b)(1)(A) of this title.
 
-(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510,Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579; Pub. L. 107–171, title IV, §4401(a), (b)(1), (c)(1), May 13, 2002, 116 Stat. 333; Pub. L. 110–234, title IV, §4115(c)(2)(D), May 22, 2008, 122 Stat. 1110; Pub. L. 110–246, §4(a), title IV, §4115(c)(2)(D), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 110–328, §2, Sept. 30, 2008, 122 Stat. 3567.)
+(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579; Pub. L. 107–171, title IV, §4401(a), (b)(1), (c)(1), May 13, 2002, 116 Stat. 333; Pub. L. 110–234, title IV, §4115(c)(2)(D), May 22, 2008, 122 Stat. 1110; Pub. L. 110–246, §4(a), title IV, §4115(c)(2)(D), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 110–328, §2, Sept. 30, 2008, 122 Stat. 3567.)
 
 #### References in Text
 
@@ -300,7 +300,7 @@ The Immigration and Nationality Act, referred to in subsecs. (a)(2)(B)(i) and (b
 
 The Social Security Act, referred to in subsecs. (a)(2)(B)(ii)(I), (M)(i)(II), (3)(A) and (b)(2)(B)(ii)(I), (F), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, XIX, and XX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), (F)(ii), (3)(B), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 3(l) of the Act, which defined "supplemental nutrition assistance program", was classified to section 2012(l) of Title 7, prior to repeal by Pub. L. 113–79, title IV, §4030(a)(3), Feb. 7, 2014, 128 Stat. 813. Such term is now defined in section 2012(t) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), (F)(ii), (3)(B), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 3(l) of the Act, which defined "supplemental nutrition assistance program", was classified to section 2012(l) ofTitle 7, prior to repeal by Pub. L. 113–79, title IV, §4030(a)(3), Feb. 7, 2014, 128 Stat. 813. Such term is now defined in section 2012(t) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 This chapter, referred to in subsecs. (a)(3) and (b)(3), was in the original "this title" meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
 
@@ -348,7 +348,7 @@ Subsec. (a)(2)(J). Pub. L. 105–185, §507, added subpar. (J).
 
 Subsec. (a)(2)(K). Pub. L. 105–185, §508, added subpar. (K).
 
-<b>1997</b>—Subsec. (a)(2)(A). Pub. L. 105–33, §5302(a), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "Paragraph\(1) shall not apply to an alien until 5 years after the date—
+<b>1997</b>—Subsec. (a)(2)(A). Pub. L. 105–33, §5302(a), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "Paragraph (1) shall not apply to an alien until 5 years after the date—
 
 &emsp;"(i) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act;
 
@@ -438,7 +438,7 @@ Pub. L. 105–185, title V, §510(b), June 23, 1998, 112 Stat. 580, provided tha
 
 #### Effective Date of 1997 Amendments
 
-Pub. L. 105–33, title V, §5308, Aug. 5, 1997, 111 Stat. 603, provided that: "Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shallbe effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
+Pub. L. 105–33, title V, §5308, Aug. 5, 1997, 111 Stat. 603, provided that: "Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
 
 Amendment by sections 5562 and 5563 of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 

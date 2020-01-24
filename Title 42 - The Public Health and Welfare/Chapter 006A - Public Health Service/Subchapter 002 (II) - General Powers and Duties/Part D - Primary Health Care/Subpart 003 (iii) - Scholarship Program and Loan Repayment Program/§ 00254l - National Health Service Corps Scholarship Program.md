@@ -36,7 +36,7 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (ii) During the period in which a health professional is planning and making the transition to private practice from obligated service under the Scholarship Program, the Secretary may provide assistance to the professional regarding such transition if the professional is remaining in a health professional shortage area and is continuing to provide primary health services.
 
-(C) In the case of entities to which participants in the Scholarship Program are assigned under section 254f of this title, the Secretary shall encourage the entities to provide options with respect to assisting the participants in remaining in the health professional shortage areas involved, and in continuing to provide primary health services, after the period of obligated service under the Scholarship Program is completed. The options with respect to whichthe Secretary provides such encouragement may include options regarding the sharing of a single employment position in the health professions by 2 or more health professionals, and options regarding the recruitment of couples where both of the individuals are health professionals.
+(C) In the case of entities to which participants in the Scholarship Program are assigned under section 254f of this title, the Secretary shall encourage the entities to provide options with respect to assisting the participants in remaining in the health professional shortage areas involved, and in continuing to provide primary health services, after the period of obligated service under the Scholarship Program is completed. The options with respect to which the Secretary provides such encouragement may include options regarding the sharing of a single employment position in the health professions by 2 or more health professionals, and options regarding the recruitment of couples where both of the individuals are health professionals.
 
 #### (d) Factors considered in providing contracts; priorities
 
@@ -88,7 +88,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&nbsp;whichever is greater, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which he is assigned by the Secretary as a member of the Corps, or as otherwise provided in this subpart;
 
-&emsp;(2) a provision that any financial obligation of the United States arising out of a contract entered into under this subpart and any obligation of the individual which is conditioned thereon, is contingent upon funds being appropriated for scholarships under this subpart and to carry out the purposes of sections 254d through 254h and sections 254j and 254k of this title;
+&emsp;(2) a provision that any financial obligation of the United States arising out of a contractentered into under this subpart and any obligation of the individual which is conditioned thereon, is contingent upon funds being appropriated for scholarships under this subpart and to carry out the purposes of sections 254d through 254h and sections 254j and 254k of this title;
 
 &emsp;(3) a statement of the damages to which the United States is entitled, under section 254o of this title, for the individual's breach of the contract; and
 

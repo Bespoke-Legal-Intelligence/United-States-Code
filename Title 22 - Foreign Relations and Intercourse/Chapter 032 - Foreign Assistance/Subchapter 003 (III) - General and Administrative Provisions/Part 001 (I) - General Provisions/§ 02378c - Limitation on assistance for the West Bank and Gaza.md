@@ -18,7 +18,7 @@ Subsection (a) shall not apply with respect to the following:
 
 #### (3) Assistance for individual members of the Palestinian Legislative Council
 
-&emsp;Assistance, other than funding of salaries or salary supplements, to individual members of the Palestinian Legislative Council who the President determines are not members of Hamas or any other foreign terrorist organization, for the purposes of facilitating the attendance of such members in programs for thedevelopment of institutions of democratic governance, including enhancing the transparent and accountable operations of such institutions, and providing support for the Middle East peace process.
+&emsp;Assistance, other than funding of salaries or salary supplements, to individual members of the Palestinian Legislative Council who the President determines are not members of Hamas or any other foreign terrorist organization, for the purposes of facilitating the attendance of such members in programs for the development of institutions of democratic governance, including enhancing the transparent and accountable operations of such institutions, and providing support for the Middle East peace process.
 
 #### (4) Other types of assistance
 
@@ -30,7 +30,7 @@ Subsection (a) shall not apply with respect to the following:
 
 &emsp;&emsp;&emsp;(i) consults with the appropriate congressional committees regarding the specific programs, projects, and activities to be carried out using such assistance; and
 
-&emsp;&emsp;&emsp;(ii) submits to the appropriate congressional committees a written memorandum that contains the determination of the President under subparagraph (A).
+&emsp;&emsp;&emsp;(ii) submits to the appropriate congressional committees a written memorandumthat contains the determination of the President under subparagraph (A).
 
 #### (c) Marking requirement
 

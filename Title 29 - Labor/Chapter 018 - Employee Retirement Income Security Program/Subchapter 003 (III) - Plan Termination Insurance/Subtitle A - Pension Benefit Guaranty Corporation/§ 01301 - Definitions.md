@@ -116,7 +116,7 @@
 
 (2) For purposes of subtitle E—
 
-&emsp;(A) except as otherwise provided in subtitle E, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribedunder section 412(c)(10) <sup>3</sup> of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
+&emsp;(A) except as otherwise provided in subtitle E, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribed under section 412(c)(10) <sup>3</sup> of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
 
 &emsp;(B) the term "Secretary of the Treasury" means the Secretary of the Treasury or such Secretary's delegate.
 
@@ -176,7 +176,7 @@ Subsec. (a)(19). Pub. L. 100–203, §9312(b)(5), amended par. (19) generally. P
 
 &emsp;"(B) the actuarial present value (determined as of such date on the basis of assumptions prescribed by the corporation for purposes of section 1344 of this title) of the benefits of such participant or beneficiary which are guaranteed under section 1322 of this title or to which assets of the plan are required to be allocated under section 1344 of this title;".
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–272, §11004(a)(1), amended par. (2) generally, substituting provisions defining "substantial employer" for any plan year of a single-employer plan for provisions defining "substantial employer" for any plan year as an employer, treating employers who are members of the same affiliated group as one employer, who has made contributions to or under a plan under which more than one employer, other than a multi-employer plan, makes contributions for each of the two immediately preceding plan years or the second and third preceding plan years equaling or exceeding 10 percent of all employer contributions paid to or under that plan for such year.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–272, §11004(a)(1), amended par. (2) generally, substituting provisions defining "substantial employer" for any plan year of a single-employer plan for provisions defining "substantial employer" for any plan year as an employer, treating employers who are members of the same affiliated group as one employer, who has made contributions to or under a plan under which more than one employer, other than a multi-employer plan, makes contributions for each of the two immediately preceding plan yearsor the second and third preceding plan years equaling or exceeding 10 percent of all employer contributions paid to or under that plan for such year.
 
 Subsec. (a)(13). Pub. L. 99–272, §11004(a)(2)–(4), added par. (13).
 

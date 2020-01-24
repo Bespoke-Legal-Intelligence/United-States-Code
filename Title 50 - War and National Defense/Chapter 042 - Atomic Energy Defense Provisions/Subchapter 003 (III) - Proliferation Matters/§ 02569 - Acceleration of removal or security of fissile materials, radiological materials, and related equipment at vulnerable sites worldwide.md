@@ -4,7 +4,7 @@
 
 (1) It is the sense of Congress that the security, including the rapid removal or secure storage, of high-risk, proliferation-attractive fissile materials, radiological materials, and related equipment at vulnerable sites worldwide should be a top priority among the activities to achieve the national security of the United States.
 
-(2) It is the sense of Congress that the President may establish in the Department of Energy a task force to be known as the Task Force onNuclear Materials to carry out the program authorized by subsection (b).
+(2) It is the sense of Congress that the President may establish in the Department of Energy a task force to be known as the Task Force on Nuclear Materials to carry out the program authorized by subsection (b).
 
 #### (b) Program authorized
 
@@ -70,7 +70,7 @@ Amounts authorized to be appropriated to the Secretary of Energy for defense nuc
 
 #### (1) In general
 
-&emsp;The Secretary of Energy may, with the concurrence of the Secretary of State, enter into one or more agreements with any person (including a foreign government, international organization, or multinational entity) that the Secretary of Energy considers appropriate under which the person contributes funds for purposes of the programs described in paragraph (2).
+&emsp;The Secretary of Energy may, with the concurrence of the Secretary of State, enter into one or more agreements with any person (including a foreign government, international organization, or multinational entity) that the Secretary of Energy considers appropriate under which the person contributes funds forpurposes of the programs described in paragraph (2).
 
 #### (2) Programs covered
 
@@ -138,7 +138,7 @@ Pub. L. 115–232, div. C, title XXXI, §3141, Aug. 13, 2018, 132 Stat. 2303, pr
 
 "(a)
 
-Goal.—The Administrator for Nuclear Security shall ensure that the goal of the covered programs iseliminating the use of blood irradiation devices in the United States that rely on cesium chloride by December 31, 2027.
+Goal.—The Administrator for Nuclear Security shall ensure that the goal of the covered programs is eliminating the use of blood irradiation devices in the United States that rely on cesium chloride by December 31, 2027.
 
 "(b)
 

@@ -58,11 +58,11 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §§401(a), 402(c) (less clause (5), and less last proviso), 402(f) (as applicable to §402(c)), 63 Stat. 816, 817, 820.
 
-37:271(a) is omitted as surplusage. As it relates to retirement it is only a statement of the general coverage of the retirement sections of this chapter. As it relates to separation it is only a statement of the general coverage of the separation sections of this chapter. The words "a member \* \* \* not covered by section 1201, 1202, or 1203 of this title" are substituted for the words "a member \* \* \* other than those members covered in subsections (a) and (b) of this section". The words "ifthe Secretary also determines that" are substituted for the words "That if condition (5) above is met by a finding that", in 37:272(c). The words "of such member", "upon retirement", and "to receive", in 37:272(c), are omitted as surplusage.
+37:271(a) is omitted as surplusage. As it relates to retirement it is only a statement of the general coverage of the retirement sections of this chapter. As it relates to separation it is only a statement of the general coverage of the separation sections of this chapter. The words "a member \* \* \* not covered by section 1201, 1202, or 1203 of this title" are substituted for the words "a member \* \* \* other than those members covered in subsections (a) and (b) of this section". The words "if the Secretary also determines that" are substituted for the words "That if condition (5) above is met by a finding that", in 37:272(c). The words "of such member", "upon retirement", and "to receive", in 37:272(c), are omitted as surplusage.
 
 In clause (1), the words "based upon accepted medical principles" are inserted as a necessary implication of the rule stated in 37:272(c)(5).
 
-In clause (2), the word "disability" is substituted for the word "injury" to make clear, in view of 37:278, that members on active duty for 30 days or less are on the same footing as those on active duty for a longer period, with respect to the effect of misconduct or neglect.
+In clause (2), the word "disability" is substituted for the word "injury" to make clear, in view of 37:278, thatmembers on active duty for 30 days or less are on the same footing as those on active duty for a longer period, with respect to the effect of misconduct or neglect.
 
 In clause (3), the words "and was not incurred during a period of unauthorized absence" are inserted to conform to other revised sections of this chapter and because of section 1207 of this title. The words "full-time training duty, other full-time duty" are omitted as covered by the words "active duty".
 

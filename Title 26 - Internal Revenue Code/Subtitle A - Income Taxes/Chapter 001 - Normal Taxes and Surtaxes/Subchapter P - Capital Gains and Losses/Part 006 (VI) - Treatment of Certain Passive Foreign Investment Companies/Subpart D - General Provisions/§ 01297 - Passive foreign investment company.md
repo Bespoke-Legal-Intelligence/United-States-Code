@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;Except as provided in regulations, the term "passive income" does not include any income—
 
-&emsp;&emsp;(A) derived in the active conduct of a banking business by an institution licensed to do business as a bank in the United States (or, to the extent provided in regulations, by any other corporation),
+&emsp;&emsp;(A) derived in the active conduct of a banking business by an institution licensed to do business as a bank in the United States\(or, to the extent provided in regulations, by any other corporation),
 
 &emsp;&emsp;(B) derived in the active conduct of an insurance business by a qualifying insurance corporation (as defined in subsection (f)),
 
@@ -42,7 +42,7 @@ If a foreign corporation owns (directly or indirectly) at least 25 percent (by v
 
 #### (1) In general
 
-&emsp;For purposes of this part, a corporation shall not be treated with respect to a shareholder as a passive foreign investment company during the qualified portion of such shareholder'sholding period with respect to stock in such corporation.
+&emsp;For purposes of this part, a corporation shall not be treated with respect to a shareholder as a passive foreign investment company during the qualified portion of such shareholder's holding period with respect to stock in such corporation.
 
 #### (2) Qualified portion
 
@@ -134,7 +134,7 @@ For purposes of subsection (b)(2)(B)—
 
 &emsp;&emsp;Any amount determined under clause (i) or (ii) of subparagraph (A) shall not exceed the lesser of such amount—
 
-&emsp;&emsp;&emsp;(i) as reported to the applicable insurance regulatory body in the applicable financial statement described in paragraph\(4)(A) (or, if less, the amount required by applicable law or regulation), or
+&emsp;&emsp;&emsp;(i) as reported to the applicable insurance regulatory body in the applicable financial statement described in paragraph (4)(A) (or, if less, the amount required by applicable law or regulation), or
 
 &emsp;&emsp;&emsp;(ii) as determined under regulations prescribed by the Secretary.
 
@@ -216,7 +216,7 @@ Subsec. (c). Pub. L. 100–647, §1012(p)(2), inserted "(directly or indirectly)
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–97, title I, §14501(c), Dec. 22, 2017, 131 Stat. 2235, provided that: "The amendments made by thissection \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
+Pub. L. 115–97, title I, §14501(c), Dec. 22, 2017, 131 Stat. 2235, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 1998 Amendment
 

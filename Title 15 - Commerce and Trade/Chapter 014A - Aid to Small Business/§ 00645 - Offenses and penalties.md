@@ -2,7 +2,7 @@
 
 #### (a) False statements; overvaluation of securities
 
-Whoever makes any statement knowing it to be false, or whoever willfully overvalues any security, for the purpose of obtaining for himself or for any applicant any loan, or extension thereof by renewal, deferment of action, or otherwise, or the acceptance, release, or substitution of security therefor, or for the purpose of influencing in any way the action of the Administration, or for the purpose of obtaining money, property, or anything of value, under this chapter, shall be punished by a fine of not more than $5,000 or by imprisonment for not more than two years, or both.
+Whoever makes any statement knowing it to be false, or whoever willfully overvalues any security, for the purpose of obtaining for himself or for any applicant any loan, or extension thereof by renewal, deferment of action, or otherwise, or the acceptance, release, or substitution of security therefor, or for the purpose of influencing in any way the action of the Administration, or for the purpose of obtaining money,property, or anything of value, under this chapter, shall be punished by a fine of not more than $5,000 or by imprisonment for not more than two years, or both.
 
 #### (b) Embezzlement, etc.
 
@@ -50,7 +50,7 @@ Whoever falsely certifies past compliance with the requirements of section 636(j
 
 #### (1) In general
 
-&emsp;Whoever violates a requirement established under section 657s of this title shall be subject to the penalties prescribed in subsection (d), except that, for an entity that exceeded a limitation on subcontracting under such section, the fine described in subsection (d)(2)(A) shall be treated as the greater of—
+&emsp;Whoever violates a requirement established under section 657s of this title shall be subject to the penalties prescribed in subsection (d), except that, for an entity that exceeded a limitation on subcontracting under such section,the fine described in subsection (d)(2)(A) shall be treated as the greater of—
 
 &emsp;&emsp;(A) $500,000; or
 
@@ -58,7 +58,7 @@ Whoever falsely certifies past compliance with the requirements of section 636(j
 
 #### (2) Monitoring
 
-&emsp;Not later than 1 year after January 2, 2013, the Administrator shall take such actions asare necessary to ensure that an existing Federal subcontracting reporting system is modified to notify the Administrator, the appropriate Director of the Office of Small and Disadvantaged Business Utilization, and the appropriate contracting officer if a requirement established under section 657s of this title is violated.
+&emsp;Not later than 1 year after January 2, 2013, the Administrator shall take such actions as are necessary to ensure that an existing Federal subcontracting reporting system is modified to notify the Administrator, the appropriate Director of the Office of Small and Disadvantaged Business Utilization, and the appropriate contracting officer if a requirement established under section 657s of this title is violated.
 
 (Pub. L. 85–536, §2\[16\], July 18, 1958, 72 Stat. 395; Pub. L. 88–264, §2, Feb. 5, 1964, 78 Stat. 8; Pub. L. 99–272, title XVIII, §18009, Apr. 7, 1986, 100 Stat. 368; Pub. L. 100–656, title IV, §405, Nov. 15, 1988, 102 Stat. 3875; Pub. L. 103–355, title VII, §7106(c), Oct. 13, 1994, 108 Stat. 3376; Pub. L. 105–85, div. A, title X, §1073(g)(4), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 105–135, title VI, §603(c), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 112–239, div. A, title XVI, §§1652, 1681(a), 1682(a), Jan. 2, 2013, 126 Stat. 2081, 2085, 2086.)
 

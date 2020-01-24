@@ -24,7 +24,7 @@ In general.—The Attorney General shall submit to the Congress a report of any 
 
 &emsp;&emsp;&emsp;(i) against the United States (including any agency or instrumentality thereof) for a sum that exceeds, or is likely to exceed, $2,000,000, excluding prejudgment interest; or
 
-&emsp;&emsp;&emsp;(ii) by the United States (including any agency or instrumentality thereof) pursuant to an agreement, consent decree, or order (or pursuant to any modification of an agreement, consent decree, or order) that provides injunctive or other nonmonetary relief that exceeds, or is likely to exceed, 3 years in duration: <i>Provided</i>, That for purposes of this clause, the term "injunctive or other nonmonetary relief" shall not be understood to include the following, where the same are a matter of public record—
+&emsp;&emsp;&emsp;(ii) by the United States (including any agency or instrumentality thereof) pursuant to an agreement, consent decree, or order (or pursuant to any modification of an agreement, consent decree, or order)that provides injunctive or other nonmonetary relief that exceeds, or is likely to exceed, 3 years in duration: <i>Provided</i>, That for purposes of this clause, the term "injunctive or other nonmonetary relief" shall not be understood to include the following, where the same are a matter of public record—
 
 &emsp;&emsp;&emsp;&emsp;(I) debarments, suspensions, or other exclusions from Government contracts or grants;
 
@@ -84,7 +84,7 @@ Declaration.—In the case of a determination described in subsection (a)(1)(B),
 
 (e)
 
-Applicability to the President and to Executive Agencies and Military Departments.—The reporting, declaration, and other provisions of this section relating to the Attorney General and other officers of the Department of Justice shall apply to the President (but only with respect to the promulgation of any unclassified Executive order or similar memorandum or order), to the head of each executive agency or military department (as defined, respectively, in sections 105 and 102 of title 5, United States Code) that establishes or implements a policy described in subsection (a)(1)(A) or is authorized to conduct litigation, and to the officers of such executive agency.
+Applicability to the President and to Executive Agencies and Military Departments.—The reporting, declaration, and other provisions of this section relating to the Attorney General and other officers of the Department of Justice shall apply to the President (but only with respect to the promulgation of any unclassified Executive order or similar memorandum or order), to the head of each executiveagency or military department (as defined, respectively, in sections 105 and 102 of title 5, United States Code) that establishes or implements a policy described in subsection (a)(1)(A) or is authorized to conduct litigation, and to the officers of such executive agency.
 
 (Added Pub. L. 107–273, div. A, title II, §202(a), Nov. 2, 2002, 116 Stat. 1771.)
 

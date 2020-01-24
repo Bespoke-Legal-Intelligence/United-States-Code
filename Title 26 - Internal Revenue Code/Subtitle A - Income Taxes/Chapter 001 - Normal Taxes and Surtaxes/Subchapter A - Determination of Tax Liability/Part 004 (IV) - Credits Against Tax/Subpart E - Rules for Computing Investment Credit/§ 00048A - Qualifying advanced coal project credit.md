@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (7) Integrated gasification combined cycle
 
-&emsp;The term "integrated gasification combined cycle" means an electric generation unit which produces electricity by converting coal to synthesis gas which is used to fuel a combined-cycle plant which produces electricity from both a combustion turbine (including a combustion turbine/fuel cell hybrid) and a steam turbine.
+&emsp;The term "integrated gasification combined cycle" means an electric generation unitwhich produces electricity by converting coal to synthesis gas which is used to fuel a combined-cycle plant which produces electricity from both a combustion turbine (including a combustion turbine/fuel cell hybrid) and a steam turbine.
 
 #### (d) Qualifying advanced coal project program
 
@@ -245,7 +245,7 @@ For purposes of this section—
 
 #### (3) Existing units
 
-&emsp;In the case of any electric generation unit in existence on the date of the enactment of this section, such unit uses advanced coal-based generation technology if, in lieu of the requirements under paragraph (1)(A)(ii), such unit achieves a minimum efficiency of 35 percent and an overall thermal design efficiency improvement, compared to the efficiency of the unit as operated, of not less than—
+&emsp;In the case of any electric generation unit in existence on the date of the enactment of thissection, such unit uses advanced coal-based generation technology if, in lieu of the requirements under paragraph (1)(A)(ii), such unit achieves a minimum efficiency of 35 percent and an overall thermal design efficiency improvement, compared to the efficiency of the unit as operated, of not less than—
 
 &emsp;&emsp;(A) 7 percentage points for coal of more than 9,000 Btu,
 

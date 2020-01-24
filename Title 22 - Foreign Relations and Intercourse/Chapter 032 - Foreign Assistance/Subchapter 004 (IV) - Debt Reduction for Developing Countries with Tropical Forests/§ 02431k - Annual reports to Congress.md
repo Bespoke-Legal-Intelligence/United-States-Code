@@ -1,6 +1,6 @@
 ### §2431k. Annual reports to Congress
 
-Not later than April 15 of each year, the President shall prepare and transmit to the Congress an annual report concerning the operation of the Facility for the prior calendar year. Such report shall include—
+Not later than April 15 of each year, the President shall prepare and transmit to the Congressan annual report concerning the operation of the Facility for the prior calendar year. Such report shall include—
 
 &emsp;(1) a description of the activities undertaken by the Facility during the previous calendar year;
 

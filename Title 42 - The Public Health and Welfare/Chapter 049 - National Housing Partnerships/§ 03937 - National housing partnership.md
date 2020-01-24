@@ -6,7 +6,7 @@ The corporation is authorized to arrange for the formation, as a separate organi
 
 #### (b) Applicability of other laws; legal status of limited partnership
 
-The partnership shall be subject to the provisions, to the extent consistent with this chapter, of (1) the District of Columbia Uniform Limited Partnership Act and (2) those provisions of the District of Columbia Uniform Partnership Act made applicable by section 6(2) of that Act. Notwithstanding any inconsistency between the provisions of such Acts, or of any other law, and the provisions of this section, the partnershiporganized pursuant to this section shall be deemed to have the legal status of a limited partnership.
+The partnership shall be subject to the provisions, to the extent consistent with this chapter, of (1) the District of Columbia Uniform Limited Partnership Act and (2) those provisions of the District of Columbia Uniform Partnership Act made applicable by section 6(2) of that Act. Notwithstanding any inconsistency between the provisions of such Acts, or of any other law, and the provisions of this section, the partnership organized pursuant to this section shall be deemed to have the legal status of a limited partnership.
 
 #### (c) Authorization to enter into partnerships, limited partnerships, or joint ventures organized under State or local laws for purpose of engaging in low and moderate income housing developments, projects, or undertakings
 

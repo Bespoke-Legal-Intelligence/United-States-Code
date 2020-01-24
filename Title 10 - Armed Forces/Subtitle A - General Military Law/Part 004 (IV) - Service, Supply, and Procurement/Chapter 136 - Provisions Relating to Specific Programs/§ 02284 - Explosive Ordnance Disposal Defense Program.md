@@ -10,17 +10,15 @@ Roles, Responsibilities, and Authorities.—The plan under subsection (a) shall 
 
 &emsp;(1) the Secretary of Defense shall—
 
-&emsp;&emsp;(A) assign the responsibility for the direction, coordination, <sup>1</sup> integration of the Program within the Department of Defense to an Assistant Secretary of Defense;
+&emsp;&emsp;(A) assign the responsibility for the direction, coordination,<sup>1</sup> integration of the Program within the Department of Defense to an Assistant Secretary of Defense; and
 
-&emsp;&emsp;(B) the Assistant Secretary of Defense to whom responsibility is assigned under paragraph (1) <sup>2</sup> shall serve as the key individual for the Program responsible for developing and overseeing policy, plans, programs, and budgets, and issuing guidance and providing direction on Department of Defense explosive ordnance disposal activities;
+&emsp;&emsp;(B) designate the Secretary of the Navy, or a designee of the Secretary's choice, as the executive agent for the Department of Defense responsible for providing oversight of the training and technology program that coordinates and integrates joint requirements for explosive ordnance disposal, provides common individual training, and carries out joint research, development, test, and evaluation activities for common tools on behalf of the military departments with respect to explosive ordnance disposal;
 
-&emsp;&emsp;(C) designate the Secretary of the Navy, or a designee of the Secretary's choice, as the executive agent for the Department of Defense responsible for providing oversight of the joint program executive officer who coordinates and integrates joint requirements for explosive ordnance disposal and carries out joint research, development, test, and evaluation and procurement activities on behalf of the military departments and combatant commands with respect to explosive ordnance disposal;
+&emsp;(2) the Assistant Secretary of Defense to whom responsibility is assigned under paragraph (1)(A) shall serve as the key individual for the Program responsible for developing and overseeing policy, plans, programs, and budgets, and issuing guidance and providing direction on Department of Defense explosive ordnance disposal activities;
 
-&emsp;&emsp;(D) designate a combat support agency to exercise fund management responsibility of the Department of Defense-wide program element for explosive ordnance disposal research, development, test, and evaluation, transactions other than contracts, cooperative agreements, and grants related to section 2371 of this title during research projects including rapid prototyping and limited procurement urgent activities, and acquisition; and
+&emsp;(3) the Secretary of each military department shall assess the needs of the military department concerned with respect to explosive ordnance disposal and may carry out research, development, test, and evaluation activities, including other transactions and procurementactivities to address military department unique needs; and
 
-&emsp;&emsp;(E) designate an Army explosive ordnance disposal-qualified general officer from the combat support agency designated under subparagraph (D) to serve as the Chairman of the Department of Defense explosive ordnance disposal defense program board; and
-
-&emsp;(2) the Secretary of each military department shall assess the needs of the military department concerned with respect to explosive ordnance disposal and may carry out research, development, test, and evaluation activities, including other transactions and procurement activities to address military department unique needs such as weapon systems, manned and unmanned vehicles and platforms, cyber and communication equipment, and the integration of explosive ordnance disposal sets, kits and outfits and explosive ordnance disposal tools, equipment, sets, kits, and outfits developed by the department.
+&emsp;(4) the Secretary of the Army shall designate an Army explosive ordnance disposal-qualified general officer to serve as the co-chair of the Department of Defense explosive ordnance disposal defense program.
 
 (c)
 
@@ -46,9 +44,51 @@ Annual Budget Justification Documents.—
 
 &emsp;&emsp;(B) overseas contingency operations.
 
-(Added Pub. L. 115–232, div. A, title III, §311(a), Aug. 13, 2018, 132 Stat. 1708.)
+(d)
+
+Definitions.—In this section:
+
+&emsp;(1) The term "explosive ordnance" has the meaning given such term in section 283(d) of this title.
+
+&emsp;(2) The term "explosive ordnance disposal" means the detection, identification, on-site evaluation, rendering safe, exploitation, recovery, and final disposal of explosive ordnance.
+
+(Added Pub. L. 115–232, div. A, title III, §311(a), Aug. 13, 2018, 132 Stat. 1708; amended Pub. L. 116–92, div. A, title X, §1052, title XVII, §1731(a)(36), Dec. 20, 2019, 133 Stat. 1590, 1814.)
+
+#### Amendments
+
+<b>2019</b>—Pub. L. 116–92, §1731(a)(36), substituted section symbol for "SEC." before section designation.
+
+Subsec. (b)(1)(A). Pub. L. 116–92, §1052(a)(2)(A), inserted "and" at end.
+
+Subsec. (b)(1)(B). Pub. L. 116–92, §1052(a)(2)(D)(iii)–(v), substituted "evaluation activities for common tools on behalf of the military departments" for "evaluation and procurement activities on behalf of the military departments and combatant commands".
+
+Pub. L. 116–92, §1052(a)(2)(D)(ii), which directed insertion of ", provides common individual training," after "explosive ordnance disposal", was executed by making the insertion after "explosive ordnance disposal" the first place appearing to reflect the probable intent of Congress.
+
+Pub. L. 116–92, §1052(a)(2)(D)(i), substituted "training and technology program that" for "joint program executive officer who".
+
+Pub. L. 116–92, §1052(a)(2)(C), redesignated subpar. (C) as (B). Former subpar. (B) redesignated par. (2).
+
+Pub. L. 116–92, §1052(a)(2)(B), redesignated subpar. (B) as par. (2).
+
+Subsec. (b)(1)(C) to (E). Pub. L. 116–92, §1052(a)(2)(C), (E), redesignated subpar. (C) as (B) and struck out subpars. (D) and (E) which read as follows:
+
+"(D) designate a combat support agency to exercise fund management responsibility of the Department of Defense-wide program element for explosive ordnance disposal research, development, test, and evaluation, transactions other than contracts, cooperative agreements, and grants related to section 2371 of this title during research projects including rapid prototyping and limited procurement urgent activities, and acquisition; and
+
+"(E) designate an Army explosive ordnance disposal-qualified general officer from the combat support agency designated under subparagraph (D) to serve as the Chairman of the Department of Defense explosive ordnance disposal defense program board; and".
+
+Subsec. (b)(2). Pub. L. 116–92, §1052(a)(3), inserted "(A)" after "paragraph (1)".
+
+Pub. L. 116–92, §1052(a)(2)(B), redesignated subpar. (B) of par. (1) as par. (2). Former par. (2) redesignated (3).
+
+Pub. L. 116–92, §1052(a)(1), redesignated par. (2) as (3).
+
+Subsec. (b)(3). Pub. L. 116–92, §1052(a)(4), substituted "; and" for "such as weapon systems, manned and unmanned vehicles and platforms, cyber and communication equipment, and the integration of explosive ordnance disposal sets, kits and outfits and explosive ordnance disposal tools, equipment, sets, kits, and outfits developed by the department."
+
+Pub. L. 116–92, §1052(a)(1), redesignated par. (2) as (3).
+
+Subsec. (b)(4). Pub. L. 116–92, §1052(a)(5), added par. (4).
+
+Subsec. (d). Pub. L. 116–92, §1052(b), added subsec. (d).
 
 <i><sup>1</sup></i><i> So in original. The word "and" probably should appear.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

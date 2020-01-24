@@ -44,7 +44,7 @@
 
 > &emsp;were not achieved.
 
-(3) Any amounts not charged to public body, cooperative, and Federal agency customers by reason of paragraph (2) of this subsection shall be recovered through supplemental rate charges for all other power sold by the Administrator to all customers. Rates charged public body, cooperative, or Federal agency customers pursuant to this subsection shall not include any costs or benefits of a net revenue surplus or deficiency occurring for the period ending June 30, 1985, to the extent such surplus or deficiency is caused by—
+(3) Any amounts not charged to public body, cooperative, and Federal agency customers by reason of paragraph (2) of this subsection shall be recovered through supplemental rate charges for all other power sold by the Administrator to all customers. Rates charged public body, cooperative, or Federal agency customers pursuant to this subsection shall not include any costs orbenefits of a net revenue surplus or deficiency occurring for the period ending June 30, 1985, to the extent such surplus or deficiency is caused by—
 
 &emsp;(A) a difference between actual power deliveries and power deliveries projected for the purpose of establishing rates to direct service industrial customers under subsection (c)(1) of this subsection, and
 
@@ -130,11 +130,11 @@ Notwithstanding any other provision of this chapter, all rates or rate schedules
 
 #### (l) Rates for sales outside United States; negotiations
 
-In order to further the purposes of this chapter and to protect the consumers of the region, the Administrator may negotiate, or establish, rates for electric power sold by the Administrator to any entity not located in the United States which shall be equitable in relation to rates for all electric power which is, or may be, purchased by the Administrator or the Administrator's customers from entities outside the United States. In establishing rates other than by negotiation, the provisions of subsection (i) shall apply. In the case of any negotiation with an entity not located in the United States, the Administrator shall provide public notice of any proposal to negotiate such rates. Such negotiated rates shall be not less than the rates established under this chapter for nonfirm powersold within the United States but outside the region. The Administrator shall also afford notice of any rates negotiated pursuant to this subsection.
+In order to further the purposes of this chapter and to protect the consumers of the region, the Administrator may negotiate, or establish, rates for electric power sold by the Administrator to any entity not located in the United States which shall be equitable in relation to rates for all electric power which is, or may be, purchased by the Administrator or the Administrator's customers from entities outside the United States. In establishing rates other than by negotiation, the provisions of subsection (i) shall apply. In the case of any negotiation with an entity not located in the United States, the Administrator shall provide public notice of any proposal to negotiate such rates. Such negotiated rates shall be not less than the rates established under this chapter for nonfirm power sold within the United States but outside the region. The Administrator shall also afford notice of any rates negotiated pursuant to this subsection.
 
 #### (m) Impact aid payments; formula
 
-(1) Beginning the first fiscal year after the plan and program required by section 839b(d) and (h) of this title are finally adopted, the Administrator may, subject to the provisions of this section, make annual impact aid payments to the appropriate local governments within the region with respect to major transmission facilities of the Administrator, as defined in section 3(c) of the Federal Columbia River Transmission Act \[16 U.S.C. 838a(c)\]—
+(1) Beginning the first fiscal year after the plan and program required by section 839b(d) and (h) of this title are finally adopted, the Administrator may, subject to the provisions ofthis section, make annual impact aid payments to the appropriate local governments within the region with respect to major transmission facilities of the Administrator, as defined in section 3(c) of the Federal Columbia River Transmission Act \[16 U.S.C. 838a(c)\]—
 
 &emsp;(A) which are located within the jurisdictional boundaries of such governments,
 

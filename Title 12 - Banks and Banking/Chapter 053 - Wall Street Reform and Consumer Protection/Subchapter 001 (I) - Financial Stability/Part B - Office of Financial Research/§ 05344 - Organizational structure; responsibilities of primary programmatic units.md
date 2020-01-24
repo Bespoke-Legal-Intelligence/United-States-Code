@@ -82,7 +82,7 @@ There are established within the Office, to carry out the programmatic responsib
 
 &emsp;&emsp;(E) to maintain expertise in such areas as may be necessary to support specific requests for advice and assistance from financial regulators;
 
-&emsp;&emsp;(F) to investigate disruptions and failures in the financial markets, report findings, and make recommendations to the Council based on those findings;
+&emsp;&emsp;(F) to investigate disruptions and failures in the financial markets, report findings,and make recommendations to the Council based on those findings;
 
 &emsp;&emsp;(G) to conduct studies and provide advice on the impact of policies related to systemic risk; and
 

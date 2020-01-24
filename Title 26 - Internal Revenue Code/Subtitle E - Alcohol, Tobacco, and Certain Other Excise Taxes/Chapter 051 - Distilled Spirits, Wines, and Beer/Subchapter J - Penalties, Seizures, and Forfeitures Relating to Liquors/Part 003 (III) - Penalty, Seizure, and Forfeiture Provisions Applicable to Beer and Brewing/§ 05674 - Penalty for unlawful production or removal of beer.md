@@ -6,7 +6,7 @@ Any person who brews beer or produces beer shall be fined not more than $1,000, 
 
 #### (b) Unlawful removal
 
-Any brewer or other person who removes or in any way aids in the removal from any brewery of beer without complying with the provisions of this chapter or regulations issued pursuant thereto shall be fined not more than $1,000, or imprisoned not more than 1 year, or both.
+Any brewer or other person who removes or in any way aids in the removal from any breweryof beer without complying with the provisions of this chapter or regulations issued pursuant thereto shall be fined not more than $1,000, or imprisoned not more than 1 year, or both.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1408; amended Pub. L. 95–458, §2(b)(5)(A), Oct. 14, 1978, 92 Stat. 1256.)
 

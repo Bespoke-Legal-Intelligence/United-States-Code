@@ -1,6 +1,6 @@
 ### \[§682. Repealed. Pub. L. 115–97, title I, §11051(b)(1)(C), Dec. 22, 2017, 131 Stat. 2089\]
 
-Section, Aug. 16, 1954, ch. 736, 68A Stat. 234; Pub. L. 98–369, div. A, title IV, §422(d)(2), July 18, 1984, 98 Stat.798, related to income of an estate or trust in case of divorce.
+Section, Aug. 16, 1954, ch. 736, 68A Stat. 234; Pub. L. 98–369, div. A, title IV, §422(d)(2), July 18, 1984, 98 Stat. 798, related to income of an estate or trust in case of divorce.
 
 #### Effective Date of Repeal
 

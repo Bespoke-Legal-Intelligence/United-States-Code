@@ -6,7 +6,7 @@
 
 &emsp;Without regard to whether the United States is or may be deprived of all or a portion of any lawful duty, tax, or fee thereby, no person, by fraud, gross negligence, or negligence—
 
-&emsp;&emsp;(A) may enter, introduce, or attempt to enter or introduce any merchandise into the commerce of the United States by means of—
+&emsp;&emsp;(A) may enter, introduce, or attempt to enter or introduce any merchandise into thecommerce of the United States by means of—
 
 &emsp;&emsp;&emsp;(i) any document or electronically transmitted data or information, written or oral statement, or act which is material and false, or
 
@@ -134,7 +134,7 @@
 
 #### (11) Prior disclosure regarding claims under the United States–Korea Free Trade Agreement
 
-&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrectclaim that a good qualifies as an originating good under section 202 of the United States–Korea Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing with respect to that good.
+&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States–Korea Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing with respect to that good.
 
 #### (12) Prior disclosure regarding claims under the United States–Colombia Trade Promotion Agreement
 
@@ -194,7 +194,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (2) Immediate and voluntary disclosure of incorrect information
 
-&emsp;No penalty shall be imposed under this subsection if, immediately after an exporter or producer that issued a Chile FTA Certificate of Origin has reason to believe that such certificate contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certificate was issued.
+&emsp;No penalty shall be imposed under this subsection if, immediately after an exporter orproducer that issued a Chile FTA Certificate of Origin has reason to believe that such certificate contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certificate was issued.
 
 #### (3) Exception
 
@@ -254,7 +254,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;A person shall not be considered to have violated paragraph (1) if—
 
-&emsp;&emsp;(A) the information was correct at the time it was provided in a KFTA certificationof origin but was later rendered incorrect due to a change in circumstances; and
+&emsp;&emsp;(A) the information was correct at the time it was provided in a KFTA certification of origin but was later rendered incorrect due to a change in circumstances; and
 
 &emsp;&emsp;(B) the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
 
@@ -262,7 +262,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a CTPA certification of origin (as defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, grossnegligence, or negligence, in a CTPA certification of origin (as defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 #### (2) Prompt and voluntary disclosure of incorrect information
 
@@ -326,7 +326,7 @@ Section 203 of the United States-Peru Trade Promotion Agreement Implementation A
 
 Section 202 of the United States–Korea Free Trade Agreement Implementation Act, referred to in subsecs. (c)(11) and (j)(1), is section 202 of Pub. L. 112–41, which is set out in a note under section 3805 of this title.
 
-Section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, referred to in subsecs. (c)(12) and (k)(1), is section 203 of Pub. L. 112–42, which is set out in a note under section 3805 of this title.
+Section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, referred to insubsecs. (c)(12) and (k)(1), is section 203 of Pub. L. 112–42, which is set out in a note under section 3805 of this title.
 
 Section 203 of the United States–Panama Trade Promotion Agreement Implementation Act, referred to in subsecs. (c)(13) and (l)(1), is section 203 of Pub. L. 112–43, which is set out in a note under section 3805 of this title.
 
@@ -406,7 +406,7 @@ Subsec. (b)(2). Pub. L. 103–182, §621(3)(B), substituted "the Customs Service
 
 Subsec. (c)(4). Pub. L. 103–182, §621(4)(B), inserted at end "For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) existed."
 
-Subsec. (c)(4)(A)(i). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12); Pub. L. 106–36, §1001(b)(8), substituted "time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its" for "time of disclosure or within thirty days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his".
+Subsec. (c)(4)(A)(i). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12); Pub. L. 106–36, §1001(b)(8), substituted "time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its" for "time of disclosure or within thirty days, or such longer period as the appropriate customs officer mayprovide, after notice by the appropriate customs officer of his".
 
 Subsec. (c)(4)(B). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12); Pub. L. 106–36, §1001(b)(8), which directed the substitution of "time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its" for "time of disclosure, or within 30 days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his", was executed by making the substitution for text which began "time of disclosure or within 30 days", to reflect the probable intent of Congress.
 
@@ -466,7 +466,7 @@ Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced
 
 Pub. L. 95–410, title I, §110(f), Oct. 3, 1978, 92 Stat. 897, provided that:
 
-"(1)(A) Except as provided in subparagraphs (B) and (C), subsections (a), (b), and (c) (other than new subsection (e) of section 592 of the Tariff Act of 1930 as added by subsection (a)) \[subsec. (a), (b), and (c), not including (e) of this section\] shall be effective with respect to proceedings commenced after the 89th day after the date of enactment of this Act \[Oct. 3, 1978\].
+"(1)(A) Except as provided in subparagraphs (B) and (C), subsections (a), (b), and (c) (other than new subsection (e) of section 592 of the Tariff Act of 1930 asadded by subsection (a)) \[subsec. (a), (b), and (c), not including (e) of this section\] shall be effective with respect to proceedings commenced after the 89th day after the date of enactment of this Act \[Oct. 3, 1978\].
 
 "(B) Except as provided in subparagraph (C), section 592 of the Tariff Act of 1930 \[this section\] (as such section existed on the day before the date of enactment of this Act) \[Oct. 3, 1978\] shall apply to any alleged intentional violation thereof involving television receivers that are the product of Japan and that were or are the subject of antidumping proceedings if the alleged intentional violation—
 

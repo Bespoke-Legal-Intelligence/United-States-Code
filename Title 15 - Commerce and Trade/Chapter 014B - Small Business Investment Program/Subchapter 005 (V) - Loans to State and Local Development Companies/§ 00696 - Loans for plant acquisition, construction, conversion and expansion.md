@@ -116,7 +116,7 @@ In general.—Any financing approved under this subchapter may include a limited
 
 &emsp;(B)
 
-Expansions.—If the project involves expansion of a small business concern, any amount of existing indebtedness that does notexceed 50 percent of the project cost of the expansion may be refinanced and added to the expansion cost, if—
+Expansions.—If the project involves expansion of a small business concern, any amount of existing indebtedness that does not exceed 50 percent of the project cost of the expansion may be refinanced and added to the expansion cost, if—
 
 &emsp;&emsp;(i) the proceeds of the indebtedness were used to acquire land, including a building situated thereon, to construct a building thereon, or to purchase equipment;
 
@@ -248,7 +248,7 @@ Pub. L. 111–240, §1122(a), added subpar. (C).
 
 <b>2007</b>—Par. (2)(A)(iv), (v). Pub. L. 110–140 added cls. (iv) and (v).
 
-<b>2004</b>—Par. (2). Pub. L. 108–447 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Loans made by the Administration under this section shall be limited to $1,000,000 for each such identifiable small business concern, except loans meeting the criteria specified in section 695(d)(3) of this title, which shall be limited to $1,300,000 for each such identifiable small business concern."
+<b>2004</b>—Par. (2). Pub. L. 108–447 amended par. (2) generally. Prior to amendment, par. (2) read as follows:"Loans made by the Administration under this section shall be limited to $1,000,000 for each such identifiable small business concern, except loans meeting the criteria specified in section 695(d)(3) of this title, which shall be limited to $1,300,000 for each such identifiable small business concern."
 
 <b>2000</b>—Par. (2). Pub. L. 106–554, §1(a)(9) \[title III, §303\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Loans made by the Administration under this section shall be limited to $750,000 for each such identifiable small-business concern, except loans meeting the criteria specified in section 695(d)(3) of this title shall be limited to $1,000,000 for each such identifiable small business concern."
 
@@ -322,7 +322,7 @@ Pub. L. 114–113, div. E, title V, §521(a), Dec. 18, 2015, 129 Stat. 2463, pro
 
 &emsp;"(1) subclause (I)(bb) and subclause (II) of clause (iv) of such subparagraph (C) shall not be in effect;
 
-&emsp;"(2) unless, upon application by a development company and after determining that the refinance loan is needed for good cause, the Administrator of the Small Business Administration waives this paragraph, a development company shall limit its financings under section 502 of the Small Business Investment Act of 1958 (15 U.S.C. 696) so that, during any fiscal year, new financings under such subparagraph (C) shall not exceed 50 percent of the dollars loaned under title V of the Small Business Investment Act of1958 (15 U.S.C. 695 et seq.) during the previous fiscal year; and
+&emsp;"(2) unless, upon application by a development company and after determining that the refinance loan is needed for good cause, the Administrator of the Small Business Administration waives this paragraph, a development company shall limit its financings under section 502 of the Small Business Investment Act of 1958 (15 U.S.C. 696) so that, during any fiscal year, new financings under such subparagraph (C) shall not exceed 50 percent of the dollars loaned under title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.) during the previous fiscal year; and
 
 &emsp;"(3) clause (iv)(I)(aa) of such subparagraph (C) shall be applied by substituting 'job creation and retention' for 'job creation'."
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Program Authority and Purpose.—The Secretary of Defense may use the NationalGuard to conduct a civilian youth opportunities program, to be known as the "National Guard Youth Challenge Program", which shall consist of at least a 22-week residential program and a 12-month post-residential mentoring period. The Program shall seek to improve life skills and employment potential of participants by providing military-based training and supervised work experience, together with the core program components of assisting participants to receive a high school diploma or its equivalent, leadership development, promoting fellowship and community service, developing life coping skills and job skills, and improving physical fitness and health and hygiene.
+Program Authority and Purpose.—The Secretary of Defense may use the National Guard to conduct a civilian youth opportunities program, to be known as the "National Guard Youth Challenge Program", which shall consist of at least a 22-week residential program and a 12-month post-residential mentoring period. The Program shall seek to improve life skills and employment potential of participants by providing military-based training and supervised work experience, together with the core program components of assisting participants to receive a high school diploma or its equivalent, leadership development, promoting fellowship and community service, developing life coping skills and job skills, and improving physical fitness and health and hygiene.
 
 (b)
 
@@ -132,7 +132,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in subsec. (f)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle E of title I of the Act is classified generally to division E (§12611 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (f)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle E of title I of the Act is classified generally to division E (§12611 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification ofthis Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
 

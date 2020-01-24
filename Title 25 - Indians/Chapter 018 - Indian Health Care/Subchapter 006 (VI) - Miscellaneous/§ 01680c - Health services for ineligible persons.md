@@ -20,7 +20,7 @@ Any spouse of an eligible Indian who is not an Indian, or who is of Indian desce
 
 #### (1) In general
 
-&emsp;The Secretary is authorized to provide health services under this subsection throughhealth facilities operated directly by the Service to individuals who reside within the Service unit and who are not otherwise eligible for such health services if—
+&emsp;The Secretary is authorized to provide health services under this subsection through health facilities operated directly by the Service to individuals who reside within the Service unit and who are not otherwise eligible for such health services if—
 
 &emsp;&emsp;(A) the Indian tribes served by such Service unit requests such provision of health services to such individuals, and
 

@@ -74,7 +74,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §316(k)(4); added Nov. 16, 1990,
 
 Nov. 16, 1990, Pub. L. 101–604, §106(d), 104 Stat. 3075.
 
-In subsection (a), before clause (1), the words "each year" are substituted for "of calendar year 1991 and of each calendar year thereafter" to eliminate unnecessary words. In clauses (8) and (9), the word "financial" is substituted for "funding" for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (a), before clause (1), the words "each year" are substituted for "of calendar year 1991 and of each calendar year thereafter" to eliminate unnecessary words. In clauses (8) and (9), the word "financial"is substituted for "funding" for clarity and consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b)(1), the word "screening" is omitted as surplus.
 

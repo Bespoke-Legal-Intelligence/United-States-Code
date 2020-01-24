@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(iii) in the case of inpatient rehabilitation facilities, any Medicare beneficiary assessment instrument established by the Secretary for purposes of section 1395ww(j) of this title; and
 
-&emsp;&emsp;&emsp;(iv) in the case of long-term care hospitals, the Medicare beneficiary assessment instrument used with respect to such hospitals for the collection of data elements necessary to calculate quality measures as described in the August 18, 2011, Federal Register (76 Fed. Reg. 51754–51755), including for purposes of section 1395ww(m)(5)(C) of this title, or any other instrument used with respect to such hospitals for assessment purposes.
+&emsp;&emsp;&emsp;(iv) in the case of long-term care hospitals, the Medicare beneficiary assessment instrument used with respect to such hospitals for the collection of data elements necessary to calculate quality measures as described in the August 18,2011, Federal Register (76 Fed. Reg. 51754–51755), including for purposes of section 1395ww(m)(5)(C) of this title, or any other instrument used with respect to such hospitals for assessment purposes.
 
 #### (C) Applicable reporting provision
 
@@ -218,7 +218,7 @@
 
 #### (A) Period of time
 
-&emsp;&emsp;With respect to the period of time used for calculating measures under paragraph (1)(A), the Secretary shall, to the extent the Secretary determines appropriate, align resource use with the methodology used for purposes of section 1395ww(o)(2)(B)(ii) of this title.
+&emsp;&emsp;With respect to the period of time used for calculating measures under paragraph (1)(A),the Secretary shall, to the extent the Secretary determines appropriate, align resource use with the methodology used for purposes of section 1395ww(o)(2)(B)(ii) of this title.
 
 #### (B) Geographic and other adjustments
 
@@ -246,7 +246,7 @@
 
 #### (A) Initial implementation phase
 
-&emsp;&emsp;The initial implementation phase, with respect to such a measure, shall, in accordancewith subsections (c) and (d), as applicable, consist of—
+&emsp;&emsp;The initial implementation phase, with respect to such a measure, shall, in accordance with subsections (c) and (d), as applicable, consist of—
 
 &emsp;&emsp;&emsp;(i) measure specification, including informing the public of the measure's numerator, denominator, exclusions, and any other aspects the Secretary determines necessary;
 
@@ -358,7 +358,7 @@ Before the initial rulemaking process to implement this section, the Secretary s
 
 #### (k) Funding
 
-For purposes of carrying out this section, the Secretary shall provide for the transfer to the Centers for Medicare \& Medicaid Services Program Management Account, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, of $130,000,000. Fifty percent of such amount shall be available on October 6, 2014, and fifty percent of such amount shall be equally proportioned for each of fiscal years 2015 through 2019. Such sums shall remain available until expended.
+For purposes of carrying out this section, the Secretary shall provide for the transfer to theCenters for Medicare \& Medicaid Services Program Management Account, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, of $130,000,000. Fifty percent of such amount shall be available on October 6, 2014, and fifty percent of such amount shall be equally proportioned for each of fiscal years 2015 through 2019. Such sums shall remain available until expended.
 
 #### (l) Limitation
 
@@ -392,7 +392,7 @@ Study using existing medicare data.—
 
 &emsp;&emsp;"(i)
 
-Study.—The Secretary of Health and Human Services (in this subsection referred to as the 'Secretary') shall conduct a study that examines the effect of individuals' socioeconomic status on quality measures and resource use and other measures forindividuals under the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) (such as to recognize that less healthy individuals may require more intensive interventions). The study shall use information collected on such individuals in carrying out such program, such as urban and rural location, eligibility for Medicaid under title XIX of such Act (42 U.S.C. 1396 et seq.) (recognizing and accounting for varying Medicaid eligibility across States), and eligibility for benefits under the supplemental security income (SSI) program. The Secretary shall carry out this paragraph acting through the Assistant Secretary for Planning and Evaluation.
+Study.—The Secretary of Health and Human Services (in this subsection referred to as the 'Secretary') shall conduct a study that examines the effect of individuals' socioeconomic status on quality measures and resource use and other measures for individuals under the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) (such as to recognize that less healthy individuals may require more intensive interventions). The study shall use information collected on such individuals in carrying out such program, such as urban and rural location, eligibility for Medicaid under title XIX of such Act (42 U.S.C. 1396 et seq.) (recognizing and accounting for varying Medicaid eligibility across States), and eligibility for benefits under the supplemental security income (SSI) program. The Secretary shall carry out this paragraph acting through the Assistant Secretary for Planning and Evaluation.
 
 &emsp;&emsp;"(ii)
 

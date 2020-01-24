@@ -72,7 +72,7 @@ Use of grants.—Amounts received by a State Historic Preservation Officer as a 
 
 (d)
 
-Criteria for Direct Grant and Subgrant Eligibility.—To qualify for a subgrant from the National Trust under subsection (b), or a direct grant to or a subgrant from a State Historic Preservation Officer under subsection (c), a person shall—
+Criteria for Direct Grant and Subgrant Eligibility.—To qualify for a subgrant from theNational Trust under subsection (b), or a direct grant to or a subgrant from a State Historic Preservation Officer under subsection (c), a person shall—
 
 &emsp;(1) demonstrate that the project for which the direct grant or subgrant will be used has the potential for reaching a broad audience with an effective educational program based on American maritime history, technology, or the role of maritime endeavors in American culture;
 
@@ -216,7 +216,7 @@ In subsection (h)(2), the text of 16 U.S.C. 5403(h)(5) and (6) is omitted as obs
 
 <b>2016</b>—Subsec. (c)(1). Pub. L. 114–328, §3507(b), substituted "under section 308704(b)(1)(A)" for "under section 308704(b)(1)(B)".
 
-Subsec. (j). Pub. L. 114–328, §3507(c)(1), in introductory provisions, substituted "the Committee on Commerce, Science, and Transportation of the Senate, theCommittee on Energy and Natural Resources of the Senate, the Committee on Natural Resources of the House of Representatives, the Committee on Armed Services of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives" for "Congress".
+Subsec. (j). Pub. L. 114–328, §3507(c)(1), in introductory provisions, substituted "the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Energy and Natural Resources of the Senate, the Committee on Natural Resources of the House of Representatives, the Committee on Armed Services of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives" for "Congress".
 
 Subsec. (j)(1). Pub. L. 114–328, §3507(c)(3), added par. (1). Former par. (1) redesignated (2).
 

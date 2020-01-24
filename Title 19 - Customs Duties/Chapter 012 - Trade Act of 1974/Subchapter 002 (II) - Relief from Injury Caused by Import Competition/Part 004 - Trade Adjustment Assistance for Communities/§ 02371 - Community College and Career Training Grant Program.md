@@ -20,7 +20,7 @@ In this section:
 
 #### (1) Eligible institution
 
-&emsp;The term "eligible institution" means an institution of higher education (as defined in section 1002 of title 20), but only with respect to a program offered by the institution that can be completed in not more than 2 years.
+&emsp;The term "eligible institution" means an institution of higher education (as defined insection 1002 of title 20), but only with respect to a program offered by the institution that can be completed in not more than 2 years.
 
 #### (2) Secretary
 
@@ -78,7 +78,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the extent and outcome of the outreach conducted under subparagraph (A);
 
-&emsp;&emsp;&emsp;(ii) the extent to which the project for which the grant proposal is submitted will contribute to meeting any shortcomingsidentified under subparagraph (A)(i)(I) or any educational or career training needs identified under subparagraph (A)(i)(II); and
+&emsp;&emsp;&emsp;(ii) the extent to which the project for which the grant proposal is submitted will contribute to meeting any shortcomings identified under subparagraph (A)(i)(I) or any educational or career training needs identified under subparagraph (A)(i)(II); and
 
 &emsp;&emsp;&emsp;(iii) the extent to which employers, including small- and medium-sized firms within the community, have demonstrated a commitment to employing workers who would benefit from the project for which the grant proposal is submitted.
 
@@ -104,7 +104,7 @@ Not later than December 15, 2009, and annually thereafter, the Secretary shall s
 
 &emsp;(1) describing each grant awarded under this section during the preceding fiscal year;
 
-&emsp;(2) assessing the impact of each award of a grant under this section in a fiscal year preceding the fiscal year referred to in paragraph (1) on workers receiving training under section 2296 of this title; and
+&emsp;(2) assessing the impact of each award of a grant under this section in a fiscal year preceding the fiscal year referred to in paragraph\(1) on workers receiving training under section 2296 of this title; and
 
 &emsp;(3) providing the following data relating to program performance and outcomes:
 

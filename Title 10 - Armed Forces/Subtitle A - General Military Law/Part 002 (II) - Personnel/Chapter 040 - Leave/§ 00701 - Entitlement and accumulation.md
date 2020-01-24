@@ -24,7 +24,7 @@
 
 (B) This subsection applies to a member who—
 
-&emsp;(i) serves on active duty for a continuous period of at least 120 days in an area in whichthe member is entitled to special pay under section 310(a) of title 37;
+&emsp;(i) serves on active duty for a continuous period of at least 120 days in an area in which the member is entitled to special pay under section 310(a) of title 37;
 
 &emsp;(ii) is assigned to a deployable ship or mobile unit or to other duty designated for the purpose of this section; or
 
@@ -64,7 +64,7 @@
 
 &emsp;(B) is approved by the commander of the member.
 
-(5) Any leave taken by a member under this subsection, including leave under paragraphs (1) and (4), may be taken only in one increment in connection with such birth or adoption.
+(5) Any leave taken by a member under this subsection, including leave under paragraphs (1) and (4), may be taken in more than one increment in connection with such birth or adoption in accordance with regulations prescribed by the Secretary concerned.
 
 (6)(A) Any leave authorized by this subsection that is not taken within one year of such birth or adoption shall be forfeited.
 
@@ -96,7 +96,13 @@
 
 (k) A member of a reserve component who accumulates leave during a period of active service may carry over any leave so accumulated to the member's next period of active service, subject to the accumulation limits in subsections (b), (d), and (f), without regard to separation or release from active service if the separation or release is under honorable conditions. The taking of leave carried over under this subsection shall be subject to the provisions of this section.
 
-(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321; Pub. L. 110–181, div. A, title V, §551(a)–(c), Jan. 28, 2008, 122 Stat. 117; Pub. L. 110–417, \[div. A\], title V, §532(a), Oct. 14, 2008, 122 Stat. 4449; Pub. L. 111–84, div. A, title V, §504, Oct. 28, 2009, 123 Stat. 2277; Pub. L. 111–383, div. A, title V, §516(a), Jan. 7, 2011, 124 Stat. 4213; Pub. L. 112–239, div. A, title V, §521, Jan. 2, 2013, 126 Stat. 1722; Pub. L. 114–328, div. A, title V, §521(a), Dec. 23, 2016, 130 Stat. 2113.)
+(l) A member of the armed forces who gives birth while on active duty may be deployed during the period of 12 months beginning on the date of such birth only with the approval of a health care provider employed at a military medical treatment facility and—
+
+&emsp;(1) at the election of such member; or
+
+&emsp;(2) in the interest of national security, as determined by the Secretary of Defense.
+
+(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321; Pub. L. 110–181, div. A, title V, §551(a)–(c), Jan. 28, 2008, 122 Stat. 117; Pub. L. 110–417, \[div. A\], title V, §532(a), Oct. 14, 2008, 122 Stat. 4449; Pub. L. 111–84, div. A, title V, §504, Oct. 28, 2009, 123 Stat. 2277; Pub. L. 111–383, div. A, title V, §516(a), Jan. 7, 2011, 124 Stat. 4213;Pub. L. 112–239, div. A, title V, §521, Jan. 2, 2013, 126 Stat. 1722; Pub. L. 114–328, div. A, title V, §521(a), Dec. 23, 2016, 130 Stat. 2113; Pub. L. 116–92, div. A, title V, §§571, 572, Dec. 20, 2019, 133 Stat. 1403.)
 
 Historical and Revision Notes
 
@@ -140,6 +146,10 @@ In subsection (e), the words "before or after August 9, 1946" and section 31a(a)
 
 #### Amendments
 
+<b>2019</b>—Subsec. (i)(5). Pub. L. 116–92, §571, substituted "in more than one increment" for "only in one increment" and inserted "in accordance with regulations prescribed by the Secretary concerned" before period at end.
+
+Subsec. (l). Pub. L. 116–92, §572, added subsec. (l).
+
 <b>2016</b>—Subsecs. (i), (j). Pub. L. 114–328 added subsecs. (i) and (j) and struck out former subsecs. (i) and (j) which read as follows:
 
 "(i)(1) Under regulations prescribed by the Secretary of Defense, a member of the armed forces adopting a child in a qualifying child adoption is allowed up to 21 days of leave in a calendar year to be used in connection with the adoption.
@@ -168,7 +178,7 @@ Subsec. (f)(1)(A). Pub. L. 110–181, §551(b)(1), substituted "at the end of th
 
 Subsec. (f)(1)(C). Pub. L. 110–181, §551(b)(2), substituted "the days of leave authorized to be accumulated under subsection (b) or (d) that are" for "60 days" and inserted "(or fourth fiscal year, if accumulated while subsection (d) is in effect)" after "third fiscal year".
 
-Subsec. (f)(2). Pub. L. 110–181, §551(b)(3), substituted "except for this paragraph, would lose at the end of that fiscal year any accumulated leave in excess of the number of days of leave authorized to be accumulatedunder subsection (b) or (d), shall be permitted to retain such leave until the end of the second fiscal year after the fiscal year in which such service on active duty is terminated" for "except for this paragraph—
+Subsec. (f)(2). Pub. L. 110–181, §551(b)(3), substituted "except for this paragraph, would lose at the end of that fiscal year any accumulated leave in excess of the number of days of leave authorized to be accumulated under subsection (b) or (d), shall be permitted to retain such leave until the end of the second fiscal year after the fiscal year in which such service on active duty is terminated" for "except for this paragraph—
 
 &emsp;"(A) would lose any accumulated leave in excess of 60 days at the end of that fiscal year, shall be permitted to retain such leave (not to exceed 90 days) until the end of the succeeding fiscal year; or
 
@@ -256,7 +266,7 @@ Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretaryof Defense" to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
+Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretary of Defense" to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 
 #### Accumulation of Leave After September 30, 1980, Pursuant to Subsection (f)
 

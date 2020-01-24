@@ -24,7 +24,7 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 (3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the United States Army Command and General Staff College to award any new or existing degree.
 
-(Added Pub. L. 93–365, title VII, §708(a)(1), Aug. 5, 1974, 88 Stat. 407, §4314; amended Pub. L. 96–513, title V, §512(11), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 101–510, div. A, title XIII, §1322(a)(13), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 110–417, \[div. A\], title V, §543(c)(1), Oct. 14, 2008, 122 Stat. 4458; renumbered §7414, Pub. L. 115–232,div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 93–365, title VII, §708(a)(1), Aug. 5, 1974, 88 Stat. 407, §4314; amended Pub. L. 96–513, title V, §512(11), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 101–510, div. A, title XIII, §1322(a)(13), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 110–417, \[div. A\], title V, §543(c)(1), Oct. 14, 2008, 122 Stat. 4458; renumbered §7414, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 #### Amendments
 

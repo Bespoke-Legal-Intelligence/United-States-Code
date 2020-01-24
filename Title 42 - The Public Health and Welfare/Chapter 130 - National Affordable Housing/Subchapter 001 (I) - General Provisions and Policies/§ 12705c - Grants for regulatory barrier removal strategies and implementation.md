@@ -16,7 +16,7 @@ The Secretary may make grants to States and units of general local government (i
 
 &emsp;(4) developing model State or local standards and ordinances to reduce regulatory barriers and assisting in the adoption and use of the standards and ordinances;
 
-&emsp;(5) carrying out the simplification and consolidation of administrative procedures andprocesses constituting regulatory barriers to affordable housing, including the issuance of permits; and
+&emsp;(5) carrying out the simplification and consolidation of administrative procedures and processes constituting regulatory barriers to affordable housing, including the issuance of permits; and
 
 &emsp;(6) providing technical assistance and information to units of general local government for implementation of legislative and administrative reform programs to remove regulatory barriers to affordable housing.
 

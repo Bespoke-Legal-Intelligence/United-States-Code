@@ -20,11 +20,11 @@ Before requiring repayment of payments under subsection (a)(1), or withholding p
 
 #### (d) Prompt response to serious allegations
 
-The Secretary shall promptly respond to any complaint of a substantial or serious naturethat a State has failed to expend amounts received under section 300ee–11(a) of this title in accordance with the agreements required to be contained in the application submitted by the State pursuant to section 300ee–13 of this title.
+The Secretary shall promptly respond to any complaint of a substantial or serious nature that a State has failed to expend amounts received under section 300ee–11(a) of this title in accordance with the agreements required to be contained in the application submitted by the State pursuant to section 300ee–13 of this title.
 
 #### (e) Investigations
 
-(1) The Secretary shall conduct in several States in each fiscal year investigations of the expenditure of payments received by the States under section 300ee–11(a) of this title in order to evaluate compliance with the agreements required to be contained in the applications submitted to the Secretary pursuant to section 300ee–13 of this title.
+(1) The Secretary shall conduct in several States in each fiscal year investigations of theexpenditure of payments received by the States under section 300ee–11(a) of this title in order to evaluate compliance with the agreements required to be contained in the applications submitted to the Secretary pursuant to section 300ee–13 of this title.
 
 (2) The Comptroller General of the United States may conduct investigations of the expenditure of funds received under section 300ee–11(a) of this title by a State in order to ensure compliance with the agreements referred to in paragraph (1).
 

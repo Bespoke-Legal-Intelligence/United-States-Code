@@ -12,7 +12,7 @@ Section 421(a) shall apply with respect to the transfer of a share of stock to a
 
 For purposes of this part, the term "incentive stock option" means an option granted to an individual for any reason connected with his employment by a corporation, if granted by the employer corporation or its parent or subsidiary corporation, to purchase stock of any of such corporations, but only if—
 
-&emsp;(1) the option is granted pursuant to a plan which includes the aggregate number of shareswhich may be issued under options and the employees (or class of employees) eligible to receive options, and which is approved by the stockholders of the granting corporation within 12 months before or after the date such plan is adopted;
+&emsp;(1) the option is granted pursuant to a plan which includes the aggregate number of shares which may be issued under options and the employees (or class of employees) eligible to receive options, and which is approved by the stockholders of the granting corporation within 12 months before or after the date such plan is adopted;
 
 &emsp;(2) such option is granted within 10 years from the date such plan is adopted, or the date such plan is approved by the stockholders, whichever is earlier;
 
@@ -22,7 +22,7 @@ For purposes of this part, the term "incentive stock option" means an option gra
 
 &emsp;(5) such option by its terms is not transferable by such individual otherwise than by will or the laws of descent and distribution, and is exercisable, during his lifetime, only by him; and
 
-&emsp;(6) such individual, at the time the option is granted, does not own stock possessing more than 10 percent of the total combined voting power of all classes of stock of the employer corporation or of its parent or subsidiary corporation.
+&emsp;(6) such individual, at the time the option is granted, does not own stock possessing morethan 10 percent of the total combined voting power of all classes of stock of the employer corporation or of its parent or subsidiary corporation.
 
 > Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option. Such term shall not include any option if an election is made under section 83(i) with respect to the stock received in connection with the exercise of such option.
 
@@ -84,7 +84,7 @@ For purposes of this part, the term "incentive stock option" means an option gra
 
 &emsp;For purposes of paragraph (1), the fair market value of any stock shall be determined as of the time the option with respect to such stock is granted.
 
-(Added Pub. L. 97–34, title II, §251(a), Aug. 13, 1981, 95 Stat. 256, §422A; amended Pub. L. 97–448,title I, §102(j)(1)–(4), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(a)(1), div. B, title VI, §2662(f)(1), July 18, 1984, 98 Stat. 897, 1159; Pub. L. 99–514, title III, §321(a), (b), title XVIII, §1847(b)(5), Oct. 22, 1986, 100 Stat. 2220, 2856; Pub. L. 100–647, title I, §1003(d)(1)(A), (2), Nov. 10, 1988, 102 Stat. 3384; renumbered §422 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (C), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525; Pub. L. 115–97, title I, §13603(c)(1)(A), Dec. 22, 2017, 131 Stat. 2163.)
+(Added Pub. L. 97–34, title II, §251(a), Aug. 13, 1981, 95 Stat. 256, §422A; amended Pub. L. 97–448, title I, §102(j)(1)–(4), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(a)(1), div. B, title VI, §2662(f)(1), July 18, 1984, 98 Stat. 897, 1159; Pub. L. 99–514, title III, §321(a), (b), title XVIII, §1847(b)(5), Oct. 22, 1986, 100 Stat. 2220, 2856; Pub. L. 100–647, title I, §1003(d)(1)(A), (2), Nov. 10, 1988, 102 Stat. 3384; renumbered §422 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (C), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525; Pub. L. 115–97, title I, §13603(c)(1)(A), Dec. 22, 2017, 131 Stat. 2163.)
 
 #### Prior Provisions
 
@@ -92,7 +92,7 @@ A prior section 422, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 
 
 #### Amendments
 
-<b>2017</b>—Subsec. (b). Pub. L. 115–97 inserted at end of concluding provisions "Such term shall not include any option if an election is made under section 83(i) with respect to the stock received in connection with the exercise of such option."
+<b>2017</b>—Subsec. (b). Pub. L. 115–97 inserted at end of concluding provisions "Such term shall not include anyoption if an election is made under section 83(i) with respect to the stock received in connection with the exercise of such option."
 
 <b>1990</b>—Pub. L. 101–508, §11801(c)(9)(A)(i), renumbered section 422A of this title as this section.
 
@@ -156,7 +156,7 @@ Amendment by section 1847(b)(5) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title V, §555(c)(1), July 18, 1984, 98 Stat. 898, as amended by Pub. L. 99–514, title XVIII, §1855(a)(1), Oct. 22, 1986, 100 Stat. 2882, provided that: "The amendment made by subsection (a)(1) \[amending this section\] shall apply to options granted after March 20, 1984, except that such subsection shall not apply to any incentive stock option granted before September 20, 1984, pursuant to a plan adopted or corporate actiontaken by the board of directors of the grantor corporation before May 15, 1984."
+Pub. L. 98–369, div. A, title V, §555(c)(1), July 18, 1984, 98 Stat. 898, as amended by Pub. L. 99–514, title XVIII, §1855(a)(1), Oct. 22, 1986, 100 Stat. 2882, provided that: "The amendment made by subsection (a)(1) \[amending this section\] shall apply to options granted after March 20, 1984, except that such subsection shall not apply to any incentive stock option granted before September 20, 1984, pursuant to a plan adopted or corporate action taken by the board of directors of the grantor corporation before May 15, 1984."
 
 Amendment by section 2662 of Pub. L. 98–369 effective as though included in the enactment of the Social Security Amendments of 1983, Pub. L. 98–21, see section 2664(a) of Pub. L. 98–369, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
@@ -178,7 +178,7 @@ In general.—Except as provided in subparagraph (B), the amendments made by thi
 
 &emsp;"(B)
 
-Election and designation of options.—In the case of an option granted before January 1, 1981, the amendments made by this section shall apply only if the corporation granting such option elects (in the manner and at the time prescribed by the Secretary of the Treasury or his delegate) to have the amendments made by this section apply to such option. The aggregate fair market value (determined at the time the option is granted) of the stock for which any employee was granted options (under all plans of his employer corporation and its parent and subsidiary corporations) to which the amendments made by this section apply by reason of this subparagraph shall not exceed $50,000 per calendar year ans shall not exceed $200,000 in the aggregate.
+Election and designation of options.—In the case of an option granted before January 1, 1981, theamendments made by this section shall apply only if the corporation granting such option elects (in the manner and at the time prescribed by the Secretary of the Treasury or his delegate) to have the amendments made by this section apply to such option. The aggregate fair market value (determined at the time the option is granted) of the stock for which any employee was granted options (under all plans of his employer corporation and its parent and subsidiary corporations) to which the amendments made by this section apply by reason of this subparagraph shall not exceed $50,000 per calendar year ans shall not exceed $200,000 in the aggregate.
 
 "(2)
 

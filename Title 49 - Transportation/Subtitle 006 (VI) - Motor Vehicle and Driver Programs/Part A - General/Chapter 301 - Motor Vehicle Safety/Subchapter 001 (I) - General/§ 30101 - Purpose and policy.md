@@ -48,7 +48,7 @@ Pub. L. 114–94, div. B, title XXIV, §24351, Dec. 4, 2015, 129 Stat. 1716, pro
 
 #### Short Title of 2012 Amendment
 
-Pub. L. 112–196, §1, Oct. 19, 2012, 126 Stat. 1459, provided that: "This Act \[amending section 31311 of thistitle\] may be cited as the 'Military Commercial Driver's License Act of 2012'."
+Pub. L. 112–196, §1, Oct. 19, 2012, 126 Stat. 1459, provided that: "This Act \[amending section 31311 of this title\] may be cited as the 'Military Commercial Driver's License Act of 2012'."
 
 Pub. L. 112–141, div. C, title II, §32001, July 6, 2012, 126 Stat. 776, provided that "This title \[see Tables for classification\] may be cited as the 'Commercial Motor Vehicle Safety Enhancement Act of 2012'."
 
@@ -272,7 +272,7 @@ Standard.—The Secretary may, as part of any action taken under section 2503, a
 
 #### "SEC. 2509. HEAD INJURY IMPACT STUDY.
 
-"The Secretary, in the case of any head injury protection matters not subject to section 2503(5) for which the Secretary is on the date of enactment of this Act \[Dec. 18, 1991\] examining the need for rulemaking and is conducting research, shall provide a report to Congress by the end of fiscal year 1993 identifying those matters and their status. The report shall include a statement of any actions planned toward initiating such rulemaking no later than fiscal year 1994 or 1995 through use of either an advance notice of proposed rulemaking or a notice of proposed rulemaking and completing such rulemaking as soon as possible thereafter."
+"The Secretary, in the case of any head injury protection matters not subject to section 2503(5) for whichthe Secretary is on the date of enactment of this Act \[Dec. 18, 1991\] examining the need for rulemaking and is conducting research, shall provide a report to Congress by the end of fiscal year 1993 identifying those matters and their status. The report shall include a statement of any actions planned toward initiating such rulemaking no later than fiscal year 1994 or 1995 through use of either an advance notice of proposed rulemaking or a notice of proposed rulemaking and completing such rulemaking as soon as possible thereafter."
 
 #### Fuel System Integrity Standard
 

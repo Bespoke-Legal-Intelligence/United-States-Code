@@ -40,7 +40,7 @@ Any provision of any contract, which provision prohibits any transfer of any con
 
 #### (d) Contractual obligations unaffected
 
-The person acquiring contractual interests transferred pursuant to the rule required under subsection (a)(1) shall assume the contractualobligations which the person transferring such contractual interests has under such contract. This section shall not relieve the person transferring such contractual interests from any contractual obligation of such person under such contract if such obligation is not performed by the person acquiring such contractual interests.
+The person acquiring contractual interests transferred pursuant to the rule required under subsection (a)(1) shall assume the contractual obligations which the person transferring such contractual interests has under such contract. This section shall not relieve the person transferring such contractual interests from any contractual obligation of such person under such contract if such obligation is not performed by the person acquiring such contractual interests.
 
 #### (e) Definitions
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 &emsp;(12) The term "interstate commerce" has the same meaning as such term has under the Natural Gas Act.
 
-#### (f) Coordination with this chapter
+#### (f) Coordination with the Natural Gas Act
 
 (1) Consideration in any transfer of contractual interests pursuant to the rule required under subsection (a)(1) of this section shall be deemed just and reasonable for purposes of sections 4 and 5 of the Natural Gas Act \[15 U.S.C. 717c, 717d\] if such consideration does not exceed just compensation.
 

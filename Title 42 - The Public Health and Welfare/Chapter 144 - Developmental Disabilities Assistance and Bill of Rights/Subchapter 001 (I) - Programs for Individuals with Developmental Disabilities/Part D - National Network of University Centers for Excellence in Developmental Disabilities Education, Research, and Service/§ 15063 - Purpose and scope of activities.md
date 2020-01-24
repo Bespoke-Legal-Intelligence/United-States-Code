@@ -10,7 +10,7 @@
 
 &emsp;The core functions referred to in paragraph (1) shall include the following:
 
-&emsp;&emsp;(A) Provision of interdisciplinary pre-service preparation and continuing education of students and fellows, which may include the preparation and continuing education of leadership, direct service, clinical, or other personnel to strengthen and increase the capacity of States and communities to achieve the purpose of this subchapter.
+&emsp;&emsp;(A) Provision of interdisciplinary pre-service preparation and continuing education of students and fellows, which may include thepreparation and continuing education of leadership, direct service, clinical, or other personnel to strengthen and increase the capacity of States and communities to achieve the purpose of this subchapter.
 
 &emsp;&emsp;(B) Provision of community services—
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) Conduct of research, which may include basic or applied research, evaluation, and the analysis of public policy in areas that affect or could affect, either positively or negatively, individuals with developmental disabilities and their families.
 
-&emsp;&emsp;(D) Dissemination of information related to activities undertaken to address the purpose of this subchapter, especially dissemination of information that demonstrates that the network authorized under this partis a national and international resource that includes specific substantive areas of expertise that may be accessed and applied in diverse settings and circumstances.
+&emsp;&emsp;(D) Dissemination of information related to activities undertaken to address the purpose of this subchapter, especially dissemination of information that demonstrates that the network authorized under this part is a national and international resource that includes specific substantive areas of expertise that may be accessed and applied in diverse settings and circumstances.
 
 #### (b) National training initiatives on critical and emerging needs
 

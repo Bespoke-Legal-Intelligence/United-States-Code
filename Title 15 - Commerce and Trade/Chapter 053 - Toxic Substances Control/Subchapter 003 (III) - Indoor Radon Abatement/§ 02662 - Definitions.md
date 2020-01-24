@@ -20,7 +20,7 @@ For purposes of this subchapter:
 
 #### References in Text
 
-Section 241 of title 20, as in effect before enactment of the Improving America's Schools Act of 1994, referred to in par. (1)(C), means section 241 of Title 20, Education, prior to its repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
+Section 241 of title 20, as in effect before enactment of the Improving America's Schools Act of 1994, referred to in par. (1)(C), means section 241 of Title 20,Education, prior to its repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
 
 #### Amendments
 
@@ -38,7 +38,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "2642(9)".</i>
 

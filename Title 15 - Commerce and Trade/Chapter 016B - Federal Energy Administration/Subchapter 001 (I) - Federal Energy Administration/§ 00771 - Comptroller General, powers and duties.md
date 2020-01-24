@@ -6,7 +6,7 @@ For the duration of this chapter, the Comptroller General of the United States s
 
 #### (b) Access to material and written energy information from owners or operators of facilities or business premises engaged in energy matters; scope of information
 
-The Comptroller General or any of his authorized representatives in carrying out his responsibilities under this section may request access to any books, documents, papers, statistics,data, records, and information of any person owning or operating facilities or business premises who is engaged in any phase of energy supply or major energy consumption, where such material relates to the purposes of this chapter, including but not limited to energy costs, demand, supply, industry structure, and environmental impacts. The Comptroller General may request such person to submit in writing such energy information as the Comptroller General may prescribe.
+The Comptroller General or any of his authorized representatives in carrying out his responsibilities under this section may request access to any books, documents, papers, statistics, data, records, and information of any person owning or operating facilities or business premises who is engaged in any phase of energy supply or major energy consumption, where such material relates to the purposes of this chapter, including but not limited to energy costs, demand, supply, industry structure, and environmental impacts. The Comptroller General may request such person to submit in writing such energy information as the Comptroller General may prescribe.
 
 #### (c) Access to material and information from recipients of Federal funds or assistance under Federal transactions
 
@@ -22,7 +22,7 @@ In case of disobedience to a subpena issued under subsection (d) of this section
 
 #### (f) Availability to public of reports submitted to Congress; prohibited disclosures: confidential information and trade secrets; preservation of confidentiality in disclosures to Government
 
-Reports submitted by the Comptroller General to the Congress pursuant to this section shall be available to the public at reasonable cost and upon identifiable request. The Comptroller General may not disclose to the public any information which concerns or relates to a trade secret or other matter referred to in section 1905 of title 18, except that such information shall be disclosed by the Comptroller General or the Administrator, in a manner designed to preserve its confidentiality—
+Reports submitted by the Comptroller General to the Congress pursuant to this section shall beavailable to the public at reasonable cost and upon identifiable request. The Comptroller General may not disclose to the public any information which concerns or relates to a trade secret or other matter referred to in section 1905 of title 18, except that such information shall be disclosed by the Comptroller General or the Administrator, in a manner designed to preserve its confidentiality—
 
 &emsp;(1) to other Federal Government departments, agencies, and officials for official use upon request;
 

@@ -28,6 +28,7 @@
 | [3547\.](%C2%A7%2003547%20-%20Special%20projects.md) | Special projects. |
 | [3548\.](%C2%A7%2003548%20-%20Semiannual%20report%20on%20contracts%20and%20task%20orders.md) | Semiannual report on contracts and task orders. |
 | [3549\.](%C2%A7%2003549%20-%20Investigation%20of%20violations.md) | Investigation of violations. |
+| [3550\.](%C2%A7%2003550%20-%20Audit%20of%20Department%20financial%20statements.md) | Audit of Department financial statements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -62,3 +63,4 @@
 - [&sect; 03547 - Special projects](%C2%A7%2003547%20-%20Special%20projects.md)
 - [&sect; 03548 - Semiannual report on contracts and task orders](%C2%A7%2003548%20-%20Semiannual%20report%20on%20contracts%20and%20task%20orders.md)
 - [&sect; 03549 - Investigation of violations](%C2%A7%2003549%20-%20Investigation%20of%20violations.md)
+- [&sect; 03550 - Audit of Department financial statements](%C2%A7%2003550%20-%20Audit%20of%20Department%20financial%20statements.md)

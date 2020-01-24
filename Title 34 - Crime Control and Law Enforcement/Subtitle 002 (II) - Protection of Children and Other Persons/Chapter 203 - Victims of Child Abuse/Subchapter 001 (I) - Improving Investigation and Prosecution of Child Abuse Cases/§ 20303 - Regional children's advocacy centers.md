@@ -158,7 +158,7 @@ The Administrator, in coordination with the Director of the Office of Victims of
 
 &emsp;Upon discontinuation of funding of a grant recipient under this section, the Administrator shall solicit new proposals in accordance with subsection (c).
 
-(Pub. L. 101–647, title II, §213, as added Pub. L. 102–586, §6(b)(2), Nov. 4, 1992, 106 Stat. 5030; amended Pub. L. 108–21, title III, §381(a), Apr. 30, 2003, 117 Stat. 667; Pub. L. 115–424, §2(c), Jan. 7, 2019, 132 Stat. 5466.)
+(Pub. L. 101–647, title II, §213, as added Pub. L. 102–586, §6(b)(2), Nov. 4, 1992, 106 Stat. 5030;amended Pub. L. 108–21, title III, §381(a), Apr. 30, 2003, 117 Stat. 667; Pub. L. 115–424, §2(c), Jan. 7, 2019, 132 Stat. 5466.)
 
 #### Codification
 

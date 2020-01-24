@@ -2,7 +2,7 @@
 
 #### (a) Enforcement
 
-A civil action to enforce the provisions of sections 539m to 539m–12 of this title may be brought to the extent permitted under chapter 7 of title 5. Judicial review shall be based on the administrative record and subject to the applicable standard of review set forth in section 706 of title 5.
+A civil action to enforce the provisions of sections 539m to 539m–12 of this title may bebrought to the extent permitted under chapter 7 of title 5. Judicial review shall be based on the administrative record and subject to the applicable standard of review set forth in section 706 of title 5.
 
 #### (b) Waiver
 

@@ -4,9 +4,9 @@
 
 #### (1) Allotments to States
 
-&emsp;For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 and 2019, allot to each State which has transmitted an application for the fiscal year under section 705(a) of this title an amount equal to the product of—
+&emsp;For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 and 2019 and for the period beginning October 1, 2019, and ending May 22, 2020, allot to each State which has transmitted an application for the fiscal year (or, with respect to such period, for fiscal year 2020) under section 705(a) of this title an amount equal to the product of—
 
-&emsp;&emsp;(A) the amount appropriated pursuant to subsection (f)(1) for the fiscal year, minus the amount reserved under subsection (f)(2) for the fiscal year; and
+&emsp;&emsp;(A) the amount appropriated pursuant to subsection (f)(1) for the fiscal year or period, minus the amount reserved under subsection (f)(2) for the fiscal year or period; and
 
 &emsp;&emsp;(B) the proportion that the number of low-income children in the State bears to the total of such numbers of children for all the States.
 
@@ -14,13 +14,13 @@
 
 #### (A) Other entities
 
-&emsp;&emsp;For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 and 2019, for any State which has not transmitted an application for the fiscal year under section 705(a) of this title, allot to one or more entities in the State the amount that would have been allotted to the State under paragraph (1) if the State had submitted such an application.
+&emsp;&emsp;For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 and 2019 and for the period beginning October 1, 2019, and ending May 22, 2020, for any State which has not transmitted an application for the fiscal year (or, with respect to such period, for fiscal year 2020) under section 705(a) of this title, allot to one or more entities in the State the amount that would have been allotted to the State under paragraph (1) if the State had submitted such an application.
 
 #### (B) Process
 
 &emsp;&emsp;The Secretary shall select the recipients of allotments under subparagraph (A) by means of a competitive grant process under which—
 
-&emsp;&emsp;&emsp;(i) not later than 30 days after the deadline for the State involved to submit an application for the fiscal year under section 705(a) of this title, the Secretary publishes a notice soliciting grant applications; and
+&emsp;&emsp;&emsp;(i) not later than 30 days after the deadline for the State involved to submit an application for the fiscal year (or, with respect to such period, for fiscal year 2020) under section 705(a) of this title, the Secretary publishes a notice soliciting grant applications; and
 
 &emsp;&emsp;&emsp;(ii) not later than 120 days after such deadline, all such applications must be submitted.
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(A) The holistic individual and societal benefits associated with personal responsibility, self-regulation, goal setting, healthy decisionmaking, and a focus on the future.
 
-&emsp;&emsp;(B) The advantage of refraining from nonmarital sexual activity in order to improvethe future prospects and physical and emotional health of youth.
+&emsp;&emsp;(B) The advantage of refraining from nonmarital sexual activity in order to improve the future prospects and physical and emotional health of youth.
 
 &emsp;&emsp;(C) The increased likelihood of avoiding poverty when youth attain self-sufficiency and emotional maturity before engaging in sexual activity.
 
@@ -118,7 +118,7 @@ In this section:
 
 &emsp;(1) The term "age-appropriate" means suitable (in terms of topics, messages, and teaching methods) to the developmental and social maturity of the particular age or age group of children or adolescents, based on developing cognitive, emotional, and behavioral capacity typical for the age or age group.
 
-&emsp;(2) The term "medically accurate and complete" means verified or supported by the weight of research conducted in compliance with accepted scientific methods and—
+&emsp;(2) The term "medically accurate and complete" means verified or supported by theweight of research conducted in compliance with accepted scientific methods and—
 
 &emsp;&emsp;(A) published in peer-reviewed journals, where applicable; or
 
@@ -136,19 +136,43 @@ In this section:
 
 #### (1) In general
 
-&emsp;To carry out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2018 and 2019.
+&emsp;To carry out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2018 and 2019 and $48,287,671 for the period beginning October 1, 2019, and ending May 22, 2020.
 
 #### (2) Reservation
 
-&emsp;The Secretary shall reserve, for each of fiscal years 2018 and 2019, not more than 20 percent of the amount appropriated pursuant to paragraph (1) for administering the program under this section, including the conducting of national evaluations and the provision of technical assistance to the recipients of allotments.
+&emsp;The Secretary shall reserve, for each of fiscal years 2018 and 2019 and for the period described in paragraph (1), not more than 20 percent of the amount appropriated pursuant to paragraph (1) for administering the program under this section, including the conducting of national evaluations and the provision of technical assistance to the recipients of allotments.
 
-(Aug. 14, 1935, ch. 531, title V, §510, as added Pub. L. 104–193, title IX, §912, Aug. 22, 1996, 110 Stat. 2353; amended Pub. L. 108–40, §6, June 30, 2003, 117 Stat. 837; Pub. L. 111–148, title II, §2954, Mar.23, 2010, 124 Stat. 352; Pub. L. 113–93, title II, §205, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §214(a), Apr. 16, 2015, 129 Stat. 152; Pub. L. 115–123, div. E, title V, §50502(a), Feb. 9, 2018, 132 Stat. 224; Pub. L. 115–141, div. S, title VII, §701, Mar. 23, 2018, 132 Stat. 1138.)
+(Aug. 14, 1935, ch. 531, title V, §510, as added Pub. L. 104–193, title IX, §912, Aug. 22, 1996, 110 Stat. 2353; amended Pub. L. 108–40, §6, June 30, 2003, 117 Stat. 837; Pub. L. 111–148, title II, §2954, Mar. 23, 2010, 124 Stat. 352; Pub. L. 113–93, title II, §205, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §214(a), Apr. 16, 2015, 129 Stat. 152; Pub. L. 115–123, div. E, title V, §50502(a), Feb. 9, 2018, 132 Stat. 224; Pub. L. 115–141, div. S, title VII, §701, Mar. 23, 2018, 132 Stat. 1138; Pub. L. 116–59, div. B, title II, §1201, Sept. 27, 2019, 133 Stat. 1103; Pub. L. 116–69, div. B, title II, §1201, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §303, Dec. 20, 2019, 133 Stat. 3112.)
 
 #### Prior Provisions
 
 A prior section 710, act Aug. 14, 1935, ch. 531, title V, §510, as added Jan. 2, 1968, Pub. L. 90–248, title III, §301, 81 Stat. 927; amended July 10, 1972, Pub. L. 92–345, §2(f), 86 Stat. 457; July 1, 1973, Pub. L. 93–53, §4(a)(8), 87 Stat. 136, provided for special project grants for dental health of children, prior to the general revision of this subchapter by Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818. For effective date, savings, and transitional provisions, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(1). Pub. L. 116–94, §303(1)(A), substituted "May 22, 2020" for "December 20, 2019" in introductory provisions.
+
+Pub. L. 116–69, §1201(1)(A), substituted "December 20, 2019" for "November 21, 2019" in introductory provisions.
+
+Pub. L. 116–59, §1201(1)(A)(i), in introductory provisions, inserted "and for the period beginning October 1, 2019, and ending November 21, 2019" after "for each of fiscal years 2018 and 2019" and "(or, with respect to such period, for fiscal year 2020)" after "for the fiscal year".
+
+Subsec. (a)(1)(A). Pub. L. 116–59, §1201(1)(A)(ii), substituted "for the fiscal year or period" for "for the fiscal year" in two places.
+
+Subsec. (a)(2)(A). Pub. L. 116–94, §303(1)(B), substituted "May 22, 2020" for "December 20, 2019".
+
+Pub. L. 116–69, §1201(1)(B), substituted "December 20, 2019" for "November 21, 2019".
+
+Pub. L. 116–59, §1201(1)(B)(i), inserted "and for the period beginning October 1, 2019, and ending November 21, 2019" after "for each of fiscal years 2018 and 2019" and "(or, with respect to such period, for fiscal year 2020)" after "for the fiscal year".
+
+Subsec. (a)(2)(B)(i). Pub. L. 116–59, §1201(1)(B)(ii), inserted "(or, with respect to such period, for fiscal year 2020)" after "for the fiscal year".
+
+Subsec. (f)(1). Pub. L. 116–94, §303(2), substituted "$48,287,671 for the period beginning October 1, 2019, and ending May 22, 2020" for "$16,643,836 for the period beginning October 1, 2019, and ending December 20, 2019".
+
+Pub. L. 116–69, §1201(2), substituted "$16,643,836 for the period beginning October 1, 2019, and ending December 20, 2019" for "$10,684,931 for the period beginning October 1, 2019, and ending November 21, 2019".
+
+Pub. L. 116–59, §1201(2)(A), inserted "and $10,684,931 for the period beginning October 1, 2019, and ending November 21, 2019" after "for each of fiscal years 2018 and 2019".
+
+Subsec. (f)(2). Pub. L. 116–59, §1201(2)(B), inserted "and for the period described in paragraph (1)" after "for each of fiscal years 2018 and 2019".
 
 <b>2018</b>—Pub. L. 115–123 amended section generally. Prior to amendment, section related to abstinence education.
 

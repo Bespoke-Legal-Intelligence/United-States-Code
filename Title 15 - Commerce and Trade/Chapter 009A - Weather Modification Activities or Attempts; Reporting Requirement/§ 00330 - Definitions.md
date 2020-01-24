@@ -34,7 +34,7 @@ Declaration of Policy.
 
 Findings.—The Congress finds and declares the following:
 
-&emsp;"(1) Weather-related disasters and hazards, including drought, hurricanes, tornadoes, hail, lightning,fog, floods, and frost, result in substantial human suffering and loss of life, billions of dollars of annual economic losses to owners of crops and other property, and substantial financial loss to the United States Treasury;
+&emsp;"(1) Weather-related disasters and hazards, including drought, hurricanes, tornadoes, hail, lightning, fog, floods, and frost, result in substantial human suffering and loss of life, billions of dollars of annual economic losses to owners of crops and other property, and substantial financial loss to the United States Treasury;
 
 &emsp;"(2) Weather modification technology has significant potential for preventing, diverting, moderating, or ameliorating the adverse effects of such disasters and hazards and enhancing crop production and the availability of water;
 
@@ -124,7 +124,7 @@ In General.—The Secretary shall prepare and submit to the President and the Co
 
 &emsp;"(5) recommendations for any changes in the organization and involvement of Federal departments and agencies in weather modification which may be needed to implement effectively the recommended national policy on weather modification and the recommended research and development program; and
 
-&emsp;"(6) recommendations for any regulatory and other legislation which may be required to implement such policy and program or for any international agreement which may be appropriate concerning the peaceful uses of weather modification, including recommendations concerning the dissemination, refinement, and possible implementation of the model domestic code and international agreement developed under the specifications of section 4.
+&emsp;"(6) recommendations for any regulatory and other legislation which may be required to implement suchpolicy and program or for any international agreement which may be appropriate concerning the peaceful uses of weather modification, including recommendations concerning the dissemination, refinement, and possible implementation of the model domestic code and international agreement developed under the specifications of section 4.
 
 > Each department, agency, and other instrumentality of the Federal Government is authorized and directed to furnish the Secretary any information which the Secretary deems necessary to carry out his functions under this Act.
 

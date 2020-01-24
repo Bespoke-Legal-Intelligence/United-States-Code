@@ -20,7 +20,7 @@ Section 532(b) of this Act, referred to in subsec. (b), is section 532(b) of Pub
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–118, §572(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "does not have in place a functioning system for a civilian audit of all receipts and expenditures that fund activities of the armed forces and security forces;".
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–118, §572(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "does not have in place a functioning system for a civilian audit of all receipts and expenditures thatfund activities of the armed forces and security forces;".
 
 Subsec. (a)(2). Pub. L. 105–118, §572(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "has not provided a summary of a current audit to the institution."
 

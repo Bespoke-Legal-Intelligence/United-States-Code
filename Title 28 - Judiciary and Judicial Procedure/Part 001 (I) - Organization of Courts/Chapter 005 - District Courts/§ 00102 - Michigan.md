@@ -36,7 +36,7 @@ Provisions of section 168 of title 28, U.S.C., 1940 ed., relating to venue, were
 
 A provision for a special or adjourned term at Bay City for the hearing of admiralty cases, beginning in February of each year, was omitted. Adequate provision is made for such terms by section 141 of this title.
 
-Words "and mileage on service of process in said northern division shall be computed from Bay City," at the end of the section, were omitted as covered by section 553 of this title.
+Words "and mileage on service of process in said northern division shall be computed from Bay City," atthe end of the section, were omitted as covered by section 553 of this title.
 
 Provisions relating to appointment and residence of deputy clerks and deputy marshals and maintenance of offices by such deputies were omitted as covered by sections 541 \[see 561\], 542 \[see 561\], and 751 of this title.
 

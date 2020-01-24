@@ -6,7 +6,7 @@
 
 &emsp;The Secretary shall require that an applicant for, and a recipient of, a grant, contract, or cooperative agreement for a project under part B or C—
 
-&emsp;&emsp;(A) involve individuals with disabilities or parents of individuals with disabilities agesbirth through 26 in planning, implementing, and evaluating the project; and
+&emsp;&emsp;(A) involve individuals with disabilities or parents of individuals with disabilities ages birth through 26 in planning, implementing, and evaluating the project; and
 
 &emsp;&emsp;(B) where appropriate, determine whether the project has any potential for replication and adoption by other entities.
 
@@ -102,7 +102,7 @@ The Secretary may use funds made available to carry out part B or C to evaluate 
 
 #### References in Text
 
-The Education Sciences Reform Act of 2002, referred to in subsec. (d)(2), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, as amended. Part E of the Act isclassified generally to part E (§9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (d)(2), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, as amended. Part E of the Act is classified generally to part E (§9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
 #### Prior Provisions
 
@@ -120,7 +120,7 @@ Another prior section 1484, Pub. L. 91–230, title VI, §684, as added Pub. L. 
 
 A prior section 1484a, Pub. L. 91–230, title VI, §685, as added Pub. L. 102–119, §21(2), Oct. 7, 1991, 105 Stat. 602; amended Pub. L. 102–321, title I, §161, July 10, 1992, 106 Stat. 375; Pub. L. 103–448, title II, §204(w)(2)(B), Nov. 2, 1994, 108 Stat. 4746, related to establishment, composition, functions, etc., of the Federal Interagency Coordinating Council, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
-A prior section 1485, Pub. L. 91–230, title VI, §685, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 152; amended Pub. L. 106–402, title IV, §401(b)(1), Oct. 30, 2000, 114 Stat. 1737, which related to coordinated technical assistance and dissemination, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1485, Pub. L. 91–230, title VI, §685, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 152; amended Pub. L. 106–402, title IV, §401(b)(1), Oct. 30, 2000, 114 Stat. 1737, which related to coordinated technical assistance and dissemination, was omitted in thegeneral amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1485, Pub. L. 91–230, title VI, §686, formerly §685, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1155; renumbered §686 and amended Pub. L. 102–119, §§20, 21(1), Oct. 7, 1991, 105 Stat. 602, related to authorization of appropriations, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) "active service" has the meaning given it by section 101 of title 37;
 
-&emsp;(2) "a retired member of a uniformed service" means a member or former member of a uniformed service who is entitled, under statute, to retired, retirement, or retainer pay on account of his service as such a member; and
+&emsp;(2) "a retired member of a uniformed service" means a member or former member of auniformed service who is entitled, under statute, to retired, retirement, or retainer pay on account of his service as such a member; and
 
 &emsp;(3) a preference eligible employee who is a retired member of a uniformed service is considered a preference eligible only if—
 

@@ -24,7 +24,7 @@ The revised section is based on the various retirement provisions in this chapte
 
 Prior sections 9331 to 9336 were renumbered sections 9431 to 9436 of this title, respectively.
 
-A prior section 9337, act Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 87–651, title I, §117, Sept. 7, 1962, 76 Stat. 513, related to United States Air Force Academy chaplain, prior to repeal by Pub. L. 114–328, div. A, title V, §591(a), Dec. 23, 2016, 130 Stat. 2152.
+A prior section 9337, act Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 87–651, title I, §117, Sept. 7, 1962, 76 Stat. 513, related to United States Air Force Academychaplain, prior to repeal by Pub. L. 114–328, div. A, title V, §591(a), Dec. 23, 2016, 130 Stat. 2152.
 
 A prior section 9338 was renumbered section 9438 of this title.
 

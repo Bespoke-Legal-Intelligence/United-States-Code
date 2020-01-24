@@ -14,7 +14,7 @@
 
 &emsp;(5) except to the extent that the holder of a particular claim has agreed to a different treatment of such claim, the plan provides that on the effective date of the plan each holder of a claim of a kind specified in section 507(a)(2) of this title will receive on account of such claim cash equal to the allowed amount of such claim;
 
-&emsp;(6) any regulatory or electoral approval necessary under applicable nonbankruptcy law in order to carry out any provision of the planhas been obtained, or such provision is expressly conditioned on such approval; and
+&emsp;(6) any regulatory or electoral approval necessary under applicable nonbankruptcy law in order to carry out any provision of the plan has been obtained, or such provision is expressly conditioned on such approval; and
 
 &emsp;(7) the plan is in the best interests of creditors and is feasible.
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–597 effective Nov. 3, 1988, but not applicable to any case commenced under this title before that date, see section 12 of Pub. L. 100–597, set out as a note under section 101 of this title.
+Amendment by Pub. L. 100–597 effective Nov. 3, 1988, but not applicable to any case commenced under thistitle before that date, see section 12 of Pub. L. 100–597, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -8,7 +8,7 @@ The Congress of the United States finds that—
 
 &emsp;(3) a strong national energy program is needed to meet the present and future energy needs of the Nation consistent with overall national economic, environmental and social goals;
 
-&emsp;(4) responsibility for energy policy, regulation, and research, development and demonstration is fragmented in many departments and agencies and thus does not allow for the comprehensive, centralized focus necessary foreffective coordination of energy supply and conservation programs; and
+&emsp;(4) responsibility for energy policy, regulation, and research, development and demonstration is fragmented in many departments and agencies and thus does not allow for the comprehensive, centralized focus necessary for effective coordination of energy supply and conservation programs; and
 
 &emsp;(5) formulation and implementation of a national energy program require the integration of major Federal energy functions into a single department in the executive branch.
 

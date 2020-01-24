@@ -44,13 +44,13 @@ The death benefit premium for any plan year for any assigned operator shall be e
 
 #### (1) Plan years ending on or before September 30, 2006
 
-&emsp;For plan years ending on or before September 30, 2006, the unassigned beneficiaries premium for any assigned operator shall be equal to the applicable percentage of the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries who are not assigned under section 9706 to any person for such plan year.
+&emsp;For plan years ending on or before September 30, 2006, the unassigned beneficiaries premium for any assigned operator shall be equal to the applicable percentage of the product ofthe per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries who are not assigned under section 9706 to any person for such plan year.
 
 #### (2) Plan years beginning on or after October 1, 2006
 
 #### (A) In general
 
-&emsp;&emsp;For plan years beginning on or after October 1, 2006, subject to subparagraph (B),there shall be no unassigned beneficiaries premium, and benefit costs with respect to eligible beneficiaries who are not assigned under section 9706 to any person for any such plan year shall be paid from amounts transferred under section 9705(b).
+&emsp;&emsp;For plan years beginning on or after October 1, 2006, subject to subparagraph (B), there shall be no unassigned beneficiaries premium, and benefit costs with respect to eligible beneficiaries who are not assigned under section 9706 to any person for any such plan year shall be paid from amounts transferred under section 9705(b).
 
 #### (B) Inadequate transfers
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 #### (2) Deductibility
 
-&emsp;Any premium required by this section shall be deductible without regard to any limitation on deductibility based on the prefunding of health benefits.
+&emsp;Any premium required by this section shall be deductible without regard to any limitationon deductibility based on the prefunding of health benefits.
 
 #### (h) Information
 

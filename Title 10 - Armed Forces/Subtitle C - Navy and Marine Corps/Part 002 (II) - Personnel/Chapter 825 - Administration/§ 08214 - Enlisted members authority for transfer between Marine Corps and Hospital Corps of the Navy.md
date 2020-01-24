@@ -30,7 +30,7 @@ The saving provision of 34 U.S.C. 34a which provided that no person would suffer
 
 #### Prior Provisions
 
-A prior section 8214, acts Aug. 10, 1956, ch. 1041, 70A Stat. 501; Sept. 2, 1958, Pub. L. 85–861, §1(159), 72 Stat. 1514, prescribed authorized strength of Regular Air Force in enlisted members on active duty, exclusive of officer candidates and aviation cadets, prior to repeal by Pub. L. 96–513, title II, §202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
+A prior section 8214, acts Aug. 10, 1956, ch. 1041, 70A Stat. 501; Sept. 2, 1958, Pub. L. 85–861, §1(159), 72 Stat.1514, prescribed authorized strength of Regular Air Force in enlisted members on active duty, exclusive of officer candidates and aviation cadets, prior to repeal by Pub. L. 96–513, title II, §202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
 
 #### Amendments
 

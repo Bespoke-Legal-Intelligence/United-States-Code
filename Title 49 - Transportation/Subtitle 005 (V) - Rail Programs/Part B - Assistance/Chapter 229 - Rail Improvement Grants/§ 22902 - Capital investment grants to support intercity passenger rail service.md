@@ -12,7 +12,7 @@ General Authority.—
 
 Project as Part of State Rail Plan.—
 
-&emsp;(1) The Secretary may not approve a grant for a project under this section unless the Secretary finds that the project is part of a Staterail plan developed under chapter 227 of this title, or under the plan required by section 211 of the Passenger Rail Investment and Improvement Act of 2008, and that the applicant or recipient has or will have the legal, financial, and technical capacity to carry out the project, satisfactory continuing control over the use of the equipment or facilities, and the capability and willingness to maintain the equipment or facilities.
+&emsp;(1) The Secretary may not approve a grant for a project under this section unless the Secretary finds that the project is part of a State rail plan developed under chapter 227 of this title, or under the plan required by section 211 of the Passenger Rail Investment and Improvement Act of 2008, and that the applicant or recipient has or will have the legal, financial, and technical capacity to carry out the project, satisfactory continuing control over the use of the equipment or facilities, and the capability and willingness to maintain the equipment or facilities.
 
 &emsp;(2) An applicant shall provide sufficient information upon which the Secretary can make the findings required by this subsection.
 
@@ -44,7 +44,7 @@ Project Selection Criteria.—The Secretary, in selecting the recipients of fina
 
 &emsp;&emsp;(A) that are anticipated to result in significant improvements to intercity rail passenger service, including, but not limited to, consideration of—
 
-&emsp;&emsp;&emsp;(i) the project's levels of estimated ridership, increased on-time performance, reduced trip time, additional service frequency to meet anticipated or existing demand, or other significant service enhancements as measured against minimum standards developed under section 207 of the Passenger Rail Investment and Improvement Act of 2008;
+&emsp;&emsp;&emsp;(i) the project's levels of estimated ridership, increased on-time performance, reduced trip time, additional service frequency to meet anticipated or existing demand, or other significant service enhancements as measured against minimum standards developed under section 207 ofthe Passenger Rail Investment and Improvement Act of 2008;
 
 &emsp;&emsp;&emsp;(ii) the project's anticipated favorable impact on air or highway traffic congestion, capacity, or safety; and
 
@@ -86,7 +86,7 @@ Project Selection Criteria.—The Secretary, in selecting the recipients of fina
 
 &emsp;&emsp;&emsp;(i) donated property interests or services;
 
-&emsp;&emsp;&emsp;(ii) financial contributions by freight and commuter rail carriers commensuratewith the benefit expected to their operations; and
+&emsp;&emsp;&emsp;(ii) financial contributions by freight and commuter rail carriers commensurate with the benefit expected to their operations; and
 
 &emsp;&emsp;&emsp;(iii) financial commitments from host railroads, non-Federal governmental entities, nongovernmental entities, and others.
 

@@ -34,9 +34,9 @@ Whenever any person—
 
 &emsp;(2) has filed an appeal of that conviction,
 
-> any salary which would be otherwise due such person by virtue of such office or position, shallbe placed in escrow by the individual or organization responsible for payment of such salary. Payment of such salary into escrow shall continue for the duration of the appeal or for the period of time during which such salary would be otherwise due, whichever period is shorter. Upon the final reversal of such person's conviction on appeal, the amounts in escrow shall be paid to such person. Upon the final sustaining of that person's conviction on appeal, the amounts in escrow shall be returned to the individual or organization responsible for payments of those amounts. Upon final reversal of such person's conviction, such person shall no longer be barred by this statute <sup>2</sup> from assuming any position from which such person was previously barred.
+> any salary which would be otherwise due such person by virtue of such office or position, shall be placed in escrow by the individual or organization responsible for payment of such salary. Payment of such salary into escrow shall continue for the duration of the appeal or for the period of time during which such salary would be otherwise due, whichever period is shorter. Upon the final reversal of such person's conviction on appeal, the amounts in escrow shall be paid to such person. Upon the final sustaining of that person's conviction on appeal, the amounts in escrow shall be returned to the individual or organization responsible for payments of those amounts. Upon final reversal of such person's conviction, such person shall no longer be barred by this statute <sup>2</sup> from assuming any position from which such person was previously barred.
 
-(Pub. L. 93–406, title I, §411, Sept. 2, 1974, 88 Stat. 887; Pub. L. 98–473, title II, §§229, 230, 802, Oct. 12, 1984, 98 Stat. 2031, 2131; Pub. L. 100–182, §15(b), Dec. 7, 1987, 101 Stat. 1269.)
+(Pub. L. 93–406, title I, §411, Sept. 2, 1974, 88 Stat. 887; Pub. L. 98–473, title II, §§229, 230, 802, Oct. 12,1984, 98 Stat. 2031, 2131; Pub. L. 100–182, §15(b), Dec. 7, 1987, 101 Stat. 1269.)
 
 #### References in Text
 

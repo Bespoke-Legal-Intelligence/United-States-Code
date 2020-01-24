@@ -126,7 +126,7 @@ Subsec. (b). Pub. L. 105–34, §1032(e)(4), substituted "taxable fuels" for "ga
 
 "(1) For provisions to relieve farmers from excise tax in the case of gasoline used on the farm for farming purposes, see section 6420.
 
-"(2) For provisions to relieve purchasers of gasoline from excise tax in the case of gasoline used for certain nonhighway purposes, used by local transit systems, or sold for certain exempt purposes, see section 6421.
+"(2) For provisions to relieve purchasers of gasoline from excise tax in the case of gasoline used for certainnonhighway purposes, used by local transit systems, or sold for certain exempt purposes, see section 6421.
 
 "(3) For provisions to relieve purchasers of gasoline from excise tax in the case of gasoline not used for taxable purposes, see section 6427."
 

@@ -204,7 +204,7 @@ Statutory Construction.—Nothing in this section expands the authority or juris
 
 #### Restrictions on Essential Air Service Subsidies
 
-Pub. L. 106–181, title II, §205, Apr. 5, 2000, 114 Stat. 94, provided that: "The Secretary \[of Transportation\] may provide assistance under subchapter II of chapter 417 of title 49, United States Code, with respect to a place that is located within 70 highway miles of a hub airport (as defined by section 41731 of such title) if the most commonly used highway route between the place and the hub airport exceeds 70 miles."
+Pub. L. 106–181, title II, §205, Apr. 5, 2000, 114 Stat. 94, provided that: "The Secretary \[of Transportation\] mayprovide assistance under subchapter II of chapter 417 of title 49, United States Code, with respect to a place that is located within 70 highway miles of a hub airport (as defined by section 41731 of such title) if the most commonly used highway route between the place and the hub airport exceeds 70 miles."
 
 Pub. L. 106–69, title III, §332, Oct. 9, 1999, 113 Stat. 1022, provided that: "Hereafter, notwithstanding 49 U.S.C. 41742, no essential air service subsidies shall be provided to communities in the 48 contiguous States that are located fewer than 70 highway miles from the nearest large or medium hub airport, or that require a rate of subsidy per passenger in excess of $200 unless such point is greater than 210 miles from the nearest large or medium hub airport."
 

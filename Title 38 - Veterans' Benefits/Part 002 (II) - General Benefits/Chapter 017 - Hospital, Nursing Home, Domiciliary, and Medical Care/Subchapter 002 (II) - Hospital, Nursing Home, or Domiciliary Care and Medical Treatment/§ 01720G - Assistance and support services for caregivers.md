@@ -20,7 +20,7 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 &emsp;&emsp;&emsp;(II) on or after September 11, 2001; or
 
-&emsp;&emsp;(iii) after the date that is 2 years after the date on which the Secretary submits to Congress the certification described in clause (i), has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service; and
+&emsp;&emsp;(iii) after the date that is 2 years after the date on which the Secretary submits to Congress the certification described in clause (i),has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service; and
 
 &emsp;(C) is in need of personal care services because of—
 
@@ -88,7 +88,7 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 &emsp;&emsp;(i) to identify the personal care services required by the eligible veteran; and
 
-&emsp;&emsp;(ii) to determine whether such requirements could be significantly or substantially satisfied through the provision of personal care services from a family member; and
+&emsp;&emsp;(ii) to determine whether such requirements could be significantly or substantiallysatisfied through the provision of personal care services from a family member; and
 
 &emsp;(B) the family member to determine the amount of instruction, preparation, and training, if any, the family member requires to provide the personal care services required by the eligible veteran—
 
@@ -146,7 +146,7 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 (11)(A) In providing assistance under this subsection to family caregivers of eligible veterans, the Secretary may enter into contracts, provider agreements, and memoranda of understanding with Federal agencies, States, and private, nonprofit, and other entities to provide such assistance to such family caregivers.
 
-(B) The Secretary may provide assistance under this paragraph only if such assistance is reasonably accessible to the family caregiver and is substantially equivalent or better in quality to similar services provided by the Department.
+(B) The Secretary may provide assistance under this paragraph only if such assistance isreasonably accessible to the family caregiver and is substantially equivalent or better in quality to similar services provided by the Department.
 
 (C) The Secretary may provide fair compensation to Federal agencies, States, and other entities that provide assistance under this paragraph.
 
@@ -356,7 +356,7 @@ Final report.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than October 1, 2019, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate, the Committee on Veterans' Affairs of the House of Representatives, and the Comptroller General a report on the implementation of subsections (a) through (c).
+In general.—Not later than October 1, 2019, the Secretary shall submit to the Committee onVeterans' Affairs of the Senate, the Committee on Veterans' Affairs of the House of Representatives, and the Comptroller General a report on the implementation of subsections (a) through (c).
 
 &emsp;&emsp;"(B)
 

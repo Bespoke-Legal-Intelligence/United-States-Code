@@ -12,7 +12,7 @@
 
 > The employing agency shall make the findings in the form and manner prescribed by regulations of the Secretary. The regulations shall include provision for correction by the employing agency of errors and omissions. This subsection does not apply with respect to Federal service and Federal wages covered by subchapter II of this chapter.
 
-(b) The agency administering the unemployment compensation law of a State shall furnish the Secretary such information as he considersnecessary or appropriate in carrying out this subchapter. The information is deemed the report required by the Secretary for the purpose of section 503(a)(6) of title 42.
+(b) The agency administering the unemployment compensation law of a State shall furnish the Secretary such information as he considers necessary or appropriate in carrying out this subchapter. The information is deemed the report required by the Secretary for the purpose of section 503(a)(6) of title 42.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 589; Pub. L. 94–566, title III, §313(a), Oct. 20, 1976, 90 Stat. 2680.)
 

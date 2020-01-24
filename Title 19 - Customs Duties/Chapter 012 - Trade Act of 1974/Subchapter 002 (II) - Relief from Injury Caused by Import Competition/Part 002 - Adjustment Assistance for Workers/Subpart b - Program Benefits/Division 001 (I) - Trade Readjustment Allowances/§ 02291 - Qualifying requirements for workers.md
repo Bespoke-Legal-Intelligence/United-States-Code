@@ -126,7 +126,7 @@ If—
 
 #### References in Text
 
-The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (a)(4), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 202(a)(3) of such Act, referred to in subsec. (a)(4), is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
+The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (a)(4), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section3304 of Title 26, Internal Revenue Code. Section 202(a)(3) of such Act, referred to in subsec. (a)(4), is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -188,7 +188,7 @@ Subsec. (c)(1)(B). Pub. L. 111–5, §§1821(b)(1), 1893, temporarily designated
 
 Subsec. (c)(2)(A). Pub. L. 111–5, §§1821(b)(2), 1893, temporarily substituted "Except as provided in paragraph (3)(B), a waiver" for "A waiver". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (c)(3)(A). Pub. L. 111–5, §§1821(b)(3)(A), 1893, temporarily substituted "An agreement under section 2311 of this title shall authorize a" for "Pursuant to an agreement under section 2311 of this title, the Secretary may authorize a". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (c)(3)(A). Pub. L. 111–5, §§1821(b)(3)(A), 1893, temporarily substituted "An agreement under section 2311 of this title shall authorize a" for "Pursuant to an agreement under section 2311 of this title, the Secretary may authorize a". See Codification note aboveand Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (c)(3)(B), (C). Pub. L. 111–5, §§1821(b)(3)(B), (C), 1893, temporarily added subpar. (B) and redesignated former subpar. (B) as (C). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -238,7 +238,7 @@ Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 22
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21,2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
+Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
 
 #### Effective Date of 2002 Amendment
 
@@ -266,7 +266,7 @@ Job Search Program Requirements.—The amendments made by section 13003(a) \[ame
 
 "(c)
 
-Extension and Authorization.—Chapters 2 and 3 of title II of the Trade Act of 1974 (19 U.S.C. 2271, et seq.) \[parts 2 and 3 of this subchapter\] shall be applied as if the amendments made by sections 13007 and 13008 \[amending sections 2317 and 2346 of this title and provisions set out as a note preceding section 2271 of this title\] had taken effect on December 18, 1985.
+Extension and Authorization.—Chapters 2 and 3 of title II of the Trade Act of 1974 (19 U.S.C. 2271, etseq.) \[parts 2 and 3 of this subchapter\] shall be applied as if the amendments made by sections 13007 and 13008 \[amending sections 2317 and 2346 of this title and provisions set out as a note preceding section 2271 of this title\] had taken effect on December 18, 1985.
 
 "(d)
 
@@ -308,5 +308,5 @@ Pub. L. 97–35, title XXV, §2514, Aug. 13, 1981, 95 Stat. 889, as amended by P
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be providedunder this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

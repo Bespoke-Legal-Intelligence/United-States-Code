@@ -6,7 +6,7 @@ The electric energy generated in the operation of the said Fort Peck project sha
 
 #### (b) Construction and maintenance of electric transmission lines, substations, and interconnections
 
-In order to encourage the widest possible use of all electric energy that can be generated and marketed and to provide reasonable outlets therefor, and to prevent the monopolization thereof by limited groups, the Bureau is authorized and directed to provide, construct, operate, maintain, and improve such electric transmission lines and substations, and facilities and structures appurtenant thereto, as it finds necessary, desirable, or appropriate for the purpose of transmitting electric energy, available for sale, from the Fort Peck project to existing and potential markets, and, for the purpose of interchange of electric energy, to interconnect the Fort Peck project with either private or with other Federal projects and publicly owned power systems now or hereafter constructed.
+In order to encourage the widest possible use of all electric energy that can be generated and marketed and to provide reasonable outlets therefor, and to prevent the monopolization thereof by limited groups, the Bureau is authorized and directed to provide, construct, operate, maintain, and improve such electric transmission lines and substations, and facilities and structures appurtenant thereto, as it finds necessary, desirable, or appropriate for the purpose of transmitting electric energy, available for sale, from the Fort Peck project to existing and potential markets, and, for the purpose of interchange of electric energy, to interconnect theFort Peck project with either private or with other Federal projects and publicly owned power systems now or hereafter constructed.
 
 #### (c) Acquisition of real and personal property
 
@@ -46,7 +46,7 @@ Act Feb. 27, 1948, ch. 75, 62 Stat. 36, provided: "That, in aid of the administr
 
 "
 
-Sec. 2. That the amount of money to be paid for said property shall be $58,577.52, or so much thereof as theSecretary of the Interior shall determine to be needed pursuant to the provisions of said permit and memorandum of understanding. Such sum shall be paid, from funds now or hereafter made available to the Department of the Interior for the construction of transmission lines and substations of the Fort Peck project, to the Commissioner of Indian Affairs, who shall deposit such sum in the Treasury of the United States as a credit on expenditures made for irrigation and power construction on the Fort Peck Indian irrigation project.
+Sec. 2. That the amount of money to be paid for said property shall be $58,577.52, or so much thereof as the Secretary of the Interior shall determine to be needed pursuant to the provisions of said permit and memorandum of understanding. Such sum shall be paid, from funds now or hereafter made available to the Department of the Interior for the construction of transmission lines and substations of the Fort Peck project, to the Commissioner of Indian Affairs, who shall deposit such sum in the Treasury of the United States as a credit on expenditures made for irrigation and power construction on the Fort Peck Indian irrigation project.
 
 "
 

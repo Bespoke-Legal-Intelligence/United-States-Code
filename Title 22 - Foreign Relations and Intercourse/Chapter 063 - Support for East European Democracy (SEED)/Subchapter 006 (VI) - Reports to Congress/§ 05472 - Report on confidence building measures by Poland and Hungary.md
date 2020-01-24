@@ -4,7 +4,7 @@ Not later than 180 days after November 28, 1989, the President shall submit a re
 
 &emsp;(1) the confidence building measures Poland and Hungary could undertake to facilitate the negotiation of agreements, including bilateral customs and technology transfer agreements, that would encourage greater direct private sector investment in that country; and
 
-&emsp;(2) the confidence building measures Poland and Hungary could undertake with respect tothe treatment accorded those countries under the Export Administration Act of 1979.
+&emsp;(2) the confidence building measures Poland and Hungary could undertake with respect to the treatment accorded those countries under the Export Administration Act of 1979.
 
 (Pub. L. 101–179, title VII, §702, Nov. 28, 1989, 103 Stat. 1320.)
 

@@ -50,5 +50,5 @@ In subsection (c)(2), the words "<i>Provided</i>, That" are omitted because of t
 
 #### Payment for Audits
 
-Pub. L. 108–83, title I, §1401, Sept. 30, 2003, 117 Stat. 1034, as amended by Pub. L. 108–271, §8(b), July 7, 2004,118 Stat. 814, authorized the Comptroller General, at any time during fiscal year 2004 or thereafter, to accept payment from the Securities and Exchange Commission for performance of audits of financial statements of the Commission, prior to repeal by Pub. L. 110–323, §6(b), Sept. 22, 2008, 122 Stat. 3547, effective Oct. 1, 2010.
+Pub. L. 108–83, title I, §1401, Sept. 30, 2003, 117 Stat. 1034, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, authorized the Comptroller General, at any time during fiscal year 2004 or thereafter, to accept payment from the Securities and Exchange Commission for performance of audits of financial statements of the Commission, prior to repeal by Pub. L. 110–323, §6(b), Sept. 22, 2008, 122 Stat. 3547, effective Oct. 1, 2010.
 

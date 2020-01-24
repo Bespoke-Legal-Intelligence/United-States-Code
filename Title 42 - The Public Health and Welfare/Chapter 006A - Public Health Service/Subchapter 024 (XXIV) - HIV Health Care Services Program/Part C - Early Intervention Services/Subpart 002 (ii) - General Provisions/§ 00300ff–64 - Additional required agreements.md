@@ -90,7 +90,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 #### (1) In general
 
-&emsp;The Secretary may not make a grant under this part unless the applicant for the grant agrees that, subject to paragraph (2), the grant will not be expended by the applicant, or by any entity receiving amounts from the applicant for the provision of early intervention services, to make payment for any such service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such service—
+&emsp;The Secretary may not make a grant under this part unless the applicant for the grant agrees that, subject to paragraph (2), the grant will not be expended by the applicant, or by any entity receiving amounts from the applicant for the provision of early interventionservices, to make payment for any such service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such service—
 
 &emsp;&emsp;(A) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program (except for a program administered by or providing the services of the Indian Health Service); or
 

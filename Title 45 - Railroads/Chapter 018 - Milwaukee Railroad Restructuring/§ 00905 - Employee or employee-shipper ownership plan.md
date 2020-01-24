@@ -40,7 +40,7 @@ Except as provided in this section, the findings of the Commission with respect 
 
 &emsp;(B) traffic, revenue, marketing, and other data necessary to determine the amount of the acquisition cost of the railroad or portion of the railroad that would be required to continue rail transportation over the railroad line.
 
-(2) Information provided pursuant to this subsection shall be used only for purposes of preparing a plan and shall not be disclosed to any competitor or, unless necessary in connection withthe preparation of the plan, to any customer of the Milwaukee Railroad.
+(2) Information provided pursuant to this subsection shall be used only for purposes of preparing a plan and shall not be disclosed to any competitor or, unless necessary in connection with the preparation of the plan, to any customer of the Milwaukee Railroad.
 
 (Pub. L. 96–101, §6, Nov. 4, 1979, 93 Stat. 738.)
 

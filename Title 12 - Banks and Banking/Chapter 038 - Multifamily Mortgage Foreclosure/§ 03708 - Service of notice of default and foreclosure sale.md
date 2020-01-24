@@ -6,7 +6,7 @@ The foreclosure commissioner shall serve the notice of default and foreclosure s
 
 &emsp;&emsp;(A) the current security property owner of record, as the record exists forty-five days prior to the date originally set for foreclosure sale, whether or not the notice describes a sale adjourned as provided in this chapter;
 
-&emsp;&emsp;(B) the original mortgagor and all subsequent mortgagors of record or other personswho appear of record or in the mortgage agreement to be liable for part or all of the mortgage debt, as the record exists forty-five days prior to the date originally set for foreclosure sale, whether or not the notice describes a sale adjourned as provided in this chapter, except any such mortgagors or persons who have been released; and
+&emsp;&emsp;(B) the original mortgagor and all subsequent mortgagors of record or other persons who appear of record or in the mortgage agreement to be liable for part or all of the mortgage debt, as the record exists forty-five days prior to the date originally set for foreclosure sale, whether or not the notice describes a sale adjourned as provided in this chapter, except any such mortgagors or persons who have been released; and
 
 &emsp;&emsp;(C) all persons holding liens of record upon the security property, as the record exists forty-five days prior to the date originally set for foreclosure sale, whether or not the notice describes a sale adjourned as provided in this chapter.
 

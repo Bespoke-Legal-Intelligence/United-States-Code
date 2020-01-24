@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—An individual may not operate by any means or embark in any submersiblevessel or semi-submersible vessel that is without nationality and that is navigating or has navigated into, through, or from waters beyond the outer limit of the territorial sea of a single country or a lateral limit of that country's territorial sea with an adjacent country, with the intent to evade detection.
+In General.—An individual may not operate by any means or embark in any submersible vessel or semi-submersible vessel that is without nationality and that is navigating or has navigated into, through, or from waters beyond the outer limit of the territorial sea of a single country or a lateral limit of that country's territorial sea with an adjacent country, with the intent to evade detection.
 
 (b)
 
@@ -16,7 +16,7 @@ Defenses.—
 
 In general.—It is a defense in any civil enforcement proceeding for a violation of subsection (a) that the submersible vessel or semi-submersible vessel involved was, at the time of the violation—
 
-&emsp;&emsp;(A) a vessel of the United States or lawfully registered in a foreign nation as claimed by the master or individual in charge of the vessel when requested to make a claim by an officer of the United States authorized to enforce applicable provisions of United States law;
+&emsp;&emsp;(A) a vessel of the United States or lawfully registered in a foreign nation asclaimed by the master or individual in charge of the vessel when requested to make a claim by an officer of the United States authorized to enforce applicable provisions of United States law;
 
 &emsp;&emsp;(B) classed by and designed in accordance with the rules of a classification society;
 

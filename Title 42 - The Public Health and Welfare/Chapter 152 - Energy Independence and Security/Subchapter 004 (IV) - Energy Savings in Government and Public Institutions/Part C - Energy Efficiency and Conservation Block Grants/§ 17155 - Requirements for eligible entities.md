@@ -26,7 +26,7 @@
 
 &emsp;&emsp;The proposed strategy under subparagraph (A) shall include—
 
-&emsp;&emsp;&emsp;(i) a description of the goals of the eligible unit of local government or Indian tribe, in accordance with the purposes of this part, for increased energy efficiency and conservation in the jurisdiction of the eligible unit of local government or Indian tribe; and
+&emsp;&emsp;&emsp;(i) a description of the goals of the eligible unit of local government or Indiantribe, in accordance with the purposes of this part, for increased energy efficiency and conservation in the jurisdiction of the eligible unit of local government or Indian tribe; and
 
 &emsp;&emsp;&emsp;(ii) a plan for the use of the grant to assist the eligible unit of local government or Indian tribe in achieving those goals, in accordance with section 17154 of this title.
 
@@ -80,7 +80,7 @@
 
 #### (4) Annual report
 
-&emsp;Not later than 2 years after the date on which funds are initially provided to an eligible unit of local government or Indian tribe under the program, and annually thereafter, the eligible unit of local government or Indiantribe shall submit to the Secretary a report describing—
+&emsp;Not later than 2 years after the date on which funds are initially provided to an eligible unit of local government or Indian tribe under the program, and annually thereafter, the eligible unit of local government or Indian tribe shall submit to the Secretary a report describing—
 
 &emsp;&emsp;(A) the status of development and implementation of the energy efficiency and conservation strategy of the eligible unit of local government or Indian tribe; and
 

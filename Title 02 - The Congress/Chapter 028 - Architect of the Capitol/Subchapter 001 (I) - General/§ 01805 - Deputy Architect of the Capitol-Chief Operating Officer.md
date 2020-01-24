@@ -6,7 +6,7 @@ There shall be a Deputy Architect of the Capitol who shall serve as the Chief Op
 
 #### (b) Qualifications
 
-The Deputy Architect of the Capitol shall have strong leadership skills and demonstratedability in management, including in such areas as strategic planning, performance management, worker safety, customer satisfaction, and service quality.
+The Deputy Architect of the Capitol shall have strong leadership skills and demonstrated ability in management, including in such areas as strategic planning, performance management, worker safety, customer satisfaction, and service quality.
 
 #### (c) Responsibilities
 
@@ -50,7 +50,7 @@ The Government Accountability Office shall evaluate annually the implementation 
 
 #### (g) Removal
 
-The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i). Upon the removal of the Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing the Committees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.
+The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i). Upon the removal of the Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing theCommittees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.
 
 #### (h) Compensation
 
@@ -84,5 +84,5 @@ Pub. L. 111–316, §1(c), Dec. 18, 2010, 124 Stat. 3452, provided that: "The am
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–11, title II, §2601(b), Apr. 16, 2003, 117 Stat. 599, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect asif included in the enactment of the Legislative Branch Appropriations Act, 2003 \[Pub. L. 108–7, div. H\]."
+Pub. L. 108–11, title II, §2601(b), Apr. 16, 2003, 117 Stat. 599, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2003 \[Pub. L. 108–7, div. H\]."
 

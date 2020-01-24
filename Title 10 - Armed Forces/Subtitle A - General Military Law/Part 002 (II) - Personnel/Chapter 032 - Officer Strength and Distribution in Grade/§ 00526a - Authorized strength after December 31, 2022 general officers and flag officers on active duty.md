@@ -2,7 +2,7 @@
 
 (a)
 
-Limitations.—The number of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, after December 31, 2022,may not exceed the number specified for the armed force concerned as follows:
+Limitations.—The number of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, after December 31, 2022, may not exceed the number specified for the armed force concerned as follows:
 
 &emsp;(1) For the Army, 220.
 
@@ -34,7 +34,7 @@ Minimum number.—Unless the Secretary of Defense determines that a lower number
 
 (c)
 
-Exclusion of Certain Officers Pending Separation or Retirement or Between Senior Positions.—The limitations of this section do not apply to—
+Exclusion of Certain Officers Pending Separation or Retirement or Between SeniorPositions.—The limitations of this section do not apply to—
 
 &emsp;(1) an officer of an armed force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty, but only during the 60-day period beginning on the date of the commencement of such leave of such officer; or
 

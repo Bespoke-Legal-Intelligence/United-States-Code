@@ -34,7 +34,7 @@ Pub. L. 114–11, title I, §101, Apr. 30, 2015, 129 Stat. 182, provided that: "
 
 Pub. L. 110–140, §1(a), Dec. 19, 2007, 121 Stat. 1492, provided that: "This Act \[see Tables for classification\] may be cited as the 'Energy Independence and Security Act of 2007'."
 
-Pub. L. 110–140, title VI, §601, Dec. 19, 2007, 121 Stat. 1674, provided that: "This subtitle \[subtitle A (§§601–607) of title VI of Pub. L. 110–140, enacting part A (§17171 et seq.) of subchapter V of this chapter\] may be cited as the 'Solar Energy Research and Advancement Act of 2007'."
+Pub. L. 110–140, title VI, §601, Dec. 19, 2007, 121 Stat. 1674, provided that: "This subtitle \[subtitle A (§§601–607) of title VI of Pub. L. 110–140, enacting partA (§17171 et seq.) of subchapter V of this chapter\] may be cited as the 'Solar Energy Research and Advancement Act of 2007'."
 
 Pub. L. 110–140, title VI, §611, Dec. 19, 2007, 121 Stat. 1678, provided that: "This subtitle \[subtitle B (§§611–625) of title VI of Pub. L. 110–140, enacting part B (§17191 et seq.) of subchapter V of this chapter\] may be cited as the 'Advanced Geothermal Energy Research and Development Act of 2007'."
 

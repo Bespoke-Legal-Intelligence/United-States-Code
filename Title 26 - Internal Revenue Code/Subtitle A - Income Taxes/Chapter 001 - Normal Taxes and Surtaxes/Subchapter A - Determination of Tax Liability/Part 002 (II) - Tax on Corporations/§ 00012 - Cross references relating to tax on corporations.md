@@ -22,7 +22,7 @@ Par. (7). Pub. L. 115–97, §12001(b)(12), struck out par. (7) which read as fo
 
 <b>1986</b>—Par. (7). Pub. L. 99–514 amended par. (7) generally, substituting "alternative minimum tax" and "55" for "minimum tax for tax preferences" and "56", respectively.
 
-<b>1984</b>—Pars. (6) to (8). Pub. L. 98–369 redesignated pars. (7) and (8) as (6) and (7), respectively. Former par. (6),which referred to section 1451 for withholding of tax on tax-free covenant bonds, was struck out.
+<b>1984</b>—Pars. (6) to (8). Pub. L. 98–369 redesignated pars. (7) and (8) as (6) and (7), respectively. Former par. (6), which referred to section 1451 for withholding of tax on tax-free covenant bonds, was struck out.
 
 <b>1978</b>—Par. (7). Pub. L. 95–600 substituted "benefits of graduated rate schedule provided in section 11(b)" for "the $25,000 exemption from surtax provided in section 11(c)".
 

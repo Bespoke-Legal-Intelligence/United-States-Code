@@ -12,7 +12,7 @@ In the case of each failure to file a statement of a payment to another person r
 
 #### (b) Failure to report tips
 
-In the case of failure by an employee to report to his employer on the date and in the manner prescribed therefor any amount of tips required to be so reported by section 6053(a) which are wages (as defined in section 3121(a)) or which are compensation (as defined in section 3231(e)), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be paid by the employee, in addition to the tax imposed by section 3101 or section 3201 (as the case may be) with respect to the amount of tips which he so failed to report, an amount equal to 50 percent of such tax.
+In the case of failure by an employee to report to his employer on the date and in the manner prescribed therefor any amount of tips required to be so reported by section 6053(a) which are wages (as defined in section 3121(a)) or which are compensation (as defined in section 3231(e)), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be paid by the employee, in addition to the tax imposed by section 3101 or section 3201\(as the case may be) with respect to the amount of tips which he so failed to report, an amount equal to 50 percent of such tax.
 
 #### (c) Returns by exempt organizations and by certain trusts
 
@@ -44,7 +44,7 @@ In the case of failure by an employee to report to his employer on the date and 
 
 #### (D) Public inspection of applications for exemption and notice of status
 
-&emsp;&emsp;In the case of a failure to comply with the requirements of section 6104(d) with respect to any exempt status application materials (as defined in such section) or notice materials (as defined in such section) on the dateand in the manner prescribed therefor, there shall be paid by the person failing to meet such requirements $20 for each day during which such failure continues.
+&emsp;&emsp;In the case of a failure to comply with the requirements of section 6104(d) with respect to any exempt status application materials (as defined in such section) or notice materials (as defined in such section) on the date and in the manner prescribed therefor, there shall be paid by the person failing to meet such requirements $20 for each day during which such failure continues.
 
 #### (E) No penalty for certain annual notices
 
@@ -66,7 +66,7 @@ In the case of failure by an employee to report to his employer on the date and 
 
 &emsp;&emsp;&emsp;(i) the 5 percent limitation in the second sentence of paragraph (1)(A) shall not apply,
 
-&emsp;&emsp;&emsp;(ii) in the case of any trust with gross income in excess of $250,000, in applying the first sentence of paragraph (1)(A), the amount of the penalty for each day during which a failure continues shall be $100 in lieu of the amount otherwise specified, and in lieu of applying the second sentence of paragraph (1)(A), the maximum penalty under paragraph (1)(A) shall not exceed $50,000, and
+&emsp;&emsp;&emsp;(ii) in the case of any trust with gross income in excess of $250,000, in applying the first sentence of paragraph (1)(A), the amount of the penalty for each day duringwhich a failure continues shall be $100 in lieu of the amount otherwise specified, and in lieu of applying the second sentence of paragraph (1)(A), the maximum penalty under paragraph (1)(A) shall not exceed $50,000, and
 
 &emsp;&emsp;&emsp;(iii) the third sentence of paragraph (1)(A) shall be disregarded.
 
@@ -138,15 +138,15 @@ In the case of failure by an employee to report to his employer on the date and 
 
 #### (1) Registration
 
-&emsp;In the case of any failure to file a registration statement required under section 6057(a) (relating to annual registration of certain plans) which includes all participants required to be included in such statement, on the date prescribed therefor (determined without regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, an amount equal to $1 for each participant with respect to whom there is a failure to file, multiplied by the number of days during which such failure continues, but the total amount imposed under this paragraph on any person for any failure to file with respect to any plan year shall not exceed $5,000.
+&emsp;In the case of any failure to file a registration statement required under section 6057(a) (relating to annual registration of certain plans) which includes all participants required to be included in such statement, on the dateprescribed therefor (determined without regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, an amount equal to $10 for each participant with respect to whom there is a failure to file, multiplied by the number of days during which such failure continues, but the total amount imposed under this paragraph on any person for any failure to file with respect to any plan year shall not exceed $50,000.
 
 #### (2) Notification of change of status
 
-&emsp;In the case of failure to file a notification required under section 6057(b) (relating to notification of change of status) on the date prescribed therefor (determined without regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, $1 for each day during which such failure continues, but the total amounts imposed under this paragraph on any person for failure to file any notification shall not exceed $1,000.
+&emsp;In the case of failure to file a notification required under section 6057(b) (relating to notification of change of status) on the date prescribed therefor (determined without regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, $10 for each day during which such failure continues, but the total amounts imposed under this paragraph on any person for failure to file any notification shall not exceed $10,000.
 
 #### (e) Information required in connection with certain plans of deferred compensation, etc.
 
-In the case of failure to file a return or statement required under section 6058 (relating to information required in connection with certain plans of deferred compensation), 6047 (relating to information relating to certain trusts and annuity and bond purchase plans), or 6039D (relating to returns and records with respect to certain fringe benefit plans) on the date and in the manner prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, $25 for each day during which such failure continues, but the total amount imposed under this subsection on any person for failure to file any return shall not exceed $15,000. This subsection shall not apply to any return or statement which is an information return described in section 6724(d)(1)(C)(ii) or a payee statement described in section 6724(d)(2)(AA).
+In the case of failure to file a return or statement required under section 6058 (relating to information required in connection with certain plans of deferred compensation), 6047 (relating to information relating to certain trusts and annuity and bond purchase plans), or 6039D (relating to returns and records with respect to certain fringe benefit plans) on the date and in the manner prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, $250 for each day during which such failure continues, but the total amount imposed under this subsection on any person for failure to file any return shall not exceed $150,000. This subsection shall not apply to any return or statement which is an information return described in section 6724(d)(1)(C)(ii) or a payee statement described in section 6724(d)(2)(AA).
 
 #### (f) Returns required under section 6039C
 
@@ -172,7 +172,7 @@ In the case of failure to file a return or statement required under section 6058
 
 #### (h) Failure to give notice to recipients of certain pension, etc., distributions
 
-In the case of each failure to provide notice as required by section 3405(e)(10)(B), at the time prescribed therefor, unless it is shown that such failure is due to reasonable cause and not to willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such notice, an amount equal to $10 for each such failure, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $5,000.
+In the case of each failure to provide notice as required by section 3405(e)(10)(B), at the time prescribed therefor, unless it is shown that such failure is due to reasonable cause and not to willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such notice, an amount equal to $100 for each such failure, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $50,000.
 
 #### (i) Failure to give written explanation to recipients of certain qualifying rollover distributions
 
@@ -184,7 +184,7 @@ In the case of each failure to provide a certification as required by section 14
 
 #### (k) <sup>1</sup> Failure to make reports required under section 1202
 
-In the case of a failure to make a report required under section 1202(d)(1)(C) which contains the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing to make such report, an amount equal to $50 for each report with respect to which there was such a failure. In the case of any failure due to negligence or intentional disregard, the preceding sentence shall be applied by substituting "$100" for "$50". In the case of a report covering periods in 2 or more years, the penalty determined under preceding provisions of this subsection shall be multiplied by the number of such years. No penalty shall be imposed under this subsection on any failure which is shown to be due to reasonable cause and not willful neglect.
+In the case of a failure to make a report required under section 1202(d)(1)(C) which contains the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing to make such report, an amount equal to$50 for each report with respect to which there was such a failure. In the case of any failure due to negligence or intentional disregard, the preceding sentence shall be applied by substituting "$100" for "$50". In the case of a report covering periods in 2 or more years, the penalty determined under preceding provisions of this subsection shall be multiplied by the number of such years. No penalty shall be imposed under this subsection on any failure which is shown to be due to reasonable cause and not willful neglect.
 
 #### (l) Failure to file return with respect to certain corporate transactions
 
@@ -206,7 +206,7 @@ In the case of each failure to provide a written notice as required by section 9
 
 In the case of each failure to provide a notice as required by section 83(i)(6), at the time prescribed therefor, unless it is shown that such failure is due to reasonable cause and not to willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such notice, an amount equal to $100 for each such failure, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $50,000.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 821; Pub. L. 85–866, title I, §85, Sept. 2, 1958, 72 Stat. 1664; Pub. L. 87–834, §19(d), Oct. 16, 1962, 76 Stat. 1057; Pub. L. 88–272, title II, §221(b)(2), Feb. 26, 1964, 78 Stat. 74; Pub. L. 89–97, title III, §313(e)(2)(B), (3), July 30, 1965, 79 Stat. 385; Pub. L. 89–212, §2(e), Sept. 29, 1965, 79 Stat. 859; Pub. L. 91–172, title I, §101(d)(4), Dec. 30, 1969, 83 Stat. 522; Pub. L. 93–406, title II, §1031(b)(1)(A), (B)(i), Sept. 2, 1974, 88 Stat. 945, 946; Pub. L. 94–455, title XII, §1207(e)(3)(B), (C), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1708, 1834; Pub. L. 96–167, §7(b)(1),Dec. 29, 1979, 93 Stat. 1277; Pub. L. 96–223, title I, §101(d)(2)(A), Apr. 2, 1980, 94 Stat. 251; Pub. L. 96–499, title XI, §1123(b), Dec. 5, 1980, 94 Stat. 2689; Pub. L. 96–603, §1(d)(2), Dec. 28, 1980, 94 Stat. 3504; Pub. L. 97–34, title III, §311(f), title VII, §723(a)(1), (3), (4), Aug. 13, 1981, 95 Stat. 281, 343, 344; Pub. L. 97–248, title III, §§309(b)(2), 315(a), (b), Sept. 3, 1982, 96 Stat. 595, 605, 606; Pub. L. 97–448, title II, §201(i)(2), Jan. 12, 1983, 96 Stat. 2395; Pub. L. 98–67, title I, §105(b)(1), Aug. 5, 1983, 97 Stat. 380; Pub. L. 98–369, div. A, title I, §§145(b)(1), (2), 146(b)(1), (2), 148(b)(1), (2), 149(b)(1), 155(b)(2)(A), title IV, §491(d)(50), title V, §531(b)(4)(B), title VII, §714(j)(3), July 18, 1984, 98 Stat. 685, 686, 688, 689, 693, 852, 882, 963; Pub. L. 98–397, title II, §207(b), Aug. 23, 1984, 98 Stat. 1450; Pub. L. 98–611, §1(d)(2), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(2), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(b), title XIII, §1301(g), title XV, §1501(d)(1)(A), title XVII, §1702(b), title XVIII, §§1810(f)(9), 1811(c)(2), Oct. 22, 1986, 100 Stat. 2502, 2656, 2740, 2774, 2828, 2833; Pub. L. 100–203, title X, §§10502(d)(11), 10704(a), Dec. 22, 1987, 101 Stat. 1330–444, 1330–461; Pub. L. 100–647, title I, §§1011B(a)(10), 1017(b), 1018(u)(36), title III, §3021(a)(10), Nov. 10, 1988, 102 Stat. 3484, 3575, 3592, 3630; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7208(b)(2), 7841(d)(5), Dec. 19, 1989, 103 Stat. 2338, 2428; Pub. L. 102–318, title V, §522(b)(2)(F), July 3, 1992, 106 Stat. 314; Pub. L. 103–66, title XIII, §13113(c), Aug. 10, 1993, 107 Stat. 429; Pub. L. 104–168, title XIII, §§1314(a), (b), July 30, 1996, 110 Stat. 1480; Pub. L. 104–188, title I, §§1455(c), (d)(2), 1704(s), Aug. 20, 1996, 110 Stat. 1818, 1887; Pub. L. 105–34, title XII, §1281(a), (b), title XVI, §1602(d)(2)(B), Aug. 5, 1997, 111 Stat. 1037, 1094; Pub. L. 105–277, div. J, title I, §1004(b)(2)(B), (C), Oct. 21, 1998, 112 Stat. 2681–890; Pub. L. 106–230, §§1(c), 2(c), 3(c), July 1, 2000, 114 Stat. 479, 482, 483; Pub. L. 109–222, title V, §516(c), May 17, 2006, 120 Stat. 371; Pub. L. 109–280, title XII, §§1201(b)(2), 1223(d), Aug. 17, 2006, 120 Stat. 1065, 1091; Pub. L. 113–295, div. A, title II, §221(a)(39)(B), div. B, title II, §§206(c)(4), 208(b), Dec. 19, 2014, 128 Stat. 4043, 4071, 4072; Pub. L. 114–113, div. Q, title IV, §405(c), Dec. 18, 2015, 129 Stat. 3119; Pub. L. 114–255, div. C, title XVIII, §18001(a)(5), Dec. 13, 2016, 130 Stat. 1342; Pub. L. 115–97, title I, §§11002(d)(1)(LL), 13603(e), Dec. 22, 2017, 131 Stat. 2060, 2164; Pub. L. 115–141, div. U, title IV, §401(a)(299)(B), (300), Mar. 23, 2018, 132 Stat. 1198.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 821; Pub. L. 85–866, title I, §85, Sept. 2, 1958, 72 Stat. 1664; Pub. L. 87–834, §19(d), Oct. 16, 1962, 76 Stat. 1057; Pub. L. 88–272, title II, §221(b)(2), Feb. 26, 1964, 78 Stat. 74; Pub. L. 89–97, title III, §313(e)(2)(B), (3), July 30, 1965, 79 Stat. 385; Pub. L. 89–212, §2(e), Sept. 29, 1965, 79 Stat. 859; Pub. L. 91–172, title I, §101(d)(4), Dec. 30, 1969, 83 Stat. 522; Pub. L. 93–406, title II, §1031(b)(1)(A), (B)(i), Sept. 2, 1974, 88 Stat. 945, 946; Pub. L. 94–455, title XII, §1207(e)(3)(B), (C), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1708, 1834; Pub. L. 96–167, §7(b)(1), Dec. 29, 1979, 93 Stat. 1277; Pub. L. 96–223, title I, §101(d)(2)(A), Apr. 2, 1980, 94 Stat. 251; Pub. L. 96–499, title XI, §1123(b), Dec. 5, 1980, 94 Stat. 2689; Pub. L. 96–603, §1(d)(2), Dec. 28, 1980, 94 Stat. 3504; Pub. L. 97–34, title III, §311(f), title VII, §723(a)(1), (3), (4), Aug. 13, 1981, 95 Stat. 281, 343, 344; Pub. L. 97–248, title III, §§309(b)(2), 315(a), (b), Sept. 3, 1982, 96 Stat. 595, 605, 606; Pub. L. 97–448, title II, §201(i)(2), Jan. 12, 1983, 96 Stat. 2395; Pub. L. 98–67, title I, §105(b)(1), Aug. 5, 1983, 97 Stat. 380; Pub. L. 98–369, div. A, title I, §§145(b)(1), (2), 146(b)(1), (2), 148(b)(1), (2), 149(b)(1), 155(b)(2)(A), title IV, §491(d)(50), title V, §531(b)(4)(B), title VII, §714(j)(3), July 18, 1984, 98 Stat. 685, 686, 688, 689, 693, 852, 882, 963; Pub. L. 98–397, title II, §207(b), Aug. 23, 1984, 98 Stat. 1450; Pub. L. 98–611, §1(d)(2), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(2), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(b), title XIII, §1301(g), title XV, §1501(d)(1)(A), title XVII, §1702(b), title XVIII, §§1810(f)(9), 1811(c)(2), Oct. 22, 1986, 100 Stat. 2502, 2656, 2740, 2774, 2828, 2833; Pub. L. 100–203, title X, §§10502(d)(11), 10704(a), Dec. 22, 1987, 101 Stat. 1330–444, 1330–461; Pub. L. 100–647, title I, §§1011B(a)(10), 1017(b), 1018(u)(36), title III, §3021(a)(10), Nov. 10, 1988, 102 Stat. 3484, 3575, 3592, 3630; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7208(b)(2), 7841(d)(5), Dec. 19, 1989, 103 Stat. 2338, 2428; Pub. L. 102–318, title V, §522(b)(2)(F), July 3, 1992, 106 Stat. 314; Pub. L. 103–66, title XIII, §13113(c), Aug. 10, 1993, 107 Stat. 429; Pub. L. 104–168, title XIII, §§1314(a), (b), July 30, 1996, 110 Stat. 1480; Pub. L. 104–188, title I, §§1455(c), (d)(2), 1704(s), Aug. 20, 1996, 110 Stat. 1818, 1887; Pub. L. 105–34, title XII, §1281(a), (b), title XVI, §1602(d)(2)(B), Aug. 5, 1997, 111 Stat. 1037, 1094; Pub. L. 105–277, div. J, title I, §1004(b)(2)(B), (C), Oct. 21, 1998, 112 Stat. 2681–890; Pub. L. 106–230, §§1(c), 2(c), 3(c), July 1, 2000, 114 Stat. 479, 482, 483; Pub. L. 109–222, title V, §516(c), May 17, 2006, 120 Stat. 371; Pub. L. 109–280, title XII, §§1201(b)(2), 1223(d), Aug. 17, 2006, 120 Stat. 1065, 1091; Pub. L. 113–295, div. A, title II, §221(a)(39)(B), div. B, title II, §§206(c)(4), 208(b), Dec. 19, 2014, 128 Stat. 4043, 4071, 4072; Pub. L. 114–113, div. Q, title IV, §405(c), Dec. 18, 2015, 129 Stat. 3119; Pub. L. 114–255, div. C, title XVIII, §18001(a)(5), Dec. 13, 2016, 130 Stat. 1342; Pub. L. 115–97, title I, §§11002(d)(1)(LL), 13603(e), Dec. 22, 2017, 131 Stat. 2060, 2164; Pub. L. 115–141, div. U, title IV, §401(a)(299)(B), (300), Mar. 23, 2018, 132 Stat. 1198; Pub. L. 116–94, div. O, title IV, §403(a)–(c), Dec. 20, 2019, 133 Stat. 3180.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -219,6 +219,18 @@ Sections 1201(b)(2) and 1223(d) of Pub. L. 109–280, which directed the amendme
 Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendments made by section 1151(b) of Pub. L. 99–514 (enacting subsec. (l)) had not been enacted. Subsequent to enactment by Pub. L. 99–514, subsec. (l) was amended by Pub. L. 100–203, Pub. L. 100–647, and Pub. L. 101–239. See 1989, 1988, and 1987 Amendment notes below.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (d)(1). Pub. L. 116–94, §403(b)(2), substituted "$50,000" for "$5,000".
+
+Pub. L. 116–94, §403(b)(1), substituted "$10" for "$1".
+
+Subsec. (d)(2). Pub. L. 116–94, §403(b)(3), substituted "$10,000" for "$1,000".
+
+Pub. L. 116–94, §403(b)(1), substituted "$10" for "$1".
+
+Subsec. (e). Pub. L. 116–94, §403(a), substituted "$250" for "$25" and "$150,000" for "$15,000".
+
+Subsec. (h). Pub. L. 116–94, §403(c), substituted "$100" for "$10" and "$50,000" for "$5,000".
 
 <b>2018</b>—Subsec. (c)(7)(A). Pub. L. 115–141, §401(a)(299)(B), inserted "an amount equal to" after "increased by" and "for the calendar year" after "section 1(f)(3)".
 
@@ -372,7 +384,7 @@ Subsec. (k). Pub. L. 98–397, §207(b), redesignated subsec. (j), relating to a
 
 <b>1983</b>—Subsec. (a)(1)(A). Pub. L. 98–67, §105(b)(1)(B), struck out cls. (ii), (iii), and (iv), redesignated cls. (v) and (vi) as (ii) and (iii), respectively, and in cl. (iii), as so redesignated, struck out "6042(e), 6044(f), 6049(e), or" before "6051(d)".
 
-Subsec. (a)(2), (3). Pub. L. 98–67, §105(b)(1)(A), (C), added par. (2), redesignated former par. (2) as (3), and in par. (3), as so redesignated, inserted references to paragraph (2) in provisions preceding subpar. (A) and in provisions of subpar. (A) preceding cl. (i).
+Subsec. (a)(2), (3). Pub. L. 98–67, §105(b)(1)(A), (C), added par. (2), redesignated former par. (2) as (3), and inpar. (3), as so redesignated, inserted references to paragraph (2) in provisions preceding subpar. (A) and in provisions of subpar. (A) preceding cl. (i).
 
 Subsec. (a). Pub. L. 97–448, which directed that "or" be struck out at end of subpar. (F) of par. (1), "or" be inserted at end of par. (2), a new par. (3) be added, and that in provision following par. (3), "paragraph (2) or (3)" be substituted for "paragraph (2)", was executed by striking out "or" at end of subpar. (A)(vi) of par. (1), inserting "or" at end of subpar. (B)(iv) of par. (1), redesignating par. (3) as subpar. (C) and adding such subpar. (C), to par. (1), and in provision following subpar. (C) substituting "subparagraph (B) or (C)" for "subparagraph (B)", to reflect the probable intent of Congress and the intervening amendment of subsec. (a) by section 315(a) of Pub. L. 97–248 which redesignated former par. (1) as subpar. (A), former subpars. (A) to (F) as cls. (i) to (vi), and former par. (2) as subpar. (B), and in provision following subpar. (B) as so redesignated, substituted "subparagraph (B)" for "paragraph (2)".
 
@@ -427,6 +439,10 @@ Subsec. (b). Pub. L. 87–834 redesignated former subsec. (a) as (b), and substi
 Subsec. (c). Pub. L. 87–834 redesignated former subsec. (b) as (c).
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–866 substituted "section 6042(1)" for "section 6042" and "(upon notice and demand by the Secretary or his delegate and in the same manner as tax), by the person failing to so file the statement, $1 for each such statement not so filed" for "by the person failing to file the statement, upon notice and demand by the Secretary or his delegate and in the same manner as tax, $1 for each such statement not filed", deleted "section 6045 (relating to returns of brokers)" after "patronage dividends)" and inserted "on the date prescribed therefor (determined with regard to any extension of time for filing)" after "income tax withheld),".
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–94, div. O, title IV, §403(d), Dec. 20, 2019, 133 Stat. 3180, provided that: "The amendments made by this section \[amending this section\] shall apply toreturns, statements, and notifications required to be filed, and notices required to be provided, after December 31, 2019."
 
 #### Effective Date of 2017 Amendment
 
@@ -490,7 +506,7 @@ Amendment by Pub. L. 102–318 applicable, except as otherwise provided, to dist
 
 #### Effective Date of 1989 Amendments
 
-Amendment by section 7208(b)(2) of Pub. L. 101–239 applicable to transactions after Mar. 31, 1990, see section7208(b)(4) of Pub. L. 101–239, set out as a note under section 6043 of this title.
+Amendment by section 7208(b)(2) of Pub. L. 101–239 applicable to transactions after Mar. 31, 1990, see section 7208(b)(4) of Pub. L. 101–239, set out as a note under section 6043 of this title.
 
 Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
 
@@ -606,7 +622,7 @@ Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see sec
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–167, §7(c), Dec. 29, 1979, 93 Stat. 1277, provided that: "The amendments made by this section \[amending this section and sections 6039 and 6678 of this title\] shall apply with respect to calendar years beginning after 1979."
+Pub. L. 96–167, §7(c), Dec. 29, 1979, 93 Stat. 1277, provided that: "The amendments made by this section\[amending this section and sections 6039 and 6678 of this title\] shall apply with respect to calendar years beginning after 1979."
 
 #### Effective Date of 1976 Amendment
 

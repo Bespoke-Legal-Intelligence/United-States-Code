@@ -68,7 +68,7 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 #### (5) Guidelines
 
-&emsp;Not later than 180 days after November 23, 1988, the President shall issue guidelines for carrying out this subsection. Such guidelines shall consider any likely effect assistance under this subsection will have on the availability of other forms of assistance under this chapter.
+&emsp;Not later than 180 days after November 23, 1988, the President shall issue guidelines forcarrying out this subsection. Such guidelines shall consider any likely effect assistance under this subsection will have on the availability of other forms of assistance under this chapter.
 
 #### (6) Definitions
 

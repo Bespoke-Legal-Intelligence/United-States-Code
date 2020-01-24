@@ -34,7 +34,7 @@ The National Disaster Recovery Strategy shall—
 
 &emsp;&emsp;(A) on the same date that any change is made to the National Disaster Recovery Strategy; and
 
-&emsp;&emsp;(B) on a periodic basis after the submission of the report under paragraph (1), but notless than once every 5 years after the date of the submission of the report under paragraph (1).
+&emsp;&emsp;(B) on a periodic basis after the submission of the report under paragraph (1), but not less than once every 5 years after the date of the submission of the report under paragraph (1).
 
 (Pub. L. 109–295, title VI, §682, Oct. 4, 2006, 120 Stat. 1445.)
 

@@ -1,6 +1,6 @@
 ### §100703. Cooperative study units
 
-The Secretary shall enter into cooperative agreements with colleges and universities, including land grant schools, in partnership with other Federal and State agencies, to establish cooperative study units to conduct multi-disciplinary research and develop integrated information products on the resources of the System, or the larger region of which System units are a part.
+The Secretary shall enter into cooperative agreements with colleges and universities, including land grant schools, in partnership withother Federal and State agencies, to establish cooperative study units to conduct multi-disciplinary research and develop integrated information products on the resources of the System, or the larger region of which System units are a part.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3105.)
 

@@ -46,7 +46,7 @@ For reversion, beginning on July 1, 2021, to the provisions of this section as i
 
 #### Effective and Termination Dates of 2011 Revival
 
-For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect onFeb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
 
 Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 2271 of this title, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective on date that is 30 days after Aug. 23, 1988, see section 1430(e) of Pub. L. 100–418, set out as an Effective Date note under section 2397 of this title.
+Amendment by Pub. L. 100–418 effective on date that is 30 days after Aug. 23, 1988, see section 1430(e) of Pub.L. 100–418, set out as an Effective Date note under section 2397 of this title.
 
 #### Effective Date and Transition Provisions
 

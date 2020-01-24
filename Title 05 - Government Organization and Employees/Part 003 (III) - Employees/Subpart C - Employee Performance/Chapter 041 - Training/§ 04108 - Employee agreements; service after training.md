@@ -34,7 +34,7 @@ July 7, 1958, Pub. L. 85–507, §11, 72 Stat. 332.
 
 In subsection (a), the last sentence of former section 2310(a) is omitted as included in the first sentence of the revised subsection.
 
-In subsection (b), the words, "another agency in any branch of the Government" are coextensive with and substituted for "another department or of any otheragency in any branch of the Government". This is so because "agency in any branch of the Government" is broader than "agency" as defined for the purpose of this chapter in section 4101(1).
+In subsection (b), the words, "another agency in any branch of the Government" are coextensive with and substituted for "another department or of any other agency in any branch of the Government". This is so because "agency in any branch of the Government" is broader than "agency" as defined for the purpose of this chapter in section 4101(1).
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

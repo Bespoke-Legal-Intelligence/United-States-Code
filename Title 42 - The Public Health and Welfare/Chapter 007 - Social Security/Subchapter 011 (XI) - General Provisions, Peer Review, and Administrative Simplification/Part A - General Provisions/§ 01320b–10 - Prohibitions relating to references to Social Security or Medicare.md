@@ -12,7 +12,7 @@
 
 (2)(A) No person may, for a fee, reproduce, reprint, or distribute any item consisting of a form, application, or other publication of the Social Security Administration unless such person has obtained specific, written authorization for such activity in accordance with regulations which the Commissioner of Social Security shall prescribe.
 
-(B) No person may, for a fee, reproduce, reprint, or distribute any item consisting of a form, application, or other publication of the Department of Health and Human Services unless such person has obtained specific, written authorization for such activity in accordance with regulations which the Secretary shall prescribe.
+(B) No person may, for a fee, reproduce, reprint, or distribute any item consisting of a form, application, or other publication of the Department of Health and Human Services unless such person has obtained specific, writtenauthorization for such activity in accordance with regulations which the Secretary shall prescribe.
 
 (3) Any determination of whether the use of one or more words, letters, symbols, or emblems (or any combination or variation thereof) in connection with an item described in paragraph (1) or the reproduction, reprinting, or distribution of an item described in paragraph (2) is a violation of this subsection shall be made without regard to any inclusion in such item (or any so reproduced, reprinted, or distributed copy thereof) of a disclaimer of affiliation with the United States Government or any particular agency or instrumentality thereof.
 
@@ -56,7 +56,7 @@ The preceding provisions of this section may be enforced through the Office of t
 
 Subsec. (b). Pub. L. 114–74, §814(b), in concluding provisions, inserted "In the case of any items referred to in subsection (a)(1) consisting of Internet or other electronic communications, each dissemination, viewing, or accessing of such a communication which contains one or more words, letters, symbols, or emblems in violation of subsection (a) shall represent a separate violation" after "represent a separate violation."
 
-<b>2004</b>—Pub. L. 108–203, §204(a)(2), substituted "Prohibitions relating to references" for "Prohibition of misuseof symbols, emblems, or names in reference" in section catchline.
+<b>2004</b>—Pub. L. 108–203, §204(a)(2), substituted "Prohibitions relating to references" for "Prohibition of misuse of symbols, emblems, or names in reference" in section catchline.
 
 Subsec. (a)(1). Pub. L. 108–203, §207(a)(3), which directed the substitution of "the Centers for Medicare \& Medicaid Services," for "the Health Care Financing Administration," wherever appearing in concluding provisions, could not be executed because "the Health Care Financing Administration," did not appear subsequent to amendment by Pub. L. 108–173, §900(e)(1)(B)(i). See 2003 Amendment note below.
 

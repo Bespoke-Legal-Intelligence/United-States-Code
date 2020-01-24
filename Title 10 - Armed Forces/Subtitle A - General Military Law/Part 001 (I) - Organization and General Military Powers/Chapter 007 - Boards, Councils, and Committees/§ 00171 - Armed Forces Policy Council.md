@@ -6,31 +6,37 @@
 
 &emsp;(2) the Deputy Secretary of Defense;
 
-&emsp;(3) the Under Secretary of Defense for Acquisition, Technology, and Logistics;
+&emsp;(3) the Under Secretary of Defense for Acquisition and Sustainment;
 
-&emsp;(4) the Secretary of the Army;
+&emsp;(4) the Under Secretary of Defense for Research and Engineering;
 
-&emsp;(5) the Secretary of the Navy;
+&emsp;(5) the Secretary of the Army;
 
-&emsp;(6) the Secretary of the Air Force;
+&emsp;(6) the Secretary of the Navy;
 
-&emsp;(7) the Under Secretary of Defense for Policy;
+&emsp;(7) the Secretary of the Air Force;
 
-&emsp;(8) the Deputy Under Secretary of Defense for Acquisition and Technology;
+&emsp;(8) the Under Secretary of Defense for Policy;
 
-&emsp;(9) the Chairman of the Joint Chiefs of Staff;
+&emsp;(9) the Deputy Under Secretary of Defense for Acquisition and Technology;
 
-&emsp;(10) the Chief of Staff of the Army;
+&emsp;(10) the Deputy Under Secretary of Defense for Research and Engineering;
 
-&emsp;(11) the Chief of Naval Operations;
+&emsp;(11) the Deputy Under Secretary of Defense for Acquisition and Sustainment;
 
-&emsp;(12) the Chief of Staff of the Air Force; and
+&emsp;(12) the Chairman of the Joint Chiefs of Staff;
 
-&emsp;(13) the Commandant of the Marine Corps.
+&emsp;(13) the Chief of Staff of the Army;
+
+&emsp;(14) the Chief of Naval Operations;
+
+&emsp;(15) the Chief of Staff of the Air Force; and
+
+&emsp;(16) the Commandant of the Marine Corps.
 
 (b) The Armed Forces Policy Council shall advise the Secretary of Defense on matters of broad policy relating to the armed forces and shall consider and report on such other matters as the Secretary of Defense may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 85–599, §9(c), Aug. 6, 1958, 72 Stat. 521; Pub. L. 92–596, §5, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §3(b), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 98–94, title XII, §1213, Sept. 24, 1983, 97 Stat. 687; Pub. L. 99–500, §101(c) \[title X, §903(e)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, §101(c) \[title X, §903(e)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133; Pub. L. 99–661, div. A, title IX, formerly title IV, §903(e), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–160, div. A, title IX, §904(d)(1), (3), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 85–599, §9(c), Aug. 6, 1958, 72 Stat. 521; Pub. L. 92–596, §5, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §3(b), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 98–94, title XII, §1213, Sept. 24, 1983, 97 Stat. 687; Pub. L. 99–500, §101(c) \[title X, §903(e)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, §101(c) \[title X, §903(e)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133; Pub. L. 99–661, div. A, title IX, formerly title IV, §903(e), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–160, div. A, title IX, §904(d)(1), (3), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 116–92, div. A, title IX, §902(6), Dec. 20, 2019, 133 Stat. 1543.)
 
 Historical and Revision Notes
 
@@ -57,6 +63,10 @@ July 26, 1947, ch. 343, §210; restated Aug. 10, 1949, ch. 412, §7(a), 63 Stat.
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(3). Pub. L. 116–92, §902(6)(A), substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
+Subsec. (a)(4) to (16). Pub. L. 116–92, §902(6)(B)–(E), added par. (4), redesignated former pars. (4) to (8) as (5) to (9), respectively, added pars. (10) and (11), and redesignated former pars. (9) to (13) as (12) to (16), respectively.
 
 <b>2001</b>—Subsec. (a)(3). Pub. L. 107–107 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
 

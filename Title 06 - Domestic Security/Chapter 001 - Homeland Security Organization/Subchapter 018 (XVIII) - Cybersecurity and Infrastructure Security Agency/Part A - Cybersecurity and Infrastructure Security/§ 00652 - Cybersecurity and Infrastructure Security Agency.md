@@ -8,7 +8,7 @@
 
 #### (2) References
 
-&emsp;Any reference to the National Protection and Programs Directorate of the Department in any law, regulation, map, document, record,or other paper of the United States shall be deemed to be a reference to the Cybersecurity and Infrastructure Security Agency of the Department.
+&emsp;Any reference to the National Protection and Programs Directorate of the Department in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Cybersecurity and Infrastructure Security Agency of the Department.
 
 #### (b) Director
 
@@ -76,7 +76,7 @@ There shall be in the Agency a Deputy Director of Cybersecurity and Infrastructu
 
 &emsp;&emsp;(C) To integrate relevant information, analysis, and vulnerability assessments, regardless of whether the information, analysis, or assessments are provided or produced by the Department, in order to make recommendations, including prioritization, for protective and support measures by the Department, other Federal Government agencies, State, local, tribal, and territorial government agencies and authorities, the private sector, and other entities regarding terrorist and other threats to homeland security.
 
-&emsp;&emsp;(D) To ensure, pursuant to section 122 of this title, the timely and efficient access bythe Department to all information necessary to discharge the responsibilities under this subchapter, including obtaining that information from other Federal Government agencies.
+&emsp;&emsp;(D) To ensure, pursuant to section 122 of this title, the timely and efficient access by the Department to all information necessary to discharge the responsibilities under this subchapter, including obtaining that information from other Federal Government agencies.
 
 &emsp;&emsp;(E) To develop, in coordination with the Sector-Specific Agencies with available expertise, a comprehensive national plan for securing the key resources and critical infrastructure of the United States, including power production, generation, and distribution systems, information technology and telecommunications systems (including satellites), electronic financial and property record storage and transmission systems, emergency communications systems, and the physical and technological assets that support those systems.
 
@@ -88,7 +88,7 @@ There shall be in the Agency a Deputy Director of Cybersecurity and Infrastructu
 
 &emsp;&emsp;(I) To consult with State, local, tribal, and territorial government agencies and private sector entities to ensure appropriate exchanges of information, including law enforcement-related information, relating to threats of terrorism against the United States.
 
-&emsp;&emsp;(J) To ensure that any material received pursuant to this chapter is protected from unauthorized disclosure and handled and used only for the performance of official duties.
+&emsp;&emsp;(J) To ensure that any material received pursuant to this chapter is protected fromunauthorized disclosure and handled and used only for the performance of official duties.
 
 &emsp;&emsp;(K) To request additional information from other Federal Government agencies, State, local, tribal, and territorial government agencies, and the private sector relating to threats of terrorism in the United States, or relating to other areas of responsibility assigned by the Secretary, including the entry into cooperative agreements through the Secretary to obtain such information.
 
@@ -126,7 +126,7 @@ There shall be in the Agency a Deputy Director of Cybersecurity and Infrastructu
 
 #### (A) In general
 
-&emsp;&emsp;In order to assist the Agency in discharging the responsibilities of the Agency under this section, personnel of the Federal agencies described in subparagraph (B) may bedetailed to the Agency for the performance of analytic functions and related duties.
+&emsp;&emsp;In order to assist the Agency in discharging the responsibilities of the Agency under this section, personnel of the Federal agencies described in subparagraph (B) may be detailed to the Agency for the performance of analytic functions and related duties.
 
 #### (B) Agencies
 

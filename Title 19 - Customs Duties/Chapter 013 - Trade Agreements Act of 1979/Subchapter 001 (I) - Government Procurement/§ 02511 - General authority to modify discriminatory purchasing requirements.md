@@ -44,7 +44,7 @@ Subsec. (b)(1). Pub. L. 103–182, §381(a)(2), inserted "or the North American 
 
 Subsecs. (e), (f). Pub. L. 103–182, §381(a)(3), added subsecs. (e) and (f).
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–418, §§7004, 7005(e), temporarily added subsec. (d) which read as follows: "The authority of the President under subsection (a) of this section to waive any laws, regulation, procedure, or practice shall be effective notwithstanding any other provision of law hereafter enacted (excluding the provisions of and amendments made by the Buy American Act of 1988) unless such other provision specifically refers to and amends this section." See Effective and Termination Dates of 1988 Amendment note below.
+<b>1988</b>—Subsec. (d). Pub. L. 100–418, §§7004, 7005(e), temporarily added subsec. (d) which read as follows: "The authority of the President under subsection (a) of this section to waive any laws, regulation, procedure, or practice shall be effective notwithstanding any other provision of law hereafter enacted (excluding the provisions of and amendments made by the Buy AmericanAct of 1988) unless such other provision specifically refers to and amends this section." See Effective and Termination Dates of 1988 Amendment note below.
 
 #### Effective Date of 1993 Amendment
 

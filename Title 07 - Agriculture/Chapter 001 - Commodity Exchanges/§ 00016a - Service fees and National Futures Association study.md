@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, the Commodity Futures Trading Commis
 
 #### (b) National Futures Association regulatory experience; report; contents
 
-The Commodity Futures Trading Commission shall submit to Congress a report containing the results of a study of the regulatory experience of the National Futures Association for the period beginning January 1, 1983 and ending September 30, 1985. The report shall be submitted not later than January 1, 1986. The report shall include (but not to be limited to) the following—
+The Commodity Futures Trading Commission shall submit to Congress a report containing theresults of a study of the regulatory experience of the National Futures Association for the period beginning January 1, 1983 and ending September 30, 1985. The report shall be submitted not later than January 1, 1986. The report shall include (but not to be limited to) the following—
 
 &emsp;(1) the extent to which the National Futures Association has fully implemented the program provided in the rules approved by the Commission under section 17(p) and (q) of the Commodity Exchange Act \[7 U.S.C. 21(p), (q)\] and the effectiveness of the operation of such program;
 
@@ -50,21 +50,5 @@ Section effective Oct. 1, 1978, see section 28 of Pub. L. 95–405, set out as a
 
 #### Study of Assessments on Transactions
 
-Pub. L. 102–546, title II, §218, Oct. 28, 1992, 106 Stat. 3612, provided that:
-
-"(a)
-
-Study.—The Comptroller General of the United States shall conduct a study to determine whether—
-
-&emsp;"(1) it is feasible to fund some or all of the enforcement and market surveillance activities of the Commodity Futures Trading Commission, as required by the amendments to the Commodity Exchange Act made by the Futures Trading Practices Act of 1992 \[see Short Title of 1992 Amendment note set out under section 1 of this title\], through the imposition of an assessment on commodity futures and options transactions executed pursuant to the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]; and
-
-&emsp;"(2) a program of assessment-based funding for some or all of such enforcement and market surveillance activities would better provide resources to the Commodity Futures Trading Commission to enable the Commission to—
-
-&emsp;&emsp;"(A) protect the interests of market users (including hedgers and speculators), producers of commodities traded on the futures markets, and the general public; and
-
-&emsp;&emsp;"(B) maintain and enhance the credibility of such futures and options markets.
-
-"(b)
-
-Report.—Not later than one year after the date of enactment of this Act \[Oct. 28, 1992\], the ComptrollerGeneral shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the Comptroller General's determinations pursuant to subsection (a), together with any appropriate recommendations for the implementation of such a program of assessment-based funding for some or all of the Commodity Futures Trading Commission's enforcement and market surveillance activities."
+Pub. L. 102–546, title II, §218, Oct. 28, 1992, 106 Stat. 3612, required the Comptroller General to conduct a study to determine whether it was feasible to fund some or all of the enforcement and market surveillance activities of the Commodity Futures Trading Commission through the imposition of an assessment on commodity futures and options transactions executed pursuant to the Commodity Exchange Act, and report, by one year after Oct. 28, 1992, to Congress the Commission determinations together with any appropriate recommendations for the implementation of such a program of assessment-based funding.
 

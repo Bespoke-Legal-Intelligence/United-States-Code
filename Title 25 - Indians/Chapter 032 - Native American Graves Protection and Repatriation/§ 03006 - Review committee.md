@@ -36,7 +36,7 @@ The committee established under subsection (a) shall be responsible for—
 
 &emsp;(4) facilitating the resolution of any disputes among Indian tribes, Native Hawaiian organizations, or lineal descendants and Federal agencies or museums relating to the return of such items including convening the parties to the dispute if deemed desirable;
 
-&emsp;(5) compiling an inventory of culturally unidentifiable human remains that are in thepossession or control of each Federal agency and museum and recommending specific actions for developing a process for disposition of such remains;
+&emsp;(5) compiling an inventory of culturally unidentifiable human remains that are in the possession or control of each Federal agency and museum and recommending specific actions for developing a process for disposition of such remains;
 
 &emsp;(6) consulting with Indian tribes and Native Hawaiian organizations and museums on matters within the scope of the work of the committee affecting such tribes or organizations;
 

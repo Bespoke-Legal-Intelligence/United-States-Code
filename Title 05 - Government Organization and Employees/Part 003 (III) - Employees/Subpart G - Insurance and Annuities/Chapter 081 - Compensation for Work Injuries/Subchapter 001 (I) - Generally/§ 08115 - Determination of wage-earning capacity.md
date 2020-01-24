@@ -1,6 +1,6 @@
 ### §8115. Determination of wage-earning capacity
 
-(a) In determining compensation for partial disability, except permanent partial disability compensable under sections 8107–8109 of this title, the wage-earning capacity of an employee is determined by his actual earnings if his actual earnings fairly and reasonably represent his wage-earning capacity. If the actual earnings of the employee do not fairly and reasonably represent his wage-earning capacity or if the employee has no actual earnings, his wage-earning capacity as appears reasonable under the circumstances is determined with due regard to—
+(a) In determining compensation for partial disability, except permanent partial disabilitycompensable under sections 8107–8109 of this title, the wage-earning capacity of an employee is determined by his actual earnings if his actual earnings fairly and reasonably represent his wage-earning capacity. If the actual earnings of the employee do not fairly and reasonably represent his wage-earning capacity or if the employee has no actual earnings, his wage-earning capacity as appears reasonable under the circumstances is determined with due regard to—
 
 &emsp;(1) the nature of his injury;
 

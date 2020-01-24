@@ -32,7 +32,7 @@ For purposes of this section and part IV—
 
 &emsp;The term "State" includes the District of Columbia and any possession of the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 29; Pub. L. 90–364, title I, §107(a), June 28, 1968, 82 Stat. 266; Pub. L. 90–634, title IV, §401(a), Oct. 24, 1968, 82 Stat. 1349; Pub. L. 91–172, title VI, §601(a), Dec. 30, 1969, 83 Stat. 656; Pub. L. 92–178, title III, §315(a), (b), Dec. 10, 1971, 85 Stat. 529; Pub. L. 94–164, §7(a), Dec. 23, 1975, 89 Stat. 976; Pub. L. 94–182, title III, §301(a), Dec. 31, 1975, 89 Stat. 1056; Pub. L. 94–455, title XIX, §§1901(a)(17), (b)(8)(B), 1906(b)(13)(A), title XXI, §§2105(a)–(c), 2137(d), Oct. 4, 1976, 90 Stat. 1765, 1766, 1794, 1834, 1902, 1931; Pub. L. 95–339, title II, §201(a), Aug. 8, 1978, 92 Stat. 467; Pub. L. 95–600, title III, §§331(a), (b), 332(a), 333(a), 334(a), (b), title VII, §703(j)(1), (q)(1), Nov. 6, 1978, 92 Stat. 2839–2841, 2941, 2944; Pub. L. 96–222, title I, §107(a)(3)(C), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–223, title II, §§241(a), 242(a), 244(a), Apr. 2, 1980, 94 Stat. 281, 283, 286; Pub. L. 96–499, title XI, §1103, Dec. 5, 1980, 94 Stat. 2669; Pub. L. 97–34, title VIII, §§811(a), (b), 812(a), Aug. 13, 1981, 95 Stat. 349, 350; Pub. L. 97–248, title II, §§214(a)–(e), 215(a), (b), 217(a)–(d), 219(a), 221(a), (b), (c)(1), title III, §310(b)(1), (c)(1), (2), Sept. 3, 1982, 96 Stat. 466–469, 472–474, 477, 478, 596, 599; Pub. L. 97–424, title V, §547(a), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 97–473, title II, §202(b)(2), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–369, div. A, title IV, §474(r)(4), title VI, §§621–624(a), (b)(2), (3), 626(a), 627, 628(a), (c)–(e), (g), 630, July 18, 1984, 98 Stat. 839, 915–922, 924, 926, 928, 931–933; Pub. L. 99–272, title XIII, §13209(e), Apr. 7, 1986, 100 Stat. 323; Pub. L. 99–514, title XIII, §1301(a), title XVIII, §§1864(a)(1), (b)–(e), 1865(a), 1869(a), (b), 1870, 1871(a)(1), (b), 1899A(2)–(4), Oct. 22, 1986, 100 Stat. 2602, 2885, 2886, 2888, 2890, 2891, 2958; Pub. L. 100–647, title I, §1013(a)(34)(A), (c)(12)(A), Nov. 10, 1988, 102 Stat. 3544, 3547.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 29; Pub. L. 90–364, title I, §107(a), June 28, 1968, 82 Stat. 266; Pub. L. 90–634, title IV, §401(a), Oct. 24, 1968, 82 Stat. 1349; Pub. L. 91–172, title VI, §601(a), Dec. 30, 1969, 83 Stat. 656; Pub. L. 92–178, title III, §315(a), (b), Dec. 10, 1971, 85 Stat. 529; Pub. L. 94–164, §7(a), Dec. 23, 1975, 89 Stat. 976; Pub. L. 94–182, title III, §301(a), Dec. 31, 1975, 89 Stat. 1056; Pub. L. 94–455, title XIX, §§1901(a)(17), (b)(8)(B), 1906(b)(13)(A), title XXI, §§2105(a)–(c), 2137(d), Oct. 4, 1976, 90 Stat. 1765, 1766, 1794, 1834, 1902, 1931; Pub. L. 95–339, title II, §201(a), Aug. 8, 1978, 92 Stat. 467; Pub. L. 95–600, title III, §§331(a), (b), 332(a), 333(a), 334(a), (b), title VII, §703(j)(1), (q)(1), Nov. 6, 1978, 92 Stat. 2839–2841, 2941, 2944; Pub. L. 96–222, title I, §107(a)(3)(C), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–223, title II, §§241(a),242(a), 244(a), Apr. 2, 1980, 94 Stat. 281, 283, 286; Pub. L. 96–499, title XI, §1103, Dec. 5, 1980, 94 Stat. 2669; Pub. L. 97–34, title VIII, §§811(a), (b), 812(a), Aug. 13, 1981, 95 Stat. 349, 350; Pub. L. 97–248, title II, §§214(a)–(e), 215(a), (b), 217(a)–(d), 219(a), 221(a), (b), (c)(1), title III, §310(b)(1), (c)(1), (2), Sept. 3, 1982, 96 Stat. 466–469, 472–474, 477, 478, 596, 599; Pub. L. 97–424, title V, §547(a), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 97–473, title II, §202(b)(2), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–369, div. A, title IV, §474(r)(4), title VI, §§621–624(a), (b)(2), (3), 626(a), 627, 628(a), (c)–(e), (g), 630, July 18, 1984, 98 Stat. 839, 915–922, 924, 926, 928, 931–933; Pub. L. 99–272, title XIII, §13209(e), Apr. 7, 1986, 100 Stat. 323; Pub. L. 99–514, title XIII, §1301(a), title XVIII, §§1864(a)(1), (b)–(e), 1865(a), 1869(a), (b), 1870, 1871(a)(1), (b), 1899A(2)–(4), Oct. 22, 1986, 100 Stat. 2602, 2885, 2886, 2888, 2890, 2891, 2958; Pub. L. 100–647, title I, §1013(a)(34)(A), (c)(12)(A), Nov. 10, 1988, 102 Stat. 3544, 3547.)
 
 #### Amendments
 
@@ -120,7 +120,7 @@ Pub. L. 99–514, §1869(b)(2), redesignated former subsec. (o), relating to cro
 
 Subsec. (p)(4). Pub. L. 99–514, §1899A(4), substituted "October 27, 1949 (48 U.S.C. 1403)" for "October 27, 1919 (48 U.S.C. 1403)".
 
-<b>1984</b>—Subsec. (b)(4). Pub. L. 98–369, §628(e), inserted "For purposes of subparagraph (A), any property shall not be treated as failing to be residential rental property merely because part of the building in which such property is located is used for purposes other than residential rental purposes."
+<b>1984</b>—Subsec. (b)(4). Pub. L. 98–369, §628(e), inserted "For purposes of subparagraph (A), any property shallnot be treated as failing to be residential rental property merely because part of the building in which such property is located is used for purposes other than residential rental purposes."
 
 Subsec. (b)(6)(F)(iv). Pub. L. 98–369, §474(r)(4), substituted "section 30(b)(2)(A)" for "section 44F(b)(2)(A)".
 
@@ -242,7 +242,7 @@ Subsec. (f). Pub. L. 95–339 added subsec. (f).
 
 Subsec. (g). Pub. L. 95–339 redesignated second subsec. (e), relating to cross references, as (g).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1901(a)(17)(A), 2105(a), added par. (2) relating to qualified scholarship funding bonds. Former pars. (2) and (3), relating to obligations of the United States and to the obligations ofcorporations organized under an Act of Congress, were struck out.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1901(a)(17)(A), 2105(a), added par. (2) relating to qualified scholarship funding bonds. Former pars. (2) and (3), relating to obligations of the United States and to the obligations of corporations organized under an Act of Congress, were struck out.
 
 Subsec. (b). Pub. L. 94–455, §1901(a)(17)(B), (C), redesignated subsec. (c) as (b) and in par. (1) of subsec. (b) as so redesignated substituted "subsection (a)(1) or (2)" for "subsection (a)(1)". Former subsec. (b), which created an exception to the rule that gross income did not include interest on obligations of the United States, by providing that the exception did not apply to obligations of the United States (with specified exceptions) unless under the authorizing Acts such interest is wholly exempt from the taxes imposed by this subtitle, was struck out.
 
@@ -308,7 +308,7 @@ Pub. L. 98–369, div. A, title VI, §626(b), July 18, 1984, 98 Stat. 927, as am
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection the amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after the date of enactment of this Act \[July 18, 1984\].
+In general.—Except as otherwise provided in this subsection the amendment made by subsection (a)\[amending this section\] shall apply to obligations issued after the date of enactment of this Act \[July 18, 1984\].
 
 "(2)
 
@@ -419,7 +419,7 @@ Exception for certain bonds for a convention center and resource recovery projec
 
 &emsp;&emsp;"(A) the city council of such city authorized a feasibility study for a convention center on June 10, 1982, and
 
-&emsp;&emsp;"(B) on November 4, 1983, a municipal authority acting for such city accepted a proposal for the construction of a facility that is capable of generating steam and electricity through the combustion of municipal waste,
+&emsp;&emsp;"(B) on November 4, 1983, a municipal authority acting for such city accepted a proposal for the construction of a facility that is capable of generatingsteam and electricity through the combustion of municipal waste,
 
 > &emsp;the amendment made by section 621 shall not apply to any issue, issued during 1984, 1985, 1986, or 1987 and substantially all of the proceeds of which are to be used to finance the convention center (or access ramps and parking facilities therefor) described in subparagraph (A) or the facility described in subparagraph (B).
 
@@ -511,7 +511,7 @@ Provisions of This Subtitle Not To Apply to Certain Property.—The amendments m
 
 &emsp;"(1) Any property described in paragraph (5), (6), or (7) of section 31(g) of this Act \[set out as an Effective Date of 1984 Amendment note under section 168 of this title\].
 
-&emsp;"(2) Any property described in paragraph (4), (8), or (17) of section 31(g) of this Act \[set out as an Effective Date of 1984 Amendment note under section 168 of this title\] but only if the obligation is issued before January 1, 1985, and only if before June 19, 1984, the issuer had evidenced an intent to issue obligations exempt from taxation under the Internal Revenue Code of 1986 in connection with such property.
+&emsp;"(2) Any property described in paragraph (4), (8), or (17) of section 31(g) of this Act \[set out as an Effective Date of 1984 Amendment note under section 168 ofthis title\] but only if the obligation is issued before January 1, 1985, and only if before June 19, 1984, the issuer had evidenced an intent to issue obligations exempt from taxation under the Internal Revenue Code of 1986 in connection with such property.
 
 &emsp;"(3) Any property described in paragraph (3) of section 216(b) of the Tax Equity and Fiscal Responsibility Act of 1982 \[set out as an Effective Date of 1982 Amendment note under section 168 of this title\].
 
@@ -525,7 +525,7 @@ Provisions of This Subtitle Not To Apply to Certain Property.—The amendments m
 
 &emsp;"(5) Any solid waste disposal facility described in section 103(b)(4)(E) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] if—
 
-&emsp;&emsp;"(A) a city government, by resolutions adopted on April 10, 1980, and December 27, 1982, took formalaction to authorize the submission of a proposal for a feasibility study for such facility and to authorize the presentation to the Department of the Army (U.S. Army Missile Command) of a proposed agreement to jointly pursue construction and operation of such facility,
+&emsp;&emsp;"(A) a city government, by resolutions adopted on April 10, 1980, and December 27, 1982, took formal action to authorize the submission of a proposal for a feasibility study for such facility and to authorize the presentation to the Department of the Army (U.S. Army Missile Command) of a proposed agreement to jointly pursue construction and operation of such facility,
 
 &emsp;&emsp;"(B) such city government (or a public authority on its behalf) issues obligations for such facility before January 1, 1988, and
 
@@ -627,7 +627,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 "(3)
 
-Exception for certain warrants, etc.—The amendments made by subsection (b) \[enacting section 4701 of this title and amending this section and sections 163, 165, 312, and 1232 of this title\] shall not apply to any obligations issued after December 31, 1982, on the exercise of a warrant or the conversion of a convertible obligation if such warrant or obligation was offered or sold outside the United States without registration under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and was issued before August 10, 1982. A rule similar to the rule of the preceding sentence shall also apply in the case of any regulations issued under section 163(f)(2)(C) \[now 163(f)(2)(B)\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section) except that the date on which such regulations take effect shall be substituted for 'August 10, 1982'.
+Exception for certain warrants, etc.—The amendments made by subsection (b) \[enacting section 4701 of this title and amending this section and sections163, 165, 312, and 1232 of this title\] shall not apply to any obligations issued after December 31, 1982, on the exercise of a warrant or the conversion of a convertible obligation if such warrant or obligation was offered or sold outside the United States without registration under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and was issued before August 10, 1982. A rule similar to the rule of the preceding sentence shall also apply in the case of any regulations issued under section 163(f)(2)(C) \[now 163(f)(2)(B)\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section) except that the date on which such regulations take effect shall be substituted for 'August 10, 1982'.
 
 "(4) \[Repealed. Pub. L. 98–216, §6(b), Feb. 14, 1984, 98 Stat. 8.\]"
 
@@ -721,7 +721,7 @@ Pub. L. 100–647, title I, §1013(a)(35), Nov. 10, 1988, 102 Stat. 3544, provid
 
 "(B)(i) Except as provided in clause (ii), subparagraph (A) shall apply to obligations sold after May 2, 1978, and to which such regulation was provided to apply.
 
-"(ii) Treasury Regulation section 1.103–13(g) (1979) as enacted into positive law by subparagraph (A) shall cease to apply to the extent hereafter modified by theSecretary of the Treasury or his delegate by regulations."
+"(ii) Treasury Regulation section 1.103–13(g) (1979) as enacted into positive law by subparagraph (A) shall cease to apply to the extent hereafter modified by the Secretary of the Treasury or his delegate by regulations."
 
 #### Bonds Issued To Refund Subsection (o)(3) Obligations
 
@@ -811,7 +811,7 @@ Pub. L. 99–514, title XVIII, §1866, Oct. 22, 1986, 100 Stat. 2887, as amended
 
 #### Exception From 1984 Amendment for Downtown Muskogee Revitalization Project
 
-Pub. L. 99–514, title XVIII, §1867(b), Oct. 22, 1986, 100 Stat. 2888, provided that: "The amendment made by section 624 of the Tax Reform Act of 1984 \[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] shall notapply to obligations issued with respect to the Downtown Muskogee Revitalization Project for which a UDAG grant was preliminarily approved on May 5, 1981, if—
+Pub. L. 99–514, title XVIII, §1867(b), Oct. 22, 1986, 100 Stat. 2888, provided that: "The amendment made by section 624 of the Tax Reform Act of 1984 \[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] shall not apply to obligations issued with respect to the Downtown Muskogee Revitalization Project for which a UDAG grant was preliminarily approved on May 5, 1981, if—
 
 &emsp;"(1) such obligation is issued before January 1, 1986, or
 
@@ -1059,7 +1059,7 @@ In general.—The Comptroller General of the United States and the Director of t
 
 &emsp;"(2)
 
-Report.—The Comptroller General of the United States and the Director of the Congressional Budget Office, shall submit to the Committee on Finance and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Ways and Means and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives reports on the studies conducted under paragraph (1) by no later than 9 months after the date of enactment of this Act \[July 18, 1984\]."
+Report.—The Comptroller General of the United States and the Director of the Congressional Budget Office, shall submit to the Committee on Finance and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives reports on the studies conducted under paragraph (1) by no later than 9 months after the date of enactment of this Act \[July 18, 1984\]."
 
 #### Obligations Issued To Provide Solid Waste-Energy Producing Facilities
 
@@ -1229,7 +1229,7 @@ Low-interest united states obligations.—The term 'low-interest United States o
 
 Pub. L. 90–364, title I, §107(b)(2), June 28, 1968, 82 Stat. 268, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Section 103(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a) \[subsec. (b)(1), formerly subsec. (c)(1) of this section\], shall not apply with respect to any obligation issued before January 1, 1969, if before May 1, 1968—
 
-&emsp;"(A) the issuance of the obligation (or the project in connection with which the proceeds of the obligations are to be used) was authorized or approved by the governing body of the governmental unit issuing the obligation or by the voters of such governmental unit;
+&emsp;"(A) the issuance of the obligation (or the project in connection with which the proceeds of the obligations are to be used) was authorized or approved by the governing body of the governmental unit issuingthe obligation or by the voters of such governmental unit;
 
 &emsp;"(B) in connection with the issuance of such obligation or with the use of the proceeds to be derived from the sale of such obligation or the property to be acquired or improved with such proceeds, a governmental unit has made a significant financial commitment;
 

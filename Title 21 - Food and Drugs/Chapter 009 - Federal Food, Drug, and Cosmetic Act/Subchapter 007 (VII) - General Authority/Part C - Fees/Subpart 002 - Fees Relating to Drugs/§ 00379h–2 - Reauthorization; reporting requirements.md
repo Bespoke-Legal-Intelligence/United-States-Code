@@ -74,7 +74,7 @@
 
 #### (b) Fiscal report
 
-Beginning with fiscal year 2018, not later than 120 days after the end of each fiscal year forwhich fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
+Beginning with fiscal year 2018, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
 
 #### (c) Corrective action report
 
@@ -88,7 +88,7 @@ Beginning with fiscal year 2018, for each fiscal year for which fees are collect
 
 &emsp;For any of the goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
 
-&emsp;&emsp;(A) a detailed justification for such determination and a description, as applicable, of the types of circumstances and trends under which human drug applications that missed the review goal time were approved during the first cycle review, or application review goals were missed; and
+&emsp;&emsp;(A) a detailed justification for such determination and a description, as applicable, ofthe types of circumstances and trends under which human drug applications that missed the review goal time were approved during the first cycle review, or application review goals were missed; and
 
 &emsp;&emsp;(B) with respect to performance enhancement goals that were not achieved, a description of efforts the Food and Drug Administration has put in place for the fiscal year in which the report is submitted to improve the ability of such agency to meet each such goal for the such fiscal year.
 

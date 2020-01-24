@@ -14,7 +14,7 @@ Award of Vouchers.—The Administrator shall award vouchers under subsection (a)
 
 (c)
 
-Assistance.—The Administrator may provide voucher award recipients with such assistance (including contract formulation and technical support during the proposal evaluation) asmay be necessary to ensure the purchase of cost effective and reasonably reliable commercial launch services and payload integration services.
+Assistance.—The Administrator may provide voucher award recipients with such assistance (including contract formulation and technical support during the proposal evaluation) as may be necessary to ensure the purchase of cost effective and reasonably reliable commercial launch services and payload integration services.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3405.)
 

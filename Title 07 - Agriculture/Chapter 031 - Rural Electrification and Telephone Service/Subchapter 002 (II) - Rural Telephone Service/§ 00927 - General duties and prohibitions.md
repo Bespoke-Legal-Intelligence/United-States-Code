@@ -18,7 +18,7 @@ The Secretary shall—
 
 The Secretary shall not—
 
-&emsp;(1) rescind an insured telephone loan made under this chapter without the consent of theborrower, unless all of the purposes for which telephone loans have been made to the borrower under this chapter have been accomplished with funds provided under this chapter;
+&emsp;(1) rescind an insured telephone loan made under this chapter without the consent of the borrower, unless all of the purposes for which telephone loans have been made to the borrower under this chapter have been accomplished with funds provided under this chapter;
 
 &emsp;(2) regulate the order or sequence of advances of funds under telephone loans made under this chapter to any borrower who has received any combination of telephone loans from the Secretary or the Federal Financing Bank; or
 

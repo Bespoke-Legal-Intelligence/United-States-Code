@@ -28,7 +28,7 @@ Designation of other officials.—
 
 Officials who may be designated.—Notwithstanding section 121(d)(1) and (2) of title 40, the officials specified in subparagraphs (B) to (D) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official—
 
-&emsp;&emsp;&emsp;(i) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics; or
+&emsp;&emsp;&emsp;(i) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition and Sustainment; or
 
 &emsp;&emsp;&emsp;(ii) if no official of that agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to section 1702(c) of this title.
 
@@ -36,7 +36,7 @@ Officials who may be designated.—Notwithstanding section 121(d)(1) and (2) of 
 
 Limitation on designation.—No other official or employee may be designated to serve on the Council.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3691.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3691; Pub. L. 116–92, div. A, title IX, §902(88), Dec. 20, 2019, 133 Stat. 1554.)
 
 Historical and Revision Notes
 
@@ -64,7 +64,11 @@ In subsection (b)(2)(A)(i), the words "Under Secretary of Defense for Acquisitio
 
 In subsection (b)(2)(A)(ii), the cross-reference to section 16(3) of the Office of Federal Procurement Policy Act (41:414(3)) is treated as a cross-reference to section 16(c) of the Act to reflect the amendment of section 16 by section 1421(a)(1) of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136, 117 Stat. 1666).
 
+#### Amendments
+
+<b>2019</b>—Subsec. (b)(2)(A)(i). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
 #### Status of Director of Defense Procurement
 
-Pub. L. 102–190, div. A, title VIII, §809, Dec. 5, 1991, 105 Stat. 1423, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: "For the purposes of the amendment made by section 807 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1593) to section 25(b)(2) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 421(b)(2)) \[now 41U.S.C. 1302(b)(2)\], the Director of Defense Procurement of the Department of Defense shall be considered to be an official at an organizational level of an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics."
+Pub. L. 102–190, div. A, title VIII, §809, Dec. 5, 1991, 105 Stat. 1423, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: "For the purposes of the amendment made by section 807 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1593) to section 25(b)(2) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 421(b)(2)) \[now 41 U.S.C. 1302(b)(2)\], the Director of Defense Procurement of the Department of Defense shall be considered to be an official at an organizational level of an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics."
 

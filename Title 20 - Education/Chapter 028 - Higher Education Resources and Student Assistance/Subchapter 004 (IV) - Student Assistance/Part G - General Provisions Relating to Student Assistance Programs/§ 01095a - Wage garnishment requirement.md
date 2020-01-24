@@ -30,13 +30,13 @@ The notice to the employer of the withholding order shall contain only such info
 
 #### (d) No attachment of student assistance
 
-Except as authorized in this section, notwithstanding any other provision of Federal or State law, no grant, loan, or work assistance awarded under this subchapter, or property traceable tosuch assistance, shall be subject to garnishment or attachment in order to satisfy any debt owed by the student awarded such assistance, other than a debt owed to the Secretary and arising under this subchapter.
+Except as authorized in this section, notwithstanding any other provision of Federal or State law, no grant, loan, or work assistance awarded under this subchapter, or property traceable to such assistance, shall be subject to garnishment or attachment in order to satisfy any debt owed by the student awarded such assistance, other than a debt owed to the Secretary and arising under this subchapter.
 
 #### (e) "Disposable pay" defined
 
 For the purpose of this section, the term "disposable pay" means that part of the compensation of any individual from an employer remaining after the deduction of any amounts required by law to be withheld.
 
-(Pub. L. 89–329, title IV, §488A, as added Pub. L. 102–164, title VI, §605(a), Nov. 15, 1991, 105 Stat. 1066; amended Pub. L. 105–244, title IV, §490A, Oct. 7, 1998, 112 Stat. 1753; Pub. L. 109–171, title VIII, §8024, Feb. 8, 2006, 120 Stat. 180.)
+(Pub. L. 89–329, title IV, §488A, as added Pub. L. 102–164, title VI, §605(a), Nov. 15, 1991, 105 Stat. 1066; amended Pub. L. 105–244, title IV, §490A,Oct. 7, 1998, 112 Stat. 1753; Pub. L. 109–171, title VIII, §8024, Feb. 8, 2006, 120 Stat. 180.)
 
 #### Amendments
 

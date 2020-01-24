@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(E) Vocational rehabilitation counselors that are trained and prepared in accordance with State policies and procedures as described in section 721(a)(7)(B) of this title (referred to individually in this subchapter as a "qualified vocational rehabilitation counselor"), other qualified rehabilitation personnel, and other qualified personnel should facilitate the accomplishment of the employment outcomes and objectives of an individual.
 
-&emsp;&emsp;(F) Individuals with disabilities and the individuals' representatives are full partners in a vocational rehabilitation program and must be involved on a regular basis and in a meaningful manner with respect to policy development and implementation.
+&emsp;&emsp;(F) Individuals with disabilities and the individuals' representatives are full partners in a vocational rehabilitation program andmust be involved on a regular basis and in a meaningful manner with respect to policy development and implementation.
 
 &emsp;&emsp;(G) Accountability measures must facilitate the accomplishment of the goals and objectives of the program, including providing vocational rehabilitation services to, among others, individuals with the most significant disabilities.
 
@@ -66,7 +66,7 @@
 
 #### (1) In general
 
-&emsp;For the purpose of making grants to States under part B to assist States in meeting the costs of vocational rehabilitation services provided in accordance with State plans under section 721 of this title, there are authorized to be appropriated $3,302,053,000 for each of the fiscal years 2015 through 2020, except that the amount to be appropriated for a fiscal year shall not be less than the amount of the appropriation under this paragraph for the immediately preceding fiscal year, increased by the percentage change in the Consumer PriceIndex determined under subsection (c) for the immediately preceding fiscal year.
+&emsp;For the purpose of making grants to States under part B to assist States in meeting the costs of vocational rehabilitation services provided in accordance with State plans under section 721 of this title, there are authorized to be appropriated $3,302,053,000 for each of the fiscal years 2015 through 2020, except that the amount to be appropriated for a fiscal year shall not be less than the amount of the appropriation under this paragraph for the immediately preceding fiscal year, increased by the percentage change in the Consumer Price Index determined under subsection (c) for the immediately preceding fiscal year.
 
 #### (2) Reference
 

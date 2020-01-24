@@ -120,7 +120,7 @@ June 7, 1956, ch. 374, §102(a)(1), (4), 70 Stat. 250.
 
 In clause (1), the words "the armed forces" are substituted for the words "the Army, the Navy, the Air Force, the Marine Corps, the Coast Guard" to reflect section 101(4) of this title.
 
-In clause (2), the words "or to a person who died while a member or retired member of a uniformed service" and "lawful" are omitted as surplusage. The word "former" is substituted for the word "retired", since a retired member or a member of the Fleet Reserve orthe Fleet Marine Corps Reserve is already included as a "member" of an armed force.
+In clause (2), the words "or to a person who died while a member or retired member of a uniformed service" and "lawful" are omitted as surplusage. The word "former" is substituted for the word "retired", since a retired member or a member of the Fleet Reserve or the Fleet Marine Corps Reserve is already included as a "member" of an armed force.
 
 Clause (2)(E) combines 37:402(a)(4)(E) and (G).
 
@@ -214,7 +214,7 @@ Pub. L. 98–525, title VI, §645(d), Oct. 19, 1984, 98 Stat. 2549, provided tha
 
 #### Effective Date of 1982 Amendment; Transition Provisions
 
-Amendment by Pub. L. 97–252 effective Feb. 1, 1983, and applicable in the case of any former spouse of amember or former member of the uniformed services whether final decree of divorce, dissolution, or annulment of marriage of former spouse and such member or former member is dated before, on, or after Feb. 1, 1983, see section 1006 of Pub. L. 97–252, set out as an Effective Date; Transition Provisions note under section 1408 of this title.
+Amendment by Pub. L. 97–252 effective Feb. 1, 1983, and applicable in the case of any former spouse of a member or former member of the uniformed services whether final decree of divorce, dissolution, or annulment of marriage of former spouse and such member or former member is dated before, on, or after Feb. 1, 1983, see section 1006 of Pub. L. 97–252, set out as an Effective Date; Transition Provisions note under section 1408 of this title.
 
 #### Effective Date of 1980 Amendment
 

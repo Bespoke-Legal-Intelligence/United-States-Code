@@ -30,7 +30,7 @@ The Director of the Institute, after consultation with the advisory council for 
 
 #### (5) Certain administrative requirements
 
-&emsp;Each center assisted under paragraph (1) shall use the facilities of a single institution, or be formed from a consortium of cooperating institutions, meeting such requirements asmay be prescribed by the Director of the Institute.
+&emsp;Each center assisted under paragraph (1) shall use the facilities of a single institution, or be formed from a consortium of cooperating institutions, meeting such requirements as may be prescribed by the Director of the Institute.
 
 #### (6) Duration of support
 

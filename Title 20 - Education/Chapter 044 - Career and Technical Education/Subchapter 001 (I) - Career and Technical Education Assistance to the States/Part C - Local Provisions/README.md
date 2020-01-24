@@ -8,5 +8,5 @@ Part C—Local Provisions
 - [&sect; 02351 - Distribution of funds to secondary education programs](%C2%A7%2002351%20-%20Distribution%20of%20funds%20to%20secondary%20education%20programs.md)
 - [&sect; 02352 - Distribution of funds for postsecondary education programs](%C2%A7%2002352%20-%20Distribution%20of%20funds%20for%20postsecondary%20education%20programs.md)
 - [&sect; 02353 - Special rules for career and technical education](%C2%A7%2002353%20-%20Special%20rules%20for%20career%20and%20technical%20education.md)
-- [&sect; 02354 - Local plan for career and technical education programs](%C2%A7%2002354%20-%20Local%20plan%20for%20career%20and%20technical%20education%20programs.md)
+- [&sect; 02354 - Local application for career and technical education programs](%C2%A7%2002354%20-%20Local%20application%20for%20career%20and%20technical%20education%20programs.md)
 - [&sect; 02355 - Local uses of funds](%C2%A7%2002355%20-%20Local%20uses%20of%20funds.md)

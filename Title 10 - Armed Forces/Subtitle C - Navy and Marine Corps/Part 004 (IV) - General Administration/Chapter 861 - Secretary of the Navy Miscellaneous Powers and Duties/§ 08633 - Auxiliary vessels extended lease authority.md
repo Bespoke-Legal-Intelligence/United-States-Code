@@ -12,7 +12,7 @@ Authorized Contracts.—Subject to subsection (b), the Secretary of the Navy may
 
 (b)
 
-Contracts Required To Be Authorized by Law.—A contract may be entered into under subsection (a) with respect to a specific vessel only if the Secretary is specifically authorized by law to enter into such a contract with respect to that vessel. As part of a request to Congress for enactment of any such authorization by law, the Secretary of the Navy shall provide to Congress the Secretary's findings under subsection (g).
+Contracts Required To Be Authorized by Law.—A contract may be entered into under subsection (a) with respect to a specific vesselonly if the Secretary is specifically authorized by law to enter into such a contract with respect to that vessel. As part of a request to Congress for enactment of any such authorization by law, the Secretary of the Navy shall provide to Congress the Secretary's findings under subsection (g).
 
 (c)
 
@@ -64,7 +64,7 @@ Source of Funds for Termination Liability.—If a contract entered into under th
 
 &emsp;(3) funds appropriated for those costs.
 
-(Added Pub. L. 106–65, div. A, title X, §1014(a)(1), Oct. 5, 1999, 113 Stat. 741, §7233; renumbered§8633, Pub. L. 115–232, div. A, title VIII, §807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 106–65, div. A, title X, §1014(a)(1), Oct. 5, 1999, 113 Stat. 741, §7233; renumbered §8633, Pub. L. 115–232, div. A, title VIII, §807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 #### Prior Provisions
 

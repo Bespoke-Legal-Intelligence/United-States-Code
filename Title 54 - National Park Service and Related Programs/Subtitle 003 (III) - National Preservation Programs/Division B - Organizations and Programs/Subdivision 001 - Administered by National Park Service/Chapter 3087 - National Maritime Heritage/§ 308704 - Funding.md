@@ -164,7 +164,7 @@ Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(b)–(f)\], Oct. 30, 2000, 1
 
 "(b)
 
-Selection of Scrapping Facilities.—The Secretary of Transportation may scrap obsolete vessels pursuant to section 6(c)(1) of the National Maritime Heritage Act of 1994 (\[former\] 16 U.S.C. 5405(c)(1)) \[see 54 U.S.C. 308704(c)(1)\] through qualified scrapping facilities, using the most expeditious scrapping methodology and location practicable. Scrapping facilities shall be selected under that section on a best value basis consistent with the Federal Acquisition Regulation, as in effect on the date of contract award, without any predisposition toward foreign or domestic facilities taking into consideration, among other things, the ability of facilities to scrap vessels—
+Selection of Scrapping Facilities.—The Secretary of Transportation may scrap obsolete vessels pursuant to section 6(c)(1) of the National Maritime Heritage Act of 1994 (\[former\] 16 U.S.C. 5405(c)(1)) \[see 54 U.S.C. 308704(c)(1)\] through qualified scrapping facilities, using the most expeditious scrapping methodology and location practicable. Scrapping facilities shall be selected under that section on a best value basis consistent with the Federal Acquisition Regulation, as in effect on the date of contract award, without any predisposition toward foreign or domestic facilities takinginto consideration, among other things, the ability of facilities to scrap vessels—
 
 &emsp;"(1) at least cost to the Government;
 
@@ -190,7 +190,7 @@ Contents of plan.—The plan shall—
 
 &emsp;&emsp;"(B) identify and describe the funding and other resources necessary to implement the plan, and specific milestones for disposal of vessels under the plan;
 
-&emsp;&emsp;"(C) establish performance measures to track progress toward achieving the goals of the program,including the expeditious disposal of ships commencing upon the date of the enactment of this paragraph;
+&emsp;&emsp;"(C) establish performance measures to track progress toward achieving the goals of the program, including the expeditious disposal of ships commencing upon the date of the enactment of this paragraph;
 
 &emsp;&emsp;"(D) develop a formal decisionmaking framework for the program; and
 

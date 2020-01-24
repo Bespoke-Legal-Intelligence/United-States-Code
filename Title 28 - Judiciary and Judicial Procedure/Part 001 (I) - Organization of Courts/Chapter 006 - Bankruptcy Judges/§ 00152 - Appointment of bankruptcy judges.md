@@ -159,7 +159,7 @@
 
 (d) With the approval of the Judicial Conference and of each of the judicial councils involved, a bankruptcy judge may be designated to serve in any district adjacent to or near the district for which such bankruptcy judge was appointed.
 
-(e) A bankruptcy judge may be removed during the term for which such bankruptcy judge isappointed, only for incompetence, misconduct, neglect of duty, or physical or mental disability and only by the judicial council of the circuit in which the judge's official duty station is located. Removal may not occur unless a majority of all of the judges of such council concur in the order of removal. Before any order of removal may be entered, a full specification of charges shall be furnished to such bankruptcy judge who shall be accorded an opportunity to be heard on such charges.
+(e) A bankruptcy judge may be removed during the term for which such bankruptcy judge is appointed, only for incompetence, misconduct, neglect of duty, or physical or mental disability and only by the judicial council of the circuit in which the judge's official duty station is located. Removal may not occur unless a majority of all of the judges of such council concur in the order of removal. Before any order of removal may be entered, a full specification of charges shall be furnished to such bankruptcy judge who shall be accorded an opportunity to be heard on such charges.
 
 (Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 336; amended Pub. L. 99–554, title I, §101, Oct. 27, 1986, 100 Stat. 3088; Pub. L. 100–587, Nov. 3, 1988, 102 Stat. 2982; Pub. L. 101–650, title III, §304, Dec. 1, 1990, 104 Stat. 5105; Pub. L. 102–361, §§2, 4, Aug. 26, 1992, 106 Stat. 965, 966; Pub. L. 109–8, title XII, §1223(d), Apr. 20, 2005, 119 Stat. 198; Pub. L. 109–63, §2(c), Sept. 9, 2005, 119 Stat. 1994.)
 
@@ -549,7 +549,7 @@ Vacancy.—The 1st vacancy in the office of a bankruptcy judge for the middle di
 
 &emsp;"(3)
 
-Applicability of other provisions.—Except as provided in paragraphs (1) and (2), all other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 (28 U.S.C. 152 note) remain applicable to the temporary office of the bankruptcy judge referred to in paragraph (1)."
+Applicability of other provisions.—Except as provided in paragraphs (1) and (2), all other provisionsof section 3 of the Bankruptcy Judgeship Act of 1992 (28 U.S.C. 152 note) remain applicable to the temporary office of the bankruptcy judge referred to in paragraph (1)."
 
 Pub. L. 109–8, title XII, §1223(b), (c), Apr. 20, 2005, 119 Stat. 196, 198, provided that:
 
@@ -695,11 +695,11 @@ Appointments.—The following bankruptcy judges shall be appointed in the manner
 
 "(b)
 
-Vacancies.—The first vacancy in the office of bankruptcy judge in each of the judicial districts set forth in subsection (a), resulting from the death, retirement, resignation, or removal of a bankruptcy judge, and occurring 5 years or more after the appointment date of the judge named to fill the temporary judgeship position, shall not be filled. In the case of a vacancy resulting from the expiration of the term of a bankruptcy judge not described in the preceding sentence, that judge shall be eligible for reappointment as a bankruptcy judge in that district."
+Vacancies.—The first vacancy in the office of bankruptcy judge in each of the judicial districts set forth in subsection (a), resulting from the death, retirement, resignation, or removal of a bankruptcy judge, and occurring 5 years or more after the appointment date of the judge named to fill the temporary judgeship position, shall not be filled. In the case of a vacancy resulting from the expiration of the term of a bankruptcy judge not described in the preceding sentence, thatjudge shall be eligible for reappointment as a bankruptcy judge in that district."
 
 #### Extension and Termination of Term of Office of Part-Time Bankruptcy Judge Serving on July 2, 1986, in District of Oregon, Western District of Michigan, and Eastern District of Oklahoma
 
-Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 718, provided that: "Notwithstanding the provisions of section106(b)(1) of the Bankruptcy Amendments and Federal Judgeship Act of 1984 \[section 106(b)(1) of Pub. L. 98–353, set out below\], a bankruptcy judge serving on a part-time basis on the date of enactment of this Act \[July 2, 1986\] may continue to serve as a part-time judge for such district until December 31, 1986, or until such time as a full-time bankruptcy judge for such district is appointed, whichever is earlier: <i>Provided</i>, That these provisions shall apply only to part-time bankruptcy judges serving in the district of Oregon, the western district of Michigan, and the eastern district of Oklahoma."
+Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 718, provided that: "Notwithstanding the provisions of section 106(b)(1) of the Bankruptcy Amendments and Federal Judgeship Act of 1984 \[section 106(b)(1) of Pub. L. 98–353, set out below\], a bankruptcy judge serving on a part-time basis on the date of enactment of this Act \[July 2, 1986\] may continue to serve as a part-time judge for such district until December 31, 1986, or until such time as a full-time bankruptcy judge for such district is appointed, whichever is earlier: <i>Provided</i>, That these provisions shall apply only to part-time bankruptcy judges serving in the district of Oregon, the western district of Michigan, and the eastern district of Oklahoma."
 
 #### Extension and Termination of Term of Office of Bankruptcy Judge and Part-Time Bankruptcy Judge Serving on July 10, 1984; Practice of Law by Part-Time Bankruptcy Judge
 

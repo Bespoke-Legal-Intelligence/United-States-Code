@@ -28,7 +28,7 @@ Any person required to make a return under section 6060 who fails to comply with
 
 #### (f) Negotiation of check
 
-Any person who is a tax return preparer who endorses or otherwise negotiates (directly or through an agent) any check made in respect of the taxes imposed by this title which is issued to a taxpayer (other than the tax return preparer) shall pay a penalty of $500 with respect to each such check. The preceding sentence shall not apply with respect to the deposit by a bank (within the meaning of section 581) of the fullamount of the check in the taxpayer's account in such bank for the benefit of the taxpayer.
+Any person who is a tax return preparer who endorses or otherwise negotiates (directly or through an agent) any check made in respect of the taxes imposed by this title which is issued to a taxpayer (other than the tax return preparer) shall pay a penalty of $500 with respect to each such check. The preceding sentence shall not apply with respect to the deposit by a bank (within the meaning of section 581) of the full amount of the check in the taxpayer's account in such bank for the benefit of the taxpayer.
 
 #### (g) Failure to be diligent in determining eligibility for certain tax benefits
 

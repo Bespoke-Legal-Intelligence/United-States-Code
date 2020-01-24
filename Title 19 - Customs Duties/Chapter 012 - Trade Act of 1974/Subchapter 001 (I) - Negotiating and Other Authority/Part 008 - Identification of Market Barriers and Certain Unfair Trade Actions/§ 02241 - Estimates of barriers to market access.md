@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For calendar year 1988, and for each succeeding calendar year, the United States Trade Representative, through the interagency trade organization established pursuant to section 1872(a) of this title and with the assistance of the interagency advisory committee established under section 2171(d)(2) of this title, shall—
+&emsp;For calendar year 1988, and for each succeeding calendar year, the United States Trade Representative, through the interagency trade organization established pursuant to section 1872(a) of this title and with the assistance ofthe interagency advisory committee established under section 2171(d)(2) of this title, shall—
 
 &emsp;&emsp;(A) identify and analyze acts, policies, or practices of each foreign country which constitute significant barriers to, or distortions of—
 
@@ -142,7 +142,7 @@ Pub. L. 105–277, div. C, title XII, §1206, Oct. 21, 1998, 112 Stat. 2681–72
 
 #### Construction of 1998 Amendments
 
-Pub. L. 105–277, div. C, title XII, §1204, Oct. 21, 1998, 112 Stat. 2681–728, provided that: "Nothing in this title\[amending this section and enacting provisions set out under this section\] shall be construed to expand the duty of any person to collect or pay taxes beyond that which existed immediately before the date of the enactment of this Act \[Oct. 21, 1998\]."
+Pub. L. 105–277, div. C, title XII, §1204, Oct. 21, 1998, 112 Stat. 2681–728, provided that: "Nothing in this title \[amending this section and enacting provisions set out under this section\] shall be construed to expand the duty of any person to collect or pay taxes beyond that which existed immediately before the date of the enactment of this Act \[Oct. 21, 1998\]."
 
 Pub. L. 105–277, div. C, title XII, §1205, Oct. 21, 1998, 112 Stat. 2681–728, provided that: "Nothing in this title \[amending this section and enacting provisions set out under this section\] shall limit or otherwise affect the implementation of the Telecommunications Act of 1996 (Public Law 104–104) \[see Short Title of 1996 Amendment note set out under section 609 of Title 47, Telecommunications\] or the amendments made by such Act."
 

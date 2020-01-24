@@ -68,7 +68,7 @@ Provisions similar to those in this section were contained in section 5031 of th
 
 A prior section 8013 was renumbered section 9013 of this title.
 
-Another prior section 8013, acts Aug. 10, 1956, ch. 1041, 70A Stat. 488, §8012; Sept. 2, 1958, Pub. L. 85–861, §1(152),72 Stat. 1513; Sept. 7, 1962, Pub. L. 87–651, title II, §211, 76 Stat. 524; Aug. 14, 1964, Pub. L. 88–426, title III, §§305(7), 306(j)(7), 78 Stat. 423, 432; renumbered §8013, Oct. 1, 1986, Pub. L. 99–433, title V, §521(a)(1), 100 Stat. 1055, related to Secretary of the Air Force, powers and duties, and delegations, prior to repeal by Pub. L. 99–433, §521(a)(3).
+Another prior section 8013, acts Aug. 10, 1956, ch. 1041, 70A Stat. 488, §8012; Sept. 2, 1958, Pub. L. 85–861, §1(152), 72 Stat. 1513; Sept. 7, 1962, Pub. L. 87–651, title II, §211, 76 Stat. 524; Aug. 14, 1964, Pub. L. 88–426, title III, §§305(7), 306(j)(7), 78 Stat. 423, 432; renumbered §8013, Oct. 1, 1986, Pub. L. 99–433, title V, §521(a)(1), 100 Stat. 1055, related to Secretary of the Air Force, powers and duties, and delegations, prior to repeal by Pub. L. 99–433, §521(a)(3).
 
 Another prior section 8013 was renumbered section 8014 of this title and subsequently repealed.
 
@@ -86,25 +86,21 @@ Another prior section 8013 was renumbered section 8014 of this title and subsequ
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-#### Limitation on Modifications to Navy Facilities Sustainment, Restoration, and Modernization Structure and Mechanism
+#### Notifications on Manning of Afloat Naval Forces
 
-Pub. L. 115–232, div. A, title III, §328, Aug. 13, 2018, 132 Stat. 1723, provided that: "The Secretary of the Navy may not make any modification to the existing Navy Facilities Sustainment, Restoration, and Modernization structure or mechanism that would modify duty relationships or significantly alter the existing structure until 90 days after providing notice of the proposed modification to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]."
-
-#### Notification on Manning of Afloat Naval Forces
-
-Pub. L. 115–232, div. A, title V, §525, Aug. 13, 2018, 132 Stat. 1757, provided that:
+Pub. L. 116–92, div. A, title V, §597(a)–(e), Dec. 20, 2019, 133 Stat. 1418, 1419, provided that:
 
 "(a)
 
-In General.—The Secretary of the Navy shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], in writing, not later than 15 days after any of the following conditions are met:
+In General.—The Secretary of the Navy shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], in writing, not later than 30 days after the end of each fiscal year quarter, of each covered ship (if any) that met either condition as follows:
 
-&emsp;"(1) The manning fit for a covered ship is less than 87 percent.
+&emsp;"(1) The manning fit for such ship was less than 87 percent for more than 14 days during such fiscal year quarter.
 
-&emsp;"(2) The manning fill for a covered ship is less than 90 percent.
+&emsp;"(2) The manning fill for such ship was less than 90 percent for more than 14 days during such fiscal year quarter.
 
 "(b)
 
-Notification Required.—The notification required by subsection (a) shall include, with respect to a covered ship, the following:
+Elements.—The notification required by subsection (a) shall include, with respect to a covered ship, the following:
 
 &emsp;"(1) The name and hull number of the ship.
 
@@ -112,19 +108,21 @@ Notification Required.—The notification required by subsection (a) shall inclu
 
 &emsp;"(3) The current manning fit and fill of the ship.
 
-&emsp;"(4) The lowest levels of manning fit and fill projected for the ship and the date on which such levels are expected to occur.
+&emsp;"(4) If the lowest level of manning fit or manning fill for the ship occurred during the fiscal year quarter concerned, the level concerned and the date on which such level occurred.
 
-&emsp;"(5) The projected date on which the Navy will achieve a manning fit and fill at least 87 percent and 90 percent, respectively, for the ship.
+&emsp;"(5) If the lowest level of manning fit or manning fill for the ship is projected to occur after the fiscal year quarter concerned, the projected level and the date on which such level is projected to occur.
 
-&emsp;"(6) The projected date on which the Navy will achieve a manning fit and fill of at least 92 percent and 95 percent, respectively, for the ship.
+&emsp;"(6) If not achieved as of the date of the notification the projected date on which the Navy will achieve a manning fit and fill at least 87 percent and 90 percent, respectively, for the ship.
 
-&emsp;"(7) A description of any reasons the Navy will not achieve manning fit and fill of at least 87 percent and 90 percent, respectively, for the ship, including a detailed description of the specific ratings or skillset areas that must be manned to achieve those percentages.
+&emsp;"(7) If not achieved as of the date of the notification, the projected date on which the Navy will achieve a manning fit and fill of at least 92 percent and 95 percent, respectively, for the ship.
 
-&emsp;"(8) A description of corrective actions the Navy is taking to improve manning fit or manning fill on the ship.
+&emsp;"(8) A description of the reasons the Navy has not achieved, or will not achieve, as applicable, manning fit and fill of at least 87 percent and 90 percent, respectively, for the ship, including a detailed description of the specific ratings or skillset areas that must be manned to achieve those percentages.
+
+&emsp;"(9) A description of corrective actions the Navy is taking to improve manning fit or manning fill on the ship.
 
 "(c)
 
-Special Rule.—For purposes of determining whether a percentage of manning fit or manning fill has been achieved, a sailor in a more senior paygrade may count as filling the billet of a more junior paygrade, but a sailor in a more junior paygrade may not count as filling the billet of a more senior paygrade.
+Special Rule.—For purposes of determining whether a percentage of manning fit or manning fillhas been achieved, a sailor in a more senior paygrade may count as filling the billet of a more junior paygrade, but a sailor in a more junior paygrade may not count as filling the billet of a more senior paygrade.
 
 "(d)
 
@@ -132,15 +130,41 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Manning fit.—The term 'manning fit' means the skills (rating), specialty skills (Navy Enlisted Classifications), and experience (paygrade) for the ship as compared with the billets authorized for such skills and experience.
+Manning fit.—The term 'manning fit', in the case of a ship, means the skills (rating), specialty skills (Navy Enlisted Classifications), and experience (paygrade) for the ship when compared with the ship manpower document requirement and billets authorized for such skills and experience.
 
 &emsp;"(2)
 
-Manning fill.—The term 'manning fill', in the case of a ship, means the total number of military personnel assigned to the ship by rating when compared with the billets authorized for the ship by rating.
+Manning fill.—The term 'manning fill', in the case of a ship, means the total number of military personnel assigned to the ship by rating when compared with the ship manpower document requirement and billets authorized for the ship by rating.
 
 &emsp;"(3)
 
-Covered ship.—The term 'covered ship' means a commissioned battle force ship that is included in the battle force count of the Naval Vessel Register."
+Covered ship.—The term 'covered ship' means a commissioned battle force ship that is included in the battle force count of the Naval Vessel Register.
+
+"(e)
+
+Sunset.—The requirement to submit notifications under subsection (a) with respect to fiscal year quarters shall cease beginning with fiscal year quarters in fiscal year 2025."
+
+Pub. L. 115–232, div. A, title V, §525, Aug. 13, 2018, 132 Stat. 1757, which provided that the Secretary of the Navy was to notify the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, in writing, not later than 15 days after the manning fit for a commissioned battle force ship was less than 87 percent or the manning fill for such ship was less than 90 percent, was repealed by Pub. L. 116–92, div. A, title V, §597(f), Dec. 20, 2019, 133 Stat. 1419. See note above.
+
+#### Formal Training for Shipboard System Programs of Record
+
+Pub. L. 116–92, div. A, title X, §1036, Dec. 20, 2019, 133 Stat. 1583, provided that:
+
+"(a)
+
+In General.—The Secretary of the Navy shall ensure that there is formal training provided for any shipboard system that is a program of record on any Navy surface vessel.
+
+"(b)
+
+Timline for Implementation.—
+
+&emsp;"(1)
+
+Current programs.—In the case of any shipboard system program of record that is in use as of the date of the enactment of this Act \[Dec. 20, 2019\] for which no formal training is available, the Secretary shall ensure that such training is available by not later than 12 months after the date of the enactment of this Act.
+
+#### Limitation on Modifications to Navy Facilities Sustainment, Restoration, and Modernization Structure and Mechanism
+
+Pub. L. 115–232, div. A, title III, §328, Aug. 13, 2018, 132 Stat. 1723, provided that: "The Secretary of the Navy may not make any modification to the existing Navy Facilities Sustainment, Restoration, and Modernization structure or mechanism that would modify duty relationships or significantly alter the existing structure until 90 days after providing notice of the proposed modification to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]."
 
 #### Navy Watchstander Records
 
@@ -176,7 +200,7 @@ Update briefings.—Not later than one year after the briefing pursuant to parag
 
 #### Reversionary Interests in Real Property Used by Closed or Realigned Naval Stations
 
-Pub. L. 109–148, div. B, title I, §702, Dec. 30, 2005, 119 Stat. 2773, provided that: "For any real property expressly granted to the United States since January 1, 1980 for use as or in connection with a Navy homeport subject to a reversionary interest retained by the grantor and serving as the site of or being used by a naval station subsequently closed or realigned pursuant to the Defense Base Closure and Realignment Act of 1990 \[part A of title XXIX of div. B of Pub. L. 101–510, set out as a note under section 2687 of this title\] as amended, the right of the United States to any consideration or repayment for the fair market value of the real property as improved shall be released, relinquished, waived, or otherwise permanently extinguished. The Secretary shall execute such written agreements as may be needed to facilitate the reversion and transfer all right, title, and interest of the United States in any real property described in this section, including the improvements thereon, for noconsideration to the reversionary interest holder as soon as practicable after the naval station is closed or realigned. This agreement shall not require the reversionary interest holder to assume any environmental liabilities of the United States or relieve the United States from any responsibilities for environmental remediation that it may have incurred as a result of federal ownership or use of the real property."
+Pub. L. 109–148, div. B, title I, §702, Dec. 30, 2005, 119 Stat. 2773, provided that: "For any real property expressly granted to the United States since January 1, 1980 for use as or in connection with a Navy homeport subject to a reversionary interest retained by the grantor and serving as the site of or being used by a naval station subsequently closed or realigned pursuant to the Defense Base Closure and Realignment Act of 1990 \[part A of title XXIX of div. B of Pub. L. 101–510, set out as a note under section 2687 of this title\] as amended, the right of the United States to any consideration or repayment for the fair market value of the real property as improved shall be released, relinquished, waived, or otherwise permanently extinguished. The Secretary shall execute such written agreements as may be needed to facilitate the reversion and transfer all right, title, and interest of the United States in any real property described in this section, including the improvements thereon, for no consideration to the reversionary interest holder as soon as practicable after the naval station is closed or realigned. This agreement shall not require the reversionary interest holder to assume any environmental liabilities of the United States or relieve the United States from any responsibilities for environmental remediation that it may have incurred as a result of federal ownership or use of the real property."
 
 #### Elimination of Reversionary Interests Clouding United States Title to Property Used as Navy Homeports
 
@@ -190,7 +214,7 @@ Authority to Acquire Complete Title.—If real property owned by the United Stat
 
 Authorized Consideration.—(1) As consideration for the acquisition of a reversionary interest under subsection (a), the Secretary shall provide the holder of the reversionary interest with in-kind consideration, to be determined pursuant to negotiations between the Secretary and the holder of the reversionary interest.
 
-"(2) In determining the type and value of any in-kind consideration to be provided for the acquisition of a reversionary interest under subsection (a), the Secretary shall take into account the nature of the reversionary interest, including whether it would require the holder of the reversionary interest to pay for any improvements acquired by the holder as part of the reversion of the real property, and the long-term use and ultimate disposition of the real property if the United States were to acquire all right, title, and interest in and to the real property subject to the reversionary interest.
+"(2) In determining the type and value of any in-kind consideration to be provided for the acquisition of a reversionary interest under subsection (a), the Secretary shall take into account the nature of the reversionary interest, including whether it would require the holder of the reversionary interest to pay for any improvements acquired by the holder as part of the reversion of the real property, and the long-term use and ultimate disposition of the real property if the UnitedStates were to acquire all right, title, and interest in and to the real property subject to the reversionary interest.
 
 "(c)
 
@@ -258,7 +282,7 @@ Liability and Indemnification.—(1) The Secretary may not enter into a cooperat
 
 &emsp;"(B) hold harmless and indemnify the United States from and against any suit, claim, demand, action, or liability arising out of any claim for personal injury or property damage that may result from or in connection with the demonstration project.
 
-"(2) The Secretary may not enter into an agreement under subsection (b) with the State concerned for theprovision of prerelease employment training directly by the Secretary unless the agreement with the State concerned includes provisions that the State shall—
+"(2) The Secretary may not enter into an agreement under subsection (b) with the State concerned for the provision of prerelease employment training directly by the Secretary unless the agreement with the State concerned includes provisions that the State shall—
 
 &emsp;"(A) be liable for any loss or damage to Federal Government property that may result from, or in connection with, the provision of the training except to the extent that the loss or damage results from a wrongful act or omission of Federal Government personnel; and
 

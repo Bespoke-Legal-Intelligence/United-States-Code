@@ -14,7 +14,7 @@ Subject to the availability of appropriations to carry out this section, the Att
 
 &emsp;&emsp;&emsp;(ii) facilitate the rescue and recovery of individuals who, due to their dementia or developmental disabilities, wander from safe environments; and
 
-&emsp;&emsp;&emsp;(iii) recognize and respond to and appropriately interact with endangered missing individuals with dementia or developmental disabilities who, due to their condition, wander from safe environments;
+&emsp;&emsp;&emsp;(iii) recognize and respond to and appropriately interact with endangered missingindividuals with dementia or developmental disabilities who, due to their condition, wander from safe environments;
 
 &emsp;&emsp;(C) provide prevention and response training and emergency protocols for school administrators, staff, and families or guardians of individuals with dementia, such as Alzheimer's Disease, or developmental disabilities, such as autism, to help reduce the risk of wandering by such individuals; and
 
@@ -46,7 +46,7 @@ All grants awarded by the Attorney General under this section shall be subject t
 
 #### (B) Audits
 
-&emsp;&emsp;Beginning in the first fiscal year beginning after March 23, 2018, and in each fiscal yearthereafter, the Inspector General of the Department of Justice shall conduct audits of recipients of grants under this section to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
+&emsp;&emsp;Beginning in the first fiscal year beginning after March 23, 2018, and in each fiscal year thereafter, the Inspector General of the Department of Justice shall conduct audits of recipients of grants under this section to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
 
 #### (C) Mandatory exclusion
 

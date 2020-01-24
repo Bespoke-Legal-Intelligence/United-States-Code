@@ -12,7 +12,7 @@ For the purpose of promoting the efficiency of and informing the review by the F
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall develop and maintain a list of external experts who, because of their special expertise, are qualified to provide advice on rare disease issues, including topics described in subsection (b). The Secretary may, when appropriate to address a specific regulatory question, consult such external experts on issues related to the review of new drugs and biological products for rare diseases and drugs and biological products that are genetically targeted, including the topics described in subsection (b), when such consultation is necessary because the Secretary lacks the specific scientific, medical, or technical expertise necessary for the performance of the Secretary's regulatory responsibilities and the necessary expertise can be provided by the external experts.
+&emsp;&emsp;The Secretary shall develop and maintain a list of external experts who, because of their special expertise, are qualified to provide advice on rare disease issues, including topics described in subsection (b). The Secretary may, when appropriate to address a specific regulatory question, consult such external experts on issues related to the review of new drugs and biological products for rare diseases and drugs and biological products that are genetically targeted, including the topics described in subsection (b), when such consultation is necessary because the Secretary lacks the specific scientific, medical, or technical expertise necessary for the performance of the Secretary's regulatory responsibilities and thenecessary expertise can be provided by the external experts.
 
 #### (B) External experts
 

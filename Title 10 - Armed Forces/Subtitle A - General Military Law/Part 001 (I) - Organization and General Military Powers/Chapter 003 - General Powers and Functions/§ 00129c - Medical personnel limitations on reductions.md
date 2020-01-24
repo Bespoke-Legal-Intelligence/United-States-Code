@@ -44,7 +44,7 @@ Provisions similar to those in this section were contained in Pub. L. 101–510,
 
 #### Prohibition on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions
 
-Pub. L. 110–181, div. A, title VII, §721(a)–(d), Jan. 28, 2008, 122 Stat. 198, 199, as amended by Pub. L. 111–84, div. A, title VII, §701, Oct. 28, 2009, 123 Stat. 2372, prohibited the Secretary of a military department from converting any military medical or dental position to a civilian medical or dental position on or after Oct. 1, 2007, and required restoration of certain converted positions to military positions, prior to repeal by Pub. L. 114–328, div. A, title VII, §721(c), Dec. 23, 2016, 130 Stat. 2228.
+Pub. L. 110–181, div. A, title VII, §721(a)–(d), Jan. 28, 2008, 122 Stat. 198, 199, as amended by Pub. L. 111–84,div. A, title VII, §701, Oct. 28, 2009, 123 Stat. 2372, prohibited the Secretary of a military department from converting any military medical or dental position to a civilian medical or dental position on or after Oct. 1, 2007, and required restoration of certain converted positions to military positions, prior to repeal by Pub. L. 114–328, div. A, title VII, §721(c), Dec. 23, 2016, 130 Stat. 2228.
 
 #### Requirement To Certify and Report on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions
 
@@ -68,7 +68,7 @@ Report with certification.—A Secretary submitting such a certification shall i
 
 &emsp;&emsp;"(A) the methodology used by the Secretary in making the determinations necessary for the certification, including the extent to which the Secretary took into consideration the findings of the Comptroller General in the report under subsection (b)(3);
 
-&emsp;&emsp;"(B) the results of a market survey in each affected area of the availability of civilian medical and dental care providers in such area in order todetermine whether the civilian medical and dental care providers available in such area are adequate to fill the civilian positions created by the conversion of military medical and dental positions to civilian positions in such area; and
+&emsp;&emsp;"(B) the results of a market survey in each affected area of the availability of civilian medical and dental care providers in such area in order to determine whether the civilian medical and dental care providers available in such area are adequate to fill the civilian positions created by the conversion of military medical and dental positions to civilian positions in such area; and
 
 &emsp;&emsp;"(C) any action taken by the Secretary in response to recommendations in the Comptroller General report under subsection (b)(3).
 

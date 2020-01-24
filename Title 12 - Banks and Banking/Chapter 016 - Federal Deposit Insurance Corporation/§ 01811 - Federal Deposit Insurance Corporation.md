@@ -54,7 +54,7 @@ Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: "
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–386, §1, Oct. 30, 2004, 118 Stat. 2228, provided that: "This Act \[amending sections 321, 1709, 1813, 1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of this title and sections 78c, 78l, and 78q of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 321 of this title\] may be cited as the '2004 District of Columbia Omnibus Authorization Act'."
+Pub. L. 108–386, §1, Oct. 30, 2004, 118 Stat. 2228, provided that: "This Act \[amending sections 321, 1709, 1813, 1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of thistitle and sections 78c, 78l, and 78q of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 321 of this title\] may be cited as the '2004 District of Columbia Omnibus Authorization Act'."
 
 #### Short Title of 2000 Amendment
 
@@ -70,7 +70,7 @@ Pub. L. 105–277, div. H, §1, Oct. 21, 1998, 112 Stat. 2681–854, provided th
 
 #### Short Title of 1997 Amendments
 
-Pub. L. 105–24, §1, July 3, 1997, 111 Stat. 238, provided that: "This Act \[amending sections 36 and 1831a of this title and enacting provisions set out as a note undersection 1831a of this title\] may be cited as the 'Riegle-Neal Amendments Act of 1997'."
+Pub. L. 105–24, §1, July 3, 1997, 111 Stat. 238, provided that: "This Act \[amending sections 36 and 1831a of this title and enacting provisions set out as a note under section 1831a of this title\] may be cited as the 'Riegle-Neal Amendments Act of 1997'."
 
 Pub. L. 105–18, title V, §50001, June 12, 1997, 111 Stat. 211, provided that: "This title \[enacting provisions set out as notes under this section and sections 1828, 1831o, and 4008 of this title\] may be cited as the 'Depository Institutions Disaster Relief Act of 1997'."
 
@@ -126,7 +126,7 @@ Pub. L. 95–630, title VI, §601, Nov. 10, 1978, 92 Stat. 3683, provided that: 
 
 #### Short Title
 
-Act Sept. 21, 1950, ch. 967, §1, 64 Stat. 873, provided: "That section 12B of the Federal Reserve Act, as amended, is hereby withdrawn as a part of that Act and is made a separate Act \[enacting this chapter\] to be known as the 'Federal Deposit Insurance Act'."
+Act Sept. 21, 1950, ch. 967, §1, 64 Stat. 873, provided: "That section 12B of the Federal Reserve Act, asamended, is hereby withdrawn as a part of that Act and is made a separate Act \[enacting this chapter\] to be known as the 'Federal Deposit Insurance Act'."
 
 #### Separability
 
@@ -142,7 +142,7 @@ Pub. L. 106–102, title VII, §714, Nov. 12, 1999, 113 Stat. 1470, provided tha
 
 #### Construction of 1997 Amendment
 
-Pub. L. 105–18, title V, §50006, June 12, 1997, 111 Stat. 213, provided that: "No provision of this title \[see ShortTitle of 1997 Amendments note above\] shall be construed as limiting the authority of any department or agency under any other provision of law."
+Pub. L. 105–18, title V, §50006, June 12, 1997, 111 Stat. 213, provided that: "No provision of this title \[see Short Title of 1997 Amendments note above\] shall be construed as limiting the authority of any department or agency under any other provision of law."
 
 #### Construction of 1994 Amendment
 
@@ -230,7 +230,7 @@ In general.—Each Federal banking agency and the National Credit Union Administ
 
 &emsp;&emsp;"(B)
 
-Variety of approaches.—In developing model approaches to the Year 2000 computer problem pursuant to subparagraph (A), each Federal banking agency and the National Credit Union Administration Board shall take into account the need to develop a variety of approaches to correspond to the variety of depository institutions or credit unions within the jurisdiction of the agency.
+Variety of approaches.—In developing model approaches to the Year 2000 computer problem pursuant to subparagraph (A), each Federalbanking agency and the National Credit Union Administration Board shall take into account the need to develop a variety of approaches to correspond to the variety of depository institutions or credit unions within the jurisdiction of the agency.
 
 &emsp;"(3)
 
@@ -488,7 +488,7 @@ Contents of the report.—Each report prepared pursuant to paragraph (1) shall i
 
 &emsp;"(3)
 
-Submission to congress.—The Board of Governors of the Federal Reserve System shall submit anannual report to the Congress not later than September 1, 1995, and not later than June 1 of each subsequent year.
+Submission to congress.—The Board of Governors of the Federal Reserve System shall submit an annual report to the Congress not later than September 1, 1995, and not later than June 1 of each subsequent year.
 
 #### "SEC. 1003. GENERAL ACCOUNTING OFFICE \[GOVERNMENT ACCOUNTABILITY OFFICE\] STUDY.
 
@@ -582,7 +582,7 @@ Consultation on Expanded Use.—The Secretary of the Treasury shall consult with
 
 "(b)
 
-Report to Congress.—The Secretary of the Treasury shall include, in the 1st annual report submitted to the Congress under section 331(a) of title 31,United States Code, after the completion of the consultation required by subsection (a), a report of the actions taken by the Secretary to increase the use of underutilized minority banks, women's banks, and limited income credit unions as depositaries or financial agents of Federal agencies.
+Report to Congress.—The Secretary of the Treasury shall include, in the 1st annual report submitted to the Congress under section 331(a) of title 31, United States Code, after the completion of the consultation required by subsection (a), a report of the actions taken by the Secretary to increase the use of underutilized minority banks, women's banks, and limited income credit unions as depositaries or financial agents of Federal agencies.
 
 "(c)
 
@@ -694,7 +694,7 @@ Definitions.—For purposes of this section:
 
 Government-sponsored enterprise.—The term 'Government-sponsored enterprise' means—
 
-&emsp;&emsp;"(A) the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, theFederal Home Loan Bank System, the Farm Credit Banks, the Banks for Cooperatives, the Federal Agricultural Mortgage Corporation, the Student Loan Marketing Association, the College Construction Loan Insurance Association, and any of their affiliated or member institutions; and
+&emsp;&emsp;"(A) the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, the Farm Credit Banks, the Banks for Cooperatives, the Federal Agricultural Mortgage Corporation, the Student Loan Marketing Association, the College Construction Loan Insurance Association, and any of their affiliated or member institutions; and
 
 &emsp;&emsp;"(B) any other Government-sponsored enterprise, as designated by the Secretary.
 

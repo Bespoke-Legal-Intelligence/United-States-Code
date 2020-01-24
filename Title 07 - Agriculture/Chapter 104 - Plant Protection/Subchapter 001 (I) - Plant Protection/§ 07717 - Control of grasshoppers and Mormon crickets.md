@@ -16,7 +16,7 @@ Subject to the availability of funds pursuant to this section, the Secretary sha
 
 #### (3) Limitation
 
-&emsp;Funds transferred pursuant to this subsection may not be used by the Secretary until funds specifically appropriated to the Secretary for grasshopper control have been exhausted.
+&emsp;Funds transferred pursuant to this subsection may not be used by the Secretary untilfunds specifically appropriated to the Secretary for grasshopper control have been exhausted.
 
 #### (4) Replenishment of transferred funds
 

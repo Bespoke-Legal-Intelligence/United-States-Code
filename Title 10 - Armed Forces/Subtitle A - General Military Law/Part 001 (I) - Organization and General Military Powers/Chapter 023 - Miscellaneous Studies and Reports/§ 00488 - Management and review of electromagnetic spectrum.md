@@ -46,5 +46,5 @@ Pub. L. 114–328, div. A, title X, §1065(b), Dec. 23, 2016, 130 Stat. 2410, pr
 
 &emsp;"(1) not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], issue a Department of Defense Instruction or a Department of Defense Directive to carry out section 488(a) of title 10, United States Code, as amended by subsection (a); and
 
-&emsp;"(2) upon the date of the issuance of the instruction or directive issued under paragraph (1), submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] such instruction or directive."
+&emsp;"(2) upon the date of the issuance of the instruction or directive issued under paragraph (1), submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate andthe House of Representatives\] such instruction or directive."
 

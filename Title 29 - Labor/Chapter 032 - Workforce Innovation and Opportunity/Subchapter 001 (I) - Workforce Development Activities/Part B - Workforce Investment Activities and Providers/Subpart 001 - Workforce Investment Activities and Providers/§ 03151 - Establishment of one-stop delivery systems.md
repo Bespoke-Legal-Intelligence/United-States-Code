@@ -236,7 +236,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 &emsp;The criteria and procedures developed under this subsection shall include standards relating to service coordination achieved by the one-stop delivery system with respect to the programs administered by the one-stop partners at the one-stop centers. Such criteria and procedures shall—
 
-&emsp;&emsp;(A) be developed in a manner that is consistent with the guidelines, guidance, and policies provided by the Governor and by the State board, in consultation with the chief elected officials and local boards, for such partners' participation under subsections (h)(1) and (i); and
+&emsp;&emsp;(A) be developed in a manner that is consistent with the guidelines, guidance, andpolicies provided by the Governor and by the State board, in consultation with the chief elected officials and local boards, for such partners' participation under subsections (h)(1) and (i); and
 
 &emsp;&emsp;(B) include such factors relating to the effectiveness, accessibility, and improvement of the one-stop delivery system as the State board determines to be appropriate, including at a minimum how well the one-stop center—
 
@@ -256,7 +256,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (5) Review and update
 
-&emsp;The criteria and procedures established under this subsection shall be reviewed and updated by the State board or the local board, as the case may be, as part of the biennial process for review and modification of Stateand local plans described in sections 3112(c)(2) and 3123(a) of this title.
+&emsp;The criteria and procedures established under this subsection shall be reviewed and updated by the State board or the local board, as the case may be, as part of the biennial process for review and modification of State and local plans described in sections 3112(c)(2) and 3123(a) of this title.
 
 #### (h) Funding of one-stop infrastructure
 
@@ -298,11 +298,11 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (D), the Governor, after consultation with chief elected officials, local boards, and the State board, shall determine the portion of funds to be provided under subparagraph (B) by each one-stop partner from each program described in subparagraph (B). In making such determination for the purpose of determining funding contributions, for funding pursuant to clause (i)(II) or (ii) of paragraph (1)(A) by each partner, the Governor shall calculate amounts for the proportionate use of the one-stop centers in the State, consistent with chapter II of title 2, Code of Federal Regulations (or any corresponding similar regulation or ruling), taking into account the costs of administration of the one-stop delivery system for purposes not related to one-stop centers, for each partner. The Governor shall exclude from such determination of funds the amounts for proportionate use of one-stop centers attributable to the programs of one-stop partners for those local areas of the State where the costs of infrastructure of one-stop centers are funded under the option described in paragraph (1)(A)(i)(I). The Governor shall also take into account the statutory requirements for each partner program and the partner program's ability to fulfill such requirements.
+&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (D), the Governor, after consultation withchief elected officials, local boards, and the State board, shall determine the portion of funds to be provided under subparagraph (B) by each one-stop partner from each program described in subparagraph (B). In making such determination for the purpose of determining funding contributions, for funding pursuant to clause (i)(II) or (ii) of paragraph (1)(A) by each partner, the Governor shall calculate amounts for the proportionate use of the one-stop centers in the State, consistent with chapter II of title 2, Code of Federal Regulations (or any corresponding similar regulation or ruling), taking into account the costs of administration of the one-stop delivery system for purposes not related to one-stop centers, for each partner. The Governor shall exclude from such determination of funds the amounts for proportionate use of one-stop centers attributable to the programs of one-stop partners for those local areas of the State where the costs of infrastructure of one-stop centers are funded under the option described in paragraph (1)(A)(i)(I). The Governor shall also take into account the statutory requirements for each partner program and the partner program's ability to fulfill such requirements.
 
 #### (ii) Special rule
 
-&emsp;&emsp;&emsp;In a State in which the State constitution or a State statute places policymaking authority that is independent of the authority of the Governor in an entity or official with respect to the funds provided for adult education and literacy activities authorized under subchapter II, postsecondary career and technical education activities authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), or vocational rehabilitation services offeredunder a provision covered by section 3102(13)(D) of this title, the determination described in clause (i) with respect to the programs authorized under that subchapter, Act, or provision shall be made by the chief officer of the entity, or the official, with such authority in consultation with the Governor.
+&emsp;&emsp;&emsp;In a State in which the State constitution or a State statute places policymaking authority that is independent of the authority of the Governor in an entity or official with respect to the funds provided for adult education and literacy activities authorized under subchapter II, postsecondary career and technical education activities authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), or vocational rehabilitation services offered under a provision covered by section 3102(13)(D) of this title, the determination described in clause (i) with respect to the programs authorized under that subchapter, Act, or provision shall be made by the chief officer of the entity, or the official, with such authority in consultation with the Governor.
 
 #### (D) Limitations
 
@@ -346,7 +346,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (iv) Native American programs
 
-&emsp;&emsp;&emsp;One-stop partners for Native American programs established under section 3221 of this title shall not be subject to the provisions of this subsection (other than this clause) or subsection (i). For purposes of subsection (c)(2)(A)(ii)(II), the method for determining the appropriate portion of funds to be provided by such partners to pay for the costs of infrastructure of a one-stop center shall be determined as part of the development of the memorandum of understanding under subsection (c) for the one-stop center and shall be stated in the memorandum.
+&emsp;&emsp;&emsp;One-stop partners for Native American programs established under section 3221 ofthis title shall not be subject to the provisions of this subsection (other than this clause) or subsection (i). For purposes of subsection (c)(2)(A)(ii)(II), the method for determining the appropriate portion of funds to be provided by such partners to pay for the costs of infrastructure of a one-stop center shall be determined as part of the development of the memorandum of understanding under subsection (c) for the one-stop center and shall be stated in the memorandum.
 
 #### (E) Appeal by one-stop partners
 
@@ -360,7 +360,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (B) Allocation formula
 
-&emsp;&emsp;The State board shall develop a formula to be used by the Governor to allocate the funds provided under paragraph (1) to localareas not funding costs of infrastructure under the option described in paragraph (1)(A)(i)(I). The formula shall be based on factors including the number of one-stop centers in a local area, the population served by such centers, the services provided by such centers, and other factors relating to the performance of such centers that the State board determines are appropriate.
+&emsp;&emsp;The State board shall develop a formula to be used by the Governor to allocate the funds provided under paragraph (1) to local areas not funding costs of infrastructure under the option described in paragraph (1)(A)(i)(I). The formula shall be based on factors including the number of one-stop centers in a local area, the population served by such centers, the services provided by such centers, and other factors relating to the performance of such centers that the State board determines are appropriate.
 
 #### (4) Costs of infrastructure
 
@@ -402,7 +402,7 @@ The Social Security Act, referred to in subsec. (b)(1)(B)(xiii), is act Aug. 14,
 
 This Act, referred to in subsecs. (b)(1)(C)(i) and (f)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (b)(2)(B)(vi), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of thisAct to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (b)(2)(B)(vi), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (g)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 

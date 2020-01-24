@@ -2,7 +2,7 @@
 
 #### (a) Publication of information; establishment of flood-risk zones; estimates of flood-caused loss
 
-The Administrator is authorized to consult with, receive information from, and enter into any agreements or other arrangements with the Secretaries of the Army, the Interior, Agriculture, and Commerce, the Tennessee Valley Authority, and the heads of other Federal departments or agencies, on a reimbursement basis, or with the head of any State or localagency, or enter into contracts with any persons or private firms, in order that he may—
+The Administrator is authorized to consult with, receive information from, and enter into any agreements or other arrangements with the Secretaries of the Army, the Interior, Agriculture, and Commerce, the Tennessee Valley Authority, and the heads of other Federal departments or agencies, on a reimbursement basis, or with the head of any State or local agency, or enter into contracts with any persons or private firms, in order that he may—
 
 &emsp;(1) identify and publish information with respect to all flood plain areas, including coastal areas located in the United States, which has special flood hazards, within five years following August 1, 1968, and
 
@@ -38,7 +38,7 @@ To promote compliance with the requirements of this chapter, the Administrator s
 
 #### (h) Notification of flood map changes
 
-The Administrator shall cause notice to be published in the Federal Register (or shall provide notice by another comparable method) of any change to flood insurance map panels and any change to flood insurance map panels issued in the form of a letter of map amendment or a letter of map revision. Such notice shall be published or otherwise provided not later than 30 days after the map change or revision becomes effective. Notice by any method other than publication in the Federal Register shall include all pertinent information, provide for regular and frequent distribution, and be at least as accessible to map users as notice in the Federal Register. All notices under this subsection shall include information on how to obtain copies of the changes or revisions.
+The Administrator shall cause notice to be published in the Federal Register (or shall provide notice by another comparable method) of any change to flood insurance map panels and any change to flood insurance map panels issued in the form of a letter of map amendment or aletter of map revision. Such notice shall be published or otherwise provided not later than 30 days after the map change or revision becomes effective. Notice by any method other than publication in the Federal Register shall include all pertinent information, provide for regular and frequent distribution, and be at least as accessible to map users as notice in the Federal Register. All notices under this subsection shall include information on how to obtain copies of the changes or revisions.
 
 #### (i) Compendia of flood map changes
 
@@ -114,7 +114,7 @@ Section effective 120 days following Aug. 1, 1968, or such later date prescribed
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, includingthe functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

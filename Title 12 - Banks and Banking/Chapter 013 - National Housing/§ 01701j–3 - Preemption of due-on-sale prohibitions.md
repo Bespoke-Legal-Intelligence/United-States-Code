@@ -6,7 +6,7 @@ For the purpose of this section—
 
 &emsp;(1) the term "due-on-sale clause" means a contract provision which authorizes a lender, at its option, to declare due and payable sums secured by the lender's security instrument if all or any part of the property, or an interest therein, securing the real property loan is sold or transferred without the lender's prior written consent;
 
-&emsp;(2) the term "lender" means a person or government agency making a real property loanor any assignee or transferee, in whole or in part, of such a person or agency;
+&emsp;(2) the term "lender" means a person or government agency making a real property loan or any assignee or transferee, in whole or in part, of such a person or agency;
 
 &emsp;(3) the term "real property loan" means a loan, mortgage, advance, or credit sale secured by a lien on real property, the stock allocated to a dwelling unit in a cooperative housing corporation, or a residential manufactured home, whether real or personal property; and
 
@@ -26,7 +26,7 @@ For the purpose of this section—
 
 (1) In the case of a contract involving a real property loan which was made or assumed, including a transfer of the liened property subject to the real property loan, during the period beginning on the date a State adopted a constitutional provision or statute prohibiting the exercise of due-on-sale clauses, or the date on which the highest court of such State has rendered a decision (or if the highest court has not so decided, the date on which the next highest appellate court has rendered a decision resulting in a final judgment if such decision applies State-wide) prohibiting such exercise, and ending on October 15, 1982, the provisions of subsection (b) shall apply only in the case of a transfer which occurs on or after the expiration of 3 years after October 15, 1982, except that—
 
-&emsp;(A) a State, by a State law enacted by the State legislature prior to the close of such 3-year period, with respect to real property loans originated in the State by lenders other than national banks, Federal savings and loan associations, Federal savings banks, and Federal credit unions, may otherwise regulate such contracts, in which case subsection (b) shall apply only if such State law so provides; and
+&emsp;(A) a State, by a State law enacted by the State legislature prior to the close of such 3-year period, with respect to real property loans originated in the State by lenders other than national banks, Federal savings and loanassociations, Federal savings banks, and Federal credit unions, may otherwise regulate such contracts, in which case subsection (b) shall apply only if such State law so provides; and
 
 &emsp;(B) the Comptroller of the Currency with respect to real property loans originated by national banks or the National Credit Union Administration Board with respect to real property loans originated by Federal credit unions may, by regulation prescribed prior to the close of such period, otherwise regulate such contracts, in which case subsection (b) shall apply only if such regulation so provides.
 

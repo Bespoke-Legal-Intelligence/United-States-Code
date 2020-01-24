@@ -10,7 +10,7 @@
 
 (C) A purchaser holding twenty-seven million three hundred thousand or less board feet of net merchantable sawtimber as of January 1, 1982, in qualifying contracts as provided in subparagraph (A) shall be entitled to buy out up to fifteen million board feet of such timber volume or one contract, whichever is greater in volume.
 
-(D) So long as the volume limitation of two hundred million board feet is not exceeded, the percentage limitation of subparagraph (B) or the volume limitation of subparagraph (C) may be exceeded by a volume amount not to exceed thevolume of the smallest volume contract bought out by the purchaser if the purchaser could not otherwise attain his percentage or volume entitlement.
+(D) So long as the volume limitation of two hundred million board feet is not exceeded, the percentage limitation of subparagraph (B) or the volume limitation of subparagraph (C) may be exceeded by a volume amount not to exceed the volume of the smallest volume contract bought out by the purchaser if the purchaser could not otherwise attain his percentage or volume entitlement.
 
 (E) Timber returned to the Government pursuant to this subsection shall be available for resale by the Government upon payment, or arrangement for payment, of the buy-out charge and completion of obligations, if any, under paragraph (4)(B).
 
@@ -44,7 +44,7 @@
 
 (C) Beginning in fiscal year 1985 and continuing through fiscal year 1991 or the fiscal year in which timber contract extensions in region 6 granted under the President's program of July 28, 1983 (as constituted on October 16, 1984), are completed, whichever is later, the Secretary of Agriculture shall set, and periodically adjust as necessary, the maximum annual timber sale volume in region 6. Such maximum sale volume shall be set so as to achieve a volume of region 6 net merchantable sawtimber under contract at the end of each fiscal year which does not exceed twelve billion three hundred million board feet: <i>Provided, however</i>, That such maximum annual sale volume shall not exceed five billion two hundred million board feet of net merchantable sawtimber. The sale of timber within region 6 shall be made in such a manner as not to result in discriminatory treatment as between different forests in the region.
 
-(6)(A) The Secretary of the Interior and the Secretary of Agriculture shall publish final rules for the implementation of this subsectionin the Federal Register within ninety days after October 16, 1984.
+(6)(A) The Secretary of the Interior and the Secretary of Agriculture shall publish final rules for the implementation of this subsection in the Federal Register within ninety days after October 16, 1984.
 
 (B) Such final rules shall require purchasers to submit buy-out requests to the appropriate Secretary within ninety days after the publication of such rules.
 

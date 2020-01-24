@@ -4,7 +4,7 @@
 
 The Chief Executive Officer shall have the following authorities:
 
-&emsp;(1) To direct and supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 et seq.\],,<sup>1</sup> the Television Broadcasting toCuba Act \[22 U.S.C. 1465aa et seq.\], and Worldnet Television, except as provided in section 6205(b) of this title.
+&emsp;(1) To direct and supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 et seq.\],,<sup>1</sup> the Television Broadcasting to Cuba Act \[22 U.S.C. 1465aa et seq.\], and Worldnet Television, except as provided in section 6205(b) of this title.
 
 &emsp;(2) To review and evaluate the mission and operation of, and to assess the quality, effectiveness, and professional integrity of, all such activities within the context of the broad foreign policy objectives of the United States.
 
@@ -14,7 +14,7 @@ The Chief Executive Officer shall have the following authorities:
 
 &emsp;(5) To make and supervise grants and cooperative agreements for broadcasting and related activities in furtherance of the purposes of this chapter and on behalf of other agencies, accordingly.
 
-&emsp;(6) To allocate funds appropriated for international broadcasting activities among the various elements of the Board and grantees, subject to reprogramming notification requirements in law for the reallocation of funds.
+&emsp;(6) To allocate funds appropriated for international broadcasting activities among thevarious elements of the Board and grantees, subject to reprogramming notification requirements in law for the reallocation of funds.
 
 &emsp;(7) To review engineering activities to ensure that all broadcasting elements receive the highest quality and cost-effective delivery services.
 
@@ -42,13 +42,13 @@ The Chief Executive Officer shall have the following authorities:
 
 &emsp;(18) To utilize the authorities of any other statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding that had been available to the Director of the United States Information Agency, the Chief Executive Officer, or the Chief Executive Officer <sup>2</sup> before the effective date of title XIII of the Foreign Affairs Consolidation Act of 1998 for carrying out the broadcasting activities covered by this chapter.
 
-&emsp;(19)(A) To provide for the payment of primary and secondary school expenses for dependents of personnel stationed in the Commonwealth of the Northern Mariana Islands (CNMI) at a cost not to exceed expenses authorized by the Department of Defense for such schooling for dependents of members of the Armed Forces stationed in the Commonwealth, if the Chief Executive Officer determines that schools available in the Commonwealth are unable to provide adequately forthe education of the dependents of such personnel.
+&emsp;(19)(A) To provide for the payment of primary and secondary school expenses for dependents of personnel stationed in the Commonwealth of the Northern Mariana Islands (CNMI) at a cost not to exceed expenses authorized by the Department of Defense for such schooling for dependents of members of the Armed Forces stationed in the Commonwealth, if the Chief Executive Officer determines that schools available in the Commonwealth are unable to provide adequately for the education of the dependents of such personnel.
 
 &emsp;(B) To provide transportation for dependents of such personnel between their places of residence and those schools for which expenses are provided under subparagraph (A), if the Chief Executive Officer determines that such schools are not accessible by public means of transportation.
 
 &emsp;(20) Notwithstanding any other provision of law, including section 6207(a) of this title, to condition, if appropriate, any grant or cooperative agreement to RFE/RL, Inc., Radio Free Asia, or the Middle East Broadcasting Networks, or any organization that is established through the consolidation of such entities, on authority to determine membership of their respective boards, and the consolidation of such grantee entities into a single grantee organization under terms and conditions established by the Board.
 
-&emsp;(21) To redirect or reprogram funds within the scope of any grant or cooperative agreement, or between grantees, as necessary (and not later than 15 days before any such redirection of funds between language services, to notify the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate regarding such redirection), and to condition grants or cooperative agreements, if appropriate, on such grants or cooperative agreements or any similar amendments as authorized under section 6207(a) of this title, including authority to name and replace the board of any grantee authorized under this chapter, including with Federal officials, to meet the purposes of this chapter.
+&emsp;(21) To redirect or reprogram funds within the scope of any grant or cooperative agreement, or between grantees, as necessary (andnot later than 15 days before any such redirection of funds between language services, to notify the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate regarding such redirection), and to condition grants or cooperative agreements, if appropriate, on such grants or cooperative agreements or any similar amendments as authorized under section 6207(a) of this title, including authority to name and replace the board of any grantee authorized under this chapter, including with Federal officials, to meet the purposes of this chapter.
 
 &emsp;(22) To change the name of the Board pursuant to congressional notification 60 days prior to any such change.
 
@@ -152,7 +152,7 @@ Pub. L. 111–84, div. A, title XII, §1262, Oct. 28, 2009, 123 Stat. 2553, prov
 
 "(a)
 
-International Broadcasting Operations Fund.—In addition to amounts otherwise authorized for the Broadcasting Board of Governors' International Broadcasting Operations Fund, there is authorized to be appropriated $15,000,000 to expand Farsi language programming and to provide for the dissemination of accurate and independent information to the Iranian people through radio, television, Internet, cellular telephone, short message service, and other communications.
+International Broadcasting Operations Fund.—In addition to amounts otherwise authorized for the Broadcasting Board of Governors' \[now United States Agency for Global Media\] International Broadcasting Operations Fund, there is authorized to be appropriated $15,000,000 to expand Farsi language programming and to provide for the dissemination of accurate and independent information to the Iranian people through radio, television, Internet, cellular telephone, short message service, and other communications.
 
 "(b)
 
@@ -188,7 +188,7 @@ Administration.—The Fund shall be administered by the Secretary of State.
 
 "(c)
 
-Objective.—The objective of the Fund shall be to support the development of technologies, includingInternet Web sites, that will aid the ability of the Iranian people to—
+Objective.—The objective of the Fund shall be to support the development of technologies, including Internet Web sites, that will aid the ability of the Iranian people to—
 
 &emsp;"(1) gain access to and share information;
 
@@ -220,7 +220,7 @@ Use of Amounts.—In pursuit of the objective described in subsection (c), amoun
 
 "(e)
 
-Transfers.—Amounts in the Fund may be transferred to the United States Agency for International Development, the Broadcasting Board of Governors, or any other agency of the Federal Government to the extent that such amounts are used to carry out activities that will further the objective described in subsection (c).
+Transfers.—Amounts in the Fund may be transferred to the United States Agency for International Development, the Broadcasting Board of Governors \[now United States Agency for Global Media\], or any other agency of the Federal Government to the extent that such amounts are used to carry out activities that will further the objective described in subsection (c).
 
 "(f)
 
@@ -228,7 +228,7 @@ Authorization of Appropriations.—There is authorized to be appropriated $20,00
 
 #### Buying Power Maintenance Account
 
-Pub. L. 110–252, title I, §1408(c), June 30, 2008, 122 Stat. 2342, provided that: "The Broadcasting Board of Governors may transfer funds into its Buying Power Maintenance Account, notwithstanding the requirement that such funds be provided in advance in appropriations Acts. The authority in this subsection may be exercised only with respect to funds appropriated or otherwise made available after fiscal year 2008."
+Pub. L. 110–252, title I, §1408(c), June 30, 2008, 122 Stat. 2342, provided that: "The Broadcasting Board of Governors \[now United States Agency for Global Media\] may transfer funds into its Buying Power Maintenance Account, notwithstanding the requirement that such funds be provided in advance in appropriations Acts. The authority in this subsection may be exercised only with respect to funds appropriated or otherwise made available after fiscal year 2008."
 
 #### Pilot Project for Transcription of Certain Programming Into English
 
@@ -236,7 +236,7 @@ Pub. L. 110–53, title XX, §2032, Aug. 3, 2007, 121 Stat. 516, provided that:
 
 "(a)
 
-Transcription of Persian and Arabic Language Broadcasts.—Not later than 90 days after the date of the enactment of this Act \[Aug. 3, 2007\], the Broadcasting Board of Governors shall initiate a pilot project to transcribe into the English language news and information programming broadcast by Radio Farda, Radio Sawa, the Persian Service of the Voice of America, and Alhurra.
+Transcription of Persian and Arabic Language Broadcasts.—Not later than 90 days after the date of the enactment of this Act \[Aug. 3, 2007\], the Broadcasting Board of Governors \[now United States Agency for Global Media\] shall initiate a pilot project to transcribe into the English language news and information programming broadcast by Radio Farda, Radio Sawa, the Persian Service of the Voice of America, and Alhurra.
 
 "(b)
 

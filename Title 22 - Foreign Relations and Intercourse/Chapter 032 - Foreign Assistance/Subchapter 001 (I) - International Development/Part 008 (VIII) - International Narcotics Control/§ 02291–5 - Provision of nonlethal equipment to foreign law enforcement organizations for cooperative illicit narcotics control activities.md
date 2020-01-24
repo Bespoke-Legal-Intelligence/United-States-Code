@@ -20,7 +20,7 @@ Before the export of any item authorized for transfer under subsection (a), the 
 
 It is the sense of Congress that—
 
-&emsp;(1) all United States law enforcement personnel serving in Mexico should be accredited the same status under the Vienna Convention on Diplomatic Immunity as other diplomatic personnel serving at United States posts in Mexico; and
+&emsp;(1) all United States law enforcement personnel serving in Mexico should be accredited the same status under the Vienna Convention on Diplomatic Immunity as other diplomaticpersonnel serving at United States posts in Mexico; and
 
 &emsp;(2) all Mexican narcotics law enforcement personnel serving in the United States should be accorded the same diplomatic status as Drug Enforcement Administration personnel serving in Mexico.
 

@@ -34,13 +34,13 @@
 
 #### (c) Transition provision relating to matters other than employment under section 12209 of title 42
 
-With respect to matters other than employment under section 12209 <sup>1</sup> of title 42, the rights, protections, remedies, and procedures of section 12209 <sup>1</sup> of title 42 shall remain in effect until section 1331 of this title takes effect with respect to each of the entities covered by section 12209 <sup>1</sup> of title 42.
+With respect to matters other than employment under section 12209 <sup>1</sup> of title 42, the rights,protections, remedies, and procedures of section 12209 <sup>1</sup> of title 42 shall remain in effect until section 1331 of this title takes effect with respect to each of the entities covered by section 12209 <sup>1</sup> of title 42.
 
 (Pub. L. 104–1, title V, §506, Jan. 23, 1995, 109 Stat. 42.)
 
 #### References in Text
 
-For the effective dates of sections 1311, 1312, and 1331 of this title, referred to in text, see sections 1311(d), 1312(e), and 1331(i), respectively, of this title.
+For the effective dates of sections 1311, 1312, and 1331 of this title, referred to in text, see sections 1311(e), 1312(f), and 1331(i), respectively, of this title.
 
 Rule LI of the Rules of the House of Representatives, referred to in subsec. (a)(1), (2), was repealed by H. Res. No. 5, §23(a), One Hundred Fifth Congress, Jan. 7, 1997.
 

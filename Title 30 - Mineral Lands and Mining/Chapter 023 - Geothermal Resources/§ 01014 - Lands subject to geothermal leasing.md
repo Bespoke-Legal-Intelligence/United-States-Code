@@ -2,7 +2,7 @@
 
 #### (a) Terms and conditions for lands withdrawn or acquired for Department of the Interior
 
-Geothermal leases for lands withdrawn or acquired in aid of functions of the Department of the Interior may be issued only under suchterms and conditions as the Secretary may prescribe to insure adequate utilization of the lands for the purposes for which they were withdrawn or acquired.
+Geothermal leases for lands withdrawn or acquired in aid of functions of the Department of the Interior may be issued only under such terms and conditions as the Secretary may prescribe to insure adequate utilization of the lands for the purposes for which they were withdrawn or acquired.
 
 #### (b) Consent and terms and conditions for lands withdrawn or acquired for Department of Agriculture or for lands for power and related purposes
 
@@ -24,7 +24,7 @@ The Act of August 25, 1916 (39 Stat. 535), referred to in subsec. (c), is act Au
 
 #### Transfer of Functions
 
-"Secretary of Energy" substituted for "Federal Power Commission" in subsec. (b) pursuant to sections 301(b), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(b), 7293, and 7297 of Title 42, The Public Health and Welfare, and which terminated Federal Power Commission and transferred its functions (with certain exceptions) to Secretary of Energy.
+"Secretary of Energy" substituted for "Federal Power Commission" in subsec. (b) pursuant to sections 301(b), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(b), 7293, and 7297 of Title 42, The PublicHealth and Welfare, and which terminated Federal Power Commission and transferred its functions (with certain exceptions) to Secretary of Energy.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

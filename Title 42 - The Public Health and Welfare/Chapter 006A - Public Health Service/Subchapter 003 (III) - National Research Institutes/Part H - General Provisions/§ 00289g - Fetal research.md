@@ -2,7 +2,7 @@
 
 #### (a) Conduct or support by Secretary; restrictions
 
-The Secretary may not conduct or support any research or experimentation, in the United States or in any other country, on a nonviable living human fetus ex utero or a living human fetus ex utero for whom viability has not been ascertained unless the research or experimentation—
+The Secretary may not conduct or support any research or experimentation, in the UnitedStates or in any other country, on a nonviable living human fetus ex utero or a living human fetus ex utero for whom viability has not been ascertained unless the research or experimentation—
 
 &emsp;(1) may enhance the well-being or meet the health needs of the fetus or enhance the probability of its survival to viability; or
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Pre-judgment Probation.—If a person found guilty of an offense described in section404 of the Controlled Substances Act (21 U.S.C. 844)—
+Pre-judgment Probation.—If a person found guilty of an offense described in section 404 of the Controlled Substances Act (21 U.S.C. 844)—
 
 &emsp;(1) has not, prior to the commission of such offense, been convicted of violating a Federal or State law relating to controlled substances; and
 

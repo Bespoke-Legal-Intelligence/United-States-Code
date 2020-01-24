@@ -44,7 +44,7 @@ Another prior section 437 of Pub. L. 90–247 was renumbered section 447, and wa
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–437, which directed that section 431(b)(2)(B), (d)(2), and (g) of Pub. L. 90–247 be amended by substituting "Labor and Human Resources" for "Labor and Public Welfare", could not be executed because this section, which was section 431 of Pub. L. 90–247, was renumbered section 437 and amended generally by Pub. L. 103–382.
+<b>1994</b>—Pub. L. 103–437, which directed that section 431(b)(2)(B), (d)(2), and (g) of Pub. L. 90–247 be amended by substituting "Labor and Human Resources" for"Labor and Public Welfare", could not be executed because this section, which was section 431 of Pub. L. 90–247, was renumbered section 437 and amended generally by Pub. L. 103–382.
 
 Pub. L. 103–382, §247, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to promulgation of regulations by Secretary, and their publication, application, disapproval by Congress, and modification subsequent to disapproval.
 
@@ -80,8 +80,6 @@ Subsecs. (d) to (g). Pub. L. 93–380, §509(a)(2), added subsecs. (d) to (g).
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 1981 Amendment
 
 Pub. L. 97–35, title V, §540(a), Aug. 13, 1981, 95 Stat. 458, provided that the amendment made by Pub. L. 97–35 is effective Oct. 1, 1981.
@@ -98,7 +96,7 @@ Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except eith
 
 Pub. L. 94–142, §8, Nov. 29, 1975, 89 Stat. 796, provided that:
 
-"(a) Notwithstanding any other provision of law, the amendments made by sections 2(a), 2(b), and 2(c) \[amending sections 1411 and 1412 of this title as in effect through Sept. 30, 1977, and amending provisions setout as notes under sections 1411 to 1413 of this title\] shall take effect on July 1, 1975.
+"(a) Notwithstanding any other provision of law, the amendments made by sections 2(a), 2(b), and 2(c) \[amending sections 1411 and 1412 of this title as in effect through Sept. 30, 1977, and amending provisions set out as notes under sections 1411 to 1413 of this title\] shall take effect on July 1, 1975.
 
 "(b) The amendments made by sections 2(d), 2(e), 3, 6, and 7 \[enacting sections 1405 and 1406 of this title, amending this section and sections 1412 and 1453 of this title, enacting provisions set out as a note under section 1411 of this title, and amending provisions set out as a note under section 1401 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1975\].
 

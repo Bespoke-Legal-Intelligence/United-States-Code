@@ -32,7 +32,7 @@ If the Attorney General determines that a cause of action referred to in section
 
 #### (d) Share of funds and assets
 
-(1) When the United States acquires funds or assets pursuant to the execution of a judgment, order, or settlement and the Attorney General determines that the judgment, order, or settlement was based in whole or in part on the information contained in a valid declaration filed under section 4201 of this title, the declarant shall have the right to share in the recovery as follows:
+(1) When the United States acquires funds or assets pursuant to the execution of a judgment,order, or settlement and the Attorney General determines that the judgment, order, or settlement was based in whole or in part on the information contained in a valid declaration filed under section 4201 of this title, the declarant shall have the right to share in the recovery as follows:
 
 &emsp;(A)(i) The declarant shall be entitled to 20 percent to 30 percent of any recovery up to the first $1,000,000 recovered, 10 percent to 20 percent of the next $4,000,000 recovered, and 5 percent to 10 percent of the next $5,000,000 recovered.
 
@@ -58,7 +58,7 @@ For purposes of this section, funds or assets acquired by the United States shal
 
 Subsec. (e). Pub. L. 107–273 struck out heading and text of subsec. (e). Text read as follows:
 
-"(1) No person shall receive both an award under this section and a reward under either section 1831k of thistitle or section 3509A of title 18 for providing the same or substantially similar information.
+"(1) No person shall receive both an award under this section and a reward under either section 1831k of this title or section 3509A of title 18 for providing the same or substantially similar information.
 
 "(2) When a person qualifies for both an award under this section and a reward under either section 1831k of this title or section 3509A of title 18 for providing the same or substantially similar information, the person may notify the Attorney General in writing of the person's election to seek an award under this section or a reward under such other section."
 

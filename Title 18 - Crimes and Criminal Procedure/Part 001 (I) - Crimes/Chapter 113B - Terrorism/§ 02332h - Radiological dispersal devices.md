@@ -10,7 +10,7 @@ In general.—Except as provided in paragraph (2), it shall be unlawful for any 
 
 &emsp;&emsp;(A) any weapon that is designed or intended to release radiation or radioactivity at a level dangerous to human life; or
 
-&emsp;&emsp;(B) any device or other object that is capable of and designed or intended to endangerhuman life through the release of radiation or radioactivity.
+&emsp;&emsp;(B) any device or other object that is capable of and designed or intended to endanger human life through the release of radiation or radioactivity.
 
 &emsp;(2)
 
@@ -40,7 +40,7 @@ Criminal Penalties.—
 
 &emsp;(1)
 
-In general.—Any person who violates, or attempts or conspires to violate, subsection (a) shall be fined not more than $2,000,000 and shall be sentenced to a term of imprisonment not less than 25 years or to imprisonment for life.
+In general.—Any person who violates, or attempts or conspires to violate, subsection\(a) shall be fined not more than $2,000,000 and shall be sentenced to a term of imprisonment not less than 25 years or to imprisonment for life.
 
 &emsp;(2)
 

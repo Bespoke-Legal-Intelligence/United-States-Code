@@ -10,7 +10,7 @@ Mandatory Refusal.—The Administrator of the Transportation Security Administra
 
 (b)
 
-Permissive Refusal.—Subject to regulations of the Administrator of the TransportationSecurity Administration, an air carrier, intrastate air carrier, or foreign air carrier may refuse to transport a passenger or property the carrier decides is, or might be, inimical to safety.
+Permissive Refusal.—Subject to regulations of the Administrator of the Transportation Security Administration, an air carrier, intrastate air carrier, or foreign air carrier may refuse to transport a passenger or property the carrier decides is, or might be, inimical to safety.
 
 (c)
 

@@ -164,7 +164,7 @@ This amends the catchline for 49:5325(d) to make a clarifying amendment.
 
 #### References in Text
 
-The Federal Public Transportation Act of 2015, referred to in subsec. (h), is title III of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1446. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 5101 of this title and Tables.
+The Federal Public Transportation Act of 2015, referred to in subsec. (h), is title III of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1446. For complete classification of thisAct to the Code, see Short Title of 2015 Amendment note set out under section 5101 of this title and Tables.
 
 #### Amendments
 

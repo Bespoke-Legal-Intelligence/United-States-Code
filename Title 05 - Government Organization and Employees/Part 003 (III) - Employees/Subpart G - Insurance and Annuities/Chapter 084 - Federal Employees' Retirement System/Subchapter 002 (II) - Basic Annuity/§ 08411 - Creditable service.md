@@ -10,7 +10,7 @@
 
 &emsp;(2) except as provided in subsection (f), service with respect to which deductions and withholdings under section 204(a)(1) of the Federal Employees' Retirement Contribution Temporary Adjustment Act of 1983 have been made;
 
-&emsp;(3) except as provided in subsection (f) or (h), any civilian service (performed before January 1, 1989, other than any service under paragraph (1) or (2)) which, but for the amendments made by subsections (a)(4) and (b) of section 202 of the Federal Employees' Retirement System Act of 1986, would be creditable under subchapter III of chapter 83 of this title (determined without regard to any deposit or redeposit requirement under such subchapter, anyrequirement that the individual become subject to such subchapter after performing the service involved, or any requirement that the individual give notice in writing to the official by whom such individual is paid of such individual's desire to become subject to such subchapter);
+&emsp;(3) except as provided in subsection (f) or (h), any civilian service (performed before January 1, 1989, other than any service under paragraph (1) or (2)) which, but for the amendments made by subsections (a)(4) and (b) of section 202 of the Federal Employees' Retirement System Act of 1986, would be creditable under subchapter III of chapter 83 of this title (determined without regard to any deposit or redeposit requirement under such subchapter, any requirement that the individual become subject to such subchapter after performing the service involved, or any requirement that the individual give notice in writing to the official by whom such individual is paid of such individual's desire to become subject to such subchapter);
 
 &emsp;(4) a period of service (other than any service under any other paragraph of this subsection and other than any military service) that was creditable under the Foreign Service Pension System described in subchapter II of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980, if the employee or Member waives credit for such service under the Foreign Service Pension System and makes a payment to the Fund equal to the amount that would have been deducted from pay under section 8422(a) had the employee been subject to this chapter during such period of service (together with interest on such amount computed under paragraphs (2) and (3) of section 8334(e));
 
@@ -66,7 +66,7 @@
 
 &emsp;(ii) this paragraph shall be carried out in any case which involves a former spouse.
 
-(5) If, after January 1, 1997, an employee or Member waives retired pay that is subject to a court order for which there has been effective service on the Secretary concerned for purposes of section 1408 of title 10, the military service on which the retired pay is based may be credited as service for purposes of this chapter only if the employee or Member authorizes the Director to deduct and withhold from the annuity payable to the employee or Member under this subchapter an amount equal to the amount that, if the annuity payment was instead a payment of the employee's or Member's retired pay, would have been deducted and withheld and paid to theformer spouse covered by the court order under such section 1408. The amount deducted and withheld under this paragraph shall be paid to that former spouse. The period of civil service employment by the employee or Member shall not be taken into consideration in determining the amount of the deductions and withholding or the amount of the payment to the former spouse. The Director of the Office of Personnel Management shall prescribe regulations to carry out this paragraph.
+(5) If, after January 1, 1997, an employee or Member waives retired pay that is subject to a court order for which there has been effective service on the Secretary concerned for purposes of section 1408 of title 10, the military service on which the retired pay is based may be credited as service for purposes of this chapter only if the employee or Member authorizes the Director to deduct and withhold from the annuity payable to the employee or Member under this subchapter an amount equal to the amount that, if the annuity payment was instead a payment of the employee's or Member's retired pay, would have been deducted and withheld and paid to the former spouse covered by the court order under such section 1408. The amount deducted and withheld under this paragraph shall be paid to that former spouse. The period of civil service employment by the employee or Member shall not be taken into consideration in determining the amount of the deductions and withholding or the amount of the payment to the former spouse. The Director of the Office of Personnel Management shall prescribe regulations to carry out this paragraph.
 
 (d) Credit under this chapter shall be allowed for leaves of absence without pay granted an employee while performing military service, or while receiving benefits under subchapter I of chapter 81. An employee or former employee who returns to duty after a period of separation is deemed, for the purpose of this subsection, to have been on leave of absence without pay for that part of the period in which that individual was receiving benefits under subchapter I of chapter 81. Credit may not be allowed for so much of other leaves of absence without pay as exceeds 6 months in the aggregate in a calendar year.
 
@@ -86,7 +86,7 @@
 
 &emsp;(2) transferred without a break in service to a position to which the employee was appointed by the President, with the advice and consent of the Senate, and in which position the employee is subject to this subchapter,
 
-> shall be treated for all purposes of this subchapter as if any service that would have been creditable under the retirement system established under section 10 of the Federal Reserve Act was service performed while subject to this subchapter if any employee and employer deductions, contributions or rights with respect to the employee's service are transferred from such retirement system to the Fund.
+> shall be treated for all purposes of this subchapter as if any service that would have been creditable under the retirement system established under section 10 of the Federal Reserve Act was service performed while subject to thissubchapter if any employee and employer deductions, contributions or rights with respect to the employee's service are transferred from such retirement system to the Fund.
 
 (h) An employee or Member shall be allowed credit for service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B,<sup>1</sup> or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act performed at any time prior to the separation on which the entitlement to any annuity under this subchapter is based if the employee or Member has made a deposit with interest, if any, with respect to such service under section 8422(f).
 
@@ -98,7 +98,7 @@
 
 &emsp;(B) such employee deposits to the Fund an amount equal to 1.3 percent of the base pay for such service, with interest.
 
-(2) The Office shall accept the certification of the President of the Senate (or the President'sdesignee) or the Speaker of the House of Representatives (or the Speaker's designee), as the case may be, concerning the service of, and the amount of compensation received by, an employee with respect to whom credit is to be sought under this subsection.
+(2) The Office shall accept the certification of the President of the Senate (or the President's designee) or the Speaker of the House of Representatives (or the Speaker's designee), as the case may be, concerning the service of, and the amount of compensation received by, an employee with respect to whom credit is to be sought under this subsection.
 
 (3) An individual shall not be granted credit for such service under this subsection if eligible for credit under section 8332(m) for such service.
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;(ii) an appropriate adjustment in the amount of any lump-sum payment under the second sentence of paragraph (1) to reflect the application of clause (i).
 
-(5) Regulations to carry out clause (i) of paragraph (4)(B) shall include provisions to ensure that the authority to make any payment under such clause to the spouse or children of an individual shall be available only to the extent that the application of such clause is considered necessary and appropriate taking into account the totality of the circumstances, including the financial needs of the spouse or children, whether the spouse or children participated in an offense described in paragraph (2) of which such individual was finally convicted, and what measures, if any, may be necessary to ensure that the convicted individual does not benefit from any such payment.
+(5) Regulations to carry out clause (i) of paragraph (4)(B) shall include provisions to ensure that the authority to make any payment under such clause to the spouse or children of an individual shall be available only to the extent that the application of such clause is considered necessary and appropriate taking into account the totality of the circumstances, including the financial needs of the spouse or children, whetherthe spouse or children participated in an offense described in paragraph (2) of which such individual was finally convicted, and what measures, if any, may be necessary to ensure that the convicted individual does not benefit from any such payment.
 
 (6) For purposes of this subsection—
 
@@ -148,7 +148,7 @@ Subsections (a)(4) and (b) of section 202 of the Federal Employees' Retirement S
 
 The Foreign Service Act of 1980, referred to in subsec. (b)(4), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapter II of chapter 8 of the Act probably means subchapter II of chapter 8 of title I of the Act which is classified generally to part II (§4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
-Chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel ManagementAct, referred to in subsec. (c)(2)(B), means chapter 67 (§1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
+Chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (c)(2)(B), means chapter 67 (§1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
 
 Section 10 of the Federal Reserve Act, referred to in subsecs. (g) and (i), is section 10 of act Dec. 23, 1913, ch. 6, 38 Stat. 260. For classification of section 10 to the Code, see Codification note set out under section 241 of Title 12, Banks and Banking, and Tables.
 
@@ -232,7 +232,7 @@ Amendment by section 502(b) of Pub. L. 99–556 applicable to a survivor of an e
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Retirement Credit for Certain Government Service Performed Abroad
 
@@ -296,7 +296,7 @@ Related requirements.—Any remittance under paragraph (1) or (2)—
 
 &emsp;&emsp;"(A) shall be made in such time, form, and manner as the Office of Personnel Management may by regulation require; and
 
-&emsp;&emsp;"(B) shall be computed with interest (in accordance with section 8334(e) of title 5, United States Code, and such requirements as the Office may by regulation prescribe).
+&emsp;&emsp;"(B) shall be computed with interest (in accordance with section 8334(e) of title 5, United StatesCode, and such requirements as the Office may by regulation prescribe).
 
 &emsp;"(4)
 

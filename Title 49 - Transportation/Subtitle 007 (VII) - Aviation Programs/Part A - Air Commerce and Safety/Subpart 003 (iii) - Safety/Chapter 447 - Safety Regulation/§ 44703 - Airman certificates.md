@@ -26,7 +26,7 @@ Public Information.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (2) and notwithstanding any other provision of law, the information contained in the records of contents of any airman certificate issued under this section that is limited to an airman's name, address, and ratings held shall be made available to the public after the 120th day following the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century.
+In general.—Subject to paragraph (2) and notwithstanding any other provision of law, the information contained in the records of contents of any airman certificate issued under this section that is limited to an airman's name, address, and ratings held shall be made available to the public after the 120thday following the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century.
 
 &emsp;(2)
 
@@ -38,7 +38,7 @@ Development and implementation of program.—Not later than 60 days after the da
 
 (d)
 
-Appeals.—(1) An individual whose application for the issuance or renewal of an airman certificate has been denied may appeal the denial to the National Transportation SafetyBoard, except if the individual holds a certificate that—
+Appeals.—(1) An individual whose application for the issuance or renewal of an airman certificate has been denied may appeal the denial to the National Transportation Safety Board, except if the individual holds a certificate that—
 
 &emsp;(A) is suspended at the time of denial; or
 
@@ -178,7 +178,7 @@ Standard forms.—The Administrator shall promulgate—
 
 &emsp;(9)
 
-Right to correct inaccuracies.—An air carrier that maintains or requests and receives the records of an individual under paragraph (1) shall provide the individual with a reasonable opportunity to submit written comments to correct any inaccuracies contained in the records before making a final hiring decision with respect to the individual.
+Right to correct inaccuracies.—An air carrier that maintains or requests and receives the records of an individual under paragraph (1) shall provide the individual with areasonable opportunity to submit written comments to correct any inaccuracies contained in the records before making a final hiring decision with respect to the individual.
 
 &emsp;(10)
 
@@ -190,7 +190,7 @@ Privacy protections.—An air carrier that receives the records of an individual
 
 &emsp;(12)
 
-Periodic review.—Not later than 18 months after the date of the enactment of thePilot Records Improvement Act of 1996, and at least once every 3 years thereafter, the Administrator shall transmit to Congress a statement that contains, taking into account recent developments in the aviation industry—
+Periodic review.—Not later than 18 months after the date of the enactment of the Pilot Records Improvement Act of 1996, and at least once every 3 years thereafter, the Administrator shall transmit to Congress a statement that contains, taking into account recent developments in the aviation industry—
 
 &emsp;&emsp;(A) recommendations by the Administrator concerning proposed changes to Federal Aviation Administration records, air carrier records, and other records required to be furnished under subparagraphs (A) and (B) of paragraph (1); or
 
@@ -356,7 +356,7 @@ Privacy protections.—
 
 &emsp;&emsp;(A)
 
-Use of records.—An air carrier that accesses records pertaining to an individual under paragraph (1) may use the records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+Use of records.—An air carrier that accesses records pertaining to an individual under paragraph (1) may use the records only to assess the qualifications of the individual in deciding whether or not to hire theindividual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
 
 &emsp;&emsp;(B)
 
@@ -474,7 +474,7 @@ Limitation on liability.—No action or proceeding may be brought by or on behal
 
 &emsp;(2)
 
-Preemption.—No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) thatprohibits, penalizes, or imposes liability for furnishing or using records in accordance with subsection (h) or (i).
+Preemption.—No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) that prohibits, penalizes, or imposes liability for furnishing or using records in accordance with subsection (h) or (i).
 
 &emsp;(3)
 
@@ -586,7 +586,7 @@ In subsection (b)(1)(E), the word "designate" is substituted for "be entitled wi
 
 In subsection (c)(1), before clause (A), the words "may appeal . . . to" are substituted for "may file with . . . a petition for review of the Secretary of Transportation's action" for consistency with section 1109 of the revised title. The words "the individual holds a certificate that" are substituted for "persons whose certificates" for clarity.
 
-In subsection (c)(2), the words "conduct a hearing on the appeal" are substituted for "thereupon assign such petition for hearing" for consistency. The words "In the conduct of such hearing and in determining whether the airman meets the pertinent rules, regulations, or standards" are omitted as surplus. The word "Administrator" is substituted for "Federal Aviation Administration" because of 49:106(b) and (g). The words "meets the applicable regulations" are substituted for "meets the pertinent rules, regulations" because "rules" and "regulations" are synonymous and for consistency in the revised title.
+In subsection (c)(2), the words "conduct a hearing on the appeal" are substituted for "thereupon assign such petition for hearing" for consistency. The words "In the conduct of such hearing and in determining whether the airman meets the pertinent rules, regulations, orstandards" are omitted as surplus. The word "Administrator" is substituted for "Federal Aviation Administration" because of 49:106(b) and (g). The words "meets the applicable regulations" are substituted for "meets the pertinent rules, regulations" because "rules" and "regulations" are synonymous and for consistency in the revised title.
 
 In subsection (d), before clause (1), the words "in his discretion" are omitted as surplus. In clause (2), the words "the terms of" and "entered into" are omitted as surplus. The words "government of a foreign country" are substituted for "foreign governments" for consistency in the revised title and with other titles of the United States Code.
 
@@ -790,7 +790,7 @@ Requirements.—The checklist shall contain—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the individual is aware of the regulations pertaining to the prohibition on operations during medical deficiency and has no medically disqualifying conditions in accordance with applicable law;
 
-&emsp;&emsp;"(B) a section with instructions for the individual to provide the completed checklist to the physicianperforming the comprehensive medical examination required in subsection (a)(7); and
+&emsp;&emsp;"(B) a section with instructions for the individual to provide the completed checklist to the physician performing the comprehensive medical examination required in subsection (a)(7); and
 
 &emsp;&emsp;"(C) a section, for the physician to complete, that instructs the physician—
 
@@ -912,7 +912,7 @@ In general.—An individual who has qualified for the third-class medical certif
 
 &emsp;&emsp;&emsp;"(ii) psychosis, defined as a case in which an individual—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) has manifested delusions, hallucinations, grossly bizarre or disorganized behavior, orother commonly accepted symptoms of psychosis; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) has manifested delusions, hallucinations, grossly bizarre or disorganized behavior, or other commonly accepted symptoms of psychosis; or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) may reasonably be expected to manifest delusions, hallucinations, grossly bizarre or disorganized behavior, or other commonly accepted symptoms of psychosis;
 
@@ -1040,7 +1040,7 @@ Authority To Require Additional Information.—
 
 &emsp;"(1)
 
-In general.—If the Administrator receives credible or urgent information, including from the National Driver Register or the Administrator's Safety Hotline, that reflects on an individual's ability to safely operate a covered aircraft under the third-class medical certificate exemption in subsection (a), the Administrator may require the individual to provideadditional information or history so that the Administrator may determine whether the individual is safe to continue operating a covered aircraft.
+In general.—If the Administrator receives credible or urgent information, including from the National Driver Register or the Administrator's Safety Hotline, that reflects on an individual's ability to safely operate a covered aircraft under the third-class medical certificate exemption in subsection (a), the Administrator may require the individual to provide additional information or history so that the Administrator may determine whether the individual is safe to continue operating a covered aircraft.
 
 &emsp;"(2)
 
@@ -1156,7 +1156,7 @@ Appeal From Certificate Actions.—
 
 &emsp;"(1)
 
-In general.—Upon a decision by the National Transportation Safety Board upholding an order or a final decision by the Administrator denying an airman certificate under section 44703(d) of title 49, United States Code, or imposing a punitive civil action or an emergency order of revocation under subsections (d) and (e) of section 44709 of such title, an individual substantially affected by an order of the Board may, at the individual's election, file an appeal in the United States district court in which the individual resides or in which the action in question occurred, or in the United States District Court for the District of Columbia. If the individual substantially affected by an order of the Board elects not to file an appeal in a United States district court, the individual may file an appeal in an appropriate United States court of appeals.
+In general.—Upon a decision by the National Transportation Safety Board upholding an order or a final decision by the Administrator denying an airman certificate under section 44703(d) of title 49, United States Code, or imposing a punitive civil action or an emergency order of revocation under subsections (d) and (e) of section 44709 of such title, an individual substantially affected by an order of theBoard may, at the individual's election, file an appeal in the United States district court in which the individual resides or in which the action in question occurred, or in the United States District Court for the District of Columbia. If the individual substantially affected by an order of the Board elects not to file an appeal in a United States district court, the individual may file an appeal in an appropriate United States court of appeals.
 
 &emsp;"(2)
 

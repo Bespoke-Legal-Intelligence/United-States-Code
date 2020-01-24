@@ -66,7 +66,7 @@
 
 &emsp;&emsp;A qualified 501(c)(3) bond meets the requirements of this subparagraph if—
 
-&emsp;&emsp;&emsp;(i) 95 percent or more of the net proceeds of the issue of which such bond is a part are to be used to make or finance loans to 2 or more 501(c)(3) organizations or governmental units for acquisition of property to be used by such organizations,
+&emsp;&emsp;&emsp;(i) 95 percent or more of the net proceeds of the issue of which such bond is a partare to be used to make or finance loans to 2 or more 501(c)(3) organizations or governmental units for acquisition of property to be used by such organizations,
 
 &emsp;&emsp;&emsp;(ii) each loan described in clause (i) satisfies the requirements of paragraph (1) (determined by treating each loan as a separate issue),
 
@@ -146,7 +146,7 @@
 
 #### (G) Acquisition from related person
 
-&emsp;&emsp;For purposes of this paragraph and section 144(a), the acquisition by a first-time farmer of land or personal property from a related person (within the meaning of section 144(a)(3)) shall not be treated as an acquisition from a related person, if—
+&emsp;&emsp;For purposes of this paragraph and section 144(a), the acquisition by a first-time farmer of land or personal property from a related person (within the meaning of section144(a)(3)) shall not be treated as an acquisition from a related person, if—
 
 &emsp;&emsp;&emsp;(i) the acquisition price is for the fair market value of such land or property, and
 
@@ -232,7 +232,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 &emsp;&emsp;&emsp;&emsp;(II) on behalf of which such bond was issued, and
 
-&emsp;&emsp;&emsp;(ii) each governmental unit having jurisdiction over the area in which any facility, with respect to which financing is to be provided from the net proceeds of such issue, is located (except that if more than 1 governmental unit within a State has jurisdiction over the entire area within such State in which such facility is located, only 1 such unit need approve such issue).
+&emsp;&emsp;&emsp;(ii) each governmental unit having jurisdiction over the area in which any facility,with respect to which financing is to be provided from the net proceeds of such issue, is located (except that if more than 1 governmental unit within a State has jurisdiction over the entire area within such State in which such facility is located, only 1 such unit need approve such issue).
 
 #### (B) Approval by a governmental unit
 
@@ -304,7 +304,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 #### (2) Special rule for small mortgage revenue bond issues
 
-&emsp;In the case of an issue of qualified mortgage bonds or qualified veterans' mortgage bonds, paragraph (1) shall be applied by substituting "3.5 percent" for "2 percent" if the proceeds of the issue do not exceed $20,000,000.
+&emsp;In the case of an issue of qualified mortgage bonds or qualified veterans' mortgage bonds, paragraph (1) shall be applied by substituting"3.5 percent" for "2 percent" if the proceeds of the issue do not exceed $20,000,000.
 
 #### (h) Certain rules not to apply to certain bonds
 

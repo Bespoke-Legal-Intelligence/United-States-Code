@@ -10,7 +10,7 @@ An eligible applicant (as determined under section 1067g of this title) that des
 
 #### (b) Approval based on likelihood of progress
 
-The Secretary shall approve an application only if the Secretary determines that the application sets forth a program of activities whichare likely to make substantial progress toward achieving the purposes of this part.
+The Secretary shall approve an application only if the Secretary determines that the application sets forth a program of activities which are likely to make substantial progress toward achieving the purposes of this part.
 
 (Pub. L. 89–329, title III, §362, formerly title X, §1042, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1564; renumbered title III, §362, and amended Pub. L. 105–244, title III, §301(a)(5), (7), (c)(10), Oct. 7, 1998, 112 Stat. 1636, 1637.)
 

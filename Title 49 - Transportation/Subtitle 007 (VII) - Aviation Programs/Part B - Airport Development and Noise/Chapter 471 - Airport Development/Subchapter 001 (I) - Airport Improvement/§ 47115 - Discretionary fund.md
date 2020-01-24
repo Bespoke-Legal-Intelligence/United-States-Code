@@ -14,7 +14,7 @@ Availability of Amounts.—Subject to subsection (c) of this section and section
 
 (c)
 
-Minimum Percentage for Primary and Reliever Airports.—At least 75 percent of theamount in the fund and distributed by the Secretary in a fiscal year shall be used for making grants—
+Minimum Percentage for Primary and Reliever Airports.—At least 75 percent of the amount in the fund and distributed by the Secretary in a fiscal year shall be used for making grants—
 
 &emsp;(1) to preserve and enhance capacity, safety, and security at primary and reliever airports; and
 
@@ -100,7 +100,7 @@ Supplemental Discretionary Funds.—
 
 &emsp;(1)
 
-In general.—The Secretary shall establish a program to provide grants, subject tothe conditions of this subsection, for any purpose for which amounts are made available under section 48103 that the Secretary considers most appropriate to carry out this subchapter.
+In general.—The Secretary shall establish a program to provide grants, subject to the conditions of this subsection, for any purpose for which amounts are made available under section 48103 that the Secretary considers most appropriate to carry out this subchapter.
 
 &emsp;(2)
 
@@ -166,7 +166,7 @@ Authority.—The Secretary may make grants with funds made available under this 
 
 &emsp;&emsp;&emsp;(i) satisfy an obligation incurred by an airport sponsor under section 47110(e) or funded by a nonpublic sponsor for an airport development project on the airport; or
 
-&emsp;&emsp;&emsp;(ii) provide partial Federal reimbursement for airport development (as defined in section 47102) on the airport layout plan initiated in the fiscal year in which the application was approved, or later, for over a period of not more than 10 years.
+&emsp;&emsp;&emsp;(ii) provide partial Federal reimbursement for airport development (as defined in section 47102) on the airport layout planinitiated in the fiscal year in which the application was approved, or later, for over a period of not more than 10 years.
 
 &emsp;(2)
 
@@ -334,7 +334,7 @@ Subsec. (g)(4). Pub. L. 106–6, §5, which directed the amendment of section 47
 
 &emsp;"(C) 1/3 shall be made available to current or former military airports for which grants may be made under section 47117(e)(1)(B) of this title."
 
-<b>1996</b>—Subsec. (d)(2). Pub. L. 104–264, §145(a)(1), substituted ", including, in the case of a project at a reliever airport, the number of operations projected to be diverted from a primary airport to the reliever airportas a result of the project, as well as the cost savings projected to be realized by users of the local airport system;" for "; and".
+<b>1996</b>—Subsec. (d)(2). Pub. L. 104–264, §145(a)(1), substituted ", including, in the case of a project at a reliever airport, the number of operations projected to be diverted from a primary airport to the reliever airport as a result of the project, as well as the cost savings projected to be realized by users of the local airport system;" for "; and".
 
 Subsec. (d)(4) to (6). Pub. L. 104–264, §145(a)(2), (3), added pars. (4) to (6).
 

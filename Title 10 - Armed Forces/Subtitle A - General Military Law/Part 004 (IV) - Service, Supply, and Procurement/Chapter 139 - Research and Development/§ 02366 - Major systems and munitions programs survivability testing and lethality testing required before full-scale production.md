@@ -68,7 +68,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) a conventional munitions program that is a major system within the meaning of that term in section 2302(5) of this title.
 
-&emsp;(3) The term "realistic survivability testing" means, in the case of a covered system (or a covered product improvement program for a covered system), testing for vulnerability of the system in combat by firing munitions likely to be encountered in combat (or munitions with a capability similar to such munitions) at the system configured for combat, with the primary emphasis on testing vulnerability with respect to potential user casualties and taking into equal consideration the susceptibility to attack and combat performance of the system.
+&emsp;(3) The term "realistic survivability testing" means, in the case of a covered system\(or a covered product improvement program for a covered system), testing for vulnerability of the system in combat by firing munitions likely to be encountered in combat (or munitions with a capability similar to such munitions) at the system configured for combat, with the primary emphasis on testing vulnerability with respect to potential user casualties and taking into equal consideration the susceptibility to attack and combat performance of the system.
 
 &emsp;(4) The term "realistic lethality testing" means, in the case of a major munitions program or a missile program (or a covered product improvement program for such a program), testing for lethality by firing the munition or missile concerned at appropriate targets configured for combat.
 
@@ -108,7 +108,7 @@ Subsec. (e)(1). Pub. L. 110–417, §251(a), amended par. (1) generally. Prior t
 
 &emsp;"(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives."
 
-<b>2002</b>—Subsec. (c)(1). Pub. L. 107–314, §818(a), amended par. (1) generally. Prior to amendment par. (1) read asfollows: "The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary, before the system or program enters system development and demonstration, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical."
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–314, §818(a), amended par. (1) generally. Prior to amendment par. (1) read as follows: "The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary, before the system or program enters system development and demonstration, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical."
 
 Subsec. (e)(8), (9). Pub. L. 107–314, §818(b), added pars. (8) and (9).
 

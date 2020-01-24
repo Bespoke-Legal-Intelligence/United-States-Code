@@ -30,7 +30,7 @@ Reciprocity of Personnel Qualifications Required.—In the case of an internatio
 
 (d)
 
-Payment of Personnel Costs.—(1) Each government shall pay the salary, per diem, cost of living, travel costs, cost of language or other training, and other costs for its own personnel in accordance with the applicable laws and regulations of such government.
+Payment of Personnel Costs.—(1) Each government shall pay the salary, per diem, cost of living, travel costs, cost of language or other training, and other costs for its own personnelin accordance with the applicable laws and regulations of such government.
 
 (2) Paragraph (1) does not apply to the following costs:
 
@@ -84,7 +84,7 @@ Pub. L. 106–65, div. A, title XII, §1201, Oct. 5, 1999, 113 Stat. 779, as ame
 
 "(a)
 
-Limitation.—The Secretary of Defense may not authorize any military-to-military exchange or contact described in subsection (b) to be conducted by the armed forces with representatives of the People's Liberation Army of the People's Republic of China if that exchange or contact would create a national securityrisk due to an inappropriate exposure specified in subsection (b).
+Limitation.—The Secretary of Defense may not authorize any military-to-military exchange or contact described in subsection (b) to be conducted by the armed forces with representatives of the People's Liberation Army of the People's Republic of China if that exchange or contact would create a national security risk due to an inappropriate exposure specified in subsection (b).
 
 "(b)
 

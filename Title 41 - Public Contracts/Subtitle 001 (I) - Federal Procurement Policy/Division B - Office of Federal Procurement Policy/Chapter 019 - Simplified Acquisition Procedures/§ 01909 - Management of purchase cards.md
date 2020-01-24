@@ -18,7 +18,7 @@ Required Safeguards and Internal Controls.—The head of each executive agency t
 
 &emsp;(5) Payments on purchase card accounts are made promptly within prescribed deadlines to avoid interest penalties.
 
-&emsp;(6) Rebates and refunds based on prompt payment, sales volume, or other actions by the agency on purchase card accounts are reviewed for accuracy and properly recorded as a receipt to the agency that pays the monthly bill.
+&emsp;(6) Rebates and refunds based on prompt payment, sales volume, or other actions by theagency on purchase card accounts are reviewed for accuracy and properly recorded as a receipt to the agency that pays the monthly bill.
 
 &emsp;(7) Records of each purchase card transaction (including records on associated contracts, reports, accounts, and invoices) are retained in accordance with standard Government policies on the disposition of records.
 
@@ -88,5 +88,5 @@ Relationship to Department of Defense Purchase Card Regulations.—The requireme
 
 #### Deadline for Guidance on Management of Purchase Cards
 
-Pub. L. 112–194, §2(c), Oct. 5, 2012, 126 Stat. 1448, provided that: "The Director of the Office of Management and Budget shall prescribe the guidance required by section 1909(b) of title 41, United States Code, as added by subsection (a), not later than 180 days after the date of the enactment of this Act \[Oct. 5, 2012\]."
+Pub. L. 112–194, §2(c), Oct. 5, 2012, 126 Stat. 1448, required the Director of the Office of Management and Budget to prescribe the guidance required by subsec. (b) of this section not later than 180 days after Oct. 5, 2012.
 

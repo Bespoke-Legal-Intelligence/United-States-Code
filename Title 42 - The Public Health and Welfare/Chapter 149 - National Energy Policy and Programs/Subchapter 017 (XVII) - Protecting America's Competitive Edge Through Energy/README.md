@@ -17,3 +17,4 @@ This subchapter was enacted as part of the America COMPETES Act, also known as t
 - [&sect; 16536 - Protecting America's Competitive Edge (PACE) graduate fellowship program](%C2%A7%2016536%20-%20Protecting%20America%27s%20Competitive%20Edge%20%28PACE%29%20graduate%20fellowship%20program.md)
 - [&sect; 16537 - Distinguished scientist program](%C2%A7%2016537%20-%20Distinguished%20scientist%20program.md)
 - [&sect; 16538 - Advanced Research Projects Agency&#8212;Energy](%C2%A7%2016538%20-%20Advanced%20Research%20Projects%20Agency%E2%80%94Energy.md)
+- [&sect; 16539 - National Laboratory Jobs ACCESS Program](%C2%A7%2016539%20-%20National%20Laboratory%20Jobs%20ACCESS%20Program.md)

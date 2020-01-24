@@ -74,7 +74,7 @@ Approval of secretary of transportation.—(i) The Administrator may not issue a
 
 &emsp;&emsp;(C)
 
-Periodic review.—(i) Beginning on the date which is 3 years after the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996, the Administrator shall review any unusually burdensome regulation issued by theAdministrator after such date of enactment beginning not later than 3 years after the effective date of the regulation to determine if the cost assumptions were accurate, the benefit of the regulations, and the need to continue such regulations in force in their present form.
+Periodic review.—(i) Beginning on the date which is 3 years after the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996, the Administrator shall review any unusually burdensome regulation issued by the Administrator after such date of enactment beginning not later than 3 years after the effective date of the regulation to determine if the cost assumptions were accurate, the benefit of the regulations, and the need to continue such regulations in force in their present form.
 
 &emsp;&emsp;(ii) The Administrator may identify for review under the criteria set forth in clause (i) unusually burdensome regulations that were issued before the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996 and that have been in force for more than 3 years.
 
@@ -126,7 +126,7 @@ Duties and Powers of Administrator.—The Administrator shall carry out the foll
 
 (i) The Deputy Administrator shall carry out duties and powers prescribed by the Administrator. The Deputy Administrator acts for the Administrator when the Administrator is absent or unable to serve, or when the office of the Administrator is vacant.
 
-(j) There is established within the Federal Aviation Administration an institute to conduct civil aeromedical research under section 44507 of this title. Such institute shall be known as the "Civil Aeromedical Institute". Research conducted by the institute should take appropriate advantage of capabilities of other government agencies, universities, or the private sector.
+(j) There is established within the Federal Aviation Administration an institute to conduct civil aeromedical research under section 44507 of this title. Such institute shall be known as the "Civil Aeromedical Institute". Research conducted by the institute should take appropriateadvantage of capabilities of other government agencies, universities, or the private sector.
 
 (k)
 
@@ -176,7 +176,7 @@ Authorized expenditures.—Out of amounts appropriated under paragraph (1), the 
 
 &emsp;(3)
 
-Administering program within available funding.—Notwithstanding any otherprovision of law, in each of fiscal years 2018 through 2023, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
+Administering program within available funding.—Notwithstanding any other provision of law, in each of fiscal years 2018 through 2023, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
 
 (l)
 
@@ -524,7 +524,7 @@ Meetings.—The Committee shall meet at least quarterly and at such other times 
 
 &emsp;&emsp;&emsp;(iii)
 
-Quorum.—Three members of the Committee shall constitute a quorum. A majority of members present and voting shall be required for the Committee to take action.
+Quorum.—Three members of the Committee shall constitute a quorum. Amajority of members present and voting shall be required for the Committee to take action.
 
 &emsp;&emsp;(H)
 
@@ -652,7 +652,7 @@ In general.—
 
 &emsp;&emsp;(A)
 
-Appointment.—There shall be a Chief Technology Officer appointed by the Chief Operating Officer. The Chief Technology Officer shall report directly to the Chief Operating Officer.
+Appointment.—There shall be a Chief Technology Officer appointed by the ChiefOperating Officer. The Chief Technology Officer shall report directly to the Chief Operating Officer.
 
 &emsp;&emsp;(B)
 
@@ -756,7 +756,7 @@ Authority of director.—The Director shall—
 
 &emsp;&emsp;&emsp;(i) receive complaints and information submitted by employees of persons holding certificates issued under title 14, Code of Federal Regulations (if the certificate holder does not have a similar in-house whistleblower or safety and regulatory noncompliance reporting process) and employees of the Agency concerning the possible existence of an activity relating to a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety;
 
-&emsp;&emsp;&emsp;(ii) assess complaints and information submitted under clause (i) and determine whether a substantial likelihood exists that a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety has occurred; and
+&emsp;&emsp;&emsp;(ii) assess complaints and information submitted under clause (i) and determinewhether a substantial likelihood exists that a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety has occurred; and
 
 &emsp;&emsp;&emsp;(iii) based on findings of the assessment conducted under clause (ii), make recommendations to the Administrator of the Agency, in writing, regarding further investigation or corrective actions.
 
@@ -778,7 +778,7 @@ Access to information.—In conducting an assessment of a complaint or informati
 
 &emsp;(4)
 
-Responses to recommendations.—Not later than 60 days after the date on which theAdministrator receives a report with respect to an investigation, the Administrator shall respond to a recommendation made by the Director under paragraph (3)(A)(iii) in writing and retain records related to any further investigations or corrective actions taken in response to the recommendation.
+Responses to recommendations.—Not later than 60 days after the date on which the Administrator receives a report with respect to an investigation, the Administrator shall respond to a recommendation made by the Director under paragraph (3)(A)(iii) in writing and retain records related to any further investigations or corrective actions taken in response to the recommendation.
 
 &emsp;(5)
 
@@ -970,7 +970,7 @@ Subsec. (k)(3). Pub. L. 115–254, §113(c), substituted "fiscal years 2018 thro
 
 Pub. L. 115–141, §103(2), substituted "2018" for "2017 and for the period beginning on October 1, 2017, and ending on March 31, 2018".
 
-Subsec. (p)(5). Pub. L. 115–254, §564, substituted "Committee," for "Committee, or" and ", or such aerospacerulemaking committees as the Secretary shall designate." for period at end.
+Subsec. (p)(5). Pub. L. 115–254, §564, substituted "Committee," for "Committee, or" and ", or such aerospace rulemaking committees as the Secretary shall designate." for period at end.
 
 Subsec. (s). Pub. L. 115–254, §545(a), amended subsec. (s) generally. Prior to amendment, subsec. (s) related to Chief NextGen Officer.
 
@@ -1214,7 +1214,7 @@ Subsec. (l)(1). Pub. L. 106–181, §307(c)(1), substituted "subsections (a) and
 
 Subsec. (p)(2). Pub. L. 106–528, which directed the substitution of "18" for "15" in section 106(p)(2), without specifying the Code title to be amended, was executed by making the substitution in the introductory provisions of subsec. (p)(2) of this section, to reflect the probable intent of Congress.
 
-Subsec. (p)(2)(C) to (E). Pub. L. 106–181, §302(a)(1), added subpars. (C) to (E) and struck out former subpar. (C) which read as follows: "13 members representing aviation interests, appointed by the President by and with the advice and consent of the Senate."
+Subsec. (p)(2)(C) to (E). Pub. L. 106–181, §302(a)(1), added subpars. (C) to (E) and struck out former subpar. (C) which read as follows: "13 members representingaviation interests, appointed by the President by and with the advice and consent of the Senate."
 
 Subsec. (p)(3). Pub. L. 106–181, §302(a)(2), designated existing provisions as subpar. (A), inserted subpar. heading, realigned margins, inserted "or (2)(E)" after "paragraph (2)(C)", and added subpars. (B) and (C).
 
@@ -1316,7 +1316,7 @@ Effect on actions prior to appointment of subcommittee.—Nothing in this sectio
 
 Pub. L. 105–102, §3(c), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(c)(3) is effective Oct. 9, 1996.
 
-Pub. L. 105–102, §3(f), Nov. 20, 1997, 111 Stat. 2216, provided that: "The amendments made by subsections (a) through (d) of this section \[amending this section and sections 5302, 30501 to 30504, 45301, 46301, 46316, 47117, and 47128 of this title, renumbering section 40121 of this title as 40124 of this title, and amending provisions set out as notes under sections 5303 and 47117 of this title\] shall take effect as if included in the provisions of the Acts to which the amendments relate."
+Pub. L. 105–102, §3(f), Nov. 20, 1997, 111 Stat. 2216, provided that: "The amendments made by subsections (a) through (d) of this section \[amending this section andsections 5302, 30501 to 30504, 45301, 46301, 46316, 47117, and 47128 of this title, renumbering section 40121 of this title as 40124 of this title, and amending provisions set out as notes under sections 5303 and 47117 of this title\] shall take effect as if included in the provisions of the Acts to which the amendments relate."
 
 #### Effective Date of 1996 Amendment
 
@@ -1740,7 +1740,7 @@ Pub. L. 99–500, title V, §§501–507, Oct. 18, 1986, 100 Stat. 1783–370 to
 
 #### Appointment of Retired Military Officer as Administrator
 
-Pub. L. 102–308, June 26, 1992, 106 Stat. 273, provided: "That notwithstanding the provisions of section 106 of title 49, United States Code, or any other provision of law, the President, acting by and with the advice and consent of the Senate, is authorized to appoint General Thomas C. Richards, United States Air Force, Retired, to the Office of Administrator of the Federal Aviation Administration. General Richards' appointment to, acceptance of, and service in that Office shall in no way affect the status, rank, and grade which he shall holdas an officer on the retired list of the United States Air Force, or any emolument, perquisite, right, privilege, or benefit incident to or arising out of any such status, office, rank, or grade, except to the extent that subchapter IV of chapter 55 of title 5, United States Code, affects the amount of retired pay to which he is entitled by law during his service as Administrator. So long as he serves as Administrator, General Richards shall receive the compensation of that Office at the rate which would be applicable if he were not an officer on the retired list of the United States Air Force, shall retain the status, rank, and grade which he now holds as an officer on the retired list of the United States Air Force, shall retain all emoluments, perquisites, rights, privileges, and benefits incident to or arising out of such status, office, rank, or grade, and shall in addition continue to receive the retired pay to which he is entitled by law, subject to the provisions of subchapter IV of chapter 55 of title 5, United States Code.
+Pub. L. 102–308, June 26, 1992, 106 Stat. 273, provided: "That notwithstanding the provisions of section 106 of title 49, United States Code, or any other provision of law, the President, acting by and with the advice and consent of the Senate, is authorized to appoint General Thomas C. Richards, United States Air Force, Retired, to the Office of Administrator of the Federal Aviation Administration. General Richards' appointment to, acceptance of, and service in that Office shall in no way affect the status, rank, and grade which he shall hold as an officer on the retired list of the United States Air Force, or any emolument, perquisite, right, privilege, or benefit incident to or arising out of any such status, office, rank, or grade, except to the extent that subchapter IV of chapter 55 of title 5, United States Code, affects the amount of retired pay to which he is entitled by law during his service as Administrator. So long as he serves as Administrator, General Richards shall receive the compensation of that Office at the rate which would be applicable if he were not an officer on the retired list of the United States Air Force, shall retain the status, rank, and grade which he now holds as an officer on the retired list of the United States Air Force, shall retain all emoluments, perquisites, rights, privileges, and benefits incident to or arising out of such status, office, rank, or grade, and shall in addition continue to receive the retired pay to which he is entitled by law, subject to the provisions of subchapter IV of chapter 55 of title 5, United States Code.
 
 "
 
@@ -1776,7 +1776,7 @@ Section 1. <i>Establishment of the Air Traffic Organization</i>. (a) The Secreta
 
 (e) The COO shall also enter into a framework agreement with the Administrator that will establish the relationship of the ATO with the other organizations of the FAA.
 
-Sec. 2. <i>Purpose</i>. The FAA's primary mission is to ensure the safety, security, and efficiency of the National Airspace System. The purpose of this order is to enhance that mission and further improve the delivery of air traffic services to the American public by reorganizing the FAA's air traffic services and related offices into a performance-based, results-oriented, organization. The ATO will be better able to make use of the unique procurement and personnel authorities that the FAA currently has and to better use the additional management reforms enacted by the Congress this year under Air-21. Specifically, the ATO shall:
+Sec. 2. <i>Purpose</i>. The FAA's primary mission is to ensure the safety, security, and efficiency of the National Airspace System. The purpose of this order is to enhance that mission and further improve the delivery ofair traffic services to the American public by reorganizing the FAA's air traffic services and related offices into a performance-based, results-oriented, organization. The ATO will be better able to make use of the unique procurement and personnel authorities that the FAA currently has and to better use the additional management reforms enacted by the Congress this year under Air-21. Specifically, the ATO shall:
 
 (a) optimize use of existing management flexibilities and authorities to improve the efficiency of air traffic services and increase the capacity of the system;
 
@@ -1800,7 +1800,7 @@ Sec. 4. <i>Evaluation and Report</i>. Not later than 5 years after the date of t
 
 Sec. 5. <i>Definitions</i>. The term "air traffic control system" has the same meaning as the term defined by section 40102(a)(42) \[now 40102(a)(47)\] of title 49, United States Code.
 
-Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executivebranch and is not intended to, nor does it, create any right to administrative or judicial review, or any right, whether substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to, nor does it, create any right to administrative or judicial review, or any right, whether substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 #### Definitions for Title II of Pub. L. 104–264
 

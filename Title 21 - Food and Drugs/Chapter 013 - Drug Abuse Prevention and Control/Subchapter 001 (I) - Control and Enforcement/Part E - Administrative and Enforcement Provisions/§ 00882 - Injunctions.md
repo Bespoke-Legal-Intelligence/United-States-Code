@@ -36,7 +36,7 @@ In case of an alleged violation of an injunction or restraining order issued und
 
 #### (4) Venue
 
-&emsp;Any civil action brought under paragraph (1) in a district court of the United States may bebrought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28. Process in such action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
+&emsp;Any civil action brought under paragraph (1) in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28. Process in such action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
 
 #### (5) No private right of action
 

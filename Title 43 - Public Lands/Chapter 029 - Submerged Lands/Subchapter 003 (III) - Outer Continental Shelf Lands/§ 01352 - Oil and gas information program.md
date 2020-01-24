@@ -12,7 +12,7 @@
 
 &emsp;(ii) by a lessee, in such other form and manner of processing as the Secretary may request, the Secretary shall pay the reasonable cost of processing and reproducing such data and information;
 
-&emsp;(iii) by a permittee, in the form and manner of processing which is utilized by such permittee in the normal conduct of his business, the Secretary shall pay such permittee the reasonable cost of reproducing such data and information for the Secretary and shall pay at the lowest rate available to any purchaser for processing such data and information the costs attributable to such processing; and
+&emsp;(iii) by a permittee, in the form and manner of processing which is utilized by such permittee in the normal conduct of his business, the Secretary shall pay such permittee the reasonable cost of reproducing such data and information for the Secretary and shall pay at thelowest rate available to any purchaser for processing such data and information the costs attributable to such processing; and
 
 &emsp;(iv) by a permittee, in such other form and manner of processing as the Secretary may request, the Secretary shall pay such permittee the reasonable cost of processing and reproducing such data and information for the Secretary,
 

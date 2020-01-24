@@ -18,7 +18,7 @@
 
 &emsp;(1) the term "gift" includes a devise of real property or a bequest of personal property and any gift of an interest in real property.
 
-&emsp;(2) The term "National Defense University" includes any school or other component of theNational Defense University specified under section 2165(b) of this title.
+&emsp;(2) The term "National Defense University" includes any school or other component of the National Defense University specified under section 2165(b) of this title.
 
 (f) The Secretary of Defense shall prescribe regulations to carry out this section.
 

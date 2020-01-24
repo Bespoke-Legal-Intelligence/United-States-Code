@@ -48,5 +48,5 @@ Section 3547, added Pub. L. 107–347, title III, §301(b)(1), Dec. 17, 2002, 11
 
 Section 3548, added Pub. L. 107–347, title III, §301(b)(1), Dec. 17, 2002, 116 Stat. 2954, authorized appropriations for fiscal years 2003 through 2007.
 
-Section 3549, added Pub. L. 107–347, title III, §301(b)(1), Dec. 17, 2002, 116 Stat. 2955, related to effect on existing law and provided that subchapter II was not to apply while subchapter III was in effect. See section 3558 of this title.
+Section 3549, added Pub. L. 107–347, title III, §301(b)(1), Dec. 17, 2002, 116 Stat. 2955, related to effect on existing law and provided that subchapter II was not to applywhile subchapter III was in effect. See section 3558 of this title.
 

@@ -6,7 +6,7 @@ In addition to the broadcast signals that subscribers may receive under section�
 
 &emsp;(1) has, before December 8, 2004, been determined by the Federal Communications Commission to be a signal a cable operator may carry as significantly viewed in such community, except to the extent that such signal is prevented from being carried by a cable system in such community under the Commission's network nonduplication and syndicated exclusivity rules; or
 
-&emsp;(2) is, after December 8, 2004, determined by the Commission to be significantly viewed in such community in accordance with the same standards and procedures concerning shares of viewing hours and audience surveys as are applicable under the rules, regulations, and authorizations of the Commission to determining with respect to a cable system whether signals are significantly viewed in a community.
+&emsp;(2) is, after December 8, 2004, determined by the Commission to be significantly viewed insuch community in accordance with the same standards and procedures concerning shares of viewing hours and audience surveys as are applicable under the rules, regulations, and authorizations of the Commission to determining with respect to a cable system whether signals are significantly viewed in a community.
 
 #### (b) Limitations
 
@@ -78,7 +78,7 @@ In addition to the broadcast signals that subscribers may receive under section�
 
 &emsp;Upon complaint, the Commission shall issue a cease and desist order to any satellite carrier found to have violated this section in carrying any television broadcast station. Such order may, if a complaining station requests damages—
 
-&emsp;&emsp;(A) provide for the award of damages to a complaining station that establishes thatthe violation was committed in bad faith, in an amount up to $50 per subscriber, per station, per day of the violation; and
+&emsp;&emsp;(A) provide for the award of damages to a complaining station that establishes that the violation was committed in bad faith, in an amount up to $50 per subscriber, per station, per day of the violation; and
 
 &emsp;&emsp;(B) provide for the award of damages to a prevailing satellite carrier if the Commission determines that the complaint was frivolous, in an amount up to $50 per subscriber alleged to be in violation, per station alleged, per day of the alleged violation.
 
@@ -166,7 +166,7 @@ As used in this section:
 
 #### References in Text
 
-Section 119(a)(4)(A) and section 119(a)(12) of title 17, referred to in subsec. (e)(2), were redesignated as sections 119(a)(3)(A) and 119(a)(11) of title 17, respectively, by Pub. L. 111–175, title I, §102(h)(1)(B), May 27, 2010, 124 Stat. 1224.
+Section 119(a)(4)(A) and section 119(a)(12) of title 17, referred to in subsec. (e)(2), were redesignated as sections 119(a)(3)(A) and 119(a)(11) of title 17, respectively, by Pub. L. 111–175, title I, §102(h)(1)(B), May 27, 2010, 124 Stat. 1224. Section 119(a)(3) of title 17 was repealed and section 119(a)(4) was redesignated as section 119(a)(3) by Pub. L. 116–94, div. P, title XI, §1102(a)(1)(B), (C), Dec. 20, 2019, 133 Stat. 3202. Section 119(a)(11) of title 17 was redesignated as section 119(a)(8) by Pub. L. 116–94, div. P, title XI, §1102(a)(1)(C), Dec. 20, 2019, 133 Stat. 3202.
 
 #### Amendments
 

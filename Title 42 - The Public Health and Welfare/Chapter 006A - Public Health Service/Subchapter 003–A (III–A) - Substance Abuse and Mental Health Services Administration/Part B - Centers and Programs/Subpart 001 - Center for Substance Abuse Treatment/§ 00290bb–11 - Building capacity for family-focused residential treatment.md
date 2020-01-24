@@ -24,7 +24,7 @@ In this section:
 
 #### (2) Evaluation requirement
 
-&emsp;The Secretary shall require any evaluation of a family-focused residential treatment program by an eligible entity that uses funds awarded under this section for all or part of the costs of the evaluation be designed to assist in the determination of whether the program may qualify as a promising, supported, or well-supported practice in accordance with the requirements of such section 671(e)(4)(C).
+&emsp;The Secretary shall require any evaluation of a family-focused residential treatment program by an eligible entity that uses funds awarded under this section for all or part of the costs of the evaluation be designed to assist in the determination of whether the program may qualify as a promising, supported,or well-supported practice in accordance with the requirements of such section 671(e)(4)(C).
 
 #### (c) Authorization of appropriations
 

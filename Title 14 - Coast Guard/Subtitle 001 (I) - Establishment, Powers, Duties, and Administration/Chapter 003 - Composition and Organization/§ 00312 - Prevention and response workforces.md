@@ -50,7 +50,7 @@ Signatories of Letter of Qualification for Certain Prevention Personnel.—Each 
 
 (g)
 
-Sector Chief of Response.—There shall be in each Coast Guard sector a Chief of Response who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule in each Coast Guard sector.
+Sector Chief of Response.—There shall be in each Coast Guard sector a Chief of Response who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 ofthe General Schedule in each Coast Guard sector.
 
 (Added Pub. L. 111–281, title V, §521(a), Oct. 15, 2010, 124 Stat. 2953, §57; amended Pub. L. 113–281, title II, §§203, 221(b)(1)(B), Dec. 18, 2014, 128 Stat. 3024, 3038; renumbered §312, Pub. L. 115–282, title I, §104(b), Dec. 4, 2018, 132 Stat. 4196.)
 

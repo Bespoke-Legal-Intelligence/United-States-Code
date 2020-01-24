@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In addition to regulations under paragraph (1), the Board shall, by regulation, prescribe a system of prompt corrective action that shall apply to new credit unions in lieu of this section and the regulations prescribed under paragraph (1).
+&emsp;&emsp;In addition to regulations under paragraph (1), the Board shall, by regulation, prescribea system of prompt corrective action that shall apply to new credit unions in lieu of this section and the regulations prescribed under paragraph (1).
 
 #### (B) Criteria for alternative system
 
@@ -138,7 +138,7 @@
 
 #### (1) In general
 
-&emsp;An insured credit union that is not well capitalized shall annually set aside as net worth an amount equal to not less than 0.4 percent of its total assets.
+&emsp;An insured credit union that is not well capitalized shall annually set aside as net worthan amount equal to not less than 0.4 percent of its total assets.
 
 #### (2) Board's authority to decrease earnings-retention requirement
 
@@ -328,7 +328,7 @@ With respect to the exercise of authority by the Board under regulations compara
 
 &emsp;&emsp;The Inspector General of the Board shall—
 
-&emsp;&emsp;&emsp;(i) submit each report required under subparagraph (A) expeditiously, and not later than 90 days after the end of the 6-month period covered by the report; and
+&emsp;&emsp;&emsp;(i) submit each report required under subparagraph (A) expeditiously, and notlater than 90 days after the end of the 6-month period covered by the report; and
 
 &emsp;&emsp;&emsp;(ii) provide a copy of the report required under subparagraph (A) to any Member of Congress, upon request.
 

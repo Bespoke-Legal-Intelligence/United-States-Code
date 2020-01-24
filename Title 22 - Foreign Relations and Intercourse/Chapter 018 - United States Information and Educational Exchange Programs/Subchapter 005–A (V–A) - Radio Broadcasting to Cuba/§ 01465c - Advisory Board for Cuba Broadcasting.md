@@ -42,7 +42,7 @@ There are authorized to be appropriated $130,000 to carry out the provisions of 
 
 This subchapter, referred to in subsec. (a), was in the original "this division", and was translated as reading "this Act", meaning Pub. L. 98–111, which enacted this subchapter, to reflect the probable intent of Congress.
 
-The Television Broadcasting to Cuba Act, referred to in subsec. (b), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of this chapter. For complete classification of this Act tothe Code, see Short Title note set out under section 1465aa of this title and Tables.
+The Television Broadcasting to Cuba Act, referred to in subsec. (b), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
 #### Codification
 
@@ -65,6 +65,10 @@ Subsec. (b). Pub. L. 101–246, §245(a)(2), amended subsec. (b) generally. Prio
 Subsec. (d). Pub. L. 101–246, §245(a)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The head of the Service shall serve, ex officio, as a member of the Board."
 
 Subsec. (e). Pub. L. 101–246, §245(a)(4), substituted "The ex officio members" for "The ex officio member".
+
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 

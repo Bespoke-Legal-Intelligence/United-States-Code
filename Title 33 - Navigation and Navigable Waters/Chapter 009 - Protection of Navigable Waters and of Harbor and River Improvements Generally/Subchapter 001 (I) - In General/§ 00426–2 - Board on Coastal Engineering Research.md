@@ -1,6 +1,6 @@
 ### §426–2. Board on Coastal Engineering Research
 
-The functions of the Coastal Engineering Research Center established by section 426–1 of thistitle, shall be conducted with the guidance and advice of a Board on Coastal Engineering Research, constituted by the Chief of Engineers in the same manner as the present Beach Erosion Board.
+The functions of the Coastal Engineering Research Center established by section 426–1 of this title, shall be conducted with the guidance and advice of a Board on Coastal Engineering Research, constituted by the Chief of Engineers in the same manner as the present Beach Erosion Board.
 
 (Pub. L. 88–172, §2, Nov. 7, 1963, 77 Stat. 305.)
 

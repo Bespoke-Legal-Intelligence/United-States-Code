@@ -44,7 +44,7 @@ The Trade Representative shall monitor the implementation of each measure undert
 
 #### (F) Requirement to include reciprocal goods on retaliation list
 
-&emsp;&emsp;The Trade Representative shall include on the retaliation list, and on any revised lists, reciprocal goods of the industries affected by the failure of the foreign country or countries to implement the recommendation made pursuant to a dispute settlement proceeding under the World Trade Organization, except in cases where existing retaliationand its corresponding preliminary retaliation list do not already meet this requirement.
+&emsp;&emsp;The Trade Representative shall include on the retaliation list, and on any revised lists, reciprocal goods of the industries affected by the failure of the foreign country or countries to implement the recommendation made pursuant to a dispute settlement proceeding under the World Trade Organization, except in cases where existing retaliation and its corresponding preliminary retaliation list do not already meet this requirement.
 
 #### (c) Exercise of WTO authorization to suspend concessions or other obligations
 

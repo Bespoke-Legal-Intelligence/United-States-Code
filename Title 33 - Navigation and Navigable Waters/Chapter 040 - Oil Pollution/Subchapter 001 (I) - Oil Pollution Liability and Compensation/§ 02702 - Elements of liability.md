@@ -24,7 +24,7 @@ Notwithstanding any other provision or rule of law, and subject to the provision
 
 #### (B) Real or personal property
 
-&emsp;&emsp;Damages for injury to, or economic losses resulting from destruction of, real or personal property, which shall be recoverable by a claimant who owns or leases that property.
+&emsp;&emsp;Damages for injury to, or economic losses resulting from destruction of, real or personal property, which shall be recoverableby a claimant who owns or leases that property.
 
 #### (C) Subsistence use
 

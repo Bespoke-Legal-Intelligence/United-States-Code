@@ -80,7 +80,7 @@
 
 #### (1) In general
 
-&emsp;The Chief of Engineers shall determine the timing of a peer review of a project studyunder subsection (a). In all cases, the peer review shall occur during the period beginning on the date of the signing of the feasibility cost-sharing agreement for the study and ending on the date established under subsection (e)(1)(A) for the peer review and shall be accomplished concurrent with the conducting of the project study.
+&emsp;The Chief of Engineers shall determine the timing of a peer review of a project study under subsection (a). In all cases, the peer review shall occur during the period beginning on the date of the signing of the feasibility cost-sharing agreement for the study and ending on the date established under subsection (e)(1)(A) for the peer review and shall be accomplished concurrent with the conducting of the project study.
 
 #### (2) Factors to consider
 
@@ -254,7 +254,7 @@ In this section, the following definitions apply:
 
 #### (4) Total cost
 
-&emsp;The term "total cost", as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodicnourishment over the life of the project, the term includes the total cost of the nourishment.
+&emsp;The term "total cost", as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodic nourishment over the life of the project, the term includes the total cost of the nourishment.
 
 (Pub. L. 110–114, title II, §2034, Nov. 8, 2007, 121 Stat. 1086; Pub. L. 113–121, title I, §1044, June 10, 2014, 128 Stat. 1250; Pub. L. 115–270, title I, §1141, Oct. 23, 2018, 132 Stat. 3785.)
 

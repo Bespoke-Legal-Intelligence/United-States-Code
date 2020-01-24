@@ -190,7 +190,7 @@ Shipper.—The term "shipper" means—
 
 &emsp;&emsp;(D) a shippers' association; or
 
-&emsp;&emsp;(E) a non-vessel-operating common carrier that accepts responsibility for payment of all charges applicable under the tariff or service contract.
+&emsp;&emsp;(E) a non-vessel-operating common carrier that accepts responsibility for payment ofall charges applicable under the tariff or service contract.
 
 &emsp;(24)
 

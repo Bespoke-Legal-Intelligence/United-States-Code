@@ -150,7 +150,7 @@ In this section, the term "water resources development project" means a project 
 
 #### (ii) Remittance
 
-&emsp;&emsp;&emsp;If a non-Federal interest fails to complete a water resources development project, or separable element thereof, that it agreed to complete under clause (i)(II),the non-Federal interest shall remit any reimbursements received under this paragraph for a discrete segment of such project or separable element.
+&emsp;&emsp;&emsp;If a non-Federal interest fails to complete a water resources development project, or separable element thereof, that it agreed to complete under clause (i)(II), the non-Federal interest shall remit any reimbursements received under this paragraph for a discrete segment of such project or separable element.
 
 #### (D) Discrete segment defined
 

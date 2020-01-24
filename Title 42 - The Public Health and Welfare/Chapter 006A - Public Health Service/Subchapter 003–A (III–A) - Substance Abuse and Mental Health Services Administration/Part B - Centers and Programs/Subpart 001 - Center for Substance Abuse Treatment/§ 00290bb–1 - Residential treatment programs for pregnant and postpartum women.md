@@ -124,7 +124,7 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 #### (g) Outreach
 
-A funding agreement for an award under subsection (a) for an applicant is that the applicant will provide outreach services in the community involved to identify women who have a substance use disorder and to encourage the women to undergo treatment for such disorder.
+A funding agreement for an award under subsection (a) for an applicant is that the applicantwill provide outreach services in the community involved to identify women who have a substance use disorder and to encourage the women to undergo treatment for such disorder.
 
 #### (h) Accessibility of program; cultural context of services
 
@@ -200,7 +200,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) to enhance flexibility in the use of funds designed to support family-based services for pregnant and postpartum women with a primary diagnosis of a substance use disorder, including opioid use disorders;
 
-&emsp;&emsp;(B) to help State substance abuse agencies address identified gaps in services furnished to such women along the continuum of care, including services provided to women in nonresidential-based settings; and
+&emsp;&emsp;(B) to help State substance abuse agencies address identified gaps in services furnished to such women along the continuum of care,including services provided to women in nonresidential-based settings; and
 
 &emsp;&emsp;(C) to promote a coordinated, effective, and efficient State system managed by State substance abuse agencies by encouraging new approaches and models of service delivery.
 
@@ -358,7 +358,7 @@ Pub. L. 102–321, title I, §108(b), July 10, 1992, 106 Stat. 341, provided tha
 
 Savings provision for completion of current projects.—
 
-&emsp;"(A) Subject to paragraph (2), in the case of any project for which a grant under former section 509F \[former 42 U.S.C. 290aa–13\] was provided for fiscal year 1992, the Secretary of Health and Human Services may continue in effect the grant for fiscal year 1993 and subsequent fiscal years, subject to the duration of any such grant not exceeding the period determined by the Secretary in first approving the grant. Subject to approval by the Administrator, such grants may be administered by the Center for Substance Abuse Prevention.
+&emsp;"(A) Subject to paragraph (2), in the case of any project for which a grant under former section 509F \[former 42 U.S.C. 290aa–13\] was provided for fiscal year 1992, the Secretary of Health and Human Services may continue in effect the grant for fiscal year 1993 and subsequent fiscal years, subject to the duration of any such grant not exceeding the period determined by the Secretary in first approving the grant.Subject to approval by the Administrator, such grants may be administered by the Center for Substance Abuse Prevention.
 
 &emsp;"(B) Subparagraph (A) shall apply with respect to a project notwithstanding that the project is not eligible to receive a grant under current section 508 or 509 \[42 U.S.C. 290bb–1, 290bb–2\].
 

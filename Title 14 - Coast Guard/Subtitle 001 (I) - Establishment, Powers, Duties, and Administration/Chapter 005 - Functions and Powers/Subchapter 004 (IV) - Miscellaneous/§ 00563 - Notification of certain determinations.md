@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—At least 90 days prior to making a final determination that a waterway,or a portion thereof, is navigable for purposes of the jurisdiction of the Coast Guard, the Commandant shall provide notification regarding the proposed determination to—
+In General.—At least 90 days prior to making a final determination that a waterway, or a portion thereof, is navigable for purposes of the jurisdiction of the Coast Guard, the Commandant shall provide notification regarding the proposed determination to—
 
 &emsp;(1) the Governor of each State in which such waterway, or portion thereof, is located;
 
@@ -88,7 +88,7 @@ A prior section 686, added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996,
 
 A prior section 687a, added Pub. L. 108–293, title II, §207(e), Aug. 9, 2004, 118 Stat. 1035, related to differential lease payments, prior to repeal by Pub. L. 111–281, title II, §221(a)(7), Oct. 15, 2010, 124 Stat. 2920.
 
-A prior section 689, added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996, 110 Stat. 3913; amended Pub. L. 107–295, title IV, §402(d), Nov. 25, 2002, 116 Stat. 2114, provided that the authority to enter into a transactionunder former chapter 18 of this title expired Oct. 1, 2007, prior to repeal by Pub. L. 111–281, title II, §221(a)(9), Oct. 15, 2010, 124 Stat. 2920.
+A prior section 689, added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996, 110 Stat. 3913; amended Pub. L. 107–295, title IV, §402(d), Nov. 25, 2002, 116 Stat. 2114, provided that the authority to enter into a transaction under former chapter 18 of this title expired Oct. 1, 2007, prior to repeal by Pub. L. 111–281, title II, §221(a)(9), Oct. 15, 2010, 124 Stat. 2920.
 
 Prior sections 690 to 693 were repealed by Pub. L. 115–282, title I, §104(c)(2), Dec. 4, 2018, 132 Stat. 4199.
 

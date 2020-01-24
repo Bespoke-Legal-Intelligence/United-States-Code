@@ -50,7 +50,7 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 &emsp;(9) the arrest or conviction in any country of any individual conspiring to participate in or attempting to participate in transnational organized crime;
 
-&emsp;(10) the arrest or conviction in any country, or the transfer to or conviction by an international criminal tribunal (including a hybrid or mixed tribunal), of any foreign national accused of war crimes, crimes against humanity, or genocide (including war crimes, crimes against humanity, or genocide committed in Syria beginning in March 2011), as defined under the statute of such tribunal;
+&emsp;(10) the arrest or conviction in any country, or the transfer to or conviction by an international criminal tribunal (including a hybrid or mixed tribunal), of any foreign national accused of war crimes, crimes against humanity,or genocide (including war crimes, crimes against humanity, or genocide committed in Syria beginning in March 2011), as defined under the statute of such tribunal;
 
 &emsp;(11) the identification or location of any person who, while acting at the direction of or under the control of a foreign government, aids or abets a violation of section 1030 of title 18; or
 
@@ -148,7 +148,7 @@ Notwithstanding any other provision of this section, in the sole discretion of t
 
 #### (2) Creation and purchase of advertisements
 
-&emsp;The Secretary may use the resources of the rewards program to create advertisements todisseminate information about the rewards program. The Secretary may base the content of such advertisements on the findings of the surveys conducted under paragraph (1). The Secretary may purchase radio or television time, newspaper space, or make use of any other means of advertisement, as appropriate.
+&emsp;The Secretary may use the resources of the rewards program to create advertisements to disseminate information about the rewards program. The Secretary may base the content of such advertisements on the findings of the surveys conducted under paragraph (1). The Secretary may purchase radio or television time, newspaper space, or make use of any other means of advertisement, as appropriate.
 
 #### (j) Determinations of Secretary
 
@@ -194,7 +194,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(ii) any other criminal offense punishable by a term of imprisonment of at least four years under Federal, State, or local law that involves at least one jurisdiction outside the United States and that is intended to obtain, directly or indirectly, a financial or other material benefit; and
 
-&emsp;&emsp;(B) includes severe forms of trafficking in persons (as defined in section 7102 of this title) involving at least 1 jurisdiction outside of the United States.
+&emsp;&emsp;(B) includes wildlife trafficking (as defined by section 7601(12) of title 16) and severe forms of trafficking in persons (as defined in section 7102 of this title) involving at least 1 jurisdiction outside of the United States.
 
 #### (6) Transnational organized crime group
 
@@ -212,7 +212,7 @@ As used in this section:
 
 &emsp;&emsp;(B) an alien lawfully present in the United States.
 
-(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27, 1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029; Pub. L. 107–56, title V, §502, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–447, div. B, title IV, §405(a)–(d), Dec. 8, 2004, 118 Stat. 2902, 2903; Pub. L. 110–181, div. A, title XII, §1255(a), Jan. 28, 2008, 122 Stat. 402; Pub. L. 112–283, §§3, 4, Jan. 15, 2013, 126 Stat. 2493, 2494; Pub. L. 114–323, title VII, §704(a)(1), (2), Dec. 16, 2016, 130 Stat. 1941; Pub. L. 115–44, title III, §323, Aug. 2, 2017, 131 Stat. 954; Pub. L. 115–141, div. R, §3, Mar. 23, 2018, 132 Stat. 1123; Pub. L. 115–232, div. A, title XII, §1232(d), Aug. 13, 2018, 132 Stat. 2038.)
+(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27, 1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029; Pub. L. 107–56, title V, §502, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–447, div. B, title IV, §405(a)–(d), Dec. 8, 2004, 118 Stat. 2902, 2903; Pub. L. 110–181, div. A, title XII, §1255(a), Jan. 28, 2008, 122 Stat. 402; Pub. L. 112–283, §§3, 4, Jan. 15, 2013, 126 Stat. 2493, 2494; Pub. L. 114–323, title VII, §704(a)(1), (2), Dec. 16, 2016, 130 Stat. 1941; Pub. L. 115–44, title III, §323, Aug. 2, 2017, 131 Stat. 954; Pub. L. 115–141, div. R, §3, Mar. 23, 2018, 132 Stat. 1123; Pub. L. 115–232, div. A, title XII, §1232(d), Aug. 13, 2018, 132 Stat. 2038; Pub. L. 116–94, div. J, title VI, §603, Dec. 20, 2019, 133 Stat. 3069.)
 
 #### References in Text
 
@@ -225,6 +225,8 @@ Section 4605(j)(1)(A) of title 50, referred to in subsec. (k)(1)(B), was repeale
 A prior section 36 of act Aug. 1, 1956, was renumbered section 37 by section 102 of Pub. L. 98–533, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (k)(5)(B). Pub. L. 116–94 inserted "wildlife trafficking (as defined by section 7601(12) of title 16) and" after "includes".
 
 <b>2018</b>—Subsec. (b)(10). Pub. L. 115–232 inserted "(including war crimes, crimes against humanity, or genocide committed in Syria beginning in March 2011)" after "genocide".
 
@@ -290,7 +292,7 @@ Subsec. (e)(1). Pub. L. 107–56, §502(3), inserted ", except as personally au
 
 <b>1998</b>—Pub. L. 105–323 generally amended section substantially similar to general amendment by Pub. L. 105–277, except that the maximum reward in subsec. (e)(1) was increased from $2,000,000 to $5,000,000.
 
-Pub. L. 105–277 generally amended section revising and restating provisions relating to Department of State program authorizing rewards for information relating to arrests or convictions with respect to international terrorism or drug trafficking.
+Pub. L. 105–277 generally amended section revising and restating provisions relating to Department ofState program authorizing rewards for information relating to arrests or convictions with respect to international terrorism or drug trafficking.
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–134 which directed substitution of "shall establish and publicize a program under which rewards may be paid" for "may pay a reward" in section 36(a)(1) of the State Department Authorities Act of 1956 was executed to subsec. (a)(1) of this section, section 36(a)(1) of the State Department Basic Authorities Act of 1956, to reflect the probable intent of Congress.
 
@@ -312,7 +314,7 @@ Subsec. (e). Pub. L. 99–399, §502(a)(1), redesignated former subsec. (d) as (
 
 Subsec. (f). Pub. L. 99–399, §502(a)(1), (c)(2), redesignated former subsec. (e) as (f), and inserted "or (b)". Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 99–399, §502(a)(1), (b), redesignated former subsec. (f) as (g), and inserted provision authorizing up to $2,000,000 for rewards for information described in subsec. (b)(1) of this section and appropriating $10,000,000 for fiscal year 1987, of which up to$5,000,000 may be used for rewards for information described in subsec. (b)(1) of this section.
+Subsec. (g). Pub. L. 99–399, §502(a)(1), (b), redesignated former subsec. (f) as (g), and inserted provision authorizing up to $2,000,000 for rewards for information described in subsec. (b)(1) of this section and appropriating $10,000,000 for fiscal year 1987, of which up to $5,000,000 may be used for rewards for information described in subsec. (b)(1) of this section.
 
 Subsecs. (h), (i). Pub. L. 99–399, §502(d), added subsecs. (h) and (i).
 
@@ -329,6 +331,24 @@ Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1
 Pub. L. 112–283, §5, Jan. 15, 2013, 126 Stat. 2494, provided that: "Nothing in this Act \[amending this section and enacting provisions set out as notes under this section and section 2651 of this title\] or the amendments made by this Act shall be construed as authorizing the use of activity precluded under the American Servicemembers' Protection Act of 2002 (title II of Public Law 107–206; 22 U.S.C. 7421 et seq.)."
 
 #### Findings; Sense of Congress
+
+Pub. L. 116–94, div. J, title VI, §602, Dec. 20, 2019, 133 Stat. 3069, provided that:
+
+"(a)
+
+Findings.—Congress finds the following:
+
+&emsp;"(1) Wildlife trafficking is a major transnational crime that is estimated to generate over $10 billion a year in illegal profits and which is increasingly perpetrated by organized, sophisticated criminal enterprises, including known terrorist organizations.
+
+&emsp;"(2) Wildlife trafficking not only threatens endangered species worldwide, but also jeopardizes local security, spreads disease, undermines rule of law, fuels corruption, and damages economic development.
+
+&emsp;"(3) Combating wildlife trafficking requires a coordinated and sustained approach at the global, regional, national, and local levels.
+
+&emsp;"(4) Congress stated in the Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016 \[16 U.S.C. 7601 et seq.\] that it is the policy of the United States to take immediate actions to stop the illegal global trade in wildlife and wildlife products and associated transnational organized crime.
+
+"(b)
+
+Sense of Congress.—It is the sense of Congress that the Department of State's rewards program is a powerful tool in combating sophisticated international crime and that the Department of State and Federal law enforcement should work in concert to offer rewards that target wildlife traffickers."
 
 Pub. L. 115–141, div. R, §2, Mar. 23, 2018, 132 Stat. 1123, provided that:
 
@@ -362,7 +382,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(2) The Department of State considers the rewards program to be 'one of the most valuable assets the U.S. Government has in the fight against international terrorism'. Since the program's inception in 1984, the United States Government has rewarded over 60 people who provided actionable information that, according to the Department of State, prevented international terrorist attacks or helped convict individuals involved in terrorist attacks.
 
-&emsp;"(3) The program has been credited with providing information in several high-profile cases, including the arrest of Ramzi Yousef, who was convicted in the 1993 bombing of the World Trade Center, the deaths of Uday and Qusay Hussein, who United States military forces located and killed in Iraq after receiving information about their locations, and the arrests or deaths of several members of the Abu Sayyaf group, believed to be responsible for the kidnappings and deaths of United States citizens and Filipinos in the Philippines.
+&emsp;"(3) The program has been credited with providing information in several high-profile cases, including the arrest of Ramzi Yousef, who was convicted in the1993 bombing of the World Trade Center, the deaths of Uday and Qusay Hussein, who United States military forces located and killed in Iraq after receiving information about their locations, and the arrests or deaths of several members of the Abu Sayyaf group, believed to be responsible for the kidnappings and deaths of United States citizens and Filipinos in the Philippines.
 
 "(b)
 

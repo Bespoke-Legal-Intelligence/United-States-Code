@@ -14,7 +14,7 @@ If a national marketing quota for wheat for one, two, or three marketing years i
 
 Pub. L. 99–63 substituted "year beginning June 1, 1986, may be conducted not later than thirty-one days after adjournment sine die of the first session of the Ninety-ninth Congress" for "year beginning June 1, 1982, may be conducted not later than the earlier of the following: (1) thirty days after adjournment sine die of the first session of the Ninety-seventh Congress, or (2) January 1, 1982".
 
-<b>1981</b>—Pub. L. 97–77 substituted "January 1, 1982" for "November 15, 1981" in sentence covering the date ofthe referendum for the national marketing quota for wheat for the marketing year beginning June 1, 1982.
+<b>1981</b>—Pub. L. 97–77 substituted "January 1, 1982" for "November 15, 1981" in sentence covering the date of the referendum for the national marketing quota for wheat for the marketing year beginning June 1, 1982.
 
 Pub. L. 97–62 and Pub. L. 97–67 made identical amendments providing for substitution of "November 15, 1981" for "October 15, 1981" in sentence covering the date of the referendum for the national marketing quota for wheat for the marketing year beginning June 1, 1982.
 

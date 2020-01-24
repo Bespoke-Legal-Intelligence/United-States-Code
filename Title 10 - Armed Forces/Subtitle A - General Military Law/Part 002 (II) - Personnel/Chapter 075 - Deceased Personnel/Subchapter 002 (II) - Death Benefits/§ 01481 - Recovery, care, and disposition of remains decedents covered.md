@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) performing authorized travel directly to or from active duty or inactive-duty training;
 
-&emsp;&emsp;(D) remaining overnight immediately before the commencement of inactive-duty training, or remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training;
+&emsp;&emsp;(D) remaining overnight immediately before the commencement of inactive-dutytraining, or remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training;
 
 &emsp;&emsp;(E) staying at the member's residence, when so authorized by proper authority, during a period of inactive duty training or between successive days of inactive duty training;
 

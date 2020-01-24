@@ -20,7 +20,7 @@ Not later than 1 year after July 29, 2010, the Secretary of the Interior, the At
 
 &emsp;&emsp;(B) in the absence of such standards, new standards which will be developed and established in consultation with Indian tribes,
 
-&emsp;(4) coordinate the Bureau of Indian Affairs, Department of Justice, Substance Abuse and Mental Health Services Administration, and Indian Health Service alcohol and substance abuse programs existing on October 27, 1986, with programs or efforts established by this chapter,
+&emsp;(4) coordinate the Bureau of Indian Affairs, Department of Justice, Substance Abuse andMental Health Services Administration, and Indian Health Service alcohol and substance abuse programs existing on October 27, 1986, with programs or efforts established by this chapter,
 
 &emsp;(5) delineate the responsibilities of the Bureau of Indian Affairs, Department of Justice, Substance Abuse and Mental Health Services Administration, and the Indian Health Service to coordinate alcohol and substance abuse-related services at the central, area, agency, and service unit levels,
 

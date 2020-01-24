@@ -110,7 +110,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (B) Collection with interest
 
-&emsp;&emsp;Insofar as the determination on such appeal is against the provider of services orsupplier, interest on the overpayment shall accrue on and after the date of the original notice of overpayment. Insofar as such determination against the provider of services or supplier is later reversed, the Secretary shall provide for repayment of the amount recouped plus interest at the same rate as would apply under the previous sentence for the period in which the amount was recouped.
+&emsp;&emsp;Insofar as the determination on such appeal is against the provider of services or supplier, interest on the overpayment shall accrue on and after the date of the original notice of overpayment. Insofar as such determination against the provider of services or supplier is later reversed, the Secretary shall provide for repayment of the amount recouped plus interest at the same rate as would apply under the previous sentence for the period in which the amount was recouped.
 
 #### (C) Medicare contractor defined
 
@@ -170,7 +170,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (6) Notice of over-utilization of codes
 
-&emsp;The Secretary shall establish, in consultation with organizations representing the classes of providers of services and suppliers, a process under which the Secretary provides for notice to classes of providers of services and suppliers served by the contractor in cases in which the contractor has identified that particular billing codes may be overutilized by that class of providers of services or suppliers under the programs under this subchapter (or provisions of subchapter XI insofar as they relate to such programs).
+&emsp;The Secretary shall establish, in consultation with organizations representing the classes of providers of services and suppliers, a process under which the Secretary provides for notice to classes of providers of services and suppliers served by the contractor in cases in which the contractor has identified that particular billing codes may be overutilized bythat class of providers of services or suppliers under the programs under this subchapter (or provisions of subchapter XI insofar as they relate to such programs).
 
 #### (7) Payment audits
 
@@ -324,7 +324,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 &emsp;Not later than 180 days after the end of each fiscal year (beginning with fiscal year 2011), the Secretary shall submit a report to Congress which identifies—
 
-&emsp;&emsp;(A) the use of funds, including funds transferred from the Federal Hospital InsuranceTrust Fund under section 1395i of this title and the Federal Supplementary Insurance Trust Fund under section 1395t of this title, to carry out this section; and
+&emsp;&emsp;(A) the use of funds, including funds transferred from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Insurance Trust Fund under section 1395t of this title, to carry out this section; and
 
 &emsp;&emsp;(B) the effectiveness of the use of such funds.
 

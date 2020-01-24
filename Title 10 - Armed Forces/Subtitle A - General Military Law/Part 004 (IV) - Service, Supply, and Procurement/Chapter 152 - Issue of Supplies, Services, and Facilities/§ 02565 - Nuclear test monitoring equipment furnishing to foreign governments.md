@@ -26,7 +26,7 @@ Report.—Promptly after entering into any agreement under subsection (b), the S
 
 Limitation on Delegation.—The Secretary of Defense may delegate the authority of the Secretary to carry out this section only to the Secretary of the Air Force. Such a delegation may be redelegated.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title XII, §1203(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–324,§2555; renumbered §2565 and amended Pub. L. 107–107, div. A, title XII, §1201(a)(1), (b), Dec. 28, 2001, 115 Stat. 1245.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title XII, §1203(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–324, §2555; renumbered §2565 and amended Pub. L. 107–107, div. A, title XII, §1201(a)(1), (b), Dec. 28, 2001, 115 Stat. 1245.)
 
 #### Amendments
 

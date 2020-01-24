@@ -10,13 +10,13 @@ Aeronautical and space activities.—The term "aeronautical and space activities
 
 &emsp;&emsp;(B) the development, construction, testing, and operation for research purposes of aeronautical and space vehicles;
 
-&emsp;&emsp;(C) the operation of a space transportation system including the space shuttle, upper stages, space platforms, and related equipment; and
+&emsp;&emsp;(C) the operation of a space transportation system including the space shuttle, upperstages, space platforms, and related equipment; and
 
 &emsp;&emsp;(D) such other activities as may be required for the exploration of space.
 
 &emsp;(2)
 
-Aeronautical and space vehicles.—The term "aeronautical and space vehicles" means aircraft, missiles, satellites, and other spacevehicles, manned and unmanned, together with related equipment, devices, components, and parts.
+Aeronautical and space vehicles.—The term "aeronautical and space vehicles" means aircraft, missiles, satellites, and other space vehicles, manned and unmanned, together with related equipment, devices, components, and parts.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3332.)
 

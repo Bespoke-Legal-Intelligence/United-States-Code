@@ -18,13 +18,13 @@ Daily trading records shall be maintained in a form suitable to the Commission f
 
 #### (e) Disclosure of information
 
-Before the beginning of trading each day, the exchange shall, insofar as is practicable and under terms and conditions specified by the Commission, make public the volume of trading on each type of contract for the previous day and such other information as the Commissiondeems necessary in the public interest and prescribes by rule, order, or regulation.
+Before the beginning of trading each day, the exchange shall, insofar as is practicable and under terms and conditions specified by the Commission, make public the volume of trading on each type of contract for the previous day and such other information as the Commission deems necessary in the public interest and prescribes by rule, order, or regulation.
 
 #### (f) Authority of Commission to make separate determinations unimpaired
 
 Nothing contained in this section shall be construed to prohibit the Commission from making separate determinations for different registered entities when such determinations are warranted in the judgment of the Commission.
 
-(Sept. 21, 1922, ch. 369, §4g, as added June 15, 1936, ch. 545, §5, 49 Stat. 1496; amended Pub. L. 90–258, §8, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, §103(a), (f), title IV, §415, Oct. 23, 1974, 88 Stat. 1392, 1415; Pub. L. 95–405, §6, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §209, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, §207(b)(1), title IV, §402(5), Oct. 28, 1992, 106 Stat. 3604, 3624; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–407; Pub. L. 110–234, title XIII, §13202(a), May 22, 2008, 122 Stat. 1438; Pub. L. 110–246, §4(a), title XIII, §13202(a), June 18, 2008, 122 Stat. 1664, 2200.)
+(Sept. 21, 1922, ch. 369, §4g, as added June 15, 1936, ch. 545, §5, 49 Stat. 1496; amended Pub. L. 90–258, §8, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, §103(a), (f), title IV, §415, Oct. 23,1974, 88 Stat. 1392, 1415; Pub. L. 95–405, §6, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §209, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, §207(b)(1), title IV, §402(5), Oct. 28, 1992, 106 Stat. 3604, 3624; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–407; Pub. L. 110–234, title XIII, §13202(a), May 22, 2008, 122 Stat. 1438; Pub. L. 110–246, §4(a), title XIII, §13202(a), June 18, 2008, 122 Stat. 1664, 2200.)
 
 #### Codification
 

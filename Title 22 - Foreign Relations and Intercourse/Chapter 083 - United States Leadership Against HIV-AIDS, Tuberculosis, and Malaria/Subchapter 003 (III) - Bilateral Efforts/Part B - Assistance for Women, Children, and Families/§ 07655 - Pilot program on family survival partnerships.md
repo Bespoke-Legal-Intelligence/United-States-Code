@@ -64,7 +64,7 @@ The purpose of this section is to authorize the President to establish a program
 
 #### (4) Priority requirement
 
-&emsp;In awarding subgrants under this subsection, the organization shall give priority to eligible applicants that are currently administering a program of proven intervention to HIV positive individuals to prevent mother-to-child transmission in countries with or at risk for severe HIV epidemic with particular attention to resource constrained countries, and who arecurrently administering a program to HIV positive women, men, and children to provide life-long care in family-centered care programs using non-Federal funds.
+&emsp;In awarding subgrants under this subsection, the organization shall give priority to eligible applicants that are currently administering a program of proven intervention to HIV positive individuals to prevent mother-to-child transmission in countries with or at risk for severe HIV epidemic with particular attention to resource constrained countries, and who are currently administering a program to HIV positive women, men, and children to provide life-long care in family-centered care programs using non-Federal funds.
 
 #### (5) Selection of subgrant recipients
 

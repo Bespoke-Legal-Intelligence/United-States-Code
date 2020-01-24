@@ -8,7 +8,7 @@ In General.—Neither the Secretary nor the Board has jurisdiction under this pa
 
 &emsp;(2) a motor vehicle providing taxicab service;
 
-&emsp;(3) a motor vehicle owned or operated by or for a hotel and only transporting hotel patronsbetween the hotel and the local station of a carrier;
+&emsp;(3) a motor vehicle owned or operated by or for a hotel and only transporting hotel patrons between the hotel and the local station of a carrier;
 
 &emsp;(4) a motor vehicle controlled and operated by a farmer and transporting—
 

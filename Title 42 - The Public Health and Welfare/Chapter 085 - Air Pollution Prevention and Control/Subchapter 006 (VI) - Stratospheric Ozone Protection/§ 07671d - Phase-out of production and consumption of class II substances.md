@@ -34,13 +34,13 @@ By December 31, 1999, the Administrator shall promulgate regulations phasing out
 
 #### (B) Cap on exception
 
-&emsp;&emsp;Under no circumstances may the authority set forth in subparagraph (A) be applied toauthorize any person to produce a class II substance in annual quantities greater than 10 percent of that produced by such person during the baseline year.
+&emsp;&emsp;Under no circumstances may the authority set forth in subparagraph (A) be applied to authorize any person to produce a class II substance in annual quantities greater than 10 percent of that produced by such person during the baseline year.
 
 #### (2) Developing countries
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding the provisions of subsection (a) or (b), the Administrator, after notice and opportunity for public comment, may authorize the production of limited quantities of a class II substance in excess of the quantities otherwise permitted under such provisions solely for export to and use in developing countries that are Parties to the Montreal Protocol, as determined by the Administrator. Any production authorized under this subsection shall be solely for purposes of satisfying the basic domestic needs of such countries.
+&emsp;&emsp;Notwithstanding the provisions of subsection (a) or (b), the Administrator, after notice and opportunity for public comment, may authorize the production of limited quantities of a class II substance in excess of the quantities otherwise permitted under such provisions solely for export to and usein developing countries that are Parties to the Montreal Protocol, as determined by the Administrator. Any production authorized under this subsection shall be solely for purposes of satisfying the basic domestic needs of such countries.
 
 #### (B) Cap on exception
 

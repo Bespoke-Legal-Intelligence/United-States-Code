@@ -12,7 +12,7 @@ Not later than 90 days after the conclusion of each fiscal year in which assista
 
 #### (b) Related reports
 
-The Secretary may require recipients of grant amounts under this chapter to submit to theSecretary such reports and other information as may be necessary in order for the Secretary to make the report required by subsection (a).
+The Secretary may require recipients of grant amounts under this chapter to submit to the Secretary such reports and other information as may be necessary in order for the Secretary to make the report required by subsection (a).
 
 (Pub. L. 104–330, title IV, §407, Oct. 26, 1996, 110 Stat. 4041.)
 

@@ -1,6 +1,6 @@
 ### §835h. Acts and regulations by Secretary of the Interior
 
-The Secretary of the Interior is authorized to perform any and all acts and to prescribe such regulations as he may deem appropriate to carry out the provisions of sections 835d to 835g of this title.
+The Secretary of the Interior is authorized to perform any and all acts and to prescribe suchregulations as he may deem appropriate to carry out the provisions of sections 835d to 835g of this title.
 
 (June 29, 1940, ch. 460, §5, 54 Stat. 704.)
 

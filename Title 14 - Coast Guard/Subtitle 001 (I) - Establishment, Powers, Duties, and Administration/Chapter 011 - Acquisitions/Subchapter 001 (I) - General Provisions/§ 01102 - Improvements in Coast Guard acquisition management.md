@@ -6,7 +6,7 @@ Project or Program Managers.—
 
 &emsp;(1)
 
-Level 1 projects.—An individual may not be assigned as the project or program manager for a Level 1 acquisition unless the individual holds a Level III acquisition certification as a program manager.
+Level 1 projects.—An individual may not be assigned as the project or program manager for a Level 1 acquisition unless theindividual holds a Level III acquisition certification as a program manager.
 
 &emsp;(2)
 

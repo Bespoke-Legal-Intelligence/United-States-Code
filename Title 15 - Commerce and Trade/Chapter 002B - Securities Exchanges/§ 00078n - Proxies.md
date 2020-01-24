@@ -22,7 +22,7 @@ Unless proxies, consents, or authorizations in respect of a security registered 
 
 #### (d) Tender offer by owner of more than five per centum of class of securities; exceptions
 
-(1) It shall be unlawful for any person, directly or indirectly, by use of the mails or by any means or instrumentality of interstate commerce or of any facility of a national securities exchange or otherwise, to make a tender offer for, or a request or invitation for tenders of, any class of any equity security which is registered pursuant to section 78l of this title, or any equity security of an insurance company which would have been required to be so registered except for the exemption contained in section 78l(g)(2)(G) of this title, or any equity security issued by a a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], if, after consummation thereof, such person would, directly or indirectly, be the beneficial owner of more than 5 per centum of such class, unless at the time copies of the offer or request or invitation are first published or sent or given to security holders such person has filed with the Commission a statement containing such of the information specified in section 78m(d) of this title, and such additional information as the Commission may by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors. All requests or invitations for tenders or advertisements making a tender offer or requesting or inviting tenders of such a security shall be filed as a part of such statement and shall contain such of the information contained in such statement as the Commission may by rules and regulations prescribe. Copies of any additional material soliciting or requesting such tender offers subsequent to the initial solicitation or request shall contain such information as the Commission may by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors, and shall be filed with the Commission not later than the time copies of such material are first published or sent or given to security holders. Copies of all statements, in the form in which such material is furnished to security holders and the Commission, shall be sent to the issuer not later than the date such material is first published or sent or given to any security holders.
+(1) It shall be unlawful for any person, directly or indirectly, by use of the mails or by any means or instrumentality of interstate commerce or of any facility of a national securities exchange or otherwise, to make a tender offer for, or a request or invitation for tenders of, any class of any equity security which is registered pursuant to section 78l of this title, or any equity security of an insurance company which would have been required to be so registered except for the exemption contained in section 78l(g)(2)(G) of this title, or any equity security issued by a a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], if, after consummation thereof, such person would, directly or indirectly, be the beneficial owner of more than 5 per centum of such class, unless at the time copies of the offer or request or invitation are first published or sent or given to security holders such person has filed with the Commission a statement containing such of the information specified in section 78m(d) of this title, and such additional information as the Commission may by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors. All requests or invitations for tenders or advertisements making a tender offer or requesting or inviting tenders of such a security shall be filed as a part of such statement and shall contain such of theinformation contained in such statement as the Commission may by rules and regulations prescribe. Copies of any additional material soliciting or requesting such tender offers subsequent to the initial solicitation or request shall contain such information as the Commission may by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors, and shall be filed with the Commission not later than the time copies of such material are first published or sent or given to security holders. Copies of all statements, in the form in which such material is furnished to security holders and the Commission, shall be sent to the issuer not later than the date such material is first published or sent or given to any security holders.
 
 (2) When two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, or disposing of securities of an issuer, such syndicate or group shall be deemed a "person" for purposes of this subsection.
 
@@ -30,7 +30,7 @@ Unless proxies, consents, or authorizations in respect of a security registered 
 
 (4) Any solicitation or recommendation to the holders of such a security to accept or reject a tender offer or request or invitation for tenders shall be made in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
-(5) Securities deposited pursuant to a tender offer or request or invitation for tenders may be withdrawn by or on behalf of the depositor at any time until the expiration of seven days after the time definitive copies of the offer or request or invitation are first published or sent or given to security holders, and at any time after sixty days from the date of the original tender offer or request or invitation, except as the Commissionmay otherwise prescribe by rules, regulations, or order as necessary or appropriate in the public interest or for the protection of investors.
+(5) Securities deposited pursuant to a tender offer or request or invitation for tenders may be withdrawn by or on behalf of the depositor at any time until the expiration of seven days after the time definitive copies of the offer or request or invitation are first published or sent or given to security holders, and at any time after sixty days from the date of the original tender offer or request or invitation, except as the Commission may otherwise prescribe by rules, regulations, or order as necessary or appropriate in the public interest or for the protection of investors.
 
 (6) Where any person makes a tender offer, or request or invitation for tenders, for less than all the outstanding equity securities of a class, and where a greater number of securities is deposited pursuant thereto within ten days after copies of the offer or request or invitation are first published or sent or given to security holders than such person is bound or willing to take up and pay for, the securities taken up shall be taken up as nearly as may be pro rata, disregarding fractions, according to the number of securities deposited by each depositor. The provisions of this subsection shall also apply to securities deposited within ten days after notice of an increase in the consideration offered to security holders, as described in paragraph (7), is first published or sent or given to security holders.
 
@@ -54,13 +54,13 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 #### (g) Filing fees
 
-(1)(A) At the time of filing such preliminary proxy solicitation material as the Commission may require by rule pursuant to subsection (a) of this section that concerns an acquisition, merger, consolidation, or proposed sale or other disposition of substantially all the assets of a company, the person making such filing, other than a company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], shall pay to the Commission the following fees:
+(1)(A) At the time of filing such preliminary proxy solicitation material as the Commissionmay require by rule pursuant to subsection (a) of this section that concerns an acquisition, merger, consolidation, or proposed sale or other disposition of substantially all the assets of a company, the person making such filing, other than a company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], shall pay to the Commission the following fees:
 
 &emsp;(i) for preliminary proxy solicitation material involving an acquisition, merger, or consolidation, if there is a proposed payment of cash or transfer of securities or property to shareholders, a fee at a rate that, subject to paragraph (4), is equal to $92 <sup>1</sup> per $1,000,000 of such proposed payment, or of the value of such securities or other property proposed to be transferred; and
 
 &emsp;(ii) for preliminary proxy solicitation material involving a proposed sale or other disposition of substantially all of the assets of a company, a fee at a rate that, subject to paragraph (4), is equal to $92 <sup>1</sup> per $1,000,000 of the cash or of the value of any securities or other property proposed to be received upon such sale or disposition.
 
-(B) The fee imposed under subparagraph (A) shall be reduced with respect to securities in an amount equal to any fee paid to the Commission with respect to such securities in connection with the proposed transaction under section 77f(b) of this title, or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection. Where two or more companies involved in an acquisition, merger, consolidation, sale, or other disposition of substantially all the assets of a company must file such proxy material with theCommission, each shall pay a proportionate share of such fee.
+(B) The fee imposed under subparagraph (A) shall be reduced with respect to securities in an amount equal to any fee paid to the Commission with respect to such securities in connection with the proposed transaction under section 77f(b) of this title, or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection. Where two or more companies involved in an acquisition, merger, consolidation, sale, or other disposition of substantially all the assets of a company must file such proxy material with the Commission, each shall pay a proportionate share of such fee.
 
 (2) At the time of filing such preliminary information statement as the Commission may require by rule pursuant to subsection (c) of this section, the issuer shall pay to the Commission the same fee as required for preliminary proxy solicitation material under paragraph (1) of this subsection.
 
@@ -96,7 +96,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 &emsp;&emsp;&emsp;(ii) any holder of not less than 5 percent of the outstanding securities that are the subject of the proposed limited partnership rollup transaction who engages in the business of buying and selling limited partnership interests in the secondary market shall be required to disclose such ownership interests and any potential conflicts of interests in such preliminary communications;
 
-&emsp;&emsp;(B) require the issuer to provide to holders of the securities that are the subject of the limited partnership rollup transaction such list of the holders of the issuer's securities as the Commission may determine in such form and subject to such terms and conditions as the Commission may specify;
+&emsp;&emsp;(B) require the issuer to provide to holders of the securities that are the subject of thelimited partnership rollup transaction such list of the holders of the issuer's securities as the Commission may determine in such form and subject to such terms and conditions as the Commission may specify;
 
 &emsp;&emsp;(C) prohibit compensating any person soliciting proxies, consents, or authorizations directly from security holders concerning such a limited partnership rollup transaction—
 
@@ -112,7 +112,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 &emsp;&emsp;&emsp;(iii) whether it is expected that there will be a significant difference between the exchange values of the limited partnerships and the trading price of the securities to be issued in the limited partnership rollup transaction;
 
-&emsp;&emsp;&emsp;(iv) the valuation of the limited partnerships and the method used to determine the value of the interests of the limited partners to be exchanged for the securitiesin the limited partnership rollup transaction;
+&emsp;&emsp;&emsp;(iv) the valuation of the limited partnerships and the method used to determine the value of the interests of the limited partners to be exchanged for the securities in the limited partnership rollup transaction;
 
 &emsp;&emsp;&emsp;(v) the differing risks and effects of the limited partnership rollup transaction for investors in different limited partnerships proposed to be included, and the risks and effects of completing the limited partnership rollup transaction with less than all limited partnerships;
 
@@ -144,7 +144,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 #### (2) Exemptions
 
-&emsp;The Commission may, consistent with the public interest, the protection of investors, and the purposes of this chapter, exempt by rule or order any security or class of securities, any transaction or class of transactions, or any person or class of persons, in whole or in part, conditionally or unconditionally, from the requirements imposed pursuant to paragraph (1) or from the definition contained in paragraph (4).
+&emsp;The Commission may, consistent with the public interest, the protection of investors, and the purposes of this chapter, exempt byrule or order any security or class of securities, any transaction or class of transactions, or any person or class of persons, in whole or in part, conditionally or unconditionally, from the requirements imposed pursuant to paragraph (1) or from the definition contained in paragraph (4).
 
 #### (3) Effect on Commission authority
 
@@ -158,7 +158,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 &emsp;&emsp;(B) any of the investors' limited partnership securities are not, as of the date of filing, reported under a transaction reporting plan declared effective before December 17, 1993, by the Commission under section 78k–1 of this title;
 
-&emsp;&emsp;(C) investors in any of the limited partnerships involved in the transaction are subject to a significant adverse change with respect to voting rights, the term of existence of theentity, management compensation, or investment objectives; and
+&emsp;&emsp;(C) investors in any of the limited partnerships involved in the transaction are subject to a significant adverse change with respect to voting rights, the term of existence of the entity, management compensation, or investment objectives; and
 
 &emsp;&emsp;(D) any of such investors are not provided an option to receive or retain a security under substantially the same terms and conditions as the original issue.
 
@@ -268,7 +268,7 @@ Amendment by Pub. L. 107–123 effective Oct. 1, 2001, except that authorities p
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–550, title III, §303, Nov. 15, 1990, 104 Stat. 2721, provided that: "The amendments made by section 302 of this title \[amending this section\] shall take effect upon the expiration of 180 days after the date of enactment of this Act \[Nov. 15, 1990\]."
+Pub. L. 101–550, title III, §303, Nov. 15, 1990, 104 Stat. 2721, provided that: "The amendments made by section302 of this title \[amending this section\] shall take effect upon the expiration of 180 days after the date of enactment of this Act \[Nov. 15, 1990\]."
 
 #### Effective Date of 1985 Amendment
 
@@ -292,7 +292,7 @@ Exemptions.—The Commission may, by rule or order, exempt an issuer or class of
 
 \[For definitions of terms used in section 971(b), (c) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
 
-Pub. L. 103–202, title III, §302(b), Dec. 17, 1993, 107 Stat. 2363, provided that: "The Securities and Exchange Commission shall conduct rulemaking proceedings and prescribe final regulations under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and the Securities ExchangeAct of 1934 \[15 U.S.C. 78a et seq.\] to implement the requirements of section 14(h) of the Securities Exchange Act of 1934 \[15 U.S.C. 78n(h)\], as amended by subsection (a), and such regulations shall become effective not later than 12 months after the date of enactment of this Act \[Dec. 17, 1993\]."
+Pub. L. 103–202, title III, §302(b), Dec. 17, 1993, 107 Stat. 2363, provided that: "The Securities and Exchange Commission shall conduct rulemaking proceedings and prescribe final regulations under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] to implement the requirements of section 14(h) of the Securities Exchange Act of 1934 \[15 U.S.C. 78n(h)\], as amended by subsection (a), and such regulations shall become effective not later than 12 months after the date of enactment of this Act \[Dec. 17, 1993\]."
 
 #### Construction of 1993 Amendment
 
@@ -304,45 +304,17 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Study and Report on Shareholder Access to Proxy Statements
 
-Pub. L. 104–290, title V, §510(b), Oct. 11, 1996, 110 Stat. 3450, provided that:
-
-"(1)
-
-Study.—The Commission shall conduct a study of—
-
-&emsp;"(A) whether shareholder access to proxy statements pursuant to section 14 of the Securities Exchange Act of 1934 \[15 U.S.C. 78n\] has been impaired by recent statutory, judicial, or regulatory changes; and
-
-&emsp;"(B) the ability of shareholders to have proposals relating to corporate practices and social issues included as part of proxy statements.
-
-"(2)
-
-Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall submit a report to the Congress on the results of the study conducted under paragraph (1), together with any recommendations for regulatory or legislative changes that it considers necessary to improve shareholder access to proxy statements."
+Pub. L. 104–290, title V, §510(b), Oct. 11, 1996, 110 Stat. 3450, provided that the Securities and Exchange Commission should conduct a study to determine if shareholder access to proxy statements pursuant to this section had been impaired by recent statutory, judicial, or regulatory changes and the ability of shareholders to have proposals relating to corporate practices and social issues included as part of proxy statements, and provided that the Commission report the study and any recommendations to Congress by 1 year after Oct. 11, 1996.
 
 #### Evaluation of Fairness Opinion Preparation, Disclosure, and Use
 
-Pub. L. 103–202, title III, §302(c), Dec. 17, 1993, 107 Stat. 2363, provided that:
-
-"(1)
-
-Evaluation required.—The Comptroller General of the United States shall, within 18 months after the date of enactment of this Act \[Dec. 17, 1993\], conduct a study of—
-
-&emsp;"(A) the use of fairness opinions in limited partnership rollup transactions;
-
-&emsp;"(B) the standards which preparers use in making determinations of fairness;
-
-&emsp;"(C) the scope of review, quality of analysis, qualifications and methods of selection of preparers, costs of preparation, and any limitations imposed by issuers on such preparers;
-
-&emsp;"(D) the nature and quality of disclosures provided with respect to such opinions;
-
-&emsp;"(E) any conflicts of interest with respect to the preparation of such opinions; and
-
-&emsp;"(F) the usefulness of such opinions to limited partners.
-
-"(2)
-
-Report required.—Not later than the end of the 18-month period referred to in paragraph (1), the Comptroller General of the United States shall submit to the Congress a report on the evaluation required by paragraph (1)."
+Pub. L. 103–202, title III, §302(c), Dec. 17, 1993, 107 Stat. 2363, provided that the Comptroller General of the United States should, within 18 months after Dec. 17, 1993, conduct a study of the use of fairness opinions in limited partnership rollup transactions, the standards which preparers use in making determinations of fairness, the scope of review, quality of analysis, qualifications and methods of selection of preparers, costs of preparation, and any limitations imposed by issuers on such preparers, the nature and quality of disclosures provided with respect to such opinions, any conflicts of interest concerning such opinions, and the usefulness of the opinions to limited partners, with a report required to be sent to Congress by the end of the 18-month period.
 
 #### Adjustment of Registration Fee Rate
+
+By order dated Aug. 23, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $129.80 per $1,000,000, effective Oct. 1, 2019, see 84 F.R. 45601.
+
+By order dated Aug. 24, 2018, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $121.20 per $1,000,000, effective Oct. 1, 2018, see 83 F.R. 44101.
 
 By order dated Aug. 24, 2017, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $124.50 per $1,000,000, effective Oct. 1, 2017, see 82 F.R. 41080.
 

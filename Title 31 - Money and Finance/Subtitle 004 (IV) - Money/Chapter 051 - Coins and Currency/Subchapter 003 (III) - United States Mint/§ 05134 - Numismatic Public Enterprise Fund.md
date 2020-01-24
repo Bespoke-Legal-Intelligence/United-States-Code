@@ -30,7 +30,7 @@ Secretary.—The term "Secretary" means the Secretary of the Treasury.
 
 (b)
 
-Establishment of Fund.—There is hereby established in the Treasury of the United States a revolving Numismatic Public Enterprise Fund consisting of amounts deposited in the fund <sup>1</sup> under subsection (c)(2) of this section or section 221(b) of the United States Mint Reauthorization and Reform Act of 1992 which shall be available to the Secretary for numismatic operations and programs of the United States Mint without fiscal year limitation.
+Establishment of Fund.—There is hereby established in the Treasury of the United Statesa revolving Numismatic Public Enterprise Fund consisting of amounts deposited in the fund <sup>1</sup> under subsection (c)(2) of this section or section 221(b) of the United States Mint Reauthorization and Reform Act of 1992 which shall be available to the Secretary for numismatic operations and programs of the United States Mint without fiscal year limitation.
 
 (c)
 
@@ -60,7 +60,7 @@ In general.—At such times as the Secretary determines to be appropriate, the S
 
 Report to congress.—The Secretary shall submit an annual report to the Congress containing—
 
-&emsp;&emsp;&emsp;(i) a statement of the total amount transferred to the Treasury pursuant tosubparagraph (A) during the period covered by the report;
+&emsp;&emsp;&emsp;(i) a statement of the total amount transferred to the Treasury pursuant to subparagraph (A) during the period covered by the report;
 
 &emsp;&emsp;&emsp;(ii) a statement of the amount by which the amount on deposit in the Fund at the end of the period covered by the report exceeds the estimated operating costs of the Fund for the 1-year period beginning at the end of such period; and
 
@@ -146,7 +146,7 @@ Annual report on fund.—
 
 &emsp;&emsp;(A)
 
-Report required.—By April 30 of each year, the Secretary shall submit a report on the Fund for the most recently completed fiscal year to the President, the Congress, and the Director of the Office of Management and Budget.
+Report required.—By April 30 of each year, the Secretary shall submit a report on the Fund for the most recently completed fiscal year to the President, the Congress,and the Director of the Office of Management and Budget.
 
 &emsp;&emsp;(B)
 
@@ -228,7 +228,7 @@ Minimum requirements for annual audits.—At a minimum, each audit of a designat
 
 &emsp;&emsp;(C)
 
-Responsibility of organization to account for expenditures of surcharges.—Each designated recipient organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall take appropriate steps, as a condition for receiving any such payment, to ensure that the receipt of the payment and the expenditure of the proceeds of such surcharge by the organization in each fiscal year of the organization can be accounted for separately from all other revenues and expenditures of the organization.
+Responsibility of organization to account for expenditures of surcharges.—Each designated recipient organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall take appropriate steps, as a condition for receiving any such payment, to ensure that the receipt of the payment and the expenditure of the proceeds of such surcharge by the organization in each fiscalyear of the organization can be accounted for separately from all other revenues and expenditures of the organization.
 
 &emsp;&emsp;(D)
 
@@ -306,7 +306,7 @@ The date of enactment of the Treasury, Postal Service, and General Government Ap
 
 <b>2003</b>—Subsec. (c)(4), (5). Pub. L. 108–15, §103(d)(2), redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: "For purposes of paragraph (1), any expense incurred by the Secretary in connection with the Citizens Commemorative Coin Advisory Committee established under section 5135 shall be treated as an expense incurred for numismatic operations and programs which is an ordinary and reasonable incident of the numismatic business."
 
-Subsec. (f)(1). Pub. L. 108–15, §201(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "Notwithstanding any other provision of law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund to any designated recipient organization unless—
+Subsec. (f)(1). Pub. L. 108–15, §201(a), amended heading and text of par. (1) generally. Prior to amendment, textread as follows: "Notwithstanding any other provision of law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund to any designated recipient organization unless—
 
 &emsp;"(A) all numismatic operation and program costs allocable to the program under which such numismatic item is produced and sold have been recovered; and
 

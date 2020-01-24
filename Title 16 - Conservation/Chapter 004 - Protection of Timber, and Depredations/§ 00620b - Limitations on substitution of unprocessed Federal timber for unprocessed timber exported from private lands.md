@@ -74,7 +74,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 &emsp;&emsp;(B) information regarding the location of each timber manufacturing facility owned or operated by such person within the proposed sourcing area boundaries at which the applicant proposes to process timber originating from Federal lands.
 
-> &emsp;The prohibition contained in subsection (a) shall not apply to a person before the date which is 1 month after the procedures referred to in this paragraph are prescribed. With respect to any person who submits an application in accordance with such procedures by the end of the time period set forth in the preceding sentence, the prohibition contained in subsection (a) shall not apply to such person before the date on which the Secretary concerned approves or disapproves such application.
+> &emsp;The prohibition contained in subsection (a) shall not apply to a person before the datewhich is 1 month after the procedures referred to in this paragraph are prescribed. With respect to any person who submits an application in accordance with such procedures by the end of the time period set forth in the preceding sentence, the prohibition contained in subsection (a) shall not apply to such person before the date on which the Secretary concerned approves or disapproves such application.
 
 #### (3) Grant of approval for sourcing areas for processing facilities located outside of the northwestern private timber open market area
 
@@ -96,7 +96,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 &emsp;&emsp;&emsp;(i) consider land located in the northwestern private timber open market area; or
 
-&emsp;&emsp;&emsp;(ii) condition approval of the application on the inclusion of any such land in theapplicant's sourcing area, such land being includable in the sourcing area only to the extent requested by the applicant.
+&emsp;&emsp;&emsp;(ii) condition approval of the application on the inclusion of any such land in the applicant's sourcing area, such land being includable in the sourcing area only to the extent requested by the applicant.
 
 #### (4) Denial of application for sourcing areas for processing facilities located outside the northwestern private timber open market area
 

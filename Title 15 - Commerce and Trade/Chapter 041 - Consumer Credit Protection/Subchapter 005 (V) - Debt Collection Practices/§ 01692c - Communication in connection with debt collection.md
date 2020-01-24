@@ -8,7 +8,7 @@ Without the prior consent of the consumer given directly to the debt collector o
 
 &emsp;(2) if the debt collector knows the consumer is represented by an attorney with respect to such debt and has knowledge of, or can readily ascertain, such attorney's name and address, unless the attorney fails to respond within a reasonable period of time to a communication from the debt collector or unless the attorney consents to direct communication with the consumer; or
 
-&emsp;(3) at the consumer's place of employment if the debt collector knows or has reason to know that the consumer's employer prohibitsthe consumer from receiving such communication.
+&emsp;(3) at the consumer's place of employment if the debt collector knows or has reason to know that the consumer's employer prohibits the consumer from receiving such communication.
 
 #### (b) Communication with third parties
 
@@ -16,7 +16,7 @@ Except as provided in section 1692b of this title, without the prior consent of 
 
 #### (c) Ceasing communication
 
-If a consumer notifies a debt collector in writing that the consumer refuses to pay a debt or that the consumer wishes the debt collector to cease further communication with the consumer, the debt collector shall not communicate further with the consumer with respect to such debt, except—
+If a consumer notifies a debt collector in writing that the consumer refuses to pay a debt or that the consumer wishes the debt collector to cease further communication with the consumer, the debt collector shall not communicatefurther with the consumer with respect to such debt, except—
 
 &emsp;(1) to advise the consumer that the debt collector's further efforts are being terminated;
 

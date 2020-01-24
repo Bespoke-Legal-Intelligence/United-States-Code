@@ -34,7 +34,7 @@ There is established the Federal Permitting Improvement Steering Council.
 
 #### (II) Reporting
 
-&emsp;&emsp;&emsp;&emsp;In carrying out the duties of the agency CERPO under this subchapter, an agency CERPO shall report directly to a deputy secretary (or the equivalent) or higher.
+&emsp;&emsp;&emsp;&emsp;In carrying out the duties of the agency CERPO under this subchapter, anagency CERPO shall report directly to a deputy secretary (or the equivalent) or higher.
 
 #### (B) Heads of agencies
 

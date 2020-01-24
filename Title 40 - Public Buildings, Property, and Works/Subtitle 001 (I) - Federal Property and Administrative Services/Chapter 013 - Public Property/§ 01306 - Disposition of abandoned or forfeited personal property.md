@@ -98,7 +98,7 @@ Availability of appropriations.—The appropriation available to an agency for t
 
 &emsp;(2)
 
-Payment and reimbursement of certain costs.—The agency that receives property under this section shall pay the cost of hauling, transporting, towing, and storing theproperty. If the property is later delivered to another agency for official use under this section, the agency to which the property is delivered shall make reimbursement for all of those costs incurred prior to the date the property is delivered.
+Payment and reimbursement of certain costs.—The agency that receives property under this section shall pay the cost of hauling, transporting, towing, and storing the property. If the property is later delivered to another agency for official use under this section, the agency to which the property is delivered shall make reimbursement for all of those costs incurred prior to the date the property is delivered.
 
 (g)
 

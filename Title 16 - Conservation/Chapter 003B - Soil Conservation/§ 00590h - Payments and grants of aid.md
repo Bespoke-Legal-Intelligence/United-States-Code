@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) are fairly representative of the agricultural producers within the area covered by the county, area, or local committee; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) are elected by the agricultural producers that participate or cooperate in programs administered withinthe area under the jurisdiction of the county, area, or local committee.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) are elected by the agricultural producers that participate or cooperate in programs administered within the area under the jurisdiction of the county, area, or local committee.
 
 #### (II) Combination or consolidation of areas
 
@@ -72,7 +72,7 @@
 
 #### (bb) Outreach
 
-&emsp;&emsp;&emsp;&emsp;&emsp;In addition to such nominating procedures as the Secretary may prescribe, the Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2003(e)(1)).<sup>1</sup>
+&emsp;&emsp;&emsp;&emsp;&emsp;In addition to such nominating procedures as the Secretary may prescribe, the Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the ConsolidatedFarm and Rural Development Act (7 U.S.C. 2003(e)(1)).<sup>1</sup>
 
 #### (IV) Opening of ballots
 
@@ -114,7 +114,7 @@
 
 #### (aa) Analysis
 
-&emsp;&emsp;&emsp;&emsp;&emsp;If determined necessary by the Secretary after analyzing the data contained in the report under subclause (VI), the Secretary shall promulgate and publish in the Federal Register proposed uniform guidelines for conducting elections for members and alternate members of county, area, andlocal committees not later than 1 year after the date of completion of the report.
+&emsp;&emsp;&emsp;&emsp;&emsp;If determined necessary by the Secretary after analyzing the data contained in the report under subclause (VI), the Secretary shall promulgate and publish in the Federal Register proposed uniform guidelines for conducting elections for members and alternate members of county, area, and local committees not later than 1 year after the date of completion of the report.
 
 #### (bb) Inclusion
 
@@ -148,7 +148,7 @@
 
 #### (D) Use of committees
 
-&emsp;&emsp;The Secretary shall use the services of such committees in carrying out programs under this section and the agricultural credit programs under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) and in considering administrative appeals as provided by section 6932(d) of title 7. The Secretary may use the services of such committees in carrying out programs under other authorities administered by the Secretary.
+&emsp;&emsp;The Secretary shall use the services of such committees in carrying out programs under this section and the agricultural credit programs under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) and in considering administrative appeals as provided by section 6932(d) of title 7. The Secretary may use the services of suchcommittees in carrying out programs under other authorities administered by the Secretary.
 
 #### (E) Regulations
 
@@ -182,7 +182,7 @@
 
 (1) In apportioning acreage allotments under this section in the case of wheat and corn, the National and State allotments and the allotments to counties shall be apportioned annually on the basis of the acreage seeded for the production of the commodity during the ten calendar years immediately preceding the calendar year in which the national acreage allotment is determined (plus, in applicable years, the acreage diverted under previous agricultural adjustment and conservation programs), with adjustments for abnormal weather conditions and trends in acreage during the applicable period.
 
-(2) In the case of wheat, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acres, crop-rotation practices, type ofsoil, and topography. Not more than 3 per centum of such county allotment shall be apportioned to farms on which wheat has not been planted during any of the three marketing years immediately preceding the marketing year in which the allotment is made. Notwithstanding any other provision of this section, the allotments established, or which would have been established, for any farm acquired in 1940 or thereafter by the United States for national-defense purposes shall be placed in an allotment pool and shall be used only to establish allotments for other farms owned or acquired by the owner of the farm so acquired by the United States. The allotments so made for any farm, including a farm on which wheat has not been planted during any of the three marketing years preceding the marketing year in which the allotment is made, shall compare with the allotments established for other farms in the same area which are similar except for the past acreage of wheat.
+(2) In the case of wheat, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acres, crop-rotation practices, type of soil, and topography. Not more than 3 per centum of such county allotment shall be apportioned to farms on which wheat has not been planted during any of the three marketing years immediately preceding the marketing year in which the allotment is made. Notwithstanding any other provision of this section, the allotments established, or which would have been established, for any farm acquired in 1940 or thereafter by the United States for national-defense purposes shall be placed in an allotment pool and shall be used only to establish allotments for other farms owned or acquired by the owner of the farm so acquired by the United States. The allotments so made for any farm, including a farm on which wheat has not been planted during any of the three marketing years preceding the marketing year in which the allotment is made, shall compare with the allotments established for other farms in the same area which are similar except for the past acreage of wheat.
 
 (3) In the case of corn, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acreage, type of soil, topography, and crop rotation practices.
 
@@ -204,7 +204,7 @@ A payment that may be made to a producer under this section may be assigned only
 
 The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§3839aa et seq.) of part IV of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(5)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7. For complete classification of this Act to theCode, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(5)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 #### Codification
 
@@ -264,7 +264,7 @@ Pub. L. 99–198, §1711(a)(4), in fifth par., inserted provisions directing tha
 
 Subsec. (e). Pub. L. 95–113, §1501(a)(3), struck out first three pars. which related to allotment and production adjustment activities and for provisions making small cost-share payments, and substituted a new par. authorizing the Secretary to establish a payment limitation. The first three pars. were deemed by the codifiers to constitute the first par., the flush sentence at the end of the first par., and the second par. to reflect the probable intent of Congress. See pp. 192, 193, 400, 401 of Senate Report 95–180.
 
-<b>1972</b>—Subsec. (b). Pub. L. 92–419, §§605, 606(2), (3), added par. respecting long-term rural environmental protection contracts; included in first sentence reference to cl. (6) of section 590g of this title and in item (2) provided as a measure for amount of payments and grants the treatment or use of the land for the prevention or abatement of agriculture-related pollution; and included in the second paragraph provisions respecting making available pollution prevention or abatement aids and orders covering pollution prevention or abatement aids and carrying out by the producers or pollution prevention or abatement practices, respectfully.
+<b>1972</b>—Subsec. (b). Pub. L. 92–419, §§605, 606(2), (3), added par. respecting long-term rural environmental protection contracts; included in first sentence reference to cl. (6) of section 590g of this title and in item\(2) provided as a measure for amount of payments and grants the treatment or use of the land for the prevention or abatement of agriculture-related pollution; and included in the second paragraph provisions respecting making available pollution prevention or abatement aids and orders covering pollution prevention or abatement aids and carrying out by the producers or pollution prevention or abatement practices, respectfully.
 
 Subsec. (d). Pub. L. 92–419, §606(4), included reference to cl. (6) of section 590g(a) of this title in first par.
 

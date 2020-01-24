@@ -36,7 +36,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (i) Late payment
 
-&emsp;&emsp;&emsp;If a person has submitted a notification under subparagraph (C) with respect to a fiscal year and has not paid all advisory review fees due under subparagraph (D) not later than November 1 of such fiscal year (or, in the case of such a notification submitted with respect to fiscal year 2008, not later than 150 days after September 27, 2007, or an earlier date specified by the Secretary), the fees shall be regarded as late and an increase in the amount of fees applies in accordance with this clause, notwithstanding any other provision of this section. For such person, all advisory review fees for such fiscal year shall be due and payable 20 days before any direct-to-consumer advertisement is submitted to the Secretary for advisory review, and each such fee shall be equal to 150 percent of the fee that otherwise would have applied pursuant to subsection (c)(3).
+&emsp;&emsp;&emsp;If a person has submitted a notification under subparagraph (C) with respect to a fiscal year and has not paid all advisory review fees due under subparagraph (D) not later than November 1 of such fiscal year (or, in the case of such a notification submitted with respect to fiscal year 2008, notlater than 150 days after September 27, 2007, or an earlier date specified by the Secretary), the fees shall be regarded as late and an increase in the amount of fees applies in accordance with this clause, notwithstanding any other provision of this section. For such person, all advisory review fees for such fiscal year shall be due and payable 20 days before any direct-to-consumer advertisement is submitted to the Secretary for advisory review, and each such fee shall be equal to 150 percent of the fee that otherwise would have applied pursuant to subsection (c)(3).
 
 #### (ii) Exceeding identified number of submissions
 
@@ -76,7 +76,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (C) Late notice of submission
 
-&emsp;&emsp;If, in the first fiscal year of a person's participation in the program under this section, that person submits any DTC advertisements for advisory review that are in excess of the number identified by that person in response to the Federal Register notice described in subsection (a)(1)(C), that person shall pay an operating reserve fee for each of those advisory reviews equal to the advisory review fee for each submission established under paragraph (1)(E)(ii). Fees required by this subparagraph shall be in addition to any fees required by subparagraph (A). Feesunder this subparagraph shall be due 20 days before any DTC advertisement is submitted by such person to the Secretary for advisory review.
+&emsp;&emsp;If, in the first fiscal year of a person's participation in the program under this section, that person submits any DTC advertisements for advisory review that are in excess of the number identified by that person in response to the Federal Register notice described in subsection (a)(1)(C), that person shall pay an operating reserve fee for each of those advisory reviews equal to the advisory review fee for each submission established under paragraph (1)(E)(ii). Fees required by this subparagraph shall be in addition to any fees required by subparagraph (A). Fees under this subparagraph shall be due 20 days before any DTC advertisement is submitted by such person to the Secretary for advisory review.
 
 #### (D) Late payment
 
@@ -104,7 +104,7 @@ Fees under subsection (a)(1) shall be established to generate revenue amounts of
 
 #### (1) Inflation adjustment
 
-&emsp;Beginning with fiscal year 2009, the revenues established in subsection (b) shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year to reflect the greater of—
+&emsp;Beginning with fiscal year 2009, the revenues established in subsection (b) shall be adjustedby the Secretary by notice, published in the Federal Register, for a fiscal year to reflect the greater of—
 
 &emsp;&emsp;(A) the total percentage change that occurred in the Consumer Price Index for all urban consumers (all items; U.S. city average), for the 12-month period ending June 30 preceding the fiscal year for which fees are being established;
 
@@ -198,7 +198,7 @@ Notwithstanding any other requirement, a submission for advisory review of a DTC
 
 #### (3) Authorization of appropriations
 
-&emsp;For each of the fiscal years 2008 through 2012, there is authorized to be appropriated for fees under this section an amount equal to thetotal revenue amount determined under subsection (b) for the fiscal year, as adjusted pursuant to subsection (c) and paragraph (4) of this subsection, plus amounts collected for the reserve fund under subsection (d).
+&emsp;For each of the fiscal years 2008 through 2012, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted pursuant to subsection (c) and paragraph (4) of this subsection, plus amounts collected for the reserve fund under subsection (d).
 
 #### (4) Offset
 

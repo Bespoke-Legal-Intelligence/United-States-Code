@@ -28,7 +28,7 @@
 
 (g)(1) The benefit of any comparability payments under section 5304 shall be available to individuals receiving rates of pay established under this section to such extent as the Office of Personnel Management (or such other agency as the President may under the last sentence of subsection (a)(1) designate) considers appropriate, subject to paragraph (2) and subsection (h).
 
-(2) Payments under this subsection may not be made if, or to the extent that, when added tobasic pay otherwise payable, such payments would cause the total to exceed the rate of basic pay payable for level IV of the Executive Schedule.
+(2) Payments under this subsection may not be made if, or to the extent that, when added to basic pay otherwise payable, such payments would cause the total to exceed the rate of basic pay payable for level IV of the Executive Schedule.
 
 (h) An employee shall not for any purpose be considered to be entitled to a rate of pay established under this section with respect to any period for which such employee is entitled to a higher rate of basic pay under any other provision of law. For purposes of this subsection, the term "basic pay" includes any applicable locality-based comparability payment under section 5304 or similar provision of law.
 
@@ -178,7 +178,7 @@ Pub. L. 101–509, title V, §529 \[title IV, §§401–407\], Nov. 5, 1990, 104
 | Chicago-Gary-Lake County, IL–IN–WI Consolidated Metropolitan Statistical Area | 4%&nbsp;&nbsp; |
 | Los Angeles-Anaheim-Riverside, CA Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
 | New York-Northern New Jersey-Long Island, NY–NJ–CT Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
-| Philadelphia-Wilmington-Trenton, PA–NJ–DE–MD Consolidated Metropolitan Statistical Area | 4%   |
+| Philadelphia-Wilmington-Trenton, PA–NJ–DE–MD Consolidated Metropolitan Statistical Area | 4%&nbsp;&nbsp; |
 | San Francisco-Oakland-San Jose, CA Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
 | San Diego, CA Metropolitan Statistical Area | 8%&nbsp;&nbsp; |
 | Washington-Baltimore DC–MD–VA–WV Consolidated Metropolitan Statistical Area | 4%&nbsp;&nbsp; |
@@ -219,5 +219,5 @@ Pub. L. 101–509, title V, §529 \[title IV, §§401–407\], Nov. 5, 1990, 104
 
 #### Reporting Requirement
 
-Pub. L. 101–509, title V, §529 \[title IV, §412\], Nov. 5, 1990, 104 Stat. 1427, 1469, provided that: "Not later than January 1, 1993, the Office of Personnel Management, in consultation with Federal law enforcement agencies and law enforcement employee groups, shall submit to Congress, in writing, a plan to establish a separate pay and classification system for law enforcement officers and specifications for legislation to implement such plan."
+Pub. L. 101–509, title V, §529 \[title IV, §412\], Nov. 5, 1990, 104 Stat. 1427, 1469, provided that not later than Jan. 1, 1993, the Office of Personnel Management should submit to Congress a written plan to establish a separate pay and classification system for law enforcement officers and specifications for legislation to implement such plan.
 

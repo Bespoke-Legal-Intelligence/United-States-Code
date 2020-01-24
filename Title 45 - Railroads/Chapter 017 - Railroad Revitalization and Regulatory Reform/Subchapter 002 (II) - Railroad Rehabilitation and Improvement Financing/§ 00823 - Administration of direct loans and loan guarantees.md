@@ -6,11 +6,11 @@ The Secretary shall prescribe the form and contents required of applications for
 
 #### (b) Full faith and credit
 
-All guarantees entered into by the Secretary under section 822 of this title shall constitute general obligations of the United States of America backed by the full faith and credit of the United States of America.
+All guarantees entered into by the Secretary under section 822 of this title shall constitute general obligations of the United States ofAmerica backed by the full faith and credit of the United States of America.
 
 #### (c) Assignment of loan guarantees
 
-The holder of a loan guarantee made under section 822 of this title may assign the loanguarantee in whole or in part, subject to such requirements as the Secretary may prescribe.
+The holder of a loan guarantee made under section 822 of this title may assign the loan guarantee in whole or in part, subject to such requirements as the Secretary may prescribe.
 
 #### (d) Modifications
 
@@ -156,5 +156,5 @@ Subsec. (l). Pub. L. 109–59, §9003(i), added subsec. (l).
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
 

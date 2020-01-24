@@ -10,7 +10,7 @@ Use of Funds.—Funds made available under subsection (a)—
 
 &emsp;(1) may be advanced each fiscal year to the National Park Foundation in a lump sum without regard to when expenses are incurred;
 
-&emsp;(2) shall be provided to the National Park Foundation for use to match contributions\(whether in currency, services, or property) made to the Foundation;
+&emsp;(2) shall be provided to the National Park Foundation for use to match contributions (whether in currency, services, or property) made to the Foundation;
 
 &emsp;(3) may not be used by the National Park Foundation for administrative expenses of the Foundation, including for salaries, travel and transportation expenses, and other overhead expenses; and
 

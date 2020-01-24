@@ -12,6 +12,18 @@
 
 Provisions similar to those in this section were contained in section 219 of this title prior to repeal by Pub. L. 102–83, §2(a).
 
+#### Access to Information in Burn Pit Registry
+
+Pub. L. 116–92, div. A, title VII, §705(c), Dec. 20, 2019, 133 Stat. 1440, provided that:
+
+"(1)
+
+In general.—The Secretary of Defense shall ensure that all medical personnel of the Department of Defense have access to the information contained in the burn pit registry.
+
+"(2)
+
+Burn pit registry defined.—In this subsection, the term 'burn pit registry' means the registry established under section 201 of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note)."
+
 #### Education Campaign for Airborne Hazards and Open Burn Pit Registry
 
 Pub. L. 115–232, div. A, title X, §1050, Aug. 13, 2018, 132 Stat. 1962, provided that:
@@ -26,7 +38,7 @@ Airborne Hazards and Open Burn Pit Registry Defined.—In this section, the term
 
 #### Coordination by Veterans Health Administration of Efforts To Understand Effects of Burn Pits
 
-Pub. L. 115–91, div. A, title VII, §738, Dec. 12, 2017, 131 Stat. 1446, provided that: "The Under Secretary for Health of the Department of Veterans Affairs, acting through the Office of Public Health of the Veterans Health Administration, shall coordinate efforts related to furthering understanding of burn pits, the effect of burn pits on veterans, and effective treatments relating to such effects, including with respect to research efforts and training of clinical staff on related matters."
+Pub. L. 115–91, div. A, title VII, §738, Dec. 12, 2017, 131 Stat. 1446, provided that: "The Under Secretary for Health of the Department of Veterans Affairs, acting through the Office of Public Health of the Veterans Health Administration, shall coordinate efforts related to furthering understanding of burn pits, the effect of burn pits on veterans, and effective treatments relatingto such effects, including with respect to research efforts and training of clinical staff on related matters."
 
 #### Submittal of Information to Secretary of Veterans Affairs Relating to Exposure to Airborne Hazards and Open Burn Pits
 
@@ -172,7 +184,7 @@ Relation to Department of Defense Registry.—The Secretary of Veterans Affairs,
 
 "(f)
 
-Ongoing Outreach to Individuals Listed in Registry.—The Secretary of Veterans Affairs shall,from time to time, notify individuals listed in the Registry of significant developments in research on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
+Ongoing Outreach to Individuals Listed in Registry.—The Secretary of Veterans Affairs shall, from time to time, notify individuals listed in the Registry of significant developments in research on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
 #### "SEC. 703. HEALTH EXAMINATIONS AND COUNSELING FOR VETERANS ELIGIBLE FOR INCLUSION IN CERTAIN HEALTH-RELATED REGISTRIES.
 
@@ -242,7 +254,7 @@ Definitions.—For the purposes of this section:
 
 "(a)
 
-Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek to enter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
+Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek toenter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
 "(2) The agreement shall require MFUA to provide members of veterans organizations and members of the scientific community (including the Director of the Office of Technology Assessment) with the opportunity to comment on the method or methods MFUA proposes to use in conducting the review.
 
@@ -312,7 +324,7 @@ Reports.—(1) Not later than July 1, 2010, and July 1 of each of the five follo
 
 "(2)(A) Not later than 120 days after submission of the epidemiological research study conducted by the Department of Veterans Affairs entitled 'VA National Survey of Persian Gulf Veterans—Phase III', the head of the department or agency designated under subsection (a) shall submit to the congressional committees specified in paragraph (1) a report on the findings under that study and any other pertinent medical literature.
 
-"(B) With respect to any findings of that study and any other pertinent medical literature which identify scientific evidence of a greater relative risk of illness or illnesses in family members of veterans who served in the Persian Gulf War theater of operations than in family members of veterans who did not so serve, the head of the department or agency designated under subsection (a) shall seek to ensure that appropriate research studies are designed to follow up on such findings.
+"(B) With respect to any findings of that study and any other pertinent medical literature which identifyscientific evidence of a greater relative risk of illness or illnesses in family members of veterans who served in the Persian Gulf War theater of operations than in family members of veterans who did not so serve, the head of the department or agency designated under subsection (a) shall seek to ensure that appropriate research studies are designed to follow up on such findings.
 
 "(d)
 
@@ -328,5 +340,5 @@ Outreach.—The head of the department or agency designated under subsection (a)
 
 #### Services for Homeless Veterans
 
-Pub. L. 102–405, title I, §107, Oct. 9, 1992, 106 Stat. 1976, as amended by Pub. L. 103–446, title X, §1002, Nov. 2, 1994, 108 Stat. 4679, required Secretary of Veterans' Affairs and directors of each medical center or benefits office to assess needs of homeless veterans and programs which have been developed to assist homelessveterans, and to replicate programs which have successfully rehabilitated homeless veterans, prior to repeal by Pub. L. 105–114, title II, §202(c)(2), Nov. 21, 1997, 111 Stat. 2287.
+Pub. L. 102–405, title I, §107, Oct. 9, 1992, 106 Stat. 1976, as amended by Pub. L. 103–446, title X, §1002, Nov. 2, 1994, 108 Stat. 4679, required Secretary of Veterans' Affairs and directors of each medical center or benefits office to assess needs of homeless veterans and programs which have been developed to assist homeless veterans, and to replicate programs which have successfully rehabilitated homeless veterans, prior to repeal by Pub. L. 105–114, title II, §202(c)(2), Nov. 21, 1997, 111 Stat. 2287.
 

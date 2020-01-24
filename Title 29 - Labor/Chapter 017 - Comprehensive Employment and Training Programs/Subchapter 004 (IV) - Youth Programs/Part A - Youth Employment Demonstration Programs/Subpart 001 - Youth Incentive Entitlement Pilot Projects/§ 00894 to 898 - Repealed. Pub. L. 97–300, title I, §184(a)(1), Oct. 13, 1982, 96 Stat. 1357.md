@@ -46,7 +46,7 @@ Section 895e, Pub. L. 93–203, title III, §356, as added Pub. L. 95–93, titl
 
 Section 895f, Pub. L. 93–203, title III, §357, as added Pub. L. 95–93, title II, §201, Aug. 5, 1977, 91 Stat. 649, related to general provisions.
 
-Section 896, Pub. L. 93–203, title IV, §418, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1976, related toselection of prime sponsors to operate youth incentive entitlement projects.
+Section 896, Pub. L. 93–203, title IV, §418, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1976, related to selection of prime sponsors to operate youth incentive entitlement projects.
 
 A prior section 418 of Pub. L. 93–203, title IV, Dec. 28, 1973, 87 Stat. 873, related to prohibitions respecting political discrimination and political activity, was classified to former section 928 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

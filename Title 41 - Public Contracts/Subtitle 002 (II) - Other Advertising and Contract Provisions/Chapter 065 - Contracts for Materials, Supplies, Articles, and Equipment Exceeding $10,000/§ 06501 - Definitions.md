@@ -76,7 +76,7 @@ Sec. 3. <i>Procurement Regulations</i>. Within 120 days after the date of this o
 
 (3) The head of an executive agency may debar or suspend a contractor from eligibility for Federal contracts on the basis of a finding that the contractor has engaged in an act described in subsection 3(c)(1) of this order. The provision for debarment may not exceed 3 years.
 
-(4) The Administrator of General Services shall include on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs (maintainedby the Administrator as described in the Federal Acquisition Regulation) each party that is debarred, suspended, proposed for debarment or suspension, or declared ineligible by the head of an agency on the basis that the person has engaged in an act described in subsection 3(c)(1) of this order.
+(4) The Administrator of General Services shall include on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs (maintained by the Administrator as described in the Federal Acquisition Regulation) each party that is debarred, suspended, proposed for debarment or suspension, or declared ineligible by the head of an agency on the basis that the person has engaged in an act described in subsection 3(c)(1) of this order.
 
 (5) This section shall not be construed to limit the use of other remedies available to the head of an executive agency or any other official of the Federal Government on the basis of a finding described in subsection 3(c)(1) of this order.
 

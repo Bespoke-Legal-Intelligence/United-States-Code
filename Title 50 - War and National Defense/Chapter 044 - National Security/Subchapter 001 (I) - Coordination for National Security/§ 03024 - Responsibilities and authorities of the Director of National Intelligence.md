@@ -42,7 +42,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (B) Notwithstanding any other provision of law, pursuant to relevant appropriations Acts for the National Intelligence Program, the Director of the Office of Management and Budget shall exercise the authority of the Director of the Office of Management and Budget to apportion funds, at the exclusive direction of the Director of National Intelligence, for allocation to the elements of the intelligence community through the relevant host executive departments and the Central Intelligence Agency. Department comptrollers or appropriate budget execution officers shall allot, allocate, reprogram, or transfer funds appropriated for the National Intelligence Program in an expeditious manner.
 
-(C) The Director of National Intelligence shall monitor the implementation and execution of the National Intelligence Program by the heads of the elements of the intelligence community that manage programs and activities that arepart of the National Intelligence Program, which may include audits and evaluations.
+(C) The Director of National Intelligence shall monitor the implementation and execution of the National Intelligence Program by the heads of the elements of the intelligence community that manage programs and activities that are part of the National Intelligence Program, which may include audits and evaluations.
 
 (6) Apportionment and allotment of funds under this subsection shall be subject to chapter 13 and section 1517 of title 31 and the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 621 et seq.).
 
@@ -54,7 +54,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (1)(A) No funds made available under the National Intelligence Program may be transferred or reprogrammed without the prior approval of the Director of National Intelligence, except in accordance with procedures prescribed by the Director of National Intelligence.
 
-(B) The Secretary of Defense shall consult with the Director of National Intelligence before transferring or reprogramming funds made available under the Military Intelligence Program or any successor program or programs.
+(B) The Secretary of Defense shall consult with the Director of National Intelligence before transferring or reprogramming funds madeavailable under the Military Intelligence Program or any successor program or programs.
 
 (2) Subject to the succeeding provisions of this subsection, the Director of National Intelligence may transfer or reprogram funds appropriated for a program within the National Intelligence Program—
 
@@ -180,7 +180,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (3)(A) The Director of National Intelligence shall prescribe, in consultation with the heads of other agencies or elements of the intelligence community, and the heads of their respective departments, personnel policies and programs applicable to the intelligence community that—
 
-&emsp;(i) encourage and facilitate assignments and details of personnel to national intelligence centers, and between elements of the intelligence community;
+&emsp;(i) encourage and facilitate assignments and details of personnel to national intelligencecenters, and between elements of the intelligence community;
 
 &emsp;(ii) set standards for education, training, and career development of personnel of the intelligence community;
 
@@ -348,7 +348,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 (1) In carrying out the responsibilities and authorities under this section, the Director of National Intelligence may exercise the acquisition and appropriations authorities referred to in the Central Intelligence Agency Act of 1949 \[50 U.S.C. 3501 et seq.\] other than the authorities referred to in section 8(b) of that Act \[50 U.S.C. 3510(b)\].
 
-(2) For the purpose of the exercise of any authority referred to in paragraph (1), a reference to the head of an agency shall be deemed to be a reference to the Director of National Intelligence or the Principal Deputy Director of National Intelligence.
+(2) For the purpose of the exercise of any authority referred to in paragraph (1), a referenceto the head of an agency shall be deemed to be a reference to the Director of National Intelligence or the Principal Deputy Director of National Intelligence.
 
 (3)(A) Any determination or decision to be made under an authority referred to in paragraph (1) by the head of an agency may be made with respect to individual purchases and contracts or with respect to classes of purchases or contracts, and shall be final.
 
@@ -414,7 +414,7 @@ Subject to the direction of the President, the Director of National Intelligence
 
 (1) For each intelligence program within the National Intelligence Program for the acquisition of a major system, the Director of National Intelligence shall—
 
-&emsp;(A) require the development and implementation of a program management plan that includes cost, schedule, and performance goals and program milestone criteria, except that with respect to Department of Defense programs the Director shall consult with the Secretary of Defense;
+&emsp;(A) require the development and implementation of a program management plan that includes cost, schedule, security risks, and performance goals and program milestone criteria, except that with respect to Department of Defense programs the Director shall consult with the Secretary of Defense;
 
 &emsp;(B) serve as exclusive milestone decision authority, except that with respect to Department of Defense programs the Director shall serve as milestone decision authority jointly with the Secretary of Defense or the designee of the Secretary; and
 
@@ -496,7 +496,7 @@ The Director of National Intelligence, in consultation with the head of each dep
 
 &emsp;(1) ensure that—
 
-&emsp;&emsp;(A) any contractor to an element of the intelligence community with access to a classified network or classified information develops and operates a security plan that is consistent with standards established by theDirector of National Intelligence for intelligence community networks; and
+&emsp;&emsp;(A) any contractor to an element of the intelligence community with access to a classified network or classified information develops and operates a security plan that is consistent with standards established by the Director of National Intelligence for intelligence community networks; and
 
 &emsp;&emsp;(B) each contract awarded by an element of the intelligence community includes provisions requiring the contractor comply with such plan and such standards;
 
@@ -514,7 +514,7 @@ The Director of National Intelligence, in consultation with the head of each dep
 
 (2) In this subsection, the term "fundraising" means the raising of funds through the active participation in the promotion, production, or presentation of an event designed to raise funds and does not include the direct solicitation of money by any other means.
 
-(3) Not later than 7 days after the date the Director engages in fundraising authorized by this subsection or at the time the decision is made to participate in such fundraising, the Director shall notify the congressional intelligence committees of such fundraising.
+(3) Not later than 7 days after the date the Director engages in fundraising authorized by thissubsection or at the time the decision is made to participate in such fundraising, the Director shall notify the congressional intelligence committees of such fundraising.
 
 (4) The Director, in consultation with the Director of the Office of Government Ethics, shall issue regulations to carry out the authority provided in this subsection. Such regulations shall ensure that such authority is exercised in a manner that is consistent with all relevant ethical constraints and principles, including the avoidance of any prohibited conflict of interest or appearance of impropriety.
 
@@ -528,7 +528,7 @@ The Director of National Intelligence, in consultation with the head of each dep
 
 &emsp;(B) describe any actions that have been or will be taken to mitigate such impact.
 
-(July 26, 1947, ch. 343, title I, §102A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3644; amended Pub. L. 111–258, §5(a), Oct. 7, 2010, 124 Stat. 2650; Pub. L. 111–259, title III, §§303, 304, 306, 307, 326, title IV, §§401, 402(a), title VIII, §804(2), Oct. 7, 2010, 124 Stat. 2658, 2659, 2661, 2662, 2683, 2708, 2747; Pub. L. 112–87, title III, §§304, 305, 311(d), Jan. 3, 2012, 125 Stat. 1880, 1881, 1886; Pub. L. 113–126, title III, §329(b)(2), title V, §§501, 502(a), July 7, 2014, 128 Stat. 1406, 1411, 1412; Pub. L. 114–113, div. M, title I, §105(a), title VII, §701(c)(1), Dec. 18, 2015, 129 Stat. 2912, 2929; Pub. L. 115–31, div. N, title III, §§303(a), 309(b), title IV, §§401(c), 402, May 5, 2017, 131 Stat. 810, 815, 818, 820.)
+(July 26, 1947, ch. 343, title I, §102A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3644; amended Pub. L. 111–258, §5(a), Oct. 7, 2010, 124 Stat. 2650; Pub. L. 111–259, title III, §§303, 304, 306, 307, 326, title IV, §§401, 402(a), title VIII, §804(2), Oct. 7, 2010, 124 Stat. 2658, 2659, 2661, 2662, 2683, 2708, 2747; Pub. L. 112–87, title III, §§304, 305, 311(d), Jan. 3, 2012, 125 Stat. 1880, 1881, 1886; Pub. L. 113–126, title III, §329(b)(2), title V, §§501, 502(a), July 7, 2014, 128 Stat. 1406, 1411, 1412; Pub. L. 114–113, div. M, title I, §105(a), title VII, §701(c)(1), Dec. 18, 2015, 129 Stat. 2912, 2929; Pub. L. 115–31, div. N, title III, §§303(a), 309(b), title IV, §§401(c), 402, May 5, 2017, 131 Stat. 810, 815, 818, 820; Pub. L. 116–92, div. E, title LIII, §5305, title LXVII, §6742(b)(1), Dec. 20, 2019, 133 Stat. 2122, 2239.)
 
 #### References in Text
 
@@ -558,6 +558,12 @@ Another prior section 102a of act July 26, 1947, ch. 343, title I, as added Pub.
 
 #### Amendments
 
+<b>2019</b>—Subsec. (g)(1)(G). Pub. L. 116–92, §6742(b)(1)(A), realigned margins.
+
+Subsec. (q)(1)(A). Pub. L. 116–92, §5305, inserted "security risks," after "schedule,".
+
+Subsec. (v)(3). Pub. L. 116–92, §6742(b)(1)(B), realigned margin.
+
 <b>2017</b>—Subsec. (f)(2). Pub. L. 115–31, §401(c), inserted ", the National Counterproliferation Center, and the National Counterintelligence and Security Center" after "National Counterterrorism Center".
 
 Subsec. (l)(3)(D). Pub. L. 115–31, §309(b), added subpar. (D).
@@ -570,7 +576,7 @@ Subsec. (z). Pub. L. 115–31, §402, added subsec. (z).
 
 Subsec. (v)(3), (4). Pub. L. 114–113, §105(a), added par. (3) and redesignated former par. (3) as (4).
 
-<b>2014</b>—Subsec. (g)(4). Pub. L. 113–126, §329(b)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Not later than February 1 of each year, the Director of National Intelligence shall submit to the President and to the Congress an annual report that identifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1)."
+<b>2014</b>—Subsec. (g)(4). Pub. L. 113–126, §329(b)(2), amended par. (4) generally. Prior to amendment, par. (4) readas follows: "Not later than February 1 of each year, the Director of National Intelligence shall submit to the President and to the Congress an annual report that identifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1)."
 
 Subsec. (j). Pub. L. 113–126, §501(1), substituted "classified information" for "sensitive compartmented information" in heading.
 
@@ -623,6 +629,326 @@ Pub. L. 113–126, title V, §502(b), July 7, 2014, 128 Stat. 1412, provided tha
 For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+
+#### Establishment of Fifth-Generation Technology Prize Competition
+
+Pub. L. 116–92, div. E, title LVII, §5723, Dec. 20, 2019, 133 Stat. 2177, provided that:
+
+"(a)
+
+Prize Competition.—Pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719), the Director of National Intelligence, acting through the Director of the Intelligence Advanced Research Projects Agency, shall carry out a program to award prizes competitively to stimulate research and development relevant to fifth-generation technology.
+
+"(b)
+
+Prize Amount.—In carrying out the program under subsection (a), the Director may award not more than a total of $5,000,000 to one or more winners of the prize competition.
+
+"(c)
+
+Consultation.—In carrying out the program under subsection (a), the Director may consult with the heads of relevant departments and agencies of the Federal Government.
+
+"(d)
+
+Fifth-generation Technology Defined.—In this section, the term 'fifth-generation technology' means hardware, software, or other technologies relating to fifth-generation wireless networks (known as '5G')."
+
+#### Establishment of Deepfakes Prize Competition
+
+Pub. L. 116–92, div. E, title LVII, §5724, Dec. 20, 2019, 133 Stat. 2177, provided that:
+
+"(a)
+
+Prize Competition.—Pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719), the Director of National Intelligence, acting through the Director of the Intelligence Advanced Research Projects Agency, shall carry out a program to award prizes competitively to stimulate the research, development, or commercialization of technologies to automatically detect machine-manipulated media.
+
+"(b)
+
+Prize Amount.—In carrying out the program under subsection (a), the Director may award not more than a total of $5,000,000 to one or more winners of the prize competition.
+
+"(c)
+
+Consultation.—In carrying out the program under subsection (a), the Director may consult with the heads of relevant departments and agencies of the Federal Government.
+
+"(d)
+
+Machine-Manipulated Media Defined.—In this section, the term 'machine-manipulated media' means video, image, or audio recordings generated or substantially modified using machine-learning techniques in order to falsely depict events, to falsely depict the speech or conduct of an individual, or to depict individuals who do not exist."
+
+#### Identification of and Countermeasures Against Certain International Mobile Subscriber Identity-Catchers
+
+Pub. L. 116–92, div. E, title LVII, §5725, Dec. 20, 2019, 133 Stat. 2178, provided that:
+
+"(a)
+
+In General.—The Director of National Intelligence and the Director of the Federal Bureau of Investigation, in collaboration with the Under Secretary of Homeland Security for Intelligence and Analysis, and the heads of such other Federal, State, or local agencies as the Directors determine appropriate, and in accordance with applicable law and policy, may—
+
+&emsp;"(1) undertake an effort to identify International Mobile Subscriber Identity-catchers operated within the United States by—
+
+&emsp;&emsp;"(A) hostile foreign governments; and
+
+&emsp;&emsp;"(B) individuals who have violated a criminal law of the United States or of any State, or who havecommitted acts that would be a criminal violation if committed within the jurisdiction of the United States or any State; and
+
+&emsp;"(2) when appropriate, develop countermeasures against such International Mobile Subscriber Identity-catchers, with prioritization given to such International Mobile Subscriber Identity-catchers identified in the National Capital Region.
+
+"(b)
+
+Briefing Required.—Prior to developing countermeasures under subsection (a)(2), the Director of National Intelligence and the Director of the Federal Bureau of Investigation shall provide a briefing to the appropriate congressional committees on—
+
+&emsp;"(1) the use of International Mobile Subscriber Identity-catchers operated within the United States by the individuals and governments described in subsection (a)(1);
+
+&emsp;"(2) potential countermeasures by the intelligence community against such International Mobile Subscriber Identity-catchers; and
+
+&emsp;"(3) any legal or policy limitations with respect to the development or carrying out of such countermeasures.
+
+"(c)
+
+Definitions.—
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the congressional intelligence committees;
+
+&emsp;&emsp;"(B) the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+&emsp;&emsp;"(C) the Committees on the Judiciary of the House of Representatives and the Senate.
+
+&emsp;"(2)
+
+International mobile subscriber identity-catcher.—The term 'International Mobile Subscriber Identity-catcher' means a device used for intercepting mobile phone identifying information and location data."
+
+\[For definitions of "intelligence community" and "congressional intelligence committees" as used in section 5725 of Pub. L. 116–92, set out above, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.\]
+
+#### Intelligence Community Information Technology Environment
+
+Pub. L. 116–92, div. E, title LXIII, §6312, Dec. 20, 2019, 133 Stat. 2191, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Core service.—The term 'core service' means a capability that is available to multiple elements of the intelligence community and required for consistent operation of the intelligence community information technology environment.
+
+&emsp;"(2)
+
+Intelligence community information technology environment.—The term 'intelligence community information technology environment' means all of the information technology services across the intelligence community, including the data sharing and protection environment across multiple classification domains.
+
+"(b)
+
+Roles and Responsibilities.—
+
+&emsp;"(1)
+
+Director of national intelligence.—The Director of National Intelligence shall be responsible for coordinating the performance by elements of the intelligence community of the intelligence community information technology environment, including each of the following:
+
+&emsp;&emsp;"(A) Ensuring compliance with all applicable environment rules and regulations of such environment.
+
+&emsp;&emsp;"(B) Ensuring measurable performance goals exist for such environment.
+
+&emsp;&emsp;"(C) Documenting standards and practices of such environment.
+
+&emsp;&emsp;"(D) Acting as an arbiter among elements of the intelligence community related to any disagreements arising out of the implementation of such environment.
+
+&emsp;&emsp;"(E) Delegating responsibilities to the elements of the intelligence community and carrying out such other responsibilities as are necessary for the effective implementation of such environment.
+
+&emsp;"(2)
+
+Core service providers.—Providers of core services shall be responsible for—
+
+&emsp;&emsp;"(A) providing core services, in coordination with the Director of National Intelligence; and
+
+&emsp;&emsp;"(B) providing the Director with information requested and required to fulfill the responsibilities of the Director under paragraph (1).
+
+&emsp;"(3)
+
+Use of core services.—
+
+&emsp;&emsp;"(A)
+
+In general.—Except as provided in subparagraph (B), each element of the intelligence community shall use core services when such services are available.
+
+&emsp;&emsp;"(B)
+
+Exception.—The Director of National Intelligence may provide for a written exception to the requirement under subparagraph (A) if the Director determines there is a compelling financial or mission need for such exception.
+
+"(c)
+
+Management Accountability.—Not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Director of National Intelligence shall designate and maintain one or more accountable executives of the intelligence community information technology environment to be responsible for—
+
+&emsp;"(1) management, financial control, and integration of such environment;
+
+&emsp;"(2) overseeing the performance of each core service, including establishing measurable service requirements and schedules;
+
+&emsp;"(3) to the degree feasible, ensuring testing of each core service of such environment, including testing by the intended users, to evaluate performance against measurable service requirements and to ensure the capability meets user requirements; and
+
+&emsp;"(4) coordinate transition or restructuring efforts of such environment, including phaseout of legacy systems.
+
+"(d)
+
+Security Plan.—Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall develop and maintain a security plan for the intelligence community information technology environment.
+
+"(e)
+
+Long-Term Roadmap.—Not later than 180 days after the date of the enactment of this Act, and during each of the second and fourth fiscal quarters thereafter, the Director of National Intelligence shall submit to the congressional intelligence committees a long-term roadmap that shall include each of the following:
+
+&emsp;"(1) A description of the minimum required and desired core service requirements, including—
+
+&emsp;&emsp;"(A) key performance parameters; and
+
+&emsp;&emsp;"(B) an assessment of current, measured performance.
+
+&emsp;"(2) Implementation milestones for the intelligence community information technology environment, including each of the following:
+
+&emsp;&emsp;"(A) A schedule for expected deliveries of core service capabilities during each of the following phases:
+
+&emsp;&emsp;&emsp;"(i) Concept refinement and technology maturity demonstration.
+
+&emsp;&emsp;&emsp;"(ii) Development, integration, and demonstration.
+
+&emsp;&emsp;&emsp;"(iii) Production, deployment, and sustainment.
+
+&emsp;&emsp;&emsp;"(iv) System retirement.
+
+&emsp;&emsp;"(B) Dependencies of such core service capabilities.
+
+&emsp;&emsp;"(C) Plans for the transition or restructuring necessary to incorporate core service capabilities.
+
+&emsp;&emsp;"(D) A description of any legacy systems and discontinued capabilities to be phased out.
+
+&emsp;"(3) Such other matters as the Director determines appropriate.
+
+"(f)
+
+Business Plan.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], and during each of the second and fourth fiscal quarters thereafter, the Director of National Intelligence shall submit to the congressional intelligence committees a business plan that includes each of the following:
+
+&emsp;"(1) A systematic approach to identify core service funding requests for the intelligence community information technology environment within the proposed budget, including multiyear plans to implement the long-term roadmap required by subsection (e).
+
+&emsp;"(2) A uniform approach by which each element of the intelligence community shall identify the cost of legacy information technology or alternative capabilities where services of the intelligence community information technology environment will also be available.
+
+&emsp;"(3) A uniform effort by which each element of the intelligence community shall identify transition and restructuring costs for new, existing, and retiring services of the intelligence community information technology environment, as well as services of such environment that have changed designations as a core service.
+
+"(g)
+
+Quarterly Presentations.—Beginning not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall provide to the congressional intelligence committees quarterly updates regarding ongoing implementation of the intelligence community information technology environment as compared to the requirements in the most recently submitted security plan required by subsection (d), long-term roadmap required by subsection (e), and business plan required by subsection (f).
+
+"(h)
+
+Additional Notifications.—The Director of National Intelligence shall provide timely notification to the congressional intelligence committees regarding any policy changes related to or affecting the intelligence community information technology environment, new initiatives or strategies related to or impacting such environment, and changes or deficiencies in the execution of the security plan required by subsection (d), long-term roadmap required by subsection (e), and business plan required by subsection (f).
+
+"(i)
+
+Sunset.—The section shall have no effect on or after September 30, 2024."
+
+\[For definitions of "intelligence community" and "congressional intelligence committees" as used in section 6312 of Pub. L. 116–92, set out above, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.\]
+
+#### Policy on Minimum Insider Threat Standards
+
+Pub. L. 116–92, div. E, title LXIII, §6314, Dec. 20, 2019, 133 Stat. 2194, provided that:
+
+"(a)
+
+Policy Required.—Not later than 60 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Director of National Intelligence shall establish a policy for minimum insider threat standards that is consistent with the National Insider Threat Policy and Minimum Standards for Executive Branch Insider Threat Programs.
+
+"(b)
+
+Implementation.—Not later than 180 days after the date of the enactment of this Act, the head of each element of the intelligence community shall implement the policy established under subsection (a)."
+
+\[For definition of "intelligence community" as used in section 6314 of Pub. L. 116–92, set out above, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.\]
+
+#### Reports and Briefings on National Security Effects of Global Water Insecurity and Emerging Infectious Disease and Pandemics
+
+Pub. L. 116–92, div. E, title LXVII, §6722, Dec. 20, 2019, 133 Stat. 2232, provided that:
+
+"(a)
+
+Global Water Insecurity.—
+
+&emsp;"(1)
+
+Report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Director of National Intelligence shall submit to the congressional intelligence committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report on the implications of water insecurity on the national security interests of the United States, including consideration of social, economic, agricultural, and environmental factors.
+
+&emsp;&emsp;"(B)
+
+Assessment scope and focus.—The report submitted under subparagraph (A) shall include an assessment of water insecurity described in such subsection with a global scope, but focus on areas of the world—
+
+&emsp;&emsp;&emsp;"(i) of strategic, economic, or humanitarian interest to the United States—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) that are, as of the date of the report, at the greatest risk of instability, conflict, human insecurity, or mass displacement; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) where challenges relating to water insecurity are likely to emerge and become significant during the 5-year or the 20-year period beginning on the date of the report; and
+
+&emsp;&emsp;&emsp;"(ii) where challenges relating to water insecurity are likely to imperil the national security interests of the United States or allies of the United States.
+
+&emsp;&emsp;"(C)
+
+Consultation.—In researching the report required by subparagraph (A), the Director shall consult with—
+
+&emsp;&emsp;&emsp;"(i) such stakeholders within the intelligence community, the Department of Defense, and the Department of State as the Director considers appropriate; and
+
+&emsp;&emsp;&emsp;"(ii) such additional Federal agencies and persons in the private sector as the Director considers appropriate.
+
+&emsp;&emsp;"(D)
+
+Form.—The report submitted under subparagraph (A) shall be submitted in unclassified form, but may include a classified annex.
+
+&emsp;"(2)
+
+Quinquennial briefings.—Beginning on the date that is 5 years after the date on which the Director submits the report under paragraph (1), and every 5 years thereafter, the Director shall provide to the committees specified in such paragraph a briefing that updates the matters contained in the report.
+
+"(b)
+
+Emerging Infectious Disease and Pandemics.—
+
+&emsp;"(1)
+
+Report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 120 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Director of National Intelligence shall submit to the appropriate congressional committees a report on the anticipated geopolitical effects of emerging infectious disease (including deliberate, accidental, and naturally occurring infectious disease threats) and pandemics, and their implications on the national security of the United States.
+
+&emsp;&emsp;"(B)
+
+Contents.—The report under subparagraph (A) shall include an assessment of—
+
+&emsp;&emsp;&emsp;"(i) the economic, social, political, and security risks, costs, and impacts of emerging infectious diseases on the United States and the international political and economic system;
+
+&emsp;&emsp;&emsp;"(ii) the economic, social, political, and security risks, costs, and impacts of a major transnational pandemic on the United States and the international political and economic system; and
+
+&emsp;&emsp;&emsp;"(iii) contributing trends and factors to the matters assessed under clauses (i) and (ii).
+
+&emsp;&emsp;"(C)
+
+Examination of response capacity.—In examining the risks, costs, and impacts of emerging infectious disease and a possible transnational pandemic under subparagraph (B), the Director of National Intelligence shall also examine in the report under subparagraph (A) the response capacity within affected countries and the international system. In considering response capacity, the Director shall include—
+
+&emsp;&emsp;&emsp;"(i) the ability of affected nations to effectively detect and manage emerging infectious diseases and a possible transnational pandemic;
+
+&emsp;&emsp;&emsp;"(ii) the role and capacity of international organizations and nongovernmental organizations to respond to emerging infectious disease and apossible pandemic, and their ability to coordinate with affected and donor nations; and
+
+&emsp;&emsp;&emsp;"(iii) the effectiveness of current international frameworks, agreements, and health systems to respond to emerging infectious diseases and a possible transnational pandemic.
+
+&emsp;"(2)
+
+Quinquennial briefings.—Beginning on the date that is 5 years after the date on which the Director submits the report under paragraph (1), and every 5 years thereafter, the Director shall provide to the congressional intelligence committees a briefing that updates the matters contained in the report.
+
+&emsp;"(3)
+
+Form.—The report under paragraph (1) and the briefings under paragraph (2) may be classified.
+
+&emsp;"(4)
+
+Appropriate congressional committees defined.—In this subsection, the term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the congressional intelligence committees;
+
+&emsp;&emsp;"(B) the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Energy and Commerce, and the Committee on Appropriations of the House of Representatives; and
+
+&emsp;&emsp;"(C) the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate."
+
+\[For definitions of "congressional intelligence committees" and "intelligence community" as used in section 6722 of Pub. L. 116–92, set out above, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.\]
 
 #### Limitation on Activities of Employees of an Office of Inspector General
 
@@ -716,7 +1042,7 @@ Report.—Not later than December 1, 2011, the Director of National Intelligence
 
 Information Resources Defined.—In this section, the term 'information resources' means networks, systems, workstations, servers, routers, applications, databases, websites, online collaboration environments, and any other information resources in an element of the intelligence community designated by the Director of National Intelligence."
 
-\[For definitions of "intelligence community" and "congressional intelligence committees" as used in section 402 of Pub. L. 112–18, set out above, see section 2 of Pub. L. 112–18, set out below.\]
+\[For definitions of "intelligence community" and "congressional intelligence committees" as used in section 402 of Pub. L. 112–18, set out above, see section 2 of Pub. L. 112–18, set out as a note under section 3003 of this title.\]
 
 #### Joint Procedures for Operational Coordination Between Department of Defense and Central Intelligence Agency
 
@@ -744,7 +1070,7 @@ Pub. L. 108–458, title I, §1017, Dec. 17, 2004, 118 Stat. 3670, provided that
 
 "(a)
 
-In General.—Not later than 180 days after the effective date of this Act \[probably means the effectivedate of title I of Pub. L. 108–458, see Effective Date of 2004 Amendment; Transition Provisions note set out under section 3001 of this title\], the Director of National Intelligence shall establish a process and assign an individual or entity the responsibility for ensuring that, as appropriate, elements of the intelligence community conduct alternative analysis (commonly referred to as 'red-team analysis') of the information and conclusions in intelligence products.
+In General.—Not later than 180 days after the effective date of this Act \[probably means the effective date of title I of Pub. L. 108–458, see Effective Date of 2004 Amendment; Transition Provisions note set out under section 3001 of this title\], the Director of National Intelligence shall establish a process and assign an individual or entity the responsibility for ensuring that, as appropriate, elements of the intelligence community conduct alternative analysis (commonly referred to as 'red-team analysis') of the information and conclusions in intelligence products.
 
 "(b)
 
@@ -804,7 +1130,7 @@ Survey of Current Standards.—
 
 &emsp;"(1)
 
-Survey.—The Director of Central Intelligence shall carry out a survey of current standards for the spelling of foreign names and places, and the use of geographic coordinates for such places, among the elements of the intelligence community.
+Survey.—The Director of Central Intelligence shall carry out a survey of current standards for thespelling of foreign names and places, and the use of geographic coordinates for such places, among the elements of the intelligence community.
 
 &emsp;"(2)
 
@@ -889,22 +1215,6 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this memorandum shall be const
 (d) The DNI is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Definitions
-
-Pub. L. 112–18, §2, June 8, 2011, 125 Stat. 224, provided that: "In this Act \[see Tables for classification\]:
-
-&emsp;"(1)
-
-Congressional intelligence committees.—The term 'congressional intelligence committees' means—
-
-&emsp;&emsp;"(A) the Select Committee on Intelligence of the Senate; and
-
-&emsp;&emsp;"(B) the Permanent Select Committee on Intelligence of the House of Representatives.
-
-&emsp;"(2)
-
-Intelligence community.—The term 'intelligence community' has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)) \[now 50 U.S.C. 3003(4)\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

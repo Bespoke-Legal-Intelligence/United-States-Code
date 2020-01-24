@@ -10,7 +10,7 @@ For purposes of this section, the term "eligible entity" means an entity describ
 
 #### (c) Application
 
-An eligible entity desiring to receive an award under this section shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+An eligible entity desiring to receive an award under this section shall submit to the Secretary an application at such time, in such manner,and containing such information as the Secretary may require.
 
 #### (d) Use of funds
 

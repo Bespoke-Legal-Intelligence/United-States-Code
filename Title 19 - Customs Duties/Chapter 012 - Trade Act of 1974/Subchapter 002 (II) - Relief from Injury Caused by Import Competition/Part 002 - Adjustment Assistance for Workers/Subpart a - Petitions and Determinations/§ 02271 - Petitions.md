@@ -22,7 +22,7 @@
 
 If the petitioner, or any other person found by the Secretary to have a substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary's publication under subsection (a) a request for a hearing, the Secretary shall provide for a public hearing and afford such interested persons an opportunity to be present, to produce evidence, and to be heard.
 
-(Pub. L. 93–618, title II, §221, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(a), Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(4), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1801(e)(1), Feb. 17, 2009, 123 Stat. 370; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 113–128, title V, §512(hh)(1), July 22, 2014, 128 Stat. 1720; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §221, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(a), Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(4),Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1801(e)(1), Feb. 17, 2009, 123 Stat. 370; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 113–128, title V, §512(hh)(1), July 22, 2014, 128 Stat. 1720; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
@@ -248,7 +248,7 @@ Firm described.—A firm described in this subparagraph is a firm that the Secre
 
 &emsp;&emsp;&emsp;"(i) the firm or its representative had filed a petition for a certification of eligibility under section 251 of the Trade Act of 1974 on a date during the period beginning on January 1, 2014, and ending on the day before the date of the enactment of this Act; and
 
-&emsp;&emsp;&emsp;"(ii) the provisions of chapter 3 of title II of the Trade Act of 1974 \[part 3 of this subchapter\], as ineffect on such date of enactment, had been in effect on that date during the period described in clause (i)."
+&emsp;&emsp;&emsp;"(ii) the provisions of chapter 3 of title II of the Trade Act of 1974 \[part 3 of this subchapter\], as in effect on such date of enactment, had been in effect on that date during the period described in clause (i)."
 
 Pub. L. 112–40, title II, §231, Oct. 21, 2011, 125 Stat. 413, provided that:
 
@@ -350,7 +350,7 @@ Certification of firms that did not submit petitions between february 13, 2011, 
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary of Commerce shall certify a firm described in subparagraph (B) as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 \[19 U.S.C. 2341\], as in effect on the date of the enactment of this Act \[Oct. 21, 2011\], if the firm or its representative files a petition for a certification of eligibility undersection 251 of the Trade Act of 1974 not later than 90 days after such date of enactment.
+In general.—The Secretary of Commerce shall certify a firm described in subparagraph (B) as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 \[19 U.S.C. 2341\], as in effect on the date of the enactment of this Act \[Oct. 21, 2011\], if the firm or its representative files a petition for a certification of eligibility under section 251 of the Trade Act of 1974 not later than 90 days after such date of enactment.
 
 &emsp;&emsp;"(B)
 

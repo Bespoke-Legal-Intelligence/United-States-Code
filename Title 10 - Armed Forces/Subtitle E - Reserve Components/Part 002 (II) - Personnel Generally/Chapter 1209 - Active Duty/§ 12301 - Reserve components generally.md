@@ -2,13 +2,13 @@
 
 (a) In time of war or of national emergency declared by Congress, or when otherwise authorized by law, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, of a reserve component under the jurisdiction of that Secretary to active duty for the duration of the war or emergency and for six months thereafter. However a member on an inactive status list or in a retired status may not be ordered to active duty under this subsection unless the Secretary concerned, with the approval of the Secretary of Defense in the case of the Secretary of a military department, determines that there are not enough qualified Reserves in an active status or in the inactive National Guard in the required category who are readily available.
 
-(b) At any time, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, in an active status in a reserve component under the jurisdiction of that Secretary to active duty for not more than 15 days a year. However, units and members of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor of the State (or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard).
+(b) At any time, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, andany member not assigned to a unit organized to serve as a unit, in an active status in a reserve component under the jurisdiction of that Secretary to active duty for not more than 15 days a year. However, units and members of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor of the State (or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard).
 
 (c) So far as practicable, during any expansion of the active armed forces that requires that units and members of the reserve components be ordered to active duty as provided in subsection (a), members of units organized and trained to serve as units who are ordered to that duty without their consent shall be so ordered with their units. However, members of those units may be reassigned after being so ordered to active duty.
 
 (d) At any time, an authority designated by the Secretary concerned may order a member of a reserve component under his jurisdiction to active duty, or retain him on active duty, with the consent of that member. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor or other appropriate authority of the State concerned.
 
-(e) The period of time allowed between the date when a Reserve ordered to active duty asprovided in subsection (a) is alerted for that duty and the date when the Reserve is required to enter upon that duty shall be determined by the Secretary concerned based upon military requirements at that time.
+(e) The period of time allowed between the date when a Reserve ordered to active duty as provided in subsection (a) is alerted for that duty and the date when the Reserve is required to enter upon that duty shall be determined by the Secretary concerned based upon military requirements at that time.
 
 (f) The consent of a Governor described in subsections (b) and (d) may not be withheld (in whole or in part) with regard to active duty outside the United States, its territories, and its possessions, because of any objection to the location, purpose, type, or schedule of such active duty.
 
@@ -72,7 +72,7 @@ In subsection (b), the words "without the consent of the persons affected" are s
 
 In subsections (b) and (d), the words "active duty for training" are omitted as covered by the words "active duty".
 
-In subsection (c), the words "to active duty" are substituted for the words "into the active military service of the United States", in 50:961(g) (1st and last sentences). The words "to serve" are substituted for the words "for the purpose of serving". The words "without their consent" are substituted for the word "involuntarily". The words "to that duty" are substituted for the words "into active duty". The last sentence of the revised subsection is substituted for 50:961(g) (last sentence).
+In subsection (c), the words "to active duty" are substituted for the words "into the active military service of the United States", in 50:961(g) (1st and last sentences). The words "to serve" are substituted for the words "for the purpose of serving". The words "without their consent" are substituted for the word "involuntarily". The words "to that duty" are substituted forthe words "into active duty". The last sentence of the revised subsection is substituted for 50:961(g) (last sentence).
 
 In subsection (d), the words "the consent of that member" are substituted for the words "his consent". The words "under his jurisdiction" are inserted for clarity. 50:962 (last 15 words of 1st sentence) is omitted as covered by 50:961(d).
 
@@ -210,7 +210,7 @@ Pub. L. 110–181, div. A, title V, §515, Jan. 28, 2008, 122 Stat. 99, provided
 
 "(a)
 
-Advance Notice Required.—The Secretary of a military department shall ensure that a member of a reserve component under the jurisdiction of that Secretary who will be called or ordered to active duty for a period of more than 30 days in support of a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) receives notice in advance of the mobilization date. In so far as is practicable, the notice shall be provided not less than 30 days before themobilization date, but with a goal of 90 days before the mobilization date.
+Advance Notice Required.—The Secretary of a military department shall ensure that a member of a reserve component under the jurisdiction of that Secretary who will be called or ordered to active duty for a period of more than 30 days in support of a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) receives notice in advance of the mobilization date. In so far as is practicable, the notice shall be provided not less than 30 days before the mobilization date, but with a goal of 90 days before the mobilization date.
 
 "(b)
 

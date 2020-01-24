@@ -4,7 +4,7 @@
 
 In General.—Except as provided in this section, the period during which an individual entitled to educational assistance under this chapter may use such individual's entitlement—
 
-&emsp;(1) in the case of an individual whose last discharge or release from active duty is before January,<sup>1</sup> 1, 2013, expires at the end of the 15-year period beginning on the date of such discharge or release; or
+&emsp;(1) in the case of an individual whose last discharge or release from active duty is before January 1, 2013, expires at the end of the 15-year period beginning on the date of such discharge or release; or
 
 &emsp;(2) in the case of an individual whose last discharge or release from active duty is on or after January 1, 2013, shall not expire.
 
@@ -22,7 +22,7 @@ Applicability of section 3031 to termination.—Section 3031(f) shall apply with
 
 &emsp;(3)
 
-Determination of last discharge or release.—For purposes of subsection (a), an individual's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90days of continuous service, unless the individual is discharged or released as described in section 3311(b)(2).
+Determination of last discharge or release.—For purposes of subsection (a), an individual's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service, unless the individual is discharged or released as described in section 3311(b)(2).
 
 &emsp;(4)
 
@@ -40,13 +40,15 @@ Applicability to spouses of deceased members.—The period during which a spouse
 
 &emsp;&emsp;(B) in the case of a spouse who first becomes entitled to such entitlement on or after January 1, 2013, shall not expire.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–32, title X, §1002(c), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(8), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 113–146, title VII, §701(c), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 115–48, title I, §§105(c)(5), 112, Aug. 16, 2017, 131 Stat. 976, 984.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–32, title X, §1002(c), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(8), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 113–146, title VII, §701(c), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 115–48, title I, §§105(c)(5), 112, Aug. 16, 2017, 131 Stat. 976, 984; Pub. L. 116–61, §6(4), Sept. 30, 2019, 133 Stat. 1117.)
 
 #### Amendment of Subsection (b)(4)
 
 <i>Pub. L. 115–48, title I, §105(c)(5), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective Aug. 1, 2020, subsection (b)(4) of this section is amended by striking "section 3311(b)(9)" and inserting "section 3311(b)(8)". See 2017 Amendment note below.</i>
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(1). Pub. L. 116–61 substituted "January" for "January,".
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–48, §112(a), substituted "individual's entitlement—" for "individual's entitlement expires at the end of the 15-year period beginning on the date of such individual's last discharge or release from active duty." and added pars. (1) and (2).
 
@@ -77,6 +79,4 @@ Amendment by Pub. L. 111–32 effective Aug. 1, 2009, see section 1002(d)(1) of 
 #### Effective Date
 
 Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

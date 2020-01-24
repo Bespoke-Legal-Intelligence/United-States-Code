@@ -44,7 +44,7 @@ Aug. 8, 1946, ch. 865, 60 Stat. 903.
 
 Sept. 23, 1950, ch. 1010, §8, 64 Stat. 986.
 
-In subsection (a), the words "agency of the Government of the United States" are coextensive with andsubstituted for "departments and agencies including Government-owned and controlled corporations" to avoid confusion with the definitions in sections 101–105.
+In subsection (a), the words "agency of the Government of the United States" are coextensive with and substituted for "departments and agencies including Government-owned and controlled corporations" to avoid confusion with the definitions in sections 101–105.
 
 In subsection (d) the word "appropriate" in the phrase "appropriate comment and recommendations" is omitted as unnecessary. The words "to the head of the agency concerned" are added for clarity.
 

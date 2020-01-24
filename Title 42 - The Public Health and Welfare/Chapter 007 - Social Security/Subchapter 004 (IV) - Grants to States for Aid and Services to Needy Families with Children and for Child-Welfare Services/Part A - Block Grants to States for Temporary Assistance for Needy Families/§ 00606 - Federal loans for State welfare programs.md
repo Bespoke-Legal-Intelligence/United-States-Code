@@ -12,7 +12,7 @@
 
 #### (b) Rate of interest
 
-The Secretary shall charge and collect interest on any loan made under this section at a rate equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the period to maturity of the loan.
+The Secretary shall charge and collect interest on any loan made under this section at arate equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the period to maturity of the loan.
 
 #### (c) Use of loan
 

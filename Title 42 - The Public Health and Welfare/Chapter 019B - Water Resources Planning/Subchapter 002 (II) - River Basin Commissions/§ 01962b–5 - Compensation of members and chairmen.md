@@ -6,7 +6,7 @@ Any member of a river basin commission appointed pursuant to section 1962b–1(b
 
 #### (b) Compensation of members from States and interstate agencies
 
-Members of a commission, appointed pursuant to section 1962b–1(c) and (d) of this title, shalleach receive such compensation as may be provided by the States or the interstate agency respectively, which they represent.
+Members of a commission, appointed pursuant to section 1962b–1(c) and (d) of this title, shall each receive such compensation as may be provided by the States or the interstate agency respectively, which they represent.
 
 #### (c) Compensation of chairman
 

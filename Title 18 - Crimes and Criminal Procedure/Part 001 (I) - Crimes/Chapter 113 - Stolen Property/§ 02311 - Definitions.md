@@ -66,7 +66,7 @@ Pub. L. 105–147, §1, Dec. 16, 1997, 111 Stat. 2678, provided that: "This Act 
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–153, §1, July 2, 1996, 110 Stat. 1386, provided that: "This Act \[amending sections 1961, 2318, and 2320 of this title, sections 1116 and 1117 of Title 15, Commerce and Trade, section 603 of Title 17, Copyrights, sections 1431, 1484, and 1526 of Title 19, Customs Duties, and section 80302 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 1431 of Title 19\] may be cited as the 'Anticounterfeiting Consumer Protection Act of 1996'."
+Pub. L. 104–153, §1, July 2, 1996, 110 Stat. 1386, provided that: "This Act \[amending sections 1961, 2318, and2320 of this title, sections 1116 and 1117 of Title 15, Commerce and Trade, section 603 of Title 17, Copyrights, sections 1431, 1484, and 1526 of Title 19, Customs Duties, and section 80302 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 1431 of Title 19\] may be cited as the 'Anticounterfeiting Consumer Protection Act of 1996'."
 
 #### Short Title of 1992 Amendment
 

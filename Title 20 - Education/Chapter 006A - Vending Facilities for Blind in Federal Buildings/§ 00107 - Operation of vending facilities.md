@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-For the purposes of providing blind persons with remunerative employment, enlarging theeconomic opportunities of the blind, and stimulating the blind to greater efforts in striving to make themselves self-supporting, blind persons licensed under the provisions of this chapter shall be authorized to operate vending facilities on any Federal property.
+For the purposes of providing blind persons with remunerative employment, enlarging the economic opportunities of the blind, and stimulating the blind to greater efforts in striving to make themselves self-supporting, blind persons licensed under the provisions of this chapter shall be authorized to operate vending facilities on any Federal property.
 
 #### (b) Preferences regulations; justification for limitation on operation
 
@@ -12,7 +12,7 @@ In authorizing the operation of vending facilities on Federal property, priority
 
 &emsp;(2) wherever feasible, one or more vending facilities are established on all Federal property to the extent that any such facility or facilities would not adversely affect the interests of the United States.
 
-> Any limitation on the placement or operation of a vending facility based on a finding that such placement or operation would adversely affect the interests of the United States shall be fully justified in writing to the Secretary, who shall determine whether such limitation is justified. A determination made by the Secretary pursuant to this provision shall be binding on any department, agency, or instrumentality of the United States affected by such determination. The Secretary shall publish such determination, along with supporting documentation, in the Federal Register.
+> Any limitation on the placement or operation of a vending facility based on a finding that such placement or operation would adversely affect the interests of the United States shall be fully justified in writing to the Secretary, who shall determine whether such limitation is justified. A determination made by the Secretary pursuant to this provision shall be binding on any department, agency, or instrumentality of theUnited States affected by such determination. The Secretary shall publish such determination, along with supporting documentation, in the Federal Register.
 
 (June 20, 1936, ch. 638, §1, 49 Stat. 1559; Aug. 3, 1954, ch. 655, §4(a), 68 Stat. 663; Pub. L. 93–516, title II, §202, Dec. 7, 1974, 88 Stat. 1623; Pub. L. 93–651, title II, §202, Nov. 21, 1974, 89 Stat. 2–8.)
 
@@ -56,7 +56,7 @@ Pub. L. 93–516, title II, §201, Dec. 7, 1974, 88 Stat. 1622, provided that: "
 
 &emsp;"(1) after review of the operation of the blind vending stand program authorized under the Randolph-Sheppard Act of June 20, 1936 \[this chapter\], that the program has not developed, and has not been sustained, in the manner and spirit in which the Congress intended at the time of its enactment, and that, in fact, the growth of the program has been inhibited by a number of external forces;
 
-&emsp;"(2) that the potential exists for doubling the number of blind operators on Federal and other property under the Randolph-Sheppard program within thenext five years, provided the obstacles to growth are removed, that legislative and administrative means exist to remove such obstacles, and that Congress should adopt legislation to that end; and
+&emsp;"(2) that the potential exists for doubling the number of blind operators on Federal and other property under the Randolph-Sheppard program within the next five years, provided the obstacles to growth are removed, that legislative and administrative means exist to remove such obstacles, and that Congress should adopt legislation to that end; and
 
 &emsp;"(3) that at a minimum the following actions must be taken to insure the continued vitality and expansion of the Randolph-Sheppard program—
 

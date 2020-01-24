@@ -72,7 +72,7 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;&emsp;&emsp;(i) any bank (as defined by section 2(c) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)), without regard to subparagraphs (C) and (G) of paragraph (2) of such section), or
 
-&emsp;&emsp;&emsp;(ii) any corporation not described in clause (i) with respect to which a bank holding company (as defined by section 2(a) of such Act) or financial holding company (as defined by section 2(p) of such Act) owns directly or indirectly more than 80 percent by vote or value of the stock of such corporation;
+&emsp;&emsp;&emsp;(ii) any corporation not described in clause (i) with respect to which a bank holding company (as defined by section 2(a) of such Act) or financial holding company (as defined by section 2(p) of suchAct) owns directly or indirectly more than 80 percent by vote or value of the stock of such corporation;
 
 &emsp;&emsp;(B) property located in the United States which is purchased in the United States for export to, or use in, foreign countries;
 
@@ -206,7 +206,7 @@ Amendment by section 801(d)(8) of Pub. L. 98–369 applicable to transactions af
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title X, §1021(c), Oct. 4, 1976, 90 Stat. 1619, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section and section 958 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) within which or with which such taxable years of such foreign corporations end. In determining for purposes of any taxable year referred to in the preceding sentence the amount referred to in section 956(a)(2)(A) of the Internal Revenue Code of 1986 for the last taxable year of a corporation beginning before January 1, 1976, the amendments made by this section shall be deemed also to apply to such last taxable year."
+Pub. L. 94–455, title X, §1021(c), Oct. 4, 1976, 90 Stat. 1619, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section and section 958 ofthis title\] shall apply to taxable years of foreign corporations beginning after December 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) within which or with which such taxable years of such foreign corporations end. In determining for purposes of any taxable year referred to in the preceding sentence the amount referred to in section 956(a)(2)(A) of the Internal Revenue Code of 1986 for the last taxable year of a corporation beginning before January 1, 1976, the amendments made by this section shall be deemed also to apply to such last taxable year."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

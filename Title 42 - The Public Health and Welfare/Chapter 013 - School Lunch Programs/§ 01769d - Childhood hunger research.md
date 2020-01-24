@@ -60,7 +60,7 @@
 
 #### (B) Receipt and acceptance
 
-&emsp;&emsp;The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds transferred under subparagraph (A), without further appropriation.
+&emsp;&emsp;The Secretary shall be entitled to receive, shall accept, and shall use to carry out thissubsection the funds transferred under subparagraph (A), without further appropriation.
 
 #### (b) Demonstration projects to end childhood hunger
 
@@ -214,7 +214,7 @@ The Food and Nutrition Act of 2008, referred to in subsec. (b)(1)(B), (7)(D)(iv)
 
 The Child Nutrition Act of 1966, referred to in subsec. (b)(3)(B), (7)(D)(iv)(II), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
-The Emergency Food Assistance Act of 1983, referred to in subsec. (b)(7)(D)(iv)(IV), is title II of Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 35, which is classified principally to chapter 102 (§7501 et seq.) of Title 7, Agriculture. Forcomplete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 7 and Tables.
+The Emergency Food Assistance Act of 1983, referred to in subsec. (b)(7)(D)(iv)(IV), is title II of Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 35, which is classified principally to chapter 102 (§7501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 7 and Tables.
 
 #### Prior Provisions
 

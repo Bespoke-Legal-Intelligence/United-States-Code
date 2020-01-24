@@ -8,7 +8,7 @@ Rounding.—Amounts computed under this chapter, if not a multiple of $1, shall 
 
 Payment Date.—Amounts of retired pay and retainer pay due a retired member of the uniformed services shall be paid on the first day of each month beginning after the month in which the right to such pay accrues.
 
-(Added Pub. L. 99–348, title I, §105, July 1, 1986, 100 Stat. 691; amended Pub. L. 111–383, div. A, title VI, §632(a), (b)(1), Jan. 7, 2011, 124 Stat. 4240.)
+(Added Pub. L. 99–348, title I, §105, July 1, 1986, 100 Stat. 691; amended Pub. L. 111–383, div. A,title VI, §632(a), (b)(1), Jan. 7, 2011, 124 Stat. 4240.)
 
 #### Amendments
 

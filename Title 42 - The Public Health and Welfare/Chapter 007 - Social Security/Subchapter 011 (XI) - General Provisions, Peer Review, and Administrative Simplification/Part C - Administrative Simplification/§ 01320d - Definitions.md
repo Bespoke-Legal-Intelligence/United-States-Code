@@ -4,7 +4,7 @@ For purposes of this part:
 
 #### (1) Code set
 
-&emsp;The term "code set" means any set of codes used for encoding data elements, such as tables of terms, medical concepts, medical diagnostic codes, or medical procedure codes.
+&emsp;The term "code set" means any set of codes used for encoding data elements, such astables of terms, medical concepts, medical diagnostic codes, or medical procedure codes.
 
 #### (2) Health care clearinghouse
 
@@ -12,7 +12,7 @@ For purposes of this part:
 
 #### (3) Health care provider
 
-&emsp;The term "health care provider" includes a provider of services (as defined in section 1395x(u) of this title), a provider of medical or other health services (as defined in section1395x(s) of this title), and any other person furnishing health care services or supplies.
+&emsp;The term "health care provider" includes a provider of services (as defined in section 1395x(u) of this title), a provider of medical or other health services (as defined in section 1395x(s) of this title), and any other person furnishing health care services or supplies.
 
 #### (4) Health information
 
@@ -84,7 +84,7 @@ For purposes of this part:
 
 #### References in Text
 
-The Indian Health Care Improvement Act, referred to in par. (5)(L), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in par. (5)(L), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat.1400, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 #### Prior Provisions
 

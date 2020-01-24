@@ -16,7 +16,7 @@ The Secretary is authorized to provide assistance to private nonprofit organizat
 
 #### (1) Capital advances
 
-&emsp;A capital advance provided under this section shall bear no interest and its repayment shall not be required so long as the housing remains available for very low-income elderly persons in accordance with this section. Such advance shall be in an amount calculated in accordance with the development cost limitation established in subsection (h).
+&emsp;A capital advance provided under this section shall bear no interest and its repaymentshall not be required so long as the housing remains available for very low-income elderly persons in accordance with this section. Such advance shall be in an amount calculated in accordance with the development cost limitation established in subsection (h).
 
 #### (2) Project rental assistance
 
@@ -108,7 +108,7 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 #### (1) In general
 
-&emsp;In carrying out the provisions of this section, the Secretary shall ensure that housingassisted under this section provides a range of services tailored to the needs of the category or categories of elderly persons (including frail elderly persons) occupying such housing. Such services may include (A) meal service adequate to meet nutritional need; (B) housekeeping aid; (C) personal assistance; (D) transportation services; (E) health-related services; (F) providing education and outreach regarding telemarketing fraud, in accordance with the standards issued under section 671(f) of the Housing and Community Development Act of 1992 (42 U.S.C. 13631(f)); and (G) such other services as the Secretary deems essential for maintaining independent living. The Secretary may permit the provision of services to elderly persons who are not residents if the participation of such persons will not adversely affect the cost-effectiveness or operation of the program or add significantly to the need for assistance under this Act.
+&emsp;In carrying out the provisions of this section, the Secretary shall ensure that housing assisted under this section provides a range of services tailored to the needs of the category or categories of elderly persons (including frail elderly persons) occupying such housing. Such services may include (A) meal service adequate to meet nutritional need; (B) housekeeping aid; (C) personal assistance; (D) transportation services; (E) health-related services; (F) providing education and outreach regarding telemarketing fraud, in accordance with the standards issued under section 671(f) of the Housing and Community Development Act of 1992 (42 U.S.C. 13631(f)); and (G) such other services as the Secretary deems essential for maintaining independent living. The Secretary may permit the provision of services to elderly persons who are not residents if the participation of such persons will not adversely affect the cost-effectiveness or operation of the program or add significantly to the need for assistance under this Act.
 
 #### (2) Local coordination of services
 
@@ -268,7 +268,7 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 &emsp;&emsp;(ii) which has a governing board—
 
-&emsp;&emsp;&emsp;(I) the membership of which is selected in a manner to assure that there is significant representation of the views of the community in which such housing is located; and
+&emsp;&emsp;&emsp;(I) the membership of which is selected in a manner to assure that there is significant representation of the views of thecommunity in which such housing is located; and
 
 &emsp;&emsp;&emsp;(II) which is responsible for the operation of the housing assisted under this section, except that, in the case of a nonprofit organization that is the sponsoring organization of multiple housing projects assisted under this section, the Secretary may determine the criteria or conditions under which financial, compliance and other administrative responsibilities exercised by a single-entity private nonprofit organization that is the owner corporation responsible for the operation of an individual housing project may be shared or transferred to the governing board of such sponsoring organization; and
 
@@ -302,7 +302,7 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 #### (3) Nonmetropolitan allocation
 
-&emsp;Not less than 15 percent of the funds made available for assistance under this sectionshall be allocated by the Secretary on a national basis for nonmetropolitan areas. In complying with this paragraph, the Secretary shall either operate a national competition for the nonmetropolitan funds or make allocations to regional offices of the Department of Housing and Urban Development.
+&emsp;Not less than 15 percent of the funds made available for assistance under this section shall be allocated by the Secretary on a national basis for nonmetropolitan areas. In complying with this paragraph, the Secretary shall either operate a national competition for the nonmetropolitan funds or make allocations to regional offices of the Department of Housing and Urban Development.
 
 #### (m) Authorization of appropriations
 
@@ -318,7 +318,7 @@ There are authorized to be appropriated for providing assistance under this sect
 
 This Act, referred to in subsec. (g)(1), is Pub. L. 86–372, Sept. 23, 1959, 73 Stat. 654, as amended, known as the Housing Act of 1959. For complete classification of this Act to the Code, see Short Title of 1959 Amendment note set out under section 1701 of this title and Tables.
 
-The Housing and Community Development Act of 1992, referred to in subsecs. (i)(1) and (j)(7), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672. Subtitle C of title VI of the Act is classified generally to subchapter I (§13601 et seq.) of chapter 135 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42 and Tables.
+The Housing and Community Development Act of 1992, referred to in subsecs. (i)(1) and (j)(7), is Pub. L.102–550, Oct. 28, 1992, 106 Stat. 3672. Subtitle C of title VI of the Act is classified generally to subchapter I (§13601 et seq.) of chapter 135 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
@@ -580,7 +580,7 @@ Subsec. (d)(8). Pub. L. 87–723, §3(b)(3), redesignated subsec. (d)(8)(A) as e
 
 Subsec. (a)(2). Pub. L. 87–70, §201(a)(2), authorized loans to consumer cooperatives and to public bodies or agencies, and prohibited loans to public bodies or agencies unless they certify that they are not receiving financial assistance exclusively pursuant to the United States Housing Act of 1937.
 
-Subsec. (a)(3). Pub. L. 87–70, §201(a)(3), (b), substituted "loan under this section" for "loan to a corporationunder this section", and "may be in an amount not exceeding the total development cost" for "may be in an amount not exceeding 98 per centum of the total development cost".
+Subsec. (a)(3). Pub. L. 87–70, §201(a)(3), (b), substituted "loan under this section" for "loan to a corporation under this section", and "may be in an amount not exceeding the total development cost" for "may be in an amount not exceeding 98 per centum of the total development cost".
 
 Subsec. (a)(4). Pub. L. 87–70, §201(c), increased amount authorized to be appropriated from $50,000,000 to $125,000,000, and struck out provisions which limited the amount outstanding at any one time for related facilities to not more than $5,000,000.
 
@@ -622,7 +622,7 @@ Amendment by section 1604(c)(3) of Pub. L. 102–550 effective as if included in
 
 Pub. L. 101–625, title VIII, §801(c), Nov. 28, 1990, 104 Stat. 4304, provided that: "The amendments made by this section \[amending this section and section 1439 of Title 42, The Public Health and Welfare\] shall take effect on October 1, 1991, with respect to projects approved on or after such date. The Secretary shall issue regulations for such purpose after notice and an opportunity for public comment in accordance with section 553 of title 5, United States Code. Regulations shall be issued for comment not later than 180 days after the date of enactment of this Act \[Nov. 28, 1990\]."
 
-Amendment by section 955(c) of Pub. L. 101–625 applicable to any volunteer services provided before, on, or after Nov. 28, 1990, except that such amendment may not be construed to require repayment of any wages paid before Nov. 28, 1990, for services provided before such date, see section 955(d) of Pub. L. 101–625, set out as a note under section 1437j of Title 42.
+Amendment by section 955(c) of Pub. L. 101–625 applicable to any volunteer services provided before, on, orafter Nov. 28, 1990, except that such amendment may not be construed to require repayment of any wages paid before Nov. 28, 1990, for services provided before such date, see section 955(d) of Pub. L. 101–625, set out as a note under section 1437j of Title 42.
 
 Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1358, provided that sections 801, 802, and 811 of Pub. L. 101–625 \[enacting sections 8011 and 8013 of Title 42, amending this section and sections 1437g and 1439 of Title 42, and enacting provisions set out as notes under this section\] are deemed enacted as of the date of enactment of Pub. L. 101–507, which was approved Nov. 5, 1990.
 
@@ -652,7 +652,7 @@ Pub. L. 87–723, §3(b), Sept. 28, 1962, 76 Stat. 670, provided that the amendm
 
 #### Regulations
 
-Pub. L. 106–74, title V, §502, Oct. 20, 1999, 113 Stat. 1101, provided that: "The Secretary of Housing and Urban Development shall issue any regulations tocarry out this title \[see Short Title of 1999 Amendment note set out under section 1701 of this title\] and the amendments made by this title that the Secretary determines may or will affect tenants of federally assisted housing only after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). Notice of such proposed rulemaking shall be provided by publication in the Federal Register. In issuing such regulations, the Secretary shall take such actions as may be necessary to ensure that such tenants are notified of, and provided an opportunity to participate in, the rulemaking, as required by such section 553."
+Pub. L. 106–74, title V, §502, Oct. 20, 1999, 113 Stat. 1101, provided that: "The Secretary of Housing and Urban Development shall issue any regulations to carry out this title \[see Short Title of 1999 Amendment note set out under section 1701 of this title\] and the amendments made by this title that the Secretary determines may or will affect tenants of federally assisted housing only after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). Notice of such proposed rulemaking shall be provided by publication in the Federal Register. In issuing such regulations, the Secretary shall take such actions as may be necessary to ensure that such tenants are notified of, and provided an opportunity to participate in, the rulemaking, as required by such section 553."
 
 #### Rental Assistance Contract Obligations
 
@@ -846,7 +846,7 @@ Pub. L. 106–569, title VIII, §811, Dec. 27, 2000, 114 Stat. 3019, as amended 
 
 Approval of Prepayment of Debt.—Upon request of the project sponsor of a project assisted with a loan under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\](as in effect before the enactment of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, which was approved Nov. 28, 1990\]), for which the Secretary's consent to prepayment is required,, \[sic\] the Secretary shall approve the prepayment of any indebtedness to the Secretary relating to any remaining principal and interest under the loan as part of a prepayment plan under which—
 
-&emsp;"(1) the project sponsor agrees to operate the project until at least 20 years following the maturity date of the original loan under terms at least as advantageous to existing and future tenants as the terms required by the original loan agreement or any project-based rental assistance payments contract under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] (or any other project-based rental housing assistance programs of the Department of Housing and Urban Development, including the rent supplement program under section 101 of the Housing and Urban Development Act of 1965 (12 U.S.C. 1701s)), or any successor project-based rental assistance program, relating to the project; and
+&emsp;"(1) the project sponsor agrees to operate the project until at least 20 years following the maturitydate of the original loan under terms at least as advantageous to existing and future tenants as the terms required by the original loan agreement or any project-based rental assistance payments contract under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] (or any other project-based rental housing assistance programs of the Department of Housing and Urban Development, including the rent supplement program under section 101 of the Housing and Urban Development Act of 1965 (12 U.S.C. 1701s)), or any successor project-based rental assistance program, relating to the project; and
 
 &emsp;"(2) the prepayment may involve refinancing of the loan if such refinancing results in—
 
@@ -872,7 +872,7 @@ Sources of Refinancing.—In the case of prepayment under this section involving
 
 Use of Proceeds.—Upon execution of the refinancing for a project pursuant to this section, the Secretary shall ensure that proceeds are used in a manner advantageous to tenants of the project, or are used in the provision of affordable rental housing and related social services for elderly persons that are tenants of the project or are tenants of other HUD-assisted senior housing by the private nonprofit organization project owner, private nonprofit organization project sponsor, or private nonprofit organization project developer, including—
 
-&emsp;"(1) not more than 15 percent of the cost of increasing the availability or provision of supportive services, which may include the financing of service coordinators and congregate services, except that upon the request of the non-profit owner, sponsor, ororganization and determination of the Secretary, such 15 percent limitation may be waived to ensure that the use of unexpended amounts better enables seniors to age in place;
+&emsp;"(1) not more than 15 percent of the cost of increasing the availability or provision of supportive services, which may include the financing of service coordinators and congregate services, except that upon the request of the non-profit owner, sponsor, or organization and determination of the Secretary, such 15 percent limitation may be waived to ensure that the use of unexpended amounts better enables seniors to age in place;
 
 &emsp;"(2) rehabilitation, modernization, or retrofitting of structures, common areas, or individual dwelling units, including reducing the number of units by reconfiguring units that are functionally obsolete, unmarketable, or not economically viable;
 
@@ -914,7 +914,7 @@ Senior Preservation Rental Assistance Contracts.—Notwithstanding any other pro
 
 Subordination or Assumption of Existing Debt.—In lieu of prepayment under this section of the indebtedness with respect to a project, the Secretary may approve—
 
-&emsp;"(1) in connection with new financing for the project, the subordination of the loan for the project under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\] (as in effect before the enactment of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, which was approved Nov. 28, 1990\]) and the continued subordination of any other existing subordinate debt previously approved by the Secretary to facilitate preservation of the project as affordable housing; or
+&emsp;"(1) in connection with new financing for the project, the subordination of the loan for the projectunder section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\] (as in effect before the enactment of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, which was approved Nov. 28, 1990\]) and the continued subordination of any other existing subordinate debt previously approved by the Secretary to facilitate preservation of the project as affordable housing; or
 
 &emsp;"(2) the assumption (which may include the subordination described in paragraph (1)) of the loan for the project under such section 202 in connection with the transfer of the project with such a loan to a private nonprofit organization.
 
@@ -948,7 +948,7 @@ Pub. L. 102–550, title VI, §677(b), Oct. 28, 1992, 106 Stat. 3829, provided t
 
 "(1)
 
-Availability of section 8 assistance.—Subject to the availability of appropriations for contract amendments for the purpose of this paragraph, in determining the amount of assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] to be provided for a project assisted under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], as in effectbefore the effectiveness of the amendments made by section 801 of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, see Effective Date of 1990 Amendment note above\], the Secretary shall consider (and annually adjust for) the costs of—
+Availability of section 8 assistance.—Subject to the availability of appropriations for contract amendments for the purpose of this paragraph, in determining the amount of assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] to be provided for a project assisted under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], as in effect before the effectiveness of the amendments made by section 801 of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, see Effective Date of 1990 Amendment note above\], the Secretary shall consider (and annually adjust for) the costs of—
 
 &emsp;"(A) employing or otherwise retaining the services of one or more service coordinators under section 661 \[671\] of this Act \[42 U.S.C. 13631\] to coordinate the provision of any services within the project for residents of the project who are elderly families and disabled families; and
 
@@ -992,7 +992,7 @@ Pub. L. 101–625, title VIII, §806(b), Nov. 28, 1990, 104 Stat. 4323, as amend
 
 "(1)
 
-In general.—The Secretary of Housing and Urban Development shall carry out a program to determine the feasibility of including, as an eligible development cost under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], the cost of purchasing and installing elder cottage housing opportunity units that are small, freestanding, barrier-free, energy efficient, removable, and designed to be installed adjacent to existing 1- to 4-family dwellings. In conducting the demonstration, the Secretary shall determine whether the durability of such units is appropriate for making such units generally eligible for assistance under the programs under such sections.
+In general.—The Secretary of Housing and Urban Development shall carry out a program to determine the feasibility of including, as an eligible development cost under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], the cost of purchasing and installing elder cottage housing opportunity units that are small, freestanding, barrier-free, energy efficient, removable, and designed to be installed adjacent to existing 1- to4-family dwellings. In conducting the demonstration, the Secretary shall determine whether the durability of such units is appropriate for making such units generally eligible for assistance under the programs under such sections.
 
 "(2)
 
@@ -1028,7 +1028,7 @@ Pub. L. 100–242, title I, §162(a), Feb. 5, 1988, 101 Stat. 1856, provided tha
 
 &emsp;"(F) the use of the program under section 8 of the United States Housing Act of 1937 to assist rentals for housing for nonelderly handicapped families is time consuming and unnecessarily costly and, in some areas of the Nation, prevents the development of such housing;
 
-&emsp;"(G) the use of the program under section 8 of the United States Housing Act of 1937 to assist rentals forhousing for nonelderly handicapped families should be replaced by a more appropriate subsidy mechanism;
+&emsp;"(G) the use of the program under section 8 of the United States Housing Act of 1937 to assist rentals for housing for nonelderly handicapped families should be replaced by a more appropriate subsidy mechanism;
 
 &emsp;"(H) both elderly and handicapped housing projects assisted under section 202 of the Housing Act of 1959 will benefit from an increased emphasis on supportive services and a greater use of State and local funds; and
 

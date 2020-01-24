@@ -2,7 +2,7 @@
 
 (a)
 
-Authority to Contract.—Subject to the provisions of chapter 137 of this title, and to the extent that funds are otherwise available for obligation, the Secretary—
+Authority to Contract.—Subject to the provisions of chapter 137 of this title, and to theextent that funds are otherwise available for obligation, the Secretary—
 
 &emsp;(1) may contract with any citizen of the United States for the inclusion or incorporation of defense features in any new or existing aircraft to be owned or controlled by that citizen; and
 

@@ -34,9 +34,9 @@
 
 #### (b) Exploration
 
-(1) The Secretary may, under such regulations as he may prescribe, issue to any person an exploration license. No person may conduct coal exploration for commercial purposes for any coal on lands subject to this chapter without such an exploration license. Each exploration license shall be for a term of not more than two years and shall be subject to a reasonable fee. An exploration license shall confer no right to a lease under this chapter. The issuance of exploration licenses shall not preclude the Secretary from issuing coal leases at such times and locations and to such persons as he deems appropriate. No exploration license will be issued for any land on which a coal lease has been issued. A separate exploration license will be required for exploration in each State. An application for an exploration license shall identify general areas and probable methods of exploration. Each exploration license shall contain such reasonable conditions as the Secretary may require, including conditions to insure the protection of the environment, and shall be subject to all applicable Federal, State, and local laws and regulations. Upon violation of any such conditions or laws the Secretary may revoke the exploration license.
+(1) The Secretary may, under such regulations as he may prescribe, issue to any person an exploration license. No person may conduct coal exploration for commercial purposes for any coal on lands subject to this chapter without such an exploration license. Each exploration license shall be for a term of not more than two years and shall be subject to a reasonable fee. An exploration license shall confer no right to a lease under this chapter. The issuance of exploration licenses shall not preclude the Secretary from issuing coal leases at such times and locations and to such persons as he deems appropriate. No exploration license will be issued for any land on which a coal lease has been issued. A separate exploration license will be required for exploration in each State. An application for an exploration license shall identify general areas and probable methods of exploration. Each exploration license shall contain such reasonable conditions as the Secretary may require,including conditions to insure the protection of the environment, and shall be subject to all applicable Federal, State, and local laws and regulations. Upon violation of any such conditions or laws the Secretary may revoke the exploration license.
 
-(2) A licensee may not cause substantial disturbance to the natural land surface. He may not remove any coal for sale but may remove a reasonable amount of coal from the lands subject to this chapter included under his license for analysis and study. A licensee must comply with all applicable rules and regulations of the Federal agency having jurisdiction over the surface of the lands subject to this chapter. Exploration licenses covering lands the surface ofwhich is under the jurisdiction of any Federal agency other than the Department of the Interior may be issued only upon such conditions as it may prescribe with respect to the use and protection of the nonmineral interests in those lands.
+(2) A licensee may not cause substantial disturbance to the natural land surface. He may not remove any coal for sale but may remove a reasonable amount of coal from the lands subject to this chapter included under his license for analysis and study. A licensee must comply with all applicable rules and regulations of the Federal agency having jurisdiction over the surface of the lands subject to this chapter. Exploration licenses covering lands the surface of which is under the jurisdiction of any Federal agency other than the Department of the Interior may be issued only upon such conditions as it may prescribe with respect to the use and protection of the nonmineral interests in those lands.
 
 (3) The licensee shall furnish to the Secretary copies of all data (including, but not limited to, geological, geophyscal,<sup>1</sup> and core drilling analyses) obtained during such exploration. The Secretary shall maintain the confidentiality of all data so obtained until after the areas involved have been leased or until such time as he determines that making the data available to the public would not damage the competitive position of the licensee, whichever comes first.
 
@@ -78,7 +78,7 @@ Subsec. (b). Pub. L. 88–526, §2(b), increased limitation on the area carried 
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–58, title IV, §438, Aug. 8, 2005, 119 Stat. 763, provided that: "The amendments made by this subtitle \[subtitle D (§§431–438) of title IV of Pub. L. 109–58, amending this section and sections 202a, 203, and 207 of this title\] apply with respect to any coal lease issued before, on, or after the date of the enactment of this Act \[Aug. 8, 2005\]."
+Pub. L. 109–58, title IV, §438, Aug. 8, 2005, 119 Stat. 763, provided that: "The amendments made by this subtitle \[subtitle D (§§431–438) of title IV of Pub. L. 109–58,amending this section and sections 202a, 203, and 207 of this title\] apply with respect to any coal lease issued before, on, or after the date of the enactment of this Act \[Aug. 8, 2005\]."
 
 #### Effective Date of 1976 Amendment
 
@@ -91,6 +91,90 @@ Pub. L. 94–377, §4, Aug. 4, 1976, 90 Stat. 1085, provided that the amendment 
 #### Transfer of Functions
 
 Functions of Secretary of the Interior, referred to in subsec. (a)(3)(D), to promulgate regulations under this chapter relating to fostering of competition for Federal leases transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+
+#### Exchange of Coal Preference Right Lease Applications
+
+Pub. L. 116–9, title I, §1121(a), Mar. 12, 2019, 133 Stat. 636, provided that:
+
+"(1)
+
+Definition of bidding right.—In this subsection, the term 'bidding right' means an appropriate legal instrument or other written documentation, including an entry in an account managed by the Secretary \[of the Interior\], issued or created under subpart 3435 of title 43, Code of Federal Regulations, that may be used—
+
+&emsp;"(A) in lieu of a monetary payment for 50 percent of a bonus bid for a coal lease sale under the Mineral Leasing Act (30 U.S.C. 181 et seq.); or
+
+&emsp;"(B) as a monetary credit against 50 percent of any rental or royalty payments due under any Federal coal lease.
+
+"(2)
+
+Use of bidding right.—
+
+&emsp;"(A)
+
+In general.—If the Secretary retires a coal preference right lease application under the Mineral Leasing Act (30 U.S.C. 181 et seq.) by issuing a bidding right in exchange for the relinquishment of the coal preference right lease application, the bidding right subsequently may be used in lieu of 50 percent of the amount owed for any monetary payment of—
+
+&emsp;&emsp;"(i) a bonus in a coal lease sale; or
+
+&emsp;&emsp;"(ii) rental or royalty under a Federal coal lease.
+
+&emsp;"(B)
+
+Payment calculation.—
+
+&emsp;&emsp;"(i)
+
+In general.—The Secretary shall calculate a payment of amounts owed to a relevant State under section 35(a) of the Mineral Leasing Act (30 U.S.C. 191(a)) based on the combined value of the bidding rights and amounts received.
+
+&emsp;&emsp;"(ii)
+
+Amounts received.—Except as provided in this paragraph, for purposes of calculating the payment of amounts owed to a relevant State under clause (i) only, a bidding right shall be considered amounts received.
+
+&emsp;"(C)
+
+Requirement.—The total number of bidding rights issued by the Secretary under subparagraph (A) before October 1, 2029, shall not exceed the number of bidding rights that reflect a value equivalent to $67,000,000.
+
+"(3)
+
+Source of payments.—The Secretary shall make payments to the relevant State under paragraph (2) from monetary payments received by the Secretary when bidding rights are exercised under this section \[probably means this subsection\].
+
+"(4)
+
+Treatment of payments.—A payment to a State under this subsection shall be treated as a payment under section 35(a) of the Mineral Leasing Act (30 U.S.C. 191(a)).
+
+"(5)
+
+Transferability; limitation.—
+
+&emsp;"(A)
+
+Transferability.—A bidding right issued for a coal preference right lease application under the Mineral Leasing Act (30 U.S.C. 181 et seq.) shall be fully transferable to any other person.
+
+&emsp;"(B)
+
+Notification of secretary.—A person who transfers a bidding right shall notify the Secretary of the transfer by any method determined to be appropriate by the Secretary.
+
+&emsp;"(C)
+
+Effective period.—
+
+&emsp;&emsp;"(i)
+
+In general.—A bidding right issued under the Mineral Leasing Act (30 U.S.C. 181 et seq.) shall terminate on the expiration of the 7-year period beginning on the date the bidding right is issued.
+
+&emsp;&emsp;"(ii)
+
+Tolling of period.—The 7-year period described in clause (i) shall be tolled during any period in which exercise of the bidding right is precluded by temporary injunctive relief granted under, or administrative, legislative, or judicial suspension of, the Federal coal leasing program.
+
+"(6)
+
+Deadline.—
+
+&emsp;"(A)
+
+In general.—If an existing settlement of a coal preference right lease application has not been implemented as of the date of enactment of this Act \[March 12, 2019\], not later than 180 days after that date of enactment, the Secretary shall complete the bidding rights valuation process in accordance with the terms of the settlement.
+
+&emsp;"(B)
+
+Date of valuation.—For purposes of the valuation process under subparagraph (A), the market price of coal shall be determined as of the date of the settlement."
 
 #### Study of Coal Leases by Director of the Office of Technology Assessment
 

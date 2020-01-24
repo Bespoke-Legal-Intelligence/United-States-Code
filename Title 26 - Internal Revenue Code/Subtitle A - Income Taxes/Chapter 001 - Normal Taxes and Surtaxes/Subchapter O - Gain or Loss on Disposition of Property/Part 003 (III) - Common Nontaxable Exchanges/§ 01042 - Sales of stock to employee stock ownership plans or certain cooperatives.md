@@ -168,7 +168,7 @@ The basis of the taxpayer in qualified replacement property purchased by the tax
 
 #### (1) In general
 
-&emsp;If a taxpayer disposes of any qualified replacement property, then, notwithstanding any other provision of this title, gain (if any) shall be recognized to the extent of the gain which was not recognized under subsection (a) by reason of the acquisition by such taxpayer of such qualified replacement property.
+&emsp;If a taxpayer disposes of any qualified replacement property, then, notwithstanding any other provision of this title, gain (if any)shall be recognized to the extent of the gain which was not recognized under subsection (a) by reason of the acquisition by such taxpayer of such qualified replacement property.
 
 #### (2) Special rule for corporations controlled by the taxpayer
 
@@ -194,7 +194,7 @@ The basis of the taxpayer in qualified replacement property purchased by the tax
 
 #### (f) Statute of limitations
 
-If any gain is realized by the taxpayer on the sale or exchange of any qualified securities andthere is in effect an election under subsection (a) with respect to such gain, then—
+If any gain is realized by the taxpayer on the sale or exchange of any qualified securities and there is in effect an election under subsection (a) with respect to such gain, then—
 
 &emsp;(1) the statutory period for the assessment of any deficiency with respect to such gain shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) of—
 
@@ -254,7 +254,7 @@ The Tax Reform Act of 1986, referred to in subsec. (c)(4)(A), is Pub. L. 99–51
 
 <b>1996</b>—Subsec. (c)(1)(A). Pub. L. 104–188, §1316(d)(3), substituted "domestic C corporation" for "domestic corporation".
 
-Subsec. (c)(1)(B)(ii). Pub. L. 104–188, §1704(t)(50), provided that section 11801(c)(9)(H) of Pub. L. 101–508 shall be applied as if "section 1042(c)(1)(B)" appeared instead of "section 1042(c)(2)(B)". See 1990 Amendment note below.
+Subsec. (c)(1)(B)(ii). Pub. L. 104–188, §1704(t)(50), provided that section 11801(c)(9)(H) of Pub. L. 101–508 shallbe applied as if "section 1042(c)(1)(B)" appeared instead of "section 1042(c)(2)(B)". See 1990 Amendment note below.
 
 Subsec. (c)(4)(A)(i). Pub. L. 104–188, §1311(b)(3), substituted "section 1362(d)(3)(C)" for "section 1362(d)(3)(D)".
 
@@ -356,7 +356,7 @@ Pub. L. 105–34, title IX, §968, Aug. 5, 1997, 111 Stat. 895, amending this se
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Ownership of Stock Options as Ownership of Stock; Employee Ownership of Stock After Sale
 

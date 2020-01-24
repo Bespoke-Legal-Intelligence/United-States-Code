@@ -216,7 +216,7 @@ Amendment by section 2(64) of Pub. L. 102–378 effective Nov. 5, 1990, see sect
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is notdescribed in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -250,7 +250,7 @@ Section 1043(b), (c) of Pub. L. 104–106 provided that:
 
 "(b)
 
-Regulations.—Not later than 6 months after the date of the enactment of this Act \[Feb. 10, 1996\], the Office of Personnel Management (and each of the other administrative authorities, within the meaning of subsection (c)(2)(C)(iii)) shall prescribe any regulations (or make any modifications in existing regulations) necessary to carry out this section \[amending this section and sections 3502 and 8461 of this title and enacting provisions set out as a note under section 3502 of this title\]and the amendments made by this section, including regulations to provide for the notification of individuals who may be affected by the enactment of this section. All regulations (and modifications to regulations) under the preceding sentence shall take effect on the same date.
+Regulations.—Not later than 6 months after the date of the enactment of this Act \[Feb. 10, 1996\], the Office of Personnel Management (and each of the other administrative authorities, within the meaning of subsection (c)(2)(C)(iii)) shall prescribe any regulations (or make any modifications in existing regulations) necessary to carry out this section \[amending this section and sections 3502 and 8461 of this title and enacting provisions set out as a note under section 3502 of this title\] and the amendments made by this section, including regulations to provide for the notification of individuals who may be affected by the enactment of this section. All regulations (and modifications to regulations) under the preceding sentence shall take effect on the same date.
 
 "(c)
 
@@ -294,7 +294,7 @@ In general.—If an individual makes an election under this paragraph to be tran
 
 &emsp;&emsp;&emsp;"(ii)
 
-Condition subsequent relating to repayment of lump-sum credit.—In the case of an individual who has received such individual's lump-sum credit (within the meaning of section 8401(19) of title 5, United States Code, or a similar payment) from such individual's previous system, the payment described in clause (i) shall not be made (and the election to which it relates shall be ineffective) unless such lump-sum credit is redeposited or otherwise paid at such time and in such manner as shall be required under applicable regulations. Regulations to carry out this clause shall include provisions for the computation of interest (consistent with section 8334(e)(2) and (3) of title 5, United States Code), if no provisions for such computation otherwise exist.
+Condition subsequent relating to repayment of lump-sum credit.—In the case of an individual who has received such individual's lump-sum credit (within the meaning of section 8401(19) of title 5, United States Code, or a similar payment) from such individual's previous system, the payment described in clause (i) shall not be made (and the election to which it relates shall be ineffective) unless such lump-sum credit is redeposited or otherwise paid at such time and in such manner as shall be required under applicable regulations. Regulations to carry out this clause shall include provisions for the computation of interest (consistent with section 8334(e)(2) and (3)of title 5, United States Code), if no provisions for such computation otherwise exist.
 
 &emsp;&emsp;&emsp;"(iii)
 
@@ -330,7 +330,7 @@ Qualifying nafi service.—For purposes of this subparagraph, the term 'qualifyi
 
 &emsp;&emsp;&emsp;"(iv)
 
-Service ceases to be creditable for nafi retirement system purposes.—Any qualifying NAFI service that becomes creditable for FERS purposes by virtue of an election made under thissubparagraph shall not be creditable for purposes of any retirement system referred to in clause (iii).
+Service ceases to be creditable for nafi retirement system purposes.—Any qualifying NAFI service that becomes creditable for FERS purposes by virtue of an election made under this subparagraph shall not be creditable for purposes of any retirement system referred to in clause (iii).
 
 &emsp;&emsp;&emsp;"(v)
 

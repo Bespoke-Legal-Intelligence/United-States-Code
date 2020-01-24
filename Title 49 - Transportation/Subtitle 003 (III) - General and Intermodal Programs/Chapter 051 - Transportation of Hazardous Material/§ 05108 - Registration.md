@@ -78,7 +78,7 @@ Fees.—(1) The Secretary shall establish, impose, and collect from a person req
 
 (B) The Secretary shall adjust the amount being collected under this paragraph to reflect any unexpended balance in the account established under section 5116(h) of this title. However, the Secretary is not required to refund any fee collected under this paragraph.
 
-(C) The Secretary shall transfer to the Secretary of the Treasury amounts the Secretary of Transportation collects under this paragraph for deposit in the Hazardous Materials EmergencyPreparedness Fund established under section 5116(h) of this title.
+(C) The Secretary shall transfer to the Secretary of the Treasury amounts the Secretary of Transportation collects under this paragraph for deposit in the Hazardous Materials Emergency Preparedness Fund established under section 5116(h) of this title.
 
 (3)
 

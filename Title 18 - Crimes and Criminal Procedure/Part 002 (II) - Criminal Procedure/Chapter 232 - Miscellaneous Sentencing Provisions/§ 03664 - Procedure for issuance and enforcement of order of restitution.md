@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) the amounts subject to restitution submitted to the probation officer;
 
-&emsp;&emsp;(iii) the opportunity of the victim to submit information to the probation officerconcerning the amount of the victim's losses;
+&emsp;&emsp;(iii) the opportunity of the victim to submit information to the probation officer concerning the amount of the victim's losses;
 
 &emsp;&emsp;(iv) the scheduled date, time, and place of the sentencing hearing;
 
@@ -38,7 +38,7 @@
 
 (f)(1)(A) In each order of restitution, the court shall order restitution to each victim in the full amount of each victim's losses as determined by the court and without consideration of the economic circumstances of the defendant.
 
-(B) In no case shall the fact that a victim has received or is entitled to receive compensation with respect to a loss from insurance or any other source be considered in determining the amount of restitution.
+(B) In no case shall the fact that a victim has received or is entitled to receive compensationwith respect to a loss from insurance or any other source be considered in determining the amount of restitution.
 
 (2) Upon determination of the amount of restitution owed to each victim, the court shall, pursuant to section 3572, specify in the restitution order the manner in which, and the schedule according to which, the restitution is to be paid, in consideration of—
 

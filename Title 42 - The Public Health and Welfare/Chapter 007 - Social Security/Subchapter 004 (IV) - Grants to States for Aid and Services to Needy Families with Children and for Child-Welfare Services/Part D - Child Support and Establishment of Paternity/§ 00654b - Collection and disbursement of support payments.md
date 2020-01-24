@@ -68,7 +68,7 @@ Pub. L. 104–193, title III, §312(d), Aug. 22, 1996, 110 Stat. 2209, provided 
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting thissection and amending sections 654 and 654a of this title\] shall become effective on October 1, 1998.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 654 and 654a of this title\] shall become effective on October 1, 1998.
 
 "(2)
 

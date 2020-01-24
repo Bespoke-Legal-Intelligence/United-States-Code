@@ -48,6 +48,7 @@
 | [1740\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001740%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [1741\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001741%20-%20Annual%20reports.md) | Annual reports. |
 | [1742\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001742%20-%20Search%2C%20rescue%2C%20and%20protection%20forces%3B%20emergency%20situations%20authorizing%20hiring.md) | Search, rescue, and protection forces; emergency situations authorizing hiring. |
+| [1742a.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001742a%20-%20Good%20Samaritan%20Search%20and%20Recovery%20Act.md) | Good Samaritan Search and Recovery Act. |
 | [1743\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001743%20-%20Disclosure%20of%20financial%20interests%20by%20officers%20or%20employees.md) | Disclosure of financial interests by officers or employees. |
 | [1744\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001744%20-%20Recordation%20of%20mining%20claims.md) | Recordation of mining claims. |
 | [1745\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001745%20-%20Disclaimer%20of%20interest%20in%20lands.md) | Disclaimer of interest in lands. |
@@ -58,6 +59,7 @@
 | 1748a–1. | Request for additional wildfire suppression funds. |
 | 1748a–2. | Reporting requirements. |
 | [1748b.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001748b%20-%20Cohesive%20wildfire%20management%20strategy.md) | Cohesive wildfire management strategy. |
+| 1748b–1. | Wildfire technology modernization. |
 | [1748c.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001748c%20-%20Bureau%20of%20Land%20Management%20Foundation.md) | Bureau of Land Management Foundation. |
 | [1748d.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001748d%20-%20Report%20on%20wildfire%2C%20insect%20infestation%2C%20and%20disease%20prevention%20on%20Federal%20land.md) | Report on wildfire, insect infestation, and disease prevention on Federal land. |
 

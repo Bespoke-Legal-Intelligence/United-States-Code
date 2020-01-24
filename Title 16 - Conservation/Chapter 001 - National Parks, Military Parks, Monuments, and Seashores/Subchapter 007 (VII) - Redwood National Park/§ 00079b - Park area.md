@@ -10,11 +10,11 @@
 
 &emsp;(B) provided by the Secretary of the Interior to the appropriate officers of Del Norte and Humboldt Counties, California.
 
-(3) The Secretary; <sup>1</sup> of the Interior (hereinafter referred to as the "Secretary") may from timeto time, with a view to carrying out the purpose of this subchapter and with particular attention to minimizing siltation of the streams, damage to the timber, and assuring the preservation of the scenery within the boundaries of the national park as depicted on said maps, modify said boundaries, giving notice of any changes involved therein by publication of a revised drawing or boundary description in the Federal Register and by filing said revision with the officers with whom the original maps were filed, but the acreage within said park shall at no time exceed 133,000 acres, exclusive of submerged lands and publicly owned highways and roads.
+(3) The Secretary; <sup>1</sup> of the Interior (hereinafter referred to as the "Secretary") may from time to time, with a view to carrying out the purpose of this subchapter and with particular attention to minimizing siltation of the streams, damage to the timber, and assuring the preservation of the scenery within the boundaries of the national park as depicted on said maps, modify said boundaries, giving notice of any changes involved therein by publication of a revised drawing or boundary description in the Federal Register and by filing said revision with the officers with whom the original maps were filed, but the acreage within said park shall at no time exceed 133,000 acres, exclusive of submerged lands and publicly owned highways and roads.
 
 #### (b) Highways and roads
 
-The Secretary is authorized to acquire all or part of existing publicly owned highways and roads within the boundaries of the park as he may deem necessary for park purposes. Until such highways and roads have been acquired, the Secretary may cooperate with appropriate State and local officials in patroling <sup>2</sup> and maintaining such roads and highways.
+The Secretary is authorized to acquire all or part of existing publicly owned highways and roads within the boundaries of the park as hemay deem necessary for park purposes. Until such highways and roads have been acquired, the Secretary may cooperate with appropriate State and local officials in patroling <sup>2</sup> and maintaining such roads and highways.
 
 #### (c) Park protection zone
 

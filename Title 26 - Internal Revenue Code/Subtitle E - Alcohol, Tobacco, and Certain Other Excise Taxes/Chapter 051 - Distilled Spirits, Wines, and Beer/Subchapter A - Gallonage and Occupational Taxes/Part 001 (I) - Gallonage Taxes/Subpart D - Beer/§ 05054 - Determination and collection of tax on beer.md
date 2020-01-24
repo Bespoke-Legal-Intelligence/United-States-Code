@@ -8,7 +8,7 @@
 
 #### (2) Beer imported into the United States
 
-&emsp;Except as provided in paragraph (4), the tax imposed by section 5051 on beer imported intothe United States and not transferred to a brewery free of tax under section 5418 shall be determined at the time of the importation thereof, or, if entered for warehousing, at the time of removal from the 1st such warehouse.
+&emsp;Except as provided in paragraph (4), the tax imposed by section 5051 on beer imported into the United States and not transferred to a brewery free of tax under section 5418 shall be determined at the time of the importation thereof, or, if entered for warehousing, at the time of removal from the 1st such warehouse.
 
 #### (3) Illegally produced beer
 

@@ -10,7 +10,7 @@ It shall be an unfair labor practice for the Department—
 
 &emsp;(3) to sponsor, control, or otherwise assist any labor organization, other than to furnish upon request customary and routine services and facilities on an impartial basis to labor organizations having equivalent status;
 
-&emsp;(4) to discipline or otherwise discriminate against an employee because the employee has filed a complaint or petition, or has given anyinformation, affidavit, or testimony under this subchapter;
+&emsp;(4) to discipline or otherwise discriminate against an employee because the employee has filed a complaint or petition, or has given any information, affidavit, or testimony under this subchapter;
 
 &emsp;(5) to refuse to consult or negotiate in good faith with a labor organization, as required under this subchapter;
 
@@ -76,5 +76,5 @@ Issues which can properly be raised under an appeals procedure may not be raised
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–138, title I, §153(f), Oct. 28, 1991, 105 Stat. 674, provided that: "The amendments made by this section \[amending this section and sections 4131, 4134, 4137, 4139, and 4140 of this title\] shall not apply with respect to any grievance (within the meaning of section 1101 of the Act \[22 U.S.C. 4131\], as amended by this section) arising before the date of enactment of this Act \[Oct. 28, 1991\]."
+Pub. L. 102–138, title I, §153(f), Oct. 28, 1991, 105 Stat. 674, provided that: "The amendments made by this section \[amending this section and sections 4131, 4134, 4137, 4139, and 4140 of this title\] shall not apply with respectto any grievance (within the meaning of section 1101 of the Act \[22 U.S.C. 4131\], as amended by this section) arising before the date of enactment of this Act \[Oct. 28, 1991\]."
 

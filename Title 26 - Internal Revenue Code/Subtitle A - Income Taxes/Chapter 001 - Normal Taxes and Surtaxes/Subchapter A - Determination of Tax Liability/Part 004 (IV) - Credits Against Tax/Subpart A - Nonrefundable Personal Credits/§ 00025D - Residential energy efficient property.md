@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (2) Solar panels
 
-&emsp;No expenditure relating to a solar panel or other property installed as a roof (or portionthereof) shall fail to be treated as property described in paragraph (1) or (2) of subsection (d) solely because it constitutes a structural component of the structure on which it is installed.
+&emsp;No expenditure relating to a solar panel or other property installed as a roof (or portion thereof) shall fail to be treated as property described in paragraph (1) or (2) of subsection (d) solely because it constitutes a structural component of the structure on which it is installed.
 
 #### (3) Swimming pools, etc., used as storage medium
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### (A) Maximum expenditures for fuel cells
 
-&emsp;&emsp;The maximum amount of such expenditures which may be taken into account under subsection (a) by all such individuals with respect to such dwelling unit during such calendar year shall be $1,667 in the case of each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) with respect to which such expenditures relate.
+&emsp;&emsp;The maximum amount of such expenditures which may be taken into accountunder subsection (a) by all such individuals with respect to such dwelling unit during such calendar year shall be $1,667 in the case of each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) with respect to which such expenditures relate.
 
 #### (B) Allocation of expenditures
 
@@ -146,7 +146,7 @@ For purposes of subsection (a), the applicable percentage shall be—
 
 The credit allowed under this section shall not apply to property placed in service after December 31, 2021.
 
-(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324; Pub. L. 112–240, title I, §104(c)(2)(F), Jan. 2, 2013, 126 Stat. 2322; Pub. L.114–113, div. P, title III, §304(a), Dec. 18, 2015, 129 Stat. 3039; Pub. L. 115–123, div. D, title I, §40402(a), (b), Feb. 9, 2018, 132 Stat. 148.)
+(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324; Pub. L. 112–240, title I, §104(c)(2)(F), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 114–113, div. P, title III, §304(a), Dec. 18, 2015, 129 Stat. 3039; Pub. L. 115–123, div. D, title I, §40402(a), (b), Feb. 9, 2018, 132 Stat. 148.)
 
 #### Amendments
 
@@ -230,7 +230,7 @@ Subsec. (e)(4)(A), (B). Pub. L. 109–135, §402(i)(2), amended subpars. (A) and
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–123, div. D, title I, §40402(c), Feb. 9, 2018, 132 Stat. 148, provided that: "The amendment made bythis section \[amending this section\] shall apply to property placed in service after December 31, 2016."
+Pub. L. 115–123, div. D, title I, §40402(c), Feb. 9, 2018, 132 Stat. 148, provided that: "The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2016."
 
 #### Effective Date of 2015 Amendment
 
@@ -248,7 +248,7 @@ Pub. L. 111–5, div. B, title I, §1122(b), Feb. 17, 2009, 123 Stat. 324, provi
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, except that amendment by section 106(b) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 106(f)(1), (2) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 23 of this title.
+Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, except that amendment by section 106(b) of Pub. L. 110–343 applicable totaxable years beginning after Dec. 31, 2008, see section 106(f)(1), (2) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 23 of this title.
 
 #### Effective and Termination Dates of 2005 Amendment
 

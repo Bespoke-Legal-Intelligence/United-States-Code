@@ -166,7 +166,7 @@ A person or legal entity may not receive, directly or indirectly, payments under
 
 #### (g) Specialty crop and organic producers
 
-The Secretary shall ensure that outreach and technical assistance are available, and programspecifications are appropriate to enable specialty crop and organic producers to participate in the program.
+The Secretary shall ensure that outreach and technical assistance are available, and program specifications are appropriate to enable specialty crop and organic producers to participate in the program.
 
 #### (h) Organic certification
 

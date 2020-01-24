@@ -234,7 +234,7 @@ Subsecs. (d) to (f). Pub. L. 97–452 redesignated former subsecs. (b) to (d) as
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Short Title
 
@@ -276,7 +276,7 @@ Findings.—The Congress finds the following:
 
 &emsp;"(6) Since its establishment in October 1990, the Federal Accounting Standards Advisory Board (hereinafter referred to as the 'FASAB') has made substantial progress toward developing and recommending a comprehensive set of accounting concepts and standards for the Federal Government. When the accounting concepts and standards developed by FASAB are incorporated into Federal financial management systems, agencies will be able to provide cost and financial information that will assist the Congress and financial managers to evaluate the cost and performance of Federal programs and activities, and will therefore provide important information that has been lacking, but is needed for improved decision making by financial managers and the Congress.
 
-&emsp;"(7) The development of financial management systems with the capacity to support these standards and concepts will, over the long term, improve Federal financial management.
+&emsp;"(7) The development of financial management systems with the capacity to support these standardsand concepts will, over the long term, improve Federal financial management.
 
 "(b)
 

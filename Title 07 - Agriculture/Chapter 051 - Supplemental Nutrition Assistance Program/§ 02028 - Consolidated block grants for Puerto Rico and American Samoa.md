@@ -14,7 +14,7 @@
 
 #### (A) Amount of block grants
 
-&emsp;&emsp;From the sums appropriated under this chapter, the Secretary shall, subject to thissection, pay to governmental entities to pay the expenditures for nutrition assistance programs for needy persons as described in subparagraphs (B) and (C)—
+&emsp;&emsp;From the sums appropriated under this chapter, the Secretary shall, subject to this section, pay to governmental entities to pay the expenditures for nutrition assistance programs for needy persons as described in subparagraphs (B) and (C)—
 
 &emsp;&emsp;&emsp;(i) for fiscal year 2003, $1,401,000,000; and
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;For fiscal year 2003 and each fiscal year thereafter, the Secretary shall use 99.6 percent of the funds made available under subparagraph (A) for payment to the Commonwealth of Puerto Rico to pay—
 
-&emsp;&emsp;&emsp;&emsp;(I) 100 percent of the expenditures by the Commonwealth for the fiscal year for the provision of nutrition assistance included in the plan of the Commonwealth approved under subsection (b); and
+&emsp;&emsp;&emsp;&emsp;(I) 100 percent of the expenditures by the Commonwealth for the fiscal yearfor the provision of nutrition assistance included in the plan of the Commonwealth approved under subsection (b); and
 
 &emsp;&emsp;&emsp;&emsp;(II) 50 percent of the related administrative expenses.
 
@@ -70,11 +70,11 @@
 
 (ii) The Secretary may suspend the denial of payments under subparagraph (B)(i) for such period as the Secretary determines appropriate and instead withhold payments provided for under subsection (a), in whole or in part, for the fiscal year to which the plan applies, until the Secretary is satisfied that there is no longer any failure to comply with the requirements of subparagraph (A), at which time such withheld payments shall be paid.
 
-(2)(A) The Commonwealth shall provide for a biennial audit of expenditures under its programfor the provision of the assistance described in subsection (a)(2)(B), and within 120 days of the end of each fiscal year in which the audit is made, shall report to the Secretary the findings of such audit.
+(2)(A) The Commonwealth shall provide for a biennial audit of expenditures under its program for the provision of the assistance described in subsection (a)(2)(B), and within 120 days of the end of each fiscal year in which the audit is made, shall report to the Secretary the findings of such audit.
 
 (B) Within 120 days of the end of the fiscal year, the Commonwealth shall provide the Secretary with a statement as to whether the payments received under subsection (a) for that fiscal year exceeded the expenditures by it during that year for which payment is authorized under this section, and if so, by how much, and such other information as the Secretary may require.
 
-(C)(i) If the Secretary finds that there is a substantial failure by the Commonwealth to comply with any of the requirements of subparagraphs (A) and (B), or to comply with the requirements of subsection (b)(1)(A) in the administration of a plan approved under subsection (b)(1)(B), the Secretary shall, except as provided in subparagraph (C)(ii), notify the appropriate agency in the Commonwealth that further payments will not be made to it under subsection (a) until the Secretary is satisfied that there will no longer be any such failure to comply, and until the Secretary is so satisfied, the Secretary shall make no further payments.
+(C)(i) If the Secretary finds that there is a substantial failure by the Commonwealth to comply with any of the requirements of subparagraphs (A) and (B), or to comply with the requirements of subsection (b)(1)(A) in the administration of a plan approved under subsection (b)(1)(B), the Secretary shall, except as provided in subparagraph (C)(ii), notify the appropriate agency in the Commonwealth that further payments will not be made to it under subsection\(a) until the Secretary is satisfied that there will no longer be any such failure to comply, and until the Secretary is so satisfied, the Secretary shall make no further payments.
 
 (ii) The Secretary may suspend the termination of payments under subparagraph (C)(i) for such period as the Secretary determines appropriate, and instead withhold payments provided for under subsection (a), in whole or in part, until the Secretary is satisfied that there will no longer be any failure to comply with the requirements of subparagraphs (A) and (B) and subsection (b)(1)(A), at which time such withheld payments shall be paid.
 
@@ -134,7 +134,7 @@ Whoever knowingly and willfully embezzles, misapplies, steals, or obtains by fra
 
 &emsp;Out of any funds made available under section 2027 of this title for fiscal year 2014, the Secretary shall make available to carry out the review and report described in paragraphs (1) and (2) $1,000,000, to remain available until expended.
 
-(Pub. L. 88–525, §19, as added Pub. L. 97–35, title I, §116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, §184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, §2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, §1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, §941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13917, Aug. 10, 1993, 107 Stat. 674; Pub. L. 104–127, title IV, §401(f), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 106–387, §1(a) \[title VIII, §821\], Oct. 28, 2000, 114 Stat. 1549, 1549A–59; Pub. L. 107–171, title IV, §4124(a), May 13, 2002, 116 Stat. 324; Pub. L. 110–234, title IV, §§4115(b)(13), 4406(a)(6), May 22, 2008, 122 Stat. 1108, 1141; Pub. L. 110–246, §4(a), title IV, §§4115(b)(13), 4406(a)(6), June 18, 2008, 122 Stat. 1664, 1870, 1902; Pub. L. 113–79, title IV, §4025, Feb. 7, 2014, 128 Stat. 809.)
+(Pub. L. 88–525, §19, as added Pub. L. 97–35, title I, §116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, §184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, §2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, §1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, §941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13917, Aug. 10, 1993, 107 Stat. 674; Pub. L. 104–127, title IV, §401(f), Apr. 4, 1996, 110 Stat.1026; Pub. L. 106–387, §1(a) \[title VIII, §821\], Oct. 28, 2000, 114 Stat. 1549, 1549A–59; Pub. L. 107–171, title IV, §4124(a), May 13, 2002, 116 Stat. 324; Pub. L. 110–234, title IV, §§4115(b)(13), 4406(a)(6), May 22, 2008, 122 Stat. 1108, 1141; Pub. L. 110–246, §4(a), title IV, §§4115(b)(13), 4406(a)(6), June 18, 2008, 122 Stat. 1664, 1870, 1902; Pub. L. 113–79, title IV, §4025, Feb. 7, 2014, 128 Stat. 809.)
 
 #### Codification
 
@@ -190,7 +190,7 @@ Subsec. (b)(1)(A)(i). Pub. L. 99–198, §1543(3), substituted "the agency or ag
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Amendment by sections 4115(b)(13) and 4406(a)(6) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 ofPub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+Amendment by sections 4115(b)(13) and 4406(a)(6) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 2002 Amendment
 
@@ -286,5 +286,5 @@ Pub. L. 98–204, §2, Dec. 2, 1983, 97 Stat. 1385, directed the Secretary of Ag
 
 #### Amount Payable to the Commonwealth of Puerto Rico for Fiscal Year 1982; Plans To Be Submitted to the Secretary for Grants for Fiscal Years 1982 and 1983
 
-Pub. L. 97–35, title I, §116(b), Aug. 13, 1981, 95 Stat. 366, provided for a payment of $206,500,000 to Puerto Rico forfiscal year 1982, notwithstanding the provisions of this section, and required Puerto Rico to submit the plan required by the provisions of subsec. (b) of this section by Apr. 1, 1982, to receive payments for fiscal years 1982 and 1983.
+Pub. L. 97–35, title I, §116(b), Aug. 13, 1981, 95 Stat. 366, provided for a payment of $206,500,000 to Puerto Rico for fiscal year 1982, notwithstanding the provisions of this section, and required Puerto Rico to submit the plan required by the provisions of subsec. (b) of this section by Apr. 1, 1982, to receive payments for fiscal years 1982 and 1983.
 

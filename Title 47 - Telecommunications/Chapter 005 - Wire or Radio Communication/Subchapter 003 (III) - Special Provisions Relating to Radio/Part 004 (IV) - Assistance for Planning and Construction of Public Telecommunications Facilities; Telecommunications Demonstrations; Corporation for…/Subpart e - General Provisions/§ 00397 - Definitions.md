@@ -84,7 +84,7 @@ Par. (15). Pub. L. 101–437, §203(b)(2), inserted "and subpart B" after "subpa
 
 Par. (2). Pub. L. 90–129, §§103(f)(1), 106, provided for application of term "construction" to educational radio broadcasting facilities and defined such term to include acquisition and installation of transmission apparatus necessary for radio broadcasting, and included costs of planning, respectively.
 
-Par. (4). Pub. L. 90–129, §§103(f)(2), 105(b), substituted "The terms 'State educational television agency' and 'State educational radio agency' mean, with respect to television broadcasting and radio broadcasting, respectively," for "The term 'State educational television agency' means" and "such broadcasting" for "educational television" in cls. (A) and (B), and defined "Governor" to include the High Commissioner of the Trust Territory of the Pacific Islands, respectively.
+Par. (4). Pub. L. 90–129, §§103(f)(2), 105(b), substituted "The terms 'State educational television agency' and 'State educational radio agency' mean, with respect to television broadcasting and radio broadcasting, respectively," for "The term 'State educational television agency' means" and "such broadcasting" for "educational television" in cls. (A) and (B), and defined"Governor" to include the High Commissioner of the Trust Territory of the Pacific Islands, respectively.
 
 Pars. (6) to (9). Pub. L. 90–129, §201(6), added pars. (6) to (9).
 

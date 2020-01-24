@@ -16,7 +16,7 @@ Exception.—
 
 In general.—In the event that a President (hereinafter in this paragraph referred to as the "previous President") is not elected to a successive term in office as a result of the election of a new President—
 
-&emsp;&emsp;&emsp;(i) no notice or waiting period shall be required under paragraph (1) with respect to the separation of any individual described in subparagraph (B), if such separation occurs pursuant to a closure or masslayoff ordered after the term of the new President commences; and
+&emsp;&emsp;&emsp;(i) no notice or waiting period shall be required under paragraph (1) with respect to the separation of any individual described in subparagraph (B), if such separation occurs pursuant to a closure or mass layoff ordered after the term of the new President commences; and
 
 &emsp;&emsp;&emsp;(ii) if any individual is separated from service, or begins a period of leave under the Family and Medical Leave Act of 1993, before such term commences, nothing in this chapter shall require reinstatement or restoration to employment of the individual after such term commences.
 

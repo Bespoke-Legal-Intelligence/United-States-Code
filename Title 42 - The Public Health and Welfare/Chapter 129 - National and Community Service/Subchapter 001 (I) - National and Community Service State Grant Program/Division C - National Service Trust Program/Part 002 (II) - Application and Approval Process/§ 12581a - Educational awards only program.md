@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From amounts appropriated for a fiscal year to provide financial assistance under this division and consistent with the restriction in subsection (b), the Corporation may, through fixed-amount grants (in accordance with section 12581(l) of this title), provide operational support to programs that receive approved national service positions but do not receive funds under section 12571(a) of this title.
+From amounts appropriated for a fiscal year to provide financial assistance under this division and consistent with the restriction in subsection (b), the Corporation may, through fixed-amount grants (in accordance with section12581(l) of this title), provide operational support to programs that receive approved national service positions but do not receive funds under section 12571(a) of this title.
 
 #### (b) Limit on Corporation grant funds
 

@@ -16,7 +16,7 @@
 
 &emsp;(7) notwithstanding the enactment of section 21a of this title, the United States does not have a coherent national materials and minerals policy.
 
-(b) As used in this chapter, the term "materials" means substances, including minerals, ofcurrent or potential use that will be needed to supply the industrial, military, and essential civilian needs of the United States in the production of goods or services, including those which are primarily imported or for which there is a prospect of shortages or uncertain supply, or which present opportunities in terms of new physical properties, use, recycling, disposal or substitution, with the exclusion of food and of energy fuels used as such.
+(b) As used in this chapter, the term "materials" means substances, including minerals, of current or potential use that will be needed to supply the industrial, military, and essential civilian needs of the United States in the production of goods or services, including those which are primarily imported or for which there is a prospect of shortages or uncertain supply, or which present opportunities in terms of new physical properties, use, recycling, disposal or substitution, with the exclusion of food and of energy fuels used as such.
 
 (Pub. L. 96–479, §2, Oct. 21, 1980, 94 Stat. 2305.)
 
@@ -40,7 +40,7 @@ Sec. 3. <i>Policy</i>. It shall be the policy of the Federal Government to reduc
 
 (a) identifying new sources of critical minerals;
 
-(b) increasing activity at all levels of the supply chain, including exploration, mining, concentration, separation, alloying, recycling, and reprocessing critical minerals;
+(b) increasing activity at all levels of the supply chain, including exploration, mining, concentration,separation, alloying, recycling, and reprocessing critical minerals;
 
 (c) ensuring that our miners and producers have electronic access to the most advanced topographic, geologic, and geophysical data within U.S. territory to the extent permitted by law and subject to appropriate limitations for purposes of privacy and security, including appropriate limitations to protect critical infrastructure data such as those related to national security areas; and
 

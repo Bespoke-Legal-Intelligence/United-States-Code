@@ -18,7 +18,7 @@ The following shall be nationals and citizens of the United States at birth:
 
 &emsp;(h) a person born before noon (Eastern Standard Time) May 24, 1934, outside the limits and jurisdiction of the United States of an alien father and a mother who is a citizen of the United States who, prior to the birth of such person, had resided in the United States.
 
-(June 27, 1952, ch. 477, title III, ch. 1, §301, 66 Stat. 235; Pub. L. 89–770, Nov. 6, 1966, 80 Stat. 1322; Pub. L. 92–584, §§1, 3, Oct. 27, 1972, 86 Stat. 1289; Pub. L. 95–432, §§1, 3, Oct. 10, 1978, 92 Stat.1046; Pub. L. 99–653, §12, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 103–416, title I, §101(a), Oct. 25, 1994, 108 Stat. 4306.)
+(June 27, 1952, ch. 477, title III, ch. 1, §301, 66 Stat. 235; Pub. L. 89–770, Nov. 6, 1966, 80 Stat. 1322; Pub. L. 92–584, §§1, 3, Oct. 27, 1972, 86 Stat. 1289; Pub. L. 95–432, §§1, 3, Oct. 10, 1978, 92 Stat. 1046; Pub. L. 99–653, §12, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 103–416, title I, §101(a), Oct. 25, 1994, 108 Stat. 4306.)
 
 #### Amendments
 
@@ -66,7 +66,7 @@ Pub. L. 103–416, title I, §101(c), Oct. 25, 1994, 108 Stat. 4306, provided th
 
 #### Applicability of Transmission Requirements
 
-Pub. L. 103–416, title I, §101(d), Oct. 25, 1994, 108 Stat. 4306, as amended by Pub. L. 104–208, div. C, title VI, §671(b)(1), Sept. 30, 1996, 110 Stat. 3009–721, provided that: "This section \[amending this section and enacting provisions set out above\], the amendments made by this section, and any retroactive application of such amendments shall not effect the application of any provision of law relating to residence or physical presence in the United States for purposes of transmitting United States citizenship to any person whose claim is based on the amendment made by subsection (a) \[amending this section\] or through whom such a claim is derived."
+Pub. L. 103–416, title I, §101(d), Oct. 25, 1994, 108 Stat. 4306, as amended by Pub. L. 104–208, div. C, title VI, §671(b)(1), Sept. 30, 1996, 110 Stat. 3009–721, provided that: "This section \[amending this section and enacting provisions set out above\], the amendments made bythis section, and any retroactive application of such amendments shall not effect the application of any provision of law relating to residence or physical presence in the United States for purposes of transmitting United States citizenship to any person whose claim is based on the amendment made by subsection (a) \[amending this section\] or through whom such a claim is derived."
 
 #### Admission of Alaska as State
 

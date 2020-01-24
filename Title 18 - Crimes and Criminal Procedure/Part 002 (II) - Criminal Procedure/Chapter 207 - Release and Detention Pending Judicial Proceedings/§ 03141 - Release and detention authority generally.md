@@ -34,7 +34,7 @@ Pub. L. 101–647, title IX, §901, Nov. 29, 1990, 104 Stat. 4826, provided that
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–473, title II, §202, Oct. 12, 1984, 98 Stat. 1976, provided that: "This chapter \[chapter I (§§202–210) oftitle II of Pub. L. 98–473, enacting sections 3062 and 3141 to 3150 of this title, amending sections 3041, 3042, 3154, 3156, 3731, 3772, and 4282 of this title and section 636 of Title 28, Judiciary and Judicial Procedure, repealing sections 3043 and 3141 to 3151 of this title, and amending rules 5, 15, 40, 46, and 54 of the Federal Rules of Criminal Procedure, set out in the Appendix to this title, and rule 9 of the Federal Rules of Appellate Procedure, set out in the Appendix to Title 28\] may be cited as the 'Bail Reform Act of 1984'."
+Pub. L. 98–473, title II, §202, Oct. 12, 1984, 98 Stat. 1976, provided that: "This chapter \[chapter I (§§202–210) of title II of Pub. L. 98–473, enacting sections 3062 and 3141 to 3150 of this title, amending sections 3041, 3042, 3154, 3156, 3731, 3772, and 4282 of this title and section 636 of Title 28, Judiciary and Judicial Procedure, repealing sections 3043 and 3141 to 3151 of this title, and amending rules 5, 15, 40, 46, and 54 of the Federal Rules of Criminal Procedure, set out in the Appendix to this title, and rule 9 of the Federal Rules of Appellate Procedure, set out in the Appendix to Title 28\] may be cited as the 'Bail Reform Act of 1984'."
 
 #### Short Title of 1982 Amendment
 

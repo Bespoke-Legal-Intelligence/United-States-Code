@@ -2,7 +2,7 @@
 
 #### (a) Victim screening tools
 
-Not later than October 1, 2018, the Attorney General shall compile and disseminate, to all grantees who are awarded grants to provide victims' services under subsection (b) or (f) of section 7105 of this title, information about reliable and effective tools for the identification of victims of human trafficking.
+Not later than October 1, 2018, the Attorney General shall compile and disseminate, to all grantees who are awarded grants to provide victims' services under subsection (b) or (f) of section 7105 of this title, information about reliableand effective tools for the identification of victims of human trafficking.
 
 #### (b) Use of screening procedures
 

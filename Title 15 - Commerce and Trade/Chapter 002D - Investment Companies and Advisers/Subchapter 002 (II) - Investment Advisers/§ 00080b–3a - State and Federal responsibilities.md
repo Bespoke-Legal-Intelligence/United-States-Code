@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(ii) has assets under management between—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount specified under subparagraph (A) of paragraph (1), as suchamount may have been adjusted by the Commission pursuant to that subparagraph; and
+&emsp;&emsp;&emsp;&emsp;(I) the amount specified under subparagraph (A) of paragraph (1), as such amount may have been adjusted by the Commission pursuant to that subparagraph; and
 
 &emsp;&emsp;&emsp;&emsp;(II) $100,000,000, or such higher amount as the Commission may, by rule, deem appropriate in accordance with the purposes of this subchapter.
 
@@ -92,7 +92,7 @@ Pub. L. 104–290, title III, §307, Oct. 11, 1996, 110 Stat. 3440, provided tha
 
 "(a)
 
-Preservation of Filing Requirements.—Nothing in this title \[see Short Title of 1996 Amendment note set out under section 80b–20 of this title\] or any amendment made by this title prohibits the securities commission (or any agency or office performing like functions) of any State from requiring the filing of any documents filed with the Commission pursuant to the securities laws solely for notice purposes, together with a consent to service of process and any required fee.
+Preservation of Filing Requirements.—Nothing in this title \[see Short Title of 1996 Amendmentnote set out under section 80b–20 of this title\] or any amendment made by this title prohibits the securities commission (or any agency or office performing like functions) of any State from requiring the filing of any documents filed with the Commission pursuant to the securities laws solely for notice purposes, together with a consent to service of process and any required fee.
 
 "(b)
 

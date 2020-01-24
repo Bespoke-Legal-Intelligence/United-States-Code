@@ -20,7 +20,7 @@ As used in this subchapter—
 
 #### References in Text
 
-Section 1 of the Classified Information Procedures Act, referred to in pars. (2) and (3), is section 1 of Pub.L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+Section 1 of the Classified Information Procedures Act, referred to in pars. (2) and (3), is section 1 of Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
 

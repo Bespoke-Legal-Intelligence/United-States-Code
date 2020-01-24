@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In submitting data required by this subchapter, the applicant may (1) clearly mark anyportions thereof which in the applicant's opinion are trade secrets or commercial or financial information and (2) submit such market material separately from other material required to be submitted under this subchapter.
+In submitting data required by this subchapter, the applicant may (1) clearly mark any portions thereof which in the applicant's opinion are trade secrets or commercial or financial information and (2) submit such market material separately from other material required to be submitted under this subchapter.
 
 #### (b) Disclosure
 
@@ -14,7 +14,7 @@ If the Administrator proposes to release for inspection information which the ap
 
 #### (d) Limitations
 
-(1) All information concerning the objectives, methodology, results, or significance of any test or experiment performed on or with a registered or previously registered pesticide or its separate ingredients, impurities, or degradation products, and any information concerning the effects of such pesticide on any organism or the behavior of such pesticide in the environment, including, but not limited to, data on safety to fish and wildlife, humans and other mammals, plants, animals, and soil, and studies on persistence, translocation and fate in the environment, and metabolism, shall be available for disclosure to the public. The use of such data for any registration purpose shall be governed by section 136a of this title. This paragraph does not authorize the disclosure of any information that—
+(1) All information concerning the objectives, methodology, results, or significance of any test or experiment performed on or with a registered or previously registered pesticide or its separate ingredients, impurities, or degradation products, and any information concerning the effects of such pesticide on any organism or the behavior of such pesticide in the environment, including, but not limited to, data on safety to fish and wildlife, humans and other mammals, plants, animals, and soil, and studies on persistence, translocation and fate in the environment, and metabolism, shall be available for disclosure to the public. The use of such data for any registration purpose shall be governed by section 136a ofthis title. This paragraph does not authorize the disclosure of any information that—
 
 &emsp;(A) discloses manufacturing or quality control processes,
 
@@ -38,7 +38,7 @@ Information otherwise protected from disclosure to the public under subsection (
 
 #### (f) Penalty for disclosure by Federal employees
 
-(1) Any officer or employee of the United States or former officer or employee of the United States who, by virtue of such employment or official position, has obtained possession of, or has access to, material the disclosure of which is prohibited by subsection (b) of this section, and who, knowing that disclosure of such material is prohibited by such subsection, willfully discloses the material in any manner to any person not entitled to receive it, shall befined not more than $10,000 or imprisoned for not more than one year, or both. Section 1905 of title 18 shall not apply with respect to the publishing, divulging, disclosure, or making known of, or making available, information reported or otherwise obtained under this subchapter. Nothing in this subchapter shall preempt any civil remedy under State or Federal law for wrongful disclosure of trade secrets.
+(1) Any officer or employee of the United States or former officer or employee of the United States who, by virtue of such employment or official position, has obtained possession of, or has access to, material the disclosure of which is prohibited by subsection (b) of this section, and who, knowing that disclosure of such material is prohibited by such subsection, willfully discloses the material in any manner to any person not entitled to receive it, shall be fined not more than $10,000 or imprisoned for not more than one year, or both. Section 1905 of title 18 shall not apply with respect to the publishing, divulging, disclosure, or making known of, or making available, information reported or otherwise obtained under this subchapter. Nothing in this subchapter shall preempt any civil remedy under State or Federal law for wrongful disclosure of trade secrets.
 
 (2) For the purposes of this section, any contractor with the United States who is furnished information as authorized by subsection (e) of this section, or any employee of any such contractor, shall be considered to be an employee of the United States.
 

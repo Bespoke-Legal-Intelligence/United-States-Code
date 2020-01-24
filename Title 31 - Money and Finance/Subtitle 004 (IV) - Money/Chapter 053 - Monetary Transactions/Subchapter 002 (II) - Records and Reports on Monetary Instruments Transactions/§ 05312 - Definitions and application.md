@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(F) a thrift institution;
 
-&emsp;&emsp;(G) a broker or dealer registered with the Securities and Exchange Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.);
+&emsp;&emsp;(G) a broker or dealer registered with the Securities and Exchange Commission underthe Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.);
 
 &emsp;&emsp;(H) a broker or dealer in securities or commodities;
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(Y) any business or agency which engages in any activity which the Secretary of the Treasury determines, by regulation, to be an activity which is similar to, related to, or a substitute for any activity in which any business described in this paragraph is authorized to engage; or
 
-&emsp;&emsp;(Z) any other business designated by the Secretary whose cash transactions have ahigh degree of usefulness in criminal, tax, or regulatory matters.
+&emsp;&emsp;(Z) any other business designated by the Secretary whose cash transactions have a high degree of usefulness in criminal, tax, or regulatory matters.
 
 &emsp;(3) "monetary instruments" means—
 

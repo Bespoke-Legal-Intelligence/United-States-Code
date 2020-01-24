@@ -30,7 +30,7 @@ In this chapter:
 
 #### (6) Person
 
-&emsp;The term "person", except as otherwise provided, means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, any State or any political subdivision thereof, or any political entity within a State, any foreign government or nation or any agency, instrumentality or political subdivision of any such government or nation, or other entity located in the United States.
+&emsp;The term "person", except as otherwise provided, means any individual, corporation,partnership, firm, association, trust, estate, public or private institution, any State or any political subdivision thereof, or any political entity within a State, any foreign government or nation or any agency, instrumentality or political subdivision of any such government or nation, or other entity located in the United States.
 
 #### (7) Precursor
 

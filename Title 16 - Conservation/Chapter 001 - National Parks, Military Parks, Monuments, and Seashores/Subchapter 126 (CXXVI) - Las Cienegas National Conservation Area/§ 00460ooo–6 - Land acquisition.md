@@ -8,7 +8,7 @@
 
 #### (2) Private lands
 
-&emsp;The Secretary is authorized to acquire privately held lands or interest in lands withinthe boundaries of the Acquisition Planning District only from a willing seller through donation, exchange, or purchase.
+&emsp;The Secretary is authorized to acquire privately held lands or interest in lands within the boundaries of the Acquisition Planning District only from a willing seller through donation, exchange, or purchase.
 
 #### (3) County lands
 

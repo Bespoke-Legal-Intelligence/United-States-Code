@@ -6,7 +6,7 @@
 | [1062\.](%C2%A7%2001062%20-%20Certain%20former%20spouses.md) | Certain former spouses. |
 | [1063\.](%C2%A7%2001063%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20reserve%20components%20and%20reserve%20retirees%20under%20age%2060.md) | Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60. |
 | [1064\.](%C2%A7%2001064%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20National%20Guard%20serving%20in%20federally%20declared%20disaster%20or%20national%20emergency.md) | Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster or national emergency. |
-| [1065\.](%C2%A7%2001065%20-%20Use%20of%20commissary%20stores%20and%20MWR%20facilities%20certain%20veterans%20and%20caregivers%20for%20veterans.md) | Use of commissary stores and MWR facilities: certain veterans and caregivers for veterans. |
+| [1065\.](%C2%A7%2001065%20-%20Use%20of%20commissary%20stores%20and%20MWR%20facilities%20certain%20veterans%2C%20caregivers%20for%20veterans%2C%20and%20Foreign%20Service%20officers.md) | Use of commissary stores and MWR facilities: certain veterans and caregivers for veterans.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,6 +28,8 @@
 
 <b>1990</b>—Pub. L. 101–510, div. A, title III, §321(d), Nov. 5, 1990, 104 Stat. 1528, added items 1064 and 1065.
 
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 116–92 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -38,4 +40,4 @@
 - [&sect; 01063 - Use of commissary stores and MWR retail facilities members of reserve components and reserve retirees under age 60](%C2%A7%2001063%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20reserve%20components%20and%20reserve%20retirees%20under%20age%2060.md)
 - [&sect; 01063a - Renumbered &sect;1064](%C2%A7%2001063a%20-%20Renumbered%20%C2%A71064.md)
 - [&sect; 01064 - Use of commissary stores and MWR retail facilities members of National Guard serving in federally declared disaster or national emergency](%C2%A7%2001064%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20National%20Guard%20serving%20in%20federally%20declared%20disaster%20or%20national%20emergency.md)
-- [&sect; 01065 - Use of commissary stores and MWR facilities certain veterans and caregivers for veterans](%C2%A7%2001065%20-%20Use%20of%20commissary%20stores%20and%20MWR%20facilities%20certain%20veterans%20and%20caregivers%20for%20veterans.md)
+- [&sect; 01065 - Use of commissary stores and MWR facilities certain veterans, caregivers for veterans, and Foreign Service officers](%C2%A7%2001065%20-%20Use%20of%20commissary%20stores%20and%20MWR%20facilities%20certain%20veterans%2C%20caregivers%20for%20veterans%2C%20and%20Foreign%20Service%20officers.md)

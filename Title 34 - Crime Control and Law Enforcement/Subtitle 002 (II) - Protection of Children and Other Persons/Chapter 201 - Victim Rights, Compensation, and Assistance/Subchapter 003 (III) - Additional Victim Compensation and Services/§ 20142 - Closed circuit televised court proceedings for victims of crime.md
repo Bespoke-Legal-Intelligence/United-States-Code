@@ -46,7 +46,7 @@ As used in this section, the term "State" means any State, the District of Colum
 
 #### (g) Rules
 
-The Judicial Conference of the United States, pursuant to its rule making authority under section 331 of title 28, may promulgate and issue rules, or amend existing rules, to effectuate thepolicy addressed by this section. Upon the implementation of such rules, this section shall cease to be effective.
+The Judicial Conference of the United States, pursuant to its rule making authority under section 331 of title 28, may promulgate and issue rules, or amend existing rules, to effectuate the policy addressed by this section. Upon the implementation of such rules, this section shall cease to be effective.
 
 #### (h) Effective date
 

@@ -40,7 +40,7 @@ The activities of the Program shall include—
 
 &emsp;(8) encouraging interdisciplinary research, and ensuring that processes for solicitation and evaluation of proposals under the Program encourage interdisciplinary projects and collaborations;
 
-&emsp;(9) providing effective education and training for researchers and professionals skilled in the interdisciplinary perspectives necessary for nanotechnology so that a true interdisciplinary research culture for nanoscale science, engineering, and technology can emerge;
+&emsp;(9) providing effective education and training for researchers and professionals skilled inthe interdisciplinary perspectives necessary for nanotechnology so that a true interdisciplinary research culture for nanoscale science, engineering, and technology can emerge;
 
 &emsp;(10) ensuring that ethical, legal, environmental, and other appropriate societal concerns, including the potential use of nanotechnology in enhancing human intelligence and in developing artificial intelligence which exceeds human capacity, are considered during the development of nanotechnology by—
 
@@ -84,7 +84,7 @@ The National Science and Technology Council shall oversee the planning, manageme
 
 &emsp;(7) develop a plan to utilize Federal programs, such as the Small Business Innovation Research Program and the Small Business Technology Transfer Research Program, in support of the activity stated in subsection (b)(7);
 
-&emsp;(8) identify research areas that are not being adequately addressed by the agencies' currentresearch programs and address such research areas;
+&emsp;(8) identify research areas that are not being adequately addressed by the agencies' current research programs and address such research areas;
 
 &emsp;(9) encourage progress on Program activities through the utilization of existing manufacturing facilities and industrial infrastructures such as, but not limited to, the employment of underutilized manufacturing facilities in areas of high unemployment as production engineering and research testbeds; and
 
@@ -96,7 +96,7 @@ The Council shall prepare an annual report, to be submitted to the Senate Commit
 
 &emsp;(1) the Program budget, for the current fiscal year, for each agency that participates in the Program, including a breakout of spending for the development and acquisition of research facilities and instrumentation, for each program component area, and for all activities pursuant to subsection (b)(10);
 
-&emsp;(2) the proposed Program budget for the next fiscal year, for each agency that participates in the Program, including a breakout of spending for the development and acquisition of research facilities and instrumentation, for each program component area, and for all activities pursuant to subsection (b)(10);
+&emsp;(2) the proposed Program budget for the next fiscal year, for each agency that participates in the Program, including a breakout of spending for the development and acquisition of research facilities and instrumentation, for eachprogram component area, and for all activities pursuant to subsection (b)(10);
 
 &emsp;(3) an analysis of the progress made toward achieving the goals and priorities established for the Program;
 

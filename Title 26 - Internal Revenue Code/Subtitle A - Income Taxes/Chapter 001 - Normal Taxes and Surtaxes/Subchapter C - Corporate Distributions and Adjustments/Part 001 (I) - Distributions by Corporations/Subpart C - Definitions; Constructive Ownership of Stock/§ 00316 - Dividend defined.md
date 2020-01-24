@@ -22,7 +22,7 @@ For purposes of this subtitle, the term "dividend" means any distribution of pro
 
 &emsp;&emsp;&emsp;(i) under the law applicable to the taxable year in which the distribution is made, is a personal holding company (as defined in section 542), or
 
-&emsp;&emsp;&emsp;(ii) for the taxable year in respect of which the distribution is made under section 563(b) (relating to dividends paid after the close of the taxable year), or section547 (relating to deficiency dividends), or the corresponding provisions of prior law, is a personal holding company under the law applicable to such taxable year,
+&emsp;&emsp;&emsp;(ii) for the taxable year in respect of which the distribution is made under section 563(b) (relating to dividends paid after the close of the taxable year), or section 547 (relating to deficiency dividends), or the corresponding provisions of prior law, is a personal holding company under the law applicable to such taxable year,
 
 > &emsp;&emsp;the term "dividend" also means any distribution of property (whether or not a dividend as defined in subsection (a)) made by the corporation to its shareholders, to the extent of its undistributed personal holding company income (determined under section 545 without regard to distributions under this paragraph) for such year.
 
@@ -30,7 +30,7 @@ For purposes of this subtitle, the term "dividend" means any distribution of pro
 
 &emsp;&emsp;&emsp;(i) only to the extent of the amounts distributed to distributees other than corporate shareholders, and
 
-&emsp;&emsp;&emsp;(ii) only to the extent that the corporation designates such amounts as a dividend distribution and duly notifies such distributees of such designation, under regulations prescribed by the Secretary, but
+&emsp;&emsp;&emsp;(ii) only to the extent that the corporation designates such amounts as a dividenddistribution and duly notifies such distributees of such designation, under regulations prescribed by the Secretary, but
 
 &emsp;&emsp;&emsp;(iii) not in excess of the sum of such distributees' allocable share of the undistributed personal holding company income for such year, computed without regard to this subparagraph or section 562(b).
 

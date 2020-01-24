@@ -32,7 +32,7 @@ In providing employment to individuals pursuant to contracts under subsection (a
 
 &emsp;(A) Subject to subparagraph (B), the Director of NIH may not provide a scholarship under subsection (a) unless the individual applying for the scholarship agrees that—
 
-&emsp;&emsp;(i) the individual will serve as an employee of the National Institutes of Health full-time for not less than 10 consecutive weeksof each year during which the individual is attending the educational institution involved and receiving such a scholarship;
+&emsp;&emsp;(i) the individual will serve as an employee of the National Institutes of Health full-time for not less than 10 consecutive weeks of each year during which the individual is attending the educational institution involved and receiving such a scholarship;
 
 &emsp;&emsp;(ii) the period of service as such an employee that the individual is obligated to provide under clause (i) is in addition to the period of service as such an employee that the individual is obligated to provide under subsection (a)(1)(B); and
 

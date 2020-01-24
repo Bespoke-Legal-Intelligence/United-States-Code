@@ -118,7 +118,7 @@ Not later than 1 year after December 13, 2016, and annually thereafter, the Secr
 
 #### (h) Information related to antimicrobial stewardship programs
 
-The Secretary shall, as appropriate, disseminate guidance, educational materials, or other appropriate materials related to the development and implementation of evidence-based antimicrobial stewardship programs or practicesat health care facilities, such as nursing homes and other long-term care facilities, ambulatory surgical centers, dialysis centers, outpatient clinics, and hospitals, including community and rural hospitals.
+The Secretary shall, as appropriate, disseminate guidance, educational materials, or other appropriate materials related to the development and implementation of evidence-based antimicrobial stewardship programs or practices at health care facilities, such as nursing homes and other long-term care facilities, ambulatory surgical centers, dialysis centers, outpatient clinics, and hospitals, including community and rural hospitals.
 
 #### (i) Supporting State-based activities to combat antimicrobial resistance
 
@@ -178,6 +178,50 @@ Subsec. (g). Pub. L. 107–188, §109(3), substituted "$25,000,000 for each of t
 
 Nothing in amendment by Pub. L. 114–255 to be construed to restrict the prescribing of antimicrobial drugs or other products, including drugs approved under section 356(h) of Title 21, Food and Drugs, by health care professionals, or to limit the practice of health care, see section 3043 of Pub. L. 114–255, set out as a note under section 356 of Title 21.
 
+#### Additional Strategies for Combating Antibiotic Resistance
+
+Pub. L. 116–22, title V, §505, June 24, 2019, 133 Stat. 951, provided that:
+
+"(a)
+
+Advisory Council.—The Secretary of Health and Human Services (referred to in this section as the 'Secretary') may continue the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria, referred to in this section as the 'Advisory Council'.
+
+"(b)
+
+Duties.—The Advisory Council shall advise and provide information and recommendations to the Secretary regarding programs and policies intended to reduce or combat antibiotic-resistant bacteria that may present a public health threat and improve capabilities to prevent, diagnose, mitigate, or treat such resistance. Such advice, information, and recommendations may be related to improving—
+
+&emsp;"(1) the effectiveness of antibiotics;
+
+&emsp;"(2) research and advanced research on, and the development of, improved and innovative methods for combating or reducing antibiotic resistance, including new treatments, rapid point-of-care diagnostics, alternatives to antibiotics, including alternatives to animal antibiotics, and antimicrobial stewardship activities;
+
+&emsp;"(3) surveillance of antibiotic-resistant bacterial infections, including publicly available and up-to-date information on resistance to antibiotics;
+
+&emsp;"(4) education for health care providers and the public with respect to up-to-date information on antibiotic resistance and ways to reduce or combat such resistance to antibiotics related to humans and animals;
+
+&emsp;"(5) methods to prevent or reduce the transmission of antibiotic-resistant bacterial infections, including stewardship programs; and
+
+&emsp;"(6) coordination with respect to international efforts in order to inform and advance United States capabilities to combat antibiotic resistance.
+
+"(c)
+
+Meetings and Coordination.—
+
+&emsp;"(1)
+
+Meetings.—The Advisory Council shall meet not less than biannually and, to the extent practicable, in coordination with meetings of the Antimicrobial Resistance Task Force established in section 319E(a) of the Public Health Service Act \[42 U.S.C. 247d–5(a)\].
+
+&emsp;"(2)
+
+Coordination.—The Advisory Council shall, to the greatest extent practicable, coordinate activities carried out by the Council with the Antimicrobial Resistance Task Force established under section 319E(a) of the Public Health Service Act (42 U.S.C. 247d–5(a)).
+
+"(d)
+
+FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities and duties of the Advisory Council.
+
+"(e)
+
+Extension of Advisory Council.—Not later than October 1, 2022, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a recommendation on whether the Advisory Council should be extended, and in addition, identify whether there are other committees, councils, or task forces that have overlapping or similar duties to that of the Advisory Council, and whether such committees, councils, or task forces should be combined, including with respect to section 319E(a) of the Public Health Service Act (42 U.S.C. 247d–5(a))."
+
 #### Availability of Data
 
 Pub. L. 114–255, div. A, title III, §3041(b), Dec. 13, 2016, 130 Stat. 1112, provided that: "The Secretary shall make the data collected pursuant to this subsection \[probably refers to the amendments made to this section by section 3041(a) of Pub. L. 114–255\] public. Nothing in this subsection shall be construed as authorizing the Secretary to disclose any information that is a trade secret or confidential information subject to section 552(b)(4) of title 5, United States Code, or section 1905 of title 18, United States Code."
@@ -190,7 +234,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The discovery of antibiotics in the early 20th century fundamentally transformed human and veterinary medicine. Antibiotics save millions of lives each year in the United States and around the world. The rise of antibiotic-resistant bacteria, however, represents a serious threat to public health and the economy. The Centers for Disease Control and Prevention (CDC) in the Department of Health and Human Services (HHS) estimates that annually at least two million illnesses and 23,000 deaths are caused by antibiotic-resistant bacteria in the United States alone.
 
-Detecting, preventing, and controlling antibiotic resistance requires a strategic, coordinated, and sustained effort. It also depends on the engagement of governments, academia, industry, healthcare providers, the general public, and the agricultural community, as well as international partners. Success in this effort will require significant efforts to: minimize the emergence of antibiotic-resistant bacteria; preserve the efficacy of new and existing antibacterial drugs; advance research to develop improved methods for combating antibiotic resistance and conducting antibiotic stewardship; strengthen surveillance efforts in public health and agriculture; develop and promote the use of new, rapid diagnostic technologies; accelerate scientific research and facilitate the development of new antibacterial drugs, vaccines, diagnostics, and other novel therapeutics; maximize the dissemination of the most up-to-date information on the appropriate andproper use of antibiotics to the general public and healthcare providers; work with the pharmaceutical industry to include information on the proper use of over-the-counter and prescription antibiotic medications for humans and animals; and improve international collaboration and capabilities for prevention, surveillance, stewardship, basic research, and drug and diagnostics development.
+Detecting, preventing, and controlling antibiotic resistance requires a strategic, coordinated, and sustained effort. It also depends on the engagement of governments, academia, industry, healthcare providers, the general public, and the agricultural community, as well as international partners. Success in this effort will require significant efforts to: minimize the emergence of antibiotic-resistant bacteria; preserve the efficacy of new and existing antibacterial drugs; advance research to develop improved methods for combating antibiotic resistance and conducting antibiotic stewardship; strengthen surveillance efforts in public health and agriculture; develop and promote the use of new, rapid diagnostic technologies; accelerate scientific research and facilitate the development of new antibacterial drugs, vaccines, diagnostics, and other novel therapeutics; maximize the dissemination of the most up-to-date information on the appropriate and proper use of antibiotics to the general public and healthcare providers; work with the pharmaceutical industry to include information on the proper use of over-the-counter and prescription antibiotic medications for humans and animals; and improve international collaboration and capabilities for prevention, surveillance, stewardship, basic research, and drug and diagnostics development.
 
 The Federal Government will work domestically and internationally to detect, prevent, and control illness and death related to antibiotic-resistant infections by implementing measures that reduce the emergence and spread of antibiotic-resistant bacteria and help ensure the continued availability of effective therapeutics for the treatment of bacterial infections.
 
@@ -232,7 +276,7 @@ Each executive department, agency, or office represented on the Task Force (Task
 
 (i) By February 15, 2015, the Task Force shall submit a 5-year National Action Plan (Action Plan) to the President that outlines specific actions to be taken to implement the Strategy. The Action Plan shall include goals, milestones, and metrics for measuring progress, as well as associated timelines for implementation. The Action Plan shall address recommendations made by the President's Council of Advisors on Science and Technology regarding combating antibiotic resistance.
 
-(ii) Within 180 days of the release of the Action Plan and each year thereafter, the Task Force shall provide the President with an update on Federal Government actions to combat antibiotic resistance consistent with this order, including progress made in implementing the Strategy and Action Plan, plans for addressing any barriers preventing full implementation of the Strategy and Action Plan, and recommendations for new or modified actions. Annual updates shall include specific goals, milestones, and metrics for all proposed actions and recommendations. The Task Force shall take Federal Government resources into consideration when developing these proposed actions and recommendations.
+(ii) Within 180 days of the release of the Action Plan and each year thereafter, the Task Force shall provide the President with an update on Federal Government actions to combat antibiotic resistance consistent withthis order, including progress made in implementing the Strategy and Action Plan, plans for addressing any barriers preventing full implementation of the Strategy and Action Plan, and recommendations for new or modified actions. Annual updates shall include specific goals, milestones, and metrics for all proposed actions and recommendations. The Task Force shall take Federal Government resources into consideration when developing these proposed actions and recommendations.
 
 (iii) In performing its functions, the Task Force shall review relevant statutes, regulations, policies, and programs, and shall consult with relevant domestic and international organizations and experts, as necessary.
 
@@ -256,7 +300,7 @@ Sec. 5. <i>Improved Antibiotic Stewardship</i>. (a) By the end of calendar year 
 
 (d) Task Force agencies shall, as appropriate, monitor improvements in antibiotic use through the National Healthcare Safety Network and other systems.
 
-(e) The Food and Drug Administration (FDA) in HHS, in coordination with the Department of Agriculture (USDA), shall continue taking steps to eliminate theuse of medically important classes of antibiotics for growth promotion purposes in food-producing animals.
+(e) The Food and Drug Administration (FDA) in HHS, in coordination with the Department of Agriculture (USDA), shall continue taking steps to eliminate the use of medically important classes of antibiotics for growth promotion purposes in food-producing animals.
 
 (f) USDA, the Environmental Protection Agency (EPA), and FDA shall strengthen coordination in common program areas, such as surveillance of antibiotic use and resistance patterns in food-producing animals, inter-species disease transmissibility, and research findings.
 

@@ -24,7 +24,7 @@ Special interim payments may be made under the provisions of this section to any
 
 #### (c) Payments for special burdens
 
-Payments made under this section shall be payments made for special burdens imposed onthe local governmental entities in accordance with the second sentence of section 2208 of this title. Payments may be made under this section notwithstanding the provisions of the Act of September 30, 1950 <sup>1</sup> (Public Law 874, Eighty-first Congress), as amended.
+Payments made under this section shall be payments made for special burdens imposed on the local governmental entities in accordance with the second sentence of section 2208 of this title. Payments may be made under this section notwithstanding the provisions of the Act of September 30, 1950 <sup>1</sup> (Public Law 874, Eighty-first Congress), as amended.
 
 #### (d) Recommendation for further assistance payments
 
@@ -76,7 +76,7 @@ Environmental Restoration.—If the Secretary of Energy determines under any aut
 
 "(b)
 
-Conveyance or Transfer.—If the Secretary determines under any authority previously established bylaw that environmental restoration or remediation cannot reasonably be expected to be completed with respect to a parcel of land described in subsection (c) by September 30, 2022, the Secretary shall not convey or transfer the parcel of land.
+Conveyance or Transfer.—If the Secretary determines under any authority previously established by law that environmental restoration or remediation cannot reasonably be expected to be completed with respect to a parcel of land described in subsection (c) by September 30, 2022, the Secretary shall not convey or transfer the parcel of land.
 
 "(c)
 
@@ -152,7 +152,7 @@ Use of Conveyed or Transferred Land.—The parcels of land conveyed or transferr
 
 Treatment of Conveyances and Transfers.—(1) The purpose of the conveyances and transfers under this section is to fulfill the obligations of the United States with respect to Los Alamos National Laboratory, New Mexico, under sections 91 and 94 of the Atomic Energy Community Act of 1955 (42 U.S.C. 2391, 2394).
 
-"(2) Upon the completion of the conveyance or transfer of the parcels of land available for conveyance or transfer under this section, the Secretary shall makeno further payments with respect to Los Alamos National Laboratory under section 91 or section 94 of the Atomic Energy Community Act of 1955.
+"(2) Upon the completion of the conveyance or transfer of the parcels of land available for conveyance or transfer under this section, the Secretary shall make no further payments with respect to Los Alamos National Laboratory under section 91 or section 94 of the Atomic Energy Community Act of 1955.
 
 "(j)
 

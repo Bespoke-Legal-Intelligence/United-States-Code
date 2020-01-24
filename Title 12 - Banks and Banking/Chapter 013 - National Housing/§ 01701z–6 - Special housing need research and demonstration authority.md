@@ -54,7 +54,7 @@ Pub. L. 98–181, title I \[title II, §225\], Nov. 30, 1983, 97 Stat. 1191, pro
 
 "(c) The Secretary of Housing and Urban Development (hereafter referred to in this section as the 'Secretary') shall, to the extent approved in appropriation Acts, establish and maintain a demonstration project to carry out the purpose described in subsection (b).
 
-"(d) In carrying out such project, the Secretary shall make grants to units of general local government, or designated agencies thereof, to carry out administrative plans approved by the Secretary in accordance with subsection (e), and the Secretary may make grants to States to provide technical assistance for the purpose of assisting such units of general local government to develop and carry out such plans.
+"(d) In carrying out such project, the Secretary shall make grants to units of general local government, or designated agencies thereof, to carry out administrative plans approved by the Secretary in accordancewith subsection (e), and the Secretary may make grants to States to provide technical assistance for the purpose of assisting such units of general local government to develop and carry out such plans.
 
 "(e)(1) Grants may be made to States and units of general local government and agencies thereof that apply for them in a manner and at a time determined by the Secretary and that, in the case of units of general local government and their agencies, are selected on the basis of an administrative plan described in such application.
 

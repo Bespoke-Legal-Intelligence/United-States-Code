@@ -24,7 +24,7 @@ Proceedings under this chapter shall be conducted as expeditiously as possible. 
 
 #### (d) Tenure
 
-Each judge designated under this section shall so serve for a maximum of seven years and shall not be eligible for redesignation, except that the judges first designated under subsection (a) shall be designated for terms of from one to seven years so that one term expires each year, and that judges first designated under subsection (b) shall be designated for terms of three, five, and seven years.
+Each judge designated under this section shall so serve for a maximum of seven years and shall not be eligible for redesignation, except that thejudges first designated under subsection (a) shall be designated for terms of from one to seven years so that one term expires each year, and that judges first designated under subsection (b) shall be designated for terms of three, five, and seven years.
 
 #### (e) Jurisdiction and procedures for review of petitions
 
@@ -158,7 +158,7 @@ Following issuance of an order under this chapter, a court established under sub
 
 &emsp;Upon certification of an application under paragraph (1), the Supreme Court of the United States may appoint an amicus curiae designated under subsection (i)(1), or any other person, to provide briefing or other assistance.
 
-(Pub. L. 95–511, title I, §103, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 107–56, title II, §208, Oct. 26, 2001, 115 Stat. 283; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§106(f)(1), 109(d), Mar. 9, 2006, 120 Stat. 197, 205; Pub. L. 110–55, §5(a), Aug. 5, 2007, 121 Stat. 556;Pub. L. 110–261, title I, §109(a)–(b)(2)(A), (c), (d), title IV, §403(a)(1)(B)(ii), July 10, 2008, 122 Stat. 2464, 2465, 2474; Pub. L. 111–259, title VIII, §§801(2), 806(a)(2), Oct. 7, 2010, 124 Stat. 2746, 2748; Pub. L. 114–23, title IV, §401, June 2, 2015, 129 Stat. 279; Pub. L. 115–118, title I, §§101(b)(2)(A), 106, title II, §205(a)(1), (b)(1), Jan. 19, 2018, 132 Stat. 8, 13, 21, 22.)
+(Pub. L. 95–511, title I, §103, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 107–56, title II, §208, Oct. 26, 2001, 115 Stat. 283; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§106(f)(1), 109(d), Mar. 9, 2006, 120 Stat. 197, 205; Pub. L. 110–55, §5(a), Aug. 5, 2007, 121 Stat. 556; Pub. L. 110–261, title I, §109(a)–(b)(2)(A), (c), (d), title IV, §403(a)(1)(B)(ii), July 10, 2008, 122 Stat. 2464, 2465, 2474; Pub. L. 111–259, title VIII, §§801(2), 806(a)(2), Oct. 7, 2010, 124 Stat. 2746, 2748;Pub. L. 114–23, title IV, §401, June 2, 2015, 129 Stat. 279; Pub. L. 115–118, title I, §§101(b)(2)(A), 106, title II, §205(a)(1), (b)(1), Jan. 19, 2018, 132 Stat. 8, 13, 21, 22.)
 
 #### References in Text
 
@@ -172,7 +172,7 @@ Subsec. (b). Pub. L. 115–118, §205(b)(1)(A), struck out "immediately" before 
 
 Pub. L. 115–118, §205(a)(1), which directed substitution of "designated as the" for "designate as the", could not be executed because the words "designate as the" do not appear.
 
-Subsec. (e)(1), (2). Pub. L. 115–118, §101(b)(2)(A), which directed substitution "section 1881a(i)" for "section 1881a(h)", was executed by substituting "1881a(i)(4)" for "1881a(h)(4)" to reflect the probable intent of Congress.
+Subsec. (e)(1), (2). Pub. L. 115–118, §101(b)(2)(A), which directed substitution of "section 1881a(i)" for "section 1881a(h)", was executed by substituting "1881a(i)(4)" for "1881a(h)(4)" to reflect the probable intent of Congress.
 
 Subsec. (h). Pub. L. 115–118, §205(b)(1)(B), substituted "a court established under this section" for "the court established under subsection (a)".
 

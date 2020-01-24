@@ -36,6 +36,88 @@ The words "That the provisions of existing law relating to the award of medals o
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
+#### Review of World War I Valor Medals
+
+Pub. L. 116–92, div. A, title V, §584, Dec. 20, 2019, 133 Stat. 1412, provided that:
+
+"(a)
+
+Review Required.—Each Secretary concerned shall review the service records of World War I veterans described in subsection (b) under the jurisdiction of such Secretary in order to determine whether any such veteran should be awarded the Medal of Honor for valor during World War I.
+
+"(b)
+
+Covered World War I Veterans.—The World War I veterans whose service records may be reviewed under subsection (a) are the following:
+
+&emsp;"(1) African American war veterans, Asian American war veterans, Hispanic American war veterans, Jewish American war veterans, and Native American war veterans who were awarded the Distinguished Service Cross or the Navy Cross for an action that occurred between April 6, 1917, and November 11, 1918.
+
+&emsp;"(2) African American war veterans, Asian American war veterans, Hispanic American war veterans, Jewish American war veterans, and Native American war veterans who were awarded the Croix de Guerre with Palm (that is, awarded at the Army level or above) by the Government of France for an action that occurred between April 6, 1917, and November 11, 1918.
+
+&emsp;"(3) African American war veterans, Asian American war veterans, Hispanic American war veterans, Jewish American war veterans, and Native American war veterans who were recommended for a Medal of Honor for actions that occurred from April 6, 1917, to November 11, 1918, if the Department of Defense possesses or receives records relating to such recommendation.
+
+"(c)
+
+Recommendation Based on Review.—If a Secretary concerned determines, based upon the review under subsection (a), that the award of the Medal of Honor to a covered World War I veteran is warranted, such Secretary shall submit to the President a recommendation that the President award the Medal of Honor to that veteran.
+
+"(d)
+
+Authority To Award Medal of Honor.—The Medal of Honor may be awarded to a World War I veteran in accordance with a recommendation of a Secretary concerned under subsection (c).
+
+"(e)
+
+Waiver of Time Limitations.—An award of the Medal of Honor may be made under subsection (d) without regard to—
+
+&emsp;"(1) section 7274 or 8298 of title 10, United States Code, as applicable; and
+
+&emsp;"(2) any regulation or other administrative restriction on—
+
+&emsp;&emsp;"(A) the time for awarding the Medal of Honor; or
+
+&emsp;&emsp;"(B) the awarding of the Medal of Honor for service for which a Distinguished Service Cross or Navy Cross has been awarded.
+
+"(f)
+
+Deadline.—The review under subsection (a) shall terminate not later than five years after the date of the enactment of this Act \[Dec. 20, 2019\].
+
+"(g)
+
+Definitions.—
+
+&emsp;"(1)
+
+In general.—In this section:
+
+&emsp;&emsp;"(A)
+
+African american war veteran.—The term 'African American war veteran' means any person who served in the United States Armed Forces between April 6, 1917, and November 11, 1918, and who identified himself as of African descent on his military personnel records.
+
+&emsp;&emsp;"(B)
+
+Asian american war veteran.—The term 'Asian American war veteran' means any person who served in the United States Armed Forces between April 6, 1917, and November 11, 1918, and who identified himself racially, nationally, or ethnically as originating from a country in Asia on his military personnel records.
+
+&emsp;&emsp;"(C)
+
+Hispanic american war veteran.—The term 'Hispanic American war veteran' means any person who served in the United States Armed Forces between April 6, 1917, and November 11, 1918, and who identified himself racially, nationally, or ethnically as originating from a country where Spanish is an official language on his military personnel records.
+
+&emsp;&emsp;"(D)
+
+Jewish american war veteran.—The term 'Jewish American war veteran' mean any person who served in the United States Armed Forces between April 6, 1917, and November 11, 1918, and who identified himself as Jewish on his military personnel records.
+
+&emsp;&emsp;"(E)
+
+Native american war veteran.—The term 'Native American war veteran' means any person who served in the United States Armed Forces between April 6, 1917, and November 11, 1918, and who identified himself as a member of a federally recognized tribe within the modern territory of the United States on his military personnel records.
+
+&emsp;&emsp;"(F)
+
+Secretary concerned.—The term 'Secretary concerned' means—
+
+&emsp;&emsp;&emsp;"(i) the Secretary of the Army, in the case of members of the Armed Forces who served in the Army between April 6, 1917, and November 11, 1918; and
+
+&emsp;&emsp;&emsp;"(ii) the Secretary of the Navy, in the case of members of the Armed Forces who served in the Navy or the Marine Corps between April 6, 1917, and November 11, 1918.
+
+&emsp;"(2)
+
+Application of definitions of origin.—If the military personnel records of a person do not reflect the person's membership in one of the groups identified in subparagraphs (B) through (F) of paragraph (1) but historical evidence exists that demonstrates the person's Jewish faith held at the time of service, or that the person identified himself as of African, Asian, Hispanic, or Native American descent, the person may be treated as being a member of the applicable group by the Secretary concerned for purposes of this section."
+
 #### Review Regarding Award of Medal of Honor to Certain Asian American and Native American Pacific Islander War Veterans
 
 Pub. L. 114–328, div. A, title V, §586, Dec. 23, 2016, 130 Stat. 2151, as amended by Pub. L. 115–232, div. A, title VIII, §809(b)(6), Aug. 13, 2018, 132 Stat. 1840, provided that:
@@ -114,7 +196,7 @@ Covered Jewish American War Veterans and Hispanic American War Veterans.—The J
 
 &emsp;"(1) Any Jewish American war veteran or Hispanic American war veteran who was awarded the Distinguished Service Cross, the Navy Cross, or the Air Force Cross before the date of the enactment of this Act \[Dec. 28, 2001\].
 
-&emsp;"(2) Any other Jewish American war veteran or Hispanic American war veteran whose name is submitted to the Secretary concerned for such purpose before the end of the one-year period beginning on the date of the enactment of this Act.
+&emsp;"(2) Any other Jewish American war veteran or Hispanic American war veteran whose name is submitted to the Secretary concerned for such purpose beforethe end of the one-year period beginning on the date of the enactment of this Act.
 
 "(c)
 

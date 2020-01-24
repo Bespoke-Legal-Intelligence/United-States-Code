@@ -112,7 +112,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) recognizing the new or updated standards;
 
-&emsp;&emsp;&emsp;&emsp;(III) recognizing one or more parts of the new or updated interpretive criteria specified in such a standard and declining to recognize the remainder of such standard; and
+&emsp;&emsp;&emsp;&emsp;(III) recognizing one or more parts of the new or updated interpretive criteriaspecified in such a standard and declining to recognize the remainder of such standard; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) making any necessary updates to the lists under subsection (b)(2).
 
@@ -146,7 +146,7 @@
 
 #### (5) Voluntary use of interpretive criteria
 
-&emsp;Nothing in this section prohibits a person from seeking approval or clearance of a drug or device, or changes to the drug or the device,on the basis of susceptibility test interpretive criteria which differ from those contained in a standard recognized, or from those otherwise listed, by the Secretary pursuant to subsection (b)(2).
+&emsp;Nothing in this section prohibits a person from seeking approval or clearance of a drug or device, or changes to the drug or the device, on the basis of susceptibility test interpretive criteria which differ from those contained in a standard recognized, or from those otherwise listed, by the Secretary pursuant to subsection (b)(2).
 
 #### (d) Antimicrobial drug labeling
 

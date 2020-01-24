@@ -14,11 +14,11 @@ The President, the Chairman of the Council, and the heads of the agencies and de
 
 #### (c) Effect on Federal response actions
 
-Nothing in this subchapter shall be construed, interpreted, or applied to preclude or delay the planning or implementation of any Federal action designed, in whole or in part, to address the threats of stratospheric ozone depletion or global climate change.
+Nothing in this subchapter shall be construed, interpreted, or applied to preclude or delay theplanning or implementation of any Federal action designed, in whole or in part, to address the threats of stratospheric ozone depletion or global climate change.
 
 (Pub. L. 101–606, title I, §108, Nov. 16, 1990, 104 Stat. 3101.)
 
 #### References in Text
 
-The National Climate Program Act, referred to in subsec. (a), is Pub. L. 95–367, Sept. 17, 1978, 92 Stat. 601, as amended, which is classified principally to chapter56 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+The National Climate Program Act, referred to in subsec. (a), is Pub. L. 95–367, Sept. 17, 1978, 92 Stat. 601, as amended, which is classified principally to chapter 56 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 

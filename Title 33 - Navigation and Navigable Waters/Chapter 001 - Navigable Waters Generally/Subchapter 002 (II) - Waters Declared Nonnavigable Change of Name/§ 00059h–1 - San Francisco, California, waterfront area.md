@@ -2,7 +2,7 @@
 
 #### (a) Area to be declared nonnavigable; public interest
 
-Unless the Secretary finds, after consultation with local and regional public officials (including local and regional public planning organizations), that the proposed projects to be undertaken within the boundaries of the portion ofthe San Francisco, California, waterfront area described in subsection (b) are not in the public interest, such portion is declared to be nonnavigable waters of the United States.
+Unless the Secretary finds, after consultation with local and regional public officials (including local and regional public planning organizations), that the proposed projects to be undertaken within the boundaries of the portion of the San Francisco, California, waterfront area described in subsection (b) are not in the public interest, such portion is declared to be nonnavigable waters of the United States.
 
 #### (b) Northern embarcadero south of Bryant Street
 

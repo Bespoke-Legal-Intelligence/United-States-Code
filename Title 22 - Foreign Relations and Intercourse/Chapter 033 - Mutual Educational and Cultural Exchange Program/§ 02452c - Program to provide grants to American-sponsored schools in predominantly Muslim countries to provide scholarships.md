@@ -30,7 +30,7 @@ For purposes of the program, a United States-sponsored elementary and secondary 
 
 #### (e) Restriction on use of funds
 
-Amounts appropriated to the Secretary of State pursuant to the authorization of appropriations in subsection (h) shall be used for the sole purpose of making grants under this section, and may not be used for the administrationof the Office of Overseas Schools of the Department of State or for any other activity of the Office.
+Amounts appropriated to the Secretary of State pursuant to the authorization of appropriations in subsection (h) shall be used for the sole purpose of making grants under this section, and may not be used for the administration of the Office of Overseas Schools of the Department of State or for any other activity of the Office.
 
 #### (f) Voluntary participation
 

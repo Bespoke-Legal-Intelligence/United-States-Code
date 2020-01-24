@@ -6,7 +6,7 @@
 
 &emsp;(B) the number of children entitled to a payment under this section for such month.
 
-(2) The applicable amount under this paragraph for any month is the total amount to which the surviving child or children (as the case may be) of the annuitant, employee, or Member would be entitled for such month undersubchapter III of chapter 83 (including any adjustment based on section 8340) based on the service of such annuitant, employee, or Member, if the service of such annuitant, employee, or Member were creditable under such subchapter.
+(2) The applicable amount under this paragraph for any month is the total amount to which the surviving child or children (as the case may be) of the annuitant, employee, or Member would be entitled for such month under subchapter III of chapter 83 (including any adjustment based on section 8340) based on the service of such annuitant, employee, or Member, if the service of such annuitant, employee, or Member were creditable under such subchapter.
 
 (3) The applicable amount under this paragraph for any month is the total amount of child's insurance benefits which are payable (or would, on proper application, be payable) under title II of the Social Security Act for such month based on the wages and self-employment income of such annuitant, employee, or Member.
 

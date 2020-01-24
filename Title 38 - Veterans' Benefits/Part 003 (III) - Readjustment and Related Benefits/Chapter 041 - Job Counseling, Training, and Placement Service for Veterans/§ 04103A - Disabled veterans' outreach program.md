@@ -16,7 +16,7 @@ Requirement for Employment by States of a Sufficient Number of Specialists.—(1
 
 (b)
 
-Requirement for Qualified Veterans.—A State shall, to the maximum extent practicable,employ qualified veterans to carry out the services referred to in subsection (a). Preference shall be given in the appointment of such specialists to qualified disabled veterans.
+Requirement for Qualified Veterans.—A State shall, to the maximum extent practicable, employ qualified veterans to carry out the services referred to in subsection (a). Preference shall be given in the appointment of such specialists to qualified disabled veterans.
 
 (c)
 

@@ -1,6 +1,6 @@
 ### §3261. Criminal offenses committed by certain members of the Armed Forces and by persons employed by or accompanying the Armed Forces outside the United States
 
-(a) Whoever engages in conduct outside the United States that would constitute an offense punishable by imprisonment for more than 1 year if the conduct had been engaged in within the special maritime and territorial jurisdiction of the United States—
+(a) Whoever engages in conduct outside the United States that would constitute an offense punishable by imprisonment for more than 1year if the conduct had been engaged in within the special maritime and territorial jurisdiction of the United States—
 
 &emsp;(1) while employed by or accompanying the Armed Forces outside the United States; or
 

@@ -2,7 +2,7 @@
 
 In this subchapter:
 
-&emsp;(1) The term "aggravating" means, with respect to a health condition, a health condition that existed on September 11, 2001, and that,as a result of exposure to airborne toxins, any other hazard, or any other adverse condition resulting from the September 11, 2001, terrorist attacks, requires medical treatment that is (or will be) in addition to, more frequent than, or of longer duration than the medical treatment that would have been required for such condition in the absence of such exposure.
+&emsp;(1) The term "aggravating" means, with respect to a health condition, a health condition that existed on September 11, 2001, and that, as a result of exposure to airborne toxins, any other hazard, or any other adverse condition resulting from the September 11, 2001, terrorist attacks, requires medical treatment that is (or will be) in addition to, more frequent than, or of longer duration than the medical treatment that would have been required for such condition in the absence of such exposure.
 
 &emsp;(2) The term "certified-eligible WTC survivor" has the meaning given such term in section 300mm–31(a)(2) of this title.
 
@@ -40,7 +40,7 @@ In this subchapter:
 
 &emsp;&emsp;(i) subject to subparagraph (B), with respect to paragraphs (3) and (4) of section 300mm–21(a) of this title (relating to enrollment of WTC responders), section 300mm–22(c) of this title and the corresponding provisions of section 300mm–32 of this title (relating to payment for initial health evaluation, monitoring, and treatment,<sup>1</sup> paragraphs (1)(C), (2)(B), and (3) of section 300mm–31(a) of this title (relating to determination or certification of screening-eligible or certified-eligible WTC responders), and subpart 3 of part B (relating to payor provisions), an official in the Department of Health and Human Services, to be designated by the Secretary; and
 
-&emsp;&emsp;(ii) with respect to any other provision of this subchapter, the Director of the National Institute for Occupational Safety and Health, or a designee of such Director.
+&emsp;&emsp;(ii) with respect to any other provision of this subchapter, the Director of the NationalInstitute for Occupational Safety and Health, or a designee of such Director.
 
 &emsp;(B) In no case may the Secretary designate under subparagraph (A)(i) the Director of the National Institute for Occupational Safety and Health or a designee of such Director with respect to section 300mm–32 of this title (relating to payment for initial health evaluation, monitoring, and treatment).
 

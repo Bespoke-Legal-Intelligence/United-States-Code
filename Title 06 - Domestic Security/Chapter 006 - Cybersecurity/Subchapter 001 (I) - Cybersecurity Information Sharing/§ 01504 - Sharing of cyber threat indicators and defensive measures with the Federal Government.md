@@ -66,7 +66,7 @@
 
 #### (1) Interim guidelines
 
-&emsp;Not later than 60 days after December 18, 2015, the Attorney General and the Secretary of Homeland Security shall, in consultation with heads of the appropriate Federal entities and in consultation with officers designated under section 2000ee–1 of title 42, jointly develop, submit to Congress, and make available to the public interim guidelines relating to privacy and civil liberties which shall govern the receipt, retention, use, and dissemination of cyber threat indicators by a Federal entity obtained in connection with activities authorized in this subchapter.
+&emsp;Not later than 60 days after December 18, 2015, the Attorney General and the Secretary of Homeland Security shall, in consultationwith heads of the appropriate Federal entities and in consultation with officers designated under section 2000ee–1 of title 42, jointly develop, submit to Congress, and make available to the public interim guidelines relating to privacy and civil liberties which shall govern the receipt, retention, use, and dissemination of cyber threat indicators by a Federal entity obtained in connection with activities authorized in this subchapter.
 
 #### (2) Final guidelines
 
@@ -150,7 +150,7 @@
 
 #### (ii) Application to additional capability and process
 
-&emsp;&emsp;&emsp;If the President designates an appropriate Federal entity to develop and implement a capability and process under clause\(i), the provisions of this subchapter that apply to the capability and process required by paragraph (1) shall also be construed to apply to the capability and process developed and implemented under clause (i).
+&emsp;&emsp;&emsp;If the President designates an appropriate Federal entity to develop and implement a capability and process under clause (i), the provisions of this subchapter that apply to the capability and process required by paragraph (1) shall also be construed to apply to the capability and process developed and implemented under clause (i).
 
 #### (3) Public notice and access
 
@@ -180,7 +180,7 @@
 
 &emsp;&emsp;(A) deemed voluntarily shared information and exempt from disclosure under section 552 of title 5 and any State, tribal, or local provision of law requiring disclosure of information or records; and
 
-&emsp;&emsp;(B) withheld, without discretion, from the public under section 552(b)(3)(B) of title 5 and any State, tribal, or local provision of law requiring disclosure of information or records.
+&emsp;&emsp;(B) withheld, without discretion, from the public under section 552(b)(3)(B) of title 5and any State, tribal, or local provision of law requiring disclosure of information or records.
 
 #### (4) Ex parte communications
 

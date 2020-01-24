@@ -20,7 +20,7 @@ To be eligible to receive a grant under subsection (a), an entity shall—
 
 &emsp;&emsp;(E) an Indian tribe; and
 
-&emsp;(2) submit to the Director an application at such time, in such a manner, and containingsuch information as the Director may require, including a description of the program to be carried out under the grant; and
+&emsp;(2) submit to the Director an application at such time, in such a manner, and containing such information as the Director may require, including a description of the program to be carried out under the grant; and
 
 &emsp;(3) demonstrate a history or capacity, if funded, to develop relationships necessary to engage key stakeholders from multiple sectors within and beyond health care and across a community, such as healthy futures corps and health care providers.
 

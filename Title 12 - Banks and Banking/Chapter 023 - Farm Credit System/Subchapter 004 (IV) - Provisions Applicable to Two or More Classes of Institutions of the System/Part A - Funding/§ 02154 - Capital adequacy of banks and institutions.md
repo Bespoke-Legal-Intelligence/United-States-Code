@@ -50,7 +50,7 @@ In general.—
 
 &emsp;"(A)
 
-Establishment.—Within 120 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall issue regulations under section 4.3(a) of the Farm Credit Act of 1971 (12 U.S.C. 2154(c) \[12 U.S.C. 2154(a)\]) that establish minimum permanent capital adequacy standards for Farm Credit System institutions.
+Establishment.—Within 120 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall issue regulations under section 4.3(a) of the Farm Credit Act of 1971 (12U.S.C. 2154(c) \[12 U.S.C. 2154(a)\]) that establish minimum permanent capital adequacy standards for Farm Credit System institutions.
 
 &emsp;"(B)
 

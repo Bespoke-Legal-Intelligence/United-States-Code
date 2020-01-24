@@ -12,7 +12,7 @@ In order to enforce this subchapter, the Secretary, on behalf of the President, 
 
 &emsp;(4) conduct investigations within the United States and outside the United States consistent with applicable law;
 
-&emsp;(5) inspect, search, detain, seize, or issue temporary denial orders with respect to items, in any form, that are subject to controls under this subchapter, or conveyances on which it is believed that there are items that have been, are being, or are about to be exported, reexported, or in-country transferred in violation of this subchapter, or any regulations, order, license, or other authorization issued thereunder;
+&emsp;(5) inspect, search, detain, seize, or issue temporary denial orders with respect to items, in any form, that are subject to controls under this subchapter, or conveyances on which it isbelieved that there are items that have been, are being, or are about to be exported, reexported, or in-country transferred in violation of this subchapter, or any regulations, order, license, or other authorization issued thereunder;
 
 &emsp;(6) carry firearms;
 
@@ -66,7 +66,7 @@ In the case of contumacy by, or refusal to obey a subpoena issued to, any person
 
 #### (2) Export compliance program
 
-&emsp;The implementation by a person of an effective export compliance program and a highquality overall export compliance effort by a person should ordinarily be given weight as mitigating factors in a civil penalty action against the person under this subchapter.
+&emsp;The implementation by a person of an effective export compliance program and a high quality overall export compliance effort by a person should ordinarily be given weight as mitigating factors in a civil penalty action against the person under this subchapter.
 
 #### (e) Reference to enforcement
 
@@ -84,7 +84,7 @@ A person shall not be excused from complying with any requirements under this se
 
 #### (A) In general
 
-&emsp;&emsp;Information obtained under this subchapter may be withheld from disclosure only to the extent permitted by statute, except that information described in subparagraph (B) shall be withheld from public disclosure and shall not be subject to disclosure under section 552(b)(3) of title 5, unless the release of such information is determined by the Secretary to be in the national interest.
+&emsp;&emsp;Information obtained under this subchapter may be withheld from disclosure only to the extent permitted by statute, except that information described in subparagraph (B) shall be withheld from public disclosure and shall not be subject to disclosureunder section 552(b)(3) of title 5, unless the release of such information is determined by the Secretary to be in the national interest.
 
 #### (B) Information described
 
@@ -160,7 +160,7 @@ In the administration of this section, reporting requirements shall be designed 
 
 #### (2) Procedures
 
-&emsp;Any seizure or forfeiture under this subsection shall be carried out in accordance with the procedures set forth in section 981 of title 18.
+&emsp;Any seizure or forfeiture under this subsection shall be carried out in accordance withthe procedures set forth in section 981 of title 18.
 
 #### (k) Rule of construction
 

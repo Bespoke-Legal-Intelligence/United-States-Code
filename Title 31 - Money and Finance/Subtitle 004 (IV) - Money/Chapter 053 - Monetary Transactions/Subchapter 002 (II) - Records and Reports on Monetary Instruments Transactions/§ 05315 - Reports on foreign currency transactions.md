@@ -38,7 +38,7 @@ In subsection (c), the words "(hereafter referred to as the 'Secretary')" are om
 
 #### References in Text
 
-Section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b)), referred to in subsec. (a)(3), is section5(b) of act Oct. 6, 1917, ch. 106, 40 Stat. 415, which was editorially transferred and is now classified to section 4305(b) of Title 50, War and National Defense.
+Section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b)), referred to in subsec. (a)(3), is section 5(b) of act Oct. 6, 1917, ch. 106, 40 Stat. 415, which was editorially transferred and is now classified to section 4305(b) of Title 50, War and National Defense.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

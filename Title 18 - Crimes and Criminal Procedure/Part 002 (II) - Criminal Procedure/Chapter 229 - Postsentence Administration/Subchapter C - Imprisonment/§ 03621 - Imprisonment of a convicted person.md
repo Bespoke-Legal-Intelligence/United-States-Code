@@ -22,7 +22,7 @@ Place of Imprisonment.—The Bureau of Prisons shall designate the place of the 
 
 &emsp;(5) any pertinent policy statement issued by the Sentencing Commission pursuant to section 994(a)(2) of title 28.
 
-> In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status. The Bureau may at any time, having regard for the same matters, direct the transfer of a prisoner from one penal or correctional facility to another. The Bureau shall make available appropriate substanceabuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse. Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person. Notwithstanding any other provision of law, a designation of a place of imprisonment under this subsection is not reviewable by any court.
+> In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status. The Bureau may at any time, having regard for the same matters, direct the transfer of a prisoner from one penal or correctional facility to another. The Bureau shall make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse. Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person. Notwithstanding any other provision of law, a designation of a place of imprisonment under this subsection is not reviewable by any court.
 
 (c)
 
@@ -116,15 +116,33 @@ Authorization of appropriations.—There are authorized to be appropriated to th
 
 (g)
 
-Continued Access to Medical Care.—
+Partnerships To Expand Access to Reentry Programs Proven To Reduce Recidivism.—
 
 &emsp;(1)
 
-In general.—In order to ensure a minimum standard of health and habitability, the Bureau of Prisons should ensure that each prisoner in a community confinement facility has access to necessary medical care, mental health care, and medicine through partnerships with local health service providers and transition planning.
+Definition.—The term "demonstrated to reduce recidivism" means that the Director of Bureau of Prisons has determined that appropriate research has been conducted and has validated the effectiveness of the type of program on recidivism.
 
 &emsp;(2)
 
-Definition.—In this subsection, the term "community confinement" has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
+Eligibility for recidivism reduction partnership.—A faith-based or community-based nonprofit organization that provides mentoring or other programs that have been demonstrated to reduce recidivism is eligible to enter into a recidivism reduction partnership with a prison or community-based facility operated by the Bureau of Prisons.
+
+&emsp;(3)
+
+Recidivism reduction partnerships.—The Director of the Bureau of Prisons shall develop policies to require wardens of prisons and community-based facilities to enter into recidivism reduction partnerships with faith-based and community-based nonprofit organizations that are willing to provide, on a volunteer basis, programs described in paragraph (2).
+
+&emsp;(4)
+
+Reporting requirement.—The Director of the Bureau of Prisons shall submit to Congress an annual report on the last day of each fiscal year that—
+
+&emsp;&emsp;(A) details, for each prison and community-based facility for the fiscal year just ended—
+
+&emsp;&emsp;&emsp;(i) the number of recidivism reduction partnerships under this section that were in effect;
+
+&emsp;&emsp;&emsp;(ii) the number of volunteers that provided recidivism reduction programming; and
+
+&emsp;&emsp;&emsp;(iii) the number of recidivism reduction programming hours provided; and
+
+&emsp;&emsp;(B) explains any disparities between facilities in the numbers reported under subparagraph (A).
 
 (h)
 
@@ -178,59 +196,33 @@ Recidivism reduction partnerships.—In order to expand evidence-based recidivis
 
 &emsp;(6)
 
-Requirement to provide programs to all prisoners; priority.—The Director of the Bureau of Prisons shall provide all prisoners with the opportunity to actively participate in evidence-based recidivism reduction programsor productive activities, according to their specific criminogenic needs, throughout their entire term of incarceration. Priority for participation in recidivism reduction programs shall be given to medium-risk and high-risk prisoners, with access to productive activities given to minimum-risk and low-risk prisoners.
+Requirement to provide programs to all prisoners; priority.—The Director of the Bureau of Prisons shall provide all prisoners with the opportunity to actively participate in evidence-based recidivism reduction programs or productive activities, according to their specific criminogenic needs, throughout their entire term of incarceration. Priority for participation in recidivism reduction programs shall be given to medium-risk and high-risk prisoners, with access to productive activities given to minimum-risk and low-risk prisoners.
 
 &emsp;(7)
 
 Definitions.—The terms in this subsection have the meaning given those terms in section 3635.
 
+(i)
+
+Continued Access to Medical Care.—
+
+&emsp;(1)
+
+In general.—In order to ensure a minimum standard of health and habitability, the Bureau of Prisons should ensure that each prisoner in a community confinement facility has access to necessary medical care, mental health care, and medicine through partnerships with local health service providers and transition planning.
+
+&emsp;(2)
+
+Definition.—In this subsection, the term "community confinement" has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
+
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, §2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §20401, title III, §32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, §1146, Jan. 5, 2006, 119 Stat. 3112; Pub. L. 109–248, title VI, §622, July 27, 2006, 120 Stat. 634; Pub. L. 110–199, title II, §§231(f), 251(b), 252, Apr. 9, 2008, 122 Stat. 687, 693; Pub. L. 115–391, title I, §102(a), title V, §504(f)(1), title VI, §601, Dec. 21, 2018, 132 Stat. 5208, 5234, 5237.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–391, title V, §504(f), Dec. 21, 2018, 132 Stat. 5234, provided that, effective 180 days after Dec. 21, 2018, this section is amended—</i>
-
-<i>(1) by redesignating subsection (g) as subsection (i); and</i>
-
-<i>(2) by inserting after subsection (f) the following:</i>
-
-<i>(g)</i>
-
-Partnerships To Expand Access to Reentry Programs Proven To Reduce Recidivism.—
-
-&emsp;<i>(1)</i>
-
-Definition.—The term "demonstrated to reduce recidivism" means that the Director of Bureau of Prisons has determined that appropriate research has been conducted and has validated the effectiveness of the type of program on recidivism.
-
-&emsp;<i>(2)</i>
-
-Eligibility for recidivism reduction partnership.—A faith-based or community-based nonprofit organization that provides mentoring or other programs that have been demonstrated to reduce recidivism is eligible to enter into a recidivism reduction partnership with a prison or community-based facility operated by the Bureau of Prisons.
-
-&emsp;<i>(3)</i>
-
-Recidivism reduction partnerships.—The Director of the Bureau of Prisons shall develop policies to require wardens of prisons and community-based facilities to enter into recidivism reduction partnerships with faith-based and community-based nonprofit organizations that are willing to provide, on a volunteer basis, programs described in paragraph (2).
-
-&emsp;<i>(4)</i>
-
-Reporting requirement.—The Director of the Bureau of Prisons shall submit to Congress an annual report on the last day of each fiscal year that—
-
-&emsp;&emsp;<i>(A) details, for each prison and community-based facility for the fiscal year just ended—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the number of recidivism reduction partnerships under this section that were in effect;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the number of volunteers that provided recidivism reduction programming; and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) the number of recidivism reduction programming hours provided; and</i>
-
-&emsp;&emsp;<i>(B) explains any disparities between facilities in the numbers reported under subparagraph (A).</i>
 
 #### References in Text
 
-The effective date of this subsection, referred to in subsec. (h)(1)(A), probably means the date of enactment of Pub. L. 115–391, which added subsec. (h) of this section and was approved Dec. 21, 2018.
+The effective date of this subsection, referred to in subsec. (h)(1)(A), probably means the date of enactmentof Pub. L. 115–391, which added subsec. (h) of this section and was approved Dec. 21, 2018.
 
 The date of enactment of this subsection, referred to in subsec. (h)(4), is the date of enactment of Pub. L. 115–391, which was approved Dec. 21, 2018.
 
-The date of the enactment of the Second Chance Act of 2007, referred to in subsec. (g)(2), is the date of enactment of Pub. L. 110–199, which was approved Apr. 9, 2008.
+The date of the enactment of the Second Chance Act of 2007, referred to in subsec. (i)(2), is the date of enactment of Pub. L. 110–199, which was approved Apr. 9, 2008.
 
 #### Prior Provisions
 
@@ -348,7 +340,7 @@ Report on Evidence-based Treatment for Opioid and Heroin Abuse.—Not later than
 
 "(b)
 
-Report on the Availability of Medication-Assisted Treatment for Opioid and Heroin Abuse, andImplementation Thereof.—Not later than 120 days after the date of enactment of this Act, the Director of the Administrative Office of the United States Courts shall submit to the Committees on the Judiciary and the Committees on Appropriations of the Senate and of the House of Representatives a report assessing the availability of and capacity for the provision of medication-assisted treatment for opioid and heroin abuse by treatment service providers serving prisoners who are serving a term of supervised release, and including a description of plans to expand access to medication-assisted treatment for heroin and opioid abuse whenever appropriate among prisoners under supervised release. Following submission, the Director will take steps to implement these plans."
+Report on the Availability of Medication-Assisted Treatment for Opioid and Heroin Abuse, and Implementation Thereof.—Not later than 120 days after the date of enactment of this Act, the Director of the Administrative Office of the United States Courts shall submit to the Committees on the Judiciary and the Committees on Appropriations of the Senate and of the House of Representatives a report assessing the availability of and capacity for the provision of medication-assisted treatment for opioid and heroin abuse by treatment service providers serving prisoners who are serving a term of supervised release, and including a description of plans to expand access to medication-assisted treatment for heroin and opioid abuse whenever appropriate among prisoners under supervised release. Following submission, the Director will take steps to implement these plans."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "pharmacotherapies,".</i>
 

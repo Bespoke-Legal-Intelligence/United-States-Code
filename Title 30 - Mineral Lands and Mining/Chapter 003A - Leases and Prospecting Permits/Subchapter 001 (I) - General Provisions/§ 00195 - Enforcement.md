@@ -6,7 +6,7 @@ It shall be unlawful for any person:
 
 &emsp;(1) to organize or participate in any scheme, arrangement, plan, or agreement to circumvent or defeat the provisions of this chapter or its implementing regulations, or
 
-&emsp;(2) to seek to obtain or to obtain any money or property by means of false statements ofmaterial facts or by failing to state material facts concerning:
+&emsp;(2) to seek to obtain or to obtain any money or property by means of false statements of material facts or by failing to state material facts concerning:
 
 &emsp;&emsp;(A) the value of any lease or portion thereof issued or to be issued under this chapter;
 

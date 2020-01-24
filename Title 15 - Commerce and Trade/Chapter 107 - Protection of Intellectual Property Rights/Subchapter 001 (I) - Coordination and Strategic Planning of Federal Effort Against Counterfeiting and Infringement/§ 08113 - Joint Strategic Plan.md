@@ -48,7 +48,7 @@ In the development and implementation of the joint strategic plan, the heads of 
 
 Each joint strategic plan shall include the following:
 
-&emsp;(1) A description of the priorities identified for carrying out the objectives in the joint strategic plan, including activities of the Federal Government relating to intellectual property enforcement.
+&emsp;(1) A description of the priorities identified for carrying out the objectives in the jointstrategic plan, including activities of the Federal Government relating to intellectual property enforcement.
 
 &emsp;(2) A description of the means to be employed to achieve the priorities, including the means for improving the efficiency and effectiveness of the Federal Government's enforcement efforts against counterfeiting and infringement.
 

@@ -8,7 +8,7 @@ Not later than July 1 of each year, the Attorney General shall submit a report t
 
 &emsp;(3) a detailed explanation of each jurisdiction's compliance with subchapter I of this chapter;
 
-&emsp;(4) a detailed description of Justice Department efforts to ensure compliance and anyfunding reductions, the basis for any decision to reduce funding or not to reduce funding under section 20927 of this title; and
+&emsp;(4) a detailed description of Justice Department efforts to ensure compliance and any funding reductions, the basis for any decision to reduce funding or not to reduce funding under section 20927 of this title; and
 
 &emsp;(5) the denial or grant of any extensions to comply with subchapter I of this chapter, and the reasons for such denial or grant.
 

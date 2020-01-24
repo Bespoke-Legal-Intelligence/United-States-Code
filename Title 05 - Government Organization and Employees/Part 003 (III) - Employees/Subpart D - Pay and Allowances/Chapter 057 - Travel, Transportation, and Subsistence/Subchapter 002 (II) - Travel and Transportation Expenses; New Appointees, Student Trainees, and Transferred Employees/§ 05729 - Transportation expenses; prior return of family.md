@@ -4,7 +4,7 @@
 
 &emsp;(1) he has acquired eligibility for that transportation; or
 
-&emsp;(2) the public interest requires the return of the immediate family for compelling personal reasons of a humanitarian or compassionate nature, such as may involve physical or mental health, death of a member of the immediate family, or obligation imposed by authority or circumstances over which the individual has no control.
+&emsp;(2) the public interest requires the return of the immediate family for compelling personal reasons of a humanitarian or compassionatenature, such as may involve physical or mental health, death of a member of the immediate family, or obligation imposed by authority or circumstances over which the individual has no control.
 
 (b) Under regulations prescribed under section 5738 of this title, an agency shall reimburse from its appropriations an employee whose post of duty is outside the continental United States for the proper transportation expenses of returning his immediate family and his household goods and personal effects to the United States, when—
 

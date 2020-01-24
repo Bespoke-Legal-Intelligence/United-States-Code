@@ -36,7 +36,7 @@ Except to the extent inconsistent with this section—
 
 #### (1) Consultation to ensure local perspectives
 
-&emsp;The Agency for International Development shall take into account the local-level perspectives of the rural and urban poor in sub-Saharan Africa, including women, during theplanning process for project and program assistance under this section. In order to gain that perspective the Agency for International Development should consult closely with African, United States, and other private and voluntary organizations that have demonstrated effectiveness in or commitment to the promotion of local, grassroots activities on behalf of long-term development in sub-Saharan Africa as described in subsection (c).
+&emsp;The Agency for International Development shall take into account the local-level perspectives of the rural and urban poor in sub-Saharan Africa, including women, during the planning process for project and program assistance under this section. In order to gain that perspective the Agency for International Development should consult closely with African, United States, and other private and voluntary organizations that have demonstrated effectiveness in or commitment to the promotion of local, grassroots activities on behalf of long-term development in sub-Saharan Africa as described in subsection (c).
 
 #### (2) "Private and voluntary organization" defined
 
@@ -172,7 +172,7 @@ Funds made available to carry out this section may be used to assist the governm
 
 &emsp;To the maximum extent feasible, the assistance authorized by this subsection shall be provided consistent with the policies and authorities contained in the preceding subsection of this section.
 
-(Pub. L. 87–195, pt. I, §496, as added Pub. L. 101–513, title V, §562(a), Nov. 5, 1990, 104 Stat.2026; amended Pub. L. 106–200, title I, §127(c), May 18, 2000, 114 Stat. 273; Pub. L. 106–264, title I, §111(b), Aug. 19, 2000, 114 Stat. 752.)
+(Pub. L. 87–195, pt. I, §496, as added Pub. L. 101–513, title V, §562(a), Nov. 5, 1990, 104 Stat. 2026; amended Pub. L. 106–200, title I, §127(c), May 18, 2000, 114 Stat. 273; Pub. L. 106–264, title I, §111(b), Aug. 19, 2000, 114 Stat. 752.)
 
 #### References in Text
 
@@ -198,7 +198,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Electrify Africa
 
-Pub. L. 114–121, Feb. 8, 2016, 130 Stat. 86, provided that:
+Pub. L. 114–121, Feb. 8, 2016, 130 Stat. 86, as amended by Pub. L. 115–254, div. F, title VI, §1470(k), Oct. 5, 2018, 132 Stat. 3517, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -322,7 +322,7 @@ Report Required.—Not later than 180 days after the date of the enactment of th
 
 &emsp;"(9) A description of how the President intends to promote trade in electrical equipment with countries in sub-Saharan Africa, including a description of how the government of each country receiving assistance pursuant to the strategy—
 
-&emsp;&emsp;"(A) plans to lower or eliminate import tariffs or other taxes for energy and other power production and distribution technologies destined for sub-Saharan Africa, including equipment used to provide energy access, including solar lanterns, solar home systems, and micro and mini grids; and
+&emsp;&emsp;"(A) plans to lower or eliminate import tariffs or other taxes for energy and other power productionand distribution technologies destined for sub-Saharan Africa, including equipment used to provide energy access, including solar lanterns, solar home systems, and micro and mini grids; and
 
 &emsp;&emsp;"(B) plans to protect the intellectual property of companies designing and manufacturing products that can be used to provide energy access in sub-Saharan Africa.
 
@@ -332,7 +332,7 @@ Report Required.—Not later than 180 days after the date of the enactment of th
 
 &emsp;&emsp;"(B) a description of market barriers to the deployment of distributed renewable energy technologies both on- and off-grid in sub-Saharan Africa;
 
-&emsp;&emsp;"(C) an analysis of the efficacy of efforts by the Overseas Private Investment Corporation and the United States Agency for International Development to facilitate the financing of the importation, distribution, sale, leasing, or marketing of distributed renewable energy technologies; and
+&emsp;&emsp;"(C) an analysis of the efficacy of efforts by the Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\] and the United States Agency for International Development to facilitate the financing of the importation, distribution, sale, leasing, or marketing of distributed renewable energy technologies; and
 
 &emsp;&emsp;"(D) a description of how bolstering distributed renewable energy can enhance the overall effort to increase power access in sub-Saharan Africa.
 
@@ -366,7 +366,7 @@ Functions.—The Interagency Working Group may, among other things—
 
 "(a)
 
-In General.—In pursuing the policy goals described in section 3, the Administrator of the United States Agency for International Development, the Director of the Trade and Development Agency, the Overseas Private Investment Corporation, and the Chief Executive Officer and Board of Directors of the Millennium Challenge Corporation should, as appropriate, prioritize and expedite institutional efforts and assistance to facilitate the involvement of such institutions in power projects and markets, both on- and off-grid, in sub-Saharan Africa and partner with other investors and local institutions in sub-Saharan Africa, including private sector actors, to specifically increase access to reliable, affordable, and sustainable power in sub-Saharan Africa, including through—
+In General.—In pursuing the policy goals described in section 3, the Administrator of the United States Agency for International Development, the Director of the Trade and Development Agency, the United States International Development Finance Corporation, and the Chief Executive Officer and Board of Directors of the Millennium Challenge Corporation should, as appropriate, prioritize and expedite institutional efforts and assistance to facilitate the involvement of such institutions in power projects and markets, both on- and off-grid, in sub-Saharan Africa and partner with other investors and local institutions in sub-Saharan Africa, including private sector actors, to specifically increase access to reliable, affordable, and sustainable power in sub-Saharan Africa, including through—
 
 &emsp;"(1) maximizing the number of people with new access to power and power services;
 
@@ -426,7 +426,7 @@ In General.—Not later than three years after the date of the enactment of this
 
 &emsp;&emsp;"(C) the amount of financing provided or guaranteed by the United States Government for the project;
 
-&emsp;&emsp;"(D) an estimate of United States Government resources for the project, itemized by funding source, including from the Overseas Private Investment Corporation, the United States Agency for International Development, the Department of the Treasury, and other appropriate United States Government departments and agencies;
+&emsp;&emsp;"(D) an estimate of United States Government resources for the project, itemized by funding source, including from the United States International Development Finance Corporation, the United States Agency for International Development, the Department of the Treasury, and other appropriate United States Government departments and agencies;
 
 &emsp;&emsp;"(E) an estimate of the number and regional locations of individuals, communities, businesses, schools, and health facilities that have gained power connections as a result of the project, with a description of how the reliability, affordability, and sustainability of power has been improved as of the date of the report;
 
@@ -437,8 +437,6 @@ In General.—Not later than three years after the date of the enactment of this
 &emsp;&emsp;"(H) a description of the participation by small and medium enterprises based in sub-Saharan Africa on projects associated with this Act."
 
 \[For delegation of functions vested in President by sections 4 and 7 of Pub. L. 114–121, set out above, see Memorandum of President of the United States, Aug. 3, 2016, 81 F.R. 52323, set out below.\]
-
-\[Pub. L. 115–254, div. F, title VI, §1470(k), (w), Oct. 5, 2018, 132 Stat. 3517, 3519, provided that, effective at the end of the transition period, as defined in section 9681 of this title, sections 5 and 7 of the Electrify Africa Act of 2015 (Public Law 114–121; 22 U.S.C. 2293 note), set out above, are amended by striking "Overseas Private Investment Corporation" each place it appears and inserting "United States International Development Finance Corporation".\]
 
 #### Agricultural and Rural Development in Sub-Saharan Africa
 
@@ -456,7 +454,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(4) African women produce up to 80 percent of the total food supply in Africa according to the International Food Policy Research Institute.
 
-&emsp;"(5) An effective way to improve conditions of the poor is to increase the productivity of the agricultural sector. Productivity increases can be fosteredby increasing research and education in agriculture and rural development.
+&emsp;"(5) An effective way to improve conditions of the poor is to increase the productivity of the agricultural sector. Productivity increases can be fostered by increasing research and education in agriculture and rural development.
 
 &emsp;"(6) In November 1996, the World Food Summit set a goal of reducing hunger worldwide by 50 percent by the year 2015 and encouraged national governments to develop domestic food plans and to support international aid efforts.
 
@@ -492,7 +490,7 @@ Additional Requirements in Carrying Out the Initiative.—In providing developme
 
 &emsp;"(3) shall favor countries that are implementing reforms of their trade and investment laws and regulations in order to enhance free market development in the food processing and agricultural sectors; and
 
-&emsp;"(4) shall ensure that programs are designed and conducted in cooperation with African and United States organizations and institutions, such as private and voluntary organizations, cooperatives, land-grant and other appropriate universities, and local producer-owned cooperative marketing and buying associations, that have expertise in addressing the needs of the poor, small-scale farmers, entrepreneurs, and rural workers, including women.
+&emsp;"(4) shall ensure that programs are designed and conducted in cooperation with African and UnitedStates organizations and institutions, such as private and voluntary organizations, cooperatives, land-grant and other appropriate universities, and local producer-owned cooperative marketing and buying associations, that have expertise in addressing the needs of the poor, small-scale farmers, entrepreneurs, and rural workers, including women.
 
 "(b)
 
@@ -618,7 +616,7 @@ Section 1. <i>Policy</i>. It is the policy of the United States to partner, cons
 
 On June 30, 2013, my Administration launched Power Africa, a new initiative to double access to power in Sub-Saharan Africa, where more than two-thirds of the population is without electricity, and more than 85 percent of those living in rural areas lack access to electricity. In its initial phase, Power Africa aimed to add more than 10,000 MW of cleaner, more efficient electricity generation capacity and to increase electricity access by at least 20 million new households and commercial entities with on-grid, mini-grid, and off-grid solutions. Power Africa builds on Africa's enormous power potential, including extensive clean geothermal, hydro, wind and solar energy resources, as well as vast oil and gas reserves. Power Africa works with countries to develop resources responsibly, build out power generation, transmission, and distribution, and expand the reach of mini-grid and off-grid solutions. Power Africa brings to bear a wide range of tools from across the Federal Government and more than 130 public and private sector partners to support investment in Africa's energy sector. Power Africa provides coordinated support to help African partners expand their power networks and access to electricity, including through policy and regulatory best practices, institutional capacity building, pre-feasibility support, grants, long-term financing, insurance, guarantees, credit enhancements, and technical assistance.
 
-On August 5, 2014, during the U.S.-Africa Leaders Summit, my Administration affirmed that Power Africa is intended to reach across Sub-Saharan Africa, and tripled Power Africa's goals. Power Africa is now working toward adding 30,000 MW of new, cleaner electricity generation capacity and increasing electricity accessby at least 60 million new connections. On January 28, 2016, my Administration, in coordination with Power Africa partners, launched the Power Africa Roadmap, which lays out a concrete plan for Power Africa to meet its ambitious goals by 2030.
+On August 5, 2014, during the U.S.-Africa Leaders Summit, my Administration affirmed that Power Africa is intended to reach across Sub-Saharan Africa, and tripled Power Africa's goals. Power Africa is now working toward adding 30,000 MW of new, cleaner electricity generation capacity and increasing electricity access by at least 60 million new connections. On January 28, 2016, my Administration, in coordination with Power Africa partners, launched the Power Africa Roadmap, which lays out a concrete plan for Power Africa to meet its ambitious goals by 2030.
 
 The Electrify Africa Act of 2015, enacted on February 8, 2016 (Public Law 114–121) (the "Act"), calls for the development of a strategy to add at least 20,000 MW of electrical power and promote first-time access to power and power services for at least 50 million people in Sub-Saharan Africa by 2020 in both urban and rural areas—an effort that directly supports and complements Power Africa's goals. This order furthers the purposes of the Act and the work that Power Africa has been undertaking.
 

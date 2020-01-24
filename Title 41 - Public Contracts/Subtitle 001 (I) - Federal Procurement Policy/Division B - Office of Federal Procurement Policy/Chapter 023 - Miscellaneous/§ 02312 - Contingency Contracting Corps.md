@@ -82,3 +82,7 @@ Pub. L. 93–400, §44, as added Pub. L. 110–417, \[div. A\], title VIII, §87
 
 no source.
 
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+

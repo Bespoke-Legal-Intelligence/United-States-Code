@@ -12,7 +12,7 @@ The Administrator of the National Oceanic and Atmospheric Administration shall a
 
 &emsp;(A) baseline assessment of marine environmental quality, including chemical, physical, and biological indicators of environmental quality;
 
-&emsp;(B) effects or potential effects of contaminants, including nutrients, toxic chemicals and heavy metals, on the environment, including marine and aquatic organisms;
+&emsp;(B) effects or potential effects of contaminants, including nutrients, toxic chemicalsand heavy metals, on the environment, including marine and aquatic organisms;
 
 &emsp;(C) effects of modification of habitats, including coastal wetlands, seagrass beds and reefs, on the environment, including marine organisms;
 

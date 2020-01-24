@@ -38,7 +38,7 @@ This section may be cited as the "HELP Commission Act".
 
 &emsp;(F) analyze ways in which the safety of development assistance workers can be ensured, particularly in the midst of conflicts;
 
-&emsp;(G) compare the effectiveness of increased and open trade with development assistance, and analyze the advantages and disadvantages of such trade and whether such trade could be a more effective alternative to United States development assistance;
+&emsp;(G) compare the effectiveness of increased and open trade with development assistance, and analyze the advantages and disadvantagesof such trade and whether such trade could be a more effective alternative to United States development assistance;
 
 &emsp;(H) analyze ways in which the United States can strengthen the capacity of indigenous nongovernmental organizations to be more effective in grassroots development;
 
@@ -152,7 +152,7 @@ The Commission shall terminate 30 days after the submission of its report under 
 
 &emsp;&emsp;(ii) specify the extent to which those objectives were not achieved, with an explanation of why they were not achieved.
 
-&emsp;(B) A description of the amount and nature of economic assistance provided by other donors during the preceding 3 fiscal years, setforth by development sector to the extent possible.
+&emsp;(B) A description of the amount and nature of economic assistance provided by other donors during the preceding 3 fiscal years, set forth by development sector to the extent possible.
 
 &emsp;(C) A discussion of the commitment of the host government to addressing the country's needs in each development sector, including a description of the resources devoted by that government to each development sector during the preceding 3 fiscal years.
 
@@ -164,7 +164,7 @@ The Commission shall terminate 30 days after the submission of its report under 
 
 (2) The report required by this section shall identify—
 
-&emsp;(A) each country in which United States economic assistance has been most successful, as indicated by the extent to which the specific objectives the United States sought to achieve in providing the assistance for the country, as referred to in paragraph (1)(A)(i), were achieved; and
+&emsp;(A) each country in which United States economic assistance has been most successful, asindicated by the extent to which the specific objectives the United States sought to achieve in providing the assistance for the country, as referred to in paragraph (1)(A)(i), were achieved; and
 
 &emsp;(B) each country in which United States economic assistance has been least successful, as indicated by the extent to which the specific objectives the United States sought to achieve in providing the assistance for the country, as referred to in paragraph (1)(A)(i), were not achieved; and, for each such country, an explanation of why the assistance was not more successful and a specification of what the United States has done as a result.
 

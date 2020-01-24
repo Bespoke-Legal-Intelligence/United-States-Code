@@ -62,7 +62,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;The coalition shall, with respect to the community involved—
 
-&emsp;&emsp;(A) have as its principal mission the reduction of substance use and misuse, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in a comprehensive and long-term manner, with a primary focus on youth in the community;
+&emsp;&emsp;(A) have as its principal mission the reduction of substance use and misuse, which, at a minimum, includes the use and abuse ofdrugs referenced in section 1523(9)(A) of this title, in a comprehensive and long-term manner, with a primary focus on youth in the community;
 
 &emsp;&emsp;(B) describe and document the nature and extent of the substance use and misuse problem, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
 
@@ -132,11 +132,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (iii) Renewal grants
 
-&emsp;&emsp;&emsp;Subject to clause (iv), the Administrator may award a renewal grant to a grant recipient under this subparagraph for each fiscal year of the 4-fiscal-year period following the first fiscal year for which the initial additional grant is awarded in an amount not to exceed the following:
-
-&emsp;&emsp;&emsp;&emsp;(I) For the first and second fiscal years of the 4-fiscal-year period, the amount of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year is not less than 125 percent of the amount awarded.
-
-&emsp;&emsp;&emsp;&emsp;(II) For the third and fourth fiscal tears <sup>1</sup> of the 4-fiscal-year period, the amount of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year is not less than 150 percent of the amount awarded.
+&emsp;&emsp;&emsp;Subject to clause (iv), the Administrator may award a renewal grant to a grant recipient under this subparagraph for each fiscal year following the fiscal year for which an initial grant is awarded, in an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year, during the 4-year period following the period of the initial grant.
 
 #### (iv) Limitation
 
@@ -202,11 +198,11 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (D) Renewal grants
 
-&emsp;&emsp;Subject to subparagraph (F), the Administrator may award a renewal grant to a grant recipient under this paragraph for each of the fiscal years of the 4-fiscal-year period following the fiscal year for which the initial additional grant under subparagraph (A) is awarded in an amount not to exceed amounts as follows:
+&emsp;&emsp;Subject to clause (iv),<sup>1</sup> the Administrator may award a renewal grant to a grant recipient under this subparagraph <sup>2</sup> for each fiscal year of the 4-fiscal-year period following the first fiscal year for which the initial additional grant is awarded in an amount not to exceed the following:
 
-&emsp;&emsp;&emsp;(i) For the first and second fiscal years of that 4-fiscal-year period, the amount equal to 80 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
+&emsp;&emsp;&emsp;(i) For the first and second fiscal years of the 4-fiscal-year period, the amount of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year is not less than 125 percent of the amount awarded.
 
-&emsp;&emsp;&emsp;(ii) For the third and fourth fiscal years of that 4-fiscal-year period, the amount equal to 67 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
+&emsp;&emsp;&emsp;(ii) For the third and fourth fiscal years of the 4-fiscal-year period, the amount of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year is not less than 150 percent of the amount awarded.
 
 #### (E) Suspension
 
@@ -228,25 +224,35 @@ Funds appropriated for the substance use and misuse activities of a coalition th
 
 In awarding grants under subsection (b)(1)(A)(i), priority shall be given to a coalition serving economically disadvantaged areas.
 
-(Pub. L. 100–690, title I, §1032, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 227; amended Pub. L. 107–82, §1(d), (g), (h), Dec. 14, 2001, 115 Stat. 818, 819; Pub. L. 109–469, title VIII, §§802(a), 803, 804, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, §8203(a)(4)(A), (b)(4), Oct. 24, 2018, 132 Stat. 4111.)
-
-#### Codification
-
-Pub. L. 115–271, §8203(b)(4), which directed amendment of subchapter I of "chapter 2 of subtitle A of title I of the National Narcotics Leadership Act of 1988", was executed to part A of this subchapter, which is subchapter I of chapter 2 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. The National Narcotics Leadership Act of 1988 is itself subtitle A of title I of Pub. L. 100–690. See 2018 Amendment notes below.
+(Pub. L. 100–690, title I, §1032, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 227; amended Pub. L. 107–82, §1(d), (g), (h), Dec. 14, 2001, 115 Stat. 818, 819; Pub. L. 109–469, title VIII, §§802(a), 803, 804, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, §8203(a)(3)(A), (b)(4), formerly §8203(a)(4)(A), (b)(4), Oct. 24, 2018, 132 Stat.4111, renumbered Pub. L. 116–74, §2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157; Pub. L. 116–74, §2(c)(1)(A)(i)(V), (ii)(II), (iii), (3), Nov. 27, 2019, 133 Stat. 1157, 1158.)
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–271, §8203(b)(4)(A), substituted "substance use and misuse" for "substance abuse" wherever appearing. See Codification note above.
+<b>2019</b>—Pub. L. 116–74, §2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, §8203(b)(4). See 2018 Amendment notes below.
 
-Pub. L. 115–271, §8203(a)(4)(A), amended directory language of Pub. L. 109–469, §§802(a), 803, 804. See 2006 Amendment notes below.
+Pub. L. 116–74, §2(c)(1)(A)(i)(V), made technical amendment to directory language of Pub. L. 115–271, §8203(a)(3)(A). See 2018 Amendment note below.
 
-Subsec. (b)(1)(A)(iii). Pub. L. 115–271, §8203(b)(4)(B), added cl. (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: "Subject to clause (iv), the Administrator may award a renewal grant to a grant recipient under this subparagraph for each fiscal year following the fiscal year for which an initial grant is awarded, in an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year, during the 4-year period following the period of the initial grant." See Codification note above.
+Subsec. (b)(1)(A)(iii). Pub. L. 116–74, §2(c)(1)(A)(ii)(II), (III), (3), amended directory language of Pub. L. 115–271, §8203(b)(4)(B). See 2018 Amendment note below.
 
-<b>2006</b>—Subsec. (a)(7). Pub. L. 109–469, §804, as amended by Pub. L. 115–271, §8203(a)(4)(A), added par. (7).
+Subsec. (b)(3)(D). Pub. L. 116–74, §2(c)(1)(A)(ii)(II), (III), (iii), amended directory language of Pub. L. 115–271, §8203(b)(4)(B). See 2018 Amendment note below.
 
-Subsec. (b)(1)(A)(iv), (2)(C)(i), (3)(F). Pub. L. 109–469, §803, as amended by Pub. L. 115–271, §8203(a)(4)(A), substituted "$125,000" for "$100,000".
+<b>2018</b>—Pub. L. 115–271, §8203(b)(4)(A), as amended by Pub. L. 116–74, §2(c)(1)(A)(ii)(II), substituted "substance use and misuse" for "substance abuse" wherever appearing.
 
-Subsec. (b)(4). Pub. L. 109–469, §802(a), as amended by Pub. L. 115–271, §8203(a)(4)(A), added par. (4).
+Pub. L. 115–271, §8203(a)(3)(A), formerly §8203(a)(4)(A), as renumbered and amended by Pub. L. 116–74, §2(c)(1)(A)(i)(IV), (V), amended directory language of Pub. L. 109–469, §§802(a), 803, 804. See 2006 Amendment notes below.
+
+Subsec. (b)(1)(A)(iii). Pub. L. 115–271, §8203(b)(4)(B), which originally directed striking cl. (iii) and inserting a new cl. (iii), was subsequently amended by Pub. L. 116–74, §2(c)(1)(A)(ii)(II), (III), so that it no longer amended cl. (iii) but amended subsec. (b)(3)(D) instead. In addition, Pub. L. 116–74, §2(c)(3), restored the prior cl. (iii) as if the amendment made by Pub. L. 115–271, §8203(b)(4), had never been enacted. See subsec. (b)(3)(D) Amendment note below.
+
+Subsec. (b)(3)(D). Pub. L. 115–271, §8203(b)(4)(B), as amended by Pub. L. 116–74, §2(c)(1)(A)(ii)(II), (III), (iii), amended subpar. (D) generally. Prior to amendment, text read as follows: "Subject to subparagraph (F), the Administrator may award a renewal grant to a grant recipient under this paragraph for each of the fiscal years of the 4-fiscal-year period following the fiscal year for which the initial additional grant under subparagraph (A) is awarded in an amount not to exceed amounts as follows:
+
+&emsp;"(i) For the first and second fiscal years of that 4-fiscal-year period, the amount equal to 80 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
+
+&emsp;"(ii) For the third and fourth fiscal years of that 4-fiscal-year period, the amount equal to 67 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year."
+
+<b>2006</b>—Subsec. (a)(7). Pub. L. 109–469, §804, as amended by Pub. L. 115–271, §8203(a)(3)(A), added par. (7).
+
+Subsec. (b)(1)(A)(iv), (2)(C)(i), (3)(F). Pub. L. 109–469, §803, as amended by Pub. L. 115–271, §8203(a)(3)(A), substituted "$125,000" for "$100,000".
+
+Subsec. (b)(4). Pub. L. 109–469, §802(a), as amended by Pub. L. 115–271, §8203(a)(3)(A), added par. (4).
 
 <b>2001</b>—Subsec. (b)(3). Pub. L. 107–82, §1(d), added par. (3).
 
@@ -254,13 +260,19 @@ Subsec. (c). Pub. L. 107–82, §1(g), added subsec. (c).
 
 Subsec. (d). Pub. L. 107–82, §1(h), added subsec. (d).
 
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under section 1522 of this title.
+
 #### Effective Date of 2018 Amendment
 
-Amendment by section 8203(a)(4)(A) of Pub. L. 115–271 effective as if enacted as part of Pub. L. 109–469, see section 8203(a)(4)(B) of Pub. L. 115–271, set out as a note under section 1524 of this title.
+Amendment by section 8203(a)(3)(A) of Pub. L. 115–271 effective as if enacted as part of Pub. L. 109–469, see section 8203(a)(3)(B) of Pub. L. 115–271, set out as a note under section 1524 of this title.
 
 #### Report to Congress
 
-Pub. L. 109–469, title VIII, §802(b), Dec. 29, 2006, 120 Stat. 3535, as amended by Pub. L. 115–271, title VIII, §8203(a)(4)(A), Oct. 24, 2018, 132 Stat. 4111, provided that: "Not later than 60 days after the date of enactment of this Act \[Dec. 29, 2006\], the Director of the Office of National Drug Control Policy shall submit to Congress a report detailing the appeals process required by section 1032(b)(4) of the National Narcotics Leadership Act of 1988 \[21 U.S.C. 1532(b)(4)\], as added by subsection (a)."
+Pub. L. 109–469, title VIII, §802(b), Dec. 29, 2006, 120 Stat. 3535, as amended by Pub. L. 115–271, title VIII, §8203(a)(3)(A), formerly §8203(a)(4)(A), Oct. 24, 2018, 132 Stat. 4111, as renumbered by Pub. L. 116–74, §2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157; Pub. L. 116–74, §2(c)(1)(A)(i)(V), Nov. 27, 2019, 133 Stat. 1157, provided that: "Not later than 60 days after the date of enactment of this Act \[Dec. 29, 2006\], the Director of the Office of National Drug Control Policy shall submit to Congress a report detailing the appeals process required by section 1032(b)(4) of the Anti-Drug Abuse Act of 1988 \[21 U.S.C. 1532(b)(4)\], as added by subsection (a)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "years".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph (F),".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "this paragraph".</i>
 

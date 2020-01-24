@@ -6,7 +6,7 @@
 
 (b) A period of service counted for purposes of repayment under chapter 109 of title 10 of an education loan may not also be counted for purposes of entitlement to educational assistance under this chapter.
 
-(c) An individual who serves in the Selected Reserve may not receive credit for such service under two or more of the programs established by this chapter, chapter 33 of this title, and chapters 1606 and 1607 of title 10 but shall elect (in such form and manner as the Secretary mayprescribe) the program to which such service is to be credited.
+(c) An individual who serves in the Selected Reserve may not receive credit for such service under two or more of the programs established by this chapter, chapter 33 of this title, and chapters 1606 and 1607 of title 10 but shall elect (in such form and manner as the Secretary may prescribe) the program to which such service is to be credited.
 
 (Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2561, §1433; amended Pub. L. 99–576, title III, §306, Oct. 28, 1986, 100 Stat. 3269; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §10(a)(4), Mar. 22, 1991, 105 Stat. 55; renumbered §3033, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 110–252, title V, §5003(b)(1)(A), June 30, 2008, 122 Stat. 2375.)
 

@@ -76,7 +76,3 @@ Subsec. (d). Pub. L. 111–320, §118(c), added subsec. (d).
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–126, §3(b)(6), made technical amendments to references to sections 5106b and 5106c of this title to reflect renumbering of corresponding sections of original act.
 
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-

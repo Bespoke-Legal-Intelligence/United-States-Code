@@ -8,7 +8,7 @@
 
 &emsp;(B) records and property of, or used by, the Service or either Bureau, shall be made available to the Comptroller General.
 
-(2) At least once every 6 months, the Comptroller General shall designate each officer and employee of the Government Accountability Office by name and title to whom returns, return information, or records or property of the Service or either Bureau that can identify a particular taxpayer may be made available. Each designation or a certified copy of the designation shall be sent to the Committee on Finance of the Senate, the Committee on Ways and Means of the House of Representatives, the Committeeon Governmental Affairs of the Senate, the Committee on Government Operations of the House, the Joint Committee on Taxation, the Commissioner of Internal Revenue, the Tax and Trade Bureau, Department of the Treasury, and the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice.
+(2) At least once every 6 months, the Comptroller General shall designate each officer and employee of the Government Accountability Office by name and title to whom returns, return information, or records or property of the Service or either Bureau that can identify a particular taxpayer may be made available. Each designation or a certified copy of the designation shall be sent to the Committee on Finance of the Senate, the Committee on Ways and Means of the House of Representatives, the Committee on Governmental Affairs of the Senate, the Committee on Government Operations of the House, the Joint Committee on Taxation, the Commissioner of Internal Revenue, the Tax and Trade Bureau, Department of the Treasury, and the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice.
 
 (3) Except as expressly provided by law, an officer or employee of the Office may make known information derived from a record or property of, or in use by, the Service or either Bureau that can identify a particular taxpayer only to another officer or employee of the Office whose duties or powers require that the record or property be made known.
 
@@ -68,11 +68,11 @@ Subsec. (b)(3). Pub. L. 107–296, §1112(m)(3)(C), substituted "or either Burea
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

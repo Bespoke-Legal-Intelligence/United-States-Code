@@ -92,7 +92,7 @@ The principal office of the Commission shall be in the District of Columbia, whe
 
 &emsp;(III) issuing advisory notices, under the general direction of the Commission, to persons who apparently have violated any provision of this chapter (or regulations prescribed by the Commission under this chapter) relating to the amateur radio service.
 
-> Nothing in this clause shall be construed to grant individuals recruited and trained under this subparagraph any authority to issue sanctions to violators or to take any enforcement action other than any action which the Commission may prescribe by rule.
+> Nothing in this clause shall be construed to grant individuals recruited and trained under this subparagraph any authority to issue sanctions to violators or to take any enforcementaction other than any action which the Commission may prescribe by rule.
 
 (C)(i) The Commission, for purposes of monitoring violations of any provision of this chapter (and of any regulation prescribed by the Commission under this chapter) relating to the citizens band radio service, may—
 
@@ -194,7 +194,7 @@ In subsec. (f)(4)(E), "section 1342 of title 31" substituted for "section 3679(b
 
 <b>2018</b>—Subsec. (b)(2)(B)(ii). Pub. L. 115–141, §402(i)(1)(A), struck out before period at end "and shall furnish notice of such action to the appropriate committees of each House of the Congress. Each such notice shall include information regarding the identity of the person receiving the waiver, the position held by such person, and the nature of the financial interests which are the subject of the waiver".
 
-Subsec. (c). Pub. L. 115–141, §509, amended subsec. (c) generally. Prior to amendment, text read as follows: "commissioners shall be appointed for terms of five years and until their successors are appointed and have been confirmed and taken the oath of office, except that they shall not continue to serve beyond the expiration of the next session of Congress subsequent to the expiration of said fixed term of office; except that anyperson chosen to fill a vacancy shall be appointed only for the unexpired term of the commissioner whom he succeeds. No vacancy in the Commission shall impair the right of the remaining commissioners to exercise all the powers of the Commission."
+Subsec. (c). Pub. L. 115–141, §509, amended subsec. (c) generally. Prior to amendment, text read as follows: "commissioners shall be appointed for terms of five years and until their successors are appointed and have been confirmed and taken the oath of office, except that they shall not continue to serve beyond the expiration of the next session of Congress subsequent to the expiration of said fixed term of office; except that any person chosen to fill a vacancy shall be appointed only for the unexpired term of the commissioner whom he succeeds. No vacancy in the Commission shall impair the right of the remaining commissioners to exercise all the powers of the Commission."
 
 Subsec. (g)(2). Pub. L. 115–141, §402(i)(1)(B), struck out par. (2), which related to reimbursements to the Commission for necessary travel expenses.
 
@@ -334,7 +334,7 @@ Pub. L. 115–141, div. P, title IV, §404, Mar. 23, 2018, 132 Stat. 1090, provi
 
 Pub. L. 100–594, §6, Nov. 3, 1988, 102 Stat. 3021, as amended by Pub. L. 101–396, §5, Sept. 28, 1990, 104 Stat. 849; Pub. L. 102–538, title II, §212, Oct. 27, 1992, 106 Stat. 3545, provided that:
 
-"(a) During fiscal years 1992 and 1993, the Federal Communications Commission is authorized to make grants to, or enter into cooperative agreements with, private nonprofit organizations designated by the Secretary of Labor under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.) to utilize the talents of older Americans in programs authorized by otherprovisions of law administered by the Commission (and consistent with such provisions of law) in providing technical and administrative assistance for projects related to the implementation, promotion, or enforcement of the regulations of the Commission.
+"(a) During fiscal years 1992 and 1993, the Federal Communications Commission is authorized to make grants to, or enter into cooperative agreements with, private nonprofit organizations designated by the Secretary of Labor under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.) to utilize the talents of older Americans in programs authorized by other provisions of law administered by the Commission (and consistent with such provisions of law) in providing technical and administrative assistance for projects related to the implementation, promotion, or enforcement of the regulations of the Commission.
 
 "(b) Prior to awarding any grant or entering into any agreement under subsection (a), the Office of the Managing Director of the Commission shall certify to the Commission that such grant or agreement will not—
 

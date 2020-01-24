@@ -18,7 +18,7 @@ The Secretary shall prepare and prescribe a single application form which—
 
 &emsp;&emsp;(B) the institution to maintain a copy of any contract with a financial aid service provider or loan servicer, and provide a copy of any such contract to the Secretary upon request;
 
-&emsp;(4) requires such other information as the Secretary determines will ensure compliance with the requirements of this subchapter with respect to eligibility, accreditation, administrative capability and financial responsibility; and
+&emsp;(4) requires such other information as the Secretary determines will ensure compliancewith the requirements of this subchapter with respect to eligibility, accreditation, administrative capability and financial responsibility; and
 
 &emsp;(5) provides, at the option of the institution, for participation in one or more of the programs under part B or D.
 
@@ -134,7 +134,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (1) General rule
 
-&emsp;After the expiration of the certification of any institution under the schedule prescribed under this section (as this section was in effect prior to October 7, 1998), or upon request for initial certification from an institution not previously certified, the Secretary may certify the eligibility for the purposes of any program authorized under this subchapter of each such institution for a period not to exceed 6 years.
+&emsp;After the expiration of the certification of any institution under the schedule prescribed under this section (as this section was in effect prior to October 7, 1998), or upon request for initial certification from an institution not previously certified, the Secretary may certify the eligibility for the purposes of any program authorized under this subchapter ofeach such institution for a period not to exceed 6 years.
 
 #### (2) Notification
 
@@ -268,11 +268,11 @@ Pub. L. 105–244, §102(b)(7)(A), substituted "sections 1002(b)(1)(E) and 1002(
 
 Subsec. (j)(2). Pub. L. 105–244, §102(a)(6)(B), (b)(7)(B), amended par. (2) identically, substituting "section 1001(a)(2)" for "section 1141(a)(2)".
 
-<b>1993</b>—Subsec. (c)(2). Pub. L. 103–208, §2(i)(9)(A), inserted at end "Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for profit and nonprofit institutions. The Secretary shall take into account aninstitution's total financial circumstances in making a determination of its ability to meet the standards herein required."
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–208, §2(i)(9)(A), inserted at end "Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for profit and nonprofit institutions. The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required."
 
 Subsec. (c)(3). Pub. L. 103–208, §2(i)(9)(B), substituted "The Secretary shall determine" for "The Secretary may determine" in introductory provisions.
 
-Subsec. (c)(3)(C). Pub. L. 103–208, §2(i)(9)(C), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "such institution establishes to the satisfaction of the Secretary, with the support of a report of an independent certified public accountant prepared under generally accepted accounting principles, that the institution is a going concern capable of meeting all of its financial obligations, including (but not limited to) refunds of institutional charges and repayments to the Secretary for liabilities and debts incurred in programs administered by the Secretary; or".
+Subsec. (c)(3)(C). Pub. L. 103–208, §2(i)(9)(C), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: "such institution establishes to the satisfaction of the Secretary, with the support of a report of an independent certified public accountant prepared under generally accepted accounting principles, that the institution is a going concern capable of meeting all of its financial obligations, including (but not limited to) refunds of institutional charges and repayments to the Secretary for liabilities and debts incurred in programs administered by the Secretary; or".
 
 Subsec. (c)(4) to (6). Pub. L. 103–208, §2(i)(9)(D), (E), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 

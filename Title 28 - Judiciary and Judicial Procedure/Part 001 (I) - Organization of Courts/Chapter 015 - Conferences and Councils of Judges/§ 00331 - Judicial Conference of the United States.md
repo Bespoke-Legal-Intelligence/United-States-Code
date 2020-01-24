@@ -18,7 +18,7 @@ The Chief Justice shall submit to Congress an annual report of the proceedings o
 
 The Judicial Conference shall consult with the Director of <sup>1</sup> United States Marshals Service on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirements for the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term "judicial security" includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel. The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
 
-(June 25, 1948, ch. 646, 62 Stat. 902; July 9, 1956, ch. 517, §1(d), 70 Stat. 497; Pub. L. 85–202, Aug. 28, 1957, 71 Stat. 476; Pub. L. 85–513, July 11, 1958, 72 Stat. 356; Pub. L. 87–253, §§1, 2, Sept. 19, 1961, 75Stat. 521; Pub. L. 95–598, title II, §208, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–458, §4, Oct. 15, 1980, 94 Stat. 2040; Pub. L. 97–164, title I, §111, Apr. 2, 1982, 96 Stat. 29; Pub. L. 99–466, §1, Oct. 14, 1986, 100 Stat. 1190; Pub. L. 100–702, title IV, §402(b), Nov. 19, 1988, 102 Stat. 4650; Pub. L. 104–317, title VI, §601(a), Oct. 19, 1996, 110 Stat. 3857; Pub. L. 107–273, div. C, title I, §11043(b), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 110–177, title I, §101(b), Jan. 7, 2008, 121 Stat. 2534.)
+(June 25, 1948, ch. 646, 62 Stat. 902; July 9, 1956, ch. 517, §1(d), 70 Stat. 497; Pub. L. 85–202, Aug. 28, 1957, 71 Stat. 476; Pub. L. 85–513, July 11, 1958, 72 Stat. 356; Pub. L. 87–253, §§1, 2, Sept. 19, 1961, 75 Stat. 521; Pub. L. 95–598, title II, §208, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–458, §4, Oct. 15, 1980, 94 Stat. 2040; Pub. L. 97–164, title I, §111, Apr. 2, 1982, 96 Stat. 29; Pub. L. 99–466, §1, Oct. 14, 1986, 100 Stat. 1190; Pub. L. 100–702, title IV, §402(b), Nov. 19, 1988, 102 Stat. 4650; Pub. L. 104–317, title VI, §601(a), Oct. 19, 1996, 110 Stat. 3857; Pub. L. 107–273, div. C, title I, §11043(b), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 110–177, title I, §101(b), Jan. 7, 2008, 121 Stat. 2534.)
 
 #### Historical and Revision Notes
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–458, §7, Oct. 15, 1980, 94 Stat. 2041, provided that: "This Act \[amending this section and sections 332, 372, and 604 of this title and enacting provisions set out as notes under this section and section 1 of this title\] shall become effective on October 1, 1981."
+Pub. L. 96–458, §7, Oct. 15, 1980, 94 Stat. 2041, provided that: "This Act \[amending this section and sections332, 372, and 604 of this title and enacting provisions set out as notes under this section and section 1 of this title\] shall become effective on October 1, 1981."
 
 #### Termination of Reporting Requirements
 
@@ -94,7 +94,7 @@ For termination, effective May 15, 2000, of provisions in this section relating 
 
 #### Deposit of Fees for Processing of Violations Through Central Violations Bureau Cases
 
-Pub. L. 108–447, div. B, title III, §308, Dec. 8, 2004, 118 Stat. 2895, as amended by Pub. L. 109–13, div. A, titleVI, §6066, May 11, 2005, 119 Stat. 299, provided that: "For fiscal year 2005 and hereafter, such fees as shall be collected for the processing of violations through the Central Violations Bureau cases as prescribed by the Judicial Conference of the United States shall be deposited as offsetting receipts to the fund established under 28 U.S.C. 1931 and shall remain available to the Judiciary until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the Courts of Appeals, District Courts, and Other Judicial Services and the Administrative Offices of the United States Courts."
+Pub. L. 108–447, div. B, title III, §308, Dec. 8, 2004, 118 Stat. 2895, as amended by Pub. L. 109–13, div. A, title VI, §6066, May 11, 2005, 119 Stat. 299, provided that: "For fiscal year 2005 and hereafter, such fees as shall be collected for the processing of violations through the Central Violations Bureau cases as prescribed by the Judicial Conference of the United States shall be deposited as offsetting receipts to the fund established under 28 U.S.C. 1931 and shall remain available to the Judiciary until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the Courts of Appeals, District Courts, and Other Judicial Services and the Administrative Offices of the United States Courts."
 
 #### Policies, Procedures, and Methodologies Used in Recommendation for Creation of Additional Federal Judgeships; Study by General Accounting Office and Report to Congress
 

@@ -28,7 +28,7 @@ Not later than eighteen months after October 21, 1976, the Administrator shall, 
 
 (B)(i) Owners and operators of disposal sites for wastes listed in subparagraph (A) may be required by the Administrator, through regulations prescribed under authority of section 6912 of this title—
 
-&emsp;(I) as to disposal sites for such wastes which are to be closed, to identify the locations of such sites through surveying, platting, or other measures, together with recordation of such information on the public record, to assure that the locations where such wastes aredisposed of are known and can be located in the future, and
+&emsp;(I) as to disposal sites for such wastes which are to be closed, to identify the locations of such sites through surveying, platting, or other measures, together with recordation of such information on the public record, to assure that the locations where such wastes are disposed of are known and can be located in the future, and
 
 &emsp;(II) to provide chemical and physical analysis and composition of such wastes, based on available information, to be placed on the public record.
 
@@ -100,7 +100,7 @@ At any time after the date eighteen months after October 21, 1976, the Governor 
 
 (1) When evaluating a petition to exclude a waste generated at a particular facility from listing under this section, the Administrator shall consider factors (including additional constituents) other than those for which the waste was listed if the Administrator has a reasonable basis to believe that such additional factors could cause the waste to be a hazardous waste. The Administrator shall provide notice and opportunity for comment on these additional factors before granting or denying such petition.
 
-(2)(A) To the maximum extent practicable the Administrator shall publish in the Federal Register a proposal to grant or deny a petition referred to in paragraph (1) within twelve monthsafter receiving a complete application to exclude a waste generated at a particular facility from being regulated as a hazardous waste and shall grant or deny such a petition within twenty-four months after receiving a complete application.
+(2)(A) To the maximum extent practicable the Administrator shall publish in the Federal Register a proposal to grant or deny a petition referred to in paragraph (1) within twelve months after receiving a complete application to exclude a waste generated at a particular facility from being regulated as a hazardous waste and shall grant or deny such a petition within twenty-four months after receiving a complete application.
 
 (B) The temporary granting of such a petition prior to November 8, 1984, without the opportunity for public comment and the full consideration of such comments shall not continue for more than twenty-four months after November 8, 1984. If a final decision to grant or deny such a petition has not been promulgated after notice and opportunity for public comment within the time limit prescribed by the preceding sentence, any such temporary granting of such petition shall cease to be in effect.
 
@@ -164,7 +164,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 #### Ash Management and Disposal
 
-Pub. L. 101–549, title III, §306, Nov. 15, 1990, 104 Stat. 2584, provided that: "For a period of 2 years after thedate of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], ash from solid waste incineration units burning municipal waste shall not be regulated by the Administrator of the Environmental Protection Agency pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\]. Such reference and limitation shall not be construed to prejudice, endorse or otherwise affect any activity by the Administrator following the 2-year period from the date of enactment of the Clean Air Act Amendments of 1990."
+Pub. L. 101–549, title III, §306, Nov. 15, 1990, 104 Stat. 2584, provided that for 2 years after Nov. 15, 1990, ash from solid waste incineration units burning municipal waste would not be regulated by the Administrator of the Environmental Protection Agency pursuant to this section.
 
 #### Small Quantity Generator Waste; Inform and Educate; Waste Generators
 

@@ -16,7 +16,7 @@ The Organ Procurement and Transplantation Network may collect funds to offset ex
 
 #### (c) Prohibition on use of Federal funds
 
-No Federal funds (including amounts appropriated for use by the Organ Procurement and Transplantation Network) may be used for purposes of carrying out this part, including purchasing medals under this part or paying the administrative costs of the Secretary of Health and Human Services or the Secretary of the Treasury in carrying out this part.
+No Federal funds (including amounts appropriated for use by the Organ Procurement andTransplantation Network) may be used for purposes of carrying out this part, including purchasing medals under this part or paying the administrative costs of the Secretary of Health and Human Services or the Secretary of the Treasury in carrying out this part.
 
 (Pub. L. 110–413, §3, Oct. 14, 2008, 122 Stat. 4339.)
 

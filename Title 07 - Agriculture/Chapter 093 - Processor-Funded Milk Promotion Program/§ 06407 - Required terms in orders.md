@@ -62,7 +62,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (1) Budgets
 
-&emsp;The order shall require the Board, prior to the beginning of each fiscal year, or as may be necessary after the beginning of the fiscal year, to develop budgets of the anticipated expenses and disbursements of the Board in the implementation of the order, including projected costs of research and advertising. The budget shall be submitted to the Secretary and be effective on the approval of the Secretary.
+&emsp;The order shall require the Board, prior to the beginning of each fiscal year, or as may benecessary after the beginning of the fiscal year, to develop budgets of the anticipated expenses and disbursements of the Board in the implementation of the order, including projected costs of research and advertising. The budget shall be submitted to the Secretary and be effective on the approval of the Secretary.
 
 #### (2) Incurring expenses
 
@@ -78,7 +78,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (e) Prohibition on branded advertising
 
-A program or project conducted under this chapter shall not make any reference to private brand names or use false or unwarranted claims on behalf of fluid milk products, or false or unwarranted statements with respect to the attributes or use of any competing products, except that this subsection shall not preclude theBoard from offering its programs and projects for use by commercial parties, under such terms and conditions as the Board may prescribe as approved by the Secretary.
+A program or project conducted under this chapter shall not make any reference to private brand names or use false or unwarranted claims on behalf of fluid milk products, or false or unwarranted statements with respect to the attributes or use of any competing products, except that this subsection shall not preclude the Board from offering its programs and projects for use by commercial parties, under such terms and conditions as the Board may prescribe as approved by the Secretary.
 
 #### (f) Contracts and agreements
 
@@ -144,7 +144,7 @@ A program or project conducted under this chapter shall not make any reference t
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), commercial or financial information that is obtained under paragraph (1) or (2) and that is privileged or confidential shall be kept confidential by all officers and employees of the Department and agents of the Board, and only such information so obtained as the Secretary considers relevant may be disclosed to the public by them and then only in a suit or administrative hearing brought at the request of the Secretary, or to which the Secretary or any officer of the United States is a party, and involving the order.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), commercial or financial information that is obtained under paragraph (1) or (2) and that is privileged or confidential shall be kept confidential by all officers and employees of the Department and agents of the Board, and only such information so obtained as the Secretary considers relevant may be disclosed to the public by them and then only in a suit or administrative hearing brought at the request of the Secretary, orto which the Secretary or any officer of the United States is a party, and involving the order.
 
 #### (B) Availability of information
 

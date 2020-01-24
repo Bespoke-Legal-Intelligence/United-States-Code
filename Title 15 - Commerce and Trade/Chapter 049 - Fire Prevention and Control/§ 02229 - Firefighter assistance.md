@@ -34,7 +34,7 @@ In this section:
 
 #### (7) Nonaffiliated EMS organization
 
-&emsp;The term "nonaffiliated EMS organization" means a public or private nonprofit emergencymedical services organization that is not affiliated with a hospital and does not serve a geographic area in which the Administrator of FEMA finds that emergency medical services are adequately provided by a fire department.
+&emsp;The term "nonaffiliated EMS organization" means a public or private nonprofit emergency medical services organization that is not affiliated with a hospital and does not serve a geographic area in which the Administrator of FEMA finds that emergency medical services are adequately provided by a fire department.
 
 #### (8) Paid-on-call
 
@@ -94,7 +94,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding subparagraphs (A) and (B) and except as provided under clause (ii), the Administrator of FEMA may not award a grant under this subsection in a fiscal year in an amount that exceeds the amount that is one percent of the available grant funds in such fiscal year.
+&emsp;&emsp;&emsp;Notwithstanding subparagraphs (A) and (B) <sup>1</sup> and except as provided under clause (ii), the Administrator of FEMA may not award a grant under this subsection in a fiscal year in an amount that exceeds the amount that is one percent of the available grant funds in such fiscal year.
 
 #### (ii) Exception
 
@@ -224,11 +224,11 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Two or more entities may submit an application under paragraph (1) for a grant under this section to fund a joint program or initiative, including acquisition of shared equipment or vehicles.
+&emsp;&emsp;Two or more entities may submit an application under paragraph (1) for a grant underthis section to fund a joint program or initiative, including acquisition of shared equipment or vehicles.
 
 #### (B) Nonexclusivity
 
-&emsp;&emsp;Applications under this paragraph may be submitted instead of or in addition to anyother application submitted under paragraph (1).
+&emsp;&emsp;Applications under this paragraph may be submitted instead of or in addition to any other application submitted under paragraph (1).
 
 #### (C) Guidance
 
@@ -434,7 +434,7 @@ In awarding grants under this section, the Administrator of FEMA shall ensure th
 
 &emsp;&emsp;&emsp;&emsp;(I) Changes in rates of unemployment from previous years.
 
-&emsp;&emsp;&emsp;&emsp;(II) Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded the annual national average rates of unemployment.
+&emsp;&emsp;&emsp;&emsp;(II) Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded <sup>2</sup> the annual national average rates of unemployment.
 
 &emsp;&emsp;&emsp;&emsp;(III) Changes in percentages of individuals eligible to receive food stamps from previous years.
 
@@ -520,7 +520,7 @@ If an applicant for a grant under this section is applying for such grant to pur
 
 #### (B) Consultation
 
-&emsp;&emsp;The Administrator of FEMA shall consult with fire service representatives and with the Comptroller General of the UnitedStates in developing the assessment system required by subparagraph (A).
+&emsp;&emsp;The Administrator of FEMA shall consult with fire service representatives and with the Comptroller General of the United States in developing the assessment system required by subparagraph (A).
 
 #### (3) Annual reports to Administrator of FEMA
 
@@ -614,7 +614,7 @@ In general.—Subject to subparagraph (B), the Director may provide assistance u
 
 Requirement for small community organizations.—In the case of an applicant whose personnel serve jurisdictions of 50,000 or fewer residents, the percent applied under the matching requirement of subparagraph (A) shall be 10 percent."
 
-Subsec. (b)(10)(A). Pub. L. 108–375, §3602(8)(A), amended heading and text of subpar. (A) generally. Prior toamendment, text read as follows: "A grant recipient under this section may not receive more than $750,000 under this section for any fiscal year."
+Subsec. (b)(10)(A). Pub. L. 108–375, §3602(8)(A), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "A grant recipient under this section may not receive more than $750,000 under this section for any fiscal year."
 
 Subsec. (b)(10)(B) to (F). Pub. L. 108–375, §3602(8)(B)–(D), redesignated subpar. (B) as (C) and added new subpars. (B) and (D) to (F).
 
@@ -703,4 +703,8 @@ Elements.—The framework required under subsection (a) shall include the follow
 &emsp;"(4) Enforcement actions to recoup potential questionable costs of grant recipients.
 
 &emsp;"(5) Such other oversight and monitoring tools as the Administrator of the Federal Emergency Management Agency considers necessary to mitigate and minimize fraud, waste, abuse, and mismanagement relating to the grant programs described in subsection (a)."
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "are currently exceeding and have consistently exceeded".</i>
 

@@ -52,7 +52,7 @@ Remedial action.—If, pursuant to the program, mail is found to contain a prohi
 
 &emsp;&emsp;"(B) take appropriate action to prevent the introduction of the prohibited material into Hawaii; and
 
-&emsp;&emsp;"(C) determine whether the facts and circumstances warrant seeking prosecution under a lawprohibiting the conveyance of a plant, plant pest, or injurious animal.
+&emsp;&emsp;"(C) determine whether the facts and circumstances warrant seeking prosecution under a law prohibiting the conveyance of a plant, plant pest, or injurious animal.
 
 &emsp;"(4)
 

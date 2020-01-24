@@ -70,7 +70,7 @@ Major united states investment management firm.—The term "major United States 
 
 &emsp;&emsp;(B) holds for the account of others investment assets in a total amount considered by the Secretary of the Army to qualify the firm as a major investment management firm.
 
-(Added Pub. L. 106–65, div. B, title XXVIII, §2871(a)(1), Oct. 5, 1999, 113 Stat. 871, §4357; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(17)\], Oct. 30, 2000, 114 Stat. 1654,1654A–291; Pub. L. 108–136, div. A, title X, §1031(a)(54), Nov. 24, 2003, 117 Stat. 1603; renumbered §7457, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 106–65, div. B, title XXVIII, §2871(a)(1), Oct. 5, 1999, 113 Stat. 871, §4357; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(17)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 108–136, div. A, title X, §1031(a)(54), Nov. 24, 2003, 117 Stat. 1603; renumbered §7457, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 #### Amendments
 

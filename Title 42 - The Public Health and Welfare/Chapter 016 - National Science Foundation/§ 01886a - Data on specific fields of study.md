@@ -1,6 +1,6 @@
 ### §1886a. Data on specific fields of study
 
-The National Science Foundation shall continue to collect statistically reliable data on thefield of degree of college-educated individuals to fulfill obligations under section 1863(j)(1) of this title and the Science and Engineering Equal Opportunities Act \[42 U.S.C. 1885 et seq.\]. If the Director of the Foundation determines that there is a legal impediment to the continued collection of this data, he shall inform the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after December 30, 2005.
+The National Science Foundation shall continue to collect statistically reliable data on the field of degree of college-educated individuals to fulfill obligations under section 1863(j)(1) of this title and the Science and Engineering Equal Opportunities Act \[42 U.S.C. 1885 et seq.\]. If the Director of the Foundation determines that there is a legal impediment to the continued collection of this data, he shall inform the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after December 30, 2005.
 
 (Pub. L. 109–155, title VII, §721, Dec. 30, 2005, 119 Stat. 2938.)
 
@@ -12,7 +12,7 @@ The Science and Engineering Equal Opportunities Act, referred to in text, is Par
 
 Section, formerly classified to section 16831 of this title, was transferred following the enactment of Title 51, National and Commercial Space Programs, by Pub. L. 111–314.
 
-Section was enacted as part of the National Aeronautics and Space Administration Authorization Act of 2005, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the National Aeronautics and Space Administration Authorization Act of2005, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Change of Name
 

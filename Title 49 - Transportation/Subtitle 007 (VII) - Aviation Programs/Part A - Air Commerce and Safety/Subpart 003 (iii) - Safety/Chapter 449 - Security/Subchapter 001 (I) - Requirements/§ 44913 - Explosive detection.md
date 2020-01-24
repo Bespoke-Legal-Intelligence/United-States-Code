@@ -104,7 +104,7 @@ In general.—In carrying out a study under this section, the Director of the Na
 
 &emsp;"(2)
 
-Expertise.—Each member of the panel shall have expertise in weapons and explosive detection technology, security, air carrier and airport operations, or another appropriate area. The Director of the National Academy of Sciences (or the head of another equivalent entity) shall ensure that the panel has an appropriate number of representatives of the areas specified in the preceding sentence.
+Expertise.—Each member of the panel shall have expertise in weapons and explosive detection technology, security, air carrier and airport operations, or another appropriate area. The Director of the National Academy of Sciences (or the head of another equivalent entity) shall ensure that the panelhas an appropriate number of representatives of the areas specified in the preceding sentence.
 
 "(c)
 

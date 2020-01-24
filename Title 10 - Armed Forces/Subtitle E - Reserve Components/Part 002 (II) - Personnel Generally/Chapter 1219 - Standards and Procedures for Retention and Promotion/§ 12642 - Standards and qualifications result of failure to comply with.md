@@ -12,7 +12,7 @@
 
 (c) This section does not apply to commissioned warrant officers or to adjutants general or assistant adjutants general of States, Puerto Rico, and the District of Columbia.
 
-(Added Pub. L. 85–861, §1(22)(A), Sept. 2, 1958, 72 Stat. 1443, §1002; amended Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; renumbered §12642 and amended Pub. L. 103–337, div. A, title XVI, §§1662(h)(2), 1675(d)(1), Oct. 5,1994, 108 Stat. 2996, 3018; Pub. L. 109–163, div. A, title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3440.)
+(Added Pub. L. 85–861, §1(22)(A), Sept. 2, 1958, 72 Stat. 1443, §1002; amended Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; renumbered §12642 and amended Pub. L. 103–337, div. A, title XVI, §§1662(h)(2), 1675(d)(1), Oct. 5, 1994, 108 Stat. 2996, 3018; Pub. L. 109–163, div. A, title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3440.)
 
 Historical and Revision Notes
 

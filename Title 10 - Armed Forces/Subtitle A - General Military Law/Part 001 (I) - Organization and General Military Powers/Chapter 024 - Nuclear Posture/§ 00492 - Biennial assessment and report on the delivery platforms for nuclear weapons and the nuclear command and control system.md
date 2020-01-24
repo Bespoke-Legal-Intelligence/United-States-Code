@@ -48,13 +48,17 @@ Covered Official Defined.—In this section, the term "covered official" means�
 
 &emsp;(1) the Commander of the United States Strategic Command;
 
-&emsp;(2) the Director of the Strategic Systems Program of the Navy; and
+&emsp;(2) the Director of the Strategic Systems Program of the Navy;
 
-&emsp;(3) the Commander of the Global Strike Command of the Air Force.
+&emsp;(3) the Commander of the Global Strike Command of the Air Force; and
 
-(Added Pub. L. 112–81, div. A, title X, §1041(a), Dec. 31, 2011, 125 Stat. 1573, §490a; renumbered §492, Pub. L. 112–239, div. A, title X, §1031(b)(3)(A)(i), Jan. 2, 2013, 126 Stat. 1918; Pub. L. 113–291, div. A, title XVI, §1642, Dec. 19, 2014, 128 Stat. 3650.)
+&emsp;(4) the Commander of the United States Air Forces in Europe.
+
+(Added Pub. L. 112–81, div. A, title X, §1041(a), Dec. 31, 2011, 125 Stat. 1573, §490a; renumbered §492, Pub. L. 112–239, div. A, title X, §1031(b)(3)(A)(i), Jan. 2, 2013, 126 Stat. 1918; amended Pub. L. 113–291, div. A, title XVI, §1642, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 116–92, div. A, title XVI, §1666, Dec. 20, 2019, 133 Stat. 1774.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (d)(4). Pub. L. 116–92 added par. (4).
 
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–291 inserted ", and the ability to meet operational availability requirements for," after "military effectiveness of".
 

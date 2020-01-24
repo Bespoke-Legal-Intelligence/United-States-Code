@@ -20,7 +20,7 @@ The provisions of section 1278(a) of this title,<sup>3</sup> shall apply to the 
 
 #### (1) Existing public roads
 
-&emsp;The Secretary may enter into a cooperative agreement with the State of West Virginiaunder which the Secretary shall be authorized to maintain and improve existing public roads and public rights-of-way within the boundaries of the national recreation area to the extent necessary to facilitate and improve reasonable access to the recreation area at existing access points where such actions would not unreasonably diminish the scenic and natural values of the area.
+&emsp;The Secretary may enter into a cooperative agreement with the State of West Virginia under which the Secretary shall be authorized to maintain and improve existing public roads and public rights-of-way within the boundaries of the national recreation area to the extent necessary to facilitate and improve reasonable access to the recreation area at existing access points where such actions would not unreasonably diminish the scenic and natural values of the area.
 
 #### (2) Facilities adjacent to dam
 

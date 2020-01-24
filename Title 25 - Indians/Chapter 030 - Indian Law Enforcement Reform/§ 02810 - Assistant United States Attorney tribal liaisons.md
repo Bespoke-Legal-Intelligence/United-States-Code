@@ -28,7 +28,7 @@ The duties of a tribal liaison shall include the following:
 
 #### (c) Effect of section
 
-Nothing in this section limits the authority of any United States Attorney to determine the duties of a tribal liaison officer to meet the needs of the Indian tribes located within the relevant Federal district.
+Nothing in this section limits the authority of any United States Attorney to determine theduties of a tribal liaison officer to meet the needs of the Indian tribes located within the relevant Federal district.
 
 #### (d) Enhanced prosecution of minor crimes
 

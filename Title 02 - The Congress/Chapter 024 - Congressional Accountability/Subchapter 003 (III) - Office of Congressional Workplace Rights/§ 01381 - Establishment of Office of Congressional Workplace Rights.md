@@ -68,7 +68,7 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 &emsp;&emsp;(D) malfeasance, including a felony or conduct involving moral turpitude, or
 
-&emsp;&emsp;(E) holding an office or employment or engaging in an activity that disqualifies theindividual from service as a member of the Board under subsection (d)(2).
+&emsp;&emsp;(E) holding an office or employment or engaging in an activity that disqualifies the individual from service as a member of the Board under subsection (d)(2).
 
 #### (2) Statement of reasons for removal
 
@@ -92,7 +92,7 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 #### (2) Travel expenses
 
-&emsp;Each member of the Board shall receive travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
+&emsp;Each member of the Board shall receive travel expenses, including per diem in lieu of subsistence, at rates authorized for employeesof agencies under subchapter I of chapter 57 of title 5, for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
 
 #### (h) Duties
 
@@ -102,7 +102,7 @@ The Office shall—
 
 &emsp;(2) in carrying out the program under paragraph (1), distribute the telephone number and address of the Office, procedures for action under subchapter IV, and any other information appropriate for distribution, distribute such information to employing offices in a manner suitable for posting, provide such information to new employees of employing offices, distribute such information to covered employees by the end of each fiscal year, and conduct seminars and other activities designed to educate employing offices and covered employees; and
 
-&emsp;(3) compile and publish statistics on the use of the Office by covered employees, including the number and type of contacts made with the Office, on the reason for such contacts, on the number of covered employees who initiated proceedings with the Office under this chapter and the result of such proceedings, and on the number of covered employees who filed a complaint, the basis for the complaint, and the action taken on the complaint.
+&emsp;(3) compile and publish statistics on the use of the Office by covered employees, including the number and type of contacts made with the Office, on the reason for such contacts, on the number of covered employees who initiated proceedings with the Office under this chapter and the result of such proceedings, and on the number of covered employees who filed a claim, the basis for the claim, and the action taken on the claim.
 
 #### (i) Congressional oversight
 
@@ -182,21 +182,11 @@ Members of the Board and officers and employees of the Office shall file the fin
 
 &emsp;In this subsection, the term "claimant" means an individual who received an award or settlement, or who made an allegation of a violation against an employing office, under part A of subchapter II.
 
+#### (m) Record retention
+
+The Office shall establish and maintain a program for the permanent retention of its records, including the records of preliminary reviews, mediations, hearings, and other proceedings conducted under subchapter IV.
+
 (Pub. L. 104–1, title III, §301, Jan. 23, 1995, 109 Stat. 24; Pub. L. 108–349, §1(a), Oct. 21, 2004, 118 Stat. 1389; Pub. L. 110–161, div. H, title I, §1101(a), Dec. 26, 2007, 121 Stat. 2237; Pub. L. 110–164, §1, Dec. 26, 2007, 121 Stat. 2459; Pub. L. 113–235, div. H, title I, §1001, Dec. 16, 2014, 128 Stat. 2530; Pub. L. 115–19, §1(c), (d), Apr. 3, 2017, 131 Stat. 85; Pub. L. 115–397, title II, §§201(a)(1), 203, title III, §308(a), Dec. 21, 2018, 132 Stat. 5315, 5318, 5325.)
-
-#### Amendment of Subsections (h)(3) and (m)
-
-<i>Pub. L. 115–397, title II, §§201(a)(1)(A), 203, title IV, §401, Dec. 21, 2018, 132 Stat. 5315, 5318, 5327, provided that, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, this section is amended—</i>
-
-<i>(1) in subsection (h)(3), by striking "complaint" each place it appears and inserting "claim"; and</i>
-
-<i>(2) by adding at the end the following new subsection:</i>
-
-#### <i>(m) Record retention</i>
-
-<i>The Office shall establish and maintain a program for the permanent retention of its records, including the records of preliminary reviews, mediations, hearings, and other proceedings conducted under subchapter IV.</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 #### References in Text
 
@@ -244,7 +234,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 Pub. L. 115–397, title II, §201(a)(2), Dec. 21, 2018, 132 Stat. 5316, provided that: "The amendment made by paragraph (1)(B) \[amending this section\] shall take effect on January 1, 2019."
 
-Pub. L. 115–397, title III, §308(d), Dec. 21, 2018, 132 Stat. 5326, provided that: "The amendments made by this section \[amending this section and sections 1301, 1331, 1341, 1351, and 1384 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2018\]. Any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date shall be considered to refer and apply to the Office of Congressional Workplace Rights."
+Pub. L. 115–397, title III, §308(d), Dec. 21, 2018, 132 Stat. 5326, provided that: "The amendments made bythis section \[amending this section and sections 1301, 1331, 1341, 1351, and 1384 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2018\]. Any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date shall be considered to refer and apply to the Office of Congressional Workplace Rights."
 
 Except as otherwise provided, amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 

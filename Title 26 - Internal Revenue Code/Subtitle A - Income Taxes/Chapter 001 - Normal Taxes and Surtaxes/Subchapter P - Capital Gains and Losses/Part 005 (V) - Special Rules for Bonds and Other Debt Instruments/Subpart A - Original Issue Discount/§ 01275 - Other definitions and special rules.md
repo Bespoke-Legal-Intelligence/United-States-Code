@@ -36,7 +36,7 @@ For purposes of this subpart—
 
 #### (C) Other debt instruments
 
-&emsp;&emsp;In the case of any debt instrument not described in subparagraph (A) or (B), the term "date of original issue" means the date onwhich the debt instrument was issued in a sale or exchange.
+&emsp;&emsp;In the case of any debt instrument not described in subparagraph (A) or (B), the term "date of original issue" means the date on which the debt instrument was issued in a sale or exchange.
 
 #### (3) Tax-exempt obligation
 

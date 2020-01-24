@@ -58,11 +58,11 @@ Pub. L. 108–360, title I, §101, Oct. 25, 2004, 118 Stat. 1668, provided that:
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–503, title II, §201, Nov. 13, 2000, 114 Stat. 2304, provided that: "This title \[enacting sections 7707to 7709 of this title, amending sections 7703, 7704, and 7706 of this title, repealing section 7705d of this title, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 7704 of this title\] may be cited as the 'Earthquake Hazards Reduction Authorization Act of 2000'."
+Pub. L. 106–503, title II, §201, Nov. 13, 2000, 114 Stat. 2304, provided that: "This title \[enacting sections 7707 to 7709 of this title, amending sections 7703, 7704, and 7706 of this title, repealing section 7705d of this title, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 7704 of this title\] may be cited as the 'Earthquake Hazards Reduction Authorization Act of 2000'."
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–614, §1, Nov. 16, 1990, 104 Stat. 3231, provided that: "This Act \[enacting sections 7705a to 7705e, amending this section and sections 7702 to 7705, and 7706 of this title, and enacting provisions set out as notes under sections 7704, 7705b, and 7705e of this title\] may be cited as the 'National Earthquake Hazards Reduction Program Reauthorization Act'."
+Pub. L. 101–614, §1, Nov. 16, 1990, 104 Stat. 3231, provided that: "This Act \[enacting sections 7705a to 7705e,amending this section and sections 7702 to 7705, and 7706 of this title, and enacting provisions set out as notes under sections 7704, 7705b, and 7705e of this title\] may be cited as the 'National Earthquake Hazards Reduction Program Reauthorization Act'."
 
 #### Short Title
 

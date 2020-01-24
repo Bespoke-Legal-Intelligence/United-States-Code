@@ -8,13 +8,21 @@
 
 &emsp;(III) except as provided in subclause (IV) of this clause, in the case of any loan of more than $56,250, the lesser of $36,000 or 40 percent of the loan; or
 
-&emsp;(IV) in the case of any loan of more than $144,000 for a purpose specified in clause (1), (2), (3), (5), (6), or (8) of section 3710(a) of this title, the lesser of the maximum guaranty amount (as defined in subparagraph (C)) or 25 percent of the loan; or
+&emsp;(IV) in the case of any loan of more than $144,000 for a purpose specified in clause (1), (2), (3), (5), (6), or (8) of section 3710(a) of this title, 25 percent of the loan; or
 
-&emsp;(ii) the maximum amount of guaranty entitlement available to the veteran as specified in subparagraph (B) of this paragraph.
+&emsp;(ii) the maximum amount of guaranty entitlement available to the veteran as specified in subparagraph (B) or (C).
 
-(B) The maximum amount of guaranty entitlement available to a veteran for purposes specified in section 3710 of this title shall be $36,000, or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, the maximum guaranty amount (as defined in subparagraph (C)), reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 3702(b) of this title.
+(B) With respect to loans described in subclauses (I), (II), or (III) of subparagraph (A)(i), the maximum amount of guaranty entitlement available to a veteran for purposes specified in section 3710 of this title shall be $36,000, reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 3702(b) of this title.
 
-(C) In this paragraph, the term "maximum guaranty amount" means the dollar amount that is equal to 25 percent of the Freddie Mac conforming loan limit limitation determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2)) for a single-family residence, as adjusted for the year involved.
+(C)(i) With respect to loans described in subclause (IV) of subparagraph (A)(i) made to a veteran not covered by clause (ii), the maximum amount of guaranty entitlement available to the veteran shall be 25 percent of the loan.
+
+(ii) With respect to loans described in subclause (IV) of subparagraph (A)(i) made to a covered veteran, the maximum amount of guaranty entitlement available to the veteran shall be 25 percent of the Freddie Mac conforming loan limit, reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 3702(b) of this title.
+
+(iii) In this subparagraph:
+
+&emsp;(I) The term "covered veteran" means a veteran who has previously used entitlement under this chapter and for whom the full amount of entitlement so used has not been restored as a result of the exclusion in section 3702(b) of this title.
+
+&emsp;(II) The term "Freddie Mac conforming loan limit" means the limit determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2)) for a single-family residence, as adjusted for the year involved.
 
 (2)(A) Any housing loan which might be guaranteed under the provisions of this chapter, when made or purchased by any financial institution subject to examination and supervision by any agency of the United States or of any State may, in lieu of such guaranty, be insured by the Secretary under an agreement whereby the Secretary will reimburse any such institution for losses incurred on such loan up to 15 per centum of the aggregate of loans so made or purchased by it.
 
@@ -62,7 +70,7 @@
 
 &emsp;(i) the initial principal amount of the loan may not exceed the reasonable value of the property as of the time the loan is made; and
 
-&emsp;(ii) the principal amount of the loan thereafter (including the amount of all interest tobe deferred and added to principal) may not at any time be scheduled to exceed the projected value of the property.
+&emsp;(ii) the principal amount of the loan thereafter (including the amount of all interest to be deferred and added to principal) may not at any time be scheduled to exceed the projected value of the property.
 
 (C) For the purposes of subparagraph (B) of this paragraph, the projected value of the property shall be calculated by the Secretary by increasing the reasonable value of the property as of the time the loan is made at a rate not in excess of 2.5 percent per year, but in no event may the projected value of the property for the purposes of such subparagraph exceed 115 percent of such reasonable value. A loan made for a purpose other than the acquisition of a single-family dwelling unit may not be guaranteed under such subparagraph.
 
@@ -84,7 +92,7 @@
 
 (f) The application for or obtaining of a loan made, insured, or guaranteed under this chapter shall not be subject to reporting requirements applicable to requests for, or receipts of, Federal contracts, grants, loans, loan guarantees, loan insurance, or cooperative agreements except to the extent that such requirements are provided for in, or by the Secretary pursuant to, this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, §501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, §101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, §602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, §401, Dec. 27, 2001, 115 Stat. 993; Pub. L. 107–330, title III, §308(f)(1), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–454, title IV, §403, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V, §504(a), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 111–22, div. A, title I, §102(a), May 20, 2009, 123 Stat. 1636; Pub. L. 112–154, title VII, §701(d), Aug. 6, 2012, 126 Stat. 1204.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, §501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, §101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, §602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, §401, Dec. 27, 2001, 115 Stat. 993; Pub. L. 107–330, title III, §308(f)(1), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–454, title IV, §403, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V, §504(a), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 111–22, div. A, title I, §102(a), May 20, 2009, 123 Stat. 1636; Pub. L. 112–154, title VII, §701(d), Aug. 6, 2012, 126 Stat. 1204; Pub. L. 116–23, §6(a)(1), June 25, 2019, 133 Stat. 973.)
 
 #### References in Text
 
@@ -93,6 +101,14 @@ The Servicemen's Readjustment Act of 1944, referred to in subsec. (c)(2), is act
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(3)(A)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(1)(A)(i)(IV). Pub. L. 116–23, §6(a)(1)(A)(i), struck out "the lesser of the maximum guaranty amount (as defined in subparagraph (C)) or" before "25 percent".
+
+Subsec. (a)(1)(A)(ii). Pub. L. 116–23, §6(a)(1)(A)(ii), substituted "subparagraph (B) or (C)" for "subparagraph (B) of this paragraph".
+
+Subsec. (a)(1)(B). Pub. L. 116–23, §6(a)(1)(B), substituted "With respect to loans described in subclauses (I), (II), or (III) of subparagraph (A)(i), the maximum" for "The maximum" and struck out "or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, the maximum guaranty amount (as defined in subparagraph (C))," after "$36,000,".
+
+Subsec. (a)(1)(C). Pub. L. 116–23, §6(a)(1)(C), added subpar. (C) and struck out former subpar. (C) which read as follows: "In this paragraph, the term 'maximum guaranty amount' means the dollar amount that is equal to 25 percent of the Freddie Mac conforming loan limit limitation determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2)) for a single-family residence, as adjusted for the year involved."
 
 <b>2012</b>—Subsec. (d)(3). Pub. L. 112–154 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner's share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran's realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969, the Secretary's determination must have been made prior to the recordation of the covenant."
 
@@ -246,6 +262,10 @@ Subsec. (d)(1). Pub. L. 91–506, §2(c)(2), limited maturity of non-real-estate
 
 <b>1959</b>—Subsec. (c)(1). Pub. L. 86–73 struck out requirement that the interest rate on a Veterans' Administration guarantee for direct loan be at least one-half of one percent below the prevailing rate on FHA-insured sales housing loans and increased the interest rate ceiling from 4¾ to 5¼ percent.
 
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–23, §6(d), June 25, 2019, 133 Stat. 976, provided that: "The amendments made by this section \[amending this section and sections 3710, 3729, and 3762 of this title\] shall apply with respect to a loan guaranteed under section 3710 of title 38, United States Code, on or after January 1, 2020."
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–154 effective on the date that is one year after Aug. 6, 2012, see section 701(g) of Pub. L. 112–154, set out as an Effective Date note under section 2109 of this title.
@@ -260,11 +280,11 @@ Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of this title.
+Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first dayafter the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of this title.
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–237, title III, §306(b), Dec. 18, 1989, 103 Stat. 2074, provided that: "The amendments made bysubsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 18, 1989\] and shall apply only with respect to loans closed after such date."
+Pub. L. 101–237, title III, §306(b), Dec. 18, 1989, 103 Stat. 2074, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 18, 1989\] and shall apply only with respect to loans closed after such date."
 
 #### Effective Date of 1988 Amendment
 
@@ -299,6 +319,10 @@ Amendment by Pub. L. 93–569 effective Dec. 31, 1974, see section 10 of Pub. L.
 #### Effective Date of 1967 Amendment
 
 Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+
+#### Guidance To Implement Amendment by Pub. L. 116–23
+
+Pub. L. 116–23, §6(e), June 25, 2019, 133 Stat. 976, provided that: "Notwithstanding section 501 of title 38, United States Code, the Secretary of Veterans Affairs may issue guidance to implement this section \[amending this section and sections 3710, 3729, and 3762 of this title and enacting provisions set out as a note under this section\] before prescribing new regulations under sections 3703, 3729, and 3762 of such title, as amended by this section."
 
 #### Implementation of Amendment by Pub. L. 111–22
 

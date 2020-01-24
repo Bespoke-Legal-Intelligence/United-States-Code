@@ -4,7 +4,7 @@
 
 A declaration filed pursuant to section 4221 of this title and in accordance with sections 4222 and 4223 of this title is valid unless—
 
-&emsp;(1) the declaration is filed by a current or former officer or employee of a Federal orState government agency or instrumentality who discovered or gathered the information in the declaration, in whole or in part, while acting within the course of the declarant's government employment;
+&emsp;(1) the declaration is filed by a current or former officer or employee of a Federal or State government agency or instrumentality who discovered or gathered the information in the declaration, in whole or in part, while acting within the course of the declarant's government employment;
 
 &emsp;(2) the declaration is filed by a person who knowingly participated in the violation of section 1517 of title 18 or any of the sections of title 18 referred to in section 4201 <sup>1</sup> of this title, or any other fraudulent conduct with respect to which the declaration is made;
 

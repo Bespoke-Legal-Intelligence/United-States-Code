@@ -14,7 +14,7 @@ The Service shall assist the Secretary in carrying out the agricultural trade po
 
 #### References in Text
 
-The Food for Peace Act, referred to in par. (4), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in par. (4), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classifiedgenerally to chapter 41 (§1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 #### Amendments
 
@@ -44,5 +44,5 @@ Market Development Strategy.—A program under subsection (b) would be part of a
 
 "(d)
 
-Pilot Program.—A program under subsection (a) would be established on a pilot basis to ensure that theprogram does not disadvantage small- and medium-sized companies, including companies that have never engaged in exporting."
+Pilot Program.—A program under subsection (a) would be established on a pilot basis to ensure that the program does not disadvantage small- and medium-sized companies, including companies that have never engaged in exporting."
 

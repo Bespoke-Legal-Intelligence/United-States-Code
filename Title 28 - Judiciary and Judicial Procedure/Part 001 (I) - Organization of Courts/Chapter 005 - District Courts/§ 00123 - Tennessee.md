@@ -6,7 +6,7 @@ Tennessee is divided into three judicial districts to be known as the Eastern, M
 
 (a) The Eastern District comprises four divisions.
 
-&emsp;&emsp;(1) The Northern Division comprises the counties of Anderson, Blount, Campbell, Claiborne, Grainger, Jefferson, Knox,Loudon, Monroe, Morgan, Roane, Scott, Sevier, and Union.
+&emsp;&emsp;(1) The Northern Division comprises the counties of Anderson, Blount, Campbell, Claiborne, Grainger, Jefferson, Knox, Loudon, Monroe, Morgan, Roane, Scott, Sevier, and Union.
 
 &emsp;&emsp;Court for the Northern Division shall be held at Knoxville.
 
@@ -68,7 +68,7 @@ A provision for furnishing rooms and accommodations by the local authorities for
 
 An identical provision with reference to Winchester is retained in part, but the words quoted above were omitted as unnecessary since, when such buildings become available, the Director will, under section 604 of this title, provide court accommodations therein.
 
-The last paragraph of the revised section consolidates the provisions of paragraphs (e) and (f) of section 188 of title 28, U.S.C., 1940 ed., relating to the terms of courtto be held in the two divisions of the eastern district by the two judges, and their respective powers of appointment of court officers and employees.
+The last paragraph of the revised section consolidates the provisions of paragraphs (e) and (f) of section 188 of title 28, U.S.C., 1940 ed., relating to the terms of court to be held in the two divisions of the eastern district by the two judges, and their respective powers of appointment of court officers and employees.
 
 Provisions relating to appointment and residence of deputy marshals and maintenance of clerk's office, were omitted as covered by sections 542 \[see 561\] and 751 of this title.
 

@@ -54,7 +54,7 @@ Nothing in this section shall be construed to confer upon the Secretary any auth
 
 #### (g) Annual financial statement
 
-Any health maintenance organization failing to file with the Secretary the annual financialstatement required in subsection (a) shall be ineligible for any Federal assistance under this subchapter until such time as such statement is received by the Secretary and shall not be a qualified health maintenance organization for purposes of section 300e–9 of this title.
+Any health maintenance organization failing to file with the Secretary the annual financial statement required in subsection (a) shall be ineligible for any Federal assistance under this subchapter until such time as such statement is received by the Secretary and shall not be a qualified health maintenance organization for purposes of section 300e–9 of this title.
 
 #### (h) Penalties
 

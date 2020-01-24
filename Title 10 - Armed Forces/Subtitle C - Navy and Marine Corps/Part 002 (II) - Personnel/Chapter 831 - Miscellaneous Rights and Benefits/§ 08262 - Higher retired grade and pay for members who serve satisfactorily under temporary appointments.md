@@ -96,7 +96,7 @@ Act
 
 May 31, 1956, ch. 348, §3, 70 Stat. 222.
 
-Reference to the provisions of law under which temporary appointments in officer grades were made isomitted as unnecessary, since the provisions cited comprise all existing authority for such appointments.
+Reference to the provisions of law under which temporary appointments in officer grades were made is omitted as unnecessary, since the provisions cited comprise all existing authority for such appointments.
 
 #### Prior Provisions
 

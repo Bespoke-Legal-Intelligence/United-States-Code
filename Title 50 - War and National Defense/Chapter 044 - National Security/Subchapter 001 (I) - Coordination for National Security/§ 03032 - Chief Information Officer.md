@@ -2,7 +2,7 @@
 
 #### (a) Chief Information Officer
 
-To assist the Director of National Intelligence in carrying out the responsibilities of the Director under this chapter and other applicable provisions of law, there shall be within the Office of the Director of National Intelligence a Chief Information Officer of the Intelligence Community who shall be appointed by the President.
+To assist the Director of National Intelligence in carrying out the responsibilities of the Director under this chapter and other applicable provisions of law, there shall be within the Office of the Director of National Intelligence a Chief Information Officer of the Intelligence Community who shall be appointed by the Director. The Chief Information Officer shall report directly to the Director of National Intelligence.
 
 #### (b) Duties and responsibilities
 
@@ -14,13 +14,13 @@ Subject to the direction of the Director of National Intelligence, the Chief Inf
 
 &emsp;(3) direct and manage all information technology-related procurement for the intelligence community; and
 
-&emsp;(4) ensure that all expenditures for information technology and research and development activities are consistent with the intelligence community enterprise architecture and the strategy of the Director for such architecture.
+&emsp;(4) ensure that all expenditures for information technology and research and development activities are consistent with the intelligencecommunity enterprise architecture and the strategy of the Director for such architecture.
 
 #### (c) Prohibition on simultaneous service as other chief information officer
 
 An individual serving in the position of Chief Information Officer of the Intelligence Community may not, while so serving, serve as the chief information officer of any other department or agency, or component thereof, of the United States Government.
 
-(July 26, 1947, ch. 343, title I, §103G, as added Pub. L. 108–487, title III, §303(a)(1), Dec. 23, 2004, 118 Stat. 3944; amended Pub. L. 111–259, title IV, §404, Oct. 7, 2010, 124 Stat. 2709.)
+(July 26, 1947, ch. 343, title I, §103G, as added Pub. L. 108–487, title III, §303(a)(1), Dec. 23, 2004, 118 Stat. 3944; amended Pub. L. 111–259, title IV, §404, Oct. 7, 2010, 124 Stat. 2709; Pub. L. 116–92, div. E, title LXIII, §6304, title LXIV, §6405, Dec. 20, 2019, 133 Stat. 2188, 2196.)
 
 #### References in Text
 
@@ -32,11 +32,15 @@ Section was formerly classified to section 403–3g of this title prior to edito
 
 #### Amendments
 
+<b>2019</b>—Subsec. (a). Pub. L. 116–92, §6405, inserted at end "The Chief Information Officer shall report directly to the Director of National Intelligence."
+
+Pub. L. 116–92, §6304, substituted "by the Director" for "by the President".
+
 <b>2010</b>—Subsec. (a). Pub. L. 111–259, §404(1), inserted "of the Intelligence Community" after "Chief Information Officer" and substituted "President." for "President, by and with the advice and consent of the Senate."
 
 Subsecs. (b) to (d). Pub. L. 111–259, §404(2)–(4), redesignated subsecs. (c) and (d) as (b) and (c), respectively, inserted "of the Intelligence Community" after "Chief Information Officer" in two places, and struck out former subsec. (b). Text of former subsec. (b) read as follows: "The Chief Information Officer shall serve as the chief information officer of the intelligence community."
 
 #### Effective Date
 
-Pub. L. 108–487, title III, §303(b), Dec. 23, 2004, 118 Stat. 3944, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the effective date of the National Security Intelligence Reform Act of 2004 \[see section 1097 of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transfer, Termination, and Transition Provisions note under section 3001 of this title\], as provided in section 801 ofthis Act \[set out in an Effective Date of 2004 Amendments note under section 2656f of Title 22, Foreign Relations and Intercourse\]."
+Pub. L. 108–487, title III, §303(b), Dec. 23, 2004, 118 Stat. 3944, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the effective date of the National Security Intelligence Reform Act of 2004 \[see section 1097 of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transfer, Termination, and Transition Provisions note under section 3001 of this title\], as provided in section 801 of this Act \[set out in an Effective Date of 2004 Amendments note under section 2656f of Title 22, Foreign Relations and Intercourse\]."
 

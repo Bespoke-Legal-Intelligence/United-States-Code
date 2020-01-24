@@ -16,11 +16,13 @@
 | [2812\.](%C2%A7%2002812%20-%20Lease-purchase%20of%20facilities.md) | Lease-purchase of facilities. |
 | [2813\.](%C2%A7%2002813%20-%20Acquisition%20of%20existing%20facilities%20in%20lieu%20of%20authorized%20construction.md) | Acquisition of existing facilities in lieu of authorized construction. |
 | [2814\.](%C2%A7%2002814%20-%20Special%20authority%20for%20development%20of%20Ford%20Island%2C%20Hawaii.md) | Special authority for development of Ford Island, Hawaii. |
-| \[2815. | Repealed.\] |
+| [2815\.](%C2%A7%2002815%20-%20Military%20installation%20resilience%20projects.md) | Military installation resilience projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. B, title XXVIII, §2801(b)(2), Dec. 20, 2019, 133 Stat. 1881, which directed amendment of the analysis at the beginning of this chapter by adding item 2815, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title X, §1061(23)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 2815 "Joint use military construction projects: annual evaluation".
 
@@ -69,4 +71,4 @@ Pub. L. 99–499, title II, §211(b)(2), Oct. 17, 1986, 100 Stat. 1726, added it
 - [&sect; 02812 - Lease-purchase of facilities](%C2%A7%2002812%20-%20Lease-purchase%20of%20facilities.md)
 - [&sect; 02813 - Acquisition of existing facilities in lieu of authorized construction](%C2%A7%2002813%20-%20Acquisition%20of%20existing%20facilities%20in%20lieu%20of%20authorized%20construction.md)
 - [&sect; 02814 - Special authority for development of Ford Island, Hawaii](%C2%A7%2002814%20-%20Special%20authority%20for%20development%20of%20Ford%20Island%2C%20Hawaii.md)
-- [&sect; 02815 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(23)(A), Dec. 31, 2011, 125 Stat. 1584](%C2%A7%2002815%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%2823%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201584.md)
+- [&sect; 02815 - Military installation resilience projects](%C2%A7%2002815%20-%20Military%20installation%20resilience%20projects.md)

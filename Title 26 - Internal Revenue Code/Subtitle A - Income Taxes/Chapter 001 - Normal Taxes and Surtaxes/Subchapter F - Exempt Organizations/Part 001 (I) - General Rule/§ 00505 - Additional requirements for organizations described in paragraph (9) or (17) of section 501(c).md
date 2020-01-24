@@ -16,7 +16,7 @@
 
 &emsp;Except as otherwise provided in this subsection, a plan meets the requirements of this subsection only if—
 
-&emsp;&emsp;(A) each class of benefits under the plan is provided under a classification of employeeswhich is set forth in the plan and which is found by the Secretary not to be discriminatory in favor of employees who are highly compensated individuals, and
+&emsp;&emsp;(A) each class of benefits under the plan is provided under a classification of employees which is set forth in the plan and which is found by the Secretary not to be discriminatory in favor of employees who are highly compensated individuals, and
 
 &emsp;&emsp;(B) in the case of each class of benefits, such benefits do not discriminate in favor of employees who are highly compensated individuals.
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(D) employees not included in the plan who are included in a unit of employees covered by an agreement between employee representatives and 1 or more employers which the Secretary finds to be a collective bargaining agreement if the class of benefits involved was the subject of good faith bargaining between such employee representatives and such employer or employers, and
 
-&emsp;&emsp;(E) employees who are nonresident aliens and who receive no earned income (within the meaning of section 911(d)(2)) from the employer which constitutes income from sources within the United States (within the meaning of section 861(a)(3)).
+&emsp;&emsp;(E) employees who are nonresident aliens and who receive no earned income (withinthe meaning of section 911(d)(2)) from the employer which constitutes income from sources within the United States (within the meaning of section 861(a)(3)).
 
 #### (3) Application of subsection where other nondiscrimination rules provided
 

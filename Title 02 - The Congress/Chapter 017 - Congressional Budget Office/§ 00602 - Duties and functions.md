@@ -56,7 +56,7 @@ The Director may equip the Office with up-to-date computer capability (upon appr
 
 &emsp;&emsp;(iii) if, and to the extent that the Director determines that accurate estimates are reasonably feasible, include estimates of—
 
-&emsp;&emsp;&emsp;(I) the future direct cost of the Federal mandate to the extent that such costs significantly differ from or extend beyond the 5-year period after the mandate is first effective; and
+&emsp;&emsp;&emsp;(I) the future direct cost of the Federal mandate to the extent that such costs significantly differ from or extend beyond the5-year period after the mandate is first effective; and
 
 &emsp;&emsp;&emsp;(II) any disproportionate budgetary effects of Federal mandates upon particular industries or sectors of the economy, States, regions, and urban or rural or other types of communities, as appropriate.
 

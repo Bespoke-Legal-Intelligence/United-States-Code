@@ -56,7 +56,7 @@
 
 (c) In addition to meeting the requirements under subsection (a), a debtor shall file with the court a record of any interest that a debtor has in an education individual retirement account (as defined in section 530(b)(1) of the Internal Revenue Code of 1986), an interest in an account in a qualified ABLE program (as defined in section 529A(b) of such Code,<sup>1</sup> or under a qualified State tuition program (as defined in section 529(b)(1) of such Code).
 
-(d) If the debtor fails timely to take the action specified in subsection (a)(6) of this section, or in paragraphs (1) and (2) of section 362(h), with respect to property which a lessor or bailor owns and has leased, rented, or bailed to the debtor or as to which a creditor holds a security interest not otherwise voidable under section 522(f), 544, 545, 547, 548, or 549, nothing in this title shall prevent or limit the operation of a provision in the underlying lease or agreement that has the effect of placing the debtor in default under such lease or agreement by reason of the occurrence, pendency, or existence of a proceeding under this title or the insolvency of the debtor. Nothing in this subsection shall be deemed to justify limiting such a provision in any other circumstance.
+(d) If the debtor fails timely to take the action specified in subsection (a)(6) of this section, or in paragraphs (1) and (2) of section 362(h), with respect to property which a lessor or bailor owns and has leased, rented, or bailed to the debtor oras to which a creditor holds a security interest not otherwise voidable under section 522(f), 544, 545, 547, 548, or 549, nothing in this title shall prevent or limit the operation of a provision in the underlying lease or agreement that has the effect of placing the debtor in default under such lease or agreement by reason of the occurrence, pendency, or existence of a proceeding under this title or the insolvency of the debtor. Nothing in this subsection shall be deemed to justify limiting such a provision in any other circumstance.
 
 (e)(1) If the debtor in a case under chapter 7 or 13 is an individual and if a creditor files with the court at any time a request to receive a copy of the petition, schedules, and statement of financial affairs filed by the debtor, then the court shall make such petition, such schedules, and such statement available to such creditor.
 
@@ -100,7 +100,7 @@
 
 &emsp;(C) the identity of any person who contributed, and the amount contributed, to the household in which the debtor resides.
 
-(2) The tax returns, amendments, and statement of income and expenditures described insubsections (e)(2)(A) and (f) shall be available to the United States trustee (or the bankruptcy administrator, if any), the trustee, and any party in interest for inspection and copying, subject to the requirements of section 315(c) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005.
+(2) The tax returns, amendments, and statement of income and expenditures described in subsections (e)(2)(A) and (f) shall be available to the United States trustee (or the bankruptcy administrator, if any), the trustee, and any party in interest for inspection and copying, subject to the requirements of section 315(c) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005.
 
 (h) If requested by the United States trustee or by the trustee, the debtor shall provide—
 

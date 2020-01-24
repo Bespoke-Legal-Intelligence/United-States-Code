@@ -34,7 +34,7 @@ An application for a grant for a demonstration project for services under this s
 
 &emsp;(14) assurances that the applicant has made or will make and will continue to make every reasonable effort to collect appropriate reimbursement for its costs in providing health services to persons who are entitled to benefits under title V of the Social Security Act \[42 U.S.C. 701 et seq.\], to medical assistance under a State plan approved under title XIX of such Act \[42 U.S.C. 1396 et seq.\], or to assistance for medical expenses under any other public assistance program or private health insurance program;
 
-&emsp;(15) assurances that the applicant has or will make and will continue to make every reasonable effort to collect appropriate reimbursement for its costs in providing services to persons entitled to services under parts B and E of title IV \[42 U.S.C. 620 et seq., 670 et seq.\] and title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\];
+&emsp;(15) assurances that the applicant has or will make and will continue to make every reasonable effort to collect appropriate reimbursement for its costs in providing services to persons entitled to services under parts B and E of title IV \[42 U.S.C. 620 et seq., 670 et seq.\] andtitle XX of the Social Security Act \[42 U.S.C. 1397 et seq.\];
 
 &emsp;(16)(A) a description of—
 

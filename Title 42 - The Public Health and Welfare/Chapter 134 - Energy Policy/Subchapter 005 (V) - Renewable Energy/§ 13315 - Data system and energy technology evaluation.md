@@ -4,7 +4,7 @@ The Secretary of Commerce, in his or her role as a member of the interagency wor
 
 &emsp;(1) develop a comprehensive data base and information dissemination system, using the National Trade Data Bank and the Commercial Information Management System of the Department of Commerce, that will provide information on the specific energy technology needs of foreign countries, and the technical and economic competitiveness of various renewable energy and energy efficiency products and technologies;
 
-&emsp;(2) make such information available to industry, Federal and multilateral lending agencies, nongovernmental organizations, host-country and donor-agency officials, and suchothers as the Secretary of Commerce considers necessary; and
+&emsp;(2) make such information available to industry, Federal and multilateral lending agencies, nongovernmental organizations, host-country and donor-agency officials, and such others as the Secretary of Commerce considers necessary; and
 
 &emsp;(3) prepare and transmit to the Congress not later than June 1, 1993, and biennially thereafter, a comprehensive report evaluating the full range of energy and environmental technologies necessary to meet the energy needs of foreign countries, including—
 

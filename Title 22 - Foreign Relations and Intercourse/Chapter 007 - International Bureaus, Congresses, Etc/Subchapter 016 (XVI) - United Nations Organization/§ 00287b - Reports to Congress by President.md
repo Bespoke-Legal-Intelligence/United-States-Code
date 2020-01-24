@@ -98,7 +98,7 @@ In addition to the report required by subsection (a), the President, at the time
 
 &emsp;&emsp;(B) the extent of the risk for United States military personnel who are captured while participating in multinational forces in cases where their captors fail to respect the 1949 Geneva Conventions and other international agreements intended to protect prisoners of war; and
 
-&emsp;&emsp;(C) the specific steps that have been taken to protect United States military personnelparticipating in multinational forces, together (if necessary) with any recommendations for the enactment of legislation to achieve that objective.
+&emsp;&emsp;(C) the specific steps that have been taken to protect United States military personnel participating in multinational forces, together (if necessary) with any recommendations for the enactment of legislation to achieve that objective.
 
 #### (5) Human rights and U.N. peacekeeping forces
 
@@ -112,7 +112,7 @@ In addition to the report required by subsection (a), the President, at the time
 
 #### (2) Information to be provided
 
-&emsp;In connection with such consultations, the following information shall be provided each month to the designated congressional committees:
+&emsp;In connection with such consultations, the following information shall be provided eachmonth to the designated congressional committees:
 
 &emsp;&emsp;(A) With respect to ongoing United Nations peacekeeping operations, the following:
 
@@ -234,7 +234,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (a) of this se
 
 #### Delegation of Functions
 
-For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord.No. 13313, July 31, 2003, 68 F.R. 46073, 46074, set out as a note under section 301 of Title 3, The President.
+For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, 46074, set out as a note under section 301 of Title 3, The President.
 
 #### Public Availability of Information
 
@@ -242,7 +242,7 @@ Pub. L. 114–323, title III, §306(b), Dec. 16, 2016, 130 Stat. 1921, provided 
 
 #### Consultations and Reports on United Nations Peacekeeping Operations
 
-Pub. L. 103–236, title IV, §407(a), Apr. 30, 1994, 108 Stat. 448, directed President to consult monthly with Congress on status of United Nations peacekeeping operations, to provide certain information to designated congressional committees on a monthly or interim basis, to notify such committees at least 15 days before the United States would provide assistance to the United Nations to support peacekeeping assistance, and to submit quarterly reports on all such assistance, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §724(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–467. See subsec. (e) of this section.
+Pub. L. 103–236, title IV, §407(a), Apr. 30, 1994, 108 Stat. 448, directed President to consult monthly with Congress on status of United Nations peacekeeping operations, to provide certain information to designated congressional committees on a monthly or interim basis, to notify such committees at least 15 days before the United States would provide assistance to the United Nations to support peacekeeping assistance, andto submit quarterly reports on all such assistance, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §724(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–467. See subsec. (e) of this section.
 
 #### Designated Congressional Committees
 

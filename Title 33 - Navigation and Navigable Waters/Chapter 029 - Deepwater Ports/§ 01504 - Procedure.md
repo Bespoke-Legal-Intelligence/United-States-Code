@@ -2,7 +2,7 @@
 
 #### (a) Regulations; issuance, amendment, or rescission; scope
 
-The Secretary shall, as soon as practicable after January 3, 1975, and after consultationwith other Federal agencies, issue regulations to carry out the purposes and provisions of this chapter in accordance with the provisions of section 553 of title 5, without regard to subsection (a) thereof. Such regulations shall pertain to, but need not be limited to, application, issuance, transfer, renewal, suspension, and termination of licenses. Such regulations shall provide for full consultation and cooperation with all other interested Federal agencies and departments and with any potentially affected coastal State, and for consideration of the views of any interested members of the general public. The Secretary is further authorized, consistent with the purposes and provisions of this chapter, to amend or rescind any such regulation.
+The Secretary shall, as soon as practicable after January 3, 1975, and after consultation with other Federal agencies, issue regulations to carry out the purposes and provisions of this chapter in accordance with the provisions of section 553 of title 5, without regard to subsection (a) thereof. Such regulations shall pertain to, but need not be limited to, application, issuance, transfer, renewal, suspension, and termination of licenses. Such regulations shall provide for full consultation and cooperation with all other interested Federal agencies and departments and with any potentially affected coastal State, and for consideration of the views of any interested members of the general public. The Secretary is further authorized, consistent with the purposes and provisions of this chapter, to amend or rescind any such regulation.
 
 #### (b) Additional regulations; criteria for site evaluation and preconstruction testing
 
@@ -82,7 +82,7 @@ A license may be issued only after public notice and public hearings in accordan
 
 &emsp;(A) to an adjacent coastal State (or combination of States), any political subdivision thereof, or agency or instrumentality, including a wholly owned corporation of any such government;
 
-&emsp;(B) to a person who is neither (i) engaged in producing, refining, or marketing oil, nor (ii) an affiliate of any person who is engaged in producing, refining, or marketing oil or an affiliate of any such affiliate;
+&emsp;(B) to a person who is neither (i) engaged in producing, refining, or marketing oil, nor (ii)an affiliate of any person who is engaged in producing, refining, or marketing oil or an affiliate of any such affiliate;
 
 &emsp;(C) to any other person.
 

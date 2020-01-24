@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 99–272, §13301(d)(2), substituted "The basic rate under 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable to remuneration paid after Dec. 31, 1988, see section 7106(d) ofPub. L. 100–647, set out as a note under section 3321 of this title.
+Amendment by Pub. L. 100–647 applicable to remuneration paid after Dec. 31, 1988, see section 7106(d) of Pub. L. 100–647, set out as a note under section 3321 of this title.
 
 #### Exclusion From Wages and Compensation of Refunds Required From Employers To Compensate for Duplication of Medicare Benefits by Health Care Benefits Provided by Employers
 

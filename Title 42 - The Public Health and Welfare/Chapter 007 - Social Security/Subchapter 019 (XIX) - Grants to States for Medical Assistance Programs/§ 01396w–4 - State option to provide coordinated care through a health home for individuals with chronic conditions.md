@@ -26,7 +26,7 @@ The Secretary shall establish standards for qualification as a designated provid
 
 #### (B) Alternate models of payment
 
-&emsp;&emsp;The methodology for determining payment for provision of health home services under this section shall not be limited to a per-member per-month basis and may provide (as proposed by the State and subject to approval by the Secretary) for alternate models of payment.
+&emsp;&emsp;The methodology for determining payment for provision of health home services underthis section shall not be limited to a per-member per-month basis and may provide (as proposed by the State and subject to approval by the Secretary) for alternate models of payment.
 
 #### (3) Planning grants
 
@@ -46,7 +46,7 @@ The Secretary shall establish standards for qualification as a designated provid
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a State with an SUD-focused State plan amendment approved by the Secretary on or after October 1, 2018, the Secretary may, at the request of the State, extend the application of the Federal medical assistance percentage described in paragraph (1) to payments for the provision of health home services to SUD-eligible individuals under such State plan amendment, in addition to the first 8 fiscal year quarters the State plan amendment is in effect, for the subsequent 2 fiscal year quarters that theState plan amendment is in effect. Nothing in this section shall be construed as prohibiting a State with a State plan amendment that is approved under this section and that is not an SUD-focused State plan amendment from additionally having approved on or after such date an SUD-focused State plan amendment under this section, including for purposes of application of this paragraph.
+&emsp;&emsp;In the case of a State with an SUD-focused State plan amendment approved by the Secretary on or after October 1, 2018, the Secretary may, at the request of the State, extend the application of the Federal medical assistance percentage described in paragraph (1) to payments for the provision of health home services to SUD-eligible individuals under such State plan amendment, in addition to the first 8 fiscal year quarters the State plan amendment is in effect, for the subsequent 2 fiscal year quarters that the State plan amendment is in effect. Nothing in this section shall be construed as prohibiting a State with a State plan amendment that is approved under this section and that is not an SUD-focused State plan amendment from additionally having approved on or after such date an SUD-focused State plan amendment under this section, including for purposes of application of this paragraph.
 
 #### (B) Report requirements
 
@@ -206,7 +206,7 @@ Pub. L. 111–148, title II, §2703(b)(2), Mar. 23, 2010, 124 Stat. 322, provide
 
 "(A)
 
-In general.—Not later than January 1, 2014, the Secretary of Health and Human Services shall survey States that have elected the option under section 1945 of the Social Security Act \[42 U.S.C. 1396w–4\] (as added by subsection (a)) and report to Congress on the nature, extent, and use of such option, particularly as it pertains to—
+In general.—Not later than January 1, 2014, the Secretary of Health and Human Services shall surveyStates that have elected the option under section 1945 of the Social Security Act \[42 U.S.C. 1396w–4\] (as added by subsection (a)) and report to Congress on the nature, extent, and use of such option, particularly as it pertains to—
 
 &emsp;"(i) hospital admission rates;
 

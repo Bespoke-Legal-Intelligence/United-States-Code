@@ -86,7 +86,7 @@
 
 #### References in Text
 
-Section 7503 of this title, referred to in subsec. (b), was in the original "section 904", meaning section 904 of div. O of Pub. L. 114–113, which is classified to section 7503 of this title, but probably should have been areference to section 905 of div. O of Pub. L. 114–113, which is classified to section 7504 of this title. See subsec. (c)(1) of this section.
+Section 7503 of this title, referred to in subsec. (b), was in the original "section 904", meaning section 904 of div. O of Pub. L. 114–113, which is classified to section 7503 of this title, but probably should have been a reference to section 905 of div. O of Pub. L. 114–113, which is classified to section 7504 of this title. See subsec. (c)(1) of this section.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

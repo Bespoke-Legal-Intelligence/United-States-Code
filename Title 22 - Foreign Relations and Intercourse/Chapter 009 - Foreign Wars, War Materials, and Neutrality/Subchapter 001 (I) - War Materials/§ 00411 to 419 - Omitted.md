@@ -38,5 +38,5 @@ The value of defense articles was reduced to $800,000,000 by act Dec. 17, 1941, 
 
 #### Definitions
 
-Act Mar. 5, 1942, ch. 141, title III, §303, 56 Stat. 131, provided that the term "defense article" shall be deemed to include defense information and services, and the expenses in connection with the procurementor supplying of defense articles, information, and services.
+Act Mar. 5, 1942, ch. 141, title III, §303, 56 Stat. 131, provided that the term "defense article" shall be deemed to include defense information and services, and the expenses in connection with the procurement or supplying of defense articles, information, and services.
 

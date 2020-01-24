@@ -78,7 +78,7 @@ System Functions.—The claims processing system shall include at least the foll
 
 "(c)
 
-Consistency with Medicare Claims Requirements.—The Secretary of Defense shall ensure, to themaximum extent practicable, that claims submitted to the claims processing system conform to the requirements applicable to claims submitted to the Secretary of Health and Human Services with respect to medical care provided under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.).
+Consistency with Medicare Claims Requirements.—The Secretary of Defense shall ensure, to the maximum extent practicable, that claims submitted to the claims processing system conform to the requirements applicable to claims submitted to the Secretary of Health and Human Services with respect to medical care provided under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.).
 
 "(d)
 

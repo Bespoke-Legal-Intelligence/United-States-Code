@@ -36,7 +36,7 @@
 
 #### (c) Revision in classification of programs
 
-(1) Whenever a change in the classification of a special access program of a covered department or agency is planned to be made or whenever classified information concerning a special access program of a covered department or agency is to be declassified and made public, thehead of the department or agency shall submit to the congressional oversight committees a report containing a description of the proposed change or the information to be declassified, the reasons for the proposed change or declassification, and notice of any public announcement planned to be made with respect to the proposed change or declassification.
+(1) Whenever a change in the classification of a special access program of a covered department or agency is planned to be made or whenever classified information concerning a special access program of a covered department or agency is to be declassified and made public, the head of the department or agency shall submit to the congressional oversight committees a report containing a description of the proposed change or the information to be declassified, the reasons for the proposed change or declassification, and notice of any public announcement planned to be made with respect to the proposed change or declassification.
 
 (2) Except as provided in paragraph (3), a report referred to in paragraph (1) shall be submitted not less than 14 days before the date on which the proposed change, declassification, or public announcement is to occur.
 
@@ -48,7 +48,7 @@ Whenever there is a modification or termination of the policy and criteria used 
 
 #### (e) Waiver of reporting requirement
 
-(1) The head of a covered department or agency may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the head of the department or agency determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis.
+(1) The head of a covered department or agency may waive any requirement under subsection\(a), (b), or (c) that certain information be included in a report under that subsection if the head of the department or agency determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis.
 
 (2) If the head of a department or agency exercises the authority provided under paragraph (1), the head of the department or agency shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, to the congressional oversight committees.
 
@@ -111,6 +111,10 @@ Subsec. (f)(1). Pub. L. 115–390, §103(2), substituted "congressional oversigh
 Subsec. (g). Pub. L. 115–390, §103(3), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. See Codification note above.
 
 <b>1999</b>—Subsec. (g)(1)(B)(ii). Pub. L. 106–65 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the Department of Energy, with respect to special access programs carried out under the atomic energy defense activities of that department (for which the Secretary of Energy is required to submit reports under section 2122a of title 42); or".
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1999 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Exemptions
 
-The following activities shall be exempt from sanctions under sections 9214, 9221a, 9226, 9229, 9241a, 9241b, and 9243 of this title:
+The following activities shall be exempt from sanctions under sections 9214, 9221a, 9221b, 9221c, 9226, 9229, 9241a, 9241b, and 9243 of this title:
 
 &emsp;(1) Activities subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.), or to any authorized intelligence activities of the United States.
 
@@ -14,7 +14,7 @@ The following activities shall be exempt from sanctions under sections 9214, 922
 
 #### (1) In general
 
-&emsp;The President may waive, for renewable periods of between 30 days and 1 year, the application of the sanctions authorized under section 9214, 9221a, 9224, 9225, 9226, 9229(b), 9241a, 9241b, or 9243(b) of this title if the President submits to the appropriate congressional committees a written determination that the waiver is necessary for humanitarian assistance or to carry out the humanitarian purposes set forth section 7802 of this title.
+&emsp;The President may waive, for renewable periods of between 30 days and 1 year, the application of the sanctions authorized under section 9214, 9221a, 9221b, 9221c, 9224, 9225, 9226, 9229(b), 9241a, 9241b, or 9243(b) of this title if the President submits to the appropriate congressional committees a written determination that the waiver is necessary for humanitarian assistance or to carry out the humanitarian purposes set forth section 7802 of this title.
 
 #### (2) Content of written determination
 
@@ -22,17 +22,17 @@ The following activities shall be exempt from sanctions under sections 9214, 922
 
 #### (3) Clarification of permitted activities under waiver
 
-&emsp;An internationally recognized humanitarian organization shall not be subject to sanctions under section 9214, 9221a, 9224, 9225, 9226, 9229(b), 9241a, 9241b, or 9243(b) of this title for—
+&emsp;An internationally recognized humanitarian organization shall not be subject to sanctions under section 9214, 9221a, 9221b, 9221c, 9224, 9225, 9226, 9229(b), 9241a, 9241b, or 9243(b) of this title for—
 
 &emsp;&emsp;(A) engaging in a financial transaction relating to humanitarian assistance or for humanitarian purposes pursuant to a waiver issued under paragraph (1);
 
-&emsp;&emsp;(B) transporting goods or services that are necessary to carry out operations relating tohumanitarian assistance or humanitarian purposes pursuant to such a waiver; or
+&emsp;&emsp;(B) transporting goods or services that are necessary to carry out operations relating to humanitarian assistance or humanitarian purposes pursuant to such a waiver; or
 
 &emsp;&emsp;(C) having merely incidental contact, in the course of providing humanitarian assistance or aid for humanitarian purposes pursuant to such a waiver, with individuals who are under the control of a foreign person subject to sanctions under this chapter.
 
 #### (c) Waiver
 
-The President may waive, on a case-by-case basis, for renewable periods of between 30 days and 1 year, the application of the sanctions authorized under section 9214, 9221a, 9221(c)(2), 9224, 9225, 9226, 9229(b), 9241a, 9241b, or 9243(b) of this title if the President submits to the appropriate congressional committees a written determination that the waiver—
+The President may waive, on a case-by-case basis, for renewable periods of between 30 days and 1 year, the application of the sanctions authorized under section 9214, 9221a, 9221b, 9221c, 9221(c)(2), 9224, 9225, 9226, 9229(b), 9241a, 9241b, or 9243(b) of this title if the President submits to the appropriate congressional committees a written determination that the waiver—
 
 &emsp;(1) is important to the national security interests of the United States; or
 
@@ -40,9 +40,9 @@ The President may waive, on a case-by-case basis, for renewable periods of betwe
 
 #### (d) Financial services for humanitarian and consular activities
 
-The President may promulgate such regulations, rules, and policies as may be necessary to facilitate the provision of financial services by a foreign financial institution that is not a North Korean financial institution in support of activities conducted pursuant to an exemption or waiver under this section.
+The President may promulgate such regulations, rules, and policies as may be necessary tofacilitate the provision of financial services by a foreign financial institution that is not a North Korean financial institution in support of activities conducted pursuant to an exemption or waiver under this section.
 
-(Pub. L. 114–122, title II, §208, Feb. 18, 2016, 130 Stat. 109; Pub. L. 115–44, title III, §322, Aug. 2, 2017, 131 Stat. 953.)
+(Pub. L. 114–122, title II, §208, Feb. 18, 2016, 130 Stat. 109; Pub. L. 115–44, title III, §322, Aug. 2, 2017, 131 Stat. 953; Pub. L. 116–92, div. F, title LXXI, §7143(a), Dec. 20, 2019, 133 Stat. 2255.)
 
 #### References in Text
 
@@ -51,6 +51,8 @@ The National Security Act of 1947, referred to in subsec. (a)(1), is act July 26
 This chapter, referred to in subsecs. (b)(3)(C) and (c)(2), was in the original "this Act", meaning Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 93, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsecs. (a), (b)(1), (3), (c). Pub. L. 116–92 inserted "9221b, 9221c," after "9221a,".
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–44, §322(a), inserted "9221a," after "sections 9214," and "9241a, 9241b," after "9229," in introductory provisions.
 

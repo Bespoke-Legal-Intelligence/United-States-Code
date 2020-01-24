@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For each fiscal year after the expiration of the period specified in subsection (c)(1) in which a State receives funds for a program referred to in subsection (c)(2), the State shall report to the Attorney General, on a quarterly basis and pursuant to guidelines established by the Attorney General, information regarding the death of any person who is detained, under arrest, or is in the process of being arrested, is en route to be incarcerated, or is incarcerated at a municipal or county jail, State prison, State-run boot camp prison, boot camp prison that is contracted out by the State, any State or local contract facility, or other local or State correctional facility (including any juvenile facility).
+For each fiscal year after the expiration of the period specified in subsection (c)(1) in which aState receives funds for a program referred to in subsection (c)(2), the State shall report to the Attorney General, on a quarterly basis and pursuant to guidelines established by the Attorney General, information regarding the death of any person who is detained, under arrest, or is in the process of being arrested, is en route to be incarcerated, or is incarcerated at a municipal or county jail, State prison, State-run boot camp prison, boot camp prison that is contracted out by the State, any State or local contract facility, or other local or State correctional facility (including any juvenile facility).
 
 #### (b) Information required
 
@@ -28,7 +28,7 @@ The report required by this section shall contain information that, at a minimum
 
 #### (2) Ineligibility for funds
 
-&emsp;For any fiscal year after the expiration of the period specified in paragraph (1), a State that fails to comply with subsection (a), shall, at the discretion of the Attorney General, be subject to not more than a 10-percent reduction of the funds that would otherwise be allocated for that fiscal year to the State under subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750 et seq.),<sup>1</sup> whether characterized as the Edward Byrne Memorial State and LocalLaw Enforcement Assistance Programs, the Local Government Law Enforcement Block Grants Program, the Edward Byrne Memorial Justice Assistance Grant Program, or otherwise.
+&emsp;For any fiscal year after the expiration of the period specified in paragraph (1), a State that fails to comply with subsection (a), shall, at the discretion of the Attorney General, be subject to not more than a 10-percent reduction of the funds that would otherwise be allocated for that fiscal year to the State under subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750 et seq.),<sup>1</sup> whether characterized as the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, the Local Government Law Enforcement Block Grants Program, the Edward Byrne Memorial Justice Assistance Grant Program, or otherwise.
 
 #### (d) Reallocation
 

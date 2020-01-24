@@ -18,7 +18,7 @@
 
 &emsp;(2) after completion of the service described in clause (1) of this subsection—
 
-&emsp;&emsp;(A) is discharged from service with an honorable discharge, is placed on the retired list, is transferred to the Fleet Reserve or Fleet Marine Corps Reserve, or is placed on the temporary disability retired list; or
+&emsp;&emsp;(A) is discharged from service with an honorable discharge, is placed on the retired list, is transferred to the Fleet Reserve orFleet Marine Corps Reserve, or is placed on the temporary disability retired list; or
 
 &emsp;&emsp;(B) continues on active duty or in the Selected Reserve.
 

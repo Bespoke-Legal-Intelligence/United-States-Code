@@ -82,7 +82,7 @@
 
 #### (C) Coordination with recapture
 
-&emsp;&emsp;For purposes of subsection (c)(6)(B)(i), if the requirements of paragraph (1)(C)(ii) are met with respect to any decedent by reason of subparagraph (A), the period ending on the date on which the continuous period taken into account under subparagraph (A) began shall be treated as the period immediately before the decedent's death.
+&emsp;&emsp;For purposes of subsection (c)(6)(B)(i), if the requirements of paragraph (1)(C)(ii) are met with respect to any decedent by reason of subparagraph (A), the period ending on the date on which the continuous period taken into account under subparagraph (A)began shall be treated as the period immediately before the decedent's death.
 
 #### (5) Special rules for surviving spouses
 
@@ -152,7 +152,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of additional tax determined under this paragraph (without regard to this subparagraph) if the entire interest of the qualified heir in the qualified woodland had been disposed of, less the sum of the amount of the additional tax imposed with respect to all prior transactions involving such woodland to which this subparagraph applied.
 
-> &emsp;&emsp;For purposes of the preceding sentence, the disposition of a right to sever shall be treated as the disposition of the standing timber. The amount of additional tax imposed under paragraph (1) in any case in which a qualified heir disposes of his entire interest in the qualified woodland shall be reduced by any amount determined under this subparagraph with respect to such woodland.
+> &emsp;&emsp;For purposes of the preceding sentence, the disposition of a right to sever shall be treated as the disposition of the standing timber. The amount of additional tax imposed underparagraph (1) in any case in which a qualified heir disposes of his entire interest in the qualified woodland shall be reduced by any amount determined under this subparagraph with respect to such woodland.
 
 #### (3) Only 1 additional tax imposed with respect to any 1 portion
 
@@ -294,7 +294,7 @@ For purposes of this section—
 
 &emsp;&emsp;Except as provided in subparagraph (B), the value of a farm for farming purposes shall be determined by dividing—
 
-&emsp;&emsp;&emsp;(i) the excess of the average annual gross cash rental for comparable land used forfarming purposes and located in the locality of such farm over the average annual State and local real estate taxes for such comparable land, by
+&emsp;&emsp;&emsp;(i) the excess of the average annual gross cash rental for comparable land used for farming purposes and located in the locality of such farm over the average annual State and local real estate taxes for such comparable land, by
 
 &emsp;&emsp;&emsp;(ii) the average annual effective interest rate for all new Federal Land Bank loans.
 
@@ -540,7 +540,7 @@ Subsec. (c)(7)(E). Pub. L. 105–34, §504(a), added subpar. (E).
 
 Subsec. (c)(8). Pub. L. 105–34, §508(c), added par. (8).
 
-Subsec. (d)(3). Pub. L. 105–34, §1313(a), amended heading and text of par. (3) generally. Prior to amendment,text read as follows: "The Secretary shall prescribe procedures which provide that in any case in which—
+Subsec. (d)(3). Pub. L. 105–34, §1313(a), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "The Secretary shall prescribe procedures which provide that in any case in which—
 
 &emsp;"(A) the executor makes an election under paragraph (1) within the time prescribed for filing such election, and
 
@@ -630,7 +630,7 @@ Subsec. (h). Pub. L. 95–472, §4(a), added subsec. (h).
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e)of Pub. L. 115–97, set out as a note under section 1 of this title.
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -730,7 +730,7 @@ Pub. L. 94–455, title XX, §2003(e), Oct. 4, 1976, 90 Stat. 1862, provided tha
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Waiver of Statute of Limitation for Taxes on Certain Farm Valuations
 

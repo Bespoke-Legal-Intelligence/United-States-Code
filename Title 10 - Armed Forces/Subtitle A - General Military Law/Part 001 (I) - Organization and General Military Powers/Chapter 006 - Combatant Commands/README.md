@@ -13,8 +13,7 @@
 | [167\.](%C2%A7%2000167%20-%20Unified%20combatant%20command%20for%20special%20operations%20forces.md) | Unified combatant command for special operations forces. |
 | \[167a. | Repealed.\] |
 | [167b.](%C2%A7%2000167b%20-%20Unified%20combatant%20command%20for%20cyber%20operations.md) | Unified combatant command for cyber operations. |
-| \[168. | Repealed.\] |
-| [169\.](%C2%A7%2000169%20-%20Subordinate%20unified%20command%20of%20the%20United%20States%20Strategic%20Command.md) | Subordinate unified command of the United States Strategic Command <sup>1</sup> |
+| \[168, 169. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -23,6 +22,8 @@
 Prior to enactment of this chapter by Pub. L. 99–433, provisions relating to combat commands were contained in section 124 of this title.
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title XVI, §1601(b)(1), title XVII, §1731(a)(9), Dec. 20, 2019, 133 Stat. 1722, 1812, inserted period at end of item 169 "Subordinate unified command of the United States Strategic Command" and then struck it out.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §812(a)(1)(B), title XVI, §1601(a)(2), Aug. 13, 2018, 132 Stat. 1846, 2103, struck out item 167a "Unified combatant command for joint warfighting experimentation: acquisition authority" and added item 169.
 
@@ -39,8 +40,6 @@ Prior to enactment of this chapter by Pub. L. 99–433, provisions relating to c
 <b>1986</b>—Pub. L. 99–500, §101(c) \[title IX, §9115(b)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–124, and Pub. L. 99–591, §101(c) \[title IX, §9115(b)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–124; Pub. L. 99–661, div. A, title XIII, §1311(b)(2), Nov. 14, 1986, 100 Stat. 3985, amended analysis identically adding item 167.
 
 Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1012, added chapter 6 heading and analysis.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---
@@ -59,4 +58,4 @@ Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1012, added chapte
 - [&sect; 00167a - Repealed. Pub. L. 115&#8211;232, div. A, title VIII, &sect;812(a)(1)(A), Aug. 13, 2018, 132 Stat. 1846](%C2%A7%2000167a%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93232%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7812%28a%29%281%29%28A%29%2C%20Aug.%2013%2C%202018%2C%20132%20Stat.%201846.md)
 - [&sect; 00167b - Unified combatant command for cyber operations](%C2%A7%2000167b%20-%20Unified%20combatant%20command%20for%20cyber%20operations.md)
 - [&sect; 00168 - Repealed. Pub. L. 114&#8211;328, div. A, title XII, &sect;1253(a)(1)(A), Dec. 23, 2016, 130 Stat. 2532](%C2%A7%2000168%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20XII%2C%20%C2%A71253%28a%29%281%29%28A%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202532.md)
-- [&sect; 00169 - Subordinate unified command of the United States Strategic Command](%C2%A7%2000169%20-%20Subordinate%20unified%20command%20of%20the%20United%20States%20Strategic%20Command.md)
+- [&sect; 00169 - Repealed. Pub. L. 116&#8211;92, div. A, title XVI, &sect;1601(a), Dec. 20, 2019, 133 Stat. 1722](%C2%A7%2000169%20-%20Repealed.%20Pub.%20L.%20116%E2%80%9392%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71601%28a%29%2C%20Dec.%2020%2C%202019%2C%20133%20Stat.%201722.md)

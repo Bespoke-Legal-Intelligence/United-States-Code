@@ -36,7 +36,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–591 effective with respect to Presidential records created during a term of officeof President beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as an Effective Date note under section 2201 of this title.
+Amendment by Pub. L. 95–591 effective with respect to Presidential records created during a term of office of President beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as an Effective Date note under section 2201 of this title.
 
 #### Presidential Recordings and Materials Preservation Act
 
@@ -102,13 +102,13 @@ Sec. 104. (a) The Archivist shall, within ninety days after the date of enactmen
 
 "(c) The provisions of this title shall not apply, on and after the date upon which regulations proposed by the Administrator take effect under subsection (b), to any tape recordings or other materials given to Richard M. Nixon, or his heirs, pursuant to subsection (a)(7).
 
-"(d) The provisions of this title shall not in any way affect the rights, limitations or exemptions applicable under the Freedom of Information Act, 5 U.S.C. §552 et seq.
+"(d) The provisions of this title shall not in any way affect the rights, limitations or exemptions applicableunder the Freedom of Information Act, 5 U.S.C. §552 et seq.
 
 #### "judicial review
 
 "
 
-Sec. 105. (a) The United States District Court for the District of Columbia shall have exclusive jurisdiction to hear challenges to the legal or constitutional validity of this title or of any regulation issued under theauthority granted by this title, and any action or proceeding involving the question of title, ownership, custody, possession, or control of any tape recording or material referred to in section 101 or involving payment of any just compensation which may be due in connection therewith. Any such challenge shall be treated by the court as a matter requiring immediate consideration and resolution, and such challenge shall have priority on the docket of such court over other cases.
+Sec. 105. (a) The United States District Court for the District of Columbia shall have exclusive jurisdiction to hear challenges to the legal or constitutional validity of this title or of any regulation issued under the authority granted by this title, and any action or proceeding involving the question of title, ownership, custody, possession, or control of any tape recording or material referred to in section 101 or involving payment of any just compensation which may be due in connection therewith. Any such challenge shall be treated by the court as a matter requiring immediate consideration and resolution, and such challenge shall have priority on the docket of such court over other cases.
 
 "(b) If, under the procedures established by subsection (a), a judicial decision is rendered that a particular provision of this title, or a particular regulation issued under the authority granted by this title, is unconstitutional or otherwise invalid, such decision shall not affect in any way the validity or enforcement of any other provision of this title or any regulation issued under the authority granted by this title.
 

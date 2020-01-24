@@ -194,7 +194,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish and maintain a central account from which studentloan payments available under this section shall be paid on behalf of eligible employees.
+&emsp;&emsp;The Secretary shall establish and maintain a central account from which student loan payments available under this section shall be paid on behalf of eligible employees.
 
 #### (B) Office subaccounts
 
@@ -234,7 +234,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding the terms of a service agreement under this section, the head of an employing office may reduce the amount of student loan payments made under the agreement if adequate funds are not available to such office.
+&emsp;&emsp;&emsp;Notwithstanding the terms of a service agreement under this section, the head of an employing office may reduce theamount of student loan payments made under the agreement if adequate funds are not available to such office.
 
 #### (ii) Notice
 

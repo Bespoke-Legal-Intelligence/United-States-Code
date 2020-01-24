@@ -6,7 +6,7 @@ If—
 
 &emsp;(1) a United States person sells or exchanges stock in a foreign corporation, and
 
-&emsp;(2) such person owns, within the meaning of section 958(a), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation at any time during the 5-year period ending on the date of the sale or exchange when such foreign corporation was a controlled foreign corporation (as defined in section 957),
+&emsp;(2) such person owns, within the meaning of section 958(a), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation at any time during the 5-year period ending on the date of the sale or exchange when such foreigncorporation was a controlled foreign corporation (as defined in section 957),
 
 > then the gain recognized on the sale or exchange of such stock shall be included in the gross income of such person as a dividend, to the extent of the earnings and profits of the foreign corporation attributable (under regulations prescribed by the Secretary) to such stock which were accumulated in taxable years of such foreign corporation beginning after December 31, 1962, and during the period or periods the stock sold or exchanged was held by such person while such foreign corporation was a controlled foreign corporation. For purposes of this section, a United States person shall be treated as having sold or exchanged any stock if, under any provision of this subtitle, such person is treated as realizing gain from the sale or exchange of such stock.
 
@@ -72,7 +72,7 @@ For purposes of this section, the following amounts shall be excluded, with resp
 
 #### (5) Foreign trade income
 
-&emsp;Earnings and profits of the foreign corporation attributable to foreign trade income of aFSC (as defined in section 922) other than foreign trade income which—
+&emsp;Earnings and profits of the foreign corporation attributable to foreign trade income of a FSC (as defined in section 922) other than foreign trade income which—
 
 &emsp;&emsp;(A) is section 923(a)(2) non-exempt income (within the meaning of section 927(d)(6)), or
 
@@ -152,7 +152,7 @@ Unless the taxpayer establishes the amount of the earnings and profits of the fo
 
 #### (2) 10-percent corporate shareholder defined
 
-&emsp;For purposes of this subsection, the term "10-percent corporate shareholder" means anydomestic corporation which, as of the day before the exchange referred to in paragraph (1), satisfies the stock ownership requirements of subsection (a)(2) with respect to the foreign corporation.
+&emsp;For purposes of this subsection, the term "10-percent corporate shareholder" means any domestic corporation which, as of the day before the exchange referred to in paragraph (1), satisfies the stock ownership requirements of subsection (a)(2) with respect to the foreign corporation.
 
 #### (j) Coordination with dividends received deduction
 
@@ -266,7 +266,7 @@ Pub. L. 115–97, title I, §14102(a)(2), Dec. 22, 2017, 131 Stat. 2192, provide
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -282,7 +282,7 @@ Amendment by section 631(d)(2) of Pub. L. 99–514 applicable to any distributio
 
 Pub. L. 99–514, title XVIII, §1875(g)(2), Oct. 22, 1986, 100 Stat. 2897, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to exchanges after March 1, 1986."
 
-Amendment by sections 1810(i)(1) and 1876(a)(2) of Pub. L. 99–514 effective, except as otherwise provided,as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by sections 1810(i)(1) and 1876(a)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

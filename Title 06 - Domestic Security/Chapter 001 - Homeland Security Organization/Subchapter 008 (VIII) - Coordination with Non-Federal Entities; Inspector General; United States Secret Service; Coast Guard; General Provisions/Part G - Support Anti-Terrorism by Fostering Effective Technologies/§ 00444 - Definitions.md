@@ -22,11 +22,11 @@ Requirements.—An act meets the requirements of this subparagraph if the act—
 
 #### (3) Insurance carrier
 
-&emsp;The term "insurance carrier" means any corporation, association, society, order, firm, company, mutual, partnership, individual aggregation of individuals, or any other legal entity that provides commercial property and casualty insurance. Such term includes any affiliates of a commercial insurance carrier.
+&emsp;The term "insurance carrier" means any corporation, association, society, order, firm, company, mutual,<sup>1</sup> partnership, individual aggregation of individuals, or any other legal entity that provides commercial property and casualty insurance. Such term includes any affiliates of a commercial insurance carrier.
 
 #### (4) Liability insurance
 
-#### (A) <sup>1</sup> In general
+#### (A) <sup>2</sup> In general
 
 &emsp;&emsp;The term "liability insurance" means insurance for legal liabilities incurred by the insured resulting from—
 
@@ -52,5 +52,7 @@ Requirements.—An act meets the requirements of this subparagraph if the act—
 
 Public Law 85–804, referred to in par. (6), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, as amended, which is classified generally to chapter 29 (§1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

@@ -10,7 +10,7 @@
 
 (3) Credit toward service of sentence may be withheld as provided in section 3624(b) of this title.
 
-(4) Any sentence for an offense against the United States, imposed while the transferred offender is serving the sentence of imprisonment imposed in a foreign country, shall be aggregated with the foreign sentence, in the same manner as if the foreign sentence was one imposed by a United States district court for an offense against the United States.
+(4) Any sentence for an offense against the United States, imposed while the transferred offender is serving the sentence of imprisonment imposed in a foreign country, shall be aggregated with the foreign sentence, in the samemanner as if the foreign sentence was one imposed by a United States district court for an offense against the United States.
 
 (Added Pub. L. 95–144, §1, Oct. 28, 1977, 91 Stat. 1215; amended Pub. L. 98–473, title II, §223(m)(2), Oct. 12, 1984, 98 Stat. 2029.)
 

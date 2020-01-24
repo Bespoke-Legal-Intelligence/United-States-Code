@@ -4,7 +4,7 @@
 
 Offense.—Any person who operates an unmanned aircraft and:
 
-&emsp;(1) Knowingly interferes with, or disrupts the operation of, an aircraft carrying 1 or more occupants operating in the special aircraft jurisdiction of the United States, in amanner that poses an imminent safety hazard to such occupants, shall be punished as provided in subsection (c).
+&emsp;(1) Knowingly interferes with, or disrupts the operation of, an aircraft carrying 1 or more occupants operating in the special aircraft jurisdiction of the United States, in a manner that poses an imminent safety hazard to such occupants, shall be punished as provided in subsection (c).
 
 &emsp;(2) Recklessly interferes with, or disrupts the operation of, an aircraft carrying 1 or more occupants operating in the special aircraft jurisdiction of the United States, in a manner that poses an imminent safety hazard to such occupants, shall be punished as provided in subsection (c).
 

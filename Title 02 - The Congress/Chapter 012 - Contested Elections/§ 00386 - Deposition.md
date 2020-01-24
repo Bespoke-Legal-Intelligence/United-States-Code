@@ -16,7 +16,7 @@ The order in which the parties may take testimony shall be as follows:
 
 (2) Contestee may take testimony within thirty days after contestant's time for taking testimony has expired.
 
-(3) If contestee has taken any testimony or has filed testimonial affidavits or stipulations under section 387(c) of this title, contestant maytake rebuttal testimony within ten days after contestee's time for taking testimony has expired.
+(3) If contestee has taken any testimony or has filed testimonial affidavits or stipulations under section 387(c) of this title, contestant may take rebuttal testimony within ten days after contestee's time for taking testimony has expired.
 
 #### (d) Officer before whom testimony may be taken
 

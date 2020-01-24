@@ -82,7 +82,7 @@
 
 &emsp;(B) except as provided in subparagraphs (E) and (F), a fine under this title, imprisonment for not more than 10 years, or both, in the case of—
 
-&emsp;&emsp;(i) an offense under subsection (a)(5)(A), which does not occur after a conviction for another offense under this section, if the offense caused (or, in the case of an attempted offense, would, if completed, have caused) aharm provided in subclauses (I) through (VI) of subparagraph (A)(i); or
+&emsp;&emsp;(i) an offense under subsection (a)(5)(A), which does not occur after a conviction for another offense under this section, if the offense caused (or, in the case of an attempted offense, would, if completed, have caused) a harm provided in subclauses (I) through (VI) of subparagraph (A)(i); or
 
 &emsp;&emsp;(ii) an attempt to commit an offense punishable under this subparagraph;
 
@@ -94,7 +94,7 @@
 
 &emsp;(D) a fine under this title, imprisonment for not more than 10 years, or both, in the case of—
 
-&emsp;&emsp;(i) an offense or an attempt to commit an offense under subsection (a)(5)(C) that occurs after a conviction for another offense under this section; or
+&emsp;&emsp;(i) an offense or an attempt to commit an offense under subsection (a)(5)(C) that occursafter a conviction for another offense under this section; or
 
 &emsp;&emsp;(ii) an attempt to commit an offense punishable under this subparagraph;
 
@@ -156,13 +156,13 @@
 
 &emsp;(9) the term "government entity" includes the Government of the United States, any State or political subdivision of the United States, any foreign country, and any state, province, municipality, or other political subdivision of a foreign country;
 
-&emsp;(10) the term "conviction" shall include a conviction under the law of any State for acrime punishable by imprisonment for more than 1 year, an element of which is unauthorized access, or exceeding authorized access, to a computer;
+&emsp;(10) the term "conviction" shall include a conviction under the law of any State for a crime punishable by imprisonment for more than 1 year, an element of which is unauthorized access, or exceeding authorized access, to a computer;
 
 &emsp;(11) the term "loss" means any reasonable cost to any victim, including the cost of responding to an offense, conducting a damage assessment, and restoring the data, program, system, or information to its condition prior to the offense, and any revenue lost, cost incurred, or other consequential damages incurred because of interruption of service; and
 
 &emsp;(12) the term "person" means any individual, firm, corporation, educational institution, financial institution, governmental entity, or legal or other entity.
 
-(f) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States.
+(f) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency ofthe United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States.
 
 (g) Any person who suffers damage or loss by reason of a violation of this section may maintain a civil action against the violator to obtain compensatory damages and injunctive relief or other equitable relief. A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in subclauses <sup>5</sup> (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i). Damages for a violation involving only conduct described in subsection (c)(4)(A)(i)(I) are limited to economic damages. No action may be brought under this subsection unless such action is begun within 2 years of the date of the act complained of or the date of the discovery of the damage. No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware.
 
@@ -292,7 +292,7 @@ Subsec. (e)(10) to (12). Pub. L. 107–56, §814(d)(4), (5), added pars. (10) to
 
 Subsec. (g). Pub. L. 107–56, §814(e), substituted "A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B). Damages for a violation involving only conduct described in subsection (a)(5)(B)(i) are limited to economic damages." for "Damages for violations involving damage as defined in subsection (e)(8)(A) are limited to economic damages." and inserted at end "No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware."
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–294, §201(1)(A), substituted "having knowingly accessed" for "knowingly accesses", "exceeding authorized access" for "exceeds authorized access", "such conduct having obtained information" for "such conduct obtains information", and "could be used to the injury of the United States" for "is to be used to the injury of the United States",struck out "the intent or" before "reason to believe", and inserted before semicolon at end "willfully communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it".
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–294, §201(1)(A), substituted "having knowingly accessed" for "knowingly accesses", "exceeding authorized access" for "exceeds authorized access", "such conduct having obtained information" for "such conduct obtains information", and "could be used to the injury of the United States" for "is to be used to the injury of the United States", struck out "the intent or" before "reason to believe", and inserted before semicolon at end "willfully communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it".
 
 Subsec. (a)(2). Pub. L. 104–294, §201(1)(B), inserted dash after "thereby obtains", redesignated remainder of par. (2) as subpar. (A), and added subpars. (B) and (C).
 
@@ -300,7 +300,7 @@ Subsec. (a)(3). Pub. L. 104–294, §201(1)(C), inserted "nonpublic" before "com
 
 Subsec. (a)(4). Pub. L. 104–294, §201(1)(D), substituted "protected computer" for "Federal interest computer" and inserted "and the value of such use is not more than $5,000 in any 1-year period" before semicolon at end.
 
-Subsec. (a)(5). Pub. L. 104–294, §201(1)(E), inserted par. (5) and struck out former par. (5) which related to fraud in connection with computers in causing transmission of program, information, code, or command to a computer or computer system in interstate or foreign commerce which damages such system, program, information, or code, or causes a withholding or denial of use of hardware or software, or transmits viruses which causes damage in excess of $1,000 or more during any one-year period, or modifies or impairs medical examination, diagnosis, treatment or care of individuals.
+Subsec. (a)(5). Pub. L. 104–294, §201(1)(E), inserted par. (5) and struck out former par. (5) which related to fraudin connection with computers in causing transmission of program, information, code, or command to a computer or computer system in interstate or foreign commerce which damages such system, program, information, or code, or causes a withholding or denial of use of hardware or software, or transmits viruses which causes damage in excess of $1,000 or more during any one-year period, or modifies or impairs medical examination, diagnosis, treatment or care of individuals.
 
 Subsec. (a)(5)(B)(ii)(II)(bb). Pub. L. 104–294, §604(b)(36)(A), which directed insertion of "or" at end of subsec., could not be executed because no subsec. (a)(5)(B)(ii)(II)(bb) existed subsequent to amendment by Pub. L. 104–294, §201(1)(E). See above.
 

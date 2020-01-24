@@ -72,7 +72,7 @@ Criminal Forfeiture.—
 
 &emsp;(1)
 
-In general.—The court, in imposing sentence on any person convicted of an offense under this section, shall order, in addition to any other sentence and irrespective of any provision of State law, that the person forfeit to the United States—
+In general.—The court, in imposing sentence on any person convicted of an offenseunder this section, shall order, in addition to any other sentence and irrespective of any provision of State law, that the person forfeit to the United States—
 
 &emsp;&emsp;(A) any property constituting, or derived from, any proceeds that the person obtained, directly or indirectly, as a result of the offense; and
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall ensure that appropriate procedures, including to the extent practicable onsite inspections, or use of county or State yield averages, are used in calculating future yields for an applicant for a loan, when an accurate projection cannot be made because the applicant's past production history has been affected by natural disasters declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+The Secretary shall ensure that appropriate procedures, including to the extent practicableonsite inspections, or use of county or State yield averages, are used in calculating future yields for an applicant for a loan, when an accurate projection cannot be made because the applicant's past production history has been affected by natural disasters declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
 #### (b) Calculation of yields
 
@@ -24,7 +24,7 @@ The Secretary shall ensure that appropriate procedures, including to the extent 
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (a) and (b)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
-This chapter, referred to in subsec. (b)(1), (3), was in the original "this title", meaning title III of Pub. L.87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
+This chapter, referred to in subsec. (b)(1), (3), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Amendments
 

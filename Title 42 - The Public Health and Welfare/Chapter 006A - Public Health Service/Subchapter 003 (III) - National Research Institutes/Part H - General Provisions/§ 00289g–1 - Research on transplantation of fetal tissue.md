@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;In research carried out under subsection (a), human fetal tissue may be used only if thewoman providing the tissue makes a statement, made in writing and signed by the woman, declaring that—
+&emsp;In research carried out under subsection (a), human fetal tissue may be used only if the woman providing the tissue makes a statement, made in writing and signed by the woman, declaring that—
 
 &emsp;&emsp;(A) the woman donates the fetal tissue for use in research described in subsection (a);
 
@@ -98,7 +98,7 @@ For purposes of this section, the term "human fetal tissue" means tissue or cell
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
@@ -116,7 +116,7 @@ Prohibition Against Withholding of Funds in Cases of Technical and Scientific Me
 
 &emsp;"(1)
 
-In general.—Subject to subsection (b)(2) of section 492A of the Public Health Service Act \[42 U.S.C. 289a–1(b)(2)\] (as added by section 101 of this Act), in the case of any proposal for research on the transplantation of human fetal tissue for therapeutic purposes, the Secretary of Health and Human Services may not withhold funds for the research if—
+In general.—Subject to subsection (b)(2) of section 492A of the Public Health Service Act \[42 U.S.C. 289a–1(b)(2)\] (as added by section 101 of this Act), in the case of any proposal for research on thetransplantation of human fetal tissue for therapeutic purposes, the Secretary of Health and Human Services may not withhold funds for the research if—
 
 &emsp;&emsp;"(A) the research has been approved for purposes of subsection (a) of such section 492A;
 

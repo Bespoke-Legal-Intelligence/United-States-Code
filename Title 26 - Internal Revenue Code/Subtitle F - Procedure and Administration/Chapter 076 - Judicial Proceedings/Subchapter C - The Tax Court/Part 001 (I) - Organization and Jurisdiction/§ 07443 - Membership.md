@@ -44,7 +44,7 @@ Subsec. (d). Pub. L. 96–417 substituted "Court of International Trade" for "Cu
 
 Subsec. (c). Pub. L. 91–172, §953, substituted provisions fixing salary of Tax Court judges at the same rate and same installments as District Court judges, for provisions that each judge of the Tax Court receive a salary of $30,000 per annum, to be paid in monthly installments.
 
-Subsec. (e). Pub. L. 91–172, §952(b), substituted provisions that a term in office of any Tax Court judgewould expire 15 years after he takes office, for provisions that a term in office of any Tax Court judge would expire 12 years after the expiration of the term for which his predecessor was appointed, and any judge appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed would be appointed only for the unexpired term of his predecessor.
+Subsec. (e). Pub. L. 91–172, §952(b), substituted provisions that a term in office of any Tax Court judge would expire 15 years after he takes office, for provisions that a term in office of any Tax Court judge would expire 12 years after the expiration of the term for which his predecessor was appointed, and any judge appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed would be appointed only for the unexpired term of his predecessor.
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–426 increased salary of judges from $22,500 to $30,000.
 
@@ -82,7 +82,7 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 <b>1987</b>—Salaries of judges increased to $89,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
-<b>1977</b>—Salaries of judges increased to $54,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
+<b>1977</b>—Salaries of judges increased to $54,500 per annum, on recommendation of the President of theUnited States, see note set out under section 358 of Title 2.
 
 <b>1969</b>—Salaries of judges increased to $40,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
 

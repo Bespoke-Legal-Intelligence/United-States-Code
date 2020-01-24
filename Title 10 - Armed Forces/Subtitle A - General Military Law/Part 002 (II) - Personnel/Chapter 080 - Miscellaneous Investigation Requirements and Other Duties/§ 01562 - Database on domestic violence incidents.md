@@ -50,7 +50,7 @@ Review.—During the two-year period beginning on the date of the enactment of t
 
 &emsp;"(1) the efforts of the Department to ensure confidentiality for victims and accountability and education of commanding officers and chaplains; and
 
-&emsp;"(2) the resources that the Department of Defense has provided toward such implementation, includingpersonnel, facilities, and other administrative support, in order to ensure that necessary resources are provided to the organization within the Office of the Secretary of Defense with direct responsibility for oversight of implementation by the military departments of recommendations of the Task Force in order for that organization to carry out its duties and responsibilities.
+&emsp;"(2) the resources that the Department of Defense has provided toward such implementation, including personnel, facilities, and other administrative support, in order to ensure that necessary resources are provided to the organization within the Office of the Secretary of Defense with direct responsibility for oversight of implementation by the military departments of recommendations of the Task Force in order for that organization to carry out its duties and responsibilities.
 
 "(b)
 
@@ -74,7 +74,7 @@ Program.—The Secretary of Defense shall establish a program to provide funds a
 
 &emsp;"(1) To improve coordination between military and civilian law enforcement authorities in policies, training, and responses to, and tracking of, cases involving military domestic violence.
 
-&emsp;"(2) To develop, implement, and coordinate with appropriate civilian authorities tracking systems (A) for protective orders issued to or on behalf of members of the Armed Forces by civilian courts, and (B) for orders issued by military commanders to members of the Armed Forces ordering them not to have contact with a dependent.
+&emsp;"(2) To develop, implement, and coordinate with appropriate civilian authorities tracking systems (A)for protective orders issued to or on behalf of members of the Armed Forces by civilian courts, and (B) for orders issued by military commanders to members of the Armed Forces ordering them not to have contact with a dependent.
 
 &emsp;"(3) To strengthen the capacity of attorneys and other legal advocates to respond appropriately to victims of military domestic violence.
 

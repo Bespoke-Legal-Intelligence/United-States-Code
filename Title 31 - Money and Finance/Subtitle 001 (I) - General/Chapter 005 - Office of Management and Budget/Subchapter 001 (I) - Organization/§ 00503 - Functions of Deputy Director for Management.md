@@ -92,7 +92,7 @@ Requirement.—Subject to the direction and approval of the Director, the Deputy
 
 &emsp;&emsp;(F) conduct portfolio reviews to address programs identified as high risk by the Government Accountability Office;
 
-&emsp;&emsp;(G) not less than annually, conduct portfolio reviews of agency programs in coordination with Project Management Improvement Officers designated under section1126(a)(1) to assess the quality and effectiveness of program management; and
+&emsp;&emsp;(G) not less than annually, conduct portfolio reviews of agency programs in coordination with Project Management Improvement Officers designated under section 1126(a)(1) to assess the quality and effectiveness of program management; and
 
 &emsp;&emsp;(H) establish a 5-year strategic plan for program and project management.
 

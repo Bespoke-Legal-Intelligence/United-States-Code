@@ -24,13 +24,13 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (2) If the Secretary determines, on his own behalf or in response to a petition by any interested person, that a test procedure should be prescribed or amended, the Secretary shall promptly publish in the Federal Register proposed test procedures and afford interested persons an opportunity to present oral and written data, views, and arguments with respect to such procedures. The comment period shall not be less than 60 days and may be extended for good cause shown to not more than 270 days. In prescribing or amending a test procedure, the Secretary shall take into account such information as the Secretary determines relevant to such procedure, including technological developments relating to energy use or energy efficiency of the type (or class) of covered products involved.
 
-(3) Any test procedures prescribed or amended under this section shall be reasonably designed to produce test results which measure energy efficiency, energy use, water use (in the case ofshowerheads, faucets, water closets and urinals), or estimated annual operating cost of a covered product during a representative average use cycle or period of use, as determined by the Secretary, and shall not be unduly burdensome to conduct.
+(3) Any test procedures prescribed or amended under this section shall be reasonably designed to produce test results which measure energy efficiency, energy use, water use (in the case of showerheads, faucets, water closets and urinals), or estimated annual operating cost of a covered product during a representative average use cycle or period of use, as determined by the Secretary, and shall not be unduly burdensome to conduct.
 
 (4) If the test procedure is a procedure for determining estimated annual operating costs, such procedure shall provide that such costs shall be calculated from measurements of energy use or, in the case of showerheads, faucets, water closets, or urinals, water use in a representative average use cycle or period of use, as determined by the Secretary, and from representative average unit costs of the energy needed to operate such product during such cycle, or in the case of showerheads, faucets, water closets, or urinals, representative average unit costs of water and wastewater treatment service resulting from the operation of such products during such cycle. The Secretary shall provide information to manufacturers with respect to representative average unit costs of energy, water, and wastewater treatment.
 
 (5) With respect to fluorescent lamp ballasts manufactured on or after January 1, 1990, and to which standards are applicable under section 6295 of this title, the Secretary shall prescribe test procedures that are in accord with ANSI standard C82.2–1984 or other test procedures determined appropriate by the Secretary.
 
-(6) With respect to fluorescent lamps and incandescent reflector lamps to which standards are applicable under subsection (i) of section 6295 of this title, the Secretary shall prescribe test procedures, to be carried out by accredited test laboratories, that take into consideration the applicable IES or ANSI standard.
+(6) With respect to fluorescent lamps and incandescent reflector lamps to which standardsare applicable under subsection (i) of section 6295 of this title, the Secretary shall prescribe test procedures, to be carried out by accredited test laboratories, that take into consideration the applicable IES or ANSI standard.
 
 (7)(A) Test procedures for showerheads and faucets to which standards are applicable under subsection (j) of section 6295 of this title shall be the test procedures specified in ASME A112.18.1M–1989 for such products.
 
@@ -88,7 +88,7 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 &emsp;(B) in any broadcast advertisement,
 
-> with respect to the energy use or efficiency or, in the case of showerheads, faucets, water closets, and urinals, water use of a covered product to which a test procedure is applicable under subsection (a) or the cost of energy consumed by such product, unless such product has been tested in accordance with such test procedure and such representation fairly discloses the results of such testing.
+> with respect to the energy use or efficiency or, in the case of showerheads, faucets, water closets, and urinals, water use of a covered product to which a test procedure is applicable undersubsection (a) or the cost of energy consumed by such product, unless such product has been tested in accordance with such test procedure and such representation fairly discloses the results of such testing.
 
 (2) Effective 180 days after an amended or new test procedure applicable to a covered product is prescribed or established under subsection (b), no manufacturer, distributor, retailer, or private labeler may make any representation—
 
@@ -122,7 +122,7 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 (2) To the maximum extent practicable, the testing requirements prescribed under paragraph (1) shall be based on existing test procedures used in industry.
 
-(Pub. L. 94–163, title III, §323, Dec. 22, 1975, 89 Stat. 919; Pub. L. 95–619, title IV, §§421, 425(a), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3257, 3265, 3288; Pub. L. 100–12, §4, Mar. 17, 1987, 101 Stat. 105; Pub. L. 100–357, §2(c), June 28, 1988, 102 Stat. 672; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §123(d), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 109–58, title I, §135(b), Aug. 8, 2005, 119 Stat. 627;Pub. L. 110–140, title III, §§301(b), 302(a), 324(c), Dec. 19, 2007, 121 Stat. 1550, 1551, 1593.)
+(Pub. L. 94–163, title III, §323, Dec. 22, 1975, 89 Stat. 919; Pub. L. 95–619, title IV, §§421, 425(a), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3257, 3265, 3288; Pub. L. 100–12, §4, Mar. 17, 1987, 101 Stat. 105; Pub. L. 100–357, §2(c), June 28, 1988, 102 Stat. 672; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §123(d), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 109–58, title I, §135(b), Aug. 8, 2005, 119 Stat. 627; Pub. L. 110–140, title III, §§301(b), 302(a), 324(c), Dec. 19, 2007, 121 Stat. 1550, 1551, 1593.)
 
 #### Amendments
 

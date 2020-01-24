@@ -42,7 +42,7 @@ For purposes of sections 401, 408(k), 408(p), 410, 411, 415, and 416, all employ
 
 #### (d) Governmental plan
 
-For purposes of this part, the term "governmental plan" means a plan established and maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. The term "governmental plan" also includes any plan to which the Railroad Retirement Act of 1935 or 1937 applies and which is financed by contributions required under that Act and any plan of an international organization which is exempt from taxation by reason of the International Organizations Immunities Act (59 Stat. 669). The term "governmental plan" includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40)), a subdivision of an Indian tribal government (determined in accordance with section 7871(d)), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function).
+For purposes of this part, the term "governmental plan" means a plan established andmaintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. The term "governmental plan" also includes any plan to which the Railroad Retirement Act of 1935 or 1937 applies and which is financed by contributions required under that Act and any plan of an international organization which is exempt from taxation by reason of the International Organizations Immunities Act (59 Stat. 669). The term "governmental plan" includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40)), a subdivision of an Indian tribal government (determined in accordance with section 7871(d)), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function).
 
 #### (e) Church plan
 
@@ -174,7 +174,7 @@ For purposes of this part, the term "governmental plan" means a plan established
 
 #### (4) Transitional rule
 
-&emsp;For any plan year which began before the date of the enactment of the Multiemployer Pension Plan Amendments Act of 1980, the term "multiemployer plan" means a plan described in this subsection as in effect immediately before that date.
+&emsp;For any plan year which began before the date of the enactment of the MultiemployerPension Plan Amendments Act of 1980, the term "multiemployer plan" means a plan described in this subsection as in effect immediately before that date.
 
 #### (5) Special election
 
@@ -232,11 +232,11 @@ For purposes of this part, the term "plan administrator" means—
 
 &emsp;&emsp;(A) to an employees' trust described in section 401(a), or
 
-&emsp;&emsp;(B) under a plan described in section 403(a), shall not be treated as having been made by the employer if it is designated as an employee contribution.
+&emsp;&emsp;(B) under a plan described in section 403(a), shall not be treated as having been made bythe employer if it is designated as an employee contribution.
 
 #### (2) Designation by units of government
 
-&emsp;For purposes of paragraph (1), in the case of any plan established by the government of anyState or political subdivision thereof, or by any agency or instrumentality of any of the foregoing, or a governmental plan described in the last sentence of section 414(d) (relating to plans of Indian tribal governments), where the contributions of employing units are designated as employee contributions but where any employing unit picks up the contributions, the contributions so picked up shall be treated as employer contributions.
+&emsp;For purposes of paragraph (1), in the case of any plan established by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing, or a governmental plan described in the last sentence of section 414(d) (relating to plans of Indian tribal governments), where the contributions of employing units are designated as employee contributions but where any employing unit picks up the contributions, the contributions so picked up shall be treated as employer contributions.
 
 #### (i) Defined contribution plan
 
@@ -744,7 +744,7 @@ For purposes of this subsection and section 401(a)(13)—
 
 &emsp;&emsp;&emsp;(ii) not more than twice,
 
-> &emsp;&emsp;the percentage which highly compensated employees are of all employees of the employer. An employer shall be treated as meeting the requirements of clause (i) if at least 10 percent of all highly compensatedemployees of the employer perform services solely for such line of business.
+> &emsp;&emsp;the percentage which highly compensated employees are of all employees of the employer. An employer shall be treated as meeting the requirements of clause (i) if at least 10 percent of all highly compensated employees of the employer perform services solely for such line of business.
 
 #### (B) Determination may be based on preceding year
 
@@ -818,7 +818,7 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;(B) such contribution shall be subject to the limitations referred to in subparagraph (A) with respect to the year to which the contribution relates (in accordance with rules prescribed by the Secretary), and
 
-&emsp;&emsp;(C) such plan shall not be treated as failing to meet the requirements of section 401(a)(4), 401(a)(26), 401(k)(3), 401(k)(11), 401(k)(12), 401(m), 403(b)(12), 408(k)(3), 408(k)(6), 408(p), 410(b), or 416 by reason of the making of (or the right to make) such contribution.
+&emsp;&emsp;(C) such plan shall not be treated as failing to meet the requirements of section 401(a)(4), 401(a)(26), 401(k)(3), 401(k)(11), 401(k)(12), 401(m), 403(b)(12), 408(k)(3), 408(k)(6), 408(p),410(b), or 416 by reason of the making of (or the right to make) such contribution.
 
 > &emsp;For purposes of the preceding sentence, any elective deferral or employee contribution made under paragraph (2) shall be treated as required by reason of the employee's rights under such chapter 43.
 
@@ -880,7 +880,7 @@ For purposes of any applicable provision—
 
 &emsp;For purposes of this subchapter and section 457, an employer sponsoring a retirement plan shall be treated as meeting the requirements of chapter 43 of title 38, United States Code, only if each of the following requirements is met:
 
-&emsp;&emsp;(A) An individual reemployed under such chapter is treated with respect to such plan as not having incurred a break in service with the employer maintaining the plan by reason of such individual's period of qualified military service.
+&emsp;&emsp;(A) An individual reemployed under such chapter is treated with respect to such plan as not having incurred a break in servicewith the employer maintaining the plan by reason of such individual's period of qualified military service.
 
 &emsp;&emsp;(B) Each period of qualified military service served by an individual is, upon reemployment under such chapter, deemed with respect to such plan to constitute service with the employer maintaining the plan for the purpose of determining the nonforfeitability of the individual's accrued benefits under such plan and for the purpose of determining the accrual of benefits under such plan.
 
@@ -928,7 +928,7 @@ For purposes of any applicable provision—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding subparagraph (A)(i), for purposes of section 401(k)(2)(B)(i)(I), 403(b)(7)(A)(ii), 403(b)(11)(A), or 457(d)(1)(A)(ii), an individual shall be treated as having been severed from employment during any period the individual is performing service in the uniformed services described in section 3401(h)(2)(A).
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (A)(i), for purposes of section 401(k)(2)(B)(i)(I), 403(b)(7)(A)(ii), 403(b)(11)(A), or 457(d)(1)(A)(ii),<sup>2</sup> an individual shall be treated as having been severed from employment during any period the individual is performing service in the uniformed services described in section 3401(h)(2)(A).
 
 #### (ii) Limitation
 
@@ -1112,7 +1112,7 @@ For purposes of any applicable provision—
 
 #### (6) Special rule
 
-&emsp;A withdrawal described in paragraph (1) (subject to the limitation of paragraph (2)(C))shall not be taken into account for purposes of section 401(k)(3) or for purposes of applying the limitation under section 402(g)(1).
+&emsp;A withdrawal described in paragraph (1) (subject to the limitation of paragraph (2)(C)) shall not be taken into account for purposes of section 401(k)(3) or for purposes of applying the limitation under section 402(g)(1).
 
 #### (x) Special rules for eligible combined defined benefit plans and qualified cash or deferred arrangements
 
@@ -1189,7 +1189,7 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;The vesting requirements of this subparagraph are met if—
 
-&emsp;&emsp;&emsp;(i) in the case of a defined benefit plan forming part of an eligible combined plan an employee who has completed at least 3 years of service has a nonforfeitable rightto 100 percent of the employee's accrued benefit under the plan derived from employer contributions, and
+&emsp;&emsp;&emsp;(i) in the case of a defined benefit plan forming part of an eligible combined plan an employee who has completed at least 3 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit under the plan derived from employer contributions, and
 
 &emsp;&emsp;&emsp;(ii) in the case of an applicable defined contribution plan forming part of eligible combined plan—
 
@@ -1263,7 +1263,7 @@ For purposes of any applicable provision—
 
 #### (iii) Annual notice of rights and obligations
 
-&emsp;&emsp;&emsp;The requirements of this clause are met if each employee eligible to participate in the arrangement is, within a reasonable period before any year, given notice of the employee's rights and obligations under the arrangement.
+&emsp;&emsp;&emsp;The requirements of this clause are met if each employee eligible to participate in the arrangement is, within a reasonableperiod before any year, given notice of the employee's rights and obligations under the arrangement.
 
 > &emsp;&emsp;The requirements of clauses (i) and (ii) of section 401(k)(12)(D) shall be met with respect to the notices described in clauses (ii) and (iii) of this subparagraph.
 
@@ -1387,7 +1387,9 @@ The date of the enactment of the Multiemployer Pension Plan Amendments Act of 19
 
 Effective date of the Multiemployer Pension Plan Amendments Act of 1980, referred to in subsec. (f)(5), probably means the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980, which was approved Sept. 26, 1980.
 
-The Pension Protection Act of 2006, referred to in subsecs. (f)(6)(A) and (y)(1)(A), (3)(B), is Pub. L. 109–280, Aug. 17, 2006, 120 Stat. 780. Section 104 of the Act is set out as a note under section 401 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 1001 of Title 29, Labor, and Tables.
+The Pension Protection Act of 2006, referred to in subsecs. (f)(6)(A) and (y)(1)(A), (3)(B), is Pub. L. 109–280, Aug. 17, 2006, 120 Stat. 780. Section 104 of the Act is set out as a note under section 401 of this title. For complete classification of this Act to the Code, see ShortTitle of 2006 Amendment note set out under section 1001 of Title 29, Labor, and Tables.
+
+Section 403(b)(7)(A)(ii), referred to in subsec. (u)(12)(B)(i), probably means section 403(b)(7)(A)(ii) of this title prior to amendment by Pub. L. 116–94, div. O, title I, §109(c)(2), Dec. 20, 2019, 133 Stat. 3151.
 
 The Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, referred to in subsec. (y)(1)(A)(ii), (3)(B), is Pub. L. 111–192, June 25, 2010, 124 Stat. 1280. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1001 of Title 29, Labor, and Tables.
 
@@ -1703,7 +1705,7 @@ Subsec. (n)(2)(B). Pub. L. 99–514, §1151(i)(2), inserted "(6 months in the ca
 
 Subsec. (n)(3). Pub. L. 99–514, §1151(i)(3), substituted "Requirements" for "Pension requirements" in heading, substituted "requirements" for "pension requirements" in text, and added subpar. (C).
 
-Subsec. (n)(4). Pub. L. 99–514, §1146(a)(2), substituted "Time when first considered as employee" for "Time when leased employee is first considered as employee" in heading and amended text generally. Prior to amendment, text read as follows: "In the case of any leased employee, paragraph (1) shall apply only for purposes of determining whether the pension requirements listed in paragraph (3) are met for periods after the close of the 1-year period referred to in paragraph (2);except that years of service for the recipient shall be determined by taking into account the entire period for which the leased employee performed services for the recipient (or related persons)."
+Subsec. (n)(4). Pub. L. 99–514, §1146(a)(2), substituted "Time when first considered as employee" for "Time when leased employee is first considered as employee" in heading and amended text generally. Prior to amendment, text read as follows: "In the case of any leased employee, paragraph (1) shall apply only for purposes of determining whether the pension requirements listed in paragraph (3) are met for periods after the close of the 1-year period referred to in paragraph (2); except that years of service for the recipient shall be determined by taking into account the entire period for which the leased employee performed services for the recipient (or related persons)."
 
 Subsec. (n)(5). Pub. L. 99–514, §1146(a)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "This subsection shall not apply to any leased employee if such employee is covered by a plan which is maintained by the leasing organization if, with respect to such employee, such plan—
 
@@ -1797,7 +1799,7 @@ Subsec. (l). Pub. L. 94–455, §1901(a)(64)(B), substituted reference to Sept. 
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–113, div. Q, title III, §336(a)(3), Dec. 18, 2015, 129 Stat. 3110, provided that: "The amendmentsmade by paragraph (1) \[amending this section\] shall apply to years beginning before, on, or after the date of the enactment of this Act \[Dec. 18, 2015\]."
+Pub. L. 114–113, div. Q, title III, §336(a)(3), Dec. 18, 2015, 129 Stat. 3110, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to years beginning before, on, or after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
 Pub. L. 114–113, div. Q, title III, §336(d)(2), Dec. 18, 2015, 129 Stat. 3113, provided that: "The amendment made by this subsection \[amending this section\] shall apply to transfers or mergers occurring after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
@@ -1873,7 +1875,7 @@ Family aggregation.—The amendments made by subsection (b) \[amending this sect
 
 Pub. L. 104–188, title I, §1434(c), Aug. 20, 1996, 110 Stat. 1807, provided that: "The amendments made by this section \[amending this section and section 415 of this title\] shall apply to years beginning after December 31, 1997."
 
-Pub. L. 104–188, title I, §1454(b), Aug. 20, 1996, 110 Stat. 1817, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to years beginning after December 31, 1996, but shall not apply to any relationship determined under an Internal Revenue Service ruling issued before the date of the enactment of this Act \[Aug. 20, 1996\] pursuant to section 414(n)(2)(C) of the Internal Revenue Code of 1986 (as in effect on the day before such date) not to involve a leased employee."
+Pub. L. 104–188, title I, §1454(b), Aug. 20, 1996, 110 Stat. 1817, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to years beginning after December 31, 1996, but shall not apply to any relationship determined under an Internal Revenue Service ruling issued before the date of the enactment of this Act \[Aug. 20, 1996\] pursuant to section 414(n)(2)(C) of the Internal Revenue Code of 1986 (as ineffect on the day before such date) not to involve a leased employee."
 
 Amendment by section 1461(a) of Pub. L. 104–188 applicable to years beginning after Dec. 31, 1996, see section 1461(c) of Pub. L. 104–188, set out as a note under section 404 of this title.
 
@@ -1959,7 +1961,7 @@ Amendment by section 1151(e)(1), (i) of Pub. L. 99–514 applicable, with certai
 
 Amendment by section 1301(j)(4) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
-Amendment by section 1852(f) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1852(f) of Pub. L. 99–514 effective, except as otherwise provided, as if included in theprovisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 Amendment by section 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
@@ -2026,6 +2028,46 @@ Pub. L. 109–280, title X, §1001, Aug. 17, 2006, 120 Stat. 1052, provided that
 &emsp;"(2) any order described in paragraph (1) shall be subject to the same requirements and protections which apply to qualified domestic relations orders, including the provisions of section 206(d)(3)(H) of such Act and section 414(p)(7) of such Code."
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1114, 1115, and 1117 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
+
+#### Provisions Relating to Plan Amendments Pursuant to Pub. L. 116–94
+
+Pub. L. 116–94, div. O, title VI, §601, Dec. 20, 2019, 133 Stat. 3181, provided that:
+
+"(a)
+
+In General.—If this section applies to any retirement plan or contract amendment—
+
+&emsp;"(1) such retirement plan or contract shall be treated as being operated in accordance with the terms of the plan during the period described in subsection (b)(2)(A); and
+
+&emsp;"(2) except as provided by the Secretary of the Treasury (or the Secretary's delegate), such retirement plan shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1054(g)\] by reason of such amendment.
+
+"(b)
+
+Amendments to Which Section Applies.—
+
+&emsp;"(1)
+
+In general.—This section shall apply to any amendment to any retirement plan or annuity contract which is made—
+
+&emsp;&emsp;"(A) pursuant to any amendment made by this Act or pursuant to any regulation issued by the Secretary of the Treasury or the Secretary of Labor (or a delegate of either such Secretary) under this Act \[div. O of Pub. L. 116–94, see Tables for classification\]; and
+
+&emsp;&emsp;"(B) on or before the last day of the first plan year beginning on or after January 1, 2022, or such later date as the Secretary of the Treasury may prescribe.
+
+> &emsp;In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), or an applicable collectively bargained plan in the case of section 401 (and the amendments made thereby),this paragraph shall be applied by substituting '2024' for '2022'. For purposes of the preceding sentence, the term 'applicable collectively bargained plan' means a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before the date of enactment of this Act \[Dec. 20, 2019\].
+
+&emsp;"(2)
+
+Conditions.—This section shall not apply to any amendment unless—
+
+&emsp;&emsp;"(A) during the period—
+
+&emsp;&emsp;&emsp;"(i) beginning on the date the legislative or regulatory amendment described in paragraph (1)(A) takes effect (or in the case of a plan or contract amendment not required by such legislative or regulatory amendment, the effective date specified by the plan); and
+
+&emsp;&emsp;&emsp;"(ii) ending on the date described in paragraph (1)(B) (as modified by the second sentence of paragraph (1)) (or, if earlier, the date the plan or contract amendment is adopted),
+
+&nbsp;&nbsp;the plan or contract is operated as if such plan or contract amendment were in effect; and
+
+&emsp;&emsp;"(B) such plan or contract amendment applies retroactively for such period."
 
 #### Provisions Relating to Plan Amendments Pursuant to Pub. L. 110–245
 
@@ -2167,7 +2209,7 @@ Pub. L. 104–188, title I, §1462(b), Aug. 20, 1996, 110 Stat. 1824, provided t
 
 Pub. L. 101–140, title II, §204(b)(1), Nov. 8, 1989, 103 Stat. 833, provided that: "In the case of any plan year beginning on or before the date the Secretary of the Treasury or his delegate issues guidelines and begins issuing determinations under section 414(r)(2)(C) of the Internal Revenue Code of 1986, an employer shall be treated as operating separate lines of business if the employer reasonably determines that it meets the requirements of section 414(r) (other than paragraph (2)(C) thereof) of such Code."
 
-\[Pub. L. 101–140, title II, §204(d)(3), Nov. 8, 1989, 103 Stat. 833, provided that: "The provisions of subsection\(b)(1) \[set out above\] shall apply to years beginning after December 31, 1986."\]
+\[Pub. L. 101–140, title II, §204(d)(3), Nov. 8, 1989, 103 Stat. 833, provided that: "The provisions of subsection (b)(1) \[set out above\] shall apply to years beginning after December 31, 1986."\]
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 
@@ -2190,4 +2232,6 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "title".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

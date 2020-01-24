@@ -36,7 +36,7 @@
 
 &emsp;(3) For purposes of this subsection, the term "military device" includes, but is not restricted to, shells, bombs, projectiles, mines, missiles, rockets, shaped charges, grenades, perforators, and similar devices lawfully manufactured exclusively for military or police purposes.
 
-(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 958; amended Pub. L. 93–639, §101, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 104–132, title VI, §605, Apr. 24, 1996, 110 Stat. 1289; Pub. L. 107–296, title XI, §§1112(e)(3), 1126, Nov. 25, 2002, 116 Stat. 2276, 2285; Pub. L. 109–59, title VII, §7127, Aug. 10, 2005, 119 Stat. 1909; Pub. L. 111–211, title II, §236(a), (c), July 29, 2010, 124 Stat. 2286.)
+(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 958; amended Pub. L. 93–639, §101,Jan. 4, 1975, 88 Stat. 2217; Pub. L. 104–132, title VI, §605, Apr. 24, 1996, 110 Stat. 1289; Pub. L. 107–296, title XI, §§1112(e)(3), 1126, Nov. 25, 2002, 116 Stat. 2276, 2285; Pub. L. 109–59, title VII, §7127, Aug. 10, 2005, 119 Stat. 1909; Pub. L. 111–211, title II, §236(a), (c), July 29, 2010, 124 Stat. 2286.)
 
 #### References in Text
 

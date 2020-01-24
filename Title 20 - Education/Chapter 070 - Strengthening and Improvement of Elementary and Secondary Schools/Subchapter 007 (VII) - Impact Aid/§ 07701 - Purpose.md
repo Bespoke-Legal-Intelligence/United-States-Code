@@ -28,7 +28,7 @@ A prior section 7001 of Pub. L. 89–10 was classified to section 3281 of this t
 
 Par. (4). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802(2)\], inserted "or" at end.
 
-Pars. (5), (6). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802(3)–(5)\], redesignated par. (6) as (5), inserted "and because of the difficulty of raising local revenue through bond referendums for capital projects due to the inability to tax Federal property" before period at end, and struck out former par. (5) which read as follows: "experience sudden and substantial increases or decreases in enrollments because of military realignments; or".
+Pars. (5), (6). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802(3)–(5)\], redesignated par. (6) as (5), inserted "and because of the difficulty of raising local revenuethrough bond referendums for capital projects due to the inability to tax Federal property" before period at end, and struck out former par. (5) which read as follows: "experience sudden and substantial increases or decreases in enrollments because of military realignments; or".
 
 #### Effective Date of 2015 Amendment
 
@@ -36,7 +36,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respec
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1818\], Oct. 30, 2000, 114 Stat. 1654, 1654A–389, provided that: "Thistitle \[amending this section and sections 1228, 7702, 7703, 7705, 7707, 7709 to 7713, and 7714 of this title, repealing section 7706 of this title, and enacting provisions set out as notes under sections 6301, 7703, and 7711 of this title\], and the amendments made by this title, shall take effect on October 1, 2000, or the date of the enactment of this Act \[Oct. 30, 2000\], whichever occurs later."
+Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1818\], Oct. 30, 2000, 114 Stat. 1654, 1654A–389, provided that: "This title \[amending this section and sections 1228, 7702, 7703, 7705, 7707, 7709 to 7713, and 7714 of this title, repealing section 7706 of this title, and enacting provisions set out as notes under sections 6301, 7703, and 7711 of this title\], and the amendments made by this title, shall take effect on October 1, 2000, or the date of the enactment of this Act \[Oct. 30, 2000\], whichever occurs later."
 
 #### Effective Date
 

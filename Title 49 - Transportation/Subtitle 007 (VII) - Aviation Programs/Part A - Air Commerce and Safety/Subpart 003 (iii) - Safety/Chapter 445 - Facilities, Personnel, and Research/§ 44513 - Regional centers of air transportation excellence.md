@@ -94,7 +94,7 @@ In subsection (a), the words "one or more" are omitted as surplus.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (f). Pub. L. 112–95, §907(a), amended subsec. (f) generally. Prior to amendment, text read as follows: "The United States Government's share of a grant under this section is 50 percent of the costs of establishing and operating the center and related research activities that the grant recipient carries out."
+<b>2012</b>—Subsec. (f). Pub. L. 112–95, §907(a), amended subsec. (f) generally. Prior to amendment, text read as follows: "The United States Government's share of agrant under this section is 50 percent of the costs of establishing and operating the center and related research activities that the grant recipient carries out."
 
 Subsec. (h). Pub. L. 112–95, §907(b), added subsec. (h).
 

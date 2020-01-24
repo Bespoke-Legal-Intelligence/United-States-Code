@@ -72,7 +72,7 @@ From the proposals submitted, the Secretary shall select proposals for funding. 
 
 &emsp;(2) represent research and development in specific areas identified in the "Metal Casting Research Priorities" developed annually by the Board pursuant to section 5306(b)(1) of this title;
 
-&emsp;(3) to the greatest extent possible and subject to available appropriations, ensure that at least one applicant is selected from each of the four census regions of the country where the metal casting industry is concentrated;
+&emsp;(3) to the greatest extent possible and subject to available appropriations, ensure thatat least one applicant is selected from each of the four census regions of the country where the metal casting industry is concentrated;
 
 &emsp;(4) demonstrate strong industry support;
 

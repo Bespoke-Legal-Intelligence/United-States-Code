@@ -28,7 +28,7 @@
 
 #### Codification
 
-Section was enacted as part of the Assistance for International Malaria Control Act and also as part of the International Malaria Control Act of 2000, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+Section was enacted as part of the Assistance for International Malaria Control Act and also as part of the International Malaria Control Act of 2000, and notas part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
 #### Findings
 

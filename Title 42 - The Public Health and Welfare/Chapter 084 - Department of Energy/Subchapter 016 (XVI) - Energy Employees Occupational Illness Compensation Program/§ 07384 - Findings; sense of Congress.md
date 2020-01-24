@@ -134,7 +134,7 @@ Sec. 2. <i>Designation of Responsibilities for Administering the Energy Employee
 
 (iii) No later than July 31, 2001, ensure the availability, in paper and electronic format, of forms necessary for making claims under the Program; and
 
-(iv) Develop informational materials, in coordination with the Secretary of Energy and the Secretary of Health and Human Services, to help potential claimants understand the Program and the application process, and provide these materials to individuals upon request and to the Secretary of Energy and the AttorneyGeneral for dissemination to potentially eligible individuals.
+(iv) Develop informational materials, in coordination with the Secretary of Energy and the Secretary of Health and Human Services, to help potential claimants understand the Program and the application process, and provide these materials to individuals upon request and to the Secretary of Energy and the Attorney General for dissemination to potentially eligible individuals.
 
 (b) <i>Secretary of Health and Human Services</i>. The Secretary of Health and Human Services shall:
 
@@ -166,7 +166,7 @@ Sec. 2. <i>Designation of Responsibilities for Administering the Energy Employee
 
 (1) Submittal of reasonable claims to a physician panel, appointed by the Secretary of Health and Human Services and administered by the Secretary of Energy, under procedures established by the Secretary of Energy, for determination of whether the individual's illness or death arose out of and in the course of employment by the DOE or its contractors and exposure to a toxic substance at a DOE facility; and
 
-(2) For cases determined by the physician panel and the Secretary of Energy under section 3661(d) and (e) of the Act \[42 U.S.C. 7385o(d), (e)\] to have arisen out of and in the course of employment by the DOE or its contractors and exposure to a toxic substance at a DOE facility, provide assistance to the individual in filing for workers' compensation benefits. The Secretary shall not contest these claims and, to the extent permitted by law, shall direct a DOE contractor who employed the applicant not to contest the claim;
+(2) For cases determined by the physician panel and the Secretary of Energy under section 3661(d) and (e) ofthe Act \[42 U.S.C. 7385o(d), (e)\] to have arisen out of and in the course of employment by the DOE or its contractors and exposure to a toxic substance at a DOE facility, provide assistance to the individual in filing for workers' compensation benefits. The Secretary shall not contest these claims and, to the extent permitted by law, shall direct a DOE contractor who employed the applicant not to contest the claim;
 
 (vi) Report on the Worker Assistance Program by making publicly available on at least an annual basis claims-related data, including the number of claims filed, the number of illnesses found to be related to work at a DOE facility, job location and description, and number of successful State workers' compensation claims awarded; and
 
@@ -202,7 +202,7 @@ Sec. 4. <i>Establishment of Advisory Board on Radiation and Worker Health.</i>
 
 (iii) Upon request by the Secretary of Health and Human Services, advise the Secretary on whether there is a class of employees at any Department of Energy facility who were exposed to radiation but for whom it is not feasible to estimate their radiation dose, and on whether there is a reasonable likelihood that such radiation dose may have endangered the health of members of the class.
 
-Sec. 5. <i>Reporting Requirements</i>. The Secretaries of Labor, Health and Human Services, and Energy shall, as part of their annual budget submissions, report tothe Office of Management and Budget (OMB) on their activities under this Program, including total expenditures related to benefits and program administration. They shall also report to the OMB, no later than March 1, 2001, on the manner in which they will carry out their respective responsibilities under the Act and this order. This report shall include, among other things, a description of the administrative structure established within their agencies to implement the Act and this order. In addition, the Secretary of Labor shall annually report on the total number and types of claims for which compensation was considered and other data pertinent to evaluating the Federal Government's performance fulfilling the requirements of the Act and this order.
+Sec. 5. <i>Reporting Requirements</i>. The Secretaries of Labor, Health and Human Services, and Energy shall, as part of their annual budget submissions, report to the Office of Management and Budget (OMB) on their activities under this Program, including total expenditures related to benefits and program administration. They shall also report to the OMB, no later than March 1, 2001, on the manner in which they will carry out their respective responsibilities under the Act and this order. This report shall include, among other things, a description of the administrative structure established within their agencies to implement the Act and this order. In addition, the Secretary of Labor shall annually report on the total number and types of claims for which compensation was considered and other data pertinent to evaluating the Federal Government's performance fulfilling the requirements of the Act and this order.
 
 Sec. 6. <i>Administration and Judicial Review</i>. (a) This Executive Order shall be carried out subject to the availability of appropriations, and to the extent permitted by law.
 
@@ -212,9 +212,11 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Advisory Board on Radiation and Worker Health
 
-Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Previous extension of term of Advisory Board on Radiation and Worker Health was contained in the following prior Executive Order:
+Previous extensions of term of Advisory Board on Radiation and Worker Health were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 

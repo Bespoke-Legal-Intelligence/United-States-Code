@@ -122,7 +122,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) the original use of such property in the qualified opportunity zone commences with the qualified opportunity fund or the qualified opportunity fund substantially improves the property, and
 
-&emsp;&emsp;&emsp;&emsp;(III) during substantially all of the qualified opportunity fund's holding period for such property, substantially all of the use of such property was in a qualified opportunity zone.
+&emsp;&emsp;&emsp;&emsp;(III) during substantially all of the qualified opportunity fund's holding period for such property, substantially allof the use of such property was in a qualified opportunity zone.
 
 #### (ii) Substantial improvement
 

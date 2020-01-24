@@ -44,7 +44,7 @@ The Foundation shall—
 
 #### (A) In general
 
-&emsp;&emsp;The Foundation shall have a Board of Directors (referred to in this part as the"Board"), which shall be composed of ex officio and appointed members in accordance with this subsection. All appointed members of the Board shall be voting members.
+&emsp;&emsp;The Foundation shall have a Board of Directors (referred to in this part as the "Board"), which shall be composed of ex officio and appointed members in accordance with this subsection. All appointed members of the Board shall be voting members.
 
 #### (B) Ex officio members
 

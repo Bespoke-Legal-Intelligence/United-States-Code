@@ -20,7 +20,7 @@ The Secretary shall, from the amount appropriated under section 9903(a) of this 
 
 #### (3) Maximum allotments
 
-&emsp;The amount allotted under paragraph (1) to a State for a fiscal year shall be reduced, if necessary, so that the aggregate amount allotted to such State under such paragraph and subsection (a) does not exceed 140 percent of the aggregate amount allotted to such State under the corresponding provisions of this chapter for the preceding fiscal year.
+&emsp;The amount allotted under paragraph (1) to a State for a fiscal year shall be reduced, if necessary, so that the aggregate amount allotted to such State under such paragraph and subsection (a) does not exceed 140 percent of the aggregate amount allotted to such Stateunder the corresponding provisions of this chapter for the preceding fiscal year.
 
 #### (c) Payments
 

@@ -8,7 +8,7 @@ The purpose of this section is to provide incentives to encourage and reward eff
 
 (1) The Secretary shall allot and provide, in accordance with this section, to or on behalf of each State agency with a plan approved under this subchapter for a fiscal year, and to or on behalf of each grantee with an application approved under subchapter X for such fiscal year, an amount bearing the same ratio to the total amount appropriated for such fiscal year under subsection (e) as the number of meals served in the State under such plan approved for the preceding fiscal year (or the number of meals served by the title VI \[subchapter X\] grantee, under such application approved for such preceding fiscal year), bears to the total number of such meals served in all States and by all title VI \[subchapter X\] grantees under all such plans and applications approved for such preceding fiscal year.
 
-(2) For purposes of paragraph (1), in the case of a grantee that has an application approved under subchapter X for a fiscal year but that did not receive assistance under this section for the preceding fiscal year, the number of meals served by the title VI \[subchapter X\] grantee for the preceding fiscal year shall be deemed to equal the number of meals that the Assistant Secretary estimates will be served by the title VI \[subchapter X\] grantee in the fiscal year for which the application was approved.
+(2) For purposes of paragraph (1), in the case of a grantee that has an application approvedunder subchapter X for a fiscal year but that did not receive assistance under this section for the preceding fiscal year, the number of meals served by the title VI \[subchapter X\] grantee for the preceding fiscal year shall be deemed to equal the number of meals that the Assistant Secretary estimates will be served by the title VI \[subchapter X\] grantee in the fiscal year for which the application was approved.
 
 #### (c) Donation of products
 
@@ -22,7 +22,7 @@ The purpose of this section is to provide incentives to encourage and reward eff
 
 #### (d) Option to obtain commodities from Secretary of Agriculture
 
-(1) Each State agency and each title VI \[subchapter X\] grantee shall be entitled to use all orany part of amounts allotted under subsection (b) to obtain, subject to paragraphs (2) and (3), from the Secretary of Agriculture commodities available through any food program of the Department of Agriculture at the rates at which such commodities are valued for purposes of such program.
+(1) Each State agency and each title VI \[subchapter X\] grantee shall be entitled to use all or any part of amounts allotted under subsection (b) to obtain, subject to paragraphs (2) and (3), from the Secretary of Agriculture commodities available through any food program of the Department of Agriculture at the rates at which such commodities are valued for purposes of such program.
 
 (2) The Secretary of Agriculture shall determine and report to the Secretary, by such date as the Secretary may require, the amount (if any) of its allotment under subsection (b) which each State agency and title VI \[subchapter X\] grantee has elected to receive in the form of commodities. Such amount shall include an amount bearing the same ratio to the costs to the Secretary of Agriculture of providing such commodities under this subsection as the value of commodities received by such State agency or title VI \[subchapter X\] grantee under this subsection bears to the total value of commodities so received.
 
@@ -44,7 +44,7 @@ In each fiscal year, the Secretary and the Secretary of Agriculture shall jointl
 
 #### Amendments
 
-<b>2016</b>—Subsec. (e). Pub. L. 114–144, which directed substitution of "$164,055,664 for fiscal year 2017, $167,486,502 for fiscal year 2018, and $170,917,349 for fiscal year 2019." for "such sums" and all that followed through the period at the end, was executed by making the substitution for "such sums as may be necessary for fiscal year 2007 and such sums as may be necessary for each of the 4 succeeding fiscal years." to reflect the probable intent of Congress.
+<b>2016</b>—Subsec. (e). Pub. L. 114–144, which directed substitution of "$164,055,664 for fiscal year 2017, $167,486,502 for fiscal year 2018, and $170,917,349 for fiscal year 2019." for "such sums" and all that followed through the period at the end, was executed by making the substitution for "such sums as may be necessary for fiscal year 2007 and such sums as may be necessary for eachof the 4 succeeding fiscal years." to reflect the probable intent of Congress.
 
 <b>2007</b>—Subsec. (b)(3). Pub. L. 110–19, §2(1), struck out par. (3) which read as follows: "State agencies that elect to make grants and enter into contracts for purposes of this section shall promptly and equitably disburse amounts received under this subsection to the recipients of the grants and contracts."
 
@@ -68,7 +68,7 @@ Subsec. (d). Pub. L. 109–365, §309(3), amended subsec. (d) generally, substit
 
 Subsec. (e). Pub. L. 109–365, §309(4), substituted "2007" for "2001".
 
-Subsec. (f). Pub. L. 109–365, §309(5), substituted "the Assistant Secretary and the Secretary of Agriculture" for "the Secretary of Agriculture and the Secretary ofHealth and Human Services" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+Subsec. (f). Pub. L. 109–365, §309(5), substituted "the Assistant Secretary and the Secretary of Agriculture" for "the Secretary of Agriculture and the Secretary of Health and Human Services" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
 
 "(1) the existence of any Federal commodity processing program in which such State agencies, area agencies on aging, and providers may be eligible to participate; and
 
@@ -122,7 +122,7 @@ Subsec. (c)(2). Pub. L. 102–375, §310(2)(B), designated existing provisions a
 
 Subsec. (d)(1). Pub. L. 102–375, §102(b)(10)(A), substituted "area agencies on aging" for "area agencies".
 
-<b>1987</b>—Subsec. (a)(4). Pub. L. 100–175, §122(c)(1), substituted "fiscal years 1986 through 1991" for "fiscal year 1986 and during each fiscal year thereafter" and struck out after first sentence "The amount specified in this paragraph shall be adjusted on an annual basis for each fiscal year after September 30, 1986, to reflect changes in the series for food away from home of the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor. Such adjustment shall be computed to the nearest one-fourth cent."
+<b>1987</b>—Subsec. (a)(4). Pub. L. 100–175, §122(c)(1), substituted "fiscal years 1986 through 1991" for "fiscal year 1986 and during each fiscal year thereafter" and struckout after first sentence "The amount specified in this paragraph shall be adjusted on an annual basis for each fiscal year after September 30, 1986, to reflect changes in the series for food away from home of the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor. Such adjustment shall be computed to the nearest one-fourth cent."
 
 Subsec. (c)(1)(A). Pub. L. 100–175, §122(c)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
 

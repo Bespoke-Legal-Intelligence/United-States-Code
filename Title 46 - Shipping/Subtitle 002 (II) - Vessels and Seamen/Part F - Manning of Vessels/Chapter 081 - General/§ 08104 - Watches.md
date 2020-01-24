@@ -114,7 +114,7 @@ Subsec. (g)(1). Pub. L. 113–281, §316(2), struck out "(except the coal passer
 
 Subsec. (o). Pub. L. 111–281, §903(a)(1), made technical amendment to directory language of Pub. L. 109–241, §311(b). See 2006 Amendment note below.
 
-<b>2006</b>—Subsec. (o). Pub. L. 109–241, as amended by Pub. L. 111–281, §903(a)(1), substituted "or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title" for "or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" in pars. (1) and (2).
+<b>2006</b>—Subsec. (o). Pub. L. 109–241, as amended by Pub. L. 111–281, §903(a)(1), substituted "or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section14302 of this title" for "or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" in pars. (1) and (2).
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–324, §728(1), inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "100 gross tons".
 

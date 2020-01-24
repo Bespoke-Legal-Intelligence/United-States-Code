@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Persons other than individuals.—A person other than an individual shall not be considered a responsible source (as defined in section 113 of this title) for the purposes of being awarded a contract for the procurement of any property or services of a value greater than the simplified acquisition threshold (as defined in section 134 of this title) by a Federal agency, other than a contract for the procurement of commercial items (as defined in section 103 of this title), unless the person agrees to provide a drug-free workplace by—
+Persons other than individuals.—A person other than an individual shall not be considered a responsible source (as defined in section 113 of this title) for the purposes of being awarded a contract for the procurement of any property or services of a value greater than the simplified acquisition threshold (as defined in section 134 of this title) by a Federal agency, other than a contract for the procurement of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title), unless the person agrees to provide a drug-free workplace by—
 
 &emsp;&emsp;(A) publishing a statement notifying employees that the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance is prohibited in the person's workplace and specifying the actions that will be taken against employees for violations of the prohibition;
 
@@ -44,7 +44,7 @@ Suspension, Termination, or Debarment of Contractor.—
 
 &emsp;(1)
 
-Grounds for suspension, termination, or debarment.—Payment under a contract awarded by a Federal agency may be suspended and the contract may be terminated, and the contractor or individual who made the contract with the agency may be suspended or debarred in accordance with the requirements of this section, if the head of the agency determines that—
+Grounds for suspension, termination, or debarment.—Payment under a contract awarded by a Federal agency may be suspended and the contract may be terminated,and the contractor or individual who made the contract with the agency may be suspended or debarred in accordance with the requirements of this section, if the head of the agency determines that—
 
 &emsp;&emsp;(A) the contractor is violating, or has violated, the requirements of subparagraph (A), (B), (C), (D), (E), or (F) of subsection (a)(1); or
 
@@ -59,10 +59,6 @@ Conduct of suspension, termination, and debarment proceedings.—A contracting o
 Effect of debarment.—A contractor or individual debarred by a final decision under this subsection is ineligible for award of a contract by a Federal agency, and for participation in a future procurement by a Federal agency, for a period specified in the decision, not to exceed 5 years.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3827; Pub. L. 115–232, div. A, title VIII, §836(b)(20), Aug. 13, 2018, 132 Stat. 1864.)
-
-#### Amendment of Subsection (a)(1)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(20), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(1) of this section is amended by striking "commercial items (as defined in section 103 of this title)" and inserting "commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 

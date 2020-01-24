@@ -119,7 +119,7 @@ In determining whether to designate any country a beneficiary country under this
 
 > if, after such designation, the President determines that, as a result of changed circumstances, the performance of such country is not satisfactory under the criteria set forth in section 2703(b)(5)(B) of this title.
 
-(2)(A) The President shall publish in the Federal Register notice of the action the Presidentproposes to take under paragraph (1) at least 30 days prior to taking such action.
+(2)(A) The President shall publish in the Federal Register notice of the action the President proposes to take under paragraph (1) at least 30 days prior to taking such action.
 
 (B) The United States Trade Representative shall, within the 30-day period beginning on the date on which the President publishes under subparagraph (A) notice of proposed action—
 
@@ -201,7 +201,7 @@ Subsec. (f). Pub. L. 101–382, §214, added subsec. (f).
 
 Subsec. (e). Pub. L. 100–418, §1909(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "The President shall, after complying with the requirements of subsection (a)(2) of this section, withdraw or suspend the designation of any country as a beneficiary country if, after such designation, he determines that as the result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section."
 
-<b>1986</b>—Subsec. (b)(6), (7). Pub. L. 99–570 redesignated par. (7) as (6) and struck out former par. (6) which provided that the President shall not designate a country as a beneficiary country under this chapter if the country does not take adequate steps to cooperate with the United States to prevent narcotic drugs and other controlled substances produced, processed, or transported in the country from entering the United States unlawfully.
+<b>1986</b>—Subsec. (b)(6), (7). Pub. L. 99–570 redesignated par. (7) as (6) and struck out former par. (6) which provided that the President shall not designate a countryas a beneficiary country under this chapter if the country does not take adequate steps to cooperate with the United States to prevent narcotic drugs and other controlled substances produced, processed, or transported in the country from entering the United States unlawfully.
 
 #### Effective and Termination Dates of 2011 Amendment
 

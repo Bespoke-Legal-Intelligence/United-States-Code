@@ -36,7 +36,7 @@ Par. (4). Pub. L. 104–43, §303(2), added par. (4) defining "exclusive economi
 
 Pub. L. 104–43, §303(1), redesignated par. (3) defining "Council" as (4).
 
-Par. (5). Pub. L. 104–43, §303(2), struck out par. (5) which read as follows: "The term 'fisheries zone' means the waters included within a zone contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is two hundred nautical miles from the baseline from which the territorial sea is measured; or similar zones established by other parties to the Convention to theextent that such zones are recognized by the United States."
+Par. (5). Pub. L. 104–43, §303(2), struck out par. (5) which read as follows: "The term 'fisheries zone' means the waters included within a zone contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is two hundred nautical miles from the baseline from which the territorial sea is measured; or similar zones established by other parties to the Convention to the extent that such zones are recognized by the United States."
 
 Pub. L. 104–43, §303(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 

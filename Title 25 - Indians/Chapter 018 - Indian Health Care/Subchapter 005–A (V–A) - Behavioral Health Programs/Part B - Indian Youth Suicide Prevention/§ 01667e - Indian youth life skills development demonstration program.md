@@ -6,7 +6,7 @@ The purpose of this section is to authorize the Secretary, acting through the Ad
 
 &emsp;(1) the establishment of tribal partnerships to develop and implement such a curriculum, in cooperation with—
 
-&emsp;&emsp;(A) behavioral health professionals, with a priority for tribal partnerships cooperating with mental health professionals employed by the Service;
+&emsp;&emsp;(A) behavioral health professionals, with a priority for tribal partnerships cooperatingwith mental health professionals employed by the Service;
 
 &emsp;&emsp;(B) tribal or local school agencies; and
 
@@ -100,7 +100,7 @@ The purpose of this section is to authorize the Secretary, acting through the Ad
 
 &emsp;&emsp;(B) an assurance that the eligible entity will collaborate, for the purpose of curriculum development, implementation, and training and technical assistance, with 1 or more—
 
-&emsp;&emsp;&emsp;(i) nonprofit entities with demonstrated expertise regarding the development ofculturally sensitive, school-based, youth suicide prevention and intervention programs; or
+&emsp;&emsp;&emsp;(i) nonprofit entities with demonstrated expertise regarding the development of culturally sensitive, school-based, youth suicide prevention and intervention programs; or
 
 &emsp;&emsp;&emsp;(ii) institutions of higher education with demonstrated interest and knowledge regarding culturally sensitive, school-based, life skills youth suicide prevention and intervention programs;
 
@@ -112,7 +112,7 @@ The purpose of this section is to authorize the Secretary, acting through the Ad
 
 &emsp;&emsp;&emsp;(ii) if needed and on a case-by-case basis, referred to a mental health clinician for further assessment and treatment and with crisis response capability; and
 
-&emsp;&emsp;(E) an assurance that supportive services will be provided to curriculum participants identified as high-risk participants, including referral, counseling, and follow-up services for—
+&emsp;&emsp;(E) an assurance that supportive services will be provided to curriculum participantsidentified as high-risk participants, including referral, counseling, and follow-up services for—
 
 &emsp;&emsp;&emsp;(i) drug or alcohol abuse;
 
@@ -188,7 +188,7 @@ Using such amounts made available pursuant to subsection (e) as the Secretary de
 
 &emsp;There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2010 through 2014.
 
-(Pub. L. 94–437, title VII, §726, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat.935; amended Pub. L. 114–95, title IX, §9215(qq), Dec. 10, 2015, 129 Stat. 2181.)
+(Pub. L. 94–437, title VII, §726, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935; amended Pub. L. 114–95, title IX, §9215(qq), Dec. 10, 2015, 129 Stat. 2181.)
 
 #### Codification
 

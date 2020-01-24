@@ -12,7 +12,7 @@ The Counsel shall advise, consult, and cooperate with—
 
 &emsp;(4) any Member, officer, or employee of the Senate not represented under section 288c of this title with regard to obtaining private legal counsel for such Member, officer, or employee;
 
-&emsp;(5) the President pro tempore of the Senate, the Secretary of <sup>1</sup> Senate, the Sergeant-at-Arms of the Senate, and the Parliamentarian of the Senate, regarding any subpena, order, or request for withdrawal of papers presented to the Senate which raises a question of the privileges of the Senate; and
+&emsp;(5) the President pro tempore of the Senate, the Secretary of <sup>1</sup> Senate, the Sergeant-at-Arms of the Senate, and the Parliamentarian of the Senate, regarding any subpena, order, orrequest for withdrawal of papers presented to the Senate which raises a question of the privileges of the Senate; and
 
 &emsp;(6) any committee or subcommittee of the Senate in promulgating and revising their rules and procedures for the use of congressional investigative powers and with respect to questions which may arise in the course of any investigation.
 

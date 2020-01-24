@@ -900,7 +900,7 @@ The Secretary may not provide for payment under subsection (a)(1)(A) with respec
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The total of the additional payments made under this paragraph for covered OPD services furnished in a year (as estimated by the Secretary before the beginning of the year) may not exceed the applicable percentage (specified in clause (ii)) of the total program payments estimated to be made under this subsection for all covered OPD services furnished in that year. If this paragraph is first applied to less than a full year, the previous sentence shall apply only to the portion of such year. This clause shall not apply for 2018.
+&emsp;&emsp;&emsp;The total of the additional payments made under this paragraph for covered OPD services furnished in a year (as estimated by the Secretary before the beginning of the year) may not exceed the applicable percentage (specified in clause (ii)) of the total program payments estimated to be made under this subsection for all covered OPD services furnished in that year. If this paragraph is first applied to less than a full year, the previous sentence shall apply only to the portion of such year. This clause shall not apply for 2018 or 2020.
 
 #### (ii) Applicable percentage
 
@@ -912,7 +912,7 @@ The Secretary may not provide for payment under subsection (a)(1)(A) with respec
 
 #### (iii) Uniform prospective reduction if aggregate limit projected to be exceeded
 
-&emsp;&emsp;&emsp;If the Secretary estimates before the beginning of a year that the amount of the additional payments under this paragraph for the year (or portion thereof) as determined under clause (i) without regard to this clause will exceed the limit established under such clause, the Secretary shall reduce pro rata the amount of each of the additional payments under this paragraph for that year (or portion thereof) in order to ensure that the aggregate additional payments under this paragraph (as so estimated) do not exceed such limit.
+&emsp;&emsp;&emsp;If the Secretary estimates before the beginning of a year that the amount of the additional payments under this paragraph for the year (or portion thereof) as determined under clause (i) without regard to this clause will exceed the limit established under such clause, the Secretary shall reduce pro rata the amount of each of the additional payments under this paragraph for that year (or portion thereof) inorder to ensure that the aggregate additional payments under this paragraph (as so estimated) do not exceed such limit.
 
 #### (F) Limitation of application of functional equivalence standard
 
@@ -952,6 +952,16 @@ The Secretary may not provide for payment under subsection (a)(1)(A) with respec
 
 &emsp;&emsp;&emsp;(ii) The Secretary shall not make any adjustments to payment amounts under this subsection for a covered OPD service (or group of services) for which no costs were removed under clause (i).
 
+#### (J) Additional pass-through extension and special payment adjustment rule for certain diagnostic radiopharmaceuticals
+
+&emsp;&emsp;In the case of a drug or biological furnished in the context of a clinical study on diagnostic imaging tests approved under a coverage with evidence development determination whose period of pass-through status under this paragraph concluded on December 31, 2018, and for which payment under this subsection was packaged into a payment for a covered OPD service (or group of services) furnished beginning January 1, 2019, the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) extend such pass-through status for such drug or biological for the 9-month period beginning on January 1, 2020;
+
+&emsp;&emsp;&emsp;(ii) remove, during such period, the packaged costs of such drug or biological (as determined by the Secretary) from the payment amount under this subsection for the covered OPD service (or group of services) with which it is packaged; and
+
+&emsp;&emsp;&emsp;(iii) not make any adjustments to payment amounts under this subsection for a covered OPD service (or group of services) for which no costs were removed under clause (ii).
+
 #### (7) Transitional adjustment to limit decline in payment
 
 #### (A) Before 2002
@@ -960,7 +970,7 @@ The Secretary may not provide for payment under subsection (a)(1)(A) with respec
 
 &emsp;&emsp;&emsp;(i) at least 90 percent, but less than 100 percent, of the pre-BBA amount (as defined in subparagraph (F)), the amount of payment under this subsection shall be increased by 80 percent of the amount of such difference;
 
-&emsp;&emsp;&emsp;(ii) at least 80 percent, but less than 90 percent, of the pre-BBA amount, the amount of payment under this subsection shall be increased by the amount by which (I) the product of 0.71 and the pre-BBA amount, exceeds (II) the product of 0.70 and the PPS amount;
+&emsp;&emsp;&emsp;(ii) at least 80 percent, but less than 90 percent, of the pre-BBA amount, the amount of payment under this subsection shall be increased by the amount by which (I) the product of 0.71 and the pre-BBAamount, exceeds (II) the product of 0.70 and the PPS amount;
 
 &emsp;&emsp;&emsp;(iii) at least 70 percent, but less than 80 percent, of the pre-BBA amount, the amount of payment under this subsection shall be increased by the amount by which (I) the product of 0.63 and the pre-BBA amount, exceeds (II) the product of 0.60 and the PPS amount; or
 
@@ -1180,7 +1190,7 @@ The Secretary may not provide for payment under subsection (a)(1)(A) with respec
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The Comptroller General of the United States shall conduct a survey in each of2004 and 2005 to determine the hospital acquisition cost for each specified covered outpatient drug. Not later than April 1, 2005, the Comptroller General shall furnish data from such surveys to the Secretary for use in setting the payment rates under subparagraph (A) for 2006.
+&emsp;&emsp;&emsp;&emsp;The Comptroller General of the United States shall conduct a survey in each of 2004 and 2005 to determine the hospital acquisition cost for each specified covered outpatient drug. Not later than April 1, 2005, the Comptroller General shall furnish data from such surveys to the Secretary for use in setting the payment rates under subparagraph (A) for 2006.
 
 #### (II) Recommendations
 
@@ -1374,7 +1384,7 @@ The Secretary may not provide for payment under subsection (a)(1)(A) with respec
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), with respect to covered OPD services furnished on or after January 1, 2011, the area wage adjustment factor applicable under the payment system established under this subsection toany hospital outpatient department which is located in a frontier State (as defined in section 1395ww(d)(3)(E)(iii)(II) of this title) may not be less than 1.00. The preceding sentence shall not be applied in a budget neutral manner.
+&emsp;&emsp;Subject to subparagraph (B), with respect to covered OPD services furnished on or after January 1, 2011, the area wage adjustment factor applicable under the payment system established under this subsection to any hospital outpatient department which is located in a frontier State (as defined in section 1395ww(d)(3)(E)(iii)(II) of this title) may not be less than 1.00. The preceding sentence shall not be applied in a budget neutral manner.
 
 #### (B) Limitation
 
@@ -1428,7 +1438,7 @@ The Secretary may not provide for payment under subsection (a)(1)(A) with respec
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of a department that met the requirements of section 413.65 of title 42 of the Code of Federal Regulations after November 1, 2015, and before December 13, 2016, the Secretary receives from the provider an attestation that such department met such requirements not later than 60 days after such date; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a department that meets such requirements after such date, the Secretary receives from the provider an attestation that such department meets such requirements not later than60 days after the date such requirements are first met with respect to such department.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a department that meets such requirements after such date, the Secretary receives from the provider an attestation that such department meets such requirements not later than 60 days after the date such requirements are first met with respect to such department.
 
 #### (vii) Audit
 
@@ -1474,7 +1484,7 @@ The Secretary may not provide for payment under subsection (a)(1)(A) with respec
 
 &emsp;&emsp;&emsp;(ii) may, as the Secretary determines appropriate, conduct subsequent reviews of such payments; and
 
-&emsp;&emsp;&emsp;(iii) shall consider the extent to which revisions under this subsection to such payments (such as the creation of additional groups of covered OPD services to classify separately those procedures that utilize opioids and non-opioid alternatives for pain management) would reduce payment incentives to use opioids instead of non-opioid alternatives for pain management.
+&emsp;&emsp;&emsp;(iii) shall consider the extent to which revisions under this subsection to suchpayments (such as the creation of additional groups of covered OPD services to classify separately those procedures that utilize opioids and non-opioid alternatives for pain management) would reduce payment incentives to use opioids instead of non-opioid alternatives for pain management.
 
 #### (B) Priority
 
@@ -1482,7 +1492,7 @@ The Secretary may not provide for payment under subsection (a)(1)(A) with respec
 
 #### (C) Revisions
 
-&emsp;&emsp;If the Secretary identifies revisions to payments pursuant to subparagraph (A)(iii), the Secretary shall, as determined appropriate, begin making such revisions for services furnished on or after January 1, 2020. Revisions under the previous sentence shallbe treated as adjustments for purposes of application of paragraph (9)(B).
+&emsp;&emsp;If the Secretary identifies revisions to payments pursuant to subparagraph (A)(iii), the Secretary shall, as determined appropriate, begin making such revisions for services furnished on or after January 1, 2020. Revisions under the previous sentence shall be treated as adjustments for purposes of application of paragraph (9)(B).
 
 #### (D) Rules of construction
 
@@ -1696,7 +1706,7 @@ The Secretary may develop alternative methods of payment for items and services 
 
 #### (i) Medicare payment threshold option
 
-&emsp;&emsp;&emsp;An eligible professional for whom the Secretary determines that at least 50 percent of payments under this part for covered professional services furnished by such professional during the most recent period for which data are available (which may be less than a year) were attributable to such services furnished under this partthrough an eligible alternative payment entity.
+&emsp;&emsp;&emsp;An eligible professional for whom the Secretary determines that at least 50 percent of payments under this part for covered professional services furnished by such professional during the most recent period for which data are available (which may be less than a year) were attributable to such services furnished under this part through an eligible alternative payment entity.
 
 #### (ii) Combination all-payer and medicare payment threshold option
 
@@ -1844,7 +1854,7 @@ The Secretary may develop alternative methods of payment for items and services 
 
 #### (ii) Ending application of prior authorization medical review
 
-&emsp;&emsp;&emsp;The Secretary shall end the application of prior authorization medical reviewunder clause (i) to services described in paragraph (1) by such a chiropractor if the Secretary determines that the chiropractor has a low denial rate under such prior authorization medical review. The Secretary may subsequently reapply prior authorization medical review to such chiropractor if the Secretary determines it to be appropriate and the chiropractor has, in the time period subsequent to the determination by the Secretary of a low denial rate with respect to the chiropractor, furnished such services described in paragraph (1).
+&emsp;&emsp;&emsp;The Secretary shall end the application of prior authorization medical review under clause (i) to services described in paragraph (1) by such a chiropractor if the Secretary determines that the chiropractor has a low denial rate under such prior authorization medical review. The Secretary may subsequently reapply prior authorization medical review to such chiropractor if the Secretary determines it to be appropriate and the chiropractor has, in the time period subsequent to the determination by the Secretary of a low denial rate with respect to the chiropractor, furnished such services described in paragraph (1).
 
 #### (iii) Early request for prior authorization review permitted
 
@@ -1926,7 +1936,7 @@ The Secretary may develop alternative methods of payment for items and services 
 
 &emsp;For purposes of making payments under this subsection, there are appropriated, out of amounts in the Treasury not otherwise appropriated, $2,000,000, which shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1833, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 302; amended Pub. L. 90–248, title I, §§129(c)(7), (8), 131(a), (b), 132(b), 135(c), Jan. 2, 1968, 81 Stat. 848–850, 853; Pub. L. 92–603, title II, §§204(a), 211(c)(4), 226(c)(2), 233(b), 245(d), 251(a)(2), (3), 279, 299K(a), Oct. 30, 1972, 86 Stat. 1377, 1384, 1404, 1411, 1424, 1445, 1454, 1464; Pub. L. 95–142, §16(a), Oct. 25, 1977, 91 Stat. 1200; Pub. L. 95–210, §1(b), Dec. 13, 1977, 91 Stat. 1485; Pub. L. 95–292, §4(b), (c), June 13, 1978, 92 Stat. 315; Pub. L. 96–473, §6(j), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 96–499, title IX, §§918(a)(4), 930(h), 932(a)(1), 934(b), (d)(1), (3), 935(a), 942, 943(a), Dec. 5, 1980, 94 Stat. 2626, 2631, 2634, 2637, 2639, 2641; Pub. L. 96–611, §1(b)(1), (2), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §§2106(a), 2133(a), 2134(a), Aug. 13, 1981, 95 Stat. 792, 797; Pub. L. 97–248, title I, §§101(c)(2), 112(a), (b), 117(a)(2), 148(d), Sept. 3, 1982, 96 Stat. 336, 340, 355, 394; Pub. L. 98–369, div. B, title III, §§2303(a)–(d), 2305(a)–(d), 2308(b)(2)(B), 2321(b), (d)(4)(A), 2323(b)(1), (2), (4), 2354(b)(5), (7), July 18, 1984, 98 Stat. 1064, 1069, 1070, 1074, 1084–1086, 1100; Pub. L. 98–617, §3(b)(2), (3), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–272, title IX, §§9303(a)(1), (b)(1)–(3), 9401(b)–(2)(E), Apr. 7, 1986, 100 Stat. 188, 189, 198, 199; Pub. L. 99–509, title IX, §§9320(e)(1), (2), 9337(b), 9339(a)(1), (b)(1), (2), (c)(1), 9343(a), (b), (e)(2), Oct. 21, 1986, 100 Stat. 2014, 2033, 2036, 2039–2041; Pub. L. 100–203, title IV, §§4042(b)(2)(B), 4043(a), 4045(c)(2)(A), 4049(a)(1), 4055(a), formerly 4054(a), 4062(d)(3), 4063(b), (e)(1), 4064(a), (b)(1), (2), (c)(1), formerly (c), 4066(a), (b), 4067(a), 4068(a), 4070(a), (b)(4), 4072(b), 4073(b), formerly (b)(2), (3), 4077(b)(2), (3), formerly (b)(3), (4), 4084(a), (c)(2), 4085(b)(1), (i)(1)–(3), (21)(D)(i), (22)(B), (23), Dec. 22, 1987, 101 Stat. 1330–85, 1330–88, 1330–90, 1330–108 to 1330–115, 1330–117, 1330–118, 1330–120, 1330–121, 1330–129 to 1330–133, as amended Pub. L. 100–360, title IV, §411(f)(2)(D), (8)(B)(i), (12)(A), (14), (g)(2)(E), (3)(A)–(C), (E), (F), (h)(3)(B), (4)(B), (C), (7)(C), (D), (F), (i)(3), (4)(C)(i), (ii), (iv), (vi), July 1, 1988, 102 Stat. 777, 779, 781, 783, 784, 786–789; Pub. L. 100–360, title I, §104(d)(7), title II, §§201(a), 202(b)(1)–(3), 203(c)(1)(A)–(E), 204(d)(1), 205(c), 212(c)(2), title IV, §411(f)(8)(C), (g)(1)(E), (2)(D), (3)(D), (4)(C), (5), (h)(1)(A), (i)(4)(B), July 1, 1988, 102 Stat. 699, 704, 722, 729, 730, 741, 779, 782–785, 789, as amended Pub. L. 100–485, title VI, §608(d)(3)(G), Oct. 13, 1988, 102 Stat. 2414; Pub. L. 100–485, title VI, §608(d)(4), (22)(B), (D), (23)(A), Oct. 13, 1988, 102 Stat. 2414, 2420, 2421; Pub. L. 100–647, title VIII, §§8421(a), 8422(a), Nov. 10, 1988, 102 Stat. 3802; Pub. L. 101–234, title II, §§201(a), 202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(e)(2)(A), (g)(3)(D)(vii), 6102(c)(1), (e)(1), (5), (6)(A), (7), (f)(2), 6111(a), (b)(1), 6113(b)(3), (d), 6116(b)(1), 6131(a)(1), (b), 6133(a), 6204(b), Dec. 19, 1989, 103 Stat. 2143, 2153, 2184, 2187–2189, 2213, 2214, 2217, 2219, 2221, 2222, 2241; Pub. L. 101–508, title IV, §§4008(m)(2)(C), 4104(b)(1), 4118(f)(2)(D), 4151(c)(1), (2), 4153(a)(2)(B), (C), 4154(a), (b)(1), (c)(1), (e)(1), 4155(b)(2), (3), 4160, 4161(a)(3)(B), 4163(d)(1), 4206(b)(2), 4302, Nov. 5, 1990, 104 Stat. 1388–53, 1388–59, 1388–70, 1388–73, 1388–83 to 1388–87, 1388–91, 1388–93, 1388–100, 1388–116, 1388–125; Pub. L. 101–597, title IV, §401(c)(2), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–66, title XIII, §§13516(b), 13532(a), 13544(b)(2), 13551, 13555(a), Aug. 10, 1993, 107 Stat. 584, 586, 590, 592; Pub. L. 103–432, title I, §§123(b)(2)(A), (e), 141(a), (c)(1), 147(a), (d), (e)(2), (3), (f)(6)(C), (D), 156(a)(2)(B), 160(d)(1), Oct. 31, 1994, 108 Stat. 4411, 4412, 4424, 4425, 4429, 4430, 4432, 4440, 4443; Pub. L. 105–33, title IV, §§4002(j)(1)(A), 4101(b), 4102(b), 4103(b), 4104(c)(1), (2), 4201(c)(1), 4205(a)(1)(A), (2), 4315(b), 4432(b)(5)(C), 4511(b), 4512(b)(1), 4521(a), (b), 4523(a), (d)(1)(A)(i), (B)–(3), 4531(b)(1), 4541(a)(1), (c), (d)(1), 4553(a), (b), 4555, 4556(b), 4603(c)(2)(A), Aug. 5, 1997, 111 Stat. 330, 360–362, 365, 373, 376, 390, 421, 442–445, 449, 450, 454, 456, 460, 462, 463, 470; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §§201(a)–(e)(1), (f)–(h)(1), (i), (j), 202(a), 204(a),(b), 211(a)(3)(B), 221(a)(1), 224(a), title III, §321(g)(2), (k)(2), title IV, §§401(b)(1), 403(e)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–336 to 1501A–342, 1501A–345, 1501A–348, 1501A–351, 1501A–353, 1501A–366, 1501A–369, 1501A–371; Pub. L. 106–554, §1(a)(6) \[title I, §§105(c), 111(a)(1), title II, §§201(b)(1), 205(b), 223(c), 224(a), title IV, §§401(a), (b)(1), 402(a), (b), 403(a), 405(a), 406(a), 421(a), 430(a), title V, §531(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–472, 2763A–481, 2763A–483, 2763A–489, 2763A–490, 2763A–502, 2763A–503, 2763A–505 to 2763A–508, 2763A–516, 2763A–524, 2763A–547; Pub. L. 108–173, title II, §237(a), title III, §§302(b)(2), 303(i)(3)(A), title IV, §§411(a)(1), (b), 413(a), (b)(1), title VI, §§614(a), (b), 621(a)(1)–(5), (b)(1), (2), 622, 624(a)(1), 626(a)–(c), 627(a), 628, 629, 642(b), title VII, §736(b)(1), (2), title IX, §942(b), Dec. 8, 2003, 117 Stat. 2212, 2229, 2254, 2274, 2275, 2277, 2306–2311, 2317–2322, 2355, 2421; Pub. L. 109–171, title V, §§5103, 5105, 5107(a)(1), 5112(e), 5113(a), Feb. 8, 2006, 120 Stat. 40–42, 44; Pub. L. 109–432, div. B, title I, §§107(a), (b)(1), 109(a)(1), (b), title II, §201, Dec. 20, 2006, 120 Stat. 2983–2986; Pub. L. 110–173, title I, §§102, 105, 106, 113, Dec. 29, 2007, 121 Stat. 2495, 2496, 2501; Pub. L. 110–275, title I, §§101(a)(2), (b)(2), 102, 141, 142, 143(b)(2), (3), 145(a)(2), (b), 147, 151(a), 184, July 15, 2008, 122 Stat. 2497, 2498, 2542, 2543, 2547, 2548, 2550, 2587; Pub. L. 111–144, §6, Mar. 2, 2010, 124 Stat. 46; Pub. L. 111–148, title III,§§3103, 3114, 3121, 3138, 3401(i), (k), (l), title IV, §§4103(c)(1), (3), (4), 4104(b), (c), title V, §5501(a)(1), (b)(1), title X, §§10221(a), (b)(4), 10319(g), 10324(b), 10406, 10501(i)(3)(B), (C), Mar. 23, 2010, 124 Stat. 417, 423, 439, 485–487, 555–558, 652, 653, 935, 936, 949, 960, 975, 998, 999; Pub. L. 111–152, title I, §1105(e), Mar. 30, 2010, 124 Stat. 1049; Pub. L. 111–309, title I, §§104, 108, Dec. 15, 2010, 124 Stat. 3287, 3288; Pub. L. 112–78, title III, §§304, 308, Dec. 23, 2011, 125 Stat. 1284, 1285; Pub. L. 112–96, title III, §§3002(a), 3005(a), (b), 3202, Feb. 22, 2012, 126 Stat. 186–188, 193; Pub. L. 112–240, title VI, §§603(a)–(c), 634, Jan. 2, 2013, 126 Stat. 2347, 2355; Pub. L. 113–67, div. B, title I, §1103, Dec. 26, 2013, 127 Stat. 1196; Pub. L. 113–93, title I, §103, title II, §§216(b)(1), 218(a)(2)(A), (b)(2), Apr. 1, 2014, 128 Stat. 1041, 1059, 1064, 1069; Pub. L. 114–10, title I, §101(e)(2), (3), title II, §202(a), (b)(1), title V, §514(a), Apr. 16, 2015, 129 Stat. 117, 122, 143, 171; Pub. L. 114–74, title VI, §603, Nov. 2, 2015, 129 Stat. 597; Pub. L. 114–113, div. O, title V, §§502(b), 504(b)(1), Dec. 18, 2015, 129 Stat. 3019, 3021; Pub. L. 114–255, div. A, title V, §5012(c)(1), div. C, title XVI, §§16001(a), 16002(a), (b), Dec. 13, 2016, 130 Stat. 1202, 1324–1326; Pub. L. 115–123, div. E, title II, §50202, Feb. 9, 2018, 132 Stat. 176; Pub. L. 115–141, div. S, title XIII, §1301(a)(1), (2), Mar. 23, 2018, 132 Stat. 1149, 1150; Pub. L. 115–271, title II, §2005(c)(1), title VI, §§6082, 6083(b), Oct. 24, 2018, 132 Stat. 3929, 3992, 3994.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1833, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 302; amended Pub. L. 90–248, title I, §§129(c)(7), (8), 131(a), (b), 132(b), 135(c), Jan. 2, 1968, 81 Stat. 848–850, 853; Pub. L. 92–603, title II, §§204(a), 211(c)(4), 226(c)(2), 233(b), 245(d), 251(a)(2), (3), 279, 299K(a), Oct. 30, 1972, 86 Stat. 1377, 1384, 1404, 1411, 1424, 1445, 1454, 1464; Pub. L. 95–142, §16(a), Oct. 25, 1977, 91 Stat. 1200; Pub. L. 95–210, §1(b), Dec. 13, 1977, 91 Stat. 1485; Pub. L. 95–292, §4(b), (c), June 13, 1978, 92 Stat. 315; Pub. L. 96–473, §6(j), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 96–499, title IX, §§918(a)(4), 930(h), 932(a)(1), 934(b), (d)(1), (3), 935(a), 942, 943(a), Dec. 5, 1980, 94 Stat. 2626, 2631, 2634, 2637, 2639, 2641; Pub. L. 96–611, §1(b)(1), (2), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §§2106(a), 2133(a), 2134(a), Aug. 13, 1981, 95 Stat. 792, 797; Pub. L. 97–248, title I, §§101(c)(2), 112(a), (b), 117(a)(2), 148(d), Sept. 3, 1982, 96 Stat. 336, 340, 355, 394; Pub. L. 98–369, div. B, title III, §§2303(a)–(d), 2305(a)–(d), 2308(b)(2)(B), 2321(b), (d)(4)(A), 2323(b)(1), (2), (4), 2354(b)(5), (7), July 18, 1984, 98 Stat. 1064, 1069, 1070, 1074, 1084–1086, 1100; Pub. L. 98–617, §3(b)(2), (3), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–272, title IX, §§9303(a)(1), (b)(1)–(3), 9401(b)–(2)(E), Apr. 7, 1986, 100 Stat. 188, 189, 198, 199; Pub. L. 99–509, title IX, §§9320(e)(1), (2), 9337(b), 9339(a)(1), (b)(1), (2), (c)(1), 9343(a), (b), (e)(2), Oct. 21, 1986, 100 Stat. 2014, 2033, 2036, 2039–2041; Pub. L. 100–203, title IV, §§4042(b)(2)(B), 4043(a), 4045(c)(2)(A), 4049(a)(1), 4055(a), formerly 4054(a), 4062(d)(3), 4063(b), (e)(1), 4064(a), (b)(1), (2), (c)(1), formerly (c), 4066(a), (b), 4067(a), 4068(a), 4070(a), (b)(4), 4072(b), 4073(b), formerly (b)(2), (3), 4077(b)(2), (3), formerly (b)(3), (4), 4084(a), (c)(2), 4085(b)(1), (i)(1)–(3), (21)(D)(i), (22)(B), (23), Dec. 22, 1987, 101 Stat. 1330–85, 1330–88, 1330–90, 1330–108 to 1330–115, 1330–117, 1330–118, 1330–120, 1330–121, 1330–129 to 1330–133, as amended Pub. L. 100–360, title IV, §411(f)(2)(D), (8)(B)(i), (12)(A), (14), (g)(2)(E), (3)(A)–(C), (E), (F), (h)(3)(B), (4)(B), (C), (7)(C), (D), (F), (i)(3), (4)(C)(i), (ii), (iv), (vi), July 1, 1988, 102 Stat. 777, 779, 781, 783, 784, 786–789; Pub. L. 100–360, title I, §104(d)(7), title II, §§201(a), 202(b)(1)–(3), 203(c)(1)(A)–(E), 204(d)(1), 205(c), 212(c)(2), title IV, §411(f)(8)(C), (g)(1)(E), (2)(D), (3)(D), (4)(C), (5), (h)(1)(A), (i)(4)(B), July 1, 1988, 102 Stat. 699, 704, 722, 729, 730, 741, 779, 782–785, 789, as amended Pub. L. 100–485, title VI, §608(d)(3)(G), Oct. 13, 1988, 102 Stat. 2414; Pub. L. 100–485, title VI, §608(d)(4), (22)(B), (D), (23)(A), Oct. 13, 1988, 102 Stat. 2414, 2420, 2421; Pub. L. 100–647, title VIII, §§8421(a), 8422(a), Nov. 10, 1988, 102 Stat. 3802; Pub. L. 101–234, title II, §§201(a), 202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(e)(2)(A), (g)(3)(D)(vii), 6102(c)(1), (e)(1), (5), (6)(A), (7), (f)(2), 6111(a), (b)(1), 6113(b)(3), (d), 6116(b)(1), 6131(a)(1), (b), 6133(a), 6204(b), Dec. 19, 1989, 103 Stat. 2143, 2153, 2184, 2187–2189, 2213, 2214, 2217, 2219, 2221, 2222, 2241; Pub. L. 101–508, title IV, §§4008(m)(2)(C), 4104(b)(1), 4118(f)(2)(D), 4151(c)(1), (2), 4153(a)(2)(B), (C), 4154(a), (b)(1), (c)(1), (e)(1), 4155(b)(2), (3), 4160, 4161(a)(3)(B), 4163(d)(1), 4206(b)(2), 4302, Nov. 5, 1990, 104 Stat. 1388–53, 1388–59, 1388–70, 1388–73, 1388–83 to 1388–87, 1388–91, 1388–93, 1388–100, 1388–116, 1388–125; Pub. L. 101–597, title IV, §401(c)(2), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–66, title XIII, §§13516(b), 13532(a), 13544(b)(2), 13551, 13555(a), Aug. 10, 1993, 107 Stat. 584, 586, 590, 592; Pub. L. 103–432, title I, §§123(b)(2)(A), (e), 141(a), (c)(1), 147(a), (d), (e)(2), (3), (f)(6)(C), (D), 156(a)(2)(B), 160(d)(1), Oct. 31, 1994, 108 Stat. 4411, 4412, 4424, 4425, 4429, 4430, 4432, 4440, 4443; Pub. L. 105–33, title IV, §§4002(j)(1)(A), 4101(b), 4102(b), 4103(b), 4104(c)(1), (2), 4201(c)(1), 4205(a)(1)(A), (2), 4315(b), 4432(b)(5)(C), 4511(b), 4512(b)(1), 4521(a), (b), 4523(a), (d)(1)(A)(i), (B)–(3), 4531(b)(1), 4541(a)(1), (c), (d)(1), 4553(a), (b), 4555, 4556(b), 4603(c)(2)(A), Aug. 5, 1997, 111 Stat. 330, 360–362, 365, 373, 376, 390, 421, 442–445, 449, 450, 454, 456, 460, 462, 463, 470; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §§201(a)–(e)(1), (f)–(h)(1), (i), (j), 202(a), 204(a),(b), 211(a)(3)(B), 221(a)(1), 224(a), title III, §321(g)(2), (k)(2), title IV, §§401(b)(1),403(e)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–336 to 1501A–342, 1501A–345, 1501A–348, 1501A–351, 1501A–353, 1501A–366, 1501A–369, 1501A–371; Pub. L. 106–554, §1(a)(6) \[title I, §§105(c), 111(a)(1), title II, §§201(b)(1), 205(b), 223(c), 224(a), title IV, §§401(a), (b)(1), 402(a), (b), 403(a), 405(a), 406(a), 421(a), 430(a), title V, §531(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–472, 2763A–481, 2763A–483, 2763A–489, 2763A–490, 2763A–502, 2763A–503, 2763A–505 to 2763A–508, 2763A–516, 2763A–524, 2763A–547; Pub. L. 108–173, title II, §237(a), title III, §§302(b)(2), 303(i)(3)(A), title IV, §§411(a)(1), (b), 413(a), (b)(1), title VI, §§614(a), (b), 621(a)(1)–(5), (b)(1), (2), 622, 624(a)(1), 626(a)–(c), 627(a), 628, 629, 642(b), title VII, §736(b)(1), (2), title IX, §942(b), Dec. 8, 2003, 117 Stat. 2212, 2229, 2254, 2274, 2275, 2277, 2306–2311, 2317–2322, 2355, 2421; Pub. L. 109–171, title V, §§5103, 5105, 5107(a)(1), 5112(e), 5113(a), Feb. 8, 2006, 120 Stat. 40–42, 44; Pub. L. 109–432, div. B, title I, §§107(a), (b)(1), 109(a)(1), (b), title II, §201, Dec. 20, 2006, 120 Stat. 2983–2986; Pub. L. 110–173, title I, §§102, 105, 106, 113, Dec. 29, 2007, 121 Stat. 2495, 2496, 2501; Pub. L. 110–275, title I, §§101(a)(2), (b)(2), 102, 141, 142, 143(b)(2), (3), 145(a)(2), (b), 147, 151(a), 184, July 15, 2008, 122 Stat. 2497, 2498, 2542, 2543, 2547, 2548, 2550, 2587; Pub. L. 111–144, §6, Mar. 2, 2010, 124 Stat. 46; Pub. L. 111–148, title III, §§3103, 3114, 3121, 3138, 3401(i), (k), (l), title IV, §§4103(c)(1), (3), (4), 4104(b), (c), title V, §5501(a)(1), (b)(1), title X, §§10221(a), (b)(4), 10319(g), 10324(b), 10406, 10501(i)(3)(B), (C), Mar. 23, 2010, 124 Stat. 417, 423, 439, 485–487, 555–558, 652, 653, 935, 936, 949, 960, 975, 998, 999; Pub. L. 111–152, title I, §1105(e), Mar. 30, 2010, 124 Stat. 1049; Pub. L. 111–309, title I, §§104, 108, Dec. 15, 2010, 124 Stat. 3287, 3288; Pub. L. 112–78, title III, §§304, 308, Dec. 23, 2011, 125 Stat. 1284, 1285; Pub. L. 112–96, title III, §§3002(a), 3005(a), (b), 3202, Feb. 22, 2012, 126 Stat. 186–188, 193; Pub. L. 112–240, title VI, §§603(a)–(c), 634, Jan. 2, 2013, 126 Stat. 2347, 2355; Pub. L. 113–67, div. B, title I, §1103, Dec. 26, 2013, 127 Stat. 1196; Pub. L. 113–93, title I, §103, title II, §§216(b)(1), 218(a)(2)(A), (b)(2), Apr. 1, 2014, 128 Stat. 1041, 1059, 1064, 1069; Pub. L. 114–10, title I, §101(e)(2), (3), title II, §202(a), (b)(1), title V, §514(a), Apr. 16, 2015, 129 Stat. 117, 122, 143, 171; Pub. L. 114–74, title VI, §603, Nov. 2, 2015, 129 Stat. 597; Pub. L. 114–113, div. O, title V, §§502(b), 504(b)(1), Dec. 18, 2015, 129 Stat. 3019, 3021; Pub. L. 114–255, div. A, title V, §5012(c)(1), div. C, title XVI, §§16001(a), 16002(a), (b), Dec. 13, 2016, 130 Stat. 1202, 1324–1326; Pub. L. 115–123, div. E, title II, §50202, Feb. 9, 2018, 132 Stat. 176; Pub. L. 115–141, div. S, title XIII, §1301(a)(1), (2), Mar. 23, 2018, 132 Stat. 1149, 1150; Pub. L. 115–271, title II, §2005(c)(1), title VI, §§6082, 6083(b), Oct. 24, 2018, 132 Stat. 3929, 3992, 3994; Pub. L. 116–94, div. N, title I, §107(a), Dec. 20, 2019, 133 Stat. 3102.)
 
 #### References in Text
 
@@ -1943,6 +1953,10 @@ Section 4521 of The Balanced Budget Act of 1997, referred to in subsec. (t)(7)(F
 Pub. L. 111–148, §10221(a), enacted into law S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, "\[e\]xcept as provided in" section 10221(b) of Pub. L. 111–148. Section 201(b) of S. 1790 would have amended this section but was stricken out by section 10221(b)(4) of Pub. L. 111–148.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (t)(6)(E)(i). Pub. L. 116–94, §107(a)(1), substituted "2018 or 2020" for "2018".
+
+Subsec. (t)(6)(J). Pub. L. 116–94, §107(a)(2), added subpar. (J).
 
 <b>2018</b>—Subsec. (a)(1)(CC). Pub. L. 115–271, §2005(c)(1), added subpar. (CC).
 
@@ -1986,7 +2000,7 @@ Subsec. (t)(21)(B)(iii) to (v). Pub. L. 114–255, §16001(a)(1)(B), added cls. 
 
 Subsec. (t)(21)(B)(vi). Pub. L. 114–255, §16002(a)(1), added cl. (vi).
 
-Subsec. (t)(21)(B)(vii). Pub. L. 114–255, §16002(a)(2), inserted after first sentence "Not later than 2 years after the date the Secretary receives an attestation under clause (vi) relating to compliance of a department of a provider with requirements referred to in such clause, the Secretary shall audit the compliance with such requirements with respect to the department."
+Subsec. (t)(21)(B)(vii). Pub. L. 114–255, §16002(a)(2), inserted after first sentence "Not later than 2 years afterthe date the Secretary receives an attestation under clause (vi) relating to compliance of a department of a provider with requirements referred to in such clause, the Secretary shall audit the compliance with such requirements with respect to the department."
 
 Pub. L. 114–255, §16001(a)(1)(B), added cl. (vii).
 
@@ -2088,7 +2102,7 @@ Subsec. (a)(1)(K). Pub. L. 111–148, §3114, inserted "(or 100 percent for serv
 
 Subsec. (a)(1)(N). Pub. L. 111–148, §4103(c)(1)(A), inserted "other than personalized prevention plan services (as defined in section 1395x(hhh)(1) of this title)" after "(as defined in section 1395w–4(j)(3) of this title)".
 
-Subsec. (a)(1)(T). Pub. L. 111–148, §4104(b)(1), as amended by Pub. L. 111–148, §10406, inserted "(or 100 percent if such services are recommended with a grade of A or B by the United States Preventive Services Task Force for any indication or population and are appropriate for the individual)" after "80 percent".
+Subsec. (a)(1)(T). Pub. L. 111–148, §4104(b)(1), as amended by Pub. L. 111–148, §10406, inserted "(or 100percent if such services are recommended with a grade of A or B by the United States Preventive Services Task Force for any indication or population and are appropriate for the individual)" after "80 percent".
 
 Subsec. (a)(1)(W). Pub. L. 111–148, §4104(b)(2), as amended by Pub. L. 111–148, §10406, inserted "(if such subparagraph were applied, by substituting '100 percent' for '80 percent')" after "subparagraph (D)" in cl. (i) and substituted "100 percent" for "80 percent" in cl. (ii).
 
@@ -2188,7 +2202,7 @@ Subsec. (g)(5). Pub. L. 110–275, §141, substituted "December 31, 2009" for "J
 
 Subsec. (h)(2)(A)(i). Pub. L. 110–275, §145(b), inserted "minus, for each of the years 2009 through 2013, 0.5 percentage points" after "city average)".
 
-Subsec. (t)(7)(D)(i)(II). Pub. L. 110–275, §147(1), substituted "January 1, 2010" for "January 1, 2009" and "For purposes of the preceding sentence, the applicable percentage shall be 95 percent with respect to covered OPD services furnished in 2006, 90 percent with respectto such services furnished in 2007, and 85 percent with respect to such services furnished in 2008 or 2009." for "For purposes of the previous sentence, with respect to covered OPD services furnished during 2006, 2007, or 2008, the applicable percentage shall be 95 percent, 90 percent, and 85 percent, respectively."
+Subsec. (t)(7)(D)(i)(II). Pub. L. 110–275, §147(1), substituted "January 1, 2010" for "January 1, 2009" and "For purposes of the preceding sentence, the applicable percentage shall be 95 percent with respect to covered OPD services furnished in 2006, 90 percent with respect to such services furnished in 2007, and 85 percent with respect to such services furnished in 2008 or 2009." for "For purposes of the previous sentence, with respect to covered OPD services furnished during 2006, 2007, or 2008, the applicable percentage shall be 95 percent, 90 percent, and 85 percent, respectively."
 
 Subsec. (t)(7)(D)(i)(III). Pub. L. 110–275, §147(2), added subcl. (III).
 
@@ -2266,7 +2280,7 @@ Subsec. (i)(2)(A). Pub. L. 108–173, §626(b)(1)(A), substituted "For services 
 
 Subsec. (i)(2)(A)(i). Pub. L. 108–173, §626(b)(1)(B), struck out "taken not later than January 1, 1995, and every 5 years thereafter," before "of the actual audited costs".
 
-Subsec. (i)(2)(C). Pub. L. 108–173, §626(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "Notwithstanding the second sentence of subparagraph (A) or the second sentence of subparagraph (B), if the Secretary has not updated amounts established under such subparagraphs with respect to facility services furnished during a fiscal year (beginning with fiscal year 1996), such amounts shall be increased by the percentage increase in the consumer price index for all urban consumers (U.S. city average) as estimated by the Secretary for the 12-month period ending with the midpoint of the year involved. In each of the fiscal years 1998 through 2002, the increase under this subparagraph shall be reduced (but not below zero) by 2.0 percentage points."
+Subsec. (i)(2)(C). Pub. L. 108–173, §626(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "Notwithstanding the second sentence of subparagraph (A) or the second sentence of subparagraph (B), if the Secretary has not updated amounts established under such subparagraphs with respect to facility services furnished during a fiscal year (beginningwith fiscal year 1996), such amounts shall be increased by the percentage increase in the consumer price index for all urban consumers (U.S. city average) as estimated by the Secretary for the 12-month period ending with the midpoint of the year involved. In each of the fiscal years 1998 through 2002, the increase under this subparagraph shall be reduced (but not below zero) by 2.0 percentage points."
 
 Subsec. (i)(2)(D). Pub. L. 108–173, §626(b)(2), added subpar. (D).
 
@@ -2350,7 +2364,7 @@ Subsec. (t)(6)(E). Pub. L. 106–554, §1(a)(6) \[title IV, §402(a)(1)\], redes
 
 Subsec. (t)(7)(D)(ii). Pub. L. 106–554, §1(a)(6) \[title IV, §405(a)\], in heading, inserted "and children's hospitals" after "cancer hospitals" and in text, substituted "clause (iii) or (v) of section 1395ww(d)(1)(B) of this title" for "section 1395ww(d)(1)(B)(v) of this title".
 
-Subsec. (t)(7)(F)(ii)(I). Pub. L. 106–554, §1(a)(6) \[title IV, §403(a)\], inserted "(or in the case of a hospital that did not submit a cost report for such period, during the first subsequent cost reporting period ending before 2001 for which the hospital submitted a cost report)" after "1996".
+Subsec. (t)(7)(F)(ii)(I). Pub. L. 106–554, §1(a)(6) \[title IV, §403(a)\], inserted "(or in the case of a hospital thatdid not submit a cost report for such period, during the first subsequent cost reporting period ending before 2001 for which the hospital submitted a cost report)" after "1996".
 
 Subsec. (t)(8)(C). Pub. L. 106–554, §1(a)(6) \[title I, §111(a)(1)\], amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: "In no case shall the copayment amount for a procedure performed in a year exceed the amount of the inpatient hospital deductible established under section 1395e(b) of this title for that year."
 
@@ -2438,7 +2452,7 @@ Subsec. (a)(1)(D). Pub. L. 105–33, §4104(c), inserted "or section 1395m(d)(1)
 
 Subsec. (a)(1)(O). Pub. L. 105–33, §4512(b)(1), substituted "section 1395x(s)(2)(K) of this title" for "section 1395x(s)(2)(K)(ii) of this title" and "services furnished by physician assistants, nurse practitioners, or clinic nurse specialists" for "nurse practitioner or clinical nurse specialist services".
 
-Pub. L. 105–33, §4511(b)(1), amended subpar. (O) generally. Prior to amendment, subpar. (O) read as follows: "with respect to services described in section 1395x(s)(2)(K)(iii) of this title (relating to nurse practitioner or clinical nurse specialist services provided in a rural area), the amounts paid shall be 80 percent of the lesser of the actual charge or the prevailing charge that would be recognized (or, for services furnished on or after January 1, 1992, the fee schedule amount provided under section 1395w–4 of this title) if the services had been performed by a physician (subject to the limitation described in subsection (r)(2) of this section),".
+Pub. L. 105–33, §4511(b)(1), amended subpar. (O) generally. Prior to amendment, subpar. (O) read as follows: "with respect to services described in section 1395x(s)(2)(K)(iii) of this title (relating to nurse practitioner or clinical nurse specialist services provided in arural area), the amounts paid shall be 80 percent of the lesser of the actual charge or the prevailing charge that would be recognized (or, for services furnished on or after January 1, 1992, the fee schedule amount provided under section 1395w–4 of this title) if the services had been performed by a physician (subject to the limitation described in subsection (r)(2) of this section),".
 
 Subsec. (a)(1)(Q). Pub. L. 105–33, §4315(b), added subpar. (Q).
 
@@ -2666,7 +2680,7 @@ Subsec. (i)(3)(B)(ii). Pub. L. 101–508, §4151(c)(1)(B), substituted "on or af
 
 Subsec. (i)(3)(B)(ii)(I). Pub. L. 101–508, §4151(c)(1)(A)(i), substituted "50 percent for reporting periods beginning on or after October 1, 1988, and on or before December 31, 1990, and 42 percent for portions of cost reporting periods beginning on or after January 1, 1991" for "and 50 percent for other cost reporting periods".
 
-Subsec. (i)(3)(B)(ii)(II). Pub. L. 101–508, §4151(c)(1)(A)(ii), substituted "50 percent for reporting periods beginning on or after October 1, 1988, and on or before December 31, 1990, and 58 percent for portions of cost reporting periods beginning on or after January 1, 1991" for "and 50 percent for other cost reporting periods".
+Subsec. (i)(3)(B)(ii)(II). Pub. L. 101–508, §4151(c)(1)(A)(ii), substituted "50 percent for reporting periods beginning on or after October 1, 1988, and on orbefore December 31, 1990, and 58 percent for portions of cost reporting periods beginning on or after January 1, 1991" for "and 50 percent for other cost reporting periods".
 
 Subsec. (l)(1). Pub. L. 101–508, §4160(1), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
@@ -2682,7 +2696,7 @@ Subsec. (r). Pub. L. 101–508, §4206(b)(2), added subsec. (r) relating to othe
 
 Pub. L. 101–508, §4155(b)(3), added subsec. (r) relating to cap on prevailing charge and billing on assignment-related basis.
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–234, §202(a), repealed Pub. L. 100–360, §212(c)(2), and provided that the provisions of law amended or repealed by such section arerestored or revised as if such section had not been enacted, see 1988 Amendment note below.
+<b>1989</b>—Subsec. (a). Pub. L. 101–234, §202(a), repealed Pub. L. 100–360, §212(c)(2), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
 
 Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §205(c)(3), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
@@ -2856,7 +2870,7 @@ Subsec. (h)(5)(A). Pub. L. 100–360, §411(i)(4)(C)(vi), added Pub. L. 100–20
 
 Subsec. (h)(5)(C). Pub. L. 100–360, §411(i)(4)(C)(vi), added Pub. L. 100–203, §4085(i)(22)(B), see 1987 Amendment note below.
 
-Subsec. (h)(5)(D). Pub. L. 100–360, §411(i)(4)(B), substituted "A person may not bill for a clinical diagnostic laboratory test performed by a laboratory, other than a rural health clinic, other than on an assignment-related basis. If a person knowingly and willfully and on a repeated basis bills for a clinical diagnostic laboratory test in violation of the previous sentence" for "If a person knowingly and willfully and on a repeated basis bills an individual enrolled under this part for charges for a clinical diagnostic laboratory test forwhich payment may only be made on an assignment-related basis under subparagraph (C)" and "paragraphs (2) and (3) of section 1395u(j) of this title in the same manner such paragraphs apply with respect to a physician" for "section 1395u(j)(2) of this title".
+Subsec. (h)(5)(D). Pub. L. 100–360, §411(i)(4)(B), substituted "A person may not bill for a clinical diagnostic laboratory test performed by a laboratory, other than a rural health clinic, other than on an assignment-related basis. If a person knowingly and willfully and on a repeated basis bills for a clinical diagnostic laboratory test in violation of the previous sentence" for "If a person knowingly and willfully and on a repeated basis bills an individual enrolled under this part for charges for a clinical diagnostic laboratory test for which payment may only be made on an assignment-related basis under subparagraph (C)" and "paragraphs (2) and (3) of section 1395u(j) of this title in the same manner such paragraphs apply with respect to a physician" for "section 1395u(j)(2) of this title".
 
 Subsec. (i)(2)(A)(iii). Pub. L. 100–360, §411(g)(2)(D), substituted "insertion" for "implantation" and inserted "or subsequent to" after "during".
 
@@ -3230,7 +3244,7 @@ Pub. L. 114–255, div. C, title XVI, §16002(c), Dec. 13, 2016, 130 Stat. 1326,
 
 Pub. L. 114–113, div. O, title V, §504(d), Dec. 18, 2015, 129 Stat. 3023, provided that: "The amendments made by this section \[amending this section and sections 1395m and 1395x of this title\] shall apply to items furnished on or after January 1, 2017."
 
-Pub. L. 114–10, title II, §202(b)(2), Apr. 16, 2015, 129 Stat. 144, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to requests described in section 1833(g)(5)(C)(i) of the Social Security Act (42 U.S.C. 1395l(g)(5)(C)(i)) with respect to which the Secretary of Health and Human Services has not conducted medical review under such section by a date (not later than 90 days after the date of the enactment of this Act \[Apr. 16, 2015\]) specified by the Secretary."
+Pub. L. 114–10, title II, §202(b)(2), Apr. 16, 2015, 129 Stat. 144, provided that: "The amendments made by this subsection \[amending this section\] shall applywith respect to requests described in section 1833(g)(5)(C)(i) of the Social Security Act (42 U.S.C. 1395l(g)(5)(C)(i)) with respect to which the Secretary of Health and Human Services has not conducted medical review under such section by a date (not later than 90 days after the date of the enactment of this Act \[Apr. 16, 2015\]) specified by the Secretary."
 
 #### Effective Date of 2012 Amendment
 
@@ -3316,7 +3330,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §201(h)(2)\], Nov. 29, 1999
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §201(m)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–341, provided that: "Except as provided in this section, the amendments made by this section \[amending this section and sections 1395m and 1395x of this title\] shall be effective as if included in the enactment of BBA \[the Balanced Budget Act of 1997, Pub. L. 105–33\]."
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §202(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–344, provided that:"The amendments made by this section \[amending this section\] shall be effective as if included in the enactment of BBA \[the Balanced Budget Act of 1997, Pub. L. 105–33\]."
+Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §202(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–344, provided that: "The amendments made by this section \[amending this section\] shall be effective as if included in the enactment of BBA \[the Balanced Budget Act of 1997, Pub. L. 105–33\]."
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §204(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–345, provided that: "The amendments made by this section \[amending this section\] apply as if included in the enactment of BBA \[the Balanced Budget Act of 1997, Pub. L. 105–33\] and shall only apply to procedures performed for which payment is made on the basis of the prospective payment system under section 1833(t) of the Social Security Act \[42 U.S.C. 1395l(t)\]."
 
@@ -3364,7 +3378,7 @@ Pub. L. 105–33, title IV, §4541(e), Aug. 5, 1997, 111 Stat. 457, provided tha
 
 "(3) The amendments made by subsection (d)(1) \[amending this section\] apply to expenses incurred on or after January 1, 1999."
 
-Pub. L. 105–33, title IV, §4556(d), Aug. 5, 1997, 111 Stat. 463, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1395u of this title\] shall apply to drugs and biologicals furnished on or after January 1, 1998."
+Pub. L. 105–33, title IV, §4556(d), Aug. 5, 1997, 111 Stat. 463, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section1395u of this title\] shall apply to drugs and biologicals furnished on or after January 1, 1998."
 
 Amendment by section 4603(c)(2)(A) of Pub. L. 105–33 applicable to cost reporting periods beginning on or after Oct. 1, 1999, except as otherwise provided, see section 4603(d) of Pub. L. 105–33, set out as an Effective Date note under section 1395fff of this title.
 
@@ -3384,7 +3398,7 @@ Pub. L. 103–432, title I, §141(c)(2), Oct. 31, 1994, 108 Stat. 4425, provided
 
 Amendment by section 147(a), (e)(2), (3), (f)(6)(C), (D) of Pub. L. 103–432 effective as if included in the enactment of Pub. L. 101–508, see section 147(g) of Pub. L. 103–432, set out as a note under section 1320a–3a of this title.
 
-Pub. L. 103–432, title I, §147(d)(1), (2), Oct. 31, 1994, 108 Stat. 4429, provided that the amendment made by thatsection is effective as if included in the enactment of Pub. L. 101–239.
+Pub. L. 103–432, title I, §147(d)(1), (2), Oct. 31, 1994, 108 Stat. 4429, provided that the amendment made by that section is effective as if included in the enactment of Pub. L. 101–239.
 
 Amendment by section 156(a)(2)(B) of Pub. L. 103–432 applicable to services provided on or after Oct. 31, 1994, see section 156(a)(3) of Pub. L. 103–432, set out as a note under section 1320c–3 of this title.
 
@@ -3432,7 +3446,7 @@ Pub. L. 101–239, title VI, §6131(c), Dec. 19, 1989, 103 Stat. 2221, provided 
 
 "(1) The amendments made by this section \[amending this section and section 1395x of this title\] shall apply with respect to therapeutic shoes and inserts furnished on or after July 1, 1989.
 
-"(2) In applying the amendments made by this section, the increase under subparagraph (C) of section 1833(o)(2) of the Social Security Act \[42 U.S.C. 1395l(o)(2)(C)\] shall apply to the dollar amounts specified under subparagraph (A) of such section (as amended by this section) in the same manner as the increase would have applied to the dollar amounts specified under subparagraph (A) of such section (as in effect before the date of the enactment of this Act \[Dec. 19, 1989\])."
+"(2) In applying the amendments made by this section, the increase under subparagraph (C) of section1833(o)(2) of the Social Security Act \[42 U.S.C. 1395l(o)(2)(C)\] shall apply to the dollar amounts specified under subparagraph (A) of such section (as amended by this section) in the same manner as the increase would have applied to the dollar amounts specified under subparagraph (A) of such section (as in effect before the date of the enactment of this Act \[Dec. 19, 1989\])."
 
 Pub. L. 101–239, title VI, §6133(b), Dec. 19, 1989, 103 Stat. 2222, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after January 1, 1990."
 
@@ -3494,7 +3508,7 @@ Pub. L. 100–203, title IV, §4084(b), Dec. 22, 1987, 101 Stat. 1330–129, pro
 
 Pub. L. 100–203, title IV, §4084(c)(3), as added by Pub. L. 100–360, title IV, §411(i)(3), July 1, 1988, 102 Stat. 788, provided that: "The amendments made by this subsection \[amending this section and section 1395x of this title\] shall apply to services furnished after December 31, 1988."
 
-Pub. L. 100–203, title IV, §4085(b)(2), Dec. 22, 1987, 101 Stat. 1330–130, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to procedures performed on or after January 1, 1988."
+Pub. L. 100–203, title IV, §4085(b)(2), Dec. 22, 1987, 101 Stat. 1330–130, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to procedures performed on or after January 1, 1988."
 
 Pub. L. 100–203, title IV, §4085(i)(21), Dec. 22, 1987, 101 Stat. 1330–133, provided that the amendment to section 9343 of Pub. L. 99–509 by section 4085(i)(21)(D) of Pub. L. 100–203, amending this section and provisions set out as an Effective Date of 1986 Amendments note below, is effective as if included in the enactment of Pub. L. 99–509.
 
@@ -3614,6 +3628,10 @@ Pub. L. 110–275, title I, §101(a)(4), July 15, 2008, 122 Stat. 2497, provided
 
 Pub. L. 106–554, §1(a)(6) \[title I, §111(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–473, provided that: "Nothing in this Act \[H.R. 5661, as enacted by section 1(a)(6) of Pub. L. 106–554, see Tables for classification\] or the Social Security Act \[this chapter\] shall be construed as preventing a hospital from waiving the amount of any coinsurance for outpatient hospital services under the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] that may have been increased as a result of the implementation of the prospective payment system under section 1833(t) of the Social Security Act (42 U.S.C. 1395l(t))."
 
+#### Implementation of 2019 Amendment
+
+Pub. L. 116–94, div. N, title I, §107(b), Dec. 20, 2019, 133 Stat. 3102, provided that: "Notwithstanding any other provision of law, the Secretary of Health and Human Service may implement the amendments made by subsection (a) \[amending this section\] by program instruction or otherwise."
+
 #### Implementation of 2018 Amendment
 
 Pub. L. 115–141, div. S, title XIII, §1301(a)(3), Mar. 23, 2018, 132 Stat. 1150, provided that: "Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the amendments made by paragraphs (1) and (2) \[amending this section\] by program instruction or otherwise."
@@ -3624,7 +3642,7 @@ Pub. L. 114–10, title V, §514(b), Apr. 16, 2015, 129 Stat. 173, provided that
 
 "(1)
 
-In general.—The Secretary of Health and Human Services shall, in consultation with stakeholders (including the American Chiropractic Association) and representatives of medicare administrative contractors (as defined in section 1874A(a)(3)(A) of the Social Security Act (42 U.S.C. 1395kk–1(a)(3)(A))), develop educational and training programs to improve the ability of chiropractors to provide documentation to the Secretary of services described in section 1861(r)(5) \[42 U.S.C. 1395x(r)(5)\] in a manner that demonstrates that such services are, in accordance with section 1862(a)(1) of such Act (42 U.S.C. 1395y(a)(1)), reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.
+In general.—The Secretary of Health and Human Services shall, in consultation with stakeholders (including the American Chiropractic Association)and representatives of medicare administrative contractors (as defined in section 1874A(a)(3)(A) of the Social Security Act (42 U.S.C. 1395kk–1(a)(3)(A))), develop educational and training programs to improve the ability of chiropractors to provide documentation to the Secretary of services described in section 1861(r)(5) \[42 U.S.C. 1395x(r)(5)\] in a manner that demonstrates that such services are, in accordance with section 1862(a)(1) of such Act (42 U.S.C. 1395y(a)(1)), reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.
 
 "(2)
 
@@ -3722,7 +3740,7 @@ Pub. L. 112–96, title III, §3005(g), Feb. 22, 2012, 126 Stat. 189, provided t
 
 "(1)
 
-Strategy.—The Secretary of Health and Human Services shall implement, beginning on January 1, 2013, a claims-based data collection strategy that is designed to assist in reforming the Medicare payment system for outpatient therapy services subject to the limitations of section 1833(g) of the Social Security Act (42 U.S.C. 1395l(g)). Such strategy shall be designed to provide for the collection of data on patient function during the course of therapy services in order to better understand patient condition and outcomes.
+Strategy.—The Secretary of Health and Human Services shall implement, beginning on January 1, 2013, a claims-based data collection strategy that is designed to assist in reforming the Medicare payment system for outpatient therapy services subject to the limitations of section 1833(g) of the Social Security Act (42 U.S.C.1395l(g)). Such strategy shall be designed to provide for the collection of data on patient function during the course of therapy services in order to better understand patient condition and outcomes.
 
 "(2)
 
@@ -3756,7 +3774,7 @@ Covered complex diagnostic laboratory test defined.—In this section, the term 
 
 &emsp;"(3)
 
-Separate payment defined.—In this section, the term 'separate payment' means direct paymentto a laboratory (including a hospital-based or independent laboratory) that performs a complex diagnostic laboratory test with respect to a specimen collected from an individual during a period in which the individual is a patient of a hospital if the test is performed after such period of hospitalization and if separate payment would not otherwise be made under title XVIII of the Social Security Act by reason of sections 1862(a)(14) and 1866(a)(1)(H)(i) of the such \[sic\] Act (42 U.S.C. 1395y(a)(14); 42 U.S.C. 1395cc(a)(1)(H)(i)).
+Separate payment defined.—In this section, the term 'separate payment' means direct payment to a laboratory (including a hospital-based or independent laboratory) that performs a complex diagnostic laboratory test with respect to a specimen collected from an individual during a period in which the individual is a patient of a hospital if the test is performed after such period of hospitalization and if separate payment would not otherwise be made under title XVIII of the Social Security Act by reason of sections 1862(a)(14) and 1866(a)(1)(H)(i) of the such \[sic\] Act (42 U.S.C. 1395y(a)(14); 42 U.S.C. 1395cc(a)(1)(H)(i)).
 
 "(b)
 
@@ -3804,19 +3822,11 @@ Pub. L. 109–171, title V, §5107(b), Feb. 8, 2006, 120 Stat. 43, provided that
 
 Amendment by section 303 of Pub. L. 108–173, insofar as applicable to payments for drugs or biologicals and drug administration services furnished by physicians, is applicable only to physicians in the specialties of hematology, hematology/oncology, and medical oncology under this subchapter, see section 303(j) of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
-Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L. 108–173 also applicable to payments for drugs or biologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
+Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L.108–173 also applicable to payments for drugs or biologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
 #### GAO Study of Medicare Payment for Inhalation Therapy
 
-Pub. L. 108–173, title III, §305(b), Dec. 8, 2003, 117 Stat. 2255, provided that:
-
-"(1)
-
-Study.—The Comptroller General of the United States shall conduct a study to examine the adequacy of current reimbursements for inhalation therapy under the medicare program.
-
-"(2)
-
-Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1)."
+Pub. L. 108–173, title III, §305(b), Dec. 8, 2003, 117 Stat. 2255, required the Comptroller General of the United States to conduct a study to examine the adequacy of reimbursements for inhalation therapy under the medicare program, and to submit to Congress a report on this study not later than 1 year after Dec. 8, 2003.
 
 #### Treatment of Certain Clinical Diagnostic Laboratory Tests Furnished to Hospital Outpatients in Certain Rural Areas
 
@@ -3828,7 +3838,7 @@ In General.—Notwithstanding subsections (a), (b), and (h) of section 1833 of t
 
 "(b)
 
-Application.—A cost reporting period described in this subsection is a cost reporting period beginningduring the period beginning on July 1, 2004, and ending on June 30, 2008 or during the 2-year period beginning on July 1, 2010.
+Application.—A cost reporting period described in this subsection is a cost reporting period beginning during the period beginning on July 1, 2004, and ending on June 30, 2008 or during the 2-year period beginning on July 1, 2010.
 
 "(c)
 
@@ -3994,7 +4004,7 @@ Payment Methodologies Described.—The payment methodologies described in this s
 
 #### Special Rule for Payment for 2001
 
-Pub. L. 106–554, §1(a)(6) \[title IV, §401(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–503, provided that: "Notwithstanding the amendment made by subsection (a) \[amending this section\], for purposes of making payments under section 1833(t) of the Social Security Act (42 U.S.C. 1395l(t)) for covered OPD services furnished during 2001, the medicare OPD fee schedule amount under such section—
+Pub. L. 106–554, §1(a)(6) \[title IV, §401(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–503, provided that: "Notwithstanding the amendment made by subsection (a) \[amending this section\], for purposes of making payments under section 1833(t) of the Social Security Act\(42 U.S.C. 1395l(t)) for covered OPD services furnished during 2001, the medicare OPD fee schedule amount under such section—
 
 &emsp;"(1) for services furnished on or after January 1, 2001, and before April 1, 2001, shall be the medicare OPD fee schedule amount for 2001 as determined under the provisions of law in effect on the day before the date of the enactment of this Act \[Dec. 21, 2000\]; and
 
@@ -4010,7 +4020,7 @@ In general.—In the case of a medical device provided as part of a service (or 
 
 "(2)
 
-Application of current process.—Notwithstanding any other provision of law, the Secretary shall continue to accept applications with respect tomedical devices under the process established pursuant to paragraph (6) of section 1833(t) of the Social Security Act \[42 U.S.C. 1395l(t)(6)\] (as in effect on the day before the date of the enactment of this Act \[Dec. 21, 2000\]) through December 1, 2000, and any device—
+Application of current process.—Notwithstanding any other provision of law, the Secretary shall continue to accept applications with respect to medical devices under the process established pursuant to paragraph (6) of section 1833(t) of the Social Security Act \[42 U.S.C. 1395l(t)(6)\] (as in effect on the day before the date of the enactment of this Act \[Dec. 21, 2000\]) through December 1, 2000, and any device—
 
 &emsp;"(A) with respect to which an application was submitted (pursuant to such process) on or before such date; and
 
@@ -4020,19 +4030,7 @@ Application of current process.—Notwithstanding any other provision of law, th
 
 #### Study on Standards for Supervision of Physical Therapist Assistants
 
-Pub. L. 106–554, §1(a)(6) \[title IV, §421(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–516, provided that:
-
-"(1)
-
-Study.—The Secretary of Health and Human Services shall conduct a study of the implications—
-
-&emsp;"(A) of eliminating the 'in the room' supervision requirement for medicare payment for services of physical therapy assistants who are supervised by physical therapists; and
-
-&emsp;"(B) of such requirement on the cap imposed under section 1833(g) of the Social Security Act (42 U.S.C. 1395l(g)) on physical therapy services.
-
-"(2)
-
-Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary shall submit to Congress a report on the study conducted under paragraph (1)."
+Pub. L. 106–554, §1(a)(6) \[title IV, §421(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–516, required the Secretary of Health and Human Services to conduct a study of the implications of eliminating the "in the room" supervision requirement for medicare payment for services of physical therapy assistants who are supervised by physical therapists and of such requirement on the cap imposed under subsec. (g) of this section on physical therapy services, and to submit to Congress a report on the study no later than 18 months after Dec. 21, 2000.
 
 #### Delay in Implementation of Prospective Payment System for Ambulatory Surgical Centers
 
@@ -4082,7 +4080,7 @@ Pub. L. 106–554, §1(a)(6) \[title V, §531(b)\], Dec. 21, 2000, 114 Stat. 276
 
 #### Report on Procedures Used for Advanced, Improved Technologies
 
-Pub. L. 106–554, §1(a)(6) \[title V, §531(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–547, provided that: "Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall submit to Congress a report that identifies the specific procedures used by the Secretary under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395j et seq.\] to adjust payments for clinical diagnostic laboratory tests and durable medical equipment which are classified to existing codes where, because of an advance in technology with respect to the test or equipment, there has been a significant increase or decrease in the resources used in the test or in the manufacture of the equipment, and there has been a significant improvement in the performance of the test or equipment. The report shall include such recommendations for changes in law as may be necessary to assure fair and appropriate payment levels under such part for such improved tests and equipment as reflects increased costs necessary to produce improved results."
+Pub. L. 106–554, §1(a)(6) \[title V, §531(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–547, provided that: "Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall submit to Congress a report that identifies the specific procedures used by the Secretary under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395jet seq.\] to adjust payments for clinical diagnostic laboratory tests and durable medical equipment which are classified to existing codes where, because of an advance in technology with respect to the test or equipment, there has been a significant increase or decrease in the resources used in the test or in the manufacture of the equipment, and there has been a significant improvement in the performance of the test or equipment. The report shall include such recommendations for changes in law as may be necessary to assure fair and appropriate payment levels under such part for such improved tests and equipment as reflects increased costs necessary to produce improved results."
 
 #### Congressional Intention Regarding Base Amounts in Applying HOPD PPS
 
@@ -4174,7 +4172,7 @@ Report.—Not later than June 30, 2001, the Secretary of Health and Human Servic
 
 #### Phase-in of PPS for Ambulatory Surgical Centers
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §226\], Nov. 29, 1999, 113 Stat. 1536, 1501A–354, as amended by Pub. L. 106–554, §1(a)(6) \[title IV, §424(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–518, 2763A–519, provided that: "If the Secretary of Health and Human Services implements a revised prospective payment system for services of ambulatory surgical facilities under section 1833(i) of the Social Security Act (42 U.S.C. 1395l(i)), prior to incorporating data from the 1999 Medicare cost survey or a subsequent cost survey, such system shall be implemented in a manner so that—
+Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §226\], Nov. 29, 1999, 113 Stat. 1536, 1501A–354, as amended by Pub. L. 106–554, §1(a)(6) \[title IV, §424(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–518, 2763A–519, provided that: "If theSecretary of Health and Human Services implements a revised prospective payment system for services of ambulatory surgical facilities under section 1833(i) of the Social Security Act (42 U.S.C. 1395l(i)), prior to incorporating data from the 1999 Medicare cost survey or a subsequent cost survey, such system shall be implemented in a manner so that—
 
 &emsp;"(1) in the first year of its implementation, only a proportion (specified by the Secretary and not to exceed one-fourth) of the payment for such services shall be made in accordance with such system and the remainder shall be made in accordance with current regulations; and
 
@@ -4256,15 +4254,7 @@ Pub. L. 105–33, title IV, §4541(d)(2), Aug. 5, 1997, 111 Stat. 457, as amende
 
 #### Study and Report on Clinical Laboratory Tests
 
-Pub. L. 105–33, title IV, §4553(c), Aug. 5, 1997, 111 Stat. 460, provided that:
-
-"(1)
-
-In general.—The Secretary shall request the Institute of Medicine of the National Academy of Sciences to conduct a study of payments under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395j et seq.\] for clinical laboratory tests. The study shall include a review of the adequacy of the current methodology and recommendations regarding alternative payment systems. The study shall also analyze and discuss the relationship between such payment systems and access to high quality laboratory tests for medicare beneficiaries, including availability and access to new testing methodologies.
-
-"(2)
-
-Report to congress.—The Secretary shall, not later than 2 years after the date of enactment of this section \[Aug. 5, 1997\], report to the Committees on Ways and Means and Commerce of the House of Representatives and the Committee on Finance of the Senate the results of the study described in paragraph (1), including any recommendations for legislation."
+Pub. L. 105–33, title IV, §4553(c), Aug. 5, 1997, 111 Stat. 460, required the Secretary to request the Institute of Medicine of the National Academy of Sciences to conduct a study of payments under part B of title XVIII of the Social Security Act (42 U.S.C. 1395j et seq.) for clinical laboratory tests, including a review of the adequacy of the current methodology and recommendations regarding alternative payment systems analysis and of the relationship between such payment systems and access to high quality laboratory tests for medicare beneficiaries, including availability and access to new testing methodologies, and to report to Congress the results of the study and any recommendations for legislation not later than 2 years after Aug. 5, 1997.."
 
 #### Adjustments to Payment Amounts for New Technology Intraocular Lenses
 
@@ -4328,7 +4318,7 @@ No increase in beneficiary charges in assignment-related cases.—If a reduction
 
 &emsp;"(3)
 
-Treatment of payments to health maintenance organizations.—Subsection (a) shall not apply to payments under risk-sharing contracts under section 1876 of the Social Security Act \[42 U.S.C. 1395mm\] or under similar contracts under section 402 of the Social Security Amendments of 1967 \[Pub. L. 90–248, enacting section 1395b–1 of this title andamending section 1395ll of this title\] or section 222 of the Social Security Amendments of 1972 \[Pub. L. 92–603, amending sections 1395b–1 and 1395ll of this title and enacting provisions set out as a note under section 1395b–1 of this title\]."
+Treatment of payments to health maintenance organizations.—Subsection (a) shall not apply to payments under risk-sharing contracts under section 1876 of the Social Security Act \[42 U.S.C. 1395mm\] or under similar contracts under section 402 of the Social Security Amendments of 1967 \[Pub. L. 90–248, enacting section 1395b–1 of this title and amending section 1395ll of this title\] or section 222 of the Social Security Amendments of 1972 \[Pub. L. 92–603, amending sections 1395b–1 and 1395ll of this title and enacting provisions set out as a note under section 1395b–1 of this title\]."
 
 #### Effect on State Law
 
@@ -4438,7 +4428,7 @@ Pub. L. 98–369, div. B, title III, §2303(i), July 18, 1984, 98 Stat. 1066, pr
 
 Pub. L. 98–369, div. B, title III, §2304(a), July 18, 1984, 98 Stat. 1067, provided that:
 
-"(1) The Secretary of Health and Human Services shall issue revisions to the current guidelines for the payment under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395j et seq.\] for the transtelephonic monitoring of cardiac pacemakers. Such revised guidelines shall include provisions regarding the specifications for and frequency of transtelephonic monitoring procedures which will be found to be reasonable and necessary.
+"(1) The Secretary of Health and Human Services shall issue revisions to the current guidelines for thepayment under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395j et seq.\] for the transtelephonic monitoring of cardiac pacemakers. Such revised guidelines shall include provisions regarding the specifications for and frequency of transtelephonic monitoring procedures which will be found to be reasonable and necessary.
 
 "(2)(A) Except as provided in subparagraph (B), if the guidelines required by paragraph (1) have not been issued and put into effect by October 1, 1984, and until such guidelines have been issued and put into effect, payment may not be made under part B of title XVIII of the Social Security Act for transtelephonic monitoring procedures, with respect to a single-chamber cardiac pacemaker powered by lithium batteries, conducted more frequently than—
 
@@ -4452,7 +4442,7 @@ Pub. L. 98–369, div. B, title III, §2304(a), July 18, 1984, 98 Stat. 1067, pr
 
 #### Payment for Preadmission Diagnostic Testing Performed in Physician's Office
 
-Pub. L. 98–369, div. B, title III, §2305(f), July 18, 1984, 98 Stat. 1070, provided that: "The amendments made bythis section \[amending this section and enacting provisions set out above\] shall not be construed as prohibiting payment, subject to the applicable copayments, under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395j et seq.\] for preadmission diagnostic testing performed in a physician's office to the extent such testing is otherwise reimbursable under regulations of the Secretary."
+Pub. L. 98–369, div. B, title III, §2305(f), July 18, 1984, 98 Stat. 1070, provided that: "The amendments made by this section \[amending this section and enacting provisions set out above\] shall not be construed as prohibiting payment, subject to the applicable copayments, under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395j et seq.\] for preadmission diagnostic testing performed in a physician's office to the extent such testing is otherwise reimbursable under regulations of the Secretary."
 
 #### Providers of Services To Calculate and Report Lesser-of-Cost-or-Charges Determinations Separately With Respect to Payments Under Parts A and B of This Subchapter; Issuance of Regulations
 

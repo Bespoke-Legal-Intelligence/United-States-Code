@@ -42,7 +42,7 @@ Amounts from grants received under this section may be used for engineering, des
 
 #### (g) Cost sharing
 
-The Federal share of the eligible costs of an alternative water source project carried outusing assistance made available under this section shall not exceed 50 percent.
+The Federal share of the eligible costs of an alternative water source project carried out using assistance made available under this section shall not exceed 50 percent.
 
 #### (h) Reports
 

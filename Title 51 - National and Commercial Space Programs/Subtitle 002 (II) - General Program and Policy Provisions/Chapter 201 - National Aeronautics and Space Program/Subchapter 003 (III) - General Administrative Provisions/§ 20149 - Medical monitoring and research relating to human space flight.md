@@ -44,7 +44,7 @@ Exclusions.—The Administrator may not—
 
 (d)
 
-Privacy.—Consistent with applicable provisions of Federal law relating to privacy, the Administrator shall protect the privacy of all medical records generated under subsection (a) and accessible to the Administration.
+Privacy.—Consistent with applicable provisions of Federal law relating to privacy, the Administrator shall protect the privacy of allmedical records generated under subsection (a) and accessible to the Administration.
 
 (e)
 
@@ -52,7 +52,7 @@ Regulations.—The Administrator shall promulgate such regulations as are necess
 
 (f)
 
-Definition of United States Government Astronaut.—In this section, the term "UnitedStates government astronaut" has the meaning given the term "government astronaut" in section 50902, except it does not include an individual who is an international partner astronaut.
+Definition of United States Government Astronaut.—In this section, the term "United States government astronaut" has the meaning given the term "government astronaut" in section 50902, except it does not include an individual who is an international partner astronaut.
 
 (g)
 

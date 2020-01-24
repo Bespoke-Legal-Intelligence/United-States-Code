@@ -92,7 +92,7 @@ Subsec. (k)(3). Pub. L. 109–241 substituted "Secretary of Homeland Security" f
 
 Subsec. (k)(3), (4). Pub. L. 105–85, §1105(2), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "Regulations under this subsection may also provide that the administrative costs incurred in establishing and maintaining an involuntary allotment be deducted from the amount withheld from the pay of the member of the uniformed services concerned pursuant to such regulations."
 
-Subsec. (l). Pub. L. 105–85, §1105(3), struck out subsec. (l) which read as follows: "The amount of an agency's administrative costs deducted under regulations prescribed pursuant to subsection (j)(2) or (k)(3) shall be credited to the appropriation, fund, or account from which such administrative costs were paid."
+Subsec. (l). Pub. L. 105–85, §1105(3), struck out subsec. (l) which read as follows: "The amount of an agency's administrative costs deducted under regulations prescribed pursuant to subsection (j)(2) or (k)(3) shall becredited to the appropriation, fund, or account from which such administrative costs were paid."
 
 <b>1996</b>—Subsecs. (h)(2), (i). Pub. L. 104–193 substituted "section 459 of the Social Security Act (42 U.S.C. 659)" for "sections 459, 461, and 462 of the Social Security Act (42 U.S.C. 659, 661, and 662)".
 
@@ -118,7 +118,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Review and Update of Regulations Governing Debt Collectors Interactions With Unit Commanders of Members of the Armed Forces
 
-Pub. L. 115–91, div. A, title VI, §634, Dec. 12, 2017, 131 Stat. 1431, provided that: "Not later than 180 days afterthe date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall review and update Department of Defense Directive 1344.09 and any associated regulations to ensure that such regulations comply with Federal consumer protection laws with respect to the collection of debt."
+Pub. L. 115–91, div. A, title VI, §634, Dec. 12, 2017, 131 Stat. 1431, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall review and update Department of Defense Directive 1344.09 and any associated regulations to ensure that such regulations comply with Federal consumer protection laws with respect to the collection of debt."
 
 #### Pilot Program on Alternative Notice of Receipt of Legal Process for Garnishment of Federal Pay for Child Support and Alimony
 

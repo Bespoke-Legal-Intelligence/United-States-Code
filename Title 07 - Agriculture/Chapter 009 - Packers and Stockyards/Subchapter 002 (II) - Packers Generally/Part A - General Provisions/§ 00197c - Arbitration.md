@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any livestock or poultry contract that contains a provision requiring the use of arbitration to resolve any controversy that may arise under the contract shall contain a provision that allows a producer or grower, prior to entering the contract <sup>1</sup> to decline to be bound by the arbitration provision.
+Any livestock or poultry contract that contains a provision requiring the use of arbitrationto resolve any controversy that may arise under the contract shall contain a provision that allows a producer or grower, prior to entering the contract <sup>1</sup> to decline to be bound by the arbitration provision.
 
 #### (b) Disclosure
 

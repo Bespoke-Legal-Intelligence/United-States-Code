@@ -74,7 +74,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;&emsp;(viii) steps to ensure that the components of the transition plan development process required under section 675(5)(H) of this title that relate to the health care needs of children aging out of foster care, including the requirements to include options for health insurance, information about a health care power of attorney, health care proxy, or other similar document recognized under State law, and to provide the child with the option to execute such a document, are met; and
 
-&emsp;(B) subparagraph (A) shall not be construed to reduce or limit the responsibility of the State agency responsible for administering the State plan approved under subchapter XIX to administer and provide care and services for children with respect to whom services are provided under the State plan developed pursuant to this subpart;
+&emsp;(B) subparagraph (A) shall not be construed to reduce or limit the responsibility of the State agency responsible for administering the State plan approved under subchapter XIX to administer and provide care and services forchildren with respect to whom services are provided under the State plan developed pursuant to this subpart;
 
 &emsp;(16) provide that, not later than 1 year after September 28, 2006, the State shall have in place procedures providing for how the State programs assisted under this subpart, subpart 2 of this part, or part E would respond to a disaster, in accordance with criteria established by the Secretary which should include how a State would—
 
@@ -308,7 +308,7 @@ In general.—Subject to paragraph (2) and subsections (b), (c), and (d), the am
 
 &emsp;"(2)
 
-Transition rule.—In the case of a State plan under part B or E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this part, the State plan shall not be regarded as failing to comply with the requirements of part B or E of title IV of such Act solely on the basis of the failure of the plan to meet the additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Feb. 9, 2018\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be deemed to be a separate regular session of the State legislature.
+Transition rule.—In the case of a State plan under part B or E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this part, the State plan shall not be regarded as failing to comply with the requirements of part B or E of title IV of such Act solely on the basis of the failure of the plan to meet the additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Feb. 9, 2018\]. For purposes of the previous sentence, in the case of a Statethat has a 2-year legislative session, each year of the session shall be deemed to be a separate regular session of the State legislature.
 
 "(b)
 
@@ -380,7 +380,7 @@ In General.—Except as otherwise provided in this section, the amendments made 
 
 "(b)
 
-Delay Permitted If State Legislation Required.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part B or E of title IV of the Social Security Act to meet the additional requirements imposed by the amendments made by a provision of this Act, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the first regular session of the State legislature that begins after the date of the enactment of this Act \[July 3, 2006\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
+Delay Permitted If State Legislation Required.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part B or E of title IV of the Social Security Act to meet the additional requirements imposed by the amendments made by a provision of this Act, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the first regular session of the State legislature that begins after the date of the enactment of this Act \[July 3, 2006\]. If theState has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
 
 Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
 
@@ -410,7 +410,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 Pub. L. 103–432, title II, §202(e), Oct. 31, 1994, 108 Stat. 4454, provided that: "The amendments and repeal made by this section \[amending this section and sections 623 to 625 and 672 of this title and repealing section 627 of this title\] shall be effective with respect to fiscal years beginning on or after April 1, 1996."
 
-Pub. L. 103–432, title II, §204(b), Oct. 31, 1994, 108 Stat. 4456, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effectivewith respect to fiscal years beginning on or after October 1, 1995."
+Pub. L. 103–432, title II, §204(b), Oct. 31, 1994, 108 Stat. 4456, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective with respect to fiscal years beginning on or after October 1, 1995."
 
 #### Effective Date of 1993 Amendment
 
@@ -472,7 +472,7 @@ Pub. L. 96–272, title I, §103(d), June 17, 1980, 94 Stat. 521, provided that:
 
 #### Overpayments or Underpayments
 
-Pub. L. 90–248, title II, §240(f)(3), Jan. 2, 1968, 81 Stat. 916, provided that in the case of any State which has aplan developed as provided in part 3 of this subchapter as in effect prior to Jan. 2, 1968, sections 721 to 728 of this title, "any overpayment or underpayment which the Secretary determines was made to the State under section 523 of the Social Security Act \[42 U.S.C. 723\] and with respect to which adjustment has not then already been made under subsection (b) of such section shall, for purposes of section 422 of such Act \[42 U.S.C. 622\], be considered an overpayment or underpayment (as the case may be) made under section 422 of such Act."
+Pub. L. 90–248, title II, §240(f)(3), Jan. 2, 1968, 81 Stat. 916, provided that in the case of any State which has a plan developed as provided in part 3 of this subchapter as in effect prior to Jan. 2, 1968, sections 721 to 728 of this title, "any overpayment or underpayment which the Secretary determines was made to the State under section 523 of the Social Security Act \[42 U.S.C. 723\] and with respect to which adjustment has not then already been made under subsection (b) of such section shall, for purposes of section 422 of such Act \[42 U.S.C. 622\], be considered an overpayment or underpayment (as the case may be) made under section 422 of such Act."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

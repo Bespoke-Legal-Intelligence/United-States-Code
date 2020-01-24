@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, whenever any fee is required to be p
 
 #### (f) Reimbursement of expenses for assisting foreign securities authorities
 
-Notwithstanding any other provision of law, the Commission may accept payment and reimbursement, in cash or in kind, from a foreign securities authority, or made on behalf of such authority, for necessary expenses incurred by the Commission, its members, and employees in carrying out any investigation pursuant to section 78u(a)(2) of this title or in providing any other assistance to a foreign securities authority. Any payment or reimbursement accepted shall be considered a reimbursement to the appropriated funds of the Commission.
+Notwithstanding any other provision of law, the Commission may accept payment and reimbursement, in cash or in kind, from a foreign securities authority, or made on behalf of such authority, for necessary expenses incurred by the Commission, its members, and employees in carrying out any investigation pursuant to section 78u(a)(2) of this title or in providing any other assistance to a foreign securities authority. Any payment or reimbursement accepted shall beconsidered a reimbursement to the appropriated funds of the Commission.
 
 #### (g) Office of the Investor Advocate
 
@@ -138,7 +138,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 #### (7) Regulations
 
-&emsp;The Commission shall, by regulation, establish procedures requiring a formal response toall recommendations submitted to the Commission by the Investor Advocate, not later than 3 months after the date of such submission.
+&emsp;The Commission shall, by regulation, establish procedures requiring a formal response to all recommendations submitted to the Commission by the Investor Advocate, not later than 3 months after the date of such submission.
 
 #### (8) Ombudsman
 
@@ -286,7 +286,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 &emsp;&emsp;&emsp;(iii) a summary of the most serious issues encountered by small businesses and small business investors, including any unique issues encountered by minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters and their investors, during the reporting period;
 
-&emsp;&emsp;&emsp;(iv) an inventory of the items summarized under clause (iii) (including items summarized under such clause for any prior reporting period on which no action has been taken or that have not been resolved to the satisfaction of the Advocate for Small Business Capital Formation as of the beginning of the reporting period covered by the report) that includes—
+&emsp;&emsp;&emsp;(iv) an inventory of the items summarized under clause (iii) (including items summarized under such clause for any prior reporting period on which no action has been taken or that have not been resolved to the satisfaction of the Advocatefor Small Business Capital Formation as of the beginning of the reporting period covered by the report) that includes—
 
 &emsp;&emsp;&emsp;&emsp;(I) identification of any action taken by the Commission or the self-regulatory organization and the result of such action;
 
@@ -294,7 +294,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 &emsp;&emsp;&emsp;&emsp;(III) for items on which no action has been taken, the reasons for inaction, and an identification of any official who is responsible for such action;
 
-&emsp;&emsp;&emsp;(v) recommendations for such changes to the regulations, guidance and orders of the Commission and such legislative actionsas may be appropriate to resolve problems with the Commission and self-regulatory organizations encountered by small businesses and small business investors and to encourage small business capital formation; and
+&emsp;&emsp;&emsp;(v) recommendations for such changes to the regulations, guidance and orders of the Commission and such legislative actions as may be appropriate to resolve problems with the Commission and self-regulatory organizations encountered by small businesses and small business investors and to encourage small business capital formation; and
 
 &emsp;&emsp;&emsp;(vi) any other information, as determined appropriate by the Advocate for Small Business Capital Formation.
 

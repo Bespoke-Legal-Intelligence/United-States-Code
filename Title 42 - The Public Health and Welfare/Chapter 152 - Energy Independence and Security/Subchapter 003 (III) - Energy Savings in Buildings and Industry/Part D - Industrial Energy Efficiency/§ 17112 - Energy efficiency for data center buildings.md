@@ -30,7 +30,7 @@ In this section:
 
 &emsp;&emsp;(B) consider prior work and studies undertaken in this area, including by the Environmental Protection Agency and the Department of Energy;
 
-&emsp;&emsp;(C) consistent with the objectives described in paragraph (1), determine the typeof data center and data center equipment and facilities to be covered under the program;
+&emsp;&emsp;(C) consistent with the objectives described in paragraph (1), determine the type of data center and data center equipment and facilities to be covered under the program;
 
 &emsp;&emsp;(D) produce specifications, measurements, best practices, and benchmarks that will enable data center operators to make more informed decisions about the energy efficiency and costs of data centers, and that take into account—
 
@@ -58,7 +58,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;After the establishment of the program described in subsection (b), the Secretary and the Administrator shall jointly designate an information technology industry organization to consult with and to coordinate the program.
+&emsp;After the establishment of the program described in subsection (b), the Secretary and the Administrator shall jointly designate an information technology industry organizationto consult with and to coordinate the program.
 
 #### (2) Requirements
 

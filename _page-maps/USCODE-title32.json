@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title32",
- "package": "USCODE-2018-title32",
+ "package": "USCODE-2019-title32",
  "pieces": [
   {
    "id": "32_",
@@ -115,10 +115,14 @@
    "id": "32_105",
    "marks": [
     [
-     "L",
-     56,
-     "[Page 8]",
-     true
+     "I",
+     46,
+     [
+      [
+       157,
+       "[Page 8]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Organization/§ 00105 - Inspection.md",
@@ -140,10 +144,14 @@
    "id": "32_107",
    "marks": [
     [
-     "L",
-     80,
-     "[Page 9]",
-     true
+     "I",
+     58,
+     [
+      [
+       269,
+       "[Page 9]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Organization/§ 00107 - Availability of appropriations.md",
@@ -154,55 +162,55 @@
   },
   {
    "id": "32_108",
-   "marks": [],
-   "path": "Chapter 001 - Organization/§ 00108 - Forfeiture of Federal benefits.md",
-   "printed_pages": [
-    9,
-    9
-   ]
-  },
-  {
-   "id": "32_109",
    "marks": [
     [
      "I",
-     2,
+     20,
      [
       [
-       133,
+       375,
        "[Page 10]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 001 - Organization/§ 00109 - Maintenance of other troops.md",
+   "path": "Chapter 001 - Organization/§ 00108 - Forfeiture of Federal benefits.md",
    "printed_pages": [
     9,
     10
    ]
   },
   {
-   "id": "32_110",
+   "id": "32_109",
    "marks": [],
-   "path": "Chapter 001 - Organization/§ 00110 - Regulations.md",
+   "path": "Chapter 001 - Organization/§ 00109 - Maintenance of other troops.md",
    "printed_pages": [
     10,
     10
    ]
   },
   {
-   "id": "32_111",
+   "id": "32_110",
    "marks": [
     [
      "L",
-     6,
+     4,
      "[Page 11]",
      true
     ]
    ],
-   "path": "Chapter 001 - Organization/§ 00111 - Suspension of certain provisions of this title.md",
+   "path": "Chapter 001 - Organization/§ 00110 - Regulations.md",
    "printed_pages": [
     10,
+    11
+   ]
+  },
+  {
+   "id": "32_111",
+   "marks": [],
+   "path": "Chapter 001 - Organization/§ 00111 - Suspension of certain provisions of this title.md",
+   "printed_pages": [
+    11,
     11
    ]
   },
@@ -210,20 +218,24 @@
    "id": "32_112",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 12]",
-     true
+     "I",
+     28,
+     [
+      [
+       91,
+       "[Page 12]"
+      ]
+     ]
     ],
     [
      "L",
-     104,
+     98,
      "[Page 13]",
      true
     ],
     [
      "L",
-     184,
+     166,
      "[Page 14]",
      true
     ]
@@ -238,10 +250,14 @@
    "id": "32_113",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 15]",
-     true
+     "I",
+     4,
+     [
+      [
+       83,
+       "[Page 15]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Organization/§ 00113 - Federal financial assistance for support of additional duties assigned to the Army National Guard.md",
@@ -264,10 +280,10 @@
    "marks": [
     [
      "I",
-     26,
+     8,
      [
       [
-       255,
+       86,
        "[Page 16]"
       ]
      ]
@@ -283,14 +299,10 @@
    "id": "32_-ch3",
    "marks": [
     [
-     "I",
-     73,
-     [
-      [
-       157,
-       "[Page 17]"
-      ]
-     ]
+     "L",
+     53,
+     "[Page 17]",
+     true
     ]
    ],
    "path": "Chapter 003 - Personnel/README.md",
@@ -322,7 +334,7 @@
    "marks": [
     [
      "L",
-     42,
+     6,
      "[Page 18]",
      true
     ]
@@ -347,10 +359,10 @@
    "marks": [
     [
      "I",
-     38,
+     14,
      [
       [
-       107,
+       185,
        "[Page 19]"
       ]
      ]
@@ -366,10 +378,14 @@
    "id": "32_307",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 20]",
-     true
+     "I",
+     18,
+     [
+      [
+       381,
+       "[Page 20]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Personnel/§ 00307 - Federal recognition of officers examination; certificate of eligibility.md",
@@ -383,7 +399,7 @@
    "marks": [
     [
      "L",
-     36,
+     8,
      "[Page 21]",
      true
     ]
@@ -407,10 +423,14 @@
    "id": "32_310",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 22]",
-     true
+     "I",
+     30,
+     [
+      [
+       274,
+       "[Page 22]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Personnel/§ 00310 - Federal recognition of National Guard officers automatic recognition.md",
@@ -442,10 +462,10 @@
    "marks": [
     [
      "I",
-     10,
+     6,
      [
       [
-       103,
+       92,
        "[Page 23]"
       ]
      ]
@@ -461,14 +481,10 @@
    "id": "32_315",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       958,
-       "[Page 24]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 24]",
+     true
     ]
    ],
    "path": "Chapter 003 - Personnel/§ 00315 - Detail of regular members of Army and Air Force to duty with National Guard.md",
@@ -497,30 +513,26 @@
   },
   {
    "id": "32_[318_to_321",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 25]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Personnel/§ 00318 to 321 - Repealed. Pub. L. 99–661, div. A, title VI, §604(f)(2)(A), Nov. 14, 1986, 100 Stat. 3878.md",
    "printed_pages": [
     24,
-    24
+    25
    ]
   },
   {
    "id": "32_322",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       94,
-       "[Page 25]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Personnel/§ 00322 - Discharge of enlisted members.md",
    "printed_pages": [
-    24,
+    25,
     25
    ]
   },
@@ -529,7 +541,7 @@
    "marks": [
     [
      "L",
-     96,
+     66,
      "[Page 26]",
      true
     ]
@@ -542,84 +554,84 @@
   },
   {
    "id": "32_324",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     52,
+     "[Page 27]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Personnel/§ 00324 - Discharge of officers; termination of appointment.md",
    "printed_pages": [
     26,
-    26
+    27
    ]
   },
   {
    "id": "32_325",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       92,
-       "[Page 27]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Personnel/§ 00325 - Relief from National Guard duty when ordered to active duty.md",
    "printed_pages": [
-    26,
+    27,
     27
    ]
   },
   {
    "id": "32_326",
-   "marks": [],
-   "path": "Chapter 003 - Personnel/§ 00326 - Courts-martial of National Guard not in Federal service composition, jurisdiction, and procedures.md",
-   "printed_pages": [
-    27,
-    27
-   ]
-  },
-  {
-   "id": "32_327",
    "marks": [
     [
      "I",
-     12,
+     24,
      [
       [
-       91,
+       107,
        "[Page 28]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 003 - Personnel/§ 00327 - Courts-martial of National Guard not in Federal service convening authority.md",
+   "path": "Chapter 003 - Personnel/§ 00326 - Courts-martial of National Guard not in Federal service composition, jurisdiction, and procedures.md",
    "printed_pages": [
     27,
     28
    ]
   },
   {
-   "id": "32_328",
+   "id": "32_327",
    "marks": [],
-   "path": "Chapter 003 - Personnel/§ 00328 - Active Guard and Reserve duty Governor's authority.md",
+   "path": "Chapter 003 - Personnel/§ 00327 - Courts-martial of National Guard not in Federal service convening authority.md",
    "printed_pages": [
     28,
     28
    ]
   },
   {
-   "id": "32_[329_to_333",
+   "id": "32_328",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 29]",
-     true
+     "I",
+     8,
+     [
+      [
+       83,
+       "[Page 29]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 003 - Personnel/§ 00329 to 333 - Repealed. Pub. L. 107–314, div. A, title V, §512(c)(1), Dec. 2, 2002, 116 Stat. 2537.md",
+   "path": "Chapter 003 - Personnel/§ 00328 - Active Guard and Reserve duty Governor's authority.md",
    "printed_pages": [
     28,
+    29
+   ]
+  },
+  {
+   "id": "32_[329_to_333",
+   "marks": [],
+   "path": "Chapter 003 - Personnel/§ 00329 to 333 - Repealed. Pub. L. 107–314, div. A, title V, §512(c)(1), Dec. 2, 2002, 116 Stat. 2537.md",
+   "printed_pages": [
+    29,
     29
    ]
   },
@@ -654,17 +666,21 @@
    "id": "32_501",
    "marks": [
     [
-     "L",
-     62,
-     "[Page 30]",
-     true
+     "I",
+     40,
+     [
+      [
+       90,
+       "[Page 30]"
+      ]
+     ]
     ],
     [
      "I",
-     146,
+     132,
      [
       [
-       204,
+       525,
        "[Page 31]"
       ]
      ]
@@ -681,7 +697,7 @@
    "marks": [
     [
      "L",
-     46,
+     38,
      "[Page 32]",
      true
     ]
@@ -696,14 +712,10 @@
    "id": "32_503",
    "marks": [
     [
-     "I",
-     38,
-     [
-      [
-       98,
-       "[Page 33]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 33]",
+     true
     ]
    ],
    "path": "Chapter 005 - Training/§ 00503 - Participation in field exercises.md",
@@ -723,30 +735,30 @@
   },
   {
    "id": "32_505",
-   "marks": [],
-   "path": "Chapter 005 - Training/§ 00505 - Army and Air Force schools and field exercises.md",
-   "printed_pages": [
-    33,
-    33
-   ]
-  },
-  {
-   "id": "32_506",
    "marks": [
     [
      "I",
-     2,
+     30,
      [
       [
-       92,
+       158,
        "[Page 34]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 005 - Training/§ 00506 - Assignment and detail of members of Regular Army or Regular Air Force for instruction of National Guard.md",
+   "path": "Chapter 005 - Training/§ 00505 - Army and Air Force schools and field exercises.md",
    "printed_pages": [
     33,
+    34
+   ]
+  },
+  {
+   "id": "32_506",
+   "marks": [],
+   "path": "Chapter 005 - Training/§ 00506 - Assignment and detail of members of Regular Army or Regular Air Force for instruction of National Guard.md",
+   "printed_pages": [
+    34,
     34
    ]
   },
@@ -761,42 +773,43 @@
   },
   {
    "id": "32_508",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     34,
+     "[Page 35]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Training/§ 00508 - Assistance for certain youth and charitable organizations.md",
    "printed_pages": [
     34,
-    34
+    35
    ]
   },
   {
    "id": "32_509",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       76,
-       "[Page 35]"
-      ]
-     ]
-    ],
-    [
      "L",
-     76,
+     64,
      "[Page 36]",
      true
     ],
     [
-     "L",
-     158,
-     "[Page 37]",
-     true
+     "I",
+     134,
+     [
+      [
+       335,
+       "[Page 37]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Training/§ 00509 - National Guard Youth Challenge Program of opportunities for civilian youth.md",
    "printed_pages": [
-    34,
+    35,
     37
    ]
   },
@@ -804,10 +817,14 @@
    "id": "32_-ch7",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 38]",
-     true
+     "I",
+     7,
+     [
+      [
+       64,
+       "[Page 38]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 007 - Service, Supply, and Procurement/README.md",
@@ -827,26 +844,26 @@
   },
   {
    "id": "32_702",
-   "marks": [],
-   "path": "Chapter 007 - Service, Supply, and Procurement/§ 00702 - Issue of supplies.md",
-   "printed_pages": [
-    38,
-    38
-   ]
-  },
-  {
-   "id": "32_703",
    "marks": [
     [
      "L",
-     6,
+     46,
      "[Page 39]",
      true
     ]
    ],
-   "path": "Chapter 007 - Service, Supply, and Procurement/§ 00703 - Purchases of supplies by States from Army or Air Force.md",
+   "path": "Chapter 007 - Service, Supply, and Procurement/§ 00702 - Issue of supplies.md",
    "printed_pages": [
     38,
+    39
+   ]
+  },
+  {
+   "id": "32_703",
+   "marks": [],
+   "path": "Chapter 007 - Service, Supply, and Procurement/§ 00703 - Purchases of supplies by States from Army or Air Force.md",
+   "printed_pages": [
+    39,
     39
    ]
   },
@@ -861,30 +878,26 @@
   },
   {
    "id": "32_705",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 40]",
+     true
+    ]
+   ],
    "path": "Chapter 007 - Service, Supply, and Procurement/§ 00705 - Purchase of uniforms and equipment by officers of National Guard from Army or Air Force.md",
    "printed_pages": [
     39,
-    39
+    40
    ]
   },
   {
    "id": "32_706",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       90,
-       "[Page 40]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Service, Supply, and Procurement/§ 00706 - Return of arms and equipment upon relief from Federal service.md",
    "printed_pages": [
-    39,
+    40,
     40
    ]
   },
@@ -901,14 +914,10 @@
    "id": "32_708",
    "marks": [
     [
-     "I",
-     80,
-     [
-      [
-       381,
-       "[Page 41]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 41]",
+     true
     ]
    ],
    "path": "Chapter 007 - Service, Supply, and Procurement/§ 00708 - Property and fiscal officers.md",
@@ -922,97 +931,105 @@
    "marks": [
     [
      "I",
-     54,
+     40,
      [
       [
-       186,
+       185,
        "[Page 42]"
       ]
      ]
     ],
     [
-     "L",
-     138,
-     "[Page 43]",
-     true
-    ],
-    [
-     "L",
-     204,
-     "[Page 44]",
-     true
+     "I",
+     126,
+     [
+      [
+       466,
+       "[Page 43]"
+      ]
+     ]
     ],
     [
      "I",
-     266,
+     190,
      [
       [
-       93,
+       110,
+       "[Page 44]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     248,
+     [
+      [
+       92,
        "[Page 45]"
       ]
      ]
     ],
     [
+     "I",
+     306,
+     [
+      [
+       480,
+       "[Page 46]"
+      ]
+     ]
+    ],
+    [
      "L",
-     318,
-     "[Page 46]",
+     388,
+     "[Page 47]",
      true
     ]
    ],
    "path": "Chapter 007 - Service, Supply, and Procurement/§ 00709 - Technicians employment, use, status.md",
    "printed_pages": [
     41,
-    46
+    47
    ]
   },
   {
    "id": "32_710",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       275,
-       "[Page 47]"
-      ]
-     ]
-    ],
-    [
      "L",
-     98,
+     28,
      "[Page 48]",
      true
     ]
    ],
    "path": "Chapter 007 - Service, Supply, and Procurement/§ 00710 - Accountability for property issued to the National Guard.md",
    "printed_pages": [
-    46,
+    47,
     48
    ]
   },
   {
    "id": "32_711",
-   "marks": [],
-   "path": "Chapter 007 - Service, Supply, and Procurement/§ 00711 - Disposition of obsolete or condemned property.md",
-   "printed_pages": [
-    48,
-    48
-   ]
-  },
-  {
-   "id": "32_712",
    "marks": [
     [
      "L",
-     28,
+     4,
      "[Page 49]",
      true
     ]
    ],
-   "path": "Chapter 007 - Service, Supply, and Procurement/§ 00712 - Disposition of proceeds of condemned stores issued to National Guard.md",
+   "path": "Chapter 007 - Service, Supply, and Procurement/§ 00711 - Disposition of obsolete or condemned property.md",
    "printed_pages": [
     48,
+    49
+   ]
+  },
+  {
+   "id": "32_712",
+   "marks": [],
+   "path": "Chapter 007 - Service, Supply, and Procurement/§ 00712 - Disposition of proceeds of condemned stores issued to National Guard.md",
+   "printed_pages": [
+    49,
     49
    ]
   },
@@ -1027,46 +1044,58 @@
   },
   {
    "id": "32_714",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     58,
+     [
+      [
+       383,
+       "[Page 50]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 007 - Service, Supply, and Procurement/§ 00714 - Final settlement of accounts deceased members.md",
    "printed_pages": [
     49,
-    49
+    50
    ]
   },
   {
    "id": "32_715",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       95,
-       "[Page 50]"
-      ]
-     ]
-    ],
-    [
      "L",
-     70,
+     38,
      "[Page 51]",
      true
     ]
    ],
    "path": "Chapter 007 - Service, Supply, and Procurement/§ 00715 - Property loss; personal injury or death activities under certain sections of this title.md",
    "printed_pages": [
-    49,
+    50,
     51
    ]
   },
   {
    "id": "32_716",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     36,
+     [
+      [
+       164,
+       "[Page 52]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 007 - Service, Supply, and Procurement/§ 00716 - Claims for overpayment of pay and allowances, and travel and transportation allowances.md",
    "printed_pages": [
     51,
-    51
+    52
    ]
   },
   {
@@ -1074,27 +1103,16 @@
    "marks": [],
    "path": "Chapter 007 - Service, Supply, and Procurement/§ 00717 - Repealed. Pub. L. 109–163, div. A, title V, §589(b)(2), Jan. 6, 2006, 119 Stat. 3279.md",
    "printed_pages": [
-    51,
-    51
+    52,
+    52
    ]
   },
   {
    "id": "32_-ch9",
-   "marks": [
-    [
-     "I",
-     7,
-     [
-      [
-       32,
-       "[Page 52]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Homeland Defense Activities/README.md",
    "printed_pages": [
-    51,
+    52,
     52
    ]
   },
@@ -1127,11 +1145,18 @@
   },
   {
    "id": "32_904",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 53]",
+     true
+    ]
+   ],
    "path": "Chapter 009 - Homeland Defense Activities/§ 00904 - Homeland defense duty.md",
    "printed_pages": [
     52,
-    52
+    53
    ]
   },
   {
@@ -1139,23 +1164,16 @@
    "marks": [],
    "path": "Chapter 009 - Homeland Defense Activities/§ 00905 - Funding assistance.md",
    "printed_pages": [
-    52,
-    52
+    53,
+    53
    ]
   },
   {
    "id": "32_906",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 53]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Homeland Defense Activities/§ 00906 - Requests for funding assistance.md",
    "printed_pages": [
-    52,
+    53,
     53
    ]
   },
@@ -1178,6 +1196,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2018-title32 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2019-title32 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 32 - National Guard"
 }

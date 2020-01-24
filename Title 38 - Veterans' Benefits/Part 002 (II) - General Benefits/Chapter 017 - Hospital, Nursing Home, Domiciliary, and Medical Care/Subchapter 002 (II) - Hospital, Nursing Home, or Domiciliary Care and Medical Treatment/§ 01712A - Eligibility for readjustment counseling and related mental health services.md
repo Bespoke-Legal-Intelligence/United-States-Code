@@ -50,7 +50,7 @@
 
 (d) The Under Secretary for Health may provide for such training of professional, paraprofessional, and lay personnel as is necessary to carry out this section effectively, and, in carrying out this section, may utilize the services of paraprofessionals, individuals who are volunteers working without compensation, and individuals who are veteran-students (as described in section 3485 of this title) in initial intake and screening activities.
 
-(e)(1) In furnishing counseling and related mental health services under subsections (a) and (b) of this section, the Secretary shall have available the same authority to enter into contracts with private facilities that is available to the Secretary (under sections 1703(a)(2) and 1710(a)(1)(B) of this title) in furnishing medical services to veterans suffering from total service-connected disabilities.
+(e)(1) In furnishing counseling and related mental health services under subsections (a) and (b) of this section, the Secretary shall have available the same authority to enter into contracts or agreements with private facilities that is available to the Secretary in furnishing medical services to veterans suffering from total service-connected disabilities.
 
 (2) Before furnishing counseling or related mental health services described in subsections (a) and (b) of this section through a contract facility, as authorized by this subsection, the Secretary shall approve (in accordance with criteria which the Secretary shall prescribe by regulation) the quality and effectiveness of the program operated by such facility for the purpose for which the counseling or services are to be furnished.
 
@@ -68,7 +68,7 @@
 
 &emsp;(1) The term "Vet Center" means a facility which is operated by the Department for the provision of services under this section and which is situated apart from Department general health care facilities.
 
-&emsp;(2) The term "Department general health-care facility" means a health-care facility which is operated by the Department for the furnishing of health-care services under thischapter, not limited to services provided through the program established under this section.
+&emsp;(2) The term "Department general health-care facility" means a health-care facility which is operated by the Department for the furnishing of health-care services under this chapter, not limited to services provided through the program established under this section.
 
 &emsp;(3) The term "family member", with respect to a veteran or member of the Armed Forces, means an individual who—
 
@@ -87,16 +87,6 @@
 &emsp;&emsp;(B) lives with the veteran or member but is not a member of the family of the veteran or member.
 
 (Added Pub. L. 96–22, title I, §103(a)(1), June 13, 1979, 93 Stat. 48, §612A; amended Pub. L. 96–128, title V, §501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, §104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, §101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, §204, title VII, §702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, §107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, §1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, §334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, §14(b)(11), June 13, 1991, 105 Stat. 283; renumbered §1712A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(5), title III, §331, Oct. 9, 1996, 110 Stat. 3180, 3197; Pub. L. 106–117, title II, §205(a), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–135, title II, §208(e)(3)(A), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 110–181, div. A, title XVII, §1708(b), Jan. 28, 2008, 122 Stat. 494; Pub. L. 110–387, title IX, §901(a)(1), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–163, title IV, §402, May 5, 2010, 124 Stat. 1156; Pub. L. 112–239, div. A, title VII, §727, Jan. 2, 2013, 126 Stat. 1809; Pub. L. 115–182, title I, §144(a)(1)(B), June 6, 2018, 132 Stat. 1430.)
-
-#### Amendment of Subsection (e)(1)
-
-<i>Pub. L. 115–182, title I, §144(a)(1)(B), (b), June 6, 2018, 132 Stat. 1430, provided that, effective on the date described in section 101(b), set out as an Effective Date of 2018 Amendment note under section 1703 of this title, subsection (e)(1) of this section is amended as follows:</i>
-
-<i>(1) by inserting "or agreements" after "contracts"; and</i>
-
-<i>(2) by striking "(under sections 1703(a)(2) and 1710(a)(1)(B) of this title)".</i>
-
-<i>See 2018 Amendment note below.</i>
 
 #### References in Text
 
@@ -762,7 +752,7 @@ Compliance With Department Protocols.—Each community mental health center, fac
 
 "(g)
 
-Provision of Clinical Information.—Each community mental health center, facility of the Indian Health Service, or other entity participating in the pilot program under subsection (b) shall, in a timelyfashion, provide the Secretary with such clinical information on each veteran for whom such health center or facility provides mental health services under the pilot program as the Secretary shall require.
+Provision of Clinical Information.—Each community mental health center, facility of the Indian Health Service, or other entity participating in the pilot program under subsection (b) shall, in a timely fashion, provide the Secretary with such clinical information on each veteran for whom such health center or facility provides mental health services under the pilot program as the Secretary shall require.
 
 "(h)
 
@@ -1198,7 +1188,7 @@ Contract Counseling Services.—(1) Subject to paragraphs (2) and (4), a mental 
 
 "(B) The Secretary may waive the prohibition referred to in subparagraph (A) for locations (as determined by the Secretary) in which the Secretary is unable to obtain the assessment referred to in that subparagraph from a mental health professional other than the mental health professional with whom the Secretary enters into contracts under subsection (d)(1)(C) for the furnishing of counseling services.
 
-"(3) The Secretary shall reimburse mental health professionals for the reasonable cost (as determined by the Secretary) of furnishing counseling services under paragraph (1). In the event of the disapproval of a treatment plan of a person submitted by a mental health professional under paragraph (1)(B)(i), the Secretary shall reimburse the mental health professional for the reasonable cost (as so determined) of furnishing counseling services to the person for the period beginning on the date of the commencement of such services and ending on the date of the disapproval.
+"(3) The Secretary shall reimburse mental health professionals for the reasonable cost (as determined by the Secretary) of furnishing counseling services under paragraph (1). In the event of the disapproval of a treatment plan of a person submitted by a mental healthprofessional under paragraph (1)(B)(i), the Secretary shall reimburse the mental health professional for the reasonable cost (as so determined) of furnishing counseling services to the person for the period beginning on the date of the commencement of such services and ending on the date of the disapproval.
 
 "(4) The Secretary may authorize the furnishing of counseling in an individual case for a period shorter than the 90-day period specified in subparagraph (B) or (C) of paragraph (1) and, upon further consideration, extend the shorter period to the full 90 days.
 
@@ -1346,7 +1336,7 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 &emsp;"(G) A description of the steps taken, plans made (and a timetable for their execution), and resources to be applied to implement subsections (b) and (c).
 
-&emsp;"(H) The assessment of the Administrator \[now Secretary\] of the capacity of the Department to meet in all geographic areas of the United States the needs described in subparagraph (C) and any plans and timetable for increasing that capacity (including the costs of such action).
+&emsp;"(H) The assessment of the Administrator \[now Secretary\] of the capacity of the Department to meet in all geographic areas of the United States the needs described in subparagraph (C) and any plans andtimetable for increasing that capacity (including the costs of such action).
 
 "(2) Not later than February 1, 2001, and May 1 of each year through 2016, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report containing information updating the reports submitted under this subsection since the enactment of the Veterans' Millennium Health Care and Benefits Act \[Nov. 30, 1999\]."
 
@@ -1364,7 +1354,7 @@ Ex. Ord. No. 13822, Jan. 9, 2018, 83 F.R. 1513, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. It is the policy of the United States to support the health and well-being of uniformed service members and veterans. After serving our Nation, veterans deserve long, fulfilling civilian lives. Accordingly, our Government must improve mental healthcare and access to suicide prevention resources available to veterans, particularly during the critical 1-year period following the transition from uniformed service to civilian life. Most veterans' experience in uniform increases their resilience and broadens the skills they bring to the civilian workforce. Unfortunately, in some cases within the first year following transition, some veterans can have difficulties reintegrating into civilian life after their military experiences and some tragically take their own lives. Veterans, in their first year of separation from uniformed service, experience suicide rates approximately two times higher than the overall veteran suicide rate. To help prevent thesetragedies, all veterans should have seamless access to high-quality mental healthcare and suicide prevention resources as they transition, with an emphasis on the 1-year period following separation.
+Section 1. <i>Policy</i>. It is the policy of the United States to support the health and well-being of uniformed service members and veterans. After serving our Nation, veterans deserve long, fulfilling civilian lives. Accordingly, our Government must improve mental healthcare and access to suicide prevention resources available to veterans, particularly during the critical 1-year period following the transition from uniformed service to civilian life. Most veterans' experience in uniform increases their resilience and broadens the skills they bring to the civilian workforce. Unfortunately, in some cases within the first year following transition, some veterans can have difficulties reintegrating into civilian life after their military experiences and some tragically take their own lives. Veterans, in their first year of separation from uniformed service, experience suicide rates approximately two times higher than the overall veteran suicide rate. To help prevent these tragedies, all veterans should have seamless access to high-quality mental healthcare and suicide prevention resources as they transition, with an emphasis on the 1-year period following separation.
 
 Sec. 2. <i>Implementation</i>. (a) In furtherance of the policy described in section 1 of this order, I hereby direct the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Homeland Security to collaborate to address the complex challenges faced by our transitioning uniformed service members and veterans.
 

@@ -2,7 +2,7 @@
 
 #### (a) Availability of services regardless of ability to pay or payment source
 
-An entity to which a Corps member is assigned shall not deny requested health care services, and shall not discriminate in the provision of services to an individual—
+An entity to which a Corps member is assigned shall not deny requested health care services,and shall not discriminate in the provision of services to an individual—
 
 &emsp;(1) because the individual is unable to pay for the services; or
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, the Attorney General shall ensure access to thenational crime information databases (as defined in section 534 of title 28) by—
+Notwithstanding any other provision of law, the Attorney General shall ensure access to the national crime information databases (as defined in section 534 of title 28) by—
 
 &emsp;(1) the National Center for Missing and Exploited Children, to be used only within the scope of the Center's duties and responsibilities under Federal law to assist or support law enforcement agencies in administration of criminal justice functions; and
 

@@ -194,7 +194,7 @@ Definitions.—For purposes of this paragraph—
 
 Exception for certain distribution of partnership interests.—The amendments made by this section shall not apply to any distribution before February 1, 1986, of an interest in a partnership the interests of which were being traded on a national securities exchange on March 7, 1984, if—
 
-&emsp;"(A) such interest was owned by the distributing corporation (or any member of an affiliated group within the meaning of section 1504(a) of such Code of which the distributing corporation was a member) on March 7, 1984,
+&emsp;"(A) such interest was owned by the distributing corporation (or any member of an affiliated group within the meaning of section 1504(a) of such Code ofwhich the distributing corporation was a member) on March 7, 1984,
 
 &emsp;"(B) the distributing corporation (or any such affiliated member) owned more than 80 percent of the interests in such partnership on March 7, 1984, and
 

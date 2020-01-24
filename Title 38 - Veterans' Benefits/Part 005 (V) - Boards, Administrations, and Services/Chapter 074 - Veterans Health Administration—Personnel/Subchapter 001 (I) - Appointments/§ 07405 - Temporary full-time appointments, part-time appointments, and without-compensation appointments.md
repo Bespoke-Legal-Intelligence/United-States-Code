@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) Librarians.
 
-&emsp;&emsp;(D) Other professional, clerical, technical, and unskilled personnel (including interns,residents, trainees, and students in medical support programs).
+&emsp;&emsp;(D) Other professional, clerical, technical, and unskilled personnel (including interns, residents, trainees, and students in medical support programs).
 
 &emsp;(2) On a fee basis, persons in the following positions:
 

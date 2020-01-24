@@ -38,11 +38,11 @@
 
 (i)(1) If the Government Accountability Office audits any financial statement or related schedule which is prepared under section 3515 by an executive agency (or component thereof) for a fiscal year beginning on or after October 1, 2009, such executive agency (or component) shall reimburse the Government Accountability Office for the cost of such audit, if the Government Accountability Office audited the statement or schedule of such executive agency (or component) for fiscal year 2007.
 
-(2) Any executive agency (or component thereof) that prepares a financial statement under section 3515 for a fiscal year beginning on or after October 1, 2009, and that requests, with the concurrence of the Inspector General of such agency, the Government Accountability Office to conduct the audit of such statement or any related schedule required by section 3521 may reimburse the Government Accountability Office for the cost of such audit.
+(2) Any executive agency (or component thereof) that prepares a financial statement under section 3515 for a fiscal year beginning on or after October 1, 2009, and that requests, with the concurrence of the Inspector General of such agency, the Government Accountability Office to conduct the audit of such statement or anyrelated schedule required by section 3521 may reimburse the Government Accountability Office for the cost of such audit.
 
 (3) For the audits conducted under paragraphs (1) and (2), the Government Accountability Office shall consult prior to the initiation of the audit with the relevant executive agency (or component) and the Inspector General of such agency on the scope, terms, and cost of such audit.
 
-(4) Any reimbursement under paragraph (1) or (2) shall be deposited to a special account in theTreasury and shall be available to the Government Accountability Office for such purposes and in such amounts as are specified in annual appropriations Acts.
+(4) Any reimbursement under paragraph (1) or (2) shall be deposited to a special account in the Treasury and shall be available to the Government Accountability Office for such purposes and in such amounts as are specified in annual appropriations Acts.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 961; Pub. L. 101–576, title III, §304(a), Nov. 15, 1990, 104 Stat. 2852; Pub. L. 103–356, title IV, §405(b), Oct. 13, 1994, 108 Stat. 3416; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §805(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392; Pub. L. 106–531, §4(b), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 110–323, §6(a), Sept. 22, 2008, 122 Stat. 3547.)
 
@@ -132,13 +132,13 @@ Pub. L. 105–206, title I, §1103(d), July 22, 1998, 112 Stat. 709, provided th
 
 &emsp;"(2) the Treasury Inspector General for Tax Administration shall—
 
-&emsp;&emsp;"(A) audit that portion of each financial statement referred to under paragraph (1)(A) that relates to custodial and administrative accounts of the Internal Revenue Service; and
+&emsp;&emsp;"(A) audit that portion of each financial statement referred to under paragraph (1)(A) that relatesto custodial and administrative accounts of the Internal Revenue Service; and
 
 &emsp;&emsp;"(B) prepare that portion of each report referred to under paragraph (1)(B) that relates to custodial and administrative accounts of the Internal Revenue Service."
 
 #### Waiver of Requirements
 
-Pub. L. 101–576, title III, §304(b), Nov. 15, 1990, 104 Stat. 2853, provided that: "The Director of the Office of Management and Budget may waive application of subsections (e) and (f) of section 3521 of title 31, United States Code, as amended by this section, to a financialstatement submitted by an agency for fiscal years 1990 and 1991."
+Pub. L. 101–576, title III, §304(b), Nov. 15, 1990, 104 Stat. 2853, provided that: "The Director of the Office of Management and Budget may waive application of subsections (e) and (f) of section 3521 of title 31, United States Code, as amended by this section, to a financial statement submitted by an agency for fiscal years 1990 and 1991."
 
 #### Time Limit for Resolving Pending and New Audits
 

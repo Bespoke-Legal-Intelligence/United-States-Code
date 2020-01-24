@@ -72,7 +72,7 @@ The Attorney General and the Secretary may, to the extent necessary to help carr
 
 #### (A) First method
 
-&emsp;&emsp;The amount under this subparagraph shall, for any fiscal year, be equal to the minimum amount necessary to offset the additional costs to the retirement systems under title 5 (payable out of the Civil Service Retirementand Disability Fund) resulting from the voluntary separation of the employees described in paragraph (3), as determined under regulations of the Office of Personnel Management.
+&emsp;&emsp;The amount under this subparagraph shall, for any fiscal year, be equal to the minimum amount necessary to offset the additional costs to the retirement systems under title 5 (payable out of the Civil Service Retirement and Disability Fund) resulting from the voluntary separation of the employees described in paragraph (3), as determined under regulations of the Office of Personnel Management.
 
 #### (B) Second method
 
@@ -84,7 +84,7 @@ The Attorney General and the Secretary may, to the extent necessary to help carr
 
 #### (4) Final basic pay defined
 
-&emsp;In this subsection, the term "final basic pay" means, with respect to an employee, the total amount of basic pay which would be payable for a year of service by such employee, computed using the employee's final rate of basic pay, and, if last serving on other than a full-time basis, with appropriate adjustment therefor.
+&emsp;In this subsection, the term "final basic pay" means, with respect to an employee, the total amount of basic pay which would be payable for a year of service by such employee, computed using the employee's final rate ofbasic pay, and, if last serving on other than a full-time basis, with appropriate adjustment therefor.
 
 #### (e) Effect of subsequent employment with the Government
 
@@ -112,7 +112,7 @@ This chapter, referred to in subsec. (b)(1), was in the original "this Act", mea
 
 Bureau of Border Security, referred to in subsec. (a)(2)(B), changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

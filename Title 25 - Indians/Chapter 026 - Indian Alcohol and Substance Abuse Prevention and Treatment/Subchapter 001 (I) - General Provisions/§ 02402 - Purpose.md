@@ -2,7 +2,7 @@
 
 It is the purpose of this chapter to—
 
-&emsp;(1) authorize and develop a comprehensive, coordinated attack upon the illegal narcotics traffic in Indian country and the deleterious impact of alcohol and substance abuse upon Indian tribes and their members,
+&emsp;(1) authorize and develop a comprehensive, coordinated attack upon the illegal narcotics traffic in Indian country and the deleteriousimpact of alcohol and substance abuse upon Indian tribes and their members,
 
 &emsp;(2) provide needed direction and guidance to those Federal agencies responsible for Indian programs to identify and focus existing programs and resources, including those made available by this chapter, upon this problem,
 

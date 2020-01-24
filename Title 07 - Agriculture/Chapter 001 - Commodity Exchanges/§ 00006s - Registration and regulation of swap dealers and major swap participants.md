@@ -426,7 +426,7 @@ Each registered swap dealer and major swap participant at all times shall comply
 
 &emsp;&emsp;A compliance report under subparagraph (A) shall—
 
-&emsp;&emsp;&emsp;(i) accompany each appropriate financial report of the swap dealer or major swap participant that is required to be furnished to the Commission pursuant to this section; and
+&emsp;&emsp;&emsp;(i) accompany each appropriate financial report of the swap dealer or major swapparticipant that is required to be furnished to the Commission pursuant to this section; and
 
 &emsp;&emsp;&emsp;(ii) include a certification that, under penalty of law, the compliance report is accurate and complete.
 
@@ -492,7 +492,7 @@ Section and amendment by Pub. L. 111–203 effective on the later of 360 days af
 
 #### Implementation
 
-Pub. L. 114–1, title III, §303, Jan. 12, 2015, 129 Stat. 28, provided that: "The amendments made by this title tothe Commodity Exchange Act \[amending this section\] shall be implemented—
+Pub. L. 114–1, title III, §303, Jan. 12, 2015, 129 Stat. 28, provided that: "The amendments made by this title to the Commodity Exchange Act \[amending this section\] shall be implemented—
 
 &emsp;"(1) without regard to—
 

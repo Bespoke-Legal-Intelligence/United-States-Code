@@ -54,7 +54,7 @@ Subsec. (b)(3) to (5). Pub. L. 96–180, §2(c)(3), added pars. (3) and (4) and 
 
 <b>1978</b>—Subsec. (a)(6), (7). Pub. L. 95–622 added par. (6) and redesignated former par. (6) as (7).
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–371 restructured provisions and inserted authorization for increased Federal commitment to research into the behavioral and biomedical etiology of alcohol abuse and alcoholism and the treatment and consequences of alcohol abuse and alcoholism.
+<b>1976</b>—Subsec. (b). Pub. L. 94–371 restructured provisions and inserted authorization for increased Federalcommitment to research into the behavioral and biomedical etiology of alcohol abuse and alcoholism and the treatment and consequences of alcohol abuse and alcoholism.
 
 #### Short Title of 1980 Amendment
 

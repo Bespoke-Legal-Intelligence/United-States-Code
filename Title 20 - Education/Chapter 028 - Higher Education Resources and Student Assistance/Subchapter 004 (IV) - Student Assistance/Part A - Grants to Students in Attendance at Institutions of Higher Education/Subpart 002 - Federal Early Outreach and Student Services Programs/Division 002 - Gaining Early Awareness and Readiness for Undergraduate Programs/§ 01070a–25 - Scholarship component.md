@@ -18,7 +18,7 @@
 
 #### (2) Exception
 
-&emsp;Notwithstanding paragraph (1), the Secretary may allow an eligible entity to use more than 50 percent of grant funds received under this division for such activities, if the eligible entity demonstrates that the eligible entity has another means of providing the students with the financial assistance described in this section and describes such means in the application submitted under section 1070a–23 of this title.
+&emsp;Notwithstanding paragraph (1), the Secretary may allow an eligible entity to usemore than 50 percent of grant funds received under this division for such activities, if the eligible entity demonstrates that the eligible entity has another means of providing the students with the financial assistance described in this section and describes such means in the application submitted under section 1070a–23 of this title.
 
 #### (c) Notification of eligibility
 
@@ -64,7 +64,7 @@ The maximum amount of a scholarship that an eligible student shall be eligible t
 
 #### (B) Nonparticipating entity
 
-&emsp;&emsp;Notwithstanding subparagraph (A), in the case of an eligible entity that does not receive assistance under this subpart for six fiscal years, the eligible entity shall returnany funds held in reserve under paragraph (1) that are not awarded or obligated to eligible students to the Secretary for distribution to other grantees under this division.
+&emsp;&emsp;Notwithstanding subparagraph (A), in the case of an eligible entity that does not receive assistance under this subpart for six fiscal years, the eligible entity shall return any funds held in reserve under paragraph (1) that are not awarded or obligated to eligible students to the Secretary for distribution to other grantees under this division.
 
 #### (f) Relation to other assistance
 

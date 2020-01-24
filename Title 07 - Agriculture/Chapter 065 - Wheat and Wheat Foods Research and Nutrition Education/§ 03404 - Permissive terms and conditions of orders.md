@@ -16,7 +16,7 @@ providing that processors, distributors of processed wheat, and end product manu
 
 #### (d) Assessment exemption
 
-providing for exemption of specified end products, or types or categories thereof, from the assessments required to be paid under section 3405of this title under such conditions and procedures as may be prescribed in the order or rules and regulations issued thereunder; and
+providing for exemption of specified end products, or types or categories thereof, from the assessments required to be paid under section 3405 of this title under such conditions and procedures as may be prescribed in the order or rules and regulations issued thereunder; and
 
 #### (e) Miscellaneous terms and conditions
 

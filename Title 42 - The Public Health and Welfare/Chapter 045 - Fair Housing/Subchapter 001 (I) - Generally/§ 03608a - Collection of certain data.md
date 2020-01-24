@@ -22,7 +22,7 @@ Section was enacted as part of the Housing and Community Development Act of 1987
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–66, §1071(e)(1), struck out "the Secretary of Housing and Urban Development and" before "the Secretary of Agriculture", "each" before "collect, not less than annually", and "involved" before "determines such collection".
+<b>1995</b>—Subsec. (a). Pub. L. 104–66, §1071(e)(1), struck out "the Secretary of Housing and Urban Developmentand" before "the Secretary of Agriculture", "each" before "collect, not less than annually", and "involved" before "determines such collection".
 
 Subsec. (b). Pub. L. 104–66, §1071(e)(2), substituted "The" for "The Secretary of Housing and Urban Development and the" before "Secretary of Agriculture" and struck out "each" before "include in the".
 

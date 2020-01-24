@@ -5,7 +5,7 @@
 | [480\.](%C2%A7%2000480%20-%20Reports%20to%20Congress%20submission%20in%20electronic%20form.md) | Reports to Congress: submission in electronic form. |
 | [481\.](%C2%A7%2000481%20-%20Racial%20and%20ethnic%20issues%3B%20gender%20issues%20surveys.md) | Racial and ethnic issues; gender issues: surveys. |
 | [481a.](%C2%A7%2000481a%20-%20Workplace%20and%20gender%20relations%20issues%20surveys%20of%20Department%20of%20Defense%20civilian%20employees.md) | Workplace and gender relations issues: surveys of Department of Defense civilian employees. |
-| [482\.](%C2%A7%2000482%20-%20Quarterly%20reports%20personnel%20and%20unit%20readiness.md) | Quarterly reports: personnel and unit readiness. |
+| [482\.](%C2%A7%2000482%20-%20Readiness%20reports.md) | Readiness reports. |
 | \[483. | Repealed.\] |
 | [484\.](%C2%A7%2000484%20-%20Quarterly%20cyber%20operations%20briefings.md) | Quarterly cyber operations briefings. |
 | [485\.](%C2%A7%2000485%20-%20Monthly%20counterterrorism%20operations%20briefings.md) | Monthly counterterrorism operations briefings. |
@@ -16,6 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title III, §361(c), Dec. 20, 2019, 133 Stat. 1327, added item 482 and struck out former item 482 "Quarterly reports: personnel and unit readiness".
 
 <b>2016</b>—Pub. L. 114–328, div. A, title X, §§1031(c), 1065(a)(2), Dec. 23, 2016, 130 Stat. 2389, 2410, substituted "Monthly counterterrorism operations briefings" for "Quarterly counterterrorism operations briefings" in item 485 and "Management and review of electromagnetic spectrum" for "Management of electromagnetic spectrum" in item 488.
 
@@ -51,6 +53,14 @@ Pub. L. 105–261, div. A, title III, §373(d)(2), Oct. 17, 1998, 112 Stat. 1992
 
 Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273, added item 452.
 
+#### Questions in Surveys Regarding Extremist Activity in the Workplace
+
+Pub. L. 116–92, div. A, title V, §593, Dec. 20, 2019, 133 Stat. 1415, provided that: "The Secretary of Defense shall include in appropriate surveys administered by the Department of Defense questions regarding whether respondents have ever—
+
+&emsp;"(1) experienced or witnessed extremist activity in the workplace; or
+
+&emsp;"(2) reported such activity."
+
 
 ---
 
@@ -59,7 +69,7 @@ Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273,
 - [&sect; 00480 - Reports to Congress submission in electronic form](%C2%A7%2000480%20-%20Reports%20to%20Congress%20submission%20in%20electronic%20form.md)
 - [&sect; 00481 - Racial and ethnic issues; gender issues surveys](%C2%A7%2000481%20-%20Racial%20and%20ethnic%20issues%3B%20gender%20issues%20surveys.md)
 - [&sect; 00481a - Workplace and gender relations issues surveys of Department of Defense civilian employees](%C2%A7%2000481a%20-%20Workplace%20and%20gender%20relations%20issues%20surveys%20of%20Department%20of%20Defense%20civilian%20employees.md)
-- [&sect; 00482 - Quarterly reports personnel and unit readiness](%C2%A7%2000482%20-%20Quarterly%20reports%20personnel%20and%20unit%20readiness.md)
+- [&sect; 00482 - Readiness reports](%C2%A7%2000482%20-%20Readiness%20reports.md)
 - [&sect; 00483 - Repealed. Pub. L. 113&#8211;66, div. A, title X, &sect;1084(a)(1)(A), Dec. 26, 2013, 127 Stat. 871](%C2%A7%2000483%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9366%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71084%28a%29%281%29%28A%29%2C%20Dec.%2026%2C%202013%2C%20127%20Stat.%20871.md)
 - [&sect; 00484 - Quarterly cyber operations briefings](%C2%A7%2000484%20-%20Quarterly%20cyber%20operations%20briefings.md)
 - [&sect; 00485 - Monthly counterterrorism operations briefings](%C2%A7%2000485%20-%20Monthly%20counterterrorism%20operations%20briefings.md)

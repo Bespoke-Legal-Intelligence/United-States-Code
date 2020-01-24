@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) a determination by the Commission, under section 1675(b) of this title, not to review a determination based upon changed circumstances,
 
-&emsp;&emsp;(C) a negative determination by the Commission, under section 1671b(a) or 1673b(a) of this title, as to whether there is reasonable indication of material injury, threat of material injury, or material retardation, or
+&emsp;&emsp;(C) a negative determination by the Commission, under section 1671b(a) or 1673b(a) of this title, as to whether there is reasonableindication of material injury, threat of material injury, or material retardation, or
 
 &emsp;&emsp;(D) a final determination by the administering authority or the Commission under section 1675(c)(3) of this title,
 
@@ -132,7 +132,7 @@
 
 #### (3) Remand for final disposition
 
-&emsp;If the final disposition of an action brought under this section is not in harmony with thepublished determination of the Secretary, the administering authority, or the Commission, the matter shall be remanded to the Secretary, the administering authority, or the Commission, as appropriate, for disposition consistent with the final disposition of the court.
+&emsp;If the final disposition of an action brought under this section is not in harmony with the published determination of the Secretary, the administering authority, or the Commission, the matter shall be remanded to the Secretary, the administering authority, or the Commission, as appropriate, for disposition consistent with the final disposition of the court.
 
 #### (d) Standing
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (ii) Subparagraph (B) actions
 
-&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary or permanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense parties affected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costsincurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
+&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary or permanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense parties affected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costs incurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
 
 #### (G) Panel record
 
@@ -342,7 +342,7 @@ For purposes of this section—
 
 #### (B) Application if subparagraph (A) held unconstitutional
 
-&emsp;&emsp;In the event that the provisions of subparagraph (A) are held unconstitutional under the provisions of subparagraphs (A) and (H) of paragraph (4), the provisions of this subparagraph shall take effect. In such event, the President is authorized on behalf of the United States to accept, as a whole, the decision of a binational panel or extraordinary challenge committee remanding the determination to the administering authority or the Commission within the period specified by the panel or committee. Upon acceptance by the President of such a decision, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with such decision. Any action taken by the President, the administering authority, or the Commission under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
+&emsp;&emsp;In the event that the provisions of subparagraph (A) are held unconstitutional under the provisions of subparagraphs (A) and (H) of paragraph (4), the provisions of this subparagraph shall take effect. In such event, the President is authorized on behalf of the United States to accept, as a whole, the decision of a binational panel or extraordinary challenge committee remanding the determination to the administering authority or the Commission within the period specified by the panel or committee. Upon acceptance by the President of such a decision, the administering authority or the Commission shall, within the period specified by the panel or committee, take actionnot inconsistent with such decision. Any action taken by the President, the administering authority, or the Commission under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
 
 #### (8) Requests for binational panel review
 
@@ -392,13 +392,13 @@ For purposes of this section—
 
 #### (A) Notice of suspension or termination of suspension of article 1904
 
-&emsp;&emsp;(i) Upon notification by the Trade Representative or the Government of a countrydescribed in subsection (f)(10)(A) or (B) that the operation of article 1904 of the NAFTA has been suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA, the United States Secretary shall publish in the Federal Register a notice of suspension of article 1904 of the NAFTA.
+&emsp;&emsp;(i) Upon notification by the Trade Representative or the Government of a country described in subsection (f)(10)(A) or (B) that the operation of article 1904 of the NAFTA has been suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA, the United States Secretary shall publish in the Federal Register a notice of suspension of article 1904 of the NAFTA.
 
 &emsp;&emsp;(ii) Upon notification by the Trade Representative or the Government of a country described in subsection (f)(10)(A) or (B) that the suspension of the operation of article 1904 of the NAFTA is terminated in accordance with paragraph 10 of article 1905 of the NAFTA, the United States Secretary shall publish in the Federal Register a notice of termination of suspension of article 1904 of the NAFTA.
 
 #### (B) Transfer of final determinations for judicial review upon suspension of article 1904
 
-&emsp;&emsp;If the operation of article 1904 of the NAFTA is suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA—
+&emsp;&emsp;If the operation of article 1904 of the NAFTA is suspended in accordance withparagraph 8(a) or 9 of article 1905 of the NAFTA—
 
 &emsp;&emsp;&emsp;(i) upon the request of an authorized person described in subparagraph (C), any final determination that is the subject of a binational panel review or an extraordinary challenge committee review shall be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a); or
 
@@ -460,7 +460,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (g)(4)(E), (F), are
 
 #### Codification
 
-In the original, section 1001(a) of Pub. L. 96–39 directed that this section, designated as section 516A, be added to title V of the Tariff Act of 1930, however, since a title V of the Tariff Act of 1930 has not been enacted, this section was added to title IV of the Tariff Act of 1930 to reflect the probable intent of Congress.
+In the original, section 1001(a) of Pub. L. 96–39 directed that this section, designated as section 516A, beadded to title V of the Tariff Act of 1930, however, since a title V of the Tariff Act of 1930 has not been enacted, this section was added to title IV of the Tariff Act of 1930 to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -600,7 +600,7 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a),\(c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -614,11 +614,11 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 Pub. L. 96–542, §3, Dec. 17, 1980, 94 Stat. 3210, provided that: "The amendments made by this Act \[amending this section and provisions set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure\] shall be effective as of November 1, 1980."
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of title 28.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending onor commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of title 28.
 
 #### Effective Date; Transitional Rules
 
-Section 1002 of title X of Pub. L. 96–39 provided that:
+Pub. L. 96–39, title X, §1002, July 26, 1979, 93 Stat. 306, provided that:
 
 "(a)
 

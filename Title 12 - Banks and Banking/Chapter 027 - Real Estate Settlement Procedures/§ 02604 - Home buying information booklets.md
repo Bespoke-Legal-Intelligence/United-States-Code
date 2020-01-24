@@ -22,7 +22,7 @@ Each booklet shall be in such form and detail as the Director shall prescribe an
 
 &emsp;(3) A list and explanation of lending practices, including those prohibited by the Truth in Lending Act or other applicable Federal law, and of other unfair practices and unreasonable or unnecessary charges to be avoided by the prospective buyer with respect to a real estate settlement.
 
-&emsp;(4) A list and explanation of questions a consumer obtaining a federally related mortgage loan should ask regarding the loan, including whether the consumer will have the ability to repay the loan, whether the consumer sufficiently shopped for the loan, whether the loan terms include prepayment penalties or balloon payments, and whether the loan will benefit the borrower.
+&emsp;(4) A list and explanation of questions a consumer obtaining a federally related mortgageloan should ask regarding the loan, including whether the consumer will have the ability to repay the loan, whether the consumer sufficiently shopped for the loan, whether the loan terms include prepayment penalties or balloon payments, and whether the loan will benefit the borrower.
 
 &emsp;(5) An explanation of the right of rescission as to certain transactions provided by sections 125 and 129 of the Truth in Lending Act \[15 U.S.C. 1635, 1639\].
 
@@ -84,7 +84,7 @@ Subsec. (b). Pub. L. 111–203, §1450(2), added subsec. (b) and struck out form
 
 Subsec. (c). Pub. L. 111–203, §1450(3), inserted at end "Each lender shall also include with the booklet a reasonably complete or updated list of homeownership counselors who are certified pursuant to section 1701x(e) of this title and located in the area of the lender."
 
-Subsec. (d). Pub. L. 111–203, §1450(4), inserted "The lender shall provide the booklet in the version that ismost appropriate for the person receiving it." after the first sentence.
+Subsec. (d). Pub. L. 111–203, §1450(4), inserted "The lender shall provide the booklet in the version that is most appropriate for the person receiving it." after the first sentence.
 
 <b>1992</b>—Subsec. (d). Pub. L. 102–550 substituted "Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period." for "Such booklet shall be provided at the time of receipt or preparation of such application."
 

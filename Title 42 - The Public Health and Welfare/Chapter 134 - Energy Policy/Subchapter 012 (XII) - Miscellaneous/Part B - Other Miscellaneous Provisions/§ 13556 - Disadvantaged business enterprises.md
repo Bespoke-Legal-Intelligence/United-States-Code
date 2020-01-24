@@ -16,17 +16,19 @@ To the extent practicable, the head of each agency shall provide that the obliga
 
 For purposes of this section, the following definitions shall apply:
 
-&emsp;(1) The term "small business concern" has the meaning such term has under section 632of title 15. However, for purposes of contracts and subcontracts requiring engineering services the applicable size standard shall be that established for military and aerospace equipment and military weapons.
+&emsp;(1) The term "small business concern" has the meaning such term has under section 632 of title 15. However, for purposes of contracts and subcontracts requiring engineering services the applicable size standard shall be that established for military and aerospace equipment and military weapons.
 
 &emsp;(2) The term "socially and economically disadvantaged individuals" has the meaning such term has under section 637(d) of title 15 and relevant subcontracting regulations promulgated pursuant thereto.
 
-&emsp;(3) The term "qualified HUBZone small business concern" has the meaning given that term in section 632(p) of title 15.
+&emsp;(3) The term "qualified HUBZone small business concern" has the meaning given that term in section 632(p) <sup>1</sup> of title 15.
 
 (Pub. L. 102–486, title XXX, §3021, Oct. 24, 1992, 106 Stat. 3133; Pub. L. 105–135, title VI, §604(g), Dec. 2, 1997, 111 Stat. 2634.)
 
 #### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
+
+Section 632(p) of title 15, referred to in subsec. (b)(3), was redesignated section 657a(b) of Title 15, Commerce and Trade, by Pub. L. 115–91, div. A, title XVII, §1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
 
 #### Codification
 
@@ -41,4 +43,6 @@ Subsec. (b)(3). Pub. L. 105–135, §604(g)(2), added par. (3).
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of Title 15, Commerce and Trade.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

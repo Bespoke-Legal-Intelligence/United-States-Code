@@ -32,7 +32,7 @@
 
 &emsp;(K) the number of applications filed for adjustment assistance for workers and firms, the number of such applications which were approved, and the extent to which adjustment assistance has been provided under such approved applications; and
 
-&emsp;(L) the operation of the Interagency Center on Trade Implementation, Monitoring, and Enforcement established under section 2171(h) of this title, including—
+&emsp;(L) the operation of the Interagency Center on Trade Implementation, Monitoring, andEnforcement established under section 2171(h) of this title, including—
 
 &emsp;&emsp;(i) information relating to the personnel of the Center, including a description of any employees detailed or assigned to the Center by a Federal agency under paragraph (3)(B) of such section;
 
@@ -88,7 +88,7 @@
 
 &emsp;(C) conclusions and recommendations, based upon the projections referred to in subparagraph (B), for policy changes, including trade policy, exchange rate policy, fiscal policy, and other policies that should be implemented to improve the outlook.
 
-(2) To the extent that subjects referred to in paragraph (1)(A), (B), or (C) are covered in the national trade policy agenda required under subsection (a)(1)(B) or in other reports required by this chapter or other law, the Trade Representative and the Secretary of the Treasury may, asappropriate, draw on the information, analysis, and conclusions, if any, in those reports for the purposes of preparing the report required by this subsection.
+(2) To the extent that subjects referred to in paragraph (1)(A), (B), or (C) are covered in the national trade policy agenda required under subsection (a)(1)(B) or in other reports required by this chapter or other law, the Trade Representative and the Secretary of the Treasury may, as appropriate, draw on the information, analysis, and conclusions, if any, in those reports for the purposes of preparing the report required by this subsection.
 
 (3) The Trade Representative and the Secretary of the Treasury shall consult with the Chairman of the Board of Governors of the Federal Reserve System in the preparation of each report required under this subsection.
 
@@ -108,7 +108,7 @@ The United States International Trade Commission shall submit to the Congress, a
 
 &emsp;&emsp;(A) to analyze internal quality controls and record management of the Office;
 
-&emsp;&emsp;(B) to identify existing staff of the Office and new staff that will be necessary to support the trade negotiation and enforcement functions and powers of the Office (including those functions and powers of the Trade Policy Staff Committee) as described in section 2171 of this title and section 2411 of this title;
+&emsp;&emsp;(B) to identify existing staff of the Office and new staff that will be necessary to support the trade negotiation and enforcementfunctions and powers of the Office (including those functions and powers of the Trade Policy Staff Committee) as described in section 2171 of this title and section 2411 of this title;
 
 &emsp;&emsp;(C) to identify existing staff of the Office and staff in other Federal agencies who will be required to be detailed or assigned to support interagency programs led by the Trade Representative, including any associated expenses;
 
@@ -338,7 +338,7 @@ Hearings.—The Commission may hold such hearings, sit and act at such times and
 
 &emsp;"(2)
 
-Information from federal agencies.—The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this section. Upon request of the Chairperson of the Commission, the head of such department or agency shall furnish such information to the Commission.
+Information from federal agencies.—The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this section. Upon request of the Chairpersonof the Commission, the head of such department or agency shall furnish such information to the Commission.
 
 &emsp;"(3)
 

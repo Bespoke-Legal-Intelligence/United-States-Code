@@ -4,7 +4,7 @@
 
 (1) The Secretary may enter into agreements with 1 or more holders of a certificate of public convenience and necessity issued under section 720a(b) of this title or section 719g of this title or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States, to issue Federal guarantee instruments with respect to loans and other debt obligations for a qualified infrastructure project.
 
-(2) Subject to the requirements of this section, the Secretary may also enter into agreementswith 1 or more owners of the Canadian portion of a qualified infrastructure project to issue Federal guarantee instruments with respect to loans and other debt obligations for a qualified infrastructure project as though such owner were a holder described in paragraph (1).
+(2) Subject to the requirements of this section, the Secretary may also enter into agreements with 1 or more owners of the Canadian portion of a qualified infrastructure project to issue Federal guarantee instruments with respect to loans and other debt obligations for a qualified infrastructure project as though such owner were a holder described in paragraph (1).
 
 (3) The authority of the Secretary to issue Federal guarantee instruments under this section for a qualified infrastructure project shall expire on the date that is 2 years after the date on which the final certificate of public convenience and necessity (including any Canadian certificates of public convenience and necessity) is issued for the project. A final certificate shall be considered to have been issued when all certificates of public convenience and necessity have been issued that are required for the initial transportation of commercially economic quantities of natural gas from Alaska to the continental United States.
 
@@ -26,7 +26,7 @@
 
 #### (d) Loan terms and fees
 
-(1) The Secretary may issue Federal guarantee instruments under this section that take into account repayment profiles and grace periods justified by project cash flows and project-specific considerations. The term of any loan guaranteed under this section shall not exceed 30 years.
+(1) The Secretary may issue Federal guarantee instruments under this section that take intoaccount repayment profiles and grace periods justified by project cash flows and project-specific considerations. The term of any loan guaranteed under this section shall not exceed 30 years.
 
 (2) An eligible lender may assess and collect from the borrower such other fees and costs associated with the application and origination of the loan or other debt obligation as are reasonable and customary for a project finance transaction in the oil and gas sector.
 
@@ -60,7 +60,7 @@ In this section:
 
 #### (4) Qualified infrastructure project
 
-&emsp;The term "qualified infrastructure project" means an Alaskan natural gas transportation project or system consisting of the design, engineering, finance, construction, and completion of pipelines and related transportation and production systems (including gas treatment plants <sup>1</sup> liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from southcentral Alaska to the West Coast), and appurtenances thereto,that are used to transport natural gas from the Alaska North Slope to the continental United States.
+&emsp;The term "qualified infrastructure project" means an Alaskan natural gas transportation project or system consisting of the design, engineering, finance, construction, and completion of pipelines and related transportation and production systems (including gas treatment plants <sup>1</sup> liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from southcentral Alaska to the West Coast), and appurtenances thereto, that are used to transport natural gas from the Alaska North Slope to the continental United States.
 
 (Pub. L. 108–324, div. C, §116, Oct. 13, 2004, 118 Stat. 1265; Pub.L. 108–199, div. H, §146, Jan. 23, 2004, 118 Stat. 444; Pub. L. 108–447, div. J, title I, §114, Dec. 8, 2004, 118 Stat. 3346.)
 

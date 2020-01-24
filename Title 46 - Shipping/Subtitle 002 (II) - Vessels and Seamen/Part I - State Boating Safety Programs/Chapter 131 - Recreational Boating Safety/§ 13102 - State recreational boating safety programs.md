@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 Section 13101(a) authorizes the Secretary to make contracts with, and allocate amounts to eligible States to assist them in carrying out their recreational boating safety and facilities improvement programs.
 
-Subsection (b) requires the Secretary to establish guidelines and standards for the program, and specifies specific conditions the Secretary must consider, requires consultation with the Secretary of the Interior, and to maintain environmental standards consistent with the Coastal Zone Management Act.
+Subsection (b) requires the Secretary to establish guidelines and standards for the program, and specifiesspecific conditions the Secretary must consider, requires consultation with the Secretary of the Interior, and to maintain environmental standards consistent with the Coastal Zone Management Act.
 
 Subsection (c) makes the States who meet the standards prescribed by the Secretary eligible for the amounts authorized under this chapter.
 

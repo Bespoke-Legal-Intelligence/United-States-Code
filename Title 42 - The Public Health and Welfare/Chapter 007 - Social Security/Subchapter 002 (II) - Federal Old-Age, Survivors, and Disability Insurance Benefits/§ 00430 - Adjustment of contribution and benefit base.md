@@ -70,7 +70,7 @@ Subsec. (d). Pub. L. 101–239, §10208(b)(5), substituted "change (except that,
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–21 substituted "December" for "June".
 
-Subsec. (c). Pub. L. 98–76, §225(a)(4), struck out provision that for purposes of determining employee and employer tax liability under sections 3201(a) and 3221(a) of the Internal Revenue Code of 1954, for purposes of determining the portion of the employee representative tax liability under section 3211(a) of such Code which resulted from the application of the 12.75 percent rate specified therein, and for purposes of computing average monthly compensation under section 231b(j) of title 45, except with respect to annuity amounts determined under section 231b(a) or (f)(3) of title 45, clause (2) and the preceding sentence of this subsection shall be disregarded.
+Subsec. (c). Pub. L. 98–76, §225(a)(4), struck out provision that for purposes of determining employee and employer tax liability under sections 3201(a) and 3221(a) of the Internal Revenue Code of 1954, for purposes of determining the portion of the employee representative tax liability under section 3211(a) of such Code which resulted from the application of the 12.75 percent rate specified therein, and for purposes of computing average monthly compensation under section 231b(j) of title45, except with respect to annuity amounts determined under section 231b(a) or (f)(3) of title 45, clause (2) and the preceding sentence of this subsection shall be disregarded.
 
 Pub. L. 98–76, §211(d), temporarily substituted "12.75 percent" for "11.75 percent". See Effective and Termination Dates of 1983 Amendments note below.
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 <b>2019</b>—By notice of the Commissioner of Social Security, Oct. 24, 2018, 83 F.R. 53702, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2019 is $132,900.
 
-<b>2018</b>—By notice of the Commissioner of Social Security, Dec. 15, 2017, 82 F.R. 59937, it was determined andannounced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2018 is $128,400.
+<b>2018</b>—By notice of the Commissioner of Social Security, Dec. 15, 2017, 82 F.R. 59937, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2018 is $128,400.
 
 <b>2017</b>—By notice of the Commissioner of Social Security, Oct. 26, 2016, 81 F.R. 74854, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2017 is $127,200.
 
@@ -260,5 +260,5 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 #### Cost-of-Living Increase in Benefits
 
-For purposes of subsec. (a) of this section, the increase in benefits provided by section 2 of Pub. L. 93–233, revising benefits table of section 415(a) of this title and amending sections 427(a), (b) and 428(b)(1), (2), (c)(3)(A), (B) of this title considered an increase under section 415(i) of this title, see section 3(i) of Pub. L. 93–233, set out as a note under section 415 of this title.
+For purposes of subsec. (a) of this section, the increase in benefits provided by section 2 of Pub. L.93–233, revising benefits table of section 415(a) of this title and amending sections 427(a), (b) and 428(b)(1), (2), (c)(3)(A), (B) of this title considered an increase under section 415(i) of this title, see section 3(i) of Pub. L. 93–233, set out as a note under section 415 of this title.
 

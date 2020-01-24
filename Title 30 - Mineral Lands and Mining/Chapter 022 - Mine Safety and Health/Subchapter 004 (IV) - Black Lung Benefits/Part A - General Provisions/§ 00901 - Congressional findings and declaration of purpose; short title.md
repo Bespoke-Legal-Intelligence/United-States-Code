@@ -46,5 +46,5 @@ Pub. L. 97–119, title II, §202(e), Dec. 29, 1981, 95 Stat. 1643, directed Sec
 
 #### Study of Benefits Under This Subchapter, Other Benefits Received, and Benefits if State Workers' Compensation Programs Applicable; Report to Congress
 
-Pub. L. 97–119, title II, §203(c), Dec. 29, 1981, 95 Stat. 1644, directed Secretary of Labor to undertake a study of the benefits provided by this subchapter, other benefits received by individuals who receive benefits under this subchapter, and benefits which would be received were State workers' compensation programs applicable in lieu of benefits under this subchapter, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
+Pub. L. 97–119, title II, §203(c), Dec. 29, 1981, 95 Stat. 1644, directed Secretary of Labor to undertake a study of the benefits provided by this subchapter, other benefits received by individuals who receive benefits under this subchapter, and benefits which would be received were State workers' compensation programs applicablein lieu of benefits under this subchapter, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
 

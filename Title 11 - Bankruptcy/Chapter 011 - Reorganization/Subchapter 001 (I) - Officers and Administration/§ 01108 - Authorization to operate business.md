@@ -16,7 +16,7 @@ This section permits the debtor's business to continue to be operated, unless th
 
 #### house report no. 95–595
 
-This section does not presume that a trustee will be appointed to operate the business of the debtor. Rather, the power granted to trustee under this section is one of the powers that a debtor in possession acquires by virtue of proposed 11 U.S.C. 1107.
+This section does not presume that a trustee will be appointed to operate the business of the debtor. Rather,the power granted to trustee under this section is one of the powers that a debtor in possession acquires by virtue of proposed 11 U.S.C. 1107.
 
 #### Amendments
 

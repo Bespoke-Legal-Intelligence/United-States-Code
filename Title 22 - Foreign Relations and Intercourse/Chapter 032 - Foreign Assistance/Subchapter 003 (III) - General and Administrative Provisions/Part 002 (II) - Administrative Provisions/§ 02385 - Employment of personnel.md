@@ -6,7 +6,7 @@ Any agency or officer of the United States Government carrying out functions und
 
 #### (b) Appointments excepted from civil-service laws; supergrade positions; reinstatement
 
-Of the personnel employed in the United States to carry out subchapter I of this chapter or coordinate subchapter I and subchapter II of this chapter, not to exceed one hundred and ten may be appointed, compensated, or removed without regard to the provisions of any law, ofwhom not to exceed fifty-one may be compensated at rates higher than those provided for grade 15 of the general schedule established by section 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule: <i>Provided</i>, That, under such regulations as the President shall prescribe, officers and employees of the United States Government who are appointed to any of the above positions may be entitled, upon removal from such position, to reinstatement to the position occupied at the time of appointment or to a position of comparable grade and salary. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
+Of the personnel employed in the United States to carry out subchapter I of this chapter or coordinate subchapter I and subchapter II of this chapter, not to exceed one hundred and ten may be appointed, compensated, or removed without regard to the provisions of any law, of whom not to exceed fifty-one may be compensated at rates higher than those provided for grade 15 of the general schedule established by section 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule: <i>Provided</i>, That, under such regulations as the President shall prescribe, officers and employees of the United States Government who are appointed to any of the above positions may be entitled, upon removal from such position, to reinstatement to the position occupied at the time of appointment or to a position of comparable grade and salary. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
 
 #### (c) Additional supergrade positions
 
@@ -36,7 +36,7 @@ To the maximum extent practicable officers and employees performing functions un
 
 (1)(A) To facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan, the Administrator of the United States Agency for International Development may waive the application of the provisions of section 8344 or 8468 of title 5 on a case-by-case basis for employment of an annuitant in a position in the United States Agency for International Development for which there is exceptional difficulty in recruiting or retaining a qualified employee, or when a temporary emergency hiring need exists.
 
-(B) The authority of the Administrator under subparagraph (A) shall terminate on October 1, 2010. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
+(B) The authority of the Administrator under subparagraph (A) shall terminate on October 1, 2010.<sup>1</sup> An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
 
 (2) The Administrator should prescribe procedures for the exercise of any authority under this subsection, including criteria for any exercise of authority and procedures for a delegation of authority.
 
@@ -116,9 +116,13 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Extension of Authority
 
-Pub. L. 115–141, div. K, title VII, §7034(l)(3), Mar. 23, 2018, 132 Stat. 895, provided that: "Section 625(j)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2385(j)(1)) shall be applied by substituting 'September 30, 2018' for 'October 1, 2010' in subparagraph (B)."
+Pub. L. 116–94, div. G, title VII, §7034(l)(3), Dec. 20, 2019, 133 Stat. 2872, provided that: "Section 625(j)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2385(j)(1)) shall be applied by substituting 'September 30, 2020' for 'October 1, 2010' in subparagraph (B)."
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 116–6, div. F, title VII, §7034(m)(3), Feb. 15, 2019, 133 Stat. 327.
+
+Pub. L. 115–141, div. K, title VII, §7034(l)(3), Mar. 23, 2018, 132 Stat. 895.
 
 Pub. L. 115–31, div. J, title VII, §7034(k)(3), May 5, 2017, 131 Stat. 651.
 
@@ -132,9 +136,11 @@ Pub. L. 112–74, div. I, title VII, §7034(m)(6), Dec. 23, 2011, 125 Stat. 1216
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Entitlement to Benefits for Services Performed Outside United States; Service Exceeding Thirty Months
 
 Persons appointed, employed, or assigned after May 19, 1959, under former section 1787(c) of this title or subsec. (d) of this section for the purpose of performing functions under the Mutual Security Act of 1954 (see Short Title note set out under section 1754 of this title) and this chapter, outside the United States, shall not, unless otherwise agreed by the agency in which such benefits may be exercised, be entitled to the benefits provided for by section 3950 of this title in cases in which their service under the appointment, employment, or assignment exceeds thirty months, see Ex. Ord. No. 12163, §1–602(b), Sept. 29, 1979, 44 F.R. 56677, as amended, set out as a note under section 2381 of this title.
+
+<i><sup>1</sup></i><i> See Extension of Authority note below.</i>
 

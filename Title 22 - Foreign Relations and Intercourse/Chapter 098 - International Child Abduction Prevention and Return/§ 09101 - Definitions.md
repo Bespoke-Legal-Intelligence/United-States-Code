@@ -182,7 +182,7 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 113–150, Aug. 8, 2014, 126Stat. 1807, known as the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 113–150, Aug. 8, 2014, 126 Stat. 1807, known as the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 
@@ -208,7 +208,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(6) The United States and other Convention countries have expressed their desire, through the Hague Abduction Convention, 'to protect children internationally from the harmful effects of their wrongful removal or retention and to establish procedures to ensure their prompt return to the State of their habitual residence, as well as to secure protection for rights of access.'
 
-&emsp;"(7) Compliance by the United States and other Convention countries depends on the actions of their designated central authorities, the performance of their judicial systems as reflected in the legal process and decisions rendered to enforce or effectuate the Hague Abduction Convention, and the ability and willingness of their law enforcement authorities to ensure the swift enforcement of orders rendered pursuant to the Hague Abduction Convention.
+&emsp;"(7) Compliance by the United States and other Convention countries depends on the actions of theirdesignated central authorities, the performance of their judicial systems as reflected in the legal process and decisions rendered to enforce or effectuate the Hague Abduction Convention, and the ability and willingness of their law enforcement authorities to ensure the swift enforcement of orders rendered pursuant to the Hague Abduction Convention.
 
 &emsp;"(8) According to data from the Department of State, approximately 40 percent of abduction cases involve children taken from the United States to countries with which the United States does not have reciprocal obligations under the Hague Abduction Convention or other arrangements relating to the resolution of abduction cases.
 

@@ -20,7 +20,7 @@ Congress finds and declares that—
 
 #### References in Text
 
-The Public Works and Economic Development Act of 1965, referred to in subsec. (g), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§3121 et seq.) of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (g), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
 #### Amendments
 
@@ -100,7 +100,7 @@ Pub. L. 100–241, §16, Feb. 3, 1988, 101 Stat. 1813, provided that:
 
 "(a)
 
-Statute of Limitations.—(1) Notwithstanding any other provision of law, a civil action that challenges the constitutionality of an amendment made by, or other provision of this Act (the Alaska Native Claims Settlement Act Amendments of 1987) \[see Short Title of 1988 Amendment note above\] shall be barred unless filed within the periods specified in this subsection.
+Statute of Limitations.—(1) Notwithstanding any other provision of law, a civil action that challenges the constitutionality of an amendment made by, or other provision of this Act (the Alaska Native Claims Settlement Act Amendments of 1987) \[see ShortTitle of 1988 Amendment note above\] shall be barred unless filed within the periods specified in this subsection.
 
 "(2) If a civil action described in paragraph (1) challenges—
 

@@ -66,7 +66,7 @@
 
 &emsp;(13) Menstrual disorders.
 
-(h)(1) If the Secretary determines with respect to a medical research project sponsored by the Department that it is necessary for the conduct of the project that Persian Gulf veterans in receipt of compensation under this section or section 1118 of this title participate in the projectwithout the possibility of loss of service connection under either such section, the Secretary shall provide that service connection granted under either such section for disability of a veteran who participated in the research project may not be terminated. Except as provided in paragraph (2), notwithstanding any other provision of law any grant of service-connection protected under this subsection shall remain service-connected for purposes of all provisions of law under this title.
+(h)(1) If the Secretary determines with respect to a medical research project sponsored by the Department that it is necessary for the conduct of the project that Persian Gulf veterans in receipt of compensation under this section or section 1118 of this title participate in the project without the possibility of loss of service connection under either such section, the Secretary shall provide that service connection granted under either such section for disability of a veteran who participated in the research project may not be terminated. Except as provided in paragraph (2), notwithstanding any other provision of law any grant of service-connection protected under this subsection shall remain service-connected for purposes of all provisions of law under this title.
 
 (2) Paragraph (1) does not apply in a case in which—
 
@@ -112,203 +112,7 @@ Pub. L. 103–446, title I, §106(d), Nov. 2, 1994, 108 Stat. 4651, provided tha
 
 #### Agreement With National Academy of Sciences Regarding Evaluation of Health Consequences of Service in Southwest Asia During the Persian Gulf War
 
-Pub. L. 105–368, title I, §101, Nov. 11, 1998, 112 Stat. 3317, as amended by Pub. L. 111–275, title VIII, §806(b)(1), (2), Oct. 13, 2010, 124 Stat. 2891, provided that:
-
-"(a)
-
-Purpose.—The purpose of this section is to provide for the National Academy of Sciences, an independent nonprofit scientific organization with appropriate expertise which is not a part of the Federal Government, to review and evaluate the available scientific evidence regarding associations between illness and service in the Persian Gulf War.
-
-"(b)
-
-Agreement.—(1) The Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Sciences for the Academy to perform the activities covered by this section. The Secretary shall seek to enter into the agreement not later than 2 months after the date of the enactment of this Act \[Nov. 11, 1998\].
-
-"(2)(A) If the Secretary is unable within the time period set forth in paragraph (1) to enter into an agreement with the Academy for the purposes of this section on terms acceptable to the Secretary, the Secretary shall seek to enter into an agreement for purposes of this section with another appropriate scientific organization that is not part of the Federal Government, operates as a not-for-profit entity, and has expertise and objectivity comparable to that of the Academy.
-
-"(B) If the Secretary enters into an agreement with another organization under this paragraph, any reference in this section to the National Academy of Sciences shall be treated as a reference to such other organization.
-
-"(c)
-
-Review of Scientific Evidence.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall conduct a comprehensive review and evaluation of the available scientific and medical information regarding the health status of veterans who served in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations and the health consequences of exposures to risk factors during such service. In conducting such review and evaluation, the Academy shall—
-
-&emsp;"(A) identify the biological, chemical, or other toxic agents, environmental or wartime hazards, or preventive medicines or vaccines (including the agents specified in subsection (d)(1)) to which members of the Armed Forces who may have been exposed by reason of service in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations;
-
-&emsp;"(B) identify the illnesses associated with the agents, hazards, or medicines or vaccines identified under subparagraph (A); and
-
-&emsp;"(C) identify the illnesses (including diagnosed illnesses and undiagnosed illnesses) for which there is scientific evidence of a higher prevalence among populations of Gulf War veterans when compared with other appropriate populations of individuals.
-
-"(2) In identifying illnesses under subparagraphs (B) and (C) of paragraph (1), the Academy shall review and summarize the relevant scientific evidence regarding illnesses, including symptoms, adverse reproductive health outcomes, and mortality, among the members described in paragraph (1)(A) and among other appropriate populations of individuals.
-
-"(3) In conducting the review and evaluation under paragraph (1), the Academy shall, for each illness identified under subparagraph (B) or (C) of that paragraph, assess the latency period, if any, between service or exposure to any potential risk factor (including an agent, hazard, or medicine or vaccine identified under subparagraph (A) of that paragraph) and the manifestation of such illness.
-
-"(d)
-
-Specified Agents.—(1) In identifying under subsection (c)(1)(A) the agents, hazards, or preventive medicines or vaccines to which members of the Armed Forces may have been exposed, the National Academy of Sciences shall consider the following:
-
-&emsp;"(A) The following organophosphorous pesticides:
-
-&emsp;&emsp;"(i) Chlorpyrifos.
-
-&emsp;&emsp;"(ii) Diazinon.
-
-&emsp;&emsp;"(iii) Dichlorvos.
-
-&emsp;&emsp;"(iv) Malathion.
-
-&emsp;"(B) The following carbamate pesticides:
-
-&emsp;&emsp;"(i) Proxpur.
-
-&emsp;&emsp;"(ii) Carbaryl.
-
-&emsp;&emsp;"(iii) Methomyl.
-
-&emsp;"(C) The carbamate pyridostigmine bromide used as nerve agent prophylaxis.
-
-&emsp;"(D) The following chlorinated hydrocarbons and other pesticides and repellents:
-
-&emsp;&emsp;"(i) Lindane.
-
-&emsp;&emsp;"(ii) Pyrethrins.
-
-&emsp;&emsp;"(iii) Permethrins.
-
-&emsp;&emsp;"(iv) Rodenticides (bait).
-
-&emsp;&emsp;"(v) Repellent (DEET).
-
-&emsp;"(E) The following low-level nerve agents and precursor compounds at exposure levels below those which produce immediately apparent incapacitating symptoms:
-
-&emsp;&emsp;"(i) Sarin.
-
-&emsp;&emsp;"(ii) Tabun.
-
-&emsp;"(F) The following synthetic chemical compounds:
-
-&emsp;&emsp;"(i) Mustard agents at levels below those which cause immediate blistering.
-
-&emsp;&emsp;"(ii) Volatile organic compounds.
-
-&emsp;&emsp;"(iii) Hydrazine.
-
-&emsp;&emsp;"(iv) Red fuming nitric acid.
-
-&emsp;&emsp;"(v) Solvents.
-
-&emsp;"(G) The following sources of radiation:
-
-&emsp;&emsp;"(i) Depleted uranium.
-
-&emsp;&emsp;"(ii) Microwave radiation.
-
-&emsp;&emsp;"(iii) Radio frequency radiation.
-
-&emsp;"(H) The following environmental particulates and pollutants:
-
-&emsp;&emsp;"(i) Hydrogen sulfide.
-
-&emsp;&emsp;"(ii) Oil fire byproducts.
-
-&emsp;&emsp;"(iii) Diesel heater fumes.
-
-&emsp;&emsp;"(iv) Sand micro-particles.
-
-&emsp;"(I) Diseases endemic to the region (including the following):
-
-&emsp;&emsp;"(i) Leishmaniasis.
-
-&emsp;&emsp;"(ii) Sandfly fever.
-
-&emsp;&emsp;"(iii) Pathogenic escherichia coli.
-
-&emsp;&emsp;"(iv) Shigellosis.
-
-&emsp;"(J) Time compressed administration of multiple live, 'attenuated', and toxoid vaccines.
-
-"(2) The consideration of agents, hazards, and medicines and vaccines under paragraph (1) shall not preclude the Academy from identifying other agents, hazards, or medicines or vaccines to which members of the Armed Forces may have been exposed for purposes of any report under subsection (h).
-
-"(3) Not later than 6 months after entry into the agreement under subsection (b), the Academy shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report specifying the agents, hazards, and medicines and vaccines considered under paragraph (1).
-
-"(e)
-
-Scientific Determinations Concerning Illnesses.—(1) For each illness identified under subparagraph (B) or (C) of subsection (c)(1), the National Academy of Sciences shall determine (to the extent available scientific evidence permits) whether there is scientific evidence of an association of that illness with service in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations or exposure during such service to one or more agents, hazards, or medicines or vaccines. In making those determinations, the Academy shall consider—
-
-&emsp;"(A) the strength of scientific evidence, the replicability of results, the statistical significance of results, and the appropriateness of the scientific methods used to detect the association;
-
-&emsp;"(B) in any case where there is evidence of an apparent association, whether there is reasonable confidence that that apparent association is not due to chance, bias, or confounding;
-
-&emsp;"(C) the increased risk of the illness among human or animal populations exposed to the agents, hazards, or medicines or vaccines;
-
-&emsp;"(D) whether a plausible biological mechanism or other evidence of a causal relationship exists between exposure to the agents, hazards, or medicines or vaccines and the illnesses;
-
-&emsp;"(E) in any case where information about exposure levels is available, whether the evidence indicates that the levels of exposure of the studied populations were of the same magnitude as the estimated likely exposures of veterans described in subsection (c)(1); and
-
-&emsp;"(F) whether there is an increased risk of illness among veterans described in subsection (c)(1) in comparison with appropriate peer groups.
-
-"(2) The Academy shall include in its reports under subsection (h) a full discussion of the scientific evidence and reasoning that led to its conclusions under this subsection.
-
-"(f)
-
-Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of service described in subsection (c)(1)(A) or exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with such service.
-
-"(2) In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
-
-"(g)
-
-Subsequent Reviews.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall conduct on a periodic and ongoing basis additional reviews of the evidence and data relating to its activities under this section.
-
-"(2) As part of each review under this subsection, the Academy shall—
-
-&emsp;"(A) conduct as comprehensive a review as is practicable of the information referred to in subsection (c), the evidence referred to in subsection (e), and the data referred to in subsection (f) that became available since the last review of such information, evidence, and data under this section; and
-
-&emsp;"(B) make determinations under the subsections referred to in subparagraph (A) on the basis of the results of such review and all other reviews previously conducted for purposes of this section.
-
-"(h)
-
-Reports by Academy.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall submit to the Committees on Veterans' Affairs ofthe Senate and the House of Representatives and the Secretary of Veterans Affairs periodic written reports regarding the Academy's activities under the agreement.
-
-"(2) The first report under paragraph (1) shall be submitted not later than 2 years after entry into the agreement under subsection (b). That report shall include—
-
-&emsp;"(A) the determinations and discussion referred to in subsection (e); and
-
-&emsp;"(B) any recommendations of the Academy under subsection (f).
-
-"(3) Reports shall be submitted under this subsection at least once every 2 years, as measured from the date of the report under paragraph (2).
-
-"(4) In any report under this subsection (other than the report under paragraph (2)), the Academy may specify an absence of meaningful developments in the scientific or medical community with respect to the activities of the Academy under this section during the 2-year period ending on the date of such report.
-
-"(5) In each report under this subsection submitted after the date of the enactment of this paragraph \[Oct. 13, 2010\], any determinations, discussions, and recommendations as described in paragraph (2) shall be submitted separately as follows:
-
-&emsp;"(A) For the Southwest Asia theater of operations for the period of the Persian Gulf War ending on September 11, 2001.
-
-&emsp;"(B) For the Post-9/11 Global Theaters of Operations for the period of the Persian Gulf War beginning on September 11, 2001.
-
-"(i)
-
-Reports by Secretary.—(1) The Secretary shall review each report from the Academy under subsection (h). As part of such review, the Secretary shall seek comments on, and evaluation of, the Academy's report from the heads of other affected departments and agencies of the United States.
-
-"(2) Based upon a review under paragraph (1), the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the available scientific and medical information regarding the health consequences of service described in subsection (c)(1)(A) and of exposures to risk factors during such service. The Secretary shall include in the report the Secretary's recommendations as to whether there is sufficient evidence to warrant a presumption of service-connection for the occurrence of a specified condition in veterans described in subsection (c)(1)(A). In determining whether to make such a recommendation, the Secretary shall consider the matters specified in subparagraphs (A) through (F) of subsection (e)(1).
-
-"(3) The report under this subsection shall be submitted not later than 120 days after the date on which the Secretary receives the report from the Academy.
-
-"(4) In each report under this subsection submitted after the date of the enactment of this paragraph \[Oct. 13, 2010\], any recommendations as described in paragraph (2) shall be submitted separately as follows:
-
-&emsp;"(A) For the Southwest Asia theater of operations for the period of the Persian Gulf War ending on September 11, 2001.
-
-&emsp;"(B) For the Post-9/11 Global Theaters of Operations for the period of the Persian Gulf War beginning on September 11, 2001.
-
-"(j)
-
-Sunset.—This section shall cease to be effective on October 1, 2018.
-
-"(k)
-
-Definition.—In this section:
-
-&emsp;"(1) The term 'Persian Gulf War' has the meaning given that term in section 101(33) of title 38, United States Code.
-
-&emsp;"(2) The term 'Post-9/11 Global Theater of Operations' means Afghanistan, Iraq, and any other theater of operations for which the Global War on Terrorism Expeditionary Medal is awarded for service.
-
-&emsp;"(3) The term 'toxic agent, environmental or wartime hazard, or preventive medicine or vaccine', with respect to service described in subsection (c)(1)(A), means a biological, chemical, or other toxic agent, environmental or wartime hazard, or preventive medicine or vaccine that is known or presumed to be associated with service described in such subsection (c)(1)(A), whether such association arises as a result of single, repeated, or sustained exposure and whether such association arises through exposure singularly or in combination."
+Pub. L. 105–368, title I, §101, Nov. 11, 1998, 112 Stat. 3317, as amended by Pub. L. 111–275, title VIII, §806(b)(1), (2), Oct. 13, 2010, 124 Stat. 2891, provided that the Secretary of Veterans Affairs was to enter into an agreement with the National Academy of Sciences to review and evaluate the available scientific evidence regarding associations between illness and service in the Southwest Asia theater of operations during the Persian Gulf War, and that the section would cease to be effective on Oct. 1, 2018.
 
 #### Improving Effectiveness of Care of Persian Gulf War Veterans
 
@@ -348,7 +152,7 @@ Agreement.—The Secretary of Veterans Affairs shall seek to enter into an agree
 
 Identification of Agents and Illnesses.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall—
 
-&emsp;"(A) identify the biological, chemical, or other toxic agents, environmental or wartime hazards, orpreventive medicines or vaccines to which members of the Armed Forces who may have been exposed by reason of service in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations; and
+&emsp;"(A) identify the biological, chemical, or other toxic agents, environmental or wartime hazards, or preventive medicines or vaccines to which members of the Armed Forces who may have been exposed by reason of service in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations; and
 
 &emsp;"(B) identify the illnesses (including diagnosed illnesses and undiagnosed illnesses) that are manifest in such members.
 
@@ -462,7 +266,7 @@ Review of Potential Treatment Models for Certain Illnesses.—Under the agreemen
 
 "(g)
 
-Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with service described in subsection (c)(1)(A).
+Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartimehazards, or preventive medicines or vaccines associated with service described in subsection (c)(1)(A).
 
 "(2) In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
 
@@ -552,7 +356,7 @@ Pub. L. 103–446, title I, §§102–105, 107, 109, 110, Nov. 2, 1994, 108 Stat
 
 &emsp;"(2) Significant numbers of veterans of the Persian Gulf War are suffering from illnesses, or are exhibiting symptoms of illness, that cannot now be diagnosed or clearly defined. As a result, many of these conditions or illnesses are not considered to be service connected under current law for purposes of benefits administered by the Department of Veterans Affairs.
 
-&emsp;"(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
+&emsp;"(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans resultfrom multiple illnesses with overlapping symptoms and causes that have yet to be defined.
 
 &emsp;"(4) That workshop concluded that the information concerning the range and intensity of exposure to toxic substances by military personnel in the Southwest Asia theater of operations is very limited and that such information was collected only after a considerable delay.
 

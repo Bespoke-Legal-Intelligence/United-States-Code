@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(C) Use of escrow funds for any purpose other than that for which they were received.
 
-&emsp;&emsp;(D) Transfer of servicing for a pool of mortgages to an issuer not approved underthis subchapter, unless expressly permitted by statute, regulation, or contract approved by the Secretary.
+&emsp;&emsp;(D) Transfer of servicing for a pool of mortgages to an issuer not approved under this subchapter, unless expressly permitted by statute, regulation, or contract approved by the Secretary.
 
 &emsp;&emsp;(E) Failure to maintain a minimum net worth in accordance with requirements prescribed by the Association;
 

@@ -2,7 +2,7 @@
 
 (a) The Office shall prescribe regulations under which any employee or Member who has a life-threatening affliction or other critical medical condition may, at the time of retiring under this subchapter, elect annuity benefits under this section instead of any other benefits under this subchapter, and any benefits under subchapter IV of this chapter, based on the service of the employee or Member.
 
-(b) Subject to subsection (c), the Office shall by regulation provide for such alternative forms of annuities as the Office considers appropriate, except that among the alternatives offered shall be—
+(b) Subject to subsection (c), the Office shall by regulation provide for such alternative formsof annuities as the Office considers appropriate, except that among the alternatives offered shall be—
 
 &emsp;(1) an alternative which provides for—
 
@@ -30,7 +30,7 @@
 
 (e) An employee or Member who is married at the time of retiring under this subchapter and who makes an election under this section may, during the 18-month period beginning on the date of retirement, make the election provided for under section 8416(d), subject to the deposit requirement thereunder.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 532; amended Pub. L. 101–508, titleVII, §7001(a)(1), Nov. 5, 1990, 104 Stat. 1388–327; Pub. L. 103–66, title XI, §11002(a), Aug. 10, 1993, 107 Stat. 409.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 532; amended Pub. L. 101–508, title VII, §7001(a)(1), Nov. 5, 1990, 104 Stat. 1388–327; Pub. L. 103–66, title XI, §11002(a), Aug. 10, 1993, 107 Stat. 409.)
 
 #### Amendments
 

@@ -50,7 +50,7 @@ The President, through the Committee on Environment and Natural Resources of the
 
 &emsp;(A) establish needs, priorities, and guidelines for a peer-reviewed, inter-agency research program on the causes, characteristics, and impacts of hypoxia;
 
-&emsp;(B) identify alternatives for preventing unnecessary duplication of effort among Federal agencies and departments with respect to hypoxia; and
+&emsp;(B) identify alternatives for preventing unnecessary duplication of effort among Federalagencies and departments with respect to hypoxia; and
 
 &emsp;(C) provide for Federal cooperation and coordination with and assistance to the States, Indian tribes, and local governments in the prevention, reduction, management, mitigation, and control of hypoxia and its environmental impacts.
 
@@ -198,7 +198,7 @@ Pub. L. 105–383, title VI, §601, Nov. 13, 1998, 112 Stat. 3447, provided that
 
 Pub. L. 105–383, title VI, §602, Nov. 13, 1998, 112 Stat. 3447, provided that: "The Congress finds that—
 
-&emsp;"(1) the recent outbreak of the harmful microbe Pfiesteria piscicida in the coastal waters of the United States is one example of potentially harmful algal blooms composed of naturally occurring species that reproduce explosively and that are increasing in frequency and intensity in the Nation's coastal waters;
+&emsp;"(1) the recent outbreak of the harmful microbe Pfiesteria piscicida in the coastal waters of theUnited States is one example of potentially harmful algal blooms composed of naturally occurring species that reproduce explosively and that are increasing in frequency and intensity in the Nation's coastal waters;
 
 &emsp;"(2) other recent occurrences of harmful algal blooms include red tides in the Gulf of Mexico and the Southeast; brown tides in New York and Texas; ciguatera fish poisoning in Hawaii, Florida, Puerto Rico, and the United States Virgin Islands; and shellfish poisonings in the Gulf of Maine, the Pacific Northwest, and the Gulf of Alaska;
 

@@ -18,7 +18,7 @@ In the case of a corporation, there shall be allowed as a deduction an amount eq
 
 &emsp;&emsp;(A) if at the close of the day on which such dividend is received, such corporation is a member of the same affiliated group as the corporation distributing such dividend, and
 
-&emsp;&emsp;(B) if such dividend is distributed out of the earnings and profits of a taxable year of the distributing corporation which ends after December 31, 1963, and on each day of which the distributing corporation and the corporation receiving the dividend were members of such affiliated group.
+&emsp;&emsp;(B) if such dividend is distributed out of the earnings and profits of a taxable year of the distributing corporation which endsafter December 31, 1963, and on each day of which the distributing corporation and the corporation receiving the dividend were members of such affiliated group.
 
 #### (2) Affiliated group
 
@@ -124,7 +124,7 @@ Subsecs. (c) to (e). Pub. L. 100–203, §10221(b), added subsec. (c) and redesi
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §611(a)(1), substituted "80 percent" for "85 percent".
 
-Subsec. (b)(3)(C). Pub. L. 99–514, §411(b)(2)(C)(iv), inserted "and" at end of cl. (i), redesignated cl. (iii) as\(ii), and struck out former cl. (ii) which read as follows: "$400,000 limitation for certain exploration expenditures under section 617(h)(1), and".
+Subsec. (b)(3)(C). Pub. L. 99–514, §411(b)(2)(C)(iv), inserted "and" at end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: "$400,000 limitation for certain exploration expenditures under section 617(h)(1), and".
 
 <b>1984</b>—Subsec. (b)(3)(C). Pub. L. 98–369, §211(b)(3)(A), inserted "and" at end of cl. (ii), struck out cl. (iii) which provided for a $25,000 limitation on small business deduction of life insurance companies under sections 804(a)(3) and 809(d)(10), and redesignated cl. (iv) as (iii).
 

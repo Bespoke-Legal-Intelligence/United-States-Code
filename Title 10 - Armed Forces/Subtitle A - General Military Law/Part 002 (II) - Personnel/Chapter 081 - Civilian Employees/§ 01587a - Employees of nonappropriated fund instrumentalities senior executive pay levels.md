@@ -14,7 +14,7 @@ Standards of Comparability.—Subject to subsection (d), the Secretary of Defens
 
 (d)
 
-Establishment of Pay Rates.—The Secretary of Defense shall apply subsections (a) and (b) of section 5382 of title 5 in the regulation of compensation under this section.
+Establishment of Pay Rates.—The Secretary of Defense shall apply subsections (a) and\(b) of section 5382 of title 5 in the regulation of compensation under this section.
 
 (e)
 

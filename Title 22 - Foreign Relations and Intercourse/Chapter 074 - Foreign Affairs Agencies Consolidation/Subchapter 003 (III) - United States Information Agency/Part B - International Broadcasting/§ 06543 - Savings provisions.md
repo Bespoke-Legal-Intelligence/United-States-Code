@@ -4,7 +4,7 @@
 
 All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
 
-&emsp;(1) that have been issued, made, granted, or allowed to become effective by the President,any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions exercised by the Broadcasting Board of Governors of the United States Information Agency on the day before the effective date of this subchapter, and
+&emsp;(1) that have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions exercised by the Broadcasting Board of Governors of the United States Information Agency on the day before the effective date of this subchapter, and
 
 &emsp;(2) that are in effect at the time this subchapter takes effect, or were final before the effective date of this subchapter and are to become effective on or after the effective date of this subchapter,
 
@@ -36,7 +36,7 @@ No suit, action, or other proceeding commenced by or against any officer in the 
 
 #### (2) Liability of the Board
 
-&emsp;The Board shall participate in suits continued under paragraph (1) where the Broadcasting Board of Governors or other appropriate official of the Board is added as a party and shall be liable for any judgments or remedies in those suits or proceedings arising from the exercise of the functions transferred by this part to the same extent that USIA would have been liable if such judgment or remedy had been rendered on the day before the abolition of USIA.
+&emsp;The Board shall participate in suits continued under paragraph (1) where the Broadcasting Board of Governors or other appropriate official of the Board is added as a party and shall be liable for any judgments or remedies in those suits or proceedings arising from the exercise of the functions transferredby this part to the same extent that USIA would have been liable if such judgment or remedy had been rendered on the day before the abolition of USIA.
 
 #### (e) Administrative actions relating to promulgation of regulations
 
@@ -53,4 +53,8 @@ Reference in any other Federal law, Executive order, rule, regulation, or delega
 For the effective date of this subchapter, referred to in subsecs. (a), (b)(1), (d)(1), (e), and (f), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of this title.
 
 This part, referred to in subsecs. (b) to (e), was in the original "this chapter", meaning chapter 3 (§§1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
+
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 

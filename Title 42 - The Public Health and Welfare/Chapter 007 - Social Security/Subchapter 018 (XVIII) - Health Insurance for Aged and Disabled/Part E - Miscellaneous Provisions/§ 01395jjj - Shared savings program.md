@@ -134,7 +134,7 @@
 
 #### (ii) Establish and update benchmark
 
-&emsp;&emsp;&emsp;The Secretary shall estimate a benchmark for each agreement period for each ACO using the most recent available 3 years of per-beneficiary expenditures for parts A and B services for Medicare fee-for-service beneficiaries assigned to the ACO. Such benchmark shall be adjusted for beneficiary characteristics and such other factors as the Secretary determines appropriate and updated by the projected absolute amount of growth in national per capita expenditures for parts A and B services under the original Medicare fee-for-service program, as estimated by the Secretary. Such benchmark shall be reset at the start of each agreement period.
+&emsp;&emsp;&emsp;The Secretary shall estimate a benchmark for each agreement period for eachACO using the most recent available 3 years of per-beneficiary expenditures for parts A and B services for Medicare fee-for-service beneficiaries assigned to the ACO. Such benchmark shall be adjusted for beneficiary characteristics and such other factors as the Secretary determines appropriate and updated by the projected absolute amount of growth in national per capita expenditures for parts A and B services under the original Medicare fee-for-service program, as estimated by the Secretary. Such benchmark shall be reset at the start of each agreement period.
 
 #### (2) Payments for shared savings
 
@@ -238,7 +238,7 @@ During the period beginning on March 23, 2010, and ending on the date the progra
 
 #### (B) No application of geographic limitation
 
-&emsp;&emsp;The geographic limitation under section 1395m(m)(4)(C)(i) of this title shall not applywith respect to an originating site described in section 1395m(m)(4)(C)(ii) of this title (including the home of a beneficiary under subparagraph (A)), subject to State licensing requirements.
+&emsp;&emsp;The geographic limitation under section 1395m(m)(4)(C)(i) of this title shall not apply with respect to an originating site described in section 1395m(m)(4)(C)(ii) of this title (including the home of a beneficiary under subparagraph (A)), subject to State licensing requirements.
 
 #### (2) Definitions
 
@@ -292,7 +292,7 @@ During the period beginning on March 23, 2010, and ending on the date the progra
 
 #### (B) Scope
 
-&emsp;&emsp;An ACO Beneficiary Incentive Program established under this subsection shall provide incentive payments to all of the following Medicare fee-for-service beneficiaries who are furnished qualifying services by the ACO:
+&emsp;&emsp;An ACO Beneficiary Incentive Program established under this subsection shall provide incentive payments to all of the following Medicare fee-for-service beneficiaries whoare furnished qualifying services by the ACO:
 
 &emsp;&emsp;&emsp;(i) With respect to the Track 2 and Track 3 payment models described in section 425.600(a) of title 42, Code of Federal Regulations (or in any successor regulation), Medicare fee-for-service beneficiaries who are preliminarily prospectively or prospectively assigned (or otherwise assigned, as determined by the Secretary) to the ACO.
 
@@ -314,7 +314,7 @@ During the period beginning on March 23, 2010, and ending on the date the progra
 
 &emsp;&emsp;&emsp;(i) in an amount up to $20, with such maximum amount updated annually by the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the previous year;
 
-&emsp;&emsp;&emsp;(ii) in the same amount for each Medicare fee-for-service beneficiary described in clause (i) or (ii) of subparagraph (B) without regard to enrollment of such a beneficiary in a medicare supplemental policy (described in section 1395ss(g)(1) of this title), in a State Medicaid plan undersubchapter XIX or a waiver of such a plan, or in any other health insurance policy or health benefit plan;
+&emsp;&emsp;&emsp;(ii) in the same amount for each Medicare fee-for-service beneficiary described in clause (i) or (ii) of subparagraph (B) without regard to enrollment of such a beneficiary in a medicare supplemental policy (described in section 1395ss(g)(1) of this title), in a State Medicaid plan under subchapter XIX or a waiver of such a plan, or in any other health insurance policy or health benefit plan;
 
 &emsp;&emsp;&emsp;(iii) made for each qualifying service furnished to such a beneficiary described in clause (i) or (ii) of subparagraph (B) during a period specified by the Secretary; and
 

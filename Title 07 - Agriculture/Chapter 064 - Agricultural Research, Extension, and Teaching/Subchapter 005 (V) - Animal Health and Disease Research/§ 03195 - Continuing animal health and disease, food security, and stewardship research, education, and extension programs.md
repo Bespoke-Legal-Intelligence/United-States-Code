@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In each State with one or more accredited colleges of veterinary medicine, the deans of the accredited college or colleges and the director of the State agricultural experiment station shall develop a comprehensive animal health and disease research program for the State based on the animal health research capacity of each eligible institution in the State,which shall be submitted to the Secretary for approval and shall be used for the allocation of funds available to the State under this section.
+&emsp;In each State with one or more accredited colleges of veterinary medicine, the deans of the accredited college or colleges and the director of the State agricultural experiment station shall develop a comprehensive animal health and disease research program for the State based on the animal health research capacity of each eligible institution in the State, which shall be submitted to the Secretary for approval and shall be used for the allocation of funds available to the State under this section.
 
 #### (2) Use of funds
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(B) 48 percent shall be distributed among the several States in the proportion that the value of and income to producers from domestic livestock, poultry, and commercial aquaculture species in each State bears to the total value of and income to producers from domestic livestock, poultry, and commercial aquaculture species in all the States. The Secretary shall determine the total value of and income from domestic livestock, poultry, and commercial aquaculture species in all the States and the proportionate value of and income from domestic livestock, poultry, and commercial aquaculture species for each State, based on the most current inventory of all cattle, sheep, swine, horses, poultry, and commercial aquaculture species published by the Department of Agriculture.
 
-&emsp;&emsp;(C) 48 percent shall be distributed among the several States in the proportion that the animal health research capacity of the eligible institutions in each State bears to the total animal health research capacity in all the States. The Secretary shall determinethe animal health research capacity of the eligible institutions.
+&emsp;&emsp;(C) 48 percent shall be distributed among the several States in the proportion that the animal health research capacity of the eligible institutions in each State bears to the total animal health research capacity in all the States. The Secretary shall determine the animal health research capacity of the eligible institutions.
 
 #### (5) Special rules for apportionment of certain funds
 
@@ -146,7 +146,7 @@ Subsecs. (d), (f). Pub. L. 104–127, §811(3), (4), substituted "domestic lives
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1981 Amendment
 

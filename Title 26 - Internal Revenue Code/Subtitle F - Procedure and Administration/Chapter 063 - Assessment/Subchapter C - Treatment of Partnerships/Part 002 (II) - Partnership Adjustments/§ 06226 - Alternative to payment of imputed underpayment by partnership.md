@@ -88,7 +88,7 @@ A prior section 6226, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982,
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–141, §206(d), inserted "(and no assessment of tax, levy, or proceeding in any court for the collection of such underpayment shall bemade against such partnership)" after "section 6225 shall not apply with respect to such underpayment" in concluding provisions.
+<b>2018</b>—Subsec. (a). Pub. L. 115–141, §206(d), inserted "(and no assessment of tax, levy, or proceeding in any court for the collection of such underpayment shall be made against such partnership)" after "section 6225 shall not apply with respect to such underpayment" in concluding provisions.
 
 Subsec. (a)(2). Pub. L. 115–141, §201(c)(4), substituted "any adjustment to a partnership-related item" for "any adjustment to income, gain, loss, deduction, or credit".
 

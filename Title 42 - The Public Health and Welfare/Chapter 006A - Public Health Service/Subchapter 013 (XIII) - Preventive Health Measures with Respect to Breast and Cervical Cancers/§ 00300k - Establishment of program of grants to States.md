@@ -54,7 +54,7 @@ The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch
 
 #### Prior Provisions
 
-A prior section 300k, Pub. L. 93–641, §2, Jan. 4, 1975, 88 Stat. 2226, set forth Congressional findings relating tonational health planning and development, prior to omission in connection with repeal of former section 300k–1 et seq. of this title.
+A prior section 300k, Pub. L. 93–641, §2, Jan. 4, 1975, 88 Stat. 2226, set forth Congressional findings relating to national health planning and development, prior to omission in connection with repeal of former section 300k–1 et seq. of this title.
 
 A prior section 1501 of act July 1, 1944, ch. 373, title XV, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2227; amended Oct. 4, 1979, Pub. L. 96–79, title I, §101(a)(1)(A), (2), (3), 93 Stat. 593; Dec. 17, 1980, Pub. L. 96–538, title III, §301, 94 Stat. 3190, which related to guidelines for national health policy, was classified to section 300k–1 of this title, prior to repeal by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799, effective Jan. 1, 1987.
 

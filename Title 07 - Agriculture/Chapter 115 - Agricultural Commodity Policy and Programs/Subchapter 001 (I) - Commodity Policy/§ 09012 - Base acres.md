@@ -24,7 +24,7 @@
 
 #### (C) Effect of failure to make election
 
-&emsp;&emsp;If the owner of a farm fails to make the election under this subsection, or fails to timely notify the Secretary of the election as required by subparagraph (B)(iii), the owner shall be deemed to have elected to retain base acres, including generic base acres, as provided in paragraph (2).
+&emsp;&emsp;If the owner of a farm fails to make the election under this subsection, or fails to timely notify the Secretary of the electionas required by subparagraph (B)(iii), the owner shall be deemed to have elected to retain base acres, including generic base acres, as provided in paragraph (2).
 
 #### (2) Retention of base acres
 
@@ -98,7 +98,7 @@
 
 #### (1) Required reduction
 
-&emsp;Notwithstanding the election made under subsection (a), if the sum of the base acres for a farm, including generic base acres, and the acreage described in paragraph (2) exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for 1 or more covered commodities or generic base acres for the farm so that the sum of the base acres, including generic base acres, and the acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
+&emsp;Notwithstanding the election made under subsection (a), if the sum of the base acres fora farm, including generic base acres, and the acreage described in paragraph (2) exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for 1 or more covered commodities or generic base acres for the farm so that the sum of the base acres, including generic base acres, and the acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
 
 #### (2) Other acreage
 

@@ -30,7 +30,7 @@ Section 1. <i>Purpose</i>. An effective and efficient government keeps careful t
 
 Federal law allows Federal employees to represent labor organizations and perform other non-agency business while being paid by American taxpayers (taxpayer-funded union time). The Congress, however, has also instructed the executive branch to interpret the law in a manner consistent with the requirements of an effective and efficient government.
 
-To that end, agencies should ensure that taxpayer-funded union time is used efficiently and authorized in amounts that are reasonable, necessary, and in the public interest. Federal employees should spend the clear majority of their duty hours working for the public. No agency should pay for Federal labor organizations' expenses, except where required by law. Agencies should eliminate unrestricted grants of taxpayer-funded union time and instead require employees to obtain specific authorization before using such time. Agenciesshould also monitor use of taxpayer-funded union time, ensure it is used only for authorized purposes, and make information regarding its use readily available to the public.
+To that end, agencies should ensure that taxpayer-funded union time is used efficiently and authorized in amounts that are reasonable, necessary, and in the public interest. Federal employees should spend the clear majority of their duty hours working for the public. No agency should pay for Federal labor organizations' expenses, except where required by law. Agencies should eliminate unrestricted grants of taxpayer-funded union time and instead require employees to obtain specific authorization before using such time. Agencies should also monitor use of taxpayer-funded union time, ensure it is used only for authorized purposes, and make information regarding its use readily available to the public.
 
 Sec. 2. <i>Definitions</i>. For purposes of this order, the following definitions shall apply:
 
@@ -134,7 +134,7 @@ Sec. 7. <i>Public Disclosure and Transparency</i>. (a) Within 180 days of the da
 
 (iii) the purposes for which taxpayer-funded union time was granted; and
 
-(iv) the information required by section 6(a)(ii) of this order for employees using taxpayer-funded uniontime, sufficiently aggregated that such disclosure would not unduly risk disclosing information protected by law, including personally identifiable information.
+(iv) the information required by section 6(a)(ii) of this order for employees using taxpayer-funded union time, sufficiently aggregated that such disclosure would not unduly risk disclosing information protected by law, including personally identifiable information.
 
 (c) The OPM Director shall publish the annual report required by this section by June 30 of each year. The first report shall cover fiscal year 2019 and shall be published by June 30, 2020.
 
@@ -157,4 +157,6 @@ Sec. 9. <i>General Provisions</i>. (a) Nothing in this order shall abrogate any 
 (f) If any provision of this order, including any of its applications, is held to be invalid, the remainder of this order and all of its other applications shall not be affected thereby.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Ex. Ord. No. 13837, set out above, construed to be amended to the extent necessary, by Memorandum of President of the United States, Oct. 11, 2019, 84 F.R. 56095, set out as a note under section 7101 of this title.\]
 

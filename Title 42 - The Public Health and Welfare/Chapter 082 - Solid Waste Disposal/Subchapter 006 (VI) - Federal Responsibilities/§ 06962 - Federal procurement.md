@@ -18,7 +18,7 @@ Any procurement, by any procuring agency, which is subject to regulations of the
 
 &emsp;(C) are only available at an unreasonable price. Any determination under subparagraph (B) shall be made on the basis of the guidelines of the National Institute of Standards and Technology in any case in which such material is covered by such guidelines.
 
-(2) Agencies that generate heat, mechanical, or electrical energy from fossil fuel in systems that have the technical capability of using energy or fuels derived from solid waste as a primary or supplementary fuel shall use such capability to the maximum extent practicable.
+(2) Agencies that generate heat, mechanical, or electrical energy from fossil fuel in systemsthat have the technical capability of using energy or fuels derived from solid waste as a primary or supplementary fuel shall use such capability to the maximum extent practicable.
 
 (3)(A) After the date specified in any applicable guidelines prepared pursuant to subsection (e) of this section, contracting officers shall require that vendors:
 
@@ -102,7 +102,7 @@ As used in this section, in the case of paper products, the term "recovered mate
 
 &emsp;(D) annual review and monitoring of the effectiveness of an agency's affirmative procurement program.
 
-> In the case of paper, the recovered materials preference program required under subparagraph\(A) shall provide for the maximum use of the post consumer recovered materials referred to in subsection (h)(1).
+> In the case of paper, the recovered materials preference program required under subparagraph (A) shall provide for the maximum use of the post consumer recovered materials referred to in subsection (h)(1).
 
 (3) In developing the preference program, the following options shall be considered for adoption:
 

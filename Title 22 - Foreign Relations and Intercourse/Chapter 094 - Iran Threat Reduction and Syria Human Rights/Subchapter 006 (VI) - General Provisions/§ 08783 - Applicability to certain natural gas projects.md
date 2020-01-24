@@ -4,7 +4,7 @@
 
 Nothing in this Act or the amendments made by this Act shall apply to any activity relating to a project—
 
-&emsp;(1) for the development of natural gas and the construction and operation of a pipeline totransport natural gas from Azerbaijan to Turkey and Europe;
+&emsp;(1) for the development of natural gas and the construction and operation of a pipeline to transport natural gas from Azerbaijan to Turkey and Europe;
 
 &emsp;(2) that provides to Turkey and countries in Europe energy security and energy independence from the Government of the Russian Federation and other governments with jurisdiction over persons subject to sanctions imposed under this Act or amendments made by this Act; and
 

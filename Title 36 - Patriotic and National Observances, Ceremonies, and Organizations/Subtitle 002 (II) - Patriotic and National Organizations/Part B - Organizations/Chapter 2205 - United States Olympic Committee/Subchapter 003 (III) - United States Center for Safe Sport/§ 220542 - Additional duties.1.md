@@ -30,7 +30,7 @@ In General.—The Center shall—
 
 (b)
 
-Rule of Construction.—Nothing in this section shall be construed to limit the ability of a national governing body or paralympic sports organization to impose an interim measure toprevent an individual who is the subject of an allegation of sexual abuse from interacting with an amateur athlete prior to the Center exercising its jurisdiction over a matter.
+Rule of Construction.—Nothing in this section shall be construed to limit the ability ofa national governing body or paralympic sports organization to impose an interim measure to prevent an individual who is the subject of an allegation of sexual abuse from interacting with an amateur athlete prior to the Center exercising its jurisdiction over a matter.
 
 (Added Pub. L. 115–126, title II, §202(a), Feb. 14, 2018, 132 Stat. 322.)
 

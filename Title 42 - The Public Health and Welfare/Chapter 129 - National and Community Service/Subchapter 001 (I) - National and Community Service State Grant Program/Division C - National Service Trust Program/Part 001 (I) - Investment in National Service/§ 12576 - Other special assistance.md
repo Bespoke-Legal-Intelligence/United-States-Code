@@ -4,7 +4,7 @@
 
 #### (1) Grants authorized
 
-&emsp;From amounts appropriated for a fiscal year pursuant to the authorization of appropriation in section 12681(a)(5) of this title, the Corporation may make a grant in an amount between $250,000 and $1,000,000 to a State to assist the State to establish or operate the State Commission on National and Community Service required to be established by the State under section 12638 of this title.
+&emsp;From amounts appropriated for a fiscal year pursuant to the authorization of appropriationin section 12681(a)(5) of this title, the Corporation may make a grant in an amount between $250,000 and $1,000,000 to a State to assist the State to establish or operate the State Commission on National and Community Service required to be established by the State under section 12638 of this title.
 
 #### (2) Matching requirement
 
@@ -80,7 +80,7 @@ Subsec. (a)(2), (3). Pub. L. 111–13, §1305(1)(B), added pars. (2) and (3) and
 
 &emsp;"(A) 85 percent of the total cost to establish or operate the State Commission for the first year for which the State Commission receives assistance under this subsection; and
 
-&emsp;"(B) such smaller percentage of such cost as the Corporation may establish for the second, third, and fourth years of such assistance in order to ensurethat the Federal share does not exceed 50 percent of such costs for the fifth year, and any subsequent year, for which the State Commission receives assistance under this subsection."
+&emsp;"(B) such smaller percentage of such cost as the Corporation may establish for the second, third, and fourth years of such assistance in order to ensure that the Federal share does not exceed 50 percent of such costs for the fifth year, and any subsequent year, for which the State Commission receives assistance under this subsection."
 
 Subsec. (b). Pub. L. 111–13, §1305(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The Corporation may undertake activities, including activities carried out through part A of title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), to involve in disaster relief efforts youth corps programs described in section 12572(a)(2) of this title and other programs that receive assistance under the national service laws."
 

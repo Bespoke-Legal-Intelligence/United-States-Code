@@ -24,7 +24,7 @@ The Congress finds that—
 
 (k) Land uses in the coastal zone, and the uses of adjacent lands which drain into the coastal zone, may significantly affect the quality of coastal waters and habitats, and efforts to control coastal water pollution from land use activities must be improved.
 
-(l) Because global warming may result in a substantial sea level rise with serious adverse effects in the coastal zone, coastal states must anticipate and plan for such an occurrence.
+(l) Because global warming may result in a substantial sea level rise with serious adverseeffects in the coastal zone, coastal states must anticipate and plan for such an occurrence.
 
 (m) Because of their proximity to and reliance upon the ocean and its resources, the coastal states have substantial and significant interests in the protection, management, and development of the resources of the exclusive economic zone that can only be served by the active participation of coastal states in all Federal programs affecting such resources and, wherever appropriate, by the development of state ocean resource plans as part of their federally approved coastal zone management programs.
 
@@ -100,7 +100,7 @@ Findings.—Congress finds and declares the following:
 
 &emsp;"(3) Marine resources contribute to the Nation's economic stability. Commercial and recreational fishery activities support an industry with an estimated value of $12,000,000,000 a year.
 
-&emsp;"(4) Wetlands play a vital role in sustaining the coastal economy and environment. Wetlands support and nourish fishery and marine resources. They also protect the Nation's shores from storm and wave damage. Coastal wetlands contribute an estimated $5,000,000,000 to the production of fish and shellfish in the United States coastal waters. Yet, 50 percent of the Nation's coastal wetlands have been destroyed, and more are likely to decline in the near future.
+&emsp;"(4) Wetlands play a vital role in sustaining the coastal economy and environment. Wetlands support and nourish fishery and marine resources. They also protect the Nation's shores from storm and wave damage. Coastal wetlands contribute an estimated $5,000,000,000 to the production of fish and shellfish in the United States coastal waters. Yet, 50 percent ofthe Nation's coastal wetlands have been destroyed, and more are likely to decline in the near future.
 
 &emsp;"(5) Nonpoint source pollution is increasingly recognized as a significant factor in coastal water degradation. In urban areas, storm water and combined sewer overflow are linked to major coastal problems, and in rural areas, run-off from agricultural activities may add to coastal pollution.
 

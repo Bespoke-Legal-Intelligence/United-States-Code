@@ -20,7 +20,7 @@ For any fiscal year after the end of the period for implementation, a jurisdicti
 
 #### (4) Funding reduction
 
-&emsp;If a jurisdiction does not comply with paragraph (3), then the jurisdiction shall be subject to a funding reduction as specified in subsection (a).
+&emsp;If a jurisdiction does not comply with paragraph (3), then the jurisdiction shall be subjectto a funding reduction as specified in subsection (a).
 
 #### (c) Reallocation
 
@@ -34,7 +34,7 @@ The provisions of this subchapter that are cast as directions to jurisdictions o
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 109–248, July27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
+This subchapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (a), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Subpart 1 of part E of title I of the Act was classified generally to part A (§3750 et seq.) of subchapter V of chapter 46 of Title 42, The Public Health and Welfare, prior to editorial reclassification as part A (§10151 et seq.) of subchapter V of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 

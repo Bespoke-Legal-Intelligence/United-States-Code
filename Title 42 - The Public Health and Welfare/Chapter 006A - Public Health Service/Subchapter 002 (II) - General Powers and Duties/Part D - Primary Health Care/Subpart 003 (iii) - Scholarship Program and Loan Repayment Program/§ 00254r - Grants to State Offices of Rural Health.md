@@ -50,7 +50,7 @@ The Secretary may not make a grant under subsection (a) unless the State involve
 
 &emsp;&emsp;&emsp;(i) within the State to provide technical and other nonfinancial assistance under section 254c(f) of this title;
 
-&emsp;&emsp;&emsp;(ii) under a memorandum of agreement entered into with the State office of ruralhealth under section 254c(h) of this title; or
+&emsp;&emsp;&emsp;(ii) under a memorandum of agreement entered into with the State office of rural health under section 254c(h) of this title; or
 
 &emsp;&emsp;&emsp;(iii) under a grant under section 254q–1 of this title;
 

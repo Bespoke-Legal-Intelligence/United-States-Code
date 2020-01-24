@@ -14,7 +14,7 @@ The Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts a
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–275 substituted "all projects and project facilities governed by the Federal reclamationlaw (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto), including any project and facilities constructed with funds provided by the Small Reclamation Projects Act (Act of August 6, 1956, 70 Stat. 1044, and Acts amendatory thereof or supplementary thereto) or with funds provided by the Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts amendatory thereof or supplementary thereto)" for "irrigation or power systems operated and maintained by the Bureau of Reclamation, Department of the Interior".
+<b>1982</b>—Pub. L. 97–275 substituted "all projects and project facilities governed by the Federal reclamation law (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto), including any project and facilities constructed with funds provided by the Small Reclamation Projects Act (Act of August 6, 1956, 70 Stat. 1044, and Acts amendatory thereof or supplementary thereto) or with funds provided by the Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts amendatory thereof or supplementary thereto)" for "irrigation or power systems operated and maintained by the Bureau of Reclamation, Department of the Interior".
 
 #### Transfer of Functions
 
@@ -52,7 +52,7 @@ Contracts.—Any contract signed under this section shall provide that—
 
 &emsp;"(1) the price for the use of such water shall be at least sufficient to recover all Federal operation and maintenance costs, and an appropriate share of capital costs, except that, for water delivered to a landholding in excess of 960 acres of class I lands or the equivalent thereof for a qualified recipient and 320 acres of class I lands or the equivalent thereof for a limited recipient, the cost of such water shall be full cost (as defined in section 202(3)(A) of Public Law 97–293, 43 U.S.C. 390bb) for those acres in excess of 960 acres or 320 acres, as appropriate;
 
-&emsp;"(2) the lands not now subject to reclamation law that receive temporary irrigation water supplies under this section shall not become subject to the ownership limitations of Federal reclamation law because of the delivery of such temporary water supplies;
+&emsp;"(2) the lands not now subject to reclamation law that receive temporary irrigation water suppliesunder this section shall not become subject to the ownership limitations of Federal reclamation law because of the delivery of such temporary water supplies;
 
 &emsp;"(3) the lands that are subject to the ownership limitations of Federal reclamation law shall not be exempted from those limitations because of the delivery of such temporary water supplies; and
 
@@ -102,7 +102,7 @@ Termination.—The programs and authorities established under this part shall te
 
 #### "SEC. 421. CENTRAL VALLEY PROJECT WATER RELEASES.
 
-"The Secretary of the Interior is authorized to install a temperature control curtain as a demonstrationproject at Shasta Dam, Central Valley project, California, at a cost not to exceed $5,500,000. The purpose of the demonstration project is to determine the effectiveness of the temperature control curtain in controlling the temperature of water releases from Shasta Dam, so as to protect and enhance anadromous fisheries in the Sacramento River and San Francisco Bay/Sacramento-San Joaquin Delta and Estuary\[.\]
+"The Secretary of the Interior is authorized to install a temperature control curtain as a demonstration project at Shasta Dam, Central Valley project, California, at a cost not to exceed $5,500,000. The purpose of the demonstration project is to determine the effectiveness of the temperature control curtain in controlling the temperature of water releases from Shasta Dam, so as to protect and enhance anadromous fisheries in the Sacramento River and San Francisco Bay/Sacramento-San Joaquin Delta and Estuary\[.\]
 
 #### "part 3—authorization and savings clause
 

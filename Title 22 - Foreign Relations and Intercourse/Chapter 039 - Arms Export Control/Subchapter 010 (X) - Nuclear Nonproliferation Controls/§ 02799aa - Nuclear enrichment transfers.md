@@ -20,7 +20,7 @@ Except as provided in subsection (b) of this section, no funds made available to
 
 (2)(A) A certification under paragraph (1) of this subsection shall take effect on the date on which the certification is received by the Congress. However, if, within thirty calendar days after receiving this certification, the Congress enacts a joint resolution stating in substance that the Congress disapproves the furnishing of assistance pursuant to the certification, then upon the enactment of that resolution the certification shall cease to be effective and all deliveries of assistance furnished under the authority of that certification shall be suspended immediately.
 
-(B) Any joint resolution under this paragraph shall be considered in the Senate in accordancewith the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+(B) Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
 (Pub. L. 90–629, ch. 10, §101, as added Pub. L. 103–236, title VIII, §826(a), Apr. 30, 1994, 108 Stat. 515; amended Pub. L. 113–276, title II, §208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 

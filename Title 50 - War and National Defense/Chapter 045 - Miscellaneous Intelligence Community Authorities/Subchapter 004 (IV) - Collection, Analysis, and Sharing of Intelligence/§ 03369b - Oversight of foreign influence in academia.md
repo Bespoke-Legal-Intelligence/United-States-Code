@@ -1,0 +1,44 @@
+### §3369b. Oversight of foreign influence in academia
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Covered institution of higher education
+
+&emsp;The term "covered institution of higher education" means an institution described in section 1002 of title 20 that receives Federal funds in any amount and for any purpose.
+
+#### (2) Sensitive research subject
+
+&emsp;The term "sensitive research subject" means a subject of research that is carried out at a covered institution of higher education that receives funds that were appropriated for—
+
+&emsp;&emsp;(A) the National Intelligence Program; or
+
+&emsp;&emsp;(B) any Federal agency the Director of National Intelligence deems appropriate.
+
+#### (b) Report required
+
+Not later than 180 days after December 20, 2019, and not less frequently than once each year thereafter, the Director of National Intelligence, in consultation with such elements of the intelligence community as the Director considers appropriate and consistent with the privacy protections afforded to United States persons, shallsubmit to congressional intelligence committees a report on risks to sensitive research subjects posed by foreign entities in order to provide Congress and covered institutions of higher education with more complete information on these risks and to help ensure academic freedom.
+
+#### (c) Contents
+
+The report required by subsection (b) shall include the following:
+
+&emsp;(1) A list of sensitive research subjects that could affect national security.
+
+&emsp;(2) A list of foreign entities, including governments, corporations, nonprofit organizations and for-profit organizations, and any subsidiary or affiliate of such an entity, that the Director determines pose a counterintelligence, espionage (including economic espionage), or other national security threat with respect to sensitive research subjects.
+
+&emsp;(3) A list of any known or suspected attempts by foreign entities to exert pressure on covered institutions of higher education, including attempts to limit freedom of speech, propagate misinformation or disinformation, or to influence professors, researchers, or students.
+
+&emsp;(4) Recommendations for collaboration between covered institutions of higher education and the intelligence community to mitigate threats to sensitive research subjects associated with foreign influence in academia, including any necessary legislative or administrative action.
+
+#### (d) Congressional notifications required
+
+Not later than 30 days after the date on which the Director identifies a change to either list described in paragraph (1) or (2) of subsection (c), the Director shall notify the congressional intelligence committees of the change.
+
+(Pub. L. 116–92, div. E, title LVII, §5713, Dec. 20, 2019, 133 Stat. 2172.)
+
+#### Definitions
+
+For definitions of "intelligence community" and "congressional intelligence committees", referred to in text, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
+

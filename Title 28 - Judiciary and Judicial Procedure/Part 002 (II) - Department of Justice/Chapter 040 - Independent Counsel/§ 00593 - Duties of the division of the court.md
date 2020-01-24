@@ -14,7 +14,7 @@ Authority.—Upon receipt of an application under section 592(c), the division o
 
 &emsp;(2)
 
-Qualifications of independent counsel.—The division of the court shall appoint as independent counsel an individual who has appropriate experience and who will conduct the investigation and any prosecution in aprompt, responsible, and cost-effective manner. The division of the court shall seek to appoint as independent counsel an individual who will serve to the extent necessary to complete the investigation and any prosecution without undue delay. The division of the court may not appoint as an independent counsel any person who holds any office of profit or trust under the United States.
+Qualifications of independent counsel.—The division of the court shall appoint as independent counsel an individual who has appropriate experience and who will conduct the investigation and any prosecution in a prompt, responsible, and cost-effective manner. The division of the court shall seek to appoint as independent counsel an individual who will serve to the extent necessary to complete the investigation and any prosecution without undue delay. The division of the court may not appoint as an independent counsel any person who holds any office of profit or trust under the United States.
 
 &emsp;(3)
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 103–270 applicable with respect to independent counsels a
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, but with subsec. (f) applicable to previously initiated proceedings pending on Dec. 15, 1987, see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
+Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independentcounsels appointed on and after Dec. 15, 1987, but with subsec. (f) applicable to previously initiated proceedings pending on Dec. 15, 1987, see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

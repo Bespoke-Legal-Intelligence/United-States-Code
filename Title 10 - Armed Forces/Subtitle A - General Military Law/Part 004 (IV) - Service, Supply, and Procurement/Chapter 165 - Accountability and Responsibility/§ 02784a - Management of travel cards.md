@@ -20,11 +20,11 @@ Offsets for Delinquent Travel Card Charges.—(1) The Secretary of Defense may r
 
 (3) The amount of pay deducted and withheld from the pay owed to an employee or member with respect to a pay period under paragraph (1) may not exceed 15 percent of the disposable pay of the employee or member for that pay period, except that a higher amount may be deducted and withheld with the written consent of the employee or member.
 
-(4) The Secretary of Defense shall prescribe procedures for deducting and withholding amounts from pay under this subsection. Theprocedures shall be substantially equivalent to the procedures under section 3716 of title 31.
+(4) The Secretary of Defense shall prescribe procedures for deducting and withholding amounts from pay under this subsection. The procedures shall be substantially equivalent to the procedures under section 3716 of title 31.
 
 (c)
 
-Offsets of Retired Pay.—In the case of a former employee of the Department of Defense or a retired member of the armed forces who is receiving retired pay and who owes an amount to a creditor by reason of one or more charges on a Defense travel card that were made before the retirement of the employee or member, the Secretary may require amounts to be deducted and withheld from any retired pay of the former employee or retired member in the same manner and subject to the same conditions as the Secretary deducts and withholds amounts from basic pay payable to an employee or member under subsection (b).
+Offsets of Retired Pay.—In the case of a former employee of the Department of Defense or a retired member of the armed forces who is receiving retired pay and who owes an amountto a creditor by reason of one or more charges on a Defense travel card that were made before the retirement of the employee or member, the Secretary may require amounts to be deducted and withheld from any retired pay of the former employee or retired member in the same manner and subject to the same conditions as the Secretary deducts and withholds amounts from basic pay payable to an employee or member under subsection (b).
 
 (d)
 

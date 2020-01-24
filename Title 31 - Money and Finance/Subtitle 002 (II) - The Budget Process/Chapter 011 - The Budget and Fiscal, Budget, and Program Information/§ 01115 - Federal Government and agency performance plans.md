@@ -44,7 +44,7 @@ Agency Performance Plans.—Not later than the first Monday in February of each 
 
 &emsp;&emsp;(C) an identification of the organizations, program activities, regulations, policies, and other activities that contribute to each performance goal, both within and external to the agency;
 
-&emsp;&emsp;(D) a description of how the agency is working with other agencies to achieve its performance goals as well as relevant Federal Government performance goals; and
+&emsp;&emsp;(D) a description of how the agency is working with other agencies to achieve itsperformance goals as well as relevant Federal Government performance goals; and
 
 &emsp;&emsp;(E) an identification of the agency officials responsible for the achievement of each performance goal, who shall be known as goal leaders;
 
@@ -72,7 +72,7 @@ Agency Performance Plans.—Not later than the first Monday in February of each 
 
 &emsp;&emsp;(C) the agency official responsible for resolving such challenges; and
 
-&emsp;(10) identify low-priority program activities based on an analysis of their contribution tothe mission and goals of the agency and include an evidence-based justification for designating a program activity as low priority.
+&emsp;(10) identify low-priority program activities based on an analysis of their contribution to the mission and goals of the agency and include an evidence-based justification for designating a program activity as low priority.
 
 (c)
 

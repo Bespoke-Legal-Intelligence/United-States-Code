@@ -58,7 +58,7 @@ Section 1. (a) All contracts involving the use of appropriated funds which shall
 
 (C) Such paid employment will not result in the displacement of employed workers, or be applied in skills, crafts, or trades in which there is a surplus of available gainful labor in the locality, or impair existing contracts for services; and
 
-(D) The rates of pay and other conditions of employment will not be less than those paid or provided forwork of a similar nature in the locality in which the work is being performed; and
+(D) The rates of pay and other conditions of employment will not be less than those paid or provided for work of a similar nature in the locality in which the work is being performed; and
 
 (2) The Attorney General has certified that the work-release laws or regulations of the jurisdiction involved are in conformity with the requirements of this order.
 

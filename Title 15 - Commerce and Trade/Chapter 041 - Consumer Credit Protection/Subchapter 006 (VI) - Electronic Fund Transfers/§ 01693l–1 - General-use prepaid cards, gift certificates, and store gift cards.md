@@ -60,7 +60,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(v) issued in paper form only (including for tickets and events); or
 
-&emsp;&emsp;&emsp;(vi) redeemable solely for admission to events or venues at a particular location or group of affiliated locations, which may also include services or goods obtainable—
+&emsp;&emsp;&emsp;(vi) redeemable solely for admission to events or venues at a particular locationor group of affiliated locations, which may also include services or goods obtainable—
 
 &emsp;&emsp;&emsp;&emsp;(I) at the event or venue after admission; or
 
@@ -162,7 +162,7 @@ A prior section 915 of Pub. L. 90–321 was renumbered section 916 and is classi
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

@@ -96,7 +96,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Construction
 
-Pub. L. 115–41, title II, §204(d), June 23, 2017, 131 Stat. 876, provided that: "Nothing in this Act \[see Short Title of 2017 Amendment note set out under section 101 of Title 38, Veterans' Benefits\] or the amendments madeby this Act may be construed to modify the certification issued by the Office of Personnel Management and the Office of Management and Budget regarding the performance appraisal system of the Senior Executive Service of the Department of Veterans Affairs."
+Pub. L. 115–41, title II, §204(d), June 23, 2017, 131 Stat. 876, provided that: "Nothing in this Act \[see Short Title of 2017 Amendment note set out under section 101 of Title 38, Veterans' Benefits\] or the amendments made by this Act may be construed to modify the certification issued by the Office of Personnel Management and the Office of Management and Budget regarding the performance appraisal system of the Senior Executive Service of the Department of Veterans Affairs."
 
 #### Extension of Certification
 
@@ -108,7 +108,7 @@ Extension to 2009.—
 
 &emsp;"(A)
 
-In general.—For any certification of a performance appraisal system under section 5307(d) of title 5, United States Code, in effect on the date of enactment of this Act \[Oct. 8, 2008\] and scheduled to expire at the end of calendar year 2008, the Director of the Office of Personnel Management may provide that such a certification shall be extended without requiring additional justification by the agency.
+In general.—For any certification of a performance appraisal system under section 5307(d) of title 5, United States Code, in effect on the date of enactment of this Act \[Oct. 8, 2008\] and scheduled toexpire at the end of calendar year 2008, the Director of the Office of Personnel Management may provide that such a certification shall be extended without requiring additional justification by the agency.
 
 &emsp;"(B)
 

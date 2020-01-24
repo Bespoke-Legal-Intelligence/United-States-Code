@@ -59,6 +59,7 @@
 | 2680–1. | Deadline for responses to questions from congressional committees. |
 | 2680–2. | Facilitating access to Department of State. |
 | [2680a.](%C2%A7%2002680a%20-%20Compensation%20for%20disability%20or%20death.md) | Compensation for disability or death. |
+| [2680b.](%C2%A7%2002680b%20-%20Special%20rules%20for%20certain%20monthly%20workers%27%20compensation%20payments%20and%20other%20payments%20for%20Department%20of%20State%20personnel%20under%20chief%20of%E2%80%A6.md) | Special rules for certain monthly workers' compensation payments and other payments for Department of State personnel under chief of mission authority. |
 | [2681\.](%C2%A7%2002681%20-%20International%20broadcasting%20facilities%3B%20transfer%20to%20Department%20of%20State%3B%20acquisition%20of%20property.md) | International broadcasting facilities; transfer to Department of State; acquisition of property. |
 | [2682\.](%C2%A7%2002682%20-%20Liquidation%20and%20disposal%20of%20broadcasting%20facilities.md) | Liquidation and disposal of broadcasting facilities. |
 | [2683\.](%C2%A7%2002683%20-%20Assumption%20of%20obligations%20of%20operation%20of%20broadcasting%20facilities.md) | Assumption of obligations of operation of broadcasting facilities. |
@@ -194,6 +195,7 @@
 - [&sect; 02680&#8211;1 - Deadline for responses to questions from congressional committees](%C2%A7%2002680%E2%80%931%20-%20Deadline%20for%20responses%20to%20questions%20from%20congressional%20committees.md)
 - [&sect; 02680&#8211;2 - Facilitating access to Department of State](%C2%A7%2002680%E2%80%932%20-%20Facilitating%20access%20to%20Department%20of%20State.md)
 - [&sect; 02680a - Compensation for disability or death](%C2%A7%2002680a%20-%20Compensation%20for%20disability%20or%20death.md)
+- [&sect; 02680b - Special rules for certain monthly workers' compensation payments and other payments for Department of State personnel under chief of&#8230;](%C2%A7%2002680b%20-%20Special%20rules%20for%20certain%20monthly%20workers%27%20compensation%20payments%20and%20other%20payments%20for%20Department%20of%20State%20personnel%20under%20chief%20of%E2%80%A6.md)
 - [&sect; 02681 - International broadcasting facilities; transfer to Department of State; acquisition of property](%C2%A7%2002681%20-%20International%20broadcasting%20facilities%3B%20transfer%20to%20Department%20of%20State%3B%20acquisition%20of%20property.md)
 - [&sect; 02682 - Liquidation and disposal of broadcasting facilities](%C2%A7%2002682%20-%20Liquidation%20and%20disposal%20of%20broadcasting%20facilities.md)
 - [&sect; 02683 - Assumption of obligations of operation of broadcasting facilities](%C2%A7%2002683%20-%20Assumption%20of%20obligations%20of%20operation%20of%20broadcasting%20facilities.md)

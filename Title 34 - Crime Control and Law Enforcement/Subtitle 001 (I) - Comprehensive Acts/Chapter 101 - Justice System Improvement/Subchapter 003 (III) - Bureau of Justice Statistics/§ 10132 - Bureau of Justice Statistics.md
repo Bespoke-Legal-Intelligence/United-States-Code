@@ -92,7 +92,7 @@ In recommending standards for gathering justice statistics under this section, t
 
 Not later than 1 year after July 29, 2010, and annually thereafter, the Director shall submit to Congress a report describing the data collected and analyzed under this section relating to crimes in Indian country.
 
-(Pub. L. 90–351, title I, §302, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1176; amended Pub. L. 98–473, title II, §605(b), Oct. 12, 1984, 98 Stat. 2079; Pub. L. 100–690, title VI, §6092(a), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 103–322, title XXXIII, §330001(h)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, §1115(a), Jan. 5, 2006, 119 Stat. 3103; Pub. L. 111–211, title II, §251(b), July 29, 2010, 124 Stat. 2297; Pub. L. 112–166, §2(h)(1), Aug. 10, 2012, 126 Stat. 1285.)
+(Pub. L. 90–351, title I, §302, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1176; amendedPub. L. 98–473, title II, §605(b), Oct. 12, 1984, 98 Stat. 2079; Pub. L. 100–690, title VI, §6092(a), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 103–322, title XXXIII, §330001(h)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, §1115(a), Jan. 5, 2006, 119 Stat. 3103; Pub. L. 111–211, title II, §251(b), July 29, 2010, 124 Stat. 2297; Pub. L. 112–166, §2(h)(1), Aug. 10, 2012, 126 Stat. 1285.)
 
 #### References in Text
 
@@ -185,6 +185,38 @@ Pub. L. 111–211, title II, §251(c), July 29, 2010, 124 Stat. 2298, provided t
 &emsp;"(2) has any effect other than to authorize, award, or deny a grant of funds to a federally recognized Indian tribe for the purposes described in the relevant grant program."
 
 \[For definition of "Indian tribe" as used in section 251(c) of Pub. L. 111–211, set out above, see section 203(a) of Pub. L. 111–211, set out as a note under section 2801 of Title 25, Indians.\]
+
+#### Report on Employment of Individuals Formerly Incarcerated in Federal Prisons
+
+Pub. L. 116–92, div. A, title XI, §1124, Dec. 20, 2019, 133 Stat. 1614, provided that:
+
+"(a)
+
+Definition.—In this section, the term 'covered individual'—
+
+&emsp;"(1) means an individual who has completed a term of imprisonment in a Federal prison for a Federal criminal offense; and
+
+&emsp;"(2) does not include an alien who is or will be removed from the United States for a violation of the immigration laws (as such term is defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101)).
+
+"(b)
+
+Study and Report Required.—The Director of the Bureau of Justice Statistics, in coordination with the Director of the Bureau of the Census, shall—
+
+&emsp;"(1) not later than 180 days after the date of enactment of this subtitle \[subtitle B of title XI of div. A of Pub. L. 116–92, approved Dec. 20, 2019\], design and initiate a study on the employment of covered individuals after their release from Federal prison, including by collecting—
+
+&emsp;&emsp;"(A) demographic data on covered individuals, including race, age, and sex; and
+
+&emsp;&emsp;"(B) data on employment and earnings of covered individuals who are denied employment, including the reasons for the denials; and
+
+&emsp;"(2) not later than 2 years after the date of enactment of this subtitle, and every 5 years thereafter, submit a report that does not include any personally identifiable information on the study conducted under paragraph (1) to—
+
+&emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+&emsp;&emsp;"(B) the Committee on Health, Education, Labor, and Pensions of the Senate;
+
+&emsp;&emsp;"(C) the Committee on Oversight and Reform of the House of Representatives; and
+
+&emsp;&emsp;"(D) the Committee on Education and Labor of the House of Representatives."
 
 #### Data Collection
 

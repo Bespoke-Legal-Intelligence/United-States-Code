@@ -53,7 +53,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in former section 1683, as added by Pub.L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title I, §103(e), Mar. 26, 1970, 84 Stat. 77; Pub. L. 91–584, §7, Dec. 24, 1970, 84 Stat. 1576, prior to repeal by section 401(6) of Pub. L. 92–540.
+Provisions similar to those comprising this section were contained in former section 1683, as added by Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title I, §103(e), Mar. 26, 1970, 84 Stat. 77; Pub. L. 91–584, §7, Dec. 24, 1970, 84 Stat. 1576, prior to repeal by section 401(6) of Pub. L. 92–540.
 
 #### Amendments
 
@@ -75,7 +75,7 @@ Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted "3452(a)(1)" for "1652(a)(
 
 <b>1989</b>—Subsec. (b)(2). Pub. L. 101–237 substituted "$294 for the first six months, $220 for the second six months, $146 for the third six months, and $73 for the fourth and any succeeding six-month periods of training" for "computed at the rate prescribed in paragraph (1) of this subsection for an eligible veteran with no dependents pursuing such a course".
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–543 increased monthly training assistance allowance of eligible veterans in column II from $249, $186, $124 and $62 to $274, $205, $136, and $68; in column III from $279, $217, $155, and $92 to $307, $239, $171, and $101; in column IV from $305, $243, $180, and $119 to $336, $267, $198 and $131; in column V from $13, $13, $13 and $13 to $14, $14, $14 and $14, respectively.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–543 increased monthly training assistance allowance of eligible veterans in column II from $249, $186, $124 and $62 to $274, $205, $136, and $68; in column III from $279, $217, $155, and $92 to $307, $239, $171, and $101; in column IV from $305, $243, $180, and $119 to $336, $267, $198 and $131; in column Vfrom $13, $13, $13 and $13 to $14, $14, $14 and $14, respectively.
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted "section 2 of the Act of August 16, 1937 (popularly known as the 'National Apprenticeship Act') (29 U.S.C. 50a)" for "section 50a of title 29" in cl. (1), and inserted "of this title" after "34 and 35" in provisions following cl. (2).
 
@@ -153,7 +153,7 @@ Section effective Oct. 1, 1972, except for those veterans and eligible persons i
 
 Pub. L. 108–454, title I, §103(c), Dec. 10, 2004, 118 Stat. 3601, provided that:
 
-"(1) For months beginning on or after October 1, 2005, and before January 1, 2008, subsection (b)(2) of section 3687 of title 38, United States Code, shall be applied as if—
+"(1) For months beginning on or after October 1, 2005, and before January 1, 2008, subsection (b)(2) of section3687 of title 38, United States Code, shall be applied as if—
 
 &emsp;"(A) the reference to '$574 for the first six months' were a reference to '$650 for the first six months';
 

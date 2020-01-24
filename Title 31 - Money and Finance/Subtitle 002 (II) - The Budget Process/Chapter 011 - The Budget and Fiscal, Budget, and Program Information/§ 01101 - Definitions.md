@@ -44,7 +44,7 @@ Pub. L. 115–414, §1, Jan. 3, 2019, 132 Stat. 5430, provided that: "This Act \
 
 #### Short Title of 2011 Amendment
 
-Pub. L. 111–352, §1(a), Jan. 4, 2011, 124 Stat. 3866, provided that: "This Act \[enacting sections 1115, 1116, and1120 to 1125 of this title and section 306 of Title 5, Government Organization and Employees, amending section 1105 of this title, repealing sections 1115 and 1116 of this title and section 306 of Title 5, and enacting provisions set out as notes under section 1115 of this title and section 5105 of Title 5\] may be cited as the 'GPRA Modernization Act of 2010'."
+Pub. L. 111–352, §1(a), Jan. 4, 2011, 124 Stat. 3866, provided that: "This Act \[enacting sections 1115, 1116, and 1120 to 1125 of this title and section 306 of Title 5, Government Organization and Employees, amending section 1105 of this title, repealing sections 1115 and 1116 of this title and section 306 of Title 5, and enacting provisions set out as notes under section 1115 of this title and section 5105 of Title 5\] may be cited as the 'GPRA Modernization Act of 2010'."
 
 #### Short Title of 2010 Amendment
 

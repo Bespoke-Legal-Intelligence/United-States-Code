@@ -6,7 +6,7 @@ The Assistant Secretary, acting through the Administration, shall establish and 
 
 #### Prior Provisions
 
-A prior section 3058, Pub. L. 89–73, title VII, §702, as added Pub. L. 98–459, title VII, §701, Oct. 9, 1984, 98 Stat.1788, related to Congressional declaration of findings, prior to repeal by Pub. L. 100–175, title I, §181, title VII, §701(a), (b), Nov. 29, 1987, 101 Stat. 964, 983, effective Oct. 1, 1987, with certain exceptions.
+A prior section 3058, Pub. L. 89–73, title VII, §702, as added Pub. L. 98–459, title VII, §701, Oct. 9, 1984, 98 Stat. 1788, related to Congressional declaration of findings, prior to repeal by Pub. L. 100–175, title I, §181, title VII, §701(a), (b), Nov. 29, 1987, 101 Stat. 964, 983, effective Oct. 1, 1987, with certain exceptions.
 
 A prior section 701 of title VII of Pub. L. 89–73, as added by Pub. L. 98–459, title VII, §701, Oct. 9, 1984, 98 Stat. 1788, provided that this subchapter be cited as the "Older Americans Personal Health Education and Training Act", prior to repeal by Pub. L. 100–175, title I, §181, title VII, §701(a), (b), Nov. 29, 1987, 101 Stat. 964, 983, effective Oct. 1, 1987, with certain exceptions.
 

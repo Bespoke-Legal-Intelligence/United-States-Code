@@ -22,7 +22,7 @@ If not paid.—If a construction-differential subsidy has not been paid for the 
 
 (d)
 
-Loss or Damage During Charter.—If a vessel is lost or damaged by a risk assumed bythe Government under the charter, but a valuation for the vessel or a means of compensation has not been agreed to, the Secretary shall pay just compensation for the loss or damage, to the extent the person is not reimbursed through insurance.
+Loss or Damage During Charter.—If a vessel is lost or damaged by a risk assumed by the Government under the charter, but a valuation for the vessel or a means of compensation has not been agreed to, the Secretary shall pay just compensation for the loss or damage, to the extent the person is not reimbursed through insurance.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1655.)
 

@@ -26,7 +26,7 @@ Funds obligated for any fiscal year to carry out activities under sections 2295 
 
 &emsp;The reallotment of funds under paragraph (1) shall not extend the period for which such funds are available for expenditure.
 
-(Pub. L. 93–618, title II, §245, Jan. 3, 1975, 88 Stat. 2026; Pub. L. 97–35, title XXV, §2510, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13008(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(1), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §504, Dec. 8, 1993, 107 Stat. 2151; Pub. L. 105–277, div. J, title I, §1012(a), Oct. 21, 1998, 112 Stat. 2681–900; Pub. L. 106–113, div. B, §1000(a)(5) \[titleVII, §702(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §§111(a), 120, Aug. 6, 2002, 116 Stat. 936, 942; Pub. L. 109–280, title XIV, §1635(f)(3), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–89, §1(a), Sept. 28, 2007, 121 Stat. 982; Pub. L. 111–5, div. B, title I, §1892(a), Feb. 17, 2009, 123 Stat. 421; Pub. L. 111–344, title I, §101(c)(2), Dec. 29, 2010, 124 Stat. 3613; Pub. L. 112–40, title II, §§201(b), (c), 214(c), 217, Oct. 21, 2011, 125 Stat. 403, 405, 409; Pub. L. 114–27, title IV, §§402(b), (c), 403(d)(1), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §245, Jan. 3, 1975, 88 Stat. 2026; Pub. L. 97–35, title XXV, §2510, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13008(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(1), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §504, Dec. 8, 1993, 107 Stat. 2151; Pub. L. 105–277, div. J, title I, §1012(a), Oct. 21, 1998, 112 Stat. 2681–900; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §§111(a), 120, Aug. 6, 2002, 116 Stat. 936, 942; Pub. L. 109–280, title XIV, §1635(f)(3), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–89, §1(a), Sept. 28, 2007, 121 Stat. 982; Pub. L. 111–5, div. B, title I, §1892(a), Feb. 17, 2009, 123 Stat. 421; Pub. L. 111–344, title I, §101(c)(2), Dec. 29, 2010, 124 Stat. 3613; Pub. L. 112–40, title II, §§201(b), (c), 214(c), 217, Oct. 21, 2011, 125 Stat. 403, 405, 409; Pub. L. 114–27, title IV, §§402(b), (c), 403(d)(1), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
@@ -40,7 +40,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
+<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec.31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
 Subsec. (a). Pub. L. 114–27, §§403(d)(1), 406, temporarily substituted "June 30, 2021" for "December 31, 2013". See Codification note above and Effective and Termination Dates of 2015 Revival note below.
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 111–344 effective Jan. 1, 2011, see section 101(d) of Pub
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note precedingsection 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
+Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
 
 #### Effective Date of 2007 Amendment
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Effective Date of 1986 Amendment
 
-Parts 2 and 3 of this subchapter to be applied as if the amendment of this section by Pub. L. 99–272 had taken effect Dec. 18, 1985, see section 13009(c) of Pub. L. 99–272, set out as a note under section 2291 of this title.
+Parts 2 and 3 of this subchapter to be applied as if the amendment of this section by Pub. L. 99–272 had takeneffect Dec. 18, 1985, see section 13009(c) of Pub. L. 99–272, set out as a note under section 2291 of this title.
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 

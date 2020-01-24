@@ -1,6 +1,6 @@
 ### §610. Courts defined
 
-As used in this chapter the word "courts" includes the courts of appeals and district courts of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, the United States Court of Federal Claims, and the Court of International Trade.
+As used in this chapter the word "courts" includes the courts of appeals and district courtsof the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, the United States Court of Federal Claims, and the Court of International Trade.
 
 (June 25, 1948, ch. 646, 62 Stat. 915; Oct. 31, 1951, ch. 655, §44, 65 Stat. 725; Pub. L. 85–508, §12(e), July 7, 1958, 72 Stat. 348; Pub. L. 95–598, title II, §226, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 96–417, title V, §501(15), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, §120(a), Apr. 2, 1982, 96 Stat. 33; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
@@ -12,7 +12,7 @@ Words "and the United States Court for China" were omitted. See reviser's note u
 
 Provisions making this chapter and sections 332 and 333 of this title expressly applicable to the Court of Appeals for the District of Columbia were omitted as covered by "courts of appeals." (See section 41 of this title and reviser's notes under such section and section 44 of this title.)
 
-A definition of "continental United States" as "the States of the Union and the District of Columbia" isomitted as unnecessary. (See reviser's note under section 333 of this title.)
+A definition of "continental United States" as "the States of the Union and the District of Columbia" is omitted as unnecessary. (See reviser's note under section 333 of this title.)
 
 The term "district courts in the United States" in this section includes the District Court for the District of Columbia. (See section 88 of this title.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Utilization of Federal departments and agencies
 
-The Secretary, the Secretary of the Department in which the Coast Guard is operating, and the Secretary of the Army shall enforce safety and environmental regulations promulgated pursuant to this subchapter. Each such Federal department may by agreement utilize, with or without reimbursement, the services, personnel, or facilities of other Federal departments andagencies for the enforcement of their respective regulations.
+The Secretary, the Secretary of the Department in which the Coast Guard is operating, and the Secretary of the Army shall enforce safety and environmental regulations promulgated pursuant to this subchapter. Each such Federal department may by agreement utilize, with or without reimbursement, the services, personnel, or facilities of other Federal departments and agencies for the enforcement of their respective regulations.
 
 #### (b) Duties of holders of lease or permit
 
@@ -10,7 +10,7 @@ It shall be the duty of any holder of a lease or permit under this subchapter to
 
 &emsp;(1) maintain all places of employment within the lease area or within the area covered by such permit in compliance with occupational safety and health standards and, in addition, free from recognized hazards to employees of the lease holder or permit holder or of any contractor or subcontractor operating within such lease area or within the area covered by such permit on the outer Continental Shelf;
 
-&emsp;(2) maintain all operations within such lease area or within the area covered by such permit in compliance with regulations intended to protect persons, property, and the environment on the outer Continental Shelf; and
+&emsp;(2) maintain all operations within such lease area or within the area covered by such permitin compliance with regulations intended to protect persons, property, and the environment on the outer Continental Shelf; and
 
 &emsp;(3) allow prompt access, at the site of any operation subject to safety regulations, to any inspector, and to provide such documents and records which are pertinent to occupational or public health, safety, or environmental protection, as may be requested.
 

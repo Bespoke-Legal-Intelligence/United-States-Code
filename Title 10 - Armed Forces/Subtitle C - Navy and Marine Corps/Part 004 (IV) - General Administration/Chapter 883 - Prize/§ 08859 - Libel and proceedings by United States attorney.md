@@ -1,6 +1,6 @@
 ### §8859. Libel and proceedings by United States attorney
 
-(a) Upon receiving the report of the prize master directed by section 8858 of this title, theUnited States attorney for the district shall promptly—
+(a) Upon receiving the report of the prize master directed by section 8858 of this title, the United States attorney for the district shall promptly—
 
 &emsp;(1) file a libel against the prize property;
 

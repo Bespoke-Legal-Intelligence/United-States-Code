@@ -16,7 +16,7 @@
 
 #### (b) Medical costs
 
-A State, Indian tribal government, or unit of local government shall be deemed to incur the full out-of-pocket cost of forensic medical examsfor victims of sexual assault if any government entity—
+A State, Indian tribal government, or unit of local government shall be deemed to incur the full out-of-pocket cost of forensic medical exams for victims of sexual assault if any government entity—
 
 &emsp;(1) provides such exams to victims free of charge to the victim; or
 
@@ -44,7 +44,7 @@ A State or Indian tribal government may use Federal grant funds under this subch
 
 &emsp;&emsp;(A) certifies that its judicial administrative policies and practices include notification to domestic violence offenders of the requirements delineated in section 922(g)(8) and (g)(9) of title 18 and any applicable related Federal, State, or local laws; or
 
-&emsp;&emsp;(B) gives the Attorney General assurances that its judicial administrative policies and practices will be in compliance with the requirements of subparagraph (A) within the later of—
+&emsp;&emsp;(B) gives the Attorney General assurances that its judicial administrative policies andpractices will be in compliance with the requirements of subparagraph (A) within the later of—
 
 &emsp;&emsp;&emsp;(i) the period ending on the date on which the next session of the State legislature ends; or
 

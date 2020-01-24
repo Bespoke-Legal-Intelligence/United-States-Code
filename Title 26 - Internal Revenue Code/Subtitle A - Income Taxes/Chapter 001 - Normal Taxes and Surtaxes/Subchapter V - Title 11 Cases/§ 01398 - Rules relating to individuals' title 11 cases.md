@@ -32,7 +32,7 @@ Except as provided in subsection (b), this section shall apply to any case under
 
 #### (1) General rule
 
-&emsp;Except as provided in paragraph (2), the taxable year of the debtor shall be determinedwithout regard to the case under title 11 of the United States Code to which this section applies.
+&emsp;Except as provided in paragraph (2), the taxable year of the debtor shall be determined without regard to the case under title 11 of the United States Code to which this section applies.
 
 #### (2) Election to terminate debtor's year when case commences
 
@@ -62,7 +62,7 @@ Except as provided in subsection (b), this section shall apply to any case under
 
 #### (F) Annualization
 
-&emsp;&emsp;For purposes of subsections (b), (c), and (d) of section 443, a return filed for either of the taxable years referred to in subparagraph (A) shall be treated as a return made under paragraph (1) of subsection (a) of section 443.
+&emsp;&emsp;For purposes of subsections (b), (c), and (d) of section 443, a return filed for either of the taxable years referred to in subparagraph\(A) shall be treated as a return made under paragraph (1) of subsection (a) of section 443.
 
 #### (3) Commencement date defined
 

@@ -4,7 +4,7 @@ The Secretary shall administer the Park in accordance with this subchapter and t
 
 &emsp;(1) the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1 et seq.); <sup>1</sup> and
 
-&emsp;(2) the Act entitled "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of nationalsignificance, and for other purposes", approved August 21, 1935 (16 U.S.C. 461 et seq.).<sup>1</sup>
+&emsp;(2) the Act entitled "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes", approved August 21, 1935 (16 U.S.C. 461 et seq.).<sup>1</sup>
 
 (Pub. L. 107–373, §7, Dec. 19, 2002, 116 Stat. 3106.)
 

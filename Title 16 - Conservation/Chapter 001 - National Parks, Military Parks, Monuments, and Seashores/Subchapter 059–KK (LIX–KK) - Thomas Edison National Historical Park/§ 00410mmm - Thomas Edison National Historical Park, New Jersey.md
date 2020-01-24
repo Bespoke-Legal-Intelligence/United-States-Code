@@ -20,7 +20,7 @@ The purposes of this section are—
 
 #### (3) Map
 
-&emsp;The map of the Historical Park shall be on file and available for public inspection in theappropriate offices of the National Park Service.
+&emsp;The map of the Historical Park shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
 #### (c) Administration
 

@@ -1,6 +1,6 @@
 ### §936. Repealed. Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159
 
-Section, acts Aug. 13, 1946, ch. 957, title V, §531, 60 Stat. 1010; Sept. 8, 1960, Pub. L. 86–723, §12, 74 Stat. 833, related to appointments for Foreign Service staff officers and employees.
+Section, acts Aug. 13, 1946, ch. 957, title V, §531, 60 Stat. 1010; Sept. 8, 1960, Pub. L. 86–723, §12, 74 Stat. 833,related to appointments for Foreign Service staff officers and employees.
 
 #### Effective Date of Repeal
 

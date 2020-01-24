@@ -20,13 +20,13 @@ Congress finds that—
 
 Notwithstanding the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2201 et seq.\] the Secretary is authorized, under whatever conditions the Secretary may prescribe, to—
 
-&emsp;(1) cooperate with State foresters or equivalent State officials in developing systems and methods for the prevention, control, suppression, and prescribed use of fires on rural lands and in rural communities that will protect human lives, agricultural crops and livestock, property and other improvements, and natural resources;
+&emsp;(1) cooperate with State foresters or equivalent State officials in developing systems andmethods for the prevention, control, suppression, and prescribed use of fires on rural lands and in rural communities that will protect human lives, agricultural crops and livestock, property and other improvements, and natural resources;
 
 &emsp;(2) provide financial, technical, and related assistance to State foresters or equivalent State officials, and through them to other agencies and individuals, for the prevention, control, suppression, and prescribed use of fires on non-Federal forest lands and other non-Federal lands;
 
 &emsp;(3) provide financial, technical, and related assistance to State foresters or equivalent State officials in cooperative efforts to organize, train, and equip local firefighting forces, including those of Indian tribes or other native groups, to prevent, control, and suppress fires threatening human lives, crops, livestock, farmsteads or other improvements, pastures, orchards, wildlife, rangeland, woodland, and other resources in rural areas. As used herein, the term "rural areas" shall have the meaning set out in the first clause of section 1926(a)(7) <sup>1</sup> of title 7; and
 
-&emsp;(4) provide financial, technical, and related assistance to State foresters or equivalent State officials, and through them to other agencies and individuals, including rural volunteer fire departments, to conduct preparedness and mobilization activities, including training, equipping, and otherwise enablingState and local firefighting agencies to respond to requests for fire suppression assistance.
+&emsp;(4) provide financial, technical, and related assistance to State foresters or equivalent State officials, and through them to other agencies and individuals, including rural volunteer fire departments, to conduct preparedness and mobilization activities, including training, equipping, and otherwise enabling State and local firefighting agencies to respond to requests for fire suppression assistance.
 
 #### (c) Encouragement of use of excess personal property by State and local fire forces receiving assistance; cooperation and assistance of Administrator of General Services
 
@@ -92,7 +92,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, 15 U.S.C. 2201 et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §201, June 19, 1978, 43 F.R.41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
+Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, 15 U.S.C. 2201 et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §201, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -124,7 +124,7 @@ Pub. L. 112–141, div. B, §20013(b), July 6, 2012, 126 Stat. 692, provided tha
 
 Identify impediments.—The Secretary shall—
 
-&emsp;"(A) except as provided in paragraph (6), identify any provisions of chapter 53 of title 49, United States Code, and any regulations or practices thereunder, that impede greater use of public-private partnerships and private investment in public transportation capital projects; and
+&emsp;"(A) except as provided in paragraph (6), identify any provisions of chapter 53 of title 49, United States Code, and any regulations or practices thereunder,that impede greater use of public-private partnerships and private investment in public transportation capital projects; and
 
 &emsp;"(B) develop and implement on a project basis procedures and approaches that—
 

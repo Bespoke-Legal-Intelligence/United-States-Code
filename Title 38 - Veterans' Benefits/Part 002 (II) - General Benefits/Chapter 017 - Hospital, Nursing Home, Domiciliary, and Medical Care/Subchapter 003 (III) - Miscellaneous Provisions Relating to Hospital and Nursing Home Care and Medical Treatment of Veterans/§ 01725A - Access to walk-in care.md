@@ -14,7 +14,7 @@ Eligible Veterans.—For purposes of this section, an eligible veteran is any in
 
 (c)
 
-Qualifying Non-Department Entities or Providers.—For purposes of this section, a qualifying non-Department entity or provider is a non-Department entity or provider that has entered into a contract <sup>1</sup> agreement, or other arrangement with the Secretary to furnish services under this section.
+Qualifying Non-Department Entities or Providers.—For purposes of this section, a qualifying non-Department entity or provider is a non-Department entity or provider that has entered into a contract, agreement, or other arrangement with the Secretary to furnish services under this section.
 
 (d)
 
@@ -46,17 +46,15 @@ Regulations.—Not later than 1 year after the date of the enactment of the Cari
 
 Walk-In Care Defined.—In this section, the term "walk-in care" means non-emergent care provided by a qualifying non-Department entity or provider that furnishes episodic care and not longitudinal management of conditions and is otherwise defined through regulations the Secretary shall promulgate.
 
-(Added Pub. L. 115–182, title I, §105(a), June 6, 2018, 132 Stat. 1412; amended Pub. L. 115–251, title II, §211(a)(7), Sept. 29, 2018, 132 Stat. 3175.)
-
-#### Delayed Effective Date
-
-<i>For delayed effective date of section, see Effective Date note below.</i>
+(Added Pub. L. 115–182, title I, §105(a), June 6, 2018, 132 Stat. 1412; amended Pub. L. 115–251, title II, §211(a)(7), Sept. 29, 2018, 132 Stat. 3175; Pub. L. 116–61, §6(2), Sept. 30, 2019, 133 Stat. 1117.)
 
 #### References in Text
 
 The date of the enactment of the Caring for Our Veterans Act of 2018, referred to in subsec. (g), is the date of enactment of Pub. L. 115–182, which was approved June 6, 2018.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c). Pub. L. 116–61 inserted comma after "a contract".
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–251, §211(a)(7)(A), substituted "agreement, or other arrangement" for "or other agreement".
 
@@ -65,6 +63,4 @@ Subsec. (f)(4). Pub. L. 115–251, §211(a)(7)(B), substituted "Sections 8153(c)
 #### Effective Date
 
 Pub. L. 115–182, title I, §105(b), June 6, 2018, 132 Stat. 1413, provided that: "Section 1725A of title 38, United States Code, as added by subsection (a) shall take effect on the date upon which final regulations implementing such section take effect."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

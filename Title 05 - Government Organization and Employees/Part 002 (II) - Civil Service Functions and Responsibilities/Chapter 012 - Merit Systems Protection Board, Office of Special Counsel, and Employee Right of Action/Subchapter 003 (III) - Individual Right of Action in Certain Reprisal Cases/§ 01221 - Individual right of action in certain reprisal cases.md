@@ -82,7 +82,7 @@ Subsec. (e)(1). Pub. L. 103–424, §4(b), which directed the amendment of secti
 
 &emsp;"(A) the official taking the personnel action knew of the disclosure; and
 
-&emsp;"(B) the personnel action occurred within a period of time such that a reasonable person could conclude that the disclosure was a contributing factor in the personnel action.", was executed to subsec. (e)(1) of this section to reflect the probable intent of Congress.
+&emsp;"(B) the personnel action occurred within a period of time such that a reasonable person could concludethat the disclosure was a contributing factor in the personnel action.", was executed to subsec. (e)(1) of this section to reflect the probable intent of Congress.
 
 Subsec. (f)(3). Pub. L. 103–424, §4(c), added par. (3).
 

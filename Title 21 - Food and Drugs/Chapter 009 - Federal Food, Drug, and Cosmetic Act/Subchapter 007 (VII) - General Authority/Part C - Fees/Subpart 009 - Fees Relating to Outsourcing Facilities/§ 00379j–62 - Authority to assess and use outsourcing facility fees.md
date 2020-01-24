@@ -68,7 +68,7 @@ The Secretary shall—
 
 #### (B) Application
 
-&emsp;&emsp;To qualify for the exception under this paragraph, a small business shall submit to the Secretary a written request for such exception, in a format specified by the Secretary in guidance, certifying its gross annual sales for the 12 months ending April 1 of the fiscal year immediately preceding the fiscal year in which fees under this subsection are assessed. Any such application shall be submitted to the Secretary not later than April 30 of such immediately preceding fiscal year.
+&emsp;&emsp;To qualify for the exception under this paragraph, a small business shall submit to the Secretary a written request for such exception, in a format specified by the Secretary in guidance, certifying its gross annual sales for the 12 months ending April 1 of the fiscal year immediately preceding the fiscal year in which fees under this subsection are assessed. Any such applicationshall be submitted to the Secretary not later than April 30 of such immediately preceding fiscal year.
 
 #### (5) Crediting of fees
 

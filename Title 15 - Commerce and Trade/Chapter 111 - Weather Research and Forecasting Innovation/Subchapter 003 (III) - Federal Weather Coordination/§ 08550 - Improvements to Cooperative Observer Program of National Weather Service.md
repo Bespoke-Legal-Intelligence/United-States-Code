@@ -32,5 +32,5 @@ The National Weather Service shall coordinate with other Federal agencies, inclu
 
 #### Codification
 
-This section was enacted as part of the National Integrated Drought Information System Reauthorization Act of 2018, and not as part of the Weather Researchand Forecasting Innovation Act of 2017, and not as part of the Weather Research and Forecasting Innovation Act of 2017 which comprises this chapter.
+This section was enacted as part of the National Integrated Drought Information System Reauthorization Act of 2018, and not as part of the Weather Research and Forecasting Innovation Act of 2017, and not as part of the Weather Research and Forecasting Innovation Act of 2017 which comprises this chapter.
 

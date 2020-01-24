@@ -8,7 +8,7 @@ Unless the Secretary of the Army finds, after consultation with local and region
 
 &emsp;Situated in the City of Cleveland, Cuyahoga County and State of Ohio, T7N, R13W and being more fully described as follows:
 
-&emsp;&emsp;Beginning at an iron pin monument at the intersection of the centerline of East 9th Street (99 feet wide) with the centerline ofrelocated Erieside Avenue, N.E., (70 feet wide) at Cleveland Regional Geodetic Survey Grid System, (CRGS) coordinates N92,679.734, E86,085.955;
+&emsp;&emsp;Beginning at an iron pin monument at the intersection of the centerline of East 9th Street (99 feet wide) with the centerline of relocated Erieside Avenue, N.E., (70 feet wide) at Cleveland Regional Geodetic Survey Grid System, (CRGS) coordinates N92,679.734, E86,085.955;
 
 &emsp;&emsp;Thence south 56°–06′–52″ west on the centerline of relocated Erieside Avenue, N.E., a distance of 89.50 feet to a drill hole set.
 

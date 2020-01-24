@@ -44,7 +44,7 @@ In order to support activities designed to improve the administration of this ch
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may award grants, contracts, or cooperative agreements to eligible entities to carry out research and development of assistive technology that consists of—
+&emsp;&emsp;The Secretary may award grants, contracts, or cooperative agreements to eligibleentities to carry out research and development of assistive technology that consists of—
 
 &emsp;&emsp;&emsp;(i) developing standards for reliability and accessibility of assistive technology, and standards for interoperability (including open standards) of assistive technology with information technology, telecommunications products, and other assistive technology; or
 

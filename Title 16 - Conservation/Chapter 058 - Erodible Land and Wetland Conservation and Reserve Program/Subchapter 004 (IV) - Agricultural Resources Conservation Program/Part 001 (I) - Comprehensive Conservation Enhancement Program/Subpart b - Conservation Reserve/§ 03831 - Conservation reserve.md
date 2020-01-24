@@ -110,7 +110,7 @@ For purposes of determining the eligibility of land to be placed in the conserva
 
 &emsp;&emsp;For purposes of applying the limitations in paragraph (1)—
 
-&emsp;&emsp;&emsp;(i) the Secretary shall enroll and maintain in the conservation reserve not fewer than 2,000,000 acres of the land described in subsection (b)(3) by September 30, 2023; and
+&emsp;&emsp;&emsp;(i) the Secretary shall enroll and maintain in the conservation reserve not fewerthan 2,000,000 acres of the land described in subsection (b)(3) by September 30, 2023; and
 
 &emsp;&emsp;&emsp;(ii) in carrying out clause (i), to the maximum extent practicable, the Secretary shall maintain in the conservation reserve at any one time during—
 
@@ -304,7 +304,7 @@ In determining the acceptability of contract offers under this subpart, the Secr
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in subsec. (d)(2)(B)(iii)(I), (II), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (d)(2)(B)(iii)(I), (II), is Pub. L. 93–205, Dec. 28,1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Codification
 
@@ -430,7 +430,7 @@ Pub. L. 106–387, §1(a) \[title XI, §1105\], Oct. 28, 2000, 114 Stat. 1549, 1
 
 #### Eligible Land; State Law Requirements
 
-Pub. L. 115–334, title II, §2209, Dec. 20, 2018, 132 Stat. 4551, provided that: "The Secretary shall revise paragraph (4) of section 1410.6(d) of title 7, Code of Federal Regulations, to provide that land enrolled under a Conservation Reserve Enhancement Program agreement initially established before January 1, 2014 (including an amended or successor Conservation Reserve Enhancement Program agreement, as determined by the Secretary), shall not be ineligible for enrollment in the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.) under that paragraph if the Deputy Administrator (as defined in section 1410.2(b) of title 7, Code of Federal Regulations (or successor regulations)), on recommendation from and in consultation with the applicable State technical committee established under section 1261(a) of the Food Security Act of 1985 (16 U.S.C. 3861(a)) determines, under such terms and conditions as the Deputy Administrator, in consultation with the Statetechnical committee, determines to be appropriate, that making that land eligible for enrollment in that program is not contrary to the purposes of that program."
+Pub. L. 115–334, title II, §2209, Dec. 20, 2018, 132 Stat. 4551, provided that: "The Secretary shall revise paragraph (4) of section 1410.6(d) of title 7, Code of Federal Regulations, to provide that land enrolled under a Conservation Reserve Enhancement Program agreement initially established before January 1, 2014 (including an amended or successor Conservation Reserve Enhancement Program agreement, as determined by the Secretary), shall not be ineligible for enrollment in the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.) under that paragraph if the Deputy Administrator (as defined in section 1410.2(b) of title 7, Code of Federal Regulations (or successor regulations)), on recommendation from and in consultation with the applicable State technical committee established under section 1261(a) of the Food Security Act of 1985 (16 U.S.C. 3861(a)) determines, under such terms and conditions as the Deputy Administrator, in consultation with the State technical committee, determines to be appropriate, that making that land eligible for enrollment in that program is not contrary to the purposes of that program."
 
 #### Effect on Existing Contracts
 
@@ -446,27 +446,7 @@ Updating of Existing Contracts.—The Secretary shall permit an owner or operato
 
 #### Study on Economic Effects
 
-Pub. L. 107–171, title II, §2101(b), May 13, 2002, 116 Stat. 252, provided that:
-
-"(1)
-
-In general.—Not later than 18 months after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the economic and social effects on rural communities resulting from the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.).
-
-"(2)
-
-Components.—The study under paragraph (1) shall include analyses of—
-
-&emsp;"(A) the impact that enrollments in the conservation reserve program have on rural businesses, civic organizations, and community services (such as schools, public safety, and infrastructure), particularly in communities with a large percentage of whole farm enrollments;
-
-&emsp;"(B) the effect that those enrollments have on rural population and beginning farmers (including a description of any connection between the rate of enrollment and the incidence of absentee ownership);
-
-&emsp;"(C)(i) the manner in which differential per acre payment rates potentially impact the types of land (by productivity) enrolled;
-
-&emsp;"(ii) changes to the per acre payment rates that may affect that impact; and
-
-&emsp;"(iii) the manner in which differential per acre payment rates could facilitate retention of productive agricultural land in agriculture; and
-
-&emsp;"(D) the effect of enrollment on opportunities for recreational activities (including hunting and fishing)."
+Pub. L. 107–171, title II, §2101(b), May 13, 2002, 116 Stat. 252, provided that, not later than 18 months after May 13, 2002, the Secretary of Agriculture would submit to Congress a report, to include specified analyses, that describes the economic and social effects on rural communities resulting from the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.).
 
 #### Study of Impact of Pilot Program
 

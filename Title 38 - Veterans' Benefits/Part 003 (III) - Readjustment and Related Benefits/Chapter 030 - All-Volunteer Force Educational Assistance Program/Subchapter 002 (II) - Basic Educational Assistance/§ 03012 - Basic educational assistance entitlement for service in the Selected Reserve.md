@@ -32,7 +32,7 @@
 
 &emsp;(3) who, after completion of the service described in clause (1) of this subsection—
 
-&emsp;&emsp;(A) is discharged from service with an honorable discharge, is placed on the retiredlist, or is transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service; or
+&emsp;&emsp;(A) is discharged from service with an honorable discharge, is placed on the retired list, or is transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service; or
 
 &emsp;&emsp;(B) continues on active duty or in the Selected Reserve;
 
@@ -42,7 +42,7 @@
 
 (B) The requirement of four years of service under clauses (1)(A)(ii) and (1)(B)(ii) of subsection (a) of this section is not applicable to an individual—
 
-&emsp;(i) who, during the two years of service described in clauses (1)(A)(i) and (1)(B)(i) of subsection (a) of this section, was discharged or released from active duty in the Armed Forces for a service-connected disability, by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10), for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, or for a physical or mental condition not characterized as a disability, as described in section 3011(a)(1)(A)(ii)(I) of this title, if the individual was obligated, at the beginning of such two years of service, to serve such four years of service;
+&emsp;(i) who, during the two years of service described in clauses (1)(A)(i) and (1)(B)(i) of subsection (a) of this section, was discharged orreleased from active duty in the Armed Forces for a service-connected disability, by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10), for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, or for a physical or mental condition not characterized as a disability, as described in section 3011(a)(1)(A)(ii)(I) of this title, if the individual was obligated, at the beginning of such two years of service, to serve such four years of service;
 
 &emsp;(ii) who, during the four years of service described in clauses (1)(A)(ii) and (1)(B)(ii) of subsection (a) of this section, is discharged or released from service in the Selected Reserve (I) for a service-connected disability, (II) for a medical condition which preexisted the individual's becoming a member of the Selected Reserve and which the Secretary determines is not service connected, (III) for hardship, (IV) in the case of an individual discharged or released after 30 months of such service, for the convenience of the Government, (V) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, (VI) for a physical or mental condition not characterized as a disability, as described in section 3011(a)(1)(A)(ii)(I) of this title, or (VII) by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10); or
 
@@ -74,7 +74,7 @@
 
 (2) An individual who makes the election described in paragraph (1) of this subsection shall, for all purposes of this chapter, be considered entitled to educational assistance under section 3011 of this title and not under this section. Such an election is irrevocable.
 
-(f)(1) Any individual eligible for educational assistance under this section who does not make an election under subsection (d)(1) may contribute amounts for purposes of receiving an increased amount of basic educational assistance as provided for under section 3015(g) of this title. Such contributions shall be in addition to any reductions in the basic pay of such individual under subsection (c).
+(f)(1) Any individual eligible for educational assistance under this section who does not make an election under subsection (d)(1) may contribute amounts for purposes of receiving an increased amount of basic educational assistance as provided for under section 3015(g) of this title. Such contributions shall be in addition to anyreductions in the basic pay of such individual under subsection (c).
 
 (2) An individual covered by paragraph (1) may make the contributions authorized by that paragraph at any time while on active duty, but not more frequently than monthly.
 
@@ -226,7 +226,7 @@ Amendment by section 207(b) of Pub. L. 105–368 effective 120 days after Nov. 1
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, titleXVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
 
 #### Effective Date of 1992 Amendment
 

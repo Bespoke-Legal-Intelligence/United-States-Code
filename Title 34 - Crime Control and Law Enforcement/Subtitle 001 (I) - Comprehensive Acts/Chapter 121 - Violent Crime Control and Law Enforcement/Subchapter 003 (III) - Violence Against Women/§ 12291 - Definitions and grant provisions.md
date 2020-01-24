@@ -116,7 +116,7 @@ In this subchapter:
 
 #### (20) Personally identifying information or personal information
 
-&emsp;The term "personally identifying information" or "personal information" means individually identifying information for or aboutan individual including information likely to disclose the location of a victim of domestic violence, dating violence, sexual assault, or stalking, regardless of whether the information is encoded, encrypted, hashed, or otherwise protected, including—
+&emsp;The term "personally identifying information" or "personal information" means individually identifying information for or about an individual including information likely to disclose the location of a victim of domestic violence, dating violence, sexual assault, or stalking, regardless of whether the information is encoded, encrypted, hashed, or otherwise protected, including—
 
 &emsp;&emsp;(A) a first and last name;
 
@@ -196,7 +196,7 @@ In this subchapter:
 
 #### (33) State sexual assault coalition
 
-&emsp;The term "State sexual assault coalition" means a program determined by the Center forInjury Prevention and Control of the Centers for Disease Control and Prevention under the Public Health Service Act (42 U.S.C. 280b et seq.).
+&emsp;The term "State sexual assault coalition" means a program determined by the Center for Injury Prevention and Control of the Centers for Disease Control and Prevention under the Public Health Service Act (42 U.S.C. 280b et seq.).
 
 #### (34) Territorial domestic violence or sexual assault coalition
 
@@ -296,7 +296,7 @@ In this subchapter:
 
 &emsp;&emsp;Subject to subparagraphs (C) and (D), grantees and subgrantees shall not—
 
-&emsp;&emsp;&emsp;(i) disclose, reveal, or release any personally identifying information or individual information collected in connection with services requested, utilized, or denied through grantees' and subgrantees' programs, regardless of whether the information has been encoded, encrypted, hashed, or otherwise protected; or
+&emsp;&emsp;&emsp;(i) disclose, reveal, or release any personally identifying information or individualinformation collected in connection with services requested, utilized, or denied through grantees' and subgrantees' programs, regardless of whether the information has been encoded, encrypted, hashed, or otherwise protected; or
 
 &emsp;&emsp;&emsp;(ii) disclose, reveal, or release individual client information without the informed, written, reasonably time-limited consent of the person (or in the case of an unemancipated minor, the minor and the parent or guardian or in the case of legal incapacity, a court-appointed guardian) about whom information is sought, whether for this program or any other Federal, State, tribal, or territorial grant program, except that consent for release may not be given by the abuser of the minor, incapacitated person, or the abuser of the other parent of the minor.
 
@@ -484,7 +484,7 @@ In this subchapter:
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;No amounts authorized to be appropriated to the Department of Justice underthis Act may be used by the Attorney General, or by any individual or organization awarded discretionary funds through a cooperative agreement under this Act, to host or support any expenditure for conferences that uses more than $20,000 in Department funds, unless the Deputy Attorney General or such Assistant Attorney Generals, Directors, or principal deputies as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
+&emsp;&emsp;&emsp;No amounts authorized to be appropriated to the Department of Justice under this Act may be used by the Attorney General, or by any individual or organization awarded discretionary funds through a cooperative agreement under this Act, to host or support any expenditure for conferences that uses more than $20,000 in Department funds, unless the Deputy Attorney General or such Assistant Attorney Generals, Directors, or principal deputies as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
 
 #### (ii) Written approval
 
@@ -498,7 +498,7 @@ In this subchapter:
 
 &emsp;&emsp;Beginning in the first fiscal year beginning after the date of the enactment of this Act,<sup>2</sup> the Attorney General shall submit, to the Committee on the Judiciary and the Committee on Appropriations of the Senate and the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives, an annual certification that—
 
-&emsp;&emsp;&emsp;(i) all audits issued by the Office of the Inspector General under paragraph (1) have been completed and reviewed by the appropriate Assistant Attorney General or Director;
+&emsp;&emsp;&emsp;(i) all audits issued by the Office of the Inspector General under paragraph (1) havebeen completed and reviewed by the appropriate Assistant Attorney General or Director;
 
 &emsp;&emsp;&emsp;(ii) all mandatory exclusions required under subparagraph (A)(iii) have been issued;
 
@@ -660,7 +660,7 @@ Subsec. (a)(31) to (37). Pub. L. 109–271, §1(e)(2), (3), added par. (31) and 
 
 Subsec. (b)(1). Pub. L. 109–271, §1(f), added par. (1) and struck out former par. (1) which read as follows: "No matching funds shall be required for a grant or subgrant made under this subchapter for any tribe, territory, victim service provider, or any entity that the Attorney General determines has adequately demonstrated financial need."
 
-Subsec. (b)(11). Pub. L. 109–271, §2(e), inserted "Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes ofthis subchapter to improve the capacity of the grantees, subgrantees, and other entities." before "If there is a demonstrated history".
+Subsec. (b)(11). Pub. L. 109–271, §2(e), inserted "Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities." before "If there is a demonstrated history".
 
 #### Effective Date of 2013 Amendment
 

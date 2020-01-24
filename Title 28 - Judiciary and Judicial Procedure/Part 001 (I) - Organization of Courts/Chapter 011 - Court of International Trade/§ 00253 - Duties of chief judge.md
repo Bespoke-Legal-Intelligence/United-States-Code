@@ -4,7 +4,7 @@
 
 (b) The chief judge shall promulgate dockets.
 
-(c) The chief judge, under rules of the court, may designate any judge or judges of the courtto try any case and, when the circumstances so warrant, reassign the case to another judge or judges.
+(c) The chief judge, under rules of the court, may designate any judge or judges of the court to try any case and, when the circumstances so warrant, reassign the case to another judge or judges.
 
 (June 25, 1948, ch. 646, 62 Stat. 900; Pub. L. 86–243, §3, Sept. 9, 1959, 73 Stat. 474; Pub. L. 91–271, title I, §105, June 2, 1970, 84 Stat. 276; Pub. L. 96–417, title V, §501(3), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 104–317, title V, §501(b)(2), Oct. 19, 1996, 110 Stat. 3856.)
 

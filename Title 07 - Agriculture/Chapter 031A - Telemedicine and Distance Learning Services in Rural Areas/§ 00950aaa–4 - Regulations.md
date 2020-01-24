@@ -10,7 +10,7 @@ Not later than 180 days after April 4, 1996, the Secretary shall issue regulatio
 
 #### Prior Provisions
 
-A prior section 950aaa–4, Pub. L. 101–624, title XXIII, §2335, Nov. 28, 1990, 104 Stat. 4021; Pub. L. 102–551, §1(c), Oct. 28, 1992, 106 Stat. 4100; Pub. L. 103–354, title II, §235(b)(4)(C), Oct. 13, 1994, 108 Stat. 3222, related to ruralcommunity access to advanced telecommunications, prior to the general amendment of this chapter by Pub. L. 104–127.
+A prior section 950aaa–4, Pub. L. 101–624, title XXIII, §2335, Nov. 28, 1990, 104 Stat. 4021; Pub. L. 102–551, §1(c), Oct. 28, 1992, 106 Stat. 4100; Pub. L. 103–354, title II, §235(b)(4)(C), Oct. 13, 1994, 108 Stat. 3222, related to rural community access to advanced telecommunications, prior to the general amendment of this chapter by Pub. L. 104–127.
 
 #### Analysis by Office of Technology Assessment
 

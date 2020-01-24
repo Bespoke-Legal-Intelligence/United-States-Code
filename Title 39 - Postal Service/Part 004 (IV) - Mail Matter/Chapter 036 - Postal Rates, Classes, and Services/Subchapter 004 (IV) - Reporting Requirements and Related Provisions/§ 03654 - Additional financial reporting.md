@@ -26,7 +26,7 @@ Internal control report.—For purposes of defining the reports required by para
 
 Financial reporting.— <sup>1</sup>
 
-&emsp;(1) The reports required by subsection (a)(1)(B) shall include, with respect to the Postal Service's pension and post-retirement health obligations—
+&emsp;(1) The reports required by subsection (a)(1)(B) shall include, with respect to thePostal Service's pension and post-retirement health obligations—
 
 &emsp;&emsp;(A) the funded status of the Postal Service's pension and postretirement health obligations;
 
@@ -72,7 +72,7 @@ Confidential Information.—
 
 &emsp;(1)
 
-In general.—If the Postal Service determines that any document or portion of a document, or other matter, which it provides tothe Postal Regulatory Commission in a nonpublic annex under this section or pursuant to subsection (d) contains information which is described in section 410(c) of this title, or exempt from public disclosure under section 552(b) of title 5, the Postal Service shall, at the time of providing such matter to the Commission, notify the Commission of its determination, in writing, and describe with particularity the documents (or portions of documents) or other matter for which confidentiality is sought and the reasons therefor.
+In general.—If the Postal Service determines that any document or portion of a document, or other matter, which it provides to the Postal Regulatory Commission in a nonpublic annex under this section or pursuant to subsection (d) contains information which is described in section 410(c) of this title, or exempt from public disclosure under section 552(b) of title 5, the Postal Service shall, at the time of providing such matter to the Commission, notify the Commission of its determination, in writing, and describe with particularity the documents (or portions of documents) or other matter for which confidentiality is sought and the reasons therefor.
 
 &emsp;(2)
 

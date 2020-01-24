@@ -10,7 +10,7 @@ Information submitted to the regulatory authority pursuant to this subsection as
 
 #### (c) Penalties
 
-Any person who conducts any coal exploration activities which substantially disturb the natural land surface in violation of this section or regulations issued pursuant thereto shall be subject to the provisions of section 1268 of this title.
+Any person who conducts any coal exploration activities which substantially disturb the natural land surface in violation of this section orregulations issued pursuant thereto shall be subject to the provisions of section 1268 of this title.
 
 #### (d) Limitation on removal of coal
 

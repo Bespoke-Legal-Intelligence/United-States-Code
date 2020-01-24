@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original "this Act", meaning act D
 
 #### Codification
 
-Words "of the Philippine Islands, or" after "No public funds" were deleted on authority of 1946 Proc. No. 2695, which granted independence to the Philippine Islands pursuant to section 1394 of Title 22. Proc. No. 2695 is set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse.
+Words "of the Philippine Islands, or" after "No public funds" were deleted on authority of 1946 Proc. No. 2695, which granted independence to the Philippine Islands pursuant to section 1394 of Title 22. Proc. No. 2695 is setout as a note under section 1394 of Title 22, Foreign Relations and Intercourse.
 
 Section is comprised of second par. of section 15 of act Dec. 23, 1913. Par. 1 of section 15 and par. 3 of section 15, as added Mar. 4, 1923, ch. 252, title IV, §406, 42 Stat. 1480, are classified to sections 391 and 393, respectively, of this title.
 

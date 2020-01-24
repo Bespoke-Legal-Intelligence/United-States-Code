@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Energy shall, during each even-numbered year beginning in 2016, develop and subsequently carry out a plan for the activities of the Department of Energy relating to the deactivation and decommissioning of nonoperational defense nuclear facilities.
+The Secretary of Energy shall, during each even-numbered year beginning in 2016, developand subsequently carry out a plan for the activities of the Department of Energy relating to the deactivation and decommissioning of nonoperational defense nuclear facilities.
 
 #### (b) Elements
 

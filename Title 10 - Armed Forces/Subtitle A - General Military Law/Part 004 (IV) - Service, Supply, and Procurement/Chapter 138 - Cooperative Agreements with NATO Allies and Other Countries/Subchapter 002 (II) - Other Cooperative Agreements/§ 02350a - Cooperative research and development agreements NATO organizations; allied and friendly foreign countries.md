@@ -24,7 +24,7 @@ Projects.—(1) The Secretary of Defense may enter into a memorandum of understa
 
 Requirement That Projects Improve Conventional Defense Capabilities.—(1) The Secretary of Defense may not enter into a memorandum of understanding (or other formal agreement) to conduct a cooperative research and development project under this section unless the Secretary determines that the proposed project will improve, through the application of emerging technology, the conventional defense capabilities of the North Atlantic Treaty Organization or the common conventional defense capabilities of the United States and a country or organization referred to in subsection (a)(2).
 
-(2) The authority of the Secretary to make a determination under paragraph (1) may only be delegated to the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering.
+(2) The authority of the Secretary to make a determination under paragraph (1) may only be delegated to the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, and the Under Secretary of Defense for Research and Engineering.
 
 (c)
 
@@ -44,7 +44,7 @@ Cooperative Opportunities.—(1) In order to ensure that opportunities to conduc
 
 &emsp;(A) Whether or not a project similar to the one under consideration by the Department of Defense is in development or production by any country or organization referred to in subsection (a)(2) or NATO organizations.
 
-&emsp;(B) If a project similar to the one under consideration by the Department of Defense is in development or production by one or more countries and organizations referred to in subsection (a)(2), an assessment as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project.
+&emsp;(B) If a project similar to the one under consideration by the Department of Defense is in development or production by one or more countries and organizations referred to in subsection (a)(2), an assessment as to whether that project could satisfy, or could be modifiedin scope so as to satisfy, the military requirements of the project.
 
 &emsp;(C) An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization, and Interoperability (RSI) of seeking to structure a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
@@ -82,7 +82,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "NATO organization" means any North Atlantic Treaty Organization subsidiary body referred to in section 2350(2) of this title and any other organization of the North Atlantic Treaty Organization.
 
-(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 110–181, div. A, title II, §237, title XII, §1251, Jan. 28, 2008, 122 Stat. 48, 401; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–81, div. A, title VIII, §865, title X, §1061(14), Dec. 31, 2011, 125 Stat. 1526, 1583; Pub. L. 114–92, div. A, title VIII, §821(b)(1), Nov. 25, 2015, 129 Stat. 900; Pub. L. 114–328, div. A, title VIII, §827, Dec. 23, 2016, 130 Stat. 2280.)
+(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 110–181, div. A, title II, §237, title XII, §1251, Jan. 28, 2008, 122 Stat. 48, 401; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–81, div. A, title VIII, §865, title X, §1061(14), Dec. 31, 2011, 125 Stat. 1526, 1583; Pub. L. 114–92, div. A, title VIII, §821(b)(1), Nov. 25, 2015, 129 Stat. 900; Pub. L. 114–328, div. A, title VIII, §827, Dec. 23, 2016, 130 Stat. 2280; Pub. L. 116–92, div. A, title IX, §902(54), Dec. 20, 2019, 133 Stat. 1549.)
 
 #### Prior Provisions
 
@@ -91,6 +91,8 @@ Provisions relating to NATO countries were contained in Pub. L. 99–145, title 
 Provisions relating to major non-NATO allies were contained in section 2767a of Title 22, Foreign Relations and Intercourse, prior to repeal by Pub. L. 101–189, §931(d)(2).
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(2). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment, and the Under Secretary of Defense for Research and Engineering" for "Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering".
 
 <b>2016</b>—Subsec. (g)(3). Pub. L. 114–328 added par. (3).
 
@@ -166,7 +168,7 @@ Subsec. (f)(2). Pub. L. 107–107, §1212(d), amended par. (2) generally. Prior 
 
 &emsp;"(B) specifying the criteria used in determining the eligibility of a country to be designated as a major non-NATO ally for purposes of this section."
 
-Subsec. (g)(1)(A), (4)(A). Pub. L. 107–107, §1212(a)(5), as amended by Pub. L. 107–314, §1062(f)(2), substituted "countries referred to in subsection (a)(2)" for "major allies of the United States and other friendly foreign countries".
+Subsec. (g)(1)(A), (4)(A). Pub. L. 107–107, §1212(a)(5), as amended by Pub. L. 107–314, §1062(f)(2), substituted "countries referred to in subsection (a)(2)" for "majorallies of the United States and other friendly foreign countries".
 
 Subsec. (h). Pub. L. 107–107, §1212(a)(6), substituted "member nations of the North Atlantic Treaty Organization, major non-NATO allies, and other friendly foreign countries" for "major allies of the United States".
 
@@ -268,7 +270,7 @@ Treatment of contributions received from other countries.—Any contribution rec
 
 &emsp;"(5)
 
-Costs of operation of offices established for program.—Costs for the operation of any office established to carry out the Program shall be borne jointly by the participating countries as provided for in an agreement referred to in subsection (a).
+Costs of operation of offices established for program.—Costs for the operation of any office established to carry out the Program shall be bornejointly by the participating countries as provided for in an agreement referred to in subsection (a).
 
 "(d)
 

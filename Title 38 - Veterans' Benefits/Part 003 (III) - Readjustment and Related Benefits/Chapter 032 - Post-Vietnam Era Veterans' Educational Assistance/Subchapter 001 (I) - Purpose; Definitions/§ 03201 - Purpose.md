@@ -16,7 +16,7 @@ Prior section 3201 was renumbered section 5501 of this title.
 
 #### Effective Date
 
-Section 406 of title IV of Pub. L. 94–502 provided that: "The provisions of this title \[enacting this chapter, amending sections 1652, 1661, and 1662 \[now 3452, 3461, and 3462\] of this title and section 725s of former Title 31, Money and Finance, and enacting provisions set outas a note under section 3221 of this title\] shall become effective on January 1, 1977."
+Section 406 of title IV of Pub. L. 94–502 provided that: "The provisions of this title \[enacting this chapter, amending sections 1652, 1661, and 1662 \[now 3452, 3461, and 3462\] of this title and section 725s of former Title 31, Money and Finance, and enacting provisions set out as a note under section 3221 of this title\] shall become effective on January 1, 1977."
 
 #### Short Title
 

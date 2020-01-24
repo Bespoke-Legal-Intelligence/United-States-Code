@@ -20,7 +20,7 @@ The Administration is authorized to prescribe regulations governing the operatio
 
 #### (d) Forfeiture of rights, privileges, and franchises; jurisdiction
 
-Should any small business investment company violate or fail to comply with any of theprovisions of this chapter or of regulations prescribed hereunder, all of its rights, privileges, and franchises derived therefrom may thereby be forfeited. Before any such company shall be declared dissolved, or its rights, privileges, and franchises forfeited, any noncompliance with or violation of this chapter shall be determined and adjudged by a court of the United States of competent jurisdiction in a suit brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of such company is located. Any such suit shall be brought by the United States at the instance of the Administration or the Attorney General.
+Should any small business investment company violate or fail to comply with any of the provisions of this chapter or of regulations prescribed hereunder, all of its rights, privileges, and franchises derived therefrom may thereby be forfeited. Before any such company shall be declared dissolved, or its rights, privileges, and franchises forfeited, any noncompliance with or violation of this chapter shall be determined and adjudged by a court of the United States of competent jurisdiction in a suit brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of such company is located. Any such suit shall be brought by the United States at the instance of the Administration or the Attorney General.
 
 #### (e) Liability of United States
 
@@ -62,7 +62,7 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 (3) In its annual report for the year ending on December 31, 1993, and in each succeeding annual report made pursuant to section 10(a) of the Small Business Act \[15 U.S.C. 639(a)\], the Administration shall include a full and detailed description or account relating to—
 
-&emsp;(A) the number of small business investment companies the Administration licensed, the number of licensees that have been placed in liquidation, and the number of licensees that have surrendered their licenses in the previous year, identifying the amount of governmentleverage each has received and the type of leverage instruments each has used;
+&emsp;(A) the number of small business investment companies the Administration licensed, the number of licensees that have been placed in liquidation, and the number of licensees that have surrendered their licenses in the previous year, identifying the amount of government leverage each has received and the type of leverage instruments each has used;
 
 &emsp;(B) the amount of government leverage that each licensee received in the previous year and the types of leverage instruments each licensee used;
 
@@ -104,7 +104,7 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 For definition of "this chapter", referred to in subsecs. (a) to (h), see References in Text note set out under section 661 of this title.
 
-The Small Business Act, referred to in subsec. (f), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 631 of this title and Tables.
+The Small Business Act, referred to in subsec. (f), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables.
 
 The Investment Company Act of 1940, referred to in subsec. (g)(2)(L), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
@@ -190,7 +190,7 @@ Pub. L. 96–104, title I, §107, Nov. 5, 1979, 93 Stat. 792, which provided tha
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–501, title II, §206, Oct. 29, 1974, 88 Stat. 1560, which provided that amendment by Pub. L. 93–501 was applicable to loans made in any state after Oct. 29, 1974, but prior to the earlier of July 1, 1977 or the date of enactment by the state of a law prohibiting the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–104, §1, Nov. 5, 1979, 93 Stat. 789.
+Pub. L. 93–501, title II, §206, Oct. 29, 1974, 88 Stat. 1560, which provided that amendment by Pub. L. 93–501 wasapplicable to loans made in any state after Oct. 29, 1974, but prior to the earlier of July 1, 1977 or the date of enactment by the state of a law prohibiting the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–104, §1, Nov. 5, 1979, 93 Stat. 789.
 
 #### Effective Date of 1967 Amendment
 

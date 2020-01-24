@@ -2,7 +2,7 @@
 
 To promote the development of effective State and local noise control programs, to provide an adequate Federal noise control research program designed to meet the objectives of this chapter, and to otherwise carry out the policy of this chapter, the Administrator shall, in cooperation with other Federal agencies and through the use of grants, contracts, and direct Federal actions—
 
-&emsp;(a) develop and disseminate information and educational materials to all segments of the public on the public health and other effects of noise and the most effective means for noisecontrol, through the use of materials for school curricula, volunteer organizations, radio and television programs, publication, and other means;
+&emsp;(a) develop and disseminate information and educational materials to all segments of the public on the public health and other effects of noise and the most effective means for noise control, through the use of materials for school curricula, volunteer organizations, radio and television programs, publication, and other means;
 
 &emsp;(b) conduct or finance research directly or with any public or private organization or any person on the effects, measurement, and control of noise, including but not limited to—
 
@@ -58,5 +58,5 @@ In subsec. (b)(2), "section 44715 of title 49" substituted for reference to sect
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–609 completely revised and restructured existing provisions, inserting provisions relating to authorized use of grants and direct action, investigation of economic impact of noise, administration of Quiet Communities Program, development of noise assessment program, establishment of regional centers, technical assistance to State and local governments, and use by senior citizens of these programs.
+<b>1978</b>—Pub. L. 95–609 completely revised and restructured existing provisions, inserting provisions relating to authorized use of grants and direct action, investigation of economic impact of noise, administration ofQuiet Communities Program, development of noise assessment program, establishment of regional centers, technical assistance to State and local governments, and use by senior citizens of these programs.
 

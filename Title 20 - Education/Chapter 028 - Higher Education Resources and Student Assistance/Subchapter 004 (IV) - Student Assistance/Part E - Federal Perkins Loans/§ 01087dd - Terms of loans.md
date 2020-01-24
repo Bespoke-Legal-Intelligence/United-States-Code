@@ -32,7 +32,7 @@
 
 (1) Any agreement between an institution and a student for a loan from a student loan fund assisted under this part—
 
-&emsp;(A) shall be evidenced by note or other written instrument which, except as provided in paragraph (2), provides for repayment of the principal amount of the loan, together with interest thereon, in equal installments (or, if the borrower so requests, in graduated periodic installments determined in accordance with such schedules as may be approved by the Secretary) payable quarterly, bimonthly, or monthly, at the option of the institution, over a period beginning nine months after the date on which the student ceases to carry, at an institution of higher education or a comparable institution outside the United States approved for this purpose by the Secretary, at least one-half the normal full-time academic workload, and ending 10 years and 9 months after such date except that such period may begin earlier than 9 months after such date upon the request of the borrower;
+&emsp;(A) shall be evidenced by note or other written instrument which, except as provided in paragraph (2), provides for repayment of the principal amount of the loan, together with interest thereon, in equal installments (or, if the borrower so requests, in graduated periodic installments determined in accordance with such schedules as may be approved by the Secretary) payable quarterly, bimonthly, or monthly, at the option of the institution, over a period beginning nine months after the date on which the student ceases to carry, at an institution of higher education or a comparable institution outside the United States approved for this purpose by the Secretary, at least one-half the normal full-time academic workload,and ending 10 years and 9 months after such date except that such period may begin earlier than 9 months after such date upon the request of the borrower;
 
 &emsp;(B) shall include provision for acceleration of repayment of the whole, or any part, of such loan, at the option of the borrower;
 
@@ -90,7 +90,7 @@
 
 (B) No repayment of principal of, or interest on, any loan for any period described in subparagraph (A) shall begin until 6 months after the completion of such period.
 
-(C) An individual with an outstanding loan balance who meets the eligibility criteria for a deferment described in subparagraph (A) as in effect on October 7, 1998, shall be eligible for deferment under this paragraph notwithstanding any contrary provision of the promissory note under which the loan or loans were made, and notwithstanding any amendment (or effective date provision relating to any amendment) to this section made prior to the date of such deferment.
+(C) An individual with an outstanding loan balance who meets the eligibility criteria for a deferment described in subparagraph (A) as in effect on October 7, 1998, shall be eligible for deferment under this paragraph notwithstandingany contrary provision of the promissory note under which the loan or loans were made, and notwithstanding any amendment (or effective date provision relating to any amendment) to this section made prior to the date of such deferment.
 
 (3)(A) The Secretary is authorized, when good cause is shown, to extend, in accordance with regulations, the 10-year maximum repayment period provided for in subparagraph (A) of paragraph (1) with respect to individual loans.
 
@@ -170,7 +170,7 @@ An agreement under this part for payment of Federal capital contributions shall 
 
 #### (A) In general
 
-&emsp;&emsp;If the borrower of a loan made under this part who has defaulted on the loan makes 9 on-time, consecutive, monthly payments of amounts owed on the loan, as determined by the institution, or by the Secretary in the case of a loan held by the Secretary, theloan shall be considered rehabilitated, and the institution that made that loan (or the Secretary, in the case of a loan held by the Secretary) shall request that any consumer reporting agency to which the default was reported remove the default from the borrower's credit history.
+&emsp;&emsp;If the borrower of a loan made under this part who has defaulted on the loan makes 9 on-time, consecutive, monthly payments of amounts owed on the loan, as determined by the institution, or by the Secretary in the case of a loan held by the Secretary, the loan shall be considered rehabilitated, and the institution that made that loan (or the Secretary, in the case of a loan held by the Secretary) shall request that any consumer reporting agency to which the default was reported remove the default from the borrower's credit history.
 
 #### (B) Comparable conditions
 
@@ -234,7 +234,7 @@ Section 1087cc(a) of this title, referred to in subsec. (c)(1)(G), was amended b
 
 #### Prior Provisions
 
-A prior section 1087dd, Pub. L. 89–329, title IV, §464, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 275; amended Pub. L. 94–482, title I, §130(d)–(g)(1), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 95–43, §1(a)(39), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §§442(b)(5),443, 444, 445(b)(2), 446, 448(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440–1443, 1503; Pub. L. 97–35, title V, §539, Aug. 13, 1981, 95 Stat. 458; Pub. L. 99–272, title XVI, §16028, Apr. 7, 1986, 100 Stat. 353, related to terms and conditions of loans, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087dd, Pub. L. 89–329, title IV, §464, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 275; amended Pub. L. 94–482, title I, §130(d)–(g)(1), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 95–43, §1(a)(39), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §§442(b)(5), 443, 444, 445(b)(2), 446, 448(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440–1443, 1503; Pub. L. 97–35, title V, §539, Aug. 13, 1981, 95 Stat. 458; Pub. L. 99–272, title XVI, §16028, Apr. 7, 1986, 100 Stat. 353, related to terms and conditions of loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -372,7 +372,7 @@ Pub. L. 102–325, title IV, §468, July 23, 1992, 106 Stat. 585, as amended by 
 
 &emsp;"(4) the changes made in section 467 \[20 U.S.C. 1087gg\], relating to the creation of a Perkins Loan Revolving Fund, shall take effect on September 15, 1997; and
 
-&emsp;"(5) the changes in section 464(a)(2)(A), (B) and (C) shall not apply to any loan made for the award year beginning July 1, 1992 provided that the loan does not result in a violation of section 464(a)(2)(A), (B) and (C) as in effect prior to such date of enactment."
+&emsp;"(5) the changes in section 464(a)(2)(A), (B) and (C) shall not apply to any loan made for the award year beginning July 1, 1992 provided that the loan does notresult in a violation of section 464(a)(2)(A), (B) and (C) as in effect prior to such date of enactment."
 
 \[Pub. L. 102–394, title III, §307(b), Oct. 6, 1992, 106 Stat. 1820, provided that: "The amendments made by subsection (a) \[amending section 468 of Pub. L. 102–325, set out above\] shall take effect as if enacted on July 23, 1992."\]
 

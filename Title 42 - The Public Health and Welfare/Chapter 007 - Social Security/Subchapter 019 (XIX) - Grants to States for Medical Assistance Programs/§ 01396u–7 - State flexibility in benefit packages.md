@@ -22,7 +22,7 @@
 
 #### (D) Treatment as medical assistance
 
-&emsp;&emsp;Payment of premiums for such coverage under this subsection shall be treated aspayment of other insurance premiums described in the third sentence of section 1396d(a) of this title.
+&emsp;&emsp;Payment of premiums for such coverage under this subsection shall be treated as payment of other insurance premiums described in the third sentence of section 1396d(a) of this title.
 
 #### (E) Rule of construction
 
@@ -96,7 +96,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, subject to clause (ii), the term "full-benefit eligible individual" means for a State for a month an individual who is determined eligible by the State for medical assistancefor all services defined in section 1396d(a) of this title which are covered under the State plan under this subchapter for such month under section 1396a(a)(10)(A) of this title or under any other category of eligibility for medical assistance for all such services under this subchapter, as determined by the Secretary.
+&emsp;&emsp;&emsp;For purposes of this paragraph, subject to clause (ii), the term "full-benefit eligible individual" means for a State for a month an individual who is determined eligible by the State for medical assistance for all services defined in section 1396d(a)of this title which are covered under the State plan under this subchapter for such month under section 1396a(a)(10)(A) of this title or under any other category of eligibility for medical assistance for all such services under this subchapter, as determined by the Secretary.
 
 #### (ii) Exclusion of medically needy and spend-down populations
 

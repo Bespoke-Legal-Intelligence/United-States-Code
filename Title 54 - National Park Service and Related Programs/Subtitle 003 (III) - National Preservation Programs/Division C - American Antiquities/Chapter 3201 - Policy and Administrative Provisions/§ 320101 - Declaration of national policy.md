@@ -78,7 +78,7 @@ Fort Raleigh National Historic Site, North Carolina.—Designated Apr. 5, 1941; 
 
 Fort Saint Marks National Historic Site, Florida.—Pub. L. 87–789, Oct. 10, 1962, 76 Stat. 807.
 
-Fort Scott National Historic Site, Kansas.—Pub. L. 95–484, Oct. 19, 1978, 92 Stat. 1610; Pub. L. 95–625, title XII, Nov. 10, 1978, 92 Stat. 3548.
+Fort Scott National Historic Site, Kansas.—Pub. L. 95–484, Oct. 19, 1978, 92 Stat. 1610; Pub. L. 95–625, title XII, Nov. 10, 1978, 92 Stat. 3548; Pub. L. 116–9, title II, §2105, Mar. 12, 2019, 133 Stat. 726.
 
 Fort Smith National Historic Site, Arkansas.—Pub. L. 87–215, Sept. 13, 1961, 75 Stat. 489; Pub. L. 94–578, title III, §312, Oct. 21, 1976, 90 Stat. 2737.
 
@@ -90,7 +90,7 @@ Friendship Hill National Historic Site, Pennsylvania.—Pub. L. 95–625, title 
 
 Georgia O'Keeffe National Historic Site, New Mexico.—Pub. L. 96–344, §3, Sept. 8, 1980, 94 Stat. 1133; repealed by Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1386.
 
-Golden Spike National Historic Site, Utah.—Pub. L. 89–102, July 30, 1965, 79 Stat. 426; Pub. L. 94–578, title II, §201(5), Oct. 21, 1976, 90 Stat. 2733.
+Golden Spike National Historic Site, Utah \[redesignated Golden Spike National Historical Park by Pub. L. 116–9, title II, §2205(b), Mar. 12, 2019, 133 Stat. 738 (16 U.S.C. 410cccc et seq.)\].—Pub. L. 89–102, July 30, 1965, 79 Stat. 426; Pub. L. 94–578, title II, §201(5), Oct. 21, 1976, 90 Stat. 2733.
 
 Grant-Kohrs Ranch National Historic Site, Montana.—Pub. L. 92–406, Aug. 25, 1972, 86 Stat. 632; Pub. L. 105–365, Nov. 6, 1998, 112 Stat. 3301.
 
@@ -98,11 +98,13 @@ Grey Towers National Historic Site, Pennsylvania.—Pub. L. 108–447, div. E, t
 
 Hampton National Historic Site, Maryland.—Designated June 22, 1948.
 
-Harry S Truman National Historic Site, Missouri.—Pub. L. 98–32, May 23, 1983, 97 Stat. 193; Pub. L. 101–105, Oct. 2, 1989, 103 Stat. 675; Pub. L. 103–184, §1, Dec. 14, 1993, 107 Stat. 2243; Pub. L. 108–396, Oct. 30, 2004, 118 Stat. 2250.
+Harry S Truman National Historic Site, Missouri.—Pub. L. 98–32, May 23, 1983, 97 Stat. 193; Pub. L. 101–105, Oct. 2, 1989, 103 Stat. 675; Pub. L. 103–184, §1, Dec. 14, 1993, 107 Stat. 2243; Pub. L. 108–396, Oct. 30, 2004, 118 Stat. 2250; Pub. L. 116–9, title II, §2109(b), Mar. 12, 2019, 133 Stat. 731.
 
 Herbert Hoover National Historic Site, Iowa.—Pub. L. 89–119, Aug. 12, 1965, 79 Stat. 510.
 
-Home of Franklin D. Roosevelt National Historic Site, New York.—Designated Jan. 15, 1944; Pub. L. 105–364, Nov. 6, 1998, 112 Stat. 3300; Pub. L. 106–147, Dec. 9, 1999, 113 Stat. 1717.
+Home of Franklin D. Roosevelt National Historic Site, New York.—Designated Jan. 15, 1944; Pub. L. 105–364, Nov. 6, 1998, 112 Stat. 3300; Pub. L. 106–147, Dec. 9, 1999, 113 Stat. 1717; Pub. L. 116–9, title II, §2110, Mar. 12, 2019, 133 Stat. 733.
+
+Honouliuli National Historic Site, Hawai'i.—Pub. L. 116–9, title II, §2206(d), Mar. 12, 2019, 133 Stat. 741.
 
 Hopewell Furnace \[formerly Hopewell Village\] National Historic Site, Pennsylvania.—Designated Aug. 3, 1938; redesignated Sept. 19, 1985, 50 F.R. 52385.
 
@@ -138,7 +140,7 @@ Manzanar National Historic Site, California.—Pub. L. 102–248, title I, Mar. 
 
 Mar-A-Lago National Historic Site, Florida \[redesignated Mar-A-Lago National Historic Landmark by Pub. L. 96–586, §4(a)(2), Dec. 23, 1980, 94 Stat. 3386 (16 U.S.C. 467a note)\].—Designated Jan. 16, 1969; Pub. L. 92–527, Oct. 21, 1972, 86 Stat. 1049; repealed by Pub. L. 96–586, §4(a)(1), Dec. 23, 1980, 94 Stat. 3386.
 
-Martin Luther King, Junior, National Historic Site, Georgia \[redesignated Martin Luther King, Jr. National Historical Park by Pub. L. 115–108, §3, Jan. 8, 2018, 131 Stat. 2267 (16 U.S.C. 460bbbb et seq.)\].—Pub. L. 96–428, Oct. 10, 1980, 94 Stat. 1839; Pub. L. 102–575, title XL, §4024, Oct. 30, 1992, 106 Stat. 4768; Pub. L. 108–314, Oct. 5, 2004, 118 Stat. 1198.
+Martin Luther King, Junior, National Historic Site, Georgia \[redesignated Martin Luther King, Jr. National Historical Park by Pub. L. 115–108, §3, Jan. 8, 2018, 131 Stat. 2267 (16 U.S.C. 410www et seq.)\].—Pub. L. 96–428, Oct. 10, 1980, 94 Stat. 1839; Pub. L. 102–575, title XL, §4024, Oct. 30, 1992, 106 Stat. 4768; Pub. L. 108–314, Oct. 5, 2004, 118 Stat. 1198.
 
 Martin Van Buren National Historic Site, New York.—Pub. L. 93–486, title I, §101(a)(6), Oct. 26, 1974, 88 Stat. 1462; Pub. L. 111–11, title VII, §7112, Mar. 30, 2009, 123 Stat. 1201.
 
@@ -158,11 +160,11 @@ Palo Alto Battlefield National Historic Site, Texas \[redesignated Palo Alto Bat
 
 President William Jefferson Clinton Birthplace Home National Historic Site, Arkansas.—Pub. L. 111–11, title VII, §7002, Mar. 30, 2009, 123 Stat. 1188.
 
-Pu‘ukoholā Heiau National Historic Site, Hawaii.—Pub. L. 92–388, Aug. 17, 1972, 86 Stat. 562; Pub. L. 106–510, §3(e), Nov. 13, 2000, 114 Stat. 2364.
+Pu‘ukoholā Heiau National Historic Site, Hawai'i.—Pub. L. 92–388, Aug. 17, 1972, 86 Stat. 562; Pub. L. 106–510, §3(e), Nov. 13, 2000, 114 Stat. 2364.
 
 Ronald Reagan Boyhood Home National Historic Site, Illinois.—Pub. L. 107–137, Feb. 6, 2002, 116 Stat. 3.
 
-Saint-Gaudens National Historic Site, New Hampshire.—Pub. L. 88–543, Aug. 31, 1964, 78 Stat. 749; Pub. L. 94–578, title I, §101(10), title II, §201(7), title III, §306, Oct. 21, 1976, 90 Stat. 2732, 2733, 2735; Pub. L. 106–491, Nov. 9, 2000, 114 Stat. 2209.
+Saint-Gaudens National Historic Site, New Hampshire \[redesignated Saint-Gaudens National Historical Park by Pub. L. 116–9, title II, §2201(a), Mar. 12, 2019, 133 Stat. 733 (16 U.S.C. 410zzz et seq.)\].—Pub. L. 88–543, Aug. 31, 1964, 78 Stat. 749; Pub. L. 94–578, title I, §101(10), title II, §201(7), title III, §306, Oct. 21, 1976, 90 Stat. 2732, 2733, 2735; Pub. L. 106–491, Nov. 9, 2000, 114 Stat. 2209.
 
 Salem Maritime National Historic Site, Massachusetts.—Designated Mar. 17, 1938; Pub. L. 100–349, June 27, 1988, 102 Stat. 659; Pub. L. 101–632, Nov. 28, 1990, 104 Stat. 4575.
 
@@ -222,7 +224,7 @@ Cache La Poudre Corridor, Colorado.—Pub. L. 104–323, Oct. 19, 1996, 110 Stat
 
 Delaware and Lehigh National Heritage Corridor, Pennsylvania.—Pub. L. 100–692, Nov. 18, 1988, 102 Stat. 4552; Pub. L. 105–355, title IV, Nov. 6, 1998, 112 Stat. 3258; Pub. L. 108–199, div. H, §141, Jan. 23, 2004, 118 Stat. 443; Pub. L. 111–11, title VIII, §8202, Mar. 30, 2009, 123 Stat. 1292; Pub. L. 113–6, div. F, title IV, §1404(c), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(c), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(A), (2), Dec. 19, 2014, 128 Stat. 3801, 3802.
 
-Erie Canalway National Heritage Corridor, New York.—Pub. L. 106–554, §1(a)(4) \[div. B, title VIII\], Dec. 21, 2000, 114 Stat. 2763, 2763A–295; Pub. L. 111–11, title VIII, §8203, Mar. 30, 2009, 123 Stat. 1294; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(G), (2), Dec. 19, 2014, 128 Stat. 3802; Pub. L. 115–31, div. G, title I, §115(b), May 5, 2017, 131 Stat. 461.
+Erie Canalway National Heritage Corridor, New York.—Pub. L. 106–554, §1(a)(4) \[div. B, title VIII\], Dec. 21, 2000, 114 Stat. 2763, 2763A–295; Pub. L. 111–11, title VIII, §8203, Mar. 30, 2009, 123 Stat. 1294; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(G), (2), Dec. 19, 2014, 128 Stat. 3802; Pub. L. 115–31, div. G, title I, §115(b), May 5, 2017, 131 Stat. 461; Pub. L. 116–94, div. D, title I, §113(e), Dec. 20, 2019, 133 Stat. 2714.
 
 Gullah/Geechee Cultural Heritage Corridor, Florida, Georgia, North Carolina, and South Carolina.—Pub. L. 109–338, title II, §§295–295L, Oct. 12, 2006, 120 Stat. 1832–1837; Pub. L. 114–233, §1, Oct. 7, 2016, 130 Stat. 962.
 
@@ -234,45 +236,51 @@ Ohio \& Erie Canal National Heritage Corridor, Ohio (see Ohio \& Erie National H
 
 Quinebaug and Shetucket Rivers Valley National Heritage Corridor (see The Last Green Valley National Heritage Corridor, Connecticut and Massachusetts).
 
-South Carolina National Heritage Corridor, South Carolina.—Pub. L. 104–333, div. II, title VI, Nov. 12, 1996, 110 Stat. 4260; Pub. L. 110–229, title IV, §§461, 473, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551; Pub. L. 115–141, div. G, title I, §117(a), Mar. 23, 2018, 132 Stat. 661.
+South Carolina National Heritage Corridor, South Carolina.—Pub. L. 104–333, div. II, title VI, Nov. 12, 1996, 110 Stat. 4260; Pub. L. 110–229, title IV, §§461, 473, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551; Pub. L. 115–141, div. G, title I, §117(a), Mar. 23, 2018, 132 Stat. 661; Pub. L. 116–6, div. E, title I, §117, Feb. 15, 2019, 133 Stat. 233; Pub. L. 116–9, title VI, §6004(i), Mar. 12, 2019, 133 Stat. 778; Pub. L. 116–94, div. D, title I, §113(d), Dec. 20, 2019, 133 Stat. 2714.
 
-The Last Green Valley National Heritage Corridor \[formerly Quinebaug and Shetucket Rivers Valley National Heritage Corridor\], Connecticut and Massachusetts.—Pub. L. 103–449, title I, Nov. 2, 1994, 108 Stat. 4752; Pub. L. 106–149, Dec. 9, 1999, 113 Stat. 1726; Pub. L. 111–11, title VIII, §8201, Mar. 30, 2009, 123 Stat. 1291; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(H), (2), (c)(1), Dec. 19, 2014, 128 Stat. 3802, 3804.
+The Last Green Valley National Heritage Corridor \[formerly Quinebaug and Shetucket Rivers Valley National Heritage Corridor\], Connecticut and Massachusetts.—Pub. L. 103–449, title I, Nov. 2, 1994, 108 Stat. 4752; Pub. L. 106–149, Dec. 9, 1999, 113 Stat. 1726; Pub. L. 111–11, title VIII, §8201, Mar. 30, 2009, 123 Stat. 1291; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(H), (2), (c)(1), Dec. 19, 2014, 128 Stat. 3802, 3804; Pub. L. 116–94, div. D, title I, §113(c), Dec. 20, 2019, 133 Stat. 2714.
 
 National Heritage Areas
 
 &nbsp;
 
-Abraham Lincoln National Heritage Area, Illinois.—Pub. L. 110–229, title IV, §§441–451, May 8, 2008, 122 Stat. 818–824.
+Abraham Lincoln National Heritage Area, Illinois.—Pub. L. 110–229, title IV, §§441–451, May 8, 2008, 122 Stat. 818–824; Pub. L. 116–9, title VI, §6002, Mar. 12, 2019, 133 Stat. 776.
+
+Appalachian Forest National Heritage Area, Maryland and West Virginia.—Pub. L. 116–9, title VI, §6001(a)(1), Mar. 12, 2019, 133 Stat. 768.
 
 Arabia Mountain National Heritage Area, Georgia.—Pub. L. 109–338, title II, §§231–242, Oct. 12, 2006, 120 Stat. 1795–1800.
 
 Atchafalaya National Heritage Area, Louisiana.—Pub. L. 109–338, title II, §§211–221, Oct. 12, 2006, 120 Stat. 1791–1795.
 
-Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249; Pub. L. 106–176, title II, §203, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551; Pub. L. 115–141, div. G, title I, §117(a), Mar. 23, 2018, 132 Stat. 661.
+Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249; Pub. L. 106–176, title II, §203, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551; Pub. L. 115–141, div. G, title I, §117(a), Mar. 23, 2018, 132 Stat. 661; Pub. L. 116–6, div. E, title I, §117, Feb. 15, 2019, 133 Stat. 233; Pub. L. 116–9, title VI, §6004(h), Mar. 12, 2019, 133 Stat. 778.
 
 Automobile National Heritage Area (see MotorCities National Heritage Area, Michigan).
 
 Baltimore National Heritage Area, Maryland.—Pub. L. 111–11, title VIII, §8005, Mar. 30, 2009, 123 Stat. 1247; Pub. L. 114–289, title VI, §601(b), Dec. 16, 2016, 130 Stat. 1490.
 
-Blue Ridge National Heritage Area, North Carolina.—Pub. L. 108–108, title I, §140, Nov. 10, 2003, 117 Stat. 1274; Pub. L. 115–31, div. G, title I, §115(a), May 5, 2017, 131 Stat. 461; Pub. L. 115–141, div. G, title I, §117(b), Mar. 23, 2018, 132 Stat. 661.
+Blue Ridge National Heritage Area, North Carolina.—Pub. L. 108–108, title I, §140, Nov. 10, 2003, 117 Stat. 1274; Pub. L. 115–31, div. G, title I, §115(a), May 5, 2017, 131 Stat. 461; Pub. L. 115–141, div. G, title I, §117(b), Mar. 23, 2018, 132 Stat. 661; Pub. L. 116–9, title VI, §6004(d), Mar. 12, 2019, 133 Stat. 778.
 
 Cache La Poudre River National Heritage Area, Colorado.—Pub. L. 111–11, title VIII, §8002, Mar. 30, 2009, 123 Stat. 1229.
 
 Crossroads of the American Revolution National Heritage Area, New Jersey.—Pub. L. 109–338, title II, §§297–297J, Oct. 12, 2006, 120 Stat. 1837–1844; Pub. L. 111–11, title VII, §7116(i), Mar. 30, 2009, 123 Stat. 1203.
 
-Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title V, Nov. 12, 1996, 110 Stat. 4257; Pub. L. 106–176, title II, §204, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(iii), Dec. 19, 2014, 128 Stat. 3801; Pub. L. 114–113, div. G, title I, §116(b)(1), Dec. 18, 2015, 129 Stat. 2550.
+Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title V, Nov. 12, 1996, 110 Stat. 4257; Pub. L. 106–176, title II, §204, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(iii), Dec. 19, 2014, 128 Stat. 3801; Pub. L. 114–113, div. G, title I, §116(b)(1), Dec. 18, 2015, 129 Stat. 2550; Pub. L. 116–9, title VI, §6004(b), Mar. 12, 2019, 133 Stat. 778.
 
 Freedom's Frontier National Heritage Area, Kansas and Missouri.—Pub. L. 109–338, title II, §§261–269, Oct. 12, 2006, 120 Stat. 1807–1813.
 
 Freedom's Way National Heritage Area, Massachusetts and New Hampshire.—Pub. L. 111–11, title VIII, §8006, Mar. 30, 2009, 123 Stat. 1253.
 
-Hudson River Valley National Heritage Area, New York.—Pub. L. 104–333, div. II, title IX, Nov. 12, 1996, 110 Stat. 4275; Pub. L. 105–83, title III, §§317, 324, Nov. 14, 1997, 111 Stat. 1595, 1597; Pub. L. 106–176, title II, §206, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(vi), (2), Dec. 19, 2014, 128 Stat. 3801, 3802.
+Hudson River Valley National Heritage Area (see Maurice D. Hinchey Hudson River Valley National Heritage Area, New York).
 
 Journey Through Hallowed Ground National Heritage Area, Maryland, Pennsylvania, Virginia, West Virginia.—Pub. L. 110–229, title IV, §§401–411, May 8, 2008, 122 Stat. 802–809.
 
 Kenai Mountains-Turnagain Arm National Heritage Area, Alaska.—Pub. L. 111–11, title VIII, §8010, Mar. 30, 2009, 123 Stat. 1282.
 
 Lackawanna Valley National Heritage Area, Pennsylvania.—Pub. L. 106–278, title I, Oct. 6, 2000, 114 Stat. 814; Pub. L. 108–352, §2, Oct. 21, 2004, 118 Stat. 1395; Pub. L. 113–6, div. F, title IV, §1404(d), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(d), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(D)(i), (2), Dec. 19, 2014, 128 Stat. 3802.
+
+Maritime Washington National Heritage Area, Washington.—Pub. L. 116–9, title VI, §6001(a)(2), Mar. 12, 2019, 133 Stat. 769.
+
+Maurice D. Hinchey Hudson River Valley National Heritage Area \[formerly Hudson River Valley National Heritage Area\], New York.—Pub. L. 104–333, div. II, title IX, Nov. 12, 1996, 110 Stat. 4275; Pub. L. 105–83, title III, §§317, 324, Nov. 14, 1997, 111 Stat. 1595, 1597; Pub. L. 106–176, title II, §206, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(vi), (2), Dec. 19, 2014, 128 Stat. 3801, 3802; Pub. L. 116–9, title VI, §6004(k), Mar. 12, 2019, 133 Stat. 779.
 
 Mississippi Delta National Heritage Area, Mississippi.—Pub. L. 111–11, title VIII, §8008, Mar. 30, 2009, 123 Stat. 1267.
 
@@ -282,11 +290,13 @@ Mississippi Hills National Heritage Area, Mississippi.—Pub. L. 111–11, title
 
 Mormon Pioneer National Heritage Area, Utah.—Pub. L. 109–338, title II, §§251–260, Oct. 12, 2006, 120 Stat. 1800–1807.
 
-MotorCities National Heritage Area \[formerly Automobile National Heritage Area\], Michigan.—Pub. L. 105–355, title I, Nov. 6, 1998, 112 Stat. 3247; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(C), (2), (c)(2), Dec. 19, 2014, 128 Stat. 3802, 3805.
+MotorCities National Heritage Area \[formerly Automobile National Heritage Area\], Michigan.—Pub. L. 105–355, title I, Nov. 6, 1998, 112 Stat. 3247; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(C), (2), (c)(2), Dec. 19, 2014, 128 Stat. 3802, 3805; Pub. L. 116–9, title VI, §6004(e), Mar. 12, 2019, 133 Stat. 778.
+
+Mountains to Sound Greenway National Heritage Area, Washington.—Pub. L. 116–9, title VI, §6001(a)(3), Mar. 12, 2019, 133 Stat. 769.
 
 Muscle Shoals National Heritage Area, Alabama.—Pub. L. 111–11, title VIII, §8009, Mar. 30, 2009, 123 Stat. 1275; Pub. L. 114–289, title VI, §601(h), Dec. 16, 2016, 130 Stat. 1491.
 
-National Aviation Heritage Area, Ohio.—Pub. L. 108–447, div. J, title V, Dec. 8, 2004, 118 Stat. 3361; Pub. L. 111–11, title VII, §7117(d), Mar. 30, 2009, 123 Stat. 1204.
+National Aviation Heritage Area, Ohio.—Pub. L. 108–447, div. J, title V, Dec. 8, 2004, 118 Stat. 3361; Pub. L. 111–11, title VII, §7117(d), Mar. 30, 2009, 123 Stat. 1204; Pub. L. 116–94, div. D, title I, §113(a), Dec. 20, 2019, 133 Stat. 2713.
 
 National Coal Heritage Area, West Virginia.—Pub. L. 104–333, div. II, title I, Nov. 12, 1996, 110 Stat. 4243; Pub. L. 106–176, title II, §201, Mar. 10, 2000, 114 Stat. 31; Pub. L. 109–338, title IX, §901, Oct. 12, 2006, 120 Stat. 1862; Pub. L. 110–229, title IV, §§461, 471, May 8, 2008, 122 Stat. 824, 825; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(i), (2), Dec. 19, 2014, 128 Stat. 3801, 3802.
 
@@ -296,11 +306,15 @@ Northern Plains National Heritage Area, North Dakota.—Pub. L. 111–11, title 
 
 Northern Rio Grande National Heritage Area, New Mexico.—Pub. L. 109–338, title II, §§201–209, Oct. 12, 2006, 120 Stat. 1787–1790.
 
-Oil Region National Heritage Area, Pennsylvania.—Pub. L. 108–447, div. J, title VI, Dec. 8, 2004, 118 Stat. 3368.
+Oil Region National Heritage Area, Pennsylvania.—Pub. L. 108–447, div. J, title VI, Dec. 8, 2004, 118 Stat. 3368; Pub. L. 116–9, title VI, §6004(j), Mar. 12, 2019, 133 Stat. 779; Pub. L. 116–94, div. D, title I, §113(b), Dec. 20, 2019, 133 Stat. 2713.
 
-Rivers of Steel National Heritage Area \[formerly Steel Industry American Heritage Area\], Pennsylvania.—Pub. L. 104–333, div. II, title IV, Nov. 12, 1996, 110 Stat. 4252; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §116\], Nov. 29, 1999, 113 Stat. 1535, 1501A–158; Pub. L. 110–229, title IV, §§461, 472, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(ii), (2), Dec. 19, 2014, 128 Stat. 3801, 3802; Pub. L. 114–113, div. G, title I, §116(b)(1), Dec. 18, 2015, 129 Stat. 2550.
+Rivers of Steel National Heritage Area \[formerly Steel Industry American Heritage Area\], Pennsylvania.—Pub. L. 104–333, div. II, title IV, Nov. 12, 1996, 110 Stat. 4252; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §116\], Nov. 29, 1999, 113 Stat. 1535, 1501A–158; Pub. L. 110–229, title IV, §§461, 472, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(ii), (2), Dec. 19, 2014, 128 Stat. 3801, 3802; Pub. L. 114–113, div. G, title I, §116(b)(1), Dec. 18, 2015, 129 Stat. 2550; Pub. L. 116–9, title VI, §6004(a), Mar. 12, 2019, 133 Stat. 778.
+
+Sacramento-San Joaquin Delta National Heritage Area, California.—Pub. L. 116–9, title VI, §6001(a)(4), Mar. 12, 2019, 133 Stat. 770.
 
 Sangre de Cristo National Heritage Area, Colorado.—Pub. L. 111–11, title VIII, §8001, Mar. 30, 2009, 123 Stat. 1224.
+
+Santa Cruz Valley National Heritage Area, Arizona.—Pub. L. 116–9, title VI, §6001(a)(5), Mar. 12, 2019, 133 Stat. 771.
 
 Schuylkill River Valley National Heritage Area, Pennsylvania.—Pub. L. 106–278, title II, Oct. 6, 2000, 114 Stat. 819; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(D)(ii), (2), Dec. 19, 2014, 128 Stat. 3802.
 
@@ -308,11 +322,13 @@ South Park National Heritage Area, Colorado.—Pub. L. 111–11, title VIII, §8
 
 Steel Industry American Heritage Area (see Rivers of Steel National Heritage Area, Pennsylvania).
 
-Tennessee Civil War Heritage Area, Tennessee.—Pub. L. 104–333, div. II, title II, Nov. 12, 1996, 110 Stat. 4245; Pub. L. 106–176, title II, §202, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551; Pub. L. 115–141, div. G, title I, §117(a), Mar. 23, 2018, 132 Stat. 661.
+Susquehanna National Heritage Area, Pennsylvania.—Pub. L. 116–9, title VI, §6001(a)(6), Mar. 12, 2019, 133 Stat. 771.
+
+Tennessee Civil War Heritage Area, Tennessee.—Pub. L. 104–333, div. II, title II, Nov. 12, 1996, 110 Stat. 4245; Pub. L. 106–176, title II, §202, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551; Pub. L. 115–141, div. G, title I, §117(a), Mar. 23, 2018, 132 Stat. 661; Pub. L. 116–6, div. E, title I, §117, Feb. 15, 2019, 133 Stat. 233; Pub. L. 116–9, title VI, §6004(g), Mar. 12, 2019, 133 Stat. 778.
 
 Upper Housatonic Valley National Heritage Area, Connecticut and Massachusetts.—Pub. L. 109–338, title II, §§271–280B, Oct. 12, 2006, 120 Stat. 1813–1819.
 
-Wheeling National Heritage Area, West Virginia.—Pub. L. 106–291, title I, §157, Oct. 11, 2000, 114 Stat. 963; Pub. L. 113–235, div. F, title I, §120(b), Dec. 16, 2014, 128 Stat. 2421; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(E), (2), Dec. 19, 2014, 128 Stat. 3802; Pub. L. 114–113, div. G, title I, §116(a), Dec. 18, 2015, 129 Stat. 2550.
+Wheeling National Heritage Area, West Virginia.—Pub. L. 106–291, title I, §157, Oct. 11, 2000, 114 Stat. 963; Pub. L. 113–235, div. F, title I, §120(b), Dec. 16, 2014, 128 Stat. 2421; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(E), (2), Dec. 19, 2014, 128 Stat. 3802; Pub. L. 114–113, div. G, title I, §116(a), Dec. 18, 2015, 129 Stat. 2550; Pub. L. 116–9, title VI, §6004(f), Mar. 12, 2019, 133 Stat. 778.
 
 Yuma Crossing National Heritage Area, Arizona.—Pub. L. 106–319, Oct. 19, 2000, 114 Stat. 1280; Pub. L. 109–318, §1, Oct. 11, 2006, 120 Stat. 1745; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(F), (2), Dec. 19, 2014, 128 Stat. 3802.
 
@@ -320,7 +336,7 @@ National Heritage Canalways
 
 &nbsp;
 
-Ohio \& Erie National Heritage Canalway, Ohio \[formerly Ohio \& Erie Canal National Heritage Corridor\].—Pub. L. 104–333, div. II, title VIII, Nov. 12, 1996, 110 Stat. 4267; Pub. L. 106–176, title II, §205, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §§461, 474, May 8, 2008, 122 Stat. 824, 826; Pub. L. 111–11, title VII, §7116(j), Mar. 30, 2009, 123 Stat. 1203; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(v), (2), Dec. 19, 2014, 128 Stat. 3801, 3802; Pub. L. 114–113, div. G, title I, §116(b)(1), Dec. 18, 2015, 129 Stat. 2550.
+Ohio \& Erie National Heritage Canalway, Ohio \[formerly Ohio \& Erie Canal National Heritage Corridor\].—Pub. L. 104–333, div. II, title VIII, Nov. 12, 1996, 110 Stat. 4267; Pub. L. 106–176, title II, §205, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §§461, 474, May 8, 2008, 122 Stat. 824, 826; Pub. L. 111–11, title VII, §7116(j), Mar. 30, 2009, 123 Stat. 1203; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(v), (2), Dec. 19, 2014, 128 Stat. 3801, 3802; Pub. L. 114–113, div. G, title I, §116(b)(1), Dec. 18, 2015, 129 Stat. 2550; Pub. L. 116–9, title VI, §6004(c), Mar. 12, 2019, 133 Stat. 778.
 
 National Heritage Partnerships
 
@@ -336,59 +352,19 @@ National Heritage Routes
 
 Great Basin National Heritage Route, Nevada and Utah.—Pub. L. 109–338, title II, §§291–291L, Oct. 12, 2006, 120 Stat. 1824–1831.
 
-#### Kennedy–King National Commemorative Site
+National Commemorative Sites
 
-Pub. L. 115–163, Apr. 4, 2018, 132 Stat. 1251, provided that:
+&nbsp;
 
-#### "SECTION 1. SHORT TITLE.
+Charleston National Commemorative Site, Arkansas.—Pub. L. 105–277, div. A, §101(e) \[title I, §128\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–262.
 
-"This Act may be cited as the 'Kennedy–King National Commemorative Site Act'.
+Kennedy–King National Commemorative Site, Indiana.—Pub. L. 115–163, Apr. 4, 2018, 132 Stat. 1251.
 
-#### "SEC. 2. DEFINITIONS.
+Quindaro Townsite National Commemorative Site, Kansas.—Pub. L. 116–9, title IX, §9008, Mar. 12, 2019, 133 Stat. 838.
 
-"In this Act:
+#### Management of National Heritage Areas Designated by Section 6001(a) of Pub. L. 116–9
 
-&emsp;"(1)
-
-Secretary.—The term 'Secretary' means the Secretary of the Interior.
-
-&emsp;"(2)
-
-Site.—The term 'Site' means the Kennedy–King National Commemorative Site as designated by section 3(a).
-
-&emsp;"(3)
-
-State.—The term 'State' means the State of Indiana.
-
-#### "SEC. 3. NATIONAL COMMEMORATIVE SITE.
-
-"(a)
-
-Designation.—The Landmark for Peace Memorial in Martin Luther King, Jr. Park in Indianapolis, in the State, is hereby designated as the Kennedy–King National Commemorative Site.
-
-"(b)
-
-African American Civil Rights Network.—The Site shall be part of the African American Civil Rights Network established under Public Law 115–104 \[see Short Title of 2018 Amendment note set out under section 100101 of this title\].
-
-"(c)
-
-Administration.—
-
-&emsp;"(1)
-
-Cooperative agreements.—The Secretary may enter into cooperative agreements with appropriate public or private entities for interpretative and educational purposes related to the Site.
-
-&emsp;"(2)
-
-Effect of designation.—The Site shall not be a unit of the National Park System.
-
-&emsp;"(3)
-
-Limitations.—Nothing in this Act—
-
-&emsp;&emsp;"(A) authorizes the Secretary to interfere with the rights of any person with respect to private property or any local zoning ordinance or land use plan of the State or any political subdivision thereof; or
-
-&emsp;&emsp;"(B) authorizes the Secretary to acquire land or interests in land through condemnation or otherwise."
+Pub. L. 116–9, title VI, §6001(b)–(g), Mar. 12, 2019, 133 Stat. 771–776, related to the management of the Appalachian Forest National Heritage Area, Maritime Washington National Heritage Area, Mountains to Sound Greenway National Heritage Area, Sacramento-San Joaquin Delta National Heritage Area, Santa Cruz Valley National Heritage Area, and Susquehanna National Heritage Area, including administration, management plans, relationship to other Federal agencies, private property and regulatory protections, evaluation and report, and authorization of appropriations.
 
 #### Conditional Extension of Authorities
 
@@ -422,7 +398,7 @@ Report.—Based on the evaluation conducted under subparagraph (A)(i), the Secre
 
 #### Crossroads of the West Historic District
 
-Pub. L. 106–577, title III, §302, Dec. 28, 2000, 114 Stat. 3072, established the Crossroads of the West Historic District in Ogden, Utah, provided that the Secretary of the Interior could make grants and enter into cooperative agreements with the State of Utah, local governments, and nonprofit entities for the preparation of a plan for the development of historic, architectural, natural, cultural, and interpretive resources within the District, for implementation of projects approved by the Secretary under that development plan, for an analysis assessing measures that could be taken to encourage economic development and revitalization within the District in a manner consistent with the District's historic character, and for assisting in the restoration, repair, rehabilitation and improvement of historic infrastructure, and the preservation and interpretation of properties, within the District, set forth the application process, and authorized appropriations.
+Pub. L. 106–577, title III, §302, Dec. 28, 2000, 114 Stat. 3072, established the Crossroads of the West Historic District in Ogden, Utah, provided that the Secretary of the Interior could make grants and enter into cooperative agreements with the State of Utah, local governments, and nonprofit entities for the preparation of a plan for the development of historic, architectural, natural, cultural, and interpretive resources within theDistrict, for implementation of projects approved by the Secretary under that development plan, for an analysis assessing measures that could be taken to encourage economic development and revitalization within the District in a manner consistent with the District's historic character, and for assisting in the restoration, repair, rehabilitation and improvement of historic infrastructure, and the preservation and interpretation of properties, within the District, set forth the application process, and authorized appropriations.
 
 #### Route 66 Corridor
 
@@ -432,27 +408,9 @@ Pub. L. 106–45, Aug. 10, 1999, 113 Stat. 224, as amended by Pub. L. 111–11, 
 
 Pub. L. 105–312, title V, Oct. 30, 1998, 112 Stat. 2961, as amended by Pub. L. 107–308, §9, Dec. 2, 2002, 116 Stat. 2448; Pub. L. 111–212, title III, §3005, July 29, 2010, 124 Stat. 2339; Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 991; Pub. L. 113–76, div. G, title IV, §428, Jan. 17, 2014, 128 Stat. 345; Pub. L. 114–113, div. G, title IV, §422, Dec. 18, 2015, 129 Stat. 2579; Pub. L. 115–141, div. G, title IV, §420, Mar. 23, 2018, 132 Stat. 691, known as the Chesapeake Bay Initiative Act of 1998, authorized Secretary of the Interior, in cooperation with Administrator of the Environmental Protection Agency, to create a Chesapeake Bay Gateways and Watertrails Network and to provide assistance to State and local governments in establishing this network, and authorized appropriations for these purposes.
 
-#### Charleston, Arkansas, National Commemorative Site
-
-Pub. L. 105–277, div. A, §101(e) \[title I, §128\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–262, provided that:
-
-"(a) The Congress finds that—
-
-&emsp;"(1) the 1954 U.S. Supreme Court decision of Brown v. Board of Education, which mandated an end to the segregation of public schools, was one of the most significant Court decisions in the history of the United States;
-
-&emsp;"(2) the Charleston Public School District in Charleston, Arkansas, in September, 1954, became the first previously-segregated public school district in the former Confederacy to integrate following the Brown decision;
-
-&emsp;"(3) the orderly and peaceful integration of the public schools in Charleston served as a model and inspiration in the development of the Civil Rights movement in the United States, particularly with respect to public education; and
-
-&emsp;"(4) notwithstanding the important role of the Charleston School District in the successful implementation of integrated public schools, the role of the district has not been adequately commemorated and interpreted for the benefit and understanding of the nation.
-
-"(b) The Charleston Public School complex in Charleston, Arkansas is hereby designated as the 'Charleston National Commemorative Site' in commemoration of the Charleston schools' role as the first public school district in the South to integrate following the 1954 United States Supreme Court decision, Brown v. Board of Education.
-
-"(c) The Secretary, after consultation with the Charleston Public School District, shall establish an appropriate commemorative monument and interpretive exhibit at the Charleston National Commemorative Site to commemorate the 1954 integration of Charleston's public schools."
-
 #### Vancouver National Historic Reserve
 
-Pub. L. 104–333, div. I, title V, §502, Nov. 12, 1996, 110 Stat. 4154, as amended by Pub. L. 106–176, title I, §107, Mar. 10, 2000, 114 Stat. 26; Pub. L. 107–342, §1, Dec. 17,2002, 116 Stat. 2891, established Vancouver National Historic Reserve, Washington, directed that Reserve be administered through general management plan submitted by National Park Service to Secretary of the Interior within 3 years after Nov. 12, 1996, developed by partnership of interests including National Park Service, Historic Preservation Office of State of Washington, Department of the Army, and City of Vancouver, Washington, and to include specific findings of Vancouver Historic Reserve Report and to meet with approval of Secretary of the Interior and Secretary of the Army, directed that plan not be deemed new unit of National Park System and not limit authority of Federal Aviation Administration, and authorized appropriations.
+Pub. L. 104–333, div. I, title V, §502, Nov. 12, 1996, 110 Stat. 4154, as amended by Pub. L. 106–176, title I, §107, Mar. 10, 2000, 114 Stat. 26; Pub. L. 107–342, §1, Dec. 17, 2002, 116 Stat. 2891, established Vancouver National Historic Reserve, Washington, directed that Reserve be administered through general management plan submitted by National Park Service to Secretary of the Interior within 3 years after Nov. 12, 1996, developed by partnership of interests including National Park Service, Historic Preservation Office of State of Washington, Department of the Army, and City of Vancouver, Washington, and to include specific findings of Vancouver Historic Reserve Report and to meet with approval of Secretary of the Interior and Secretary of the Army, directed that plan not be deemed new unit of National Park System and not limit authority of Federal Aviation Administration, and authorized appropriations.
 
 #### Great Falls Historic District, New Jersey
 
@@ -482,7 +440,7 @@ Pub. L. 95–625, title V, §504, Nov. 10, 1978, 92 Stat. 3498, provided:
 
 "(a) \[Acquisition of property\] In order to preserve and protect Saint Paul's Church, Eastchester, in Mount Vernon, New York, for the benefit of present and future generations, the Secretary may accept any gift or bequest of any property or structure which comprises such church and any other real or personal property located within the square bounded by South Columbus Avenue, South Third Avenue, Edison Avenue, and South Fulton Avenue, in Mount Vernon, New York, including the cemetery located within such square and any real property located within such square which was at any time a part of the old village green, now in Mount Vernon, New York.
 
-"(b) \[Administration; repairs; cooperative agreements: management protection, development and interpretation\] Any property acquired under subsection (a) shall be administered by the Secretary acting through the National Park Service, in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act approved August 25, 1916 (\[former\] 16 U.S.C. 1 and following) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\] and the Act approved August 21, 1935 \[see 18 U.S.C. 1866(a), 54 U.S.C. 102303, 102304, 320101 et seq.\]. The Secretary, in carrying out the provisions of such Acts (i) shall give particular attention to assuring the completion of such structural and other repairs as he considers necessary to restore and preserve any property acquired in accordance with this section, and (ii) may enter into cooperative agreements with other public or private entities for the management, protection, development, and interpretation, in whole or in part, of the property so acquired."
+"(b) \[Administration; repairs; cooperative agreements: management protection, development and interpretation\] Any property acquired under subsection (a) shall be administered by the Secretary acting through the National Park Service, in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act approved August 25, 1916 (\[former\] 16 U.S.C. 1 and following) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\] and the Act approved August 21, 1935 \[see 18 U.S.C. 1866(a), 54 U.S.C. 102303, 102304, 320101 et seq.\]. The Secretary, in carrying out the provisions of such Acts (i) shall give particular attention to assuring the completion of such structuraland other repairs as he considers necessary to restore and preserve any property acquired in accordance with this section, and (ii) may enter into cooperative agreements with other public or private entities for the management, protection, development, and interpretation, in whole or in part, of the property so acquired."
 
 #### Ebey's Landing National Historical Reserve
 
@@ -546,7 +504,7 @@ WHEREAS the United States and the State of Florida are desirous of cooperating f
 
 WHEREAS by the terms of the Outer Continental Shelf Lands Act the United States has jurisdiction over the lands of the outer Continental Shelf and has the exclusive right to dispose of the natural resources of the sea bed and subsoil thereof; and
 
-WHEREAS section 12(a) of the Outer Continental Shelf Lands Act \[subsec. (a) of section 1341 of Title 43, Public Lands\] authorizes the President to withdraw from disposition any of the unleased lands of the outer Continental Shelf; and
+WHEREAS section 12(a) of the Outer Continental Shelf Lands Act \[subsec. (a) of section 1341 of Title 43,Public Lands\] authorizes the President to withdraw from disposition any of the unleased lands of the outer Continental Shelf; and
 
 WHEREAS section 5 of the Outer Continental Shelf Lands Act \[section 1334 of Title 43\] authorizes the Secretary of the Interior to prescribe rules and regulations for the conservation of the natural resources of the outer Continental Shelf and to cooperate with the conservation agencies of adjacent States in the enforcement of conservation laws, rules, and regulations:
 
@@ -554,7 +512,7 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 That portion of the outer Continental Shelf situated seaward of a line three geographic miles from Key Largo, Monroe County, Florida, lying and being within the following described area:
 
-Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°17′36″ N., Longitude 80°10′00″ W.), 200 yards southeast of Flashing White Light—Whistle Buoy "2"; thence northwesterly approximately 7,000 yards through Whistle Buoy "2" to Can Buoy "21" (approximate Latitude 25°20′06″ N., Longitude 80°12′36″ W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy "25"; thence southwesterly approximately 5,500 yards to Can Buoy "27"; thence southwesterly approximately 5,000 yards to Flashing Green Light "31BH" in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon "33" in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing White Light "35" on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon "37" (approximate Latitude 25°02′25″ N., Longitude 80°25′36″ W.), southeast of Rodriguez Key;thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light "2" at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°00′18″ N., Longitude 80°22′30″ W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
+Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°17′36″ N., Longitude 80°10′00″ W.), 200 yards southeast of Flashing White Light—Whistle Buoy "2"; thence northwesterly approximately 7,000 yards through Whistle Buoy "2" to Can Buoy "21" (approximate Latitude 25°20′06″ N., Longitude 80°12′36″ W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy "25"; thence southwesterly approximately 5,500 yards to Can Buoy "27"; thence southwesterly approximately 5,000 yards to Flashing Green Light "31BH" in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon "33" in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing White Light "35" on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon "37" (approximate Latitude 25°02′25″ N., Longitude 80°25′36″ W.), southeast of Rodriguez Key; thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light "2" at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°00′18″ N., Longitude 80°22′30″ W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
 
 I call upon all persons to join in the effort to protect and preserve this natural wonder for the benefit of future generations.
 

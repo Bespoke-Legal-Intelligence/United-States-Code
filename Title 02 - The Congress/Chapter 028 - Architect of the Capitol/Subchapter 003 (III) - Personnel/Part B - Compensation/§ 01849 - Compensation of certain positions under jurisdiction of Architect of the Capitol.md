@@ -10,7 +10,7 @@ Section was classified to section 166b–3b of former Title 40, prior to the ena
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–316 amended section generally. Prior to amendment, section related to compensation of certain positions under jurisdiction of Architect of the Capitol, specifying twelve positions fixed in relation toSenior Executive Service, nine positions fixed in relation to the General Schedule, and four positions for Executive Project Directors.
+<b>2010</b>—Pub. L. 111–316 amended section generally. Prior to amendment, section related to compensation of certain positions under jurisdiction of Architect of the Capitol, specifying twelve positions fixed in relation to Senior Executive Service, nine positions fixed in relation to the General Schedule, and four positions for Executive Project Directors.
 
 <b>2005</b>—Subsec. (b). Pub. L. 109–55 substituted "9 positions" for "8 positions".
 

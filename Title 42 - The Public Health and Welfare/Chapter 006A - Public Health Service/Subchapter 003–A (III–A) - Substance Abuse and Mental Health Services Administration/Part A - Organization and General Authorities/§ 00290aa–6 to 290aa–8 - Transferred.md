@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 290aa–6, act July 1, 1944, ch. 373, title V, §508, as added Oct. 27, 1986, Pub. L. 99–570, title IV, §4005(a), 100 Stat. 3207–111, and amended, which related to the Office of Substance Abuse Prevention, was renumbered section 515 of act July 1, 1944, by Pub. L. 102–321, title I, §113(b), July 10, 1992, 106 Stat. 345, and transferred to section 290bb–21 of this title.
+Section 290aa–6, act July 1, 1944, ch. 373, title V, §508, as added Oct. 27, 1986, Pub. L. 99–570, title IV, §4005(a),100 Stat. 3207–111, and amended, which related to the Office of Substance Abuse Prevention, was renumbered section 515 of act July 1, 1944, by Pub. L. 102–321, title I, §113(b), July 10, 1992, 106 Stat. 345, and transferred to section 290bb–21 of this title.
 
 Section 290aa–7, act July 1, 1944, ch. 373, title V, §509, as added Oct. 27, 1986, Pub. L. 99–570, title IV, §4005(a), 100 Stat. 3207–112, which related to Alcohol and Drug Abuse Information Clearinghouse, was renumbered section 516 of act July 1, 1944, by Pub. L. 102–321, title I, §113(f)(1)–(3), July 10, 1992, 106 Stat. 345, and transferred to section 290bb–22 of this title.
 

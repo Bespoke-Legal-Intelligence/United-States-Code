@@ -126,7 +126,7 @@ In making grants under this part, the Corporation shall give priority to applica
 
 &emsp;(2) implement service-learning programs in low-income or rural communities; and
 
-&emsp;(3) utilize adult volunteers, including tapping the resources of retired and retiring adults, in the planning and implementation of service-learning programs.
+&emsp;(3) utilize adult volunteers, including tapping the resources of retired and retiringadults, in the planning and implementation of service-learning programs.
 
 #### (f) Requirements
 
@@ -136,7 +136,7 @@ In making grants under this part, the Corporation shall give priority to applica
 
 #### (2) Collaboration encouraged
 
-&emsp;Each entity carrying out a program or activity funded under this part shall, to the extent practicable, collaborate with entities carryingout programs under this division, division C, and titles I and II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq., 5001 et seq.).
+&emsp;Each entity carrying out a program or activity funded under this part shall, to the extent practicable, collaborate with entities carrying out programs under this division, division C, and titles I and II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq., 5001 et seq.).
 
 #### (3) Evaluation
 

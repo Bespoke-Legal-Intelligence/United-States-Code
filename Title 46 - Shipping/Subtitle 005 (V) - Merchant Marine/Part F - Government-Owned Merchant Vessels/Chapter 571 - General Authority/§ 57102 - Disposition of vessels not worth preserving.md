@@ -28,7 +28,7 @@ June 29, 1936, ch. 858, title V, §508(a), 49 Stat. 2000; Pub. L. 97–31, §12(
 
 In subsection (a), the words "vessel owned by the Maritime Administration" are substituted for "vessel transferred to the Maritime Administration of the Department of Transportation by section 1112 of this Appendix, or hereafter acquired" to eliminate unnecessary words.
 
-In subsection (b), the words "The sale of a vessel under section (a) shall be made on the basis of competitive sealed bids, after an appraisal and due advertisement. The purchaser does not have to be a citizen of the United States." are substituted for "after appraisement and due advertisement, and upon competitive sealed bids, either to citizens of the United States or to aliens" for clarity. The words "provide a surety bond, with a surety approved by the Secretary, to ensurethat" are substituted for "enter into an undertaking with sureties approved by the Secretary of Transportation that" for clarity.
+In subsection (b), the words "The sale of a vessel under section (a) shall be made on the basis of competitive sealed bids, after an appraisal and due advertisement. The purchaser does not have to be a citizen of the United States." are substituted for "after appraisement and due advertisement, and upon competitive sealed bids, either to citizens of the United States or to aliens" for clarity. The words "provide a surety bond, with a surety approved by the Secretary, to ensure that" are substituted for "enter into an undertaking with sureties approved by the Secretary of Transportation that" for clarity.
 
 #### Limitation on Export of Vessels Owned by the Government of the United States for the Purpose of Dismantling, Recycling, or Scrapping
 
@@ -86,7 +86,7 @@ Purpose.—The working group shall—
 
 Contents of Plan.—The working group shall include in the plan submitted under subsection (c)(3)—
 
-&emsp;"(1) a description of existing measures for the storage, disposal, and interim transportation of obsolete vessels owned or operated by Federal agencies in compliance with Federal and State environmental laws in a manner that protects the environment;
+&emsp;"(1) a description of existing measures for the storage, disposal, and interim transportation of obsoletevessels owned or operated by Federal agencies in compliance with Federal and State environmental laws in a manner that protects the environment;
 
 &emsp;"(2) a description of Federal and State laws and regulations governing the current policies, procedures, and practices for the storage, disposal, and interim transportation of such vessels;
 

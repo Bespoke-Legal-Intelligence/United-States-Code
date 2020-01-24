@@ -4,7 +4,7 @@ The Board of Directors shall adopt and publish its own conflict of interest rule
 
 &emsp;(1) each nominee for elected membership on the Board established under this chapter to make public and file with the election official before the date of election a statement of his financial interest and position, if any, in such organizations; and
 
-&emsp;(2) each senior executive officer and appointed member of the Board to file with theappointing officer, before entering that office a statement of his financial interest and position, if any, in such organizations, which shall be available for inspection upon request.
+&emsp;(2) each senior executive officer and appointed member of the Board to file with the appointing officer, before entering that office a statement of his financial interest and position, if any, in such organizations, which shall be available for inspection upon request.
 
 (Pub. L. 95–351, title I, §114, Aug. 20, 1978, 92 Stat. 510; Pub. L. 97–35, title III, §396(f), Aug. 13, 1981, 95 Stat. 440.)
 

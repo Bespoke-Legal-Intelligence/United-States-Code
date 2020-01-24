@@ -102,11 +102,11 @@ The prohibition in subsection (a) shall be effective 2 years following the date 
 
 #### (A) FDIC insured institutions
 
-&emsp;&emsp;All swaps entities that are FDIC insured institutions that are put into receivership ordeclared insolvent as a result of swap or security-based swap activity of the swaps entities shall be subject to the termination or transfer of that swap or security-based swap activity in accordance with applicable law prescribing the treatment of those contracts. No taxpayer funds shall be used to prevent the receivership of any swap entity resulting from swap or security-based swap activity of the swaps entity.
+&emsp;&emsp;All swaps entities that are FDIC insured institutions that are put into receivership or declared insolvent as a result of swap or security-based swap activity of the swaps entities shall be subject to the termination or transfer of that swap or security-based swap activity in accordance with applicable law prescribing the treatment of those contracts. No taxpayer funds shall be used to prevent the receivership of any swap entity resulting from swap or security-based swap activity of the swaps entity.
 
 #### (B) Institutions that pose a systemic risk and are subject to heightened prudential supervision as regulated under section 5323 of title 12
 
-&emsp;&emsp;All swaps entities that are institutions that pose a systemic risk and are subject to heightened prudential supervision as regulated under section 5323 of title 12, that are put into receivership or declared insolvent as a result of swap or security-based swap activity of the swaps entities shall be subject to the termination or transfer of that swap or security-based swap activity in accordance with applicable law prescribing the treatment of those contracts. No taxpayer funds shall be used to prevent the receivership of any swap entity resulting from swap or security-based swap activity of the swaps entity.
+&emsp;&emsp;All swaps entities that are institutions that pose a systemic risk and are subject to heightened prudential supervision as regulated under section 5323 of title 12, that are put into receivership or declared insolvent as a result of swap or security-based swap activity of the swaps entities shall be subject to the termination or transfer of that swap or security-based swap activity in accordance with applicable law prescribing the treatment of those contracts. No taxpayer funds shall be used to prevent the receivership of any swap entity resulting from swapor security-based swap activity of the swaps entity.
 
 #### (C) Non-FDIC insured, non-systemically significant institutions not subject to heightened prudential supervision as regulated under section 5323 of title 12
 
@@ -158,7 +158,7 @@ The Federal Deposit Insurance Act, referred to in subsec. (g), is act Sept. 21, 
 
 Title II, referred to in subsec. (g), is title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to subchapter II (§5381 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of title II to the Code, see Tables.
 
-For the date on which this Act is effective, referred to in subsec. (h), see section 4 of Pub. L. 111–203, set outas an Effective Date note under section 5301 of Title 12, Banks and Banking, and section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of Title 7, Agriculture.
+For the date on which this Act is effective, referred to in subsec. (h), see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking, and section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of Title 7, Agriculture.
 
 This title, referred to in subsec. (i)(3), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, known as the Wall Street Transparency and Accountability Act of 2010, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of title VII to the Code, see Short Title note set out under section 8301 of this title and Tables.
 

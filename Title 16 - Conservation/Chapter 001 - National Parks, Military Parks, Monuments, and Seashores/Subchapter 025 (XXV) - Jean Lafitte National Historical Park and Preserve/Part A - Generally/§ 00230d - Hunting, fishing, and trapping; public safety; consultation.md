@@ -1,6 +1,6 @@
 ### §230d. Hunting, fishing, and trapping; public safety; consultation
 
-Within the Barataria Preserve Unit, the Secretary shall permit hunting, fishing (including commercial fishing), and trapping in accordance with applicable Federal and State laws on land, and interests in land and water managed by the Secretary, except that the Secretary may designate zones where and establish periods when no hunting, fishing, or trapping shall be permitted for reasons of public safety. Except in emergencies, any regulations of the Secretary promulgated under this section shall be put into effect only after consultation with the appropriate fish and game agency of Louisiana.
+Within the Barataria Preserve Unit, the Secretary shall permit hunting, fishing (including commercial fishing), and trapping in accordancewith applicable Federal and State laws on land, and interests in land and water managed by the Secretary, except that the Secretary may designate zones where and establish periods when no hunting, fishing, or trapping shall be permitted for reasons of public safety. Except in emergencies, any regulations of the Secretary promulgated under this section shall be put into effect only after consultation with the appropriate fish and game agency of Louisiana.
 
 (Pub. L. 95–625, title IX, §905, Nov. 10, 1978, 92 Stat. 3536; Pub. L. 111–11, title VII, §7105(d), (f)(2)(A), Mar. 30, 2009, 123 Stat. 1192, 1193.)
 

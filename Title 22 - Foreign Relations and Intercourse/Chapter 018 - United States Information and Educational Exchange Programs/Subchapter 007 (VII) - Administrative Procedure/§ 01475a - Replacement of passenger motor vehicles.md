@@ -10,7 +10,7 @@ The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, i
 
 #### Codification
 
-"Section 503 of title 40" substituted in text for "section 201(c) of the Federal Property and AdministrativeServices Act of 1949" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 503 of title 40" substituted in text for "section 201(c) of the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

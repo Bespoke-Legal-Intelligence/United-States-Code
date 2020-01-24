@@ -18,12 +18,14 @@
 | 439\. | Indian enrollment contracts.<sup>1</sup> |
 | [440\.](%C2%A7%2000440%20-%20Mail%20contracts.md) | Mail contracts. |
 | [441\.](%C2%A7%2000441%20-%20Postal%20supply%20contracts.md) | Postal supply contracts. |
-| [442\.](%C2%A7%2000442%20-%20Printing%20contracts.md) | Printing contracts. |
+| [442\.](%C2%A7%2000442%20-%20Government%20Publishing%20Office.md) | Government Publishing Office. |
 | [443\.](%C2%A7%2000443%20-%20War%20contracts.md) | War contracts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–78, §1(b), Dec. 5, 2019, 133 Stat. 1176, substituted "Government Publishing Office" for "Printing contracts" in item 442.
 
 <b>1996</b>—Pub. L. 104–178, §1(b), Aug. 6, 1996, 110 Stat. 1565, struck out item 437 "Federal employees contracting or trading with Indians".
 
@@ -50,5 +52,5 @@
 - [&sect; 00438, 439 - Repealed. Pub. L. 106&#8211;568, title VIII, &sect;812(c)(2), Dec. 27, 2000, 114 Stat. 2917](%C2%A7%2000438%2C%20439%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93568%2C%20title%20VIII%2C%20%C2%A7812%28c%29%282%29%2C%20Dec.%2027%2C%202000%2C%20114%20Stat.%202917.md)
 - [&sect; 00440 - Mail contracts](%C2%A7%2000440%20-%20Mail%20contracts.md)
 - [&sect; 00441 - Postal supply contracts](%C2%A7%2000441%20-%20Postal%20supply%20contracts.md)
-- [&sect; 00442 - Printing contracts](%C2%A7%2000442%20-%20Printing%20contracts.md)
+- [&sect; 00442 - Government Publishing Office](%C2%A7%2000442%20-%20Government%20Publishing%20Office.md)
 - [&sect; 00443 - War contracts](%C2%A7%2000443%20-%20War%20contracts.md)

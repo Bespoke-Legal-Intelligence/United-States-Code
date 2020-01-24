@@ -58,9 +58,9 @@ Not later than 1 year after October 13, 2008, and annually thereafter, the Attor
 
 #### (b) Initial report of the Attorney General
 
-The first report required to be submitted by the Attorney General under subsection (a) shall include a summary of the efforts, activities, and resources the Department of Justice has allocated in the 5 years prior to October 13, 2008, as well as the 1-year period following such date, to the enforcement, investigation, and prosecution of intellectual property crimes, including—
+The first report required to be submitted by the Attorney General under subsection (a) shallinclude a summary of the efforts, activities, and resources the Department of Justice has allocated in the 5 years prior to October 13, 2008, as well as the 1-year period following such date, to the enforcement, investigation, and prosecution of intellectual property crimes, including—
 
-&emsp;(1) a review of the policies and efforts of the Department of Justice related to the prevention and investigation of intellectual property crimes, including efforts at the Office of Justice Programs, the Criminal Division of the Department of Justice, the Executive Office of United States Attorneys, the Office of the Attorney General, the Office of the Deputy Attorney General, the Office of Legal Policy, andany other agency or bureau of the Department of Justice whose activities relate to intellectual property;
+&emsp;(1) a review of the policies and efforts of the Department of Justice related to the prevention and investigation of intellectual property crimes, including efforts at the Office of Justice Programs, the Criminal Division of the Department of Justice, the Executive Office of United States Attorneys, the Office of the Attorney General, the Office of the Deputy Attorney General, the Office of Legal Policy, and any other agency or bureau of the Department of Justice whose activities relate to intellectual property;
 
 &emsp;(2) a summary of the overall successes and failures of such policies and efforts;
 

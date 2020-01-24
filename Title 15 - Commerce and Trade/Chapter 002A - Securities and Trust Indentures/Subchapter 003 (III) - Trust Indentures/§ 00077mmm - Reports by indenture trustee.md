@@ -42,7 +42,7 @@ Reports pursuant to this section shall be transmitted by mail—
 
 A copy of each such report shall, at the time of such transmission to indenture security holders, be filed with each stock exchange upon which the indenture securities are listed, and also with the Commission.
 
-(May 27, 1933, ch. 38, title III, §313, as added Aug. 3, 1939, ch. 411, 53 Stat. 1165; amended Pub. L. 101–550, title IV, §§411, 412, Nov. 15, 1990, 104 Stat. 2729; Pub. L. 105–353, title III, §301(e)(3), Nov. 3, 1998, 112 Stat. 3237.)
+(May 27, 1933, ch. 38, title III, §313, as added Aug. 3, 1939, ch. 411, 53 Stat. 1165; amended Pub. L.101–550, title IV, §§411, 412, Nov. 15, 1990, 104 Stat. 2729; Pub. L. 105–353, title III, §301(e)(3), Nov. 3, 1998, 112 Stat. 3237.)
 
 #### Amendments
 

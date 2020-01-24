@@ -8,7 +8,7 @@ It is the intention of the Congress that the Board of Governors of the Federal R
 
 #### (1) Information of the Board
 
-&emsp;Upon the request of the appropriate insurance regulator of any State, the Board mayprovide any information of the Board regarding the financial condition, risk management policies, and operations of any financial holding company that controls a company that is engaged in insurance activities and is regulated by such State insurance regulator, and regarding any transaction or relationship between such an insurance company and any affiliated depository institution. The Board may provide any other information to the appropriate State insurance regulator that the Board believes is necessary or appropriate to permit the State insurance regulator to administer and enforce applicable State insurance laws.
+&emsp;Upon the request of the appropriate insurance regulator of any State, the Board may provide any information of the Board regarding the financial condition, risk management policies, and operations of any financial holding company that controls a company that is engaged in insurance activities and is regulated by such State insurance regulator, and regarding any transaction or relationship between such an insurance company and any affiliated depository institution. The Board may provide any other information to the appropriate State insurance regulator that the Board believes is necessary or appropriate to permit the State insurance regulator to administer and enforce applicable State insurance laws.
 
 #### (2) Banking agency information
 
@@ -34,7 +34,7 @@ Nothing in this section shall limit in any respect the authority of the appropri
 
 #### (1) Confidentiality
 
-&emsp;The appropriate Federal banking agency shall not provide any information or material that is entitled to confidential treatment under applicable Federal banking agency regulations, or other applicable law, to a State insurance regulator unless such regulator agrees to maintain the information or material in confidence and to take all reasonable steps to oppose any effort to secure disclosure of the information or material by the regulator. The appropriate Federal banking agency shall treat as confidential any information or material obtained from a State insurance regulator that is entitled to confidential treatment under applicable State regulations, or other applicable law, and take all reasonable steps to oppose any effort to secure disclosure of the information or material by the Federal banking agency.
+&emsp;The appropriate Federal banking agency shall not provide any information or materialthat is entitled to confidential treatment under applicable Federal banking agency regulations, or other applicable law, to a State insurance regulator unless such regulator agrees to maintain the information or material in confidence and to take all reasonable steps to oppose any effort to secure disclosure of the information or material by the regulator. The appropriate Federal banking agency shall treat as confidential any information or material obtained from a State insurance regulator that is entitled to confidential treatment under applicable State regulations, or other applicable law, and take all reasonable steps to oppose any effort to secure disclosure of the information or material by the Federal banking agency.
 
 #### (2) Privilege
 

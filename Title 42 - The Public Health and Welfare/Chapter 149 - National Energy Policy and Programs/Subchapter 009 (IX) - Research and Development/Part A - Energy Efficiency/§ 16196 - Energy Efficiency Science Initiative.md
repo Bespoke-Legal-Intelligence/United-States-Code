@@ -6,7 +6,7 @@ The Secretary shall establish an Energy Efficiency Science Initiative to be mana
 
 #### (b) Report
 
-The Secretary shall submit to Congress, along with the annual budget request of the President submitted to Congress, a report on the activities of the Energy Efficiency Science Initiative, including a description of the process used toaward the funds and an explanation of how the research relates to energy efficiency.
+The Secretary shall submit to Congress, along with the annual budget request of the President submitted to Congress, a report on the activities of the Energy Efficiency Science Initiative, including a description of the process used to award the funds and an explanation of how the research relates to energy efficiency.
 
 (Pub. L. 109–58, title IX, §916, Aug. 8, 2005, 119 Stat. 862.)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall modify delinquent farmer program loans made or insured under this chapter, or purchased from the lender or the FederalDeposit Insurance Corporation under section 1929b of this title, to the maximum extent possible—
+The Secretary shall modify delinquent farmer program loans made or insured under this chapter, or purchased from the lender or the Federal Deposit Insurance Corporation under section 1929b of this title, to the maximum extent possible—
 
 &emsp;(1) to avoid losses to the Secretary on such loans, with priority consideration being placed on writing-down the loan principal and interest (subject to subsections (d) and (e)), and debt set-aside (subject to subsection (e)), whenever these procedures would facilitate keeping the borrower on the farm or ranch, or otherwise through the use of primary loan service programs as provided in this section; and
 
@@ -58,7 +58,7 @@ To be eligible to obtain assistance under subsection (a)—
 
 &emsp;&emsp;&emsp;(iv) other administrative and attorney's costs; plus
 
-&emsp;&emsp;(C) the value, as determined by the Secretary, of any property not included in subparagraph (A)(i) if the property is specified in any security agreement with respect to such loan and the Secretary determines that the value of such property should be included for purposes of this section.
+&emsp;&emsp;(C) the value, as determined by the Secretary, of any property not included in subparagraph (A)(i) if the property is specified in any security agreement with respect to such loan and the Secretary determines thatthe value of such property should be included for purposes of this section.
 
 #### (3) Value of the restructured loan
 
@@ -86,7 +86,7 @@ To be eligible to obtain assistance under subsection (a)—
 
 #### (5) Restructuring of loans
 
-&emsp;If the value of the restructured loan is greater than or equal to the recovery value, theSecretary shall, within 45 days after notifying the borrower of such calculations, offer to restructure the loan obligations of the borrower under this chapter through primary loan service programs that would enable the borrower to meet the obligations (as modified) under the loan and to continue the farming operations of the borrower. If the borrower accepts such offer, within 45 days after receipt of notice of acceptance, the Secretary shall restructure the loan accordingly.
+&emsp;If the value of the restructured loan is greater than or equal to the recovery value, the Secretary shall, within 45 days after notifying the borrower of such calculations, offer to restructure the loan obligations of the borrower under this chapter through primary loan service programs that would enable the borrower to meet the obligations (as modified) under the loan and to continue the farming operations of the borrower. If the borrower accepts such offer, within 45 days after receipt of notice of acceptance, the Secretary shall restructure the loan accordingly.
 
 #### (6) Termination of loan obligations
 
@@ -314,7 +314,7 @@ Subsec. (m). Pub. L. 102–237, §501(h)(2), substituted "section 1985(e)(1)" fo
 
 <b>1990</b>—Subsec. (b)(1). Pub. L. 101–624, §1816(a), inserted before semicolon at end ", except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a)".
 
-Subsec. (c)(2)(A). Pub. L. 101–624, §1816(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the amount of the current appraised value of the property securing the loan; less".
+Subsec. (c)(2)(A). Pub. L. 101–624, §1816(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: "the amount of the current appraised value of the property securing the loan; less".
 
 Subsec. (c)(2)(B)(iv). Pub. L. 101–624, §1816(b)(2)(A), substituted "costs; plus" for "costs."
 
@@ -336,7 +336,7 @@ Amendment by section 645(1) of Pub. L. 104–127 effective 90 days after Apr. 4,
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation,and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(3) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(3) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
 #### Effective Date of 1990 Amendment
 

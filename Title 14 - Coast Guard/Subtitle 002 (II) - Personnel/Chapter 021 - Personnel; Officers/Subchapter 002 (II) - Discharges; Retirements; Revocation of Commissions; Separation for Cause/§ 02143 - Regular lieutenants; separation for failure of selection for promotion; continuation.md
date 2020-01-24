@@ -8,7 +8,7 @@
 
 &emsp;(3) if, on the date specified for his discharge in this section, he has completed at least 20 years of active service or is eligible for retirement under any law, be retired on that date; or
 
-&emsp;(4) if, on the date specified for his discharge in clause (1), he has completed at least eighteen years of active service, be retained on active duty and retired on the last day of the month in which he completes twenty years of active service, unless earlier removed under another provision of law.
+&emsp;(4) if, on the date specified for his discharge in clause (1), he has completed at least eighteen years of active service, be retained on active duty and retired on the last day of the month in which he completes twenty years ofactive service, unless earlier removed under another provision of law.
 
 (b)(1) When the needs of the service require, the Secretary may direct a selection board, which has been convened under section 2106 of this title, to recommend for continuation on active duty for terms of not less than two nor more than four years a designated number of officers of the grade of lieutenant who would otherwise be discharged or retired under this section. When so directed, the board shall recommend for continuation on active duty those officers under consideration who are, in the opinion of the board, best qualified for continuation. Each officer so recommended may, with the approval of the Secretary, and notwithstanding subsection (a), be continued on active duty for the term recommended.
 

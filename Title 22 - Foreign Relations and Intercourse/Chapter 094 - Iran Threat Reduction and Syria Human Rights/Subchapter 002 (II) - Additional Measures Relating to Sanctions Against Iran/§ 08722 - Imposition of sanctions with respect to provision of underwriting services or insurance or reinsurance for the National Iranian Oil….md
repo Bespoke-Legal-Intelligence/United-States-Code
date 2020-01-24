@@ -60,7 +60,7 @@ The following provisions of the Iran Sanctions Act of 1996, as amended by this A
 
 #### (e) Rule of construction and implementation
 
-Nothing in this section shall be construed to limit the authority of the President to impose sanctions pursuant to the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note), the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8501 et seq.), the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), section 8513a of this title, or any other provision of this Act.
+Nothing in this section shall be construed to limit the authority of the President to impose sanctions pursuant to the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note), theComprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8501 et seq.), the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), section 8513a of this title, or any other provision of this Act.
 
 (Pub. L. 112–158, title II, §212, Aug. 10, 2012, 126 Stat. 1229.)
 

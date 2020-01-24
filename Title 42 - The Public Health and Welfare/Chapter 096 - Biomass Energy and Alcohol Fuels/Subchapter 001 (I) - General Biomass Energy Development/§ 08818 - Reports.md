@@ -14,7 +14,7 @@ Within 120 days after June 30, 1980, the Secretary of Energy and the Secretary o
 
 (C) Each annual report under this subsection shall contain financial statements prepared by the Office.
 
-(2) On or before September 30, 1990, the Office shall submit to the Congress and the President a report evaluating the overall impact made bythe Office and describing the status of each biomass energy project which has received financial assistance under this subchapter from the Office. Such report shall contain a plan for the termination of the work of the Office.
+(2) On or before September 30, 1990, the Office shall submit to the Congress and the President a report evaluating the overall impact made by the Office and describing the status of each biomass energy project which has received financial assistance under this subchapter from the Office. Such report shall contain a plan for the termination of the work of the Office.
 
 (Pub. L. 96–294, title II, §218, June 30, 1980, 94 Stat. 695; Pub. L. 99–386, title I, §101(a), Aug. 22, 1986, 100 Stat. 821.)
 

@@ -156,7 +156,7 @@ The following organizations shall comply with the requirements of this section i
 
 #### (ii) Special rule for in-house expenditures
 
-&emsp;&emsp;&emsp;This subsection shall not apply to the in-house expenditures (within the meaning of section 162(e)(4)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
+&emsp;&emsp;&emsp;This subsection shall not apply to the in-house expenditures (within the meaning of section 162(e)(4)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whethera taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
 
 #### (iii) Coordination with section 527(f)
 
@@ -216,7 +216,7 @@ Every organization described in section 501(c)(4) which is subject to the requir
 
 &emsp;Political organizations described in paragraph (1) shall file an annual return—
 
-&emsp;&emsp;(A) containing the information required, and complying with the other requirements, under subsection (a)(1) for organizations exempt from taxation under section 501(a), with such modifications as the Secretaryconsiders appropriate to require only information which is necessary for the purposes of carrying out section 527, and
+&emsp;&emsp;(A) containing the information required, and complying with the other requirements, under subsection (a)(1) for organizations exempt from taxation under section 501(a), with such modifications as the Secretary considers appropriate to require only information which is necessary for the purposes of carrying out section 527, and
 
 &emsp;&emsp;(B) containing such other information as the Secretary deems necessary to carry out the provisions of this subsection.
 
@@ -276,7 +276,19 @@ Any organization the gross receipts of which in any taxable year result in such 
 
 #### (1) In general
 
-&emsp;If an organization described in subsection (a)(1) or (i) fails to file an annual return or notice required under either subsection for 3 consecutive years, such organization's status as an organization exempt from tax under section 501(a) shall be considered revoked on and after the date set by the Secretary for the filing of the third annual return or notice. The Secretary shall publish and maintain a list of any organization the status of which is so revoked.
+#### (A) Notice
+
+&emsp;&emsp;If an organization described in subsection (a)(1) or (i) fails to file the annual return or notice required under either subsection for 2 consecutive years, the Secretary shall notify the organization—
+
+&emsp;&emsp;&emsp;(i) that the Internal Revenue Service has no record of such a return or notice from such organization for 2 consecutive years, and
+
+&emsp;&emsp;&emsp;(ii) about the revocation that will occur under subparagraph (B) if the organization fails to file such a return or notice by the due date for the next such return or notice required to be filed.
+
+> &emsp;&emsp;The notification under the preceding sentence shall include information about how to comply with the filing requirements under subsections (a)(1) and (i).
+
+#### (B) Revocation
+
+&emsp;&emsp;If an organization described in subsection (a)(1) or (i) fails to file an annual return or notice required under either subsection for 3 consecutive years, such organization's status as an organization exempt from tax under section 501(a) shall be considered revoked on and after the date set by the Secretary for the filing of the third annual return or notice. The Secretary shall publish and maintain a list of any organization the status of which is so revoked.
 
 #### (2) Application necessary for reinstatement
 
@@ -314,7 +326,11 @@ An organization described in section 501(c)(29) shall include on the return requ
 
 &emsp;(2) The amount of reserves on hand.
 
-#### (n) Cross references
+#### (n) Mandatory electronic filing
+
+Any organization required to file a return under this section shall file such return in electronic form.
+
+#### (o) Cross references
 
 &emsp;&emsp;<b>For provisions relating to statements, etc., regarding exempt status of organizations, see section 6001.</b>
 
@@ -322,7 +338,7 @@ An organization described in section 501(c)(29) shall include on the return requ
 
 &emsp;&emsp;<b>For provisions relating to information required in connection with certain plans of deferred compensation, see section 6058.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 741; Pub. L. 85–866, title I, §75(b), Sept. 2, 1958, 72 Stat. 1661; Pub. L. 91–172, title I, §101(d)(1), (2), (j)(30), (31), Dec. 30, 1969, 83 Stat. 519, 520, 529; Pub. L. 93–406, title II, §1031(c)(2), Sept. 2, 1974, 88 Stat. 946; Pub. L. 94–455, title XIII, §1307(a)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1722, 1834; Pub. L. 96–603, §1(a), Dec. 28, 1980, 94 Stat. 3503; Pub. L. 99–514, title XV, §1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 100–203, title X, §10703(a), Dec. 22, 1987, 101 Stat. 1330–460; Pub. L. 103–66, title XIII, §13222(c), Aug. 10, 1993, 107 Stat. 480; Pub. L. 104–168, title XIII, §1312(a), (b), July 30, 1996, 110 Stat. 1479; Pub. L. 104–188, title I, §1703(g), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XVI, §1603(b), Aug. 5, 1997, 111 Stat. 1096; Pub. L. 105–277, div. J, title I, §1004(b)(2)(A), Oct. 21, 1998, 112 Stat. 2681–889; Pub. L. 106–230, §3(a)(2), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(c), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 109–222, title V, §516(b)(1), May 17, 2006, 120 Stat. 371; Pub. L. 109–280, title XII, §§1205(b)(1), 1223(a), (b), 1235(a)(1), 1245(a), (b), Aug. 17, 2006, 120 Stat. 1067, 1090, 1101, 1108; Pub. L. 110–343, div. C, title VII, §703(a), Oct. 3, 2008, 122 Stat. 3919; Pub. L. 111–148, title I, §1322(h)(2), title IX, §9007(d), Mar. 23, 2010, 124 Stat. 192, 857; Pub. L. 114–113, div. Q, title IV, §405(b), Dec. 18, 2015, 129 Stat. 3119; Pub. L. 115–97, title I, §13308(b), Dec. 22, 2017, 131 Stat. 2129; Pub. L. 115–141, div. U, title IV, §401(a)(258), (d)(6)(B)(v), Mar. 23, 2018, 132 Stat. 1196, 1211.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 741; Pub. L. 85–866, title I, §75(b), Sept. 2, 1958, 72 Stat. 1661; Pub. L. 91–172, title I, §101(d)(1), (2), (j)(30), (31), Dec. 30, 1969, 83 Stat. 519, 520, 529; Pub. L. 93–406, title II, §1031(c)(2), Sept. 2, 1974, 88 Stat. 946; Pub. L. 94–455, title XIII, §1307(a)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1722, 1834; Pub. L. 96–603, §1(a), Dec. 28, 1980, 94 Stat. 3503; Pub. L. 99–514, title XV, §1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 100–203, title X, §10703(a), Dec. 22, 1987, 101 Stat. 1330–460; Pub. L. 103–66, title XIII, §13222(c), Aug. 10, 1993, 107 Stat. 480; Pub. L. 104–168, title XIII, §1312(a), (b), July 30, 1996, 110 Stat. 1479; Pub. L. 104–188, title I, §1703(g), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XVI, §1603(b), Aug. 5, 1997, 111 Stat. 1096; Pub. L. 105–277, div. J, title I, §1004(b)(2)(A), Oct. 21, 1998, 112 Stat. 2681–889; Pub. L. 106–230, §3(a)(2), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(c), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 109–222, title V, §516(b)(1), May 17, 2006, 120 Stat. 371; Pub. L. 109–280, title XII, §§1205(b)(1), 1223(a), (b), 1235(a)(1), 1245(a), (b), Aug. 17, 2006, 120 Stat. 1067, 1090, 1101, 1108; Pub. L. 110–343, div. C, title VII, §703(a), Oct. 3, 2008, 122 Stat. 3919; Pub. L. 111–148, title I, §1322(h)(2), title IX, §9007(d), Mar. 23, 2010, 124 Stat. 192, 857; Pub. L. 114–113, div. Q, title IV, §405(b), Dec. 18, 2015, 129 Stat. 3119; Pub. L. 115–97, title I, §13308(b), Dec. 22, 2017, 131 Stat. 2129; Pub. L. 115–141, div. U, title IV, §401(a)(258), (d)(6)(B)(v), Mar. 23, 2018, 132 Stat. 1196, 1211; Pub. L. 116–25, title III, §§3101(a), 3102(a), July 1, 2019, 133 Stat. 1015, 1016.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -339,6 +355,10 @@ The Federal Election Campaign Act of 1971, referred to in subsec. (g)(3)(F), is 
 Sections 1205(b)(1), 1223(a), (b), 1235(a)(1), and 1245(a), (b) of Pub. L. 109–280, which directed the amendment of section 6033 without specifying the act to be amended, were executed to this section, which is section 6033 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (j)(1). Pub. L. 116–25, §3102(a), added subpar. (A), redesignated existing provisions as subpar. (B), and inserted subpar. (B) heading.
+
+Subsecs. (n), (o). Pub. L. 116–25, §3101(a), added subsec. (n) and redesignated former subsec. (n) as (o).
 
 <b>2018</b>—Subsec. (b)(14). Pub. L. 115–141, §401(d)(6)(B)(v), struck out "including the amount and use of qualified contributions to which section 1400S(a) applies," after "disaster relief activities,".
 
@@ -444,6 +464,12 @@ Subsec. (c). Pub. L. 91–172, §101(j)(31), inserted cross references to sectio
 
 <b>1958</b>—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
 
+#### Effective Date of 2019 Amendment
+
+Amendment by section 3101(a) of Pub. L. 116–25 applicable to taxable years beginning after July 1, 2019, with certain transitional relief permitted, see section 3101(d) of Pub. L. 116–25, set out as a note under section 527 of this title.
+
+Pub. L. 116–25, title III, §3102(b), July 1, 2019, 133 Stat. 1016, provided that: "The amendment made by this section \[amending this section\] shall apply to failures to file returns or notices for 2 consecutive years if the return or notice for the second year is required to be filed after December 31, 2019."
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–97 applicable to amounts paid or incurred on or after Dec. 22, 2017, see section 13308(c) of Pub. L. 115–97, set out as a note under section 162 of this title.
@@ -470,7 +496,7 @@ Pub. L. 109–280, title XII, §1235(a)(2), Aug. 17, 2006, 120 Stat. 1101, provi
 
 Pub. L. 109–280, title XII, §1245(c), Aug. 17, 2006, 120 Stat. 1108, provided that: "The amendments made by this section \[amending this section\] shall apply to returns filed for taxable years ending after the date of the enactment of this Act \[Aug. 17, 2006\]."
 
-Amendment by Pub. L. 109–222 applicable to disclosures the due date for which are after May 17, 2006, see section 516(d)(2) of Pub. L. 109–222, set out as an Effective Date note under section 4965 of this title.
+Amendment by Pub. L. 109–222 applicable to disclosures the due date for which are after May 17, 2006, seesection 516(d)(2) of Pub. L. 109–222, set out as an Effective Date note under section 4965 of this title.
 
 #### Effective Date of 2002 Amendment
 

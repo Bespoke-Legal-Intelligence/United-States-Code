@@ -28,7 +28,7 @@ In considering any request for approval of a product pursuant to subsection (a),
 
 #### (3) Public comment period
 
-&emsp;During the 30-day period beginning on the date of publication pursuant to paragraph (2) of a request for approval of a product, the Director shall receive public comments regarding the proposed product.
+&emsp;During the 30-day period beginning on the date of publication pursuant to paragraph (2)of a request for approval of a product, the Director shall receive public comments regarding the proposed product.
 
 #### (4) Offering of product
 

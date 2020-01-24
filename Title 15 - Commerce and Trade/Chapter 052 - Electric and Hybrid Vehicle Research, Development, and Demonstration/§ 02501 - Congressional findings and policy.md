@@ -32,7 +32,7 @@
 
 &emsp;(1) encourage and support accelerated research into, and development of, electric and hybrid vehicle technologies;
 
-&emsp;(2) demonstrate the economic and technological practicability of electric and hybrid vehicles for personal and commercial use in urban areas and for agricultural and personal use in rural areas;
+&emsp;(2) demonstrate the economic and technological practicability of electric and hybrid vehicles for personal and commercial use inurban areas and for agricultural and personal use in rural areas;
 
 &emsp;(3) facilitate, and remove barriers to, the use of electric and hybrid vehicles in lieu of gasoline- and diesel-powered motor vehicles, where practicable; and
 

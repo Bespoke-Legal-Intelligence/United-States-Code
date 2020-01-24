@@ -2,7 +2,7 @@
 
 (a) The president may appoint temporary commissioned officers—
 
-&emsp;(1) in the Regular Coast Guard in a grade, not above lieutenant, appropriate to their qualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrant officers, warrant officers, and enlisted members of the Coast Guard, and from holders of licenses issued under chapter 71 of title 46; and
+&emsp;(1) in the Regular Coast Guard in a grade, not above lieutenant, appropriate to theirqualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrant officers, warrant officers, and enlisted members of the Coast Guard, and from holders of licenses issued under chapter 71 of title 46; and
 
 &emsp;(2) in the Coast Guard Reserve in a grade, not above lieutenant, appropriate to their qualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrant officers of the Coast Guard Reserve.
 
@@ -12,7 +12,7 @@
 
 (d) Appointees under this section shall take precedence in the grade to which appointed in accordance with the dates of their appointments as officers in such grade. Appointees whose dates of appointment are the same shall take precedence with each other as the Secretary shall determine.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 178, §214; amended Pub. L. 89–444, §1(12)–(14), June 9, 1966, 80 Stat. 196; Pub. L. 93–283, §1(5), May 14, 1974, 88 Stat. 140; Pub. L. 96–376, §6, Oct. 3, 1980, 94 Stat. 1509; Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 103–337, div. A, title V, §541(f)(6), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 104–324, title II, §211(a), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 111–281, title II, §211, Oct. 15, 2010, 124 Stat. 2914;renumbered §2104, Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 178, §214; amended Pub. L. 89–444, §1(12)–(14), June 9, 1966, 80 Stat. 196; Pub. L. 93–283, §1(5), May 14, 1974, 88 Stat. 140; Pub. L. 96–376, §6, Oct. 3, 1980, 94 Stat. 1509; Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 103–337, div. A, title V, §541(f)(6), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 104–324, title II, §211(a), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 111–281, title II, §211, Oct. 15, 2010, 124 Stat. 2914; renumbered §2104, Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216.)
 
 #### Amendments
 

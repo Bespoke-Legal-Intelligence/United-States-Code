@@ -32,7 +32,7 @@ Any agreement with a hospital under this section shall provide that payment for 
 
 #### (e) Reimbursement for routine hospital services
 
-During a period for which a hospital has in effect an agreement under this section, in order to allocate routine costs between hospital and long-term care services for purposes of determining payment for inpatient hospital services, the total reimbursement due for routine services from all classes of long-term care patients (including this subchapter, subchapter XIX, and private pay patients) shall be subtracted from the hospital's total routine costs before calculations are made to determine this subchapter reimbursement for routine hospital services.
+During a period for which a hospital has in effect an agreement under this section, in order toallocate routine costs between hospital and long-term care services for purposes of determining payment for inpatient hospital services, the total reimbursement due for routine services from all classes of long-term care patients (including this subchapter, subchapter XIX, and private pay patients) shall be subtracted from the hospital's total routine costs before calculations are made to determine this subchapter reimbursement for routine hospital services.
 
 #### (f) Conditions applicable to skilled nursing facilities
 
@@ -132,7 +132,7 @@ Pub. L. 101–508, title IV, §4008(j)(2), Nov. 5, 1990, 104 Stat. 1388–51, pr
 
 #### Swing Beds Certified Prior to May 1, 1987
 
-Pub. L. 101–508, title IV, §4008(j)(3), Nov. 5, 1990, 104 Stat. 1388–52, provided that: "Notwithstanding the requirement of section 1883(b)(1) of the Social Security Act \[42 U.S.C. 1395tt(b)(1)\] that the Secretary may not enter into an agreement under such section with a hospital that is not located in a rural area, any agreemententered into under such section on or before May 1, 1987, between the Secretary of Health and Human Services and a hospital located in an urban area shall remain in effect."
+Pub. L. 101–508, title IV, §4008(j)(3), Nov. 5, 1990, 104 Stat. 1388–52, provided that: "Notwithstanding the requirement of section 1883(b)(1) of the Social Security Act \[42 U.S.C. 1395tt(b)(1)\] that the Secretary may not enter into an agreement under such section with a hospital that is not located in a rural area, any agreement entered into under such section on or before May 1, 1987, between the Secretary of Health and Human Services and a hospital located in an urban area shall remain in effect."
 
 #### Report of Hospital Admissions for Extended Care Services
 

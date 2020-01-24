@@ -22,7 +22,7 @@ Not later than 180 days after December 21, 2018, the Attorney General shall iden
 
 #### (d) Report
 
-Not later than 90 days after the last day of the final fiscal year of a grant under this subchapter, each entity described in subsection (a)receiving such a grant shall submit to the Attorney General a detailed report of the progress made by the entity using such grant, to permit the Attorney General to evaluate and improve academic and vocational education methods carried out with grants under this subchapter.
+Not later than 90 days after the last day of the final fiscal year of a grant under this subchapter, each entity described in subsection (a) receiving such a grant shall submit to the Attorney General a detailed report of the progress made by the entity using such grant, to permit the Attorney General to evaluate and improve academic and vocational education methods carried out with grants under this subchapter.
 
 (Pub. L. 90–351, title I, §3041, as added Pub. L. 115–391, title V, §502(c)(2), Dec. 21, 2018, 132 Stat. 5228.)
 

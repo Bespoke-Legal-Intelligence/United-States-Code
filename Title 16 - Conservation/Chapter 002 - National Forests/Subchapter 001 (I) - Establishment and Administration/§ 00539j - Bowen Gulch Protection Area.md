@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-(1) There is hereby established in the Arapaho National Forest, Colorado, the Bowen GulchProtection Area (hereinafter in this Act referred to as the "protection area").
+(1) There is hereby established in the Arapaho National Forest, Colorado, the Bowen Gulch Protection Area (hereinafter in this Act referred to as the "protection area").
 
 (2) The protection area shall consist of certain lands in the Arapaho National Forest, Colorado, which comprise approximately 11,600 acres, as generally depicted as "Area A" on a map entitled "Bowen Gulch Additions to Never Summer Wilderness Proposal", dated January, 1993.
 
@@ -35,6 +35,30 @@ During the revision of the Land and Resource Management Plan for the Arapaho Nat
 #### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 103–77, Aug. 13, 1993, 107 Stat. 756, known as the Colorado Wilderness Act of 1993. For complete classification of this Act to the Code, see Short Title note set out under section 539i of this title and Tables.
+
+#### Arapaho National Forest Boundary Adjustment
+
+Pub. L. 116–9, title I, §1002, Mar. 12, 2019, 133 Stat. 587, provided that:
+
+"(a)
+
+In General.—The boundary of the Arapaho National Forest in the State of Colorado is adjusted to incorporate the approximately 92.95 acres of land generally depicted as 'The Wedge' on the map entitled 'Arapaho National Forest Boundary Adjustment' and dated November 6, 2013, and described as lots three, four, eight, and nine of section 13, Township 4 North, Range 76 West, Sixth Principal Meridian, Colorado. A lot described in this subsection may be included in the boundary adjustment only after the Secretary of Agriculture obtains written permission for such action from the lot owner or owners.
+
+"(b)
+
+Bowen Gulch Protection Area.—The Secretary of Agriculture shall include all Federal land within the boundary described in subsection (a) in the Bowen Gulch Protection Area established under section 6 of the Colorado Wilderness Act of 1993 (16 U.S.C. 539j).
+
+"(c)
+
+Land and Water Conservation Fund.—For purposes of section 200306(a)(2)(B)(i) of title 54, United States Code, the boundaries of the Arapaho National Forest, as modified under subsection (a), shall be considered to be the boundaries of the Arapaho National Forest as in existence on January 1, 1965.
+
+"(d)
+
+Public Motorized Use.—Nothing in this section opens privately owned lands within the boundary described in subsection (a) to public motorized use.
+
+"(e)
+
+Access to Non-Federal Lands.—Notwithstanding the provisions of section 6(f) of the Colorado Wilderness Act of 1993 (16 U.S.C. 539j(f)) regarding motorized travel, the owners of any non-Federal lands within the boundary described in subsection (a) who historically have accessed their lands through lands now or hereafter owned by the United States within the boundary described in subsection (a) shall have the continued right of motorized access to their lands across the existing roadway."
 
 #### Definitions
 

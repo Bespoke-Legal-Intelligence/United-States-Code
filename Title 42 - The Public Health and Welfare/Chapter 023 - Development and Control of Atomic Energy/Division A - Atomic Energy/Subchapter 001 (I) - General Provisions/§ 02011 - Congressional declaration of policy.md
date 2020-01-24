@@ -22,7 +22,7 @@ Pub. L. 114–17, §1, May 22, 2015, 129 Stat. 201, provided that: "This Act \[e
 
 #### Short Title of 2013 Amendment
 
-Pub. L. 112–239, div. C, title XXXI, §3171, Jan. 2, 2013, 126 Stat. 2211, provided that: "This subtitle \[subtitle F\(§§3171–3178) of title XXXI of div. C of Pub. L. 112–239, enacting sections 2065 and 2142 of this title, amending section 2160d of this title, and enacting provisions set out as a note under section 2065 of this title\] may be cited as the 'American Medical Isotopes Production Act of 2012'."
+Pub. L. 112–239, div. C, title XXXI, §3171, Jan. 2, 2013, 126 Stat. 2211, provided that: "This subtitle \[subtitle F (§§3171–3178) of title XXXI of div. C of Pub. L. 112–239, enacting sections 2065 and 2142 of this title, amending section 2160d of this title, and enacting provisions set out as a note under section 2065 of this title\] may be cited as the 'American Medical Isotopes Production Act of 2012'."
 
 #### Short Title of 2005 Amendment
 
@@ -30,7 +30,7 @@ Pub. L. 109–58, title VI, §601, Aug. 8, 2005, 119 Stat. 779, provided that: "
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–245, §1, July 10, 2000, 114 Stat. 501, provided that: "This Act \[enacting section 285a–9 of this title and enacting and amending provisions set out as notes under section 2210 of this title\] may be cited as the 'Radiation Exposure Compensation Act Amendments of 2000'."
+Pub. L. 106–245, §1, July 10, 2000, 114 Stat. 501, provided that: "This Act \[enacting section 285a–9 of this title and enacting and amending provisions set out as notes under section 2210 of this title\] may be cited asthe 'Radiation Exposure Compensation Act Amendments of 2000'."
 
 #### Short Title of 1996 Amendment
 

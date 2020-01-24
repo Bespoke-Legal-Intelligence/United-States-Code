@@ -28,7 +28,7 @@ Any failure to obey an order of the court under this section may be punished by 
 
 #### (e) Process
 
-Process in any such case may be served in the judicial district in which such person resides orconducts business or wherever such person may be found.
+Process in any such case may be served in the judicial district in which such person resides or conducts business or wherever such person may be found.
 
 #### (f) Hearing site
 

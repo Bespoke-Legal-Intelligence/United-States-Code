@@ -46,7 +46,7 @@ The total amount of any grant under subsection (c)(3) to any group engaging in w
 
 #### (f) Grants-in-aid programs; designation of State administrative agency; matching funds; applications and plans; allotments; cost limitations; grants to regional groups; non-Federal funding; definitions; suspension of grants; single entity limitation
 
-(1) The Chairperson, with the advice of the National Council on the Humanities, is authorized, in accordance with the provisions of this subsection, to establish and carry out a program of grants-in-aid in each of the several States in order to support not more than 50 per centum of the cost of existing activities which meet the standards enumerated in subsection (c) of this section, and in order to develop a program in the humanities in such a manner as will furnish adequate programs in the humanities in each of the several States.
+(1) The Chairperson, with the advice of the National Council on the Humanities, is authorized, in accordance with the provisions of this subsection, to establish and carry out a program of grants-in-aid in each of the several States in order to support not more than 50 per centum of the cost of existing activities which meet the standards enumerated in subsection (c) of this section, and in order to develop a program in thehumanities in such a manner as will furnish adequate programs in the humanities in each of the several States.
 
 (2)(A) Whenever a State desires to designate or to provide for the establishment of a State agency as the sole agency for the administration of the State plan, such State shall designate the humanities council in existence on the date the State agency is established as the State agency, and shall match from State funds a sum equal to 50 per centum of that portion of Federal financial assistance received by such State under this subsection which is described in the first sentence of paragraph (4) relating to the minimum State grant, or 25 per centum of the total amount of Federal financial assistance received by such State under this subsection, whichever is greater, for the fiscal year involved. In any State in which the State selects the option described in this subparagraph, the State shall submit, before the beginning of each fiscal year, an application for grants and accompany such application with a plan which the Chairperson finds—
 
@@ -94,7 +94,7 @@ The total amount of any grant under subsection (c)(3) to any group engaging in w
 
 &emsp;(D) provides a nomination process which assures opportunities for nomination to membership from various groups within the State involved and from a variety of segments of the population of such State, and including individuals who by reason of their achievement, scholarship, or creativity in the humanities, are especially qualified to serve;
 
-&emsp;(E) provides for a membership rotation process which assures the regular rotation of the membership and officers of such grant recipient;
+&emsp;(E) provides for a membership rotation process which assures the regular rotation of themembership and officers of such grant recipient;
 
 &emsp;(F) establishes reporting procedures which are designed to inform the chief executive officer of the State involved, and other appropriate officers and agencies, of the activities of such grant recipient;
 
@@ -118,7 +118,7 @@ The total amount of any grant under subsection (c)(3) to any group engaging in w
 
 > No application may be approved unless the accompanying plan satisfies the requirements specified in this subsection.
 
-(4) Of the sums available to carry out this subsection for any fiscal year, each State and each grant recipient which has a plan approved by theChairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States and grant recipients in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
+(4) Of the sums available to carry out this subsection for any fiscal year, each State and each grant recipient which has a plan approved by the Chairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States and grant recipients in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
 
 &emsp;(A) 34 per centum of the amount of such excess for such fiscal year shall be available to the Chairperson for making grants under this subsection to States and regional groups and entities applying for such grants;
 
@@ -188,7 +188,7 @@ The Chairperson may enter into interagency agreements to promote or assist with 
 
 #### (j) Payment of wages at prevailing rates; authority of Secretary of Labor
 
-It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State, State agency, or entity receiving such grant furnish adequate assurances to the Secretary of Labor that all laborers and mechanics employed by contractors or subcontractors on construction projects assisted under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 3145 of title 40.
+It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State, State agency, or entity receiving such grant furnish adequate assurances to the Secretary of Labor that all laborers and mechanics employed by contractors or subcontractors on construction projects assisted under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth inReorganization Plan Numbered 14 of 1950 and section 3145 of title 40.
 
 #### (k) National information and data collection system on humanities, scholars, educational and cultural groups, and audiences; development and implementation plan; state of the humanities reports
 
@@ -270,7 +270,7 @@ Subsecs. (j) to (l). Pub. L. 99–194, §107(6), added subsecs. (j) to (l).
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–496, §109(c), substituted "Committee on Labor and Human Resources" for "Committee on Labor and Public Welfare" in last sentence.
 
-Subsec. (f)(2). Pub. L. 96–496, §104(a)(1), substituted provisions relating to the designation of State humanities councils as State administrative agencies, requiring matching State funding and submission by Stateswishing to designate administrative State agencies of grant applications and accompanying administrative plans, and prescribing a grant recipient application procedure for provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans.
+Subsec. (f)(2). Pub. L. 96–496, §104(a)(1), substituted provisions relating to the designation of State humanities councils as State administrative agencies, requiring matching State funding and submission by States wishing to designate administrative State agencies of grant applications and accompanying administrative plans, and prescribing a grant recipient application procedure for provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans.
 
 Subsec. (f)(3). Pub. L. 96–496, §104(a)(2), substituted provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans for provisions relating to the appointment of grant recipient members.
 
@@ -309,8 +309,6 @@ Subsec. (c)(5). Pub. L. 91–346, §8(c), announced intention to foster educatio
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1990 Amendment
 

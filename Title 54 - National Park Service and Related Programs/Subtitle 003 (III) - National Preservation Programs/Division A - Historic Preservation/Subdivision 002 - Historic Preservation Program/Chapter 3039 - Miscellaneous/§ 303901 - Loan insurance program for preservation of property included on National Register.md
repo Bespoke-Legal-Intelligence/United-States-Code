@@ -28,7 +28,7 @@ Consultation.—The Secretary shall consult with the Secretary of the Treasury r
 
 (d)
 
-Limitation on Amount of Unpaid Principal Balance of Loans.—The aggregate unpaid principal balance of loans insured under this section may not exceed the amount that has been deposited in the Historic Preservation Fund but which has not been appropriated for any purpose.
+Limitation on Amount of Unpaid Principal Balance of Loans.—The aggregate unpaid principal balance of loans insured under this section may not exceed the amount that has been deposited in the Historic PreservationFund but which has not been appropriated for any purpose.
 
 (e)
 
@@ -56,7 +56,7 @@ Attempt to convey to ensure property's preservation and use.—In any case in wh
 
 &emsp;(2)
 
-Disposition of funds.—Any funds obtained by the Secretary in connection withthe conveyance of any historic property pursuant to paragraph (1) shall be deposited in the Historic Preservation Fund and shall remain available in the Historic Preservation Fund until appropriated by Congress to carry out this division.
+Disposition of funds.—Any funds obtained by the Secretary in connection with the conveyance of any historic property pursuant to paragraph (1) shall be deposited in the Historic Preservation Fund and shall remain available in the Historic Preservation Fund until appropriated by Congress to carry out this division.
 
 (i)
 

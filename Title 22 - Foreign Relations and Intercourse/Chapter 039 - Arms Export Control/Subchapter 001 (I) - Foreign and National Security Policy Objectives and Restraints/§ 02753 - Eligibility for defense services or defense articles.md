@@ -12,7 +12,7 @@ No defense article or defense service shall be sold or leased by the United Stat
 
 &emsp;(4) the country or international organization is otherwise eligible to purchase or lease defense articles or defense services.
 
-> In considering a request for approval of any transfer of any weapon, weapons system, munitions, aircraft, military boat, military vessel, or other implement of war to another country, the President shall not give his consent under paragraph (2) to the transfer unless the United States itself would transfer the defense article under consideration to that country. In addition, the President shall not give his consent under paragraph (2) to the transfer of any significant defense articles on the United States Munitions List unless the foreign country requesting consent to transfer agrees to demilitarize such defense articles prior to transfer, or the proposed recipient foreign country provides a commitment in writing to the United States Government that it will not transfer such defense articles, if not demilitarized, to any other foreign country or person without first obtaining the consent of the President. The President shall promptly submit a report to the Speaker of the House of Representatives, the Committeeon Foreign Affairs of the House of Representatives, and to the Committee on Foreign Relations of the Senate on the implementation of each agreement entered into pursuant to clause (2) of this subsection.
+> In considering a request for approval of any transfer of any weapon, weapons system, munitions, aircraft, military boat, military vessel, or other implement of war to another country, the President shall not give his consent under paragraph (2) to the transfer unless the United States itself would transfer the defense article under consideration to that country. In addition, the President shall not give his consent under paragraph (2) to the transfer of any significant defense articles on the United States Munitions List unless the foreign country requesting consent to transfer agrees to demilitarize such defense articles prior to transfer, or the proposed recipient foreign country provides a commitment in writing to the United States Government that it will not transfer such defense articles, if not demilitarized, to any other foreign country or person without first obtaining the consent of the President. The President shall promptly submit a report to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the Committee on Foreign Relations of the Senate on the implementation of each agreement entered into pursuant to clause (2) of this subsection.
 
 #### (b) Necessity of consent by President
 
@@ -262,7 +262,7 @@ For delegation of certain functions of the President under this section, see sec
 
 #### Security Assistance for Baltic Nations for Joint Program for Interoperability and Deterrence Against Aggression
 
-Pub. L. 115–91, div. A, title XII, §1279D, Dec. 12, 2017, 131 Stat. 1702, provided that:
+Pub. L. 115–91, div. A, title XII, §1279D, Dec. 12, 2017, 131 Stat. 1702, as amended by Pub. L. 116–92, div. A, title XII, §1246(c)–(e), Dec. 20, 2019, 133 Stat. 1662, provided that:
 
 "(a)
 
@@ -288,7 +288,9 @@ Defense Articles and Services.—For purposes of subsection (b), the defense art
 
 &emsp;"(4) Air defense radars and anti-aircraft weapons.
 
-&emsp;"(5) Other defense articles or services agreed to by the Baltic nations and considered appropriate by the Secretary of Defense, with the concurrence of the Secretary of State.
+&emsp;"(5) Command, control, communications, computers, intelligence, surveillance, and reconnaissance (C4ISR) equipment.
+
+&emsp;"(5) \[sic\] Other defense articles or services agreed to by the Baltic nations and considered appropriate by the Secretary of Defense, with the concurrence of the Secretary of State.
 
 "(d)
 
@@ -320,11 +322,15 @@ In general.—Amounts for assistance provided pursuant to subsection (a) shall b
 
 &emsp;"(2)
 
-Limitation.—The total amount of assistance provided pursuant to subsection (a) may not exceed $100,000,000.
+Limitation.—The total amount of assistance provided pursuant to subsection (a) may not exceed $125,000,000.
+
+&emsp;"(3)
+
+Matching amount.—The amount of assistance provided under subsection (a) for procurement described in subsection (b) may not exceed the aggregate amount contributed to such procurement by the Baltic nations.
 
 "(g)
 
-Termination.—Assistance may not be provided pursuant to subsection (a) after December 31, 2020.
+Termination.—Assistance may not be provided pursuant to subsection (a) after December 31, 2021.
 
 "(h)
 
@@ -444,7 +450,7 @@ Transfers of Amounts.—
 
 &emsp;"(1)
 
-Transfer to other department of defense accounts.—Amounts in the Fund may be transferredto any Department of Defense account for use in carrying out the program authorized by subsection (a). Any amount so transferred shall be merged with amounts in the account to which transferred, and shall be available for the same purposes and the same time period as amounts in the account to which transferred.
+Transfer to other department of defense accounts.—Amounts in the Fund may be transferred to any Department of Defense account for use in carrying out the program authorized by subsection (a). Any amount so transferred shall be merged with amounts in the account to which transferred, and shall be available for the same purposes and the same time period as amounts in the account to which transferred.
 
 &emsp;"(2)
 

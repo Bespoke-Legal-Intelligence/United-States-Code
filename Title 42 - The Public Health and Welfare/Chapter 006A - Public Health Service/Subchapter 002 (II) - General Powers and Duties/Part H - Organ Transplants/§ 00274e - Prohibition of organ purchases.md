@@ -12,7 +12,7 @@ Any person who violates subsection (a) shall be fined not more than $50,000 or i
 
 For purposes of subsection (a):
 
-&emsp;(1) The term "human organ" means the human (including fetal) kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin or any subpart thereof and anyother human organ (or any subpart thereof, including that derived from a fetus) specified by the Secretary of Health and Human Services by regulation.
+&emsp;(1) The term "human organ" means the human (including fetal) kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin or any subpart thereof and any other human organ (or any subpart thereof, including that derived from a fetus) specified by the Secretary of Health and Human Services by regulation.
 
 &emsp;(2) The term "valuable consideration" does not include the reasonable payments associated with the removal, transportation, implantation, processing, preservation, quality control, and storage of a human organ or the expenses of travel, housing, and lost wages incurred by the donor of a human organ in connection with the donation of the organ.
 
@@ -44,7 +44,7 @@ Section was enacted as part of the National Organ Transplant Act, and not as par
 
 Subsec. (c)(4). Pub. L. 110–144, §2(2), added par. (4).
 
-<b>1988</b>—Subsec. (c)(1). Pub. L. 100–607 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'human organ' means the human kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin, and any other human organ specified by the Secretary of Health and Human Services by regulation."
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–607 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'human organ' means the human kidney,liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin, and any other human organ specified by the Secretary of Health and Human Services by regulation."
 
 #### Determination on the Definition of Human Organ
 

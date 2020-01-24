@@ -30,7 +30,7 @@ In this section:
 
 #### (C) References
 
-&emsp;&emsp;Any references in a law, regulation, document, record, map, or other paper of the United States to the First State National Monument shall be considered to be a reference to the historical park.
+&emsp;&emsp;Any references in a law, regulation, document, record, map, or other paper of theUnited States to the First State National Monument shall be considered to be a reference to the historical park.
 
 #### (2) Purposes
 
@@ -88,7 +88,7 @@ In this section:
 
 #### (B) Boundary adjustment
 
-&emsp;&emsp;On acquisition of land or an interest in land under subparagraph (A), the boundaryof the historical park shall be adjusted to reflect the acquisition.
+&emsp;&emsp;On acquisition of land or an interest in land under subparagraph (A), the boundary of the historical park shall be adjusted to reflect the acquisition.
 
 #### (3) Interpretive tours
 

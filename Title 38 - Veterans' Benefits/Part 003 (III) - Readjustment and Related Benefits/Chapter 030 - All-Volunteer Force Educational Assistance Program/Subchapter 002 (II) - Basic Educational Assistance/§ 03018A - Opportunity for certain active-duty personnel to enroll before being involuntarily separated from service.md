@@ -24,7 +24,7 @@
 
 &emsp;(A) as provided in section 3223(b) of this title, to the individual the unused contributions made by the individual to the Post-Vietnam Era Veterans Education Account established pursuant to section 3222(a) of this title; and
 
-&emsp;(B) to the Secretary of Defense the unused contributions (other than contributions madeunder section 3222(c) of this title) made by such Secretary to the Account on behalf of such individual.
+&emsp;(B) to the Secretary of Defense the unused contributions (other than contributions made under section 3222(c) of this title) made by such Secretary to the Account on behalf of such individual.
 
 (3) Any contribution made by the Secretary of Defense to the Post-Vietnam Era Veterans Education Account pursuant to subsection (c) of section 3222 of this title on behalf of any individual referred to in paragraph (1) shall remain in such Account to make payments of benefits to such individual under section 3015(f) of this title.
 
@@ -44,7 +44,7 @@ Subsec. (d)(3). Pub. L. 109–233, §503(5)(B), (C), struck out "of this subsect
 
 <b>1998</b>—Subsec. (a)(2). Pub. L. 105–368 substituted "successfully completed (or otherwise received academic credit for)" for "successfully completed".
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–446, §1201(i)(4), substituted "after February 2, 1991," for "after December 31, 1990, or the end of the 90-day period beginning on the date of the enactment of this section, whichever is later,".
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–446, §1201(i)(4), substituted "after February 2, 1991," for "after December31, 1990, or the end of the 90-day period beginning on the date of the enactment of this section, whichever is later,".
 
 Subsec. (d)(3). Pub. L. 103–446, §1201(d)(4), substituted "section 3015(f)" for "section 3015(e)".
 

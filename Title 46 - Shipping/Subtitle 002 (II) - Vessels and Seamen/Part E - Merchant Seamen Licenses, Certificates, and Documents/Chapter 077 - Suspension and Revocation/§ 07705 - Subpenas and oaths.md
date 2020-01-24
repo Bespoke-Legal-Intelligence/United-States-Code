@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 46:239(e)
 
-Section 7705 allows officials designated to investigate or preside at hearings on matters that are grounds for suspension and revocation proceedings to administer oaths and issue subpenas.
+Section 7705 allows officials designated to investigate or preside at hearings on matters that are grounds forsuspension and revocation proceedings to administer oaths and issue subpenas.
 
 #### Amendments
 

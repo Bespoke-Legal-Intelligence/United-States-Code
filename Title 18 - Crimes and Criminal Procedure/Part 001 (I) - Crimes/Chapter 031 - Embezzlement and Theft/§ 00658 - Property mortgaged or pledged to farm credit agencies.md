@@ -2,7 +2,7 @@
 
 Whoever, with intent to defraud, knowingly conceals, removes, disposes of, or converts to his own use or to that of another, any property mortgaged or pledged to, or held by, the Farm Credit Administration, any Federal intermediate credit bank, or the Federal Crop Insurance Corporation, the Secretary of Agriculture acting through the Farmers Home Administration or successor agency, the Rural Development Administration or successor agency, any production credit association organized under sections 1131–1134m of Title 12, any regional agricultural credit corporation, or any bank for cooperatives, shall be fined under this title or imprisoned not more than five years, or both; but if the value of such property does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 729; May 24, 1949, ch. 139, §12, 63 Stat. 91; Oct. 31, 1951, ch. 655, §21,65 Stat. 718; July 26, 1956, ch. 741, title I, §109, 70 Stat. 667; Pub. L. 87–353, §3(r), Oct. 4, 1961, 75 Stat. 774; Pub. L. 101–624, title XXIII, §2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 103–322, title XXXIII, §§330004(7), 330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2141, 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 106–78, title VII, §767, Oct. 22, 1999, 113 Stat. 1174.)
+(June 25, 1948, ch. 645, 62 Stat. 729; May 24, 1949, ch. 139, §12, 63 Stat. 91; Oct. 31, 1951, ch. 655, §21, 65 Stat. 718; July 26, 1956, ch. 741, title I, §109, 70 Stat. 667; Pub. L. 87–353, §3(r), Oct. 4, 1961, 75 Stat. 774; Pub. L. 101–624, title XXIII, §2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 103–322, title XXXIII, §§330004(7), 330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2141, 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 106–78, title VII, §767, Oct. 22, 1999, 113 Stat. 1174.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,7 @@ Based on sections 1026(c) and 1514(d) of title 7, U.S.C., 1940 ed., Agriculture,
 
 To avoid reference to another section the words "the Farm Credit Administration, any Federal intermediate credit bank, the Federal Farm Mortgage Corporation, Federal Crop Insurance Corporation, Farmers' Home Corporation, or any production credit corporation or corporation in which a production credit corporation holds stock, any regional agricultural credit corporation, or any bank for cooperatives" were substituted for the words "or any corporation referred to in subsection (a) of this section."
 
-The punishment provision was completely rewritten. The $2,000 fine of section 1026(c) of title 7, U.S.C., 1940 ed., and the 2-year penalty of that section, section 1514(d) of title 7, U.S.C., 1940 ed., and section 1138(d) of title 12, U.S.C., 1940 ed., were incongruous in juxtaposition with other sections of this chapter and were therefore increased to $5,000 and 5 years. (See sections 656 and 657 of this title.)
+The punishment provision was completely rewritten. The $2,000 fine of section 1026(c) of title 7, U.S.C., 1940ed., and the 2-year penalty of that section, section 1514(d) of title 7, U.S.C., 1940 ed., and section 1138(d) of title 12, U.S.C., 1940 ed., were incongruous in juxtaposition with other sections of this chapter and were therefore increased to $5,000 and 5 years. (See sections 656 and 657 of this title.)
 
 The smaller punishment for an offense involving $100 or less was added. (See reviser's notes under sections 641 and 645 of this title.)
 

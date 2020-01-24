@@ -16,7 +16,7 @@ Transitional rule.—The amendments made by this section shall not apply to any 
 
 &emsp;"(A) pursuant to a binding contract entered into before March 2, 1986, or
 
-&emsp;"(B) with respect to the development, protection, expansion, registration, or defense of a trademark ortrade name commenced before March 2, 1986, but only if not less than the lesser of $1,000,000 or 5 percent of the aggregate cost of such development, protection, expansion, registration, or defense has been incurred or committed before such date.
+&emsp;"(B) with respect to the development, protection, expansion, registration, or defense of a trademark or trade name commenced before March 2, 1986, but only if not less than the lesser of $1,000,000 or 5 percent of the aggregate cost of such development, protection, expansion, registration, or defense has been incurred or committed before such date.
 
 > The preceding sentence shall not apply to any expenditure with respect to a trademark or trade name placed in service after December 31, 1987."
 

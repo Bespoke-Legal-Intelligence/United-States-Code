@@ -14,7 +14,7 @@
 
 &emsp;(A) a motor vehicle scrap processor or a motor vehicle demolisher who complies with applicable State law with respect to such vehicle or part;
 
-&emsp;(B) a person who repairs such vehicle or part, if the removal, obliteration, tampering, or alteration is reasonably necessary for the repair;
+&emsp;(B) a person who repairs such vehicle or part, if the removal, obliteration, tampering,or alteration is reasonably necessary for the repair;
 
 &emsp;(C) a person who restores or replaces an identification number for such vehicle or part in accordance with applicable State law; and
 

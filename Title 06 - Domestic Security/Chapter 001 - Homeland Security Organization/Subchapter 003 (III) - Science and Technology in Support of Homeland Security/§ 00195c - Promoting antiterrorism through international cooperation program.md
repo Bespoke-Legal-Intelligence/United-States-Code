@@ -76,7 +76,7 @@ In this section:
 
 &emsp;&emsp;&emsp;The Secretary may require a recipient of a grant under this section—
 
-&emsp;&emsp;&emsp;&emsp;(I) to make a matching contribution of not more than 50 percent of the totalcost of the proposed project for which the grant is awarded; and
+&emsp;&emsp;&emsp;&emsp;(I) to make a matching contribution of not more than 50 percent of the total cost of the proposed project for which the grant is awarded; and
 
 &emsp;&emsp;&emsp;&emsp;(II) to repay to the Secretary the amount of the grant (or a portion thereof), interest on such amount at an appropriate rate, and such charges for administration of the grant as the Secretary determines appropriate.
 
@@ -138,7 +138,7 @@ There are authorized to be appropriated to carry out this section such sums as a
 
 #### References in Text
 
-The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec. (h)(1), is Pub. L. 95–426, Oct. 7, 1978, 92 Stat. 963. Title V of the Act is classified generally to sections 2656a to 2656d of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Tables.
+The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec. (h)(1), is Pub. L. 95–426, Oct. 7, 1978, 92 Stat. 963. Title V of the Act is classifiedgenerally to sections 2656a to 2656d of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -154,7 +154,7 @@ Pub. L. 110–53, title XIX, §1901(a), Aug. 3, 2007, 121 Stat. 505, provided th
 
 &emsp;"(1) The development and implementation of technology is critical to combating terrorism and other high consequence events and implementing a comprehensive homeland security strategy.
 
-&emsp;"(2) The United States and its allies in the global war on terrorism share a common interest in facilitating research, development, testing, and evaluationof equipment, capabilities, technologies, and services that will aid in detecting, preventing, responding to, recovering from, and mitigating against acts of terrorism.
+&emsp;"(2) The United States and its allies in the global war on terrorism share a common interest in facilitating research, development, testing, and evaluation of equipment, capabilities, technologies, and services that will aid in detecting, preventing, responding to, recovering from, and mitigating against acts of terrorism.
 
 &emsp;"(3) Certain United States allies in the global war on terrorism, including Israel, the United Kingdom, Canada, Australia, and Singapore have extensive experience with, and technological expertise in, homeland security.
 

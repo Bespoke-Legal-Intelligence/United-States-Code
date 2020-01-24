@@ -20,7 +20,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 &emsp;&emsp;(A) the domestic corporation is not and has not been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii), or
 
-&emsp;&emsp;(B) as of the date of the disposition, interests in such corporation are not UnitedStates real property interests by reason of section 897(c)(1)(B).
+&emsp;&emsp;(B) as of the date of the disposition, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B).
 
 #### (4) Transferee receives qualifying statement
 
@@ -60,7 +60,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 &emsp;&emsp;&emsp;(i) the transferee or qualified substitute has actual knowledge that the affidavit referred to in such paragraph, or the statement referred to in paragraph (9)(A)(ii), is false, or
 
-&emsp;&emsp;&emsp;(ii) the transferee or qualified substitute receives a notice (as described in subsection (d)) from a transferor's agent, transferee's agent, or qualified substitute that such affidavit or statement is false, or
+&emsp;&emsp;&emsp;(ii) the transferee or qualified substitute receives a notice (as described in subsection (d)) from a transferor's agent,transferee's agent, or qualified substitute that such affidavit or statement is false, or
 
 &emsp;&emsp;(B) if the Secretary by regulations requires the transferee or qualified substitute to furnish a copy of such affidavit or statement to the Secretary and the transferee or qualified substitute fails to furnish a copy of such affidavit or statement to the Secretary at such time and in such manner as required by such regulations.
 
@@ -158,7 +158,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (A) In general
 
-&emsp;&emsp;If any transferor's agent, transferee's agent, or qualified substitute is required by paragraph (1) to furnish notice, but fails to furnish such notice at such time or times and in such manner as may be required by regulations, such agent or substitute shall have the same duty to deduct and withhold that the transferee would have had if such agent or substitute had complied with paragraph (1).
+&emsp;&emsp;If any transferor's agent, transferee's agent, or qualified substitute is required by paragraph (1) to furnish notice, but fails to furnish such notice at such time or times and in such manner as may be required byregulations, such agent or substitute shall have the same duty to deduct and withhold that the transferee would have had if such agent or substitute had complied with paragraph (1).
 
 #### (B) Liability limited to amount of compensation
 
@@ -204,7 +204,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (3) Distributions by certain domestic corporations to foreign shareholders
 
-&emsp;If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, suchcorporation shall deduct and withhold under subsection (a) a tax equal to 15 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
+&emsp;If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 15 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
 
 #### (4) Taxable distributions by domestic or foreign partnerships, trusts, or estates
 
@@ -368,7 +368,7 @@ Amendment by Pub. L. 108–27 applicable to amounts paid after May 28, 2003, see
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable only to amounts paid after Aug. 5, 1997, see section 311(d)(2) ofPub. L. 105–34, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–34 applicable only to amounts paid after Aug. 5, 1997, see section 311(d)(2) of Pub. L. 105–34, set out as a note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) the fraud prevention and data security costs expended by each party involved in electronic debit transactions (including consumers, persons who accept debit cards as a form of payment, financial institutions, retailers and payment card networks);
 
-&emsp;&emsp;&emsp;&emsp;(V) the costs of fraudulent transactions absorbed by each party involvedin such transactions (including consumers, persons who accept debit cards as a form of payment, financial institutions, retailers and payment card networks);
+&emsp;&emsp;&emsp;&emsp;(V) the costs of fraudulent transactions absorbed by each party involved in such transactions (including consumers, persons who accept debit cards as a form of payment, financial institutions, retailers and payment card networks);
 
 &emsp;&emsp;&emsp;&emsp;(VI) the extent to which interchange transaction fees have in the past reduced or increased incentives for parties involved in electronic debit transactions to reduce fraud on such transactions; and
 
@@ -170,7 +170,7 @@
 
 #### (B) No routing restrictions
 
-&emsp;&emsp;The Board shall, before the end of the 1-year period beginning on July 21, 2010, prescribe regulations providing that an issuer or payment card network shall not, directly or through any agent, processor, or licensed member of the network, by contract, requirement, condition, penalty, or otherwise, inhibit the ability of any person who accepts debit cards for payments to direct the routing of electronic debit transactions for processing over any payment card network that may process such transactions.
+&emsp;&emsp;The Board shall, before the end of the 1-year period beginning on July 21, 2010, prescribe regulations providing that an issuer or payment card network shall not, directly or through any agent, processor, or licensedmember of the network, by contract, requirement, condition, penalty, or otherwise, inhibit the ability of any person who accepts debit cards for payments to direct the routing of electronic debit transactions for processing over any payment card network that may process such transactions.
 
 #### (2) Limitation on restrictions on offering discounts for use of a form of payment
 

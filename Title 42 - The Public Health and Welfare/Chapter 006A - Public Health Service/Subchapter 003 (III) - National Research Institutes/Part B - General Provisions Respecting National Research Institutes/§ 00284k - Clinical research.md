@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director of National Institutes of Health shall undertake activities to support and expandthe involvement of the National Institutes of Health in clinical research.
+The Director of National Institutes of Health shall undertake activities to support and expand the involvement of the National Institutes of Health in clinical research.
 
 #### (b) Requirements
 
@@ -20,7 +20,7 @@ The Director of National Institutes of Health, in cooperation with the Directors
 
 The Director of National Institutes of Health shall establish peer review mechanisms to evaluate applications for the awards and fellowships provided for in subsection (b)(2) and section 284l of this title. Such review mechanisms shall include individuals who are exceptionally qualified to appraise the merits of potential clinical research training and research grant proposals.
 
-(July 1, 1944, ch. 373, title IV, §409G, formerly §409C, as added Pub. L. 106–505, title II, §203, Nov. 13, 2000, 114 Stat. 2326; renumbered §409G, Pub. L. 107–109, §3(1), Jan. 4, 2002, 115 Stat. 1408.)
+(July 1, 1944, ch. 373, title IV, §409G, formerly §409C, as added Pub. L. 106–505, title II, §203,Nov. 13, 2000, 114 Stat. 2326; renumbered §409G, Pub. L. 107–109, §3(1), Jan. 4, 2002, 115 Stat. 1408.)
 
 #### References in Text
 

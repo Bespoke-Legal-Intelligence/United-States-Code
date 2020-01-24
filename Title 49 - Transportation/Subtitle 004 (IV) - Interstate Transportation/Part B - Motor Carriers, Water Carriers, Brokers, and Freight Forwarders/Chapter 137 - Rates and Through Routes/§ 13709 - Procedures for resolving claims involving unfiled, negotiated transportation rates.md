@@ -40,7 +40,7 @@ Pounds or Less.—A person from whom the additional legally applicable and effec
 
 Claims Involving Shipments Weighing More Than 10,000
 
-Pounds.—A person from whom the additional legally applicable and effective tariff rate or charges are sought may elect to satisfy the claim if the shipments each weighed more than 10,000 pounds, by payment of 15 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
+Pounds.—A person from whom the additional legally applicable and effective tariff rate or charges are sought may elect to satisfy the claim if the shipments each weighed more than 10,000 pounds, by payment of 15 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that adispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
 
 (d)
 
@@ -76,7 +76,7 @@ Pending suits for collection made before december 4, 1993.—If the carrier or f
 
 &emsp;(4)
 
-Demands for payment made before december 4, 1993.—If the carrier or freight forwarder or party representing such carrier orfreight forwarder has demanded the payment of additional freight charges, and has not filed a suit for the collection of such additional freight charges, before December 4, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f), the election must be made not later than the later of—
+Demands for payment made before december 4, 1993.—If the carrier or freight forwarder or party representing such carrier or freight forwarder has demanded the payment of additional freight charges, and has not filed a suit for the collection of such additional freight charges, before December 4, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f), the election must be made not later than the later of—
 
 &emsp;&emsp;(A) the 60th day following the filing of an answer to a suit for the collection of such additional legally applicable freight rate or charges, or
 

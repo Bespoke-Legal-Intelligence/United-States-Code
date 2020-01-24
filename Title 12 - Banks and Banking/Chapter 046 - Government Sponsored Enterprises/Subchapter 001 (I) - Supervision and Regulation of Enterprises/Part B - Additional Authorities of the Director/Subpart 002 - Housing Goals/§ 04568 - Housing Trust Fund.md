@@ -164,7 +164,7 @@
 
 &emsp;Grant amounts allocated to a State or State designated entity under this subsection may be provided only to a recipient that is an organization, agency, or other entity (including a for-profit entity or a nonprofit entity) that—
 
-&emsp;&emsp;(A) has demonstrated experience and capacity to conduct an eligible activity under paragraph (7), as evidenced by its ability to—
+&emsp;&emsp;(A) has demonstrated experience and capacity to conduct an eligible activity underparagraph (7), as evidenced by its ability to—
 
 &emsp;&emsp;&emsp;(i) own, construct or rehabilitate, manage, and operate an affordable multifamily rental housing development;
 
@@ -378,7 +378,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (h) Affordable housing trust fund
 
-If, after July 30, 2008, in any year, there is enacted any provision of Federal law establishing an affordable housing trust fund other than under this chapter for use only for grants to provide affordable rental housing and affordable homeownership opportunities, and the subsequent year is a year referred to in subsection (c), the Secretary shall in such subsequent year and any remaining years referred to in subsection (c) transfer to such affordable housing trust fund the aggregate amount allocated pursuant to subsection (c) in such year. Notwithstanding any other provision of law, assistance provided using amounts transferred to such affordable housing trust fund pursuant to this subsection may not be used for any of the activities specified in clauses (i) through (vi) of subsection (c)(9)(D).
+If, after July 30, 2008, in any year, there is enacted any provision of Federal law establishing an affordable housing trust fund other than under this chapter for use only for grants to provide affordable rental housing and affordable homeownership opportunities, and the subsequent year is a year referred to in subsection (c), the Secretary shall in such subsequent year andany remaining years referred to in subsection (c) transfer to such affordable housing trust fund the aggregate amount allocated pursuant to subsection (c) in such year. Notwithstanding any other provision of law, assistance provided using amounts transferred to such affordable housing trust fund pursuant to this subsection may not be used for any of the activities specified in clauses (i) through (vi) of subsection (c)(9)(D).
 
 #### (i) Funding accountability and transparency
 

@@ -98,7 +98,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Governor shall allocate the funds described in paragraph (1) to local areas under paragraphs (2) and (3) for the purpose of providing a single system of employment and training activities for adults and dislocated workers in accordance with subsections (c) and (d) of section 3174 of this title.
+&emsp;&emsp;The Governor shall allocate the funds described in paragraph (1) to local areas underparagraphs (2) and (3) for the purpose of providing a single system of employment and training activities for adults and dislocated workers in accordance with subsections (c) and (d) of section 3174 of this title.
 
 #### (B) Additional requirements
 
@@ -114,7 +114,7 @@
 
 #### (1) In general
 
-&emsp;The Governor may, in accordance with this subsection and after consultation with the State board, reallocate to eligible local areas within the State amounts that are made available to local areas from allocations made under paragraph (2)(A) or (3) of subsection (b) or a corresponding provision of the Workforce Investment Act of 1998 for adult employment and training activities, or under subsection\(b)(2)(B) or a corresponding provision of the Workforce Investment Act of 1998 for dislocated worker employment and training activities (referred to individually in this subsection as a "local allocation") and that are available for reallocation.
+&emsp;The Governor may, in accordance with this subsection and after consultation with the State board, reallocate to eligible local areas within the State amounts that are made available to local areas from allocations made under paragraph (2)(A) or (3) of subsection (b) or a corresponding provision of the Workforce Investment Act of 1998 for adult employment and training activities, or under subsection (b)(2)(B) or a corresponding provision of the Workforce Investment Act of 1998 for dislocated worker employment and training activities (referred to individually in this subsection as a "local allocation") and that are available for reallocation.
 
 #### (2) Amount
 

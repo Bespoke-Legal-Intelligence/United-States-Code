@@ -22,7 +22,7 @@ Whoever—
 
 (1) Whoever knowingly and willfully solicits or receives any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind—
 
-&emsp;(A) in return for referring an individual to a person for the furnishing or arranging for the furnishing of any item or service for which payment may be made in whole or in part under a Federal health care program, or
+&emsp;(A) in return for referring an individual to a person for the furnishing or arranging for thefurnishing of any item or service for which payment may be made in whole or in part under a Federal health care program, or
 
 &emsp;(B) in return for purchasing, leasing, ordering, or arranging for or recommending purchasing, leasing, or ordering any good, facility, service, or item for which payment may be made in whole or in part under a Federal health care program,
 
@@ -68,7 +68,7 @@ Whoever—
 
 #### (c) False statements or representations with respect to condition or operation of institutions
 
-Whoever knowingly and willfully makes or causes to be made, or induces or seeks to induce the making of, any false statement or representation of a material fact with respect to the conditions or operation of any institution, facility, or entity in order that such institution, facility, or entity may qualify (either upon initial certification or upon recertification) as a hospital, critical access hospital, skilled nursing facility, nursing facility, intermediate care facility forthe mentally retarded, home health agency, or other entity (including an eligible organization under section 1395mm(b) of this title) for which certification is required under subchapter XVIII or a State health care program (as defined in section 1320a–7(h) of this title), or with respect to information required to be provided under section 1320a–3a of this title, shall be guilty of a felony and upon conviction thereof shall be fined not more than $100,000 or imprisoned for not more than 10 years, or both.
+Whoever knowingly and willfully makes or causes to be made, or induces or seeks to induce the making of, any false statement or representation of a material fact with respect to the conditions or operation of any institution, facility, or entity in order that such institution, facility, or entity may qualify (either upon initial certification or upon recertification) as a hospital, critical access hospital, skilled nursing facility, nursing facility, intermediate care facility for the mentally retarded, home health agency, or other entity (including an eligible organization under section 1395mm(b) of this title) for which certification is required under subchapter XVIII or a State health care program (as defined in section 1320a–7(h) of this title), or with respect to information required to be provided under section 1320a–3a of this title, shall be guilty of a felony and upon conviction thereof shall be fined not more than $100,000 or imprisoned for not more than 10 years, or both.
 
 #### (d) Illegal patient admittance and retention practices
 
@@ -196,7 +196,7 @@ Pub. L. 100–203, §4211(h)(7)(A), substituted "nursing facility, intermediate 
 
 Subsec. (d)(2)(A). Pub. L. 100–203, §4211(h)(7)(B), substituted "nursing facility, or intermediate care facility for the mentally retarded" for "skilled nursing facility, or intermediate care facility".
 
-<b>1987</b>—Pub. L. 100–93, §4(a)(1), substituted "Criminal penalties for acts involving Medicare or State health care programs" for "Offenses and penalties" in section catchline.
+<b>1987</b>—Pub. L. 100–93, §4(a)(1), substituted "Criminal penalties for acts involving Medicare or State healthcare programs" for "Offenses and penalties" in section catchline.
 
 Subsec. (a). Pub. L. 100–93, §4(a)(3), (4), in concluding provisions, substituted "made under the program" for "made under this subchapter", "approved under subchapter XIX of this chapter" for "approved under this subchapter", and "provision of that subchapter" for "provision of this subchapter".
 
@@ -270,7 +270,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendments
 
-Amendment by section 4211(h)(7) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
+Amendment by section 4211(h)(7) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulationsimplementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
 
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
 

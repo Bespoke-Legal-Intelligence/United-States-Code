@@ -32,7 +32,7 @@ Par. (1). Pub. L. 104–208, §671(a)(2), made technical amendment to directory 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 301(b)(2) of Pub. L. 104–208 effective, with certain transitional provisions, on thefirst day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 301(b)(2) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Amendment by section 671(a)(2) of Pub. L. 104–208 effective as if included in the enactment of the Violent Crime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see section 671(a)(7) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 

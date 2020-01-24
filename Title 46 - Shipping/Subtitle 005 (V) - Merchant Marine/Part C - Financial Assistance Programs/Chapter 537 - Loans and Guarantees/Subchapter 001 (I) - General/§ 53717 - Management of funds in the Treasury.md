@@ -72,7 +72,7 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(B), (D), (c)(2). See 2006 Amendment note below.
 
-Subsec. (b). Pub. L. 110–181, §3522(a)(9)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(B), (D), (c)(2), into this section by substituting "Administrator" for "Secretary of Transportation" wherever appearing in heading and text. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (b). Pub. L. 110–181, §3522(a)(9)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(B), (D), (c)(2), into this section bysubstituting "Administrator" for "Secretary of Transportation" wherever appearing in heading and text. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 Subsecs. (c), (d). Pub. L. 110–181, §3522(a)(7), struck out "of Commerce" after "Secretary" wherever appearing in headings and text.
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) relates to pending or proposed legislation which, if enacted, will entail an estimated annual expenditure of appropriated funds in excess of $1,000,000;
 
-&emsp;(2) is submitted or transmitted to Congress or a committee thereof in compliance with lawor on the initiative of the appropriate authority of the executive branch; and
+&emsp;(2) is submitted or transmitted to Congress or a committee thereof in compliance with law or on the initiative of the appropriate authority of the executive branch; and
 
 &emsp;(3) officially proposes or recommends the creation or expansion, either by action of Congress or by administrative action, of a function, activity, or authority of the Executive agency to be in addition to those functions, activities, and authorities thereof existing when the report, recommendation, or other communication is so submitted or transmitted;
 

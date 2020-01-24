@@ -82,7 +82,7 @@ Sec. 2. The Administrator and the Secretary shall exercise the authority hereina
 
 Sec. 3. (a) To the extent necessitated by transfers of functions effected under the provisions of Section 1 of this order:
 
-(1) Transfers of balances of appropriations available and necessary to finance and discharge the transferred functions shall be made under the authority of Section202(b) of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c(b) \[see 31 U.S.C. 1531\]) as affected by the provisions of section 1(k) of Executive Order No. 10530 of May 10, 1954 \[set out as a note under section 301 of Title 3, The President\].
+(1) Transfers of balances of appropriations available and necessary to finance and discharge the transferred functions shall be made under the authority of Section 202(b) of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c(b) \[see 31 U.S.C. 1531\]) as affected by the provisions of section 1(k) of Executive Order No. 10530 of May 10, 1954 \[set out as a note under section 301 of Title 3, The President\].
 
 (2) Provisions for appropriate transfers of records and property shall be made under the authority of the last sentence of Section 304 of the Federal Aviation Act of 1958 \[see 49 U.S.C. 40107(a)\] as affected by the provisions of Section 1 of Executive Order No. 10797 of December 24, 1958 \[set out above\].
 

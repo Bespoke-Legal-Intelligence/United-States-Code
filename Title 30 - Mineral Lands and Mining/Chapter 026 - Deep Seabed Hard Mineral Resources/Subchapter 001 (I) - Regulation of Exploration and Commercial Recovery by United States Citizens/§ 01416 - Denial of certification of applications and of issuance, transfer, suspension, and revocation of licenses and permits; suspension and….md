@@ -12,7 +12,7 @@
 
 (3) No action may be taken by the Administrator to deny issuance or transfer of or to revoke any license or permit or, except as provided in subsection (c), to suspend any license or permit or suspend or modify particular activities under a license or permit, unless the Administrator—
 
-&emsp;(A) publishes in the Federal Register and gives the applicant, licensee, or permittee, asthe case may be, written notice of the intention of the Administrator to deny the issuance or transfer of or to suspend, modify, or revoke the license or permit and the reason therefor; and
+&emsp;(A) publishes in the Federal Register and gives the applicant, licensee, or permittee, as the case may be, written notice of the intention of the Administrator to deny the issuance or transfer of or to suspend, modify, or revoke the license or permit and the reason therefor; and
 
 &emsp;(B) if the reason for the proposed denial, suspension, modification, or revocation is a deficiency which the applicant, licensee, or permittee can correct, affords the applicant, licensee, or permittee a reasonable time, but not more than 180 days from the date of the notice or such longer period as the Administrator may establish for good cause shown, to correct such deficiency.
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) second, to any holder of a claim of a kind specified in section 507(a)(1)(C) or 507(a)(2) (except that such expenses under each such section, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under this chapter and shall not include expenses incurred under chapter 11 of this title), 507(a)(1)(A), 507(a)(1)(B), 507(a)(3), 507(a)(4), 507(a)(5), 507(a)(6), or 507(a)(7) of this title, to the extent of the amount of such allowed tax claim that is secured by such tax lien;
 
-&emsp;(3) third, to the holder of such tax lien, to any extent that such holder's allowed tax claim that is secured by such tax lien exceeds any amount distributed under paragraph (2) of this subsection;
+&emsp;(3) third, to the holder of such tax lien, to any extent that such holder's allowed tax claim that is secured by such tax lien exceedsany amount distributed under paragraph (2) of this subsection;
 
 &emsp;(4) fourth, to any holder of an allowed claim secured by a lien on such property that is not avoidable under this title and that is junior to such tax lien;
 

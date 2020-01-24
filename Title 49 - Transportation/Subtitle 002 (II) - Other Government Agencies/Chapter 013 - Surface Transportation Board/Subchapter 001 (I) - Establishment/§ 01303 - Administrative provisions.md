@@ -104,5 +104,5 @@ Budget Requests.—In each annual request for appropriations by the President, t
 
 "(g)
 
-Direct Transmittal to Congress.—The Board shall transmit to Congress copies of budget estimates, requests, and information (including personnel needs), legislative recommendations, prepared testimony forcongressional hearings, and comments on legislation at the same time they are sent to the Secretary of Transportation. An officer of an agency may not impose conditions on or impair communications by the Board with Congress, or a committee or Member of Congress, about the information."
+Direct Transmittal to Congress.—The Board shall transmit to Congress copies of budget estimates, requests, and information (including personnel needs), legislative recommendations, prepared testimony for congressional hearings, and comments on legislation at the same time they are sent to the Secretary of Transportation. An officer of an agency may not impose conditions on or impair communications by the Board with Congress, or a committee or Member of Congress, about the information."
 

@@ -88,7 +88,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;(B) permit a national securities exchange, by rule, to impose a schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for effecting transactions on such exchange after November 1, 1976, if the Commission finds that such schedule or fixed rates of commissions, allowances, discounts, or other fees (i) are reasonable in relation to the costs of providing the service for which such fees are charged (and the Commission publishes the standards employed in adjudging reasonableness) and (ii) do not impose any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter, taking into consideration the competitive effects of permitting such schedule or fixed rates weighed against the competitive effects of other lawful actions which the Commission is authorized to take under this chapter.
 
-(2) Notwithstanding the provisions of section 78s(c) of this title, the Commission, by rule, may abrogate any exchange rule which imposes a schedule or fixes rates of commissions, allowances, discounts, or other fees, if the Commission determines that such schedule or fixed rates are no longer reasonable, in the public interest, or necessary to accomplish the purposes of this chapter.
+(2) Notwithstanding the provisions of section 78s(c) of this title, the Commission, by rule, may abrogate any exchange rule which imposes aschedule or fixes rates of commissions, allowances, discounts, or other fees, if the Commission determines that such schedule or fixed rates are no longer reasonable, in the public interest, or necessary to accomplish the purposes of this chapter.
 
 (3)(A) Before approving or disapproving any proposed rule change submitted by a national securities exchange which would impose a schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for effecting transactions on such exchange, the Commission shall afford interested persons (i) an opportunity for oral presentation of data, views, and arguments and (ii) with respect to any such rule concerning transactions effected after November 1, 1976, if the Commission determines there are disputed issues of material fact, to present such rebuttal submissions and to conduct (or have conducted under subparagraph (B) of this paragraph) such cross-examination as the Commission determines to be appropriate and required for full disclosure and proper resolution of such disputed issues of material fact.
 
@@ -136,11 +136,11 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 #### (A) Form and content
 
-&emsp;&emsp;An exchange required to register only because such exchange lists or trades security futures products may register for purposes of this section by filing with the Commission a written notice in such form as the Commission, by rule, may prescribe containing the rules of the exchange and such other information and documents concerning such exchange, comparable to the information and documents required for national securities exchanges under subsection (a), as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. If such exchange has filed documents with the Commodity Futures Trading Commission, to the extent that such documents contain information satisfying the Commission's informational requirements, copies of such documents may be filed with the Commission in lieu of the required written notice.
+&emsp;&emsp;An exchange required to register only because such exchange lists or trades security futures products may register for purposes of this section by filing with the Commission a written notice in such form as the Commission, by rule, may prescribe containing the rules of the exchange and such other information and documents concerning such exchange, comparable to the information and documents required for national securities exchanges under subsection (a), as the Commission, by rule, may prescribe as necessaryor appropriate in the public interest or for the protection of investors. If such exchange has filed documents with the Commodity Futures Trading Commission, to the extent that such documents contain information satisfying the Commission's informational requirements, copies of such documents may be filed with the Commission in lieu of the required written notice.
 
 #### (B) Immediate effectiveness
 
-&emsp;&emsp;Such registration shall be effective contemporaneously with the submission of notice, in written or electronic form, to theCommission, except that such registration shall not be effective if such registration would be subject to suspension or revocation.
+&emsp;&emsp;Such registration shall be effective contemporaneously with the submission of notice, in written or electronic form, to the Commission, except that such registration shall not be effective if such registration would be subject to suspension or revocation.
 
 #### (C) Termination
 
@@ -262,7 +262,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 #### (6) Deferral of options on security futures trading
 
-&emsp;No person shall offer to enter into, enter into, or confirm the execution of any put, call, straddle, option, or privilege on a security future, except that, after 3 years after December 21, 2000, the Commission and the Commodity Futures Trading Commission may by order jointly determine to permit trading of puts, calls, straddles, options, or privileges on any security future authorized to be traded underthe provisions of this chapter and the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
+&emsp;No person shall offer to enter into, enter into, or confirm the execution of any put, call, straddle, option, or privilege on a security future, except that, after 3 years after December 21, 2000, the Commission and the Commodity Futures Trading Commission may by order jointly determine to permit trading of puts, calls, straddles, options, or privileges on any security future authorized to be traded under the provisions of this chapter and the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
 
 #### (7) Deferral of linked and coordinated clearing
 
@@ -316,7 +316,7 @@ Subsection (k) of section 78q of this title, referred to in subsec. (g)(4)(A)(iv
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(9). Pub. L. 111–203, §957(1), designated introductory provisions and subpars. (A) to (D) as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, redesignated former cls. (i) to (v) ofsubpar. (A) as subcls. (I) to (V), respectively, of cl. (i) and realigned margins, and designated concluding provisions as subpar. (B).
+<b>2010</b>—Subsec. (b)(9). Pub. L. 111–203, §957(1), designated introductory provisions and subpars. (A) to (D) as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, redesignated former cls. (i) to (v) of subpar. (A) as subcls. (I) to (V), respectively, of cl. (i) and realigned margins, and designated concluding provisions as subpar. (B).
 
 Subsec. (b)(10). Pub. L. 111–203, §957(2), added par. (10).
 
@@ -390,7 +390,7 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, except for amendment of sub
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Changes in Organization and Rules of National Securities Exchanges and Registered Securities Associations
 

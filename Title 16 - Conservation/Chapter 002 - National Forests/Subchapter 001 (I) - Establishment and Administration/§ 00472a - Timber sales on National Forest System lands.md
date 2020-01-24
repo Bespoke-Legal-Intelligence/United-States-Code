@@ -68,7 +68,7 @@ The Secretary of Agriculture shall develop utilization standards, methods of mea
 
 #### (i) Purchaser credit for permanent road construction; right of election of small business concerns; estimated cost; date of completion; use of funds for construction; effective date
 
-(1) For sales of timber which include a provision for purchaser credit for construction of permanent roads with an estimated cost in excess of $20,000, the Secretary of Agriculture shall promulgate regulations requiring that the notice of sale afford timber purchasers qualifying as "small business concerns" under the Small Business Act, as amended \[15 U.S.C. 631 et seq.\], and the regulations issued thereunder, an estimate of the cost and the right, when submitting a bid, to elect that the Secretary build the proposed road.
+(1) For sales of timber which include a provision for purchaser credit for construction of permanent roads with an estimated cost in excess of $20,000, the Secretary of Agriculture shall promulgate regulations requiring that the notice ofsale afford timber purchasers qualifying as "small business concerns" under the Small Business Act, as amended \[15 U.S.C. 631 et seq.\], and the regulations issued thereunder, an estimate of the cost and the right, when submitting a bid, to elect that the Secretary build the proposed road.
 
 (2) If the purchaser makes such an election, the price subsequently paid for the timber shall include all of the estimated cost of the road. In the notice of sale, the Secretary of Agriculture shall set a date when such road shall be completed which shall be applicable to either construction by the purchaser or the Secretary, depending on the election. To accomplish requested work, the Secretary is authorized to use from any receipts from the sale of timber a sum equal to the estimate for timber purchaser credits, and such additional sums as may be appropriated for the construction of roads, such funds to be available until expended, to construct a road that meets the standards specified in the notice of sale.
 
@@ -82,7 +82,7 @@ The Multiple-Use Sustained-Yield Act of 1960, referred to in subsecs. (a) and (c
 
 The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (a), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
-This Act, referred to in subsec. (e)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, known as the National Forest Management Act of 1976. For complete classification of this Act to the Code, see ShortTitle of 1976 Amendment note set out under section 1600 of this title and Tables.
+This Act, referred to in subsec. (e)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, known as the National Forest Management Act of 1976. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
 The Small Business Act, referred to in subsec. (i)(1), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
@@ -190,7 +190,7 @@ Limitation on market-related contract term addition; periodic payments.—Notwit
 
 &emsp;"(3)
 
-Contracts using hardwood lumber index.—With respect to a qualifying contract using the hardwood commodity index referred to in subsection (a)(1)(B) for which the Secretary does not substitute the Producer Price Index under paragraph (2), theSecretary may, at the sole discretion of the Secretary—
+Contracts using hardwood lumber index.—With respect to a qualifying contract using the hardwood commodity index referred to in subsection (a)(1)(B) for which the Secretary does not substitute the Producer Price Index under paragraph (2), the Secretary may, at the sole discretion of the Secretary—
 
 &emsp;&emsp;"(A) extend the contract term for a 1-year period beginning on the current contract termination date; and
 

@@ -8,7 +8,7 @@ The Secretary shall establish the position of Food Access Liaison to coordinate 
 
 The Food Access Liaison shall—
 
-&emsp;(1) coordinate the efforts of the Department, including regional offices, to experiment andconsider programs and policies aimed at reducing barriers to food access for consumers, including but not limited to participants in nutrition assistance programs;
+&emsp;(1) coordinate the efforts of the Department, including regional offices, to experiment and consider programs and policies aimed at reducing barriers to food access for consumers, including but not limited to participants in nutrition assistance programs;
 
 &emsp;(2) provide outreach to entities engaged in activities to reduce barriers to food access in accordance with the statutory authorization for each program;
 

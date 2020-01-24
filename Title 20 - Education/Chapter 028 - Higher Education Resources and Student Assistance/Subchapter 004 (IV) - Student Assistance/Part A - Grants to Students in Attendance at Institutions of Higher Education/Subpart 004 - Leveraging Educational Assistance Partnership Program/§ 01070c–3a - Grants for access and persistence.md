@@ -22,7 +22,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (A) Authorization
 
-&emsp;&emsp;From sums reserved under section 1070c(b)(2) of this title for each fiscal year, the Secretary shall make an allotment to each State that submits an application for an allotment in accordance with subsection (c) to enable the State to pay the Federal share, as described in paragraph (2), of thecost of carrying out the activities under subsection (d).
+&emsp;&emsp;From sums reserved under section 1070c(b)(2) of this title for each fiscal year, the Secretary shall make an allotment to each State that submits an application for an allotment in accordance with subsection (c) to enable the State to pay the Federal share, as described in paragraph (2), of the cost of carrying out the activities under subsection (d).
 
 #### (B) Determination of allotment
 
@@ -188,7 +188,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;The amount of a grant for access and persistence awarded by a State to a student under this section shall be not less than—
 
-&emsp;&emsp;&emsp;(i) the average undergraduate tuition and mandatory fees at the public institutions of higher education in the State where the student resides that are of thesame type of institution as the institution of higher education the student attends; minus
+&emsp;&emsp;&emsp;(i) the average undergraduate tuition and mandatory fees at the public institutions of higher education in the State where the student resides that are of the same type of institution as the institution of higher education the student attends; minus
 
 &emsp;&emsp;&emsp;(ii) other Federal and State aid the student receives.
 
@@ -220,7 +220,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;&emsp;&emsp;(III) an explanation that student and family eligibility for, and participation in, other Federal means-tested programs may indicate eligibility for a grant for access and persistence and other student aid programs;
 
-&emsp;&emsp;&emsp;&emsp;(IV) a nonbinding estimate of the total amount of financial aid that a low-income student with a similar income level may expect to receive, including an estimate of the amount of a grant for access and persistence and an estimate of the amount of grants, loans, and all other available types of aid from the major Federal and State financial aid programs;
+&emsp;&emsp;&emsp;&emsp;(IV) a nonbinding estimate of the total amount of financial aid that a low-income student with a similar income level may expect to receive, including anestimate of the amount of a grant for access and persistence and an estimate of the amount of grants, loans, and all other available types of aid from the major Federal and State financial aid programs;
 
 &emsp;&emsp;&emsp;&emsp;(V) an explanation that in order to be eligible for a grant for access and persistence, at a minimum, a student shall—
 

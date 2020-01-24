@@ -10,7 +10,7 @@ Using available funds, the Secretary shall make publicly available, including on
 
 #### (b) Limitation
 
-Nothing in this section may be construed to compel or authorize the disclosure of data or other information determined by the Secretary to be confidential information, privileged information, law enforcement information, national security information, infrastructure security information, personal information, or information the disclosure of which is otherwise prohibited by law.
+Nothing in this section may be construed to compel or authorize the disclosure of data orother information determined by the Secretary to be confidential information, privileged information, law enforcement information, national security information, infrastructure security information, personal information, or information the disclosure of which is otherwise prohibited by law.
 
 #### (c) Timing
 

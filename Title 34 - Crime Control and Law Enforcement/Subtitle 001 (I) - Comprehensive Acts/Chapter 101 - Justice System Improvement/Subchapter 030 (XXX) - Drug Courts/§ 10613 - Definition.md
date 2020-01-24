@@ -36,7 +36,7 @@ Section was formerly classified to section 3797u–2 of Title 42, The Public Hea
 
 #### Construction of 2008 Amendment
 
-For construction of amendments and provisions set out as a note below by Pub. L. 110–199 and requirements for grants made under such amendments and note, see section 60504 of this title.
+For construction of amendments and provisions set out as a note below by Pub. L. 110–199 and requirementsfor grants made under such amendments and note, see section 60504 of this title.
 
 #### Period for Compliance
 

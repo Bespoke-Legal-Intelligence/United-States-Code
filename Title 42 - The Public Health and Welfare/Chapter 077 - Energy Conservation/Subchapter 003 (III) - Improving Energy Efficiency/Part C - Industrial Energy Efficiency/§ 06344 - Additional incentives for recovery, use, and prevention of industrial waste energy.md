@@ -20,7 +20,7 @@
 
 #### (b) Standard for sales of excess power
 
-For purposes of this section, the standard referred to in subsection (a) shall provide that anowner or operator of a waste energy recovery project identified on the Registry that generates net excess power shall be eligible to benefit from at least 1 of the options described in subsection (c) for disposal of the net excess power in accordance with the rate conditions and limitations described in subsection (d).
+For purposes of this section, the standard referred to in subsection (a) shall provide that an owner or operator of a waste energy recovery project identified on the Registry that generates net excess power shall be eligible to benefit from at least 1 of the options described in subsection (c) for disposal of the net excess power in accordance with the rate conditions and limitations described in subsection (d).
 
 #### (c) Options
 
@@ -32,7 +32,7 @@ The options referred to in subsection (b) are as follows:
 
 #### (2) Transport by utility for direct sale to third party
 
-&emsp;The electric utility shall transmit the net excess power on behalf of the project owner or operator to up to 3 separate locations on the system of the utility for direct sale by the owner or operator to third parties at those locations.
+&emsp;The electric utility shall transmit the net excess power on behalf of the project owner oroperator to up to 3 separate locations on the system of the utility for direct sale by the owner or operator to third parties at those locations.
 
 #### (3) Transport over private transmission lines
 
@@ -104,7 +104,7 @@ The options referred to in subsection (b) are as follows:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Transportation by utilities of power on behalf of the owner or operator of a project under the option described in subsection (c)(2) shall incur a transportation rate thatshall equal the per unit distribution costs and per unit distribution margin, that applies to the type of utility transporting the power.
+&emsp;&emsp;&emsp;Transportation by utilities of power on behalf of the owner or operator of a project under the option described in subsection (c)(2) shall incur a transportation rate that shall equal the per unit distribution costs and per unit distribution margin, that applies to the type of utility transporting the power.
 
 #### (ii) Voltages exceeding 25 kilovolts
 

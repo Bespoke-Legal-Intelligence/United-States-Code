@@ -16,7 +16,7 @@ It shall be the duty of all officers of the customs to execute and carry into ef
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §502, 42Stat. 967. That section was superseded by section 502 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §502, 42 Stat. 967. That section was superseded by section 502 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 A prior provision, authorizing the Secretary of the Treasury to direct appraisers for any collection district, to attend in any other collection district, was contained in R.S. §2947. Prior provisions requiring the Secretary to establish rules and regulations to secure a just, faithful, and impartial appraisal, just and proper entries, and to report such rules and regulations to the next session of Congress, were contained in R.S. §2949. Both of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
@@ -28,7 +28,7 @@ Provisions almost identical with those in subsec. (c) of this section were conta
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–182, §640(1), inserted "(including regulations establishing procedures for the issuance of binding rulings prior to the entry of the merchandise concerned)" after "law", substituted "ports of entry. The Secretary" for "ports of entry, and", inserted "or classifying" after "appraising" in two places, and substituted "any port, and may direct any customs officer at any port to review entries of merchandise filed at any other port" for "such port".
 
-Subsec. (b). Pub. L. 103–182, §640(2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "No ruling or decision once made by the Secretary of the Treasury, giving construction to any law imposing customs duties, shall be reversed or modified adversely to the United States, by the same or a succeeding Secretary, except in concurrence with an opinion of the Attorney General recommending the same, a final decision of the United States Court of International Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement."
+Subsec. (b). Pub. L. 103–182, §640(2), redesignated subsec. (c) as (b) and struck out former subsec. (b) whichread as follows: "No ruling or decision once made by the Secretary of the Treasury, giving construction to any law imposing customs duties, shall be reversed or modified adversely to the United States, by the same or a succeeding Secretary, except in concurrence with an opinion of the Attorney General recommending the same, a final decision of the United States Court of International Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement."
 
 Pub. L. 103–182, §412(a), which directed the insertion of "the North American Free Trade Agreement or" before "the United States-Canada Free-Trade Agreement", could not be executed because the words "the United States-Canada Free-Trade Agreement" did not appear in subsec. (b) subsequent to amendment by Pub. L. 103–182, §640(2), effective Dec. 8, 1993. See above.
 

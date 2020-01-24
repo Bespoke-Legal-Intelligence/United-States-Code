@@ -20,7 +20,7 @@ Prohibition.—(1) An individual who is convicted of fraud or any other felony a
 
 &emsp;(A) A contract referred to in subparagraph (A), (B), (C), or (D) of such paragraph that is not greater than the simplified acquisition threshold (as defined in section 134 of title 41).
 
-&emsp;(B) A contract referred to in such subparagraph that is for the acquisition of commercial items (as defined in section 103 of title 41).
+&emsp;(B) A contract referred to in such subparagraph that is for the acquisition of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41).
 
 &emsp;(C) A subcontract referred to in such subparagraph that is under a contract described in subparagraph (A) or (B).
 
@@ -38,11 +38,7 @@ Single Point of Contact for Information.—(1) The Attorney General shall ensure
 
 (2) The procedure for obtaining such information shall be specified in regulations prescribed by the Secretary of Defense under subsection (a).
 
-(Added Pub. L. 99–500, §101(c) \[title X, §941(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–161, and Pub. L. 99–591, §101(c) \[title X, §941(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–161; Pub. L. 99–661, div. A, title IX, formerly title IV, §941(a)(1), Nov. 14, 1986, 100 Stat. 3941, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–456, div. A, title VIII, §831(a), Sept. 29, 1988, 102 Stat. 2023; Pub. L. 101–510, div. A, title VIII, §812, Nov. 5, 1990, 104 Stat. 1596; Pub. L. 102–484, div. A, title VIII, §815(a), Oct. 23, 1992, 106 Stat. 2454; Pub. L. 103–355, title IV, §4102(g), title VIII, §8105(h), Oct. 13, 1994, 108 Stat. 3340, 3393; Pub. L. 104–106, div. A, title X, §1062(e), Feb. 10, 1996, 110 Stat. 444; Pub. L. 111–350, §5(b)(26), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 115–232, div. A, title VIII, §836(e)(5), Aug. 13, 2018, 132 Stat. 1870.)
-
-#### Amendment of Subsection (a)(4)(B)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(e)(5), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(4)(B) of this section is amended by striking "commercial items (as defined in section 103 of title 41)" and inserting "commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)". See 2018 Amendment note below.</i>
+(Added Pub. L. 99–500, §101(c) \[title X, §941(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–161, and Pub. L. 99–591, §101(c) \[title X, §941(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–161; Pub. L. 99–661, div. A, title IX, formerly title IV, §941(a)(1), Nov. 14, 1986, 100 Stat. 3941, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–456, div. A, title VIII, §831(a), Sept.29, 1988, 102 Stat. 2023; Pub. L. 101–510, div. A, title VIII, §812, Nov. 5, 1990, 104 Stat. 1596; Pub. L. 102–484, div. A, title VIII, §815(a), Oct. 23, 1992, 106 Stat. 2454; Pub. L. 103–355, title IV, §4102(g), title VIII, §8105(h), Oct. 13, 1994, 108 Stat. 3340, 3393; Pub. L. 104–106, div. A, title X, §1062(e), Feb. 10, 1996, 110 Stat. 444; Pub. L. 111–350, §5(b)(26), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 115–232, div. A, title VIII, §836(e)(5), Aug. 13, 2018, 132 Stat. 1870.)
 
 #### Codification
 
@@ -84,7 +80,7 @@ Subsec. (b). Pub. L. 101–510, §812(b), inserted "or subcontractor" after "con
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub.L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
 #### Effective Date of 1994 Amendment
 

@@ -28,7 +28,7 @@ Conditions for Development.—
 
 In general.—The Administration shall not enter into a contract for the development of a major program unless the Administrator determines that—
 
-&emsp;&emsp;(A) the technical, cost, and schedule risks of the program are clearly identified and the program has developed a plan to manage those risks;
+&emsp;&emsp;(A) the technical, cost, and schedule risks of the program are clearly identified and theprogram has developed a plan to manage those risks;
 
 &emsp;&emsp;(B) the technologies required for the program have been demonstrated in a relevant laboratory or test environment; and
 
@@ -114,7 +114,7 @@ Determination, report, and initiation of analysis.—Not later than 30 days afte
 
 &emsp;(2)
 
-Completion of analysis and transmittal to committees.—The Administration shall complete an analysis initiated under paragraph (1)(B) not later than 6 months after the Administrator makes a determination under this subsection. The Administrator shalltransmit the analysis to the Committee on Science and Technology of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate not later than 30 days after its completion.
+Completion of analysis and transmittal to committees.—The Administration shallcomplete an analysis initiated under paragraph (1)(B) not later than 6 months after the Administrator makes a determination under this subsection. The Administrator shall transmit the analysis to the Committee on Science and Technology of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate not later than 30 days after its completion.
 
 (f)
 

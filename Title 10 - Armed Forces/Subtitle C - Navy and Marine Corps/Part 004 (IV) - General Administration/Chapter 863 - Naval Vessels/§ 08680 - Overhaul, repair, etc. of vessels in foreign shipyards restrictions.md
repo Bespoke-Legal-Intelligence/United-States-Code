@@ -24,9 +24,13 @@ Vessels Under Jurisdiction of the Secretary of the Navy With Homeport in United 
 
 &emsp;&emsp;(II) scheduled maintenance or repair actions to prevent or discover functional failures.
 
-&emsp;(ii) The term "facilities maintenance" means preservation or corrosion control efforts and cleaning services.
+&emsp;(ii) The term "facilities maintenance" means—.<sup>1</sup>
 
-(D) This paragraph shall expire on September 30, 2020.
+&emsp;&emsp;(I) the effort required to provide housekeeping services throughout the ship;
+
+&emsp;&emsp;(II) the effort required to perform coating maintenance and repair to exterior and interior surfaces due to normal environmental conditions; and
+
+&emsp;&emsp;(III) the effort required to clean mechanical spaces, mission zones, and topside spaces.
 
 (b)
 
@@ -58,7 +62,7 @@ Report.—(1) The Secretary of the Navy shall submit to Congress each year, at t
 
 &emsp;(F) The cost of the repair and the amount (if any) that the cost of the repair was less than or greater than the cost of the repair provided for in the contract.
 
-&emsp;(G) The schedule for repair, the amount of work accomplished (stated in terms of work days), whether the repair was accomplished on schedule, and, if not so accomplished, the reason for the schedule over-run.
+&emsp;(G) The schedule for repair, the amount of work accomplished (stated in terms of workdays), whether the repair was accomplished on schedule, and, if not so accomplished, the reason for the schedule over-run.
 
 &emsp;(H) The homeport or location of the vessel prior to its voyage for repair.
 
@@ -74,9 +78,13 @@ Report.—(1) The Secretary of the Navy shall submit to Congress each year, at t
 
 &emsp;(C) A vessel not described in subparagraph (A) or (B) that is operated pursuant to a contract entered into by the Secretary of the Navy and the Maritime Administration or the United States Transportation Command in support of Department of Defense operations.
 
-(Added and amended Pub. L. 103–160, div. A, title III, §367, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1632, 1710, §7310; Pub. L. 104–106, div. A, title X, §1017, Feb. 10, 1996, 110 Stat. 425; Pub. L. 109–364, div. A, title X, §1014, Oct. 17, 2006, 120 Stat. 2376; Pub. L. 110–417, \[div. A\], title X, §1012, Oct. 14, 2008, 122 Stat. 4584; Pub. L. 112–239, div. A, title III, §344, Jan. 2, 2013, 126 Stat. 1700; Pub. L. 115–91, div. A, title X, §1023, Dec. 12, 2017, 131 Stat. 1548; renumbered §8680, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added and amended Pub. L. 103–160, div. A, title III, §367, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1632, 1710, §7310; Pub. L. 104–106, div. A, title X, §1017, Feb. 10, 1996, 110 Stat. 425; Pub. L. 109–364, div. A, title X, §1014, Oct. 17, 2006, 120 Stat. 2376; Pub. L. 110–417, \[div. A\], title X, §1012, Oct. 14, 2008, 122 Stat. 4584; Pub. L. 112–239, div. A, title III, §344, Jan. 2, 2013, 126 Stat. 1700; Pub. L. 115–91, div. A, title X, §1023, Dec. 12, 2017, 131 Stat. 1548; renumbered §8680, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–92, div. A, title X, §1035, Dec. 20, 2019, 133 Stat. 1583.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(2)(C)(ii). Pub. L. 116–92, §1035(1), substituted "means—" for "means preservation or corrosion control efforts and cleaning services" and added subcls. (I) to (III).
+
+Subsec. (a)(2)(D). Pub. L. 116–92, §1035(2), struck out subpar. (D) which read as follows: "This paragraph shall expire on September 30, 2020."
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7310 of this title as this section.
 
@@ -107,4 +115,6 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 #### Termination of Reporting Requirements
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

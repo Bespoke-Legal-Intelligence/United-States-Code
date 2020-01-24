@@ -74,7 +74,7 @@ For the purposes of this chapter:
 
 #### (4) Application for protection or entering into a register of varieties
 
-&emsp;The filing of an application for the protection or for the entering of a variety in an official register of varieties, in any country, shallbe considered to render the variety a matter of common knowledge from the date of the application, if the application leads to the granting of protection or to the entering of the variety in the official register of varieties, as the case may be.
+&emsp;The filing of an application for the protection or for the entering of a variety in an official register of varieties, in any country, shall be considered to render the variety a matter of common knowledge from the date of the application, if the application leads to the granting of protection or to the entering of the variety in the official register of varieties, as the case may be.
 
 #### (5) Distinctness
 

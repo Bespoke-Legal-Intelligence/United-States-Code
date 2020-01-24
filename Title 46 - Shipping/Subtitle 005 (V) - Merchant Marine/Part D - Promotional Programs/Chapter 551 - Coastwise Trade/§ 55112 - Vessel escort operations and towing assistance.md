@@ -8,7 +8,7 @@ In General.—Except in the case of a vessel in distress, only a vessel of the U
 
 &emsp;(2) Operations required by United States law or regulation.
 
-&emsp;(3) Operations provided in whole or in part within or through navigation facilities owned, maintained, or operated by the United States Government or the approaches to those facilities, other than facilities operated by the St. Lawrence Seaway Development Corporation on the St. Lawrence River portion of the Seaway.
+&emsp;(3) Operations provided in whole or in part within or through navigation facilities owned, maintained, or operated by the United States Government or the approaches to those facilities, other than facilities operated by the St.Lawrence Seaway Development Corporation on the St. Lawrence River portion of the Seaway.
 
 (b)
 

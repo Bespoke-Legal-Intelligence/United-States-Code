@@ -42,7 +42,7 @@ It shall be unlawful for any person knowingly or intentionally to use any commun
 
 #### (d) Penalties
 
-(1) Except as provided in paragraph (2), any person who violates this section shall be sentenced to a term of imprisonment of not more than 4 years, a fine under title 18, or both; except that if any person commits such a violationafter one or more prior convictions of him for violation of this section, or for a felony under any other provision of this subchapter or subchapter II or other law of the United States relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 8 years, a fine under title 18, or both.
+(1) Except as provided in paragraph (2), any person who violates this section shall be sentenced to a term of imprisonment of not more than 4 years, a fine under title 18, or both; except that if any person commits such a violation after one or more prior convictions of him for violation of this section, or for a felony under any other provision of this subchapter or subchapter II or other law of the United States relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 8 years, a fine under title 18, or both.
 
 (2) Any person who, with the intent to manufacture or to facilitate the manufacture of methamphetamine, violates paragraph (6) or (7) of subsection (a), shall be sentenced to a term of imprisonment of not more than 10 years, a fine under title 18, or both; except that if any person commits such a violation after one or more prior convictions of that person—
 

@@ -18,7 +18,7 @@
 
 &emsp;(B) a provision requiring refund of a proportionate amount of such advance payment if the total amount of time contracted for is not used.
 
-> Notwithstanding any other provision of law, any agency or instrumentality of the legislative branch is authorized to make advance payments under a contract entered into under paragraph (1).
+> Notwithstanding any other provision of law, any agency or instrumentality of the legislative branch is authorized to make advance paymentsunder a contract entered into under paragraph (1).
 
 #### (c) Additional personnel
 

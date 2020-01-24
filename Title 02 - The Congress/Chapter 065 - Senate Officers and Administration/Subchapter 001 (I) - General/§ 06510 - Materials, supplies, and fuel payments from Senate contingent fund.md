@@ -1,6 +1,6 @@
 ### §6510. Materials, supplies, and fuel payments from Senate contingent fund
 
-Payments from the contingent fund of the Senate for materials and supplies (includingfuel) purchased on and after July 8, 1935, through the Administrator of General Services shall be made by check upon vouchers approved by the Committee on Rules and Administration of the Senate.
+Payments from the contingent fund of the Senate for materials and supplies (including fuel) purchased on and after July 8, 1935, through the Administrator of General Services shall be made by check upon vouchers approved by the Committee on Rules and Administration of the Senate.
 
 (July 8, 1935, ch. 374, 49 Stat. 463; Aug. 2, 1946, ch. 753, title I, §102, 60 Stat. 814; June 30, 1949, ch. 288, title I, §102(a), 63 Stat. 380.)
 

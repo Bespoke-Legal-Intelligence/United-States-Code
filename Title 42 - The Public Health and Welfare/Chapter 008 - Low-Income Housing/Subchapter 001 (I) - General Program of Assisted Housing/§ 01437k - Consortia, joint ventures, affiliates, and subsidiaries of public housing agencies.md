@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Any 2 or more public housing agencies may participate in a consortium for the purpose ofadministering any or all of the housing programs of those public housing agencies in accordance with this section.
+&emsp;Any 2 or more public housing agencies may participate in a consortium for the purpose of administering any or all of the housing programs of those public housing agencies in accordance with this section.
 
 #### (2) Effect
 

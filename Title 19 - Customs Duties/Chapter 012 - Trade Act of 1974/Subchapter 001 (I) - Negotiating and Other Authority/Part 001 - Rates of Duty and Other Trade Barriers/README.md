@@ -10,7 +10,7 @@ Rates of Duty and Other Trade Barriers
 - [&sect; 02111 - Basic authority for trade agreements](%C2%A7%2002111%20-%20Basic%20authority%20for%20trade%20agreements.md)
 - [&sect; 02112 - Barriers to and other distortions of trade](%C2%A7%2002112%20-%20Barriers%20to%20and%20other%20distortions%20of%20trade.md)
 - [&sect; 02113 - Overall negotiating objective](%C2%A7%2002113%20-%20Overall%20negotiating%20objective.md)
-- [&sect; 02114 - Sector negotiating objectives](%C2%A7%2002114%20-%20Sector%20negotiating%20objectives.md)
+- [&sect; 02114 - Sector negotiating objective](%C2%A7%2002114%20-%20Sector%20negotiating%20objective.md)
 - [&sect; 02114a - Negotiating objectives with respect to trade in services, foreign direct investment, and high technology products](%C2%A7%2002114a%20-%20Negotiating%20objectives%20with%20respect%20to%20trade%20in%20services%2C%20foreign%20direct%20investment%2C%20and%20high%20technology%20products.md)
 - [&sect; 02114b - Provisions relating to international trade in services](%C2%A7%2002114b%20-%20Provisions%20relating%20to%20international%20trade%20in%20services.md)
 - [&sect; 02114c - Trade in services development, coordination, and implementation of Federal policies; staff support and other assistance; specific service&#8230;](%C2%A7%2002114c%20-%20Trade%20in%20services%20development%2C%20coordination%2C%20and%20implementation%20of%20Federal%20policies%3B%20staff%20support%20and%20other%20assistance%3B%20specific%20service%E2%80%A6.md)

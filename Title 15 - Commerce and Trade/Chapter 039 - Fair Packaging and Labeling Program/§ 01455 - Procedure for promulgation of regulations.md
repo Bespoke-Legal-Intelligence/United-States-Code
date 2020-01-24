@@ -20,7 +20,7 @@ No regulation adopted under this chapter shall preclude the continued use of ret
 
 #### References in Text
 
-The effective date of this Act, referred to in subsec. (d), refers to the effective date of Pub. L. 89–755 whichenacted this chapter to take effect July 1, 1967. See Effective Date note set out under section 1451 of this title.
+The effective date of this Act, referred to in subsec. (d), refers to the effective date of Pub. L. 89–755 which enacted this chapter to take effect July 1, 1967. See Effective Date note set out under section 1451 of this title.
 
 #### Change of Name
 

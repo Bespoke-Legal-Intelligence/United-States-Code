@@ -10,7 +10,7 @@ As used in this section the word "copyrights" includes copyrights, claims of cop
 
 #### (c) Divestment of copyrights; limitations; transfer of remaining rights and interests
 
-All copyrights vested in the Alien Property Custodian or the Attorney General under the provisions of this chapter subsequent to December 17, 1941, which have not been returned or otherwise disposed of under this chapter, except copyrights vested by vesting orders 128 (7 F.R. 7578), 13111 (14 F.R. 1730), 14349 (15 F.R. 1575), 17366 (16 F.R. 2483), and 17952 (16 F.R. 6162) and copyrights vested with respect to the motion picture listed last in exhibit A of vesting order 11803, as amended (13 F.R. 5167, 15 F.R. 1626), are hereby divested as a matter of grace, effective the ninety-first day after October 22, 1962, and the persons entitled thereto shall on that day succeed to the rights, privileges, and obligations arising out of such copyrights, subject, however, to—
+All copyrights vested in the Alien Property Custodian or the Attorney General under the provisions of this chapter subsequent to December 17, 1941, which have not been returned or otherwise disposed of under this chapter, except copyrights vested by vesting orders 128 (7 F.R. 7578), 13111 (14 F.R. 1730), 14349 (15 F.R. 1575), 17366 (16 F.R. 2483), and 17952 (16 F.R. 6162) andcopyrights vested with respect to the motion picture listed last in exhibit A of vesting order 11803, as amended (13 F.R. 5167, 15 F.R. 1626), are hereby divested as a matter of grace, effective the ninety-first day after October 22, 1962, and the persons entitled thereto shall on that day succeed to the rights, privileges, and obligations arising out of such copyrights, subject, however, to—
 
 &emsp;(1) the rights of licensees under licenses issued by the Alien Property Custodian or the Attorney General in respect of such copyrights;
 
@@ -56,7 +56,7 @@ Section was formerly classified to section 42 of the former Appendix to this tit
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1982 Amendment
 

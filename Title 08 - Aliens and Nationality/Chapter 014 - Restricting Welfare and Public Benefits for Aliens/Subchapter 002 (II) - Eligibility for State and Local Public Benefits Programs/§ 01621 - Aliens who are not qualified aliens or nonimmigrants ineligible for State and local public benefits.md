@@ -22,7 +22,7 @@ Subsection (a) shall not apply with respect to the following State or local publ
 
 &emsp;(3) Public health assistance for immunizations with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
 
-&emsp;(4) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (C) are necessary for the protection of life or safety.
+&emsp;(4) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (A) deliver in-kind services at the community level, includingthrough public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (C) are necessary for the protection of life or safety.
 
 #### (c) "State or local public benefit" defined
 
@@ -52,7 +52,7 @@ A State may provide that an alien who is not lawfully present in the United Stat
 
 The Immigration and Nationality Act, referred to in subsecs. (a)(2) and (c)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-Section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658, referred toin subsec. (c)(2)(A), means section 141 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of Title 48, Territories and Insular Possessions, and section 141 of the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of Title 48.
+Section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658, referred to in subsec. (c)(2)(A), means section 141 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of Title 48, Territories and Insular Possessions, and section 141 of the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of Title 48.
 
 #### Amendments
 
@@ -68,13 +68,5 @@ Amendment by Pub. L. 105–33 effective as if included in the enactment of title
 
 #### Pilot Programs on Limiting Issuance of Driver's License to Illegal Aliens
 
-Pub. L. 104–208, div. C, title V, §502, Sept. 30, 1996, 110 Stat. 3009–671, provided that:
-
-"(a)
-
-In General.—Pursuant to guidelines prescribed by the Attorney General not later than 6 months after the date of the enactment of this Act \[Sept. 30, 1996\], all States may conduct pilot programs within their State to determine the viability, advisability, and cost-effectiveness of the State's denying driver's licenses to aliens who are not lawfully present in the United States. Under a pilot program a State may deny a driver's license to aliens who are not lawfully present in the United States. Such program shall be conducted in cooperation with relevant State and local authorities.
-
-"(b)
-
-Report.—Not later than 3 years after the date of the enactment of this Act, the Attorney General shall submit a report to the Judiciary Committees of the House of Representatives and of the Senate on the results of the pilot programs conducted under subsection (a)."
+Pub. L. 104–208, div. C, title V, §502, Sept. 30, 1996, 110 Stat. 3009–671, provided that pursuant to guidelines by the Attorney General, all States could conduct pilot programs to determine the viability, advisability, and cost-effectiveness of denying driver's licenses to aliens not lawfully present in the United States and, not later than 3 years after Sept. 30, 1996, the Attorney General should submit a report to the Judiciary Committees of Congress.
 

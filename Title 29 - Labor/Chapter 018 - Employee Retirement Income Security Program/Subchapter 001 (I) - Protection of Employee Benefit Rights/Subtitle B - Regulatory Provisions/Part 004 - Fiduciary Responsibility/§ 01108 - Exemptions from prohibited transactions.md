@@ -78,7 +78,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(A) the transaction is—
 
-&emsp;&emsp;&emsp;(i) the provision of the investment advice to the participant or beneficiary ofthe plan with respect to a security or other property available as an investment under the plan,
+&emsp;&emsp;&emsp;(i) the provision of the investment advice to the participant or beneficiary of the plan with respect to a security or other property available as an investment under the plan,
 
 &emsp;&emsp;&emsp;(ii) the acquisition, holding, or sale of a security or other property available as an investment under the plan pursuant to the investment advice, or
 
@@ -132,9 +132,9 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;(18)
 
-Foreign exchange transactions.—Any foreign exchange transactions, between a bank or broker-dealer (or any affiliate of either), and a plan (as defined in section 1002(3) of this title) with respect to which such bank or broker-dealer (or affiliate) is a trustee, custodian, fiduciary, or other party in interest, if—
+Foreign exchange transactions.—Any foreign exchange transactions, between a bank or broker-dealer (or any affiliate of either), and a plan (as defined in section 1002(3) of thistitle) with respect to which such bank or broker-dealer (or affiliate) is a trustee, custodian, fiduciary, or other party in interest, if—
 
-&emsp;&emsp;(A) the transaction is in connection with the purchase, holding, or sale of securities orother investment assets (other than a foreign exchange transaction unrelated to any other investment in securities or other investment assets),
+&emsp;&emsp;(A) the transaction is in connection with the purchase, holding, or sale of securities or other investment assets (other than a foreign exchange transaction unrelated to any other investment in securities or other investment assets),
 
 &emsp;&emsp;(B) at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm's length <sup>1</sup> foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm's-length foreign exchange transactions involving unrelated parties,
 
@@ -170,7 +170,7 @@ Cross trading.—Any transaction described in sections 1106(a)(1)(A) and 1106(b)
 
 &emsp;(B) Subparagraph (A) does not apply to any transaction between a plan and a plan sponsor or its affiliates that involves the acquisition or sale of an employer security (as defined in section 1107(d)(1) of this title) or the acquisition, sale, or lease of employer real property (as defined in section 1107(d)(2) of this title).
 
-&emsp;(C) In the case of any fiduciary or other party in interest (or any other person knowingly participating in such transaction), subparagraph (A) does not apply to any transaction if, at the time the transaction occurs, such fiduciary or party in interest (or other person) knew (or reasonably should haveknown) that the transaction would (without regard to this paragraph) constitute a violation of section 1106(a) of this title.
+&emsp;(C) In the case of any fiduciary or other party in interest (or any other person knowingly participating in such transaction), subparagraph (A) does not apply to any transaction if, at the time the transaction occurs, such fiduciary or party in interest (or other person) knew (or reasonably should have known) that the transaction would (without regard to this paragraph) constitute a violation of section 1106(a) of this title.
 
 &emsp;(D) For purposes of this paragraph, the term "correction period" means, in connection with a fiduciary or party in interest (or other person knowingly participating in the transaction), the 14-day period beginning on the date on which such fiduciary or party in interest (or other person) discovers, or reasonably should have discovered, that the transaction would (without regard to this paragraph) constitute a violation of section 1106(a) of this title.
 
@@ -234,7 +234,7 @@ Sections 1106 and 1107 of this title shall not apply to the acquisition or sale 
 
 &emsp;&emsp;(A) the plan is an eligible individual account plan (as defined in section 1107(d)(3) of this title), or
 
-&emsp;&emsp;(B) in the case of an acquisition or lease of qualifying employer real property by a plan which is not an eligible individual account plan, or of an acquisition of qualifying employer securities by such a plan, the lease or acquisition is not prohibited by section 1107(a) of this title.
+&emsp;&emsp;(B) in the case of an acquisition or lease of qualifying employer real property by a planwhich is not an eligible individual account plan, or of an acquisition of qualifying employer securities by such a plan, the lease or acquisition is not prohibited by section 1107(a) of this title.
 
 #### (f) Applicability of statutory prohibitions to mergers or transfers
 
@@ -312,7 +312,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 #### (5) Annual audit
 
-&emsp;The requirements of this paragraph are met if an independent auditor, who has appropriate technical training or experience and proficiency and so represents in writing—
+&emsp;The requirements of this paragraph are met if an independent auditor, who has appropriatetechnical training or experience and proficiency and so represents in writing—
 
 &emsp;&emsp;(A) conducts an annual audit of the arrangement for compliance with the requirements of this subsection, and
 
@@ -428,17 +428,61 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 &emsp;&emsp;The term "registered representative" of another entity means a person described in section 3(a)(18) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(18)) (substituting the entity for the broker or dealer referred to in such section) or a person described in section 202(a)(17) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(17)) (substituting the entity for the investment adviser referred to in such section).
 
-(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(l)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–16, title VI, §612(b), June 7, 2001, 115 Stat. 100; Pub. L. 108–218, title II, §204(b)(3), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(3), Oct. 22,2004, 118 Stat. 1551; Pub. L. 109–280, title I, §108(a)(11), formerly §107(a)(11), title VI, §§601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, 120 Stat. 819, 952, 953, 967–969, 971, 972, 975, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §106(a)(1), (b)(1), Dec. 23, 2008, 122 Stat. 5106; Pub. L. 112–141, div. D, title II, §40241(b), July 6, 2012, 126 Stat. 859; Pub. L. 114–41, title II, §2007(b), July 31, 2015, 129 Stat. 459.)
+#### (h) Provision of pharmacy benefit services
+
+#### (1) In general
+
+&emsp;Provided that all of the conditions described in paragraph (2) are met, the restrictions imposed by subsections (a), (b)(1), and (b)(2) of section 1106 of this title shall not apply to—
+
+&emsp;&emsp;(A) the offering of pharmacy benefit services to a group health plan that is sponsored by an entity described in section 1002(37)(G)(vi) of this title or to any other group health plan that is sponsored by a regional council, local union, or other labor organization affiliated with such entity;
+
+&emsp;&emsp;(B) the purchase of pharmacy benefit services by plan participants and beneficiaries of a group health plan that is sponsored by an entity described in section 1002(37)(G)(vi) of this title or of any other group health plan that is sponsored by a regional council, local union, or other labor organization affiliated with such entity; or
+
+&emsp;&emsp;(C) the operation or implementation of pharmacy benefit services by an entity described in section 1002(37)(G)(vi) of this title or by any other group health plan that is sponsored by a regional council, local union, or other labor organization affiliated with such entity,
+
+> &emsp;in any arrangement where such entity described in section 1002(37)(G)(vi) of this title or any related organization or subsidiary of such entity provides pharmacy benefit services that include prior authorization and appeals, a retail pharmacy network, pharmacy benefit administration, mail order fulfillment, formulary support, manufacturer payments, audits, and specialty pharmacy and goods, to any such group health plan.
+
+#### (2) Conditions
+
+&emsp;The conditions described in this paragraph are the following:
+
+&emsp;&emsp;(A) The terms of the arrangement are at least as favorable to the group health plan as such group health plan could obtain in a similar arm's length arrangement with an unrelated third party.
+
+&emsp;&emsp;(B) At least 50 percent of the providers participating in the pharmacy benefit services offered by the arrangement are unrelated to the contributing employers or any other party in interest with respect to the group health plan.
+
+&emsp;&emsp;(C) The group health plan retains an independent fiduciary who will be responsible for monitoring the group health plan's consultants, contractors, subcontractors, and other service providers for purposes of pharmacy benefit services described in paragraph (1) offered by such entity or any of its related organizations or subsidiaries and monitors the transactions of such entity and any of its related organizations or subsidiaries to ensure that all conditions of this exemption are satisfied during each plan year.
+
+&emsp;&emsp;(D) Any decisions regarding the provision of pharmacy benefit services described in paragraph (1) are made by the group health plan's independent fiduciary, based on objective standards developed by the independent fiduciary in reliance on information provided by the arrangement.
+
+&emsp;&emsp;(E) The independent fiduciary of the group health plan provides an annual report to the Secretary and the congressional committees of jurisdiction attesting that the conditions described in subparagraphs (C) and (D) have been met for the applicable plan year, together with a statement that use of the arrangement's services are in the best interest of the participants and beneficiaries in the aggregate for that plan year compared to other similar arrangements the group health plan could have obtained in transactions with an unrelated third party.
+
+&emsp;&emsp;(F) The arrangement is not designed to benefit any party in interest with respect to the group health plan.
+
+#### (3) Violations
+
+&emsp;In the event an entity described in section 1002(37)(G)(vi) of this title or any affiliate of such entity violates any of the conditions of such exemption, such exemption shall not apply with respect to such entity or affiliate and all enforcement and claims available under this chapter shall apply with respect to such entity or affiliate.
+
+#### (4) Rule of construction
+
+&emsp;Nothing in this subsection shall be construed to modify any obligation of a group health plan otherwise set forth in this chapter.
+
+#### (5) Group health plan
+
+&emsp;In this subsection, the term "group health plan" has the meaning given such term in section 1191b(a) of this title.
+
+(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(l)(5), 7891(a), 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–16, title VI, §612(b), June 7, 2001, 115 Stat. 100; Pub. L. 108–218, title II, §204(b)(3), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(3), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §108(a)(11), formerly §107(a)(11), title VI, §§601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, 120 Stat. 819, 952, 953, 967–969, 971, 972, 975, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §106(a)(1), (b)(1), Dec. 23, 2008, 122 Stat. 5106; Pub. L. 112–141, div. D, title II, §40241(b), July 6, 2012, 126 Stat. 859; Pub. L. 114–41, title II, §2007(b), July 31, 2015, 129 Stat. 459; Pub. L. 116–94, div. P, title XIII, §1302(a), Dec. 20, 2019, 133 Stat. 3204.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (h)(3), (4), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The Investment Advisers Act of 1940, referred to in subsec. (g)(11)(A)(i), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
 The Securities Exchange Act of 1934, referred to in subsec. (g)(11)(A)(iv), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (h). Pub. L. 116–94 added subsec. (h).
 
 <b>2015</b>—Subsec. (b)(13). Pub. L. 114–41 substituted "January 1, 2026" for "January 1, 2022" and "July 31, 2015" for "July 6, 2012". The latter substitution was executed to reflect the probable intent of Congress notwithstanding an extra closing quotation mark in the directory language.
 
@@ -506,7 +550,7 @@ Amendment by section 108(a)(11) of Pub. L. 109–280 applicable to plan years be
 
 Pub. L. 109–280, title VI, §601(a)(3), Aug. 17, 2006, 120 Stat. 958, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to advice referred to in section 3(21)(A)(ii) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(21)(A)(ii)\] provided after December 31, 2006."
 
-Amendment by section 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1) of Pub. L. 109–280 applicable to transactions occurring after Aug. 17, 2006, see section 611(h)(1) of Pub.L. 109–280, set out as a note under section 4975 of Title 26, Internal Revenue Code.
+Amendment by section 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1) of Pub. L. 109–280 applicable to transactions occurring after Aug. 17, 2006, see section 611(h)(1) of Pub. L. 109–280, set out as a note under section 4975 of Title 26, Internal Revenue Code.
 
 Amendment by section 612(a) of Pub. L. 109–280 applicable to any transaction which the fiduciary or disqualified person discovers, or reasonably should have discovered, after Aug. 17, 2006, constitutes a prohibited transaction, see section 612(c) of Pub. L. 109–280, set out as a note under section 4975 of Title 26, Internal Revenue Code.
 
@@ -559,6 +603,10 @@ Pub. L. 109–280, title VI, §611(g)(3), Aug. 17, 2006, 120 Stat. 975, provided
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this part call for the promulgation of regulations, see sections 1031 and 1114 of this title.
+
+#### Applicability of Amendments by Pub. L. 116–94
+
+With respect to a group health plan subject to subsec. (h) of this section and section 4975(c) of Title 26, Internal Revenue Code, as amended by section 1302(a), (b) of div. P of Pub. L. 116–94, beginning at the end of the fifth plan year of such group health plan that begins after Dec. 20, 2019, subsec. (h) of this section and section 4975(c) of Title 26 to have no force or effect, see section 1302(c) of div. P of Pub. L. 116–94, set out as a note under section 4975 of Title 26.
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 

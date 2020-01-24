@@ -96,7 +96,7 @@ The remedy for a violation of subsection (b) shall be such remedy as would be ap
 
 #### (4) Detailed personnel
 
-&emsp;The Attorney General, the Secretary of Transportation, and the Architectural and Transportation Barriers Compliance Boardmay, on request of the Executive Director, detail to the Office such personnel as may be necessary to advise and assist the Office in carrying out its duties under this section.
+&emsp;The Attorney General, the Secretary of Transportation, and the Architectural and Transportation Barriers Compliance Board may, on request of the Executive Director, detail to the Office such personnel as may be necessary to advise and assist the Office in carrying out its duties under this section.
 
 #### (g) Omitted
 

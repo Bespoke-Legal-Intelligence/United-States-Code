@@ -34,7 +34,7 @@ Activities described in this subsection are as follows:
 
 &emsp;&emsp;(A) The entity has demonstrated capability to carry out the activities described in subsection (b).
 
-&emsp;&emsp;(B) In carrying out such activities, the entity agrees to cooperate with the InspectorGeneral of the Department of Health and Human Services, the Attorney General, and other law enforcement agencies, as appropriate, in the investigation and deterrence of fraud and abuse in relation to this subchapter and in other cases arising out of such activities.
+&emsp;&emsp;(B) In carrying out such activities, the entity agrees to cooperate with the Inspector General of the Department of Health and Human Services, the Attorney General, and other law enforcement agencies, as appropriate, in the investigation and deterrence of fraud and abuse in relation to this subchapter and in other cases arising out of such activities.
 
 &emsp;&emsp;(C) The entity complies with such conflict of interest standards as are generally applicable to Federal acquisition and procurement.
 
@@ -110,7 +110,7 @@ Activities described in this subsection are as follows:
 
 #### (3) Increase in CMS staffing devoted to protecting Medicaid program integrity
 
-&emsp;From the amounts appropriated under paragraph (1), the Secretary shall increase by 100,or such number as determined necessary by the Secretary to carry out the Program, the number of full-time equivalent employees whose duties consist solely of protecting the integrity of the Medicaid program established under this section by providing effective support and assistance to States to combat provider fraud and abuse.
+&emsp;From the amounts appropriated under paragraph (1), the Secretary shall increase by 100, or such number as determined necessary bythe Secretary to carry out the Program, the number of full-time equivalent employees whose duties consist solely of protecting the integrity of the Medicaid program established under this section by providing effective support and assistance to States to combat provider fraud and abuse.
 
 #### (4) Evaluations
 

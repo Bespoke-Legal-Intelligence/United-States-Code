@@ -18,7 +18,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 &emsp;&emsp;&emsp;(i) the potential benefits and costs to consumers and covered persons, including the potential reduction of access by consumers to consumer financial products or services resulting from such rule; and
 
-&emsp;&emsp;&emsp;(ii) the impact of proposed rules on covered persons, as described in section 5516 ofthis title, and the impact on consumers in rural areas;
+&emsp;&emsp;&emsp;(ii) the impact of proposed rules on covered persons, as described in section 5516 of this title, and the impact on consumers in rural areas;
 
 &emsp;&emsp;(B) the Bureau shall consult with the appropriate prudential regulators or other Federal agencies prior to proposing a rule and during the comment process regarding consistency with prudential, market, or systemic objectives administered by such agencies; and
 
@@ -152,7 +152,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (A) In general
 
-&emsp;&emsp;The Bureau may not obtain from a covered person or service provider any personallyidentifiable financial information about a consumer from the financial records of the covered person or service provider, except—
+&emsp;&emsp;The Bureau may not obtain from a covered person or service provider any personally identifiable financial information about a consumer from the financial records of the covered person or service provider, except—
 
 &emsp;&emsp;&emsp;(i) if the financial records are reasonably described in a request by the Bureau and the consumer provides written permission for the disclosure of such information by the covered person or service provider to the Bureau; or
 
@@ -214,7 +214,7 @@ Evaluation Criteria.—When evaluating an application submitted under subsection
 
 "(c)
 
-Rule of Construction.—If, at any time prior to the submission of an application under subsection (a), the area subject to review has been designated as nonrural by any Federal agency described under subsection (b) using any of the criteria described under subsection (b), the Bureau shall not be required to consider such designation in its evaluation.
+Rule of Construction.—If, at any time prior to the submission of an application under subsection (a),the area subject to review has been designated as nonrural by any Federal agency described under subsection (b) using any of the criteria described under subsection (b), the Bureau shall not be required to consider such designation in its evaluation.
 
 "(d)
 

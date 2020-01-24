@@ -12,7 +12,7 @@ In the case of the death of a taxpayer whose taxable income is computed under an
 
 #### (1) In general
 
-&emsp;If the taxable income is computed under an accrual method of accounting, then, at theelection of the taxpayer, any real property tax which is related to a definite period of time shall be accrued ratably over that period.
+&emsp;If the taxable income is computed under an accrual method of accounting, then, at the election of the taxpayer, any real property tax which is related to a definite period of time shall be accrued ratably over that period.
 
 #### (2) When election may be made
 
@@ -50,7 +50,7 @@ If—
 
 &emsp;(4) but for the fact that the asserted liability is contested, a deduction would be allowed for the taxable year of the transfer (or for an earlier taxable year) determined after application of subsection (h),
 
-> then the deduction shall be allowed for the taxable year of the transfer. This subsection shall not apply in respect of the deduction for income, war profits, and excess profits taxes imposed by the authority of any foreign country or possession of the United States.
+> then the deduction shall be allowed for the taxable year of the transfer. This subsection shall not apply in respect of the deduction for income, war profits, and excess profits taxes imposed bythe authority of any foreign country or possession of the United States.
 
 #### (g) Prepaid interest
 
@@ -272,7 +272,7 @@ If—
 
 &emsp;&emsp;(A) this subsection shall be applied at the partner or shareholder level, and
 
-&emsp;&emsp;(B) each partner's or shareholder's proportionate share of the items of income, gain, or deduction of the partnership or S corporation for any taxable year from farming businesses attributable to the partnership or S corporation, and of any applicable subsidies received by the partnership or S corporationduring the taxable year, shall be taken into account by the partner or shareholder in applying this subsection to the taxable year of such partner or shareholder with or within which the taxable year of the partnership or S corporation ends.
+&emsp;&emsp;(B) each partner's or shareholder's proportionate share of the items of income, gain, or deduction of the partnership or S corporation for any taxable year from farming businesses attributable to the partnership or S corporation, and of any applicable subsidies received by the partnership or S corporation during the taxable year, shall be taken into account by the partner or shareholder in applying this subsection to the taxable year of such partner or shareholder with or within which the taxable year of the partnership or S corporation ends.
 
 > &emsp;The Secretary may provide rules for the application of this paragraph to any other pass-thru entity to the extent necessary to carry out the provisions of this subsection.
 
@@ -308,7 +308,7 @@ If—
 
 &emsp;&emsp;(E) any interest held by a member of the family (or a spouse of any such member) of a grandparent of an individual described in subparagraph (A), (B), (C), or (D) if the interest in the partnership or the enterprise is attributable to the active participation of the individual described in subparagraph (A), (B), (C), or (D).
 
-> &emsp;For purposes of subparagraph (A), where one farm is substituted for or added to another farm, both farms shall be treated as one farm. For purposes of subparagraph (E), the term "family" has the meaning given to such term by section 267(c)(4).
+> &emsp;For purposes of subparagraph (A), where one farm is substituted for or added to anotherfarm, both farms shall be treated as one farm. For purposes of subparagraph (E), the term "family" has the meaning given to such term by section 267(c)(4).
 
 #### (3) Farming
 
@@ -358,7 +358,7 @@ If—
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendaryear in which the taxable year begins, determined by substituting "2017" for "2016" in subparagraph (A)(ii) thereof.
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2017" for "2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;&emsp;If any amount as increased under the preceding sentence is not a multiple of $1,000, such amount shall be rounded to the nearest multiple of $1,000.
 
@@ -520,7 +520,7 @@ Amendment by section 1807(a)(1), (2) of Pub. L. 99–514 effective, except as ot
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §91(g)–(i), July 18, 1984, 98 Stat. 608, 609, as amended by Pub. L. 99–514, §2, titleXVIII, §1807(a)(3)(B), (4)(F), (5), (6), Oct. 22, 1986, 100 Stat. 2095, 2811, 2813, 2814, provided that:
+Pub. L. 98–369, div. A, title I, §91(g)–(i), July 18, 1984, 98 Stat. 608, 609, as amended by Pub. L. 99–514, §2, title XVIII, §1807(a)(3)(B), (4)(F), (5), (6), Oct. 22, 1986, 100 Stat. 2095, 2811, 2813, 2814, provided that:
 
 "(g)
 
@@ -596,7 +596,7 @@ Fixed price supply contract.—
 
 &emsp;&emsp;"(A)
 
-In general.—In the case of any fixed price supply contract entered into before March 1, 1984, the amendments made by subsection (b) \[enacting section 468 of this title\] shall not apply to any minerals extracted from such property which are sold pursuant to such contract.
+In general.—In the case of any fixed price supply contract entered into before March 1, 1984,the amendments made by subsection (b) \[enacting section 468 of this title\] shall not apply to any minerals extracted from such property which are sold pursuant to such contract.
 
 &emsp;&emsp;"(B)
 
@@ -648,7 +648,7 @@ Pub. L. 88–272, title II, §223(b), Feb. 26, 1964, 78 Stat. 76, provided that:
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–876, §3(b), Oct. 24, 1962, 76 Stat. 1199, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply only with respect to taxable years ending after December 31, 1962."
+Pub. L. 87–876, §3(b), Oct. 24, 1962, 76 Stat. 1199, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years ending after December 31, 1962."
 
 #### Effective Date of 1960 Amendment
 
@@ -698,7 +698,7 @@ Pub. L. 88–272, title II, §223(c), Feb. 26, 1964, 78 Stat. 76, provided that:
 
 "(2) Paragraph (1) shall not apply to any transfer if the assessment of any deficiency which would result from the application of the election in respect of such transfer is, on the date of the election under paragraph (1), prevented by the operation of any law or rule of law.
 
-"(3) If the taxpayer makes an election under paragraph (1), and if, on the date of such election, the assessment of any deficiency which results from the application of the election in respect of any transfer is not prevented by the operation of any law or rule of law, the period within which assessment of such deficiency may be made shall not expire earlier than 2 years after the date of the enactment of this Act \[Feb. 26, 1964\]."
+"(3) If the taxpayer makes an election under paragraph (1), and if, on the date of such election, the assessment of any deficiency which results from the application of the election in respect of any transfer is not prevented by the operation of any law or rule of law, the period within which assessment of such deficiency may be made shall not expire earlier than 2years after the date of the enactment of this Act \[Feb. 26, 1964\]."
 
 #### Certain Other Transfers in Taxable Years Beginning Before Jan. 1, 1964
 

@@ -14,7 +14,7 @@ Requirements To Provide Assistance.—The Secretary of Transportation shall prov
 
 (b)
 
-Effect on Eligibility.—This chapter does not affect the eligibility of any rail passengerterminal for preservation or reuse assistance under another program or law.
+Effect on Eligibility.—This chapter does not affect the eligibility of any rail passenger terminal for preservation or reuse assistance under another program or law.
 
 (c)
 

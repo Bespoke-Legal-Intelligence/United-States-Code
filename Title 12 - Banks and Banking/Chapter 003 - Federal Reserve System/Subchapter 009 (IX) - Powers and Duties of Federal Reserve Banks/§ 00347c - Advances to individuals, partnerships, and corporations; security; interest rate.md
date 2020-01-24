@@ -10,7 +10,7 @@ Section is comprised of the thirteenth par. of section 13 of act Dec. 23, 1913, 
 
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–505 added promissory notes secured by any obligation which is a direct obligation of, or fully guaranteed as to principal and interest by, any agency of the United States to the list of types of promissory notes on which federal reserve banks may make advances to individuals, partnerships, and corporations.
+<b>1968</b>—Pub. L. 90–505 added promissory notes secured by any obligation which is a direct obligation of, or fully guaranteed as to principal and interest by, any agency of the United States to the list of types ofpromissory notes on which federal reserve banks may make advances to individuals, partnerships, and corporations.
 
 #### Change of Name
 

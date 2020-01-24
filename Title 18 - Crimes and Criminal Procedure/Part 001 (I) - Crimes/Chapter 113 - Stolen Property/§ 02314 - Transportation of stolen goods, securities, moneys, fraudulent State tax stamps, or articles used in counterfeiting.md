@@ -16,7 +16,7 @@ Shall be fined under this title or imprisoned not more than ten years, or both. 
 
 This section shall not apply to any falsely made, forged, altered, counterfeited or spurious representation of an obligation or other security of the United States, or of an obligation, bond, certificate, security, treasury note, bill, promise to pay or bank note issued by any foreign government. This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.
 
-For purposes of this section the term "veterans' memorial object" means a grave marker,headstone, monument, or other object, intended to permanently honor a veteran or mark a veteran's grave, or any monument that signifies an event of national military historical significance.
+For purposes of this section the term "veterans' memorial object" means a grave marker, headstone, monument, or other object, intended to permanently honor a veteran or mark a veteran's grave, or any monument that signifies an event of national military historical significance.
 
 (June 25, 1948, ch. 645, 62 Stat. 806; May 24, 1949, ch. 139, §45, 63 Stat. 96; July 9, 1956, ch. 519, 70 Stat. 507; Pub. L. 87–371, §2, Oct. 4, 1961, 75 Stat. 802; Pub. L. 90–535, Sept. 28, 1968, 82 Stat. 885; Pub. L. 100–690, title VII, §§7057, 7080, Nov. 18, 1988, 102 Stat. 4402, 4406; Pub. L. 101–647, title XII, §1208, Nov. 29, 1990, 104 Stat. 4832; Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 112–186, §4(d)(1), Oct. 5, 2012, 126 Stat. 1429; Pub. L. 112–239, div. A, title X, §1084(a), Jan. 2, 2013, 126 Stat. 1963.)
 
@@ -42,7 +42,7 @@ Section 418 of title 18, U.S.C., 1940 ed., relating to venue, was omitted as com
 
 Section 418a of title 18, U.S.C., 1940 ed., relating to conspiracy, was omitted as covered by section 371 of this title, the general conspiracy section.
 
-Section 419 of title 18, U.S.C., 1940 ed., providing that nothing contained in the National Stolen Property Act should be construed to repeal, modify, or amend any part of the National Motor Vehicle Theft Act, was omitted as unnecessary, in view of this revision and reenactment of the provisions of the latter act (sections 10, 2311–2313 of this title).
+Section 419 of title 18, U.S.C., 1940 ed., providing that nothing contained in the National Stolen Property Actshould be construed to repeal, modify, or amend any part of the National Motor Vehicle Theft Act, was omitted as unnecessary, in view of this revision and reenactment of the provisions of the latter act (sections 10, 2311–2313 of this title).
 
 Changes were made in phraseology and arrangement.
 

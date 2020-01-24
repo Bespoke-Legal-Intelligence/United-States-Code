@@ -48,7 +48,7 @@ In this section, the term "facility" means—
 
 &emsp;&emsp;(D) The organization must have taken steps to communicate effectively its standards and procedures to all employees and other agents, such as by requiring participation in training programs or by disseminating publications that explain in a practical manner what is required.
 
-&emsp;&emsp;(E) The organization must have taken reasonable steps to achieve compliance with its standards, such as by utilizing monitoring and auditing systems reasonably designed to detect criminal, civil, and administrative violations under this chapter by its employees and other agents and by having in place and publicizing a reporting system whereby employees and other agents could report violations by others within the organization without fear of retribution.
+&emsp;&emsp;(E) The organization must have taken reasonable steps to achieve compliance with itsstandards, such as by utilizing monitoring and auditing systems reasonably designed to detect criminal, civil, and administrative violations under this chapter by its employees and other agents and by having in place and publicizing a reporting system whereby employees and other agents could report violations by others within the organization without fear of retribution.
 
 &emsp;&emsp;(F) The standards must have been consistently enforced through appropriate disciplinary mechanisms, including, as appropriate, discipline of individuals responsible for the failure to detect an offense.
 
@@ -108,7 +108,7 @@ Beginning not later than 2 years after March 23, 2010, and after consulting with
 
 &emsp;(4) include information on employee turnover and tenure and on the hours of care provided by each category of certified employees referenced in paragraph (1) per resident per day.
 
-> Nothing in this subsection shall be construed as preventing the Secretary from requiring submission of such information with respect to specific categories, such as nursing staff, before other categories of certified employees. Information under this subsection with respect to agency and contract staff shall be kept separate from information on employee staffing.
+> Nothing in this subsection shall be construed as preventing the Secretary from requiring submission of such information with respect to specific categories, such as nursing staff, before other categories of certified employees. Information under this subsection with respect to agency andcontract staff shall be kept separate from information on employee staffing.
 
 #### (h) Notification of facility closure
 
@@ -122,7 +122,7 @@ Beginning not later than 2 years after March 23, 2010, and after consulting with
 
 &emsp;&emsp;&emsp;(ii) in the case of a facility where the Secretary terminates the facility's participation under this subchapter, not later than the date that the Secretary determines appropriate;
 
-&emsp;&emsp;(B) ensure that the facility does not admit any new residents on or after the date onwhich such written notification is submitted; and
+&emsp;&emsp;(B) ensure that the facility does not admit any new residents on or after the date on which such written notification is submitted; and
 
 &emsp;&emsp;(C) include in the notice a plan for the transfer and adequate relocation of the residents of the facility by a specified date prior to closure that has been approved by the State, including assurances that the residents will be transferred to the most appropriate facility or other setting in terms of quality, services, and location, taking into consideration the needs, choice, and best interests of each resident.
 
@@ -200,7 +200,7 @@ Responsibilities.—An independent monitor that enters into a contract with the 
 
 &emsp;"(1) conduct periodic reviews and prepare root-cause quality and deficiency analyses of a chain to assess if facilities of the chain are in compliance with State and Federal laws and regulations applicable to the facilities;
 
-&emsp;"(2) conduct sustained oversight of the efforts of the chain, whether publicly or privately held, to achieve compliance by facilities of the chain with State and Federal laws and regulations applicable to the facilities;
+&emsp;"(2) conduct sustained oversight of the efforts of the chain, whether publicly or privately held, to achieve compliance by facilities of the chain withState and Federal laws and regulations applicable to the facilities;
 
 &emsp;"(3) analyze the management structure, distribution of expenditures, and nurse staffing levels of facilities of the chain in relation to resident census, staff turnover rates, and tenure;
 

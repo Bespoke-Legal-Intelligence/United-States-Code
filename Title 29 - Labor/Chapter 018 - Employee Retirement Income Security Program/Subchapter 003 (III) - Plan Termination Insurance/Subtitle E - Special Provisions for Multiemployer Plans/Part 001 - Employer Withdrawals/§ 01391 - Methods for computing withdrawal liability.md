@@ -106,7 +106,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(I) the numerator of which is the total amount required to be contributed under the plan by the employer for the last 5 plan years ending before the date on which the employer withdraws, and
 
-&emsp;&emsp;(II) the denominator of which is the total amount contributed under the plan by allemployers for the last 5 plan years ending before the date on which the employer withdraws, increased by the amount of any employer contributions owed with respect to earlier periods which were collected in those plan years, and decreased by any amount contributed by an employer who withdrew from the plan under this part during those plan years.
+&emsp;&emsp;(II) the denominator of which is the total amount contributed under the plan by all employers for the last 5 plan years ending before the date on which the employer withdraws, increased by the amount of any employer contributions owed with respect to earlier periods which were collected in those plan years, and decreased by any amount contributed by an employer who withdrew from the plan under this part during those plan years.
 
 (D) The corporation may by regulation permit adjustments in any denominator under this section, consistent with the purposes of this subchapter, where such adjustment would be appropriate to ease administrative burdens of plan sponsors in calculating such denominators.
 
@@ -158,7 +158,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(I) the numerator of which is the amount determined under clause (ii)(I) of this subparagraph, less the sum of benefit payments (accumulated with interest) made to participants (and their beneficiaries) for the plan years described in such clause (ii)(I) which are attributable to service with the employer; and
 
-&emsp;&emsp;(II) the denominator of which is the amount determined under clause (ii)(II) of this subparagraph, reduced by the sum of benefit payments (accumulated with interest) made to participants (and their beneficiaries) for the plan years described in suchclause (ii)(II) which are attributable to service with respect to the employers described in such clause (ii)(II).
+&emsp;&emsp;(II) the denominator of which is the amount determined under clause (ii)(II) of this subparagraph, reduced by the sum of benefit payments (accumulated with interest) made to participants (and their beneficiaries) for the plan years described in such clause (ii)(II) which are attributable to service with respect to the employers described in such clause (ii)(II).
 
 (E) The amount of the plan's unfunded vested benefits for a plan year preceding the plan year in which an employer withdraws, which is not attributable to service with employers who have an obligation to contribute under the plan in the plan year preceding the plan year in which such employer withdraws, is equal to—
 
@@ -182,7 +182,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 (5)(A) The corporation shall prescribe by regulation a procedure by which a plan may, by amendment, adopt any other alternative method for determining an employer's allocable share of unfunded vested benefits under this section, subject to the approval of the corporation based on its determination that adoption of the method by the plan would not significantly increase the risk of loss to plan participants and beneficiaries or to the corporation.
 
-(B) The corporation may prescribe by regulation standard approaches for alternative methods, other than those set forth in the preceding paragraphs of this subsection, which a plan may adopt under subparagraph (A), for which the corporation may waive or modify the approval requirements of subparagraph (A). Any alternative method shall provide for the allocation of substantially all of a plan's unfunded vested benefits among employers who have an obligation to contribute under the plan.
+(B) The corporation may prescribe by regulation standard approaches for alternative methods, other than those set forth in the preceding paragraphs of this subsection, which a plan may adopt under subparagraph (A), for which the corporation may waive or modify the approval requirements of subparagraph (A). Any alternativemethod shall provide for the allocation of substantially all of a plan's unfunded vested benefits among employers who have an obligation to contribute under the plan.
 
 (C) Unless the corporation by regulation provides otherwise, a plan may be amended to provide that a period of more than 5 but not more than 10 plan years may be used for determining the numerator and denominator of any fraction which is used under any method authorized under this section for determining an employer's allocable share of unfunded vested benefits under this section.
 

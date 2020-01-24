@@ -240,7 +240,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) The transfer of such applicable retained interest.
 
-&emsp;&emsp;&emsp;(iii) At the election of the taxpayer, the payment of any qualified payment after the period described in paragraph (2)(C), but only with respect to such payment.
+&emsp;&emsp;&emsp;(iii) At the election of the taxpayer, the payment of any qualified payment afterthe period described in paragraph (2)(C), but only with respect to such payment.
 
 #### (B) Exception where spouse is transferee
 
@@ -408,15 +408,9 @@ Exception.—For purposes of subparagraph (A)(i), with respect to property trans
 
 #### Time for Election Under Subsection (c)(3)(C)(i)
 
-Pub. L. 104–188, title I, §1702(f)(5)(C), Aug. 20, 1996, 110 Stat. 1871, provided that: "The time for making an election under the second sentence of section 2701(c)(3)(C)(i) of the Internal Revenue Code of 1986 (as amended by subparagraph (A)) shall not expire before the due date (including extensions) for filing the transferor's return of the tax imposed by section 2501 of such Code for thefirst calendar year ending after the date of enactment \[probably means the date of enactment of Pub. L. 104–188, Oct. 20, 1996\]."
+Pub. L. 104–188, title I, §1702(f)(5)(C), Aug. 20, 1996, 110 Stat. 1871, provided that: "The time for making an election under the second sentence of section 2701(c)(3)(C)(i) of the Internal Revenue Code of 1986 (as amended by subparagraph (A)) shall not expire before the due date (including extensions) for filing the transferor's return of the tax imposed by section 2501 of such Code for the first calendar year ending after the date of enactment \[probably means the date of enactment of Pub. L. 104–188, Oct. 20, 1996\]."
 
 #### Study of Methods Used To Distort Valuation of Property for Purposes of Estate and Gift Tax
 
-Pub. L. 101–508, title XI, §11602(d), Nov. 5, 1990, 104 Stat. 1388–500, provided that: "The Secretary of the Treasury shall conduct a study of—
-
-&emsp;"(1) the prevalence and types of options and agreements used to distort the valuation of property for purposes of subtitle B of the Internal Revenue Code of 1986, and
-
-&emsp;"(2) other methods using discretionary rights to distort the value of property for such purposes.
-
-> The Secretary shall, not later than December 31, 1992, report the results of such study, together with such legislative recommendations as the Secretary considers necessary, to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives."
+Pub. L. 101–508, title XI, §11602(d), Nov. 5, 1990, 104 Stat. 1388–500, directed the Secretary of the Treasury to conduct a study of the prevalence and types of options and agreements used to distort the valuation of property for purposes of subtitle B of the Internal Revenue Code of 1986, and other methods using discretionary rights to distort this valuation, and report to Congress the results of the study, together with any legislative recommendations, not later than Dec. 31, 1992.
 

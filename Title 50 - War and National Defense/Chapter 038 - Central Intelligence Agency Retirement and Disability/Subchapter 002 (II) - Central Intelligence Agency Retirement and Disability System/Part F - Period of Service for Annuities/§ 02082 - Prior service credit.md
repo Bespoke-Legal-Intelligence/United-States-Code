@@ -30,7 +30,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 &emsp;A participant who received a refund of retirement contributions under this or any other retirement system for Government employees covering service for which the participant may be allowed credit under this subchapter may deposit the amount received, with interest computed under paragraph (1). Credit may not be allowed for the service covered by the refund until the deposit is made, except that a participant who—
 
-&emsp;&emsp;(A) separated from Government service before October 1, 1990, and received a refund of the participant's retirement contributions covering a period of service ending before October 1, 1990;
+&emsp;&emsp;(A) separated from Government service before March 31, 1991, and received a refund of the participant's retirement contributions covering a period of service ending before March 31, 1991;
 
 &emsp;&emsp;(B) is entitled to an annuity under this subchapter (other than a disability annuity) which commences after December 1, 1992; and
 
@@ -110,7 +110,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section (except paragraph (3) of this subsection) or section 2083 of this title, any military service (other than military service covered by military leave with pay from a civilian position) performed by a participant after December 1956 shall be excluded in determining the aggregate period of service on which an annuity payable under this subchapter to such participant or to the participant's spouse, former spouse, previous spouse, or child is based, if such participant, spouse, former spouse, previous spouse, or child is entitled (or would upon proper application be entitled), atthe time of such determination, to monthly old-age or survivors' insurance benefits under section 402 of title 42, based on such participant's wages and self-employment income. If the military service is not excluded under the preceding sentence, but upon attaining age 62, the participant or spouse, former spouse, or previous spouse becomes entitled (or would upon proper application be entitled) to such benefits, the aggregate period of service on which the annuity is based shall be redetermined, effective as of the first day of the month in which the participant or spouse, former spouse, or previous spouse attains age 62, so as to exclude such service.
+&emsp;Notwithstanding any other provision of this section (except paragraph (3) of this subsection) or section 2083 of this title, any military service (other than military service covered by military leave with pay from a civilian position) performed by a participant after December 1956 shall be excluded in determining the aggregate period of service on which an annuity payable under this subchapter to such participant or to the participant's spouse, former spouse, previous spouse, or child is based, if such participant, spouse, former spouse, previous spouse, or child is entitled (or would upon proper application be entitled), at the time of such determination, to monthly old-age or survivors' insurance benefits under section 402 of title 42, based on such participant's wages and self-employment income. If the military service is not excluded under the preceding sentence, but upon attaining age 62, the participant or spouse, former spouse, or previous spouse becomes entitled (or would upon proper application be entitled) to such benefits, the aggregate period of service on which the annuity is based shall be redetermined, effective as of the first day of the month in which the participant or spouse, former spouse, or previous spouse attains age 62, so as to exclude such service.
 
 #### (2) Limitation
 
@@ -124,7 +124,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 &emsp;(A) The annuity recomputation required by paragraph (1) shall not apply to any participant who was entitled to an annuity under this subchapter on or before September 8, 1982, or who is entitled to a deferred annuity based on separation from the Agency occurring on or before such date. Instead of an annuity recomputation, the annuity of such participant shall be reduced at age 62 by an amount equal to a fraction of the participant's old-age or survivors' insurance benefits under section 402 of title 42. The reduction shall be determined by multiplying the participant's monthly Social Security benefit by a fraction, the numerator of which is the participant's total military wages and deemed additional wages (within the meaning of section 429 of title 42) that were subject to Social Security deductions and the denominator of which is the total of all the participant's wages, including military wages, and all self-employment income that were subject to Social Security deductions before the calendar year in which the determination month occurs.
 
-&emsp;(B) The reduction determined in accordance with subparagraph (A) shall not be greater than the reduction that would be required under paragraph (1) if such paragraph applied to the participant. The new formula shall be applicable to any annuity payment payable after October 1, 1982, including annuity payments to participants who had previously reached age 62 and whose annuities had already been recomputed.
+&emsp;(B) The reduction determined in accordance with subparagraph (A) shall not be greaterthan the reduction that would be required under paragraph (1) if such paragraph applied to the participant. The new formula shall be applicable to any annuity payment payable after October 1, 1982, including annuity payments to participants who had previously reached age 62 and whose annuities had already been recomputed.
 
 &emsp;(C) For purposes of this paragraph, the term "determination month" means—
 
@@ -159,9 +159,9 @@ For the purpose of survivor annuities, deposits authorized by subsections (b) an
 
 (3) Any payment received by the Director under this subsection shall be deposited in the Treasury of the United States to the credit of the fund.
 
-(4) The provisions of section 2031(k) of this title shall apply with respect to such information as the Director determines to be necessary for the administration of this subsection in the same manner that such section applies concerning information described in that section.
+(4) The provisions of section 2031(l) of this title shall apply with respect to such information as the Director determines to be necessary for the administration of this subsection in the same manner that such section applies concerning information described in that section.
 
-(Pub. L. 88–643, title II, §252, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3229; amended Pub. L. 105–33, title VII, §7001(c)(3), Aug. 5, 1997, 111 Stat. 659; Pub. L. 106–346, §101(a) \[title V, §505(c)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53.)
+(Pub. L. 88–643, title II, §252, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3229; amended Pub. L. 105–33, title VII, §7001(c)(3), Aug. 5, 1997, 111 Stat. 659; Pub. L. 106–346, §101(a) \[title V, §505(c)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 116–92, div. E, title LXII, §6202(a)(2)(A)(ii), (c), Dec. 20, 2019, 133 Stat. 2185, 2186.)
 
 #### References in Text
 
@@ -169,13 +169,21 @@ Chapter 67 of title 10, referred to in subsec. (e)(3)(B), was transferred to par
 
 #### Prior Provisions
 
-A prior section 252 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050; Pub. L. 91–626, §§5, 6, Dec. 31, 1970, 84Stat. 1872; Pub. L. 94–522, title II, §211, Oct. 17, 1976, 90 Stat. 2471; Ex. Ord. No. 12443, §§9–11, 15, Sept. 27, 1983, 48 F.R. 44753, 44755; Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, related to prior service credit and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 252 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050; Pub. L. 91–626, §§5, 6, Dec. 31, 1970, 84 Stat. 1872; Pub. L. 94–522, title II, §211, Oct. 17, 1976, 90 Stat. 2471; Ex. Ord. No. 12443, §§9–11, 15, Sept. 27, 1983, 48 F.R. 44753, 44755; Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, related to prior service credit and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(3)(A). Pub. L. 116–92, §6202(c), substituted "March 31, 1991" for "October 1, 1990" in two places.
+
+Subsec. (h)(4). Pub. L. 116–92, §6202(a)(2)(A)(ii), substituted "2031(l)" for "2031(k)".
 
 <b>2000</b>—Subsec. (h)(1)(A). Pub. L. 106–346, in introductory provisions, substituted "December 31, 2000" for "December 31, 2002" and in table struck out item at end relating to payment of 7.5 percent of basic pay for service period January 1, 2001, to December 31, 2002.
 
 <b>1997</b>—Subsec. (h)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4)."
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–92 effective as if enacted on Oct. 28, 2009, and applicable to computations or participants, respectively, as of such date, see section 6202(e) of Pub. L. 116–92, set out as a note under section 2031 of this title.
 
 #### Effective Date of 2000 Amendment
 

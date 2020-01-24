@@ -36,7 +36,7 @@ The Commission may take any action to develop and promote financial literacy and
 
 #### Effective Date
 
-Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Boardand Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of Title 15, Commerce and Trade.
+Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of Title 15, Commerce and Trade.
 
 #### Definitions
 

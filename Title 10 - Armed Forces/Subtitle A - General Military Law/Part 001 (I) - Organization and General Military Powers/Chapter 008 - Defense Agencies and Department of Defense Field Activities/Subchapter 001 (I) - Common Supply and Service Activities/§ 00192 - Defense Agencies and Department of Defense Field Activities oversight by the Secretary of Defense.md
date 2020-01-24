@@ -2,7 +2,7 @@
 
 (a)
 
-Overall Supervision.—(1) The Secretary of Defense shall assign responsibility for theoverall supervision of each Defense Agency and Department of Defense Field Activity designated under section 191(b) of this title—
+Overall Supervision.—(1) The Secretary of Defense shall assign responsibility for the overall supervision of each Defense Agency and Department of Defense Field Activity designated under section 191(b) of this title—
 
 &emsp;(A) to a civilian officer within the Office of the Secretary of Defense listed in section 131(b) of this title; or
 

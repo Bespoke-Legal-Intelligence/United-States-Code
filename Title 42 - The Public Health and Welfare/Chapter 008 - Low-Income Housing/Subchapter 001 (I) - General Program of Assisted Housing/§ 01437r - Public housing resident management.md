@@ -22,7 +22,7 @@ The purpose of this section is to encourage increased resident management of pub
 
 #### (3) Bonding and insurance
 
-&emsp;Before assuming any management responsibility for a public housing project, the resident management corporation shall provide fidelity bonding and insurance, or equivalent protection, in accordance with regulations and requirements of the Secretary and the public housing agency. Such bonding and insurance, or its equivalent, shall be adequate to protect the Secretary and the public housing agency against loss, theft, embezzlement, or fraudulent acts on the part of the resident management corporation or its employees.
+&emsp;Before assuming any management responsibility for a public housing project, the resident management corporation shall provide fidelity bonding and insurance, or equivalent protection, in accordance with regulations and requirements of the Secretary and the publichousing agency. Such bonding and insurance, or its equivalent, shall be adequate to protect the Secretary and the public housing agency against loss, theft, embezzlement, or fraudulent acts on the part of the resident management corporation or its employees.
 
 #### (4) Management responsibilities
 
@@ -36,7 +36,7 @@ The purpose of this section is to encourage increased resident management of pub
 
 A contract under this section for management of a public housing project by a resident management corporation shall provide for—
 
-&emsp;(1) the public housing agency to provide a portion of the assistance to agency from the Capital and Operating Funds to the resident management corporation in accordance with subsection (e) for purposes of operating thepublic housing project covered by the contract and performing such other eligible activities with respect to the project as may be provided under the contract;
+&emsp;(1) the public housing agency to provide a portion of the assistance to agency from the Capital and Operating Funds to the resident management corporation in accordance with subsection (e) for purposes of operating the public housing project covered by the contract and performing such other eligible activities with respect to the project as may be provided under the contract;
 
 &emsp;(2) the amount of income expected to be derived from the project itself (from sources such as rents and charges);
 

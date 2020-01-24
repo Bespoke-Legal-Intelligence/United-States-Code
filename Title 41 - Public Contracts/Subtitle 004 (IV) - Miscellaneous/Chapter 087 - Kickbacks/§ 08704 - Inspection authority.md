@@ -6,13 +6,9 @@ In General.—To ascertain whether there has been a violation of section 8702 of
 
 (b)
 
-Exception.—This section does not apply to a prime contract for the acquisition of commercial items (as defined in section 103 of this title).
+Exception.—This section does not apply to a prime contract for the acquisition of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title).
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3839; Pub. L. 115–232, div. A, title VIII, §836(b)(20), Aug. 13, 2018, 132 Stat. 1864.)
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(20), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking "commercial items (as defined in section 103 of this title)" and inserting "commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 

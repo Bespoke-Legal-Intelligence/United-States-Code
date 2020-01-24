@@ -86,7 +86,7 @@ Pub. L. 114–180, June 22, 2016, 130 Stat. 445, provided that:
 
 &emsp;"(4) Federal law enforcement officers remain a target even when they are off-duty. Over the past 3 years, 27 law enforcement officers have been killed off-duty.
 
-&emsp;"(5) It is essential that law enforcement officers are able to defend themselves, so they can carry out their critical missions and ensure their own personal safety and the safety of their families whether on-duty or off-duty.
+&emsp;"(5) It is essential that law enforcement officers are able to defend themselves, so they can carry out theircritical missions and ensure their own personal safety and the safety of their families whether on-duty or off-duty.
 
 &emsp;"(6) These dangers to law enforcement officers continue to exist during a covered furlough.
 

@@ -77,7 +77,7 @@ For purposes of this section—
 
 #### (7) Fuel
 
-&emsp;The term "fuel" means gasoline and diesel fuel. The Secretary (after consultation with the Secretary of Transportation) may, by regulation, include any product of petroleum or natural gas within the meaning of such term if he determines that such inclusion is consistent with the need of the Nation to conserve energy.
+&emsp;The term "fuel" means gasoline and diesel fuel. The Secretary (after consultation withthe Secretary of Transportation) may, by regulation, include any product of petroleum or natural gas within the meaning of such term if he determines that such inclusion is consistent with the need of the Nation to conserve energy.
 
 #### (c) Determination of fuel economy
 
@@ -127,7 +127,7 @@ Subsec. (b)(5). Pub. L. 99–514, §1812(e)(1)(B)(ii), amended par. (5) generall
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title XI, §11111(b), Aug. 10, 2005, 119 Stat. 1946, provided that: "The amendment made bythis section \[amending this section\] shall take effect on October 1, 2005."
+Pub. L. 109–59, title XI, §11111(b), Aug. 10, 2005, 119 Stat. 1946, provided that: "The amendment made by this section \[amending this section\] shall take effect on October 1, 2005."
 
 #### Effective Date of 1990 Amendment
 

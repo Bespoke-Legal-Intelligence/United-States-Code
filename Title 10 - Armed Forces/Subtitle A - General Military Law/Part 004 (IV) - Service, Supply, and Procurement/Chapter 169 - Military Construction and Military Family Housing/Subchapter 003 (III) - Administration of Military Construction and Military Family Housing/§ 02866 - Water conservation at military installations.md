@@ -66,3 +66,13 @@ Use of Water Cost Savings.—Water cost savings realized under this section shal
 
 <b>1996</b>—Subsec. (c)(2). Pub. L. 104–106 substituted "appropriate committees of Congress" for "Committees on Armed Services and Appropriations of the Senate and House of Representatives".
 
+#### Establishment of Targets for Water Use
+
+Pub. L. 116–92, div. A, title III, §319(c), Dec. 20, 2019, 133 Stat. 1306, provided that: "The Secretary of Defense shall, where life-cycle cost-effective, improve water use efficiency and management by the Department of Defense, including storm water management, by—
+
+&emsp;"(1) installing water meters and collecting and using water balance data of buildings and facilities to improve water conservation and management;
+
+&emsp;"(2) reducing industrial, landscaping, and agricultural water consumption in gallons by two percent annually through fiscal year 2030 relative to a baseline of such consumption by the Department in fiscal year 2010; and
+
+&emsp;"(3) installing appropriate sustainable infrastructure features on installations of the Department to help with storm water and wastewater management."
+

@@ -6,13 +6,13 @@ The Architect of the Capitol, subject to the direction of the Joint Committee on
 
 &emsp;(1) construct a National Garden demonstrating the diversity of plants, including the rose, our national flower, to be located between Maryland and Independence Avenues, S.W., and extending from the Botanic Garden Conservatory to Third Streets, S.W., in the District of Columbia; and
 
-&emsp;(2) solicit, receive, accept, and hold gifts, including money, plant material, and other property, on behalf of the Botanic Garden, andto dispose of, utilize, obligate, expend, disburse, and administer such gifts for the benefit of the Botanic Garden, including among other things, the carrying out of any programs, duties, or functions of the Botanic Garden, and for constructing, equipping, and maintaining the National Garden referred to in paragraph (1).
+&emsp;(2) solicit, receive, accept, and hold gifts, including money, plant material, and other property, on behalf of the Botanic Garden, and to dispose of, utilize, obligate, expend, disburse, and administer such gifts for the benefit of the Botanic Garden, including among other things, the carrying out of any programs, duties, or functions of the Botanic Garden, and for constructing, equipping, and maintaining the National Garden referred to in paragraph (1).
 
 #### (b) Gifts and bequests of money; investment; appropriations
 
 (1) Gifts or bequests of money under subsection (a)(2) shall, when received by the Architect, be deposited with the Treasurer of the United States, who shall credit these deposits as offsetting collections to an account entitled "Botanic Garden, Gifts and Donations". The gifts or bequests described under subsection (a)(2) shall be accepted only in the total amount provided in appropriations Acts.
 
-(2) The Secretary of the Treasury shall invest any portion of the account designated in paragraph (1) that, as determined by the Architect, is not required to meet current expenses. Each investment shall be made in an interest-bearing obligation of the United States or an obligation guaranteed both as to principal and interest by the United States that, as determined by the Architect, has a maturity date suitable for the purposes of the account. The Secretary of the Treasury shall credit interest earned on the obligations to the account.
+(2) The Secretary of the Treasury shall invest any portion of the account designated in paragraph (1) that, as determined by the Architect, is not required to meet current expenses. Each investment shall be made in an interest-bearingobligation of the United States or an obligation guaranteed both as to principal and interest by the United States that, as determined by the Architect, has a maturity date suitable for the purposes of the account. The Secretary of the Treasury shall credit interest earned on the obligations to the account.
 
 (3) Receipts, obligations, and expenditures of funds under this section shall be included in annual estimates submitted by the Architect for the operation and maintenance of the Botanic Garden and such funds shall be expended by the Architect, without regard to section 6101 of title 41, for the purposes of this section after approval in appropriation Acts. All such sums shall remain available until expended, without fiscal year limitation.
 
@@ -60,5 +60,5 @@ Pub. L. 102–392, title II, §201, Oct. 6, 1992, 106 Stat. 1716, as amended by 
 
 #### Renovation of Conservatory of Botanic Garden
 
-Pub. L. 102–229, title II, §209(b), Dec. 12, 1991, 105 Stat. 1717, provided that: "Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 \[2 U.S.C. 2146\], not more than $2,000,000 shall be accepted and not more than $2,000,000 of the amounts accepted shall be available for obligation by the Architect for preparation of working drawings, specifications, and cost estimates for renovation of the Conservatory of the Botanic Garden."
+Pub. L. 102–229, title II, §209(b), Dec. 12, 1991, 105 Stat. 1717, provided that under section 2146 of this title, not more than $2,000,000 could be accepted or available for obligation by the Architect for certain preparations for renovation of the Conservatory of the Botanic Garden.
 

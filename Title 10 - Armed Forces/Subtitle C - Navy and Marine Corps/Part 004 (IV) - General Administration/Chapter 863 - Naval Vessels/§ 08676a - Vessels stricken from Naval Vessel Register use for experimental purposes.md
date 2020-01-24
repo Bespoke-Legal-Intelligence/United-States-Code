@@ -16,7 +16,7 @@ Stripping and Environmental Remediation of Vessel.—(1) Before using a vessel f
 
 Use for Experimental Purposes Defined.—In this section, the term "use for experimental purposes", with respect to a vessel, includes use of the vessel in a Navy sink exercise or for target purposes.
 
-(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709, §7306a; amended Pub. L. 108–136, div. A, title X, §1012, Nov. 24, 2003, 117 Stat. 1589; renumbered §8676a, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709, §7306a; amended Pub.L. 108–136, div. A, title X, §1012, Nov. 24, 2003, 117 Stat. 1589; renumbered §8676a, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 #### Amendments
 

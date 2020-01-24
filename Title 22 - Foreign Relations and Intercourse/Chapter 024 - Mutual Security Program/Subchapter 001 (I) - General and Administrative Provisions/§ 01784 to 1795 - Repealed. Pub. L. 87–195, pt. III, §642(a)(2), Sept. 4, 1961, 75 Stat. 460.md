@@ -24,7 +24,7 @@ Section 1793a, act Aug. 26, 1954, ch. 937, ch. IV, §533A, as added July 24, 195
 
 Section 1794, acts Aug. 26, 1954, ch. 937, ch. V, §534, 68 Stat. 860; July 8, 1955, ch. 301, §10(e), 69 Stat. 289; Aug. 14, 1957, Pub. L. 85–141, §10(f), 71 Stat. 364; July 24, 1959, Pub. L. 86–108, ch. IV, §401(i), 73 Stat. 254; May 14, 1960, Pub. L. 86–472, ch. IV, §401(j), 74 Stat. 140, provided for reports to Congress and for furnishing documents and other material to General Accounting Office and committees of Congress. See section 2394 of this title.
 
-Section 1794a, act Aug. 26, 1954, ch. 937, ch. IV, §550, as added July 24, 1959, Pub. L. 86–108, ch. IV, §401(m), 73Stat. 255, required President to make public information concerning mutual security program not deemed to be incompatible with security of United States. See section 2394(b) of this title.
+Section 1794a, act Aug. 26, 1954, ch. 937, ch. IV, §550, as added July 24, 1959, Pub. L. 86–108, ch. IV, §401(m), 73 Stat. 255, required President to make public information concerning mutual security program not deemed to be incompatible with security of United States. See section 2394(b) of this title.
 
 Section 1795, acts Aug. 26, 1954, ch. 937, ch. IV, §535, 68 Stat. 860; July 18, 1956, ch. 627, §10(e), 70 Stat. 561; Aug. 14, 1957, Pub. L. 85–141, §10(g), 71 Stat. 364, related to cooperation with nations and international organizations.
 

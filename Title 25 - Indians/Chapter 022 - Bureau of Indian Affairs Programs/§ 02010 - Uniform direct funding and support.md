@@ -128,7 +128,7 @@ In carrying out this section, a local school board may request technical assista
 
 #### (A) In general
 
-&emsp;&emsp;A financial plan under subsection (b) for a school may include, at the discretion of thelocal administrator and the school board of such school, a provision for a summer program of academic and support services for students of the school.
+&emsp;&emsp;A financial plan under subsection (b) for a school may include, at the discretion of the local administrator and the school board of such school, a provision for a summer program of academic and support services for students of the school.
 
 #### (B) Prevention activities
 
@@ -206,7 +206,7 @@ Act of April 16, 1934, referred to in subsec. (e)(2), is act Apr. 16, 1934, ch. 
 
 This Act, referred to in subsec. (e)(2), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
-This chapter, referred to in subsec. (h)(1), was in the original "this title", meaning title XI (§1101 et seq.) of Pub. L. 95–561, which is classified principally to thischapter. For complete classification of title XI to the Code, see Tables.
+This chapter, referred to in subsec. (h)(1), was in the original "this title", meaning title XI (§1101 et seq.) of Pub. L. 95–561, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
 
 #### Prior Provisions
 

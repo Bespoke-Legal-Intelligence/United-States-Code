@@ -26,7 +26,7 @@ In the performance of their functions, the members, employees, or other personne
 
 #### (e) Designation of Acting Chairman; quorum; seal
 
-The Chairman of the Commission may designate any other member of the Commission asActing Chairman to act in the place and stead of the Chairman during his absence. The Chairman (or the Acting Chairman in the absence of the Chairman) shall preside at all sessions of the Commission and a quorum for the transaction of business shall consist of at least three members present. Each member of the Commission, including the Chairman, shall have one vote. Actions of the Commission shall be determined by a majority vote of the members present. The Commission shall have an official seal which shall be judicially noticed.
+The Chairman of the Commission may designate any other member of the Commission as Acting Chairman to act in the place and stead of the Chairman during his absence. The Chairman (or the Acting Chairman in the absence of the Chairman) shall preside at all sessions of the Commission and a quorum for the transaction of business shall consist of at least three members present. Each member of the Commission, including the Chairman, shall have one vote. Actions of the Commission shall be determined by a majority vote of the members present. The Commission shall have an official seal which shall be judicially noticed.
 
 #### (f) Rules
 
@@ -56,7 +56,7 @@ This chapter, referred to in subsecs. (i) and (j), was in the original "this Act
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–271 designated existing provisions as par. (1), substituted "5 years" for "four years", struck out after third sentence "The terms of the members first taking office shall expire (as designated by the President at the time of appointment), two at the end of two years, two at the end of three years, and one at the end of four years.", substituted "A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires." for "A Commissioner may continue to serve after the expiration of his term until his successor has taken office, except that he may not so continue to serve for more than one year after the date on which his term would otherwise expire under this subsection.", and added par. (2).
+<b>1990</b>—Subsec. (b). Pub. L. 101–271 designated existing provisions as par. (1), substituted "5 years" for "four years", struck out after third sentence "The terms of the members first taking office shall expire (as designated by the President at the time of appointment), two at the end of two years, two at the end of three years, and one at the end of four years.", substituted "A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires." for "A Commissioner may continue to serve after the expiration of his term until his successor has taken office, except that he may not so continue to serve for more than one year after the date on whichhis term would otherwise expire under this subsection.", and added par. (2).
 
 #### Effective Date of 1990 Amendment
 
@@ -80,13 +80,15 @@ Model Regulations.—In conjunction with the study in subsection (b), the Commis
 
 "(d)
 
-Report.—The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmentalbenefits, in a report no later than 24 months after enactment \[Nov. 15, 1990\]."
+Report.—The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmental benefits, in a report no later than 24 months after enactment \[Nov. 15, 1990\]."
 
 #### Retention and Use of Revenues From Licensing Fees, Inspection Services, and Other Services and Collections; Reduction To Achieve Final Fiscal Year Appropriation
 
 Pub. L. 99–500, §101(e) \[title III\], Oct. 18, 1986, 100 Stat. 1783–194, 1783–208, and Pub. L. 99–591, §101(e) \[title III\], Oct. 30, 1986, 100 Stat. 3341–194, 3341–208, provided in part: "That hereafter and notwithstanding any other provision of law revenues from licensing fees, inspection services, and other services and collections, estimated at $78,754,000 in fiscal year 1987, may be retained and used for necessary expenses in this account \[Federal Energy Regulatory Commission, Salaries and Expenses\], and may remain available until expended: <i>Provided further</i>, That the sum herein appropriated shall be reduced as revenues are received during fiscal year 1987, so as to result in a final fiscal year 1987 appropriation estimated at not more than $20,325,000."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–94, div. C, title III, Dec. 20, 2019, 133 Stat. 2678.
 
 Pub. L. 115–244, div. A, title III, Sept. 21, 2018, 132 Stat. 2915.
 

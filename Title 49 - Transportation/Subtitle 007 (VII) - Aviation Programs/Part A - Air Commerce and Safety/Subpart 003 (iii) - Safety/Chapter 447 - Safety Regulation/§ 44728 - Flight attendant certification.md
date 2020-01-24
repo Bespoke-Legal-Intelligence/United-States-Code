@@ -84,7 +84,7 @@ Subsec. (d)(3). Pub. L. 115–254, §539(i)(2), substituted "be" for "is".
 
 #### Effective Date
 
-Pub. L. 108–176, title VIII, §814(c), Dec. 12, 2003, 117 Stat. 2592, provided that: "The amendments made bysubsections (a) and (b) \[enacting this section and amending the analysis to this chapter\] shall take effect on the 365th day following the date of enactment of this Act \[Dec. 12, 2003\]."
+Pub. L. 108–176, title VIII, §814(c), Dec. 12, 2003, 117 Stat. 2592, provided that: "The amendments made by subsections (a) and (b) \[enacting this section and amending the analysis to this chapter\] shall take effect on the 365th day following the date of enactment of this Act \[Dec. 12, 2003\]."
 
 #### Facilitation
 

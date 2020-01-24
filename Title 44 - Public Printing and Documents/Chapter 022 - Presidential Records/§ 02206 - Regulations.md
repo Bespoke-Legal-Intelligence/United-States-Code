@@ -18,7 +18,7 @@ Section 2203(f)(3), referred to in par. (1), was redesignated section 2203(g)(3)
 
 #### Effective Date
 
-Section effective with respect to Presidential records created during a term of office of President beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as a note under section 2201 of this title.
+Section effective with respect to Presidential records created during a term of office of President beginningon or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as a note under section 2201 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

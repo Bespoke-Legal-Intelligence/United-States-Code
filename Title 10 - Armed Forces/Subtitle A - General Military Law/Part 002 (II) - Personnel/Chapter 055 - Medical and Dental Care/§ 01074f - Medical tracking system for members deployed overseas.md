@@ -10,9 +10,11 @@ Elements of System.—(1)(A) The system described in subsection (a) shall includ
 
 &emsp;(i) accurately record the health status of members before their deployment;
 
-&emsp;(ii) accurately record any changes in their health status during the course of their deployment; and
+&emsp;(ii) accurately record any changes in their health status during the course of their deployment;
 
-&emsp;(iii) identify health concerns, including mental health concerns, that may become manifest several months following their deployment.
+&emsp;(iii) identify health concerns, including mental health concerns, that may become manifest several months following their deployment; and
+
+&emsp;(iv) accurately record any exposure to occupational and environmental health risks during the course of their deployment.
 
 (B) The postdeployment medical examination shall be conducted when the member is redeployed or otherwise leaves an area in which the system is in operation (or as soon as possible thereafter).
 
@@ -26,13 +28,19 @@ Elements of System.—(1)(A) The system described in subsection (a) shall includ
 
 &emsp;(C) An assessment of post-traumatic stress disorder.
 
+&emsp;(D) An assessment of whether the member was—
+
+&emsp;&emsp;(i) based or stationed at a location where an open burn pit, as defined in subsection (c) of section 201 of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note), was used; or
+
+&emsp;&emsp;(ii) exposed to toxic airborne chemicals or other airborne contaminants, including any information recorded as part of the registry established by the Secretary of Veterans Affairs under such section 201.
+
 (3)(A) The Secretary shall establish for purposes of subparagraphs (B) and (C) of paragraph (2) a protocol for the predeployment assessment and documentation of the cognitive (including memory) functioning of a member who is deployed outside the United States in order to facilitate the assessment of the postdeployment cognitive (including memory) functioning of the member.
 
 (B) The protocol under subparagraph (A) shall include appropriate mechanisms to permit the differential diagnosis of traumatic brain injury in members returning from deployment in a combat zone.
 
 (c)
 
-Recordkeeping.—The results of all medical examinations and reassessments conducted under the system, records of all health care services (including immunizations and the prescription and administration of psychotropic medications) received by members described in subsection (a) in anticipation of their deployment or during the course of their deployment, and records of events occurring in the deployment area that may affect the health of such members shall be retained and maintained in a centralized location to improve future access to the records.
+Recordkeeping.—The results of all medical examinations and reassessments conducted under the system, records of all health care services (including immunizations and the prescription and administration of psychotropic medications) received by members described in subsection (a) in anticipation of their deployment or during the course of their deployment, and records of events occurring in the deployment area (including the results of any assessment performed by the Secretary of occupational and environmental health risks for such area) that may affect the health of such members shall be retained and maintained in a centralized location to improve future access to the records.
 
 (d)
 
@@ -46,7 +54,7 @@ Quality Assurance.—(1) The Secretary of Defense shall establish a quality assu
 
 &emsp;(C) The guidance available to such providers on how to apply the clinical practice guidelines developed under subsection (e)(1) in determining whether to make a referral for further evaluation of a member of the armed forces relating to mental health.
 
-&emsp;(D) The effectiveness of the tracking mechanisms required under this section in ensuring that members who receive referrals for further evaluations relating to mental health receive such evaluations and obtain such care and services as are warranted.
+&emsp;(D) The effectiveness of the tracking mechanisms required under this section in ensuring that members who receive referrals for further evaluations relating to mental health receivesuch evaluations and obtain such care and services as are warranted.
 
 &emsp;(E) Programs established for monitoring the mental health of each member who, after deployment to a combat operation or contingency operations, is known—
 
@@ -78,11 +86,25 @@ Minimum Standards for Deployment.—(1) The Secretary of Defense shall prescribe
 
 (3) The Secretary shall take appropriate actions to ensure the utilization of the standards prescribed under paragraph (1) in the making of determinations regarding the deployability of members of the armed forces to a combat operation or contingency operation.
 
-(Added Pub. L. 105–85, div. A, title VII, §765(a)(1), Nov. 18, 1997, 111 Stat. 1826; amended Pub. L. 109–364, div. A, title VII, §738(a)–(d), Oct. 17, 2006, 120 Stat. 2303; Pub. L. 110–181, div. A, title XVI, §1673(a)(1), (b), (c), Jan. 28, 2008, 122 Stat. 482, 483; Pub. L. 111–84, div. A, title X, §1073(a)(9), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 111–383, div. A, title VII, §712, Jan. 7, 2011, 124 Stat. 4247.)
+(g)
+
+Additional Requirements for Postdeployment Medical Examinations and Health Reassessments.—(1) The Secretary of Defense shall standardize and make available to a provider that conducts a postdeployment medical examination or reassessment under the system described in subsection (a) questions relating to occupational and environmental health exposure.
+
+(2) The Secretary, to the extent practicable, shall ensure that the medical record of a member includes information on the external cause relating to a diagnosis of the member, including by associating an external cause code (as issued under the International Statistical Classification of Diseases and Related Health Problems, 10th Revision (or any successor revision)).
+
+(Added Pub. L. 105–85, div. A, title VII, §765(a)(1), Nov. 18, 1997, 111 Stat. 1826; amended Pub. L. 109–364, div. A, title VII, §738(a)–(d), Oct. 17, 2006, 120 Stat. 2303; Pub. L. 110–181, div. A, title XVI, §1673(a)(1), (b), (c), Jan. 28, 2008, 122 Stat. 482, 483; Pub. L. 111–84, div. A, title X, §1073(a)(9), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 111–383, div. A, title VII, §712, Jan. 7, 2011, 124 Stat. 4247; Pub. L. 116–92, div. A, title VII, §§704(c), 705(a), (b), Dec. 20, 2019, 133 Stat. 1438–1440.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §712(a), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: "The system described in subsection (a) shall include the use of predeployment medical examinations and postdeployment medical examinations (including an assessment of mental health and the drawing of blood samples) to accurately record the medical condition of members before their deployment and any changes in their medical condition during the course of their deployment. The postdeployment examination shall be conducted when the member is redeployed or otherwise leaves an area in which the system is in operation (or as soon as possible thereafter)."
+<b>2019</b>—Subsec. (b)(1)(A)(iv). Pub. L. 116–92, §705(a)(1), added cl. (iv).
+
+Subsec. (b)(2)(D). Pub. L. 116–92, §704(c), added subpar. (D).
+
+Subsec. (c). Pub. L. 116–92, §705(a)(2), inserted "(including the results of any assessment performed by the Secretary of occupational and environmental health risks for such area)" after "deployment area".
+
+Subsec. (g). Pub. L. 116–92, §705(b), added subsec. (g).
+
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §712(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The system described in subsection (a) shall include the use of predeployment medical examinations and postdeployment medical examinations (including an assessment of mental health and the drawing of blood samples) to accurately record the medical condition of members before their deployment and any changes in their medical condition during the course of their deployment. The postdeployment examination shall be conducted when the member is redeployed or otherwise leaves an area in which the system is in operation (or as soon as possible thereafter)."
 
 Subsec. (b)(2). Pub. L. 111–383, §712(b), substituted "medical examination, postdeployment medical examination, and postdeployment health reassessment" for "and postdeployment medical examination" in introductory provisions.
 
@@ -113,6 +135,58 @@ Subsec. (d). Pub. L. 109–364, §738(d), designated existing provisions as par.
 Subsec. (e). Pub. L. 109–364, §738(b), added subsec. (e).
 
 Subsec. (f). Pub. L. 109–364, §738(c), added subsec. (f).
+
+#### Exposure to Open Burn Pits and Toxic Airborne Chemicals or Other Airborne Contaminants as Part of Periodic Health Assessments and Other Physical Examinations
+
+Pub. L. 116–92, div. A, title VII, §704, Dec. 20, 2019, 133 Stat. 1438, provided that:
+
+"(a)
+
+Periodic Health Assessment.—The Secretary of Defense shall ensure that any periodic health assessment provided to members of the Armed Forces includes an evaluation of whether the member has been—
+
+&emsp;"(1) based or stationed at a location where an open burn pit was used; or
+
+&emsp;"(2) exposed to toxic airborne chemicals or other airborne contaminants, including any information recorded as part of the Airborne Hazards and Open Burn Pit Registry.
+
+"(b)
+
+Separation History and Physical Examinations.—\[Amended section 1145 of this title.\]
+
+"(c)
+
+Deployment Assessments.—\[Amended this section.\]
+
+"(d)
+
+Sharing of Information.—
+
+&emsp;"(1)
+
+DOD–VA.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly enter into a memorandum of understanding providing for the sharing by the Department of Defense with the Department of Veterans Affairs of the results of covered evaluations regarding the exposure by a member of the Armed Forces to toxic airborne chemicals or other airborne contaminants.
+
+&emsp;"(2)
+
+Registry.—If a covered evaluation of a member of the Armed Forces establishes that the member was based or stationed at a location where an open burn pit was used or that the member was exposed to toxic airborne chemicals or other airborne contaminants, the member shall be enrolled in the Airborne Hazards and Open Burn Pit Registry unless the member elects to not so enroll.
+
+"(e)
+
+Rule of Construction.—Nothing in this section may be construed to preclude eligibility for benefits under the laws administered by the Secretary of Veterans Affairs by reason of the open burn pit exposure history of a veteran not being recorded in a covered evaluation.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'Airborne Hazards and Open Burn Pit Registry' means the registry established by the Secretary of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note).
+
+&emsp;"(2) The term 'covered evaluation' means—
+
+&emsp;&emsp;"(A) a periodic health assessment conducted in accordance with subsection (a);
+
+&emsp;&emsp;"(B) a separation history and physical examination conducted under section 1145(a)(5) of title 10, United States Code, as amended by this section; and
+
+&emsp;&emsp;"(C) a deployment assessment conducted under section 1074f(b)(2) of such title, as amended by this section.
+
+&emsp;"(3) The term 'open burn pit' has the meaning given that term in section 201(c) of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note)."
 
 #### Sharing Between Department of Defense and Department of Veterans Affairs of Records and Information Retained Under the Medical Tracking System for Members of the Armed Forces Deployed Overseas
 
@@ -164,23 +238,7 @@ Policy Required.—Not later than October 1, 2010, the Secretary shall establish
 
 #### Pilot Projects
 
-Pub. L. 110–181, div. A, title XVI, §1673(a)(2), Jan. 28, 2008, 122 Stat. 482, provided that:
-
-"(A) In developing the protocol required by paragraph (3) of section 1074f(b) of title 10, United States Code (as amended by paragraph (1) of this subsection), for purposes of assessments for traumatic brain injury, the Secretary of Defense shall conduct up to three pilot projects to evaluate various mechanisms for use in the protocol for such purposes. One of the mechanisms to be so evaluated shall be a computer-based assessment tool which shall, at a minimum, include the following:
-
-&emsp;"(i) Administration of computer-based neurocognitive assessment.
-
-&emsp;"(ii) Pre-deployment assessments to establish a neurocognitive baseline for members of the Armed Forces for future treatment.
-
-"(B) Not later than 60 days after the completion of the pilot projects conducted under this paragraph, the Secretary shall submit to the appropriate committees of Congress \[Committees on Armed Services, Veterans' Affairs, and Appropriations of the Senate and the House of Representatives\] a report on the pilot projects. The report shall include—
-
-&emsp;"(i) a description of the pilot projects so conducted;
-
-&emsp;"(ii) an assessment of the results of each such pilot project; and
-
-&emsp;"(iii) a description of any mechanisms evaluated under each such pilot project that will be incorporated into the protocol.
-
-"(C) Not later than 180 days after completion of the pilot projects conducted under this paragraph, the Secretary shall establish a means for implementing any mechanism evaluated under such a pilot project that is selected for incorporation in the protocol."
+Pub. L. 110–181, div. A, title XVI, §1673(a)(2), Jan. 28, 2008, 122 Stat. 482, directed the Secretary of Defense to conduct three pilot projects to evaluate mechanisms for use in developing the traumatic brain injury assessment protocol required by section 1074f(b)(3) of this title and, upon the completion of the projects, required a report to Congress within 60 days and implementation of the selected mechanism within 180 days.
 
 #### Implementation
 

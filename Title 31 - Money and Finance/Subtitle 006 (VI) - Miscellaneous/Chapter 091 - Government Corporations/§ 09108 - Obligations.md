@@ -50,7 +50,7 @@ In subsections (a) and (b), the words "on or after December 6, 1945" are omitted
 
 In subsection (a), before clause (1), the word "Before" is substituted for "which are" for clarity. The words "bonds, notes, debentures, and other similar" are omitted as surplus. The words "as have been" are omitted as executed. In clause (1), the words "terms and" are omitted as surplus. The restatement of the source provisions does not affect other existing laws.
 
-In subsection (b), the word "Government" is added for consistency. The words "for its own account and in its own right and interest, at any one time aggregating" and "his approval with respect to any transaction or classes of transactions subject to the provisions of . . . for such period of time and" are omitted as surplus.
+In subsection (b), the word "Government" is added for consistency. The words "for its own account and in its own right and interest, at any one time aggregating" and "his approval with respect to any transactionor classes of transactions subject to the provisions of . . . for such period of time and" are omitted as surplus.
 
 In subsection (c), the word "agency" is substituted for "Federal agency" because of section 101 of the revised title. The words "any of the functions vested in him by" and "for such purpose" are omitted as surplus.
 

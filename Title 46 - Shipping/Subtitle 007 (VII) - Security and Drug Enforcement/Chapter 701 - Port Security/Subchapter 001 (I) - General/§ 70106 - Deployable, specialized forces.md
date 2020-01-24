@@ -10,7 +10,7 @@ In general.—To enhance the domestic maritime security capability of the United
 
 &emsp;(2)
 
-Enhanced teams.—Such specialized forces shall include no less than two enhanced teams to serve as deployable forces capable of combating terrorism, engaging in interdiction, law enforcement, and advanced tactical maritime security operations to address known orpotentially armed security threats (including non-compliant actors at sea), and participating in homeland security, homeland defense, and counterterrorism exercises in the maritime environment.
+Enhanced teams.—Such specialized forces shall include no less than two enhanced teams to serve as deployable forces capable of combating terrorism, engaging in interdiction, law enforcement, and advanced tactical maritime security operations to address known or potentially armed security threats (including non-compliant actors at sea), and participating in homeland security, homeland defense, and counterterrorism exercises in the maritime environment.
 
 (b)
 

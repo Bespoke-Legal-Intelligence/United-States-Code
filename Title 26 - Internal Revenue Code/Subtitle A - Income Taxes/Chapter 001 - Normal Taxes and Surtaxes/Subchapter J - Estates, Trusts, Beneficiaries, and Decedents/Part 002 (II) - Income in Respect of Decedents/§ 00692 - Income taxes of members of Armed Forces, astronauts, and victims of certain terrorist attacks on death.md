@@ -4,7 +4,7 @@
 
 In the case of any individual who dies while in active service as a member of the Armed Forces of the United States, if such death occurred while serving in a combat zone (as determined under section 112) or as a result of wounds, disease, or injury incurred while so serving—
 
-&emsp;(1) any tax imposed by this subtitle shall not apply with respect to the taxable year inwhich falls the date of his death, or with respect to any prior taxable year ending on or after the first day he so served in a combat zone; and
+&emsp;(1) any tax imposed by this subtitle shall not apply with respect to the taxable year in which falls the date of his death, or with respect to any prior taxable year ending on or after the first day he so served in a combat zone; and
 
 &emsp;(2) any tax under this subtitle and under the corresponding provisions of prior revenue laws for taxable years preceding those specified in paragraph (1) which is unpaid at the date of his death (including interest, additions to the tax, and additional amounts) shall not be assessed, and if assessed the assessment shall be abated, and if collected shall be credited or refunded as an overpayment.
 
@@ -72,7 +72,7 @@ For purposes of this section, in the case of an individual who was in a missing 
 
 &emsp;The provisions of this subsection shall apply to any astronaut whose death occurs in the line of duty, except that paragraph (3)(B) shall be applied by using the date of the death of the astronaut rather than September 11, 2001.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 238; Pub. L. 93–597, §4(a), Jan. 2, 1975, 88 Stat. 1952; Pub. L. 94–455, title XIX, §1901(a)(92), Oct. 4, 1976, 90 Stat. 1780; Pub. L. 94–569, §3(c), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 97–448, title III, §307(b), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–259, §1(a), Apr. 10, 1984, 98 Stat. 142; Pub. L. 98–369, div. A, titleVII, §722(g)(2), (3), July 18, 1984, 98 Stat. 974; Pub. L. 99–514, title XVII, §1708(a)(2), Oct. 22, 1986, 100 Stat. 2782; Pub. L. 107–134, title I, §§101(a), (c)(1), 113(b), Jan. 23, 2002, 115 Stat. 2428, 2435; Pub. L. 108–121, title I, §110(a)(1), (3)(A), Nov. 11, 2003, 117 Stat. 1342; Pub. L. 113–295, div. A, title II, §221(a)(67), Dec. 19, 2014, 128 Stat. 4048.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 238; Pub. L. 93–597, §4(a), Jan. 2, 1975, 88 Stat. 1952; Pub. L. 94–455, title XIX, §1901(a)(92), Oct. 4, 1976, 90 Stat. 1780; Pub. L. 94–569, §3(c), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 97–448, title III, §307(b), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–259, §1(a), Apr. 10, 1984, 98 Stat. 142; Pub. L. 98–369, div. A, title VII, §722(g)(2), (3), July 18, 1984, 98 Stat. 974; Pub. L. 99–514, title XVII, §1708(a)(2), Oct. 22, 1986, 100 Stat. 2782; Pub. L. 107–134, title I, §§101(a), (c)(1), 113(b), Jan. 23, 2002, 115 Stat. 2428, 2435; Pub. L. 108–121, title I, §110(a)(1), (3)(A), Nov. 11, 2003, 117 Stat. 1342; Pub. L. 113–295, div. A, title II, §221(a)(67), Dec. 19, 2014, 128 Stat. 4048.)
 
 #### Amendments
 
@@ -170,7 +170,7 @@ Pub. L. 93–597, §4(b), Jan. 2, 1975, 88 Stat. 1952, provided that: "The amend
 
 #### Refunds and Credits of Overpayments for Taxable Years Ending on or After February 28, 1961, Resulting From Application of Provisions
 
-Pub. L. 93–597, §4(c), Jan. 2, 1975, 88 Stat. 1952, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If the refund or credit of any overpayment for any taxable year ending on or after February 28, 1961, resulting from the application of section692 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a) of this section) is prevented at any time before the expiration of one year after the date of the enactment of this Act \[Jan. 2, 1975\] by the operation of any law or rule of law, but would not have been so prevented if claim for refund or credit therefor were made on the due date for the return for the taxable year of his death (or any later year), refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before the expiration of such one-year period."
+Pub. L. 93–597, §4(c), Jan. 2, 1975, 88 Stat. 1952, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If the refund or credit of any overpayment for any taxable year ending on or after February 28, 1961, resulting from the application of section 692 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a) of this section) is prevented at any time before the expiration of one year after the date of the enactment of this Act \[Jan. 2, 1975\] by the operation of any law or rule of law, but would not have been so prevented if claim for refund or credit therefor were made on the due date for the return for the taxable year of his death (or any later year), refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before the expiration of such one-year period."
 
 #### Treatment of Director General of Multinational Force in Sinai
 

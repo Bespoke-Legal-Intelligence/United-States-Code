@@ -10,11 +10,11 @@ Any officer of the customs service designated by the Secretary of the Treasury f
 
 <b>1948</b>—Act June 25, 1948, struck out fourth sentence relating to appointment and compensation of clerks of Customs Court.
 
-<b>1930</b>—Act June 17, 1930, §518, authorized Secretary of the Treasury to appoint and fix compensation of clerks of Customs Court.
+<b>1930</b>—Act June 17, 1930, §649, substituted "Treasury attachés" for "Customs attachés".
+
+Act June 17, 1930, §518, authorized Secretary of the Treasury to appoint and fix compensation of clerks of Customs Court.
 
 <b>1926</b>—Act May 28, 1926, substituted "United States Customs Court" for "Board of General Appraisers".
-
-Act June 17, 1930, §649, substituted "Treasury attachés" for "Customs attachés".
 
 #### Effective Date of 1970 Amendment
 

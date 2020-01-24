@@ -24,7 +24,7 @@ For the purpose of carrying out section 7708 of this title, there are authorized
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–95, §7013(1), substituted "$66,813,000 for each of fiscal years 2017 through 2019, and $71,997,917 for fiscal year 2020" for "$32,000,000 for fiscal year 2000 and such sums as may be necessary for each of the seven succeeding fiscal years".
+<b>2015</b>—Subsec. (a). Pub. L. 114–95, §7013(1), substituted "$66,813,000 for each of fiscal years 2017 through 2019, and $71,997,917 for fiscal year 2020" for "$32,000,000 forfiscal year 2000 and such sums as may be necessary for each of the seven succeeding fiscal years".
 
 Pub. L. 114–95, §7001(d)(1), made technical amendment to reference in original act which appears in text as reference to section 7702 of this title.
 

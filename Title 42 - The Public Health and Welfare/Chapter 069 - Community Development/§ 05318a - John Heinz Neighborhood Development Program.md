@@ -80,7 +80,7 @@ The Secretary shall award grants under this section among the eligible neighborh
 
 &emsp;&emsp;(A) is located in an <sup>1</sup> neighborhood that does not contain a branch or office of a neighborhood development funding organization; or
 
-&emsp;&emsp;(B) demonstrates to the satisfaction of the Secretary that it has been unable to obtain the participation of any neighborhood development funding organization that has a branch or office in the neighborhood despitehaving made a good faith effort to obtain such participation; and
+&emsp;&emsp;(B) demonstrates to the satisfaction of the Secretary that it has been unable to obtain the participation of any neighborhood development funding organization that has a branch or office in the neighborhood despite having made a good faith effort to obtain such participation; and
 
 &emsp;(4) the extent of voluntary contributions available for the purpose of subsection (e)(4), except that the Secretary shall waive the requirement of this subparagraph in the case of an application submitted by a small eligible neighborhood development organization, an application involving activities in a very low-income neighborhood, or an application that is especially meritorious.
 
@@ -138,7 +138,7 @@ The Civil Rights Act of 1964, referred to in subsec. (e)(5)(B), is Pub. L. 88–
 
 #### Codification
 
-Section was enacted as the John Heinz Neighborhood Development Act and also as part of the Housing and Urban-Rural Recovery Act of 1983, the Domestic Housing and International Recovery and Financial Stability Act, and the Supplemental Appropriations Act, 1984, and not as part of the Housing and Community Development Act of 1974 which comprises this chapter.
+Section was enacted as the John Heinz Neighborhood Development Act and also as part of the Housing and Urban-Rural Recovery Act of 1983, the Domestic Housing and International Recovery and Financial Stability Act, and the Supplemental Appropriations Act, 1984, and not as part of title I of the Housing and Community Development Act of 1974 which comprises this chapter.
 
 Section was formerly set out as a note under section 5318 of this title.
 

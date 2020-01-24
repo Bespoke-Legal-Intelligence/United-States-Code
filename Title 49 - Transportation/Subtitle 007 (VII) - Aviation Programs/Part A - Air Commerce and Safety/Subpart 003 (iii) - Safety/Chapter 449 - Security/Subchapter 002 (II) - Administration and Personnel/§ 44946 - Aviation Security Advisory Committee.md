@@ -90,7 +90,7 @@ Meetings.—
 
 &emsp;&emsp;(A)
 
-In general.—The Administrator shall require the Advisory Committee to meet atleast semiannually and may convene additional meetings as necessary.
+In general.—The Administrator shall require the Advisory Committee to meet at least semiannually and may convene additional meetings as necessary.
 
 &emsp;&emsp;(B)
 
@@ -102,7 +102,7 @@ Attendance.—The Advisory Committee shall maintain a record of the persons pres
 
 &emsp;(5)
 
-Member access to sensitive security information.—Not later than 60 days after the date of a member's appointment, the Administrator shall determine if there is cause for the member to be restricted from possessing sensitive security information. Without such cause, and upon the member voluntarily signing a non-disclosure agreement, the member may be granted access to sensitive security information that is relevant to the member's advisory duties. The member shall protect the sensitive security information in accordance with part 1520 of title 49, Code of Federal Regulations.
+Member access to sensitive security information.—Not later than 60 days after the date of a member's appointment, the Administrator shall determine if there is cause for the member to be restricted from possessing sensitive security information. Without suchcause, and upon the member voluntarily signing a non-disclosure agreement, the member may be granted access to sensitive security information that is relevant to the member's advisory duties. The member shall protect the sensitive security information in accordance with part 1520 of title 49, Code of Federal Regulations.
 
 &emsp;(6)
 

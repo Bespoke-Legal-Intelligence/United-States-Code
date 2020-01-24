@@ -4,7 +4,7 @@
 
 Beginning 30 months after November 8, 1984, any State may,<sup>1</sup> submit an underground storage tank release detection, prevention, and correction program for review and approval by the Administrator. The program may cover tanks used to store regulated substances referred to in subparagraph (A) or (B) of section 6991(7) of this title. A State program may be approved by the Administrator under this section only if the State demonstrates that the State program includes the following requirements and standards and provides for adequate enforcement of compliance with such requirements and standards—
 
-&emsp;(1) requirements for maintaining a leak detection system, an inventory control systemtogether with tank testing, or a comparable system or method designed to identify releases in a manner consistent with the protection of human health and the environment;
+&emsp;(1) requirements for maintaining a leak detection system, an inventory control system together with tank testing, or a comparable system or method designed to identify releases in a manner consistent with the protection of human health and the environment;
 
 &emsp;(2) requirements for maintaining records of any monitoring or leak detection system or inventory control system or tank testing system;
 

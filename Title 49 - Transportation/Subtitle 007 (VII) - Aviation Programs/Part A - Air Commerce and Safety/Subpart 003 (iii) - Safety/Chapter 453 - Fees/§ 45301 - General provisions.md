@@ -40,7 +40,7 @@ Costs defined.—In this subsection, the term "costs" includes operation and mai
 
 (c)
 
-Use of Experts and Consultants.—In developing the system, the Administrator may consult with such nongovernmental experts as the Administrator may employ and the Administrator may utilize the services of experts and consultants under section 3109 of title 5 without regard to the limitation imposed by the last sentence of section 3109(b) of such title, and may contract on a sole source basis, notwithstanding any other provision of law to the contrary. Notwithstanding any other provision of law to the contrary, the Administrator may retain such experts under a contract awarded on a basis other than a competitive basis and without regard toany such provisions requiring competitive bidding or precluding sole source contract authority.
+Use of Experts and Consultants.—In developing the system, the Administrator may consult with such nongovernmental experts as the Administrator may employ and the Administrator may utilize the services of experts and consultants under section 3109 of title 5 without regard to the limitation imposed by the last sentence of section 3109(b) of such title, and may contract on a sole source basis, notwithstanding any other provision of law to the contrary. Notwithstanding any other provision of law to the contrary, the Administrator may retain such experts under a contract awarded on a basis other than a competitive basis and without regard to any such provisions requiring competitive bidding or precluding sole source contract authority.
 
 (d)
 
@@ -50,7 +50,7 @@ Production-Certification Related Service Defined.—In this section, the term "p
 
 Adjustment of Fees.—In addition to adjustments under subsection (b), the Administrator may periodically adjust the fees established under this section.
 
-(Added Pub. L. 104–264, title II, §273(a), Oct. 9, 1996, 110 Stat. 3239; amended Pub. L. 106–181, title VII, §719, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §119(d), Nov. 19, 2001, 115 Stat. 629; Pub. L. 112–95, title I, §121, Feb. 14, 2012, 126 Stat. 19; Pub. L. 115–254, div. B, title V, §539(k), Oct. 5, 2018, 132 Stat. 3371.)
+(Added Pub. L. 104–264, title II, §273(a), Oct. 9, 1996, 110 Stat. 3239; amended Pub. L. 106–181, titleVII, §719, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §119(d), Nov. 19, 2001, 115 Stat. 629; Pub. L. 112–95, title I, §121, Feb. 14, 2012, 126 Stat. 19; Pub. L. 115–254, div. B, title V, §539(k), Oct. 5, 2018, 132 Stat. 3371.)
 
 #### Prior Provisions
 

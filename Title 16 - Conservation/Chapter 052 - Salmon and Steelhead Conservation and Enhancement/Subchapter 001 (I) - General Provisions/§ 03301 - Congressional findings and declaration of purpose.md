@@ -62,7 +62,7 @@ Accelerated activities.—Accelerated research and development activities referr
 
 &emsp;"(3)
 
-Additional activities.—Additional research and development activities referred to in paragraph\(1) may include research and development related to—
+Additional activities.—Additional research and development activities referred to in paragraph (1) may include research and development related to—
 
 &emsp;&emsp;"(A) studies of juvenile salmon survival in spawning and rearing areas;
 

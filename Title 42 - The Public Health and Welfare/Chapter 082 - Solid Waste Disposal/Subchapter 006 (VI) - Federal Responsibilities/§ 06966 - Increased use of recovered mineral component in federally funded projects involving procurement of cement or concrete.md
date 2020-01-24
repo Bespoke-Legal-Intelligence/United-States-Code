@@ -38,7 +38,7 @@ In this section:
 
 #### (2) Priority
 
-&emsp;In carrying out paragraph (1), an agency head shall give priority to achieving greater use of recovered mineral component in cement or concrete projects for which recovered mineral components historically have not been used or have been used only minimally.
+&emsp;In carrying out paragraph (1), an agency head shall give priority to achieving greateruse of recovered mineral component in cement or concrete projects for which recovered mineral components historically have not been used or have been used only minimally.
 
 #### (3) Federal procurement requirements
 
@@ -60,7 +60,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) the energy savings and environmental benefits associated with the substitution;
 
-&emsp;&emsp;(B) identify all barriers in procurement requirements to greater realization of energysavings and environmental benefits, including barriers resulting from exceptions from the law; and
+&emsp;&emsp;(B) identify all barriers in procurement requirements to greater realization of energy savings and environmental benefits, including barriers resulting from exceptions from the law; and
 
 &emsp;&emsp;(C)(i) identify potential mechanisms to achieve greater substitution of recovered mineral component in types of cement or concrete projects for which recovered mineral components historically have not been used or have been used only minimally;
 

@@ -42,7 +42,7 @@ Obligation availability.—Sums set aside each fiscal year under subparagraph (A
 
 &emsp;(2)
 
-Special rule.—If a State demonstrates to the satisfaction of the Secretary that the State has met all its needs for installation of protective devices at railway-highway crossings, the State may use funds made available by this section for other highway safety improvement program purposes.
+Special rule.—If a State demonstrates to the satisfaction of the Secretary that theState has met all its needs for installation of protective devices at railway-highway crossings, the State may use funds made available by this section for other highway safety improvement program purposes.
 
 (f)
 
@@ -112,7 +112,7 @@ Initial reporting of crossing information.—Not later than 1 year after the dat
 
 Periodic updating of crossing information.—On a periodic basis beginning not later than 2 years after the date of enactment of the Rail Safety Improvement Act of 2008 and on or before September 30 of every year thereafter, or as otherwise specified by the Secretary, each State shall report to the Secretary current information, including information about warning devices and signage, as specified by the Secretary, concerning each public crossing located within its borders.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 903; Pub. L. 100–17, title I, §121(a), Apr. 2, 1987, 101 Stat. 159; Pub. L. 104–59, title III, §325(a), Nov. 28, 1995, 109 Stat. 591; Pub. L. 104–205, title III, §353(b), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(d), 1202(d), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 146, 170, 193; Pub. L. 109–59, title I, §1401(c), formerly §1401(d), Aug. 10, 2005, 119 Stat. 1226, renumbered §1401(c), Pub. L. 110–244, title I, §101(s)(1), June 6, 2008, 122 Stat. 1577; Pub. L. 110–244, title I, §101(l), June 6, 2008, 122 Stat. 1575; Pub. L. 110–432, div. A, title II, §204(c), Oct. 16, 2008, 122 Stat. 4871; Pub. L. 112–141, div. A, title I, §1519(c)(5), formerly §1519(c)(6), July 6, 2012, 126 Stat. 575, renumbered §1519(c)(5), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §§1108, 1412, Dec. 4, 2015, 129 Stat. 1338, 1416.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 903; Pub. L. 100–17, title I, §121(a), Apr. 2, 1987, 101 Stat. 159; Pub. L. 104–59, title III, §325(a), Nov. 28, 1995, 109 Stat. 591; Pub. L. 104–205, title III, §353(b), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(d), 1202(d), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 146, 170, 193; Pub. L. 109–59, title I, §1401(c), formerly §1401(d), Aug. 10, 2005, 119 Stat. 1226, renumbered §1401(c), Pub. L. 110–244, title I, §101(s)(1), June 6, 2008, 122 Stat. 1577; Pub. L.110–244, title I, §101(l), June 6, 2008, 122 Stat. 1575; Pub. L. 110–432, div. A, title II, §204(c), Oct. 16, 2008, 122 Stat. 4871; Pub. L. 112–141, div. A, title I, §1519(c)(5), formerly §1519(c)(6), July 6, 2012, 126 Stat. 575, renumbered §1519(c)(5), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §§1108, 1412, Dec. 4, 2015, 129 Stat. 1338, 1416.)
 
 #### References in Text
 
@@ -126,7 +126,7 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 
 Subsec. (a). Pub. L. 114–94, §1412, substituted "the relocation of highways to eliminate grade crossings, and projects at grade crossings to eliminate hazards posed by blocked grade crossings due to idling trains" for "and the relocation of highways to eliminate grade crossings".
 
-Subsec. (e)(1). Pub. L. 114–94, §1108, amended par. (1) generally. Prior to amendment, text read as follows:"Before making an apportionment under section 104(b)(3) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings. At least ½ of the funds authorized for and expended under this section shall be available for the installation of protective devices at railway-highway crossings. Sums authorized to be appropriated to carry out this section shall be available for obligation in the same manner as funds apportioned under section 104(b)(1) of this title."
+Subsec. (e)(1). Pub. L. 114–94, §1108, amended par. (1) generally. Prior to amendment, text read as follows: "Before making an apportionment under section 104(b)(3) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings. At least ½ of the funds authorized for and expended under this section shall be available for the installation of protective devices at railway-highway crossings. Sums authorized to be appropriated to carry out this section shall be available for obligation in the same manner as funds apportioned under section 104(b)(1) of this title."
 
 <b>2012</b>—Subsec. (e)(1). Pub. L. 112–141, §1519(c)(5)(A), formerly §1519(c)(6)(A), as renumbered by Pub. L. 114–94, §1446(d)(5)(B), substituted "section 104(b)(3)" for "section 104(b)(5)".
 
@@ -252,7 +252,7 @@ Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub.
 
 "(b) The Secretary of Transportation shall carry out a demonstration project for the elimination or protection of certain public ground-level rail-highway crossings in, or in the vicinity of, Springfield, Illinois.
 
-"(c) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out demonstration projects in Brownsville, Texas, and Matamoros, Mexico, for the relocation of railroad lines from the central area of the cities in conformance with the methodology developed under proposals submitted to the Secretary by the Brownsville Navigation District, providing for the construction of an international bridge and for the elimination of a substantial number of existing railway-road conflict points within the cities.
+"(c) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out demonstration projects in Brownsville, Texas, and Matamoros, Mexico, for the relocation of railroad lines from the central area of the cities in conformance with the methodology developed under proposals submittedto the Secretary by the Brownsville Navigation District, providing for the construction of an international bridge and for the elimination of a substantial number of existing railway-road conflict points within the cities.
 
 "(d) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out a demonstration project in East Saint Louis, Illinois, for the relocation of rail lines between Thirteenth and Forty-third Streets, in accordance with methodology approved by the Secretary. The Secretary of Transportation shall carry out a demonstration project for the relocation of rail lines in the vicinity of Carbondale, Illinois.
 
@@ -264,7 +264,7 @@ Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub.
 
 "(h) The Secretary of Transportation shall carry out a demonstration project in Anoka, Minnesota, for the construction of an underpass at the Seventh Avenue and County Road 7 railroad-highway grade crossing.
 
-"(i) The Secretary of Transportation shall carry out a demonstration project in Metairie, Jefferson Parish,Louisiana, for the relocation or grade separation of rail lines whichever he deems most feasible in order to eliminate certain grade level railroad highway crossings.
+"(i) The Secretary of Transportation shall carry out a demonstration project in Metairie, Jefferson Parish, Louisiana, for the relocation or grade separation of rail lines whichever he deems most feasible in order to eliminate certain grade level railroad highway crossings.
 
 "(j) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out a demonstration project in Augusta, Georgia, for the relocation of railroad lines and for the purpose of eliminating highway railroad grade crossings.
 
@@ -294,7 +294,7 @@ Highway authorizations provisions of section 104(a)(1) and (2) of Pub. L. 93–8
 
 "(a) For the purpose of carrying out the provisions of title 23, United States Code, the following sums are hereby authorized to be appropriated:
 
-"(1) For the Federal-aid primary system in rural areas, out of the Highway Trust Fund, $680,000,000 for the fiscal year ending June 30, 1974, $700,000,000 for the fiscal year ending June 30, 1975, and $700,000,000 for the fiscal year ending June 30, 1976. For the Federal-aid secondary system in rural areas, out of Highway Trust Fund, $390,000,000 for the fiscal year ending June 30, 1974, $400,000,000 for the fiscal year ending June 30, 1975, and $400,000,000 for the fiscal year ending June 30, 1976.
+"(1) For the Federal-aid primary system in rural areas, out of the Highway Trust Fund, $680,000,000 forthe fiscal year ending June 30, 1974, $700,000,000 for the fiscal year ending June 30, 1975, and $700,000,000 for the fiscal year ending June 30, 1976. For the Federal-aid secondary system in rural areas, out of Highway Trust Fund, $390,000,000 for the fiscal year ending June 30, 1974, $400,000,000 for the fiscal year ending June 30, 1975, and $400,000,000 for the fiscal year ending June 30, 1976.
 
 "(2) For the Federal-aid urban system, out of the Highway Trust Fund, $780,000,000 for the fiscal year ending June 30, 1974, $800,000,000 for the fiscal year ending June 30, 1975, and $800,000,000 for the fiscal year ending June 30, 1976. For the extensions of the Federal-aid primary and secondary systems in urban areas, out of the Highway Trust Fund $290,000,000 for the fiscal year ending June 30, 1974, $300,000,000 for the fiscal year ending June 30, 1975, and $300,000,000 for the fiscal year ending June 30, 1976."
 

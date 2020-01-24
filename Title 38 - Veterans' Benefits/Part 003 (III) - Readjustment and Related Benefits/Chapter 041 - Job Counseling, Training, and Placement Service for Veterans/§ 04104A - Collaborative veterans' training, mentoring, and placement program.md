@@ -22,7 +22,7 @@ Application.—To be eligible to receive a grant under this section, a nonprofit
 
 &emsp;(1) information describing how the organization will—
 
-&emsp;&emsp;(A) collaborate with disabled veterans' outreach specialists and local veterans' employment representatives and the appropriate State boards and local boards (as suchterms are defined in section 3 of the Workforce Innovation and Opportunity Act);
+&emsp;&emsp;(A) collaborate with disabled veterans' outreach specialists and local veterans' employment representatives and the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act);
 
 &emsp;&emsp;(B) based on the collaboration, provide training that facilitates the placement described in subsection (b)(2); and
 

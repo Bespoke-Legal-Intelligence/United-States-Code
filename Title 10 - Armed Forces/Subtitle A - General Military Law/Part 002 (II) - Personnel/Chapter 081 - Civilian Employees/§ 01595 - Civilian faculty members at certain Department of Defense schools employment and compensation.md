@@ -34,7 +34,7 @@ Application to Faculty Members at NDU.—In the case of the National Defense Uni
 
 <b>2006</b>—Subsec. (c)(3) to (6). Pub. L. 109–364, §904(b)(1)(A), redesignated pars. (4) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (5) which related to the George C. Marshall European Center for Security Studies and the Asia-Pacific Center for Security Studies, respectively.
 
-Subsec. (e). Pub. L. 109–364, §904(b)(1)(B), struck out heading and text of subsec. (e). Text read as follows: "In addition to the persons specified in subsection (a), this section also applies with respect to the Director and the Deputy Director of the following:
+Subsec. (e). Pub. L. 109–364, §904(b)(1)(B), struck out heading and text of subsec. (e). Text read as follows:"In addition to the persons specified in subsection (a), this section also applies with respect to the Director and the Deputy Director of the following:
 
 &emsp;"(1) The George C. Marshall European Center for Security Studies.
 
@@ -60,7 +60,7 @@ Application to Director and Deputy Director at Asia-Pacific Center for Security 
 
 Subsec. (f). Pub. L. 104–201, §1607(b), added subsec. (f).
 
-<b>1993</b>—Pub. L. 103–160 substituted "Civilian faculty members at certain Department of Defense schools:employment and compensation" for "National Defense University: Foreign Language Center of the Defense Language Institute: civilian faculty members" as section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (d) relating to similar subject matter but not including coverage of the George C. Marshall European Center for Security Studies.
+<b>1993</b>—Pub. L. 103–160 substituted "Civilian faculty members at certain Department of Defense schools: employment and compensation" for "National Defense University: Foreign Language Center of the Defense Language Institute: civilian faculty members" as section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (d) relating to similar subject matter but not including coverage of the George C. Marshall European Center for Security Studies.
 
 <b>1992</b>—Pub. L. 102–484, §923(a)(2)(A), substituted "University; Foreign Language Center of the Defense Language Institute" for "University:" in section catchline.
 

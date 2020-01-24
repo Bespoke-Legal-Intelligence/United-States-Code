@@ -24,7 +24,7 @@ Voluntary election.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 30 days before the first day of each year beginning after the date of enactment of this section, a border patrol agent shall make an election whether the border patrol agent shall, for that year, be assigned to—
+In general.—Not later than 30 days before the first day of each year beginningafter the date of enactment of this section, a border patrol agent shall make an election whether the border patrol agent shall, for that year, be assigned to—
 
 &emsp;&emsp;&emsp;(i) the level 1 border patrol rate of pay;
 
@@ -278,7 +278,7 @@ Insufficient hours.—If a border patrol agent has a remaining hours obligation 
 
 (g)
 
-Authority To Require Overtime Work.—Nothing in this section shall be construed to limit the authority of U.S. Customs and Border Protection to require a border patrol agent to perform hours of overtime work in accordance with the needs of U.S. Customs and Border Protection, including if needed in the event of a local or national emergency.
+Authority To Require Overtime Work.—Nothing in this section shall be construed to limit the authority of U.S. Customs and Border Protection to require a border patrol agent to perform hours of overtime work in accordancewith the needs of U.S. Customs and Border Protection, including if needed in the event of a local or national emergency.
 
 (Pub. L. 113–277, §2(b), Dec. 18, 2014, 128 Stat. 2995.)
 

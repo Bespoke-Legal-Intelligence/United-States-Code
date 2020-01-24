@@ -24,7 +24,7 @@ The Department of Health, Education, and Welfare shall make every reasonable eff
 
 #### (c) Services performed in the employ of United States
 
-Each individual who is an employee of Freedmen's Hospital on September 21, 1961 and whotransfers to Howard University shall, so long as he is continuously in the employ of Howard University, be regarded as continuing in the employ of the United States for the purposes of subchapter III of chapter 83 of title 5, chapter 87 of title 5. For purposes of section 3121(b) of title 26 and section 410 of title 42, service performed by such individual during the period of his employment at Howard University shall be regarded as though performed in the employ of the United States.
+Each individual who is an employee of Freedmen's Hospital on September 21, 1961 and who transfers to Howard University shall, so long as he is continuously in the employ of Howard University, be regarded as continuing in the employ of the United States for the purposes of subchapter III of chapter 83 of title 5, chapter 87 of title 5. For purposes of section 3121(b) of title 26 and section 410 of title 42, service performed by such individual during the period of his employment at Howard University shall be regarded as though performed in the employ of the United States.
 
 (Pub. L. 87–262, §2, Sept. 21, 1961, 75 Stat. 542; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

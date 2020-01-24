@@ -36,7 +36,7 @@ The President shall designate under section 9214(a) of this title any person ide
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(3)(A). Pub. L. 115–272 substituted "not later than 90 days after October 25, 2018, and every180 days thereafter for 5 years" for "not later than 90 days after February 18, 2016, and every 180 days thereafter".
+<b>2018</b>—Subsec. (a)(3)(A). Pub. L. 115–272 substituted "not later than 90 days after October 25, 2018, and every 180 days thereafter for 5 years" for "not later than 90 days after February 18, 2016, and every 180 days thereafter".
 
 #### Delegation of Functions
 

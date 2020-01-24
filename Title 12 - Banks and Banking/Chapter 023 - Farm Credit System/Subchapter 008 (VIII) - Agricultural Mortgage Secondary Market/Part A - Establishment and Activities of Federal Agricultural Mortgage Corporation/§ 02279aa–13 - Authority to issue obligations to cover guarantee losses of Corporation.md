@@ -44,7 +44,7 @@ The aggregate amount of obligations issued by the Corporation under subsection (
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary of the Treasury $1,500,000,000, without fiscal year limitation, to carry out the purposes of this subchapter.
+There is authorized to be appropriated to the Secretary of the Treasury $1,500,000,000, withoutfiscal year limitation, to carry out the purposes of this subchapter.
 
 (Pub. L. 92–181, title VIII, §8.13, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1704; amended Pub. L. 104–105, title I, §109(b)(2), Feb. 10, 1996, 110 Stat. 165.)
 

@@ -6,7 +6,7 @@ The Secretary shall make to Congress at the end of each fiscal year,<sup>1</sup>
 
 #### Prior Provisions
 
-A prior section 942, act Mar. 4, 1927, ch. 509, §42, 44 Stat. 1444, related to travel and subsistence expenses.See section 5701 et seq. of Title 5, Government Organization and Employees.
+A prior section 942, act Mar. 4, 1927, ch. 509, §42, 44 Stat. 1444, related to travel and subsistence expenses. See section 5701 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
 

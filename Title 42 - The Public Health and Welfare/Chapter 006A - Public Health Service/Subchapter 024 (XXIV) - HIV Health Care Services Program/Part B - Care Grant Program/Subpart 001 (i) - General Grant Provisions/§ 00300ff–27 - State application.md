@@ -20,7 +20,7 @@ The application submitted under subsection (a) shall contain—
 
 &emsp;&emsp;&emsp;(ii) demographic data on the population of the individuals to be served;
 
-&emsp;&emsp;&emsp;(iii) the average cost of providing each category of HIV-related health servicesand the extent to which such cost is paid by third-party payors; and
+&emsp;&emsp;&emsp;(iii) the average cost of providing each category of HIV-related health services and the extent to which such cost is paid by third-party payors; and
 
 &emsp;&emsp;&emsp;(iv) the aggregate amounts expended for each such category of services;
 
@@ -78,7 +78,7 @@ The application submitted under subsection (a) shall contain—
 
 &emsp;&emsp;(B) the State will—
 
-&emsp;&emsp;&emsp;(i) to the maximum extent practicable, ensure that HIV-related health care and support services delivered pursuant to a program established with assistance provided under section 300ff–21 of this title will be provided without regard to the ability of the individual to pay for suchservices and without regard to the current or past health condition of the individual with HIV/AIDS;
+&emsp;&emsp;&emsp;(i) to the maximum extent practicable, ensure that HIV-related health care and support services delivered pursuant to a program established with assistance provided under section 300ff–21 of this title will be provided without regard to the ability of the individual to pay for such services and without regard to the current or past health condition of the individual with HIV/AIDS;
 
 &emsp;&emsp;&emsp;(ii) ensure that such services will be provided in a setting that is accessible to low-income individuals with HIV/AIDS;
 
@@ -134,11 +134,11 @@ The application submitted under subsection (a) shall contain—
 
 &emsp;&emsp;(D) in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
 
-&emsp;&emsp;(E) in the case of individuals with an income greater than 300 percent of the official poverty line, the provider will not, for any calendar year, impose charges in an amountexceeding 10 percent of the annual gross income of the individual involved.
+&emsp;&emsp;(E) in the case of individuals with an income greater than 300 percent of the official poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 10 percent of the annual gross income of the individual involved.
 
 #### (2) Assessment of charge
 
-&emsp;With respect to compliance with the assurance made under paragraph (1), a grantee under section 300ff–21 of this title may, in the case of individuals subject to a charge for purposes of such paragraph—
+&emsp;With respect to compliance with the assurance made under paragraph (1), a granteeunder section 300ff–21 of this title may, in the case of individuals subject to a charge for purposes of such paragraph—
 
 &emsp;&emsp;(A) assess the amount of the charge in the discretion of the grantee, including imposing only a nominal charge for the provision of services, subject to the provisions of such paragraph regarding public schedules regarding limitation on the maximum amount of charges; and
 
@@ -198,7 +198,7 @@ The application submitted under subsection (a) shall contain—
 
 #### (C) Puerto Rico
 
-&emsp;&emsp;For purposes of paragraph (1), the number of cases of HIV/AIDS reported and confirmed for the Commonwealth of Puerto Rico forany fiscal year shall be deemed to be less than 1 percent.
+&emsp;&emsp;For purposes of paragraph (1), the number of cases of HIV/AIDS reported and confirmed for the Commonwealth of Puerto Rico for any fiscal year shall be deemed to be less than 1 percent.
 
 #### (4) Diminished State contribution
 

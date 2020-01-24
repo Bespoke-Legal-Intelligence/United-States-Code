@@ -256,7 +256,7 @@ In this section, the following definitions shall apply:
 
 #### (i) Mental health courts and diversion/alternative prosecution and sentencing programs
 
-&emsp;&emsp;&emsp;Funds may be used to create or expand existing mental health courts that meet program requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams and treatment accountability services for communities)that meet requirements established by the Attorney General and the Secretary.
+&emsp;&emsp;&emsp;Funds may be used to create or expand existing mental health courts that meet program requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams and treatment accountability services for communities) that meet requirements established by the Attorney General and the Secretary.
 
 #### (ii) Training
 
@@ -402,7 +402,7 @@ The Attorney General shall use not less than 8 percent of funds appropriated to 
 
 #### (4) Priority consideration
 
-&emsp;The Attorney General, in awarding grants under this subsection, shall give priority to programs that law enforcement personnel and members of the mental health and substance abuse professions develop and administer cooperatively.
+&emsp;The Attorney General, in awarding grants under this subsection, shall give priority toprograms that law enforcement personnel and members of the mental health and substance abuse professions develop and administer cooperatively.
 
 #### (i) Assisting veterans
 
@@ -592,7 +592,7 @@ All grants awarded by the Attorney General under this section shall be subject t
 
 #### (B) Audits
 
-&emsp;&emsp;Beginning in the first fiscal year beginning after December 13, 2016, and in each fiscal year thereafter, the Inspector General of the Department of Justice shall conduct audits of recipients of grants under this section to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
+&emsp;&emsp;Beginning in the first fiscal year beginning after December 13, 2016, and in each fiscalyear thereafter, the Inspector General of the Department of Justice shall conduct audits of recipients of grants under this section to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
 
 #### (C) Mandatory exclusion
 
@@ -780,7 +780,7 @@ Pub. L. 108–414, §2, Oct. 30, 2004, 118 Stat. 2327, provided that: "Congress 
 
 &emsp;"(5) A significant proportion of adults with a serious mental illness who are involved with the criminal justice system are homeless or at imminent risk of homelessness, and many of these individuals are arrested and jailed for minor, nonviolent offenses.
 
-&emsp;"(6) The majority of individuals with a mental illness or emotional disorder who are involved in the criminal or juvenile justice systems are responsive tomedical and psychological interventions that integrate treatment, rehabilitation, and support services.
+&emsp;"(6) The majority of individuals with a mental illness or emotional disorder who are involved in the criminal or juvenile justice systems are responsive to medical and psychological interventions that integrate treatment, rehabilitation, and support services.
 
 &emsp;"(7) Collaborative programs between mental health, substance abuse, and criminal or juvenile justice systems that ensure the provision of services for those with mental illness or co-occurring mental illness and substance abuse disorders can reduce the number of such individuals in adult and juvenile corrections facilities, while providing improved public safety."
 

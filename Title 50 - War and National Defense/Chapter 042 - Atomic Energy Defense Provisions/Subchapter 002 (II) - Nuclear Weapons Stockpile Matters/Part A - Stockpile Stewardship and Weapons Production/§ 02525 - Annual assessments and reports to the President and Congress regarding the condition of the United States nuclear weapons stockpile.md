@@ -48,7 +48,7 @@ Not later than December 1 of each year, each official specified in subsection (b
 
 &emsp;(B) An identification of the specific underground nuclear tests which, while not necessary, might have value in resolving any such issues and a discussion of the anticipated value of conducting such tests.
 
-&emsp;(C) Such official's determination as to the readiness of the United States to conduct the underground nuclear tests identified under subparagraphs (A)(i) and (B), if directed by the President to do so.
+&emsp;(C) Such official's determination as to the readiness of the United States to conduct the underground nuclear tests identified undersubparagraphs (A)(i) and (B), if directed by the President to do so.
 
 &emsp;(3) In the case of a report submitted by the head of a national security laboratory—
 
@@ -90,7 +90,7 @@ Not later than December 1 of each year, each official specified in subsection (b
 
 #### (g) Classified form
 
-Each submittal under subsection (f) shall be in classified form only, with the classificationlevel required for each portion of such submittal marked appropriately.
+Each submittal under subsection (f) shall be in classified form only, with the classification level required for each portion of such submittal marked appropriately.
 
 #### (h) Definition
 
@@ -122,7 +122,7 @@ Subsec. (f)(1). Pub. L. 113–66, §3122(b)(1), substituted "February 1" for "Ma
 
 Subsec. (f)(3). Pub. L. 113–66, §3122(b)(2), added par. (3).
 
-Subsec. (h). Pub. L. 113–66, §3146(c)(3)(B), in heading, substituted "Definition" for "Definitions" and, in text, substituted "section, the term" for "section:", struck out par. (1) which defined "national security laboratory", struck out par. (2) designation and "The term" before " 'Secretary concerned' ", redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively, and realigned margins.
+Subsec. (h). Pub. L. 113–66, §3146(c)(3)(B), in heading, substituted "Definition" for "Definitions" and, in text,substituted "section, the term" for "section:", struck out par. (1) which defined "national security laboratory", struck out par. (2) designation and "The term" before " 'Secretary concerned' ", redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively, and realigned margins.
 
 Subsec. (i). Pub. L. 112–239 struck out subsec. (i) which related to first submissions under subsecs. (e) and (f).
 

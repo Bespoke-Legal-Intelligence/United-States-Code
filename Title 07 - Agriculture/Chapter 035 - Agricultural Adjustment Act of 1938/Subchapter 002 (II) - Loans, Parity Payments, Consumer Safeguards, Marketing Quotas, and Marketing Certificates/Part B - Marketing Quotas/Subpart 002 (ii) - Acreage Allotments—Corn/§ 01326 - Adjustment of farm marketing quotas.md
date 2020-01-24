@@ -4,7 +4,7 @@
 
 (b) Whenever, upon any farm, the actual production of the acreage of corn is less than the normal production of the marketing percentage of the farm acreage allotment, there may be marketed, without penalty, from such farm an amount of corn from the corn stored under seal pursuant to section 1324 of this title which, together with the actual production of the then current crop, will equal the normal production of the marketing percentage of the farm acreage allotment.
 
-(c) Whenever, in any marketing year, marketing quotas are not in effect with respect to thecrop of corn produced in the calendar year in which such marketing year begins, all marketing quotas applicable to previous crops of corn shall be terminated.
+(c) Whenever, in any marketing year, marketing quotas are not in effect with respect to the crop of corn produced in the calendar year in which such marketing year begins, all marketing quotas applicable to previous crops of corn shall be terminated.
 
 (Feb. 16, 1938, ch. 30, title III, §326, 52 Stat. 51.)
 

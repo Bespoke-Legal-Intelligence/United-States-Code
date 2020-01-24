@@ -10,7 +10,7 @@
 
 (e) The total length of details of an enlisted member of the Air Force under subsection (a) during one enlistment period may not exceed 50 percent of that enlistment.
 
-(f) At no time may more than 8 percent of the authorized strength in commissioned officers, 8 percent of the authorized strength in warrant officers, or 2 percent of the authorized strength in enlisted members, of the Regular Air Force, ormore than 8 percent of the actual strength in commissioned officers, 8 percent of the actual strength in warrant officers, or 2 percent of the actual strength in enlisted members, of the total of reserve components of the Air Force, be detailed as students under subsection (a). For the purposes of this subsection, the actual strength of each category of Reserves includes both members on active duty and those not on active duty.
+(f) At no time may more than 8 percent of the authorized strength in commissioned officers, 8 percent of the authorized strength in warrant officers, or 2 percent of the authorized strength in enlisted members, of the Regular Air Force, or more than 8 percent of the actual strength in commissioned officers, 8 percent of the actual strength in warrant officers, or 2 percent of the actual strength in enlisted members, of the total of reserve components of the Air Force, be detailed as students under subsection (a). For the purposes of this subsection, the actual strength of each category of Reserves includes both members on active duty and those not on active duty.
 
 (g) Expenses incident to the detail of members under this section shall be paid from any funds appropriated for the Department of the Air Force.
 

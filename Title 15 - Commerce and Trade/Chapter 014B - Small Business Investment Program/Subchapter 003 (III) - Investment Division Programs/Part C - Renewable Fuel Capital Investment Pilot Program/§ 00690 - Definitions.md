@@ -16,7 +16,7 @@ In this part:
 
 #### (3) Renewable energy
 
-&emsp;The term "renewable energy" means energy derived from resources that are regenerative or that cannot be depleted, including solar, wind, ethanol, and biodiesel fuels.
+&emsp;The term "renewable energy" means energy derived from resources that are regenerativeor that cannot be depleted, including solar, wind, ethanol, and biodiesel fuels.
 
 #### (4) Renewable Fuel Capital Investment company
 

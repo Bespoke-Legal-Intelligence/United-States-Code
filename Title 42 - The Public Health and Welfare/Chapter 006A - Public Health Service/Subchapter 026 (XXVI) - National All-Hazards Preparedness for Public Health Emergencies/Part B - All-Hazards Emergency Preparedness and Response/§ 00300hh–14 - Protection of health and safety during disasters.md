@@ -60,7 +60,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;If the President, acting through the Secretary of Health and Human Services, determines that 1 or more substances of concern are being, or have been, released in an area declared to be a disaster area and disrupts thetransportation system of the United States, the President, acting through the Secretary of Health and Human Services, may carry out a program for the coordination, protection, assessment, monitoring, and study of the health and safety of individuals with high exposure levels to ensure that—
+&emsp;If the President, acting through the Secretary of Health and Human Services, determines that 1 or more substances of concern are being, or have been, released in an area declared to be a disaster area and disrupts the transportation system of the United States, the President, acting through the Secretary of Health and Human Services, may carry out a program for the coordination, protection, assessment, monitoring, and study of the health and safety of individuals with high exposure levels to ensure that—
 
 &emsp;&emsp;(A) the individuals are adequately informed about and protected against potential health impacts of any substance of concern in a timely manner;
 
@@ -86,7 +86,7 @@ In this section:
 
 &emsp;&emsp;(D) establishing and maintaining an exposure registry;
 
-&emsp;&emsp;(E) studying the short- and long-term human health impacts of any exposures through epidemiological and other health studies; and
+&emsp;&emsp;(E) studying the short- and long-term human health impacts of any exposuresthrough epidemiological and other health studies; and
 
 &emsp;&emsp;(F) providing assistance to individuals in determining eligibility for health coverage and identifying appropriate health services.
 
@@ -176,7 +176,7 @@ In this section:
 
 #### (c) Reports
 
-Not later than 1 year after the establishment of a program under subsection (b)(1), and every 5 years thereafter, the President, acting through the Secretary of Health and Human Services, or the medical institution or consortium of such institutions having entered into a cooperative agreement under subsection (b)(5), may submit a report to the Secretary of Homeland Security, the Secretary of Labor, the Administrator of the Environmental Protection Agency, and appropriate committees of Congress describing the programs and studies carried out under the program.
+Not later than 1 year after the establishment of a program under subsection (b)(1), and every 5 years thereafter, the President, acting through the Secretary of Health and Human Services, or the medical institution or consortium of such institutions having entered into a cooperative agreement under subsection (b)(5), may submit a report to the Secretary of Homeland Security,the Secretary of Labor, the Administrator of the Environmental Protection Agency, and appropriate committees of Congress describing the programs and studies carried out under the program.
 
 #### (d) National Academy of Sciences report on disaster area health and environmental protection and monitoring
 

@@ -60,7 +60,7 @@ No guarantee may be made with respect to any debenture under subsection (a) unle
 
 #### (3) Development company fee
 
-&emsp;The Administration shall collect annually from each development company a fee of 0.125percent of the outstanding principal balance of any guaranteed debenture authorized by the Administration after September 30, 1996. Such fee shall be derived from the servicing fees collected by the development company pursuant to regulation, and shall not be derived from any additional fees imposed on small business concerns. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a).
+&emsp;The Administration shall collect annually from each development company a fee of 0.125 percent of the outstanding principal balance of any guaranteed debenture authorized by the Administration after September 30, 1996. Such fee shall be derived from the servicing fees collected by the development company pursuant to regulation, and shall not be derived from any additional fees imposed on small business concerns. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a).
 
 #### (e) "Qualified State or local development company" defined; exception for rural company; authority
 
@@ -134,7 +134,7 @@ Pub. L. 108–199 substituted "March 15, 2004" for "October 1, 2003" before peri
 
 Subsec. (i). Pub. L. 107–100, §6(b)(2), added subsec. (i).
 
-<b>2000</b>—Subsec. (f). Pub. L. 106–554 amended heading and text of subsec. (f) generally. Prior to amendment, textread as follows: "The fees authorized by subsections (b) and (c) of this section shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 2000."
+<b>2000</b>—Subsec. (f). Pub. L. 106–554 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "The fees authorized by subsections (b) and (c) of this section shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 2000."
 
 <b>1997</b>—Subsec. (b)(7)(A). Pub. L. 105–135, §222(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "assesses and collects a fee, which shall be payable by the borrower, in an amount equal to the lesser of—
 

@@ -26,7 +26,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each fiscal year, the Commission shall assess and collect fees and charges in accordance with paragraphs (2) and (3) in a manner that ensures that, to the maximum extent practicable, the amount assessed and collected is equal to an amount that approximates—
+&emsp;&emsp;Each fiscal year, the Commission shall assess and collect fees and charges in accordance with paragraphs (2) and (3) in a mannerthat ensures that, to the maximum extent practicable, the amount assessed and collected is equal to an amount that approximates—
 
 &emsp;&emsp;&emsp;(i) the total budget authority of the Commission for that fiscal year; less
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) is licensed by the Commission under section 2134(c) of this title for operation at a thermal power level of not more than 10 megawatts; and
 
-&emsp;&emsp;&emsp;&emsp;(II) if licensed under subclause (I) for operation at a thermal power level of more than 1 megawatt, does not contain—
+&emsp;&emsp;&emsp;&emsp;(II) if licensed under subclause (I) for operation at a thermal power level ofmore than 1 megawatt, does not contain—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) a circulating loop through the core in which the licensee conducts fuel experiments;
 

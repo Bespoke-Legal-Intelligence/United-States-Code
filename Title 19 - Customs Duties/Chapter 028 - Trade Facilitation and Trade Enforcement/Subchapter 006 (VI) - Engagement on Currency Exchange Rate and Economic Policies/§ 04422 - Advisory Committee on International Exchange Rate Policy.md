@@ -16,7 +16,7 @@
 
 &emsp;The Committee shall be composed of 9 members as follows, none of whom shall be employees of the Federal Government:
 
-&emsp;&emsp;(A) Three members shall be appointed by the President pro tempore of the Senate,upon the recommendation of the chairmen and ranking members of the Committee on Banking, Housing, and Urban Affairs and the Committee on Finance of the Senate.
+&emsp;&emsp;(A) Three members shall be appointed by the President pro tempore of the Senate, upon the recommendation of the chairmen and ranking members of the Committee on Banking, Housing, and Urban Affairs and the Committee on Finance of the Senate.
 
 &emsp;&emsp;(B) Three members shall be appointed by the Speaker of the House of Representatives, upon the recommendation of the chairmen and ranking members of the Committee on Financial Services and the Committee on Ways and Means of the House of Representatives.
 

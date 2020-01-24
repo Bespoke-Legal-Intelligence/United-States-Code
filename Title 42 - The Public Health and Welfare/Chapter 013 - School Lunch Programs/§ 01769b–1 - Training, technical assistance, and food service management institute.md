@@ -32,7 +32,7 @@ The Secretary—
 
 &emsp;&emsp;&emsp;(ii) demonstrate the greatest need, for the purpose of aiding schools in meeting costs associated with initiating or expanding a school breakfast program under section 1773 of this title, including outreach and informational activities; and
 
-&emsp;(2) from amounts appropriated pursuant to subsection (e)(2), is authorized to provide financial and other assistance to the University of Mississippi, in cooperation with the University of Southern Mississippi, to establish and maintain a food service management institute.
+&emsp;(2) from amounts appropriated pursuant to subsection (e)(2), is authorized to provide financial and other assistance to the University of Mississippi, in cooperation with the University of Southern Mississippi, to establish andmaintain a food service management institute.
 
 #### (b) Minimum requirements
 
@@ -118,7 +118,7 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 #### (2) Additional funding
 
-&emsp;In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out subsection (a)(2) such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2), in addition to the activities funded under paragraph (1), to the extent providedfor, and in such amounts as are provided for, in advance in appropriations Acts.
+&emsp;In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out subsection (a)(2) such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2), in addition to the activities funded under paragraph (1), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
 
 #### (3) Funding for education, training, or applied research or studies
 

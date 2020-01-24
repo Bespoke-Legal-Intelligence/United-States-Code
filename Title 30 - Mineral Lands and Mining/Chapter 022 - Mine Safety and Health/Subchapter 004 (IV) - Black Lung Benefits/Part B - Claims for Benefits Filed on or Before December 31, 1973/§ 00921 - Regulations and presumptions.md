@@ -40,7 +40,7 @@ The effective date of the Black Lung Benefits Amendments of 1981, referred to in
 
 <b>1994</b>—Subsecs. (a), (b), (c)(4), (5). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary" wherever appearing.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–119, §203(a)(5), inserted ", except with respect to a claim filed under part C ofthis subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981," after "pneumoconiosis or".
+<b>1981</b>—Subsec. (a). Pub. L. 97–119, §203(a)(5), inserted ", except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981," after "pneumoconiosis or".
 
 Subsec. (c)(2), (4). Pub. L. 97–119, §202(b)(1), inserted provision that this paragraph not apply with respect to claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981.
 

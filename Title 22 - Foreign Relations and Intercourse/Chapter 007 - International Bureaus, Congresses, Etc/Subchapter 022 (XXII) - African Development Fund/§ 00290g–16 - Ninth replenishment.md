@@ -8,7 +8,7 @@
 
 #### (2) Subject to appropriations
 
-&emsp;Any commitment to make the contribution authorized by paragraph (1) shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+&emsp;Any commitment to make the contribution authorized by paragraph (1) shall be effectiveonly to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 #### (b) Limitations on authorization of appropriations
 

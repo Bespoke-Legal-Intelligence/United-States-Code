@@ -14,7 +14,7 @@
 
 &emsp;(6) Determine and pay necessary office expenses of courts, judges, and those court officials whose expenses are by law allowable, and the lawful fees of United States magistrate judges;
 
-&emsp;(7) Regulate and pay annuities to widows and surviving dependent children of justices and judges of the United States, judges of the United States Court of Federal Claims, bankruptcy judges, United States magistrate judges, Directors of the Federal Judicial Center, and Directors of the Administrative Office, and necessary travel and subsistence expenses incurred by judges, court officers and employees, and officers and employees of the Administrative Office, and the Federal Judicial Center, while absent from their officialstations on official business, without regard to the per diem allowances and amounts for reimbursement of actual and necessary expenses established by the Administrator of General Services under section 5702 of title 5, except that the reimbursement of subsistence expenses may not exceed that authorized by the Director for judges of the United States under section 456 of this title;
+&emsp;(7) Regulate and pay annuities to widows and surviving dependent children of justices and judges of the United States, judges of the United States Court of Federal Claims, bankruptcy judges, United States magistrate judges, Directors of the Federal Judicial Center, and Directors of the Administrative Office, and necessary travel and subsistence expenses incurred by judges, court officers and employees, and officers and employees of the Administrative Office, and the Federal Judicial Center, while absent from their official stations on official business, without regard to the per diem allowances and amounts for reimbursement of actual and necessary expenses established by the Administrator of General Services under section 5702 of title 5, except that the reimbursement of subsistence expenses may not exceed that authorized by the Director for judges of the United States under section 456 of this title;
 
 &emsp;(8) Disburse appropriations and other funds for the maintenance and operation of the courts;
 
@@ -66,7 +66,7 @@
 
 &emsp;(1) supervise all administrative matters relating to the offices of the United States magistrate judges;
 
-&emsp;(2) gather, compile, and evaluate all statistical and other information required for theperformance of his duties and the duties of the conference with respect to such officers;
+&emsp;(2) gather, compile, and evaluate all statistical and other information required for the performance of his duties and the duties of the conference with respect to such officers;
 
 &emsp;(3) lay before Congress annually statistical tables and other information which will accurately reflect the business which has come before the various United States magistrate judges, including (A) the number of matters in which the parties consented to the exercise of jurisdiction by a magistrate judge, (B) the number of appeals taken pursuant to the decisions of magistrate judges and the disposition of such appeals, and (C) the professional background and qualifications of individuals appointed under section 631 of this title to serve as magistrate judge;
 
@@ -80,7 +80,7 @@
 
 (2) The Director hereby is authorized to enter into contracts for public utility services and related terminal equipment for periods not exceeding ten years.
 
-(3)(A) In order to promote the recycling and reuse of recyclable materials, the Director may provide for the sale or disposal of recyclable scrap materials from paper products and other consumable office supplies held by an entity within the judicial branch.
+(3)(A) In order to promote the recycling and reuse of recyclable materials, the Director mayprovide for the sale or disposal of recyclable scrap materials from paper products and other consumable office supplies held by an entity within the judicial branch.
 
 (B) The sale or disposal of recyclable materials under subparagraph (A) shall be consistent with the procedures provided in sections 541–555 of title 40 for the sale of surplus property.
 
@@ -98,7 +98,67 @@
 
 (2) The Director of the Administrative Office of the United States Courts shall include in his annual report filed with the Congress under this section a summary of the number of complaints filed with each judicial council under chapter 16 of this title, indicating the general nature of such complaints and the disposition of those complaints in which action has been taken.
 
-(June 25, 1948, ch. 646, 62 Stat. 914; Aug. 3, 1956, ch. 944, §3, 70 Stat. 1026; Pub. L. 90–219, title II, §203(a)–(c), Dec. 20, 1967, 81 Stat. 669; Pub. L. 90–578, title II, §201, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1114, 1118; Pub. L. 92–397, §4, Aug. 22, 1972, 86 Stat. 580; Pub. L. 93–619, title II, §204, Jan. 3, 1975, 88 Stat. 2089; Pub. L. 95–539, §§3, 4, Oct. 28, 1978, 92 Stat. 2043; Pub. L. 95–598, title II, §225, Nov. 6, 1978, 92 Stat. 2664; Pub. L. 96–82, §5, Oct. 10, 1979, 93 Stat. 645; Pub. L. 96–458, §5, Oct. 15, 1980, 94 Stat. 2040; Pub. L. 96–523, §1(c)(1), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 97–267, §7, Sept. 27, 1982, 96 Stat. 1139; Pub. L. 99–554, title I, §116, Oct. 27, 1986, 100 Stat. 3095; Pub. L. 100–185, §2, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–659, §6(a), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–702, title IV, §402(a), title X, §§1008, 1010, 1011, 1020(a)(2), Nov. 19, 1988, 102 Stat. 4650, 4667, 4668, 4671; Pub. L. 101–474, §5(r), Oct. 30, 1990, 104 Stat. 1101; Pub. L. 101–647, title XXV, §2548, Nov. 29, 1990, 104 Stat. 4888; Pub. L. 101–650, title III, §§306(e)(1), 321, 325(c)(1), Dec. 1, 1990, 104 Stat. 5111, 5117, 5121; Pub. L. 102–572, title V, §503, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4513, 4516; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §305\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–518, title II, §204, title III, §304(d), Nov. 13, 2000, 114 Stat. 2414, 2418; Pub. L. 107–217, §3(g)(1), Aug. 21,2002, 116 Stat. 1299; Pub. L. 107–273, div. C, title I, §11043(e), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 109–115, div. A, title IV, §407(a), Nov. 30, 2005, 119 Stat. 2470; Pub. L. 110–177, title V, §502(a), Jan. 7, 2008, 121 Stat. 2542; Pub. L. 111–8, div. D, title III, §307(a), Mar. 11, 2009, 123 Stat. 648; Pub. L. 111–350, §5(g)(2), Jan. 4, 2011, 124 Stat. 3848.)
+(i)
+
+Restrictions on Criminal History Inquiries.—
+
+&emsp;(1)
+
+Definitions.—In this subsection—
+
+&emsp;&emsp;(A) the terms "agency" and "criminal history record information" have the meanings given those terms in section 9201 of title 5;
+
+&emsp;&emsp;(B) the term "covered employee" means an employee of the judicial branch of the United States Government, other than—
+
+&emsp;&emsp;&emsp;(i) any judge or justice who is entitled to hold office during good behavior;
+
+&emsp;&emsp;&emsp;(ii) a United States magistrate judge; or
+
+&emsp;&emsp;&emsp;(iii) a bankruptcy judge; and
+
+&emsp;&emsp;(C) the term "employing office" means any office or entity of the judicial branch of the United States Government that employs covered employees.
+
+&emsp;(2)
+
+Restriction.—A covered employee may not request that an applicant for employment as a covered employee disclose criminal history record information if the request would be prohibited under section 9202 of title 5 if made by an employee of an agency.
+
+&emsp;(3)
+
+Employing office policies; complaint procedure.—The provisions of sections 9203 and 9206 of title 5 shall apply to employing offices and to applicants for employment as covered employees, consistent with regulations issued by the Director to implement this subsection.
+
+&emsp;(4)
+
+Adverse action.—
+
+&emsp;&emsp;(A)
+
+Adverse action.—The Director may take such adverse action with respect to a covered employee who violates paragraph (2) as would be appropriate under section 9204 of title 5 if the violation had been committed by an employee of an agency.
+
+&emsp;&emsp;(B)
+
+Appeals.—The Director shall by rule establish procedures providing for an appeal from any adverse action taken under subparagraph (A) by not later than 30 days after the date of the action.
+
+&emsp;&emsp;(C)
+
+Applicability of other laws.—Except as provided in subparagraph (B), an adverse action taken under subparagraph (A) (including a determination in an appeal from such an action under subparagraph (B)) shall not be subject to appeal or judicial review.
+
+&emsp;(5)
+
+Regulations to be issued.—
+
+&emsp;&emsp;(A)
+
+In general.—Not later than 18 months after the date of enactment of the Fair Chance to Compete for Jobs Act of 2019, the Director shall issue regulations to implement this subsection.
+
+&emsp;&emsp;(B)
+
+Parallel with agency regulations.—The regulations issued under subparagraph (A) shall be the same as substantive regulations promulgated by the Director of the Office of Personnel Management under section 2(b)(1) of the Fair Chance to Compete for Jobs Act of 2019 except to the extent that the Director of the Administrative Office of the United States Courts may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this subsection.
+
+&emsp;(6)
+
+Effective date.—Paragraphs (1) through (4) shall take effect on the date on which section 9202 of title 5 applies with respect to agencies.
+
+(June 25, 1948, ch. 646, 62 Stat. 914; Aug. 3, 1956, ch. 944, §3, 70 Stat. 1026; Pub. L. 90–219, title II, §203(a)–(c), Dec. 20, 1967, 81 Stat. 669; Pub. L. 90–578, title II, §201, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1114, 1118; Pub. L. 92–397, §4, Aug. 22, 1972, 86 Stat. 580; Pub. L. 93–619, title II, §204, Jan. 3, 1975, 88 Stat. 2089; Pub. L. 95–539, §§3, 4, Oct. 28, 1978, 92 Stat. 2043; Pub. L. 95–598, title II, §225, Nov. 6, 1978, 92 Stat. 2664; Pub. L. 96–82, §5, Oct. 10, 1979, 93 Stat. 645; Pub. L. 96–458, §5, Oct. 15, 1980, 94 Stat. 2040; Pub. L. 96–523, §1(c)(1), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 97–267, §7, Sept. 27,1982, 96 Stat. 1139; Pub. L. 99–554, title I, §116, Oct. 27, 1986, 100 Stat. 3095; Pub. L. 100–185, §2, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–659, §6(a), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–702, title IV, §402(a), title X, §§1008, 1010, 1011, 1020(a)(2), Nov. 19, 1988, 102 Stat. 4650, 4667, 4668, 4671; Pub. L. 101–474, §5(r), Oct. 30, 1990, 104 Stat. 1101; Pub. L. 101–647, title XXV, §2548, Nov. 29, 1990, 104 Stat. 4888; Pub. L. 101–650, title III, §§306(e)(1), 321, 325(c)(1), Dec. 1, 1990, 104 Stat. 5111, 5117, 5121; Pub. L. 102–572, title V, §503, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4513, 4516; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §305\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–518, title II, §204, title III, §304(d), Nov. 13, 2000, 114 Stat. 2414, 2418; Pub. L. 107–217, §3(g)(1), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–273, div. C, title I, §11043(e), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 109–115, div. A, title IV, §407(a), Nov. 30, 2005, 119 Stat. 2470; Pub. L. 110–177, title V, §502(a), Jan. 7, 2008, 121 Stat. 2542; Pub. L. 111–8, div. D, title III, §307(a), Mar. 11, 2009, 123 Stat. 648; Pub. L. 111–350, §5(g)(2), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 116–92, div. A, title XI, §1122(e), Dec. 20, 2019, 133 Stat. 1609.)
 
 #### Historical and Revision Notes
 
@@ -152,7 +212,13 @@ Section 254c of title 41, United States Code, referred to in subsec. (g)(4)(B), 
 
 Section 255 of title 41, United States Code, referred to in subsec. (g)(4)(C), probably means section 305 of act June 30, 1949, ch. 288, which was classified to section 255 of former Title 41, Public Contracts, and was repealed and restated as chapter 45 (§4501 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
+The date of enactment of the Fair Chance to Compete for Jobs Act of 2019, referred to in subsec. (i)(5)(A), is the date of enactment of subtitle B of title XI of div. A of Pub. L. 116–92, which was approved Dec. 20, 2019.
+
+Section 2(b)(1) of the Fair Chance to Compete for Jobs Act of 2019, referred to in subsec. (i)(5)(B), probably means section 1122(b)(1) of Pub. L. 116–92, which relates to regulations and is set out as a note under section 9201 of Title 5, Government Organization and Employees.
+
 #### Amendments
+
+<b>2019</b>—Subsec. (i). Pub. L. 116–92 added subsec. (i).
 
 <b>2011</b>—Subsec. (a)(10)(C). Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)".
 
@@ -432,7 +498,7 @@ Provision effective first day of first pay period which begins on or after July 
 
 <b>1964</b>—Pub. L. 88–426, title IV, §402(b), Aug. 14, 1964, 78 Stat. 433, provided that: "The limitation provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by the title I of this Act in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\]."
 
-<b>1962</b>—Pub. L. 87–793, title VI, §1004(b), Oct. 11, 1962, 76 Stat. 866, provided that: "The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by two amounts, the first amount to be effective for the period beginning as of the first day of the first pay period which begins on or after the date of enactment of this Act \[Oct. 11, 1962\], and ending immediately prior to the first day of the first pay periodwhich begins on or after January 1, 1964, and the second amount to be effective on the first day of the first pay period which begins on or after January 1, 1964, and thereafter, which reflect the respective applicable increases provided by title II of this part in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\]."
+<b>1962</b>—Pub. L. 87–793, title VI, §1004(b), Oct. 11, 1962, 76 Stat. 866, provided that: "The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by two amounts, the first amount to be effective for the period beginning as of the first day of the first pay period which begins on or after the date of enactment of this Act \[Oct. 11, 1962\], and ending immediately prior to the first day of the first pay period which begins on or after January 1, 1964, and the second amount to be effective on the first day of the first pay period which begins on or after January 1, 1964, and thereafter, which reflect the respective applicable increases provided by title II of this part in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\]."
 
 <b>1960</b>—Pub. L. 86–568, title I, §116(b), July 1, 1960, 74 Stat. 303, provided that: "The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by the amounts necessary to pay the additional basic compensation provided by this part."
 

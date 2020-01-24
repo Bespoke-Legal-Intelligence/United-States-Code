@@ -26,7 +26,7 @@
 
 &emsp;The purpose of the program required by this section is to promote:
 
-&emsp;&emsp;(A) The maintenance and replication of existing successful services in domestic violence, dating violence, sexual assault, and stalking community-based programs providing culturally specific services and other resources.
+&emsp;&emsp;(A) The maintenance and replication of existing successful services in domestic violence, dating violence, sexual assault, andstalking community-based programs providing culturally specific services and other resources.
 
 &emsp;&emsp;(B) The development of innovative culturally specific strategies and projects to enhance access to services and resources for victims of domestic violence, dating violence, sexual assault, and stalking who face obstacles to using more traditional services and resources.
 
@@ -52,7 +52,7 @@
 
 #### (3) Technical assistance and training
 
-&emsp;The Director shall provide technical assistance and training to grantees of this and other programs under this Act regarding the development and provision of effective culturally specific community-based services by entering into cooperative agreements or contracts with an organization or organizations having ademonstrated expertise in and whose primary purpose is addressing the development and provision of culturally specific community-based services to victims of domestic violence, dating violence, sexual assault, and stalking.
+&emsp;The Director shall provide technical assistance and training to grantees of this and other programs under this Act regarding the development and provision of effective culturally specific community-based services by entering into cooperative agreements or contracts with an organization or organizations having a demonstrated expertise in and whose primary purpose is addressing the development and provision of culturally specific community-based services to victims of domestic violence, dating violence, sexual assault, and stalking.
 
 #### (c) Eligible entities
 

@@ -44,7 +44,7 @@ Reports.—
 
 &emsp;(1)
 
-Reports to congress.—The Secretary shall submit to the congressional defense committees each year a report on the program under subsection (a) during the previous year. Each report shall include, for the year covered by such report, the following:
+Reports to congress.—The Secretary shall submit to the congressional defense committees each year a report on the programunder subsection (a) during the previous year. Each report shall include, for the year covered by such report, the following:
 
 &emsp;&emsp;(A) A description of the activities under the program.
 

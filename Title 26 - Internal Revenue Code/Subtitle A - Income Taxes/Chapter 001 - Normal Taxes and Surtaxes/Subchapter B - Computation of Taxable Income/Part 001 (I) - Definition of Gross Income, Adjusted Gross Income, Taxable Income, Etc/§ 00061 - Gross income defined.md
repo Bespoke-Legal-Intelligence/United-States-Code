@@ -96,7 +96,7 @@ Gift Tax Defined.—For purposes of subsection (a), the term 'gift tax' means—
 
 "(c)
 
-Statute of Limitations.—If refund or credit of any overpayment of tax resulting from subsection (a) is prevented on the date of the enactment of this Act\[July 18, 1984\] (or at any time within 1 year after such date) by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to subsection (a)) may nevertheless be made or allowed if claim therefor is filed within 1 year after the date of the enactment of this Act."
+Statute of Limitations.—If refund or credit of any overpayment of tax resulting from subsection (a) is prevented on the date of the enactment of this Act \[July 18, 1984\] (or at any time within 1 year after such date) by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to subsection (a)) may nevertheless be made or allowed if claim therefor is filed within 1 year after the date of the enactment of this Act."
 
 #### Payment-in-Kind Tax Treatment Act of 1983
 

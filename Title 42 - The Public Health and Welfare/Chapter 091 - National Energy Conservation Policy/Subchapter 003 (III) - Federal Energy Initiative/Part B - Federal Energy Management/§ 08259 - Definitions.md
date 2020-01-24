@@ -12,7 +12,7 @@ For the purposes of this part—
 
 &emsp;(5) the term "energy survey" means a procedure used to determine energy and cost savings likely to result from the use of appropriate energy related maintenance and operating procedures and modifications, including the purchase and installation of particular energy-related equipment and the use of renewable energy sources;
 
-&emsp;(6) the term "Federal building" means any building, structure, or facility, or part thereof, including the associated energy consuming support systems, which is constructed, renovated, leased, or purchased in whole or in part for use by the Federal Government and which consumes energy; such term also means a collection of such buildings, structures, or facilities and the energy consuming support systems for such collection;
+&emsp;(6) the term "Federal building" means any building, structure, or facility, or part thereof,including the associated energy consuming support systems, which is constructed, renovated, leased, or purchased in whole or in part for use by the Federal Government and which consumes energy; such term also means a collection of such buildings, structures, or facilities and the energy consuming support systems for such collection;
 
 &emsp;(7) the term "life cycle cost" means the total costs of owning, operating, and maintaining a building over its useful life (including such costs as fuel, energy, labor, and replacement components) determined on the basis of a systematic evaluation and comparison of alternative building systems, except that in the case of leased buildings, the life cycle costs shall be calculated over the effective remaining term of the lease;
 

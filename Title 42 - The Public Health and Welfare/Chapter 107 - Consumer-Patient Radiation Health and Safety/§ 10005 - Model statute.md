@@ -2,7 +2,7 @@
 
 In order to encourage the administration of accreditation and certification programs by the States, the Secretary shall prepare and transmit to the States a model statute for radiologic procedure safety. Such model statute shall provide that—
 
-&emsp;(1) it shall be unlawful in a State for individuals to perform radiologic procedures unlesssuch individuals are certified by the State to perform such procedures; and
+&emsp;(1) it shall be unlawful in a State for individuals to perform radiologic procedures unless such individuals are certified by the State to perform such procedures; and
 
 &emsp;(2) any educational requirements for certification of individuals to perform radiologic procedures shall be limited to educational programs accredited by the State.
 

@@ -106,7 +106,7 @@ A prior section 7342, act Aug. 10, 1956, ch. 1041, 70A Stat. 454, related to per
 
 <b>1980</b>—Pub. L. 96–343, §13(a)(3), substituted "positions" for "positions: regular commissioned officers" in section catchline.
 
-Subsec. (a). Pub. L. 96–513, §502(19)(A), as amended by Pub. L. 97–22, struck out cl. (4) which had referred to service in a position of importance and responsibilitydesignated by the President to carry out the grade of general or lieutenant general under section 3066 of this title, and redesignated cl. (5) as (4).
+Subsec. (a). Pub. L. 96–513, §502(19)(A), as amended by Pub. L. 97–22, struck out cl. (4) which had referred to service in a position of importance and responsibility designated by the President to carry out the grade of general or lieutenant general under section 3066 of this title, and redesignated cl. (5) as (4).
 
 Pub. L. 96–343, §13(a)(1), substituted "Army who has" for "Regular Army who has" and "in which he served on active duty" for "held by him at any time on the active list".
 

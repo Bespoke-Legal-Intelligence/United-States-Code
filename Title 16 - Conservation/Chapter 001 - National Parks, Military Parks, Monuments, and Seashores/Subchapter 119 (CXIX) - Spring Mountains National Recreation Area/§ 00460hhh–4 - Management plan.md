@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) proposals for public facilities to be developed, expanded, or improved for the Recreation Area, including one or more visitor centers to accommodate both local and out-of-State visitors;
 
-&emsp;&emsp;(C) plans for the management of natural and cultural resources in the Recreation Area, with emphasis on the preservation and long-term scientific use of archaeological resources, with priority in development given to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act <sup>2</sup> within the Recreation Area;
+&emsp;&emsp;(C) plans for the management of natural and cultural resources in the Recreation Area, with emphasis on the preservation andlong-term scientific use of archaeological resources, with priority in development given to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act <sup>2</sup> within the Recreation Area;
 
 &emsp;&emsp;(D) wildlife and fish resource management plans for the Recreation Area prepared in consultation with appropriate departments of the State of Nevada and using other available studies of the Recreation Area;
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) wild horse and burro herd management plans for the Recreation Area prepared in consultation with appropriate departments and commissions of the State of Nevada; and
 
-&emsp;&emsp;(G) an inventory of all lands within the Recreation Area not presently managed asNational Forest lands that will permit the Secretary to evaluate possible future acquisitions.
+&emsp;&emsp;(G) an inventory of all lands within the Recreation Area not presently managed as National Forest lands that will permit the Secretary to evaluate possible future acquisitions.
 
 #### (3) Consultation
 

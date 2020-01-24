@@ -22,5 +22,5 @@ Subsection (b) of section 603 deals only with the prohibition against importatio
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–153 substituted a period at end for "; however, the articles may be returned tothe country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of law."
+<b>1996</b>—Subsec. (c). Pub. L. 104–153 substituted a period at end for "; however, the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of law."
 

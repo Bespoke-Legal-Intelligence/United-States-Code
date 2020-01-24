@@ -52,7 +52,7 @@
 
 #### (2) Penalty
 
-&emsp;For each willful violation of paragraph (1), the institution involved shall be subject to a penalty of not more than $100 for each dayduring which the violation continues, which the Corporation may recover for its use.
+&emsp;For each willful violation of paragraph (1), the institution involved shall be subject to a penalty of not more than $100 for each day during which the violation continues, which the Corporation may recover for its use.
 
 #### (e) Prohibition on uses of funds related to Federal Agricultural Mortgage Corporation
 

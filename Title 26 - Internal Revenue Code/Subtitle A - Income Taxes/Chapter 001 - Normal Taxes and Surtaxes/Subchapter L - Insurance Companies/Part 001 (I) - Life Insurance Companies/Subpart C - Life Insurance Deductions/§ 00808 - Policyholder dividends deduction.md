@@ -96,7 +96,7 @@ For purposes of this subchapter—
 
 #### (1) In general
 
-&emsp;The term "prevailing State assumed interest rate" means, with respect to any contract, the highest assumed interest rate permitted to be used in computing life insurance reserves for insurance contracts or annuity contracts (asthe case may be) under the insurance laws of at least 26 States. For purposes of the preceding sentence, the effect of nonforfeiture laws of a State on interest rates for reserves shall not be taken into account.
+&emsp;The term "prevailing State assumed interest rate" means, with respect to any contract, the highest assumed interest rate permitted to be used in computing life insurance reserves for insurance contracts or annuity contracts (as the case may be) under the insurance laws of at least 26 States. For purposes of the preceding sentence, the effect of nonforfeiture laws of a State on interest rates for reserves shall not be taken into account.
 
 #### (2) When rate determined
 

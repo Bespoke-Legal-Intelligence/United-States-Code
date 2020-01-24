@@ -78,7 +78,7 @@ Not later than 180 days after the date on which the Administrator receives a com
 
 #### (4) Limitation
 
-&emsp;Nothing in this subsection affects the authority of the Administrator with respect to the selection of projects described in paragraphs (1), (8), or (10) of section 3905 of thistitle to receive financial assistance under this chapter.
+&emsp;Nothing in this subsection affects the authority of the Administrator with respect to the selection of projects described in paragraphs (1), (8), or (10) of section 3905 of this title to receive financial assistance under this chapter.
 
 #### (h) Applicability of other laws
 

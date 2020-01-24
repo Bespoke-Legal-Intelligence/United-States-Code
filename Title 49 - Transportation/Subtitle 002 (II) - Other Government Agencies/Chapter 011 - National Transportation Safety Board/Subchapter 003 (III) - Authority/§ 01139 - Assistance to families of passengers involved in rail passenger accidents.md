@@ -44,7 +44,7 @@ Requests for passenger lists.—
 
 &emsp;&emsp;(A)
 
-Requests by director of family support services.—It shall be the responsibility of the director of family support services designated for an accident under subsection (a)(1) to request, as soon as practicable, from the rail passenger carrier involved in the accident a list, which is based on the best available information at the time of the request, of the names of the passengers that were aboard the rail passenger carrier's train involved in the accident. A rail passenger carrier shall use reasonable efforts, with respect to its unreserved trains, andpassengers not holding reservations on its other trains, to ascertain the names of passengers aboard a train involved in an accident.
+Requests by director of family support services.—It shall be the responsibility of the director of family support services designated for an accident under subsection (a)(1) to request, as soon as practicable, from the rail passenger carrier involved in the accident a list, which is based on the best available information at the time of the request, of the names of the passengers that were aboard the rail passenger carrier's train involved in the accident. A rail passenger carrier shall use reasonable efforts, with respect to its unreserved trains, and passengers not holding reservations on its other trains, to ascertain the names of passengers aboard a train involved in an accident.
 
 &emsp;&emsp;(B)
 
@@ -80,7 +80,7 @@ Unsolicited communications.—No unsolicited communication concerning a potentia
 
 &emsp;(3)
 
-Prohibition on actions to prevent mental health and counseling services.—No State or political subdivision thereof may prevent the employees, agents, or volunteers of an organization designated for an accident under subsection (a)(2) from providing mental health and counseling services under subsection (c)(1) in the 30-day period beginning on the date of the accident. The director of family support services designated for the accident under subsection (a)(1) may extend such period for not to exceed an additional 30 days if the director determines that the extension is necessary to meet the needs of the families and if State and local authorities are notified of the determination.
+Prohibition on actions to prevent mental health and counseling services.—No State or political subdivision thereof may prevent the employees, agents, or volunteers of an organization designated for an accident under subsection (a)(2) from providing mental health and counseling services under subsection (c)(1) in the 30-day period beginning on the date of the accident. The director of family support services designated for the accident under subsection (a)(1) may extend suchperiod for not to exceed an additional 30 days if the director determines that the extension is necessary to meet the needs of the families and if State and local authorities are notified of the determination.
 
 (h)
 
@@ -134,7 +134,7 @@ General rule.—This section (other than subsection (g)) shall not apply to a ra
 
 &emsp;(2)
 
-Board assistance.—If this section does not apply to a rail passenger accident because the Board has relinquished investigative priority with respect to the accident, the Boardshall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
+Board assistance.—If this section does not apply to a rail passenger accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
 
 (k)
 
@@ -182,7 +182,7 @@ Model Plan and Recommendations.—The task force established pursuant to subsect
 
 &emsp;"(3) recommendations on methods to ensure that the families of passengers involved in a passenger rail accident who are not citizens of the United States receive appropriate assistance; and
 
-&emsp;"(4) recommendations on methods to ensure that emergency services personnel have as immediate and accurate a count of the number of passengers onboard the train as possible.
+&emsp;"(4) recommendations on methods to ensure that emergency services personnel have as immediate andaccurate a count of the number of passengers onboard the train as possible.
 
 "(c)
 

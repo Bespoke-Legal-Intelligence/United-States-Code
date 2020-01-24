@@ -6,7 +6,7 @@ The head of each agency of the United States Government shall submit to the Arch
 
 &emsp;(2) lists of other records in the custody of the agency not needed by it in the transaction of its current business and that do not appear to have sufficient administrative, legal, research, or other value to warrant their further preservation by the Government; and
 
-&emsp;(3) schedules proposing the disposal after the lapse of specified periods of time of records of a specified form or character that either have accumulated in the custody of the agency or may accumulate after the submission of the schedules and apparently will not after the lapse of the period specified have sufficient administrative, legal, research, or other value to warrant their further preservation by the Government.
+&emsp;(3) schedules proposing the disposal after the lapse of specified periods of time of records ofa specified form or character that either have accumulated in the custody of the agency or may accumulate after the submission of the schedules and apparently will not after the lapse of the period specified have sufficient administrative, legal, research, or other value to warrant their further preservation by the Government.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1299; Pub. L. 98–497, title I, §107(b)(23), (25)(A), Oct. 19, 1984, 98 Stat. 2290; Pub. L. 113–187, §5(c), Nov. 26, 2014, 128 Stat. 2010.)
 

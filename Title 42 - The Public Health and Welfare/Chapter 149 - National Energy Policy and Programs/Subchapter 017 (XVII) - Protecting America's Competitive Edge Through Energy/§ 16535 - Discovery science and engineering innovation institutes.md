@@ -64,7 +64,7 @@ The Secretary shall offer to enter into an agreement with the National Academy o
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated to provide grants to each Institute selected under this section $10,000,000 for each of fiscal years 2008 through 2010.
+There is authorized to be appropriated to provide grants to each Institute selected under thissection $10,000,000 for each of fiscal years 2008 through 2010.
 
 (Pub. L. 110–69, title V, §5008, Aug. 9, 2007, 121 Stat. 618.)
 

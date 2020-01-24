@@ -10,13 +10,13 @@ The several charges against such bond may be canceled in whole or in part—
 
 &emsp;(1) upon the exportation from the bonded warehouses which treated the metal-bearing materials, or from any other bonded smelting or refining warehouse, of a quantity of the same kind of metal contained in any product of smelting or refining of metal-bearing materials equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c); except that—
 
-&emsp;&emsp;(A) in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of theamount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
+&emsp;&emsp;(A) in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
 
 &emsp;&emsp;&emsp;(i) the total amount of customs duties owed on the materials on importation into the United States, or
 
 &emsp;&emsp;&emsp;(ii) the total amount of customs duties paid to the NAFTA country on the product, and
 
-&emsp;&emsp;(B) in the case of a withdrawal for exportation of such a product to Chile, if any of the imported metal-bearing materials are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation, except that the duties may be waived or reduced by—
+&emsp;&emsp;(B) in the case of a withdrawal for exportation of such a product to Chile, if any ofthe imported metal-bearing materials are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation, except that the duties may be waived or reduced by—
 
 &emsp;&emsp;&emsp;(i) 100 percent during the 8-year period beginning on January 1, 2004,
 
@@ -120,7 +120,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (f),
 
 Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §IV, N, subsection 1, 38 Stat. 198, which was superseded by act Sept. 21, 1922, ch. 356, title III, §312, 42 Stat. 940, and repealed by section 321 thereof. Section 312 of the act of 1922 was superseded by section 312 of act June 17, 1930, and repealed by section 651(a)(1) of the 1930 act.
 
-Provisions more or less similar were contained in the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §24, 36 Stat. 89, the Dingley Tariff Act of July 24, 1897, ch. 11, §29, 30 Stat. 210, the McKinley Tariff Act of Oct. 1, 1890, ch. 1244, §24, 26 Stat. 617, and the Wilson Tariff Act of Aug. 27, 1894, ch. 349, §21, 28 Stat. 551.
+Provisions more or less similar were contained in the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §24, 36Stat. 89, the Dingley Tariff Act of July 24, 1897, ch. 11, §29, 30 Stat. 210, the McKinley Tariff Act of Oct. 1, 1890, ch. 1244, §24, 26 Stat. 617, and the Wilson Tariff Act of Aug. 27, 1894, ch. 349, §21, 28 Stat. 551.
 
 Previous provisions for sampling lead ores were contained in act Mar. 2, 1895, ch. 189, §1, 28 Stat. 933, prior to repeal by act Sept. 21, 1922, ch. 356, title III, §321, 42 Stat. 947.
 
@@ -164,11 +164,11 @@ Subsec. (d). Pub. L. 100–449, §204(c)(2)(B), temporarily inserted "(other tha
 
 Subsec. (f)(1). Pub. L. 100–418, §1214(h)(1)(A), substituted "chapter 26 of the Harmonized Tariff Schedule of the United States" for "schedule 6, part 1, of the Tariff Schedules of the United States" and "chapters 71 through 83 of the Harmonized Tariff Schedule of the United States" for "schedule 6, part 2, of such schedules" and struck out the quotation marks surrounding "metal waste and scrap" and "unwrought metal".
 
-Subsec. (f)(2)(A). Pub. L. 100–418, §1214(h)(1)(B), substituted "chapters 71 through 83 of the HarmonizedTariff Schedule of the United States" for "part 2 of schedule 6" and "chapter 26 of the Harmonized Tariff Schedule of the United States" for "part 1 of schedule 6" and struck out single quotation marks surrounding "unwrought metal".
+Subsec. (f)(2)(A). Pub. L. 100–418, §1214(h)(1)(B), substituted "chapters 71 through 83 of the Harmonized Tariff Schedule of the United States" for "part 2 of schedule 6" and "chapter 26 of the Harmonized Tariff Schedule of the United States" for "part 1 of schedule 6" and struck out single quotation marks surrounding "unwrought metal".
 
 Subsec. (f)(3). Pub. L. 100–418, §1214(h)(1)(C), substituted "of chapter 26 of the Harmonized Tariff Schedule of the United States" for "as defined in part 1 of schedule 6".
 
-<b>1962</b>—Pub. L. 87–456 amended section generally, and among other changes, substituted "metal-bearing minerals" for "ores or crude metals", authorized adjustment of the bond charge to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond, permitted two or more warehouses to be included under one general bond, prohibited allowances for wastage of copper, lead, and zinc, and defined "metal-bearing materials", "smelting or refining", and "product of smelting or refining".
+<b>1962</b>—Pub. L. 87–456 amended section generally, and among other changes, substituted "metal-bearing minerals" for "ores or crude metals", authorized adjustment of the bond charge to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond, permitted two or more warehouses to be included under one general bond, prohibited allowances for wastage of copper, lead,and zinc, and defined "metal-bearing materials", "smelting or refining", and "product of smelting or refining".
 
 #### Effective and Termination Dates of 2003 Amendment
 

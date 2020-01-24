@@ -26,5 +26,5 @@ Certain Institutions of Higher Education.—In the selection of a recipient for 
 
 #### Change of Name
 
-Pub. L. 115–91, div. A, title XVI, §1649(e)(2), Dec. 12, 2017, 131 Stat. 1753, provided that: "Any institution of higher education designated by the Director of the National Security Agency as a Center of Academic Excellence in Information Assurance Education is redesignated as a Center of Academic Excellence in Cyber Education. Any reference in a law (other than this section), map, regulation, document, paper, or other record of the United States to a Center of Academic Excellence in Information Assurance Education shall be deemed to be a reference to a Center of Academic Excellence in Cyber Education."
+Pub. L. 115–91, div. A, title XVI, §1649(e)(2), Dec. 12, 2017, 131 Stat. 1753, provided that: "Any institution of higher education designated by the Director of the National Security Agency as a Center of Academic Excellence in Information Assurance Education is redesignated as a Center of Academic Excellence in Cyber Education. Any reference in a law (other than this section), map, regulation, document, paper, or other record of the United States to a Center of Academic Excellence in Information Assurance Education shall bedeemed to be a reference to a Center of Academic Excellence in Cyber Education."
 

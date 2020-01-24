@@ -24,7 +24,7 @@ Not later than 1 year after July 26, 1990, the Secretary shall issue final regul
 
 &emsp;&emsp;(C) to other individuals, in addition to the one individual described in subparagraph (B), accompanying the individual with a disability provided that space for these additional individuals is available on the paratransit vehicle carrying the individual with a disability and that the transportation of such additional individuals will not result in a denial of service to individuals with disabilities.
 
-> &emsp;For purposes of clauses (i) and (ii) of subparagraph (A), boarding or disembarking from a vehicle does not include travel to the boarding location or from the disembarking location.
+> &emsp;For purposes of clauses (i) and (ii) of subparagraph (A), boarding or disembarking from avehicle does not include travel to the boarding location or from the disembarking location.
 
 #### (2) Service area
 

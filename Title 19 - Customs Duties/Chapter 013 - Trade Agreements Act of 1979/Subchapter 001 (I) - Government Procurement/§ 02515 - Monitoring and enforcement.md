@@ -18,7 +18,7 @@ In the preparation of the recommendations for the reorganization of trade functi
 
 #### (1) Domestic administrative practices
 
-&emsp;As soon as practicable after the close of the two-year period beginning on the date on which any waiver under section 2511(a) of this title first takes effect, the President shall prepare and transmit to Congress a report containing an evaluation of administrative practices under any provision of law which requires determinations to be made of the country of origin of goods, products, commodities,or other articles of commerce. Such evaluation shall be accompanied by the President's recommendations for legislative and executive measures required to improve and simplify and to make more uniform and consistent such practices. Such evaluation and recommendations shall take into account the special problems affecting insular possessions of the United States with respect to such practices.
+&emsp;As soon as practicable after the close of the two-year period beginning on the date on which any waiver under section 2511(a) of this title first takes effect, the President shall prepare and transmit to Congress a report containing an evaluation of administrative practices under any provision of law which requires determinations to be made of the country of origin of goods, products, commodities, or other articles of commerce. Such evaluation shall be accompanied by the President's recommendations for legislative and executive measures required to improve and simplify and to make more uniform and consistent such practices. Such evaluation and recommendations shall take into account the special problems affecting insular possessions of the United States with respect to such practices.
 
 #### (2) Foreign administrative practices
 
@@ -30,7 +30,7 @@ In the preparation of the recommendations for the reorganization of trade functi
 
 <b>1996</b>—Subsec. (d)(2)(B), (C). Pub. L. 104–295, §20(c)(10), struck out "or" at end of subpar. (B) and substituted semicolon for period at end of subpar. (C).
 
-Subsec. (g)(1). Pub. L. 104–295, §20(c)(13)(A), in introductory provisions, substituted "of subsection (d)(2) of this section" for "of such subsection" and inserted "of subsection (d)(2) of this section" after "(as the case may be)".
+Subsec. (g)(1). Pub. L. 104–295, §20(c)(13)(A), in introductory provisions, substituted "of subsection (d)(2) ofthis section" for "of such subsection" and inserted "of subsection (d)(2) of this section" after "(as the case may be)".
 
 Subsec. (g)(3). Pub. L. 104–295, §20(c)(13)(B), substituted "eliminated the practices" for "eliminated the the practices" and inserted "of subsection (d)(2) of this section" after "(as the case may be)".
 
@@ -230,7 +230,7 @@ Imposition of sanctions.—If, within 60 days after the annual report is submitt
 
 &emsp;"(2)
 
-Withholding and modification of sanctions.—If the President determines that imposing or continuing the sanction required by paragraph (1) would harm the public interest of the United States, the President may, to the extent necessary to impose appropriate limitations that are equivalent, in their effect, to the discrimination against United States products or services in government procurement by that country, modify or restrict the application of such sanction, subject to such terms and conditions as the President considers appropriate.
+Withholding and modification of sanctions.—If the President determines that imposing or continuing the sanction required by paragraph (1) would harm the public interest of the United States, the President may, to the extent necessary to impose appropriate limitations that are equivalent, in their effect, to the discrimination against United Statesproducts or services in government procurement by that country, modify or restrict the application of such sanction, subject to such terms and conditions as the President considers appropriate.
 
 &emsp;"(3)
 

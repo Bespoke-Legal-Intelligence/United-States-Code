@@ -4,7 +4,7 @@
 
 #### (1) Disbursing officer
 
-&emsp;The Chief of the Capitol Police shall be the disbursing officer for the Capitol Police. Any reference in any law or resolution before February 20, 2003, to funds paid or disbursed by the Chief Administrative Officer of the Houseof Representatives and the Secretary of the Senate relating to the pay and allowances of Capitol Police employees shall be deemed to refer to the Chief of the Capitol Police.
+&emsp;The Chief of the Capitol Police shall be the disbursing officer for the Capitol Police. Any reference in any law or resolution before February 20, 2003, to funds paid or disbursed by the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate relating to the pay and allowances of Capitol Police employees shall be deemed to refer to the Chief of the Capitol Police.
 
 #### (2) Transfer
 
@@ -50,7 +50,7 @@ Except as may otherwise be provided in law, the unexpended balances of appropria
 
 #### (A) In general
 
-&emsp;&emsp;The Chief of the Capitol Police, in carrying out the duties of office, is authorized to appoint, hire, suspend with or without pay, discipline, discharge, and set the terms, conditions, and privileges of employment of employees of the Capitol Police, subject to and in accordance with applicable laws and regulations.
+&emsp;&emsp;The Chief of the Capitol Police, in carrying out the duties of office, is authorized to appoint, hire, suspend with or without pay, discipline, discharge, and set the terms, conditions, and privileges of employment of employees of the Capitol Police, subject to andin accordance with applicable laws and regulations.
 
 #### (B) Special rule for terminations
 

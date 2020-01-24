@@ -22,7 +22,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 (B) The Secretary may, on such terms and conditions as the Secretary deems appropriate, guarantee the timely payment of the principal and interest on pool certificates issued on behalf of the Secretary by approved market makers for purposes of this subsection. Such guarantee shall be limited to the extent of principal and interest on the guaranteed portions of loans that compose the pool. If a loan in such pool is prepaid, either voluntarily or by reason of default, the guarantee of timely payment of principal and interest on the pool certificates shall be reduced in proportion to the amount of principal and interest such prepaid loan represents in the pool. Interest on prepaid or defaulted loans shall accrue and be guaranteed by the Secretary only through the date of payment on the guarantee. During the term of the pool certificate, the certificate may be called for redemption due to prepayment or default of all loans constituting the pool.
 
-(C) The full faith and credit of the United States is pledged to the payment of all amountsthat may be required to be paid under any guarantee of such pool certificates issued by approved market makers under this subsection. The Secretary may expend amounts in the Agricultural Credit Insurance Fund to make payments on such guarantees.
+(C) The full faith and credit of the United States is pledged to the payment of all amounts that may be required to be paid under any guarantee of such pool certificates issued by approved market makers under this subsection. The Secretary may expend amounts in the Agricultural Credit Insurance Fund to make payments on such guarantees.
 
 (D) The Secretary shall not collect any fee for any guarantee under this subsection. The preceding sentence shall not preclude the Secretary from collecting a fee for the functions described in paragraph (3).
 
@@ -56,7 +56,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 (4) The Secretary may contract for goods and services to be used for the purposes of this subsection without regard to the provisions of titles 5, 40, and 41, and any regulations issued thereunder.
 
-(Pub. L. 87–128, title III, §338, Aug. 8, 1961, 75 Stat. 316; Pub. L. 89–429, §5, May 24, 1966, 80 Stat. 167; Pub. L. 100–233, title VII, §711(a), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, §605, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–624, title XXIII, §2303(d), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 104–127, title VII, §749(a), Apr. 4, 1996, 110 Stat. 1129; Pub. L. 105–362, title I, §101(a), Nov. 10, 1998, 112 Stat. 3281.)
+(Pub. L. 87–128, title III, §338, Aug. 8, 1961, 75 Stat. 316; Pub. L. 89–429, §5, May 24, 1966, 80 Stat.167; Pub. L. 100–233, title VII, §711(a), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, §605, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–624, title XXIII, §2303(d), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 104–127, title VII, §749(a), Apr. 4, 1996, 110 Stat. 1129; Pub. L. 105–362, title I, §101(a), Nov. 10, 1998, 112 Stat. 3281.)
 
 #### References in Text
 

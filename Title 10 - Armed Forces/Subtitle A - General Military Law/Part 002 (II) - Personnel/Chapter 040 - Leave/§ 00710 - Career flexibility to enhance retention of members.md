@@ -18,7 +18,7 @@ Period of Inactivation From Active Service; Effect of Inactivation.—(1) The pe
 
 (c)
 
-Agreement.—Each member of the armed forces who participates in a program under this section shall enter into a written agreement with the Secretary of the military department concerned under which agreement that member shall agree as follows:
+Agreement.—Each member of the armed forces who participates in a program under thissection shall enter into a written agreement with the Secretary of the military department concerned under which agreement that member shall agree as follows:
 
 &emsp;(1) To accept an appointment or enlist, as applicable, and serve in the Ready Reserve of the armed force concerned during the period of the inactivation of the member from active service under the program.
 
@@ -44,7 +44,7 @@ Pay and Allowances.—(1) During each month of participation in a program under 
 
 (3)(A) Subject to subparagraph (B), upon the return of a member to active service after completion by the member of participation in a program—
 
-&emsp;(i) any agreement entered into by the member under chapter 5 of title 37 for the paymentof a special or incentive pay or bonus that was in force when the member commenced participation in the program shall be revived, with the term of such agreement after revival being the period of the agreement remaining to run when the member commenced participation in the program; and
+&emsp;(i) any agreement entered into by the member under chapter 5 of title 37 for the payment of a special or incentive pay or bonus that was in force when the member commenced participation in the program shall be revived, with the term of such agreement after revival being the period of the agreement remaining to run when the member commenced participation in the program; and
 
 &emsp;(ii) any special or incentive pay or bonus shall be payable to the member in accordance with the terms of the agreement concerned for the term specified in clause (i).
 
@@ -68,7 +68,7 @@ Pay and Allowances.—(1) During each month of participation in a program under 
 
 (B) An allowance is payable under this paragraph only with respect to travel of a member to and from a single residence.
 
-(5) A member who participates in a program is entitled to carry forward the leave balance existing as of the day on which the member begins participation and accumulated in accordance with section 701 of this title, but not to exceed 60 days.
+(5) A member who participates in a program is entitled to carry forward the leave balance existing as of the day on which the member beginsparticipation and accumulated in accordance with section 701 of this title, but not to exceed 60 days.
 
 (g)
 
@@ -90,9 +90,19 @@ Promotion.—(1)(A) An officer participating in a program under this section sha
 
 Continued Entitlements.—A member participating in a program under this section shall, while participating in the program, be treated as a member of the armed forces on active duty for a period of more than 30 days for purposes of—
 
-&emsp;(1) the entitlement of the member and of the dependents of the member to medical and dental care under the provisions of chapter 55 of this title; and
+&emsp;(1) the entitlement of the member and of the dependents of the member to medical and dental care under the provisions of chapter 55 of this title;
 
-&emsp;(2) retirement or separation for physical disability under the provisions of chapters 55 and 61 of this title.
+&emsp;(2) retirement or separation for physical disability under the provisions of chapters 55 and 61 of this title;
 
-(Added Pub. L. 115–232, div. A, title V, §551(a), Aug. 13, 2018, 132 Stat. 1766.)
+&emsp;(3) the entitlement of the member and of the survivors of the member to all death benefits under the provisions of chapter 75 of this title;
+
+&emsp;(4) the provision of all travel and transportation allowances for the survivors of deceased members to attend burial ceremonies under section 481f of title 37; and
+
+&emsp;(5) the eligibility of the member for general benefits as provided in part II of title 38.
+
+(Added Pub. L. 115–232, div. A, title V, §551(a), Aug. 13, 2018, 132 Stat. 1766; amended Pub. L. 116–92, div. A, title VI, §602, Dec. 20, 2019, 133 Stat. 1423.)
+
+#### Amendments
+
+<b>2019</b>—Subsec. (h)(3) to (5). Pub. L. 116–92 added pars. (3) to (5).
 

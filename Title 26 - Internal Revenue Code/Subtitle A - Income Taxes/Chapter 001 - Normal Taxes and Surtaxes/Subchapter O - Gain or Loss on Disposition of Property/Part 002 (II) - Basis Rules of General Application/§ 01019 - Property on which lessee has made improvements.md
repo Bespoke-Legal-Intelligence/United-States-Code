@@ -6,7 +6,7 @@ Neither the basis nor the adjusted basis of any portion of real property shall, 
 
 #### Amendments
 
-<b>2014</b>—Pub. L. 113–295 struck out last sentence which read as follows: "If an amount representing any part ofthe value of real property attributable to buildings erected or other improvements made by a lessee in respect of such property was included in gross income of the lessor for any taxable year beginning before January 1, 1942, the basis of each portion of such property shall be properly adjusted for the amount so included in gross income."
+<b>2014</b>—Pub. L. 113–295 struck out last sentence which read as follows: "If an amount representing any part of the value of real property attributable to buildings erected or other improvements made by a lessee in respect of such property was included in gross income of the lessor for any taxable year beginning before January 1, 1942, the basis of each portion of such property shall be properly adjusted for the amount so included in gross income."
 
 #### Effective Date of 2014 Amendment
 

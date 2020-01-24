@@ -14,5 +14,5 @@ Section was formerly classified to section 2017i of the former Appendix to this 
 
 #### Protests Relating to Awards by Commission; Notice by Publication in Federal Register
 
-Notwithstanding the provisions of this section and section 4141 of this title, receipt and consideration of filed and published protests relating to awards made by the Foreign Claims Settlement Commission which result in modification of such awards shall be certifiedand paid by the Secretary of the Treasury out of the War Claims Fund in accordance with section 4143 of this title. See section 615 of act Mar. 10, 1950, ch. 54, as added by Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512, set out as a note under section 1623 of Title 22, Foreign Relations and Intercourse.
+Notwithstanding the provisions of this section and section 4141 of this title, receipt and consideration of filed and published protests relating to awards made by the Foreign Claims Settlement Commission which result in modification of such awards shall be certified and paid by the Secretary of the Treasury out of the War Claims Fund in accordance with section 4143 of this title. See section 615 of act Mar. 10, 1950, ch. 54, as added by Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512, set out as a note under section 1623 of Title 22, Foreign Relations and Intercourse.
 

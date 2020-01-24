@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(ii) other special circumstances as determined by the Secretary; and
 
-&emsp;(E) that exceptions to such standards may be made only when specified by research protocol and that any such exception shall be detailed and explained in a report outlined under paragraph (7) and filed with the Institutional Animal Committee.
+&emsp;(E) that exceptions to such standards may be made only when specified by research protocoland that any such exception shall be detailed and explained in a report outlined under paragraph (7) and filed with the Institutional Animal Committee.
 
 (4) The Secretary shall also promulgate standards to govern the transportation in commerce, and the handling, care, and treatment in connection therewith, by intermediate handlers, air carriers, or other carriers, of animals consigned by any dealer, research facility, exhibitor, operator of an auction sale, or other person, or any department, agency, or instrumentality of the United States or of any State or local government, for transportation in commerce. The Secretary shall have authority to promulgate such rules and regulations as he determines necessary to assure humane treatment of animals in the course of their transportation in commerce including requirements such as those with respect to containers, feed, water, rest, ventilation, temperature, and handling.
 
@@ -92,7 +92,7 @@
 
 &emsp;(i) be signed by a majority of the Committee members involved in the inspection;
 
-&emsp;(ii) include reports of any violation of the standards promulgated, or assurances required, by the Secretary, including any deficient conditions of animal care or treatment, any deviations of research practices fromoriginally approved proposals that adversely affect animal welfare, any notification to the facility regarding such conditions, and any corrections made thereafter;
+&emsp;(ii) include reports of any violation of the standards promulgated, or assurances required, by the Secretary, including any deficient conditions of animal care or treatment, any deviations of research practices from originally approved proposals that adversely affect animal welfare, any notification to the facility regarding such conditions, and any corrections made thereafter;
 
 &emsp;(iii) include any minority views of the Committee; and
 
@@ -148,7 +148,7 @@ No dogs or cats, or additional kinds or classes of animals designated by regulat
 
 #### (g) Age of animals delivered to registered research facilities; power of Secretary to designate additional classes of animals and age limits
 
-No dogs or cats, or additional kinds or classes of animals designated by regulation of the Secretary, shall be delivered by any person to any intermediate handler or carrier for transportation in commerce except to registered research facilities if they are less than such age as the Secretary may by regulation prescribe. The Secretary shall designate additional kinds and classes of animals and may prescribe different ages for particular kinds or classes of dogs, cats, or designated animals, for the purposes of this section, when he determines that such action is necessary or adequate to assure their humane treatment in connection with their transportation in commerce.
+No dogs or cats, or additional kinds or classes of animals designated by regulation of the Secretary, shall be delivered by any person to anyintermediate handler or carrier for transportation in commerce except to registered research facilities if they are less than such age as the Secretary may by regulation prescribe. The Secretary shall designate additional kinds and classes of animals and may prescribe different ages for particular kinds or classes of dogs, cats, or designated animals, for the purposes of this section, when he determines that such action is necessary or adequate to assure their humane treatment in connection with their transportation in commerce.
 
 #### (h) Prohibition of C.O.D. arrangements for transportation of animals in commerce; exceptions
 

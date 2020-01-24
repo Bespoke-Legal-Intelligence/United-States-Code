@@ -1,6 +1,6 @@
 ### §796f–6. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this subpart $78,305,000 for fiscal year 2015, $84,353,000 for fiscal year 2016, $86,104,000 for fiscal year 2017, $88,013,000 for fiscal year 2018,$90,083,000 for fiscal year 2019, and $91,992,000 for fiscal year 2020.
+There are authorized to be appropriated to carry out this subpart $78,305,000 for fiscal year 2015, $84,353,000 for fiscal year 2016, $86,104,000 for fiscal year 2017, $88,013,000 for fiscal year 2018, $90,083,000 for fiscal year 2019, and $91,992,000 for fiscal year 2020.
 
 (Pub. L. 93–112, title VII, §727, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1237; amended Pub. L. 113–128, title IV, §484, July 22, 2014, 128 Stat. 1693.)
 

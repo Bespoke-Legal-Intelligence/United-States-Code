@@ -32,7 +32,7 @@ Any amounts received from grants under this section may only be used to carry ou
 
 &emsp;&emsp;Any building or structure assisted with amounts from a grant under this section shall be maintained as a facility to provide short-term supported housing or assistance for eligible persons—
 
-&emsp;&emsp;&emsp;(i) in the case of assistance involving substantial rehabilitation or acquisition of the building, for a period of not less than 10 years; and
+&emsp;&emsp;&emsp;(i) in the case of assistance involving substantial rehabilitation or acquisition ofthe building, for a period of not less than 10 years; and
 
 &emsp;&emsp;&emsp;(ii) in the case of assistance under paragraph (1), (3), or (4) of subsection (a), for a period of not less than 3 years.
 
@@ -52,7 +52,7 @@ Any amounts received from grants under this section may only be used to carry ou
 
 #### (B) Waiver
 
-&emsp;&emsp;The Secretary may, as the Secretary determines appropriate, waive the limitationunder subparagraph (A) for any program or short-term supported housing facility.
+&emsp;&emsp;The Secretary may, as the Secretary determines appropriate, waive the limitation under subparagraph (A) for any program or short-term supported housing facility.
 
 #### (3) Term of assistance
 

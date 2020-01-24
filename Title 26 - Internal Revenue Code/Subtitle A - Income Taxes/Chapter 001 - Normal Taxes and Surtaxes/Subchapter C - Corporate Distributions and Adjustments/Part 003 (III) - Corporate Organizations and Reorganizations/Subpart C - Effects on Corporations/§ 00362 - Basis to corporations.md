@@ -72,7 +72,7 @@ If property was acquired by a corporation in connection with a reorganization to
 
 #### (C) Importation of net built-in loss
 
-&emsp;&emsp;For purposes of subparagraph (A), there is an importation of a net built-in loss in a transaction if the transferee's aggregate adjusted bases of property described in subparagraph (B) which is transferred in such transaction would (but for this paragraph) exceed the fair market value of such property immediately after such transaction.
+&emsp;&emsp;For purposes of subparagraph (A), there is an importation of a net built-in loss in atransaction if the transferee's aggregate adjusted bases of property described in subparagraph (B) which is transferred in such transaction would (but for this paragraph) exceed the fair market value of such property immediately after such transaction.
 
 #### (2) Limitation on transfer of built-in losses in section 351 transactions
 

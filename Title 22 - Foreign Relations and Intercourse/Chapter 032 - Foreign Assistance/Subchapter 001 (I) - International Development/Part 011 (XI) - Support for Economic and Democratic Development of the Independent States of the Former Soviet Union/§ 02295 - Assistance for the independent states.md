@@ -212,7 +212,7 @@ Statement of Policy.—It shall be the policy of the United States—
 
 &emsp;"(3) to advance a dialogue among United States Government officials, private sector individuals, and representatives of the Government of the Russian Federation regarding Russia's integration into the Western community of nations;
 
-&emsp;"(4) to encourage United States Government officials and private sector individuals to meet regularlywith democratic activists, human rights activists, representatives of the independent media, representatives of nongovernmental organizations, civic organizers, church officials, and reform-minded politicians from Moscow and all other regions of the Russian Federation;
+&emsp;"(4) to encourage United States Government officials and private sector individuals to meet regularly with democratic activists, human rights activists, representatives of the independent media, representatives of nongovernmental organizations, civic organizers, church officials, and reform-minded politicians from Moscow and all other regions of the Russian Federation;
 
 &emsp;"(5) to incorporate democratic reforms, the promotion of independent media, and economic reforms in a broader United States dialogue with the Government of the Russian Federation;
 

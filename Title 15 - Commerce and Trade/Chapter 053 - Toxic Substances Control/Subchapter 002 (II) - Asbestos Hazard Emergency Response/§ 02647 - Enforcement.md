@@ -14,7 +14,7 @@ Any local educational agency—
 
 &emsp;(5) which knowingly submits false information to the Governor regarding a deferral request under section 2645(d) of this title.<sup>1</sup>
 
-> is liable for a civil penalty of not more than $5,000 for each day during which the violation continues. Any civil penalty under this subsection shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected under section 2615 of this title. For purposes of this subsection, a "violation" means a failure to comply with respect to a single school building. The court shall order that any civil penalty collected under this subsection beused by the local educational agency for purposes of complying with this subchapter. Any portion of a civil penalty remaining unspent after compliance by a local educational agency is completed shall be deposited into the Asbestos Trust Fund established by section 4022 of title 20.
+> is liable for a civil penalty of not more than $5,000 for each day during which the violation continues. Any civil penalty under this subsection shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected under section 2615 of this title. For purposes of this subsection, a "violation" means a failure to comply with respect to a single school building. The court shall order that any civil penalty collected under this subsection be used by the local educational agency for purposes of complying with this subchapter. Any portion of a civil penalty remaining unspent after compliance by a local educational agency is completed shall be deposited into the Asbestos Trust Fund established by section 4022 of title 20.
 
 #### (b) Relationship to subchapter I of this chapter
 
@@ -78,7 +78,7 @@ Any contractor who—
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–637 effective upon expiration of 12-month period following Nov. 28, 1990, withprovisions for extension, see section 15(c) of Pub. L. 101–637, set out as a note under section 2646 of this title.
+Amendment by Pub. L. 101–637 effective upon expiration of 12-month period following Nov. 28, 1990, with provisions for extension, see section 15(c) of Pub. L. 101–637, set out as a note under section 2646 of this title.
 
 #### EPA Administrator Not Exercising "Statutory Authority" Under OSHA Law in Exercising Authority Under This Chapter
 

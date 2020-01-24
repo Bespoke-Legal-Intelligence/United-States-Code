@@ -188,7 +188,7 @@
 
 (5) This subsection is not intended to limit existing statutory authority of agencies to sell loans, debts, or other assets.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 97–452, §1(15), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 98–216, §1(5), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–552, §8(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–365, §4(a)(4), Sept. 3, 1992, 106 Stat. 973; Pub. L. 103–272, §5(i)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 104–106, div. A, title X, §1089, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–134, title III, §31001(c)(1), (g)(1)(C), (k), (m)(1), (p), Apr. 26, 1996, 110 Stat. 1321–359, 1321–363, 1321–365, 1321–366, 1321–371; Pub. L. 104–201, div. A, title X, §1010, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 104–316, title I, §115(g)(1), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 109–241, title IX, §902(b)(4), July 11, 2006, 120 Stat. 566; Pub. L. 110–389, title VIII, §801(a), Oct. 10, 2008, 122 Stat. 4185.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 97–452, §1(15), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 98–216, §1(5), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–552, §8(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–365, §4(a)(4), Sept. 3, 1992, 106 Stat. 973; Pub. L. 103–272, §5(i)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 104–106, div. A, title X, §1089, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–134, title III, §31001(c)(1), (g)(1)(C), (k), (m)(1), (p), Apr. 26,1996, 110 Stat. 1321–359, 1321–363, 1321–365, 1321–366, 1321–371; Pub. L. 104–201, div. A, title X, §1010, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 104–316, title I, §115(g)(1), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 109–241, title IX, §902(b)(4), July 11, 2006, 120 Stat. 566; Pub. L. 110–389, title VIII, §801(a), Oct. 10, 2008, 122 Stat. 4185.)
 
 Historical and Revision Notes<br>1982
 
@@ -306,7 +306,7 @@ Subsec. (e)(2). Pub. L. 104–134, §31001(g)(1)(C), inserted ", the Secretary 
 
 Subsec. (f). Pub. L. 104–316, §115(g)(1)(C), redesignated the subsec. (g), relating to authority to suspend or terminate collection actions against deceased members, as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (f)(1). Pub. L. 104–134, §31001(c)(1), (k)(1), (2), in introductory provisions substituted "the head of an executive, judicial, or legislative agency shall" for "thehead of an executive or legislative agency may" and "a person" for "an individual".
+Subsec. (f)(1). Pub. L. 104–134, §31001(c)(1), (k)(1), (2), in introductory provisions substituted "the head of an executive, judicial, or legislative agency shall" for "the head of an executive or legislative agency may" and "a person" for "an individual".
 
 Subsec. (f)(1)(C), (D), (F). Pub. L. 104–134, §31001(k)(3), substituted "the person" for "the individual" wherever appearing.
 
@@ -352,7 +352,7 @@ Pub. L. 104–134, title III, §31001(aa)(1), Apr. 26, 1996, 110 Stat. 1321–37
 
 #### Report
 
-Pub. L. 104–134, title III, §31001(aa)(2), Apr. 26, 1996, 110 Stat. 1321–379, provided that: "Not later than 3 years after the date of enactment of this Act \[Apr. 26, 1996\], the Secretary of the Treasury shall report to the Congress on collection services provided by Federal agencies or entities collecting debt on behalf of other Federal agencies under the authorities contained in section 3711(g) of title 31, United States Code, as added by subsection (m) of this section."
+Pub. L. 104–134, title III, §31001(aa)(2), Apr. 26, 1996, 110 Stat. 1321–379, required the Secretary of the Treasury, not later than 3 years after Apr. 26, 1996, to report to Congress on collection services provided by Federal agencies or entities collecting debt on behalf of other Federal agencies under the authorities contained in subsec. (g) of this section.
 
 #### Standards and Policies for Compromising, Writing-Down, Forgiving, or Discharging Indebtedness
 

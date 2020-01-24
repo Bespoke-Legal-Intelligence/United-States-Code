@@ -28,7 +28,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) does not include any individual who is not otherwise described in clause (i) and who performs purely administrative or clerical tasks on behalf of a person who is described in any such clause;
 
-&emsp;&emsp;&emsp;(iii) does not include a person or entity that only performs real estate brokerage activities and is licensed or registered in accordance with applicable State law, unless the person or entity is compensated by a lender, a mortgage broker, or other loan originator or by any agent of such lender, mortgage broker, or other loan originator; and
+&emsp;&emsp;&emsp;(iii) does not include a person or entity that only performs real estate brokerage activities and is licensed or registered in accordance with applicable State law, unless the person or entity is compensated bya lender, a mortgage broker, or other loan originator or by any agent of such lender, mortgage broker, or other loan originator; and
 
 &emsp;&emsp;&emsp;(iv) does not include a person or entity solely involved in extensions of credit relating to timeshare plans, as that term is defined in section 101(53D) of title 11.
 

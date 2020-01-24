@@ -60,7 +60,7 @@ As used in this subchapter—
 
 &emsp;&emsp;&emsp;(i) the Agreement on the Establishment of a Free Trade Area between the Government of the United States of America and the Government of Israel, regardless of the thresholds provided for in the Agreement (as defined in paragraph (1)), or
 
-&emsp;&emsp;&emsp;(ii) any subsequent agreement between the United States and Israel which lowers on a reciprocal basis the applicable threshold for entities covered by the Agreement.
+&emsp;&emsp;&emsp;(ii) any subsequent agreement between the United States and Israel which lowerson a reciprocal basis the applicable threshold for entities covered by the Agreement.
 
 #### (D) Lowered threshold for certain products as a consequence of United States-Canada Free-Trade Agreement
 
@@ -130,7 +130,7 @@ Par. (4)(C). Pub. L. 103–465, §342(f)(2)(A), substituted "for which the Unite
 
 Par. (4)(D). Pub. L. 103–465, §342(f)(2)(B), substituted "the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement." for "GATT Agreement on Government Procurement, but for the SDR threshold provided for in article I(1)(b) of the GATT Agreement on Government Procurement."
 
-<b>1993</b>—Par. (4)(A). Pub. L. 103–182 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The term 'eligible product' means, with respect to any foreign country or instrumentality, a product or service of that country or instrumentality which is covered under the Agreement for procurement by the United States."
+<b>1993</b>—Par. (4)(A). Pub. L. 103–182 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The term 'eligible product' means, with respect to any foreign country or instrumentality, a product or service of that country or instrumentality which iscovered under the Agreement for procurement by the United States."
 
 <b>1988</b>—Par. (4)(D). Pub. L. 100–449 temporarily added subpar. (D). See Effective and Termination Dates of 1988 Amendment note below.
 

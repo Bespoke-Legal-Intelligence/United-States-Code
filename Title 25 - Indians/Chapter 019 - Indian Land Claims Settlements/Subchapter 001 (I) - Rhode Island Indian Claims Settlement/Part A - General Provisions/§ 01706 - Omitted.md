@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 95–395, §7, Sept. 30, 1978, 92 Stat. 816, which provided that section 1705 of this title would not take effect until the Secretary of the Interior had made certain findings, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 95–395, §7, Sept. 30, 1978, 92 Stat. 816, which provided that section 1705 of this title would nottake effect until the Secretary of the Interior had made certain findings, was omitted from the Code as being of special and not general application.
 

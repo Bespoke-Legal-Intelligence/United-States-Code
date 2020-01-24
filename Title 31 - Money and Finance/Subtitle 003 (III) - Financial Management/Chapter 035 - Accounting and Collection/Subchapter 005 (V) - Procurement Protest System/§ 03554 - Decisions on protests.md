@@ -28,7 +28,7 @@
 
 (2) If the head of the procuring activity responsible for a contract makes a finding under section 3553(d)(3)(C)(i)(I) of this title, the Comptroller General shall make recommendations under this subsection without regard to any cost or disruption from terminating, recompeting, or reawarding the contract.
 
-(3) If the Federal agency fails to implement fully the recommendations of the Comptroller General under this subsection with respect to a solicitation for a contract or an award or proposed award of a contract within 60 days after receiving the recommendations, the head of the procuring activity responsible for that contract shall report such failure to the Comptroller General not later than 5 days after the end of such 60-day period.
+(3) If the Federal agency fails to implement fully the recommendations of the Comptroller General under this subsection with respect to asolicitation for a contract or an award or proposed award of a contract within 60 days after receiving the recommendations, the head of the procuring activity responsible for that contract shall report such failure to the Comptroller General not later than 5 days after the end of such 60-day period.
 
 (c)(1) If the Comptroller General determines that a solicitation for a contract or a proposed award or the award of a contract does not comply with a statute or regulation, the Comptroller General may recommend that the Federal agency conducting the procurement pay to an appropriate interested party the costs of—
 
@@ -104,7 +104,7 @@ Subsec. (c). Pub. L. 103–355, §1403(b)(2), amended subsec. (c) generally. Pri
 
 &emsp;"(B) bid and proposal preparation.
 
-"(2) Monetary awards to which a party is declared to be entitled under paragraph (1) of this subsection shall be paid promptly by the Federal agency concerned outof funds available to or for the use of the Federal agency for the procurement of property and services."
+"(2) Monetary awards to which a party is declared to be entitled under paragraph (1) of this subsection shall be paid promptly by the Federal agency concerned out of funds available to or for the use of the Federal agency for the procurement of property and services."
 
 Subsec. (e). Pub. L. 103–355, §1403(b)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
 
@@ -118,7 +118,7 @@ Subsec. (e). Pub. L. 103–355, §1403(b)(3), amended subsec. (e) generally. Pri
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2009 Amendment
 

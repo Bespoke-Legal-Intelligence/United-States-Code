@@ -64,7 +64,7 @@ The Secretary shall evaluate each project carried out under subsection (a)(1) an
 
 There are authorized to be appropriated to carry out this section $394,550,000 for each of fiscal years 2018 through 2022.
 
-(July 1, 1944, ch. 373, title V, §520A, as added Pub. L. 100–690, title II, §2057(3), Nov. 18, 1988, 102 Stat. 4212; renumbered §520 and amended Pub. L. 101–93, §3(e), (g), Aug. 16, 1989, 103 Stat. 610, 611; Pub. L. 101–639, §2, Nov. 28, 1990, 104 Stat. 4600; renumbered §520A and amended Pub. L. 102–321,title I, §116, July 10, 1992, 106 Stat. 348; Pub. L. 106–310, div. B, title XXXII, §3201(a), Oct. 17, 2000, 114 Stat. 1189; Pub. L. 114–255, div. B, title VII, §7003, title IX, §9012, Dec. 13, 2016, 130 Stat. 1223, 1245.)
+(July 1, 1944, ch. 373, title V, §520A, as added Pub. L. 100–690, title II, §2057(3), Nov. 18, 1988, 102 Stat. 4212; renumbered §520 and amended Pub. L. 101–93, §3(e), (g), Aug. 16, 1989, 103 Stat. 610, 611; Pub. L. 101–639, §2, Nov. 28, 1990, 104 Stat. 4600; renumbered §520A and amended Pub. L. 102–321, title I, §116, July 10, 1992, 106 Stat. 348; Pub. L. 106–310, div. B, title XXXII, §3201(a), Oct. 17, 2000, 114 Stat. 1189; Pub. L. 114–255, div. B, title VII, §7003, title IX, §9012, Dec. 13, 2016, 130 Stat. 1223, 1245.)
 
 #### Codification
 
@@ -78,7 +78,7 @@ Subsec. (a)(4). Pub. L. 114–255, §7003(1)(A), inserted ", which may include 
 
 Subsec. (e)(3). Pub. L. 114–255, §9012, added par. (3).
 
-Subsec. (f). Pub. L. 114–255, §7003(2), amended subsec. (f) generally, substituting appropriations for fiscal years 2018 through 2022 for appropriations for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003 and data infrastructure provisions.
+Subsec. (f). Pub. L. 114–255, §7003(2), amended subsec. (f) generally, substituting appropriations for fiscalyears 2018 through 2022 for appropriations for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003 and data infrastructure provisions.
 
 <b>2000</b>—Pub. L. 106–310 amended section catchline and text generally, substituting provisions relating to priority mental health needs of regional and national significance for provisions relating to establishment of grant programs for demonstration projects.
 

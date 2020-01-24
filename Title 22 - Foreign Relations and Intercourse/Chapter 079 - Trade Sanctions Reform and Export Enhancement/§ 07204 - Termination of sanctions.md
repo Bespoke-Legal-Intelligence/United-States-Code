@@ -4,7 +4,7 @@ Any unilateral agricultural sanction or unilateral medical sanction that is impo
 
 &emsp;(1) not later than 60 days before the date of termination of the sanction, the President submits to Congress a report containing—
 
-&emsp;&emsp;(A) the recommendation of the President for the continuation of the sanction for anadditional period of not to exceed 2 years; and
+&emsp;&emsp;(A) the recommendation of the President for the continuation of the sanction for an additional period of not to exceed 2 years; and
 
 &emsp;&emsp;(B) the request of the President for approval by Congress of the recommendation; and
 

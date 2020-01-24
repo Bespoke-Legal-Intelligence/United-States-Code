@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Government rights in the design of a vessel, boat, or craft, and its components, including the hull, decks, superstructure, and all shipboard equipment and systems, shall be determined solely as follows:
+In General.—Government rights in the design of a vessel, boat, or craft, and its components, including the hull, decks, superstructure,and all shipboard equipment and systems, shall be determined solely as follows:
 
 &emsp;(1) In the case of a vessel, boat, craft, or component procured through a contract, in accordance with the provisions of section 2320 of this title.
 

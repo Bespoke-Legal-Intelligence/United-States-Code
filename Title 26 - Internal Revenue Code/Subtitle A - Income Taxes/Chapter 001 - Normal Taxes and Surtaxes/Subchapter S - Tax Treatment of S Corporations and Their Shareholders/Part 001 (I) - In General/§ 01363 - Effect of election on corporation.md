@@ -50,7 +50,7 @@ The taxable income of an S corporation shall be computed in the same manner as i
 
 #### (B) Date for payment of installments
 
-&emsp;&emsp;The first installment under subparagraph (A) shall be paid on or before the due date\(determined without regard to extensions) for the return of the tax imposed by this chapter for the last taxable year for which the corporation was a C corporation and the 3 succeeding installments shall be paid on or before the due date (as so determined) for the corporation's return for the 3 succeeding taxable years.
+&emsp;&emsp;The first installment under subparagraph (A) shall be paid on or before the due date (determined without regard to extensions) for the return of the tax imposed by this chapter for the last taxable year for which the corporation was a C corporation and the 3 succeeding installments shall be paid on or before the due date (as so determined) for the corporation's return for the 3 succeeding taxable years.
 
 #### (C) No interest for period of extension
 
@@ -150,7 +150,7 @@ Exception.—The amendment made by subsection (a) shall not apply in the case of
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 511(d)(2)(C) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31,1986, see section 511(e) of Pub. L. 99–514, set out as a note under section 163 of this title.
+Amendment by section 511(d)(2)(C) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 511(e) of Pub. L. 99–514, set out as a note under section 163 of this title.
 
 Amendment by section 632(b) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 

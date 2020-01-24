@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 109–286, §11, Sept. 27, 2006, 120 Stat. 1225, which related to withdrawal of certain land from location, entry, and patent under the public land lawsand mining and mineral leasing laws, subject to valid existing rights, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 109–286, §11, Sept. 27, 2006, 120 Stat. 1225, which related to withdrawal of certain land from location, entry, and patent under the public land laws and mining and mineral leasing laws, subject to valid existing rights, was omitted from the Code as being of special and not general application.
 

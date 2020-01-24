@@ -12,7 +12,7 @@
 
 #### (3) Exceptions
 
-&emsp;This subsection shall not apply to the extent otherwise provided in this section with respect to applicable time periods. This subsectionshall also not apply to any requirements relating to bonding, insurance, or financial responsibility. Nothing in this chapter shall be construed to require a State to comply with section 9604(c)(3) of this title in the case of a facility which is owned or operated by any department, agency, or instrumentality of the United States.
+&emsp;This subsection shall not apply to the extent otherwise provided in this section with respect to applicable time periods. This subsection shall also not apply to any requirements relating to bonding, insurance, or financial responsibility. Nothing in this chapter shall be construed to require a State to comply with section 9604(c)(3) of this title in the case of a facility which is owned or operated by any department, agency, or instrumentality of the United States.
 
 #### (4) State laws
 
@@ -66,7 +66,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 #### (2) Commencement of remedial action; interagency agreement
 
-&emsp;The Administrator shall review the results of each investigation and study conducted asprovided in paragraph (1). Within 180 days thereafter, the head of the department, agency, or instrumentality concerned shall enter into an interagency agreement with the Administrator for the expeditious completion by such department, agency, or instrumentality of all necessary remedial action at such facility. Substantial continuous physical onsite remedial action shall be commenced at each facility not later than 15 months after completion of the investigation and study. All such interagency agreements, including review of alternative remedial action plans and selection of remedial action, shall comply with the public participation requirements of section 9617 of this title.
+&emsp;The Administrator shall review the results of each investigation and study conducted as provided in paragraph (1). Within 180 days thereafter, the head of the department, agency, or instrumentality concerned shall enter into an interagency agreement with the Administrator for the expeditious completion by such department, agency, or instrumentality of all necessary remedial action at such facility. Substantial continuous physical onsite remedial action shall be commenced at each facility not later than 15 months after completion of the investigation and study. All such interagency agreements, including review of alternative remedial action plans and selection of remedial action, shall comply with the public participation requirements of section 9617 of this title.
 
 #### (3) Completion of remedial actions
 
@@ -118,7 +118,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 #### (1) Notice
 
-&emsp;After the last day of the 6-month period beginning on the effective date of regulations under paragraph (2) of this subsection, whenever any department, agency, or instrumentality of the United States enters into any contract for the sale or other transfer of real property which is owned by the United States and on which any hazardous substance was stored for one year or more, known to have been released, or disposed of, the head of such department, agency, or instrumentality shallinclude in such contract notice of the type and quantity of such hazardous substance and notice of the time at which such storage, release, or disposal took place, to the extent such information is available on the basis of a complete search of agency files.
+&emsp;After the last day of the 6-month period beginning on the effective date of regulations under paragraph (2) of this subsection, whenever any department, agency, or instrumentality of the United States enters into any contract for the sale or other transfer of real property which is owned by the United States and on which any hazardous substance was stored for one year or more, known to have been released, or disposed of, the head of such department, agency, or instrumentality shall include in such contract notice of the type and quantity of such hazardous substance and notice of the time at which such storage, release, or disposal took place, to the extent such information is available on the basis of a complete search of agency files.
 
 #### (2) Form of notice; regulations
 
@@ -166,7 +166,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 #### (ii) Response action assurances
 
-&emsp;&emsp;&emsp;With regard to a release or threatened release of a hazardous substance for whicha Federal agency is potentially responsible under this section, the deed or other agreement proposed to govern the transfer shall contain assurances that—
+&emsp;&emsp;&emsp;With regard to a release or threatened release of a hazardous substance for which a Federal agency is potentially responsible under this section, the deed or other agreement proposed to govern the transfer shall contain assurances that—
 
 &emsp;&emsp;&emsp;&emsp;(I) provide for any necessary restrictions on the use of the property to ensure the protection of human health and the environment;
 
@@ -210,7 +210,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;(ii) In the case of real property described in subparagraph (E)(i)(II) on which operations have been closed or realigned or scheduled for closure or realignment pursuant to a base closure law described in subparagraph (E)(ii)(I) or (E)(ii)(II) by October 19, 1992, the identification and concurrence required under subparagraphs (A) and (B), respectively, shall be made not later than 18 months after October 19, 1992.
 
-&emsp;(iii) In the case of real property described in subparagraph (E)(i)(II) on which operations are closed or realigned or become scheduledfor closure or realignment pursuant to the base closure law described in subparagraph (E)(ii)(II) after October 19, 1992, the identification and concurrence required under subparagraphs (A) and (B), respectively, shall be made not later than 18 months after the date by which a joint resolution disapproving the closure or realignment of the real property under section 2904(b) of such base closure law must be enacted, and such a joint resolution has not been enacted.
+&emsp;(iii) In the case of real property described in subparagraph (E)(i)(II) on which operations are closed or realigned or become scheduled for closure or realignment pursuant to the base closure law described in subparagraph (E)(ii)(II) after October 19, 1992, the identification and concurrence required under subparagraphs (A) and (B), respectively, shall be made not later than 18 months after the date bywhich a joint resolution disapproving the closure or realignment of the real property under section 2904(b) of such base closure law must be enacted, and such a joint resolution has not been enacted.
 
 &emsp;(iv) In the case of real property described in subparagraphs (E)(i)(II) on which operations are closed or realigned pursuant to a base closure law described in subparagraph (E)(ii)(III) or (E)(ii)(IV), the identification and concurrence required under subparagraphs (A) and (B), respectively, shall be made not later than 18 months after the date on which the real property is selected for closure or realignment pursuant to such a base closure law.
 
@@ -254,7 +254,7 @@ Nothing in this section shall affect or impair the obligation of any department,
 
 #### (2) Classified information
 
-&emsp;Notwithstanding any other provision of law, all requirements of the Atomic Energy Act \[42U.S.C. 2011 et seq.\] and all Executive orders concerning the handling of restricted data and national security information, including "need to know" requirements, shall be applicable to any grant of access to classified information under the provisions of this chapter or under title III of the Superfund Amendments and Reauthorization Act of 1986 \[42 U.S.C. 11001 et seq.\].
+&emsp;Notwithstanding any other provision of law, all requirements of the Atomic Energy Act \[42 U.S.C. 2011 et seq.\] and all Executive orders concerning the handling of restricted data and national security information, including"need to know" requirements, shall be applicable to any grant of access to classified information under the provisions of this chapter or under title III of the Superfund Amendments and Reauthorization Act of 1986 \[42 U.S.C. 11001 et seq.\].
 
 (Pub. L. 96–510, title I, §120, as added Pub. L. 99–499, title I, §120(a), Oct. 17, 1986, 100 Stat. 1666; amended Pub. L. 102–426, §§3–5, Oct. 19, 1992, 106 Stat. 2175–2177; Pub. L. 104–106, div. B, title XXVIII, §2834, Feb. 10, 1996, 110 Stat. 559; Pub. L. 104–201, div. A, title III, §§330, 331, 334, Sept. 23, 1996, 110 Stat. 2484, 2486.)
 
@@ -304,7 +304,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Environmental Compliance Not Affected by Pub. L. 114–120
 
-Pub. L. 114–120, title V, §534(a), Feb. 8, 2016, 130 Stat. 75, provided that: "Nothing in this Act \[see Tables for classification\] or any amendment made by this Actmay be construed to affect or limit the application of or obligation to comply with any applicable environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h))."
+Pub. L. 114–120, title V, §534(a), Feb. 8, 2016, 130 Stat. 75, as amended by Pub. L. 116–92, div. C, title XXXV, §3514(e), Dec. 20, 2019, 133 Stat. 1984, provided that: "After the date on which the Secretary of the Interior conveys land under section 533 of this Act \[section 533 of Pub. L. 114–120, 130 Stat. 74, not classified to Code\],nothing in this Act \[see Tables for classification\] or any amendment made by this Act may be construed to affect or limit the application of or obligation to comply with any applicable environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)), with respect to contaminants on such land prior to the date on which the land is conveyed."
 
 #### Identification of Uncontaminated Property at Installations To Be Closed
 

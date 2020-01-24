@@ -6,11 +6,11 @@ There is established within the Department of Health and Human Services the posi
 
 #### (b) Duties
 
-Subject to the authority of the Secretary, the Assistant Secretary for Preparedness and Response shall carry out the following functions:
+Subject to the authority of the Secretary, the Assistant Secretary for Preparedness and Response shall utilize experience related to public health emergency preparedness and response, biodefense, medical countermeasures, and other relevant topics to carry out the following functions:
 
 #### (1) Leadership
 
-&emsp;Serve as the principal advisor to the Secretary on all matters related to Federal public health and medical preparedness and response for public health emergencies.
+&emsp;Serve as the principal advisor to the Secretary on all matters related to Federal publichealth and medical preparedness and response for public health emergencies.
 
 #### (2) Personnel
 
@@ -36,7 +36,7 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (D) Policy coordination and strategic direction
 
-&emsp;&emsp;Provide integrated policy coordination and strategic direction with respect to all matters related to Federal public health and medical preparedness and execution and deployment of the Federal response for public health emergencies and incidents covered by the National Response Plan developed pursuant to section 314(a)(6) <sup>1</sup> of title 6, or any successor plan, before, during, and following public health emergencies.
+&emsp;&emsp;Provide integrated policy coordination and strategic direction, before, during, and following public health emergencies, with respect to all matters related to Federal public health and medical preparedness and execution and deployment of the Federal response for public health emergencies and incidents covered by the National Response Plan described in section 314(a)(6) of title 6, or any successor plan; and such Federal responses covered by the National Cybersecurity Incident Response Plan developed under section 660(c) <sup>1</sup> of title 6, including public health emergencies or incidents related to cybersecurity threats that present a threat to national health security.
 
 #### (E) Identification of inefficiencies
 
@@ -44,7 +44,7 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (F) Coordination of grants and agreements
 
-&emsp;&emsp;Align and coordinate medical and public health grants and cooperative agreements asapplicable to preparedness and response activities authorized under this chapter, to the extent possible, including program requirements, timelines, and measurable goals, and in consultation with the Secretary of Homeland Security, to—
+&emsp;&emsp;Align and coordinate medical and public health grants and cooperative agreements as applicable to preparedness and response activities authorized under this chapter, to the extent possible, including program requirements, timelines, and measurable goals, and in consultation with the Secretary of Homeland Security, to—
 
 &emsp;&emsp;&emsp;(i) optimize and streamline medical and public health preparedness and response capabilities and the ability of local communities to respond to public health emergencies; and
 
@@ -62,9 +62,13 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 &emsp;&emsp;On a periodic basis consult with, as applicable and appropriate, the Assistant to the President for National Security Affairs, to provide an update on, and discuss, medical and public health preparedness and response activities pursuant to this chapter and the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including progress on the development, approval, clearance, and licensure of medical countermeasures.
 
+#### (I) Threat awareness
+
+&emsp;&emsp;Coordinate with the Director of the Centers for Disease Control and Prevention, the Director of National Intelligence, the Secretary of Homeland Security, the Assistant to the President for National Security Affairs, the Secretary of Defense, and other relevant Federal officials, such as the Secretary of Agriculture, to maintain a current assessment of national security threats and inform preparedness and response capabilities based on the range of the threats that have the potential to result in a public health emergency.
+
 #### (5) Logistics
 
-&emsp;In coordination with the Secretary of Veterans Affairs, the Secretary of Homeland Security, the General Services Administration, and other public and private entities, provide logistical support for medical and public health aspects of Federal responses to public health emergencies.
+&emsp;In coordination with the Secretary of Veterans Affairs, the Secretary of Homeland Security, the General Services Administration, and other public and private entities, provide logistical support for medical and public health aspects of Federal responses to public health emergencies. Such logistical support shall include working with other relevant Federal, State, local, Tribal, and territorial publichealth officials and private sector entities to identify the critical infrastructure assets, systems, and networks needed for the proper functioning of the health care and public health sectors that need to be maintained through any emergency or disaster, including entities capable of assisting with, responding to, and mitigating the effect of a public health emergency, including a public health emergency determined by the Secretary pursuant to section 247d(a) of this title or an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act or the National Emergencies Act, including by establishing methods to exchange critical information and deliver products consumed or used to preserve, protect, or sustain life, health, or safety, and sharing of specialized expertise.
 
 #### (6) Leadership
 
@@ -72,23 +76,29 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (7) Countermeasures budget plan
 
-&emsp;Develop, and update not later than March 1 of each year, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d), including with respect to chemical, biological, radiological, and nuclear agent or agents that may present a threat to the Nation, including such agents that are novel or emerging infectious diseases, and the corresponding efforts to develop qualified countermeasures (as defined in section 247d–6a of this title), security countermeasures (as defined in section 247d–6b of this title), and qualified pandemic or epidemic products (as defined in section 247d–6d of this title) for each such threat. Each such plan shall—
+&emsp;Develop, and update not later than March 15 of each year, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d), including with respect to chemical, biological, radiological, and nuclear agent or agents that may present a threat to the Nation, including such agents that are novel or emerging infectious diseases, and the corresponding efforts to develop qualified countermeasures (as defined in section 247d–6a of this title), security countermeasures (as defined in section 247d–6b of this title), and qualified pandemic or epidemic products (as defined in section 247d–6d of this title) for each such threat. Each such plan shall—
 
 &emsp;&emsp;(A) include consideration of the entire medical countermeasures enterprise, including—
 
 &emsp;&emsp;&emsp;(i) basic research and advanced research and development;
 
-&emsp;&emsp;&emsp;(ii) approval, clearance, licensure, and authorized uses of products; and
+&emsp;&emsp;&emsp;(ii) approval, clearance, licensure, and authorized uses of products;
 
-&emsp;&emsp;&emsp;(iii) procurement, stockpiling, maintenance, and replenishment of all products in the Strategic National Stockpile;
+&emsp;&emsp;&emsp;(iii) procurement, stockpiling, maintenance, and potential replenishment (including manufacturing capabilities) of all products in the Strategic National Stockpile;
+
+&emsp;&emsp;&emsp;(iv) the availability of technologies that may assist in the advanced research and development of countermeasures and opportunities to use such technologies to accelerate and navigate challenges unique to countermeasure research and development; and
+
+&emsp;&emsp;&emsp;(v) potential deployment, distribution, and utilization of medical countermeasures; development of clinical guidance and emergency use instructions for the use of medical countermeasures; and, as applicable, potential postdeployment activities related to medical countermeasures;
 
 &emsp;&emsp;(B) inform prioritization of resources and include measurable outputs and outcomes to allow for the tracking of the progress made toward identified priorities;
 
 &emsp;&emsp;(C) identify medical countermeasure life-cycle costs to inform planning, budgeting, and anticipated needs within the continuum of the medical countermeasure enterprise consistent with section 247d–6b of this title;
 
-&emsp;&emsp;(D) be made available, not later than March 15 of each year, to the Committee on Appropriations and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives; and
+&emsp;&emsp;(D) identify the full range of anticipated medical countermeasure needs related to research and development, procurement, and stockpiling, including the potential need for indications, dosing, and administration technologies, and other countermeasure needs as applicable and appropriate;
 
-&emsp;&emsp;(E) not later than March 15 of each year, be made publicly available in a manner that does not compromise national security.
+&emsp;&emsp;(E) be made available, not later than March 15 of each year, to the Committee on Appropriations and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives; and
+
+&emsp;&emsp;(F) not later than March 15 of each year, be made publicly available in a manner that does not compromise national security.
 
 #### (c) Functions
 
@@ -124,7 +134,7 @@ The Assistant Secretary for Preparedness and Response shall—
 
 #### (1) In general
 
-&emsp;Not later than 180 days after March 13, 2013, and every year thereafter, the Assistant Secretary for Preparedness and Response shall develop and submit to the appropriate committees of Congress a coordinated strategy and accompanying implementation plan for medical countermeasures to address chemical, biological, radiological, and nuclear threats. In developing such a plan, the Assistant Secretary for Preparedness and Response shall consult with the Director of the Biomedical Advanced Research and Development Authority, the Director of the National Institutes of Health, the Director of the Centers for Disease Control and Prevention, and the Commissioner of Food and Drugs. Such strategy and plan shall be known as the "Public Health Emergency Medical Countermeasures Enterprise Strategy and Implementation Plan".
+&emsp;Not later than March 15, 2020, and biennially thereafter, the Assistant Secretary for Preparedness and Response shall develop and submit to the appropriate committees of Congress a coordinated strategy and accompanying implementation plan for medical countermeasures to address chemical, biological, radiological, and nuclear threats. In developing such a plan, the Assistant Secretary for Preparedness and Response shall consult with the Public Health Emergency Medical Countermeasures Enterprise established under section 300hh–10a of this title. Such strategy and plan shall be known as the "Public Health Emergency Medical Countermeasures Enterprise Strategy and Implementation Plan".
 
 #### (2) Requirements
 
@@ -134,7 +144,7 @@ The Assistant Secretary for Preparedness and Response shall—
 
 &emsp;&emsp;(B) evaluate the progress of all activities with respect to such countermeasures or products, including research, advanced research, development, procurement, stockpiling, deployment, distribution, and utilization;
 
-&emsp;&emsp;(C) identify and prioritize near-, mid-, and long-term needs with respect to such countermeasures or products to address a chemical, biological, radiological, and nuclear threat or threats;
+&emsp;&emsp;(C) identify and prioritize near-, mid-, and long-term needs with respect to such countermeasures or products, and ancillary medical supplies to assist with the utilization of such countermeasures or products, to address a chemical, biological, radiological, and nuclear threat or threats;
 
 &emsp;&emsp;(D) identify, with respect to each category of threat, a summary of all awards and contracts, including advanced research and development and procurement, that includes—
 
@@ -142,7 +152,7 @@ The Assistant Secretary for Preparedness and Response shall—
 
 &emsp;&emsp;&emsp;(ii) an identification of projected timelines, anticipated funding allocations, benchmarks, and milestones for each medical countermeasure priority under subparagraph (C), including projected needs with regard to replenishment of the Strategic National Stockpile;
 
-&emsp;&emsp;(E) be informed by the recommendations of the National Biodefense Science Board pursuant to section 247d–7f of this title;
+&emsp;&emsp;(E) be informed by the recommendations of the National Biodefense Science Board pursuant to section 247d–7g of this title;
 
 &emsp;&emsp;(F) evaluate progress made in meeting timelines, allocations, benchmarks, and milestones identified under subparagraph (D)(ii);
 
@@ -166,11 +176,11 @@ The Assistant Secretary for Preparedness and Response shall—
 
 &emsp;&emsp;&emsp;(ii) the reasons underlying the decision to use such authorities, including, as applicable, the options that were considered and rejected with respect to the use of such authorities;
 
-&emsp;&emsp;&emsp;(iii) the number of, nature of, and other information concerning the persons and entities that received a grant, cooperative agreement, or contract pursuant to the use of such authorities, and the persons and entities that were considered and rejectedfor such a grant, cooperative agreement, or contract, except that the report need not disclose the identity of any such person or entity;
+&emsp;&emsp;&emsp;(iii) the number of, nature of, and other information concerning the persons and entities that received a grant, cooperative agreement, or contract pursuant to the use of such authorities, and the persons and entities that were considered and rejected for such a grant, cooperative agreement, or contract, except that the report need not disclose the identity of any such person or entity;
 
 &emsp;&emsp;&emsp;(iv) whether, with respect to each procurement that is approved by the President under section 247d–6b(c)(6) of this title, a contract was entered into within one year after such approval by the President; and
 
-&emsp;&emsp;&emsp;(v) with respect to section 247d–6a(d) of this title, for the one-year period for which the report is submitted, the number of persons who were paid amounts totaling $100,000 or greater and the number of persons who were paid amounts totaling at least $50,000 but less than $100,000; and
+&emsp;&emsp;&emsp;(v) with respect to section 247d–6a(d) of this title, for the 2-year period for which the report is submitted, the number of persons who were paid amounts totaling $100,000 or greater and the number of persons who were paid amounts totaling at least $50,000 but less than $100,000; and
 
 &emsp;&emsp;(K) be made publicly available.
 
@@ -194,21 +204,75 @@ The Assistant Secretary for Preparedness and Response shall—
 
 In carrying out subsections (b)(7) and (d), the Secretary shall ensure that information and items that could compromise national security, contain confidential commercial information, or contain proprietary information are not disclosed.
 
-(July 1, 1944, ch. 373, title XXVIII, §2811, as added Pub. L. 109–417, title I, §102(a)(3), Dec. 19, 2006, 120 Stat. 2833; amended Pub. L. 113–5, title I, §102(a), Mar. 13, 2013, 127 Stat. 163; Pub. L. 114–255, div. A, title III, §3083, Dec. 13, 2016, 130 Stat. 1141.)
+#### (f) Protection of national security from threats
+
+#### (1) In general
+
+&emsp;In carrying out subsection (b)(3), the Assistant Secretary for Preparedness and Response shall implement strategic initiatives or activities to address threats, including pandemic influenza and which may include a chemical, biological, radiological, or nuclear agent (including any such agent with a significant potential to become a pandemic), that pose a significant level of risk to public health and national security based on the characteristics of such threat. Such initiatives shall include activities to—
+
+&emsp;&emsp;(A) accelerate and support the advanced research, development, manufacturing capacity, procurement, and stockpiling of countermeasures, including initiatives under section 247d–7e(c)(4)(F) of this title;
+
+&emsp;&emsp;(B) support the development and manufacturing of virus seeds, clinical trial lots, and stockpiles of novel virus strains; and
+
+&emsp;&emsp;(C) maintain or improve preparedness activities, including for pandemic influenza.
+
+#### (2) Authorization of appropriations
+
+#### (A) In general
+
+&emsp;&emsp;To carry out this subsection, there is authorized to be appropriated $250,000,000 for each of fiscal years 2019 through 2023.
+
+#### (B) Supplement, not supplant
+
+&emsp;&emsp;Amounts appropriated under this paragraph shall be used to supplement and not supplant funds provided under sections 247d–7e(d) and 247d–6b(g) of this title.
+
+#### (C) Documentation required
+
+&emsp;&emsp;The Assistant Secretary for Preparedness and Response, in accordance with subsection (b)(7), shall document amounts expended for purposes of carrying out this subsection, including amounts appropriated under the heading "Public Health and Social Services Emergency Fund" under the heading "Office of the Secretary" under title II of division H of the Consolidated Appropriations Act, 2018 (Public Law 115–141) and allocated to carrying out section 247d–7e(c)(4)(F) of this title.
+
+(July 1, 1944, ch. 373, title XXVIII, §2811, as added Pub. L. 109–417, title I, §102(a)(3), Dec. 19, 2006, 120 Stat. 2833; amended Pub. L. 113–5, title I, §102(a), Mar. 13, 2013, 127 Stat. 163; Pub. L. 114–255, div. A, title III, §3083, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §302(a), (b), title IV, §§401, 402(b), 404(b), title V, §501, title VII, §703(b), June 24, 2019, 133 Stat. 934, 942, 943, 948, 950, 963.)
 
 #### References in Text
 
-Section 314(a)(6) of title 6, referred to in subsec. (b)(4)(D), was in the original "section 504(6) of the Homeland Security Act of 2002" and was translated as meaning section 504(a)(6) of the Homeland Security Act of 2002 to reflect the probable intent of Congress.
+Section 660(c) of title 6, referred to in subsec. (b)(4)(D), was in the original "section 228(c) of the Homeland Security Act of 2002", and was translated as meaning section 2210(c) of the Homeland Security Act of 2002 to reflect the probable intent of Congress. Section 228 of the Homeland Security Act of 2002, meaning section 228 of Pub. L. 107–296, was renumbered section 2210 of Pub. L. 107–296 by Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178, and transferred to section 660 of Title 6, Domestic Security. Pub. L. 107–296 no longer contains a section 228.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(4)(H), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-Section 301 of the Pandemic and All-Hazards Preparedness Act, referred to in subsec. (c)(1)(A), is section 301 of Pub. L. 109–417, title III, Dec. 19, 2006, 120 Stat. 2853, which amended sections 247d–6 and 300hh–11 of this title and sections 313 and 314 of Title 6, Domestic Security, and enacted provisions set out as notes under section 300hh–11 of this title and section 313 of Title 6.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(5), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
+The National Emergencies Act, referred to in subsec. (b)(5), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+
+Section 301 of the Pandemic and All-Hazards Preparedness Act, referred to in subsec. (c)(1)(A), is section 301 of Pub. L. 109–417, title III, Dec. 19, 2006, 120 Stat.2853, which amended sections 247d–6 and 300hh–11 of this title and sections 313 and 314 of Title 6, Domestic Security, and enacted provisions set out as notes under section 300hh–11 of this title and section 313 of Title 6.
+
+The Consolidated Appropriations Act, 2018, referred to in subsec. (f)(2)(C), is Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 348. Title II of division H of the Act is title II of div. H of Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 714, which is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
 A prior section 2811 of act July 1, 1944, was renumbered section 2812 and is classified to section 300hh–11 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b). Pub. L. 116–22, §401(1), inserted "utilize experience related to public health emergency preparedness and response, biodefense, medical countermeasures, and other relevant topics to" after "shall" in introductory provisions.
+
+Subsec. (b)(4)(D). Pub. L. 116–22, §703(b), amended subpar. (D) generally. Prior to amendment, text read as follows: "Provide integrated policy coordination and strategic direction with respect to all matters related to Federal public health and medical preparedness and execution and deployment of the Federal response for public health emergencies and incidents covered by the National Response Plan developed pursuant to section 314(a)(6) of title 6, or any successor plan, before, during, and following public health emergencies."
+
+Subsec. (b)(4)(I). Pub. L. 116–22, §401(2), added subpar. (I).
+
+Subsec. (b)(5). Pub. L. 116–22, §302(a), inserted at end "Such logistical support shall include working with other relevant Federal, State, local, Tribal, and territorial public health officials and private sector entities to identify the critical infrastructure assets, systems, and networks needed for the proper functioning of the health care and public health sectors that need to be maintained through any emergency or disaster, including entities capable of assisting with, responding to, and mitigating the effect of a public health emergency, including a public health emergency determined by the Secretary pursuant to section 247d(a) of this title or an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act or the National Emergencies Act, including by establishing methods to exchange critical information and deliver products consumed or used to preserve, protect, or sustain life, health, or safety, and sharing of specialized expertise."
+
+Subsec. (b)(7). Pub. L. 116–22, §501(1), substituted "March 15" for "March 1" in introductory provisions.
+
+Subsec. (b)(7)(A)(iii) to (v). Pub. L. 116–22, §501(2), added cls. (iii) to (v) and struck out former cl. (iii) which read as follows: "procurement, stockpiling, maintenance, and replenishment of all products in the Strategic National Stockpile;".
+
+Subsec. (b)(7)(D) to (F). Pub. L. 116–22, §501(3), (4), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+
+Subsec. (d)(1). Pub. L. 116–22, §402(b)(1), substituted "Not later than March 15, 2020, and biennially thereafter" for "Not later than 180 days after March 13, 2013, and every year thereafter" and "Public Health Emergency Medical Countermeasures Enterprise established under section 300hh–10a of this title" for "Director of the Biomedical Advanced Research and Development Authority, the Director of the National Institutes of Health, the Director of the Centers for Disease Control and Prevention, and the Commissioner of Food and Drugs".
+
+Subsec. (d)(2)(C). Pub. L. 116–22, §302(b), inserted ", and ancillary medical supplies to assist with the utilization of such countermeasures or products," after "products".
+
+Subsec. (d)(2)(J)(v). Pub. L. 116–22, §402(b)(2), substituted "2-year period" for "one-year period".
+
+Subsec. (f). Pub. L. 116–22, §404(b), added subsec. (f).
 
 <b>2016</b>—Subsec. (b)(7). Pub. L. 114–255, §3083(1), in introductory provisions, substituted "Develop, and update not later than March 1 of each year, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d), including with respect to chemical, biological, radiological, and nuclear agent or agents that may present a threat to the Nation, including such agents that are novel or emerging infectious diseases, and the corresponding efforts to develop qualified countermeasures (as defined in section 247d–6a of this title), security countermeasures (as defined in section 247d–6b of this title), and qualified pandemic or epidemic products (as defined in section 247d–6d of this title) for each such threat." for "Develop, and update on an annual basis, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d)."
 
@@ -240,7 +304,7 @@ References.—Any reference in any Federal law, Executive order, rule, regulatio
 
 #### Interagency Coordination Plan
 
-Pub. L. 113–5, title I, §102(b), Mar. 13, 2013, 127 Stat. 168, provided that: "In the first Public Health Emergency \[Medical\] Countermeasures Enterprise Strategy and Implementation Plan submitted under subsection (d) of section 2811 of the Public Health Service Act (42 U.S.C. 300hh–10) (as added by subsection (a)(3)), the Secretary of Health and Human Services, in consultation with the Secretary of Defense, shall include a description of the manner in which the Department of Health and Human Services is coordinating with the Department of Defense regarding countermeasure activities to address chemical, biological, radiological, and nuclear threats. Such report shall include information with respect to—
+Pub. L. 113–5, title I, §102(b), Mar. 13, 2013, 127 Stat. 168, provided that: "In the first Public Health Emergency \[Medical\] Countermeasures Enterprise Strategy and Implementation Plan submitted under subsection (d) of section 2811 of the Public Health Service Act (42 U.S.C. 300hh–10) (as added by subsection (a)(3)), the Secretary of Health and Human Services, in consultation with the Secretary of Defense, shall include a description of the manner in which the Department of Healthand Human Services is coordinating with the Department of Defense regarding countermeasure activities to address chemical, biological, radiological, and nuclear threats. Such report shall include information with respect to—
 
 &emsp;"(1) the research, advanced research, development, procurement, stockpiling, and distribution of countermeasures to meet identified needs; and
 

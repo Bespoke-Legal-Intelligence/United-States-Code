@@ -30,7 +30,7 @@ Proper adjustment in respect of the property shall in all cases be made—
 
 &emsp;&emsp;(B) since February 28, 1913, during which such property was held by a person or an organization not subject to income taxation under this chapter or prior income tax laws,
 
-&emsp;&emsp;(C) since February 28, 1913, and before January 1, 1958, during which such property washeld by a person subject to tax under part I of subchapter L (or the corresponding provisions of prior income tax laws), to the extent that paragraph (2) does not apply, and
+&emsp;&emsp;(C) since February 28, 1913, and before January 1, 1958, during which such property was held by a person subject to tax under part I of subchapter L (or the corresponding provisions of prior income tax laws), to the extent that paragraph (2) does not apply, and
 
 &emsp;&emsp;(D) since February 28, 1913, during which such property was held by a person subject to tax under part II of subchapter L as in effect prior to its repeal by the Tax Reform Act of 1986 (or the corresponding provisions of prior income tax laws), to the extent that paragraph (2) does not apply,
 
@@ -146,7 +146,7 @@ Whenever it appears that the basis of property in the hands of the taxpayer is a
 
 #### (A) In general
 
-&emsp;&emsp;An election under this subsection shall be made at such time and in such manner as the Secretary shall by regulations prescribe. Such an election, once made, shall be irrevocable.
+&emsp;&emsp;An election under this subsection shall be made at such time and in such manner asthe Secretary shall by regulations prescribe. Such an election, once made, shall be irrevocable.
 
 #### (B) Interest on recaptured amount
 
@@ -166,7 +166,7 @@ If—
 
 &emsp;&emsp;<b>For treatment of separate mineral interests as one property, see section 614.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 299; June 29, 1956, ch. 464, §4(c), 70 Stat. 407; Pub. L. 85–866, title I,§§2(b), 64(d)(2), Sept. 2, 1958, 72 Stat. 1607, 1656; Pub. L. 86–69, §3(d), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §§2(f), 8(g)(2), 12(b)(4), Oct. 16, 1962, 76 Stat. 972, 998, 1031; Pub. L. 88–272, title II, §§203(a)(3)(C), 225(j)(2), 227(b)(5), Feb. 26, 1964, 78 Stat. 34, 93, 98; Pub. L. 91–172, title II, §231(c)(3), title V, §§504(c)(4), 516(c)(2)(B), Dec. 30, 1969, 83 Stat. 580, 633, 648; Pub. L. 94–455, title XIX, §1901(a)(123), (b)(1)(F)(ii), (21)(G), (29)(A), (30)(A), title XX, §2005(a)(3), Oct. 4, 1976, 90 Stat. 1784, 1790, 1798, 1799, 1876; Pub. L. 95–472, §4(b), Oct. 17, 1978, 92 Stat. 1335; Pub. L. 95–600, title V, §515(2), title VI, §601(b)(3), title VII, §702(r)(3), Nov. 6, 1978, 92 Stat. 2884, 2896, 2938; Pub. L. 95–618, title I, §101(b)(3), title II, §201(b), Nov. 9, 1978, 92 Stat. 3179, 3183; Pub. L. 96–222, title I, §§106(a)(2), (3), 107(a)(2)(C), Apr. 1, 1980, 94 Stat. 221, 222; Pub. L. 96–223, title IV, §401(a), (c)(1), Apr. 2, 1980, 94 Stat. 299, 300; Pub. L. 97–34, title II, §212(d)(2)(G), title IV, §421(g), Aug. 13, 1981, 95 Stat. 239, 310; Pub. L. 97–248, title II, §§201(c)(2), 205(a)(5)(B), Sept. 3, 1982, 96 Stat. 418, 429; Pub. L. 97–354, §5(a)(33), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title I, §§43(a)(2), 53(d)(3), title II, §211(b)(14), title IV, §474(r)(23), title V, §541(b)(2), July 18, 1984, 98 Stat. 558, 568, 756, 844, 890; Pub. L. 99–514, title II, §241(b)(2), title VII, §701(e)(4)(D), title XIII, §1303(b)(3), title XVIII, §1899A(25), Oct. 22, 1986, 100 Stat. 2181, 2343, 2658, 2959; Pub. L. 100–647, title I, §§1006(j)(1)(B), 1018(u)(22), Nov. 10, 1988, 102 Stat. 3411, 3591; Pub. L. 101–194, title V, §502(b)(2), Nov. 30, 1989, 103 Stat. 1755; Pub. L. 101–508, title XI, §§11801(c)(1), 11812(b)(10), 11813(b)(19), Nov. 5, 1990, 104 Stat. 1388–522, 1388–535, 1388–555; Pub. L. 102–486, title XIX, §1913(a)(3)(A), (b)(2)(B), Oct. 24, 1992, 106 Stat. 3019, 3020; Pub. L. 103–66, title XIII, §§13114(b), 13213(a)(2)(F), 13261(f)(3), Aug. 10, 1993, 107 Stat. 431, 474, 539; Pub. L. 104–188, title I, §§1704(t)(56), 1807(c)(5), Aug. 20, 1996, 110 Stat. 1890, 1902; Pub. L. 105–34, title III, §§312(d)(6), 313(b)(1), title VII, §701(b)(2), Aug. 5, 1997, 111 Stat. 840, 842, 869; Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603; Pub. L. 107–16, title II, §205(b)(3), June 7, 2001, 115 Stat. 53; Pub. L. 108–357, title II, §245(c)(2), title III, §§338(b)(4), 339(d), title IV, §413(c)(19), Oct. 22, 2004, 118 Stat. 1448, 1481, 1484, 1509; Pub. L. 109–58, title XIII, §§1331(b)(1), 1332(c), 1333(b)(1), 1335(b)(4), 1341(b)(2), 1342(b)(2), Aug. 8, 2005, 119 Stat. 1023, 1026, 1029, 1036, 1049, 1051; Pub. L. 109–135, title IV, §412(nn), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 110–172, §§7(a)(1)(C), 11(a)(21), (22), Dec. 29, 2007, 121 Stat. 2481, 2486; Pub. L. 110–343, div. B, title II, §205(d)(2), Oct. 3, 2008, 122 Stat. 3839; Pub. L. 111–5, div. B, title I, §§1141(b)(3), 1142(b)(6), Feb. 17, 2009, 123 Stat. 328, 331; Pub. L. 111–148, title X, §10909(b)(2)(L), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 113–295, div. A, title II, §§209(j)(2), 221(a)(2)(D), (34)(G), (75), Dec. 19, 2014, 128 Stat. 4030, 4037, 4042, 4049; Pub. L. 115–97, title I, §§13313(b), 13521(a), 13823(b), Dec. 22, 2017, 131 Stat. 2133, 2151, 2188; Pub. L. 115–141, div. U, title IV, §401(a)(166), (d)(4)(B)(iv), Mar. 23, 2018, 132 Stat. 1192, 1209.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 299; June 29, 1956, ch. 464, §4(c), 70 Stat. 407; Pub. L. 85–866, title I, §§2(b), 64(d)(2), Sept. 2, 1958, 72 Stat. 1607, 1656; Pub. L. 86–69, §3(d), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §§2(f), 8(g)(2), 12(b)(4), Oct. 16, 1962, 76 Stat. 972, 998, 1031; Pub. L. 88–272, title II, §§203(a)(3)(C), 225(j)(2), 227(b)(5), Feb. 26, 1964, 78 Stat. 34, 93, 98; Pub. L. 91–172, title II, §231(c)(3), title V, §§504(c)(4), 516(c)(2)(B), Dec. 30, 1969, 83 Stat. 580, 633, 648; Pub. L. 94–455, title XIX, §1901(a)(123), (b)(1)(F)(ii), (21)(G), (29)(A), (30)(A), title XX, §2005(a)(3), Oct. 4, 1976, 90 Stat. 1784, 1790, 1798, 1799, 1876; Pub. L. 95–472, §4(b), Oct. 17, 1978, 92 Stat. 1335; Pub. L. 95–600, title V, §515(2), title VI, §601(b)(3), title VII, §702(r)(3), Nov. 6, 1978, 92 Stat. 2884, 2896, 2938; Pub. L. 95–618, title I, §101(b)(3), title II, §201(b), Nov. 9, 1978, 92 Stat. 3179, 3183; Pub. L. 96–222, title I, §§106(a)(2), (3), 107(a)(2)(C), Apr. 1, 1980, 94 Stat. 221, 222; Pub. L. 96–223, title IV, §401(a), (c)(1), Apr. 2, 1980, 94 Stat. 299, 300; Pub. L. 97–34, title II, §212(d)(2)(G), title IV, §421(g), Aug. 13, 1981, 95 Stat. 239, 310; Pub. L. 97–248, title II, §§201(c)(2), 205(a)(5)(B), Sept. 3, 1982, 96 Stat. 418, 429; Pub. L. 97–354, §5(a)(33), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title I, §§43(a)(2), 53(d)(3), title II, §211(b)(14), title IV, §474(r)(23), title V, §541(b)(2), July 18, 1984, 98 Stat. 558, 568, 756, 844, 890; Pub. L. 99–514, title II, §241(b)(2), title VII, §701(e)(4)(D), title XIII, §1303(b)(3), title XVIII, §1899A(25), Oct. 22, 1986, 100 Stat. 2181, 2343, 2658, 2959; Pub. L. 100–647, title I, §§1006(j)(1)(B), 1018(u)(22), Nov. 10, 1988, 102 Stat. 3411, 3591; Pub. L. 101–194, title V, §502(b)(2), Nov. 30, 1989, 103 Stat. 1755; Pub. L. 101–508, title XI, §§11801(c)(1), 11812(b)(10), 11813(b)(19), Nov. 5, 1990, 104 Stat. 1388–522, 1388–535, 1388–555; Pub. L. 102–486, title XIX, §1913(a)(3)(A), (b)(2)(B), Oct. 24, 1992, 106 Stat. 3019, 3020; Pub. L. 103–66, title XIII, §§13114(b), 13213(a)(2)(F), 13261(f)(3), Aug. 10, 1993, 107 Stat. 431, 474, 539; Pub. L. 104–188, title I, §§1704(t)(56), 1807(c)(5), Aug. 20, 1996, 110 Stat. 1890, 1902; Pub. L. 105–34, title III, §§312(d)(6), 313(b)(1), title VII, §701(b)(2), Aug. 5, 1997, 111 Stat. 840, 842, 869; Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603; Pub. L. 107–16, title II, §205(b)(3), June 7, 2001, 115 Stat. 53; Pub. L. 108–357, title II, §245(c)(2), title III, §§338(b)(4), 339(d), title IV, §413(c)(19), Oct. 22, 2004, 118 Stat. 1448, 1481, 1484, 1509; Pub. L. 109–58, title XIII, §§1331(b)(1), 1332(c), 1333(b)(1), 1335(b)(4), 1341(b)(2), 1342(b)(2), Aug. 8, 2005, 119 Stat. 1023, 1026, 1029, 1036, 1049, 1051; Pub. L. 109–135, title IV, §412(nn), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 110–172, §§7(a)(1)(C), 11(a)(21), (22), Dec. 29, 2007, 121 Stat. 2481, 2486; Pub. L. 110–343, div. B, title II, §205(d)(2), Oct. 3, 2008, 122 Stat. 3839; Pub. L. 111–5, div. B, title I, §§1141(b)(3), 1142(b)(6), Feb. 17, 2009, 123 Stat. 328, 331; Pub. L. 111–148, title X, §10909(b)(2)(L), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 113–295, div. A, title II, §§209(j)(2), 221(a)(2)(D), (34)(G), (75), Dec. 19, 2014, 128 Stat. 4030, 4037, 4042, 4049; Pub. L. 115–97, title I, §§13313(b), 13521(a), 13823(b), Dec. 22, 2017, 131 Stat. 2133, 2151, 2188; Pub. L. 115–141, div. U, title IV, §401(a)(166), (d)(4)(B)(iv), Mar. 23, 2018, 132 Stat. 1192, 1209.)
 
 #### References in Text
 
@@ -188,7 +188,7 @@ Section 174, referred to in subsec. (a)(14), was amended generally by Pub. L. 11
 
 #### Codification
 
-Section 10909(b)(2)(L) of Pub. L. 111–148, which directed the amendment of section 1016(a)(26) without specifying the act to be amended, was executed to this section, which is section 1016 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
+Section 10909(b)(2)(L) of Pub. L. 111–148, which directed the amendment of section 1016(a)(26) without specifying the act to be amended, was executed to thissection, which is section 1016 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
 #### Amendments
 
@@ -424,7 +424,7 @@ Amendment by section 221(a)(2)(D), (34)(G), (75) of Pub. L. 113–295 effective 
 
 #### Effective and Termination Dates of 2010 Amendment
 
-Amendment by Pub. L. 111–148 terminated applicable to taxable years beginning after Dec. 31, 2011, and section is amended to read as if such amendment hadnever been enacted, see section 10909(c) of Pub. L. 111–148, set out as a note under section 1 of this title.
+Amendment by Pub. L. 111–148 terminated applicable to taxable years beginning after Dec. 31, 2011, and section is amended to read as if such amendment had never been enacted, see section 10909(c) of Pub. L. 111–148, set out as a note under section 1 of this title.
 
 Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2009, see section 10909(d) of Pub. L. 111–148, set out as a note under section 1 of this title.
 
@@ -478,7 +478,7 @@ Pub. L. 106–554, §1(a)(7) \[title I, §116(c)\], Dec. 21, 2000, 114 Stat. 276
 
 Amendment by section 312(d)(6) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
-Pub. L. 105–34, title III, §313(c), Aug. 5, 1997, 111 Stat. 842, provided that: "The amendments made by this section \[enacting section 1045 of this title and amending this section and section 1223 of this title\] shall apply to sales after the date of enactment of this Act \[Aug. 5, 1997\]."
+Pub. L. 105–34, title III, §313(c), Aug. 5, 1997, 111 Stat. 842, provided that: "The amendments made by this section \[enacting section 1045 of this title and amendingthis section and section 1223 of this title\] shall apply to sales after the date of enactment of this Act \[Aug. 5, 1997\]."
 
 Amendment by section 701(b)(2) of Pub. L. 105–34 effective Aug. 5, 1997, see section 701(d) of Pub. L. 105–34, set out as a note under section 39 of this title.
 
@@ -500,7 +500,7 @@ Amendment by Pub. L. 102–486 applicable to property placed in service after Ju
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11812(b)(10) of Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L.99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by section 11812(b)(10) of Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 Amendment by section 11813(b)(19) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
@@ -552,7 +552,7 @@ Amendment by section 421(g) of Pub. L. 97–34 applicable with respect to the es
 
 Amendment by section 401(a) of Pub. L. 96–223 (repealing section 2005(a)(3) of Pub. L. 94–455 and section 702(r)(3) of Pub. L. 96–500 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and except for certain elections, this title to be applied as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as an Effective Date of 1980 Amendment note under section 32 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, towhich such amendment relates, see section 201 of Pub. L. 96–222, set out as an Effective Date of 1980 Amendment note under section 32 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -622,7 +622,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(e)(4)(D) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(e)(4)(D) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2),\(4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -730,7 +730,7 @@ adjustment date.—The term '1956 adjustment date' means, in the case of any tax
 
 &emsp;"(5)
 
-Predecessor.—The term 'predecessor' means any person from whom property of a kind or class to which this section refers was acquired, if the basis of such property is determined by reference to its basis in the hands of such person. Where a series of transfers of property has occurred and where in each instance the basis of the property was determined by reference to its basis in the hands of the prior holder, the term includes each such prior holder.
+Predecessor.—The term 'predecessor' means any person from whom property of a kind or class towhich this section refers was acquired, if the basis of such property is determined by reference to its basis in the hands of such person. Where a series of transfers of property has occurred and where in each instance the basis of the property was determined by reference to its basis in the hands of the prior holder, the term includes each such prior holder.
 
 &emsp;"(6) The term 'Secretary' means the Secretary of the Treasury or his delegate.
 

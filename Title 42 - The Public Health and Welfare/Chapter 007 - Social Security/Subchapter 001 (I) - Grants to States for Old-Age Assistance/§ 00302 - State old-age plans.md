@@ -18,7 +18,7 @@ A State plan for old-age assistance must—
 
 &emsp;(7) provide safeguards which permit the use or disclosure of information concerning applicants or recipients only (A) to public officials who require such information in connection with their official duties, or (B) to other persons for purposes directly connected with the administration of the State plan;
 
-&emsp;(8) provide that all individuals wishing to make application for assistance under the plan shall have opportunity to do so, and that such assistance shall be furnished with reasonable promptness to all eligible individuals;
+&emsp;(8) provide that all individuals wishing to make application for assistance under the planshall have opportunity to do so, and that such assistance shall be furnished with reasonable promptness to all eligible individuals;
 
 &emsp;(9) provide, if the plan includes assistance for or on behalf of individuals in private or public institutions, for the establishment or designation of a State authority or authorities which shall be responsible for establishing and maintaining standards for such institutions;
 

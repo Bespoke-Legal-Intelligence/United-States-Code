@@ -2,7 +2,7 @@
 
 For purposes of this subchapter—
 
-&emsp;(1) "agency" means any Executive agency, any military department, the Government Publishing Office, the Library of Congress, the Architect of the Capitol, and the Botanic Garden;
+&emsp;(1) "agency" means any Executive agency, any military department, the Government Publishing Office, the Library of Congress, theArchitect of the Capitol, and the Botanic Garden;
 
 &emsp;(2) "employee" has the meaning given the term in subsection (a) of section 2105 of this title, except that such term also includes an employee described in subsection (c) of that section;
 

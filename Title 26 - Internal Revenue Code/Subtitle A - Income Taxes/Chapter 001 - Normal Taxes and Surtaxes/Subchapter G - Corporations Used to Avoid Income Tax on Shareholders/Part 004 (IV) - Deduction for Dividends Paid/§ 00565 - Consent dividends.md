@@ -32,7 +32,7 @@ In the case of a consent dividend which, if paid in money would be subject to th
 
 #### (1) Consent stock
 
-&emsp;Consent stock, for purposes of this section, means the class or classes of stock entitled, after the payment of preferred dividends, to a share in the distribution (other than in complete or partial liquidation) within the taxable year of all the remaining earnings and profits, which share constitutes the same proportion of such distribution regardless of the amount of such distribution.
+&emsp;Consent stock, for purposes of this section, means the class or classes of stock entitled, after the payment of preferred dividends, to a share in the distribution (other than in complete or partial liquidation) within the taxableyear of all the remaining earnings and profits, which share constitutes the same proportion of such distribution regardless of the amount of such distribution.
 
 #### (2) Preferred dividends
 

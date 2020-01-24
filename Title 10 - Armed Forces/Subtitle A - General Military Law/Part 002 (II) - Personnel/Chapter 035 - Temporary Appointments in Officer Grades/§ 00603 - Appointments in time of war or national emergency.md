@@ -12,7 +12,7 @@
 
 (e)(1) An officer who receives an appointment to a higher grade under this section is considered to have accepted such appointment on the date of the order announcing the appointment unless he expressly declines the appointment.
 
-(2) An officer who has served continuously since he subscribed to the oath of office prescribed in section 3331 of title 5 is not required to take a new oath upon appointment to a higher grade under this section.
+(2) An officer who has served continuously since he subscribed to the oath of office prescribed in section 3331 of title 5 is not requiredto take a new oath upon appointment to a higher grade under this section.
 
 (f) Unless sooner terminated, an appointment under this section terminates on the earliest of the following:
 

@@ -101,7 +101,7 @@ Subsec. (a)(11). Pub. L. 96–39, §807(a)(28)(D), added par. (11).
 
 Subsec. (b)(4) to (8). Pub. L. 96–39, §807(a)(28)(E), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
 
-<b>1977</b>—Subsec. (a)(9). Pub. L. 95–176, §3(a), substituted provisions for withdrawal of distilled spirits from bonded premises without payment of tax where the distilled spirits are bottled in bond for export or are returned to bonded premises for transfer (for the purpose of storagepending exportation) to any customs bonded warehouse for exportation and requiring the transferred distilled spirits to be entered, stored, and accounted for, for prior provision for tax free withdrawals for use as samples in making tests or laboratory analyses.
+<b>1977</b>—Subsec. (a)(9). Pub. L. 95–176, §3(a), substituted provisions for withdrawal of distilled spirits from bonded premises without payment of tax where the distilled spirits are bottled in bond for export or are returned to bonded premises for transfer (for the purpose of storage pending exportation) to any customs bonded warehouse for exportation and requiring the transferred distilled spirits to be entered, stored, and accounted for, for prior provision for tax free withdrawals for use as samples in making tests or laboratory analyses.
 
 Subsec. (a)(10). Pub. L. 95–176, §4(a), added par. (10).
 

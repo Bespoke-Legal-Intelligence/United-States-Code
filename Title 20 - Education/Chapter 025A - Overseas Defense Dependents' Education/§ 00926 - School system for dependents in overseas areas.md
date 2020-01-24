@@ -6,7 +6,7 @@ The Secretary of Defense shall establish and operate a school system for depende
 
 #### (b) Tuition and assistance when schools unavailable
 
-(1) Under such circumstances as the Secretary of Defense may prescribe in regulations, the Secretary may provide tuition to allow dependents in an overseas area where a school operated by the Secretary is not reasonably available toattend schools other than schools established under subsection (a) on a tuition-free basis. Schools to which tuition may be paid under this subsection may include private boarding schools in the United States. Any school to which tuition is paid under this subsection to allow a dependent in an overseas area to attend such school shall provide an educational program satisfactory to the Secretary.
+(1) Under such circumstances as the Secretary of Defense may prescribe in regulations, the Secretary may provide tuition to allow dependents in an overseas area where a school operated by the Secretary is not reasonably available to attend schools other than schools established under subsection (a) on a tuition-free basis. Schools to which tuition may be paid under this subsection may include private boarding schools in the United States. Any school to which tuition is paid under this subsection to allow a dependent in an overseas area to attend such school shall provide an educational program satisfactory to the Secretary.
 
 (2)(A) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service of the Navy, may provide financial assistance to sponsors of dependents in overseas areas where schools operated by the Secretary of Defense under subsection (a) are not reasonably available in order to assist the sponsors to defray the costs incurred by the sponsors for the attendance of the dependents at schools in such areas other than schools operated by the Secretary of Defense.
 
@@ -20,7 +20,7 @@ The Secretary of Defense shall establish and operate a school system for depende
 
 #### (d) Auxiliary services available to home school students
 
-(1) A dependent who is educated in a home school setting, but who is eligible to enroll in a school of the defense dependents' education system, shall be permitted to use or receive auxiliary services of that school without being required to either enroll in that school or register for a minimum number of courses offered by that school. The dependent may be required to satisfy other eligibility requirements and comply with standards of conduct applicable to students actually enrolled in that school who use or receive the same auxiliary services.
+(1) A dependent who is educated in a home school setting, but who is eligible to enroll in a school of the defense dependents' education system, shall be permitted to use or receive auxiliary services of that school without being required to either enroll in that school or registerfor a minimum number of courses offered by that school. The dependent may be required to satisfy other eligibility requirements and comply with standards of conduct applicable to students actually enrolled in that school who use or receive the same auxiliary services.
 
 (2) For purposes of paragraph (1), the term "auxiliary services" includes use of academic resources, access to the library of the school, after hours use of school facilities, and participation in music, sports, and other extracurricular and interscholastic activities.
 

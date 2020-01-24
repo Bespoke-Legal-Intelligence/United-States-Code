@@ -52,7 +52,7 @@ Act May 22, 1953, ch. 65, title II, §11, 67 Stat. 33, provided that: "If any pr
 
 #### Naval Petroleum Reserve
 
-Act May 22, 1953, ch. 65, title II, §10, 67 Stat. 33, revoked Ex. Ord. No. 10426, Jan. 16, 1953, 18 F.R. 405, "insofar as it applies to any lands beneath navigable waters as defined in section 2 hereof \[this section\]". Ex. Ord. 10426 set aside certain submerged lands as a naval petroleum reserve and transferred functions with respect thereto from the Secretary of the Interior to the Secretary of the Navy.
+Act May 22, 1953, ch. 65, title II, §10, 67 Stat. 33, revoked Ex. Ord. No. 10426, Jan. 16, 1953, 18 F.R. 405, "insofar as it applies to any lands beneath navigable waters as defined in section 2 hereof \[this section\]". Ex. Ord. 10426 set aside certain submerged lands as a navalpetroleum reserve and transferred functions with respect thereto from the Secretary of the Interior to the Secretary of the Navy.
 
 #### Application to State of Alaska
 

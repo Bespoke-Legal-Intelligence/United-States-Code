@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;The President may, pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), block and prohibit all transactions in all property and interests inproperty of each person described in paragraph (2), if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+&emsp;The President may, pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), block and prohibit all transactions in all property and interests in property of each person described in paragraph (2), if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
 
 #### (2) Persons described
 

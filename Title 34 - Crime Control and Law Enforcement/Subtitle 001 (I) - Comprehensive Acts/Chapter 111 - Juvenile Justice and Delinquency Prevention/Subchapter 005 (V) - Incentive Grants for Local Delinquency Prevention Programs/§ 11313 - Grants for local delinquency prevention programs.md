@@ -60,7 +60,7 @@ In awarding grants under this section for a fiscal year, the Administrator may n
 
 &emsp;&emsp;&emsp;(iii) developing data-driven prevention plans, employing evidence-based prevention strategies, and conducting program evaluations to determine impact and effectiveness;
 
-&emsp;&emsp;&emsp;(iv) identifying under the plan submitted under paragraph (5) potential savings and efficiencies associated with successful implementation of such plan; and
+&emsp;&emsp;&emsp;(iv) identifying under the plan submitted under paragraph (5) potential savings andefficiencies associated with successful implementation of such plan; and
 
 &emsp;&emsp;&emsp;(v) describing how such savings and efficiencies may be used to carry out delinquency prevention programs and be reinvested in the continuing implementation of such programs after the end of the subgrant period.
 
@@ -572,7 +572,7 @@ Application requirements.—Each application submitted in accordance with paragr
 
 &emsp;&emsp;"(B) a description of the communities to be served by the grant, including the nature of juvenile crime, violence, and drug use in the communities;
 
-&emsp;&emsp;"(C) written assurances that Federal funds received under this section will be used to supplement and not supplant, non-Federal funds that wouldotherwise be available for activities funded under this section;
+&emsp;&emsp;"(C) written assurances that Federal funds received under this section will be used to supplement and not supplant, non-Federal funds that would otherwise be available for activities funded under this section;
 
 &emsp;&emsp;"(D) written assurances that all activities funded under this section will be supervised by qualified adults;
 

@@ -2,7 +2,7 @@
 
 #### (a) Election of judicial determination
 
-When a charge is filed under section 3610 of this title, a complainant, a respondent, or an aggrieved person on whose behalf the complaint was filed, may elect to have the claims asserted in that charge decided in a civil action under subsection (o) in lieu of a hearing under subsection (b). The election must be made not later than 20 days after the receipt by the electing person of service under section 3610(h) of this title or, in the case of the Secretary, not later than 20 days after such service. The person making such election shall give notice of doing so to the Secretary and to all other complainants and respondents to whom the charge relates.
+When a charge is filed under section 3610 of this title, a complainant, a respondent, or an aggrieved person on whose behalf the complaint was filed, may elect to have the claims asserted in that charge decided in a civil action under subsection (o) in lieu of a hearing under subsection (b). The election must be made not later than 20 days after the receipt by the electing person of service under section 3610(h) of this title or, in the case of the Secretary, not later than 20 days after such service. The person making such election shall give notice of doing so tothe Secretary and to all other complainants and respondents to whom the charge relates.
 
 #### (b) Administrative law judge hearing in absence of election
 
@@ -52,7 +52,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 &emsp;(B) recommend to that governmental agency appropriate disciplinary action (including, where appropriate, the suspension or revocation of the license of the respondent).
 
-(6) In the case of an order against a respondent against whom another order was issued within the preceding 5 years under this section, the Secretary shall send a copy of each such order to the Attorney General.
+(6) In the case of an order against a respondent against whom another order was issued within the preceding 5 years under this section, theSecretary shall send a copy of each such order to the Attorney General.
 
 (7) If the administrative law judge finds that the respondent has not engaged or is not about to engage in a discriminatory housing practice, as the case may be, such administrative law judge shall enter an order dismissing the charge. The Secretary shall make public disclosure of each such dismissal.
 
@@ -64,7 +64,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 #### (i) Judicial review
 
-(1) Any party aggrieved by a final order for relief under this section granting or denying inwhole or in part the relief sought may obtain a review of such order under chapter 158 of title 28.
+(1) Any party aggrieved by a final order for relief under this section granting or denying in whole or in part the relief sought may obtain a review of such order under chapter 158 of title 28.
 
 (2) Notwithstanding such chapter, venue of the proceeding shall be in the judicial circuit in which the discriminatory housing practice is alleged to have occurred, and filing of the petition for review shall be not later than 30 days after the order is entered.
 

@@ -12,7 +12,7 @@ From the funds reserved under section 6671(2) of this title for a fiscal year, t
 
 &emsp;(4) providing continuous professional development for principals or other school leaders in high-need schools;
 
-&emsp;(5) developing and disseminating information on best practices and strategies for effective school leadership in high-need schools,such as training and supporting principals to identify, develop, and maintain school leadership teams using various leadership models; and
+&emsp;(5) developing and disseminating information on best practices and strategies for effective school leadership in high-need schools, such as training and supporting principals to identify, develop, and maintain school leadership teams using various leadership models; and
 
 &emsp;(6) other evidence-based programs or activities described in section 6611(c)(4) of this title or section 6613(b)(3) of this title focused on principals or other school leaders in high-need schools.
 

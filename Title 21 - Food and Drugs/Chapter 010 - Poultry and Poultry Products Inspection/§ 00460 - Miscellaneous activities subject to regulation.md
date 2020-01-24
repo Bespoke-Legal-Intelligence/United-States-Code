@@ -12,7 +12,7 @@ The following classes of persons shall, for such period of time as the Secretary
 
 &emsp;(2) Any person that engages in the business of buying or selling (as poultry products brokers, wholesalers or otherwise), or transporting, in commerce, or storing in or for commerce, or importing, any carcasses, or parts or products of carcasses, of any poultry;
 
-&emsp;(3) Any person that engages in business, in or for commerce, as a renderer, or engages in the business of buying, selling, or transporting, in commerce, or importing, any dead, dying, disabled, or diseased poultry or parts of the carcasses of any poultry that died otherwise than by slaughter.
+&emsp;(3) Any person that engages in business, in or for commerce, as a renderer, or engages inthe business of buying, selling, or transporting, in commerce, or importing, any dead, dying, disabled, or diseased poultry or parts of the carcasses of any poultry that died otherwise than by slaughter.
 
 #### (c) Registration of business, name of person, and trade names
 

@@ -24,7 +24,7 @@ Pub. L. 112–239, div. A, title V, §519(a)(2), Jan. 2, 2013, 126 Stat. 1721, a
 
 <b>1996</b>—Pub. L. 104–106, div. A, title V, §569(d)(2), Feb. 10, 1996, 110 Stat. 352, added item 655.
 
-<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1671(b)(6), Oct. 5, 1994, 108 Stat. 3013, struck out item 652 "Ready Reserves: requirement of notification of change of status".
+<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1671(b)(6), Oct. 5, 1994, 108 Stat. 3013, struck out item 652 "ReadyReserves: requirement of notification of change of status".
 
 <b>1993</b>—Pub. L. 103–160, div. A, title V, §571(a)(2), Nov. 30, 1993, 107 Stat. 1673, added item 654.
 
@@ -40,7 +40,7 @@ Pub. L. 110–181, div. A, title V, §544, Jan. 28, 2008, 122 Stat. 116, provide
 
 #### Military Service by Transgender Individuals
 
-Memorandum of President of the United States, Aug. 25, 2017, 82 F.R. 41319, which related to transgender military personnel, was revoked by Memorandum ofPresident of the United States, §1, Mar. 23, 2018, 83 F.R. 13367, set out below.
+Memorandum of President of the United States, Aug. 25, 2017, 82 F.R. 41319, which related to transgender military personnel, was revoked by Memorandum of President of the United States, §1, Mar. 23, 2018, 83 F.R. 13367, set out below.
 
 Memorandum of President of the United States, Mar. 23, 2018, 83 F.R. 13367, provided:
 

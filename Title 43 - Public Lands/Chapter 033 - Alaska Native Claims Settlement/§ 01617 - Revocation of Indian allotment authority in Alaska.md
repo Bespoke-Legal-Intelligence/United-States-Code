@@ -48,7 +48,7 @@ Any allotments approved pursuant to this section during the four years following
 
 #### (e) Native allotment revisions on land selected by or conveyed to a Native Corporation
 
-(1) An allotment applicant who had an application pending before the Department of the Interior on December 18, 1971, and whose application is still open on the records of the Department of the Interior as of December 10, 2004, may revise the land description in the application to describe land other than the land that the applicant originally intended to claim if—
+(1) An allotment applicant who had an application pending before the Department of the Interior on December 18, 1971, and whose applicationis still open on the records of the Department of the Interior as of December 10, 2004, may revise the land description in the application to describe land other than the land that the applicant originally intended to claim if—
 
 &emsp;(A) the application—
 
@@ -114,7 +114,7 @@ Pub. L. 108–452, title III, §302, Dec. 10, 2004, 118 Stat. 3588, provided tha
 
 "(a)
 
-In General.—In lieu of the process for the correction of conveyance documents available under subsection (d) of section 18 of the Alaska Native Claims Settlement Act (as added by section 301) \[43 U.S.C. 1617(d)\], any Native Corporation may elect to reconvey all of the land encompassed by an allotment claim or a portion of the allotment claim agreeable to the applicant in satisfaction of the entire claim by tendering a valid and appropriate deed to the United States.
+In General.—In lieu of the process for the correction of conveyance documents available under subsection (d) of section 18 of the Alaska Native Claims Settlement Act (as added by section 301) \[43 U.S.C. 1617(d)\], any Native Corporation may elect to reconvey all of the land encompassed by an allotment claim ora portion of the allotment claim agreeable to the applicant in satisfaction of the entire claim by tendering a valid and appropriate deed to the United States.
 
 "(b)
 

@@ -6,7 +6,7 @@
 
 (2) Except as otherwise provided in subsections (c) and (d) in the case of a plan in existence on January 1, 1974, this part shall apply in the case of plan years beginning after December 31, 1975.
 
-(c)(1) In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary finds to be collective bargaining agreements between employee organizations and one or more employers, no plan shall be treated as not meeting the requirements of sections 1054 and 1055 of this title by reason of a supplementary or special plan provision (within the meaning of paragraph (2)) for any plan year before the year which begins after the earlier of—
+(c)(1) In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary finds to be collective bargaining agreements between employee organizations and one or more employers, no plan shall be treated as not meeting the requirements of sections 1054 and 1055 of this title by reason of a supplementary or special plan provision (withinthe meaning of paragraph (2)) for any plan year before the year which begins after the earlier of—
 
 &emsp;(A) the date on which the last of such agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after September 2, 1974), or
 
@@ -30,7 +30,7 @@
 
 &emsp;(B) the date on which his participation would commence under the plan as in effect on January 1, 1974.
 
-(2) No pension plan to which section 1053 of this title applies may make effective any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date onwhich section 1053 of this title first becomes effective with respect to such plan) if such amendment provides that the nonforfeitable benefit derived from employer contributions to which any employee would be entitled is less than the lesser of the nonforfeitable benefit derived from employer contributions to which he would be entitled under—
+(2) No pension plan to which section 1053 of this title applies may make effective any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which section 1053 of this title first becomes effective with respect to such plan) if such amendment provides that the nonforfeitable benefit derived from employer contributions to which any employee would be entitled is less than the lesser of the nonforfeitable benefit derived from employer contributions to which he would be entitled under—
 
 &emsp;(A) the break in service rules of section 1052(b)(3) of this title, or
 

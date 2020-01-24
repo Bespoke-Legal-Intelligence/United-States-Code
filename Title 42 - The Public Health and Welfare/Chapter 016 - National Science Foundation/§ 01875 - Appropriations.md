@@ -2,7 +2,7 @@
 
 To enable the Foundation to carry out its powers and duties, only such sums may be appropriated as the Congress may authorize by law.
 
-(May 10, 1950, ch. 171, §16, 64 Stat. 157; Aug. 8, 1953, ch. 377, 67 Stat. 488; renumbered §17, Pub. L. 85–510, §2, July 11, 1958, 72 Stat. 353; renumbered §16 and amended Pub. L. 90–407, §§11(2), (14), July 18, 1968, 82 Stat. 365, 366; Pub. L. 96–516, §21(c), Dec. 12, 1980, 94 Stat. 3010.)
+(May 10, 1950, ch. 171, §16, 64 Stat. 157; Aug. 8, 1953, ch. 377, 67 Stat. 488; renumbered §17, Pub.L. 85–510, §2, July 11, 1958, 72 Stat. 353; renumbered §16 and amended Pub. L. 90–407, §§11(2), (14), July 18, 1968, 82 Stat. 365, 366; Pub. L. 96–516, §21(c), Dec. 12, 1980, 94 Stat. 3010.)
 
 #### Amendments
 

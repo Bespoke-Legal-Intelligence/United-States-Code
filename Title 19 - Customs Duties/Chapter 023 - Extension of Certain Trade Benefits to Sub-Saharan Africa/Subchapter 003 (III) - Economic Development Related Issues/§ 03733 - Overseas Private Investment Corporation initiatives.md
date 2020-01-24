@@ -2,7 +2,7 @@
 
 #### (a) Initiation of funds
 
-It is the sense of the Congress that the Overseas Private Investment Corporation should exercise the authorities it has to initiate an equity fund or equity funds in support of projects in the countries in sub-Saharan Africa, in addition to the existing equity fund for sub-Saharan Africa created by the Corporation.
+It is the sense of the Congress that the Overseas Private Investment Corporation <sup>1</sup> should exercise the authorities it has to initiate an equity fund or equity funds in support of projects in the countries in sub-Saharan Africa, in addition to the existing equity fund for sub-Saharan Africa created by the Corporation.
 
 #### (b) Structure and types of funds
 
@@ -28,15 +28,23 @@ It is the sense of the Congress that the Overseas Private Investment Corporation
 
 #### (2) Reports to Congress
 
-&emsp;Within 6 months after May 18, 2000, and annually for each of the 4 years thereafter, the Board of Directors of the Overseas Private Investment Corporation shall submit to Congress a report on the steps that the Board has taken to implement section 2193(e) of title 22 and any recommendations of the investment advisory council established pursuant to such section.
+&emsp;Within 6 months after May 18, 2000, and annually for each of the 4 years thereafter, the Board of Directors of the Overseas Private Investment Corporation <sup>1</sup> shall submit to Congress a report on the steps that the Board has taken to implement section 2193(e) <sup>2</sup> of title 22 and any recommendations of the investment advisory council established pursuant to such section.
 
 (Pub. L. 106–200, title I, §123, May 18, 2000, 114 Stat. 269.)
 
+#### References in Text
+
+Section 2193(e) of title 22, referred to in subsec. (c)(2), was repealed by Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513.
+
 #### Codification
 
-Section is comprised of section 123 of Pub. L. 106–200. Subsec. (c)(1) of section 123 of Pub. L. 106–200 amended section 2193 of Title 22, Foreign Relations and Intercourse.
+Section is comprised of section 123 of Pub. L. 106–200. Subsec. (c)(1) of section 123 of Pub. L. 106–200 amended former section 2193 of Title 22, Foreign Relations and Intercourse.
 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of Title 22, Foreign Relations and Intercourse.
+
+<i><sup>1</sup></i><i> See Transfer of Functions note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

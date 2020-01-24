@@ -1,6 +1,6 @@
 ### §5203. Excess disaster assistance payments as budgetary emergency requirements
 
-Beginning in fiscal year 1993, and in each year thereafter, notwithstanding any other provision of law, all amounts appropriated for disaster assistance payments under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) that are in excess of either the historical annual average obligation of $320,000,000, or the amount submitted in the President's initial budget request, whichever is lower, shall be considered as "emergency requirements" pursuant to section 901(b)(2)(D) <sup>1</sup> of title 2, and such amounts shall on and after December 12, 1991, be so designated.
+Beginning in fiscal year 1993, and in each year thereafter, notwithstanding any other provisionof law, all amounts appropriated for disaster assistance payments under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) that are in excess of either the historical annual average obligation of $320,000,000, or the amount submitted in the President's initial budget request, whichever is lower, shall be considered as "emergency requirements" pursuant to section 901(b)(2)(D) <sup>1</sup> of title 2, and such amounts shall on and after December 12, 1991, be so designated.
 
 (Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1711.)
 
@@ -12,7 +12,7 @@ Section 901 of title 2, referred to in text, was amended by Pub. L. 105–33, ti
 
 #### Codification
 
-Section was enacted as part of the Dire Emergency Supplemental Appropriations and Transfers for ReliefFrom the Effects of Natural Disasters, for Other Urgent Needs, and for Incremental Cost of "Operation Desert Shield/Desert Storm" Act of 1992, and not as a part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+Section was enacted as part of the Dire Emergency Supplemental Appropriations and Transfers for Relief From the Effects of Natural Disasters, for Other Urgent Needs, and for Incremental Cost of "Operation Desert Shield/Desert Storm" Act of 1992, and not as a part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

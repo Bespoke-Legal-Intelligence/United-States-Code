@@ -50,7 +50,7 @@ The requirements of subparts 1 and 2 <sup>1</sup> shall not apply to any indivi
 
 #### (1) Limited, excepted benefits
 
-&emsp;The requirements of subparts 1 and 2 <sup>1</sup> shall not apply to any individual coverage or anygroup health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in section 300gg–91(c)(2) of this title if the benefits—
+&emsp;The requirements of subparts 1 and 2 <sup>1</sup> shall not apply to any individual coverage or any group health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in section 300gg–91(c)(2) of this title if the benefits—
 
 &emsp;&emsp;(A) are provided under a separate policy, certificate, or contract of insurance; or
 
@@ -68,7 +68,7 @@ The requirements of subparts 1 and 2 <sup>1</sup> shall not apply to any indivi
 
 #### (3) Supplemental excepted benefits
 
-&emsp;The requirements of this part shall not apply to any individual coverage or any group health plan (and group health insurance coverage) in relation to its provision of excepted benefits described in section 300gg–91(c)(4) <sup>1</sup> of this title if the benefits are provided under a separate policy, certificate, or contract of insurance.
+&emsp;The requirements of this part shall not apply to any individual coverage or any grouphealth plan (and group health insurance coverage) in relation to its provision of excepted benefits described in section 300gg–91(c)(4) <sup>1</sup> of this title if the benefits are provided under a separate policy, certificate, or contract of insurance.
 
 #### (d) Treatment of partnerships
 
@@ -188,7 +188,7 @@ Pub. L. 110–233, title I, §106, May 21, 2008, 122 Stat. 905, provided that: "
 
 &emsp;"(1) regulations, rulings, and interpretations issued by such Secretaries relating to the same matter over which two or more such Secretaries have responsibility under this title \[enacting sections 300gg–53 and 1320d–9 of this title and section 9834 of Title 26, Internal Revenue Code, amending this section, sections 300gg–1, 300gg–22, 300gg–61, 300gg–91, and 1395ss of this title, sections 9802 and 9832 of Title 26, and sections 1132, 1182, and 1191b of Title 29, Labor, and enacting provisions set out as notes under this section, sections 1320d–9 and 1395ss of this title, section 9802 of Title 26, and section 1132 of Title 29\] (and the amendments made by this title) are administered so as to have the same effect at all times; and
 
-&emsp;"(2) coordination of policies relating to enforcing the same requirements through such Secretaries inorder to have a coordinated enforcement strategy that avoids duplication of enforcement efforts and assigns priorities in enforcement."
+&emsp;"(2) coordination of policies relating to enforcing the same requirements through such Secretaries in order to have a coordinated enforcement strategy that avoids duplication of enforcement efforts and assigns priorities in enforcement."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

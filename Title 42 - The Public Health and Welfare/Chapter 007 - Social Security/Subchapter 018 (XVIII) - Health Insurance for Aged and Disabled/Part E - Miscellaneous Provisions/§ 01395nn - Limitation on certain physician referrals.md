@@ -314,7 +314,7 @@ Each entity providing covered items or services for which payment may be made un
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall issue written advisory opinions concerning whether a referral relating to designated health services (other than clinical laboratory services) is prohibitedunder this section. Each advisory opinion issued by the Secretary shall be binding as to the Secretary and the party or parties requesting the opinion.
+&emsp;&emsp;The Secretary shall issue written advisory opinions concerning whether a referral relating to designated health services (other than clinical laboratory services) is prohibited under this section. Each advisory opinion issued by the Secretary shall be binding as to the Secretary and the party or parties requesting the opinion.
 
 #### (B) Application of certain rules
 
@@ -506,7 +506,7 @@ Special rule for signature requirements.—In the case of any requirement pursua
 
 &emsp;&emsp;&emsp;(II) the nature and extent of all ownership and investment interests in the hospital.
 
-&emsp;&emsp;(ii) The hospital has procedures in place to require that any referring physician owner or investor discloses to the patient being referred, by a time that permits the patient to make a meaningful decision regarding the receipt of care, as determined by the Secretary—
+&emsp;&emsp;(ii) The hospital has procedures in place to require that any referring physician owneror investor discloses to the patient being referred, by a time that permits the patient to make a meaningful decision regarding the receipt of care, as determined by the Secretary—
 
 &emsp;&emsp;&emsp;(I) the ownership or investment interest, as applicable, of such referring physician in the hospital; and
 
@@ -620,7 +620,7 @@ Special rule for signature requirements.—In the case of any requirement pursua
 
 &emsp;&emsp;&emsp;(i) is not the sole hospital in a county;
 
-&emsp;&emsp;&emsp;(ii) with respect to each of the 3 most recent years for which data are available, has an annual percent of total inpatient admissions that represent inpatient admissions under subchapter XIX that is estimated to be greater than such percentwith respect to such admissions for any other hospital located in the county in which the hospital is located; and
+&emsp;&emsp;&emsp;(ii) with respect to each of the 3 most recent years for which data are available, has an annual percent of total inpatient admissions that represent inpatient admissions under subchapter XIX that is estimated to be greater than such percent with respect to such admissions for any other hospital located in the county in which the hospital is located; and
 
 &emsp;&emsp;&emsp;(iii) meets the conditions described in subparagraph (E)(iii).
 
@@ -648,7 +648,7 @@ Special rule for signature requirements.—In the case of any requirement pursua
 
 &emsp;Nothing in this subsection shall be construed as preventing the Secretary from revoking a hospital's provider agreement if not in compliance with regulations implementing section 1395cc of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title I, §101(e)(8)(B), title V, §507(a), Dec. 8, 2003, 117 Stat. 2152, 2295; Pub. L. 110–275, title I, §143(b)(9), July 15, 2008, 122 Stat. 2543; Pub. L. 111–148, title VI, §§6001(a), 6003(a), title X, §10601(a), Mar. 23, 2010, 124 Stat. 684, 697, 1005; Pub. L. 111–152, title I, §1106, Mar. 30, 2010, 124 Stat. 1049; Pub. L. 115–123, div. E, title IV, §50404, Feb. 9, 2018, 132 Stat. 218.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3),\(k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title I, §101(e)(8)(B), title V, §507(a), Dec. 8, 2003, 117 Stat. 2152, 2295; Pub. L. 110–275, title I, §143(b)(9), July 15, 2008, 122 Stat. 2543; Pub. L. 111–148, title VI, §§6001(a), 6003(a), title X, §10601(a), Mar. 23, 2010, 124 Stat. 684, 697, 1005; Pub. L. 111–152, title I, §1106, Mar. 30, 2010, 124 Stat. 1049; Pub. L. 115–123, div. E, title IV, §50404, Feb. 9, 2018, 132 Stat. 218.)
 
 #### References in Text
 
@@ -692,7 +692,7 @@ Subsec. (i)(3)(A)(iii). Pub. L. 111–148, §10601(a)(2)(A), substituted "Februa
 
 Subsec. (i)(3)(A)(iv). Pub. L. 111–148, §10601(a)(2)(B), substituted "January 1, 2012" for "July 1, 2011".
 
-Subsec. (i)(3)(C)(iii). Pub. L. 111–152, §1106(2)(B), inserted "(or, in the case of a hospital that did not havea provider agreement in effect as of such date but does have such an agreement in effect on December 31, 2010, the effective date of such provider agreement)" after "March 23, 2010".
+Subsec. (i)(3)(C)(iii). Pub. L. 111–152, §1106(2)(B), inserted "(or, in the case of a hospital that did not have a provider agreement in effect as of such date but does have such an agreement in effect on December 31, 2010, the effective date of such provider agreement)" after "March 23, 2010".
 
 Subsec. (i)(3)(F) to (I). Pub. L. 111–152, §1106(2)(C), (D), added subpar. (F) and redesignated former subpars. (F) to (H) as (G) to (I), respectively.
 
@@ -782,7 +782,7 @@ Exceptions.—With respect to referrals made for clinical laboratory services on
 
 &emsp;"(B) section 1877(b)(4) of the Social Security Act \[42 U.S.C. 1395nn(b)(4)\] (as in effect on the day before the date of the enactment of this Act) shall apply;
 
-&emsp;"(C) the requirements of section 1877(c)(2) of the Social Security Act \[42 U.S.C. 1395nn(c)(2)\] (as amended by this Act) shall not apply to any securities of a corporation that meets the requirements of section 1877(c)(2) of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
+&emsp;"(C) the requirements of section 1877(c)(2) of the Social Security Act \[42 U.S.C. 1395nn(c)(2)\] (as amended by this Act) shall not apply to any securities of a corporation that meets the requirements of section1877(c)(2) of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
 
 &emsp;"(D) section 1877(e)(3) of the Social Security Act \[42 U.S.C. 1395nn(e)(3)\] (as amended by this Act) shall apply, except that it shall not apply to any arrangement that meets the requirements of subsection (e)(2) or subsection (e)(3) of section 1877 of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
 

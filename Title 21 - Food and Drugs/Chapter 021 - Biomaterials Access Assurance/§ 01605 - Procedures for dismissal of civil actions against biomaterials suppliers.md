@@ -86,7 +86,7 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (2) Discovery made prior to a ruling on a motion for summary judgment
 
-&emsp;If, under applicable rules, the court permits discovery prior to a ruling on a motion for summary judgment governed by section 1604(d) of this title, such discovery shall be limited solely to establishing whether a genuine issue of material fact exists as to the applicable elements set forth in paragraphs (1) and (2) of section 1604(d) of this title.
+&emsp;If, under applicable rules, the court permits discovery prior to a ruling on a motion forsummary judgment governed by section 1604(d) of this title, such discovery shall be limited solely to establishing whether a genuine issue of material fact exists as to the applicable elements set forth in paragraphs (1) and (2) of section 1604(d) of this title.
 
 #### (3) Discovery with respect to a biomaterials supplier
 

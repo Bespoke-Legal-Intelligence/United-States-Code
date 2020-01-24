@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) systems for the accounting for the quantity, location, and cost of property and inventory.
 
-(b)(1) Financial management systems of the Department of the Navy (including accounting systems, internal control systems, and financial reporting systems) shall be established and maintained in conformance with—
+(b)(1) Financial management systems of the Department of the Navy (including accountingsystems, internal control systems, and financial reporting systems) shall be established and maintained in conformance with—
 
 &emsp;(A) the accounting and financial reporting principles, standards, and requirements established by the Comptroller General under section 3511 of title 31; and
 

@@ -8,7 +8,7 @@
 
 #### Repeal and Reenactment of Section
 
-<i>Pub. L. 115–232, div. A, title XI, §1107(a), (d), Aug. 13, 2018, 132 Stat. 2002, 2005, provided that, effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, this section is repealed and a new section 3317 is enacted to read as follows:</i>
+<i>Pub. L. 115–232, div. A, title XI, §1107(a), (d), Aug. 13, 2018, 132 Stat. 2002, 2005, provided that, effective on the date on which the Director of the Office of Personnel Management issues final regulations for implementation, with such regulations due not later than one year after Aug. 13, 2018, this section is repealed and a new section 3317 is enacted to read as follows:</i>
 
 #### §3317. Competitive service; certification using numerical ratings
 

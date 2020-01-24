@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D)(i) the receipt of all funds covered by a plan approved under this chapter; and
 
-&emsp;&emsp;(ii) the distribution of the funds to the respective Indian tribes by not later than 45days after the date of receipt of the funds from the appropriate Federal department or agency; and
+&emsp;&emsp;(ii) the distribution of the funds to the respective Indian tribes by not later than 45 days after the date of receipt of the funds from the appropriate Federal department or agency; and
 
 &emsp;&emsp;(E)(i) the performance of activities described in section 3406 of this title relating to agency waivers; and
 

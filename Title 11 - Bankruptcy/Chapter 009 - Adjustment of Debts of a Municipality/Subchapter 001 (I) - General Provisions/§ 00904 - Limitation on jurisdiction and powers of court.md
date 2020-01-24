@@ -18,5 +18,5 @@ This section adopts the policy of section 82(c) of current law \[section 402(c) 
 
 #### house report no. 95–595
 
-This section adopts the policy of section 82(c) of current law \[section 402(c) of former title 11\]. The <i>Usery</i> case underlines the need for this limitation on the court's powers. The only change in this section from section 82(c) is to conform the section to the style and cross-references of H.R. 8200. This section makes clear that the court may not interfere with the choices a municipality makes as to what services and benefits it will provide to its inhabitants.
+This section adopts the policy of section 82(c) of current law \[section 402(c) of former title 11\]. The <i>Usery</i>case underlines the need for this limitation on the court's powers. The only change in this section from section 82(c) is to conform the section to the style and cross-references of H.R. 8200. This section makes clear that the court may not interfere with the choices a municipality makes as to what services and benefits it will provide to its inhabitants.
 

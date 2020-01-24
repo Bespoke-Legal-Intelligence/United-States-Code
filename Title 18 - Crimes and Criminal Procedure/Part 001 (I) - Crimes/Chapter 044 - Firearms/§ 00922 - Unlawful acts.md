@@ -46,9 +46,9 @@
 
 &emsp;(1) any firearm or ammunition to any individual who the licensee knows or has reasonable cause to believe is less than eighteen years of age, and, if the firearm, or ammunition is other than a shotgun or rifle, or ammunition for a shotgun or rifle, to any individual who the licensee knows or has reasonable cause to believe is less than twenty-one years of age;
 
-&emsp;(2) any firearm to any person in any State where the purchase or possession by such person of such firearm would be in violation of any State law or any published ordinance applicable at the place of sale, delivery or other disposition, unless the licensee knows or hasreasonable cause to believe that the purchase or possession would not be in violation of such State law or such published ordinance;
+&emsp;(2) any firearm to any person in any State where the purchase or possession by such person of such firearm would be in violation of any State law or any published ordinance applicable at the place of sale, delivery or other disposition, unless the licensee knows or has reasonable cause to believe that the purchase or possession would not be in violation of such State law or such published ordinance;
 
-&emsp;(3) any firearm to any person who the licensee knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business is located, except that this paragraph (A) shall not apply to the sale or delivery of any rifle or shotgun to a resident of a State other than a State in which the licensee's place of business is located if the transferee meets in person with the transferor to accomplish the transfer, and the sale, delivery, and receipt fully comply with the legal conditions of sale in both such States (and any licensed manufacturer, importer or dealer shall be presumed, for purposes of this subparagraph, in the absence of evidence to the contrary, to have had actual knowledge of the State laws and published ordinances of both States), and (B) shall not apply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
+&emsp;(3) any firearm to any person who the licensee knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business is located, except that this paragraph (A) shall not apply to the sale or delivery of any rifle or shotgun to a resident of a State other than a State in which the licensee's place of business is located if the transferee meets in person with the transferor to accomplish the transfer, and the sale, delivery, and receipt fully comply with the legal conditions of sale in both such States (and any licensed manufacturer, importer or dealer shall be presumed, for purposes of this subparagraph, in the absence of evidence to the contrary, to have had actualknowledge of the State laws and published ordinances of both States), and (B) shall not apply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
 
 &emsp;(4) to any person any destructive device, machinegun (as defined in section 5845 of the Internal Revenue Code of 1986), short-barreled shotgun, or short-barreled rifle, except as specifically authorized by the Attorney General consistent with public safety and necessity; and
 
@@ -94,7 +94,7 @@
 
 &emsp;(7) who, having been a citizen of the United States, has renounced his citizenship;
 
-&emsp;(8) is subject to a court order that restrains such person from harassing, stalking, or threatening an intimate partner of such person or child of such intimate partner or person, or engaging in other conduct that would place an intimate partner in reasonable fear of bodily injury to the partner or child, exceptthat this paragraph shall only apply to a court order that—
+&emsp;(8) is subject to a court order that restrains such person from harassing, stalking, or threatening an intimate partner of such person or child of such intimate partner or person, or engaging in other conduct that would place an intimate partner in reasonable fear of bodily injury to the partner or child, except that this paragraph shall only apply to a court order that—
 
 &emsp;&emsp;(A) was issued after a hearing of which such person received actual notice, and at which such person had the opportunity to participate; and
 
@@ -154,7 +154,7 @@
 
 (i) It shall be unlawful for any person to transport or ship in interstate or foreign commerce, any stolen firearm or stolen ammunition, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.
 
-(j) It shall be unlawful for any person to receive, possess, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, eitherbefore or after it was stolen, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.
+(j) It shall be unlawful for any person to receive, possess, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, either before or after it was stolen, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.
 
 (k) It shall be unlawful for any person knowingly to transport, ship, or receive, in interstate or foreign commerce, any firearm which has had the importer's or manufacturer's serial number removed, obliterated, or altered or to possess or receive any firearm which has had the importer's or manufacturer's serial number removed, obliterated, or altered and has, at any time, been shipped or transported in interstate or foreign commerce.
 
@@ -210,7 +210,7 @@
 
 &emsp;(B) crime at the local level is exacerbated by the interstate movement of drugs, guns, and criminal gangs;
 
-&emsp;(C) firearms and ammunition move easily in interstate commerce and have been found in increasing numbers in and around schools, asdocumented in numerous hearings in both the Committee on the Judiciary <sup>3</sup> the House of Representatives and the Committee on the Judiciary of the Senate;
+&emsp;(C) firearms and ammunition move easily in interstate commerce and have been found in increasing numbers in and around schools, as documented in numerous hearings in both the Committee on the Judiciary <sup>3</sup> the House of Representatives and the Committee on the Judiciary of the Senate;
 
 &emsp;(D) in fact, even before the sale of a firearm, the gun, its component parts, ammunition, and the raw materials from which they are made have considerably moved in interstate commerce;
 
@@ -276,7 +276,7 @@
 
 &emsp;&emsp;&emsp;(II) verified the identity of the transferee by examining the identification document presented;
 
-&emsp;&emsp;&emsp;(III) within 1 day after the transferee furnishes the statement, provided notice of the contents of the statement to the chieflaw enforcement officer of the place of residence of the transferee; and
+&emsp;&emsp;&emsp;(III) within 1 day after the transferee furnishes the statement, provided notice of the contents of the statement to the chief law enforcement officer of the place of residence of the transferee; and
 
 &emsp;&emsp;&emsp;(IV) within 1 day after the transferee furnishes the statement, transmitted a copy of the statement to the chief law enforcement officer of the place of residence of the transferee; and
 
@@ -404,7 +404,7 @@
 
 &emsp;&emsp;(iii) there is an absence of telecommunications facilities in the geographical area in which the business premises are located.
 
-(4) If the national instant criminal background check system notifies the licensee that the information available to the system does not demonstrate that the receipt of a firearm by such other person would violate subsection (g) or (n) or State law, and the licensee transfers a firearm to such other person, the licensee shall include in the record of the transfer the uniqueidentification number provided by the system with respect to the transfer.
+(4) If the national instant criminal background check system notifies the licensee that the information available to the system does not demonstrate that the receipt of a firearm by such other person would violate subsection (g) or (n) or State law, and the licensee transfers a firearm to such other person, the licensee shall include in the record of the transfer the unique identification number provided by the system with respect to the transfer.
 
 (5) If the licensee knowingly transfers a firearm to such other person and knowingly fails to comply with paragraph (1) of this subsection with respect to the transfer and, at the time such other person most recently proposed the transfer, the national instant criminal background check system was operating and information was available to the system demonstrating that receipt of a firearm by such other person would violate subsection (g) or (n) of this section or State law, the Attorney General may, after notice and opportunity for a hearing, suspend for not more than 6 months or revoke any license issued to the licensee under section 923, and may impose on the licensee a civil fine of not more than $5,000.
 
@@ -488,7 +488,7 @@ Exceptions.—Subsections (d)(5)(B), (g)(5)(B), and (s)(3)(B)(v)(II) do not appl
 
 &emsp;&emsp;(C) an official of a foreign government or a distinguished foreign visitor who has been so designated by the Department of State; or
 
-&emsp;&emsp;(D) a foreign law enforcement officer of a friendly foreign government entering the United States on official law enforcement business.
+&emsp;&emsp;(D) a foreign law enforcement officer of a friendly foreign government entering theUnited States on official law enforcement business.
 
 &emsp;(3)
 
@@ -566,7 +566,7 @@ Defined term.—As used in this paragraph, the term "qualified civil liability a
 
 #### <b>\[APPENDIX A Repealed. Pub. L. 103–322, title XI, §110105(2), Sept. 13, 1994, 108 Stat. 2000\]</b>
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377,title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, §101(b) \[title I, §121\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, §4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, §1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–92, §§5(c)(1), 6(a), Oct. 26, 2005, 119 Stat. 2099, 2101; Pub. L. 114–94, div. A, title XI, §11412(c)(2), Dec. 4, 2015, 129 Stat. 1688.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377, title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, §101(b) \[title I, §121\], Oct.21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, §4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, §1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–92, §§5(c)(1), 6(a), Oct. 26, 2005, 119 Stat. 2099, 2101; Pub. L. 114–94, div. A, title XI, §11412(c)(2), Dec. 4, 2015, 129 Stat. 1688.)
 
 #### Amendment of Section
 
@@ -652,7 +652,7 @@ Subsec. (d)(8). Pub. L. 103–322, §110401(b), added par. (8).
 
 Subsec. (g)(8). Pub. L. 103–322, §110401(c), added par. (8).
 
-Subsec. (j). Pub. L. 103–322, §110511, amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "It shall be unlawful for any person to receive, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, knowing or having reasonable cause to believe that the firearm or ammunition was stolen."
+Subsec. (j). Pub. L. 103–322, §110511, amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "It shall be unlawful for any person to receive,conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, knowing or having reasonable cause to believe that the firearm or ammunition was stolen."
 
 Subsec. (q). Pub. L. 103–322, §320904, added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
@@ -852,7 +852,7 @@ Effective date.—This Act and the amendments made by this Act \[amending this s
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 102(1)–(8) of Pub. L. 99–308 effective 180 days after May 19, 1986, and amendment bysection 102(9) of Pub. L. 99–308 effective May 19, 1986, see section 110(a), (c) of Pub. L. 99–308, set out as a note under section 921 of this title.
+Amendment by section 102(1)–(8) of Pub. L. 99–308 effective 180 days after May 19, 1986, and amendment by section 102(9) of Pub. L. 99–308 effective May 19, 1986, see section 110(a), (c) of Pub. L. 99–308, set out as a note under section 921 of this title.
 
 #### Effective Date of 1968 Amendment
 
@@ -932,7 +932,7 @@ Pub. L. 100–690, title VI, §6213, Nov. 18, 1988, 102 Stat. 4360, which requir
 
 #### Studies To Identify Equipment Capable of Distinguishing Security Exemplar From Other Metal Objects Likely To Be Carried on One's Person
 
-Pub. L. 100–649, §2(e), Nov. 10, 1988, 102 Stat. 3817, provided that: "The Attorney General, the Secretary of the Treasury, and the Secretary of Transportation shall each conduct studies to identify available state-of-the-art equipment capable of detecting the Security Exemplar (as defined in section 922(p)(2)(C) of title 18, United States Code) and distinguishing the Security Exemplar from innocuous metal objects likely to be carried on one's person. Such studies shall be completed within 6 months after the date of the enactment of this Act \[Nov. 10, 1988\] and shall include a schedule providing for the installation of such equipment at the earliest practicable time at security checkpoints maintained or regulated by the agency conducting the study. Such equipment shall be installed in accordance with each schedule. In addition, such studies may include recommendations, where appropriate, concerning the use of secondary security equipment and procedures to enhance detection capability at security checkpoints."
+Pub. L. 100–649, §2(e), Nov. 10, 1988, 102 Stat. 3817, directed the Attorney General, the Secretary of the Treasury, and the Secretary of Transportation to conduct studies to identify available state-of-the-art equipment capable of detecting the Security Exemplar (as defined in subsec. (p)(2)(C) of this section) while distinguishing innocuous metal objects; studies were to be completed within 6 months after Nov. 10, 1988, and include a schedule to install such equipment at the earliest practicable time at security checkpoints maintained or regulated by the agency conducting the study.
 
 #### Improving Availability of Relevant Executive Branch Records to the National Instant Criminal Background Check System
 

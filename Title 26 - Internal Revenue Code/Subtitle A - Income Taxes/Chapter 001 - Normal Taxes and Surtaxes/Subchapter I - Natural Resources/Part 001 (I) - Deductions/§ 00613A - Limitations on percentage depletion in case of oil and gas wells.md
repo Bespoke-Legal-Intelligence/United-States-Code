@@ -144,7 +144,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (B) Production of natural gas in excess of depletable natural gas quantity
 
-&emsp;&emsp;If the taxpayer's average daily production of domestic natural gas exceeds his depletable natural gas quantity, the allowance under paragraph (1)(B) with respect to natural gas produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayer's natural gas produced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case maybe) as the amount of his depletable natural gas quantity in cubic feet bears to the aggregate number of cubic feet representing the average daily production of domestic natural gas of the taxpayer for such year.
+&emsp;&emsp;If the taxpayer's average daily production of domestic natural gas exceeds his depletable natural gas quantity, the allowance under paragraph (1)(B) with respect to natural gas produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayer's natural gas produced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as the amount of his depletable natural gas quantity in cubic feet bears to the aggregate number of cubic feet representing the average daily production of domestic natural gas of the taxpayer for such year.
 
 #### (C) Taxable income from the property
 
@@ -174,7 +174,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 &emsp;&emsp;&emsp;(i) the term "controlled group of corporations" has the meaning given to such term by section 1563(a), except that section 1563(b)(2) shall not apply and except that "more than 50 percent" shall be substituted for "at least 80 percent" each place it appears in section 1563(a),
 
-&emsp;&emsp;&emsp;(ii) a person is a related person to another person if such persons are members of the same controlled group of corporations or if the relationship between such persons would result in a disallowance of losses under section 267 or 707(b), except that for this purpose the family of an individual includes only his spouse and minor children.
+&emsp;&emsp;&emsp;(ii) a person is a related person to another person if such persons are members of the same controlled group of corporations or if the relationship between suchpersons would result in a disallowance of losses under section 267 or 707(b), except that for this purpose the family of an individual includes only his spouse and minor children.
 
 &emsp;&emsp;&emsp;(iii) the family of an individual includes only his spouse and minor children, and
 
@@ -228,7 +228,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 &emsp;&emsp;&emsp;(ii) given authority, pursuant to an agreement or contract with the taxpayer or a related person, to occupy any retail outlet owned, leased, or in any way controlled by the taxpayer or a related person.
 
-> &emsp;Notwithstanding the preceding sentence this paragraph shall not apply in any case where the combined gross receipts from the sale of such oil, natural gas, or any product derived therefrom, for the taxable year of all retail outlets taken into account for purposes of this paragraph do not exceed $5,000,000. For purposes of this paragraph, sales of oil, natural gas, or any product derived from oil or natural gas shall not include sales made of such items outside the United States, if no domestic production of the taxpayer or a related person is exported during the taxable year or the immediately preceding taxable year.
+> &emsp;Notwithstanding the preceding sentence this paragraph shall not apply in any case where the combined gross receipts from the sale of such oil, natural gas, or any product derived therefrom, for the taxable year of all retail outlets taken into account for purposes of this paragraph do not exceed $5,000,000. For purposes of this paragraph, sales of oil, natural gas, or any product derived from oil or natural gas shall not include sales made of such items outside the United States, if no domestic production of the taxpayer or a related person isexported during the taxable year or the immediately preceding taxable year.
 
 #### (3) Related person
 
@@ -328,7 +328,7 @@ Subsec. (c)(7)(C). Pub. L. 101–508, §11522(b)(1), substituted "taxable income
 
 Subsec. (c)(7)(E). Pub. L. 101–508, §11815(a)(1)(C), struck out subpar. (E) which provided special rules relating to production from secondary or tertiary recovery processes.
 
-Subsec. (c)(8)(B), (C). Pub. L. 101–508, §11815(a)(2)(B), which directed amendment of subpars. (B) and (C) bysubstituting "determined under paragraph (3)(B)" for "determined under the table contained in paragraph (3)(B)", was executed by making the substitution for "determined under the table in paragraph (3)(B)" as the probable intent of Congress.
+Subsec. (c)(8)(B), (C). Pub. L. 101–508, §11815(a)(2)(B), which directed amendment of subpars. (B) and (C) by substituting "determined under paragraph (3)(B)" for "determined under the table contained in paragraph (3)(B)", was executed by making the substitution for "determined under the table in paragraph (3)(B)" as the probable intent of Congress.
 
 Subsec. (c)(9). Pub. L. 101–508, §11815(a)(2)(B), which directed amendment of par. (9) by substituting "determined under paragraph (3)(B)" for "determined under the table contained in paragraph (3)(B)", could not be executed because that phrase did not appear after execution of amendment by Pub. L. 101–508, §11521(a). See below.
 
@@ -384,7 +384,7 @@ Subsec. (c)(9)(B). Pub. L. 94–455, §2115(b)(1), (e), added cls. (iii) to (vi)
 
 Subsec. (d)(1). Pub. L. 94–455, §2115(b)(2), substituted in subpar. (A) reference to any depletion on production from an oil or gas property which is subject to the provisions of subsection (c) for reference to depletion with respect to production of oil and gas subject to the provisions of subsection (c), and added subpar. (D).
 
-Subsec. (d)(2). Pub. L. 94–455, §2115(a), inserted "(excluding bulk sales of such items to commercial or industrial users)" before ", or any product derived" and inserted provisions following subpar. (B) relating to the application of this paragraph where combined gross receipts from the sale of oil, natural gas, or any product derived therefrom, for the taxable year of all retail outlets taken into account do not exceed $5,000,000 and relating to the exclusion of sales made outside the United States.
+Subsec. (d)(2). Pub. L. 94–455, §2115(a), inserted "(excluding bulk sales of such items to commercial or industrial users)" before ", or any product derived" andinserted provisions following subpar. (B) relating to the application of this paragraph where combined gross receipts from the sale of oil, natural gas, or any product derived therefrom, for the taxable year of all retail outlets taken into account do not exceed $5,000,000 and relating to the exclusion of sales made outside the United States.
 
 Subsec. (d)(3). Pub. L. 94–455, §2115(d), inserted provision following subpar. (C) relating to the determination of a significant ownership interest of a corporation, partnership, trust, or estate.
 
@@ -416,7 +416,7 @@ Pub. L. 108–311, title III, §314(b), Oct. 4, 2004, 118 Stat. 1181, provided t
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title VI, §607(b), Mar. 9, 2002, 116 Stat. 60, provided that: "The amendment made by subsection\(a) \[amending this section\] shall apply to taxable years beginning after December 31, 2001."
+Pub. L. 107–147, title VI, §607(b), Mar. 9, 2002, 116 Stat. 60, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2001."
 
 #### Effective Date of 1999 Amendment
 
@@ -472,7 +472,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(86) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(86) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Pub. L. 94–455, title XXI, §2115(f), Oct. 4, 1976, 90 Stat. 1910, provided that: "The amendments made by this section \[amending this section and sections 703 and 705 of this title\] shall take effect on January 1, 1975, and shall apply to taxable years ending after December 31, 1974."
 

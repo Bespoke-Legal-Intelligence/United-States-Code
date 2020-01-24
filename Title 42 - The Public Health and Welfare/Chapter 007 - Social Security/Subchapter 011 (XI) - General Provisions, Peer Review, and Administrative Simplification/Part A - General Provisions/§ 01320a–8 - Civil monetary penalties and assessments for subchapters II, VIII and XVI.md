@@ -14,7 +14,7 @@
 
 (2) For purposes of this section, a material fact is one which the Commissioner of Social Security may consider in evaluating whether an applicant is entitled to benefits under subchapter II or subchapter VIII, or eligible for benefits or payments under subchapter XVI.
 
-(3) Any person (including an organization, agency, or other entity) who, having received, while acting in the capacity of a representative payee pursuant to section 405(j), 1007, or1383(a)(2) of this title, a payment under subchapter II, VIII, or XVI for the use and benefit of another individual, converts such payment, or any part thereof, to a use that such person knows or should know is other than for the use and benefit of such other individual shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such conversion. Such person shall also be subject to an assessment, in lieu of damages sustained by the United States resulting from the conversion, of not more than twice the amount of any payments so converted.
+(3) Any person (including an organization, agency, or other entity) who, having received, while acting in the capacity of a representative payee pursuant to section 405(j), 1007, or 1383(a)(2) of this title, a payment under subchapter II, VIII, or XVI for the use and benefit of another individual, converts such payment, or any part thereof, to a use that such person knows or should know is other than for the use and benefit of such other individual shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such conversion. Such person shall also be subject to an assessment, in lieu of damages sustained by the United States resulting from the conversion, of not more than twice the amount of any payments so converted.
 
 #### (b) Initiation of proceedings; hearing; sanctions
 
@@ -180,7 +180,7 @@ Pub. L. 103–296, §108(b)(10)(A)(i), which directed that this section be amend
 
 Subsecs. (e), (f). Pub. L. 103–296, §108(b)(10)(A)(i), which directed amendment of this section by substituting "Commissioner of Social Security" for "Secretary" each place it appears, was executed in subsecs. (e) and (f) by making the substitution wherever appearing except where appearing before "of the Treasury" in subsec. (e)(1)(B) to reflect the probable intent of Congress.
 
-Subsec. (g). Pub. L. 103–296, §108(b)(10)(A)(iii), substituted "Commissioner's" for "Secretary's" and "theCommissioner shall notify the Secretary of the final determination and the reasons therefor, and the Secretary shall then notify the entities described in section 1320a–7a(h) of this title of such final determination." for "the provisions of section 1320a–7a(h) of this title shall apply."
+Subsec. (g). Pub. L. 103–296, §108(b)(10)(A)(iii), substituted "Commissioner's" for "Secretary's" and "the Commissioner shall notify the Secretary of the final determination and the reasons therefor, and the Secretary shall then notify the entities described in section 1320a–7a(h) of this title of such final determination." for "the provisions of section 1320a–7a(h) of this title shall apply."
 
 Subsecs. (h), (i). Pub. L. 103–296, §108(b)(10)(A)(i), substituted "Commissioner of Social Security" for "Secretary" wherever appearing.
 

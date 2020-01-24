@@ -10,33 +10,19 @@ In General.—Submission of certified cost or pricing data shall not be required
 
 &emsp;&emsp;(B) prices set by law or regulation;
 
-&emsp;(2) for the acquisition of a commercial item; or
+&emsp;(2) for the acquisition of a commercial product or a commercial service; or
 
 &emsp;(3) in an exceptional case when the head of the procuring activity, without delegation, determines that the requirements of this chapter may be waived and justifies in writing the reasons for the determination.
 
 (b)
 
-Modifications of Contracts and Subcontracts for Commercial Items.—In the case of a modification of a contract or subcontract for a commercial item that is not covered by the exception to the submission of certified cost or pricing data in paragraph (1) or (2) of subsection (a), submission of certified cost or pricing data shall not be required under section 3502 of this title if—
+Modifications of Contracts and Subcontracts for Commercial Products or Commercial Services.—In the case of a modification of a contract or subcontract for a commercial product or a commercial service that is not covered by the exception to the submission of certified cost or pricing data in paragraph (1) or (2) of subsection (a), submission of certified cost or pricing data shall not be required under section 3502 of this title if—
 
 &emsp;(1) the contract or subcontract being modified is a contract or subcontract for which submission of certified cost or pricing data may not be required by reason of paragraph (1) or (2) of subsection (a); and
 
-&emsp;(2) the modification would not change the contract or subcontract from a contract or subcontract for the acquisition of a commercial item to a contract or subcontract for the acquisition of an item other than a commercial item.
+&emsp;(2) the modification would not change the contract or subcontract from a contract or subcontract for the acquisition of a commercial product or a commercial service to a contract or subcontract for the acquisition of an item other than a commercial product or a commercial service.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3766; Pub. L. 115–232, div. A, title VIII, §836(b)(12), Aug. 13, 2018, 132 Stat. 1863.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(12), (h), Aug. 13, 2018, 132 Stat. 1863, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(2), by striking "a commercial item" and inserting "a commercial product or a commercial service"; and</i>
-
-<i>(2) in subsection (b)—</i>
-
-<i>(A) in the heading, by striking "Commercial Items" and inserting "Commercial Products or Commercial Services"; and</i>
-
-<i>(B) by striking "a commercial item" each place it appears and inserting "a commercial product or a commercial service".</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes
 

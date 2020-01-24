@@ -14,11 +14,11 @@
 
 <b>1973</b>—Pub. L. 93–150 inserted in proviso reference to section 1759a of this title.
 
-<b>1972</b>—Pub. L. 92–433 inserted proviso that beginning with the fiscal year ending June 30, 1974, the Secretary shall make payments directly to the nonprofit private schools for the purpose of section 1753 of this titleunder the same conditions as are prescribed for State educational agencies.
+<b>1972</b>—Pub. L. 92–433 inserted proviso that beginning with the fiscal year ending June 30, 1974, the Secretary shall make payments directly to the nonprofit private schools for the purpose of section 1753 of this title under the same conditions as are prescribed for State educational agencies.
 
 <b>1970</b>—Pub. L. 91–248 provided that data upon which State apportionments are calculated is the program year completed two years immediately prior to the fiscal year for which the appropriation is requested.
 
-<b>1962</b>—Pub. L. 87–823 substituted "an amount which bears the same ratio to such funds as the number of lunches, consisting of a combination of foods and meeting the minimum requirements prescribed by the Secretary pursuant to section 1758 of this title, served in the preceding fiscal year by all nonprofit private schools participating in the program under this chapter within the State, as determined by the Secretary, bears to the participation rate for the State" for "the same proportion of the funds as the number of children between the ages of 5 and 17, inclusive, attending nonprofit private schools within the State, is of the total number of persons of those ages within the State attending school".
+<b>1962</b>—Pub. L. 87–823 substituted "an amount which bears the same ratio to such funds as the number of lunches, consisting of a combination of foods and meeting the minimum requirements prescribed by the Secretary pursuant to section 1758 of this title, served in the preceding fiscal year by all nonprofit private schools participating in the program under this chapter within the State, as determined by the Secretary, bears to the participation rate for the State" for "the same proportion of the funds as the number of children between the ages of 5 and 17, inclusive, attending nonprofit private schools within the State, is of the totalnumber of persons of those ages within the State attending school".
 
 #### Effective Date of 1981 Amendment
 

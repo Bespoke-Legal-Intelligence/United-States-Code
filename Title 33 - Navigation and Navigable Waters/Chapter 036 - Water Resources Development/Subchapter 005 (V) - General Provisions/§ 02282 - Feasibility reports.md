@@ -78,7 +78,7 @@ The Secretary shall undertake such measures as are necessary to ensure that stan
 
 &emsp;&emsp;(A) submit an annual report that lists all detailed project schedules under paragraph (2) and an explanation of any missed deadlines to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives; and
 
-&emsp;&emsp;(B) make publicly available, including on the Internet, a copy of the annual report described in subparagraph (A) not later than 14days after date <sup>2</sup> on which a report is submitted to Congress.
+&emsp;&emsp;(B) make publicly available, including on the Internet, a copy of the annual report described in subparagraph (A) not later than 14 days after date <sup>2</sup> on which a report is submitted to Congress.
 
 #### (5) Failure to act
 

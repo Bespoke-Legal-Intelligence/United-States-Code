@@ -30,7 +30,7 @@ A prior section 541 was renumbered section 2903 of this title.
 
 <b>1976</b>—Pub. L. 94–546 substituted "Federal Aviation Administration" for "Federal Aviation Agency" in cl. (3)(c).
 
-<b>1966</b>—Pub. L. 89–662 expanded authorization for establishment, maintenance, and operation of aids to air navigation and electronic aids to navigation systems required to serve the needs of the armed forces to include needs peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or the Secretary of any department within the Department of Defense, substituted "electronic aids to navigation systems" for "Loran stations", and altered the list of locations where aids to navigation other than electronic aids to navigation could be located by adding the waters above the Continental Shelf and by striking out places where such aids to navigation had been established prior to June 26, 1948.
+<b>1966</b>—Pub. L. 89–662 expanded authorization for establishment, maintenance, and operation of aids to air navigation and electronic aids to navigation systems required to serve the needs of the armed forces to include needs peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or the Secretary of any department within the Department of Defense, substituted "electronic aids to navigation systems" for "Loran stations", and altered thelist of locations where aids to navigation other than electronic aids to navigation could be located by adding the waters above the Continental Shelf and by striking out places where such aids to navigation had been established prior to June 26, 1948.
 
 <b>1958</b>—Pub. L. 85–726 substituted "Administrator of the Federal Aviation Agency" for "Administrator of Civil Aeronautics".
 
@@ -72,7 +72,7 @@ Pub. L. 113–281, title II, §228, Dec. 18, 2014, 128 Stat. 3040, provided that
 
 #### Aids to Navigation Report
 
-Pub. L. 105–383, title II, §208, Nov. 13, 1998, 112 Stat. 3416, provided that: "Not later than 18 months after the date of the enactment of this Act \[Nov. 13, 1998\], the Commandant of the Coast Guard shall submit to Congress a report on the use of the Coast Guard's aids to navigation system. The report shall include an analysis of the respective use of the aids to navigation system by commercial interests, members of the general public for personal recreation, Federal and State government for public safety, defense, and other similar purposes. To the extent practicable within the time allowed, the report shall include information regarding degree of use of the various portions of the system."
+Pub. L. 105–383, title II, §208, Nov. 13, 1998, 112 Stat. 3416, provided that not later than 18 months after Nov. 13, 1998, the Commandant of the Coast Guard was to submit to Congress a report on the use of the Coast Guard's aids to navigation system, including an analysis of the respective use of the aids to navigation system by commercial interests, members of the general public for personal recreation, Federal and State government for public safety, defense, and other similar purposes.
 
 #### Report to Congress; Contractual Authority; Increase in Ratio of Civilian to Military Employees
 

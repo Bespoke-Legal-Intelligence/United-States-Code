@@ -18,7 +18,7 @@ Pub. L. 108–285, §1, Aug. 2, 2004, 118 Stat. 917, provided that: "This Act \[
 
 #### Short Title of 1983 Amendment
 
-Pub. L. 98–181, title I \[title V, §501\], Nov. 30, 1983, 97 Stat. 1240, provided that: "This title \[enacting sections 1490k to 1490o of this title, amending sections 1471, 1472, 1474, 1476, 1479 to 1481, 1483 to 1487, 1490, 1490a, 1490c, 1490e, 1490f, and 1490j of this title, repealing sections 1482, 1490g, and 1490i of this title, and enacting provisions set out as notes under sections 1472 and 1490a of this title\] may be cited as the 'Rural Housing Amendments of 1983'."
+Pub. L. 98–181, title I \[title V, §501\], Nov. 30, 1983, 97 Stat. 1240, provided that: "This title \[enacting sections 1490k to 1490o of this title, amending sections 1471, 1472, 1474, 1476, 1479 to 1481, 1483 to 1487, 1490, 1490a, 1490c, 1490e, 1490f, and 1490j of this title, repealing sections1482, 1490g, and 1490i of this title, and enacting provisions set out as notes under sections 1472 and 1490a of this title\] may be cited as the 'Rural Housing Amendments of 1983'."
 
 #### Short Title
 
@@ -26,7 +26,7 @@ Act July 15, 1949, ch. 338, §1, 63 Stat. 413, provided: "That this Act \[enacti
 
 #### National Commission on Neighborhoods
 
-Pub. L. 95–24, title II, §§201–208, Apr. 30, 1977, 91 Stat. 56–59, as amended by Pub. L. 95–557, title III, §315, Oct.31, 1978, 92 Stat. 2099, known as the "National Neighborhood Policy Act", established the National Commission on Neighborhoods, which was to undertake a comprehensive study and investigation of the factors contributing to the decline of city neighborhoods and of the factors necessary to neighborhood survival and revitalization, and to make recommendations for modifications in Federal, State, and local laws, policies and programs necessary to facilitate neighborhood preservation and revitalization. The Commission was to submit to the Congress and the President a comprehensive report on its study and investigation not later than fifteen months after the date on which funds first became available to carry out the Act, and was to cease to exist thirty days after the submission of that report.
+Pub. L. 95–24, title II, §§201–208, Apr. 30, 1977, 91 Stat. 56–59, as amended by Pub. L. 95–557, title III, §315, Oct. 31, 1978, 92 Stat. 2099, known as the "National Neighborhood Policy Act", established the National Commission on Neighborhoods, which was to undertake a comprehensive study and investigation of the factors contributing to the decline of city neighborhoods and of the factors necessary to neighborhood survival and revitalization, and to make recommendations for modifications in Federal, State, and local laws, policies and programs necessary to facilitate neighborhood preservation and revitalization. The Commission was to submit to the Congress and the President a comprehensive report on its study and investigation not later than fifteen months after the date on which funds first became available to carry out the Act, and was to cease to exist thirty days after the submission of that report.
 
 #### Limitation on Withholding or Conditioning of Assistance
 

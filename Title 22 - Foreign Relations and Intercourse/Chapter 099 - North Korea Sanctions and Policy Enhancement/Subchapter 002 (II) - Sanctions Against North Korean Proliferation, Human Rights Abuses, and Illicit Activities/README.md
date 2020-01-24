@@ -7,6 +7,8 @@
 
 - [&sect; 09221 - Determinations with respect to North Korea as a jurisdiction of primary money laundering concern](%C2%A7%2009221%20-%20Determinations%20with%20respect%20to%20North%20Korea%20as%20a%20jurisdiction%20of%20primary%20money%20laundering%20concern.md)
 - [&sect; 09221a - Prohibition on indirect correspondent accounts](%C2%A7%2009221a%20-%20Prohibition%20on%20indirect%20correspondent%20accounts.md)
+- [&sect; 09221b - Sanctions with respect to foreign financial institutions that provide financial services to certain sanctioned persons](%C2%A7%2009221b%20-%20Sanctions%20with%20respect%20to%20foreign%20financial%20institutions%20that%20provide%20financial%20services%20to%20certain%20sanctioned%20persons.md)
+- [&sect; 09221c - Prohibition on transactions with certain sanctioned persons by persons owned or controlled by United States financial institutions](%C2%A7%2009221c%20-%20Prohibition%20on%20transactions%20with%20certain%20sanctioned%20persons%20by%20persons%20owned%20or%20controlled%20by%20United%20States%20financial%20institutions.md)
 - [&sect; 09222 - Ensuring the consistent enforcement of United Nations Security Council resolutions and financial restrictions on North Korea](%C2%A7%2009222%20-%20Ensuring%20the%20consistent%20enforcement%20of%20United%20Nations%20Security%20Council%20resolutions%20and%20financial%20restrictions%20on%20North%20Korea.md)
 - [&sect; 09223 - Proliferation prevention sanctions](%C2%A7%2009223%20-%20Proliferation%20prevention%20sanctions.md)
 - [&sect; 09224 - Procurement sanctions](%C2%A7%2009224%20-%20Procurement%20sanctions.md)

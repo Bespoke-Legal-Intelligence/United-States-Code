@@ -8,7 +8,7 @@ In General.—Effective as of August 1, 2014, an individual eligible for assista
 
 &emsp;(2) In the case of a program designed to prepare individuals for licensure or certification in any State, if the program meets the instructional curriculum licensure or certification requirements of such State.
 
-&emsp;(3) In the case of a program designed to prepare individuals for employment pursuant tostandards developed by a State board or agency in an occupation that requires approval or licensure for such employment, if the program is approved or licensed by such State board or agency.
+&emsp;(3) In the case of a program designed to prepare individuals for employment pursuant to standards developed by a State board or agency in an occupation that requires approval or licensure for such employment, if the program is approved or licensed by such State board or agency.
 
 (b)
 

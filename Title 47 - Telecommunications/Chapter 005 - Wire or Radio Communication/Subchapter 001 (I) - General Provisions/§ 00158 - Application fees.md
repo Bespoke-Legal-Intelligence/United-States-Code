@@ -24,11 +24,11 @@ The Commission shall assess and collect application fees at such rates as the Co
 
 #### (3) Current amount defined
 
-&emsp;In paragraph (2), the term "current amount" means, with respect to a fee, the amount of the fee on the date when the fee was established, the date when the fee was last adjusted under paragraph (1), or the date when the fee was last amended under subsection (c), whichever is latest.
+&emsp;In paragraph (2), the term "current amount" means, with respect to a fee, the amount of the fee on the date when the fee was established, the date when the fee was last adjusted under paragraph (1), or the date when the feewas last amended under subsection (c), whichever is latest.
 
 #### (c) Amendments to schedule
 
-In addition to the adjustments required by subsection (b), the Commission shall by ruleamend the schedule of application fees established under this section if the Commission determines that the schedule requires amendment—
+In addition to the adjustments required by subsection (b), the Commission shall by rule amend the schedule of application fees established under this section if the Commission determines that the schedule requires amendment—
 
 &emsp;(1) so that such fees reflect increases or decreases in the costs of processing applications at the Commission; or
 

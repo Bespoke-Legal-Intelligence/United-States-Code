@@ -58,7 +58,7 @@ Provisions similar to those in this section were contained in section 2523 of th
 
 <b>1994</b>—Subsec. (c)(3). Pub. L. 103–337 added par. (3).
 
-<b>1993</b>—Subsec. (c). Pub. L. 103–160, §1315(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Secretary of Defense shall ensure that, to the maximum extent he determines to be practicable, the amount of the funds provided by the Federal Government under a partnership does not exceed the total amount provided by non-Federal Government participants in that partnership."
+<b>1993</b>—Subsec. (c). Pub. L. 103–160, §1315(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Secretary of Defense shall ensurethat, to the maximum extent he determines to be practicable, the amount of the funds provided by the Federal Government under a partnership does not exceed the total amount provided by non-Federal Government participants in that partnership."
 
 Subsec. (e). Pub. L. 103–160, §1317(c), struck out ", except that procedures other than competitive procedures may be used in any case in which an exception set out in section 2304(c) of this title applies" after "partnerships".
 

@@ -8,7 +8,7 @@
 
 #### (2) Greater protection under State law
 
-&emsp;For purposes of this subsection, a statute, regulation, order, or interpretation in effect in any State is not inconsistent with the provisions of this title <sup>1</sup> if the protection that such statute, regulation, order, or interpretation affords to consumers is greater than the protection provided under this title.<sup>1</sup> A determination regarding whether a statute, regulation, order, or interpretation in effect in any State is inconsistent with the provisions of this title <sup>1</sup> may be made by the Bureau on itsown motion or in response to a nonfrivolous petition initiated by any interested person.
+&emsp;For purposes of this subsection, a statute, regulation, order, or interpretation in effect in any State is not inconsistent with the provisions of this title <sup>1</sup> if the protection that such statute, regulation, order, or interpretation affords to consumers is greater than the protection provided under this title.<sup>1</sup> A determination regarding whether a statute, regulation, order, or interpretation in effect in any State is inconsistent with the provisions of this title <sup>1</sup> may be made by the Bureau on its own motion or in response to a nonfrivolous petition initiated by any interested person.
 
 #### (b) Relation to other provisions of enumerated consumer laws that relate to State law
 

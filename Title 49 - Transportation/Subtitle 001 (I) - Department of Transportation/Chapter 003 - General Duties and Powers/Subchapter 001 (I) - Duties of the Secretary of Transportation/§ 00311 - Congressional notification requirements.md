@@ -10,7 +10,7 @@ Emergency Program.—With respect to an allocation of funds under section 125 of
 
 &emsp;(1) at least 3 full business days before the issuance of the allocation; or
 
-&emsp;(2) concurrently with the issuance of the allocation, if the allocation is made using thequick release process of the Department (or any successor process).
+&emsp;(2) concurrently with the issuance of the allocation, if the allocation is made using the quick release process of the Department (or any successor process).
 
 (c)
 

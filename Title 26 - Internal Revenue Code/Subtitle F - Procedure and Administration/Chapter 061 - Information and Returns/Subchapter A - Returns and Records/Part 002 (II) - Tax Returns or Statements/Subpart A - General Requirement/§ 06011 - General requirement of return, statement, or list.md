@@ -36,7 +36,7 @@ The Secretary may by regulations require any individual who receives allowances 
 
 &emsp;In prescribing regulations under paragraph (1), the Secretary—
 
-&emsp;&emsp;(A) shall not require any person to file returns on magnetic media unless such person is required to file at least 250 returns during the calendar year, and
+&emsp;&emsp;(A) shall not require any person to file returns on magnetic media unless such person is required to file at least the applicable number of returns during the calendar year, and
 
 &emsp;&emsp;(B) shall take into account (among other relevant factors) the ability of the taxpayer to comply at reasonable cost with the requirements of such regulations.
 
@@ -44,7 +44,7 @@ The Secretary may by regulations require any individual who receives allowances 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall require that any individual income tax return prepared by a taxreturn preparer be filed on magnetic media if—
+&emsp;&emsp;The Secretary shall require that any individual income tax return prepared by a tax return preparer be filed on magnetic media if—
 
 &emsp;&emsp;&emsp;(i) such return is filed by such tax return preparer, and
 
@@ -58,29 +58,45 @@ The Secretary may by regulations require any individual who receives allowances 
 
 &emsp;&emsp;For purposes of this paragraph, the term "individual income tax return" means any return of the tax imposed by subtitle A on individuals, estates, or trusts.
 
+#### (D) Exception for certain preparers located in areas without internet access
+
+&emsp;&emsp;The Secretary may waive the requirement of subparagraph (A) if the Secretary determines, on the basis of an application by the tax return preparer, that the preparer cannot meet such requirement by reason of being located in a geographic area which does not have access to internet service (other than dial-up or satellite service).
+
 #### (4) Special rule for returns filed by financial institutions with respect to withholding on foreign transfers
 
 &emsp;The numerical limitation under paragraph (2)(A) shall not apply to any return filed by a financial institution (as defined in section 1471(d)(5)) with respect to tax for which such institution is made liable under section 1461 or 1474(a).
 
-#### (5) Special rules for partnerships
+#### (5) Applicable number
 
-#### (A) Partnerships permitted to be required to file on magnetic media
+#### (A) In general
 
-&emsp;&emsp;In the case of a partnership, paragraph (2)(A) shall be applied by substituting for "250" the following amount:
+&emsp;&emsp;For purposes of paragraph (2)(A), the applicable number shall be—
 
-&emsp;&emsp;&emsp;(i) In the case of returns and statements relating to calendar year 2018, "200".
+&emsp;&emsp;&emsp;(i) except as provided in subparagraph (B), in the case of calendar years before 2021, 250,
 
-&emsp;&emsp;&emsp;(ii) In the case of returns and statements relating to calendar year 2019, "150".
+&emsp;&emsp;&emsp;(ii) in the case of calendar year 2021, 100, and
 
-&emsp;&emsp;&emsp;(iii) In the case of returns and statements relating to calendar year 2020, "100".
+&emsp;&emsp;&emsp;(iii) in the case of calendar years after 2021, 10.
 
-&emsp;&emsp;&emsp;(iv) In the case of returns and statements relating to calendar year 2021, "50".
+#### (B) Special rule for partnerships for 2018, 2019, 2020, and 2021
 
-&emsp;&emsp;&emsp;(v) In the case of returns and statements relating to calendar years after 2021, "20".
+&emsp;&emsp;In the case of a partnership, for any calendar year before 2022, the applicable number shall be—
 
-#### (B) Partnerships required to file on magnetic media
+&emsp;&emsp;&emsp;(i) in the case of calendar year 2018, 200,
 
-&emsp;&emsp;Notwithstanding subparagraph (A) and paragraph (2)(A), the Secretary shall require partnerships having more than 100 partners to file returns on magnetic media.
+&emsp;&emsp;&emsp;(ii) in the case of calendar year 2019, 150,
+
+&emsp;&emsp;&emsp;(iii) in the case of calendar year 2020, 100, and
+
+&emsp;&emsp;&emsp;(iv) in the case of calendar year 2021, 50.
+
+#### (6) <sup>1</sup> Partnerships required to file on magnetic media
+
+&emsp;Notwithstanding paragraph (2)(A), the Secretary shall require partnerships having more than 100 partners to file returns on magnetic media.
+
+#### (6) <sup>1</sup> Application of numerical limitation to returns relating to deferred compensation plans
+
+&emsp;For purposes of applying the numerical limitation under paragraph (2)(A) to any return required under section 6058, information regarding each plan for which information is provided on such return shall be treated as a separate return.
 
 #### (f) Promotion of electronic filing
 
@@ -96,17 +112,33 @@ The Secretary may by regulations require any individual who receives allowances 
 
 Any taxable party to a prohibited tax shelter transaction (as defined in section 4965(e)(1)) shall by statement disclose to any tax-exempt entity (as defined in section 4965(c)) which is a party to such transaction that such transaction is such a prohibited tax shelter transaction.
 
-#### (h) Income, estate, and gift taxes
+#### (h) Mandatory e-filing of unrelated business income tax return
+
+Any organization required to file an annual return under this section which relates to any tax imposed by section 511 shall file such return in electronic form.
+
+#### (i) Income, estate, and gift taxes
 
 &emsp;&emsp;<b>For requirement that returns of income, estate, and gift taxes be made whether or not there is tax liability, see subparts B and C.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–859, title I, §161, Sept. 2, 1958, 72 Stat. 1305; Pub. L. 88–563, §3(a), Sept. 2, 1964, 78 Stat. 843; Pub. L. 89–44, title I, §101(b)(6), June 21, 1965, 79 Stat. 136; Pub. L. 90–59, §4(b), July 31, 1967, 81 Stat. 154; Pub. L. 91–128, §4 (f), (g), Nov. 26, 1969, 83 Stat. 267; Pub. L. 92–178, title V, §504(a), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §§1904(b)(10)(A)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1817, 1834; Pub. L. 95–615, §207(c), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 97–248, title III, §319, Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–67, title I, §109(a), Aug. 5, 1983, 97 Stat. 383; Pub. L. 98–369, div. A, title VIII, §801(d)(12), July 18, 1984, 98 Stat. 997; Pub. L. 99–514, title XVIII, §1899A(52), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–647, title I, §1015(q)(1), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 101–239, title VII, §7713(a), Dec. 19, 1989, 103 Stat. 2394; Pub. L. 105–34, title XII, §1224, Aug. 5, 1997, 111 Stat. 1019; Pub. L. 105–206, title II, §2001(c), July 22, 1998, 112 Stat. 723; Pub. L. 109–222, title V, §516(b)(2), May 17, 2006, 120 Stat. 371; Pub. L. 110–172, §11(g)(19), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 111–92, §17(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §522(a), Mar. 18, 2010, 124 Stat. 112; Pub. L. 113–295, div. A, title II, §220(t), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–141, div. U, title III, §301(a), Mar. 23, 2018, 132 Stat. 1183.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–859, title I, §161, Sept. 2, 1958, 72 Stat. 1305; Pub. L. 88–563, §3(a), Sept. 2, 1964, 78 Stat. 843; Pub. L. 89–44, title I, §101(b)(6), June 21, 1965, 79 Stat. 136; Pub. L. 90–59, §4(b), July 31, 1967, 81 Stat. 154; Pub. L. 91–128, §4 (f), (g), Nov. 26, 1969, 83 Stat. 267; Pub. L. 92–178, title V, §504(a), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §§1904(b)(10)(A)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1817, 1834; Pub. L. 95–615, §207(c), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 97–248, title III, §319, Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–67, title I, §109(a), Aug. 5, 1983, 97 Stat. 383; Pub. L. 98–369, div. A, title VIII, §801(d)(12), July 18, 1984, 98 Stat. 997; Pub. L. 99–514, title XVIII, §1899A(52), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–647, title I, §1015(q)(1), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 101–239, title VII, §7713(a), Dec. 19, 1989, 103 Stat. 2394; Pub. L. 105–34, title XII, §1224, Aug. 5, 1997, 111 Stat. 1019; Pub. L. 105–206, title II, §2001(c), July 22, 1998, 112 Stat. 723; Pub. L. 109–222, title V, §516(b)(2), May 17, 2006, 120 Stat. 371; Pub. L. 110–172, §11(g)(19), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 111–92, §17(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §522(a), Mar. 18, 2010, 124 Stat. 112; Pub. L. 113–295, div. A, title II, §220(t), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–141, div. U, title III, §301(a), Mar. 23, 2018, 132 Stat. 1183; Pub. L. 116–25, title II, §2301(a)–(c), title III, §3101(b)(2), July 1, 2019, 133 Stat. 1012, 1013, 1015; Pub. L. 116–94, div. O, title II, §202(d)(1), Dec. 20, 2019, 133 Stat. 3163.)
 
 #### References in Text
 
 The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (c)(1), is Pub. L. 106–519, Nov. 15, 2000, 114 Stat. 2423. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (e)(2)(A). Pub. L. 116–25, §2301(a), substituted "the applicable number of" for "250".
+
+Subsec. (e)(3)(D). Pub. L. 116–25, §2301(c), added subpar. (D).
+
+Subsec. (e)(5). Pub. L. 116–25, §2301(b), added par. (5) and struck out former par. (5) which related to special rules for partnerships regarding filing on magnetic media.
+
+Subsec. (e)(6). Pub. L. 116–94 added par. (6) related to application of numerical limitation to returns relating to deferred compensation plans.
+
+Pub. L. 116–25, §2301(b), added par. (6) related to partnerships required to file on magnetic media.
+
+Subsecs. (h), (i). Pub. L. 116–25, §3101(b)(2), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 <b>2018</b>—Subsec. (e)(2). Pub. L. 115–141, §301(a)(2), struck out concluding provisions which read as follows: "Notwithstanding the preceding sentence, the Secretary shall require partnerships having more than 100 partners to file returns on magnetic media."
 
@@ -166,6 +198,14 @@ Subsec. (d)(3). Pub. L. 91–128, §4(g), eased recordkeeping requirements by pr
 
 <b>1958</b>—Subsecs. (c), (d). Pub. L. 85–859 added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–94, div. O, title II, §202(d)(2), Dec. 20, 2019, 133 Stat. 3163, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to returns required to be filed with respect to plan years beginning after December 31, 2019."
+
+Pub. L. 116–25, title II, §2301(e), July 1, 2019, 133 Stat. 1013, provided that: "The amendments made by this section \[amending this section and section 6724 of this title\] shall take effect on the date of the enactment of this Act \[July 1, 2019\]."
+
+Amendment by section 3101(b)(2) of Pub. L. 116–25 applicable to taxable years beginning after July 1, 2019, with certain transitional relief permitted, see section 3101(d) of Pub. L. 116–25, set out as a note under section 527 of this title.
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–141, div. U, title III, §301(b), Mar. 23, 2018, 132 Stat. 1183, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in section 1101 of the Bipartisan Budget Act of 2015 \[Pub. L. 114–74\]."
@@ -208,7 +248,7 @@ Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1904(b)(10)(A)(ii) of Pub. L. 94–455 effective Feb. 1, 1977, see section 1904(d) of Pub.L. 94–455, set out as a note under section 4041 of this title.
+Amendment by section 1904(b)(10)(A)(ii) of Pub. L. 94–455 effective Feb. 1, 1977, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1971 Amendment
 
@@ -233,6 +273,32 @@ Amendment by Pub. L. 85–859 effective on first day of first calendar quarter w
 #### Short Title of 1967 Amendment
 
 Pub. L. 90–59, §1(a), July 31, 1967, 81 Stat. 145, provided that: "This Act \[amending this section and sections 4912, 4914 to 4920, 4931, 6076, 6681, and 7241 of this title\] may be cited as the 'Interest Equalization Tax Extension Act of 1967'."
+
+#### Internet Platform for Form 1099 Filings
+
+Pub. L. 116–25, title II, §2102, July 1, 2019, 133 Stat. 1010, provided that:
+
+"(a)
+
+In General.—Not later than January 1, 2023, the Secretary of the Treasury or the Secretary's delegate (hereafter referred to in this section as the 'Secretary') shall make available an internet website or other electronic media, with a user interface and functionality similar to the Business Services Online Suite of Services provided by the Social Security Administration, that provides access to resources and guidance provided by the Internal Revenue Service and allows persons to—
+
+&emsp;"(1) prepare and file Forms 1099;
+
+&emsp;"(2) prepare Forms 1099 for distribution to recipients other than the Internal Revenue Service; and
+
+&emsp;"(3) maintain a record of completed, filed, and distributed Forms 1099.
+
+"(b)
+
+Electronic Services Treated as Supplemental; Application of Security Standards.—The Secretary shall ensure that the services described in subsection (a)—
+
+&emsp;"(1) are a supplement to, and not a replacement for, other services provided by the Internal Revenue Service to taxpayers; and
+
+&emsp;"(2) comply with applicable security standards and guidelines."
+
+#### Authentication of Users of Electronic Services Accounts
+
+Pub. L. 116–25, title II, §2304, July 1, 2019, 133 Stat. 1014, provided that: "Beginning 180 days after the date of the enactment of this Act \[July 1, 2019\], the Secretary of the Treasury (or the Secretary's delegate) shall verify the identity of any individual opening an e-Services account with the Internal Revenue Service before such individual is able to use the e-Services tools."
 
 #### Electronic Filing of Tax and Information Returns
 
@@ -262,7 +328,7 @@ Electronic commerce advisory group.—To ensure that the Secretary receives inpu
 
 "(d)
 
-Annual Reports.—Not later than June 30 of each calendar year after 1998, the Chairperson of the Internal Revenue Service Oversight Board, the Secretary of the Treasury, and the Chairperson of the electronic commerce advisory group established under subsection (b)(2) \[set out as a note above\] shall report to the Committees on Ways and Means, Appropriations, Government Reform and Oversight \[now Committee on Oversight and Government Reform\], and Small Business of the House of Representatives and the Committees on Finance, Appropriations, Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\], and Small Business \[now Committee on Small Business and Entrepreneurship\] of the Senate on—
+Annual Reports.—Not later than June 30 of each calendar year after 1998, the Chairperson of the Internal Revenue Service Oversight Board, the Secretary of the Treasury, and the Chairperson of the electronic commerce advisory group established under subsection (b)(2) \[set out as a note above\] shall report to the Committees on Ways and Means, Appropriations, Government Reform and Oversight \[now Committee on Oversight and Reform\], and Small Business of the House of Representatives and the Committees on Finance, Appropriations, Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\], and Small Business \[now Committee on Small Business and Entrepreneurship\] of the Senate on—
 
 &emsp;"(1) the progress of the Internal Revenue Service in meeting the goal of receiving electronically 80 percent of tax and information returns by 2007;
 
@@ -288,11 +354,13 @@ Pub. L. 97–248, title III, §353, Sept. 3, 1982, 96 Stat. 640, required Secret
 
 #### Study of Simplification of Tax Returns
 
-Pub. L. 95–600, title V, §551, Nov. 6, 1978, 92 Stat. 2890, required a study and investigation by Secretary of theTreasury with respect to simplification of Federal income tax returns, establishment of a task force to assist in conduct of study, and a report by Secretary on study and investigation to Congressional committees not later than 2 years after Nov. 6, 1978.
+Pub. L. 95–600, title V, §551, Nov. 6, 1978, 92 Stat. 2890, required a study and investigation by Secretary of the Treasury with respect to simplification of Federal income tax returns, establishment of a task force to assist in conduct of study, and a report by Secretary on study and investigation to Congressional committees not later than 2 years after Nov. 6, 1978.
 
 #### First Return Period for Interest Equalization Tax Returns
 
 Pub. L. 89–243, §3(d)(1), Oct. 9, 1965, 79 Stat. 955, provided that the first period for which returns were to be made under subsec. (d)(1) of this section with respect to acquisitions made subject to tax by this section was the period commencing Feb. 11, 1965, and ending at the close of the calendar quarter in which the enactment of Pub. L. 89–243 \[Oct. 9, 1965\] occurred.
 
 Pub. L. 88–563, §3(e), Sept. 2, 1964, 78 Stat. 845, provided that the first period for which returns were to be made under subsec. (d)(1) of this section was the period commencing July 19, 1963, and ending at the close of the calendar quarter in which the enactment of Pub. L. 88–563 \[Sept. 2, 1964\] occurred.
+
+<i><sup>1</sup></i><i> So in original. There are two pars. designated (6).</i>
 

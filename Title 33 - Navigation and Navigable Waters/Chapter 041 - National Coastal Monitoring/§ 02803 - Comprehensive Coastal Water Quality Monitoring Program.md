@@ -122,7 +122,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 &emsp;&emsp;&emsp;(v) the changes in Federal, State, and local monitoring programs necessary to implement the program;
 
-&emsp;&emsp;(H) estimate the costs to Federal and State governments, and other participants,of implementing the monitoring program; and
+&emsp;&emsp;(H) estimate the costs to Federal and State governments, and other participants, of implementing the monitoring program; and
 
 &emsp;&emsp;(I) describe the methods to assess periodically the success of the monitoring program in meeting its goals and objectives, and the manner in which the program may be modified from time-to-time.
 
@@ -148,7 +148,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 #### (2) Consultation
 
-&emsp;The Administrator and the Under Secretary shall consult with the National Academy of Sciences, the Director of the United States Fish and Wildlife Service, the Director of the Minerals Management Service, the Commandant of the Coast Guard, the Secretary of the Navy, the Secretary of Agriculture, the heads of any other relevant Federal or regional agencies, and the Governors of coastal States in developing the Strategy.
+&emsp;The Administrator and the Under Secretary shall consult with the National Academy of Sciences, the Director of the United States Fish and Wildlife Service, the Director of the Minerals Management Service, the Commandant of the Coast Guard, the Secretary of the Navy, the Secretary of Agriculture, theheads of any other relevant Federal or regional agencies, and the Governors of coastal States in developing the Strategy.
 
 #### (3) Public comment
 

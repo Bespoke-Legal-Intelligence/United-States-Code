@@ -28,7 +28,7 @@ The agreement shall—
 
 #### (c) Limitation
 
-If, within twenty years after the completion of any construction (except minor remodeling or alteration) for which such funds have been paid—
+If, within twenty years after the completion of any construction (except minor remodeling oralteration) for which such funds have been paid—
 
 &emsp;(1) the facility ceases to be used for the purposes for which it was constructed or the agreement is terminated, unless the Secretary determines that there is good cause for releasing the institution from its obligation, or
 
@@ -80,13 +80,9 @@ Subsec. (c). Pub. L. 103–73, §203(g)(4), inserted a comma after "If".
 
 Subsec. (b)(2). Pub. L. 102–421, §151(a)(4), substituted "individuals who are deaf" for "the deaf".
 
-Subsec. (b)(3). Pub. L. 102–421, §121(2), substituted "will prepare and submit to the Secretary an annualreport, including an accounting of all indirect costs paid to the institution of higher education under the agreement with the Secretary, which report the Secretary shall transmit to the Committee on Education and Labor of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate," for "will make an annual report together with an accounting of all indirect costs paid to the institution of higher education under the agreement to the Secretary, which the Secretary shall transmit to the Congress".
+Subsec. (b)(3). Pub. L. 102–421, §121(2), substituted "will prepare and submit to the Secretary an annual report, including an accounting of all indirect costs paid to the institution of higher education under the agreement with the Secretary, which report the Secretary shall transmit to the Committee on Education and Labor of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate," for "will make an annual report together with an accounting of all indirect costs paid to the institution of higher education under the agreement to the Secretary, which the Secretary shall transmit to the Congress".
 
 Subsec. (b)(6). Pub. L. 102–421, §121(3), added par. (6).
-
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1998 Amendment
 

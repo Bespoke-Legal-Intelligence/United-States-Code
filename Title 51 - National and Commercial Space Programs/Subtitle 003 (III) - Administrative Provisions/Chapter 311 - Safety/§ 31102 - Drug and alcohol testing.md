@@ -130,7 +130,7 @@ Pub. L. 102–195, §21(c)–(h), Dec. 9, 1991, 105 Stat. 1616.
 
 In subsection (b)(2), the words "within 18 months after the date of enactment of this Act" are omitted as obsolete.
 
-In paragraphs (1) and (2) of subsection (c), and in subsection (f)(2), the date "December 9, 1991" is substitutedfor "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1992 (Public Law 102–195, 105 Stat. 1605).
+In paragraphs (1) and (2) of subsection (c), and in subsection (f)(2), the date "December 9, 1991" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1992 (Public Law 102–195, 105 Stat. 1605).
 
 #### Findings
 

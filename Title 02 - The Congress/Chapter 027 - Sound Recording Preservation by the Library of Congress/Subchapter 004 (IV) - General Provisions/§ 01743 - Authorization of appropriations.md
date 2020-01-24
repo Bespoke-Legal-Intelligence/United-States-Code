@@ -12,5 +12,5 @@ There are authorized to be appropriated to the Librarian for the first fiscal ye
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–336, §2(a)(1)(B), Oct. 2, 2008, 122 Stat. 3726, provided that: "The amendment made by subparagraph\(A) \[amending this section\] shall take effect as if included in the enactment of the National Recording Preservation Act of 2000 \[Pub. L. 106–474\]."
+Pub. L. 110–336, §2(a)(1)(B), Oct. 2, 2008, 122 Stat. 3726, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of the National Recording Preservation Act of 2000 \[Pub. L. 106–474\]."
 

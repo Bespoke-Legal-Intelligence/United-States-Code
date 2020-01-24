@@ -14,7 +14,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 &emsp;&emsp;(B) make recommendations to Congress concerning such payment policies;
 
-&emsp;&emsp;(C) by not later than March 15,<sup>1</sup> submit a report to Congress containing the results ofsuch reviews and its recommendations concerning such policies; and
+&emsp;&emsp;(C) by not later than March 15,<sup>1</sup> submit a report to Congress containing the results of such reviews and its recommendations concerning such policies; and
 
 &emsp;&emsp;(D) by not later than June 15 of each year, submit a report to Congress containing an examination of issues affecting the medicare program, including the implications of changes in health care delivery in the United States and in the market for health care services on the medicare program and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title, and (beginning with 2012) containing an examination of the topics described in paragraph (9), to the extent feasible.
 
@@ -84,7 +84,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (11) Interaction of Medicaid and Medicare
 
-&emsp;The Commission shall consult with MACPAC in carrying out its duties under this section, as appropriate. Responsibility for analysis of and recommendations to change Medicare policy regarding Medicare beneficiaries, including Medicare beneficiaries who are dually eligible for Medicare and Medicaid, shall rest with the Commission. Responsibility for analysis of and recommendations to change Medicaid policy regarding Medicaid beneficiaries, including Medicaid beneficiaries who are dually eligible for Medicare and Medicaid, shall rest with MACPAC.
+&emsp;The Commission shall consult with MACPAC in carrying out its duties under this section, as appropriate. Responsibility for analysis of and recommendations to change Medicare policy regarding Medicare beneficiaries, including Medicare beneficiaries who are dually eligible for Medicare and Medicaid, shall rest with the Commission. Responsibility for analysis of and recommendations tochange Medicaid policy regarding Medicaid beneficiaries, including Medicaid beneficiaries who are dually eligible for Medicare and Medicaid, shall rest with MACPAC.
 
 #### (c) Membership
 
@@ -136,7 +136,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 Subject to such review as the Comptroller General deems necessary to assure the efficient administration of the Commission, the Commission may—
 
-&emsp;(1) employ and fix the compensation of an Executive Director (subject to the approval ofthe Comptroller General) and such other personnel as may be necessary to carry out its duties (without regard to the provisions of title 5 governing appointments in the competitive service);
+&emsp;(1) employ and fix the compensation of an Executive Director (subject to the approval of the Comptroller General) and such other personnel as may be necessary to carry out its duties (without regard to the provisions of title 5 governing appointments in the competitive service);
 
 &emsp;(2) seek such assistance and support as may be required in the performance of its duties from appropriate Federal departments and agencies;
 
@@ -232,7 +232,7 @@ Subsec. (b)(7). Pub. L. 106–554, §1(a)(6) \[title V, §544(b)\], added par. (
 
 #### Change of Name
 
-References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriatetransition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -314,7 +314,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §520(c)\], Nov. 29, 1999, 11
 
 Study.—The Medicare Payment Advisory Commission shall conduct a study on the appropriate quality improvement standards that should apply to—
 
-&emsp;"(A) each type of Medicare+Choice plan described in section 1851(a)(2) of the Social Security Act (42 U.S.C. 1395w–21(a)(2)), including each type of Medicare+Choice plan that is a coordinated care plan (as described in subparagraph (A) of such section); and
+&emsp;"(A) each type of Medicare+Choice plan described in section 1851(a)(2) of the Social Security Act (42 U.S.C. 1395w–21(a)(2)), including each type of Medicare+Choice plan that is a coordinated care plan\(as described in subparagraph (A) of such section); and
 
 &emsp;"(B) the original medicare fee-for-service program under parts A and B \[sic\] title XVIII of such Act (42 U.S.C. 1395 et seq.) \[42 U.S.C. 1395c et seq., 1395j et seq.\].
 

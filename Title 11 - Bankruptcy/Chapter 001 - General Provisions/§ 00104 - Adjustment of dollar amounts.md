@@ -10,7 +10,7 @@
 
 (c) Adjustments made in accordance with subsection (a) shall not apply with respect to cases commenced before the date of such adjustments.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, §108(e), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title I, §102(j), title II, §§224(e)(2), 226(b), title III, §322(b), title IV, §432(c), title X, §1002, title XII, §1202, Apr. 20, 2005, 119 Stat. 35, 65, 67, 97, 110, 186, 193; Pub. L. 110–406, §7, Oct. 13, 2008, 122 Stat. 4293.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, §108(e), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title I, §102(j), title II, §§224(e)(2), 226(b), title III, §322(b), title IV, §432(c), title X, §1002, title XII, §1202, Apr. 20,2005, 119 Stat. 35, 65, 67, 97, 110, 186, 193; Pub. L. 110–406, §7, Oct. 13, 2008, 122 Stat. 4293.)
 
 #### Historical and Revision Notes
 
@@ -64,7 +64,7 @@ Pub. L. 109–8, §102(j), substituted "523(a)(2)(C), 707(b), and 1325(b)(3)" fo
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendments by sections 102(j), 224(e)(2), 226(b), 432(c), 1002, and 1202 of Pub. L. 109–8 notapplicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 322(b) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendments by sections 102(j), 224(e)(2), 226(b), 432(c), 1002, and 1202 of Pub. L. 109–8 not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 322(b) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -50,7 +50,7 @@ Any—
 
 &emsp;&emsp;&emsp;Any person that claims with respect to an article—
 
-&emsp;&emsp;&emsp;&emsp;(I) a waiver or reduction of duty under the eleventh paragraph of section 1311 of this title, section 1312(b)(1) or (4) of this title, section 1562(2) of this title, or the proviso preceding the last proviso to section 81c(a) of this title;
+&emsp;&emsp;&emsp;&emsp;(I) a waiver or reduction of duty under the eleventh paragraph of section 1311 of this title, section 1312(b)(1) or (4) of this title, section 1562(2) of this title, or theproviso preceding the last proviso to section 81c(a) of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) a credit against a bond under section 1312(d) of this title; or
 
@@ -136,7 +136,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (3) Retention period
 
-&emsp;Records and supporting documents shall be kept by the person who issued a Chile FTA Certificate of Origin for at least 5 years after the date on which the certificate was issued.
+&emsp;Records and supporting documents shall be kept by the person who issued a Chile FTACertificate of Origin for at least 5 years after the date on which the certificate was issued.
 
 #### (g) Certifications of origin for goods exported under the Dominican Republic-Central America-United States Free Trade Agreement
 
@@ -358,7 +358,7 @@ Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prio
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–125 effective Feb. 24, 2016, and, except as otherwise provided, applicable to drawback claims filed on or after the date that is 2 yearsafter such date, see section 906(q) of Pub. L. 114–125, set out as a note under section 1313 of this title.
+Amendment by Pub. L. 114–125 effective Feb. 24, 2016, and, except as otherwise provided, applicable to drawback claims filed on or after the date that is 2 years after such date, see section 906(q) of Pub. L. 114–125, set out as a note under section 1313 of this title.
 
 #### Effective and Termination Dates of 2011 Amendment
 

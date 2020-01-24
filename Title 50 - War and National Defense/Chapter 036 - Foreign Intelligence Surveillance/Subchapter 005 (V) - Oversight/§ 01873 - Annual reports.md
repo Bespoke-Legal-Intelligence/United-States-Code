@@ -54,7 +54,7 @@ Except as provided in subsection (d), the Director of National Intelligence shal
 
 &emsp;&emsp;(B) the number of unique identifiers used to communicate information collected pursuant to such orders;
 
-&emsp;(4) the number of criminal proceedings in which the United States or a State or political subdivision thereof provided notice pursuant to subsection (c) or (d) of section 1806 of this title (including with respect to information acquired from an acquisition conducted under section 1881a of this title) or subsection (d) or (e) of section 1825 of this title of the intent of the government to enter into evidence or otherwise use or disclose any information obtained or derived from electronic surveillance, physical search, or an acquisition conducted pursuant to this chapter;
+&emsp;(4) the number of criminal proceedings in which the United States or a State or political subdivision thereof provided notice pursuant to subsection (c) or (d) of section 1806 of this title (including with respect to information acquired from an acquisition conducted under section 1881a of this title) or subsection (d) or (e) of section 1825 of this title of the intent of the government to enter into evidence orotherwise use or disclose any information obtained or derived from electronic surveillance, physical search, or an acquisition conducted pursuant to this chapter;
 
 &emsp;(5) the total number of orders issued pursuant to applications made under section 1861(b)(2)(B) of this title and a good faith estimate of—
 
@@ -62,7 +62,7 @@ Except as provided in subsection (d), the Director of National Intelligence shal
 
 &emsp;&emsp;(B) the number of unique identifiers used to communicate information collected pursuant to such orders;
 
-&emsp;(6) the total number of orders issued pursuant to applications made under section1861(b)(2)(C) of this title and a good faith estimate of—
+&emsp;(6) the total number of orders issued pursuant to applications made under section 1861(b)(2)(C) of this title and a good faith estimate of—
 
 &emsp;&emsp;(A) the number of targets of such orders;
 
@@ -150,7 +150,7 @@ In this section:
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(4), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (b)(4), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 

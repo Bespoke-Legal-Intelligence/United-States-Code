@@ -60,7 +60,7 @@ The Commission, in addition to the requirements of section 803(e) of this title,
 
 #### References in Text
 
-The Fish and Wildlife Coordination Act, referred to in subsec. (c), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (c), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
 
 #### Prior Provisions
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 #### Application of Subsection (c)
 
-Pub. L. 99–495, §8(c), Oct. 16, 1986, 100 Stat. 1251, provided that: "Nothing in this Act \[see Short Title of 1986 Amendment note set out under section 791a of this title\] shall affect the application of section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\] to any exemption issued after the enactment of this Act \[Oct. 16, 1986\]."
+Pub. L. 99–495, §8(c), Oct. 16, 1986, 100 Stat. 1251, provided that: "Nothing in this Act \[see Short Title of 1986Amendment note set out under section 791a of this title\] shall affect the application of section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\] to any exemption issued after the enactment of this Act \[Oct. 16, 1986\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

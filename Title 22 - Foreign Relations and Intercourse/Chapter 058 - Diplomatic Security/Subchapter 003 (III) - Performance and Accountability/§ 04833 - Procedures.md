@@ -32,7 +32,7 @@
 
 &emsp;(A) The Board may issue a subpoena for the attendance and testimony of any person (other than a person described in clause (i), (ii), or (iii) of paragraph (1)(B)) and the production of documentary or other evidence from any such person if the Board finds that such a subpoena is necessary in the interests of justice for the development of relevant evidence.
 
-&emsp;(B) In the case of contumacy or refusal to obey a subpoena issued under this paragraph, a court of the United States within the jurisdiction of which a person is directed to appear or produce information, or within the jurisdiction of which the person is found, resides, or transacts business, may upon application of the Attorney General, issue to such person anorder requiring such person to appear before the Board to give testimony or produce information as required by the subpoena.
+&emsp;(B) In the case of contumacy or refusal to obey a subpoena issued under this paragraph, a court of the United States within the jurisdiction of which a person is directed to appear or produce information, or within the jurisdiction of which the person is found, resides, or transacts business, may upon application of the Attorney General, issue to such person an order requiring such person to appear before the Board to give testimony or produce information as required by the subpoena.
 
 &emsp;(C) Subpoenaed witnesses shall be paid the same fee and mileage allowances which are paid subpoenaed witnesses in the courts of the United States.
 

@@ -1,6 +1,6 @@
 ### §743. Lighthouse districts
 
-The ocean, gulf, and lake coasts and the rivers of the United States, Puerto Rico, and the navalstation in Cuba shall be arranged into not exceeding nineteen lighthouse districts.
+The ocean, gulf, and lake coasts and the rivers of the United States, Puerto Rico, and the naval station in Cuba shall be arranged into not exceeding nineteen lighthouse districts.
 
 (June 17, 1910, ch. 301, §11, 36 Stat. 538; May 17, 1932, ch. 190, 47 Stat. 158.)
 
@@ -8,7 +8,7 @@ The ocean, gulf, and lake coasts and the rivers of the United States, Puerto Ric
 
 This section was enacted as part of section 11 of act June 17, 1910, which also enacted section 717 of this title.
 
-The original text provided "that the commissioner of lighthouses, subject to the approval of the Secretary of Commerce and Labor, as soon as practicable" should rearrange the ocean, gulf and lake coasts and the rivers of the United States, Puerto Rico and the naval station in Cuba into not exceeding nineteen lighthouse districts.
+The original text provided "that the commissioner of lighthouses, subject to the approval of the Secretary of Commerce and Labor, as soon as practicable" should rearrange the ocean, gulf and lake coasts and the rivers of the United States, Puerto Rico and the naval stationin Cuba into not exceeding nineteen lighthouse districts.
 
 #### Prior Provisions
 

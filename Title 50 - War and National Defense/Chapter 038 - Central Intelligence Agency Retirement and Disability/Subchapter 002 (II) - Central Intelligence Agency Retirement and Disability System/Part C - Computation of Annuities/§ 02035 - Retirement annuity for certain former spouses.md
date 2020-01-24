@@ -4,7 +4,7 @@
 
 An individual who was a former spouse of a participant, former participant, or retired participant on November 15, 1982, and any former spouse divorced after November 15, 1982, from a participant or former participant who retired before November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b), to an annuity—
 
-&emsp;(1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the annuity of the participant; or
+&emsp;(1) if married to the participant throughout the creditable service of the participant, equalto 50 percent of the annuity of the participant; or
 
 &emsp;(2) if not married to the participant throughout such creditable service, equal to that former spouse's pro rata share of 50 percent of such annuity.
 
@@ -56,7 +56,7 @@ A former spouse is not entitled to an annuity under this section if—
 
 #### (B) Retroactive benefits
 
-&emsp;&emsp;Upon approval of an application under subparagraph (A), the appropriate annuity shallbe payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to an annuity under this section, but in no event shall an annuity be payable under this section with respect to any period before December 2, 1987.
+&emsp;&emsp;Upon approval of an application under subparagraph (A), the appropriate annuity shall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to an annuity under this section, but in no event shall an annuity be payable under this section with respect to any period before December 2, 1987.
 
 #### (d) Restoration of annuities
 

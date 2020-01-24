@@ -48,7 +48,7 @@ Any document described in subsection (a) shall be immediately referred in the Ho
 
 &emsp;(B) Debate in the Senate on any fishery agreement resolution and on all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
-&emsp;(C) Debate in the Senate on any debatable motion or appeal in connection with any fishery agreement resolution shall be limited to not more than 1 hour, to be equally divided between, and controlled by, the mover of the motion or appeal and the manager of the resolution, except that if the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee. The majority leader and the minority leader, or either of them, may allot additional time to any Senator during the consideration of any debatable motion or appeal, from time under their control with respect to the applicable fishery agreement resolution.
+&emsp;(C) Debate in the Senate on any debatable motion or appeal in connection with any fishery agreement resolution shall be limited to not more than 1 hour, to be equally divided between, and controlled by, the mover of the motion or appeal and the manager of the resolution, except that if the manager of the resolution is in favor of any such motion or appeal,the time in opposition thereto shall be controlled by the minority leader or his designee. The majority leader and the minority leader, or either of them, may allot additional time to any Senator during the consideration of any debatable motion or appeal, from time under their control with respect to the applicable fishery agreement resolution.
 
 &emsp;(D) A motion in the Senate to further limit debate is not debatable. A motion to recommit any fishery agreement resolution is not in order.
 
@@ -114,7 +114,7 @@ In General.—The advisory body established pursuant to this section shall consi
 
 &emsp;&emsp;"(B) The Commission of the Department of Fish and Game of the State of Alaska.
 
-&emsp;&emsp;"(C) Five members appointed by the Secretary of State from among persons nominated by the Governor of Alaska on the basis of their knowledge and experience in commercial harvesting, processing, or marketing of fishery resources.
+&emsp;&emsp;"(C) Five members appointed by the Secretary of State from among persons nominated by the Governor of Alaska on the basis of their knowledge andexperience in commercial harvesting, processing, or marketing of fishery resources.
 
 &emsp;&emsp;"(D) Five members appointed by the Secretary of State from among persons nominated by the Governor of Washington on the basis of their knowledge and experience in commercial harvesting, processing, or marketing of fishery resources.
 
@@ -156,7 +156,7 @@ Pub. L. 100–350, §1, June 27, 1988, 102 Stat. 660, provided that extension of
 
 Pub. L. 98–623, title I, Nov. 8, 1984, 98 Stat. 3394, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1823) \[this section\]—
 
-&emsp;"(1) the governing international fishery agreement between the Government of the United States and the European Economic Community Concerning Fisheries Off the Coasts of the United States, as contained in the Message to Congress from the President of the United States dated August 27, 1984, is hereby approved by Congress as a governing international fishery agreement for purposes of that Act \[this chapter\], and may enter into force with respect to theUnited States in accordance with the terms of Article XIX of the agreement after the date of the enactment of this title \[Nov. 8, 1984\], upon signature of the agreement by both parties; and
+&emsp;"(1) the governing international fishery agreement between the Government of the United States and the European Economic Community Concerning Fisheries Off the Coasts of the United States, as contained in the Message to Congress from the President of the United States dated August 27, 1984, is hereby approved by Congress as a governing international fishery agreement for purposes of that Act \[this chapter\], and may enter into force with respect to the United States in accordance with the terms of Article XIX of the agreement after the date of the enactment of this title \[Nov. 8, 1984\], upon signature of the agreement by both parties; and
 
 &emsp;"(2) the governing international fishery agreement between the Government of the United States and the Government of the Republic of Iceland Concerning Fisheries Off the Coasts of the United States, as contained in the message to Congress from the President of the United States dated September 29, 1984, is hereby approved by Congress as a governing international fishery agreement for purposes of that Act \[this chapter\], and may enter into force with respect to the United States in accordance with the terms of Article XVI of the agreement after the date of the enactment of this title \[Nov. 8, 1984\]."
 

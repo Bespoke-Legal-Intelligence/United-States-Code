@@ -14,7 +14,7 @@
 
 (4)(A) The State-owned railroad shall be included in the definition of "agency" for purposes of section 3(a), (b), (c), and (e) of the Federal Workforce Restructuring Act of 1994 and may elect to participate in the voluntary separation incentive program established under such Act. Any employee of the State-owned railroad who meets the qualifications as described under the first sentence of paragraph (1) shall be deemed an employee under such Act.
 
-(B) An employee who has received a voluntary separation incentive payment under this paragraph and accepts employment with the State-owned railroad within 5 years after the date of separation on which payment of the incentive is based shall be required to repay the entire amount of the incentive payment unless the head of the State-owned railroad determines that the individual involved possesses uniqueabilities and is the only qualified applicant available for the position.
+(B) An employee who has received a voluntary separation incentive payment under this paragraph and accepts employment with the State-owned railroad within 5 years after the date of separation on which payment of the incentive is based shall be required to repay the entire amount of the incentive payment unless the head of the State-owned railroad determines that the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 #### (b) Coverage for employees not transferring to State-owned railroad
 

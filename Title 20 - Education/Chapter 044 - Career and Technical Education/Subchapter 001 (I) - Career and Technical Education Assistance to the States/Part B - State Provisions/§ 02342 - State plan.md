@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each eligible agency desiring assistance under this subchapter for any fiscal year shall prepare and submit to the Secretary a State plan for a 6-year period, together with such annual revisions as the eligible agency determines to be necessary, except that, during the period described in section 2303 of this title, each eligible agency may submit a transition plan that shall fulfill the eligible agency's obligation to submit a State plan under this section for the first fiscal year following August 12, 2006.
+&emsp;Each eligible agency desiring assistance under this subchapter for any fiscal year shall prepare and submit to the Secretary a State plan for a 4-year period, consistent with subsection (b) and paragraph (5), together with such annual revisions as the eligible agency determines to be necessary, except that, during the period described in section 2303 of this title, each eligible agency may submit a transition plan that shall fulfill the eligible agency's obligation to submit a State plan under this section for the first fiscal year following July 31, 2018.
 
 #### (2) Revisions
 
@@ -12,13 +12,31 @@
 
 &emsp;&emsp;(A) may submit such annual revisions of the State plan to the Secretary as the eligible agency determines to be necessary; and
 
-&emsp;&emsp;(B) shall, after the second year of the 6-year period, conduct a review of activities assisted under this subchapter and submit any revisions of the State plan that the eligible agency determines necessary to the Secretary.
+&emsp;&emsp;(B) shall, after the second year of the 4-year period, conduct a review of activities assisted under this subchapter and submit any revisions of the State plan that the eligible agency determines necessary to the Secretary.
 
 #### (3) Hearing process
 
-&emsp;The eligible agency shall conduct public hearings in the State, after appropriate and sufficient notice, for the purpose of affording all segments of the public and interested organizations and groups (including charter school authorizers and organizers consistent with State law, employers, labor organizations, parents, students, and community organizations), an opportunity to present their views and make recommendations regarding the State plan. A summary of such recommendations and the eligible agency's response to such recommendations shall be included in the State plan.
+&emsp;The eligible agency shall conduct public hearings in the State, after appropriate and sufficient notice, for the purpose of affording all segments of the public and interested organizations and groups (including teachers, faculty, specialized instructional support personnel, paraprofessionals, school leaders, authorized public chartering agencies and charter school leaders (consistent with State law), employers, labor organizations, parents, students, Indian Tribes and Tribal organizations that may be present in the State, and community organizations), an opportunity to present their views and make recommendations regarding the State plan. A summary of such recommendations and the eligible agency's response to such recommendations shall be included in the State plan.
 
-#### (b) Plan development
+#### (4) Public comment
+
+&emsp;Each eligible agency shall make the State plan publicly available for public comment for a period of not less than 30 days, by electronic means and in an easily accessible format, prior to submission to the Secretary for approval under this subsection. In the plan the eligible agency files under this subsection, the eligible agency shall provide an assurance that public comments were taken into account in the development of the State plan.
+
+#### (5) Optional submission of subsequent plans
+
+&emsp;An eligible agency may, after the first 4-year State plan is submitted under this section, submit subsequent 4-year plans not later than 120 days prior to the end of the 4-year period covered by the preceding State plan or, if an eligible agency chooses not to submit a State plan for a subsequent 4-year period, the eligible agency shall submit, and the Secretary shall approve, annual revisions to the State determined levels of performance in the same manner as revisions submitted and approved under section 2323(b)(3)(A)(ii) of this title.
+
+#### (b) Options for submission of State plan
+
+#### (1) Combined plan
+
+&emsp;The eligible agency may submit a combined plan that meets the requirements of this section and the requirements of section 3113 of title 29.
+
+#### (2) Notice to Secretary
+
+&emsp;The eligible agency shall inform the Secretary of whether the eligible agency intends to submit a combined plan described in paragraph (1) or a single plan.
+
+#### (c) Plan development
 
 #### (1) In general
 
@@ -26,429 +44,185 @@
 
 &emsp;&emsp;(A) develop the State plan in consultation with—
 
-&emsp;&emsp;&emsp;(i) academic and career and technical education teachers, faculty, and administrators;
+&emsp;&emsp;&emsp;(i) representatives of secondary and postsecondary career and technical education programs, including eligible recipients andrepresentatives of 2-year minority-serving institutions and historically Black colleges and universities and tribally controlled colleges or universities in States where such institutions are in existence, adult career and technical education providers, and charter school representatives in States where such schools are in existence, which shall include teachers, faculty, school leaders, specialized instructional support personnel, career and academic guidance counselors, and paraprofessionals;
 
-&emsp;&emsp;&emsp;(ii) career guidance and academic counselors;
+&emsp;&emsp;&emsp;(ii) interested community representatives, including parents, students, and community organizations;
 
-&emsp;&emsp;&emsp;(iii) eligible recipients;
+&emsp;&emsp;&emsp;(iii) representatives of the State workforce development board established under section 3111 of title 29 (referred to in this section as the "State board");
 
-&emsp;&emsp;&emsp;(iv) charter school authorizers and organizers consistent with State law;
+&emsp;&emsp;&emsp;(iv) members and representatives of special populations;
 
-&emsp;&emsp;&emsp;(v) parents and students;
+&emsp;&emsp;&emsp;(v) representatives of business and industry (including representatives of small business), which shall include representatives of industry and sector partnerships in the State, as appropriate, and representatives of labor organizations in the State;
 
-&emsp;&emsp;&emsp;(vi) institutions of higher education;
+&emsp;&emsp;&emsp;(vi) representatives of agencies serving out-of-school youth, homeless children and youth, and at-risk youth, including the State Coordinator for Education of Homeless Children and Youths established or designated under section 11432(d)(3) of title 42;
 
-&emsp;&emsp;&emsp;(vii) the State tech prep coordinator and representatives of tech prep consortia (if applicable);
+&emsp;&emsp;&emsp;(vii) representatives of Indian Tribes and Tribal organizations located in, or providing services in, the State; and
 
-&emsp;&emsp;&emsp;(viii) entities participating in activities described in section 3111 of title 29;
+&emsp;&emsp;&emsp;(viii) individuals with disabilities; and
 
-&emsp;&emsp;&emsp;(ix) interested community members (including parent and community organizations);
-
-&emsp;&emsp;&emsp;(x) representatives of special populations;
-
-&emsp;&emsp;&emsp;(xi) representatives of business and industry (including representatives of small business); and
-
-&emsp;&emsp;&emsp;(xii) representatives of labor organizations in the State; and
-
-&emsp;&emsp;(B) consult the Governor of the State with respect to such development.
+&emsp;&emsp;(B) consult the Governor of the State, and the heads of other State agencies with authority for career and technical education programs that are not the eligible agency, with respect to the development of the State plan.
 
 #### (2) Activities and procedures
 
 &emsp;The eligible agency shall develop effective activities and procedures, including access to information needed to use such procedures, to allow the individuals and entities described in paragraph (1) to participate in State and local decisions that relate to development of the State plan.
 
-#### (c) Plan contents
+#### (3) Consultation with the Governor
 
-The State plan shall include information that—
+&emsp;The consultation described in paragraph (1)(B) shall include meetings of officials from the eligible agency and the Governor's office and shall occur—
 
-&emsp;(1) describes the career and technical education activities to be assisted that are designed to meet or exceed the State adjusted levels of performance, including a description of—
+&emsp;&emsp;(A) during the development of such plan; and
 
-&emsp;&emsp;(A) the career and technical programs of study, which may be adopted by local educational agencies and postsecondary institutions to be offered as an option to students (and their parents as appropriate) when planning for and completing future coursework, for career and technical content areas that—
+&emsp;&emsp;(B) prior to submission of the plan to the Secretary.
 
-&emsp;&emsp;&emsp;(i) incorporate secondary education and postsecondary education elements;
+#### (d) Plan contents
 
-&emsp;&emsp;&emsp;(ii) include coherent and rigorous content aligned with challenging academic standards and relevant career and technical content in a coordinated, nonduplicative progression of courses that align secondary education with postsecondary education to adequately prepare students to succeed in postsecondary education;
+The State plan shall include—
 
-&emsp;&emsp;&emsp;(iii) may include the opportunity for secondary education students to participate in dual or concurrent enrollment programs or other ways to acquire postsecondary education credits; and
+&emsp;(1) a summary of State-supported workforce development activities (including education and training) in the State, including the degree to which the State's career and technical education programs and programs of study are aligned with and address the education and skill needs of the employers in the State identified by the State board;
 
-&emsp;&emsp;&emsp;(iv) lead to an industry-recognized credential or certificate at the postsecondary level, or an associate or baccalaureate degree;
+&emsp;(2) the State's strategic vision and set of goals for preparing an educated and skilled workforce (including special populations) and for meeting the skilled workforce needs of employers, including in existing and emerging in-demand industry sectors and occupations as identified by the State, and how the State's career and technical education programs will help to meet these goals;
 
-&emsp;&emsp;(B) how the eligible agency, in consultation with eligible recipients, will develop and implement the career and technical programs of study described in subparagraph (A);
+&emsp;(3) a strategy for any joint planning, alignment, coordination, and leveraging of funds—
 
-&emsp;&emsp;(C) how the eligible agency will support eligible recipients in developing and implementing articulation agreements between secondary education and postsecondary education institutions;
+&emsp;&emsp;(A) between the State's career and technical education programs and programs of study with the State's workforce development system, to achieve the strategic vision and goals described in paragraph (2), including the core programs defined in section 3102 of title 29 and the elements related to system alignment under section 3112(b)(2)(B) of title 29; and
 
-&emsp;&emsp;(D) how the eligible agency will make available information about career and technical programs of study offered by eligible recipients;
+&emsp;&emsp;(B) for programs carried out under this subchapter with other Federal programs, which may include programs funded under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] and the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\];
 
-&emsp;&emsp;(E) the secondary and postsecondary career and technical education programs to be carried out, including programs that will be carried out by the eligible agency to develop, improve, and expand access to appropriate technology in career and technical education programs;
+&emsp;(4) a description of the career and technical education programs or programs of study that will be supported, developed, or improved at the State level, including descriptions of—
 
-&emsp;&emsp;(F) the criteria that will be used by the eligible agency to approve eligible recipients for funds under this chapter, including criteria to assess the extent to which the local plan will—
+&emsp;&emsp;(A) the programs of study to be developed at the State level and made available for adoption by eligible recipients;
 
-&emsp;&emsp;&emsp;(i) promote continuous improvement in academic achievement;
+&emsp;&emsp;(B) the process and criteria to be used for approving locally developed programs of study or career pathways, including how such programs address State workforce development and education needs and the criteria to assess the extent to which the local application under section 2352 of this title will—
 
-&emsp;&emsp;&emsp;(ii) promote continuous improvement of technical skill attainment; and
+&emsp;&emsp;&emsp;(i) promote continuous improvement in academic achievement and technical skill attainment;
 
-&emsp;&emsp;&emsp;(iii) identify and address current or emerging occupational opportunities;
+&emsp;&emsp;&emsp;(ii) expand access to career and technical education for special populations; and
 
-&emsp;&emsp;(G) how programs at the secondary level will prepare career and technical education students, including special populations, to graduate from secondary school with a diploma;
+&emsp;&emsp;&emsp;(iii) support the inclusion of employability skills in programs of study and career pathways;
 
-&emsp;&emsp;(H) how such programs will prepare career and technical education students, including special populations, academically and technically for opportunities in postsecondary education or entry into high skill, high wage, or high demand occupations in current or emerging occupations, and how participating students will be made aware of such opportunities;
+&emsp;&emsp;(C) how the eligible agency will—
 
-&emsp;&emsp;(I) how funds will be used to improve or develop new career and technical education courses—
+&emsp;&emsp;&emsp;(i) make information on approved programs of study and career pathways (including career exploration, work-based learning opportunities, early college high schools, and dual or concurrent enrollment program opportunities) and guidance and advisement resources, available to students (and parents, as appropriate), representatives of secondary and postsecondary education, and special populations, and to the extent practicable, provide that information and those resources in a language students, parents, and educators can understand;
 
-&emsp;&emsp;&emsp;(i) at the secondary level that are aligned with challenging State academic standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(b)(1)\];
+&emsp;&emsp;&emsp;(ii) facilitate collaboration among eligible recipients in the development and coordination of career and technical education programs and programs of study and career pathways that include multiple entry and exit points;
 
-&emsp;&emsp;&emsp;(ii) at the postsecondary level that are relevant and challenging; and
+&emsp;&emsp;&emsp;(iii) use State, regional, or local labor market data to determine alignment of eligible recipients' programs of study to the needs of the State, regional, or local economy, including in-demand industry sectors and occupations identified by the State board, and to align career and technical education with such needs, as appropriate;
 
-&emsp;&emsp;&emsp;(iii) that lead to employment in high skill, high wage, or high demand occupations;
+&emsp;&emsp;&emsp;(iv) ensure equal access to approved career and technical education programs of study and activities assisted under this chapter for special populations;
 
-&emsp;&emsp;(J) how the eligible agency will facilitate and coordinate communication on best practices among successful recipients of tech prep program grants under subchapter II and eligible recipients to improve program quality and student achievement;
+&emsp;&emsp;&emsp;(v) coordinate with the State board to support the local development of career pathways and articulate processes by which career pathways will be developed by local workforce development boards, as appropriate;
 
-&emsp;&emsp;(K) how funds will be used effectively to link academic and career and technical education at the secondary level and at the postsecondary level in a manner that increases student academic and career and technical achievement; and
+&emsp;&emsp;&emsp;(vi) support effective and meaningful collaboration between secondary schools, postsecondary institutions, and employers to provide students with experience in, and understanding of, all aspects of an industry, which may include work-based learning such as internships, mentorships, simulated work environments, and other hands-on or inquiry-based learning activities; and
 
-&emsp;&emsp;(L) how the eligible agency will report on the integration of coherent and rigorous content aligned with challenging academic standards in career and technical education programs in order to adequately evaluate the extent of such integration;
+&emsp;&emsp;&emsp;(vii) improve outcomes and reduce performance gaps for CTE concentrators, including those who are members of special populations; and
 
-&emsp;(2) describes how comprehensive professional development (including initial teacher preparation and activities that support recruitment) for career and technical education teachers, faculty, administrators, and career guidance and academic counselors will be provided, especially professional development that—
+&emsp;&emsp;(D) how the eligible agency may include the opportunity for secondary school students to participate in dual or concurrent enrollment programs, early college high school, or competency-based education;
 
-&emsp;&emsp;(A) promotes the integration of coherent and rigorous academic content standards and career and technical education curricula, including through opportunities for the appropriate academic and career and technical education teachers to jointly develop and implement curricula and pedagogical strategies, as appropriate;
+&emsp;(5) a description of the criteria and process for how the eligible agency will approve eligible recipients for funds under this chapter, including how—
 
-&emsp;&emsp;(B) increases the percentage of teachers that meet teacher certification or licensing requirements;
+&emsp;&emsp;(A) each eligible recipient will promote academic achievement;
 
-&emsp;&emsp;(C) is high quality, sustained, intensive, and focused on instruction, and increases the academic knowledge and understanding of industry standards, as appropriate, of career and technical education teachers;
+&emsp;&emsp;(B) each eligible recipient will promote skill attainment, including skill attainment that leads to a recognized postsecondary credential; and
 
-&emsp;&emsp;(D) encourages applied learning that contributes to the academic and career and technical knowledge of the student;
+&emsp;&emsp;(C) each eligible recipient will ensure the comprehensive needs assessment under section 2354(c) of this title takes into consideration local economic and education needs, including, where appropriate, in-demand industry sectors and occupations;
 
-&emsp;&emsp;(E) provides the knowledge and skills needed to work with and improve instruction for special populations;
+&emsp;(6) a description of how the eligible agency will support the recruitment and preparation of teachers, including special education teachers, faculty, school principals, administrators, specialized instructional support personnel, and paraprofessionals to provide career and technical education instruction, leadership, and support, including professional development that provides the knowledge and skills needed to work with and improve instruction for special populations;
 
-&emsp;&emsp;(F) assists in accessing and utilizing data, including data provided under section 2328 of this title, student achievement data, and data from assessments; and
+&emsp;(7) a description of how the eligible agency will use State leadership funds under section 2344 of this title;
 
-&emsp;&emsp;(G) promotes integration with professional development activities that the State carries out under title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6601 et seq.\] and title II of the Higher Education Act of 1965 \[20 U.S.C. 1021 et seq.\];
+&emsp;(8) a description of how funds received by the eligible agency through the allotment made under section 2321 of this title will be distributed—
 
-&emsp;(3) describes efforts to improve—
+&emsp;&emsp;(A) among career and technical education at the secondary level, or career and technical education at the postsecondary and adult level, or both, including how such distribution will most effectively provide students with the skills needed to succeed in the workplace; and
 
-&emsp;&emsp;(A) the recruitment and retention of career and technical education teachers, faculty, and career guidance and academic counselors, including individuals in groups underrepresented in the teaching profession; and
+&emsp;&emsp;(B) among any consortia that may be formed among secondary schools and eligible institutions, and how funds will be distributed among the members of the consortia, including the rationale for such distribution and how it will most effectively provide students with the skills needed to succeed in the workplace;
 
-&emsp;&emsp;(B) the transition to teaching from business and industry, including small business;
-
-&emsp;(4) describes efforts to facilitate the transition of subbaccalaureate career and technical education students into baccalaureate degree programs at institutions of higher education;
-
-&emsp;(5) describes how the eligible agency will actively involve parents, academic and career and technical education teachers, administrators, faculty, career guidance and academic counselors, local business (including small businesses), and labor organizations in the planning, development, implementation, and evaluation of such career and technical education programs;
-
-&emsp;(6) describes how funds received by the eligible agency through the allotment made under section 2321 of this title will be allocated—
-
-&emsp;&emsp;(A) among career and technical education at the secondary level, or career and technical education at the postsecondary and adult level, or both, including the rationale for such allocation; and
-
-&emsp;&emsp;(B) among any consortia that will be formed among secondary schools and eligible institutions, and how funds will be allocated among the members of the consortia, including the rationale for such allocation;
-
-&emsp;(7) describes how the eligible agency will—
-
-&emsp;&emsp;(A) improve the academic and technical skills of students participating in career and technical education programs, including strengthening the academic and career and technical components of career and technical education programs through the integration of academics with career and technical education to ensure learning in—
-
-&emsp;&emsp;&emsp;(i) a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]); and
-
-&emsp;&emsp;&emsp;(ii) career and technical education subjects;
-
-&emsp;&emsp;(B) provide students with strong experience in, and understanding of, all aspects of an industry; and
-
-&emsp;&emsp;(C) ensure that students who participate in such career and technical education programs are taught to the same challenging academic proficiencies as are taught to all other students;
-
-&emsp;(8) describes how the eligible agency will annually evaluate the effectiveness of such career and technical education programs, and describe, to the extent practicable, how the eligible agency is coordinating such programs to ensure nonduplication with other Federal programs;
-
-&emsp;(9) describes the eligible agency's program strategies for special populations, including a description of how individuals who are members of the special populations—
+&emsp;(9) a description of the eligible agency's program strategies for special populations, including a description of how individuals who are members of special populations—
 
 &emsp;&emsp;(A) will be provided with equal access to activities assisted under this chapter;
 
-&emsp;&emsp;(B) will not be discriminated against on the basis of their status as members of the special populations; and
+&emsp;&emsp;(B) will not be discriminated against on the basis of status as a member of a special population;
 
-&emsp;&emsp;(C) will be provided with programs designed to enable the special populations to meet or exceed State adjusted levels of performance, and prepare special populations for further learning and for high skill, high wage, or high demand occupations;
+&emsp;&emsp;(C) will be provided with programs designed to enable individuals who are members of special populations to meet or exceed State determined levels of performance described in section 2323 of this title, and prepare special populations for further learning and for high-skill, high-wage, or in-demand industry sectors or occupations;
 
-&emsp;(10) describes—
+&emsp;&emsp;(D) will be provided with appropriate accommodations; and
 
-&emsp;&emsp;(A) the eligible agency's efforts to ensure that eligible recipients are given the opportunity to provide input in determining the State adjusted levels of performance described in section 2323 of this title; and
+&emsp;&emsp;(E) will be provided instruction and work-based learning opportunities in integrated settings that support competitive, integrated employment;
 
-&emsp;&emsp;(B) how the eligible agency, in consultation with eligible recipients, will develop a process for the negotiation of local adjusted levels of performance under section 2323(b)(4) of this title if an eligible recipient does not accept the State adjusted levels of performance under section 2323(b)(3) of this title;
+&emsp;(10) a description of the procedure the eligible agency will adopt for determining State determined levels of performance described in section 2323 of this title, which, at a minimum, shall include—
 
-&emsp;(11) provides assurances that the eligible agency will comply with the requirements of this chapter and the provisions of the State plan, including the provision of a financial audit of funds received under this chapter which may be included as part of an audit of other Federal or State programs;
+&emsp;&emsp;(A) a description of the process for public comment under section 2323(b)(3)(B) of this title as part of the development of the State determined levels of performance under section 2323(b) of this title;
 
-&emsp;(12) provides assurances that none of the funds expended under this chapter will be used to acquire equipment (including computer software) in any instance in which such acquisition results in a direct financial benefit to any organization representing the interests of the acquiring entity or the employees of the acquiring entity, or any affiliate of such an organization;
+&emsp;&emsp;(B) an explanation of the State determined levels of performance; and
 
-&emsp;(13) describes how the eligible agency will report data relating to students participating in career and technical education in order to adequately measure the progress of the students, including special populations, and how the eligible agency will ensure that the data reported to the eligible agency from local educational agencies and eligible institutions under this subchapter and the data the eligible agency reports to the Secretary are complete, accurate, and reliable;
+&emsp;&emsp;(C) a description of how the State determined levels of performance set by the eligible agency align with the levels, goals, and objectives of other Federal and State laws;
 
-&emsp;(14) describes how the eligible agency will adequately address the needs of students in alternative education programs, if appropriate;
+&emsp;(11) a description of how the eligible agency will address disparities or gaps in performance, as described in section 2323(b)(3)(C)(ii)(II) of this title, in each of the plan years, and if no meaningful progress has been achieved prior to the third program year, a description of the additional actions the eligible agency will take to eliminate these disparities or gaps;
 
-&emsp;(15) describes how the eligible agency will provide local educational agencies, area career and technical education schools, and eligible institutions in the State with technical assistance;
+&emsp;(12) describes <sup>1</sup> how the eligible agency will involve parents, academic and career and technical education teachers, administrators, faculty, career guidance and academic counselors, local business (including small businesses), labor organizations, and representatives of Indian Tribes and Tribal organizations, as appropriate, in the planning, development, implementation, and evaluation of such career and technical education programs; and <sup>2</sup>
 
-&emsp;(16) describes how career and technical education relates to State and regional occupational opportunities;
+&emsp;(13) assurances that—
 
-&emsp;(17) describes the methods proposed for the joint planning and coordination of programs carried out under this subchapter with other Federal education programs;
+&emsp;&emsp;(A) the eligible agency will comply with the requirements of this chapter and the provisions of the State plan, including the provision of a financial audit of funds received under this chapter, which may be included as part of an audit of other Federal or State programs;
 
-&emsp;(18) describes how funds will be used to promote preparation for high skill, high wage, or high demand occupations and non-traditional fields;
+&emsp;&emsp;(B) none of the funds expended under this chapter will be used to acquire equipment (including computer software) in any instance in which such acquisition results in a direct financial benefit to any organization representing the interests of the acquiring entity or the employees of the acquiring entity, or any affiliate of such an organization;
 
-&emsp;(19) describes how funds will be used to serve individuals in State correctional institutions; and
+&emsp;&emsp;(C) the eligible agency will use the funds to promote preparation for high-skill, high-wage, or in-demand industry sectors or occupations and non-traditional fields, as identified by the eligible agency;
 
-&emsp;(20) contains the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts.
+&emsp;&emsp;(D) the eligible agency will use the funds provided under this chapter to implement career and technical education programs and programs of study for individuals in State correctional institutions, including juvenile justice facilities; and
 
-#### (d) Plan options
+&emsp;&emsp;(E) the eligible agency will provide local educational agencies, area career and technical education schools, and eligible institutions in the State with technical assistance, including technical assistance on how to close gaps in student participation and performance in career and technical education programs; and
 
-#### (1) Single plan
+&emsp;(14) a description of the opportunities for the public to comment in person and in writing on the State plan under this subsection.
 
-&emsp;An eligible agency not choosing to consolidate funds under section 2372 of this title shall fulfill the plan or application submission requirements of this section, and section 2371(c) of this title, by submitting a single State plan. In such plan, the eligible agency may allow recipients to fulfill the plan or application submission requirements of section 2354 of this title and subsections (a) and (b) of section 2374 of this title by submitting a single local plan.
-
-#### (2) Plan submitted as part of combined plan
-
-&emsp;The eligible agency may submit the plan required under this section as part of the plan submitted under section 3113 of title 29, if the plan submitted pursuant to the requirement of this section meets the requirements of this chapter.
-
-#### (e) Plan approval
+#### (e) Consultation
 
 #### (1) In general
 
-&emsp;The Secretary shall approve a State plan, or a revision to an approved State plan, unless the Secretary determines that—
+&emsp;The eligible agency shall develop the portion of each State plan relating to the amount and uses of any funds proposed to be reserved for adult career and technical education, postsecondary career and technical education, and secondary career and technical education after consultation with—
 
-&emsp;&emsp;(A) the State plan, or revision, respectively, does not meet the requirements of this chapter; or
+&emsp;&emsp;(A) the State agency responsible for supervision of community colleges, technical institutes, other 2-year postsecondary institutions primarily engaged in providing postsecondary career and technical education, or, where applicable, institutions of higher education that are engaged in providing postsecondary career and technical education as part of their mission;
 
-&emsp;&emsp;(B) the State's levels of performance on the core indicators of performance consistent with section 2323 of this title are not sufficiently rigorous to meet the purpose of this chapter.
+&emsp;&emsp;(B) the State agency responsible for secondary education; and
+
+&emsp;&emsp;(C) the State agency responsible for adult education.
+
+#### (2) Objections of State agencies
+
+&emsp;If a State agency other than the eligible agency finds that a portion of the final State plan is objectionable, that objection shall be filed together with the State plan. The eligible agency shall respond to any objections of such State agency in the State plan submitted to the Secretary.
+
+#### (3) Joint signature authority
+
+&emsp;A Governor shall have 30 days prior to the eligible agency submitting the State plan to the Secretary to sign such plan. If the Governor has not signed the plan within 30 days of delivery by the eligible agency to the Governor, the eligible agency shall submit the plan to the Secretary without such signature.
+
+#### (f) Plan approval
+
+#### (1) In general
+
+&emsp;Not later than 120 days after the eligible agency submits its State plan, the Secretary shall approve such State plan, or a revision of the plan under subsection (a)(2) (including a revision of State determined levels of performance in accordance with section 2323(b)(3)(A)(iii) of this title), if the Secretary determines that the State has submitted in its State plan State determined levels of performance that meet the criteria established in section 2323(b)(3) of this title, including the minimum requirements described in section 2323(b)(3)(A)(i)(III) of this title, unless the Secretary—
+
+&emsp;&emsp;(A) determines that the State plan does not meet the requirements of this chapter, including the minimum requirements as described in section 2323(b)(3)(A)(i)(III) of this title; and
+
+&emsp;&emsp;(B) meets the requirements of paragraph (2) with respect to such plan.
 
 #### (2) Disapproval
 
-&emsp;The Secretary shall not finally disapprove a State plan, except after giving the eligible agency notice and an opportunity for a hearing.
+&emsp;The Secretary—
 
-#### (3) Consultation
+&emsp;&emsp;(A) shall have the authority to disapprove a State plan only if the Secretary—
 
-&emsp;The eligible agency shall develop the portion of each State plan relating to the amount and uses of any funds proposed to be reserved for adult career and technical education, postsecondary career and technical education, tech prep education, and secondary career and technical education after consultation with the State agency responsible for supervision of community colleges, technical institutes, or other 2-year postsecondary institutions primarily engaged in providing postsecondary career and technical education, and the State agency responsible for secondary education. If a State agency finds that a portion of the final State plan is objectionable, the State agency shall file such objections with the eligible agency. The eligible agency shall respond to any objections of the State agency in the State plan submitted to the Secretary.
+&emsp;&emsp;&emsp;(i) determines how the State plan fails to meet the requirements of this chapter; and
 
-#### (4) Timeframe
+&emsp;&emsp;&emsp;(ii) provides to the eligible agency, in writing, notice of such determination and the supporting information and rationale to substantiate such determination; and
 
-&emsp;A State plan shall be deemed approved by the Secretary if the Secretary has not responded to the eligible agency regarding the State plan within 90 days of the date the Secretary receives the State plan.
+&emsp;&emsp;(B) shall not finally disapprove a State plan, except after making the determination and providing the information described in subparagraph (A), and giving the eligible agency notice and an opportunity for a hearing.
 
-(Pub. L. 88–210, title I, §122, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 715; amended Pub. L. 113–128, title V, §512(e)(3), July 22,2014, 128 Stat. 1706; Pub. L. 114–95, title IX, §9215(n)(6), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, §122, July 31, 2018, 132 Stat. 1600.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–224, §4, title I, §122, July 31, 2018, 132 Stat. 1564, 1600, made amendments to this section, effective July 1, 2019. After July 1, 2019, this section will read as follows:</i>
-
-#### <i>§2342. State plan</i>
-
-#### <i>(a) State plan</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>Each eligible agency desiring assistance under this subchapter for any fiscal year shall prepare and submit to the Secretary a State plan for a 4-year period, consistent with subsection (b) and paragraph (5), together with such annual revisions as the eligible agency determines to be necessary, except that, during the period described in section 2303 of this title, each eligible agency may submit a transition plan that shall fulfill the eligible agency's obligation to submit a State plan under this section for the first fiscal year following July 31, 2018.</i>
-
-#### <i>(2) Revisions</i>
-
-&emsp;<i>Each eligible agency—</i>
-
-&emsp;&emsp;<i>(A) may submit such annual revisions of the State plan to the Secretary as the eligible agency determines to be necessary; and</i>
-
-&emsp;&emsp;<i>(B) shall, after the second year of the 4-year period, conduct a review of activities assisted under this subchapter and submit any revisions of the State plan that the eligible agency determines necessary to the Secretary.</i>
-
-#### <i>(3) Hearing process</i>
-
-&emsp;<i>The eligible agency shall conduct public hearings in the State, after appropriate and sufficient notice, for the purpose of affording all segments of the public and interested organizations and groups (including teachers, faculty, specialized instructional support personnel, paraprofessionals, school leaders, authorized public chartering agencies and charter school leaders (consistent with State law), employers, labor organizations, parents, students, Indian Tribes and Tribal organizations that may be present in the State, and community organizations), an opportunity to present their views and make recommendations regarding the State plan. A summary of such recommendations and the eligible agency's response to such recommendations shall be included in the State plan.</i>
-
-#### <i>(4) Public comment</i>
-
-&emsp;<i>Each eligible agency shall make the State plan publicly available for public comment for a period of not less than 30 days, by electronic means and in an easily accessible format, prior to submission to the Secretary for approval under this subsection. In the plan the eligible agency files under this subsection, the eligible agency shall provide an assurance that public comments were taken into account in the development of the State plan.</i>
-
-#### <i>(5) Optional submission of subsequent plans</i>
-
-&emsp;<i>An eligible agency may, after the first 4-year State plan is submitted under this section, submit subsequent 4-year plans not later than 120 days prior to the end of the 4-year period covered by the preceding State plan or, if an eligible agency chooses not to submit a State plan for a subsequent 4-year period, the eligible agency shall submit, and the Secretary shall approve, annual revisions to the State determined levels of performance in the same manner as revisions submitted and approved under section 2323(b)(3)(A)(ii) of this title.</i>
-
-#### <i>(b) Options for submission of State plan</i>
-
-#### <i>(1) Combined plan</i>
-
-&emsp;<i>The eligible agency may submit a combined plan that meets the requirements of this section and the requirements of section 3113 of title 29.</i>
-
-#### <i>(2) Notice to Secretary</i>
-
-&emsp;<i>The eligible agency shall inform the Secretary of whether the eligible agency intends to submit a combined plan described in paragraph (1) or a single plan.</i>
-
-#### <i>(c) Plan development</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>The eligible agency shall—</i>
-
-&emsp;&emsp;<i>(A) develop the State plan in consultation with—</i>
-
-&emsp;&emsp;&emsp;<i>(i) representatives of secondary and postsecondary career and technical education programs, including eligible recipients and representatives of 2-year minority-serving institutions and historically Black colleges and universities and tribally controlled colleges or universities in States where such institutions are in existence, adult career and technical education providers, and charter school representatives in States where such schools are in existence, which shall include teachers, faculty, school leaders, specialized instructional support personnel, career and academic guidance counselors, and paraprofessionals;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) interested community representatives, including parents, students, and community organizations;</i>
-
-&emsp;&emsp;&emsp;<i>(iii) representatives of the State workforce development board established under section 3111 of title 29 (referred to in this section as the "State board");</i>
-
-&emsp;&emsp;&emsp;<i>(iv) members and representatives of special populations;</i>
-
-&emsp;&emsp;&emsp;<i>(v) representatives of business and industry (including representatives of small business), which shall include representatives of industry and sector partnerships in the State, as appropriate, and representatives of labor organizations in the State;</i>
-
-&emsp;&emsp;&emsp;<i>(vi) representatives of agencies serving out-of-school youth, homeless children and youth, and at-risk youth, including the State Coordinator for Education of Homeless Children and Youths established or designated under section 11432(d)(3) of title 42;</i>
-
-&emsp;&emsp;&emsp;<i>(vii) representatives of Indian Tribes and Tribal organizations located in, or providing services in, the State; and</i>
-
-&emsp;&emsp;&emsp;<i>(viii) individuals with disabilities; and</i>
-
-&emsp;&emsp;<i>(B) consult the Governor of the State, and the heads of other State agencies with authority for career and technical education programs that are not the eligible agency, with respect to the development of the State plan.</i>
-
-#### <i>(2) Activities and procedures</i>
-
-&emsp;<i>The eligible agency shall develop effective activities and procedures, including access to infor</i><i>mation needed to use such procedures, to allow the individuals and entities described in paragraph (1) to participate in State and local decisions that relate to development of the State plan.</i>
-
-#### <i>(3) Consultation with the Governor</i>
-
-&emsp;<i>The consultation described in paragraph (1)(B) shall include meetings of officials from the eligible agency and the Governor's office and shall occur—</i>
-
-&emsp;&emsp;<i>(A) during the development of such plan; and</i>
-
-&emsp;&emsp;<i>(B) prior to submission of the plan to the Secretary.</i>
-
-#### <i>(d) Plan contents</i>
-
-<i>The State plan shall include—</i>
-
-&emsp;<i>(1) a summary of State-supported workforce development activities (including education and training) in the State, including the degree to which the State's career and technical education programs and programs of study are aligned with and address the education and skill needs of the employers in the State identified by the State board;</i>
-
-&emsp;<i>(2) the State's strategic vision and set of goals for preparing an educated and skilled workforce (including special populations) and for meeting the skilled workforce needs of employers, including in existing and emerging in-demand industry sectors and occupations as identified by the State, and how the State's career and technical education programs will help to meet these goals;</i>
-
-&emsp;<i>(3) a strategy for any joint planning, alignment, coordination, and leveraging of funds—</i>
-
-&emsp;&emsp;<i>(A) between the State's career and technical education programs and programs of study with the State's workforce development system, to achieve the strategic vision and goals described in paragraph (2), including the core programs defined in section 3102 of title 29 and the elements related to system alignment under section 3112(b)(2)(B) of title 29; and</i>
-
-&emsp;&emsp;<i>(B) for programs carried out under this subchapter with other Federal programs, which may include programs funded under the Elementary and Secondary Education Act of 1965 and the Higher Education Act of 1965;</i>
-
-&emsp;<i>(4) a description of the career and technical education programs or programs of study that will be supported, developed, or improved at the State level, including descriptions of—</i>
-
-&emsp;&emsp;<i>(A) the programs of study to be developed at the State level and made available for adoption by eligible recipients;</i>
-
-&emsp;&emsp;<i>(B) the process and criteria to be used for approving locally developed programs of study or career pathways, including how such programs address State workforce development and education needs and the criteria to assess the extent to which the local application under section 2352 of this title will—</i>
-
-&emsp;&emsp;&emsp;<i>(i) promote continuous improvement in academic achievement and technical skill attainment;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) expand access to career and technical education for special populations; and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) support the inclusion of employability skills in programs of study and career pathways;</i>
-
-&emsp;&emsp;<i>(C) how the eligible agency will—</i>
-
-&emsp;&emsp;&emsp;<i>(i) make information on approved programs of study and career pathways (including career exploration, work-based learning opportunities, early college high schools, and dual or concurrent enrollment program opportunities) and guidance and advisement resources, available to students (and parents, as appropriate), representatives of secondary and postsecondary education, and special populations, and to the extent practicable, provide that information and those resources in a language students, parents, and educators can understand;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) facilitate collaboration among eligible recipients in the development and coordination of career and technical education programs and programs of study and career pathways that include multiple entry and exit points;</i>
-
-&emsp;&emsp;&emsp;<i>(iii) use State, regional, or local labor market data to determine alignment of eligible recipients' programs of study to the needs of the State, regional, or local economy, including in-demand industry sectors and occupations identified by the State board, and to align career and technical education with such needs, as appropriate;</i>
-
-&emsp;&emsp;&emsp;<i>(iv) ensure equal access to approved career and technical education programs of study and activities assisted under this chapter for special populations;</i>
-
-&emsp;&emsp;&emsp;<i>(v) coordinate with the State board to support the local development of career pathways and articulate processes by which career pathways will be developed by local workforce development boards, as appropriate;</i>
-
-&emsp;&emsp;&emsp;<i>(vi) support effective and meaningful collaboration between secondary schools, postsecondary institutions, and employers to provide students with experience in, and understanding of, all aspects of an industry, which may include work-based learning such as internships, mentorships, simulated work environments, and other hands-on or inquiry-based learning activities; and</i>
-
-&emsp;&emsp;&emsp;<i>(vii) improve outcomes and reduce performance gaps for CTE concentrators, including those who are members of special populations; and</i>
-
-&emsp;&emsp;<i>(D) how the eligible agency may include the opportunity for secondary school students to participate in dual or concurrent enrollment programs, early college high school, or competency-based education;</i>
-
-&emsp;<i>(5) a description of the criteria and process for how the eligible agency will approve eligible recipients for funds under this chapter, including how—</i>
-
-&emsp;&emsp;<i>(A) each eligible recipient will promote academic achievement;</i>
-
-&emsp;&emsp;<i>(B) each eligible recipient will promote skill attainment, including skill attainment that leads to a recognized postsecondary credential; and</i>
-
-&emsp;&emsp;<i>(C) each eligible recipient will ensure the comprehensive needs assessment under section 2354(c) of this title takes into consideration local economic and education needs, including, where appropriate, in-demand industry sectors and occupations;</i>
-
-&emsp;<i>(6) a description of how the eligible agency will support the recruitment and preparation of teach</i><i>ers, including special education teachers, faculty, school principals, administrators, specialized instructional support personnel, and paraprofessionals to provide career and technical education instruction, leadership, and support, including professional development that provides the knowledge and skills needed to work with and improve instruction for special populations;</i>
-
-&emsp;<i>(7) a description of how the eligible agency will use State leadership funds under section 2344 of this title;</i>
-
-&emsp;<i>(8) a description of how funds received by the eligible agency through the allotment made under section 2321 of this title will be distributed—</i>
-
-&emsp;&emsp;<i>(A) among career and technical education at the secondary level, or career and technical education at the postsecondary and adult level, or both, including how such distribution will most effectively provide students with the skills needed to succeed in the workplace; and</i>
-
-&emsp;&emsp;<i>(B) among any consortia that may be formed among secondary schools and eligible institutions, and how funds will be distributed among the members of the consortia, including the rationale for such distribution and how it will most effectively provide students with the skills needed to succeed in the workplace;</i>
-
-&emsp;<i>(9) a description of the eligible agency's program strategies for special populations, including a description of how individuals who are members of special populations—</i>
-
-&emsp;&emsp;<i>(A) will be provided with equal access to activities assisted under this chapter;</i>
-
-&emsp;&emsp;<i>(B) will not be discriminated against on the basis of status as a member of a special population;</i>
-
-&emsp;&emsp;<i>(C) will be provided with programs designed to enable individuals who are members of special populations to meet or exceed State determined levels of performance described in section 2323 of this title, and prepare special populations for further learning and for high-skill, high-wage, or in-demand industry sectors or occupations;</i>
-
-&emsp;&emsp;<i>(D) will be provided with appropriate accommodations; and</i>
-
-&emsp;&emsp;<i>(E) will be provided instruction and work-based learning opportunities in integrated settings that support competitive, integrated employment;</i>
-
-&emsp;<i>(10) a description of the procedure the eligible agency will adopt for determining State determined levels of performance described in section 2323 of this title, which, at a minimum, shall include—</i>
-
-&emsp;&emsp;<i>(A) a description of the process for public comment under section 2323(b)(3)(B) of this title as part of the development of the State determined levels of performance under section 2323(b) of this title;</i>
-
-&emsp;&emsp;<i>(B) an explanation of the State determined levels of performance; and</i>
-
-&emsp;&emsp;<i>(C) a description of how the State determined levels of performance set by the eligible agency align with the levels, goals, and objectives of other Federal and State laws;</i>
-
-&emsp;<i>(11) a description of how the eligible agency will address disparities or gaps in performance, as described in section 2323(b)(3)(C)(ii)(II) of this title, in each of the plan years, and if no meaningful progress has been achieved prior to the third program year, a description of the additional actions the eligible agency will take to eliminate these disparities or gaps;</i>
-
-&emsp;<i>(12) describes how the eligible agency will involve parents, academic and career and technical education teachers, administrators, faculty, career guidance and academic counselors, local business (including small businesses), labor organizations, and representatives of Indian Tribes and Tribal organizations, as appropriate, in the planning, development, implementation, and evaluation of such career and technical education programs; and</i>
-
-&emsp;<i>(13) assurances that—</i>
-
-&emsp;&emsp;<i>(A) the eligible agency will comply with the requirements of this chapter and the provisions of the State plan, including the provision of a financial audit of funds received under this chapter, which may be included as part of an audit of other Federal or State programs;</i>
-
-&emsp;&emsp;<i>(B) none of the funds expended under this chapter will be used to acquire equipment (including computer software) in any instance in which such acquisition results in a direct financial benefit to any organization representing the interests of the acquiring entity or the employees of the acquiring entity, or any affiliate of such an organization;</i>
-
-&emsp;&emsp;<i>(C) the eligible agency will use the funds to promote preparation for high-skill, high-wage, or in-demand industry sectors or occupations and non-traditional fields, as identified by the eligible agency;</i>
-
-&emsp;&emsp;<i>(D) the eligible agency will use the funds provided under this chapter to implement career and technical education programs and programs of study for individuals in State correctional institutions, including juvenile justice facilities; and</i>
-
-&emsp;&emsp;<i>(E) the eligible agency will provide local educational agencies, area career and technical education schools, and eligible institutions in the State with technical assistance, including technical assistance on how to close gaps in student participation and performance in career and technical education programs; and</i>
-
-&emsp;<i>(14) a description of the opportunities for the public to comment in person and in writing on the State plan under this subsection.</i>
-
-#### <i>(e) Consultation</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>The eligible agency shall develop the portion of each State plan relating to the amount and uses of any funds proposed to be reserved for adult career and technical education, postsecondary career and technical education, and secondary career and technical education after consultation with—</i>
-
-&emsp;&emsp;<i>(A) the State agency responsible for supervision of community colleges, technical institutes, other 2-year postsecondary institutions primarily engaged in providing postsecondary career and technical education, or, where applicable, institutions of higher education that are engaged in providing postsecondary career and technical education as part of their mission;</i>
-
-&emsp;&emsp;<i>(B) the State agency responsible for secondary education; and</i>
-
-&emsp;&emsp;<i>(C) the State agency responsible for adult education.</i>
-
-#### <i>(2) Objections of State agencies</i>
-
-&emsp;<i>If a State agency other than the eligible agency finds that a portion of the final State plan is objectionable, that objection shall be filed together with the State plan. The eligible agency shall respond to any objections of such State agency in the State plan submitted to the Secretary.</i>
-
-#### <i>(3) Joint signature authority</i>
-
-&emsp;<i>A Governor shall have 30 days prior to the eligible agency submitting the State plan to the Secretary to sign such plan. If the Governor has not signed the plan within 30 days of delivery by the eligible agency to the Governor, the eligible agency shall submit the plan to the Secretary without such signature.</i>
-
-#### <i>(f) Plan approval</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>Not later than 120 days after the eligible agency submits its State plan, the Secretary shall approve such State plan, or a revision of the plan under subsection (a)(2) (including a revision of State determined levels of performance in accordance with section 2323(b)(3)(A)(iii) of this title), if the Secretary determines that the State has submitted in its State plan State determined levels of performance that meet the criteria established in section 2323(b)(3) of this title, including the minimum requirements described in section 2323(b)(3)(A)(i)(III) of this title, unless the Secretary—</i>
-
-&emsp;&emsp;<i>(A) determines that the State plan does not meet the requirements of this chapter, including the minimum requirements as described in section 2323(b)(3)(A)(i)(III) of this title; and</i>
-
-&emsp;&emsp;<i>(B) meets the requirements of paragraph (2) with respect to such plan.</i>
-
-#### <i>(2) Disapproval</i>
-
-&emsp;<i>The Secretary—</i>
-
-&emsp;&emsp;<i>(A) shall have the authority to disapprove a State plan only if the Secretary—</i>
-
-&emsp;&emsp;&emsp;<i>(i) determines how the State plan fails to meet the requirements of this chapter; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) provides to the eligible agency, in writing, notice of such determination and the supporting information and rationale to substantiate such determination; and</i>
-
-&emsp;&emsp;<i>(B) shall not finally disapprove a State plan, except after making the determination and providing the information described in subparagraph (A), and giving the eligible agency notice and an opportunity for a hearing.</i>
-
-<i>See 2018 Amendment notes below.</i>
+(Pub. L. 88–210, title I, §122, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 715; amended Pub. L. 113–128, title V, §512(e)(3), July 22, 2014, 128 Stat. 1706; Pub. L. 114–95, title IX, §9215(n)(6), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, §122, July 31, 2018, 132 Stat. 1600.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(2)(G), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title II of the Act is classified generally to subchapter II (§6601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title II of the Act is classified generally to subchapter II (§6601 et seq.) of chapter 70 of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (c)(2)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (d)(3)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
@@ -491,4 +265,8 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "a description of".</i>
+
+<i><sup>2</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

@@ -1,6 +1,6 @@
 ### §6316. Administration, penalties, enforcement, and preemption
 
-(a) The provisions of section 6296(a), (b), and (d) of this title, the provisions of subsections (l) through (s) of section 6295 of this title, and section <sup>1</sup> 6297 through 6306 of this title shall apply with respect to this part (other than the equipment specified in subparagraphs (B), (C), (D), (I), (J), and (K) of section 6311(1) of this title) to the same extent and in the same manner as they apply in part A. In applying such provisions for the purposes of this part—
+(a) The provisions of section 6296(a), (b), and (d) of this title, the provisions of subsections (l) through (s) of section 6295 of this title, and section <sup>1</sup> 6297 through 6306 of this title shall apply with respect to this part (other than the equipment specified in subparagraphs (B), (C), (D), (I), (J), and (K) of section 6311(1) of this title) to the same extent and in the same manner as theyapply in part A. In applying such provisions for the purposes of this part—
 
 &emsp;(1) references to sections 6293, 6294, and 6295 of this title shall be considered as references to sections 6314, 6315, and 6313 of this title, respectively;
 
@@ -42,11 +42,11 @@
 
 (2) Any State or local standard issued before August 8, 2005, shall not be preempted until the standards established under section 6313(a)(9) of this title take effect on January 1, 2010.
 
-(e)(1)(A) Subsections (a), (b), and (d) of section 6296 of this title, subsections (m) through (s) of section 6295 of this title, and sections 6298 through 6306 of this title shall apply with respect to commercial refrigerators, freezers, and refrigerator-freezers to the same extent and inthe same manner as those provisions apply under part A.
+(e)(1)(A) Subsections (a), (b), and (d) of section 6296 of this title, subsections (m) through (s) of section 6295 of this title, and sections 6298 through 6306 of this title shall apply with respect to commercial refrigerators, freezers, and refrigerator-freezers to the same extent and in the same manner as those provisions apply under part A.
 
 (B) In applying those provisions to commercial refrigerators, freezers, and refrigerator-freezers, paragraphs (1), (2), (3), and (4) of subsection (a) shall apply.
 
-(2)(A) Section 6297 of this title shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under paragraphs (2) and (3) of section 6313(c) of this title to the same extent and in the same manner as those provisions apply under part A on August 8, 2005, except that any State or local standard issued before August 8, 2005, shall not be preempted until the standards established under paragraphs (2) and (3) of section 6313(c) of this title take effect.
+(2)(A) Section 6297 of this title shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under paragraphs (2) and (3) of section 6313(c) of this title to the same extent and in the same manner as those provisions apply under part A on August 8, 2005, except that any State or local standard issued before August 8, 2005,shall not be preempted until the standards established under paragraphs (2) and (3) of section 6313(c) of this title take effect.
 
 (B) In applying section 6297 of this title in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) shall apply.
 
@@ -108,7 +108,7 @@ In general.—Except as otherwise provided in this subsection, section 6297 of t
 
 &emsp;&emsp;&emsp;(ii)
 
-State standards.—Any State standard prescribed before December 19, 2007, shall not be preempted until the standards established under paragraphs (1) and (2) of section 6313(f) of this title take effect.
+State standards.—Any State standard prescribed before December 19, 2007,shall not be preempted until the standards established under paragraphs (1) and (2) of section 6313(f) of this title take effect.
 
 &emsp;&emsp;(B)
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 112–210 effective as if included in the Energy Independen
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

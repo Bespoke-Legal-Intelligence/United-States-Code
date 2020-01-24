@@ -8,7 +8,7 @@
 
 #### (2) Unshorn pelts, hay, and silage
 
-&emsp;Nongraded wool in the form of unshorn pelts and hay and silage derived from a loan commodity are not eligible for a marketing assistance loan under section 7931 of this title. However, effective for the 2002 through 2007 crop years, the Secretary may make loan deficiency payments available under this section to producers on a farm that produce unshorn pelts or hay and silage derived from a loan commodity.
+&emsp;Nongraded wool in the form of unshorn pelts and hay and silage derived from a loan commodity are not eligible for a marketing assistance loan under section 7931 of this title. However, effective for the 2002 through 2007 crop years, the Secretary may make loan deficiency payments available under this section to producers on a farm that produce unshornpelts or hay and silage derived from a loan commodity.
 
 #### (b) Computation
 
@@ -56,7 +56,7 @@ The Secretary shall determine the amount of the loan deficiency payment to be ma
 
 #### (1) First-time loan commodities
 
-&emsp;For the 2002 crop of wool, mohair, honey, dry peas, lentils and small chickpeas, in the case of producers of such a crop that would be eligible for a loan deficiency payment under this section except for the fact that the producers lost beneficial interest in the crop prior to the date of publication of the regulations implementing this section, the producers shall be eligible for a loan deficiency payment as of the date producers marketed or otherwise lostbeneficial interest in the crop, as determined by the Secretary.
+&emsp;For the 2002 crop of wool, mohair, honey, dry peas, lentils and small chickpeas, in the case of producers of such a crop that would be eligible for a loan deficiency payment under this section except for the fact that the producers lost beneficial interest in the crop prior to the date of publication of the regulations implementing this section, the producers shall be eligible for a loan deficiency payment as of the date producers marketed or otherwise lost beneficial interest in the crop, as determined by the Secretary.
 
 #### (2) Omitted
 

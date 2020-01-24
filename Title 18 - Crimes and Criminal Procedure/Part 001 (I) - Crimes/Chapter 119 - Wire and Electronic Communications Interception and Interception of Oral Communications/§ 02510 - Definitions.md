@@ -32,7 +32,7 @@ As used in this chapter—
 
 &emsp;(11) "aggrieved person" means a person who was a party to any intercepted wire, oral, or electronic communication or a person against whom the interception was directed;
 
-&emsp;(12) "electronic communication" means any transfer of signs, signals, writing, images, sounds, data, or intelligence of any nature transmitted in whole or in part by a wire, radio, electromagnetic, photoelectronic or photooptical system that affects interstate or foreign commerce, but does not include—
+&emsp;(12) "electronic communication" means any transfer of signs, signals, writing, images, sounds, data, or intelligence of any nature transmitted in whole or in part by a wire,radio, electromagnetic, photoelectronic or photooptical system that affects interstate or foreign commerce, but does not include—
 
 &emsp;&emsp;(A) any wire or oral communication;
 
@@ -132,7 +132,7 @@ Par. (2). Pub. L. 99–508, §101(a)(2), inserted ", but such term does not inc
 
 Par. (4). Pub. L. 99–508, §101(a)(3), inserted "or other" after "aural" and ", electronic," after "wire".
 
-Par. (5). Pub. L. 99–508, §101(a)(4), (c)(1)(A), (4), substituted "wire, oral, or electronic" for "wire or oral" in introductory provisions, substituted "provider of wire or electronic communication service" for "communications common carrier" in subpars. (a)(i) and (ii), andinserted "or furnished by such subscriber or user for connection to the facilities of such service and used in the ordinary course of its business" before the semicolon in subpar. (a)(i).
+Par. (5). Pub. L. 99–508, §101(a)(4), (c)(1)(A), (4), substituted "wire, oral, or electronic" for "wire or oral" in introductory provisions, substituted "provider of wire or electronic communication service" for "communications common carrier" in subpars. (a)(i) and (ii), and inserted "or furnished by such subscriber or user for connection to the facilities of such service and used in the ordinary course of its business" before the semicolon in subpar. (a)(i).
 
 Par. (8). Pub. L. 99–508, §101(a)(5), (c)(1)(A), substituted "wire, oral, or electronic" for "wire or oral" and struck out "identity of the parties to such communication or the existence," after "concerning the".
 
@@ -196,7 +196,7 @@ Pub. L. 90–351, title III, §801, June 19, 1968, 82 Stat. 211, provided that: 
 
 "(a) Wire communications are normally conducted through the use of facilities which form part of an interstate network. The same facilities are used for interstate and intrastate communications. There has been extensive wiretapping carried on without legal sanctions, and without the consent of any of the parties to the conversation. Electronic, mechanical, and other intercepting devices are being used to overhear oral conversations made in private, without the consent of any of the parties to such communications. The contents of these communications and evidence derived therefrom are being used by public and private parties as evidence in court and administrative proceedings, and by persons whose activities affect interstate commerce. The possession, manufacture, distribution, advertising, and use of these devices are facilitated by interstate commerce.
 
-"(b) In order to protect effectively the privacy of wire and oral communications, to protect the integrity of court and administrative proceedings, and to prevent the obstruction of interstate commerce, it is necessary for Congress to define on a uniform basis the circumstances and conditions under which the interception of wire and oral communications may be authorized, to prohibit any unauthorized interception of such communications, and the use of the contents thereof in evidence in courts and administrative proceedings.
+"(b) In order to protect effectively the privacy of wire and oral communications, to protect the integrity ofcourt and administrative proceedings, and to prevent the obstruction of interstate commerce, it is necessary for Congress to define on a uniform basis the circumstances and conditions under which the interception of wire and oral communications may be authorized, to prohibit any unauthorized interception of such communications, and the use of the contents thereof in evidence in courts and administrative proceedings.
 
 "(c) Organized criminals make extensive use of wire and oral communications in their criminal activities. The interception of such communications to obtain evidence of the commission of crimes or to prevent their commission is an indispensable aid to law enforcement and the administration of justice.
 
@@ -204,7 +204,7 @@ Pub. L. 90–351, title III, §801, June 19, 1968, 82 Stat. 211, provided that: 
 
 #### National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance
 
-Pub. L. 90–351, title III, §804, June 19, 1968, 82 Stat. 223, as amended by Pub. L. 91–452, title XII, §1212, Oct. 15, 1970, 84 Stat. 961; Pub. L. 91–644, title VI, §20, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 93–609, §§1–4, Jan. 2, 1975, 88 Stat. 1972, 1973; Pub. L. 94–176, Dec. 23, 1975, 89 Stat. 1031, established a National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance, provided for its membership,Chairman, powers and functions, compensation and allowances, required the Commission to study and review the operation of the provisions of this chapter to determine their effectiveness and to submit interim reports and a final report to the President and to the Congress of its findings and recommendations on or before Apr. 30, 1976, and also provided for its termination sixty days after submission of the final report.
+Pub. L. 90–351, title III, §804, June 19, 1968, 82 Stat. 223, as amended by Pub. L. 91–452, title XII, §1212, Oct. 15, 1970, 84 Stat. 961; Pub. L. 91–644, title VI, §20, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 93–609, §§1–4, Jan. 2, 1975, 88 Stat. 1972, 1973; Pub. L. 94–176, Dec. 23, 1975, 89 Stat. 1031, established a National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance, provided for its membership, Chairman, powers and functions, compensation and allowances, required the Commission to study and review the operation of the provisions of this chapter to determine their effectiveness and to submit interim reports and a final report to the President and to the Congress of its findings and recommendations on or before Apr. 30, 1976, and also provided for its termination sixty days after submission of the final report.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

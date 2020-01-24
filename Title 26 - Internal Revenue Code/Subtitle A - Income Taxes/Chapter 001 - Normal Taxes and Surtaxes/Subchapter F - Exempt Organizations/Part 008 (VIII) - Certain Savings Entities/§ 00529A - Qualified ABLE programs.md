@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (ii) Change in designated beneficiaries
 
-&emsp;&emsp;&emsp;Any change in the designated beneficiary of an interest in a qualified ABLE program during a taxable year shall not be treated as a distribution for purposes of subparagraph (A) if the new beneficiary isan eligible individual for such taxable year and a member of the family of the former beneficiary.
+&emsp;&emsp;&emsp;Any change in the designated beneficiary of an interest in a qualified ABLE program during a taxable year shall not be treated as a distribution for purposes of subparagraph (A) if the new beneficiary is an eligible individual for such taxable year and a member of the family of the former beneficiary.
 
 #### (iii) Limitation on certain rollovers
 
@@ -152,7 +152,7 @@ For purposes of this section—
 
 #### (2) Certain aggregated information
 
-&emsp;For research purposes, the Secretary shall make available to the public reports containing aggregate information, by diagnosis and other relevant characteristics, on contributions and distributions from the qualified ABLE program. In carrying out the preceding sentence an item may not be made available to the public if such item can be associated with, or otherwise identify, directly or indirectly, a particular individual.
+&emsp;For research purposes, the Secretary shall make available to the public reports containing aggregate information, by diagnosis and other relevant characteristics, on contributions and distributions from the qualified ABLE program. In carrying out the precedingsentence an item may not be made available to the public if such item can be associated with, or otherwise identify, directly or indirectly, a particular individual.
 
 #### (3) Notice of establishment of ABLE account
 
@@ -182,7 +182,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "disability certification" means, with respect to an individual, a certificationto the satisfaction of the Secretary by the individual or the parent or guardian of the individual that—
+&emsp;&emsp;The term "disability certification" means, with respect to an individual, a certification to the satisfaction of the Secretary by the individual or the parent or guardian of the individual that—
 
 &emsp;&emsp;&emsp;(i) certifies that—
 
@@ -250,7 +250,7 @@ Subsec. (d)(4). Pub. L. 115–141, §401(a)(129), substituted "Stephen Beck, Jr.
 
 Subsec. (e)(4). Pub. L. 115–141, §401(a)(130), substituted "section 152(d)(2)(B)" for "subparagraph section 152(d)(2)(B)".
 
-<b>2017</b>—Subsec. (b)(2). Pub. L. 115–97, §11024(a)(2), inserted at end of concluding provisions "A designatedbeneficiary (or a person acting on behalf of such beneficiary) shall maintain adequate records for purposes of ensuring, and shall be responsible for ensuring, that the requirements of subparagraph (B)(ii) are met."
+<b>2017</b>—Subsec. (b)(2). Pub. L. 115–97, §11024(a)(2), inserted at end of concluding provisions "A designated beneficiary (or a person acting on behalf of such beneficiary) shall maintain adequate records for purposes of ensuring, and shall be responsible for ensuring, that the requirements of subparagraph (B)(ii) are met."
 
 Subsec. (b)(2)(B). Pub. L. 115–97, §11024(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "except in the case of contributions under subsection (c)(1)(C), if such contribution to an ABLE account would result in aggregate contributions from all contributors to the ABLE account for the taxable year exceeding the amount in effect under section 2503(b) for the calendar year in which the taxable year begins."
 

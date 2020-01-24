@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; scope of evaluation; persons conducting evaluation
 
-The Secretary shall measure and evaluate the impact of all programs authorized by this chapter, their effectiveness in achieving stated goals in general, and in relation to their cost, their impact on related programs, their effectiveness in targeting for services under this chapter unserved older individuals with greatest economic need (including low-income minority individuals and older individuals residing in rural areas) and unserved older individuals with greatest social need (including low-income minority individuals and older individuals residing in rural areas), and their structure and mechanisms for delivery of services, including, where appropriate, comparisons with appropriate control groups composed of persons who have not participated in such programs. Evaluations shall be conducted by persons not immediately involved in the administration of the program or project evaluated.
+The Secretary shall measure and evaluate the impact of all programs authorized by this chapter, their effectiveness in achieving stated goals in general, and in relation to their cost, their impact on related programs, their effectiveness in targeting for services under this chapter unserved older individuals with greatest economic need (including low-income minority individuals and older individuals residing in rural areas) and unserved older individuals with greatest social need (including low-income minority individualsand older individuals residing in rural areas), and their structure and mechanisms for delivery of services, including, where appropriate, comparisons with appropriate control groups composed of persons who have not participated in such programs. Evaluations shall be conducted by persons not immediately involved in the administration of the program or project evaluated.
 
 #### (b) General standards
 
@@ -52,7 +52,7 @@ Subsecs. (g), (h). Pub. L. 106–501, §203(3), (4), redesignated subsec. (h) as
 
 Subsec. (g)(2). Pub. L. 103–171, §§2(5)(B), 3(a)(13), substituted "Assistant Secretary" for "Commissioner" wherever appearing and "1994" for "1993" in subpar. (B).
 
-Subsec. (g)(3). Pub. L. 103–171, §§2(5)(C), 3(a)(13), substituted "1995" for "1994" in introductory provisions and "Assistant Secretary" for "Commissioner" in subpar. (B).
+Subsec. (g)(3). Pub. L. 103–171, §§2(5)(C), 3(a)(13), substituted "1995" for "1994" in introductory provisionsand "Assistant Secretary" for "Commissioner" in subpar. (B).
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–375, §207(1), inserted "their effectiveness in targeting for services under this chapter unserved older individuals with greatest economic need (including low-income minority individuals) and unserved older individuals with greatest social need (including low-income minority individuals)," after "related programs,".
 

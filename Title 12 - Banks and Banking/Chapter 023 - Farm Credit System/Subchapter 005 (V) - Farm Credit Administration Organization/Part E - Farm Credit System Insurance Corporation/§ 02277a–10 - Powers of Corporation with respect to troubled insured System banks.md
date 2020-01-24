@@ -70,7 +70,7 @@
 
 #### (D) Rule for stand-alone assistance
 
-&emsp;&emsp;Before providing any assistance under paragraph (1), the Corporation shall evaluate the adequacy of managerial resources of theinsured System bank. The continued service of any director or senior ranking officer who serves in a policymaking role for the assisted insured System bank, as determined by the Corporation, shall be subject to approval by the Corporation as a condition of assistance.
+&emsp;&emsp;Before providing any assistance under paragraph (1), the Corporation shall evaluate the adequacy of managerial resources of the insured System bank. The continued service of any director or senior ranking officer who serves in a policymaking role for the assisted insured System bank, as determined by the Corporation, shall be subject to approval by the Corporation as a condition of assistance.
 
 #### (E) Discretionary determinations
 
@@ -122,7 +122,7 @@ As used in this section, the terms "insured System bank" and "bank" include each
 
 The Corporation shall not exercise any authority under this section during the 5-year period prior to January 1, 1993.
 
-(Pub. L. 92–181, title V, §5.61, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1616; amended Pub. L. 101–220, §6(b)(4), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 101–624, title XVIII, §1836(b), Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, §217, Feb. 10, 1996, 110 Stat. 179.)
+(Pub. L. 92–181, title V, §5.61, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1616; amended Pub. L. 101–220, §6(b)(4), Dec. 12, 1989,103 Stat. 1880; Pub. L. 101–624, title XVIII, §1836(b), Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, §217, Feb. 10, 1996, 110 Stat. 179.)
 
 #### Amendments
 

@@ -286,7 +286,7 @@ Any determination made under this section, including whether, to whom, or in wha
 
 #### (II) Foreign authorities
 
-&emsp;&emsp;&emsp;&emsp;Each of the entities described in subclauses (VII) and (VIII) of clause (i) shallmaintain such information in accordance with such assurances of confidentiality as the Commission determines appropriate.
+&emsp;&emsp;&emsp;&emsp;Each of the entities described in subclauses (VII) and (VIII) of clause (i) shall maintain such information in accordance with such assurances of confidentiality as the Commission determines appropriate.
 
 #### (3) Rights retained
 

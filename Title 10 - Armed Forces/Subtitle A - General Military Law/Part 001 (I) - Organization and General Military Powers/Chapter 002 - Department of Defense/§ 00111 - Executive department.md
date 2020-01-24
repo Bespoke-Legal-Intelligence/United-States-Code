@@ -72,6 +72,50 @@ For transfer of functions, personnel, assets, and liabilities of the Department 
 
 Missions and functions of elements of Department of Defense as specified in classified annex to Pub. L. 104–201, and related personnel, assets, and balances of appropriations and authorizations of appropriations, transferred to National Imagery and Mapping Agency, see sections 1111 and 1113 of Pub. L. 104–201, set out as notes under section 441 of this title.
 
+#### Termination of Reporting Requirements
+
+Pub. L. 116–92, div. A, title XVII, §1702(a), (b), Dec. 20, 2019, 133 Stat. 1796, provided that:
+
+"(a)
+
+Termination.—Effective on December 30, 2021, each report described in subsection (b) that is still required to be submitted to Congress as of such effectivedate shall no longer be required to be submitted to Congress.
+
+"(b)
+
+Covered Reports.—A report described in this subsection is any of the following:
+
+&emsp;"(1) The report required by section 1696(b) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) \[132 Stat. 2171\].
+
+&emsp;"(2) The report required by section 1071(b)(1) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91) \[10 U.S.C. 2501 note\].
+
+&emsp;"(3) The report required by section 1788a(d) of title 10, United States Code, as added by section 555 of such Act.
+
+&emsp;"(4) The report required under section 709(g) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 1071 note).
+
+&emsp;"(5) The report required by section 1292(a)(2) of such Act (22 U.S.C. 2751 note).
+
+&emsp;"(6) The quarterly report required by section 1236(c) of such Act \[130 Stat. 2492\].
+
+&emsp;"(7) The annual certification required by section 1666 of such Act (10 U.S.C. 2431 note) \[section 1666 of Pub. L. 114–328 (130 Stat. 2617) is not classified to the Code\].
+
+&emsp;"(8) The updates required under paragraph (3) of subsection (a) of section 1694 of such Act \[130 Stat. 2637\] to the report required under paragraph (1) of such subsection.
+
+&emsp;"(9) The notifications required by section 1695 of such Act \[130 Stat. 2638\].
+
+&emsp;"(10) The report required under section 522(g) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92) \[10 U.S.C. 503 note\]."
+
+#### Requirement for Preparation of Certain Reports to Congress by Civilian Employees of the Federal Government and Members of the Armed Forces
+
+Pub. L. 116–92, div. A, title XVII, §1702(d), Dec. 20, 2019, 133 Stat. 1796, provided that:
+
+"(1)
+
+Requirement.—Except as expressly otherwise provided in the provision of law requiring such report, any report submitted to Congress pursuant to a provision of a national defense authorization Act that is enacted on or after the date that is three years after the date of the enactment of this Act \[Dec. 20, 2019\] shall be written by civilian employees of the Federal Government, members of the Armed Forces, or both, and not by contractor employees of the Federal Government.
+
+"(2)
+
+Briefing.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall brief the Committees on Armed Services of the Senate and the House of Representatives on the actions to be taken to ensure compliance with the requirement in paragraph (1), including on any impediments to compliance with the requirement."
+
 #### Exemption to Report Termination Requirements
 
 Pub. L. 115–91, div. A, title VIII, §811(d)(2), Dec. 12, 2017, 131 Stat. 1460, provided that: "Section 1080(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1000; 10 U.S.C. 111 note), as amended by section 1061(j) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2405; 10 U.S.C. 111 note), does not apply to the report required to be submitted to Congress under section 2313a of title 10, United States Code."
@@ -102,7 +146,7 @@ Additional Cross-functional Teams Matters.—
 
 &emsp;"(1)
 
-Criteria for distinguishing among cross-functional teams.—Not later than 60 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary shall issue criteria that distinguish cross-functional teams under section 911 of the NationalDefense Authorization Act for Fiscal Year 2017 from other types of cross-functional working groups, committees, integrated product teams, and task forces of the Department.
+Criteria for distinguishing among cross-functional teams.—Not later than 60 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary shall issue criteria that distinguish cross-functional teams under section 911 of the National Defense Authorization Act for Fiscal Year 2017 from other types of cross-functional working groups, committees, integrated product teams, and task forces of the Department.
 
 &emsp;"(2)
 
@@ -142,7 +186,7 @@ Actions in Support of Strategy.—
 
 &emsp;"(1)
 
-Study.—The Department of Defense shall conduct a study of the following in order to determine how best to implement effective cross-functional teams in the Department to achieve the strategic objectives of the Secretary of Defense:
+Study.—The Department of Defense shall conduct a study of the following in order to determine how best to implement effective cross-functionalteams in the Department to achieve the strategic objectives of the Secretary of Defense:
 
 &emsp;&emsp;"(A) Lessons learned, as reflected in academic literature, business and management school case studies, and the work of leading management consultant firms, on the successful and failed application of cross-functional teams in the private sector and government, and on the cultural factors necessary to support effective cross-functional teams.
 
@@ -236,7 +280,7 @@ Directive on Collaborative Culture and Behavior.—The guidance issued by the Se
 
 &emsp;"(1) articulate the shared purposes, values, and principles for the operation of the Office of the Secretary of Defense that are required to promote a team-oriented, collaborative, results-driven culture within the Office to support the primary objectives of the Department of Defense;
 
-&emsp;"(2) ensure that collaboration across functional and organizational boundaries is an important factor in the performance review of leaders of cross-functional teams established pursuant to subsection (c), members of teams, and other appropriate leaders of the Department; and
+&emsp;"(2) ensure that collaboration across functional and organizational boundaries is an important factor in the performance review of leaders of cross-functionalteams established pursuant to subsection (c), members of teams, and other appropriate leaders of the Department; and
 
 &emsp;"(3) identify key practices that senior leaders of the Department should follow with regard to leadership, organizational practice, collaboration, and the functioning of cross-functional teams, and the types of personnel behavior that senior leaders should encourage and discourage.
 
@@ -300,11 +344,11 @@ Reports exempted from termination.—The termination dates specified in paragrap
 
 Reports Required by Title 10
 
-, United States Code.—Subject to subsection (b), subsection (a) appliesto reporting requirements contained in the following sections of title 10, United States Code:
+, United States Code.—Subject to subsection (b), subsection (a) applies to reporting requirements contained in the following sections of title 10, United States Code:
 
 &emsp;"(1) Section 113(i).
 
-&emsp;"(2) Section 117(e).
+&emsp;"(2) \[Former\] Section 117(e).
 
 &emsp;"(3) \[Section\] 118a(d).
 
@@ -482,7 +526,7 @@ Reports Required by National Defense Authorization Act for Fiscal Year 2014.—S
 
 &emsp;"(1) Section 704(e) (10 U.S.C. 1074 note).
 
-&emsp;"(2) Sections \[sic\] 713(f), (g), and (h) (10 U.S.C. 1071 note).
+&emsp;"(2) Sections \[sic\] 713(f), (g), and (h) (\[former\] 10 U.S.C. 1071 note).
 
 &emsp;"(3) Section 904(d)(2) (10 U.S.C. 111 note).
 
@@ -616,7 +660,7 @@ Report to Congress.—Not later than February 1, 2017, the Secretary of Defense 
 
 #### Reduction in Amounts Available for Department of Defense Headquarters, Administrative, and Support Activities
 
-Pub. L. 114–92, div. A, title III, §346(a), (b), Nov. 25, 2015, 129 Stat. 796, as amended by Pub. L. 115–91, div. A, title IX, §§922, 923, Dec. 12, 2017, 131 Stat. 1525, provided that:
+Pub. L. 114–92, div. A, title III, §346(a), (b), (d), Nov. 25, 2015, 129 Stat. 796, as amended by Pub. L. 115–91, div. A, title IX, §§922, 923, Dec. 12, 2017, 131 Stat. 1525; Pub. L. 116–92, div. A, title IX, §901(b), Dec. 20, 2019, 133 Stat. 1542, provided that:
 
 "(a)
 
@@ -640,7 +684,7 @@ Treatment of savings pursuant to force structure revisions.—Savings or reducti
 
 &emsp;"(5)
 
-Reports.—The Secretary shall include with the budget for the Department of Defense for each of fiscal years 2017, 2018, and 2019, as submitted to Congress pursuant to section 1105 of title 31, United States Code, a report describing and assessing theprogress of the Department in implementing the plan required by paragraph (1) and in achieving the cost savings required by that paragraph.
+Reports.—The Secretary shall include with the budget for the Department of Defense for each of fiscal years 2017, 2018, and 2019, as submitted to Congress pursuant to section 1105 of title 31, United States Code, a report describing and assessing the progress of the Department in implementing the plan required by paragraph (1) and in achieving the cost savings required by that paragraph.
 
 &emsp;"(6)
 
@@ -730,7 +774,11 @@ Certifications on cost savings achieved.—Not later than 120 days after the dat
 
 &emsp;&emsp;"(A) The validity of the cost savings achieved for each major Department of Defense headquarters activity during the previous fiscal year, including the cost of personnel detailed by another Department entity to the headquarters activity.
 
-&emsp;&emsp;"(B) Whether the cost savings achieved for each major Department of Defense headquarters activity during that fiscal year met the savings objective for the headquarters activity for that fiscal year, as established pursuant to paragraph (1)."
+&emsp;&emsp;"(B) Whether the cost savings achieved for each major Department of Defense headquarters activity during that fiscal year met the savings objective for the headquarters activity for that fiscal year, as established pursuant to paragraph (1).
+
+"(d)
+
+Sunset.—No action is required under this section with respect to any fiscal year after fiscal year 2019."
 
 #### Termination of Requirement for Submittal to Congress of Reports Required of Department of Defense by Statute
 
@@ -1090,7 +1138,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 6. Miscellaneous Provisions
 
-(a) The Secretary of Defense may from time to time effect such transfers within the Department of Defense of any of the records, property, and personnel affected by this reorganization plan, and such transfers of unexpended balances (available or to be made available for use in connection with any affected function or agency) of appropriations, allocations, and other funds of such Department, as he deems necessary to carry out the provisions of this reorganization plan.
+(a) The Secretary of Defense may from time to time effect such transfers within the Department of Defense of any of the records, property, and personnel affectedby this reorganization plan, and such transfers of unexpended balances (available or to be made available for use in connection with any affected function or agency) of appropriations, allocations, and other funds of such Department, as he deems necessary to carry out the provisions of this reorganization plan.
 
 (b) Nothing herein shall affect the compensation of the Chairman of the Military Liaison Committee (63 Stat. 762).
 

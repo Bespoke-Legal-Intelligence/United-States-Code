@@ -26,7 +26,7 @@ Each State reporting under the provisions of this section and section 41307 of t
 
 &emsp;&emsp;(C) notify the National Center for Missing and Exploited Children of each report received relating to a child reported missing from a foster care family home or childcare institution;
 
-&emsp;&emsp;(D) maintain close liaison with State and local child welfare systems and the National Center for Missing and Exploited Children for the exchange of information and technical assistance in the missing children cases; and
+&emsp;&emsp;(D) maintain close liaison with State and local child welfare systems and the NationalCenter for Missing and Exploited Children for the exchange of information and technical assistance in the missing children cases; and
 
 &emsp;&emsp;(E) grant permission to the National Crime Information Center Terminal Contractor for the State to update the missing person record in the National Crime Information Center computer networks with additional information learned during the investigation relating to the missing person.
 

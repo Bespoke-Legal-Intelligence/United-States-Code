@@ -12,7 +12,7 @@
 
 (b) It is the purpose of this chapter—
 
-&emsp;(1) to clarify, reaffirm, expand, and define the responsibilities and obligations of lessees,operators, and other persons involved in transportation or sale of oil and gas from the Federal and Indian lands and the Outer Continental Shelf;
+&emsp;(1) to clarify, reaffirm, expand, and define the responsibilities and obligations of lessees, operators, and other persons involved in transportation or sale of oil and gas from the Federal and Indian lands and the Outer Continental Shelf;
 
 &emsp;(2) to clarify, reaffirm, expand and define the authorities and responsibilities of the Secretary of the Interior to implement and maintain a royalty management system for oil and gas leases on Federal lands, Indian lands, and the Outer Continental Shelf;
 
@@ -42,7 +42,7 @@ Pub. L. 97–451, §1, Jan. 12, 1983, 96 Stat. 2447, provided that: "This Act \[
 
 #### Applicability of 1996 Amendment
 
-Pub. L. 104–185, §9, Aug. 13, 1996, 110 Stat. 1717, provided that: "The amendments made by this Act \[see Short Title of 1996 Amendment note above\] shall not apply with respect to Indian lands, and the provisions of the Federal Oil and Gas Royalty Management Act of 1982 \[30 U.S.C. 1701 et seq.\] as in effect on the day before the date of enactment of this Act \[Aug. 13, 1996\] shall continue to apply after such date with respect to Indian lands."
+Pub. L. 104–185, §9, Aug. 13, 1996, 110 Stat. 1717, provided that: "The amendments made by this Act \[see Short Title of 1996 Amendment note above\] shall not apply with respect to Indian lands, and the provisions of the Federal Oil and Gas Royalty Management Act of1982 \[30 U.S.C. 1701 et seq.\] as in effect on the day before the date of enactment of this Act \[Aug. 13, 1996\] shall continue to apply after such date with respect to Indian lands."
 
 Pub. L. 104–185, §10, Aug. 13, 1996, 110 Stat. 1717, provided that: "This Act \[see Short Title of 1996 Amendment note above\] shall not apply to any privately owned minerals."
 

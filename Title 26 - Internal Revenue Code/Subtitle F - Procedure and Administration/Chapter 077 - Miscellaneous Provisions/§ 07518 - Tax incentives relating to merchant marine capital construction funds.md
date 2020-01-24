@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The amount deposited in a fund established under chapter 535 of title 46 of the UnitedStates Code (hereinafter in this section referred to as a "capital construction fund") shall not exceed for any taxable year the sum of:
+&emsp;The amount deposited in a fund established under chapter 535 of title 46 of the United States Code (hereinafter in this section referred to as a "capital construction fund") shall not exceed for any taxable year the sum of:
 
 &emsp;&emsp;(A) that portion of the taxable income of the owner or lessee for such year (computed as provided in chapter 1 but without regard to the carryback of any net operating loss or net capital loss and without regard to this section) which is attributable to the operation of the agreement vessels in the foreign or domestic commerce of the United States or in the fisheries of the United States,
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) amounts referred to in subsection (a)(1)(C) other than that portion thereof which represents gain not taken into account by reason of subsection (c)(1)(B),
 
-&emsp;&emsp;(C) the percentage applicable under section 243(a)(1) of any dividend received by the fundwith respect to which the person maintaining the fund would (but for subsection (c)(1)(C)) be allowed a deduction under section 243, and
+&emsp;&emsp;(C) the percentage applicable under section 243(a)(1) of any dividend received by the fund with respect to which the person maintaining the fund would (but for subsection (c)(1)(C)) be allowed a deduction under section 243, and
 
 &emsp;&emsp;(D) interest income exempt from taxation under section 103.
 
@@ -164,7 +164,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (h), any withdrawal from a capital construction fundwhich is not a qualified withdrawal shall be treated as a nonqualified withdrawal.
+&emsp;Except as provided in subsection (h), any withdrawal from a capital construction fund which is not a qualified withdrawal shall be treated as a nonqualified withdrawal.
 
 #### (2) Ordering rule
 
@@ -322,7 +322,7 @@ Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–27 applicable to taxable years ending on or after May 6, 2003, see section 301(d)of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
+Amendment by Pub. L. 108–27 applicable to taxable years ending on or after May 6, 2003, see section 301(d) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

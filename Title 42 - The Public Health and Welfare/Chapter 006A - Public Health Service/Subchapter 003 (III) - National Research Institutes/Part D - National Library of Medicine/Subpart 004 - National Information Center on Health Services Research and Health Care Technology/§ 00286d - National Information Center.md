@@ -14,7 +14,7 @@ The Director of the Center shall ensure that information under subsection (b) co
 
 #### (d) Coordination with Director of the Agency for Healthcare Research and Quality
 
-The Secretary, acting through the Center, shall coordinate the activities carried out under this section through the Center with related activities of the Director of the Agency for Healthcare Research and Quality.
+The Secretary, acting through the Center, shall coordinate the activities carried out underthis section through the Center with related activities of the Director of the Agency for Healthcare Research and Quality.
 
 (July 1, 1944, ch. 373, title IV, §478A, as added Pub. L. 103–43, title XIV, §1421, June 10, 1993, 107 Stat. 171; amended Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
 

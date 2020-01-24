@@ -60,7 +60,7 @@ Grantees.—Grants under the program under this section may be made only to agen
 
 "(c)
 
-Selection Criteria.—In selecting among applications for designation of demonstration areas andgrants under this section, the Secretary shall consider—
+Selection Criteria.—In selecting among applications for designation of demonstration areas and grants under this section, the Secretary shall consider—
 
 &emsp;"(1) the extent of single family residences located in the proposed area that have rehabilitation needs;
 

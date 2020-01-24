@@ -38,7 +38,7 @@ Credit of Amounts Recovered.—The following amounts shall be credited to the ap
 
 (f)
 
-Payments of Fines and Penalties.—None of the funds appropriated to the Environmental Restoration Account, Defense, or to any environmental restoration account of a military department, may be used for the payment of a fine or penalty (including any supplemental environmental project carried out as part of such penalty) imposed against the Department of Defense or a military department unless the act or omission for which the fine or penalty is imposed arises out of an activity funded by the environmental restoration account concerned and the payment of the fine or penalty has been specifically authorized by law.
+Payments of Fines and Penalties.—None of the funds appropriated to the Environmental Restoration Account, Defense, or to any environmental restoration account of a military department, may be used for the payment of a fine or penalty (including any supplemental environmental project carried out as part of such penalty) imposed against the Department of Defense or a military department unless the act oromission for which the fine or penalty is imposed arises out of an activity funded by the environmental restoration account concerned and the payment of the fine or penalty has been specifically authorized by law.
 
 (g)
 
@@ -100,7 +100,7 @@ Subsec. (c)(4). Pub. L. 108–136, §313(a)(3), redesignated par. (4) as (2).
 
 <b>2000</b>—Subsec. (a)(5). Pub. L. 106–398, §1 \[\[div. A\], title III, §311(a)\], added par. (5).
 
-Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §312\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account only in order to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law. Funds so authorized shall remain available until expended."
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §312\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account onlyin order to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law. Funds so authorized shall remain available until expended."
 
 Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title III, §311(b)\], added subsec. (f).
 
@@ -156,5 +156,5 @@ Pub. L. 104–201, div. A, title III, §322(b), Sept. 23, 1996, 110 Stat. 2478, 
 
 #### Unobligated Balances in Defense Environmental Restoration Account
 
-Pub. L. 104–201, div. A, title III, §322(d), Sept. 23, 1996, 110 Stat. 2479, provided that: "Any unobligated balances that remain in the Defense Environmental Restoration Account under section 2703(a) of title 10, United States Code, as of the effective date specified in subsection (e) \[Oct. 1, 1996\] shall be transferred on such date to the Environmental Restoration Account, Defense, established under section 2703(a)(1) of title 10, United States Code (as amended by subsection (a)(1))."
+Pub. L. 104–201, div. A, title III, §322(d), Sept. 23, 1996, 110 Stat. 2479, provided that unobligated balances remaining in the Defense Environmental Restoration Account under this section as of Oct. 1, 1996, would be transferred on such date to the Environmental Restoration Account, Defense, established under this section.
 

@@ -2,7 +2,7 @@
 
 (a) The Administrator is authorized to issue such regulations as may be necessary to carry out the purpose of this Act.
 
-(b) The head of each Federal agency that administers a program of financial assistance relating to the acquisition, construction, reconstruction, repair, or improvement of publicly or privately owned land or facilities, and each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions, shall, in cooperation with the Administrator, issue appropriate rules and regulations to govern the carrying out of the agency's responsibilities under this Act.
+(b) The head of each Federal agency that administers a program of financial assistance relating to the acquisition, construction, reconstruction, repair, or improvement of publicly or privately owned land or facilities, and each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similarinstitutions, shall, in cooperation with the Administrator, issue appropriate rules and regulations to govern the carrying out of the agency's responsibilities under this Act.
 
 (Pub. L. 93–234, title II, §205, Dec. 31, 1973, 87 Stat. 983; Pub. L. 98–181, title I \[title IV, §451(e)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §100238(a)(1), July 6, 2012, 126 Stat. 958.)
 

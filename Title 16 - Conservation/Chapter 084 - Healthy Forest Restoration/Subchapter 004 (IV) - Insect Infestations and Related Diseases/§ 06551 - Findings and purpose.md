@@ -42,7 +42,7 @@ Congress finds that—
 
 &emsp;(B) in 2001, Florida and Kentucky experienced 146 percent and 111 percent increases, respectively, in Southern pine beetle populations;
 
-&emsp;(6) those epidemic outbreaks of Southern pine beetles have forced private landowners to harvest dead and dying trees, in rural areas and increasingly urbanized settings;
+&emsp;(6) those epidemic outbreaks of Southern pine beetles have forced private landowners toharvest dead and dying trees, in rural areas and increasingly urbanized settings;
 
 &emsp;(7) according to the Forest Service, recent outbreaks of the red oak borer in Arkansas and Missouri have been unprecedented, with more than 1,000,000 acres infested at population levels never seen before;
 

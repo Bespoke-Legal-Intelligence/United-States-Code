@@ -26,7 +26,7 @@ Each futures commission merchant shall designate an individual to serve as its C
 
 #### (e) Rules to avoid duplicative regulation of dual registrants
 
-Consistent with this chapter, the Commission, in consultation with the Securities and Exchange Commission, shall issue such rules, regulations, or orders as are necessary to avoid duplicative or conflicting regulations applicable toany futures commission merchant registered with the Commission pursuant to section 6f(a) of this title (except paragraph (2) thereof), that is also registered with the Securities and Exchange Commission pursuant to section 78o(b) of title 15 (except paragraph (11) thereof), involving the application of—
+Consistent with this chapter, the Commission, in consultation with the Securities and Exchange Commission, shall issue such rules, regulations, or orders as are necessary to avoid duplicative or conflicting regulations applicable to any futures commission merchant registered with the Commission pursuant to section 6f(a) of this title (except paragraph (2) thereof), that is also registered with the Securities and Exchange Commission pursuant to section 78o(b) of title 15 (except paragraph (11) thereof), involving the application of—
 
 &emsp;(1) section 78h, section 78o(c)(3), and section 78q of title 15 and the rules and regulations thereunder related to the treatment of customer funds, securities, or property, maintenance of books and records, financial reporting or other financial responsibility rules (as defined in section 78c(a)(40) of title 15), involving security futures products; and
 

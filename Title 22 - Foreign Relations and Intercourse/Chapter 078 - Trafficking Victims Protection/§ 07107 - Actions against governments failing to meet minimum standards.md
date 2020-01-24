@@ -218,17 +218,19 @@ The determinations referred to in subsection (c) are the following:
 
 #### (e) Certification
 
-Together with any notification under subsection (c), the President shall provide a certification by the Secretary of State that, with respect to any assistance described in clause (ii), (iii), or (v) of section 7102(8)(A) of this title, or with respect to any assistance described in section 7102(8)(B) of this title, no assistance is intended to be received or used by any agency or official who has participated in, facilitated, or condoned a severe form of trafficking in persons.
+Together with any notification under subsection (c), the President shall provide a certification by the Secretary of State that, with respect to any assistance described in clause (ii), (iii), or (v) of section 7102(8)(A) <sup>2</sup> of this title, or with respect to any assistance described in section 7102(8)(B) <sup>2</sup> of this title, no assistance is intended to be received or used by any agency or official who has participated in, facilitated, or condoned a severe form of trafficking in persons.
 
 #### (f) Subsequent waiver authority
 
 After the President has made a determination described in subsection (d)(1) with respect to the government of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) to waive, in whole or in part, the measures imposed against the country by the previous determination under subsection (d)(1).
 
-(Pub. L. 106–386, div. A, §110, Oct. 28, 2000, 114 Stat. 1482; Pub. L. 108–193, §6(e), (h), (i), Dec. 19, 2003, 117 Stat. 2882, 2884; Pub. L. 109–164, title I, §104(e)(1), Jan. 10, 2006, 119 Stat. 3565; Pub. L. 110–457, title I, §§107(a), (b), 108(b), Dec. 23, 2008,122 Stat. 5049, 5051; Pub. L. 113–4, title XII, §§1205, 1212(b)(2)(A)(i), Mar. 7, 2013, 127 Stat. 139, 143; Pub. L. 115–425, title II, §203, Jan. 8, 2019, 132 Stat. 5482; Pub. L. 115–427, §6, Jan. 9, 2019, 132 Stat. 5505.)
+(Pub. L. 106–386, div. A, §110, Oct. 28, 2000, 114 Stat. 1482; Pub. L. 108–193, §6(e), (h), (i), Dec. 19, 2003, 117 Stat. 2882, 2884; Pub. L. 109–164, title I,§104(e)(1), Jan. 10, 2006, 119 Stat. 3565; Pub. L. 110–457, title I, §§107(a), (b), 108(b), Dec. 23, 2008, 122 Stat. 5049, 5051; Pub. L. 113–4, title XII, §§1205, 1212(b)(2)(A)(i), Mar. 7, 2013, 127 Stat. 139, 143; Pub. L. 115–425, title II, §203, Jan. 8, 2019, 132 Stat. 5482; Pub. L. 115–427, §6, Jan. 9, 2019, 132 Stat. 5505.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (d)(4), was in the original "this division", meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
+
+Section 7102(8) of this title, referred to in subsec. (e), was redesignated section 7102(10) of this title by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 #### Amendments
 
@@ -318,7 +320,7 @@ Components.—The child protection and trafficking reduction strategies required
 
 &emsp;"(A) address the root causes of insecurity that leave children and youth vulnerable to trafficking; and
 
-&emsp;"(B) include common metrics and indicators to monitor progress across Federal agencies to prevent,address, and end violence against children and youth globally in post-conflict and post-disaster areas."
+&emsp;"(B) include common metrics and indicators to monitor progress across Federal agencies to prevent, address, and end violence against children and youth globally in post-conflict and post-disaster areas."
 
 #### Translation of Trafficking-in-Persons Report
 
@@ -328,35 +330,43 @@ Pub. L. 110–457, title I, §107(c), Dec. 23, 2008, 122 Stat. 5050, provided th
 
 &emsp;"(2) ensure that the translations described in paragraph (1) are made available to the public through postings on the Internet website of the Department of State and other appropriate websites."
 
-#### Presidential Determination With Respect to Foreign Governments' Efforts Regarding Trafficking in Persons
+#### Presidential Determination With Respect to the Efforts of Foreign Governments Regarding Trafficking in Persons
 
-Determination of President of the United States, No. 2019–05, Nov. 29, 2018, 83 F.R. 65281, provided:
+Determination of President of the United States, No. 2020–02, Oct. 18, 2019, 84 F.R. 59521, provided:
 
 Memorandum for the Secretary of State
 
 Consistent with section 110 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107) (the "Act"), as amended, I hereby determine as follows:
 
-As provided for in section 110(d)(1)(A)(i) of the Act, I determine that the United States will not provide nonhumanitarian, nontrade-related assistance to the Governments of Belarus, Belize, Bolivia, Burma, Burundi, China, Comoros, the Republic of the Congo (ROC), the Democratic Republic of the Congo (DRC), Equatorial Guinea, Gabon, Iran, Laos, Mauritania, Papua New Guinea (PNG), South Sudan, Turkmenistan, and Venezuela for Fiscal Year (FY) 2019 until such governments comply with the minimum standards or make significant efforts to bring themselves into compliance with the Act.
+As provided for in section 110(d)(1)(A)(i) of the Act, and subject to the determinations below regarding assistance related to the Ebola virus disease and meeting minimum standards for the elimination of trafficking in persons, I determine that the United States will not provide nonhumanitarian, nontrade-related assistance to the Governments of Burundi, China, Equatorial Guinea, Eritrea, The Gambia, Iran, and Mauritania for Fiscal Year (FY) 2020 until such governments comply with the Act's minimum standards or make significant efforts to bring themselves into compliance with the minimum standards.
 
-As provided for in section 110(d)(1)(A)(ii) of the Act, I determine that the United States will not provide nonhumanitarian, nontrade-related assistance to, or allow funding for participation in educational and cultural exchange programs by officials or employees of, the Governments of Eritrea, the Democratic People's Republic of Korea (DPRK), Russia, and Syria for FY 2019 until such governments comply with the Act's minimum standards or make significant efforts to bring themselves into compliance with the Act.
+As provided for in section 110(d)(1)(A)(ii) of the Act, and subject to the determinations below regarding assistance related to the Ebola virus disease and meeting minimum standards for the elimination of trafficking in persons, I determine that the United States will not provide nonhumanitarian, nontrade-related assistance to, or allow funding for participation in educational and cultural exchange programs by officials or employees of, the Governments of Cuba, the Democratic People's Republic of Korea (DPRK), Russia, and Syria for FY 2020 until such governments comply with the Act's minimum standards for the elimination of trafficking or make significant efforts to bring themselves into compliance with the minimum standards.
 
-As provided for in section 110(d)(1)(B) of the Act, I hereby instruct the United States Executive Director of each multilateral development bank, as defined in the Act, and of the International Monetary Fund to vote against and use best efforts to deny any loan or other utilization of the funds of the respective institution (other than for humanitarian assistance; for trade-related assistance; or for development assistance that directly addresses basic human needs, is not administered by the government of such country, and confers no benefit to that government) for the Governments of Bolivia, Burma, Burundi, China, Comoros, ROC, DRC, DPRK, Equatorial Guinea, Gabon, Iran, Laos, Mauritania, Russia, South Sudan, Syria, and Venezuela for FY 2019 until such governments comply with the minimum standards or make significant efforts to bring themselves into compliance with the Act.
+As provided for in section 110(d)(1)(B) of the Act, and subject to the determinations below regarding assistance related to the Ebola virus disease and meeting minimum standards for the elimination of trafficking in persons, I hereby instruct the United States Executive Director of each multilateral development bank, as defined in the Act, and of the International Monetary Fund to vote against and use best efforts to deny any loan or other utilization of the funds of the respective institution (other than for humanitarian assistance; for trade-related assistance; or for development assistance that directly addresses basic human needs, is not administered by the government of such country, and confers no benefit to that government) for the Governments of Burundi, China, Cuba, the DPRK, Equatorial Guinea, Eritrea, The Gambia, Iran, Mauritania, Russia, Saudi Arabia, South Sudan, and Syria for FY 2020 until such governments comply with the Act's minimum standards or make significant efforts to bring themselves into compliance with the minimum standards.
 
-Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow International Military Education and Training (IMET), Foreign Military Financing (FMF), and Foreign Military Sales (FMS) related to FMF with respect to Belize would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow assistance described in section 110(d)(1) of the Act for programs, projects, activities, and assistance to respond to the threat posed by the Ebola virus disease would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow assistance described in section 110(d)(1)(A)(i) of the Act with respect to PNG—with the exception of Peacekeeping Operations (PKO), FMS not related to FMF, and Excess Defense Articles (EDA)—would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow assistance described in section 110(d)(1) of the Act for programs, projects, activities, and assistance designed to meet the minimum standards for the elimination of trafficking in persons would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Consistent with section 110(d)(4) of the Act, I determine that a partial waiver with respect to Eritrea to allow funding for educational and cultural exchange programs described in section 110(d)(1)(A)(ii) of the Act, and a partial waiver to allow assistance described in section 110(d)(1)(A)(ii) of the Act with respect to Eritrea—with the exception of FMF, FMS, IMET, EDA, and PKO—would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow Economic Support Fund (ESF) assistance, Democracy Fund (DF) assistance, and technical assistance under section 129 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151aa\] with respect to Burma would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Consistent with section 110(d)(4) of the Act, I determine that the provision of all programs, projects, and activities described in section 110(d)(1)(A)(i) of the Act to the Governments of Belarus and Turkmenistan would promote the purposes of the Act or is otherwise in the national interest of the United States; and
+Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow assistance described in section 110(d)(1)(A)(i) of the Act with respect to the Democratic Republic of the Congo (DRC)—with the exception of Foreign Military Financing, Foreign Military Sales (FMS), and excess defense articles—would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Consistent with section 110(d)(4) of the Act, I determine that providing assistance described in section 110(d)(1)(B) of the Act to Belarus, Belize, Eritrea, PNG, and Turkmenistan would promote the purposes of the Act or is otherwise in the national interest of the United States.
+Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow FMS with respect to Saudi Arabia would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-You are authorized and directed to submit this determination, the certification required by section 110(e) of the Act, and the Department of State's Memorandum of Justification, on which I have relied, to the Congress, and to publish the determination in the Federal Register.
+Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow Peacekeeping Operations (PKO) assistance with respect to South Sudan would promote the purposes of the Act or is otherwise in the national interest of the United States;
+
+Consistent with section 110(d)(4) of the Act, I determine that the provision of all programs, projects, and activities described in section 110(d)(1)(A)(i) of the Act with respect to the Governments of Belarus, Bhutan, Comoros, Papua New Guinea (PNG), Turkmenistan, and Venezuela would promote the purposes of the Act or is otherwise in the national interest of the United States; and
+
+Consistent with section 110(d)(4) of the Act, I determine that providing the assistance described in section 110(d)(1)(B) of the Act to Belarus, Bhutan, Burma, Comoros, the DRC, PNG, Turkmenistan, and Venezuela would promote the purposes of the Act or is otherwise in the national interest of the United States.
+
+You are authorized and directed to submit this determination, the certification required by section 110(e) of the Act, and the Memorandum of Justification, on which I have relied, to the Congress, and to publish the determination in the Federal Register.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior determinations and certifications regarding trafficking in persons were contained in the following:
+
+Determination of President of the United States, No. 2019–05, Nov. 29, 2018, 83 F.R. 65281.
 
 Determination of President of the United States, No. 2017–15, Sept. 30, 2017, 82 F.R. 50047.
 
@@ -419,4 +429,6 @@ Memorandum of President of the United States, July 29, 2013, 78 F.R. 48027.—Sy
 Memorandum of President of the United States, Feb. 3, 2012, 77 F.R. 11375.—Burma, fiscal year 2012.
 
 <i><sup>1</sup></i><i> So in original. No subpar. (C) has been enacted.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

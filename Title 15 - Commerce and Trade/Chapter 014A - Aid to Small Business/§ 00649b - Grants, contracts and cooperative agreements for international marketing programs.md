@@ -168,7 +168,7 @@ Federal Share.—The Federal share of the cost of an export program carried out 
 
 "(f)
 
-Non-Federal Share.—The non-Federal share of the cost of an export program carried \[out\] using a grant under the program shall be comprised of not less than 50 percent cash and not more than 50 percent of indirect costs and in-kind contributions, except that no such costs or contributions may be derived from funds from any other Federal program.
+Non-Federal Share.—The non-Federal share of the cost of an export program carried \[out\] using a grant under the program shall be comprised of not less than 50 percent cash and not more than 50 percent of indirect costs and in-kind contributions, except that nosuch costs or contributions may be derived from funds from any other Federal program.
 
 "(g)
 

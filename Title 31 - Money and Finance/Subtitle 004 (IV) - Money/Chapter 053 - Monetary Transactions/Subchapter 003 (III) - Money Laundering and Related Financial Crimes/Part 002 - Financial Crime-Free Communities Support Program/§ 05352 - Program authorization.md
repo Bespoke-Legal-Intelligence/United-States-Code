@@ -18,7 +18,7 @@ Accountability.â€”The State or local law enforcement agency or prosecutor shallâ
 
 &emsp;&emsp;&emsp;(ii) approved by the Secretary;
 
-&emsp;&emsp;(B) conduct biennial surveys (or incorporate local surveys in existence at the timeof the evaluation) to measure the progress and effectiveness of the coalition; and
+&emsp;&emsp;(B) conduct biennial surveys (or incorporate local surveys in existence at the time of the evaluation) to measure the progress and effectiveness of the coalition; and
 
 &emsp;&emsp;(C) provide assurances that the entity conducting an evaluation under this paragraph, or from which the applicant receives information, has experience in gathering data related to money laundering and related financial crimes.
 

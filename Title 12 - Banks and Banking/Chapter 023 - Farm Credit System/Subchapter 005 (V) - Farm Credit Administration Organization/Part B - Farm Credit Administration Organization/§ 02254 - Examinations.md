@@ -62,7 +62,7 @@ Subsec. (d). Pub. L. 102–552, §513(b), added subsec. (d).
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–399, §416(c), substituted "at least once every three years" for "at least once every 5 years".
 
-Pub. L. 100–233, §432(b), substituted "Except for Federal land bank associations, each" for "Each", substituted "the Board" for "the Chairman of the Board"in two places, and inserted after first sentence "Each Federal land bank association shall be examined by Farm Credit Administration examiners at such times as the Farm Credit Administration Board may determine, except that each such association shall be examined at least once every 5 years."
+Pub. L. 100–233, §432(b), substituted "Except for Federal land bank associations, each" for "Each", substituted "the Board" for "the Chairman of the Board" in two places, and inserted after first sentence "Each Federal land bank association shall be examined by Farm Credit Administration examiners at such times as the Farm Credit Administration Board may determine, except that each such association shall be examined at least once every 5 years."
 
 Subsec. (b). Pub. L. 100–233, §205(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 

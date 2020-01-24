@@ -4,7 +4,7 @@
 
 The United States Marshals Service's National Sex Offender Targeting Center may—
 
-&emsp;(1) transmit notification of international travel of a sex offender to the destination country of the sex offender, including to the visa-issuing agent or agents in the United States of the country;
+&emsp;(1) transmit notification of international travel of a sex offender to the destinationcountry of the sex offender, including to the visa-issuing agent or agents in the United States of the country;
 
 &emsp;(2) share information relating to traveling sex offenders with other Federal, State, local, and foreign agencies and entities, as appropriate;
 
@@ -104,7 +104,7 @@ In this section, the term "sex offender" means—
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 114–119, Feb. 8,2016, 130 Stat. 15, known as the International Megan's Law to Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification of Traveling Sex Offenders, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 2016 Act note set out under section 10101 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 114–119, Feb. 8, 2016, 130 Stat. 15, known as the International Megan's Law to Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification of Traveling Sex Offenders, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 2016 Act note set out under section 10101 of this title and Tables.
 
 The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsec. (c)(2), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587. Title I of the Act, known as the Sex Offender Registration and Notification Act, was classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as subchapter I (§20901 et seq.) of chapter 209 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 

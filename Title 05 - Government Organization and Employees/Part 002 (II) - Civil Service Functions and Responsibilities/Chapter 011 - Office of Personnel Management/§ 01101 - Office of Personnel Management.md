@@ -32,7 +32,7 @@ Pub. L. 95–454, title IX, §907, Oct. 13, 1978, 92 Stat. 1227, provided that: 
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–378, §1(a), Oct. 2, 1992, 106 Stat. 1346, provided that: "This Act \[see Tables for classification\]may be cited as the 'Technical and Miscellaneous Civil Service Amendments Act of 1992'."
+Pub. L. 102–378, §1(a), Oct. 2, 1992, 106 Stat. 1346, provided that: "This Act \[see Tables for classification\] may be cited as the 'Technical and Miscellaneous Civil Service Amendments Act of 1992'."
 
 #### Short Title of 1984 Amendment
 
@@ -122,7 +122,7 @@ Transfer of Personnel.—(1) If the Director of the Office of Personnel Manageme
 
 &emsp;"(B) the Defense Security Service employees who, as of such time, are first level supervisors of employees transferred under subparagraph (A).
 
-"(2) The Secretary may also transfer to the Office of Personnel Management any Defense Security Serviceemployees (including higher level supervisors) who provide support services for the performance of the functions transferred under subsection (a) or for the personnel (including supervisors) transferred under paragraph (1) if the Director—
+"(2) The Secretary may also transfer to the Office of Personnel Management any Defense Security Service employees (including higher level supervisors) who provide support services for the performance of the functions transferred under subsection (a) or for the personnel (including supervisors) transferred under paragraph (1) if the Director—
 
 &emsp;"(A) determines that the transfer of such additional employees and the positions of such employees to the Office of Personnel Management is necessary in the interest of effective performance of the transferred functions; and
 
@@ -142,7 +142,7 @@ Transfer of Personnel.—(1) If the Director of the Office of Personnel Manageme
 
 Actions After Transfer.—(1) Not later than one year after a transfer of functions to the Office of Personnel Management under subsection (a), the Director of the Office of Personnel Management, in coordination with the Secretary of Defense, shall review all functions performed by personnel of the Defense Security Service at the time of the transfer and make a written determination regarding whether each such function is inherently governmental or is otherwise inappropriate for performance by contractor personnel.
 
-"(2) A function performed by Defense Security Service employees as of the date of the enactment of this Act \[Nov. 24, 2003\] may not be converted to contractor performance by the Director of the Office of Personnel Management until—
+"(2) A function performed by Defense Security Service \[now Defense Counterintelligence and Security Agency\] employees as of the date of the enactment of this Act \[Nov. 24, 2003\] may not be converted to contractor performance by the Director of the Office of Personnel Management until—
 
 &emsp;"(A) the Director reviews the function in accordance with the requirements of paragraph (1) and makes a written determination that the function is not inherently governmental and is not otherwise inappropriate for contractor performance; and
 
@@ -162,7 +162,7 @@ Offset of Administrative Costs.—Each such agency or employing entity that offe
 
 "(c)
 
-Reports.—(1) The Office shall submit a report to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate no later than March 31, 2004, specifying the administrative costs associated with the Governmentwide program (referred to in subsection (b)) for fiscal year 2003, as well as the projected administrative costs of such program for each of the 5 fiscal years thereafter.
+Reports.—(1) The Office shall submit a report to the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate no later than March 31, 2004, specifying the administrative costs associated with the Governmentwide program (referred to in subsection (b)) for fiscal year 2003, as well as the projected administrative costs of such program for each of the 5 fiscal years thereafter.
 
 "(2) At the end of each of the first 3 calendar years in which an agency or other employing entity offers a flexible spending account option under this section, such agency or entity shall submit a report to the Office of Management and Budget showing the amount of its employment tax savings in such year which are attributable to such option, net of administrative fees paid under subsection (b)."
 
@@ -172,7 +172,7 @@ Pub. L. 102–393, title V, §532, Oct. 6, 1992, 106 Stat. 1763, provided that: 
 
 #### Report on Productivity of Federal Workforce; Deadline
 
-Pub. L. 101–509, title V, §535, Nov. 5, 1990, 104 Stat. 1470, directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federal workforce, such report to include recommendations with regard to (1) how productivity within the Federal workforce can be increased, the delivery of Government services improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, and managerial accountability within the Federal workforce.
+Pub. L. 101–509, title V, §535, Nov. 5, 1990, 104 Stat. 1470, directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federal workforce, such report to include recommendations with regard to (1) how productivity within the Federal workforce can be increased, the delivery of Governmentservices improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, and managerial accountability within the Federal workforce.
 
 #### Funds for Preparation, Promulgation, or Implementation of Regulations Relating to Combined Federal Campaign; Eligibility Criteria
 
@@ -314,7 +314,7 @@ Pub. L. 95–454, title IX, §904, Oct. 13, 1978, 92 Stat. 1224, provided that:
 
 "Except as otherwise expressly provided in this Act \[see Tables for classification\], no provision of this Act shall be construed to—
 
-&emsp;"(1) limit, curtail, abolish, or terminate any function of, or authority available to, the President which the President had immediately before the effective date of this Act \[see Effective Date of 1978 Amendment note above\]; or
+&emsp;"(1) limit, curtail, abolish, or terminate any function of, or authority available to, the Presidentwhich the President had immediately before the effective date of this Act \[see Effective Date of 1978 Amendment note above\]; or
 
 &emsp;"(2) limit, curtail, or terminate the President's authority to delegate, redelegate, or terminate any delegation of functions."
 
@@ -398,7 +398,7 @@ Federal Register.
 
 #### Sec. 203. Savings Provision
 
-The Board shall accept appeals from agency actions effected prior to the effective date of this Plan. On the effective date of Part II of this Plan, proceedings then before the Federal Employee Appeals Authority shall continue before the Board; proceedings then before the Appeals Review Board and proceedings then before the United States Civil Service Commission on appeal from decisions of the Appeals Review Board shall continue before the Board; other employee appeals before boards or other bodies pursuant to law or regulation shall continue to be processed pursuant to those laws or regulations. Nothing in this section shall affect the right ofa Federal employee to judicial review under applicable law.
+The Board shall accept appeals from agency actions effected prior to the effective date of this Plan. On the effective date of Part II of this Plan, proceedings then before the Federal Employee Appeals Authority shall continue before the Board; proceedings then before the Appeals Review Board and proceedings then before the United States Civil Service Commission on appeal from decisions of the Appeals Review Board shall continue before the Board; other employee appeals before boards or other bodies pursuant to law or regulation shall continue to be processed pursuant to those laws or regulations. Nothing in this section shall affect the right of a Federal employee to judicial review under applicable law.
 
 #### Sec. 204. The Special Counsel
 
@@ -470,7 +470,7 @@ All matters which relate to the functions transferred by Section 304 of this Pla
 
 #### Sec. 401. Incidental Transfer
 
-So much of the personnel, property, records, and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation wasoriginally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agencies abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
+So much of the personnel, property, records, and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agencies abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
 
 #### Sec. 402. Interim Officers
 
@@ -512,7 +512,7 @@ The Plan I submit today would consolidate the central policymaking functions in 
 
 The cost of replacing the Civil Service Commission can be paid by our present resources. The reorganization itself would neither increase nor decrease the costs of personnel management throughout the government. But taken together with the substantive reforms I have proposed, this Plan will greatly improve the government's ability to manage programs, speed the delivery of Federal services to the public, and aid in executing other reorganizations I will propose to the Congress, by improving Federal personnel management.
 
-Each of the provisions of this proposed reorganization would accomplish one or more of the purposes set forth in 5 U.S.C. 901(a). No functions are abolished by the Plan, but the offices referred to in 5 U.S.C. 5109(b) and 5 U.S.C. 1103(d) are abolished. The portions of the Plan providing for the appointment and pay for the head and one or more officers of the Office of Personnel Management, the Merit Systems Protection Board, the Federal Labor Relations Authority and the Federal Service Impasses Panel, are necessary to carry out the reorganization. The rates of compensation are comparable to those for similar positions within the Executive Branch.
+Each of the provisions of this proposed reorganization would accomplish one or more of the purposes set forthin 5 U.S.C. 901(a). No functions are abolished by the Plan, but the offices referred to in 5 U.S.C. 5109(b) and 5 U.S.C. 1103(d) are abolished. The portions of the Plan providing for the appointment and pay for the head and one or more officers of the Office of Personnel Management, the Merit Systems Protection Board, the Federal Labor Relations Authority and the Federal Service Impasses Panel, are necessary to carry out the reorganization. The rates of compensation are comparable to those for similar positions within the Executive Branch.
 
 I am confident that this Plan and the companion civil service reform legislation will both lead to more effective protection of Federal employees' legitimate rights and a more rewarding workplace. At the same time the American people will benefit from a better managed, more productive and more efficient Federal Government.
 
@@ -534,7 +534,7 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12107. Implementation of Reform of Personnel Management System
 
-Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, as amended by Ex. Ord. No. 12126, Mar. 29, 1979, 44 F.R.18923; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, provided:
+Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, as amended by Ex. Ord. No. 12126, Mar. 29, 1979, 44 F.R. 18923; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, provided:
 
 By virtue of the authority vested in me as President by the Constitution and statutes of the United States of America, and by Section 403 of Reorganization Plan No. 2 of 1978 (43 FR 36037) \[set out above\], it is hereby ordered as follows:
 
@@ -806,7 +806,7 @@ Section 1.
 
 (a) The Director of the Office of Personnel Management shall make arrangements for voluntary health and welfare organizations to solicit contributions from Federal employees and members of the uniformed services at their places of employment or duty. Federal employees and members of the uniformed services can also be solicited to make pledges of volunteer time. These arrangements shall take the form of an annual Combined Federal Campaign in which eligible voluntary health and welfare organizations are authorized to take part.
 
-(b) The Director shall consider permitting annuitants to make contributions to the Combined Federal Campaign through allotments or assignments of amounts from their Federal annuities. The Director may prescribe rules and regulations to govern the solicitationof such contributions and make arrangements to inform annuitants of their ability to make contributions in this manner.
+(b) The Director shall consider permitting annuitants to make contributions to the Combined Federal Campaign through allotments or assignments of amounts from their Federal annuities. The Director may prescribe rules and regulations to govern the solicitation of such contributions and make arrangements to inform annuitants of their ability to make contributions in this manner.
 
 Sec. 2. (a) The Director shall establish criteria for determining the eligibility of voluntary health and welfare organizations that may participate in each of the annual Combined Federal Campaigns.
 
@@ -842,7 +842,7 @@ Sec. 8. The Director shall prescribe such rules and regulations as may be necess
 
 Sec. 9. Executive Order No. 10927 \[Mar. 18, 1961, 26 F.R. 2383\], as amended, is revoked. Notwithstanding that revocation, directives issued under that Order shall continue in effect until revoked or modified under the provisions of this Order.
 
-\[Section 2(d) of Ex. Ord. No. 13743 provided that all rules, regulations, and directives continued or issued under Ex. Ord. No. 12353, set out above, would continue in effect until revoked or modified under the provisions of Ex. Ord. No. 13743.\]
+\[Section 2(d) of Ex. Ord. No. 13743 provided that all rules, regulations, and directives continued or issued under Ex. Ord. No. 12353, set out above, would continuein effect until revoked or modified under the provisions of Ex. Ord. No. 13743.\]
 
 \[Section 2 of Ex. Ord. No. 12404 provided that all rules, regulations, and directives continued or issued under Ex. Ord. No. 12353, set out above, would continue in full force and effect until revoked or modified under the provisions of Ex. Ord. No. 12404.\]
 

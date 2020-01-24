@@ -22,7 +22,7 @@ The Secretary, in consultation with the Secretary of State, and in cooperation w
 
 &emsp;&emsp;(A) import prohibitions, landing restrictions, or other market-based measures needed to enforce compliance with international fishery management organization measures, such as quotas and catch limits;
 
-&emsp;&emsp;(B) import restrictions or other market-based measures to prevent the trade or importation of fish caught by vessels identified multilaterally as engaging in illegal, unreported, or unregulated fishing; and
+&emsp;&emsp;(B) import restrictions or other market-based measures to prevent the trade or importation of fish caught by vessels identifiedmultilaterally as engaging in illegal, unreported, or unregulated fishing; and
 
 &emsp;&emsp;(C) catch documentation and certification schemes to improve tracking and identification of catch of vessels engaged in illegal, unreported, or unregulated fishing, including advance transmission of catch documents to ports of entry;
 
@@ -40,7 +40,7 @@ The Secretary, in consultation with the Secretary of State, and in cooperation w
 
 &emsp;The data confidentiality provisions in section 402 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1881a) shall not apply with respect to this Act—
 
-&emsp;&emsp;(A) for obligations of the United States to share information under a regional fisheries management organization (as that term is defined by the United Nation's <sup>1</sup> Food and Agriculture Organization Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and UnregulatedFishing) of which the United States is a member; or
+&emsp;&emsp;(A) for obligations of the United States to share information under a regional fisheries management organization (as that term is defined by the United Nation's <sup>1</sup> Food and Agriculture Organization Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing) of which the United States is a member; or
 
 &emsp;&emsp;(B) to any information collected by the Secretary regarding foreign vessels.
 
@@ -74,7 +74,7 @@ This Act, referred to in subsec. (b)(2), probably means title VI of Pub. L. 104�
 
 #### Codification
 
-Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
+Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part ofthe Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Amendments
 

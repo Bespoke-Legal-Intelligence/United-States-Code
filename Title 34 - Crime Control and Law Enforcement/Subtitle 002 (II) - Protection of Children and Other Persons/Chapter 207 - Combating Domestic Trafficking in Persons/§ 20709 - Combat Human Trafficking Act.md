@@ -50,7 +50,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) victims of sex or labor trafficking often engage in criminal acts as a direct result of severe trafficking in persons; and
 
-&emsp;&emsp;&emsp;&emsp;(II) such individuals are victims of a crime and affirmative measures should be taken to avoid arresting, charging, or prosecuting such individuals for any offense that is the direct result of their victimization.
+&emsp;&emsp;&emsp;&emsp;(II) such individuals are victims of a crime and affirmative measures shouldbe taken to avoid arresting, charging, or prosecuting such individuals for any offense that is the direct result of their victimization.
 
 #### (B) Federal prosecutors
 

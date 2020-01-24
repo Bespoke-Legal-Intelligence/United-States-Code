@@ -10,7 +10,7 @@ The Secretary of the military department concerned, under regulations prescribed
 
 &emsp;(2) shall, unless the officer has been promoted, discharge any officer described in paragraph (1)(B) at the end of the 18-month period beginning on the date on which the officer is first found not qualified for promotion.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2861; amended Pub. L. 98–525, title XIV, §1405(11), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 107–107, div. A, title V, §505(d)(2), (4)(A), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 108–136, div. A, title V, §505(b), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 110–181, div. A, title V, §503(a)(1), (2), Jan. 28, 2008, 122 Stat. 95.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2861; amended Pub. L. 98–525, title XIV,§1405(11), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 107–107, div. A, title V, §505(d)(2), (4)(A), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 108–136, div. A, title V, §505(b), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 110–181, div. A, title V, §503(a)(1), (2), Jan. 28, 2008, 122 Stat. 95.)
 
 #### Amendments
 

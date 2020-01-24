@@ -68,7 +68,7 @@ In establishing minimum State law requirements for swimming pools and spas under
 
 #### (A) Safety vacuum release system
 
-&emsp;&emsp;A safety vacuum release system which ceases operation of the pump, reverses the circulation flow, or otherwise provides a vacuum release at a suction outlet when a blockage is detected, that has been tested by an independent third party and found to conform to ASME/ANSI standard A112.19.17 orASTM standard F2387, or any successor standard.
+&emsp;&emsp;A safety vacuum release system which ceases operation of the pump, reverses the circulation flow, or otherwise provides a vacuum release at a suction outlet when a blockage is detected, that has been tested by an independent third party and found to conform to ASME/ANSI standard A112.19.17 or ASTM standard F2387, or any successor standard.
 
 #### (B) Suction-limiting vent system
 
@@ -104,7 +104,7 @@ In establishing minimum State law requirements for swimming pools and spas under
 
 "(iv) every swimming pool and spa that has a main drain, other than an unblockable drain, be equipped with a drain cover that meets the consumer product safety standard established by section 8003 of this title; and
 
-"(v) that periodic notification is provided to owners of residential swimming pools or spas about compliance with the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard; and".
+"(v) that periodic notification is provided to owners of residential swimming pools or spas about compliancewith the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard; and".
 
 Subsec. (a)(2) to (4). Pub. L. 113–76, §501(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, substituted "paragraph (1)(B)" for "paragraph (1)" in introductory provisions of par. (3), and struck out former par. (2) which read as follows: "The minimum State law notification requirement under paragraph (1)(A)(v) shall not be construed to imply any liability on the part of a State related to that requirement."
 

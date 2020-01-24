@@ -12,7 +12,7 @@
 
 (c) In furnishing respite care services, the Secretary may enter into contract arrangements.
 
-(Added Pub. L. 99–576, title II, §201(a)(1), Oct. 28, 1986, 100 Stat. 3254, §620B; amended Pub. L. 101–237, title II, §201(a), Dec. 18, 1989, 103 Stat. 2066; renumbered §1720B and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §502, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 106–117, title I, §101(e), Nov. 30, 1999, 113 Stat. 1549.)
+(Added Pub. L. 99–576, title II, §201(a)(1), Oct. 28, 1986, 100 Stat. 3254, §620B; amended Pub. L. 101–237, title II, §201(a), Dec. 18, 1989, 103 Stat. 2066; renumbered §1720B and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V,§502, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 106–117, title I, §101(e), Nov. 30, 1999, 113 Stat. 1549.)
 
 #### Amendments
 
@@ -46,5 +46,5 @@ Pub. L. 101–110, §1(a), Oct. 6, 1989, 103 Stat. 682, provided that: "Notwiths
 
 #### Report
 
-Pub. L. 99–576, title II, §201(b), Oct. 28, 1986, 100 Stat. 3254, provided that if the Administrator of Veterans' Affairs furnished respite care under this section, the Administrator was to conduct an evaluation of the health efficacy and cost-effectiveness of furnishing such care and submit to the Committees on Veterans' Affairs of the Senate and House of Representatives notlater than Feb. 1, 1989, a report containing the results of such evaluation and appropriate recommendations.
+Pub. L. 99–576, title II, §201(b), Oct. 28, 1986, 100 Stat. 3254, provided that if the Administrator of Veterans' Affairs furnished respite care under this section, the Administrator was to conduct an evaluation of the health efficacy and cost-effectiveness of furnishing such care and submit to the Committees on Veterans' Affairs of the Senate and House of Representatives not later than Feb. 1, 1989, a report containing the results of such evaluation and appropriate recommendations.
 

@@ -74,7 +74,7 @@ Government's Share of Costs.—A grant under this section is for 80 percent of t
 
 (e)
 
-Monitoring and Technical Assistance.—In coordination with the Secretaries of Transportation and Energy, Administrator of the Environmental Protection Agency, and Director of the National Institute of Environmental Health Sciences, the Administrator of the Federal Emergency Management Agency shall monitor public sector emergency response planning and training for an accident or incident involving hazardous material. Considering the results of the monitoring, the Secretaries, Administrators, and Director each shall provide technical assistance to a State, political subdivision of a State, or Indian tribe for carrying out emergency response training and planning for an accident or incident involving hazardous material and shall coordinate the assistance using the existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee.
+Monitoring and Technical Assistance.—In coordination with the Secretaries of Transportation and Energy, Administrator of the Environmental Protection Agency, and Director of the National Institute of Environmental Health Sciences, the Administrator of the Federal Emergency Management Agency shall monitor public sector emergency response planning and training for an accident or incident involvinghazardous material. Considering the results of the monitoring, the Secretaries, Administrators, and Director each shall provide technical assistance to a State, political subdivision of a State, or Indian tribe for carrying out emergency response training and planning for an accident or incident involving hazardous material and shall coordinate the assistance using the existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee.
 
 (f)
 
@@ -134,7 +134,7 @@ Supplemental Training Grants.—
 
 &emsp;(5) The Secretary may not award a grant to an organization under this subsection unless the organization ensures that emergency responders who receive training under the grant will have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving the transportation of hazardous material in accordance with existing regulations or National Fire Protection Association standards for competence of responders to accidents and incidents involving hazardous materials.
 
-&emsp;(6) Notwithstanding paragraphs (1) and (3), to the extent determined appropriate by the Secretary, a grant awarded by the Secretary to an organization under this subsection to conduct hazardous material response training programs may be used to train individuals with responsibility to respond to accidents and incidents involving hazardous material.
+&emsp;(6) Notwithstanding paragraphs (1) and (3), to the extent determined appropriate by the Secretary, a grant awarded by the Secretary to an organization under this subsection toconduct hazardous material response training programs may be used to train individuals with responsibility to respond to accidents and incidents involving hazardous material.
 
 &emsp;(7) For the purposes of this subsection, the term "portable training" means live, instructor-led training provided by certified fire service instructors that can be offered in any suitable setting, rather than specific designated facilities. Under this training delivery model, instructors travel to locations convenient to students and utilize local facilities and resources.
 
@@ -258,7 +258,7 @@ Subsec. (h)(4). Pub. L. 114–94, §7203(b)(2)(B)(iii), substituted "5107(e) and
 
 Subsec. (i). Pub. L. 114–94, §7203(a)(1), (b)(2)(C), redesignated subsec. (j) as (i) and substituted "subsection (a)" for "subsection (b)" in par. (1). Former subsec. (i) redesignated (h).
 
-Subsec. (j). Pub. L. 114–94, §7203(b)(2)(D), substituted, in introductory provisions, "planning and training grants under subsection (a) and grants under subsection (i) of this section and under subsections (e) and (i) of section 5107" for "planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107" and redesignated subpars. (A) to (D) as pars. (1) to (4), respectively.
+Subsec. (j). Pub. L. 114–94, §7203(b)(2)(D), substituted, in introductory provisions, "planning and traininggrants under subsection (a) and grants under subsection (i) of this section and under subsections (e) and (i) of section 5107" for "planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107" and redesignated subpars. (A) to (D) as pars. (1) to (4), respectively.
 
 Pub. L. 114–94, §7203(a)(1), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 

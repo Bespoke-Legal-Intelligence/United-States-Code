@@ -7,16 +7,12 @@
 | [1903\.](%C2%A7%2001903%20-%20Special%20emergency%20procurement%20authority.md) | Special emergency procurement authority. |
 | [1904\.](%C2%A7%2001904%20-%20Certain%20transactions%20for%20defense%20against%20attack.md) | Certain transactions for defense against attack. |
 | [1905\.](%C2%A7%2001905%20-%20List%20of%20laws%20inapplicable%20to%20contracts%20or%20subcontracts%20not%20greater%20than%20simplified%20acquisition%20threshold.md) | List of laws inapplicable to contracts or subcontracts not greater than simplified acquisition threshold. |
-| [1906\.](%C2%A7%2001906%20-%20List%20of%20laws%20inapplicable%20to%20procurements%20of%20commercial%20items.md) | List of laws inapplicable to procurements of commercial items. |
+| [1906\.](%C2%A7%2001906%20-%20List%20of%20laws%20inapplicable%20to%20procurements%20of%20commercial%20products%20and%20commercial%20services.md) | List of laws inapplicable to procurements of commercial products and commercial services. |
 | [1907\.](%C2%A7%2001907%20-%20List%20of%20laws%20inapplicable%20to%20procurements%20of%20commercially%20available%20off-the-shelf%20items.md) | List of laws inapplicable to procurements of commercially available off-the-shelf items. |
 | [1908\.](%C2%A7%2001908%20-%20Inflation%20adjustment%20of%20acquisition-related%20dollar%20thresholds.md) | Inflation adjustment of acquisition-related dollar thresholds. |
 | [1909\.](%C2%A7%2001909%20-%20Management%20of%20purchase%20cards.md) | Management of purchase cards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(6)(B)(ii), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this analysis is amended by striking item 1906 and inserting a new item 1906 "List of laws inapplicable to procurements of commercial products and commercial services." See 2018 Amendment note below.</i>
 
 #### Amendments
 
@@ -34,7 +30,7 @@
 - [&sect; 01903 - Special emergency procurement authority](%C2%A7%2001903%20-%20Special%20emergency%20procurement%20authority.md)
 - [&sect; 01904 - Certain transactions for defense against attack](%C2%A7%2001904%20-%20Certain%20transactions%20for%20defense%20against%20attack.md)
 - [&sect; 01905 - List of laws inapplicable to contracts or subcontracts not greater than simplified acquisition threshold](%C2%A7%2001905%20-%20List%20of%20laws%20inapplicable%20to%20contracts%20or%20subcontracts%20not%20greater%20than%20simplified%20acquisition%20threshold.md)
-- [&sect; 01906 - List of laws inapplicable to procurements of commercial items](%C2%A7%2001906%20-%20List%20of%20laws%20inapplicable%20to%20procurements%20of%20commercial%20items.md)
+- [&sect; 01906 - List of laws inapplicable to procurements of commercial products and commercial services](%C2%A7%2001906%20-%20List%20of%20laws%20inapplicable%20to%20procurements%20of%20commercial%20products%20and%20commercial%20services.md)
 - [&sect; 01907 - List of laws inapplicable to procurements of commercially available off-the-shelf items](%C2%A7%2001907%20-%20List%20of%20laws%20inapplicable%20to%20procurements%20of%20commercially%20available%20off-the-shelf%20items.md)
 - [&sect; 01908 - Inflation adjustment of acquisition-related dollar thresholds](%C2%A7%2001908%20-%20Inflation%20adjustment%20of%20acquisition-related%20dollar%20thresholds.md)
 - [&sect; 01909 - Management of purchase cards](%C2%A7%2001909%20-%20Management%20of%20purchase%20cards.md)

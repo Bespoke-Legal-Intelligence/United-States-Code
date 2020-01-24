@@ -4,7 +4,7 @@
 
 (b)
 
-Appointment.—(1) The President, by and with the advice and consent of the Senate, shall appoint the Chief of Army Reserve from general officers of the Army Reserve who have had at least 10 years of commissioned service in the Army Reserve.
+Appointment.—(1) The President, by and with the advice and consent of the Senate, shallappoint the Chief of Army Reserve from general officers of the Army Reserve who have had at least 10 years of commissioned service in the Army Reserve.
 
 (2) The Secretary of Defense may not recommend an officer to the President for appointment as Chief of Army Reserve unless the officer—
 
@@ -70,7 +70,7 @@ Prior sections 7048 to 7050 were renumbered sections 8548 to 8550 of this title.
 
 &emsp;"(3) have been recommended by the Secretary of the Army."
 
-Subsec. (c). Pub. L. 106–398 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Chief of Army Reserve holds office for four yearsbut may be removed for cause at any time. He is eligible to succeed himself. If he holds a lower reserve grade, he shall be appointed in the grade of major general for service in the Army Reserve. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general."
+Subsec. (c). Pub. L. 106–398 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Chief of Army Reserve holds office for four years but may be removed for cause at any time. He is eligible to succeed himself. If he holds a lower reserve grade, he shall be appointed in the grade of major general for service in the Army Reserve. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general."
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–65 inserted at end "However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general."
 

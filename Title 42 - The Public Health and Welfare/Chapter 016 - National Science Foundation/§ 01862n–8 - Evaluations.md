@@ -16,7 +16,7 @@
 
 #### (2) Assessment benchmarks and tools
 
-&emsp;The Director, through the Research, Evaluation and Communication Division of the Education and Human Resources Directorate of the Foundation, shall establish a common set of assessment benchmarks and tools, and shall enable every Foundation-sponsored project to incorporate the use of these benchmarks and tools in their project-based assessment activities.
+&emsp;The Director, through the Research, Evaluation and Communication Division of the Education and Human Resources Directorate of the Foundation, shall establish a common setof assessment benchmarks and tools, and shall enable every Foundation-sponsored project to incorporate the use of these benchmarks and tools in their project-based assessment activities.
 
 #### (3) Reports to Congress
 

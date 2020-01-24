@@ -24,7 +24,7 @@
 
 &emsp;(iii) if lifecycle cost-effective, as compared to other reasonably available technologies, not less than 30 percent of the hot water demand for each new Federal building or Federal building undergoing a major renovation be met through the installation and use of solar hot water heaters.
 
-(B) Not later than 1 year after the date of approval of each subsequent revision of the ASHRAE Standard or the International Energy Conservation Code, as appropriate, the Secretary shall determine, based on the cost-effectiveness of the requirements under the amendment, whether the revised standards established under this paragraph should be updated to reflect the amendment.
+(B) Not later than 1 year after the date of approval of each subsequent revision of the ASHRAE Standard or the International EnergyConservation Code, as appropriate, the Secretary shall determine, based on the cost-effectiveness of the requirements under the amendment, whether the revised standards established under this paragraph should be updated to reflect the amendment.
 
 (C) In the budget request of the Federal agency for each fiscal year and each report submitted by the Federal agency under section 8258(a) of this title, the head of each Federal agency shall include—
 
@@ -34,7 +34,7 @@
 
 (D) Not later than 1 year after December 19, 2007, the Secretary shall establish, by rule, revised Federal building energy efficiency performance standards that require that:
 
-&emsp;(i) For new Federal buildings and Federal buildings undergoing major renovations, with respect to which the Administrator of General Services is required to transmit a prospectus to Congress under section 3307 of title 40, inthe case of public buildings (as defined in section 3301 of title 40), or of at least $2,500,000 in costs adjusted annually for inflation for other buildings:
+&emsp;(i) For new Federal buildings and Federal buildings undergoing major renovations, with respect to which the Administrator of General Services is required to transmit a prospectus to Congress under section 3307 of title 40, in the case of public buildings (as defined in section 3301 of title 40), or of at least $2,500,000 in costs adjusted annually for inflation for other buildings:
 
 &emsp;&emsp;(I) The buildings shall be designed so that the fossil fuel-generated energy consumption of the buildings is reduced, as compared with such energy consumption by a similar building in fiscal year 2003 (as measured by Commercial Buildings Energy Consumption Survey or Residential Energy Consumption Survey data from the Energy Information Agency), by the percentage specified in the following table:
 

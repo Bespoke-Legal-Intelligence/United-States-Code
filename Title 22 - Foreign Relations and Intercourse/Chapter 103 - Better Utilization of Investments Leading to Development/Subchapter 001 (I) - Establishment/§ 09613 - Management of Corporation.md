@@ -144,7 +144,7 @@ There shall be in the Corporation a Deputy Chief Executive Officer, who shall be
 
 &emsp;The Chief Development Officer shall—
 
-&emsp;&emsp;(A) coordinate the Corporation's development policies and implementation effortswith the United States Agency for International Development, the Millennium Challenge Corporation, and other relevant United States Government departments and agencies, including directly liaising with missions of the United States Agency for International Development, to ensure that departments, agencies, and missions have training, awareness, and access to the Corporation's tools in relation to development policy and projects in countries;
+&emsp;&emsp;(A) coordinate the Corporation's development policies and implementation efforts with the United States Agency for International Development, the Millennium Challenge Corporation, and other relevant United States Government departments and agencies, including directly liaising withmissions of the United States Agency for International Development, to ensure that departments, agencies, and missions have training, awareness, and access to the Corporation's tools in relation to development policy and projects in countries;
 
 &emsp;&emsp;(B) under the guidance of the Chief Executive Officer, manage employees of the Corporation that are dedicated to structuring, monitoring, and evaluating transactions and projects co-designed with the United States Agency for International Development and other relevant United States Government departments and agencies;
 
@@ -218,7 +218,7 @@ There shall be in the Corporation a Deputy Chief Executive Officer, who shall be
 
 #### (3) Functions
 
-&emsp;The Board shall call upon members of the Council, either collectively or individually, toadvise the Board regarding the extent to which the Corporation is meeting its development mandate and any suggestions for improvements in with respect to meeting that mandate, including opportunities in countries and project development and implementation challenges and opportunities.
+&emsp;The Board shall call upon members of the Council, either collectively or individually, to advise the Board regarding the extent to which the Corporation is meeting its development mandate and any suggestions for improvements in with respect to meeting that mandate, including opportunities in countries and project development and implementation challenges and opportunities.
 
 #### (4) Federal Advisory Committee Act
 

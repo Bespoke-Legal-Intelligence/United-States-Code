@@ -6,7 +6,7 @@ The Secretary of Agriculture (referred to in this section as the "Secretary") ma
 
 &emsp;(1) enhance the capability of the Secretary to respond in a timely manner to emerging or existing bioterrorist threats to the food and agricultural system of the United States;
 
-&emsp;(2) develop new and continue partnerships with institutions of higher education and other institutions to help form stable, long-term programs to enhance the biosecurity and food safety of the United States, including the coordination of the development, implementation, and enhancement of diverse capabilities for addressing threats to the nation's agricultural economy and food supply, with special emphasis on planning, training, outreach, and research activities related to vulnerabilityanalyses, incident response, detection, and prevention technologies;
+&emsp;(2) develop new and continue partnerships with institutions of higher education and other institutions to help form stable, long-term programs to enhance the biosecurity and food safety of the United States, including the coordination of the development, implementation, and enhancement of diverse capabilities for addressing threats to the nation's agricultural economy and food supply, with special emphasis on planning, training, outreach, and research activities related to vulnerability analyses, incident response, detection, and prevention technologies;
 
 &emsp;(3) strengthen coordination with the intelligence community to better identify research needs and evaluate materials or information acquired by the intelligence community relating to potential threats to United States agriculture;
 

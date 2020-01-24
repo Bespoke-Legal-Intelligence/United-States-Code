@@ -225,7 +225,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A Bank on whose behalf stock is purchased under subparagraph (A)(i) shall make payments annually from amounts, if any, in its reserve account (as described in subparagraph (D)) to each Bank that made payments on its behalf until a full reimbursement has been completed. A full reimbursement shall require repayment of the excess amounts invested by other Banks plus interest which shall accrue at a rate equal to the annual average cost of funds in the most recent year to all Federal Home Loan Banks and which shall begin to accrue 2 years after the investments under subparagraph (A)(i) are made.
+&emsp;&emsp;&emsp;A Bank on whose behalf stock is purchased under subparagraph (A)(i) shall make payments annually from amounts, if any, in its reserve account (as described in subparagraph (D)) to each Bank that made payments on its behalf until a full reimbursement has been completed. A full reimbursement shall require repayment of the excess amounts invested by otherBanks plus interest which shall accrue at a rate equal to the annual average cost of funds in the most recent year to all Federal Home Loan Banks and which shall begin to accrue 2 years after the investments under subparagraph (A)(i) are made.
 
 #### (ii) Determination of amounts
 
@@ -257,7 +257,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (B) Proceeds from Resolution Trust Corporation
 
-&emsp;&emsp;To the extent the amounts available pursuant to subparagraph (A) are insufficient tocover the amount of interest payments, the Resolution Trust Corporation shall pay to the Funding Corporation—
+&emsp;&emsp;To the extent the amounts available pursuant to subparagraph (A) are insufficient to cover the amount of interest payments, the Resolution Trust Corporation shall pay to the Funding Corporation—
 
 &emsp;&emsp;&emsp;(i) the liquidating dividends and payments made on claims received by the Resolution Trust Corporation from receiverships to the extent such proceeds are determined by the Thrift Depositor Protection Oversight Board to be in excess of funds presently necessary for resolution costs; and
 
@@ -317,7 +317,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (5) Investment of United States funds in obligations
 
-&emsp;Obligations issued under this section by the Funding Corporation, at the direction of theThrift Depositor Protection Oversight Board shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds the investment or deposit of which shall be under the authority or control of the United States or any officer of the United States.
+&emsp;Obligations issued under this section by the Funding Corporation, at the direction of the Thrift Depositor Protection Oversight Board shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds the investment or deposit of which shall be under the authority or control of the United States or any officer of the United States.
 
 #### (6) Market for obligations
 
@@ -387,7 +387,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (A) Federal court jurisdiction
 
-&emsp;&emsp;Notwithstanding any other provision of law, any civil action, suit, or proceeding towhich the Funding Corporation is a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction over such action, suit, or proceeding.
+&emsp;&emsp;Notwithstanding any other provision of law, any civil action, suit, or proceeding to which the Funding Corporation is a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction over such action, suit, or proceeding.
 
 #### (B) Removal
 

@@ -26,7 +26,7 @@
 
 #### (2) Continuation of suits
 
-&emsp;No provision of this Act shall abate any proceeding commenced by or against the Federal Deposit Insurance Corporation (or the Board of Directors of that Corporation) before the designated transfer date with respect to any consumer financial protection function of the Federal Deposit Insurance Corporation transferred to the Bureau by this title,<sup>1</sup> except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Federal Deposit Insurance Corporation (or Board of Directors) as a party to any such proceeding as of the designated transfer date.
+&emsp;No provision of this Act shall abate any proceeding commenced by or against the FederalDeposit Insurance Corporation (or the Board of Directors of that Corporation) before the designated transfer date with respect to any consumer financial protection function of the Federal Deposit Insurance Corporation transferred to the Bureau by this title,<sup>1</sup> except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Federal Deposit Insurance Corporation (or Board of Directors) as a party to any such proceeding as of the designated transfer date.
 
 #### (c) Federal Trade Commission
 
@@ -96,7 +96,7 @@ Section 5581(b)(5) of this title does not affect the validity of any right, duty
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2) and under subsection (i), all orders, resolutions,determinations, agreements, and rulings that have been issued, made, prescribed, or allowed to become effective by any transferor agency or by a court of competent jurisdiction, in the performance of consumer financial protection functions that are transferred by this title <sup>1</sup> and that are in effect on the day before the designated transfer date, shall continue in effect, and shall continue to be enforceable by the appropriate transferor agency, according to the terms of those orders, resolutions, determinations, agreements, and rulings, and shall not be enforceable by or against the Bureau.
+&emsp;Except as provided in paragraph (2) and under subsection (i), all orders, resolutions, determinations, agreements, and rulings that have been issued, made, prescribed, or allowed to become effective by any transferor agency or by a court of competent jurisdiction, in the performance of consumer financial protection functions that are transferred by this title <sup>1</sup> and that are in effect on the day before the designated transfer date, shall continue in effect, and shall continue to be enforceable by the appropriate transferor agency, according to the terms of those orders, resolutions, determinations, agreements, and rulings, and shall not be enforceable by or against the Bureau.
 
 #### (2) Exception for orders applicable to persons described in section 5515(a) of this title
 

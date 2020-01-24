@@ -30,7 +30,7 @@ Pub. L. 104–294, §§601(a)(3), 606(a), in second par., substituted "fine unde
 
 <b>1994</b>—Pub. L. 103–322, §320903(d)(1)(A), inserted "or attempts to commit any of the foregoing offenses" before "shall be punished" in first par.
 
-Pub. L. 103–322, §330016(1)(H), (L), in second par., substituted "under this title" for "not more than $10,000"before "or imprisonment for not more than ten years" and for "not more than $1,000" before "or by imprisonment for not more than one year".
+Pub. L. 103–322, §330016(1)(H), (L), in second par., substituted "under this title" for "not more than $10,000" before "or imprisonment for not more than ten years" and for "not more than $1,000" before "or by imprisonment for not more than one year".
 
 Pub. L. 103–322, §320903(d)(1)(B), inserted "or attempted damage" after "damage" in two places in second par.
 

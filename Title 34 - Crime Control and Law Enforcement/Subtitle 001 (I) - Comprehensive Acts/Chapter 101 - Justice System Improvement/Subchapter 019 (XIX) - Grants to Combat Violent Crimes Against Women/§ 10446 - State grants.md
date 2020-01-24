@@ -122,7 +122,7 @@ Funds appropriated by the Congress for the activities of any agency of an Indian
 
 #### (2) Certification by grantee and subgrantees
 
-&emsp;A section of the performance report shall be completed by each grantee and subgranteethat performed the direct services contemplated in the application, certifying performance of direct services under the grant.
+&emsp;A section of the performance report shall be completed by each grantee and subgrantee that performed the direct services contemplated in the application, certifying performance of direct services under the grant.
 
 #### (3) Suspension of funding
 
@@ -294,7 +294,7 @@ Pub. L. 108–405, title III, §310(b), Oct. 30, 2004, 118 Stat. 2276, provided 
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–273, set outas an Effective Date note under section 10442 of this title.
+Amendment by Pub. L. 107–273 effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–273, set out as an Effective Date note under section 10442 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

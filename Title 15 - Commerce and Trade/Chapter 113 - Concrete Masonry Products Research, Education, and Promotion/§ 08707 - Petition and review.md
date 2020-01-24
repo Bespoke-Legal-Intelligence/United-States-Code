@@ -20,7 +20,7 @@
 
 #### (4) Limitation on petition
 
-&emsp;Any petition filed under this subsection challenging an order, any provision of the order, or any obligation imposed in connection with the order, shall be filed not less than 2 years after the effective date of the order, provision, or obligation subject to challenge in the petition.
+&emsp;Any petition filed under this subsection challenging an order, any provision of theorder, or any obligation imposed in connection with the order, shall be filed not less than 2 years after the effective date of the order, provision, or obligation subject to challenge in the petition.
 
 #### (b) Review
 

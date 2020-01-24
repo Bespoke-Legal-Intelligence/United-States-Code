@@ -138,7 +138,7 @@ Subsec. (g). Pub. L. 95–424, §604, struck out subsec. (g) which related to av
 
 Subsec. (h). Pub. L. 95–424, §604, struck out subsec. (h) which related to prohibition of expenditures for the United Nations Educational, Scientific, and Cultural Organization.
 
-<b>1977</b>—Subsec. (a)(1). Pub. L. 95–88 struck out provisions which authorized appropriations of $127,822,000 for fiscal year 1974, $165,000,000 for fiscal year 1975, and $194,500,000 for fiscal year 1976, inserted provisions authorizing an appropriation of $252,000,000 for fiscal year 1978, and inserted requirement that, of the funds authorized to be appropriated under subsec. (a) for fiscal year 1978, not to exceed $42,500,000 be available for voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–88 struck out provisions which authorized appropriations of $127,822,000 forfiscal year 1974, $165,000,000 for fiscal year 1975, and $194,500,000 for fiscal year 1976, inserted provisions authorizing an appropriation of $252,000,000 for fiscal year 1978, and inserted requirement that, of the funds authorized to be appropriated under subsec. (a) for fiscal year 1978, not to exceed $42,500,000 be available for voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
 
 <b>1976</b>—Subsec. (i). Pub. L. 94–329 added subsec. (i).
 
@@ -166,7 +166,7 @@ Subsec. (e). Pub. L. 93–189, §9(5), substituted "$2,000,000 for the fiscal ye
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–226, §107(a), authorized appropriations of $138,000,000 for fiscal years 1972 and 1973, and struck out provisions for authorization of $122,620,000 for fiscal years 1970 and 1971.
 
-Subsec. (b)(2). Pub. L. 92–226, §107(b), authorized appropriations of $15,000,000 for fiscal years 1972 and 1973,and struck out provision for authorization of $7,530,000 for fiscal years 1970 and 1971; and prohibited the President from exercising any special authority to transfer any amount appropriated under par. (2) to, and to consolidate such amount with, any funds made available under any other provision of this chapter.
+Subsec. (b)(2). Pub. L. 92–226, §107(b), authorized appropriations of $15,000,000 for fiscal years 1972 and 1973, and struck out provision for authorization of $7,530,000 for fiscal years 1970 and 1971; and prohibited the President from exercising any special authority to transfer any amount appropriated under par. (2) to, and to consolidate such amount with, any funds made available under any other provision of this chapter.
 
 Subsec. (e). Pub. L. 92–226, §107(c), authorized appropriations of $1,000,000 for fiscal years 1972 and 1973, and struck out provision for authorization of $1,000,000 for fiscal years 1970 and 1971.
 
@@ -218,5 +218,5 @@ Pub. L. 95–424, title I, §117(b)(2), Oct. 6, 1978, 92 Stat. 953, which provid
 
 #### Authorization of Appropriations for Contributions to the World Assembly on Aging
 
-Pub. L. 95–424, title I, §117(e), Oct. 6, 1978, 92 Stat. 953, provided that: "In addition to amounts otherwise available for such purpose, there are authorized to be appropriated to the President not to exceed $1,000,000 for contributions to the World Assembly on Aging to be convened under the auspices of the United Nations, except that the amount so contributed may not exceed 25 percent of the expenditures of such Assembly. Amounts appropriated under this subsection \[this note\] are authorized to remain available until expended."
+Pub. L. 95–424, title I, §117(e), Oct. 6, 1978, 92 Stat. 953, authorized, in addition to amounts otherwise available, expenditures to the President not to exceed $1,000,000 for contributions to the World Assembly on Aging to be convened under the auspices of the United Nations, except that the amount so contributed could not exceed 25 percent of the expenditures of such Assembly.
 

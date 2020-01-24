@@ -10,7 +10,7 @@ The Secretary shall designate a State or unit of general local government to be 
 
 &emsp;A consortium of geographically contiguous units of general local government shall be deemed to be a unit of general local government for purposes of this subchapter if the Secretary determines that the consortium—
 
-&emsp;&emsp;(A) has sufficient authority and administrative capability to carry out the purposes of this subchapter on behalf of its member jurisdictions, and
+&emsp;&emsp;(A) has sufficient authority and administrative capability to carry out the purposesof this subchapter on behalf of its member jurisdictions, and
 
 &emsp;&emsp;(B) will, according to a written certification by the State (or States, if the consortium includes jurisdictions in more than one State), direct its activities to alleviation of housing problems within the State or States.
 
@@ -26,7 +26,7 @@ The Secretary shall designate a State or unit of general local government to be 
 
 #### (4) Notification
 
-&emsp;If an eligible jurisdiction notifies the Secretary in writing, not later than 30 days after receiving notification under paragraph (1), of its intention to become a participating jurisdiction, the Secretary shall reserve an amount equal to the jurisdiction's allocation (plus any reallocations for which the jurisdiction is eligible under section 12747(d)(1) of this title)pending the jurisdiction's designation as a participating jurisdiction. The Secretary shall reallocate, in accordance with paragraph (6) of this section, any funds reserved under the previous sentence if the Secretary determines that the jurisdiction will not meet the requirements for designation as a participating jurisdiction within a reasonable period of time.
+&emsp;If an eligible jurisdiction notifies the Secretary in writing, not later than 30 days after receiving notification under paragraph (1), of its intention to become a participating jurisdiction, the Secretary shall reserve an amount equal to the jurisdiction's allocation (plus any reallocations for which the jurisdiction is eligible under section 12747(d)(1) of this title) pending the jurisdiction's designation as a participating jurisdiction. The Secretary shall reallocate, in accordance with paragraph (6) of this section, any funds reserved under the previous sentence if the Secretary determines that the jurisdiction will not meet the requirements for designation as a participating jurisdiction within a reasonable period of time.
 
 #### (5) Submission of strategy
 
@@ -98,7 +98,7 @@ Par. (10). Pub. L. 102–550, §202(a)(3), added par. (10).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of thischapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
+Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
 #### Applicability of Grant Thresholds
 

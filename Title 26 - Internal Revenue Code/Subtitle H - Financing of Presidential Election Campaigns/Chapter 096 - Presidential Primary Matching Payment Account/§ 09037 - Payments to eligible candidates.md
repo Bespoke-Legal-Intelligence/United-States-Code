@@ -6,7 +6,7 @@ The Secretary shall maintain in the Presidential Election Campaign Fund establis
 
 #### (b) Payments from the matching payment account
 
-Upon receipt of a certification from the Commission under section 9036, but not before the beginning of the matching payment period, the Secretary shall promptly transfer the amount certified by the Commission from the matching payment account to the candidate. In making such transfers to candidates of the same political party, the Secretary shall seek to achieve an equitable distribution of funds available undersubsection (a), and the Secretary shall take into account, in seeking to achieve an equitable distribution, the sequence in which such certifications are received.
+Upon receipt of a certification from the Commission under section 9036, but not before the beginning of the matching payment period, the Secretary shall promptly transfer the amount certified by the Commission from the matching payment account to the candidate. In making such transfers to candidates of the same political party, the Secretary shall seek to achieve an equitable distribution of funds available under subsection (a), and the Secretary shall take into account, in seeking to achieve an equitable distribution, the sequence in which such certifications are received.
 
 (Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1300; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 113–94, §2(b)(2), Apr. 3, 2014, 128 Stat. 1085.)
 
@@ -18,5 +18,5 @@ Upon receipt of a certification from the Commission under section 9036, but not 
 
 #### Effective Date
 
-Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub.L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 

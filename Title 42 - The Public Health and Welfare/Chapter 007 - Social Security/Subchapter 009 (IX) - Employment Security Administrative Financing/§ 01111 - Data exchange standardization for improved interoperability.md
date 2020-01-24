@@ -36,7 +36,7 @@ Pub. L. 112–96, title II, §2104(b), Feb. 22, 2012, 126 Stat. 162, provided th
 
 "(1)
 
-Data exchange standards.—The Secretary of Labor shall issue a proposed rule under section 911(a)(1) of the Social Security Act \[42 U.S.C. 1111(a)(1)\] (asadded by subsection (a)) within 12 months after the date of the enactment of this section \[Feb. 22, 2012\], and shall issue a final rule under such section 911(a)(1), after public comment, within 24 months after such date of enactment.
+Data exchange standards.—The Secretary of Labor shall issue a proposed rule under section 911(a)(1) of the Social Security Act \[42 U.S.C. 1111(a)(1)\] (as added by subsection (a)) within 12 months after the date of the enactment of this section \[Feb. 22, 2012\], and shall issue a final rule under such section 911(a)(1), after public comment, within 24 months after such date of enactment.
 
 "(2)
 

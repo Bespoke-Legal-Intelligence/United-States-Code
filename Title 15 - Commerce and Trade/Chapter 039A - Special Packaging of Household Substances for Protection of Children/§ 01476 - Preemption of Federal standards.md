@@ -12,7 +12,7 @@ The Federal Government and the government of any State or political subdivision 
 
 (1) Upon application of a State or political subdivision of a State, the Commission may, by regulation promulgated in accordance with paragraph (2), exempt from subsection (a), under such conditions as may be prescribed in such regulation, any standard for special packaging or related requirement of such State or political subdivision applicable to a household substance subject to a standard or requirement in effect under this Act if—
 
-&emsp;(A) compliance with the State or political subdivision standard or requirement would notcause the household substance to be in violation of the standard or requirement in effect under this Act, and
+&emsp;(A) compliance with the State or political subdivision standard or requirement would not cause the household substance to be in violation of the standard or requirement in effect under this Act, and
 
 &emsp;(B) the State or political subdivision standard or requirement (i) provides a significantly higher degree of protection from the risk of illness or injury with respect to which the Federal standard or requirement is in effect, and (ii) does not unduly burden interstate commerce.
 

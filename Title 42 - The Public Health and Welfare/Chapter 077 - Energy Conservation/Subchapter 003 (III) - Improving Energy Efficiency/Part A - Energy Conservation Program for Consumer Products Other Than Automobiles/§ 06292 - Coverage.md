@@ -132,7 +132,7 @@ In General.—(1) The Secretary shall, after consulting with the National Fenest
 
 &emsp;"(A) specifications for testing procedures and labels that will enable window buyers to make more informed purchasing decisions about the energy efficiency of windows and window systems; and
 
-&emsp;"(B) information (which may be disseminated through catalogs, trade publications, labels, or othermechanisms) that will allow window buyers to assess the energy consumption and potential cost savings of alternative window products.
+&emsp;"(B) information (which may be disseminated through catalogs, trade publications, labels, or other mechanisms) that will allow window buyers to assess the energy consumption and potential cost savings of alternative window products.
 
 "(3) Such rating program shall be developed by the National Fenestration Rating Council according to commonly accepted procedures for the development of national testing procedures and labeling programs.
 
@@ -146,7 +146,7 @@ Alternative System.—(1) If the Secretary makes a determination under subsectio
 
 "(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the 'Commission') shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for those windows and window systems for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of window or window system (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 
-"(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
+"(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for whichthe Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
 
 "(4) For purposes of section 327(a) of such Act, the term 'this part' includes this subsection to the extent necessary to carry out this subsection."
 
@@ -206,7 +206,7 @@ Monitoring.—The Secretary shall monitor and evaluate the efforts to develop th
 
 "(c)
 
-Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national testing and information program for luminaires consistent with the objectives of subsection (a) has not been developed, the Secretary shall, afterconsultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act (42 U.S.C. 6293) for such luminaires.
+Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national testing and information program for luminaires consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act (42 U.S.C. 6293) for such luminaires.
 
 "(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the 'Commission') shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for those luminaires for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of luminaire (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 
@@ -220,7 +220,7 @@ Pub. L. 102–486, title I, §127, Oct. 24, 1992, 106 Stat. 2835, provided that:
 
 "(a)
 
-In General.—Not later than 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary shall, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, prepare and submit to the Congress, a report on the potential for the development and commercialization of appliances which are substantially more efficient than required by Federal or State law.
+In General.—Not later than 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary shall, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, prepare and submitto the Congress, a report on the potential for the development and commercialization of appliances which are substantially more efficient than required by Federal or State law.
 
 "(b)
 

@@ -20,7 +20,7 @@ Credits to Fund.—There shall be credited to the Fund the following:
 
 (c)
 
-Use of Amounts in Fund.—(1) In such amounts as provided in appropriations Acts, and except as provided in subsection (d), the Secretary may use amounts in the Coast Guard Housing Fund to carry out activities under this chapter with respect to military family housing and military unaccompanied housing, including—
+Use of Amounts in Fund.—(1) In such amounts as provided in appropriations Acts, andexcept as provided in subsection (d), the Secretary may use amounts in the Coast Guard Housing Fund to carry out activities under this chapter with respect to military family housing and military unaccompanied housing, including—
 
 &emsp;(A) the planning, execution, and administration of the conveyance of real property;
 
@@ -54,7 +54,7 @@ Subsec. (b)(5). Pub. L. 115–282, §123(b)(2), substituted "section 908(b)" for
 
 <b>2010</b>—Subsec. (b)(2). Pub. L. 111–281, §221(a)(6)(A)(i), substituted "or military unaccompanied" for "or unaccompanied".
 
-Subsec. (b)(3). Pub. L. 111–281, §221(a)(6)(A)(ii), substituted "military family housing and" for "militaryfamily and" and struck out "or lease" after "conveyance" and "or facilities" after "property".
+Subsec. (b)(3). Pub. L. 111–281, §221(a)(6)(A)(ii), substituted "military family housing and" for "military family and" and struck out "or lease" after "conveyance" and "or facilities" after "property".
 
 Subsec. (b)(4). Pub. L. 111–281, §221(a)(6)(A)(iii), struck out par. (4) which read as follows: "Income from any activities under this chapter, including interest on loan guarantees made under section 682 of this title, income and gains realized from investments under section 684 of this title, and any return of capital invested as part of such investments."
 
@@ -85,4 +85,8 @@ Pub. L. 111–330, §1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendme
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+
+#### Amounts Credited to Coast Guard Housing Fund
+
+Pub. L. 116–93, div. D, title II, §232, Dec. 20, 2019, 133 Stat. 2517, provided that: "Beginning in fiscal year 2021 and for each fiscal year thereafter, amounts credited to the Coast Guard Housing Fund pursuant to paragraphs (3) through (5) of subsection (b) of section 2946 of title 14, United States Code, shall be classified as discretionary offsetting receipts."
 

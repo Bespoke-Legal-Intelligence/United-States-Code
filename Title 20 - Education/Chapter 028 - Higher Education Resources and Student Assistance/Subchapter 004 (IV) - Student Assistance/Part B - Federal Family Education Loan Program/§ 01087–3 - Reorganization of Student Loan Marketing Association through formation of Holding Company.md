@@ -66,11 +66,11 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (B) Agreement
 
-&emsp;&emsp;The Secretary is authorized to enter into an agreement described in clause (iv) of subparagraph (A) with the Association covering such secondary market activities. Any agreement entered into under such clause shall cover a period of 12 months, but may be renewed if the Secretary determines that liquidity remains inadequate. The fee provided under section 1087–2(h)(7) of this titleshall not apply to loans acquired under any such agreement with the Secretary.
+&emsp;&emsp;The Secretary is authorized to enter into an agreement described in clause (iv) of subparagraph (A) with the Association covering such secondary market activities. Any agreement entered into under such clause shall cover a period of 12 months, but may be renewed if the Secretary determines that liquidity remains inadequate. The fee provided under section 1087–2(h)(7) of this title shall not apply to loans acquired under any such agreement with the Secretary.
 
 #### (7) Issuance of debt obligations during the transition period; attributes of debt obligations
 
-&emsp;After the reorganization effective date, the Association shall not issue debt obligations which mature later than September 30, 2008, except in connection with serving as a lender-of-last-resort pursuant to section 1087–2(q) of this title or with purchasing loans under an agreement with the Secretary as described in paragraph (6). Nothing in this section shall modify the attributes accorded the debt obligations of the Association by section 1087–2 of this title, regardless of whether such debt obligations are incurred prior to, or at any time following, the reorganization effective date or are transferred to a trust in accordance with subsection (d).
+&emsp;After the reorganization effective date, the Association shall not issue debt obligations which mature later than September 30, 2008, except in connection with serving as a lender-of-last-resort pursuant to section 1087–2(q) of this title or with purchasing loans under an agreement with the Secretary as described in paragraph (6). Nothing in this section shall modify the attributes accorded the debt obligations of the Association by section 1087–2 of this title, regardless of whether such debt obligations are incurred prior to, or at any time following, the reorganization effective date orare transferred to a trust in accordance with subsection (d).
 
 #### (8) Monitoring of safety and soundness
 
@@ -140,7 +140,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (A) In general
 
-&emsp;&emsp;On the reorganization effective date, the Holding Company shall issue to the District of Columbia Financial Responsibility and Management Assistance Authority a number of stock warrants that is equal to one percent of the outstanding shares of the Association, determined as of the last day of the fiscal quarter preceding September 30, 1996, with each stock warrant entitling the holder of the stock warrant to purchase from the Holding Company one share of the registered common stock of the Holding Company or the Holding Company's successors or assigns, at any time on or before September 30, 2008. The exercise price for such warrants shall be an amount equal to the average closing price of the common stock of the Association for the 20 business days prior to September 30, 1996, on the exchange or market which is then the primary exchange or market for the common stock of the Association. The number of shares of Holding Company common stock subject to each stock warrant and the exercise price of each stock warrant shall be adjusted as necessary to reflect—
+&emsp;&emsp;On the reorganization effective date, the Holding Company shall issue to the Districtof Columbia Financial Responsibility and Management Assistance Authority a number of stock warrants that is equal to one percent of the outstanding shares of the Association, determined as of the last day of the fiscal quarter preceding September 30, 1996, with each stock warrant entitling the holder of the stock warrant to purchase from the Holding Company one share of the registered common stock of the Holding Company or the Holding Company's successors or assigns, at any time on or before September 30, 2008. The exercise price for such warrants shall be an amount equal to the average closing price of the common stock of the Association for the 20 business days prior to September 30, 1996, on the exchange or market which is then the primary exchange or market for the common stock of the Association. The number of shares of Holding Company common stock subject to each stock warrant and the exercise price of each stock warrant shall be adjusted as necessary to reflect—
 
 &emsp;&emsp;&emsp;(i) the conversion of Association common stock into Holding Company common stock as part of the plan of reorganization approved by the Association's shareholders; and
 
@@ -176,7 +176,7 @@ In the event the shareholders of the Association approve a plan of reorganizatio
 
 #### (e) Operation of Holding Company
 
-In the event the shareholders of the Association approve the plan of reorganization under subsection (b), the following provisions shall apply beginning on the reorganization effective date:
+In the event the shareholders of the Association approve the plan of reorganization under subsection (b), the following provisions shallapply beginning on the reorganization effective date:
 
 #### (1) Holding Company Board of Directors
 
@@ -246,7 +246,7 @@ For purposes of this section:
 
 &emsp;&emsp;(D) Any instruments, assets, or agreements described in section 1087–2(d) of this title (including, without limitation, all student loans and agreements relating to the purchase and sale of student loans, forward purchase and lending commitments, warehousing advances, academic facilities obligations, letters of credit, standby bond purchase agreements, liquidity agreements, and student loan revenue bonds or other loans).
 
-&emsp;&emsp;(E) Except as specifically prohibited by this section or section 1087–2 of this title, any other nonmaterial assets or liabilities of the Association which the Association's Board of Directors determines to be necessary or appropriate to the Association's operations.
+&emsp;&emsp;(E) Except as specifically prohibited by this section or section 1087–2 of this title,any other nonmaterial assets or liabilities of the Association which the Association's Board of Directors determines to be necessary or appropriate to the Association's operations.
 
 #### (6) Reorganization
 

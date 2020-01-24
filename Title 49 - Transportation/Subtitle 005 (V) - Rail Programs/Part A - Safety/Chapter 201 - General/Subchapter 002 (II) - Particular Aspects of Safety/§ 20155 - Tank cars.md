@@ -100,7 +100,7 @@ Pub. L. 114–94, div. A, title VII, §7308, Dec. 4, 2015, 129 Stat. 1599, as am
 
 "(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall implement a reporting requirement to monitor industry-wide progress towardmodifying rail tank cars used to transport Class 3 flammable liquids by the applicable deadlines established in section 7304 \[set out as a note above\].
+In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall implement a reporting requirement to monitor industry-wide progress toward modifying rail tank cars used to transport Class 3 flammable liquids by the applicable deadlines established in section 7304 \[set out as a note above\].
 
 "(b)
 
@@ -138,7 +138,7 @@ In general.—The Secretary shall only report data in industry-wide totals and s
 
 &emsp;"(2)
 
-Level of confidentiality.—The Secretary shall ensure the data collected under subsection (b) and the survey data under subsection (c) have the same level of confidentiality as required by the Confidential Information Protection and Statistical Efficiency Act of 2002 (44 U.S.C. 3501 note), as administered by the Bureau of Transportation Statistics.
+Level of confidentiality.—The Secretary shall ensure the data collected under subsection (b) and the survey data under subsection (c) have the same level of confidentiality as required by section 3572 of title 44, United States Code, as administered by the Bureau of Transportation Statistics.
 
 &emsp;"(3)
 
@@ -161,6 +161,4 @@ Report.—Each year, not later than 60 days after the date that both the collect
 Definition of Class 3
 
 Flammable Liquid.—In this section, the term 'Class 3 flammable liquid' has the meaning given the term flammable liquid in section 173.120 of title 49, Code of Federal Regulations."
-
-<i>\[Pub. L. 115–435, title III, §302(c)(5), title IV, §403, Jan. 14, 2019, 132 Stat. 5553, 5557, provided that, effective 180 days after Jan. 14, 2019, section 7308(e)(2) of Pub. L. 114–94, set out above, is amended by striking "the Confidential Information Protection and Statistical Efficiency Act of 2002 (44 U.S.C. 3501 note)" and inserting "section 3572 of title 44, United States Code".\]</i>
 

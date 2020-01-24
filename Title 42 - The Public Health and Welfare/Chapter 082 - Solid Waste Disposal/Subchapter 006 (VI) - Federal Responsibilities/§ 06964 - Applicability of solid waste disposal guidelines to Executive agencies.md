@@ -14,7 +14,7 @@
 
 &emsp;(A) which generates solid waste, and
 
-&emsp;(B) which, if conducted by a person other than such agency, would require a permit or license from such agency in order to dispose of such solid waste,
+&emsp;(B) which, if conducted by a person other than such agency, would require a permit orlicense from such agency in order to dispose of such solid waste,
 
 > shall insure compliance with such guidelines and the purposes of this chapter in conducting such activity.
 
@@ -30,7 +30,7 @@ Each Executive agency which issues any license or permit for disposal of solid w
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 3254e of this title, prior to the generalamendment of the Solid Waste Disposal Act by Pub. L. 94–580.
+Provisions similar to those in this section were contained in section 3254e of this title, prior to the general amendment of the Solid Waste Disposal Act by Pub. L. 94–580.
 
 #### Amendments
 

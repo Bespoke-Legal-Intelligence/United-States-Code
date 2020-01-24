@@ -44,13 +44,13 @@ Pub. L. 109–326, §2, Oct. 11, 2006, 120 Stat. 1761, provided that: "Congress 
 
 &emsp;"(4) additional actions and better coordination are needed to protect and effectively manage the fish and wildlife resources, and the habitats upon which the resources depend, in the Great Lakes Basin;
 
-&emsp;"(5) as of the date of enactment of this Act \[Oct. 11, 2006\], actions are not funded that are considered essential to meet the goals and objectives in managingthe fish and wildlife resources, and the habitats upon which the resources depend, in the Great Lakes Basin; and
+&emsp;"(5) as of the date of enactment of this Act \[Oct. 11, 2006\], actions are not funded that are considered essential to meet the goals and objectives in managing the fish and wildlife resources, and the habitats upon which the resources depend, in the Great Lakes Basin; and
 
 &emsp;"(6) the Great Lakes Fish and Wildlife Restoration Act \[of 1990\] (16 U.S.C. 941 et seq.) allows Federal agencies, States, and tribes to work in an effective partnership by providing the funding for restoration work."
 
 Pub. L. 105–265, §2, Oct. 19, 1998, 112 Stat. 2358, provided that: "Congress finds that—
 
-&emsp;"(1) the Great Lakes Fishery Resources Restoration Study, for which a report was submitted to Congress in 1995, was a comprehensive study of the status, and the assessment, management, and restoration needs, of the fishery resources of the Great Lakes Basin, and was conducted through the joint effort of the United States Fish and Wildlife Service, State fish and wildlife resource management agencies, Indian tribes, and the Great Lakes Fishery Commission; and
+&emsp;"(1) the Great Lakes Fishery Resources Restoration Study, for which a report was submitted to Congress in 1995, was a comprehensive study of the status, andthe assessment, management, and restoration needs, of the fishery resources of the Great Lakes Basin, and was conducted through the joint effort of the United States Fish and Wildlife Service, State fish and wildlife resource management agencies, Indian tribes, and the Great Lakes Fishery Commission; and
 
 &emsp;"(2) the study—
 

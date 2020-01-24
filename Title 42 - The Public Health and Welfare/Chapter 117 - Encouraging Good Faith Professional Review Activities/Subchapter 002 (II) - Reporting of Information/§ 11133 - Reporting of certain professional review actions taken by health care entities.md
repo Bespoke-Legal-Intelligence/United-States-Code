@@ -20,7 +20,7 @@
 
 #### (2) Permissive reporting on other licensed health care practitioners
 
-&emsp;A health care entity may report to the Board of Medical Examiners, in accordancewith section 11134(a) of this title, the information described in paragraph (3) in the case of a licensed health care practitioner who is not a physician, if the entity would be required to report such information under paragraph (1) with respect to the practitioner if the practitioner were a physician.
+&emsp;A health care entity may report to the Board of Medical Examiners, in accordance with section 11134(a) of this title, the information described in paragraph (3) in the case of a licensed health care practitioner who is not a physician, if the entity would be required to report such information under paragraph (1) with respect to the practitioner if the practitioner were a physician.
 
 #### (3) Information to be reported
 

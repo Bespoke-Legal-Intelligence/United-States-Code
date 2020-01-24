@@ -12,7 +12,7 @@ The Board shall be composed of eleven members, as follows:
 
 &emsp;(2) The Secretary of the Smithsonian Institution, who shall serve as an ex officio member;
 
-&emsp;(3) Nine members appointed by the President, (A) three of whom shall be appointed from persons recommended by the Secretary of Defense to represent the Armed Forces, and (B) two of whom shall be appointed from among persons recommended by the Regents of the Smithsonian Institution. Not less than two members appointed by the President shall be from civilian life.
+&emsp;(3) Nine members appointed by the President, (A) three of whom shall be appointed from persons recommended by the Secretaryof Defense to represent the Armed Forces, and (B) two of whom shall be appointed from among persons recommended by the Regents of the Smithsonian Institution. Not less than two members appointed by the President shall be from civilian life.
 
 #### (c) Term of office; vacancies
 

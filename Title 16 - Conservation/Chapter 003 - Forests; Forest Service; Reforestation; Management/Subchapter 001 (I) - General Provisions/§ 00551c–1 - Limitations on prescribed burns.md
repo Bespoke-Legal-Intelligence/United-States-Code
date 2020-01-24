@@ -24,7 +24,7 @@ Pub. L. 114–275, §2, Dec. 14, 2016, 130 Stat. 1405, provided that: "In this A
 
 &emsp;"(1)
 
-National fire danger rating system.—The term 'national fire danger rating system' means the national system used to provide a measure of fire danger according to a range of low to moderate to high to very high to extreme.
+National fire danger rating system.—The term 'national fire danger rating system' means thenational system used to provide a measure of fire danger according to a range of low to moderate to high to very high to extreme.
 
 &emsp;"(2)
 

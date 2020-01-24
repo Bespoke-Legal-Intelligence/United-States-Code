@@ -54,7 +54,7 @@ In General.—The Secretary of Defense shall establish a pilot program to assess
 
 &emsp;&emsp;"(B) to further scientific exchange among the laboratories of the agency;
 
-&emsp;&emsp;"(C) for education and training of employees consistent with the research and development missions and objectives of the agency or laboratory, and for other activities that increase the potential for transfer of the technology of the laboratories of the agency;
+&emsp;&emsp;"(C) for education and training of employees consistent with the research and development missionsand objectives of the agency or laboratory, and for other activities that increase the potential for transfer of the technology of the laboratories of the agency;
 
 &emsp;&emsp;"(D) for payment of expenses incidental to the administration and licensing of intellectual property by the agency or laboratory with respect to inventions made at that laboratory, including the fees or other costs for the services of other agencies, persons, or organizations for intellectual property management and licensing services; or
 
@@ -166,7 +166,7 @@ Exception.—If, after payments under paragraph (1)(A), the balance of the royal
 
 &emsp;"(3)
 
-Status of payments to employees.—Any payment made to an employee under this section shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which the employee is otherwise entitled or for which the employee is otherwise eligible or limit the amount thereof exceptthat the monetary value of an award for the same project or effort shall be deducted from the amount otherwise available under this paragraph. Payments, determined under the terms of this paragraph and made to an employee developer as such, may continue after the developer leaves the DOD laboratory or the Department of Defense or military department. Payments made under this section shall not exceed $75,000 per year to any one person, unless the President approves a larger award (with the excess over $75,000 being treated as a Presidential award under section 4504 of title 5, United States Code).
+Status of payments to employees.—Any payment made to an employee under this section shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which the employee is otherwise entitled or for which the employee is otherwise eligible or limit the amount thereof except that the monetary value of an award for the same project or effort shall be deducted from the amount otherwise available under this paragraph. Payments, determined under the terms of this paragraph and made to an employee developer as such, may continue after the developer leaves the DOD laboratory or the Department of Defense or military department. Payments made under this section shall not exceed $75,000 per year to any one person, unless the President approves a larger award (with the excess over $75,000 being treated as a Presidential award under section 4504 of title 5, United States Code).
 
 "(d)
 

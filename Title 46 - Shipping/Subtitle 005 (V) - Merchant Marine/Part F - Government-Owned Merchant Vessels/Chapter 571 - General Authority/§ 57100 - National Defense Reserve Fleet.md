@@ -66,7 +66,7 @@ Applicability of Limitations on Overhaul, Repair, and Maintenance in Foreign Shi
 
 &emsp;(1)
 
-Application of limitation.—The provisions of section 8680 of title 10 shall apply tovessels specified in subsection (b), and to the Secretary of Transportation with respect to those vessels, in the same manner as those provisions apply to vessels specified in subsection (b) of such section, and to the Secretary of the Navy, respectively.
+Application of limitation.—The provisions of section 8680 of title 10 shall apply to vessels specified in subsection (b), and to the Secretary of Transportation with respect to those vessels, in the same manner as those provisions apply to vessels specified in subsection (b) of such section, and to the Secretary of the Navy, respectively.
 
 &emsp;(2)
 
@@ -108,7 +108,7 @@ Vessel Status.—A vessel in the National Defense Reserve Fleet determined by th
 
 #### References in Text
 
-Section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242), referred to in subsec. (b)(1), is section 902 of act June 29, 1936, ch. 858, 49 Stat. 2015, which was classified to section 1242 of the former Appendix to this title prior to repeal and restatement as chapter 563 of this title by Pub. L. 109–304, §§8(c), 19, Oct. 6, 2006, 120 Stat. 1654, 1713.
+Section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242), referred to in subsec. (b)(1), is section 902 of act June 29, 1936, ch. 858, 49 Stat. 2015, which was classified to section 1242 of the former Appendix to this title prior to repeal and restatement as chapter 563 ofthis title by Pub. L. 109–304, §§8(c), 19, Oct. 6, 2006, 120 Stat. 1654, 1713.
 
 #### Codification
 
@@ -142,7 +142,7 @@ Pub. L. 104–239, §16, Oct. 8, 1996, 110 Stat. 3138, provided that:
 
 "(a)
 
-In General.—The Secretary of Transportation shall conduct a pilot program to evaluate the feasibility of using renewable contracts for the maintenance and repair of outported vessels in the Ready Reserve Force to enhance the readiness of those vessels. Under the pilot program, the Secretary, subject to the availability of appropriations and within 6 months after thedate of the enactment of this Act \[Oct. 8, 1996\], shall award 9 contracts for this purpose.
+In General.—The Secretary of Transportation shall conduct a pilot program to evaluate the feasibility of using renewable contracts for the maintenance and repair of outported vessels in the Ready Reserve Force to enhance the readiness of those vessels. Under the pilot program, the Secretary, subject to the availability of appropriations and within 6 months after the date of the enactment of this Act \[Oct. 8, 1996\], shall award 9 contracts for this purpose.
 
 "(b)
 

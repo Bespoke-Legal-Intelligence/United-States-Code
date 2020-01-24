@@ -22,7 +22,7 @@ Benefits.—The benefits described in this subsection are the following:
 
 &emsp;(1) A period of rest and recuperation absence for not more than 15 days.
 
-&emsp;(2) Round-trip transportation at Government expense from the area or location in which the member is serving in connection with the exercise of the period of rest and recuperation.
+&emsp;(2) Round-trip transportation at Government expense from the area or location in which themember is serving in connection with the exercise of the period of rest and recuperation.
 
 (d)
 

@@ -38,7 +38,7 @@ Option To Purchase.—The charter may contain an option to the charterer to purc
 
 &emsp;(3) the charter may provide that any part of the charter hire paid in excess of the minimum charter hire provided for in this section may be credited against the cash payment payable at the time of the purchase;
 
-&emsp;(4) the balance of the purchase price shall be paid within the remaining years of useful life (as specified in subsection (b)(2)) after the date of delivery of the vessel under the charter and in approximately equal annual installments, except that the first installment, which shall be payable on the next ensuing anniversary date of the delivery under the charter, shall be a proportionate part of the annual installment; and
+&emsp;(4) the balance of the purchase price shall be paid within the remaining years of useful life\(as specified in subsection (b)(2)) after the date of delivery of the vessel under the charter and in approximately equal annual installments, except that the first installment, which shall be payable on the next ensuing anniversary date of the delivery under the charter, shall be a proportionate part of the annual installment; and
 
 &emsp;(5) interest shall be payable on the unpaid balances from the date of purchase, at a rate not less than—
 

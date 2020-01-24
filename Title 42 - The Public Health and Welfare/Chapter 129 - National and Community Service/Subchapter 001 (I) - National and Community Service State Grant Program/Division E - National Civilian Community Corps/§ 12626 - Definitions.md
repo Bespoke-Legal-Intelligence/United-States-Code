@@ -110,7 +110,7 @@ Par. (10). Pub. L. 103–82, §403(a)(4)(B), which directed amendment of par. (6
 
 Pub. L. 103–82, §104(e)(2)(H)(iii), substituted "section 12615(d)" for "section 12653d(d)".
 
-Par. (11). Pub. L. 103–82, §403(a)(4)(B), which directed amendment of par. (6) of this section by redesignating par. (11) as (10) was executed by redesignating par. (11) of this section as (10), to reflect the probable intent of Congress.
+Par. (11). Pub. L. 103–82, §403(a)(4)(B), which directed amendment of par. (6) of this section by redesignatingpar. (11) as (10) was executed by redesignating par. (11) of this section as (10), to reflect the probable intent of Congress.
 
 Pub. L. 103–82, §104(e)(2)(H)(iv), substituted "section 12615(c)" for "section 12653d(c)".
 

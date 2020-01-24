@@ -44,7 +44,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 &emsp;(6) Every political organization (within the meaning of section 527(e)(1)), and every fund treated under section 527(g) as if it constituted a political organization, which has political organization taxable income (within the meaning of section 527(c)(1)) for the taxable year;
 
-&emsp;(7) Every homeowners association (within the meaning of section 528(c)(1)) which hashomeowners association taxable income (within the meaning of section 528(d)) for the taxable year; and
+&emsp;(7) Every homeowners association (within the meaning of section 528(c)(1)) which has homeowners association taxable income (within the meaning of section 528(d)) for the taxable year; and
 
 &emsp;(8) Every estate of an individual under chapter 7 or 11 of title 11 of the United States Code (relating to bankruptcy) the gross income of which for the taxable year is not less than the sum of the exemption amount plus the basic standard deduction under section 63(c)(2)(C);
 
@@ -70,7 +70,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 #### (5) Joint fiduciaries
 
-&emsp;Under such regulations as the Secretary may prescribe, a return made by one of two or more joint fiduciaries shall be sufficient compliance with the requirements of this section. A return made pursuant to this paragraph shall contain a statement that the fiduciary has sufficient knowledge of the affairs of the person for whom the return is made to enable him to make the return, and that the return is, to the best of his knowledge and belief, true and correct.
+&emsp;Under such regulations as the Secretary may prescribe, a return made by one of two or more joint fiduciaries shall be sufficient compliance with the requirements of this section. A return made pursuant to this paragraph shall contain a statement that the fiduciary has sufficient knowledge of the affairs of the person for whom the return is made to enablehim to make the return, and that the return is, to the best of his knowledge and belief, true and correct.
 
 #### (6) IRA share of partnership income
 
@@ -104,7 +104,7 @@ In the case of a taxable year beginning after December 31, 2017, and before Janu
 
 &emsp;&emsp;(D) neither such individual nor such individual's spouse is an individual described in section 63(c)(5) who has income (other than earned income) in excess of the amount in effect under section 63(c)(5)(A).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–866, title I, §72(a), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 88–272, title II, §206(b)(1), Feb. 26, 1964, 78 Stat. 40; Pub. L. 91–172, title IX, §941(a), (d), Dec. 30, 1969, 83 Stat. 726; Pub. L. 92–178, title II,§204(a), Dec. 10, 1971, 85 Stat. 511; Pub. L. 93–443, title IV, §407, Oct. 15, 1974, 88 Stat. 1297; Pub. L. 93–625, §10(b), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–12, title II, §201(b), Mar. 29, 1975, 89 Stat. 29; Pub. L. 94–164, §2(a)(2), Dec. 23, 1975, 89 Stat. 970; Pub. L. 94–455, title IV, §401(b)(3), title XIX, §1906(b)(13)(A), title XXI, §2101(c), Oct. 4, 1976, 90 Stat. 1556, 1834, 1899; Pub. L. 95–30, title I, §104, May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title I, §§101(c), 102(b)(1), 105(d), title IV, §404(c)(8), Nov. 6, 1978, 92 Stat. 2770, 2771, 2776, 2870; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5), Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–589, §§3(b), 6(i)(5), Dec. 24, 1980, 94 Stat. 3400, 3410; Pub. L. 97–34, title I, §§104(d)(1), 111(b)(3), Aug. 13, 1981, 95 Stat. 189, 194; Pub. L. 98–369, div. A, title IV, §412(b)(3), July 18, 1984, 98 Stat. 792; Pub. L. 99–514, title I, §104(a)(1), title XV, §1525(a), Oct. 22, 1986, 100 Stat. 2103, 2749; Pub. L. 100–647, title I, §1001(b)(2), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 105–34, title III, §312(d)(11), title XII, §1225, Aug. 5, 1997, 111 Stat. 840, 1019; Pub. L. 106–230, §3(a)(1), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(a), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 111–226, title II, §219(b)(1), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 115–97, title I, §11041(e), Dec. 22, 2017, 131 Stat. 2085; Pub. L. 115–141, div. U, title IV, §401(a)(255)–(257), Mar. 23, 2018, 132 Stat. 1196.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–866, title I, §72(a), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 88–272, title II, §206(b)(1), Feb. 26, 1964, 78 Stat. 40; Pub. L. 91–172, title IX, §941(a), (d), Dec. 30, 1969, 83 Stat. 726; Pub. L. 92–178, title II, §204(a), Dec. 10, 1971, 85 Stat. 511; Pub. L. 93–443, title IV, §407, Oct. 15, 1974, 88 Stat. 1297; Pub. L. 93–625, §10(b), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–12, title II, §201(b), Mar. 29, 1975, 89 Stat. 29; Pub. L. 94–164, §2(a)(2), Dec. 23, 1975, 89 Stat. 970; Pub. L. 94–455, title IV, §401(b)(3), title XIX, §1906(b)(13)(A), title XXI, §2101(c), Oct. 4, 1976, 90 Stat. 1556, 1834, 1899; Pub. L. 95–30, title I, §104, May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title I, §§101(c), 102(b)(1), 105(d), title IV, §404(c)(8), Nov. 6, 1978, 92 Stat. 2770, 2771, 2776, 2870; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5), Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–589, §§3(b), 6(i)(5), Dec. 24, 1980, 94 Stat. 3400, 3410; Pub. L. 97–34, title I, §§104(d)(1), 111(b)(3), Aug. 13, 1981, 95 Stat. 189, 194; Pub. L. 98–369, div. A, title IV, §412(b)(3), July 18, 1984, 98 Stat. 792; Pub. L. 99–514, title I, §104(a)(1), title XV, §1525(a), Oct. 22, 1986, 100 Stat. 2103, 2749; Pub. L. 100–647, title I, §1001(b)(2), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 105–34, title III, §312(d)(11), title XII, §1225, Aug. 5, 1997, 111 Stat. 840, 1019; Pub. L. 106–230, §3(a)(1), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(a), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 111–226, title II, §219(b)(1), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 115–97, title I, §11041(e), Dec. 22, 2017, 131 Stat. 2085; Pub. L. 115–141, div. U, title IV, §401(a)(255)–(257), Mar. 23, 2018, 132 Stat. 1196.)
 
 #### Amendments
 
@@ -176,7 +176,7 @@ Subsec. (b)(3). Pub. L. 96–589, §6(i)(5), substituted "trustee in a case unde
 
 Subsec. (b)(4). Pub. L. 96–589, §3(b)(2), inserted reference to estate of an individual under chapter 7 or 11 of title 11 of the United States Code.
 
-<b>1978</b>—Subsec. (a)(1)(A). Pub. L. 95–600, §§101(c), 102(b)(1), substituted in provision preceding cl. (i),"$1,000" for "$750", in cl. (i), "$3,050" for "$2,950" and "$3,300" for "$3,050", in cl. (ii), "$4,150" for "$3,950" and "$4,400" for "$4,150", and in cl. (iii), "$4,900" for "$4,700" and "$5,400" for "$4,900".
+<b>1978</b>—Subsec. (a)(1)(A). Pub. L. 95–600, §§101(c), 102(b)(1), substituted in provision preceding cl. (i), "$1,000" for "$750", in cl. (i), "$3,050" for "$2,950" and "$3,300" for "$3,050", in cl. (ii), "$4,150" for "$3,950" and "$4,400" for "$4,150", and in cl. (iii), "$4,900" for "$4,700" and "$5,400" for "$4,900".
 
 Subsec. (a)(8). Pub. L. 95–600, §105(d), added par. (8).
 
@@ -298,7 +298,7 @@ Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning
 
 #### Effective Date of 1971 Amendment
 
-Pub. L. 92–178, title II, §204(a), Dec. 10, 1971, 85 Stat. 511, provided that the amendment made by section 204(a) is effective with respect to taxable years beginning after Dec. 31, 1971.
+Pub. L. 92–178, title II, §204(a), Dec. 10, 1971, 85 Stat. 511, provided that the amendment made by section204(a) is effective with respect to taxable years beginning after Dec. 31, 1971.
 
 #### Effective Date of 1969 Amendment
 
@@ -316,23 +316,7 @@ Pub. L. 85–866, title I, §72(c), Sept. 2, 1958, 72 Stat. 1660, provided that:
 
 #### Return-Free Tax System
 
-Pub. L. 105–206, title II, §2004, July 22, 1998, 112 Stat. 726, provided that:
-
-"(a)
-
-In General.—The Secretary of the Treasury or the Secretary's delegate shall develop procedures for the implementation of a return-free tax system under which appropriate individuals would be permitted to comply with the Internal Revenue Code of 1986 without making the return required under section 6012 of such Code for taxable years beginning after 2007.
-
-"(b)
-
-Report.—Not later than June 30 of each calendar year after 1999, the Secretary shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on—
-
-&emsp;"(1) what additional resources the Internal Revenue Service would need to implement such a system;
-
-&emsp;"(2) the changes to the Internal Revenue Code of 1986 that could enhance the use of such a system;
-
-&emsp;"(3) the procedures developed pursuant to subsection (a); and
-
-&emsp;"(4) the number and classes of taxpayers that would be permitted to use the procedures developed pursuant to subsection (a)."
+Pub. L. 105–206, title II, §2004, July 22, 1998, 112 Stat. 726, related to the development of procedures for the implementation of a return-free tax system for taxable years beginning after 2007 and required an annual report to Congress, prior to repeal by Pub. L. 116–25, title II, §2401, July 1, 2019, 133 Stat. 1014.
 
 #### No Return Required of Individual Whose Only Gross Income Is Grant of $1,000 From State
 

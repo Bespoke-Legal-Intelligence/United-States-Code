@@ -10,7 +10,7 @@ Notwithstanding the provisions of subsection (a) of this section and subject to 
 
 #### (c) Delay in payment or attempt to delay deemed unfair practice
 
-Any delay or attempt to delay by a market agency, dealer, or packer purchasing livestock, the collection of funds as herein provided, or otherwise for the purpose of or resulting in extending the normal period of payment for such livestock shall be considered an "unfair practice" in violation of this chapter. Nothing in this section shall be deemed to limit the meaning of the term "unfair practice" as used in this chapter.
+Any delay or attempt to delay by a market agency, dealer, or packer purchasing livestock,the collection of funds as herein provided, or otherwise for the purpose of or resulting in extending the normal period of payment for such livestock shall be considered an "unfair practice" in violation of this chapter. Nothing in this section shall be deemed to limit the meaning of the term "unfair practice" as used in this chapter.
 
 (Aug. 15, 1921, ch. 64, title IV, §409, as added Pub. L. 94–410, §7, Sept. 13, 1976, 90 Stat. 1250; amended Pub. L. 114–237, §3, Oct. 7, 2016, 130 Stat. 970.)
 

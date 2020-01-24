@@ -42,7 +42,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec.31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
+<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -58,7 +58,7 @@ Subsec. (c). Pub. L. 100–418, §1423(b)(2), substituted "under section 2291(b)
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–272 substituted "under any Federal law other than this chapter" for "under any Federal law,", "section 2291(c) or 2296(c) of this title" for "section 2296(c) of this title", and "If such training allowance" for "If the training allowance".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2504(a)(1), substituted provisions setting forth amount of allowance as reduced (but not below zero) by training allowance and income deductions for provisions setting forth amount of allowance as computed by specified percentages of wages and reduced by paid remuneration.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2504(a)(1), substituted provisions setting forth amount of allowanceas reduced (but not below zero) by training allowance and income deductions for provisions setting forth amount of allowance as computed by specified percentages of wages and reduced by paid remuneration.
 
 Subsecs. (c), (d). Pub. L. 97–35, §2504(a)(2)–(4), redesignated subsec. (d) as (c) and struck out references to unemployment insurance and to the inapplicability of former subsecs. (c) and (e) of this section. Former subsec. (c), which related to the computation of unemployment insurance, was struck out.
 

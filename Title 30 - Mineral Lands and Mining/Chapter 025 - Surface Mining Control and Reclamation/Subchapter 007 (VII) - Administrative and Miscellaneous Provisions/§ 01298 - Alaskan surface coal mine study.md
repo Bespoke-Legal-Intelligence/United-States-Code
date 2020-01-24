@@ -18,7 +18,7 @@ Until one year after the Secretary has made this report to the President and Con
 
 #### (e) Interim regulations
 
-In order to allow new mines in Alaska to continue orderly development, the Secretary is authorized to issue interim regulations pursuant to section 1251(b) of this title including those modifications to the environmental standards as required based on the special physical, hydrological and climatic conditions in Alaska but with the purpose of protecting the environmentto an extent equivalent to those standards for the other coal regions.
+In order to allow new mines in Alaska to continue orderly development, the Secretary is authorized to issue interim regulations pursuant to section 1251(b) of this title including those modifications to the environmental standards as required based on the special physical, hydrological and climatic conditions in Alaska but with the purpose of protecting the environment to an extent equivalent to those standards for the other coal regions.
 
 #### (f) Authorization of appropriations
 

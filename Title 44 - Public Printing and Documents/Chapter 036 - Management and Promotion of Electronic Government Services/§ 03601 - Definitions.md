@@ -64,7 +64,7 @@ Immediate enactment.—Sections 207, 214, and 215 \[set out in a note under sect
 
 #### Federal Data Center Consolidation Initiative
 
-Pub. L. 113–291, div. A, title VIII, §834, Dec. 19, 2014, 128 Stat. 3444, as amended by Pub. L. 115–88, §4, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, §819(c), Dec. 12, 2017, 131 Stat. 1464, provided that:
+Pub. L. 113–291, div. A, title VIII, §834, Dec. 19, 2014, 128 Stat. 3444, as amended by Pub. L. 115–88, §4, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, §819(c), Dec. 12, 2017, 131 Stat. 1464; Pub. L. 116–92, div. A, title VIII, §824, Dec. 20, 2019, 133 Stat. 1491, provided that:
 
 "(a)
 
@@ -156,7 +156,7 @@ Annual reporting.—Except as provided in subparagraph (C), each year, beginning
 
 &emsp;&emsp;&emsp;"(bb) by which the quantitative and qualitative progress of the agency toward the goals of the FDCCI can be measured;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) a timeline for agency activities to be completed under the FDCCI, with an emphasison benchmarks the agency can achieve by specific dates;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) a timeline for agency activities to be completed under the FDCCI, with an emphasis on benchmarks the agency can achieve by specific dates;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) year-by-year calculations of investment and cost savings for the period beginning on the date of the enactment of this Act and ending on the date set forth in subsection (e), broken down by each year, including a description of any initial costs for data center consolidation and optimization and life cycle cost savings and other improvements, with an emphasis on—
 
@@ -260,7 +260,7 @@ Annual update.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Not later than one year after the date on which the goal described in subparagraph (A) is made publicly available, and each year thereafter, the Administrator shall aggregate the reported cost savings of each covered agency and optimization improvements achieved to date through the FDCCI and compare the savings to the projected cost savings and optimization improvements developed under subparagraph (A).
+In general.—Not later than one year after the date on which the goal described in subparagraph (A) is made publicly available, and eachyear thereafter, the Administrator shall aggregate the reported cost savings of each covered agency and optimization improvements achieved to date through the FDCCI and compare the savings to the projected cost savings and optimization improvements developed under subparagraph (A).
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -300,11 +300,11 @@ Rule of construction.—Nothing in this section shall be construed to limit the 
 
 "(d)
 
-Waiver of Requirements.—The Director of National Intelligence and the Secretary of Defense, or their respective designee, may waive the applicability to any national security system, as defined in \[former\] section 3542 of title 44, United States Code, \[see 44 U.S.C. 3552\] of any provision of this section if the Director of National Intelligence or the Secretary of Defense, or their respective designee, determines that such waiver is in the interest of national security. Not later than 30 days after making a waiver under this subsection, the Director of National Intelligence or the Secretary of Defense, or their respective designee, shall submit to the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate and the Committee on Oversight and Government Reform and the Permanent Select Committee on Intelligence of the House of Representatives a statement describing the waiver and the reasons for the waiver.
+Waiver of Requirements.—The Director of National Intelligence and the Secretary of Defense, or their respective designee, may waive the applicability to any national security system, as defined in \[former\] section 3542 of title 44, United States Code, \[see 44 U.S.C. 3552\] of any provision of this section if the Director of National Intelligence or the Secretary of Defense, or their respective designee, determines that such waiver is in the interest of national security. Not later than 30 days after making a waiver under this subsection, the Director of National Intelligence or the Secretary of Defense, or their respective designee, shall submit to the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] and the Permanent Select Committee on Intelligence of the House of Representatives a statement describing the waiver and the reasons for the waiver.
 
 "(e)
 
-Sunset.—This section is repealed effective on October 1, 2020."
+Sunset.—This section is repealed effective on October 1, 2022."
 
 \[Pub. L. 115–88 and Pub. L. 115–91 amended section 834(e) of Pub. L. 113–291, set out above, identically by striking "2018" and inserting "2020".\]
 
@@ -352,7 +352,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(5) Electronic Government has its impact through improved Government performance and outcomes within and across agencies.
 
-&emsp;"(6) Electronic Government is a critical element in the management of Government, to be implemented as part of a management framework that also addresses finance, procurement, human capital, and other challenges to improve the performance of Government.
+&emsp;"(6) Electronic Government is a critical element in the management of Government, to be implemented as part of a management framework that also addresses finance, procurement, human capital, andother challenges to improve the performance of Government.
 
 &emsp;"(7) To take full advantage of the improved Government performance that can be achieved through the use of Internet-based technology requires strong leadership, better organization, improved interagency collaboration, and more focused oversight of agency compliance with statutes related to information resource management.
 
@@ -364,7 +364,7 @@ Purposes.—The purposes of this Act \[see Tables for classification\] are the f
 
 &emsp;"(2) To promote use of the Internet and other information technologies to provide increased opportunities for citizen participation in Government.
 
-&emsp;"(3) To promote interagency collaboration in providing electronic Government services, where this collaboration would improve the service to citizens by integrating related functions, and in the use of internal electronic Government processes, where thiscollaboration would improve the efficiency and effectiveness of the processes.
+&emsp;"(3) To promote interagency collaboration in providing electronic Government services, where this collaboration would improve the service to citizens by integrating related functions, and in the use of internal electronic Government processes, where this collaboration would improve the efficiency and effectiveness of the processes.
 
 &emsp;"(4) To improve the ability of the Government to achieve agency missions and program performance goals.
 

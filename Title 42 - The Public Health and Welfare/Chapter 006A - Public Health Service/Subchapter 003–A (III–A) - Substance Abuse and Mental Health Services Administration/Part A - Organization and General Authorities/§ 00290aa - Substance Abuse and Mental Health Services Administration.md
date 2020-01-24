@@ -38,7 +38,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;(5) support activities that will improve the provision of treatment, prevention and related services, including the development of national mental health and substance use disorder goals and model programs;
 
-&emsp;(6) in cooperation with the National Institutes of Health, the Centers for Disease Control and Prevention, and the Health Resources and Services Administration, develop educational materials and intervention strategies to reduce the risks of HIV, hepatitis, tuberculosis, and other communicable diseasesamong individuals with mental or substance use disorders, and to develop appropriate mental health services for individuals with such diseases or disorders;
+&emsp;(6) in cooperation with the National Institutes of Health, the Centers for Disease Control and Prevention, and the Health Resources and Services Administration, develop educational materials and intervention strategies to reduce the risks of HIV, hepatitis, tuberculosis, and other communicable diseases among individuals with mental or substance use disorders, and to develop appropriate mental health services for individuals with such diseases or disorders;
 
 &emsp;(7) coordinate Federal policy with respect to the provision of treatment services for substance use disorders, including services that utilize drugs or devices approved or cleared by the Food and Drug Administration for the treatment of substance use disorders;
 
@@ -98,7 +98,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;&emsp;(E) the extent to which the grantee is proposing to use evidence-based practices; and
 
-&emsp;(25) advance, through existing programs, the use of performance metrics, including those based on the recommendations on performance metrics from the Assistant Secretary for Planning and Evaluation under section 6021(d) of the Helping Families in Mental Health Crisis Reform Act of 2016.
+&emsp;(25) advance, through existing programs, the use of performance metrics, including those based on the recommendations on performance metrics from the Assistant Secretary for Planning and Evaluation under section 6021(d) ofthe Helping Families in Mental Health Crisis Reform Act of 2016.
 
 #### (e) Associate Administrator for Alcohol Prevention and Treatment Policy
 
@@ -152,7 +152,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) the extent of expenditures made for women's substance abuse and mental health services by the agencies of the Administration; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the estimated level of funding needed for substance abuse and mental health services to meet the needs of women;
+&emsp;&emsp;&emsp;&emsp;(II) the estimated level of funding needed for substance abuse and mentalhealth services to meet the needs of women;
 
 &emsp;&emsp;(D) improve the collection of data on women's health by—
 
@@ -216,7 +216,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;&emsp;(D) participate in regular strategic planning with the Administration;
 
-&emsp;&emsp;(E) coordinate with the Assistant Secretary for Planning and Evaluation to assess the use of performance metrics to evaluateactivities within the Administration related to mental and substance use disorders; and
+&emsp;&emsp;(E) coordinate with the Assistant Secretary for Planning and Evaluation to assess the use of performance metrics to evaluate activities within the Administration related to mental and substance use disorders; and
 
 &emsp;&emsp;(F) coordinate with the Assistant Secretary to ensure mental and substance use disorders grant programs within the Administration consistently utilize appropriate performance metrics and evaluation designs.
 
@@ -328,7 +328,7 @@ With respect to awards of grants, cooperative agreements, and contracts under th
 
 &emsp;(2) with respect to carrying out the purpose for which the award is to be provided, the application provides assurances of compliance satisfactory to such official; and
 
-&emsp;(3) the application is otherwise in such form, is made in such manner, and contains such agreements, assurances, and information asthe official determines to be necessary to carry out the purpose for which the award is to be provided.
+&emsp;(3) the application is otherwise in such form, is made in such manner, and contains such agreements, assurances, and information as the official determines to be necessary to carry out the purpose for which the award is to be provided.
 
 #### (o) Emergency response
 
@@ -350,7 +350,7 @@ With respect to awards of grants, cooperative agreements, and contracts under th
 
 #### (p) Limitation on the use of certain information
 
-No information, if an establishment or person supplying the information or described in it is identifiable, obtained in the course of activities undertaken or supported under section 290aa–4 of this title may be used for any purpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose. Such information may not be published or released in other form if the person who supplied the information or who is described in it is identifiable unless such person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
+No information, if an establishment or person supplying the information or described in it is identifiable, obtained in the course of activities undertaken or supported under section 290aa–4of this title may be used for any purpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose. Such information may not be published or released in other form if the person who supplied the information or who is described in it is identifiable unless such person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
 
 #### (q) Authorization of appropriations
 
@@ -394,7 +394,7 @@ Subsec. (d)(7). Pub. L. 114–255, §6002(2)(E), substituted "use disorders, inc
 
 Subsec. (d)(8). Pub. L. 114–255, §6002(2)(F), substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy Research" and "prevention and treatment" for "treatment and prevention".
 
-Subsec. (d)(9). Pub. L. 114–255, §6002(2)(G), inserted "and maintenance" after "development" and substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy Research" and "prevention, treatment, and recovery support servicesand are appropriately incorporated into programs carried out by the Administration" for "treatment and prevention services".
+Subsec. (d)(9). Pub. L. 114–255, §6002(2)(G), inserted "and maintenance" after "development" and substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy Research" and "prevention, treatment, and recovery support services and are appropriately incorporated into programs carried out by the Administration" for "treatment and prevention services".
 
 Subsec. (d)(10). Pub. L. 114–255, §6002(2)(H), substituted "use disorder" for "abuse".
 
@@ -560,7 +560,7 @@ Adequate Personnel and Resources.—The transfers required under this subtitle s
 
 "(a)
 
-Substance Abuse and Mental Health Services Administration.—Except as otherwise provided in thePublic Health Service Act \[42 U.S.C. 201 et seq.\], all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration by this subtitle, subject to section 1531 of title 31, United States Code, shall be transferred to the Substance Abuse and Mental Health Services Administration. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
+Substance Abuse and Mental Health Services Administration.—Except as otherwise provided in the Public Health Service Act \[42 U.S.C. 201 et seq.\], all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration by this subtitle, subject to section 1531 of title 31, United States Code, shall be transferred to the Substance Abuse and Mental Health Services Administration. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
 "(b)
 
@@ -618,7 +618,7 @@ Effect on Legal Actions.—Except as provided in subsection (e)—
 
 "(d)
 
-No Abatement of Actions or Proceedings.—No action or other proceeding commenced by or against any officer in his official capacity as an officer of the Department of Health and Human Services with respect to functions transferred by this subtitle shall abate by reason of the enactment of this Act \[see Tables for classification\]. No cause of action by or against the Department of Health and Human Services with respect to functions transferred by this subtitle, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act. Causes of action and actions with respect to a function transferred by this subtitle, or other proceedings may be asserted by or against the United States or the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, as may be appropriate, and, in an action pending when this Act takes effect \[see Effective Date of 1992 Amendment note set out under section 236 of this title\], the court may at any time, on its own motion orthat of any party, enter an order which will give effect to the provisions of this subsection.
+No Abatement of Actions or Proceedings.—No action or other proceeding commenced by or against any officer in his official capacity as an officer of the Department of Health and Human Services with respect to functions transferred by this subtitle shall abate by reason of the enactment of this Act \[see Tables for classification\]. No cause of action by or against the Department of Health and Human Services with respect to functions transferred by this subtitle, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act. Causes of action and actions with respect to a function transferred by this subtitle, or other proceedings may be asserted by or against the United States or the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, as may be appropriate, and, in an action pending when this Act takes effect \[see Effective Date of 1992 Amendment note set out under section 236 of this title\], the court may at any time, on its own motion or that of any party, enter an order which will give effect to the provisions of this subsection.
 
 "(e)
 
@@ -626,7 +626,7 @@ Substitution.—If, before the date of enactment of this Act \[July 10, 1992\], 
 
 "(f)
 
-Judicial Review.—Orders and actions of the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health in the exercise of functions transferred to the Directors by this subtitle shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, or any office or officer thereof, in the exercise of such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this subtitle shall apply to the exercise of such function by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors.
+Judicial Review.—Orders and actions of the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health in the exercise of functions transferred to the Directors by this subtitle shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, or any office or officer thereof, in the exercise of such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this subtitle shall apply to the exercise of such function by the Administrator of the SubstanceAbuse and Mental Health Services Administration or the Directors.
 
 #### "SEC. 146. TRANSITION.
 
@@ -798,7 +798,7 @@ Consultation.—In carrying out this section, the Assistant Secretary for Planni
 
 "(d)
 
-Recommendations.—In carrying out this section, the Assistant Secretary for Planning and Evaluation shall provide recommendations to the Secretary ofHealth and Human Services, the Assistant Secretary for Mental Health and Substance Use, and the Congress on improving the quality of prevention and treatment programs and activities related to mental and substance use disorders, including recommendations for the use of performance metrics. The Assistant Secretary for Mental Health and Substance Use shall include such recommendations in the biennial report required by subsection 501(m) of the Public Health Service Act \[42 U.S.C. 290aa(m)\], as redesignated by section 6003 of this Act."
+Recommendations.—In carrying out this section, the Assistant Secretary for Planning and Evaluation shall provide recommendations to the Secretary of Health and Human Services, the Assistant Secretary for Mental Health and Substance Use, and the Congress on improving the quality of prevention and treatment programs and activities related to mental and substance use disorders, including recommendations for the use of performance metrics. The Assistant Secretary for Mental Health and Substance Use shall include such recommendations in the biennial report required by subsection 501(m) of the Public Health Service Act \[42 U.S.C. 290aa(m)\], as redesignated by section 6003 of this Act."
 
 #### Assisted Outpatient Treatment Grant Program for Individuals With Serious Mental Illness
 
@@ -908,7 +908,7 @@ Pub. L. 98–24, §1(b), Apr. 26, 1983, 97 Stat. 175, provided that: "It is the 
 
 #### Alcohol and Drug Abuse and Mental Health Reports by the Secretary
 
-Pub. L. 98–24, §3, Apr. 26, 1983, 97 Stat. 182, directed Secretary of Health and Human Services to submit to Congress, on or before Jan. 15, 1984, a report describing the extent to which Federal and State programs, departments, and agencies are concerned and are dealing effectively with problems of alcohol abuse and alcoholism, problems of drug abuse, and mental illness.
+Pub. L. 98–24, §3, Apr. 26, 1983, 97 Stat. 182, directed Secretary of Health and Human Services to submit toCongress, on or before Jan. 15, 1984, a report describing the extent to which Federal and State programs, departments, and agencies are concerned and are dealing effectively with problems of alcohol abuse and alcoholism, problems of drug abuse, and mental illness.
 
 #### Transfer of Balances in Working Capital Fund, Narcotic Hospitals, to Surplus Fund
 

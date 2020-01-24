@@ -26,7 +26,7 @@ The President shall coordinate the development and implementation of a United St
 
 &emsp;(11) harness science, technology, and innovation, including the research and extension activities supported by relevant Federal Departments and agencies and Feed the Future Innovation Labs, or any successor entities;
 
-&emsp;(12) integrate agricultural development activities among food insecure populations living in proximity to designated national parksor wildlife areas into wildlife conservation efforts, as necessary and appropriate;
+&emsp;(12) integrate agricultural development activities among food insecure populations living in proximity to designated national parks or wildlife areas into wildlife conservation efforts, as necessary and appropriate;
 
 &emsp;(13) leverage resources and expertise through partnerships with the private sector, farm organizations, cooperatives, civil society, faith-based organizations, and agricultural research and academic institutions;
 
@@ -56,7 +56,7 @@ The President shall coordinate, through a whole-of-government approach, the effo
 
 #### (2) Agency-specific plans
 
-&emsp;The Global Food Security Strategy shall include specific implementation plans from each relevant Federal department and agency that describes—
+&emsp;The Global Food Security Strategy shall include specific implementation plans from eachrelevant Federal department and agency that describes—
 
 &emsp;&emsp;(A) the anticipated contributions of the department or agency, including technical, financial, and in-kind contributions, to implement the Global Food Security Strategy; and
 

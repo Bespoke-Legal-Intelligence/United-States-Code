@@ -54,7 +54,7 @@ The economic effects of waterway user taxes and charges on—
 
 #### (4) Competitors
 
-&emsp;On the freight rates charged by other modes of transportation and the extent of short-termand long-term diversion of traffic from the inland waterways to such other modes. In considering such diversion of traffic, there shall also be considered the effects of such diversion on—
+&emsp;On the freight rates charged by other modes of transportation and the extent of short-term and long-term diversion of traffic from the inland waterways to such other modes. In considering such diversion of traffic, there shall also be considered the effects of such diversion on—
 
 &emsp;&emsp;(A) the development of alternative sources of supply and on alternative modes of transportation and alternative routing to market,
 

@@ -16,7 +16,7 @@ In order to qualify for assistance under section 11211(a) of this title, an appl
 
 &emsp;&emsp;(B) a ratio of staff to youth that is sufficient to ensure adequate supervision and treatment;
 
-&emsp;(3) shall develop adequate plans for contacting the parents or other relatives of the youth and ensuring the safe return of the youth according to the best interests of the youth, for contacting local government officials pursuant to informal arrangements established with such officials by the runaway and homeless youth center and for providing for other appropriate alternative living arrangements;
+&emsp;(3) shall develop adequate plans for contacting the parents or other relatives of the youth and ensuring the safe return of the youth according to the best interests of the youth, for contacting local government officials pursuant to informal arrangements established with such officials by the runaway and homelessyouth center and for providing for other appropriate alternative living arrangements;
 
 &emsp;(4) shall develop an adequate plan for ensuring—
 
@@ -28,7 +28,7 @@ In order to qualify for assistance under section 11211(a) of this title, an appl
 
 &emsp;(5) shall develop an adequate plan for providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring, as possible, that aftercare services will be provided to those youth who are returned beyond the State in which the runaway and homeless youth center is located;
 
-&emsp;(6) shall develop an adequate plan for establishing or coordinating with outreach programs designed to attract persons (including, where applicable, persons who are members ofa cultural minority and persons with limited ability to speak English) who are eligible to receive services for which a grant under subsection (a) may be expended;
+&emsp;(6) shall develop an adequate plan for establishing or coordinating with outreach programs designed to attract persons (including, where applicable, persons who are members of a cultural minority and persons with limited ability to speak English) who are eligible to receive services for which a grant under subsection (a) may be expended;
 
 &emsp;(7) shall keep adequate statistical records profiling the youth and family members whom it serves (including youth who are not referred to out-of-home shelter services), except that records maintained on individual runaway and homeless youth shall not be disclosed without the consent of the individual youth and parent or legal guardian to anyone other than another agency compiling statistical records or a government agency involved in the disposition of criminal charges against an individual runaway and homeless youth, and reports or other documents based on such statistical records shall not disclose the identity of individual runaway and homeless youth;
 

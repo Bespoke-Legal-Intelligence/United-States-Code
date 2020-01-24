@@ -54,7 +54,7 @@ Pub. L. 103–337, div. A, title XVI, §§1624, 1691(b)(1), Oct. 5, 1994, 108 St
 
 &emsp;"(H) on full-time National Guard duty."
 
-Par. (1)(F). Pub. L. 108–375, §501(d), which directed substitution of "sections 12302 and 12304" for "section 12304" in subpar. (F), could not be executed because par. (1) did not contain a subpar. (F) subsequent to amendment by Pub. L. 108–375, §416(j). See above.
+Par. (1)(F). Pub. L. 108–375, §501(d), which directed substitution of "sections 12302 and 12304" for "section12304" in subpar. (F), could not be executed because par. (1) did not contain a subpar. (F) subsequent to amendment by Pub. L. 108–375, §416(j). See above.
 
 <b>2001</b>—Par. (1)(D). Pub. L. 107–107 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "on the reserve active-status list who are on active duty under section 12301(d) of this title, other than as provided in subparagraph (C), under a call or order to active duty specifying a period of three years or less;".
 

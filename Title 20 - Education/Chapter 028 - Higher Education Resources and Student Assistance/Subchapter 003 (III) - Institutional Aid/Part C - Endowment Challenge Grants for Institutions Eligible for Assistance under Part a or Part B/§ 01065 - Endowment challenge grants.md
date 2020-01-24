@@ -38,7 +38,7 @@
 
 (3) The period of a grant under this section shall be not more than 20 years. During the grant period, an institution may not withdraw or expend any of the endowment fund corpus. After the termination of the grant period, an institution may use the endowment fund corpus plus any endowment fund income for any educational purpose.
 
-(4)(A) An institution of higher education is eligible to receive a grant under this section if it is an eligible institution as described in subsection (a)(2)(D) of this section.
+(4)(A) An institution of higher education is eligible to receive a grant under this section if itis an eligible institution as described in subsection (a)(2)(D) of this section.
 
 (B) No institution shall be ineligible for an endowment challenge grant under this section for a fiscal year by reason of the previous receipt of such a grant but no institution shall be eligible to receive such a grant for more than 2 fiscal years out of any period of 5 consecutive fiscal years.
 
@@ -146,7 +146,7 @@ Subsec. (b)(1). Pub. L. 102–325, §304(b)(2), inserted "endowment" before "cha
 
 Subsec. (b)(2)(B), (C). Pub. L. 102–325, §304(b)(3), amended subpars. (B) and (C) generally. Prior to amendment, subpars. (B) and (C) read as follows:
 
-"(B) In any fiscal year in which the appropriations for this part exceeds $10,000,000, the Secretary maymake a grant under this part to an eligible institution of higher education if such institution—
+"(B) In any fiscal year in which the appropriations for this part exceeds $10,000,000, the Secretary may make a grant under this part to an eligible institution of higher education if such institution—
 
 &emsp;"(i) has deposited in its endowment fund established under this section an amount which is equal to one-half of the amount of such grant; and
 

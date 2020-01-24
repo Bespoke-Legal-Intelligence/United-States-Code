@@ -66,7 +66,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(IV) For any financial institution that received financial assistance provided under the TARP equal to $500,000,000 or more, the prohibition shall apply to the senior executive officers and at least the 20 next most highly-compensated employees, or such higher number as the Secretary may determine is in the public interest with respect to any TARP recipient.
 
-&emsp;&emsp;(iii) The prohibition required under clause (i) shall not be construed to prohibit any bonus payment required to be paid pursuant to a written employment contract executed on or before February 11, 2009, as such validemployment contracts are determined by the Secretary or the designee of the Secretary.
+&emsp;&emsp;(iii) The prohibition required under clause (i) shall not be construed to prohibit any bonus payment required to be paid pursuant to a written employment contract executed on or before February 11, 2009, as such valid employment contracts are determined by the Secretary or the designee of the Secretary.
 
 &emsp;&emsp;(E) A prohibition on any compensation plan that would encourage manipulation of the reported earnings of such TARP recipient to enhance the compensation of any of its employees.
 

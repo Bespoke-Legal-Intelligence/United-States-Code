@@ -1,8 +1,8 @@
 ### §70910. Headquarters and principal office
 
-The headquarters and principal office of the corporation shall be in the District of Columbia. However, the activities of the corporation are not confined to the District of Columbia but may be conducted throughout the States, territories, and possessions of the United States.
+The headquarters and principal office of the FFA shall be as provided in the constitution or bylaws of the FFA. The activities of the FFA may be conducted throughout the States, territories, and possessions of the United States.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1359.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1359; Pub. L. 116–7, §11, Feb. 21, 2019, 133 Stat. 482.)
 
 Historical and Revision Notes
 
@@ -21,4 +21,8 @@ Historical and Revision Notes
 Aug. 30, 1950, ch. 823, §5 (1st sentence), 64 Stat. 565.
 
 The word "office" is substituted for "offices" for consistency in the revised title. The word "various" is omitted as unnecessary.
+
+#### Amendments
+
+<b>2019</b>—Pub. L. 116–7 substituted "of the FFA shall be as provided in the constitution or bylaws of the FFA. The activities of the FFA" for "of the corporation shall be in the District of Columbia. However, the activities of the corporation are not confined to the District of Columbia but".
 

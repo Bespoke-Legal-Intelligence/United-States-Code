@@ -2,7 +2,7 @@
 
 (a) In connection with any survey conducted by the Secretary or other authorized officer or employee of the Department of Commerce or bureau or agency thereof pursuant to subchapter IV of chapter 5 of this title, the provisions of sections 221, 222, 223 and 224 of this title shall apply—
 
-&emsp;(1) with respect to the answering of questions and furnishing of information, only to such inquiries as are within the scope of the schedules and questionnaires and of the type and character heretofore used in connectionwith the taking of complete censuses under subchapters I and II of chapter 5 of this title, or in connection with any censuses hereafter taken pursuant to such subchapters;
+&emsp;(1) with respect to the answering of questions and furnishing of information, only to such inquiries as are within the scope of the schedules and questionnaires and of the type and character heretofore used in connection with the taking of complete censuses under subchapters I and II of chapter 5 of this title, or in connection with any censuses hereafter taken pursuant to such subchapters;
 
 &emsp;(2) only after publication of a determination with reasons therefor certified by the Secretary, or by some other authorized officer or employee of the Department of Commerce or bureau or agency thereof with the approval of the Secretary, that the information called for is needed to aid or permit the efficient performance of essential governmental functions or services, or has significant application to the needs of the public, business, or industry and is not publicly available from nongovernmental or other governmental sources;
 

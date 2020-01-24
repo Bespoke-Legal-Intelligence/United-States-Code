@@ -62,7 +62,7 @@
 
 &emsp;(A) subject to paragraph (2), shall have access to all records, reports, audits, reviews, documents, papers, recommendations, or other material which are the property of the agency or which are available to the agency, and which relate to programs and operations with respect to which that agency Chief Financial Officer has responsibilities under this section;
 
-&emsp;(B) may request such information or assistance as may be necessary for carrying out the duties and responsibilities provided by this section from any Federal, State, or local governmental entity; and
+&emsp;(B) may request such information or assistance as may be necessary for carrying out theduties and responsibilities provided by this section from any Federal, State, or local governmental entity; and
 
 &emsp;(C) to the extent and in such amounts as may be provided in advance by appropriations Acts, may—
 

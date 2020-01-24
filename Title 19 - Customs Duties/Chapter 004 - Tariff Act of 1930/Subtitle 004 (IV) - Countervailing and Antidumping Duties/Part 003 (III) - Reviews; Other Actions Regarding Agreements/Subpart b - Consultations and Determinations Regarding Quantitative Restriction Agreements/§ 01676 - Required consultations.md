@@ -14,7 +14,7 @@ At the direction of the President, the administering authority shall modify a qu
 
 #### (c) Special rule regarding agreements under section 1671c(c)(3) of this title
 
-This chapter shall cease to apply to a quantitative restriction agreement described in section 1671c(c)(3) of this title at such time as that agreement ceases to have force and effect under section 1671c(f) of this title or violation is found under section 1671c(i) of this title.
+This subpart shall cease to apply to a quantitative restriction agreement described in section 1671c(c)(3) of this title at such time as that agreement ceases to have force and effect under section 1671c(f) of this title or violation is found under section 1671c(i) of this title.
 
 (June 17, 1930, ch. 497, title VII, §761, as added Pub. L. 98–573, title VI, §611(a)(4), Oct. 30, 1984, 98 Stat. 3031; amended Pub. L. 103–465, title II, §270(a)(1)(I), (b)(1)(C), (2), Dec. 8, 1994, 108 Stat. 4917.)
 
@@ -26,7 +26,7 @@ Subsec. (a)(1), (2). Pub. L. 103–465, §270(a)(1)(I), inserted "countervailabl
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTOAgreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date
 

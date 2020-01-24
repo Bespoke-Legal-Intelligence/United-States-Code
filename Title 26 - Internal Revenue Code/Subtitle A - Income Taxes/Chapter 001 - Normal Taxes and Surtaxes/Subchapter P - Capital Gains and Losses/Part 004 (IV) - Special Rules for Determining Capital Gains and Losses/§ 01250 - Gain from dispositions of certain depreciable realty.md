@@ -182,7 +182,7 @@ For purposes of this section, the term "section 1250 property" means any real pr
 
 &emsp;&emsp;&emsp;(i) the amount of the gain to which subsection (a) would have applied if such property had been sold by the partnership immediately before the distribution at its fair market value at such time and the applicable percentage for the property had been 100 percent, reduced by
 
-&emsp;&emsp;&emsp;(ii) if section 751(b) applied to any part of such gain, the amount of such gain towhich section 751(b) would have applied if the applicable percentage for the property had been 100 percent.
+&emsp;&emsp;&emsp;(ii) if section 751(b) applied to any part of such gain, the amount of such gain to which section 751(b) would have applied if the applicable percentage for the property had been 100 percent.
 
 #### (6) Transfers to tax-exempt organization where property will be used in unrelated business
 
@@ -402,7 +402,7 @@ Subsec. (d)(4)(B). Pub. L. 94–455, §1901(b)(31)(A), substituted reference to 
 
 Subsec. (d)(4)(C). Pub. L. 94–455, §1901(b)(31)(B), substituted reference to section "1033(a)(2)" for "1033(a)(3)".
 
-Subsec. (d)(4)(D). Pub. L. 94–455, §§1901(b)(31)(B), (E), 1906(b)(13)(A), substituted reference to sections"1033(a)(2)" and "1033(b)" for "1033(a)(3)" and "1033(c)", respectively, and struck out "or his delegate" after "Secretary".
+Subsec. (d)(4)(D). Pub. L. 94–455, §§1901(b)(31)(B), (E), 1906(b)(13)(A), substituted reference to sections "1033(a)(2)" and "1033(b)" for "1033(a)(3)" and "1033(c)", respectively, and struck out "or his delegate" after "Secretary".
 
 Subsec. (d)(5), (8)(F)(ii). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
@@ -536,7 +536,7 @@ Amendment by Pub. L. 93–625 applicable with respect to property placed in serv
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–178 applicable to taxable years ending after Dec. 31, 1971, see section 303(d) of Pub. L. 92–178, set out as a note under section 642 of this title.
+Amendment by Pub. L. 92–178 applicable to taxable years ending after Dec. 31, 1971, see section 303(d) ofPub. L. 92–178, set out as a note under section 642 of this title.
 
 #### Effective Date of 1969 Amendment
 

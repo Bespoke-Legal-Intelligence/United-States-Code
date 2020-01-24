@@ -62,7 +62,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 #### (B) Additional risk evaluations
 
-&emsp;&emsp;Not later than three and one half years after June 22, 2016, the Administrator shall ensure that risk evaluations are being conducted on at least 20 high-priority substances and that at least 20 chemical substances have been designated as low-priority substances, subject to the limitation that at least 50 percent of all chemical substances on which risk evaluations are being conducted by the Administrator are drawn from the 2014 update of the TSCA Work Plan for Chemical Assessments.
+&emsp;&emsp;Not later than three and one half years after June 22, 2016, the Administrator shall ensure that risk evaluations are being conducted on at least 20 high-priority substances and that at least 20 chemical substances have been designated as low-prioritysubstances, subject to the limitation that at least 50 percent of all chemical substances on which risk evaluations are being conducted by the Administrator are drawn from the 2014 update of the TSCA Work Plan for Chemical Assessments.
 
 #### (C) Continuing designations and risk evaluations
 
@@ -132,7 +132,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 #### (iii) Preference
 
-&emsp;&emsp;&emsp;In deciding whether to grant requests under subparagraph (C)(ii), the Administrator shall give preference to requests for risk evaluations on chemical substances for which the Administrator determines that restrictions imposed by 1 or more States have the potential to have a significant impact on interstate commerce or health or the environment.
+&emsp;&emsp;&emsp;In deciding whether to grant requests under subparagraph (C)(ii), the Administrator shall give preference to requests for risk evaluations on chemical substances for which the Administrator determinesthat restrictions imposed by 1 or more States have the potential to have a significant impact on interstate commerce or health or the environment.
 
 #### (iv) Exceptions
 
@@ -150,7 +150,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 &emsp;&emsp;&emsp;(iii) not consider costs or other nonrisk factors;
 
-&emsp;&emsp;&emsp;(iv) take into account, where relevant, the likely duration, intensity, frequency,and number of exposures under the conditions of use of the chemical substance; and
+&emsp;&emsp;&emsp;(iv) take into account, where relevant, the likely duration, intensity, frequency, and number of exposures under the conditions of use of the chemical substance; and
 
 &emsp;&emsp;&emsp;(v) describe the weight of the scientific evidence for the identified hazard and exposure.
 
@@ -216,7 +216,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 &emsp;&emsp;&emsp;In this subparagraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) the term "complex consumer goods" means electronic or mechanical devices composed of multiple manufactured components, with an intended useful life of 3 or more years, where theproduct is typically not consumed, destroyed, or discarded after a single use, and the components of which would be impracticable to redesign or replace; and
+&emsp;&emsp;&emsp;&emsp;(I) the term "complex consumer goods" means electronic or mechanical devices composed of multiple manufactured components, with an intended useful life of 3 or more years, where the product is typically not consumed, destroyed, or discarded after a single use, and the components of which would be impracticable to redesign or replace; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the term "complex durable goods" means manufactured goods composed of 100 or more manufactured components, with an intended useful life of 5 or more years, where the product is typically not consumed, destroyed, or discarded after a single use.
 
@@ -282,7 +282,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 (2)(A) Except as provided under subparagraph (B), effective one year after January 1, 1977, no person may manufacture, process, or distribute in commerce or use any polychlorinated biphenyl in any manner other than in a totally enclosed manner.
 
-(B) The Administrator may by rule authorize the manufacture, processing, distribution in commerce or use (or any combination of such activities) of any polychlorinated biphenyl in a manner other than in a totally enclosed manner if the Administrator finds that such manufacture, processing, distribution in commerce, oruse (or combination of such activities) will not present an unreasonable risk of injury to health or the environment.
+(B) The Administrator may by rule authorize the manufacture, processing, distribution in commerce or use (or any combination of such activities) of any polychlorinated biphenyl in a manner other than in a totally enclosed manner if the Administrator finds that such manufacture, processing, distribution in commerce, or use (or combination of such activities) will not present an unreasonable risk of injury to health or the environment.
 
 (C) For the purposes of this paragraph, the term "totally enclosed manner" means any manner which will ensure that any exposure of human beings or the environment to a polychlorinated biphenyl will be insignificant as determined by the Administrator by rule.
 
@@ -342,7 +342,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 #### (3) Period of exemption
 
-&emsp;The Administrator shall establish, as part of a rule under this subsection, a time limit on any exemption for a time to be determined by the Administrator as reasonable on a case-by-case basis, and, by rule, may extend, modify, or eliminate an exemption if the Administrator determines, on the basis of reasonably available information and after adequate public justification, the exemption warrants extension or modification or is no longer necessary.
+&emsp;The Administrator shall establish, as part of a rule under this subsection, a time limit onany exemption for a time to be determined by the Administrator as reasonable on a case-by-case basis, and, by rule, may extend, modify, or eliminate an exemption if the Administrator determines, on the basis of reasonably available information and after adequate public justification, the exemption warrants extension or modification or is no longer necessary.
 
 #### (4) Conditions
 
@@ -354,7 +354,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 &emsp;Not later than 3 years after June 22, 2016, the Administrator shall propose rules under subsection (a) with respect to chemical substances identified in the 2014 update of the TSCA Work Plan for Chemical Assessments—
 
-&emsp;&emsp;(A) that the Administrator has a reasonable basis to conclude are toxic and that with respect to persistence and bioaccumulation score high for one and either high or moderate for the other, pursuant to the TSCA Work Plan Chemicals Methods Document published by the Administrator in February 2012 (or a successor scoring system), and are not a metal or a metal compound,and for which the Administrator has not completed a Work Plan Problem Formulation, initiated a review under section 5, or entered into a consent agreement under section 2603 of this title, prior to June 22, 2016; and
+&emsp;&emsp;(A) that the Administrator has a reasonable basis to conclude are toxic and that with respect to persistence and bioaccumulation score high for one and either high or moderate for the other, pursuant to the TSCA Work Plan Chemicals Methods Document published by the Administrator in February 2012 (or a successor scoring system), and are not a metal or a metal compound, and for which the Administrator has not completed a Work Plan Problem Formulation, initiated a review under section 5, or entered into a consent agreement under section 2603 of this title, prior to June 22, 2016; and
 
 &emsp;&emsp;(B) exposure to which under the conditions of use is likely to the general population or to a potentially exposed or susceptible subpopulation identified by the Administrator, or the environment, on the basis of an exposure and use assessment conducted by the Administrator.
 
@@ -414,7 +414,7 @@ Subsec. (d)(3)(A). Pub. L. 114–182, §6(5)(C)(i)(I), in introductory provision
 
 Subsec. (d)(3)(A)(i)(I). Pub. L. 114–182, §6(5)(C)(i)(II), inserted "without consideration of costs or other non-risk factors" after "effective date".
 
-Subsec. (d)(3)(B). Pub. L. 114–182, §6(5)(C)(ii), substituted "in accordance with subsection (c), and either promulgate such rule (as proposed or with modifications) or revoke it." for ", provide reasonable opportunity, in accordance with paragraphs (2) and (3) of subsection (c), for a hearing on such rule, and either promulgate such rule (as proposed or with modifications) or revoke it; and if such a hearing is requested, the Administrator shall commence the hearing within five days from the date such request is made unless the Administrator and the person making the request agree upon a later date for the hearing to begin, and after thehearing is concluded the Administrator shall, within ten days of the conclusion of the hearing, either promulgate such rule (as proposed or with modifications) or revoke it."
+Subsec. (d)(3)(B). Pub. L. 114–182, §6(5)(C)(ii), substituted "in accordance with subsection (c), and either promulgate such rule (as proposed or with modifications) or revoke it." for ", provide reasonable opportunity, in accordance with paragraphs (2) and (3) of subsection (c), for a hearing on such rule, and either promulgate such rule (as proposed or with modifications) or revoke it; and if such a hearing is requested, the Administrator shall commence the hearing within five days from the date such request is made unless the Administrator and the person making the request agree upon a later date for the hearing to begin, and after the hearing is concluded the Administrator shall, within ten days of the conclusion of the hearing, either promulgate such rule (as proposed or with modifications) or revoke it."
 
 Subsec. (e)(4). Pub. L. 114–182, §6(6), substituted "paragraph (3)" for "paragraphs (2), (3), and (4)".
 

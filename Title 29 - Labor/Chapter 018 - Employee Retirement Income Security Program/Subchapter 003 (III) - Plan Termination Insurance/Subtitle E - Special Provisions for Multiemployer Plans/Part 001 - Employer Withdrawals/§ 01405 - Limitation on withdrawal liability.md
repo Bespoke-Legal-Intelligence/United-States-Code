@@ -51,7 +51,7 @@ In the case of one or more withdrawals of an employer attributable to the same s
 
 &emsp;(1) all such withdrawals shall be treated as a single withdrawal for the purpose of applying this section, and
 
-&emsp;(2) the withdrawal liability of the employer to each plan shall be an amount which bears the same ratio to the present value of the withdrawal liability payments to all plans (after the application of the preceding provisions of this section) as the withdrawal liability of the employer to such plan (determined without regard to this section) bears to the withdrawal liability of the employer to all such plans (determined without regard to this section).
+&emsp;(2) the withdrawal liability of the employer to each plan shall be an amount which bears the same ratio to the present value of the withdrawal liability payments to all plans (after the application of the preceding provisions of this section) as the withdrawal liability of the employer to such plan (determined without regard to this section) bears to thewithdrawal liability of the employer to all such plans (determined without regard to this section).
 
 (Pub. L. 93–406, title IV, §4225, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1243; amended Pub. L. 109–280, title II, §204(a)(1), (2), Aug. 17, 2006, 120 Stat. 886, 887.)
 

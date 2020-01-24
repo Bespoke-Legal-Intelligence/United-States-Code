@@ -64,7 +64,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (1) Establishment and inspection
 
-&emsp;The Secretary shall, by regulation, establish standards regarding the physical condition in which any eligible low income housing project receiving incentives under this subchapter shall be maintained. The Secretary shall inspect each such project not less than annually to ensure that the project is in compliance with such standards.
+&emsp;The Secretary shall, by regulation, establish standards regarding the physical condition inwhich any eligible low income housing project receiving incentives under this subchapter shall be maintained. The Secretary shall inspect each such project not less than annually to ensure that the project is in compliance with such standards.
 
 #### (2) Sanctions
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 103–327 is based on section 601(a)–(d) of title VI of S
 
 <b>2015</b>—Subsec. (e). Pub. L. 114–94 added subsec. (e).
 
-<b>1994</b>—Subsec. (a)(2)(D). Pub. L. 103–327 temporarily amended subpar. (D) to read as follows: "monthly rent contributions by current and future tenants, including tenants receiving assistance under section 1437f of title 42, shall not exceed the lesser of—
+<b>1994</b>—Subsec. (a)(2)(D). Pub. L. 103–327 temporarily amended subpar. (D) to read as follows: "monthly rentcontributions by current and future tenants, including tenants receiving assistance under section 1437f of title 42, shall not exceed the lesser of—
 
 &emsp;"(i) 30 percent of the adjusted income of the tenant; or
 

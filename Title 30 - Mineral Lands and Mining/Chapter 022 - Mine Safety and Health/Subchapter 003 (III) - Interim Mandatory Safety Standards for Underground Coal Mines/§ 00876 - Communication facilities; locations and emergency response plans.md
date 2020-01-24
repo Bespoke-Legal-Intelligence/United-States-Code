@@ -80,7 +80,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In addition to the content requirements contained in subparagraph (E), and subject to the considerations contained in subparagraph (C), the Secretary may make additional plan requirements with respect to any of the content matters.
+&emsp;&emsp;&emsp;In addition to the content requirements contained in subparagraph (E), and subjectto the considerations contained in subparagraph (C), the Secretary may make additional plan requirements with respect to any of the content matters.
 
 #### (ii) Post accident communications
 

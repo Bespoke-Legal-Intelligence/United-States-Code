@@ -10,21 +10,17 @@ Limitations on Authority.—The Federal Acquisition Regulation shall include the
 
 &emsp;(1)
 
-Reasonable limitations.—Reasonable limitations on requests for sales data relating to commercial items.
+Reasonable limitations.—Reasonable limitations on requests for sales data relating to commercial products or commercial services.
 
 &emsp;(2)
 
-Limitation on scope of request.—A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial items from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
+Limitation on scope of request.—A requirement that a contracting officer limit, tothe maximum extent practicable, the scope of any request for information relating to commercial products or commercial services from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
 
 &emsp;(3)
 
-Information not to be disclosed.—A statement that any information received relating to commercial items that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
+Information not to be disclosed.—A statement that any information received relating to commercial products or commercial services that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3767; Pub. L. 115–232, div. A, title VIII, §836(b)(13), Aug. 13, 2018, 132 Stat. 1863.)
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(13), (h), Aug. 13, 2018, 132 Stat. 1863, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking "commercial items" each place it appears and inserting "commercial products or commercial services". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 

@@ -74,5 +74,5 @@ Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, §3(b), substituted 
 
 Pub. L. 105–102, §3(b), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(b) is effective July 2, 1996.
 
-Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendment relates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
+Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendmentrelates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
 

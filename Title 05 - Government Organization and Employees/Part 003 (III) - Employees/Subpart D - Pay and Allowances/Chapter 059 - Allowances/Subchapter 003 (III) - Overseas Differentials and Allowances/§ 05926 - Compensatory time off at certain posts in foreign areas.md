@@ -8,7 +8,7 @@
 
 > Credit for compensatory time off earned under paragraph (2) shall not form the basis for any additional compensation.
 
-(b) Compensatory time earned under this section shall be for use only while the employee isassigned to the post where it is earned. Any such compensatory time not used at the time the employee is reassigned to another post shall be forfeited.
+(b) Compensatory time earned under this section shall be for use only while the employee is assigned to the post where it is earned. Any such compensatory time not used at the time the employee is reassigned to another post shall be forfeited.
 
 (Added Pub. L. 95–426, title IV, §411(a), Oct. 7, 1978, 92 Stat. 980.)
 

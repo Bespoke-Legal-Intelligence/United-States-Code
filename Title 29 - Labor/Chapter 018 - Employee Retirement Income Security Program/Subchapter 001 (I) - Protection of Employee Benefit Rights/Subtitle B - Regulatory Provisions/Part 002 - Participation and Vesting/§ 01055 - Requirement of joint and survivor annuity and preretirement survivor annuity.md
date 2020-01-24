@@ -18,7 +18,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;(C) any participant under any other individual account plan unless—
 
-&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the death of the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2), to a designated beneficiary),
+&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the deathof the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2), to a designated beneficiary),
 
 &emsp;&emsp;(ii) such participant does not elect the payment of benefits in the form of a life annuity, and
 
@@ -118,7 +118,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;(ii) The Secretary of the Treasury may by regulations limit the application of clause (i), except that such regulations may not limit the period of time by which the annuity starting date precedes the provision of the written explanation other than by providing that the annuity starting date may not be earlier than termination of employment.
 
-&emsp;(B) A plan may permit a participant to elect (with any applicable spousal consent) to waive any requirement that the written explanation be provided at least 30 days before the annuitystarting date (or to waive the 30-day requirement under subparagraph (A)) if the distribution commences more than 7 days after such explanation is provided.
+&emsp;(B) A plan may permit a participant to elect (with any applicable spousal consent) to waive any requirement that the written explanation be provided at least 30 days before the annuity starting date (or to waive the 30-day requirement under subparagraph (A)) if the distribution commences more than 7 days after such explanation is provided.
 
 #### (d) "Qualified joint and survivor annuity" and "qualified optional survivor annuity" defined
 
@@ -192,7 +192,7 @@ For purposes of this section—
 
 #### (g) Distribution of present value of annuity; written consent; determination of present value
 
-(1) A plan may provide that the present value of a qualified joint and survivor annuity or a qualified preretirement survivor annuity will be immediately distributed if such value does not exceed the amount that can be distributed without the participant's consent under section1053(e) of this title. No distribution may be made under the preceding sentence after the annuity starting date unless the participant and the spouse of the participant (or where the participant has died, the surviving spouse) consent in writing to such distribution.
+(1) A plan may provide that the present value of a qualified joint and survivor annuity or a qualified preretirement survivor annuity will be immediately distributed if such value does not exceed the amount that can be distributed without the participant's consent under section 1053(e) of this title. No distribution may be made under the preceding sentence after the annuity starting date unless the participant and the spouse of the participant (or where the participant has died, the surviving spouse) consent in writing to such distribution.
 
 (2) If—
 
@@ -224,7 +224,7 @@ For purposes of this section—
 
 &emsp;&emsp;(ii) in the case of a benefit not payable in the form of an annuity, the first day on which all events have occurred which entitle the participant to such benefit.
 
-&emsp;(B) For purposes of subparagraph (A), the first day of the first period for which a benefit is to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
+&emsp;(B) For purposes of subparagraph (A), the first day of the first period for which a benefitis to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
 
 &emsp;(3) The term "earliest retirement age" means the earliest date on which, under the plan, the participant could elect to receive retirement benefits.
 
@@ -418,7 +418,7 @@ Amendment by Pub. L. 103–465 applicable to plan years and limitation years beg
 
 #### Effective Date of 1989 Amendment
 
-Amendment by sections 7861(d)(2) and 7862(d)(1)(B), (3), (6)–(9) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L.99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set out as a note under section 106 of Title 26, Internal Revenue Code.
+Amendment by sections 7861(d)(2) and 7862(d)(1)(B), (3), (6)–(9) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set out as a note under section 106 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a)(1), (b)(3), (c), (e) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

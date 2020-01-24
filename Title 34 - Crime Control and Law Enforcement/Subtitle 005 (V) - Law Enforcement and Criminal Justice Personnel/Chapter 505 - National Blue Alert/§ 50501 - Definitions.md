@@ -26,7 +26,7 @@ In this chapter:
 
 #### (5) Network
 
-&emsp;The term "network" means the Blue Alert communications network established by the Attorney General under section 50502 of this title.
+&emsp;The term "network" means the Blue Alert communications network established by theAttorney General under section 50502 of this title.
 
 #### (6) State
 

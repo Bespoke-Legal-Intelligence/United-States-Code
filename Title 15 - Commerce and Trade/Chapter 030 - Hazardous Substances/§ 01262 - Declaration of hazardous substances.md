@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Whenever in the judgment of the Commission such action will promote the objectives of this chapter by avoiding or resolving uncertainty as to its application, the Commission may by regulation declare to be a hazardous substance, for the purposes of this chapter, any substance or mixture of substances, which it finds meets the requirements of section 1261(f)(1)(A) of this title.
+&emsp;Whenever in the judgment of the Commission such action will promote the objectives of this chapter by avoiding or resolving uncertainty as to its application, the Commissionmay by regulation declare to be a hazardous substance, for the purposes of this chapter, any substance or mixture of substances, which it finds meets the requirements of section 1261(f)(1)(A) of this title.
 
 #### (2) Procedure
 
@@ -24,7 +24,7 @@ The Commission may exempt from the requirements established by or pursuant to th
 
 #### (e) Regulation of toys or articles intended for use by children
 
-(1) A determination by the Commission that a toy or other article intended for use by children presents an electrical, mechanical, or thermal hazard shall be made by regulation in accordance with the procedures prescribed by section 553 (other than clause (B) of the last sentence of subsection (b) of such section) of title 5 unless the Commission elects the procedures prescribed by subsection (e) of section 371 of title 21, in which event such subsection and subsections (f) and (g) of such section 371 of title 21 shall apply to the making of such determination. If the Commission makes such election, it shall publish that fact with the proposal required to bepublished under paragraph (1) of such subsection (e).
+(1) A determination by the Commission that a toy or other article intended for use by children presents an electrical, mechanical, or thermal hazard shall be made by regulation in accordance with the procedures prescribed by section 553 (other than clause (B) of the last sentence of subsection (b) of such section) of title 5 unless the Commission elects the procedures prescribed by subsection (e) of section 371 of title 21, in which event such subsection and subsections (f) and (g) of such section 371 of title 21 shall apply to the making of such determination. If the Commission makes such election, it shall publish that fact with the proposal required to be published under paragraph (1) of such subsection (e).
 
 (2) If, before or during a proceeding pursuant to paragraph (1) of this subsection, the Commission finds that, because of an electrical, mechanical, or thermal hazard, distribution of the toy or other article involved presents an imminent hazard to the public health and it, by order published in the Federal Register, gives notice of such finding, such toy or other article shall be deemed to be a banned hazardous substance for purposes of this chapter until the proceeding has been completed. If not yet initiated when such order is published, such a proceeding shall be initiated as promptly as possible.
 
@@ -78,7 +78,7 @@ A proceeding for the promulgation of a regulation under section 1261(q)(1) of th
 
 No regulation under section 1261(q)(1) of this title classifying an article or substance as a banned hazardous substance and no regulation under subsection (e) of this section may be proposed by the Commission unless the Commission publishes in the Federal Register the text of the proposed rule, including any alternatives, which the Commission proposes to promulgate, together with a preliminary regulatory analysis containing—
 
-&emsp;(1) a preliminary description of the potential benefits and potential costs of the proposed regulation, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
+&emsp;(1) a preliminary description of the potential benefits and potential costs of the proposedregulation, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
 
 &emsp;(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (f)(5) was not published by the Commission as the proposed regulation or part of the proposed regulation;
 
@@ -102,7 +102,7 @@ No regulation under section 1261(q)(1) of this title classifying an article or s
 
 (2) The Commission shall not promulgate a regulation under section 1261(q)(1) of this title classifying an article or substance as a banned hazardous substance or a regulation under subsection (e) of this section unless it finds (and includes such finding in the regulation)—
 
-&emsp;(A) in the case of a regulation which relates to a risk of injury with respect to which persons who would be subject to such regulationhave adopted and implemented a voluntary standard, that—
+&emsp;(A) in the case of a regulation which relates to a risk of injury with respect to which persons who would be subject to such regulation have adopted and implemented a voluntary standard, that—
 
 &emsp;&emsp;(i) compliance with such voluntary standard is not likely to result in the elimination or adequate reduction of such risk of injury; or
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 91–113 effective on sixtieth day following Nov. 6, 1969, 
 
 #### National Commission on Product Safety
 
-Pub. L. 90–146, Nov. 20, 1967, 81 Stat. 466, as amended by Pub. L. 91–51, Aug. 4, 1969, 83 Stat. 86, established a National Commission on Product Safety to study and investigate the scope and adequacy of measures to protect consumers against unreasonable risk of injurieswhich may be caused by hazardous household products and required the Commission to transmit its final report to the President and to the Congress by June 30, 1970. Ninety days after submission of its final report the Commission ceased to exist by the express terms of Pub. L. 90–146.
+Pub. L. 90–146, Nov. 20, 1967, 81 Stat. 466, as amended by Pub. L. 91–51, Aug. 4, 1969, 83 Stat. 86, established a National Commission on Product Safety to study and investigate the scope and adequacy of measures to protect consumers against unreasonable risk of injuries which may be caused by hazardous household products and required the Commission to transmit its final report to the President and to the Congress by June 30, 1970. Ninety days after submission of its final report the Commission ceased to exist by the express terms of Pub. L. 90–146.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "it".</i>
 

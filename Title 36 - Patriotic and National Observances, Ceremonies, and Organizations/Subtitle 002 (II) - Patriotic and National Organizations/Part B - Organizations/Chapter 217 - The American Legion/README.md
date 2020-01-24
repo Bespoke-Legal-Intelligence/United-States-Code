@@ -6,12 +6,17 @@
 | [21702\.](%C2%A7%2021702%20-%20Purposes.md) | Purposes. |
 | [21703\.](%C2%A7%2021703%20-%20Membership.md) | Membership. |
 | [21704\.](%C2%A7%2021704%20-%20Powers.md) | Powers. |
+| [21704A.](%C2%A7%2021704A%20-%20Nondiscrimination.md) | Nondiscrimination. |
 | [21705\.](%C2%A7%2021705%20-%20Exclusive%20right%20to%20name%2C%20emblems%2C%20and%20badges.md) | Exclusive right to name, emblems, and badges. |
 | [21706\.](%C2%A7%2021706%20-%20Political%20activities.md) | Political activities. |
 | [21707\.](%C2%A7%2021707%20-%20Service%20of%20process.md) | Service of process. |
 | [21708\.](%C2%A7%2021708%20-%20Annual%20report.md) | Annual report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2019</b>—Pub. L. 116–35, §4(b), July 30, 2019, 133 Stat. 1047, added item 21704A.
 
 
 ---
@@ -22,6 +27,7 @@
 - [&sect; 21702 - Purposes](%C2%A7%2021702%20-%20Purposes.md)
 - [&sect; 21703 - Membership](%C2%A7%2021703%20-%20Membership.md)
 - [&sect; 21704 - Powers](%C2%A7%2021704%20-%20Powers.md)
+- [&sect; 21704A - Nondiscrimination](%C2%A7%2021704A%20-%20Nondiscrimination.md)
 - [&sect; 21705 - Exclusive right to name, emblems, and badges](%C2%A7%2021705%20-%20Exclusive%20right%20to%20name%2C%20emblems%2C%20and%20badges.md)
 - [&sect; 21706 - Political activities](%C2%A7%2021706%20-%20Political%20activities.md)
 - [&sect; 21707 - Service of process](%C2%A7%2021707%20-%20Service%20of%20process.md)

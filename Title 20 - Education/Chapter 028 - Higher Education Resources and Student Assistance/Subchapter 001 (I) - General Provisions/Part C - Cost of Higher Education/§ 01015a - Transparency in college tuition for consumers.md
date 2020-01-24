@@ -138,7 +138,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (2) Calculation of individual net price
 
-&emsp;For purposes of this subsection, an individual net price of an institution of higher education shall be calculated in the same manner as the net price of such institution is calculated under subsection (a)(3), except that the cost of attendance and the amount of need-based and merit-based aid available shall be calculated for the individual student as much as practicable.
+&emsp;For purposes of this subsection, an individual net price of an institution of higher education shall be calculated in the same manneras the net price of such institution is calculated under subsection (a)(3), except that the cost of attendance and the amount of need-based and merit-based aid available shall be calculated for the individual student as much as practicable.
 
 #### (3) Use of net price calculator by institutions
 
@@ -290,7 +290,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of reporting the information required under this subsection, the following income categories shall apply for students who receive Federal student financial aid under subchapter IV:
+&emsp;&emsp;For purposes of reporting the information required under this subsection, the following income categories shall apply for studentswho receive Federal student financial aid under subchapter IV:
 
 &emsp;&emsp;&emsp;(i) $0–30,000.
 
@@ -334,7 +334,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (3) Availability and comparison
 
-&emsp;The multi-year tuition calculator described in paragraph (1) shall be available on the College Navigator website and shall allow current and prospective students, families of such students, and consumers to compare informationand estimates under this subsection for multiple institutions of higher education.
+&emsp;The multi-year tuition calculator described in paragraph (1) shall be available on the College Navigator website and shall allow current and prospective students, families of such students, and consumers to compare information and estimates under this subsection for multiple institutions of higher education.
 
 #### (4) Disclaimer
 

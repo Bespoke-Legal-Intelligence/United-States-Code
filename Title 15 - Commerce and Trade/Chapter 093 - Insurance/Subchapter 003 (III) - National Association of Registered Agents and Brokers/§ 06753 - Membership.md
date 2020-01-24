@@ -270,7 +270,7 @@ Membership in the Association shall be renewed on a biennial basis.
 
 The Association may—
 
-&emsp;(1) share documents, materials, or other information, including confidential and privileged documents, with a State, Federal, or international governmental entity or with the NAIC or other appropriate entity referred to <sup>1</sup> paragraphs (3) and (4), provided that the recipient has the authority and agrees to maintainthe confidentiality or privileged status of the document, material, or other information;
+&emsp;(1) share documents, materials, or other information, including confidential and privileged documents, with a State, Federal, or international governmental entity or with the NAIC or other appropriate entity referred to <sup>1</sup> paragraphs (3) and (4), provided that the recipient has the authority and agrees to maintain the confidentiality or privileged status of the document, material, or other information;
 
 &emsp;(2) limit the sharing of information as required under this subchapter with the NAIC or any other non-governmental entity, in circumstances under which the Association determines that the sharing of such information is unnecessary to further the purposes of this subchapter;
 

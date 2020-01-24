@@ -2,11 +2,11 @@
 
 In carrying out the provisions of this chapter the Secretary is authorized and directed to provide for the giving of notice of strikes or lockouts to applicants before they are referred to employment.
 
-(June 6, 1933, ch. 49, § 11, 48 Stat. 116; Pub. L. 97–300, title VI, §601(g), formerly title V, §501(g), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, §601(g), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, §307, Aug. 7, 1998, 112 Stat. 1082.)
+(June 6, 1933, ch. 49, § 11, 48 Stat. 116; Pub. L. 97–300, title VI, §601(g), formerly title V, §501(g), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, §601(g), Pub. L. 100–628, title VII, §712(a)(1), (2),Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, §307, Aug. 7, 1998, 112 Stat. 1082.)
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–220, §307(2), which directed the substitution of "Secretary" for "Director", was executedby making the substitution for "director" to reflect the probable intent of Congress.
+<b>1998</b>—Pub. L. 105–220, §307(2), which directed the substitution of "Secretary" for "Director", was executed by making the substitution for "director" to reflect the probable intent of Congress.
 
 Pub. L. 105–220, §307(1), redesignated subsec. (b) as entire section and struck out subsec. (a) which provided for establishment and composition of a Federal Advisory Council, and similar State advisory councils, to work on problems relating to employment.
 

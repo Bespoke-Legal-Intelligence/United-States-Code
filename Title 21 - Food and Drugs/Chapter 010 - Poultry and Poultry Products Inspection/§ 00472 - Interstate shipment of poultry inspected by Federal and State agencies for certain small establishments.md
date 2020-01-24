@@ -152,7 +152,7 @@ Nothing in this section limits the jurisdiction of the Secretary with respect to
 
 #### (1) In general
 
-&emsp;This section takes effect on the date on which the Secretary, after providing a periodof public comment (including through the conduct of public meetings or hearings), promulgates final regulations to carry out this section.
+&emsp;This section takes effect on the date on which the Secretary, after providing a period of public comment (including through the conduct of public meetings or hearings), promulgates final regulations to carry out this section.
 
 #### (2) Requirement
 

@@ -2,7 +2,7 @@
 
 (a) Upon satisfactorily completing the academic and military requirements of the program of advanced training, a member of the program who was selected for advanced training under section 2104 of this title may be appointed as a regular or reserve officer in the appropriate armed force in the grade of second lieutenant or ensign, even though he is under 21 years of age.
 
-(b) The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets or midshipmen from the United States Military Academy, theUnited States Naval Academy, or the United States Air Force Academy, as the case may be, in that year. The Secretary of the military department concerned shall establish the date of rank of all other officers appointed under this section.
+(b) The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets or midshipmen from the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy, as the case may be, in that year. The Secretary of the military department concerned shall establish the date of rank of all other officers appointed under this section.
 
 (c) In computing length of service for any purpose, an officer appointed under this section may not be credited with enlisted service for the period covered by his advanced training, other than any period of enlisted service performed on or after August 1, 1979, as a member of the Selected Reserve.
 
@@ -16,5 +16,5 @@
 
 #### Benefits Not To Accrue for Periods Prior to September 23, 1996
 
-Pub. L. 104–201, div. A, title V, §507(c), Sept. 23, 1996, 110 Stat. 2512, provided that: "No increase in pay or retired or retainer pay shall accrue for periods before the date of the enactment of this Act \[Sept. 23, 1996\] by reason of the amendments made by this section \[amending this section, sections 2107 and 2107a of this title, and section 205 of Title 37, Pay and Allowances of the Uniformed Services\]."
+Pub. L. 104–201, div. A, title V, §507(c), Sept. 23, 1996, 110 Stat. 2512, provided that: "No increase in pay or retired or retainer pay shall accrue for periods before thedate of the enactment of this Act \[Sept. 23, 1996\] by reason of the amendments made by this section \[amending this section, sections 2107 and 2107a of this title, and section 205 of Title 37, Pay and Allowances of the Uniformed Services\]."
 

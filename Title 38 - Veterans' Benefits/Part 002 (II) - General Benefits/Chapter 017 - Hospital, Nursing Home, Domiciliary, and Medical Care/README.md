@@ -6,7 +6,7 @@
 | :--- | ---: |
 | [1701\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001701%20-%20Definitions.md) | Definitions. |
 | [1702\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001702%20-%20Presumptions%20psychosis%20after%20service%20in%20World%20War%20II%20and%20following%20periods%20of%20war%3B%20mental%20illness%20after%20service%20in%20the%20Persian%20Gulf%20War.md) | Presumptions: psychosis after service in World War II and following periods of war; mental illness following service in the Persian Gulf War. |
-| [1703\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703%20-%20Contracts%20for%20hospital%20care%20and%20medical%20services%20in%20non-Department%20facilities.md) | Contracts for hospital care and medical services in non-Department facilities. |
+| [1703\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703%20-%20Veterans%20Community%20Care%20Program.md) | Veterans Community Care Program. |
 | [1703A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703A%20-%20Agreements%20with%20eligible%20entities%20or%20providers%3B%20certification%20processes.md) | Agreements with eligible entities or providers; certification processes. |
 | [1703B.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703B%20-%20Access%20standards.md) | Access standards. |
 | [1703C.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703C%20-%20Standards%20for%20quality.md) | Standards for quality. |

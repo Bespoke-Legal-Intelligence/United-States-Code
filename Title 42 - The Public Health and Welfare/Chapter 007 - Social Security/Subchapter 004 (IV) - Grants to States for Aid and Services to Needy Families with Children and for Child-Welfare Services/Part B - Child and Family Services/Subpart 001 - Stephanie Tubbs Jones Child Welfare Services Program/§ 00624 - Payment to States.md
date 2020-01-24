@@ -18,7 +18,7 @@ The total amount of Federal payments under this subpart for a fiscal year beginn
 
 #### (d) Limitation on use by States of non-Federal funds for foster care maintenance payments to match Federal funds
 
-For any fiscal year beginning after September 30, 2007, State expenditures of non-Federal funds for foster care maintenance payments shall not be considered to be expenditures under the State plan developed under this subpart for the fiscal year to the extent that the total of such expenditures for the fiscal year exceeds the total of such expenditures under the State plan developed under this subpart for fiscal year 2005.
+For any fiscal year beginning after September 30, 2007, State expenditures of non-Federal funds for foster care maintenance payments shall not be considered to be expenditures under the State plan developed under this subpart for the fiscalyear to the extent that the total of such expenditures for the fiscal year exceeds the total of such expenditures under the State plan developed under this subpart for fiscal year 2005.
 
 #### (e) Limitation on reimbursement for administrative costs
 
@@ -46,7 +46,7 @@ A payment may not be made to a State under this section with respect to expendit
 
 &emsp;(iii) 5, if the number of full percentage points by which the State fell short, as described in clause (i), is not less than 20.
 
-(Aug. 14, 1935, ch. 531, title IV, §424, formerly §423, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 913; amended Pub. L. 94–273, §22, Apr. 21, 1976, 90 Stat. 379; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 518; Pub. L. 103–66, title XIII, §13711(b)(2), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–432, title II, §202(d)(1), Oct. 31, 1994, 108 Stat. 4454; renumbered §424 andamended Pub. L. 109–288, §§6(b)(2), (e)(1), (2)(A), 7(b), 11(a)(2), Sept. 28, 2006, 120 Stat. 1244, 1246–1248, 1255; Pub. L. 112–34, title I, §101(c), Sept. 30, 2011, 125 Stat. 370.)
+(Aug. 14, 1935, ch. 531, title IV, §424, formerly §423, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 913; amended Pub. L. 94–273, §22, Apr. 21, 1976, 90 Stat. 379; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 518; Pub. L. 103–66, title XIII, §13711(b)(2), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–432, title II, §202(d)(1), Oct. 31, 1994, 108 Stat. 4454; renumbered §424 and amended Pub. L. 109–288, §§6(b)(2), (e)(1), (2)(A), 7(b), 11(a)(2), Sept. 28, 2006, 120 Stat. 1244, 1246–1248, 1255; Pub. L. 112–34, title I, §101(c), Sept. 30, 2011, 125 Stat. 370.)
 
 #### Codification
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 109–288 effective Oct. 1, 2006, except as otherwise provi
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–432 effective with respect to fiscal years beginning on or after Apr. 1, 1996, see section 202(e) of Pub. L. 103–432, set out as a note under section 622 of this title.
+Amendment by Pub. L. 103–432 effective with respect to fiscal years beginning on or after Apr. 1, 1996, seesection 202(e) of Pub. L. 103–432, set out as a note under section 622 of this title.
 
 #### Effective Date of 1993 Amendment
 

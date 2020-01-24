@@ -8,7 +8,7 @@
 
 #### (2) Preference for competition
 
-&emsp;If the Commission finds that a cable system is subject to effective competition, the ratesfor the provision of cable service by such system shall not be subject to regulation by the Commission or by a State or franchising authority under this section. If the Commission finds that a cable system is not subject to effective competition—
+&emsp;If the Commission finds that a cable system is subject to effective competition, the rates for the provision of cable service by such system shall not be subject to regulation by the Commission or by a State or franchising authority under this section. If the Commission finds that a cable system is not subject to effective competition—
 
 &emsp;&emsp;(A) the rates for the provision of basic cable service shall be subject to regulation by a franchising authority, or by the Commission if the Commission exercises jurisdiction pursuant to paragraph (6), in accordance with the regulations prescribed by the Commission under subsection (b); and
 
@@ -48,7 +48,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Commission shall allow cable operators, pursuant to any rules promulgated under subsection (b)(3), to aggregate, on a franchise, system, regional, or company level, their equipment costs into broad categories, such as converter boxes, regardless of the varying levels of functionality of the equipment within each such broad category. Such aggregation shall not be permitted with respect to equipment used by subscribers who receive only a rate regulated basic service tier.
+&emsp;&emsp;The Commission shall allow cable operators, pursuant to any rules promulgated under subsection (b)(3), to aggregate, on a franchise, system, regional, or company level, their equipment costs into broad categories, such as converter boxes, regardlessof the varying levels of functionality of the equipment within each such broad category. Such aggregation shall not be permitted with respect to equipment used by subscribers who receive only a rate regulated basic service tier.
 
 #### (B) Revision to Commission rules; forms
 
@@ -184,7 +184,7 @@
 
 #### (d) Uniform rate structure required
 
-A cable operator shall have a rate structure, for the provision of cable service, that is uniform throughout the geographic area in which cable service is provided over its cable system. This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may notcharge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory.
+A cable operator shall have a rate structure, for the provision of cable service, that is uniform throughout the geographic area in which cable service is provided over its cable system. This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may not charge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory.
 
 #### (e) Discrimination; services for the hearing impaired
 
@@ -308,7 +308,7 @@ Subsec. (c)(1)(C). Pub. L. 104–104, §301(b)(1)(B), substituted "the first com
 
 Subsec. (c)(3), (4). Pub. L. 104–104, §301(b)(1)(C), added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: "Except during the 180-day period following the effective date of the regulations prescribed by the Commission under paragraph (1), the procedures established under subparagraph (B) of such paragraph shall be available only with respect to complaints filed within a reasonable period of time following a change in rates that is initiated after that effective date, including a change in rates that results from a change in that system's service tiers."
 
-Subsec. (d). Pub. L. 104–104, §301(b)(2), inserted at end "This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may not charge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory."
+Subsec. (d). Pub. L. 104–104, §301(b)(2), inserted at end "This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may not charge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds tobelieve that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory."
 
 Subsec. (l)(1)(D). Pub. L. 104–104, §301(b)(3), added subpar. (D).
 

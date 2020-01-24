@@ -14,7 +14,7 @@ For purposes of subsection (a), the ministerial issuance or amendment of an auth
 
 &emsp;(3) The authorization is amended—
 
-&emsp;&emsp;(A) to effectuate administrative changes, such as modification of the land use fee orconversion to a new special use authorization form; or
+&emsp;&emsp;(A) to effectuate administrative changes, such as modification of the land use fee or conversion to a new special use authorization form; or
 
 &emsp;&emsp;(B) to include nondiscretionary environmental standards or to conform with current law.
 

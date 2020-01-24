@@ -28,7 +28,7 @@ The Secretary shall establish the minimum number of recreation fees and shall av
 
 #### (1) Prohibition on fees for certain activities or services
 
-&emsp;The Secretary shall not charge any standard amenity recreation fee or expanded amenityrecreation fee for Federal recreational lands and waters administered by the Bureau of Land Management, the Forest Service, or the Bureau of Reclamation under this chapter for any of the following:
+&emsp;The Secretary shall not charge any standard amenity recreation fee or expanded amenity recreation fee for Federal recreational lands and waters administered by the Bureau of Land Management, the Forest Service, or the Bureau of Reclamation under this chapter for any of the following:
 
 &emsp;&emsp;(A) Solely for parking, undesignated parking, or picnicking along roads or trailsides.
 

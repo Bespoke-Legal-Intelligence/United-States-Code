@@ -8,7 +8,7 @@
 
 &emsp;(B) Transportation to and from their places of duty or employment on a military installation for persons covered by this subsection.
 
-&emsp;(C) Transportation to and from a military installation for persons covered by this subsection and their dependents, in the case of a military installation located in an area determined by the Secretary concerned not to be adequately served by regularly scheduled, and timely, commercial or municipal mass transit services.
+&emsp;(C) Transportation to and from a military installation for persons covered by this subsection and their dependents, in the case of amilitary installation located in an area determined by the Secretary concerned not to be adequately served by regularly scheduled, and timely, commercial or municipal mass transit services.
 
 &emsp;(D) Transportation to and from their places of employment for persons attached to, or employed in, a private plant that is manufacturing material for that department, but only during a war or a national emergency declared by Congress or the President.
 
@@ -108,7 +108,7 @@ May 28, 1948, ch. 352, §1, 62 Stat. 276.
 
 In subsection (a), the words "it is necessary \* \* \* he may \* \* \* provide assured and adequate transportation" are substituted for the words "requires assured and adequate transportation facilities \* \* \* he is authorized \* \* \* to provide such transportation". The words "in the absence of adequate private or other facilities" are omitted as covered by subsection (b)(2). The words "subject, however, to the following provisions and conditions" are omitted, since the revised section states those conditions positively in the following subsections. The words "at reasonable rates of fare" are substituted for the first 23 words of clause 2 of 5:189c, 415d, and 626n. The words "under regulations to be prescribed by him" are substituted for the words "under such regulations as the Secretary of the Army \[Navy, Air Force\] shall prescribe" in clause 2, and the 17 words before the proviso of clause 3, of 5:189c, 415d, and 626n.
 
-In subsection (b), the words "Transportation \* \* \* under subsection (a)" are substituted for the words "The authority granted in this section to the Secretary of the Army \[Navy, Air Force\]". The words "may not be provided" are substituted for the words "shall be exercised". The word "transportation" is substituted for the word "service". The words "in each case", "as the case may be, that existing private and", and "by other means" are omitted as surplusage.
+In subsection (b), the words "Transportation \* \* \* under subsection (a)" are substituted for the words "The authority granted in this section to the Secretary of the Army \[Navy, Air Force\]". The words "may not be provided" are substituted for the words "shall be exercised". The word "transportation" is substituted for the word "service". The words "in each case", "as thecase may be, that existing private and", and "by other means" are omitted as surplusage.
 
 Subsection (b)(3) is substituted for the last 25 words of clause 4 of 5:189c, 415d, and 626n.
 

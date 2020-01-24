@@ -2,11 +2,11 @@
 
 #### (a) Lease of lands owned in whole or in part by United States within Floodway; determination of consistency with operation and maintenance
 
-No lease of lands owned in whole or in part by the United States and within the Colorado RiverFloodway shall be granted after October 8, 1986, unless the Secretary determines that such lease would be consistent with the operation and maintenance of the Colorado River Floodway.
+No lease of lands owned in whole or in part by the United States and within the Colorado River Floodway shall be granted after October 8, 1986, unless the Secretary determines that such lease would be consistent with the operation and maintenance of the Colorado River Floodway.
 
 #### (b) Extension of existing leases; minimization of inconsistency with operation and maintenance of Floodway
 
-No existing lease of lands owned in whole or in part by the United States and within the Colorado River Floodway shall be extended beyond October 8, 1986, or the stated expiration date of its current term, whichever is later, unless the lessee agrees to take reasonable and prudent steps determined to be necessary by the Secretary to minimize the inconsistency of operation under such lease with the operation and maintenance of the Colorado River Floodway.
+No existing lease of lands owned in whole or in part by the United States and within the Colorado River Floodway shall be extended beyondOctober 8, 1986, or the stated expiration date of its current term, whichever is later, unless the lessee agrees to take reasonable and prudent steps determined to be necessary by the Secretary to minimize the inconsistency of operation under such lease with the operation and maintenance of the Colorado River Floodway.
 
 #### (c) Lease of lands owned in whole or in part by United States between Hoover Dam and Davis Dam
 

@@ -54,7 +54,7 @@ A former spouse is not entitled to a survivor annuity under this section if—
 
 #### (2) Retroactive benefits
 
-&emsp;Upon approval of an application provided under paragraph (1), the appropriate survivorannuity shall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to such annuity under this section, but in no event shall a survivor annuity be payable under this section with respect to any period before October 1, 1986.
+&emsp;Upon approval of an application provided under paragraph (1), the appropriate survivor annuity shall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to such annuity under this section, but in no event shall a survivor annuity be payable under this section with respect to any period before October 1, 1986.
 
 #### (e) Restoration of annuity
 

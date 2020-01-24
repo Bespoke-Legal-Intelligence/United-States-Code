@@ -12,7 +12,7 @@
 
 (2) If the determination of the performance review panel in any case is that the member's job performance as a member of the Board meets the performance standards for a member of the Board established under subsection (f), the Chairman shall recertify the member's appointment as a member of the Board.
 
-(3) If the determination of the performance review panel in any case is that the member's jobperformance does not meet the performance standards for a member of the Board established under subsection (f), the Chairman shall, based upon the individual circumstances, either—
+(3) If the determination of the performance review panel in any case is that the member's job performance does not meet the performance standards for a member of the Board established under subsection (f), the Chairman shall, based upon the individual circumstances, either—
 
 &emsp;(A) grant the member a conditional recertification; or
 

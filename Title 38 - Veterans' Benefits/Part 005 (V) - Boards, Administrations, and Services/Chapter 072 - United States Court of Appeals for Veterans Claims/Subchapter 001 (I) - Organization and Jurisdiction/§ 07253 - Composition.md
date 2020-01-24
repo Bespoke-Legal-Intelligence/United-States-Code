@@ -6,7 +6,7 @@ Composition.—The Court of Appeals for Veterans Claims is composed of at least 
 
 (b)
 
-Appointment.—The judges of the Court shall be appointed by the President, by and with the advice and consent of the Senate, solely on the grounds of fitness to perform the duties of the office. A person may not be appointed to the Court who is not a member in good standing of the bar of a Federal court or of the highest court of a State. Not more than the number equal tothe next whole number greater than one-half of the number of judges of the Court may be members of the same political party.
+Appointment.—The judges of the Court shall be appointed by the President, by and with the advice and consent of the Senate, solely on the grounds of fitness to perform the duties of the office. A person may not be appointed to the Court who is not a member in good standing of the bar of a Federal court or of the highest court of a State. Not more than the number equal to the next whole number greater than one-half of the number of judges of the Court may be members of the same political party.
 
 (c)
 
@@ -54,7 +54,7 @@ Removal.—(1) A judge of the Court may be removed from office by the President 
 
 Rules.—(1) The Court shall prescribe rules, consistent with the provisions of chapter 16 of title 28, establishing procedures for the filing of complaints with respect to the conduct of any judge of the Court and for the investigation and resolution of such complaints. In investigating and taking action with respect to any such complaint, the Court shall have the powers granted to a judicial council under such chapter.
 
-(2) The provisions of sections 354(b) through 360 of title 28, regarding referral or certification to, and petition for review in, the Judicial Conference of the United States and action thereon, shall apply to the exercise by the Court of the powers of a judicial council under paragraph (1) of this subsection. The grounds for removal from office specified in subsection (f)(1) shall provide a basis for a determination pursuant to section 354(b) or 355 of title 28, and certification and transmittal by the Conference shall be made to the President for consideration under subsection (f).
+(2) The provisions of sections 354(b) through 360 of title 28, regarding referral or certificationto, and petition for review in, the Judicial Conference of the United States and action thereon, shall apply to the exercise by the Court of the powers of a judicial council under paragraph (1) of this subsection. The grounds for removal from office specified in subsection (f)(1) shall provide a basis for a determination pursuant to section 354(b) or 355 of title 28, and certification and transmittal by the Conference shall be made to the President for consideration under subsection (f).
 
 (3)(A) In conducting hearings pursuant to paragraph (1), the Court may exercise the authority provided under section 1821 of title 28 to pay the fees and allowances described in that section.
 
@@ -72,7 +72,7 @@ Temporary Expansion of Court.—(1) During the period from January 1, 2002, thro
 
 (B) If a judge is not appointed under this subsection pursuant to a nomination made in 2002, a judge may be appointed under this subsection pursuant to a nomination made in 2004. If a judge is not appointed under this subsection pursuant to a nomination made in 2003, a judge may be appointed under this subsection pursuant to a nomination made in 2004. In either case, such an appointment may be made only pursuant to a nomination made before October 1, 2004.
 
-(3) The term of office and the eligibility for retirement of a judge appointed under this subsection, other than a judge described in paragraph (4), are governed by the provisions of section 1012 of the Court of Appeals for Veterans Claims Amendments of 1999 (title X of PublicLaw 106–117; 113 Stat. 1590; 38 U.S.C. 7296 note) if the judge is one of the first two judges appointed to the Court after November 30, 1999.
+(3) The term of office and the eligibility for retirement of a judge appointed under this subsection, other than a judge described in paragraph (4), are governed by the provisions of section 1012 of the Court of Appeals for Veterans Claims Amendments of 1999 (title X of Public Law 106–117; 113 Stat. 1590; 38 U.S.C. 7296 note) if the judge is one of the first two judges appointed to the Court after November 30, 1999.
 
 (4) A judge of the Court as of December 27, 2001, who was appointed to the Court before January 1, 1991, may accept appointment as a judge of the Court under this subsection notwithstanding that the term of office of the judge on the Court has not yet expired under this section. The term of office of an incumbent judge who receives an appointment as described in the preceding sentence shall be 15 years, which includes any period remaining in the unexpired term of the judge. Any service following an appointment under this subsection shall be treated as though served as part of the original term of office of that judge on the Court.
 
@@ -85,10 +85,6 @@ Additional Temporary Expansion of Court.—(1) Subject to paragraph (2), effecti
 (2) Effective as of January 1, 2021, an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
 
 (Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4114, §4053; amended Pub. L. 101–94, title I, §102(c), Aug. 16, 1989, 103 Stat. 626; renumbered §7253, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, §3, Aug. 6, 1991, 105 Stat. 375; Pub. L. 102–585, title VIII, §801, Nov. 4, 1992, 106 Stat. 4980; Pub. L. 105–368, title V, §§501, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§1031, 1032(a), 1033, Nov. 30, 1999, 113 Stat. 1594, 1595; Pub. L. 107–103, title VI, §601, Dec. 27, 2001, 115 Stat. 998; Pub. L. 107–273, div. C, title I, §11043(f), Nov. 2, 2002, 116 Stat. 1856; Pub. L. 108–454, title VIII, §802, Dec. 10, 2004, 118 Stat. 3625; Pub. L. 109–233, title V, §503(15), June 15, 2006, 120 Stat. 417; Pub. L. 110–389, title VI, §601, Oct. 10, 2008, 122 Stat. 4176; Pub. L. 112–260, title III, §302(b), Jan. 10, 2013, 126 Stat. 2425; Pub. L. 114–315, title II, §§201(a), 204(a), Dec. 16, 2016, 130 Stat. 1548, 1549.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 204(a) of Pub. L. 114–315 applicable with respect to the selection of a chief judge occurring on or after Jan. 1, 2020. See 2016 Amendment notes below.</i>
 
 #### Amendments
 

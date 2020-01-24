@@ -54,5 +54,5 @@ Pub. L. 100–26, §12(d)(2), Apr. 21, 1987, 101 Stat. 289, provided that: "The 
 
 #### Effective Date
 
-Pub. L. 99–500, §101(c) \[title X, §954(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–173, Pub. L. 99–591, §101(c) \[title X, §954(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–173, and Pub. L. 99–661, div. A, title IX, formerly title IV, §954(b), Nov. 14, 1986, 100 Stat. 3953, renumbered title IX by Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "The amendments made by this section \[enacting this section\] shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
+Pub. L. 99–500, §101(c) \[title X, §954(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–173, Pub. L. 99–591, §101(c) \[title X,§954(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–173, and Pub. L. 99–661, div. A, title IX, formerly title IV, §954(b), Nov. 14, 1986, 100 Stat. 3953, renumbered title IX by Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "The amendments made by this section \[enacting this section\] shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
 

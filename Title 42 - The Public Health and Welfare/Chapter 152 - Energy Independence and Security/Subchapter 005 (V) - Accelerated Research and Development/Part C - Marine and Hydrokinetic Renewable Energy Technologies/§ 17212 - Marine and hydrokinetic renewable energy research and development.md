@@ -28,7 +28,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Secret
 
 &emsp;(12) address standards development, demonstration, and technology transfer for advanced systems engineering and system integration methods to identify critical interfaces;
 
-&emsp;(13) identifying <sup>1</sup> opportunities for cross fertilization and development of economies of scale between other renewable sources and marine and hydrokinetic renewable energy sources; and
+&emsp;(13) identifying <sup>1</sup> opportunities for cross fertilization and development of economies ofscale between other renewable sources and marine and hydrokinetic renewable energy sources; and
 
 &emsp;(14) providing <sup>2</sup> public information and opportunity for public comment concerning all technologies.
 

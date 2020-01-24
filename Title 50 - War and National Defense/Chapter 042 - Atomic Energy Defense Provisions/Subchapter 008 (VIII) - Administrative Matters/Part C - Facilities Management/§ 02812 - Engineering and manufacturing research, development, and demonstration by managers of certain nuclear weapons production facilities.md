@@ -14,7 +14,7 @@ The projects and activities carried out through the program at a nuclear weapons
 
 &emsp;(3) training, recruitment, or retention of essential personnel in critical engineering and manufacturing disciplines.
 
-(Pub. L. 107–314, div. D, title XLVIII, §4832, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3156\], Oct. 30, 2000, 114 Stat. 1654, 1654A–467; renumbered Pub. L. 107–314, div. D, title XLVIII, §4832, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(12), Nov. 24, 2003, 117 Stat. 1785; Pub. L. 112–239, div. C, title XXXI, §3131(z), Jan. 2, 2013, 126 Stat. 2185; Pub. L. 113–66, div. C, title XXXI,§3146(i)(7)(A), Dec. 26, 2013, 127 Stat. 1083; Pub. L. 113–291, div. C, title XXXI, §3142(u), Dec. 19, 2014, 128 Stat. 3902.)
+(Pub. L. 107–314, div. D, title XLVIII, §4832, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3156\], Oct. 30, 2000, 114 Stat. 1654, 1654A–467; renumbered Pub. L. 107–314, div. D, title XLVIII, §4832, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(12), Nov. 24, 2003, 117 Stat. 1785; Pub. L. 112–239, div. C, title XXXI, §3131(z), Jan. 2, 2013, 126 Stat. 2185; Pub. L. 113–66, div. C, title XXXI, §3146(i)(7)(A), Dec. 26, 2013, 127 Stat. 1083; Pub. L. 113–291, div. C, title XXXI, §3142(u), Dec. 19, 2014, 128 Stat. 3902.)
 
 #### Codification
 

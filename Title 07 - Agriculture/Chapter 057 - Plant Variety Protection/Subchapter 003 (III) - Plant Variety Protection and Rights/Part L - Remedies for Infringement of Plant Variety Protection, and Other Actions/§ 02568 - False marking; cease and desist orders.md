@@ -8,7 +8,7 @@
 
 &emsp;(3) Use of either the phrase "Unauthorized Propagation Prohibited" or "Unauthorized Seed Multiplication Prohibited" or similar phrase without reasonable basis. Any reasonable basis expires one year after the first sale of the variety except as justified thereafter by a pending application or a certificate still in force.
 
-&emsp;(4) Failure to use the name of a variety for which a certificate of protection has been issued under this chapter, even after the expiration of the certificate, except that lawn, turf, or forage grass seed, or alfalfa or clover seedmay be sold without a variety name unless use of the name of a variety for which a certificate of protection has been issued under this chapter is required under State law.
+&emsp;(4) Failure to use the name of a variety for which a certificate of protection has been issued under this chapter, even after the expiration of the certificate, except that lawn, turf, or forage grass seed, or alfalfa or clover seed may be sold without a variety name unless use of the name of a variety for which a certificate of protection has been issued under this chapter is required under State law.
 
 (b) Anyone convicted of violating a binding cease and desist order, or of performing any act prohibited in subsection (a) of this section for the purpose of deceiving the public, shall be fined not more than $10,000 and not less than $500.
 

@@ -6,7 +6,7 @@ If the President shall have reasonable cause to believe that any act is about to
 
 (b)(1) During the time of war, the President may, through any agency that he may designate, and under such rules and regulations as he may prescribe, by means of instructions, licenses, or otherwise—
 
-&emsp;(A) investigate, regulate, or prohibit, any transactions in foreign exchange, transfers of credit or payments between, by, through, or to any banking institution, and the importing, exporting, hoarding, melting, or earmarking of gold or silver coin or bullion, currency or securities, and
+&emsp;(A) investigate, regulate, or prohibit, any transactions in foreign exchange, transfers of credit or payments between, by, through, or toany banking institution, and the importing, exporting, hoarding, melting, or earmarking of gold or silver coin or bullion, currency or securities, and
 
 &emsp;(B) investigate, regulate, direct and compel, nullify, void, prevent or prohibit, any acquisition holding, withholding, use, transfer, withdrawal, transportation, importation or exportation of, or dealing in, or exercising any right, power, or privilege with respect to, or transactions involving, any property in which any foreign country or a national thereof has any interest,
 
@@ -16,7 +16,7 @@ If the President shall have reasonable cause to believe that any act is about to
 
 (3) As used in this subdivision the term "United States" means the United States and any place subject to the jurisdiction thereof: <i>Provided, however</i>, That the foregoing shall not be construed as a limitation upon the power of the President, which is hereby conferred, to prescribe from time to time, definitions, not inconsistent with the purposes of this subdivision, for any or all of the terms used in this subdivision. As used in this subdivision the term "person" means an individual, partnership, association, or corporation.
 
-(4) The authority granted to the President by this section does not include the authority to regulate or prohibit, directly or indirectly, the importation from any country, or the exportation to any country, whether commercial or otherwise, regardless of format or medium of transmission, of any information or informational materials, including but not limited to, publications, films, posters, phonograph records,photographs, microfilms, microfiche, tapes, compact disks, CD ROMs, artworks, and news wire feeds. The exports exempted from regulation or prohibition by this paragraph do not include those which are otherwise controlled for export under section 4604 <sup>1</sup> of this title, or under section 4605 <sup>1</sup> of this title to the extent that such controls promote the nonproliferation or antiterrorism policies of the United States, or with respect to which acts are prohibited by chapter 37 of title 18.
+(4) The authority granted to the President by this section does not include the authority to regulate or prohibit, directly or indirectly, the importation from any country, or the exportation to any country, whether commercial or otherwise, regardless of format or medium of transmission, of any information or informational materials, including but not limited to, publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, compact disks, CD ROMs, artworks, and news wire feeds. The exports exempted from regulation or prohibition by this paragraph do not include those which are otherwise controlled for export under section 4604 <sup>1</sup> of this title, or under section 4605 <sup>1</sup> of this title to the extent that such controls promote the nonproliferation or antiterrorism policies of the United States, or with respect to which acts are prohibited by chapter 37 of title 18.
 
 (Oct. 6, 1917, ch. 106, §5, 40 Stat. 415; Sept. 24, 1918, ch. 176, §5, 40 Stat. 966; Mar. 9, 1933, ch. 1, §2, 48 Stat. 1; May 7, 1940, ch. 185, §1, 54 Stat. 179; Dec. 18, 1941, ch. 593, title III, §301, 55 Stat. 839; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Pub. L. 95–223, title I, §§101(a), 102, 103(b), Dec. 28, 1977, 91 Stat. 1625, 1626; Pub. L. 100–418, title II, §2502(a)(1), Aug. 23, 1988, 102 Stat. 1371; Pub. L. 103–236, title V, §525(b)(1), Apr. 30, 1994, 108 Stat. 474.)
 
@@ -36,7 +36,7 @@ Subsec. (b) was also formerly classified to section 95a of Title 12, Banks and B
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(4). Pub. L. 103–236 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The authority granted to the President in this subsection does not include the authority to regulate or prohibit, directly or indirectly, the importation from any country, or the exportation to any country, whether commercial or otherwise, of publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, or other informational materials, which are not otherwise controlled for export under section 4604 of this title or with respect to which no acts are prohibited by chapter 37 of title 18."
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–236 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The authority granted to the President in this subsection does not include the authority to regulate or prohibit, directly or indirectly, the importation fromany country, or the exportation to any country, whether commercial or otherwise, of publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, or other informational materials, which are not otherwise controlled for export under section 4604 of this title or with respect to which no acts are prohibited by chapter 37 of title 18."
 
 <b>1988</b>—Subsec. (b)(4). Pub. L. 100–418 added par. (4).
 
@@ -82,7 +82,7 @@ Proc. No. 8271, June 26, 2008, 73 F.R. 36785, provided:
 
 I, GEORGE W. BUSH, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States, including section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. App. 5(b) note) \[now 50 U.S.C. 4305 note\], hereby find that the continuation of the exercise of authorities under the Trading With the Enemy Act (50 U.S.C. App. 1 <i>et seq</i>.) \[now 50 U.S.C. 4301 et seq.\] (TWEA) with respect to North Korea, as authorized in Proclamation 2914 of December 16, 1950, most recently continued under Presidential Determination 2007–32 of September 13, 2007 (72 <i>FR</i> 53407), and implemented by the regulations set forth below, is no longer in the national interest of the United States.
 
-Section 1. The exercise of TWEA authorities with respect to North Korea, which were implemented by the Foreign Assets Control Regulations, 31 C.F.R. part 500, and the Transaction Control Regulations, 31 C.F.R. part 505, and that were continued by Presidential Determination 2007–32 of September 13, 2007, is terminated, and Presidential Determination 2007–32 is rescinded with respect to North Korea.
+Section 1. The exercise of TWEA authorities with respect to North Korea, which were implemented by the Foreign Assets Control Regulations, 31 C.F.R. part 500,and the Transaction Control Regulations, 31 C.F.R. part 505, and that were continued by Presidential Determination 2007–32 of September 13, 2007, is terminated, and Presidential Determination 2007–32 is rescinded with respect to North Korea.
 
 Sec. 2. The Secretary of the Treasury is authorized and directed to take all appropriate measures within the Secretary's authority to give effect to this proclamation.
 
@@ -250,7 +250,7 @@ E. The term "national" shall include,
 
 (i) Any person who has been domiciled in, or a subject, citizen or resident of a foreign country at any time on or since the effective date of this Order,
 
-(ii) Any partnership, association, corporation or other organization, organized under the laws of, or which on or since the effective date of this Order had or has had its principal place of business in such foreign country, or which on or since such effective date was or has been controlled by, or a substantial part of the stock, shares, bonds, debentures, notes, drafts, or other securities or obligations of which, was or hasbeen owned or controlled by, directly or indirectly, such foreign country and/or one or more nationals thereof as herein defined.
+(ii) Any partnership, association, corporation or other organization, organized under the laws of, or which on or since the effective date of this Order had or has had its principal place of business in such foreign country, or which on or since such effective date was or has been controlled by, or a substantial part of the stock, shares, bonds, debentures, notes, drafts, or other securities or obligations of which, was or has been owned or controlled by, directly or indirectly, such foreign country and/or one or more nationals thereof as herein defined.
 
 (iii) Any person to the extent that such person is, or has been, since such effective date, acting or purporting to act directly or indirectly for the benefit or on behalf of any national of such foreign country, and
 
@@ -296,21 +296,23 @@ The terms and provisions of Executive Order 9095 of March 11, 1942, as amended \
 
 #### Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act
 
-Determination of President of the United States, No. 2018–11, Sept. 10, 2018, 83 F.R. 46347, provided:
+Determination of President of the United States, No. 2019–23, Sept. 13, 2019, 84 F.R. 49189, provided:
 
 Memorandum for the Secretary of State \[and\] the Secretary of the Treasury
 
-Under section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. 4305 note), and a previous determination on September 8, 2017 (82 <i>FR</i> 42927, September 13, 2017), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2018.
+Under section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. 4305 note), and a previous determination on September 10, 2018 (83 <i>FR</i> 46347, September 12, 2018), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2019.
 
 I hereby determine that the continuation of the exercise of those authorities with respect to Cuba for 1 year is in the national interest of the United States.
 
-Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2019, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 C.F.R. part 515.
+Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2020, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 C.F.R. Part 515.
 
 The Secretary of the Treasury is authorized and directed to publish this determination in the Federal Register.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior extensions were contained in the following:
+
+Determination of President of the United States, No. 2018–11, Sept. 10, 2018, 83 F.R. 46347.
 
 Determination of President of the United States, No. 2017–11, Sept. 8, 2017, 82 F.R. 42927.
 

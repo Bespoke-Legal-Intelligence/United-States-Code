@@ -28,7 +28,7 @@ There is established in the Treasury of the United States a fund, to be known as
 
 #### (A) Expenditures
 
-&emsp;&emsp;Subject to subparagraph (B), for each of fiscal years 2020 through 2034, the Secretarymay expend from the Fund an amount not to exceed $120,000,000, plus the interest accrued in the Fund, for the fiscal year in which expenditures are made pursuant to paragraphs (2) and (3).
+&emsp;&emsp;Subject to subparagraph (B), for each of fiscal years 2020 through 2034, the Secretary may expend from the Fund an amount not to exceed $120,000,000, plus the interest accrued in the Fund, for the fiscal year in which expenditures are made pursuant to paragraphs (2) and (3).
 
 #### (B) Additional expenditures
 
@@ -70,7 +70,7 @@ There is established in the Treasury of the United States a fund, to be known as
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), effective beginning January 1, 2020, if, in the judgment of the Secretary on an annual basis the deadline described in section 10701(e)(1)(A)(ix) <sup>1</sup> is unlikely to be met because a sufficient amount of funding is not otherwise available through appropriations made available pursuant to section 10609(a),<sup>1</sup> the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the costs, and substantially complete as expeditiously as practicable, the construction of the water supply infrastructure authorized as part of the Project.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), effective beginning January 1, 2020, if, in the judgment of the Secretary on an annual basis the deadline described in section 10701(e)(1)(A)(ix) <sup>1</sup> is unlikely to be met because a sufficient amount of funding is not otherwise available through appropriations made available pursuant to section 10609(a),<sup>1</sup> the Secretary shall expend from the Fund such amounts on anannual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the costs, and substantially complete as expeditiously as practicable, the construction of the water supply infrastructure authorized as part of the Project.
 
 #### (II) Maximum amount
 
@@ -96,7 +96,7 @@ There is established in the Treasury of the United States a fund, to be known as
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), effective beginning January 1, 2020, in addition to funding made available pursuant to clauses (i) and (ii), if in the judgment of the Secretary on an annual basis a sufficient amount of funding is not otherwise available through annual appropriations, the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the remaining costs of implementing Indian water rights settlement agreements entered into by the State of Montana with the Blackfeet Tribe, the Crow Tribe, or the Gros Ventre and Assiniboine Tribes of the Fort Belknap Indian Reservation in the judicial proceeding entitled "In re the General Adjudicationof All the Rights to Use Surface and Groundwater in the State of Montana", if a settlement or settlements are subsequently approved and authorized by an Act of Congress and the implementation period has not already expired.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), effective beginning January 1, 2020, in addition to funding made available pursuant to clauses (i) and (ii), if in the judgment of the Secretary on an annual basis a sufficient amount of funding is not otherwise available through annual appropriations, the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the remaining costs of implementing Indian water rights settlement agreements entered into by the State of Montana with the Blackfeet Tribe, the Crow Tribe, or the Gros Ventre and Assiniboine Tribes of the Fort Belknap Indian Reservation in the judicial proceeding entitled "In re the General Adjudication of All the Rights to Use Surface and Groundwater in the State of Montana", if a settlement or settlements are subsequently approved and authorized by an Act of Congress and the implementation period has not already expired.
 
 #### (II) Maximum amount
 
@@ -248,7 +248,7 @@ Depletion.—The term 'depletion' means the depletion of the flow of the San Jua
 
 &emsp;"(13)
 
-Draft impact statement.—The term 'Draft Impact Statement' means the draft environmental impact statement prepared by the Bureau of Reclamation for the Project dated March 2007.
+Draft impact statement.—The term 'Draft Impact Statement' means the draft environmentalimpact statement prepared by the Bureau of Reclamation for the Project dated March 2007.
 
 &emsp;"(14)
 
@@ -310,7 +310,7 @@ Secretary.—The term 'Secretary' means the Secretary of the Interior, acting th
 
 &emsp;"(27)
 
-Stream adjudication.—The term 'stream adjudication' means the general stream adjudicationthat is the subject of New Mexico v. United States, et al., No. 75–184 (11th Jud. Dist., San Juan County, New Mexico) (involving claims to waters of the San Juan River and the tributaries of that river).
+Stream adjudication.—The term 'stream adjudication' means the general stream adjudication that is the subject of New Mexico v. United States, et al., No. 75–184 (11th Jud. Dist., San Juan County, New Mexico) (involving claims to waters of the San Juan River and the tributaries of that river).
 
 &emsp;"(28)
 

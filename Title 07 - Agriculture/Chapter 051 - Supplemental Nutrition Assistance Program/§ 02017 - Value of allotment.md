@@ -24,7 +24,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 &emsp;If the benefits of a household are reduced under a Federal, State, or local law relating to a means-tested public assistance program for the failure of a member of the household to perform an action required under the law or program, for the duration of the reduction—
 
-&emsp;&emsp;(A) the household may not receive an increased allotment as the result of a decrease in the income of the household to the extent that the decrease is the result of the reduction; and
+&emsp;&emsp;(A) the household may not receive an increased allotment as the result of a decreasein the income of the household to the extent that the decrease is the result of the reduction; and
 
 &emsp;&emsp;(B) the State agency may reduce the allotment of the household by not more than 25 percent.
 
@@ -192,7 +192,7 @@ Subsec. (c)(2)(B). Pub. L. 104–193, §827, struck out "of more than one month"
 
 Subsec. (c)(3). Pub. L. 104–193, §828, added par. (3) and struck out former par. (3) which read as follows: "A State agency—
 
-&emsp;"(A) in the case of a household that is not entitled in the month in which it applies to expedited service under section 2020(e)(9) of this title, may provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraph (3) of section 2020(e) of this title; and
+&emsp;"(A) in the case of a household that is not entitled in the month in which it applies to expedited service under section 2020(e)(9) of this title, may provide thatan eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraph (3) of section 2020(e) of this title; and
 
 &emsp;"(B) in the case of a household that is entitled in the month in which it applies to expedited service under section 2020(e)(9) of this title, shall provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title."
 
@@ -268,7 +268,7 @@ Amendment by section 1730 of Pub. L. 101–624 effective Oct. 1, 1990, and amend
 
 Amendment by Pub. L. 100–435 effective Jan. 1, 1989, and implemented by States by Jan. 1, 1990, see section 701(b)(3)(A) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
-Pub. L. 100–387, title V, §502(b), Aug. 11, 1988, 102 Stat. 960, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(JJ), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(JJ), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
+Pub. L. 100–387, title V, §502(b), Aug. 11, 1988, 102 Stat. 960, as amended by Pub. L. 110–234, title IV,§4002(b)(1)(B), (2)(JJ), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(JJ), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 
 "(1) The amendments made by this section \[amending this section\] take effect on the date of enactment of this Act \[Aug. 11, 1988\].
 

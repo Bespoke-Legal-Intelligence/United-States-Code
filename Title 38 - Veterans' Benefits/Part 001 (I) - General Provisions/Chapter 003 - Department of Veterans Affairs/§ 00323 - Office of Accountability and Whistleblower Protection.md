@@ -52,7 +52,7 @@ Staff and Resources.—The Secretary shall ensure that the Assistant Secretary h
 
 (e)
 
-Relation to Office of General Counsel.—The Office shall not be established as an element of the Office of the General Counsel and the Assistant Secretary may not report to the General Counsel.
+Relation to Office of General Counsel.—The Office shall not be established as an element of the Office of the General Counsel andthe Assistant Secretary may not report to the General Counsel.
 
 (f)
 

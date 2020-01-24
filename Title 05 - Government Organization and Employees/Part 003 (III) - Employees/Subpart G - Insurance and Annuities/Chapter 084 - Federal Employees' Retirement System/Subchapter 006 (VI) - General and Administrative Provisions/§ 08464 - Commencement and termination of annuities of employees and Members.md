@@ -20,7 +20,7 @@
 
 (b) Except as otherwise provided in this chapter, the annuity of an annuitant under subchapter II or V of this chapter terminates on the date death or other terminating event occurs.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 574; amended Pub. L. 105–261, div. A, title XI, §1109(c)(2), Oct. 17, 1998, 112 Stat. 2145; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–323; Pub. L. 107–107, div. A, title X, §1048(f)(2), Dec. 28, 2001, 115 Stat. 1228.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 574; amended Pub. L. 105–261, div. A, title XI, §1109(c)(2), Oct. 17, 1998, 112 Stat. 2145; Pub. L. 106–58, title VI, §651(b), Sept. 29,1999, 113 Stat. 480; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–323; Pub. L. 107–107, div. A, title X, §1048(f)(2), Dec. 28, 2001, 115 Stat. 1228.)
 
 #### Amendments
 

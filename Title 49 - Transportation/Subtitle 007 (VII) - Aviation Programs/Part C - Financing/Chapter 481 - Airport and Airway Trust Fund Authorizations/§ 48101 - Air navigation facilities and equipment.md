@@ -2,7 +2,7 @@
 
 (a)
 
-General Authorization of Appropriations.—Not more than a total of the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to acquire, establish, and improve air navigation facilities under section 44502(a)(1)(A) of this title:
+General Authorization of Appropriations.—Not more than a total of the followingamounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to acquire, establish, and improve air navigation facilities under section 44502(a)(1)(A) of this title:
 
 &emsp;(1) $3,330,000,000 for fiscal year 2018.
 
@@ -116,7 +116,7 @@ Pub. L. 115–254, §112(b)(1), substituted "Authorized Expenditures" for "Autom
 
 <b>2017</b>—Subsec. (a)(6). Pub. L. 115–63 added par. (6).
 
-<b>2016</b>—Subsec. (a)(5). Pub. L. 114–190 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "$2,058,333,333 for the period beginning on October 1, 2015, and ending on July 15, 2016."
+<b>2016</b>—Subsec. (a)(5). Pub. L. 114–190 amended par. (5) generally. Prior to amendment, par. (5) read as follows:"$2,058,333,333 for the period beginning on October 1, 2015, and ending on July 15, 2016."
 
 Pub. L. 114–141 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "$1,300,000,000 for the period beginning on October 1, 2015, and ending on March 31, 2016."
 

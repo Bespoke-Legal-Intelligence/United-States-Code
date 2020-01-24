@@ -36,11 +36,11 @@ Responsibility for Response Actions.—
 
 &emsp;(1)
 
-Basic responsibility.—The Secretary shall carry out (in accordance with the provisions of this chapter and CERCLA) all response actions with respect to releases of hazardous substances from each of the following:
+Basic responsibility.—The Secretary shall carry out (in accordance with the provisions of this chapter and CERCLA) all response actions with respect to releases of hazardous substances or pollutants or contaminants from each of the following:
 
 &emsp;&emsp;(A) Each facility or site owned by, leased to, or otherwise possessed by the United States and under the jurisdiction of the Secretary.
 
-&emsp;&emsp;(B) Each facility or site which was under the jurisdiction of the Secretary and owned by, leased to, or otherwise possessed by the United States at the time of actions leading to contamination by hazardous substances.
+&emsp;&emsp;(B) Each facility or site which was under the jurisdiction of the Secretary and owned by, leased to, or otherwise possessed by the United States at the time of actions leading to contamination by hazardous substances or pollutants or contaminants.
 
 &emsp;&emsp;(C) Each vessel owned or operated by the Department of Defense.
 
@@ -50,7 +50,7 @@ Other responsible parties.—Paragraph (1) shall not apply to a removal or remed
 
 &emsp;(3)
 
-State fees and charges.—The Secretary shall pay fees and charges imposed by State authorities for permit services for the disposal of hazardous substances on lands which are under the jurisdiction of the Secretary to the same extent that nongovernmental entities are required to pay fees and charges imposed by State authorities for permit services. The preceding sentence shall not apply with respect to a payment that is the responsibility of a lessee, contractor, or other private person.
+State fees and charges.—The Secretary shall pay fees and charges imposed by State authorities for permit services for the disposal of hazardous substances or pollutants or contaminants on lands which are under the jurisdiction of the Secretary to the same extent that nongovernmental entities are required to pay fees and charges imposed by State authorities for permit services. The preceding sentence shall not apply with respect to a payment that is the responsibility of a lessee, contractor, or other private person.
 
 (d)
 
@@ -58,7 +58,7 @@ Services of Other Entities.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (3), the Secretary may enter into agreements on a reimbursable or other basis with any other Federal agency, any State or local government agency, any Indian tribe, any owner ofcovenant property, or any nonprofit conservation organization to obtain the services of the agency, Indian tribe, owner, or organization to assist the Secretary in carrying out any of the Secretary's responsibilities under this section. Services which may be obtained under this subsection include the identification, investigation, and cleanup of any off-site contamination resulting from the release of a hazardous substance or waste at a facility under the Secretary's jurisdiction.
+In general.—Subject to paragraph (3), the Secretary may enter into agreements on a reimbursable or other basis with any other Federal agency, any State or local government agency, any Indian tribe, any owner of covenant property, or any nonprofit conservation organization to obtain the services of the agency, Indian tribe, owner, or organization to assist the Secretary in carrying out any of the Secretary's responsibilities under this section. Services which may be obtained under this subsection include the identification, investigation, and cleanup of any off-site contamination resulting from the release of a hazardous substance or waste at a facility under the Secretary's jurisdiction.
 
 &emsp;(2)
 
@@ -138,7 +138,7 @@ Program Manager.—(1) The Secretary of Defense shall designate a program manage
 
 (4) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 <sup>1</sup> of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, §2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§311, 312, Oct. 17, 2006, 120 Stat. 2137; Pub. L. 111–84, div. A, title X, §1073(a)(28), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(46)(B), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(A), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title IX, §901(n)(2), Dec. 19, 2014, 128 Stat. 3469.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, §2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§311, 312, Oct. 17, 2006, 120 Stat. 2137; Pub. L. 111–84, div. A, title X, §1073(a)(28), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(46)(B), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(A), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title IX, §901(n)(2), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 116–92, div. A, title III, §316(c), Dec. 20, 2019, 133 Stat. 1304.)
 
 #### References in Text
 
@@ -151,6 +151,8 @@ Provisions similar to those in subsecs. (f) and (g) of this section were contain
 A prior section 2701 was renumbered section 2721 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c). Pub. L. 116–92 inserted "or pollutants or contaminants" after "hazardous substances" wherever appearing.
 
 <b>2013</b>—Subsec. (d)(2). Pub. L. 112–239 substituted "Department of Defense Base Closure Account established by section 2906" for "Department of Defense Base Closure Account 1990 or the Department of Defense Base Closure Account 2005 established under sections 2906 and 2906A".
 
@@ -254,6 +256,234 @@ Pub. L. 104–106, div. A, title XV, §1504(a), Feb. 10, 1996, 110 Stat. 513, pr
 
 For effective date and applicability of amendment by section 4321(b)(22) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
 
+#### Savings Clause
+
+Nothing in amendments by section 316 of Pub. L. 116–92 to affect any requirement or authority under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.), see section 316(d) of Pub. L. 116–92, set out as a note under section 2700 of this title.
+
+#### Contamination by Perfluoroalkyl or Polyfluoroalkyl Substances
+
+Pub. L. 116–92, div. A, title III, §§329–332, Dec. 20, 2019, 133 Stat. 1312, 1313, provided that:
+
+#### "SEC. 329. PROHIBITION ON PERFLUOROALKYL SUBSTANCES AND POLYFLUOROALKYL SUBSTANCES IN MEALS READY-TO-EAT FOOD PACKAGING.
+
+"(a)
+
+Prohibition.—Not later than October 1, 2021, the Director of the Defense Logistics Agency shall ensure that any food contact substances that are used to assemble and package meals ready-to-eat (MREs) procured by the Defense Logistics Agency do not contain any perfluoroalkyl substances or polyfluoroalkyl substances.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Perfluoroalkyl substance.—The term 'perfluoroalkyl substance' means a man-made chemical of which all of the carbon atoms are fully fluorinated carbon atoms.
+
+&emsp;"(2)
+
+Polyfluoroalkyl substance.—The term 'polyfluoroalkyl substance' means a man-made chemical containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.
+
+#### "SEC. 330. DISPOSAL OF MATERIALS CONTAINING PER- AND POLYFLUOROALKYL SUBSTANCES OR AQUEOUS FILM-FORMING FOAM.
+
+"(a)
+
+In General.—The Secretary of Defense shall ensure that when materials containing per- and polyfluoroalkyl substances (referred to in this section as 'PFAS') or aqueous film forming foam (referred to in this section as 'AFFF') are disposed—
+
+&emsp;"(1) all incineration is conducted at a temperature range adequate to break down PFAS chemicals while also ensuring the maximum degree of reduction in emission of PFAS, including elimination of such emissions where achievable;
+
+&emsp;"(2) all incineration is conducted in accordance with the requirements of the Clean Air Act (42 USC 7401 et seq.), including controlling hydrogen fluoride;
+
+&emsp;"(3) any materials containing PFAS that are designated for disposal are stored in accordance with the requirement under part 264 of title 40, Code of Federal Regulations; and
+
+&emsp;"(4) all incineration is conducted at a facility that has been permitted to receive waste regulated under subtitle C of the Solid Waste Disposal Act (42 USC 6921 et seq.).
+
+"(b)
+
+Scope of Application.—The requirements in subsection (a) only apply to all legacy AFFF formulations containing PFAS, materials contaminated by AFFF release, and spent filters or other PFAS contaminated materials resulting from site remediation or water filtration that—
+
+&emsp;"(1) have been used by the Department of Defense or a military department; or
+
+&emsp;"(2) are being discarded for disposal by means of incineration by the Department of Defense or a military department; or
+
+&emsp;"(3) are being removed from sites or facilities owned or operated by the Department of Defense.
+
+#### "SEC. 331. AGREEMENTS TO SHARE MONITORING DATA RELATING TO PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES AND OTHER CONTAMINANTS OF CONCERN.
+
+"(a)
+
+In General.—The Secretary of Defense shall seek to enter into agreements with municipalities ormunicipal drinking water utilities located adjacent to military installations under which both the Secretary and the municipalities and utilities would share monitoring data relating to perfluoroalkyl substances, polyfluoroalkyl substances, and other emerging contaminants of concern collected at the military installation.
+
+"(b)
+
+Publicly Available Website.—The Secretary of Defense shall maintain a publicly available website that provides a clearinghouse for information about the exposure of members of the Armed Forces, their families, and their communities to per- and polyfluoroalkyl substances. The information provided on the website shall include information on testing, clean-up, and recommended available treatment methodologies.
+
+"(c)
+
+Public Communication.—An agreement under subsection (a) does not negate the responsibility of the Secretary to communicate with the public about drinking water contamination from perfluoroalkyl substances, polyfluoroalkyl substances, and other contaminants.
+
+"(d)
+
+Military Installation Defined.—In this section, the term 'military installation' has the meaning given that term in section 2801(c) of title 10, United States Code.
+
+#### "SEC. 332. COOPERATIVE AGREEMENTS WITH STATES TO ADDRESS CONTAMINATION BY PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES.
+
+"(a)
+
+Cooperative Agreements.—
+
+&emsp;"(1)
+
+In general.—Upon request from the Governor or chief executive of a State, the Secretary of Defense shall work expeditiously, pursuant to section 2701(d) of title 10, United States Code, to finalize a cooperative agreement, or amend an existing cooperative agreement to address testing, monitoring, removal, and remedial actions relating to the contamination or suspected contamination of drinking, surface, or ground water from PFAS originating from activities of the Department of Defense by providing the mechanism and funding for the expedited review and approval of documents of the Department related to PFAS investigations and remedial actions from an active or decommissioned military installation, including a facility of the National Guard.
+
+&emsp;"(2)
+
+Minimum standards.—A cooperative agreement finalized or amended under paragraph (1) shall meet or exceed the most stringent of the following standards for PFAS in any environmental media:
+
+&emsp;&emsp;"(A) An enforceable State standard, in effect in that State, for drinking, surface, or ground water, as described in section 121(d)(2)(A)(ii) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9621(d)(2)(A)(ii)).
+
+&emsp;&emsp;"(B) An enforceable Federal standard for drinking, surface, or ground water, as described in section 121(d)(2)(A)(i) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9621(d)(2)(A)(i)).
+
+&emsp;&emsp;"(C) A health advisory under section 1412(b)(1)(F) of the Safe Drinking Water Act (42 U.S.C. 300g–1(b)(1)(F)).
+
+&emsp;"(3)
+
+Other authority.—In addition to the requirements for a cooperative agreement under paragraph (1), when otherwise authorized to expend funds for the purpose of addressing ground or surface water contaminated by a perfluorinated compound, the Secretary of Defense may, to expend those funds, enter into a grant agreement, cooperative agreement, or contract with—
+
+&emsp;&emsp;"(A) the local water authority with jurisdiction over the contamination site, including—
+
+&emsp;&emsp;&emsp;"(i) a public water system (as defined in section 1401 of the Safe Drinking Water Act (42 U.S.C. 300f)); and
+
+&emsp;&emsp;&emsp;"(ii) a publicly owned treatment works (as defined in section 212 of the Federal Water Pollution Control Act (33 U.S.C. 1292)); or
+
+&emsp;&emsp;"(B) a State, local, or Tribal government.
+
+"(b)
+
+Report.—Beginning on February 1, 2020, if a cooperative agreement is not finalized or amended under subsection (a) within one year after the request from the Governor or chief executive under that subsection, and annually thereafter, the Secretary of Defense shall submit to the appropriate committees and Members of Congress a report—
+
+&emsp;"(1) explaining why the agreement has not been finalized or amended, as the case may be; and
+
+&emsp;"(2) setting forth a projected timeline for finalizing or amending the agreement.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate committees and members of congress.—The term 'appropriate committees and Members of Congress' means—
+
+&emsp;&emsp;"(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\];
+
+&emsp;&emsp;"(B) the Senators who represent a State impacted by PFAS contamination described in subsection (a)(1); and
+
+&emsp;&emsp;"(C) the Members of the House of Representatives who represent a district impacted by such contamination.
+
+&emsp;"(2)
+
+Fully fluorinated carbon atom.—The term 'fully fluorinated carbon atom' means a carbon atom on which all the hydrogen substituents have been replaced by fluorine.
+
+&emsp;"(3)
+
+PFAS.—The term 'PFAS' means perfluoroalkyl and polyfluoroalkyl substances that are man-made chemicals with at least one fully fluorinated carbon atom.
+
+&emsp;"(4)
+
+State.—The term 'State' has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601)."
+
+#### Treatment of Contaminated Water Near Military Installations
+
+Pub. L. 116–92, div. A, title III, subtitle C, Dec. 20, 2019, 133 Stat. 1317, provided that:
+
+#### "SEC. 341. SHORT TITLE.
+
+"This subtitle may be cited as the 'Prompt and Fast Action to Stop Damages Act of 2019'.
+
+#### "SEC. 342. DEFINITIONS.
+
+"In this subtitle:
+
+&emsp;"(1)
+
+PFOA.—The term 'PFOA' means perfluorooctanoic acid.
+
+&emsp;"(2)
+
+PFOS.—The term 'PFOS' means perfluorooctane sulfonate.
+
+#### "SEC. 343. PROVISION OF WATER UNCONTAMINATED WITH PERFLUOROOCTANOIC ACID (PFOA) AND PERFLUOROOCTANE SULFONATE (PFOS) FOR AGRICULTURAL PURPOSES.
+
+"(a)
+
+Authority.—
+
+&emsp;"(1)
+
+In general.—Using amounts authorized to be appropriated or otherwise made available for operation and maintenance for the military department concerned, or for operation and maintenance Defense-wide in the case of the Secretary of Defense, the Secretary concerned may provide water sources uncontaminated with perfluoroalkyl and polyfluoroalkyl substances, including PFOA and PFOS, or treatment of contaminated waters, for agricultural purposes used to produce products destined for human consumption in an area in which a water source has been determined pursuant to paragraph (2) to be contaminated with such compounds by reason of activities on a military installation under the jurisdiction of the Secretary concerned.
+
+&emsp;"(2)
+
+Applicable standard.—For purposes of paragraph (1), an area is determined to be contaminated with PFOA or PFOS if—
+
+&emsp;&emsp;"(A) the level of contamination is above the Lifetime Health Advisory for contamination with such compounds issued by the Environmental Protection Agency and printed in the Federal Register on May 25, 2016; or
+
+&emsp;&emsp;"(B) on or after the date the Food and Drug Administration sets a standard for PFOA and PFOS in raw agricultural commodities and milk, the level of contamination is above such standard.
+
+"(b)
+
+Secretary Concerned Defined.—In this section, the term 'Secretary concerned' means the following:
+
+&emsp;"(1) The Secretary of the Army, with respect to the Army.
+
+&emsp;"(2) The Secretary of the Navy, with respect to the Navy, the Marine Corps, and the Coast Guard (when it is operating as a service in the Navy).
+
+&emsp;"(3) The Secretary of the Air Force, with respect to the Air Force.
+
+&emsp;"(4) The Secretary of Defense, with respect to the Defense Agencies.
+
+#### "SEC. 344. ACQUISITION OF REAL PROPERTY BY AIR FORCE.
+
+"(a)
+
+Authority.—
+
+&emsp;"(1)
+
+In general.—The Secretary of the Air Force may acquire one or more parcels of real property within the vicinity of an Air Force base that has shown signs of contamination from PFOA and PFOS due to activities on the base and which would extend the contiguous geographic footprint of the base and increase the force protection standoff near critical infrastructure and runways.
+
+&emsp;"(2)
+
+Improvements and personal property.—The authority under paragraph (1) to acquire real property described in that paragraph shall include the authority to purchase improvements and personal property located on that real property.
+
+&emsp;"(3)
+
+Relocation expenses.—The authority under paragraph (1) to acquire real property described in that paragraph shall include the authority to provide Federal financial assistance for moving costs, relocation benefits, and other expenses incurred in accordance with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.).
+
+"(b)
+
+Environmental Activities.—The Air Force shall conduct such activities at a parcel or parcels of real property acquired under subsection (a) as are necessary to remediate contamination from PFOA and PFOS related to activities at the Air Force base.
+
+"(c)
+
+Funding.—Funds for the land acquisitions authorized under subsection (a) shall be derived from amounts authorized to be appropriated for fiscal year 2020 for military construction or the unobligated balances of appropriations for military construction that are enacted after the date of the enactment of this Act \[Dec. 20, 2019\].
+
+"(d)
+
+Rule of Construction.—The authority under this section constitutes authority to carry out land acquisitions for purposes of section 2802 of title 10, United States Code.
+
+#### "SEC. 345. REMEDIATION PLAN.
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall submit to Congress a remediation plan for cleanup of all water at or adjacent to a military installation that is contaminated with PFOA or PFOS.
+
+"(b)
+
+Study.—In preparing the remediation plan under subsection (a), the Secretary shall conduct a study on the contamination of water at military installations with PFOA or PFOS.
+
+"(c)
+
+Budget Amount.—The Secretary shall ensure that each budget of the President submitted to Congress under section 1105(a) of title 31, United States Code, requests funding in amounts necessary to address remediation efforts under the remediation plan submitted under subsection (a)."
+
 #### Plan, Funding Documents, and Management Review Relating to Explosive Ordnance Disposal
 
 Pub. L. 114–328, div. A, title III, §343, Dec. 23, 2016, 130 Stat. 2082, provided that:
@@ -322,7 +552,7 @@ Elements.—The review and assessment under paragraph (1) shall include the foll
 
 &emsp;&emsp;"(D) Budget displays for each military department that support research, development, test, and evaluation; procurement; and operation and maintenance, relating to explosive ordnance disposal.
 
-&emsp;&emsp;"(E) An assessment of the adequacy of the organizational structures and responsibilities and the alignment of funding within the military departments in supporting the needs of the combatant commands and the military departments with respect to explosive ordnance disposal.
+&emsp;&emsp;"(E) An assessment of the adequacy of the organizational structures and responsibilities and the alignment of funding within the military departments in supporting the needs of the combatantcommands and the military departments with respect to explosive ordnance disposal.
 
 "(d)
 
@@ -410,7 +640,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act \[
 
 "(c)
 
-Health Assessment Reports.—Not later than 180 days after notice is due under subsection (a)(2), the Secretary shall submit to the Committees on ArmedServices of the Senate and House of Representatives a health assessment report on each open-air burn pit at a location where at least 100 personnel have been employed for 90 consecutive days or more. Each such report shall include each of the following:
+Health Assessment Reports.—Not later than 180 days after notice is due under subsection (a)(2), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a health assessment report on each open-air burn pit at a location where at least 100 personnel have been employed for 90 consecutive days or more. Each such report shall include each of the following:
 
 &emsp;"(1) An epidemiological description of the short-term and long-term health risks posed to personnel in the area where the burn pit is located because of exposure to the open-air burn pit.
 
@@ -628,7 +858,7 @@ Establishment.—The Secretary of Defense shall establish and conduct an educati
 
 "(b)
 
-Identification of Military Facilities With Environmental Training Expertise.—As part of the program, the Secretary may identify military facilities that have existing expertise (or the capacity to develop such expertise) in conducting education and training activities in various environmental disciplines. In the case of a military facility identified under this subsection, the Secretary should encourage the use of the facility by members and employees referred to in subsection (a) who are not under the jurisdiction of the military department operating the facility."
+Identification of Military Facilities With Environmental Training Expertise.—As part of the program, the Secretary may identify military facilities that have existing expertise (or the capacity to developsuch expertise) in conducting education and training activities in various environmental disciplines. In the case of a military facility identified under this subsection, the Secretary should encourage the use of the facility by members and employees referred to in subsection (a) who are not under the jurisdiction of the military department operating the facility."
 
 #### Grants to Institutions of Higher Education To Provide Education and Training in Environmental Restoration to Dislocated Defense Workers and Young Adults
 
@@ -712,7 +942,7 @@ Limitation on Amount of Grant to a Single Recipient.—The amount of a grant und
 
 "(h)
 
-Reporting Requirements.—(1) The Secretary may provide a grant to an institution of higher education under subsection (a) only if the institution agrees to submit to the Secretary, in each fiscal year in which the Secretary makes payments under the grant to the institution, a report containing—
+Reporting Requirements.—(1) The Secretary may provide a grant to an institution of higher education under subsection (a) only if the institution agrees to submit to the Secretary, in each fiscal yearin which the Secretary makes payments under the grant to the institution, a report containing—
 
 &emsp;"(A) a description and evaluation of the education and training program established by the consortium formed by the institution under subsection (c); and
 
@@ -848,7 +1078,7 @@ Award of Scholarship.—(1)(A) The Secretary of Defense shall award scholarships
 
 "(f)
 
-Application; Period for Submission.—(1) Each individual desiring a scholarship under this section shall submit an application to the Secretary of Defense in such manner and containing or accompanied by such information as the Secretary may reasonably require.
+Application; Period for Submission.—(1) Each individual desiring a scholarship under this sectionshall submit an application to the Secretary of Defense in such manner and containing or accompanied by such information as the Secretary may reasonably require.
 
 "(2) A member of the Armed Forces described in subsection (d)(1) who desires to apply for a scholarship under this section shall submit an application under this subsection not later than 180 days after the date of the separation of the member. In the case of members described in subsection (d)(1) who were separated before the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall accept applications from these members submitted during the 180-day period beginning on the date of the enactment of this Act.
 
@@ -926,7 +1156,7 @@ Effect on Other Environmental Requirements.—Nothing in this section shall be c
 
 #### Cooperative Agreements and Grants To Implement Legacy Resource Management Program
 
-Pub. L. 103–139, title II, Nov. 11, 1993, 107 Stat. 1422, provided in part: "That notwithstanding the provisions of the Federal Cooperative Grant and Agreement Act of 1977 (31 U.S.C. 6303–6308), the Department of Defense may hereafter negotiate and enter into cooperative agreements and grants with public and private agencies, organizations, institutions, individuals or other entities to implement the purposes of the Legacy Resource Management Program".
+Pub. L. 103–139, title II, Nov. 11, 1993, 107 Stat. 1422, provided in part: "That notwithstanding the provisionsof the Federal Cooperative Grant and Agreement Act of 1977 (31 U.S.C. 6303–6308), the Department of Defense may hereafter negotiate and enter into cooperative agreements and grants with public and private agencies, organizations, institutions, individuals or other entities to implement the purposes of the Legacy Resource Management Program".
 
 #### Pilot Program for Expedited Environmental Response Actions
 
@@ -1020,7 +1250,7 @@ Eligibility.—To be eligible to participate in the scholarship or fellowship pr
 
 "(c)
 
-Agreement.—An agreement between the Secretary and an individual participating in a scholarship or fellowship established in subsection (a) shall be in writing, shall be signed by the individual, and shall include the following provisions:
+Agreement.—An agreement between the Secretary and an individual participating in a scholarship or fellowship established in subsection (a) shall be inwriting, shall be signed by the individual, and shall include the following provisions:
 
 &emsp;"(1) The agreement of the Secretary to provide the individual with educational assistance for a specified number of school years (not to exceed 5 years) during which the individual is pursuing a course of education in a qualifying field. The assistance may include payment of tuition, fees, books, laboratory expenses, and (in the case of a fellowship) a stipend.
 
@@ -1152,7 +1382,7 @@ Environmental Data Base.—The Secretary of Defense shall develop and maintain a
 
 "(b)
 
-Report.—Not later than one year after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the progress in development of the data base required under subsection (a). The report shall include a summary of the information collectedfor the data base with respect to environmental activities during 1989."
+Report.—Not later than one year after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the progress in development of the data base required under subsection (a). The report shall include a summary of the information collected for the data base with respect to environmental activities during 1989."
 
 #### Funding for Waste Minimization Programs for Certain Industrial-Type Activities of Department of Defense
 
@@ -1164,7 +1394,7 @@ Pub. L. 101–189, div. A, title III, §356, Nov. 29, 1989, 103 Stat. 1425, as a
 
 "(a)
 
-Chlorofluorocarbons Emission Reduction.—The Secretary of Defense shall formulate and carry out, through the Under Secretary of Defense for Acquisition, Technology, and Logistics a program to reduce the unnecessary release of chlorofluorocarbons (hereinafter in this section referred to as 'CFCs') and halons into the atmosphere in connection with maintenance operations and training and testing practices of the Department of Defense.
+Chlorofluorocarbons Emission Reduction.—The Secretary of Defense shall formulate and carry out, through the Under Secretary of Defense for Acquisition, Technology, and Logistics a program to reduce the unnecessary release of chlorofluorocarbons (hereinafter in this section referred to as 'CFCs') and halonsinto the atmosphere in connection with maintenance operations and training and testing practices of the Department of Defense.
 
 "(b)
 

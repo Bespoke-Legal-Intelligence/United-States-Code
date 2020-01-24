@@ -50,7 +50,7 @@ Eligible Entity or Provider Certification Process.—The Secretary shall establi
 
 (d)
 
-Rates.—To the extent practicable, the rates paid by the Secretary for hospital care, medical services, and extended care services provided under a Veterans Care Agreement shall be in accordance with the rates paid by the United States under section 1703(i) <sup>1</sup> of this title.
+Rates.—To the extent practicable, the rates paid by the Secretary for hospital care, medical services, and extended care services provided under a Veterans Care Agreement shall be in accordance with the rates paid by the United States under section 1703(i) of this title.
 
 (e)
 
@@ -108,7 +108,7 @@ Applicability of Other Provisions of Law.—(1) A Veterans Care Agreement may be
 
 &emsp;(B) a Federal contract for the acquisition of goods or services for purposes of any provision of Federal law governing Federal contracts for the acquisition of goods or services except section 4706(d) of title 41.
 
-(2)(A) Except as provided in the agreement itself, in subparagraph (B), and unless otherwiseprovided in this section or regulations prescribed pursuant to this section, an eligible entity or provider that enters into an agreement under this section is not subject to, in the carrying out of the agreement, any law to which providers of services and suppliers under the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) are not subject.
+(2)(A) Except as provided in the agreement itself, in subparagraph (B), and unless otherwise provided in this section or regulations prescribed pursuant to this section, an eligible entity or provider that enters into an agreement under this section is not subject to, in the carrying out of the agreement, any law to which providers of services and suppliers under the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) are not subject.
 
 (B) An eligible entity or provider that enters into an agreement under this section is subject to—
 
@@ -120,7 +120,7 @@ Applicability of Other Provisions of Law.—(1) A Veterans Care Agreement may be
 
 (j)
 
-Parity of Treatment.—Eligibility for hospital care, medical services, and extended care services furnished to any covered individual pursuant to a Veterans Care Agreement shall be subject to the same terms as though provided in a facility of the Department, and provisions of this chapter applicable to covered individuals receiving such care and services in a facility of the Department shall apply to covered individuals treated under this section.
+Parity of Treatment.—Eligibility for hospital care, medical services, and extended care services furnished to any covered individual pursuant to a Veterans Care Agreement shall be subject to the same terms as though provided ina facility of the Department, and provisions of this chapter applicable to covered individuals receiving such care and services in a facility of the Department shall apply to covered individuals treated under this section.
 
 (k)
 
@@ -135,8 +135,6 @@ Covered Individual Defined.—In this section, the term "covered individual" mea
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (b)(2) and (i)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
-
-Section 1703(i) of this title, referred to in subsec. (d), probably means section 1703(i) as added by Pub. L. 115–182, title I, §101(a)(1), June 6, 2018, 132 Stat. 1395, which takes effect on the date specified in section 101(b) of Pub. L. 115–182. See Amendment of Section and Effective Date of 2018 Amendment notes set out under section 1703 of this title.
 
 #### Amendments
 
@@ -173,6 +171,4 @@ Applicability Period.—The directive described in subsection (a), and the morat
 "(c)
 
 TRICARE Program Defined.—In this section, the term 'TRICARE program' has the meaning given that term in section 1072 of title 10, United States Code."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

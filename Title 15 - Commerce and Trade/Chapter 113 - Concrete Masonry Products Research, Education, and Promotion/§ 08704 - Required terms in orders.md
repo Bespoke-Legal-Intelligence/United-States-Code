@@ -164,7 +164,7 @@ The order shall specify the powers and duties of the Board, including the power 
 
 &emsp;The order shall provide that, with the approval of the Secretary, the Board may—
 
-&emsp;&emsp;(A) enter into contracts and agreements to carry out generic research, education, andpromotion programs and projects relating to concrete masonry products, including contracts and agreements with manufacturer associations or other entities as considered appropriate by the Secretary;
+&emsp;&emsp;(A) enter into contracts and agreements to carry out generic research, education, and promotion programs and projects relating to concrete masonry products, including contracts and agreements with manufacturer associations or other entities as considered appropriate by the Secretary;
 
 &emsp;&emsp;(B) enter into contracts and agreements for administrative services; and
 
@@ -278,7 +278,7 @@ Every 2 years the Board shall prepare and make publicly available a comprehensiv
 
 &emsp;&emsp;&emsp;(i) the Secretary considers the information relevant; and
 
-&emsp;&emsp;&emsp;(ii) the information is revealed in a judicial proceeding or administrative hearing brought at the direction or on the request of the Secretary or to which the Secretary or any officer of the Department is a party.
+&emsp;&emsp;&emsp;(ii) the information is revealed in a judicial proceeding or administrative hearing brought at the direction or on the request of the Secretary or to which the Secretaryor any officer of the Department is a party.
 
 #### (C) General statements and publications
 

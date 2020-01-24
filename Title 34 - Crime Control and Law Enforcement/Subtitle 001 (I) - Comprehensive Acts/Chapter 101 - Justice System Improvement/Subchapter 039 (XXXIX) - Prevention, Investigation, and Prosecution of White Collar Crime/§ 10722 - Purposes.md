@@ -8,7 +8,7 @@ The purposes of this subchapter include the following:
 
 &emsp;(3) To provide operational and technical assistance and training concerning tools, products, resources, guidelines, and procedures to aid and enhance criminal intelligence analysis, conduct cyber crime and financial crime investigations, and related justice information sharing at the local and State levels.
 
-&emsp;(4) To provide appropriate training on protections for privacy, civil rights, and civil liberties in the conduct of criminal intelligence analysis and cyber and electronic crime and financial crime investigations, including in the development of policies, guidelines, and procedures by State, local, tribal, and territorial law enforcement agencies to protect and enhance privacy, civil rights, and civil liberties protections and identify weaknesses and gapsin the protection of privacy, civil rights, and civil liberties.
+&emsp;(4) To provide appropriate training on protections for privacy, civil rights, and civil liberties in the conduct of criminal intelligence analysis and cyber and electronic crime and financial crime investigations, including in the development of policies, guidelines, and procedures by State, local, tribal, and territorial law enforcement agencies to protect and enhance privacy, civil rights, and civil liberties protections and identify weaknesses and gaps in the protection of privacy, civil rights, and civil liberties.
 
 (Pub. L. 90–351, title I, §3032, as added Pub. L. 115–76, §3(a), Nov. 2, 2017, 131 Stat. 1248.)
 

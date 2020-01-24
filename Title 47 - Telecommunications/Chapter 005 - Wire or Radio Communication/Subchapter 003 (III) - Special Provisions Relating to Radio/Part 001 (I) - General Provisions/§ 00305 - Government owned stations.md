@@ -60,7 +60,7 @@ There is hereby established in the Executive Office of the President the Office 
 
 #### Sec. 4. Performance of Functions of Director
 
-(a) The Director may appoint employees necessary for the work of the Office under the classified civil service and fix their compensation in accordance with the classification laws.
+(a) The Director may appoint employees necessary for the work of the Office under the classified civilservice and fix their compensation in accordance with the classification laws.
 
 (b) The Director may from time to time make such provisions as he shall deem appropriate authorizing the performance of any function transferred to him hereunder by any other officer, or by any organizational entity or employee, of the Office.
 
@@ -106,7 +106,7 @@ The reorganization provided for in this plan make necessary the appointment and 
 
 This plan should result in the more efficient operation of the government. It is not practical, however, to itemize or aggregate the exact expenditure reductions which will result from this action.
 
-The public interest requires that government policies concerning telecommunications be formulated with as much sophistication and vision as possible. This reorganization plan—and the executive order which would follow it—are necessary instruments if the government is to respond adequately to the challenges and opportunities presented by the rapid pace of change in communications. I urge that the Congress allow this plan to become effective so that these necessary reforms can be accomplished.
+The public interest requires that government policies concerning telecommunications be formulated with asmuch sophistication and vision as possible. This reorganization plan—and the executive order which would follow it—are necessary instruments if the government is to respond adequately to the challenges and opportunities presented by the rapid pace of change in communications. I urge that the Congress allow this plan to become effective so that these necessary reforms can be accomplished.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -118,7 +118,7 @@ Ex. Ord. No. 10995, eff. Feb. 16, 1962, 27 F.R. 1519, as amended by Ex. Ord. No.
 
 #### Executive Order No. 11556
 
-Ex. Ord. No. 11556, Sept. 4, 1970, 35 F.R. 14193, as amended by Ex. Ord. No. 11921, June 11, 1976, 41 F.R.2494, which related to the assignment of telecommunication functions, was revoked by Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, set out below.
+Ex. Ord. No. 11556, Sept. 4, 1970, 35 F.R. 14193, as amended by Ex. Ord. No. 11921, June 11, 1976, 41 F.R. 2494, which related to the assignment of telecommunication functions, was revoked by Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, set out below.
 
 #### Ex. Ord. No. 12046. Transfer of Telecommunications Functions
 
@@ -366,7 +366,7 @@ General
 
 6–302. All Executive agencies are authorized and directed to cooperate with the departments and agencies to which functions are assigned pursuant to this Order and to furnish them such information, support and assistance, not inconsistent with law, as they may require in the performance of those functions.
 
-6–303. (a) Nothing in this Order reassigns any function assigned any agency under the Federal Property and Administrative Services Act of 1949, as amended \[see chapters 1 to 11 of Title 40, Public Buildings, Property,and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], nor does anything in this Order impair the existing authority of the Administrator of General Services to provide and operate telecommunications services and to prescribe policies and methods of procurement, or impair the policy and oversight roles of the Office of Management and Budget.
+6–303. (a) Nothing in this Order reassigns any function assigned any agency under the Federal Property and Administrative Services Act of 1949, as amended \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], nor does anything in this Order impair the existing authority of the Administrator of General Services to provide and operate telecommunications services and to prescribe policies and methods of procurement, or impair the policy and oversight roles of the Office of Management and Budget.
 
 (b) In carrying out the functions in this Order, the Secretary of Commerce shall coordinate activities as appropriate with the Federal Communications Commission and make appropriate recommendations to it as the regulator of the private sector. Nothing in this Order reassigns any function vested by law in the Federal Communications Commission.
 

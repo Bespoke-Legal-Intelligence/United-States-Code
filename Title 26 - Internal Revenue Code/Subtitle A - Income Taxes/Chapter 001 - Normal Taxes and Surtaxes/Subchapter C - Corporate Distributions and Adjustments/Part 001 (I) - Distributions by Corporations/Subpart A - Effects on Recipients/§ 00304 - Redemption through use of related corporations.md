@@ -30,7 +30,7 @@
 
 #### (2) Amount constituting dividend
 
-&emsp;In the case of any acquisition of stock to which subsection (a) applies, the determination of the amount which is a dividend (andthe source thereof) shall be made as if the property were distributed—
+&emsp;In the case of any acquisition of stock to which subsection (a) applies, the determination of the amount which is a dividend (and the source thereof) shall be made as if the property were distributed—
 
 &emsp;&emsp;(A) by the acquiring corporation to the extent of its earnings and profits, and
 
@@ -310,7 +310,7 @@ In general.—For purposes of subparagraph (A), all corporations which were in e
 
 &emsp;&emsp;"(ii)
 
-Limitation to stock held on designated date.—Clause (i) shall not exempt any distributionfrom the amendments made by this section if such distribution is with respect to stock not held by the distributee (determined without regard to clause (i)) on the designated date directly or indirectly through a corporation which goes out of existence in the transaction.
+Limitation to stock held on designated date.—Clause (i) shall not exempt any distribution from the amendments made by this section if such distribution is with respect to stock not held by the distributee (determined without regard to clause (i)) on the designated date directly or indirectly through a corporation which goes out of existence in the transaction.
 
 &emsp;&emsp;"(iii)
 
@@ -334,7 +334,7 @@ In general.—Except as otherwise provided in this paragraph, the amendments mad
 
 "(B)
 
-Election by taxpayer to have amendments apply earlier.—Any taxpayer may elect, at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe, to have the amendments made by paragraphs (1) and (3) apply as if included in section 226 of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 226 of Pub. L. 97–248, which amended this section and section 306 of this title and enacted Effective Date of 1982 Amendment note set out below\].
+Election by taxpayer to have amendments apply earlier.—Any taxpayer may elect, at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe, to have the amendmentsmade by paragraphs (1) and (3) apply as if included in section 226 of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 226 of Pub. L. 97–248, which amended this section and section 306 of this title and enacted Effective Date of 1982 Amendment note set out below\].
 
 "(C)
 

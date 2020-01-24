@@ -102,7 +102,7 @@ Non-invasive and non-permanent.—The term 'non-invasive and non-permanent' mean
 
 &emsp;"(5)
 
-State.—The term 'State' means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands,American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
+State.—The term 'State' means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
 
 &emsp;"(6)
 

@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 103–377, §7, Oct. 19, 1994, 108 Stat. 3505, which ratified the Town Agreement, was omittedfrom the Code as being of special and not general application.
+Section, Pub. L. 103–377, §7, Oct. 19, 1994, 108 Stat. 3505, which ratified the Town Agreement, was omitted from the Code as being of special and not general application.
 

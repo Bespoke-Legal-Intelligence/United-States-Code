@@ -6,7 +6,7 @@ The Secretary of the Army, acting through the Chief of Engineers, is authorized 
 
 #### (b) Time for establishment; consideration of area needs; requirements
 
-The Secretary of the Army, acting through the Chief of Engineers, shall establish the contained spoil disposal facilities authorized in subsection (a) at the earliest practicable date, taking into consideration the views and recommendations of the Administrator of the Environmental Protection Agency as to those areas which, in the Administrator's judgment, are most urgently in need of such facilities and pursuant to the requirements of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\].
+The Secretary of the Army, acting through the Chief of Engineers, shall establish the contained spoil disposal facilities authorized in subsection (a) at the earliest practicable date, taking into consideration the views and recommendations of the Administrator of the Environmental Protection Agency as to those areas which, in the Administrator's judgment, aremost urgently in need of such facilities and pursuant to the requirements of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\].
 
 #### (c) Written agreement requirement; terms of agreement
 
@@ -84,19 +84,5 @@ Subsec. (k). Pub. L. 100–676, §24(b), added subsec. (k).
 
 #### Great Lakes Confined Disposal Facilities
 
-Pub. L. 104–303, title V, §513, Oct. 12, 1996, 110 Stat. 3762, provided that:
-
-"(a)
-
-Assessment.—Pursuant to the responsibilities of the Secretary under section 123 of the River and Harbor Act of 1970 (33 U.S.C. 1293a), the Secretary shall conduct an assessment of the general conditions of confined disposal facilities in the Great Lakes.
-
-"(b)
-
-Report.—Not later than 3 years after the date of the enactment of this Act \[Oct. 12, 1996\], the Secretary shall transmit to Congress a report on the results of the assessment conducted under subsection (a), including the following:
-
-&emsp;"(1) A description of the cumulative effects of confined disposal facilities in the Great Lakes.
-
-&emsp;"(2) Recommendations for specific remediation actions for each confined disposal facility in the Great Lakes.
-
-&emsp;"(3) An evaluation of, and recommendations for, confined disposal facility management practices and technologies to conserve capacity at such facilities and to minimize adverse environmental effects at such facilities throughout the Great Lakes system."
+Pub. L. 104–303, title V, §513, Oct. 12, 1996, 110 Stat. 3762, required the Secretary to conduct an assessment of the general conditions of confined disposal facilities in the Great Lakes and to report to Congress on the results of the assessment not later than 3 years after Oct. 12, 1996.
 

@@ -86,15 +86,11 @@ For purposes of this title—
 
 &emsp;In the case of any organization with more than 1 unrelated trade or business—
 
-&emsp;&emsp;(A) unrelated business taxable income, including for purposes of determining any net operating loss deduction, shall be computed separately with respect to each such trade or business and without regard to subsection (b)(12),
+&emsp;&emsp;(A) unrelated business taxable income, including for purposes of determining any netoperating loss deduction, shall be computed separately with respect to each such trade or business and without regard to subsection (b)(12),
 
 &emsp;&emsp;(B) the unrelated business taxable income of such organization shall be the sum of the unrelated business taxable income so computed with respect to each such trade or business, less a specific deduction under subsection (b)(12), and
 
 &emsp;&emsp;(C) for purposes of subparagraph (B), unrelated business taxable income with respect to any such trade or business shall not be less than zero.
-
-#### (7) Increase in unrelated business taxable income by disallowed fringe
-
-&emsp;Unrelated business taxable income of an organization shall be increased by any amount for which a deduction is not allowable under this chapter by reason of section 274 and which is paid or incurred by such organization for any qualified transportation fringe (as defined in section 132(f)), any parking facility used in connection with qualified parking (as defined in section 132(f)(5)(C)), or any on-premises athletic facility (as defined in section 132(j)(4)(B)). The preceding sentence shall not apply to the extent the amount paid or incurred is directly connected with an unrelated trade or business which is regularly carried on by the organization. The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this paragraph, including regulations or other guidance providing for the appropriate allocation of depreciation and other costs with respect to facilities used for parking or for on-premises athletic facilities.
 
 #### (b) Modifications
 
@@ -128,7 +124,7 @@ The modifications referred to in subsection (a) are the following:
 
 &emsp;&emsp;(B) property held primarily for sale to customers in the ordinary course of the trade or business.
 
-> &emsp;There shall also be excluded all gains or losses recognized, in connection with the organization's investment activities, from the lapse or termination of options to buy or sell securities (as defined in section 1236(c)) or real property and all gains or losses from the forfeiture ofgood-faith deposits (that are consistent with established business practice) for the purchase, sale, or lease of real property in connection with the organization's investment activities. This paragraph shall not apply with respect to the cutting of timber which is considered, on the application of section 631, as a sale or exchange of such timber.
+> &emsp;There shall also be excluded all gains or losses recognized, in connection with the organization's investment activities, from the lapse or termination of options to buy or sell securities (as defined in section 1236(c)) or real property and all gains or losses from the forfeiture of good-faith deposits (that are consistent with established business practice) for the purchase, sale, or lease of real property in connection with the organization's investment activities. This paragraph shall not apply with respect to the cutting of timber which is considered, on the application of section 631, as a sale or exchange of such timber.
 
 &emsp;(6) The net operating loss deduction provided in section 172 shall be allowed, except that—
 
@@ -196,7 +192,7 @@ Control.—The term "control" means—
 
 &emsp;&emsp;&emsp;(ii)
 
-Constructive ownership.—Section 318 (relating to constructive ownership ofstock) shall apply for purposes of determining ownership of stock in a corporation. Similar principles shall apply for purposes of determining ownership of interests in any other entity.
+Constructive ownership.—Section 318 (relating to constructive ownership of stock) shall apply for purposes of determining ownership of stock in a corporation. Similar principles shall apply for purposes of determining ownership of interests in any other entity.
 
 &emsp;&emsp;(E)
 
@@ -324,7 +320,7 @@ In general.—The term "eligible taxpayer" means, with respect to a property, an
 
 &emsp;&emsp;&emsp;&emsp;(I) acquires from an unrelated person a qualifying brownfield property, and
 
-&emsp;&emsp;&emsp;&emsp;(II) pays or incurs eligible remediation expenditures with respect to such property in an amount which exceeds the greater of $550,000 or 12 percent of the fair market value of the property at the time such property was acquired by the eligible taxpayer, determined as if there was not a presence of a hazardous substance, pollutant, or contaminant on the property which is complicating the expansion, redevelopment, or reuse of the property.
+&emsp;&emsp;&emsp;&emsp;(II) pays or incurs eligible remediation expenditures with respect to such property in an amount which exceeds the greater of $550,000 or 12 percent of the fair market value of the property at thetime such property was acquired by the eligible taxpayer, determined as if there was not a presence of a hazardous substance, pollutant, or contaminant on the property which is complicating the expansion, redevelopment, or reuse of the property.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -358,7 +354,7 @@ In general.—A sale, exchange, or other disposition of property shall be consid
 
 &emsp;&emsp;&emsp;&emsp;(I) such property is transferred by the eligible taxpayer to an unrelated person, and
 
-&emsp;&emsp;&emsp;&emsp;(II) within 1 year of such transfer the eligible taxpayer has received a certification from the Environmental Protection Agency or an appropriate State agency (within the meaning of section 198(c)(4)) in the State in which such property is located that, as a result of the eligible taxpayer's remediation actions,such property would not be treated as a qualifying brownfield property in the hands of the transferee.
+&emsp;&emsp;&emsp;&emsp;(II) within 1 year of such transfer the eligible taxpayer has received a certification from the Environmental Protection Agency or an appropriate State agency (within the meaning of section 198(c)(4)) in the State in which such property is located that, as a result of the eligible taxpayer's remediation actions, such property would not be treated as a qualifying brownfield property in the hands of the transferee.
 
 &emsp;&emsp;&nbsp;For purposes of subclause (II), before issuing such certification, the Environmental Protection Agency or appropriate State agency shall respond to comments received pursuant to clause (ii)(V) in the same form and manner as required under section 117(b) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (as in effect on the date of the enactment of this paragraph).
 
@@ -466,7 +462,7 @@ Election.—An election under clause (i) shall be made with the eligible taxpaye
 
 &emsp;&emsp;&emsp;(iii)
 
-Revocation.—An eligible taxpayer or qualifying partnership may revoke an election under clause (i) by filing a statement of revocation with a timely filed tax return (including extensions). A revocation is effective as of the first day of the taxable year of the return in which the revocation is included or a later day insuch taxable year selected by the eligible taxpayer or qualifying partnership. Once an eligible taxpayer or qualifying partnership revokes the election, the eligible taxpayer or qualifying partnership is ineligible to make another election under clause (i) with respect to any qualifying brownfield property subject to the revoked election.
+Revocation.—An eligible taxpayer or qualifying partnership may revoke an election under clause (i) by filing a statement of revocation with a timely filed tax return (including extensions). A revocation is effective as of the first day of the taxable year of the return in which the revocation is included or a later day in such taxable year selected by the eligible taxpayer or qualifying partnership. Once an eligible taxpayer or qualifying partnership revokes the election, the eligible taxpayer or qualifying partnership is ineligible to make another election under clause (i) with respect to any qualifying brownfield property subject to the revoked election.
 
 &emsp;&emsp;(I)
 
@@ -488,7 +484,7 @@ Termination.—Except for purposes of determining the average eligible remediati
 
 #### (1) In general
 
-&emsp;If a trade or business regularly carried on by a partnership of which an organization is a member is an unrelated trade or business with respect to such organization, such organization in computing its unrelated business taxable income shall, subject to the exceptions, additions, and limitations contained in subsection (b), include its share (whether or not distributed) of the gross income of the partnership from such unrelated trade or business and its share of the partnership deductions directly connected with such gross income.
+&emsp;If a trade or business regularly carried on by a partnership of which an organization is a member is an unrelated trade or business with respect to such organization, such organization in computing its unrelated business taxable income shall, subject to the exceptions, additions, and limitations contained in subsection (b), include its share (whether or not distributed) of the gross income of the partnership from such unrelated trade or businessand its share of the partnership deductions directly connected with such gross income.
 
 #### (2) Special rule where partnership year is different from organization's year
 
@@ -540,9 +536,9 @@ Termination.—Except for purposes of determining the average eligible remediati
 
 #### (3) Exception for ESOPs
 
-&emsp;This subsection shall not apply to employer securities (within the meaning of section409(l)) held by an employee stock ownership plan described in section 4975(e)(7).
+&emsp;This subsection shall not apply to employer securities (within the meaning of section 409(l)) held by an employee stock ownership plan described in section 4975(e)(7).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 170; Pub. L. 85–367, §1(a), Apr. 7, 1958, 72 Stat. 80; Pub. L. 88–380, §1, July 17, 1964, 78 Stat. 333; Pub. L. 89–809, title I, §104(g), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §121(b)(1), (2), Dec. 30, 1969, 83 Stat. 537, 538; Pub. L. 92–418, §1(b), Aug. 29, 1972, 86 Stat. 656; Pub. L. 94–396, §1(a), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–455, title XIX, §§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4, 1976, 90 Stat. 1794, 1834, 1839; Pub. L. 94–568, §1(b), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–345, §2(a)(2), (b), Aug. 15, 1978, 92 Stat. 481; Pub. L. 97–448, title I, §102(m)(3), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title V, §511(b), July 18, 1984, 98 Stat. 860; Pub. L. 99–514, title XVIII, §1851(a)(10), Oct. 22, 1986, 100 Stat. 2861; Pub. L. 100–203, title X, §10213(a), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1018(t)(2)(B), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 101–508, title XI, §11801(a)(23), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §§13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, 107 Stat. 443, 444; Pub. L. 104–188, title I, §§1115(a), 1316(c), 1603(a), Aug. 20, 1996, 110 Stat. 1761, 1786, 1835; Pub. L. 105–34, title III, §312(d)(5), title X, §1041(a), title XV, §1523(a), title XVI, §1601(c)(4)(A), (D), Aug. 5, 1997, 111 Stat. 840, 938, 1070, 1087; Pub. L. 105–206, title VI, §§6010(j)(1), (2), 6023(8), July 22, 1998, 112 Stat. 815, 825; Pub. L. 108–357, title II, §233(d), title III, §319(c), title VII, §702(a), Oct. 22, 2004, 118 Stat. 1434, 1472, 1540; Pub. L. 109–135, title IV, §412(dd), (ee)(1), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XII, §1205(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, §306(a), Oct. 3, 2008, 122 Stat. 3868; Pub. L. 111–312, title VII, §747(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 112–240, title III, §319(a), Jan. 2, 2013, 126 Stat. 2331; Pub. L. 113–295, div. A, title I, §131(a), title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4018, 4044; Pub. L. 114–113, div. Q, title I, §114(a), Dec. 18, 2015, 129 Stat. 3049; Pub. L. 115–97, title I, §§11002(d)(1)(Y), 13702(a), 13703(a), Dec. 22, 2017, 131 Stat. 2060, 2168, 2169; Pub. L. 115–141, div. U, title IV, §401(a)(126), (b)(21)(E)–(H), Mar. 23, 2018, 132 Stat. 1190, 1203.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 170; Pub. L. 85–367, §1(a), Apr. 7, 1958, 72 Stat. 80; Pub. L. 88–380, §1, July 17, 1964, 78 Stat. 333; Pub. L. 89–809, title I, §104(g), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §121(b)(1), (2), Dec. 30, 1969, 83 Stat. 537, 538; Pub. L. 92–418, §1(b), Aug. 29, 1972, 86 Stat. 656; Pub. L. 94–396, §1(a), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–455, title XIX, §§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4, 1976, 90 Stat. 1794, 1834, 1839; Pub. L. 94–568, §1(b), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–345, §2(a)(2), (b), Aug. 15, 1978, 92 Stat. 481; Pub. L. 97–448, title I, §102(m)(3), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title V, §511(b), July 18, 1984, 98 Stat. 860; Pub. L. 99–514, title XVIII, §1851(a)(10), Oct. 22, 1986, 100 Stat. 2861; Pub. L. 100–203, title X, §10213(a), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1018(t)(2)(B), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 101–508, title XI, §11801(a)(23), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §§13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, 107 Stat. 443, 444; Pub. L. 104–188, title I, §§1115(a), 1316(c), 1603(a), Aug. 20, 1996, 110 Stat. 1761, 1786, 1835; Pub. L. 105–34, title III, §312(d)(5), title X, §1041(a), title XV, §1523(a), title XVI, §1601(c)(4)(A), (D), Aug. 5, 1997, 111 Stat. 840, 938, 1070, 1087; Pub. L. 105–206, title VI, §§6010(j)(1), (2), 6023(8), July 22, 1998, 112 Stat. 815, 825; Pub. L. 108–357, title II, §233(d), title III, §319(c), title VII, §702(a), Oct. 22, 2004, 118 Stat. 1434, 1472, 1540; Pub. L. 109–135, title IV, §412(dd), (ee)(1), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XII, §1205(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, §306(a), Oct. 3, 2008, 122 Stat. 3868; Pub. L. 111–312, title VII, §747(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 112–240, title III, §319(a), Jan. 2, 2013, 126 Stat. 2331; Pub. L. 113–295, div. A, title I, §131(a), title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4018, 4044; Pub. L. 114–113, div. Q, title I, §114(a), Dec. 18, 2015, 129 Stat. 3049; Pub. L. 115–97, title I, §§11002(d)(1)(Y), 13702(a), 13703(a), Dec. 22, 2017, 131 Stat. 2060, 2168, 2169; Pub. L. 115–141, div. U, title IV, §401(a)(126), (b)(21)(E)–(H), Mar. 23, 2018, 132 Stat. 1190, 1203; Pub. L. 116–94, div. Q, title III, §302(a), Dec. 20, 2019, 133 Stat. 3248.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -561,6 +557,8 @@ Sections 101(39), 107, 117(a), (b), and 121(d) of the Comprehensive Environmenta
 The date of the enactment of this paragraph, referred to in subsec. (b)(19)(C)(i), (D)(i), (ii)(V), (E)(ii)(IV), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(7). Pub. L. 116–94 struck out par. (7) which related to increases in unrelated business taxable income for certain fringe benefit expenses.
 
 <b>2018</b>—Subsec. (a)(3). Pub. L. 115–141, §401(b)(21)(G), substituted "or (17)" for "(17), or (20)" in heading.
 
@@ -700,6 +698,10 @@ Subsec. (b)(15) to (17). Pub. L. 91–172, §121(b)(2)(C), added pars. (15) to (
 
 <b>1958</b>—Subsec. (b)(13). Pub. L. 85–367 added par. (13).
 
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–94, div. Q, title III, §302(b), Dec. 20, 2019, 133 Stat. 3248, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 13703 of Public Law 115–97."
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 11002(d)(1)(Y) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
@@ -726,7 +728,7 @@ Pub. L. 114–113, div. Q, title I, §114(b), Dec. 18, 2015, 129 Stat. 3049, pro
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §131(b), Dec. 19, 2014, 128 Stat. 4018, provided that: "The amendment made by this section \[amending this section\] shall apply to payments received or accrued after December 31, 2013."
+Pub. L. 113–295, div. A, title I, §131(b), Dec. 19, 2014, 128 Stat. 4018, provided that: "The amendment made bythis section \[amending this section\] shall apply to payments received or accrued after December 31, 2013."
 
 Amendment by section 221(a)(41)(G) of Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
 
@@ -778,7 +780,7 @@ Binding contracts.—The amendments made by this section shall not apply to any 
 
 Pub. L. 105–34, title XV, §1523(b), Aug. 5, 1997, 111 Stat. 1071, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997."
 
-Amendment by section 1601(c)(4)(A), (D) of Pub. L. 105–34 effective as if included in the provisions of theSmall Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by section 1601(c)(4)(A), (D) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -876,7 +878,7 @@ Pub. L. 85–367, §1(b), Apr. 7, 1958, 72 Stat. 80, provided that: "The amendme
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 401(b)(21)(E)–(H) of Pub. L. 115–141 be construed to affecttreatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by section 401(b)(21)(E)–(H) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 Pub. L. 108–357, title VII, §702(c), Oct. 22, 2004, 118 Stat. 1546, provided that: "Nothing in the amendments made by this section \[amending this section and section 514 of this title\] shall affect any duty, liability, or other requirement imposed under any other Federal or State law. Notwithstanding section 128(b) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 \[42 U.S.C. 9628(b)\], a certification provided by the Environmental Protection Agency or an appropriate State agency (within the meaning of section 198(c)(4) of the Internal Revenue Code of 1986) shall not affect the liability of any person under section 107(a) of such Act \[42 U.S.C. 9607(a)\]."
 

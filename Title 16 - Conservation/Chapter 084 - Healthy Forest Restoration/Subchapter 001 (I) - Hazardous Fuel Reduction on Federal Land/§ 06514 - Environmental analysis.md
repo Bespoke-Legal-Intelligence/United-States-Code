@@ -2,7 +2,7 @@
 
 #### (a) Authorized hazardous fuel reduction projects
 
-Except as otherwise provided in this subchapter, the Secretary shall conduct authorizedhazardous fuel reduction projects in accordance with—
+Except as otherwise provided in this subchapter, the Secretary shall conduct authorized hazardous fuel reduction projects in accordance with—
 
 &emsp;(1) the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\]; and
 

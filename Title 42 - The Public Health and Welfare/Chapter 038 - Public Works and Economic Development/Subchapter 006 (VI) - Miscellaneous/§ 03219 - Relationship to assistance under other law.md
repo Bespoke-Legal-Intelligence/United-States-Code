@@ -10,7 +10,7 @@ A prior section 3219, Pub. L. 89–136, title VII, §709, Aug. 26, 1965, 79 Stat
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–373 designated text of subsec. (b) as entire section and struck out subsec. (b) heading and heading and text of subsec. (a). Prior to amendment, text of subsec. (a) read as follows: "Except as otherwise provided in this chapter, all financial and technical assistance authorized under this chapter shall be in addition to any Federal assistance authorized before the effective date of the Economic Development Administration Reform Act of 1998."
+<b>2004</b>—Pub. L. 108–373 designated text of subsec. (b) as entire section and struck out subsec. (b) heading andheading and text of subsec. (a). Prior to amendment, text of subsec. (a) read as follows: "Except as otherwise provided in this chapter, all financial and technical assistance authorized under this chapter shall be in addition to any Federal assistance authorized before the effective date of the Economic Development Administration Reform Act of 1998."
 
 #### Effective Date
 

@@ -172,5 +172,5 @@ A prior section 1769e, act June 4, 1946, ch. 281, §24, as added Nov. 10, 1989, 
 
 #### Effective Date
 
-Section effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, setout as an Effective Date of 2010 Amendment note under section 1751 of this title.
+Section effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as an Effective Date of 2010 Amendment note under section 1751 of this title.
 

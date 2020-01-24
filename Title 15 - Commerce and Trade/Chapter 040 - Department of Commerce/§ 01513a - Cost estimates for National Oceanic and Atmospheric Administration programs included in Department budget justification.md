@@ -10,7 +10,11 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 
 #### Similar Provisions
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–93, div. B, title I, Dec. 20, 2019, 133 Stat. 2392.
+
+Pub. L. 116–6, div. C, title I, Feb. 15, 2019, 133 Stat. 98.
 
 Pub. L. 115–141, div. B, title I, Mar. 23, 2018, 132 Stat. 406.
 

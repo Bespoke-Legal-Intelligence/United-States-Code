@@ -24,7 +24,7 @@ The Administrator may establish threshold quantities for hazardous chemicals cov
 
 #### (c) Hazardous chemicals covered
 
-A hazardous chemical subject to the requirements of this section is any hazardous chemical for which a material safety data sheet or a listing is required under section 11021 of this title.
+A hazardous chemical subject to the requirements of this section is any hazardous chemicalfor which a material safety data sheet or a listing is required under section 11021 of this title.
 
 #### (d) Contents of form
 

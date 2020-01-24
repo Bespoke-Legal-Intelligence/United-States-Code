@@ -220,7 +220,7 @@ Liaison Officer.—The Secretary may not close, consolidate, automate, or reloca
 
 &emsp;"(1) provides timely information regarding the activities of the National Weather Service which may affect service to the community, including modernization and restructuring; and
 
-&emsp;"(2) works with area weather service users, including persons associated with general aviation, civil defense, emergency preparedness, and the news media,with respect to the provision of timely weather warnings and forecasts.
+&emsp;"(2) works with area weather service users, including persons associated with general aviation, civil defense, emergency preparedness, and the news media, with respect to the provision of timely weather warnings and forecasts.
 
 #### "SEC. 707. MODERNIZATION TRANSITION COMMITTEE.
 
@@ -298,7 +298,7 @@ Pub. L. 100–685, title IV, §407, Nov. 17, 1988, 102 Stat. 4098, as amended by
 
 #### Degradation-of-Weather-Services Standard for Providing Services
 
-Pub. L. 100–685, title IV, §408, Nov. 17, 1988, 102 Stat. 4099, prohibited Secretary of Commerce from closing, consolidating, automating, or relocating, any Weather Service Office or Weather Service Forecast Office pursuant to the implementation of the strategic plan required by section 407 of Pub. L. 100–685 \[formerly setout above\] unless the Secretary certified to Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives that such action would not result in any degradation of weather services provided to the affected area, prior to repeal by Pub. L. 102–567, title VII, §709(2), Oct. 29, 1992, 106 Stat. 4309.
+Pub. L. 100–685, title IV, §408, Nov. 17, 1988, 102 Stat. 4099, prohibited Secretary of Commerce from closing, consolidating, automating, or relocating, any Weather Service Office or Weather Service Forecast Office pursuant to the implementation of the strategic plan required by section 407 of Pub. L. 100–685 \[formerly set out above\] unless the Secretary certified to Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives that such action would not result in any degradation of weather services provided to the affected area, prior to repeal by Pub. L. 102–567, title VII, §709(2), Oct. 29, 1992, 106 Stat. 4309.
 
 #### Weather and Climate Information in Agriculture
 

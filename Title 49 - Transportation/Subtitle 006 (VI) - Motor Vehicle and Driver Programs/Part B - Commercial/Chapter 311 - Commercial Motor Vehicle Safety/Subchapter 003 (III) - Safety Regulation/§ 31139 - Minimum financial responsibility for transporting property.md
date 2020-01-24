@@ -14,7 +14,7 @@ Definitions.—In this section—
 
 &emsp;(2) "interstate commerce" includes transportation between a place in a State and a place outside the United States, to the extent the transportation is in the United States.
 
-&emsp;(3) "State" means a State of the United States, the District of Columbia, Puerto Rico,the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
+&emsp;(3) "State" means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
 (b)
 
@@ -86,7 +86,7 @@ Evidence of Financial Responsibility.—(1) Subject to paragraph (2) of this sub
 
 (g)
 
-Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secretary of Transportation finds that a person (except an employee acting without knowledge) has knowingly violated this section or a regulation prescribed under this section, the person is liable tothe United States Government for a civil penalty of not more than $10,000 for each violation. A separate violation occurs for each day the violation continues.
+Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secretary of Transportation finds that a person (except an employee acting without knowledge) has knowingly violated this section or a regulation prescribed under this section, the person is liable to the United States Government for a civil penalty of not more than $10,000 for each violation. A separate violation occurs for each day the violation continues.
 
 (2) The Secretary of Transportation shall impose the penalty by written notice. In determining the amount of the penalty, the Secretary shall consider—
 

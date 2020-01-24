@@ -58,7 +58,7 @@ Subsec. (b). Pub. L. 105–134, §121(a)(1), (3), redesignated subsec. (a)(2) as
 
 "(b)
 
-Contracting Out.—(1) Amtrak may not contract out work normally performed by an employee in a bargaining unit covered by a contract between a labor organization and Amtrak or a rail carrier that providedintercity rail passenger transportation on October 30, 1970, if contracting out results in the layoff of an employee in the bargaining unit.
+Contracting Out.—(1) Amtrak may not contract out work normally performed by an employee in a bargaining unit covered by a contract between a labor organization and Amtrak or a rail carrier that provided intercity rail passenger transportation on October 30, 1970, if contracting out results in the layoff of an employee in the bargaining unit.
 
 "(2) This subsection does not apply to food and beverage services provided on trains of Amtrak."
 

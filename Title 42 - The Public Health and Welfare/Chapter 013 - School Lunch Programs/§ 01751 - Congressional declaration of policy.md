@@ -188,11 +188,11 @@ Plan and Recommendations.—
 
 &emsp;"(1)
 
-Plan for consolidation and simplification.—Not later than 180 days prior to implementing the regulations described in subsection (a), the Secretary shall prepare and submit to the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a plan for the consolidation and simplification of the school lunch program and the school breakfast program.
+Plan for consolidation and simplification.—Not later than 180 days prior to implementing the regulations described in subsection (a), the Secretary shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a plan for the consolidation and simplification of the school lunch program and the school breakfast program.
 
 &emsp;"(2)
 
-Recommendations with respect to change in payment amounts.—If the Secretary proposes to change the amount of the breakfast assistance payment or the food assistance payment under the comprehensive meal program, the Secretary shall not include the change in the consolidation and shall prepare and submit to the Committee on Education and Labor \[now Committee on Education and the Workforce\], and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate recommendations for legislation to effect the change."
+Recommendations with respect to change in payment amounts.—If the Secretary proposes to change the amount of the breakfast assistance payment or the food assistance payment under the comprehensive meal program, the Secretary shall not include the change in the consolidation and shall prepare and submit to the Committee on Education and Labor, and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate recommendations for legislation to effect the change."
 
 #### Study and Report Relating to Use of Private Food Establishments and Caterers Under School Lunch Program and School Breakfast Program
 

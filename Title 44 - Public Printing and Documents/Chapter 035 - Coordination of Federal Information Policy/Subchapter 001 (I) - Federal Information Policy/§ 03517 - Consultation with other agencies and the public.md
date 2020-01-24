@@ -2,7 +2,7 @@
 
 (a) In developing information resources management policies, plans, rules, regulations, procedures, and guidelines and in reviewing collections of information, the Director shall provide interested agencies and persons early and meaningful opportunity to comment.
 
-(b) Any person may request the Director to review any collection of information conducted byor for an agency to determine, if, under this subchapter, a person shall maintain, provide, or disclose the information to or for the agency. Unless the request is frivolous, the Director shall, in coordination with the agency responsible for the collection of information—
+(b) Any person may request the Director to review any collection of information conducted by or for an agency to determine, if, under this subchapter, a person shall maintain, provide, or disclose the information to or for the agency. Unless the request is frivolous, the Director shall, in coordination with the agency responsible for the collection of information—
 
 &emsp;(1) respond to the request within 60 days after receiving the request, unless such period is extended by the Director to a specified date and the person making the request is given notice of such extension; and
 

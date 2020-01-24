@@ -52,5 +52,5 @@ For miscellaneous provisions dealing with adjustments of pay and limitations on 
 
 Salaries of presiding judge and associate judges increased from $10,000 to $15,000 a year by act July 31, 1946, ch. 704, §1, 60 Stat. 716.
 
-Salaries of presiding judge and associate judges increased from $9,000 to $10,000 a year by the Tariff Act of 1930, act June 17, 1930, ch. 497, title IV, §518, 46 Stat. 737.
+Salaries of presiding judge and associate judges increased from $9,000 to $10,000 a year by the Tariff Actof 1930, act June 17, 1930, ch. 497, title IV, §518, 46 Stat. 737.
 

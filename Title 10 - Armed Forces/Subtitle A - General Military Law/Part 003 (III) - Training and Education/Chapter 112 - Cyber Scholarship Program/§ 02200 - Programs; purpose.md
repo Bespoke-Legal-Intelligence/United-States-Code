@@ -84,5 +84,5 @@ Senior Military Colleges Defined.—The term 'senior military colleges' has the 
 
 #### Report
 
-Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–236, directed the Secretary of Defense to submit to committees of Congress a plan for implementing the programs under this chapter not later than Apr. 1, 2001.
+Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–236, directed the Secretary ofDefense to submit to committees of Congress a plan for implementing the programs under this chapter not later than Apr. 1, 2001.
 

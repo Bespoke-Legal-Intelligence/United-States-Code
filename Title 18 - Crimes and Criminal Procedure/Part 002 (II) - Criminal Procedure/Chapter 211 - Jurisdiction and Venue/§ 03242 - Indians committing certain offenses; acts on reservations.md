@@ -12,7 +12,7 @@ Based on title 18, U.S.C., 1940 ed., §548 (Mar. 4, 1909, ch. 321, §328, 35 Sta
 
 The provisions defining rape in accordance with the law of the State and prescribing imprisonment at the discretion of the court for rape by an Indian upon an Indian are now included in section 1153 of this title. (See also section 6 of this title.)
 
-Section 549 of said title 18, relating to crimes in Indian reservations in South Dakota, was omitted as covered by section 1153 of this title. Accordingly the last sentence of said section 548, extending this section to prosecutions of Indians in South Dakota, was also omitted as unnecessary because this section is sufficient and applicable. Other provisions of said section 548 are incorporated in sections 1151 and 1153 of this title.
+Section 549 of said title 18, relating to crimes in Indian reservations in South Dakota, was omitted as covered by section 1153 of this title. Accordingly the lastsentence of said section 548, extending this section to prosecutions of Indians in South Dakota, was also omitted as unnecessary because this section is sufficient and applicable. Other provisions of said section 548 are incorporated in sections 1151 and 1153 of this title.
 
 Minor changes were made in phraseology.
 

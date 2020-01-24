@@ -72,7 +72,7 @@ Education personnel who are under the direction and supervision of the Director 
 
 #### (2) Monitoring and reports
 
-&emsp;Except as provided in paragraph (3), in a case in which a Bureau-operated education program is the beneficiary of such a gift or bequest, the Director shall—
+&emsp;Except as provided in paragraph (3), in a case in which a Bureau-operated educationprogram is the beneficiary of such a gift or bequest, the Director shall—
 
 &emsp;&emsp;(A) make provisions for monitoring use of the gift or bequest; and
 

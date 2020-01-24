@@ -14,7 +14,7 @@ Notwithstanding the provisions of subsection (a), a person may distribute to a c
 
 &emsp;(1) such card, code, or other means of access is not validated;
 
-&emsp;(2) such distribution is accompanied by a complete disclosure, in accordance with section 1693c of this title, of the consumer'srights and liabilities which will apply if such card, code, or other means of access is validated;
+&emsp;(2) such distribution is accompanied by a complete disclosure, in accordance with section 1693c of this title, of the consumer's rights and liabilities which will apply if such card, code, or other means of access is validated;
 
 &emsp;(3) such distribution is accompanied by a clear explanation, in accordance with regulations of the Bureau, that such card, code, or other means of access is not validated and how the consumer may dispose of such code, card, or other means of access if validation is not desired; and
 
@@ -22,7 +22,7 @@ Notwithstanding the provisions of subsection (a), a person may distribute to a c
 
 #### (c) Validation
 
-For the purpose of subsection (b), a card, code, or other means of access is validated when it may be used to initiate an electronic fund transfer.
+For the purpose of subsection (b), a card, code, or other means of access is validated when itmay be used to initiate an electronic fund transfer.
 
 (Pub. L. 90–321, title IX, §911, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3736; amended Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
 

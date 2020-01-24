@@ -54,7 +54,7 @@ Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–227 applicable with respect to sales after Mar. 31, 1978, see section 2(d) of Pub. L.95–227, set out as an Effective Date note under section 4121 of this title.
+Amendment by Pub. L. 95–227 applicable with respect to sales after Mar. 31, 1978, see section 2(d) of Pub. L. 95–227, set out as an Effective Date note under section 4121 of this title.
 
 #### Effective Date of 1965 Amendment
 

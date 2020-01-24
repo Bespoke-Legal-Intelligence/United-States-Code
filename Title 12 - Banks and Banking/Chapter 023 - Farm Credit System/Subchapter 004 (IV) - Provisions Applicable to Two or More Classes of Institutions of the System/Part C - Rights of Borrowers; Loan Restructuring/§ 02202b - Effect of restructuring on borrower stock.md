@@ -6,7 +6,7 @@ If a Farm Credit Bank forgives and writes off, under section 2202a of this title
 
 #### (b) Production credit association
 
-If a production credit association forgives and writes off, under section 2202a of this title, anyof the principal outstanding on a loan made to any borrower, the association shall cancel the same dollar amount of borrower stock held by the borrower in respect of the loan, up to the total amount of such stock.
+If a production credit association forgives and writes off, under section 2202a of this title, any of the principal outstanding on a loan made to any borrower, the association shall cancel the same dollar amount of borrower stock held by the borrower in respect of the loan, up to the total amount of such stock.
 
 #### (c) Retention of stock
 
@@ -16,7 +16,7 @@ Notwithstanding subsections (a) and (b), the borrower shall be entitled to retai
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–399 substituted in subsec. heading "Farm Credit Bank" for "Federal land bank" and in text "a Farm Credit Bank" for "a Federal land bank" and ", to the extent provided for in the bylaws of the bank relating to capitalization, the bank shall" for "the Federal land bank shall".
+<b>1988</b>—Subsec. (a). Pub. L. 100–399 substituted in subsec. heading "Farm Credit Bank" for "Federal landbank" and in text "a Farm Credit Bank" for "a Federal land bank" and ", to the extent provided for in the bylaws of the bank relating to capitalization, the bank shall" for "the Federal land bank shall".
 
 #### Effective Date of 1988 Amendment
 

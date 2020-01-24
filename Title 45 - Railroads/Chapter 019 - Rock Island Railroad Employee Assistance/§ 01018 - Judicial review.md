@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, any appeal from—
 
 #### (b) Appellate proceedings
 
-If appeals are taken from decisions described in subsection (a) of this section involving section 1005 or 1008 <sup>1</sup> of this title or section 9 or 15 of the Milwaukee Railroad Restructuring Act \[45 U.S.C. 908 or 915\], the court of appeals shall determine such appeals in a consolidated proceeding, sitting en banc.
+If appeals are taken from decisions described in subsection (a) of this section involving section 1005 or 1008 <sup>1</sup> of this title or section 9 or 15of the Milwaukee Railroad Restructuring Act \[45 U.S.C. 908 or 915\], the court of appeals shall determine such appeals in a consolidated proceeding, sitting en banc.
 
 #### (c) Action in United States Court of Claims
 

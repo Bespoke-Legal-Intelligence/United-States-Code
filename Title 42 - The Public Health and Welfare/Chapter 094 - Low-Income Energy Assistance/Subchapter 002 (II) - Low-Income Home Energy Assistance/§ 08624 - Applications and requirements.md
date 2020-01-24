@@ -70,7 +70,7 @@ As part of the annual application required by subsection (a), the chief executiv
 
 &emsp;&emsp;(A) the State may use for planning and administering the use of funds under this subchapter an amount not to exceed 10 percent of the funds payable to such State under this subchapter for a fiscal year; and
 
-&emsp;&emsp;(B) the State will pay from non-Federal sources the remaining costs of planning and administering the program assisted under this subchapter and will not use Federal funds for such remaining costs (except forthe costs of the activities described in paragraph (16));
+&emsp;&emsp;(B) the State will pay from non-Federal sources the remaining costs of planning and administering the program assisted under this subchapter and will not use Federal funds for such remaining costs (except for the costs of the activities described in paragraph (16));
 
 &emsp;(10) provide that such fiscal control and fund accounting procedures will be established as may be necessary to assure the proper disbursal of and accounting for Federal funds paid to the State under this subchapter, including procedures for monitoring the assistance provided under this subchapter, and provide that the State will comply with the provisions of chapter 75 of title 31 (commonly known as the "Single Audit Act");
 
@@ -118,7 +118,7 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
 > The chief executive officer may revise any plan prepared under this paragraph and shall furnish the revised plan to the Secretary.
 
-(2) Each plan prepared under paragraph (1) and each substantial revision thereof shall be made available for public inspection within the Stateinvolved in such a manner as will facilitate timely and meaningful review of, and comment upon, such plan or substantial revision.
+(2) Each plan prepared under paragraph (1) and each substantial revision thereof shall be made available for public inspection within the State involved in such a manner as will facilitate timely and meaningful review of, and comment upon, such plan or substantial revision.
 
 (3) Not later than April 1 of each fiscal year the Secretary shall make available to the States a model State plan format that may be used, at the option of each State, to prepare the plan required under paragraph (1) for the next fiscal year.
 
@@ -172,7 +172,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B), the State 
 
 > may be used by the State for low-cost residential weatherization or other energy-related home repair for low-income households, particularly those low-income households with the lowest incomes that pay a high proportion of household income for home energy.
 
-(2)(A) If a State receives a waiver granted under subparagraph (B) for a fiscal year, theState may use not more than the greater of 25 percent of—
+(2)(A) If a State receives a waiver granted under subparagraph (B) for a fiscal year, the State may use not more than the greater of 25 percent of—
 
 &emsp;(i) the funds allotted to a State under this subchapter for such fiscal year; or
 
@@ -192,7 +192,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B), the State 
 
 #### (l) State tax credits to energy suppliers who supply home energy at reduced rates to low-income households
 
-(1) Any State may use amounts provided under this subchapter for the purpose of providing credits against State tax to energy suppliers who supply home energy at reduced rates to low-income households.
+(1) Any State may use amounts provided under this subchapter for the purpose of providingcredits against State tax to energy suppliers who supply home energy at reduced rates to low-income households.
 
 (2) Any such credit provided by a State shall not exceed the amount of the loss of revenue to such supplier on account of such reduced rate.
 
@@ -224,7 +224,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2014</b>—Subsec. (f)(2)(A). Pub. L. 113–79 inserted before semicolon ", except that, for purposes of the supplemental nutrition assistance program established underthe Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), such payments or allowances were greater than $20 annually, consistent with section 5(e)(6)(C)(iv)(I) of that Act (7 U.S.C. 2014(e)(6)(C)(iv)(I)), as determined by the Secretary of Agriculture".
+<b>2014</b>—Subsec. (f)(2)(A). Pub. L. 113–79 inserted before semicolon ", except that, for purposes of the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), such payments or allowances were greater than $20 annually, consistent with section 5(e)(6)(C)(iv)(I) of that Act (7 U.S.C. 2014(e)(6)(C)(iv)(I)), as determined by the Secretary of Agriculture".
 
 <b>2008</b>—Subsec. (b)(2)(A)(iii). Pub. L. 110–246, §4002(b)(1)(B), (E), (2)(EE), substituted "supplemental nutrition assistance program benefits" for "food stamps" and "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
@@ -250,7 +250,7 @@ Subsec. (k)(1), (2)(A). Pub. L. 105–285, §306(3), inserted before period at e
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–252, §311(c)(4), transferred the sentence immediately preceding par. (15) to appear as a flush sentence immediately after par. (16).
 
-Pub. L. 103–252, §311(b), inserted at end "Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success of the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements."
+Pub. L. 103–252, §311(b), inserted at end "Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the successof the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements."
 
 Subsec. (b)(1). Pub. L. 103–252, §305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "use the funds available under this subchapter for the purposes described in section 8621(a) of this title and otherwise in accordance with the requirements of this subchapter, and agrees not to use such funds for any payments other than payments specified in this section;".
 

@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 87–526, §1(1)(B), added subsec. (c).
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–328 effective Dec. 23, 2016, and applicable with respect to debt incurred on or after Oct. 7, 2001, see section 671(b)(5) of Pub. L. 114–328, setout as a note under section 7837 of Title 10, Armed Forces.
+Amendment by Pub. L. 114–328 effective Dec. 23, 2016, and applicable with respect to debt incurred on or after Oct. 7, 2001, see section 671(b)(5) of Pub. L. 114–328, set out as a note under section 7837 of Title 10, Armed Forces.
 
 #### Effective Date of 1967 Amendment
 

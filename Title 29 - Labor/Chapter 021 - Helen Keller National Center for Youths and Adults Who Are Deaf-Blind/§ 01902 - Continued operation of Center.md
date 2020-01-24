@@ -26,7 +26,7 @@ This chapter, referred to in subsec. (a), was in the original "this title", mean
 
 <b>1992</b>—Pub. L. 102–569, §908(c)(2), amended section catchline.
 
-Subsec. (a). Pub. L. 102–569, §§902(1)–(3), 908(c)(1), redesignated subsec. (b) as (a), substituted "Youths andAdults who are Deaf-Blind" for "Deaf-Blind Youths and Adults", "prior to February 22, 1984" for "pursuant to section 313 of the Rehabilitation Act of 1973", and "subsection (b)" for "subsection (c)", and struck out former subsec. (a) which repealed section 777c of this title.
+Subsec. (a). Pub. L. 102–569, §§902(1)–(3), 908(c)(1), redesignated subsec. (b) as (a), substituted "Youths and Adults who are Deaf-Blind" for "Deaf-Blind Youths and Adults", "prior to February 22, 1984" for "pursuant to section 313 of the Rehabilitation Act of 1973", and "subsection (b)" for "subsection (c)", and struck out former subsec. (a) which repealed section 777c of this title.
 
 Subsecs. (b), (c). Pub. L. 102–569, §§902(2), (4), 908(a), (b), redesignated subsec. (c) as (b), substituted "individual who is deaf-blind" for "deaf-blind individual" in par. (1), added par. (2), redesignated former par. (2) as (3) and substituted "individuals who are deaf-blind" for "deaf-blind individuals", and redesignated former par. (3) as (4). Former subsec. (b) redesignated (a).
 

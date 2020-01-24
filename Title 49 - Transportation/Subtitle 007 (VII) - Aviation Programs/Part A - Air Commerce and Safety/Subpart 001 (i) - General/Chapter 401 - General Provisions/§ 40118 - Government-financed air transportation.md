@@ -6,7 +6,7 @@ Transportation by Air Carriers Holding Certificates.—A department, agency, or 
 
 &emsp;(1) the department, agency, or instrumentality—
 
-&emsp;&emsp;(A) obtains the transportation for itself or in carrying out an arrangement under which payment is made by the Government or payment is made from amounts provided for the use of the Government; or
+&emsp;&emsp;(A) obtains the transportation for itself or in carrying out an arrangement under whichpayment is made by the Government or payment is made from amounts provided for the use of the Government; or
 
 &emsp;&emsp;(B) provides the transportation to or for a foreign country or international or other organization without reimbursement;
 
@@ -40,31 +40,21 @@ Relationship to Other Laws.—This section does not affect the application of th
 
 (f)
 
-Prohibition of Certification or Contract Clause.—(1) No certification by a contractor, and no contract clause, may be required in the case of a contract for the transportation of commercial items in order to implement a requirement in this section.
+Prohibition of Certification or Contract Clause.—(1) No certification by a contractor, and no contract clause, may be required in the case of a contract for the transportation of commercial products in order to implement a requirement in this section.
 
-(2) In paragraph (1), the term "commercial item" has the meaning given such term in section 103 of title 41, except that it shall not include a contract for the transportation by air of passengers.
+(2) In paragraph (1), the term "commercial product" has the meaning given such term in section 103 of title 41, except that it shall not include a contract for the transportation by air of passengers.
 
 (g)
 
 Training Requirements.—The Administrator of General Services shall ensure that any contract entered into for provision of air transportation with a domestic carrier under this section requires that the contracting air carrier submits to the Administrator of General Services, the Secretary of Transportation, the Administrator of the Transportation Security Administration, the Secretary of Labor and the Commissioner of U.S. Customs and Border Protection an annual report regarding—
 
-&emsp;(1) the number of personnel trained in the detection and reporting of potential human trafficking (as described in paragraphs (9) and (10) of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102)), including the training required under section 44734(a)(4);
+&emsp;(1) the number of personnel trained in the detection and reporting of potential human trafficking (as described in paragraphs (9) and (10) <sup>1</sup> of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102)), including the training required under section 44734(a)(4);
 
 &emsp;(2) the number of notifications of potential human trafficking victims received from staff or other passengers; and
 
 &emsp;(3) whether the air carrier notified the National Human Trafficking Hotline or law enforcement at the relevant airport of the potential human trafficking victim for each such notification of potential human trafficking, and if so, when the notification was made.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1116; Pub. L. 103–355, title VIII, §8301(h), Oct. 13, 1994, 108 Stat. 3398; Pub. L. 104–287, §5(68), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 104–316, title I, §127(d), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(h), title XIII, §1335(p), title XIV, §1422(b)(6), Oct. 21, 1998, 112 Stat. 2681–775, 2681–789, 2681–793; Pub. L. 108–176, title VIII, §806, Dec. 12, 2003, 117 Stat. 2588; Pub. L. 111–350, §5(o)(8), Jan. 4, 2011, 124 Stat. 3854; Pub. L. 115–232, div. A, title VIII, §836(g)(9), Aug. 13, 2018, 132 Stat. 1874; Pub. L. 115–425, title I, §111(a), Jan. 8, 2019, 132 Stat. 5475.)
-
-#### Amendment of Subsection (f)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(g)(9), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (f) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (1), by striking "commercial items" and inserting "commercial products"; and</i>
-
-<i>(2) in paragraph (2), by striking "commercial item" and inserting "commercial product".</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -110,7 +100,7 @@ Oct. 7, 1978, Pub. L. 95–426, §706, 92 Stat. 992.
 
 In this section, the word "passengers" is substituted for "persons" for consistency in the revised title. The words "(and their personal effects)" are omitted as being included in "property".
 
-In subsection (a), before clause (1), the words "Except as provided in subsection (c) of this section" are omitted as surplus. The words "department, agency, or instrumentality" are substituted for "agency" for consistency in the revised title and with other titles of the United States Code. The words "or agencies" are omitted because of 1:1. In clause (1), before subclause (A), the words "executive" and "other" are omitted as surplus. In subclause (A), the words "procure, contract for, or otherwise" are omitted as surplus. The words "for itself or in carrying out an arrangement under which payment is made by the Government or payment is made from amounts provided for the use of the Government" are substituted for "in furtherance of the purposes or pursuant to the terms of any contract, agreement, or other special arrangement made or entered into under which payment is made by the United States or payment is made from funds appropriated, owned, controlled, granted, or conditionally granted or utilized by or otherwise" for clarity and to eliminate unnecessary words. In subclause (B), the word "country" is substituted for "nation" for consistency in the revised title and with other titles of the Code. The words "international or other organization" are substituted for "international agency, or other organization, of whatever nationality" to eliminate unnecessary words. The words "provisions for" are omitted as surplus.
+In subsection (a), before clause (1), the words "Except as provided in subsection (c) of this section" are omitted as surplus. The words "department, agency, or instrumentality" are substituted for "agency" for consistency in the revised title and with other titles of the United States Code. The words "or agencies" are omitted because of 1:1. In clause (1), before subclause (A), the words "executive" and "other" are omitted as surplus. In subclause (A), the words "procure, contract for, or otherwise" are omitted as surplus. The words "for itself or in carrying out an arrangement under which payment is made by the Government or payment is made from amounts provided for the use of the Government" are substituted for "in furtherance of the purposes or pursuant to the terms of any contract, agreement, or other special arrangement made or enteredinto under which payment is made by the United States or payment is made from funds appropriated, owned, controlled, granted, or conditionally granted or utilized by or otherwise" for clarity and to eliminate unnecessary words. In subclause (B), the word "country" is substituted for "nation" for consistency in the revised title and with other titles of the Code. The words "international or other organization" are substituted for "international agency, or other organization, of whatever nationality" to eliminate unnecessary words. The words "provisions for" are omitted as surplus.
 
 In subsection (b), before clause (1), the words "government of a foreign country" are substituted for "foreign government" for consistency in the revised title and with other titles of the Code. The words "or governments" are omitted because of 1:1.
 
@@ -127,6 +117,10 @@ This amends the catchline for 49:40118(d) to make a clarifying amendment.
 #### Pub. L. 104–287, §5(68)(B)
 
 This amends 49:40118(f)(1) to make a clarifying amendment.
+
+#### References in Text
+
+Paragraphs (9) and (10) of section 103 of the Trafficking Victims Protection Act of 2000, referred to in subsec. (g)(1), were redesignated pars. (11) and (12), respectively, of section 103 of that Act by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503, and are classified to section 7102(11) and (12) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
 
@@ -146,7 +140,7 @@ Pub. L. 105–277, §1335(p), struck out ", the Director of the United States I
 
 Pub. L. 105–277, §1225(h), struck out ", or the Director of the Arms Control and Disarmament Agency" before "may be used to pay".
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–316 substituted "Administrator of General Services shall prescribe regulationsunder which agencies may" for "Comptroller General shall".
+<b>1996</b>—Subsec. (c). Pub. L. 104–316 substituted "Administrator of General Services shall prescribe regulations under which agencies may" for "Comptroller General shall".
 
 Subsec. (d). Pub. L. 104–287, §5(68)(A), substituted "
 
@@ -185,4 +179,6 @@ Amendment by section 1422(b)(6) of Pub. L. 105–277 effective on earlier of Apr
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

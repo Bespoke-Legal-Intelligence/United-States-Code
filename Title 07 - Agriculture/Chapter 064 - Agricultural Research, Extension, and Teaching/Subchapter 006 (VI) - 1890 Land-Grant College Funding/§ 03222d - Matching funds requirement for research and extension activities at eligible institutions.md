@@ -70,7 +70,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 &emsp;"(1) For fiscal year 2000, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 30 percent of the formula funds to be distributed to the eligible institution.
 
-&emsp;"(2) For fiscal year 2001, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 45 percent of the formula funds to be distributed to the eligible institution.
+&emsp;"(2) For fiscal year 2001, the State shall provide matching funds from non-Federal sources in anamount equal to not less than 45 percent of the formula funds to be distributed to the eligible institution.
 
 &emsp;"(3) For fiscal year 2002 and each fiscal year thereafter, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 50 percent of the formula funds to be distributed to the eligible institution."
 
@@ -86,5 +86,5 @@ Future fiscal years.—The Secretary may not waive the matching requirement unde
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

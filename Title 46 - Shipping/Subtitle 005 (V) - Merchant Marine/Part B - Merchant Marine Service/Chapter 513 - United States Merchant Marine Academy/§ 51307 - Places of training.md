@@ -76,5 +76,5 @@ Subsec. (a)(1). Pub. L. 115–232, §3512(2), substituted "owned, subsidized by,
 
 Par. (4). Pub. L. 110–181, §3525(a)(3), incorporated the substance of the amendment by Pub. L. 109–241, §307, into this section by adding par. (4). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-<b>2006</b>—Pub. L. 109–241, §307, which directed the amendment of section 1295b(f) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for par. (4) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–241, §307, which directed the amendment of section 1295b(f) of the former Appendix to this title from which this section was derived, was repealedby Pub. L. 110–181, §3525(b). See 2008 Amendment note for par. (4) and Historical and Revision notes above.
 

@@ -40,7 +40,7 @@ The Secretary may, subject to the direction of the President, attend and partici
 
 #### (e) Issuance of regulations
 
-The issuance of regulations by the Secretary shall be governed by the provisions of chapter 5 of title 5, except as specifically provided in this chapter, in laws granting regulatory authorities that are transferred by this chapter, and in laws enacted after November 25, 2002.
+The issuance of regulations by the Secretary shall be governed by the provisions of chapter 5of title 5, except as specifically provided in this chapter, in laws granting regulatory authorities that are transferred by this chapter, and in laws enacted after November 25, 2002.
 
 #### (f) Special Assistant to the Secretary
 

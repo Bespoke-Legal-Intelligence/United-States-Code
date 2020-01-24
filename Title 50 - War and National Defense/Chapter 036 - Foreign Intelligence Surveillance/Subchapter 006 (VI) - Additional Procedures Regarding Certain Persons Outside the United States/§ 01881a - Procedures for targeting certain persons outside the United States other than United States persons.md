@@ -300,7 +300,7 @@ An acquisition authorized under subsection (a)—
 
 #### (C) Procedures for review
 
-&emsp;&emsp;A judge considering a petition filed under subparagraph (A) shall, not later than 30 days after being assigned such petition, issue an order requiring the electronic communication service provider to comply with the directive or any part of it, as issued or as modified, if the judge finds that the directive meets the requirements of this section and is otherwise lawful. The judge shall provide a written statement for the record ofthe reasons for a determination under this paragraph.
+&emsp;&emsp;A judge considering a petition filed under subparagraph (A) shall, not later than 30days after being assigned such petition, issue an order requiring the electronic communication service provider to comply with the directive or any part of it, as issued or as modified, if the judge finds that the directive meets the requirements of this section and is otherwise lawful. The judge shall provide a written statement for the record of the reasons for a determination under this paragraph.
 
 #### (D) Contempt of Court
 
@@ -364,11 +364,11 @@ An acquisition authorized under subsection (a)—
 
 #### (A) Approval
 
-&emsp;&emsp;If the Court finds that a certification submitted in accordance with subsection (h) contains all the required elements and that the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) are consistent with the requirements of those subsections and with the fourth amendment to the Constitution of the United States, the Court shall enter an order approving the certification and the use, or continued use in the case of an acquisition authorized pursuant to a determination under subsection (c)(2), of the procedures for the acquisition.
+&emsp;&emsp;If the Court finds that a certification submitted in accordance with subsection (h) contains all the required elements and that the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) are consistent with the requirements of those subsections and with the fourth amendment to the Constitution of the United States, the Courtshall enter an order approving the certification and the use, or continued use in the case of an acquisition authorized pursuant to a determination under subsection (c)(2), of the procedures for the acquisition.
 
 #### (B) Correction of deficiencies
 
-&emsp;&emsp;If the Court finds that a certification submitted in accordance with subsection (h)does not contain all the required elements, or that the procedures adopted in accordance with subsections (d), (e), and (f)(1) are not consistent with the requirements of those subsections or the fourth amendment to the Constitution of the United States, the Court shall issue an order directing the Government to, at the Government's election and to the extent required by the Court's order—
+&emsp;&emsp;If the Court finds that a certification submitted in accordance with subsection (h) does not contain all the required elements, or that the procedures adopted in accordance with subsections (d), (e), and (f)(1) are not consistent with the requirements of those subsections or the fourth amendment to the Constitution of the United States, the Court shall issue an order directing the Government to, at the Government's election and to the extent required by the Court's order—
 
 &emsp;&emsp;&emsp;(i) correct any deficiency identified by the Court's order not later than 30 days after the date on which the Court issues the order; or
 
@@ -418,7 +418,7 @@ An acquisition authorized under subsection (a)—
 
 #### (B) Reauthorization of orders, authorizations, and directives
 
-&emsp;&emsp;If the Attorney General and the Director of National Intelligence seek to reauthorize or replace an authorization issued under subsection (a) by filing a certification pursuant to subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a), until the Court issues an order with respect to such certification under paragraph (3) at which time the provisions of that paragraph and paragraph (4) shall apply with respect to such certification.
+&emsp;&emsp;If the Attorney General and the Director of National Intelligence seek to reauthorize or replace an authorization issued under subsection (a) by filing a certification pursuant to subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a), until the Court issues an order with respect to such certificationunder paragraph (3) at which time the provisions of that paragraph and paragraph (4) shall apply with respect to such certification.
 
 #### (k) Judicial proceedings
 
@@ -428,7 +428,7 @@ An acquisition authorized under subsection (a)—
 
 #### (2) Time limits
 
-&emsp;A time limit for a judicial decision in this section shall apply unless the Court, the Courtof Review, or any judge of either the Court or the Court of Review, by order for reasons stated, extends that time as necessary for good cause in a manner consistent with national security.
+&emsp;A time limit for a judicial decision in this section shall apply unless the Court, the Court of Review, or any judge of either the Court or the Court of Review, by order for reasons stated, extends that time as necessary for good cause in a manner consistent with national security.
 
 #### (l) Maintenance and security of records and proceedings
 
@@ -578,7 +578,7 @@ Subsec. (h)(6). Pub. L. 115–118, §101(b)(1)(E)(iii), substituted "to subsecti
 
 Subsecs. (i), (j). Pub. L. 115–118, §101(a)(1)(A), redesignated subsecs. (h) and (i) as (i) and (j), respectively. Former subsec. (j) redesignated (k).
 
-Subsec. (j)(1). Pub. L. 115–118, §101(b)(1)(F)(i), substituted "targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1)" for "targeting and minimization procedures adopted in accordance with subsections (d) and (e)" in subpars. (A) to (C).
+Subsec. (j)(1). Pub. L. 115–118, §101(b)(1)(F)(i), substituted "targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e),and (f)(1)" for "targeting and minimization procedures adopted in accordance with subsections (d) and (e)" in subpars. (A) to (C).
 
 Subsec. (j)(2)(A). Pub. L. 115–118, §101(b)(1)(F)(ii)(I), substituted "with subsection (h)" for "with subsection (g)".
 
@@ -658,7 +658,7 @@ Exception for emergency acquisition.—
 
 &emsp;"(A)
 
-Notice of determination.—If the Attorney General and the Director of National Intelligence make a determination pursuant to section 702(c)(2) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a(c)(2)) with respect to the intentional acquisition of abouts communications, the Attorney General and the Director of National Intelligence shall notify the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives as soon as practicable, but not later than 7 days after the determination is made.
+Notice of determination.—If the Attorney General and the Director of National Intelligence make a determination pursuant to section 702(c)(2) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a(c)(2)) with respect to the intentional acquisition of abouts communications, the Attorney General and the Director of National Intelligence shall notify the Committee on the Judiciary and theSelect Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives as soon as practicable, but not later than 7 days after the determination is made.
 
 &emsp;"(B)
 
@@ -666,7 +666,7 @@ Implementation or continuation.—
 
 &emsp;&emsp;"(i)
 
-In general.—If the Foreign Intelligence Surveillance Court approves a certification that authorizes the intentional acquisition of abouts communications before the end of the 30-day period described in paragraph (2)(B), the Attorney Generaland the Director of National Intelligence may authorize the immediate implementation or continuation of that certification if the Attorney General and the Director of National Intelligence jointly determine that exigent circumstances exist such that without such immediate implementation or continuation intelligence important to the national security of the United States may be lost or not timely acquired.
+In general.—If the Foreign Intelligence Surveillance Court approves a certification that authorizes the intentional acquisition of abouts communications before the end of the 30-day period described in paragraph (2)(B), the Attorney General and the Director of National Intelligence may authorize the immediate implementation or continuation of that certification if the Attorney General and the Director of National Intelligence jointly determine that exigent circumstances exist such that without such immediate implementation or continuation intelligence important to the national security of the United States may be lost or not timely acquired.
 
 &emsp;&emsp;"(ii)
 

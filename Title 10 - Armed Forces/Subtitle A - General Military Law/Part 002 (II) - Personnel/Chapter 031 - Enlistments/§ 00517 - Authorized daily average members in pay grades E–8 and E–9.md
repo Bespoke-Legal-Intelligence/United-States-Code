@@ -1,6 +1,6 @@
 ### §517. Authorized daily average: members in pay grades E–8 and E–9
 
-(a) The authorized daily average number of enlisted members on active duty (other than for training) in an armed force in pay grades E–8 and E–9 in a fiscal year may not be more than 2.5 percent and 1.25 percent, respectively, of the number of enlisted members of that armed force who are on active duty (other than for training) on the first day of that fiscal year. In computing the limitations prescribed in the preceding sentence, there shall be excluded enlisted membersof an armed force on active duty as authorized under section 115(a)(1)(B) or 115(b) of this title, or excluded from counting for active duty end strengths under section 115(i) of this title.
+(a) The authorized daily average number of enlisted members on active duty (other than for training) in an armed force in pay grades E–8 and E–9 in a fiscal year may not be more than 2.5 percent and 1.25 percent, respectively, of the number of enlisted members of that armed force who are on active duty (other than for training) on the first day of that fiscal year. In computing the limitations prescribed in the preceding sentence, there shall be excluded enlisted members of an armed force on active duty as authorized under section 115(a)(1)(B) or 115(b) of this title, or excluded from counting for active duty end strengths under section 115(i) of this title.
 
 (b) Whenever the number of members serving in pay grade E–9 is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.
 
@@ -38,7 +38,7 @@ Pub. L. 105–261, §407(a), substituted "a fiscal year" for "a calendar year" a
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–337, §552(a), inserted "(or, in the case of the Army, 2.5 percent)" after "may not be more than 2 percent".
 
-Subsec. (b). Pub. L. 103–337, §1661(a)(4)(B), redesignated subsec. (c) as (b) and struck out "or whenever the number of members serving in pay grade E–9 for duty described in subsection (b) is less than the number authorized for that grade under subsection (b)," after "under subsection (a),".
+Subsec. (b). Pub. L. 103–337, §1661(a)(4)(B), redesignated subsec. (c) as (b) and struck out "or whenever the number of members serving in pay grade E–9 for dutydescribed in subsection (b) is less than the number authorized for that grade under subsection (b)," after "under subsection (a),".
 
 Pub. L. 103–337, §1662(a)(4)(A), struck out subsec. (b) which limited the number of enlisted members in pay grades E–8 and E–9 who could be on active duty (other than for training) or on full-time National Guard duty under the authority of section 502(f) of title 32 (other than for training) as of the end of any fiscal year in connection with organizing, administering, recruiting, instructing, or training the reserve components or the National Guard.
 
@@ -60,7 +60,7 @@ Pub. L. 100–180, §413(a)(1), in table, increased fiscal year limitation on nu
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–525, §414(a)(2), inserted "(other than for training) or on full-time National Guard duty under the authority of section 502(f) of title 32 (other than for training)" and substituted "or the National Guard" for "of the armed forces" and "for that grade and armed force" for "prescribed for the grade and the armed force".
 
-Pub. L. 98–525, §413(a), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8and E–9 on active duty affecting reserve components of the armed forces: Army, to 2,295 and 517 from 1,494 and 314; Air Force, to 455 and 87 from 617 and 143; Marine Corps, to 74 and 9 from 56 and 6. Navy figures remained unchanged.
+Pub. L. 98–525, §413(a), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 2,295 and 517 from 1,494 and 314; Air Force, to 455 and 87 from 617 and 143; Marine Corps, to 74 and 9 from 56 and 6. Navy figures remained unchanged.
 
 <b>1983</b>—Subsec. (b). Pub. L. 98–94 increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 1,494 and 314 from 1,244 and 265; Navy, to 381 and 156 from 329 and 156; Air Force, to 617 and 143 from 441 and 132; Marine Corps figures remained unchanged.
 
@@ -108,7 +108,7 @@ Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a
 
 #### Authorized Active Duty Strengths for Army Enlisted Members in Pay Grade E–8; Special Rule for 1995
 
-Pub. L. 103–337, div. A, title V, §552(b), Oct. 5, 1994, 108 Stat. 2772, provided that the percentage applicable to enlisted members of the Army in pay grade E–8 under subsec. (a) of this section during 1995 would be 2.3 percent, rather than the percentage provided by the amendment made by Pub. L. 103–337, §552(a).
+Pub. L. 103–337, div. A, title V, §552(b), Oct. 5, 1994, 108 Stat. 2772, provided that the percentage applicable toenlisted members of the Army in pay grade E–8 under subsec. (a) of this section during 1995 would be 2.3 percent, rather than the percentage provided by the amendment made by Pub. L. 103–337, §552(a).
 
 #### Authority To Waive Grade Strength Laws for Fiscal Year 1991; Certification; Relationship to Other Suspension Authority
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided under paragraph (2), there are the following officers, appointed by the President, by and with the advice and consent of the Senate:
+&emsp;Except as provided under paragraph (2), there are the following officers, appointed bythe President, by and with the advice and consent of the Senate:
 
 &emsp;&emsp;(A) A Deputy Secretary of Homeland Security, who shall be the Secretary's first assistant for purposes of subchapter III of chapter 33 of title 5.
 
@@ -86,11 +86,11 @@ Sections 2 and 44 of title 14, referred to in subsec. (c), redesignated sections
 
 This chapter, referred to in subsecs. (c) and (f), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
-The Federal Vacancies Reform Act of 1998, referred to in subsec. (g)(3), is section 151(a) of title I of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–611, which enacted sections 3345 to 3349d of Title 5, Government Organization and Employees, repealed former sections 3345 to 3349 of Title 5, and enacted provisions set out as a note under section 3345 of Title 5. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 3301 of Title 5 and Tables.
+The Federal Vacancies Reform Act of 1998, referred to in subsec. (g)(3), is section 151(a) of title I of div. C ofPub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–611, which enacted sections 3345 to 3349d of Title 5, Government Organization and Employees, repealed former sections 3345 to 3349 of Title 5, and enacted provisions set out as a note under section 3345 of Title 5. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 3301 of Title 5 and Tables.
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(1)(H). Pub. L. 115–278 amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: "An Under Secretary responsible foroverseeing critical infrastructure protection, cybersecurity, and other related programs of the Department."
+<b>2018</b>—Subsec. (a)(1)(H). Pub. L. 115–278 amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: "An Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department."
 
 Subsec. (d)(4). Pub. L. 115–387 substituted "An Assistant Secretary for the Countering Weapons of Mass Destruction Office" for "A Director for Domestic Nuclear Detection".
 

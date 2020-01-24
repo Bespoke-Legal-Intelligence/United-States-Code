@@ -66,7 +66,7 @@ Grant recipients shall be selected on a competitive, merit-reviewed basis.
 
 #### (1) In general
 
-&emsp;In awarding grants under this section, the Director shall endeavor to ensure that the grant recipients represent a variety of types of institutions of higher education and nonprofit, nondegree-granting research organizations.
+&emsp;In awarding grants under this section, the Director shall endeavor to ensure that the grant recipients represent a variety of types ofinstitutions of higher education and nonprofit, nondegree-granting research organizations.
 
 #### (2) Requirement
 

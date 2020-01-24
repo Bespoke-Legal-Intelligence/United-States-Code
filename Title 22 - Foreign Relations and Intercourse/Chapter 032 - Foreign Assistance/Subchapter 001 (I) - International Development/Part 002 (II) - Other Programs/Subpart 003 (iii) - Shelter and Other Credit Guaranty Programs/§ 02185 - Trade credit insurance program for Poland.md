@@ -26,7 +26,7 @@ The agreement referred to in subsection (c) shall also provide for the establish
 
 #### (1) Funds which may be used
 
-&emsp;Such amounts of the funds made available to carry out part IV of subchapter II of this chapter (relating to the economic support fund) as the President determines are necessary may be made available to discharge liabilities under guarantees entered into under subsection (a).
+&emsp;Such amounts of the funds made available to carry out part IV of subchapter II of this chapter (relating to the economic support fund) asthe President determines are necessary may be made available to discharge liabilities under guarantees entered into under subsection (a).
 
 #### (2) Crediting of subsequent payments
 
@@ -58,7 +58,7 @@ The Bank is authorized to charge fees and premiums, in connection with guarantee
 
 #### (k) Restrictions not applicable
 
-Prohibitions on the use of foreign assistance funds for assistance for Poland shall not applywith respect to the funds made available to carry out this section.
+Prohibitions on the use of foreign assistance funds for assistance for Poland shall not apply with respect to the funds made available to carry out this section.
 
 #### (l) Expiration of authority
 

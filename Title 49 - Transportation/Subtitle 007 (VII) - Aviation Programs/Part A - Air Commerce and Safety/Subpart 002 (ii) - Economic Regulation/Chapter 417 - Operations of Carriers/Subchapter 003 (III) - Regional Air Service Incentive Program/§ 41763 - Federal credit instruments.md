@@ -34,7 +34,7 @@ Subordination.—The secured loan may be subordinate to claims of other holders 
 
 &emsp;&emsp;(E)
 
-Fees.—The Secretary, subject to appropriations, may establish fees at a levelsufficient to cover all or a portion of the administrative costs to the United States Government of making a secured loan under this section. The proceeds of such fees shall be deposited in an account to be used by the Secretary for the purpose of administering the program established under this subchapter and shall be available upon deposit until expended.
+Fees.—The Secretary, subject to appropriations, may establish fees at a level sufficient to cover all or a portion of the administrative costs to the United States Government of making a secured loan under this section. The proceeds of such fees shall be deposited in an account to be used by the Secretary for the purpose of administering the program established under this subchapter and shall be available upon deposit until expended.
 
 &emsp;(2)
 
@@ -150,7 +150,7 @@ Schedule.—The Secretary shall establish a repayment schedule for each direct l
 
 &emsp;&emsp;(B)
 
-Commencement.—Scheduled loan repayments of principal or interest on a direct loan under this subsection shall commence no later than 3 years after the date of the first draw on the line of credit and shall berepaid, with interest, not later than 18 years after the date of the first draw.
+Commencement.—Scheduled loan repayments of principal or interest on a direct loan under this subsection shall commence no later than 3 years after the date of the first draw on the line of credit and shall be repaid, with interest, not later than 18 years after the date of the first draw.
 
 (e)
 

@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) when developing their respective energy infrastructures, countries in the Western Hemisphere must consider existing and emerging environmental constraints, and do so in a way that results in sustainable long-term economic growth;
 
-&emsp;(4) the coordination of respective national energy and environmental policies of the governments of the Western Hemisphere could besubstantially improved through regular consultation among these countries;
+&emsp;(4) the coordination of respective national energy and environmental policies of the governments of the Western Hemisphere could be substantially improved through regular consultation among these countries;
 
 &emsp;(5) the development, production and consumption of energy can affect environmental quality, and the environmental consequences of energy-related activities are not confined within national boundaries, but are regional and global in scope;
 

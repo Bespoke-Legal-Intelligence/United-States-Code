@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), any employer who violates any provision of this chapter may beassessed a civil penalty of not more than $10,000.
+&emsp;Subject to paragraph (2), any employer who violates any provision of this chapter may be assessed a civil penalty of not more than $10,000.
 
 #### (2) Determination of amount
 
@@ -26,7 +26,7 @@ The Secretary may bring an action under this section to restrain violations of t
 
 #### (2) Court
 
-&emsp;An action to recover the liability prescribed in paragraph (1) may be maintained against the employer in any Federal or State court of competent jurisdiction by an employee or prospective employee for or on behalf of such employee, prospective employee, and other employees or prospective employees similarly situated. No such action may be commenced more than 3 years after the date of the alleged violation.
+&emsp;An action to recover the liability prescribed in paragraph (1) may be maintained againstthe employer in any Federal or State court of competent jurisdiction by an employee or prospective employee for or on behalf of such employee, prospective employee, and other employees or prospective employees similarly situated. No such action may be commenced more than 3 years after the date of the alleged violation.
 
 #### (3) Costs
 

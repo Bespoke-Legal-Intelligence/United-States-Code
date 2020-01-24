@@ -124,7 +124,7 @@ For purposes of this section:
 
 #### (C) Limitation
 
-&emsp;&emsp;The Secretary may not designate a medically underserved population in a State orterminate the designation of such a population unless, prior to such designation or termination, the Secretary provides reasonable notice and opportunity for comment and consults with—
+&emsp;&emsp;The Secretary may not designate a medically underserved population in a State or terminate the designation of such a population unless, prior to such designation or termination, the Secretary provides reasonable notice and opportunity for comment and consults with—
 
 &emsp;&emsp;&emsp;(i) the chief executive officer of such State;
 
@@ -140,7 +140,7 @@ For purposes of this section:
 
 #### (1) Centers
 
-&emsp;The Secretary may make grants to public and nonprofit private entities for projects to plan and develop health centers which will serve medically underserved populations. A project for which a grant may be made under this subsection may include the cost of the acquisition and lease of buildings and equipment (including the costs of amortizing the principal of, and paying the interest on, loans) and shall include—
+&emsp;The Secretary may make grants to public and nonprofit private entities for projects toplan and develop health centers which will serve medically underserved populations. A project for which a grant may be made under this subsection may include the cost of the acquisition and lease of buildings and equipment (including the costs of amortizing the principal of, and paying the interest on, loans) and shall include—
 
 &emsp;&emsp;(A) an assessment of the need that the population proposed to be served by the health center for which the project is undertaken has for required primary health services and additional health services;
 
@@ -372,7 +372,7 @@ For purposes of this section:
 
 #### (2) Required services
 
-&emsp;In addition to required primary health services (as defined in subsection (b)(1)), an entity that receives a grant under this subsection shall be required to provide substance abuse services as a condition of such grant.
+&emsp;In addition to required primary health services (as defined in subsection (b)(1)), an entitythat receives a grant under this subsection shall be required to provide substance abuse services as a condition of such grant.
 
 #### (3) Supplement not supplant requirement
 
@@ -454,7 +454,7 @@ For purposes of this section:
 
 #### (6) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection, in addition to any funds authorized to be appropriated or appropriated for health centers under any other subsection of this section, such sums as may be necessary for each of fiscal years 2002 through 2006.
+&emsp;There are authorized to be appropriated to carry out this subsection, in addition to anyfunds authorized to be appropriated or appropriated for health centers under any other subsection of this section, such sums as may be necessary for each of fiscal years 2002 through 2006.
 
 #### (k) Applications
 
@@ -506,7 +506,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) to secure from patients payment for services in accordance with such schedules; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to collect reimbursement for health services to persons described in subparagraph (F) on the basis of the full amount of fees and payments for such services without application of any discount;
+&emsp;&emsp;&emsp;&emsp;(II) to collect reimbursement for health services to persons described insubparagraph (F) on the basis of the full amount of fees and payments for such services without application of any discount;
 
 &emsp;&emsp;&emsp;(iii)(I) will assure that no patient will be denied health care services due to an individual's inability to pay for such services; and
 
@@ -562,7 +562,7 @@ For purposes of this section:
 
 #### (l) Technical assistance
 
-The Secretary shall establish a program through which the Secretary shall provide (either through the Department of Health and Human Services or by grant or contract) technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (k)(3). Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities. Funds expended to carry out activities under this subsection and operational support activities under subsection (m) shall not exceed 3 percent of the amount appropriated for this section for the fiscal year involved.
+The Secretary shall establish a program through which the Secretary shall provide (either through the Department of Health and Human Services or by grant or contract) technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (k)(3). Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational andadministrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities. Funds expended to carry out activities under this subsection and operational support activities under subsection (m) shall not exceed 3 percent of the amount appropriated for this section for the fiscal year involved.
 
 #### (m) Memorandum of agreement
 
@@ -682,7 +682,7 @@ In making grants under this section, the Secretary shall give special considerat
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in this section shall be construed to prevent a community health center from contracting with a Federally certified rural health clinic (as defined in section 1861(aa)(2) of the Social Security Act \[42 U.S.C. 1395x(aa)(2)\]), a low-volume hospital (as defined for purposes of section 1886 of such Act \[42 U.S.C. 1395ww\]), a critical access hospital, a sole community hospital (as defined for purposes of section 1886(d)(5)(D)(iii) of such Act), or a medicare-dependent sharehospital (as defined for purposes of section 1886(d)(5)(G)(iv) of such Act) for the delivery of primary health care services that are available at the clinic or hospital to individuals who would otherwise be eligible for free or reduced cost care if that individual were able to obtain that care at the community health center. Such services may be limited in scope to those primary health care services available in that clinic or hospitals.<sup>2</sup>
+&emsp;&emsp;Nothing in this section shall be construed to prevent a community health center from contracting with a Federally certified rural health clinic (as defined in section 1861(aa)(2) of the Social Security Act \[42 U.S.C. 1395x(aa)(2)\]), a low-volume hospital (as defined for purposes of section 1886 of such Act \[42 U.S.C. 1395ww\]), a critical access hospital, a sole community hospital (as defined for purposes of section 1886(d)(5)(D)(iii) of such Act), or a medicare-dependent share hospital (as defined for purposes of section 1886(d)(5)(G)(iv) of such Act) for the delivery of primary health care services that are available at the clinic or hospital to individuals who would otherwise be eligible for free or reduced cost care if that individual were able to obtain that care at the community health center. Such services may be limited in scope to those primary health care services available in that clinic or hospitals.<sup>2</sup>
 
 #### (B) Assurances
 
@@ -902,7 +902,7 @@ Subsec. (l). Pub. L. 107–251, §101(8)(A), redesignated subsec. (l) as (s).
 
 Subsec. (m). Pub. L. 107–251, §101(9), which directed striking subsec. (m) (as redesignated by paragraph (9)(B)) and adding a new subsec. (m), could not be executed. The new subsec. (m) to be added read as follows: "(m)
 
-Technical Assistance.—The Secretary shall establish a program through which the Secretary shall provide technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (l)(3). Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how thoseresources can be best used to meet the health needs of the communities served by the entities."
+Technical Assistance.—The Secretary shall establish a program through which the Secretary shall provide technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (l)(3). Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities."
 
 Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (o), and (p) through (s), respectively, could not be executed.
 
@@ -996,7 +996,7 @@ Final Committee Report.—If the committee is not terminated under subsection (e
 
 "(g)
 
-Interim Final Effect.—The Secretary shall publish a rule under this section in the Federal Register by not later than the target publication date.Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 90 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications for such designations pursuant to such rules and consistent with this section.
+Interim Final Effect.—The Secretary shall publish a rule under this section in the Federal Register by not later than the target publication date. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 90 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications for such designations pursuant to such rules and consistent with this section.
 
 "(h)
 
@@ -1030,7 +1030,7 @@ Content.—In conducting the study under subparagraph (A), the Comptroller Gener
 
 &emsp;&emsp;"(ii) any cost savings to other Federal programs derived from providing health services in school-based health centers;
 
-&emsp;&emsp;"(iii) the effect on the Federal Budget and the health of students of providing Federal funds to school-based health centers and clinics, including the result of providing disease prevention and nutrition information;
+&emsp;&emsp;"(iii) the effect on the Federal Budget and the health of students of providing Federal funds toschool-based health centers and clinics, including the result of providing disease prevention and nutrition information;
 
 &emsp;&emsp;"(iv) the impact of access to health care from school-based health centers in rural or underserved areas; and
 
@@ -1102,7 +1102,7 @@ The American Recovery and Reinvestment Act of 2009 (Recovery Act) provided $2 bi
 
 One of the key benefits health centers provide to the communities they serve is quality primary health care services. Health centers use interdisciplinary teams to treat the "whole patient" and focus on chronic disease management to reduce the use of costlier providers of care, such as emergency rooms and hospitals.
 
-Federally qualified health centers provide an excellent environment to demonstrate the further improvements to health care that may be offered by the medical homes approach. In general, this approach emphasizes the patient's relationship with a primary care provider who coordinates the patient's care and serves as the patient's principal point of contact for care. The medical homes approach also emphasizes activities related to quality improvement, access to care, communication with patients, and care management and coordination. These activities are expected to improve the quality and efficiency of care and to help avoid preventable emergency and inpatient hospital care. Demonstration programs establishing the medical homes approach have been recommended by the Medicare Payment Advisory Commission, an independent advisory body to the Congress.
+Federally qualified health centers provide an excellent environment to demonstrate the further improvements to health care that may be offered by the medical homes approach. In general, this approach emphasizes the patient's relationship with a primary careprovider who coordinates the patient's care and serves as the patient's principal point of contact for care. The medical homes approach also emphasizes activities related to quality improvement, access to care, communication with patients, and care management and coordination. These activities are expected to improve the quality and efficiency of care and to help avoid preventable emergency and inpatient hospital care. Demonstration programs establishing the medical homes approach have been recommended by the Medicare Payment Advisory Commission, an independent advisory body to the Congress.
 
 Therefore, I direct you to implement a Medicare Federally Qualified Health Center Advanced Primary Care Practice demonstration, pursuant to your statutory authority to conduct experiments and demonstrations on changes in payments and services that may improve the quality and efficiency of services to beneficiaries. Health centers participating in this demonstration must have shown their ability to provide comprehensive, coordinated, integrated, and accessible health care.
 

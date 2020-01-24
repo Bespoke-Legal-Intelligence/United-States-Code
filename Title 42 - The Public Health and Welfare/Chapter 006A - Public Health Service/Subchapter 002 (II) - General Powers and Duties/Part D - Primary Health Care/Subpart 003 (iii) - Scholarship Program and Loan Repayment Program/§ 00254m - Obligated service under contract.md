@@ -22,7 +22,7 @@ Except as provided in section 254n of this title, each individual who has entere
 
 (5)(A) In the case of the Scholarship Program, the date referred to in paragraphs (1) through (4) shall be the date on which the individual completes the training required for the degree for which the individual receives the scholarship, except that—
 
-&emsp;(i) for an individual receiving such a degree after September 30, 2000, from a school of medicine or osteopathic medicine, such date shall be the date the individual completes a residency in a specialty that the Secretary determines is consistent with the needs of the Corps; and
+&emsp;(i) for an individual receiving such a degree after September 30, 2000, from a school of medicine or osteopathic medicine, such date shallbe the date the individual completes a residency in a specialty that the Secretary determines is consistent with the needs of the Corps; and
 
 &emsp;(ii) at the request of an individual, the Secretary may, consistent with the needs of the Corps, defer such date until the end of a period of time required for the individual to complete advanced training (including an internship or residency).
 
@@ -34,7 +34,7 @@ Except as provided in section 254n of this title, each individual who has entere
 
 &emsp;(ii) shall, in the case of an individual who is enrolled in an approved graduate training program in medicine, osteopathic medicine, dentistry, or other health profession, be the date the individual completes such training program; and
 
-&emsp;(iii) shall, in the case of an individual who has a degree in medicine, osteopathic medicine, dentistry, or other health profession andwho has completed graduate training, be the date the individual enters into an agreement with the Secretary under section 254l–1 of this title.
+&emsp;(iii) shall, in the case of an individual who has a degree in medicine, osteopathic medicine, dentistry, or other health profession and who has completed graduate training, be the date the individual enters into an agreement with the Secretary under section 254l–1 of this title.
 
 #### (c) Obligated service period; commencement
 

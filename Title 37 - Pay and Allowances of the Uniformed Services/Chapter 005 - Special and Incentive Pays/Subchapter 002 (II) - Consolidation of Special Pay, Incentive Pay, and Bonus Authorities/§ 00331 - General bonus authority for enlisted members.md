@@ -14,7 +14,7 @@ Authority to Provide Bonus.—The Secretary concerned may pay a bonus under this
 
 &emsp;&emsp;(B) under other conditions of service in an armed force;
 
-&emsp;(4) transfers from a regular component of an armed force to a reserve component of that same armed force or from a reserve componentof an armed force to the regular component of that same armed force; or
+&emsp;(4) transfers from a regular component of an armed force to a reserve component of that same armed force or from a reserve component of an armed force to the regular component of that same armed force; or
 
 &emsp;(5) transfers from a regular component or reserve component of an armed force to a regular component or reserve component of another armed force, subject to the approval of the Secretary with jurisdiction over the armed force to which the member is transferring.
 
@@ -76,11 +76,13 @@ Repayment.—A person or member who receives a bonus under this section and who 
 
 (h)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2019.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2020.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 163; amended Pub. L. 111–84, div. A, title VI, §614(1), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(1), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(1), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(1), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(1), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, §614(1), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §614(1), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, §614(1), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, §614(1), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(d)(1), Aug. 13, 2018, 132 Stat. 1797.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 163; amended Pub. L. 111–84, div. A, title VI, §614(1), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(1), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(1), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(1), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(1), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, §614(1), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §614(1), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, §614(1), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, §614(1), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(d)(1), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, §611(d)(1), Dec. 20, 2019, 133 Stat. 1426.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (h). Pub. L. 116–92 substituted "December 31, 2020" for "December 31, 2019".
 
 <b>2018</b>—Subsec. (h). Pub. L. 115–232 substituted "December 31, 2019" for "December 31, 2018".
 

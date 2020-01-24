@@ -12,7 +12,7 @@ Each annuity increase under this section shall be identical to the corresponding
 
 Eligibility for an annuity increase under this section shall be governed by the commencing date of each annuity payable from the Fund under this part as of the effective date of an increase except as follows:
 
-&emsp;(1) The first increase (if any) made under this section to an annuity which is payablefrom the Fund to a participant or to the surviving spouse or former spouse of a deceased participant who died in service or a deceased annuitant whose annuity was not increased under this section, shall be equal to the product (adjusted to the nearest 1/10 of 1 percent) of—
+&emsp;(1) The first increase (if any) made under this section to an annuity which is payable from the Fund to a participant or to the surviving spouse or former spouse of a deceased participant who died in service or a deceased annuitant whose annuity was not increased under this section, shall be equal to the product (adjusted to the nearest 1/10 of 1 percent) of—
 
 &emsp;&emsp;(A) 1/12 of the applicable percent change computed under subsection (b) of this section, multiplied by
 
@@ -70,7 +70,7 @@ Effective from its commencing date, there shall be an increase of 10 percent in 
 
 Subsec. (g). Ex. Ord. No. 12446, §6(a), added subsec. (g).
 
-<b>1981</b>—Subsec. (c)(1). Ex. Ord. No. 12289 amended first sentence of par. (1) generally. Prior to amendment, first sentence read as follows: "An annuity (except a deferred annuity) payable from the Fund to a participant who retires and receives an immediate annuity, or to a surviving spouse or former spouse of a deceased participant who dies in service or who dies after being separated with benefits under section 4009(b)(2) of this title, which has a commencing date after the effective date of the then last preceding general annuity increase under this section shall not be less than the annuity which would have been payable if the commencing date of such annuity had been the effective date of such last preceding increase."
+<b>1981</b>—Subsec. (c)(1). Ex. Ord. No. 12289 amended first sentence of par. (1) generally. Prior to amendment, first sentence read as follows: "An annuity (except a deferred annuity) payable from the Fund to a participant who retires and receives an immediate annuity, or to a surviving spouse or former spouse of a deceasedparticipant who dies in service or who dies after being separated with benefits under section 4009(b)(2) of this title, which has a commencing date after the effective date of the then last preceding general annuity increase under this section shall not be less than the annuity which would have been payable if the commencing date of such annuity had been the effective date of such last preceding increase."
 
 #### Effective Date of 1988 Amendment
 

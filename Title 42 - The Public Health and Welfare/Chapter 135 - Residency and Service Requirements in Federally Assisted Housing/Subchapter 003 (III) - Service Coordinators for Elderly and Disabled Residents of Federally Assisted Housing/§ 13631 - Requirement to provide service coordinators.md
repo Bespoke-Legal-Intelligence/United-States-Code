@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To the extent that amounts are made available for providing service coordinators underthis section, the Secretary shall require owners of covered federally assisted housing projects (as such term is defined in subsection (d)) receiving such amounts to provide for employing or otherwise retaining the services of one or more individuals to coordinate the provision of supportive services for elderly and disabled families residing in the projects (in this section referred to as a "service coordinator"). No such elderly or disabled family may be required to accept services.
+To the extent that amounts are made available for providing service coordinators under this section, the Secretary shall require owners of covered federally assisted housing projects (as such term is defined in subsection (d)) receiving such amounts to provide for employing or otherwise retaining the services of one or more individuals to coordinate the provision of supportive services for elderly and disabled families residing in the projects (in this section referred to as a "service coordinator"). No such elderly or disabled family may be required to accept services.
 
 #### (b) Responsibilities
 
@@ -54,7 +54,7 @@ To the extent only that this section applies to service coordinators for covered
 
 &emsp;&emsp;&emsp;(vi) their consumer protection rights under Federal law;
 
-&emsp;&emsp;(B) provides such other information as the Secretary considers necessary to protect such residents against fraudulent telemarketing; and
+&emsp;&emsp;(B) provides such other information as the Secretary considers necessary to protectsuch residents against fraudulent telemarketing; and
 
 &emsp;&emsp;(C) disseminates the information provided by appropriate means, and in determining such appropriate means, the Secretary shall consider on-site presentations at federally assisted housing, public service announcements, a printed manual or pamphlet, an Internet website, and telephone outreach to residents whose names appear on "mooch lists" confiscated from fraudulent telemarketers.
 

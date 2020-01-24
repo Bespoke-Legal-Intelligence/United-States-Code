@@ -12,7 +12,7 @@ The Secretary may provide training and technical assistance with respect to the 
 
 #### (2) Corresponding reduction in payments
 
-&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce the amount of payments under the grant under section 300k of this title to the State involved by an amount equal to the costs of detailing personnel (including pay, allowances, and travel expenses) and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
+&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce theamount of payments under the grant under section 300k of this title to the State involved by an amount equal to the costs of detailing personnel (including pay, allowances, and travel expenses) and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
 (July 1, 1944, ch. 373, title XV, §1507, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 414.)
 

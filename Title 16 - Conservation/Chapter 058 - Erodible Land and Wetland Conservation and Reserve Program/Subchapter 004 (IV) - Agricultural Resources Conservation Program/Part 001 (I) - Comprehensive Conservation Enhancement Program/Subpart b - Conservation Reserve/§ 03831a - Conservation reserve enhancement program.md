@@ -102,7 +102,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an agreement under subsection (b)(1) that includes riparian buffers as an eligible practice, the Secretary shall make cost-share payments to encourage the regular management of the riparian buffer throughout the term of the agreement, consistent with the conservation plan that covers the eligible land.
+&emsp;&emsp;In the case of an agreement under subsection (b)(1) that includes riparian buffersas an eligible practice, the Secretary shall make cost-share payments to encourage the regular management of the riparian buffer throughout the term of the agreement, consistent with the conservation plan that covers the eligible land.
 
 #### (B) Limitation
 

@@ -2,7 +2,7 @@
 
 #### (a) Foreign tax credit allowed
 
-An estate or trust shall be allowed the credit against tax for taxes imposed by foreign countries and possessions of the United States, to the extent allowed by section 901, only in respect ofso much of the taxes described in such section as is not properly allocable under such section to the beneficiaries.
+An estate or trust shall be allowed the credit against tax for taxes imposed by foreign countries and possessions of the United States, to the extent allowed by section 901, only in respect of so much of the taxes described in such section as is not properly allocable under such section to the beneficiaries.
 
 #### (b) Deduction for personal exemption
 
@@ -78,7 +78,7 @@ An estate or trust shall be allowed the credit against tax for taxes imposed by 
 
 &emsp;&emsp;&emsp;(iii) the will is not republished by codicil or otherwise before October 9, 1972, and the testator is on such date and at all times thereafter under a mental disability to republish the will by codicil or otherwise,
 
-> &emsp;there shall also be allowed as a deduction in computing its taxable income any amount of the gross income, without limitation, which pursuant to the terms of the governing instrument is, during the taxable year, permanently set aside for a purpose specified in section 170(c), or is to be used exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals, or for the establishment, acquisition, maintenance, or operation of a public cemetery not operated for profit. In the case of a trust, the preceding sentence shall apply only to gross incomeearned with respect to amounts transferred to the trust before October 9, 1969, or transferred under a will to which subparagraph (B) applies.
+> &emsp;there shall also be allowed as a deduction in computing its taxable income any amount of the gross income, without limitation, which pursuant to the terms of the governing instrument is, during the taxable year, permanently set aside for a purpose specified in section 170(c), or is to be used exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals, or for the establishment, acquisition, maintenance, or operation of a public cemetery not operated for profit. In the case of a trust, the preceding sentence shall apply only to gross income earned with respect to amounts transferred to the trust before October 9, 1969, or transferred under a will to which subparagraph (B) applies.
 
 #### (3) Pooled income funds
 
@@ -174,7 +174,7 @@ Subsec. (f). Pub. L. 101–508, §11801(c)(6)(B), substituted "section 169" for 
 
 <b>1989</b>—Subsec. (g). Pub. L. 101–239 inserted after first sentence "Rules similar to the rules of the preceding sentence shall apply to amounts which may be taken into account under 2621(a)(2) or 2622(b)."
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–514, §112(b)(2), amended subsec. (a) generally, substituting "Foreign tax credit allowed" for "Credits against tax" in heading, striking out designation and heading for par. (1), and striking out par. (2) which read as follows: "An estate or trust shall not be allowed the credit against tax for political contributions provided by section 24."
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §112(b)(2), amended subsec. (a) generally, substituting "Foreign tax creditallowed" for "Credits against tax" in heading, striking out designation and heading for par. (1), and striking out par. (2) which read as follows: "An estate or trust shall not be allowed the credit against tax for political contributions provided by section 24."
 
 Subsec. (c)(4). Pub. L. 99–514, §301(b)(6), in heading, substituted "Coordination with section 681" for "Adjustments", and in text struck out first sentence which read as follows: "To the extent that the amount otherwise allowable as a deduction under this subsection consists of gain from the sale or exchange of capital assets held for more than 6 months, proper adjustment shall be made for any deduction allowable to the estate or trust under section 1202 (relating to deduction for excess of capital gains over capital losses)."
 

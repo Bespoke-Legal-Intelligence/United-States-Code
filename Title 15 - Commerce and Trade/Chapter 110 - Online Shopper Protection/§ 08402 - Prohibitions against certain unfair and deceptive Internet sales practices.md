@@ -8,7 +8,7 @@ It shall be unlawful for any post-transaction third party seller to charge or at
 
 &emsp;&emsp;(A) a description of the goods or services being offered;
 
-&emsp;&emsp;(B) the fact that the post-transaction third party seller is not affiliated with the initial merchant, which may include disclosure of the name of the post-transaction third party in a manner that clearly differentiates the post-transaction third party seller from the initial merchant; and
+&emsp;&emsp;(B) the fact that the post-transaction third party seller is not affiliated with the initial merchant, which may include disclosure ofthe name of the post-transaction third party in a manner that clearly differentiates the post-transaction third party seller from the initial merchant; and
 
 &emsp;&emsp;(C) the cost of such goods or services; and
 

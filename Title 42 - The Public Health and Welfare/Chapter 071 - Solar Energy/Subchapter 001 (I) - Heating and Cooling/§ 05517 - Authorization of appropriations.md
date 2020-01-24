@@ -10,7 +10,7 @@ There is hereby authorized to be appropriated to the Department of Housing and U
 
 #### (c) Appropriations for programs under this subchapter
 
-There is hereby authorized to be appropriated for the fiscal years ending June 30, 1976, 1977,1978, and 1979, $50,000,000 in the aggregate to carry out the programs established by this subchapter.
+There is hereby authorized to be appropriated for the fiscal years ending June 30, 1976, 1977, 1978, and 1979, $50,000,000 in the aggregate to carry out the programs established by this subchapter.
 
 (Pub. L. 93–409, §19, Sept. 3, 1974, 88 Stat. 1078; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 

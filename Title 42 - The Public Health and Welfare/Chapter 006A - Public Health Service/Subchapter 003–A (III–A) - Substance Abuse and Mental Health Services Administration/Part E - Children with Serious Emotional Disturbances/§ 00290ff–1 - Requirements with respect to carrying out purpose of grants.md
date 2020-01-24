@@ -84,7 +84,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that men
 
 &emsp;&emsp;(C) the system provides assistance with respect to—
 
-&emsp;&emsp;&emsp;(i) establishing the eligibility of the child, and the family of the child, for financial assistance and services under Federal, State, or local programs providing for health services, mental health services, educational services, social services, or other services; and
+&emsp;&emsp;&emsp;(i) establishing the eligibility of the child, and the family of the child, for financial assistance and services under Federal, State, or local programs providing forhealth services, mental health services, educational services, social services, or other services; and
 
 &emsp;&emsp;&emsp;(ii) seeking to ensure that the child receives appropriate services available under such programs.
 
@@ -136,7 +136,7 @@ The Secretary may waive one or more of the requirements of subsection (c) for a 
 
 The Social Security Act, referred to in subsec. (d)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (d)(3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts Band C of the Act are classified generally to subchapters II (§1411 et seq.) and III (§1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (d)(3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts B and C of the Act are classified generally to subchapters II (§1411 et seq.) and III (§1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
 

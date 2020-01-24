@@ -49,7 +49,7 @@ Another chapter 113B, consisting of sections 2340 to 2340B, was renumbered chapt
 
 <b>1996</b>—Pub. L. 104–294, title VI, §605(q), Oct. 11, 1996, 110 Stat. 3510, redesignated item 2332d, relating to requests for military assistance to enforce prohibition in certain emergencies, as item 2332e, and moved the item to follow item 2332d, relating to financial transactions.
 
-Pub. L. 104–294, title VI, §604(b)(5), Oct. 11, 1996, 110 Stat. 3506, amended directory language of Pub. L.103–322, title XII, §120005(b), Sept. 13, 1994, 108 Stat. 2023. See 1994 Amendment note below.
+Pub. L. 104–294, title VI, §604(b)(5), Oct. 11, 1996, 110 Stat. 3506, amended directory language of Pub. L. 103–322, title XII, §120005(b), Sept. 13, 1994, 108 Stat. 2023. See 1994 Amendment note below.
 
 Pub. L. 104–201, div. A, title XIV, §1416(c)(2)(B), Sept. 23, 1996, 110 Stat. 2723, which directed amendment of table of sections at beginning of the chapter 133B of this title, that relates to terrorism, by adding item 2332d relating to requests for military assistance to enforce prohibition in certain emergencies, after item 2332c, was executed by making the addition after item 2332c in the table of sections at the beginning of this chapter to reflect the probable intent of Congress. This title does not contain a chapter 133B.
 

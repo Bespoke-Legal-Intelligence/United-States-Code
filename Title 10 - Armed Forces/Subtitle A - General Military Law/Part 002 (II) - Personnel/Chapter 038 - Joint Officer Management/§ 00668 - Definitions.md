@@ -46,7 +46,7 @@ Joint Duty Assignment.—(1) The Secretary of Defense shall by regulation define
 
 (2) The Secretary shall publish a joint duty assignment list showing—
 
-&emsp;(A) the positions that are joint duty assignment positions under such regulation and thenumber of such positions and, of those positions, those that are positions held by general or flag officers and the number of such positions; and
+&emsp;(A) the positions that are joint duty assignment positions under such regulation and the number of such positions and, of those positions, those that are positions held by general or flag officers and the number of such positions; and
 
 &emsp;(B) of the positions listed under subparagraph (A), those that are critical joint duty assignment positions and the number of such positions and, of those positions, those that are positions held by general or flag officers and the number of such positions.
 
@@ -130,7 +130,7 @@ Pub. L. 108–375, div. A, title V, §534(c), Oct. 28, 2004, 118 Stat. 1901, pro
 
 #### Publication of Revised Joint Duty Assignment List
 
-Pub. L. 100–180, div. A, title XIII, §1302(c)(2), Dec. 4, 1987, 101 Stat. 1170, directed the Secretary of Defense topublish a revised list under subsec. (b)(2) of this section not later than six months after Dec. 4, 1987, which would take into account the amendments to this section and section 661 of this title made by Pub. L. 100–180, §1302.
+Pub. L. 100–180, div. A, title XIII, §1302(c)(2), Dec. 4, 1987, 101 Stat. 1170, directed the Secretary of Defense to publish a revised list under subsec. (b)(2) of this section not later than six months after Dec. 4, 1987, which would take into account the amendments to this section and section 661 of this title made by Pub. L. 100–180, §1302.
 
 #### Transition to Joint Officer Personnel Policy
 

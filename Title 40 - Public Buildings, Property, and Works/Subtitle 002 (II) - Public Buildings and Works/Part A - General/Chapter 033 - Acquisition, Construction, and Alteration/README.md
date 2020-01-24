@@ -19,10 +19,13 @@
 | [3315\.](%C2%A7%2003315%20-%20Delegation.md) | Delegation. |
 | [3316\.](%C2%A7%2003316%20-%20Report%20to%20Congress.md) | Report to Congress. |
 | [3317\.](%C2%A7%2003317%20-%20Certain%20authority%20not%20affected.md) | Certain authority not affected. |
+| [3318\.](%C2%A7%2003318%20-%20Lactation%20room%20in%20public%20buildings.md) | Lactation room in public buildings. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–30, §2(b), July 25, 2019, 133 Stat. 1033, which directed adding item 3318 after item 3316, was executed by adding it after item 3317, to reflect the probable intent of Congress.
 
 <b>2016</b>—Pub. L. 114–235, §2(b), Oct. 7, 2016, 130 Stat. 965, added items 3314 to 3317 and struck out former items 3314 "Delegation", 3315 "Report to Congress", and 3316 "Certain authority not affected".
 
@@ -50,3 +53,4 @@
 - [&sect; 03315 - Delegation](%C2%A7%2003315%20-%20Delegation.md)
 - [&sect; 03316 - Report to Congress](%C2%A7%2003316%20-%20Report%20to%20Congress.md)
 - [&sect; 03317 - Certain authority not affected](%C2%A7%2003317%20-%20Certain%20authority%20not%20affected.md)
+- [&sect; 03318 - Lactation room in public buildings](%C2%A7%2003318%20-%20Lactation%20room%20in%20public%20buildings.md)

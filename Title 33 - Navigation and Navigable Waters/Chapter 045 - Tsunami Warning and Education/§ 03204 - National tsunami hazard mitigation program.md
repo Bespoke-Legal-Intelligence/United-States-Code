@@ -22,7 +22,7 @@ The Program conducted under subsection (a) shall include the following:
 
 &emsp;(1) Technical and financial assistance to coastal States, territories, tribes, and local governments to develop and implement activities under this section.
 
-&emsp;(2) Integration of tsunami preparedness and mitigation programs into ongoing State-based hazard warning, resilience planning, and risk management activities, including predisaster planning, emergency response, evacuationplanning, disaster recovery, hazard mitigation, and community development and redevelopment planning programs in affected areas.
+&emsp;(2) Integration of tsunami preparedness and mitigation programs into ongoing State-based hazard warning, resilience planning, and risk management activities, including predisaster planning, emergency response, evacuation planning, disaster recovery, hazard mitigation, and community development and redevelopment planning programs in affected areas.
 
 &emsp;(3) Coordination with other Federal preparedness and mitigation programs to leverage Federal investment, avoid duplication, and maximize effort.
 

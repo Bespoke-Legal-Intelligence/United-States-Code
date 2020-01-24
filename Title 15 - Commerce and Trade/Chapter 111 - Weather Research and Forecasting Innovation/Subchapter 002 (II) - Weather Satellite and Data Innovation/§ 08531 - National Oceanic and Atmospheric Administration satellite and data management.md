@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(v) identify and prioritize new environmental observations that could contribute to existing and future weather models; and
 
-&emsp;&emsp;&emsp;(vi) develop recommendations on a portfolio of environmental observations that balances essential, quality-improving, and new data, private and nonprivate sources, and space-based and Earth-based sources.
+&emsp;&emsp;&emsp;(vi) develop recommendations on a portfolio of environmental observations thatbalances essential, quality-improving, and new data, private and nonprivate sources, and space-based and Earth-based sources.
 
 #### (C) Deadline and report
 
@@ -136,7 +136,7 @@
 
 &emsp;&emsp;&emsp;(ii) to make determinations on how to best use existing or planned data, systems, and assets of the National Oceanic and Atmospheric Administration; and
 
-&emsp;&emsp;&emsp;(iii) only when the objectives of the National Oceanic and Atmospheric Administration cannot be met using a cooperativeresearch and development agreement, grants procurement contract, or cooperative agreement.
+&emsp;&emsp;&emsp;(iii) only when the objectives of the National Oceanic and Atmospheric Administration cannot be met using a cooperative research and development agreement, grants procurement contract, or cooperative agreement.
 
 #### (3) Termination of effectiveness
 
@@ -150,7 +150,7 @@ Not later than 60 days after the date that a transaction agreement is made under
 
 #### (1) In general
 
-&emsp;Not later than 90 days after September 30 of each fiscal year through September 30, 2023, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the use of additional transaction authority by the National Oceanic and Atmospheric Administration during the previous fiscal year.
+&emsp;Not later than 90 days after September 30 of each fiscal year through September 30, 2023,the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the use of additional transaction authority by the National Oceanic and Atmospheric Administration during the previous fiscal year.
 
 #### (2) Contents
 

@@ -50,7 +50,7 @@ When not allowed.—A contractor shall not be allowed to offset an amount otherw
 
 &emsp;&emsp;(A) the certification under section 3502(b) of this title with respect to the cost or pricing data involved was known to be false when signed; or
 
-&emsp;&emsp;(B) the Federal Government proves that, had the cost or pricing data referred to in paragraph (1)(B) been submitted to the Federal Government before date of agreement on the price of the contract (or price of the modification), or, if applicable, under subsection (a)(2), another date agreed on by the parties, the submission of the cost or pricing data would not have resulted in an increase in that price in the amount to be offset.
+&emsp;&emsp;(B) the Federal Government proves that, had the cost or pricing data referred to in paragraph (1)(B) been submitted to the Federal Government before date of agreement on the price of the contract (or price of the modification), or, if applicable, under subsection (a)(2), another date agreed on by the parties, the submission of the cost or pricingdata would not have resulted in an increase in that price in the amount to be offset.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3768.)
 

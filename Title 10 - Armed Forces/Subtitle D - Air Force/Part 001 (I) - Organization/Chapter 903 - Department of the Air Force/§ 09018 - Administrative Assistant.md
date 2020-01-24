@@ -2,7 +2,7 @@
 
 The Secretary of the Air Force may appoint an Administrative Assistant in the Office of the Secretary of the Air Force. The Administrative Assistant shall perform such duties as the Secretary may prescribe.
 
-(Added Pub. L. 99–433, title V, §521(a)(5), Oct. 1, 1986, 100 Stat. 1059, §8018; renumbered §9018, Pub. L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833.)
+(Added Pub. L. 99–433, title V, §521(a)(5), Oct. 1, 1986, 100 Stat. 1059, §8018; renumbered §9018, Pub.L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833.)
 
 #### Amendments
 

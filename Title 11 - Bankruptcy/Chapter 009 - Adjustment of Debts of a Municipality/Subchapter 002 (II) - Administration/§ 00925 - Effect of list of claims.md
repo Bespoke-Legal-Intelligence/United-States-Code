@@ -12,5 +12,5 @@ Section 925 of the Senate amendment regarding venue and fees has been deleted.
 
 #### senate report no. 95–989
 
-Section 926 \[enacted as section 925\] follows the policy contained in section 88(a) of the present Act \[section 408(a) of former title 11\], though certain details are left to the Rules. The language of section 926 is the same as that of proposed 11 U.S.C. 1111, which applies in chapter 11 cases. The list of creditors filed under section 924 is given weight as prima facie evidence of the claims listed (except claims that are listed as disputed, contingent, or unliquidated), which are deemed filed under section 501, obviating the need for listed creditors to file proofs of claim.
+Section 926 \[enacted as section 925\] follows the policy contained in section 88(a) of the present Act \[section408(a) of former title 11\], though certain details are left to the Rules. The language of section 926 is the same as that of proposed 11 U.S.C. 1111, which applies in chapter 11 cases. The list of creditors filed under section 924 is given weight as prima facie evidence of the claims listed (except claims that are listed as disputed, contingent, or unliquidated), which are deemed filed under section 501, obviating the need for listed creditors to file proofs of claim.
 

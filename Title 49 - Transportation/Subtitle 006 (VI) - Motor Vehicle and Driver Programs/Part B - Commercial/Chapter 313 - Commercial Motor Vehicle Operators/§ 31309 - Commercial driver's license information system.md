@@ -180,7 +180,7 @@ Pub. L. 105–178, §4011(d)(5), added subsec. (e) and struck out heading and te
 
 "(3) On request of an employer or prospective employer of an employee and after notification to the employee, the Secretary or the operator of the information system, as the case may be, may make available to the employer or prospective employer information in the information system about the employee.
 
-"(4) On the request of the Secretary, the operator of the information system shall make available to theSecretary information about the driving status and licensing of operators of commercial motor vehicles (including information required by subsection (d)(1) of this section)."
+"(4) On the request of the Secretary, the operator of the information system shall make available to the Secretary information about the driving status and licensing of operators of commercial motor vehicles (including information required by subsection (d)(1) of this section)."
 
 Subsec. (f). Pub. L. 105–178, §4011(d)(8), redesignated subsec. (f) as (d).
 
@@ -212,7 +212,7 @@ Use of grant.—A State may use a grant under this subsection only to implement 
 
 &emsp;"(4)
 
-Government share.—A grant under this subsection to a State or organization may not be for more than 80 percent of the costs incurred by the State or organization in a fiscal year in modernizing the commercial driver's license information system of the State to be compatible with the modernized commercial driver's license information system under section 31309 of title 49, United States Code. In determining these costs, the Secretary shall include in-kind contributions of the State.
+Government share.—A grant under this subsection to a State or organization may not be formore than 80 percent of the costs incurred by the State or organization in a fiscal year in modernizing the commercial driver's license information system of the State to be compatible with the modernized commercial driver's license information system under section 31309 of title 49, United States Code. In determining these costs, the Secretary shall include in-kind contributions of the State.
 
 "(d)
 

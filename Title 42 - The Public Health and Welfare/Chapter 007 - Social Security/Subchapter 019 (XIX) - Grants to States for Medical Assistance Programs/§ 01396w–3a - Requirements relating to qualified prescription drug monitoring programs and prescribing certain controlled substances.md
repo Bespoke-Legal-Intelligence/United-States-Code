@@ -114,7 +114,7 @@ In this section:
 
 #### (ii) Exceptions process
 
-&emsp;&emsp;&emsp;Not later than October 1, 2020, the Secretary, after consultation with the National Association of Medicaid Directors, national health care provider associations, Medicaid beneficiary advocates, and advocates for individuals with rare diseases, shall determine, based on such consultations, the types of health care providers (if any) that should be exempted from the definition of the term "covered provider" for purposes of this section.
+&emsp;&emsp;&emsp;Not later than October 1, 2020, the Secretary, after consultation with the National Association of Medicaid Directors,national health care provider associations, Medicaid beneficiary advocates, and advocates for individuals with rare diseases, shall determine, based on such consultations, the types of health care providers (if any) that should be exempted from the definition of the term "covered provider" for purposes of this section.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1944, as added Pub. L. 115–271, title V, §5042(a), Oct. 24, 2018, 132 Stat. 3967.)
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) a scheme described in section 3702 (other than one based on parimutuel animal racing or jai-alai games) actually was conducted in that State or other governmental entity at any time during the period beginning September 1, 1989, and ending October 2, 1991, pursuant to the law of that State or other governmental entity;
 
-&emsp;(3) a betting, gambling, or wagering scheme, other than a lottery described in paragraph\(1), conducted exclusively in casinos located in a municipality, but only to the extent that—
+&emsp;(3) a betting, gambling, or wagering scheme, other than a lottery described in paragraph (1), conducted exclusively in casinos located in a municipality, but only to the extent that—
 
 &emsp;&emsp;(A) such scheme or a similar scheme was authorized, not later than one year after the effective date of this chapter, to be operated in that municipality; and
 

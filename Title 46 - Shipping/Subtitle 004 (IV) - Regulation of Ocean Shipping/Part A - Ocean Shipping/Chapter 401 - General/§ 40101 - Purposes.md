@@ -2,7 +2,7 @@
 
 The purposes of this part are to—
 
-&emsp;(1) establish a nondiscriminatory regulatory process for the common carriage of goods by water in the foreign commerce of the United States with a minimum of government intervention and regulatory costs;
+&emsp;(1) establish a nondiscriminatory regulatory process for the common carriage of goods bywater in the foreign commerce of the United States with a minimum of government intervention and regulatory costs;
 
 &emsp;(2) provide an efficient and economic transportation system in the ocean commerce of the United States that is, insofar as possible, in harmony with, and responsive to, international shipping practices;
 

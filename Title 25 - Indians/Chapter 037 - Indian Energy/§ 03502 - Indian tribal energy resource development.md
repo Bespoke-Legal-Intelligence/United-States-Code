@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(ii) the development of model environmental policies and tribal laws, including tribal environmental review codes, and the creation and maintenance of a clearinghouse of best environmental management practices; and
 
-&emsp;&emsp;(iii) recommended standards for reviewing the implementation of tribal environmentallaws and policies within tribal judicial or other tribal appeals systems; and
+&emsp;&emsp;(iii) recommended standards for reviewing the implementation of tribal environmental laws and policies within tribal judicial or other tribal appeals systems; and
 
 &emsp;(E) consult with each applicable Indian tribe before adopting or approving a well spacing program or plan applicable to the energy resources of that Indian tribe or the members of that Indian tribe.
 

@@ -1,6 +1,6 @@
 ### §109. Maintenance of other troops
 
-(a) In time of peace, a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands may maintain notroops other than those of its National Guard and defense forces authorized by subsection (c).
+(a) In time of peace, a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands may maintain no troops other than those of its National Guard and defense forces authorized by subsection (c).
 
 (b) Nothing in this title limits the right of a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands to use its National Guard or its defense forces authorized by subsection (c) within its borders in time of peace, or prevents it from organizing and maintaining police or constabulary.
 

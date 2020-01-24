@@ -10,7 +10,7 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 
 &emsp;&emsp;(2) such other expenses as the Secretary of State deems necessary to participation by the United States in the activities of the Organization: <i>Provided</i>, That the provisions of section 287r of this title, and regulations thereunder, applicable to expenses incurred pursuant to subchapter XVII of this chapter shall be applicable to any expenses incurred pursuant to this paragraph.
 
-(June 30, 1948, ch. 756, §2, 62 Stat. 1151; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63 Stat. 954, 972; Sept. 21, 1950, ch. 976, §1(e), 64 Stat. 903; Pub. L. 85–477, ch. V, §502(f), June 30, 1958, 72 Stat. 273.)
+(June 30, 1948, ch. 756, §2, 62 Stat. 1151; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63Stat. 954, 972; Sept. 21, 1950, ch. 976, §1(e), 64 Stat. 903; Pub. L. 85–477, ch. V, §502(f), June 30, 1958, 72 Stat. 273.)
 
 #### References in Text
 
@@ -28,7 +28,7 @@ In subsec. (b)(1), "section 6101 of title 41" substituted for "section 3709 of t
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–477 substituted provisions limiting appropriations to not more than 25 per centum of the expenses for provisions which authorized an appropriation of not more than $1,750,000 per annum for payment of expenses.
 
-<b>1950</b>—Subsec. (a). Joint Res. Sept. 21, 1950, §1(e)(1), (2), increased the authorized annual appropriation from $1,091,739 to $1,750,000, and changed the reference to theOrganization's constitution from article 13(c) to article 13(2)(c) and 13(3).
+<b>1950</b>—Subsec. (a). Joint Res. Sept. 21, 1950, §1(e)(1), (2), increased the authorized annual appropriation from $1,091,739 to $1,750,000, and changed the reference to the Organization's constitution from article 13(c) to article 13(2)(c) and 13(3).
 
 Subsec. (b). Joint Res. Sept. 21, 1950, §1(e)(3), struck out limitation of $95,000 on the authorized annual appropriation for expenses.
 

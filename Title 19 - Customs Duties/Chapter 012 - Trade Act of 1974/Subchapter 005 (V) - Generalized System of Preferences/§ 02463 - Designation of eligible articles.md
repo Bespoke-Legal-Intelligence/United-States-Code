@@ -10,7 +10,7 @@
 
 #### (B) Least-developed beneficiary developing countries
 
-&emsp;&emsp;Except for articles described in subparagraphs (A), (B), and (E) of subsection (b)(1) and articles described in paragraphs (2) and (3) of subsection (b), the President may, in carrying out section 2462(d)(1) of this title and subsection (c)(1) of this section, designate articles as eligible articles only for countries designated as least-developed beneficiary developing countries under section 2462(a)(2) of this title if, after receiving theadvice of the International Trade Commission in accordance with subsection (e) of this section, the President determines that such articles are not import-sensitive in the context of imports from least-developed beneficiary developing countries.
+&emsp;&emsp;Except for articles described in subparagraphs (A), (B), and (E) of subsection (b)(1) and articles described in paragraphs (2) and (3) of subsection (b), the President may, in carrying out section 2462(d)(1) of this title and subsection (c)(1) of this section, designate articles as eligible articles only for countries designated as least-developed beneficiary developing countries under section 2462(a)(2) of this title if, after receiving the advice of the International Trade Commission in accordance with subsection (e) of this section, the President determines that such articles are not import-sensitive in the context of imports from least-developed beneficiary developing countries.
 
 #### (C) Three-year rule
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;The duty-free treatment provided under this subchapter shall apply to any eligible article which is the growth, product, or manufacture of a beneficiary developing country if—
 
-&emsp;&emsp;&emsp;(i) that article is imported directly from a beneficiary developing country into the customs territory of the United States; and
+&emsp;&emsp;&emsp;(i) that article is imported directly from a beneficiary developing country into thecustoms territory of the United States; and
 
 &emsp;&emsp;&emsp;(ii) the sum of—
 
@@ -82,7 +82,7 @@
 
 #### (5) <sup>2</sup> Certain cotton articles
 
-&emsp;Notwithstanding paragraph (3), the President may designate as an eligible article or articles under subsection (a)(1)(B) only for countries designated as least-developed beneficiary developing countries under section 2462(a)(2) of this title cotton articles classifiable undersubheading 5201.00.18, 5201.00.28, 5201.00.38, 5202.99.30, or 5203.00.30 of the Harmonized Tariff Schedule of the United States.
+&emsp;Notwithstanding paragraph (3), the President may designate as an eligible article or articles under subsection (a)(1)(B) only for countries designated as least-developed beneficiary developing countries under section 2462(a)(2) of this title cotton articles classifiable under subheading 5201.00.18, 5201.00.28, 5201.00.38, 5202.99.30, or 5203.00.30 of the Harmonized Tariff Schedule of the United States.
 
 #### (5) <sup>2</sup> Certain luggage and travel articles
 
@@ -156,7 +156,7 @@
 
 &emsp;The President may waive the application of subsection (c)(2) with respect to any eligible article of any beneficiary developing country if, before November 1 of the calendar year beginning after the calendar year for which a determination described in subsection (c)(2)(A) was made with respect to such eligible article, the President—
 
-&emsp;&emsp;(A) receives the advice of the International Trade Commission under section 1332 of thistitle on whether any industry in the United States is likely to be adversely affected by such waiver,
+&emsp;&emsp;(A) receives the advice of the International Trade Commission under section 1332 of this title on whether any industry in the United States is likely to be adversely affected by such waiver,
 
 &emsp;&emsp;(B) determines, based on the considerations described in sections 2461 and 2462(c) of this title and the advice described in subparagraph (A), that such waiver is in the national economic interest of the United States, and
 
@@ -222,7 +222,7 @@ Before designating articles as eligible articles under subsection (a)(1), the Pr
 
 No action under this subchapter may affect any tariff duty imposed by the Legislature of Puerto Rico pursuant to section 1319 of this title on coffee imported into Puerto Rico.
 
-(Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921; amended Pub. L. 106–36, title I, §1001(a)(7), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title I, §111(b), May 18, 2000, 114 Stat. 258; Pub. L. 108–429, title I, §1555(a), (b), Dec. 3, 2004, 118 Stat.2578, 2579; Pub. L. 109–432, div. D, title VIII, §8001, Dec. 20, 2006, 120 Stat. 3195; Pub. L. 114–27, title II, §§202, 204, June 29, 2015, 129 Stat. 372; Pub. L. 115–141, div. M, title V, §502, Mar. 23, 2018, 132 Stat. 1051.)
+(Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921; amended Pub. L. 106–36, title I, §1001(a)(7), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title I, §111(b), May 18, 2000, 114 Stat. 258; Pub. L. 108–429, title I, §1555(a), (b), Dec. 3, 2004, 118 Stat. 2578, 2579; Pub. L. 109–432, div. D, title VIII, §8001, Dec. 20, 2006, 120 Stat. 3195; Pub. L. 114–27, title II, §§202, 204, June 29, 2015, 129 Stat. 372; Pub. L. 115–141, div. M, title V, §502, Mar. 23, 2018, 132 Stat. 1051.)
 
 #### References in Text
 

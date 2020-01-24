@@ -10,7 +10,7 @@ Within the purposes described in subsection (a), funds in the account used under
 
 &emsp;(1) the location of foreign workers admitted into the United States,
 
-&emsp;(2) the location of individuals in the United States requiring and desiring the educational assistance and training for which the funds can be applied, and
+&emsp;(2) the location of individuals in the United States requiring and desiring the educationalassistance and training for which the funds can be applied, and
 
 &emsp;(3) the location of unemployed and underemployed United States workers.
 

@@ -2,7 +2,7 @@
 
 #### (a) Delegation by President; rules and regulations; utilization of goods and services from private enterprise, and facilities and resources of Federal agencies when not competitive with private enterprise
 
-The President may exercise any functions conferred upon him by this chapter through suchagency or officer of the United States Government as he shall direct. The head of any such agency or such officer may from time to time promulgate such rules and regulations as may be necessary to carry out such functions, and may delegate authority to perform any such functions, including, if he shall so specify, the authority successively to redelegate any of such functions to any of his subordinates. In providing technical assistance under this chapter, the head of any such agency or such officer shall utilize, to the fullest extent practicable, goods and professional and other services from private enterprise on a contract basis. In such fields as education, health, housing, or agriculture, the facilities and resources of other Federal agencies shall be utilized when such facilities are particularly or uniquely suitable for technical assistance, are not competitive with private enterprise, and can be made available without interfering unduly with domestic programs.
+The President may exercise any functions conferred upon him by this chapter through such agency or officer of the United States Government as he shall direct. The head of any such agency or such officer may from time to time promulgate such rules and regulations as may be necessary to carry out such functions, and may delegate authority to perform any such functions, including, if he shall so specify, the authority successively to redelegate any of such functions to any of his subordinates. In providing technical assistance under this chapter, the head of any such agency or such officer shall utilize, to the fullest extent practicable, goods and professional and other services from private enterprise on a contract basis. In such fields as education, health, housing, or agriculture, the facilities and resources of other Federal agencies shall be utilized when such facilities are particularly or uniquely suitable for technical assistance, are not competitive with private enterprise, and can be made available without interfering unduly with domestic programs.
 
 #### (b) Eligibility of suppliers; debarment period; causes for debarment; conditions for reinstatement; periodic review
 
@@ -44,7 +44,7 @@ Transfer of Employees.—Any employee in the career service who is transferred p
 
 #### Agency for International Development Budget Submission
 
-Pub. L. 106–429, §101(a) \[title V, §576\], Nov. 6, 2000, 114 Stat. 1900, 1900A–54, provided that: "The Agency for International Development shall submit to the Committees on Appropriations a detailed budget justification that is consistent with the requirements of section 515 \[114 Stat. 1900A–26\], for each fiscal year. The Agency shall submit to the Committees on Appropriations a proposed budget justification format no later than November 15, 2000, or 30 days after the enactment of this Act \[Nov. 6, 2000\], whichever occurs later. The proposed format shall include how the Agency's budget justification will address: (1) estimated levels of obligations for the current fiscal year and actual levels for the 2 previous fiscal years; (2) the President's request for newbudget authority and estimated carryover obligational authority for the budget year; (3) the disaggregation of budget data and staff levels by program and activity for each bureau, field mission, and central office; and (4) the need for a user-friendly, transparent budget narrative."
+Pub. L. 106–429, §101(a) \[title V, §576\], Nov. 6, 2000, 114 Stat. 1900, 1900A–54, provided that: "The Agency for International Development shall submit to the Committees on Appropriations a detailed budget justification that is consistent with the requirements of section 515 \[114 Stat. 1900A–26\], for each fiscal year. The Agency shall submit to the Committees on Appropriations a proposed budget justification format no later than November 15, 2000, or 30 days after the enactment of this Act \[Nov. 6, 2000\], whichever occurs later. The proposed format shall include how the Agency's budget justification will address: (1) estimated levels of obligations for the current fiscal year and actual levels for the 2 previous fiscal years; (2) the President's request for new budget authority and estimated carryover obligational authority for the budget year; (3) the disaggregation of budget data and staff levels by program and activity for each bureau, field mission, and central office; and (4) the need for a user-friendly, transparent budget narrative."
 
 Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §581\], Nov. 29, 1999, 113 Stat. 1535, 1501A–116, provided that: "Beginning with the fiscal year 2001 budget, the Agency for International Development shall submit to the Committees on Appropriations a detailed budget for each fiscal year. The Agency shall submit to the Committees on Appropriations a proposed budget format no later than October 31, 1999, or 30 days after the enactment of this Act \[Nov. 29, 1999\], whichever occurs later. The proposed format shall include how the Agency's budget submission will address: (1) estimated levels of obligations for the current fiscal year and actual levels for the two previous fiscal years; (2) the President's request for new budget authority and estimated carryover obligational authority for the budget year; (3) the disaggregation of budget data by program and activity for each bureau, field mission, and central office; and (4) staff levels identified by program."
 
@@ -58,7 +58,7 @@ Reorganization Plan No. 2 of 1979, 44 F.R. 41165, 93 Stat. 1378, which establish
 
 Ex. Ord. No. 10973, Nov. 3, 1961, 26 F.R. 10469, as amended, which related to the administration of foreign assistance and related functions, was revoked by Ex. Ord. No. 12163, §1–903(a)(1), Sept. 29, 1979, 44 F.R. 56679, eff. Oct. 1, 1979, set out below.
 
-Ex. Ord. No. 10973, Nov. 3, 1961, 26 F.R. 10469, as amended, was superseded insofar as any provision therein was in conflict with any provision of Ex. Ord. No. 11579, Jan. 19, 1971, 36 F.R. 969, set out as a note under section 2191 of this title.
+Ex. Ord. No. 10973, Nov. 3, 1961, 26 F.R. 10469, as amended, was superseded insofar as any provision therein was in conflict with any provision of Ex. Ord. No. 11579, Jan. 19, 1971, 36 F.R. 969, formerly set out as a note under section 2191 of this title.
 
 #### Ex. Ord. No. 12163. Administration of Foreign Assistance and Related Functions
 
@@ -110,7 +110,7 @@ Department of State
 
 (b) The functions under section 653 of the Act \[22 U.S.C. 2413\] delegated to the Secretary shall be exercised in consultation with the Secretary of Defense, insofar as they relate to functions under the Act administered by the Department of Defense, and the Director of the Office of Management and Budget.
 
-(c) The functions under sections 239(f), 620(e), 620(g), 620(j), 620(q), and 620(s) of the Act \[22 U.S.C. 2199(f), 2370(e), (g), (j), (q), (s)\] delegated to the Secretary shall be exercised in consultation with the Administrator of the United States Agency for International Development.
+(c) The functions under sections 239(f), 620(e), 620(g), 620(j), 620(q), and 620(s) of the Act \[former 22 U.S.C. 2199(f), 22 U.S.C. 2370(e), (g), (j), (q), (s)\] delegated to the Secretary shall be exercised in consultation with theAdministrator of the United States Agency for International Development.
 
 (d) The Secretary shall perform all public information functions abroad with respect to the foreign assistance, aid, and development programs of the United States Government, to the extent such functions are not specifically assigned by statute to be performed by a different officer.
 
@@ -194,7 +194,7 @@ Other Agencies
 
 Additional Delegations and Limitations of Authority; Consultation
 
-1–601. <i>General Delegation of Functions</i>. There are hereby delegated to the heads of agencies having responsibilities for carrying out the provisions of the Act \[this chapter\] all functions conferred upon the President by:
+1–601. <i>General Delegation of Functions</i>. There are hereby delegated to the heads of agencies having responsibilities for carrying out the provisions of the Act\[this chapter\] all functions conferred upon the President by:
 
 (a) section 654 \[22 U.S.C. 2414\] (except as reserved to the President); and
 
@@ -218,7 +218,7 @@ Reserved Functions
 
 (a) The functions conferred upon the President by sections 122(e), 298(a), 493, 504(b), 613(a), 614(a), 620(a), 620(d), 620(x), 620A, 620C(c), 621(a), 622(b), 622(c), 633(a), 633(b), 640B, and 663(b) of the Act \[22 U.S.C. 2151t(e), 2220c(a), 2292b, 2312(b), 2363(a), 2364(a), 2370(a), (d), (x), 2371, 2373(c), 2381(a), 2382(b), (c), 2393(a), (b), 2399c, and 2423(b)\].
 
-(b) The functions conferred upon the President by the Act \[this chapter\] and section 408(b) of the Mutual Security Act of 1954 \[22 U.S.C. 1928\] with respect to the appointment of officers required to be appointed by and with the advice and consent of the Senate and with respect to the appointment of officers pursuant to sections 233(b) and 624(c) of the Act \[22 U.S.C. 2193(b), 2384(c)\].
+(b) The functions conferred upon the President by the Act \[this chapter\] and section 408(b) of the Mutual Security Act of 1954 \[22 U.S.C. 1928\] with respect to the appointment of officers required to be appointed by and with the advice and consent of the Senate and with respect to the appointment of officers pursuant to sections 233(b) and 624(c) of the Act \[former 22 U.S.C. 2193(b), 22 U.S.C. 2384(c)\].
 
 (c) The functions conferred upon the President with respect to determinations, certifications, directives, or transfers of funds, as the case may be, by sections 209(d), 303, 465(b), 490(h), 505(d)(2)(A), 505(d)(3), 506(a), 552(c), 552(e), 610, 614(c), 620E, 632(b), 633A, 663(a) of the Act \[22 U.S.C. 2169(d), 2223, 2275(b), 2291j(h), 2314(d)(2)(A), (d)(3), 2318(a), 2348a(c), (e), 2360, 2364(c), 2375, 2392(b), 2393a, 2423(a)\].
 
@@ -248,7 +248,7 @@ Reserved Functions
 
 &emsp;(a) request and receive information from any agency that is subject to this delegation;
 
-&emsp;(b) carry out all responsibilities associated with implementing the Government Performance and ResultsAct \[Pub. L. 103–62, see Short Title of 1993 Amendment note set out under section 1101 of Title 31, Money and Finance\], the Government Management Reform Act \[Pub. L. 103–356, see Short Title of 1994 Amendment note set out under section 3301 of Title 31\], and other comparable government-wide statutes dealing with management; and
+&emsp;(b) carry out all responsibilities associated with implementing the Government Performance and Results Act \[Pub. L. 103–62, see Short Title of 1993 Amendment note set out under section 1101 of Title 31, Money and Finance\], the Government Management Reform Act \[Pub. L. 103–356, see Short Title of 1994 Amendment note set out under section 3301 of Title 31\], and other comparable government-wide statutes dealing with management; and
 
 &emsp;(c) carry out all statutory budget and policy coordination responsibilities assigned to the Director of the Office of Management and Budget by statute or Executive order.
 
@@ -288,7 +288,7 @@ General Provisions
 
 &emsp;(1) Executive Order No. 10973 \[22 U.S.C. 2381 note\] of November 3, 1961, as amended;
 
-&emsp;(2) section 2(a) of Executive Order No. 11579 \[22 U.S.C. 2191 note\], of January 19, 1971; and
+&emsp;(2) section 2(a) of Executive Order No. 11579 \[former 22 U.S.C. 2191 note\], of January 19, 1971; and
 
 &emsp;(3) Executive Order No. 10893 \[22 U.S.C. 2382 note\] of November 8, 1960.
 

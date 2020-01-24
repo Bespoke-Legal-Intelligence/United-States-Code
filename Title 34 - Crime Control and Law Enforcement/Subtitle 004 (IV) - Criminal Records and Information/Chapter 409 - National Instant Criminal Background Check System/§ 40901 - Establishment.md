@@ -26,7 +26,7 @@ The Attorney General shall expedite—
 
 #### (d) Notification of licensees
 
-On establishment of the system under this section, the Attorney General shall notify each licensee and the chief law enforcement officer of each State of the existence and purpose of thesystem and the means to be used to contact the system.
+On establishment of the system under this section, the Attorney General shall notify each licensee and the chief law enforcement officer of each State of the existence and purpose of the system and the means to be used to contact the system.
 
 #### (e) Administrative provisions
 
@@ -76,7 +76,7 @@ On establishment of the system under this section, the Attorney General shall no
 
 &emsp;&emsp;&emsp;A certification required under clause (i) shall state, for the applicable period—
 
-&emsp;&emsp;&emsp;&emsp;(I) the total number of records of the Federal department or agency demonstrating that a person falls within one of the categories described in subsection (g) or (n) of section 922 of title 18;
+&emsp;&emsp;&emsp;&emsp;(I) the total number of records of the Federal department or agency demonstrating that a person falls within oneof the categories described in subsection (g) or (n) of section 922 of title 18;
 
 &emsp;&emsp;&emsp;&emsp;(II) for each category of records described in subclause (I), the total number of records of the Federal department or agency that have been provided to the Attorney General; and
 
@@ -144,7 +144,7 @@ On establishment of the system under this section, the Attorney General shall no
 
 #### (2) Other authority
 
-&emsp;The Attorney General shall develop such computer software, design and obtain such telecommunications and computer hardware, and employ such personnel, as are necessary to establish and operate the system in accordance with this section.
+&emsp;The Attorney General shall develop such computer software, design and obtain such telecommunications and computer hardware, and employ such personnel, as are necessaryto establish and operate the system in accordance with this section.
 
 #### (f) Written reasons provided on request
 
@@ -156,7 +156,7 @@ If the system established under this section informs an individual contacting th
 
 #### (h) Regulations
 
-After 90 days' notice to the public and an opportunity for hearing by interested parties, theAttorney General shall prescribe regulations to ensure the privacy and security of the information of the system established under this section.
+After 90 days' notice to the public and an opportunity for hearing by interested parties, the Attorney General shall prescribe regulations to ensure the privacy and security of the information of the system established under this section.
 
 #### (i) Prohibition relating To establishment of registration systems with respect to firearms
 
@@ -230,7 +230,7 @@ Pub. L. 100–690, title VI, §6213, Nov. 18, 1988, 102 Stat. 4360, provided tha
 
 "(a)
 
-Identification of Felons Ineligible To Purchase Handguns.—The Attorney General shall develop a system for immediate and accurate identification of felons who attempt to purchase 1 or more firearms but are ineligible to purchase firearms by reason of section 922(g)(1) of title 18, United States Code. The system shall be accessible to dealers but only for the purpose of determining whether a potential purchaser is a convicted felon. The Attorney General shall establish a plan (including a cost analysis of the proposed system) for implementation of the system. In developing the system, the Attorney General shall consult with the Secretary of the Treasury, other Federal, State, andlocal law enforcement officials with expertise in the area, and other experts. The Attorney General shall begin implementation of the system 30 days after the report to the Congress as provided in subsection (b).
+Identification of Felons Ineligible To Purchase Handguns.—The Attorney General shall develop a system for immediate and accurate identification of felons who attempt to purchase 1 or more firearms but are ineligible to purchase firearms by reason of section 922(g)(1) of title 18, United States Code. The system shall be accessible to dealers but only for the purpose of determining whether a potential purchaser is a convicted felon. The Attorney General shall establish a plan (including a cost analysis of the proposed system) for implementation of the system. In developing the system, the Attorney General shall consult with the Secretary of the Treasury, other Federal, State, and local law enforcement officials with expertise in the area, and other experts. The Attorney General shall begin implementation of the system 30 days after the report to the Congress as provided in subsection (b).
 
 "(b)
 
@@ -286,7 +286,7 @@ Memorandum for the Secretary of Defense\[,\] the Attorney General\[, and\] the S
 
 For more than 20 years, the Federal Government has worked to keep guns out of the wrong hands through background checks. This critical effort in addressing gun violence has prevented more than two million prohibited firearms purchases from being completed. But tens of thousands of people are still injured or killed by firearms every year—in many cases by guns that were sold legally but then stolen, misused, or discharged accidentally. Developing and promoting technology that would help prevent these tragedies is an urgent priority.
 
-In 2013, I directed the Department of Justice to review the availability and most effective use of new gunsafety technologies, such as devices requiring a scan of the owner's fingerprint before a gun can fire. In its report, the Department made clear that technological advancements in this area could help reduce accidental deaths and the use of stolen guns in criminal activities.
+In 2013, I directed the Department of Justice to review the availability and most effective use of new gun safety technologies, such as devices requiring a scan of the owner's fingerprint before a gun can fire. In its report, the Department made clear that technological advancements in this area could help reduce accidental deaths and the use of stolen guns in criminal activities.
 
 Millions of dollars have already been invested to support research into a broad range of concepts for improving gun safety. We must all do our part to continue to advance this research and encourage its practical application, and it is possible to do so in a way that makes the public safer and is consistent with the Second Amendment. The Federal Government has a unique opportunity to do so, as it is the single largest purchaser of firearms in the country. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
 

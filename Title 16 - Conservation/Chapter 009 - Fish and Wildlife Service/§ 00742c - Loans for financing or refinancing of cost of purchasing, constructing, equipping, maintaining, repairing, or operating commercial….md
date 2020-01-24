@@ -64,7 +64,7 @@ In subsec. (b)(8), "section 50501 of title 46" substituted for "section 2 of the
 
 Subsec. (b)(7). Pub. L. 91–387, §2, permitted a national of the United States to be an applicant for a fishery loan.
 
-Subsec. (b)(8). Pub. L. 91–387, §2, substituted provision for Secretary's determination of United States citizenship of a corporation, partnership, or association by satisfactorily meeting all requirements set forth in section 802 of title 46 for determination of citizenship of such entity operating a vessel in coastwise trade, for prior provision for establishment of such citizenship within meaning of section 802 of title 46 to satisfaction of the Secretary.
+Subsec. (b)(8). Pub. L. 91–387, §2, substituted provision for Secretary's determination of United States citizenship of a corporation, partnership, or association by satisfactorily meeting all requirements set forth in section 802 of title 46 for determination of citizenship ofsuch entity operating a vessel in coastwise trade, for prior provision for establishment of such citizenship within meaning of section 802 of title 46 to satisfaction of the Secretary.
 
 Subsec. (b)(9). Pub. L. 91–387, §2, added par. (9).
 

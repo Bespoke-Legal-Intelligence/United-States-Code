@@ -1,20 +1,20 @@
 ### §326. Limitation on compensation of trustee
 
-(a) In a case under chapter 7 or 11, the court may allow reasonable compensation under section 330 of this title of the trustee for the trustee's services, payable after the trustee renders such services, not to exceed 25 percent on the first $5,000 or less, 10 percent on any amount in excess of $5,000 but not in excess of $50,000, 5 percent on any amount in excess of $50,000 but not in excess of $1,000,000, and reasonable compensation not to exceed 3 percent of such moneys in excess of $1,000,000, upon all moneys disbursed or turned over in the case by the trustee to parties in interest, excluding the debtor, but including holders of secured claims.
+(a) In a case under chapter 7 or 11, other than a case under subchapter V of chapter 11, the court may allow reasonable compensation under section 330 of this title of the trustee for the trustee's services, payable after the trustee renders such services, not to exceed 25 percent on the first $5,000 or less, 10 percent on any amount in excess of $5,000 but not in excess of $50,000, 5 percent on any amount in excess of $50,000 but not in excess of $1,000,000, and reasonable compensation not to exceed 3 percent of such moneys in excess of $1,000,000, upon all moneys disbursed or turned over in the case by the trustee to parties in interest, excluding the debtor, but including holders of secured claims.
 
-(b) In a case under chapter 12 or 13 of this title, the court may not allow compensation for services or reimbursement of expenses of the United States trustee or of a standing trustee appointed under section 586(b) of title 28, but may allow reasonable compensation under section 330 of this title of a trustee appointed under section 1202(a) or 1302(a) of this title for the trustee's services, payable after the trustee renders such services, not to exceed five percent upon all payments under the plan.
+(b) In a case under subchapter V of chapter 11 or chapter 12 or 13 of this title, the court may not allow compensation for services or reimbursement of expenses of the United States trustee or of a standing trustee appointed under section 586(b) of title 28, but may allow reasonable compensation under section 330 of this title of a trustee appointed under section 1202(a) or 1302(a) of this title for the trustee's services, payable after the trustee renders such services, not to exceed five percent upon all payments under the plan.
 
 (c) If more than one person serves as trustee in the case, the aggregate compensation of such persons for such service may not exceed the maximum compensation prescribed for a single trustee by subsection (a) or (b) of this section, as the case may be.
 
 (d) The court may deny allowance of compensation for services or reimbursement of expenses of the trustee if the trustee failed to make diligent inquiry into facts that would permit denial of allowance under section 328(c) of this title or, with knowledge of such facts, employed a professional person under section 327 of this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2562; Pub. L. 98–353, title III, §430(a), (b), July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §209, Oct. 27, 1986, 100 Stat. 3098; Pub. L. 103–394, title I, §107, Oct. 22, 1994, 108 Stat. 4111.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2562; Pub. L. 98–353, title III, §430(a), (b), July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §209, Oct. 27, 1986, 100 Stat. 3098; Pub. L. 103–394, title I, §107, Oct. 22, 1994, 108 Stat. 4111; Pub. L. 116–54, §4(a)(4), Aug. 23, 2019, 133 Stat. 1085.)
 
 #### Historical and Revision Notes
 
 #### legislative statements
 
-Section 326(a) of the House amendment modifies a provision as contained in H.R. 8200 as passed by the House. The percentage limitation on the fees of a trustee contained in the House bill is retained, but no additional percentage is specified for cases in which a trustee operates the business of the debtor. Section 326(b) of the Senate amendment is deleted as an unnecessary restatement of the limitation contained in section 326(a) as modified. The provision contained in section 326(a) of the Senate amendment authorizing a trustee to receive a maximum fee of $150 regardless of the availability of assets in the estate is deleted. It will not be necessary in view of the increase in section 326(a) and the doubling of the minimum fee as provided in section 330(b).
+Section 326(a) of the House amendment modifies a provision as contained in H.R. 8200 as passed by the House. The percentage limitation on the fees of a trustee contained in the House bill is retained, but no additional percentage is specified for cases in which a trustee operates the business of the debtor. Section 326(b) of the Senate amendment is deleted as an unnecessary restatement of the limitation contained in section 326(a)as modified. The provision contained in section 326(a) of the Senate amendment authorizing a trustee to receive a maximum fee of $150 regardless of the availability of assets in the estate is deleted. It will not be necessary in view of the increase in section 326(a) and the doubling of the minimum fee as provided in section 330(b).
 
 Section 326(b) of the House amendment derives from section 326(c) of H.R. 8200 as passed by the House. It is a conforming amendment to indicate a change with respect to the selection of a trustee in a chapter 13 case under section 1302(a) of title 11.
 
@@ -36,9 +36,13 @@ Subsection (e) \[enacted as (d)\] permits the court to deny compensation to a tr
 
 #### Amendments
 
+<b>2019</b>—Subsec. (a). Pub. L. 116–54, §4(a)(4)(A), inserted ", other than a case under subchapter V of chapter 11" after "7 or 11".
+
+Subsec. (b). Pub. L. 116–54, §4(a)(4)(B), inserted "subchapter V of chapter 11 or" after "In a case under".
+
 <b>1994</b>—Subsec. (a). Pub. L. 103–394 substituted "25 percent on the first $5,000 or less, 10 percent on any amount in excess of $5,000 but not in excess of $50,000, 5 percent on any amount in excess of $50,000 but not in excess of $1,000,000, and reasonable compensation not to exceed 3 percent of such moneys in excess of $1,000,000" for "fifteen percent on the first $1,000 or less, six percent on any amount in excess of $1,000 but not in excess of $3,000, and three percent on any amount in excess of $3,000".
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–554 amended subsec. (b) generally, substituting "under chapter 12 or 13 of thistitle" for "under chapter 13 of this title", "expenses of the United States trustee or of a standing trustee appointed under section 586(b) of title 28" for "expenses of a standing trustee appointed under section 1302(d) of this title", and "under section 1202(a) or 1302(a) of this title" for "under section 1302(a) of this title".
+<b>1986</b>—Subsec. (b). Pub. L. 99–554 amended subsec. (b) generally, substituting "under chapter 12 or 13 of this title" for "under chapter 13 of this title", "expenses of the United States trustee or of a standing trustee appointed under section 586(b) of title 28" for "expenses of a standing trustee appointed under section 1302(d) of this title", and "under section 1202(a) or 1302(a) of this title" for "under section 1302(a) of this title".
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–353, §430(a), substituted "and three percent on any amount in excess of $3000" for "three percent on any amount in excess of $3,000 but not in excess of $20,000, two percent on any amount in excess of $20,000 but not in excess of $50,000, and one percent on any amount in excess of $50,000".
 
@@ -47,6 +51,10 @@ Subsec. (d). Pub. L. 98–353, §430(b), amended subsec. (d) generally. Prior to
 &emsp;"(1) failed to make diligent inquiry into facts that would permit denial of allowance under section 328(c) of this title; or
 
 &emsp;"(2) with knowledge of such facts, employed a professional person under section 327 of this title."
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

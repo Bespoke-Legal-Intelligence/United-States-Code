@@ -198,7 +198,7 @@ Location of projects.—Territorial highway program projects (other than those d
 
 #### References in Text
 
-Section 215 as in effect on the day before the enactment of this section and section 215 of this title as in effect on the day before the date of enactment of this subsection, referred to in subsec. (c)(5)(A), (D), probablymean section 215 of this title as in effect on the day before the date of enactment of Pub. L. 112–141, which was approved July 6, 2012, and which amended this section generally and repealed section 215.
+Section 215 as in effect on the day before the enactment of this section and section 215 of this title as in effect on the day before the date of enactment of this subsection, referred to in subsec. (c)(5)(A), (D), probably mean section 215 of this title as in effect on the day before the date of enactment of Pub. L. 112–141, which was approved July 6, 2012, and which amended this section generally and repealed section 215.
 
 #### Amendments
 

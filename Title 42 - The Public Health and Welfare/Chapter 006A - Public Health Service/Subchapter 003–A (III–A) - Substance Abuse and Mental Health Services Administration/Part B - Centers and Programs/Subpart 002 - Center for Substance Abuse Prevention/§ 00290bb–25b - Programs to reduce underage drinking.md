@@ -36,7 +36,7 @@ It is the sense of the Congress that:
 
 &emsp;(6) The National Collegiate Athletic Association, its member colleges and universities, and athletic conferences should affirm a commitment to a policy of discouraging alcohol use among underage students and other young fans.
 
-&emsp;(7) Alcohol is a unique product and should be regulated differently than other products by the States and Federal Government. States have primary authority to regulate alcohol distribution and sale, and the Federal Government should support and supplement these State efforts. States also have a responsibility to fight youth access to alcohol and reduce underage drinking. Continued State regulation and licensing of the manufacture, importation, sale, distribution, transportation and storage of alcoholic beverages are clearly in the public interest and are critical to promoting responsible consumption, preventing illegal access to alcohol by persons under 21 years of age from commercial and non-commercial sources, maintaining industry integrity and an orderly marketplace, and furthering effective State tax collection.
+&emsp;(7) Alcohol is a unique product and should be regulated differently than other products by the States and Federal Government. States have primary authority to regulate alcoholdistribution and sale, and the Federal Government should support and supplement these State efforts. States also have a responsibility to fight youth access to alcohol and reduce underage drinking. Continued State regulation and licensing of the manufacture, importation, sale, distribution, transportation and storage of alcoholic beverages are clearly in the public interest and are critical to promoting responsible consumption, preventing illegal access to alcohol by persons under 21 years of age from commercial and non-commercial sources, maintaining industry integrity and an orderly marketplace, and furthering effective State tax collection.
 
 #### (c) Interagency coordinating committee; annual report on State underage drinking prevention and enforcement activities
 
@@ -254,7 +254,7 @@ It is the sense of the Congress that:
 
 #### (D) Accountability
 
-&emsp;&emsp;On the date on which the Secretary first publishes a notice in the Federal Register soliciting applications for grants under this paragraph, the Secretary shall include in the notice achievement indicators for the program authorized under this paragraph. The achievement indicators shall be designed—
+&emsp;&emsp;On the date on which the Secretary first publishes a notice in the Federal Register soliciting applications for grants under thisparagraph, the Secretary shall include in the notice achievement indicators for the program authorized under this paragraph. The achievement indicators shall be designed—
 
 &emsp;&emsp;&emsp;(i) to measure the impact that the statewide coalitions assisted under this paragraph are having on the institutions of higher education and the surrounding communities, including changes in the number of incidents of any kind in which students have abused alcohol or consumed alcohol while under the age of 21 (including violations, physical assaults, sexual assaults, reports of intimidation, disruptions of school functions, disruptions of student studies, mental health referrals, illnesses, or deaths);
 
@@ -420,7 +420,7 @@ The Drug-Free Communities Act of 1997, referred to in subsec. (e)(1)(G), is Pub.
 
 #### Amendments
 
-<b>2016</b>—Subsec. (c)(1)(B). Pub. L. 114–255, §6001(c)(1), substituted "Assistant Secretary for Mental Healthand Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration".
+<b>2016</b>—Subsec. (c)(1)(B). Pub. L. 114–255, §6001(c)(1), substituted "Assistant Secretary for Mental Health and Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration".
 
 Subsec. (c)(3). Pub. L. 114–255, §9016(1), substituted "each of the fiscal years 2018 through 2022." for "fiscal year 2007, and $1,000,000 for each of the fiscal years 2008 through 2010."
 

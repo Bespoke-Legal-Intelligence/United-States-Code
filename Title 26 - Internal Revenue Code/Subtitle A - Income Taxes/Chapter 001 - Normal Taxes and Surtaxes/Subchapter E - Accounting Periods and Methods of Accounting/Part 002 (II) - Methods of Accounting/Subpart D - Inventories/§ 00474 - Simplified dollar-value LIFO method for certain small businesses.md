@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a taxpayer which is a member of a controlled group, all persons whichare component members of such group shall be treated as 1 taxpayer for purposes of determining the gross receipts of the taxpayer.
+&emsp;&emsp;In the case of a taxpayer which is a member of a controlled group, all persons which are component members of such group shall be treated as 1 taxpayer for purposes of determining the gross receipts of the taxpayer.
 
 #### (B) Controlled group defined
 

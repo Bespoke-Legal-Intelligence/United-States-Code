@@ -6,7 +6,7 @@
 
 &emsp;(A) for children of individuals whose pay is disbursed by the Chief Administrative Officer of the House of Representatives and children of support personnel of the House of Representatives;
 
-&emsp;(B) if places are available after admission of all children who are eligible under subparagraph (A), for children of individuals whose pay is disbursed by the Secretary of the Senate and children of employees of agencies of the legislative branch; and
+&emsp;(B) if places are available after admission of all children who are eligible under subparagraph (A), for children of individuals whosepay is disbursed by the Secretary of the Senate and children of employees of agencies of the legislative branch; and
 
 &emsp;(C) if places are available after admission of all children who are eligible under subparagraph (A) or (B), for children of employees of other offices, departments, and agencies of the Federal Government.
 
@@ -42,13 +42,19 @@ In carrying out subsection (a), the Chief Administrative Officer is authorized�
 
 (1) There is established in the Treasury of the United States a revolving fund for the House of Representatives to be known as the "House Child Care Center Revolving Fund" (hereafter in this section referred to as the "Fund"), consisting of the amounts received under subsection (c) and any other funds deposited by the Chief Administrative Officer of the House of Representatives from amounts received by the House of Representatives with respect to the operation of the center. Except as provided in paragraphs (2) and (3), the Fund shall be the exclusive source for all salaries and expenses for activities carried out under this section.
 
-(2) With respect to employees of the center, the House of Representatives shall make Government contributions and payments for health insurance, retirement, employment taxes, and similar benefits and programs in the same manner as such contributions and payments are made for other employees of the House of Representatives.
+(2) With respect to employees of the center, the House of Representatives shall make Government contributions and payments for health insurance, retirement, employment taxes, and similar benefits and programs (including the subsidies provided on behalf of employees of the center as a result of reductions in the amount of tuition otherwise charged with respect to children of such employees under paragraph (4)) in the same manner as such contributions and payments are made for other employees of the House of Representatives.
 
 (3) The House of Representatives shall make payments from amounts provided in appropriations acts for salaries and expenses of the Office of the Chief Administrative Officer for the following activities carried out under this section:
 
 &emsp;(A) The payment of the salary of the director of the center.
 
-&emsp;(B) The reimbursement of individuals employed by the center for the cost of training classes and conferences in connection with theprovision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
+&emsp;(B) The reimbursement of individuals employed by the center for the cost of training classes and conferences in connection with the provision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
+
+(4) In the case of a child of an employee of the center who is furnished care at the center, the Chief Administrative Officer shall reduce the amount of tuition otherwise charged with respect to such child during a month by the greater of—
+
+&emsp;(A) 50 percent; or
+
+&emsp;(B) such percentage as may be necessary to ensure that the total amount of tuition paid by the employee with respect to all children of the employee who are furnished care at the center during the month does not exceed $1,000.
 
 #### (e) Fund as category of allowances and expenses
 
@@ -64,7 +70,7 @@ As used in this section—
 
 &emsp;(3) the term "support personnel" means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.
 
-(Pub. L. 102–90, title III, §312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §319(a), Oct. 6, 1992, 106 Stat. 1725; Pub. L. 104–186, title II, §221(5), (6), Aug. 20, 1996, 110 Stat. 1749; Pub. L. 106–100, §1(a), Nov. 12, 1999, 113 Stat. 1332; Pub. L. 108–7, div. H, title I, §108(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–8, div. G, title I, §106, Mar. 11, 2009, 123 Stat. 818; Pub. L. 111–248, §2(a)(1), (b), Sept. 30, 2010, 124 Stat. 2625; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 102–90, title III, §312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §319(a), Oct. 6, 1992, 106 Stat. 1725; Pub. L. 104–186, title II, §221(5), (6), Aug. 20, 1996, 110 Stat. 1749; Pub. L. 106–100, §1(a), Nov. 12, 1999, 113 Stat. 1332; Pub. L. 108–7, div. H, title I, §108(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–8, div. G, title I, §106, Mar.11, 2009, 123 Stat. 818; Pub. L. 111–248, §2(a)(1), (b), Sept. 30, 2010, 124 Stat. 2625; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 116–94, div. E, title I, §117(a), (b), Dec. 20, 2019, 133 Stat. 2761.)
 
 #### Codification
 
@@ -73,6 +79,10 @@ Section was classified to section 184g of former Title 40, prior to the enactmen
 Section is comprised of section 312 of Pub. L. 102–90. Another subsec. (f) of section 312 of Pub. L. 102–90 repealed sections 184b to 184f of former Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (d)(2). Pub. L. 116–94, §117(b), inserted "(including the subsidies provided on behalf of employees of the center as a result of reductions in the amount of tuition otherwise charged with respect to children of such employees under paragraph (4))" after "similar benefits and programs".
+
+Subsec. (d)(4). Pub. L. 116–94, §117(a), added par. (4).
 
 <b>2010</b>—Subsec. (d)(1). Pub. L. 111–248, §2(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "There is established an account which, subject to appropriation, and except as provided in paragraphs (2) and (3), shall be the exclusive source for all salaries and expenses for activities carried out under this section. The Chief Administrative Officer shall deposit in the account any amounts received under subsection (c) of this section."
 
@@ -109,6 +119,10 @@ Salaries and Expenses', not more than $45,000 may be expended to carry out this 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 "Government Publishing Office" substituted for "Government Printing Office" in subsec. (f)(2) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–94, div. E, title I, §117(c), Dec. 20, 2019, 133 Stat. 2761, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 2020 and each succeeding fiscal year."
 
 #### Effective Date of 2010 Amendment
 

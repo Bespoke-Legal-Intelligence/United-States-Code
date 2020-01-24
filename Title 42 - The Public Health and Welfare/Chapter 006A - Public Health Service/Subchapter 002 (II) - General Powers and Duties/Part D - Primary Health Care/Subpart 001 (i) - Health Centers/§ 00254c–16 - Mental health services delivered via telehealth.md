@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible entity
 
-&emsp;The term "eligible entity" means a public or nonprofit private telehealth provider networkthat offers services that include mental health services provided by qualified mental health providers.
+&emsp;The term "eligible entity" means a public or nonprofit private telehealth provider network that offers services that include mental health services provided by qualified mental health providers.
 
 #### (2) Qualified mental health professionals
 
@@ -82,7 +82,7 @@ Not later than 4 years after October 26, 2002, the Secretary shall prepare and s
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section, $20,000,000 for fiscal year 2002 and such sums as may be necessary for fiscal years 2003 through 2006.
+There are authorized to be appropriated to carry out this section, $20,000,000 for fiscal year2002 and such sums as may be necessary for fiscal years 2003 through 2006.
 
 (July 1, 1944, ch. 373, title III, §330K, as added Pub. L. 107–251, title II, §221, Oct. 26, 2002, 116 Stat. 1640; amended Pub. L. 108–163, §2(d), Dec. 6, 2003, 117 Stat. 2021.)
 

@@ -6,7 +6,7 @@ From the funds appropriated and made available to carry out this subpart for any
 
 #### (b) Survey of Statewide Independent Living Councils
 
-The Administrator shall conduct a survey of such Statewide Independent Living Councils regarding training and technical assistance needsin order to determine funding priorities for such training and technical assistance.
+The Administrator shall conduct a survey of such Statewide Independent Living Councils regarding training and technical assistance needs in order to determine funding priorities for such training and technical assistance.
 
 #### (c) Submission of application; peer review
 

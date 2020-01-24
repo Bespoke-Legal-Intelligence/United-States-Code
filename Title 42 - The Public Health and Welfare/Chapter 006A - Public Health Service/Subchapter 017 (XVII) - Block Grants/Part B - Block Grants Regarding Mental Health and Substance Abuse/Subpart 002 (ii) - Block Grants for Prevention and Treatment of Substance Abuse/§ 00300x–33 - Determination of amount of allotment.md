@@ -6,11 +6,11 @@
 
 &emsp;Subject to subsection (b), the Secretary shall determine the amount of the allotment required in section 300x–21 of this title for a State for a fiscal year as follows:
 
-&emsp;&emsp;(A) The formula established in paragraph (1) of section 300x–7(a) of this title shallapply to this subsection to the same extent and in the same manner as the formula applies for purposes of section 300x–7(a) of this title, except that, in the application of such formula for purposes of this subsection, the modifications described in subparagraph (B) shall apply.
+&emsp;&emsp;(A) The formula established in paragraph (1) of section 300x–7(a) of this title shall apply to this subsection to the same extent and in the same manner as the formula applies for purposes of section 300x–7(a) of this title, except that, in the application of such formula for purposes of this subsection, the modifications described in subparagraph (B) shall apply.
 
 &emsp;&emsp;(B) For purposes of subparagraph (A), the modifications described in this subparagraph are as follows:
 
-&emsp;&emsp;&emsp;(i) The amount specified in paragraph (2)(A) of section 300x–7(a) of this title is deemed to be the amount appropriated under section 300x–35(a) of this title for allotments under section 300x–21 of this title for the fiscal year involved.
+&emsp;&emsp;&emsp;(i) The amount specified in paragraph (2)(A) of section 300x–7(a) of this title isdeemed to be the amount appropriated under section 300x–35(a) of this title for allotments under section 300x–21 of this title for the fiscal year involved.
 
 &emsp;&emsp;&emsp;(ii) The term "P" is deemed to have the meaning given in paragraph (2) of this subsection. Section 300x–7(a)(5)(B) of this title applies to the data used in determining such term for the States.
 
@@ -78,11 +78,11 @@
 
 #### (3) Reservation of amounts
 
-&emsp;The Secretary shall each fiscal year reserve for the territories of the United States 1.5 percent of the amounts appropriated under section 300x–35(a) of this title for allotmentsunder section 300x–21 of this title for the fiscal year.
+&emsp;The Secretary shall each fiscal year reserve for the territories of the United States 1.5 percent of the amounts appropriated under section 300x–35(a) of this title for allotments under section 300x–21 of this title for the fiscal year.
 
 #### (4) Availability of data on population
 
-&emsp;With respect to data on the civilian population of the territories of the United States, if the Secretary determines for a fiscal year that recent such data for purposes of paragraph (1)(B) do not exist regarding a territory, the Secretary shall for such purposes estimate the civilian population of the territory by modifying the data on the territory to reflect the average extent of change occurring during the ensuing period in the population of all territories with respect to which recent such data do exist.
+&emsp;With respect to data on the civilian population of the territories of the United States, if the Secretary determines for a fiscal year that recent such data for purposes of paragraph (1)(B) do not exist regarding a territory, the Secretary shall for such purposes estimatethe civilian population of the territory by modifying the data on the territory to reflect the average extent of change occurring during the ensuing period in the population of all territories with respect to which recent such data do exist.
 
 #### (5) Applicability of certain provisions
 
@@ -152,7 +152,7 @@ In general.—Except as provided in subparagraph (B), a State shall not receive 
 
 Exception.—In applying subparagraph (A), the Secretary shall ensure that no State receives an increase in its allotment under section 300x–21 of this title for fiscal year 1999 (as compared to the amount allotted to the State in the fiscal year 1998) that is in excess of an amount equal to 300 percent of the percentage by which the amount appropriated under section 300x–35(a) of this title for fiscal year 1999 exceeds the amount appropriated for the prior fiscal year.
 
-&emsp;"(3) Only for the purposes of calculating minimum allotments under this subsection, any reference tothe amount appropriated under section 300x–35(a) of this title for fiscal year 1998, allotments to States under section 300x–21 of this title and any references to amounts received by States in fiscal year 1998 shall include amounts appropriated or received under the amendments made by section 105 of the Contract with America Advancement Act of 1996 (Public Law 104–121)."
+&emsp;"(3) Only for the purposes of calculating minimum allotments under this subsection, any reference to the amount appropriated under section 300x–35(a) of this title for fiscal year 1998, allotments to States under section 300x–21 of this title and any references to amounts received by States in fiscal year 1998 shall include amounts appropriated or received under the amendments made by section 105 of the Contract with America Advancement Act of 1996 (Public Law 104–121)."
 
 > See Effective and Termination Dates of 1998 Amendment note below.
 

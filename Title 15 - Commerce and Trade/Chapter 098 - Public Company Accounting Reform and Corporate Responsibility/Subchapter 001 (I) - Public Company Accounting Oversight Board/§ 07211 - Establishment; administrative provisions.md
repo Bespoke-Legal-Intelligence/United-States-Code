@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Board
 
-There is established the Public Company Accounting Oversight Board, to oversee the auditof companies that are subject to the securities laws, and related matters, in order to protect the interests of investors and further the public interest in the preparation of informative, accurate, and independent audit reports. The Board shall be a body corporate, operate as a nonprofit corporation, and have succession until dissolved by an Act of Congress.
+There is established the Public Company Accounting Oversight Board, to oversee the audit of companies that are subject to the securities laws, and related matters, in order to protect the interests of investors and further the public interest in the preparation of informative, accurate, and independent audit reports. The Board shall be a body corporate, operate as a nonprofit corporation, and have succession until dissolved by an Act of Congress.
 
 #### (b) Status
 
@@ -28,7 +28,7 @@ The Board shall, subject to action by the Commission under section 7217 of this 
 
 #### (d) Commission determination
 
-The members of the Board shall take such action (including hiring of staff, proposal of rules, and adoption of initial and transitional auditing and other professional standards) as may be necessary or appropriate to enable the Commission to determine, not later than 270 days after July 30, 2002, that the Board is so organized and has the capacity to carry out the requirements of this subchapter, and to enforce compliance with this subchapter by registered public accounting firms and associated persons thereof. The Commission shall be responsible, prior to the appointment of the Board, for the planning for the establishment and administrative transition to the Board's operation.
+The members of the Board shall take such action (including hiring of staff, proposal of rules, and adoption of initial and transitional auditing and other professional standards) as may be necessary or appropriate to enable the Commission to determine, not later than 270 days after July 30, 2002, that the Board is so organized and has the capacity to carry out the requirements ofthis subchapter, and to enforce compliance with this subchapter by registered public accounting firms and associated persons thereof. The Commission shall be responsible, prior to the appointment of the Board, for the planning for the establishment and administrative transition to the Board's operation.
 
 #### (e) Board membership
 
@@ -60,7 +60,7 @@ The members of the Board shall take such action (including hiring of staff, prop
 
 &emsp;&emsp;The term of service of each Board member shall be 5 years, and until a successor is appointed, except that—
 
-&emsp;&emsp;&emsp;(i) the terms of office of the initial Board members (other than the chairperson) shall expire in annual increments, 1 oneach of the first 4 anniversaries of the initial date of appointment; and
+&emsp;&emsp;&emsp;(i) the terms of office of the initial Board members (other than the chairperson) shall expire in annual increments, 1 on each of the first 4 anniversaries of the initial date of appointment; and
 
 &emsp;&emsp;&emsp;(ii) any Board member appointed to fill a vacancy occurring before the expiration of the term for which the predecessor was appointed shall be appointed only for the remainder of that term.
 
@@ -94,7 +94,7 @@ The rules of the Board shall, subject to the approval of the Commission—
 
 &emsp;(1) provide for the operation and administration of the Board, the exercise of its authority, and the performance of its responsibilities under this Act;
 
-&emsp;(2) permit, as the Board determines necessary or appropriate, delegation by the Board of any of its functions to an individual member or employee of the Board, or to a division of the Board, including functions with respect to hearing, determining, ordering, certifying, reporting, or otherwise acting as to any matter, except that—
+&emsp;(2) permit, as the Board determines necessary or appropriate, delegation by the Board of any of its functions to an individual member or employee of the Board, or to a divisionof the Board, including functions with respect to hearing, determining, ordering, certifying, reporting, or otherwise acting as to any matter, except that—
 
 &emsp;&emsp;(A) the Board shall retain a discretionary right to review any action pursuant to any such delegated function, upon its own motion;
 

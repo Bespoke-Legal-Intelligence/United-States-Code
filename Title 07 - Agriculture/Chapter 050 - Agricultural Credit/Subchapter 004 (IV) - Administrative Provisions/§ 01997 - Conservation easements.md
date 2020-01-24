@@ -70,7 +70,7 @@ The Secretary, and any person or governmental entity designated by the Secretary
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–127, §642(1), added subsec. (b) and struck out former subsec. (b) which read as follows: "Subject to subsection (c) of this section, the Secretary may acquire and retain an easement in real property, for a term of not less than 50 years, for conservation, recreational, and wildlife purposes."
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §642(1), added subsec. (b) and struck out former subsec. (b) which read asfollows: "Subject to subsection (c) of this section, the Secretary may acquire and retain an easement in real property, for a term of not less than 50 years, for conservation, recreational, and wildlife purposes."
 
 Subsec. (c). Pub. L. 104–127, §642(2)(A), inserted heading and substituted "The Secretary may enter into a contract under subsection (b) if" for "Such easement may be acquired or retained for real property if".
 

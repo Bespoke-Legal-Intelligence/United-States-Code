@@ -24,5 +24,5 @@ Subsecs. (e), (f). Pub. L. 99–554, §§142, 144(a), added subsecs. (e) and (f)
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 103 of Pub. L. 99–554 effective Oct. 27, 1986, and amendment by sections 142 and 144 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, seesection 302(a), (b) of Pub. L. 99–554, set out as a note under section 581 of this title.
+Amendment by section 103 of Pub. L. 99–554 effective Oct. 27, 1986, and amendment by sections 142 and 144 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a), (b) of Pub. L. 99–554, set out as a note under section 581 of this title.
 

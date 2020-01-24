@@ -50,7 +50,7 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 (3) Within 45 days of the close of the public comment period, the Secretary, in consultation with the Council, shall analyze the public comment received and publish final regulations for implementing such plan.
 
-(4) If the Secretary remands a plan or plan amendment to the Council for failure to meet the requirements of this section, the Councilmay resubmit such plan or plan amendment at any time after taking action the Council believes will address the defects identified by the Secretary. Any plan or plan amendment resubmitted to the Secretary will be treated as an original plan submitted to the Secretary under paragraph (1) of this subsection.
+(4) If the Secretary remands a plan or plan amendment to the Council for failure to meet the requirements of this section, the Council may resubmit such plan or plan amendment at any time after taking action the Council believes will address the defects identified by the Secretary. Any plan or plan amendment resubmitted to the Secretary will be treated as an original plan submitted to the Secretary under paragraph (1) of this subsection.
 
 #### (d) Fishery Observer Fund
 
@@ -90,7 +90,7 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 (1) By June 1, 1997 the North Pacific Council shall submit, and the Secretary may approve, consistent with the other provisions of this chapter, conservation and management measures to ensure total catch measurement in each fishery under the jurisdiction of such Council. Such measures shall ensure the accurate enumeration, at a minimum, of target species, economic discards, and regulatory discards.
 
-(2) To the extent the measures submitted under paragraph (1) do not require United States fish processors and fish processing vessels (as defined in chapter 21 of title 46) to weigh fish, the North Pacific Council and the Secretary shall submit a plan to the Congress by January 1, 1998, to allow for weighing, including recommendations to assist such processors and processing vessels in acquiring necessary equipment, unless the Council determines that such weighing is not necessary to meet the requirements of this subsection.
+(2) To the extent the measures submitted under paragraph (1) do not require United States fish processors and fish processing vessels (as defined in chapter 21 of title 46) to weigh fish, theNorth Pacific Council and the Secretary shall submit a plan to the Congress by January 1, 1998, to allow for weighing, including recommendations to assist such processors and processing vessels in acquiring necessary equipment, unless the Council determines that such weighing is not necessary to meet the requirements of this subsection.
 
 #### (i) Full retention and utilization
 

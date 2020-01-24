@@ -130,7 +130,7 @@ Foreign Language Resources Coordinator.—
 
 #### Foreign Service Institute Facilities
 
-Pub. L. 99–93, title I, §123, Aug. 16, 1985, 99 Stat. 413, as amended by Pub. L. 100–204, title I, §135, Dec. 22, 1987,101 Stat. 1345; Pub. L. 102–138, title I, §124, Oct. 28, 1991, 105 Stat. 659; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817, provided that:
+Pub. L. 99–93, title I, §123, Aug. 16, 1985, 99 Stat. 413, as amended by Pub. L. 100–204, title I, §135, Dec. 22, 1987, 101 Stat. 1345; Pub. L. 102–138, title I, §124, Oct. 28, 1991, 105 Stat. 659; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817, provided that:
 
 "(a)
 

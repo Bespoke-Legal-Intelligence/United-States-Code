@@ -10,7 +10,7 @@ In order to provide for uniform Federal jurisdiction over all of the lands now o
 
 (d) The Commonwealth of Virginia shall have the jurisdiction and power to levy a nondiscriminatory tax on all alcoholic beverages possessed or sold on said lands.
 
-(e) The Commonwealth of Virginia shall have jurisdiction and power to tax the sales of oil and gasoline, and other motor-vehicle fuels and lubricants for use in motor vehicles. This subsection shall not be construed as a consent by the United States to the taxation by the Commonwealth of such sales for the exclusive use of the United States.
+(e) The Commonwealth of Virginia shall have jurisdiction and power to tax the sales of oil andgasoline, and other motor-vehicle fuels and lubricants for use in motor vehicles. This subsection shall not be construed as a consent by the United States to the taxation by the Commonwealth of such sales for the exclusive use of the United States.
 
 (f) The Commonwealth of Virginia shall have the jurisdiction and power to levy nondiscriminatory taxes on private individuals, associations, and corporations, their franchises and properties, on said lands, and on their businesses conducted thereon.
 

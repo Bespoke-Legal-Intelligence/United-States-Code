@@ -4,7 +4,7 @@
 
 (1) The Attorney General shall determine the total quantity and establish production quotas for each basic class of controlled substance in schedules I and II and for ephedrine, pseudoephedrine, and phenylpropanolamine to be manufactured each calendar year to provide for the estimated medical, scientific, research, and industrial needs of the United States, for lawful export requirements, and for the establishment and maintenance of reserve stocks. Except as provided in paragraph (2), production quotas shall be established in terms of quantities of each basic class of controlled substance and not in terms of individual pharmaceutical dosage forms prepared from or containing such a controlled substance.
 
-(2) The Attorney General may, if the Attorney General determines it will assist in avoiding the overproduction, shortages, or diversion of a controlled substance, establish an aggregate or individual production quota under this subsection, or a procurement quota established by the Attorney General by regulation, in terms of pharmaceutical dosage forms prepared from or containing the controlled substance.
+(2) The Attorney General may, if the Attorney General determines it will assist in avoiding theoverproduction, shortages, or diversion of a controlled substance, establish an aggregate or individual production quota under this subsection, or a procurement quota established by the Attorney General by regulation, in terms of pharmaceutical dosage forms prepared from or containing the controlled substance.
 
 #### (b) Individual manufacturing quotas; revised quotas
 
@@ -116,7 +116,7 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 #### Change to Editorial Heading in United States Code
 
-Pub. L. 115–271, title III, §3282(b), Oct. 24, 2018, 132 Stat. 3955, provided that: "The Law Revision Counsel is directed to amend the heading for subsection (b) of section 826 of title 21, United States Code, by striking 'Production' and inserting 'Manufacturing'."
+Pub. L. 115–271, title III, §3282(b), Oct. 24, 2018, 132 Stat. 3955, provided that: "The Law Revision Counsel isdirected to amend the heading for subsection (b) of section 826 of title 21, United States Code, by striking 'Production' and inserting 'Manufacturing'."
 
 #### Coordination With United States Trade Representative
 

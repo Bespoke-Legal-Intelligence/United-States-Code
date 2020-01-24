@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director of the Office of Rare Diseases (in this section referred to as the "Director"), in collaboration with the directors of the other relevant institutes and centers of the National Institutes of Health, may enter into cooperative agreements with and make grants to public or private nonprofit entities to pay all or part of the cost of planning, establishing, or strengthening, and providing basic operating support for regional centers of excellence for clinical research into, training in, and demonstration of diagnostic, prevention, control, and treatment methods for rare diseases.
+&emsp;The Director of the Office of Rare Diseases (in this section referred to as the "Director"), in collaboration with the directors of the other relevant institutes and centers of the National Institutes of Health, may enter into cooperative agreements with and make grants to public or private nonprofit entities to payall or part of the cost of planning, establishing, or strengthening, and providing basic operating support for regional centers of excellence for clinical research into, training in, and demonstration of diagnostic, prevention, control, and treatment methods for rare diseases.
 
 #### (2) Policies
 

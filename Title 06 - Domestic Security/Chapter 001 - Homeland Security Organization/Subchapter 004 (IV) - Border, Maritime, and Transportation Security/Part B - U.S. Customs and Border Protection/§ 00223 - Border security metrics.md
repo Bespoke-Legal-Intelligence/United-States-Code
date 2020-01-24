@@ -206,7 +206,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than 180 days after December 23, 2016, the Secretary shall develop metrics, informed by situational awareness, to measure the effectiveness of security in the maritime environment. The Secretary shall annually implement the metrics developed under this subsection, which shall include the following:
+&emsp;Not later than 180 days after December 23, 2016, the Secretary shall develop metrics, informed by situational awareness, to measurethe effectiveness of security in the maritime environment. The Secretary shall annually implement the metrics developed under this subsection, which shall include the following:
 
 &emsp;&emsp;(A) Situational awareness achieved in the maritime environment.
 

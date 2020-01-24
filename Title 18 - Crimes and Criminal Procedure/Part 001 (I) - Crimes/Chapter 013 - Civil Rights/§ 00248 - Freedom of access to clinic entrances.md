@@ -60,7 +60,7 @@ Actions by state attorneys general.—
 
 &emsp;&emsp;(A)
 
-In general.—If the Attorney General of a State has reasonable cause to believe that any person or group of persons is being, has been, or may be injured by conduct constituting a violation of this section, such Attorney General may commence a civil action in the name of such State, as parens patriae on behalf of natural persons residing in such State, in any appropriate United States District Court.
+In general.—If the Attorney General of a State has reasonable cause to believe that any person or group of persons is being, has been, or may be injured by conduct constituting a violation of this section, such Attorney General may commence a civil action in the name of such State, as parens patriaeon behalf of natural persons residing in such State, in any appropriate United States District Court.
 
 &emsp;&emsp;(B)
 

@@ -30,7 +30,7 @@ In this chapter:
 
 &emsp;The term "missing adult" means an individual who—
 
-&emsp;&emsp;(A) is older than the age for which an alert may be issued through the AMBER Alertcommunications network in the State or territory of an Indian Tribe in which the individual is identified as a missing individual;
+&emsp;&emsp;(A) is older than the age for which an alert may be issued through the AMBER Alert communications network in the State or territory of an Indian Tribe in which the individual is identified as a missing individual;
 
 &emsp;&emsp;(B) is identified by a law enforcement agency as a missing individual; and
 

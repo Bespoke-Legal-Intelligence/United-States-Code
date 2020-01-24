@@ -88,7 +88,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 #### (1) Implementation
 
-&emsp;The Secretary shall continue to improve the usefulness and accessibility of the information provided by the Department on college planning and student financial aid.
+&emsp;The Secretary shall continue to improve the usefulness and accessibility of the informationprovided by the Department on college planning and student financial aid.
 
 #### (2) Dissemination
 
@@ -210,7 +210,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 #### (D) Contract authorized
 
-&emsp;&emsp;In carrying out the requirements of this paragraph, the Secretary is authorized to enter into a contract with a private entity with demonstrated expertise in creating andmaintaining databases such as the one required under this paragraph, under which contract the entity shall furnish, and regularly update, all of the information required to be maintained on the STEM Database.
+&emsp;&emsp;In carrying out the requirements of this paragraph, the Secretary is authorized to enter into a contract with a private entity with demonstrated expertise in creating and maintaining databases such as the one required under this paragraph, under which contract the entity shall furnish, and regularly update, all of the information required to be maintained on the STEM Database.
 
 #### (5) Dissemination of information
 
@@ -236,7 +236,7 @@ Another prior section 1015, Pub. L. 89–329, title I, §115, as added Pub. L. 9
 
 Another prior section 1015, Pub. L. 89–329, title I, §131, as added Pub. L. 94–482, title I, §101(g)(3), Oct. 12, 1976, 90 Stat. 2086, set out the Congressional findings with regard to the lifelong learning program, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-A prior section 131 of Pub. L. 89–329, title I, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1286, related to National Advisory Council on Continuing Education and was classified to section 1017 of this title, prior to the general amendment of this subchapter by Pub. L. 102–325.
+A prior section 131 of Pub. L. 89–329, title I, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1286,related to National Advisory Council on Continuing Education and was classified to section 1017 of this title, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 #### Amendments
 

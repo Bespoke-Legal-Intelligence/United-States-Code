@@ -30,7 +30,7 @@ An inholding—
 
 #### (d) No obligation to convey or acquire
 
-The identification of an inholding under this section creates no obligation on the part of a landowner to convey the inholding or any obligation on the part of the United States to acquire the inholding.
+The identification of an inholding under this section creates no obligation on the part of alandowner to convey the inholding or any obligation on the part of the United States to acquire the inholding.
 
 (Pub. L. 106–248, title II, §204, July 25, 2000, 114 Stat. 615.)
 

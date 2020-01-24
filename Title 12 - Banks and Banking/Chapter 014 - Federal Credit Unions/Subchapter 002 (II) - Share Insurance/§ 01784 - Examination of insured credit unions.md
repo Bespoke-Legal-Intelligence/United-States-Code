@@ -14,7 +14,7 @@ In cases of refusal to obey a subpena issued to, or contumacy by, any person, th
 
 #### (d) Administration acceptance of State board reports; reports of Board furnished to State board
 
-The Administration may accept any report of examination made by or to any commission, board, or authority having supervision of a State-chartered credit union and may furnish to any such commission, board, or authority reports of examination made on behalf of the Board.
+The Administration may accept any report of examination made by or to any commission, board, or authority having supervision of a State-chartered credit union and may furnish toany such commission, board, or authority reports of examination made on behalf of the Board.
 
 #### (e) Flood insurance compliance by insured credit unions
 

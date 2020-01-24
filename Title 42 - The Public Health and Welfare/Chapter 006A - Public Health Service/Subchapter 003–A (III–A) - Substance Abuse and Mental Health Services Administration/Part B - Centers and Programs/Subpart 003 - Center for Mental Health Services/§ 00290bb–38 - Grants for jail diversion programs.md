@@ -66,7 +66,7 @@ A State, political subdivision of a State, Indian tribe, or tribal organization 
 
 #### (2) Federal share
 
-&emsp;The Federal share of a grant made under this section shall not exceed 75 percent of the total cost of the program carried out by the State, political subdivision of a State, Indiantribe, or tribal organization. Such share shall be used for new expenses of the program carried out by such State, political subdivision of a State, Indian tribe, or tribal organization.
+&emsp;The Federal share of a grant made under this section shall not exceed 75 percent of the total cost of the program carried out by the State, political subdivision of a State, Indian tribe, or tribal organization. Such share shall be used for new expenses of the program carried out by such State, political subdivision of a State, Indian tribe, or tribal organization.
 
 #### (3) Non-Federal share
 

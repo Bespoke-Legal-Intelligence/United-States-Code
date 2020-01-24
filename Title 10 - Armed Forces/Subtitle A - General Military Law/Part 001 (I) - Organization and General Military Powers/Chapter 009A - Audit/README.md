@@ -8,11 +8,15 @@
 | [240d.](%C2%A7%2000240d%20-%20Audits%20audit%20of%20financial%20statements%20of%20Department%20of%20Defense%20components%20by%20independent%20external%20auditors.md) | Audits: audit of financial statements of Department of Defense components by independent external auditors. |
 | [240e.](%C2%A7%2000240e%20-%20Audits%20use%20of%20commercial%20data%20integration%20and%20analysis%20products%20in%20preparing%20audits.md) | Audits: use of commercial data integration and analysis products in preparing audits. |
 | [240f.](%C2%A7%2000240f%20-%20Audits%20selection%20of%20service%20providers%20for%20audit%20services.md) | Audits: selection of service providers for audit services. |
+| [240g.](%C2%A7%2000240g%20-%20Defense%20Business%20Audit%20Remediation%20Plan.md) | Defense Business Audit Remediation Plan. |
+| [240h.](%C2%A7%2000240h%20-%20Annual%20report%20on%20auditable%20financial%20statements.md) | Annual report on auditable financial statements. |
 | \[251 to 254b. | Renumbered.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title X, §§1002(b), 1004(a)(2), Dec. 20, 2019, 133 Stat. 1571, 1573, added items 240g and 240h.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title X, §1002(a)(1)(B), Aug. 13, 2018, 132 Stat. 1945, renumbered items 251 to 254b as 240a to 240f, respectively.
 
@@ -27,4 +31,6 @@
 - [&sect; 00240d - Audits audit of financial statements of Department of Defense components by independent external auditors](%C2%A7%2000240d%20-%20Audits%20audit%20of%20financial%20statements%20of%20Department%20of%20Defense%20components%20by%20independent%20external%20auditors.md)
 - [&sect; 00240e - Audits use of commercial data integration and analysis products in preparing audits](%C2%A7%2000240e%20-%20Audits%20use%20of%20commercial%20data%20integration%20and%20analysis%20products%20in%20preparing%20audits.md)
 - [&sect; 00240f - Audits selection of service providers for audit services](%C2%A7%2000240f%20-%20Audits%20selection%20of%20service%20providers%20for%20audit%20services.md)
+- [&sect; 00240g - Defense Business Audit Remediation Plan](%C2%A7%2000240g%20-%20Defense%20Business%20Audit%20Remediation%20Plan.md)
+- [&sect; 00240h - Annual report on auditable financial statements](%C2%A7%2000240h%20-%20Annual%20report%20on%20auditable%20financial%20statements.md)
 - [&sect; 00251 to 254b - Renumbered &sect;&sect;240a to 240f](%C2%A7%2000251%20to%20254b%20-%20Renumbered%20%C2%A7%C2%A7240a%20to%20240f.md)

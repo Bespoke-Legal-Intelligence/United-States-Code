@@ -2,7 +2,7 @@
 
 #### (a) Imposition of tax
 
-In the case of any nonresident alien individual or foreign corporation, there is hereby imposedfor each taxable year a tax equal to 4 percent of such individual's or corporation's United States source gross transportation income for such taxable year.
+In the case of any nonresident alien individual or foreign corporation, there is hereby imposed for each taxable year a tax equal to 4 percent of such individual's or corporation's United States source gross transportation income for such taxable year.
 
 #### (b) United States source gross transportation income
 

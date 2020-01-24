@@ -134,13 +134,13 @@
 
 #### (bb) Exceptions
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Such term shall not include any management or general expense, any expense for the purpose of influencing legislation (as defined in section 4911(d) of title 26), any expense for thepurpose of fundraising, any expense for a legal service provided on behalf of any individual referred to in clause (iii), any expense for providing tuition assistance relating to compulsory school attendance, and any expense that consists of a payment to an affiliate of the organization.
+&emsp;&emsp;&emsp;&emsp;&emsp;Such term shall not include any management or general expense, any expense for the purpose of influencing legislation (as defined in section 4911(d) of title 26), any expense for the purpose of fundraising, any expense for a legal service provided on behalf of any individual referred to in clause (iii), any expense for providing tuition assistance relating to compulsory school attendance, and any expense that consists of a payment to an affiliate of the organization.
 
 #### (v) Reporting requirement
 
 &emsp;&emsp;&emsp;The information required to be furnished under this clause about an organization is—
 
-&emsp;&emsp;&emsp;&emsp;(I) the percentages determined by dividing the following categories of the organization's expenses for the year by the total expenses of the organization for the year: expenses for direct services, management expenses, general expenses, fundraising expenses, and payments to affiliates; and
+&emsp;&emsp;&emsp;&emsp;(I) the percentages determined by dividing the following categories of the organization's expenses for the year by the total expenses of the organization for theyear: expenses for direct services, management expenses, general expenses, fundraising expenses, and payments to affiliates; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the category or categories (including food, shelter, education, substance abuse prevention or treatment, job training, or other) of services that constitute predominant activities of the organization.
 

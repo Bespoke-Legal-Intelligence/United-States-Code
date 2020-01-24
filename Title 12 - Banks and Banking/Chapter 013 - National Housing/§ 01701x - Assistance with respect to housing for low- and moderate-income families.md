@@ -6,7 +6,7 @@
 
 &emsp;(i) the assembly, correlation, publication, and dissemination of information with respect to the construction, rehabilitation, and operation of low- and moderate-income housing;
 
-&emsp;(ii) the provision of advice and technical assistance to public bodies or to nonprofit or cooperative organizations with respect to the construction, rehabilitation, and operation oflow- and moderate-income housing, including assistance with respect to self-help and mutual self-help programs;
+&emsp;(ii) the provision of advice and technical assistance to public bodies or to nonprofit or cooperative organizations with respect to the construction, rehabilitation, and operation of low- and moderate-income housing, including assistance with respect to self-help and mutual self-help programs;
 
 &emsp;(iii) counseling and advice to tenants and homeowners with respect to property maintenance, financial management, and such other matters as may be appropriate to assist them in improving their housing conditions and in meeting the responsibilities of tenancy or homeownership; and
 
@@ -74,7 +74,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (b) Loans to nonprofit organizations or public housing agencies; purpose and terms; repayment; authorization of appropriations; deposit of appropriations in Low and Moderate Income Sponsor Fund
 
-(1) The Secretary is authorized to make loans to nonprofit organizations or public housing agencies for the necessary expenses, prior to construction, in planning, and obtaining financing for, the rehabilitation or construction of housing for low or moderate income families under section 235 of the National Housing Act \[12 U.S.C. 1715z\] or any other federally assisted program. Such loans shall be made without interest and shall not exceed 80 per centum of the reasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including, but not limited to, preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site acquisition, application and mortgage commitment fees, andconstruction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the project or sooner, and may cancel any part or all of a loan if he determines that it cannot be recovered from the proceeds of any permanent loan made to finance the rehabilitation or construction of the housing.
+(1) The Secretary is authorized to make loans to nonprofit organizations or public housing agencies for the necessary expenses, prior to construction, in planning, and obtaining financing for, the rehabilitation or construction of housing for low or moderate income families under section 235 of the National Housing Act \[12 U.S.C. 1715z\] or any other federally assisted program. Such loans shall be made without interest and shall not exceed 80 per centum of the reasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including, but not limited to, preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site acquisition, application and mortgage commitment fees, and construction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the project or sooner, and may cancel any part or all of a loan if he determines that it cannot be recovered from the proceeds of any permanent loan made to finance the rehabilitation or construction of the housing.
 
 (2) The Secretary shall determine prior to the making of any loan that the nonprofit organization or public housing agency meets such requirements with respect to financial responsibility and stability as he may prescribe.
 
@@ -288,7 +288,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (C) Coordination with emergency homeownership counseling program
 
-&emsp;&emsp;The Secretary may coordinate the provision of assistance under subsection (c) with the demonstration program under this subsection.
+&emsp;&emsp;The Secretary may coordinate the provision of assistance under subsection (c) withthe demonstration program under this subsection.
 
 #### (D) Eligibility for counseling
 
@@ -360,7 +360,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 &emsp;&emsp;&emsp;(i) (and whose spouse) has had no ownership in a principal residence during the 3-year period ending on the date of purchase of the home pursuant to which counseling is provided under this subsection;
 
-&emsp;&emsp;&emsp;(ii) is a displaced homemaker who, except for owning a residence with his or her spouse or residing in a residence owned by the spouse, meets the requirements of clause (i); or
+&emsp;&emsp;&emsp;(ii) is a displaced homemaker who, except for owning a residence with his or herspouse or residing in a residence owned by the spouse, meets the requirements of clause (i); or
 
 &emsp;&emsp;&emsp;(iii) is a single parent who, except for owning a residence with his or her spouse or residing in a residence owned by the spouse while married, meets the requirements of clause (i).
 
@@ -454,7 +454,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (4) Certification
 
-&emsp;The entity selected under paragraph (2)(B) shall administer the examination under subsection (e)(2) and, on behalf of the Secretary,certify individuals successfully completing the examination. The Secretary, in consultation with such entity, shall establish the content and format of the examination.
+&emsp;The entity selected under paragraph (2)(B) shall administer the examination under subsection (e)(2) and, on behalf of the Secretary, certify individuals successfully completing the examination. The Secretary, in consultation with such entity, shall establish the content and format of the examination.
 
 #### (5) Fees
 
@@ -686,7 +686,7 @@ For purposes of this section:
 
 #### (2) Misuse of funds
 
-&emsp;If any organization or entity that receives any covered assistance is determined by the Secretary to have used any covered assistance in a manner that is materially in violation of this section, the regulations issued under this section, or any requirements or conditions under which such assistance was provided—
+&emsp;If any organization or entity that receives any covered assistance is determined by theSecretary to have used any covered assistance in a manner that is materially in violation of this section, the regulations issued under this section, or any requirements or conditions under which such assistance was provided—
 
 &emsp;&emsp;(A) the Secretary shall require that, within 12 months after the determination of such misuse, the organization or entity shall reimburse the Secretary for such misused amounts and return to the Secretary any such amounts that remain unused or uncommitted for use; and
 
@@ -830,7 +830,7 @@ Subsec. (c). Pub. L. 100–242, §169(b), added subsec. (c).
 
 <b>1977</b>—Subsec. (a)(2). Pub. L. 95–128 authorized the Secretary to provide the services for other owners of single family dwelling units insured under subchapter II of this chapter.
 
-<b>1974</b>—Subsec. (a)(1). Pub. L. 93–383, §811(b)(1), (c), in cl. (iii) substituted provisions authorizing counseling and advice to tenants and homeowners with respect to property maintenance, etc., for provisions authorizing counseling on household management, self-help, etc., for families receiving assistance under this chapter or the United States Housing Act of 1937, and added cl. (iv).
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–383, §811(b)(1), (c), in cl. (iii) substituted provisions authorizing counseling and advice to tenants and homeowners with respect to property maintenance, etc., for provisions authorizing counseling on household management, self-help, etc., for families receiving assistance under this chapter orthe United States Housing Act of 1937, and added cl. (iv).
 
 Subsec. (a)(2). Pub. L. 93–383, §811(b)(2), added par. (2). Former par. (2) redesignated (3).
 
@@ -838,7 +838,7 @@ Subsec. (a)(3). Pub. L. 93–383, §811(b)(2), (d), redesignated former par. (2)
 
 Subsec. (b)(1), (2). Pub. L. 93–383, §811(e), (f), inserted reference to public housing agencies.
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–609, §903(a), designated existing provisions as par. (1), inserted provision respecting specific authorities without limitation to such authorities, redesignated former par. (1) as cl. (i), struck out introductory text relating to assistance with respect to construction, rehabilitation, and operation by nonprofit organizations of housing for low ormoderate income families now incorporated in cl. (i), redesignated former par. (2) as cl. (ii), inserting therein provision for assistance to public bodies or to nonprofit or cooperative organizations, including assistance with respect to self-help and mutual self-help programs, and added cl. (iii) and par. (2).
+<b>1970</b>—Subsec. (a). Pub. L. 91–609, §903(a), designated existing provisions as par. (1), inserted provision respecting specific authorities without limitation to such authorities, redesignated former par. (1) as cl. (i), struck out introductory text relating to assistance with respect to construction, rehabilitation, and operation by nonprofit organizations of housing for low or moderate income families now incorporated in cl. (i), redesignated former par. (2) as cl. (ii), inserting therein provision for assistance to public bodies or to nonprofit or cooperative organizations, including assistance with respect to self-help and mutual self-help programs, and added cl. (iii) and par. (2).
 
 Subsec. (b)(1). Pub. L. 91–609, §903(b), substituted "section 1715z of this title or any other federally assisted program" for "any federally assisted program" in first sentence.
 
@@ -946,7 +946,7 @@ Goal.—The goal of the pilot project grants under this subsection is to—
 
 "(e)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section and for the provision of additional financial educational services.
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary suchsums as are necessary to carry out this section and for the provision of additional financial educational services.
 
 "(f)
 

@@ -138,7 +138,7 @@ If 1 or more failures described in subsection (a)(2) are due to intentional disr
 
 &emsp;&emsp;(B) is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.
 
-(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2732; amended Pub. L. 100–690, title VII, §7601(a)(2)(A), Nov. 18, 1988, 102 Stat. 4503; Pub. L. 101–239, title VII, §7711(a), Dec. 19, 1989, 103 Stat. 2388; Pub. L. 101–508, title XI, §11318(b), Nov. 5, 1990, 104 Stat. 1388–459; Pub. L. 109–280, title XII, §1211(b)(2), Aug. 17, 2006, 120 Stat. 1073; Pub. L. 111–240, title II, §2102(a)–(f), Sept. 27, 2010, 124 Stat. 2561, 2562; Pub. L. 113–295, div. B, title II, §208(f), Dec. 19, 2014, 128 Stat. 4074; Pub. L. 114–27, title VIII, §806(a)–(d), June 29, 2015, 129 Stat. 416, 417; Pub. L. 114–113, div. Q, title II, §202(a), (d), Dec. 18, 2015, 129 Stat. 3076, 3077; Pub. L. 115–97, title I, §11002(d)(1)(PP), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 115–141, div. U, title I, §101(f)(2), title IV, §401(a)(299)(F), Mar. 23, 2018, 132 Stat. 1161, 1198.)
+(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2732; amended Pub. L. 100–690, title VII, §7601(a)(2)(A), Nov. 18, 1988, 102 Stat. 4503; Pub. L. 101–239, title VII, §7711(a), Dec. 19, 1989, 103 Stat. 2388; Pub. L. 101–508, title XI, §11318(b),Nov. 5, 1990, 104 Stat. 1388–459; Pub. L. 109–280, title XII, §1211(b)(2), Aug. 17, 2006, 120 Stat. 1073; Pub. L. 111–240, title II, §2102(a)–(f), Sept. 27, 2010, 124 Stat. 2561, 2562; Pub. L. 113–295, div. B, title II, §208(f), Dec. 19, 2014, 128 Stat. 4074; Pub. L. 114–27, title VIII, §806(a)–(d), June 29, 2015, 129 Stat. 416, 417; Pub. L. 114–113, div. Q, title II, §202(a), (d), Dec. 18, 2015, 129 Stat. 3076, 3077; Pub. L. 115–97, title I, §11002(d)(1)(PP), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 115–141, div. U, title I, §101(f)(2), title IV, §401(a)(299)(F), Mar. 23, 2018, 132 Stat. 1161, 1198.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -218,7 +218,7 @@ Amendment by section 101(f)(2) of Pub. L. 115–141 effective as if included in 
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e)of Pub. L. 115–97, set out as a note under section 1 of this title.
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 #### Effective Date of 2015 Amendment
 

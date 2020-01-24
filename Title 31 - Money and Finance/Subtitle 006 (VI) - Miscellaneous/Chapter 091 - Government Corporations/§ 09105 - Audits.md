@@ -22,7 +22,7 @@
 
 (c) Activities of the Comptroller General of the United States under this section are in lieu of any audit of the financial transactions of a Government corporation that the Comptroller General is required to make under any other law.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1043; Pub. L. 100–86, title IV, §403, Aug. 10, 1987, 101 Stat. 609; Pub. L. 100–233, title VII, §703, Jan. 6, 1988, 101 Stat. 1706; Pub. L. 100–399, title VI, §602, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–73, title V, §511(b)(2), Aug. 9, 1989, 103 Stat. 406; Pub. L. 101–576, title III, §305, Nov. 15, 1990, 104 Stat. 2853; Pub. L. 103–82, title II, §202(e)(2), Sept. 21, 1993, 107 Stat. 888.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1043; Pub. L. 100–86, title IV, §403, Aug. 10, 1987, 101 Stat. 609; Pub. L. 100–233, title VII, §703, Jan. 6, 1988, 101 Stat. 1706; Pub. L. 100–399, title VI, §602, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–73, title V, §511(b)(2), Aug. 9, 1989, 103 Stat. 406; Pub. L. 101–576, title III, §305, Nov. 15, 1990, 104 Stat. 2853;Pub. L. 103–82, title II, §202(e)(2), Sept. 21, 1993, 107 Stat. 888.)
 
 Historical and Revision Notes
 
@@ -112,7 +112,7 @@ Pub. L. 100–233 added par. (4).
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1993 Amendment
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Deposit of Funds Reimbursed to Comptroller General to Appropriation of Government Accountability Office
 
-Pub. L. 106–57, title II, Sept. 29, 1999, 113 Stat. 426, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided in part: "That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the Government Accountability Office then available and remain available until expended".
+Pub. L. 106–57, title II, Sept. 29, 1999, 113 Stat. 426, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided in part: "That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the Government AccountabilityOffice then available and remain available until expended".
 
 Similar provisions were contained in the following prior appropriation acts:
 

@@ -18,7 +18,7 @@ The Secretary of Housing and Urban Development shall develop a program under thi
 
 #### (b) Coordination
 
-The Secretary of Housing and Urban Development may, in carrying out the program developed under this section, coordinate with the Secretary of the Treasury, the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, the Federal Housing Finance Agency, and any other Federal Government agency that the Secretary considers appropriate.
+The Secretary of Housing and Urban Development may, in carrying out the program developed under this section, coordinate with the Secretary of the Treasury, the Federal DepositInsurance Corporation, the Board of Governors of the Federal Reserve System, the Federal Housing Finance Agency, and any other Federal Government agency that the Secretary considers appropriate.
 
 #### (c) Definition
 

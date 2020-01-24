@@ -38,7 +38,7 @@ An eligible entity desiring a grant under this subpart shall submit an applicati
 
 &emsp;(8) a description of how the eligible entity will continue the activities assisted under the grant after the grant period ends;
 
-&emsp;(9) a description of the State, local, or other public or private funds that will be used tosupplement the grant, including funds under part A, and sustain the activities assisted under the grant after the end of the grant period;
+&emsp;(9) a description of the State, local, or other public or private funds that will be used to supplement the grant, including funds under part A, and sustain the activities assisted under the grant after the end of the grant period;
 
 &emsp;(10) a description of—
 

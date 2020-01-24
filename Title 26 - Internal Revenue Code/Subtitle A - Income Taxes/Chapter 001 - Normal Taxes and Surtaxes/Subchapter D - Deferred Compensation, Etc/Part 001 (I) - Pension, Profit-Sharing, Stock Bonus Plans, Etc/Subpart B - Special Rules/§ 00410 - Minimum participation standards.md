@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(i) In the case of any plan which provides that after not more than 2 years of service each participant has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (ii) of subparagraph (A) shall be applied by substituting "2 years of service" for "1 year of service".
 
-&emsp;&emsp;(ii) In the case of any plan maintained exclusively for employees of an educational institution (as defined in section 170(b)(1)(A)(ii)) by an employer which is exempt from tax under section 501(a) which provides that each participant having at least 1 year of service has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (i) of subparagraph (A) shall be applied by substituting "26" for "21". This clause shall not apply to any plan to which clause (i) applies.
+&emsp;&emsp;(ii) In the case of any plan maintained exclusively for employees of an educational institution (as defined in section170(b)(1)(A)(ii)) by an employer which is exempt from tax under section 501(a) which provides that each participant having at least 1 year of service has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (i) of subparagraph (A) shall be applied by substituting "26" for "21". This clause shall not apply to any plan to which clause (i) applies.
 
 #### (2) Maximum age conditions
 
@@ -186,7 +186,7 @@
 
 #### (E) Qualified plan
 
-&emsp;&emsp;For purposes of this paragraph, the term "qualified plan" means any plan which (without regard to this subsection) meets the requirements of section 401(a).
+&emsp;&emsp;For purposes of this paragraph, the term "qualified plan" means any plan which\(without regard to this subsection) meets the requirements of section 401(a).
 
 #### (3) Exclusion of certain employees
 
@@ -214,7 +214,7 @@
 
 #### (B) Requirements may be met separately with respect to excluded group
 
-&emsp;&emsp;If employees not meeting the minimum age or service requirements of subsection (a)(1) (without regard to subparagraph (B) thereof) are covered under a plan of the employer which meets the requirements of paragraph (1) separately with respect to suchemployees, such employees may be excluded from consideration in determining whether any plan of the employer meets the requirements of paragraph (1).
+&emsp;&emsp;If employees not meeting the minimum age or service requirements of subsection (a)(1) (without regard to subparagraph (B) thereof) are covered under a plan of the employer which meets the requirements of paragraph (1) separately with respect to such employees, such employees may be excluded from consideration in determining whether any plan of the employer meets the requirements of paragraph (1).
 
 #### (C) Requirements not treated as being met before entry date
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) such requirements were met immediately before each such change, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the coverage under such plan is not significantly changed during the transition period (other than by reason of the change in members of a group) or such plan meets such other requirements as the Secretary may prescribe by regulation.
+&emsp;&emsp;&emsp;&emsp;(II) the coverage under such plan is not significantly changed during the transition period (other than by reason of the change in members of a group) or suchplan meets such other requirements as the Secretary may prescribe by regulation.
 
 #### (ii) Transition period
 
@@ -300,7 +300,7 @@
 
 &emsp;&emsp;(D) a plan established and maintained by a society, order, or association described in section 501(c)(8) or (9) if no part of the contributions to or under such plan are made by employers of participants in such plan.
 
-&emsp;(2) A plan described in paragraph (1) shall be treated as meeting the requirements of thissection for purposes of section 401(a), except that in the case of a plan described in subparagraph (B), (C), or (D) of paragraph (1), this paragraph shall apply only if such plan meets the requirements of section 401(a)(3) (as in effect on September 1, 1974).
+&emsp;(2) A plan described in paragraph (1) shall be treated as meeting the requirements of this section for purposes of section 401(a), except that in the case of a plan described in subparagraph (B), (C), or (D) of paragraph (1), this paragraph shall apply only if such plan meets the requirements of section 401(a)(3) (as in effect on September 1, 1974).
 
 #### (d) Election by church to have participation, vesting, funding, etc., provisions apply
 
@@ -322,7 +322,7 @@ The Railway Labor Act, referred to in subsec. (b)(3), is act May 20, 1926, ch. 3
 
 <b>2006</b>—Subsec. (b)(3). Pub. L. 109–280, in concluding provisions, substituted "For purposes of subparagraph (B), management pilots who are not represented in accordance with title II of the Railway Labor Act shall be treated as covered by a collective bargaining agreement described in such subparagraph if the management pilots manage the flight operations of air pilots who are so represented and the management pilots are, pursuant to the terms of the agreement, included in the group of employees benefitting under the trust described in such subparagraph. Subparagraph (B) shall not apply in the case of a plan which provides contributions or benefits for employees whose principal duties are not customarily performed aboard an aircraft in flight (other than management pilots described in the preceding sentence)." for "Subparagraph (B) shall not apply in the case of a plan which provides contributions or benefits for employees whose principal duties are not customarily performed aboard aircraft in flight."
 
-<b>1997</b>—Subsec. (c)(2). Pub. L. 105–34 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "A plan described in paragraph (1) shall be treated as meeting the requirements of this section, for purposes of section 401(a), if such plan meets the requirements of section 401(a)(3) as in effect on September 1, 1974."
+<b>1997</b>—Subsec. (c)(2). Pub. L. 105–34 amended par. (2) generally. Prior to amendment, par. (2) read as follows:"A plan described in paragraph (1) shall be treated as meeting the requirements of this section, for purposes of section 401(a), if such plan meets the requirements of section 401(a)(3) as in effect on September 1, 1974."
 
 <b>1989</b>—Subsec. (a)(2). Pub. L. 101–239 struck out comma before period at end.
 
@@ -380,7 +380,7 @@ Amendment by Pub. L. 109–280 applicable to years beginning before, on, or afte
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years beginning on or after Aug. 5, 1997, with certaingovernmental plans treated as satisfying requirements for all taxable years beginning before Aug. 5, 1997, see section 1505(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
+Amendment by Pub. L. 105–34 applicable to taxable years beginning on or after Aug. 5, 1997, with certain governmental plans treated as satisfying requirements for all taxable years beginning before Aug. 5, 1997, see section 1505(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -418,7 +418,7 @@ Pub. L. 93–406, title II, §1017, Sept. 2, 1974, 88 Stat. 932, as amended by P
 
 "(a)
 
-General Rule.—Except as otherwise provided in this section, the amendments made by this part \[part 1 (§§1011–1017) of subtitle A of title II of Pub. L. 93–406, enacting this section and sections 411, 412, 413, 414, and 4971 of this title, amending sections 275, 401, 404, 406, 407, 805, 6161, 6201, 6204, 6211, 6212, 6213, 6214, 6344, 6501, 6503, 6512, 6601, 6653, 6659 \[now 6662\], 6676, 6677, 6679, 6682, 6688, 6861, 6862, and 7422 of this title and enacting provisions set out as notes under this section and sections 411 and 412 of this title\] shall apply for plan years beginning after the date of the enactment of this Act \[Sept. 2, 1974\].
+General Rule.—Except as otherwise provided in this section, the amendments made by this part \[part 1 (§§1011–1017) of subtitle A of title II of Pub. L. 93–406, enacting this section and sections 411, 412, 413, 414, and 4971 of this title, amending sections 275, 401, 404, 406, 407, 805, 6161, 6201, 6204, 6211, 6212, 6213, 6214, 6344, 6501, 6503, 6512, 6601, 6653, 6659 \[now 6662\], 6676, 6677, 6679, 6682,6688, 6861, 6862, and 7422 of this title and enacting provisions set out as notes under this section and sections 411 and 412 of this title\] shall apply for plan years beginning after the date of the enactment of this Act \[Sept. 2, 1974\].
 
 "(b)
 
@@ -548,7 +548,7 @@ Pub. L. 113–97, title I, §103(c), Apr. 7, 2014, 128 Stat. 1120, provided that
 
 &emsp;"(3) the plan sponsor does not make an election under section 210(f)(3)(A) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1060(f)(3)(A)\] and section 414(y)(3)(A) of the Internal Revenue Code of 1986, as added by this Act; and
 
-&emsp;"(4) the plan, plan sponsor, administrator, or fiduciary remits one or more premium payments for theplan to the Pension Benefit Guaranty Corporation for a plan year beginning after December 31, 2013."
+&emsp;"(4) the plan, plan sponsor, administrator, or fiduciary remits one or more premium payments for the plan to the Pension Benefit Guaranty Corporation for a plan year beginning after December 31, 2013."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

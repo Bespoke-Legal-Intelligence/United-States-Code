@@ -64,7 +64,7 @@
 
 &emsp;(A) The term "beginning rate of compensation", with respect to health-care personnel positions in non-Department health-care facilities corresponding to a grade of a covered position, means the sum of—
 
-&emsp;&emsp;(i) the minimum rate of pay established for personnel in such positions who haveeducation, training, and experience equivalent or similar to the education, training, and experience required for health-care personnel employed in the same category of Department covered positions; and
+&emsp;&emsp;(i) the minimum rate of pay established for personnel in such positions who have education, training, and experience equivalent or similar to the education, training, and experience required for health-care personnel employed in the same category of Department covered positions; and
 
 &emsp;&emsp;(ii) other employee benefits for those positions to the extent that those benefits are reasonably quantifiable.
 
@@ -104,7 +104,7 @@
 
 (f) For the purposes of this section, the term "health-care facility" means a medical center, an independent outpatient clinic, or an independent domiciliary facility.
 
-(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 431, §4141; renumbered §7451 and amended Pub. L. 102–40, title III, §301(b), (c), title IV, §401(c)(1)(A), (2), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §§301(b)–303, 304(b), 307, Nov. 4, 1992, 106 Stat. 4951–4953; Pub. L. 103–446, title XII, §1201(c)(7), (e)(23), Nov. 2, 1994, 108 Stat. 4684, 4686; Pub. L. 104–110, title I, §101(i), Feb. 13, 1996, 110 Stat. 768; Pub. L. 106–419, title II, §201(a), Nov. 1, 2000, 114 Stat. 1838; Pub. L. 107–135, title I, §133, Jan. 23,2002, 115 Stat. 2454; Pub. L. 111–163, title V, §501(a), title VI, §601(g), (h), (j), May 5, 2010, 124 Stat. 1157, 1170; Pub. L. 115–46, title II, §212, Aug. 12, 2017, 131 Stat. 967.)
+(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 431, §4141; renumbered §7451 andamended Pub. L. 102–40, title III, §301(b), (c), title IV, §401(c)(1)(A), (2), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §§301(b)–303, 304(b), 307, Nov. 4, 1992, 106 Stat. 4951–4953; Pub. L. 103–446, title XII, §1201(c)(7), (e)(23), Nov. 2, 1994, 108 Stat. 4684, 4686; Pub. L. 104–110, title I, §101(i), Feb. 13, 1996, 110 Stat. 768; Pub. L. 106–419, title II, §201(a), Nov. 1, 2000, 114 Stat. 1838; Pub. L. 107–135, title I, §133, Jan. 23, 2002, 115 Stat. 2454; Pub. L. 111–163, title V, §501(a), title VI, §601(g), (h), (j), May 5, 2010, 124 Stat. 1157, 1170; Pub. L. 115–46, title II, §212, Aug. 12, 2017, 131 Stat. 967.)
 
 #### References in Text
 
@@ -230,31 +230,7 @@ Pub. L. 102–40, title III, §301(a), May 7, 1991, 105 Stat. 208, provided that
 
 #### Pilot Program To Study Innovative Recruitment Tools To Address Nursing Shortages at Department of Veterans Affairs Health Care Facilities
 
-Pub. L. 108–422, title V, §501, Nov. 30, 2004, 118 Stat. 2395, provided that:
-
-"(a)
-
-Pilot Program.—(1) Not later than 90 days after the date of the enactment of this Act \[Nov. 30, 2004\], the Secretary of Veterans Affairs shall designate a health care service region, or a section within such a region, in which health care facilities of the Department of Veterans Affairs are adversely affected by a shortage of qualified nurses.
-
-"(2) The Secretary shall conduct a pilot program in the region or section designated under paragraph (1) to determine the effectiveness of the use of innovative human capital tools and techniques in the recruitment of qualified nurses for positions at Department health care facilities in such region or section and for the retention of nurses at such facilities. In carrying out the pilot program, the Secretary shall enter into a contract with a private sector entity for services under the pilot program for recruitment of qualified nurses.
-
-"(b)
-
-Private Sector Recruitment Practices.—For purposes of the pilot program under this section, the Secretary shall identify and use recruitment practices that have proven effective for placing qualified individuals in positions that are difficult to fill due to shortages of qualified individuals or other factors. Recruitment practices to be reviewed by the Secretary for use in the pilot program shall include—
-
-&emsp;"(1) employer branding and interactive advertising strategies;
-
-&emsp;"(2) Internet technologies and automated staffing systems; and
-
-&emsp;"(3) the use of recruitment, advertising, and communication agencies.
-
-"(c)
-
-Streamlined Hiring Process.—In carrying out the pilot program under this section, the Secretary shall, at health care facilities of the Department in the region or section in which the pilot program is conducted, revise procedures and systems for selecting and hiring qualified nurses to reduce the length of the hiring process. If the Secretary identifies measures to streamline and automate the hiring process that can only be implemented if authorized by law, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives recommendations for such changes in law as may be necessary to enable such measures to be implemented.
-
-"(d)
-
-Report.—Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the extent to which the pilot program achieved the goal of improving the recruitment and retention of nurses in Department of Veterans Affairs health care facilities."
+Pub. L. 108–422, title V, §501, Nov. 30, 2004, 118 Stat. 2395, required the Secretary of Veterans Affairs, not later than 90 days after Nov. 30, 2004, to designate a health care service region, or a section within such a region, in which health care facilities of the Department of Veterans Affairs were adversely affected by a shortage of qualified nurses, to conduct a pilot program in the region to determine the effectiveness of the use of innovative human capital tools and techniques in the recruitment and retention of qualified nurses for positions at these Department health care facilities, and, not later than one year after Nov. 30, 2004, to submit to Congress a report on the extent to which the pilot program achieved its goals.
 
 #### Report on Requests for Waivers of Pay Reductions for Reemployed Annuitants To Fill Nurse Positions
 
@@ -270,7 +246,7 @@ Pub. L. 105–368, title IX, §905, Nov. 11, 1998, 112 Stat. 3361, provided that
 
 "(a)
 
-Report Required.—(1) Not later than February 1, 1999, the Secretary of Veterans Affairs shall submitto the Committees on Veterans' Affairs of the Senate and the House of Representatives a report assessing the system of locality-based pay for nurses established under the Department of Veterans Affairs Nurse Pay Act of 1990 (Public Law 101–366) and now set forth in section 7451 of title 38, United States Code.
+Report Required.—(1) Not later than February 1, 1999, the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report assessing the system of locality-based pay for nurses established under the Department of Veterans Affairs Nurse Pay Act of 1990 (Public Law 101–366) and now set forth in section 7451 of title 38, United States Code.
 
 "(2) The Secretary shall submit with the report under paragraph (1) a copy of the report on the locality pay system prepared by the contractor pursuant to a contract with Systems Flow, Inc., that was entered into on May 22, 1998.
 
@@ -316,21 +292,7 @@ Report.—The Secretary shall submit to the Committees on Veterans' Affairs of t
 
 #### Report on Pay for Chief Nurse Position
 
-Pub. L. 102–585, title III, §306, Nov. 4, 1992, 106 Stat. 4952, provided that:
-
-"(a)
-
-Review.—The Secretary of Veterans Affairs shall conduct a review of—
-
-&emsp;"(1) the process for determining the rate of basic pay applicable to the Chief Nurse position at Department of Veterans Affairs health-care facilities; and
-
-&emsp;"(2) the relationship between the rate of such basic pay and the rate of basic pay applicable to nurses in positions subordinate to the Chief Nurse at the respective Department facilities.
-
-> The review shall include an assessment of the adequacy of that process in determining an equitable pay rate for the Chief Nurse position, including an assessment of the accuracy of data collected in the survey process and the difficulties in obtaining accurate data.
-
-"(b)
-
-Report.—The Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the review and assessment conducted under subsection (a). To the extent that the review discloses difficulties in obtaining accurate data in the survey process with respect to the Chief Nurse position at Department facilities, the Secretary shall include in the report recommendations for corrective action. The Secretary shall also include in the report (1) a listing of the salary differential (expressed as a percentage) between the Chief Nurse at a facility and the highest paid nurse (excluding certified registered nurse anesthetists) serving in a position subordinate to the Chief Nurse, and (2) an analysis of such data. The report shall be submitted not later than 12 months after the date of the enactment of this Act \[Nov. 4, 1992\]."
+Pub. L. 102–585, title III, §306, Nov. 4, 1992, 106 Stat. 4952, required the Secretary of Veterans Affairs to conduct a review of the process for determining the rate of basic pay applicable to the Chief Nurse position at Department of Veterans Affairs health-care facilities and the relationship between the rate of such basic pay and the rate of basic pay applicable to nurses in positions subordinate to the Chief Nurse at the respective Department facilities, including an assessment of the adequacy of the process in determining an equitable pay rate for the Chief Nurse position, with a report to be submitted to Congress not later than 12 months after Nov. 4, 1992.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

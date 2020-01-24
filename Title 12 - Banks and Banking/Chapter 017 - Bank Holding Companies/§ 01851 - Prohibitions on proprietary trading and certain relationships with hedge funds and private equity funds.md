@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(D) reduce conflicts of interest between the self-interest of banking entities and nonbank financial companies supervised by the Board, and the interests of the customers of such entities and companies;
 
-&emsp;&emsp;(E) limit activities that have caused undue risk or loss in banking entities and nonbank financial companies supervised by the Board, or that might reasonably be expectedto create undue risk or loss in such banking entities and nonbank financial companies supervised by the Board;
+&emsp;&emsp;(E) limit activities that have caused undue risk or loss in banking entities and nonbank financial companies supervised by the Board, or that might reasonably be expected to create undue risk or loss in such banking entities and nonbank financial companies supervised by the Board;
 
 &emsp;&emsp;(F) appropriately accommodate the business of insurance within an insurance company, subject to regulation in accordance with the relevant insurance company investment laws, while protecting the safety and soundness of any banking entity with which such insurance company is affiliated and of the United States financial system; and
 
@@ -38,7 +38,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Unless otherwise provided in this section, not later than 9 months after the completion of the study under paragraph (1), the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, shall consider the findings of the study under paragraph (1) and adopt rules to carry out this section, as provided in subparagraph (B).
+&emsp;&emsp;Unless otherwise provided in this section, not later than 9 months after the completion of the study under paragraph (1), the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, shall consider the findings of the studyunder paragraph (1) and adopt rules to carry out this section, as provided in subparagraph (B).
 
 #### (B) Coordinated rulemaking
 
@@ -106,7 +106,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding the restrictions under subsection (a), to the extent permitted by any other provision of Federal or State law, and subject to the limitations under paragraph (2) and any restrictions or limitations that the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, may determine, the following activities (in this section referred to as "permitted activities") are permitted:
+&emsp;Notwithstanding the restrictions under subsection (a), to the extent permitted by any other provision of Federal or State law, and subject to the limitations under paragraph (2)and any restrictions or limitations that the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, may determine, the following activities (in this section referred to as "permitted activities") are permitted:
 
 &emsp;&emsp;(A) The purchase, sale, acquisition, or disposition of obligations of the United States or any agency thereof, obligations, participations, or other instruments of or issued by the Government National Mortgage Association, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, a Federal Home Loan Bank, the Federal Agricultural Mortgage Corporation, or a Farm Credit System institution chartered under and subject to the provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), and obligations of any State or of any political subdivision thereof.
 
@@ -308,7 +308,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;(A) to serve as a general partner, managing member, or trustee of a fund;
 
-&emsp;&emsp;(B) in any manner to select or to control (or to have employees, officers, or directors,or agents who constitute) a majority of the directors, trustees, or management of a fund; or
+&emsp;&emsp;(B) in any manner to select or to control (or to have employees, officers, or directors, or agents who constitute) a majority of the directors, trustees, or management of a fund; or
 
 &emsp;&emsp;(C) to share with a fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name, except as permitted under subsection (d)(1)(G)(vi).
 

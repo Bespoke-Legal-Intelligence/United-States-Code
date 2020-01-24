@@ -104,7 +104,7 @@ Any determination made by a court under this section shall be final and conclusi
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206 substituted "Administrative review" for "Information to taxpayer" in heading and amended text of par. (1) generally. Prior to amendment, text read as follows: "Within 5 days after the day on which an assessment is made under section 6851(a), 6852(a), 6861(a), or 6862, or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a), the Secretary shall provide the taxpayer with a written statement of the information upon which the Secretary relies in making such assessment or levy."
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206 substituted "Administrative review" for "Information to taxpayer" inheading and amended text of par. (1) generally. Prior to amendment, text read as follows: "Within 5 days after the day on which an assessment is made under section 6851(a), 6852(a), 6861(a), or 6862, or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a), the Secretary shall provide the taxpayer with a written statement of the information upon which the Secretary relies in making such assessment or levy."
 
 <b>1988</b>—Pub. L. 100–647, §6237(e)(3), inserted "levy or" after "jeopardy" in section catchline.
 

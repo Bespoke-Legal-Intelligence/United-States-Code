@@ -14,7 +14,7 @@ The Board is authorized to solicit and accept for the John F. Kennedy Center for
 
 &emsp;The Chairperson of the John F. Kennedy Center for the Performing Arts may appoint—
 
-&emsp;&emsp;(A) a senior level executive who, by virtue of the background of the individual, shall bewell suited to be responsible for facilities management and services and who may, without regard to the provisions of title 5, be appointed and compensated with appropriated funds, except that the compensation may not exceed the maximum rate of pay prescribed for level IV of the Executive Schedule under section 5315 of title 5; and
+&emsp;&emsp;(A) a senior level executive who, by virtue of the background of the individual, shall be well suited to be responsible for facilities management and services and who may, without regard to the provisions of title 5, be appointed and compensated with appropriated funds, except that the compensation may not exceed the maximum rate of pay prescribed for level IV of the Executive Schedule under section 5315 of title 5; and
 
 &emsp;&emsp;(B) such other officers and employees of the John F. Kennedy Center for the Performing Arts as may be necessary for the efficient administration of the functions of the Board.
 
@@ -52,7 +52,7 @@ The actions of the Board relating to performing arts and to payments made or dir
 
 #### (1) "Theatrical employee" defined
 
-&emsp;As used in this subsection, the term "theatrical employee" means a nonappropriated fund employee of the Board, who is engaged in a box office, performing, or theatrical trade that is the subject of a collective bargaining agreement as of January 1, 1994, including any change in the trade as a result of a technological advance.
+&emsp;As used in this subsection, the term "theatrical employee" means a nonappropriated fund employee of the Board, who is engaged in a box office, performing, or theatrical trade that is the subject of a collective bargaining agreement as of January 1, 1994, including anychange in the trade as a result of a technological advance.
 
 #### (2) Collective bargaining
 

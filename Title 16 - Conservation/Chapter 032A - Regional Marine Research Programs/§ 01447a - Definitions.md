@@ -8,7 +8,7 @@ As used in this chapter, the term—
 
 &emsp;(3) "local government" means any city, town, borough, county, parish, district, or other public body which is a political subdivision of a State and which is created pursuant to State law;
 
-&emsp;(4) "marine and coastal waters" means estuaries, waters of the estuarine zone, includingwetlands, any other waters seaward of the historic height of tidal influence, the territorial seas, the contiguous zone, and the ocean;
+&emsp;(4) "marine and coastal waters" means estuaries, waters of the estuarine zone, including wetlands, any other waters seaward of the historic height of tidal influence, the territorial seas, the contiguous zone, and the ocean;
 
 &emsp;(5) "nonprofit organization" means any organization, association, or institution described in section 501(c)(3) of title 26 which is exempt from taxation pursuant to section 501(a) of title 26;
 

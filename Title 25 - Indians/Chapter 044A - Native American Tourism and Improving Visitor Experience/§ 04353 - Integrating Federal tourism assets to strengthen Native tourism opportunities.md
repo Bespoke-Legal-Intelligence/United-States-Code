@@ -24,7 +24,7 @@ The head of each agency that has recreational travel or tourism functions or com
 
 &emsp;&emsp;(E) to support national tourism goals;
 
-&emsp;&emsp;(F) to identify agency programs that could be used to support tourism capacity buildingand help sustain tourism infrastructure in Native American communities;
+&emsp;&emsp;(F) to identify agency programs that could be used to support tourism capacity building and help sustain tourism infrastructure in Native American communities;
 
 &emsp;&emsp;(G) to develop innovative visitor portals for parks, landmarks, heritage and cultural sites, and assets that showcase and respect the diversity of the indigenous peoples of the United States;
 
@@ -52,7 +52,7 @@ The head of each agency that has recreational travel or tourism functions or com
 
 #### (3) Funding
 
-&emsp;Subject to the availability of appropriations, the head of each Federal agency, including the Secretary of the Interior, the Secretary of Commerce, the Secretary of Transportation, the Secretary of Agriculture, the Secretary of Health and Human Services, and the Secretary of Labor shall obligate any funds made available to the head of the agency to cover any administrative expenses incurred by the organization or entity described in paragraph (1) in carrying out programs or activities of the agency.
+&emsp;Subject to the availability of appropriations, the head of each Federal agency, including the Secretary of the Interior, the Secretary of Commerce, the Secretary of Transportation,the Secretary of Agriculture, the Secretary of Health and Human Services, and the Secretary of Labor shall obligate any funds made available to the head of the agency to cover any administrative expenses incurred by the organization or entity described in paragraph (1) in carrying out programs or activities of the agency.
 
 #### (4) Metrics
 

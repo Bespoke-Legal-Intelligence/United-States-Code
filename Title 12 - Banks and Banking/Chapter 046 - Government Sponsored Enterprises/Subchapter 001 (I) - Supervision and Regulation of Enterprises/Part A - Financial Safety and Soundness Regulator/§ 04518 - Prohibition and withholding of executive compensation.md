@@ -104,7 +104,7 @@ In carrying out subsection (a), the Director may not prescribe or set a specific
 
 &emsp;&emsp;&emsp;(ii) the amount of, and any cost incurred in connection with, any settlement of any claim, proceeding, or action; and
 
-&emsp;&emsp;&emsp;(iii) the amount of, and any cost incurred in connection with, any judgmentor penalty imposed with respect to any claim, proceeding, or action.
+&emsp;&emsp;&emsp;(iii) the amount of, and any cost incurred in connection with, any judgment or penalty imposed with respect to any claim, proceeding, or action.
 
 #### (C) Payment
 

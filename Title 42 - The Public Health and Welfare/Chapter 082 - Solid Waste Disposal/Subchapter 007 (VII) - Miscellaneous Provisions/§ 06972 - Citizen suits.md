@@ -52,7 +52,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 > In the case of an administrative order referred to in clause (iv), actions under subsection (a)(1)(B) are prohibited only as to the scope and duration of the administrative order referred to in clause (iv).
 
-(C) No action may be commenced under subsection (a)(1)(B) of this section if the State, inorder to restrain or abate acts or conditions which may have contributed or are contributing to the activities which may present the alleged endangerment—
+(C) No action may be commenced under subsection (a)(1)(B) of this section if the State, in order to restrain or abate acts or conditions which may have contributed or are contributing to the activities which may present the alleged endangerment—
 
 &emsp;(i) has commenced and is diligently prosecuting an action under subsection (a)(1)(B);
 
@@ -90,7 +90,7 @@ A transporter shall not be deemed to have contributed or to be contributing to t
 
 #### References in Text
 
-That Act, referred to in subsec. (b)(2)(B)(iii), (C)(iii), means Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+That Act, referred to in subsec. (b)(2)(B)(iii), (C)(iii), means Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to chapter 103 (§9601 etseq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (e), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

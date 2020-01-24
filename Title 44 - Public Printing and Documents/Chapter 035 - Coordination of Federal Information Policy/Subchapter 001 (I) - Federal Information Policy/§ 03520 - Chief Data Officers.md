@@ -1,0 +1,82 @@
+### §3520. Chief Data Officers
+
+(a)
+
+Establishment.—The head of each agency shall designate a nonpolitical appointee employee in the agency as the Chief Data Officer of the agency.
+
+(b)
+
+Qualifications.—The Chief Data Officer of an agency shall be designated on the basis of demonstrated training and experience in data management, governance (including creation, application, and maintenance of data standards), collection, analysis, protection, use, and dissemination, including with respect to any statistical and related techniques to protect and de-identify confidential data.
+
+(c)
+
+Functions.—The Chief Data Officer of an agency shall—
+
+&emsp;(1) be responsible for lifecycle data management;
+
+&emsp;(2) coordinate with any official in the agency responsible for using, protecting, disseminating, and generating data to ensure that the data needs of the agency are met;
+
+&emsp;(3) manage data assets of the agency, including the standardization of data format, sharing of data assets, and publication of data assets in accordance with applicable law;
+
+&emsp;(4) in carrying out the requirements under paragraphs (3) and (5), consult with any statistical official of the agency (as designated under section 314 of title 5);
+
+&emsp;(5) carry out the requirements of the agency under subsections (b) through (d), (f), and (i) of section 3506, section 3507, and section 3511;
+
+&emsp;(6) ensure that, to the extent practicable, agency data conforms with data management best practices;
+
+&emsp;(7) engage agency employees, the public, and contractors in using public data assets and encourage collaborative approaches on improving data use;
+
+&emsp;(8) support the Performance Improvement Officer of the agency in identifying and using data to carry out the functions described in section 1124(a)(2) of title 31;
+
+&emsp;(9) support the Evaluation Officer of the agency in obtaining data to carry out the functions described in section 313(d) of title 5;
+
+&emsp;(10) review the impact of the infrastructure of the agency on data asset accessibility and coordinate with the Chief Information Officer of the agency to improve such infrastructure to reduce barriers that inhibit data asset accessibility;
+
+&emsp;(11) ensure that, to the extent practicable, the agency maximizes the use of data in the agency, including for the production of evidence (as defined in section 3561), cybersecurity, and the improvement of agency operations;
+
+&emsp;(12) identify points of contact for roles and responsibilities related to open data use and implementation (as required by the Director);
+
+&emsp;(13) serve as the agency liaison to other agencies and the Office of Management and Budget on the best way to use existing agency data for statistical purposes (as defined in section 3561); and
+
+&emsp;(14) comply with any regulation and guidance issued under subchapter III, including the acquisition and maintenance of any required certification and training.
+
+(d)
+
+Delegation of Responsibilities.—
+
+&emsp;(1)
+
+In general.—To the extent necessary to comply with statistical laws, the Chief Data Officer of an agency shall delegate any responsibility under subsection (c) to the head of a statistical agency or unit (as defined in section 3561) within the agency.
+
+&emsp;(2)
+
+Consultation.—To the extent permissible under law, the individual to whom a responsibility has been delegated under paragraph (1) shall consult with the Chief Data Officer of the agency in carrying out such responsibility.
+
+&emsp;(3)
+
+Deference.—The Chief Data Officer of the agency shall defer to the individual to whom a responsibility has been delegated under paragraph (1) regarding the necessary delegation of such responsibility with respect to any data acquired, maintained, or disseminated by the agency under applicable statistical law.
+
+(e)
+
+Reports.—The Chief Data Officer of an agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives an annual report on the compliance of the agency with the requirements of this subchapter, including information on each requirement that the agency could not carry out and, if applicable, what the agency needs to carry out such requirement.
+
+(Added Pub. L. 107–198, §3(a)(2), June 28, 2002, 116 Stat. 730; amended Pub. L. 115–435, title II, §202(e)(1), Jan. 14, 2019, 132 Stat. 5541.)
+
+#### Prior Provisions
+
+A prior section 3520 was renumbered section 3521 of this title.
+
+Another prior section 3520, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2825; amended Pub. L. 99–500, §101(m) \[title VIII, §820\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–340, and Pub. L. 99–591, §101(m) \[title VIII, §820\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–340, related to authorization of appropriations prior to the general amendment of this chapter by Pub. L. 104–13.
+
+#### Amendments
+
+<b>2019</b>—Pub. L. 115–435 amended section generally. Prior to amendment, section related to establishment of task force on information collection and dissemination.
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 115–435 effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as a note under section 306 of Title 5, Government Organization and Employees.
+

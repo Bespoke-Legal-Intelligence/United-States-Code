@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) understand, evaluate, and compare financial products, services, and opportunities;
 
-&emsp;&emsp;(G) understand resources that ought to be easily accessible and affordable, and that inform and educate investors as to their rights and avenues of recourse when an investor believes his or her rights have been violated by unprofessional conduct of market intermediaries;
+&emsp;&emsp;(G) understand resources that ought to be easily accessible and affordable, and that inform and educate investors as to their rights and avenues of recourse when an investor believes his or her rights have been violated byunprofessional conduct of market intermediaries;
 
 &emsp;&emsp;(H) increase awareness of the particular financial needs and financial transactions (such as the sending of remittances) of consumers who are targeted in multilingual financial literacy and education programs and improve the development and distribution of multilingual financial literacy and education materials;
 
@@ -124,7 +124,7 @@ The Commission shall take such steps as are necessary to coordinate and promote 
 
 #### (3) National strategy review
 
-&emsp;The Commission shall, not less than annually, review the national strategy developedunder this subsection and make such changes and recommendations as it deems necessary.
+&emsp;The Commission shall, not less than annually, review the national strategy developed under this subsection and make such changes and recommendations as it deems necessary.
 
 #### (g) Consultation
 

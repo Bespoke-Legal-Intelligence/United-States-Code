@@ -216,7 +216,7 @@ For purposes of this section, the term "section 197 intangible" shall not includ
 
 #### (7) Treatment as depreciable
 
-&emsp;For purposes of this chapter, any amortizable section 197 intangible shall be treated as property which is of a character subject to theallowance for depreciation provided in section 167.
+&emsp;For purposes of this chapter, any amortizable section 197 intangible shall be treated as property which is of a character subject to the allowance for depreciation provided in section 167.
 
 #### (8) Treatment of certain increments in value
 

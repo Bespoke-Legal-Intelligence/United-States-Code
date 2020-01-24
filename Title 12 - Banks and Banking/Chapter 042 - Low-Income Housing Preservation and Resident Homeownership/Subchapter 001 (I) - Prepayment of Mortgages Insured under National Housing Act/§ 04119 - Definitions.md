@@ -78,7 +78,7 @@ Amendment by Pub. L. 103–327 is based on section 601(e) of title VI of S. 2281
 
 "(4)(A) The term 'low-income tenants' means families or persons with incomes that exceed 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size) but do not exceed 80 percent of the median income for the area (as determined by the Secretary with adjustments for family size).
 
-"(B) The term 'very low-income tenants' means families or persons with incomes that are less than or equal to 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size)." See Effective and Termination Dates of 1994 Amendment note below.
+"(B) The term 'very low-income tenants' means families or persons with incomes that are less than or equal to 50 percent of the median income for the area (as determined by the Secretary with adjustments for familysize)." See Effective and Termination Dates of 1994 Amendment note below.
 
 <b>1992</b>—Par. (1)(A)(i). Pub. L. 102–550, §310, substituted "receiving loan management assistance under section 1437f of title 42 due to a conversion from section 1701s of this title" for "assisted under section 1701s of this title or section 1437f of title 42".
 

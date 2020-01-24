@@ -94,7 +94,7 @@ Subsec. (c). Pub. L. 114–328, §645(3), substituted "authorized to receive pay
 
 Subsec. (d). Pub. L. 114–328, §645(4), inserted ", unless a court of competent jurisdiction orders payment of such fee, commission, or other charge" before period at end.
 
-Subsecs. (e), (f). Pub. L. 114–328, §645(5)–(7), redesignated subsec. (f) as (e), inserted "under subsection (a)(3)" after "who is designated" and substituted"$25,000" for "$1,000", and struck out former subsec. (e) which read as follows: "This section does not apply in any case in which a legal committee, guardian, or other representative has been appointed by a court of competent jurisdiction, except as to payments made before the paying agency of the department concerned receives notice of that appointment."
+Subsecs. (e), (f). Pub. L. 114–328, §645(5)–(7), redesignated subsec. (f) as (e), inserted "under subsection (a)(3)" after "who is designated" and substituted "$25,000" for "$1,000", and struck out former subsec. (e) which read as follows: "This section does not apply in any case in which a legal committee, guardian, or other representative has been appointed by a court of competent jurisdiction, except as to payments made before the paying agency of the department concerned receives notice of that appointment."
 
 <b>1989</b>—Subsec. (b)(5). Pub. L. 101–189 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 

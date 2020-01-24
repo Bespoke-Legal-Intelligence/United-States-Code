@@ -16,7 +16,7 @@
 
 #### (b) Requirements for adjustment
 
-The Secretary of Homeland Security or the Attorney General, in the Secretary's or the Attorney General's discretion and under such regulations as the Secretary or the Attorney General may prescribe, may adjust to the status of analien lawfully admitted for permanent residence the status of any alien granted asylum who—
+The Secretary of Homeland Security or the Attorney General, in the Secretary's or the Attorney General's discretion and under such regulations as the Secretary or the Attorney General may prescribe, may adjust to the status of an alien lawfully admitted for permanent residence the status of any alien granted asylum who—
 
 &emsp;(1) applies for such adjustment,
 
@@ -92,7 +92,7 @@ Pub. L. 101–649, title I, §104(c), (d), Nov. 29, 1990, 104 Stat. 4985, as ame
 
 "(c)
 
-Waiver of Numerical Limitation for Certain Current Asylees.—The numerical limitation on the number of aliens whose status may be adjusted undersection 209(b) of the Immigration and Nationality Act \[8 U.S.C. 1159(b)\] shall not apply to an alien described in subsection (d) or to an alien who has applied for adjustment of status under such section on or before June 1, 1990.
+Waiver of Numerical Limitation for Certain Current Asylees.—The numerical limitation on the number of aliens whose status may be adjusted under section 209(b) of the Immigration and Nationality Act \[8 U.S.C. 1159(b)\] shall not apply to an alien described in subsection (d) or to an alien who has applied for adjustment of status under such section on or before June 1, 1990.
 
 "(d)
 

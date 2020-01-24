@@ -52,7 +52,7 @@ Any proceeding conducted with respect to an initial determination on a claim und
 
 (2) Upon payment of a claim by the Secretary pursuant to this subsection, the Secretary shall acquire by subrogation all rights of the claimant against any person found to be responsible for the damages with respect to which such claim was made. Any moneys recovered by the Secretary through subrogation shall be deposited into the Fund.
 
-(3) Any person who denies responsibility for damages with respect to which a claim is made and who is subquently <sup>2</sup> found to be responsible for such damages, and any commercial fisherman who files a claim for damages and who is subsequently found to be responsible for such damages, shall pay the costs of the proceedings under this section with respect to such claim.
+(3) Any person who denies responsibility for damages with respect to which a claim is made and who is subquently <sup>2</sup> found to be responsiblefor such damages, and any commercial fisherman who files a claim for damages and who is subsequently found to be responsible for such damages, shall pay the costs of the proceedings under this section with respect to such claim.
 
 #### (i) Judicial review
 

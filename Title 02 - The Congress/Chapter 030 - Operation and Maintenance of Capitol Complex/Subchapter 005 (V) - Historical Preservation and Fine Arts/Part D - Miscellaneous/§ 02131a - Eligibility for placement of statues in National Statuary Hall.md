@@ -24,7 +24,7 @@ Pub. L. 109–116, §1, Dec. 1, 2005, 119 Stat. 2524, as amended by Pub. L. 110�
 
 "(a)
 
-Obtaining Statue.—Not later than 4 years after the date of the enactment of this Act \[Dec. 1, 2005\], the Joint Committee on the Library shall enter into an agreement to obtain a statue of Rosa Parks, under such terms and conditions as the Joint Committee considers appropriate consistent with applicable law. The Joint Committee may authorize the Architect of the Capitol to enter into the agreement and related contracts required under this subsection on its behalf, under such terms and conditions as the Joint Committee may require.
+Obtaining Statue.—Not later than 4 years after the date of the enactment of this Act \[Dec. 1, 2005\], theJoint Committee on the Library shall enter into an agreement to obtain a statue of Rosa Parks, under such terms and conditions as the Joint Committee considers appropriate consistent with applicable law. The Joint Committee may authorize the Architect of the Capitol to enter into the agreement and related contracts required under this subsection on its behalf, under such terms and conditions as the Joint Committee may require.
 
 "(b)
 

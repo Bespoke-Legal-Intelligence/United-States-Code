@@ -30,11 +30,11 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (A) Allotments
 
-&emsp;&emsp;The Secretary shall use 40 percent of such excess to allot for grants under subsection (a) to eligible agencies for statewide programs in each State an amount that bears the same ratio to 40 percent of such excessas the low-income and unemployed population of such State bears to the low-income and unemployed population of all the States.
+&emsp;&emsp;The Secretary shall use 40 percent of such excess to allot for grants under subsection (a) to eligible agencies for statewide programs in each State an amount that bears the same ratio to 40 percent of such excess as the low-income and unemployed population of such State bears to the low-income and unemployed population of all the States.
 
 #### (B) Competitive grants for local and statewide programs
 
-&emsp;&emsp;The Secretary shall use 40 percent of such excess to make grants under subsection (a) on a competitive basis to eligible agencies for local and statewide programs.
+&emsp;&emsp;The Secretary shall use 40 percent of such excess to make grants under subsection (a)on a competitive basis to eligible agencies for local and statewide programs.
 
 #### (C) Competitive grants for nationwide programs
 
@@ -85,6 +85,8 @@ There are authorized to be appropriated to carry out this section such sums as m
 A prior section 681 of Pub. L. 97–35 was classified to section 9910 of this title, prior to the general amendment of this chapter by Pub. L. 105–285.
 
 #### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

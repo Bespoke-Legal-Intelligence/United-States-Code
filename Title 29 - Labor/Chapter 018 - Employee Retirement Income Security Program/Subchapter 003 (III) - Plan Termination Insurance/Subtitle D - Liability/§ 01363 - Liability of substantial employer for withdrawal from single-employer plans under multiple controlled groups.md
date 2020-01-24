@@ -40,7 +40,7 @@ The provisions of this subsection apply in the case of a withdrawal described in
 
 &emsp;(1) require the plan fund to be equitably allocated between those participants no longer working in covered service under the plan as a result of the withdrawal, and those participants who remain in covered service under the plan;
 
-&emsp;(2) treat that portion of the plan funds allocable under paragraph (1) to participants nolonger in covered service as a plan terminated under section 1342 of this title; and
+&emsp;(2) treat that portion of the plan funds allocable under paragraph (1) to participants no longer in covered service as a plan terminated under section 1342 of this title; and
 
 &emsp;(3) treat that portion of the plan fund allocable to participants remaining in covered service as a separate plan.
 
@@ -62,7 +62,7 @@ Subsec. (a). Pub. L. 99–272, §11016(a)(5)(A)(i), in introductory par., substi
 
 Subsec. (b). Pub. L. 99–272, §11016(a)(5)(A)(ii), in introductory par., substituted "any one or more contributing sponsors who withdraw, during a plan year for which they constitute a substantial employer, from a single-employer plan which has two or more contributing sponsors at least two of whom are not under common control, shall, upon notification of such contributing sponsors by the corporation as provided by subsection (a), be liable, together with the members of their controlled groups," for "an employer who withdraws from a plan to which section 1321 of this title applies, during a plan year for which he was a substantial employer, and who is notified by the corporation as provided by subsection (a), shall be liable", "amount of liability" for "amount of such employer's liability", and "the withdrawal referred to in subsection (a)(1)" for "the employer's withdrawal", in par. (1), substituted "such contributing sponsors" for "such employer", in par. (2), substituted "all contributing sponsors" for "all employers", and in concluding provision substituted "such liability" for "the liability of each such employer".
 
-Subsec. (c)(1). Pub. L. 99–272, §11016(a)(5)(A)(iii)(I), substituted "of a contributing sponsor's liability under this section, the contributing sponsor" for "of his liability under this section the employer".
+Subsec. (c)(1). Pub. L. 99–272, §11016(a)(5)(A)(iii)(I), substituted "of a contributing sponsor's liability underthis section, the contributing sponsor" for "of his liability under this section the employer".
 
 Subsec. (c)(2). Pub. L. 99–272, §11016(a)(5)(A)(iii)(II), inserted "under section 1341(c) or 1342 of this title" and substituted "liability is" for "liability of such employer is" and "(or the bond cancelled)" for "to the employer (or his bond cancelled)".
 

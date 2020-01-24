@@ -20,7 +20,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(B) is incorporated under the laws of any State or which is operating under the Code of Law for the District of Columbia,
 
-> &emsp;&emsp;including any cooperative bank or other unincorporated bank the deposits of whichwere insured by the Corporation on the day before August 9, 1989.
+> &emsp;&emsp;including any cooperative bank or other unincorporated bank the deposits of which were insured by the Corporation on the day before August 9, 1989.
 
 #### (3) State
 
@@ -108,7 +108,7 @@ As used in this chapter—
 
 #### (h) Insured bank
 
-&emsp;The term "insured bank" means any bank (including a foreign bank having an insured branch) the deposits of which are insured in accordance with the provisions of this chapter; and the term "noninsured bank" means any bank the deposits of which are not so insured.
+&emsp;The term "insured bank" means any bank (including a foreign bank having an insured branch) the deposits of which are insured in accordance with the provisions of this chapter;and the term "noninsured bank" means any bank the deposits of which are not so insured.
 
 #### (i) New depository institution and bridge depository institution defined
 
@@ -122,7 +122,7 @@ As used in this chapter—
 
 #### (j) Receiver
 
-&emsp;The term "receiver" includes a receiver, liquidating agent, conservator, commission, person, or other agency charged by law with theduty of winding up the affairs of a bank or savings association or of a branch of a foreign bank.
+&emsp;The term "receiver" includes a receiver, liquidating agent, conservator, commission, person, or other agency charged by law with the duty of winding up the affairs of a bank or savings association or of a branch of a foreign bank.
 
 #### (k) Board of Directors
 
@@ -166,7 +166,7 @@ In general.—Subject to paragraph (2), the term "insured deposit" means the net
 
 &emsp;&emsp;&emsp;(ii) a partnership, corporation, trust, or other legally cognizable entity created under the laws of the United States or any State and having its principal place of business within the United States or any State, or
 
-&emsp;&emsp;&emsp;(iii) an individual, partnership, corporation, trust, or other legally cognizable entity which is determined by the Board of Directors in accordance with its regulations to have such business or financial relationships in the United States as tomake the insurance of such deposit consistent with the purposes of this chapter;
+&emsp;&emsp;&emsp;(iii) an individual, partnership, corporation, trust, or other legally cognizable entity which is determined by the Board of Directors in accordance with its regulations to have such business or financial relationships in the United States as to make the insurance of such deposit consistent with the purposes of this chapter;
 
 > &emsp;&emsp;and
 
@@ -258,7 +258,7 @@ Preferred deposits.—The term "preferred deposits" means deposits of any public
 
 #### (1) In general
 
-&emsp;&emsp;The terms "includes" and "including" shall not be construed more restrictively than the ordinary usage of such terms so asto exclude any other thing not referred to or described.
+&emsp;&emsp;The terms "includes" and "including" shall not be construed more restrictively than the ordinary usage of such terms so as to exclude any other thing not referred to or described.
 
 #### (2) Rule of construction
 
@@ -352,7 +352,7 @@ Preferred deposits.—The term "preferred deposits" means deposits of any public
 
 #### (2) Designated reserve ratio
 
-&emsp;&emsp;The term "designated reserve ratio" means the reserve ratio designated by theBoard of Directors in accordance with section 1817(b)(3) of this title.
+&emsp;&emsp;The term "designated reserve ratio" means the reserve ratio designated by the Board of Directors in accordance with section 1817(b)(3) of this title.
 
 #### (3) Reserve ratio
 
@@ -396,7 +396,7 @@ Subsec. (z). Pub. L. 111–203, §363(1)(C), struck out "the Director of the Off
 
 "(1)
 
-New bank.—The term 'new bank' means a new national bank, other than a bridge bank, organized by the Corporation in accordance with section 1821(m) of this title.
+New bank.—The term 'new bank' means a new national bank, other than a bridge bank, organized bythe Corporation in accordance with section 1821(m) of this title.
 
 "(2)
 

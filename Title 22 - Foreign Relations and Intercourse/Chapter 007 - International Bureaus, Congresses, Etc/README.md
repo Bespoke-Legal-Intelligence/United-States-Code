@@ -75,6 +75,7 @@
 | 262p–10. | Enhancing the transparency and effectiveness of the Inspection Panel process of the World Bank. |
 | 262p–11. | Opposition to loans or funds for countries that support terrorism. |
 | 262p–12. | Cancellation of Haiti's debts to international financial institutions. |
+| 262p–13. | Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism. |
 | [262q.](%C2%A7%2000262q%20-%20Transferred.md) | Transferred. |
 | [262r.](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md) | Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies. |
 | 262r–1. | Transmission to the Congress of operating summaries of the multilateral development banks. |
@@ -578,6 +579,8 @@
 | [286vv.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286vv%20-%20Capital%20stock%20increases.md) | Capital stock increases. |
 | [286ww.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286ww%20-%20Acceptance%20of%20amendments%20to%20Articles%20of%20Agreement%20of%20Fund.md) | Acceptance of amendments to Articles of Agreement of Fund. |
 | [286xx.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286xx%20-%20Quota%20increase.md) | Quota increase. |
+| [286yy.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286yy%20-%20Opposition%20to%20assistance%20for%20any%20government%20that%20fails%20to%20implement%20sanctions%20on%20North%20Korea.md) | Opposition to assistance for any government that fails to implement sanctions on North Korea. |
+| [286zz.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286zz%20-%20Capital%20stock%20increases.md) | Capital stock increases. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -932,6 +935,7 @@
 - [&sect; 00262p&#8211;10 - Enhancing the transparency and effectiveness of the Inspection Panel process of the World Bank](%C2%A7%2000262p%E2%80%9310%20-%20Enhancing%20the%20transparency%20and%20effectiveness%20of%20the%20Inspection%20Panel%20process%20of%20the%20World%20Bank.md)
 - [&sect; 00262p&#8211;11 - Opposition to loans or funds for countries that support terrorism](%C2%A7%2000262p%E2%80%9311%20-%20Opposition%20to%20loans%20or%20funds%20for%20countries%20that%20support%20terrorism.md)
 - [&sect; 00262p&#8211;12 - Cancellation of Haiti's debts to international financial institutions](%C2%A7%2000262p%E2%80%9312%20-%20Cancellation%20of%20Haiti%27s%20debts%20to%20international%20financial%20institutions.md)
+- [&sect; 00262p&#8211;13 - Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism](%C2%A7%2000262p%E2%80%9313%20-%20Support%20for%20capacity%20of%20the%20International%20Monetary%20Fund%20to%20prevent%20money%20laundering%20and%20financing%20of%20terrorism.md)
 - [&sect; 00262q - Transferred](%C2%A7%2000262q%20-%20Transferred.md)
 - [&sect; 00262r - Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md)
 - [&sect; 00262r&#8211;1 - Transmission to the Congress of operating summaries of the multilateral development banks](%C2%A7%2000262r%E2%80%931%20-%20Transmission%20to%20the%20Congress%20of%20operating%20summaries%20of%20the%20multilateral%20development%20banks.md)

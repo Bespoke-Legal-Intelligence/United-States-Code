@@ -234,7 +234,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the individual's gross income from farming or fishing (including oyster farming) for the taxable year is at least 662/3 percent of the total gross income from all sources for the taxable year, or
 
-&emsp;&emsp;(B) such individual's gross income from farming or fishing (including oyster farming) shown on the return of the individualfor the preceding taxable year is at least 662/3 percent of the total gross income from all sources shown on such return.
+&emsp;&emsp;(B) such individual's gross income from farming or fishing (including oyster farming) shown on the return of the individual for the preceding taxable year is at least 662/3 percent of the total gross income from all sources shown on such return.
 
 #### (j) Special rules for nonresident aliens
 
@@ -279,7 +279,7 @@ In the case of a nonresident alien described in section 6072(c):
 
 #### (1) Fiscal years
 
-&emsp;In applying this section to a taxable year beginning on any date other than January 1, there shall be substituted, for the months specified in this section, the months which correspond thereto.
+&emsp;In applying this section to a taxable year beginning on any date other than January 1,there shall be substituted, for the months specified in this section, the months which correspond thereto.
 
 #### (2) Short taxable year
 
@@ -319,7 +319,7 @@ For purposes of this section, the tax imposed under section 3101(b)(2) (to the e
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 823; Pub. L. 87–682, §1(a)(4), Sept. 25, 1962, 76 Stat. 575; Pub. L. 89–368, title I, §§102(b)(1)–(3), 103(a), Mar. 15, 1966, 80 Stat. 62–64; Pub. L. 91–172, title III, §301(b)(13), Dec. 30, 1969, 83 Stat. 586; Pub. L. 92–5, title II, §203(b)(7), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(7), July 1, 1972, 86 Stat. 420; Pub. L. 93–66, title II, §203(b)(7), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(7), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(a)(35), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 95–30, title I, §102(b)(16), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title IV, §421(e)(9), Nov. 6, 1978, 92 Stat. 2877; Pub. L. 97–34, title VI, §601(a)(6)(A), title VII, §725(b), (c)(5), Aug. 13, 1981, 95 Stat. 336, 346; Pub. L. 97–248, title II, §207(d)(7), formerly §207(c)(7), title III, §§307(a)(14), 308(a), 328(a), Sept. 3, 1982, 96 Stat. 420, 590, 591, 618, renumbered §207(d)(7), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–448, title I, §§106(a)(4)(C), 107(c)(1), title II, §201(j)(3), Jan. 12, 1983, 96 Stat. 2390, 2391, 2396; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §411, July 18, 1984, 98 Stat. 788; Pub. L. 99–514, title XIV, §1404(a), title XV, §§1511(c)(14), 1541(a), (b), title XVIII, §1841, Oct. 22, 1986, 100 Stat. 2713, 2745, 2751, 2852; Pub. L. 100–418, title I, §1941(b)(6)(A), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1014(d)(1), (2), title IV, §4005(g)(5), Nov. 10, 1988, 102 Stat. 3560, 3651; Pub. L. 101–239, title VII, §7811(j)(5), (6), Dec. 19, 1989, 103 Stat. 2411, 2412; Pub. L. 102–164, title IV, §403(a), (b), Nov. 15, 1991, 105 Stat. 1062, 1064; Pub. L. 103–66, title XIII, §13214(a), (b), Aug. 10, 1993, 107 Stat. 475; Pub. L. 103–465, title VII, §711(b), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 105–34, title X, §1091(a), title XII, §1202(a), Aug. 5, 1997, 111 Stat. 962, 994; Pub. L. 105–277, div. J, title II, §2003(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §531(a), Dec. 17, 1999, 113 Stat. 1928; Pub. L. 111–5, div. B, title I, §1212, Feb. 17, 2009, 123 Stat. 336; Pub. L. 111–152, title I,§1402(a)(2), (b)(2), Mar. 30, 2010, 124 Stat. 1062, 1063; Pub. L. 115–141, div. U, title IV, §401(a)(301), (302), (b)(48), (49), (d)(1)(D)(xix), Mar. 23, 2018, 132 Stat. 1199, 1204, 1205, 1208.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 823; Pub. L. 87–682, §1(a)(4), Sept. 25, 1962, 76 Stat. 575; Pub. L. 89–368, title I, §§102(b)(1)–(3), 103(a), Mar. 15, 1966, 80 Stat. 62–64; Pub. L. 91–172, title III, §301(b)(13), Dec. 30, 1969, 83 Stat. 586; Pub. L. 92–5, title II, §203(b)(7), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(7), July 1, 1972, 86 Stat. 420; Pub. L. 93–66, title II, §203(b)(7), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(7), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(a)(35), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 95–30, title I, §102(b)(16), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title IV, §421(e)(9), Nov. 6, 1978, 92 Stat. 2877; Pub. L. 97–34, title VI, §601(a)(6)(A), title VII, §725(b), (c)(5), Aug. 13, 1981, 95 Stat. 336, 346; Pub. L. 97–248, title II, §207(d)(7), formerly §207(c)(7), title III, §§307(a)(14), 308(a), 328(a), Sept. 3, 1982, 96 Stat. 420, 590, 591, 618, renumbered §207(d)(7), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–448, title I, §§106(a)(4)(C), 107(c)(1), title II, §201(j)(3), Jan. 12, 1983, 96 Stat. 2390, 2391, 2396; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §411, July 18, 1984, 98 Stat. 788; Pub. L. 99–514, title XIV, §1404(a), title XV, §§1511(c)(14), 1541(a), (b), title XVIII, §1841, Oct. 22, 1986, 100 Stat. 2713, 2745, 2751, 2852; Pub. L. 100–418, title I, §1941(b)(6)(A), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1014(d)(1), (2), title IV, §4005(g)(5), Nov. 10, 1988, 102 Stat. 3560, 3651; Pub. L. 101–239, title VII, §7811(j)(5), (6), Dec. 19, 1989, 103 Stat. 2411, 2412; Pub. L. 102–164, title IV, §403(a), (b), Nov. 15, 1991, 105 Stat. 1062, 1064; Pub. L. 103–66, title XIII, §13214(a), (b), Aug. 10, 1993, 107 Stat. 475; Pub. L. 103–465, title VII, §711(b), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 105–34, title X, §1091(a), title XII, §1202(a), Aug. 5, 1997, 111 Stat. 962, 994; Pub. L. 105–277, div. J, title II, §2003(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §531(a), Dec. 17, 1999, 113 Stat. 1928; Pub. L. 111–5, div. B, title I, §1212, Feb. 17, 2009, 123 Stat. 336; Pub. L. 111–152, title I, §1402(a)(2), (b)(2), Mar. 30, 2010, 124 Stat. 1062, 1063; Pub. L. 115–141, div. U, title IV, §401(a)(301), (302), (b)(48), (49), (d)(1)(D)(xix), Mar. 23, 2018, 132 Stat. 1199, 1204, 1205, 1208.)
 
 #### Amendments
 
@@ -433,7 +433,7 @@ Subsecs. (j) to (l). Pub. L. 98–369, in amending section generally, added subs
 
 Subsec. (f)(1). Pub. L. 97–448, §107(c)(1), inserted ", reduced by the credit allowable under section 31," before "is less than".
 
-Subsec. (g)(3)(B). Pub. L. 97–448, §201(j)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "to the extent allowed under regulations prescribed by the Secretary, any amount which is treated under section 6429 or 6430 as an overpayment of the tax imposed by section 4986".
+Subsec. (g)(3)(B). Pub. L. 97–448, §201(j)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: "to the extent allowed under regulations prescribed by the Secretary, any amount which is treated under section 6429 or 6430 as an overpayment of the tax imposed by section 4986".
 
 Pub. L. 97–448, §106(a)(4)(C), inserted "or 6430" after "section 6429".
 
@@ -509,7 +509,7 @@ Pub. L. 105–277, div. J, title II, §2003(b), Oct. 21, 1998, 112 Stat. 2681–
 
 Pub. L. 105–34, title X, §1091(b), Aug. 5, 1997, 111 Stat. 962, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to any installment payment for taxable years beginning after December 31, 1997."
 
-Pub. L. 105–34, title XII, §1202(b), Aug. 5, 1997, 111 Stat. 994, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997."
+Pub. L. 105–34, title XII, §1202(b), Aug. 5, 1997, 111 Stat. 994, provided that: "The amendments made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 1997."
 
 #### Effective Date of 1994 Amendment
 
@@ -565,7 +565,7 @@ Amendment by section 106(a)(4)(C) of Pub. L. 97–448 effective Jan. 1, 1982, se
 
 Amendment by title I of Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
-Amendment by title II of Pub. L. 97–448 effective, except as otherwise provided, as if it had been included inthe provision of the Crude Oil Windfall Profit Tax Act of 1980, Pub. L. 96–223, to which such amendment relates, see section 203(a), (b) of Pub. L. 97–448, set out as a note under section 6652 of this title.
+Amendment by title II of Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Crude Oil Windfall Profit Tax Act of 1980, Pub. L. 96–223, to which such amendment relates, see section 203(a), (b) of Pub. L. 97–448, set out as a note under section 6652 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -663,7 +663,7 @@ Pub. L. 99–514, title XV, §1543, Oct. 22, 1986, 100 Stat. 2751, provided that
 
 #### Waiver of Estimated Tax Penalties
 
-No addition to tax to be made under this section for any period before Apr. 16, 1985, with respect to any underpayment, to the extent that such underpayment was created or increased by any provision of Pub. L. 98–369, div. A, see section 1879(a) of Pub. L. 99–514, set out as a note under section 6655 of this title.
+No addition to tax to be made under this section for any period before Apr. 16, 1985, with respect to anyunderpayment, to the extent that such underpayment was created or increased by any provision of Pub. L. 98–369, div. A, see section 1879(a) of Pub. L. 99–514, set out as a note under section 6655 of this title.
 
 #### Increase in Section 31 Credit for Taxable Years Which Include any Portion of Period July 1, 1983, to December 31, 1983
 

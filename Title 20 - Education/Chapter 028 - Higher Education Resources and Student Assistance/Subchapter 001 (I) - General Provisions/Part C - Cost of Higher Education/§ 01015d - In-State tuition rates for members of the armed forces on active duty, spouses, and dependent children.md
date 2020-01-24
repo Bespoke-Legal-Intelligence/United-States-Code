@@ -6,7 +6,7 @@ In the case of a member of the armed forces who is on active duty for a period o
 
 #### (b) Continuation
 
-If a member of the armed forces (or the spouse or dependent child of a member) pays tuition at a public institution of higher education in a State at a rate determined by subsection (a), the provisions of subsection (a) shall continue to apply to such member, spouse, or dependent while continuously enrolled at that institution, notwithstanding a subsequent change in the permanent duty station of the member to a location outside the State.
+If a member of the armed forces (or the spouse or dependent child of a member) pays tuition ata public institution of higher education in a State at a rate determined by subsection (a), the provisions of subsection (a) shall continue to apply to such member, spouse, or dependent while continuously enrolled at that institution, notwithstanding a subsequent change in the permanent duty station of the member to a location outside the State.
 
 #### (c) Effective date
 

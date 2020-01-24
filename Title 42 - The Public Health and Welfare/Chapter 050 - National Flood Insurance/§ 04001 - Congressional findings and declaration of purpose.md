@@ -22,7 +22,7 @@ It is the further purpose of this chapter to (1) encourage State and local gover
 
 #### (f) Mudslides
 
-The Congress also finds that (1) the damage and loss which results from mudslides is related in cause and similar in effect to that which results directly from storms, deluges, overflowing waters, and other forms of flooding, and (2) the problems involved in providing protection against this damage and loss, and the possibilities for making such protection available through a Federal or federally sponsored program, are similar to those which exist in connection with efforts to provide protectionagainst damage and loss caused by such other forms of flooding. It is therefore the further purpose of this chapter to make available, by means of the methods, procedures, and instrumentalities which are otherwise established or available under this chapter for purposes of the flood insurance program, protection against damage and loss resulting from mudslides that are caused by accumulations of water on or under the ground.
+The Congress also finds that (1) the damage and loss which results from mudslides is relatedin cause and similar in effect to that which results directly from storms, deluges, overflowing waters, and other forms of flooding, and (2) the problems involved in providing protection against this damage and loss, and the possibilities for making such protection available through a Federal or federally sponsored program, are similar to those which exist in connection with efforts to provide protection against damage and loss caused by such other forms of flooding. It is therefore the further purpose of this chapter to make available, by means of the methods, procedures, and instrumentalities which are otherwise established or available under this chapter for purposes of the flood insurance program, protection against damage and loss resulting from mudslides that are caused by accumulations of water on or under the ground.
 
 (Pub. L. 90–448, title XIII, §1302, Aug. 1, 1968, 82 Stat. 572; Pub. L. 91–152, title IV, §409(a), Dec. 24, 1969, 83 Stat. 397; Pub. L. 93–234, title I, §108(a), Dec. 31, 1973, 87 Stat. 979; Pub. L. 103–325, title V, §552(d), Sept. 23, 1994, 108 Stat. 2269.)
 
@@ -43,6 +43,10 @@ This chapter, referred to in subsecs. (d) to (f), was in the original a referenc
 #### Effective Date
 
 Pub. L. 90–448, title XIII, §1377, Aug. 1, 1968, 82 Stat. 589, provided that: "This title \[enacting this chapter, amending section 2414 of this title, repealing sections 2401 to 2413 and 2415 to 2421 of this title, and enacting provisions set out as notes under this section\] shall take effect one hundred and twenty days following the date of its enactment \[Aug. 1, 1968\], except that the Secretary, on the basis of a finding that conditions exist necessitating the prescribing of an additional period, may prescribe a later effective date which in no event shall be more than one hundred and eighty days following such date of enactment."
+
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–19, §1, May 31, 2019, 133 Stat. 870, provided that: "This Act \[amending sections 4016 and 4026 of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the 'National Flood Insurance Program Extension Act of 2019'."
 
 #### Short Title of 2018 Amendment
 
@@ -80,11 +84,11 @@ Pub. L. 109–65, §1, Sept. 20, 2005, 119 Stat. 1998, provided that: "This Act 
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–264, §1(a), June 30, 2004, 118 Stat. 712, provided that: "This Act \[enacting sections 4030 and 4102a of this title, amending sections 4011, 4015 to 4017, 4022, 4026, 4056, 4104c, 4104d, 4121, and 4127 of this title, and enacting provisions set out as notes under this section and sections 4011 and 4101 of this title\] may be cited as the 'Bunning-Bereuter-Blumenauer Flood Insurance Reform Act of 2004'."
+Pub. L. 108–264, §1(a), June 30, 2004, 118 Stat. 712, provided that: "This Act \[enacting sections 4030 and 4102aof this title, amending sections 4011, 4015 to 4017, 4022, 4026, 4056, 4104c, 4104d, 4121, and 4127 of this title, and enacting provisions set out as notes under this section and sections 4011 and 4101 of this title\] may be cited as the 'Bunning-Bereuter-Blumenauer Flood Insurance Reform Act of 2004'."
 
 #### Short Title of 2003 Amendments
 
-Pub. L. 108–171, §1, Dec. 6, 2003, 117 Stat. 2064, provided that: "This Act \[amending sections 4016, 4026, 4056, and 4127 of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the'National Flood Insurance Program Reauthorization Act of 2004'."
+Pub. L. 108–171, §1, Dec. 6, 2003, 117 Stat. 2064, provided that: "This Act \[amending sections 4016, 4026, 4056, and 4127 of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the 'National Flood Insurance Program Reauthorization Act of 2004'."
 
 Pub. L. 108–3, §1, Jan. 13, 2003, 117 Stat. 7, provided that: "This Act \[amending sections 4016, 4026, 4056, and 4127 of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the 'National Flood Insurance Program Reauthorization Act of 2003'."
 

@@ -22,7 +22,7 @@ Upon establishment, the Office shall assume the primary responsibility for—
 
 &emsp;(1) monitoring and combating acts of anti-Semitism and anti-Semitic incitement that occur in foreign countries;
 
-&emsp;(2) coordinating and assisting in the preparation of that portion of the report required by sections 2151n(d)(7) and 2304(b) of this title relating to an assessment and description of the nature and extent of acts of anti-Semitismand anti-Semitic incitement for inclusion in the annual Country Reports on Human Rights Practices; and
+&emsp;(2) coordinating and assisting in the preparation of that portion of the report required by sections 2151n(d)(7) and 2304(b) of this title relating to an assessment and description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement for inclusion in the annual Country Reports on Human Rights Practices; and
 
 &emsp;(3) coordinating and assisting in the preparation of that portion of the report required by section 6412(b)(1)(A)(iv) <sup>1</sup> of this title relating to an assessment and description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement for inclusion in the Annual Report on International Religious Freedom.
 
@@ -58,7 +58,7 @@ Pub. L. 108–332, §2, Oct. 16, 2004, 118 Stat. 1282, provided that: "Congress 
 
 &emsp;"(3) Anti-Semitism in old and new forms is also increasingly emanating from the Arab and Muslim world on a sustained basis, including through books published by government-owned publishing houses in Egypt and other Arab countries.
 
-&emsp;"(4) In November 2002, state-run television in Egypt broadcast the anti-Semitic series entitled 'Horseman Without a Horse', which is based upon the fictitious conspiracy theory known as the Protocols of the Elders of Zion. The Protocols have been used throughout the last century by despots such as Adolf Hitler to justify violence against Jews.
+&emsp;"(4) In November 2002, state-run television in Egypt broadcast the anti-Semitic series entitled 'HorsemanWithout a Horse', which is based upon the fictitious conspiracy theory known as the Protocols of the Elders of Zion. The Protocols have been used throughout the last century by despots such as Adolf Hitler to justify violence against Jews.
 
 &emsp;"(5) In November 2003, Arab television featured an anti-Semitic series, entitled 'Ash-Shatat' (or 'The Diaspora'), which depicts Jewish people hatching a plot for Jewish control of the world.
 

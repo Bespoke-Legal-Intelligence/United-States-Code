@@ -38,7 +38,7 @@ The purposes of this section are—
 
 #### (B) Grant funds
 
-&emsp;&emsp;Any funds received by a State or territory under this subsection that are not used for administrative costs shall be used to provide grants to rape crisis centers and other nonprofit, nongovernmental organizations or tribal programs and activities for programs and activities within such State or territory that provide direct intervention and related assistance.
+&emsp;&emsp;Any funds received by a State or territory under this subsection that are not used for administrative costs shall be used to provide grants to rape crisis centers and other nonprofit, nongovernmental organizations or tribal programs and activities for programsand activities within such State or territory that provide direct intervention and related assistance.
 
 #### (C) Intervention and related assistance
 
@@ -120,7 +120,7 @@ The purposes of this section are—
 
 #### (A) In general
 
-&emsp;&emsp;The Attorney General shall award grants to State, territorial, and tribal sexual assault coalitions to assist in supporting the establishment, maintenance, and expansion of such coalitions.
+&emsp;&emsp;The Attorney General shall award grants to State, territorial, and tribal sexual assault coalitions to assist in supporting theestablishment, maintenance, and expansion of such coalitions.
 
 #### (B) Minimum amount
 

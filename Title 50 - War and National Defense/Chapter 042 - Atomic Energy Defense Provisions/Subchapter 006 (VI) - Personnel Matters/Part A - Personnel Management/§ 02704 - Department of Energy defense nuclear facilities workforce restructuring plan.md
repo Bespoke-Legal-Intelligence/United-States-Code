@@ -22,7 +22,7 @@ In preparing the plan required under subsection (a), the Secretary shall be guid
 
 &emsp;&emsp;(A) should be accomplished so as to minimize social and economic impacts;
 
-&emsp;&emsp;(B) should be made only after the provision of notice of such changes not later than 120 days before the commencement of such changes to such employees and the communities in which such facilities are located; and
+&emsp;&emsp;(B) should be made only after the provision of notice of such changes not later than120 days before the commencement of such changes to such employees and the communities in which such facilities are located; and
 
 &emsp;&emsp;(C) should be accomplished, when possible, through the use of retraining, early retirement, attrition, and other options that minimize layoffs.
 

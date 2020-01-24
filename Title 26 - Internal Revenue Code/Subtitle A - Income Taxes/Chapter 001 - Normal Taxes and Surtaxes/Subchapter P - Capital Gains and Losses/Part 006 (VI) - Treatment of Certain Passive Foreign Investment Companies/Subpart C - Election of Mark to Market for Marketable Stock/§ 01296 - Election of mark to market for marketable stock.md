@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of marketable stock in a passive foreign investment company which is owned (or treated under subsection (g) as owned) by a United States person at the close of any taxable year of such person, at the election of such person—
+In the case of marketable stock in a passive foreign investment company which is owned (ortreated under subsection (g) as owned) by a United States person at the close of any taxable year of such person, at the election of such person—
 
 &emsp;(1) If the fair market value of such stock as of the close of such taxable year exceeds its adjusted basis, such United States person shall include in gross income for such taxable year an amount equal to the amount of such excess.
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (2) Special rule for regulated investment companies
 
-&emsp;In the case of any regulated investment company which is offering for sale or has outstanding any stock of which it is the issuer and which is redeemable at its net asset value, all stock in a passive foreign investment company which it owns directly or indirectly shall be treated as marketable stock for purposes of this section. Except as provided in regulations, similar treatment as marketable stock shall apply in the case of any other regulated investment company which publishes net asset valuations at least annually.
+&emsp;In the case of any regulated investment company which is offering for sale or has outstanding any stock of which it is the issuerand which is redeemable at its net asset value, all stock in a passive foreign investment company which it owns directly or indirectly shall be treated as marketable stock for purposes of this section. Except as provided in regulations, similar treatment as marketable stock shall apply in the case of any other regulated investment company which publishes net asset valuations at least annually.
 
 #### (f) Treatment of controlled foreign corporations which are shareholders in passive foreign investment companies
 

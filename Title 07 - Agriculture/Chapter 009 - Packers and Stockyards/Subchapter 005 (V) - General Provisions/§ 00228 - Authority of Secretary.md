@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 103–437, which directed the amendment of subsec. (d) by s
 
 Pub. L. 103–354, §293(b)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Subsecs. (d) to (f). Pub. L. 103–354, §293(b)(2), (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively,and in subsec. (e) substituted "subsection (d)" for "subsection (e)".
+Subsecs. (d) to (f). Pub. L. 103–354, §293(b)(2), (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e) substituted "subsection (d)" for "subsection (e)".
 
 <b>1976</b>—Subsecs. (d) to (f). Pub. L. 94–410 added subsecs. (d) to (f).
 

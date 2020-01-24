@@ -26,7 +26,7 @@ Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year
 
 #### Office of the President Pro Tempore Emeritus of the Senate
 
-Pub. L. 108–7, div. H, title I, §7, Feb. 20, 2003, 117 Stat. 350, as amended by Pub. L. 108–447, div. G, title I, §§4, 13(b), Dec. 8, 2004, 118 Stat. 3169, 3171; Pub. L. 110–161, div. H, title I, §2, Dec. 26, 2007, 121 Stat. 2221; Pub. L. 113–235, div. H, title I, §2, Dec. 16, 2014, 128 Stat. 2525, provided that:
+Pub. L. 108–7, div. H, title I, §7, Feb. 20, 2003, 117 Stat. 350, as amended by Pub. L. 108–447, div. G, title I, §§4,13(b), Dec. 8, 2004, 118 Stat. 3169, 3171; Pub. L. 110–161, div. H, title I, §2, Dec. 26, 2007, 121 Stat. 2221; Pub. L. 113–235, div. H, title I, §2, Dec. 16, 2014, 128 Stat. 2525, provided that:
 
 "(a)
 

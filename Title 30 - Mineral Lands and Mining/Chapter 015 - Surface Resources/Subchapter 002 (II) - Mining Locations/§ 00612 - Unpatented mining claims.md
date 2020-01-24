@@ -2,7 +2,7 @@
 
 #### (a) Prospecting, mining or processing operations
 
-Any mining claim hereafter located under the mining laws of the United States shall not be used, prior to issuance of patent therefor, for any purposes other than prospecting, mining orprocessing operations and uses reasonably incident thereto.
+Any mining claim hereafter located under the mining laws of the United States shall not be used, prior to issuance of patent therefor, for any purposes other than prospecting, mining or processing operations and uses reasonably incident thereto.
 
 #### (b) Reservations in the United States to use of the surface and surface resources
 

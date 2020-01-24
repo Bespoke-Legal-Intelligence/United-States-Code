@@ -60,7 +60,7 @@
 
 #### (C) Limitation
 
-&emsp;&emsp;If the taking of any action or actions under this section to correct an industrialresource shortfall would cause the aggregate outstanding amount of all such actions for such industrial resource shortfall to exceed $50,000,000, no such action or actions may be taken, unless such action or actions are authorized to exceed such amount by an Act of Congress.
+&emsp;&emsp;If the taking of any action or actions under this section to correct an industrial resource shortfall would cause the aggregate outstanding amount of all such actions for such industrial resource shortfall to exceed $50,000,000, no such action or actions may be taken, unless such action or actions are authorized to exceed such amount by an Act of Congress.
 
 #### (7) Waivers authorized
 

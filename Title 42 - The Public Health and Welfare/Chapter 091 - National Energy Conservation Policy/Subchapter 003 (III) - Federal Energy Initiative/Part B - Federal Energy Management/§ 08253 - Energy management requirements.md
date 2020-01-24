@@ -16,7 +16,7 @@
 | &nbsp;2011 | 18&nbsp;&nbsp; |
 | &nbsp;2012 | 21&nbsp;&nbsp; |
 | &nbsp;2013 | 24&nbsp;&nbsp; |
-| &nbsp;2014 | 27   |
+| &nbsp;2014 | 27&nbsp;&nbsp; |
 | &nbsp;2015 | 30\. |
 
 (2) An agency may exclude from the requirements of paragraph (1) any building, and the associated energy consumption and gross square footage, in which energy intensive activities are carried out. Each agency shall identify and list in each report made under section 8258(a) of this title the buildings designated by it for such exclusion.
@@ -43,7 +43,7 @@
 
 &emsp;(iii) the agency has achieved compliance with the energy efficiency requirements of this chapter, the Energy Policy Act of 1992, Executive orders, and other Federal law; and
 
-&emsp;(iv) the agency has implemented all practicable, life cycle cost-effective projects with respect to the Federal building or collection of Federal buildings to be excluded.
+&emsp;(iv) the agency has implemented all practicable, life cycle cost-effective projects withrespect to the Federal building or collection of Federal buildings to be excluded.
 
 (B) A finding of impracticability under subparagraph (A)(i) shall be based on—
 
@@ -157,7 +157,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;&emsp;&emsp;(II) the operational needs of the owner of the facility, including preparation of operation personnel; and
 
-&emsp;&emsp;&emsp;(ii) the primary goal of which is to ensure fully functional systems that can beproperly operated and maintained during the useful life of the facility.
+&emsp;&emsp;&emsp;(ii) the primary goal of which is to ensure fully functional systems that can be properly operated and maintained during the useful life of the facility.
 
 #### (B) Energy manager
 
@@ -217,7 +217,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (ii) Modifications and exceptions
 
-&emsp;&emsp;&emsp;The Secretary, in guidelines issued pursuant to paragraph (6), may make such modifications and provide such exceptions to the calculation of the payback period of a measure as the Secretary determines to be appropriate to achieve the purposes of this chapter.
+&emsp;&emsp;&emsp;The Secretary, in guidelines issued pursuant to paragraph (6), may make such modifications and provide such exceptions to the calculation of the payback period of a measure as the Secretary determines tobe appropriate to achieve the purposes of this chapter.
 
 #### (F) Recommissioning
 

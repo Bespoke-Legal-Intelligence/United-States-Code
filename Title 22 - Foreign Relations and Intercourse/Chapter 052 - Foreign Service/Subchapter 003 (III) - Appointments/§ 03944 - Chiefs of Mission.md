@@ -8,7 +8,7 @@
 
 (3) Contributions to political campaigns should not be a factor in the appointment of an individual as a chief of mission.
 
-(4) The President shall provide the Committee on Foreign Relations of the Senate, with each nomination for an appointment as a chief of mission, a report on the demonstrated competence of that nominee to perform the duties of the position in which he or she is to serve.
+(4) The President shall provide the Committee on Foreign Relations of the Senate, with eachnomination for an appointment as a chief of mission, a report on the demonstrated competence of that nominee to perform the duties of the position in which he or she is to serve.
 
 #### (b) Furnishing of information by Secretary; political campaign contributions report
 

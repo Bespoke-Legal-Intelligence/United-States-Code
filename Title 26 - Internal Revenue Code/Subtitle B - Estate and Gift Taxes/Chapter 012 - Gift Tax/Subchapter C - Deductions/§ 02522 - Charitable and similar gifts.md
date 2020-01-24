@@ -10,7 +10,7 @@ In computing taxable gifts for the calendar year, there shall be allowed as a de
 
 &emsp;(3) a fraternal society, order, or association, operating under the lodge system, but only if such gifts are to be used exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals;
 
-&emsp;(4) posts or organizations of war veterans, or auxiliary units or societies of any such postsor organizations, if such posts, organizations, units, or societies are organized in the United States or any of its possessions, and if no part of their net earnings insures to the benefit of any private shareholder or individual.
+&emsp;(4) posts or organizations of war veterans, or auxiliary units or societies of any such posts or organizations, if such posts, organizations, units, or societies are organized in the United States or any of its possessions, and if no part of their net earnings insures to the benefit of any private shareholder or individual.
 
 > Rules similar to the rules of section 501(j) shall apply for purposes of paragraph (2).
 
@@ -174,7 +174,7 @@ Subsec. (c)(3). Pub. L. 97–34, §423(b), added par. (3).
 
 <b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §1902(a)(12)(D), struck out "Territory" after "any State".
 
-Subsec. (a)(2). Pub. L. 94–455, §§1307(d)(1)(B)(iv), 1313(b)(3), substituted "which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation" for "no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation" after "shareholder or individual" and inserted "or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment)" after "or educational purposes".
+Subsec. (a)(2). Pub. L. 94–455, §§1307(d)(1)(B)(iv), 1313(b)(3), substituted "which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation" for "no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation" after "shareholder or individual" and inserted "or to foster national or international amateur sports competition\(but only if no part of its activities involve the provision of athletic facilities or equipment)" after "or educational purposes".
 
 Subsec. (b)(1). Pub. L. 94–455, §1902(a)(12)(D), struck out "Territory" after "any State".
 

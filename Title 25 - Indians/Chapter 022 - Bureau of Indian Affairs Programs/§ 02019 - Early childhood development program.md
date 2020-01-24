@@ -58,7 +58,7 @@ The Secretary shall provide grants to tribes, tribal organizations, and consorti
 
 The early childhood development programs that are funded by grants provided under subsection (a)—
 
-&emsp;(1) shall coordinate existing programs and may provide services that meet identified needs of parents and children under 6 years of age which are not being met by existing programs, including—
+&emsp;(1) shall coordinate existing programs and may provide services that meet identifiedneeds of parents and children under 6 years of age which are not being met by existing programs, including—
 
 &emsp;&emsp;(A) prenatal care;
 

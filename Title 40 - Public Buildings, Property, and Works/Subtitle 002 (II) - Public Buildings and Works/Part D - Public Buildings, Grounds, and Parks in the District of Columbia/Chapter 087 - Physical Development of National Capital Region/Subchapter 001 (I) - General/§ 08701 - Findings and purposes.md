@@ -38,7 +38,7 @@ Objective.—The general objective of this chapter (except sections 8733–8736)
 
 &emsp;&emsp;(A) consistent with the nature and function of the National Capital and with due regard for the rights and prerogatives of the adjoining States and local governments to exercise control appropriate to their functions; and
 
-&emsp;&emsp;(B) which will, in accordance with present and future needs, best promote public health, safety, morals, order, convenience, prosperity, and the general welfare, as wellas efficiency and economy in the process of development.
+&emsp;&emsp;(B) which will, in accordance with present and future needs, best promote public health, safety, morals, order, convenience, prosperity, and the general welfare, as well as efficiency and economy in the process of development.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1216.)
 

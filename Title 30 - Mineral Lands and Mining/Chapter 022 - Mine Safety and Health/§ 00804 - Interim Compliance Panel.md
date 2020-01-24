@@ -54,7 +54,7 @@ This chapter, referred to in subsecs. (c), (e), and (f)(1), was in the original 
 
 "United States Bureau of Mines" substituted for "Bureau of Mines" in subsec. (a)(4) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 
-"Department of Health and Human Services" substituted for "Department of Health, Education, and Welfare" in subsec. (a) and "Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (c) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Department of Health and Human Services" substituted for "Department of Health, Education, andWelfare" in subsec. (a) and "Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (c) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1977 Amendment
 

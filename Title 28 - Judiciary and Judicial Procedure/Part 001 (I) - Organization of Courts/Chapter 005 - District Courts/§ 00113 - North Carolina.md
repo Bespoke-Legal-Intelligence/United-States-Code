@@ -4,7 +4,7 @@ North Carolina is divided into three judicial districts to be known as the Easte
 
 ### Eastern District
 
-(a) The Eastern District comprises the counties of Beaufort, Bertie, Bladen, Brunswick, Camden, Carteret, Chowan, Columbus, Craven, Cumberland, Currituck, Dare, Duplin, Edgecombe, Franklin, Gates, Granville, Greene, Halifax, Harnett, Hertford, Hyde, Johnston, Jones, Lenoir, Martin, Nash, New Hanover,Northampton, Onslow, Pamlico, Pasquotank, Pender, Perquimans, Pitt, Robeson, Sampson, Tyrrell, Vance, Wake, Warren, Washington, Wayne, and Wilson and that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina.
+(a) The Eastern District comprises the counties of Beaufort, Bertie, Bladen, Brunswick, Camden, Carteret, Chowan, Columbus, Craven, Cumberland, Currituck, Dare, Duplin, Edgecombe, Franklin, Gates, Granville, Greene, Halifax, Harnett, Hertford, Hyde, Johnston, Jones, Lenoir, Martin, Nash, New Hanover, Northampton, Onslow, Pamlico, Pasquotank, Pender, Perquimans, Pitt, Robeson, Sampson, Tyrrell, Vance, Wake, Warren, Washington, Wayne, and Wilson and that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina.
 
 &emsp;&emsp;Court for the Eastern District shall be held at Elizabeth City, Fayetteville, Greenville, New Bern, Raleigh, Wilmington, and Wilson.
 

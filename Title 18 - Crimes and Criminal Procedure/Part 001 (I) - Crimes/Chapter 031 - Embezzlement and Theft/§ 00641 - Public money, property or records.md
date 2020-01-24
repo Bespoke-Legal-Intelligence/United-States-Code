@@ -32,7 +32,7 @@ Since the purchasing power of the dollar is less than it was when $50 was the fi
 
 The meaning of "value" in the last paragraph of the revised section is written to conform with that provided in section 2311 of this title by inserting the words "face, par, or".
 
-This section incorporates the recommendation of Paul W. Hyatt, president, board of commissioners of the Idaho State Bar Association, that sections 82 and 100 of title 18, U.S.C., 1940 ed., be combined and simplified.
+This section incorporates the recommendation of Paul W. Hyatt, president, board of commissioners ofthe Idaho State Bar Association, that sections 82 and 100 of title 18, U.S.C., 1940 ed., be combined and simplified.
 
 Also, with respect to section 101 of title 18, U.S.C., 1940 ed., this section meets the suggestion of P. F. Herrick, United States attorney for Puerto Rico, that the punishment provision of said section be amended to make the offense a misdemeanor where the amount involved is $50 or less.
 

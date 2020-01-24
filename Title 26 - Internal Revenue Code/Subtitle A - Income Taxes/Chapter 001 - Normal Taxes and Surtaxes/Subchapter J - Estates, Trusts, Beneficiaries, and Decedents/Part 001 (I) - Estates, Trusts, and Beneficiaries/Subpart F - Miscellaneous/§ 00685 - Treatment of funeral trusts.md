@@ -16,7 +16,7 @@ For purposes of this subsection, the term "qualified funeral trust" means any tr
 
 &emsp;(2) the sole purpose of the trust is to hold, invest, and reinvest funds in the trust and to use such funds solely to make payments for such services or property for the benefit of the beneficiaries of the trust,
 
-&emsp;(3) the only beneficiaries of such trust are individuals with respect to whom such services or property are to be provided at theirdeath under contracts described in paragraph (1),
+&emsp;(3) the only beneficiaries of such trust are individuals with respect to whom such services or property are to be provided at their death under contracts described in paragraph (1),
 
 &emsp;(4) the only contributions to the trust are contributions by or for the benefit of such beneficiaries,
 

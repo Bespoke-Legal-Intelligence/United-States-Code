@@ -6,7 +6,7 @@ In General.—Except as provided in subsection (c), the Secretary of Defense may
 
 &emsp;(1) procure any covered material melted or produced in any covered nation, or any end item that contains a covered material manufactured in any covered nation, except as provided by subsection (c); or
 
-&emsp;(2) sell any covered material from the National Defense Stockpile, if the National Defense Stockpile Manager determines that such a sale is not in the national interests of the United States, to—
+&emsp;(2) sell any material from the National Defense Stockpile, if the National Defense Stockpile Manager determines that such a sale is not in the national interests of the United States, to—
 
 &emsp;&emsp;(A) any covered nation; or
 
@@ -32,7 +32,7 @@ Exceptions.—Subsection (a) does not apply under the following circumstances:
 
 &emsp;&emsp;&emsp;(ii) a mill product, such as bar, billet, slab, wire, cube, sphere, block, blank, plate, or sheet, that has not been incorporated into an end item, subsystem, assembly, or component;
 
-&emsp;&emsp;(B) an electronic device, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Boardpursuant to section 187 of this title, determines that the domestic availability of a particular electronic device is critical to national security; or
+&emsp;&emsp;(B) an electronic device, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title, determines that the domestic availability of a particular electronic device is critical to national security; or
 
 &emsp;&emsp;(C) a neodymium-iron-boron magnet manufactured from recycled material if the milling of the recycled material and sintering of the final magnet takes place in the United States.
 
@@ -48,9 +48,11 @@ Covered material.—The term "covered material" means—
 
 &emsp;&emsp;(B) neodymium-iron-boron magnets;
 
-&emsp;&emsp;(C) tungsten metal powder; and
+&emsp;&emsp;(C) tungsten metal powder;
 
-&emsp;&emsp;(D) tungsten heavy alloy or any finished or semi-finished component containing tungsten heavy alloy.
+&emsp;&emsp;(D) tungsten heavy alloy or any finished or semi-finished component containing tungsten heavy alloy; and
+
+&emsp;&emsp;(E) tantalum metals and alloys.
 
 &emsp;(2)
 
@@ -68,5 +70,11 @@ Covered nation.—The term "covered nation" means—
 
 End item.—The term "end item" has the meaning given in section 2533b(m) of this title.
 
-(Added Pub. L. 115–232, div. A, title VIII, §871(a), Aug. 13, 2018, 132 Stat. 1904.)
+(Added Pub. L. 115–232, div. A, title VIII, §871(a), Aug. 13, 2018, 132 Stat. 1904; amended Pub. L. 116–92, div. A, title VIII, §849, Dec. 20, 2019, 133 Stat. 1508.)
+
+#### Amendments
+
+<b>2019</b>—Subsec. (a)(2). Pub. L. 116–92, §849(a), substituted "material" for "covered material" in introductory provisions.
+
+Subsec. (d)(1)(E). Pub. L. 116–92, §849(b), added subpar. (E).
 

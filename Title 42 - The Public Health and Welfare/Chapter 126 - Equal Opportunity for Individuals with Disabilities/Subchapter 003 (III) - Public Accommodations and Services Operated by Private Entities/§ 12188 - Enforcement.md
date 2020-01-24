@@ -8,7 +8,7 @@
 
 #### (2) Injunctive relief
 
-&emsp;In the case of violations of sections 12182(b)(2)(A)(iv) and section <sup>1</sup> 12183(a) of this title, injunctive relief shall include an order to alter facilities to make such facilities readily accessible to and usable by individuals with disabilities to the extent required by this subchapter. Where appropriate, injunctive relief shall also include requiring the provision of an auxiliary aid or service, modification of a policy, or provision of alternative methods, to the extent required by this subchapter.
+&emsp;In the case of violations of sections 12182(b)(2)(A)(iv) and section <sup>1</sup> 12183(a) of this title, injunctive relief shall include an order to alter facilities to make such facilities readily accessible to and usable by individuals with disabilities to the extent required by this subchapter. Where appropriate, injunctive reliefshall also include requiring the provision of an auxiliary aid or service, modification of a policy, or provision of alternative methods, to the extent required by this subchapter.
 
 #### (b) Enforcement by Attorney General
 

@@ -2,7 +2,7 @@
 
 #### (a) Assistance to forest landowners and others
 
-The Secretary may provide financial, technical, educational, and related assistance to State foresters or equivalent State officials, and State extension directors, to enable such officials to provide technical information, advice, and related assistance to private forest land owners and managers, vendors, forest resource operators, forest resource professionals, public agencies, and individuals to enable such persons to carry out activities that are consistent with the purposes of this chapter, including—
+The Secretary may provide financial, technical, educational, and related assistance toState foresters or equivalent State officials, and State extension directors, to enable such officials to provide technical information, advice, and related assistance to private forest land owners and managers, vendors, forest resource operators, forest resource professionals, public agencies, and individuals to enable such persons to carry out activities that are consistent with the purposes of this chapter, including—
 
 &emsp;(1) protecting, maintaining, enhancing, restoring, and preserving forest lands and the multiple values and uses that depend on such lands;
 

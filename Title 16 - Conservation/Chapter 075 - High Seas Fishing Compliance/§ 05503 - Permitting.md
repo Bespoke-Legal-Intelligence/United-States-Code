@@ -10,7 +10,7 @@ No high seas fishing vessel shall engage in harvesting operations on the high se
 
 &emsp;(A) the foreign nation suspended such authorization because the vessel undermined the effectiveness of international conservation and management measures, and the suspension has not expired; or
 
-&emsp;(B) the foreign nation, within the last three years preceding application for a permit under this section, withdrew such authorization because the vessel undermined the effectivenessof international conservation and management measures.
+&emsp;(B) the foreign nation, within the last three years preceding application for a permit under this section, withdrew such authorization because the vessel undermined the effectiveness of international conservation and management measures.
 
 (2) The restriction in paragraph (1) does not apply if ownership of the vessel has changed since the vessel undermined the effectiveness of international conservation and management measures, and the new owner has provided sufficient evidence to the Secretary demonstrating that the previous owner or operator has no further legal, beneficial or financial interest in, or control of, the vessel.
 

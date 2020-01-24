@@ -6,6 +6,12 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–72, §1, Nov. 25, 2019, 133 Stat. 1151, provided that: "This Act \[amending section 48 of this title\] may be cited as the 'Preventing Animal Cruelty and Torture Act' or the 'PACT Act'."
+
+Pub. L. 116–31, §1, July 25, 2019, 133 Stat. 1034, provided that: "This Act \[amending section 175b of this title\] may be cited as the 'Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019'."
+
 #### Short Title of 2018 Amendment
 
 Pub. L. 115–395, §1, Dec. 21, 2018, 132 Stat. 5287, provided that: "This Act \[amending sections 2258A to 2258E of this title\] may be cited as the 'CyberTipline Modernization Act of 2018'."
@@ -44,13 +50,13 @@ Pub. L. 114–133, §1, Mar. 9, 2016, 130 Stat. 296, provided that: "This Act \[
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–22, §1(a), May 29, 2015, 129 Stat. 227, provided that: "This Act \[see Tables for classification\] may be cited as the 'Justice for Victims of Trafficking Act of 2015'."
+Pub. L. 114–22, §1(a), May 29, 2015, 129 Stat. 227, provided that: "This Act \[see Tables for classification\]may be cited as the 'Justice for Victims of Trafficking Act of 2015'."
 
 Pub. L. 114–22, title I, §118(a), May 29, 2015, 129 Stat. 247, provided that: "This section \[amending section 1591 of this title\] may be cited as the 'Stop Advertising Victims of Exploitation Act of 2015' or the 'SAVE Act of 2015'."
 
 #### Short Title of 2014 Amendment
 
-Pub. L. 113–104, §1, May 20, 2014, 128 Stat. 1156, provided that: "This Act \[amending section 117 of thistitle\] may be cited as the 'Kilah Davenport Child Protection Act of 2013'."
+Pub. L. 113–104, §1, May 20, 2014, 128 Stat. 1156, provided that: "This Act \[amending section 117 of this title\] may be cited as the 'Kilah Davenport Child Protection Act of 2013'."
 
 #### Short Title of 2013 Amendment
 

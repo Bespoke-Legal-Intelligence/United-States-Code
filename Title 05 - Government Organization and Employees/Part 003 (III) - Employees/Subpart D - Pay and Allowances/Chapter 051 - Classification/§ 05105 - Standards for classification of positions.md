@@ -30,7 +30,7 @@ Oct. 28, 1949, ch. 782, §401, 63 Stat. 957.
 
 The section is restated for clarity.
 
-In subsection (b), the requirement that the Commission keep the standards up to date is omitted as included in the requirement that the Commission revise, supplement, or abolish existing standards, or prepare new standards so as to keep them current as nearly as practicable.
+In subsection (b), the requirement that the Commission keep the standards up to date is omitted as included in the requirement that the Commission revise, supplement, or abolish existing standards, or preparenew standards so as to keep them current as nearly as practicable.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

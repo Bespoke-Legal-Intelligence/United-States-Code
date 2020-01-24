@@ -14,7 +14,7 @@ The Director of the National Security Agency, on behalf of the Secretary of Defe
 
 &emsp;&emsp;(B) in the case of selected personnel serving in circumstances similar to those in which personnel of the Central Intelligence Agency serve, comparable to those provided by the Director of Central Intelligence to personnel of the Central Intelligence Agency;
 
-&emsp;(2) housing (including heat, light, and household equipment) without cost to such personnel, if the Director of the National Security Agency, on behalf of the Secretary of Defense determines that it would be in the public interest to provide such housing; and
+&emsp;(2) housing (including heat, light, and household equipment) without cost to such personnel, if the Director of the National SecurityAgency, on behalf of the Secretary of Defense determines that it would be in the public interest to provide such housing; and
 
 &emsp;(3) special retirement accrual in the same manner provided in section 2153 of this title and in section 3518 of this title.
 
@@ -44,7 +44,7 @@ Section was formerly classified in a note under section 402 of this title prior 
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b)(3). Pub. L. 102–496 substituted "the Central Intelligence Agency Retirement Act" for "theCentral Intelligence Agency Retirement Act of 1964 for Certain Employees".
+<b>1992</b>—Subsec. (b)(3). Pub. L. 102–496 substituted "the Central Intelligence Agency Retirement Act" for "the Central Intelligence Agency Retirement Act of 1964 for Certain Employees".
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–193 substituted a semicolon for "(including special retirement accrual in the same manner provided in section 303 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (50 U.S.C. 403 note)); and" at end of subpar. (B) of par. (1) and added par. (3).
 

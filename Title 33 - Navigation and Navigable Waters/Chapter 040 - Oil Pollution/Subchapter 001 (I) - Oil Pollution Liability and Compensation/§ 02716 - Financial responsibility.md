@@ -10,7 +10,7 @@ The responsible party for—
 
 &emsp;(3) any tank vessel over 100 gross tons using any place subject to the jurisdiction of the United States;
 
-> shall establish and maintain, in accordance with regulations promulgated by the Secretary, evidence of financial responsibility sufficient to meet the maximum amount of liability to which the responsible party could be subjected under section 2704(a) or (d) of this title, in a case where the responsible party would be entitled to limit liability under that section. If the responsibleparty owns or operates more than one vessel, evidence of financial responsibility need be established only to meet the amount of the maximum liability applicable to the vessel having the greatest maximum liability.
+> shall establish and maintain, in accordance with regulations promulgated by the Secretary, evidence of financial responsibility sufficient to meet the maximum amount of liability to which the responsible party could be subjected under section 2704(a) or (d) of this title, in a case where the responsible party would be entitled to limit liability under that section. If the responsible party owns or operates more than one vessel, evidence of financial responsibility need be established only to meet the amount of the maximum liability applicable to the vessel having the greatest maximum liability.
 
 #### (b) Sanctions
 
@@ -60,7 +60,7 @@ The responsible party for—
 
 #### (C) Greater amount
 
-&emsp;&emsp;If the President determines that an amount of financial responsibility for a responsible party greater than the amount required by subparagraph (B) is justified based on the relative operational, environmental, human health, and other risks posed by the quantity or quality of oil that is explored for, drilled for, produced, or transported by the responsible party, the evidence of financial responsibility required shall be for an amount determined by the President not exceeding $150,000,000.
+&emsp;&emsp;If the President determines that an amount of financial responsibility for a responsible party greater than the amount required by subparagraph (B) is justified based on the relative operational, environmental, human health, and other risks posed by thequantity or quality of oil that is explored for, drilled for, produced, or transported by the responsible party, the evidence of financial responsibility required shall be for an amount determined by the President not exceeding $150,000,000.
 
 #### (D) Multiple facilities
 
@@ -76,7 +76,7 @@ The responsible party for—
 
 #### (e) <sup>1</sup> Methods of financial responsibility
 
-Financial responsibility under this section may be established by any one, or by any combination, of the following methods which the Secretary (in the case of a vessel) or the President (in the case of a facility) determines to be acceptable: evidence of insurance, surety bond, guarantee, letter of credit, qualification as a self-insurer, or other evidence of financial responsibility. Any bond filed shall be issued by a bonding company authorized to do business in the United States. In promulgating requirements under this section, the Secretary or the President, as appropriate, may specify policy or other contractual terms, conditions, or defenses which are necessary, or which are unacceptable,in establishing evidence of financial responsibility to effectuate the purposes of this Act.
+Financial responsibility under this section may be established by any one, or by any combination, of the following methods which the Secretary (in the case of a vessel) or the President (in the case of a facility) determines to be acceptable: evidence of insurance, surety bond, guarantee, letter of credit, qualification as a self-insurer, or other evidence of financial responsibility. Any bond filed shall be issued by a bonding company authorized to do business in the United States. In promulgating requirements under this section, the Secretary or the President, as appropriate, may specify policy or other contractual terms, conditions, or defenses which are necessary, or which are unacceptable, in establishing evidence of financial responsibility to effectuate the purposes of this Act.
 
 #### (f) Claims against guarantor
 
@@ -138,7 +138,7 @@ In subsec. (b)(1), "section 60105 of title 46" substituted for "section 4197 of 
 
 Subsec. (f). Pub. L. 104–324, §1125(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Any claim for which liability may be established under section 2702 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke (1) all rights and defenses which would be available to the responsible party under this Act, (2) any defense authorized under subsection (e), and (3) the defense that the incident was caused by the willful misconduct of the responsible party. The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor."
 
-Subsec. (g). Pub. L. 104–324, §1125(a)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Nothing inthis Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility required under this Act which that guarantor has provided for a responsible party."
+Subsec. (g). Pub. L. 104–324, §1125(a)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Nothing in this Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility required under this Act which that guarantor has provided for a responsible party."
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–55 substituted "the responsible party could be subjected under section 2704(a) or (d) of this title" for ", in the case of a tank vessel, the responsible party could be subject under section 2704(a)(1) or (d) of this title, or to which, in the case of any other vessel, the responsible party could be subjected under section 2704(a)(2) or (d) of this title".
 

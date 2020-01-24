@@ -38,7 +38,7 @@ Subject to the succeeding provisions of this section, the Secretary shall provid
 
 #### (B) Relation to other obligations
 
-&emsp;&emsp;Compensation under subsection (a) shall not be made to an eligible individual to the extent that the total of amounts paid to the individual under such subsection and under the other obligations referred to in subparagraph (A) is an amount that exceeds the rate specified in subsection (b)(1). If under any such other obligation a lump-sum payment is made, such payment shall, for purposes of this paragraph, be deemed to be received over multiple years rather than received in a single year. The Secretary may, in the discretion of the Secretary, determine how to apportion such payment over multiple years.
+&emsp;&emsp;Compensation under subsection (a) shall not be made to an eligible individual to the extent that the total of amounts paid to the individual under such subsection and under the other obligations referred to in subparagraph (A) is an amount that exceeds the rate specified in subsection (b)(1). If under anysuch other obligation a lump-sum payment is made, such payment shall, for purposes of this paragraph, be deemed to be received over multiple years rather than received in a single year. The Secretary may, in the discretion of the Secretary, determine how to apportion such payment over multiple years.
 
 #### (2) No benefits in case of death
 
@@ -52,7 +52,7 @@ Subject to the succeeding provisions of this section, the Secretary shall provid
 
 &emsp;&emsp;&emsp;(i) total compensation paid to an individual under subsection (a) shall not exceed $50,000 for any year; and
 
-&emsp;&emsp;&emsp;(ii) the lifetime total of such compensation for the individual may not exceed anamount equal to the amount authorized to be paid under section 239e of this title.
+&emsp;&emsp;&emsp;(ii) the lifetime total of such compensation for the individual may not exceed an amount equal to the amount authorized to be paid under section 239e of this title.
 
 #### (B) Permanent and total disability
 

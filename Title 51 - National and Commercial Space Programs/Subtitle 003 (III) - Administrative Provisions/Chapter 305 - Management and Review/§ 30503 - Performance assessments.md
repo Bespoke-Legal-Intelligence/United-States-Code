@@ -10,7 +10,7 @@ Timing.—Beginning with the first fiscal year following December 30, 2005, the 
 
 (c)
 
-Reports.—Not later than March 1 of each year, beginning with the first fiscal year after December 30, 2005, the Administrator shall transmit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
+Reports.—Not later than March 1 of each year, beginning with the first fiscal year afterDecember 30, 2005, the Administrator shall transmit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
 
 &emsp;(1) setting forth in detail the results of any external review under subsection (a);
 

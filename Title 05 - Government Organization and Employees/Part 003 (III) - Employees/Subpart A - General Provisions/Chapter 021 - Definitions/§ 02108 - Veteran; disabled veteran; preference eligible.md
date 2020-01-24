@@ -26,7 +26,7 @@ For the purpose of this title—
 
 &emsp;&emsp;(D) the unmarried widow or widower of a veteran as defined by paragraph (1)(A) of this section;
 
-&emsp;&emsp;(E) the wife or husband of a service-connected disabled veteran if the veteran has been unable to qualify for any appointment in the civil service or in the government of the District of Columbia;
+&emsp;&emsp;(E) the wife or husband of a service-connected disabled veteran if the veteran has been unable to qualify for any appointmentin the civil service or in the government of the District of Columbia;
 
 &emsp;&emsp;(F) the parent of an individual who lost his or her life under honorable conditions while serving in the armed forces during a period named by paragraph (1)(A) of this section, if—
 

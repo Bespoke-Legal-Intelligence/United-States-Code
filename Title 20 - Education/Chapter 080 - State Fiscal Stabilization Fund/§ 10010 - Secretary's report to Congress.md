@@ -4,7 +4,3 @@ The Secretary shall submit a report to the Committee on Education and Labor of t
 
 (Pub. L. 111–5, div. A, title XIV, §14010, Feb. 17, 2009, 123 Stat. 285.)
 
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-

@@ -40,7 +40,7 @@
 
 &emsp;(B) obtaining a consumer report in order to assess the ability of a person described in subparagraph (A)(i) of this paragraph to repay the indebtedness of such person to the United States, but the Secretary may release the name or address of such person for the purpose stated in this clause only if the Secretary determines under such regulations that such person has failed to respond appropriately to administrative efforts to collect such indebtedness.
 
-(3) The Secretary may also release to a consumer reporting agency, for the purposes specified in subparagraph (A) or (B) of paragraph (2) of this subsection, such other information as theSecretary determines under such regulations is reasonably necessary to identify a person described in such paragraph, except that the Secretary may not release to a consumer reporting agency any information which indicates any indebtedness on the part of such person to the United States or any information which reflects adversely on such person. Before releasing any information under this paragraph, the Secretary shall, under such regulations, take reasonable steps to provide for the protection of the personal privacy of persons about whom information is proposed to be released under this paragraph.
+(3) The Secretary may also release to a consumer reporting agency, for the purposes specified in subparagraph (A) or (B) of paragraph (2) of this subsection, such other information as the Secretary determines under such regulations is reasonably necessary to identify a person described in such paragraph, except that the Secretary may not release to a consumer reporting agency any information which indicates any indebtedness on the part of such person to the United States or any information which reflects adversely on such person. Before releasing any information under this paragraph, the Secretary shall, under such regulations, take reasonable steps to provide for the protection of the personal privacy of persons about whom information is proposed to be released under this paragraph.
 
 (4)(A) If the Secretary determines, under regulations which the Secretary shall prescribe, that a person described in paragraph (1) of this subsection has failed to respond appropriately to reasonable administrative efforts to collect an indebtedness of such person described in paragraph (2)(A)(i) of this subsection, the Secretary may release information concerning the indebtedness, including the name and address of such person, to a consumer reporting agency for the purpose of making such information available for inclusion in consumer reports regarding such person and, if necessary, for the purpose of locating such person, if—
 
@@ -60,7 +60,7 @@
 
 (2) A release of information under paragraph (1) of this subsection may be made for the purpose of—
 
-&emsp;(A) determining the creditworthiness, credit capacity, income, or financial resources of a person who has (i) applied for any benefit under chapter 37 of this title, or (ii) submitted an offer to the Secretary for the purchase of property acquired by the Secretary under section 3720(a)(5) of this title;
+&emsp;(A) determining the creditworthiness, credit capacity, income, or financial resources of a person who has (i) applied for any benefit under chapter 37 of this title, or (ii) submittedan offer to the Secretary for the purchase of property acquired by the Secretary under section 3720(a)(5) of this title;
 
 &emsp;(B) verifying, either before or after the Secretary has approved a person's application for assistance in the form of a loan guaranty or loan insurance under chapter 37 of this title, information submitted by a lender to the Secretary regarding the creditworthiness, credit capacity, income, or financial resources of such person;
 
@@ -116,7 +116,7 @@
 
 #### Applicability of Amendment
 
-<i>Amendment of section by section 2(u)(2) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.</i>
+<i>Amendment of section by section 2(u)(2) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans</i><i>Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.</i>
 
 #### References in Text
 

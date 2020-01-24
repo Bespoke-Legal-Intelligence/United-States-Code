@@ -14,7 +14,7 @@
 
 (c) The Board on its own motion may correct an obvious error in the record, without regard to whether there has been a motion or order for reconsideration.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, §4003; Pub. L. 100–687, div. A, title II, §202(a), Nov. 18, 1988, 102 Stat. 4110; renumbered §7103, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, §6(a), July 1, 1994, 108 Stat. 741; Pub. L. 115–55, §2(o), Aug. 23, 2017, 131 Stat. 1111.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, §4003; Pub. L. 100–687, div. A, title II, §202(a), Nov. 18,1988, 102 Stat. 4110; renumbered §7103, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, §6(a), July 1, 1994, 108 Stat. 741; Pub. L. 115–55, §2(o), Aug. 23, 2017, 131 Stat. 1111.)
 
 #### Applicability of Amendment
 

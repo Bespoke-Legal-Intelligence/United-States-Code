@@ -34,7 +34,7 @@ Delegation.—(1) Subject to regulations, supervision, and review the Administra
 
 (2) The Administrator may rescind a delegation under this subsection at any time for any reason the Administrator considers appropriate.
 
-(3) A person affected by an action of a private person under this subsection may apply for reconsideration of the action by the Administrator. On the Administrator's own initiative, the Administrator may reconsider the action of a private person at any time. If the Administrator decides on reconsideration that the action is unreasonable or unwarranted, the Administrator shall change, modify, or reverse the action. If the Administrator decides the action is warranted, the Administrator shall affirm the action.
+(3) A person affected by an action of a private person under this subsection may apply for reconsideration of the action by the Administrator. On the Administrator's own initiative, the Administrator may reconsider the action ofa private person at any time. If the Administrator decides on reconsideration that the action is unreasonable or unwarranted, the Administrator shall change, modify, or reverse the action. If the Administrator decides the action is warranted, the Administrator shall affirm the action.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1186; Pub. L. 108–176, title II, §227(a), Dec. 12, 2003, 117 Stat. 2531.)
 

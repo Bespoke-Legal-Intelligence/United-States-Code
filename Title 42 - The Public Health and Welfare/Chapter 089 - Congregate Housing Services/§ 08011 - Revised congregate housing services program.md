@@ -164,7 +164,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (B) Other residents and nonresidents
 
-&emsp;&emsp;Fees shall be established under this paragraph for residents of eligible housingprojects (other than eligible project residents) and for nonresidents that receive services from a congregate services program pursuant to subsection (e). Such fees shall be in an amount equal to the cost of providing the services.
+&emsp;&emsp;Fees shall be established under this paragraph for residents of eligible housing projects (other than eligible project residents) and for nonresidents that receive services from a congregate services program pursuant to subsection (e). Such fees shall be in an amount equal to the cost of providing the services.
 
 #### (8) Direct and indirect provision of services
 
@@ -192,7 +192,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (4) Eligibility of other residents
 
-&emsp;The elderly and persons with disabilities who reside in an eligible housing project other than eligible project residents under paragraph (1) may receive services from a congregate services program under this section if the housing managers, congregate service coordinators, and the professional assessment committee jointly determine that the participation of such individuals will not negatively affect the provision of services to eligible project residents. Residents eligible for services under this paragraph shall pay fees as provided under subsection (d).
+&emsp;The elderly and persons with disabilities who reside in an eligible housing project other than eligible project residents under paragraph (1) may receive services from a congregate services program under this section if the housing managers, congregate service coordinators, and the professional assessment committee jointly determine that the participation of such individuals will not negativelyaffect the provision of services to eligible project residents. Residents eligible for services under this paragraph shall pay fees as provided under subsection (d).
 
 #### (5) Eligibility of nonresidents
 
@@ -284,7 +284,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 &emsp;&emsp;(i) For any congregate services program that was receiving assistance under a contract under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] on November 28, 1990,<sup>6</sup> the unit of general local government or nonprofit housing sponsor, in coordination with a local government with respect to such program shall not be subject to the requirement to provide supplemental contributions under subparagraph (A)(i) (for such program) for the 6-year period beginning on the expiration of the contract for such assistance. The Secretary concerned shall require each such program to maintain, for such 6-year period, the same dollar amount of annual contributions in support of the services eligible for assistance under this section as were contributed to such program during the year preceding November 28, 1990.<sup>6</sup>
 
-&emsp;&emsp;(ii) To the extent that the limitations under subsection (d)(7) regarding the percentage of income eligible residents may pay for services will result in collected fees for any congregate services program of less than 10 percent of the cost of providing the program, 50 percent of such remaining costsshall be provided by the recipient of amounts under the contract and 50 percent of such remaining costs shall be provided by the Secretary concerned under such contract.
+&emsp;&emsp;(ii) To the extent that the limitations under subsection (d)(7) regarding the percentage of income eligible residents may pay for services will result in collected fees for any congregate services program of less than 10 percent of the cost of providing the program, 50 percent of such remaining costs shall be provided by the recipient of amounts under the contract and 50 percent of such remaining costs shall be provided by the Secretary concerned under such contract.
 
 #### (C) Eligible supplemental contributions
 
@@ -308,7 +308,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 &emsp;Each housing project that receives assistance under this section shall, to the maximum extent practicable, utilize the elderly and persons with disabilities who are residents of the housing project, but who are not eligible project residents, to participate in providing the services provided under congregate services programs under this section. Such individuals shall be paid wages that shall not be lower than the higher of—
 
-&emsp;&emsp;(A) the minimum wage that would be applicable to the employee under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\], if section 6(a)(1) of such Act \[29 U.S.C. 206(a)(1)\] applied to the resident and if the resident were not exempt under section 13 of such Act \[29 U.S.C. 213\];
+&emsp;&emsp;(A) the minimum wage that would be applicable to the employee under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 etseq.\], if section 6(a)(1) of such Act \[29 U.S.C. 206(a)(1)\] applied to the resident and if the resident were not exempt under section 13 of such Act \[29 U.S.C. 213\];
 
 &emsp;&emsp;(B) the State of <sup>7</sup> local minimum wage for the most nearly comparable covered employment; or
 
@@ -380,7 +380,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) the Secretary of Agriculture, with respect to eligible federally assisted housing administered by the Administrator of the Farmers Home Administration.
 
-&emsp;(18) The term "State" means the States of the United States, the District of Columbia,the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+&emsp;(18) The term "State" means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
 &emsp;(19) The term "temporarily disabled" means having an impairment that—
 
@@ -440,7 +440,7 @@ The Older Americans Act of 1965, referred to in subsec. (d)(2)(B)(i), is Pub. L.
 
 The Congregate Housing Services Act of 1978, referred to in subsecs. (d)(2)(B)(ii), (i)(1)(A)(i), (B)(i), and (j)(3), is title IV of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2104, as amended, which is classified principally to this chapter (§8001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 8001 of this title and Tables.
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (j)(1)(A), is act June 25, 1938, ch. 676, 52 Stat.1060, as amended, which is classified principally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (j)(1)(A), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified principally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (k)(6)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short title note set out under section 1437 of this title and Tables.
 
@@ -476,7 +476,7 @@ Subsec. (n)(1). Pub. L. 102–550, §604(a), in introductory provisions, substit
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set outas an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by sections 4002(b)(1)(B), (N), (2)(LL) and 4115(c)(1)(A)(i), (B)(vi), (2)(I) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

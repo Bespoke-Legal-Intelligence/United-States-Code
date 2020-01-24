@@ -72,7 +72,7 @@ Operational Flexibility.—The Secretary may implement any reasonable management
 
 <b>2018</b>—Pub. L. 115–282, §107(b), renumbered section 676a of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, §319(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which prohibited the Coast Guard from closing certain air facilities or retiring, transferring, relocating, or deploying an aviation asset for the purpose of closing such facilities.
+Subsec. (a). Pub. L. 115–282, §319(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a)which prohibited the Coast Guard from closing certain air facilities or retiring, transferring, relocating, or deploying an aviation asset for the purpose of closing such facilities.
 
 Subsec. (a)(3). Pub. L. 115–282, §319(3)(A), amended par. (3) generally. Prior to amendment, text read as follows: "Prior to closing an air facility, the Secretary shall provide opportunities for public comment, including the convening of public meetings in communities in the area of responsibility of the air facility with regard to the proposed closure or cessation of operations at the air facility."
 

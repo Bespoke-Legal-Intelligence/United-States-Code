@@ -24,7 +24,7 @@ As used in this subchapter:
 
 &emsp;(7) The term "limited recipient" means any legal entity established under State or Federal law benefiting more than twenty-five natural persons.
 
-&emsp;(8) The term "project" means any reclamation or irrigation project, including incidental features thereof, authorized by Federal reclamation law, or constructed by the United States pursuant to such law, or in connection with which there is a repayment or water service contract executed by the United States pursuant to such law, or any project constructed by the Secretary through the Bureau of Reclamation for the reclamation of lands.
+&emsp;(8) The term "project" means any reclamation or irrigation project, including incidental features thereof, authorized by Federal reclamation law, or constructed by the United States pursuant to such law, or in connection with which there is a repayment or water service contract executed by the United Statespursuant to such law, or any project constructed by the Secretary through the Bureau of Reclamation for the reclamation of lands.
 
 &emsp;(9) The term "qualified recipient" means an individual who is a citizen of the United States or a resident alien thereof or any legal entity established under State or Federal law which benefits twenty-five natural persons or less.
 

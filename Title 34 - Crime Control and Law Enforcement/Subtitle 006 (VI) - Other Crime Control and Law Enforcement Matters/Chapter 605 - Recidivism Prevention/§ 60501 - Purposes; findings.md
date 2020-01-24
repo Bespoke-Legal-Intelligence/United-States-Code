@@ -42,7 +42,7 @@ Congress finds the following:
 
 &emsp;(11) Family-based treatment programs have proven results for serving the special populations of female offenders and substance abusers with children. An evaluation by the Substance Abuse and Mental Health Services Administration of family-based treatment for substance-abusing mothers and children found that 6 months after such treatment, 60 percent of the mothers remained alcohol and drug free, and drug-related offenses declined from 28 percent to 7 percent. Additionally, a 2003 evaluation of residential family-based treatment programs revealed that 60 percent of mothers remained clean and sober 6 months after treatment, criminal arrests declined by 43 percent, and 88 percent of the children treated in the program with their mothers remained stabilized.
 
-&emsp;(12) A Bureau of Justice Statistics analysis indicated that only 33 percent of Federal inmates and 36 percent of State inmates had participated in residential in-patient treatmentprograms for alcohol and drug abuse 12 months before their release. Further, over one-third of all jail inmates have some physical or mental disability and 25 percent of jail inmates have been treated at some time for a mental or emotional problem.
+&emsp;(12) A Bureau of Justice Statistics analysis indicated that only 33 percent of Federal inmates and 36 percent of State inmates had participated in residential in-patient treatment programs for alcohol and drug abuse 12 months before their release. Further, over one-third of all jail inmates have some physical or mental disability and 25 percent of jail inmates have been treated at some time for a mental or emotional problem.
 
 &emsp;(13) State Substance Abuse Agency Directors, also known as Single State Authorities, manage the publicly funded substance abuse prevention and treatment system of the Nation. Single State Authorities are responsible for planning and implementing statewide systems of care that provide clinically appropriate substance abuse services. Given the high rate of substance use disorders among offenders reentering our communities, successful reentry programs require close interaction and collaboration with each Single State Authority as the program is planned, implemented, and evaluated.
 
@@ -92,7 +92,7 @@ Evaluation of the Second Chance Act Grant Program.—Not later than 5 years afte
 
 "(b)
 
-Authorization of Funds for Evaluation.—Not more than 1 percent of any amounts authorized to be appropriated to carry out the Second Chance Act grant program shall be made available to the National Institute of Justice each year to evaluate the processes, implementation, outcomes, costs, and effectiveness of the Second Chance Act grant program in improving reentry and reducing recidivism. Such funding may be used to provide support to grantees for supplemental data collection, analysis, and coordination associated with evaluation activities.
+Authorization of Funds for Evaluation.—Not more than 1 percent of any amounts authorized to beappropriated to carry out the Second Chance Act grant program shall be made available to the National Institute of Justice each year to evaluate the processes, implementation, outcomes, costs, and effectiveness of the Second Chance Act grant program in improving reentry and reducing recidivism. Such funding may be used to provide support to grantees for supplemental data collection, analysis, and coordination associated with evaluation activities.
 
 "(c)
 

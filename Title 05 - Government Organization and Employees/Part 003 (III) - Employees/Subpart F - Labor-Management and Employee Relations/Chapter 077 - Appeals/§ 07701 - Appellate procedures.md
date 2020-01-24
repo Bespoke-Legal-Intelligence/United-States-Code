@@ -80,7 +80,7 @@
 
 (4) It shall be the duty of the Board, an administrative law judge, or employee designated by the Board to hear any proceeding under this section to expedite to the extent practicable that proceeding.
 
-(j) In determining the appealability under this section of any case involving a removal from the service (other than the removal of a reemployed annuitant), neither an individual's status under any retirement system established by or under Federal statute nor any election made by such individual under any such system may be taken into account.
+(j) In determining the appealability under this section of any case involving a removal from the service (other than the removal of a reemployed annuitant), neither an individual's status under any retirement system established by or under Federal statute nor any election made by suchindividual under any such system may be taken into account.
 
 (k) The Board may prescribe regulations to carry out the purpose of this section.
 

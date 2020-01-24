@@ -32,7 +32,7 @@
 
 > in which "A" is the amount the United States is entitled to recover, "φ" is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States; "t" is the total number of months in the individual's period of obligated service; and "s" is the number of months of such period served by him in accordance with section 254m of this title or a written agreement under section 254n of this title.
 
-(B)(i) Any amount of damages that the United States is entitled to recover under this subsection or under subsection (c) shall, within the 1-year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary), be paid to the United States. Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title.
+(B)(i) Any amount of damages that the United States is entitled to recover under this subsection or under subsection (c) shall, within the 1-year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary), be paid to the United States.Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title.
 
 (ii) If damages described in clause (i) are delinquent for 3 months, the Secretary shall, for the purpose of recovering such damages—
 
@@ -86,13 +86,13 @@
 
 #### (e) Inapplicability of Federal and State statute of limitations on actions for collection
 
-Notwithstanding any other provision of Federal or State law, there shall be no limitation on the period within which suit may be filed, a judgment may be enforced, or an action relating to an offset or garnishment, or other action, may be initiated or taken by the Secretary, the Attorney General, or the head of another Federal agency, as the case may be, for the repayment of the amount due from an individual under this section.
+Notwithstanding any other provision of Federal or State law, there shall be no limitation onthe period within which suit may be filed, a judgment may be enforced, or an action relating to an offset or garnishment, or other action, may be initiated or taken by the Secretary, the Attorney General, or the head of another Federal agency, as the case may be, for the repayment of the amount due from an individual under this section.
 
 #### (f) Effective date
 
 The amendment made by section 313(a)(4) of the Health Care Safety Net Amendments of 2002 (Public Law 107–251) shall apply to any obligation for which a discharge in bankruptcy has not been granted before the date that is 31 days after October 26, 2002.
 
-(July 1, 1944, ch. 373, title III, §338E, formerly title VII, §754, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2286; amended Pub. L. 95–83, title III, §307(g), Aug. 1, 1977, 91 Stat. 391; renumbered §338D and amended Pub. L. 97–35, title XXVII, §2709(a), (e)(1)–(4)(A), Aug. 13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(2), Jan. 4, 1983, 96 Stat. 2061; renumbered §338E and amended Pub. L. 100–177, title II, §§201(2), 202(e), title III, §308(a), Dec. 1, 1987, 101 Stat. 992, 997, 1006; Pub. L. 100–203, title IV, §4052(b), Dec. 22, 1987, 101 Stat. 1330–97; Pub. L. 100–360, title IV, §411(f)(10)(B), July 1, 1988, 102 Stat. 780; Pub. L.101–597, title II, §203(a), Nov. 16, 1990, 104 Stat. 3027; Pub. L. 107–251, title III, §313(a), Oct. 26, 2002, 116 Stat. 1651; Pub. L. 108–163, §2(l)(1), Dec. 6, 2003, 117 Stat. 2022.)
+(July 1, 1944, ch. 373, title III, §338E, formerly title VII, §754, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2286; amended Pub. L. 95–83, title III, §307(g), Aug. 1, 1977, 91 Stat. 391; renumbered §338D and amended Pub. L. 97–35, title XXVII, §2709(a), (e)(1)–(4)(A), Aug. 13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(2), Jan. 4, 1983, 96 Stat. 2061; renumbered §338E and amended Pub. L. 100–177, title II, §§201(2), 202(e), title III, §308(a), Dec. 1, 1987, 101 Stat. 992, 997, 1006; Pub. L. 100–203, title IV, §4052(b), Dec. 22, 1987, 101 Stat. 1330–97; Pub. L. 100–360, title IV, §411(f)(10)(B), July 1, 1988, 102 Stat. 780; Pub. L. 101–597, title II, §203(a), Nov. 16, 1990, 104 Stat. 3027; Pub. L. 107–251, title III, §313(a), Oct. 26, 2002, 116 Stat. 1651; Pub. L. 108–163, §2(l)(1), Dec. 6, 2003, 117 Stat. 2022.)
 
 #### References in Text
 

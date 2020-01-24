@@ -40,13 +40,13 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 &emsp;&emsp;(B) 13 percent or more of its population residing in substandard housing.
 
-> &emsp;In designating underserved areas under paragraph (1), in each fiscal year the Secretary shall designate not less than 5 counties or communities that contain tribal allotted or Indian trust land.
+> &emsp;In designating underserved areas under paragraph (1), in each fiscal year the Secretaryshall designate not less than 5 counties or communities that contain tribal allotted or Indian trust land.
 
 #### (3) Outreach program and review
 
 #### (A) Outreach
 
-&emsp;&emsp;The Secretary shall publicize the availability to targeted underserved areas ofgrants and loans under this subchapter and promote, to the maximum extent feasible, efforts to apply for those grants and loans for housing in targeted underserved areas.
+&emsp;&emsp;The Secretary shall publicize the availability to targeted underserved areas of grants and loans under this subchapter and promote, to the maximum extent feasible, efforts to apply for those grants and loans for housing in targeted underserved areas.
 
 #### (B) Review
 
@@ -164,5 +164,5 @@ Pub. L. 101–625, title VII, §709(a), Nov. 28, 1990, 104 Stat. 4288, provided 
 
 #### Exemptions of Existing Dwellings From Living Area Limitations; Authority of District Offices of Farmers' Home Administration
 
-Pub. L. 100–202, §101(k) \[title VI, §632\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–356, provided that: "During fiscal year 1988 and each succeeding fiscal year, the Secretary of Agriculture shall permit each district office of the Farmers Home Administration to exempt any existing dwelling from any limitation established by the Secretary on the number of square feet of living area that may be contained in a dwelling to be eligible for a loan under section 502 of the Housing Act of 1949 \[section 1472 of this title\], if the dwelling is modest in design, size, and cost for the area in which it is located."
+Pub. L. 100–202, §101(k) \[title VI, §632\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–356, provided that: "During fiscal year 1988 and each succeeding fiscal year, the Secretary of Agriculture shall permit each district office of the Farmers Home Administration to exempt any existing dwelling from any limitation established by the Secretary on the number of square feet of living area that may be contained in a dwelling to be eligible for a loanunder section 502 of the Housing Act of 1949 \[section 1472 of this title\], if the dwelling is modest in design, size, and cost for the area in which it is located."
 

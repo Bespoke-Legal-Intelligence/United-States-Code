@@ -48,13 +48,13 @@ The Secretary shall—
 
 #### (d) Judicial review
 
-A person (other than a prospective adoptive parent), an agency, or an accrediting entity who is the subject of a final action of suspension, cancellation, or debarment by the Secretary under this subchapter may petition the United States District Court for the District of Columbia or the United States district court in the judicial district in which the person resides or the agency or accrediting entity is located to set aside the action. The court shall review the action in accordance with section 706 of title 5.
+A person (other than a prospective adoptive parent), an agency, or an accrediting entity whois the subject of a final action of suspension, cancellation, or debarment by the Secretary under this subchapter may petition the United States District Court for the District of Columbia or the United States district court in the judicial district in which the person resides or the agency or accrediting entity is located to set aside the action. The court shall review the action in accordance with section 706 of title 5.
 
 #### (e) Failure to ensure a full and complete home study
 
 #### (1) In general
 
-&emsp;Willful, grossly negligent, or repeated failure to ensure the completion and transmissionof a background report (home study) that fully complies with the requirements of section 14923(b)(1)(A)(ii) of this title shall constitute substantial noncompliance with applicable requirements.
+&emsp;Willful, grossly negligent, or repeated failure to ensure the completion and transmission of a background report (home study) that fully complies with the requirements of section 14923(b)(1)(A)(ii) of this title shall constitute substantial noncompliance with applicable requirements.
 
 #### (2) Regulations
 

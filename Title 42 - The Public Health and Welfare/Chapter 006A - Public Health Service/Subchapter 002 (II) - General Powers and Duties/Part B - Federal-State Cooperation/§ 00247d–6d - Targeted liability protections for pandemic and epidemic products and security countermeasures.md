@@ -244,7 +244,7 @@
 
 &emsp;&emsp;(B) facts supporting the allegation that such alleged willful misconduct proximately caused the injury claimed; and
 
-&emsp;&emsp;(C) facts supporting the allegation that the person on whose behalf the complaint was filed suffered death or serious physical injury.
+&emsp;&emsp;(C) facts supporting the allegation that the person on whose behalf the complaintwas filed suffered death or serious physical injury.
 
 #### (4) Verification, certification, and medical records
 
@@ -314,7 +314,7 @@
 
 #### (8) Noneconomic damages
 
-&emsp;In an action under subsection (d), any noneconomic damages may be awarded only in an amount directly proportional to the percentage of responsibility of a defendant for the harm to the plaintiff. For purposes of this paragraph, the term "noneconomic damages" means damages for losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium, hedonic damages, injury to reputation, and any other nonpecuniary losses.
+&emsp;In an action under subsection (d), any noneconomic damages may be awarded only in anamount directly proportional to the percentage of responsibility of a defendant for the harm to the plaintiff. For purposes of this paragraph, the term "noneconomic damages" means damages for losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium, hedonic damages, injury to reputation, and any other nonpecuniary losses.
 
 #### (9) Rule 11 sanctions
 
@@ -326,7 +326,7 @@
 
 #### (f) Actions by and against the United States
 
-Nothing in this section shall be construed to abrogate or limit any right, remedy, or authority that the United States or any agency thereof may possess under any other provision of law or to waive sovereign immunity or to abrogate or limit any defense or protection available to the United States or its agencies, instrumentalities,officers, or employees under any other law, including any provision of chapter 171 of title 28 (relating to tort claims procedure).
+Nothing in this section shall be construed to abrogate or limit any right, remedy, or authority that the United States or any agency thereof may possess under any other provision of law or to waive sovereign immunity or to abrogate or limit any defense or protection available to the United States or its agencies, instrumentalities, officers, or employees under any other law, including any provision of chapter 171 of title 28 (relating to tort claims procedure).
 
 #### (g) Severability
 
@@ -388,7 +388,7 @@ In this section:
 
 #### (6) Program planner
 
-&emsp;The term "program planner" means a State or local government, including an Indian tribe, a person employed by the State or local government, or other person who supervised or administered a program with respect to the administration, dispensing, distribution, provision, or use of a security countermeasure or a qualified pandemic or epidemic product, including a person who has established requirements, provided policy guidance, or supplied technical or scientific advice or assistance or provides a facility to administer or use a covered countermeasure in accordance with a declaration under subsection (b).
+&emsp;The term "program planner" means a State or local government, including an Indiantribe, a person employed by the State or local government, or other person who supervised or administered a program with respect to the administration, dispensing, distribution, provision, or use of a security countermeasure or a qualified pandemic or epidemic product, including a person who has established requirements, provided policy guidance, or supplied technical or scientific advice or assistance or provides a facility to administer or use a covered countermeasure in accordance with a declaration under subsection (b).
 
 #### (7) Qualified pandemic or epidemic product
 
@@ -406,7 +406,7 @@ In this section:
 
 &emsp;&emsp;(B)(i) approved or cleared under chapter V of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 351 et seq.\] or licensed under section 262 of this title;
 
-&emsp;&emsp;(ii) the object of research for possible use as described by subparagraph (A) and is the subject of an exemption under section 505(i)or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\]; or
+&emsp;&emsp;(ii) the object of research for possible use as described by subparagraph (A) and is the subject of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\]; or
 
 &emsp;&emsp;(iii) authorized for emergency use in accordance with section 564, 564A, or 564B of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3, 360bbb–3a, 360bbb–3b\].
 

@@ -2,13 +2,13 @@
 
 #### (a) Encouragement by Administrator
 
-The establishment of master plans for fire prevention and control are the responsibility of the States and the political subdivisions thereof. The Administrator is authorized to encourage and assist such States and political subdivisions in such planning activities, consistent with his powers and duties under this chapter.
+The establishment of master plans for fire prevention and control are the responsibility of the States and the political subdivisions thereof. The Administrator is authorized to encourageand assist such States and political subdivisions in such planning activities, consistent with his powers and duties under this chapter.
 
 #### (b) Mutual aid systems
 
 #### (1) In general
 
-&emsp;The Administrator shall provide technical assistance and training to State and local fire service officials to establish nationwide andState mutual aid systems for dealing with national emergencies that—
+&emsp;The Administrator shall provide technical assistance and training to State and local fire service officials to establish nationwide and State mutual aid systems for dealing with national emergencies that—
 
 &emsp;&emsp;(A) include threat assessment and equipment deployment strategies;
 

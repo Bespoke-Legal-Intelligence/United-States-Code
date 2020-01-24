@@ -94,7 +94,7 @@ Another prior section 502 of Pub. L. 89–329 was classified to section 1091a of
 
 <b>2008</b>—Subsecs. (a)(2)(A)(ii), (b)(2). Pub. L. 110–315 made technical amendment to reference in original act which appears in text as reference to section 1103a of this title.
 
-<b>2006</b>—Subsec. (a)(5). Pub. L. 109–292, §4(a)(1), inserted "and" at end of subpar. (A), in subpar. (B), struck out "at the time of application," before "has an enrollment", substituted "at the end of the award year immediately preceding the date of application." for "; and", and struck out subpar. (C) which read as follows: "provides assurances that not less than 50 percentof the institution's Hispanic students are low-income individuals, which assurances—
+<b>2006</b>—Subsec. (a)(5). Pub. L. 109–292, §4(a)(1), inserted "and" at end of subpar. (A), in subpar. (B), struck out "at the time of application," before "has an enrollment", substituted "at the end of the award year immediately preceding the date of application." for "; and", and struck out subpar. (C) which read as follows: "provides assurances that not less than 50 percent of the institution's Hispanic students are low-income individuals, which assurances—
 
 &emsp;"(i) may employ statistical extrapolation using appropriate data from the Bureau of the Census or other appropriate Federal or State sources; and
 

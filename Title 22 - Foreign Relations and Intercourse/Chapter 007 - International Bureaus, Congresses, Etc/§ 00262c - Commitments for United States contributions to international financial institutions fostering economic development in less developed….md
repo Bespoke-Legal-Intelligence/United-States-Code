@@ -22,7 +22,7 @@ The Congress recognizes that economic development is a long-term process needing
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(5), is Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, known as the International Financial Institutions Act, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–12, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 261 of this title and Tables.
+This Act, referred to in subsec. (a)(5), is Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, known as the International Financial Institutions Act, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–13, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 261 of this title and Tables.
 
 #### Effective Date
 
@@ -72,9 +72,5 @@ Pub. L. 95–148, title III, Oct. 31, 1977, 91 Stat. 1238.
 
 #### Standards for Human Needs and Protection of Human Rights; Consultation for Development of Criteria; Report to Congress
 
-Pub. L. 95–118, title VII, §703, Oct. 3, 1977, 91 Stat. 1070, provided that:
-
-"(a) The Secretary of State and the Secretary of the Treasury shall initiate a wide consultation designed to develop a viable standard for the meeting of basic human needs and the protection of human rights and a mechanism for acting together to insure that the rewards of international economic cooperation are especially available to those who subscribe to such standards and are seen to be moving toward making them effective in their own systems of governance.
-
-"(b) Not later than one year after the date of enactment of this Act \[Oct. 3, 1977\], the Secretary of State and the Secretary of the Treasury shall report to the President of the Senate and the Speaker of the House of Representatives on the progress made in carrying out this section."
+Pub. L. 95–118, title VII, §703, Oct. 3, 1977, 91 Stat. 1070, directed the Secretary of State and the Secretary of the Treasury to initiate a wide consultation designed to develop a viable standard for the meeting of basic human needs and the protection of human rights and a mechanism for acting together to insure that the rewards of international economic cooperation are especially available to those who subscribe to such standards, and report to Congress not later than one year after Oct. 3, 1977.
 

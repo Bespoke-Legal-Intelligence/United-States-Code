@@ -2,7 +2,7 @@
 
 #### (a) Assessment and collection
 
-The Administrator of the Environmental Protection Agency shall, by regulation, assess andcollect fees and charges for services and activities carried out pursuant to laws administered by the Environmental Protection Agency.
+The Administrator of the Environmental Protection Agency shall, by regulation, assess and collect fees and charges for services and activities carried out pursuant to laws administered by the Environmental Protection Agency.
 
 #### (b) Amount of fees and charges
 

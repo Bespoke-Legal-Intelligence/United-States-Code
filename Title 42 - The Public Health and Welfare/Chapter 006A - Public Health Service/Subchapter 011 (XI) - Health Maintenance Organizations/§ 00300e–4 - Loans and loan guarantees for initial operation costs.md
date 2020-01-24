@@ -10,7 +10,7 @@ The Secretary may—
 
 &emsp;(3) guarantee to non-Federal lenders payment of the principal of and the interest on loans made to private health maintenance organizations for the amounts referred to in paragraphs (1) and (2).
 
-> No loan or loan guarantee may be made under this subsection for the costs of operation of a health maintenance organization unless the Secretary determines that the organization has made all reasonable attempts to meet such costs, and unless the Secretary has made a grant or loan to, entered into a contract with, or guaranteed a loan for, the organization in fiscal year 1981, 1982, 1983, 1984, or 1985 under this section or section 300e–3(b) <sup>1</sup> of this title (as in effect before October 1, 1985).
+> No loan or loan guarantee may be made under this subsection for the costs of operation of a health maintenance organization unless the Secretary determines that the organization has made all reasonable attempts to meet suchcosts, and unless the Secretary has made a grant or loan to, entered into a contract with, or guaranteed a loan for, the organization in fiscal year 1981, 1982, 1983, 1984, or 1985 under this section or section 300e–3(b) <sup>1</sup> of this title (as in effect before October 1, 1985).
 
 #### (b) Limitations
 

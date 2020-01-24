@@ -16,7 +16,7 @@ In addition to services described in subsection (c) of section 290ff–1 of this
 
 &emsp;(3) recreational activities for children provided access to the system; and
 
-&emsp;(4) such other services as may be appropriate in providing for the comprehensive needs withrespect to mental health of children with a serious emotional disturbance.
+&emsp;(4) such other services as may be appropriate in providing for the comprehensive needs with respect to mental health of children with a serious emotional disturbance.
 
 #### (b) Comprehensive plan
 

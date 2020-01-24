@@ -14,13 +14,13 @@ Hearings authorized or required by this chapter shall be conducted by the Secret
 
 #### (d) Effectiveness of definitions and standards of identity
 
-The definitions and standards of identity promulgated in accordance with the provisions ofthis chapter shall be effective for the purposes of the enforcement of this chapter, notwithstanding such definitions and standards as may be contained in other laws of the United States and regulations promulgated thereunder.
+The definitions and standards of identity promulgated in accordance with the provisions of this chapter shall be effective for the purposes of the enforcement of this chapter, notwithstanding such definitions and standards as may be contained in other laws of the United States and regulations promulgated thereunder.
 
 #### (e) Procedure for establishment
 
 (1) Any action for the issuance, amendment, or repeal of any regulation under section 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title, and any action for the amendment or repeal of any definition and standard of identity under section 341 of this title for any dairy product (including products regulated under parts 131, 133 and 135 of title 21, Code of Federal Regulations) shall be begun by a proposal made (A) by the Secretary on his own initiative, or (B) by petition of any interested person, showing reasonable grounds therefor, filed with the Secretary. The Secretary shall publish such proposal and shall afford all interested persons an opportunity to present their views thereon, orally or in writing. As soon as practicable thereafter, the Secretary shall by order act upon such proposal and shall make such order public. Except as provided in paragraph (2), the order shall become effective at such time as may be specified therein, but not prior to the day following the last day on which objections may be filed under such paragraph.
 
-(2) On or before the thirtieth day after the date on which an order entered under paragraph (1) is made public, any person who will be adversely affected by such order if placed in effect may file objections thereto with the Secretary, specifying with particularity the provisions of the order deemed objectionable, stating the grounds therefor, and requesting a public hearing upon such objections. Until final action upon such objections is taken by the Secretary under paragraph (3), the filing of such objections shall operate to stay the effectiveness of those provisions of the order to which the objections are made. As soon as practicable after the time for filing objections has expired the Secretary shall publish a notice in the Federal Register specifying those parts of the order which have been stayed by the filing of objections and, if no objections have been filed, stating that fact.
+(2) On or before the thirtieth day after the date on which an order entered under paragraph (1) is made public, any person who will be adversely affected by such order if placed in effect may file objections thereto with the Secretary, specifying with particularity the provisions of the order deemed objectionable, stating the grounds therefor, and requesting a public hearing upon such objections. Until final action upon such objections is taken by the Secretaryunder paragraph (3), the filing of such objections shall operate to stay the effectiveness of those provisions of the order to which the objections are made. As soon as practicable after the time for filing objections has expired the Secretary shall publish a notice in the Federal Register specifying those parts of the order which have been stayed by the filing of objections and, if no objections have been filed, stating that fact.
 
 (3) As soon as practicable after such request for a public hearing, the Secretary, after due notice, shall hold such a public hearing for the purpose of receiving evidence relevant and material to the issues raised by such objections. At the hearing, any interested person may be heard in person or by representative. As soon as practicable after completion of the hearing, the Secretary shall by order act upon such objections and make such order public. Such order shall be based only on substantial evidence of record at such hearing and shall set forth, as part of the order, detailed findings of fact on which the order is based. The Secretary shall specify in the order the date on which it shall take effect, except that it shall not be made to take effect prior to the ninetieth day after its publication unless the Secretary finds that emergency conditions exist necessitating an earlier effective date, in which event the Secretary shall specify in the order his findings as to such conditions.
 
@@ -92,7 +92,7 @@ Subsec. (f)(3). Pub. L. 85–791, §21(b), inserted "Upon the filing of the peti
 
 <b>1956</b>—Subsec. (e). Act Aug. 1, 1956, simplified procedures governing prescribing of regulations under certain provisions of this chapter.
 
-<b>1954</b>—Subsec. (e). Act Apr. 15, 1954, struck out reference to section 341 of this title, before "343(j)", suchsection 341 now containing its own provisions with respect to hearings regarding the establishment of food standards.
+<b>1954</b>—Subsec. (e). Act Apr. 15, 1954, struck out reference to section 341 of this title, before "343(j)", such section 341 now containing its own provisions with respect to hearings regarding the establishment of food standards.
 
 #### Change of Name
 
@@ -118,7 +118,7 @@ Savings clause of act Aug. 1, 1956, see note set out under section 341 of this t
 
 Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare\[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 #### Notification of FDA Intent To Regulate Laboratory-Developed Tests
 

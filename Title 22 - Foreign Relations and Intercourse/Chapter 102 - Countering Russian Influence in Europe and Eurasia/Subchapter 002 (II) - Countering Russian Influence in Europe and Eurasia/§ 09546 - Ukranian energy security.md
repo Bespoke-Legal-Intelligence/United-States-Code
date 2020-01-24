@@ -8,7 +8,7 @@ It is the policy of the United States—
 
 &emsp;(2) to condemn and oppose all of the destabilizing efforts by the Government of the Russian Federation in Ukraine in violation of its obligations and international commitments;
 
-&emsp;(3) to never recognize the illegal annexation of Crimea by the Government of the Russian Federation or the separation of any portion ofUkrainian territory through the use of military force;
+&emsp;(3) to never recognize the illegal annexation of Crimea by the Government of the Russian Federation or the separation of any portion of Ukrainian territory through the use of military force;
 
 &emsp;(4) to deter the Government of the Russian Federation from further destabilizing and invading Ukraine and other independent countries in Central and Eastern Europe and the Caucuses; <sup>1</sup>
 
@@ -96,7 +96,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;(A) the United States should assist the efforts of the countries of Europe and Eurasia to enhance their energy security through diversification of energy supplies in order to lessen dependencies on Russian Federation energy resources and state-owned entities; and
 
-&emsp;&emsp;(B) the Export-Import Bank of the United States and the Overseas Private Investment Corporation should play key roles in supporting critical energy projects that contribute to that goal.
+&emsp;&emsp;(B) the Export-Import Bank of the United States and the United States International Development Finance Corporation should play key roles in supporting critical energy projects that contribute to that goal.
 
 #### (3) Use of Countering Russian Influence Fund to provide technical assistance
 
@@ -111,10 +111,6 @@ There is authorized to be appropriated for the Department of State a total of $3
 Nothing in this section shall be construed as affecting the responsibilities required and authorities provided under section 7 of the Ukraine Freedom Support Act of 2014 (22 U.S.C. 8926).
 
 (Pub. L. 115–44, title II, §257, Aug. 2, 2017, 131 Stat. 931; Pub. L. 115–254, div. F, title VI, §1470(t), Oct. 5, 2018, 132 Stat. 3519.)
-
-#### Amendment of Subsection (c)(2)(B)
-
-<i>Pub. L. 115–254, div. F, title VI, §1470(t), (w), Oct. 5, 2018, 132 Stat. 3519, provided that, effective at the end of the transition period, as defined in section 9681 of this title, subsection (c)(2)(B) of this section is amended by striking "Overseas Private Investment Corporation" and inserting "United States International Development Finance Corporation". See 2018 Amendment note below.</i>
 
 #### References in Text
 

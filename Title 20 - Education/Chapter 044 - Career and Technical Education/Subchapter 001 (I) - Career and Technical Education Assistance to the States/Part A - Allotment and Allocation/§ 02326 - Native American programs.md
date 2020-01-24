@@ -12,15 +12,11 @@ In this section:
 
 &emsp;The term "Bureau-funded school" has the meaning given the term in section 2021 of title 25.
 
-#### (3) Indian, Indian tribe, and tribal organization
-
-&emsp;The terms "Indian", "Indian tribe", and "tribal organization" have the meanings given the terms in section 5304 of title 25.
-
-#### (4) Native Hawaiian
+#### (3) Native Hawaiian
 
 &emsp;The term "Native Hawaiian" means any individual any of whose ancestors were natives, prior to 1778, of the area which now comprises the State of Hawaii.
 
-#### (5) Native Hawaiian organization
+#### (4) Native Hawaiian organization
 
 &emsp;The term "Native Hawaiian organization" has the meaning given the term in section 7517 of this title.
 
@@ -28,31 +24,31 @@ In this section:
 
 #### (1) Authority
 
-&emsp;From funds reserved under section 2321(a)(1)(B)(i) of this title, the Secretary shall make grants to or enter into contracts with Indian tribes, tribal organizations, and Alaska Native entities to carry out the authorized programs described in subsection (c), except that such grants or contracts shall not be awarded to secondary school programs in Bureau-funded schools.
+&emsp;From funds reserved under section 2321(a)(1)(B)(i) of this title, the Secretary shall make grants to or enter into contracts with Indian Tribes, Tribal organizations, and Alaska Native entities to carry out the authorized programs described in subsection (c), except that such grants or contracts shall not be awarded to secondary school programs in Bureau-funded schools.
 
-#### (2) Indian tribes and tribal organizations
+#### (2) Indian Tribes and Tribal organizations
 
-&emsp;The grants or contracts described in this section that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of section 5321 of title 25 and shall be conducted in accordance with the provisions of sections 5345, 5346, and 5347 of title 25, which are relevant to the programs administered under this subsection.
+&emsp;The grants or contracts described in this section that are awarded to any Indian Tribe or Tribal organization shall be subject to the terms and conditions of section 5321 of title 25 and shall be conducted in accordance with the provisions of sections 5345, 5346, and 5347 of title 25, which are relevant to the programs administered under this subsection.
 
-#### (3) Special authority relating to secondary schools operated or supported by the Bureau of Indian Affairs
+#### (3) Special authority relating to secondary schools operated or supported by the Bureau of Indian Education
 
-&emsp;An Indian tribe, a tribal organization, or an Alaska Native entity, that receives funds through a grant made or contract entered into under paragraph (1) may use the funds to provide assistance to a secondary school operated or supported by the Bureau of Indian Affairs to enable such school to carry out career and technical education programs.
+&emsp;An Indian Tribe, a Tribal organization, or an Alaska Native entity, that receives funds through a grant made or contract entered into under paragraph (1) may use the funds to provide assistance to a secondary school operated or supported by the Bureau of Indian Education to enable such school to carry out career and technical education programs.
 
 #### (4) Matching
 
-&emsp;If sufficient funding is available, the Bureau of Indian Affairs shall expend an amount equal to the amount made available under this subsection, relating to programs for Indians, to pay a part of the costs of programs funded under this subsection. During each fiscal year the Bureau of Indian Affairs shall expend not less than the amount expended during the prior fiscal year on career and technical education programs, services, and technical activities administered directly by, or under contract with, the Bureau of Indian Affairs, except that in no year shall funding for such programs, services, and activities be provided from accounts and programs that support other Indian education programs. The Secretary and the Assistant Secretary of the Interior for Indian Affairs shall prepare jointly a plan for the expenditure of funds made available and for the evaluation of programs assisted under this subsection. Upon the completion of a joint plan for the expenditure of the funds and the evaluation of the programs, the Secretary shall assume responsibility for the administration of the program, with the assistance and consultation of the Bureau of Indian Affairs.
+&emsp;If sufficient funding is available, the Bureau of Indian Education shall expend an amount equal to the amount made available under this subsection, relating to programs for Indians, to pay a part of the costs of programs funded under this subsection. During each fiscal year the Bureau of Indian Education shall expend not less than the amount expended during the prior fiscal year on career and technical education programs, services, and technical activities administered directly by, or under contract with, the Bureau of Indian Education, except that in no year shall funding for such programs, services, and activities be provided from accounts and programs that support other Indian education programs. The Secretary and the Director of the Bureau of Indian Education shall prepare jointly a plan for the expenditure of funds made available and for the evaluation of programs assisted under this subsection. Upon the completion ofa joint plan for the expenditure of the funds and the evaluation of the programs, the Secretary shall assume responsibility for the administration of the program, with the assistance and consultation of the Bureau of Indian Education.
 
 #### (5) Regulations
 
 &emsp;If the Secretary promulgates any regulations applicable to paragraph (2), the Secretary shall—
 
-&emsp;&emsp;(A) confer with, and allow for active participation by, representatives of Indian tribes, tribal organizations, and individual tribal members; and
+&emsp;&emsp;(A) confer with, and allow for active participation by, representatives of Indian Tribes, Tribal organizations, and individual Tribal members; and
 
 &emsp;&emsp;(B) promulgate the regulations under subchapter III of chapter 5 of title 5, commonly known as the "Negotiated Rulemaking Act of 1990".
 
 #### (6) Application
 
-&emsp;Any Indian tribe, tribal organization, or Bureau-funded school eligible to receive assistance under this subsection may apply individually or as part of a consortium with another such Indian tribe, tribal organization, or Bureau-funded school.
+&emsp;Any Indian Tribe, Tribal organization, or Bureau-funded school eligible to receive assistance under this subsection may apply individually or as part of a consortium with another such Indian Tribe, Tribal organization, or Bureau-funded school.
 
 #### (c) Authorized activities
 
@@ -60,7 +56,11 @@ In this section:
 
 &emsp;Funds made available under this section shall be used to carry out career and technical education programs consistent with the purpose of this chapter.
 
-#### (2) Stipends
+#### (2) Special rule
+
+&emsp;Notwithstanding section 2302(5)(A)(iii) of this title, funds made available under this section may be used to provide preparatory, refresher, and remedial education services that are designed to enable students to achieve success in career and technical education programs or programs of study.
+
+#### (3) Stipends
 
 #### (A) In general
 
@@ -72,13 +72,13 @@ In this section:
 
 #### (d) Grant or contract application
 
-In order to receive a grant or contract under this section, an organization, tribe, or entity described in subsection (b) shall submit an application to the Secretary that shall include an assurance that such organization, tribe, or entity shall comply with the requirements of this section.
+In order to receive a grant or contract under this section, an organization, Tribe, or entity described in subsection (b) shall submit an application to the Secretary that shall include an assurance that such organization, Tribe, or entity shall comply with the requirements of this section.
 
 #### (e) Restrictions and special considerations
 
 The Secretary may not place upon grants awarded or contracts entered into under subsection (b) any restrictions relating to programs other than restrictions that apply to grants made to or contracts entered into with States pursuant to allotments under section 2321(a) of this title. The Secretary, in awarding grants and entering into contracts under this section, shall ensure that the grants and contracts will improve career and technical education programs, and shall give special consideration to—
 
-&emsp;(1) programs that involve, coordinate with, or encourage tribal economic development plans; and
+&emsp;(1) programs that involve, coordinate with, or encourage Tribal economic development plans; and
 
 &emsp;(2) applications from tribally controlled colleges or universities that—
 
@@ -88,131 +88,21 @@ The Secretary may not place upon grants awarded or contracts entered into under 
 
 #### (f) Consolidation of funds
 
-Each organization, tribe, or entity receiving assistance under this section may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).<sup>1</sup>
+Each organization, Tribe, or entity receiving assistance under this section may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).
 
 #### (g) Nonduplicative and nonexclusive services
 
 Nothing in this section shall be construed—
 
-&emsp;(1) to limit the eligibility of any organization, tribe, or entity described in subsection (b) to participate in any activity offered by an eligible agency or eligible recipient under this subchapter; or
+&emsp;(1) to limit the eligibility of any organization, Tribe, or entity described in subsection (b) to participate in any activity offered by an eligible agency or eligible recipient under this subchapter; or
 
-&emsp;(2) to preclude or discourage any agreement, between any organization, tribe, or entity described in subsection (b) and any eligible agency or eligible recipient, to facilitate the provision of services by such eligible agency or eligible recipient to the population served by such eligible agency or eligible recipient.
+&emsp;(2) to preclude or discourage any agreement, between any organization, Tribe, or entity described in subsection (b) and any eligible agency or eligible recipient, to facilitate the provision of services by such eligible agency or eligible recipient to the population served by such eligible agency or eligible recipient.
 
 #### (h) Native Hawaiian programs
 
 From the funds reserved pursuant to section 2321(a)(1)(B)(ii) of this title, the Secretary shall award grants to or enter into contracts with community-based organizations primarily serving and representing Native Hawaiians to plan, conduct, and administer programs, or portions thereof, which are authorized by and consistent with the provisions of this section for the benefit of Native Hawaiians.
 
 (Pub. L. 88–210, title I, §116, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 707; amended Pub. L. 114–95, title IX, §9215(n)(5), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, §115, July 31, 2018, 132 Stat. 1598.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–224, §4, title I, §115, July 31, 2018, 132 Stat. 1564, 1598, made amendments to this section, effective July 1, 2019. After July 1, 2019, this section will read as follows:</i>
-
-#### <i>§2326. Native American programs</i>
-
-#### <i>(a) Definitions</i>
-
-<i>In this section:</i>
-
-#### <i>(1) Alaska Native</i>
-
-&emsp;<i>The term "Alaska Native" means a Native as such term is defined in section 1602 of title 43.</i>
-
-#### <i>(2) Bureau-funded school</i>
-
-&emsp;<i>The term "Bureau-funded school" has the meaning given the term in section 2021 of title 25.</i>
-
-#### <i>(3) Native Hawaiian</i>
-
-&emsp;<i>The term "Native Hawaiian" means any individual any of whose ancestors were natives, prior to 1778, of the area which now comprises the State of Hawaii.</i>
-
-#### <i>(4) Native Hawaiian organization</i>
-
-&emsp;<i>The term "Native Hawaiian organization" has the meaning given the term in section 7517 of this title.</i>
-
-#### <i>(b) Program authorized</i>
-
-#### <i>(1) Authority</i>
-
-&emsp;<i>From funds reserved under section 2321(a)(1)(B)(i) of this title, the Secretary shall make grants to or enter into contracts with Indian Tribes, Tribal organizations, and Alaska Native entities to carry out the authorized programs described in subsection (c), except that such grants or contracts shall not be awarded to secondary school programs in Bureau-funded schools.</i>
-
-#### <i>(2) Indian Tribes and Tribal organizations</i>
-
-&emsp;<i>The grants or contracts described in this section that are awarded to any Indian Tribe or Tribal organization shall be subject to the terms and conditions of section 5321 of title 25 and shall be conducted in accordance with the provisions of sections 5345, 5346, and 5347 of title 25, which are relevant to the programs administered under this subsection.</i>
-
-#### <i>(3) Special authority relating to secondary schools operated or supported by the Bureau of Indian Education</i>
-
-&emsp;<i>An Indian Tribe, a Tribal organization, or an Alaska Native entity, that receives funds through a grant made or contract entered into under paragraph (1) may use the funds to provide assistance to a secondary school operated or supported by the Bureau of Indian Education to enable such school to carry out career and technical education programs.</i>
-
-#### <i>(4) Matching</i>
-
-&emsp;<i>If sufficient funding is available, the Bureau of Indian Education shall expend an amount equal to the amount made available under this subsection, relating to programs for Indians, to pay a part of the costs of programs funded under this subsection. During each fiscal year the Bureau of Indian Education shall expend not less than the amount expended during the prior fiscal year on career and technical education programs, services, and technical activities administered directly by, or under contract with, the Bureau of Indian Education, except that in no year shall funding for such programs, services, and activities be provided from accounts and programs that support other Indian education programs. The Secretary and the Director of the Bureau of Indian Education shall prepare jointly a plan for the expenditure of funds made available and for the evaluation of programs assisted under this subsection. Upon the completion of a joint plan for the expenditure of the funds and the evaluation of the programs, the Secretary shall assume responsibility for the administration of the program, with the assistance and consultation of the Bureau of Indian Education.</i>
-
-#### <i>(5) Regulations</i>
-
-&emsp;<i>If the Secretary promulgates any regulations applicable to paragraph (2), the Secretary shall—</i>
-
-&emsp;&emsp;<i>(A) confer with, and allow for active participation by, representatives of Indian Tribes, Tribal organizations, and individual Tribal members; and</i>
-
-&emsp;&emsp;<i>(B) promulgate the regulations under subchapter III of chapter 5 of title 5, commonly known as the "Negotiated Rulemaking Act of 1990".</i>
-
-#### <i>(6) Application</i>
-
-&emsp;<i>Any Indian Tribe, Tribal organization, or Bureau-funded school eligible to receive assistance under this subsection may apply individually or as part of a consortium with another such Indian Tribe, Tribal organization, or Bureau-funded school.</i>
-
-#### <i>(c) Authorized activities</i>
-
-#### <i>(1) Authorized programs</i>
-
-&emsp;<i>Funds made available under this section shall be used to carry out career and technical education programs consistent with the purpose of this chapter.</i>
-
-#### <i>(2) Special rule</i>
-
-&emsp;<i>Notwithstanding section 2302(5)(A)(iii) of this title, funds made available under this section may be used to provide preparatory, refresher, and remedial education services that are designed to enable students to achieve success in career and technical education programs or programs of study.</i>
-
-#### <i>(3) Stipends</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>Funds received pursuant to grants or contracts awarded under subsection (b) may be used to provide stipends to students who are enrolled in career and technical education programs and who have acute economic needs which cannot be met through work-study programs.</i>
-
-#### <i>(B) Amount</i>
-
-&emsp;&emsp;<i>Stipends described in subparagraph (A) shall not exceed reasonable amounts as prescribed by the Secretary.</i>
-
-#### <i>(d) Grant or contract application</i>
-
-<i>In order to receive a grant or contract under this section, an organization, Tribe, or entity described in subsection (b) shall submit an application to the Secretary that shall include an assurance that such organization, Tribe, or entity shall comply with the requirements of this section.</i>
-
-#### <i>(e) Restrictions and special considerations</i>
-
-<i>The Secretary may not place upon grants awarded or contracts entered into under subsection (b) any restrictions relating to programs other than restrictions that apply to grants made to or contracts entered into with States pursuant to allotments under section 2321(a) of this title. The Secretary, in awarding grants and entering into contracts under this section, shall ensure that the grants and contracts will improve career and technical education programs, and shall give special consideration to—</i>
-
-&emsp;<i>(1) programs that involve, coordinate with, or encourage Tribal economic development plans; and</i>
-
-&emsp;<i>(2) applications from tribally controlled colleges or universities that—</i>
-
-&emsp;&emsp;<i>(A) are accredited or are candidates for accreditation by a nationally recognized accreditation organization as an institution of postsecondary career and technical education; or</i>
-
-&emsp;&emsp;<i>(B) operate career and technical education programs that are accredited or are candidates for accreditation by a nationally recognized accreditation organization, and issue certificates for completion of career and technical education programs.</i>
-
-#### <i>(f) Consolidation of funds</i>
-
-<i>Each organization, Tribe, or entity receiving assistance under this section may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).</i>
-
-#### <i>(g) Nonduplicative and nonexclusive services</i>
-
-<i>Nothing in this section shall be construed—</i>
-
-&emsp;<i>(1) to limit the eligibility of any organization, Tribe, or entity described in subsection (b) to participate in any activity offered by an eligible agency or eligible recipient under this subchapter; or</i>
-
-&emsp;<i>(2) to preclude or discourage any agreement, between any organization, Tribe, or entity described in subsection (b) and any eligible agency or eligible recipient, to facilitate the provision of services by such eligible agency or eligible recipient to the population served by such eligible agency or eligible recipient.</i>
-
-#### <i>(h) Native Hawaiian programs</i>
-
-<i>From the funds reserved pursuant to section 2321(a)(1)(B)(ii) of this title, the Secretary shall award grants to or enter into contracts with community-based organizations primarily serving and representing Native Hawaiians to plan, conduct, and administer programs, or portions thereof, which are authorized by and consistent with the provisions of this section for the benefit of Native Hawaiians.</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 #### References in Text
 
@@ -259,6 +149,4 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

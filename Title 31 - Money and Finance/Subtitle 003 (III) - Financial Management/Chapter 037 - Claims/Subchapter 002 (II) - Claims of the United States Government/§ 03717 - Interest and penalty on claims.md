@@ -1,8 +1,8 @@
 ### §3717. Interest and penalty on claims
 
-(a)(1) The head of an executive, judicial, or legislative agency shall charge a minimum annual rate of interest on an outstanding debt on a United States Government claim owed by a person that is equal to the average investment rate for the Treasury tax and loan accounts for the 12-month period ending on September 30 of each year, rounded to the nearest whole percentage point. The Secretary of the Treasury shall publish the rate before November 1 of that year. The rate is effective on the first day of the next calendar quarter.
+(a)(1) The head of an executive, judicial, or legislative agency shall charge a minimum annual rate of interest on an outstanding debt on a United States Government claim owed by a person that is equal to the average investment rate for the Treasury tax and loan accounts forthe 12-month period ending on September 30 of each year, rounded to the nearest whole percentage point. The Secretary of the Treasury shall publish the rate before November 1 of that year. The rate is effective on the first day of the next calendar quarter.
 
-(2) The Secretary may change the rate of interest for a calendar quarter if the average investment rate for the 12-month period ending at the close of the prior calendar quarter, roundedto the nearest whole percentage point, is more or less than the existing published rate by 2 percentage points.
+(2) The Secretary may change the rate of interest for a calendar quarter if the average investment rate for the 12-month period ending at the close of the prior calendar quarter, rounded to the nearest whole percentage point, is more or less than the existing published rate by 2 percentage points.
 
 (b) Interest under subsection (a) of this section accrues from the date—
 
@@ -104,7 +104,7 @@ In subsection (h), the words "under this section" are added for clarity.
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting "the head of an executive, judicial, or legislative agency" for "the head of an executive or legislative agency" wherever appearing, was executed by substituting "The head of an executive, judicial, or legislative agency" for "The head of an executive or legislative agency", to reflect the probable intent of Congress.
 
-Subsecs. (d), (e). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting "the head of an executive, judicial, or legislative agency" for "the head of an executive or legislative agency" wherever appearing, was executed by substituting "The head of an executive, judicial, or legislative agency" for "The head of an executive or legislative agency", to reflect the probable intent of Congress.
+Subsecs. (d), (e). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting "the head of an executive, judicial, or legislative agency" for "the head of an executive or legislative agency" wherever appearing, was executed by substituting "Thehead of an executive, judicial, or legislative agency" for "The head of an executive or legislative agency", to reflect the probable intent of Congress.
 
 Subsec. (h). Pub. L. 104–134, §31001(c)(1), (g)(1)(C), inserted ", the Secretary of the Treasury," after "Attorney General" and substituted "the head of an executive, judicial, or legislative agency" for "the head of an executive or legislative agency".
 

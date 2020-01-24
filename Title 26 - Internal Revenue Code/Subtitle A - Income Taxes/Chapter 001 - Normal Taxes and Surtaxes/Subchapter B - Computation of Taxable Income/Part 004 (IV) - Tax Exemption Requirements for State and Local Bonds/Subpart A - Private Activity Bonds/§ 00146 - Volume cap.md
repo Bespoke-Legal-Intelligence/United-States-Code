@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (2) Special rule where State has more than 1 agency
 
-&emsp;If more than 1 agency of the State is authorized to issue tax-exempt private activity bonds, all such agencies shall be treated as a single agency.
+&emsp;If more than 1 agency of the State is authorized to issue tax-exempt private activitybonds, all such agencies shall be treated as a single agency.
 
 #### (c) Volume cap for other issuers
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If the population of any possession of the United States for any calendar year is less than the population of the least populousState (other than a possession) for such calendar year, the limitation under paragraph (1)(A) shall not be less than the amount determined under subparagraph (B) for such calendar year.
+&emsp;&emsp;If the population of any possession of the United States for any calendar year is less than the population of the least populous State (other than a possession) for such calendar year, the limitation under paragraph (1)(A) shall not be less than the amount determined under subparagraph (B) for such calendar year.
 
 #### (B) Limitation
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) an issue described in section 142(a)(7) (relating to qualified residential rental projects), or
 
-&emsp;&emsp;&emsp;&emsp;(II) a qualified mortgage issue (determined by substituting "12-month period" for "42-month period" each place it appears in section 143(a)(2)(D)(i)).
+&emsp;&emsp;&emsp;&emsp;(II) a qualified mortgage issue (determined by substituting "12-month period"for "42-month period" each place it appears in section 143(a)(2)(D)(i)).
 
 #### (e) State may provide for different allocation
 
@@ -214,7 +214,7 @@ Only for purposes of this section, the term "private activity bond" shall not in
 
 #### (2) Safe harbor for determination of government ownership
 
-&emsp;In determining ownership for purposes of paragraph (1), section 142(b)(1)(B) shall apply, except that a lease term shall be treated as satisfying clause (ii) thereof if it is not more than 20 years.
+&emsp;In determining ownership for purposes of paragraph (1), section 142(b)(1)(B) shall apply,except that a lease term shall be treated as satisfying clause (ii) thereof if it is not more than 20 years.
 
 #### (i) Treatment of refunding issues
 

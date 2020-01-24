@@ -6,7 +6,7 @@ Single State Tax Withholding.—
 
 &emsp;(1)
 
-In general.—No part of the compensation paid by a motor carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 or by a motor private carrier to an employee who performs regularly assigned duties in 2 or more States as such an employee with respect to a motor vehicle shall be subject to the income tax laws of any State or subdivision of that State, other than the State or subdivision thereof of the employee's residence.
+In general.—No part of the compensation paid by a motor carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 or by a motor private carrier to an employee who performs regularly assigned duties in 2 or more States as such an employee with respect to a motor vehicle shall be subject to the income tax laws of any Stateor subdivision of that State, other than the State or subdivision thereof of the employee's residence.
 
 &emsp;(2)
 

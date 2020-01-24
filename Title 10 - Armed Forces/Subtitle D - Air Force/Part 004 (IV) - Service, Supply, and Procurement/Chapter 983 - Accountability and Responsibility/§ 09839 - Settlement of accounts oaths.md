@@ -1,6 +1,6 @@
 ### §9839. Settlement of accounts: oaths
 
-The Secretary of the Air Force may detail any employee of the Department of the Air Force toadminister oaths required by law in the settlement of an officer's accounts for clothing and other military supplies. An oath administered under this section shall be without expense to the person to whom it is administered.
+The Secretary of the Air Force may detail any employee of the Department of the Air Force to administer oaths required by law in the settlement of an officer's accounts for clothing and other military supplies. An oath administered under this section shall be without expense to the person to whom it is administered.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 595.)
 

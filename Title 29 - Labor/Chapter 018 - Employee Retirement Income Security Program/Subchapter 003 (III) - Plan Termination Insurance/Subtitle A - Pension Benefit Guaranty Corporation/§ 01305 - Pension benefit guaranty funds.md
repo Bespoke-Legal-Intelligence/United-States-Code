@@ -2,7 +2,7 @@
 
 #### (a) Establishment of four revolving funds on books of Treasury of the United States
 
-There are established on the books of the Treasury of the United States for revolving funds to be used by the corporation in carrying out its duties under this subchapter. One of the funds shall be used with respect to basic benefits guaranteed under section 1322 of this title, one of the funds shall be used with respect to basic benefits guaranteed under section 1322a of this title, one of the funds shall be used with respect to nonbasic benefits guaranteed under section 1322 of this title (if any), and the remaining fund shall be used with respect to nonbasic benefits guaranteed under section 1322a of this title (if any), other than subsection (g)(2) thereof (if any). Whenever in this subchapter reference is made to the term "fund" the reference shall be considered to refer to the appropriate fund established under this subsection.
+There are established on the books of the Treasury of the United States four revolving funds to be used by the corporation in carrying out its duties under this subchapter. One of the funds shall be used with respect to basic benefits guaranteed under section 1322 of this title, one of the funds shall be used with respect to basic benefits guaranteed under section 1322a of this title, one of the funds shall be used with respect to nonbasic benefits guaranteed under section 1322 of this title (if any), and the remaining fund shall be used with respect to nonbasic benefits guaranteed under section 1322a of this title (if any), other than subsection (g)(2) thereof (if any). Whenever in this subchapter reference is made to the term "fund" the reference shall be considered to refer to the appropriate fund established under this subsection.
 
 #### (b) Credits to funds; availability of funds; investment of moneys in excess of current needs
 
@@ -48,7 +48,7 @@ There are established on the books of the Treasury of the United States for revo
 
 &emsp;(ii) premiums received in fiscal years specified in subclauses (I) through (V) of clause (i) shall be allocated in order first to the noninterest-bearing account in the amount specified and second to any other accounts within such fund; and
 
-&emsp;(iii) financial assistance, as provided under section 1431 of this title, shall be withdrawnproportionately from the noninterest-bearing and other accounts within the fund.
+&emsp;(iii) financial assistance, as provided under section 1431 of this title, shall be withdrawn proportionately from the noninterest-bearing and other accounts within the fund.
 
 #### (c) Repealed. Pub. L. 112–141, div. D, title II, §40234(a), July 6, 2012, 126 Stat. 858
 
@@ -122,7 +122,7 @@ Subsec. (b)(3). Pub. L. 112–141, §40234(b)(1)(A)(iii), substituted period at 
 
 Subsec. (c). Pub. L. 112–141, §40234(a), struck out subsec. (c) which related to authority to issue notes or other obligations and purchase by Secretary of the Treasury as public debt transaction.
 
-Subsec. (g)(2), (3). Pub. L. 112–141, §40234(b)(1)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "None of the funds borrowed under subsection (c) may be used to make loans to (or on behalf of) any fund other than a fund described in the second sentence of subsection (a)."
+Subsec. (g)(2), (3). Pub. L. 112–141, §40234(b)(1)(B), redesignated par. (3) as (2) and struck out former par. (2)which read as follows: "None of the funds borrowed under subsection (c) may be used to make loans to (or on behalf of) any fund other than a fund described in the second sentence of subsection (a)."
 
 <b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–465, which directed the amendment of subpar. (A) by inserting "or benefits payable under section 1350 of this title" after "section 1322a of this title", was executed by making the insertion after "section 1322 or 1322a of this title" to reflect the probable intent of Congress.
 

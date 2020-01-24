@@ -144,7 +144,7 @@ Determinations of eligibility.—Under a program established under this subsecti
 
 Exercise of authority.—The authority under this subsection may be exercised beginning on the date that is the later of—
 
-&emsp;&emsp;"(A) the date that is 60 days after the Secretary of Defense, in consultation with the Secretary ofState and the Director of the Information Security Oversight Office, submits to the appropriate congressional committees a report summarizing the review conducted under subsection (a); and
+&emsp;&emsp;"(A) the date that is 60 days after the Secretary of Defense, in consultation with the Secretary of State and the Director of the Information Security Oversight Office, submits to the appropriate congressional committees a report summarizing the review conducted under subsection (a); and
 
 &emsp;&emsp;"(B) the date that is 30 days after the Secretary of Defense, in consultation with the Secretary of State and the Director of the Information Security Oversight Office, submits to the appropriate congressional committees a written notification of a determination made under paragraph (2), including a discussion of the issues related to the foreign ownership or control of the organization that were considered as part of the determination.
 

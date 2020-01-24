@@ -44,7 +44,7 @@ Within thirty days of the Administrator's receipt of a complete notification und
 
 &emsp;(3) request the government to provide the Secretary with a written consent or objection to the terms of the notification; and
 
-&emsp;(4) forward to the government of the receiving country a description of the Federal regulations which would apply to the treatment, storage, and disposal of the hazardous waste in the United States.
+&emsp;(4) forward to the government of the receiving country a description of the Federal regulations which would apply to the treatment,storage, and disposal of the hazardous waste in the United States.
 
 #### (e) Conveyance of written consent to exporter
 

@@ -49,7 +49,7 @@ Part A—Administration
 - [&sect; 00231 - Service and supply fund; uses; reimbursement](%C2%A7%2000231%20-%20Service%20and%20supply%20fund%3B%20uses%3B%20reimbursement.md)
 - [&sect; 00232 - National Institute of Mental Health; authorization of appropriation; construction; location](%C2%A7%2000232%20-%20National%20Institute%20of%20Mental%20Health%3B%20authorization%20of%20appropriation%3B%20construction%3B%20location.md)
 - [&sect; 00233 - Civil actions or proceedings against commissioned officers or employees](%C2%A7%2000233%20-%20Civil%20actions%20or%20proceedings%20against%20commissioned%20officers%20or%20employees.md)
-- [&sect; 00234 - Repealed. Pub. L. 94&#8211;484, title IV, &sect;408(b)(1), Oct. 12, 1976, 90 Stat. 2281, eff. Oct. 1, 1977](%C2%A7%2000234%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93484%2C%20title%20IV%2C%20%C2%A7408%28b%29%281%29%2C%20Oct.%2012%2C%201976%2C%2090%20Stat.%202281%2C%20eff.%20Oct.%201%2C%201977.md)
+- [&sect; 00234 - Health care professionals assisting during a public health emergency](%C2%A7%2000234%20-%20Health%20care%20professionals%20assisting%20during%20a%20public%20health%20emergency.md)
 - [&sect; 00235 - Administration of grants in multigrant projects; promulgation of regulations](%C2%A7%2000235%20-%20Administration%20of%20grants%20in%20multigrant%20projects%3B%20promulgation%20of%20regulations.md)
 - [&sect; 00236 - Orphan Products Board](%C2%A7%2000236%20-%20Orphan%20Products%20Board.md)
 - [&sect; 00237 - Silvio O. Conte Senior Biomedical Research and Biomedical Product Assessment Service](%C2%A7%2000237%20-%20Silvio%20O.%20Conte%20Senior%20Biomedical%20Research%20and%20Biomedical%20Product%20Assessment%20Service.md)

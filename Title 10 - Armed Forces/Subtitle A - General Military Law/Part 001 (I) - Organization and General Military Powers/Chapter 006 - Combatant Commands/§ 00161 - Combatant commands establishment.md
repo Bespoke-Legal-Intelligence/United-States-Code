@@ -44,7 +44,7 @@ Pub. L. 104–201, div. A, title IX, §905, Sept. 23, 1996, 110 Stat. 2619, requ
 
 #### Initial Review of Combatant Commands
 
-Pub. L. 99–433, title II, §212, Oct. 1, 1986, 100 Stat. 1017, set out 10 areas to be covered in first review of missions, responsibilities, and force structure of unified combatant commands under subsec. (b) of this section, and directed that first report to President be made not later than Oct. 1, 1987.
+Pub. L. 99–433, title II, §212, Oct. 1, 1986, 100 Stat. 1017, set out 10 areas to be covered in first review of missions, responsibilities, and force structure of unifiedcombatant commands under subsec. (b) of this section, and directed that first report to President be made not later than Oct. 1, 1987.
 
 #### Disestablishment of United States Joint Forces Command
 
@@ -60,19 +60,13 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Unified Command Plan 2011
+#### Revisions to Unified Command Plan
 
-Memorandum of President of the United States, Apr. 6, 2011, 76 F.R. 19893, provided:
+The following presidential memoranda approved and directed the implementation of a revised Unified Command Plan and directed notification to Congress consistent with subsec. (b)(2) of this section:
 
-Memorandum for the Secretary of Defense
+Memorandum of President of the United States, May 24, 2019, 84 F.R. 24977.
 
-Pursuant to my authority as Commander in Chief, I hereby approve and direct the implementation of the revised Unified Command Plan.
-
-Consistent with title 10, United States Code, section 161(b)(2) and title 3, United States Code, section 301, you are directed to notify the Congress on my behalf.
-
-You are authorized and directed to publish this memorandum in the Federal Register.
-
-Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Memorandum of President of the United States, Apr. 6, 2011, 76 F.R. 19893.
 
 #### Establishment of United States Space Command as a Unified Combatant Command
 

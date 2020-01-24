@@ -22,7 +22,7 @@ Subject to valid existing rights and except as provided in subsection (b), all F
 
 &emsp;&emsp;(A) Any Federal land in the Recreation Area that qualifies for conveyance under Public Law 97–465 (commonly known as the "Small Tracts Act") (16 U.S.C. 521c et seq.), which, notwithstanding section 7 of that Act (16 U.S.C. 521i), may be conveyed under that Act.
 
-&emsp;&emsp;(B) Any Federal land in the Recreation Area that the Secretary determines to be appropriate for conveyance by exchange fornon-Federal land within the Recreation Area under authorities generally providing for the exchange of National Forest System land.
+&emsp;&emsp;(B) Any Federal land in the Recreation Area that the Secretary determines to be appropriate for conveyance by exchange for non-Federal land within the Recreation Area under authorities generally providing for the exchange of National Forest System land.
 
 (Pub. L. 103–63, §8, Aug. 4, 1993, 107 Stat. 300; Pub. L. 113–291, div. B, title XXX, §3092(f), Dec. 19, 2014, 128 Stat. 3872.)
 

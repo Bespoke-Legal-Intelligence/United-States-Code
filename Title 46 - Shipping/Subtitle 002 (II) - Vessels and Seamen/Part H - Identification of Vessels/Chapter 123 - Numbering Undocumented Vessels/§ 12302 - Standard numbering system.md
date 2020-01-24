@@ -6,7 +6,7 @@
 
 (c) When a vessel is numbered in a State, it is deemed in compliance with the numbering system of a State in which it temporarily is operated.
 
-(d) When a vessel is removed to a new State of principal operation, the issuing authority ofthat State shall recognize the validity of the number issued by the original State for 60 days.
+(d) When a vessel is removed to a new State of principal operation, the issuing authority of that State shall recognize the validity of the number issued by the original State for 60 days.
 
 (e) If a State has a numbering system approved after the Secretary issues a number, the State shall recognize the validity of the number issued by the Secretary for one year.
 

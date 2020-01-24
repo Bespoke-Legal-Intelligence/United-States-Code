@@ -16,7 +16,7 @@ No portion of the cost of mailing a statement under section 6050B(b) of the Inte
 
 #### References in Text
 
-The Federal Unemployment Tax Act, referred to in subsec. (a), comprised subchapter C (§§1600 to 1611) of chapter 9 of the Internal Revenue Code of 1939. Chapter 9 of the 1939 Code was repealed (subject to certain exceptions) by section 7851(a)(3) of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. The Federal Unemployment Tax Act also comprises chapter 23 (§3301 et seq.) of the Internal Revenue Code of 1986. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of Title 26, Internal Revenue Code. See also section 7852(b) of Title 26 for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
+The Federal Unemployment Tax Act, referred to in subsec. (a), comprised subchapter C (§§1600 to 1611) of chapter 9 of the Internal Revenue Code of 1939. Chapter 9 of the 1939 Code was repealed (subject to certain exceptions) by section 7851(a)(3) of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. The Federal Unemployment Tax Act also comprises chapter 23 (§3301 et seq.) of the Internal Revenue Code of 1986. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of Title 26, Internal Revenue Code. See also section 7852(b) of Title 26 for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
 
 #### Amendments
 
@@ -80,5 +80,5 @@ Specific Requirements.—The report required by subsection (a) shall include an 
 
 "(c)
 
-Congressional Review Period.—The Secretary of Labor may not revise the method in effect on the date of the enactment of this Act \[Nov. 15, 1991\] for allocating grants among the States under section 302 ofthe Social Security Act \[42 U.S.C. 502\], until after the expiration of the 12-month period beginning on the date on which the report required by subsection (a) is submitted to the Congress."
+Congressional Review Period.—The Secretary of Labor may not revise the method in effect on the date of the enactment of this Act \[Nov. 15, 1991\] for allocating grants among the States under section 302 of the Social Security Act \[42 U.S.C. 502\], until after the expiration of the 12-month period beginning on the date on which the report required by subsection (a) is submitted to the Congress."
 

@@ -32,7 +32,7 @@ The Secretary of Energy shall establish a period, not in excess of ninety days a
 
 The Secretary of Energy shall designate the ten institutions of higher education under this section not later than ninety days after the date on which such applications are to be submitted.
 
-(Pub. L. 95–87, title VIII, §801, Aug. 3, 1977, 91 Stat. 526; Pub. L. 95–617, title VI, §604(a), (c),Nov. 9, 1978, 92 Stat. 3166, 3167; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
+(Pub. L. 95–87, title VIII, §801, Aug. 3, 1977, 91 Stat. 526; Pub. L. 95–617, title VI, §604(a), (c), Nov. 9, 1978, 92 Stat. 3166, 3167; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
 #### Amendments
 

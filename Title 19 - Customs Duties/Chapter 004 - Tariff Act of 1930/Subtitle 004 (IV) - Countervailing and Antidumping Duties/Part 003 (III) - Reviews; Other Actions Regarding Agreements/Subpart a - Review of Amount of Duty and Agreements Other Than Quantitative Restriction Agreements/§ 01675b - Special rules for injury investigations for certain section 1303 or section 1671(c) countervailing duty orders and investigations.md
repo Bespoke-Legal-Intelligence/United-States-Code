@@ -90,7 +90,7 @@
 
 #### (c) Pending and suspended countervailing duty investigations
 
-If, on the date on which a country becomes a Subsidies Agreement country, there is a countervailing duty investigation in progress or suspended under section 1303 <sup>2</sup> of this title or section 1671(c) of this title that applies to merchandise which is a product of that country and with respect to which the requirement of an affirmative determination of material injury was not applicable at the time the investigation was initiated, the Commission shall—
+If, on the date on which a country becomes a Subsidies Agreement country, there is a countervailing duty investigation in progress or suspended under section 1303 <sup>1</sup> of this title or section 1671(c) of this title that applies to merchandise which is a product of that country and with respect to which the requirement of an affirmative determination of material injury was not applicable at the time the investigation was initiated, the Commission shall—
 
 &emsp;(1) in the case of an investigation in progress, make a final determination under section 1671d(b) of this title within 75 days after the date of an affirmative final determination, if any, by the administering authority,
 
@@ -130,7 +130,7 @@ The administering authority or the Commission, as the case may be, shall publish
 
 #### References in Text
 
-Section 1303 of this title, referred to in subsecs. (a)(2) and (c), is defined in section 1677(26) of this title to mean section 1330 as in effect on the day before Jan. 1, 1995.
+Section 1303 of this title, referred to in subsecs. (a)(2) and (c), is defined in section 1677(26) of this title to mean section 1303 as in effect on the day before Jan. 1, 1995.
 
 #### Amendments
 
@@ -147,6 +147,4 @@ Section effective, except as otherwise provided, on the date on which the WTO Ag
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

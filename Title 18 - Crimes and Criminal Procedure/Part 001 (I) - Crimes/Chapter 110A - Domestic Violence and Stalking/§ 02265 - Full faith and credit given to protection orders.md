@@ -44,7 +44,7 @@ Tribal Court Jurisdiction.—For purposes of this section, a court of an Indian 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (e). Pub. L. 113–4 added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "For purposes of this section, a tribal court shall have full civil jurisdiction to enforce protection orders, including authority to enforce any orders through civil contempt proceedings, exclusion of violators from Indian lands, and other appropriate mechanisms, in matters arising within the authority of the tribe."
+<b>2013</b>—Subsec. (e). Pub. L. 113–4 added subsec. (e) and struck out former subsec. (e). Prior to amendment, textread as follows: "For purposes of this section, a tribal court shall have full civil jurisdiction to enforce protection orders, including authority to enforce any orders through civil contempt proceedings, exclusion of violators from Indian lands, and other appropriate mechanisms, in matters arising within the authority of the tribe."
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–162, §106(a)(1), (b), substituted ", Indian tribe, or territory" for "or Indian tribe" wherever appearing and "and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory as if it were" for "and enforced as if it were".
 

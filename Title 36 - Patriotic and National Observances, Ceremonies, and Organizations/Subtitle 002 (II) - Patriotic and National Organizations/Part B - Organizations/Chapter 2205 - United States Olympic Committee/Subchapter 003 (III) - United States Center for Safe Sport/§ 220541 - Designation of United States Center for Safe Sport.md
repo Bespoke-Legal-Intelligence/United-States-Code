@@ -24,7 +24,7 @@ Binding Arbitration.—
 
 &emsp;(1)
 
-In general.—The Center may, in its discretion, utilize a neutral arbitration body anddevelop policies and procedures to resolve allegations of sexual abuse within its jurisdiction to determine the opportunity of any amateur athlete, coach, trainer, manager, administrator, or official, who is the subject of such an allegation, to participate in amateur athletic competition.
+In general.—The Center may, in its discretion, utilize a neutral arbitration body and develop policies and procedures to resolve allegations of sexual abuse within its jurisdiction to determine the opportunity of any amateur athlete, coach, trainer, manager, administrator, or official, who is the subject of such an allegation, to participate in amateur athletic competition.
 
 &emsp;(2)
 

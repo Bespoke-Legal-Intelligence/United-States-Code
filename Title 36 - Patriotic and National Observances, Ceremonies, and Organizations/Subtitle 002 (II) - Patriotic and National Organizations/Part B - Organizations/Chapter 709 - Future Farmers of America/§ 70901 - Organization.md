@@ -2,13 +2,13 @@
 
 (a)
 
-Federal Charter.—Future Farmers of America (in this chapter, the "corporation") is a federally chartered corporation.
+Federal Charter.—Future Farmers of America (in this chapter, the "FFA") is a federally chartered corporation.
 
 (b)
 
-Perpetual Existence.—Except as otherwise provided, the corporation has perpetual existence.
+Perpetual Existence.—Except as otherwise provided, the FFA has perpetual existence.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1356.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1356; Pub. L. 116–7, §2, Feb. 21, 2019, 133 Stat. 478.)
 
 Historical and Revision Notes
 
@@ -39,4 +39,10 @@ Aug. 30, 1950, ch. 823, §§1, 2, 20, 64 Stat. 563, 567.
 &nbsp;
 
 This section is substituted for 36:271 for consistency in the revised title and to eliminate executed and unnecessary words. The text of 36:272 and 290 is omitted as executed and obsolete.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–7, §2(1), which directed amendment of subsec. (a) by substituting "FFA" for "corporation", was executed by making the substitution the first place appearing to reflect the probable intent of Congress.
+
+Subsec. (b). Pub. L. 116–7, §2(2), substituted "FFA" for "corporation".
 

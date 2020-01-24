@@ -36,7 +36,7 @@
 
 #### (A) Determination of payment amounts
 
-&emsp;&emsp;Determining (subject to the provisions of section 1395oo of this title and to such reviewby the Secretary as may be provided for by the contracts) the amount of the payments required pursuant to this subchapter to be made to providers of services, suppliers and individuals.
+&emsp;&emsp;Determining (subject to the provisions of section 1395oo of this title and to such review by the Secretary as may be provided for by the contracts) the amount of the payments required pursuant to this subchapter to be made to providers of services, suppliers and individuals.
 
 #### (B) Making payments
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;&emsp;The incentives provided for under clause (ii)—
 
-&emsp;&emsp;&emsp;&emsp;(I) may include a sliding scale of award fee payments and additional incentives to medicare administrative contractorsthat either reduce the improper payment rates in their jurisdictions to certain thresholds, as determined by the Secretary, or accomplish tasks, as determined by the Secretary, that further improve payment accuracy; and
+&emsp;&emsp;&emsp;&emsp;(I) may include a sliding scale of award fee payments and additional incentives to medicare administrative contractors that either reduce the improper payment rates in their jurisdictions to certain thresholds, as determined by the Secretary, or accomplish tasks, as determined by the Secretary, that further improve payment accuracy; and
 
 &emsp;&emsp;&emsp;&emsp;(II) may include substantial reductions in award fee payments under cost-plus-award-fee contracts, for medicare administrative contractors that reach an upper end improper payment rate threshold or other threshold as determined by the Secretary, or fail to accomplish tasks, as determined by the Secretary, that further improve payment accuracy.
 
@@ -232,7 +232,7 @@
 
 &emsp;&emsp;Each year a medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) (relating to determining and making payments) shall undergo an evaluation of the information security of the contractor with respect to such functions under this subchapter. The evaluation shall—
 
-&emsp;&emsp;&emsp;(i) be performed by an entity that meets such requirements for independence as theInspector General of the Department of Health and Human Services may establish; and
+&emsp;&emsp;&emsp;(i) be performed by an entity that meets such requirements for independence as the Inspector General of the Department of Health and Human Services may establish; and
 
 &emsp;&emsp;&emsp;(ii) test the effectiveness of information security control techniques of an appropriate subset of the contractor's information systems (as defined in section 3502(8) of title 44) relating to such functions under this subchapter and an assessment of compliance with the requirements of this subsection and related information security policies, procedures, standards and guidelines, including policies and procedures as may be prescribed by the Director of the Office of Management and Budget and applicable information security standards promulgated under section 11331 of title 40.
 
@@ -296,7 +296,7 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### (ii) Evaluation
 
-&emsp;&emsp;&emsp;In conducting evaluations of individual medicare administrative contractors, the Secretary shall take into account the results of the monitoring conducted under subparagraph (A) taking into account asperformance requirements the standards established under clause (i). The Secretary shall, in consultation with organizations representing providers of services, suppliers, and individuals entitled to benefits under part A or enrolled under part B, or both, establish standards relating to the accuracy, consistency, and timeliness of the information so provided.
+&emsp;&emsp;&emsp;In conducting evaluations of individual medicare administrative contractors, the Secretary shall take into account the results of the monitoring conducted under subparagraph (A) taking into account as performance requirements the standards established under clause (i). The Secretary shall, in consultation with organizations representing providers of services, suppliers, and individuals entitled to benefits under part A or enrolled under part B, or both, establish standards relating to the accuracy, consistency, and timeliness of the information so provided.
 
 #### (C) Direct monitoring
 

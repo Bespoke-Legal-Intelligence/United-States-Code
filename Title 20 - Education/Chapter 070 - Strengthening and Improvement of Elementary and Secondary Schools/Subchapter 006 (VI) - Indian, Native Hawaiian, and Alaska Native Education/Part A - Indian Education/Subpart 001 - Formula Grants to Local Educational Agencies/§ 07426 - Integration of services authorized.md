@@ -40,7 +40,7 @@ Upon receipt of the plan from an eligible entity, the Secretary shall consult wi
 
 #### (f) Plan approval
 
-Within 90 days after the receipt of an entity's plan by the Secretary, the Secretary shall inform the entity, in writing, of the Secretary's approval or disapproval of the plan. If the plan is disapproved, the entity shall be informed, in writing, of the reasons for the disapproval andshall be given an opportunity to amend the plan or to petition the Secretary to reconsider such disapproval.
+Within 90 days after the receipt of an entity's plan by the Secretary, the Secretary shall inform the entity, in writing, of the Secretary's approval or disapproval of the plan. If the plan is disapproved, the entity shall be informed, in writing, of the reasons for the disapproval and shall be given an opportunity to amend the plan or to petition the Secretary to reconsider such disapproval.
 
 #### (g) Responsibilities of Department of Education
 
@@ -131,6 +131,8 @@ Subsec. (o)(1). Pub. L. 114–95, §6002(h)(2)(A), substituted "December 10, 201
 Subsec. (o)(2). Pub. L. 114–95, §6002(h)(2)(B), substituted "December 10, 2015" for "January 8, 2002" and struck out last sentence which read as follows: "Such report shall identify statutory barriers to the ability of participants to integrate more effectively their education and related services to Indian students in a manner consistent with the objectives of this section."
 
 #### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

@@ -6,7 +6,7 @@ On or about the first day of October in each year after June 26, 1953, the Secre
 
 #### (b) Time and manner of payment; related reports
 
-The amount to which a State is entitled shall be paid in equal quarterly payments in or about July, October, January, and April of each year to the treasurer or other officer of the State duly authorized by the laws of the State to receive the same, and such officer shall be required to report to the Secretary of Agriculture on or about the first day of April of each year, a detailed statement of the amount so received during the previous fiscal year and its disbursement, on forms prescribed by the Secretary of Agriculture.
+The amount to which a State is entitled shall be paid in equal quarterly payments in or about July, October, January, and April of each year to the treasurer or other officer of the State duly authorized by the laws of the State to receive the same, and such officer shall be required to report to the Secretary of Agricultureon or about the first day of April of each year, a detailed statement of the amount so received during the previous fiscal year and its disbursement, on forms prescribed by the Secretary of Agriculture.
 
 #### (c) Requirements related to plan of work
 

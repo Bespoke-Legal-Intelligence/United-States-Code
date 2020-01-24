@@ -4,7 +4,7 @@
 
 Eligibility.—(1) Except as provided in paragraph (2), a member of the Selected Reserve of the Ready Reserve of a reserve component of the armed forces is eligible for health benefits under TRICARE Reserve Select as provided in this section.
 
-(2) Paragraph (1) does not apply to a member who is enrolled, or is eligible to enroll, in a health benefits plan under chapter 89 of title 5.
+(2) During the period preceding January 1, 2030, paragraph (1) does not apply to a member who is enrolled, or is eligible to enroll, in a health benefits plan under chapter 89 of title 5.
 
 (b)
 
@@ -18,7 +18,7 @@ Family Members.—While a member of a reserve component is covered by TRICARE Re
 
 (d)
 
-Premiums.—(1) A member of a reserve component covered by TRICARE Reserve Select under this section shall pay a premium for that coverage. Such premium shall apply instead of any enrollment fees required under section 1075 of this section.<sup>1</sup>
+Premiums.—(1) A member of a reserve component covered by TRICARE Reserve Select under this section shall pay a premium for that coverage. Such premium shall apply instead of any enrollment fees required under section 1075 of this title.
 
 (2) The Secretary of Defense shall prescribe for the purposes of this section one premium for TRICARE Reserve Select coverage of members without dependents and one premium for TRICARE Reserve Select coverage of members with dependents referred to in subsection (f)(1). The premium prescribed for a coverage shall apply uniformly to all covered members of the reserve components.
 
@@ -46,13 +46,17 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) health benefits under the TRICARE Select self-managed, preferred provider network option under section 1075 of this title made available to beneficiaries by reason of this section and subject to the cost-sharing requirements set forth in such section 1075.
 
-(Added Pub. L. 108–375, div. A, title VII, §701(a)(1), Oct. 28, 2004, 118 Stat. 1980; amended Pub. L. 109–163, div. A, title VII, §701(a)–(f)(1), Jan. 6, 2006, 119 Stat. 3339, 3340; Pub. L. 109–364, div. A, title VII, §§704(c), 706(a)–(c), Oct. 17, 2006, 120 Stat. 2280, 2282; Pub. L. 110–181, div. A, title VII, §701(c), Jan. 28, 2008, 122 Stat. 188; Pub. L. 110–417, \[div. A\], title VII, §704(a), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title X, §1073(a)(11), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §701(a), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 114–328, div. A, title VII, §701(j)(1)(B), Dec. 23, 2016, 130 Stat. 2192; Pub. L. 115–91, div. A, title VII, §701(a), Dec. 12, 2017, 131 Stat. 1432.)
+(Added Pub. L. 108–375, div. A, title VII, §701(a)(1), Oct. 28, 2004, 118 Stat. 1980; amended Pub. L. 109–163, div. A, title VII, §701(a)–(f)(1), Jan. 6, 2006, 119 Stat. 3339, 3340; Pub. L. 109–364, div. A, title VII, §§704(c), 706(a)–(c), Oct. 17, 2006, 120 Stat. 2280, 2282; Pub. L. 110–181, div. A, title VII, §701(c), Jan. 28, 2008, 122 Stat. 188; Pub. L. 110–417, \[div. A\], title VII, §704(a), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title X, §1073(a)(11), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §701(a), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 114–328, div. A, title VII, §701(j)(1)(B), Dec. 23, 2016, 130 Stat. 2192; Pub. L. 115–91, div. A, title VII, §701(a), Dec. 12, 2017, 131 Stat. 1432; Pub. L. 116–92, div. A, title VII, §701, title XVII, §1731(a)(24), Dec. 20, 2019, 133 Stat. 1436, 1813.)
 
 #### References in Text
 
 The date of the enactment of this paragraph, referred to in subsec. (b)(2), probably means the date of enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(2). Pub. L. 116–92, §701, substituted "During the period preceding January 1, 2030, paragraph (1) does not apply" for "Paragraph (1) does not apply".
+
+Subsec. (d)(1). Pub. L. 116–92, §1731(a)(24), substituted "section 1075 of this title" for "section 1075 of this section".
 
 <b>2017</b>—Subsec. (f)(2). Pub. L. 115–91 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'TRICARE Reserve Select' means the TRICARE Select self-managed, preferred-provider network option under section 1075 made available to beneficiaries by reason of this section and in accordance with subsection (d)(1)."
 
@@ -120,7 +124,7 @@ Pub. L. 109–364, div. A, title VII, §706(g), Oct. 17, 2006, 120 Stat. 2282, p
 
 Pub. L. 109–364, div. A, title VII, §706(f), Oct. 17, 2006, 120 Stat. 2282, as amended by Pub. L. 110–181, div. A, title VII, §706(a), Jan. 28, 2008, 122 Stat. 189, provided that:
 
-"(1) Except as provided in paragraph (2), enrollments in TRICARE Standard that are in effect on the day before the date of the enactment of this Act \[Oct. 17, 2006\] under section 1076d of title 10, United States Code, as in effect on such day, shall be continued until terminated after such day under such section 1076d as amended by this section.
+"(1) Except as provided in paragraph (2), enrollments in TRICARE Standard that are in effect on the day before the date of the enactment of this Act \[Oct. 17, 2006\]under section 1076d of title 10, United States Code, as in effect on such day, shall be continued until terminated after such day under such section 1076d as amended by this section.
 
 "(2) The enrollment of a member in TRICARE Standard that is in effect on the day before health care under TRICARE Standard is provided pursuant to the effective date in subsection (g) \[set out as an Effective Date of 2006 Amendment note above\] shall not be terminated by operation of the exclusion of eligibility under subsection (a)(2) of such section 1076d, as so amended, for the duration of the eligibility of the member under TRICARE Standard as in effect on October 16, 2006."
 
@@ -258,7 +262,7 @@ Premium amount.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—The annual premium calculated under this subparagraph is an amount equal to 28 percent of the total annual amount of a premium under the health benefits plan selected.
+In general.—The annual premium calculated under this subparagraph is an amountequal to 28 percent of the total annual amount of a premium under the health benefits plan selected.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -405,6 +409,4 @@ Pub. L. 108–375, div. A, title VII, §701(b), Oct. 28, 2004, 118 Stat. 1981, p
 &emsp;"(ii) the date of the agreement.
 
 "(B) The Secretary of Defense shall take such action as is necessary to ensure, to the maximum extent practicable, that members of the reserve components eligible to enter into an agreement as provided in subparagraph (A) actually receive information on the opportunity and procedures for entering into such an agreement together with a clear explanation of the benefits that the members are eligible to receive as a result of entering into such an agreement under section 1076d of title 10, United States Code."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "of this title."</i>
 

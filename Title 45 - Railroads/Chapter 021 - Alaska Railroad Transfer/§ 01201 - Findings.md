@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(3) continuation of services of the Alaska Railroad and the opportunity for future expansion of those services are necessary to achieve Federal, State, and private objectives; however, continued Federal control and financial support are no longer necessary to accomplish these objectives;
 
-&emsp;(4) the transfer of the Alaska Railroad and provision for its operation by the State in the manner contemplated by this chapter is made pursuant to the Federal goal and ongoing program of transferring appropriate activities to the States;
+&emsp;(4) the transfer of the Alaska Railroad and provision for its operation by the State in themanner contemplated by this chapter is made pursuant to the Federal goal and ongoing program of transferring appropriate activities to the States;
 
 &emsp;(5) the State's continued operation of the Alaska Railroad following the transfer contemplated by this chapter, together with such expansion of the railroad as may be necessary or convenient in the future, will constitute an appropriate public use of the rail system and associated properties, will provide an essential governmental service, and will promote the general welfare of Alaska's residents and visitors; and
 

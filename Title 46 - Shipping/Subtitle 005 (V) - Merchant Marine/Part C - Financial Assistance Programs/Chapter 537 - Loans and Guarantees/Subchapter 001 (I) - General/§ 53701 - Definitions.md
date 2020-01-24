@@ -8,7 +8,7 @@ Actual cost.—The term "actual cost" means the sum of—
 
 &emsp;&emsp;(A) all amounts paid by or for the account of the obligor as of the date on which a determination is made under section 53715(d)(1) of this title; and
 
-&emsp;&emsp;(B) all amounts that the Secretary or Administrator reasonably estimates the obligor will become obligated to pay from time to time thereafter, for the construction, reconstruction, or reconditioning of the vessel, including guarantee fees that will become payable under section 53714 of this title inconnection with all obligations issued for construction, reconstruction, or reconditioning of the vessel or equipment to be delivered, and all obligations issued for the delivered vessel or equipment.
+&emsp;&emsp;(B) all amounts that the Secretary or Administrator reasonably estimates the obligor will become obligated to pay from time to time thereafter, for the construction, reconstruction, or reconditioning of the vessel, including guarantee fees that will become payable under section 53714 of this title in connection with all obligations issued for construction, reconstruction, or reconditioning of the vessel or equipment to be delivered, and all obligations issued for the delivered vessel or equipment.
 
 &emsp;(2)
 
@@ -31,14 +31,6 @@ Depreciated actual cost.—The term "depreciated actual cost" of a vessel means�
 &emsp;&emsp;&emsp;(ii) any amount paid or obligated to be paid for the reconstruction or reconditioning, depreciated on a straight line basis using a useful life of the vessel determined by the Secretary or Administrator.
 
 &emsp;(5)
-
-Eligible export vessel.—The term "eligible export vessel" means a vessel that—
-
-&emsp;&emsp;(A) is constructed, reconstructed, or reconditioned in the United States for use in world-wide trade; and
-
-&emsp;&emsp;(B) will, on delivery or redelivery, become or remain documented under the laws of a country other than the United States.
-
-&emsp;(6)
 
 Fishery facility.—
 
@@ -74,11 +66,11 @@ Required ownership.—Under subparagraph (A), the structure, appurtenance, land,
 
 &emsp;&emsp;&emsp;(ii) an entity that is a citizen of the United States under section 50501 of this title and that is at least 75 percent owned (as determined under that section) by citizens of the United States.
 
-&emsp;(7)
+&emsp;(6)
 
 Fishing vessel.—The term "fishing vessel" has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802), and any reference in this chapter to a vessel designed principally for commercial use in the fishing trade or industry is deemed to be a reference to a fishing vessel.
 
-&emsp;(8)
+&emsp;(7)
 
 Historical uses.—The term "historical uses" includes—
 
@@ -104,7 +96,7 @@ Historical uses.—The term "historical uses" includes—
 
 &emsp;&emsp;&emsp;(v) safety.
 
-&emsp;(9)
+&emsp;(8)
 
 Mortgage.—The term "mortgage" includes—
 
@@ -112,7 +104,7 @@ Mortgage.—The term "mortgage" includes—
 
 &emsp;&emsp;(B) a mortgage on a vessel that will become a preferred mortgage when filed or recorded under chapter 313 of this title.
 
-&emsp;(10)
+&emsp;(9)
 
 Obligation.—The term "obligation" means an instrument of indebtedness issued for a purpose described in section 53706 of this title, except—
 
@@ -120,15 +112,15 @@ Obligation.—The term "obligation" means an instrument of indebtedness issued f
 
 &emsp;&emsp;(B) an obligation eligible for investment of funds under section 53715(f) or 53717 of this title.
 
-&emsp;(11)
+&emsp;(10)
 
 Obligee.—The term "obligee" means the holder of an obligation.
 
-&emsp;(12)
+&emsp;(11)
 
 Obligor.—The term "obligor" means a party primarily liable for payment of the principal of or interest on an obligation.
 
-&emsp;(13)
+&emsp;(12)
 
 Ocean thermal energy conversion facility or plantship.—The term "ocean thermal energy conversion facility or plantship" means an at-sea facility or vessel, whether mobile, floating unmoored, moored, or standing on the seabed, that uses temperature differences in ocean water to produce electricity or another form of energy capable of being used directly to perform work, and includes—
 
@@ -138,11 +130,11 @@ Ocean thermal energy conversion facility or plantship.—The term "ocean thermal
 
 &emsp;&emsp;(C) other associated equipment and appurtenances of the facility or vessel to the extent they are located seaward of the high water mark.
 
-&emsp;(14)
+&emsp;(13)
 
 Secretary.—The term "Secretary" means the Secretary of Commerce with respect to fishing vessels and fishery facilities.
 
-&emsp;(15)
+&emsp;(14)
 
 Vessel.—The term "vessel" means any type of vessel, whether in existence or under construction, including—
 
@@ -172,7 +164,11 @@ Vessel.—The term "vessel" means any type of vessel, whether in existence or un
 
 &emsp;&emsp;(M) an ocean thermal energy conversion facility or plantship that is or will be documented under the laws of the United States.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1601; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(A), (b)(1), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(1), (10)(B), (b), Jan. 28, 2008, 122 Stat. 596, 598; Pub. L. 114–120, title III, §302(a)(1), Feb. 8, 2016, 130 Stat. 51.)
+&emsp;(15)
+
+Vessel of national interest.—The term "Vessel of National Interest" means a vessel deemed to be of national interest that meets characteristics determined by the Administrator, in consultation with the Secretary of Defense, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Department of the Navy, or the heads of other Federal agencies, as described in section 53703(d).
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1601; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(A), (b)(1), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(1), (10)(B), (b), Jan. 28, 2008, 122 Stat. 596, 598; Pub. L. 114–120, title III, §302(a)(1), Feb. 8, 2016, 130 Stat. 51; Pub. L. 116–92, div. C, title XXXV, §3506(a), Dec. 20, 2019, 133 Stat. 1970.)
 
 Historical and Revision Notes
 
@@ -249,6 +245,8 @@ In paragraph (5)(B)(ii), the words "corporation, partnership, association, or ot
 In paragraph (8), before subparagraph (A), the words "instrument of indebtedness" are substituted for "note, bond, debenture, or other evidence of indebtedness" to eliminate unnecessary words. In subparagraph (B), the reference to section 53717 is substituted for the reference to 46 App. U.S.C. 1272 because the accounts under section 53717 replace the Federal Ship Financing Fund. See the explanation for section 53717.
 
 #### Amendments
+
+<b>2019</b>—Pars. (5) to (15). Pub. L. 116–92 redesignated pars. (6) to (15) as (5) to (14), respectively, added a new par. (15), and struck out former par. (5) which defined "eligible export vessel".
 
 <b>2016</b>—Pars. (8) to (15). Pub. L. 114–120 added par. (8) and redesignated former pars. (8) to (14) as (9) to (15), respectively.
 

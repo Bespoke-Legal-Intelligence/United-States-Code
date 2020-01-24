@@ -8,7 +8,7 @@ Policy.—It is the policy of the United States for the President to undertake a
 
 Included Actions.—The appropriate actions referred to in subsection (a) shall include, at a minimum, providing resources and policy guidance to sustain—
 
-&emsp;(1) the availability of at least two space launch vehicles (or families of space launch vehicles) capable of delivering into space any payload designated by the Secretary of Defense or the Director of National Intelligence as a national security payload <sup>1</sup>
+&emsp;(1) the availability of at least two space launch vehicles (or families of space launch vehicles) capable of delivering into space any payload designated by the Secretary of Defense or the Director of National Intelligence as a national security payload;
 
 &emsp;(2) a robust space launch infrastructure and industrial base; and
 
@@ -24,13 +24,15 @@ Included Actions.—The appropriate actions referred to in subsection (a) shall 
 
 Coordination.—The Secretary of Defense shall, to the maximum extent practicable, pursue the attainment of the capabilities described in subsection (a) in coordination with the Administrator of the National Aeronautics and Space Administration and the Director of National Intelligence.
 
-(Added Pub. L. 108–136, div. A, title IX, §912(a)(1), Nov. 24, 2003, 117 Stat. 1565; Pub. L. 110–181, div. A, title IX, §931(a)(12), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(11), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 115–232, div. A, title XVI, §1603(a), Aug. 13, 2018, 132 Stat. 2105.)
+(Added Pub. L. 108–136, div. A, title IX, §912(a)(1), Nov. 24, 2003, 117 Stat. 1565; Pub. L. 110–181, div. A, title IX, §931(a)(12), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(11), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 115–232, div. A, title XVI, §1603(a), Aug. 13, 2018, 132 Stat. 2105; Pub. L. 116–92, div. A, title XVII, §1731(a)(34), Dec. 20, 2019, 133 Stat. 1814.)
 
 #### Prior Provisions
 
 A prior section 2273, acts Aug. 10, 1956, ch. 1041, 70A Stat. 125; Apr. 2, 1982, Pub. L. 97–164, title I, §160(a)(4), 96 Stat. 48; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516, related to right of United States to designs, rights of designers to patents, and rights to sue United States, prior to repeal by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(1). Pub. L. 116–92 inserted semicolon at end.
 
 <b>2018</b>—Subsec. (b)(3). Pub. L. 115–232, §1603(a)(1), added par. (3).
 
@@ -43,6 +45,40 @@ Subsec. (c). Pub. L. 115–232, §1603(a)(2), inserted "and the Director of Nati
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+
+#### Program To Enhance and Improve Launch Support and Infrastructure
+
+Pub. L. 116–92, div. A, title XVI, §1609, Dec. 20, 2019, 133 Stat. 1727, provided that:
+
+"(a)
+
+In General.—In support of the policy described in section 2273(a) of title 10, United States Code, the Secretary of Defense, in coordination with the Administrator of the Federal Aviation Administration, may carry out a program to enhance infrastructure and improve support activities for the processing and launch of Department of Defense small-class and medium-class payloads.
+
+"(b)
+
+Program.—The program under subsection (a) shall include improvements to operations at launch ranges and Federal Aviation Administration-licensed spaceports that are consistent with, and necessary to permit, the use of such launch ranges and spaceports by the Department.
+
+"(c)
+
+Consultation.—In carrying out the program under subsection (a), the Secretary may consult with current and anticipated users of launch ranges and Federal Aviation Administration-licensed spaceports, including the Space Rapid Capabilities Office.
+
+"(d)
+
+Cooperation.—In carrying out the program under subsection (a), the Secretary may enter into a contract or agreement under section 2276 of title 10, United States Code.
+
+"(e)
+
+Report.—Not later than 270 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary shall submit to the appropriate committees of Congress a report describing a plan for the program under subsection (a).
+
+"(f)
+
+Appropriate Committees of Congress Defined.—In this section, the term 'appropriate committees of Congress' means—
+
+&emsp;"(1) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\];
+
+&emsp;"(2) the Committee on Commerce, Science, and Transportation and the Select Committee on Intelligence of the Senate; and
+
+&emsp;"(3) the Committee on Transportation and Infrastructure, the Committee on Science, Space, and Technology, and the Permanent Select Committee on Intelligence of the House of Representatives."
 
 #### Use of Reusable Launch Vehicles
 
@@ -94,7 +130,7 @@ Appropriate Congressional Committees Defined.—In this section, the term 'appro
 
 #### Launch Support and Infrastructure Modernization
 
-Pub. L. 115–91, div. A, title XVI, §1609, Dec. 12, 2017, 131 Stat. 1727, provided that:
+Pub. L. 115–91, div. A, title XVI, §1609, Dec. 12, 2017, 131 Stat. 1727, as amended by Pub. L. 116–92, div. A, title XVII, §1731(c), Dec. 20, 2019, 133 Stat. 1816, provided that:
 
 "(a)
 
@@ -104,11 +140,11 @@ In General.—In support of the policy specified in section 2273 of title 10, Un
 
 Elements.—The program under subsection (a) shall include—
 
-&emsp;"(1) investments in infrastructure to improve operations at the Eastern and Western Ranges that maybenefit all users, to enhance the overall capabilities of ranges, to improve safety, and to reduce the long-term cost of operations and maintenance;
+&emsp;"(1) investments in infrastructure to improve operations at the Eastern and Western Ranges that may benefit all users, to enhance the overall capabilities of ranges, to improve safety, and to reduce the long-term cost of operations and maintenance;
 
 &emsp;"(2) measures to normalize processes, systems, and products across the Eastern and Western ranges to minimize the burden on launch providers; and
 
-&emsp;"(3) improvements in transparency, flexibility, and, \[sic\] responsiveness for launch scheduling.
+&emsp;"(3) improvements in transparency, flexibility, and responsiveness for launch scheduling.
 
 "(c)
 
@@ -135,6 +171,8 @@ Elements.—The report under paragraph (1) shall include—
 &emsp;&emsp;"(B) a description of plans to streamline and normalize processes, systems, and products at the Eastern and Western ranges, to ensure consistency for range users; and
 
 &emsp;&emsp;"(C) recommendations for improving transparency, flexibility, and responsiveness in launch scheduling."
+
+\[Pub. L. 116–92, div. A, title XVII, §1731(c), Dec. 20, 2019, 133 Stat. 1816, provided that the amendment made by section 1731(c) to section 1609(b)(3) of Pub. L. 115–91, set out above, is effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted.\]
 
 #### Acquisition Strategy for National Security Space Launch Program
 
@@ -307,6 +345,4 @@ Definitions.—In this section:
 &emsp;&emsp;"(B) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
 &emsp;"(2) The term 'rocket propulsion system' means, with respect to the development authorized by subsection (a), a main booster, first-stage rocket engine or motor. The term does not include a launch vehicle, an upper stage, a strap-on motor, or related infrastructure."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

@@ -54,7 +54,7 @@
 
 #### (B) Prior approval required
 
-&emsp;&emsp;Notwithstanding any other provision of this section, a designated contract market shall submit to the Commission for prior approval each rule amendment that materially changes the terms and conditions, as determined by the Commission, in any contract of sale for future delivery of a commodity specifically enumerated in section 1a(10) <sup>1</sup> ofthis title (or any option thereon) traded through its facilities if the rule amendment applies to contracts and delivery months which have already been listed for trading and have open interest.
+&emsp;&emsp;Notwithstanding any other provision of this section, a designated contract market shall submit to the Commission for prior approval each rule amendment that materially changes the terms and conditions, as determined by the Commission, in any contract of sale for future delivery of a commodity specifically enumerated in section 1a(10) <sup>1</sup> of this title (or any option thereon) traded through its facilities if the rule amendment applies to contracts and delivery months which have already been listed for trading and have open interest.
 
 #### (C) Deadline
 
@@ -74,7 +74,7 @@
 
 #### (i) Event contracts
 
-&emsp;&emsp;&emsp;In connection with the listing of agreements, contracts, transactions, or swaps in excluded commodities that are based upon the occurrence, extent of an occurrence, or contingency (other than a change in the price, rate, value, or levels of a commodity described in section 1a(2)(i) <sup>2</sup> of this title), by a designated contract market or swap execution facility, the Commission may determine that such agreements, contracts, or transactions are contrary to the public interest if the agreements, contracts, or transactions involve—
+&emsp;&emsp;&emsp;In connection with the listing of agreements, contracts, transactions, or swaps inexcluded commodities that are based upon the occurrence, extent of an occurrence, or contingency (other than a change in the price, rate, value, or levels of a commodity described in section 1a(2)(i) <sup>2</sup> of this title), by a designated contract market or swap execution facility, the Commission may determine that such agreements, contracts, or transactions are contrary to the public interest if the agreements, contracts, or transactions involve—
 
 &emsp;&emsp;&emsp;&emsp;(I) activity that is unlawful under any Federal or State law;
 

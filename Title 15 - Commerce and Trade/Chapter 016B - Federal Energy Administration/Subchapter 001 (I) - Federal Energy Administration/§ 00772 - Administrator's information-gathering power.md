@@ -10,7 +10,7 @@ All persons owning or operating facilities or business premises who are engaged 
 
 #### (c) General or special orders for filing reports or answers in writing to specific questions, surveys, or questionnaires; oath or otherwise; filing period
 
-The Administrator may require, by general or special orders, any person engaged in any phase of energy supply or major energy consumption to file with the Administrator in such form as he may prescribe, reports or answers in writingto such specific questions, surveys, or questionnaires as may be necessary to enable the Administrator to carry out his functions under this chapter. Such reports and answers shall be made under oath, or otherwise, as the Administrator may prescribe, and shall be filed with the Administrator within such reasonable period as he may prescribe.
+The Administrator may require, by general or special orders, any person engaged in any phase of energy supply or major energy consumption to file with the Administrator in such form as he may prescribe, reports or answers in writing to such specific questions, surveys, or questionnaires as may be necessary to enable the Administrator to carry out his functions under this chapter. Such reports and answers shall be made under oath, or otherwise, as the Administrator may prescribe, and shall be filed with the Administrator within such reasonable period as he may prescribe.
 
 #### (d) Investigations, physical inspections, inventories and samples, copies, and interrogations
 
@@ -28,7 +28,7 @@ The Administrator shall collect from departments, agencies and instrumentalities
 
 #### (g) Maintenance of records and accounts
 
-With respect to any person who is subject to any rule, regulation, or order promulgated by the Administrator or to any provision of law the administration of which is vested in or transferred or delegated to the Administrator, the Administrator may require, by rule, the keeping of such accounts or records as he determines are necessary or appropriate for determining compliance with such rule, regulation, order, or any applicable provision of law.
+With respect to any person who is subject to any rule, regulation, or order promulgated by the Administrator or to any provision of law the administration of which is vested in or transferred or delegated to the Administrator, theAdministrator may require, by rule, the keeping of such accounts or records as he determines are necessary or appropriate for determining compliance with such rule, regulation, order, or any applicable provision of law.
 
 #### (h) Alleviation of reporting burdens for small businesses
 

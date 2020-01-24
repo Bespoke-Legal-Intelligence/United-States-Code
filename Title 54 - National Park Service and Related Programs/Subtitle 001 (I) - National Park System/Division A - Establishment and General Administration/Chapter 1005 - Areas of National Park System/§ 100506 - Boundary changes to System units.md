@@ -40,7 +40,7 @@ In general.—When the Secretary determines that to do so will contribute to, an
 
 &emsp;(2)
 
-Consultation.—Prior to making a determination under this subsection, the Secretary shall consult with the governing body of the county, city, town, or other jurisdiction or jurisdictions having primary taxing authority over the land or interest to be acquired as to the impacts of the proposed action.
+Consultation.—Prior to making a determination under this subsection, the Secretary shall consult with the governing body of thecounty, city, town, or other jurisdiction or jurisdictions having primary taxing authority over the land or interest to be acquired as to the impacts of the proposed action.
 
 &emsp;(3)
 

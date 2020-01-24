@@ -30,7 +30,7 @@
 
 #### (2) Compensation
 
-&emsp;Notwithstanding any otherwise applicable provision of title 5 concerning compensation, including the provisions of chapter 51 and chapter 53, the following provisions shall apply with respect to employees of the Bureau:
+&emsp;Notwithstanding any otherwise applicable provision of title 5 concerning compensation, including the provisions of chapter 51 and chapter 53, the following provisions shallapply with respect to employees of the Bureau:
 
 &emsp;&emsp;(A) The rates of basic pay for all employees of the Bureau may be set and adjusted by the Director.
 
@@ -50,7 +50,7 @@
 
 #### (B) Election period
 
-&emsp;&emsp;Bureau employees shall make an election under this paragraph not later than 1 year after the date of appointment by, or transfer under part F to, the Bureau. Participationin, and benefit accruals under, any other retirement plan established or maintained by the Federal Government shall end not later than the date on which participation in, and benefit accruals under, the Federal Reserve System Retirement Plan and Federal Reserve System Thrift Plan begin.
+&emsp;&emsp;Bureau employees shall make an election under this paragraph not later than 1 year after the date of appointment by, or transfer under part F to, the Bureau. Participation in, and benefit accruals under, any other retirement plan established or maintained by the Federal Government shall end not later than the date on which participation in, and benefit accruals under, the Federal Reserve System Retirement Plan and Federal Reserve System Thrift Plan begin.
 
 #### (C) Employer contribution
 
@@ -122,7 +122,7 @@
 
 #### (D) Data sharing required
 
-&emsp;&emsp;To facilitate preparation of the reports required under subparagraph (C), supervision and enforcement activities, and monitoring of the market for consumer financial products and services, the Bureau shall shareconsumer complaint information with prudential regulators, the Federal Trade Commission, other Federal agencies, and State agencies, subject to the standards applicable to Federal agencies for protection of the confidentiality of personally identifiable information and for data security and integrity. The prudential regulators, the Federal Trade Commission, and other Federal agencies shall share data relating to consumer complaints regarding consumer financial products and services with the Bureau, subject to the standards applicable to Federal agencies for protection of confidentiality of personally identifiable information and for data security and integrity.
+&emsp;&emsp;To facilitate preparation of the reports required under subparagraph (C), supervision and enforcement activities, and monitoring of the market for consumer financial products and services, the Bureau shall share consumer complaint information with prudential regulators, the Federal Trade Commission, other Federal agencies, and State agencies, subject to the standards applicable to Federal agencies for protection of the confidentiality of personally identifiable information and for data security and integrity. The prudential regulators, the Federal Trade Commission, and other Federal agencies shall share data relating to consumer complaints regarding consumer financial products and services with the Bureau, subject to the standards applicable to Federal agencies for protection of confidentiality of personally identifiable information and for data security and integrity.
 
 #### (c) Office of Fair Lending and Equal Opportunity
 

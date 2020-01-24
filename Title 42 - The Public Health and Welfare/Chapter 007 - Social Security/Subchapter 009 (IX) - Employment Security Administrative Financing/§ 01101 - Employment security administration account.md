@@ -54,7 +54,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (C) Each estimate of net receipts under this paragraph shall be based upon a tax rate of 0.6 percent.
 
-(4) For purposes of paragraphs (1)(A)(ii) and (1)(B)(iii) the amount authorized to be made available out of the employment security administration account for any fiscal year after June 30, 1972, shall reflect the proportion of the total cost of administering the system of public employment offices in accordance with the Act of June 6, 1933, as amended \[29 U.S.C. 49 et seq.\], and of the necessary expenses of the Department of Labor for the performance of its functions under the provisions of such Act, as the President determines is an appropriate charge to the employment security administration account, and reflects in his annual budget for such year. The President's determination, after consultation with the Secretary, shall take into account such factors as the relationship between employment subject to State laws and the total labor force in the United States, the number of claimants and the number of job applicants, and such other factors as he finds relevant.
+(4) For purposes of paragraphs (1)(A)(ii) and (1)(B)(iii) the amount authorized to be made available out of the employment security administration account for any fiscal year after June 30, 1972, shall reflect the proportion of the total cost of administering the system of public employment offices in accordance with the Actof June 6, 1933, as amended \[29 U.S.C. 49 et seq.\], and of the necessary expenses of the Department of Labor for the performance of its functions under the provisions of such Act, as the President determines is an appropriate charge to the employment security administration account, and reflects in his annual budget for such year. The President's determination, after consultation with the Secretary, shall take into account such factors as the relationship between employment subject to State laws and the total labor force in the United States, the number of claimants and the number of job applicants, and such other factors as he finds relevant.
 
 (5)(A) There are authorized to be appropriated out of the employment security administration account to carry out program integrity activities, in addition to any amounts available under paragraph (1)(A)(i)—
 
@@ -70,7 +70,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (B) In any fiscal year in which a State receives funds appropriated pursuant to this paragraph, the State shall expend a proportion of the funds appropriated pursuant to paragraph (1)(A)(i) to carry out program integrity activities that is not less than the proportion of the funds appropriated under such paragraph that was expended by the State to carry out program integrity activities in fiscal year 1997.
 
-(C) For purposes of this paragraph, the term "program integrity activities" means initialclaims review activities, eligibility review activities, benefit payments control activities, and employer liability auditing activities.
+(C) For purposes of this paragraph, the term "program integrity activities" means initial claims review activities, eligibility review activities, benefit payments control activities, and employer liability auditing activities.
 
 #### (d) Additional tax attributable to reduced credits; transfer of funds
 

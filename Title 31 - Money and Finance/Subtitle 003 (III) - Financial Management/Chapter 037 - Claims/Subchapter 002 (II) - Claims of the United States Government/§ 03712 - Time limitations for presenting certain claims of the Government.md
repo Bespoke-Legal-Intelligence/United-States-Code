@@ -20,7 +20,7 @@ Civil actions.—(A) Except as provided in subparagraph (B), the United States m
 
 &emsp;(3)
 
-Effect on agency authority.—Nothing in this subsection shall be construed to limitthe authority of any agency under subchapter II of chapter 37 of this title.
+Effect on agency authority.—Nothing in this subsection shall be construed to limit the authority of any agency under subchapter II of chapter 37 of this title.
 
 (b) Notwithstanding subsection (a) of this section, a civil action may be brought within 2 years after the claim is discovered when an endorser, transferor, depositary, or fiscal agent fraudulently conceals the claim from an officer or employee of the Government entitled to bring the civil action.
 
@@ -90,7 +90,7 @@ In subsection (d), the words "arising from dual pay" are substituted for "arisin
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–86 effective 6 months after Aug. 10, 1987, or on such later date as the Secretary of the Treasury may prescribe in regulations, see section1006 of Pub. L. 100–86, set out as a note under section 3328 of this title.
+Amendment by Pub. L. 100–86 effective 6 months after Aug. 10, 1987, or on such later date as the Secretary of the Treasury may prescribe in regulations, see section 1006 of Pub. L. 100–86, set out as a note under section 3328 of this title.
 
 #### Regulations
 

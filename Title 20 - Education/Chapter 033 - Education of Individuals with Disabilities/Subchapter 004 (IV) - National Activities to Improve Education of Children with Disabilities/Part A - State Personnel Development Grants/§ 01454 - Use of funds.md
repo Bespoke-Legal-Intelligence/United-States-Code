@@ -102,7 +102,7 @@ A State educational agency that receives a grant under this part shall use the g
 
 &emsp;(4) Developing and implementing mechanisms to assist local educational agencies and schools in effectively recruiting and retaining special education teachers who meet the qualifications described in section 1412(a)(14)(C) of this title.
 
-&emsp;(5) Reforming tenure systems, implementing teacher testing for subject matter knowledge, and implementing teacher testing for Statecertification or licensing, consistent with title II of the Higher Education Act of 1965 \[20 U.S.C. 1021 et seq.\].
+&emsp;(5) Reforming tenure systems, implementing teacher testing for subject matter knowledge, and implementing teacher testing for State certification or licensing, consistent with title II of the Higher Education Act of 1965 \[20 U.S.C. 1021 et seq.\].
 
 &emsp;(6) Funding projects to promote reciprocity of teacher certification or licensing between or among States for special education teachers, except that no reciprocity agreement developed under this paragraph or developed using funds provided under this part may lead to the weakening of any State teaching certification or licensing requirement.
 

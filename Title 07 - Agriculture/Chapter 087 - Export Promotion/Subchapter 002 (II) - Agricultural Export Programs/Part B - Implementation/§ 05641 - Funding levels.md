@@ -2,7 +2,7 @@
 
 #### (a) Direct credit programs
 
-The Commodity Credit Corporation may make available for each fiscal year such funds of the Commodity Credit Corporation as it determines necessary to carry out any direct credit program established under section 5621 of this title.
+The Commodity Credit Corporation may make available for each fiscal year such funds of theCommodity Credit Corporation as it determines necessary to carry out any direct credit program established under section 5621 of this title.
 
 #### (b) Export credit guarantee program
 
@@ -24,7 +24,7 @@ Subsec. (c)(1)(A). Pub. L. 110–246, §3102(b), substituted "2008 through 2012"
 
 <b>2002</b>—Subsec. (b)(1). Pub. L. 107–171, §3102(d), substituted "2007" for "2002".
 
-Subsec. (c). Pub. L. 107–171, §3103, designated existing provisions as par. (1), inserted heading, redesignatedformer pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), added subpar. (A) and struck out former subpar. (A) relating to funds available for market access activities authorized to be carried out by the Commodity Credit Corporation for fiscal years 1991 through 2002, and added par. (2).
+Subsec. (c). Pub. L. 107–171, §3103, designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), added subpar. (A) and struck out former subpar. (A) relating to funds available for market access activities authorized to be carried out by the Commodity Credit Corporation for fiscal years 1991 through 2002, and added par. (2).
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–127, §243(b), added subsec. (b) and struck out former subsec. (b) which authorized short and intermediate term export credit guarantees for each of fiscal years 1991 through 1995 and further provided for limitation on origination fees for short-term guarantees.
 

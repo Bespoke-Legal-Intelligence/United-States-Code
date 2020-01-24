@@ -8,7 +8,7 @@ Unless otherwise specified, in this chapter:
 
 #### (2) All aspects of an industry
 
-&emsp;The term "all aspects of an industry" means strong experience in, and comprehensive understanding of, the industry that the individual is preparing to enter, including information as described in section 2328 of this title.
+&emsp;The term "all aspects of an industry" means strong experience in, and comprehensive understanding of, the industry that the individual is preparing to enter.
 
 #### (3) Area career and technical education school
 
@@ -16,11 +16,11 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(A) a specialized public secondary school used exclusively or principally for the provision of career and technical education to individuals who are available for study in preparation for entering the labor market;
 
-&emsp;&emsp;(B) the department of a public secondary school exclusively or principally used for providing career and technical education in not fewer than 5 different occupational fields to individuals who are available for study in preparation for entering the labor market;
+&emsp;&emsp;(B) the department of a public secondary school exclusively or principally used for providing career and technical education in not fewer than 3 different fields that are available to all students, especially in high-skill, high-wage, or in-demand industry sectors or occupations;
 
 &emsp;&emsp;(C) a public or nonprofit technical institution or career and technical education school used exclusively or principally for the provision of career and technical education to individuals who have completed or left secondary school and who are available for study in preparation for entering the labor market, if the institution or school admits, as regular students, individuals who have completed secondary school and individuals who have left secondary school; or
 
-&emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides career and technical education in not fewer than 5 different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits, as regular students, both individuals who have completed secondary school and individuals who have left secondary school.
+&emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides career and technical education in not fewer than 3 different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits, as regular students, both individuals who have completed secondary school and individuals who have left secondary school.
 
 #### (4) Articulation agreement
 
@@ -44,13 +44,17 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(A) offer a sequence of courses that—
 
-&emsp;&emsp;&emsp;(i) provides individuals with coherent and rigorous content aligned with challenging academic standards and relevant technical knowledge and skills needed to prepare for further education and careers in current or emerging professions;
+&emsp;&emsp;&emsp;(i) provides individuals with rigorous academic content and relevant technical knowledge and skills needed to prepare for further education and careers in current or emerging professions, which may include high-skill, high-wage, or in-demand industry sectors or occupations, which shall be, at the secondary level, aligned with the challenging State academic standards adopted by a State under section 6311(b)(1) of this title;
 
-&emsp;&emsp;&emsp;(ii) provides technical skill proficiency, an industry-recognized credential, a certificate, or an associate degree; and
+&emsp;&emsp;&emsp;(ii) provides technical skill proficiency or a recognized postsecondary credential, which may include an industry-recognized credential, a certificate, or an associate degree; and
 
-&emsp;&emsp;&emsp;(iii) may include prerequisite courses (other than a remedial course) that meet the requirements of this subparagraph; and
+&emsp;&emsp;&emsp;(iii) may include prerequisite courses (other than a remedial course) that meet the requirements of this subparagraph;
 
-&emsp;&emsp;(B) include competency-based applied learning that contributes to the academic knowledge, higher-order reasoning and problem-solving skills, work attitudes, general employability skills, technical skills, and occupation-specific skills, and knowledge of all aspects of an industry, including entrepreneurship, of an individual.
+&emsp;&emsp;(B) include competency-based, work-based, or other applied learning that supports the development of academic knowledge, higher-order reasoning and problem-solving skills, work attitudes, employability skills, technical skills, and occupation-specific skills, and knowledge of all aspects of an industry, including entrepreneurship, of an individual;
+
+&emsp;&emsp;(C) to the extent practicable, coordinate between secondary and postsecondary education programs through programs of study, which may include coordination through articulation agreements, early college high school programs, dual or concurrent enrollment program opportunities, or other credit transfer agreements that provide postsecondary credit or advanced standing; and
+
+&emsp;&emsp;(D) may include career exploration at the high school level or as early as the middle grades (as such term is defined in section 7801 of this title).
 
 #### (6) Career and technical student organization
 
@@ -66,15 +70,21 @@ Unless otherwise specified, in this chapter:
 
 &emsp;The term "career guidance and academic counseling" means guidance and counseling that—
 
-&emsp;&emsp;(A) provides access for students (and parents, as appropriate) to information regarding career awareness and planning with respect to an individual's occupational and academic future; and
+&emsp;&emsp;(A) provides access for students (and, as appropriate, parents and out-of-school youth) to information regarding career awareness exploration opportunities and planning with respect to an individual's occupational and academic future;
 
-&emsp;&emsp;(B) provides information with respect to career options, financial aid, and postsecondary options, including baccalaureate degree programs.
+&emsp;&emsp;(B) provides information to students (and, as appropriate, parents and out-of-school youth) with respect to career options, financial aid, job training, secondary and postsecondary options (including associate and baccalaureate degree programs), dual or concurrent enrollment programs, work-based learning opportunities, early college high schools, financial literacy, and support services, as appropriate; and
 
-#### (8) Charter school
+&emsp;&emsp;(C) may provide assistance for special populations with respect to direct support services that enable students to persist in and complete career and technical education, programs of study, or career pathways.
+
+#### (8) Career pathways
+
+&emsp;The term "career pathways" has the meaning given the term in section 3102 of title 29.
+
+#### (9) Charter school
 
 &emsp;The term "charter school" has the meaning given the term in section 7221i of this title.
 
-#### (9) Cooperative education
+#### (10) Cooperative education
 
 &emsp;The term "cooperative education" means a method of education for individuals who, through written cooperative arrangements between a school and employers, receive instruction, including required rigorous and challenging academic courses and related career and technical education instruction, by alternation of study in school with a job in any occupational field, which alternation—
 
@@ -82,63 +92,145 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(B) may include an arrangement in which work periods and school attendance may be on alternate half days, full days, weeks, or other periods of time in fulfilling the cooperative program.
 
-#### (10) Displaced homemaker
+#### (11) Credit transfer agreement
 
-&emsp;The term "displaced homemaker" means an individual who—
+&emsp;The term "credit transfer agreement" means a formal agreement, such as an articulation agreement, among and between secondary and postsecondary education institutions or systems that grant students transcripted postsecondary credit, which may include credit granted to students in dual or concurrent enrollment programs or early college high school, dual credit, articulated credit, and credit granted on the basis of performance on technical or academic assessments.
 
-&emsp;&emsp;(A)(i) has worked primarily without remuneration to care for a home and family, and for that reason has diminished marketable skills;
+#### (12) CTE concentrator
 
-&emsp;&emsp;(ii) has been dependent on the income of another family member but is no longer supported by that income; or
+&emsp;The term "CTE concentrator" means—
 
-&emsp;&emsp;(iii) is a parent whose youngest dependent child will become ineligible to receive assistance under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) not later than 2 years after the date on which the parent applies for assistance under such title; and
+&emsp;&emsp;(A) at the secondary school level, a student served by an eligible recipient who has completed at least 2 courses in a single career and technical education program or program of study; and
 
-&emsp;&emsp;(B) is unemployed or underemployed and is experiencing difficulty in obtaining or upgrading employment.
+&emsp;&emsp;(B) at the postsecondary level, a student enrolled in an eligible recipient who has—
 
-#### (11) Educational service agency
+&emsp;&emsp;&emsp;(i) earned at least 12 credits within a career and technical education program or program of study; or
+
+&emsp;&emsp;&emsp;(ii) completed such a program if the program encompasses fewer than 12 credits or the equivalent in total.
+
+#### (13) CTE participant
+
+&emsp;The term "CTE participant" means an individual who completes not less than one course in a career and technical education program or program of study of an eligible recipient.
+
+#### (14) Director
+
+&emsp;The term "Director" means the Director of the Institute of Education Sciences.
+
+#### (15) Dual or concurrent enrollment program
+
+&emsp;The term "dual or concurrent enrollment program" has the meaning given the term in section 7801 of this title.
+
+#### (16) Early college high school
+
+&emsp;The term "early college high school" has the meaning given the term in section 7801 of this title.
+
+#### (17) Educational service agency
 
 &emsp;The term "educational service agency" has the meaning given the term in section 7801 of this title.
 
-#### (12) Eligible agency
+#### (18) Eligible agency
 
 &emsp;The term "eligible agency" means a State board designated or created consistent with State law as the sole State agency responsible for the administration of career and technical education in the State or for the supervision of the administration of career and technical education in the State.
 
-#### (13) Eligible institution
+#### (19) Eligible entity
+
+&emsp;The term "eligible entity" means a consortium that includes the following:
+
+&emsp;&emsp;(A) Representatives of not less than 2 of the following categories of entities, 1 of which shall serve as the fiscal agent for the consortium:
+
+&emsp;&emsp;&emsp;(i) A local educational agency or a consortium of such agencies.
+
+&emsp;&emsp;&emsp;(ii) An educational service agency serving secondary school students.
+
+&emsp;&emsp;&emsp;(iii) An area career and technical education school or a consortium of such schools.
+
+&emsp;&emsp;&emsp;(iv) An Indian Tribe, Tribal organization, or Tribal educational agency.
+
+&emsp;&emsp;&emsp;(v) An institution of higher education whose most common degree awarded is an associate degree, or a consortium of such institutions.
+
+&emsp;&emsp;&emsp;(vi) An institution of higher education whose most common degree awarded is a bachelor's or higher degree, or a consortium of such institutions.
+
+&emsp;&emsp;&emsp;(vii) A State educational agency.
+
+&emsp;&emsp;(B) One or more business or industry representative partners, which may include representatives of local or regional businesses or industries, including industry or sector partnerships in the local area, local workforce development boards, or labor organizations.
+
+&emsp;&emsp;(C) One or more stakeholders, which may include—
+
+&emsp;&emsp;&emsp;(i) parents and students;
+
+&emsp;&emsp;&emsp;(ii) representatives of local agencies serving out-of-school youth, homeless children and youth, and at-risk youth (as defined in section 6472 of this title);
+
+&emsp;&emsp;&emsp;(iii) representatives of Indian tribes and Tribal organizations, where applicable;
+
+&emsp;&emsp;&emsp;(iv) representatives of minority-serving institutions (as described in paragraphs (1) through (7) of section 1067q(a) of this title), where applicable;
+
+&emsp;&emsp;&emsp;(v) representatives of special populations;
+
+&emsp;&emsp;&emsp;(vi) representatives of adult career and technical education providers; or
+
+&emsp;&emsp;&emsp;(vii) other relevant community stakeholders.
+
+#### (20) Eligible institution
 
 &emsp;The term "eligible institution" means—
 
-&emsp;&emsp;(A) a public or nonprofit private institution of higher education that offers career and technical education courses that lead to technical skill proficiency, an industry-recognized credential, a certificate, or a degree;
+&emsp;&emsp;(A) a consortium of 2 or more of the entities described in subparagraphs (B) through (F);
 
-&emsp;&emsp;(B) a local educational agency providing education at the postsecondary level;
+&emsp;&emsp;(B) a public or nonprofit private institution of higher education that offers and will use funds provided under this subchapter in support of career and technical education courses that lead to technical skill proficiency or a recognized postsecondary credential, including an industry-recognized credential, a certificate, or an associate degree, except that, for the purpose of section 2352 of this title, the term "recognized postsecondary credential" as used in this subparagraph shall not include a baccalaureate degree;
 
-&emsp;&emsp;(C) an area career and technical education school providing education at the postsecondary level;
+&emsp;&emsp;(C) a local educational agency providing education at the postsecondary level;
 
-&emsp;&emsp;(D) a postsecondary educational institution controlled by the Bureau of Indian Affairs or operated by or on behalf of any Indian tribe that is eligible to contract with the Secretary of the Interior for the administration of programs under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> or the Act of April 16, 1934 (25 U.S.C. 452 et seq.); <sup>1</sup>
+&emsp;&emsp;(D) an area career and technical education school providing education at the postsecondary level;
 
-&emsp;&emsp;(E) an educational service agency; or
+&emsp;&emsp;(E) an Indian Tribe, Tribal organization, or Tribal education agency that operates a school or may be present in the State;
 
-&emsp;&emsp;(F) a consortium of 2 or more of the entities described in subparagraphs (A) through (E).
+&emsp;&emsp;(F) a postsecondary educational institution controlled by the Bureau of Indian Education or operated by or on behalf of any Indian Tribe that is eligible to contract with the Secretary of the Interior for the administration of programs under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.) or the Act of April 16, 1934 (25 U.S.C. 5342 et seq.);
 
-#### (14) Eligible recipient
+&emsp;&emsp;(G) a tribally controlled college or university; or
+
+&emsp;&emsp;(H) an educational service agency.
+
+#### (21) Eligible recipient
 
 &emsp;The term "eligible recipient" means—
 
-&emsp;&emsp;(A) a local educational agency (including a public charter school that operates as a local educational agency), an area career and technical education school, an educational service agency, or a consortium, eligible to receive assistance under section 2351 of this title; or
+&emsp;&emsp;(A) a local educational agency (including a public charter school that operates as a local educational agency), an area career and technical education school, an educational service agency, an Indian Tribe, Tribal organization, or Tribal educational agency or a consortium, eligible to receive assistance under section 2351 of this title; or
 
 &emsp;&emsp;(B) an eligible institution or consortium of eligible institutions eligible to receive assistance under section 2352 of this title.
 
-#### (15) Governor
+#### (22) English learner
+
+&emsp;The term "English learner" means—
+
+&emsp;&emsp;(A) a secondary school student who is an English learner, as defined in section 7801 of this title; or
+
+&emsp;&emsp;(B) an adult or an out-of-school youth who has limited ability in speaking, reading, writing, or understanding the English language and—
+
+&emsp;&emsp;&emsp;(i) whose native language is a language other than English; or
+
+&emsp;&emsp;&emsp;(ii) who lives in a family environment or community in which a language other than English is the dominant language.
+
+#### (23) Evidence-based
+
+&emsp;The term "evidence-based" has the meaning given the term in section 7801(21)(A) of this title.
+
+#### (24) Governor
 
 &emsp;The term "Governor" means the chief executive officer of a State.
 
-#### (16) Individual with limited English proficiency
+#### (25) High school
 
-&emsp;The term "individual with limited English proficiency" means a secondary school student, an adult, or an out-of-school youth, who has limited ability in speaking, reading, writing, or understanding the English language, and—
+&emsp;The term "high school" has the meaning given the term in section 7801 of this title.
 
-&emsp;&emsp;(A) whose native language is a language other than English; or
+#### (26) In-demand industry sector or occupation
 
-&emsp;&emsp;(B) who lives in a family or community environment in which a language other than English is the dominant language.
+&emsp;The term "in-demand industry sector or occupation" has the meaning given the term in section 3102 of title 29.
 
-#### (17) Individual with a disability
+#### (27) Indian; Indian Tribe
+
+&emsp;The terms "Indian" and "Indian Tribe" have the meanings given the terms "Indian" and "Indian tribe", respectively, in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+
+#### (28) Individual with a disability
 
 #### (A) In general
 
@@ -148,23 +240,79 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;The term "individuals with disabilities" means more than 1 individual with a disability.
 
-#### (18) Institution of higher education
+#### (29) Industry or sector partnership
+
+&emsp;The term "industry or sector partnership" has the meaning given the term in section 3102 of title 29.
+
+#### (30) Institution of higher education
 
 &emsp;The term "institution of higher education" has the meaning given the term in section 1001 of this title.
 
-#### (19) Local educational agency
+#### (31) Local educational agency
 
 &emsp;The term "local educational agency" has the meaning given the term in section 7801 of this title.
 
-#### (20) Non-traditional fields
+#### (32) Local workforce development board
 
-&emsp;The term "non-traditional fields" means occupations or fields of work, including careers in computer science, technology, and other current and emerging high skill occupations, for which individuals from one gender comprise less than 25 percent of the individuals employed in each such occupation or field of work.
+&emsp;The term "local workforce development board" means a local workforce development board established under section 3122 of title 29.
 
-#### (21) Outlying area
+#### (33) Non-traditional fields
+
+&emsp;The term "non-traditional fields" means occupations or fields of work, such as careers in computer science, technology, and other current and emerging high skill occupations, for which individuals from one gender comprise less than 25 percent of the individuals employed in each such occupation or field of work.
+
+#### (34) Outlying area
 
 &emsp;The term "outlying area" means the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau.
 
-#### (22) Postsecondary educational institution
+#### (35) Out-of-school youth
+
+&emsp;The term "out-of-school youth" has the meaning given the term in section 3102 of title 29.
+
+#### (36) Out-of-workforce individual
+
+&emsp;The term "out-of-workforce individual" means—
+
+&emsp;&emsp;(A) an individual who is a displaced homemaker, as defined in section 3102 of title 29; or
+
+&emsp;&emsp;(B) an individual who—
+
+&emsp;&emsp;&emsp;(i)(I) has worked primarily without remuneration to care for a home and family, and for that reason has diminished marketable skills; or
+
+&emsp;&emsp;&emsp;(II) is a parent whose youngest dependent child will become ineligible to receive assistance under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) not later than 2 years after the date on which the parent applies for assistance under such title; and
+
+&emsp;&emsp;&emsp;(ii) is unemployed or underemployed and is experiencing difficulty in obtaining or upgrading employment.
+
+#### (37) Paraprofessional
+
+&emsp;The term "paraprofessional" has the meaning given the term in section 7801 of this title.
+
+#### (38) Pay for success initiative
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), the term "pay for success initiative" means a performance-based grant, contract, or cooperative agreement awarded by a State or local public entity (such as a local educational agency) to a public or private nonprofit entity—
+
+&emsp;&emsp;&emsp;(i) in which a commitment is made to pay for improved outcomes that result in increased public value and social benefit to students and the public sector, such as improved student outcomes as evidenced by the indicators of performance described in section 2323(b)(2) of this title and directcost savings or cost avoidance to the public sector; and
+
+&emsp;&emsp;&emsp;(ii) that includes—
+
+&emsp;&emsp;&emsp;&emsp;(I) a feasibility study on the initiative describing how the proposed intervention is based on evidence of effectiveness;
+
+&emsp;&emsp;&emsp;&emsp;(II) a rigorous, third-party evaluation that uses experimental or quasi-experimental design or other research methodologies that allow for the strongest possible causal inferences to determine whether the initiative has met its proposed outcomes;
+
+&emsp;&emsp;&emsp;&emsp;(III) an annual, publicly available report on the progress of the initiative; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) a requirement that payments are made to the recipient of a grant, contract, or cooperative agreement only when agreed upon outcomes are achieved, except that the entity may make payments to the third party conducting the evaluation described in subclause (II).
+
+#### (B) Exclusion
+
+&emsp;&emsp;The term "pay for success initiative" does not include any initiative that—
+
+&emsp;&emsp;&emsp;(i) reduces the special education or related services that a student would otherwise receive under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\]; or
+
+&emsp;&emsp;&emsp;(ii) otherwise reduces the rights of a student or the obligations of an entity under the Individuals with Disabilities Education Act, the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), or any other law.
+
+#### (39) Postsecondary educational institution
 
 &emsp;The term "postsecondary educational institution" means—
 
@@ -172,79 +320,153 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(B) a tribally controlled college or university; or
 
-&emsp;&emsp;(C) a nonprofit educational institution offering certificate or apprenticeship programs at the postsecondary level.
+&emsp;&emsp;(C) a nonprofit educational institution offering certificate or other skilled training programs at the postsecondary level.
 
-#### (23) Postsecondary education tech prep student
+#### (40) Professional development
 
-&emsp;The term "postsecondary education tech prep student" means a student who—
+&emsp;The term "professional development" means activities that—
 
-&emsp;&emsp;(A) has completed the secondary education component of a tech prep program; and
+&emsp;&emsp;(A) are an integral part of eligible agency, eligible recipient, institution, or school strategies for providing educators (including teachers, principals, other school leaders, administrators, specialized instructional support personnel, career guidance and academic counselors, and paraprofessionals) with the knowledge and skills necessary to enable students to succeed in career and technical education, to meet challenging State academic standards under section 6311(b)(1) of this title, or to achieve academic skills at the postsecondary level; and
 
-&emsp;&emsp;(B) has enrolled in the postsecondary education component of a tech prep program at an institution of higher education described in clause (i) or (ii) of section 2373(a)(1)(B) of this title.
+&emsp;&emsp;(B) are sustained (not stand-alone, 1-day, or short-term workshops), intensive, collaborative, job-embedded, data-driven, and classroom-focused, to the extent practicable evidence-based, and may include activities that—
 
-#### (24) School dropout
+&emsp;&emsp;&emsp;(i) improve and increase educators'—
 
-&emsp;The term "school dropout" means an individual who is no longer attending any school and who has not received a secondary school diploma or its recognized equivalent.
+&emsp;&emsp;&emsp;&emsp;(I) knowledge of the academic and technical subjects;
 
-#### (25) Scientifically based research
+&emsp;&emsp;&emsp;&emsp;(II) understanding of how students learn; and
 
-&emsp;The term "scientifically based research" means research that is carried out using scientifically based research standards, as defined in section 9501 of this title.
+&emsp;&emsp;&emsp;&emsp;(III) ability to analyze student work and achievement from multiple sources, including how to adjust instructional strategies, assessments, and materials based on such analysis;
 
-#### (26) Secondary education tech prep student
+&emsp;&emsp;&emsp;(ii) are an integral part of eligible recipients' improvement plans;
 
-&emsp;The term "secondary education tech prep student" means a secondary education student who has enrolled in 2 courses in the secondary education component of a tech prep program.
+&emsp;&emsp;&emsp;(iii) allow personalized plans for each educator to address the educator's specific needs identified in observation or other feedback;
 
-#### (27) Secondary school
+&emsp;&emsp;&emsp;(iv) support the recruitment, hiring, and training of effective educators, including educators who became certified through State and local alternative routes to certification;
+
+&emsp;&emsp;&emsp;(v) advance educator understanding of—
+
+&emsp;&emsp;&emsp;&emsp;(I) effective instructional strategies that are evidence-based; and
+
+&emsp;&emsp;&emsp;&emsp;(II) strategies for improving student academic and technical achievement or substantially increasing the knowledge and teaching skills of educators;
+
+&emsp;&emsp;&emsp;(vi) are developed with extensive participation of educators, parents, students, and representatives of Indian Tribes (as applicable), of schools and institutions served under this chapter;
+
+&emsp;&emsp;&emsp;(vii) are designed to give educators of students who are English learners in career and technical education programs or programs of study the knowledge and skills to provide instruction and appropriate language and academic support services to those students, including the appropriate use of curricula and assessments;
+
+&emsp;&emsp;&emsp;(viii) as a whole, are regularly evaluated for their impact on increased educator effectiveness and improved student academic and technical achievement, with the findings of the evaluations used to improve the quality of professional development;
+
+&emsp;&emsp;&emsp;(ix) are designed to give educators of individuals with disabilities in career and technical education programs or programs of study the knowledge and skills to provide instruction and academic support services to those individuals, including positive behavioral interventions and supports, multi-tier system of supports, and use of accommodations;
+
+&emsp;&emsp;&emsp;(x) include instruction in the use of data and assessments to inform and instruct classroom practice;
+
+&emsp;&emsp;&emsp;(xi) include instruction in ways that educators may work more effectively with parents and families;
+
+&emsp;&emsp;&emsp;(xii) provide follow-up training to educators who have participated in activitiesdescribed in this paragraph that are designed to ensure that the knowledge and skills learned by the educators are implemented in the classroom;
+
+&emsp;&emsp;&emsp;(xiii) promote the integration of academic knowledge and skills and relevant technical knowledge and skills, including programming jointly delivered to academic and career and technical education teachers; or
+
+&emsp;&emsp;&emsp;(xiv) increase the ability of educators providing career and technical education instruction to stay current with industry standards.
+
+#### (41) Program of study
+
+&emsp;The term "program of study" means a coordinated, nonduplicative sequence of academic and technical content at the secondary and postsecondary level that—
+
+&emsp;&emsp;(A) incorporates challenging State academic standards, including those adopted by a State under section 6311(b)(1) of this title;
+
+&emsp;&emsp;(B) addresses both academic and technical knowledge and skills, including employability skills;
+
+&emsp;&emsp;(C) is aligned with the needs of industries in the economy of the State, region, Tribal community, or local area;
+
+&emsp;&emsp;(D) progresses in specificity (beginning with all aspects of an industry or career cluster and leading to more occupation-specific instruction);
+
+&emsp;&emsp;(E) has multiple entry and exit points that incorporate credentialing; and
+
+&emsp;&emsp;(F) culminates in the attainment of a recognized postsecondary credential.
+
+#### (42) Qualified intermediary
+
+&emsp;The term "qualified intermediary" means a nonprofit entity, which may be part of an industry or sector partnership, that demonstrates expertise in building, connecting, sustaining, and measuring partnerships with entities such as employers, schools, community-based organizations, postsecondary institutions, social service organizations, economic development organizations, Indian tribes or Tribal organizations, and workforce systems to broker services, resources, and supports to youth and the organizations and systems that are designed to serve youth, including—
+
+&emsp;&emsp;(A) connecting employers to classrooms;
+
+&emsp;&emsp;(B) assisting in the design and implementation of career and technical education programs and programs of study;
+
+&emsp;&emsp;(C) delivering professional development;
+
+&emsp;&emsp;(D) connecting students to internships and other work-based learning opportunities; and
+
+&emsp;&emsp;(E) developing personalized student supports.
+
+#### (43) Recognized postsecondary credential
+
+&emsp;The term "recognized postsecondary credential" has the meaning given the term in section 3102 of title 29.
+
+#### (44) Secondary school
 
 &emsp;The term "secondary school" has the meaning given the term in section 7801 of this title.
 
-#### (28) Secretary
+#### (45) Secretary
 
 &emsp;The term "Secretary" means the Secretary of Education.
 
-#### (29) Special populations
+#### (46) Specialized instructional support personnel
+
+&emsp;The term "specialized instructional support personnel" has the meaning given the term in section 7801 of this title.
+
+#### (47) Specialized instructional support services
+
+&emsp;The term "specialized instructional support services" has the meaning given the term in section 7801 of this title.
+
+#### (48) Special populations
 
 &emsp;The term "special populations" means—
 
 &emsp;&emsp;(A) individuals with disabilities;
 
-&emsp;&emsp;(B) individuals from economically disadvantaged families, including foster children;
+&emsp;&emsp;(B) individuals from economically disadvantaged families, including low-income youth and adults;
 
 &emsp;&emsp;(C) individuals preparing for non-traditional fields;
 
 &emsp;&emsp;(D) single parents, including single pregnant women;
 
-&emsp;&emsp;(E) displaced homemakers; and
+&emsp;&emsp;(E) out-of-workforce individuals;
 
-&emsp;&emsp;(F) individuals with limited English proficiency.
+&emsp;&emsp;(F) English learners;
 
-#### (30) State
+&emsp;&emsp;(G) homeless individuals described in section 11434a of title 42;
+
+&emsp;&emsp;(H) youth who are in, or have aged out of, the foster care system; and
+
+&emsp;&emsp;(I) youth with a parent who—
+
+&emsp;&emsp;&emsp;(i) is a member of the armed forces (as such term is defined in section 101(a)(4) of title 10); and
+
+&emsp;&emsp;&emsp;(ii) is on active duty (as such term is defined in section 101(d)(1) of such title).
+
+#### (49) State
 
 &emsp;The term "State", unless otherwise specified, means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and each outlying area.
 
-#### (31) Support services
+#### (50) Support services
 
-&emsp;The term "support services" means services related to curriculum modification, equipment modification, classroom modification, supportive personnel, and instructional aids and devices.
+&emsp;The term "support services" means services related to curriculum modification, equipment modification, classroom modification, supportive personnel (including paraprofessionals and specialized instructional support personnel), and instructional aids and devices.
 
-#### (32) Tech prep program
-
-&emsp;The term "tech prep program" means a tech prep program described in section 2373(c) of this title.
-
-#### (33) Tribally controlled college or university
+#### (51) Tribally controlled college or university
 
 &emsp;The term "tribally controlled college or university" has the meaning given the term in section 1801(a) of title 25.
 
-#### (34) Tribally controlled postsecondary career and technical institution
+#### (52) Tribally controlled postsecondary career and technical institution
 
 &emsp;The term "tribally controlled postsecondary career and technical institution" means an institution of higher education (as defined in section 1001 of this title, except that subsection (a)(2) of such section shall not be applicable and the reference to Secretary in subsection (a)(5) of such section shall be deemed to refer to the Secretary of the Interior) that—
 
-&emsp;&emsp;(A) is formally controlled, or has been formally sanctioned or chartered, by the governing body of an Indian tribe or Indian tribes;
+&emsp;&emsp;(A) is formally controlled, or has been formally sanctioned or chartered, by the governing body of an Indian Tribe or Indian Tribes;
 
 &emsp;&emsp;(B) offers a technical degree or certificate granting program;
 
 &emsp;&emsp;(C) is governed by a board of directors or trustees, a majority of whom are Indians;
 
-&emsp;&emsp;(D) demonstrates adherence to stated goals, a philosophy, or a plan of operation, that fosters individual Indian economic and self-sufficiency opportunity, including programs that are appropriate to stated tribal goals of developing individual entrepreneurships and self-sustaining economic infrastructures on reservations;
+&emsp;&emsp;(D) demonstrates adherence to stated goals, a philosophy, or a plan of operation, that fosters individual Indian economic and self-sufficiency opportunity, including programs that are appropriate to stated Tribal goals of developing individual entrepreneurships and self-sustaining economic infrastructures on reservations or tribal lands;
 
 &emsp;&emsp;(E) has been in operation for at least 3 years;
 
@@ -252,509 +474,33 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(G) enrolls the full-time equivalent of not less than 100 students, of whom a majority are Indians.
 
-(Pub. L. 88–210, §3, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 685; amended Pub. L. 110–315, title IX, §941(k)(2)(D)(i), Aug. 14, 2008, 122 Stat. 3466; Pub. L. 114–95, title IX, §9215(n)(1), Dec. 10, 2015, 129 Stat. 2168; Pub. L. 115–224, §7, July 31, 2018, 132 Stat. 1565.)
+#### (53) Tribal organization
 
-#### Amendment of Section
+&emsp;The term "Tribal organization" has the meaning given the term "tribal organization" in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
 
-<i>Pub. L. 115–224, §§4, 7, July 31, 2018, 132 Stat. 1564, 1565, made amendments to this section, effective July 1, 2019. After July 1, 2019, this section will read as follows:</i>
+#### (54) Universal design for learning
 
-#### <i>§2302. Definitions</i>
+&emsp;The term "universal design for learning" has the meaning given the term in section 7801 of this title.
 
-<i>Unless otherwise specified, in this chapter:</i>
+#### (55) Work-based learning
 
-#### <i>(1) Administration</i>
+&emsp;The term "work-based learning" means sustained interactions with industry or community professionals in real workplace settings, to the extent practicable, or simulated environments at an educational institution that foster in-depth, firsthand engagement with the tasks required in a given career field, that are aligned to curriculum and instruction.
 
-&emsp;<i>The term "administration", when used with respect to an eligible agency or eligible recipient, means activities necessary for the proper and efficient performance of the eligible agency or eligible recipient's duties under this chapter, including the supervision of such activities. Such term does not include curriculum development activities, personnel development, or research activities.</i>
-
-#### <i>(2) All aspects of an industry</i>
-
-&emsp;<i>The term "all aspects of an industry" means strong experience in, and comprehensive understanding of, the industry that the individual is preparing to enter.</i>
-
-#### <i>(3) Area career and technical education school</i>
-
-&emsp;<i>The term "area career and technical education school" means—</i>
-
-&emsp;&emsp;<i>(A) a specialized public secondary school used exclusively or principally for the provision of career and technical education to individuals who are available for study in preparation for entering the labor market;</i>
-
-&emsp;&emsp;<i>(B) the department of a public secondary school exclusively or principally used for providing career and technical education in not fewer than 3 different fields that are available to all students, especially in high-skill, high-wage, or in-demand industry sectors or occupations;</i>
-
-&emsp;&emsp;<i>(C) a public or nonprofit technical institution or career and technical education school used exclusively or principally for the provision of career and technical education to individuals who have completed or left secondary school and who are available for study in preparation for entering the labor market, if the institution or school admits, as regular students, individuals who have completed secondary school and individuals who have left secondary school; or</i>
-
-&emsp;&emsp;<i>(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides career and technical education in not fewer than 3 different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits, as regular students, both individuals who have completed secondary school and individuals who have left secondary school.</i>
-
-#### <i>(4) Articulation agreement</i>
-
-&emsp;<i>The term "articulation agreement" means a written commitment—</i>
-
-&emsp;&emsp;<i>(A) that is agreed upon at the State level or approved annually by the lead administrators of—</i>
-
-&emsp;&emsp;&emsp;<i>(i) a secondary institution and a postsecondary educational institution; or</i>
-
-&emsp;&emsp;&emsp;<i>(ii) a subbaccalaureate degree granting postsecondary educational institution and a baccalaureate degree granting postsecondary educational institution; and</i>
-
-&emsp;&emsp;<i>(B) to a program that is—</i>
-
-&emsp;&emsp;&emsp;<i>(i) designed to provide students with a nonduplicative sequence of progressive achievement leading to technical skill proficiency, a credential, a certificate, or a degree; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) linked through credit transfer agreements between the 2 institutions described in clause (i) or (ii) of subparagraph (A) (as the case may be).</i>
-
-#### <i>(5) Career and technical education</i>
-
-&emsp;<i>The term "career and technical education" means organized educational activities that—</i>
-
-&emsp;&emsp;<i>(A) offer a sequence of courses that—</i>
-
-&emsp;&emsp;&emsp;<i>(i) provides individuals with rigorous academic content and relevant technical knowledge and skills needed to prepare for further education and careers in current or emerging professions, which may include high-skill, high-wage, or in-demand industry sectors or occupations, which shall be, at the secondary level, aligned with the challenging State academic standards adopted by a State under section 6311(b)(1) of this title;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) provides technical skill proficiency or a recognized postsecondary credential, which</i><i>may include an industry-recognized credential, a certificate, or an associate degree; and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) may include prerequisite courses (other than a remedial course) that meet the requirements of this subparagraph;</i>
-
-&emsp;&emsp;<i>(B) include competency-based, work-based, or other applied learning that supports the development of academic knowledge, higher-order reasoning and problem-solving skills, work attitudes, employability skills, technical skills, and occupation-specific skills, and knowledge of all aspects of an industry, including entrepreneurship, of an individual;</i>
-
-&emsp;&emsp;<i>(C) to the extent practicable, coordinate between secondary and postsecondary education programs through programs of study, which may include coordination through articulation agreements, early college high school programs, dual or concurrent enrollment program opportunities, or other credit transfer agreements that provide postsecondary credit or advanced standing; and</i>
-
-&emsp;&emsp;<i>(D) may include career exploration at the high school level or as early as the middle grades (as such term is defined in section 7801 of this title).</i>
-
-#### <i>(6) Career and technical student organization</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>The term "career and technical student organization" means an organization for individuals enrolled in a career and technical education program that engages in career and technical education activities as an integral part of the instructional program.</i>
-
-#### <i>(B) State and national units</i>
-
-&emsp;&emsp;<i>An organization described in subparagraph (A) may have State and national units that aggregate the work and purposes of instruction in career and technical education at the local level.</i>
-
-#### <i>(7) Career guidance and academic counseling</i>
-
-&emsp;<i>The term "career guidance and academic counseling" means guidance and counseling that—</i>
-
-&emsp;&emsp;<i>(A) provides access for students (and, as appropriate, parents and out-of-school youth) to information regarding career awareness exploration opportunities and planning with respect to an individual's occupational and academic future;</i>
-
-&emsp;&emsp;<i>(B) provides information to students (and, as appropriate, parents and out-of-school youth) with respect to career options, financial aid, job training, secondary and postsecondary options (including associate and baccalaureate degree programs), dual or concurrent enrollment programs, work-based learning opportunities, early college high schools, financial literacy, and support services, as appropriate; and</i>
-
-&emsp;&emsp;<i>(C) may provide assistance for special populations with respect to direct support services that enable students to persist in and complete career and technical education, programs of study, or career pathways.</i>
-
-#### <i>(8) Career pathways</i>
-
-&emsp;<i>The term "career pathways" has the meaning given the term in section 3102 of title 29.</i>
-
-#### <i>(9) Charter school</i>
-
-&emsp;<i>The term "charter school" has the meaning given the term in section 7221i of this title.</i>
-
-#### <i>(10) Cooperative education</i>
-
-&emsp;<i>The term "cooperative education" means a method of education for individuals who, through written cooperative arrangements between a school and employers, receive instruction, including required rigorous and challenging academic courses and related career and technical education instruction, by alternation of study in school with a job in any occupational field, which alternation—</i>
-
-&emsp;&emsp;<i>(A) shall be planned and supervised by the school and employer so that each contributes to the education and employability of the individual; and</i>
-
-&emsp;&emsp;<i>(B) may include an arrangement in which work periods and school attendance may be on alternate half days, full days, weeks, or other periods of time in fulfilling the cooperative program.</i>
-
-#### <i>(11) Credit transfer agreement</i>
-
-&emsp;<i>The term "credit transfer agreement" means a formal agreement, such as an articulation agreement, among and between secondary and postsecondary education institutions or systems that grant students transcripted postsecondary credit, which may include credit granted to students in dual or concurrent enrollment programs or early college high school, dual credit, articulated credit, and credit granted on the basis of performance on technical or academic assessments.</i>
-
-#### <i>(12) CTE concentrator</i>
-
-&emsp;<i>The term "CTE concentrator" means—</i>
-
-&emsp;&emsp;<i>(A) at the secondary school level, a student served by an eligible recipient who has completed at least 2 courses in a single career and technical education program or program of study; and</i>
-
-&emsp;&emsp;<i>(B) at the postsecondary level, a student enrolled in an eligible recipient who has—</i>
-
-&emsp;&emsp;&emsp;<i>(i) earned at least 12 credits within a career and technical education program or program of study; or</i>
-
-&emsp;&emsp;&emsp;<i>(ii) completed such a program if the program encompasses fewer than 12 credits or the equivalent in total.</i>
-
-#### <i>(13) CTE participant</i>
-
-&emsp;<i>The term "CTE participant" means an individual who completes not less than one course in a career and technical education program or program of study of an eligible recipient.</i>
-
-#### <i>(14) Director</i>
-
-&emsp;<i>The term "Director" means the Director of the Institute of Education Sciences.</i>
-
-#### <i>(15) Dual or concurrent enrollment program</i>
-
-&emsp;<i>The term "dual or concurrent enrollment program" has the meaning given the term in section 7801 of this title.</i>
-
-#### <i>(16) Early college high school</i>
-
-&emsp;<i>The term "early college high school" has the meaning given the term in section 7801 of this title.</i>
-
-#### <i>(17) Educational service agency</i>
-
-&emsp;<i>The term "educational service agency" has the meaning given the term in section 7801 of this title.</i>
-
-#### <i>(18) Eligible agency</i>
-
-&emsp;<i>The term "eligible agency" means a State board designated or created consistent with State law as</i><i>the sole State agency responsible for the administration of career and technical education in the State or for the supervision of the administration of career and technical education in the State.</i>
-
-#### <i>(19) Eligible entity</i>
-
-&emsp;<i>The term "eligible entity" means a consortium that includes the following:</i>
-
-&emsp;&emsp;<i>(A) Representatives of not less than 2 of the following categories of entities, 1 of which shall serve as the fiscal agent for the consortium:</i>
-
-&emsp;&emsp;&emsp;<i>(i) A local educational agency or a consortium of such agencies.</i>
-
-&emsp;&emsp;&emsp;<i>(ii) An educational service agency serving secondary school students.</i>
-
-&emsp;&emsp;&emsp;<i>(iii) An area career and technical education school or a consortium of such schools.</i>
-
-&emsp;&emsp;&emsp;<i>(iv) An Indian Tribe, Tribal organization, or Tribal educational agency.</i>
-
-&emsp;&emsp;&emsp;<i>(v) An institution of higher education whose most common degree awarded is an associate degree, or a consortium of such institutions.</i>
-
-&emsp;&emsp;&emsp;<i>(vi) An institution of higher education whose most common degree awarded is a bachelor's or higher degree, or a consortium of such institutions.</i>
-
-&emsp;&emsp;&emsp;<i>(vii) A State educational agency.</i>
-
-&emsp;&emsp;<i>(B) One or more business or industry representative partners, which may include representatives of local or regional businesses or industries, including industry or sector partnerships in the local area, local workforce development boards, or labor organizations.</i>
-
-&emsp;&emsp;<i>(C) One or more stakeholders, which may include—</i>
-
-&emsp;&emsp;&emsp;<i>(i) parents and students;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) representatives of local agencies serving out-of-school youth, homeless children and youth, and at-risk youth (as defined in section 6472 of this title);</i>
-
-&emsp;&emsp;&emsp;<i>(iii) representatives of Indian tribes and Tribal organizations, where applicable;</i>
-
-&emsp;&emsp;&emsp;<i>(iv) representatives of minority-serving institutions (as described in paragraphs (1) through (7) of section 1067q(a) of this title), where applicable;</i>
-
-&emsp;&emsp;&emsp;<i>(v) representatives of special populations;</i>
-
-&emsp;&emsp;&emsp;<i>(vi) representatives of adult career and technical education providers; or</i>
-
-&emsp;&emsp;&emsp;<i>(vii) other relevant community stakeholders.</i>
-
-#### <i>(20) Eligible institution</i>
-
-&emsp;<i>The term "eligible institution" means—</i>
-
-&emsp;&emsp;<i>(A) a consortium of 2 or more of the entities described in subparagraphs (B) through (F);</i>
-
-&emsp;&emsp;<i>(B) a public or nonprofit private institution of higher education that offers and will use funds provided under this subchapter in support of career and technical education courses that lead to technical skill proficiency or a recognized postsecondary credential, including an industry-recognized credential, a certificate, or an associate degree;</i>
-
-&emsp;&emsp;<i>(C) a local educational agency providing education at the postsecondary level;</i>
-
-&emsp;&emsp;<i>(D) an area career and technical education school providing education at the postsecondary level;</i>
-
-&emsp;&emsp;<i>(E) an Indian Tribe, Tribal organization, or Tribal education agency that operates a school or may be present in the State;</i>
-
-&emsp;&emsp;<i>(F) a postsecondary educational institution controlled by the Bureau of Indian Education or operated by or on behalf of any Indian Tribe that is eligible to contract with the Secretary of the Interior for the administration of programs under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.) or the Act of April 16, 1934 (25 U.S.C. 5342 et seq.);</i>
-
-&emsp;&emsp;<i>(G) a tribally controlled college or university; or</i>
-
-&emsp;&emsp;<i>(H) an educational service agency.</i>
-
-#### <i>(21) Eligible recipient</i>
-
-&emsp;<i>The term "eligible recipient" means—</i>
-
-&emsp;&emsp;<i>(A) a local educational agency (including a public charter school that operates as a local educational agency), an area career and technical education school, an educational service agency, an Indian Tribe, Tribal organization, or Tribal educational agency or a consortium, eligible to receive assistance under section 2351 of this title; or</i>
-
-&emsp;&emsp;<i>(B) an eligible institution or consortium of eligible institutions eligible to receive assistance under section 2352 of this title.</i>
-
-#### <i>(22) English learner</i>
-
-&emsp;<i>The term "English learner" means—</i>
-
-&emsp;&emsp;<i>(A) a secondary school student who is an English learner, as defined in section 7801 of this title; or</i>
-
-&emsp;&emsp;<i>(B) an adult or an out-of-school youth who has limited ability in speaking, reading, writing, or understanding the English language and—</i>
-
-&emsp;&emsp;&emsp;<i>(i) whose native language is a language other than English; or</i>
-
-&emsp;&emsp;&emsp;<i>(ii) who lives in a family environment or community in which a language other than English is the dominant language.</i>
-
-#### <i>(23) Evidence-based</i>
-
-&emsp;<i>The term "evidence-based" has the meaning given the term in section 7801(21)(A) of this title.</i>
-
-#### <i>(24) Governor</i>
-
-&emsp;<i>The term "Governor" means the chief executive officer of a State.</i>
-
-#### <i>(25) High school</i>
-
-&emsp;<i>The term "high school" has the meaning given the term in section 7801 of this title.</i>
-
-#### <i>(26) In-demand industry sector or occupation</i>
-
-&emsp;<i>The term "in-demand industry sector or occupation" has the meaning given the term in section 3102 of title 29.</i>
-
-#### <i>(27) Indian; Indian Tribe</i>
-
-&emsp;<i>The terms "Indian" and "Indian Tribe" have the meanings given the terms "Indian" and "Indian tribe", respectively, in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).</i>
-
-#### <i>(28) Individual with a disability</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>The term "individual with a disability" means an individual with any disability (as defined in section 12102 of title 42).</i>
-
-#### <i>(B) Individuals with disabilities</i>
-
-&emsp;&emsp;<i>The term "individuals with disabilities" means more than 1 individual with a disability.</i>
-
-#### <i>(29) Industry or sector partnership</i>
-
-&emsp;<i>The term "industry or sector partnership" has the meaning given the term in section 3102 of title 29.</i>
-
-#### <i>(30) Institution of higher education</i>
-
-&emsp;<i>The term "institution of higher education" has the meaning given the term in section 1001 of this title.</i>
-
-#### <i>(31) Local educational agency</i>
-
-&emsp;<i>The term "local educational agency" has the meaning given the term in section 7801 of this title.</i>
-
-#### <i>(32) Local workforce development board</i>
-
-&emsp;<i>The term "local workforce development board" means a local workforce development board established under section 3122 of title 29.</i>
-
-#### <i>(33) Non-traditional fields</i>
-
-&emsp;<i>The term "non-traditional fields" means occupations or fields of work, such as careers in computer science, technology, and other current and emerging high skill occupations, for which individuals from one gender comprise less than 25 percent of the individuals employed in each such occupation or field of work.</i>
-
-#### <i>(34) Outlying area</i>
-
-&emsp;<i>The term "outlying area" means the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau.</i>
-
-#### <i>(35) Out-of-school youth</i>
-
-&emsp;<i>The term "out-of-school youth" has the meaning given the term in section 3102 of title 29.</i>
-
-#### <i>(36) Out-of-workforce individual</i>
-
-&emsp;<i>The term "out-of-workforce individual" means—</i>
-
-&emsp;&emsp;<i>(A) an individual who is a displaced homemaker, as defined in section 3102 of title 29; or</i>
-
-&emsp;&emsp;<i>(B) an individual who—</i>
-
-&emsp;&emsp;&emsp;<i>(i)(I) has worked primarily without remuneration to care for a home and family, and for that reason has diminished marketable skills; or</i>
-
-&emsp;&emsp;&emsp;<i>(II) is a parent whose youngest dependent child will become ineligible to receive assistance under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) not later than 2 years after the date on which the parent applies for assistance under such title; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) is unemployed or underemployed and is experiencing difficulty in obtaining or upgrading employment.</i>
-
-#### <i>(37) Paraprofessional</i>
-
-&emsp;<i>The term "paraprofessional" has the meaning given the term in section 7801 of this title.</i>
-
-#### <i>(38) Pay for success initiative</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>Subject to subparagraph (B), the term "pay for success initiative" means a performance-based grant, contract, or cooperative agreement awarded by a State or local public entity (such as a local educational agency) to a public or private nonprofit entity—</i>
-
-&emsp;&emsp;&emsp;<i>(i) in which a commitment is made to pay for improved outcomes that result in increased public value and social benefit to students and the public sector, such as improved student outcomes as evidenced by the indicators of performance described in section 2323(b)(2) of this title and direct cost savings or cost avoidance to the public sector; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) that includes—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) a feasibility study on the initiative describing how the proposed intervention is based on evidence of effectiveness;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) a rigorous, third-party evaluation that uses experimental or quasi-experimental design or other research methodologies that allow for the strongest possible causal inferences to determine whether the initiative has met its proposed outcomes;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(III) an annual, publicly available report on the progress of the initiative; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(IV) a requirement that payments are made to the recipient of a grant, contract, or cooperative agreement only when agreed upon outcomes are achieved, except that the entity may make payments to the third party conducting the evaluation described in subclause (II).</i>
-
-#### <i>(B) Exclusion</i>
-
-&emsp;&emsp;<i>The term "pay for success initiative" does not include any initiative that—</i>
-
-&emsp;&emsp;&emsp;<i>(i) reduces the special education or related services that a student would otherwise receive under the Individuals with Disabilities Education Act; or</i>
-
-&emsp;&emsp;&emsp;<i>(ii) otherwise reduces the rights of a student or the obligations of an entity under the Individuals with Disabilities Education Act, the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), or any other law.</i>
-
-#### <i>(39) Postsecondary educational institution</i>
-
-&emsp;<i>The term "postsecondary educational institution" means—</i>
-
-&emsp;&emsp;<i>(A) an institution of higher education that provides not less than a 2-year program of instruction that is acceptable for credit toward a bachelor's degree;</i>
-
-&emsp;&emsp;<i>(B) a tribally controlled college or university; or</i>
-
-&emsp;&emsp;<i>(C) a nonprofit educational institution offering certificate or other skilled training programs at the postsecondary level.</i>
-
-#### <i>(40) Professional development</i>
-
-&emsp;<i>The term "professional development" means activities that—</i>
-
-&emsp;&emsp;<i>(A) are an integral part of eligible agency, eligible recipient, institution, or school strategies for providing educators (including teachers, principals, other school leaders, administrators, specialized instructional support personnel, career guidance and academic counselors, and paraprofessionals) with the knowledge and skills necessary to enable students to succeed in career and technical education, to meet challenging State academic standards under section 6311(b)(1) of this title, or to achieve academic skills at the postsecondary level; and</i>
-
-&emsp;&emsp;<i>(B) are sustained (not stand-alone, 1-day, or short-term workshops), intensive, collaborative, job-embedded, data-driven, and classroom-fo</i><i>cused, to the extent practicable evidence-based, and may include activities that—</i>
-
-&emsp;&emsp;&emsp;<i>(i) improve and increase educators'—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) knowledge of the academic and technical subjects;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) understanding of how students learn; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(III) ability to analyze student work and achievement from multiple sources, including how to adjust instructional strategies, assessments, and materials based on such analysis;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) are an integral part of eligible recipients' improvement plans;</i>
-
-&emsp;&emsp;&emsp;<i>(iii) allow personalized plans for each educator to address the educator's specific needs identified in observation or other feedback;</i>
-
-&emsp;&emsp;&emsp;<i>(iv) support the recruitment, hiring, and training of effective educators, including educators who became certified through State and local alternative routes to certification;</i>
-
-&emsp;&emsp;&emsp;<i>(v) advance educator understanding of—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) effective instructional strategies that are evidence-based; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) strategies for improving student academic and technical achievement or substantially increasing the knowledge and teaching skills of educators;</i>
-
-&emsp;&emsp;&emsp;<i>(vi) are developed with extensive participation of educators, parents, students, and representatives of Indian Tribes (as applicable), of schools and institutions served under this chapter;</i>
-
-&emsp;&emsp;&emsp;<i>(vii) are designed to give educators of students who are English learners in career and technical education programs or programs of study the knowledge and skills to provide instruction and appropriate language and academic support services to those students, including the appropriate use of curricula and assessments;</i>
-
-&emsp;&emsp;&emsp;<i>(viii) as a whole, are regularly evaluated for their impact on increased educator effectiveness and improved student academic and technical achievement, with the findings of the evaluations used to improve the quality of professional development;</i>
-
-&emsp;&emsp;&emsp;<i>(ix) are designed to give educators of individuals with disabilities in career and technical education programs or programs of study the knowledge and skills to provide instruction and academic support services to those individuals, including positive behavioral interventions and supports, multi-tier system of supports, and use of accommodations;</i>
-
-&emsp;&emsp;&emsp;<i>(x) include instruction in the use of data and assessments to inform and instruct classroom practice;</i>
-
-&emsp;&emsp;&emsp;<i>(xi) include instruction in ways that educators may work more effectively with parents and families;</i>
-
-&emsp;&emsp;&emsp;<i>(xii) provide follow-up training to educators who have participated in activities described in this paragraph that are designed to ensure that the knowledge and skills learned by the educators are implemented in the classroom;</i>
-
-&emsp;&emsp;&emsp;<i>(xiii) promote the integration of academic knowledge and skills and relevant technical knowledge and skills, including programming jointly delivered to academic and career and technical education teachers; or</i>
-
-&emsp;&emsp;&emsp;<i>(xiv) increase the ability of educators providing career and technical education instruction to stay current with industry standards.</i>
-
-#### <i>(41) Program of study</i>
-
-&emsp;<i>The term "program of study" means a coordinated, nonduplicative sequence of academic and technical content at the secondary and postsecondary level that—</i>
-
-&emsp;&emsp;<i>(A) incorporates challenging State academic standards, including those adopted by a State under section 6311(b)(1) of this title;</i>
-
-&emsp;&emsp;<i>(B) addresses both academic and technical knowledge and skills, including employability skills;</i>
-
-&emsp;&emsp;<i>(C) is aligned with the needs of industries in the economy of the State, region, Tribal community, or local area;</i>
-
-&emsp;&emsp;<i>(D) progresses in specificity (beginning with all aspects of an industry or career cluster and leading to more occupation-specific instruction);</i>
-
-&emsp;&emsp;<i>(E) has multiple entry and exit points that incorporate credentialing; and</i>
-
-&emsp;&emsp;<i>(F) culminates in the attainment of a recognized postsecondary credential.</i>
-
-#### <i>(42) Qualified intermediary</i>
-
-&emsp;<i>The term "qualified intermediary" means a nonprofit entity, which may be part of an industry or sector partnership, that demonstrates expertise in building, connecting, sustaining, and measuring partnerships with entities such as employers, schools, community-based organizations, postsecondary institutions, social service organizations, economic development organizations, Indian tribes or Tribal organizations, and workforce systems to broker services, resources, and supports to youth and the organizations and systems that are designed to serve youth, including—</i>
-
-&emsp;&emsp;<i>(A) connecting employers to classrooms;</i>
-
-&emsp;&emsp;<i>(B) assisting in the design and implementation of career and technical education programs and programs of study;</i>
-
-&emsp;&emsp;<i>(C) delivering professional development;</i>
-
-&emsp;&emsp;<i>(D) connecting students to internships and other work-based learning opportunities; and</i>
-
-&emsp;&emsp;<i>(E) developing personalized student supports.</i>
-
-#### <i>(43) Recognized postsecondary credential</i>
-
-&emsp;<i>The term "recognized postsecondary credential" has the meaning given the term in section 3102 of title 29.</i>
-
-#### <i>(44) Secondary school</i>
-
-&emsp;<i>The term "secondary school" has the meaning given the term in section 7801 of this title.</i>
-
-#### <i>(45) Secretary</i>
-
-&emsp;<i>The term "Secretary" means the Secretary of Education.</i>
-
-#### <i>(46) Specialized instructional support personnel</i>
-
-&emsp;<i>The term "specialized instructional support personnel" has the meaning given the term in section 7801 of this title.</i>
-
-#### <i>(47) Specialized instructional support services</i>
-
-&emsp;<i>The term "specialized instructional support services" has the meaning given the term in section 7801 of this title.</i>
-
-#### <i>(48) Special populations</i>
-
-&emsp;<i>The term "special populations" means—</i>
-
-&emsp;&emsp;<i>(A) individuals with disabilities;</i>
-
-&emsp;&emsp;<i>(B) individuals from economically disadvantaged families, including low-income youth and adults;</i>
-
-&emsp;&emsp;<i>(C) individuals preparing for non-traditional fields;</i>
-
-&emsp;&emsp;<i>(D) single parents, including single pregnant women;</i>
-
-&emsp;&emsp;<i>(E) out-of-workforce individuals;</i>
-
-&emsp;&emsp;<i>(F) English learners;</i>
-
-&emsp;&emsp;<i>(G) homeless individuals described in section 11434a of title 42;</i>
-
-&emsp;&emsp;<i>(H) youth who are in, or have aged out of, the foster care system; and</i>
-
-&emsp;&emsp;<i>(I) youth with a parent who—</i>
-
-&emsp;&emsp;&emsp;<i>(i) is a member of the armed forces (as such term is defined in section 101(a)(4) of title 10); and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) is on active duty (as such term is defined in section 101(d)(1) of such title).</i>
-
-#### <i>(49) State</i>
-
-&emsp;<i>The term "State", unless otherwise specified, means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and each outlying area.</i>
-
-#### <i>(50) Support services</i>
-
-&emsp;<i>The term "support services" means services related to curriculum modification, equipment modification, classroom modification, supportive personnel (including paraprofessionals and specialized instructional support personnel), and instructional aids and devices.</i>
-
-#### <i>(51) Tribally controlled college or university</i>
-
-&emsp;<i>The term "tribally controlled college or university" has the meaning given the term in section 1801(a) of title 25.</i>
-
-#### <i>(52) Tribally controlled postsecondary career and technical institution</i>
-
-&emsp;<i>The term "tribally controlled postsecondary career and technical institution" means an institution of higher education (as defined in section 1001 of this title, except that subsection (a)(2) of such section shall not be applicable and the reference to Secretary in subsection (a)(5) of such section shall be deemed to refer to the Secretary of the Interior) that—</i>
-
-&emsp;&emsp;<i>(A) is formally controlled, or has been formally sanctioned or chartered, by the governing body of an Indian Tribe or Indian Tribes;</i>
-
-&emsp;&emsp;<i>(B) offers a technical degree or certificate granting program;</i>
-
-&emsp;&emsp;<i>(C) is governed by a board of directors or trustees, a majority of whom are Indians;</i>
-
-&emsp;&emsp;<i>(D) demonstrates adherence to stated goals, a philosophy, or a plan of operation, that fosters individual Indian economic and self-sufficiency opportunity, including programs that are appropriate to stated Tribal goals of developing individual entrepreneurships and self-sustaining economic infrastructures on reservations or tribal lands;</i>
-
-&emsp;&emsp;<i>(E) has been in operation for at least 3 years;</i>
-
-&emsp;&emsp;<i>(F) holds accreditation with or is a candidate for accreditation by a nationally recognized accrediting authority for postsecondary career and technical education; and</i>
-
-&emsp;&emsp;<i>(G) enrolls the full-time equivalent of not less than 100 students, of whom a majority are Indians.</i>
-
-#### <i>(53) Tribal organization</i>
-
-&emsp;<i>The term "Tribal organization" has the meaning given the term "tribal organization" in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).</i>
-
-#### <i>(54) Universal design for learning</i>
-
-&emsp;<i>The term "universal design for learning" has the meaning given the term in section 7801 of this title.</i>
-
-#### <i>(55) Work-based learning</i>
-
-&emsp;<i>The term "work-based learning" means sustained interactions with industry or community professionals in real workplace settings, to the extent practicable, or simulated environments at an educational institution that foster in-depth, firsthand engagement with the tasks required in a given career field, that are aligned to curriculum and instruction.</i>
-
-<i>See 2018 Amendment notes below.</i>
+(Pub. L. 88–210, §3, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 685; amended Pub. L. 110–315, title IX, §941(k)(2)(D)(i), Aug. 14, 2008, 122 Stat. 3466; Pub. L. 114–95, title IX, §9215(n)(1), Dec. 10, 2015, 129 Stat. 2168; Pub. L. 115–224, §7, July 31, 2018, 132 Stat. 1565; Pub. L. 116–6, div. H, title II, §201(a), Feb. 15, 2019, 133 Stat. 475.)
 
 #### References in Text
 
-The Social Security Act, referred to in par. (10)(A)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in par. (20)(F), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in par. (13)(D), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+Act of April 16, 1934, referred to in par. (20)(F), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O'Malley Act, which is classified generally to section 5342 et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-Act of April 16, 1934 (25 U.S.C. 452 et seq.), referred to in par. (13)(D), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O'Malley Act, which was classified generally to section 452 et seq. of Title 25, Indians, prior to editorial reclassification as section 5342 et seq. of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Social Security Act, referred to in par. (36)(B)(i)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+The Individuals with Disabilities Education Act, referred to in par. (38)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+
+The Rehabilitation Act of 1973, referred to in par. (38)(B)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+
+The Americans with Disabilities Act of 1990, referred to in par. (38)(B)(ii), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -763,6 +509,8 @@ A prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 105–332, §1(b),
 Another prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 100–418, title VI, §§6131(b), 6134(b), Aug. 23, 1988, 102 Stat. 1511, 1512; Pub. L. 101–392, §3, Sept. 25, 1990, 104 Stat. 756, authorized appropriations for fiscal years 1991 to 1995 to carry out former subchapters I to IV of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 #### Amendments
+
+<b>2019</b>—Par. (20)(B). Pub. L. 116–6 inserted ", except that, for the purpose of section 2352 of this title, the term 'recognized postsecondary credential' as used in this subparagraph shall not include a baccalaureate degree" after "associate degree".
 
 <b>2018</b>—Pub. L. 115–224, §7(1), (2), struck out pars. (10) defining "displaced homemaker", (16) defining "individual with limited English proficiency", (23) defining "postsecondary education tech prep student", (24) defining "school dropout", (25) defining "scientifically based research", (26) defining "secondary education tech prep student", and (32) defining "tech prep program" and redesignated other pars. throughout section to accommodate pars. repealed and added by Pub. L. 115–224 so as to maintain alphabetical order of defined terms.
 
@@ -780,7 +528,7 @@ Par. (5)(B). Pub. L. 115–224, §7(5)(B), inserted ", work-based, or other" af
 
 Par. (5)(C), (D). Pub. L. 115–224, §7(5)(A)(iii), (C), added subpars. (C) and (D).
 
-Par. (7)(A). Pub. L. 115–224, §7(6)(A), substituted "(and, as appropriate, parents and out-of-school youth)" for "(and parents, as appropriate" and "future;" for "future; and" and inserted "exploration opportunities" after "regarding career awareness".
+Par. (7)(A). Pub. L. 115–224, §7(6)(A), substituted "(and, as appropriate, parents and out-of-schoolyouth)" for "(and parents, as appropriate" and "future;" for "future; and" and inserted "exploration opportunities" after "regarding career awareness".
 
 Par. (7)(B). Pub. L. 115–224, §7(6)(B), substituted "provides information to students (and, as appropriate, parents and out-of-school youth) with respect to career options, financial aid, job training, secondary and postsecondary options (including associate and baccalaureate degree programs), dual or concurrent enrollment programs, work-based learning opportunities, early college high schools, financial literacy, and support services, as appropriate; and" for "provides information with respect to career options, financial aid, and postsecondary options, including baccalaureate degree programs."
 
@@ -840,6 +588,10 @@ Par. (27). Pub. L. 114–95, §9215(n)(1)(D), made technical amendment to refere
 
 <b>2008</b>—Par. (33). Pub. L. 110–315 made technical amendment to reference in original act which appears in text as reference to section 1801(a) of title 25.
 
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–6, div. H, title II, §201(b), Feb. 15, 2019, 133 Stat. 475, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2019, as if included in the Strengthening Career and Technical Education for the 21st Century Act (Public Law 115–224)."
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
@@ -847,6 +599,4 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

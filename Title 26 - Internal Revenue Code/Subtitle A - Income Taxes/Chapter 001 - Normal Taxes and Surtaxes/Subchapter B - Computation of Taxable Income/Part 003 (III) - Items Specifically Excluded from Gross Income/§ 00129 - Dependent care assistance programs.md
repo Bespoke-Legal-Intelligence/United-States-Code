@@ -58,7 +58,7 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 #### (3) Eligibility
 
-&emsp;The program shall benefit employees who qualify under a classification set up by theemployer and found by the Secretary not to be discriminatory in favor of employees described in paragraph (2), or their dependents.
+&emsp;The program shall benefit employees who qualify under a classification set up by the employer and found by the Secretary not to be discriminatory in favor of employees described in paragraph (2), or their dependents.
 
 #### (4) Principal shareholders or owners
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (2) Earned income
 
-&emsp;The term "earned income" shall have the meaning given such term in section 32(c)(2), but such term shall not include any amounts paid or incurred by an employer for dependent care assistance to an employee.
+&emsp;The term "earned income" shall have the meaning given such term in section 32(c)(2),but such term shall not include any amounts paid or incurred by an employer for dependent care assistance to an employee.
 
 #### (3) Employee
 
@@ -174,7 +174,7 @@ Pub. L. 101–140, §204(a)(1), inserted at end "If any plan would qualify as a 
 
 Pub. L. 101–140, §203(a)(1), amended par. (1) to read as if the amendments by Pub. L. 99–514, §1151(c)(5)(A), had not been enacted, see 1986 Amendment note below.
 
-Subsec. (d)(3). Pub. L. 101–140, §204(a)(2)(B), struck out at end "For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h)." for "For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that dependent care benefits were the subject of good faith bargaining between such employee representatives and such employer or employers."
+Subsec. (d)(3). Pub. L. 101–140, §204(a)(2)(B), struck out at end "For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h)." for "For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, ifthere is evidence that dependent care benefits were the subject of good faith bargaining between such employee representatives and such employer or employers."
 
 Pub. L. 101–140, §203(a)(2), amended par. (3) to read as if amendments by Pub. L. 100–647, §1011B(a)(31)(A)(i), had not been enacted, see 1988 Amendment note below.
 
@@ -262,7 +262,7 @@ Amendment by Pub. L. 104–188 applicable to years beginning after Dec. 31, 1996
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 Amendment by section 203(a)(1), (2) of Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
 
@@ -300,7 +300,7 @@ Amendment by Pub. L. 100–485 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 104(b)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 104(b)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 1114(b)(4) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1987, see section 1114(c)(2) of Pub. L. 99–514, set out as a note under section 414 of this title.
 

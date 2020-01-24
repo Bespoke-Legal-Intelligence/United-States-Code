@@ -6,5 +6,5 @@ With respect to any entity that submits or is required to submit a safety report
 
 #### Effective Date
 
-Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115,set out as an Effective Date of 1997 Amendment note under section 321 of this title.
+Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as an Effective Date of 1997 Amendment note under section 321 of this title.
 

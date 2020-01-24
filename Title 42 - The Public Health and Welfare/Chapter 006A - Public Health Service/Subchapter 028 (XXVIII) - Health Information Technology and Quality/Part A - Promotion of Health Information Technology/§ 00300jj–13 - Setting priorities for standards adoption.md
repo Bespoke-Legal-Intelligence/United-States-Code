@@ -38,7 +38,7 @@
 
 #### (3) Guidelines for review of existing standards and specifications
 
-&emsp;In consultation with the consensus-based entity described in section 1395aaa of this title and other appropriate Federal agencies, the analysis of existing standards under paragraph (1)(B) shall include an evaluation of the need for a core set of common data elements and associated value sets to enhance the ability of certified health information technology to capture, use, and exchange structured electronic health information.
+&emsp;In consultation with the consensus-based entity described in section 1395aaa of this titleand other appropriate Federal agencies, the analysis of existing standards under paragraph (1)(B) shall include an evaluation of the need for a core set of common data elements and associated value sets to enhance the ability of certified health information technology to capture, use, and exchange structured electronic health information.
 
 #### (b) Review of adopted standards
 

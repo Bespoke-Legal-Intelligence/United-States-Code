@@ -114,7 +114,7 @@ Delegation.—The officials identified in subparagraph (A) may not delegate any 
 
 &emsp;&emsp;(C)
 
-Facilitation of exclusion orders.—If officials identified under this paragraph from the Department of Homeland Security, the Department of Defense, and the Office of the Director of National Intelligence issue orders collectively resulting in a governmentwide exclusion, the Administrator for General Services and officials at other executive agencies responsible for management of the Federal Supply Schedules, governmentwide acquisition contracts and multi-agency contracts shall help facilitate implementation of such orders by removing thecovered articles or sources identified in the orders from such contracts.
+Facilitation of exclusion orders.—If officials identified under this paragraph from the Department of Homeland Security, the Department of Defense, and the Office of the Director of National Intelligence issue orders collectively resulting in a governmentwide exclusion, the Administrator for General Services and officials at other executive agencies responsible for management of the Federal Supply Schedules, governmentwide acquisition contracts and multi-agency contracts shall help facilitate implementation of such orders by removing the covered articles or sources identified in the orders from such contracts.
 
 &emsp;&emsp;(D)
 

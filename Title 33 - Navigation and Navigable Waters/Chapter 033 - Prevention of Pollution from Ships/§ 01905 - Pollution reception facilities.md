@@ -16,7 +16,7 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 (1) If reception facilities of a port or terminal meet the requirements of Annex I and Annex II to the Convention and the regulations prescribed under subsection (a)(1), the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant.
 
-(2)(A) Subject to subparagraph (B), if reception facilities of a port or terminal meet the requirements of Annex V to the Convention and the regulations prescribed under subsection (a)(2),the Secretary may, after consultation with appropriate Federal agencies, issue a certificate to that effect to the person in charge of the port or terminal.
+(2)(A) Subject to subparagraph (B), if reception facilities of a port or terminal meet the requirements of Annex V to the Convention and the regulations prescribed under subsection (a)(2), the Secretary may, after consultation with appropriate Federal agencies, issue a certificate to that effect to the person in charge of the port or terminal.
 
 (B) The Secretary may not issue a certificate attesting to the adequacy of reception facilities under this paragraph unless, prior to the issuance of the certificate, the Secretary conducts an inspection of the reception facilities of the port or terminal that is the subject of the certificate.
 
@@ -56,7 +56,7 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 &emsp;(B) the port or terminal does not hold a valid certificate issued by the Secretary under this section.
 
-(2) The Secretary may deny the entry of a ship to a port or terminal required by the MARPOL Protocol, this chapter, or regulations prescribed under this section relating to the provision of adequate reception facilities for garbage, ozone depleting substances, equipment containing those substances, or exhaust gas cleaning residues, if the port or terminal is not in compliance with the MARPOL Protocol, this chapter, or those regulations.
+(2) The Secretary may deny the entry of a ship to a port or terminal required by the MARPOLProtocol, this chapter, or regulations prescribed under this section relating to the provision of adequate reception facilities for garbage, ozone depleting substances, equipment containing those substances, or exhaust gas cleaning residues, if the port or terminal is not in compliance with the MARPOL Protocol, this chapter, or those regulations.
 
 #### (f) Surveys
 

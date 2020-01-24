@@ -30,7 +30,7 @@ Appeals may be taken from decisions and orders of the Commission to the United S
 
 #### (c) Filing notice of appeal; contents; jurisdiction; temporary orders
 
-Such appeal shall be taken by filing a notice of appeal with the court within thirty days fromthe date upon which public notice is given of the decision or order complained of. Such notice of appeal shall contain a concise statement of the nature of the proceedings as to which the appeal is taken; a concise statement of the reasons on which the appellant intends to rely, separately stated and numbered; and proof of service of a true copy of said notice and statement upon the Commission. Upon filing of such notice, the court shall have jurisdiction of the proceedings and of the questions determined therein and shall have power, by order, directed to the Commission or any other party to the appeal, to grant such temporary relief as it may deem just and proper. Orders granting temporary relief may be either affirmative or negative in their scope and application so as to permit either the maintenance of the status quo in the matter in which the appeal is taken or the restoration of a position or status terminated or adversely affected by the order appealed from and shall, unless otherwise ordered by the court, be effective pending hearing and determination of said appeal and compliance by the Commission with the final judgment of the court rendered in said appeal.
+Such appeal shall be taken by filing a notice of appeal with the court within thirty days from the date upon which public notice is given of the decision or order complained of. Such notice of appeal shall contain a concise statement of the nature of the proceedings as to which the appeal is taken; a concise statement of the reasons on which the appellant intends to rely, separately stated and numbered; and proof of service of a true copy of said notice and statement upon the Commission. Upon filing of such notice, the court shall have jurisdiction of the proceedings and of the questions determined therein and shall have power, by order, directed to the Commission or any other party to the appeal, to grant such temporary relief as it may deem just and proper. Orders granting temporary relief may be either affirmative or negative in their scope and application so as to permit either the maintenance of the status quo in the matter in which the appeal is taken or the restoration of a position or status terminated or adversely affected by the order appealed from and shall, unless otherwise ordered by the court, be effective pending hearing and determination of said appeal and compliance by the Commission with the final judgment of the court rendered in said appeal.
 
 #### (d) Notice to interested parties; filing of record
 
@@ -84,7 +84,7 @@ Subsec. (d). Pub. L. 97–259, §121, substituted "appellant" for "Commission", 
 
 <b>1952</b>—Act July 16, 1952, amended section generally to set up the procedure for the judicial review of the Commission's orders and decisions.
 
-<b>1949</b>—Subsec. (a). Act May 24, 1949, substituted "Title 28 of the United States Code" for "the Act of October22, 1913 (38 Stat. 219)", and "such Title 28" in lieu of "that Act".
+<b>1949</b>—Subsec. (a). Act May 24, 1949, substituted "Title 28 of the United States Code" for "the Act of October 22, 1913 (38 Stat. 219)", and "such Title 28" in lieu of "that Act".
 
 <b>1937</b>—Subsec. (a). Act May 20, 1937, §11, inserted ", or suspending a radio operator's license" after "or for modifications of an existing radio station license".
 

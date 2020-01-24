@@ -20,7 +20,7 @@ Applicable Export Activity.—The activities specified in this subsection are ex
 
 &emsp;(5) under which agricultural commodities or their products are made available for emergency food relief at less than prevailing world market prices;
 
-&emsp;(6) under which a cash grant is made directly or through an intermediary to a foreign purchaser to enable the purchaser to obtain United States agricultural commodities or their products in an amount greater than the difference between the prevailing world market price and the United States market price, free along side vessel at a United States port; or
+&emsp;(6) under which a cash grant is made directly or through an intermediary to a foreign purchaser to enable the purchaser to obtain United States agricultural commodities or their products in an amount greater than thedifference between the prevailing world market price and the United States market price, free along side vessel at a United States port; or
 
 &emsp;(7) under which agricultural commodities owned or controlled by or under loan from the Corporation are exchanged or bartered for materials, goods, equipment, or services produced in foreign countries, except export activities described in section 55313(5) of this title.
 

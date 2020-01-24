@@ -102,7 +102,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 There are authorized to be appropriated such sums as may be necessary to implement this part, to remain available until expended.
 
-(Pub. L. 94–163, title II, §256, as added Pub. L. 98–370, §2, July 18, 1984, 98 Stat. 1211; amended Pub. L. 101–218, §7, Dec. 11, 1989, 103 Stat. 1867; Pub. L. 102–486, title XII, §§1207, 1208, Oct. 24, 1992, 106 Stat. 2962, 2964; Pub. L. 104–306, §1(3), Oct. 14, 1996, 110 Stat. 3810; Pub. L. 106–469, title I, §104(2), Nov. 9, 2000, 114 Stat. 2033; Pub. L. 108–7, div. F, title III, §339(b)(1), Feb. 20, 2003, 117 Stat. 278.)
+(Pub. L. 94–163, title II, §256, as added Pub. L. 98–370, §2, July 18, 1984, 98 Stat. 1211; amended Pub. L. 101–218, §7, Dec. 11, 1989, 103 Stat. 1867; Pub. L. 102–486, title XII, §§1207, 1208, Oct. 24,1992, 106 Stat. 2962, 2964; Pub. L. 104–306, §1(3), Oct. 14, 1996, 110 Stat. 3810; Pub. L. 106–469, title I, §104(2), Nov. 9, 2000, 114 Stat. 2033; Pub. L. 108–7, div. F, title III, §339(b)(1), Feb. 20, 2003, 117 Stat. 278.)
 
 #### References in Text
 

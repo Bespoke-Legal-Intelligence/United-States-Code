@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) shall consider—
 
-&emsp;&emsp;&emsp;(i) therapeutic gaps in pediatrics that may include developmental pharmacology, pharmacogenetic determinants of drug response, metabolism of drugs and biologics in children, and pediatric clinical trials;
+&emsp;&emsp;&emsp;(i) therapeutic gaps in pediatrics that may include developmental pharmacology,pharmacogenetic determinants of drug response, metabolism of drugs and biologics in children, and pediatric clinical trials;
 
 &emsp;&emsp;&emsp;(ii) particular pediatric diseases, disorders or conditions where more complete knowledge and testing of therapeutics, including drugs and biologics, and identification of biomarkers for such diseases, disorders, or conditions, may be beneficial in pediatric populations; and
 
@@ -40,7 +40,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (2) Written request to holders of approved applications
 
-&emsp;The Commissioner of Food and Drugs, in consultation with the Director of the National Institutes of Health, may issue a written request based on the proposed pediatric study request for the indication or indications submitted pursuant to paragraph (1) (which shall include a timeframe for negotiations for an agreement) for pediatric studies concerning a drug identified under subsection (a) to all holders of an approved application for the drug. Such a written request shall be made in a manner equivalent to the manner in which a written request is made under subsection (b)or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\] or section 262(m) of this title, including with respect to information provided on the pediatric studies to be conducted pursuant to the request and using appropriate formulations for each age group for which the study is requested.
+&emsp;The Commissioner of Food and Drugs, in consultation with the Director of the National Institutes of Health, may issue a written request based on the proposed pediatric study request for the indication or indications submitted pursuant to paragraph (1) (which shall include a timeframe for negotiations for an agreement) for pediatric studies concerning a drug identified under subsection (a) to all holders of an approved application for the drug. Such a written request shall be made in a manner equivalent to the manner in which a written request is made under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\] or section 262(m) of this title, including with respect to information provided on the pediatric studies to be conducted pursuant to the request and using appropriate formulations for each age group for which the study is requested.
 
 #### (3) Requests for proposals
 
@@ -58,7 +58,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (A) In general
 
-&emsp;&emsp;On completion of a pediatric study in accordance with an award under this section, a report concerning the study shall be submitted to the Director of the National Institutes of Health and the Commissioner of Food and Drugs. The report shall include all data generated in connection with the study, including a written request if issued.
+&emsp;&emsp;On completion of a pediatric study in accordance with an award under this section, areport concerning the study shall be submitted to the Director of the National Institutes of Health and the Commissioner of Food and Drugs. The report shall include all data generated in connection with the study, including a written request if issued.
 
 #### (B) Availability of reports
 
@@ -110,7 +110,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (9) FDA determination
 
-&emsp;Not later than 30 days after receiving a recommendation from the Pediatric Advisory Committee under paragraph (8)(B)(ii) with respect to a drug, the Commissioner of Food and Drugs shall consider the recommendation and, if appropriate, make a request to the holdersof approved applications for the drug to make any labeling change that the Commissioner of Food and Drugs determines to be appropriate.
+&emsp;Not later than 30 days after receiving a recommendation from the Pediatric Advisory Committee under paragraph (8)(B)(ii) with respect to a drug, the Commissioner of Food and Drugs shall consider the recommendation and, if appropriate, make a request to the holders of approved applications for the drug to make any labeling change that the Commissioner of Food and Drugs determines to be appropriate.
 
 #### (10) Failure to agree
 
@@ -130,7 +130,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 &emsp;Any amount appropriated under paragraph (1) shall remain available to carry out this section until expended.
 
-(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L. 111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§507(d), 509(d), July 9, 2012, 126 Stat. 1045, 1049; Pub. L. 113–5, title III, §307(b), Mar. 13, 2013, 127 Stat. 192; Pub. L. 115–52, title V, §501, Aug. 18, 2017, 131 Stat. 1036.)
+(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408;amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L. 111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§507(d), 509(d), July 9, 2012, 126 Stat. 1045, 1049; Pub. L. 113–5, title III, §307(b), Mar. 13, 2013, 127 Stat. 192; Pub. L. 115–52, title V, §501, Aug. 18, 2017, 131 Stat. 1036.)
 
 #### References in Text
 
@@ -182,7 +182,7 @@ Subsec. (e)(1). Pub. L. 112–144, §507(d), substituted "to carry out this sect
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–148 inserted ", biological products," after "including drugs".
 
-<b>2007</b>—Pub. L. 110–85 amended section generally. Prior to amendment, section related to development of list of drugs for which pediatric studies are needed, award ofcontracts for pediatric studies, process for requesting contract proposals to conduct certain pediatric studies, reporting of completed studies, requests for labeling changes and dispute resolution, and recommendation by the Secretary for formulation changes.
+<b>2007</b>—Pub. L. 110–85 amended section generally. Prior to amendment, section related to development of list of drugs for which pediatric studies are needed, award of contracts for pediatric studies, process for requesting contract proposals to conduct certain pediatric studies, reporting of completed studies, requests for labeling changes and dispute resolution, and recommendation by the Secretary for formulation changes.
 
 Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to authorization and availability of appropriations.
 

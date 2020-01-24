@@ -52,7 +52,7 @@ Opioid safety across continuum of care.—The pilot program shall include elemen
 
 Elements of Pilot Program.—The pilot program shall include the following:
 
-&emsp;"(1) Identification of potential misuse or abuse of opioid medications in pharmacies of military treatment facilities, retail network pharmacies, and thehome delivery pharmacy, and the transmission of alerts regarding such potential misuse or abuse of opioids to prescribing physicians and dentists.
+&emsp;"(1) Identification of potential misuse or abuse of opioid medications in pharmacies of military treatment facilities, retail network pharmacies, and the home delivery pharmacy, and the transmission of alerts regarding such potential misuse or abuse of opioids to prescribing physicians and dentists.
 
 &emsp;"(2) Direct engagement with, education for, and management of beneficiaries under the TRICARE program to help such beneficiaries avoid misuse or abuse of opioid medications.
 

@@ -34,7 +34,7 @@ Depending on need, as determined by the Secretary, activities authorized under t
 
 There is authorized to be appropriated $2,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 101–624, title XV, §1543A, as added Pub. L. 107–171, title III, §3204, May 13, 2002, 116 Stat.300; amended Pub. L. 115–334, title III, §§3201(b)(3)(C), 3301, Dec. 20, 2018, 132 Stat. 4617.)
+(Pub. L. 101–624, title XV, §1543A, as added Pub. L. 107–171, title III, §3204, May 13, 2002, 116 Stat. 300; amended Pub. L. 115–334, title III, §§3201(b)(3)(C), 3301, Dec. 20, 2018, 132 Stat. 4617.)
 
 #### References in Text
 

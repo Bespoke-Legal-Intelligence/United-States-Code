@@ -2,7 +2,7 @@
 
 (a)
 
-Procurement for Unlawful Purpose.—It shall be unlawful for any person knowingly toobtain or disclose personal information, from a motor vehicle record, for any use not permitted under section 2721(b) of this title.
+Procurement for Unlawful Purpose.—It shall be unlawful for any person knowingly to obtain or disclose personal information, from a motor vehicle record, for any use not permitted under section 2721(b) of this title.
 
 (b)
 

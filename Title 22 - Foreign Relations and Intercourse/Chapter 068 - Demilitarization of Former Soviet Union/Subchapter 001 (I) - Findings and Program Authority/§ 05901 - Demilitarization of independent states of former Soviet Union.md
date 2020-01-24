@@ -4,7 +4,7 @@ The Congress finds that it is in the national security interest of the United St
 
 &emsp;(1) to facilitate, on a priority basis—
 
-&emsp;&emsp;(A) the transportation, storage, safeguarding, and destruction of nuclear and other weapons of the independent states of theformer Soviet Union, including the safe and secure storage of fissile materials, dismantlement of missiles and launchers, and the elimination of chemical and biological weapons capabilities;
+&emsp;&emsp;(A) the transportation, storage, safeguarding, and destruction of nuclear and other weapons of the independent states of the former Soviet Union, including the safe and secure storage of fissile materials, dismantlement of missiles and launchers, and the elimination of chemical and biological weapons capabilities;
 
 &emsp;&emsp;(B) the prevention of proliferation of weapons of mass destruction and their components and destabilizing conventional weapons of the independent states of the former Soviet Union, and the establishment of verifiable safeguards against the proliferation of such weapons;
 
@@ -20,7 +20,7 @@ The Congress finds that it is in the national security interest of the United St
 
 #### Short Title
 
-Pub. L. 102–484, div. A, title XIV, §1401, Oct. 23, 1992, 106 Stat. 2563, provided that: "This title \[enacting this chapter and amending provisions set out as a note under section 2551 of this title\] may be cited as the 'Former Soviet Union Demilitarization Act of 1992'."
+Pub. L. 102–484, div. A, title XIV, §1401, Oct. 23, 1992, 106 Stat. 2563, provided that: "This title \[enacting thischapter and amending provisions set out as a note under section 2551 of this title\] may be cited as the 'Former Soviet Union Demilitarization Act of 1992'."
 
 #### Policy on Reduction of Russian Nuclear Forces
 

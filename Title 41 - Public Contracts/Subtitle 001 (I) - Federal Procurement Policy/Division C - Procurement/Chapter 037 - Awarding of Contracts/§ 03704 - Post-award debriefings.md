@@ -20,7 +20,7 @@ Information To Be Provided.—The debriefing shall include, at a minimum—
 
 &emsp;(4) a summary of the rationale for the award;
 
-&emsp;(5) in the case of a proposal that includes a commercial item that is an end item under the contract, the make and model of the item being provided in accordance with the offer of the contractor awarded the contract; and
+&emsp;(5) in the case of a proposal that includes a commercial product that is an end item under the contract, the make and model of the itembeing provided in accordance with the offer of the contractor awarded the contract; and
 
 &emsp;(6) reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the executive agency.
 
@@ -45,10 +45,6 @@ After Successful Protest.—If, within one year after the date of the contract a
 Summary To Be Included in File.—The contracting officer shall include a summary of the debriefing in the contract file.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3771; Pub. L. 115–232, div. A, title VIII, §836(b)(15), Aug. 13, 2018, 132 Stat. 1864.)
-
-#### Amendment of Subsection (c)(5)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(15), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (c)(5) of this section is amended by striking "commercial item" and inserting "commercial product". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -94,7 +90,7 @@ June 30, 1949, ch. 288, title III, §303B(g) (related to §303B(e)), as added Pu
 
 #### Amendments
 
-<b>2018</b>—Subsec. (c)(5). Pub. L. 115–232 substituted "commercial product" for "+commercial item".
+<b>2018</b>—Subsec. (c)(5). Pub. L. 115–232 substituted "commercial product" for "commercial item".
 
 #### Effective Date of 2018 Amendment
 

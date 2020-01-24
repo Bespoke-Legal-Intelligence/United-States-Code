@@ -30,7 +30,7 @@ Grant funds awarded under this section may be used for the following purposes:
 
 &emsp;(3) To implement and operate education programs for the prevention of domestic violence, dating violence, sexual assault, and stalking.
 
-&emsp;(4) To develop, enlarge, or strengthen victim services programs and population specific services on the campuses of the institutions involved, including programs providing legal, medical, or psychological counseling, for victims of domestic violence, dating violence, sexual assault, and stalking, and to improve delivery of victim assistance on campus. To the extent practicable, such an institution shall collaborate with any victim service providers in the community in which the institution is located. If appropriate victim services programs are not available in the community or are not accessible to students, the institution shall, to the extent practicable, provide a victim services program on campus or create a victim services program in collaboration with a community-based organization. The institution shall use not less than 20 percent of the funds made available through the grant for a victim services program provided in accordance with this paragraph, regardless of whether the services are provided by the institution or in coordination with community victim service providers.
+&emsp;(4) To develop, enlarge, or strengthen victim services programs and population specific services on the campuses of the institutions involved, including programs providing legal, medical, or psychological counseling, for victims of domestic violence, dating violence, sexual assault, and stalking, and to improve delivery of victim assistance on campus. To the extent practicable, such an institution shall collaborate with any victim service providers in the community in which the institution is located. If appropriate victim services programs are not available in the community or are not accessible to students, the institution shall, to the extent practicable, provide a victim services program on campus or create avictim services program in collaboration with a community-based organization. The institution shall use not less than 20 percent of the funds made available through the grant for a victim services program provided in accordance with this paragraph, regardless of whether the services are provided by the institution or in coordination with community victim service providers.
 
 &emsp;(5) To create, disseminate, or otherwise provide assistance and information about victims' options on and off campus to bring disciplinary or other legal action, including assistance to victims in immigration matters.
 
@@ -94,7 +94,7 @@ Grant funds awarded under this section may be used for the following purposes:
 
 &emsp;&emsp;(A) The grantee shall create a coordinated community response including both organizations external to the institution and relevant divisions of the institution.
 
-&emsp;&emsp;(B) The grantee shall establish a mandatory prevention and education program on domestic violence, dating violence, sexual assault, and stalking for all incoming students.
+&emsp;&emsp;(B) The grantee shall establish a mandatory prevention and education program ondomestic violence, dating violence, sexual assault, and stalking for all incoming students.
 
 &emsp;&emsp;(C) The grantee shall train all campus law enforcement to respond effectively to domestic violence, dating violence, sexual assault, and stalking.
 

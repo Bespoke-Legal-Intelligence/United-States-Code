@@ -122,7 +122,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (iv) No improvement or failure to submit report
 
-&emsp;&emsp;&emsp;If the Secretary determines after a period of time specified by the Secretarythat an eligible entity implementing an improvement plan under clause (ii) has failed to demonstrate any improvement in the areas specified in subparagraph (A), or if the Secretary determines that an eligible entity has failed to submit the report required under clause (i), the Secretary shall terminate the entity's grant and may include any unexpended grant funds in grants made to nonprofit organizations under subsection (h)(2)(B).
+&emsp;&emsp;&emsp;If the Secretary determines after a period of time specified by the Secretary that an eligible entity implementing an improvement plan under clause (ii) has failed to demonstrate any improvement in the areas specified in subparagraph (A), or if the Secretary determines that an eligible entity has failed to submit the report required under clause (i), the Secretary shall terminate the entity's grant and may include any unexpended grant funds in grants made to nonprofit organizations under subsection (h)(2)(B).
 
 #### (C) Final report
 
@@ -200,7 +200,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 &emsp;&emsp;(i) The program adheres to a clear, consistent model that satisfies the requirements of being grounded in empirically-based knowledge related to home visiting and linked to the benchmark areas specified in paragraph (1)(A) and the participant outcomes described in paragraph (2)(B) related to the purposes of the program.
 
-&emsp;&emsp;(ii) The program employs well-trained and competent staff, as demonstrated by education or training, such as nurses, social workers, educators, child development specialists, or other well-trained and competent staff, and provides ongoing and specific training on the model being delivered.
+&emsp;&emsp;(ii) The program employs well-trained and competent staff, as demonstrated by education or training, such as nurses, socialworkers, educators, child development specialists, or other well-trained and competent staff, and provides ongoing and specific training on the model being delivered.
 
 &emsp;&emsp;(iii) The program maintains high quality supervision to establish home visitor competencies.
 

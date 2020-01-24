@@ -110,7 +110,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 &emsp;&emsp;(ii)(I) is eligible for or has exhausted entitlement to unemployment compensation; or
 
-&emsp;&emsp;(II) has been employed for a duration sufficient to demonstrate, to the appropriate entity at a one-stop center referred to in section 3151(e) of this title, attachment to the workforce, but is not eligible for unemployment compensation due to insufficient earnings or having performed services for an employer that were not covered under a State unemployment compensation law; and
+&emsp;&emsp;(II) has been employed for a duration sufficient to demonstrate, to the appropriate entity at a one-stop center referred to in section 3151(e) of this title, attachment to theworkforce, but is not eligible for unemployment compensation due to insufficient earnings or having performed services for an employer that were not covered under a State unemployment compensation law; and
 
 &emsp;&emsp;(iii) is unlikely to return to a previous industry or occupation;
 

@@ -2,9 +2,9 @@
 
 Arizona constitutes one judicial district.
 
-&emsp;&emsp;Court shall be held at Globe, Phoenix, Prescott, and Tucson.
+&emsp;&emsp;Court shall be held at Flagstaff, Globe, Phoenix, Prescott, Tucson, and Yuma.
 
-(June 25, 1948, ch. 646, 62 Stat. 874.)
+(June 25, 1948, ch. 646, 62 Stat. 874; Pub. L. 116–40, §1, Aug. 9, 2019, 133 Stat. 1063.)
 
 #### Historical and Revision Notes
 
@@ -17,4 +17,8 @@ A provision for making an interlocutory order at any place designated for holdin
 A provision requiring the clerk to keep his office at the State capital was omitted as covered by section 751 of this title.
 
 Changes in arrangement and phraseology were made.
+
+#### Amendments
+
+<b>2019</b>—Pub. L. 116–40 substituted "Flagstaff, Globe, Phoenix, Prescott, Tucson, and Yuma" for "Globe, Phoenix, Prescott, and Tucson".
 

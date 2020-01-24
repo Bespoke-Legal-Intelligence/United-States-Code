@@ -14,7 +14,7 @@ Section was formerly classified to section 596 of Title 5 prior to the general r
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to the Secretary of Commerce, see Parts 1, 2,and 4 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to the Secretary of Commerce, see Parts 1, 2, and 4 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Executive Order No. 12864
 
@@ -70,7 +70,7 @@ Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff,see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
+\[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
 
 #### Ex. Ord. No. 13731. Global Entrepreneurship
 
@@ -84,7 +84,7 @@ It is in the national interest for the Federal Government to support innovation,
 
 This order sets forth the administration and goals of several programs designed to connect American and foreign entrepreneurs with the Federal Government and promote entrepreneurship across the United States and around the world by sharing the knowledge, experience, and connectivity necessary to help develop the next generation of entrepreneurs.
 
-Sec. 2. <i>Administration of the Presidential Ambassadors for Global Entrepreneurship Program</i>. (a) The Secretary of Commerce (Secretary) shall administer the Presidential Ambassadors for Global Entrepreneurship Program (PAGE Program) to enable individuals who exemplify the spirit of American entrepreneurship and who have proven track records to use their networks, platforms, and voices to support aspiring entrepreneurs and advance public policies that encourage entrepreneurship in the United States and around the globe. Individuals selected for participation in the PAGE Program shall be known as PAGE Members.
+Sec. 2. <i>Administration of the Presidential Ambassadors for Global Entrepreneurship Program</i>. (a) The Secretary of Commerce (Secretary) shall administer the Presidential Ambassadors for Global Entrepreneurship Program (PAGE Program) to enable individuals who exemplify the spirit of American entrepreneurship and who have proven track records to use their networks, platforms, and voices to support aspiring entrepreneurs andadvance public policies that encourage entrepreneurship in the United States and around the globe. Individuals selected for participation in the PAGE Program shall be known as PAGE Members.
 
 (b) The PAGE Program shall be administered by a Director, appointed by the Secretary under authorities of the Department of Commerce (Commerce). Commerce shall provide necessary staff, resources, and administrative support for the PAGE Program to the extent permitted by law and within existing appropriations.
 

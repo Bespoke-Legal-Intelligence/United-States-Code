@@ -30,13 +30,127 @@ Subsec. (a). Pub. L. 114–328, §933(a)(1), substituted "Office of Military Fam
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, in first sentence, substituted "in the Office" for "in the Director" and struck out "hereinafter" before "in this section", and in second sentence, substituted "Office" for "office" in two places.
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "the Director" for "the Office" before "of the Secretary" and"The office shall be headed by the Director of Family Policy, who shall serve within the office of the Under Secretary of Defense for Personnel and Readiness." for "The Office shall be under the Assistant Secretary of Defense for Force Management and Personnel."
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "the Director" for "the Office" before "of the Secretary" and "The office shall be headed by the Director of Family Policy, who shall serve within the office of the Under Secretary of Defense for Personnel and Readiness." for "The Office shall be under the Assistant Secretary of Defense for Force Management and Personnel."
 
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
 
 #### Expansion of Period of Availability of Military OneSource Program for Retired and Discharged Members of the Armed Forces and Their Immediate Families
+
+#### Time Requirements for Certification of Honorable Service
+
+Pub. L. 116–92, div. A, title V, §526, Dec. 20, 2019, 133 Stat. 1356, provided that: "The Secretary of Defense shall publish regulations for submission and processing of a completed United States Citizenship and Immigration Services Form N–426, by a member of the Armed Forces. Such regulations shall designate the appropriate level for the certifying officer as well as establish time requirements for the form to be returned to the member of the Armed Forces."
+
+#### Counseling for Members of the Armed Forces Who Are Not Citizens of the United States on Naturalization in the United States
+
+Pub. L. 116–92, div. A, title V, §570D, Dec. 20, 2019, 133 Stat. 1399, provided that:
+
+"(a)
+
+In General.—The Secretary concerned shall furnish to covered individuals under the jurisdiction of that Secretary counseling regarding how to apply for naturalization in the United States.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered individual' means a member of the Armed Forces who is not a citizen of the United States.
+
+&emsp;"(2) The term 'Secretary concerned' has the meaning given that term in section 101(a)(9) of title 10, United States Code."
+
+#### Pilot Program on Information Sharing Between Department of Defense and Designated Relatives and Friends of Members of the Armed Forces Regarding the Experiences and Challenges of Military Service
+
+Pub. L. 116–92, div. A, title V, §570E, Dec. 20, 2019, 133 Stat. 1400, provided that:
+
+"(a)
+
+Pilot Program Required.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall seek to enter into an agreement with the American Red Cross to carry out a pilot program under which the American Red Cross—
+
+&emsp;&emsp;"(A) encourages a member of the Armed Forces, upon the enlistment or appointment of such member, to designate up to 10 persons to whom information regarding the military service of such member shall be disseminated using contact information obtained under paragraph (6); and
+
+&emsp;&emsp;"(B) provides such persons, within 30 days after the date on which such persons are designated under subparagraph (A), the option to elect to receive such information regarding military service.
+
+&emsp;"(2)
+
+Dissemination.—The Secretary shall disseminate information described in paragraph (1)(A) under the pilot program on a regular basis.
+
+&emsp;"(3)
+
+Types of information.—The types of information to be disseminated under the pilot program to persons who elect to receive such information shall include information regarding—
+
+&emsp;&emsp;"(A) aspects of daily life and routine experienced by members of the Armed Forces;
+
+&emsp;&emsp;"(B) the challenges and stresses of military service, particularly during and after deployment as part of a contingency operation;
+
+&emsp;&emsp;"(C) the services available to members of the Armed Forces and the dependents of such members to cope with the experiences and challenges of military service;
+
+&emsp;&emsp;"(D) benefits administered by the Department of Defense for members of the Armed Forces and the dependents of such members;
+
+&emsp;&emsp;"(E) a toll-free telephone number through which such persons who elect to receive information under the pilot program may request information regarding the program; and
+
+&emsp;&emsp;"(F) such other information as the Secretary determines to be appropriate.
+
+&emsp;"(4)
+
+Privacy of information.—In carrying out the pilot program, the Secretary may not disseminate information under paragraph (3) in violation of laws and regulations pertaining to the privacy of members of the Armed Forces, including requirements pursuant to—
+
+&emsp;&emsp;"(A) section 552a of title 5, United States Code; and
+
+&emsp;&emsp;"(B) the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) \[see Tables for classification\].
+
+&emsp;"(5)
+
+Notice and modifications.—In carrying out the pilot program, the Secretary shall, with respect to a member of the Armed Forces—
+
+&emsp;&emsp;"(A) ensure that such member is notified of the ability to modify designations made by such member under paragraph (1)(A); and
+
+&emsp;&emsp;"(B) upon the request of a member, authorize such member to modify such designations at any time.
+
+&emsp;"(6)
+
+Contact information.—In making a designation under the pilot program, a member of the Armed Forces shall provide necessary contact information, specifically including an email address, to facilitate the dissemination of information regarding the military service of the member.
+
+&emsp;"(7)
+
+Opt-in and opt-out of program.—
+
+&emsp;&emsp;"(A)
+
+Opt-in by members.—A member may participate in the pilot program only if the member voluntarily elects to participate in the program. A member seeking to make such an election shall make such election in a manner, and by including such information, as the Secretary and the Red Cross shall jointly specify for purposes of the pilot program.
+
+&emsp;&emsp;"(B)
+
+Opt-in by designated recipients.—A person designated pursuant to paragraph (1)(A) may receive information under the pilot program only if the person makes the election described in paragraph (1)(B).
+
+&emsp;&emsp;"(C)
+
+Opt-out.—In carrying out the pilot program, the Secretary shall, with respect to a person who has elected to receive information under such pilot program, cease disseminating such information to that person upon request of such person.
+
+"(b)
+
+Survey and Report on Pilot Program.—
+
+&emsp;"(1)
+
+Survey.—Not later than two years after the date on which the pilot program commences, the Secretary, in consultation with the American Red Cross, shall administer a survey to persons who elected to receive information under the pilot program for the purpose of receiving feedback regarding the quality of information disseminated under this section, including whether such information appropriately reflects the military career progression of members of the Armed Forces.
+
+&emsp;"(2)
+
+Report.—Not later than three years after the date on which the pilot program commences, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a final report on the pilot program which includes—
+
+&emsp;&emsp;"(A) the results of the survey administered under paragraph (1);
+
+&emsp;&emsp;"(B) a determination as to whether the pilot program should be made permanent; and
+
+&emsp;&emsp;"(C) recommendations as to modifications necessary to improve the program if made permanent.
+
+"(c)
+
+Termination of Pilot Program.—The pilot program shall terminate upon submission of the report required by subsection (b)(2)."
 
 Pub. L. 115–232, div. A, title V, §558, Aug. 13, 2018, 132 Stat. 1775, provided that:
 
@@ -250,7 +364,7 @@ Report.—
 
 &emsp;"(1)
 
-Report required.—Not later than 270 days after the date on which funds are first obligated forthe program, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program.
+Report required.—Not later than 270 days after the date on which funds are first obligated for the program, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program.
 
 &emsp;"(2)
 
@@ -284,7 +398,7 @@ Findings.—Congress makes the following findings:
 
 "(b)
 
-Military Family Recognition.—In view of the findings in subsection (a), Congress determines that it is appropriate that special measures be taken annually to recognize and honor the American military family.
+Military Family Recognition.—In view of the findings in subsection (a), Congress determines that itis appropriate that special measures be taken annually to recognize and honor the American military family.
 
 "(c)
 
@@ -338,7 +452,7 @@ Sec. 2. <i>Mission and Functions of the Working Group</i>. (a) The Working Group
 
 (iv) other efforts that further support service members, veterans, and their families.
 
-(b) Within 30 days of the date of this memorandum, the Working Group shall develop an initial 3-year strategic action plan that details broad approaches to be taken to enhance access to services and benefits. This initial plan shall be supplemented by a more detailed plan, to be published within 120 days of the date of thismemorandum that discusses the steps to be taken in greater detail. The Working Group shall also report periodically on its accomplishments and ongoing initiatives.
+(b) Within 30 days of the date of this memorandum, the Working Group shall develop an initial 3-year strategic action plan that details broad approaches to be taken to enhance access to services and benefits. This initial plan shall be supplemented by a more detailed plan, to be published within 120 days of the date of this memorandum that discusses the steps to be taken in greater detail. The Working Group shall also report periodically on its accomplishments and ongoing initiatives.
 
 Sec. 3. <i>Outreach</i>. Consistent with the objectives of this memorandum and applicable law, the Working Group shall seek the views of representatives of private and nonprofit organizations; veterans and military service organizations; State, tribal, and local government agencies; elected officials; and other interested persons to inform the Working Group's plans.
 

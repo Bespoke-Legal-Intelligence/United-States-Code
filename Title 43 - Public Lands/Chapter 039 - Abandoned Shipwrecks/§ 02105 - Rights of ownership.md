@@ -16,7 +16,7 @@ The public shall be given adequate notice of the location of any shipwreck to wh
 
 #### (c) Transfer of title to States
 
-The title of the United States to any abandoned shipwreck asserted under subsection (a) ofthis section is transferred to the State in or on whose submerged lands the shipwreck is located.
+The title of the United States to any abandoned shipwreck asserted under subsection (a) of this section is transferred to the State in or on whose submerged lands the shipwreck is located.
 
 #### (d) Exception
 

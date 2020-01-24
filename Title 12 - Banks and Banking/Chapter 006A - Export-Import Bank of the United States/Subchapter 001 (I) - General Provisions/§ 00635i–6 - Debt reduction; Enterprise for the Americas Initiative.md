@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (1) Authority to sell, reduce, or cancel certain loans
 
-&emsp;Notwithstanding any other provision of law, the President may, in accordance with this section, sell to any eligible purchaser any loan or portion thereof made before January 1, 1992, to any eligible country or any agency thereof pursuant to this subchapter, or, on receipt of payment from an eligible purchaser, reduce or cancel such loan or portion thereof, only for the purpose of facilitating—
+&emsp;Notwithstanding any other provision of law, the President may, in accordance with thissection, sell to any eligible purchaser any loan or portion thereof made before January 1, 1992, to any eligible country or any agency thereof pursuant to this subchapter, or, on receipt of payment from an eligible purchaser, reduce or cancel such loan or portion thereof, only for the purpose of facilitating—
 
 &emsp;&emsp;(A) debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps; or
 
@@ -70,7 +70,7 @@ A loan may be sold pursuant to subsection (c)(1)(A) only to a purchaser who pres
 
 #### (f) Debtor consultation
 
-Before the sale to any eligible purchaser, or any reduction or cancellation pursuant to this section, of any loan made to an eligible country,the President shall consult with the country concerning the amount of loans to be sold, reduced, or canceled and their uses for debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
+Before the sale to any eligible purchaser, or any reduction or cancellation pursuant to this section, of any loan made to an eligible country, the President shall consult with the country concerning the amount of loans to be sold, reduced, or canceled and their uses for debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
 
 #### (g) Authorization of appropriations
 

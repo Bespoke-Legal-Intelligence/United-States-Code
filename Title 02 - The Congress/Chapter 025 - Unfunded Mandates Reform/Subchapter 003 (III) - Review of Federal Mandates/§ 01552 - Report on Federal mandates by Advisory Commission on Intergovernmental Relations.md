@@ -4,7 +4,7 @@
 
 The Advisory Commission on Intergovernmental Relations shall in accordance with this section—
 
-&emsp;(1) investigate and review the role of Federal mandates in intergovernmental relations and their impact on State, local, tribal, and Federal government objectives and responsibilities, and their impact on the competitive balance between State, local, and tribal governments, and the private sector and consider views of and the impact on working men and women on those same matters;
+&emsp;(1) investigate and review the role of Federal mandates in intergovernmental relations and their impact on State, local, tribal, and Federal government objectives and responsibilities, and their impact on the competitive balance between State, local, and tribal governments, and the private sector and considerviews of and the impact on working men and women on those same matters;
 
 &emsp;(2) investigate and review the role of unfunded State mandates imposed on local governments;
 
@@ -86,5 +86,5 @@ For purposes of this section the term "State mandate" means any provision in a S
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

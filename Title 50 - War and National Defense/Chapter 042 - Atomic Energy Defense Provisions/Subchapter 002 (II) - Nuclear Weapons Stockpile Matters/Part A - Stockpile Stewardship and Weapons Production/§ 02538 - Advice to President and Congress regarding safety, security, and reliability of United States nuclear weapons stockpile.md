@@ -12,7 +12,7 @@
 
 #### (2) Nuclear weapons stockpile
 
-&emsp;It is in the security interest of the United States to sustain the United States nuclearweapons stockpile through a program of stockpile stewardship, carried out at the national security laboratories and nuclear weapons production facilities.
+&emsp;It is in the security interest of the United States to sustain the United States nuclear weapons stockpile through a program of stockpile stewardship, carried out at the national security laboratories and nuclear weapons production facilities.
 
 #### (3) Sense of Congress
 
@@ -28,13 +28,13 @@
 
 #### (d) Advice and opinions regarding nuclear weapons stockpile
 
-In addition to a director of a national security laboratory or a nuclear weapons production facility under section 2533 of this title, any member of the Nuclear Weapons Council or the Commander of the United States Strategic Command may also submit to the President, the Secretary of Defense, the Secretary of Energy, or the congressional defense committees advice or opinion regarding the safety, security, effectiveness, and reliability of the nuclear weapons stockpile.
+In addition to a director of a national security laboratory or a nuclear weapons production facility under section 2533 of this title, any member of the Nuclear Weapons Council may also submit to the President, the Secretary of Defense, the Secretary of Energy, or the congressional defense committees advice or opinion regarding the safety, security, effectiveness, and reliability of the nuclear weapons stockpile.
 
 #### (e) Expression of individual views
 
 #### (1) In general
 
-&emsp;No individual, including a representative of the President, may take any action against, or otherwise constrain, a director of a national security laboratory or a nuclear weapons production facility, a member of the Nuclear Weapons Council, or the Commander of the United States Strategic Command from presenting the professional views of the director, member, or Commander, as the case may be, to the President, the National Security Council, or Congress regarding—
+&emsp;No individual, including a representative of the President, may take any action against, or otherwise constrain, a director of a national security laboratory or a nuclear weapons production facility or a member of the Nuclear Weapons Council from presenting the professional views of the director or member, as the case may be, to the President, the National Security Council, or Congress regarding—
 
 &emsp;&emsp;(A) the safety, security, reliability, or credibility of the nuclear weapons stockpile and nuclear forces; or
 
@@ -56,7 +56,7 @@ In this section, the term "representative of the President" means the following:
 
 &emsp;(4) Any official of the Office of Management and Budget.
 
-(Pub. L. 107–314, div. D, title XLII, §4218, formerly Pub. L. 105–85, div. A, title XIII, §1305, Nov. 18, 1997, 111 Stat. 1952, renumbered Pub. L. 107–314, div. D, title XLII, §4218, and amended Pub. L. 112–239, div. C, title XXXI, §3164(a), (b), Jan. 2, 2013, 126 Stat. 2206; Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(D), (c)(10), Dec. 26, 2013, 127 Stat. 1072, 1075; Pub. L. 113–291, div. C, title XXXI, §3142(e), Dec. 19, 2014, 128 Stat. 3900.)
+(Pub. L. 107–314, div. D, title XLII, §4218, formerly Pub. L. 105–85, div. A, title XIII, §1305, Nov. 18, 1997, 111 Stat. 1952, renumbered Pub. L. 107–314, div. D, title XLII, §4218, and amended Pub. L. 112–239, div. C, title XXXI, §3164(a), (b), Jan. 2, 2013, 126 Stat. 2206; Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(D), (c)(10), Dec. 26, 2013, 127 Stat. 1072, 1075; Pub. L. 113–291, div. C, title XXXI, §3142(e), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 116–92, div. C, title XXXI, §3139(b)(5), Dec. 20, 2019, 133 Stat. 1963.)
 
 #### References in Text
 
@@ -69,6 +69,10 @@ Section is comprised of section 4218 of Pub. L. 107–314. Subsecs. (b) and (c) 
 Section was formerly classified to section 7274p of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 112–239.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (d). Pub. L. 116–92, §3139(b)(5)(A), struck out "or the Commander of the United States Strategic Command" after "Nuclear Weapons Council".
+
+Subsec. (e)(1). Pub. L. 116–92, §3139(b)(5)(B), substituted "or a member of the Nuclear Weapons Council" for ", a member of the Nuclear Weapons Council, or the Commander of the United States Strategic Command" and "or member" for ", member, or Commander".
 
 <b>2014</b>—Subsec. (d). Pub. L. 113–291, §3142(e)(1), substituted "Commander" for "commander".
 

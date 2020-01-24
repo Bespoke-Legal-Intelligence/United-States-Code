@@ -54,7 +54,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 #### (B) Reductions in value for blockage or similar factors
 
-&emsp;&emsp;In determining the value of any securities under this paragraph, the fair market valueof such securities (determined without regard to any reduction in value) shall not be reduced unless, and only to the extent that, the private foundation establishes that as a result of—
+&emsp;&emsp;In determining the value of any securities under this paragraph, the fair market value of such securities (determined without regard to any reduction in value) shall not be reduced unless, and only to the extent that, the private foundation establishes that as a result of—
 
 &emsp;&emsp;&emsp;(i) the size of the block of such securities,
 
@@ -256,7 +256,7 @@ For purposes of this section—
 
 &emsp;&emsp;(iii) substantially all of the support (other than gross investment income as defined in section 509(e)) of which is normally received from the general public and from 5 or more exempt organizations which are not described in section 4946(a)(1)(H) with respect to each other or the recipient foundation; not more than 25 percent of the support (other than gross investment income) of which is normally received from any one such exempt organization; and not more than half of the support of which is normally received from gross investment income.
 
-> &emsp;Notwithstanding the provisions of subparagraph (A), if the qualifying distributions\(within the meaning of paragraph (1) or (2) of subsection (g)) of an organization for the taxable year exceed the minimum investment return for the taxable year, clause (ii) of subparagraph (A) shall not apply unless substantially all of such qualifying distributions are made directly for the active conduct of the activities constituting the purpose or function for which it is organized and operated.
+> &emsp;Notwithstanding the provisions of subparagraph (A), if the qualifying distributions (within the meaning of paragraph (1) or (2) of subsection (g)) of an organization for the taxable year exceed the minimum investment return for the taxable year, clause (ii) of subparagraph (A) shall not apply unless substantially all of such qualifying distributions are made directly for the active conduct of the activities constituting the purpose or function for which it is organized and operated.
 
 #### (4) Functionally related business
 

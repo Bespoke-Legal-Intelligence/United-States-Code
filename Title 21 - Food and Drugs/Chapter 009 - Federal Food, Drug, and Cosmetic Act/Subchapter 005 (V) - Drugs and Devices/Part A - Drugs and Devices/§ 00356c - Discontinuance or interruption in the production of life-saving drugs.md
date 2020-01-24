@@ -54,7 +54,7 @@ If a person fails to submit information required under subsection (a) in accorda
 
 &emsp;(1) the Secretary shall issue a letter to such person informing such person of such failure;
 
-&emsp;(2) not later than 30 calendar days after the issuance of a letter under paragraph (1), the person who receives such letter shall submitto the Secretary a written response to such letter setting forth the basis for noncompliance and providing information required under subsection (a); and
+&emsp;(2) not later than 30 calendar days after the issuance of a letter under paragraph (1), the person who receives such letter shall submit to the Secretary a written response to such letter setting forth the basis for noncompliance and providing information required under subsection (a); and
 
 &emsp;(3) not later than 45 calendar days after the issuance of a letter under paragraph (1), the Secretary shall make such letter and any response to such letter under paragraph (2) available to the public on the Internet Web site of the Food and Drug Administration, with appropriate redactions made to protect information described in subsection (d), except that, if the Secretary determines that the letter under paragraph (1) was issued in error or, after review of such response, the person had a reasonable basis for not notifying as required under subsection (a), the requirements of this paragraph shall not apply.
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 #### (5) Restrictions
 
-&emsp;Notwithstanding any other provision of Federal law, in implementing this section, the Secretary shall only promulgate regulations as described in paragraph (4).
+&emsp;Notwithstanding any other provision of Federal law, in implementing this section, theSecretary shall only promulgate regulations as described in paragraph (4).
 
 (June 25, 1938, ch. 675, §506C, as added Pub. L. 105–115, title I, §131(a), Nov. 21, 1997, 111 Stat. 2332; amended Pub. L. 112–144, title X, §1001(a), July 9, 2012, 126 Stat. 1099; Pub. L. 114–255, div. A, title III, §3101(a)(2)(E), Dec. 13, 2016, 130 Stat. 1153.)
 

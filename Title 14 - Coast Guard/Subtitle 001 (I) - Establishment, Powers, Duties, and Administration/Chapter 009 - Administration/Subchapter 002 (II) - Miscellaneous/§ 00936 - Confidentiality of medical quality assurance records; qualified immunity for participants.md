@@ -40,7 +40,7 @@
 
 (h) Nothing in this section shall be construed as—
 
-&emsp;(1) authority to withhold from any person aggregate statistical information regardingthe results of Coast Guard medical quality assurance programs;
+&emsp;(1) authority to withhold from any person aggregate statistical information regarding the results of Coast Guard medical quality assurance programs;
 
 &emsp;(2) authority to withhold any medical quality assurance record from a committee of either House of Congress, any joint committee of Congress, or the Government Accountability Office if the record pertains to any matter within their respective jurisdictions;
 

@@ -42,7 +42,7 @@ For purposes of this title, the term "private foundation" means a domestic or fo
 
 #### (b) Continuation of private foundation status
 
-For purposes of this title, if an organization is a private foundation (within the meaning of subsection (a)) on October 9, 1969, or becomes a private foundation on any subsequent date, suchorganization shall be treated as a private foundation for all periods after October 9, 1969, or after such subsequent date, unless its status as such is terminated under section 507.
+For purposes of this title, if an organization is a private foundation (within the meaning of subsection (a)) on October 9, 1969, or becomes a private foundation on any subsequent date, such organization shall be treated as a private foundation for all periods after October 9, 1969, or after such subsequent date, unless its status as such is terminated under section 507.
 
 #### (c) Status of organization after termination of private foundation status
 

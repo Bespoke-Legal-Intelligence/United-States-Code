@@ -32,7 +32,7 @@ In order to qualify for assistance under this subchapter, the development compan
 
 &emsp;&emsp;(E) expansion of small business concerns owned and controlled by veterans, as defined in section 632(q) of this title, especially service-disabled veterans, as defined in such section 632(q) of this title,
 
-&emsp;&emsp;(F) enhanced economic competition, including the advancement of technology, planretooling, conversion to robotics, or competition with imports,
+&emsp;&emsp;(F) enhanced economic competition, including the advancement of technology, plan retooling, conversion to robotics, or competition with imports,
 
 &emsp;&emsp;(G) changes necessitated by Federal budget cutbacks, including defense related industries,
 
@@ -42,7 +42,7 @@ In order to qualify for assistance under this subchapter, the development compan
 
 &emsp;&emsp;(J) increased use of sustainable design, including designs that reduce the use of greenhouse gas emitting fossil fuels, or low-impact design to produce buildings that reduce the use of non-renewable resources and minimize environmental impact,
 
-&emsp;&emsp;(K) plant, equipment and process upgrades of renewable energy sources such as the small-scale production of energy for individual buildings or communities consumption, commonly known as micropower, or renewable fuels producers including biodiesel and ethanol producers, or
+&emsp;&emsp;(K) plant, equipment and process upgrades of renewable energy sources such as thesmall-scale production of energy for individual buildings or communities consumption, commonly known as micropower, or renewable fuels producers including biodiesel and ethanol producers, or
 
 &emsp;&emsp;(L) reduction of rates of unemployment in labor surplus areas, as such areas are determined by the Secretary of Labor.
 
@@ -98,7 +98,7 @@ Subsec. (d). Pub. L. 101–574, §214(b), added subsec. (d).
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Budgetary Treatment of Loans and Financings
 

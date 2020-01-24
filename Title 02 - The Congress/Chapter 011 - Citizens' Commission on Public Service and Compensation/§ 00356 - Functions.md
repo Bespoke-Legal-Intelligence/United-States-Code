@@ -20,7 +20,7 @@ The Commission shall conduct, in each of the respective fiscal years referred to
 
 > In reviewing the rates of pay of the offices or positions referred to in subparagraph (D) of this section, the Commission shall determine and consider the appropriateness of the executive levels of such offices and positions.
 
-(Pub. L. 90–206, title II, §225(f), Dec. 16, 1967, 81 Stat. 643; Pub. L. 91–375, §6(a), Aug. 12, 1970, 84 Stat. 775; Pub. L. 94–82, title II, §206(a), Aug. 9, 1975, 89 Stat. 423; Pub. L. 95–598, title III, §301, Nov. 6, 1978, 92 Stat. 2673; Pub. L. 97–164, title I, §143, Apr. 2, 1982, 96 Stat. 45; Pub. L. 99–190, §135(b), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 100–202, §101(a) \[title IV, §408(c)\], Dec. 22, 1987, 101 Stat. 1329, 1329–27; Pub. L. 101–194, title VII, §701(d), Nov. 30, 1989, 103 Stat. 1764; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 90–206, title II, §225(f), Dec. 16, 1967, 81 Stat. 643; Pub. L. 91–375, §6(a), Aug. 12, 1970, 84 Stat. 775; Pub. L. 94–82, title II, §206(a), Aug. 9,1975, 89 Stat. 423; Pub. L. 95–598, title III, §301, Nov. 6, 1978, 92 Stat. 2673; Pub. L. 97–164, title I, §143, Apr. 2, 1982, 96 Stat. 45; Pub. L. 99–190, §135(b), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 100–202, §101(a) \[title IV, §408(c)\], Dec. 22, 1987, 101 Stat. 1329, 1329–27; Pub. L. 101–194, title VII, §701(d), Nov. 30, 1989, 103 Stat. 1764; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### References in Text
 

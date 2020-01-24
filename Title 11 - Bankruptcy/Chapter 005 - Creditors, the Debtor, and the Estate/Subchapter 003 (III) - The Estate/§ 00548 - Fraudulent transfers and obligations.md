@@ -66,7 +66,7 @@
 
 (2) For the purposes of this subsection, a transfer includes a transfer made in anticipation of any money judgment, settlement, civil penalty, equitable order, or criminal fine incurred by, or which the debtor believed would be incurred by—
 
-&emsp;(A) any violation of the securities laws (as defined in section 3(a)(47) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(47))), any State securities laws, or any regulation or order issued under Federal securities laws or State securities laws; or
+&emsp;(A) any violation of the securities laws (as defined in section 3(a)(47) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(47))), any State securities laws, or any regulation ororder issued under Federal securities laws or State securities laws; or
 
 &emsp;(B) fraud, deceit, or manipulation in a fiduciary capacity or in connection with the purchase or sale of any security registered under section 12 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78l and 78o(d)) or under section 6 of the Securities Act of 1933 (15 U.S.C. 77f).
 
@@ -152,7 +152,7 @@ Amendment by section 907 of Pub. L. 109–8 effective 180 days after Apr. 20, 20
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–183 applicable to any case brought under an applicable provision of this title thatis pending or commenced on or after June 19, 1998, see section 5 of Pub. L. 105–183, set out as a note under section 544 of this title.
+Amendment by Pub. L. 105–183 applicable to any case brought under an applicable provision of this title that is pending or commenced on or after June 19, 1998, see section 5 of Pub. L. 105–183, set out as a note under section 544 of this title.
 
 #### Effective Date of 1994 Amendment
 

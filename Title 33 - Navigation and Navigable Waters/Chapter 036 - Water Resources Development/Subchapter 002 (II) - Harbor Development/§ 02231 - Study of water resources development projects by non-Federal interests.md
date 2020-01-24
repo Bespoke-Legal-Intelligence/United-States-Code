@@ -32,7 +32,7 @@ The Secretary shall review each feasibility study received under subsection (a)(
 
 #### (d) Credit
 
-If a project for which a feasibility study has been submitted under subsection (a)(1) is authorized by a Federal law enacted after the date of the submission to Congress under subsection (c), the Secretary shall credit toward the non-Federal share of the cost of construction of the project an amount equal to the portion of the cost of developing the study that would have been the responsibility of the United States if the study had been developed by the Secretary.
+If a project for which a feasibility study has been submitted under subsection (a)(1) is authorized by a Federal law enacted after the dateof the submission to Congress under subsection (c), the Secretary shall credit toward the non-Federal share of the cost of construction of the project an amount equal to the portion of the cost of developing the study that would have been the responsibility of the United States if the study had been developed by the Secretary.
 
 #### (e) Review and technical assistance
 
@@ -74,7 +74,7 @@ Subsec. (c). Pub. L. 115–270, §1152(2), amended subsec. (c) generally. Prior 
 
 &emsp;"(3) any conditions the Secretary may require for construction of the project."
 
-Subsec. (e). Pub. L. 115–270, §1152(3), amended subsec. (e) generally. Prior to amendment, text read as follows "At the request of a non-Federal interest, the Secretary may provide to the non-Federal interest technical assistance relating to any aspect of a feasibilitystudy if the non-Federal interest contracts with the Secretary to pay all costs of providing such technical assistance.".
+Subsec. (e). Pub. L. 115–270, §1152(3), amended subsec. (e) generally. Prior to amendment, text read as follows "At the request of a non-Federal interest, the Secretary may provide to the non-Federal interest technical assistance relating to any aspect of a feasibility study if the non-Federal interest contracts with the Secretary to pay all costs of providing such technical assistance.".
 
 <b>2016</b>—Subsec. (e). Pub. L. 114–322 added subsec. (e).
 

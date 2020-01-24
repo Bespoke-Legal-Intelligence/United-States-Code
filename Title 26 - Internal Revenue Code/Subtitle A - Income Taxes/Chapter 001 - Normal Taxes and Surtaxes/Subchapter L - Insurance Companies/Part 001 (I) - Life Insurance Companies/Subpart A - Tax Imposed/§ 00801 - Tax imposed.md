@@ -48,7 +48,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date
 
-Pub. L. 98–369, div. A, title II, §215, July 18, 1984, 98 Stat. 758, provided that: "The amendments made by this subtitle \[subtitle A (§§211–219) of title II of div. A of Pub. L. 98–369, amending this part, enacting section 845 of this title, amending sections 72, 80, 243, 381, 401, 453B, 542, 594, 832, 841, 844, 891, 953, 1016, 1035, 1201, 1232A, 1351, 1503, 1504, 1561, 1563, 4371, 6501, 6511, 6601, and 6611 of this title, and enacting provisions set out as notes under this section and sections 453B, 806, 807, 809, 814, 816, 845, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1983."
+Pub. L. 98–369, div. A, title II, §215, July 18, 1984, 98 Stat. 758, provided that: "The amendments made bythis subtitle \[subtitle A (§§211–219) of title II of div. A of Pub. L. 98–369, amending this part, enacting section 845 of this title, amending sections 72, 80, 243, 381, 401, 453B, 542, 594, 832, 841, 844, 891, 953, 1016, 1035, 1201, 1232A, 1351, 1503, 1504, 1561, 1563, 4371, 6501, 6511, 6601, and 6611 of this title, and enacting provisions set out as notes under this section and sections 453B, 806, 807, 809, 814, 816, 845, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1983."
 
 #### Phased Inclusion of Remaining Balance of Policyholders Surplus Accounts
 
@@ -220,7 +220,7 @@ election.—In the case of any reserve described in subparagraph (A), for purpos
 
 &emsp;&emsp;"(C) 10-
 
-year spread inapplicable where no 10-year spread under prior law.—In the case of any item to which section 807(f) of such Code applies by reason of subparagraph (A) or (B), such item shall be taken into account for the first taxable year beginning after December 31, 1983 (in lieu of over the 10-year period otherwise provided in such section) unless the item would have been required to be taken into account over a period of 10 taxable years under \[former\] section 810(d) of such Code (as in effect on the day before the date of the enactment of this Act).
+year spread inapplicable where no 10-year spread under prior law.—In the case of anyitem to which section 807(f) of such Code applies by reason of subparagraph (A) or (B), such item shall be taken into account for the first taxable year beginning after December 31, 1983 (in lieu of over the 10-year period otherwise provided in such section) unless the item would have been required to be taken into account over a period of 10 taxable years under \[former\] section 810(d) of such Code (as in effect on the day before the date of the enactment of this Act).
 
 &emsp;&emsp;"(D)
 
@@ -242,7 +242,7 @@ In general.—Except as provided in subparagraph (B), any election after Septemb
 
 &emsp;&emsp;"(B)
 
-Exception for certain contracts issued under plan of insurance first filed after march 1, 1982, and before september 28, 1983.—Paragraph (3)and subparagraph (A) of this paragraph shall not apply to any election under such section 818(c) if more than 95 percent of the reserves computed in accordance with such election are attributable to risks under life insurance contracts issued by the taxpayer under a plan of insurance first filed after March 1, 1982, and before September 28, 1983.
+Exception for certain contracts issued under plan of insurance first filed after march 1, 1982, and before september 28, 1983.—Paragraph (3) and subparagraph (A) of this paragraph shall not apply to any election under such section 818(c) if more than 95 percent of the reserves computed in accordance with such election are attributable to risks under life insurance contracts issued by the taxpayer under a plan of insurance first filed after March 1, 1982, and before September 28, 1983.
 
 &emsp;&emsp;"(C)
 
@@ -310,7 +310,7 @@ In general.—If—
 
 &emsp;&emsp;"(B)
 
-Adjustment to reserves.—If this paragraph applies to any contract, the opening and closing statutory reserves for such contract shall be adjusted as provided under the principles of section 805(c)(1) of such Code (as in effect for taxable years beginning in 1982 and 1983), except that section 805(c)(1)(B)(ii) of such Code (as so in effect) shall be applied by substituting—
+Adjustment to reserves.—If this paragraph applies to any contract, the opening and closing statutory reserves for such contract shall be adjusted as provided under the principles of section 805(c)(1) of such Code (as in effect for taxable years beginning in 1982 and 1983), except that section805(c)(1)(B)(ii) of such Code (as so in effect) shall be applied by substituting—
 
 &emsp;&emsp;&emsp;"(i) the prevailing State assumed interest rate (within the meaning of section 807(c)(4) of such Code), for
 
@@ -338,7 +338,7 @@ Pub. L. 98–369, div. A, title II, §217(e), July 18, 1984, 98 Stat. 762, provi
 
 #### Treatment of Reinsurance Agreements Required by National Association of Insurance Commissioners
 
-Pub. L. 98–369, div. A, title II, §217(g), July 18, 1984, 98 Stat. 763, as amended by Pub. L. 99–514, §2, Oct. 22, 1986,100 Stat. 2095, provided that: "Effective for taxable years beginning after December 31, 1981, and before January 1, 1984, subsections (c)(1)(F) and (d)(12) of section 809 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on the day before the date of the enactment of this Act \[July 18, 1984\]) shall not apply to dividends to policyholders reimbursed to the taxpayer by a reinsurer in respect of accident and health policies reinsured under a reinsurance agreement entered into before June 30, 1955, pursuant to the direction of the National Association of Insurance Commissioners and approved by the State insurance commissioner of the taxpayer's State of domicile. For purposes of subchapter L of chapter 1 of such Code (as in effect on the day before the date of the enactment of this Act) any such dividends shall be treated as dividends of the reinsurer and not the taxpayer."
+Pub. L. 98–369, div. A, title II, §217(g), July 18, 1984, 98 Stat. 763, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Effective for taxable years beginning after December 31, 1981, and before January 1, 1984, subsections (c)(1)(F) and (d)(12) of section 809 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on the day before the date of the enactment of this Act \[July 18, 1984\]) shall not apply to dividends to policyholders reimbursed to the taxpayer by a reinsurer in respect of accident and health policies reinsured under a reinsurance agreement entered into before June 30, 1955, pursuant to the direction of the National Association of Insurance Commissioners and approved by the State insurance commissioner of the taxpayer's State of domicile. For purposes of subchapter L of chapter 1 of such Code (as in effect on the day before the date of the enactment of this Act) any such dividends shall be treated as dividends of the reinsurer and not the taxpayer."
 
 #### Reports to Congress on Revenue, Segment Balance, Etc.
 

@@ -164,7 +164,7 @@ In General.—The Secretary of Transportation shall carry out a pilot program at
 
 "(b)
 
-Selection Criteria.—In selecting from among airports at which to conduct the pilot program, the Secretary shall give priority consideration to airports at which improvements in ground control efficiencies are likely to achieve the greatest fuel savings or air quality or other environmental benefits, as measured by the amount of reduced fuel, reduced emissions, or other environmental benefits per dollar of funds expended under the pilot program.
+Selection Criteria.—In selecting from among airports at which to conduct the pilot program, theSecretary shall give priority consideration to airports at which improvements in ground control efficiencies are likely to achieve the greatest fuel savings or air quality or other environmental benefits, as measured by the amount of reduced fuel, reduced emissions, or other environmental benefits per dollar of funds expended under the pilot program.
 
 "(c)
 

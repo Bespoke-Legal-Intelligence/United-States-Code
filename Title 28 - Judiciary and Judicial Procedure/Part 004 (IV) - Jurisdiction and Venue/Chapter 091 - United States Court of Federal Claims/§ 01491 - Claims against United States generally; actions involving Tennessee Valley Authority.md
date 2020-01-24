@@ -30,7 +30,7 @@ The proviso in section 250(1) of title 28, U.S.C., 1940 ed., relating to claims 
 
 The exception in section 250(1) of title 28, U.S.C., 1940 ed., as to pension claims appears in section 1501 of this title.
 
-Words "in respect of which claims the party would be entitled to redress against the United States either in a court of law, equity, or admiralty, if the United States were suable" were omitted as unnecessary since the Court of Claims manifestly, under this section will determine whether a petition against the United States states a cause of action. In any event, the Court of Claims has no admiralty jurisdiction, but the Suits in Admiralty Act, sections 741–752 of title 46, U.S.C., 1940 ed., Shipping, vests exclusive jurisdiction over suits in admiralty against the United States in the district courts. <i>Sanday \& Co. v. U.S</i>., 1932, 76 Ct.Cl. 370.
+Words "in respect of which claims the party would be entitled to redress against the United States either ina court of law, equity, or admiralty, if the United States were suable" were omitted as unnecessary since the Court of Claims manifestly, under this section will determine whether a petition against the United States states a cause of action. In any event, the Court of Claims has no admiralty jurisdiction, but the Suits in Admiralty Act, sections 741–752 of title 46, U.S.C., 1940 ed., Shipping, vests exclusive jurisdiction over suits in admiralty against the United States in the district courts. <i>Sanday \& Co. v. U.S</i>., 1932, 76 Ct.Cl. 370.
 
 For additional provisions respecting jurisdiction of the court of claims in war contract settlement cases see section 114b of Title 41, U.S.C., 1940 ed., Public Contracts.
 
@@ -38,7 +38,7 @@ Changes were made in phraseology.
 
 #### References in Text
 
-Section 6 of the Contract Disputes Act of 1978, referred to in subsec. (a)(2), was classified to section 605 of former Title 41, Public Contracts, and was repealed and restated as subsecs. (a) to (c)(1) and (d) to (h) ofsection 7103 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
+Section 6 of the Contract Disputes Act of 1978, referred to in subsec. (a)(2), was classified to section 605 of former Title 41, Public Contracts, and was repealed and restated as subsecs. (a) to (c)(1) and (d) to (h) of section 7103 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
 The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to chapter 12A (§831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 110–161 applicable with respect to fiscal year 2008 and e
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–320, §12(b), Oct. 19, 1996, 110 Stat. 3875, provided that: "This section \[amending this section andsection 3556 of Title 31, Money and Finance, and enacting provisions set out as notes under this section and section 3556 of Title 31\] and the amendments made by this section shall take effect on December 31, 1996 and shall apply to all actions filed on or after that date."
+Pub. L. 104–320, §12(b), Oct. 19, 1996, 110 Stat. 3875, provided that: "This section \[amending this section and section 3556 of Title 31, Money and Finance, and enacting provisions set out as notes under this section and section 3556 of Title 31\] and the amendments made by this section shall take effect on December 31, 1996 and shall apply to all actions filed on or after that date."
 
 #### Effective Date of 1992 Amendment
 

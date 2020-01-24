@@ -18,7 +18,7 @@
 
 (C) For purposes of this section, the term "hour of service" means a time of service determined under regulations prescribed by the Secretary.
 
-(D) For purposes of this section, in the case of any maritime industry, 125 days of service shallbe treated as 1,000 hours of service. The Secretary may prescribe regulations to carry out the purposes of this subparagraph.
+(D) For purposes of this section, in the case of any maritime industry, 125 days of service shall be treated as 1,000 hours of service. The Secretary may prescribe regulations to carry out the purposes of this subparagraph.
 
 (4) A plan shall be treated as not meeting the requirements of paragraph (1) unless it provides that any employee who has satisfied the minimum age and service requirements specified in such paragraph, and who is otherwise entitled to participate in the plan, commences participation in the plan no later than the earlier of—
 

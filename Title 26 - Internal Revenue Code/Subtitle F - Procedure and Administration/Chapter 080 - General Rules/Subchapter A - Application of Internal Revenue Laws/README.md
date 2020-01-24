@@ -13,10 +13,13 @@
 | [7809\.](%C2%A7%2007809%20-%20Deposit%20of%20collections.md) | Deposit of collections. |
 | [7810\.](%C2%A7%2007810%20-%20Revolving%20fund%20for%20redemption%20of%20real%20property.md) | Revolving fund for redemption of real property. |
 | [7811\.](%C2%A7%2007811%20-%20Taxpayer%20Assistance%20Orders.md) | Taxpayer Assistance Orders. |
+| [7812\.](%C2%A7%2007812%20-%20Streamlined%20critical%20pay%20authority%20for%20information%20technology%20positions.md) | Streamlined critical pay authority for information technology positions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–25, title II, §2103(b), July 1, 2019, 133 Stat. 1011, added item 7812.
 
 <b>1998</b>—Pub. L. 105–206, title I, §§1101(c)(2), 1102(e)(1), 1104(b)(2), July 22, 1998, 112 Stat. 697, 704, 710, added items 7802 to 7804 and struck out former items 7802 "Commissioner of Internal Revenue; Assistant Commissioners; Taxpayer Advocate", 7803 "Other personnel", and 7804 "Effect of reorganization plans".
 
@@ -46,3 +49,4 @@
 - [&sect; 07809 - Deposit of collections](%C2%A7%2007809%20-%20Deposit%20of%20collections.md)
 - [&sect; 07810 - Revolving fund for redemption of real property](%C2%A7%2007810%20-%20Revolving%20fund%20for%20redemption%20of%20real%20property.md)
 - [&sect; 07811 - Taxpayer Assistance Orders](%C2%A7%2007811%20-%20Taxpayer%20Assistance%20Orders.md)
+- [&sect; 07812 - Streamlined critical pay authority for information technology positions](%C2%A7%2007812%20-%20Streamlined%20critical%20pay%20authority%20for%20information%20technology%20positions.md)

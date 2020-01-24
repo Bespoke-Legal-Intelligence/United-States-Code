@@ -14,7 +14,7 @@ Junk Yard and Salvage Yard Operators.—(1) Beginning at a time established by t
 
 (2) Paragraph (1) of this subsection does not apply to an individual or entity—
 
-&emsp;(A) required by State law to report the acquisition of junk automobiles or salvage automobiles to State or local authorities if thoseauthorities make that information available to the operator; or
+&emsp;(A) required by State law to report the acquisition of junk automobiles or salvage automobiles to State or local authorities if those authorities make that information available to the operator; or
 
 &emsp;(B) issued a verification under section 33110 of this title stating that the automobile or parts from the automobile are not reported as stolen.
 
@@ -64,7 +64,7 @@ In subsections (a)(1), before clause (A), the words "Beginning at a time establi
 
 In subsection (a)(2)(B), the word "automobile" is substituted for "vehicle" for consistency in the revised title.
 
-In subsections (b), before clause (1), the words "Beginning at a time established by the Secretary that is not sooner than the 3d month before the establishment or designation of" are substituted for "Beginning at a time determined by the Secretary, but no earlier than 3 months prior to the establishment of" for clarity and consistency with the source provisions restated in section 30502 of the revised title. In clauses (1), (3), and (4), the words "each automobile" are substituted for "each vehicle", and the words "the automobile" are substituted for "the vehicle", for consistency in the revised title.
+In subsections (b), before clause (1), the words "Beginning at a time established by the Secretary that is not sooner than the 3d month before the establishment or designation of" are substituted for "Beginning at a time determined by the Secretary, but no earlier than3 months prior to the establishment of" for clarity and consistency with the source provisions restated in section 30502 of the revised title. In clauses (1), (3), and (4), the words "each automobile" are substituted for "each vehicle", and the words "the automobile" are substituted for "the vehicle", for consistency in the revised title.
 
 #### Amendments
 

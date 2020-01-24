@@ -28,7 +28,7 @@ A covered person subject to supervision and primary enforcement by the Bureau pu
 
 #### (2) Exceptions
 
-&emsp;A covered person subject to supervision and primary enforcement by the Bureau pursuantto section 5515 of this title, a prudential regulator, and any other agency having jurisdiction over a covered person subject to supervision and primary enforcement by the Bureau pursuant to section 5515 of this title may not be required by this section to make available to the consumer—
+&emsp;A covered person subject to supervision and primary enforcement by the Bureau pursuant to section 5515 of this title, a prudential regulator, and any other agency having jurisdiction over a covered person subject to supervision and primary enforcement by the Bureau pursuant to section 5515 of this title may not be required by this section to make available to the consumer—
 
 &emsp;&emsp;(A) any confidential commercial information, including an algorithm used to derive credit scores or other risk scores or predictors;
 

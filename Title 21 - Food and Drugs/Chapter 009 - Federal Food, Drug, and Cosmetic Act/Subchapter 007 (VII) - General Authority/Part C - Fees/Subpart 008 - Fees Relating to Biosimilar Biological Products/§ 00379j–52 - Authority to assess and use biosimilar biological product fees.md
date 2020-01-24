@@ -10,7 +10,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each person that submits to the Secretary a meeting request described under clause (ii) or a clinical protocol for an investigational new drug protocol described under clause (iii) shall pay for the product named in the meeting request or the investigational new drug application the initial biosimilar biological product development fee established under subsection (c)(5).
+&emsp;&emsp;&emsp;Each person that submits to the Secretary a meeting request described underclause (ii) or a clinical protocol for an investigational new drug protocol described under clause (iii) shall pay for the product named in the meeting request or the investigational new drug application the initial biosimilar biological product development fee established under subsection (c)(5).
 
 #### (ii) Meeting request
 
@@ -74,7 +74,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A person that has discontinued participation in the biosimilar biological product development program for a product undersubparagraph (C) shall, if the person seeks to resume participation in such program, pay a fee (referred to in this section as "reactivation fee") by the earlier of the following:
+&emsp;&emsp;&emsp;A person that has discontinued participation in the biosimilar biological product development program for a product under subparagraph (C) shall, if the person seeks to resume participation in such program, pay a fee (referred to in this section as "reactivation fee") by the earlier of the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) Not later than 5 days after the Secretary grants a request by such person for a biosimilar biological product development meeting for the product (after the date on which such participation was discontinued).
 
@@ -238,7 +238,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (C) Biosimilar biological product development fees
 
-&emsp;&emsp;The initial biosimilar biological product development fee under subsection (a)(1)(A)for a fiscal year shall be equal to the annual biosimilar biological product development fee under subsection (a)(1)(B) for that fiscal year.
+&emsp;&emsp;The initial biosimilar biological product development fee under subsection (a)(1)(A) for a fiscal year shall be equal to the annual biosimilar biological product development fee under subsection (a)(1)(B) for that fiscal year.
 
 #### (D) Reactivation fee
 
@@ -312,7 +312,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (C) Federal Register notice
 
-&emsp;&emsp;If an adjustment under subparagraph (A) or (B) is made, the rationale for the amount of the increase or decrease (as applicable) in fee revenue and fees shall be contained in the annual Federal Register notice under paragraph (5)(B) establishing fee revenue and fees for the fiscal year involved.
+&emsp;&emsp;If an adjustment under subparagraph (A) or (B) is made, the rationale for the amountof the increase or decrease (as applicable) in fee revenue and fees shall be contained in the annual Federal Register notice under paragraph (5)(B) establishing fee revenue and fees for the fiscal year involved.
 
 #### (4) Fiscal year 2018 adjustment
 
@@ -374,7 +374,7 @@ A biosimilar biological product application or supplement submitted by a person 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The fees authorized by this section shall be available for a fiscal year beginning after fiscal year 2012 to defray the costs of the process for the review of biosimilar biological product applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the Secretary allocates for such purpose anamount for such fiscal year (excluding amounts from fees collected under this section) no less than $20,000,000, multiplied by the adjustment factor applicable to the fiscal year involved.
+&emsp;&emsp;&emsp;The fees authorized by this section shall be available for a fiscal year beginning after fiscal year 2012 to defray the costs of the process for the review of biosimilar biological product applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the Secretary allocates for such purpose an amount for such fiscal year (excluding amounts from fees collected under this section) no less than $20,000,000, multiplied by the adjustment factor applicable to the fiscal year involved.
 
 #### (ii) Leasing and necessary equipment
 
@@ -464,7 +464,7 @@ Subsec. (c). Pub. L. 115–52, §403(c)(4), added subsec. (c). Former subsec. (c
 
 Subsec. (d). Pub. L. 115–52, §403(c)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1). Pub. L. 115–52, §403(d), substituted "affiliate shall pay" for "affiliate shall pay—" and "not a small business." for "not a small business; and", struck out subpar. (A) designation before "application fees for all", and struck out subpar. (B) which read as follows: "all supplement fees for all supplements to biosimilar biological product applications submitted to the Secretary for review in the same manner as an entity that is not a small business."
+Subsec. (d)(1). Pub. L. 115–52, §403(d), substituted "affiliate shall pay" for "affiliate shall pay—" and "not a small business." for "not a small business; and", struck out subpar. (A) designation before "application fees forall", and struck out subpar. (B) which read as follows: "all supplement fees for all supplements to biosimilar biological product applications submitted to the Secretary for review in the same manner as an entity that is not a small business."
 
 Subsec. (e). Pub. L. 115–52, §403(e), substituted "all such fees" for "all fees".
 

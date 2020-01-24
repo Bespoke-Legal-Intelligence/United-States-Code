@@ -14,7 +14,7 @@ For the purpose of grants and contracts under section 293c(a)(1) of this title, 
 
 #### (d) Report
 
-Not later than 6 months after November 13, 1998, the Secretary shall prepare and submit tothe appropriate committees of Congress a report concerning the efforts of the Secretary to address the need for a representative mix of individuals from historically minority health professions schools, or from institutions or other entities that historically or by geographic location have a demonstrated record of training or educating underrepresented minorities, within various health professions disciplines, on peer review councils.
+Not later than 6 months after November 13, 1998, the Secretary shall prepare and submit to the appropriate committees of Congress a report concerning the efforts of the Secretary to address the need for a representative mix of individuals from historically minority health professions schools, or from institutions or other entities that historically or by geographic location have a demonstrated record of training or educating underrepresented minorities, within various health professions disciplines, on peer review councils.
 
 (July 1, 1944, ch. 373, title VII, §740, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3536; amended Pub. L. 111–148, title V, §5402(b)–(d), Mar. 23, 2010, 124 Stat. 644.)
 

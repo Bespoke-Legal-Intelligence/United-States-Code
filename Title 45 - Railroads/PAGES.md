@@ -1,6 +1,6 @@
 # Printed pages - Title 45 - Railroads
 
-GPO's 2018 edition (laws in effect as of 2019-01-14), from its printed page marks. The exact position of
+GPO's 2019 edition (laws in effect as of 2020-01-24), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title45.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -293,8 +293,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 01007 - Election](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001007%20-%20Election.md) | 240–241 |
 | [&sect; 01008 - Repealed. Pub. L. 97&#8211;468, title II, &sect;234(a), Jan. 14, 1983, 96 Stat. 2547](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001008%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93468%2C%20title%20II%2C%20%C2%A7234%28a%29%2C%20Jan.%2014%2C%201983%2C%2096%20Stat.%202547.md) | 241 |
 | [&sect; 01009 - Expedited proceedings](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001009%20-%20Expedited%20proceedings.md) | 241 |
-| [&sect; 01010 - Applicability of National Environmental Policy Act and section 6362(b) of title 42](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001010%20-%20Applicability%20of%20National%20Environmental%20Policy%20Act%20and%20section%206362%28b%29%20of%20title%2042.md) | 241 |
-| [&sect; 01011 - Authority of Railroad Retirement Board](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001011%20-%20Authority%20of%20Railroad%20Retirement%20Board.md) | 241–242 |
+| [&sect; 01010 - Applicability of National Environmental Policy Act and section 6362(b) of title 42](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001010%20-%20Applicability%20of%20National%20Environmental%20Policy%20Act%20and%20section%206362%28b%29%20of%20title%2042.md) | 241–242 |
+| [&sect; 01011 - Authority of Railroad Retirement Board](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001011%20-%20Authority%20of%20Railroad%20Retirement%20Board.md) | 242 |
 | [&sect; 01012 - Publications and reports](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001012%20-%20Publications%20and%20reports.md) | 242 |
 | [&sect; 01013 - Repealed. Pub. L. 103&#8211;272, &sect;7(b), July 5, 1994, 108 Stat. 1379](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001013%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93272%2C%20%C2%A77%28b%29%2C%20July%205%2C%201994%2C%20108%20Stat.%201379.md) | 242 |
 | [&sect; 01014 - New career training assistance](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001014%20-%20New%20career%20training%20assistance.md) | 242 |
@@ -303,8 +303,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 01017 - Temporary operating approval](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001017%20-%20Temporary%20operating%20approval.md) | 243 |
 | [&sect; 01018 - Judicial review](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001018%20-%20Judicial%20review.md) | 243–244 |
 | [Chapter 020 - Northeast Rail Service](Chapter%20020%20-%20Northeast%20Rail%20Service/README.md) | 244 |
-| [&sect; 01101 - Congressional findings and declarations](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001101%20-%20Congressional%20findings%20and%20declarations.md) | 244 |
-| [&sect; 01102 - Statement of purpose](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001102%20-%20Statement%20of%20purpose.md) | 244–245 |
+| [&sect; 01101 - Congressional findings and declarations](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001101%20-%20Congressional%20findings%20and%20declarations.md) | 244–245 |
+| [&sect; 01102 - Statement of purpose](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001102%20-%20Statement%20of%20purpose.md) | 245 |
 | [&sect; 01103 - Goals and objectives](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001103%20-%20Goals%20and%20objectives.md) | 245 |
 | [&sect; 01104 - Definitions](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001104%20-%20Definitions.md) | 245–246 |
 | [&sect; 01105 - Judicial review](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001105%20-%20Judicial%20review.md) | 246–247 |

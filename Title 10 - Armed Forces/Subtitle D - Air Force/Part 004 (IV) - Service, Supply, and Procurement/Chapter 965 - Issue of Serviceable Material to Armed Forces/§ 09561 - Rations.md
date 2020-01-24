@@ -1,6 +1,6 @@
 ### §9561. Rations
 
-(a) The President may prescribe the components, and the quantities thereof, of the AirForce ration. He may direct the issue of equivalent articles in place of the prescribed components whenever, in his opinion, economy and the health and comfort of the members of the Air Force so require.
+(a) The President may prescribe the components, and the quantities thereof, of the Air Force ration. He may direct the issue of equivalent articles in place of the prescribed components whenever, in his opinion, economy and the health and comfort of the members of the Air Force so require.
 
 (b) An enlisted member of the Air Force on active duty is entitled to one ration daily. The emergency ration, when issued, is in addition to the regular ration.
 

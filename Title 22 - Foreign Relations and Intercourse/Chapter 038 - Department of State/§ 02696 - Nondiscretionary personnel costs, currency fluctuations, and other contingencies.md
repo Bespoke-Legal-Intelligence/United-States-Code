@@ -18,9 +18,9 @@ There are authorized to be appropriated for the Department of State, in addition
 
 (4) In order to offset adverse fluctuations in foreign currency exchange rates or overseas wage and price changes, the Secretary of State may transfer from the Buying Power Maintenance account to any appropriation account under the heading "Administration of Foreign Affairs" such amounts as the Secretary determines are necessary to maintain the approved level of operations under that appropriation account.
 
-(5) Funds transferred by the Secretary of State from the Buying Power Maintenance account to another account shall be merged with and be available for the same purpose, and for the same time period, as the funds in that other account. Funds transferred by the Secretary from another account to the Buying Power Maintenance account shall be merged with the funds in the Buying Power Maintenance account and shall be available for the purposes of that account until expended.
+(5) Funds transferred by the Secretary of State from the Buying Power Maintenance account to another account shall be merged with and be available for the same purpose, and for the same time period, as the funds in that other account. Funds transferred by the Secretary from another account to the Buying Power Maintenance account shall be merged with the funds in the Buying Power Maintenance account and shall beavailable for the purposes of that account until expended.
 
-(6) Any restriction contained in an appropriation Act or other provision of law limiting the amounts available for the Department of State that may be obligated or expended shall be deemed to be adjusted to the extent necessary to offset the net effect of fluctuations in foreigncurrency exchange rates or overseas wage and price changes in order to maintain approved levels.
+(6) Any restriction contained in an appropriation Act or other provision of law limiting the amounts available for the Department of State that may be obligated or expended shall be deemed to be adjusted to the extent necessary to offset the net effect of fluctuations in foreign currency exchange rates or overseas wage and price changes in order to maintain approved levels.
 
 (7)(A) Subject to the limitations contained in this paragraph, not later than the end of the fifth fiscal year after the fiscal year for which funds are appropriated or otherwise made available for an account under "Administration of Foreign Affairs", the Secretary of State may transfer any unobligated balance of such funds to the Buying Power Maintenance account.
 
@@ -47,6 +47,10 @@ Amounts authorized to be appropriated for a fiscal year for the Department of St
 Amounts authorized to be appropriated for a fiscal year for the Department of State or to the Secretary of State are authorized to be obligated for twelve-month contracts which are to be performed in two fiscal years, if the total amount for such contracts is obligated in the earlier fiscal year.
 
 (Aug. 1, 1956, ch. 841, title I, §24, as added Pub. L. 96–60, title I, §105(a), Aug. 15, 1979, 93 Stat. 396; renumbered title I and amended Pub. L. 97–241, title I, §112(a), title II, §202(a), Aug. 24, 1982, 96 Stat. 277, 282; Pub. L. 101–246, title I, §107, Feb. 16, 1990, 104 Stat. 21; Pub. L. 102–138, title I, §117(a), (c), Oct. 28, 1991, 105 Stat. 656, 657; Pub. L. 103–236, title I, §122(a), Apr. 30, 1994, 108 Stat. 392; Pub. L. 110–252, title I, §1408(b), June 30, 2008, 122 Stat. 2342.)
+
+#### References to Diplomatic and Consular Programs Account
+
+References to the Diplomatic and Consular Programs account to be construed to include the Diplomatic Programs account in fiscal year 2020 and each fiscal year thereafter. See par. (7) of title I of div. G of Pub. L. 116–94, set out as a note under section 2651 of this title.
 
 #### Amendments
 

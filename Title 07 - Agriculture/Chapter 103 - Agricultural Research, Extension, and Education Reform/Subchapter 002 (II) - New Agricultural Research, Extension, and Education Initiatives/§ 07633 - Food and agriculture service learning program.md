@@ -68,7 +68,7 @@ The purposes of the Program are—
 
 #### References in Text
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281,60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 #### Amendments
 

@@ -18,7 +18,7 @@
 
 #### (2) Eligibility
 
-&emsp;The program shall benefit employees who qualify under a classification set up by the employer and found by the Secretary not to be discriminatory in favor of employees who are highly compensated employees (within the meaning of section 414(q)) or their dependents. For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreementwhich the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that educational assistance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
+&emsp;The program shall benefit employees who qualify under a classification set up by the employer and found by the Secretary not to be discriminatory in favor of employees who are highly compensated employees (within the meaning of section 414(q)) or their dependents. For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that educational assistance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
 
 #### (3) Principal shareholders or owners
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (B) Interest in unincorporated trade or business
 
-&emsp;&emsp;The interest of an employee in a trade or business which is not incorporated shall be determined in accordance with regulations prescribed by the Secretary, which shall be based on principles similar to the principles which apply in the case of subparagraph (A).
+&emsp;&emsp;The interest of an employee in a trade or business which is not incorporated shall bedetermined in accordance with regulations prescribed by the Secretary, which shall be based on principles similar to the principles which apply in the case of subparagraph (A).
 
 #### (5) Certain tests not applicable
 
@@ -138,7 +138,7 @@ Subsec. (d). Pub. L. 100–647, §4001(a), substituted "1988" for "1987".
 
 <b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §1162(a)(2), substituted "$5,250" for "$5,000" in heading and twice in text.
 
-Subsec. (b)(1). Pub. L. 99–514, §1151(c)(4)(A), added par. (1) and struck out former par (1) which read as follows: "For purposes of this section an educational assistance program is a separate written plan of an employer for the exclusive benefit of his employees to provide such employees with educational assistance. The program must meet the requirements of paragraphs (2) through (6) of this subsection."
+Subsec. (b)(1). Pub. L. 99–514, §1151(c)(4)(A), added par. (1) and struck out former par (1) which read as follows: "For purposes of this section an educational assistance program is a separate written plan of an employer for the exclusive benefit of his employees to provide suchemployees with educational assistance. The program must meet the requirements of paragraphs (2) through (6) of this subsection."
 
 Subsec. (b)(2). Pub. L. 99–514, §1151(g)(3), substituted "For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h)." for "For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that educational assistance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers."
 
@@ -244,7 +244,7 @@ Pub. L. 98–611, §1(g), Oct. 31, 1984, 98 Stat. 3178, as amended by Pub. L. 99
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting section 6039D of this title and amending this section and sections 125, 3231, and 6652 of this title\] shall apply to taxable years beginning after December 31, 1983.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section\[enacting section 6039D of this title and amending this section and sections 125, 3231, and 6652 of this title\] shall apply to taxable years beginning after December 31, 1983.
 
 "(2)
 
@@ -278,7 +278,7 @@ Pub. L. 104–188, title I, §1202(c)(3), Aug. 20, 1996, 110 Stat. 1773, provide
 
 Pub. L. 102–227, title I, §103(a)(2), Dec. 11, 1991, 105 Stat. 1687, provided that, in the case of any taxable year beginning in 1992, only amounts paid before July 1, 1992, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 103–66, title XIII, §13101(a)(2), Aug. 10, 1993, 107 Stat. 420.
 
-Pub. L. 101–239, title VII, §7101(a)(2), Dec. 19, 1989, 103 Stat. 2304, provided that, in the case of any taxableyear beginning in 1990, only amounts paid before Oct. 1, 1990, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11403(c), Nov. 5, 1990, 104 Stat. 1388–473.
+Pub. L. 101–239, title VII, §7101(a)(2), Dec. 19, 1989, 103 Stat. 2304, provided that, in the case of any taxable year beginning in 1990, only amounts paid before Oct. 1, 1990, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11403(c), Nov. 5, 1990, 104 Stat. 1388–473.
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 

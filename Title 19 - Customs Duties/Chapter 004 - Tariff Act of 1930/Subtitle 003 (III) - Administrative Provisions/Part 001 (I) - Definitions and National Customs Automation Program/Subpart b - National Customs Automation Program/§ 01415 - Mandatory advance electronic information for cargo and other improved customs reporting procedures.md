@@ -24,13 +24,13 @@
 
 &emsp;&emsp;(D) Where the regulations impose requirements on carriers of cargo, they shall take into account differences among different modes of transportation, including differences in commercial practices, operational characteristics, and technological capacity to collect and transmit information electronically.
 
-&emsp;&emsp;(E) The regulations shall take into account the extent to which the technologynecessary for parties to transmit and the Customs Service to receive and analyze data in a timely fashion is available. To the extent that the Secretary determines that the necessary technology will not be widely available to particular modes of transportation or other affected parties until after promulgation of the regulations, the regulations shall provide interim requirements appropriate for the technology that is available at the time of promulgation.
+&emsp;&emsp;(E) The regulations shall take into account the extent to which the technology necessary for parties to transmit and the Customs Service to receive and analyze data in a timely fashion is available. To the extent that the Secretary determines that the necessary technology will not be widely available to particular modes of transportation or other affected parties until after promulgation of the regulations, the regulations shall provide interim requirements appropriate for the technology that is available at the time of promulgation.
 
 &emsp;&emsp;(F) The information collected pursuant to the regulations shall be used exclusively for ensuring cargo safety and security, preventing smuggling, and commercial risk assessment targeting, and shall not be used for any commercial enforcement purposes, including for determining merchandise entry. Notwithstanding the preceding sentence, nothing in this section shall be treated as amending, repealing, or otherwise modifying title IV of the Tariff Act of 1930 \[19 U.S.C. 1401 et seq.\] or regulations promulgated thereunder.
 
 &emsp;&emsp;(G) The regulations shall protect the privacy of business proprietary and any other confidential cargo information provided to the Customs Service pursuant to such regulations, except for the manifest information collected pursuant to section 431 of the Tariff Act of 1930 \[19 U.S.C. 1431\] and required to be available for public disclosure pursuant to section 431(c) of such Act..<sup>1</sup>
 
-&emsp;&emsp;(H) In determining the timing for transmittal of any information, the Secretary shall balance likely impact on flow of commerce with impact on cargo safety and security. With respect to requirements that may be imposed on carriers of cargo, the timing for transmittal of information shall take into account differences among different modes of transportation, as described in subparagraph (D).
+&emsp;&emsp;(H) In determining the timing for transmittal of any information, the Secretaryshall balance likely impact on flow of commerce with impact on cargo safety and security. With respect to requirements that may be imposed on carriers of cargo, the timing for transmittal of information shall take into account differences among different modes of transportation, as described in subparagraph (D).
 
 &emsp;&emsp;(I) Where practicable, the regulations shall avoid imposing requirements that are redundant with one another or that are redundant with requirements in other provisions of law.
 
@@ -178,6 +178,10 @@ Subsec. (a)(3)(L)(ii). Pub. L. 107–295, §108(b)(3)(A), substituted "cargo saf
 
 Subsec. (a)(3)(L)(v). Pub. L. 107–295, §108(b)(3)(D)(ii)–(iv), added cl. (v).
 
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–59, title XI, §11165(b), Aug. 10, 2005, 119 Stat. 1976, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2005\]."
@@ -204,7 +208,7 @@ Future Agreements.—
 
 &emsp;"(1)
 
-Consultations.—Before entering into, on or after the date of the enactment of this Act \[Oct. 24,2018\], any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, that is related to the ability of the United States to secure the provision of advance electronic information by foreign postal operators, the Secretary of State should consult with the appropriate congressional committees (as defined in section 8003(f)) \[Committee on Finance and Committee on Homeland Security and Governmental Affairs of the Senate and Committee on Ways and Means, Committee on Oversight and Government Reform, and Committee on Homeland Security of the House of Representatives\].
+Consultations.—Before entering into, on or after the date of the enactment of this Act \[Oct. 24, 2018\], any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, that is related to the ability of the United States to secure the provision of advance electronic information by foreign postal operators, the Secretary of State should consult with the appropriate congressional committees (as defined in section 8003(f)) \[Committee on Finance and Committee on Homeland Security and Governmental Affairs of the Senate and Committee on Ways and Means, Committee on Oversight and Reform, and Committee on Homeland Security of the House of Representatives\].
 
 &emsp;"(2)
 

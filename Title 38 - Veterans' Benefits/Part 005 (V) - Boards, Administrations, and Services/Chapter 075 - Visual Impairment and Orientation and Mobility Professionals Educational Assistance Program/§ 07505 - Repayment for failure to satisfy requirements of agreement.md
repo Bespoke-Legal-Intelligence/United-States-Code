@@ -18,7 +18,7 @@ Waiver or Suspension of Compliance.—The Secretary shall prescribe regulations 
 
 (d)
 
-Obligation as Debt to United States.—An obligation to repay the Secretary under this section is, for all purposes, a debt owed the United States. A discharge in bankruptcy under title 11 does not discharge a person from such debt if the discharge order is entered less than five years after the date of the termination of the agreement or contract on which the debt is based.
+Obligation as Debt to United States.—An obligation to repay the Secretary under this section is, for all purposes, a debt owed theUnited States. A discharge in bankruptcy under title 11 does not discharge a person from such debt if the discharge order is entered less than five years after the date of the termination of the agreement or contract on which the debt is based.
 
 (Added Pub. L. 111–163, title III, §302(a), May 5, 2010, 124 Stat. 1148.)
 

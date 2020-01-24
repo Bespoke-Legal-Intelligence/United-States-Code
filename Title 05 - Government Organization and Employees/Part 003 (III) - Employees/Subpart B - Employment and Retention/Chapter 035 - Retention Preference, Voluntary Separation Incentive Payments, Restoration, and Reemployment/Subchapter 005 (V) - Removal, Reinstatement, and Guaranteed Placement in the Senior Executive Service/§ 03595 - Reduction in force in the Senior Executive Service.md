@@ -28,7 +28,7 @@
 
 #### Prior Provisions
 
-A prior section 3595, added Pub. L. 95–454, title IV, §404(b), Oct. 13, 1978, 92 Stat. 1167, which related to prescribing regulations, was renumbered section 3596 by Pub. L. 97–35, title XVII, §1704(a)(1), Aug. 13, 1981, 95 Stat. 756.
+A prior section 3595, added Pub. L. 95–454, title IV, §404(b), Oct. 13, 1978, 92 Stat. 1167, which related to prescribing regulations, was renumbered section 3596 byPub. L. 97–35, title XVII, §1704(a)(1), Aug. 13, 1981, 95 Stat. 756.
 
 #### Amendments
 

@@ -122,7 +122,7 @@
 
 #### (2) Payment to victims
 
-&emsp;Amounts in the Civil Penalty Fund shall be available to the Bureau, without fiscal year limitation, for payments to the victims of activities for which civil penalties have been imposed under the Federal consumer financial laws. To the extent that such victims cannot be located or such payments are otherwise not practicable, the Bureau may use such funds for the purpose of consumer education and financial literacy programs.
+&emsp;Amounts in the Civil Penalty Fund shall be available to the Bureau, without fiscal yearlimitation, for payments to the victims of activities for which civil penalties have been imposed under the Federal consumer financial laws. To the extent that such victims cannot be located or such payments are otherwise not practicable, the Bureau may use such funds for the purpose of consumer education and financial literacy programs.
 
 #### (e) Authorization of appropriations; annual report
 
@@ -138,7 +138,7 @@
 
 #### (2) Authorization of appropriations
 
-&emsp;If the Director makes the determination and submits the report pursuant to paragraph (1),there are hereby authorized to be appropriated to the Bureau, for the purposes of carrying out the authorities granted in Federal consumer financial law, $200,000,000 for each of fiscal years 2010, 2011, 2012, 2013, and 2014.
+&emsp;If the Director makes the determination and submits the report pursuant to paragraph (1), there are hereby authorized to be appropriated to the Bureau, for the purposes of carrying out the authorities granted in Federal consumer financial law, $200,000,000 for each of fiscal years 2010, 2011, 2012, 2013, and 2014.
 
 #### (3) Apportionment
 

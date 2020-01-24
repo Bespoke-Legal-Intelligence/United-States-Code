@@ -78,7 +78,7 @@ In this subchapter:
 
 #### (17) Opposition period
 
-&emsp;The term "opposition period" means the time allowed for filing an opposition in theUnited States Patent and Trademark Office, including any extension of time granted under section 1063 of this title.
+&emsp;The term "opposition period" means the time allowed for filing an opposition in the United States Patent and Trademark Office, including any extension of time granted under section 1063 of this title.
 
 (July 5, 1946, ch. 540, title XII, §60, as added Pub. L. 107–273, div. C, title III, §13402, Nov. 2, 2002, 116 Stat. 1913.)
 

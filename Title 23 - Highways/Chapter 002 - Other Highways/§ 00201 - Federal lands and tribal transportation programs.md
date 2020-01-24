@@ -46,7 +46,7 @@ Contractual obligation.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law (including regulations), the authorization by the Secretary, or the Secretary of the appropriate Federal land management agency if the agency is the contracting office, of engineering and related work for the development, design, and acquisition associated with a construction project, whether performed by contract oragreement authorized by law, or the approval by the Secretary of plans, specifications, and estimates for construction of a project, shall be considered to constitute a contractual obligation of the Federal Government to pay the total eligible cost of—
+In general.—Notwithstanding any other provision of law (including regulations), the authorization by the Secretary, or the Secretary of the appropriate Federal land management agency if the agency is the contracting office, of engineering and related work for the development, design, and acquisition associated with a construction project, whether performed by contract or agreement authorized by law, or the approval by the Secretary of plans, specifications, and estimates for construction of a project, shall be considered to constitute a contractual obligation of the Federal Government to pay the total eligible cost of—
 
 &emsp;&emsp;&emsp;(i) any project funded under this title; and
 
@@ -126,7 +126,7 @@ Inclusions.—Data collected under this paragraph includes—
 
 &emsp;&emsp;(B)
 
-Standards.—The Secretary, in coordination with the Secretaries of the appropriate Federal land management agencies, shall define the collection and reporting data standards.
+Standards.—The Secretary, in coordination with the Secretaries of the appropriate Federal land management agencies,shall define the collection and reporting data standards.
 
 &emsp;&emsp;(C)
 
@@ -150,7 +150,7 @@ Funding.—
 
 &emsp;&emsp;(A)
 
-In general.—To carry out the activities described in this subsection for Federal lands transportation facilities, Federal lands access transportation facilities, and otherfederally owned roads open to public travel (as that term is defined in section 125(e)), the Secretary shall for each fiscal year combine and use not greater than 5 percent of the funds authorized for programs under sections 203 and 204.
+In general.—To carry out the activities described in this subsection for Federal lands transportation facilities, Federal lands access transportation facilities, and other federally owned roads open to public travel (as that term is defined in section 125(e)), the Secretary shall for each fiscal year combine and use not greater than 5 percent of the funds authorized for programs under sections 203 and 204.
 
 &emsp;&emsp;(B)
 
@@ -250,7 +250,7 @@ Eligible Projects.—An eligible project under the program shall be a single con
 
 &emsp;&emsp;"(C) a determination that the project is categorically excluded; and
 
-&emsp;"(3) having an estimated cost, based on the results of preliminary engineering, equal to or exceeding $25,000,000, with priority consideration given toprojects with an estimated cost equal to or exceeding $50,000,000.
+&emsp;"(3) having an estimated cost, based on the results of preliminary engineering, equal to or exceeding $25,000,000, with priority consideration given to projects with an estimated cost equal to or exceeding $50,000,000.
 
 "(d)
 

@@ -56,7 +56,7 @@ For the purposes of this chapter, unless otherwise specified:
 
 #### (11) Indian organization
 
-&emsp;The term "Indian organization" means any group, association, partnership, corporation, or other legal entity owned or controlled by a federally recognized Indian tribe or tribes, or a majority of whose members are members of federally recognized tribes.
+&emsp;The term "Indian organization" means any group, association, partnership, corporation,or other legal entity owned or controlled by a federally recognized Indian tribe or tribes, or a majority of whose members are members of federally recognized tribes.
 
 #### (12) Inherently Federal functions
 
@@ -136,7 +136,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (20), is Pub. L. 92
 
 #### Prior Provisions
 
-A prior section 2021, Pub. L. 95–561, title XI, §1141, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4012, related to proration of pay, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
+A prior section 2021, Pub. L. 95–561, title XI, §1141, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108Stat. 4012, related to proration of pay, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
 
 Another prior section 2021, Pub. L. 95–561, title XI, §1140A, formerly §1141, as added Pub. L. 98–511, title V, §512, Oct. 19, 1984, 98 Stat. 2398; renumbered §1140A and amended Pub. L. 99–89, §9(a)(1), (b), Aug. 15, 1985, 99 Stat. 383, related to proration of pay, prior to the general amendment of this chapter by Pub. L. 103–382.
 

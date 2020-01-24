@@ -2,7 +2,7 @@
 
 (a)
 
-Rule for Ground Combat Personnel Policy.—(1) If the Secretary of Defense proposes to make any change described in paragraph (2)(A) or (2)(B) to the ground combat exclusion policy or proposes to make a change described in paragraph (2)(C), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to Congress a report providing notice of the proposed change.
+Rule for Ground Combat Personnel Policy.—(1) If the Secretary of Defense proposes tomake any change described in paragraph (2)(A) or (2)(B) to the ground combat exclusion policy or proposes to make a change described in paragraph (2)(C), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to Congress a report providing notice of the proposed change.
 
 (2) A change referred to in paragraph (1) is a change that—
 
@@ -18,7 +18,7 @@ Rule for Ground Combat Personnel Policy.—(1) If the Secretary of Defense propo
 
 &emsp;(B) a detailed analysis of legal implication of the proposed change with respect to the constitutionality of the application of the Military Selective Service Act (50 App. U.S.C. 451 et seq.) <sup>1</sup> to males only.
 
-(4) In this subsection, the term "ground combat exclusion policy" means the military personnel policies of the Department of Defense and the military departments, as in effect on October 1, 1994, by which female members of thearmed forces are restricted from assignment to units and positions below brigade level whose primary mission is to engage in direct combat on the ground.
+(4) In this subsection, the term "ground combat exclusion policy" means the military personnel policies of the Department of Defense and the military departments, as in effect on October 1, 1994, by which female members of the armed forces are restricted from assignment to units and positions below brigade level whose primary mission is to engage in direct combat on the ground.
 
 \[(5) Repealed. Pub. L. 114–92, div. A, title V, §524(a)(2), Nov. 25, 2015, 129 Stat. 813.\]
 

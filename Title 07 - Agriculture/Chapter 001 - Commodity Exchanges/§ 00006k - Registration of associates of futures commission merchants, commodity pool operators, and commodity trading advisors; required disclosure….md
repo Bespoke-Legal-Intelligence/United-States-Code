@@ -40,7 +40,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Pars. (5), (6). Pub. L. 110–246, §13105(c), redesignated par. (5) relating to exempting associated persons or dealers from provisions of this chapter as (6).
 
-<b>2000</b>—Par. (5). Pub. L. 106–554, §1(a)(5) \[title II, §252(d)\], which directed amendment of this section by "inserting after paragraph (4), as added by subsection (c) of this section" a new par. (5) relating to exempting associated persons or dealers from provisions of this chapter, was executed by adding that par. (5) at theend. Section 1(a)(5)\[title II, §252(c)\] did not add a par. (4) to this section.
+<b>2000</b>—Par. (5). Pub. L. 106–554, §1(a)(5) \[title II, §252(d)\], which directed amendment of this section by "inserting after paragraph (4), as added by subsection (c) of this section" a new par. (5) relating to exempting associated persons or dealers from provisions of this chapter, was executed by adding that par. (5) at the end. Section 1(a)(5)\[title II, §252(c)\] did not add a par. (4) to this section.
 
 <b>1983</b>—Par. (1). Pub. L. 97–444 amended par. (1) generally to apply to introducing brokers and persons associated with introducing brokers.
 

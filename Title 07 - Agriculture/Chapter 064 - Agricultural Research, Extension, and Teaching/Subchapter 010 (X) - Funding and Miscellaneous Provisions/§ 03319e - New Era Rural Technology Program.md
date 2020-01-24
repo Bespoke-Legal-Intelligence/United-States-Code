@@ -16,7 +16,7 @@ In this section, the term "community college" means an institution of higher edu
 
 &emsp;&emsp;(A) provides an educational program of not less than 2 years that is acceptable for full credit toward such a degree; or
 
-&emsp;&emsp;(B) offers a 2-year program in engineering, technology, mathematics, or the physical, chemical, or biological sciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
+&emsp;&emsp;(B) offers a 2-year program in engineering, technology, mathematics, or the physical,chemical, or biological sciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
 
 #### (b) Functions
 
@@ -42,7 +42,7 @@ In this section, the term "community college" means an institution of higher edu
 
 &emsp;To receive funding under this section, an entity shall—
 
-&emsp;&emsp;(A) be a community college or advanced technological center, located in a rural areaand in existence on the date of the enactment of this section, that participates in agricultural or bioenergy research and applied research;
+&emsp;&emsp;(A) be a community college or advanced technological center, located in a rural area and in existence on the date of the enactment of this section, that participates in agricultural or bioenergy research and applied research;
 
 &emsp;&emsp;(B) have a proven record of development and implementation of programs to meet the needs of students, educators, and business and industry to supply the agriculture-based, renewable energy or pulp and paper manufacturing fields with certified technicians, as determined by the Secretary; and
 

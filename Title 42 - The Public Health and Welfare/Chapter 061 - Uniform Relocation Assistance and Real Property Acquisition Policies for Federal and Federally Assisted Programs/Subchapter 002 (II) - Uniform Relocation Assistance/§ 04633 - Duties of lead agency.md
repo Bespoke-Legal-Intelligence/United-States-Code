@@ -4,7 +4,7 @@
 
 The head of the lead agency shall—
 
-&emsp;(1) develop, publish, and issue, with the active participation of the Secretary of Housing and Urban Development and the heads of other Federal agencies responsible for funding relocation and acquisition actions, and in coordination with State and local governments, suchregulations as may be necessary to carry out this chapter;
+&emsp;(1) develop, publish, and issue, with the active participation of the Secretary of Housing and Urban Development and the heads of other Federal agencies responsible for funding relocation and acquisition actions, and in coordination with State and local governments, such regulations as may be necessary to carry out this chapter;
 
 &emsp;(2) provide, in consultation with the Attorney General (acting through the Commissioner of the Immigration and Naturalization Service), through training and technical assistance activities for displacing agencies, information developed with the Attorney General (acting through the Commissioner) on proper implementation of section 4605 of this title;
 

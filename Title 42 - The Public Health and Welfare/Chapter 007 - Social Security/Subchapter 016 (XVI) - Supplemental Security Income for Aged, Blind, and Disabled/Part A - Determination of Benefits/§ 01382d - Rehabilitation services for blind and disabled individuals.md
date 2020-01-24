@@ -38,11 +38,11 @@ The Commissioner of Social Security may reimburse the State agency described in 
 
 &emsp;&emsp;(C) a federally administered State supplementary payment under section 1382e of this title or section 212(b) of Public Law 93–66.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1615, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1474; amended Pub. L. 94–566, title V, §501(a), Oct. 20, 1976, 90 Stat. 2683; Pub. L. 96–272, title III, §304, June 17, 1980, 94 Stat. 529; Pub. L. 97–35, title XXI, §2193(a)(4), (c)(8), title XXIII, §2344, Aug. 13, 1981, 95 Stat. 827, 828, 867; Pub. L. 98–369, div. B, title VI, §2663(g)(8), July 18, 1984, 98 Stat. 1169; Pub. L. 98–460, §11(b), Oct. 9, 1984,98 Stat. 1806; Pub. L. 101–508, title V, §5037(a), Nov. 5, 1990, 104 Stat. 1388–226; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 105–33, title V, §5523, Aug. 5, 1997, 111 Stat. 623; Pub. L. 106–170, title I, §101(b)(2)(A), (B), Dec. 17, 1999, 113 Stat. 1874.)
+(Aug. 14, 1935, ch. 531, title XVI, §1615, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1474; amended Pub. L. 94–566, title V, §501(a), Oct. 20, 1976, 90 Stat. 2683; Pub. L. 96–272, title III, §304, June 17, 1980, 94 Stat. 529; Pub. L. 97–35, title XXI, §2193(a)(4), (c)(8), title XXIII, §2344, Aug. 13, 1981, 95 Stat. 827, 828, 867; Pub. L. 98–369, div. B, title VI, §2663(g)(8), July 18, 1984, 98 Stat. 1169; Pub. L. 98–460, §11(b), Oct. 9, 1984, 98 Stat. 1806; Pub. L. 101–508, title V, §5037(a), Nov. 5, 1990, 104 Stat. 1388–226; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 105–33, title V, §5523, Aug. 5, 1997, 111 Stat. 623; Pub. L. 106–170, title I, §101(b)(2)(A), (B), Dec. 17, 1999, 113 Stat. 1874.)
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Rehabilitation Act of 1973 is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, asamended. Title I of the Rehabilitation Act of 1973 is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 Section 212(b) of Public Law 93–66, referred to in subsec. (e)(1)(C), (2)(C), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 
@@ -104,7 +104,7 @@ Subsec. (e). Pub. L. 94–566 added subsec. (e). See 1980 Amendment note above.
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–170 effective with the first month following one year after Dec. 17, 1999, subject tosection 101(d) of Pub. L. 106–170, see section 101(c) of Pub. L. 106–170, set out as an Effective Date note under section 1320b–19 of this title.
+Amendment by Pub. L. 106–170 effective with the first month following one year after Dec. 17, 1999, subject to section 101(d) of Pub. L. 106–170, see section 101(c) of Pub. L. 106–170, set out as an Effective Date note under section 1320b–19 of this title.
 
 #### Effective Date of 1997 Amendment
 

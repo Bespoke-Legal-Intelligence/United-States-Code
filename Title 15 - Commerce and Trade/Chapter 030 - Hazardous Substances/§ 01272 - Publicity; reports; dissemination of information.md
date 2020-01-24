@@ -2,7 +2,7 @@
 
 #### (a) Summaries of judgments, decrees, orders
 
-The Commission may cause to be published from time to time reports summarizing any judgments, decrees, or court orders which havebeen rendered under this chapter, including the nature of the charge and the disposition thereof.
+The Commission may cause to be published from time to time reports summarizing any judgments, decrees, or court orders which have been rendered under this chapter, including the nature of the charge and the disposition thereof.
 
 #### (b) Information as to health dangers and investigations
 

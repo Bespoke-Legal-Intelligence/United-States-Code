@@ -46,9 +46,9 @@ The following rules shall apply in the case of the filing and consideration of a
 
 &emsp;&emsp;(ii) the employer does not actually have, or has not been provided with referrals of, qualified eligible individuals who have indicated their availability to perform such labor or services on the terms and conditions of a job offer which meets the requirements of the Secretary.
 
-> &emsp;In considering the question of whether a specific qualification is appropriate in a job offer,the Secretary shall apply the normal and accepted qualifications required by non-H–2A-employers in the same or comparable occupations and crops.
+> &emsp;In considering the question of whether a specific qualification is appropriate in a job offer, the Secretary shall apply the normal and accepted qualifications required by non-H–2A-employers in the same or comparable occupations and crops.
 
-&emsp;(B)(i) For a period of 3 years subsequent to the effective date of this section, labor certifications shall remain effective only if, from the time the foreign worker departs for the employer's place of employment, the employer will provide employment to any qualified United States worker who applies to the employer until 50 percent of the period of the work contract, under which the foreign worker who is in the job was hired, has elapsed. In addition, the employer will offer to provide benefits, wages and working conditions required pursuant to this section and regulations.
+&emsp;(B)(i) For a period of 3 years subsequent to the effective date of this section, labor certifications shall remain effective only if, from the time the foreign worker departs for the employer's place of employment, the employer will provide employment to any qualified United States worker who applies to the employer until 50 percent of the period of thework contract, under which the foreign worker who is in the job was hired, has elapsed. In addition, the employer will offer to provide benefits, wages and working conditions required pursuant to this section and regulations.
 
 &emsp;(ii) The requirement of clause (i) shall not apply to any employer who—
 
@@ -78,11 +78,11 @@ The following rules shall apply in the case of the filing and consideration of a
 
 #### (1) Permitting filing by agricultural associations
 
-&emsp;A petition to import an alien as a temporary agricultural worker, and an application for alabor certification with respect to such a worker, may be filed by an association of agricultural producers which use agricultural services.
+&emsp;A petition to import an alien as a temporary agricultural worker, and an application for a labor certification with respect to such a worker, may be filed by an association of agricultural producers which use agricultural services.
 
 #### (2) Treatment of associations acting as employers
 
-&emsp;If an association is a joint or sole employer of temporary agricultural workers, the certifications granted under this section to the association may be used for the certified job opportunities of any of its producer members and such workers may be transferred among its producer members to perform agricultural services of a temporary or seasonal nature for which the certifications were granted.
+&emsp;If an association is a joint or sole employer of temporary agricultural workers, the certifications granted under this section to the association may be used for the certified job opportunities of any of its producer membersand such workers may be transferred among its producer members to perform agricultural services of a temporary or seasonal nature for which the certifications were granted.
 
 #### (3) Treatment of violations
 
@@ -130,11 +130,11 @@ An alien may not be admitted to the United States as a temporary agricultural wo
 
 For purposes of this section:
 
-&emsp;(1) The term "eligible individual" means, with respect to employment, an individual who is not an unauthorized alien (as defined insection 1324a(h)(3) of this title) with respect to that employment.
+&emsp;(1) The term "eligible individual" means, with respect to employment, an individual who is not an unauthorized alien (as defined in section 1324a(h)(3) of this title) with respect to that employment.
 
 &emsp;(2) The term "H–2A worker" means a nonimmigrant described in section 1101(a)(15)(H)(ii)(a) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §218, formerly §216, as added Pub. L. 99–603, title III, §301(c), Nov. 6, 1986, 100 Stat. 3411; renumbered §218 and amended Pub. L. 100–525, §2(l)(2), (3), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 102–232, title III, §§307(l)(4), 309(b)(8), Dec. 12, 1991, 105 Stat. 1756, 1759; Pub. L. 103–416, title II, §219(z)(8), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 106–78, title VII, §748, Oct. 22, 1999, 113 Stat. 1167; Pub. L. 106–554, §1(a)(1) \[title I, §105\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11.)
+(June 27, 1952, ch. 477, title II, ch. 2, §218, formerly §216, as added Pub. L. 99–603, title III, §301(c), Nov. 6, 1986, 100 Stat. 3411; renumbered §218 and amended Pub. L. 100–525, §2(l)(2), (3), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 102–232, titleIII, §§307(l)(4), 309(b)(8), Dec. 12, 1991, 105 Stat. 1756, 1759; Pub. L. 103–416, title II, §219(z)(8), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 106–78, title VII, §748, Oct. 22, 1999, 113 Stat. 1167; Pub. L. 106–554, §1(a)(1) \[title I, §105\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11.)
 
 #### References in Text
 
@@ -218,7 +218,7 @@ Presidential Reports.—The President shall transmit to the Committees on the Ju
 
 &emsp;&emsp;"(D) the relative benefits to domestic workers and burdens upon employers of a policy which requires employers, as a condition for certification under the program, to continue to accept qualified United States workers for employment after the date the H–2A workers depart for work with the employer.
 
-> The recommendations under subparagraph (D) shall be made in furtherance of the Congressional policy that aliens not be admitted under the H–2A program unless there are not sufficient workers in the United Stateswho are able, willing, and qualified to perform the labor or services needed and that the employment of the alien in such labor or services will not adversely affect the wages and working conditions of workers in the United States similarly employed.
+> The recommendations under subparagraph (D) shall be made in furtherance of the Congressional policy that aliens not be admitted under the H–2A program unless there are not sufficient workers in the United States who are able, willing, and qualified to perform the labor or services needed and that the employment of the alien in such labor or services will not adversely affect the wages and working conditions of workers in the United States similarly employed.
 
 "(b)
 

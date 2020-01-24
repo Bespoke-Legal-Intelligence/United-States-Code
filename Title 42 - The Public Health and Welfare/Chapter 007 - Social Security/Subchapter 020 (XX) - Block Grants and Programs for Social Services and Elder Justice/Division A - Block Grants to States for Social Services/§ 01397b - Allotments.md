@@ -48,7 +48,7 @@ A prior section 1397b, act Aug. 14, 1935, ch. 531, title XX, §2003, as added Ja
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c)(7). Pub. L. 105–178 added par. (7) and struck out former par. (7) which read as follows:"$2,380,000,000 for each of the fiscal years 1997 through 2002; and".
+<b>1998</b>—Subsec. (c)(7). Pub. L. 105–178 added par. (7) and struck out former par. (7) which read as follows: "$2,380,000,000 for each of the fiscal years 1997 through 2002; and".
 
 Subsec. (c)(8). Pub. L. 105–277 added par. (8) and struck out former par. (8) which read as follows: "$2,380,000,000 for the fiscal year 1998;".
 
@@ -62,7 +62,7 @@ Subsec. (c)(9) to (11). Pub. L. 105–178 added pars. (9) to (11).
 
 Subsec. (c)(5). Pub. L. 101–239, §8016(2), (3), added par. (5).
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203, §9135(a)(2)(A), inserted at end "The allotment for fiscal year 1989 and each succeeding fiscal year to American Samoa shall be an amount which bears the same ratio to the amount allotted to the Northern Mariana Islands for that fiscal year as the population of American Samoa bears to the population of the Northern Mariana Islands determined on the basis of the most recent data available at the time such allotment is determined."
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §9135(a)(2)(A), inserted at end "The allotment for fiscal year 1989 andeach succeeding fiscal year to American Samoa shall be an amount which bears the same ratio to the amount allotted to the Northern Mariana Islands for that fiscal year as the population of American Samoa bears to the population of the Northern Mariana Islands determined on the basis of the most recent data available at the time such allotment is determined."
 
 Subsec. (b). Pub. L. 100–203, §9135(a)(2)(B), inserted "American Samoa," after "the Virgin Islands," in two places.
 
@@ -124,7 +124,7 @@ Pub. L. 98–473, title IV, §401, Oct. 12, 1984, 98 Stat. 2195, provided that:
 
 &emsp;"(3) be separately accounted for in the reports and audits provided for in section 2006 of the Social Security Act \[42 U.S.C. 1397e\].
 
-"(c)(1) In order to provide guidance and assistance to the States in utilizing funds allocated pursuant to title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\], not later than 3 months after the date of enactment of this section \[Oct. 12, 1984\], the Secretary shall draft anddistribute to the States for their consideration, a Model Child Care Standards Act containing—
+"(c)(1) In order to provide guidance and assistance to the States in utilizing funds allocated pursuant to title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\], not later than 3 months after the date of enactment of this section \[Oct. 12, 1984\], the Secretary shall draft and distribute to the States for their consideration, a Model Child Care Standards Act containing—
 
 &emsp;"(A) minimum licensing or registration standards for day care centers, group homes, and family day care homes regarding matters including—
 

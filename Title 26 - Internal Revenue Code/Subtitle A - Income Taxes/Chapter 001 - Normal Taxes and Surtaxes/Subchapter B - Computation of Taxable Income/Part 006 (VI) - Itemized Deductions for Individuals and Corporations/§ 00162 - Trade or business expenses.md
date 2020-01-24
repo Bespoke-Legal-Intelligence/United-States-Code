@@ -32,7 +32,7 @@ No deduction shall be allowed under subsection (a) for any contribution or gift 
 
 #### (d) Capital contributions to Federal National Mortgage Association
 
-For purposes of this subtitle, whenever the amount of capital contributions evidenced by a share of stock issued pursuant to section 303(c) of the Federal National Mortgage Association Charter Act (12 U.S.C., sec. 1718) exceeds the fair market value of the stock as of the issue date of such stock, the initial holder of the stock shall treat the excess as ordinary and necessary expenses paid or incurred during the taxable year in carrying on a trade or business.
+For purposes of this subtitle, whenever the amount of capital contributions evidenced by a share of stock issued pursuant to section 303(c)of the Federal National Mortgage Association Charter Act (12 U.S.C., sec. 1718) exceeds the fair market value of the stock as of the issue date of such stock, the initial holder of the stock shall treat the excess as ordinary and necessary expenses paid or incurred during the taxable year in carrying on a trade or business.
 
 #### (e) Denial of deduction for certain lobbying and political expenditures
 
@@ -118,7 +118,7 @@ For purposes of this subtitle, whenever the amount of capital contributions evid
 
 &emsp;&emsp;&emsp;(i) the taxpayer establishes—
 
-&emsp;&emsp;&emsp;&emsp;(I) constitutes restitution (including remediation of property) for damage or harm which was or may be caused by the violation of any law or the potential violation of any law, or
+&emsp;&emsp;&emsp;&emsp;(I) constitutes restitution (including remediation of property) for damage orharm which was or may be caused by the violation of any law or the potential violation of any law, or
 
 &emsp;&emsp;&emsp;&emsp;(II) is paid to come into compliance with any law which was violated or otherwise involved in the investigation or inquiry described in paragraph (1),
 
@@ -176,7 +176,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;For purposes of paragraph (1), a legislative day during any taxable year for any individual shall be any day during such year on which—
 
-&emsp;&emsp;(A) the legislature was in session (including any day in which the legislature was notin session for a period of 4 consecutive days or less), or
+&emsp;&emsp;(A) the legislature was in session (including any day in which the legislature was not in session for a period of 4 consecutive days or less), or
 
 &emsp;&emsp;(B) the legislature was not in session but the physical presence of the individual was formally recorded at a meeting of a committee of such legislature.
 
@@ -340,7 +340,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;&emsp;(i) in the case of executive remuneration for any applicable taxable year which is attributable to services performed by a covered executive during such applicable taxable year, to the extent that the amount of such remuneration exceeds $500,000, or
 
-&emsp;&emsp;&emsp;(ii) in the case of deferred deduction executive remuneration for any taxable yearfor services performed during any applicable taxable year by a covered executive, to the extent that the amount of such remuneration exceeds $500,000 reduced (but not below zero) by the sum of—
+&emsp;&emsp;&emsp;(ii) in the case of deferred deduction executive remuneration for any taxable year for services performed during any applicable taxable year by a covered executive, to the extent that the amount of such remuneration exceeds $500,000 reduced (but not below zero) by the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the executive remuneration for such applicable taxable year, plus
 
@@ -352,7 +352,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "applicable employer" means any employer from whom 1 or more troubled assets are acquired under a program established by the Secretary under section 101(a) of the Emergency Economic Stabilization Act of 2008 if the aggregate amount of the assets so acquired for all taxable years exceeds $300,000,000.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "applicable employer" means any employer from whom 1 or more troubled assets are acquired under a program established by the Secretary under section 101(a) of the Emergency Economic Stabilization Act of 2008 if the aggregateamount of the assets so acquired for all taxable years exceeds $300,000,000.
 
 #### (ii) Disregard of certain assets sold through direct purchase
 
@@ -486,7 +486,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (2) State law exception
 
-&emsp;Paragraph (1) shall not apply to any group health plan which is not required under the laws of the State of New York (determined without regard to this subsection or other provisions of Federal law) to reimburse at the rates provided in paragraph (1).
+&emsp;Paragraph (1) shall not apply to any group health plan which is not required under thelaws of the State of New York (determined without regard to this subsection or other provisions of Federal law) to reimburse at the rates provided in paragraph (1).
 
 #### (3) Group health plan
 
@@ -693,7 +693,7 @@ Subsec. (l)(1)(B). Pub. L. 105–34, §934(a), amended table generally. Prior to
 | <b>"For taxable years beginning in calendar year—</b> | <b>The applicable percentage is—</b> |
 | :--- | ---: |
 | &nbsp;&nbsp;&nbsp;1997 | 40 percent&nbsp; |
-| &nbsp;&nbsp;&nbsp;1998 through 2002 | 45 percent  |
+| &nbsp;&nbsp;&nbsp;1998 through 2002 | 45 percent&nbsp; |
 | &nbsp;&nbsp;&nbsp;2003 | 50 percent&nbsp; |
 | &nbsp;&nbsp;&nbsp;2004 | 60 percent&nbsp; |
 | &nbsp;&nbsp;&nbsp;2005 | 70 percent&nbsp; |
@@ -713,7 +713,7 @@ Subsec. (l)(1). Pub. L. 104–191, §311(a), amended par. (1) generally. Prior t
 
 "(1)
 
-In general.—In the case of an individual who is an employee within the meaning of section 401(c)(1), there shall be allowed as a deduction under this section an amount equal to 30 percent of the amount paid during the taxable year for insurance which constitutes medical care for the taxpayer, his spouse, and dependents."
+In general.—In the case of an individual who is an employee within the meaning of section 401(c)(1), there shall be allowed as a deduction under this sectionan amount equal to 30 percent of the amount paid during the taxable year for insurance which constitutes medical care for the taxpayer, his spouse, and dependents."
 
 Subsec. (l)(2)(C). Pub. L. 104–191, §322(b)(2)(B), added subpar. (C).
 
@@ -805,7 +805,7 @@ Subsec. (k)(2)(A). Pub. L. 99–514, §1895(d)(1)(A), inserted "If coverage unde
 
 Subsec. (k)(2)(B)(i). Pub. L. 99–514, §1895(d)(2)(A), substituted "Maximum required period" for "Maximum period" in heading and amended text generally. Prior to amendment, text read as follows: "In the case of—
 
-&emsp;"(I) a qualifying event described in paragraph (3)(B) (relating to terminations and reduced hours), the date which is 18 months after the date of the qualifying event, and
+&emsp;"(I) a qualifying event described in paragraph (3)(B) (relating to terminations and reduced hours), thedate which is 18 months after the date of the qualifying event, and
 
 &emsp;"(II) any qualifying event not described in subclause (I), the date which is 36 months after the date of the qualifying event."
 
@@ -879,7 +879,7 @@ Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out in pars. (1) and (2)
 
 <b>1971</b>—Subsec. (c). Pub. L. 92–178, §310(a)(2), substituted "Illegal bribes, kickbacks, and other payments" for "Bribes and illegal kickbacks" in heading.
 
-Subsec. (c)(2). Pub. L. 92–178, §310(a)(1), substituted provisions respecting "Other illegal payments" for former provisions on "Other bribes or kickbacks" reading "If in a criminal proceeding a taxpayer is convicted of making a payment (other than a payment describedin paragraph (1) which is an illegal bribe or kickback, or his plea of guilty or nolo contendere to an indictment or information charging the making of such a payment is entered or accepted in such a proceeding, no deduction shall be allowed under subsection (a) on account of such payment or any related payment made prior to the date of the final judgment in such proceeding."
+Subsec. (c)(2). Pub. L. 92–178, §310(a)(1), substituted provisions respecting "Other illegal payments" for former provisions on "Other bribes or kickbacks" reading "If in a criminal proceeding a taxpayer is convicted of making a payment (other than a payment described in paragraph (1) which is an illegal bribe or kickback, or his plea of guilty or nolo contendere to an indictment or information charging the making of such a payment is entered or accepted in such a proceeding, no deduction shall be allowed under subsection (a) on account of such payment or any related payment made prior to the date of the final judgment in such proceeding."
 
 Subsec. (c)(3). Pub. L. 92–178, §310(a)(1), substituted provisions respecting kickbacks, rebates, and bribes under medicare and medicaid for former statute of limitations provisions.
 
@@ -889,7 +889,7 @@ Subsecs. (f), (g). Pub. L. 91–172, §902(a), added subsecs. (f) and (g). Forme
 
 Subsec. (h). Pub. L. 91–172, §§516(c)(2)(A), 902(a), redesignated former subsec. (f) as (h), substituted "(1) For" for "For", and inserted reference to section 1253 for special rule relating to the treatment of payments by a transferee of a franchise, trademark, or trade name.
 
-<b>1962</b>—Subsec. (a)(2). Pub. L. 87–834, §4(b), substituted "(including amounts expended for meals and lodging other than amounts which are lavish or extravagant under the circumstances)" for "including the entire amount expended for meals and lodging)".
+<b>1962</b>—Subsec. (a)(2). Pub. L. 87–834, §4(b), substituted "(including amounts expended for meals and lodgingother than amounts which are lavish or extravagant under the circumstances)" for "including the entire amount expended for meals and lodging)".
 
 Subsecs. (e), (f). Pub. L. 87–834, §3(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -1065,7 +1065,7 @@ Assistance.—The Secretary of the Treasury or his delegate shall provide guidan
 
 Pub. L. 99–514, title XVIII, §1895(d)(6)(D), Oct. 22, 1986, 100 Stat. 2939, provided that: "The amendments made by this paragraph \[amending this section, section 1166 of Title 29, Labor, and section 300bb–6 of Title 42, The Public Health and Welfare\] shall only apply with respect to qualifying events occurring after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
-Pub. L. 99–514, title XVIII, §1895(e), Oct. 22, 1986, 100 Stat. 2940, provided that: "Except as otherwise provided in this section, the amendments made by this section \[amending this section, section 3121 of this title, sections 1162 and 1165 to 1167 of Title 29, sections 300bb–2, 300bb–5, 300bb–6, 410, 1301, 1320c–13, 1395p, 1395u, 1395cc, 1395dd, 1395mm, 1395ww, 1395yy, 1396a, 1396b, 1396d, and 1396s of Title 42, enacting provisions set out as notes under this section, section 3121 of this title, section 1167 of Title 29, and sections 1395u, 1395y, 1395ww, and 1395yy of Title 42, and amending provisions set out as notes under sections 403, 1395u, 1395cc, 1395mm, 1395ww, 1395yy, and 1396b of Title 42\] shall be effective as if included in the enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[Pub. L. 99–272\]."
+Pub. L. 99–514, title XVIII, §1895(e), Oct. 22, 1986, 100 Stat. 2940, provided that: "Except as otherwise providedin this section, the amendments made by this section \[amending this section, section 3121 of this title, sections 1162 and 1165 to 1167 of Title 29, sections 300bb–2, 300bb–5, 300bb–6, 410, 1301, 1320c–13, 1395p, 1395u, 1395cc, 1395dd, 1395mm, 1395ww, 1395yy, 1396a, 1396b, 1396d, and 1396s of Title 42, enacting provisions set out as notes under this section, section 3121 of this title, section 1167 of Title 29, and sections 1395u, 1395y, 1395ww, and 1395yy of Title 42, and amending provisions set out as notes under sections 403, 1395u, 1395cc, 1395mm, 1395ww, 1395yy, and 1396b of Title 42\] shall be effective as if included in the enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[Pub. L. 99–272\]."
 
 Amendment by section 9307(c)(2)(B) of Pub. L. 99–509 effective as if included in the enactment of Tax Reform Act of 1986, Pub. L. 99–514, see section 9307(c)(2) of Pub. L. 99–509, set out as a note under section 1395u of Title 42.
 
@@ -1171,7 +1171,7 @@ Pub. L. 97–51, §139(a), Oct. 1, 1981, 95 Stat. 967, which expressed the sense
 
 #### State Legislators' Travel Expenses Away From Home
 
-Pub. L. 94–455, title VI, §604, Oct. 4, 1976, 90 Stat. 1575, as amended by Pub. L. 95–30, title III, §307, May 23, 1977,91 Stat. 153; Pub. L. 95–258, §2, Apr. 7, 1978, 92 Stat. 195; Pub. L. 96–167, §3, Dec. 29, 1979, 93 Stat. 1275; Pub. L. 96–178, §1, Jan. 2, 1980, 93 Stat. 1295; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title VI, §604, Oct. 4, 1976, 90 Stat. 1575, as amended by Pub. L. 95–30, title III, §307, May 23, 1977, 91 Stat. 153; Pub. L. 95–258, §2, Apr. 7, 1978, 92 Stat. 195; Pub. L. 96–167, §3, Dec. 29, 1979, 93 Stat. 1275; Pub. L. 96–178, §1, Jan. 2, 1980, 93 Stat. 1295; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(a) In
 
@@ -1183,7 +1183,7 @@ General.—For purposes of section 162(a) of the Internal Revenue Code of 1986 \
 
 "(b)
 
-Legislative Days.—For purposes of subsection (a), a legislative day during any taxable year for any individual shall be any day during such year on which (1) the legislature was in session (including any day in which the legislature was not in session for a period of 4 consecutive days or less), or (2) the legislature was not in session but the physical presence of the individual was formally recorded at a meeting of a committee of such legislature.
+Legislative Days.—For purposes of subsection (a), a legislative day during any taxable year for anyindividual shall be any day during such year on which (1) the legislature was in session (including any day in which the legislature was not in session for a period of 4 consecutive days or less), or (2) the legislature was not in session but the physical presence of the individual was formally recorded at a meeting of a committee of such legislature.
 
 "(c)
 

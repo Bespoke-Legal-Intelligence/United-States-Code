@@ -28,7 +28,7 @@ Beginning on the date that is 2 years after the date of enactment of this subcha
 
 &emsp;(4) The status of prison work programs at facilities operated by the Bureau of Prisons, including—
 
-&emsp;&emsp;(A) a strategy to expand the availability of such programs without reducing job opportunities for workers in the United States who are not in the custody of the Bureau of Prisons, including the feasibility of prisoners manufacturing products purchased by Federal agencies that are manufactured overseas;
+&emsp;&emsp;(A) a strategy to expand the availability of such programs without reducing job opportunities for workers in the United Stateswho are not in the custody of the Bureau of Prisons, including the feasibility of prisoners manufacturing products purchased by Federal agencies that are manufactured overseas;
 
 &emsp;&emsp;(B) an assessment of the feasibility of expanding such programs, consistent with the strategy required under subparagraph (A), with the goal that 5 years after the date of enactment of this subchapter, not less than 75 percent of eligible minimum- and low-risk offenders have the opportunity to participate in a prison work program for not less than 20 hours per week; and
 

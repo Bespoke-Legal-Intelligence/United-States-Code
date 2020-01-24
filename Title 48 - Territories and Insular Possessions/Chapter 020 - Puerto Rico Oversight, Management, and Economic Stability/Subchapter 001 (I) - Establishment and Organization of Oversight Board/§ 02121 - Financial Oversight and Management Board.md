@@ -94,7 +94,7 @@ An Oversight Board established under this section—
 
 &emsp;(D) The Category A member shall maintain a primary residence in the territory or have a primary place of business in the territory.
 
-&emsp;(E) With respect to the appointment of a Board member in Category A, B, C, D, or E,such an appointment shall be by and with the advice and consent of the Senate, unless the President appoints an individual from a list, as provided in this subsection, in which case no Senate confirmation is required.
+&emsp;(E) With respect to the appointment of a Board member in Category A, B, C, D, or E, such an appointment shall be by and with the advice and consent of the Senate, unless the President appoints an individual from a list, as provided in this subsection, in which case no Senate confirmation is required.
 
 &emsp;(F) In the event of a vacancy of a Category A, B, C, D, or E Board seat, the corresponding congressional leader referenced in subparagraph (A) shall submit a list pursuant to this subsection within a timely manner of the Board member's resignation or removal becoming effective.
 
@@ -164,5 +164,5 @@ Members of the Oversight Board shall serve without pay, but may receive reimburs
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(2), (d)(1)(A), (2)(A), (e)(4), and (h)(1), (3), was in the original "thisAct", meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
+This chapter, referred to in subsecs. (b)(2), (d)(1)(A), (2)(A), (e)(4), and (h)(1), (3), was in the original "this Act", meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
 

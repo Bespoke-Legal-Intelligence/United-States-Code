@@ -8,7 +8,7 @@
 
 #### (2) Participation among States
 
-&emsp;The Secretary shall ensure, to the maximum extent practicable, that owners and operators in each State have an equitable opportunity to participate in the program established under this section.
+&emsp;The Secretary shall ensure, to the maximum extent practicable, that owners and operatorsin each State have an equitable opportunity to participate in the program established under this section.
 
 #### (b) Eligible acreage
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;(iii) is of such width as the Secretary determines is necessary to protect such land, taking into consideration and accommodating the farming practices (including the straightening of boundaries to accommodate machinery) used with respect to the cropland that surrounds such land; and
 
-&emsp;&emsp;(B) with respect to land described in subparagraph (D) of paragraph (1), enhances awildlife benefit to the extent practicable in terms of upland to wetland ratios, as determined by the Secretary.
+&emsp;&emsp;(B) with respect to land described in subparagraph (D) of paragraph (1), enhances a wildlife benefit to the extent practicable in terms of upland to wetland ratios, as determined by the Secretary.
 
 #### (c) Program limitations
 

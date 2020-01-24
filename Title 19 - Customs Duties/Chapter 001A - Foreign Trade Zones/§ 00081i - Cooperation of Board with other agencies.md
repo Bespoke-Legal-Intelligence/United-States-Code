@@ -16,9 +16,9 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department transferred, with a few exceptions, to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by former sections 1 and 2 of Reorg. Plan No. 2 of 1950, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5. The Immigration and Naturalization Service, referred to in this section, was in Department of Justice.
 
-Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in himto authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. Customs Service was under Department of the Treasury.
+Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. Customs Service was under Department of the Treasury.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
 

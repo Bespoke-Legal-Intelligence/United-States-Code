@@ -102,7 +102,7 @@ The Controlled Substances Import and Export Act, referred to in subsec. (m)(2), 
 
 #### Codification
 
-Section is based on the designated subsections of section 401 of act June 17, 1930, as amended. The last undesignated paragraph of section 401, as added by section201 of act Aug. 5, 1935, was classified to section 1432a of this title, prior to being repealed by Pub. L. 103–182, §690(c)(5), Dec. 8, 1993, 107 Stat. 2223.
+Section is based on the designated subsections of section 401 of act June 17, 1930, as amended. The last undesignated paragraph of section 401, as added by section 201 of act Aug. 5, 1935, was classified to section 1432a of this title, prior to being repealed by Pub. L. 103–182, §690(c)(5), Dec. 8, 1993, 107 Stat. 2223.
 
 Words "the Philippine Islands" formerly set out in subsec. (h) were omitted on authority of Proc. No. 2695, which is set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse, and in which the President proclaimed the independence of the Philippines.
 
@@ -112,7 +112,7 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 Section III of the Underwood Tariff Act of Oct. 3, 1913, ch. 16, 38 Stat. 181, amending the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 131, was repealed by section 643 of the act of Sept. 21, 1922, ch. 356, title IV, 42 Stat. 989.
 
-Section III, by subdivision A thereof, amended the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 131, as previously amended, to read as set forth in section III, subdivisions B–CC. By that amendment and reenactment, the Customs Administrative Act of June 10, 1890, and the amendments thereof by act July 24, 1897, ch. 11, §32, 30 Stat. 211, act May 17, 1898, ch. 341, 30 Stat. 417, Act Dec. 15, 1902, ch. 1, 32 Stat. 753, act May 27, 1908, ch. 205, 35 Stat. 403, and the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 91, were superseded, except the provisions thereof mentioned in a proviso of section IV, S, of that act.
+Section III, by subdivision A thereof, amended the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 131, as previously amended, to read as set forth in section III, subdivisions B–CC. By that amendment and reenactment, the Customs Administrative Act of June 10, 1890, and the amendments thereof by act July 24, 1897, ch. 11, §32, 30 Stat. 211, act May 17, 1898, ch. 341, 30 Stat. 417, Act Dec. 15, 1902, ch. 1, 32 Stat. 753, act May27, 1908, ch. 205, 35 Stat. 403, and the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 91, were superseded, except the provisions thereof mentioned in a proviso of section IV, S, of that act.
 
 The Customs Administrative Act of June 10, 1890, as originally enacted and as amended previous to the Payne-Aldrich Tariff Act, consisted of thirty sections, of which section 30 prescribed the time when the act should go into effect. Of the preceding twenty-nine sections of the original act, section 15 providing for review by the courts of decisions of the Board of General Appraisers, was omitted from the act as further amended by the Payne-Aldrich Tariff Act, and the remaining twenty-eight sections were amended thereby, constituting sections 1–28 thereof. A new section, designated as section 29, was added by the Payne-Aldrich Tariff Act, which created a Court of Customs Appeals and prescribed its jurisdiction and powers, proceedings, etc. Its provisions were incorporated in and superseded by chapter 8 of the Judicial Code of March 3, 1911. Another new section, designated as section 30, was also added by the Payne-Aldrich Tariff Act, which provided for the appointment of an Assistant Attorney-General, a Deputy Assistant Attorney-General, and attorneys, in charge of matters of reappraisement, etc., of imported goods and litigation incident thereto. Section 30 was incorporated into the Code as section 296 of former Title 5, Executive Departments and Government Officers and Employees, and subsequently repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632.
 
@@ -180,7 +180,7 @@ United States Customs Service substituted for Bureau of Customs in subsec. (i) p
 
 Pub. L. 108–429, title I, §1561(d), Dec. 3, 2004, 118 Stat. 2582, provided that: "This section \[amending this section and section 1629 of this title and repealing provisions set out as a note under section 1629 of this title\], and the amendments made by this section, take effect on the date of the enactment of this Act \[Dec. 3, 2004\]."
 
-Pub. L. 108–429, title II, §2108, Dec. 3, 2004, 118 Stat. 2598, provided that: "The amendments made by thissubtitle \[subtitle B (§§2101–2108) of title II of Pub. L. 108–429, amending this section and sections 1484, 1501, 1504, 1514, 1515, and 1520 of this title\] shall apply to merchandise entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Dec. 3, 2004\]."
+Pub. L. 108–429, title II, §2108, Dec. 3, 2004, 118 Stat. 2598, provided that: "The amendments made by this subtitle \[subtitle B (§§2101–2108) of title II of Pub. L. 108–429, amending this section and sections 1484, 1501, 1504, 1514, 1515, and 1520 of this title\] shall apply to merchandise entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Dec. 3, 2004\]."
 
 #### Effective Date of 1996 Amendment
 
@@ -196,7 +196,7 @@ Act June 30, 1955, ch. 258, §2(d), 69 Stat. 242, provided that: "The amendments
 
 #### Effective Date of 1938 Amendment
 
-Act June 25, 1938, ch. 679, §37, 52 Stat. 1094, provided that: "Sections 31 and 34 of this Act \[amending section 1001 of this title\] shall take effect on the date of enactment of this Act \[June 25, 1938\]. Except as otherwise specially provided in this Act, the remainder of this Act \[amending this section and sections 1001, 1201, 1304, 1308, 1309, 1315, 1317, 1402, 1451, 1459, 1460, 1484, 1485, 1491, 1499, 1501, 1516, 1520, 1524, 1553, 1557, 1558, 1559, 1562, 1563, 1603, 1607, 1609, 1613, 1623, and 1709 of this title, enacting sections 1321, 1467, and 1528 of this title, and amending section 331 of former Title 46, Shipping\] shall take effect on the thirtieth day following the date of its enactment."
+Act June 25, 1938, ch. 679, §37, 52 Stat. 1094, provided that: "Sections 31 and 34 of this Act \[amending section 1001 of this title\] shall take effect on the date of enactment of this Act \[June 25, 1938\]. Except as otherwisespecially provided in this Act, the remainder of this Act \[amending this section and sections 1001, 1201, 1304, 1308, 1309, 1315, 1317, 1402, 1451, 1459, 1460, 1484, 1485, 1491, 1499, 1501, 1516, 1520, 1524, 1553, 1557, 1558, 1559, 1562, 1563, 1603, 1607, 1609, 1613, 1623, and 1709 of this title, enacting sections 1321, 1467, and 1528 of this title, and amending section 331 of former Title 46, Shipping\] shall take effect on the thirtieth day following the date of its enactment."
 
 #### Transfer of Functions
 

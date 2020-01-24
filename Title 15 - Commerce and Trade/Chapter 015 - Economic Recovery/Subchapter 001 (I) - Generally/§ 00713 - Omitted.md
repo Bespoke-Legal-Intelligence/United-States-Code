@@ -8,7 +8,7 @@ Subsec. (a), continuing the Commodity Credit Corporation, a Delaware corporation
 
 Initial proviso clause of subsec. (b), "That the Corporation shall continue to have the authority to make final and conclusive settlement and adjustment of any claims by or against the Corporation or the accounts of its fiscal officers" was superseded by section 714b(k) of this title.
 
-Remainder of section, relating to audit of financial transactions of the Corporation, was superseded by sections 841 to 870 of former Title 31 \[see chapter 91 ofTitle 31, Money and Finance\]. See, particularly, sections 846, 850 and 851 of former title 31 \[31 U.S.C. 9101(3), 9105 and 9106\].
+Remainder of section, relating to audit of financial transactions of the Corporation, was superseded by sections 841 to 870 of former Title 31 \[see chapter 91 of Title 31, Money and Finance\]. See, particularly, sections 846, 850 and 851 of former title 31 \[31 U.S.C. 9101(3), 9105 and 9106\].
 
 #### Repeals
 

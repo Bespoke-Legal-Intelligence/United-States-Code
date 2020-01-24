@@ -92,7 +92,7 @@ Formal exam review.—The Secretary shall ensure that the Coast Guard Performanc
 
 &emsp;&emsp;(A) prioritizes the review of examinations required for merchant mariner credentials; and
 
-&emsp;&emsp;(B) not later than 3 years after the date of enactment of the Coast Guard Authorization Act of 2016, completes a formal review, including an appropriate analysis, of the topics and testing methodology employed by the National Maritime Center for merchant seamen licensing.
+&emsp;&emsp;(B) not later than 3 years after the date of enactment of the Coast Guard AuthorizationAct of 2016, completes a formal review, including an appropriate analysis, of the topics and testing methodology employed by the National Maritime Center for merchant seamen licensing.
 
 &emsp;(9)
 

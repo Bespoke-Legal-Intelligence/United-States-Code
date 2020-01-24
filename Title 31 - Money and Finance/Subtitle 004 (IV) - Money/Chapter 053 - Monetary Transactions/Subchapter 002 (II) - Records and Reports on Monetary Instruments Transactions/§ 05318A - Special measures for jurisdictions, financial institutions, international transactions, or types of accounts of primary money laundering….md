@@ -136,7 +136,7 @@ Institutional factors.—In the case of a decision to apply 1 or more of the spe
 
 (d)
 
-Notification of Special Measures Invoked by the Secretary.—Not later than 10 days after the date of any action taken by the Secretary of the Treasury under subsection (a)(1), the Secretary shall notify, in writing, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of any such action.
+Notification of Special Measures Invoked by the Secretary.—Not later than 10days after the date of any action taken by the Secretary of the Treasury under subsection (a)(1), the Secretary shall notify, in writing, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of any such action.
 
 (e)
 
@@ -210,7 +210,7 @@ Subsec. (e)(3). Pub. L. 108–458, §6203(f)(4), inserted "or subsection (i) or 
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of Title 12, Banks and Banking.
+Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, setout as a note under section 1828 of Title 12, Banks and Banking.
 
 #### "Federal Functional Regulator" Includes Commodity Futures Trading Commission
 

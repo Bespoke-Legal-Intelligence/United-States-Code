@@ -2,7 +2,7 @@
 
 #### (a) Federal control prohibited
 
-Nothing in this subchapter shall be construed to permit, allow, encourage, or authorize any Federal control over any aspect of any private, religious, or home school, whether or not a home school is treated as a private school or home school under State law. This section shall not be construed to prohibit private, religious, or home schools from participation in programs or services under this subchapter.
+Nothing in this subchapter shall be construed to permit, allow, encourage, or authorize any Federal control over any aspect of any private, religious, or home school, whether or not a home school is treated as a private school or home school under State law. This section shallnot be construed to prohibit private, religious, or home schools from participation in programs or services under this subchapter.
 
 #### (b) No change in State control encouraged or required
 
@@ -34,7 +34,7 @@ Another prior section 1042, Pub. L. 89–329, title II, §232, as added Pub. L. 
 
 Another prior section 1042, Pub. L. 89–329, title II, §232, as added Pub. L. 94–482, title I, §107, Oct. 12, 1976, 90 Stat. 2090; amended Pub. L. 96–49, §3(b), Aug. 13, 1979, 93 Stat. 351, which authorized appropriations through fiscal year 1980, was omitted in the general amendment of this subchapter by Pub. L. 96–374.
 
-Another prior section 1042, Pub. L. 89–329, title II, §232, as added Pub. L. 92–318, title I, §115(a), June 23, 1972, 86 Stat. 241, which required an evaluation and report to Congressional committees by the Librarian of the Congress, was omitted in the general amendment offormer part C of this subchapter by Pub. L. 94–482, title I, §107, Oct. 12, 1976, 90 Stat. 2090.
+Another prior section 1042, Pub. L. 89–329, title II, §232, as added Pub. L. 92–318, title I, §115(a), June 23, 1972, 86 Stat. 241, which required an evaluation and report to Congressional committees by the Librarian of the Congress, was omitted in the general amendment of former part C of this subchapter by Pub. L. 94–482, title I, §107, Oct. 12, 1976, 90 Stat. 2090.
 
 A prior section 1043, Pub. L. 89–329, title II, §223, as added Pub. L. 107–110, title X, §1051(3), Jan. 8, 2002, 115 Stat. 2082, related to use of funds, prior to repeal by Pub. L. 110–315, title II, §201(3), Aug. 14, 2008, 122 Stat. 3154.
 
@@ -64,7 +64,7 @@ Section 1047c, Pub. L. 89–329, title II, §244, as added Pub. L. 96–374, tit
 
 Section 1047d, Pub. L. 89–329, title II, §245, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1388, related to director and staff of National Periodical System Corporation.
 
-Section 1047e, Pub. L. 89–329, title II, §246, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1388, related to nonprofit nature of National Periodical System Corporation.
+Section 1047e, Pub. L. 89–329, title II, §246, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1388,related to nonprofit nature of National Periodical System Corporation.
 
 Section 1047f, Pub. L. 89–329, title II, §247, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1388, related to authority of National Periodical System Corporation.
 

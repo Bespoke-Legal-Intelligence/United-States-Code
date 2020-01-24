@@ -42,7 +42,7 @@
 
 #### (D) Mandatory funding
 
-&emsp;&emsp;Notwithstanding section 661c of title 2, out of any funds in the Treasury not otherwiseappropriated, the Secretary of the Treasury shall make available such sums as necessary to cover any loan modification costs as defined in section 661a of title 2.
+&emsp;&emsp;Notwithstanding section 661c of title 2, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall make available such sums as necessary to cover any loan modification costs as defined in section 661a of title 2.
 
 #### (b) Uses of cushion of credit payments
 

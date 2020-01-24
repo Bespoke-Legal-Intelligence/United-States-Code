@@ -6,7 +6,7 @@
 
 (c) The Director of the Government Publishing Office, or other printer designated by the Supreme Court of the United States, upon request, shall furnish to the Superintendent of Documents the reports required to be distributed under the provisions of this section.
 
-(June 25, 1948, ch. 646, 62 Stat. 904; May 24, 1949, ch. 139, §68, 63 Stat. 99; Oct. 31, 1951, ch. 655, §41, 65 Stat. 725; July 10, 1952, ch. 632, §4, 66 Stat. 540; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
+(June 25, 1948, ch. 646, 62 Stat. 904; May 24, 1949, ch. 139, §68, 63 Stat. 99; Oct. 31, 1951, ch. 655, §41,65 Stat. 725; July 10, 1952, ch. 632, §4, 66 Stat. 540; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### Historical and Revision Notes
 

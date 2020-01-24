@@ -70,7 +70,7 @@ Pub. L. 107–368, §20, Dec. 19, 2002, 116 Stat. 3063, provided that: "As part 
 
 &emsp;"(2) a description of past and present policies and activities of the Foundation to encourage full participation of women, minorities, and persons with disabilities in science, mathematics, and engineering fields, including activities in support of minority-serving institutions; and
 
-&emsp;"(3) an assessment of the trends in participation in Foundation activities, and an assessment of the success of Foundation policies and activities, along with proposals for new strategies or the broadening of existing successful strategies toward facilitating the goals of that Act \[42 U.S.C. 1885 et seq.\]."
+&emsp;"(3) an assessment of the trends in participation in Foundation activities, and an assessment of the success of Foundation policies and activities, along withproposals for new strategies or the broadening of existing successful strategies toward facilitating the goals of that Act \[42 U.S.C. 1885 et seq.\]."
 
 \[For definitions of terms used in section 20 of Pub. L. 107–368, set out above, see section 4 of Pub. L. 107–368, set out as a note under section 1862n of this title.\]
 

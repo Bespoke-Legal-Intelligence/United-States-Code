@@ -14,7 +14,7 @@ Exception.—An entity described in subsection (a) may have a direct financial i
 
 &emsp;&emsp;(B) the Department took appropriate steps to prevent any organizational conflict of interest in the selection process; or
 
-&emsp;(2) the entity was selected by a subcontractor to serve as a lower-tier subcontractor, through a process over which the entity exercised no control.
+&emsp;(2) the entity was selected by a subcontractor to serve as a lower-tier subcontractor,through a process over which the entity exercised no control.
 
 (c)
 
@@ -32,7 +32,7 @@ Pub. L. 109–364, div. A, title VIII, §807(b), Oct. 17, 2006, 120 Stat. 2316, 
 
 #### Prohibition on New Lead Systems Integrators
 
-Pub. L. 110–181, div. A, title VIII, §802, Jan. 28, 2008, 122 Stat. 206, as amended by Pub. L. 110–417, \[div. A\], title I, §112, Oct. 14, 2008, 122 Stat. 4374, provided that:
+Pub. L. 110–181, div. A, title VIII, §802, Jan. 28, 2008, 122 Stat. 206, as amended by Pub. L. 110–417, \[div. A\], title I, §112, Oct. 14, 2008, 122 Stat. 4374; Pub. L. 116–92, div. A, title IX, §902(100), Dec. 20, 2019, 133 Stat. 1555, provided that:
 
 "(a)
 
@@ -58,7 +58,7 @@ Requirements relating to determinations.—A determination under paragraph (2)(B
 
 &emsp;&emsp;"(B) shall include a plan for phasing out the use of contracted lead systems integrator functions over the shortest period of time consistent with the interest of the national defense;
 
-&emsp;&emsp;"(C) may not be delegated below the level of the Under Secretary of Defense for Acquisition, Technology, and Logistics; and
+&emsp;&emsp;"(C) may not be delegated below the level of the Under Secretary of Defense for Acquisition and Sustainment; and
 
 &emsp;&emsp;"(D) shall be provided to the Committees on Armed Services of the Senate and the House of Representatives at least 45 days before the award of a contract pursuant to the determination.
 

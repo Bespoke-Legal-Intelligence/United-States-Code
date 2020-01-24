@@ -8,7 +8,7 @@ The Attorney General shall, subject to amounts made available pursuant to sectio
 
 #### (1) In general
 
-&emsp;To be eligible to receive a grant under this section, in addition to any other requirements specified by the Attorney General, a State shall submit to the Attorney General an application that demonstrates that it has statutory authorization for the implementation of a DNA arrestee collection process.
+&emsp;To be eligible to receive a grant under this section, in addition to any other requirements specified by the Attorney General, a Stateshall submit to the Attorney General an application that demonstrates that it has statutory authorization for the implementation of a DNA arrestee collection process.
 
 #### (2) Non-supplanting funds
 

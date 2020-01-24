@@ -24,7 +24,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (2) Identifying critical coastal areas
 
-&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land usesor substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g).
+&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g).
 
 #### (3) Management measures
 
@@ -130,7 +130,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (4) Allocation
 
-&emsp;Amounts available for grants under this subsection shall be allocated among States in accordance with regulations issued pursuant to section 306(c) of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455(c)\], except that the Secretary may use not more than 25 percent of amounts available for such grants to assist States which the Secretary, in consultation with the Administrator, determines are making exemplary progress in preparing a State program under this section or have extreme needs with respect to coastal water quality.
+&emsp;Amounts available for grants under this subsection shall be allocated among States in accordance with regulations issued pursuant to section 306(c) of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455(c)\], except that the Secretary may use not more than 25 percent ofamounts available for such grants to assist States which the Secretary, in consultation with the Administrator, determines are making exemplary progress in preparing a State program under this section or have extreme needs with respect to coastal water quality.
 
 #### (g) Guidance for coastal nonpoint source pollution control
 
@@ -178,7 +178,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (2) Secretary
 
-&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) <sup>1</sup> of the Coastal Zone Management Act of 1972,as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f).
+&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) <sup>1</sup> of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f).
 
 &emsp;(B) There is authorized to be appropriated to the Secretary for use for providing in the form of grants under subsection (f) not more than—
 
@@ -218,7 +218,7 @@ Section 318(a) of the Coastal Zone Management Act of 1972, referred to in subsec
 
 #### Codification
 
-Section was enacted as part of the Coastal Zone Act Reauthorization Amendments of 1990 and also as part of the Omnibus Budget Reconciliation Act of 1990, and not as part of the Coastal Zone Management Act of 1972 which comprises this chapter.
+Section was enacted as part of the Coastal Zone Act Reauthorization Amendments of 1990 and also as partof the Omnibus Budget Reconciliation Act of 1990, and not as part of the Coastal Zone Management Act of 1972 which comprises this chapter.
 
 #### Amendments
 

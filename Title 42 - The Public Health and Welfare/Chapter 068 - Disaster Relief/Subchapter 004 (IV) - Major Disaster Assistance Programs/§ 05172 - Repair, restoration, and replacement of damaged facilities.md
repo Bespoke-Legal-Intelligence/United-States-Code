@@ -210,7 +210,7 @@
 
 #### (i) Greater than or equal to floor percentage of estimated cost
 
-&emsp;&emsp;&emsp;In any case in which the actual cost of repairing, restoring, reconstructing, or replacing a facility under this section is less than 100 percent of the cost estimated under paragraph (1), but is greater than or equal to the floor percentage established under paragraph (3) of the cost estimatedunder paragraph (1), the State or local government or person receiving funds under this section shall use the excess funds to carry out cost-effective activities that reduce the risk of future damage, hardship, or suffering from a major disaster.
+&emsp;&emsp;&emsp;In any case in which the actual cost of repairing, restoring, reconstructing, or replacing a facility under this section is less than 100 percent of the cost estimated under paragraph (1), but is greater than or equal to the floor percentage established under paragraph (3) of the cost estimated under paragraph (1), the State or local government or person receiving funds under this section shall use the excess funds to carry out cost-effective activities that reduce the risk of future damage, hardship, or suffering from a major disaster.
 
 #### (ii) Less than floor percentage of estimated cost
 
@@ -272,7 +272,7 @@
 
 &emsp;&emsp;Not later than 2 years after October 5, 2018, the Administrator shall submit to Congress a report summarizing the regulations and guidance issued pursuant to this paragraph.
 
-(Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II, §205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566; Pub. L. 109–295, title VI, §689h, Oct. 4, 2006, 120 Stat. 1453; Pub. L. 109–347, title VI, §609, Oct. 13, 2006, 120 Stat. 1942; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 114–111, §2(b), Dec. 18, 2015, 129 Stat. 2240; Pub. L. 115–123, div. B, title VI, §§20604(b), 20606, Feb. 9, 2018, 132 Stat. 86; Pub. L. 115–254, div. D, §§1206(b), 1207(a), (b), 1235(b)–(d), Oct. 5, 2018, 132 Stat. 3440, 3463, 3464.)
+(Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II, §205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566; Pub. L. 109–295, title VI, §689h,Oct. 4, 2006, 120 Stat. 1453; Pub. L. 109–347, title VI, §609, Oct. 13, 2006, 120 Stat. 1942; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 114–111, §2(b), Dec. 18, 2015, 129 Stat. 2240; Pub. L. 115–123, div. B, title VI, §§20604(b), 20606, Feb. 9, 2018, 132 Stat. 86; Pub. L. 115–254, div. D, §§1206(b), 1207(a), (b), 1235(b)–(d), Oct. 5, 2018, 132 Stat. 3440, 3463, 3464.)
 
 #### References in Text
 
@@ -282,7 +282,7 @@ The National Flood Insurance Act of 1968, referred to in subsecs. (c)(1)(C)(ii),
 
 The National Flood Insurance Act, referred to in subsec. (d)(3), probably means the National Flood Insurance Act of 1968. See above.
 
-The Coastal Barrier Resources Act, referred to in subsec. (e)(1)(A)(ii), is Pub. L. 97–348, Oct. 18, 1982, 96 Stat.1653, as amended, which is classified principally to chapter 55 (§3501 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 16 and Tables.
+The Coastal Barrier Resources Act, referred to in subsec. (e)(1)(A)(ii), is Pub. L. 97–348, Oct. 18, 1982, 96 Stat. 1653, as amended, which is classified principally to chapter 55 (§3501 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 16 and Tables.
 
 #### Prior Provisions
 
@@ -356,7 +356,7 @@ Subsec. (f). Pub. L. 106–390, §205(e), struck out subsec. (f) which set out v
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on orafter Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under section 5121 of this title.
+Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under section 5121 of this title.
 
 Amendment by section 20604(b) of Pub. L. 115–123 applicable to provision of assistance in response to major disaster or emergency declared on or after Aug. 23, 2017, or, with respect to any application for assistance that, as of Feb. 9, 2018, is pending before Federal Emergency Management Agency, and any application for assistance that has been denied, where a challenge to that denial is not yet finally resolved as of Feb. 9, 2018, see section 20604(c) of Pub. L. 115–123, set out as a note under section 5122 of this title.
 

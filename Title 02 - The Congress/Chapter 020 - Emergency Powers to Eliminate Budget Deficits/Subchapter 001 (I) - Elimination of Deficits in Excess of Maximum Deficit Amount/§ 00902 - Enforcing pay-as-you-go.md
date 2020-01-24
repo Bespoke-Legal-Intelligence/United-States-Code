@@ -22,7 +22,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 #### (c) Eliminating a deficit increase
 
-(1) The amount required to be sequestered in a fiscal year under subsection (b) shall be obtainedfrom non-exempt direct spending accounts from actions taken in the following order:
+(1) The amount required to be sequestered in a fiscal year under subsection (b) shall be obtained from non-exempt direct spending accounts from actions taken in the following order:
 
 #### (A) First
 
@@ -96,11 +96,11 @@ Subsec. (c)(1)(C)(i). Pub. L. 113–67, §121(2), substituted "subsection (b)" f
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–33, §10205(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The purpose of this section is to assure that any legislation (enacted after November 5, 1990) affecting direct spending or receipts that increases the deficit in any fiscal year covered by this Act will trigger an offsetting sequestration."
 
-Subsec. (b). Pub. L. 105–33, §10205(1), added subsec. (b) and struck out heading and text of former subsec. (b)which required sequestrations at the end of a session of Congress to offset amount of any net deficit increase in that fiscal year and prior fiscal year caused by all direct spending and receipts legislation enacted after Nov. 5, 1990.
+Subsec. (b). Pub. L. 105–33, §10205(1), added subsec. (b) and struck out heading and text of former subsec. (b) which required sequestrations at the end of a session of Congress to offset amount of any net deficit increase in that fiscal year and prior fiscal year caused by all direct spending and receipts legislation enacted after Nov. 5, 1990.
 
 Subsec. (c)(1)(B). Pub. L. 105–33, §10205(2), inserted "and direct" after "guaranteed".
 
-Subsec. (d). Pub. L. 105–33, §10205(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "As soon as practicable after Congress completes action on any direct spending or receipts legislation enacted after November 5, 1990, after consultation with the Committees on the Budget of the House of Representatives and the Senate, CBO shall provide OMB with an estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation. Within 5 calendar days after the enactment of any direct spending or receipts legislation enacted after November 5, 1990, OMB shall transmit a report to the House of Representatives and to the Senate containing such CBO estimate of that legislation, an OMB estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation, and an explanation of any difference between the two estimates. Those OMB estimates shall be made using current economic and technical assumptions. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB."
+Subsec. (d). Pub. L. 105–33, §10205(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "As soon as practicable after Congress completes action on any direct spending or receipts legislation enacted after November 5, 1990, after consultation with the Committees on the Budget of the House of Representatives and the Senate, CBO shall provide OMB with an estimate of the amount of changein outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation. Within 5 calendar days after the enactment of any direct spending or receipts legislation enacted after November 5, 1990, OMB shall transmit a report to the House of Representatives and to the Senate containing such CBO estimate of that legislation, an OMB estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation, and an explanation of any difference between the two estimates. Those OMB estimates shall be made using current economic and technical assumptions. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB."
 
 Subsec. (e). Pub. L. 105–33, §10205(4), struck out ", for any fiscal year from 1991 through 1998," after "If" and "through 1995" after "receipts in all fiscal years".
 
@@ -132,7 +132,7 @@ Pub. L. 107–312, §1, Dec. 2, 2002, 116 Stat. 2456, provided that: "Upon enact
 
 #### Pay-As-You-Go Adjustment
 
-Pub. L. 107–117, div. C, §102, Jan. 10, 2002, 115 Stat. 2342, provided that: "In preparing the final sequestration report for fiscal year 2002 required by section 254(f)(3) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 904(f)(3)\], the Director of the Office of Management and Budget shall change any balance of direct spending and receipts legislation for fiscal years 2001 and 2002 under section 252 of that Act \[2 U.S.C. 902\] to zero."
+Pub. L. 107–117, div. C, §102, Jan. 10, 2002, 115 Stat. 2342, provided that in preparing the final sequestration report for fiscal year 2002 required by section 904(f)(3) of this title, the Director of the Office of Management and Budget should change any balance of direct spending and receipts legislation for fiscal years 2001 and 2002 under this section to zero.
 
 #### Conforming Paygo Scorecard With Transportation Equity Act for 21st Century
 

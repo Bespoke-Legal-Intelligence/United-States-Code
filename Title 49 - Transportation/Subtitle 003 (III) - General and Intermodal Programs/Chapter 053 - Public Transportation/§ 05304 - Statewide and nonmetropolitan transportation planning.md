@@ -100,7 +100,7 @@ Use of performance measures and targets.—The performance measures and targets 
 
 &emsp;(3)
 
-Failure to consider factors.—The failure to take into consideration the factors specified in paragraphs (1) and (2) shall not be subject to review by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a statewide transportation plan, a statewide transportation improvement program, a project or strategy, or the certification of a planning process.
+Failure to consider factors.—The failure to take into consideration the factors specified in paragraphs (1) and (2) shall not be subject to review by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a statewide transportation plan, astatewide transportation improvement program, a project or strategy, or the certification of a planning process.
 
 (e)
 
@@ -154,7 +154,7 @@ In general.—The long-range transportation plan shall be developed, as appropri
 
 &emsp;&emsp;&emsp;(ii)
 
-Comparison and consideration.—Consultation under clause (i) shall involve comparison of transportation plans to State and tribal conservation plans ormaps, if available, and comparison of transportation plans to inventories of natural or historic resources, if available.
+Comparison and consideration.—Consultation under clause (i) shall involve comparison of transportation plans to State and tribal conservation plans or maps, if available, and comparison of transportation plans to inventories of natural or historic resources, if available.
 
 &emsp;(3)
 
@@ -256,7 +256,7 @@ Nonmetropolitan areas.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—With respect to each nonmetropolitan area in the State, the program shall be developed in cooperation with affected nonmetropolitan local officials with responsibility for transportationor, if applicable, through regional transportation planning organizations described in subsection (l).
+In general.—With respect to each nonmetropolitan area in the State, the program shall be developed in cooperation with affected nonmetropolitan local officials with responsibility for transportation or, if applicable, through regional transportation planning organizations described in subsection (l).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -562,7 +562,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Schedule for Implementation
 
-Pub. L. 109–59, title III, §3006(b), Aug. 10, 2005, 119 Stat. 1565, required the Secretary of Transportation to issue guidance on a schedule for implementation of the changes made to this section by section 3006(a) of Pub. L. 109–59 and required State or metropolitan planning organization plan or program updates to reflect such changes beginning July 1, 2007.
+Pub. L. 109–59, title III, §3006(b), Aug. 10, 2005, 119 Stat. 1565, required the Secretary of Transportation toissue guidance on a schedule for implementation of the changes made to this section by section 3006(a) of Pub. L. 109–59 and required State or metropolitan planning organization plan or program updates to reflect such changes beginning July 1, 2007.
 
 <i><sup>1</sup></i><i> So in original. The quotation marks probably should not appear.</i>
 

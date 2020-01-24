@@ -14,7 +14,7 @@
 
 &emsp;(6) collect, publish, and distribute information concerning Coast Guard operations;
 
-&emsp;(7) conduct or make available to personnel of the Coast Guard, and to eligible spouses as defined under section 2904, such specialized training and courses of instruction, including correspondence courses and the textbooks, manuals, and other materials required as part of such training or course of instruction, as may be necessary or desirable for the good of the service;
+&emsp;(7) conduct or make available to personnel of the Coast Guard, and to eligible spouses as defined under section 2904, such specialized training and courses of instruction, including correspondence courses and the textbooks, manuals, and other materials required as part of such training or course of instruction, asmay be necessary or desirable for the good of the service;
 
 &emsp;(8) design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire patrol boats and other small craft, equip, operate, maintain, supply, and repair such patrol boats, other small craft, aircraft, and vehicles, and subject to applicable regulations under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 dispose of them;
 
@@ -28,7 +28,7 @@
 
 &emsp;(13) rent or lease, under such terms and conditions as are deemed advisable, for a period not exceeding five years, such real property under the control of the Coast Guard as may not be required for immediate use by the Coast Guard, the monies received from any such rental or lease, less amount of expenses incurred (exclusive of governmental personal services), to be deposited in the fund established under section 2946;
 
-&emsp;(14) grant, under such terms and conditions as are deemed advisable, permits, licenses, easements, and rights-of-way over, across, in, and upon lands under the control of the Coast Guard when in the public interest and without substantially injuring the interests of theUnited States in the property thereby affected;
+&emsp;(14) grant, under such terms and conditions as are deemed advisable, permits, licenses, easements, and rights-of-way over, across, in, and upon lands under the control of the Coast Guard when in the public interest and without substantially injuring the interests of the United States in the property thereby affected;
 
 &emsp;(15) establish, install, abandon, re-establish, reroute, operate, maintain, repair, purchase, or lease such telephone and telegraph lines and cables, together with all facilities, apparatus, equipment, structures, appurtenances, accessories, and supplies used or useful in connection with the installation, operation, maintenance, or repair of such lines and cables, including telephones in residences leased or owned by the Government of the United States when appropriate to assure efficient response to extraordinary operational contingencies of a limited duration, and acquire such real property rights of way, easements, or attachment privileges as may be required for the installation, operation, and maintenance of such lines, cables, and equipment;
 
@@ -54,7 +54,7 @@
 
 &emsp;(24) after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate; and
 
-&emsp;(25) enter into cooperative agreements, contracts, and other agreements with Federal entities and other public or private entities, including academic entities, to develop a positioning, navigation, and timing system to provide redundant capability in the event Global Positioning System signals are disrupted, which may consist of an enhanced LORAN system.
+&emsp;(25) enter into cooperative agreements, contracts, and other agreements with Federal entities and other public or private entities, including academic entities, to develop a positioning, navigation, and timing system to provide redundant capability in the event Global Positioning System signals are disrupted,which may consist of an enhanced LORAN system.
 
 (b)(1) Notwithstanding subsection (a)(13), a lease described in paragraph (2) of this subsection may be for a term of up to 20 years.
 
@@ -154,7 +154,7 @@ Subsection (g) is new and provides for the training of Coast Guard personnel at 
 
 Subsection (h) is based in part on title 14, U.S.C., 1946 ed., §§69, 108, 109, (R.S. 2748; June 20, 1874, ch. 344, §9, 18 Stat. 127; June 18, 1878, ch. 265, §3, 20 Stat. 163), and is intended to complement the authority granted to the Secretary in sec. 92(d) of this title granting similar authority to the Commandant as to smaller craft.
 
-Subsection (i) is based in part on title 14, U.S.C., §§108, 109, and on title 33, U.S.C., 1946 ed., §752 (June 20, 1874, ch. 344, §9, 18 Stat. 127; June 18, 1878, ch. 265, §3, 20 Stat. 163; Mar. 4, 1913, ch. 168, 37 Stat. 10183, andgrants power to the Commandant to acquire and dispose of various equipment and supplies. The authority with respect to the acceptance of such equipment as a gift is new.
+Subsection (i) is based in part on title 14, U.S.C., §§108, 109, and on title 33, U.S.C., 1946 ed., §752 (June 20, 1874, ch. 344, §9, 18 Stat. 127; June 18, 1878, ch. 265, §3, 20 Stat. 163; Mar. 4, 1913, ch. 168, 37 Stat. 10183, and grants power to the Commandant to acquire and dispose of various equipment and supplies. The authority with respect to the acceptance of such equipment as a gift is new.
 
 Subsection (j) is new and grants power to the Commandant to operate and maintain shore establishments; previously such authority has been inferred from statutes providing for the establishment of shore stations; again such authority is inherent to the functioning of any Service, and this section will provide no greater authority than has been exercised in the past.
 

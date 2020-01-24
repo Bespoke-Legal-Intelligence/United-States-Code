@@ -200,13 +200,13 @@ Purchase of obligation not tied to purchase of other obligations.—The Secretar
 
 &emsp;&emsp;"(B)
 
-Offer to be made without regard to financing.—The Secretary shall offer notes or otherobligations for sale to the issuers thereof under this subsection without regard to the manner in which such issuers intend to finance the purchase of such notes or other obligations. However, the price of sale to any issuer using tax exempt financing shall be determined using a yield reflective of the Schedule of Certified Interest Rates as published monthly by the Secretary of the Treasury.
+Offer to be made without regard to financing.—The Secretary shall offer notes or other obligations for sale to the issuers thereof under this subsection without regard to the manner in which such issuers intend to finance the purchase of such notes or other obligations. However, the price of sale to any issuer using tax exempt financing shall be determined using a yield reflective of the Schedule of Certified Interest Rates as published monthly by the Secretary of the Treasury.
 
 "(g)
 
 Applicability of Prohibition on Curtailment or Limitation of Service.—Section 306(b) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926(b)) shall be applicable to all notes or other obligations sold or intended to be sold under this section.
 
-"(h)(1) Notwithstanding the provisions of section 633 of the Rural Development, Agriculture, and Related Agencies Appropriations Act, 1989 (Public Law 100–460) \[title VI, Oct. 1, 1988, 102 Stat. 2263\], the Secretary of Agriculture shall offer to the issuer of any unsold note or other obligation described in paragraph (2)(A) for which such issuer made the good faith deposit described in paragraph (2)(A) the opportunity to purchase such note or other obligation consistent with the provisions of this subsection and subsections (f)(2) and (f)(3).
+"(h)(1) Notwithstanding the provisions of section 633 of the Rural Development, Agriculture, and Related Agencies Appropriations Act, 1989 (Public Law 100–460)\[title VI, Oct. 1, 1988, 102 Stat. 2263\], the Secretary of Agriculture shall offer to the issuer of any unsold note or other obligation described in paragraph (2)(A) for which such issuer made the good faith deposit described in paragraph (2)(A) the opportunity to purchase such note or other obligation consistent with the provisions of this subsection and subsections (f)(2) and (f)(3).
 
 "(2) The provisions of this subsection shall apply only to those issuers who:
 

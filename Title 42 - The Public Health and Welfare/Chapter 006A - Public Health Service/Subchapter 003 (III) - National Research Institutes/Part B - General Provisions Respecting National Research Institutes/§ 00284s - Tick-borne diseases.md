@@ -42,7 +42,7 @@ The Secretary shall ensure that each triennial report under section 283 of this 
 
 #### (3) Membership
 
-&emsp;The members of the working group shall represent a diversity of scientific disciplines and views and shall be composed of the following members:
+&emsp;The members of the working group shall represent a diversity of scientific disciplines andviews and shall be composed of the following members:
 
 #### (A) Federal members
 

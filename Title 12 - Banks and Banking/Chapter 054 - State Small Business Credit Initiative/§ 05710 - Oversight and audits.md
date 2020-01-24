@@ -22,5 +22,5 @@ None of the funds made available under this chapter may be used to pay the salar
 
 #### Amendments
 
-<b>2014</b>—Subsecs. (b) to (d). Pub. L. 113–188 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "The Comptroller General of the United States shall perform an annual audit of the Program and issue a report to the appropriate committees of Congress containing the results of such audit."
+<b>2014</b>—Subsecs. (b) to (d). Pub. L. 113–188 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b). Prior to amendment, textof subsec. (b) read as follows: "The Comptroller General of the United States shall perform an annual audit of the Program and issue a report to the appropriate committees of Congress containing the results of such audit."
 

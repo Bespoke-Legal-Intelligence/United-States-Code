@@ -30,7 +30,7 @@ In this chapter (other than subchapter III):
 
 &emsp;The term "extra long staple cotton" means cotton that—
 
-&emsp;&emsp;(A) is produced from pure strain varieties of the Barbadense species or any hybrid thereof, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed for various end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
+&emsp;&emsp;(A) is produced from pure strain varieties of the Barbadense species or any hybrid thereof, or other similar types of extra long staple cotton, designated by the Secretary,having characteristics needed for various end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
 
 &emsp;&emsp;(B) is ginned on a roller-type gin or, if authorized by the Secretary, ginned on another type gin for experimental purposes.
 
@@ -70,7 +70,7 @@ In this chapter (other than subchapter III):
 
 #### (15) Target price
 
-&emsp;The term "target price" means the price per bushel (or other appropriate unit in the case of upland cotton, rice, and other oilseeds) of acovered commodity used to determine the payment rate for counter-cyclical payments.
+&emsp;The term "target price" means the price per bushel (or other appropriate unit in the case of upland cotton, rice, and other oilseeds) of a covered commodity used to determine the payment rate for counter-cyclical payments.
 
 #### (16) United States
 

@@ -64,7 +64,7 @@ Amounts received or accrued on account of a transfer, sale, or other disposition
 
 &emsp;For purposes of determining the term of a transfer agreement under this section, there shall be taken into account all renewal options (and any other period for which the parties reasonably expect the agreement to be renewed).
 
-(Added Pub. L. 91–172, title V, §516(c)(1), Dec. 30, 1969, 83 Stat. 647; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–239, title VII, §7622(a)–(c), Dec. 19, 1989, 103 Stat. 2377; Pub. L. 101–508, title XI, §11701(i), Nov. 5, 1990, 104 Stat. 1388–508; Pub. L. 103–66, title XIII, §13261(c), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–188, title I, §1704(t)(47), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title VIII, §886(b)(3), Oct. 22, 2004, 118 Stat. 1641.)
+(Added Pub. L. 91–172, title V, §516(c)(1), Dec. 30, 1969, 83 Stat. 647; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–239, title VII, §7622(a)–(c), Dec. 19,1989, 103 Stat. 2377; Pub. L. 101–508, title XI, §11701(i), Nov. 5, 1990, 104 Stat. 1388–508; Pub. L. 103–66, title XIII, §13261(c), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–188, title I, §1704(t)(47), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title VIII, §886(b)(3), Oct. 22, 2004, 118 Stat. 1641.)
 
 #### Amendments
 

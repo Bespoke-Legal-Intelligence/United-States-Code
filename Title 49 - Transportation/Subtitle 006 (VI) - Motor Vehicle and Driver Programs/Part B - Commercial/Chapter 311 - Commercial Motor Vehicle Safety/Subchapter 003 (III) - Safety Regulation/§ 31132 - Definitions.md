@@ -62,7 +62,7 @@ Historical and Revision Notes
 
 Oct. 30, 1984, Pub. L. 98–554, §204, 98 Stat. 2833.
 
-The text of 49 App.:2503(6) is omitted as unnecessary because of 1:1. The text of 49 App.:2503(8) is omitted as surplus because the complete name of the Commercial Motor Vehicle Safety Regulatory Review Panel is used the first time the term appears in a section. The text of 49 App.:2503(9) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section.
+The text of 49 App.:2503(6) is omitted as unnecessary because of 1:1. The text of 49 App.:2503(8) is omitted assurplus because the complete name of the Commercial Motor Vehicle Safety Regulatory Review Panel is used the first time the term appears in a section. The text of 49 App.:2503(9) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section.
 
 #### References in Text
 

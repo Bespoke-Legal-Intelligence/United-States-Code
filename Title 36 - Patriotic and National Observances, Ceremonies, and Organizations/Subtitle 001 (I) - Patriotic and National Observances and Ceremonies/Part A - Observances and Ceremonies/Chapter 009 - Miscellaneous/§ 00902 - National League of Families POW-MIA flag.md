@@ -14,27 +14,7 @@ Required Display.—The POW/MIA flag shall be displayed at the locations specifi
 
 (c)
 
-Days for Flag Display.—(1) For purposes of this section, POW/MIA flag display days are the following:
-
-&emsp;(A) Armed Forces Day, the third Saturday in May.
-
-&emsp;(B) Memorial Day, the last Monday in May.
-
-&emsp;(C) Flag Day, June 14.
-
-&emsp;(D) Independence Day, July 4.
-
-&emsp;(E) National POW/MIA Recognition Day.
-
-&emsp;(F) Veterans Day, November 11.
-
-(2) In addition to the days specified in paragraph (1) of this subsection, POW/MIA flag display days include—
-
-&emsp;(A) in the case of display at the World War II Memorial, Korean War Veterans Memorial, and Vietnam Veterans Memorial (required by subsection (d)(3) of this section), any day on which the United States flag is displayed;
-
-&emsp;(B) in the case of display at medical centers of the Department of Veterans Affairs (required by subsection (d)(7) of this section), any day on which the flag of the United States is displayed; and
-
-&emsp;(C) in the case of display at United States Postal Service post offices (required by subsection (d)(8) of this section), the last business day before a day specified in paragraph (1) that in any year is not itself a business day.
+Days for Flag Display.—For the purposes of this section, POW/MIA flag display days are all days on which the flag of the United States is displayed.
 
 (d)
 
@@ -76,7 +56,7 @@ Display To Be in a Manner Visible to the Public.—Display of the POW/MIA flag p
 
 Limitation.—This section may not be construed or applied so as to require any employee to report to work solely for the purpose of providing for the display of the POW/MIA flag.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1268; Pub. L. 105–354, §1(1), Nov. 3, 1998, 112 Stat. 3238; Pub. L. 107–323, §2(a), (b), Dec. 4, 2002, 116 Stat. 2787.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1268; Pub. L. 105–354, §1(1), Nov. 3, 1998, 112 Stat. 3238; Pub. L. 107–323, §2(a), (b), Dec. 4, 2002, 116 Stat. 2787; Pub. L. 116–67, §2, Nov. 7, 2019, 133 Stat. 1128.)
 
 Historical and Revision Notes
 
@@ -123,6 +103,8 @@ Section 1082(i), which required that the Administrator of GSA procure and distri
 Section 1082(j), which repealed section 1084 of Public Law 102–190 (previously restated as subsections (b) and (c) of section 902 of title 36), is repealed as executed.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c). Pub. L. 116–67 added subsec. (c) and struck out former subsec. (c) which set out specific days for POW/MIA flag display.
 
 <b>2002</b>—Subsec. (c)(2). Pub. L. 107–323, §2(b), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 

@@ -16,7 +16,7 @@ To be eligible to receive a grant under this section, an entity shall be an enti
 
 &emsp;(1) represents a consortium—
 
-&emsp;&emsp;(A) whose principal purpose is to provide a broad range of coordinated health care services for a community defined in the entity's grant application as described in paragraph (2); and
+&emsp;&emsp;(A) whose principal purpose is to provide a broad range of coordinated health care services for a community defined in the entity'sgrant application as described in paragraph (2); and
 
 &emsp;&emsp;(B) that includes at least one of each of the following providers that serve the community (unless such provider does not exist within the community, declines or refuses to participate, or places unreasonable conditions on their participation)—
 
@@ -176,7 +176,7 @@ In awarding grants under this section, the Secretary—
 
 &emsp;&emsp;&emsp;&emsp;(III) resulted in the provision of health care to such individuals at lower cost than would have been possible in the absence of the activities conducted by such grantee; and
 
-&emsp;&emsp;(B) provide for an independent annual financial audit of all records that relate to the disposition of funds received through the grant.
+&emsp;&emsp;(B) provide for an independent annual financial audit of all records that relate tothe disposition of funds received through the grant.
 
 #### (2) Progress
 
@@ -188,7 +188,7 @@ With respect to activities for which a grant under this section is authorized, t
 
 #### (h) Technical assistance
 
-The Secretary may, either directly or by grant or contract, provide any entity that receives a grant under this section with technical andother nonfinancial assistance necessary to meet the requirements of this section.
+The Secretary may, either directly or by grant or contract, provide any entity that receives a grant under this section with technical and other nonfinancial assistance necessary to meet the requirements of this section.
 
 #### (i) Evaluation of program
 

@@ -32,7 +32,7 @@ In general.—A notice is not required under subsection (a) if—
 
 &emsp;&emsp;(C) the proposed procurement would result from acceptance of—
 
-&emsp;&emsp;&emsp;(i) an unsolicited proposal that demonstrates a unique and innovative research concept and publication of a notice of the unsolicited research proposal would disclose the originality of thought or innovativeness of the proposal or would disclose proprietary information associated with the proposal; or
+&emsp;&emsp;&emsp;(i) an unsolicited proposal that demonstrates a unique and innovative research concept and publication of a notice of the unsolicited research proposal would disclose the originality of thought or innovativeness of the proposal or would discloseproprietary information associated with the proposal; or
 
 &emsp;&emsp;&emsp;(ii) a proposal submitted under section 9 of the Small Business Act (15 U.S.C. 638);
 
@@ -82,7 +82,7 @@ Contents of Notice.—Each notice of solicitation required by paragraph (1) or (
 
 &emsp;(5) in the case of a procurement using procedures other than competitive procedures, a statement of the reason justifying the use of those procedures and the identity of the intended source; and
 
-&emsp;(6) in the case of a contract in an amount estimated to be greater than $25,000 but not greater than the simplified acquisition threshold, or a contract for the procurement of commercial items using special simplified procedures—
+&emsp;(6) in the case of a contract in an amount estimated to be greater than $25,000 but not greater than the simplified acquisition threshold, or a contract for the procurement of commercial products or commercial services using special simplified procedures—
 
 &emsp;&emsp;(A) a description of the procedures to be used in awarding the contract; and
 
@@ -116,7 +116,7 @@ Establishing deadline when none provided by statute.—An executive agency shall
 
 &emsp;(3)
 
-Flexible deadlines.—The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (1) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial items.
+Flexible deadlines.—The Administrator shall prescribe regulations defining limitedcircumstances in which flexible deadlines can be used under paragraph (1) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial products or commercial services.
 
 (f)
 
@@ -127,10 +127,6 @@ Consideration of Certain Timely Received Offers.—An executive agency intending
 Availability of Complete Solicitation Package and Payment of Fee.—An executive agency shall make available to a business concern, or the authorized representative of a concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of the package.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3711; Pub. L. 115–232, div. A, title VIII, §836(b)(3), Aug. 13, 2018, 132 Stat. 1861.)
-
-#### Amendment of Subsections (c)(6) and (e)(3)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(3), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsections (c)(6) and (e)(3) of this section are amended by striking "commercial items" and inserting "commercial products or commercial services". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 

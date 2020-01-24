@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(II) good faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or the country described in clause (i) is otherwise taking steps to discharge its obligations under international law with respect to such citizen, corporation, partnership, or association, or
 
-&emsp;&emsp;&emsp;(III) a dispute involving such citizen, corporation, partnership, or association over compensation for such a seizure has been submitted to arbitration under the provisions of the Convention for the Settlement of Investment Disputes, or in another mutually agreed upon forum,
+&emsp;&emsp;&emsp;(III) a dispute involving such citizen, corporation, partnership, or associationover compensation for such a seizure has been submitted to arbitration under the provisions of the Convention for the Settlement of Investment Disputes, or in another mutually agreed upon forum,
 
 > &emsp;&emsp;and the President promptly furnishes a copy of such determination to the Senate and House of Representatives.
 
@@ -118,7 +118,7 @@ In determining whether to designate any country as a beneficiary developing coun
 
 #### (3) Advice to Congress
 
-&emsp;The President shall, as necessary, advise the Congress on the application of section 2461 ofthis title and subsection (c) of this section, and the actions the President has taken to withdraw, to suspend, or to limit the application of duty-free treatment with respect to any country which has failed to adequately take the actions described in subsection (c).
+&emsp;The President shall, as necessary, advise the Congress on the application of section 2461 of this title and subsection (c) of this section, and the actions the President has taken to withdraw, to suspend, or to limit the application of duty-free treatment with respect to any country which has failed to adequately take the actions described in subsection (c).
 
 #### (e) Mandatory graduation of beneficiary developing countries
 
@@ -130,7 +130,7 @@ If the President determines that a beneficiary developing country has become a "
 
 #### (A) In general
 
-&emsp;&emsp;Before the President designates any country as a beneficiary developing country under this subchapter, the President shall notify the Congress of the President's intention to make such designation, together with the considerations entering into such decision.
+&emsp;&emsp;Before the President designates any country as a beneficiary developing countryunder this subchapter, the President shall notify the Congress of the President's intention to make such designation, together with the considerations entering into such decision.
 
 #### (B) Designation as least-developed beneficiary developing country
 

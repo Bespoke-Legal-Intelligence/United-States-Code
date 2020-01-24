@@ -198,7 +198,7 @@ Goals.—The Global Cultural Knowledge Network shall support the following goals
 
 &emsp;"(1) Provide socio-cultural analysis support to any unit deployed, or preparing to deploy, to an exercise or operation in the assigned region of responsibility of the unit being supported.
 
-&emsp;"(2) Make recommendations or support policy or doctrine development to increase the social scienceexpertise of military and civilian personnel of the Department of the Army.
+&emsp;"(2) Make recommendations or support policy or doctrine development to increase the social science expertise of military and civilian personnel of the Department of the Army.
 
 &emsp;"(3) Provide reimbursable support to other military departments or Federal agencies if requested through an operational needs request process.
 
@@ -348,7 +348,7 @@ Report.—Not later than 180 days after the date on which the Secretary of the A
 
 #### Army Transformation to Brigade Structure
 
-Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: "The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated."
+Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: "The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual reporton the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated."
 
 #### Demonstration Project for Use of Army Installations To Provide Prerelease Employment Training to Nonviolent Offenders in State Penal Systems
 

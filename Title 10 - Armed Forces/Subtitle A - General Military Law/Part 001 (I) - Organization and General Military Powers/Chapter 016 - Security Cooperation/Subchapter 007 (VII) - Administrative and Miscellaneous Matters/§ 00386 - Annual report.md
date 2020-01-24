@@ -24,7 +24,7 @@ Elements of Report.—Each report required under subsection (a) shall provide fo
 
 Specified Authorities.—The authorities specified in this subsection are the following authorities (or any successor authorities):
 
-&emsp;(1) Sections 246, 251, 252, 253,<sup>1</sup> 321, 344, 348, 349, and 350 of this title.
+&emsp;(1) Sections 246, 251, 252, 253,<sup>1</sup> 321, 341, 344, 348, 349, and 350 of this title.
 
 &emsp;(2) Section 166a(b)(6) of this title, relating to humanitarian and civic assistance by the commanders of the combatant commands.
 
@@ -72,11 +72,7 @@ Exception.—Paragraph (1) does not apply with respect to information required u
 
 Form.—Each report required under subsection (a) shall be submitted in unclassified form, but may contain a classified annex that may also include other sensitive information.
 
-(Added and amended Pub. L. 114–328, div. A, title XII, §§1246(d)(2)(A), 1251(a)–(f), Dec. 23, 2016, 130Stat. 2521, 2529–2531; Pub. L. 115–232, div. A, title XII, §1204(b)(1)(A), Aug. 13, 2018, 132 Stat. 2017.)
-
-#### Amendment of Subsection (c)(1)
-
-<i>Pub. L. 114–328, div. A, title XII, §1246(d)(2)(A), Dec. 23, 2016, 130 Stat. 2521, provided that, effective as of Jan. 1, 2020, subsection (c)(1) of this section is amended by inserting "341," after "333,". See 2016 and 2018 Amendment notes below.</i>
+(Added and amended Pub. L. 114–328, div. A, title XII, §§1246(d)(2)(A), 1251(a)–(f), Dec. 23, 2016, 130 Stat. 2521, 2529–2531; Pub. L. 115–232, div. A, title XII, §1204(b)(1)(A), Aug. 13, 2018, 132 Stat. 2017.)
 
 #### References in Text
 

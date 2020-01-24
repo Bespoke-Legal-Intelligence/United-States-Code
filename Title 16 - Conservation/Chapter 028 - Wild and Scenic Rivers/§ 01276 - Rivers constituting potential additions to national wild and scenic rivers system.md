@@ -22,7 +22,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (9) Illinois, Oregon: The entire river.
 
-(10) Little Beaver, Ohio: The segment of the North and Middle Forks of the Little Beaver River in Columbiana County from a point in the vicinity of Negly and Elkton, Ohio, downstream to a point in the vicinity of East Liverpool, Ohio.
+(10) Little Beaver, Ohio: The segment of the North and Middle Forks of the Little BeaverRiver in Columbiana County from a point in the vicinity of Negly and Elkton, Ohio, downstream to a point in the vicinity of East Liverpool, Ohio.
 
 (11) Little Miami, Ohio: That segment of the main stem of the river, exclusive of its tributaries, from a point at the Warren-Clermont County line at Loveland, Ohio, upstream to the sources of Little Miami including North Fork.
 
@@ -192,7 +192,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (94)
 
-Klickitat, Washington: The segment from the southern boundary of the Yakima Indian Reservation, Washington, as described in the Treaty with the Yakimas of 1855 (12 Stat. 951), and as acknowledged by the Indian Claims Commission in Yakima Tribe of Indians v. U.S., 16 Ind. Cl. Comm. 536 (1966), to its confluence with the Little Klickitat River, Washington: <i>Provided</i>, That said study shall be carried on in consultation with the Yakima Indian Nation and shall include a determination of the degree to which the Yakima Indian Nation should participate in the preservation and administration of the river segment should it be proposed for inclusion in the Wild and Scenic Rivers system.
+Klickitat, Washington: The segment from the southern boundary of the Yakima Indian Reservation, Washington, as described in the Treaty with the Yakimas of 1855 (12 Stat. 951), and as acknowledged by the Indian Claims Commission in Yakima Tribe of Indians v. U.S., 16 Ind. Cl. Comm. 536 (1966), to its confluence with the Little Klickitat River, Washington: <i>Provided</i>, That said study shall be carried on in consultation with the Yakima Indian Nation <sup>1</sup> and shall include a determination of the degree to which the Yakima Indian Nation should participate in the preservation and administration of the river segment should it be proposed for inclusion in the Wild and Scenic Rivers system.
 
 (95)
 
@@ -240,7 +240,7 @@ Wallowa, Oregon.—The segment from its confluence with the Minam River to its c
 
 (106)
 
-Merrimack River, New Hampshire.—The segment from its origin at the confluence of the Pemigewasset and Winnipesaukee Rivers inFranklin, New Hampshire, to the backwater impoundment at Hooksett Dam, excluding the Garvins Falls Dam and its impoundment.
+Merrimack River, New Hampshire.—The segment from its origin at the confluence of the Pemigewasset and Winnipesaukee Rivers in Franklin, New Hampshire, to the backwater impoundment at Hooksett Dam, excluding the Garvins Falls Dam and its impoundment.
 
 (107)
 
@@ -256,7 +256,7 @@ Mills River, North Carolina.—The North Fork from the bottom of the spillway of
 
 (110)
 
-Sudbury, Assabet, and Concord, Massachussets.<sup>1</sup> —The segment of the Sudbury from the Danforth Street Bridge in the town of Framingham, to its confluence with the Assabet, the Assabet from 1,000 feet downstream of the Damon Mill Dam in Concord to its confluence with the Sudbury and the Concord from the confluence of the Sudbury and Assabet downstream to the Route 3 Bridge in the town of Billerica. The study of such river segments shall be completed and the report submitted thereon not later than at the end of the third fiscal year beginning after November 28, 1990.
+Sudbury, Assabet, and Concord, Massachussets.<sup>2</sup> —The segment of the Sudbury from the Danforth Street Bridge in the town of Framingham, to its confluence with the Assabet, the Assabet from 1,000 feet downstream of the Damon Mill Dam in Concord to its confluence with the Sudbury and the Concord from the confluence of the Sudbury and Assabet downstream to the Route 3 Bridge in the town of Billerica. The study of such river segments shall be completed and the report submitted thereon not later than at the end of the third fiscal year beginning after November 28, 1990.
 
 (111)
 
@@ -334,7 +334,7 @@ Tahquamenon, Michigan.—The 103.5-mile segment as follows—
 
 (124)
 
-Whitefish, Michigan.—The 26-mile segment of the West Branch Whitefish from itssource in section 26, township 46 north, range 23 west, to County Road 444.
+Whitefish, Michigan.—The 26-mile segment of the West Branch Whitefish from its source in section 26, township 46 north, range 23 west, to County Road 444.
 
 (125)
 
@@ -382,7 +382,7 @@ Delaware River, Pennsylvania and New Jersey.—(A) The approximately 3.6-mile se
 
 (F) The approximately 6.5-mile segment from a point just south of the Point Pleasant Pumping Station to the north side of the Route 202 bridge.
 
-(G) The approximately 6-mile segment from the southern boundary of the town of New Hope, Pennsylvania, to the town of Washington Crossing, Pennsylvania.
+(G) The approximately 6-mile segment from the southern boundary of the town of New Hope,Pennsylvania, to the town of Washington Crossing, Pennsylvania.
 
 (H) The Cook's Creek tributary.
 
@@ -482,7 +482,7 @@ York river, maine.—The segment of the York River that flows 11.25 miles from t
 
 #### (b) Studies and reports
 
-(1) The studies of rivers named in subparagraphs (28) through (55) of subsection (a) of this section shall be completed and reports thereon submitted by not later than October 2, 1979: <i>Provided</i>, That with respect to the rivers named in subparagraphs (33), (50), and (51), the Secretaries shall not commence any studies until (i) the State legislature has acted with respect to such rivers or (ii) one year from January 3, 1975, whichever is earlier. Studies of the river <sup>2</sup> named in paragraphs (38), (55), (83), and (87) shall be completed and the reports transmitted to the Congress not later than January 1, 1987.
+(1) The studies of rivers named in subparagraphs (28) through (55) of subsection (a) of this section shall be completed and reports thereon submitted by not later than October 2, 1979: <i>Pro</i><i>vided</i>, That with respect to the rivers named in subparagraphs (33), (50), and (51), the Secretaries shall not commence any studies until (i) the State legislature has acted with respect to such rivers or (ii) one year from January 3, 1975, whichever is earlier. Studies of the river <sup>3</sup> named in paragraphs (38), (55), (83), and (87) shall be completed and the reports transmitted to the Congress not later than January 1, 1987.
 
 (2) The study of the river named in subparagraph (56) of subsection (a) of this section shall be completed and the report thereon submitted by not later than January 3, 1976.
 
@@ -492,7 +492,7 @@ York river, maine.—The segment of the York River that flows 11.25 miles from t
 
 (5) The studies of the rivers in paragraphs (77) through (88) shall be completed and reports transmitted thereon not later than three full fiscal years from December 2, 1980. For the rivers listed in paragraphs (77), (78), and (79) the studies prepared and transmitted to the Congress pursuant to section 6505(c) of title 42 shall satisfy the requirements of this section.
 
-(6) Studies of rivers listed in paragraphs (80) and (81) shall be completed, and reports submitted within and not later than the time when the Bristol Bay Cooperative Region Plan is submitted to Congress in accordance with section 3183 <sup>3</sup> of this title.
+(6) Studies of rivers listed in paragraphs (80) and (81) shall be completed, and reports submitted within and not later than the time when the Bristol Bay Cooperative Region Plan is submitted to Congress in accordance with section 3183 <sup>4</sup> of this title.
 
 (7) The study of the West Branch of the Farmington River identified in paragraph (92) of subsection (a) shall be completed and the report submitted thereon not later than the end of the third fiscal year beginning after October 30, 1986. Such report shall include a discussion of management alternatives for the river if it were to be included in the national wild and scenic river system.
 
@@ -500,7 +500,7 @@ York river, maine.—The segment of the York River that flows 11.25 miles from t
 
 (9) The study of the Pemigewasset River, New Hampshire, shall be completed and the report thereon submitted not later than three years after August 10, 1990.
 
-(10) The study of the river named in paragraph (106) <sup>4</sup> of subsection (a) shall be completed not later than three years after August 15, 1990. In carrying out the study, the Secretary of the Interior shall consult with the Governors of the States of Florida and Georgia or their representatives, representatives of affected local governments, and owners of land adjacent to the river.Such consultation shall include participation in the assessment of resource values and the development of alternatives for the protection of those resource values, and shall be carried out through public meetings and media notification. The study shall also include a recommendation on the part of the Secretary as to the role the States, local governments and landowners should play in the management of the river if it were designated as a component of the National Wild and Scenic Rivers System.
+(10) The study of the river named in paragraph (106) <sup>5</sup> of subsection (a) shall be completed not later than three years after August 15, 1990. In carrying out the study, the Secretary of the Interior shall consult with the Governors of the States of Florida and Georgia or their representatives, representatives of affected local governments, and owners of land adjacent to the river. Such consultation shall include participation in the assessment of resource values and the development of alternatives for the protection of those resource values, and shall be carried out through public meetings and media notification. The study shall also include a recommendation on the part of the Secretary as to the role the States, local governments and landowners should play in the management of the river if it were designated as a component of the National Wild and Scenic Rivers System.
 
 (11) The study of the Lamprey River, New Hampshire, shall be completed by the Secretary of the Interior and the report thereon submitted not later than 3 years after December 11, 1991.
 
@@ -510,9 +510,9 @@ York river, maine.—The segment of the York River that flows 11.25 miles from t
 
 (C) The Secretary shall prepare the study, including the recommended management plan, in cooperation and consultation with appropriate State and local governments, and affected landowners.
 
-(13) The study of segments of the Brule, Carp, Little Manistee, White, Paint, Presque Isle, Ontonagon, Sturgeon (Hiawatha), Sturgeon (Ottawa), Whitefish, and Tahquamenon Rivers in Michigan under subsection (a) shall be completed by the Secretary of Agriculture and the report submitted thereon not later than at the end of the third fiscal year beginning after March 3, 1992. For purposes of such river studies, the Secretary shall consult with each River Study Committee authorized under section 5 of the Michigan Scenic Rivers Act of 1990,<sup>5</sup> and shall encourage public participation and involvement through hearings, workshops, and such other means as are necessary to be effective.
+(13) The study of segments of the Brule, Carp, Little Manistee, White, Paint, Presque Isle, Ontonagon, Sturgeon (Hiawatha), Sturgeon (Ottawa), Whitefish, and Tahquamenon Rivers in Michigan under subsection (a) shall be completed by the Secretary of Agriculture and the report submitted thereon not later than at the end of the third fiscal year beginning after March 3, 1992. For purposes of such river studies, the Secretary shall consult with each River Study Committee authorized under section 5 of the Michigan Scenic Rivers Act of 1990,<sup>6</sup> and shall encourage public participation and involvement through hearings, workshops, and such other means as are necessary to be effective.
 
-(14)(A) The study of the Delaware River segments and tributaries designated for potential addition to the National Wild and Scenic Rivers System pursuant to subsection (a)( ) <sup>6</sup> of this section shall be completed and the report submitted to Congress not later than one year after October 23, 1992.
+(14)(A) The study of the Delaware River segments and tributaries designated for potential addition to the National Wild and Scenic Rivers System pursuant to subsection (a)( ) <sup>7</sup> of this section shall be completed and the report submitted to Congress not later than one year after October 23, 1992.
 
 (B) The Secretary shall—
 
@@ -520,7 +520,7 @@ York river, maine.—The segment of the York River that flows 11.25 miles from t
 
 &emsp;(ii) consider previous plans for the protection of affected cultural, recreational, and natural resources (including water supply and water quality) and existing State and local regulations, so as to avoid unnecessary duplication.
 
-(C) Pursuant to section 1282(b)(1) of this title, the Secretary shall undertake a river conservation plan for the segment of the Delaware River from the northern city limits of Trenton, New Jersey, to the Southern <sup>7</sup> boundary of Bucks County, Pennsylvania.
+(C) Pursuant to section 1282(b)(1) of this title, the Secretary shall undertake a river conservation plan for the segment of the Delaware River from the northern city limits of Trenton, New Jersey, to the Southern <sup>8</sup> boundary of Bucks County, Pennsylvania.
 
 (15) The study of the Rio Grande in New Mexico shall be completed and the report submitted not later than 3 years after May 4, 1994.
 
@@ -560,9 +560,9 @@ Beaver, chipuxet, queen, wood, and pawcatuck rivers, rhode island and connecticu
 
 In general.—Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary of the Interior shall—
 
-&emsp;&emsp;(i) complete each of the studies <sup>8</sup> described in paragraphs (142), (143), and (144) of subsection (a); and
+&emsp;&emsp;(i) complete each of the studies <sup>9</sup> described in paragraphs (142), (143), and (144) of subsection (a); and
 
-&emsp;&emsp;(ii) submit to the Committee on Natural Resources of the House of Representativesand the Committee on Energy and Natural Resources of the Senate a report that describes the results of each of the studies.
+&emsp;&emsp;(ii) submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes the results of each of the studies.
 
 &emsp;(B)
 
@@ -594,7 +594,7 @@ The study of any of said rivers shall be pursued in as close cooperation with ap
 
 #### (d) Continuing consideration by Federal agencies to potential national, wild, scenic and recreational river areas
 
-(1) In all planning for the use and development of water and related land resources, consideration shall be given by all Federal agencies involved to potential national wild, scenic and recreational river areas, and all river basin and project plan reports submitted to the Congress shall consider and discuss any such potentials. The Secretary of the Interior and the Secretary of Agriculture shall make specific studies and investigations to determine which additional wild, scenic and recreational river areas within the United States shall be evaluated in planning reports by all Federal agencies as potential alternative uses of the water and related land resources involved.
+(1) In all planning for the use and development of water and related land resources, consideration shall be given by all Federal agencies involved to potential national wild, scenic and recreational river areas, and all river basin and project plan reports submitted to the Congress shall consider and discuss any such potentials. The Secretary of the Interior and the Secretary of Agriculture shall make specific studies andinvestigations to determine which additional wild, scenic and recreational river areas within the United States shall be evaluated in planning reports by all Federal agencies as potential alternative uses of the water and related land resources involved.
 
 (2) The Congress finds that the Secretary of the Interior, in preparing the Nationwide Rivers Inventory as a specific study for possible additions to the National Wild and Scenic Rivers System, identified the Upper Klamath River from below the John Boyle Dam to the Oregon-California State line. The Secretary, acting through the Bureau of Land Management, is authorized under this subsection to complete a study of the eligibility and suitability of such segment for potential addition to the National Wild and Scenic Rivers System. Such study shall be completed, and a report containing the results of the study shall be submitted to Congress by April 1, 1990. Nothing in this paragraph shall affect the authority or responsibilities of any other Federal agency with respect to activities or actions on this segment and its immediate environment.
 
@@ -774,6 +774,8 @@ Subsecs. (b) to (d). Pub. L. 93–621, §1(b), added subsec. (b) and redesignate
 
 #### Change of Name
 
+The Yakima Indian Nation was renamed the Yakama Nation by Pub. L. 103–434, title XII, §1204(g), Oct. 31, 1994, 108 Stat. 4557, as amended, set out as a note under section 544 of this title.
+
 The Delaware and Lehigh Navigation Canal National Heritage Corridor was redesignated the Delaware and Lehigh National Heritage Corridor by Pub. L. 105–355, title IV, §401, Nov. 6, 1998, 112 Stat. 3258.
 
 #### Effective Date of 1984 Amendment
@@ -792,21 +794,23 @@ Pub. L. 101–175, Nov. 27, 1989, 103 Stat. 1294, provided that:
 
 "In order to protect for present and future generations the outstanding scenic, natural, recreational, scientific, cultural, and ecological values of the Genesee River within Letchworth Gorge State Park in the State of New York, and to assist in the protection and enhancement of the Gorge's archeological sites of sacred significance to the Seneca Nation, historic areas, endangered plant communities, and diverse recreation uses, the protections afforded for rivers listed in section 5(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(a)) for study for potential addition to the National Wild and Scenic Rivers System shall apply to the segment of the Genesee River beginning at the southern boundary of Letchworth Gorge State Park and extending downstream to the Mt. Morris Dam, except that the protection so afforded shall not interfere with the Secretary of the Army's operation and management of Mt. Morris Dam as authorized for purposes of flood control."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "</i>
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "</i>
 
 Massachusetts."
 
-<i><sup>2</sup></i><i> So in original. Probably should be "rivers".</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "rivers".</i>
 
-<i><sup>3</sup></i><i> See Codification note below.</i>
+<i><sup>4</sup></i><i> See Codification note below.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be "(108)".</i>
+<i><sup>5</sup></i><i> So in original. Probably should be "(108)".</i>
 
-<i><sup>5</sup></i><i> See References in Text note below.</i>
+<i><sup>6</sup></i><i> See References in Text note below.</i>
 
-<i><sup>6</sup></i><i> So in original. Probably should be subsection "(a)(133)".</i>
+<i><sup>7</sup></i><i> So in original. Probably should be subsection "(a)(133)".</i>
 
-<i><sup>7</sup></i><i> So in original. Probably should not be capitalized.</i>
+<i><sup>8</sup></i><i> So in original. Probably should not be capitalized.</i>
 
-<i><sup>8</sup></i><i> So in original. Probably should refer to the river segments described in those paragraphs.</i>
+<i><sup>9</sup></i><i> So in original. Probably should refer to the river segments described in those paragraphs.</i>
 

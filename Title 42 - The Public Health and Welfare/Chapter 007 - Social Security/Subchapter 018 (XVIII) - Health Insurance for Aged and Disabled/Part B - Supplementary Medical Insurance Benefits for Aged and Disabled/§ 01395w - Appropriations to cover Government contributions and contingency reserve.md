@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are authorized to be appropriated from time to time, out of any moneys in the Treasury not otherwise appropriated, to the Federal Supplementary Medical Insurance Trust Fund—
+There are authorized to be appropriated from time to time, out of any moneys in the Treasurynot otherwise appropriated, to the Federal Supplementary Medical Insurance Trust Fund—
 
 &emsp;(1)(A) a Government contribution equal to the aggregate premiums payable for a month for enrollees age 65 and over under this part and deposited in the Trust Fund, multiplied by the ratio of—
 
@@ -26,7 +26,7 @@ There are authorized to be appropriated from time to time, out of any moneys in 
 
 #### (b) Contingency reserve
 
-In order to assure prompt payment of benefits provided under this part and the administrative expenses thereunder during the early months of the program established by this part, and to provide a contingency reserve, there is also authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, to remain available through the calendar year 1969 for repayable advances (without interest) to theTrust Fund, an amount equal to $18 multiplied by the number of individuals (as estimated by the Secretary) who could be covered in July 1966 by the insurance program established by this part if they had theretofore enrolled under this part.
+In order to assure prompt payment of benefits provided under this part and the administrative expenses thereunder during the early months of the program established by this part, and to provide a contingency reserve, there is also authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, to remain available through the calendar year 1969 for repayable advances (without interest) to the Trust Fund, an amount equal to $18 multiplied by the number of individuals (as estimated by the Secretary) who could be covered in July 1966 by the insurance program established by this part if they had theretofore enrolled under this part.
 
 #### (c) Election under section 1395w–24
 
@@ -50,7 +50,7 @@ The Secretary shall determine the Government contribution under subparagraphs (A
 
 #### References in Text
 
-Section 1395w–24(b)(1)(C)(iv) of this title, referred to in subsec. (c), was redesignated section 1395w–24(b)(1)(C)(v) of this title by Pub. L. 111–148, title III, §3202(b)(1)(B), Mar. 23, 2010, 124 Stat. 454, and subsequently redesignated section 1395w–24(b)(1)(C)(viii) of this title by Pub. L. 111–152, title I, §1102(d)(2), Mar. 30, 2010, 124 Stat. 1045.
+Section 1395w–24(b)(1)(C)(iv) of this title, referred to in subsec. (c), was redesignated section1395w–24(b)(1)(C)(v) of this title by Pub. L. 111–148, title III, §3202(b)(1)(B), Mar. 23, 2010, 124 Stat. 454, and subsequently redesignated section 1395w–24(b)(1)(C)(viii) of this title by Pub. L. 111–152, title I, §1102(d)(2), Mar. 30, 2010, 124 Stat. 1045.
 
 Section 1395w–29 of this title, referred to in subsec. (c), was repealed by Pub. L. 111–152, title I, §1102(f), Mar. 30, 2010, 124 Stat. 1046.
 
@@ -100,7 +100,7 @@ Amendment by section 222(l)(2)(C) of Pub. L. 108–173 applicable with respect t
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 applicable to years beginning with 2003, see section 1(a)(6) \[title VI, §606(b)\]of Pub. L. 106–554, set out as a note under section 1395r of this title.
+Amendment by Pub. L. 106–554 applicable to years beginning with 2003, see section 1(a)(6) \[title VI, §606(b)\] of Pub. L. 106–554, set out as a note under section 1395r of this title.
 
 #### Effective Date of 1989 Amendment
 

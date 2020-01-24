@@ -2,7 +2,7 @@
 
 #### (a) Approval of estimated values
 
-Upon receipt of an application meeting the requirements of subsections (a) and (b) of section 973 of this title, the Council shall review the estimated value of the items for which coverage by an indemnity agreement is sought. If the Council agrees with such estimated value, for the purposes of this chapter, the Council shall, after approval of the application as provided in subsection (c) of section 973 of this title, make an indemnity agreement.
+Upon receipt of an application meeting the requirements of subsections (a) and (b) of section973 of this title, the Council shall review the estimated value of the items for which coverage by an indemnity agreement is sought. If the Council agrees with such estimated value, for the purposes of this chapter, the Council shall, after approval of the application as provided in subsection (c) of section 973 of this title, make an indemnity agreement.
 
 #### (b) Maximum limits of coverage
 
@@ -26,7 +26,7 @@ If the estimated value of the items covered by an indemnity agreement for a sing
 
 &emsp;(5) not less than $200,000,000 but less than $300,000,000, then coverage under the <sup>2</sup> chapter shall extend only to loss or damage in excess of the first $200,000, of loss or damage to items covered;
 
-&emsp;(6) not less than $300,000,000 but less than $400,000,000, then coverage under this chaptershall extend only to loss or damage in excess of the first $300,000 of loss or damage to items covered;
+&emsp;(6) not less than $300,000,000 but less than $400,000,000, then coverage under this chapter shall extend only to loss or damage in excess of the first $300,000 of loss or damage to items covered;
 
 &emsp;(7) not less than $400,000,000 but less than $500,000,000, then coverage under this chapter shall extend only to loss or damage in excess of the first $400,000 of loss or damage to items covered; or
 

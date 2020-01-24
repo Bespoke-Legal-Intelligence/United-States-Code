@@ -44,7 +44,7 @@ In this section—
 
 &emsp;&emsp;(C) efforts to educate the owners of small business concerns about assistance available through public programs; and
 
-&emsp;&emsp;(D) efforts to educate the owners and employees of small business concerns regarding the availability of the hotline operated as part of the Insure Kids Now program of the Department of Health and Human Services.
+&emsp;&emsp;(D) efforts to educate the owners and employees of small business concerns regardingthe availability of the hotline operated as part of the Insure Kids Now program of the Department of Health and Human Services.
 
 #### (4) Implementation
 

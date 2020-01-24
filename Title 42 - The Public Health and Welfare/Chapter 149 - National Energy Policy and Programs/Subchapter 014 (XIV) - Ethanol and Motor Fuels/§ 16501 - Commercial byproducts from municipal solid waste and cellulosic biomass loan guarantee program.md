@@ -44,7 +44,7 @@ The loan agreement for a loan guaranteed under subsection (b) shall provide that
 
 #### (g) Assurance of repayment
 
-The Secretary shall require that an applicant for a loan guarantee under subsection (b) provide an assurance of repayment in the form of a performance bond, insurance, collateral, or other means acceptable to the Secretary in anamount equal to not less than 20 percent of the amount of the loan.
+The Secretary shall require that an applicant for a loan guarantee under subsection (b) provide an assurance of repayment in the form of a performance bond, insurance, collateral, or other means acceptable to the Secretary in an amount equal to not less than 20 percent of the amount of the loan.
 
 #### (h) Guarantee fee
 

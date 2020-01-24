@@ -52,7 +52,7 @@
 
 (f) If an annuitant dies, annuity accrued and unpaid shall be paid.
 
-(g) Annuity accrued and unpaid on the termination, except by death, of the annuity of an annuitant or survivor annuitant shall be paid to that individual. Annuity accrued and unpaid on the death of a survivor annuitant shall be paid in the following order of precedence, and the payment bars recovery by any other person:
+(g) Annuity accrued and unpaid on the termination, except by death, of the annuity of an annuitant or survivor annuitant shall be paid tothat individual. Annuity accrued and unpaid on the death of a survivor annuitant shall be paid in the following order of precedence, and the payment bars recovery by any other person:
 
 &emsp;First, to the duly appointed executor or administrator of the estate of the survivor annuitant.
 

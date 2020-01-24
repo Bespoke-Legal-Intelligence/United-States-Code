@@ -20,7 +20,7 @@ Not later than 3 years after November 8, 2007, the Secretary shall prepare and t
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Local Government Reservoir Permit Review
 

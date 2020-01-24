@@ -12,7 +12,7 @@ The Director shall—
 
 &emsp;(2) provide technical assistance to Indian tribes, tribal organizations, and urban Indian organizations regarding existing HIV/AIDS prevention and treatment programs; and
 
-&emsp;(3) ensure interagency coordination to facilitate the inclusion of Indians in Federal HIV/AIDS research and grant opportunities, withemphasis on the programs operated under the Ryan White Comprehensive Aids <sup>1</sup> Resources Emergency Act of 1990 (Public Law 101–381; 104 Stat. 576) and the amendments made by that Act.
+&emsp;(3) ensure interagency coordination to facilitate the inclusion of Indians in Federal HIV/AIDS research and grant opportunities, with emphasis on the programs operated under the Ryan White Comprehensive Aids <sup>1</sup> Resources Emergency Act of 1990 (Public Law 101–381; 104 Stat. 576) and the amendments made by that Act.
 
 #### (c) Report
 

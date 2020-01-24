@@ -118,7 +118,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(A) an Indian tribe, band, nation, or other organized group or community, including—
 
-&emsp;&emsp;&emsp;(i) any Native village, as defined in section 1602(c) of title 43, whether organized traditionally or pursuant to the Act of June 18, 1934 (commonly known as the "Indian Reorganization Act"; 48 Stat. 984, chapter 576; 25 U.S.C 461 et seq.); <sup>1</sup> and
+&emsp;&emsp;&emsp;(i) any Native village, as defined in section 1602(c) of title 43, whether organizedtraditionally or pursuant to the Act of June 18, 1934 (commonly known as the "Indian Reorganization Act"; 48 Stat. 984, chapter 576; 25 U.S.C 461 et seq.); <sup>1</sup> and
 
 &emsp;&emsp;&emsp;(ii) any Regional Corporation or Village Corporation, as defined in subsection (g) or (j), respectively, of section 1602 of title 43,
 
@@ -232,7 +232,7 @@ For purposes of this subchapter:
 
 #### (38) Scientifically valid research
 
-&emsp;The term "scientifically valid research" includes applied research, basic research, and field-initiated research in which the rationale,design, and interpretation are soundly developed in accordance with principles of scientific research.
+&emsp;The term "scientifically valid research" includes applied research, basic research, and field-initiated research in which the rationale, design, and interpretation are soundly developed in accordance with principles of scientific research.
 
 #### (39) Secondary school
 
@@ -314,7 +314,7 @@ The Individuals with Disabilities Education Act, referred to in par. (37)(B), is
 
 Par. (3). Pub. L. 111–13, §1102(a)(1), struck out "described in section 12572 of this title" after "service program".
 
-Par. (13). Pub. L. 111–13, §1102(a)(2), which directed substitution of "sections 1001(a) and 1002(a)(1) of title 20" for "section 1001(a) of title 20", was executed bymaking the substitution for "section 1001 of title 20" to reflect the probable intent of Congress.
+Par. (13). Pub. L. 111–13, §1102(a)(2), which directed substitution of "sections 1001(a) and 1002(a)(1) of title 20" for "section 1001(a) of title 20", was executed by making the substitution for "section 1001 of title 20" to reflect the probable intent of Congress.
 
 Par. (17)(B). Pub. L. 111–13, §1102(a)(3), substituted "organization receiving assistance under the national service laws through which the participant is engaging in service" for "program in which the participant is enrolled".
 
@@ -369,10 +369,6 @@ Par. (24). Pub. L. 102–10, §3(2), (6), redesignated par. (23) as (24) and in 
 Pars. (25) to (29). Pub. L. 102–10, §3(2), redesignated pars. (24) to (28) as (25) to (29), respectively. Former par. (29) redesignated (30).
 
 Par. (30). Pub. L. 102–10, §3(2), (7), redesignated par. (29) as (30) and inserted "corps" after "youth service".
-
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2015 Amendment
 

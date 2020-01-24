@@ -4,7 +4,7 @@ Subject to the other provisions of this part:
 
 #### (1) Contractor employees
 
-&emsp;A covered DOE contractor employee shall receive contractor employee compensation under this part in accordance with section 7385s–2 of this title.
+&emsp;A covered DOE contractor employee shall receive contractor employee compensationunder this part in accordance with section 7385s–2 of this title.
 
 #### (2) Survivors
 

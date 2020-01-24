@@ -10,7 +10,7 @@
 
 &emsp;(2) expressly provides that it is available after the fiscal year covered by the law in which it appears.
 
-(d) A law may be construed to make an appropriation out of the Treasury or to authorize making a contract for the payment of money in excess of an appropriation only if the law specifically states that an appropriation is made or that such a contract may be made.
+(d) A law may be construed to make an appropriation out of the Treasury or to authorizemaking a contract for the payment of money in excess of an appropriation only if the law specifically states that an appropriation is made or that such a contract may be made.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 917.)
 
@@ -51,6 +51,10 @@ In subsection (a), the word "Appropriations" is substituted for "sums appropriat
 In subsection (c), before clause (1), the words "specific or indefinite" are omitted as surplus. The words "made subsequent to August 24, 1912" are omitted as executed. The words "without reference to a fiscal year" are omitted as surplus. In clause (1), the words "is for" are substituted for "belongs to one of the following four classes" to eliminate unnecessary words. The words "last specifically named in and excepted from the operation of the provisions of section 713 of this title" and the words related to section 5 of the Act of June 20, 1874 (31:713), in section 6(last sentence) of the Act of March 3, 1919 (ch. 99, 40 Stat. 1309), are omitted because section 5 was repealed by section 3 of the Act of July 6, 1949 (ch. 299, 63 Stat. 407).
 
 In subsection (d), the words "passed after June 30, 1906" are omitted as executed.
+
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–1, §1, Jan. 16, 2019, 133 Stat. 3, provided that: "This Act \[amending section 1341 of this title\] may be cited as the 'Government Employee Fair Treatment Act of 2019'."
 
 #### Short Title of 2018 Amendment
 
@@ -96,7 +100,7 @@ Sec. 2. <i>Duties of Agency Heads</i>. (a) With respect to all appropriations la
 
 (iii) no oral or written communications concerning earmarks shall supersede statutory criteria, competitive awards, or merit-based decisionmaking.
 
-(b) An agency shall not consider the views of a House, committee, Member, officer, or staff of the Congress with respect to commitments, obligations, or expenditures to carry out any earmark unless such views are in writing, to facilitate consideration in accordance with section 2(a)(ii) above. All written communications from the Congress, or a House, committee, Member, officer, or staff thereof, recommending that funds be committed, obligated, or expended on any earmark shall be made publicly available on the Internet by the receiving agency, not later than 30 days after receipt of such communication, unless otherwise specifically directed by the head of the agency, without delegation, after consultation with the Director of the Office of Management and Budget, to preserve appropriate confidentiality between the executive and legislative branches.
+(b) An agency shall not consider the views of a House, committee, Member, officer, or staff of the Congress with respect to commitments, obligations, or expenditures to carry out any earmark unless such views arein writing, to facilitate consideration in accordance with section 2(a)(ii) above. All written communications from the Congress, or a House, committee, Member, officer, or staff thereof, recommending that funds be committed, obligated, or expended on any earmark shall be made publicly available on the Internet by the receiving agency, not later than 30 days after receipt of such communication, unless otherwise specifically directed by the head of the agency, without delegation, after consultation with the Director of the Office of Management and Budget, to preserve appropriate confidentiality between the executive and legislative branches.
 
 (c) Heads of agencies shall otherwise implement within their respective agencies the policy set forth in section 1 of this order, consistent with such instructions as the Director of the Office of Management and Budget may prescribe.
 

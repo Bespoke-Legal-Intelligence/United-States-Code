@@ -18,7 +18,7 @@ Before official inspection or services related to weighing is refused to any per
 
 #### (e) Collection and disposition of civil penalties
 
-Moneys received in payment of such civil penalties shall be deposited in the general fund of the United States Treasury. Upon any failure to pay the penalties assessed under this section, the Secretary may request the Attorney General of the United States to institute a civil action to collect the penalties in the appropriate courtidentified in subsection (h) of section 87f of this title for the jurisdiction in which the respondent is found or resides or transacts business, and such court shall have jurisdiction to hear and decide any such action.
+Moneys received in payment of such civil penalties shall be deposited in the general fund of the United States Treasury. Upon any failure to pay the penalties assessed under this section, the Secretary may request the Attorney General of the United States to institute a civil action to collect the penalties in the appropriate court identified in subsection (h) of section 87f of this title for the jurisdiction in which the respondent is found or resides or transacts business, and such court shall have jurisdiction to hear and decide any such action.
 
 (Aug. 11, 1916, ch. 313, pt. B, §10, 39 Stat. 485; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 765; Pub. L. 94–582, §12, Oct. 21, 1976, 90 Stat. 2879; Pub. L. 103–156, §12(i), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 

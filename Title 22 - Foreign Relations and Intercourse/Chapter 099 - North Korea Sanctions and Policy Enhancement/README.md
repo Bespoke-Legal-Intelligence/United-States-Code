@@ -25,6 +25,8 @@
 | :--- | ---: |
 | [9221\.](Subchapter%20002%20%28II%29%20-%20Sanctions%20Against%20North%20Korean%20Proliferation%2C%20Human%20Rights%20Abuses%2C%20and%20Illicit%20Activities/%C2%A7%2009221%20-%20Determinations%20with%20respect%20to%20North%20Korea%20as%20a%20jurisdiction%20of%20primary%20money%20laundering%20concern.md) | Determinations with respect to North Korea as a jurisdiction of primary money laundering concern. |
 | [9221a.](Subchapter%20002%20%28II%29%20-%20Sanctions%20Against%20North%20Korean%20Proliferation%2C%20Human%20Rights%20Abuses%2C%20and%20Illicit%20Activities/%C2%A7%2009221a%20-%20Prohibition%20on%20indirect%20correspondent%20accounts.md) | Prohibition on indirect correspondent accounts. |
+| [9221b.](Subchapter%20002%20%28II%29%20-%20Sanctions%20Against%20North%20Korean%20Proliferation%2C%20Human%20Rights%20Abuses%2C%20and%20Illicit%20Activities/%C2%A7%2009221b%20-%20Sanctions%20with%20respect%20to%20foreign%20financial%20institutions%20that%20provide%20financial%20services%20to%20certain%20sanctioned%20persons.md) | Sanctions with respect to foreign financial institutions that provide financial services to certain sanctioned persons. |
+| [9221c.](Subchapter%20002%20%28II%29%20-%20Sanctions%20Against%20North%20Korean%20Proliferation%2C%20Human%20Rights%20Abuses%2C%20and%20Illicit%20Activities/%C2%A7%2009221c%20-%20Prohibition%20on%20transactions%20with%20certain%20sanctioned%20persons%20by%20persons%20owned%20or%20controlled%20by%20United%20States%20financial%20institutions.md) | Prohibition on transactions with certain sanctioned persons by persons owned or controlled by United States financial institutions. |
 | [9222\.](Subchapter%20002%20%28II%29%20-%20Sanctions%20Against%20North%20Korean%20Proliferation%2C%20Human%20Rights%20Abuses%2C%20and%20Illicit%20Activities/%C2%A7%2009222%20-%20Ensuring%20the%20consistent%20enforcement%20of%20United%20Nations%20Security%20Council%20resolutions%20and%20financial%20restrictions%20on%20North%20Korea.md) | Ensuring the consistent enforcement of United Nations Security Council resolutions and financial restrictions on North Korea. |
 | [9223\.](Subchapter%20002%20%28II%29%20-%20Sanctions%20Against%20North%20Korean%20Proliferation%2C%20Human%20Rights%20Abuses%2C%20and%20Illicit%20Activities/%C2%A7%2009223%20-%20Proliferation%20prevention%20sanctions.md) | Proliferation prevention sanctions. |
 | [9224\.](Subchapter%20002%20%28II%29%20-%20Sanctions%20Against%20North%20Korean%20Proliferation%2C%20Human%20Rights%20Abuses%2C%20and%20Illicit%20Activities/%C2%A7%2009224%20-%20Procurement%20sanctions.md) | Procurement sanctions. |
@@ -62,6 +64,35 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER V—AUTHORITIES AND REQUIREMENTS RELATED TO EXPANDED SANCTIONS
+
+|  |  |
+| :--- | ---: |
+| [9261\.](Subchapter%20005%20%28V%29%20-%20Authorities%20and%20Requirements%20Related%20to%20Expanded%20Sanctions/%C2%A7%2009261%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part I—Congressional Review and Oversight
+
+|  |  |
+| :--- | ---: |
+| [9265\.](Subchapter%20005%20%28V%29%20-%20Authorities%20and%20Requirements%20Related%20to%20Expanded%20Sanctions/Part%20001%20%28I%29%20-%20Congressional%20Review%20and%20Oversight/%C2%A7%2009265%20-%20Notification%20of%20termination%20or%20suspension%20of%20sanctions.md) | Notification of termination or suspension of sanctions. |
+| [9265a.](Subchapter%20005%20%28V%29%20-%20Authorities%20and%20Requirements%20Related%20to%20Expanded%20Sanctions/Part%20001%20%28I%29%20-%20Congressional%20Review%20and%20Oversight/%C2%A7%2009265a%20-%20Reports%20on%20certain%20licensing%20actions.md) | Reports on certain licensing actions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part II—General Matters
+
+|  |  |
+| :--- | ---: |
+| [9269\.](Subchapter%20005%20%28V%29%20-%20Authorities%20and%20Requirements%20Related%20to%20Expanded%20Sanctions/Part%20002%20%28II%29%20-%20General%20Matters/%C2%A7%2009269%20-%20Rulemaking.md) | Rulemaking. |
+| [9269a.](Subchapter%20005%20%28V%29%20-%20Authorities%20and%20Requirements%20Related%20to%20Expanded%20Sanctions/Part%20002%20%28II%29%20-%20General%20Matters/%C2%A7%2009269a%20-%20Authority%20to%20consolidate%20reports.md) | Authority to consolidate reports. |
+| [9269b.](Subchapter%20005%20%28V%29%20-%20Authorities%20and%20Requirements%20Related%20to%20Expanded%20Sanctions/Part%20002%20%28II%29%20-%20General%20Matters/%C2%A7%2009269b%20-%20Waivers%2C%20exemptions%2C%20and%20termination.md) | Waivers, exemptions, and termination. |
+| [9269c.](Subchapter%20005%20%28V%29%20-%20Authorities%20and%20Requirements%20Related%20to%20Expanded%20Sanctions/Part%20002%20%28II%29%20-%20General%20Matters/%C2%A7%2009269c%20-%20Procedures%20for%20review%20of%20classified%20and%20certain%20other%20information.md) | Procedures for review of classified and certain other information. |
+| [9269d.](Subchapter%20005%20%28V%29%20-%20Authorities%20and%20Requirements%20Related%20to%20Expanded%20Sanctions/Part%20002%20%28II%29%20-%20General%20Matters/%C2%A7%2009269d%20-%20Exception%20relating%20to%20importation%20of%20goods.md) | Exception relating to importation of goods. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -74,3 +105,4 @@
 - [Subchapter 002 (II) - Sanctions Against North Korean Proliferation, Human Rights Abuses, and Illicit Activities](Subchapter%20002%20%28II%29%20-%20Sanctions%20Against%20North%20Korean%20Proliferation%2C%20Human%20Rights%20Abuses%2C%20and%20Illicit%20Activities/README.md)
 - [Subchapter 003 (III) - Promotion of Human Rights](Subchapter%20003%20%28III%29%20-%20Promotion%20of%20Human%20Rights/README.md)
 - [Subchapter 004 (IV) - General Authorities](Subchapter%20004%20%28IV%29%20-%20General%20Authorities/README.md)
+- [Subchapter 005 (V) - Authorities and Requirements Related to Expanded Sanctions](Subchapter%20005%20%28V%29%20-%20Authorities%20and%20Requirements%20Related%20to%20Expanded%20Sanctions/README.md)

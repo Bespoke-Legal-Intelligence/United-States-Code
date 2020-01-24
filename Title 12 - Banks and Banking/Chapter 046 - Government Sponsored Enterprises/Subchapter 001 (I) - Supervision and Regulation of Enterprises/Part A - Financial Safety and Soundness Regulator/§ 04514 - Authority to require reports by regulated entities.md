@@ -54,7 +54,7 @@ The Director may require a regulated entity to submit a report to the Director a
 
 #### (C) Third tier
 
-&emsp;&emsp;A violation described in paragraph (1) shall be subject to a penalty of not more than $1,000,000 per day for each day during which such violation continues or such false or misleading information is not corrected, in any case in which the subject regulated entity committed such violation knowingly or with reckless disregard for the accuracy of any such information or report.
+&emsp;&emsp;A violation described in paragraph (1) shall be subject to a penalty of not more than$1,000,000 per day for each day during which such violation continues or such false or misleading information is not corrected, in any case in which the subject regulated entity committed such violation knowingly or with reckless disregard for the accuracy of any such information or report.
 
 #### (3) Assessments
 

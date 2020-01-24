@@ -54,11 +54,11 @@
 
 &emsp;&emsp;(E) additional logistics capabilities;
 
-&emsp;&emsp;(F) other responsibilities under the catastrophic incident annex and the catastrophic incident supplement of the National Response Plan;
+&emsp;&emsp;(F) other responsibilities under the catastrophic incident annex and the catastrophicincident supplement of the National Response Plan;
 
 &emsp;&emsp;(G) State, local, and tribal government catastrophic incident preparedness; and
 
-&emsp;&emsp;(H) covering increases in the fixed costs or expenses of the Agency, including rent or property acquisition costs or expenses,taxes, contributions to the working capital fund of the Department, and security costs for the year after the year in which such estimate is submitted.
+&emsp;&emsp;(H) covering increases in the fixed costs or expenses of the Agency, including rent or property acquisition costs or expenses, taxes, contributions to the working capital fund of the Department, and security costs for the year after the year in which such estimate is submitted.
 
 #### (c) State preparedness report
 

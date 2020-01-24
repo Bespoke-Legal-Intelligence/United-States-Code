@@ -4,7 +4,7 @@
 
 No accrediting agency or association may be determined by the Secretary to be a reliable authority as to the quality of education or training offered for the purposes of this chapter or for other Federal purposes, unless the agency or association meets criteria established by the Secretary pursuant to this section. The Secretary shall, after notice and opportunity for a hearing, establish criteria for such determinations. Such criteria shall include an appropriate measure or measures of student achievement. Such criteria shall require that—
 
-&emsp;(1) the accrediting agency or association shall be a State, regional, or national agency or association and shall demonstrate the ability and the experience to operate as an accrediting agency or association within the State, region, or nationally, as appropriate;
+&emsp;(1) the accrediting agency or association shall be a State, regional, or national agencyor association and shall demonstrate the ability and the experience to operate as an accrediting agency or association within the State, region, or nationally, as appropriate;
 
 &emsp;(2) such agency or association—
 
@@ -294,7 +294,7 @@ Subsec. (a)(8). Pub. L. 105–244, §492(b)(6), substituted "State licensing or 
 
 Subsec. (c). Pub. L. 105–244, §492(c)(1), substituted "recognized by the Secretary" for "approved by the Secretary" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 105–244, §492(c)(2), substituted "(which may include unannounced site visits)" for "(at least one of which inspections at each institution that provides vocational education and training shall be unannounced),".
+Subsec. (c)(1). Pub. L. 105–244, §492(c)(2), substituted "(which may include unannounced site visits)" for "(at least one of which inspections at each institution thatprovides vocational education and training shall be unannounced),".
 
 Subsec. (d). Pub. L. 105–244, §492(d)(1), substituted "recognition" for "approval" in heading and "recognized" for "approved" in text.
 

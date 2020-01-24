@@ -8,7 +8,7 @@ This section shall apply to all cargo to be exported that is moved by a vessel c
 
 (1) No shipper of cargo subject to this section (including an ocean transportation intermediary that is a non-vessel-operating common carrier (as defined in section 3(17)(B) of the Shipping Act of 1984 (46 U.S.C. App. 1702(17)(B) <sup>1</sup>) <sup>2</sup> may tender or cause to be tendered to a vessel carrier cargo subject to this section for loading on a vessel in a United States port, unless such cargo is properly documented pursuant to this subsection.
 
-(2) For the purposes of this subsection, cargo shall be considered properly documented if the shipper submits to the vessel carrier or its agent a complete set of shipping documents no laterthan 24 hours after the cargo is delivered to the marine terminal operator, but under no circumstances later than 24 hours prior to departure of the vessel.
+(2) For the purposes of this subsection, cargo shall be considered properly documented if the shipper submits to the vessel carrier or its agent a complete set of shipping documents no later than 24 hours after the cargo is delivered to the marine terminal operator, but under no circumstances later than 24 hours prior to departure of the vessel.
 
 (3) A complete set of shipping documents shall include—
 
@@ -62,7 +62,7 @@ Nothing in this section shall be construed, interpreted, or applied to relieve o
 
 Section 3(17)(B) of the Shipping Act of 1984 (46 U.S.C. App. 1702(17)(B)), referred to in subsec. (b)(1), is section 3(17)(B) of Pub. L. 98–237, which was classified to section 1702(17)(B) of the former Appendix to Title 46, Shipping, prior to repeal and restatement as section 40102(16) of Title 46 by Pub. L. 109–304, §§7, 19, Oct. 6, 2006, 120 Stat. 1523, 1710. Par. (16) of section 40102 was redesignated par. (17) by Pub. L. 115–282, title VII, §704(1), Dec. 4, 2018, 132 Stat. 4294.
 
-Section 3(14) of the Shipping Act of 1984 (46 U.S.C. App. 1702(14)), referred to in subsec. (c)(1), is section 3(14) of Pub. L. 98–237, which was classified to section1702(14) of the former Appendix to Title 46, Shipping, prior to repeal and restatement as section 40102(14) of Title 46 by Pub. L. 109–304, §§7, 19, Oct. 6, 2006, 120 Stat. 1523, 1710. Par. (14) of section 40102 was redesignated par. (15) by Pub. L. 115–282, title VII, §704(1), Dec. 4, 2018, 132 Stat. 4294.
+Section 3(14) of the Shipping Act of 1984 (46 U.S.C. App. 1702(14)), referred to in subsec. (c)(1), is section 3(14) of Pub. L. 98–237, which was classified to section 1702(14) of the former Appendix to Title 46, Shipping, prior to repeal and restatement as section 40102(14) of Title 46 by Pub. L. 109–304, §§7, 19, Oct. 6, 2006, 120 Stat. 1523, 1710. Par. (14) of section 40102 was redesignated par. (15) by Pub. L. 115–282, title VII, §704(1), Dec. 4, 2018, 132 Stat. 4294.
 
 #### Amendments
 

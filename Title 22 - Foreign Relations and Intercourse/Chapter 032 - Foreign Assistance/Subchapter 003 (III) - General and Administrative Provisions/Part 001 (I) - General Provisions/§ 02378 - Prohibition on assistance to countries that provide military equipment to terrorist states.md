@@ -8,7 +8,7 @@
 
 #### (2) Applicability
 
-&emsp;The prohibition under this section with respect to a foreign government shall terminate 1 year after that government ceases to provide lethal military equipment. This section applies with respect to lethal military equipment provided under a contract entered into after April 24, 1996.
+&emsp;The prohibition under this section with respect to a foreign government shall terminate 1 year after that government ceases to providelethal military equipment. This section applies with respect to lethal military equipment provided under a contract entered into after April 24, 1996.
 
 #### (b) Waiver
 

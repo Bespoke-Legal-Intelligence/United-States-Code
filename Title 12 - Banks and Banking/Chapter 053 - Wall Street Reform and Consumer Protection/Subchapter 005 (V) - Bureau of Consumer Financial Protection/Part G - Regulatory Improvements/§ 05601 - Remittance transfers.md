@@ -6,7 +6,7 @@
 
 #### (1) Expansion of system
 
-&emsp;The Board of Governors shall work with the Federal reserve banks and the Department of the Treasury to expand the use of the automated clearinghouse system and other payment mechanisms for remittance transfers to foreign countries, with a focus on countries that receive significant remittance transfers from the United States, based on—
+&emsp;The Board of Governors shall work with the Federal reserve banks and the Department of the Treasury to expand the use of the automated clearinghouse system and other payment mechanisms for remittance transfers toforeign countries, with a focus on countries that receive significant remittance transfers from the United States, based on—
 
 &emsp;&emsp;(A) the number, volume, and size of such transfers;
 

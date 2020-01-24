@@ -10,7 +10,7 @@ The Administrator shall undertake a systematic study of the composition of the s
 
 #### (c) Priorities study
 
-For purposes of determining priorities for research on recovery of materials and energy fromsolid waste and developing materials and energy recovery research, development, and demonstration strategies, the Administrator shall review, and make a study of, the various existing and promising techniques of energy recovery from solid waste (including, but not limited to, waterwall furnace incinerators, dry shredded fuel systems, pyrolysis, densified refuse-derived fuel systems, anerobic digestion, and fuel and feedstock preparation systems). In carrying out such study the Administrator shall investigate with respect to each such technique—
+For purposes of determining priorities for research on recovery of materials and energy from solid waste and developing materials and energy recovery research, development, and demonstration strategies, the Administrator shall review, and make a study of, the various existing and promising techniques of energy recovery from solid waste (including, but not limited to, waterwall furnace incinerators, dry shredded fuel systems, pyrolysis, densified refuse-derived fuel systems, anerobic digestion, and fuel and feedstock preparation systems). In carrying out such study the Administrator shall investigate with respect to each such technique—
 
 &emsp;(1) the degree of public need for the potential results of such research, development, or demonstration,
 
@@ -74,7 +74,7 @@ The Administrator shall conduct research and report on the economics of, and imp
 
 &emsp;(A) the appropriateness of recommended incentives and disincentives to foster resource conservation;
 
-&emsp;(B) the effect of existing public policies (including subsidies and economic incentives anddisincentives, percentage depletion allowances, capital gains treatment and other tax incentives and disincentives) upon resource conservation, and the likely effect of the modification or elimination of such incentives and disincentives upon resource conservation;
+&emsp;(B) the effect of existing public policies (including subsidies and economic incentives and disincentives, percentage depletion allowances, capital gains treatment and other tax incentives and disincentives) upon resource conservation, and the likely effect of the modification or elimination of such incentives and disincentives upon resource conservation;
 
 &emsp;(C) the appropriateness and feasibility of restricting the manufacture or use of categories of consumer products as a resource conservation strategy;
 
@@ -204,7 +204,7 @@ There are authorized to be appropriated not to exceed $8,000,000 for the fiscal 
 
 #### (r) Minimization of hazardous waste
 
-The Administrator shall compile, and not later than October 1, 1986, submit to the Congress, a report on the feasibility and desirabilityof establishing standards of performance or of taking other additional actions under this chapter to require the generators of hazardous waste to reduce the volume or quantity and toxicity of the hazardous waste they generate, and of establishing with respect to hazardous wastes required management practices or other requirements to assure such wastes are managed in ways that minimize present and future risks to human health and the environment. Such report shall include any recommendations for legislative changes which the Administrator determines are feasible and desirable to implement the national policy established by section 6902 of this title.
+The Administrator shall compile, and not later than October 1, 1986, submit to the Congress, a report on the feasibility and desirability of establishing standards of performance or of taking other additional actions under this chapter to require the generators of hazardous waste to reduce the volume or quantity and toxicity of the hazardous waste they generate, and of establishing with respect to hazardous wastes required management practices or other requirements to assure such wastes are managed in ways that minimize present and future risks to human health and the environment. Such report shall include any recommendations for legislative changes which the Administrator determines are feasible and desirable to implement the national policy established by section 6902 of this title.
 
 #### (s) Extending landfill life and reusing landfilled areas
 

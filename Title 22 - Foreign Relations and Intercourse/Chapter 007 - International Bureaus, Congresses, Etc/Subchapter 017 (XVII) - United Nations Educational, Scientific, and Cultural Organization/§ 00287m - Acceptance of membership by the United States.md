@@ -46,7 +46,7 @@ The President is hereby authorized to accept membership for the United States in
 
 &emsp;&emsp;&nbsp;by assuring the conservation and protection of the world's inheritance of books, works of art and monuments of history and science, and recommending to the nations concerned the necessary international conventions;
 
-&emsp;&emsp;&nbsp;by encouraging cooperation among the nations in all branches of intellectual activity, including the international exchange of persons active in the fields of education, science and culture and the exchange of publications, objects of artistic and scientific interest and other materials of information;
+&emsp;&emsp;&nbsp;by encouraging cooperation among the nations in all branches of intellectual activity, including the international exchange of persons active inthe fields of education, science and culture and the exchange of publications, objects of artistic and scientific interest and other materials of information;
 
 &emsp;&emsp;&nbsp;by initiating methods of international cooperation calculated to give the people of all countries access to the printed and published materials produced by any of them.
 

@@ -6,11 +6,11 @@ Specific Costs.—The following costs are not allowable under a covered contract
 
 &emsp;(1) Costs of entertainment, including amusement, diversion, and social activities, and any costs directly associated with those costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
 
-&emsp;(2) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature, or a legislative body of a political subdivision of a State.
+&emsp;(2) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature,or a legislative body of a political subdivision of a State.
 
 &emsp;(3) Costs incurred in defense of any civil or criminal fraud proceeding or similar proceeding (including filing of any false certification) brought by the Federal Government where the contractor is found liable or had pleaded nolo contendere to a charge of fraud or similar proceeding (including filing of a false certification).
 
-&emsp;(4) Payments of fines and penalties resulting from violations of, or failure to comply with,Federal, State, local, or foreign laws and regulations, except when incurred as a result of compliance with specific terms and conditions of the contract or specific written instructions from the contracting officer authorizing in advance those payments in accordance with applicable provisions of the Federal Acquisition Regulation.
+&emsp;(4) Payments of fines and penalties resulting from violations of, or failure to comply with, Federal, State, local, or foreign laws and regulations, except when incurred as a result of compliance with specific terms and conditions of the contract or specific written instructions from the contracting officer authorizing in advance those payments in accordance with applicable provisions of the Federal Acquisition Regulation.
 
 &emsp;(5) Costs of membership in any social, dining, or country club or organization.
 
@@ -116,7 +116,7 @@ In general.—Not later than 60 days after the end of each fiscal year, the Dire
 
 &emsp;"(C) the Committee on Homeland Security and Governmental Affairs of the Senate;
 
-&emsp;"(D) the Committee on Oversight and Government Reform of the House of Representatives;
+&emsp;"(D) the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives;
 
 &emsp;"(E) the Committee on Appropriations of the Senate; and
 

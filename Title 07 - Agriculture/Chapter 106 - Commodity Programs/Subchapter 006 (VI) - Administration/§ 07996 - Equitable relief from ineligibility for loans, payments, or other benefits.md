@@ -74,7 +74,7 @@ As a condition of receiving relief under this section, the Secretary may require
 
 &emsp;&emsp;(B) the total amount of loans, payments, and benefits for which relief has been previously provided to the participant under this subsection is not more than $5,000; and
 
-&emsp;&emsp;(C) the total amount of loans, payments, and benefits for which relief is provided tosimilarly situated participants under this subsection is not more than $1,000,000, as determined by the Secretary.
+&emsp;&emsp;(C) the total amount of loans, payments, and benefits for which relief is provided to similarly situated participants under this subsection is not more than $1,000,000, as determined by the Secretary.
 
 #### (2) Consultation, approval, and reversal
 
@@ -122,7 +122,7 @@ The authority provided in this section is in addition to any other authority pro
 
 #### References in Text
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(2)(B)(i), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(2)(B)(i), is title III of Pub. L.87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 The Federal Crop Insurance Act, referred to in subsec. (a)(2)(B)(ii), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 

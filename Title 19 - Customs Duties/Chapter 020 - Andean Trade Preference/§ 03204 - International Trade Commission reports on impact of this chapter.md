@@ -18,7 +18,7 @@
 
 (1) Each report required under subsection (a) shall include, but not be limited to, an assessment by the Commission regarding—
 
-&emsp;(A) the actual effect, during the period covered by the report, of this chapter on the United States economy generally as well as on those specific domestic industries which produce articles that are like, or directly competitive with, articles being imported into the United States from beneficiary countries;
+&emsp;(A) the actual effect, during the period covered by the report, of this chapter on the United States economy generally as well as onthose specific domestic industries which produce articles that are like, or directly competitive with, articles being imported into the United States from beneficiary countries;
 
 &emsp;(B) the probable future effect that this chapter will have on the United States economy generally, as well as on such domestic industries, before the provisions of this chapter terminate; and
 

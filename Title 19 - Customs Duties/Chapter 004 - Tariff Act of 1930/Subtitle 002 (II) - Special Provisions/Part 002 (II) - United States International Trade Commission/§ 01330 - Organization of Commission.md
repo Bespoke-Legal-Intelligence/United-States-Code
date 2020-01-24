@@ -28,7 +28,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 &emsp;(B) Each term of office thereafter shall begin on the day after the closing date of the immediately preceding term of office and end at the close of the 2-year period beginning on such day.
 
-(3)(A) The President may not designate as the chairman of the Commission for any term any commissioner who is a member of the political party of which the chairman of the Commission for the immediately preceding term is a member, or who has less than 1 year of continuous service as a commissioner as of the date such designation is being made.
+(3)(A) The President may not designate as the chairman of the Commission for any term anycommissioner who is a member of the political party of which the chairman of the Commission for the immediately preceding term is a member, or who has less than 1 year of continuous service as a commissioner as of the date such designation is being made.
 
 (B) The President may not designate as the vice chairman of the Commission for any term any commissioner who is a member of the political party of which the chairman for that term is a member.
 
@@ -64,7 +64,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 (4) In a case to which paragraph (2)(B)(ii) applies, for purposes of section 2253(a) of this title, notwithstanding section 2192(a)(1)(A) of this title, the second blank space in the joint resolution described in such section 2192(a)(1)(A) of this title shall be filled with the appropriate date and the following: "The action which shall take effect under section 203(a) of the Trade Act of 1974 is the finding or recommendation agreed upon by Commissioners \_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_\_\_, and \_\_\_\_\_\_\_\_\_\_\_\_." The three blank spaces shall be filled with the names of the appropriate Commissioners.
 
-(5) Whenever, in any case in which the Commission is authorized to make an investigation upon its own motion, upon complaint, or upon application of any interested party, one-half of the number of commissioners voting agree that the investigation should be made, such investigation shall thereupon be carried out in accordance with the statutory authority covering the matter in question. Whenever the Commission is authorized to hold hearings in the course of any investigation and one-half of the numberof commissioners voting agree that hearings should be held, such hearings shall thereupon be held in accordance with the statutory authority covering the matter in question.
+(5) Whenever, in any case in which the Commission is authorized to make an investigation upon its own motion, upon complaint, or upon application of any interested party, one-half of the number of commissioners voting agree that the investigation should be made, such investigation shall thereupon be carried out in accordance with the statutory authority covering the matter in question. Whenever the Commission is authorized to hold hearings in the course of any investigation and one-half of the number of commissioners voting agree that hearings should be held, such hearings shall thereupon be held in accordance with the statutory authority covering the matter in question.
 
 #### (e) Authorization of appropriations
 
@@ -132,7 +132,7 @@ Subsec. (c)(3)(C). Pub. L. 102–185, §1(a)(2)(B), inserted at end "Designation
 
 Pub. L. 102–185, §1(a)(1)(B), struck out at end "Designation of a chairman under this subparagraph may be made without regard to the limitation set forth in subparagraph (A)(i)."
 
-<b>1990</b>—Subsec. (e)(2). Pub. L. 101–382 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "There are authorized to be appropriated to the Commission for necessary expenses (including the rental of conference rooms in the District of Columbia and elsewhere) for fiscal year 1990 not to exceed $39,943,000; ofwhich not to exceed $2,500 may be used, subject to approval by the Chairman of the Commission, for reception and entertainment expenses. No part of any sum that is appropriated under the authority of this paragraph may be used by the Commission for the making of any special study, investigation, or report that is requested by any agency of the executive branch unless that agency reimburses the Commission for the cost thereof."
+<b>1990</b>—Subsec. (e)(2). Pub. L. 101–382 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "There are authorized to be appropriated to the Commission for necessary expenses (including the rental of conference rooms in the District of Columbia and elsewhere) for fiscal year 1990 not to exceed $39,943,000; of which not to exceed $2,500 may be used, subject to approval by the Chairman of the Commission, for reception and entertainment expenses. No part of any sum that is appropriated under the authority of this paragraph may be used by the Commission for the making of any special study, investigation, or report that is requested by any agency of the executive branch unless that agency reimburses the Commission for the cost thereof."
 
 <b>1989</b>—Subsec. (e)(2). Pub. L. 101–207 substituted "1990" for "1988" and "$39,943,000" for "$35,386,000".
 
@@ -214,7 +214,7 @@ Amendment by section 248(c) of Pub. L. 98–573 effective on 15th day after Oct.
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–106, §2(b), Aug. 17, 1977, 91 Stat. 868, provided that: "The amendment made by this section\[amending this section\] shall apply with respect to the designation of chairmen and vice chairmen of the United States International Trade Commission for terms beginning after June 16, 1978."
+Pub. L. 95–106, §2(b), Aug. 17, 1977, 91 Stat. 868, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to the designation of chairmen and vice chairmen of the United States International Trade Commission for terms beginning after June 16, 1978."
 
 #### Effective Date of 1976 Amendment
 

@@ -54,7 +54,7 @@ Highway and railroad grade crossings and drawbridges.—No funds shall be approv
 
 &emsp;(2)
 
-Temporary traffic control devices.—No funds shall be approved for expenditure on any Federal-aid highway, or highway affected under chapter 2, unless proper temporary traffic control devices to improve safety in workzones will be installed and maintained during construction, utility, and maintenance operations on that portion of the highway with respect to which such expenditures are to be made. Installation and maintenance of the devices shall be in accordance with the Manual on Uniform Traffic Control Devices.
+Temporary traffic control devices.—No funds shall be approved for expenditure on any Federal-aid highway, or highway affected under chapter 2, unless proper temporary traffic control devices to improve safety in work zones will be installed and maintained during construction, utility, and maintenance operations on that portion of the highway with respect to which such expenditures are to be made. Installation and maintenance of the devices shall be in accordance with the Manual on Uniform Traffic Control Devices.
 
 (f) The Secretary shall not, as a condition precedent to his approval under section 106 of this title, require any State to acquire title to, or control of, any marginal land along the proposed highway in addition to that reasonably necessary for road surfaces, median strips, bikeways, pedestrian walkways, gutters, ditches, and side slopes, and of sufficient width to provide service roads for adjacent property to permit safe access at controlled locations in order to expedite traffic, promote safety, and minimize roadside parking.
 
@@ -94,7 +94,7 @@ Temporary traffic control devices.—No funds shall be approved for expenditure 
 
 (2) For the purpose of this subsection—
 
-&emsp;(A) the term "utility facility" means any privately, publicly, or cooperatively owned line, facility, or system for producing, transmitting, or distributing communications, power, electricity, light, heat, gas, oil, crudeproducts, water, steam, waste, storm water not connected with highway drainage, or any other similar commodity, including any fire or police signal system or street lighting system, which directly or indirectly serves the public; and
+&emsp;(A) the term "utility facility" means any privately, publicly, or cooperatively owned line, facility, or system for producing, transmitting, or distributing communications, power, electricity, light, heat, gas, oil, crude products, water, steam, waste, storm water not connected with highway drainage, or any other similar commodity, including any fire or police signal system or street lighting system, which directly or indirectly serves the public; and
 
 &emsp;(B) the term "right-of-way" means any real property, or interest therein, acquired, dedicated, or reserved for the construction, operation, and maintenance of a highway.
 
@@ -246,7 +246,7 @@ Pub. L. 114–94, div. A, title I, §1315(b), Dec. 4, 2015, 129 Stat. 1403, prov
 
 #### Roadway Design Standard Flexibility
 
-Pub. L. 114–94, div. A, title I, §1404(b), Dec. 4, 2015, 129 Stat. 1409, provided that: "Notwithstanding section 109(o) of title 23, United States Code, a State may allow a local jurisdiction to use a roadway design publication that is different from the roadway design publicationused by the State in which the local jurisdiction is located for the design of a project on a roadway under the ownership of the local jurisdiction (other than a highway on the Interstate System) if—
+Pub. L. 114–94, div. A, title I, §1404(b), Dec. 4, 2015, 129 Stat. 1409, provided that: "Notwithstanding section 109(o) of title 23, United States Code, a State may allow a local jurisdiction to use a roadway design publication that is different from the roadway design publication used by the State in which the local jurisdiction is located for the design of a project on a roadway under the ownership of the local jurisdiction (other than a highway on the Interstate System) if—
 
 &emsp;"(1) the local jurisdiction is a direct recipient of Federal funds for the project;
 
@@ -442,7 +442,7 @@ Outcome measurements.—The Secretary shall establish a method to verify that ac
 
 #### Engineering Judgment
 
-Pub. L. 112–141, div. A, title I, §1529, July 6, 2012, 126 Stat. 583, provided that: "Not later than 90 days afterthe date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\] shall issue guidance to State transportation departments clarifying that the standards, guidance, and options for design and application of traffic control devices provided in the Manual on Uniform Traffic Control Devices should not be considered a substitute for engineering judgment."
+Pub. L. 112–141, div. A, title I, §1529, July 6, 2012, 126 Stat. 583, provided that: "Not later than 90 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\] shall issue guidance to State transportation departments clarifying that the standards, guidance, and options for design and application of traffic control devices provided in the Manual on Uniform Traffic Control Devices shouldnot be considered a substitute for engineering judgment."
 
 #### Highway Signs Relating to Veterans Cemeteries
 
@@ -556,7 +556,7 @@ General rule.—No funds made available out of the Highway Trust Fund may be use
 
 "(2)
 
-Exceptions.—Paragraph (1) shall not apply to construction of Type II noise barriers along lands thatwere developed or were under substantial construction before approval of the acquisition of the rights-of-ways for, or construction of, the existing highway."
+Exceptions.—Paragraph (1) shall not apply to construction of Type II noise barriers along lands that were developed or were under substantial construction before approval of the acquisition of the rights-of-ways for, or construction of, the existing highway."
 
 #### Highway Signs for National Highway System
 
@@ -564,7 +564,7 @@ Pub. L. 104–59, title III, §359(b), Nov. 28, 1995, 109 Stat. 626, provided th
 
 "(1)
 
-Study.—The Secretary shall conduct a study to determine the cost, need, and efficacy of establishing a highway sign for identifying routes on the National Highway System. In conducting the study, the Secretary shall make a determination concerning whether to identify National Highway System route numbers.
+Study.—The Secretary shall conduct a study to determine the cost, need, and efficacy of establishing ahighway sign for identifying routes on the National Highway System. In conducting the study, the Secretary shall make a determination concerning whether to identify National Highway System route numbers.
 
 "(2)
 

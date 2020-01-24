@@ -14,10 +14,13 @@
 | [7419\.](%C2%A7%2007419%20-%20Recruit%20basic%20training%20separate%20housing%20for%20male%20and%20female%20recruits.md) | Recruit basic training: separate housing for male and female recruits. |
 | [7420\.](%C2%A7%2007420%20-%20Recruit%20basic%20training%20privacy.md) | Recruit basic training: privacy. |
 | [7421\.](%C2%A7%2007421%20-%20Degree%20granting%20authority%20for%20United%20States%20Army%20War%20College.md) | Degree granting authority for United States Army War College. |
+| [7422\.](%C2%A7%2007422%20-%20Degree%20granting%20authority%20for%20United%20States%20Army%20Armament%20Graduate%20School.md) | Degree granting authority for United States Army Armament Graduate School. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title V, §553(a)(2), Dec. 20, 2019, 133 Stat. 1387, added item 7422.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 401 of this title as this chapter and items 4301 to 4321 as 7401 to 7421, respectively.
 
@@ -64,3 +67,4 @@ Pub. L. 102–484, div. A, title III, §380(c)(2), Oct. 23, 1992, 106 Stat. 2391
 - [&sect; 07419 - Recruit basic training separate housing for male and female recruits](%C2%A7%2007419%20-%20Recruit%20basic%20training%20separate%20housing%20for%20male%20and%20female%20recruits.md)
 - [&sect; 07420 - Recruit basic training privacy](%C2%A7%2007420%20-%20Recruit%20basic%20training%20privacy.md)
 - [&sect; 07421 - Degree granting authority for United States Army War College](%C2%A7%2007421%20-%20Degree%20granting%20authority%20for%20United%20States%20Army%20War%20College.md)
+- [&sect; 07422 - Degree granting authority for United States Army Armament Graduate School](%C2%A7%2007422%20-%20Degree%20granting%20authority%20for%20United%20States%20Army%20Armament%20Graduate%20School.md)

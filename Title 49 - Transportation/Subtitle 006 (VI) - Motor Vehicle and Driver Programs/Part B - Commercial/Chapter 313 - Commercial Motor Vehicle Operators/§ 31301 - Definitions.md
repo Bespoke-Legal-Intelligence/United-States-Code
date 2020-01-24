@@ -52,7 +52,7 @@ In this chapter—
 
 &emsp;&emsp;(D) driving a commercial motor vehicle when the individual has not obtained a commercial driver's license;
 
-&emsp;&emsp;(E) driving a commercial motor vehicle when the individual does not have in his or her possession a commercial driver's license unless the individual provides, by the date that the individual must appear in court or pay any fine with respect to the citation, to the enforcement authority that issued the citation proof that the individual held a valid commercial driver's license on the date of the citation;
+&emsp;&emsp;(E) driving a commercial motor vehicle when the individual does not have in his or her possession a commercial driver's license unless the individual provides, by the datethat the individual must appear in court or pay any fine with respect to the citation, to the enforcement authority that issued the citation proof that the individual held a valid commercial driver's license on the date of the citation;
 
 &emsp;&emsp;(F) driving a commercial motor vehicle when the individual has not met the minimum testing standards—
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Program To Assist Veterans To Acquire Commercial Driver's Licenses
 
-Pub. L. 114–94, div. A, title V, §5401(b), Dec. 4, 2015, 129 Stat. 1547, provided that: "Not later than 1 year afterthe date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\], in consultation with the Secretary of Defense, shall implement the recommendations contained in the report submitted under section 32308 of MAP–21 \[Pub. L. 112–141\] (49 U.S.C. 31301 note) that are not implemented as a result of the amendment in subsection (a) \[amending section 31305 of this title\]."
+Pub. L. 114–94, div. A, title V, §5401(b), Dec. 4, 2015, 129 Stat. 1547, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\], in consultation with the Secretary of Defense, shall implement the recommendations contained in the report submitted under section 32308 of MAP–21 \[Pub. L. 112–141\] (49 U.S.C. 31301 note) that are not implemented as a result of the amendment in subsection (a) \[amending section 31305 of this title\]."
 
 Pub. L. 112–141, div. C, title II, §32308, July 6, 2012, 126 Stat. 794, provided that:
 
@@ -278,7 +278,7 @@ Membership.—Members of the task force should include State motor vehicle admin
 
 "(c)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary, onbehalf of the task force, shall complete a report of the task forces \[sic\] findings and recommendations for legislative, regulatory, and enforcement changes to improve the commercial drivers \[sic\] license program and submit such the \[sic\] report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+Report.—Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary, on behalf of the task force, shall complete a report of the task forces \[sic\] findings and recommendations for legislative, regulatory, and enforcement changes to improve the commercial drivers \[sic\] license program and submit such the \[sic\] report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 "(d)
 

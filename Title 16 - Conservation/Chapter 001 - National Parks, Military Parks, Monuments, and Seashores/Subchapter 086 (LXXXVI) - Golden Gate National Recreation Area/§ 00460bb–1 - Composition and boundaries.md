@@ -42,7 +42,7 @@ The Golden Gate National Recreational Area Addition Act of 1992, referred to in 
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted "Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate" for "Committees on Interior and Insular Affairs of the United States House of Representatives and the United States Senate".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–299, §2(b)(1), inserted at end "The recreation area shall also include those lands acquired pursuant to the Golden Gate National Recreation Area Addition Act of 1992."
+<b>1992</b>—Subsec. (a). Pub. L. 102–299, §2(b)(1), inserted at end "The recreation area shall also include those landsacquired pursuant to the Golden Gate National Recreation Area Addition Act of 1992."
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–607, §1001(1), included within the recreation area the lands and waters in San Mateo County depicted on the map entitled Sweeney Ridge Addition, Golden Gate National Recreation Area, numbered NRA GG–80,000–A, dated May 1980.
 

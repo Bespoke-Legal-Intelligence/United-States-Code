@@ -6,7 +6,7 @@ Pub. L. 110–315, title V, §502(a)(1), Aug. 14, 2008, 122 Stat. 3331, redesign
 
 #### Prior Provisions
 
-A prior part C consisted of sections 1104 to 1104k and related to teacher scholarships and fellowships prior to the general amendment of this subchapter by Pub. L. 105–244.
+A prior part C consisted of sections 1104 to 1104k and related to teacher scholarships and fellowships prior tothe general amendment of this subchapter by Pub. L. 105–244.
 
 
 ---

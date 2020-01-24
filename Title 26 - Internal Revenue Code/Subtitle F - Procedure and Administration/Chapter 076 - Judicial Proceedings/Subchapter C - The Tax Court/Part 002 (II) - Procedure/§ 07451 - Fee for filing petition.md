@@ -18,7 +18,7 @@ The Tax Court is authorized to impose a fee in an amount not in excess of $60 to
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title VIII, §859(b), Aug. 17, 2006, 120 Stat. 1020, provided that: "The amendment made bythis section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 17, 2006\]."
+Pub. L. 109–280, title VIII, §859(b), Aug. 17, 2006, 120 Stat. 1020, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 17, 2006\]."
 
 #### Effective Date of 1982 Amendment
 

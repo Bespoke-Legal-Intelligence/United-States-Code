@@ -70,7 +70,7 @@ Pub. L. 96–417, title VII, §701, Oct. 10, 1980, 94 Stat. 1747, as amended by 
 
 #### References to Certain Courts Deemed References to the United States Court of International Trade
 
-Pub. L. 96–417, title VII, §702, Oct. 10, 1980, 94 Stat. 1748, provided that: "Any reference in any statute or regulation of the United States to the United States Customs Court, the U.S. Customs Court, or the Customs Court shall be deemed to be a reference to the United States Court of International Trade."
+Pub. L. 96–417, title VII, §702, Oct. 10, 1980, 94 Stat. 1748, provided that: "Any reference in any statute orregulation of the United States to the United States Customs Court, the U.S. Customs Court, or the Customs Court shall be deemed to be a reference to the United States Court of International Trade."
 
 #### Effect on Customs Court Judges
 

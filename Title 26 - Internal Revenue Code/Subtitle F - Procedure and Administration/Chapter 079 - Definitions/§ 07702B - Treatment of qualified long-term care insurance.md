@@ -154,7 +154,7 @@ For purposes of this section—
 
 #### (e) Treatment of coverage provided as part of a life insurance or annuity contract
 
-Except as otherwise provided in regulations prescribed by the Secretary, in the case of any long-term care insurance coverage (whether or not qualified) provided by a rider on or as partof a life insurance contract or an annuity contract—
+Except as otherwise provided in regulations prescribed by the Secretary, in the case of any long-term care insurance coverage (whether or not qualified) provided by a rider on or as part of a life insurance contract or an annuity contract—
 
 #### (1) In general
 
@@ -162,7 +162,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 #### (2) Denial of deduction under section 213
 
-&emsp;No deduction shall be allowed under section 213(a) for any payment made for coverage under a qualified long-term care insurance contract if such payment is made as a charge against the cash surrender value of a life insurance contract or the cash value of an annuity contract.
+&emsp;No deduction shall be allowed under section 213(a) for any payment made for coverage under a qualified long-term care insurancecontract if such payment is made as a charge against the cash surrender value of a life insurance contract or the cash value of an annuity contract.
 
 #### (3) Portion defined
 
@@ -408,5 +408,5 @@ Application of per diem limitation to existing contracts.—The amount of per di
 
 #### Long-Term Care Study Request
 
-Pub. L. 104–191, title III, §321(g), Aug. 21, 1996, 110 Stat. 2060, provided that: "The Chairman of the Committee on Ways and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate shall jointly request the National Association of Insurance Commissioners, in consultation with representatives of the insurance industry and consumer organizations, to formulate, develop, and conduct a study to determine the marketing and other effects of per diem limits on certain types of long-term care policies. If the National Association of Insurance Commissioners agrees to the study request, the National Association of Insurance Commissioners shall report the results of its study to such committees not later than 2 years after accepting the request."
+Pub. L. 104–191, title III, §321(g), Aug. 21, 1996, 110 Stat. 2060, related to a study of the marketing and other effects of per diem limits on certain types of long-term care policies, and provided that if the National Association of Insurance Commissioners agreed to the study request by Congress, the Association would report the results of the study not later than 2 years after accepting the request.
 

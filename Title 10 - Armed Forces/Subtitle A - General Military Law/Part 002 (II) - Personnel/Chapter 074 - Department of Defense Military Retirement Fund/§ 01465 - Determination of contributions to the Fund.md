@@ -24,7 +24,7 @@
 
 &emsp;(A) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title, to be determined without regard to section 1413a or 1414 of this title; and
 
-&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a singlelevel percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) for members of the Selected Reserve of the armed forces (other than the Coast Guard) for service not otherwise described by subparagraph (A), to be determined without regard to section 1413a or 1414 of this title.
+&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) for members of the Selected Reserve of the armed forces (other than the Coast Guard) for service not otherwise described by subparagraph (A), to be determined without regard to section 1413a or 1414 of this title.
 
 > Such single level percentages shall be used for the purposes of subsection (b)(1) and section 1466(a) of this title.
 
@@ -80,7 +80,7 @@ Subsec. (c)(4), (5). Pub. L. 108–136, §641(c)(4)(B), (C), added par. (4) and 
 
 &emsp;"(A) the current estimate of the value of the single level percentage of basic pay to be determined at the time of the next actuarial valuation under subsection (c); and
 
-&emsp;"(B) the total amount of basic pay expected to be paid during that fiscal year to members of the armedforces (other than the Coast Guard) on active duty or in the Selected Reserve."
+&emsp;"(B) the total amount of basic pay expected to be paid during that fiscal year to members of the armed forces (other than the Coast Guard) on active duty or in the Selected Reserve."
 
 Subsec. (c)(1). Pub. L. 99–500 and Pub. L. 99–591, Pub. L. 99–661, §661(a)(2), amended par. (1) identically, inserting second and third sentences and striking out existing second sentence which read as follows: "Each actuarial valuation of such programs shall include a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay to be used for the purposes of subsection (b) and section 1466(a) of this title."
 

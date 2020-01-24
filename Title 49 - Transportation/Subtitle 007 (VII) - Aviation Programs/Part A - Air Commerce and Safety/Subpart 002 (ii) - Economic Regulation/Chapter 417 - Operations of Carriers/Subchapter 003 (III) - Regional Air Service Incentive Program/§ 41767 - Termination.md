@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Issue Federal Credit Instruments.—The authority of the Secretary of Transportation to issue Federal credit instruments under section 41763 shall terminate on the date that is 5 years after the date of the enactment of this subchapter.
+Authority To Issue Federal Credit Instruments.—The authority of the Secretary ofTransportation to issue Federal credit instruments under section 41763 shall terminate on the date that is 5 years after the date of the enactment of this subchapter.
 
 (b)
 

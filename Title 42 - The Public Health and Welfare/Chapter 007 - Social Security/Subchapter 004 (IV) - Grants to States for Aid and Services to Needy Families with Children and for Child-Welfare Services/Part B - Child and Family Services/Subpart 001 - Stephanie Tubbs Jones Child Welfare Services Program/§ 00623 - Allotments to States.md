@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 109–288, §6(d)(5), added subsec. (e).
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and withdelay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
+Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
 
 #### Effective Date of 2006 Amendment
 

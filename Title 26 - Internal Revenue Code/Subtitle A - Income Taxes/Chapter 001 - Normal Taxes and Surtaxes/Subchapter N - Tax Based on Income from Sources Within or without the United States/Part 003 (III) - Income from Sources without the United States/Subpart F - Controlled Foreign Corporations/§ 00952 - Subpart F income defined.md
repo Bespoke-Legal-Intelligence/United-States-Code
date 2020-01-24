@@ -52,7 +52,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 &emsp;&emsp;&emsp;&emsp;(II) has not previously been taken into account under this subparagraph.
 
-&emsp;&emsp;&nbsp;In determining the deficit attributable to qualified activities described in subclause (II) or (III) of clause (iii),<sup>1</sup> deficits in earnings and profits (to the extent not previously taken into account under this section) for taxable years beginning after 1962 and before 1987 also shall be taken into account. In the case of the qualified activity described in clause (iii)(I),<sup>1</sup> the rule of the preceding sentence shall apply, except that "1982" shall be substituted for "1962".
+&emsp;&emsp;&nbsp;In determining the deficit attributable to qualified activities described in subclause (II) or (III) of clause (iii),<sup>1</sup> deficits in earnings and profits (to the extent not previously taken into account under this section) for taxable years beginning after 1962 and before 1987 also shall be taken into account. In the case of the qualified activity described in clause (iii)(I),<sup>1</sup> the rule of thepreceding sentence shall apply, except that "1982" shall be substituted for "1962".
 
 #### (iii) Qualified activity
 
@@ -76,7 +76,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (v) Qualified insurance company
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified insurance company"means any controlled foreign corporation predominantly engaged in the active conduct of an insurance business in the taxable year and in the prior taxable years in which the deficit arose.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified insurance company" means any controlled foreign corporation predominantly engaged in the active conduct of an insurance business in the taxable year and in the prior taxable years in which the deficit arose.
 
 #### (vi) Qualified financial institution
 
@@ -116,7 +116,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (3) Special rule for determining earnings and profits
 
-&emsp;For purposes of this subsection, earnings and profits of any controlled foreign corporation shall be determined without regard to paragraphs (4), (5), and (6) of section 312(n). Under regulations, the preceding sentence shall not apply to the extent it would increase earnings and profits by an amount which was previously distributed by the controlled foreign corporation.
+&emsp;For purposes of this subsection, earnings and profits of any controlled foreign corporation shall be determined without regard to paragraphs (4), (5), and (6) of section 312(n). Under regulations, the preceding sentence shall not apply to the extent it would increase earningsand profits by an amount which was previously distributed by the controlled foreign corporation.
 
 #### (d) Income derived from foreign country
 
@@ -200,7 +200,7 @@ Amendment by section 14212(b)(1)(C) of Pub. L. 115–97 applicable to taxable ye
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title IV, §415(d), Oct. 22, 2004, 118 Stat. 1511, provided that: "The amendments made by thissection \[amending this section and section 954 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end."
+Pub. L. 108–357, title IV, §415(d), Oct. 22, 2004, 118 Stat. 1511, provided that: "The amendments made by this section \[amending this section and section 954 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end."
 
 #### Effective Date of 1997 Amendment
 

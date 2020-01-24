@@ -54,7 +54,7 @@ In recognition of the unique character of oil shale development:
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–58 designated first to third sentences as pars. (1) to (3), respectively, substituted "5,760" for "five thousand one hundred and twenty" in par. (2), designated fourth to eighth sentences as par. (4) and substituted "rate of $2.00 per acre" for "rate of 50 cents per acre", "No one person" for "Not more than one lease shall be granted under this section to any one person", and "shall acquire or hold more than 50,000 acres of oil shale leases in anyone State. For" for "except that with respect to leases for", and added par. (5).
+<b>2005</b>—Subsec. (a). Pub. L. 109–58 designated first to third sentences as pars. (1) to (3), respectively, substituted "5,760" for "five thousand one hundred and twenty" in par. (2), designated fourth to eighth sentences as par. (4) and substituted "rate of $2.00 per acre" for "rate of 50 cents per acre", "No one person" for "Not more than one lease shall be granted under this section to any one person", and "shall acquire or hold more than 50,000 acres of oil shale leases in any one State. For" for "except that with respect to leases for", and added par. (5).
 
 <b>1982</b>—Subsecs. (c), (d). Pub. L. 97–394 added subsecs. (c) and (d).
 

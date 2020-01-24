@@ -8,7 +8,7 @@ Each appropriate Federal banking agency shall review the exposure to risk of Uni
 
 In determining the exposure of an institution to risk for purposes of subsection (a), the appropriate Federal banking agency—
 
-&emsp;(1) shall determine whether any country exposure that is, and has been for at least 2 years, rated in the category "Other Transfer Risk Problems" or the category "Substandard" by the Interagency Country Exposure Review Committee should be reevaluated;
+&emsp;(1) shall determine whether any country exposure that is, and has been for at least 2 years, rated in the category "Other TransferRisk Problems" or the category "Substandard" by the Interagency Country Exposure Review Committee should be reevaluated;
 
 &emsp;(2) may exempt, in full or in part, from reserve requirements established pursuant to subsection (a), any loan—
 
@@ -50,7 +50,7 @@ Pub. L. 101–240, title IV, §402(a), Dec. 19, 1989, 103 Stat. 2501, provided t
 
 &emsp;"(1) since the adoption of the International Lending Supervision Act of 1983 \[12 U.S.C. 3901 et seq.\], the credit quality of loans by United States banking institutions to highly indebted countries has deteriorated and the prospects for full repayment of such loans have diminished;
 
-&emsp;"(2) in general during this period, the level of country exposure and transfer risk associated with loansby United States banking institutions to highly indebted countries has not been adequately reflected in the reserve levels established by many individual United States banking institutions or the reserve requirements imposed by Federal banking agencies pursuant to such Act;
+&emsp;"(2) in general during this period, the level of country exposure and transfer risk associated with loans by United States banking institutions to highly indebted countries has not been adequately reflected in the reserve levels established by many individual United States banking institutions or the reserve requirements imposed by Federal banking agencies pursuant to such Act;
 
 &emsp;"(3) during the last 3 years and particularly in recent months, United States banking institutions have increased their reserves for possible losses from loans to highly indebted countries but such reserves remain, in some cases, significantly lower than reserves established by banking institutions in a number of foreign countries and may not be adequate to deal with potential risks; and
 

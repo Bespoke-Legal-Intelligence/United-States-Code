@@ -34,7 +34,7 @@ Such Act, referred to in subsec. (a)(1), probably means the Workforce Investment
 
 Provisions similar to this section were contained in section 714 of this title prior to repeal by Pub. L. 105–220.
 
-A prior section 712, Pub. L. 93–112, §13, as added Pub. L. 95–602, title I, §122(a)(10), Nov. 6, 1978, 92 Stat. 2985; amended Pub. L. 98–221, title I, §102, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, title I, §105, Oct. 21, 1986, 100 Stat. 1812; Pub. L. 102–569, title I, §§102(p)(4), 106, Oct. 29, 1992, 106 Stat. 4356, 4362; Pub. L. 104–66, title I, §1042(c), Dec. 21, 1995, 109 Stat. 715, related to reports to President and Congress, prior to repeal by Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1093. See section 710 of this title.
+A prior section 712, Pub. L. 93–112, §13, as added Pub. L. 95–602, title I, §122(a)(10), Nov. 6, 1978, 92 Stat. 2985; amended Pub. L. 98–221, title I, §102, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, title I, §105, Oct. 21, 1986, 100 Stat. 1812; Pub. L. 102–569, title I, §§102(p)(4), 106, Oct. 29, 1992, 106 Stat. 4356, 4362; Pub. L. 104–66, title I,§1042(c), Dec. 21, 1995, 109 Stat. 715, related to reports to President and Congress, prior to repeal by Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1093. See section 710 of this title.
 
 A prior section 15 of Pub. L. 93–112 was renumbered section 17 and is classified to section 714 of this title.
 

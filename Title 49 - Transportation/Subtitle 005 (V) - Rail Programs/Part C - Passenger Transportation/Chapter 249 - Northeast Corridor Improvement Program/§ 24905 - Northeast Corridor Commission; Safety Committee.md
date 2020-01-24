@@ -68,7 +68,7 @@ Recommendations.—The Commission shall develop recommendations based on the sta
 
 Submission of statement of goals, recommendations, and performance reports.—The Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
 
-&emsp;&emsp;(A) any updates made to the statement of goals developed under paragraph (1) notlater than 60 days after such updates are made; and
+&emsp;&emsp;(A) any updates made to the statement of goals developed under paragraph (1) not later than 60 days after such updates are made; and
 
 &emsp;&emsp;(B) annual performance reports and recommendations for improvements, as appropriate, issued not later than March 31 of each year, for the prior fiscal year, which summarize—
 
@@ -102,7 +102,7 @@ Development of policy.—The Commission shall—
 
 &emsp;(2)
 
-Implementation.—Amtrak and public authorities providing commuter rail passenger transportation on the Northeast Corridor shall implement new agreements for usage of facilities or services based on the policy developed under paragraph (1) in accordance with the timetable established therein. If the entities fail to implement such new agreements in accordance with paragraph (1)(D) or fail to comply with the policy thereafter, the Surface Transportation Board shall determine the appropriate compensation for such usage in accordance with the procedures and procedural schedule applicable to a proceeding under section 24903(c), after taking into consideration the policy developed under paragraph (1)(A), as applicable. The Surface Transportation Board shall enforce its determination on the party or parties involved.
+Implementation.—Amtrak and public authorities providing commuter rail passenger transportation on the Northeast Corridor shall implement new agreements for usage of facilities or services based on the policy developed under paragraph (1) in accordance with the timetable established therein. If the entitiesfail to implement such new agreements in accordance with paragraph (1)(D) or fail to comply with the policy thereafter, the Surface Transportation Board shall determine the appropriate compensation for such usage in accordance with the procedures and procedural schedule applicable to a proceeding under section 24903(c), after taking into consideration the policy developed under paragraph (1)(A), as applicable. The Surface Transportation Board shall enforce its determination on the party or parties involved.
 
 &emsp;(3)
 
@@ -142,7 +142,7 @@ In general.—The Secretary shall establish a Northeast Corridor Safety Committe
 
 Sunset.—The Committee established under this subsection ceases to exist on the date that the Secretary determines positive train control, as required by section 20157, is fully implemented along the Northeast Corridor.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 935; Pub. L. 110–432, div. B, title II, §212(a), Oct. 16, 2008, 122 Stat. 4921; Pub. L. 114–94, div. A, title XI, §11305(a)–(d)(1), Dec. 4, 2015, 129 Stat. 1656,1657; Pub. L. 115–420, §§4(a), 6(a), Jan. 3, 2019, 132 Stat. 5444, 5445.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 935; Pub. L. 110–432, div. B, title II, §212(a), Oct. 16, 2008, 122 Stat. 4921; Pub. L. 114–94, div. A, title XI, §11305(a)–(d)(1), Dec. 4, 2015, 129 Stat. 1656, 1657; Pub. L. 115–420, §§4(a), 6(a), Jan. 3, 2019, 132 Stat. 5444, 5445.)
 
 Historical and Revision Notes
 
@@ -238,7 +238,7 @@ Subsec. (c)(4). Pub. L. 114–94, §11305(c)(5), added par. (4).
 
 Subsec. (d). Pub. L. 114–94, §11305(d)(1)(E), substituted "to the Secretary for the use of the Commission and the Northeast Corridor Safety Committee" for "to the Commission" and "to carry out this section during fiscal years 2016 through 2020, in addition to any amounts withheld under section 11101(g) of the Passenger Rail Reform and Investment Act of 2015" for "for the period encompassing fiscal years 2009 through 2013 to carry out this section".
 
-Pub. L. 114–94, §11305(d)(1)(C), (D), redesignated subsec. (e) as (d) and struck out former subsec. (d) whichrelated to transmission of statement of goals and recommendations.
+Pub. L. 114–94, §11305(d)(1)(C), (D), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to transmission of statement of goals and recommendations.
 
 Subsec. (e). Pub. L. 114–94, §11305(d)(1)(D), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 

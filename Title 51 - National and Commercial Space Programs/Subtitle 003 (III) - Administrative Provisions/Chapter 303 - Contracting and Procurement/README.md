@@ -71,7 +71,7 @@ Suppliers of electronic parts.—In revising the regulations under paragraph (1)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) suppliers who obtain such parts exclusively from the original manufacturers of the parts or their authorized dealers; and
 
-&emsp;&emsp;&emsp;"(ii) to obtain electronic parts that are not in production or currently available in stock fromsuppliers that meet qualification requirements established under subparagraph (C);
+&emsp;&emsp;&emsp;"(ii) to obtain electronic parts that are not in production or currently available in stock from suppliers that meet qualification requirements established under subparagraph (C);
 
 &emsp;&emsp;"(B) establish documented requirements consistent with published industry standards or Government contract requirements for—
 

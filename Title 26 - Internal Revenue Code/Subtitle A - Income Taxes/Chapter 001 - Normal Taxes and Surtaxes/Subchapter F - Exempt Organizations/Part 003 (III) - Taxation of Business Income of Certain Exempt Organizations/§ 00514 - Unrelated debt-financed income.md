@@ -10,7 +10,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (2) Percentage of deductions taken into account
 
-&emsp;There shall be allowed as a deduction with respect to each debt-financed property an amount determined by applying (except as provided in the last sentence of this paragraph) the percentage derived under paragraph (1) to the sum determined under paragraph (3). The percentage derived under this paragraph shall not be applied with respect to the deduction of any capital loss resulting from the carryback or carryover of net capital losses under section 1212.
+&emsp;There shall be allowed as a deduction with respect to each debt-financed property anamount determined by applying (except as provided in the last sentence of this paragraph) the percentage derived under paragraph (1) to the sum determined under paragraph (3). The percentage derived under this paragraph shall not be applied with respect to the deduction of any capital loss resulting from the carryback or carryover of net capital losses under section 1212.
 
 #### (3) Deductions allowable
 
@@ -94,7 +94,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (B) Exceptions
 
-&emsp;&emsp;Where property subject to a mortgage is acquired by an organization by bequest ordevise, the indebtedness secured by the mortgage shall not be treated as acquisition indebtedness during a period of 10 years following the date of the acquisition. If an organization acquires property by gift subject to a mortgage which was placed on the property more than 5 years before the gift, which property was held by the donor more than 5 years before the gift, the indebtedness secured by such mortgage shall not be treated as acquisition indebtedness during a period of 10 years following the date of such gift. This subparagraph shall not apply if the organization, in order to acquire the equity in the property by bequest, devise, or gift, assumes and agrees to pay the indebtedness secured by the mortgage, or if the organization makes any payment for the equity in the property owned by the decedent or the donor.
+&emsp;&emsp;Where property subject to a mortgage is acquired by an organization by bequest or devise, the indebtedness secured by the mortgage shall not be treated as acquisition indebtedness during a period of 10 years following the date of the acquisition. If an organization acquires property by gift subject to a mortgage which was placed on the property more than 5 years before the gift, which property was held by the donor more than 5 years before the gift, the indebtedness secured by such mortgage shall not be treated as acquisition indebtedness during a period of 10 years following the date of such gift. This subparagraph shall not apply if the organization, in order to acquire the equity in the property by bequest, devise, or gift, assumes and agrees to pay the indebtedness secured by the mortgage, or if the organization makes any payment for the equity in the property owned by the decedent or the donor.
 
 #### (C) Liens for taxes or assessments
 
@@ -186,7 +186,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;&emsp;&emsp;(II) bears a relationship which is described in subparagraph (F) or (H) of section 4975(e)(2) to any person described in subclause (I);
 
-&emsp;&emsp;&emsp;(v) any person described in clause (iii) or (iv) provides the qualified organization with financing in connection with the acquisition or improvement; or
+&emsp;&emsp;&emsp;(v) any person described in clause (iii) or (iv) provides the qualified organizationwith financing in connection with the acquisition or improvement; or
 
 &emsp;&emsp;&emsp;(vi) the real property is held by a partnership unless the partnership meets the requirements of clauses (i) through (v) and unless—
 
@@ -270,7 +270,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (i) Small leases disregarded
 
-&emsp;&emsp;&emsp;For purposes of clauses (iii) and (iv) of subparagraph (B), a lease to a person described in such clause (iii) or (iv) shall be disregarded if no more than 25 percent of the leasable floor space in a building (or complex of buildings) is covered by the lease and if the lease is on commercially reasonable terms.
+&emsp;&emsp;&emsp;For purposes of clauses (iii) and (iv) of subparagraph (B), a lease to a person described in such clause (iii) or (iv) shall be disregarded if no more than 25 percent of the leasable floor space in a building (orcomplex of buildings) is covered by the lease and if the lease is on commercially reasonable terms.
 
 #### (ii) Commercially reasonable financing
 
@@ -330,7 +330,7 @@ For purposes of this section, the term "real property" includes personal propert
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the circumvention of any provision of this section through the use of segregated asset accounts.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §5, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(d)(1), (3)(A), (B), Dec. 30, 1969, 83 Stat. 543, 548; Pub. L. 93–625, §7(b)(2), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIII, §1308(a), title XIX, §§1901(a)(72), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1729, 1776, 1834; Pub. L. 95–345, §2(c), Aug. 15, 1978, 92 Stat. 482; Pub. L. 96–605, title I, §110(a), Dec. 28, 1980, 94 Stat. 3525; Pub. L. 98–369, div. A, title I, §174(b)(5)(B), title X, §1034(a), (b), July 18, 1984, 98 Stat. 707, 1039, 1040; Pub. L. 99–514, title II, §201(d)(9), title XVI, §1603(b), title XVIII, §1878(e), Oct. 22, 1986, 100 Stat. 2141, 2768, 2903; Pub. L. 100–203, title X, §10214(a), (b), Dec. 22, 1987, 101 Stat. 1330–407; Pub. L. 100–647, title I, §§1016(a)(5)(A), (6), 1018(u)(13), title II, §2004(h), Nov. 10, 1988, 102 Stat. 3574, 3575, 3590, 3603; Pub. L. 101–239, title VII, §7811(l), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 103–66, title XIII, §13144(a), (b), Aug. 10, 1993, 107 Stat. 441, 442; Pub. L. 108–357, title II, §247(a), title VII, §702(b), Oct. 22, 2004, 118 Stat. 1449, 1546; Pub. L. 109–135, title IV, §412(ee)(2), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §866(a), Aug. 17, 2006, 120 Stat. 1025.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §5, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(d)(1), (3)(A), (B), Dec. 30, 1969, 83 Stat. 543, 548; Pub. L. 93–625, §7(b)(2), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIII, §1308(a), title XIX, §§1901(a)(72), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1729, 1776, 1834; Pub. L. 95–345, §2(c), Aug. 15, 1978, 92 Stat. 482; Pub. L. 96–605, title I, §110(a), Dec. 28, 1980, 94 Stat. 3525;Pub. L. 98–369, div. A, title I, §174(b)(5)(B), title X, §1034(a), (b), July 18, 1984, 98 Stat. 707, 1039, 1040; Pub. L. 99–514, title II, §201(d)(9), title XVI, §1603(b), title XVIII, §1878(e), Oct. 22, 1986, 100 Stat. 2141, 2768, 2903; Pub. L. 100–203, title X, §10214(a), (b), Dec. 22, 1987, 101 Stat. 1330–407; Pub. L. 100–647, title I, §§1016(a)(5)(A), (6), 1018(u)(13), title II, §2004(h), Nov. 10, 1988, 102 Stat. 3574, 3575, 3590, 3603; Pub. L. 101–239, title VII, §7811(l), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 103–66, title XIII, §13144(a), (b), Aug. 10, 1993, 107 Stat. 441, 442; Pub. L. 108–357, title II, §247(a), title VII, §702(b), Oct. 22, 2004, 118 Stat. 1449, 1546; Pub. L. 109–135, title IV, §412(ee)(2), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §866(a), Aug. 17, 2006, 120 Stat. 1025.)
 
 #### References in Text
 
@@ -546,7 +546,7 @@ Amendment by section 1901(a)(72) of Pub. L. 94–455 applicable with respect to 
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date or arising thereafter, see section 7(e) of Pub. L. 93–625, setout as an Effective Date note under section 6621 of this title.
+Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date or arising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
 
 #### Effective Date of 1969 Amendment
 

@@ -16,7 +16,7 @@ No requirement or prohibition may be imposed under the laws of any State—
 
 &emsp;&emsp;(C) subsections (a) and (b) of section 1681m of this title, relating to the duties of a person who takes any adverse action with respect to a consumer;
 
-&emsp;&emsp;(D) section 1681m(d) of this title, relating to the duties of persons who use a consumerreport of a consumer in connection with any credit or insurance transaction that is not initiated by the consumer and that consists of a firm offer of credit or insurance;
+&emsp;&emsp;(D) section 1681m(d) of this title, relating to the duties of persons who use a consumer report of a consumer in connection with any credit or insurance transaction that is not initiated by the consumer and that consists of a firm offer of credit or insurance;
 
 &emsp;&emsp;(E) section 1681c of this title, relating to information contained in consumer reports, except that this subparagraph shall not apply to any State law in effect on September 30, 1996;
 
@@ -32,7 +32,9 @@ No requirement or prohibition may be imposed under the laws of any State—
 
 &emsp;&emsp;(I) section 1681m(h) of this title, relating to the duties of users of consumer reports to provide notice with respect to terms in certain credit transactions;
 
-&emsp;&emsp;(J) subsections (i) and (j) of section 1681c–1 of this title relating to security freezes; or <sup>1</sup>
+&emsp;&emsp;(J) subsections (i) and (j) of section 1681c–1 of this title relating to security freezes; or
+
+&emsp;&emsp;(K) subsection (k) of section 1681c–1 of this title, relating to credit monitoring for active duty military consumers, as defined in that subsection;
 
 &emsp;(2) with respect to the exchange of information among persons affiliated by common ownership or common corporate control, except that this paragraph shall not apply with respect to subsection (a) or (c)(1) of section 2480e of title 9, Vermont Statutes Annotated (as in effect on September 30, 1996);
 
@@ -90,14 +92,6 @@ Subsections (b) and (c) do not affect any settlement, agreement, or consent judg
 
 (Pub. L. 90–321, title VI, §625, formerly §622, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1136; renumbered §623, Pub. L. 102–537, §2(a), Oct. 27, 1992, 106 Stat. 3531; renumbered §624 and amended Pub. L. 104–208, div. A, title II, §§2413(a)(1), 2419, Sept. 30, 1996, 110 Stat. 3009–447, 3009–452; renumbered §625 and amended Pub. L. 108–159, title I, §151(a)(2), title II, §§212(e), 214(a)(1), (c)(2), title III, §311(b), title VII, §711, Dec. 4, 2003, 117 Stat. 1964, 1977, 1980, 1983, 1989, 2011; Pub. L. 115–174, title III, §§301(b), 302(d)(2), May 24, 2018, 132 Stat. 1332, 1335.)
 
-#### Amendment of Subsection (b)(1)
-
-<i>Pub. L. 115–174, title III, §302(d)(2), (e), May 24, 2018, 132 Stat. 1334, 1335, provided that, effective 1 year after May 24, 2018, subsection (b)(1) of this section is amended by adding at the end the following new paragraph:</i>
-
-&emsp;&emsp;<i>(K) subsection (k) of section 1681c–1 of this title, relating to credit monitoring for active duty military consumers, as defined in that subsection;</i>
-
-<i>See 2018 Amendment note below.</i>
-
 #### Prior Provisions
 
 A prior section 625 of Pub. L. 90–321 was renumbered section 626 and is classified to section 1681u of this title.
@@ -118,7 +112,7 @@ Subsec. (b)(1)(H). Pub. L. 108–159, §214(c)(2)(B), added subpar. (H).
 
 Subsec. (b)(1)(I). Pub. L. 108–159, §311(b), added subpar. (I).
 
-Subsec. (b)(3), (4). Pub. L. 108–159, §212(e), added pars. (3) and (4) and struck out former par. (3) which read as follows: "with respect to the form and content of any disclosure required to be made under section 1681g(c) of this title."
+Subsec. (b)(3), (4). Pub. L. 108–159, §212(e), added pars. (3) and (4) and struck out former par. (3) which read as follows: "with respect to the form and content of anydisclosure required to be made under section 1681g(c) of this title."
 
 Subsec. (b)(5). Pub. L. 108–159, §711(2), added par. (5).
 
@@ -153,6 +147,4 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 #### Effective Date
 
 Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
-
-<i><sup>1</sup></i><i> So in original. See Amendment of Subsection (b)(1) note below.</i>
 

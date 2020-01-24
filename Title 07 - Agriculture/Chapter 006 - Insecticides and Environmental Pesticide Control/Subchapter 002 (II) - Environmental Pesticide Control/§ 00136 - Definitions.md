@@ -74,7 +74,7 @@ The term "environment" includes water, air, land, and all plants and man and oth
 
 #### (k) Fungus
 
-The term "fungus" means any non-chlorophyll-bearing thallophyte (that is, any non-chlorophyll-bearing plant of a lower order than mosses and liverworts), as for example, rust, smut, mildew, mold, yeast, and bacteria, except those on or in living man or other animals and those on or in processed food, beverages, or pharmaceuticals.
+The term "fungus" means any non-chlorophyll-bearing thallophyte (that is, any non-chlorophyll-bearing plant of a lower order than mosses and liverworts), as for example, rust, smut, mildew, mold, yeast, and bacteria, exceptthose on or in living man or other animals and those on or in processed food, beverages, or pharmaceuticals.
 
 #### (l) Imminent hazard
 
@@ -140,7 +140,7 @@ The term "insect" means any of the numerous small invertebrate animals generally
 
 &emsp;&emsp;(B) the labeling does not contain a statement of the use classification under which the product is registered;
 
-&emsp;&emsp;(C) there is not affixed to its container, and to the outside container or wrapper of the retail package, if there be one, through which the required information on the immediate container cannot be clearly read, a label bearing—
+&emsp;&emsp;(C) there is not affixed to its container, and to the outside container or wrapper ofthe retail package, if there be one, through which the required information on the immediate container cannot be clearly read, a label bearing—
 
 &emsp;&emsp;&emsp;(i) the name and address of the producer, registrant, or person for whom produced;
 
@@ -168,7 +168,7 @@ The term "person" means any individual, partnership, association, corporation, o
 
 #### (t) Pest
 
-The term "pest" means (1) any insect, rodent, nematode, fungus, weed, or (2) any other form of terrestrial or aquatic plant or animal life or virus, bacteria, or other micro-organism (except viruses, bacteria, or other micro-organisms on or in living man or other living animals) whichthe Administrator declares to be a pest under section 136w(c)(1) of this title.
+The term "pest" means (1) any insect, rodent, nematode, fungus, weed, or (2) any other form of terrestrial or aquatic plant or animal life or virus, bacteria, or other micro-organism (except viruses, bacteria, or other micro-organisms on or in living man or other living animals) which the Administrator declares to be a pest under section 136w(c)(1) of this title.
 
 #### (u) Pesticide
 
@@ -212,7 +212,7 @@ The term "establishment" means any place where a pesticide or device or active i
 
 #### (ee) To use any registered pesticide in a manner inconsistent with its labeling
 
-The term "to use any registered pesticide in a manner inconsistent with its labeling" means to use any registered pesticide in a manner not permitted by the labeling, except that the term shall not include (1) applying a pesticide at any dosage, concentration, or frequency less than that specified on the labeling unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency, (2) applying a pesticide against any target pest not specified on the labeling if the application is to the crop, animal, or site specified on the labeling, unless the Administrator has required that the labeling specifically state that the pesticide may be used only for the pests specified on the labeling after the Administrator has determined that the use of the pesticide against other pests would cause an unreasonable adverse effect on the environment, (3) employing any method of application not prohibited by the labeling unlessthe labeling specifically states that the product may be applied only by the methods specified on the labeling, (4) mixing a pesticide or pesticides with a fertilizer when such mixture is not prohibited by the labeling, (5) any use of a pesticide in conformance with section 136c, 136p, or 136v of this title, or (6) any use of a pesticide in a manner that the Administrator determines to be consistent with the purposes of this subchapter. After March 31, 1979, the term shall not include the use of a pesticide for agricultural or forestry purposes at a dilution less than label dosage unless before or after that date the Administrator issues a regulation or advisory opinion consistent with the study provided for in section 27(b) of the Federal Pesticide Act of 1978, which regulation or advisory opinion specifically requires the use of definite amounts of dilution.
+The term "to use any registered pesticide in a manner inconsistent with its labeling" means to use any registered pesticide in a manner not permitted by the labeling, except that the term shall not include (1) applying a pesticide at any dosage, concentration, or frequency less than that specified on the labeling unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency, (2) applying a pesticide against any target pest not specified on the labeling if the application is to the crop, animal, or site specified on the labeling, unless the Administrator has required that the labeling specifically state that the pesticide may be used only for the pests specified on the labeling after the Administrator has determined that the use of the pesticide against other pests would cause an unreasonable adverse effect on the environment, (3) employing any method of application not prohibited by the labeling unless the labeling specifically states that the product may be applied only by the methods specified on the labeling, (4) mixing a pesticide or pesticides with a fertilizer when such mixture is not prohibited by the labeling, (5) any use of a pesticide in conformance with section 136c, 136p, or 136v of this title, or (6) any use of a pesticide in a manner that the Administrator determines to be consistent with the purposes of this subchapter. After March 31, 1979, the term shall not include the use of a pesticide for agricultural or forestry purposes at a dilution less than label dosage unless before or after that date the Administrator issues a regulation or advisory opinion consistent with the study provided for in section 27(b) of the Federal Pesticide Act of 1978, which regulation or advisory opinion specifically requires the use of definite amounts of dilution.
 
 #### (ff) Outstanding data requirement
 
@@ -246,7 +246,7 @@ The term "nitrogen stabilizer" means any substance or mixture of substances inte
 
 &emsp;&emsp;(B) that was in commercial agronomic use prior to January 1, 1992, with respect to which after January 1, 1992, the distributor or seller of the substance or mixture has made no specific claim of prevention or hindering of the process of nitrification, denitrification, ammonia volatilization <sup>3</sup> urease production regardless of the actual use or purpose for, or future use or purpose for, the substance or mixture.
 
-> Statements made in materials required to be submitted to any State legislative or regulatory authority, or required by such authority to be included in the labeling or other literature accompanying any such substance or mixture shall not be deemed a specific claim within the meaning of this subsection.
+> Statements made in materials required to be submitted to any State legislative or regulatory authority, or required by such authority to be included in the labeling or other literature accompanying any such substance or mixtureshall not be deemed a specific claim within the meaning of this subsection.
 
 #### (jj) <sup>4</sup> Maintenance applicator
 
@@ -420,9 +420,13 @@ Pub. L. 92–516, §4, Oct. 21, 1972, 86 Stat. 998, as amended by Pub. L. 94–1
 
 "(e) For purposes of determining any criminal or civil penalty or liability to any third person in respect of any act or omission occurring before the expiration of the periods referred to in this section, the Federal Insecticide, Fungicide, and Rodenticide Act shall be treated as continuing in effect as if this Act had not been enacted."
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–8, §1(a), Mar. 8, 2019, 133 Stat. 484, provided that: "This Act \[amending sections 136a–1, 136c, and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as a note under section 136w of this title\] may be cited as the 'Pesticide Registration Improvement Extension Act of 2018'."
+
 #### Short Title of 2012 Amendment
 
-Pub. L. 112–177, §1, Sept. 28, 2012, 126 Stat. 1327, provided that: "This Act \[amending sections 136a–1 and136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136a–1 of this title\] may be cited as the 'Pesticide Registration Improvement Extension Act of 2012'."
+Pub. L. 112–177, §1, Sept. 28, 2012, 126 Stat. 1327, provided that: "This Act \[amending sections 136a–1 and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136a–1 of this title\] may be cited as the 'Pesticide Registration Improvement Extension Act of 2012'."
 
 #### Short Title of 2007 Amendment
 

@@ -22,7 +22,7 @@ No research, demonstration, or experiment shall be carried out under this subcha
 
 #### References in Text
 
-Public Law 96–517, referred to in subsec. (c), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015. Section 6(a) of Pub. L. 96–517, relating to patent rights in inventions made with Federal assistance, is classified to chapter 18 (§200 et seq.) of Title 35, Patents. For complete classification of this Act to the Code, see Tables.
+Public Law 96–517, referred to in subsec. (c), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015. Section 6(a) of Pub. L.96–517, relating to patent rights in inventions made with Federal assistance, is classified to chapter 18 (§200 et seq.) of Title 35, Patents. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Applications.—(1) A person may apply to the Secretary of Transportation for a license or transfer of a license under this chapter in the form and way the Secretary prescribes. Consistent with the public health and safety, safety of property, and national security and foreign policy interests of the United States, the Secretary, not later than 180 days after accepting an application in accordance with criteria established pursuant to subsection (b)(2)(D),<sup>1</sup> shall issue or transfer a license if the Secretary decides in writing that the applicant complies, and will continue to comply, with this chapter and regulations prescribed under this chapter. The Secretary shall inform the applicant of any pending issue and action required to resolve the issue if the Secretary has not made a decision not later than 120 days after accepting an application in accordance with criteria established pursuant to subsection (b)(2)(D).<sup>1</sup> The Secretary shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a written notice not later than 30 days after any occurrence when the Secretary has not taken action on a license application within the deadline established by this subsection.
+Applications.—(1) A person may apply to the Secretary of Transportation for a license or transfer of a license under this chapter in theform and way the Secretary prescribes. Consistent with the public health and safety, safety of property, and national security and foreign policy interests of the United States, the Secretary, not later than 180 days after accepting an application in accordance with criteria established pursuant to subsection (b)(2)(D),<sup>1</sup> shall issue or transfer a license if the Secretary decides in writing that the applicant complies, and will continue to comply, with this chapter and regulations prescribed under this chapter. The Secretary shall inform the applicant of any pending issue and action required to resolve the issue if the Secretary has not made a decision not later than 120 days after accepting an application in accordance with criteria established pursuant to subsection (b)(2)(D).<sup>1</sup> The Secretary shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a written notice not later than 30 days after any occurrence when the Secretary has not taken action on a license application within the deadline established by this subsection.
 
 (2) In carrying out paragraph (1), the Secretary may establish procedures for safety approvals of launch vehicles, reentry vehicles, safety systems, processes, services, or personnel (including approval procedures for the purpose of protecting the health and safety of crew, government astronauts, and space flight participants, to the extent permitted by subsections (b) and (c)) that may be used in conducting licensed commercial space launch or reentry activities.
 
@@ -34,11 +34,11 @@ Requirements.—(1) Except as provided in this subsection, all requirements of t
 
 (5) The holder of a license or a permit under this chapter may launch or reenter a space flight participant only if—
 
-&emsp;(A) in accordance with regulations promulgated by the Secretary, the holder of the license or permit has informed the space flightparticipant in writing about the risks of the launch and reentry, including the safety record of the launch or reentry vehicle type, and the Secretary has informed the space flight participant in writing of any relevant information related to risk or probable loss during each phase of flight gathered by the Secretary in making the determination required by section 50914(a)(2) and (c);
+&emsp;(A) in accordance with regulations promulgated by the Secretary, the holder of the license or permit has informed the space flight participant in writing about the risks of the launch and reentry, including the safety record of the launch or reentry vehicle type, and the Secretary has informed the space flight participant in writing of any relevant information related to risk or probable loss during each phase of flight gathered by the Secretary in making the determination required by section 50914(a)(2) and (c);
 
 &emsp;(B) the holder of the license or permit has informed any space flight participant in writing, prior to receiving any compensation from that space flight participant or (in the case of a space flight participant not providing compensation) otherwise concluding any agreement to fly that space flight participant, that the United States Government has not certified the launch vehicle as safe for carrying crew or space flight participants;
 
-&emsp;(C) in accordance with regulations promulgated by the Secretary, the space flight participant has provided written informed consent to participate in the launch and reentry and written certification of compliance with any regulations promulgated under paragraph (6)(A); and
+&emsp;(C) in accordance with regulations promulgated by the Secretary, the space flight participant has provided written informed consent to participate in the launch and reentry and written certification of compliance withany regulations promulgated under paragraph (6)(A); and
 
 &emsp;(D) the holder of the license or permit has complied with any regulations promulgated by the Secretary pursuant to paragraph (6).
 
@@ -104,7 +104,7 @@ Contents.—The report shall include, at a minimum—
 
 &emsp;(6)
 
-Report.—Not later than 270 days after the date of enactment of the SPACE Act of 2015, the Secretary, in consultation and coordination with the commercial space sector, including the Commercial Space Transportation Advisory Committee, or its successor organization, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report specifying key industry metrics that might indicate readiness of the commercial space sector and the Department of Transportation to transition to a safety framework that may include regulations under paragraph (9) that considers space flight participant, government astronaut, and crew safety.
+Report.—Not later than 270 days after the date of enactment of the SPACE Act of 2015, the Secretary, in consultation and coordination with the commercial space sector, including the Commercial Space Transportation Advisory Committee, or its successor organization, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report specifying key industry metrics that might indicate readiness of thecommercial space sector and the Department of Transportation to transition to a safety framework that may include regulations under paragraph (9) that considers space flight participant, government astronaut, and crew safety.
 
 &emsp;(7)
 
@@ -186,7 +186,7 @@ In subsection (b)(2)(C), the words "that would otherwise apply to the launch of 
 
 Subsection (b)(2)(D), referred to in subsec. (a)(1), was redesignated subsection (b)(2)(E) by Pub. L. 108–492, §2(c)(10), Dec. 23, 2004, 118 Stat. 3977.
 
-The date of enactment of the Commercial Space Launch Amendments Act of 2004, referred to in subsec.\(b)(4)(B), (6), is the date of enactment of Pub. L. 108–492, which was approved Dec. 23, 2004.
+The date of enactment of the Commercial Space Launch Amendments Act of 2004, referred to in subsec. (b)(4)(B), (6), is the date of enactment of Pub. L. 108–492, which was approved Dec. 23, 2004.
 
 The date of enactment of the SPACE Act of 2015, referred to in subsec. (c)(6), is the date of enactment of title I of Pub. L. 114–90, which was approved Nov. 25, 2015.
 

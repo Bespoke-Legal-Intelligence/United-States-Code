@@ -12,7 +12,7 @@ A responsible party is not liable for removal costs or damages under section 270
 
 &emsp;&emsp;(A) exercised due care with respect to the oil concerned, taking into consideration the characteristics of the oil and in light of all relevant facts and circumstances; and
 
-&emsp;&emsp;(B) took precautions against foreseeable acts or omissions of any such third party and the foreseeable consequences of those acts or omissions; or
+&emsp;&emsp;(B) took precautions against foreseeable acts or omissions of any such third partyand the foreseeable consequences of those acts or omissions; or
 
 &emsp;(4) any combination of paragraphs (1), (2), and (3).
 
@@ -46,7 +46,7 @@ Subsection (a) does not apply with respect to a responsible party who fails or r
 
 &emsp;The circumstances referred to in paragraph (1)(B) are the following:
 
-&emsp;&emsp;(A) At the time the responsible party acquired the real property on which the facility is located the responsible party did notknow and had no reason to know that oil that is the subject of the discharge or substantial threat of discharge was located on, in, or at the facility.
+&emsp;&emsp;(A) At the time the responsible party acquired the real property on which the facility is located the responsible party did not know and had no reason to know that oil that is the subject of the discharge or substantial threat of discharge was located on, in, or at the facility.
 
 &emsp;&emsp;(B) The responsible party is a government entity that acquired the facility—
 

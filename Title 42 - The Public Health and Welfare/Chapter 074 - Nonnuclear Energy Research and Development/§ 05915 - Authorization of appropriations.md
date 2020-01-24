@@ -22,7 +22,7 @@ Pub. L. 96–126, title II, §201, Nov. 27, 1979, 93 Stat. 970, as amended by Pu
 
 "Loan guarantees for oil shale facilities issued under this appropriation may be used to finance construction of full-sized commercial facilities without regard to the proviso in section 19(b)(1) of said Act \[former section 5919(b)(1) of this title\] requiring the prior demonstration of a modular facility.
 
-"In any case in which the Government, under the provisions of this appropriation, accepts delivery of and does not resell any alternative fuels, such fuels shall be used by an appropriate Federal agency. Such Federal agency shall pay into the reserve the market price, as determined by the Secretary, for such fuels from sums appropriated to such Federal agency for the purchase of fuels. The Secretary shall pay the contractor, from sums appropriated herein, the contract price for such fuels.
+"In any case in which the Government, under the provisions of this appropriation, accepts delivery of and does not resell any alternative fuels, such fuels shall be used by an appropriate Federal agency. Such Federal agency shall pay into the reserve the market price, as determined by the Secretary, for such fuels from sums appropriated to such Federal agency for the purchase offuels. The Secretary shall pay the contractor, from sums appropriated herein, the contract price for such fuels.
 
 "All amounts received by the Secretary under this appropriation, including fees, any other monies, property, or assets derived by the Secretary from operations under this appropriation shall be deposited in the reserve.
 

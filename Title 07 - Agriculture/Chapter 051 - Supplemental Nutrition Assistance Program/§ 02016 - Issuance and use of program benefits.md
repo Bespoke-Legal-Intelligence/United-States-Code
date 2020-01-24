@@ -160,7 +160,7 @@ Operation.—An electronic benefit transfer system should take into account gene
 
 &emsp;(C)(i) measures to maximize the security of a system using the most recent technology available that the State agency considers appropriate and cost effective and which may include personal identification numbers, photographic identification on electronic benefit transfer cards, and other measures to protect against fraud and abuse; and
 
-&emsp;(ii) unless determined by the Secretary to be located in an area with significantly limitedaccess to food, measures that require an electronic benefit transfer system—
+&emsp;(ii) unless determined by the Secretary to be located in an area with significantly limited access to food, measures that require an electronic benefit transfer system—
 
 &emsp;&emsp;(I) to set and enforce sales restrictions based on benefit transfer payment eligibility by using scanning or product lookup entry; and
 
@@ -240,7 +240,7 @@ Other authorized users.—If a State agency requires a photograph on an electron
 
 (10)
 
-Federal law not applicable.—Section 1693o–2 of title 15 shall not apply to electronic benefit transfer or reimbursement systems under this chapter.
+Federal law not applicable.—Section 1693o–2 of title 15 shall not apply to electronicbenefit transfer or reimbursement systems under this chapter.
 
 (11)
 
@@ -456,7 +456,7 @@ Report to congress.—The Secretary shall—
 
 #### (A) Electronic benefit transfer card
 
-&emsp;&emsp;The term "electronic benefit transfer card" means a card that provides benefits under this chapter through an electronic benefit transfer service (as defined in subsection (h)(11)(A)).
+&emsp;&emsp;The term "electronic benefit transfer card" means a card that provides benefitsunder this chapter through an electronic benefit transfer service (as defined in subsection (h)(11)(A)).
 
 #### (B) Electronic benefit transfer contract
 
@@ -464,7 +464,7 @@ Report to congress.—The Secretary shall—
 
 #### (C) Interoperability
 
-&emsp;&emsp;The term "interoperability" means a system that enables program benefits in theform of an electronic benefit transfer card to be redeemed in any State.
+&emsp;&emsp;The term "interoperability" means a system that enables program benefits in the form of an electronic benefit transfer card to be redeemed in any State.
 
 #### (D) Interstate transaction
 
@@ -792,7 +792,7 @@ Subsec. (h). Pub. L. 99–198, §1518, added subsec. (h).
 
 Subsec. (g). Pub. L. 97–253, §162, added subsec. (g).
 
-<b>1981</b>—Subsec. (f). Pub. L. 97–98 substituted "strictly liable" for "responsible" and inserted provision including any losses involving failure of a coupon issuer to comply with the requirements of section 2020(e)(21) ofthis title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments sent through the mail, State agency liability be to the extent prescribed in regulations.
+<b>1981</b>—Subsec. (f). Pub. L. 97–98 substituted "strictly liable" for "responsible" and inserted provision including any losses involving failure of a coupon issuer to comply with the requirements of section 2020(e)(21) of this title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments sent through the mail, State agency liability be to the extent prescribed in regulations.
 
 <b>1977</b>—Pub. L. 95–113 substituted revised provisions relating to issuance and use of coupons for provisions relating to value of the coupon allotment which are now covered by section 2017 of this title.
 
@@ -852,53 +852,7 @@ Pub. L. 113–79, title IV, §4011(c), Feb. 7, 2014, 128 Stat. 793, provided tha
 
 #### Report on Electronic Benefit Transfer Systems
 
-Pub. L. 107–171, title IV, §4111, May 13, 2002, 116 Stat. 309, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(C), May 22, 2008, 122 Stat. 1095, 1096; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
-
-"(a)
-
-Definition of EBT System.—In this section, the term 'EBT system' means an electronic benefit transfer system used in issuance of benefits under the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).
-
-"(b)
-
-Report.—Not later than October 1, 2003, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that—
-
-&emsp;"(1) describes the status of use by each State agency of EBT systems;
-
-&emsp;"(2) specifies the number of vendors that have entered into a contract for an EBT system with a State agency;
-
-&emsp;"(3)(A) specifies the number of State agencies that have entered into an EBT-system contract with multiple EBT-system vendors; and
-
-&emsp;"(B) describes, for each State agency described in subparagraph (A), how responsibilities are divided among the various vendors;
-
-&emsp;"(4) with respect to any State in which an EBT system is not operational throughout the State as of October 1, 2002—
-
-&emsp;&emsp;"(A) provides an explanation of the reasons why an EBT system is not operational throughout the State;
-
-&emsp;&emsp;"(B) describes how the reasons are being addressed; and
-
-&emsp;&emsp;"(C) specifies the expected date of operation of an EBT system throughout the State;
-
-&emsp;"(5) provides a description of—
-
-&emsp;&emsp;"(A) the issues faced by any State agency that has awarded a second EBT-system contract in the 2-year period preceding the date of the report; and
-
-&emsp;&emsp;"(B) the steps that the State agency has taken to address those issues;
-
-&emsp;"(6) provides a description of—
-
-&emsp;&emsp;"(A) the issues faced by any State agency that will award a second EBT-system contract within the 2-year period beginning on the date of the report; and
-
-&emsp;&emsp;"(B) strategies that the State agency is considering to address those issues;
-
-&emsp;"(7) describes initiatives being considered or taken by the Department of Agriculture, food retailers, EBT-system vendors, and client advocates to address any outstanding issues with respect to EBT systems; and
-
-&emsp;"(8) examines areas of potential advances in electronic benefit delivery in the 5- to 10-year period beginning on the date of the report, including—
-
-&emsp;&emsp;"(A) access to EBT systems at farmers' markets;
-
-&emsp;&emsp;"(B) increased use of transaction data from EBT systems to identify and prosecute fraud; and
-
-&emsp;&emsp;"(C) fostering of increased competition among EBT-system vendors to ensure cost containment and optimal service."
+Pub. L. 107–171, title IV, §4111, May 13, 2002, 116 Stat. 309, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(C), May 22, 2008, 122 Stat. 1095, 1096; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, required the Secretary of Agriculture to submit to Congress, not later than Oct. 1, 2003, a report related to State agencies' use of electronic benefit transfer systems to issue benefits under the supplemental nutrition assistance program.
 
 #### Congressional Statement of Purpose
 
@@ -914,7 +868,7 @@ Pub. L. 106–171, §2, Feb. 11, 2000, 114 Stat. 3, as amended by Pub. L. 110–
 
 #### Study of Alternatives for Handling Electronic Benefit Transactions Involving Food Stamp Benefits
 
-Pub. L. 106–171, §4, Feb. 11, 2000, 114 Stat. 6, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (D), (2)(F), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: "Not later than 1 year after the date of enactment of this Act \[Feb. 11, 2000\], the Secretary of Agriculture shall study and report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on alternatives for handling interstate electronic benefit transactions involving supplemental nutrition assistance program benefits benefits \[sic\] provided under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), including the feasibility and desirability of a single hub for switching (as defined in section 7(k)(1) \[now 7(j)(1)\] of that Act \[7 U.S.C. 2016(j)(1)\] (as added by section 3))."
+Pub. L. 106–171, §4, Feb. 11, 2000, 114 Stat. 6, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (D), (2)(F), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, directed the Secretary of Agriculture, not later than 1 year after Feb. 11, 2000, to study and report to Congress on alternatives for handling interstate electronic benefit transactions involving supplemental nutrition assistance program benefits, including use of a single switching hub.
 
 #### Suspension of Staggered Issuance of Food Stamp Coupons
 

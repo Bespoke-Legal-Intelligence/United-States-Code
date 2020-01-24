@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) paragraph (2) shall not apply.
 
-> &emsp;In the case of any stock which would be described in the preceding sentence (but for this sentence), the acquisition date for purposes of this subsection shall be the first day on which such stock was held by the taxpayer determined after the application of section 1223.
+> &emsp;In the case of any stock which would be described in the preceding sentence (but for this sentence), the acquisition date for purposes of this subsection shall be the first day on whichsuch stock was held by the taxpayer determined after the application of section 1223.
 
 #### (4) 100 percent exclusion for stock acquired during certain periods in 2010 and thereafter
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 #### (B) Significant redemptions
 
-&emsp;&emsp;Stock issued by a corporation shall not be treated as qualified business stock if, during the 2-year period beginning on the date 1 year before the issuance of such stock, such corporation made 1 or more purchases of its stock with an aggregate value (as of the time of the respective purchases) exceeding 5 percent of the aggregate value of all of its stock as of the beginning of such 2-year period.
+&emsp;&emsp;Stock issued by a corporation shall not be treated as qualified business stock if, during the 2-year period beginning on the date 1year before the issuance of such stock, such corporation made 1 or more purchases of its stock with an aggregate value (as of the time of the respective purchases) exceeding 5 percent of the aggregate value of all of its stock as of the beginning of such 2-year period.
 
 #### (C) Treatment of certain transactions
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (B) Treatment of contributed property
 
-&emsp;&emsp;For purposes of subparagraph (A), the adjusted basis of any property contributed to the corporation (or other property with a basis determined in whole or in part by reference to the adjusted basis of property so contributed) shall be determined as if thebasis of the property contributed to the corporation (immediately after such contribution) were equal to its fair market value as of the time of such contribution.
+&emsp;&emsp;For purposes of subparagraph (A), the adjusted basis of any property contributed to the corporation (or other property with a basis determined in whole or in part by reference to the adjusted basis of property so contributed) shall be determined as if the basis of the property contributed to the corporation (immediately after such contribution) were equal to its fair market value as of the time of such contribution.
 
 #### (3) Aggregation rules
 
@@ -210,7 +210,7 @@ For purposes of this section—
 
 #### (A) Look-thru in case of subsidiaries
 
-&emsp;&emsp;For purposes of this subsection, stock and debt in any subsidiary corporation shall be disregarded and the parent corporation shall be deemed to own its ratable share of the subsidiary's assets, and to conduct its ratable share of the subsidiary's activities.
+&emsp;&emsp;For purposes of this subsection, stock and debt in any subsidiary corporation shall bedisregarded and the parent corporation shall be deemed to own its ratable share of the subsidiary's assets, and to conduct its ratable share of the subsidiary's activities.
 
 #### (B) Portfolio stock or securities
 
@@ -318,7 +318,7 @@ For purposes of this section—
 
 #### (C) Successive application
 
-&emsp;&emsp;For purposes of this paragraph, stock treated as qualified small business stock under subparagraph (A) shall be so treated for subsequent transactions or reorganizations, except that the limitation of subparagraph (B) shall be applied as of the time ofthe first transfer to which such limitation applied (determined after the application of the second sentence of subparagraph (B)).
+&emsp;&emsp;For purposes of this paragraph, stock treated as qualified small business stock under subparagraph (A) shall be so treated for subsequent transactions or reorganizations, except that the limitation of subparagraph (B) shall be applied as of the time of the first transfer to which such limitation applied (determined after the application of the second sentence of subparagraph (B)).
 
 #### (D) Control test
 
@@ -366,7 +366,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the avoidance of the purposes of this section through split-ups, shell corporations, partnerships, or otherwise.
 
-(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 108–357, title VIII, §835(b)(9), Oct. 22, 2004, 118 Stat. 1594; Pub. L. 111–5, div. B, title I, §1241(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2011(a), (b), Sept. 27, 2010, 124 Stat. 2554; Pub. L. 111–312, title VII, §§753(b), 760(a), Dec. 17, 2010, 124 Stat. 3321, 3323; Pub. L. 112–240, title III, §§324(a), (b), 327(b), Jan. 2, 2013, 126 Stat. 2333, 2334; Pub. L. 113–295, div. A, title I, §136(a), Dec. 19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, §126(a), Dec. 18, 2015, 129 Stat. 3054; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xv), (4)(B)(v), Mar. 23, 2018, 132 Stat. 1208, 1209.)
+(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 108–357, title VIII, §835(b)(9), Oct. 22, 2004, 118 Stat. 1594; Pub. L. 111–5, div. B, title I, §1241(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2011(a), (b), Sept. 27, 2010, 124 Stat. 2554; Pub. L. 111–312, title VII, §§753(b), 760(a), Dec. 17, 2010, 124 Stat. 3321, 3323; Pub. L. 112–240, title III, §§324(a), (b), 327(b), Jan. 2, 2013, 126 Stat. 2333, 2334; Pub. L. 113–295, div. A, title I, §136(a), Dec.19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, §126(a), Dec. 18, 2015, 129 Stat. 3054; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xv), (4)(B)(v), Mar. 23, 2018, 132 Stat. 1208, 1209.)
 
 #### References in Text
 
@@ -392,7 +392,7 @@ A prior section 1202, acts Aug. 16, 1954, ch. 736, 68A Stat. 320; Oct. 4, 1976, 
 
 Subsec. (e)(4)(B) to (D). Pub. L. 115–141, §401(d)(1)(D)(xv), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: "a corporation with respect to which an election under section 936 is in effect or which has a direct or indirect subsidiary with respect to which such an election is in effect,".
 
-<b>2015</b>—Subsec. (a)(4). Pub. L. 114–113 substituted "and thereafter" for ", 2011, 2012, 2013, and 2014" in headingand struck out "and before January 1, 2015" after "of the Creating Small Business Jobs Act of 2010" in introductory provisions.
+<b>2015</b>—Subsec. (a)(4). Pub. L. 114–113 substituted "and thereafter" for ", 2011, 2012, 2013, and 2014" in heading and struck out "and before January 1, 2015" after "of the Creating Small Business Jobs Act of 2010" in introductory provisions.
 
 <b>2014</b>—Subsec. (a)(4). Pub. L. 113–295 substituted "2013, and 2014" for "and 2013" in heading and "January 1, 2015" for "January 1, 2014" in introductory provisions.
 
@@ -462,7 +462,7 @@ Pub. L. 111–5, div. B, title I, §1241(b), Feb. 17, 2009, 123 Stat. 342, provi
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 effective Jan. 1, 2005, with exception for any FASIT in existence on Oct. 22, 2004, to the extent that regular interests issued by the FASIT before such date continue to remain outstanding in accordance with the original terms of issuance, see section 835(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
+Amendment by Pub. L. 108–357 effective Jan. 1, 2005, with exception for any FASIT in existence on Oct. 22, 2004, to the extent that regular interests issued by theFASIT before such date continue to remain outstanding in accordance with the original terms of issuance, see section 835(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
 #### Effective Date of 2000 Amendment
 

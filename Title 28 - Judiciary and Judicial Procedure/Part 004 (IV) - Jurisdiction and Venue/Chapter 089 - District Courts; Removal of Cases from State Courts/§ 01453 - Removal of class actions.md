@@ -18,7 +18,7 @@ In general.—Section 1447 shall apply to any removal of a case under this secti
 
 &emsp;(2)
 
-Time period for judgment.—If the court of appeals accepts an appeal under paragraph (1), the court shall complete all action on such appeal, including rendering judgment, not later than 60 days after the date on which such appeal was filed, unless an extension is granted under paragraph (3).
+Time period for judgment.—If the court of appeals accepts an appeal under paragraph (1), the court shall complete all action on such appeal, including rendering judgment, notlater than 60 days after the date on which such appeal was filed, unless an extension is granted under paragraph (3).
 
 &emsp;(3)
 

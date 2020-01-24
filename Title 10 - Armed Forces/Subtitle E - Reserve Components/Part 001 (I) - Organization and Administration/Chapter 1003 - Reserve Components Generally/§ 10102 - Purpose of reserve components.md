@@ -1,6 +1,6 @@
 ### §10102. Purpose of reserve components
 
-The purpose of each reserve component is to provide trained units and qualified persons available for active duty in the armed forces, in time of war or national emergency, and at such other times as the national security may require, to fill the needs of the armed forces whenever more units and persons are needed than are in the regular components.
+The purpose of each reserve component is to provide trained units and qualified personsavailable for active duty in the armed forces, in time of war or national emergency, and at such other times as the national security may require, to fill the needs of the armed forces whenever more units and persons are needed than are in the regular components.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2970; amended Pub. L. 108–375, div. A, title V, §511, Oct. 28, 2004, 118 Stat. 1877.)
 

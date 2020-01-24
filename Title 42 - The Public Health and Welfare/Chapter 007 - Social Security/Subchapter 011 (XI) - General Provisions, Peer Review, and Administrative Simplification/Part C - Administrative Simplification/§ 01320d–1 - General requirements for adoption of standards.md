@@ -80,5 +80,5 @@ This section shall apply to a modification to a standard (including an addition 
 
 #### Prior Provisions
 
-A prior section 1172 of act Aug. 14, 1935, was classified to section 1320c–21 of this title prior to the generalamendment of part B of this subchapter by Pub. L. 97–248.
+A prior section 1172 of act Aug. 14, 1935, was classified to section 1320c–21 of this title prior to the general amendment of part B of this subchapter by Pub. L. 97–248.
 

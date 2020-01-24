@@ -74,7 +74,7 @@ Columbia Asylum for the Deaf and Dumb—Designated "Columbia Institution for the
 
 The following subjects and agencies were placed under supervision of Secretary of the Interior by acts and executive orders cited thereto:
 
-Alaska Railroad—Ex. Ord. No. 3861 of June 8, 1923, pursuant to act Mar. 12, 1914, ch. 37, 38 Stat. 305, and Ex. Ord. 11107 of Apr. 25, 1963. For transfer to Secretary of Transportation of administration of Alaska Railroad and functions authorized to be carried out by Secretary of the Interior pursuant to Ex. Ord. No. 11107, Apr. 25, 1963, 28 F.R. 4225, relative to operation of railroad, see section 6(i) of Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 941, which was classified to section 1655(i) of former Title 49, Transportation, prior to repeal by Pub. L. 97–468, title VI, §615(a)(4), Jan. 14, 1983, 96 Stat. 2579. Alaska Railroad transferred to State of Alaska on Jan. 5, 1985, pursuant to section 1203 of Title 45, Railroads, see section 615(a) of Pub. L. 97–468.
+Alaska Railroad—Ex. Ord. No. 3861 of June 8, 1923, pursuant to act Mar. 12, 1914, ch. 37, 38 Stat. 305, and Ex. Ord. 11107 of Apr. 25, 1963. For transfer to Secretary of Transportation of administration of Alaska Railroad and functions authorized to be carried out by Secretary of the Interior pursuant to Ex. Ord. No. 11107, Apr. 25, 1963, 28 F.R. 4225, relative to operation of railroad, seesection 6(i) of Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 941, which was classified to section 1655(i) of former Title 49, Transportation, prior to repeal by Pub. L. 97–468, title VI, §615(a)(4), Jan. 14, 1983, 96 Stat. 2579. Alaska Railroad transferred to State of Alaska on Jan. 5, 1985, pursuant to section 1203 of Title 45, Railroads, see section 615(a) of Pub. L. 97–468.
 
 Alaska Road Commission—Act June 30, 1932, ch. 320, §1, 47 Stat. 446—Transferred to Department of Commerce by act June 29, 1956, ch. 462, title I, §107, 70 Stat. 377, and terminated by act June 25, 1959, Pub. L. 86–70, §21(d)(7), 73 Stat. 146.
 
@@ -120,7 +120,7 @@ Pub. L. 85–743, Aug. 23, 1958, 72 Stat. 837, provided: "That the authority ves
 
 "
 
-Sec. 2. The Secretary of the Interior is authorized to compile maps of Antarctica from materials alreadyavailable and from such additional material as may result from the several expeditions in support of the International Geophysical Year.
+Sec. 2. The Secretary of the Interior is authorized to compile maps of Antarctica from materials already available and from such additional material as may result from the several expeditions in support of the International Geophysical Year.
 
 "
 
@@ -176,7 +176,7 @@ Sec. 2. EXECUTIVE BRANCH LEADERSHIP FOR DEVELOPMENT OF THE COORDINATED NATIONAL 
 
 Sec. 3. DEVELOPMENT OF A NATIONAL GEOSPATIAL DATA CLEARINGHOUSE. (a) <i>Establishing a National Geospatial Data Clearinghouse</i>. The Secretary, through the FGDC, and in consultation with, as appropriate, State, local, and tribal governments and other affected parties, shall take steps within 6 months of the date of this order, to establish an electronic National Geospatial Data Clearinghouse ("Clearinghouse") for the NSDI. The Clearinghouse shall be compatible with the National Information Infrastructure to enable integration with that effort.
 
-(b) <i>Standardized Documentation of Data</i>. Beginning 9 months from the date of this order, each agency shall document all new geospatial data it collects or produces, either directly or indirectly, using the standard under development by the FGDC, and make that standardized documentation electronically accessible to the Clearinghouse network. Within 1 year of the date of this order, agencies shall adopt a schedule, developed in consultation with the FGDC, for documenting, to the extent practicable, geospatial data previously collected or produced, either directly or indirectly, and making that data documentation electronically accessible to the Clearinghouse network.
+(b) <i>Standardized Documentation of Data</i>. Beginning 9 months from the date of this order, each agency shall document all new geospatial data it collects or produces, either directly or indirectly, using the standard under development by the FGDC, and make that standardized documentation electronically accessible to the Clearinghouse network. Within 1 year of the date ofthis order, agencies shall adopt a schedule, developed in consultation with the FGDC, for documenting, to the extent practicable, geospatial data previously collected or produced, either directly or indirectly, and making that data documentation electronically accessible to the Clearinghouse network.
 
 (c) <i>Public Access to Geospatial Data</i>. Within 1 year of the date of this order, each agency shall adopt a plan, in consultation with the FGDC, establishing procedures to make geospatial data available to the public, to the extent permitted by law, current policies, and relevant OMB circulars, including OMB Circular No. A–130 ("Management of Federal Information Resources") and any implementing bulletins.
 

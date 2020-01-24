@@ -25,7 +25,7 @@
 
 <b>2008</b>—Pub. L. 110–389, title II, §225(a)(2), Oct. 10, 2008, 122 Stat. 4158, added item 7732A.
 
-<b>2006</b>—Pub. L. 109–233, title IV, §402(d)(2), June 15, 2006, 120 Stat. 411, substituted "QUALITY ASSURANCE" for "VETERANS OUTREACH SERVICES PROGRAM" in item for subchapter II and struck out former items 7721 "Purpose; definitions", 7722 "Outreach services", 7723 "Veterans assistance offices", 7724 "Outstationing of counseling and outreach personnel", 7725 "Use of other agencies", 7726 "Annual report to Congress", 7727 "Outreach for eligible dependents", and subchapter III "QUALITY ASSURANCE".
+<b>2006</b>—Pub. L. 109–233, title IV, §402(d)(2), June 15, 2006, 120 Stat. 411, substituted "QUALITY ASSURANCE" for "VETERANS OUTREACH SERVICES PROGRAM" in item for subchapter II and struck out former items 7721 "Purpose; definitions", 7722 "Outreach services", 7723 "Veterans assistance offices", 7724 "Outstationing of counseling and outreach personnel", 7725 "Use of otheragencies", 7726 "Annual report to Congress", 7727 "Outreach for eligible dependents", and subchapter III "QUALITY ASSURANCE".
 
 <b>2001</b>—Pub. L. 107–14, §6(b)(2), June 5, 2001, 115 Stat. 31, added item 7727.
 

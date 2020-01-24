@@ -6,7 +6,7 @@ In order to receive any grant, loan, or work assistance under this subchapter, a
 
 &emsp;(1) be enrolled or accepted for enrollment in a degree, certificate, or other program (including a program of study abroad approved for credit by the eligible institution at which such student is enrolled) leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title, except as provided in subsections (b)(3) and (b)(4), and not be enrolled in an elementary or secondary school;
 
-&emsp;(2) if the student is presently enrolled at an institution, be maintaining satisfactory progress in the course of study the student is pursuing in accordance with the provisions of subsection (c);
+&emsp;(2) if the student is presently enrolled at an institution, be maintaining satisfactory progress in the course of study the student is pursuing in accordance with the provisions of subsection (c);(q)
 
 &emsp;(3) not owe a refund on grants previously received at any institution under this subchapter, or be in default on any loan from a student loan fund at any institution provided for in part E, or a loan made, insured, or guaranteed by the Secretary under this subchapter for attendance at any institution;
 
@@ -232,19 +232,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;&emsp;(B) any student with respect to any error in a social security number, unless such error was a result of fraud on the part of the student.
 
-#### (q) Use of income data
-
-#### (1) Matching with IRS
-
-&emsp;The Secretary, in cooperation with the Secretary of the Treasury, is authorized to obtain from the Internal Revenue Service such information reported on Federal income tax returns by applicants, or by any other person whose financial information is required to be provided on the Federal student financial aid application, as the Secretary determines is necessary for the purpose of—
-
-&emsp;&emsp;(A) prepopulating the Federal student financial aid application described in section 1090 of this title; or
-
-&emsp;&emsp;(B) verifying the information reported on such student financial aid applications.
-
-#### (2) Consent
-
-&emsp;The Secretary may require that applicants for financial assistance under this subchapter provide a consent to the disclosure of the data described in paragraph (1) as a condition of the student receiving assistance under this subchapter. The parents of an applicant, in the case of a dependent student, or the spouse of an applicant, in the case of an applicant who is married but files separately, may also be required to provide consent as a condition of the student receiving assistance under this subchapter.
+#### (q) Repealed. Pub. L. 116–91, §6(b), Dec. 19, 2019, 133 Stat. 1196
 
 #### (r) Suspension of eligibility for drug-related offenses
 
@@ -325,11 +313,11 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;The Secretary shall prepare and submit to the authorizing committees, in each fiscal year, a report describing the results obtained by the establishment and operation of the data system authorized by this subsection.
 
-(Pub. L. 89–329, title IV, §484, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1479; amended Pub. L. 99–603, title I, §121(a)(3), Nov. 6, 1986, 100 Stat. 3388; Pub. L. 100–50, §15(7)–(9), June 3, 1987, 101 Stat. 356, 357; Pub. L. 100–369, §§1, 2, 6, July 18, 1988, 102 Stat. 835, 836; Pub. L. 100–525, §2(g), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–508, title III, §3005(a), Nov. 5, 1990, 104 Stat. 1388–27; Pub. L. 102–26, §2(b), (c)(2), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–73, title VIII, §801(a), July 25, 1991, 105 Stat. 359; Pub. L. 102–325, title IV, §484(a), (b)(1), (c)–(h), July 23, 1992, 106 Stat. 615–619; Pub. L. 103–208, §2(h)(13)–(25), Dec. 20, 1993, 107 Stat. 2476, 2477; Pub. L. 103–382, title III, §360A, Oct. 20, 1994, 108 Stat. 3969; Pub. L. 104–208, div. C, title V, §507(b), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–244, title IV, §483(a)–(f)(1), Oct. 7, 1998, 112 Stat. 1735, 1736; Pub. L. 109–171, title VIII, §§8020(c), 8021, Feb. 8, 2006, 120 Stat. 178; Pub. L. 109–270, §2(c)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title IV, §485(a), Aug. 14, 2008, 122 Stat. 3287; Pub. L. 111–39, title IV, §407(b)(4), July 1, 2009, 123 Stat. 1950; Pub. L. 112–74, div. F, title III, §309(c)(1), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–235, div. G, title III, §309(a)(1), Dec. 16, 2014, 128 Stat. 2504; Pub. L. 114–113, div. H, title III, §313(1), Dec. 18, 2015, 129 Stat. 2638.)
+(Pub. L. 89–329, title IV, §484, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1479; amended Pub. L. 99–603, title I, §121(a)(3), Nov. 6, 1986, 100 Stat. 3388; Pub. L. 100–50, §15(7)–(9), June 3, 1987, 101 Stat. 356, 357; Pub. L. 100–369, §§1, 2, 6, July 18, 1988, 102 Stat. 835, 836; Pub. L. 100–525, §2(g), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–508, title III, §3005(a), Nov. 5, 1990, 104 Stat. 1388–27; Pub. L. 102–26, §2(b), (c)(2), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–73, title VIII, §801(a), July 25, 1991, 105 Stat. 359; Pub. L. 102–325, title IV, §484(a), (b)(1), (c)–(h), July 23, 1992, 106 Stat. 615–619; Pub. L. 103–208, §2(h)(13)–(25), Dec. 20, 1993, 107 Stat. 2476, 2477; Pub. L. 103–382, title III, §360A, Oct. 20, 1994, 108 Stat. 3969; Pub. L. 104–208, div. C, title V, §507(b), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–244, title IV, §483(a)–(f)(1), Oct. 7, 1998, 112 Stat. 1735, 1736; Pub. L. 109–171, title VIII, §§8020(c), 8021, Feb. 8, 2006, 120 Stat. 178; Pub. L. 109–270, §2(c)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title IV, §485(a), Aug. 14, 2008, 122 Stat. 3287; Pub. L. 111–39, title IV, §407(b)(4), July 1, 2009, 123 Stat. 1950; Pub. L. 112–74, div. F, title III, §309(c)(1), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–235, div. G, title III, §309(a)(1), Dec. 16, 2014, 128 Stat. 2504; Pub. L. 114–113, div. H, title III, §313(1), Dec. 18, 2015, 129 Stat. 2638; Pub. L. 116–91, §6(b), Dec. 19, 2019, 133 Stat. 1196.)
 
 #### References in Text
 
-Section 1078–1 of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994,except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
+Section 1078–1 of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (d)(2)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
@@ -341,9 +329,11 @@ Subsection (h), referred to in subsec. (i), was redesignated subsec. (g) of this
 
 A prior section 1091, Pub. L. 89–329, title IV, §484, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1448; Pub. L. 99–272, title XVI, §16032(a), (b), Apr. 7, 1986, 100 Stat. 354, related to student eligibility for assistance, prior to the general revision of this part by Pub. L. 99–498.
 
-Another prior section 1091, Pub. L. 89–329, title V, §501, Nov. 8, 1965, 79 Stat. 1254; Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 82; Pub. L. 92–318, title I, §141(b)(1), June 23, 1972, 86 Stat. 285, set forth statement of purpose and authorization of appropriations for education professions development program, prior to repeal effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
+Another prior section 1091, Pub. L. 89–329, title V, §501, Nov. 8, 1965, 79 Stat. 1254; Pub. L. 90–35, §2(c), June29, 1967, 81 Stat. 82; Pub. L. 92–318, title I, §141(b)(1), June 23, 1972, 86 Stat. 285, set forth statement of purpose and authorization of appropriations for education professions development program, prior to repeal effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (q). Pub. L. 116–91 struck out subsec. (q) which authorized the Secretary of the Treasury to obtain certain information from the Internal Revenue Service regarding applicants' tax returns and to require consent from such applicants as a condition of receiving assistance. See section 1098h of this title.
 
 <b>2015</b>—Subsec. (d)(2). Pub. L. 114–113 amended par. (2) generally. Prior to amendment, par. (2) contained a different definition of "eligible career pathway program".
 
@@ -407,7 +397,7 @@ Subsec. (a)(5). Pub. L. 105–244, §483(a)(2), substituted "a citizen of any on
 
 Subsec. (d). Pub. L. 105–244, §483(b), struck out "either" after "shall meet" in introductory provisions and added par. (3).
 
-Subsec. (j). Pub. L. 105–244, §483(c), amended heading and text of subsec. (j) generally. Prior to amendment, text read as follows: "Notwithstanding any other provision of law, a student shall be eligible, if otherwise qualified, for assistance under subparts 1, 3, and 6, and division 1 of subpart 2, of part A, and part C, of this subchapter, if the student is otherwise qualified and—
+Subsec. (j). Pub. L. 105–244, §483(c), amended heading and text of subsec. (j) generally. Prior to amendment,text read as follows: "Notwithstanding any other provision of law, a student shall be eligible, if otherwise qualified, for assistance under subparts 1, 3, and 6, and division 1 of subpart 2, of part A, and part C, of this subchapter, if the student is otherwise qualified and—
 
 &emsp;"(1) is a citizen of the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau, and attends an institution of higher education in a State or a public or nonprofit private institution of higher education in the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau; or
 
@@ -463,7 +453,7 @@ Pub. L. 103–208, §2(h)(24), substituted "documented evidence of a social secu
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–325, §484(a)(1), inserted "(including a program of study abroad approved for credit by the eligible institution at which such student is enrolled)" after "or other program".
 
-Subsec. (a)(4). Pub. L. 102–325, §484(a)(2), added par. (4) and struck out former par. (4) which read as follows: "file with the institution of higher education which the student intends to attend, or is attending (or in the case of a loan or loan guarantee with the lender), a statement of educational purpose (which need not be notarized but which shall include such student's socialsecurity number or, if the student does not have a social security number, such student's student identification number) stating that the money attributable to such grant, loan, or loan guarantee will be used solely for expenses related to attendance or continued attendance at such institution; and".
+Subsec. (a)(4). Pub. L. 102–325, §484(a)(2), added par. (4) and struck out former par. (4) which read as follows: "file with the institution of higher education which the student intends to attend, or is attending (or in the case of a loan or loan guarantee with the lender), a statement of educational purpose (which need not be notarized but which shall include such student's social security number or, if the student does not have a social security number, such student's student identification number) stating that the money attributable to such grant, loan, or loan guarantee will be used solely for expenses related to attendance or continued attendance at such institution; and".
 
 Subsec. (b)(4). Pub. L. 102–325, §484(b)(1)(A), substituted "part B, D, or E or work-study assistance under part C" for "part B" in concluding provisions.
 
@@ -623,7 +613,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Satisfactory Progress
 
-Pub. L. 99–498, title XIII, §1301, Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100–50, §23(1), June 3, 1987, 101 Stat. 362, directed Secretary, through the Office ofEducational Research and Improvement, to conduct survey over 5-year period ending Sept. 30, 1991, on impact on grades of students of amendments made by Pub. L. 99–498 to subsec. (c) of this section and to submit annual reports to Congress of survey, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
+Pub. L. 99–498, title XIII, §1301, Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100–50, §23(1), June 3, 1987, 101 Stat. 362, directed Secretary, through the Office of Educational Research and Improvement, to conduct survey over 5-year period ending Sept. 30, 1991, on impact on grades of students of amendments made by Pub. L. 99–498 to subsec. (c) of this section and to submit annual reports to Congress of survey, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
 
 #### Denial of Student Assistance to Certain Noncitizens
 

@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;The amount of all items of gross income in respect of a decedent which are not properly includible in respect of the taxable period in which falls the date of his death or a prior period (including the amount of all items of gross income in respect of a prior decedent, if the right to receive such amount was acquired by reason of the death of the prior decedent or by bequest, devise, or inheritance from the prior decedent) shall be included in the gross income, for the taxable year when received, of:
+&emsp;The amount of all items of gross income in respect of a decedent which are not properlyincludible in respect of the taxable period in which falls the date of his death or a prior period (including the amount of all items of gross income in respect of a prior decedent, if the right to receive such amount was acquired by reason of the death of the prior decedent or by bequest, devise, or inheritance from the prior decedent) shall be included in the gross income, for the taxable year when received, of:
 
 &emsp;&emsp;(A) the estate of the decedent, if the right to receive the amount is acquired by the decedent's estate from the decedent;
 
@@ -14,7 +14,7 @@
 
 #### (2) Income in case of sale, etc.
 
-&emsp;If a right, described in paragraph (1), to receive an amount is transferred by the estate of the decedent or a person who received such right by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent, there shall be included in the gross income of the estate or such person, as the case may be, for the taxable period in which the transfer occurs, the fair market value of such right at the time of such transfer plus the amount by which any consideration for the transfer exceeds such fair market value. For purposes of this paragraph, the term "transfer" includes sale, exchange, or other disposition, or the satisfaction of an installment obligation at other than face value, but does not include transmission at death to the estate of the decedent or a transfer to a person pursuant to the right of such person to receive such amount by reason of the death of the decedentor by bequest, devise, or inheritance from the decedent.
+&emsp;If a right, described in paragraph (1), to receive an amount is transferred by the estate of the decedent or a person who received such right by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent, there shall be included in the gross income of the estate or such person, as the case may be, for the taxable period in which the transfer occurs, the fair market value of such right at the time of such transfer plus the amount by which any consideration for the transfer exceeds such fair market value. For purposes of this paragraph, the term "transfer" includes sale, exchange, or other disposition, or the satisfaction of an installment obligation at other than face value, but does not include transmission at death to the estate of the decedent or a transfer to a person pursuant to the right of such person to receive such amount by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent.
 
 #### (3) Character of income determined by reference to decedent
 

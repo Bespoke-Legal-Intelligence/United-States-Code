@@ -6,7 +6,7 @@
 
 &emsp;(2) periods of leave with pay during these hours if the periods of leave with pay during a pay period total less than 8 hours.
 
-> Except as otherwise provided by subsection (c) of this section, an employee is entitled to pay for nightwork at his rate of basic pay plus premium pay amounting to 10 percent of that basic rate. This subsection and subsection (b) of this section do not modify section 5141 of title 31, orother statute authorizing additional pay for nightwork.
+> Except as otherwise provided by subsection (c) of this section, an employee is entitled to pay for nightwork at his rate of basic pay plus premium pay amounting to 10 percent of that basic rate. This subsection and subsection (b) of this section do not modify section 5141 of title 31, or other statute authorizing additional pay for nightwork.
 
 (b) The head of an agency may designate a time after 6:00 p.m. and a time before 6:00 a.m. as the beginning and end, respectively, of nightwork for the purpose of subsection (a) of this section, at a post outside the United States where the customary hours of business extend into the hours of nightwork provided by subsection (a) of this section.
 
@@ -22,7 +22,7 @@
 
 &emsp;(2) may not exceed an amount equal to 25 percent of the rate of basic pay applicable to the employee.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 487; Pub. L. 90–83, §1(27), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §217, Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–556, §2, Oct. 10, 1968, 82 Stat. 969; Pub. L. 91–231, §8, Apr. 15, 1970, 84 Stat. 198; Pub. L. 94–183, §2(23), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(32), Aug. 14, 1979, 93 Stat. 383; Pub. L. 97–258, §3(a)(13), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 101–173, §1(a), Nov. 27, 1989, 103 Stat. 1292; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §203\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1456; Pub. L. 102–378, §3(2), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 108–136, div. A, title XI, §1122(b), Nov. 24, 2003, 117 Stat. 1637.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 487; Pub. L. 90–83, §1(27), Sept. 11, 1967, 81 Stat. 200; Pub. L.90–206, title II, §217, Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–556, §2, Oct. 10, 1968, 82 Stat. 969; Pub. L. 91–231, §8, Apr. 15, 1970, 84 Stat. 198; Pub. L. 94–183, §2(23), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(32), Aug. 14, 1979, 93 Stat. 383; Pub. L. 97–258, §3(a)(13), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 101–173, §1(a), Nov. 27, 1989, 103 Stat. 1292; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §203\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1456; Pub. L. 102–378, §3(2), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 108–136, div. A, title XI, §1122(b), Nov. 24, 2003, 117 Stat. 1637.)
 
 Historical and Revision Notes<br>1966
 
@@ -150,5 +150,5 @@ Amendment by Pub. L. 90–556 effective on first day of first pay period beginni
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–206 effective at beginning of first pay period which begins on or after Dec. 16, 1967,see section 220(a)(3) of Pub. L. 90–206, set out as a note under section 603 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 90–206 effective at beginning of first pay period which begins on or after Dec. 16, 1967, see section 220(a)(3) of Pub. L. 90–206, set out as a note under section 603 of Title 28, Judiciary and Judicial Procedure.
 

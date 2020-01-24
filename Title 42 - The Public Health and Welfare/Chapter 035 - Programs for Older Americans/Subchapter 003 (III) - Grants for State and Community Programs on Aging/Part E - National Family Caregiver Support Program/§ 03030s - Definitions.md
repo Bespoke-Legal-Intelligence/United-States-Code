@@ -84,7 +84,7 @@ Strategy.—The term 'Strategy' means the Family Caregiving Strategy set forth u
 
 "(a)
 
-In General.—The Secretary, in consultation with the heads of other appropriate Federal agencies, shall develop jointly with the Advisory Council and submit to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiverprograms, and make publicly available on the internet website of the Department of Health and Human Services, a Family Caregiving Strategy.
+In General.—The Secretary, in consultation with the heads of other appropriate Federal agencies, shall develop jointly with the Advisory Council and submit to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, and make publicly available on the internet website of the Department of Health and Human Services, a Family Caregiving Strategy.
 
 "(b)
 
@@ -106,7 +106,7 @@ Contents.—The Strategy shall identify recommended actions that Federal (under 
 
 Duties of the Secretary.—The Secretary, in carrying out subsection (a), shall oversee the following:
 
-&emsp;"(1) Collecting and making publicly available information submitted by the Advisory Council under section 4(d) to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, including evidence-based or promising practices and innovative models (both domestic and foreign) regarding the provision of care by family caregivers or support for family caregivers.
+&emsp;"(1) Collecting and making publicly available information submitted by the Advisory Council under section 4(d) to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, including evidence-based or promising practices and innovative models (both domestic and foreign) regarding the provision of care by family caregivers or support for family caregivers.
 
 &emsp;"(2) Coordinating and assessing existing Federal Government programs and activities to recognize and support family caregivers while ensuring maximum effectiveness and avoiding unnecessary duplication.
 
@@ -116,9 +116,9 @@ Duties of the Secretary.—The Secretary, in carrying out subsection (a), shall 
 
 Initial Strategy; Updates.—The Secretary shall—
 
-&emsp;"(1) not later than 18 months after the date of enactment of this Act \[Jan. 22, 2018\], develop, publish, and submit to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, an initial Strategy incorporating the items addressed in the Advisory Council's initial report under section 4(d) and other relevant information, including best practices, for recognizing and supporting family caregivers; and
+&emsp;"(1) not later than 18 months after the date of enactment of this Act \[Jan. 22, 2018\], develop, publish, and submit to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, an initial Strategy incorporating the items addressed in the Advisory Council's initial report under section 4(d) and other relevant information, including best practices, for recognizing and supporting family caregivers; and
 
-&emsp;"(2) biennially update, republish, and submit to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs the Strategy, taking into account the most recent annual report submitted under section 4(d)(1)—
+&emsp;"(2) biennially update, republish, and submit to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs the Strategy, taking into account the most recent annual report submitted under section 4(d)(1)—
 
 &emsp;&emsp;"(A) to reflect new developments, challenges, opportunities, and solutions; and
 
@@ -212,7 +212,7 @@ Advisory Council Annual Reports.—
 
 &emsp;"(1)
 
-In general.—Not later than 12 months after the date of enactment of this Act, and annuallythereafter, the Advisory Council shall submit to the Secretary, the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, and make publicly available on the internet website of the Department of Health and Human Services, a report concerning the development, maintenance, and updating of the Strategy, including a description of the outcomes of the recommendations and any priorities included in the initial report pursuant to paragraph (2), as appropriate.
+In general.—Not later than 12 months after the date of enactment of this Act, and annually thereafter, the Advisory Council shall submit to the Secretary, the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, and make publicly available on the internet website of the Department of Health and Human Services, a report concerning the development, maintenance, and updating of the Strategy, including a description of the outcomes of the recommendations and any priorities included in the initial report pursuant to paragraph (2), as appropriate.
 
 &emsp;"(2)
 

@@ -112,7 +112,7 @@ Subject to the availability of funds to carry out this section, the amount of—
 
 #### (1) 60-watt incandescent replacement
 
-&emsp;Subject to paragraph (3), as soon as practicable after the successful award of the 60-Watt Incandescent Replacement Lamp Prize under subsection (b)(1), the Secretary (in consultation with the Administrator of General Services) shall develop governmentwide Federal purchase guidelines with a goal of replacing the use of 60-watt incandescent lamps in Federal Government buildings with a solid-state-light package described in subsection (b)(1) by not later than the date that is 5 years after the date the award is made.
+&emsp;Subject to paragraph (3), as soon as practicable after the successful award of the 60-Watt Incandescent Replacement Lamp Prize under subsection (b)(1), the Secretary (in consultation with the Administrator of General Services) shall develop governmentwide Federal purchase guidelines with a goal of replacing the use of 60-watt incandescent lamps inFederal Government buildings with a solid-state-light package described in subsection (b)(1) by not later than the date that is 5 years after the date the award is made.
 
 #### (2) PAR 38 halogen replacement lamp replacement <sup>1</sup>
 

@@ -12,7 +12,7 @@ Duties.—(1) The Surgeon General serves as the Chief of the Bureau of Medicine 
 
 (3) The Surgeon General, acting under the authority, direction, and control of the Secretary of the Navy, shall recruit, organize, train, and equip, medical personnel of the Navy and the Marine Corps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 286, §5137; Pub. L. 89–288, §4, Oct. 22, 1965, 79 Stat. 1050; Pub. L.96–513, title V, §503(10), Dec. 12, 1980, 94 Stat. 2912; Pub. L. 104–106, div. A, title V, §506(b), Feb. 10, 1996, 110 Stat. 296; Pub. L. 114–328, div. A, title VII, §702(b)(2)(A), Dec. 23, 2016, 130 Stat. 2195; renumbered §8077, Pub. L. 115–232, div. A, title VIII, §807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 286, §5137; Pub. L. 89–288, §4, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 96–513, title V, §503(10), Dec. 12, 1980, 94 Stat. 2912; Pub. L. 104–106, div. A, title V, §506(b), Feb. 10, 1996, 110 Stat. 296; Pub. L. 114–328, div. A, title VII, §702(b)(2)(A), Dec. 23, 2016, 130 Stat. 2195; renumbered §8077, Pub. L. 115–232, div. A, title VIII, §807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
 
 Historical and Revision Notes
 

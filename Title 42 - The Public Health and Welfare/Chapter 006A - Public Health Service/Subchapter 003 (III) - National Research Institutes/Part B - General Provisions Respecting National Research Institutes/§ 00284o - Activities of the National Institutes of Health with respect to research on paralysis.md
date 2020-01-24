@@ -8,7 +8,7 @@ The Director of the National Institutes of Health (referred to in this section a
 
 #### (1) In general
 
-&emsp;The Director may make awards of grants to public or private entities to pay all or part ofthe cost of planning, establishing, improving, and providing basic operating support for consortia in paralysis research. The Director shall designate each consortium funded through such grants as a Christopher and Dana Reeve Paralysis Research Consortium.
+&emsp;The Director may make awards of grants to public or private entities to pay all or part of the cost of planning, establishing, improving, and providing basic operating support for consortia in paralysis research. The Director shall designate each consortium funded through such grants as a Christopher and Dana Reeve Paralysis Research Consortium.
 
 #### (2) Research
 
@@ -30,7 +30,7 @@ The Director of the National Institutes of Health (referred to in this section a
 
 #### (4) Organization of consortia
 
-&emsp;Each consortium under paragraph (1) may use the facilities of a single lead institution, or be formed from several cooperating institutions, meeting such requirements as may be prescribed by the Director.
+&emsp;Each consortium under paragraph (1) may use the facilities of a single lead institution,or be formed from several cooperating institutions, meeting such requirements as may be prescribed by the Director.
 
 #### (c) Public input
 

@@ -75,7 +75,7 @@
 
 <b>1999</b>—Pub. L. 106–117, title X, §§1021(b), 1024(b), Nov. 30, 1999, 113 Stat. 1592, 1594, added items 7257 and 7299.
 
-<b>1998</b>—Pub. L. 105–368, title V, §512(a)(3), (4)(A), Nov. 11, 1998, 112 Stat. 3341, substituted "APPEALS FOR VETERANS CLAIMS" for "VETERANS APPEALS" in chapter heading, struck out "of Veterans Appeals" after "Court" in item 7286, substituted "Court decision" for "United States Court of Veterans Appeals decision" in item 7291, and struck out "Court of Veterans Appeals" before "Retirement Fund" in item 7298.
+<b>1998</b>—Pub. L. 105–368, title V, §512(a)(3), (4)(A), Nov. 11, 1998, 112 Stat. 3341, substituted "APPEALS FOR VETERANS CLAIMS" for "VETERANS APPEALS" in chapter heading, struck out "of Veterans Appeals"after "Court" in item 7286, substituted "Court decision" for "United States Court of Veterans Appeals decision" in item 7291, and struck out "Court of Veterans Appeals" before "Retirement Fund" in item 7298.
 
 <b>1991</b>—Pub. L. 102–82, §2(b), Aug. 6, 1991, 105 Stat. 375, added item 7286.
 

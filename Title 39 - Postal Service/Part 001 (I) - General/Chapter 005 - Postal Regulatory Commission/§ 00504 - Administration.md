@@ -24,7 +24,7 @@
 
 (4) For purposes of this subsection, the term "covered person" means an officer, employee, agent, or contractor of the Postal Service.
 
-(g)(1) If the Postal Service determines that any document or other matter it provides to thePostal Regulatory Commission under a subpoena issued under subsection (f), or otherwise at the request of the Commission in connection with any proceeding or other purpose under this title, contains information which is described in section 410(c) of this title, or exempt from public disclosure under section 552(b) of title 5, the Postal Service shall, at the time of providing such matter to the Commission, notify the Commission, in writing, of its determination (and the reasons therefor).
+(g)(1) If the Postal Service determines that any document or other matter it provides to the Postal Regulatory Commission under a subpoena issued under subsection (f), or otherwise at the request of the Commission in connection with any proceeding or other purpose under this title, contains information which is described in section 410(c) of this title, or exempt from public disclosure under section 552(b) of title 5, the Postal Service shall, at the time of providing such matter to the Commission, notify the Commission, in writing, of its determination (and the reasons therefor).
 
 (2) Except as provided in paragraph (3), no officer or employee of the Commission may, with respect to any information as to which the Commission has been notified under paragraph (1)—
 
@@ -70,7 +70,7 @@ Subsecs. (d), (e). Pub. L. 94–421 redesignated former subsecs. (c) and (d) as 
 
 #### Effective Date of 2006 Amendment; Savings Provisions
 
-Amendment by section 603(a) of Pub. L. 109–435 applicable with respect to fiscal years beginning on or after Oct. 1, 2008, subject to savings provisions, see section 603(d) of Pub. L. 109–435, set out as a note under section 8G of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
+Amendment by section 603(a) of Pub. L. 109–435 applicable with respect to fiscal years beginning on or after Oct. 1, 2008, subject to savings provisions, see section603(d) of Pub. L. 109–435, set out as a note under section 8G of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 11570. Regulation of Conduct for Postal Rate Commission and Its Employees
 
@@ -80,7 +80,7 @@ Under the Postal Reorganization Act (Public Law 91–375) \[this title\], the Po
 
 NOW THEREFORE, by virtue of the authority vested in me by section 301 of Title 3, and Section 7301 of Title 5, United States Code, and the Postal Reorganization Act \[this title\], it is hereby ordered as follows:
 
-Section 101. The Commission is subject to Executive Order No. 11222 of May 8, 1965 \[formerly set out as a note under section 201 of Title 18, Crimes and Criminal Procedure\], "Prescribing Standards of Ethical Conductfor Government Officers and Employees," and Part 735 of the regulations of the Office of Personnel Management (5 CFR Part 735).
+Section 101. The Commission is subject to Executive Order No. 11222 of May 8, 1965 \[formerly set out as a note under section 201 of Title 18, Crimes and Criminal Procedure\], "Prescribing Standards of Ethical Conduct for Government Officers and Employees," and Part 735 of the regulations of the Office of Personnel Management (5 CFR Part 735).
 
 Sec. 102. The Office of Personnel Management shall prepare initial standards of conduct regulations for the Commission. The regulations shall contain such provisions as will ensure that the Commissioners and employees of the Commission are fully guarded against involvement in conflicts of interest situations, or the appearance thereof, or other conduct that may lessen public confidence. The regulations shall include provision for:
 

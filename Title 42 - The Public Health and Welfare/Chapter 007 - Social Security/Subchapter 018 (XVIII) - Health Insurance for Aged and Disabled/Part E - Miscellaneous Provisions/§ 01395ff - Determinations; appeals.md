@@ -92,7 +92,7 @@
 
 #### (A) Reconsideration of initial determination
 
-&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the "Commissioner of Social Security" or the "Social Security Administration" in subsection (g) or (l) of section 405 of this title shall be considered a reference to the "Secretary" or the "Department of Health and Human Services", respectively.
+&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the "Commissioner of Social Security" or the "Social Security Administration" in subsection (g) or (l) of section 405 of this titleshall be considered a reference to the "Secretary" or the "Department of Health and Human Services", respectively.
 
 #### (B) Representation by provider or supplier
 
@@ -318,7 +318,7 @@
 
 #### (iii) Annual reporting
 
-&emsp;&emsp;&emsp;Each qualified independent contractor shall submit annually to the Secretary (orotherwise as the Secretary may request) records maintained under this paragraph for the previous year.
+&emsp;&emsp;&emsp;Each qualified independent contractor shall submit annually to the Secretary (or otherwise as the Secretary may request) records maintained under this paragraph for the previous year.
 
 #### (J) Hearings by the Secretary
 
@@ -480,7 +480,7 @@
 
 &emsp;&emsp;(A) there are no material issues of fact in dispute, and
 
-&emsp;&emsp;(B) the only issue of law is the constitutionality of a provision of this subchapter, or that a regulation, determination, or ruling by the Secretary is invalid,
+&emsp;&emsp;(B) the only issue of law is the constitutionality of a provision of this subchapter,or that a regulation, determination, or ruling by the Secretary is invalid,
 
 > &emsp;the moving party may seek review by a court of competent jurisdiction without filing a complaint under such paragraph and without otherwise exhausting other administrative remedies.
 
@@ -518,7 +518,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than December 1 of each year, beginning in 2001, the Secretary shall submit to Congress a report that sets forth a detailed compilation of the actual time periods that were necessary to complete and fully implement national coverage determinations that were made in the previous fiscal year for items, services, or medical devices not previously covered as a benefit under this subchapter, including, with respect to each new item, service, or medical device, a statement of the time taken by the Secretary to make and implement the necessarycoverage, coding, and payment determinations, including the time taken to complete each significant step in the process of making and implementing such determinations.
+&emsp;&emsp;Not later than December 1 of each year, beginning in 2001, the Secretary shall submit to Congress a report that sets forth a detailed compilation of the actual time periods that were necessary to complete and fully implement national coverage determinations that were made in the previous fiscal year for items, services, or medical devices not previously covered as a benefit under this subchapter, including, with respect to each new item, service, or medical device, a statement of the time taken by the Secretary to make and implement the necessary coverage, coding, and payment determinations, including the time taken to complete each significant step in the process of making and implementing such determinations.
 
 #### (B) Publication of reports on the Internet
 
@@ -962,7 +962,7 @@ In general.—Not earlier than July 1, 2005, and not later than October 1, 2005,
 
 &emsp;"(2)
 
-Assuring independence of judges.—The Secretary shall assure the independence of administrative law judges performing the administrative law judge functions transferred under paragraph (1) from the Centers for Medicare \& Medicaid Services and its contractors. In order to assure such independence, the Secretary shall place such judges in an administrative office that is organizationally and functionally separate from such Centers. Such judges shall report to, and be under the general supervision of, the Secretary, but shall not report to, or be subject to supervision by, another officer of the Department of Health and Human Services.
+Assuring independence of judges.—The Secretary shall assure the independence of administrative law judges performing the administrative law judge functions transferred under paragraph (1) from the Centers for Medicare \& Medicaid Services and its contractors. In order to assure such independence, the Secretary shall place such judges in an administrative office that is organizationally and functionally separate from such Centers. Such judges shall report to, and be under the general supervision of, theSecretary, but shall not report to, or be subject to supervision by, another officer of the Department of Health and Human Services.
 
 &emsp;"(3)
 
@@ -1016,7 +1016,7 @@ Pub. L. 100–203, title IV, §4037, Dec. 22, 1987, 101 Stat. 1330–80, provide
 
 "(a)
 
-Maintaining Current System for Hearings and Appeals.—Any hearing conducted under section 1869(b)(1) of the Social Security Act \[42 U.S.C.1395ff(b)(1)\] prior to the earliest of the date on which the Secretary of Health and Human Services submits the report required to be submitted by the Secretary under subsection (b)(1) or September 1 shall be conducted by Administrative Law Judges of the Office of Hearings and Appeals of the Social Security Administration in the same manner as are hearings conducted under section 205(b)(1) of such Act \[42 U.S.C. 405(b)(1)\].
+Maintaining Current System for Hearings and Appeals.—Any hearing conducted under section 1869(b)(1) of the Social Security Act \[42 U.S.C. 1395ff(b)(1)\] prior to the earliest of the date on which the Secretary of Health and Human Services submits the report required to be submitted by the Secretary under subsection (b)(1) or September 1 shall be conducted by Administrative Law Judges of the Office of Hearings and Appeals of the Social Security Administration in the same manner as are hearings conducted under section 205(b)(1) of such Act \[42 U.S.C. 405(b)(1)\].
 
 "(b)
 

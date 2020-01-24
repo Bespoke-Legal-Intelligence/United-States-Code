@@ -10,7 +10,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;A sectarian organization may require that employees adhere to the religious tenets andteachings of such organization, and such organization may require that employees adhere to rules forbidding the use of drugs or alcohol.
+&emsp;&emsp;A sectarian organization may require that employees adhere to the religious tenets and teachings of such organization, and such organization may require that employees adhere to rules forbidding the use of drugs or alcohol.
 
 #### (2) Discrimination against child
 
@@ -20,7 +20,7 @@
 
 #### (B) Non-funded child care slots
 
-&emsp;&emsp;Nothing in this section shall prohibit a child care provider from selecting children for child care slots that are not funded directly with assistance provided under this subchapter because such children or their family members participate on a regular basis in other activities of the organization that owns or operates such provider.
+&emsp;&emsp;Nothing in this section shall prohibit a child care provider from selecting childrenfor child care slots that are not funded directly with assistance provided under this subchapter because such children or their family members participate on a regular basis in other activities of the organization that owns or operates such provider.
 
 #### (3) Employment in general
 

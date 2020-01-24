@@ -50,7 +50,7 @@ In approving applications for projects assisted under this section for any fisca
 
 #### (e) Award considerations
 
-In addition to such other selection criteria as may be prescribed by regulations, the Secretaryshall consider in making awards to institutions under this section—
+In addition to such other selection criteria as may be prescribed by regulations, the Secretary shall consider in making awards to institutions under this section—
 
 &emsp;(1) the quality of research and other scholarly activities in which students will be involved;
 

@@ -26,7 +26,7 @@ Except as provided in this section, the PBO shall abide by all applicable Federa
 
 #### (2) Fee for service arrangements
 
-&emsp;The Chief Operating Officer shall, when appropriate and consistent with the purposes of the PBO, acquire services related to the functions set forth in section 1018(b)(2) of this title from any entity that has the capability and capacity to meet the requirements set by thePBO. The Chief Operating Officer is authorized to pay fees that are equivalent to those paid by other entities to an organization that provides services that meet the requirements of the PBO, as determined by the Chief Operating Officer.
+&emsp;The Chief Operating Officer shall, when appropriate and consistent with the purposes of the PBO, acquire services related to the functions set forth in section 1018(b)(2) of this title from any entity that has the capability and capacity to meet the requirements set by the PBO. The Chief Operating Officer is authorized to pay fees that are equivalent to those paid by other entities to an organization that provides services that meet the requirements of the PBO, as determined by the Chief Operating Officer.
 
 #### (d) Two-phase source-selection procedures
 
@@ -56,7 +56,7 @@ Except as provided in this section, the PBO shall abide by all applicable Federa
 
 #### (C) Selection for second phase
 
-&emsp;&emsp;The contracting officer shall select the offerors that are to be eligible to participate in the second phase of the process. The contracting officer shall limit the number of the selected offerors to the number of sources that the contracting officer determines is appropriate and in the best interests of the Federal Government.
+&emsp;&emsp;The contracting officer shall select the offerors that are to be eligible to participate in the second phase of the process. The contracting officer shall limit the number of theselected offerors to the number of sources that the contracting officer determines is appropriate and in the best interests of the Federal Government.
 
 #### (3) Second phase
 
@@ -76,15 +76,11 @@ Except as provided in this section, the PBO shall abide by all applicable Federa
 
 &emsp;The procedures used for selecting a source for a procurement under this subsection shall be considered competitive procedures for all purposes.
 
-#### (e) Use of simplified procedures for commercial items
+#### (e) Use of simplified procedures for commercial products and commercial services
 
-Whenever the PBO anticipates that commercial items will be offered for a procurement, the PBO may use (consistent with the special rules for commercial items) the special simplified procedures for the procurement without regard to—
+Whenever the PBO anticipates that commercial products or commercial services will be offered for a procurement, the PBO may use (consistent with the special rules for commercial products and commercial services) the special simplified procedures for the procurement without regard to any dollar limitation otherwise applicable to the use of those procedures.
 
-&emsp;(1) any dollar limitation otherwise applicable to the use of those procedures; and
-
-&emsp;(2) the expiration of the authority to use special simplified procedures under section 4202(e) of the Clinger-Cohen Act of 1996 (110 Stat. 654; 10 U.S.C. 2304 note).
-
-#### (f) Flexible wait periods and deadlines for submission of offers of noncommercial items
+#### (f) Flexible wait periods and deadlines for submission of offers of noncommercial products and services
 
 #### (1) Authority
 
@@ -94,9 +90,9 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 &emsp;&emsp;(B) notwithstanding subsection (a)(3) of such section, establish any deadline for the submission of bids or proposals that affords potential offerors a reasonable opportunity to respond to the solicitation.
 
-#### (2) Inapplicability to commercial items
+#### (2) Inapplicability to commercial products and services
 
-&emsp;Paragraph (1) does not apply to a procurement of a commercial item.
+&emsp;Paragraph (1) does not apply to a procurement of a commercial product or a commercial service.
 
 #### (3) Consistency with applicable international agreements
 
@@ -168,11 +164,11 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 &emsp;The PBO may award a contract under any other simplified procedures prescribed by the PBO for the selection of sources for the procurement of modules for a system, after the first module, that are not to be procured under a contract awarded on a single-source basis.
 
-#### (h) Use of simplified procedures for small business set-asides for services other than commercial items
+#### (h) Use of simplified procedures for small business set-asides for services other than commercial services
 
 #### (1) Authority
 
-&emsp;The PBO may use special simplified procedures for a procurement of services that are not commercial items if—
+&emsp;The PBO may use special simplified procedures for a procurement of services that are not commercial services if—
 
 &emsp;&emsp;(A) the procurement is in an amount not greater than $1,000,000;
 
@@ -200,7 +196,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (3) Compliance with OFPP guidance
 
-&emsp;The head of the PBO shall ensure that the procurements of the PBO under this sectionare carried out in a manner that is consistent with the guidance provided for the PBO under paragraph (2).
+&emsp;The head of the PBO shall ensure that the procurements of the PBO under this section are carried out in a manner that is consistent with the guidance provided for the PBO under paragraph (2).
 
 #### (j) Limitation on multiagency contracting
 
@@ -214,107 +210,31 @@ Nothing in this section shall be construed to waive laws for the enforcement of 
 
 In this section:
 
-#### (1) Commercial item
+#### (1) Commercial product
 
-&emsp;The term "commercial item" has the meaning given the term in section 103 of title 41.
+&emsp;The term "commercial product" has the meaning given the term in section 103 of title 41.
 
-#### (2) Competitive procedures
+#### (2) Commercial service
+
+&emsp;The term "commercial service" has the meaning given the term in section 103a of title 41.
+
+#### (3) Competitive procedures
 
 &emsp;The term "competitive procedures" has the meaning given the term in section 152 of title 41.
 
-#### (3) Single-source basis
+#### (4) Single-source basis
 
 &emsp;The term "single-source basis", with respect to an award of a contract, means that the contract is awarded to a source after soliciting an offer or offers from, and negotiating with, only such source (although such source is not the only source in the marketplace capable of meeting the need) because such source is the most advantageous source for purposes of the award.
 
-#### (4) Special rules for commercial items
+#### (5) Special rules for commercial products and commercial services
 
-&emsp;The term "special rules for commercial items" means the regulations set forth in the Federal Acquisition Regulation pursuant to sections 1901 and 3305(a) of title 41.
+&emsp;The term "special rules for commercial products and commercial services" means theregulations set forth in the Federal Acquisition Regulation pursuant to sections 1901 and 3305(a) of title 41.
 
-#### (5) Special simplified procedures
+#### (6) Special simplified procedures
 
 &emsp;The term "special simplified procedures" means the procedures applicable to purchases of property and services for amounts not greater than the simplified acquisition threshold that are set forth in the Federal Acquisition Regulation pursuant to sections 1901(a)(1) and 3305(a)(1) of title 41.
 
 (Pub. L. 89–329, title I, §142, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1611; amended Pub. L. 110–315, title I, §118, Aug. 14, 2008, 122 Stat. 3116; Pub. L. 115–232, div. A, title VIII, §836(g)(2), Aug. 13, 2018, 132 Stat. 1872.)
-
-#### Amendment of Subsections (e), (f), (h), and (l)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(g)(2), (h), Aug. 13, 2018, 132 Stat. 1872, 1874, made amendments to subsections (e), (f), (h) and (l) of this section, effective Jan. 1, 2020, subject to a savings provision. After Jan. 1, 2020, subsections (e), (f), (h) and (l) of this section will read as follows:</i>
-
-#### <i>(e) Use of simplified procedures for commercial products and commercial services</i>
-
-<i>Whenever the PBO anticipates that commercial products or commercial services will be offered for a procurement, the PBO may use (consistent with the special rules for commercial products and commercial services) the special simplified procedures for the procurement without regard to any dollar limitation otherwise applicable to the use of those procedures.</i>
-
-#### <i>(f) Flexible wait periods and deadlines for submission of offers of noncommercial products and services</i>
-
-#### <i>(1) Authority</i>
-
-&emsp;<i>In carrying out a procurement, the PBO may—</i>
-
-&emsp;&emsp;<i>(A) apply a shorter waiting period for the issuance of a solicitation after the publication of a notice under section 1708 of title 41 than is required under subsection (a)(3)(A) of such section; and</i>
-
-&emsp;&emsp;<i>(B) notwithstanding subsection (a)(3) of such section, establish any deadline for the submission of bids or proposals that affords potential offerors a reasonable opportunity to respond to the solicitation.</i>
-
-#### <i>(2) Inapplicability to commercial products and services</i>
-
-&emsp;<i>Paragraph (1) does not apply to a procurement of a commercial product or a commercial service.</i>
-
-#### <i>(3) Consistency with applicable international agreements</i>
-
-&emsp;<i>If an international agreement is applicable to the procurement, any exercise of authority under paragraph (1) shall be consistent with the international agreement.</i>
-
-#### <i>(h) Use of simplified procedures for small business set-asides for services other than commercial services</i>
-
-#### <i>(1) Authority</i>
-
-&emsp;<i>The PBO may use special simplified procedures for a procurement of services that are not commercial services if—</i>
-
-&emsp;&emsp;<i>(A) the procurement is in an amount not greater than $1,000,000;</i>
-
-&emsp;&emsp;<i>(B) the procurement is conducted as a small business set-aside pursuant to section 644(a) of title 15; and</i>
-
-&emsp;&emsp;<i>(C) the price charged for supplies associated with the services procured are items of supply expected to be less than 20 percent of the total contract price.</i>
-
-#### <i>(2) Inapplicability to certain procurements</i>
-
-&emsp;<i>The authority set forth in paragraph (1) may not be used for—</i>
-
-&emsp;&emsp;<i>(A) an award of a contract on a single-source basis; or</i>
-
-&emsp;&emsp;<i>(B) a contract for construction.</i>
-
-#### <i>(l) Definitions</i>
-
-<i>In this section:</i>
-
-#### <i>(1) Commercial product</i>
-
-&emsp;<i>The term "commercial product" has the meaning given the term in section 103 of title 41.</i>
-
-#### <i>(2) Commercial service</i>
-
-&emsp;<i>The term "commercial service" has the meaning given the term in section 103a of title 41.</i>
-
-#### <i>(3) Competitive procedures</i>
-
-&emsp;<i>The term "competitive procedures" has the meaning given the term in section 152 of title 41.</i>
-
-#### <i>(4) Single-source basis</i>
-
-&emsp;<i>The term "single-source basis", with respect to an award of a contract, means that the contract is awarded to a source after soliciting an offer or offers from, and negotiating with, only such source (although such source is not the only source in the marketplace capable of meeting the need) because such source is the most advantageous source for purposes of the award.</i>
-
-#### <i>(5) Special rules for commercial products and commercial services</i>
-
-&emsp;<i>The term "special rules for commercial products and commercial services" means the regulations set forth in the Federal Acquisition Regulation pursuant to sections 1901 and 3305(a) of title 41.</i>
-
-#### <i>(6) Special simplified procedures</i>
-
-&emsp;<i>The term "special simplified procedures" means the procedures applicable to purchases of property and services for amounts not greater than the simplified acquisition threshold that are set forth in the Federal Acquisition Regulation pursuant to sections 1901(a)(1) and 3305(a)(1) of title 41.</i>
-
-<i>See 2018 Amendment notes below.</i>
-
-#### References in Text
-
-Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (e)(2), is section 4202(e) of Pub. L. 104–106, which is set out as a note under section 2304 of Title 10, Armed Forces.
 
 #### Codification
 
@@ -327,14 +247,6 @@ In subsec. (f)(1)(A), "section 1708 of title 41" substituted for "section 18 of 
 In subsec. (g)(5)(C), "section 1708(c) of title 41" substituted for "section 18(b) of the Office of Federal Procurement Policy Act (41 U.S.C. 416(b))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (g)(6), "section 3304(e) of title 41" substituted for "section 303(f) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
-In subsec. (l)(1), "section 103 of title 41" substituted for "section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
-In subsec. (l)(2), "section 152 of title 41" substituted for "section 309(b) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 259(b))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
-In subsec. (l)(4), "sections 1901 and 3305(a) of title 41" substituted for "section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)) and section 31 of the Office of Federal Procurement Policy Act (41 U.S.C. 427)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
-In subsec. (l)(5), "sections 1901(a)(1) and 3305(a)(1) of title 41" substituted for "section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A)) and section 31(a)(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(a)(1))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 
@@ -360,7 +272,7 @@ Subsec. (l)(4). Pub. L. 115–232, §836(g)(2)(D)(i), redesignated par. (3) as (
 
 Subsec. (l)(5). Pub. L. 115–232, §836(g)(2)(D)(i), (iv), redesignated par. (4) as (5) and substituted, in heading, "commercial products and commercial services" for "commercial items" and, in text, "commercial products and commercial services" for "commercial items" and "pursuant to sections 1901 and 3305(a) of title 41." for "pursuant to section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)) and section 31 of the Office of Federal Procurement Policy Act (41 U.S.C. 427)." Former par. (5) redesignated (6).
 
-Subsec. (l)(6). Pub. L. 115–232, §836(g)(2)(D)(i), (v), redesignated par. (5) as (6) and substituted "pursuant to sections 1901(a)(1) and 3305(a)(1) of title 41." for "pursuant to section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C.253(g)(1)(A)) and section 31(a)(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(a)(1))."
+Subsec. (l)(6). Pub. L. 115–232, §836(g)(2)(D)(i), (v), redesignated par. (5) as (6) and substituted "pursuant to sections 1901(a)(1) and 3305(a)(1) of title 41." for "pursuant to section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A)) and section 31(a)(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(a)(1))."
 
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–315, §118(1)(A), struck out "for information systems supporting the programs authorized under subchapter IV" after "enter into contracts" and "and" after semicolon.
 

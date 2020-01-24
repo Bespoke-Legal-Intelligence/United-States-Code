@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as otherwise provided in this chapter or chapter 121 of this title, a vessel may not transport passengers between ports or places in the United States to which thecoastwise laws apply, either directly or via a foreign port, unless the vessel—
+In General.—Except as otherwise provided in this chapter or chapter 121 of this title, a vessel may not transport passengers between ports or places in the United States to which the coastwise laws apply, either directly or via a foreign port, unless the vessel—
 
 &emsp;(1) is wholly owned by citizens of the United States for purposes of engaging in the coastwise trade; and
 

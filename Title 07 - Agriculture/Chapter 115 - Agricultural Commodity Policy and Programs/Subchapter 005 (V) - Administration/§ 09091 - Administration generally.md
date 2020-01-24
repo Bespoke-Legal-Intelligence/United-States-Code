@@ -12,7 +12,7 @@ A determination made by the Secretary under this chapter shall be final and conc
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, not later than 90 days after February 7, 2014, the Secretary and the Commodity Credit Corporation, as appropriate, shall promulgate such regulations as are necessary to implement this chapter and the amendments made by this chapter.
+&emsp;Except as otherwise provided in this subsection, not later than 90 days after February7, 2014, the Secretary and the Commodity Credit Corporation, as appropriate, shall promulgate such regulations as are necessary to implement this chapter and the amendments made by this chapter.
 
 #### (2) Procedure
 
@@ -44,7 +44,7 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 
 Sections 11003 and 11017, referred to in subsec. (c)(2), mean sections 11003 and 11017 of Pub. L. 113–79, which enacted section 1508b of this title, amended section 1508 of this title and enacted provisions set out as a note under section 1508 of this title.
 
-The Agriculture Improvement Act of 2018, referred to in subsec. (c)(2), is Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4490. Title I of the Act enacted section 9071 of this title, amended sections 608c, 1308, 1308–3a, 1359bb, 1359ll, 4504, 4553, 7272, 7333, 8737, 8772, 9011 to 9017, 9031, 9032, 9034 to 9039, 9051 to 9060, 9081, 9091, 9092, and 9097 of this title, repealed sections 9019 and 9071 of this title, and enacted provisions set out as notes under sections 608c, 1308, 1308–3a, 6932, 9051, 9052, and 9081 of this title and section 6101 of Title 31, Money and Finance. For complete classification of this Act to the Code, see ShortTitle of 2018 Amendment note set out under section 9001 of this title and Tables.
+The Agriculture Improvement Act of 2018, referred to in subsec. (c)(2), is Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4490. Title I of the Act enacted section 9071 of this title, amended sections 608c, 1308, 1308–3a, 1359bb, 1359ll, 4504, 4553, 7272, 7333, 8737, 8772, 9011 to 9017, 9031, 9032, 9034 to 9039, 9051 to 9060, 9081, 9091, 9092, and 9097 of this title, repealed sections 9019 and 9071 of this title, and enacted provisions set out as notes under sections 608c, 1308, 1308–3a, 6932, 9051, 9052, and 9081 of this title and section 6101 of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 9001 of this title and Tables.
 
 Section 10109 of that Act, referred to in subsec. (c)(2), means section 10109 of Pub. L. 115–334, title X, Dec. 20, 2018, 132 Stat. 4906. Subsecs. (a) to (c) of section 10109 are not classified to the Code. Subsec. (d) of section 10109 amended section 2276 of this title.
 

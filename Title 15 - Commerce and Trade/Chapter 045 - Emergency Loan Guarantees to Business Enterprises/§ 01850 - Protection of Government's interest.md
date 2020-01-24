@@ -2,7 +2,7 @@
 
 #### (a) Attorney General, enforcement authority; payments into emergency loan guarantee fund
 
-The Attorney General shall take such action as may be appropriate to enforce any right accruing to the United States or any officer or agency thereof as a result of the issuance of guarantees under this chapter. Any sums recovered pursuant to this section shall be paid into the emergency loan guarantee fund.
+The Attorney General shall take such action as may be appropriate to enforce any right accruing to the United States or any officer oragency thereof as a result of the issuance of guarantees under this chapter. Any sums recovered pursuant to this section shall be paid into the emergency loan guarantee fund.
 
 #### (b) Recovery rights; subrogation
 

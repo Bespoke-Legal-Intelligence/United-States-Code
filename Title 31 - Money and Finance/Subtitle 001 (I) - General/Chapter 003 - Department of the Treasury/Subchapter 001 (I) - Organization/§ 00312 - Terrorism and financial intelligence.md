@@ -48,11 +48,13 @@ Functions.—The functions of the OTFI include providing policy, strategic, and 
 
 &emsp;&emsp;(D) combating financial crimes, including money laundering, counterfeiting, and other offenses threatening the integrity of the banking and financial systems;
 
-&emsp;&emsp;(E) other enforcement matters;
+&emsp;&emsp;(E) combating illicit financing relating to human trafficking;
 
-&emsp;&emsp;(F) those intelligence analysis and coordination functions described in subsection (b); and
+&emsp;&emsp;(F) other enforcement matters;
 
-&emsp;&emsp;(G) the security functions and programs of the Department of the Treasury.
+&emsp;&emsp;(G) those intelligence analysis and coordination functions described in subsection (b); and
+
+&emsp;&emsp;(H) the security functions and programs of the Department of the Treasury.
 
 &emsp;(5)
 
@@ -85,6 +87,22 @@ Reporting to undersecretary.—The Financial Crimes Enforcement Network (in this
 &emsp;&emsp;(B)
 
 Office of compliance.—There is established within FinCEN, an Office of Compliance.
+
+&emsp;(8)
+
+Interagency coordination.—The Secretary of the Treasury, after consultation with the Undersecretary for Terrorism and Financial Crimes, shall designate an office within the OTFI that shall coordinate efforts to combat the illicit financing of human trafficking with—
+
+&emsp;&emsp;(A) other offices of the Department of the Treasury;
+
+&emsp;&emsp;(B) other Federal agencies, including—
+
+&emsp;&emsp;&emsp;(i) the Office to Monitor and Combat Trafficking in Persons of the Department of State; and
+
+&emsp;&emsp;&emsp;(ii) the Interagency Task Force to Monitor and Combat Trafficking;
+
+&emsp;&emsp;(C) State and local law enforcement agencies; and
+
+&emsp;&emsp;(D) foreign governments.
 
 (b)
 
@@ -126,7 +144,7 @@ Delegation.—To the extent that any authorities, powers, and responsibilities o
 
 (d)
 
-Designation as Enforcement Organization.—The Office of Terrorism and Financial Intelligence (including any components thereof) is designated as a law enforcement organization of the Department of the Treasury for purposes of section 9705 of title 31, United States Code, and other relevant authorities.
+Designation as Enforcement Organization.—The Office of Terrorism and Financial Intelligence (including any components thereof) isdesignated as a law enforcement organization of the Department of the Treasury for purposes of section 9705 of title 31, United States Code, and other relevant authorities.
 
 (e)
 
@@ -136,7 +154,7 @@ Use of Existing Resources.—The Secretary may employ personnel, facilities, and
 
 References.—References in this section to the "Secretary", "Undersecretary", "Deputy Secretary", "Deputy Assistant Secretary", "Office", "Assistant Secretary", and "Department" are references to positions and offices of the Department of the Treasury, unless otherwise specified.
 
-(Added Pub. L. 108–447, div. H, title II, §222(a), Dec. 8, 2004, 118 Stat. 3242, §313; renumbered §312, Pub. L. 111–203, title V, §502(a)(2), July 21, 2010, 124 Stat. 1580; amended Pub. L. 114–22, title I, §105(c)(2)(A)(ii)(I), May 29, 2015, 129 Stat. 237.)
+(Added Pub. L. 108–447, div. H, title II, §222(a), Dec. 8, 2004, 118 Stat. 3242, §313; renumbered §312, Pub. L. 111–203, title V, §502(a)(2), July 21, 2010, 124 Stat. 1580; amended Pub. L. 114–22, title I, §105(c)(2)(A)(ii)(I), May 29, 2015, 129 Stat. 237; Pub. L. 116–92, div. F, title LXXI, §7153, Dec. 20, 2019, 133 Stat. 2259.)
 
 #### References in Text
 
@@ -151,6 +169,10 @@ Section 105 of the Intelligence Authorization Act for Fiscal Year 2004, referred
 A prior section 312 was renumbered section 315 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(4)(E) to (H). Pub. L. 116–92, §7153(a), added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
+
+Subsec. (a)(8). Pub. L. 116–92, §7153(b), added par. (8).
 
 <b>2015</b>—Subsec. (d). Pub. L. 114–22 substituted "section 9705" for "section 9703".
 

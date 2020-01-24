@@ -14,7 +14,7 @@ The Secretary of Housing and Urban Development may make grants to States and met
 
 &emsp;&emsp;&emsp;(i) To provide a lower cost residential alternative to institutional care and to prevent or delay the need for institutional care.
 
-&emsp;&emsp;&emsp;(ii) To provide a permanent or transitional residential setting with appropriate services that enhances the quality of life for individuals who are unable to live independently.
+&emsp;&emsp;&emsp;(ii) To provide a permanent or transitional residential setting with appropriateservices that enhances the quality of life for individuals who are unable to live independently.
 
 &emsp;&emsp;&emsp;(iii) To prevent homelessness among eligible persons by increasing available suitable housing resources.
 
@@ -34,7 +34,7 @@ The Secretary of Housing and Urban Development may make grants to States and met
 
 #### (D) Section 1437f assistance
 
-&emsp;&emsp;Assistance made available under section 8 of the United States Housing Act of 1937 (42U.S.C. 1437f) may be used in conjunction with a community residence under this subsection for tenant-based assistance.
+&emsp;&emsp;Assistance made available under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f) may be used in conjunction with a community residence under this subsection for tenant-based assistance.
 
 #### (2) Services
 
@@ -92,7 +92,7 @@ Any amounts received from a grant under this section may be used only as follows
 
 #### (D) Intensive assistance
 
-&emsp;&emsp;That, for any individual with acquired immunodeficiency syndrome or related diseases who resides in a community residence assisted under the grant and who requires more intensive care than can be provided by the community residence, the jurisdiction will locate for and refer the individual to a service provider who can appropriately care for the individual.
+&emsp;&emsp;That, for any individual with acquired immunodeficiency syndrome or related diseases who resides in a community residenceassisted under the grant and who requires more intensive care than can be provided by the community residence, the jurisdiction will locate for and refer the individual to a service provider who can appropriately care for the individual.
 
 #### (2) Services
 

@@ -84,7 +84,7 @@ June 30, 1949, ch. 288, title II, §204(a), 63 Stat. 388; Pub. L. 101–510, div
 
 June 8, 1896, ch. 373, 29 Stat. 268; Oct. 31, 1951, ch. 654, §2(20), 65 Stat. 707; Pub. L. 104–316, title I, §120(a), Oct. 19, 1996, 110 Stat. 3836.
 
-In subsection (b), the words "whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law" are substituted for "either as miscellaneous receipts on account of 'proceeds of Government property' or to the credit of the appropriations to which such proceeds are by law authorized to be made . . . either as miscellaneous receipts or to the credit of such appropriations, as the case may be" to eliminate unnecessary words.
+In subsection (b), the words "whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law" are substituted for "either as miscellaneous receipts on account of'proceeds of Government property' or to the credit of the appropriations to which such proceeds are by law authorized to be made . . . either as miscellaneous receipts or to the credit of such appropriations, as the case may be" to eliminate unnecessary words.
 
 #### Amendments
 

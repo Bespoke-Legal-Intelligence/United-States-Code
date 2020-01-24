@@ -58,7 +58,7 @@ In general.—Compliance with this section by a contract tower or other contract
 
 &emsp;&emsp;(B)
 
-Nonapplicability.—Subparagraph (A) shall not apply to any contract or agreement in effect on the date of enactment of the Fairness for Pilots Act unless the contract or agreement is renegotiated, renewed, or modified after that date.
+Nonapplicability.—Subparagraph (A) shall not apply to any contract or agreementin effect on the date of enactment of the Fairness for Pilots Act unless the contract or agreement is renegotiated, renewed, or modified after that date.
 
 (d)
 

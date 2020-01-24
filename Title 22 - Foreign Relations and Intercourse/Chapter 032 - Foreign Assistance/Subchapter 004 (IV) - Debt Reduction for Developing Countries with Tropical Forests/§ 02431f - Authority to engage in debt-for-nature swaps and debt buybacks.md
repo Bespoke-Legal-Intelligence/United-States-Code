@@ -10,7 +10,7 @@
 
 #### (B) Eligible purchaser described
 
-&emsp;&emsp;A loan or credit may be sold, reduced, or canceled under subparagraph (A) only to apurchaser who presents plans satisfactory to the President for using the loan or credit for the purpose of engaging in debt-for-nature swaps to support eligible activities described in section 2431g(d) of this title.
+&emsp;&emsp;A loan or credit may be sold, reduced, or canceled under subparagraph (A) only to a purchaser who presents plans satisfactory to the President for using the loan or credit for the purpose of engaging in debt-for-nature swaps to support eligible activities described in section 2431g(d) of this title.
 
 #### (C) Consultation requirement
 

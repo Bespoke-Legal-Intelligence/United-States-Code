@@ -34,7 +34,7 @@ In this subchapter—
 
 &emsp;&emsp;(C) not in a form transferable by delivery on such date;
 
-&emsp;(4) "customer property" means cash, security, or other property, and proceeds of suchcash, security, or property, received, acquired, or held by or for the account of the debtor, from or for the securities account of a customer—
+&emsp;(4) "customer property" means cash, security, or other property, and proceeds of such cash, security, or property, received, acquired, or held by or for the account of the debtor, from or for the securities account of a customer—
 
 &emsp;&emsp;(A) including—
 
@@ -84,7 +84,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ix) any option to enter into any agreement or transaction referred to in this subparagraph;
 
-&emsp;&emsp;&emsp;(x) a master agreement that provides for an agreement or transaction referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this subparagraph, except that such master agreement shall be considered to be a securities contract under this subparagraph only with respect to each agreement or transaction under such master agreement that is referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix); or
+&emsp;&emsp;&emsp;(x) a master agreement that provides for an agreement or transaction referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this subparagraph, except that such master agreement shall be considered to be a securities contract under this subparagraph only with respect to each agreement or transaction under such masteragreement that is referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix); or
 
 &emsp;&emsp;&emsp;(xi) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this subparagraph, including any guarantee or reimbursement obligation by or to a stockbroker, securities clearing agency, financial institution, or financial participant in connection with any agreement or transaction referred to in this subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562; and
 

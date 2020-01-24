@@ -36,7 +36,7 @@
 
 &emsp;(ii) the Archivist is otherwise directed by a final court order that is not subject to appeal.
 
-(C) If the incumbent President determines not to uphold the claim of privilege asserted by the former President, or fails to make the determination under paragraph (1) before the end of the period specified in subparagraph (A), the Archivist shall release the Presidential record subject to the claim at the end of the 90-day period beginning on the date on which the Archivist received notification of the claim, unless otherwise directed by a court order in an action initiated by the former President under section 2204(e) of this title or by a court order in another action in any Federal court.
+(C) If the incumbent President determines not to uphold the claim of privilege asserted by theformer President, or fails to make the determination under paragraph (1) before the end of the period specified in subparagraph (A), the Archivist shall release the Presidential record subject to the claim at the end of the 90-day period beginning on the date on which the Archivist received notification of the claim, unless otherwise directed by a court order in an action initiated by the former President under section 2204(e) of this title or by a court order in another action in any Federal court.
 
 (d) The Archivist shall not make publicly available a Presidential record (or reasonably segregable part of a record) that is subject to a privilege claim asserted by the incumbent President unless—
 
@@ -47,4 +47,8 @@
 (e) The Archivist shall adjust any otherwise applicable time period under this section as necessary to comply with the return date of any congressional subpoena, judicial subpoena, or judicial process.
 
 (Added Pub. L. 113–187, §2(a)(1), Nov. 26, 2014, 128 Stat. 2003.)
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

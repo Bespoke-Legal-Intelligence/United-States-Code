@@ -54,7 +54,7 @@ The Secretary shall use the database established under subsection (a)(1) in the 
 
 #### (1) Report required
 
-&emsp;Not later than 180 days after August 3, 2007, and annually thereafter, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the database established under subsection (a)(1) and the list established under subsection (a)(2).
+&emsp;Not later than 180 days after August 3, 2007, and annually thereafter, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security ofthe House of Representatives a report on the database established under subsection (a)(1) and the list established under subsection (a)(2).
 
 #### (2) Contents of report
 

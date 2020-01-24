@@ -2,7 +2,7 @@
 
 #### (a) State enforcement; compliance orders
 
-(1) Whenever, on the basis of any information available to him, the Administrator finds that any person is in violation of any condition or limitation which implements section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title in a permit issued by a State under an approved permit program under section 1342 or 1344 of this title he shall proceed under his authority in paragraph (3) of this subsection or he shall notify the person in alleged violation and such State of such finding. If beyond the thirtieth day after the Administrator's notification the State has not commenced appropriate enforcement action, the Administrator shall issue an order requiring such person to comply with such condition or limitation or shall bring a civil action in accordance with subsection (b) of this section.
+(1) Whenever, on the basis of any information available to him, the Administrator finds thatany person is in violation of any condition or limitation which implements section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title in a permit issued by a State under an approved permit program under section 1342 or 1344 of this title he shall proceed under his authority in paragraph (3) of this subsection or he shall notify the person in alleged violation and such State of such finding. If beyond the thirtieth day after the Administrator's notification the State has not commenced appropriate enforcement action, the Administrator shall issue an order requiring such person to comply with such condition or limitation or shall bring a civil action in accordance with subsection (b) of this section.
 
 (2) Whenever, on the basis of information available to him, the Administrator finds that violations of permit conditions or limitations as set forth in paragraph (1) of this subsection are so widespread that such violations appear to result from a failure of the State to enforce such permit conditions or limitations effectively, he shall so notify the State. If the Administrator finds such failure extends beyond the thirtieth day after such notice, he shall give public notice of such finding. During the period beginning with such public notice and ending when such State satisfies the Administrator that it will enforce such conditions and limitations (hereafter referred to in this section as the period of "federally assumed enforcement"), except where an extension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation with respect to any person—
 
@@ -30,7 +30,7 @@ The Administrator is authorized to commence a civil action for appropriate relie
 
 &emsp;Any person who—
 
-&emsp;&emsp;(A) negligently violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1322(p), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under section 1344 of this title by the Secretary of the Army or by a State; or
+&emsp;&emsp;(A) negligently violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1322(p), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, orany requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under section 1344 of this title by the Secretary of the Army or by a State; or
 
 &emsp;&emsp;(B) negligently introduces into a sewer system or into a publicly owned treatment works any pollutant or hazardous substance which such person knew or reasonably should have known could cause personal injury or property damage or, other than in compliance with all applicable Federal, State, or local requirements or permits, which causes such treatment works to violate any effluent limitation or condition in any permit issued to the treatment works under section 1342 of this title by the Administrator or a State;
 
@@ -142,7 +142,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (C) Rights of interested persons to a hearing
 
-&emsp;&emsp;If no hearing is held under paragraph (2) before issuance of an order assessing a penalty under this subsection, any person who commented on the proposed assessment may petition, within 30 days after the issuance of such order, the Administrator or Secretary, as the case may be, to set aside such order and to provide a hearing on the penalty. If the evidence presented by the petitioner in support of the petition is material and was not considered in the issuance of the order, the Administrator or Secretary shall immediately set aside such order and provide a hearing in accordance with paragraph (2)(A) in the case of a class I civil penalty and paragraph (2)(B) in the case of a class II civil penalty. If the Administrator or Secretarydenies a hearing under this subparagraph, the Administrator or Secretary shall provide to the petitioner, and publish in the Federal Register, notice of and the reasons for such denial.
+&emsp;&emsp;If no hearing is held under paragraph (2) before issuance of an order assessing a penalty under this subsection, any person who commented on the proposed assessment may petition, within 30 days after the issuance of such order, the Administrator or Secretary, as the case may be, to set aside such order and to provide a hearing on the penalty. If the evidence presented by the petitioner in support of the petition is material and was not considered in the issuance of the order, the Administrator or Secretary shall immediately set aside such order and provide a hearing in accordance with paragraph (2)(A) in the case of a class I civil penalty and paragraph (2)(B) in the case of a class II civil penalty. If the Administrator or Secretary denies a hearing under this subparagraph, the Administrator or Secretary shall provide to the petitioner, and publish in the Federal Register, notice of and the reasons for such denial.
 
 #### (5) Finality of order
 
@@ -196,7 +196,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (10) Subpoenas
 
-&emsp;The Administrator or Secretary, as the case may be, may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under thissubsection. In case of contumacy or refusal to obey a subpoena issued pursuant to this paragraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+&emsp;The Administrator or Secretary, as the case may be, may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this subsection. In case of contumacy or refusal to obey a subpoena issued pursuant to this paragraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (11) Protection of existing procedures
 
@@ -212,7 +212,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 &emsp;Any municipality under an administrative order under subsection (a) or settlement agreement (including a judicial consent decree) under subsection (b) that has developed an integrated plan consistent with section 1342(s) of this title may request a modification of the administrative order or settlement agreement based on that integrated plan.
 
-(June 30, 1948, ch. 758, title III, §309, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 859; amended Pub. L. 95–217, §§54(b), 55, 56, 67(c)(2), Dec. 27, 1977, 91 Stat. 1591, 1592, 1606; Pub. L. 100–4, title III, §§312, 313(a)(1), (b)(1), (c), 314(a), Feb. 4, 1987, 101 Stat. 42, 45, 46; Pub. L. 101–380, title IV, §4301(c), Aug. 18, 1990, 104 Stat. 537; Pub. L. 115–282, title IX, §903(c)(2), Dec. 4, 2018, 132 Stat. 4356; Pub. L. 115–436, §3(b), Jan. 14, 2019, 132 Stat. 5560.)
+(June 30, 1948, ch. 758, title III, §309, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 859;amended Pub. L. 95–217, §§54(b), 55, 56, 67(c)(2), Dec. 27, 1977, 91 Stat. 1591, 1592, 1606; Pub. L. 100–4, title III, §§312, 313(a)(1), (b)(1), (c), 314(a), Feb. 4, 1987, 101 Stat. 42, 45, 46; Pub. L. 101–380, title IV, §4301(c), Aug. 18, 1990, 104 Stat. 537; Pub. L. 115–282, title IX, §903(c)(2), Dec. 4, 2018, 132 Stat. 4356; Pub. L. 115–436, §3(b), Jan. 14, 2019, 132 Stat. 5560.)
 
 #### References in Text
 
@@ -268,7 +268,7 @@ Pub. L. 100–4, title III, §313(a)(2), Feb. 4, 1987, 101 Stat. 45, provided th
 
 #### Deposit of Certain Penalties Into Oil Spill Liability Trust Fund
 
-Penalties paid pursuant to subsection (c) of this section and sections 1321 and 1501 et seq. of this title to bedeposited in the Oil Spill Liability Trust Fund created under section 9509 of Title 26, Internal Revenue Code, see section 4304 of Pub. L. 101–380, set out as a note under section 9509 of Title 26.
+Penalties paid pursuant to subsection (c) of this section and sections 1321 and 1501 et seq. of this title to be deposited in the Oil Spill Liability Trust Fund created under section 9509 of Title 26, Internal Revenue Code, see section 4304 of Pub. L. 101–380, set out as a note under section 9509 of Title 26.
 
 #### Increased Penalties Not Required Under State Programs
 

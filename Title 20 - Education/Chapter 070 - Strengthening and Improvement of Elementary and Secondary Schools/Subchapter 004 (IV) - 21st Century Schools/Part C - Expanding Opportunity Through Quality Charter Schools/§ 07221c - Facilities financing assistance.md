@@ -40,7 +40,7 @@ Grants under subsection (a) shall be of sufficient size, scope, and quality so a
 
 &emsp;&emsp;(C) a description of the eligible entity's expertise in capital market financing;
 
-&emsp;&emsp;(D) a description of how the proposed activities will leverage the maximum amount of private-sector financing capital relative to the amount of government funding used and otherwise enhance credit available to charter schools, including how the eligible entity will offer a combination of rates and terms more favorable than the rates and terms that a charter school could receive without assistance from the eligible entity under this section;
+&emsp;&emsp;(D) a description of how the proposed activities will leverage the maximum amount of private-sector financing capital relative to the amount of government funding usedand otherwise enhance credit available to charter schools, including how the eligible entity will offer a combination of rates and terms more favorable than the rates and terms that a charter school could receive without assistance from the eligible entity under this section;
 
 &emsp;&emsp;(E) a description of how the eligible entity possesses sufficient expertise in education to evaluate the likelihood of success of a charter school program for which facilities financing is sought; and
 

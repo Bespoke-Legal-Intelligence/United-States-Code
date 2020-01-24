@@ -1,6 +1,6 @@
 ### §3005. False representations; lotteries
 
-(a) Upon evidence satisfactory to the Postal Service that any person is engaged in conducting a scheme or device for obtaining money or property through the mail by means of false representations, including the mailing of matter which is nonmailable under section 3001(d), (h), (i), (j), or (k) of this title, or is engaged in conducting a lottery, gift enterprise, or scheme forthe distribution of money or of real or personal property, by lottery, chance, or drawing of any kind, the Postal Service may issue an order which—
+(a) Upon evidence satisfactory to the Postal Service that any person is engaged in conducting a scheme or device for obtaining money or property through the mail by means of false representations, including the mailing of matter which is nonmailable under section 3001(d), (h), (i), (j), or (k) of this title, or is engaged in conducting a lottery, gift enterprise, or scheme for the distribution of money or of real or personal property, by lottery, chance, or drawing of any kind, the Postal Service may issue an order which—
 
 &emsp;(1) directs the postmaster of the post office at which mail arrives, addressed to such a person or to his representative, to return such mail to the sender appropriately marked as in violation of this section, if the person, or his representative, is first notified and given reasonable opportunity to be present at the receiving post office to survey the mail before the postmaster returns the mail to the sender;
 
@@ -28,7 +28,7 @@
 
 &emsp;(C) inform such person that the failure to complete the transaction may be considered in a proceeding under section 3007 of this title to determine probable cause, in accordance with paragraph (2) of this subsection.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 747; Pub. L. 93–583, §4, Jan. 2, 1975, 88 Stat. 1916; Pub. L. 94–525, §2, Oct. 17, 1976, 90 Stat. 2478; Pub. L. 95–360, Sept. 9, 1978, 92 Stat. 594; Pub. L. 98–186, §2, Nov. 30, 1983, 97 Stat. 1315; Pub. L. 100–625, §2(c), Nov. 7, 1988, 102 Stat. 3205; Pub. L. 101–524, §2(b), Nov. 6, 1990, 104 Stat. 2302; Pub. L. 102–71, §2(2), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§104, 105(b)(2)(A), Dec. 12, 1999, 113 Stat. 1810, 1811; Pub. L. 109–435, title X, §1010(g)(3), Dec. 20, 2006, 120 Stat. 3262.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 747; Pub. L. 93–583, §4, Jan. 2, 1975, 88 Stat. 1916; Pub. L. 94–525, §2, Oct. 17, 1976, 90 Stat. 2478; Pub. L. 95–360, Sept. 9, 1978, 92 Stat. 594; Pub. L. 98–186, §2, Nov. 30, 1983, 97 Stat. 1315; Pub. L. 100–625, §2(c), Nov. 7, 1988, 102 Stat. 3205; Pub. L. 101–524, §2(b), Nov. 6, 1990, 104 Stat. 2302; Pub. L. 102–71, §2(2), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§104, 105(b)(2)(A), Dec. 12, 1999, 113 Stat.1810, 1811; Pub. L. 109–435, title X, §1010(g)(3), Dec. 20, 2006, 120 Stat. 3262.)
 
 #### Amendments
 

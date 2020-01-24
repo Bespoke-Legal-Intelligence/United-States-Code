@@ -70,7 +70,7 @@ The total allowable level of foreign fishing, if any, with respect to any fisher
 
 (B) From the determinations made under subparagraph (A), the Secretary of State shall compute the aggregate of all of the fishery allocations made to each foreign nation.
 
-(C) The Secretary of State shall initially release to each foreign nation for harvesting up to 50 percent of the allocations aggregate computed for such nation under subparagraph (B), and such release of allocation shall be apportioned by the Secretary of State, in cooperation with the Secretary, among the individual fishery allocations determined for that nation under subparagraph (A). The basis on which each apportionment is made under this subparagraph shall be stated in writing by the Secretary of State.
+(C) The Secretary of State shall initially release to each foreign nation for harvesting up to 50 percent of the allocations aggregate computed for such nation under subparagraph (B), and such release of allocation shall be apportioned by the Secretary of State, in cooperation with the Secretary, among the individual fishery allocations determined for that nation undersubparagraph (A). The basis on which each apportionment is made under this subparagraph shall be stated in writing by the Secretary of State.
 
 (D) After the initial release of fishery allocations under subparagraph (C) to a foreign nation, any subsequent release of an allocation for any fishery to such nation shall only be made—
 
@@ -100,7 +100,7 @@ The total allowable level of foreign fishing, if any, with respect to any fisher
 
 (2)(A) For the purposes of this paragraph—
 
-&emsp;(i) The term "certification" means a certification made by the Secretary that nationals of a foreign country, directly or indirectly, are conducting fishing operations or engaging in trade or taking which diminishes the effectiveness of the International Convention for the Regulation of Whaling. A certificationunder this section shall also be deemed a certification for the purposes of section 1978(a) of title 22.
+&emsp;(i) The term "certification" means a certification made by the Secretary that nationals of a foreign country, directly or indirectly, are conducting fishing operations or engaging in trade or taking which diminishes the effectiveness of the International Convention for the Regulation of Whaling. A certification under this section shall also be deemed a certification for the purposes of section 1978(a) of title 22.
 
 &emsp;(ii) The term "remedial period" means the 365-day period beginning on the date on which a certification is issued with respect to a foreign country.
 
@@ -122,7 +122,7 @@ The total allowable level of foreign fishing, if any, with respect to any fisher
 
 &emsp;(iv) The Secretary may refund or credit, by reason of reduction of any allocation under this paragraph, any fee paid under section 1824 of this title.
 
-(D) If the certification of a foreign country is not terminated under section 1978(d) of title 22 before the close of the last day of the remedial period, the Secretary of State—
+(D) If the certification of a foreign country is not terminated under section 1978(d) of title 22before the close of the last day of the remedial period, the Secretary of State—
 
 &emsp;(i) with respect to any allocation made to that country and in effect (as reduced under subparagraph (B)) on such last day, shall rescind, effective on and after the day after such last day, any unharvested portion of such allocation; and
 
@@ -162,7 +162,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 (1)(A) Except as provided in paragraph (2), the Secretary shall establish a program under which a United States observer will be stationed aboard each foreign fishing vessel while that vessel is engaged in fishing within the exclusive economic zone.
 
-(B) The Secretary shall by regulation prescribe minimum health and safety standards that shall be maintained aboard each foreignfishing vessel with regard to the facilities provided for the quartering of, and the carrying out of observer functions by, United States observers.
+(B) The Secretary shall by regulation prescribe minimum health and safety standards that shall be maintained aboard each foreign fishing vessel with regard to the facilities provided for the quartering of, and the carrying out of observer functions by, United States observers.
 
 (2) The requirement in paragraph (1) that a United States observer be placed aboard each foreign fishing vessel may be waived by the Secretary if he finds that—
 
@@ -176,7 +176,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 (3) Observers, while stationed aboard foreign fishing vessels, shall carry out such scientific, compliance monitoring, and other functions as the Secretary deems necessary or appropriate to carry out the purposes of this chapter; and shall cooperate in carrying out such other scientific programs relating to the conservation and management of living resources as the Secretary deems appropriate.
 
-(4) In addition to any fee imposed under section 1824(b)(10) of this title and section 1980(e) of title 22 with respect to foreign fishing for any year after 1980, the Secretary shall impose, with respect to each foreign fishing vessel for which a permit is issued under such section 1824 of this title, a surcharge in an amount sufficient to cover all the costs of providing a United States observer aboard that vessel. The failure to pay any surcharge imposed under this paragraph shall be treated by the Secretary as a failure to pay the permit fee for such vessel under section 1824(b)(10) of this title. All surcharges collected by the Secretary under this paragraph shall be deposited in the Foreign Fishing Observer Fund established by paragraph (5).
+(4) In addition to any fee imposed under section 1824(b)(10) of this title and section 1980(e) of title 22 with respect to foreign fishing for any year after 1980, the Secretary shall impose, with respect to each foreign fishing vessel for which a permit is issued under such section 1824 of this title, a surcharge in an amount sufficient to cover all the costs of providing a United Statesobserver aboard that vessel. The failure to pay any surcharge imposed under this paragraph shall be treated by the Secretary as a failure to pay the permit fee for such vessel under section 1824(b)(10) of this title. All surcharges collected by the Secretary under this paragraph shall be deposited in the Foreign Fishing Observer Fund established by paragraph (5).
 
 (5) There is established in the Treasury of the United States the Foreign Fishing Observer Fund. The Fund shall be available to the Secretary as a revolving fund for the purpose of carrying out this subsection. The Fund shall consist of the surcharges deposited into it as required under paragraph (4). All payments made by the Secretary to carry out this subsection shall be paid from the Fund, only to the extent and in the amounts provided for in advance in appropriation Acts. Sums in the Fund which are not currently needed for the purposes of this subsection shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
@@ -198,7 +198,7 @@ Notwithstanding any other provision of this subchapter, foreign fishing vessels 
 
 #### Amendment of Section
 
-<i>Pub. L. 102–251, title III, §§301(d), 308, Mar. 9, 1992, 106 Stat. 63, 66, provided that, effective</i><i>on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
+<i>Pub. L. 102–251, title III, §§301(d), 308, Mar. 9, 1992, 106 Stat. 63, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
 
 <i>(1) in subsection (a), (A) by inserting "within the special areas," immediately before "or for anadromous species" and (B) by striking "beyond the exclusive economic zone" and inserting in lieu thereof "beyond such zone or areas";</i>
 
@@ -268,7 +268,7 @@ Subsec. (e)(1)(A). Pub. L. 98–623, §404(2)(A), substituted "may make allocati
 
 Subsec. (e)(1)(E)(i). Pub. L. 98–623, §404(2)(B), substituted "both United States fish and fishery products" for "United States fish or fishery products" and inserted ", particularly fish and fishery products for which the foreign nation has requested an allocation".
 
-Subsec. (e)(1)(E)(ii). Pub. L. 98–623, §404(2)(C), amended provisions generally, thereby substituting "in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade throughthe purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation" for "in the advancement of existing and new opportunities for fisheries trade, particularly through the purchase of fish or fishery products from United States processors or from United States fishermen".
+Subsec. (e)(1)(E)(ii). Pub. L. 98–623, §404(2)(C), amended provisions generally, thereby substituting "in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation" for "in the advancement of existing and new opportunities for fisheries trade, particularly through the purchase of fish or fishery products from United States processors or from United States fishermen".
 
 <b>1983</b>—Subsec. (c)(2)(D). Pub. L. 97–453, §2(a)(1), amended par. (D) generally, substituting "United States observers required under subsection (i) be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel" for "duly authorized United States observers be permitted on board any such vessel and that the United States be reimbursed for the cost of such observers".
 
@@ -286,7 +286,7 @@ Subsec. (j). Pub. L. 97–453, §2(a)(6), added subsec. (j).
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–561, §230, designated existing provision as par. (2), substituted provision prescribing the total allowable level of foreign fishing with respect to any United States fishery for each harvesting season after the 1980 harvesting season as the level representing that portion of the optimum yield of such fishery that will not be harvested by vessels of the United States as determined in accordance with provisions of this chapter, other than those relating to the determination of annual fishing levels, or the annual fishing levels determined pursuant to par. (3) of this section for the harvesting season for provision prescribing the total allowable level of foreign fishing with respect to any fishery subject to the exclusive fishery management authority of the United States as that portion of the optimum yield of such fishery which will not be harvested by vessels of the United States, as determined in accordance with provisions of this chapter, and added pars. (1), (3), and (4).
 
-Subsec. (e). Pub. L. 96–561, §231(a), substituted "All such determinations shall be made by the Secretary of State and the Secretary on the basis of" for "In making any such determination, the Secretary of State and the Secretary shall consider", added subpars. (A), (B), (D), and (E), redesignated former subpars. (A), (B), and (D) as (F), (G), and (H), respectively, and in subpar. (C) substituted determination where such nations and the fishing fleets of such nations have cooperated with the United States in enforcement of United States fishing regulations for determination where such nations have cooperated with the United States in enforcement and with respect to conservation and management of fishery resources.
+Subsec. (e). Pub. L. 96–561, §231(a), substituted "All such determinations shall be made by the Secretary ofState and the Secretary on the basis of" for "In making any such determination, the Secretary of State and the Secretary shall consider", added subpars. (A), (B), (D), and (E), redesignated former subpars. (A), (B), and (D) as (F), (G), and (H), respectively, and in subpar. (C) substituted determination where such nations and the fishing fleets of such nations have cooperated with the United States in enforcement of United States fishing regulations for determination where such nations have cooperated with the United States in enforcement and with respect to conservation and management of fishery resources.
 
 Subsec. (i). Pub. L. 96–561, §236, added subsec. (i).
 

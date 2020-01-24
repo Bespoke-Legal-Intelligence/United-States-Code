@@ -4,7 +4,7 @@
 
 Each State in which there are or may be conducted surface coal mining operations on non-Federal lands, and which wishes to assume exclusive jurisdiction over the regulation of surface coal mining and reclamation operations, except as provided in sections 1271 and 1273 of this title and subchapter IV of this chapter, shall submit to the Secretary, by the end of the eighteenth-month <sup>1</sup> period beginning on August 3, 1977, a State program which demonstrates that such State has the capability of carrying out the provisions of this chapter and meeting its purposes through—
 
-&emsp;(1) a State law which provides for the regulation of surface coal mining and reclamationoperations in accordance with the requirements of this chapter;
+&emsp;(1) a State law which provides for the regulation of surface coal mining and reclamation operations in accordance with the requirements of this chapter;
 
 &emsp;(2) a State law which provides sanctions for violations of State laws, regulations, or conditions of permits concerning surface coal mining and reclamation operations, which sanctions shall meet the minimum requirements of this chapter, including civil and criminal actions, forfeiture of bonds, suspensions, revocations, and withholding of permits, and the issuance of cease-and-desist orders by the State regulatory authority or its inspectors;
 

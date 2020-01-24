@@ -42,7 +42,7 @@
 
 #### (3) Designation
 
-&emsp;Within 60 calendar days after the receipt of a request under paragraph (2), the Secretary shall determine whether the drug that is the subject of the request meets the criteria described in paragraph (1). If the Secretary finds that the drug meets the criteria, the Secretary shall designate the drug as a fast track product and shall take such actions as are appropriate to expedite the development and review of the application for approval of such product.
+&emsp;Within 60 calendar days after the receipt of a request under paragraph (2), the Secretary shall determine whether the drug that is the subject of the request meets the criteria described in paragraph (1). If the Secretary findsthat the drug meets the criteria, the Secretary shall designate the drug as a fast track product and shall take such actions as are appropriate to expedite the development and review of the application for approval of such product.
 
 #### (c) Accelerated approval of a drug for a serious or life-threatening disease or condition, including a fast track product
 
@@ -50,7 +50,7 @@
 
 #### (A) Accelerated approval
 
-&emsp;&emsp;The Secretary may approve an application for approval of a product for a serious or life-threatening disease or condition, including a fast track product, under section 355(c) of this title or section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\] upon adetermination that the product has an effect on a surrogate endpoint that is reasonably likely to predict clinical benefit, or on a clinical endpoint that can be measured earlier than irreversible morbidity or mortality, that is reasonably likely to predict an effect on irreversible morbidity or mortality or other clinical benefit, taking into account the severity, rarity, or prevalence of the condition and the availability or lack of alternative treatments. The approval described in the preceding sentence is referred to in this section as "accelerated approval".
+&emsp;&emsp;The Secretary may approve an application for approval of a product for a serious or life-threatening disease or condition, including a fast track product, under section 355(c) of this title or section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\] upon a determination that the product has an effect on a surrogate endpoint that is reasonably likely to predict clinical benefit, or on a clinical endpoint that can be measured earlier than irreversible morbidity or mortality, that is reasonably likely to predict an effect on irreversible morbidity or mortality or other clinical benefit, taking into account the severity, rarity, or prevalence of the condition and the availability or lack of alternative treatments. The approval described in the preceding sentence is referred to in this section as "accelerated approval".
 
 #### (B) Evidence
 
@@ -238,7 +238,7 @@ The 21st Century Cures Act, referred to in subsec. (e)(1), is Pub. L. 114–255.
 
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (g)(6)(A), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.
 
-The Public Health Service Act, referred to in subsec. (h)(4), is act July 1, 1944, ch. 373, 58 Stat. 682, which isclassified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (h)(4), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -306,11 +306,11 @@ Findings.—Congress finds as follows:
 
 &emsp;"(A) The Food and Drug Administration (referred to in this section as the 'FDA') serves a critical role in helping to assure that new medicines are safe and effective. Regulatory innovation is 1 element of the Nation's strategy to address serious or life-threatening diseases or conditions by promoting investment in and development of innovative treatments for unmet medical needs.
 
-&emsp;"(B) During the 2 decades following the establishment of the accelerated approval mechanism, advances in medical sciences, including genomics, molecular biology, and bioinformatics, have provided an unprecedented understanding of the underlying biological mechanism and pathogenesis of disease. A new generation of modern, targeted medicines is under development to treat serious and life-threatening diseases, some applying drug development strategies based on biomarkers or pharmacogenomics, predictive toxicology, clinical trial enrichment techniques, and novel clinical trial designs, such as adaptive clinical trials.
+&emsp;"(B) During the 2 decades following the establishment of the accelerated approval mechanism, advances in medical sciences, including genomics, molecular biology, and bioinformatics, have provided anunprecedented understanding of the underlying biological mechanism and pathogenesis of disease. A new generation of modern, targeted medicines is under development to treat serious and life-threatening diseases, some applying drug development strategies based on biomarkers or pharmacogenomics, predictive toxicology, clinical trial enrichment techniques, and novel clinical trial designs, such as adaptive clinical trials.
 
 &emsp;"(C) As a result of these remarkable scientific and medical advances, the FDA should be encouraged to implement more broadly effective processes for the expedited development and review of innovative new medicines intended to address unmet medical needs for serious or life-threatening diseases or conditions, including those for rare diseases or conditions, using a broad range of surrogate or clinical endpoints and modern scientific tools earlier in the drug development cycle when appropriate. This may result in fewer, smaller, or shorter clinical trials for the intended patient population or targeted subpopulation without compromising or altering the high standards of the FDA for the approval of drugs.
 
-&emsp;"(D) Patients benefit from expedited access to safe and effective innovative therapies to treat unmetmedical needs for serious or life-threatening diseases or conditions.
+&emsp;"(D) Patients benefit from expedited access to safe and effective innovative therapies to treat unmet medical needs for serious or life-threatening diseases or conditions.
 
 &emsp;"(E) For these reasons, the statutory authority in effect on the day before the date of enactment of this Act \[July 9, 2012\] governing expedited approval of drugs for serious or life-threatening diseases or conditions should be amended in order to enhance the authority of the FDA to consider appropriate scientific data, methods, and tools, and to expedite development and access to novel treatments for patients with a broad range of serious or life-threatening diseases or conditions.
 

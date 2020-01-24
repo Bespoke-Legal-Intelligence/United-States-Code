@@ -16,7 +16,7 @@ In providing for the effective management of this project, the Secretary of Ener
 
 &emsp;(2) determine optimum overall electric and hybrid vehicle design;
 
-&emsp;(3) conduct demonstration projects with respect to the feasibility of commercial electric and hybrid vehicles (A) by contracting for the purchase or lease of electric and hybrid vehicles for practical use, and (B) by entering into arrangements, with other governmental entities and with nongovernmental entities, for the operation of such vehicles;
+&emsp;(3) conduct demonstration projects with respect to the feasibility of commercial electricand hybrid vehicles (A) by contracting for the purchase or lease of electric and hybrid vehicles for practical use, and (B) by entering into arrangements, with other governmental entities and with nongovernmental entities, for the operation of such vehicles;
 
 &emsp;(4) ascertain consumer needs and desires so as to match the design of electric and hybrid vehicles to their potential market; and
 

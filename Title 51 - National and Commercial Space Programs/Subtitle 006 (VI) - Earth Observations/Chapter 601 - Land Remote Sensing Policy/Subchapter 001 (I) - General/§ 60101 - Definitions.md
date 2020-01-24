@@ -30,11 +30,11 @@ Data preprocessing.—The term "data preprocessing"—
 
 &emsp;(4)
 
-Land remote sensing.—The term "land remote sensing" means the collection of datawhich can be processed into imagery of surface features of the Earth from an unclassified satellite or satellites, other than an operational United States Government weather satellite.
+Land remote sensing.—The term "land remote sensing" means the collection of data which can be processed into imagery of surface features of the Earth from an unclassified satellite or satellites, other than an operational United States Government weather satellite.
 
 &emsp;(5)
 
-Landsat program management.—The term "Landsat Program Management" means the integrated program management structure—
+Landsat program management.—The term "Landsat Program Management" meansthe integrated program management structure—
 
 &emsp;&emsp;(A) established by, and responsible to, the Administrator and the Secretary of Defense pursuant to section 60111(a) of this title; and
 

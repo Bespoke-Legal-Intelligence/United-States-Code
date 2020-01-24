@@ -22,7 +22,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (3) Apparel articles from regional fabric or yarns
 
-&emsp;Apparel articles wholly assembled in one or more beneficiary sub-Saharan African countries from fabric wholly formed in one or more beneficiary sub-Saharan African countries from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-SaharanAfrican countries, or both (including fabrics not formed from yarns, if such fabrics are classified under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed in one or more beneficiary sub-Saharan African countries), or from components knit-to-shape in one or more beneficiary sub-Saharan African countries from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both, or apparel articles wholly formed on seamless knitting machines in a beneficiary sub-Saharan African country from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both, whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2)), subject to the following:
+&emsp;Apparel articles wholly assembled in one or more beneficiary sub-Saharan African countries from fabric wholly formed in one or more beneficiary sub-Saharan African countries from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both (including fabrics not formed from yarns, if such fabrics are classified under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed in one or more beneficiary sub-Saharan African countries), or from components knit-to-shape in one or more beneficiary sub-Saharan African countries from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both, or apparel articles wholly formed on seamless knitting machines in a beneficiary sub-Saharan African country from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both, whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2)), subject to the following:
 
 #### (A) Limitations on benefits
 
@@ -140,7 +140,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (8) Textile articles originating entirely in one or more lesser developed beneficiary sub-Saharan African countries
 
-&emsp;Textile and textile articles classifiable under chapters 50 through 60 or chapter 63 of the Harmonized Tariff Schedule of the United States that are products of a lesser developed beneficiary sub-Saharan African country and are wholly formed in one or more such countries from fibers, yarns, fabrics, fabric components, or components knit-to-shape that are the product of one or more such countries.
+&emsp;Textile and textile articles classifiable under chapters 50 through 60 or chapter 63 ofthe Harmonized Tariff Schedule of the United States that are products of a lesser developed beneficiary sub-Saharan African country and are wholly formed in one or more such countries from fibers, yarns, fabrics, fabric components, or components knit-to-shape that are the product of one or more such countries.
 
 #### (c) Lesser developed countries
 
@@ -200,7 +200,7 @@ The President shall eliminate the existing quotas on textile and apparel article
 
 #### (ii) Interlinings described
 
-&emsp;&emsp;&emsp;Interlinings eligible for the treatment described in clause (i) include only a chest type plate, a "hymo" piece, or "sleeve header", of woven or weft-inserted warpknit construction and of coarse animal hair or man-made filaments.
+&emsp;&emsp;&emsp;Interlinings eligible for the treatment described in clause (i) include only a chest type plate, a "hymo" piece, or "sleeve header", of woven or weft-inserted warp knit construction and of coarse animal hair or man-made filaments.
 
 #### (iii) Termination of treatment
 
@@ -362,7 +362,7 @@ In general.—Subject to subparagraph (A), preferential treatment shall be exten
 
 "(ii)
 
-Lesser developed beneficiary sub-saharan african country.—For purposes of this subparagraph the term 'lesser developed beneficiary sub-Saharan African country' means a beneficiary sub-Saharan Africancountry that had a per capita gross national product of less than $1,500 a year in 1998, as measured by the World Bank."
+Lesser developed beneficiary sub-saharan african country.—For purposes of this subparagraph the term 'lesser developed beneficiary sub-Saharan African country' means a beneficiary sub-Saharan African country that had a per capita gross national product of less than $1,500 a year in 1998, as measured by the World Bank."
 
 Subsec. (b)(4)(B). Pub. L. 107–210, §3108(a)(4), substituted "21.5 microns" for "18.5 microns".
 
@@ -384,7 +384,7 @@ Pub. L. 108–429, title II, §2004(k)(2), Dec. 3, 2004, 118 Stat. 2595, provide
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Delegation of Authority
 

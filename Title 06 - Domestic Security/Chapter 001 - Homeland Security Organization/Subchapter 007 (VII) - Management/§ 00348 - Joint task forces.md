@@ -82,7 +82,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 &emsp;&emsp;(F) when established for the purpose referred to in paragraph (2)(A)(i), establish operational and investigative priorities within the areas of responsibility of the Joint Task Force, as determined by the Secretary;
 
-&emsp;&emsp;(G) coordinate with foreign governments and other Federal, State, and local agencies, as appropriate, to carry out the mission of the Joint Task Force; and
+&emsp;&emsp;(G) coordinate with foreign governments and other Federal, State, and local agencies,as appropriate, to carry out the mission of the Joint Task Force; and
 
 &emsp;&emsp;(H) carry out other duties and powers the Secretary determines appropriate.
 
@@ -134,7 +134,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 &emsp;&emsp;(B) not later than 120 days after December 23, 2016, and 120 days after the establishment of a new Joint Task Force, as appropriate, submit to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate the metrics established under subparagraph (A).
 
-&emsp;&emsp;(C) not later than January 31 of each year beginning in 2017, submit to each committeespecified in subparagraph (B) a report that contains the evaluation described in subparagraph (A).
+&emsp;&emsp;(C) not later than January 31 of each year beginning in 2017, submit to each committee specified in subparagraph (B) a report that contains the evaluation described in subparagraph (A).
 
 #### (10) Joint duty training program
 
@@ -228,5 +228,5 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Transition Provisions
 
-Pub. L. 114–328, div. A, title XIX, §1901(c), Dec. 23, 2016, 130 Stat. 2670, provided that: "An individual serving as a Director of a Joint Task Force of the Department of Homeland Security in existence on the day before the date of the enactment of this section \[Dec. 23, 2016\] may serve as the Director of such Joint TaskForce on and after such date of enactment until a Director of such Joint Task Force is appointed pursuant to subparagraph (A) of section 708(b)(3) \[6 U.S.C. 348(b)(3)\], as added by subsection (a) of this section."
+Pub. L. 114–328, div. A, title XIX, §1901(c), Dec. 23, 2016, 130 Stat. 2670, provided that: "An individual serving as a Director of a Joint Task Force of the Department of Homeland Security in existence on the day before the date of the enactment of this section \[Dec. 23, 2016\] may serve as the Director of such Joint Task Force on and after such date of enactment until a Director of such Joint Task Force is appointed pursuant to subparagraph (A) of section 708(b)(3) \[6 U.S.C. 348(b)(3)\], as added by subsection (a) of this section."
 

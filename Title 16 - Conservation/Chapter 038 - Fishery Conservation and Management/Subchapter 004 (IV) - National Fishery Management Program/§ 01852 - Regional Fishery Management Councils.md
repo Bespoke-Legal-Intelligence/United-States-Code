@@ -18,7 +18,7 @@
 
 #### (D) Caribbean Council
 
-&emsp;The Caribbean Fishery Management Council shall consist of the Virgin Islands and the Commonwealth of Puerto Rico and shall haveauthority over the fisheries in the Caribbean Sea and Atlantic Ocean seaward of such States and of commonwealths, territories, and possessions of the United States in the Caribbean Sea (except as provided in paragraph (3)). The Caribbean Council shall have 7 voting members, including 4 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State).
+&emsp;The Caribbean Fishery Management Council shall consist of the Virgin Islands and the Commonwealth of Puerto Rico and shall have authority over the fisheries in the Caribbean Sea and Atlantic Ocean seaward of such States and of commonwealths, territories, and possessions of the United States in the Caribbean Sea (except as provided in paragraph (3)). The Caribbean Council shall have 7 voting members, including 4 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State).
 
 #### (E) Gulf Council
 
@@ -136,7 +136,7 @@ The voting members of each Council who are required to be appointed by the Secre
 
 #### (f) Staff and administration
 
-(1) Each Council may appoint, and assign duties to, an executive director and such other full- and part-time administrative employees as the Secretary determines are necessary to the performance of its functions.
+(1) Each Council may appoint, and assign duties to, an executive director and such otherfull- and part-time administrative employees as the Secretary determines are necessary to the performance of its functions.
 
 (2) Upon the request of any Council, and after consultation with the Secretary, the head of any Federal agency is authorized to detail to such Council, on a reimbursable basis, any of the personnel of such agency, to assist such Council in the performance of its functions under this chapter.
 
@@ -166,7 +166,7 @@ The voting members of each Council who are required to be appointed by the Secre
 
 (B) Each scientific and statistical committee shall provide its Council ongoing scientific advice for fishery management decisions, including recommendations for acceptable biological catch, preventing overfishing, maximum sustainable yield, and achieving rebuilding targets, and reports on stock status and health, bycatch, habitat status, social and economic impacts of management measures, and sustainability of fishing practices.
 
-(C) Members appointed by the Councils to the scientific and statistical committees shall beFederal employees, State employees, academicians, or independent experts and shall have strong scientific or technical credentials and experience.
+(C) Members appointed by the Councils to the scientific and statistical committees shall be Federal employees, State employees, academicians, or independent experts and shall have strong scientific or technical credentials and experience.
 
 (D) Each member of a scientific and statistical committee shall be treated as an affected individual for purposes of paragraphs (2), (3)(B), (4), and (5)(A) of subsection (j). The Secretary shall keep disclosures made pursuant to this subparagraph on file.
 
@@ -232,7 +232,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 &emsp;(D) Interested persons shall be permitted to present oral or written statements regarding the matters on the agenda at meetings. All written information submitted to a Council by an interested person shall include a statement of the source and date of such information. Any oral or written statement shall include a brief description of the background and interests of the person in the subject of the oral or written statement.
 
-&emsp;(E) Detailed minutes of each meeting of the Council, except for any closed session, shall be kept and shall contain a record of the persons present, a complete and accurate description of matters discussed and conclusions reached, and copies of all statements filed. The Chairman shall certify the accuracy of the minutes of each such meeting and submit a copy thereof to the Secretary. The minutes shall be made available to any court of competent jurisdiction.
+&emsp;(E) Detailed minutes of each meeting of the Council, except for any closed session, shall be kept and shall contain a record of the personspresent, a complete and accurate description of matters discussed and conclusions reached, and copies of all statements filed. The Chairman shall certify the accuracy of the minutes of each such meeting and submit a copy thereof to the Secretary. The minutes shall be made available to any court of competent jurisdiction.
 
 &emsp;(F) Subject to the procedures established under paragraph (4), and the guidelines prescribed by the Secretary under section 1881a(b) of this title, relating to confidentiality, the administrative record, including minutes required under subparagraph (E), of each meeting, and records or other documents which were made available to or prepared for or by the Council, committee, or panel incident to the meeting, shall be available for public inspection and copying at a single location in the offices of the Council or the Secretary, as appropriate.
 
@@ -248,7 +248,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 (4) Each Council shall establish appropriate procedures applicable to it and to its committee and advisory panels for ensuring the confidentiality of the statistics that may be submitted to it by Federal or State authorities, and may be voluntarily submitted to it by private persons; including, but not limited to, procedures for the restriction of Council employee access and the prevention of conflicts of interest; except that such procedures, in the case of statistics submitted to the Council by a State or by the Secretary under section 1881a(b) of this title, must be consistent with the laws and regulations of that State, or with the procedures of the Secretary, as the case may be, concerning the confidentiality of the statistics.
 
-(5) Each Council shall specify those procedures that are necessary or appropriate to ensure that the committees and advisory panels establishedunder subsection (g) are involved, on a continuing basis, in the development and amendment of fishery management plans.
+(5) Each Council shall specify those procedures that are necessary or appropriate to ensure that the committees and advisory panels established under subsection (g) are involved, on a continuing basis, in the development and amendment of fishery management plans.
 
 (6) At any time when a Council determines it appropriate to consider new information from a State or Federal agency or from a Council advisory body, the Council shall give comparable consideration to new information offered at that time by interested members of the public. Interested parties shall have a reasonable opportunity to respond to new data or information before the Council takes final action on conservation and management measures.
 
@@ -348,7 +348,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 The Councils may establish a Council coordination committee consisting of the chairs, vice chairs, and executive directors of each of the 8 Councils described in subsection (a)(1), or other Council members or staff, in order to discuss issues of relevance to all Councils, including issues related to the implementation of this chapter.
 
-(Pub. L. 94–265, title III, §302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, §5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, §234, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, §104(a)(1), (b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, §403, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §107, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §210\], Nov. 29, 1999, 113 Stat. 1535, 1501A–33; Pub. L. 109–479, title I, §§102, 103, Jan. 12, 2007, 120 Stat. 3579; Pub. L. 115–405, §102(a), Dec. 31, 2018, 132 Stat. 5357.)
+(Pub. L. 94–265, title III, §302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, §5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, §234, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, §104(a)(1),\(b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, §403, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §107, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §210\], Nov. 29, 1999, 113 Stat. 1535, 1501A–33; Pub. L. 109–479, title I, §§102, 103, Jan. 12, 2007, 120 Stat. 3579; Pub. L. 115–405, §102(a), Dec. 31, 2018, 132 Stat. 5357.)
 
 #### References in Text
 
@@ -450,7 +450,7 @@ Subsec. (i). Pub. L. 104–297, §107(g), redesignated subsec. (j) as (i) and st
 
 &emsp;"(B) shall comment on and make recommendations concerning any such activity that, in the view of the Council, is likely to substantially affect the habitat of an anadromous fishery resource under its jurisdiction.
 
-"(2) Within 45 days after receiving a comment or recommendation under paragraph (1) from a Council, a Federal agency shall provide a detailed response, in writing, to the Council regarding the matter. In the case of a comment or recommendation under paragraph\(1)(B), the response shall include a description of measures being considered by the agency for mitigating or offsetting the impact of the activity on such habitat."
+"(2) Within 45 days after receiving a comment or recommendation under paragraph (1) from a Council, a Federal agency shall provide a detailed response, in writing, to the Council regarding the matter. In the case of a comment or recommendation under paragraph (1)(B), the response shall include a description of measures being considered by the agency for mitigating or offsetting the impact of the activity on such habitat."
 
 Subsec. (i)(1). Pub. L. 104–297, §107(h)(1), substituted "established under subsection (g) of this section" for "of the Councils".
 

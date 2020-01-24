@@ -28,7 +28,7 @@
 
 &emsp;(3) the statement is furnished pursuant to a request made by an authorized representative of the Government of the United States solely in order to determine whether such person meets the loyalty, suitability, and character requirements for employment with the Government of the United States; or
 
-&emsp;(4) the statement is furnished by a former employer of such person pursuant to a request of the Postal Service, and consists solely of an evaluation of the work performance, ability, aptitude, and general qualifications of such person during his employment with such former employer.
+&emsp;(4) the statement is furnished by a former employer of such person pursuant to a request of the Postal Service, and consists solely of an evaluation of the work performance, ability, aptitude, and general qualifications of suchperson during his employment with such former employer.
 
 (f) The Postal Service shall take any action it determines necessary and proper, including but not limited to suspension, removal from office, or disqualification from the Postal Service, to enforce the provisions of this section.
 
@@ -44,7 +44,7 @@
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out asa note under section 1101 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

@@ -24,7 +24,7 @@ The President, with respect to any agreement that is subject to the provisions o
 
 &emsp;&emsp;(ii) consult with the Committee on Ways and Means and the Committee on Agriculture of the House of Representatives and the Committee on Finance and the Committee on Agriculture, Nutrition, and Forestry of the Senate concerning—
 
-&emsp;&emsp;&emsp;(I) whether any further tariff reductions on the products identified under clause (i)should be appropriate, taking into account the impact of any such tariff reduction on the United States industry producing the product concerned;
+&emsp;&emsp;&emsp;(I) whether any further tariff reductions on the products identified under clause (i) should be appropriate, taking into account the impact of any such tariff reduction on the United States industry producing the product concerned;
 
 &emsp;&emsp;&emsp;(II) whether the products so identified face unjustified sanitary or phytosanitary restrictions, including those not based on scientific principles in contravention of the Uruguay Round Agreements; and
 
@@ -90,7 +90,7 @@ Before initiating or continuing negotiations the subject matter of which is dire
 
 &emsp;&emsp;(i) At any time after the transmission of the report under subparagraph (A), if a resolution is introduced with respect to that report in either House of Congress, the procedures set forth in clauses (iii) through (vi) shall apply to that resolution if—
 
-&emsp;&emsp;&emsp;(I) no other resolution with respect to that report has previously been reported in that House of Congress by the Committee on Ways and Means or the Committee on Finance, as the case may be, pursuant to those procedures; and
+&emsp;&emsp;&emsp;(I) no other resolution with respect to that report has previously been reported in that House of Congress by the Committeeon Ways and Means or the Committee on Finance, as the case may be, pursuant to those procedures; and
 
 &emsp;&emsp;&emsp;(II) no procedural disapproval resolution under section 3805(b) of this title introduced with respect to a trade agreement entered into pursuant to the negotiations to which the report under subparagraph (A) relates has previously been reported in that House of Congress by the Committee on Ways and Means or the Committee on Finance, as the case may be.
 

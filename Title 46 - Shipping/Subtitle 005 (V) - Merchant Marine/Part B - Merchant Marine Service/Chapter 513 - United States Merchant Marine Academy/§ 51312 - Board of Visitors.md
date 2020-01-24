@@ -52,7 +52,7 @@ Term of service.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), each member of theBoard, other than an ex officio member under paragraph (1)(F), shall serve for a term of 2 years commencing at the beginning of each Congress.
+In general.—Except as provided in subparagraph (B), each member of the Board, other than an ex officio member under paragraph (1)(F), shall serve for a term of 2 years commencing at the beginning of each Congress.
 
 &emsp;&emsp;(B)
 
@@ -178,7 +178,7 @@ Other reports.—If the members of the Board visit the Academy under subsection 
 
 &emsp;&emsp;(A) prepare a report on such visit; and
 
-&emsp;&emsp;(B) if approved by a majority of the members of the Board, submit such report to the President not later than 60 days after the date of the approval.
+&emsp;&emsp;(B) if approved by a majority of the members of the Board, submit such report to thePresident not later than 60 days after the date of the approval.
 
 &emsp;(3)
 

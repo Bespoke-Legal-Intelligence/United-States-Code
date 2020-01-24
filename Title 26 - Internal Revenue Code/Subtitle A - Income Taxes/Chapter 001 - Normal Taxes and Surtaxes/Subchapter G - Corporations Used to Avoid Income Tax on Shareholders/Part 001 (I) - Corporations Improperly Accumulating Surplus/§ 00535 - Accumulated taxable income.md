@@ -10,7 +10,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (1) Taxes
 
-&emsp;There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paid by a domestic corporation under section 960 for the taxable year, but not including the accumulated earnings tax imposed by section 531 or the personal holding company tax imposed by section 541.
+&emsp;There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paidby a domestic corporation under section 960 for the taxable year, but not including the accumulated earnings tax imposed by section 531 or the personal holding company tax imposed by section 541.
 
 #### (2) Charitable contributions
 
@@ -102,7 +102,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (1) General rule
 
-&emsp;For purposes of subsection (a), in the case of a corporation other than a mere holding or investment company the accumulated earnings credit is (A) an amount equal to such part of the earnings and profits for the taxable year as are retained for the reasonable needs of the business, minus (B) the deduction allowed by subsection (b)(6). For purposes of this paragraph, the amount of the earnings and profits for the taxable year which are retained is the amount by which the earnings and profits for the taxable year exceed the dividends paid deduction (as defined in section 561) for such year.
+&emsp;For purposes of subsection (a), in the case of a corporation other than a mere holding or investment company the accumulated earnings credit is (A) an amount equal to such part of the earnings and profits for the taxable year as are retained for the reasonable needs of the business, minus (B) the deduction allowed by subsection (b)(6). For purposes of this paragraph, the amount of the earnings and profits for the taxable year which are retained is theamount by which the earnings and profits for the taxable year exceed the dividends paid deduction (as defined in section 561) for such year.
 
 #### (2) Minimum credit
 
@@ -206,7 +206,7 @@ Subsec. (c)(2), (3). Pub. L. 85–866, §205(a), substituted "$100,000" for "$60
 
 #### Effective Date of 2017 Amendment
 
-Amendment by section 13001(b)(5)(B) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31,2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
+Amendment by section 13001(b)(5)(B) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 Amendment by section 14301(c)(4) of Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
 
@@ -266,7 +266,7 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1962 Amendments
 
-Amendment by Pub. L. 87–834 applicable in respect of any distribution received by a domestic corporation after Dec. 31, 1964, and in respect of any distribution received by a domestic corporation before Jan. 1, 1965, in a taxable year of such corporation beginning after Dec. 31, 1962, but only to the extent that such distribution is made out of the accumulated profits of a foreign corporation for a taxable year (of such foreign corporation) beginning after Dec. 31, 1962, see section 9(e) of Pub. L. 87–834, set out as an Effective Date note under section 78 of this title.
+Amendment by Pub. L. 87–834 applicable in respect of any distribution received by a domestic corporation after Dec. 31, 1964, and in respect of any distribution received by a domestic corporation before Jan. 1, 1965, in a taxable year of such corporation beginning after Dec. 31, 1962, but only to the extent that such distribution is made out of the accumulated profits of a foreign corporation for a taxable year (of such foreign corporation) beginning after Dec. 31, 1962, see section 9(e) ofPub. L. 87–834, set out as an Effective Date note under section 78 of this title.
 
 Amendment by Pub. L. 87–403 applicable only with respect to distributions made after Feb. 2, 1962, see section 3(g) of Pub. L. 87–403, set out as a note under section 312 of this title.
 

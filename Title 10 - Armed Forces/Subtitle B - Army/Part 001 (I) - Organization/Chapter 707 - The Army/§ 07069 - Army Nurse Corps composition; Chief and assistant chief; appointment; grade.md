@@ -76,5 +76,5 @@ Pub. L. 85–155, title I, §104, Aug. 21, 1957, 71 Stat. 380, provided that:
 
 "(d) Notwithstanding any other provision of law, an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, who is on a recommended list for promotion to a higher regular grade on the effective date of this Act \[Aug. 21, 1957\] may, if nominated by the President and confirmed by the Senate, be promoted to that grade.
 
-"(e) Notwithstanding any other provision of law, an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, who, on the effective date of this Act \[Aug. 21, 1957\], has beennominated by the President and confirmed by the Senate for appointment to any regular grade, may be appointed in that grade."
+"(e) Notwithstanding any other provision of law, an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, who, on the effective date of this Act \[Aug. 21, 1957\], has been nominated by the President and confirmed by the Senate for appointment to any regular grade, may be appointed in that grade."
 

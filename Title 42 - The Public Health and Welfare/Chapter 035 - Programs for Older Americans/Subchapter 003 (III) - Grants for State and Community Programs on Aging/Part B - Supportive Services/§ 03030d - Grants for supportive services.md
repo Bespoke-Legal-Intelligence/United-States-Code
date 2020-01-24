@@ -6,7 +6,7 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 &emsp;(1) health (including mental and behavioral health), education and training, welfare, informational, recreational, homemaker, counseling, referral, chronic condition self-care management, or falls prevention services;
 
-&emsp;(2) transportation services to facilitate access to supportive services or nutrition services, and services provided by an area agency on aging, in conjunction with local transportation service providers, public transportation agencies, and other local government agencies, that result in increased provision of such transportation services for older individuals;
+&emsp;(2) transportation services to facilitate access to supportive services or nutrition services, and services provided by an area agencyon aging, in conjunction with local transportation service providers, public transportation agencies, and other local government agencies, that result in increased provision of such transportation services for older individuals;
 
 &emsp;(3) services designed to encourage and assist older individuals to use the facilities and services (including information and assistance services) available to them, including language translation services to assist older individuals with limited-English speaking ability to obtain services under this subchapter;
 
@@ -70,7 +70,7 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 &emsp;(25) any other services necessary for the general welfare of older individuals;
 
-> if such services meet standards prescribed by the Assistant Secretary and are necessary forthe general welfare of older individuals. For purposes of paragraph (5), the term "client assessment through case management" includes providing information relating to assistive technology.
+> if such services meet standards prescribed by the Assistant Secretary and are necessary for the general welfare of older individuals. For purposes of paragraph (5), the term "client assessment through case management" includes providing information relating to assistive technology.
 
 #### (b) Existing facilities
 

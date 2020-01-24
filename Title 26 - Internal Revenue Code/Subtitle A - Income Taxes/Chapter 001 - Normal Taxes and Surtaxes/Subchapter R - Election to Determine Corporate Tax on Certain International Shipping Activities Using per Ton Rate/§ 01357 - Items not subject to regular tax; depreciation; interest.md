@@ -38,7 +38,7 @@ Gross income of a corporation (other than an electing corporation) which is a me
 
 #### (B) Electing group
 
-&emsp;&emsp;In the case of a corporation which is a member of an electing group, the interestexpense of such corporation shall be disallowed in the ratio that the fair market value of such corporation's qualifying vessels bears to the fair market value of the electing groups total assets.
+&emsp;&emsp;In the case of a corporation which is a member of an electing group, the interest expense of such corporation shall be disallowed in the ratio that the fair market value of such corporation's qualifying vessels bears to the fair market value of the electing groups total assets.
 
 (Added Pub. L. 108–357, title II, §248(a), Oct. 22, 2004, 118 Stat. 1455.)
 

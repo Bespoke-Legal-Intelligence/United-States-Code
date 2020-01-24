@@ -42,7 +42,7 @@ The Secretary may provide technical assistance for the Department, either direct
 
 #### (1) In general
 
-&emsp;If the Director receives notice under subsection (a) of the termination, reduction, or limitation of payments under this chapter, the Director—
+&emsp;If the Director receives notice under subsection (a) of the termination, reduction, orlimitation of payments under this chapter, the Director—
 
 &emsp;&emsp;(A) may, not later than 60 days after receiving such notice, file with the United States Court of Appeals for the Ninth Circuit, or in the United States Court of Appeals for the District of Columbia, a petition for review of the action of the Secretary; and
 

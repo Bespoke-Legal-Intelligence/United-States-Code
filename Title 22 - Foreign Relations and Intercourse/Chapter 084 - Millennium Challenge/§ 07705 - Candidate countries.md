@@ -14,7 +14,7 @@
 
 &emsp;A country shall be a candidate country for purposes of eligibility for assistance for each of fiscal years 2005 through 2012 if—
 
-&emsp;&emsp;(A) the per capita income of the country is equal to or less than the historical ceiling of the International Development Association for the fiscal year involved, as defined by the International Bank for Reconstruction and Development; and
+&emsp;&emsp;(A) the per capita income of the country is equal to or less than the historical ceiling ofthe International Development Association for the fiscal year involved, as defined by the International Bank for Reconstruction and Development; and
 
 &emsp;&emsp;(B) the country meets the requirements of paragraph (1)(B).
 

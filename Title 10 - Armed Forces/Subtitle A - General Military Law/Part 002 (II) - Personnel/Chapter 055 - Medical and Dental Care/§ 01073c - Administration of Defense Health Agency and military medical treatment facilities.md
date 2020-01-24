@@ -2,19 +2,25 @@
 
 (a)
 
-Administration of Military Medical Treatment Facilities.—(1) In accordance with paragraph (4),<sup>1</sup> by not later than September 30, 2021, the Director of the Defense Health Agency shall be responsible for the administration of each military medical treatment facility, including with respect to—
+Administration of Military Medical Treatment Facilities.—(1) In accordance with paragraph (5), by not later than September 30, 2021, the Director of the Defense Health Agency shall be responsible for the administration of each military medical treatment facility, including with respect to—
 
-&emsp;(A) budgetary matters;
+&emsp;(A) provision and delivery of health care within each such facility;
 
-&emsp;(B) information technology;
+&emsp;(B) management of privileging, scope of practice, and quality of health care provided within each such facility;
 
-&emsp;(C) health care administration and management;
+&emsp;(C) budgetary matters;
 
-&emsp;(D) administrative policy and procedure;
+&emsp;(D) information technology;
 
-&emsp;(E) military medical construction; and
+&emsp;(E) health care administration and management;
 
-&emsp;(F) any other matters the Secretary of Defense determines appropriate.
+&emsp;(F) supply and equipment;
+
+&emsp;(G) administrative policy and procedure;
+
+&emsp;(H) military medical construction; and
+
+&emsp;(I) any other matters the Secretary of Defense determines appropriate.
 
 (2) In addition to the responsibilities set forth in paragraph (1), the Director of the Defense Health Agency shall, commencing when the Director begins to exercise responsibilities under that paragraph, have the authority—
 
@@ -24,25 +30,31 @@ Administration of Military Medical Treatment Facilities.—(1) In accordance wit
 
 &emsp;(C) to determine the scope of medical care provided at each military medical treatment facility to meet the military personnel readiness requirements of the senior military operational commander of the military installation;
 
-&emsp;(D) to determine total workforce requirements at each military medical treatment facility;
+&emsp;(D) to identify the capacity of each military medical treatment facility to support clinical readiness standards of health care providers established by the Secretary of a military department or the Assistant Secretary of Defense for Health Affairs;
 
-&emsp;(E) to direct joint manning at military medical treatment facilities and intermediary organizations;
+&emsp;(E) to determine total workforce requirements at each military medical treatment facility;
 
-&emsp;(F) to address personnel staffing shortages at military medical treatment facilities; and
+&emsp;(F) to determine, in coordination with each Secretary of a military department, manning, including joint manning, assigned to military medical treatment facilities and intermediary organizations;
 
-&emsp;(G) to select among service nominations for commanders or directors of military medical treatment facilities.
+&emsp;(G) to select, after considering nominations from the Secretaries of the military departments, commanders or directors of military medical treatment facilities;
+
+&emsp;(H) to address personnel staffing shortages at military medical treatment facilities; and
+
+&emsp;(I) to select among service nominations for commanders or directors of military medical treatment facilities.
 
 (3) The military commander or director of each military medical treatment facility shall be responsible for—
 
-&emsp;(A) ensuring the readiness of the members of the armed forces and civilian employees at such facility; and
+&emsp;(A) on behalf of the military departments, ensuring the readiness of the members of the armed forces at such facility; and
 
-&emsp;(B) furnishing the health care and medical treatment provided at such facility.
+&emsp;(B) on behalf of the Defense Health Agency, furnishing the health care and medical treatment provided at such facility.
 
-(4) <sup>2</sup> The Secretary of Defense shall establish a timeline to ensure that each Secretary of a military department transitions the administration of military medical treatment facilities from such Secretary to the Director of the Defense Health Agency pursuant to paragraph (1) by the date specified in such paragraph.
+\[(4) Redesignated (5)\]
 
-(5) The Secretary of Defense shall establish within the Defense Health Agency a professional staff to provide policy, oversight, and direction to carry out paragraphs (1) and (2). The Secretary shall carry out this paragraph by appointing the positions specified in subsections (b) and (c).
+(5) The Secretary of Defense shall establish a timeline to ensure that each Secretary of a military department transitions the administration of military medical treatment facilities from such Secretary to the Director of the Defense Health Agency pursuant to paragraph (1) by the date specified in such paragraph.
 
-(4) <sup>2</sup> If the Secretary of Defense determines it appropriate, a military director (or any other senior military officer or officers) of a military medical treatment facility may be a commanding officer for purposes of chapter 47 of this title (the Uniform Code of Military Justice) with respect to military personnel assigned to the military medical treatment facility.
+(6) <sup>1</sup> The Secretary of Defense shall establish within the Defense Health Agency a professional staff to provide policy, oversight, and direction to carry out paragraphs (1) and (2). The Secretary shall carry out this paragraph by appointing the positions specified in subsections (b) and (c).
+
+(6) <sup>1</sup> If the Secretary of Defense determines it appropriate, a military director (or any other senior military officer or officers) of a military medical treatment facility may be a commanding officer for purposes of chapter 47 of this title (the Uniform Code of Military Justice) with respect to military personnel assigned to the military medical treatment facility.
 
 (b)
 
@@ -52,7 +64,7 @@ DHA Assistant Director.—(1) There is in the Defense Health Agency an Assistant
 
 &emsp;(B) report directly to the Director of the Defense Health Agency.
 
-(2) The Assistant Director shall be appointed from among individuals who have equivalent education and experience as a chief executive officer leading a large, civilian health care system.
+(2) The Assistant Director shall be appointed from among individuals who have the education and experience to perform the responsibilities of the position.
 
 (3) The Assistant Director shall be responsible for the following:
 
@@ -74,7 +86,7 @@ DHA Deputy Assistant Directors.—(1)(A) There is in the Defense Health Agency a
 
 (2)(A) There is in the Defense Health Agency a Deputy Assistant Director for Financial Operations.
 
-(B) The Deputy Assistant Director for Financial Operations shall be responsible for the policy, procedures, and direction of budgeting matters and financial management with respect to the provision of direct care across the military health system.
+(B) The Deputy Assistant Director for Financial Operations shall be responsible for the policy, procedures, and direction of budgeting matters and financial management with respect to the provision of direct care at military medical treatment facilities.
 
 (3)(A) There is in the Defense Health Agency a Deputy Assistant Director for Health Care Operations.
 
@@ -82,7 +94,7 @@ DHA Deputy Assistant Directors.—(1)(A) There is in the Defense Health Agency a
 
 (4)(A) There is in the Defense Health Agency a Deputy Assistant Director for Medical Affairs.
 
-(B) The Deputy Assistant Director for Medical Affairs shall be responsible for policy, procedures, and direction of clinical quality and process improvement, patient safety, infection control, graduate medical education, clinical integration, utilization review, risk management, patient experience, and civilian physician recruiting.
+(B) The Deputy Assistant Director for Medical Affairs shall be responsible for policy, procedures, and direction of clinical quality and process improvement, patient safety, infection control, graduate medical education, clinical integration, utilization review, risk management, patient experience, and civilian physician recruiting at military medical treatment facilities.
 
 (5) Each Deputy Assistant Director appointed under paragraphs (1) through (4) shall report directly to the Assistant Director for Health Care Administration.
 
@@ -118,15 +130,61 @@ Additional DHA Organizations.—Not later than September 30, 2022, the Secretary
 
 (f)
 
+Treatment of Department of Defense for Purposes of Personnel Assignment.—In implementing this section—
+
+&emsp;(1) the Department of Defense shall be considered a single agency for purposes of civilian personnel assignment under title 5; and
+
+&emsp;(2) the Secretary of Defense may reassign any employee of a component of the Department of Defense or a military department in a position in the civil service (as defined in section 2101 of title 5) to any other component of the Department of Defense or military department.
+
+(g)
+
 Definitions.—In this section:
 
 &emsp;(1) The term "career appointee" has the meaning given that term in section 3132(a)(4) of title 5.
 
 &emsp;(2) The term "Defense Health Agency" means the Defense Agency established pursuant to Department of Defense Directive 5136.13, or such successor Defense Agency.
 
-(Added Pub. L. 114–328, div. A, title VII, §702(a)(1), Dec. 23, 2016, 130 Stat. 2193; amended Pub. L. 115–91, div. A, title VII, §713, title X, §1081(a)(23), Dec. 12, 2017, 131 Stat. 1437, 1595; Pub. L. 115–232, div. A, title VII, §711(a)(1), (2), (b)(1), Aug. 13, 2018, 132 Stat. 1806, 1807.)
+&emsp;(3) The term "military medical treatment facility" means—
+
+&emsp;&emsp;(A) any fixed facility of the Department of Defense that is outside of a deployed environment and used primarily for health care; and
+
+&emsp;&emsp;(B) any other location used for purposes of providing health care services as designated by the Secretary of Defense.
+
+(Added Pub. L. 114–328, div. A, title VII, §702(a)(1), Dec. 23, 2016, 130 Stat. 2193; amended Pub. L. 115–91, div. A, title VII, §713, title X, §1081(a)(23), Dec. 12, 2017, 131 Stat. 1437, 1595; Pub. L. 115–232, div. A, title VII, §711(a)(1), (2), (b)(1), Aug. 13, 2018, 132 Stat. 1806, 1807; Pub. L. 116–92, div. A, title VII, §711, title XVII, §1731(a)(22), Dec. 20, 2019, 133 Stat. 1441, 1813.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(1). Pub. L. 116–92, §711(f)(1), substituted "paragraph (5)" for "paragraph (4)" in introductory provisions.
+
+Pub. L. 116–92, §711(a)(1), added subpars. (A), (B), and (F) and redesignated former subpars. (A), (B), (C), (D), (E), and (F) as (C), (D), (E), (G), (H), and (I), respectively.
+
+Subsec. (a)(2)(D) to (I). Pub. L. 116–92, §711(a)(2), added subpars. (D), (F), and (G), redesignated former subpars. (D), (E), (F), and (G) as (E), (F), (H), and (I), respectively, and struck out subpar. (F) as so redesignated. Prior to repeal, the redesignated subpar. (F) read as follows: "to direct joint manning at military medical treatment facilities and intermediary organizations;".
+
+Subsec. (a)(3)(A). Pub. L. 116–92, §711(a)(3)(A), inserted "on behalf of the military departments," before "ensuring" and struck out "and civilian employees" after "armed forces".
+
+Subsec. (a)(3)(B). Pub. L. 116–92, §711(a)(3)(B), inserted "on behalf of the Defense Health Agency," before "furnishing".
+
+Subsec. (a)(4). Pub. L. 116–92, §711(f)(4), which directed moving the second par. (4) so as to appear before par. (5), could not be executed because of the intervening amendment by Pub. L. 116–92, §1731(a)(22). See below.
+
+Pub. L. 116–92, §711(f)(3), redesignated par. (4) relating to timeline for transition of administration of military medical treatment facilities as (5).
+
+Pub. L. 116–92, §1731(a)(22), redesignated par. (4) relating to authorization of military director or other senior military officer to serve as a commanding officer as (6). Amendment executed before amendment by section 711(f)(4) of Pub. L. 116–92, see above, pursuant to section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
+
+Subsec. (a)(5). Pub. L. 116–92, §711(f)(3), redesignated par. (4) relating to timeline for transition of administration of military medical treatment facilities as (5). Former par. (5) redesignated (6) relating to establishment of professional staff.
+
+Subsec. (a)(6). Pub. L. 116–92, §711(f)(2), redesignated par. (5) as (6) relating to establishment of professional staff.
+
+Pub. L. 116–92, §1731(a)(22), redesignated par. (4) relating to authorization of military director or other senior military officer to serve as a commanding officer as (6).
+
+Subsec. (b)(2). Pub. L. 116–92, §711(b), substituted "the education and experience to perform the responsibilities of the position." for "equivalent education and experience as a chief executive officer leading a large, civilian health care system."
+
+Subsec. (c)(2)(B). Pub. L. 116–92, §711(c)(1), substituted "at military medical treatment facilities" for "across the military health system".
+
+Subsec. (c)(4)(B). Pub. L. 116–92, §711(c)(2), inserted "at military medical treatment facilities" before period at end.
+
+Subsecs. (f), (g). Pub. L. 116–92, §711(d), added subsec. (f) and redesignated former subsec. (f) as (g).
+
+Subsec. (g)(3). Pub. L. 116–92, §711(e), added par. (3).
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–232, §711(a)(1)(A), substituted "In accordance with paragraph (4), by not later than September 30, 2021," for "Beginning October 1, 2018," in introductory provisions.
 
@@ -154,9 +212,9 @@ Pub. L. 115–232, div. A, title VII, §711(a)(3), Aug. 13, 2018, 132 Stat. 1807
 
 &emsp;"(B) A requirement that no closure of a military medical treatment facility, or downsizing of a medical center, hospital, or ambulatory care center, in connection with the transition will occur until 90 days after the date on which Secretary submits to the Committees on Armed Services of the Senate and the House of Representatives a report on the closure or downsizing."
 
-#### Organizational Framework of the Military Healthcare System To Support the Medical Requirements of the Combatant Commands
+#### Support by Military Healthcare System of Medical Requirements of Combatant Commands
 
-Pub. L. 115–232, div. A, title VII, §712, Aug. 13, 2018, 132 Stat. 1809, provided that:
+Pub. L. 115–232, div. A, title VII, §712, Aug. 13, 2018, 132 Stat. 1809, as amended by Pub. L. 116–92, div. A, title VII, §712(a), (b)(1), Dec. 20, 2019, 133 Stat. 1443–1445, provided that:
 
 "(a)
 
@@ -164,7 +222,7 @@ Organizational Framework Required.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall, acting through the Director of the Defense Health Agency, implement an organizational framework for the military healthcare system that most effectively implements chapter 55 of title 10, United States Code, in a manner that maximizes interoperability and fully integrates medical capabilities of the Armed Forces in order to enhance joint military medical operations in support of requirements of the combatant commands.
+In general.—The Secretary of Defense shall, acting through the Secretaries of the military departments, the Defense Health Agency, and the Joint Staff, implement an organizational framework of the military health system that effectively and efficiently implements chapter 55 of title 10, United States Code, to maximize the readiness of the medical force, promote interoperability, and integrate medical capabilities of the Armed Forces in order to enhance joint military medical operations in support of requirements of the combatant commands.
 
 &emsp;"(2)
 
@@ -172,11 +230,45 @@ Compliance with certain requirements.—The organizational framework, as impleme
 
 "(b)
 
-Defense Health Regions in CONUS.—The organizational framework required by subsection (a) shall meet the requirements as follows:
+Additional Duties of Surgeons General of the Armed Forces.—The Surgeons General of the Armed Forces shall have the following duties:
+
+&emsp;"(1) To ensure the readiness for operational deployment of medical and dental personnel and deployable medical or dental teams or units of the Armed Force or Armed Forces concerned.
+
+&emsp;"(2) To meet medical readiness standards, subject to standards and metrics established by the Assistant Secretary of Defense for Health Affairs.
+
+&emsp;"(3) With respect to uniformed medical and dental personnel of the military department concerned—
+
+&emsp;&emsp;"(A) to assign such personnel—
+
+&emsp;&emsp;&emsp;"(i) primarily to military medical treatment facilities, under the operational control of the commander or director of the facility; or
+
+&emsp;&emsp;&emsp;"(ii) secondarily to partnerships with civilian or other medical facilities for training activities specific to such military department; and
+
+&emsp;&emsp;"(B) to maintain readiness of such personnel for operational deployment.
+
+&emsp;"(4) To provide logistical support for operational deployment of medical and dental personnel and deployable medical or dental teams or units of the Armed Force or Armed Forces concerned.
+
+&emsp;"(5) To oversee mobilization and demobilization in connection with the operational deployment of medical and dental personnel of the Armed Force or Armed Forces concerned.
+
+&emsp;"(6) To develop operational medical capabilities required to support the warfighter, and to develop policy relating to such capabilities.
+
+&emsp;"(7) To provide health professionals to serve in leadership positions across the military healthcare system.
+
+&emsp;"(8) To deliver operational clinical services under the operational control of the combatant commands—
+
+&emsp;&emsp;"(A) on ships and planes; and
+
+&emsp;&emsp;"(B) on installations outside of military medical treatment facilities.
+
+&emsp;"(9) To manage privileging, scope of practice, and quality of health care in the settings described in paragraph (8).
+
+"(c)
+
+Defense Health Agency Regions in CONUS.—The organizational framework required by subsection (a) shall meet the requirements as follows:
 
 &emsp;"(1)
 
-Defense health regions.—There shall be not more than two defense health regions in the continental United States.
+Defense health Agency regions.—There shall be not more than two Defense Health Agency regions in the continental United States.
 
 &emsp;"(2)
 
@@ -186,17 +278,17 @@ Leaders.—Each region under paragraph (1) shall be led by a commander or direct
 
 &emsp;&emsp;"(B) shall be under the authority, direction, and control of the Director while serving in such position.
 
-"(c)
+"(d)
 
-Defense Health Regions OCONUS.—The organizational framework required by subsection (a) shall provide for the establishment of not more than two defense health regions outside the continental United States in order—
+Defense Health Agency Regions OCONUS.—The organizational framework required by subsection (a) shall provide for the establishment of not more than two Defense Health Agency regions outside the continental United States in order—
 
 &emsp;"(1) to enhance joint military medical operations in support of the requirements of the combatant commands in such region or regions, with a specific focus on current and future contingency and operational plans;
 
 &emsp;"(2) to ensure the provision of high-quality healthcare services to beneficiaries; and
 
-&emsp;"(3) to improve the interoperability of healthcare delivery systems in the defense health regions (whether under this subsection, subsection (b), or both).
+&emsp;"(3) to improve the interoperability of healthcare delivery systems in the defense health regions (whether under this subsection, subsection (c), or both).
 
-"(d)
+"(e)
 
 Planning and Coordination.—
 
@@ -214,11 +306,11 @@ Oversight and allocation of resources.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Director shall, consistent with section 193 of title 10, United States Code, coordinate with the Chairman of the Joint Chiefs of Staff, through the Joint Staff Surgeon, to conduct oversight and direct resources to support requirements related to readiness and operational medicine support that are validated by the Joint Staff.
+In general.—The Secretaries of the military departments shall coordinate with the Chairman of the Joint Chiefs of Staff to direct resources allocated to the military departments to support requirements related to readiness and operational medicine support that are established by the combatant commands and validated by the Joint Staff.
 
 &emsp;&emsp;"(B)
 
-Supply and demand for medical services.—Based on operational medical force readiness requirements of the combatant commands validated by the Joint Staff, the Director shall—
+Supply and demand for medical services.—The Director of the Defense Health Agency, in coordination with the Assistant Secretary of Defense for Health Affairs, shall—
 
 &emsp;&emsp;&emsp;"(i) validate supply and demand requirements for medical and dental services at each military medical treatment facility;
 
@@ -226,37 +318,25 @@ Supply and demand for medical services.—Based on operational medical force rea
 
 &emsp;&emsp;&emsp;"(iii) if workload is insufficient to meet requirements, identify alternative training and clinical practice sites for uniformed medical and dental personnel, and establish military-civilian training partnerships, to provide such workload.
 
-"(e)
-
-Additional Duties of Surgeons General of the Armed Forces.—
-
-&emsp;"(1)
-
-In general.—The Surgeons General of the Armed Forces shall have the duties as follows:
-
-&emsp;&emsp;"(A) To assign uniformed medical and dental personnel of the military department concerned to military medical treatment facilities for training activities specific to such military department and for operational and training missions, during which assignment such personnel shall be under the operational control of the commander or director of the military medical treatment facility concerned, subject to the authority, direction, and control of the Director of the Defense Health Agency.
-
-&emsp;&emsp;"(B) To ensure the readiness for operational deployment of medical and dental personnel and deployable medical or dental teams or units of the Armed Force or Armed Forces concerned.
-
-&emsp;&emsp;"(C) To provide logistical support for operational deployment of medical and dental personnel and deployable medical or dental teams or units of the Armed Force or Armed Forces concerned.
-
-&emsp;&emsp;"(D) To oversee mobilization and demobilization in connection with the operational deployment of medical and dental personnel of the Armed Force or Armed Forces concerned.
-
-&emsp;&emsp;"(E) To carry out operational medical and dental force development for the military department concerned.
-
-&emsp;&emsp;"(F) In coordination with the Secretary concerned, to ensure that the operational medical force readiness organizations of the Armed Forces support the medical and dental readiness responsibilities of the Director.
-
-&emsp;&emsp;"(G) To develop operational medical capabilities required to support the warfighter, and to develop policy relating to such capabilities.
-
-&emsp;&emsp;"(H) To provide health professionals to serve in leadership positions across the military healthcare system.
-
-&emsp;"(2)
-
-Medical force requirements of the combatant commands.—The Surgeon General of each Armed Force shall, on behalf of the Secretary concerned, ensure that the uniformed medical and dental personnel serving in such Armed Force receive training and clinical practice opportunities necessary to ensure that such personnel are capable of meeting the operational medical force requirements of the combatant commands applicable to such personnel. Such training and practice opportunities shall be provided through programs and activities of the Defense Health Agency and by such other mechanisms as the Secretary of Defense shall designate for purposes of this paragraph.
-
 &emsp;"(3)
 
+Medical force requirements of the combatant commands.—The Surgeon General of each Armed Force shall, on behalf of the Secretary concerned, ensure that the uniformed medical and dental personnel serving in such Armed Force receive training and clinical practice opportunities necessary to ensure that such personnel are capable of meeting the operational medical force requirements of the combatant commands applicable to such personnel. Such training and practice opportunities shall be provided primarily through programs and activities of the Defense Health Agency, in coordination with the Secretaries of the military departments, and by such other mechanisms as the Secretary of Defense shall designate for purposes of this paragraph.
+
+&emsp;"(4)
+
 Construction of duties.—The duties of a Surgeon General of the Armed Forces under this subsection are in addition to the duties of such Surgeon General under section 3036, 5137, or 8036 of title 10, United States Code, as applicable.
+
+&emsp;"(5)
+
+Manpower.—
+
+&emsp;&emsp;"(A)
+
+Administrative control of military personnel.—Each Secretary of a military department shall exercise administrative control of members of the Armed Forces assigned to military medical treatment facilities, including personnel assignment and issuance of military orders.
+
+&emsp;&emsp;"(B)
+
+Oversight of certain personnel by the director of the defense health agency.—In situations in which members of the Armed Forces provide health care services at a military medical treatment facility, the Director of the Defense Health Agency shall maintain operational controlover such members and oversight for the provision of care delivered by such members through policies, procedures, and privileging responsibilities of the military medical treatment facility.
 
 "(f)
 
@@ -300,7 +380,5 @@ Pub. L. 114–328, div. A, title VII, §702(c), Dec. 23, 2016, 130 Stat. 2196, p
 
 &emsp;"(2) by not increasing the number of full-time equivalent employees of the Defense Health Agency."
 
-<i><sup>1</sup></i><i> Probably means the par. (4) added by Pub. L. 115–232 relating to timeline for transition of administration of military medical treatment facilities.</i>
-
-<i><sup>2</sup></i><i> So in original. Two pars. (4) have been enacted.</i>
+<i><sup>1</sup></i><i> So in original. Two pars. (6) have been enacted.</i>
 

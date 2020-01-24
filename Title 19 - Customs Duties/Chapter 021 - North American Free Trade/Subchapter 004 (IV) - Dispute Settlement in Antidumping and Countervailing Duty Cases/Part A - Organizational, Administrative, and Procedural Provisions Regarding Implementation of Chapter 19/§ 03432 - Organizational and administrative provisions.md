@@ -20,7 +20,7 @@
 
 #### (2) Additional criteria for roster placements and appointments under paragraph 1 of Annex 1901.2
 
-&emsp;Rosters described in paragraph 1 of Annex 1901.2 shall include, to the fullest extent practicable, judges and former judges who meet the criteria referred to in paragraph (1). The Trade Representative shall, subject to subsection (b), appoint judges to binational panels convened under chapter 19, extraordinary challenge committees convened under chapter 19, and special committees established under article 1905, where such judges offer and are available to serve and such service is authorized by the chief judge of the court on which they sit.
+&emsp;Rosters described in paragraph 1 of Annex 1901.2 shall include, to the fullest extent practicable, judges and former judges who meetthe criteria referred to in paragraph (1). The Trade Representative shall, subject to subsection (b), appoint judges to binational panels convened under chapter 19, extraordinary challenge committees convened under chapter 19, and special committees established under article 1905, where such judges offer and are available to serve and such service is authorized by the chief judge of the court on which they sit.
 
 #### (b) Selection of certain judges to serve on panels and committees
 
@@ -76,7 +76,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Trade Representative shall select individuals from the respective lists prepared bythe interagency group under paragraph (2)(B)(i) for placement on—
+&emsp;&emsp;The Trade Representative shall select individuals from the respective lists prepared by the interagency group under paragraph (2)(B)(i) for placement on—
 
 &emsp;&emsp;&emsp;(i) a preliminary candidate list of individuals eligible to serve as members of binational panels under Annex 1901.2; and
 
@@ -86,7 +86,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the "appropriate Congressional Committees") the preliminary candidate lists of those individuals selected by the Trade Representative under subparagraph (A) to be candidates eligible to serve on panels or committees convened pursuant to chapter 19 during the 1-year period beginning on April 1 of such calendar year.
+&emsp;&emsp;&emsp;No later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the "appropriate Congressional Committees")the preliminary candidate lists of those individuals selected by the Trade Representative under subparagraph (A) to be candidates eligible to serve on panels or committees convened pursuant to chapter 19 during the 1-year period beginning on April 1 of such calendar year.
 
 #### (ii) Additional information
 
@@ -198,7 +198,7 @@
 
 If the Agreement enters into force between the United States and a NAFTA country after January 3, 1994, the provisions of subsection (c) shall be applied with respect to the calendar year in which such entering into force occurs—
 
-&emsp;(1) by substituting "the date that is 30 days after the date on which the Agreement enters into force with respect to the United States"for "January 3 of each calendar year" in subsections (c)(2)(B)(i) and (c)(3)(B)(i); and
+&emsp;(1) by substituting "the date that is 30 days after the date on which the Agreement enters into force with respect to the United States" for "January 3 of each calendar year" in subsections (c)(2)(B)(i) and (c)(3)(B)(i); and
 
 &emsp;(2) by substituting "the date that is 3 months after the date on which the Agreement enters into force with respect to the United States" for "March 31 of each calendar year" in subsection (c)(4)(A).
 

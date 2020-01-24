@@ -22,7 +22,7 @@
 
 #### (2) Security
 
-&emsp;All loans originated or participated in by a bank under this section shall be secured by first liens on interests in real estate of such classes as may be prescribed by regulations of the Farm Credit Administration.
+&emsp;All loans originated or participated in by a bank under this section shall be secured byfirst liens on interests in real estate of such classes as may be prescribed by regulations of the Farm Credit Administration.
 
 #### (3) Value of security
 

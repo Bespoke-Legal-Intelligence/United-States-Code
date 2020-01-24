@@ -10,7 +10,7 @@
 
 &emsp;(4) The term "State" means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
 
-&emsp;(5) The term "local" and "locality" means any local government authority or agency orcomponent thereof within a State having jurisdiction over matters at a county, municipal, or other local government level.
+&emsp;(5) The term "local" and "locality" means any local government authority or agency or component thereof within a State having jurisdiction over matters at a county, municipal, or other local government level.
 
 &emsp;(6) The term "covered agency" means any of the following:
 
@@ -90,7 +90,7 @@
 
 (6) If a criminal justice agency is able to provide the same information through more than 1 system described in paragraph (1), a covered agency may request information under subsection (b) from the criminal justice agency, and require the criminal justice agency to provide the information, using the system that is most cost-effective for the Federal Government.
 
-(f) The authority provided under this section with respect to the Department of State may be exercised only so long as the Department of State continues to extend to its employees andapplicants for employment, at a minimum, those procedural safeguards provided for as part of the security clearance process that were made available, as of May 1, 1987, pursuant to section 163.4 of volume 3 of the Foreign Affairs Manual.
+(f) The authority provided under this section with respect to the Department of State may be exercised only so long as the Department of State continues to extend to its employees and applicants for employment, at a minimum, those procedural safeguards provided for as part of the security clearance process that were made available, as of May 1, 1987, pursuant to section 163.4 of volume 3 of the Foreign Affairs Manual.
 
 (g) Upon request by a covered agency and in accordance with the applicable provisions of this section, the Deputy Assistant Secretary of State for Overseas Citizens Services shall make available criminal history record information collected by the Deputy Assistant Secretary with respect to an individual who is under investigation by the covered agency regarding any interaction of the individual with a law enforcement agency or intelligence agency of a foreign country.
 
@@ -114,7 +114,7 @@
 
 #### References in Text
 
-Executive Order 13467, referred to in subsecs. (a)(6)(I)(ii), (7), (b)(1)(B)(i), and (i), is Ex. Ord. No. 13467, June 30, 2008, 73 F.R. 38103, which is set out as a note under section 3161 of Title 50, War and National Defense.
+Executive Order 13467, referred to in subsecs. (a)(6)(I)(ii), (7), (b)(1)(B)(i), and (i), is Ex. Ord. No. 13467, June 30, 2008, 73 F.R. 38103, which is set out as a noteunder section 3161 of Title 50, War and National Defense.
 
 Federal Aviation Administration Drug Enforcement Assistance Act of 1988, referred to in subsec. (b)(1)(D)(i), is subtitle E (§§7201 to 7214) of Pub. L. 100–690, title VII, Nov. 18, 1988, 102 Stat. 4424. For complete classification of this Act to the Code, see Tables.
 
@@ -165,6 +165,10 @@ Subsecs. (e), (f). Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(d)\], ad
 Subsec. (e). Pub. L. 101–246, §114(2), added subsec. (e).
 
 <b>1986</b>—Subsecs. (b)(1), (3), (c). Pub. L. 99–569 inserted references to the Federal Bureau of Investigation and such bureau.
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1986 Amendment
 

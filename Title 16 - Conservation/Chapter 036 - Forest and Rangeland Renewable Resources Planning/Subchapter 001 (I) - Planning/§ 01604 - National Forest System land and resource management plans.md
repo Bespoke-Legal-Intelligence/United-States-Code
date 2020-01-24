@@ -140,7 +140,7 @@ In developing land management plans pursuant to this subchapter, the Secretary s
 
 The Secretary shall—
 
-&emsp;(1) formulate and implement, as soon as practicable, a process for estimating long-terms <sup>2</sup> costs and benefits to support the program evaluation requirements of this subchapter. This process shall include requirements to provide information on a representative sample basis of estimated expendituresassociated with the reforestation, timber stand improvement, and sale of timber from the National Forest System, and shall provide a comparison of these expenditures to the return to the Government resulting from the sale of timber; and
+&emsp;(1) formulate and implement, as soon as practicable, a process for estimating long-terms <sup>2</sup> costs and benefits to support the program evaluation requirements of this subchapter. This process shall include requirements to provide information on a representative sample basis of estimated expenditures associated with the reforestation, timber stand improvement, and sale of timber from the National Forest System, and shall provide a comparison of these expenditures to the return to the Government resulting from the sale of timber; and
 
 &emsp;(2) include a summary of data and findings resulting from these estimates as a part of the annual report required pursuant to section 1606(c) of this title, including an identification on a representative sample basis of those advertised timber sales made below the estimated expenditures for such timber as determined by the above cost process; and <sup>3</sup>
 
@@ -162,7 +162,7 @@ The date of enactment of this section, referred to in subsec. (d)(2)(B)(ii), pro
 
 The Multiple-Use Sustained-Yield Act of 1960, referred to in subsecs. (e) and (g), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (g)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (g)(1), is Pub. L. 91–190, Jan. 1, 1970,83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 
@@ -182,9 +182,13 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 #### Revision of Forest Plans
 
-Pub. L. 115–141, div. G, title IV, §407, Mar. 23, 2018, 132 Stat. 688, provided that: "The Secretary of Agriculture shall not be considered to be in violation of section 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis."
+Pub. L. 116–94, div. D, title IV, §407, Dec. 20, 2019, 133 Stat. 2743, provided that: "The Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–6, div. E, title IV, §407, Feb. 15, 2019, 133 Stat. 259.
+
+Pub. L. 115–141, div. G, title IV, §407, Mar. 23, 2018, 132 Stat. 688.
 
 Pub. L. 115–31, div. G, title IV, §407, May 5, 2017, 131 Stat. 495.
 
@@ -214,7 +218,7 @@ Pub. L. 107–63, title III, §327, Nov. 5, 2001, 115 Stat. 470.
 
 #### Expeditious Completion of Management Plans of Forest Service and Bureau of Land Management; Continuation of Existing Plans; Judicial Review
 
-Pub. L. 101–121, title III, §312, Oct. 23, 1989, 103 Stat. 743, provided that: "The Forest Service and Bureau ofLand Management are to continue to complete as expeditiously as possible development of their respective Forest Land and Resource Management Plans to meet all applicable statutory requirements. Notwithstanding the date in section 6(c) of the NFMA (16 U.S.C. 1600) \[16 U.S.C. 1604(c)\], the Forest Service, and the Bureau of Land Management under separate authority, may continue the management of lands within their jurisdiction under existing land and resource management plans pending the completion of new plans. Nothing shall limit judicial review of particular activities on these lands: <i>Provided, however</i>, That there shall be no challenges to any existing plan on the sole basis that the plan in its entirety is outdated, or in the case of the Bureau of Land Management, solely on the basis that the plan does not incorporate information available subsequent to the completion of the existing plan: <i>Provided further</i>, That any and all particular activities to be carried out under existing plans may nevertheless be challenged."
+Pub. L. 101–121, title III, §312, Oct. 23, 1989, 103 Stat. 743, provided that: "The Forest Service and Bureau of Land Management are to continue to complete as expeditiously as possible development of their respective Forest Land and Resource Management Plans to meet all applicable statutory requirements. Notwithstanding the date in section 6(c) of the NFMA (16 U.S.C. 1600) \[16 U.S.C. 1604(c)\], the Forest Service, and the Bureau of Land Management under separate authority, may continue the management of lands within their jurisdiction under existing land and resource management plans pending the completion of new plans. Nothing shall limit judicial review of particular activities on these lands: <i>Provided, however</i>, That there shall be no challenges to any existing plan on the sole basis that the plan in its entirety is outdated, or in the case of the Bureau of Land Management, solely on the basis that the plan does not incorporate information available subsequent to the completion of the existing plan: <i>Provided further</i>, That any and all particular activities to be carried out under existing plans may nevertheless be challenged."
 
 Similar provisions were contained in the following prior appropriation acts:
 

@@ -42,13 +42,13 @@
 
 (2) The Postal Service shall by regulation establish the standards or requirements which a fragrance advertising sample must satisfy in order for the mail matter involved not to be considered nonmailable under this subsection.
 
-(h)(1) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for the purchase of or payment for a product or service; and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government; or which bears the term "census" on the envelope or outside cover or wrapper; or on which the term "census" is visible through the envelope or outside cover or wrapper is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
+(h)(1) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for the purchase of or payment for a product or service; and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government; or which bears the term "census" on the envelope or outside cover or wrapper; or on which the term "census" is visible through the envelope or outside cover or wrapper is nonmailable matterand shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
 
 &emsp;(A) such nongovernmental entity has such expressed connection, approval or endorsement;
 
 &emsp;(B)(i) such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>"THIS PRODUCT OR SERVICE HAS NOT BEEN APPROVED OR ENDORSED BY THE FEDERAL GOVERNMENT, AND THIS OFFER IS NOT BEING MADE BY AN AGENCY OF THE FEDERAL GOVERNMENT."</b>, or a notice to the same effect in words which the Postal Service may prescribe;
 
-&emsp;(ii) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous and legible type, in accordance with regulations which the Postal Service shall prescribe, thefollowing notice: <b>"THIS IS NOT A GOVERNMENT DOCUMENT."</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
+&emsp;(ii) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous and legible type, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>"THIS IS NOT A GOVERNMENT DOCUMENT."</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
 
 &emsp;(iii) such matter does not contain a false representation stating or implying that Federal Government benefits or services will be affected by any purchase or nonpurchase; or
 
@@ -84,7 +84,7 @@
 
 (k)(1) In this subsection—
 
-&emsp;(A) the term "clearly and conspicuously displayed" means presented in a manner that is readily noticeable, readable, and understandable to the group to whom the applicable matter is disseminated;
+&emsp;(A) the term "clearly and conspicuously displayed" means presented in a manner that isreadily noticeable, readable, and understandable to the group to whom the applicable matter is disseminated;
 
 &emsp;(B) the term "facsimile check" means any matter that—
 
@@ -102,7 +102,7 @@
 
 &emsp;(D) the term "sweepstakes" means a game of chance for which no consideration is required to enter.
 
-(2) Except as provided in paragraph (4), any matter otherwise legally acceptable in the mailswhich is described in paragraph (3) is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs.
+(2) Except as provided in paragraph (4), any matter otherwise legally acceptable in the mails which is described in paragraph (3) is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs.
 
 (3) Matter described in this paragraph is any matter that—
 
@@ -320,7 +320,7 @@ Pub. L. 106–168, title I, §109, Dec. 12, 1999, 113 Stat. 1816, provided that:
 
 "(a)
 
-In General.—Nothing in the provisions of this title \[see Short Title of 1999 Amendment note above\] (including the amendments made by this title) or in the regulations promulgated under such provisions shall be construed to preempt any provision of State or local law that imposes more restrictive requirements, regulations, damages, costs, or penalties. No determination by the Postal Service that any particular piece of mail or class of mail is in compliance with such provisions of this title shall be construed to preempt any provision of State or local law.
+In General.—Nothing in the provisions of this title \[see Short Title of 1999 Amendment note above\] (including the amendments made by this title) or in the regulations promulgated under such provisions shall be construed to preempt any provision of State or local law that imposes more restrictive requirements, regulations, damages, costs, or penalties. No determination by the Postal Service that any particular piece of mailor class of mail is in compliance with such provisions of this title shall be construed to preempt any provision of State or local law.
 
 "(b)
 

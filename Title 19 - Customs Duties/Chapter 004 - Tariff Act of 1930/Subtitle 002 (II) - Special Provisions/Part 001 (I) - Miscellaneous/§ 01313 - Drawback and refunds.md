@@ -32,7 +32,7 @@ Upon the exportation or destruction under customs supervision of articles manufa
 
 #### (B) Bill of materials and formula defined
 
-&emsp;&emsp;In this paragraph, the terms "bill of materials" and "formula" mean records kept inthe normal course of business that identify each component incorporated into a manufactured or produced article or that identify the quantity of each element, material, chemical, mixture, or other substance incorporated into a manufactured article.
+&emsp;&emsp;In this paragraph, the terms "bill of materials" and "formula" mean records kept in the normal course of business that identify each component incorporated into a manufactured or produced article or that identify the quantity of each element, material, chemical, mixture, or other substance incorporated into a manufactured article.
 
 #### (4) Special rule for sought chemical elements
 
@@ -100,7 +100,7 @@ Upon the exportation of jet aircraft engines manufactured or produced abroad tha
 
 #### (i) Proof of exportation
 
-A person claiming drawback under this section based on the exportation of an article shall provide proof of the exportation of the article. Such proof of exportation—
+A person claiming drawback under this section based on the exportation of an article shallprovide proof of the exportation of the article. Such proof of exportation—
 
 &emsp;(1) shall establish fully the date and fact of exportation and the identity of the exporter; and
 
@@ -290,7 +290,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 > the amount of customs duties refunded, waived, or reduced on such materials may not exceed the lesser of the total amount of customs duties paid or owed on the materials on importation into the United States or the total amount of customs duties paid on the vessel to the NAFTA country.
 
-(2) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsection (g), vessels built for Canadian account and ownership, or for the Government of Canada, may not be considered to be built for any foreign account and ownership, or for the government of any foreign country, except to the extent that the materials in such vessels aredrawback eligible goods under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988.
+(2) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsection (g), vessels built for Canadian account and ownership, or for the Government of Canada, may not be considered to be built for any foreign account and ownership, or for the government of any foreign country, except to the extent that the materials in such vessels are drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988.
 
 (3) For purposes of subsection (g), if—
 
@@ -372,9 +372,9 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;&emsp;&nbsp;The transferred merchandise described in subclause (III), regardless of its origin shall be the qualified article for purposes of this section. The party transferring the merchandise shall maintain records kept in the normal course of business to demonstrate the transfer.
 
-&emsp;&emsp;(B) An article, including an imported, manufactured, substituted, or exported article, is of the same kind and quality as the qualified article for which it is substituted under this subsection if it is a product that is commercially interchangeable with or referred to under the same eight-digit classification of the HTS as the qualified article. If an article is referred to under the sameeight-digit classification of the HTS as the qualified article on January 1, 2000, then whether or not the article has been reclassified under another eight-digit classification after January 1, 2000, the article shall be deemed to be an article that is referred to under the same eight-digit classification of such Schedule as the qualified article for purposes of the preceding sentence.
+&emsp;&emsp;(B) An article, including an imported, manufactured, substituted, or exported article, is of the same kind and quality as the qualified article for which it is substituted under this subsection if it is a product that is commercially interchangeable with or referred to under the same eight-digit classification of the HTS as the qualified article. If an article is referred to under the same eight-digit classification of the HTS as the qualified article on January 1, 2000, then whether or not the article has been reclassified under another eight-digit classification after January 1, 2000, the article shall be deemed to be an article that is referred to under the same eight-digit classification of such Schedule as the qualified article for purposes of the preceding sentence.
 
-&emsp;&emsp;(C) The term "drawback claimant" means the exporter of the exported article or the refiner, producer, or importer of either the qualified article or the exported article. Any person eligible to file a drawback claim under this subparagraph may designate another person to file such claim.
+&emsp;&emsp;(C) The term "drawback claimant" means the exporter of the exported article or the refiner, producer, or importer of either thequalified article or the exported article. Any person eligible to file a drawback claim under this subparagraph may designate another person to file such claim.
 
 #### (4) Limitation on drawback
 
@@ -442,7 +442,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 > as the basis for drawback on merchandise possessed by the drawback successor after the date of succession.
 
-(3) For purposes of this subsection, the term "drawback successor" means an entity to which another entity (in this subsection referred to as the "predecessor") has transferred by written agreement, merger, or corporate resolution—
+(3) For purposes of this subsection, the term "drawback successor" means an entity to which another entity (in this subsection referred to asthe "predecessor") has transferred by written agreement, merger, or corporate resolution—
 
 &emsp;(A) all or substantially all of the rights, privileges, immunities, powers, duties, and liabilities of the predecessor; or
 
@@ -494,7 +494,7 @@ In this section:
 
 &emsp;The term "indirectly" means a transfer of merchandise or an article from one person to another person with one or more intermediate transfers.
 
-(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Pub. L. 85–673, §1, Aug. 18, 1958, 72 Stat. 624; Pub. L. 90–630, §2(b), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–692, §3(a), Jan. 12, 1971, 84 Stat. 2076; Pub. L. 96–609, title II, §201(a), Dec. 28, 1980, 94 Stat. 3560; Pub. L. 98–573, title II, §202, Oct. 30, 1984, 98 Stat. 2973; Pub. L. 99–514, title XVIII, §1888(2), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title II, §204(c)(3), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), Aug. 20, 1990, 104 Stat. 649, 707; Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a), Dec. 8, 1993, 107 Stat. 2089, 2092, 2192; Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), Dec. 8, 1994, 108 Stat. 4961, 4965; Pub. L. 104–295, §§7, 10, 21(e)(4), Oct. 11, 1996, 110 Stat. 3518, 3519, 3530; Pub. L. 106–36, title II, §§2404(a), 2419(a), 2420(a)–(d), June 25, 1999, 113 Stat. 169, 178, 179; Pub. L. 106–476, title I, §§1422(a)(1), (b), 1462(a), Nov. 9, 2000, 114 Stat. 2156, 2172; Pub. L. 108–77, title II, §203(b)(3), Sept. 3, 2003, 117 Stat. 927; Pub. L. 108–429, title I, §§1556, 1557(a), 1563(a)–(d), title II, §2004(d)(6), Dec. 3, 2004, 118 Stat. 2579, 2583–2585, 2592; Pub. L. 110–234, title XV, §§15334(a), 15421(a), May 22, 2008, 122 Stat. 1517, 1547; Pub. L. 110–246, §4(a), title XV, §§15334(a), 15421(a), June 18, 2008, 122 Stat. 1664, 2279, 2309;Pub. L. 114–125, title IX, §906(a)–(n), Feb. 24, 2016, 130 Stat. 226–233.)
+(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Pub. L. 85–673, §1, Aug. 18, 1958, 72 Stat. 624; Pub. L. 90–630, §2(b), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–692, §3(a), Jan. 12, 1971, 84 Stat. 2076; Pub. L. 96–609, title II, §201(a), Dec. 28, 1980, 94 Stat. 3560; Pub. L. 98–573, title II, §202, Oct. 30, 1984, 98 Stat. 2973; Pub. L. 99–514, title XVIII, §1888(2), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title II, §204(c)(3), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), Aug. 20, 1990, 104 Stat. 649, 707; Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a), Dec. 8, 1993, 107 Stat. 2089, 2092, 2192; Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), Dec. 8, 1994, 108 Stat. 4961, 4965; Pub. L. 104–295, §§7, 10, 21(e)(4), Oct. 11, 1996, 110 Stat. 3518, 3519, 3530; Pub. L. 106–36, title II, §§2404(a), 2419(a), 2420(a)–(d), June 25, 1999, 113 Stat. 169, 178, 179; Pub. L. 106–476, title I, §§1422(a)(1), (b), 1462(a), Nov. 9, 2000, 114 Stat. 2156, 2172; Pub. L. 108–77, title II, §203(b)(3), Sept. 3, 2003, 117 Stat. 927; Pub. L. 108–429, title I, §§1556, 1557(a), 1563(a)–(d), title II, §2004(d)(6), Dec. 3, 2004, 118 Stat. 2579, 2583–2585, 2592; Pub. L. 110–234, title XV, §§15334(a), 15421(a), May 22, 2008, 122 Stat. 1517, 1547; Pub. L. 110–246, §4(a), title XV, §§15334(a), 15421(a), June 18, 2008, 122 Stat. 1664, 2279, 2309; Pub. L. 114–125, title IX, §906(a)–(n), Feb. 24, 2016, 130 Stat. 226–233.)
 
 #### Amendment of Section
 
@@ -504,7 +504,7 @@ In this section:
 
 #### References in Text
 
-Section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsecs. (j)(4)(B), (n)(1)(D), and (o)(3)(B), is section 203(a) of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
+Section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsecs.\(j)(4)(B), (n)(1)(D), and (o)(3)(B), is section 203(a) of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
 
 The North American Free Trade Agreement Implementation Act, referred to in subsec. (n)(1)(A), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
@@ -600,7 +600,7 @@ Subsec. (r)(3)(B). Pub. L. 114–125, §906(j)(2)(B), substituted "the period of
 
 Subsec. (r)(4). Pub. L. 114–125, §906(j)(3), added par. (4).
 
-Subsec. (s)(2)(B). Pub. L. 114–125, §906(k)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: "imported merchandise, commercially interchangeable merchandise, or any combination of imported and commercially interchangeable merchandise for which the predecessor received, before the date of succession, from the person who imported and paidany duty due on the imported merchandise a certificate of delivery transferring to the predecessor such merchandise;".
+Subsec. (s)(2)(B). Pub. L. 114–125, §906(k)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: "imported merchandise, commercially interchangeable merchandise, or any combination of imported and commercially interchangeable merchandise for which the predecessor received, before the date of succession, from the person who imported and paid any duty due on the imported merchandise a certificate of delivery transferring to the predecessor such merchandise;".
 
 Subsec. (s)(4). Pub. L. 114–125, §906(k)(2), substituted "certifies that the transferred merchandise was not and will not be claimed by the predecessor." for "certifies that—
 
@@ -696,7 +696,7 @@ Subsec. (t). Pub. L. 104–295, §21(e)(4)(B), made technical amendment to refer
 
 Pub. L. 103–465, §404(e)(5)(A), added subsec. (w).
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–182, §632(a)(1), inserted "or destruction under customs supervision" after "Upon the exportation", "provided that those articleshave not been used prior to such exportation or destruction," after "use of imported merchandise,", and "or destruction" after "refunded upon the exportation", and substituted "by-products produced from imported wheat" for "by-products produced from wheat imported after ninety days after June 17, 1930".
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, §632(a)(1), inserted "or destruction under customs supervision" after "Upon the exportation", "provided that those articles have not been used prior to such exportation or destruction," after "use of imported merchandise,", and "or destruction" after "refunded upon the exportation", and substituted "by-products produced from imported wheat" for "by-products produced from wheat imported after ninety days after June 17, 1930".
 
 Subsec. (b). Pub. L. 103–182, §632(a)(2), substituted "any other merchandise (whether imported or domestic)" for "duty-free or domestic merchandise", inserted ", or destruction under customs supervision," after "there shall be allowed upon the exportation", substituted "production of the exported or destroyed articles" for "production of the exported articles", inserted ", but only if those articles have not been used prior to such exportation or destruction" after "merchandise used therein been imported" and "or destruction under customs supervision" after "but the total amount of drawback allowed upon the exportation".
 
@@ -778,7 +778,7 @@ Reporting of operability of automated commercial environment computer system.—
 
 "(3)
 
-Transition rule.—During the one-year period beginning on the date that is 2 years after the date of the enactment of this Act, a person may elect to file a claim for drawback under—
+Transition rule.—During the one-year period beginning on the date that is 2 years after the date ofthe enactment of this Act, a person may elect to file a claim for drawback under—
 
 &emsp;"(A) section 313 of the Tariff Act of 1930 \[19 U.S.C. 1313\], as amended by this section; or
 

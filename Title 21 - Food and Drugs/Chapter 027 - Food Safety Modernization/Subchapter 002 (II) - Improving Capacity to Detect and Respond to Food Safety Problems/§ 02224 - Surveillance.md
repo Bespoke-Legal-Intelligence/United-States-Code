@@ -10,7 +10,7 @@ In this Act, the term "foodborne illness outbreak" means the occurrence of 2 or 
 
 &emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall enhance foodborne illness surveillance systems to improve the collection, analysis, reporting, and usefulness of data on foodborne illnesses by—
 
-&emsp;&emsp;(A) coordinating Federal, State and local foodborne illness surveillance systems, including complaint systems, and increasing participation in national networks of publichealth and food regulatory agencies and laboratories;
+&emsp;&emsp;(A) coordinating Federal, State and local foodborne illness surveillance systems, including complaint systems, and increasing participation in national networks of public health and food regulatory agencies and laboratories;
 
 &emsp;&emsp;(B) facilitating sharing of surveillance information on a more timely basis among governmental agencies, including the Food and Drug Administration, the Department of Agriculture, the Department of Homeland Security, and State and local agencies, and with the public;
 
@@ -76,7 +76,7 @@ In this Act, the term "foodborne illness outbreak" means the occurrence of 2 or 
 
 &emsp;&emsp;(B) laboratory capacity to support surveillance, outbreak response, inspection, and enforcement activities;
 
-&emsp;&emsp;(C) information systems to support data management and sharing of food safety and defense information among State and localagencies and with counterparts at the Federal level; and
+&emsp;&emsp;(C) information systems to support data management and sharing of food safety and defense information among State and local agencies and with counterparts at the Federal level; and
 
 &emsp;&emsp;(D) other State and local activities and needs as determined appropriate by the Secretary.
 

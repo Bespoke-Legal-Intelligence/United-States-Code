@@ -22,7 +22,7 @@ As conditions of approval of any reduction plan submitted pursuant to subsection
 
 The reduction plan must—
 
-&emsp;(1) identify the number and service needs of existing facility residents to be provided home or community services and the timetable for providing such services, in 6 month intervals, within the 36-month period;
+&emsp;(1) identify the number and service needs of existing facility residents to be provided homeor community services and the timetable for providing such services, in 6 month intervals, within the 36-month period;
 
 &emsp;(2) describe the methods to be used to select such residents for home and community services and to develop the alternative home and community services to meet their needs effectively;
 

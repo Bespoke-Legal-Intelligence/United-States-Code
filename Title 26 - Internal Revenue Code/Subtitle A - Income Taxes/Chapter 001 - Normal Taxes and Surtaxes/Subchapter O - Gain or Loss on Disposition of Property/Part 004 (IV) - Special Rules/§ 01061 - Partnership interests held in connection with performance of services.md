@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (3) Specified asset
 
-&emsp;The term "specified asset" means securities (as defined in section 475(c)(2) without regard to the last sentence thereof), commodities (as defined in section 475(e)(2)), real estate held for rental or investment, cash or cash equivalents, options or derivative contracts with respect to any of the foregoing, and an interest in a partnership to the extent of the partnership's proportionate interest in any of the foregoing.
+&emsp;The term "specified asset" means securities (as defined in section 475(c)(2) without regardto the last sentence thereof), commodities (as defined in section 475(e)(2)), real estate held for rental or investment, cash or cash equivalents, options or derivative contracts with respect to any of the foregoing, and an interest in a partnership to the extent of the partnership's proportionate interest in any of the foregoing.
 
 #### (4) Exceptions
 
@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;If a taxpayer transfers any applicable partnership interest, directly or indirectly, to a person related to the taxpayer, the taxpayer shall include in gross income (as short term capital gain) the excess (if any) of—
 
-&emsp;&emsp;(A) so much of the taxpayer's long-term capital gains with respect to such interest for such taxable year attributable to the saleor exchange of any asset held for not more than 3 years as is allocable to such interest, over
+&emsp;&emsp;(A) so much of the taxpayer's long-term capital gains with respect to such interest for such taxable year attributable to the sale or exchange of any asset held for not more than 3 years as is allocable to such interest, over
 
 &emsp;&emsp;(B) any amount treated as short term capital gain under subsection (a) with respect to the transfer of such interest.
 

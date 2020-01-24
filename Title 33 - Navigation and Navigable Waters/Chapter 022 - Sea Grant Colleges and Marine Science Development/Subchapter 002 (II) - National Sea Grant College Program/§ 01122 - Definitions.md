@@ -46,7 +46,7 @@ As used in this subchapter—
 
 &emsp;(11) The term "project" means any individually described activity in a field related to ocean, coastal, and Great Lakes resources involving research, education, training, or extension services administered by a person with expertise in such a field.
 
-&emsp;(12) The term "sea grant college" means any institution, or any association or alliance oftwo or more such institutions, designated as such by the Secretary under section 1126 of this title.
+&emsp;(12) The term "sea grant college" means any institution, or any association or alliance of two or more such institutions, designated as such by the Secretary under section 1126 of this title.
 
 &emsp;(13) The term "sea grant institute" means any institution, or any association or alliance of two or more such institutions, designated as such by the Secretary under section 1126 of this title.
 
@@ -56,7 +56,7 @@ As used in this subchapter—
 
 &emsp;(16) The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Mariana Islands, or any other territory or possession of the United States.
 
-(Pub. L. 89–454, title II, §203, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, §1(1), Aug. 11, 1968, 82 Stat. 704; Pub. L. 91–349, July 23, 1970, 84 Stat. 448; Pub. L. 93–73, §1(1), (5), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1962; Pub. L. 95–428, §2(b), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(1), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §3104(a), (b)(1)(C), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 102–186, §5(b)(1), Dec. 4, 1991, 105 Stat. 1284; Pub. L. 102–251, title III, §307(a), Mar. 9, 1992, 106 Stat. 66; Pub. L. 105–160, §4(a), Mar. 6, 1998, 112 Stat. 21; Pub. L. 105–174, title III, §10003, May 1, 1998, 112 Stat. 99; Pub. L. 110–394, §§4, 9(a)(4)(B), Oct. 13, 2008, 122 Stat. 4206, 4208.)
+(Pub. L. 89–454, title II, §203, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, §1(1), Aug. 11, 1968, 82 Stat. 704; Pub. L. 91–349, July 23, 1970, 84 Stat. 448; Pub. L. 93–73, §1(1), (5), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1962; Pub. L.95–428, §2(b), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(1), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §3104(a), (b)(1)(C), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 102–186, §5(b)(1), Dec. 4, 1991, 105 Stat. 1284; Pub. L. 102–251, title III, §307(a), Mar. 9, 1992, 106 Stat. 66; Pub. L. 105–160, §4(a), Mar. 6, 1998, 112 Stat. 21; Pub. L. 105–174, title III, §10003, May 1, 1998, 112 Stat. 99; Pub. L. 110–394, §§4, 9(a)(4)(B), Oct. 13, 2008, 122 Stat. 4206, 4208.)
 
 #### References in Text
 

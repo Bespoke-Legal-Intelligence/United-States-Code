@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;(5) refiners are still subject to significant environmental and other regulations and face several new requirements under the Clean Air Act (42 U.S.C. 7401 et seq.) over the next decade; and
 
-&emsp;(6) better coordination of Federal and State regulatory reviews may help facilitate siting and construction of new refineries to meet the demand in the United States for refined products.
+&emsp;(6) better coordination of Federal and State regulatory reviews may help facilitate siting and construction of new refineries to meet thedemand in the United States for refined products.
 
 #### (b) Definitions
 

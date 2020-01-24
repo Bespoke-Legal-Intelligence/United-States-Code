@@ -2,7 +2,7 @@
 
 (a) The plan—
 
-&emsp;(1) shall provide for the submission of all or such portion of future earnings or other futureincome of the debtor to the supervision and control of the trustee as is necessary for the execution of the plan;
+&emsp;(1) shall provide for the submission of all or such portion of future earnings or other future income of the debtor to the supervision and control of the trustee as is necessary for the execution of the plan;
 
 &emsp;(2) shall provide for the full payment, in deferred cash payments, of all claims entitled to priority under section 507 of this title, unless the holder of a particular claim agrees to a different treatment of such claim;
 
@@ -62,7 +62,7 @@
 
 (e) Notwithstanding subsection (b)(2) of this section and sections 506(b) and 1325(a)(5) of this title, if it is proposed in a plan to cure a default, the amount necessary to cure the default, shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 
-(f) A plan may not materially alter the terms of a loan described in section 362(b)(19) and anyamounts required to repay such loan shall not constitute "disposable income" under section 1325.
+(f) A plan may not materially alter the terms of a loan described in section 362(b)(19) and any amounts required to repay such loan shall not constitute "disposable income" under section 1325.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2648; Pub. L. 98–353, title III, §§316, 528, July 10, 1984, 98 Stat. 356, 389; Pub. L. 103–394, title III, §§301, 305(c), Oct. 22, 1994, 108 Stat. 4131, 4134; Pub. L. 109–8, title II, §§213(8), (9), 224(d), title III, §318(1), Apr. 20, 2005, 119 Stat. 53, 65, 93; Pub. L. 111–327, §2(a)(43), Dec. 22, 2010, 124 Stat. 3562.)
 

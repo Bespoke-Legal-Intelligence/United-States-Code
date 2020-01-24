@@ -310,7 +310,7 @@ For purposes of this part, the term "qualified veterans' mortgage bond" means an
 
 &emsp;&emsp;Subparagraph (A) shall be satisfied with respect to any issue if the issuer elects before issuing the bonds to pay over to the United States—
 
-&emsp;&emsp;&emsp;(i) not less frequently than once each 5 years after the date of issue, an amountequal to 90 percent of the aggregate amount which would be required to be paid or credited to mortgagors under subparagraph (A) (and not theretofore paid to the United States), and
+&emsp;&emsp;&emsp;(i) not less frequently than once each 5 years after the date of issue, an amount equal to 90 percent of the aggregate amount which would be required to be paid or credited to mortgagors under subparagraph (A) (and not theretofore paid to the United States), and
 
 &emsp;&emsp;&emsp;(ii) not later than 60 days after the redemption of the last bond, 100 percent of such aggregate amount not theretofore paid to the United States.
 
@@ -588,7 +588,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a residence which is located in a high housing cost area (as defined in section 143(f)(5)), the interest of a governmental unit in such residence by reason offinancing provided under any qualified program shall not be taken into account under this section (other than subsection (m)), and the acquisition cost of the residence which is taken into account under subsection (e) shall be such cost reduced by the amount of such financing.
+&emsp;&emsp;In the case of a residence which is located in a high housing cost area (as defined in section 143(f)(5)), the interest of a governmental unit in such residence by reason of financing provided under any qualified program shall not be taken into account under this section (other than subsection (m)), and the acquisition cost of the residence which is taken into account under subsection (e) shall be such cost reduced by the amount of such financing.
 
 #### (B) Qualified program
 
@@ -672,7 +672,7 @@ For purposes of this section—
 
 #### (ii) Denial of double benefit
 
-&emsp;&emsp;&emsp;If a taxpayer elects the application of this paragraph, paragraph (11) shall notapply with respect to the purchase or financing of any residence by such taxpayer.
+&emsp;&emsp;&emsp;If a taxpayer elects the application of this paragraph, paragraph (11) shall not apply with respect to the purchase or financing of any residence by such taxpayer.
 
 #### (l) Additional requirements for qualified veterans' mortgage bonds
 
@@ -698,7 +698,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;&emsp;In the case of any State to which clause (ii) does not apply, the State veterans limit for any calendar year is the amount equal to—
 
-&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of qualified veterans bonds issued by such State during the period beginning on January 1, 1979, and ending on June 22, 1984 (not including the amount of any qualified veterans bond issued by such State during the calendar year (or portion thereof) in such period for which the amount of such bonds so issued was the lowest), divided by
+&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of qualified veterans bonds issued by such State during the period beginning on January 1, 1979, and ending on June 22, 1984 (not including the amount of any qualified veterans bond issued by such State during the calendar year (or portion thereof) insuch period for which the amount of such bonds so issued was the lowest), divided by
 
 &emsp;&emsp;&emsp;&emsp;(II) the number (not to exceed 5) of calendar years after 1979 and before 1985 during which the State issued qualified veterans bonds (determined by only taking into account bonds issued on or before June 22, 1984).
 
@@ -1071,7 +1071,7 @@ Subsec. (m). Pub. L. 100–647, §4005(g)(1), added subsec. (m).
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title II, §211(d), Dec. 19, 2014, 128 Stat. 4033, provided that: "The amendments made by this section \[amending this section and sections 165, 168, 172, and 1033 of this title and provisions set out as notes under sections 56 and 897 of this title\] shall take effect as if included in the provisions of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 \[Pub. L. 110–343, div. C\] to which they relate."
+Pub. L. 113–295, div. A, title II, §211(d), Dec. 19, 2014, 128 Stat. 4033, provided that: "The amendments made by this section \[amending this section and sections 165,168, 172, and 1033 of this title and provisions set out as notes under sections 56 and 897 of this title\] shall take effect as if included in the provisions of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 \[Pub. L. 110–343, div. C\] to which they relate."
 
 #### Effective Date of 2008 Amendment
 
@@ -1133,7 +1133,7 @@ Simplification.—The amendment made by subsection (c) \[amending this section\]
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1013(a)(2), (3) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1013(a)(2), (3) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title IV, §4005(h), Nov. 10, 1988, 102 Stat. 3651, provided that:
 
@@ -1167,7 +1167,7 @@ Exception.—The amendments made by subsection (g) shall not apply to financing 
 
 #### Transition Rule
 
-Pub. L. 110–245, title I, §103(e), June 17, 2008, 122 Stat. 1626, provided that: "In the case of any bond issued after December 31, 2007, and before the date of the enactment of this Act \[June 17, 2008\], subparagraph (B) of section 143(l)(4) of the Internal Revenue Code of 1986, as amended by this section, shall be applied by substituting '30 years' for '25 years'."
+Pub. L. 110–245, title I, §103(e), June 17, 2008, 122 Stat. 1626, provided that: "In the case of any bond issued after December 31, 2007, and before the date of the enactment of this Act \[June 17, 2008\], subparagraph (B) of section 143(l)(4) of the Internal Revenue Code of 1986, asamended by this section, shall be applied by substituting '30 years' for '25 years'."
 
 #### Termination Date for Obligations Treated as Qualified Mortgage Bonds Under Former Section 103A
 
@@ -1175,7 +1175,7 @@ Pub. L. 100–647, title I, §1013(a)(27), Nov. 10, 1988, 102 Stat. 3543, provid
 
 #### Study of Recapture Provisions
 
-Pub. L. 100–647, title IV, §4005(i), Nov. 10, 1988, 102 Stat. 3651, provided that: "The Comptroller General of the United States shall conduct a study of section 143(m) of the 1986 Code (as added by this section) and of alternatives to accomplish the purposes of such section. A report of such study shall be submitted not later than July 1, 1990, to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate."
+Pub. L. 100–647, title IV, §4005(i), Nov. 10, 1988, 102 Stat. 3651, required the Comptroller General of the United States to conduct a study of subsec. (m) of this section and alternatives to accomplish the purposes of such subsection, and submit a report to Congress by July 1, 1990.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -32,7 +32,7 @@
 
 &emsp;(G) to benefits under chapter 30 or chapter 37 of this title by reason of—
 
-&emsp;&emsp;(i) a discharge or release from active duty for the convenience of the Government, as described in sections 3011(a)(1)(A)(ii)(II) and 3012(b)(1)(A)(iv) of this title;
+&emsp;&emsp;(i) a discharge or release from active duty for the convenience of the Government, asdescribed in sections 3011(a)(1)(A)(ii)(II) and 3012(b)(1)(A)(iv) of this title;
 
 &emsp;&emsp;(ii) a discharge or release from active duty for a medical condition which preexisted service on active duty and which the Secretary determines is not service connected, as described in clauses (A)(ii)(I) and (B)(ii)(I) of section 3011(a)(1) of this title and in section 3012(b)(1)(A)(ii) of this title;
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 101–510 effective Oct. 19, 1984, see section 562(c) of Pu
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–689 effective July 1, 1985, with respect to individuals discharged or released for medical condition which preexisted service on active duty or in Selected Reserve and which Administrator determines is not service connected, and effective Oct.1, 1987, with respect to individuals involuntarily discharged or released for convenience of Government as a result of reduction in force, see section 102(c) of Pub. L. 100–689, set out as a note under section 3011 of this title.
+Amendment by Pub. L. 100–689 effective July 1, 1985, with respect to individuals discharged or released for medical condition which preexisted service on active duty or in Selected Reserve and which Administrator determines is not service connected, and effective Oct. 1, 1987, with respect to individuals involuntarily discharged or released for convenience of Government as a result of reduction in force, see section 102(c) of Pub. L. 100–689, set out as a note under section 3011 of this title.
 
 #### Effective Date
 

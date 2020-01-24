@@ -64,7 +64,7 @@ Submission and consideration of offer not to be denied.—A potential offeror ma
 
 &emsp;(4)
 
-Referral to small business administration not required.—This subsection does not require the referral of an offer to the Small Business Administration pursuant to section 8(b)(7) of the Small Business Act (15 U.S.C. 637(b)(7)) if the basis for the referral is a challenge by the offeror to either the validity of the qualification requirement or the offeror's compliance with that requirement.
+Referral to small business administration not required.—This subsection doesnot require the referral of an offer to the Small Business Administration pursuant to section 8(b)(7) of the Small Business Act (15 U.S.C. 637(b)(7)) if the basis for the referral is a challenge by the offeror to either the validity of the qualification requirement or the offeror's compliance with that requirement.
 
 &emsp;(5)
 

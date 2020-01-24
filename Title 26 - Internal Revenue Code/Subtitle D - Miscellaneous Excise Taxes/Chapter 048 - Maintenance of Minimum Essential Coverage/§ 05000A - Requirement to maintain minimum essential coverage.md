@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Such term shall not include any individual for any month if such individual has ineffect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that—
+&emsp;&emsp;&emsp;Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that—
 
 &emsp;&emsp;&emsp;&emsp;(I) such individual is a member of a recognized religious sect or division thereof which is described in section 1402(g)(1), and is adherent of established tenets or teachings of such sect or division as described in such section; or
 
@@ -164,7 +164,7 @@ No penalty shall be imposed under subsection (a) with respect to—
 
 #### (A) In general
 
-&emsp;&emsp;Any applicable individual for any month if the applicable individual's required contribution (determined on an annual basis) for coverage for the month exceeds 8 percent of such individual's household income for the taxable year described in section 1412(b)(1)(B) of the Patient Protection and Affordable Care Act. For purposes of applying this subparagraph, the taxpayer's household income shall be increased by any exclusion from gross income for any portion of the required contribution made through a salary reduction arrangement.
+&emsp;&emsp;Any applicable individual for any month if the applicable individual's required contribution (determined on an annual basis) for coverage for the month exceeds 8 percent of such individual's household income forthe taxable year described in section 1412(b)(1)(B) of the Patient Protection and Affordable Care Act. For purposes of applying this subparagraph, the taxpayer's household income shall be increased by any exclusion from gross income for any portion of the required contribution made through a salary reduction arrangement.
 
 #### (B) Required contribution
 
@@ -236,7 +236,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(vi) a health plan under section 2504(e) of title 22, United States Code (relating to Peace Corps volunteers); <sup>2</sup> or
 
-&emsp;&emsp;&emsp;(vii) the Nonappropriated Fund Health Benefits Program of the Department of Defense, established under section 349 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 10 U.S.C. 1587 note).
+&emsp;&emsp;&emsp;(vii) the Nonappropriated Fund Health Benefits Program of the Department ofDefense, established under section 349 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 10 U.S.C. 1587 note).
 
 #### (B) Employer-sponsored plan
 
@@ -322,7 +322,7 @@ Section 2791 of the Public Health Service Act, referred to in subsec. (f)(2)(A),
 
 #### Amendments
 
-<b>2018</b>—Subsec. (d)(2)(A). Pub. L. 115–271 amended subpar. (A) generally. Prior to amendment, text read as follows: "Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is—
+<b>2018</b>—Subsec. (d)(2)(A). Pub. L. 115–271 amended subpar. (A) generally. Prior to amendment, text read asfollows: "Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is—
 
 &emsp;"(i) a member of a recognized religious sect or division thereof which is described in section 1402(g)(1), and
 

@@ -1,6 +1,6 @@
 ### §12646. Commissioned officers: retention of after completing 18 or more, but less than 20, years of service
 
-(a) If on the date prescribed for the discharge or transfer from an active status of a reservecommissioned officer he is entitled to be credited with at least 18, but less than 19, years of service computed under section 12732 of this title, he may not be discharged or transferred from an active status under chapter 843, 1407, or 1409 of this title or chapter 21 <sup>1</sup> of title 14, without his consent before the earlier of the following dates—
+(a) If on the date prescribed for the discharge or transfer from an active status of a reserve commissioned officer he is entitled to be credited with at least 18, but less than 19, years of service computed under section 12732 of this title, he may not be discharged or transferred from an active status under chapter 843, 1407, or 1409 of this title or chapter 21 <sup>1</sup> of title 14, without his consent before the earlier of the following dates—
 
 &emsp;(1) the date on which he is entitled to be credited with 20 years of service computed under section 12732 of this title; or
 
@@ -90,7 +90,7 @@ The change reflects the repeal of section 611 of the Reserve Officer Personnel A
 
 #### References in Text
 
-Chapter 21 of title 14, referred to in subsecs. (a) and (b), was comprised of sections 701 to 713 and 720 to 746 prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233. After renumbering, such sections now comprise chapter 37 of title 14.
+Chapter 21 of title 14, referred to in subsecs. (a) and (b), was comprised of sections 701 to 713 and 720 to 746 prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233. After renumbering, such sections now comprise chapter 37 (designated as chapter "1" in chapter analysis) of title 14.
 
 Section 740 of title 14, referred to in subsec. (e)(1), was redesignated section 3751 of title 14 by Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233, and references to section 740 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
@@ -125,6 +125,10 @@ Subsec. (e). Pub. L. 93–586, §3(3), substituted "discharge is required by thi
 <b>1962</b>—Subsec. (e). Pub. L. 87—651 substituted "section 787 of title 14" for "section 1391 of title 50".
 
 <b>1960</b>—Subsec. (e). Pub. L. 86–559 struck out references to sections 3849 and 8849 of this title.
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+
+Section 740 of title 14 redesignated section 3751 of title 14 by Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233, and references to section 740 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding section 101 of Title 14, Coast Guard.
 
 #### Effective Date of 2018 Amendment
 

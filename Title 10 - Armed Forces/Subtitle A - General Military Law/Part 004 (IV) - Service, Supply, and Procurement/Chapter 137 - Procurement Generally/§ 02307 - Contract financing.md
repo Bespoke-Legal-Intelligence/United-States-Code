@@ -2,7 +2,7 @@
 
 (a)
 
-Payment Authority.—(1) The head of any agency may <sup>1</sup>
+Payment Authority.—(1) The head of any agency may—
 
 &emsp;(A) make advance, partial, progress, or other payments under contracts for property or services made by the agency; and
 
@@ -52,9 +52,9 @@ Conditions for Progress Payments.—(1) The Secretary of Defense shall ensure th
 
 (f)
 
-Conditions for Payments for Commercial Items.—(1) Payments under subsection (a) for commercial items may be made under such terms and conditions as the head of the agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
+Conditions for Payments for Commercial Products and Commercial Services.—(1) Payments under subsection (a) for commercial products and commercial services may be made under such terms and conditions as the head of the agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
 
-(2) Advance payments made under subsection (a) for commercial items may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
+(2) Advance payments made under subsection (a) for commercial products and commercial services may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
 
 (3) The conditions of subsections (d) and (e) need not be applied if they would be inconsistent, as determined by the head of the agency, with commercial terms and conditions pursuant to paragraphs (1) and (2).
 
@@ -92,7 +92,7 @@ Action in Case of Fraud.—(1) In any case in which the remedy coordination offi
 
 &emsp;(B) transmit a recommendation to the head of such agency whether the suspension or reduction should continue.
 
-(7) The head of an agency shall prepare for each year a report containing the recommendations made by the remedy coordination official of that agency to reduce or suspend payments under paragraph (2), the actions taken on therecommendations and the reasons for such actions, and an assessment of the effects of such actions on the Federal Government. The Secretary of each military department shall transmit the annual report of such department to the Secretary of Defense. Each such report shall be available to any member of Congress upon request.
+(7) The head of an agency shall prepare for each year a report containing the recommendations made by the remedy coordination official of that agency to reduce or suspend payments under paragraph (2), the actions taken on the recommendations and the reasons for such actions, and an assessment of the effects of such actions on the Federal Government. The Secretary of each military department shall transmit the annual report of such department to the Secretary of Defense. Each such report shall be available to any member of Congress upon request.
 
 (8) This subsection applies to the agencies named in paragraphs (1), (2), (3), (4), and (6) of section 2303(a) of this title.
 
@@ -100,17 +100,7 @@ Action in Case of Fraud.—(1) In any case in which the remedy coordination offi
 
 (10) In this subsection, the term "remedy coordination official", with respect to an agency, means the person or entity in that agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592; Pub. L. 114–328, div. A, title VIII, §831(a), Dec. 23, 2016, 130 Stat. 2282; Pub. L. 115–232, div. A, title VIII, §§836(c)(6), 852, Aug. 13, 2018, 132 Stat. 1866, 1884.)
-
-#### Amendment of Subsection (f)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(c)(6), (h), Aug. 13, 2018, 132 Stat. 1866, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (f) of this section is amended as follows:</i>
-
-<i>(1) in heading, by striking "Commercial Items" and inserting "Commercial Products and Commercial Services"; and</i>
-
-<i>(2) in paragraphs (1) and (2), by striking "commercial items" and inserting "commercial products and commercial services".</i>
-
-<i>See 2018 Amendment notes below.</i>
+(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592; Pub. L. 114–328, div. A, title VIII, §831(a), Dec. 23, 2016, 130 Stat. 2282; Pub. L. 115–232, div. A, title VIII, §§836(c)(6), 852, Aug. 13, 2018, 132 Stat. 1866, 1884; Pub. L. 116–92, div. A, title XVII, §1731(a)(40), Dec. 20, 2019, 133 Stat. 1814.)
 
 Historical and Revision Notes<br>1956
 
@@ -149,6 +139,8 @@ Level IV of the Executive Schedule, referred to in subsec. (i)(9), is set out in
 Provisions similar to those in subsec. (g) of this section were contained in sections 7312, 7364, and 7521 of this title prior to repeal by Pub. L. 103–355, §2001(j)(1).
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(1). Pub. L. 116–92 substituted "may—" for "may" in introductory provisions.
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–232, §852, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
@@ -255,6 +247,4 @@ Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Se
 #### Obligations Entered Into Before November 16, 1973
 
 Pub. L. 93–155, title VIII, §807(e), Nov. 16, 1973, 87 Stat. 616, provided that: "The amendments made by this section \[amending this section and sections 1431, 3816, and 4532 of Title 50, War and National Defense\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\]."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

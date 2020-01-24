@@ -4,7 +4,7 @@
 
 Except as provided in subsection (b), any person who uses or attempts to use an automated external defibrillator device on a victim of a perceived medical emergency is immune from civil liability for any harm resulting from the use or attempted use of such device; and in addition, any person who acquired the device is immune from such liability, if the harm was not due to the failure of such acquirer of the device—
 
-&emsp;(1) to notify local emergency response personnel or other appropriate entities of themost recent placement of the device within a reasonable period of time after the device was placed;
+&emsp;(1) to notify local emergency response personnel or other appropriate entities of the most recent placement of the device within a reasonable period of time after the device was placed;
 
 &emsp;(2) to properly maintain and test the device; or
 

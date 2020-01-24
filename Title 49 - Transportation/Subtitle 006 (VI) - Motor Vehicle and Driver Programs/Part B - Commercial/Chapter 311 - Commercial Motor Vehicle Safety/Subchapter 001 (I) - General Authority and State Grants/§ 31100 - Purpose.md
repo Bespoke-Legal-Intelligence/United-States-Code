@@ -52,7 +52,7 @@ Scope of Study.—In carrying out the study commissioned pursuant to subsection 
 
 &emsp;&emsp;"(G) the differences in the rates at which safety violations are reported to the Federal Motor Carrier Safety Administration for inclusion in the SMS by various enforcement authorities, including States, territories, and Federal inspectors; and
 
-&emsp;&emsp;"(H) how members of the public use the SMS and what effect making the SMS information public has had on reducing crashes and eliminating unsafe motor carriers from the industry; and
+&emsp;&emsp;"(H) how members of the public use the SMS and what effect making the SMS information public hashad on reducing crashes and eliminating unsafe motor carriers from the industry; and
 
 &emsp;"(2) shall consider—
 
@@ -322,7 +322,7 @@ Pub. L. 109–59, title IV, §4144, Aug. 10, 2005, 119 Stat. 1748, as amended by
 
 Establishment and Duties.—The Secretary \[of Transportation\] shall establish in the Federal Motor Carrier Safety Administration a motor carrier safety advisory committee. The committee shall—
 
-&emsp;"(1) provide advice and recommendations to the Administrator of the Federal Motor Carrier Safety Administration about needs, objectives, plans, approaches, content, and accomplishments of the motorcarrier safety programs carried out by the Administration; and
+&emsp;"(1) provide advice and recommendations to the Administrator of the Federal Motor Carrier Safety Administration about needs, objectives, plans, approaches, content, and accomplishments of the motor carrier safety programs carried out by the Administration; and
 
 &emsp;"(2) provide advice and recommendations to the Administrator on motor carrier safety regulations.
 

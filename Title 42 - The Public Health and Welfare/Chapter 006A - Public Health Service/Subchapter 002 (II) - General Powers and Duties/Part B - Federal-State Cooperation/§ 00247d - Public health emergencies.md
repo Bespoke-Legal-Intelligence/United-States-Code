@@ -14,9 +14,25 @@ If the Secretary determines, after consultation with such public health official
 
 #### (1) In general
 
-&emsp;There is established in the Treasury a fund to be designated as the "Public Health Emergency Fund" to be made available to the Secretary without fiscal year limitation to carry out subsection (a) only if a public health emergency has been declared by the Secretary under such subsection. There is authorized to be appropriated to the Fund such sums as may be necessary.
+&emsp;There is established in the Treasury a fund to be designated as the "Public Health Emergency Fund" to be made available to the Secretary without fiscal year limitation to carry out subsection (a) only if a public health emergency has been declared by the Secretary under such subsection or if the Secretary determines there is the significant potential for a public health emergency, to allow the Secretary to rapidly respond to the immediate needs resulting from such public health emergency or potential public health emergency. The Secretary shall plan for the expedited distribution of funds to appropriate agencies and entities. There is authorized to be appropriated to the Fund such sums as may be necessary.
 
-#### (2) Report
+#### (2) Uses
+
+&emsp;The Secretary may use amounts in the Fund established under paragraph (1), to—
+
+&emsp;&emsp;(A) facilitate coordination between and among Federal, State, local, Tribal, and territorial entities and public and private health care entities that the Secretary determines may be affected by a public health emergency or potential public health emergency referred to in paragraph (1) (including communication of such entities with relevant international entities, as applicable);
+
+&emsp;&emsp;(B) make grants, provide for awards, enter into contracts, and conduct supportive investigations pertaining to a public health emergency or potential public health emergency, including further supporting programs under section 247d–3a, 247d–3b, or 247d–3c of this title;
+
+&emsp;&emsp;(C) facilitate and accelerate, as applicable, advanced research and development of security countermeasures (as defined in section 247d–6b of this title), qualified countermeasures (as defined in section 247d–6a of this title), or qualified pandemic or epidemic products (as defined in section 247d–6d of this title), that are applicable to the public health emergency or potential public health emergency under paragraph (1);
+
+&emsp;&emsp;(D) strengthen biosurveillance capabilities and laboratory capacity to identify, collect, and analyze information regarding such public health emergency or potential public health emergency, including the systems under section 247d–4 of this title;
+
+&emsp;&emsp;(E) support initial emergency operations and assets related to preparation and deployment of intermittent disaster response personnel under section 300hh–11 of this title and the Medical Reserve Corps under section 300hh–15 of this title; and
+
+&emsp;&emsp;(F) carry out other activities, as the Secretary determines applicable and appropriate.
+
+#### (3) Report
 
 &emsp;Not later than 90 days after the end of each fiscal year, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Commerce and the Committee on Appropriations of the House of Representatives a report describing—
 
@@ -24,9 +40,21 @@ If the Secretary determines, after consultation with such public health official
 
 &emsp;&emsp;(B) each public health emergency for which the expenditures were made and the activities undertaken with respect to each emergency which was conducted or supported by expenditures from the Fund.
 
+#### (4) Review
+
+&emsp;Not later than 2 years after June 24, 2019, the Secretary, in coordination with the Assistant Secretary for Preparedness and Response, shall conduct a review of the Fund under this section and provide recommendations to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives on policies to improve such Fund for the uses described in paragraph (2).
+
+#### (5) GAO report
+
+&emsp;Not later than 4 years after June 24, 2019, the Comptroller General of the United States shall—
+
+&emsp;&emsp;(A) conduct a review of the Fund under this section, including its uses and the resources available in the Fund; and
+
+&emsp;&emsp;(B) submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on such review, including recommendations related to such review, as applicable.
+
 #### (c) Supplement not supplant
 
-Funds appropriated under this section shall be used to supplement and not supplant other Federal, State, and local public funds provided for activities under this section.
+Funds appropriated under this section shall be used to rapidly respond to public health emergencies or potential public health emergencies and supplement and not supplant other Federal, State, and local public funds provided for activities under this chapter or funds otherwise provided for emergency response.
 
 #### (d) Data submittal and reporting deadlines
 
@@ -88,7 +116,7 @@ In any case in which the Secretary determines that, wholly or partially as a res
 
 #### (A) In general
 
-&emsp;&emsp;Unless otherwise provided under the law or regulation of the State or Indian tribe that receives authorization for temporary reassignment of personnel under paragraph (1),personnel eligible for reassignment pursuant to such authorization—
+&emsp;&emsp;Unless otherwise provided under the law or regulation of the State or Indian tribe that receives authorization for temporary reassignment of personnel under paragraph (1), personnel eligible for reassignment pursuant to such authorization—
 
 &emsp;&emsp;&emsp;(i) shall have the opportunity to volunteer for temporary reassignment; and
 
@@ -138,7 +166,7 @@ In any case in which the Secretary determines that, wholly or partially as a res
 
 #### (8) Sunset
 
-&emsp;This subsection shall terminate on September 30, 2018.
+&emsp;This subsection shall terminate on September 30, 2023.
 
 #### (f) Determination with respect to Paperwork Reduction Act waiver during a public health emergency
 
@@ -176,7 +204,7 @@ In any case in which the Secretary determines that, wholly or partially as a res
 
 &emsp;&emsp;An initiative subject to a waiver under paragraph (1) that is ongoing after the date on which the waiver expires, shall be subject to the requirements of subchapter I of chapter 35 of title 44 and the Secretary shall ensure that compliance with such requirements occurs in as timely a manner as possible based on the applicable circumstances, but not to exceed 30 calendar days after the expiration of the applicable waiver.
 
-(July 1, 1944, ch. 373, title III, §319, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315; amended Pub. L. 107–188, title I, §§141, 144(a), 158, June 12, 2002, 116 Stat. 626, 630, 633; Pub. L. 113–5, title II, §201, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–255, div. A, title III, §3087, Dec. 13, 2016, 130 Stat. 1147.)
+(July 1, 1944, ch. 373, title III, §319, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315; amended Pub. L. 107–188, title I, §§141, 144(a), 158, June 12, 2002, 116 Stat. 626, 630, 633; Pub. L. 113–5, title II, §201, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–255, div. A, title III, §3087, Dec. 13, 2016, 130 Stat. 1147; Pub. L. 116–22, title II, §206, title VII, §701(c), June 24, 2019, 133 Stat. 925, 961.)
 
 #### Prior Provisions
 
@@ -184,11 +212,17 @@ A prior section 247d, act July 1, 1944, ch. 373, title III, §319, as added Pub.
 
 Another prior section 247d, act July 1, 1944, ch. 373, title III, §319, formerly §310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592, and amended and renumbered, which related to migrant health centers, was renumbered section 329 of act July 1, 1944, by Pub. L. 95–626, title I, §102(a), Nov. 10, 1978, 92 Stat. 3551, and transferred to section 254b of this title, prior to being omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2.
 
-#### Change of Name
-
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(1). Pub. L. 116–22, §206(1)(A), substituted "under such subsection or if the Secretary determines there is the significant potential for a public health emergency, to allow the Secretary to rapidly respond to the immediate needs resulting from such public health emergency or potential public health emergency. The Secretary shall plan for the expedited distribution of funds to appropriate agencies and entities." for "under such subsection."
+
+Subsec. (b)(2), (3). Pub. L. 116–22, §206(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (b)(4), (5). Pub. L. 116–22, §206(1)(D), added pars. (4) and (5).
+
+Subsec. (c). Pub. L. 116–22, §206(2), inserted "rapidly respond to public health emergencies or potential public health emergencies and" after "used to" and substituted "activities under this chapter or funds otherwise provided for emergency response." for "activities under this section."
+
+Subsec. (e)(8). Pub. L. 116–22, §701(c), substituted "2023" for "2018".
 
 <b>2016</b>—Subsec. (f). Pub. L. 114–255 added subsec. (f).
 
@@ -199,6 +233,10 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 Pub. L. 107–188, §144(a), inserted at end of concluding provisions "Any such determination of a public health emergency terminates upon the Secretary declaring that the emergency no longer exists, or upon the expiration of the 90-day period beginning on the date on which the determination is made by the Secretary, whichever occurs first. Determinations that terminate under the preceding sentence may be renewed by the Secretary (on the basis of the same or additional facts), and the preceding sentence applies to each such renewal. Not later than 48 hours after making a determination under this subsection of a public health emergency (including a renewal), the Secretary shall submit to the Congress written notification of the determination."
 
 Subsec. (d). Pub. L. 107–188, §141, added subsec. (d).
+
+#### Change of Name
+
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 2002 Amendment
 

@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Federal agency head
 
-&emsp;The term "Federal agency head" means the head of any executive, legislative, or judicialbranch Government entity that employs Federal law enforcement officers.
+&emsp;The term "Federal agency head" means the head of any executive, legislative, or judicial branch Government entity that employs Federal law enforcement officers.
 
 #### (2) Federal Board
 
@@ -66,7 +66,7 @@ In this chapter:
 
 &emsp;&emsp;(C) whose duties are primarily—
 
-&emsp;&emsp;&emsp;(i) engagement in or supervision of the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law; or
+&emsp;&emsp;&emsp;(i) engagement in or supervision of the prevention, detection, investigation, orprosecution of, or the incarceration of any person for, any violation of law; or
 
 &emsp;&emsp;&emsp;(ii) the protection of Federal, State, local, or foreign government officials against threats to personal safety.
 

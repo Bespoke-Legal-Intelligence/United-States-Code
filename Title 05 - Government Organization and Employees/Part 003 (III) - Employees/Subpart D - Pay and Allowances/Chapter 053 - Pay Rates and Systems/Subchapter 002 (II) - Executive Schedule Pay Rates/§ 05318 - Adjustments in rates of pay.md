@@ -30,7 +30,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–194, title VII, §704(b), Nov. 30, 1989, 103 Stat. 1769, provided that: "This section and the amendments made by this section \[amending this section, section 4501 of Title 2, The Congress, section 104 of Title 3, The President, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1991."
+Pub. L. 101–194, title VII, §704(b), Nov. 30, 1989, 103 Stat. 1769, provided that: "This section and the amendments made by this section \[amending this section, section 4501 of Title 2, The Congress, section 104 of Title 3, The President, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set outas a note under this section\] shall take effect on January 1, 1991."
 
 #### Salary Levels of Senior Government Officials
 
@@ -60,7 +60,7 @@ Exceptions.—Nothing in subparagraph (A) shall affect the rate of basic pay for
 
 &emsp;"(3)
 
-Judicial positions.—Effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the Chief Justice of the United States, an associate justice of the Supreme Court of the United States, a judge of a United States circuit court, a judge of a district court of the United States, and a judge of the UnitedStates Court of International Trade shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
+Judicial positions.—Effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the Chief Justice of the United States, an associate justice of the Supreme Court of the United States, a judge of a United States circuit court, a judge of a district court of the United States, and a judge of the United States Court of International Trade shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
 
 "(b)
 
@@ -130,7 +130,7 @@ Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, reduced
 
 #### Fiscal Year 1983 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Section 306(a), (b), and (d) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, made applicable by Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, as amended by Pub. L. 97–377, title I, §129(a), Dec. 21, 1982, 96 Stat. 1914, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1983, to pay the salary or pay of any individual in an office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1982, if that rate was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
+Section 306(a), (b), and (d) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, made applicable by Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, as amended by Pub. L. 97–377, title I, §129(a), Dec. 21, 1982, 96 Stat. 1914, prohibited the use of fundsappropriated for the fiscal year ending Sept. 30, 1983, to pay the salary or pay of any individual in an office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1982, if that rate was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
 
 #### Fiscal Year 1982 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
@@ -138,7 +138,7 @@ Section 305(a), (b), and (d) of H.R. 4120, as reported July 9, 1981, made applic
 
 Similar provisions were contained in Pub. L. 97–51, §101(c), Oct. 1, 1981, 95 Stat. 959, as amended by Pub. L. 97–85, Nov. 23, 1981, 95 Stat. 1098.
 
-Pub. L. 97–92, §141, Dec. 15, 1981, 95 Stat. 1200, provided that nothing in section 305 of H.R. 4120, made applicable by section 101(g) of Pub. L. 97–92, required that the rate of salary or basic pay, payable to any individual for or on account of services performed after Dec. 31, 1981, be limited to or reduced to an amount which was less than $59,500 for pay corresponding to the rate of basic pay for level III of the Executive Schedule undersection 5314 of this title; $58,500 for pay corresponding to the rate of basic pay for level IV of the Executive Schedule under section 5315 of this title; or $57,500 for pay corresponding to the rate of basic pay for level V of the Executive Schedule under section 5316 of this title. Any adjustment to the pay of an employee paid by the Clerk of the House was to result in pay no less than that of an employee paid by the Secretary of the Senate holding an equivalent position.
+Pub. L. 97–92, §141, Dec. 15, 1981, 95 Stat. 1200, provided that nothing in section 305 of H.R. 4120, made applicable by section 101(g) of Pub. L. 97–92, required that the rate of salary or basic pay, payable to any individual for or on account of services performed after Dec. 31, 1981, be limited to or reduced to an amount which was less than $59,500 for pay corresponding to the rate of basic pay for level III of the Executive Schedule under section 5314 of this title; $58,500 for pay corresponding to the rate of basic pay for level IV of the Executive Schedule under section 5315 of this title; or $57,500 for pay corresponding to the rate of basic pay for level V of the Executive Schedule under section 5316 of this title. Any adjustment to the pay of an employee paid by the Clerk of the House was to result in pay no less than that of an employee paid by the Secretary of the Senate holding an equivalent position.
 
 #### Fiscal Year 1981 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 

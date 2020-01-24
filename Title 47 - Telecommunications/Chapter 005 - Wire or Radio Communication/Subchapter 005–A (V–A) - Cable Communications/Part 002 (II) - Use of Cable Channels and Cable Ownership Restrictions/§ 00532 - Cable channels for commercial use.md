@@ -92,7 +92,7 @@ Any cable service offered pursuant to this section shall not be provided, or sha
 
 (2) Cable operators shall comply with the regulations promulgated pursuant to paragraph (1).
 
-(June 19, 1934, ch. 652, title VI, §612, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2782;amended Pub. L. 102–385, §§9, 10(a), (b), Oct. 5, 1992, 106 Stat. 1484, 1486; Pub. L. 104–104, title V, §506(b), Feb. 8, 1996, 110 Stat. 137.)
+(June 19, 1934, ch. 652, title VI, §612, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2782; amended Pub. L. 102–385, §§9, 10(a), (b), Oct. 5, 1992, 106 Stat. 1484, 1486; Pub. L. 104–104, title V, §506(b), Feb. 8, 1996, 110 Stat. 137.)
 
 #### Constitutionality
 

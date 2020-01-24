@@ -6,7 +6,7 @@ The Secretary shall develop and conduct, in accordance with the purpose and prov
 
 #### (b) Consultation by Secretary with other Federal departments and agencies on development and publication in Federal Register of proposed regulations; required regulatory provisions; standards and procedures; rental units
 
-(1) The Secretary, after consultation with the Director, the Secretary of Housing and Urban Development, the Secretary of Health and Human Services, the Secretary of Labor, and the heads of such other Federal departments and agencies as the Secretary deems appropriate, shall develop and publish in the Federal Register for public comment, not later than 60 days after August 14, 1976, proposed regulations to carry out the provisions of this part. The Secretary shall take into consideration comments submitted regarding such proposed regulations and shall promulgate and publish final regulations for such purpose not later than 90 days after August 14, 1976. The development of regulations under this part shall be fully coordinated with the Director.
+(1) The Secretary, after consultation with the Director, the Secretary of Housing and UrbanDevelopment, the Secretary of Health and Human Services, the Secretary of Labor, and the heads of such other Federal departments and agencies as the Secretary deems appropriate, shall develop and publish in the Federal Register for public comment, not later than 60 days after August 14, 1976, proposed regulations to carry out the provisions of this part. The Secretary shall take into consideration comments submitted regarding such proposed regulations and shall promulgate and publish final regulations for such purpose not later than 90 days after August 14, 1976. The development of regulations under this part shall be fully coordinated with the Director.
 
 (2) The regulations promulgated pursuant to this section shall include provisions—
 
@@ -114,7 +114,7 @@ Subsec. (b)(3). Pub. L. 95–619, §231(b)(1), added par. (3).
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a noteunder section 8332 of Title 5, Government Organization and Employees.
 
 #### Weatherization Assistance Grants Cost Sharing
 

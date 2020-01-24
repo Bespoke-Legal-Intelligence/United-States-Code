@@ -12,7 +12,7 @@
 
 #### (3) Use of funds
 
-&emsp;Grants awarded under this subsection shall be used for activities that enhance the ability of an institution of higher education (or consortium thereof) to provide high-quality undergraduate and master's degree programs in computer and network security and to recruit and retain increased numbers of students to such programs. Activities may include—
+&emsp;Grants awarded under this subsection shall be used for activities that enhance the ability of an institution of higher education (or consortium thereof) to provide high-quality undergraduate and master's degree programs incomputer and network security and to recruit and retain increased numbers of students to such programs. Activities may include—
 
 &emsp;&emsp;(A) revising curriculum to better prepare undergraduate and master's degree students for careers in computer and network security;
 
@@ -58,7 +58,7 @@
 
 #### (5) Assessment required
 
-&emsp;The Director shall evaluate the program established under this subsection no later than 6 years after the establishment of the program. At a minimum, the Director shall evaluate the extent to which the program achieved its objectives of increasing the quality and quantityof students, including students from groups historically underrepresented in computer and network security related disciplines, pursuing undergraduate or master's degrees in computer and network security.
+&emsp;The Director shall evaluate the program established under this subsection no later than 6 years after the establishment of the program. At a minimum, the Director shall evaluate the extent to which the program achieved its objectives of increasing the quality and quantity of students, including students from groups historically underrepresented in computer and network security related disciplines, pursuing undergraduate or master's degrees in computer and network security.
 
 #### (6) Authorization of appropriations
 
@@ -190,7 +190,7 @@ Computer and network security shall be included among the fields of specializati
 
 &emsp;Each graduate traineeship shall—
 
-&emsp;&emsp;(A) subject to paragraph (5)(B), be subject to full repayment upon completion of the doctoral degree according to a repayment schedule established and administered by the institution of higher education;
+&emsp;&emsp;(A) subject to paragraph (5)(B), be subject to full repayment upon completion of thedoctoral degree according to a repayment schedule established and administered by the institution of higher education;
 
 &emsp;&emsp;(B) be forgiven at the rate of 20 percent of the total amount of the graduate traineeship assistance received under this section for each academic year that a recipient is employed as a full-time faculty member at an institution of higher education for a period not to exceed 5 years; and
 

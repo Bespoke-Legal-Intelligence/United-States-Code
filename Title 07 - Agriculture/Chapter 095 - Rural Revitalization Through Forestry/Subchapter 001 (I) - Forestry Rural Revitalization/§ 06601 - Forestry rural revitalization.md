@@ -68,5 +68,5 @@ Amendment by section 7511(c)(25) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
 #### Short Title
 
-Pub. L. 101–624, title XXIII, §2372, Nov. 28, 1990, 104 Stat. 4046, provided that: "This chapter \[chapter 2\(§§2372–2379) of subtitle G of title XXIII of Pub. L. 101–624, enacting subchapter II (§6611 et seq.) of this chapter\] may be cited as the 'National Forest-Dependent Rural Communities Economic Diversification Act of 1990'."
+Pub. L. 101–624, title XXIII, §2372, Nov. 28, 1990, 104 Stat. 4046, provided that: "This chapter \[chapter 2 (§§2372–2379) of subtitle G of title XXIII of Pub. L. 101–624, enacting subchapter II (§6611 et seq.) of this chapter\] may be cited as the 'National Forest-Dependent Rural Communities Economic Diversification Act of 1990'."
 

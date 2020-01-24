@@ -26,7 +26,7 @@ Chemical weapon.—The term "chemical weapon" has the meaning given that term in
 
 &emsp;(4)
 
-Explosive or incendiary device.—The term "explosive or incendiary device" has the meaning given the term in section 232(5) and includes explosive materials, as that term is defined in section 841(c) and explosive as defined in section 844(j).
+Explosive or incendiary device.—The term "explosive or incendiary device" has the meaning given the term in section 232(5) andincludes explosive materials, as that term is defined in section 841(c) and explosive as defined in section 844(j).
 
 &emsp;(5)
 

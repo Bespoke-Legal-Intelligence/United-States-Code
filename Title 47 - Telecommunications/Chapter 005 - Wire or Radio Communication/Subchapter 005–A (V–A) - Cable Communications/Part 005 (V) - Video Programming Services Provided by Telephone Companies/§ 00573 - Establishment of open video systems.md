@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) if demand exceeds the channel capacity of the open video system, prohibit an operator of an open video system and its affiliates from selecting the video programming services for carriage on more than one-third of the activated channel capacity on such system, but nothing in this subparagraph shall be construed to limit the number of channels that the carrier and its affiliates may offer to provide directly to subscribers;
 
-&emsp;&emsp;(C) permit an operator of an open video system to carry on only one channel any video programming service that is offered by more than one video programming provider (including the local exchange carrier's video programming affiliate): <i>Provided</i>, That subscribers have ready and immediate access to any such video programming service;
+&emsp;&emsp;(C) permit an operator of an open video system to carry on only one channel any video programming service that is offered by more than one video programming provider\(including the local exchange carrier's video programming affiliate): <i>Provided</i>, That subscribers have ready and immediate access to any such video programming service;
 
 &emsp;&emsp;(D) extend to the distribution of video programming over open video systems the Commission's regulations concerning sports exclusivity (47 C.F.R. 76.67), network nonduplication (47 C.F.R. 76.92 et seq.), and syndicated exclusivity (47 C.F.R. 76.151 et seq.); and
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretaries of the Interior and of Health and Human Services to promulgate; time restriction
 
-(1) Except as may be specifically authorized in this subsection, or in any other provision of this chapter, the Secretary of the Interior and the Secretary of Health and Human Services may not promulgate any regulation, nor impose any nonregulatory requirement, relating to self-determination contracts or the approval, award, or declination of such contracts, except that the Secretary of the Interior and the Secretary of Health and Human Services may promulgate regulations under this chapter relating to chapter 171 of title 28, commonly known as the "Federal Tort Claims Act", chapter 71 of title 41, declination and waiver procedures, appeal procedures, reassumption procedures, discretionary grant procedures for grants awarded under section 5322 of this title, property donation procedures arising under section 5324(f) of this title,internal agency procedures relating to the implementation of this chapter, retrocession and tribal organization relinquishment procedures, contract proposal contents, conflicts of interest, construction, programmatic reports and data requirements, procurement standards, property management standards, and financial management standards.
+(1) Except as may be specifically authorized in this subsection, or in any other provision of this chapter, the Secretary of the Interior and the Secretary of Health and Human Services may not promulgate any regulation, nor impose any nonregulatory requirement, relating to self-determination contracts or the approval, award, or declination of such contracts, except that the Secretary of the Interior and the Secretary of Health and Human Services may promulgate regulations under this chapter relating to chapter 171 of title 28, commonly known as the "Federal Tort Claims Act", chapter 71 of title 41, declination and waiver procedures, appeal procedures, reassumption procedures, discretionary grant procedures for grants awarded under section 5322 of this title, property donation procedures arising under section 5324(f) of this title, internal agency procedures relating to the implementation of this chapter, retrocession and tribal organization relinquishment procedures, contract proposal contents, conflicts of interest, construction, programmatic reports and data requirements, procurement standards, property management standards, and financial management standards.
 
 (2)(A) The regulations promulgated under this chapter, including the regulations referred to in this subsection, shall be promulgated—
 
@@ -28,7 +28,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 &emsp;(i) subchapter III of chapter 5 of title 5, commonly known as the "Negotiated Rulemaking Act of 1990"; and
 
-&emsp;(ii) the recommendations of the Administrative Conference of the United States numbered 82–4 and 85–5 entitled "Procedures for Negotiating Proposed Regulations" under sections 305.82–4 and 305.85–5 of title 1, Code of Federal Regulations, and any successor recommendation or law (including any successor regulation).
+&emsp;(ii) the recommendations of the Administrative Conference of the United States numbered82–4 and 85–5 entitled "Procedures for Negotiating Proposed Regulations" under sections 305.82–4 and 305.85–5 of title 1, Code of Federal Regulations, and any successor recommendation or law (including any successor regulation).
 
 (B) The tribal participants in the negotiation process referred to in subparagraph (A) shall be nominated by and shall represent the groups described in this paragraph and shall include tribal representatives from all geographic regions.
 
@@ -48,7 +48,7 @@ The Secretary may, with respect to a contract entered into under this chapter, m
 
 This chapter, referred to in subsecs. (a), (b), (d)(2)(A), (D), and (e), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Indian Self-Determination Contract Reform Act of 1994, referred to in subsec. (d)(2)(C), is title I of Pub.L. 103–413, Oct. 25, 1994, 108 Stat. 4250, which enacted section 5329 of this title, amended this section and sections 5304, 5305, 5307, 5321, 5324, 5325, 5330, and 5331 of this title, and enacted provisions set out as a note under section 5301 of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Contract Reform Act of 1994, referred to in subsec. (d)(2)(C), is title I of Pub. L. 103–413, Oct. 25, 1994, 108 Stat. 4250, which enacted section 5329 of this title, amended this section and sections 5304, 5305, 5307, 5321, 5324, 5325, 5330, and 5331 of this title, and enacted provisions set out as a note under section 5301 of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 5301 of this title and Tables.
 
 #### Codification
 
@@ -84,7 +84,7 @@ Subsecs. (d), (e). Pub. L. 103–413, §105(2), added subsecs. (d) and (e).
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–644 inserted ", with the participation of Indian tribes and tribal organizations," after "authorized".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–472, §207(a), substituted "Health and Human Services" for "Health, Education, and Welfare", and inserted proviso relating to promulgation of Federal requirements for self-determination contracts as regulations.
+<b>1988</b>—Subsec. (a). Pub. L. 100–472, §207(a), substituted "Health and Human Services" for "Health, Education,and Welfare", and inserted proviso relating to promulgation of Federal requirements for self-determination contracts as regulations.
 
 Subsec. (b). Pub. L. 100–472, §207(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 

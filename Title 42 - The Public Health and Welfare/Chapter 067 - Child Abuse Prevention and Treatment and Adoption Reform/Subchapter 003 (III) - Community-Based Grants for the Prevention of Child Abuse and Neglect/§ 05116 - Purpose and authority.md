@@ -4,7 +4,7 @@
 
 It is the purpose of this subchapter—
 
-&emsp;(1) to support community-based efforts to develop, operate, expand, enhance, and coordinate initiatives, programs, and activities to prevent child abuse and neglect and to support the coordination of resources and activities, tobetter strengthen and support families to reduce the likelihood of child abuse and neglect; and
+&emsp;(1) to support community-based efforts to develop, operate, expand, enhance, and coordinate initiatives, programs, and activities to prevent child abuse and neglect and to support the coordination of resources and activities, to better strengthen and support families to reduce the likelihood of child abuse and neglect; and
 
 &emsp;(2) to foster an understanding, appreciation, and knowledge of diverse populations in order to be effective in preventing and treating child abuse and neglect.
 
@@ -60,7 +60,7 @@ Subsec. (b)(1). Pub. L. 111–320, §132(2)(B)(i), in introductory provisions, i
 
 Subsec. (b)(1)(E). Pub. L. 111–320, §132(2)(B)(ii), inserted ", including access to such resources and opportunities for unaccompanied homeless youth" before semicolon at end.
 
-Subsec. (b)(1)(G). Pub. L. 111–320, §132(2)(B)(iii), added subpar. (G) and struck out former subpar. (G) which read as follows: "demonstrate a commitment to meaningful parent leadership, including among parents of children with disabilities, parents with disabilities, racial and ethnic minorities, and members of other underrepresented or underserved groups; and".
+Subsec. (b)(1)(G). Pub. L. 111–320, §132(2)(B)(iii), added subpar. (G) and struck out former subpar. (G) whichread as follows: "demonstrate a commitment to meaningful parent leadership, including among parents of children with disabilities, parents with disabilities, racial and ethnic minorities, and members of other underrepresented or underserved groups; and".
 
 Subsec. (b)(2). Pub. L. 111–320, §132(2)(C), inserted ", including unaccompanied homeless youth," after "children and families".
 

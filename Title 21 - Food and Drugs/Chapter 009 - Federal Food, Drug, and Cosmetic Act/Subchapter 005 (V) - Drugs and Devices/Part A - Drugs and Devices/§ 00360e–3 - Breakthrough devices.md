@@ -20,7 +20,7 @@ The Secretary shall establish a program to expedite the development of, and prov
 
 #### (c) Request for designation
 
-A sponsor of a device may request that the Secretary designate such device for expedited development and priority review under this section. Any such request for designation may bemade at any time prior to the submission of an application under section 360e(c) of this title, a notification under section 360(k) of this title, or a petition for classification under section 360c(f)(2) of this title.
+A sponsor of a device may request that the Secretary designate such device for expedited development and priority review under this section. Any such request for designation may be made at any time prior to the submission of an application under section 360e(c) of this title, a notification under section 360(k) of this title, or a petition for classification under section 360c(f)(2) of this title.
 
 #### (d) Designation process
 

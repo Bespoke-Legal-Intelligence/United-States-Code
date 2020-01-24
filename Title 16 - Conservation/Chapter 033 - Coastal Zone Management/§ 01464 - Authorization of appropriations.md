@@ -72,7 +72,7 @@ Subsec. (a)(3). Pub. L. 96–464, §13(1), substituted authorization of appropri
 
 Subsec. (a)(4). Pub. L. 96–464, §13(1), redesignated par. (5) as (4) and substituted authorization of appropriation of $3,000,000 for each of the fiscal years 1981 through 1985, for authorization of appropriation of $5,000,000 for each of the fiscal years 1977 through 1980. Former par. (4), which authorized appropriation of $5,000,000 for each of the fiscal years 1979 through 1983 for grants under section 1456a(c)(2) of this title, was struck out.
 
-Subsec. (a)(5). Pub. L. 96–464, §13(1), combined in par. (5), authorization of appropriation of $31,000,000 for grants under section 1461 of this title for fiscal years1977 through 1980 formerly contained in pars. (7) and (8), and authorized appropriation of $9,000,000 for grants under section 1461 of this title for fiscal years 1981 through 1985. Former par. (5) redesignated (4).
+Subsec. (a)(5). Pub. L. 96–464, §13(1), combined in par. (5), authorization of appropriation of $31,000,000 for grants under section 1461 of this title for fiscal years 1977 through 1980 formerly contained in pars. (7) and (8), and authorized appropriation of $9,000,000 for grants under section 1461 of this title for fiscal years 1981 through 1985. Former par. (5) redesignated (4).
 
 Subsec. (a)(6). Pub. L. 96–464, §13(1), redesignated par. (9) as (6) and substituted authorization of appropriation of $6,000,000 for fiscal years 1981 through 1985, for authorization of appropriation of $5,000,000 for fiscal years 1977 through 1980. Former par. (6), which contained authorization of appropriation of $10,000,000 for fiscal years 1977 through 1980 for financial assistance under section 1456c of this title with equal division between subsecs. (a) and (b), was struck out.
 
@@ -100,7 +100,7 @@ Subsec. (b). Pub. L. 94–370, §14, substituted provisions authorizing appropri
 
 Subsec. (c). Pub. L. 94–370, §14, added subsec. (c).
 
-<b>1975</b>—Subsec. (a)(1). Pub. L. 93–612, §1(3)(A), increased from $9,000,000 to $12,000,000 the sums authorized to be appropriated for the 3 fiscal years following the fiscal year 1974.
+<b>1975</b>—Subsec. (a)(1). Pub. L. 93–612, §1(3)(A), increased from $9,000,000 to $12,000,000 the sums authorized to beappropriated for the 3 fiscal years following the fiscal year 1974.
 
 Subsec. (a)(3). Pub. L. 93–612, §1(3)(B), inserted "and for each of the three succeeding fiscal years," after "fiscal year ending June 30, 1974,".
 

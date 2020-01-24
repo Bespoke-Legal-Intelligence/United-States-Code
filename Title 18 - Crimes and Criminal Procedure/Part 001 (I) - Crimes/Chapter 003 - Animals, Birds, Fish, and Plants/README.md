@@ -8,7 +8,7 @@
 | \[44, 45. | Repealed.\] |
 | [46\.](%C2%A7%2000046%20-%20Transportation%20of%20water%20hyacinths.md) | Transportation of water hyacinths. |
 | [47\.](%C2%A7%2000047%20-%20Use%20of%20aircraft%20or%20motor%20vehicles%20to%20hunt%20certain%20wild%20horses%20or%20burros%3B%20pollution%20of%20watering%20holes.md) | Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes. |
-| [48\.](%C2%A7%2000048%20-%20Animal%20crush%20videos.md) | Animal crush videos. |
+| [48\.](%C2%A7%2000048%20-%20Animal%20crushing.md) | Animal crushing. |
 | [49\.](%C2%A7%2000049%20-%20Enforcement%20of%20animal%20fighting%20prohibitions.md) | Enforcement of animal fighting prohibitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,6 +18,8 @@
 The criminal provisions of the Migratory Bird Treaty Act, sections 703–711 of title 16, U.S.C., 1940 ed., Conservation, and the Migratory Bird Conservation Act, sections 715–715r of title 16, U.S.C., 1940 ed., Conservation, were considered for inclusion in this chapter. Since these provisions, except parts of sections 704–707 of said title 16, are so inextricably interwoven with the Migratory Bird Acts, it was found advisable to exclude them.
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–72, §2(b), Nov. 25, 2019, 133 Stat. 1152, substituted "Animal crushing" for "Animal crush videos" in item 48.
 
 <b>2010</b>—Pub. L. 111–294, §3(b), Dec. 9, 2010, 124 Stat. 3179, substituted "Animal crush videos" for "Depiction of animal cruelty" in item 48.
 
@@ -47,5 +49,5 @@ The criminal provisions of the Migratory Bird Treaty Act, sections 703–711 of 
 - [&sect; 00045 - Repealed. Pub. L. 101&#8211;647, title XII, &sect;1206(a), Nov. 29, 1990, 104 Stat. 4832](%C2%A7%2000045%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93647%2C%20title%20XII%2C%20%C2%A71206%28a%29%2C%20Nov.%2029%2C%201990%2C%20104%20Stat.%204832.md)
 - [&sect; 00046 - Transportation of water hyacinths](%C2%A7%2000046%20-%20Transportation%20of%20water%20hyacinths.md)
 - [&sect; 00047 - Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes](%C2%A7%2000047%20-%20Use%20of%20aircraft%20or%20motor%20vehicles%20to%20hunt%20certain%20wild%20horses%20or%20burros%3B%20pollution%20of%20watering%20holes.md)
-- [&sect; 00048 - Animal crush videos](%C2%A7%2000048%20-%20Animal%20crush%20videos.md)
+- [&sect; 00048 - Animal crushing](%C2%A7%2000048%20-%20Animal%20crushing.md)
 - [&sect; 00049 - Enforcement of animal fighting prohibitions](%C2%A7%2000049%20-%20Enforcement%20of%20animal%20fighting%20prohibitions.md)

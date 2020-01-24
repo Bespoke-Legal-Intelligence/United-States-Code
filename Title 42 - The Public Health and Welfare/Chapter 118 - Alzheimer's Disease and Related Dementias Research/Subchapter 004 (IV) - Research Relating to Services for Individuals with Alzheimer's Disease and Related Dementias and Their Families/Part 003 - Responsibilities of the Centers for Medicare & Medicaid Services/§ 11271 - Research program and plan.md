@@ -12,7 +12,7 @@ The Administrator of the Centers for Medicare \& Medicaid Services shall conduct
 
 &emsp;(B) provide for a determination of the costs of providing needed services to individuals with Alzheimer's disease and related dementias and their families, including the expenditures for institutional, home, and community-based services and the source of payment for such expenditures;
 
-&emsp;(C) provide for an assessment of the adequacy of benefits provided through the Medicare and Medicaid programs and through private health insurance for needed services for individuals with Alzheimer's disease and related dementias and their families; and
+&emsp;(C) provide for an assessment of the adequacy of benefits provided through the Medicare and Medicaid programs and through private health insurance for needed services forindividuals with Alzheimer's disease and related dementias and their families; and
 
 &emsp;(D) provide for a determination of the costs to the Medicare and Medicaid programs and to private health insurers (if available) of providing covered benefits to individuals with Alzheimer's disease and related dementias and their families.
 

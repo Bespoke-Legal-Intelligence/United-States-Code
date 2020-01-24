@@ -32,7 +32,7 @@ Subsec. (a)(2). Pub. L. 111–350, §5(a)(9)(B), substituted "section 7105(a)(1)
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title VIII, §847(g), Jan. 6, 2006, 119 Stat. 3395, provided that: "Section 42 of the Office of Federal Procurement Policy Act, as added by this section, and the amendments and repeals made by this section \[enacting section 438 of Title 41, Public Contracts, amending this section and sections 601 and 607 of Title 41, and enacting provisions set out as a note under section 607 of Title 41\], shall take effect 1 year after the date of the enactment of this Act \[Jan. 6, 2006\]."
+Pub. L. 109–163, div. A, title VIII, §847(g), Jan. 6, 2006, 119 Stat. 3395, provided that: "Section 42 of the Office of Federal Procurement Policy Act, as added by this section, and the amendments and repeals made by this section \[enacting section 438 of Title 41, Public Contracts, amending this section and sections 601 and 607 of Title 41, and enacting provisions set out as a noteunder section 607 of Title 41\], shall take effect 1 year after the date of the enactment of this Act \[Jan. 6, 2006\]."
 
 #### Effective Date
 

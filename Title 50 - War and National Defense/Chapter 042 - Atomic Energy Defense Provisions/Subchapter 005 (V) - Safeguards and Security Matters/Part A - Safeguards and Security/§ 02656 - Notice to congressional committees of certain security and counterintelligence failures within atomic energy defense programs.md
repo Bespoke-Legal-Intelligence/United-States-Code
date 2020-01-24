@@ -2,7 +2,7 @@
 
 #### (a) Required notification
 
-The Secretary of Energy shall submit to the Committees on Armed Services of the Senate and House of Representatives a notification of each significant atomic energy defense intelligence loss. Any such notification shall be provided only after consultation with the Director of National Intelligence and the Director of the Federal Bureau of Investigation, as appropriate.
+The Secretary of Energy shall submit to the Committees on Armed Services of the Senateand House of Representatives a notification of each significant atomic energy defense intelligence loss. Any such notification shall be provided only after consultation with the Director of National Intelligence and the Director of the Federal Bureau of Investigation, as appropriate.
 
 #### (b) Significant atomic energy defense intelligence losses
 

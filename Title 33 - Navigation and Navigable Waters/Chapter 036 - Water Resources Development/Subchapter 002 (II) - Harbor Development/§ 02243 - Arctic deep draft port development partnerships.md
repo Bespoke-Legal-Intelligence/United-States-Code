@@ -14,7 +14,7 @@ No assistance may be provided under this section until after the date on which t
 
 #### (d) Prioritization
 
-The Secretary shall prioritize technical assistance provided under this section for Arctic deep draft ports identified by the Secretary, the Secretary of the department in which the Coast Guard is operating, and the Secretary of Defense as important for Arctic development and security.
+The Secretary shall prioritize technical assistance provided under this section for Arctic deepdraft ports identified by the Secretary, the Secretary of the department in which the Coast Guard is operating, and the Secretary of Defense as important for Arctic development and security.
 
 #### (e) Consideration of national security interests
 

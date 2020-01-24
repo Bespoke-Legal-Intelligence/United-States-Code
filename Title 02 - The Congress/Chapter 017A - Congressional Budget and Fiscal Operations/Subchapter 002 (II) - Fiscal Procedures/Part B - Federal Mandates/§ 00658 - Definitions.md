@@ -112,7 +112,7 @@ For purposes of this part:
 
 #### (13) Tribal government
 
-&emsp;The term "tribal government" means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688; 43 U.S.C. 1601 et seq.) which is recognized as eligible for the special programs and services provided by the United States to Indians because of their special status as Indians.
+&emsp;The term "tribal government" means any Indian tribe, band, nation, or other organizedgroup or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688; 43 U.S.C. 1601 et seq.) which is recognized as eligible for the special programs and services provided by the United States to Indians because of their special status as Indians.
 
 (Pub. L. 93–344, title IV, §421, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 50; amended Pub. L. 113–67, div. A, title I, §122(14), Dec. 26, 2013, 127 Stat. 1176.)
 

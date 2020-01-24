@@ -12,7 +12,7 @@ Subject to this section:
 
 #### (B) Enhanced penalty for intentional violations
 
-&emsp;&emsp;If the State does not prove to the satisfaction of the Secretary that the State did not intend to use the amount in violation of this part, the Secretary shall further reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter by an amount equal to 5 percent of the State family assistance grant.
+&emsp;&emsp;If the State does not prove to the satisfaction of the Secretary that the State did not intend to use the amount in violation of this part, the Secretary shall further reduce thegrant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter by an amount equal to 5 percent of the State family assistance grant.
 
 #### (C) Penalty for misuse of competitive welfare-to-work funds
 
@@ -76,7 +76,7 @@ Subject to this section:
 
 #### (5) Failure to comply with paternity establishment and child support enforcement requirements under part D
 
-&emsp;Notwithstanding any other provision of this chapter, if the Secretary determines that the State agency that administers a program funded under this part does not enforce the penalties requested by the agency administering part D against recipients of assistance under the State program who fail to cooperate in establishing paternity or in establishing, modifying, or enforcing a child support order in accordance with such part and who do not qualify for any good cause or other exception established by the State under section 654(29) of this title, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year (without regard to this section) by not more than 5 percent.
+&emsp;Notwithstanding any other provision of this chapter, if the Secretary determines that the State agency that administers a program funded under this part does not enforce the penalties requested by the agency administering part D against recipients of assistance under the State program who fail to cooperatein establishing paternity or in establishing, modifying, or enforcing a child support order in accordance with such part and who do not qualify for any good cause or other exception established by the State under section 654(29) of this title, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year (without regard to this section) by not more than 5 percent.
 
 #### (6) Failure to timely repay a Federal Loan Fund for State Welfare Programs
 
@@ -102,7 +102,7 @@ Subject to this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) Child care assistance.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) Educational activities designed to increase self-sufficiency, job training, and work, excluding any expenditure for public education in the State except expenditures which involve the provision of services or assistance to a member of an eligible family which isnot generally available to persons who are not members of an eligible family.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) Educational activities designed to increase self-sufficiency, job training, and work, excluding any expenditure for public education in the State except expenditures which involve the provision of services or assistance to a member of an eligible family which is not generally available to persons who are not members of an eligible family.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) Administrative costs in connection with the matters described in items (aa), (bb), (cc), and (ee), but only to the extent that such costs do not exceed 15 percent of the total amount of qualified State expenditures for the fiscal year.
 
@@ -170,7 +170,7 @@ Subject to this section:
 
 &emsp;&emsp;If the Secretary finds, with respect to a State's program under part D, in a fiscal year beginning on or after October 1, 1997—
 
-&emsp;&emsp;&emsp;(i)(I) on the basis of data submitted by a State pursuant to section 654(15)(B) of this title, or on the basis of the results of a review conducted under section 652(a)(4) of this title, that the State program failed to achieve the paternity establishment percentages (as defined in section 652(g)(2) ofthis title), or to meet other performance measures that may be established by the Secretary;
+&emsp;&emsp;&emsp;(i)(I) on the basis of data submitted by a State pursuant to section 654(15)(B) of this title, or on the basis of the results of a review conducted under section 652(a)(4) of this title, that the State program failed to achieve the paternity establishment percentages (as defined in section 652(g)(2) of this title), or to meet other performance measures that may be established by the Secretary;
 
 &emsp;&emsp;&emsp;(II) on the basis of the results of an audit or audits conducted under section 652(a)(4)(C)(i) of this title that the State data submitted pursuant to section 654(15)(B) of this title is incomplete or unreliable; or
 
@@ -322,7 +322,7 @@ Subject to this section:
 
 &emsp;To the extent that paragraph (1) of this subsection prevents the Secretary from recovering during a fiscal year the full amount of penalties imposed on a State under subsection (a) of this section for a prior fiscal year, the Secretary shall apply any remaining amount of such penalties to the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year.
 
-(Aug. 14, 1935, ch. 531, title IV, §409, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2142; amended Pub. L. 105–33, title V, §§5001(a)(2), (g), 5004(a), 5506, 5514(c), Aug. 5, 1997, 111 Stat. 589, 592, 594, 613, 620; Pub. L. 105–200, title I, §101(b), July 16, 1998, 112 Stat. 647; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–287; Pub. L. 106–169, title IV, §401(b), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 108–40, §3(g), June 30, 2003, 117 Stat. 837; Pub. L. 108–89, title I, §101(b)(3), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–308, §2(b)(3), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–68, §2(b)(2)(C), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–171, title VII, §§7101(b)(3), 7102(c)(2), 7103(b), Feb. 8, 2006, 120 Stat. 135, 137, 140; Pub. L. 111–242, §131(b)(3), Sept. 30, 2010, 124 Stat. 2612; Pub. L. 111–291, title VIII, §812(b), Dec. 8, 2010, 124 Stat. 3162; Pub. L. 112–35, §2(b), Sept. 30, 2011, 125 Stat. 384; Pub. L. 112–96, title IV, §§4002(c), 4004(b), (d), 4005(b)–(d), Feb. 22, 2012, 126 Stat. 195, 197, 198.)
+(Aug. 14, 1935, ch. 531, title IV, §409, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2142; amended Pub. L. 105–33, title V, §§5001(a)(2), (g), 5004(a), 5506, 5514(c), Aug. 5, 1997,111 Stat. 589, 592, 594, 613, 620; Pub. L. 105–200, title I, §101(b), July 16, 1998, 112 Stat. 647; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–287; Pub. L. 106–169, title IV, §401(b), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 108–40, §3(g), June 30, 2003, 117 Stat. 837; Pub. L. 108–89, title I, §101(b)(3), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–308, §2(b)(3), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–68, §2(b)(2)(C), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–171, title VII, §§7101(b)(3), 7102(c)(2), 7103(b), Feb. 8, 2006, 120 Stat. 135, 137, 140; Pub. L. 111–242, §131(b)(3), Sept. 30, 2010, 124 Stat. 2612; Pub. L. 111–291, title VIII, §812(b), Dec. 8, 2010, 124 Stat. 3162; Pub. L. 112–35, §2(b), Sept. 30, 2011, 125 Stat. 384; Pub. L. 112–96, title IV, §§4002(c), 4004(b), (d), 4005(b)–(d), Feb. 22, 2012, 126 Stat. 195, 197, 198.)
 
 #### References in Text
 
@@ -410,7 +410,7 @@ Subsec. (a)(3)(A). Pub. L. 105–33, §5506(n)(1), struck out "not more than" af
 
 Subsec. (a)(3)(C). Pub. L. 105–33, §5506(n)(2), inserted before period at end "or if the noncompliance is due to extraordinary circumstances such as a natural disaster or regional recession. The Secretary shall provide a written report to Congress to justify any waiver or penalty reduction due to such extraordinary circumstances".
 
-Subsec. (a)(7)(B)(i)(I)(aa). Pub. L. 105–33, §5506(b), inserted before period at end ", including any amount collected by the State as support pursuant to a plan approved under part D, on behalf of a family receiving assistance under the State program funded under this part, that is distributed to the family under section 657(a)(1)(B) of this title and disregarded in determining the eligibility of the family for, and the amount of, such assistance".
+Subsec. (a)(7)(B)(i)(I)(aa). Pub. L. 105–33, §5506(b), inserted before period at end ", including any amount collected by the State as support pursuant to a plan approved under part D, on behalf of a family receiving assistance under the State program funded under thispart, that is distributed to the family under section 657(a)(1)(B) of this title and disregarded in determining the eligibility of the family for, and the amount of, such assistance".
 
 Subsec. (a)(7)(B)(i)(III). Pub. L. 105–33, §5506(c), added subcl. (III). Former subcl. (III) redesignated (IV).
 
@@ -488,7 +488,7 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date
 
-Section effective July 1, 1997, with delayed effective date for subsec. (a)(2)–(5), (8), (10) of this section, and with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with delayed effective date for subsec. (a)(2)–(5), (8), (10) of this section, and with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office ofAssistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

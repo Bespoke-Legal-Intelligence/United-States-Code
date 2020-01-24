@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to subsection (b), an individual entitled to educational assistance under this chapter shall also be entitled to benefits provided an eligible veteran under section 3492.
+In General.—Subject to subsection (b), an individual entitled to educational assistanceunder this chapter shall also be entitled to benefits provided an eligible veteran under section 3492.
 
 (b)
 

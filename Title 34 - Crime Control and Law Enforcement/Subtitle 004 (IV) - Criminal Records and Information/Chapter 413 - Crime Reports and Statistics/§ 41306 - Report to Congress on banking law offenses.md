@@ -22,7 +22,7 @@
 
 #### (2) Analysis and report
 
-&emsp;The Attorney General shall analyze and report to the Congress on the data described in paragraph (1) and its coordination and other related activities named in section 41501(c)(2) <sup>1</sup> of this title and shall provide such report on the data monthly through December 31, 1991, and quarterly after such date.
+&emsp;The Attorney General shall analyze and report to the Congress on the data described in paragraph (1) and its coordination and otherrelated activities named in section 41501(c)(2) <sup>1</sup> of this title and shall provide such report on the data monthly through December 31, 1991, and quarterly after such date.
 
 #### (b) Specifics of report
 

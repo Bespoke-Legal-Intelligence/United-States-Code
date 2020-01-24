@@ -34,5 +34,5 @@ In general.—The amendments made by this section \[amending this section and se
 
 "(2)
 
-Transitional provision.—The Board of Directors of the Farm Credit System Insurance Corporation asestablished by section 5.53 of the Farm Credit Act of 1971 (12 U.S.C. 2277a–2) (as it existed before the amendments made by subsection (a) of this section) shall continue in existence and continue to manage the Farm Credit System Insurance Corporation until at least two members are appointed by the President, by and with the advice and consent of the Senate, to the new Board established by section 5.53 of such Act (as amended by subsection (a) of this section)."
+Transitional provision.—The Board of Directors of the Farm Credit System Insurance Corporation as established by section 5.53 of the Farm Credit Act of 1971 (12 U.S.C. 2277a–2) (as it existed before the amendments made by subsection (a) of this section) shall continue in existence and continue to manage the Farm Credit System Insurance Corporation until at least two members are appointed by the President, by and with the advice and consent of the Senate, to the new Board established by section 5.53 of such Act (as amended by subsection (a) of this section)."
 

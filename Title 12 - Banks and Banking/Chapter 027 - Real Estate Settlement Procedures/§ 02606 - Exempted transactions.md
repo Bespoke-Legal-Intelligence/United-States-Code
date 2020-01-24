@@ -20,7 +20,7 @@ Subsection (a)(1) of this section, referred to in subsec. (b), was in the origin
 
 #### Prior Provisions
 
-A prior section 2606, Pub. L. 93–533, §7, Dec. 22, 1974, 88 Stat. 1727, related to seller or his agent confirming that information concerning an existing residence was disclosed to buyer in writing before a commitment for a mortgage loan was made, prior to repeal by Pub. L. 94–205, §6, Jan. 2, 1976, 89 Stat. 1158.
+A prior section 2606, Pub. L. 93–533, §7, Dec. 22, 1974, 88 Stat. 1727, related to seller or his agent confirmingthat information concerning an existing residence was disclosed to buyer in writing before a commitment for a mortgage loan was made, prior to repeal by Pub. L. 94–205, §6, Jan. 2, 1976, 89 Stat. 1158.
 
 #### Amendments
 

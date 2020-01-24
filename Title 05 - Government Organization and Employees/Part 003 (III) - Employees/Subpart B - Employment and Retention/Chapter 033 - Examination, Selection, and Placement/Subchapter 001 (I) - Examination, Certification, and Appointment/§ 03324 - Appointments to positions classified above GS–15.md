@@ -1,6 +1,6 @@
 ### §3324. Appointments to positions classified above GS–15
 
-(a) An appointment to a position classified above GS–15 pursuant to section 5108 may be made only on approval of the qualifications of the proposed appointee by the Director of the Office of Personnel Management on the basis of qualification standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director. This section does not apply to a position—
+(a) An appointment to a position classified above GS–15 pursuant to section 5108 may be made only on approval of the qualifications of the proposed appointee by the Director of the Office of Personnel Management on the basis of qualification standards developed by the agencyinvolved in accordance with criteria specified in regulations prescribed by the Director. This section does not apply to a position—
 
 &emsp;(1) to which appointment is made by the Chief Judge of the United States Tax Court;
 

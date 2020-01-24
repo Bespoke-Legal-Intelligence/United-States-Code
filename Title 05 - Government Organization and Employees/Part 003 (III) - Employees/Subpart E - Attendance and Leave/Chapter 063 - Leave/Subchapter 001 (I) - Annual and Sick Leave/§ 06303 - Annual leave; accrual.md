@@ -126,7 +126,7 @@ In General.—Except as otherwise provided in this section, this Act and the ame
 
 "(b)
 
-Exceptions.—(1) The amendment made by section 4(c) \[amending provisions set out as a note under section 4725 of Title 2, The Congress\] shall be effective as of December 31, 1991.
+Exceptions.—(1) The amendment made by section 4(c) \[amending provisions set out as a note undersection 4725 of Title 2, The Congress\] shall be effective as of December 31, 1991.
 
 "(2) The amendments made by section 5(d) \[amending section 8440d of this title\] shall be effective as of December 9, 1991.
 

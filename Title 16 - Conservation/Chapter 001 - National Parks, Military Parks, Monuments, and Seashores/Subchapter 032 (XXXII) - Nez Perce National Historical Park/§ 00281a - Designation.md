@@ -1,6 +1,6 @@
 ### §281a. Designation
 
-To implement this purpose the Secretary of the Interior may designate as the Nez Perce National Historical Park various component sites in Federal and non-Federal ownership relating to the early Nez Perce culture, the Lewis and Clark Expedition through the area, the furtrade, missionaries, gold mining and logging, the Nez Perce war of 1877, and such other sites as he finds will depict the role of the Nez Perce country in the westward expansion of the Nation. Sites to be so designated shall include—
+To implement this purpose the Secretary of the Interior may designate as the Nez Perce National Historical Park various component sites in Federal and non-Federal ownership relating to the early Nez Perce culture, the Lewis and Clark Expedition through the area, the fur trade, missionaries, gold mining and logging, the Nez Perce war of 1877, and such other sites as he finds will depict the role of the Nez Perce country in the westward expansion of the Nation. Sites to be so designated shall include—
 
 &emsp;(1) Tolo Lake, Idaho;
 

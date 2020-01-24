@@ -38,7 +38,7 @@ Changes were made in phraseology.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not to apply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of this title.
+Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not toapply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of this title.
 
 #### Effective Date of 1970 Amendment
 

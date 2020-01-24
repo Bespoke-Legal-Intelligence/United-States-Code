@@ -32,11 +32,11 @@ Net Tangible Benefit Test.—Except as provided in subsection (d) and notwithsta
 
 (c)
 
-Loan Seasoning.—Except as provided in subsection (d) and notwithstanding section 3703 of this title or any other provision of law, a loan to a veteran for a purpose specified in section 3710 of this title that is refinanced may not be guaranteed or insured under this chapter until the date that is the later of—
+Loan Seasoning.—Except as provided in subsection (d) and notwithstanding section 3703 of this title or any other provision of law, a loan to a veteran for a purpose specified in section 3710 of this title that is a refinance may not be guaranteed or insured under this chapter until the date that is the later of—
 
-&emsp;(1) the date that is 210 days after the date on which the first monthly payment is made on the loan; and
+&emsp;(1) the date on which the borrower has made at least six consecutive monthly payments on the loan being refinanced; and
 
-&emsp;(2) the date on which the sixth monthly payment is made on the loan.
+&emsp;(2) the date that is 210 days after the first payment due date of the loan being refinanced.
 
 (d)
 
@@ -44,11 +44,19 @@ Cash-out Refinances.—(1) Subsections (a) through (c) shall not apply in a case
 
 (2) Not later than 180 days after the date of the enactment of this section, the Secretary shall promulgate such rules as the Secretary considers appropriate with respect to refinancing described in paragraph (1) to ensure that such refinancing is in the financial interest of the borrower, including rules relating to recoupment, seasoning, and net tangible benefits.
 
-(Added Pub. L. 115–174, title III, §309(a)(1), May 24, 2018, 132 Stat. 1348.)
+(Added Pub. L. 115–174, title III, §309(a)(1), May 24, 2018, 132 Stat. 1348; amended Pub. L. 116–33, §2(b), July 25, 2019, 133 Stat. 1038.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 115–174, which was approved May 24, 2018.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (c). Pub. L. 116–33 substituted "is a refinance" for "is refinanced" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+
+"(1) the date that is 210 days after the date on which the first monthly payment is made on the loan; and
+
+"(2) the date on which the sixth monthly payment is made on the loan."
 
 #### Regulations
 
@@ -75,4 +83,8 @@ Effective date.—This paragraph shall take effect on the date of the enactment 
 "(D)
 
 Termination date.—The authorities under this paragraph shall terminate on the date that is 1 year after the date of the enactment of this Act."
+
+#### Construction of 2019 Amendment
+
+Amendment by Pub. L. 116–33 not to be construed to restrict or otherwise modify the authorities of the Government National Mortgage Association, see section 2(c) of Pub. L. 116–33, set out as a note under section 1721 of Title 12, Banks and Banking.
 

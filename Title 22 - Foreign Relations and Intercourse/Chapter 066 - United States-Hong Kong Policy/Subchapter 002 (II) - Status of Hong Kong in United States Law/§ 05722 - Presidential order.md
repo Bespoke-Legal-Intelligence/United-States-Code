@@ -10,7 +10,7 @@ In making a determination under subsection (a) with respect to the application o
 
 #### (c) Publication in Federal Register
 
-Any Executive order issued under subsection (a) shall be published in the Federal Register and shall specify the law or provision of law affected by the order.
+Any Executive order issued under subsection (a) shall be published in the Federal Registerand shall specify the law or provision of law affected by the order.
 
 #### (d) Termination of suspension
 

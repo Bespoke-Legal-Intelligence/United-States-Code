@@ -114,7 +114,7 @@ Each lender that has a preferred lender arrangement with a covered institution, 
 
 #### References in Text
 
-Section 1638(e) of title 15, referred to in subsec. (a)(2)(B)(ii), was in the original "section 128(e)", and was translated as meaning section 128(e) of Pub. L. 90–321, which is classified to section 1638(e) of title 15, to reflect the probable intent of Congress.
+Section 1638(e) of title 15, referred to in subsec. (a)(2)(B)(ii), was in the original "section 128(e)", andwas translated as meaning section 128(e) of Pub. L. 90–321, which is classified to section 1638(e) of title 15, to reflect the probable intent of Congress.
 
 #### Amendments
 

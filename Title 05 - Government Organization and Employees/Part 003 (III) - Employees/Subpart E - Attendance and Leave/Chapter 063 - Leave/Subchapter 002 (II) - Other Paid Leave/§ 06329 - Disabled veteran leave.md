@@ -1,6 +1,6 @@
 ### §6329. Disabled veteran leave
 
-(a) During the 12-month period beginning on the first day of employment, any employee who is a veteran with a service-connected disabilityrated at 30 percent or more is entitled to leave, without loss or reduction in pay, for purposes of undergoing medical treatment for such disability for which sick leave could regularly be used.
+(a) During the 12-month period beginning on the first day of employment, any employee who is a veteran with a service-connected disability rated at 30 percent or more is entitled to leave, without loss or reduction in pay, for purposes of undergoing medical treatment for such disability for which sick leave could regularly be used.
 
 (b)(1) The leave credited to an employee under subsection (a) may not exceed 104 hours.
 

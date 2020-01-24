@@ -54,7 +54,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any facility with respect to which financing is provided from the proceeds of any private activity bond which, when issued, purported to be a tax-exempt qualified 501(c)(3) bond, if any portion of such facility—
+&emsp;&emsp;In the case of any facility with respect to which financing is provided from the proceeds of any private activity bond which,when issued, purported to be a tax-exempt qualified 501(c)(3) bond, if any portion of such facility—
 
 &emsp;&emsp;&emsp;(i) is used in a trade or business of any person other than a 501(c)(3) organization or a governmental unit, but
 
@@ -110,7 +110,7 @@ For purposes of subsection (b)—
 
 #### (4) Cessation with respect to portion of facility
 
-&emsp;In the case of any facility where part but not all of the facility is not used for an exemptpurpose, only the interest accruing on the financing allocable to such part shall be taken into account.
+&emsp;In the case of any facility where part but not all of the facility is not used for an exempt purpose, only the interest accruing on the financing allocable to such part shall be taken into account.
 
 #### (5) Regulations
 
@@ -136,7 +136,7 @@ For purposes of this part and section 103—
 
 #### (A) In general
 
-&emsp;&emsp;Any qualified scholarship funding bond, and qualified student loan bond, outstanding on the date of the issuer's election under this paragraph (and any bond (or series of bonds) issued to refund such a bond) shall not fail to be a tax-exempt bond solely because the issuer ceases to be described in subparagraphs (A) and (B) of paragraph (2) if the issuer meets the requirements of subparagraphs (B) and (C) of this paragraph.
+&emsp;&emsp;Any qualified scholarship funding bond, and qualified student loan bond, outstandingon the date of the issuer's election under this paragraph (and any bond (or series of bonds) issued to refund such a bond) shall not fail to be a tax-exempt bond solely because the issuer ceases to be described in subparagraphs (A) and (B) of paragraph (2) if the issuer meets the requirements of subparagraphs (B) and (C) of this paragraph.
 
 #### (B) Assets and liabilities of issuer transferred to taxable subsidiary
 
@@ -260,7 +260,7 @@ Pub. L. 104–188, title I, §1614(b), Aug. 20, 1996, 110 Stat. 1853, provided t
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1013(a)(24)(B), Nov. 10, 1988, 102 Stat. 3543, provided that: "The amendment made bysubparagraph (A) \[amending this section\] shall apply to bonds issued after October 21, 1988."
+Pub. L. 100–647, title I, §1013(a)(24)(B), Nov. 10, 1988, 102 Stat. 3543, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to bonds issued after October 21, 1988."
 
 Amendment by section 1013(a)(23), (30)–(33) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

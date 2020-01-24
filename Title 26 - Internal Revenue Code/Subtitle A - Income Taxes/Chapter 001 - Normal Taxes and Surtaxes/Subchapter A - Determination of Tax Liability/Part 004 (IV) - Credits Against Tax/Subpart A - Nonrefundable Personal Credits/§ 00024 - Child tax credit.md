@@ -182,7 +182,7 @@ Section 205(c)(2)(B)(i) of the Social Security Act, referred to in subsec. (h)(7
 
 #### Prior Provisions
 
-A prior section 24, added Pub. L. 92–178, title VII, §701(a), Dec. 10, 1971, 85 Stat. 560, §41; amended Pub. L. 93–625, §§11(a)–(c), (e), 12(a), Jan. 3, 1975, 88 Stat. 2119, 2120; Pub. L. 94–455, title V, §503(b)(4), title XIX, §§1901(b)(1)(B), (H)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1562, 1790, 1791, 1834; Pub. L. 95–600, title I, §113(c), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–473, title II, §202(b)(1), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–21, titleI, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §24 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(f), July 18, 1984, 98 Stat. 826, 831, related to contributions to candidates for public office, prior to repeal by Pub. L. 99–514, title I, §§112(a), 151(a), Oct. 22, 1986, 100 Stat. 2108, 2121, applicable to taxable years beginning after Dec. 31, 1986.
+A prior section 24, added Pub. L. 92–178, title VII, §701(a), Dec. 10, 1971, 85 Stat. 560, §41; amended Pub. L. 93–625, §§11(a)–(c), (e), 12(a), Jan. 3, 1975, 88 Stat. 2119, 2120; Pub. L. 94–455, title V, §503(b)(4), title XIX, §§1901(b)(1)(B), (H)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1562, 1790, 1791, 1834; Pub. L. 95–600, title I, §113(c), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–473, title II, §202(b)(1), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §24 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(f), July 18, 1984, 98 Stat. 826, 831, related to contributions to candidates for public office, prior to repeal by Pub. L. 99–514, title I, §§112(a), 151(a), Oct. 22, 1986, 100 Stat. 2108, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
 #### Amendments
 
@@ -204,7 +204,7 @@ Subsec. (g). Pub. L. 114–113, §208(a)(1), added subsec. (g).
 
 <b>2014</b>—Subsec. (d)(4). Pub. L. 113–295 amended par. (4) generally. The amendment was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which the amendment related. As amended by Pub. L. 111–5, §1003(a), par. (4) read as follows: "
 
-Special rule for 2009 and 2010.—Notwithstanding paragraph (3), in the case of any taxable year beginning in 2009 or 2010, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000." See 2009 Amendment and Effective Date of 2014 Amendment notes below.
+Special rule for 2009 and 2010.—Notwithstanding paragraph (3), in the case of any taxable year beginning in 2009 or 2010, thedollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000." See 2009 Amendment and Effective Date of 2014 Amendment notes below.
 
 <b>2013</b>—Subsec. (b)(3). Pub. L. 112–240, §104(c)(2)(B)(i), struck out par. (3). Prior to amendment, text read as follows: "In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year shall not exceed the excess of—
 
@@ -262,7 +262,7 @@ Subsec. (d)(1). Pub. L. 109–135, §402(i)(3)(B)(ii), reenacted heading without
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–311, §101(a), reenacted heading without change and amended text generally, substituting provisions relating to $1,000 per year credit per qualifying child for provisions relating to different credit amounts for calendar years 2003 through 2010 or thereafter.
 
-Subsec. (c)(1). Pub. L. 108–311, §204(a), reenacted heading without change and amended text generally. Priorto amendment, text read as follows: "The term 'qualifying child' means any individual if—
+Subsec. (c)(1). Pub. L. 108–311, §204(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The term 'qualifying child' means any individual if—
 
 &emsp;"(A) the taxpayer is allowed a deduction under section 151 with respect to such individual for the taxable year,
 
@@ -370,7 +370,7 @@ Pub. L. 114–27, title VIII, §807(b), June 29, 2015, 129 Stat. 418, provided t
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title II, §209(k), Dec. 19, 2014, 128 Stat. 4031, provided that: "The amendments made by this section \[amending this section, sections 25A, 30, 30D, 35, 38, 45Q, 48, 48C, 164, 853A, and 1016 of this title, and provisions set out as notes under sections 6428 and 6432 of this title\] shall take effect as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 \[Pub. L. 111–5, div. B, title I\] to which they relate."
+Pub. L. 113–295, div. A, title II, §209(k), Dec. 19, 2014, 128 Stat. 4031, provided that: "The amendments made by this section \[amending this section, sections 25A, 30, 30D, 35, 38, 45Q, 48, 48C, 164, 853A, and 1016 of this title,and provisions set out as notes under sections 6428 and 6432 of this title\] shall take effect as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 \[Pub. L. 111–5, div. B, title I\] to which they relate."
 
 #### Effective Date of 2013 Amendment
 
@@ -424,7 +424,7 @@ Effective Date.—The amendments made by this section \[enacting section 30D of 
 
 "(f)
 
-Application of EGTRRA Sunset.—The amendment made by subsection (d)(1)(A) \[amending this section\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub.L. 107–16, §901, which was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315, was formerly set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provision of such Act to which such amendment relates."
+Application of EGTRRA Sunset.—The amendment made by subsection (d)(1)(A) \[amending this section\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, which was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315, was formerly set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provision of such Act to which such amendment relates."
 
 Pub. L. 110–343, div. C, title V, §501(b), Oct. 3, 2008, 122 Stat. 3876, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2007."
 
@@ -436,7 +436,7 @@ Pub. L. 110–172, §11(c)(2), Dec. 29, 2007, 121 Stat. 2489, provided that: "Th
 
 Amendment by Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
-Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) ofPub. L. 109–135, set out as a note under section 23 of this title.
 
 #### Effective and Termination Dates of 2004 Amendment
 

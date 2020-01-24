@@ -18,7 +18,7 @@ The Administrator, in coordination with the Chief Information Officer of the Dep
 
 #### (b) Report
 
-Not later than 270 days after October 4, 2006, the Administrator shall submit to the appropriate committees of Congress a report describing the implementation of this section, including a description of any actions taken, improvements made, and remaining problems and a description of any additional funding needed tomake necessary and appropriate improvements to the information technology systems of the Agency.
+Not later than 270 days after October 4, 2006, the Administrator shall submit to the appropriate committees of Congress a report describing the implementation of this section, including a description of any actions taken, improvements made, and remaining problems and a description of any additional funding needed to make necessary and appropriate improvements to the information technology systems of the Agency.
 
 (Pub. L. 109–295, title VI, §640, Oct. 4, 2006, 120 Stat. 1423.)
 

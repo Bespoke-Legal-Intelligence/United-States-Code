@@ -50,7 +50,7 @@ If the corporation seeking a tentative carryback adjustment under this section, 
 
 #### (2) Allowance of adjustments
 
-&emsp;Within a period of 90 days from the date on which an application is filed under paragraph\(1) or from the date of the overpayment (determined under section 1341(b)(1)), whichever is later, the Secretary shall—
+&emsp;Within a period of 90 days from the date on which an application is filed under paragraph (1) or from the date of the overpayment (determined under section 1341(b)(1)), whichever is later, the Secretary shall—
 
 &emsp;&emsp;(A) review the application,
 
@@ -90,7 +90,7 @@ Subsecs. (b), (c). Pub. L. 98–369, §474(r)(37)(B), substituted "unused resear
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–34, §331(d)(2)(B), inserted in introductory provisions "by an employee stock ownership credit carryback provided by section 44G(b)(2)" after "section 44F(g)(2)," and substituted "unused research credit, or unused employee stock ownership credit" for "or unused research credit", "a research credit carryback, or employee stock ownership credit carryback" for "or a research credit carryback", and "new employee credit carryback, or, in the case of an employee stock ownership credit carryback, to an investment credit carryback, a new employee credit carryback or a research and experimental credit carryback)" for "new employee credit carryback)" and in par. (1) substituted "unused research credit, or unused employee stock ownership credit" for "or unused research credit".
 
-Pub. L. 97–34, §221(b)(2)(B), inserted in introductory provision "by a research credit carryback provided in section 44F(g)(2)," after "section 53(b)," and substituted "unused new employee credit, or unused research credit" for "or unused new employee credit", "a new employee credit carryback, or a research credit carryback" for "or a new employee credit carryback", and "work incentive program carryback, or, in the case of a research credit carryback, to an investment creditcarryback, a work incentive program carryback, or new employee credit carryback)" for "work incentive program carryback)" and in par. (1) substituted "unused new employee credit, or unused research credit" for "or unused new employee credit".
+Pub. L. 97–34, §221(b)(2)(B), inserted in introductory provision "by a research credit carryback provided in section 44F(g)(2)," after "section 53(b)," and substituted "unused new employee credit, or unused research credit" for "or unused new employee credit", "a new employee credit carryback, or a research credit carryback" for "or a new employee credit carryback", and "work incentive program carryback, or, in the case of a research credit carryback, to an investment credit carryback, a work incentive program carryback, or new employee credit carryback)" for "work incentive program carryback)" and in par. (1) substituted "unused new employee credit, or unused research credit" for "or unused new employee credit".
 
 Subsec. (b). Pub. L. 97–34, §331(d)(2)(B)(i), substituted "unused research credit, or unused employee stock ownership credit" for "or unused research credit".
 
@@ -168,7 +168,7 @@ Amendment by section 331(d)(2)(B) of Pub. L. 97–34 applicable to taxable years
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in theprovisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 #### Effective Date of 1978 Amendment
 

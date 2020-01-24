@@ -70,5 +70,5 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–198, title XVII, §1701(b), Dec. 23, 1985, 99 Stat. 1633, provided that: "The amendment made by this section \[amending this section\] shall become effective 6 months after the date of enactment of this Act \[Dec. 23, 1985\]."
+Pub. L. 99–198, title XVII, §1701(b), Dec. 23, 1985, 99 Stat. 1633, provided that: "The amendment made bythis section \[amending this section\] shall become effective 6 months after the date of enactment of this Act \[Dec. 23, 1985\]."
 

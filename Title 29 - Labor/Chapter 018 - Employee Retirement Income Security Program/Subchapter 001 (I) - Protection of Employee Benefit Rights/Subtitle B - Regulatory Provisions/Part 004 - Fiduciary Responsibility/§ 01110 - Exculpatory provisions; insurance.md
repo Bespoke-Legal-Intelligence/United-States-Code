@@ -1,6 +1,6 @@
 ### §1110. Exculpatory provisions; insurance
 
-(a) Except as provided in sections 1105(b)(1) and 1105(d) of this title, any provision in anagreement or instrument which purports to relieve a fiduciary from responsibility or liability for any responsibility, obligation, or duty under this part shall be void as against public policy.
+(a) Except as provided in sections 1105(b)(1) and 1105(d) of this title, any provision in an agreement or instrument which purports to relieve a fiduciary from responsibility or liability for any responsibility, obligation, or duty under this part shall be void as against public policy.
 
 (b) Nothing in this subpart <sup>1</sup> shall preclude—
 
@@ -8,7 +8,7 @@
 
 &emsp;(2) a fiduciary from purchasing insurance to cover liability under this part from and for his own account; or
 
-&emsp;(3) an employer or an employee organization from purchasing insurance to cover potential liability of one or more persons who serve in a fiduciary capacity with regard to an employee benefit plan.
+&emsp;(3) an employer or an employee organization from purchasing insurance to cover potential liability of one or more persons who serve in afiduciary capacity with regard to an employee benefit plan.
 
 (Pub. L. 93–406, title I, §410, Sept. 2, 1974, 88 Stat. 886.)
 

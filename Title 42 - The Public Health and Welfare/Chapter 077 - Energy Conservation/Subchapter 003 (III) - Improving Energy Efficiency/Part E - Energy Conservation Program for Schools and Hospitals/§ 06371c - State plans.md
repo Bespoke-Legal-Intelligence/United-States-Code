@@ -20,13 +20,13 @@ The Secretary shall invite the State energy agency of each State to submit, with
 
 &emsp;(6) procedures to assure that all assistance under this part in such State will be expended in compliance with the requirements of an approved State plan for such State, and in compliance with the requirements of this part;
 
-&emsp;(7) procedures to insure implementation of energy conserving maintenance and operatingprocedures in those facilities for which projects are proposed; and
+&emsp;(7) procedures to insure implementation of energy conserving maintenance and operating procedures in those facilities for which projects are proposed; and
 
 &emsp;(8) policies and procedures designed to assure that financial assistance provided under this part in such State will be used to supplement, and not to supplant, State, local, or other funds.
 
 #### (b) Approval of plans
 
-The Secretary shall review and approve or disapprove each State plan not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a), the Secretary shall approve the plan. If a State plan submitted within the 90-day period specified in subsection (a) has not been disapproved within the 60-day period following its receipt by the Secretary, such plan shall be treated as approved by the Secretary. A State energy agency may submit a new or amended plan at any time after the submission of the original plan if the agency obtains the consent of the Secretary.
+The Secretary shall review and approve or disapprove each State plan not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a), the Secretary shall approve the plan. If a State plan submitted within the 90-day period specified in subsection (a) has not been disapproved within the 60-day period following its receipt by the Secretary, such plan shall be treated as approved by the Secretary. A State energy agency may submit a new or amended plan at any timeafter the submission of the original plan if the agency obtains the consent of the Secretary.
 
 #### (c) Development and implementation of approved plans; submission of proposed State plan
 

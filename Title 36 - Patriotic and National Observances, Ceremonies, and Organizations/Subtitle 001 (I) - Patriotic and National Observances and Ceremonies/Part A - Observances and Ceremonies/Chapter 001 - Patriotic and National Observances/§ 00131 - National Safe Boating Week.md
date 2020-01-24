@@ -1,6 +1,6 @@
 ### §131. National Safe Boating Week
 
-The President is requested to issue each year a proclamation designating the 7-day periodending on the last Friday before Memorial Day as National Safe Boating Week.
+The President is requested to issue each year a proclamation designating the 7-day period ending on the last Friday before Memorial Day as National Safe Boating Week.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1260.)
 

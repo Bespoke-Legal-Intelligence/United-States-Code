@@ -1,6 +1,6 @@
 ### §732. Personnel management system
 
-(a) The Comptroller General shall maintain a personnel management system. The ComptrollerGeneral may prescribe a regulation about the system only after notice and opportunity for public comment. A reprisal or threat of reprisal may not be made against an officer or employee of the Government Accountability Office because of comments on a proposed regulation about the system.
+(a) The Comptroller General shall maintain a personnel management system. The Comptroller General may prescribe a regulation about the system only after notice and opportunity for public comment. A reprisal or threat of reprisal may not be made against an officer or employee of the Government Accountability Office because of comments on a proposed regulation about the system.
 
 (b) The personnel management system shall—
 
@@ -38,7 +38,7 @@
 
 > &emsp;notwithstanding any other provision of this paragraph, an adjustment under this paragraph shall not be applied in the case of any officer or employee whose performance is not at a satisfactory level, as determined by the Comptroller General for purposes of such adjustment;
 
-&emsp;(4) the pay schedule for officers and employees of the Office may provide that the basic pay rates for not more than 129 positions (including senior-level positions under section 732a of this title) may be at rates not more than the rate of basic pay payable for grade GS–18 of the General Schedule, less the number of positions in the General Accounting Office Senior Executive Service <sup>1</sup> under section 733 of this title (except positions included in the Service under section 733(c) of this title and senior-level positions described in section 732a(b) of this title); and
+&emsp;(4) the pay schedule for officers and employees of the Office may provide that the basic pay rates for not more than 129 positions (including senior-level positions under section 732a of this title) may be at rates not more than the rate of basic pay payable for grade GS–18 of the General Schedule, less the number of positions in the General Accounting Office Senior Executive Service <sup>1</sup> under section 733 of this title (except positions included in the Service under section 733(c) of this titleand senior-level positions described in section 732a(b) of this title); and
 
 &emsp;(5) the Comptroller General shall prescribe regulations under which an officer or employee of the Office shall be entitled to pay retention if, as a result of any reduction-in-force or other workforce adjustment procedure, position reclassification, or other appropriate circumstances as determined by the Comptroller General, such officer or employee is placed in or holds a position in a lower grade or band with a maximum rate of basic pay that is less than the rate of basic pay payable to the officer or employee immediately before the reduction in grade or band; such regulations—
 
@@ -48,7 +48,7 @@
 
 (d) The personnel management system shall provide—
 
-&emsp;(1) for a system to appraise the performance of officers and employees of the General Accounting Office <sup>2</sup> that meets the requirementsof section 4302 of title 5 and in addition includes—
+&emsp;(1) for a system to appraise the performance of officers and employees of the General Accounting Office <sup>2</sup> that meets the requirements of section 4302 of title 5 and in addition includes—
 
 &emsp;&emsp;(A) a link between the performance management system and the agency's strategic plan;
 
@@ -208,7 +208,7 @@ In the section, the words "officers and" are added for consistency in the revise
 
 In subsection (a), the words "not later than October 1, 1980" and 31:52–5(b) are omitted as executed. The word "maintain" is substituted for "establish by regulation" to omit executed words. The words "for the General Accounting Office (hereinafter referred to as the 'personnel system') which shall meet the requirements of subsections (b) through (h)", and "or any amendment" are omitted as surplus. The words "about the system" are substituted for "thereto" for clarity.
 
-In subsection (b)(1), the words "merit system" are omitted as surplus. In clause (5), the words "of theUnited States Government" are added for consistency. In clause (6), the words "the principles of" are omitted as surplus.
+In subsection (b)(1), the words "merit system" are omitted as surplus. In clause (5), the words "of the United States Government" are added for consistency. In clause (6), the words "the principles of" are omitted as surplus.
 
 In subsection (c)(2), the words "payable . . . under the General Schedule" are omitted as surplus. In clause (4), the words "not more than 100 positions" are substituted for "up to one hundred employees" for consistency. The words "payable . . . grade . . . of the General Schedule" are omitted as surplus. In clause (5), the words "the principles of" are omitted as surplus.
 
@@ -256,7 +256,7 @@ Subsec. (i). Pub. L. 108–271, §8(b), substituted "Government Accountability O
 
 <b>2000</b>—Subsec. (c)(4). Pub. L. 106–303, §4(a)(2), inserted "(including senior-level positions under section 732a of this title)" after "129 positions" and substituted "733(c) of this title and senior-level positions described in section 732a(b) of this title);" for "733(c) of this title);".
 
-Subsec. (h). Pub. L. 106–303, §3(a)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "Notwithstanding the provisions of subchapter I of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency's goals and objectives, and length of service. The regulations shall, to the extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office."
+Subsec. (h). Pub. L. 106–303, §3(a)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "Notwithstanding the provisions of subchapter I of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency's goals and objectives, and length of service. The regulations shall, tothe extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office."
 
 Subsec. (i). Pub. L. 106–303, §3(b)(1), added subsec. (i).
 
@@ -388,7 +388,7 @@ Agency contributions and payment to the fund.—Not later than 9 months after th
 
 "(g)
 
-Exclusive Remedy.—This section constitutes the exclusive remedy that any individuals to whom this section applies (as described in subsection (a)) have for any claim that they are owed any monies denied to them in the form of a pay increase for 2006 or 2007 undersection 732(c)(3) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such individuals that they were due money in the form of a pay increase for 2006 or 2007 pursuant to such section 732(c)(3) or any other law."
+Exclusive Remedy.—This section constitutes the exclusive remedy that any individuals to whom this section applies (as described in subsection (a)) have for any claim that they are owed any monies denied to them in the form of a pay increase for 2006 or 2007 under section 732(c)(3) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such individuals that they were due money in the form of a pay increase for 2006 or 2007 pursuant to such section 732(c)(3) or any other law."
 
 #### Lump-Sum Payment for Certain Performance-Based Compensation
 

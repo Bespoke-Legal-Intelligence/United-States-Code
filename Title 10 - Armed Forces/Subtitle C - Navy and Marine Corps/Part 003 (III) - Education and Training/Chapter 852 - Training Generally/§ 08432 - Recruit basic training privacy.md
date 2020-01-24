@@ -12,7 +12,7 @@ Section 8441, act Aug. 10, 1956, ch. 1041, 70A Stat. 521, provided that temporar
 
 Section 8442, act Aug. 10, 1956, ch. 1041, 70A Stat. 521, provided that a regular commissioned officer, or a reserve commissioned officer who is serving on active duty, may be appointed, based upon ability and efficiency with regard being given to seniority and age, in a temporary grade that is equal to or higher than his regular or reserve grade, without vacating any other grade held by him. See section 601 of this title.
 
-A prior section 8443, act Aug. 10, 1956, ch. 1041, 70A Stat. 522, related to grade of reserve commissioned officers ordered to active duty or serving on active duty,prior to repeal by Pub. L. 85–861, §36B(25), Sept. 2, 1958, 72 Stat. 1571.
+A prior section 8443, act Aug. 10, 1956, ch. 1041, 70A Stat. 522, related to grade of reserve commissioned officers ordered to active duty or serving on active duty, prior to repeal by Pub. L. 85–861, §36B(25), Sept. 2, 1958, 72 Stat. 1571.
 
 Prior sections 8444 and 8445 were repealed by Pub. L. 96–513, title II, §207, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981.
 

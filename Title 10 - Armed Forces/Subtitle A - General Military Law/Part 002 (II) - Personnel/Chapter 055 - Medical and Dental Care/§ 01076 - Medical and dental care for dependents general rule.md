@@ -32,7 +32,7 @@
 
 > may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff, except that a dependent of a member or former member described in paragraph (2) may not be given such medical or dental care until the date on which such member or former member would have attained age 60.
 
-(c) A determination by the medical or dental officer in charge, or the contract surgeon in charge, or his designee, as to the availability of space and facilities and to the capabilities of the medical and dental staff is conclusive. Care under this section may not be permitted to interfere with the primary mission of those facilities.
+(c) A determination by the medical or dental officer in charge, or the contract surgeon in charge, or his designee, as to the availability of space and facilities and to the capabilities of the medical and dental staff is conclusive. Care under this section may not be permitted tointerfere with the primary mission of those facilities.
 
 (d) To utilize more effectively the medical and dental facilities of the uniformed services, the administering Secretaries shall prescribe joint regulations to assure that dependents entitled to medical or dental care under this section will not be denied equal opportunity for that care because the facility concerned is that of a uniformed service other than that of the member.
 
@@ -212,7 +212,7 @@ Amendment by section 1671(c)(7)(A) of Pub. L. 103–337 effective Dec. 1, 1994, 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 731(c)(1) of Pub. L. 101–189 applicable to a person referred to in 10 U.S.C. 1072(2)(H)whose decree of divorce, dissolution, or annulment becomes final on or after Nov. 29, 1989, and to a person so referred to whose decree became final during the period from Sept. 29, 1988 to Nov. 28, 1989, as if the amendment had become effective on Sept. 29, 1988, see section 731(d) of Pub. L. 101–189, set out as a note under section 1072 of this title.
+Amendment by section 731(c)(1) of Pub. L. 101–189 applicable to a person referred to in 10 U.S.C. 1072(2)(H) whose decree of divorce, dissolution, or annulment becomes final on or after Nov. 29, 1989, and to a person so referred to whose decree became final during the period from Sept. 29, 1988 to Nov. 28, 1989, as if the amendment had become effective on Sept. 29, 1988, see section 731(d) of Pub. L. 101–189, set out as a note under section 1072 of this title.
 
 #### Effective Date of 1988 Amendment
 

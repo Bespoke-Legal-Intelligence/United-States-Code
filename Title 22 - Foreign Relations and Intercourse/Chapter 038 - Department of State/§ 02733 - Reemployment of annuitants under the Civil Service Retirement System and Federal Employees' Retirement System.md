@@ -20,7 +20,7 @@ Pub. L. 109–234, title I, §1602(b)(1), June 15, 2006, 120 Stat. 441, which di
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a). Pub. L. 114–323 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to authority of the Secretary of State to waive application of provisions of section 8344 or 8468 of title 5 on a case-by-case basis for employment of certain annuitants to facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan and terminated the Secretary's authority as of Oct. 1, 2010.
+<b>2016</b>—Subsec. (a). Pub. L. 114–323 amended subsec. (a) generally. Prior to amendment, subsec. (a) related toauthority of the Secretary of State to waive application of provisions of section 8344 or 8468 of title 5 on a case-by-case basis for employment of certain annuitants to facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan and terminated the Secretary's authority as of Oct. 1, 2010.
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–32 inserted ", Pakistan," after "Iraq" in two places.
 

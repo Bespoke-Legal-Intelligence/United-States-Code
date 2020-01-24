@@ -24,7 +24,7 @@
 
 #### legislative statements
 
-Section 341(c) of the Senate amendment is deleted and a contrary provision is added indicating that thebankruptcy judge will not preside at or attend the first meeting of creditors or equity security holders but a discharge hearing for all individuals will be held at which the judge will preside.
+Section 341(c) of the Senate amendment is deleted and a contrary provision is added indicating that the bankruptcy judge will not preside at or attend the first meeting of creditors or equity security holders but a discharge hearing for all individuals will be held at which the judge will preside.
 
 #### senate report no. 95–989
 
@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 99–554, §212(3), inserted "including any final meeting o
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

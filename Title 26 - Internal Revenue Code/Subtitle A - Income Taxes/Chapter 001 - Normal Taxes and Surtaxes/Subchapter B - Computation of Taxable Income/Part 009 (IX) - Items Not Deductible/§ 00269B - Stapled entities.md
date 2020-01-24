@@ -108,7 +108,7 @@ In general.—In the case of any foreign corporation and domestic corporation wh
 
 &emsp;"(B)
 
-Election.—Any election under subparagraph (A) shall be made not later than 180 days after the date of the enactment of this Act and shall be made in such manner as the Secretary of the Treasury or his delegate shall prescribe.
+Election.—Any election under subparagraph (A) shall be made not later than 180 days after thedate of the enactment of this Act and shall be made in such manner as the Secretary of the Treasury or his delegate shall prescribe.
 
 &emsp;"(C)
 

@@ -92,7 +92,7 @@ An approved retail food store shall provide adequate EBT service as described in
 
 #### (3) Report to Congress
 
-&emsp;Not later than 90 days after September 30, 2014, and 90 days after the last day of each fiscal year thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the effectiveness of a program under this subsection using any information received from States under section 2020(e)(25) of this title as well as any other information the Secretary may have relating to the manner in which benefits are used.
+&emsp;Not later than 90 days after September 30, 2014, and 90 days after the last day of each fiscal year thereafter, the Secretary shall submit to the Committee on Agriculture of the Houseof Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the effectiveness of a program under this subsection using any information received from States under section 2020(e)(25) of this title as well as any other information the Secretary may have relating to the manner in which benefits are used.
 
 #### (i) Review of program operations
 
@@ -114,7 +114,7 @@ An approved retail food store shall provide adequate EBT service as described in
 
 #### (2) Limitation
 
-&emsp;Nothing in this subsection shall authorize the Secretary to deny any application for continued authorization, any application for authorization, or any request to withdraw the authorization of any such facility, program, or arrangement based on a determination that residents of any such facility or entity are residents of an institution for a period of 18 months from December 20, 2018.
+&emsp;Nothing in this subsection shall authorize the Secretary to deny any application for continued authorization, any application for authorization, or any request to withdraw the authorization of any such facility, program, or arrangement based on a determination that residents of any such facility or entity are residents of an institution prior to December 31, 2020.
 
 #### (j) Incentives
 
@@ -154,17 +154,19 @@ An approved retail food store shall provide adequate EBT service as described in
 
 &emsp;The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report describing the types of incentives approved under this subsection.
 
-(Pub. L. 88–525, §9, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91Stat. 968; Pub. L. 97–98, title XIII, §§1313, 1314, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §165, Sept. 8, 1982, 96 Stat. 779; Pub. L. 99–198, title XV, §§1521, 1532(b), Dec. 23, 1985, 99 Stat. 1579, 1583; Pub. L. 99–570, title XI, §11002(d), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 101–624, title XVII, §§1733, 1734, Nov. 28, 1990, 104 Stat. 3791; Pub. L. 102–237, title IX, §941(4), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–225, title II, §§202, 203, Mar. 25, 1994, 108 Stat. 108; Pub. L. 103–448, title II, §204(w)(2)(A), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VIII, §§831–834, Aug. 22, 1996, 110 Stat. 2328; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(5), 4115(b)(6), May 22, 2008, 122 Stat. 1092, 1093, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(5), 4115(b)(6), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1868; Pub. L. 113–79, title IV, §§4002(e), 4014(b), 4030(f), Feb. 7, 2014, 128 Stat. 784, 794, 814; Pub. L. 115–334, title IV, §§4006(f)–4008, Dec. 20, 2018, 132 Stat. 4637–4639.)
+(Pub. L. 88–525, §9, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–98, title XIII, §§1313, 1314, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §165, Sept. 8, 1982, 96 Stat. 779; Pub. L. 99–198, title XV, §§1521, 1532(b), Dec. 23, 1985, 99 Stat. 1579, 1583; Pub. L. 99–570, title XI, §11002(d), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 101–624, title XVII, §§1733, 1734, Nov. 28, 1990, 104 Stat. 3791; Pub. L. 102–237, title IX, §941(4), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–225, title II, §§202, 203, Mar. 25, 1994, 108 Stat. 108; Pub. L. 103–448, title II, §204(w)(2)(A), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VIII, §§831–834, Aug. 22, 1996, 110 Stat. 2328; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(5), 4115(b)(6), May 22, 2008, 122 Stat. 1092, 1093, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(5), 4115(b)(6), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1868; Pub. L. 113–79, title IV, §§4002(e), 4014(b), 4030(f), Feb. 7, 2014, 128 Stat. 784, 794, 814; Pub. L. 115–334, title IV, §§4006(f)–4008, Dec. 20, 2018, 132 Stat. 4637–4639; Pub. L. 116–94, div. B, title VII, §784, Dec. 20, 2019, 133 Stat. 2656.)
 
 #### References in Text
 
-That Act, meaning the Child Nutrition Act of 1966, referred to in subsec. (c), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+That Act, meaning the Child Nutrition Act of 1966, referred to in subsec. (c), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of thisAct to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (i)(2). Pub. L. 116–94 substituted "prior to December 31, 2020" for "for a period of 18 months from December 20, 2018".
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–334, §4006(f)(1), inserted subsec. heading, designated existing provisions, comprised of four sentences, as par. (1), inserted par. heading, designated first through fourth sentences as subpars. (A) to (D), respectively, inserted subpar. headings, redesignated former cls. (A) to (D) of second sentence as cls. (i) to (iii) and (v) of subpar. (B), respectively, and added cl. (iv) of subpar. (B).
 
@@ -220,7 +222,7 @@ Subsec. (d). Pub. L. 104–193, §834, inserted at end "A retail food store or w
 
 Subsec. (c). Pub. L. 103–448 in second sentence substituted "special supplemental nutrition program" for "special supplemental food program".
 
-Pub. L. 103–225, §203, in second sentence inserted "Federal law enforcement and investigative agencies and law enforcement and investigative agencies of a State government for the purposes of administering or enforcing this chapter or any other Federal or State law and the regulations issued under this chapter or such law, and" after "disclosed to and used by", inserted after second sentence "Any person who publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by Federal law (including a regulation) any information obtained under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both.", and in lastsentence substituted "The regulations shall establish the criteria to be used by the Secretary to determine whether the information is needed. The regulations shall not prohibit" for "Such purposes shall not exclude".
+Pub. L. 103–225, §203, in second sentence inserted "Federal law enforcement and investigative agencies and law enforcement and investigative agencies of a State government for the purposes of administering or enforcing this chapter or any other Federal or State law and the regulations issued under this chapter or such law, and" after "disclosed to and used by", inserted after second sentence "Any person who publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by Federal law (including a regulation) any information obtained under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both.", and in last sentence substituted "The regulations shall establish the criteria to be used by the Secretary to determine whether the information is needed. The regulations shall not prohibit" for "Such purposes shall not exclude".
 
 <b>1991</b>—Subsec. (a)(1). Pub. L. 102–237 redesignated cls. (1) to (3) as (A) to (C), respectively.
 

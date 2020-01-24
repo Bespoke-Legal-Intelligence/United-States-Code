@@ -2,7 +2,7 @@
 
 (a)
 
-Designating Material as Hazardous.—The Secretary shall designate material (including an explosive, radioactive material, infectious substance, flammable or combustible liquid, solid, or gas, toxic, oxidizing, or corrosive material, and compressed gas) or a group or class of material as hazardous when the Secretary determines that transporting the material in commerce in a particular amount and form may pose an unreasonable risk to health and safety or property.
+Designating Material as Hazardous.—The Secretary shall designate material (including an explosive, radioactive material, infectious substance, flammable or combustible liquid, solid, or gas, toxic, oxidizing, or corrosive material, and compressed gas) or a group or class of material as hazardous when the Secretary determines that transporting the material in commerce in a particular amount andform may pose an unreasonable risk to health and safety or property.
 
 (b)
 
@@ -52,7 +52,7 @@ Statement of reasons.—The Secretary shall include in any order issued under th
 
 (d)
 
-Consultation.—When prescribing a security regulation or issuing a security order thataffects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary of Transportation.
+Consultation.—When prescribing a security regulation or issuing a security order that affects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary of Transportation.
 
 (e)
 
@@ -104,7 +104,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59, §7126, substituted "Secretary shall designate" for "Secretary of Transportation shall designate".
 
-Pub. L. 109–59, §7103(a), substituted "infectious substance, flammable or combustible liquid, solid, or gas, toxic, oxidizing, or corrosive material," for "etiologic agent, flammable or combustible liquid or solid, poison, oxidizing or corrosive material," and "determines" for "decides".
+Pub. L. 109–59, §7103(a), substituted "infectious substance, flammable or combustible liquid, solid, or gas, toxic, oxidizing, or corrosive material," for "etiologic agent, flammable or combustible liquid or solid, poison,oxidizing or corrosive material," and "determines" for "decides".
 
 Subsec. (b)(1)(A). Pub. L. 109–59, §7103(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "apply to a person—
 
@@ -154,7 +154,7 @@ Evaluation.—The evaluation required under subsection (a) shall—
 
 &emsp;"(1) identify what standards and protocols are used to approve such persons, assess the adequacy of such standards and protocols to ensure that persons seeking approval are qualified and capable of performing classifications, and make recommendations to address any deficiencies identified;
 
-&emsp;"(2) assess the adequacy of the Secretary's oversight of persons approved to perform the classifications, including the qualification of individuals engaged in the oversight of approved persons, and makerecommendations to enhance oversight sufficiently to ensure that classifications are issued as required;
+&emsp;"(2) assess the adequacy of the Secretary's oversight of persons approved to perform the classifications, including the qualification of individuals engaged in the oversight of approved persons, and make recommendations to enhance oversight sufficiently to ensure that classifications are issued as required;
 
 &emsp;"(3) identify what standards and protocols exist to rescind, suspend, or deny approval of persons who perform such classifications, assess the adequacy of such standards and protocols, and make recommendations to enhance such standards and protocols if necessary; and
 
@@ -186,7 +186,7 @@ Study.—The Secretary of Transportation shall, in consultation with the Secreta
 
 "(b)
 
-Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary of Transportation shall transmit a report on the results of the study required by subsection (a) and any recommendations to further protect employees of a railroad carrier or of a contractor or subcontractor to a railroad carrier from unsafe exposure to radiation during the transportation of high-level radioactive waste and spent nuclear fuel to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.
+Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary of Transportation shall transmit a report on the results of the study required by subsection (a) and any recommendations to further protect employees of a railroad carrier or of a contractor or subcontractor to a railroadcarrier from unsafe exposure to radiation during the transportation of high-level radioactive waste and spent nuclear fuel to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.
 
 "(c)
 

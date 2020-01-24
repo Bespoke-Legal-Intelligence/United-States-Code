@@ -64,7 +64,7 @@ Under such regulations as the Secretary may deem necessary to protect the revenu
 
 #### (2) Withdrawal for domestic use
 
-&emsp;Wine entered into customs bonded warehouses under subsection (c)(4) for purposes of removal under paragraph (1) may be withdrawn therefrom for domestic use. Wines so withdrawn shall be treated as American goods exported and returned.
+&emsp;Wine entered into customs bonded warehouses under subsection (c)(4) for purposes ofremoval under paragraph (1) may be withdrawn therefrom for domestic use. Wines so withdrawn shall be treated as American goods exported and returned.
 
 #### (3) Sale or unauthorized use prohibited
 

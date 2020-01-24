@@ -10,7 +10,7 @@ The Council shall advise the Director with respect to research priorities and th
 
 #### (c) Qualifications
 
-Members of the Council shall be generally representative of the community of disability, independent living, and rehabilitation professionals, the community of disability, independent living, and rehabilitation researchers, the directors of independent living centers and community rehabilitation programs, the business community (including a representative of the small business community) that has experience with the system of vocational rehabilitation services and independent living services carried out under this chapter and with hiring individuals with disabilities, the community of stakeholders involved in assistive technology, the communityof covered school professionals, and the community of individuals with disabilities, and the individuals' representatives. At least one-half of the members shall be individuals with disabilities or the individuals' representatives.
+Members of the Council shall be generally representative of the community of disability, independent living, and rehabilitation professionals, the community of disability, independent living, and rehabilitation researchers, the directors of independent living centers and community rehabilitation programs, the business community (including a representative of the small business community) that has experience with the system of vocational rehabilitation services and independent living services carried out under this chapter and with hiring individuals with disabilities, the community of stakeholders involved in assistive technology, the community of covered school professionals, and the community of individuals with disabilities, and the individuals' representatives. At least one-half of the members shall be individuals with disabilities or the individuals' representatives.
 
 #### (d) Terms of appointment
 
@@ -60,7 +60,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is
 
 #### Prior Provisions
 
-A prior section 765, Pub. L. 93–112, title II, §205, as added Pub. L. 102–569, title II, §206(a), Oct. 29, 1992, 106 Stat. 4409, related to the Rehabilitation Research Advisory Council, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 765, Pub. L. 93–112, title II, §205, as added Pub. L. 102–569, title II, §206(a), Oct. 29, 1992, 106Stat. 4409, related to the Rehabilitation Research Advisory Council, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
 

@@ -16,7 +16,7 @@ Authorities.—In order to achieve the policy set forth in subsection (a), the S
 
 &emsp;(4) authorize the use of energy security and energy resilience, including the benefits of on-site generation resources that reduce or avoid the cost of backup power, as factors in the cost-benefit analysis for procurement of energy; and
 
-&emsp;(5) in selecting facility energy projects that will use renewable energy sources, pursue energy security and energy resilience by giving favorable consideration to projects that provide power directly to a military facility or into the installation electrical distribution network.
+&emsp;(5) in selecting facility energy projects that will use renewable energy sources, pursue energy security and energy resilience by givingfavorable consideration to projects that provide power directly to a military facility or into the installation electrical distribution network.
 
 (c)
 
@@ -36,7 +36,7 @@ Energy Performance Master Plan.—(1) The Secretary of Defense shall develop a c
 
 &emsp;(B) The use of a baseline standard for the measurement of energy consumption by transportation systems, support systems, utilities, and facilities and infrastructure that is consistent for all of the military departments.
 
-&emsp;(C) A method of measurement of reductions or conservation in energy consumption thatprovides for the taking into account of changes in the current size of fleets, number of facilities, and overall square footage of facility plants.
+&emsp;(C) A method of measurement of reductions or conservation in energy consumption that provides for the taking into account of changes in the current size of fleets, number of facilities, and overall square footage of facility plants.
 
 &emsp;(D) Metrics to track annual progress in meeting energy performance goals.
 
@@ -52,7 +52,7 @@ Special Considerations.—For the purpose of developing and implementing the ene
 
 &emsp;(1) Opportunities to reduce the current rate of consumption of energy, the future demand for energy, and the requirement for the use of energy.
 
-&emsp;(2) Opportunities to enhance energy resilience to ensure the Department of Defense has the ability to prepare for and recover from energy disruptions that impact mission assurance on military installations.
+&emsp;(2) Opportunities to enhance energy resilience to ensure the Department of Defense has the ability to prepare for and recover from energy disruptions that affect mission assurance on military installations.
 
 &emsp;(3) Opportunities to implement conservation measures to improve the efficient use of energy.
 
@@ -74,7 +74,7 @@ Special Considerations.—For the purpose of developing and implementing the ene
 
 &emsp;(12) Opportunities for improving energy security for facility energy projects that will use renewable energy sources.
 
-&emsp;(13) Opportunities to leverage third-party financing to address installation energy needs.
+&emsp;(13) Opportunities to leverage financing provided by a non-Department entity to address installation energy needs.
 
 (f)
 
@@ -94,7 +94,7 @@ Goal Regarding Use of Renewable Energy To Meet Facility Energy Needs.—(1) It s
 
 &emsp;(A) to produce or procure not less than 25 percent of the total quantity of facility energy it consumes within its facilities during fiscal year 2025 and each fiscal year thereafter from renewable energy sources; and
 
-&emsp;(B) to produce or procure facility energy from renewable energy sources whenever the use of such renewable energy sources is consistent with the energy performance goals and energy performance master plan for the Department and supported by the special considerations specified in subsection (c).
+&emsp;(B) to produce or procure facility energy from renewable energy sources whenever theuse of such renewable energy sources is consistent with the energy performance goals and energy performance master plan for the Department and supported by the special considerations specified in subsection (c).
 
 (2) To help ensure that the goal specified in paragraph (1)(A) regarding the use of renewable energy by the Department of Defense is achieved, the Secretary of Defense shall establish an interim goal for fiscal year 2018 for the production or procurement of facility energy from renewable energy sources.
 
@@ -112,17 +112,25 @@ Goal Regarding Use of Renewable Energy To Meet Facility Energy Needs.—(1) It s
 
 (D) Subparagraph (B) does not prohibit the Secretary of a military department from entering into an agreement outside of the centralized purchasing authority if the Secretary will obtain the best value by bundling the renewable energy certificates with the facility energy project through a power purchase agreement or other contractual mechanism at the installation.
 
-(E) Nothing in this paragraph shall be construed to authorize the purchase of renewableenergy certificates to meet Federal goals or mandates in the absence of the development of a facility energy project using renewable energy sources.
+(E) Nothing in this paragraph shall be construed to authorize the purchase of renewable energy certificates to meet Federal goals or mandates in the absence of the development of a facility energy project using renewable energy sources.
 
 (F) This policy does not make the purchase of renewable energy certificates mandatory, but the policy shall apply whenever original renewable energy certificates are proposed to be swapped for replacement renewable energy certificates.
 
-(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(a)(1), 2852, Oct. 17, 2006, 120 Stat. 2489, 2496; Pub. L. 111–84, div. B, title XXVIII, §2842, Oct. 28, 2009, 123 Stat. 2680; Pub. L. 111–383, div. B, title XXVIII, §§2831, 2832(a), Jan. 7, 2011, 124 Stat. 4467, 4468; Pub. L. 112–81, div. B, title XXVIII, §§2821(b)(1), 2822(b), 2823(a), 2824(a), 2825(b), Dec. 31, 2011, 125 Stat. 1691, 1692, 1694; Pub. L. 115–91, div. A, title III, §312, div. B, title XXVIII, §2831(a), Dec. 12, 2017, 131 Stat. 1348, 1857; Pub. L. 115–232, div. A, title III, §312(a), (b), Aug. 13, 2018, 132 Stat. 1709, 1710.)
+(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(a)(1), 2852, Oct. 17, 2006, 120 Stat. 2489, 2496; Pub. L. 111–84, div. B, title XXVIII, §2842, Oct. 28, 2009, 123 Stat. 2680; Pub. L. 111–383, div. B, title XXVIII, §§2831, 2832(a), Jan. 7, 2011, 124 Stat. 4467, 4468; Pub. L. 112–81, div. B, title XXVIII, §§2821(b)(1), 2822(b), 2823(a), 2824(a), 2825(b), Dec. 31, 2011, 125 Stat. 1691, 1692, 1694; Pub. L. 115–91, div. A, title III, §312, div. B, title XXVIII, §2831(a), Dec. 12, 2017, 131 Stat. 1348, 1857; Pub. L. 115–232, div. A, title III, §312(a), (b), Aug. 13, 2018, 132 Stat. 1709, 1710; Pub. L. 116–92, div. A, title III, §320(b), Dec. 20, 2019, 133 Stat. 1307.)
 
 #### Codification
 
-Section 312 of Pub. L. 115–91 amended subsec. (c) of this section, and section 2831(a)(2) and (4) of Pub. L. 115–91 respectively redesignated subsec. (c) as (e) and made amendments substantially identical to those made by section 312. Text is based on the amendments made by section 2831(a)(4) of Pub. L. 115–91. See 2017 Amendment notes below.
+Section 312 of Pub. L. 115–91 amended subsec. (c) of this section, and section 2831(a)(2) and (4) of Pub. L. 115–91 respectively redesignated subsec. (c) as (e) and made amendments substantially identical to those made by section 312. Pub. L. 116–92 subsequently amended subsec. (e) to address the duplicate amendments. See 2019 and 2017 Amendment notes below.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (e)(1), (2). Pub. L. 116–92, §320(b)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+
+"(1) Opportunities to reduce the current rate of consumption of energy, the future demand for energy, and the requirement for the use of energy.
+
+"(2) Opportunities to enhance energy resilience to ensure the Department of Defense has the ability to prepare for and recover from energy disruptions that impact mission assurance on military installations."
+
+Subsec. (e)(13). Pub. L. 116–92, §320(b)(2), which directed striking out "the second paragraph (13)", was executed by striking out the par. (13) added by Pub. L. 115–91, §2831(a)(4)(C), which read as follows: "Opportunities to leverage third-party financing to address installation energy needs." See 2017 Amendment note below.
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–232, §312(a), added pars. (1) and (2) and redesignated former pars. (1) to (3) as (3) to (5), respectively.
 
@@ -134,11 +142,13 @@ Subsecs. (a) to (d). Pub. L. 115–91, §2831(a)(2), (3), added subsecs. (a) and
 
 Subsec. (e). Pub. L. 115–91, §2831(a)(2), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
 
-Subsec. (e)(1). Pub. L. 115–91, §2831(a)(4)(A), inserted ", the future demand for energy, and the requirement for the use of energy" after "consumption of energy". See Codification note above.
+Subsec. (e)(1). Pub. L. 115–91, §§312(1), 2831(a)(4)(A), amended par. (1) identically, inserting ", the future demand for energy, and the requirement for the use of energy" after "consumption of energy". See Codification note above.
 
-Subsec. (e)(2). Pub. L. 115–91, §2831(a)(4)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Opportunities to reduce the future demand and the requirements for the use of energy." See Codification note above.
+Subsec. (e)(2). Pub. L. 115–91, §§312(2), 2831(a)(4)(B), made similar amendments to par. (2), resulting in substitution of "enhance energy resilience to ensure the Department of Defense has the ability to prepare for and recover from energy disruptions that impact mission assurance on military installations" for "reduce the future demand and the requirements for the use of energy". See Codification note above.
 
-Subsec. (e)(13). Pub. L. 115–91, §2831(a)(4)(C), added par. (13). See Codification note above.
+Subsec. (e)(13). Pub. L. 115–91, §2831(a)(4)(C), added par. (13) which read "Opportunities to leverage third-party financing to address installation energy needs." See Codification note above.
+
+Pub. L. 115–91, §312(3), added par. (13) which read "Opportunities to leverage financing provided by a non-Department entity to address installation energy needs." See Codification note above.
 
 Subsecs. (f), (g). Pub. L. 115–91, §2831(a)(2), redesignated subsecs. (d) and (e) as (f) and (g), respectively.
 
@@ -174,11 +184,95 @@ Pub. L. 111–84, §2842(a), (b), designated existing provisions as par. (1), re
 
 For termination, effective Dec. 31, 2021, of provisions in subsecs. (a) and (b)(3) of this section requiring submittal of annual reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
+#### Pilot Program for Availability of Working-Capital Funds for Increased Combat Capability Through Energy Optimization
+
+Pub. L. 116–92, div. A, title III, §337, Dec. 20, 2019, 133 Stat. 1316, provided that:
+
+"(a)
+
+In General.—Notwithstanding section 2208 of title 10, United States Code, the Secretary of Defense and the military departments may use a working capital fund established pursuant to that section for expenses directly related to conducting a pilot program for energy optimization initiatives described in subsection (b).
+
+"(b)
+
+Energy Optimization Initiatives.—Energy optimization initiatives covered by the pilot program include the research, development, procurement, installation, and sustainment of technologies or weapons system platforms, and the manpower required to do so, that would improve the efficiency and maintainability, extend the useful life, lower maintenance costs, or provide performance enhancement of the weapon system platform or major end item.
+
+"(c)
+
+Limitation on Certain Projects.—Funds may not be used pursuant to subsection (a) for—
+
+&emsp;"(1) any product improvement that significantly changes the performance envelope of an end item; or
+
+&emsp;"(2) any single component with an estimated total cost in excess of $10,000,000.
+
+"(d)
+
+Limitation in Fiscal Year Pending Timely Report.—If during any fiscal year the report required by paragraph (1) of subsection (e) is not submitted by the date specified in paragraph (2) of that subsection, funds may not be used pursuant to subsection (a) during the period—
+
+&emsp;"(1) beginning on the date specified in such paragraph (2); and
+
+&emsp;"(2) ending on the date of the submittal of the report.
+
+"(e)
+
+Annual Report.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall submit an annual report to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on the use of the authority under subsection (a) during the preceding fiscal year.
+
+&emsp;"(2)
+
+Deadline for submittal.—The report required by paragraph (1) in a fiscal year shall be submitted not later than 60 days after the date of the submittal to Congress of the budget of the President for the succeeding fiscal year pursuant to section 1105 of title 31, United States Code.
+
+&emsp;"(3)
+
+Recommendation.—In the case of the report required to be submitted under paragraph (1) during fiscal year 2020, the report shall include the recommendation of the Secretary of Defense and the military departments regarding whether the authority under subsection (a) should be made permanent.
+
+"(f)
+
+Sunset.—The authority under subsection (a) shall expire on October 1, 2024."
+
 #### Aggregation of Energy Efficiency and Energy Resilience Projects in Life Cycle Cost Analyses
 
 Pub. L. 115–91, div. B, title XXVIII, §2837, Dec. 12, 2017, 131 Stat. 1859, provided that: "The Secretary of Defense or the Secretary of a military department, when conducting life cycle cost analyses with respect to investments designed to lower costs and reduce energy and water consumption, shall aggregate energy efficiency projects and energy resilience improvements as appropriate."
 
 #### Energy Security for Military Installations in Europe
+
+Pub. L. 116–92, div. B, title XXVIII, §2821(a)–(c), Dec. 20, 2019, 133 Stat. 1888, provided that:
+
+"(a)
+
+Prohibition on Use of Certain Energy Source.—The Secretary of Defense shall ensure that each contract for the acquisition of furnished energy for a covered military installation in Europe does not use any energy sourced from inside the Russian Federation as a means of generating the furnished energy for the covered military installation.
+
+"(b)
+
+Waiver for National Security Interests.—
+
+&emsp;"(1)
+
+Waiver authority; certification.—The Secretary of Defense may waive application of subsection (a) to a specific contract for the acquisition of furnished energy for a covered military installation if the Secretary certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that—
+
+&emsp;&emsp;"(A) the waiver of such subsection is necessary to ensure an adequate supply of furnished energy for the covered military installation; and
+
+&emsp;&emsp;"(B) the Secretary has balanced these national security requirements against the potential risk associated with reliance upon the Russian Federation for furnished energy.
+
+&emsp;"(2)
+
+Submission of waiver notice.—Not later than 14 days before the execution of any energy contract for which a waiver is granted under paragraph (1), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] notice of the waiver. The waiver notice shall include the following:
+
+&emsp;&emsp;"(A) The rationale for the waiver, including the basis for the certifications required by subparagraphs (A) and (B) of paragraph (1).
+
+&emsp;&emsp;"(B) An assessment of how the waiver may impact the European energy resiliency strategy.
+
+&emsp;&emsp;"(C) An explanation of the measures the Department of Defense is taking to mitigate the risk of using Russian Federation furnished energy.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered military installation' means a military installation in Europe identified by the Department of Defense as a main operating base.
+
+&emsp;"(2) The term 'furnished energy' means energy furnished to a covered military installation in any form and for any purpose, including heating, cooling, and electricity."
 
 Pub. L. 115–91, div. B, title XXVIII, §2880, Dec. 12, 2017, 131 Stat. 1875, provided that:
 
@@ -208,7 +302,7 @@ Pub. L. 113–291, div. A, title III, §314, Dec. 19, 2014, 128 Stat. 3338, prov
 
 #### Guidance on Financing for Renewable Energy Projects
 
-Pub. L. 112–239, div. B, title XXVIII, §2824, Jan. 2, 2013, 126 Stat. 2153, as amended by Pub. L. 113–291, div. A, title IX, §901(n)(2), Dec. 19, 2014, 128 Stat. 3469, provided that:
+Pub. L. 112–239, div. B, title XXVIII, §2824, Jan. 2, 2013, 126 Stat. 2153, as amended by Pub. L. 113–291, div. A, title IX, §901(n)(2), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 116–92, div. A, title IX, §902(81), Dec. 20, 2019, 133 Stat. 1553, provided that:
 
 "(a)
 
@@ -236,11 +330,11 @@ Information Sharing.—Not later than 180 days after the date of the enactment o
 
 "(d)
 
-Consultation.—The Secretary of Defense shall issue the guidance under subsections (a) and (b) and develop the communications process under subsection (c) in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Assistant Secretary of Defense for Energy, Installations, and Environment. The Secretary of Defense shall also issue the guidance under subsection (b) in consultation with the Secretaries of the military departments."
+Consultation.—The Secretary of Defense shall issue the guidance under subsections (a) and (b) and develop the communications process under subsection (c) in consultation with the Under Secretary of Defense for Acquisition and Sustainment. The Secretary of Defense shall also issue the guidance under subsection (b) in consultation with the Secretaries of the military departments."
 
 #### Energy-Efficient Technologies in Contracts for Logistics Support of Contingency Operations
 
-Pub. L. 112–81, div. A, title III, §315, Dec. 31, 2011, 125 Stat. 1357, provided that:
+Pub. L. 112–81, div. A, title III, §315, Dec. 31, 2011, 125 Stat. 1357, as amended by Pub. L. 116–92, div. A, title IX, §902(82), title XVII, §1731(e), Dec. 20, 2019, 133 Stat. 1553, 1816, provided that:
 
 "(a)
 
@@ -256,21 +350,23 @@ Requirements for Energy Technologies and Processes.—Energy-efficient and energ
 
 &emsp;"(3) The technology or process is able to integrate seamlessly into the existing infrastructure in the contingency operation concerned.
 
-"(d) \[So in original. No subsec. (c) has been enacted.\]
+"(c)
 
-Regulations and Guidance.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall issue such regulations and guidance as may be needed to implement the requirements of this section and ensure that goals established pursuant to subsection (a) are met. Such regulations or guidance shall consider the lifecycle cost savings associated with the energy technology or process being offered by a vendor for defense logistics support and oblige the offeror to demonstrate the savings achieved over traditional technologies.
+Regulations and Guidance.—The Under Secretary of Defense for Acquisition and Sustainment shall issue such regulations and guidance as may be needed to implement the requirements of this section and ensure that goals established pursuant to subsection (a) are met. Such regulations or guidance shall consider the lifecycle cost savings associated with the energy technology or process being offered by a vendor for defense logistics support and oblige the offeror to demonstrate the savings achieved over traditional technologies.
 
-"(e)
+"(d)
 
 Report.—The annual report required by section 2925(b) of title 10, United States Code, shall include information on the progress in the implementation of this section, including savings achieved by the Department resulting from such implementation.
 
-"(f)
+"(e)
 
 Definitions.—In this section:
 
 &emsp;"(1) The term 'defense logistics support contract' means a contract for services, or a task order under such a contract, awarded by the Department of Defense to provide logistics support during times of military mobilizations, including contingency operations, in any amount greater than the simplified acquisition threshold.
 
 &emsp;"(2) The term 'contingency operation' has the meaning provided in section 101(a)(13) of title 10, United States Code."
+
+\[Pub. L. 116–92, div. A, title XVII, §1731(e), Dec. 20, 2019, 133 Stat. 1816, provided that the amendment made by section 1731(e) to section 315 of Pub. L. 112–81, setout above, is effective as of Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted. Consequently, the amendment made by section 902(82) of Pub. L. 116–92, which was directed to subsec. (d), was executed to subsec. (c) as redesignated by section 1731(e), to reflect the probable intent of Congress.\]
 
 #### Policy of Pursuing Energy Security
 
@@ -552,49 +648,5 @@ Pub. L. 109–364, div. A, title III, §360(a), Oct. 17, 2006, 120 Stat. 2164, p
 
 #### Department of Defense Energy Efficiency Program
 
-Pub. L. 107–107, div. A, title III, §317, Dec. 28, 2001, 115 Stat. 1054, provided that:
-
-"(a)
-
-Sense of Congress.—It is the sense of Congress that the Secretary of Defense should work to implement fuel efficiency reforms that allow for investment decisions based on the true cost of delivered fuel, strengthen the linkage between warfighting capability and fuel logistics requirements, provide high-level leadership encouraging fuel efficiency, target fuel efficiency improvements through science and technology investment, and include fuel efficiency in requirements and acquisition processes.
-
-"(b)
-
-Energy Efficiency Program.—The Secretary shall carry out a program to significantly improve the energy efficiency of facilities of the Department of Defense through 2010. The Secretary shall designate a senior official of the Department of Defense to be responsible for managing the program for the Department and a senior official of each military department to be responsible for managing the program for such department.
-
-"(c)
-
-Energy Efficiency Goals.—The goal of the energy efficiency program shall be to achieve reductions in energy consumption by facilities of the Department of Defense as follows:
-
-&emsp;"(1) In the case of industrial and laboratory facilities, reductions in the average energy consumption per square foot of such facilities, per unit of production or other applicable unit, relative to energy consumption in 1990—
-
-&emsp;&emsp;"(A) by 20 percent by 2005; and
-
-&emsp;&emsp;"(B) by 25 percent by 2010.
-
-&emsp;"(2) In the case of other facilities, reductions in average energy consumption per gross square foot of such facilities, relative to energy consumption per gross square foot in 1985—
-
-&emsp;&emsp;"(A) by 30 percent by 2005; and
-
-&emsp;&emsp;"(B) by 35 percent by 2010.
-
-"(d)
-
-Strategies for Improving Energy Efficiency.—In order to achieve the goals set forth in subsection (c), the Secretary shall, to the maximum extent practicable—
-
-&emsp;"(1) purchase energy-efficient products, as so designated by the Environmental Protection Agency and the Department of Energy, and other products that are energy-efficient;
-
-&emsp;"(2) utilize energy savings performance contracts, utility energy-efficiency service contracts, and other contracts designed to achieve energy conservation;
-
-&emsp;"(3) use life-cycle cost analysis, including assessment of life-cycle energy costs, in making decisions about investments in products, services, construction, and other projects;
-
-&emsp;"(4) conduct energy efficiency audits for approximately 10 percent of all Department of Defense facilities each year;
-
-&emsp;"(5) explore opportunities for energy efficiency in industrial facilities for steam systems, boiler operation, air compressor systems, industrial processes, and fuel switching; and
-
-&emsp;"(6) retire inefficient equipment on an accelerated basis where replacement results in lower life-cycle costs.
-
-"(e)
-
-Reporting Requirements.—Not later than January 1, 2002, and each January 1 thereafter through 2010, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the report required to be prepared by the Secretary pursuant to section 303 of Executive Order 13123 (64 Fed. Reg. 30851; \[former\] 42 U.S.C. 8251 note) regarding the progress made toward achieving the energy efficiency goals of the Department of Defense."
+Pub. L. 107–107, div. A, title III, §317, Dec. 28, 2001, 115 Stat. 1054, directed the Secretary of Defense to carry out a program to significantly improve the energy efficiency of facilities of the Department of Defense through 2010 and to submit annual reports to the congressional defense committees through 2010 regarding the progress made toward achieving the energy efficiency goals.
 

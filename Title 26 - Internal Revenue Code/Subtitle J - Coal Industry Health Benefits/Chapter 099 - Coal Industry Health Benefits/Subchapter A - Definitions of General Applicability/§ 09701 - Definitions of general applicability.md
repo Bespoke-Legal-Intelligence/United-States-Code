@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (6) Operators of dependent beneficiaries
 
-&emsp;For purposes of this chapter, the signatory operator, last signatory operator, or assignedoperator of any eligible beneficiary under this chapter who is a coal industry retiree shall be considered to be the signatory operator, last signatory operator, or assigned operator with respect to any other individual who is an eligible beneficiary under this chapter by reason of a relationship to the retiree.
+&emsp;For purposes of this chapter, the signatory operator, last signatory operator, or assigned operator of any eligible beneficiary under this chapter who is a coal industry retiree shall be considered to be the signatory operator, last signatory operator, or assigned operator with respect to any other individual who is an eligible beneficiary under this chapter by reason of a relationship to the retiree.
 
 #### (7) Business
 

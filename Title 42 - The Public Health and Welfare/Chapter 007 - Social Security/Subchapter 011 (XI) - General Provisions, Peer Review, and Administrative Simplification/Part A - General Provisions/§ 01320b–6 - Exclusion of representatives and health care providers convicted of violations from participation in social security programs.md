@@ -12,7 +12,7 @@ The Commissioner of Social Security shall exclude from participation in the soci
 
 #### (b) Notice, effective date, and period of exclusion
 
-(1) An exclusion under this section shall be effective at such time, for such period, and upon such reasonable notice to the public and to the individual excluded as may be specified in regulations consistent with paragraph (2).
+(1) An exclusion under this section shall be effective at such time, for such period, and uponsuch reasonable notice to the public and to the individual excluded as may be specified in regulations consistent with paragraph (2).
 
 (2) Such an exclusion shall be effective with respect to services furnished to any individual on or after the effective date of the exclusion. Nothing in this section may be construed to preclude, in determining disability under subchapter II or subchapter XVI, consideration of any medical evidence derived from services provided by a health care provider before the effective date of the exclusion of the health care provider under this section.
 
@@ -82,7 +82,7 @@ For purposes of this section:
 
 &emsp;The term "exclude" from participation means—
 
-&emsp;&emsp;(A) in connection with a representative, to prohibit from engaging in representation of an applicant for, or recipient of, benefits, as a representative payee under section 405(j) or section 1383(a)(2)(A)(ii) of this title, orotherwise as a representative, in any hearing or other proceeding relating to entitlement to benefits; and
+&emsp;&emsp;(A) in connection with a representative, to prohibit from engaging in representation of an applicant for, or recipient of, benefits, as a representative payee under section 405(j) or section 1383(a)(2)(A)(ii) of this title, or otherwise as a representative, in any hearing or other proceeding relating to entitlement to benefits; and
 
 &emsp;&emsp;(B) in connection with a health care provider, to prohibit from providing items or services to an applicant for, or recipient of, benefits for the purpose of assisting such applicant or recipient in demonstrating disability.
 

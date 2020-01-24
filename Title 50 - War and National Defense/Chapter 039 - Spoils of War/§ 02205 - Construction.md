@@ -4,7 +4,7 @@ Nothing in this chapter shall apply to—
 
 &emsp;(1) the abandonment or failure to take possession of spoils of war by troops in the field for valid military reasons related to the conduct of the immediate conflict, including the burden of transporting such property or a decision to allow allied forces to take immediate possession of certain property solely for use during an ongoing conflict;
 
-&emsp;(2) the abandonment or return of any property obtained, borrowed, or requisitioned for temporary use during military operations without intent to retain possession of such property;
+&emsp;(2) the abandonment or return of any property obtained, borrowed, or requisitioned for temporary use during military operationswithout intent to retain possession of such property;
 
 &emsp;(3) the destruction of spoils of war by troops in the field;
 

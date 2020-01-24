@@ -46,7 +46,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 #### (4) Public interest determinations on exclusive contracts
 
-&emsp;In determining whether an exclusive contract is in the public interest for purposes of paragraph (2)(D), the Commission shall consider each of the following factors with respect to the effect of such contract on the distribution of video programming in areas that are served by a cable operator:
+&emsp;In determining whether an exclusive contract is in the public interest for purposes ofparagraph (2)(D), the Commission shall consider each of the following factors with respect to the effect of such contract on the distribution of video programming in areas that are served by a cable operator:
 
 &emsp;&emsp;(A) the effect of such exclusive contract on the development of competition in local and national multichannel video programming distribution markets;
 
@@ -60,7 +60,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 #### (5) Sunset provision
 
-&emsp;The prohibition required by paragraph (2)(D) shall cease to be effective 10 years after October 5, 1992, unless the Commission finds, in aproceeding conducted during the last year of such 10-year period, that such prohibition continues to be necessary to preserve and protect competition and diversity in the distribution of video programming.
+&emsp;The prohibition required by paragraph (2)(D) shall cease to be effective 10 years after October 5, 1992, unless the Commission finds, in a proceeding conducted during the last year of such 10-year period, that such prohibition continues to be necessary to preserve and protect competition and diversity in the distribution of video programming.
 
 #### (d) Adjudicatory proceeding
 

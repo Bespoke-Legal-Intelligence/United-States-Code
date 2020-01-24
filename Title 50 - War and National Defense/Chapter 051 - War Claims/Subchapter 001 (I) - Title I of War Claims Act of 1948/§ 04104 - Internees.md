@@ -6,7 +6,7 @@ As used in subsections (b) and (f) of this section, the term "civilian American 
 
 #### (b) Payment of detention benefits
 
-The Commission is authorized to receive, adjudicate according to law, and provide for the payment of any claim filed by, or on behalf of, any civilian American citizen for detention benefits for any period of time subsequent to December6, 1941, during which he was held by the Imperial Japanese Government as a prisoner, internee, hostage, or in any other capacity, or remained in hiding to avoid being captured or interned by such Imperial Japanese Government.
+The Commission is authorized to receive, adjudicate according to law, and provide for the payment of any claim filed by, or on behalf of, any civilian American citizen for detention benefits for any period of time subsequent to December 6, 1941, during which he was held by the Imperial Japanese Government as a prisoner, internee, hostage, or in any other capacity, or remained in hiding to avoid being captured or interned by such Imperial Japanese Government.
 
 #### (c) Amount of detention benefits
 
@@ -26,7 +26,7 @@ The detention benefits allowed under subsection (b) shall be allowed to the pers
 
 #### (e) Certification of claims
 
-Any claim allowed by the Commission under this section (except under subsections (g) and (i)) shall be certified to the Secretary of the Treasury for payment out of the war claims funds established by section 4110 of this title, and shall be payable by the Secretary of the Treasury to the person entitled thereto; except that where the person entitled to payment is under any legal disability, any part of the amount payable may, in the discretion of the Commission, be paid, for the use of the claimant, to the natural or legal guardian, committee, conservator, or curator of the claimant, or, if there is no such guardian, committee, conservator, or curator, then the Commission may, in its discretion, make payment to any other person, including the spouse of such claimant, whom the Commission may determine is vested with the care of the claimant or his estate for the use and benefit of such claimant or estate; and if such person is a minor, any part of the amount payable may, in the discretion of the Commission, be paid to such minor.
+Any claim allowed by the Commission under this section (except under subsections (g) and (i)) shall be certified to the Secretary of the Treasury for payment out of the war claims funds established by section 4110 of this title, and shall be payable by the Secretary of theTreasury to the person entitled thereto; except that where the person entitled to payment is under any legal disability, any part of the amount payable may, in the discretion of the Commission, be paid, for the use of the claimant, to the natural or legal guardian, committee, conservator, or curator of the claimant, or, if there is no such guardian, committee, conservator, or curator, then the Commission may, in its discretion, make payment to any other person, including the spouse of such claimant, whom the Commission may determine is vested with the care of the claimant or his estate for the use and benefit of such claimant or estate; and if such person is a minor, any part of the amount payable may, in the discretion of the Commission, be paid to such minor.
 
 #### (f) Application of War Hazards Compensation Act; factors for determining benefits; effective date
 
@@ -52,7 +52,7 @@ Any claim allowed by the Commission under this section (except under subsections
 
 (7) No person, except a widow or a child, shall be entitled to benefits for disability with respect to himself, and to death benefits on account of the death of another.
 
-(8) If a civilian American citizen or his dependent receives or has received from the United States any payments on account of the same injury or death, or from his employer, in the form of wages, or payments in lieu of wages, or in any form of support or compensation (including workmen's compensation) in respect to the same objects, the benefits under this section shall be diminished by the amount of such payments in the following manner: (A) Benefits on account of injury or disability shall be reduced by the amount of payments to the injured person on account of the same injury or disability; and (B) benefits on account of death shall be reduced by the amount of payments to the dependents ofthe deceased civilian American citizen on account of the same death.
+(8) If a civilian American citizen or his dependent receives or has received from the United States any payments on account of the same injury or death, or from his employer, in the form of wages, or payments in lieu of wages, or in any form of support or compensation (including workmen's compensation) in respect to the same objects, the benefits under this section shall be diminished by the amount of such payments in the following manner: (A) Benefits on account of injury or disability shall be reduced by the amount of payments to the injured person on account of the same injury or disability; and (B) benefits on account of death shall be reduced by the amount of payments to the dependents of the deceased civilian American citizen on account of the same death.
 
 (9) This subsection shall take effect as of December 7, 1941, and the right of individuals to benefits shall be held to have begun to accrue as though this subsection had been in effect as of such date.
 
@@ -62,7 +62,7 @@ Any claim allowed by the Commission under this section (except under subsections
 
 #### (g) Benefits for civilian internees in Korea, and dependents; time
 
-(1) As used in this subsection, the term "civilian American citizens" means any person who, being then a citizen of the United States, was captured in Korea on or after June 25, 1950, by any hostile force with which the Armed Forces of the United States were actually engaged in armed conflict subsequent to such date and prior to August 21, 1954, or who went into hiding in Korea in order to avoid capture or internment by any such hostile force; except (A) a person who at any time voluntarily, knowingly, and without duress, gave aid to or collaborated with or in any manner served any such hostile force, or (B) a regularly appointed, enrolled, enlisted, or inducted member of the Armed Forces of the United States.
+(1) As used in this subsection, the term "civilian American citizens" means any person who, being then a citizen of the United States, wascaptured in Korea on or after June 25, 1950, by any hostile force with which the Armed Forces of the United States were actually engaged in armed conflict subsequent to such date and prior to August 21, 1954, or who went into hiding in Korea in order to avoid capture or internment by any such hostile force; except (A) a person who at any time voluntarily, knowingly, and without duress, gave aid to or collaborated with or in any manner served any such hostile force, or (B) a regularly appointed, enrolled, enlisted, or inducted member of the Armed Forces of the United States.
 
 (2) The Commission is authorized to receive and to determine, according to law, the amount and validity, and provide for the payment of any claim filed by, or on behalf of, any civilian American citizen for detention benefits for any period of time subsequent to June 25, 1950, during which he was held by any such hostile force as a prisoner, internee, hostage, or in any other capacity, or remained in hiding to avoid being captured or interned by any such hostile force.
 
@@ -94,7 +94,7 @@ Any claim allowed by the Commission under this section (except under subsections
 
 #### (h) Benefits for Guamanians killed or captured at Wake Island on or after December 7, 1941
 
-In the case of any Guamanian killed or captured by the Imperial Japanese Government on or after December 7, 1941, at Wake Island, benefits shall be granted under subsections (a) through (f) of this section in the same manner and to the same extent as apply in the case of civilian American citizens so killed or captured. Claims for benefits under subsections (a) through (e) of this section must be filed within six months after August 31, 1962, and the time limitation applicable to any individual by subsection (f) shall not begin to run until August 31, 1962, with respect to any individual who is entitled to such benefits solely by reason of this subsection. The preceding sentence shall not be construed to affect the right of any individual toreceive such benefits with respect to any period prior to August 31, 1962.
+In the case of any Guamanian killed or captured by the Imperial Japanese Government on or after December 7, 1941, at Wake Island, benefits shall be granted under subsections (a) through (f) of this section in the same manner and to the same extent as apply in the case of civilian American citizens so killed or captured. Claims for benefits under subsections (a) through (e) of this section must be filed within six months after August 31, 1962, and the time limitation applicable to any individual by subsection (f) shall not begin to run until August 31, 1962, with respect to any individual who is entitled to such benefits solely by reason of this subsection. The preceding sentence shall not be construed to affect the right of any individual to receive such benefits with respect to any period prior to August 31, 1962.
 
 #### (i) Detention benefits for civilian internees in Southeast Asia; definitions; authority of Commission; claim for benefits; rate of compensation; persons entitled to payments; certification for payment; filing date; determination of claims; appropriations
 
@@ -156,7 +156,7 @@ Subsec. (i). Pub. L. 91–289, §3(2), added subsec. (i).
 
 Subsec. (h). Pub. L. 87–617 added subsec. (h).
 
-<b>1954</b>—Subsec. (a). Act Aug. 31, 1954, §101(a), included as eligible for detention benefits, civilian Americancitizens who were captured at certain Pacific islands by the Japanese, but who were formerly expressly excluded from these benefits by reason of being Federal employees or employees of contractors with the United States, and to make them eligible for disability compensation. Act Aug. 21, 1954, §1(b), limited the application of such section's definition of "civilian American citizen" to subsecs. (b) and (f) of this section.
+<b>1954</b>—Subsec. (a). Act Aug. 31, 1954, §101(a), included as eligible for detention benefits, civilian American citizens who were captured at certain Pacific islands by the Japanese, but who were formerly expressly excluded from these benefits by reason of being Federal employees or employees of contractors with the United States, and to make them eligible for disability compensation. Act Aug. 21, 1954, §1(b), limited the application of such section's definition of "civilian American citizen" to subsecs. (b) and (f) of this section.
 
 Subsec. (d). Act Aug. 31, 1954, §102(a), (b), struck out "dependent" wherever appearing, and added cl. (4).
 
@@ -174,7 +174,7 @@ Subsec. (g). Act Aug. 21, 1954, §1(a), added subsec. (g).
 
 "Secretary of Labor" substituted for "Federal Security Administrator" in subsec. (f)(6) pursuant to Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator and Federal Security Agency under this section to Secretary of Labor, with power to delegate, and was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See section 8145 of Title 5, Government Organization and Employees.
 
-For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
+For provisions transferring Foreign Claims Settlement Commission of the United States to Departmentof Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 
 War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, section 4101 of this title and notes thereunder.
 

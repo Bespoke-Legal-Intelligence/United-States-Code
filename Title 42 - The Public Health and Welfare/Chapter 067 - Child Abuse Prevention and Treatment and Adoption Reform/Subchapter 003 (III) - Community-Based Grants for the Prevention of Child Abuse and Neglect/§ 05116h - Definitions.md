@@ -28,11 +28,11 @@ For purposes of this subchapter:
 
 A prior section 208 of Pub. L. 93–247 was renumbered section 207 and is classified to section 5116g of this title.
 
-Another prior section 208 of Pub. L. 93–247 was classified to section 5116g of this title prior to the general amendment of this subchapter by Pub. L. 103–252, §401(a).
+Another prior section 208 of Pub. L. 93–247 was classified to section 5116g of this title prior to the generalamendment of this subchapter by Pub. L. 103–252, §401(a).
 
 #### Amendments
 
-<b>2010</b>—Par. (1). Pub. L. 111–320, §139(1), (2), redesignated par. (2) as (1) and struck out former par. (1). Prior toamendment, text of par. (1) read as follows: "The term 'children with disabilities' has the same meaning given the term 'child with a disability' in section 1401(3) or 'infant or toddler with a disability' in section 1432(5) of title 20."
+<b>2010</b>—Par. (1). Pub. L. 111–320, §139(1), (2), redesignated par. (2) as (1) and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "The term 'children with disabilities' has the same meaning given the term 'child with a disability' in section 1401(3) or 'infant or toddler with a disability' in section 1432(5) of title 20."
 
 Par. (2). Pub. L. 111–320, §139(2), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 

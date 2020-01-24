@@ -36,7 +36,7 @@ An agreement with any institution of higher education, or consortia thereof, for
 
 &emsp;(1) supplement the agreement entered into in accordance with subsection (a);
 
-&emsp;(2) include provisions established by the Secretary that are similar to the participationagreement provisions described in paragraphs (1)(E)(ii), (2), (3), (4), (5), and (6) of subsection (a), as modified to relate to the origination of loans by the institution or consortium;
+&emsp;(2) include provisions established by the Secretary that are similar to the participation agreement provisions described in paragraphs (1)(E)(ii), (2), (3), (4), (5), and (6) of subsection (a), as modified to relate to the origination of loans by the institution or consortium;
 
 &emsp;(3) provide that the institution or consortium will originate loans to eligible students and parents in accordance with this part; and
 
@@ -46,7 +46,7 @@ An agreement with any institution of higher education, or consortia thereof, for
 
 The Secretary shall establish procedures by which institutions or consortia may withdraw or be terminated from the program under this part.
 
-(Pub. L. 89–329, title IV, §454, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1438; amended Pub. L. 100–50, §12, June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 571; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 345; Pub. L. 111–152, title II, §2210(a), Mar. 30, 2010, 124 Stat. 1078.)
+(Pub. L. 89–329, title IV, §454, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1438;amended Pub. L. 100–50, §12, June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 571; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 345; Pub. L. 111–152, title II, §2210(a), Mar. 30, 2010, 124 Stat. 1078.)
 
 #### Amendments
 

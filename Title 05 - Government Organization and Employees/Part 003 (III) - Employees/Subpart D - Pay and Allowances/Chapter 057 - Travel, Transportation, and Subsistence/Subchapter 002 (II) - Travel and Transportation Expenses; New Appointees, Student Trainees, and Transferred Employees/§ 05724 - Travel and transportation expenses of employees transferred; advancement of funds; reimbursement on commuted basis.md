@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(A) during or after the five years preceding eligibility to receive an annuity under subchapter III of chapter 83, or of chapter 84 of this title, has been transferred in the interest of the Government from one official station to another for permanent duty as a career appointee in the Senior Executive Service or as a director under section 4103(a)(8) of title 38 (as in effect on November 17, 1988); and
 
-&emsp;&emsp;(B) is eligible to receive an annuity upon such separation (or, in the case of death in service, met the requirements for being considered eligible to receive an annuity, as of date of death) under the provisions of subchapter III of chapter 83 or chapter 84 of this title.
+&emsp;&emsp;(B) is eligible to receive an annuity upon such separation (or, in the case of death in service, met the requirements for being considered eligible to receive an annuity, as ofdate of death) under the provisions of subchapter III of chapter 83 or chapter 84 of this title.
 
 (b) Under regulations prescribed under section 5738 of this title, an employee who transports a house trailer or mobile dwelling inside the continental United States, inside Alaska, or between the continental United States and Alaska, for use as a residence, and who otherwise would be entitled to transportation of household goods and personal effects under subsection (a) of this section, is entitled, instead of that transportation, to—
 
@@ -68,7 +68,7 @@ Sept. 6, 1960, Pub. L. 86–707, §301(c)(1), 74 Stat. 796.
 
 Oct. 9, 1962, Pub. L. 87–776, 76 Stat. 777.
 
-In subsections (a)(1) and (f), the words "section 5704 of this title" and "section 5705 of this title", respectively, are substituted for "the Act of February 14, 1931 (5 U.S.C. 73a)" and "the Subsistence Expense Act of 1926 (5 U.S.C. 828)", respectively, on authority of sections 4, 5, and 9(a) of the Travel Expense Act of 1949, as amended, which are carried into sections 5704, 5705, and 5708.
+In subsections (a)(1) and (f), the words "section 5704 of this title" and "section 5705 of this title", respectively,are substituted for "the Act of February 14, 1931 (5 U.S.C. 73a)" and "the Subsistence Expense Act of 1926 (5 U.S.C. 828)", respectively, on authority of sections 4, 5, and 9(a) of the Travel Expense Act of 1949, as amended, which are carried into sections 5704, 5705, and 5708.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -192,7 +192,7 @@ Pub. L. 98–151, §118(c), Nov. 14, 1983, 97 Stat. 979, provided that:
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1968 Amendment
 

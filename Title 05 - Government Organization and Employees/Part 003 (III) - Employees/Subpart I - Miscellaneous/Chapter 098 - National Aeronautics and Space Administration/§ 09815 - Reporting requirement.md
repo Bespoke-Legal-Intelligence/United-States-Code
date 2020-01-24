@@ -8,7 +8,7 @@ The Administrator shall submit to the appropriate committees of Congress, not la
 
 &emsp;(3) The total number of term appointments converted during the preceding fiscal year under section 9806 and, of that total number, the number of conversions that were made to address a critical need described in the workforce plan pursuant to section 9802(b)(2).
 
-&emsp;(4) The number of positions for which the rate of basic pay was fixed under section 9807 during the preceding fiscal year, the number of positions for which the rate of basic payunder such section was terminated during the preceding fiscal year, and the number of times the rate of basic pay was fixed under such section to address a critical need described in the workforce plan pursuant to section 9802(b)(2).
+&emsp;(4) The number of positions for which the rate of basic pay was fixed under section 9807 during the preceding fiscal year, the number of positions for which the rate of basic pay under such section was terminated during the preceding fiscal year, and the number of times the rate of basic pay was fixed under such section to address a critical need described in the workforce plan pursuant to section 9802(b)(2).
 
 &emsp;(5) The number of scholarships awarded under section 9809 during the preceding fiscal year and the number of scholarship recipients appointed by the Administration during the preceding fiscal year.
 

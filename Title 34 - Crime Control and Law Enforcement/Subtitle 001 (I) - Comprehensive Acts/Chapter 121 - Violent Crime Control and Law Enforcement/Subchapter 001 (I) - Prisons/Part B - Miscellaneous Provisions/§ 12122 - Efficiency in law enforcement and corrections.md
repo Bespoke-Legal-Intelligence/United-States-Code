@@ -16,7 +16,7 @@ The Attorney General may make an assessment of the cost efficiency and utility o
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796, known as the ViolentCrime Control and Law Enforcement Act of 1994. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 10101 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796, known as the Violent Crime Control and Law Enforcement Act of 1994. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 10101 of this title and Tables.
 
 #### Codification
 

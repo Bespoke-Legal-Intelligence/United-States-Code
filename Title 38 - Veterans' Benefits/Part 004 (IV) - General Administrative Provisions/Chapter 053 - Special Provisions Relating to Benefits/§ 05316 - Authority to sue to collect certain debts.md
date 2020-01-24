@@ -26,7 +26,7 @@ Subsec. (a)(2). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for
 
 Subsec. (a)(3). Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Administration".
 
-Subsecs. (b), (c). Pub. L. 102–54, §14(d)(3)(B), amended section as in effect immediately before the enactment of Pub. L. 102–40 by redesignating subsec. (c) as (b) and striking out former subsec. (b) which read as follows: "Not later than ninety days after the date of the enactment of this section, the Administrator and the Attorney General of the United States shall submit to theappropriate committees of the Congress a joint report that describes and explains the actions taken by the Administrator and the Attorney General to implement subsection (a) of this section."
+Subsecs. (b), (c). Pub. L. 102–54, §14(d)(3)(B), amended section as in effect immediately before the enactment of Pub. L. 102–40 by redesignating subsec. (c) as (b) and striking out former subsec. (b) which read as follows: "Not later than ninety days after the date of the enactment of this section, the Administrator and the Attorney General of the United States shall submit to the appropriate committees of the Congress a joint report that describes and explains the actions taken by the Administrator and the Attorney General to implement subsection (a) of this section."
 
 #### Effective Date
 

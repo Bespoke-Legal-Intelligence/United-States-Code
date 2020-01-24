@@ -2,7 +2,7 @@
 
 #### (a) Reports by employees
 
-Every employee who, in the course of his employment by an employer, receives in any calendar month tips which are wages (as defined in section 3121(a) or section 3401(a)) or which are compensation (as defined in section 3231(e)) shall report all such tips in one or more written statements furnished to his employer on or before the 10th day following such month. Such statements shall be furnished by the employee under such regulations, at such other times before such 10th day, and in such form and manner, as may be prescribed by the Secretary.
+Every employee who, in the course of his employment by an employer, receives in any calendar month tips which are wages (as defined insection 3121(a) or section 3401(a)) or which are compensation (as defined in section 3231(e)) shall report all such tips in one or more written statements furnished to his employer on or before the 10th day following such month. Such statements shall be furnished by the employee under such regulations, at such other times before such 10th day, and in such form and manner, as may be prescribed by the Secretary.
 
 #### (b) Statements furnished by employers
 
@@ -30,7 +30,7 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 #### (2) Furnishing of statement to employees
 
-&emsp;Each employer described in paragraph (1) shall furnish, in such manner as the Secretarymay prescribe by regulations, to each employee of the large food or beverage establishment a written statement for each calendar year showing the following information:
+&emsp;Each employer described in paragraph (1) shall furnish, in such manner as the Secretary may prescribe by regulations, to each employee of the large food or beverage establishment a written statement for each calendar year showing the following information:
 
 &emsp;&emsp;(A) The name and address of such employer.
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 113–295 applicable with respect to wages for services per
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title X, §1072(c)(2), July 18, 1984, 98 Stat. 1052, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to calendar years beginning after December 31, 1982."
+Pub. L. 98–369, div. A, title X, §1072(c)(2), July 18, 1984, 98 Stat. 1052, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to calendar years beginning after December 31, 1982."
 
 #### Effective Date of 1982 Amendment
 

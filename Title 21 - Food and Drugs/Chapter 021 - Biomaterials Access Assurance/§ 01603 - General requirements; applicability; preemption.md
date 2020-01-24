@@ -36,7 +36,7 @@
 
 #### (2) Applicability of other laws
 
-&emsp;Any issue that arises under this chapter and that is not governed by a rule of law applicable to the recovery of damages described inparagraph (1) shall be governed by applicable Federal or State law.
+&emsp;Any issue that arises under this chapter and that is not governed by a rule of law applicable to the recovery of damages described in paragraph (1) shall be governed by applicable Federal or State law.
 
 #### (d) Statutory construction
 

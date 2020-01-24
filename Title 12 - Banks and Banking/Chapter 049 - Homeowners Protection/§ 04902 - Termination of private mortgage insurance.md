@@ -2,7 +2,7 @@
 
 #### (a) Borrower cancellation
 
-A requirement for private mortgage insurance in connection with a residential mortgage transaction shall be canceled on the cancellation date or any later date that the mortgagor fulfills allof the requirements under paragraphs (1) through (4), if the mortgagor—
+A requirement for private mortgage insurance in connection with a residential mortgage transaction shall be canceled on the cancellation date or any later date that the mortgagor fulfills all of the requirements under paragraphs (1) through (4), if the mortgagor—
 
 &emsp;(1) submits a request in writing to the servicer that cancellation be initiated;
 
@@ -30,7 +30,7 @@ If a requirement for private mortgage insurance is not otherwise canceled or ter
 
 #### (d) Treatment of loan modifications
 
-If a mortgagor and mortgagee (or holder of the mortgage) agree to a modification of the terms or conditions of a loan pursuant to a residential mortgage transaction, the cancellation date, termination date, or final termination shall be recalculated to reflect the modified terms and conditions of such loan.
+If a mortgagor and mortgagee (or holder of the mortgage) agree to a modification of the terms or conditions of a loan pursuant to a residential mortgage transaction, the cancellation date, termination date, or final termination shall berecalculated to reflect the modified terms and conditions of such loan.
 
 #### (e) No further payments
 
@@ -68,7 +68,7 @@ No payments or premiums may be required from the mortgagor in connection with a 
 
 &emsp;&emsp;&emsp;(i) with respect to a fixed rate mortgage, on the date on which the principal balance of the mortgage, based solely on the initial amortization schedule for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 77 percent of the original value of the property securing the loan; and
 
-&emsp;&emsp;&emsp;(ii) with respect to an adjustable rate mortgage, on the date on which the principal balance of the mortgage, based solely on the amortization schedule then in effect for that mortgage, and irrespective ofthe outstanding balance for that mortgage on that date, is first scheduled to reach 77 percent of the original value of the property securing the loan.
+&emsp;&emsp;&emsp;(ii) with respect to an adjustable rate mortgage, on the date on which the principal balance of the mortgage, based solely on the amortization schedule then in effect for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 77 percent of the original value of the property securing the loan.
 
 #### (2) Termination at midpoint
 
@@ -98,7 +98,7 @@ No payments or premiums may be required from the mortgagor in connection with a 
 
 #### (h) Accrued obligation for premium payments
 
-The cancellation or termination under this section of the private mortgage insurance of a mortgagor shall not affect the rights of any mortgagee, servicer, or mortgage insurer to enforce any obligation of such mortgagor for premium payments accrued prior to the date on which such cancellation or termination occurred.
+The cancellation or termination under this section of the private mortgage insurance of amortgagor shall not affect the rights of any mortgagee, servicer, or mortgage insurer to enforce any obligation of such mortgagor for premium payments accrued prior to the date on which such cancellation or termination occurred.
 
 (Pub. L. 105–216, §3, July 29, 1998, 112 Stat. 899; Pub. L. 106–569, title IV, §§402(a)(2), (c)(1), 403(a), 404, 405(b), (c), Dec. 27, 2000, 114 Stat. 2956–2958.)
 

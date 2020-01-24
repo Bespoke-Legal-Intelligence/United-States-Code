@@ -148,7 +148,7 @@ Pub. L. 112–220, Dec. 28, 2012, 126 Stat. 1596, provided that:
 
 &emsp;"(5) The IRGC's Qods Force stations operatives in foreign embassies, charities, and religious and cultural institutions to foster relationships, often building on existing socioeconomic ties with the well established Shia Diaspora, and recent years have witnessed an increased presence in Latin America.
 
-&emsp;"(6) According to the Department of Defense, the IRGC and its Qods Force played a significant role insome of the deadliest terrorist attacks of the past two decades, including the 1994 attack on the AMIA Jewish Community Center in Buenos Aires, by generally directing or supporting the groups that actually executed the attacks.
+&emsp;"(6) According to the Department of Defense, the IRGC and its Qods Force played a significant role in some of the deadliest terrorist attacks of the past two decades, including the 1994 attack on the AMIA Jewish Community Center in Buenos Aires, by generally directing or supporting the groups that actually executed the attacks.
 
 &emsp;"(7) Reports of Iranian intelligence agents being implicated in Hezbollah-linked activities since the early 1990s suggest direct Iranian government support of Hezbollah activities in the Tri-Border Area of Argentina, Brazil, and Paraguay, and in the past decade, Iran has dramatically increased its diplomatic missions to Venezuela, Bolivia, Nicaragua, Ecuador, Argentina, and Brazil. Iran has built 17 cultural centers in Latin America, and it currently maintains 11 embassies, up from 6 in 2005.
 
@@ -160,7 +160,7 @@ Pub. L. 112–220, Dec. 28, 2012, 126 Stat. 1596, provided that:
 
 &emsp;"(11) In October 2011, the United States charged two men, Manssor Arbabsiar, a United States citizen holding both Iranian and United States passports, and Gholam Shakuri, an Iran-based member of Iran's IRGC Qods Force, with conspiracy to murder a foreign official using explosives in an act of terrorism. Arbabsiar traveled to Mexico with the express intent to hire 'someone in the narcotics business' to carry out the assassination of the Saudi Arabian Ambassador in the United States. While in the end, he only engaged a U.S. Drug Enforcement Agency informant posing as an associate of a drug trafficking cartel, Arbabsiar believed that he was working with a member of a Mexican drug trafficking organization and sought to send money to this individual in installments and not in a single transfer.
 
-&emsp;"(12) In February 2011, actions by the Department of the Treasury effectively shut down the Lebanese Canadian Bank. Subsequent actions by the United States Government in connection with the investigation into Lebanese Canadian Bank resulted in the indictment in December 2011 of Ayman Joumaa, an individual of Lebanese nationality, with citizenship in Lebanon and Colombia, and with ties to Hezbollah, for trafficking cocaine to the Los Zetas drug trafficking organization in Mexico City for sale in the United States and for laundering the proceeds.
+&emsp;"(12) In February 2011, actions by the Department of the Treasury effectively shut down the LebaneseCanadian Bank. Subsequent actions by the United States Government in connection with the investigation into Lebanese Canadian Bank resulted in the indictment in December 2011 of Ayman Joumaa, an individual of Lebanese nationality, with citizenship in Lebanon and Colombia, and with ties to Hezbollah, for trafficking cocaine to the Los Zetas drug trafficking organization in Mexico City for sale in the United States and for laundering the proceeds.
 
 #### "SEC. 3. STATEMENT OF POLICY.
 
@@ -202,7 +202,7 @@ Matters To Be Included.—The strategy described in subsection (a) should includ
 
 &emsp;&emsp;"(A) with respect to the United States borders, in coordination with the Governments of Mexico and Canada and the Secretary of Homeland Security, a plan to address resources, technology, and infrastructure to create a secure United States border and strengthen the ability of the United States and its allies to prevent operatives from Iran, the IRGC, its Qods Force, Hezbollah, or any other terrorist organization from entering the United States; and
 
-&emsp;&emsp;"(B) within Latin American countries, a multiagency action plan, in coordination with United States allies and partners in the region, that includes the development of strong rule-of-law institutions to provide security in such countries and a counterterrorism and counter-radicalization plan to isolate Iran, the IRGC, its Qods Force,Hezbollah, and other terrorist organizations linked to Iran that may be present in the Western Hemisphere from their sources of financial support and counter their facilitation of terrorist activity; and
+&emsp;&emsp;"(B) within Latin American countries, a multiagency action plan, in coordination with United States allies and partners in the region, that includes the development of strong rule-of-law institutions to provide security in such countries and a counterterrorism and counter-radicalization plan to isolate Iran, the IRGC, its Qods Force, Hezbollah, and other terrorist organizations linked to Iran that may be present in the Western Hemisphere from their sources of financial support and counter their facilitation of terrorist activity; and
 
 &emsp;"(7) a plan—
 

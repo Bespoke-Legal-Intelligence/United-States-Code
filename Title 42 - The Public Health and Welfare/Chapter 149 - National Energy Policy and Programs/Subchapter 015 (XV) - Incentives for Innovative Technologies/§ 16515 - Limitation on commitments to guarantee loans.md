@@ -2,7 +2,7 @@
 
 (a) Notwithstanding section 101,<sup>1</sup> subject to the Federal Credit Reform Act of 1990, as amended \[2 U.S.C. 661 et seq.\], commitments to guarantee loans under title XVII of the Energy Policy Act of 2005 \[42 U.S.C. 16501 et seq.\] shall not exceed a total principal amount, any part of which is to be guaranteed, of $4,000,000,000: <i>Provided</i>, That there are appropriated for the cost of the guaranteed loans such sums as are hereafter derived from amounts received from borrowers pursuant to section 16512(b)(2) of this title, to remain available until expended: <i>Provided further</i>, That the source of payments received from borrowers for the subsidy cost shall not be a loan or other debt obligation that is made or guaranteed by the Federal government.<sup>2</sup> In addition, fees collected pursuant to section 16512(h) of this title in fiscal year 2007 shall be credited as offsetting collections to the Departmental Administration account for administrative expenses of the Loan Guarantee Program: <i>Provided further</i>, That the sum appropriated for administrative expenses for the Loan Guarantee Program shall be reduced by the amount of fees received during fiscal year 2007: <i>Provided further</i>, That any fees collected under section 16512(h) of this title in excess of the amount appropriated for administrative expenses shall not be available until appropriated.
 
-(b) No loan guarantees may be awarded under title XVII of the Energy Policy Act of 2005 \[42 U.S.C. 16501 et seq.\] until final regulations are issued that include—
+(b) No loan guarantees may be awarded under title XVII of the Energy Policy Act of 2005 \[42U.S.C. 16501 et seq.\] until final regulations are issued that include—
 
 &emsp;(1) programmatic, technical, and financial factors the Secretary will use to select projects for loan guarantees;
 
@@ -14,7 +14,7 @@
 
 (d) The Secretary of Energy shall promulgate final regulations for loan guarantees under title XVII of the Energy Policy Act of 2005 \[42 U.S.C. 16501 et seq.\] within 6 months of February 15, 2007.
 
-(e) Not later than 120 days after February 15, 2007, and annually thereafter, the Secretary of Energy shall transmit to the Committees on Appropriations of the House of Representatives and the Senate a report containing a summary of all activities under title XVII of the Energy Policy Act of 2005 \[42 U.S.C. 16501 et seq.\], beginning in fiscal year 2007, with a listing of responses to loan guarantee solicitations under this subchapter, describing the technologies, amount of loan guarantee sought, and the applicants' assessment of risk.
+(e) Not later than 120 days after February 15, 2007, and annually thereafter, the Secretary of Energy shall transmit to the Committees on Appropriations of the House of Representatives and the Senate a report containing a summary of all activities under title XVII of the Energy Policy Act of 2005 \[42 U.S.C. 16511 et seq.\], beginning in fiscal year 2007, with a listing of responses to loan guarantee solicitations under such title, describing the technologies, amount of loan guarantee sought, and the applicants' assessment of risk.
 
 (Pub. L. 109–289, div. B, title II, §20320, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 21; amended Pub. L. 113–76, div. D, title III, §307, Jan. 17, 2014, 128 Stat. 175.)
 

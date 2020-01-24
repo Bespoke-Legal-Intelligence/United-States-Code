@@ -78,7 +78,7 @@ Pub. L. 101–510, div. A, title IX, §911(b)\[(c)\], Nov. 5, 1990, 104 Stat. 16
 
 Pub. L. 107–107, div. A, title V, §527(a), Dec. 28, 2001, 115 Stat. 1101, provided that:
 
-"(1) Effective beginning with fiscal year 2003, the Secretary of Defense shall be the executive agent for funding professional development education operations of all components of the National Defense University, including the Joint Forces Staff College. The Secretarymay not delegate the Secretary's functions and responsibilities under the preceding sentence to the Secretary of a military department.
+"(1) Effective beginning with fiscal year 2003, the Secretary of Defense shall be the executive agent for funding professional development education operations of all components of the National Defense University, including the Joint Forces Staff College. The Secretary may not delegate the Secretary's functions and responsibilities under the preceding sentence to the Secretary of a military department.
 
 "(2) Nothing in this subsection affects policies in effect on the date of the enactment of this Act \[Dec. 28, 2001\] with respect to—
 

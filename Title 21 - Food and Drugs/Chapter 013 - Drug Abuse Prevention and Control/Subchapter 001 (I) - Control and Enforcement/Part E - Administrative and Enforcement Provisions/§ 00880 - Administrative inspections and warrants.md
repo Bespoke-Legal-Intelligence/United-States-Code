@@ -60,7 +60,7 @@ Issuance and execution of administrative inspection warrants shall be as follows
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a)(2). Pub. L. 103–200, §6(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "places, including factories, warehouses, or other establishments, and conveyances, where persons registered under section 823 of this title (or exempted from registration under section 822(d) of this title) may lawfully hold, manufacture, or distribute, dispense, administer, or otherwise dispose of controlled substances."
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–200, §6(1), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: "places, including factories, warehouses, or other establishments, and conveyances, where persons registered under section 823 of this title (or exempted from registration under section 822(d) of this title) may lawfully hold, manufacture, or distribute, dispense, administer, or otherwise dispose of controlled substances."
 
 Subsec. (b)(3)(B). Pub. L. 103–200, §6(2)(A), inserted ", listed chemicals," after "unfinished drugs".
 

@@ -38,7 +38,7 @@ Except as provided in subsection (c), consumer financial protection functions ar
 
 #### (B) Comptroller authority
 
-&emsp;&emsp;The Bureau shall have all powers and duties that were vested in the Comptroller of the Currency, relating to consumer financial protection functions, on the day before the designated transfer date.
+&emsp;&emsp;The Bureau shall have all powers and duties that were vested in the Comptroller ofthe Currency, relating to consumer financial protection functions, on the day before the designated transfer date.
 
 #### (3) Director of the Office of Thrift Supervision
 
@@ -58,7 +58,7 @@ Except as provided in subsection (c), consumer financial protection functions ar
 
 #### (B) Corporation authority
 
-&emsp;&emsp;The Bureau shall have all powers and duties that were vested in the Federal DepositInsurance Corporation, relating to consumer financial protection functions, on the day before the designated transfer date.
+&emsp;&emsp;The Bureau shall have all powers and duties that were vested in the Federal Deposit Insurance Corporation, relating to consumer financial protection functions, on the day before the designated transfer date.
 
 #### (5) Federal Trade Commission
 
@@ -168,7 +168,7 @@ The Interstate Land Sales Full Disclosure Act, referred to in subsec. (b)(7), is
 
 The Federal Credit Union Act, referred to in subsec. (c)(2)(C)(i), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
-The Bank Service Company Act, referred to in subsec. (c)(2)(C)(iii), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132, which is classified generally to chapter 18 (§1861 et seq.) of this title. For complete classification of this Act to the Code, see section 1861 of this title and Tables.
+The Bank Service Company Act, referred to in subsec. (c)(2)(C)(iii), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat.1132, which is classified generally to chapter 18 (§1861 et seq.) of this title. For complete classification of this Act to the Code, see section 1861 of this title and Tables.
 
 #### Effective Date
 

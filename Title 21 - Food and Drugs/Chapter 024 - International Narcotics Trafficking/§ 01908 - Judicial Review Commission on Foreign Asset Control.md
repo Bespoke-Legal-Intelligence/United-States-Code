@@ -38,7 +38,7 @@ The Commission shall have as its duties the following:
 
 (2) The Commission may secure directly from any executive department, agency, bureau, board, commission, office, independent establishment, or instrumentality of the Government information, suggestions, estimates, and statistics for the purposes of this section. Each such department, agency, bureau, board, commission, office, establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request of the chairman of the Commission. The Commission shall handle and protect all classified information provided to it under this section in accordance with applicable statutes and regulations.
 
-(3) The Attorney General and the Secretary of the Treasury shall provide to the Commission, on a nonreimbursable basis, such administrative services, funds, facilities, and other support services as are necessary for the performance of the Commission's duties under this section.
+(3) The Attorney General and the Secretary of the Treasury shall provide to the Commission,on a nonreimbursable basis, such administrative services, funds, facilities, and other support services as are necessary for the performance of the Commission's duties under this section.
 
 (4) The Commission shall receive the full and timely cooperation of any official, department, or agency of the United States Government whose assistance is necessary for the fulfillment of the duties of the Commission under this section, including the provision of full and current briefings and analyses.
 

@@ -20,7 +20,7 @@
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–509, which directed the substitution of "in a position classified above GS–15pursuant to section 5108)" for "in GS–16, 17, or 18)", was executed by making the substitution for "in GS–16, GS–17, or GS–18)", as the probable intent of Congress.
+<b>1990</b>—Subsec. (a). Pub. L. 101–509, which directed the substitution of "in a position classified above GS–15 pursuant to section 5108)" for "in GS–16, 17, or 18)", was executed by making the substitution for "in GS–16, GS–17, or GS–18)", as the probable intent of Congress.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), (3), substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively, wherever appearing.
 

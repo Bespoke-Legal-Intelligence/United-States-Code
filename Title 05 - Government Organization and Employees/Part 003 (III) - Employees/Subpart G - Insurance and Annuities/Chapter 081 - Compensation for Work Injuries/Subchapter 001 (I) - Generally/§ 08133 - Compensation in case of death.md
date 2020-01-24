@@ -1,6 +1,6 @@
 ### §8133. Compensation in case of death
 
-(a) If death results from an injury sustained in the performance of duty, the United States shall pay a monthly compensation equal to a percentage of the monthly pay of the deceased employee in accordance with the following schedule:
+(a) If death results from an injury sustained in the performance of duty, the United States shallpay a monthly compensation equal to a percentage of the monthly pay of the deceased employee in accordance with the following schedule:
 
 &emsp;(1) To the widow or widower, if there is no child, 50 percent.
 

@@ -22,11 +22,11 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(i) any official who is responsible for submitting the agency tender in such competition; and
 
-&emsp;&emsp;&emsp;(ii) any one individual who, for the purpose of representing the Federal employees engaged in the performance of the activity or function for which the public-private competition is conducted in a protest under this subchapter that relates to such public-private competition, has been designated as the agent of the Federal employees by a majority of such employees.
+&emsp;&emsp;&emsp;(ii) any one individual who, for the purpose of representing the Federal employees engaged in the performance of the activity or function for which the public-privatecompetition is conducted in a protest under this subchapter that relates to such public-private competition, has been designated as the agent of the Federal employees by a majority of such employees.
 
 &emsp;(3) The term "Federal agency" has the meaning given such term by section 102 of title 40.
 
-(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1199; amended Pub. L. 99–145, title XIII, §1304(d), Nov. 8, 1985, 99 Stat. 742; Pub. L. 103–272, §4(f)(1)(K), July 5, 1994, 108 Stat. 1362; Pub. L. 103–355, title I, §1401, Oct. 13,1994, 108 Stat. 3287; Pub. L. 104–106, div. D, title XLIII, §4321(d)(1), Feb. 10, 1996, 110 Stat. 674; Pub. L. 107–217, §3(h)(6), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–375, div. A, title III, §326(a), Oct. 28, 2004, 118 Stat. 1848; Pub. L. 110–161, div. D, title VII, §739(c)(1)(A), Dec. 26, 2007, 121 Stat. 2030; Pub. L. 110–181, div. A, title III, §326(a), Jan. 28, 2008, 122 Stat. 62; Pub. L. 111–84, div. A, title III, §327(a), (b), Oct. 28, 2009, 123 Stat. 2255.)
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1199; amended Pub. L. 99–145, title XIII, §1304(d), Nov. 8, 1985, 99 Stat. 742; Pub. L. 103–272, §4(f)(1)(K), July 5, 1994, 108 Stat. 1362; Pub. L. 103–355, title I, §1401, Oct. 13, 1994, 108 Stat. 3287; Pub. L. 104–106, div. D, title XLIII, §4321(d)(1), Feb. 10, 1996, 110 Stat. 674; Pub. L. 107–217, §3(h)(6), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–375, div. A, title III, §326(a), Oct. 28, 2004, 118 Stat. 1848; Pub. L. 110–161, div. D, title VII, §739(c)(1)(A), Dec. 26, 2007, 121 Stat. 2030; Pub. L. 110–181, div. A, title III, §326(a), Jan. 28, 2008, 122 Stat. 62; Pub. L. 111–84, div. A, title III, §327(a), (b), Oct. 28, 2009, 123 Stat. 2255.)
 
 #### Amendments
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 110–161 applicable with respect to fiscal year 2008 and e
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title III, §326(d), Oct. 28, 2004, 118 Stat. 1848, provided that: "The amendments made by this section \[amending this section and sections 3552 and 3553 of this title\] shall apply to protests filed under subchapter V of chapter 35 of title 31, United States Code, that relate to studies initiated under Office of Management and Budget Circular A–76 on or after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 28, 2004\]."
+Pub. L. 108–375, div. A, title III, §326(d), Oct. 28, 2004, 118 Stat. 1848, provided that: "The amendments made by this section \[amending this section and sections 3552 and 3553 of this title\] shall apply to protests filed under subchapter V of chapter 35 of title 31, United States Code, that relate to studies initiated under Office ofManagement and Budget Circular A–76 on or after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 28, 2004\]."
 
 #### Effective Date of 1996 Amendment
 

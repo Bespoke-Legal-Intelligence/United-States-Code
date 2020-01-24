@@ -14,7 +14,7 @@ Grants made available under this section may be used to support the following ac
 
 &emsp;(3) Designing and demonstrating mass manufacturing capability to reduce costs of modular standardized solar-powered distributed air conditioning systems and components.
 
-&emsp;(4) Improving the efficiency of solar-powered distributed air-conditioning to increase the effectiveness of solar-powered absorption chillers, solar-driven compressors andcondensors,<sup>1</sup> and cost-effective precooling approaches.
+&emsp;(4) Improving the efficiency of solar-powered distributed air-conditioning to increase the effectiveness of solar-powered absorption chillers, solar-driven compressors and condensors,<sup>1</sup> and cost-effective precooling approaches.
 
 &emsp;(5) Researching and comparing performance of solar-powered distributed air conditioning systems in different regions of the country, including potential integration with other onsite systems, such as solar, biogas, geothermal heat pumps, and propane assist or combined propane fuel cells, with a goal to develop site-specific energy production and management systems that ease fuel and peak utility loading.
 

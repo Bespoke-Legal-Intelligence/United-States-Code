@@ -32,7 +32,7 @@
 
 (3) Each packaged terminal air conditioner and packaged terminal heat pump manufactured on or after January 1, 1994, shall meet the following standard levels:
 
-&emsp;(A) The minimum energy efficiency ratio (EER) of packaged terminal air conditioners and packaged terminal heat pumps in the cooling mode shall be 10.0 — (0.16 x Capacity \[in thousands of Btu per hour at a standard rating of 95 degrees F db, outdoor temperature\]). If a unit has a capacity of less than 7,000 Btu per hour, then 7,000 Btu per hour shall be used in the calculation. If a unit has a capacity of greater than 15,000 Btu per hour,then 15,000 Btu per hour shall be used in the calculation.
+&emsp;(A) The minimum energy efficiency ratio (EER) of packaged terminal air conditioners and packaged terminal heat pumps in the cooling mode shall be 10.0 — (0.16 x Capacity \[in thousands of Btu per hour at a standard rating of 95 degrees F db, outdoor temperature\]). If a unit has a capacity of less than 7,000 Btu per hour, then 7,000 Btu per hour shall be used in the calculation. If a unit has a capacity of greater than 15,000 Btu per hour, then 15,000 Btu per hour shall be used in the calculation.
 
 &emsp;(B) The minimum coefficient of performance (COP) of packaged terminal heat pumps in the heating mode shall be 1.3 + (0.16 x the minimum cooling EER as specified in subparagraph (A)) (at a standard rating of 47 degrees F db).
 
@@ -186,7 +186,7 @@ Consideration of prices and operating patterns.—If the Secretary is considerin
 
 > &emsp;except that an energy conservation standard amended by the Secretary pursuant to a rule under subparagraph (B) shall become effective for products manufactured on or after a date which is four years after the date such rule is published in the Federal Register.
 
-(7) Small commercial package air conditioning and heating equipment (other than single package vertical air conditioners and single packagevertical heat pumps) shall meet the following standards:
+(7) Small commercial package air conditioning and heating equipment (other than single package vertical air conditioners and single package vertical heat pumps) shall meet the following standards:
 
 &emsp;(A) For equipment manufactured on or after January 1, 2010, the minimum energy efficiency ratio of air-cooled central air conditioners at or above 65,000 Btu per hour (cooling capacity) and less than 135,000 Btu per hour (cooling capacity) shall be—
 
@@ -252,7 +252,7 @@ Single package vertical air conditioners and single package vertical heat pumps.
 
 In general.—Single package vertical air conditioners and single package vertical heat pumps manufactured on or after January 1, 2010, shall meet the following standards:
 
-&emsp;&emsp;(i) The minimum energy efficiency ratio of single package vertical air conditioners lessthan 65,000 Btu per hour (cooling capacity), single-phase, shall be 9.0.
+&emsp;&emsp;(i) The minimum energy efficiency ratio of single package vertical air conditioners less than 65,000 Btu per hour (cooling capacity), single-phase, shall be 9.0.
 
 &emsp;&emsp;(ii) The minimum energy efficiency ratio of single package vertical air conditioners less than 65,000 Btu per hour (cooling capacity), 3-phase, shall be 9.0.
 
@@ -260,7 +260,7 @@ In general.—Single package vertical air conditioners and single package vertic
 
 &emsp;&emsp;(iv) The minimum energy efficiency ratio of single package vertical air conditioners at or above 135,000 Btu per hour (cooling capacity) but less than 240,000 Btu per hour (cooling capacity), shall be 8.6.
 
-&emsp;&emsp;(v) The minimum energy efficiency ratio of single package vertical heat pumps less than 65,000 Btu per hour (cooling capacity), single-phase, shall be 9.0 and the minimum coefficient of performance in the heating mode shall be 3.0.
+&emsp;&emsp;(v) The minimum energy efficiency ratio of single package vertical heat pumps lessthan 65,000 Btu per hour (cooling capacity), single-phase, shall be 9.0 and the minimum coefficient of performance in the heating mode shall be 3.0.
 
 &emsp;&emsp;(vi) The minimum energy efficiency ratio of single package vertical heat pumps less than 65,000 Btu per hour (cooling capacity), 3-phase, shall be 9.0 and the minimum coefficient of performance in the heating mode shall be 3.0.
 
@@ -397,7 +397,7 @@ design b, general purpose electric motors.—Each NEMA Design B, general purpose
 
 (B) Not later than 3 years after the effective date of any amended standards under subparagraph (A) or the publication of a final rule determining that the standards should not be amended, the Secretary shall issue a final rule to determine whether the standards established under this subsection or the amended standards, as applicable, should be amended.
 
-(C) If the Secretary issues a final rule under subparagraph (A) or (B) establishing amended standards, the final rule shall provide that the amended standards apply to products manufactured on or after the date that is—
+(C) If the Secretary issues a final rule under subparagraph (A) or (B) establishing amendedstandards, the final rule shall provide that the amended standards apply to products manufactured on or after the date that is—
 
 &emsp;(i) 3 years after the date on which the final amended standard is published; or
 
@@ -613,7 +613,7 @@ Subsec. (f)(1). Pub. L. 112–210, §2(1), substituted "paragraphs (2) through (
 
 Subsec. (f)(6). Pub. L. 112–210, §2(2), added par. (6).
 
-<b>2007</b>—Subsec. (a)(1). Pub. L. 110–140, §314(b)(1), (2), in introductory provisions, inserted "(including singlepackage vertical air conditioners and single package vertical heat pumps)" after "heating equipment" and struck out "but before January 1, 2010," after "January 1, 1994,".
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–140, §314(b)(1), (2), in introductory provisions, inserted "(including single package vertical air conditioners and single package vertical heat pumps)" after "heating equipment" and struck out "but before January 1, 2010," after "January 1, 1994,".
 
 Subsec. (a)(2). Pub. L. 110–140, §314(b)(1), inserted "(including single package vertical air conditioners and single package vertical heat pumps)" after "heating equipment" in introductory provisions.
 

@@ -8,7 +8,7 @@ The goals of this section are—
 
 &emsp;(2) to understand how variable weather, environments, and production systems impact the growth and productivity of specific varieties of crops and species of animals in order to provide greater accuracy in predicting crop and animal performance under variable conditions;
 
-&emsp;(3) to support research that leverages plant and animal genomic information with phenotypic and environmental data throughan interdisciplinary framework, leading to a novel understanding of plant and animal processes that affect growth, productivity, and the ability to predict performance, which will result in the deployment of superior varieties and species to producers and improved crop and animal management recommendations for farmers and ranchers;
+&emsp;(3) to support research that leverages plant and animal genomic information with phenotypic and environmental data through an interdisciplinary framework, leading to a novel understanding of plant and animal processes that affect growth, productivity, and the ability to predict performance, which will result in the deployment of superior varieties and species to producers and improved crop and animal management recommendations for farmers and ranchers;
 
 &emsp;(4) to catalyze and coordinate research that links genomics and predictive phenomics at different sites across the United States to achieve advances in crops and animals that generate societal benefits;
 

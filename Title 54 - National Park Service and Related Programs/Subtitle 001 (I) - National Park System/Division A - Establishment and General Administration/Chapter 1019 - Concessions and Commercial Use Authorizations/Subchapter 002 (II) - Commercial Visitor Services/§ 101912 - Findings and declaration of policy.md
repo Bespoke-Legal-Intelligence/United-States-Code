@@ -2,7 +2,7 @@
 
 (a)
 
-Findings.—In furtherance of section 100101(a), Congress finds that the preservationand conservation of System unit resources and values requires that public accommodations, facilities, and services that have to be provided within those System units should be provided only under carefully controlled safeguards against unregulated and indiscriminate use, so that—
+Findings.—In furtherance of section 100101(a), Congress finds that the preservation and conservation of System unit resources and values requires that public accommodations, facilities, and services that have to be provided within those System units should be provided only under carefully controlled safeguards against unregulated and indiscriminate use, so that—
 
 &emsp;(1) visitation will not unduly impair those resources and values; and
 

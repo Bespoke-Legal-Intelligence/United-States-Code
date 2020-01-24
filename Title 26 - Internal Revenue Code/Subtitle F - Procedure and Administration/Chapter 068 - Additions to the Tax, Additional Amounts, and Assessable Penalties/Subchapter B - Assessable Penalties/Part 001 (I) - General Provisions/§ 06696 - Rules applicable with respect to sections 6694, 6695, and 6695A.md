@@ -38,7 +38,7 @@ For purposes of sections 6694, 6695, and 6695A—
 
 #### Codification
 
-Section 1219(b)(2) of Pub. L. 109–280, which directed the amendment of section 6696 without specifying the act to be amended, was executed to this section, which is section 6696 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment note below.
+Section 1219(b)(2) of Pub. L. 109–280, which directed the amendment of section 6696 without specifying theact to be amended, was executed to this section, which is section 6696 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment note below.
 
 #### Amendments
 

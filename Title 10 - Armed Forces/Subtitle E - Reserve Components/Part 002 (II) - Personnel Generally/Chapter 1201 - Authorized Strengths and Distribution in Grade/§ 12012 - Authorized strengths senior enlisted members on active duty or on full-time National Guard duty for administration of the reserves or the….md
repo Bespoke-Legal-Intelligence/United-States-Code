@@ -68,9 +68,13 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 2,100 | 96 | 21&nbsp;&nbsp; |
 | 2,200 | 99 | 22&nbsp;&nbsp; |
 | 2,300 | 101 | 23&nbsp;&nbsp; |
-| 2,400 | 103 | 24&nbsp;&nbsp; |
-| 2,500 | 105 | 25&nbsp;&nbsp; |
-| 2,600 | 107 | 26&nbsp;&nbsp; |
+| 2,400 | 106 | 24&nbsp;&nbsp; |
+| 2,500 | 112 | 25&nbsp;&nbsp; |
+| 2,600 | 116 | 26&nbsp;&nbsp; |
+| 2,700 | 121 | 27&nbsp;&nbsp; |
+| 2,800 | 125 | 28&nbsp;&nbsp; |
+| 2,900 | 130 | 29&nbsp;&nbsp; |
+| 3,000 | 134 | 30&nbsp;&nbsp; |
 | &nbsp; |  |  |
 | Air Force Reserve: |  |  |
 | 500 | 75 | 40&nbsp;&nbsp; |
@@ -113,7 +117,7 @@ Determinations by Interpolation.—If the total number of members of a reserve c
 
 (c)
 
-Reallocations to Lower Grade.—Whenever the number of members serving in paygrade E–9 for duty described in subsection (a) is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for pay grade E–8.
+Reallocations to Lower Grade.—Whenever the number of members serving in pay grade E–9 for duty described in subsection (a) is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for pay grade E–8.
 
 (d)
 
@@ -125,13 +129,15 @@ Secretarial Waiver.—(1) Upon determining that it is in the national interest t
 
 Full-Time Reserve Component Duty Defined.—In this section, the term "full-time reserve component duty" has the meaning given the term in section 12011(e) of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 104–106, div. A, title IV, §414(b), title XV, §1501(b)(10), Feb. 10, 1996, 110 Stat. 288, 496; Pub. L. 105–261, div. A, title IV, §414(b), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(b), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(b), 421(c), 424(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(b), Dec. 28, 2001, 115 Stat. 1073; Pub. L. 108–375, div. A, title X, §1084(d)(34), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title V, §515(b)(1)(II), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–417, \[div. A\], title V, §512(c), Oct. 14, 2008, 122 Stat. 4440; Pub. L. 115–232, div. A, title V, §515(b), Aug. 13, 2018, 132 Stat. 1753.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 104–106, div. A, title IV, §414(b), title XV, §1501(b)(10), Feb. 10, 1996, 110 Stat. 288, 496; Pub. L. 105–261, div. A, title IV, §414(b), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(b), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(b), 421(c), 424(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(b), Dec. 28, 2001, 115 Stat. 1073; Pub. L. 108–375, div. A, title X, §1084(d)(34), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title V, §515(b)(1)(II), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–417, \[div. A\], title V, §512(c), Oct. 14, 2008, 122 Stat. 4440; Pub. L. 115–232, div. A, title V, §515(b), Aug. 13, 2018, 132 Stat. 1753; Pub. L. 116–92, div. A, title IV, §415(c), Dec. 20, 2019, 133 Stat. 1337.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 517(b), (c) of this title, prior to amendment by Pub. L. 103–337, §1662(a)(4).
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–92 inserted section of table relating to the Marine Corps Reserve and struck out corresponding former section.
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–232 inserted section of table relating to the Air National Guard and struck out corresponding former section.
 

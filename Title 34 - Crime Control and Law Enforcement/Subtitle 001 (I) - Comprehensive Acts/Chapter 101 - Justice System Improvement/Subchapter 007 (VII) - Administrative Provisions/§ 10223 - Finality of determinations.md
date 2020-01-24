@@ -22,5 +22,5 @@ A prior section 803 of Pub. L. 90–351 was renumbered section 802 and is classi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 609B(c) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 10101 of this title.
+Amendment by section 609B(c) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473,set out as an Effective Date note under section 10101 of this title.
 

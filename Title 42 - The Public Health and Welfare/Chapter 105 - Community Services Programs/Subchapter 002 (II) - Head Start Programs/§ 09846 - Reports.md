@@ -72,7 +72,7 @@ At least once during every 5-year period, the Secretary shall prepare and submit
 
 &emsp;&emsp;(A) determine whether Head Start agencies are making timely referrals to the State or local agency responsible for providing services under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.);
 
-&emsp;&emsp;(B) identify barriers to timely evaluations and eligibility determinations by the Stateor local agency responsible for providing services under section 619 or part C of the Individuals with Disabilities Education Act; and
+&emsp;&emsp;(B) identify barriers to timely evaluations and eligibility determinations by the State or local agency responsible for providing services under section 619 or part C of the Individuals with Disabilities Education Act; and
 
 &emsp;&emsp;(C) determine under what circumstances and for what length of time Head Start agencies are providing disability-related services for children who have not been determined under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) to be children with disabilities.
 
@@ -125,10 +125,6 @@ Subsec. (g). Pub. L. 103–252, §118(a)(2)–(4), struck out subsec. (g) design
 Subsec. (g). Pub. L. 101–501, §119, added subsec. (g).
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–558 substituted "not result in the elimination of nor any reduction in the scope or types of health, education, parental involvement, social or other services required to be provided under the standards" for "result in standards which are no less comprehensive than those" in second sentence.
-
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1994 Amendment
 

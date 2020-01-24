@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (A) Securities with respect to which nonrecognition of gain would be permitted
 
-&emsp;&emsp;The term "other property" does not include securities to the extent that, undersection 354 or 355, such securities would be permitted to be received without the recognition of gain.
+&emsp;&emsp;The term "other property" does not include securities to the extent that, under section 354 or 355, such securities would be permitted to be received without the recognition of gain.
 
 #### (B) Greater principal amount in section 354 exchange
 

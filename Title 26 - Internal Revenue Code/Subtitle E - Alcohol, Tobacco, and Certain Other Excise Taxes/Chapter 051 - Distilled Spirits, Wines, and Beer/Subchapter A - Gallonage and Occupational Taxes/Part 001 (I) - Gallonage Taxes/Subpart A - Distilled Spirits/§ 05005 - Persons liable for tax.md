@@ -12,7 +12,7 @@ The distiller or importer of distilled spirits shall be liable for the taxes imp
 
 #### (2) Exception
 
-&emsp;A person owning or having the right of control of not more than 10 percent of any class of stock of a corporate proprietor of a distilled spirits plant shall not be deemed to be a person liable for the tax for which such proprietor is liable under the provisions of paragraph (1). This exception shall not apply to an officer or director of such corporate proprietor.
+&emsp;A person owning or having the right of control of not more than 10 percent of any class of stock of a corporate proprietor of a distilled spirits plant shall not be deemed to be a person liable for the tax for which such proprietor is liable under the provisions of paragraph (1).This exception shall not apply to an officer or director of such corporate proprietor.
 
 #### (c) Proprietors of distilled spirits plants
 
@@ -32,7 +32,7 @@ All persons liable for the tax under subsection (a) or (b), or under any similar
 
 #### (1) Liability for tax
 
-&emsp;Any person who withdraws distilled spirits from the bonded premises of a distilled spiritsplant without payment of tax, as provided in section 5214(a)(4), (5), (6), (7), (8), (9), (10), or (13), shall be liable for the internal revenue tax on such distilled spirits, from the time of such withdrawal; and all persons liable for the tax on such distilled spirits under subsection (a) or (b), or under any similar prior provisions of internal revenue law, shall, at the time of such withdrawal, be relieved of any such liability on the distilled spirits so withdrawn if the person withdrawing such spirits and the person, or persons, liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and all persons liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, have divested themselves of all interest in the spirits so withdrawn.
+&emsp;Any person who withdraws distilled spirits from the bonded premises of a distilled spirits plant without payment of tax, as provided in section 5214(a)(4), (5), (6), (7), (8), (9), (10), or (13), shall be liable for the internal revenue tax on such distilled spirits, from the time of such withdrawal; and all persons liable for the tax on such distilled spirits under subsection (a) or (b), or under any similar prior provisions of internal revenue law, shall, at the time of such withdrawal, be relieved of any such liability on the distilled spirits so withdrawn if the person withdrawing such spirits and the person, or persons, liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and all persons liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, have divested themselves of all interest in the spirits so withdrawn.
 
 #### (2) Relief from liability
 

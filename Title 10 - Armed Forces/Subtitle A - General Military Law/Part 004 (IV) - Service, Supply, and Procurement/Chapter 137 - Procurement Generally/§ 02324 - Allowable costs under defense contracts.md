@@ -12,7 +12,7 @@ Penalty for Violation of Cost Principle.—(1) If the head of the agency determi
 
 &emsp;(B) interest (to be computed based on provisions in the Federal Acquisition Regulation) to compensate the United States for the use of any funds which a contractor has been paid in excess of the amount to which the contractor was entitled.
 
-(2) If the head of the agency determines that a proposal for settlement of indirect costs submitted by a contractor includes a cost determined to be unallowable in the case of such contractor before the submission of such proposal, the head of the agency shall assess a penalty against thecontractor in an amount equal to two times the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted.
+(2) If the head of the agency determines that a proposal for settlement of indirect costs submitted by a contractor includes a cost determined to be unallowable in the case of such contractor before the submission of such proposal, the head of the agency shall assess a penalty against the contractor in an amount equal to two times the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted.
 
 (c)
 
@@ -188,7 +188,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 &emsp;(B) In the case of a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor or subcontractor, or personal services contractor liability on the basis of the violation or failure referred to in paragraph (1).
 
-&emsp;(C) In the case of any civil or administrative proceeding, the imposition of a monetary penalty or an order to take corrective action under section 2409 of this title by reason of the violation or failure referred to in paragraph (1).
+&emsp;(C) In the case of any civil or administrative proceeding, the imposition of a monetary penalty or an order to take corrective actionunder section 2409 of this title by reason of the violation or failure referred to in paragraph (1).
 
 &emsp;(D) A final decision—
 
@@ -238,7 +238,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 Definitions.—In this section:
 
-&emsp;(1)(A) The term "covered contract" means a contract for an amount in excess of $500,000 that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
+&emsp;(1)(A) The term "covered contract" means a contract for an amount in excess of $500,000 that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial products or commercial services.
 
 &emsp;(B) Effective on October 1 of each year that is divisible by five, the amount set forth in subparagraph (A) shall be adjusted in accordance with section 1908 of title 41.
 
@@ -252,11 +252,7 @@ Definitions.—In this section:
 
 &emsp;(6) The term "fiscal year" means a fiscal year established by a contractor for accounting purposes.
 
-(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700, §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 111–350, §5(b)(19), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 112–81, div. A, title VIII, §803(a), (b), Dec. 31, 2011, 125 Stat. 1485; Pub. L. 112–239, div. A, title VIII, §827(g), Jan. 2, 2013, 126 Stat. 1836; Pub. L. 113–66, div. A, title VIII, §811(a), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, §702(a)(2), Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–291, div. A, title VIII, §857, Dec. 19, 2014, 128 Stat. 3460; Pub. L. 114–261, §1(b)(1), Dec. 14, 2016, 130 Stat. 1362; Pub. L. 115–91, div. A, title VIII, §811(e), Dec. 12, 2017, 131 Stat. 1460; Pub. L. 115–232, div. A, title VIII, §836(c)(9), Aug. 13, 2018, 132 Stat. 1866.)
-
-#### Amendment of Subsection (l)(1)(A)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(c)(9), (h), Aug. 13, 2018, 132 Stat. 1866, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (l)(1)(A) of this section is amended by striking "commercial items" and inserting "commercial products or commercial services". See 2018 Amendment note below.</i>
+(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b)\[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700, §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 111–350, §5(b)(19), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 112–81, div. A, title VIII, §803(a), (b), Dec. 31, 2011, 125 Stat. 1485; Pub. L. 112–239, div. A, title VIII, §827(g), Jan. 2, 2013, 126 Stat. 1836; Pub. L. 113–66, div. A, title VIII, §811(a), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, §702(a)(2), Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–291, div. A, title VIII, §857, Dec. 19, 2014, 128 Stat. 3460; Pub. L. 114–261, §1(b)(1), Dec. 14, 2016, 130 Stat. 1362; Pub. L. 115–91, div. A, title VIII, §811(e), Dec. 12, 2017, 131 Stat. 1460; Pub. L. 115–232, div. A, title VIII, §836(c)(9), Aug. 13, 2018, 132 Stat. 1866.)
 
 #### Historical and Revision Notes
 
@@ -630,7 +626,7 @@ Regulations Required.—
 
 &emsp;"(1)
 
-In general.—Not later than May 1, 2007, the Secretary of Defense shall prescribe regulations toensure that pass-through charges on contracts or subcontracts (or task or delivery orders) that are entered into for or on behalf of the Department of Defense are not excessive in relation to the cost of work performed by the relevant contractor or subcontractor.
+In general.—Not later than May 1, 2007, the Secretary of Defense shall prescribe regulations to ensure that pass-through charges on contracts or subcontracts (or task or delivery orders) that are entered into for or on behalf of the Department of Defense are not excessive in relation to the cost of work performed by the relevant contractor or subcontractor.
 
 &emsp;"(2)
 
@@ -640,7 +636,7 @@ Scope of regulations.—The regulations prescribed under this subsection—
 
 &emsp;&emsp;&emsp;"(i) awarded on the basis of adequate price competition; or
 
-&emsp;&emsp;&emsp;"(ii) for the acquisition of a commercial item, as defined in section 103 of title 41, United States Code; and
+&emsp;&emsp;&emsp;"(ii) for the acquisition of a commercial product or a commercial service, as defined in sections 103 and 103a, respectively, of title 41, United States Code; and
 
 &emsp;&emsp;"(B) may include such additional exceptions as the Secretary determines to be necessary in the interest of the national defense.
 
@@ -661,8 +657,6 @@ Report.—Not later than one year after the date of the enactment of this Act \[
 &emsp;"(5)
 
 Effective date.—The regulations prescribed under this subsection shall apply to contracts awarded for or on behalf of the Department of Defense on or after May 1, 2007."
-
-<i>\[Pub. L. 115–232, div. A, title VIII, §836(f)(5), (h), Aug. 13, 2018, 132 Stat. 1871, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 852(b)(2)(A)(ii) of Pub. L. 109–364, set out above, is amended by striking "a commercial item, as defined in section 103 of title 41" and inserting "a commercial product or a commercial service, as defined in sections 103 and 103a, respectively, of title 41".\]</i>
 
 #### Payment of Restructuring Costs Under Defense Contracts
 
@@ -694,7 +688,7 @@ Pub. L. 100–456, div. A, title VIII, §826(c), Sept. 29, 1988, 102 Stat. 2022,
 
 #### Air Travel Expenses of Defense Contractor Personnel
 
-Pub. L. 100–456, div. A, title VIII, §833, Sept. 29, 1988, 102 Stat. 2024, as amended by Pub. L. 101–189, div. A, title VIII, §853(a)(2), Nov. 29, 1989, 103 Stat. 1518, directed the Administrator of General Services to enter into negotiations with commercial air carriers for agreements that would permit personnel of contractors who were traveling solely in the performance of covered contracts to be transported by such carriers at the same discount rates as such carriers charged for travel by Federal Government employees traveling at Government expense, directed the Secretary of Defense, not later than 120 days after the first such agreement would go into effect, to prescribe regulations that would provide that costs in excess of the rates established under the agreement were not allowable if the rate had been available and travel could have reasonably been performed under the conditions required by the air carrier to qualify for such rate, and provided that section 833 of Pub. L. 100–456 would cease to be effective three years after Sept. 29, 1988.
+Pub. L. 100–456, div. A, title VIII, §833, Sept. 29, 1988, 102 Stat. 2024, as amended by Pub. L. 101–189, div. A, title VIII, §853(a)(2), Nov. 29, 1989, 103 Stat. 1518, directed the Administrator of General Services to enterinto negotiations with commercial air carriers for agreements that would permit personnel of contractors who were traveling solely in the performance of covered contracts to be transported by such carriers at the same discount rates as such carriers charged for travel by Federal Government employees traveling at Government expense, directed the Secretary of Defense, not later than 120 days after the first such agreement would go into effect, to prescribe regulations that would provide that costs in excess of the rates established under the agreement were not allowable if the rate had been available and travel could have reasonably been performed under the conditions required by the air carrier to qualify for such rate, and provided that section 833 of Pub. L. 100–456 would cease to be effective three years after Sept. 29, 1988.
 
 #### Burden of Proof in Government Contract Dispute Resolution
 

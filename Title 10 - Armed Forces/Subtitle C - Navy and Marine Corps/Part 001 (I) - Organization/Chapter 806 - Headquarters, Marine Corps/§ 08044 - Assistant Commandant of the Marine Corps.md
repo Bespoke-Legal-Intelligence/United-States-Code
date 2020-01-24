@@ -10,7 +10,7 @@
 
 &emsp;(1) the Assistant Commandant of the Marine Corps shall perform the duties of the Commandant until a successor is appointed or the absence or disability ceases; or
 
-&emsp;(2) if there is a vacancy in the office of the Assistant Commandant of the Marine Corps or the Assistant Commandant is absent or disabled, unless the President directs otherwise, the most senior officer of the Marine Corps in the Headquarters, Marine Corps, who is not absent or disabled and who is not restricted in performance of duty shall perform the duties of the Commandant until a successor to the Commandant or the Assistant Commandant is appointed or until the absence or disability of the Commandant or Assistant Commandant ceases, whichever occurs first.
+&emsp;(2) if there is a vacancy in the office of the Assistant Commandant of the Marine Corps or the Assistant Commandant is absent or disabled, unless the President directs otherwise, the most senior officer of the Marine Corps in the Headquarters, Marine Corps, who is not absent or disabled and who is not restricted in performance of duty shall perform the duties of the Commandant until a successor to the Commandant or the Assistant Commandant isappointed or until the absence or disability of the Commandant or Assistant Commandant ceases, whichever occurs first.
 
 (Added Pub. L. 99–433, title V, §513(b), Oct. 1, 1986, 100 Stat. 1054, §5044; renumbered §8044, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 

@@ -18,7 +18,7 @@ The Secretary of the Treasury shall prescribe rules implementing the principles 
 
 &emsp;&emsp;&emsp;(ii) the continuous filament is extruded in that country, territory, or possession;
 
-&emsp;&emsp;(C) the product is a fabric, including a fabric classified under chapter 59 of the HTS, and the constituent fibers, filaments, or yarns are woven, knitted, needled, tufted, felted, entangled, or transformed by any other fabric-making process in that country, territory, or possession; or
+&emsp;&emsp;(C) the product is a fabric, including a fabric classified under chapter 59 of the HTS,and the constituent fibers, filaments, or yarns are woven, knitted, needled, tufted, felted, entangled, or transformed by any other fabric-making process in that country, territory, or possession; or
 
 &emsp;&emsp;(D) the product is any other textile or apparel product that is wholly assembled in that country, territory, or possession from its component pieces.
 
@@ -60,7 +60,7 @@ The Secretary of the Treasury shall prescribe rules implementing the principles 
 
 #### (5) Exception for United States-Israel Free Trade Agreement
 
-&emsp;This section shall not affect, for purposes of the customs laws and administration of quantitative restrictions, the status of goods that, under rulings and administrative practices in effect immediately before December 8, 1994, would have originated in, or been the growth, product, or manufacture of, a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1987. For such purposes, such rulings and administrative practices that were applied, immediately before December 8, 1994, to determine the origin of textile and apparel products covered by such agreement shall continue to apply after December 8, 1994, and on and after the effective date described in subsection (c), unlesssuch rulings and practices are modified by the mutual consent of the parties to the agreement.
+&emsp;This section shall not affect, for purposes of the customs laws and administration of quantitative restrictions, the status of goods that, under rulings and administrative practices in effect immediately before December 8, 1994, would have originated in, or been the growth, product, or manufacture of, a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1987. For such purposes, such rulings and administrative practices that were applied, immediately before December 8, 1994, to determine the origin of textile and apparel products covered by such agreement shall continue to apply after December 8, 1994, and on and after the effective date described in subsection (c), unless such rulings and practices are modified by the mutual consent of the parties to the agreement.
 
 #### (c) Effective date
 
@@ -74,7 +74,7 @@ This section shall apply to goods entered, or withdrawn from warehouse, for cons
 
 &emsp;(4) the goods are entered, or withdrawn from warehouse, for consumption on or before January 1, 1998.
 
-> The origin of goods to which this section does not apply shall be determined in accordance with the applicable rules in effect on July 20, 1994.
+> The origin of goods to which this section does not apply shall be determined in accordancewith the applicable rules in effect on July 20, 1994.
 
 (Pub. L. 103–465, title III, §334, Dec. 8, 1994, 108 Stat. 4949; Pub. L. 104–295, §20(c)(9), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 106–200, title IV, §405(a), May 18, 2000, 114 Stat. 292.)
 

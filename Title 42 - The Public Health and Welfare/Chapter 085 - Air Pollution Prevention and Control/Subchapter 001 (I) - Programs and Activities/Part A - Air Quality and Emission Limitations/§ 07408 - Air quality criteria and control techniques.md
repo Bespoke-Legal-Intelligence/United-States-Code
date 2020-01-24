@@ -4,13 +4,13 @@
 
 (1) For the purpose of establishing national primary and secondary ambient air quality standards, the Administrator shall within 30 days after December 31, 1970, publish, and shall from time to time thereafter revise, a list which includes each air pollutant—
 
-&emsp;(A) emissions of which, in his judgment, cause or contribute to air pollution which mayreasonably be anticipated to endanger public health or welfare;
+&emsp;(A) emissions of which, in his judgment, cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare;
 
 &emsp;(B) the presence of which in the ambient air results from numerous or diverse mobile or stationary sources; and
 
 &emsp;(C) for which air quality criteria had not been issued before December 31, 1970 but for which he plans to issue air quality criteria under this section.
 
-(2) The Administrator shall issue air quality criteria for an air pollutant within 12 months after he has included such pollutant in a list under paragraph (1). Air quality criteria for an air pollutant shall accurately reflect the latest scientific knowledge useful in indicating the kind and extent of all identifiable effects on public health or welfare which may be expected from the presence of such pollutant in the ambient air, in varying quantities. The criteria for an air pollutant, to the extent practicable, shall include information on—
+(2) The Administrator shall issue air quality criteria for an air pollutant within 12 months after he has included such pollutant in a list under paragraph (1). Air quality criteria for an air pollutant shall accurately reflect the latest scientific knowledge useful in indicating the kind and extent of all identifiable effects onpublic health or welfare which may be expected from the presence of such pollutant in the ambient air, in varying quantities. The criteria for an air pollutant, to the extent practicable, shall include information on—
 
 &emsp;(A) those variable factors (including atmospheric conditions) which of themselves or in combination with other factors may alter the effects on public health or welfare of such air pollutant;
 
@@ -54,7 +54,7 @@ The Administrator shall, after consultation with the Secretary of Transportation
 
 &emsp;&emsp;(i) programs for improved public transit;
 
-&emsp;&emsp;(ii) restriction of certain roads or lanes to, or construction of such roads or lanes for useby, passenger buses or high occupancy vehicles;
+&emsp;&emsp;(ii) restriction of certain roads or lanes to, or construction of such roads or lanes for use by, passenger buses or high occupancy vehicles;
 
 &emsp;&emsp;(iii) employer-based transportation management plans, including incentives;
 

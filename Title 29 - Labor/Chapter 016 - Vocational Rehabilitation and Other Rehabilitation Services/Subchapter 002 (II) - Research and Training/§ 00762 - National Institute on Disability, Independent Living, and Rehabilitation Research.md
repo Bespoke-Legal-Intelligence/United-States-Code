@@ -110,7 +110,7 @@ The Director, through the Institute, shall be responsible for—
 
 #### (e) Fellowships
 
-The Director, pursuant to regulations which the Secretary shall prescribe, may establish and maintain fellowships with such stipends and allowances, including travel and subsistence expenses provided for under title 5, as the Director considers necessary to procure the assistance of highly qualified research fellows, including individuals with disabilities, from the United States and foreign countries.
+The Director, pursuant to regulations which the Secretary shall prescribe, may establish and maintain fellowships with such stipends and allowances, including travel and subsistence expenses provided for under title 5, as the Directorconsiders necessary to procure the assistance of highly qualified research fellows, including individuals with disabilities, from the United States and foreign countries.
 
 #### (f) Scientific peer review of research, training, and demonstration projects
 
@@ -166,7 +166,7 @@ In order to promote cooperation among Federal departments and agencies conductin
 
 (1) The Director shall take appropriate actions to provide for a comprehensive and coordinated research program under this subchapter. In providing such a program, the Director may undertake joint activities with other Federal entities engaged in research and with appropriate private entities. Any Federal entity proposing to establish any research project related to the purposes of this chapter shall consult, through the Interagency Committee established by section 763 of this title, with the Director as Chairperson of such Committee and provide the Director with sufficient prior opportunity to comment on such project.
 
-(2) Any person responsible for administering any program of the National Institutes of Health, the Department of Veterans Affairs, the National Science Foundation, the National Aeronautics and Space Administration, the Office of Special Education and Rehabilitative Services, or of any other Federal entity, shall, through the Interagency Committee established by section 763 of this title, consult and cooperate with the Director in carrying out such program if the program is related to the purposes of this subchapter.
+(2) Any person responsible for administering any program of the National Institutes ofHealth, the Department of Veterans Affairs, the National Science Foundation, the National Aeronautics and Space Administration, the Office of Special Education and Rehabilitative Services, or of any other Federal entity, shall, through the Interagency Committee established by section 763 of this title, consult and cooperate with the Director in carrying out such program if the program is related to the purposes of this subchapter.
 
 #### (k) Grants for training
 
@@ -240,7 +240,7 @@ Subsec. (b)(9). Pub. L. 113–128, §433(3)(F), (I), redesignated par. (10) as (
 
 Subsec. (b)(10), (11). Pub. L. 113–128, §433(3)(F), redesignated pars. (10) and (11) as (9) and (10), respectively.
 
-Subsec. (d)(1). Pub. L. 113–128, §433(4), substituted "The Director shall be an individual with substantial knowledge of and experience in independent living, rehabilitation, and research administration." for "TheDirector shall be an individual with substantial experience in rehabilitation and in research administration."
+Subsec. (d)(1). Pub. L. 113–128, §433(4), substituted "The Director shall be an individual with substantial knowledge of and experience in independent living, rehabilitation, and research administration." for "The Director shall be an individual with substantial experience in rehabilitation and in research administration."
 
 Subsec. (f)(1). Pub. L. 113–128, §433(5), substituted "The scientific peer review shall be conducted by individuals who are not Department of Health and Human Services employees. The Secretary shall consider for peer review individuals who are scientists or other experts in disability, independent living, and rehabilitation, including individuals with disabilities and the individuals' representatives, and who have sufficient expertise to review the projects." for "The scientific peer review shall be conducted by individuals who are not Federal employees, who are scientists or other experts in the rehabilitation field (including the independent living field), including knowledgeable individuals with disabilities, and the individuals' representatives, and who are competent to review applications for the financial assistance."
 
@@ -273,6 +273,10 @@ Subsecs. (k) to (m). Pub. L. 113–128, §433(8), added subsecs. (k) to (m) and 
 <b>2000</b>—Subsec. (h)(2)(D)(iii). Pub. L. 106–402 substituted "Developmental Disabilities Assistance and Bill of Rights Act of 2000" for "Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)".
 
 <b>1998</b>—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 

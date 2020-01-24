@@ -52,7 +52,7 @@ Agents of Money Transmitting Businesses.—
 
 Maintenance of lists of agents of money transmitting businesses.—Pursuant to regulations which the Secretary of the Treasury shall prescribe, each money transmitting business shall—
 
-&emsp;&emsp;(A) maintain a list containing the names and addresses of all persons authorized to act as an agent for such business in connection with activities described in subsection (d)(1)(A) and such other information about such agents as the Secretary may require; and
+&emsp;&emsp;(A) maintain a list containing the names and addresses of all persons authorized toact as an agent for such business in connection with activities described in subsection (d)(1)(A) and such other information about such agents as the Secretary may require; and
 
 &emsp;&emsp;(B) make the list and other information available on request to any appropriate law enforcement agency.
 

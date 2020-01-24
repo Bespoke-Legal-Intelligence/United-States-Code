@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-No entity, including a contractor or subcontractor of the entity, which holds a special wage certificate as described in section 14(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 214(c)) may compensate an individual with a disability who is age 24 or younger at a wage (referred to in this section as a "subminimum wage") that is less than the Federal minimum wage unless 1 of the following conditions is met:
+No entity, including a contractor or subcontractor of the entity, which holds a special wage certificate as described in section 14(c) of the Fair Labor Standards Act of 1938 (29 U.S.C.214(c)) may compensate an individual with a disability who is age 24 or younger at a wage (referred to in this section as a "subminimum wage") that is less than the Federal minimum wage unless 1 of the following conditions is met:
 
 &emsp;(1) The individual is currently employed, as of the effective date of this section, by an entity that holds a valid certificate pursuant to section 14(c) of the Fair Labor Standards Act of 1938.
 
@@ -86,7 +86,7 @@ No entity, including a contractor or subcontractor of the entity, which holds a 
 
 #### (1) Before employment
 
-&emsp;Before an individual covered by subsection (a)(2) begins work for an entity described insubsection (a) at a subminimum wage, the entity shall review such documentation received by the individual under subsection (d), and provided by the individual to the entity, that indicates that the individual has completed the actions described in subparagraphs (A) and (B) of subsection (a)(2) and the entity shall maintain copies of such documentation.
+&emsp;Before an individual covered by subsection (a)(2) begins work for an entity described in subsection (a) at a subminimum wage, the entity shall review such documentation received by the individual under subsection (d), and provided by the individual to the entity, that indicates that the individual has completed the actions described in subparagraphs (A) and (B) of subsection (a)(2) and the entity shall maintain copies of such documentation.
 
 #### (2) During employment
 

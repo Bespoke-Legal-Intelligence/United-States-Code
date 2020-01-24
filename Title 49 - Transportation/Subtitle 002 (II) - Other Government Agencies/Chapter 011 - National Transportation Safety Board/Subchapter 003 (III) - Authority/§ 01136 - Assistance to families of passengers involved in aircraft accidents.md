@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—As soon as practicable after being notified of an aircraft accident involvingan air carrier or foreign air carrier, resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency, the Chairman of the National Transportation Safety Board shall—
+In General.—As soon as practicable after being notified of an aircraft accident involving an air carrier or foreign air carrier, resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency, the Chairman of the National Transportation Safety Board shall—
 
 &emsp;(1) designate and publicize the name and phone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the air carrier or foreign air carrier and the families; and
 
@@ -72,7 +72,7 @@ Unsolicited communications.—In the event of an accident involving an air carri
 
 &emsp;(3)
 
-Prohibition on actions to prevent mental health and counseling services.—No State or political subdivision thereof may prevent the employees, agents, or volunteers of an organization designated for an accident under subsection (a)(2) from providing mental health and counseling services under subsection (c)(1) in the 30-day period beginning on the date of the accident. The director of family support services designated for the accident under subsection (a)(1) may extend such period for not to exceed an additional 30 days if the director determines that the extensionis necessary to meet the needs of the families and if State and local authorities are notified of the determination.
+Prohibition on actions to prevent mental health and counseling services.—No State or political subdivision thereof may prevent the employees, agents, or volunteers of an organization designated for an accident under subsection (a)(2) from providing mental health and counseling services under subsection (c)(1) in the 30-day period beginning on the date of the accident. The director of family support services designated for the accident under subsection (a)(1) may extend such period for not to exceed an additional 30 days if the director determines that the extension is necessary to meet the needs of the families and if State and local authorities are notified of the determination.
 
 (h)
 

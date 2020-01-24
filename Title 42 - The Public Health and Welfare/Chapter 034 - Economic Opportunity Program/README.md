@@ -4,8 +4,7 @@
 | :--- | ---: |
 | 2701 to 2703. Repealed or Omitted. |  |
 | [2704\.](%C2%A7%2002704%20-%20Discontinued%20Job%20Corps%20centers%3B%20utilization%20for%20special%20youth%20programs.md) | Discontinued Job Corps centers; utilization for special youth programs. |
-| 2705, 2706. Repealed. |  |
-| [2707\.](%C2%A7%2002707%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| 2705 to 2707. Repealed or Omitted. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -308,7 +307,7 @@
 - [&sect; 02704 - Discontinued Job Corps centers; utilization for special youth programs](%C2%A7%2002704%20-%20Discontinued%20Job%20Corps%20centers%3B%20utilization%20for%20special%20youth%20programs.md)
 - [&sect; 02705 - Repealed. Pub. L. 93&#8211;644, &sect;16(a), Jan. 4, 1975, 88 Stat. 2330](%C2%A7%2002705%20-%20Repealed.%20Pub.%20L.%2093%E2%80%93644%2C%20%C2%A716%28a%29%2C%20Jan.%204%2C%201975%2C%2088%20Stat.%202330.md)
 - [&sect; 02706 - Repealed. Pub. L. 97&#8211;35, title VI, &sect;683(a), Aug. 13, 1981, 95 Stat. 519](%C2%A7%2002706%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20VI%2C%20%C2%A7683%28a%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20519.md)
-- [&sect; 02707 - Authorization of appropriations](%C2%A7%2002707%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 02707 - Omitted](%C2%A7%2002707%20-%20Omitted.md)
 - [Subchapter 001 (I) - Research and Demonstrations](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/README.md)
 - [Subchapter 002 (II) - Urban and Rural Community Action Programs](Subchapter%20002%20%28II%29%20-%20Urban%20and%20Rural%20Community%20Action%20Programs/README.md)
 - [Subchapter 003 (III) - Special Programs to Combat Poverty in Rural Areas](Subchapter%20003%20%28III%29%20-%20Special%20Programs%20to%20Combat%20Poverty%20in%20Rural%20Areas/README.md)

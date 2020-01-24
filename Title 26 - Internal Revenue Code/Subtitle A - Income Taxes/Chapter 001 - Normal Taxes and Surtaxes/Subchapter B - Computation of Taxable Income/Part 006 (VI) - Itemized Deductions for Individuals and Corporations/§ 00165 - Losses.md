@@ -140,7 +140,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (3) Amount of loss
 
-&emsp;The amount of the loss taken into account in the preceding taxable year by reason of paragraph (1) shall not exceed the uncompensated amount determined on the basis of the facts existing at the date the taxpayer claims the loss.
+&emsp;The amount of the loss taken into account in the preceding taxable year by reason ofparagraph (1) shall not exceed the uncompensated amount determined on the basis of the facts existing at the date the taxpayer claims the loss.
 
 #### (4) Use of disaster loan appraisals to establish amount of loss
 
@@ -288,7 +288,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-<b>2017</b>—Subsec. (d). Pub. L. 115–97, §11050(a), inserted at end "For purposes of the preceding sentence, in thecase of taxable years beginning after December 31, 2017, and before January 1, 2026, the term 'losses from wagering transactions' includes any deduction otherwise allowable under this chapter incurred in carrying on any wagering transaction."
+<b>2017</b>—Subsec. (d). Pub. L. 115–97, §11050(a), inserted at end "For purposes of the preceding sentence, in the case of taxable years beginning after December 31, 2017, and before January 1, 2026, the term 'losses from wagering transactions' includes any deduction otherwise allowable under this chapter incurred in carrying on any wagering transaction."
 
 Subsec. (h)(5). Pub. L. 115–97, §11044(a), added par. (5).
 
@@ -374,7 +374,7 @@ Subsec. (k). Pub. L. 97–248, §310(b)(5), redesignated former subsec. (j), set
 
 <b>1972</b>—Subsec. (h). Pub. L. 92–418 struck out par. (1) provisions relating to losses attributable to a disaster occurring during period following close of taxable year and on or before time prescribed by law for filing the income tax return for the taxable year without regard to any extension of time, struck out par. (2) designation, and inserted "attributable to a disaster" before "occurring in an area", and at end of second sentence, inserted "based on facts existing at the date the taxpayer claims the loss".
 
-Subsec. (h)(1). Pub. L. 92–336 substituted provisions relating to losses attributable to a disaster which occurs during the period after the close of the taxable year and on or before the last day of the 6th calendar month beginning after the close of the taxable year, for provisions relating to losses attributable to a disaster which occurs during the period following the close of the taxable year and on or before the time prescribed by law for filing the income tax return for the taxable year, determined without regard to any extension of time.
+Subsec. (h)(1). Pub. L. 92–336 substituted provisions relating to losses attributable to a disaster which occurs during the period after the close of the taxable year and on or before the last day of the 6th calendar month beginning after the close of the taxable year, for provisions relating to losses attributable to a disasterwhich occurs during the period following the close of the taxable year and on or before the time prescribed by law for filing the income tax return for the taxable year, determined without regard to any extension of time.
 
 <b>1971</b>—Subsec. (g)(3). Pub. L. 91–687 substituted "stock possessing at least 80 percent of the voting power of all classes of its stock and at least 80 percent of each class of its nonvoting stock" for "at least 95 percent of each class of its stock" in subpar. (A), and inserted at the end of the subsection the sentence providing that the term "stock", as used in subpar. (A), does not include nonvoting stock which is limited and preferred as to dividends.
 
@@ -444,7 +444,7 @@ Pub. L. 99–514, title X, §1004(b), Oct. 22, 1986, 100 Stat. 2388, provided th
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 42(a)(4) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, seesection 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
+Amendment by section 42(a)(4) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
 Amendment by section 711(c)(1) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
@@ -454,7 +454,7 @@ Pub. L. 98–369, div. A, title X, §1051(b), July 18, 1984, 98 Stat. 1045, prov
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title II, §203(c), Sept. 3, 1982, 96 Stat. 422, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1982. Such amendments shall also apply to the taxpayer's last taxable year beginning before January 1, 1983, solely for purposes of determining the amount allowable as a deduction with respect to any loss taken into account for such year by reason of an election under section 165(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section)."
+Pub. L. 97–248, title II, §203(c), Sept. 3, 1982, 96 Stat. 422, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1982. Such amendments shall also apply to the taxpayer's last taxable year beginning before January 1, 1983, solely for purposes of determining the amount allowable as a deduction with respect to any loss taken into account for such year by reason of an election under section 165(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section)."
 
 Amendment by section 310(b)(5) of Pub. L. 97–248 applicable to obligations issued after Dec. 31, 1982, with exceptions for certain warrants, see section 310(d) of Pub. L. 97–248, set out as a note under section 103 of this title.
 
@@ -524,7 +524,7 @@ General Rule.—For purposes of chapter 1 of the Internal Revenue Code of 1986�
 
 "(b)
 
-FSLIC Assistance.—For purposes of this section, the term 'FSLIC assistance' means any assistance (or right to assistance) with respect to a domestic building and loan association (as defined in section 7701(a)(19) of such Code without regard to subparagraph (C) thereof) under section 406(f) of the National Housing Act \[former 12 U.S.C. 1729(f)\] or \[former\] section 21A of the Federal Home Loan Bank Act \[12 U.S.C. 1441a\] (or under any similar provision of law).
+FSLIC Assistance.—For purposes of this section, the term 'FSLIC assistance' means any assistance\(or right to assistance) with respect to a domestic building and loan association (as defined in section 7701(a)(19) of such Code without regard to subparagraph (C) thereof) under section 406(f) of the National Housing Act \[former 12 U.S.C. 1729(f)\] or \[former\] section 21A of the Federal Home Loan Bank Act \[12 U.S.C. 1441a\] (or under any similar provision of law).
 
 "(c)
 
@@ -616,7 +616,7 @@ Special Rule for Motor Carrier Operating Authority.—In the case of a corporati
 
 "(d)
 
-Application of Section 334(b)(2).—For purposes of subsections (a) and (b), the reference to section334(b)(2) in section 266(c)(2)(A)(ii) of the Economic Recovery Tax Act of 1981 \[section 266(c)(2)(A)(ii) of Pub. L. 97–34, set out below\] shall be a reference to such section as in effect before its repeal.
+Application of Section 334(b)(2).—For purposes of subsections (a) and (b), the reference to section 334(b)(2) in section 266(c)(2)(A)(ii) of the Economic Recovery Tax Act of 1981 \[section 266(c)(2)(A)(ii) of Pub. L. 97–34, set out below\] shall be a reference to such section as in effect before its repeal.
 
 "(e)
 
@@ -640,7 +640,7 @@ Freight forwarder operating authority.—Subsection (b) shall apply to taxable y
 
 #### Deduction for Motor Carrier Operating Authority
 
-Pub. L. 97–34, title II, §266, Aug. 13, 1981, 95 Stat. 265, as amended by Pub. L. 97–424, title V, §517(a), Jan. 6, 1983, 96 Stat. 2183; Pub. L. 97–448, title I, §102(n), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title II, §266, Aug. 13, 1981, 95 Stat. 265, as amended by Pub. L. 97–424, title V, §517(a), Jan. 6,1983, 96 Stat. 2183; Pub. L. 97–448, title I, §102(n), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(a)
 
@@ -718,7 +718,7 @@ Application of Section.—This section shall apply to any individual—
 
 Effect of Election.—In the case of any individual to whom this section applies—
 
-&emsp;"(1) the tax imposed by chapter 1 of the Internal Revenue Code of 1986 for the taxable year in whichthe income taken into account is received or accrued which is attributable to such income shall not exceed the additional tax under such chapter which would have been payable for the year in which the deduction for the loss was taken if such deduction had not been taken for such year,
+&emsp;"(1) the tax imposed by chapter 1 of the Internal Revenue Code of 1986 for the taxable year in which the income taken into account is received or accrued which is attributable to such income shall not exceed the additional tax under such chapter which would have been payable for the year in which the deduction for the loss was taken if such deduction had not been taken for such year,
 
 &emsp;"(2) any amount of tax imposed by chapter 1 attributable to the income taken into account which, on October 1, 1975, was unpaid may be paid in 3 equal annual installments (with the first such installment due and payable on April 15, 1977), and
 
@@ -730,7 +730,7 @@ Income Taken Into Account.—For purposes of this section, the income taken into
 
 &emsp;"(1) in the case of an individual described in subsection (a)(2)(A), the amount of income (not in excess of $5,000) attributable to the cancellation of a disaster loan under section 7 of the Small Business Act or an emergency loan under subtitle C of the Consolidated Farm and Rural Development Act received by reason of the disaster described in subsection (a)(1), or
 
-&emsp;"(2) in the case of an individual described in subsection (a)(2)(B), the amount of compensation (not in excess of $5,000) for the loss in settlement of any claim of the taxpayer against a person for that person's liability in tort for the damage or destruction of that taxpayer's property in connection with the disaster described in subsection (a)(1).
+&emsp;"(2) in the case of an individual described in subsection (a)(2)(B), the amount of compensation (not inexcess of $5,000) for the loss in settlement of any claim of the taxpayer against a person for that person's liability in tort for the damage or destruction of that taxpayer's property in connection with the disaster described in subsection (a)(1).
 
 "(d)
 

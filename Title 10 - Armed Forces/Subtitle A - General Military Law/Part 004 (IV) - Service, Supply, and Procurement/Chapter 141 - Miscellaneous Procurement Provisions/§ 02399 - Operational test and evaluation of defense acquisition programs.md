@@ -24,7 +24,7 @@ Operational Test and Evaluation.—(1) Operational testing of a major defense ac
 
 &emsp;(B) additional information on the operational capabilities of the items or components that the Director considers appropriate based on the testing conducted.
 
-(3) The Director shall submit each report under paragraph (2) to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the congressional defense committees. Each such report shall be submitted to those committees in precisely the same form and with precisely the same content as the report originally was submitted to the Secretary and Under Secretary and shall be accompanied by such comments as the Secretary may wish to make on the report.
+(3) The Director shall submit each report under paragraph (2) to the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, and the congressional defense committees. Each such report shall be submitted to those committees in precisely the same form and with precisely the same content as the report originally was submitted to the Secretary and Under Secretary and shall be accompanied by such comments as the Secretary may wish to make on the report.
 
 (4) A final decision within the Department of Defense to proceed with a major defense acquisition program beyond low-rate initial production may not be made until the Director has submitted to the Secretary of Defense the report with respect to that program under paragraph (2) and the congressional defense committees have received that report.
 
@@ -64,7 +64,7 @@ Director's Annual Report.—As part of the annual report of the Director under s
 
 (h)
 
-Operational Test and Evaluation Defined.—In this section, the term "operationaltest and evaluation" has the meaning given that term in section 139(a)(2)(A) of this title. For purposes of subsection (a), that term does not include an operational assessment based exclusively on—
+Operational Test and Evaluation Defined.—In this section, the term "operational test and evaluation" has the meaning given that term in section 139(a)(2)(A) of this title. For purposes of subsection (a), that term does not include an operational assessment based exclusively on—
 
 &emsp;(1) computer modeling;
 
@@ -72,13 +72,15 @@ Operational Test and Evaluation Defined.—In this section, the term "operationa
 
 &emsp;(3) an analysis of system requirements, engineering proposals, design specifications, or any other information contained in program documents.
 
-(Added Pub. L. 101–189, div. A, title VIII, §802(a)(1), Nov. 29, 1989, 103 Stat. 1484; amended Pub. L. 102–484, div. A, title VIII, §819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, §1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859; Pub. L. 104–106, div. A, title XV, §1502(a)(19), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title X, §1062(a)(9), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1043(b)(14), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–364, div. A, title II, §231(a), Oct. 17, 2006, 120 Stat. 2131; Pub. L. 111–383, div. A, title VIII, §814(d), Jan. 7, 2011, 124 Stat. 4267; Pub. L. 115–91, div. A, title XVI, §1677(a), Dec. 12, 2017, 131 Stat. 1774.)
+(Added Pub. L. 101–189, div. A, title VIII, §802(a)(1), Nov. 29, 1989, 103 Stat. 1484; amended Pub. L. 102–484, div. A, title VIII, §819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, §1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859; Pub. L. 104–106, div. A, title XV, §1502(a)(19), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title X, §1062(a)(9), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1043(b)(14), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–364, div. A, title II, §231(a), Oct. 17, 2006, 120 Stat. 2131; Pub. L. 111–383, div. A, title VIII, §814(d), Jan. 7, 2011, 124 Stat. 4267; Pub. L. 115–91, div. A, title XVI, §1677(a), Dec. 12, 2017, 131 Stat. 1774; Pub. L. 116–92, div. A, title IX, §902(62), Dec. 20, 2019, 133 Stat. 1550.)
 
 #### Prior Provisions
 
 A prior section 2399, added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1293, which related to limitation on availability of appropriations to reimburse a contractor for the cost of commercial insurance, was repealed by Pub. L. 100–370, §1(f)(2)(B), July 19, 1988, 102 Stat. 846, and was restated in section 2324(e)(1)(L) of this title by section 1(f)(2)(A) of Pub. L. 100–370.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(3). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering," for "Under Secretary of Defense for Acquisition, Technology, and Logistics,".
 
 <b>2017</b>—Subsec. (a)(1). Pub. L. 115–91 substituted ", a covered designated major subprogram, or an element of the ballistic missile defense system" for "or a covered designated major subprogram" and "program, subprogram, or element" for "program or subprogram".
 
@@ -92,7 +94,7 @@ A prior section 2399, added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat
 
 &emsp;"(B) is designed for use in combat."
 
-<b>2006</b>—Subsec. (b)(2). Pub. L. 109–364, §231(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Director shall analyze the results of the operational test and evaluation conducted for each major defense acquisition program. At the conclusion of such testing, the Director shall prepare a report stating the opinion of the Director as to—
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–364, §231(a)(1), amended par. (2) generally. Prior to amendment, par. (2) readas follows: "The Director shall analyze the results of the operational test and evaluation conducted for each major defense acquisition program. At the conclusion of such testing, the Director shall prepare a report stating the opinion of the Director as to—
 
 &emsp;"(A) whether the test and evaluation performed were adequate; and
 

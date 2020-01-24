@@ -50,13 +50,13 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 &emsp;&emsp;&emsp;(ii) to provide for the planning and implementation of integrated health care networks in rural areas under subsection (f); and
 
-&emsp;&emsp;&emsp;(iii) to provide for the planning and implementation of small health care providerquality improvement activities under subsection (g).
+&emsp;&emsp;&emsp;(iii) to provide for the planning and implementation of small health care provider quality improvement activities under subsection (g).
 
 #### (e) Rural health care services outreach grants
 
 #### (1) Grants
 
-&emsp;The Director may award grants to eligible entities to promote rural health care services outreach by expanding the delivery of health care services to include new and enhanced services in rural areas. The Director may award the grants for periods of not more than 3 years.
+&emsp;The Director may award grants to eligible entities to promote rural health care services outreach by expanding the delivery of health care services to include new and enhanced services in rural areas. The Director mayaward the grants for periods of not more than 3 years.
 
 #### (2) Eligibility
 
@@ -224,11 +224,11 @@ A prior section 254c, act July 1, 1944, ch. 373, title III, §330, as added July
 
 <b>2003</b>—Subsec. (b)(4). Pub. L. 108–163 substituted "section 295p(6)" for "section 295p".
 
-<b>2002</b>—Pub. L. 107–251 amended section generally. Prior to amendment, section related to a rural health outreach, network development, and telemedicine grantprogram, and in subsec. (a), provided for administration by the Office of Rural Health Policy; in subsec. (b), set out the objectives of grants; in subsec. (c), set out eligibility requirements; in subsec. (d), described preferred characteristics of applicant networks; in subsec. (e), specified permitted uses of grant funds; in subsec. (f), limited the duration of grants; and in subsec. (g), authorized appropriations.
+<b>2002</b>—Pub. L. 107–251 amended section generally. Prior to amendment, section related to a rural health outreach, network development, and telemedicine grant program, and in subsec. (a), provided for administration by the Office of Rural Health Policy; in subsec. (b), set out the objectives of grants; in subsec. (c), set out eligibility requirements; in subsec. (d), described preferred characteristics of applicant networks; in subsec. (e), specified permitted uses of grant funds; in subsec. (f), limited the duration of grants; and in subsec. (g), authorized appropriations.
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
+Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L.107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 
 #### Effective Date
 

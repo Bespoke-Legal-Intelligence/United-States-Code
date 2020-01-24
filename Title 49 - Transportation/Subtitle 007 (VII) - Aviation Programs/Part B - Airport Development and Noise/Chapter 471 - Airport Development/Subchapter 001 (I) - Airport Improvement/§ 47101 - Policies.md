@@ -56,7 +56,7 @@ National Transportation Policy.—(1) It is a goal of the United States to devel
 
 (c)
 
-Capacity Expansion and Noise Abatement.—It is in the public interest to recognize the effects of airport capacity expansion projects on aircraft noise. Efforts to increase capacity through any means can have an impact on surrounding communities. Noncompatible land uses around airports must be reduced andefforts to mitigate noise must be given a high priority.
+Capacity Expansion and Noise Abatement.—It is in the public interest to recognize the effects of airport capacity expansion projects on aircraft noise. Efforts to increase capacity through any means can have an impact on surrounding communities. Noncompatible land uses around airports must be reduced and efforts to mitigate noise must be given a high priority.
 
 (d)
 
@@ -252,7 +252,7 @@ Sept. 3, 1982, Pub. L. 97–248, §502(a)(4), 96 Stat. 671; Dec. 30, 1987, Pub. 
 
 49 App.:2208(b)(5) (last sentence words before 11th comma).
 
-In subsection (a), before clause (1), the text of 49 App.:2201(a)(2), (9), and (10) is omitted as executed. The words "It is the policy of the United States" are substituted for "The Congress hereby . . . declares" in 49 App.:2201(a) (words before cl. (1)), "it is in the national interest" in 49 App.:2201(a)(12), "are not in the public interest and" in 49 App.:2201(a)(13), "It is declared to be in the national interest to" in 49 App.:2201(b), and "It is declared to be national policy that" in 49 App.:2208(b)(5) for consistency in the revised title and with other titles of the United States Code. In clause (1), the word "is" is substituted for "will continue to be" to eliminate unnecessary words. In clause (2), the words "with due regard" are omitted as surplus. In clause (3), the words "reliever airports make an important contribution to the efficient operation of the airport and airway system" are omitted as executed. In clause (4), the words "cargo hub airports play a critical role in the movement of commerce through the airport and airway system" are omitted as executed. In clause (5), the words "and promote" are omitted as surplus.
+In subsection (a), before clause (1), the text of 49 App.:2201(a)(2), (9), and (10) is omitted as executed. The words "It is the policy of the United States" are substituted for "The Congress hereby . . . declares" in 49 App.:2201(a) (words before cl. (1)), "it is in the national interest" in 49 App.:2201(a)(12), "are not in the public interest and" in 49 App.:2201(a)(13), "It is declared to be in the national interest to" in 49 App.:2201(b), and "It is declared to be national policy that" in 49 App.:2208(b)(5) for consistency in the revised title andwith other titles of the United States Code. In clause (1), the word "is" is substituted for "will continue to be" to eliminate unnecessary words. In clause (2), the words "with due regard" are omitted as surplus. In clause (3), the words "reliever airports make an important contribution to the efficient operation of the airport and airway system" are omitted as executed. In clause (4), the words "cargo hub airports play a critical role in the movement of commerce through the airport and airway system" are omitted as executed. In clause (5), the words "and promote" are omitted as surplus.
 
 In subsection (d), the word "to" is substituted for "with due regard for the goals expressed therein of" to eliminate unnecessary words.
 

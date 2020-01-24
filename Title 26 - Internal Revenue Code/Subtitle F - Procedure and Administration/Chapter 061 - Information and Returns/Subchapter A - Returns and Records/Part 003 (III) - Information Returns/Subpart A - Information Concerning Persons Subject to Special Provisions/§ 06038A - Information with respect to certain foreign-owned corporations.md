@@ -176,7 +176,7 @@ Subsecs. (e), (f). Pub. L. 101–239, §7403(d), added subsec. (e) and redesigna
 
 Subsec. (b)(2). Pub. L. 99–514, §1245(b)(1), substituted "each person" for "each corporation".
 
-Subsec. (b)(3). Pub. L. 99–514, §1245(b)(2), (3), amended par. (3) generally, substituting "foreign person which isa related party to the reporting corporation, and" for "foreign corporation which is a member of the same controlled group as the reporting corporation."
+Subsec. (b)(3). Pub. L. 99–514, §1245(b)(2), (3), amended par. (3) generally, substituting "foreign person which is a related party to the reporting corporation, and" for "foreign corporation which is a member of the same controlled group as the reporting corporation."
 
 Subsec. (b)(4). Pub. L. 99–514, §1245(b)(3), added par. (4).
 

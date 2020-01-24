@@ -122,7 +122,7 @@ Briefings and Notifications Required.—
 
 &emsp;"(1)
 
-Restatement of policy formulation under the arms control and disarmament act with respect to outer space.—No action shall be taken that would obligate the United States to reduce or limit the Armed Forces or armaments of the United States in outer space in a militarily significant manner, except pursuant to the treaty-making power of thePresident set forth in Article II, Section 2, Clause II of the Constitution or unless authorized by the enactment of further affirmative legislation by the Congress of the United States.
+Restatement of policy formulation under the arms control and disarmament act with respect to outer space.—No action shall be taken that would obligate the United States to reduce or limit the Armed Forces or armaments of the United States in outer space in a militarily significant manner, except pursuant to the treaty-making power of the President set forth in Article II, Section 2, Clause II of the Constitution or unless authorized by the enactment of further affirmative legislation by the Congress of the United States.
 
 &emsp;"(2)
 

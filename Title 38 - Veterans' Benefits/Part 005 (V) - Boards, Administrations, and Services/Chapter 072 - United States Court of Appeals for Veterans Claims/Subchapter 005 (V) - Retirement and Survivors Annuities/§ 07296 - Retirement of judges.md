@@ -91,7 +91,7 @@
 
 &emsp;(E) if subparagraphs (C) and (D) of this paragraph are complied with, service on the Court shall be treated as service with respect to which deductions and contributions had been made during the period of service.
 
-(i)(1) Beginning with the next pay period after the Director of the Office of Personnel Management receives a notice under subsection (d) of this section that a judge has elected to receive retired pay under this section, the Director shall deduct and withhold 1 percent of the salary of such judge. Amounts shall be so deducted andwithheld in a manner determined by the Director. Amounts deducted and withheld under this subsection shall be deposited in the Treasury of the United States to the credit of the Court of Appeals for Veterans Claims Judges Retirement Fund. Deductions under this subsection from the salary of a judge shall terminate upon the retirement of the judge or upon the completion of 15 years of service for which either deductions under this subsection or a deposit under subsection (j) of this section has been made, whichever occurs first.
+(i)(1) Beginning with the next pay period after the Director of the Office of Personnel Management receives a notice under subsection (d) of this section that a judge has elected to receive retired pay under this section, the Director shall deduct and withhold 1 percent of the salary of such judge. Amounts shall be so deducted and withheld in a manner determined by the Director. Amounts deducted and withheld under this subsection shall be deposited in the Treasury of the United States to the credit of the Court of Appeals for Veterans Claims Judges Retirement Fund. Deductions under this subsection from the salary of a judge shall terminate upon the retirement of the judge or upon the completion of 15 years of service for which either deductions under this subsection or a deposit under subsection (j) of this section has been made, whichever occurs first.
 
 (2) Each judge who makes an election under subsection (d) of this section shall be considered to agree to the deductions from salary which are made under paragraph (1) of this subsection.
 
@@ -141,7 +141,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 #### Transitional Provisions To Stagger Terms of Judges
 
-Pub. L. 106–117, title X, §1002, Nov. 30, 1999, 113 Stat. 1588, provided that: "In this title \[see Short Title of 1999 Amendments note set out under section 101 of this title\], the term 'Court' means the United States Court of Appeals for Veterans Claims."
+Pub. L. 106–117, title X, §1002, Nov. 30, 1999, 113 Stat. 1588, provided that: "In this title \[see Short Title of1999 Amendments note set out under section 101 of this title\], the term 'Court' means the United States Court of Appeals for Veterans Claims."
 
 Pub. L. 106–117, title X, §§1011, 1012, Nov. 30, 1999, 113 Stat. 1588, 1590, provided that:
 
@@ -245,7 +245,7 @@ Modified Terms.—The term of office of the first two judges appointed to the Co
 
 Eligibility for Retirement.—(1) For purposes of determining the eligibility to retire under section 7296 of title 38, United States Code, of the two judges of the Court whose term of office is determined under subsection (a)—
 
-&emsp;"(A) the age and service requirements in the table in paragraph (2) shall apply to those judges rather than the otherwise applicable age and service requirements specified in the table in subsection (b)(1) of that section; and
+&emsp;"(A) the age and service requirements in the table in paragraph (2) shall apply to those judges ratherthan the otherwise applicable age and service requirements specified in the table in subsection (b)(1) of that section; and
 
 &emsp;"(B) the minimum years of service applicable to those judges for eligibility to retire under the first sentence of subsection (b)(2) of that section shall be 13 years instead of 15 years.
 

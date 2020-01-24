@@ -20,7 +20,7 @@ Jury Trial Demand.—In a trial for criminal contempt for violating an injunctio
 
 Effect on Tort Liability.—This chapter does not affect the tort liability of any person.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1323; Pub. L. 107–355, §8(b)(3), Dec. 17, 2002, 116 Stat.2993; Pub. L. 112–90, §2(c), Jan. 3, 2012, 125 Stat. 1905.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1323; Pub. L. 107–355, §8(b)(3), Dec. 17, 2002, 116 Stat. 2993; Pub. L. 112–90, §2(c), Jan. 3, 2012, 125 Stat. 1905.)
 
 Historical and Revision Notes
 

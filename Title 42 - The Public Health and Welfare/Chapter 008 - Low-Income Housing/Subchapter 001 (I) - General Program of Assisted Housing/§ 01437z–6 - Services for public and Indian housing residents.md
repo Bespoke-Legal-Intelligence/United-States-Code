@@ -50,7 +50,7 @@ The Secretary may not make any grant under this section to any applicant unless 
 
 #### (e) Funding for resident organizations
 
-To the extent that there are a sufficient number of qualified applications for assistance underthis section, not less than 25 percent of any amounts appropriated to carry out this section shall be provided directly to resident councils, resident organizations, and resident management corporations. In any case in which a resident council, resident organization, or resident management corporation lacks adequate expertise, the Secretary may require the council, organization, or corporation to utilize other qualified organizations as contract administrators with respect to financial assistance provided under this section.
+To the extent that there are a sufficient number of qualified applications for assistance under this section, not less than 25 percent of any amounts appropriated to carry out this section shall be provided directly to resident councils, resident organizations, and resident management corporations. In any case in which a resident council, resident organization, or resident management corporation lacks adequate expertise, the Secretary may require the council, organization, or corporation to utilize other qualified organizations as contract administrators with respect to financial assistance provided under this section.
 
 (Sept. 1, 1937, ch. 896, title I, §34, as added Pub. L. 105–276, title V, §538(a), Oct. 21, 1998, 112 Stat. 2592; amended Pub. L. 106–377, §1(a)(1) \[title II, §221(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–29.)
 

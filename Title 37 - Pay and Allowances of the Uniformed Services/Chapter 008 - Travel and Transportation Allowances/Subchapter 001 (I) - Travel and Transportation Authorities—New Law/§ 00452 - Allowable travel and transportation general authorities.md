@@ -50,7 +50,9 @@ Matters Included.—Travel and transportation allowances which may be provided u
 
 &emsp;(2) Dislocation or relocation allowances paid in connection with a change in a member's temporary or permanent duty assignment location.
 
-&emsp;(3) Other related miscellaneous expenses.
+&emsp;(3) A partial dislocation allowance paid to a member ordered to occupy or vacate housing provided by the United States.
+
+&emsp;(4) Other related miscellaneous expenses.
 
 (d)
 
@@ -80,5 +82,9 @@ Responsibility for Unauthorized Expenses.—Any unauthorized travel or transport
 
 Relationship to Other Authorities.—The administering Secretary may not provide payment under this section for an expense for which payment may be provided from any other appropriate Government or non-Government entity.
 
-(Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1455.)
+(Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1455; amended Pub. L. 116–92, div. A, title VI, §607(b), Dec. 20, 2019, 133 Stat. 1425.)
+
+#### Amendments
+
+<b>2019</b>—Subsec. (c)(3), (4). Pub. L. 116–92 added par. (3) and redesignated former par. (3) as (4).
 

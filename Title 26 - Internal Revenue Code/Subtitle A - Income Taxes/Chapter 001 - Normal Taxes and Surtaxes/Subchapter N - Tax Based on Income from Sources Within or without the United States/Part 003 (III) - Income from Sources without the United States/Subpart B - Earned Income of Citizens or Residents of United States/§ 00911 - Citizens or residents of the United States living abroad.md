@@ -56,7 +56,7 @@ At the election of a qualified individual (made separately with respect to parag
 
 &emsp;&emsp;&emsp;&emsp;(I) such dollar amount, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2004"for "2016" in subparagraph (A)(ii) thereof.
+&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2004" for "2016" in subparagraph (A)(ii) thereof.
 
 &emsp;&emsp;&nbsp;If any increase determined under the preceding sentence is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100.
 
@@ -206,7 +206,7 @@ For purposes of this section—
 
 #### (6) Denial of double benefits
 
-&emsp;No deduction or exclusion from gross income under this subtitle or credit against the tax imposed by this chapter (including any credit or deduction for the amount of taxes paid or accrued to a foreign country or possession of the United States) shall be allowed to the extent such deduction, exclusion, or credit is properly allocable to or chargeable against amounts excluded from gross income under subsection (a).
+&emsp;No deduction or exclusion from gross income under this subtitle or credit against the taximposed by this chapter (including any credit or deduction for the amount of taxes paid or accrued to a foreign country or possession of the United States) shall be allowed to the extent such deduction, exclusion, or credit is properly allocable to or chargeable against amounts excluded from gross income under subsection (a).
 
 #### (7) Aggregate benefit cannot exceed foreign earned income
 
@@ -278,7 +278,7 @@ For purposes of this section—
 
 #### (A) Regular tax
 
-&emsp;&emsp;In applying section 1(h) for purposes of determining the tax under paragraph (1)(A)(i) for any taxable year in which, without regard to this subsection, the taxpayer's net capital gain exceeds taxable income (hereafter in this subparagraph referred to as the capital gain excess)—
+&emsp;&emsp;In applying section 1(h) for purposes of determining the tax under paragraph (1)(A)(i) for any taxable year in which, without regard to this subsection, the taxpayer's netcapital gain exceeds taxable income (hereafter in this subparagraph referred to as the capital gain excess)—
 
 &emsp;&emsp;&emsp;(i) the taxpayer's net capital gain (determined without regard to section 1(h)(11)) shall be reduced (but not below zero) by such capital gain excess,
 
@@ -290,7 +290,7 @@ For purposes of this section—
 
 &emsp;&emsp;In applying section 55(b)(3) for purposes of determining the tax under paragraph (1)(B)(i) for any taxable year in which, without regard to this subsection, the taxpayer's net capital gain exceeds the taxable excess (as defined in section 55(b)(1)(B))—
 
-&emsp;&emsp;&emsp;(i) the rules of subparagraph (A) shall apply, except that such subparagraph shallbe applied by substituting "the taxable excess (as defined in section 55(b)(1)(B))" for "taxable income", and
+&emsp;&emsp;&emsp;(i) the rules of subparagraph (A) shall apply, except that such subparagraph shall be applied by substituting "the taxable excess (as defined in section 55(b)(1)(B))" for "taxable income", and
 
 &emsp;&emsp;&emsp;(ii) the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B), and the reference in section 55(b)(3)(C)(ii) to the excess described in section 1(h)(1)(C)(ii), shall each be treated as a reference to each such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
 
@@ -575,5 +575,5 @@ General Rule.—As soon as practicable after December 31, 1993, and as soon as p
 
 "(b)
 
-Information From Federal Agencies.—Each agency of the Federal Government which pays allowances excludable from gross income under section 912 of such Code shall keep such records and furnish to the Secretary of the Treasury such information as he determines to be necessary to carry out his responsibility under subsection (a)."
+Information From Federal Agencies.—Each agency of the Federal Government which pays allowances excludable from gross income under section 912 ofsuch Code shall keep such records and furnish to the Secretary of the Treasury such information as he determines to be necessary to carry out his responsibility under subsection (a)."
 

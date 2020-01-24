@@ -36,7 +36,7 @@ Par. (1)(D). Pub. L. 115–141, §604(b)(2), (3)(B), (4), added subpar. (D).
 
 <b>1996</b>—Par. (2). Pub. L. 104–294, §603(i)(1), amended directory language of Pub. L. 103–322, §210603(b). See 1994 Amendment note below.
 
-<b>1994</b>—Par. (2). Pub. L. 103–322, §210603(b), as amended by Pub. L. 104–294, §603(i)(1), struck out ", which may be appropriated from the Violent Crime Reduction Trust Fund established by section 1115 of title 31, United States Code," after "grants under paragraph (1)".
+<b>1994</b>—Par. (2). Pub. L. 103–322, §210603(b), as amended by Pub. L. 104–294, §603(i)(1), struck out ", which may be appropriated from the Violent Crime Reduction Trust Fund established by section 1115 of title 31,United States Code," after "grants under paragraph (1)".
 
 #### Effective Date of 1996 Amendment
 

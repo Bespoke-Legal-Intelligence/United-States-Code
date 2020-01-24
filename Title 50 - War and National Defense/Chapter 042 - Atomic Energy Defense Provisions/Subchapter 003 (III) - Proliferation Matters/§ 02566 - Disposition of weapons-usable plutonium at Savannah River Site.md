@@ -58,7 +58,7 @@ If the MOX production objective is not achieved as of January 1, 2014, the Secre
 
 #### (d) Economic and impact assistance
 
-(1) If the MOX production objective is not achieved as of January 1, 2016, the Secretary shall, subject to the availability of appropriations, pay to the State of South Carolina each year beginning on or after that date through 2021 for economic and impact assistance an amount equal to $1,000,000 per day, not to exceed $100,000,000 per year, until the later of—
+(1) If the MOX production objective is not achieved as of January 1, 2016, the Secretary shall, subject to the availability of appropriations, pay to the State of South Carolina eachyear beginning on or after that date through 2021 for economic and impact assistance an amount equal to $1,000,000 per day, not to exceed $100,000,000 per year, until the later of—
 
 &emsp;(A) the date on which the MOX production objective is achieved in such year; or
 

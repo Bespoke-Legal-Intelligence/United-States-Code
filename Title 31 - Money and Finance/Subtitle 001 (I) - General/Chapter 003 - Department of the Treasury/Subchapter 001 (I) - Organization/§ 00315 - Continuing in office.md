@@ -1,6 +1,6 @@
 ### §315. Continuing in office
 
-When the term of office of an officer of the Department of the Treasury ends, the officer maycontinue to serve until a successor is appointed and qualified.
+When the term of office of an officer of the Department of the Treasury ends, the officer may continue to serve until a successor is appointed and qualified.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 880, §309; renumbered §310, Pub. L. 101–73, title III, §307(a)(1), Aug. 9, 1989, 103 Stat. 352; renumbered §311, Pub. L. 107–56, title III, §361(a)(1), Oct. 26, 2001, 115 Stat. 329; renumbered §312, Pub. L. 108–177, title I, §105(a)(1)(A), Dec. 13, 2003, 117 Stat. 2603; renumbered §315, Pub. L. 111–203, title V, §502(a)(1), July 21, 2010, 124 Stat. 1580.)
 

@@ -6,7 +6,7 @@ The President shall convene annual high-level meetings between appropriate offic
 
 #### (b) Establishment
 
-Not later than 12 months after May 18, 2000, the President, after consulting with Congress and the governments concerned, shall establish a United States-Sub-Saharan Africa Trade and Economic Cooperation Forum (in this section referred to as the "Forum").
+Not later than 12 months after May 18, 2000, the President, after consulting with Congress and the governments concerned, shall establish a United States-Sub-Saharan Africa Trade andEconomic Cooperation Forum (in this section referred to as the "Forum").
 
 #### (c) Requirements
 

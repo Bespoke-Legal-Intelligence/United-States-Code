@@ -19,7 +19,7 @@ Subpart A—Private Activity Bonds
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(46), Mar. 23, 2018, 132 Stat. 1186, substituted "Mortgage revenuebonds; qualified mortgage bond and qualified veterans' mortgage bond" for "Mortgage revenue bonds: qualified mortgage and qualified veterans' mortgage bond" in item 143.
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(46), Mar. 23, 2018, 132 Stat. 1186, substituted "Mortgage revenue bonds; qualified mortgage bond and qualified veterans' mortgage bond" for "Mortgage revenue bonds: qualified mortgage and qualified veterans' mortgage bond" in item 143.
 
 <b>1986</b>—Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2603, in amending part IV generally, added subpart heading and analysis and struck out item 143 "Determination of marital status".
 

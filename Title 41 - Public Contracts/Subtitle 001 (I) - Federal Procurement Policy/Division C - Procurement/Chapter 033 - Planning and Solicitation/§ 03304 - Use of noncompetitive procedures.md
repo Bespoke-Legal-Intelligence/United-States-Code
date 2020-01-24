@@ -14,13 +14,13 @@ When Noncompetitive Procedures May Be Used.—An executive agency may use proced
 
 &emsp;&emsp;(B) to establish or maintain an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a Federally funded research and development center;
 
-&emsp;&emsp;(C) to procure the services of an expert for use, in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government, inany trial, hearing, or proceeding before a court, administrative tribunal, or agency, whether or not the expert is expected to testify; or
+&emsp;&emsp;(C) to procure the services of an expert for use, in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government, in any trial, hearing, or proceeding before a court, administrative tribunal, or agency, whether or not the expert is expected to testify; or
 
 &emsp;&emsp;(D) to procure the services of an expert or neutral for use in any part of an alternative dispute resolution or negotiated rulemaking process, whether or not the expert is expected to testify;
 
 &emsp;(4) the terms of an international agreement or treaty between the Federal Government and a foreign government or an international organization, or the written directions of a foreign government reimbursing the executive agency for the cost of the procurement of the property or services for that government, have the effect of requiring the use of procedures other than competitive procedures;
 
-&emsp;(5) subject to section 3105 of this title, a statute expressly authorizes or requires that the procurement be made through another executive agency or from a specified source, or the agency's need is for a brand-name commercial item for authorized resale;
+&emsp;(5) subject to section 3105 of this title, a statute expressly authorizes or requires that the procurement be made through another executive agency or from a specified source, or the agency's need is for a brand-name commercial product for authorized resale;
 
 &emsp;(6) the disclosure of the executive agency's needs would compromise the national security unless the agency is permitted to limit the number of sources from which it solicits bids or proposals; or
 
@@ -112,7 +112,7 @@ Justification not required.—The justification and approval required by paragra
 
 &emsp;&emsp;(A) a statute expressly requires that the procurement be made from a specified source;
 
-&emsp;&emsp;(B) the agency's need is for a brand-name commercial item for authorized resale;
+&emsp;&emsp;(B) the agency's need is for a brand-name commercial product for authorized resale;
 
 &emsp;&emsp;(C) the procurement is permitted by subsection (a)(7); or
 
@@ -128,7 +128,7 @@ Contracts and procurement of property or services.—In no case may an executive
 
 &emsp;&emsp;&emsp;(i) enter into a contract for property or services using procedures other than competitive procedures on the basis of the lack of advance planning or concerns related to the amount available to the agency for procurement functions; or
 
-&emsp;&emsp;&emsp;(ii) procure property or services from another executive agency unless the other executive agency complies fully with the requirements of this division in its procurement of the property or services.
+&emsp;&emsp;&emsp;(ii) procure property or services from another executive agency unless the otherexecutive agency complies fully with the requirements of this division in its procurement of the property or services.
 
 &emsp;&emsp;(B)
 
@@ -159,10 +159,6 @@ Availability on websites.—The documents referred to in subparagraph (A) of par
 Exception to availability and approval requirement.—This subsection does not require the public availability of information that is exempt from public disclosure under section 552(b) of title 5.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3748; Pub. L. 115–232, div. A, title VIII, §836(b)(7), Aug. 13, 2018, 132 Stat. 1861.)
-
-#### Amendment of Subsections (a)(5) and (e)(4)(B)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(7), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsections (a)(5) and (e)(4)(B) of this section are amended by striking "commercial item" and inserting "commercial product". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 

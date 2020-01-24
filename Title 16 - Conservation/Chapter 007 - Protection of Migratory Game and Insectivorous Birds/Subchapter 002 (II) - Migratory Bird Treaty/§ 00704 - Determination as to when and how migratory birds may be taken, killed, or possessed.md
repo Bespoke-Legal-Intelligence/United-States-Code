@@ -1,6 +1,6 @@
 ### §704. Determination as to when and how migratory birds may be taken, killed, or possessed
 
-(a) Subject to the provisions and in order to carry out the purposes of the conventions, referred to in section 703 of this title, the Secretary of the Interior is authorized and directed, from time to time, having due regard to the zones of temperature and to the distribution, abundance, economic value, breeding habits, and times and lines of migratory flight of such birds, to determine when, to what extent, if at all, and by what means, it is compatible with the terms of the conventions to allow hunting, taking, capture, killing, possession, sale, purchase, shipment, transportation, carriage, or export of any such bird, or any part, nest, or egg thereof, and to adopt suitable regulations permitting andgoverning the same, in accordance with such determinations, which regulations shall become effective when approved by the President.
+(a) Subject to the provisions and in order to carry out the purposes of the conventions, referred to in section 703 of this title, the Secretary of the Interior is authorized and directed, from time to time, having due regard to the zones of temperature and to the distribution, abundance, economic value, breeding habits, and times and lines of migratory flight of such birds, to determine when, to what extent, if at all, and by what means, it is compatible with the terms of the conventions to allow hunting, taking, capture, killing, possession, sale, purchase, shipment, transportation, carriage, or export of any such bird, or any part, nest, or egg thereof, and to adopt suitable regulations permitting and governing the same, in accordance with such determinations, which regulations shall become effective when approved by the President.
 
 (b) It shall be unlawful for any person to—
 
@@ -8,9 +8,61 @@
 
 &emsp;(2) place or direct the placement of bait on or adjacent to an area for the purpose of causing, inducing, or allowing any person to take or attempt to take any migratory game bird by the aid of baiting on or over the baited area.
 
-(July 3, 1918, ch. 128, §3, 40 Stat. 755; June 20, 1936, ch. 634, §2, 49 Stat. 1556; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 105–312, title I, §102, Oct. 30, 1998, 112 Stat. 2956.)
+(c)
+
+Federal Framework Closing Date for Hunting of Ducks, Mergansers, and Coots.—
+
+&emsp;(1)
+
+Regulations relating to framework closing date.—
+
+&emsp;&emsp;(A)
+
+In general.—In promulgating regulations under subsection (a) relating to the Federal framework for the closing date up to which the States may select seasons for migratory bird hunting, except as provided in paragraph (2), the Secretary shall, with respect to the hunting season for ducks, mergansers, and coots—
+
+&emsp;&emsp;&emsp;(i) subject to subparagraph (B), adopt the recommendation of each respective flyway council (as defined in section 20.152 of title 50, Code of Federal Regulations) for the Federal framework if the Secretary determines that the recommendation is consistent with science-based and sustainable harvest management; and
+
+&emsp;&emsp;&emsp;(ii) allow the States to establish the closing date for the hunting season in accordance with the Federal framework.
+
+&emsp;&emsp;(B)
+
+Requirement.—The framework closing date promulgated by the Secretary under subparagraph (A) shall not be later than January 31 of each year.
+
+&emsp;(2)
+
+Special hunting days for youths, veterans, and active military personnel.—
+
+&emsp;&emsp;(A)
+
+In general.—Notwithstanding the Federal framework closing date under paragraph (1) and subject to subparagraphs (B) and (C), the Secretary shall allow States to select 2 days for youths and 2 days for veterans (as defined in section 101 of title 38) and members of the Armed Forces on active duty, including members of the National Guard and Reserves on active duty (other than for training), to hunt eligible ducks, geese, swans, mergansers, coots, moorhens, and gallinules, if the Secretary determines that the addition of those days is consistent with science-based and sustainable harvest management. Such days shall be treated as separate from, and in addition to, the annual Federal framework hunting season lengths.
+
+&emsp;&emsp;(B)
+
+Requirements.—In selecting days under subparagraph (A), a State shall ensure that—
+
+&emsp;&emsp;&emsp;(i) the days selected—
+
+&emsp;&emsp;&emsp;&emsp;(I) may only include the hunting of duck, geese, swan, merganser, coot, moorhen, and gallinule species that are eligible for hunting under the applicable annual Federal framework;
+
+&emsp;&emsp;&emsp;&emsp;(II) are not more than 14 days before or after the Federal framework hunting season for ducks, mergansers, and coots; and
+
+&emsp;&emsp;&emsp;&emsp;(III) are otherwise consistent with the Federal framework; and
+
+&emsp;&emsp;&emsp;(ii) the total number of days in a hunting season for any migratory bird species, including any days selected under subparagraph (A), is not more than 107 days.
+
+&emsp;&emsp;(C)
+
+Limitation.—A State may combine the 2 days allowed for youths with the 2 days allowed for veterans and members of the Armed Forces on active duty under subparagraph (A), but in no circumstance may a State have more than a total of 4 additional days added to its regular hunting season for any purpose.
+
+&emsp;(3)
+
+Regulations.—The Secretary shall promulgate regulations in accordance with this subsection for the Federal framework for migratory bird hunting for the 2019–2020 hunting season and each hunting season thereafter.
+
+(July 3, 1918, ch. 128, §3, 40 Stat. 755; June 20, 1936, ch. 634, §2, 49 Stat. 1556; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 105–312, title I, §102, Oct. 30, 1998, 112 Stat. 2956; Pub. L. 116–9, title IV, §4301, Mar. 12, 2019, 133 Stat. 764.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c). Pub. L. 116–9 added subsec. (c).
 
 <b>1998</b>—Pub. L. 105–312 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -68,5 +120,5 @@ Reports.—Not less frequently than once each year—
 
 #### Report on Effects of 1998 Amendments
 
-Pub. L. 105–312, title I, §104, Oct. 30, 1998, 112 Stat. 2956, provided that: "Not later than 5 years after the date of enactment of this Act \[Oct. 30, 1998\], the Secretary of the Interior shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a report analyzing the effect of the amendments made by section 2 \[probably should be section 102, which amended this section\], and the general practice of baiting, on migratory bird conservation and law enforcement efforts under the Migratory Bird Treaty Act (16 U.S.C. 701 et seq.) \[16 U.S.C. 703 et seq.\]."
+Pub. L. 105–312, title I, §104, Oct. 30, 1998, 112 Stat. 2956, directed that no later than 5 years after Oct. 30, 1998, the Secretary of the Interior submit to the appropriate Senate and House committees a report analyzing the effect of certain amendments made by Pub. L. 105–312, and the general practice of baiting, on migratory bird conservation and law enforcement efforts under the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.).
 

@@ -78,7 +78,7 @@ The purposes of the Management Unit are—
 
 &emsp;&emsp;(ii) in any area located not more than 400 feet from the Cooper Spur Road, the Cloud Cap Road, or the Cooper Spur Ski Area Loop Road; and
 
-&emsp;&emsp;(iii) on any other National Forest System land in the Management Unit, with priority given to activities that restore previouslyharvested stands, including the removal of logging slash, smaller diameter material, and ladder fuels.
+&emsp;&emsp;(iii) on any other National Forest System land in the Management Unit, with priority given to activities that restore previously harvested stands, including the removal of logging slash, smaller diameter material, and ladder fuels.
 
 #### (5) Prohibited activities
 
@@ -108,7 +108,7 @@ Subject to valid existing rights, the following activities shall be prohibited o
 
 #### (A) Effect
 
-&emsp;Nothing in this section affects the use of, or access to, any private property within the area identified on the map as the "Crystal Springs Zone of Contribution" by—
+&emsp;Nothing in this section affects the use of, or access to, any private property within the areaidentified on the map as the "Crystal Springs Zone of Contribution" by—
 
 &emsp;&emsp;(i) the owners of the private property; and
 

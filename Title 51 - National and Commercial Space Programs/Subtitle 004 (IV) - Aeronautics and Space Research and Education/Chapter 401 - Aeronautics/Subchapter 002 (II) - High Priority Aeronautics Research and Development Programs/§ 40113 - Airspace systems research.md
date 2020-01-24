@@ -2,7 +2,7 @@
 
 (a)
 
-Objective.—The Airspace Systems Research program shall pursue research and development to enable revolutionary improvements to and modernization of the National Airspace System, as well as to enable the introduction of new systems for vehicles that can take advantage of an improved, modern air transportation system.
+Objective.—The Airspace Systems Research program shall pursue research and development to enable revolutionary improvements to and modernization of the National Airspace System, as well as to enable the introduction ofnew systems for vehicles that can take advantage of an improved, modern air transportation system.
 
 (b)
 

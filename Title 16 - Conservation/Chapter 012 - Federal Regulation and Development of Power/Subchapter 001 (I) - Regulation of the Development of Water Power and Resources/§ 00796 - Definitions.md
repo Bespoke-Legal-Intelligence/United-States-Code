@@ -50,7 +50,7 @@ The words defined in this section shall have the following meanings for purposes
 
 &emsp;&emsp;&emsp;(II) emergencies, directly affecting the public health, safety, or welfare, which would result from electric power outages;
 
-&emsp;(C) "qualifying small power production facility" means a small power production facility that the Commission determines, by rule, meets such requirements (including requirements respecting fuel use, fuel efficiency, and reliability) as the Commission may, by rule, prescribe;
+&emsp;(C) "qualifying small power production facility" means a small power production facility that the Commission determines, by rule, meets such requirements (including requirements respecting fuel use, fuel efficiency, andreliability) as the Commission may, by rule, prescribe;
 
 &emsp;(D) "qualifying small power producer" means the owner or operator of a qualifying small power production facility;
 
@@ -134,7 +134,7 @@ Section 79z–5a of title 15, referred to in par. (25), was repealed by Pub. L. 
 
 &emsp;"(i) which the Commission determines, by rule, meets such requirements (including requirements respecting fuel use, fuel efficiency, and reliability) as the Commission may, by rule, prescribe; and
 
-&emsp;"(ii) which is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);".
+&emsp;"(ii) which is owned by a person not primarily engaged in the generation or sale of electric power\(other than electric power solely from cogeneration facilities or small power production facilities);".
 
 Par. (18)(B). Pub. L. 109–58, §1253(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: " 'qualifying cogeneration facility' means a cogeneration facility which—
 

@@ -6,13 +6,17 @@ Consolidated Budget.—The budget of the President for each fiscal year, as subm
 
 (b)
 
-Quarterly Report on Use of Funds.—Not later than 30 days after the end of each calendar quarter, the Secretary shall submit to the appropriate committees of Congress a report on the obligation and expenditure of funds for security cooperation programs and activities of the Department of Defense during such calendar quarter.
+Quarterly Report on Use of Funds.—Not later than 60 days after the end of each calendar quarter, the Secretary shall submit to the appropriate committees of Congress a report on the obligation and expenditure of funds for security cooperation programs and activities of the Department of Defense during such calendar quarter.
 
-(Added Pub. L. 114–328, div. A, title XII, §1249(a), Dec. 23, 2016, 130 Stat. 2526.)
+(Added Pub. L. 114–328, div. A, title XII, §1249(a), Dec. 23, 2016, 130 Stat. 2526; amended Pub. L.116–92, div. A, title XII, §1204, Dec. 20, 2019, 133 Stat. 1622.)
 
 #### Prior Provisions
 
 A prior section 381 was renumbered section 281 of this title.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (b). Pub. L. 116–92 substituted "60 days" for "30 days".
 
 #### Effective Date; Applicability
 

@@ -10,11 +10,11 @@ Limitation.—A degree may not be conferred under this section unless—
 
 &emsp;(1) the Secretary of Education has recommended approval of the degree in accordance with the Federal Policy Governing Granting of Academic Degrees by Federal Agencies; and
 
-&emsp;(2) the Air University is accredited by the appropriate civilian academic accrediting agency or organization to award the degree, as determined by the Secretary of Education.
+&emsp;(2) the Air University is accredited by the appropriate civilian academic accreditingagency or organization to award the degree, as determined by the Secretary of Education.
 
 (c)
 
-Congressional Notification Requirements.—(1) When seeking to establish degreegranting authority under this section, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
+Congressional Notification Requirements.—(1) When seeking to establish degree granting authority under this section, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
 
 &emsp;(A) a copy of the self assessment questionnaire required by the Federal Policy Governing Granting of Academic Degrees by Federal Agencies, at the time the assessment is submitted to the Department of Education's National Advisory Committee on Institutional Quality and Integrity; and
 

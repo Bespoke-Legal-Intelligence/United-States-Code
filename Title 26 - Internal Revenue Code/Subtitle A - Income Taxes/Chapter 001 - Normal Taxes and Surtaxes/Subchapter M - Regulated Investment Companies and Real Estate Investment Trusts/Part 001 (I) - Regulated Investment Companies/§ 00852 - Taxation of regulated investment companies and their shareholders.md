@@ -276,7 +276,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (D) Late-year ordinary loss
 
-&emsp;&emsp;For purposes of this paragraph, the term "late-year ordinary loss" means the sum of any post-October specified loss and any post-December ordinary loss.
+&emsp;&emsp;For purposes of this paragraph, the term "late-year ordinary loss" means the sum ofany post-October specified loss and any post-December ordinary loss.
 
 #### (E) Post-October specified loss
 
@@ -434,7 +434,7 @@ In the case of a unit investment trust—
 
 &emsp;&emsp;(C) the taxpayer acquires, during the period beginning on the date of the disposition referred to in subparagraph (B) and ending on January 31 of the calendar year following the calendar year that includes the date of such disposition, stock in such regulated investment company or in another regulated investment company and the otherwise applicable load charge is reduced by reason of the reinvestment right,
 
-> &emsp;the load charge referred to in subparagraph (A) (to the extent it does not exceed the reduction referred to in subparagraph (C)) shall not be taken into account for purposes of determining the amount of gain or loss on the disposition referred to in subparagraph (B). To the extent such charge is not taken into account in determining the amount of such gain or loss, such charge shall be treated as incurred in connection with the acquisition referred to in subparagraph (C) (including for purposes of reapplying this paragraph).
+> &emsp;the load charge referred to in subparagraph (A) (to the extent it does not exceed the reduction referred to in subparagraph (C)) shall not be taken into account for purposes of determining the amount of gain or loss on the disposition referred to in subparagraph (B). To the extent such charge is not taken into account in determining the amount of such gainor loss, such charge shall be treated as incurred in connection with the acquisition referred to in subparagraph (C) (including for purposes of reapplying this paragraph).
 
 #### (2) Definitions and special rules
 
@@ -494,7 +494,7 @@ Pub. L. 113–295, §205(a)(2), in introductory provisions, substituted "October
 
 Subsec. (b)(3)(C). Pub. L. 111–325, §301(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to definition of capital gain dividend.
 
-Subsec. (b)(4)(E). Pub. L. 111–325, §309(a), (b), substituted "Exception to holding period requirement for certain regularly declared exempt-interest dividends" for "Authority to shorten required holding period" in heading, added cl. (i), inserted cl. (ii) designation and heading before "In the case of", and inserted "(other than a company described in clause (i))" after "regulated investment company".
+Subsec. (b)(4)(E). Pub. L. 111–325, §309(a), (b), substituted "Exception to holding period requirement forcertain regularly declared exempt-interest dividends" for "Authority to shorten required holding period" in heading, added cl. (i), inserted cl. (ii) designation and heading before "In the case of", and inserted "(other than a company described in clause (i))" after "regulated investment company".
 
 Subsec. (b)(5)(A). Pub. L. 111–325, §301(b), amended subpar. (A) generally. Prior to amendment, text read as follows: "An exempt-interest dividend means any dividend or part thereof (other than a capital gain dividend) paid by a regulated investment company and designated by it as an exempt-interest dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year. If the aggregate amount so designated with respect to a taxable year of the company (including exempt-interest dividends paid after the close of the taxable year as described in section 855) is greater than the excess of—
 
@@ -506,7 +506,7 @@ Subsec. (b)(5)(A). Pub. L. 111–325, §301(b), amended subpar. (A) generally. P
 
 Subsec. (b)(8). Pub. L. 111–325, §308(a), amended par. (8) generally. Prior to amendment, text read as follows: "To the extent provided in regulations, the taxable income of a regulated investment company (other than a company to which an election under section 4982(e)(4) applies) shall be computed without regard to any net foreign currency loss attributable to transactions after October 31 of such year, and any such net foreign currency loss shall be treated as arising on the 1st day of the following taxable year."
 
-Subsec. (b)(10). Pub. L. 111–325, §308(b)(1), struck out par. (10). Text read as follows: "To the extent provided in regulations, the taxable income of a regulated investment company (other than a company to which an election under section 4982(e)(4) applies) shall be computed without regard to any net reduction in the value of any stock of a passive foreign investment companywith respect to which an election under section 1296(k) is in effect occurring after October 31 of the taxable year, and any such reduction shall be treated as occurring on the first day of the following taxable year."
+Subsec. (b)(10). Pub. L. 111–325, §308(b)(1), struck out par. (10). Text read as follows: "To the extent provided in regulations, the taxable income of a regulated investment company (other than a company to which an election under section 4982(e)(4) applies) shall be computed without regard to any net reduction in the value of any stock of a passive foreign investment company with respect to which an election under section 1296(k) is in effect occurring after October 31 of the taxable year, and any such reduction shall be treated as occurring on the first day of the following taxable year."
 
 Subsec. (c)(1). Pub. L. 111–325, §302(a), amended par. (1) generally. Prior to amendment, text read as follows: "The earnings and profits of a regulated investment company for any taxable year (but not its accumulated earnings and profits) shall not be reduced by any amount which is not allowable as a deduction in computing its taxable income for such taxable year. For purposes of this subsection, the term 'regulated investment company' includes a domestic corporation which is a regulated investment company determined without regard to the requirements of subsection (a)."
 
@@ -664,7 +664,7 @@ Subsec. (d). Pub. L. 94–455, §1901(a)(110)(C), (b)(33)(N), inserted in par. (
 
 <b>1969</b>—Subsec. (b)(3)(A). Pub. L. 91–172, §511(c)(2)(A), substituted "determined as provided in section 1201(a), on" for "of 25 percent of".
 
-Subsec. (b)(3)(C). Pub. L. 91–172, §511(c)(2)(B), inserted provision requiring for the purposes of the deduction for capital gains dividends paid the deduction shall, inthe case of a taxable year beginning before Jan. 1, 1975, first be made from the amount subject to tax in accordance with section 1201(a)(1)(B), to the extent thereof, and then from the amount subject to tax in accordance with section 1201(a)(1)(A).
+Subsec. (b)(3)(C). Pub. L. 91–172, §511(c)(2)(B), inserted provision requiring for the purposes of the deduction for capital gains dividends paid the deduction shall, in the case of a taxable year beginning before Jan. 1, 1975, first be made from the amount subject to tax in accordance with section 1201(a)(1)(B), to the extent thereof, and then from the amount subject to tax in accordance with section 1201(a)(1)(A).
 
 Subsec. (b)(3)(D). Pub. L. 91–172, §511(c)(2)(C), (D), struck out "of 25 percent" in cl. (ii), substituted reference in cl. (iii) to the increase of the adjusted basis of shares in the hands of the shareholder, with respect to the amounts required by this subpar., by 75 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a)(1)(A) and by 70 percent (72 percent in the case of a taxable year beginning after Dec. 31, 1969, and before Jan. 1, 1971) of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a)(1)(B) or (2), for reference to the increase of the adjusted basis of shares in the hand of the shareholder by 75 percent of the amounts required by this subpar. to be included in computing his long-term capital gains.
 
@@ -722,7 +722,7 @@ Pub. L. 109–222, title V, §505(d), May 17, 2006, 120 Stat. 357, provided that
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–170, title V, §566(d), Dec. 17, 1999, 113 Stat. 1950, provided that: "The amendments made by this section \[amending this section and section 857 of this title\] shall apply to distributions after December 31, 2000."
+Pub. L. 106–170, title V, §566(d), Dec. 17, 1999, 113 Stat. 1950, provided that: "The amendments made by thissection \[amending this section and section 857 of this title\] shall apply to distributions after December 31, 2000."
 
 #### Effective Date of 1997 Amendment
 
@@ -816,7 +816,7 @@ Amendment by section 301(b)(11) of Pub. L. 95–600 applicable to taxable years 
 
 Amendment by section 362(c) of Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of this title) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
 
-Amendment by section 701(s)(2) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1975,see section 701(s)(3) of Pub. L. 95–600, set out as a note under section 851 of this title.
+Amendment by section 701(s)(2) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1975, see section 701(s)(3) of Pub. L. 95–600, set out as a note under section 851 of this title.
 
 #### Effective Date of 1976 Amendment
 

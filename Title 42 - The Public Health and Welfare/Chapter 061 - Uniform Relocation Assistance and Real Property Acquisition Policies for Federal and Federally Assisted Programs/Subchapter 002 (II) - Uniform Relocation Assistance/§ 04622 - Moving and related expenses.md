@@ -2,7 +2,7 @@
 
 #### (a) General provision
 
-Whenever a program or project to be undertaken by a displacing agency will result in thedisplacement of any person, the head of the displacing agency shall provide for the payment to the displaced person of—
+Whenever a program or project to be undertaken by a displacing agency will result in the displacement of any person, the head of the displacing agency shall provide for the payment to the displaced person of—
 
 &emsp;(1) actual reasonable expenses in moving himself, his family, business, farm operation, or other personal property;
 

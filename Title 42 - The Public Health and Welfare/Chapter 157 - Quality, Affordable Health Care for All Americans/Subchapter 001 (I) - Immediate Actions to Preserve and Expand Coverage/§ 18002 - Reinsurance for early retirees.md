@@ -64,7 +64,7 @@
 
 #### (2) Program payments
 
-&emsp;If the Secretary determines that a participating employment-based plan has submitteda valid claim under paragraph (1), the Secretary shall reimburse such plan for 80 percent of that portion of the costs attributable to such claim that exceed $15,000, subject to the limits contained in paragraph (3).
+&emsp;If the Secretary determines that a participating employment-based plan has submitted a valid claim under paragraph (1), the Secretary shall reimburse such plan for 80 percent of that portion of the costs attributable to such claim that exceed $15,000, subject to the limits contained in paragraph (3).
 
 #### (3) Limit
 

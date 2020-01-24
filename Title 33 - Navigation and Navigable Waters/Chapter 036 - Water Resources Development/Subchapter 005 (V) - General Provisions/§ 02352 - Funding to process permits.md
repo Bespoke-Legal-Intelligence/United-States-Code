@@ -38,7 +38,7 @@
 
 #### (2) Impartial decisionmaking
 
-&emsp;In carrying out this section, the Secretary shall ensure that the evaluation of permits carried out using funds accepted under this section shall—
+&emsp;In carrying out this section, the Secretary shall ensure that the evaluation of permitscarried out using funds accepted under this section shall—
 
 &emsp;&emsp;(A) be reviewed by—
 

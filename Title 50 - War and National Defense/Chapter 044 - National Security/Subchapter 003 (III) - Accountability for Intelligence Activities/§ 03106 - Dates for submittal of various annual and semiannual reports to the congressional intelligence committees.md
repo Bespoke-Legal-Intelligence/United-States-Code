@@ -14,6 +14,8 @@ The date for the submittal to the congressional intelligence committees of the f
 
 &emsp;(5) The annual report on financial intelligence on terrorist assets required by section 3055 of this title.
 
+&emsp;(6) An annual report submitted under section 3059(d)(1) of this title.
+
 #### (b) Semiannual reports
 
 The dates for the submittal to the congressional intelligence committees of the following semiannual reports shall be the dates each year provided in subsection (c)(2):
@@ -40,7 +42,7 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 > if the official required to submit such report submits to the congressional intelligence committees a written notification of such postponement.
 
-(2)(A) Notwithstanding any other provision of law and subject to paragraph (3), the date for the submittal to the congressional intelligence committees of any report described in subparagraph (B) may be postponed by not more than 30 days from the date otherwise specified in the provision of law for the submittal of such report if the official required to submit such report submits to the congressional intelligence committees a written notification of such postponement.
+(2)(A) Notwithstanding any other provision of law and subject to paragraph (3), the date for the submittal to the congressional intelligence committees of any report described in subparagraph (B) may be postponed by not more than 30 days from the date otherwise specified in the provision of law for the submittal of such report ifthe official required to submit such report submits to the congressional intelligence committees a written notification of such postponement.
 
 (B) A report described in this subparagraph is any report on intelligence or intelligence-related activities of the United States Government that is submitted under a provision of law requiring the submittal of only a single report.
 
@@ -48,7 +50,7 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 (B) A certification with respect to a report under subparagraph (A) shall include a proposed submittal date for such report, and such report shall be submitted not later than that date.
 
-(July 26, 1947, ch. 343, title V, §507, as added Pub. L. 107–306, title VIII, §811(a)(1), Nov. 27, 2002, 116 Stat. 2418; amended Pub. L. 108–177, title III, §361(l), Dec. 13, 2003, 117 Stat. 2626; Pub. L. 111–259, title III, §349, title V, §501(b)(3), Oct. 7, 2010, 124 Stat. 2700, 2739; Pub. L. 112–277, title III, §§309(b)(2), 310(b)(1), Jan. 14, 2013, 126 Stat. 2474, 2475; Pub. L. 113–126, title III, §329(c)(3), July 7, 2014, 128 Stat. 1407; Pub. L. 114–113, div. M, title VII, §701(c)(2), (3), Dec. 18, 2015, 129 Stat. 2929.)
+(July 26, 1947, ch. 343, title V, §507, as added Pub. L. 107–306, title VIII, §811(a)(1), Nov. 27, 2002, 116 Stat. 2418; amended Pub. L. 108–177, title III, §361(l), Dec. 13, 2003, 117 Stat. 2626; Pub. L. 111–259, title III, §349, title V, §501(b)(3), Oct. 7, 2010, 124 Stat. 2700, 2739; Pub. L. 112–277, title III, §§309(b)(2), 310(b)(1), Jan. 14, 2013, 126 Stat. 2474, 2475; Pub. L. 113–126, title III, §329(c)(3), July 7, 2014, 128 Stat. 1407; Pub. L. 114–113, div. M, title VII, §701(c)(2), (3), Dec. 18, 2015, 129 Stat. 2929; Pub. L. 116–92, div. E, title LIII, §5322(c), Dec. 20, 2019, 133 Stat. 2130.)
 
 #### References in Text
 
@@ -66,7 +68,9 @@ Section was formerly classified to section 415b of this title prior to editorial
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(5), (6). Pub. L. 114–113, §701(c)(2), redesignated par. (6) as (5) and struck out former par. (5)which read as follows: "The annual report on outside employment of employees of elements of the intelligence community required by section 3024(u)(2) of this title."
+<b>2019</b>—Subsec. (a)(6). Pub. L. 116–92 added par. (6).
+
+<b>2015</b>—Subsec. (a)(5), (6). Pub. L. 114–113, §701(c)(2), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: "The annual report on outside employment of employees of elements of the intelligence community required by section 3024(u)(2) of this title."
 
 Subsec. (c)(1). Pub. L. 114–113, §701(c)(3), substituted "subsection (a)" for "subsection (a)(1)".
 
@@ -196,7 +200,7 @@ Pub. L. 107–108, title V, §505, Dec. 28, 2001, 115 Stat. 1406.
 
 #### Deadline for Submittal of Various Overdue Reports
 
-Pub. L. 107–306, title VIII, §801, Nov. 27, 2002, 116 Stat. 2418, provided that certain overdue reports that the Director of Central Intelligence has sole or primary responsibility to present to Congress must be submitted to Congress no later than 180 days after Nov. 27, 2002, or amounts available to the Director to carry out the functions and duties of the Director's Office would be reduced by 1/3.
+Pub. L. 107–306, title VIII, §801, Nov. 27, 2002, 116 Stat. 2418, provided that certain overdue reports that the Director of Central Intelligence has sole or primary responsibility to present to Congress must be submitted to Congress no later than 180 days after Nov. 27, 2002, or amounts available to the Director to carry out thefunctions and duties of the Director's Office would be reduced by 1/3.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "General".</i>
 

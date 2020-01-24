@@ -4,7 +4,7 @@
 
 In General.—(1) Except as provided by this subsection, a party in a judicial proceeding may not use discovery to obtain—
 
-&emsp;(A) any still image that the National Transportation Safety Board has not made availableto the public under section 1114(c) or 1114(d) of this title;
+&emsp;(A) any still image that the National Transportation Safety Board has not made available to the public under section 1114(c) or 1114(d) of this title;
 
 &emsp;(B) any part of a cockpit or surface vehicle recorder transcript that the National Transportation Safety Board has not made available to the public under section 1114(c) or 1114(d) of this title; and
 

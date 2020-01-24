@@ -24,7 +24,7 @@ On the recommendation of the Honey Board, and with the approval of the Secretary
 
 #### (1) Inspection
 
-&emsp;Any program, rule, or regulation under subsection (a)(8) may provide for the inspection, by the Secretary, of honey and honey products being sold for domestic consumption in, or for export from, the United States.
+&emsp;Any program, rule, or regulation under subsection (a)(8) may provide for the inspection, by the Secretary, of honey and honey productsbeing sold for domestic consumption in, or for export from, the United States.
 
 #### (2) Monitoring system
 

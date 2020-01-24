@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(H) the United States Secret Service and the United States Secret Service Uniformed Division.
 
-&emsp;(4) "labor organization" means an organization composed in whole or in part of employees, in which employees participate and pay dues, and which has as a purpose the dealing with an agency concerning grievances and conditions of employment, but does not include—
+&emsp;(4) "labor organization" means an organization composed in whole or in part of employees, in which employees participate and pay dues, and which has as a purpose the dealing with an agency concerning grievances andconditions of employment, but does not include—
 
 &emsp;&emsp;(A) an organization which, by its constitution, bylaws, tacit agreement among its members, or otherwise, denies membership because of race, color, creed, national origin, sex, age, preferential or nonpreferential civil service status, political affiliation, marital status, or handicapping condition;
 
@@ -176,7 +176,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Ex. Ord. No. 12171. Exclusions From Coverage of Program
 
-Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, §3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§2–6, Nov. 26, 2008, 73 F.R. 73991, 73992; Ex. Ord. No. 13741, §3, Sept. 29, 2016, 81 F.R. 68291; Ex. Ord. No. 13760, §2, Jan. 12, 2017, 82 F.R. 5325, provided:
+Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, §3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§2–6, Nov. 26, 2008, 73 F.R. 73991, 73992; Ex. Ord. No. 13741, §3, Sept. 29, 2016, 81 F.R. 68291; Ex. Ord. No. 13760, §2, Jan. 12, 2017, 82 F.R. 5325; Ex. Ord. No. 13869, §3(b), Apr. 24, 2019, 84 F.R. 18130, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
@@ -278,7 +278,7 @@ Exclusions
 
 1–206. Agencies or subdivisions of the Department of the Air Force, Department of Defense:
 
-(a) Headquarters, 24th Air Force and Air Forces Cyber, Joint Force Headquarters, Air Force Space Command, and the following elements under its operational control:
+(a) Headquarters, 24th Air Force and Air Forces Cyber, Joint Force Headquarters, Air Force Space Command \[now United States Space Force\], and the following elements under its operational control:
 
 &emsp;(1) 67th Cyberspace Wing.
 
@@ -336,7 +336,7 @@ Exclusions
 
 1–207. Defense Intelligence Agency, Department of Defense.
 
-1–208. Defense Security Service, Department of Defense.
+1–208. The Defense Counterintelligence and Security Agency, Department of Defense.
 
 1–209. Agencies or subdivisions of the Department of Justice:
 
@@ -544,7 +544,7 @@ Sec. 1–215. National Geospatial-Intelligence Agency (NGA), Department of Defen
 
 1–218. National Reconnaissance Office, Department of Defense.
 
-1–219. Office of the Under Secretary of Defense for Intelligence, Department of Defense.
+1–219. Office of the Under Secretary of Defense for Intelligence \[now Under Secretary of Defense for Intelligence and Security\], Department of Defense.
 
 1–220. Field Detachment, Defense Contract Audit Agency, Department of Defense.
 
@@ -604,7 +604,7 @@ By virtue of the authority vested in me as President by the Constitution and law
 
 Section 1. <i>Determinations</i>. The agencies or subdivisions thereof set forth in Section 3 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to these agencies or subdivisions in a manner consistent with national security requirements and considerations. These agencies or subdivisions thereof are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
 
-Sec. 2. <i>Relationship to Executive Order No. 12559</i>. The determinations set forth in Section 1 of this Order are the same determinations that I made at the time of and as a predicate to my issuance on May 20, 1986, of Executive Order No. 12559 \[amending Ex. Ord. No. 12171, set out as a note above\], which was issued for the same purpose as this Order. On July 10, 1987, Executive Order No. 12559 was held by a United States District Court to be incomplete as a matter of form, and therefore invalid, because it did not expressly set forth these determinations. <i>AFGE v. Reagan</i>, Civil No. 86–1587 (D.D.C.). These determinations were not expressly set forth in the text of Executive Order No. 12559 because all that Order did was amend Executive Order No. 12171 \[set out as a note above\] by adding the agencies or subdivisions referred to in Section 1 of this Order to the list in Executive Order No. 12171 of entities excluded from coverage of the Federal Labor-Management Relations Program,and these determinations were already expressly set forth in the text of Executive Order No. 12171, which remains in effect (as amended). This Order is not intended to reflect any belief that the form of Executive Order No. 12559 was invalid, but is intended solely to accomplish the purpose of that Order.
+Sec. 2. <i>Relationship to Executive Order No. 12559</i>. The determinations set forth in Section 1 of this Order are the same determinations that I made at the time of and as a predicate to my issuance on May 20, 1986, of Executive Order No. 12559 \[amending Ex. Ord. No. 12171, set out as a note above\], which was issued for the same purpose as this Order. On July 10, 1987, Executive Order No. 12559 was held by a United States District Court to be incomplete as a matter of form, and therefore invalid, because it did not expressly set forth these determinations. <i>AFGE v. Reagan</i>, Civil No. 86–1587 (D.D.C.). These determinations were not expressly set forth in the text of Executive Order No. 12559 because all that Order did was amend Executive Order No. 12171 \[set out as a note above\] by adding the agencies or subdivisions referred to in Section 1 of this Order to the list in Executive Order No. 12171 of entities excluded from coverage of the Federal Labor-Management Relations Program, and these determinations were already expressly set forth in the text of Executive Order No. 12171, which remains in effect (as amended). This Order is not intended to reflect any belief that the form of Executive Order No. 12559 was invalid, but is intended solely to accomplish the purpose of that Order.
 
 Sec. 3. <i>Amendment of Executive Order No. 12171</i>. Executive Order No. 12171 is amended by deleting Section 1–209 and inserting in its place:
 
@@ -724,7 +724,7 @@ Sec. 2. <i>Department of Defense</i>. Executive Order 12171 of November 19, 1979
 
 "1–206. Agencies or subdivisions of the Department of the Air Force, Department of Defense:
 
-\["\](a) Headquarters, 24th Air Force and Air Forces Cyber, Joint Force Headquarters, Air Force Space Command, and the following elements under its operational control:
+\["\](a) Headquarters, 24th Air Force and Air Forces Cyber, Joint Force Headquarters, Air Force Space Command \[now United States Space Force\], and the following elements under its operational control:
 
 &emsp;\["\](1) 67th Cyberspace Wing.
 

@@ -36,7 +36,7 @@ Without altering in any way the meaning of the following terms as used in any ot
 
 (l) The term "principal or major uses" includes, and is limited to, domestic livestock grazing, fish and wildlife development and utilization, mineral exploration and production, rights-of-way, outdoor recreation, and timber production.
 
-(m) The term "department" means a unit of the executive branch of the Federal Governmentwhich is headed by a member of the President's Cabinet and the term "agency" means a unit of the executive branch of the Federal Government which is not under the jurisdiction of a head of a department.
+(m) The term "department" means a unit of the executive branch of the Federal Government which is headed by a member of the President's Cabinet and the term "agency" means a unit of the executive branch of the Federal Government which is not under the jurisdiction of a head of a department.
 
 (n) The term "Bureau <sup>2</sup> means the Bureau of Land Management.
 

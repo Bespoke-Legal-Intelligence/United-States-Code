@@ -6,7 +6,7 @@ No funds authorized to be appropriated or otherwise made available to the Depart
 
 #### (b) Limitation on use of certain other funds
 
-No funds authorized to be appropriated or otherwise made available to the Department ofEnergy in any fiscal year after fiscal year 1997 for defense environmental cleanup may be obligated or expended for activities under the Department of Energy Laboratory Directed Research and Development Program, or under any Department of Energy technology transfer program or cooperative research and development agreement, unless such activities support the defense environmental cleanup mission of the Department of Energy.
+No funds authorized to be appropriated or otherwise made available to the Department of Energy in any fiscal year after fiscal year 1997 for defense environmental cleanup may be obligated or expended for activities under the Department of Energy Laboratory Directed Research and Development Program, or under any Department of Energy technology transfer program or cooperative research and development agreement, unless such activities support the defense environmental cleanup mission of the Department of Energy.
 
 (Pub. L. 107–314, div. D, title XLVIII, §4812, formerly Pub. L. 105–85, div. C, title XXXI, §3137, Nov. 18, 1997, 111 Stat. 2038; renumbered Pub. L. 107–314, div. D, title XLVIII, §4812, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(7)(A), Nov. 24, 2003, 117 Stat. 1784; Pub. L. 112–239, div. C, title XXXI, §3131(w), Jan. 2, 2013, 126 Stat. 2184; Pub. L. 113–66, div. C, title XXXI, §3146(i)(3), Dec. 26, 2013, 127 Stat. 1082.)
 

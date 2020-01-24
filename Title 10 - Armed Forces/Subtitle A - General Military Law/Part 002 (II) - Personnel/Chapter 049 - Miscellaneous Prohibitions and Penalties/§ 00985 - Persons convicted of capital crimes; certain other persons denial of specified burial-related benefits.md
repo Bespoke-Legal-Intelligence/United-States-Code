@@ -62,7 +62,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date
 
-Pub. L. 105–85, div. A, title X, §1077(b), Nov. 18, 1997, 111 Stat. 1915, provided that: "Section 985 of title 10,United States Code, as added by subsection (a), applies with respect to persons dying after January 1, 1997."
+Pub. L. 105–85, div. A, title X, §1077(b), Nov. 18, 1997, 111 Stat. 1915, provided that: "Section 985 of title 10, United States Code, as added by subsection (a), applies with respect to persons dying after January 1, 1997."
 
 #### Regulations
 

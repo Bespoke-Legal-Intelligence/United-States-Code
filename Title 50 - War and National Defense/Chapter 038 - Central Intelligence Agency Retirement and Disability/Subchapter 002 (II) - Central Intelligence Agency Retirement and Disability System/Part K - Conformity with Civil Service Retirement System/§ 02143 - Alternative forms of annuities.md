@@ -14,7 +14,7 @@ Any lump-sum credit provided pursuant to an election under subsection (a) shall 
 
 #### (d) Submission of regulations to congressional intelligence committees
 
-The Director shall submit the regulations prescribed under subsection (a) to the congressional intelligence committees before the regulations take effect.
+The Director shall submit the regulations prescribed under subsection (a) to the congressionalintelligence committees before the regulations take effect.
 
 (Pub. L. 88–643, title II, §294, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3242; amended Pub. L. 103–66, title XI, §11002(c), Aug. 10, 1993, 107 Stat. 409.)
 

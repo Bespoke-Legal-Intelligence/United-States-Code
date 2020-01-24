@@ -20,11 +20,11 @@
 
 (1) No grant or contract may be made under section 242b, 242k, or 242l of this title unless an application therefor has been submitted to the Secretary in such form and manner, and containing such information, as the Secretary may by regulation prescribe and unless a peer review group referred to in paragraph (2) has recommended the application for approval.
 
-(2)(A) Each application submitted for a grant or contract under section 242k of this title in an amount exceeding $50,000 of direct costs and for a health services research, evaluation, or demonstration project, or for a grant under section 242k(m) of this title, shall be submitted to a peer review group for an evaluation of the technical and scientific merits of the proposals made in each such application. The Director of the National Center for Health Statistics shall establish such peer review groups as may be necessary to provide for such an evaluation of each such application.
+(2)(A) Each application submitted for a grant or contract under section 242k of this title in an amount exceeding $50,000 of direct costs and for a health services research, evaluation, or demonstration project, or for a grant under section 242k(m) of this title, shall be submitted to a peer review group for an evaluation of the technicaland scientific merits of the proposals made in each such application. The Director of the National Center for Health Statistics shall establish such peer review groups as may be necessary to provide for such an evaluation of each such application.
 
 (B) A peer review group to which an application is submitted pursuant to subparagraph (A) shall report its finding and recommendations respecting the application to the Secretary, acting through the Director of the National Center for Health Statistics, in such form and manner as the Secretary shall by regulation prescribe. The Secretary may not approve an application described in such subparagraph unless a peer review group has recommended the application for approval.
 
-(C) The Secretary, acting through the Director of the National Center for Health Statistics, shall make appointments to the peer review groups required in subparagraph (A) from among persons who are not officers or employees of the United States and who possess appropriate technical and scientific qualifications, except thatpeer review groups regarding grants under section 242k(m) of this title may include appropriately qualified such officers and employees.
+(C) The Secretary, acting through the Director of the National Center for Health Statistics, shall make appointments to the peer review groups required in subparagraph (A) from among persons who are not officers or employees of the United States and who possess appropriate technical and scientific qualifications, except that peer review groups regarding grants under section 242k(m) of this title may include appropriately qualified such officers and employees.
 
 #### (c) Development and dissemination of statistics
 
@@ -72,7 +72,7 @@ Provisions similar to those comprising subsec. (e) of this section were containe
 
 Subsec. (a)(2). Pub. L. 103–183, §501(c)(1)(B), substituted "reports required in paragraph (1) shall be prepared through the National Center" for "reports required by subparagraphs (B) through (E) of paragraph (2) shall be prepared through the Agency for Health Care Policy and Research and the National Center".
 
-Subsec. (c). Pub. L. 103–183, §501(c)(2)(A)–(D), (3), redesignated subsec. (g)(2) as subsec. (c), substituted "shall take" for "shall (A) take" and "and shall publish" for "and (B) publish", and struck out former subsec. (c) which read as follows: "The aggregate number of grants and contracts made or entered into under sections 242b and 242c of this title for any fiscal year respecting a particular means of delivery of health services or another particular aspect of health services may not exceed twenty; and the aggregate amount of funds obligated under grants and contracts under such sections for any fiscal year respecting a particular means of delivery of health services or another particular aspect of health services may not exceed $5,000,000."
+Subsec. (c). Pub. L. 103–183, §501(c)(2)(A)–(D), (3), redesignated subsec. (g)(2) as subsec. (c), substituted"shall take" for "shall (A) take" and "and shall publish" for "and (B) publish", and struck out former subsec. (c) which read as follows: "The aggregate number of grants and contracts made or entered into under sections 242b and 242c of this title for any fiscal year respecting a particular means of delivery of health services or another particular aspect of health services may not exceed twenty; and the aggregate amount of funds obligated under grants and contracts under such sections for any fiscal year respecting a particular means of delivery of health services or another particular aspect of health services may not exceed $5,000,000."
 
 Subsec. (f). Pub. L. 103–183, §501(c)(4), substituted "section 3324 of title 31 and section 5 of title 41" for "sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)".
 
@@ -124,7 +124,7 @@ Subsec. (g)(1). Pub. L. 101–239, §6103(e)(4)(G)(i), struck out at end "Except
 
 Subsec. (g)(2). Pub. L. 101–239, §6103(e)(4)(G)(ii), substituted "sections 242b and 242k of this title" for "sections 242b, 242c, 242k, and 242n of this title".
 
-Subsec. (h)(1). Pub. L. 101–239, §6103(e)(4)(H), substituted "effectuate the purposes of section 242k of this title" for "effectuate the purposes of section 242b, 242c, 242k, or 242n of this title" and "contract under any of such sections" for "contract under section 242b, 242c, 242k, or 242n of this title".
+Subsec. (h)(1). Pub. L. 101–239, §6103(e)(4)(H), substituted "effectuate the purposes of section 242k of this title" for "effectuate the purposes of section 242b, 242c,242k, or 242n of this title" and "contract under any of such sections" for "contract under section 242b, 242c, 242k, or 242n of this title".
 
 Subsec. (i). Pub. L. 101–239, §6103(e)(4)(I), struck out subsec. (i) which authorized appropriations for carrying out certain programs under sections 242b, 242c, 242k, and 242n of this title during fiscal years 1988 to 1990.
 
@@ -132,7 +132,7 @@ Subsec. (i). Pub. L. 101–239, §6103(e)(4)(I), struck out subsec. (i) which au
 
 <b>1987</b>—Subsec. (a)(1), (2). Pub. L. 100–177, §106(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
-"(1) Not later than December 1 of each year, the Secretary shall make a report to Congress respecting (A)the administration of sections 242b, 242c, 242k, and 242l and section 242n of this title during the preceding fiscal year, and (B) the current state and progress of health services research and, health statistics, and health care technology.
+"(1) Not later than December 1 of each year, the Secretary shall make a report to Congress respecting (A) the administration of sections 242b, 242c, 242k, and 242l and section 242n of this title during the preceding fiscal year, and (B) the current state and progress of health services research and, health statistics, and health care technology.
 
 "(2) The Secretary, acting through the National Center for Health Services Research and the National Center for Health Statistics, shall assemble and submit to the President and the Congress not later than December 1 of each year the following reports:
 

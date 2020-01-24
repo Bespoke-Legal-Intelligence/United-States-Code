@@ -28,7 +28,7 @@ Historical and Revision Notes
 
 R.S. §1784.
 
-The application of the section is confined to employees, since the President and Members of Congress, though officers, could not have been intended to be "summarily discharged", and members of uniformed services are not covered by this statute. In the last sentence, the word "removed" is substituted for "summarily discharged" because of the provisions of the Lloyd-LaFollette Act, 37 Stat. 555, as amended, and the Veterans' Preference Act of 1944, 58 Stat. 387, as amended, which are carried into this title.
+The application of the section is confined to employees, since the President and Members of Congress,though officers, could not have been intended to be "summarily discharged", and members of uniformed services are not covered by this statute. In the last sentence, the word "removed" is substituted for "summarily discharged" because of the provisions of the Lloyd-LaFollette Act, 37 Stat. 555, as amended, and the Veterans' Preference Act of 1944, 58 Stat. 387, as amended, which are carried into this title.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -42,5 +42,5 @@ Subsec. (c). Pub. L. 101–280, §4(a)(2), substituted "Each supervising ethics 
 
 #### Inapplicability to Transfers of Unused Accrued Annual Leave by Federal Employees; Exception
 
-Pub. L. 100–284, Apr. 7, 1988, 102 Stat. 81, provided: "That, except as the Office of Personnel Management may by regulation prescribe, nothing in section 7351 oftitle 5, United States Code, shall apply with respect to a solicitation, donation, or acceptance of leave under any program under which, during the fiscal year ending on September 30, 1988, unused accrued annual leave of officers or employees of the Federal Government may be transferred for use by other officers or employees who need such leave due to a personal emergency."
+Pub. L. 100–284, Apr. 7, 1988, 102 Stat. 81, provided that section 7351 of this title would not apply to leave transfers under certain programs covering Federal employees during fiscal year ending on Sept. 30, 1988, except as the Office of Personnel Management may by regulation prescribe.
 

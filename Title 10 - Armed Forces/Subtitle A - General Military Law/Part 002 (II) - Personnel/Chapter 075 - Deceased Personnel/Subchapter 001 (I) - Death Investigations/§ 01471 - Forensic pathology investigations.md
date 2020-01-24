@@ -48,7 +48,7 @@ Determination of Justification.—(1) Subject to paragraph (2), the determinatio
 
 (d)
 
-Limitation in Concurrent Jurisdiction Cases.—(1) The exercise of authority under thissection is subject to the exercise of primary jurisdiction for the investigation of a death—
+Limitation in Concurrent Jurisdiction Cases.—(1) The exercise of authority under this section is subject to the exercise of primary jurisdiction for the investigation of a death—
 
 &emsp;(A) in the case of a death in a State, by the State or a local government of the State; or
 

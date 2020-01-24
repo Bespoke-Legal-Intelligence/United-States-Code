@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(H) the Export-Import Bank of the United States;
 
-&emsp;&emsp;(I) the Overseas Private Investment Corporation: <sup>1</sup>
+&emsp;&emsp;(I) the United States International Development Finance Corporation;
 
 &emsp;&emsp;(J) the Trade and Development Agency;
 
@@ -108,7 +108,7 @@
 
 #### (2) Updates
 
-&emsp;Not later than 3 years after the date of submission of the strategy under paragraph (1), and every 3 years thereafter, the Task Force shall update the strategy in accordance with the requirements of paragraph (1).
+&emsp;Not later than 3 years after the date of submission of the strategy under paragraph (1),and every 3 years thereafter, the Task Force shall update the strategy in accordance with the requirements of paragraph (1).
 
 #### (d) Report
 
@@ -142,10 +142,6 @@ There are authorized to be appropriated to carry out this section $5,000,000 for
 
 (Pub. L. 110–140, title IX, §916, Dec. 19, 2007, 121 Stat. 1728; Pub. L. 115–254, div. F, title VI, §1470(v)(2), Oct. 5, 2018, 132 Stat. 3519.)
 
-#### Amendment of Subsection (a)(2)(I)
-
-<i>Pub. L. 115–254, div. F, title VI, §1470(v)(2), (w), Oct. 5, 2018, 132 Stat. 3519, provided that, effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, subsection (a)(2)(I) of this section is amended by striking "Overseas Private Investment Corporation:" and inserting "United States International Development Finance Corporation;". See 2018 Amendment note below.</i>
-
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(2)(I). Pub. L. 115–254 substituted "United States International Development Finance Corporation;" for "Overseas Private Investment Corporation:".
@@ -157,6 +153,4 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 #### Effective Date
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
-
-<i><sup>1</sup></i><i> So in original. The colon probably should be a semicolon.</i>
 

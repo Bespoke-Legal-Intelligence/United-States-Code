@@ -48,7 +48,7 @@ In general.—No disbursement shall be made under subsection (c) to any person u
 
 &emsp;(2)
 
-Documented proof of progress requirement.—The Secretary or Administrator shall, by regulation, establish a transparent, independent, and risk-based process for verifying and documenting the progress of projects under construction before disbursing guaranteed loan funds. At a minimum, the process shall require documented proof of progress in connection with the construction, reconstruction, or reconditioning of a vessel or vessels before disbursements are made from the escrow fund. The Secretary or Administrator may require that the obligor provide a certificate from an independent party certifying that the requisite progress in construction, reconstruction, or reconditioning has taken place.
+Documented proof of progress requirement.—The Secretary or Administrator shall, by regulation, establish a transparent, independent, and risk-based process for verifying and documenting the progress of projectsunder construction before disbursing guaranteed loan funds. At a minimum, the process shall require documented proof of progress in connection with the construction, reconstruction, or reconditioning of a vessel or vessels before disbursements are made from the escrow fund. The Secretary or Administrator may require that the obligor provide a certificate from an independent party certifying that the requisite progress in construction, reconstruction, or reconditioning has taken place.
 
 (e)
 

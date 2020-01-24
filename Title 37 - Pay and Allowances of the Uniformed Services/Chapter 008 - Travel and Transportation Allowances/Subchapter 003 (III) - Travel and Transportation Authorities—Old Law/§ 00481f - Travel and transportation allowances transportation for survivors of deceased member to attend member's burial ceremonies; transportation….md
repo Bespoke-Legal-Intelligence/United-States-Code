@@ -2,7 +2,7 @@
 
 (a)
 
-Allowances Authorized.—(1) The Secretary concerned may provide round trip traveland transportation allowances to eligible relatives of a member of the uniformed services who dies while on active duty or inactive duty in order that the eligible relatives may attend the burial ceremony of the deceased member at the location determined under subsection (a)(8) of section 1482 of title 10 or attend a memorial service for the deceased member, under circumstances covered by subsection (d) of such section.
+Allowances Authorized.—(1) The Secretary concerned may provide round trip travel and transportation allowances to eligible relatives of a member of the uniformed services who dies while on active duty or inactive duty in order that the eligible relatives may attend the burial ceremony of the deceased member at the location determined under subsection (a)(8) of section 1482 of title 10 or attend a memorial service for the deceased member, under circumstances covered by subsection (d) of such section.
 
 (2) The Secretary concerned may provide round trip travel and transportation allowances to eligible relatives of a member of the uniformed services who dies while on active duty in order that the eligible relatives may attend a memorial service for the deceased member that occurs at a location other than the location of the burial ceremony for which travel and transportation allowances are provided under paragraph (1). Travel and transportation allowances may be provided under this paragraph for travel of eligible relatives to only one memorial service for the deceased member concerned.
 
@@ -70,7 +70,7 @@ Regulations.—The Secretaries concerned shall prescribe uniform regulations to 
 
 Termination.—No travel and transportation allowance or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Added Pub. L. 99–145, title VI, §620(a)(1), Nov. 8, 1985, 99 Stat. 642, §411f; amended Pub. L. 100–456,div. A, title VI, §632(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 103–35, title II, §204(a)(2), May 31, 1993, 107 Stat. 102; Pub. L. 107–107, div. A, title VI, §638(a), Dec. 28, 2001, 115 Stat. 1146; Pub. L. 108–375, div. A, title VI, §631, Oct. 28, 2004, 118 Stat. 1956; Pub. L. 110–181, div. A, title VI, §632, Jan. 28, 2008, 122 Stat. 154; Pub. L. 111–84, div. A, title V, §542(b)(1), (2)(A), title VI, §631, Oct. 28, 2009, 123 Stat. 2299, 2300, 2359; renumbered §481f and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(20), Dec. 31, 2011, 125 Stat. 1460, 1463; Pub. L. 114–92, div. A, title VI, §§621, 622(a), Nov. 25, 2015, 129 Stat. 841.)
+(Added Pub. L. 99–145, title VI, §620(a)(1), Nov. 8, 1985, 99 Stat. 642, §411f; amended Pub. L. 100–456, div. A, title VI, §632(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 103–35, title II, §204(a)(2), May 31, 1993, 107 Stat. 102; Pub. L. 107–107, div. A, title VI, §638(a), Dec. 28, 2001, 115 Stat. 1146; Pub. L. 108–375, div. A, title VI, §631, Oct. 28, 2004, 118 Stat. 1956; Pub. L. 110–181, div. A, title VI, §632, Jan. 28, 2008, 122 Stat. 154; Pub. L. 111–84, div. A, title V, §542(b)(1), (2)(A), title VI, §631, Oct. 28, 2009, 123 Stat. 2299, 2300, 2359; renumbered §481fand amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(20), Dec. 31, 2011, 125 Stat. 1460, 1463; Pub. L. 114–92, div. A, title VI, §§621, 622(a), Nov. 25, 2015, 129 Stat. 841.)
 
 #### Amendments
 

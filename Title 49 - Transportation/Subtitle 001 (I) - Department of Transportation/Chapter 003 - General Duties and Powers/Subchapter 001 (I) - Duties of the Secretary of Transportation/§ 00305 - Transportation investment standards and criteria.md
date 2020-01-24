@@ -6,7 +6,7 @@
 
 &emsp;(2) an inter-oceanic canal located outside the 48 contiguous States;
 
-&emsp;(3) defense features included at the direction of the Department of Defense in designing andconstructing civil air, sea, or land transportation;
+&emsp;(3) defense features included at the direction of the Department of Defense in designing and constructing civil air, sea, or land transportation;
 
 &emsp;(4) foreign assistance programs;
 

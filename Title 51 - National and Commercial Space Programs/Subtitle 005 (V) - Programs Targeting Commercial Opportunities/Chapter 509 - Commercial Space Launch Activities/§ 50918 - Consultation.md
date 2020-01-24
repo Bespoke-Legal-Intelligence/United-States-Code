@@ -2,7 +2,7 @@
 
 (a)
 
-Matters Affecting National Security.—The Secretary of Transportation shall consult with the Secretary of Defense on a matter under this chapter affecting national security. The Secretary of Defense shall identify and notify the Secretary of Transportation of a nationalsecurity interest relevant to an activity under this chapter.
+Matters Affecting National Security.—The Secretary of Transportation shall consult with the Secretary of Defense on a matter under this chapter affecting national security. The Secretary of Defense shall identify and notify the Secretary of Transportation of a national security interest relevant to an activity under this chapter.
 
 (b)
 
@@ -18,7 +18,7 @@ Other Matters.—In carrying out this chapter, the Secretary of Transportation s
 
 &emsp;(3) when appropriate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1341, §70116 of title 49; renumbered §70116 then §50918 of title 51, Pub. L. 111–314, §4(d)(2), (3)(R), Dec. 18, 2010, 124 Stat. 3440, 3441.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1341, §70116 of title 49; renumbered §70116 then §50918of title 51, Pub. L. 111–314, §4(d)(2), (3)(R), Dec. 18, 2010, 124 Stat. 3440, 3441.)
 
 Historical and Revision Notes
 
@@ -126,7 +126,7 @@ Reports.—Not later than 180 days after the date of enactment of this Act \[Nov
 
 &emsp;&emsp;&emsp;"(i) streamline requirements in order to improve efficiency, reduce unnecessary costs, resolve inconsistencies, remove duplication, and minimize unwarranted constraints; and
 
-&emsp;&emsp;&emsp;"(ii) consolidate or modify requirements across affected agencies into a single application setthat satisfies the requirements identified in paragraph (1)(A).
+&emsp;&emsp;&emsp;"(ii) consolidate or modify requirements across affected agencies into a single application set that satisfies the requirements identified in paragraph (1)(A).
 
 &emsp;"(4)
 
@@ -146,7 +146,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;"(C) the terms 'launch', 'reenter', and 'reentry' include landing of a launch vehicle or reentry vehicle; and
 
-&emsp;&emsp;"(D) the terms 'United States Government launch site' and 'United States Government reentry site' include any necessary facility, at that location, that is commercially operated on United States Government property.
+&emsp;&emsp;"(D) the terms 'United States Government launch site' and 'United States Government reentry site'include any necessary facility, at that location, that is commercially operated on United States Government property.
 
 "(d)
 

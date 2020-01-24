@@ -64,7 +64,7 @@ In this subchapter:
 
 #### (10) Pollutant or contaminant
 
-&emsp;The term "pollutant or contaminant" has the meaning given the term in section 101 ofthe Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
+&emsp;The term "pollutant or contaminant" has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
 
 #### (11) Recreation Area
 

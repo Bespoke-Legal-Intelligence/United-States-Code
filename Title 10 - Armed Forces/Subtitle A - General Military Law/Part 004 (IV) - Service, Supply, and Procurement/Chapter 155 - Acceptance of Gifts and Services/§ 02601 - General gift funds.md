@@ -92,7 +92,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "services" includes activities that benefit the education, morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequest of real property or personal property under subsection (a) or (b).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, §374, Jan. 6, 2006, 119 Stat. 3211; Pub. L. 110–181, div. A, title V, §593(a), Jan. 28, 2008, 122 Stat. 138; Pub. L. 112–239, div. A, title V, §587(a), div. B, title XXVIII, §2852(a), Jan. 2, 2013, 126 Stat. 1768, 2160; Pub. L. 114–92, div. B, title XXVIII, §2812, Nov. 25, 2015, 129 Stat. 1174.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat.2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, §374, Jan. 6, 2006, 119 Stat. 3211; Pub. L. 110–181, div. A, title V, §593(a), Jan. 28, 2008, 122 Stat. 138; Pub. L. 112–239, div. A, title V, §587(a), div. B, title XXVIII, §2852(a), Jan. 2, 2013, 126 Stat. 1768, 2160; Pub. L. 114–92, div. B, title XXVIII, §2812, Nov. 25, 2015, 129 Stat. 1174.)
 
 Historical and Revision Notes
 

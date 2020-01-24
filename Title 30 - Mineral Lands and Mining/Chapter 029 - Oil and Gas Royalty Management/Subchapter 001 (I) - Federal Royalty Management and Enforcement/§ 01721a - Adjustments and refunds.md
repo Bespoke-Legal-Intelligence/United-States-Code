@@ -2,7 +2,7 @@
 
 #### (a) Adjustments to royalties paid to Secretary or a delegated State
 
-(1) If, during the adjustment period, a lessee or its designee determines that an adjustment orrefund request is necessary to correct an underpayment or overpayment of an obligation, the lessee or its designee shall make such adjustment or request a refund within a reasonable period of time and only during the adjustment period. The filing of a royalty report which reflects the underpayment or overpayment of an obligation shall constitute prior written notice to the Secretary or the applicable delegated State of an adjustment.
+(1) If, during the adjustment period, a lessee or its designee determines that an adjustment or refund request is necessary to correct an underpayment or overpayment of an obligation, the lessee or its designee shall make such adjustment or request a refund within a reasonable period of time and only during the adjustment period. The filing of a royalty report which reflects the underpayment or overpayment of an obligation shall constitute prior written notice to the Secretary or the applicable delegated State of an adjustment.
 
 (2)(A) For any adjustment, the lessee or its designee shall calculate and report the interest due attributable to such adjustment at the same time the lessee or its designee adjusts the principle <sup>1</sup> amount of the subject obligation, except as provided by subparagraph (B).
 
@@ -28,7 +28,7 @@
 
 #### (2) Payment by Secretary of the Treasury
 
-&emsp;The Secretary shall certify the amount of the refund to be paid under paragraph (1) to the Secretary of the Treasury who shall make such refund. Such refund shall be paid from amounts received as current receipts from sales, bonuses, royalties (including interest charges collected under this section) and rentals of the public lands and the Outer Continental Shelf under the provisions of the Mineral Leasing Act \[30 U.S.C. 181 et seq.\] and the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], which are not payable to a State or the Reclamation Fund. The portion of any such refund attributable to any amounts previously disbursed to a State, the Reclamation Fund, or any recipient prescribed by law shall be deducted from the next disbursements to that recipient made under the applicable law. Such amounts deducted from subsequent disbursements shall be credited to miscellaneous receipts in the Treasury.
+&emsp;The Secretary shall certify the amount of the refund to be paid under paragraph (1) to the Secretary of the Treasury who shall make such refund. Such refund shall be paid from amounts received as current receipts from sales, bonuses, royalties (including interest charges collected under this section) and rentals of the public lands and the Outer Continental Shelf under the provisions of the MineralLeasing Act \[30 U.S.C. 181 et seq.\] and the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], which are not payable to a State or the Reclamation Fund. The portion of any such refund attributable to any amounts previously disbursed to a State, the Reclamation Fund, or any recipient prescribed by law shall be deducted from the next disbursements to that recipient made under the applicable law. Such amounts deducted from subsequent disbursements shall be credited to miscellaneous receipts in the Treasury.
 
 #### (3) Payment period
 

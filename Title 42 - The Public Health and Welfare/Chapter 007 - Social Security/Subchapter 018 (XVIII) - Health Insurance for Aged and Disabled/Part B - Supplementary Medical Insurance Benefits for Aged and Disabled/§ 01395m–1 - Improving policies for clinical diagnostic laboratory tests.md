@@ -4,11 +4,23 @@
 
 #### (1) In general
 
-&emsp;Beginning January 1, 2016, and every 3 years thereafter (or, annually, in the case of reporting with respect to an advanced diagnostic laboratory test, as defined in subsection (d)(5)), an applicable laboratory (as defined in paragraph (2)) shall report to the Secretary, at a time specified by the Secretary, applicable information (as defined in paragraph (3)) for a data collection period (as defined in paragraph (4)) for each clinical diagnostic laboratory test that the laboratory furnishes during such period for which payment is made under this part.
+#### (A) General reporting requirements
+
+&emsp;&emsp;Subject to subparagraph (B), beginning January 1, 2016, and every 3 years thereafter (or, annually, in the case of reporting with respect to an advanced diagnostic laboratory test, as defined in subsection (d)(5)), an applicable laboratory (as defined in paragraph (2)) shall report to the Secretary, at a time specified by the Secretary (referred to in this subsection as the "reporting period"), applicable information (as defined in paragraph (3)) for a data collection period (as defined in paragraph (4)) for each clinical diagnostic laboratory test that the laboratory furnishes during such period for which payment is made under this part.
+
+#### (B) Revised reporting period
+
+&emsp;&emsp;In the case of reporting with respect to clinical diagnostic laboratory tests that are not advanced diagnostic laboratory tests, the Secretary shall revise the reporting period under subparagraph (A) such that—
+
+&emsp;&emsp;&emsp;(i) no reporting is required during the period beginning January 1, 2020, and ending December 31, 2020;
+
+&emsp;&emsp;&emsp;(ii) reporting is required during the period beginning January 1, 2021, and ending March 31, 2021; and
+
+&emsp;&emsp;&emsp;(iii) reporting is required every three years after the period described in clause (ii).
 
 #### (2) Definition of applicable laboratory
 
-&emsp;In this section, the term "applicable laboratory" means a laboratory that, with respect to its revenues under this subchapter, a majority of such revenues are from this section, section1395l(h) of this title, or section 1395w–4 of this title. The Secretary may establish a low volume or low expenditure threshold for excluding a laboratory from the definition of applicable laboratory under this paragraph, as the Secretary determines appropriate.
+&emsp;In this section, the term "applicable laboratory" means a laboratory that, with respect to its revenues under this subchapter, a majority of such revenues are from this section, section 1395l(h) of this title, or section 1395w–4 of this title. The Secretary may establish a low volume or low expenditure threshold for excluding a laboratory from the definition of applicable laboratory under this paragraph, as the Secretary determines appropriate.
 
 #### (3) Applicable information defined
 
@@ -26,7 +38,13 @@
 
 #### (4) Data collection period defined
 
-&emsp;In this section, the term "data collection period" means a period of time, such as a previous 12 month period, specified by the Secretary.
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), in this section, the term "data collection period" means a period of time, such as a previous 12 month period, specified by the Secretary.
+
+#### (B) Exception
+
+&emsp;&emsp;In the case of the reporting period described in paragraph (1)(B)(ii) with respect to clinical diagnostic laboratory tests that are not advanced diagnostic laboratory tests, the term "data collection period" means the period beginning January 1, 2019, and ending June 30, 2019.
 
 #### (5) Treatment of discounts
 
@@ -62,7 +80,7 @@
 
 #### (10) Confidentiality of information
 
-&emsp;Notwithstanding any other provision of law, information disclosed by a laboratory under this subsection is confidential and shall not be disclosed by the Secretary or a Medicare contractor in a form that discloses the identity of a specific payor or laboratory, or prices charged or payments made to any such laboratory, except—
+&emsp;Notwithstanding any other provision of law, information disclosed by a laboratory underthis subsection is confidential and shall not be disclosed by the Secretary or a Medicare contractor in a form that discloses the identity of a specific payor or laboratory, or prices charged or payments made to any such laboratory, except—
 
 &emsp;&emsp;(A) as the Secretary determines to be necessary to carry out this section;
 
@@ -100,15 +118,15 @@
 
 #### (A) In general
 
-&emsp;&emsp;Payment amounts determined under this subsection for a clinical diagnostic laboratory test for each of 2017 through 2022 shall not result in a reduction in payments for a clinical diagnostic laboratory test for the year of greater than the applicable percent (as defined in subparagraph (B)) of the amount of payment for the test for the preceding year.
+&emsp;&emsp;Payment amounts determined under this subsection for a clinical diagnostic laboratory test for each of 2017 through 2023 shall not result in a reduction in payments for a clinical diagnostic laboratory test for the year of greater than the applicable percent (as defined in subparagraph (B)) of the amount of payment for the test for the preceding year.
 
 #### (B) Applicable percent defined
 
 &emsp;&emsp;In this paragraph, the term "applicable percent" means—
 
-&emsp;&emsp;&emsp;(i) for each of 2017 through 2019, 10 percent; and
+&emsp;&emsp;&emsp;(i) for each of 2017 through 2020, 10 percent; and
 
-&emsp;&emsp;&emsp;(ii) for each of 2020 through 2022, 15 percent.
+&emsp;&emsp;&emsp;(ii) for each of 2021 through 2023, 15 percent.
 
 #### (C) No application to new tests
 
@@ -226,7 +244,7 @@
 
 #### (3) Establishment of unique identifier for certain tests
 
-&emsp;For purposes of tracking and monitoring, if a laboratory or a manufacturer requests a unique identifier for an advanced diagnostic laboratory test (as so defined) or a laboratory test that is cleared or approved by the Food and Drug Administration, the Secretary shall utilize a means to uniquely track such test through a mechanism such as a HCPCS code or modifier.
+&emsp;For purposes of tracking and monitoring, if a laboratory or a manufacturer requests a unique identifier for an advanced diagnostic laboratory test (as so defined) or a laboratorytest that is cleared or approved by the Food and Drug Administration, the Secretary shall utilize a means to uniquely track such test through a mechanism such as a HCPCS code or modifier.
 
 #### (f) Input from clinicians and technical experts
 
@@ -256,7 +274,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A medicare administrative contractor shall only issue a coverage policy with respect to a clinical diagnostic laboratory test in accordance with the process for making a local coverage determination (as defined insection 1395ff(f)(2)(B) of this title), including the appeals and review process for local coverage determinations under part 426 of title 42, Code of Federal Regulations (or successor regulations).
+&emsp;&emsp;A medicare administrative contractor shall only issue a coverage policy with respect to a clinical diagnostic laboratory test in accordance with the process for making a local coverage determination (as defined in section 1395ff(f)(2)(B) of this title), including the appeals and review process for local coverage determinations under part 426 of title 42, Code of Federal Regulations (or successor regulations).
 
 #### (B) No effect on national coverage determination process
 
@@ -288,11 +306,23 @@
 
 During the period beginning on April 1, 2014, and ending on December 31, 2016, with respect to advanced diagnostic laboratory tests under this part, the Secretary shall use the methodologies for pricing, coding, and coverage in effect on the day before April 1, 2014, which may include cross-walking or gapfilling methods.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1834A, as added Pub. L. 113–93, title II, §216(a), Apr. 1, 2014, 128 Stat. 1053.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1834A, as added Pub. L. 113–93, title II, §216(a), Apr. 1, 2014, 128 Stat. 1053; amended Pub. L. 116–94, div. N, title I, §105(a), Dec. 20, 2019, 133 Stat. 3100.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (a)(1). Pub. L. 116–94, §105(a)(1)(A), designated existing provisions as subpar. (A) and inserted heading, substituted "Subject to subparagraph (B), beginning January 1, 2016" for "Beginning January 1, 2016", inserted "(referred to in this subsection as the 'reporting period')" after "at a time specified by the Secretary", and added subpar. (B).
+
+Subsec. (a)(4). Pub. L. 116–94, §105(a)(1)(B), designated existing provisions as subpar. (A) and inserted heading, substituted "Subject to subparagraph (B), in this section" for "In this section", and added subpar. (B).
+
+Subsec. (b)(3)(A). Pub. L. 116–94, §105(a)(2)(A), substituted "through 2023" for "through 2022".
+
+Subsec. (b)(3)(B)(i). Pub. L. 116–94, §105(a)(2)(B)(i), substituted "through 2020" for "through 2019".
+
+Subsec. (b)(3)(B)(ii). Pub. L. 116–94, §105(a)(2)(B)(ii), substituted "2021 through 2023" for "2020 through 2022".
 
 #### Monitoring of Medicare Expenditures and Implementation of New Payment System for Laboratory Tests
 

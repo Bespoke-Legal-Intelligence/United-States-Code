@@ -42,7 +42,7 @@ For purposes of subsection (a), the term "related person" also includes—
 
 For purposes of this section, a patent application shall be treated as property which, in the hands of the transferee, is of a character which is subject to the allowance for depreciation provided in section 167.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 332; Pub. L. 85–866, title I, §56, Sept. 2, 1958, 72 Stat. 1645; Pub. L. 94–455, title XXI, §2129(a), Oct. 4, 1976, 90 Stat. 1922; Pub. L. 95–600, title VII, §701(v)(1),Nov. 6, 1978, 92 Stat. 2920; Pub. L. 96–471, §5, Oct. 19, 1980, 94 Stat. 2255; Pub. L. 97–448, title III, §301, Jan. 12, 1983, 96 Stat. 2397; Pub. L. 98–369, div. A, title I, §175(a), (b), title IV, §421(b)(6)(A), title V, §557(a), July 18, 1984, 98 Stat. 708, 794, 898; Pub. L. 99–514, title VI, §642(a)(1)(A)–(C), Oct. 22, 1986, 100 Stat. 2283, 2284; Pub. L. 105–34, title XIII, §1308(b), Aug. 5, 1997, 111 Stat. 1041.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 332; Pub. L. 85–866, title I, §56, Sept. 2, 1958, 72 Stat. 1645; Pub. L. 94–455, title XXI, §2129(a), Oct. 4, 1976, 90 Stat. 1922; Pub. L. 95–600, title VII, §701(v)(1), Nov. 6, 1978, 92 Stat. 2920; Pub. L. 96–471, §5, Oct. 19, 1980, 94 Stat. 2255; Pub. L. 97–448, title III, §301, Jan. 12, 1983, 96 Stat. 2397; Pub. L. 98–369, div. A, title I, §175(a), (b), title IV, §421(b)(6)(A), title V, §557(a), July 18, 1984, 98 Stat. 708, 794, 898; Pub. L. 99–514, title VI, §642(a)(1)(A)–(C), Oct. 22, 1986, 100 Stat. 2283, 2284; Pub. L. 105–34, title XIII, §1308(b), Aug. 5, 1997, 111 Stat. 1041.)
 
 #### Amendments
 
@@ -102,7 +102,7 @@ Pub. L. 99–514, title VI, §642(c), Oct. 22, 1986, 100 Stat. 2284, as amended 
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 453 and 707 of this title\] shall apply to sales after the date of the enactment of this Act \[Oct. 22, 1986\], in taxable years ending after such date.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 453 and 707 of this title\] shall apply to sales after the date of the enactment of this Act \[Oct. 22, 1986\], in taxable years ending after such date.
 
 "(2)
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 97–448 applicable to dispositions made after Oct. 19, 198
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §701(v)(2), Nov. 6, 1978, 92 Stat. 2920, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendmentmade by paragraph (1) \[amending this section\] shall apply as if included in the amendment made to section 1239 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by section 2129(a) of the Tax Reform Act of 1976 \[section 2129(a) of Pub. L. 94–455\]."
+Pub. L. 95–600, title VII, §701(v)(2), Nov. 6, 1978, 92 Stat. 2920, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply as if included in the amendment made to section 1239 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by section 2129(a) of the Tax Reform Act of 1976 \[section 2129(a) of Pub. L. 94–455\]."
 
 #### Effective Date of 1976 Amendment
 

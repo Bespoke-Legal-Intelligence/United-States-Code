@@ -36,7 +36,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(iv) an action for breach of contract or warranty in connection with the purchase of the product;
 
-&emsp;&emsp;&emsp;(v) an action for death, physical injuries or property damage resulting directly from a defect in design or manufacture of the product, when used as intended or in a reasonably foreseeable manner, except that where the discharge of the productwas caused by a volitional act that constituted a criminal offense, then such act shall be considered the sole proximate cause of any resulting death, personal injuries or property damage; or
+&emsp;&emsp;&emsp;(v) an action for death, physical injuries or property damage resulting directly from a defect in design or manufacture of the product, when used as intended or in a reasonably foreseeable manner, except that where the discharge of the product was caused by a volitional act that constituted a criminal offense, then such act shall be considered the sole proximate cause of any resulting death, personal injuries or property damage; or
 
 &emsp;&emsp;&emsp;(vi) an action or proceeding commenced by the Attorney General to enforce the provisions of chapter 44 of title 18 or chapter 53 of title 26.
 
@@ -56,7 +56,7 @@ In this chapter:
 
 &emsp;The term "seller" means, with respect to a qualified product—
 
-&emsp;&emsp;(A) an importer (as defined in section 921(a)(9) of title 18) who is engaged in the business as such an importer in interstate or foreign commerce and who is licensed to engage in business as such an importer under chapter 44 of title 18;
+&emsp;&emsp;(A) an importer (as defined in section 921(a)(9) of title 18) who is engaged in thebusiness as such an importer in interstate or foreign commerce and who is licensed to engage in business as such an importer under chapter 44 of title 18;
 
 &emsp;&emsp;(B) a dealer (as defined in section 921(a)(11) of title 18) who is engaged in the business as such a dealer in interstate or foreign commerce and who is licensed to engage in business as such a dealer under chapter 44 of title 18; or
 

@@ -12,7 +12,7 @@ Except as otherwise provided in this chapter, the average weekly wage of the inj
 
 (2) Notwithstanding paragraph (1), with respect to any claim based on a death or disability due to an occupational disease for which the time of injury (as determined under subsection (i)) occurs—
 
-&emsp;(A) within the first year after the employee has retired, the average weekly wages shall be one fifty-second part of his average annual earnings during the 52-week period preceding retirement; or
+&emsp;(A) within the first year after the employee has retired, the average weekly wages shall beone fifty-second part of his average annual earnings during the 52-week period preceding retirement; or
 
 &emsp;(B) more than one year after the employee has retired, the average weekly wage shall be deemed to be the national average weekly wage (as determined by the Secretary pursuant to section 906(b) of this title) applicable at the time of the injury.
 

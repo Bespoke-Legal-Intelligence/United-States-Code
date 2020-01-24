@@ -18,7 +18,7 @@ A prior section 2305 was renumbered section 2306 of this title.
 
 &emsp;"(1) significant actions taken by the Board to carry out its functions under this title; and
 
-&emsp;"(2) significant actions of the Office of Personnel Management, including an analysis of whether or not the actions of the Office are in accord with merit system principles and free from prohibited personnel practices."
+&emsp;"(2) significant actions of the Office of Personnel Management, including an analysis of whether or notthe actions of the Office are in accord with merit system principles and free from prohibited personnel practices."
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted "The" for "the" at beginning of first sentence.
 

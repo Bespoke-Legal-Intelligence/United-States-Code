@@ -6,7 +6,7 @@ It is the purpose of this chapter to fulfill the intent of the framers of the Co
 
 #### (b) Congressional legislative power under necessary and proper clause
 
-Under article I, section 8, of the Constitution, it is specifically provided that the Congress shall have the power to make all laws necessary and proper for carrying into execution, not only its own powers but also all other powers vested by the Constitution in the Government of the United States, or in any department or officer thereof.
+Under article I, section 8, of the Constitution, it is specifically provided that the Congressshall have the power to make all laws necessary and proper for carrying into execution, not only its own powers but also all other powers vested by the Constitution in the Government of the United States, or in any department or officer thereof.
 
 #### (c) Presidential executive power as Commander-in-Chief; limitation
 
@@ -21,6 +21,10 @@ Pub. L. 93–148, §10, Nov. 7, 1973, 87 Stat. 559, provided that: "This joint r
 #### Short Title
 
 Pub. L. 93–148, §1, Nov. 7, 1973, 87 Stat. 555, provided that: "This joint resolution \[enacting this chapter\] may be cited as the 'War Powers Resolution'."
+
+#### Rule of Construction on the Permanent Stationing of United States Armed Forces in Somalia
+
+Pub. L. 116–92, div. A, title XII, §1271, Dec. 20, 2019, 133 Stat. 1698, provided that: "Nothing in this Act \[see Tables for classification\] may be construed to authorize the permanent stationing of members of the Armed Forces in Somalia."
 
 #### Report on Responsible Redeployment of United States Armed Forces From Iraq
 
@@ -60,7 +64,7 @@ Elements.—The report required under subsection (a) shall include the following
 
 "(c)
 
-Secretary of State Comments.—Prior to submitting the report required under subsection (a), the Secretary of Defense shall provide a copy of the report to the Secretary of State for review. At the request of the Secretary of State, the Secretary of Defense shall include an appendix to the report which contains any comments or additional information that the Secretary of State requests.
+Secretary of State Comments.—Prior to submitting the report required under subsection (a), the Secretary of Defense shall provide a copy of the reportto the Secretary of State for review. At the request of the Secretary of State, the Secretary of Defense shall include an appendix to the report which contains any comments or additional information that the Secretary of State requests.
 
 "(d)
 
@@ -116,7 +120,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 "Whereas in the Authorization for Use of Military Force Against Iraq Resolution (Public Law 102–1) \[set out as a note below\], Congress has authorized the President 'to use United States Armed Forces pursuant to United Nations Security Council Resolution 678 (1990) in order to achieve implementation of Security Council Resolution 660, 661, 662, 664, 665, 666, 667, 669, 670, 674, and 677';
 
-"Whereas in December 1991, Congress expressed its sense that it 'supports the use of all necessary means to achieve the goals of United Nations Security Council Resolution 687 as being consistent with the Authorization of Use of Military Force Against Iraq Resolution (Public Law 102–1),' that Iraq's repression of its civilian population violates United Nations Security Council Resolution 688 and 'constitutes a continuing threat to the peace, security, and stability of the Persian Gulf region,' and that Congress, 'supports the use of all necessary means to achieve the goals of United Nations Security Council Resolution 688';
+"Whereas in December 1991, Congress expressed its sense that it 'supports the use of all necessary means to achieve the goals of United Nations Security Council Resolution 687 as being consistent with the Authorization of Use of Military Force Against Iraq Resolution (Public Law 102–1),' that Iraq's repression of its civilian population violates United Nations Security Council Resolution 688 and 'constitutes a continuing threat to the peace, security, and stability ofthe Persian Gulf region,' and that Congress, 'supports the use of all necessary means to achieve the goals of United Nations Security Council Resolution 688';
 
 "Whereas the Iraq Liberation Act of 1998 (Public Law 105–338) \[former 22 U.S.C. 2151 note\] expressed the sense of Congress that it should be the policy of the United States to support efforts to remove from power the current Iraqi regime and promote the emergence of a democratic government to replace that regime;
 
@@ -124,7 +128,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 "Whereas the United States is determined to prosecute the war on terrorism and Iraq's ongoing support for international terrorist groups combined with its development of weapons of mass destruction in direct violation of its obligations under the 1991 cease-fire and other United Nations Security Council resolutions make clear that it is in the national security interests of the United States and in furtherance of the war on terrorism that all relevant United Nations Security Council resolutions be enforced, including through the use of force if necessary;
 
-"Whereas Congress has taken steps to pursue vigorously the war on terrorism through the provision of authorities and funding requested by the President to take the necessary actions against international terrorists and terrorist organizations, including those nations, organizations, or persons who planned, authorized, committed, or aided the terrorist attacksthat occurred on September 11, 2001, or harbored such persons or organizations;
+"Whereas Congress has taken steps to pursue vigorously the war on terrorism through the provision of authorities and funding requested by the President to take the necessary actions against international terrorists and terrorist organizations, including those nations, organizations, or persons who planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such persons or organizations;
 
 "Whereas the President and Congress are determined to continue to take all appropriate actions against international terrorists and terrorist organizations, including those nations, organizations, or persons who planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such persons or organizations;
 
@@ -394,7 +398,7 @@ Pub. L. 102–1, Jan. 14, 1991, 105 Stat. 3, as amended by Pub. L. 106–113, di
 
 "Whereas the Government of Iraq without provocation invaded and occupied the territory of Kuwait on August 2, 1990;
 
-"Whereas both the House of Representatives (in H.J. Res. 658 of the 101st Congress) and the Senate (in S.Con. Res. 147 of the 101st Congress) have condemned Iraq's invasion of Kuwait and declared their support for international action to reverse Iraq's aggression;
+"Whereas both the House of Representatives (in H.J. Res. 658 of the 101st Congress) and the Senate (in S. Con. Res. 147 of the 101st Congress) have condemned Iraq's invasion of Kuwait and declared their support for international action to reverse Iraq's aggression;
 
 "Whereas, Iraq's conventional, chemical, biological, and nuclear weapons and ballistic missile programs and its demonstrated willingness to use weapons of mass destruction pose a grave threat to world peace;
 
@@ -570,7 +574,7 @@ Sec. 8. (a) Any joint resolution or bill introduced to amend or repeal this Act 
 
 "(c) Such a joint resolution or bill passed by one House shall be referred to the committee of the other House named in subsection (a) and shall be reported out by such committee together with its recommendations within fifteen calendar days and shall thereupon become the pending business of such House and shall be voted upon within three calendar days, unless such House shall otherwise determine by the yeas and nays.
 
-"(d) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution or bill passed by both Houses, conferees shall be promptly appointed and the committee of conference shall makeand file a report with respect to such joint resolution within six calendar days after the legislation is referred to the committee of conference. Notwithstanding any rule in either House concerning the printing of conference reports in the Record or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed. In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement."
+"(d) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution or bill passed by both Houses, conferees shall be promptly appointed and the committee of conference shall make and file a report with respect to such joint resolution within six calendar days after the legislation is referred to the committee of conference. Notwithstanding any rule in either House concerning the printing of conference reports in the Record or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed. In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement."
 
 #### Adherence to War Powers Resolution
 

@@ -172,7 +172,7 @@ Subsec. (c). Pub. L. 112–141, §32304(a), added subsec. (c).
 
 <b>2001</b>—Subsec. (a)(5)(C). Pub. L. 107–56 added subpar. (C).
 
-<b>1999</b>—Subsec. (b)(1). Pub. L. 106–159 struck out "to operate the vehicle" after "written and driving tests" andinserted "to operate the vehicle and has a commercial driver's license to operate the vehicle" before period at end.
+<b>1999</b>—Subsec. (b)(1). Pub. L. 106–159 struck out "to operate the vehicle" after "written and driving tests" and inserted "to operate the vehicle and has a commercial driver's license to operate the vehicle" before period at end.
 
 #### Effective Date of 2015 Amendment
 
@@ -196,7 +196,7 @@ Pub. L. 114–94, div. A, title V, §5506, Dec. 4, 2015, 129 Stat. 1553, provide
 
 &emsp;&emsp;"(D) the number of testing sites available through the State department of motor vehicles and whether this number has increased or decreased from the previous year; and
 
-&emsp;"(2) describes specific steps that the Administrator is taking to address skills testing delays in States that have average skills test or retest wait times of more than 7 days from the date an applicant requests to test or retest to the date the applicant has the opportunity to complete such test or retest."
+&emsp;"(2) describes specific steps that the Administrator is taking to address skills testing delays in States that have average skills test or retest wait times ofmore than 7 days from the date an applicant requests to test or retest to the date the applicant has the opportunity to complete such test or retest."
 
 #### Hazardous Materials Endorsement Exemption
 

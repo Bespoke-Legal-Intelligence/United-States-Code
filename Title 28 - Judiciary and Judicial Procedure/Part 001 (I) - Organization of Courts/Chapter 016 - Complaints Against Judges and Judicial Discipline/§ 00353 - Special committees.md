@@ -12,11 +12,11 @@ Appointment.—If the chief judge does not enter an order under section 352(b), 
 
 (b)
 
-Change in Status or Death of Judges.—A judge appointed to a special committee under subsection (a) may continue to serve on that committee after becoming a senior judge or, in the case of the chief judge of the circuit, after his or her term as chief judge terminates under subsection (a)(3) or (c) of section 45. If a judge appointed to a committee under subsection (a) dies, or retires from office under section 371(a), while serving on the committee, the chief judge of the circuit may appoint another circuit or district judge, as the case may be, to the committee.
+Change in Status or Death of Judges.—A judge appointed to a special committee undersubsection (a) may continue to serve on that committee after becoming a senior judge or, in the case of the chief judge of the circuit, after his or her term as chief judge terminates under subsection (a)(3) or (c) of section 45. If a judge appointed to a committee under subsection (a) dies, or retires from office under section 371(a), while serving on the committee, the chief judge of the circuit may appoint another circuit or district judge, as the case may be, to the committee.
 
 (c)
 
-Investigation by Special Committee.—Each committee appointed under subsection (a)shall conduct an investigation as extensive as it considers necessary, and shall expeditiously file a comprehensive written report thereon with the judicial council of the circuit. Such report shall present both the findings of the investigation and the committee's recommendations for necessary and appropriate action by the judicial council of the circuit.
+Investigation by Special Committee.—Each committee appointed under subsection (a) shall conduct an investigation as extensive as it considers necessary, and shall expeditiously file a comprehensive written report thereon with the judicial council of the circuit. Such report shall present both the findings of the investigation and the committee's recommendations for necessary and appropriate action by the judicial council of the circuit.
 
 (Added Pub. L. 107–273, div. C, title I, §11042(a), Nov. 2, 2002, 116 Stat. 1850.)
 

@@ -24,7 +24,7 @@ The Secretary shall, whenever the Secretary finds that the order or any provisio
 
 &emsp;Subsections (c) and (d) of section 6413 of this title shall apply to a referendum conducted under this subsection.
 
-(Pub. L. 101–624, title XIX, §1999O, Nov. 28, 1990, 104 Stat. 3925; Pub. L. 104–127, title I, §146(d)(2), (e), Apr. 4, 1996, 110 Stat. 919; Pub. L. 107–171, title I, §1506(c), May 13, 2002, 116 Stat. 210.)
+(Pub. L. 101–624, title XIX, §1999O, Nov. 28, 1990, 104 Stat. 3925; Pub. L. 104–127, title I, §146(d)(2),\(e), Apr. 4, 1996, 110 Stat. 919; Pub. L. 107–171, title I, §1506(c), May 13, 2002, 116 Stat. 210.)
 
 #### Amendments
 

@@ -48,7 +48,7 @@ Pursuant to the agreements required by subsection (a), the Secretary, through th
 
 #### (e) Solicitations for project proposals
 
-(1) Pursuant to the agreements under subsection (a), the Secretary, through the Agencyfor International Development, within one year after October 24, 1992, and subsequently as appropriate thereafter, shall solicit proposals from United States firms for the design, construction, testing, and operation of the project or projects identified under subsection (c) which propose to utilize a United States technology or service. Each solicitation under this section shall establish a closing date for receipt of proposals.
+(1) Pursuant to the agreements under subsection (a), the Secretary, through the Agency for International Development, within one year after October 24, 1992, and subsequently as appropriate thereafter, shall solicit proposals from United States firms for the design, construction, testing, and operation of the project or projects identified under subsection (c) which propose to utilize a United States technology or service. Each solicitation under this section shall establish a closing date for receipt of proposals.
 
 (2) The solicitation under this subsection shall, to the extent appropriate, be modeled after the RFP No. DE–PS01–90FE62271 Clean Coal Technology IV, as administered by the Department of Energy.
 
@@ -96,7 +96,7 @@ Not later than 6 months after October 24, 1992, the Secretary shall prepare a li
 
 &emsp;(E) the extent to which the proposed project meets the purposes of this section;
 
-&emsp;(F) the extent of technical, financial, management, and marketing capabilities of the participants in the project, and the commitment of the participants to completion of a successful project in a manner that will facilitate acceptance of the United States technology or service for future application; and
+&emsp;(F) the extent of technical, financial, management, and marketing capabilities of theparticipants in the project, and the commitment of the participants to completion of a successful project in a manner that will facilitate acceptance of the United States technology or service for future application; and
 
 &emsp;(G) such other criteria as may be appropriate.
 

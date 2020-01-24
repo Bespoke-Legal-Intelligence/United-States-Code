@@ -22,7 +22,7 @@ First Violation or Committing Felony.—(1) Except as provided in paragraph (2) 
 
 (c)
 
-Second and Multiple Violations.—(1) Subject to paragraph (2) of this subsection, theSecretary shall disqualify from operating a commercial motor vehicle for life an individual—
+Second and Multiple Violations.—(1) Subject to paragraph (2) of this subsection, the Secretary shall disqualify from operating a commercial motor vehicle for life an individual—
 
 &emsp;(A) committing more than one violation of driving a commercial motor vehicle under the influence of alcohol or a controlled substance;
 
@@ -44,11 +44,11 @@ Lifetime Disqualification Without Reinstatement.—
 
 &emsp;(1)
 
-Controlled substance violations.—The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving manufacturing, distributing, or dispensing a controlled substance, or possession with intent to manufacture, distribute, or dispense a controlled substance.
+Controlled substance violations.—The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle incommitting a felony involving manufacturing, distributing, or dispensing a controlled substance, or possession with intent to manufacture, distribute, or dispense a controlled substance.
 
 &emsp;(2)
 
-Human trafficking violations.—The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving an act or practice described in paragraph (9) of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(9)).
+Human trafficking violations.—The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving an act or practice described in paragraph (9) <sup>1</sup> of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(9)).
 
 (e)
 
@@ -94,7 +94,7 @@ Out-of-Service Orders.—(1)(A) To enforce section 392.5 of title 49, Code of Fe
 
 (B) The Secretary shall prescribe regulations establishing and enforcing requirements for reporting out-of-service orders issued under regulations prescribed under subparagraph (A) of this paragraph. Regulations prescribed under this subparagraph shall require at least that an operator of a commercial motor vehicle who is issued an out-of-service order to report the issuance to the individual's employer and to the State that issued the operator a driver's license.
 
-(2) The Secretary shall prescribe regulations establishing sanctions and penalties related toviolations of out-of-service orders by individuals operating commercial motor vehicles. The regulations shall require at least that—
+(2) The Secretary shall prescribe regulations establishing sanctions and penalties related to violations of out-of-service orders by individuals operating commercial motor vehicles. The regulations shall require at least that—
 
 &emsp;(A) an operator of a commercial motor vehicle found to have committed a first violation of an out-of-service order shall be disqualified from operating such a vehicle for at least 180 days and liable for a civil penalty of at least $2,500;
 
@@ -182,6 +182,10 @@ In subsection (g)(1)(A), the words "Not later than 1 year after October 27, 1986
 
 In subsection (g)(2), before clause (A), the words "Not later than December 18, 1992, the Secretary shall prescribe regulations" are substituted for "The Secretary shall issue regulations" and 49 App.:2718(c) to eliminate executed words. The word "individuals" is substituted for "persons" for clarity and consistency in the revised title and with other titles of the United States Code. In clause (C), the words "permits, authorizes" are omitted as being included in "allows".
 
+#### References in Text
+
+Paragraph (9) of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(9)), referred to in subsec. (d)(2), was redesignated par. (11) of section 103 of that Act by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503, and is classified to section 7102(11) of Title 22, Foreign Relations and Intercourse.
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–106 substituted "Lifetime Disqualification Without Reinstatement" for "Controlled Substance Violations" in heading, inserted par. (1) designation and heading, and added par. (2).
@@ -227,4 +231,6 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 #### Regulations
 
 Pub. L. 104–88, title IV, §403(b), Dec. 29, 1995, 109 Stat. 956, provided that: "The initial regulations required under section 31310(h) of title 49, United States Code, shall be issued not later than 1 year after the date of the enactment of this Act \[Dec. 29, 1995\]."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

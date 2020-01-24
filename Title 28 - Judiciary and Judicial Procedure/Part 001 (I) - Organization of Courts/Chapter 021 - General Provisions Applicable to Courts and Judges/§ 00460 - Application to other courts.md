@@ -14,7 +14,7 @@ This section was included to make clear that the provisions of this chapter are 
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-<b>1982</b>—Pub. L. 97–164 substituted "Application to other courts" for "Application to Canal Zone, Guam and Virgin Islands" in section catchline, designated existing provisions as subsec. (a), substituted "Sections 452 through 459 and section 462 of this chapter shall also apply to the United States Claims Court, to each court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States, and to the judges thereof" for "Sections 452–459 of this chapter shall also apply to the United States District Court for the District of the Canal Zone, the District Court of Guam and the District Court of the Virgin Islands and the judges thereof", and added subsec. (b).
+<b>1982</b>—Pub. L. 97–164 substituted "Application to other courts" for "Application to Canal Zone, Guam and Virgin Islands" in section catchline, designated existing provisions as subsec. (a), substituted "Sections 452 through 459 and section 462 of this chapter shall alsoapply to the United States Claims Court, to each court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States, and to the judges thereof" for "Sections 452–459 of this chapter shall also apply to the United States District Court for the District of the Canal Zone, the District Court of Guam and the District Court of the Virgin Islands and the judges thereof", and added subsec. (b).
 
 <b>1978</b>—Pub. L. 95–598 struck out "Alaska," after "Application to" in section catchline.
 

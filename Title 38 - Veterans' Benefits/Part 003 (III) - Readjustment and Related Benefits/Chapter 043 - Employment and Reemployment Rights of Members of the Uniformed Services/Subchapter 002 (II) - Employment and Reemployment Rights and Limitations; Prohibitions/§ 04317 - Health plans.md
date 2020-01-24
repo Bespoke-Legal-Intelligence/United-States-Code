@@ -8,7 +8,7 @@
 
 (2) A person who elects to continue health-plan coverage under this paragraph may be required to pay not more than 102 percent of the full premium under the plan (determined in the same manner as the applicable premium under section 4980B(f)(4) of the Internal Revenue Code of 1986) associated with such coverage for the employer's other employees, except that in the case of a person who performs service in the uniformed services for less than 31 days, such person may not be required to pay more than the employee share, if any, for such coverage.
 
-(3) In the case of a health plan that is a multiemployer plan, as defined in section 3(37) of theEmployee Retirement Income Security Act of 1974, any liability under the plan for employer contributions and benefits arising under this paragraph shall be allocated—
+(3) In the case of a health plan that is a multiemployer plan, as defined in section 3(37) of the Employee Retirement Income Security Act of 1974, any liability under the plan for employer contributions and benefits arising under this paragraph shall be allocated—
 
 &emsp;(A) by the plan in such manner as the plan sponsor shall provide; or
 
@@ -46,7 +46,7 @@ Subsec. (b)(3). Pub. L. 109–233, §303(b)(2), added par. (3).
 
 <b>2004</b>—Subsec. (a)(1)(A). Pub. L. 108–454 substituted "24-month period" for "18-month period".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–275 substituted "(a)(1) In" for "(a)(1)(A) Subject to paragraphs (2) and (3), in", redesignated cls. (i) and (ii) of par. (1) as subpars. (A) and (B), respectively, redesignated former subpars. (B) and (C) as pars. (2) and (3), respectively, and in par. (3), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and subcls. (I) and (II) as cls. (i) and (ii), respectively.
+<b>1996</b>—Subsec. (a). Pub. L. 104–275 substituted "(a)(1) In" for "(a)(1)(A) Subject to paragraphs (2) and (3), in",redesignated cls. (i) and (ii) of par. (1) as subpars. (A) and (B), respectively, redesignated former subpars. (B) and (C) as pars. (2) and (3), respectively, and in par. (3), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and subcls. (I) and (II) as cls. (i) and (ii), respectively.
 
 #### Effective Date of 2004 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Command.—The Secretary of the Air Force, with the advice and assistance of the Chief of Staff of the Air Force, shall establish an Air Force Reserve Command. The Air Force Reserve Command shall be operated as a separate command of the Air Force.
+Establishment of Command.—The Secretary of the Air Force, with the advice and assistance of the Chief of Staff of the Air Force, shall establish an Air Force Reserve Command.The Air Force Reserve Command shall be operated as a separate command of the Air Force.
 
 (b)
 

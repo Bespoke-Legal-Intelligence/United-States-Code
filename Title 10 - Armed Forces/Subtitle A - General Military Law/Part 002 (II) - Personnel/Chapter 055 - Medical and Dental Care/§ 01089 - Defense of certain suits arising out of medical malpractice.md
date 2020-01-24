@@ -4,7 +4,7 @@
 
 (b) The Attorney General shall defend any civil action or proceeding brought in any court against any person referred to in subsection (a) of this section (or the estate of such person) for any such injury. Any such person against whom such civil action or proceeding is brought shall deliver within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such person or an attested true copy thereof to such person's immediate superior or to whomever was designated by the head of the agency concerned to receive such papers and such person shall promptly furnish copies of the pleading and process therein to the United States attorney for the district embracing the place wherein the action or proceeding is brought, to the Attorney General and to the head of the agency concerned.
 
-(c) Upon a certification by the Attorney General that any person described in subsection (a) was acting in the scope of such person's duties or employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merits that the case so removed is one in which a remedy by suit within the meaning of subsection (a) of this section is not available against the United States, the case shall be remanded to the State court.
+(c) Upon a certification by the Attorney General that any person described in subsection (a) was acting in the scope of such person's duties or employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should aUnited States district court determine on a hearing on a motion to remand held before a trial on the merits that the case so removed is one in which a remedy by suit within the meaning of subsection (a) of this section is not available against the United States, the case shall be remanded to the State court.
 
 (d) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28, and with the same effect.
 
@@ -36,7 +36,7 @@
 
 <b>2002</b>—Subsec. (g)(2). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–85, §736(b)(1), inserted at end "This subsection shall also apply if the physician, dentist, nurse, pharmacist, or paramedical or othersupporting personnel (or the estate of such person) involved is serving under a personal services contract entered into under section 1091 of this title."
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §736(b)(1), inserted at end "This subsection shall also apply if the physician, dentist, nurse, pharmacist, or paramedical or other supporting personnel (or the estate of such person) involved is serving under a personal services contract entered into under section 1091 of this title."
 
 Subsec. (f). Pub. L. 105–85, §736(b)(2), designated existing provisions as par. (1) and added par. (2).
 
@@ -74,7 +74,7 @@ Pub. L. 97–124, §4, Dec. 29, 1981, 95 Stat. 1666, provided that: "The amendme
 
 #### Effective Date
 
-Pub. L. 94–464, §4, Oct. 8, 1976, 90 Stat. 1989, provided that: "This Act \[enacting this section, section 334 of Title 32, National Guard, section 2458a of Title 42, The Public Health and Welfare, and provisions set out as notes under this section and section 334 of Title 32\] shall become effective on the date of its enactment \[Oct. 8, 1976\] and shall apply only to those claims accruing on or after such date of enactment."
+Pub. L. 94–464, §4, Oct. 8, 1976, 90 Stat. 1989, provided that: "This Act \[enacting this section, section 334 ofTitle 32, National Guard, section 2458a of Title 42, The Public Health and Welfare, and provisions set out as notes under this section and section 334 of Title 32\] shall become effective on the date of its enactment \[Oct. 8, 1976\] and shall apply only to those claims accruing on or after such date of enactment."
 
 #### Congressional Findings
 

@@ -32,7 +32,7 @@
 
 #### (C) Intervention; etc.
 
-&emsp;&emsp;Notwithstanding any other law or rule of law, the person summoned shall have the right to intervene in any proceeding under subparagraph (A). Such person shall be bound by the decision in such proceeding (whether or not the person intervenes in such proceeding).
+&emsp;&emsp;Notwithstanding any other law or rule of law, the person summoned shall have the right to intervene in any proceeding under subparagraph (A). Such person shall bebound by the decision in such proceeding (whether or not the person intervenes in such proceeding).
 
 #### (c) Summons to which section applies
 
@@ -100,6 +100,8 @@ Any summons described in subsection (c)(1) which does not identify the person wi
 
 &emsp;(3) the information sought to be obtained from the examination of the records or testimony (and the identity of the person or persons with respect to whose liability the summons is issued) is not readily available from other sources.
 
+> The Secretary shall not issue any summons described in the preceding sentence unless the information sought to be obtained is narrowly tailored to information that pertains to the failure (or potential failure) of the person or group or class of persons referred to in paragraph (2) to comply with one or more provisions of the internal revenue law which have been identified for purposes of such paragraph.
+
 #### (g) Special exception for certain summonses
 
 A summons is described in this subsection if, upon petition by the Secretary, the court determines, on the basis of the facts and circumstances alleged, that there is reasonable cause to believe the giving of notice may lead to attempts to conceal, destroy, or alter records relevant to the examination, to prevent the communication of information from other persons through intimidation, bribery, or collusion, or to flee to avoid prosecution, testifying, or production of records.
@@ -108,7 +110,7 @@ A summons is described in this subsection if, upon petition by the Secretary, th
 
 #### (1) Jurisdiction
 
-&emsp;The United States district court for the district within which the person to be summoned resides or is found shall have jurisdiction tohear and determine any proceeding brought under subsection (b)(2), (f), or (g). An order denying the petition shall be deemed a final order which may be appealed.
+&emsp;The United States district court for the district within which the person to be summonedresides or is found shall have jurisdiction to hear and determine any proceeding brought under subsection (b)(2), (f), or (g). An order denying the petition shall be deemed a final order which may be appealed.
 
 #### (2) Special rule for proceedings under subsections (f) and (g)
 
@@ -136,13 +138,15 @@ A summons is described in this subsection if, upon petition by the Secretary, th
 
 Nothing in this section shall be construed to limit the Secretary's ability to obtain information, other than by summons, through formal or informal procedures authorized by sections 7601 and 7602.
 
-(Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, §703(l)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, §714(i), title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, §402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–514, title VI, §656(a), title XV, §1561(a), (b), title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§1015(l)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577; Pub. L. 104–168, title X, §1001(a), July 30, 1996, 110 Stat. 1467; Pub. L. 105–206, title III, §3415(a)–(c), July 22, 1998, 112 Stat. 755; Pub. L. 109–135, title IV, §408(a), Dec. 21, 2005, 119 Stat. 2635.)
+(Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, §703(l)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, §714(i), title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, §402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–514, title VI, §656(a), title XV, §1561(a), (b), title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§1015(l)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577; Pub. L. 104–168, title X, §1001(a), July 30, 1996, 110 Stat. 1467; Pub. L. 105–206, title III, §3415(a)–(c), July 22, 1998, 112 Stat. 755; Pub. L. 109–135, title IV, §408(a), Dec. 21, 2005, 119 Stat. 2635; Pub. L. 116–25, title I, §1204(a), July 1, 2019, 133 Stat. 988.)
 
 #### Prior Provisions
 
 A prior section 7609 was renumbered section 7613 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (f). Pub. L. 116–25 inserted concluding provisions.
 
 <b>2005</b>—Subsec. (c)(2)(D) to (F). Pub. L. 109–135, §408(a)(1), inserted "or" at end of subpar. (D), substituted period for "; or" at end of subpar. (E), and struck out subpar. (F) which read as follows: "described in subsection (f) or (g)."
 
@@ -252,9 +256,13 @@ Subsec. (i). Pub. L. 97–248, §332(a), added subsec. (i).
 
 Pub. L. 95–599 substituted "6427(g)(2)" for "6427(e)(2)".
 
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–25, title I, §1204(b), July 1, 2019, 133 Stat. 989, provided that: "The amendments made by this section \[amending this section\] shall apply to summonses served after the date that is 45 days after the date of the enactment of this Act \[July 1, 2019\]."
+
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–135, title IV, §408(b), Dec. 21, 2005, 119 Stat. 2635, provided that: "The amendments made by thissection \[amending this section\] shall take effect as if included in section 3415 of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\]."
+Pub. L. 109–135, title IV, §408(b), Dec. 21, 2005, 119 Stat. 2635, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in section 3415 of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\]."
 
 #### Effective Date of 1998 Amendment
 

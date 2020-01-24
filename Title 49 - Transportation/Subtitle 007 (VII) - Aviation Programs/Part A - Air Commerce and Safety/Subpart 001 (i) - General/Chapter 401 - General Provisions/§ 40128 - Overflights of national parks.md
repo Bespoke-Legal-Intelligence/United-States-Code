@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-General requirements.—A commercial air tour operator may not conduct commercialair tour operations over a national park or tribal lands, as defined by this section, except—
+General requirements.—A commercial air tour operator may not conduct commercial air tour operations over a national park or tribal lands, as defined by this section, except—
 
 &emsp;&emsp;(A) in accordance with this section;
 
@@ -36,7 +36,7 @@ Competitive bidding for limited capacity parks.—Whenever an air tour managemen
 
 &emsp;&emsp;&emsp;(v) any training programs for pilots provided by the person submitting the proposal; and
 
-&emsp;&emsp;&emsp;(vi) responsiveness of the person submitting the proposal to any relevant criteria developed by the National Park Service for the affected park.
+&emsp;&emsp;&emsp;(vi) responsiveness of the person submitting the proposal to any relevant criteriadeveloped by the National Park Service for the affected park.
 
 &emsp;&emsp;(C)
 
@@ -166,7 +166,7 @@ In general.—As an alternative to an air tour management plan, the Director and
 
 &emsp;&emsp;(B)
 
-Park protection.—A voluntary agreement under this paragraph with respect tocommercial air tour operations over a national park shall address the management issues necessary to protect the resources of such park and visitor use of such park without compromising aviation safety or the air traffic control system and may—
+Park protection.—A voluntary agreement under this paragraph with respect to commercial air tour operations over a national park shall address the management issues necessary to protect the resources of such park and visitor use of such park without compromising aviation safety or the air traffic control system and may—
 
 &emsp;&emsp;&emsp;(i) include provisions such as those described in subparagraphs (B) through (E) of paragraph (3);
 
@@ -250,7 +250,7 @@ In general.—The Administrator, in cooperation with the Director, may grant int
 
 &emsp;&emsp;(B)
 
-Safety limitation.—The Administrator may not grant interim operating authority under subparagraph (A) if the Administrator determines that it would create a safety problem at the park or on the tribal lands, or the Director determines that itwould create a noise problem at the park or on the tribal lands.
+Safety limitation.—The Administrator may not grant interim operating authority under subparagraph (A) if the Administrator determines that it would create a safety problem at the park or on the tribal lands, or the Director determines that it would create a noise problem at the park or on the tribal lands.
 
 &emsp;&emsp;(C)
 
@@ -348,7 +348,7 @@ Administrator.—The term "Administrator" means the Administrator of the Federal
 
 Director.—The term "Director" means the Director of the National Park Service.
 
-(Added Pub. L. 106–181, title VIII, §803(a), Apr. 5, 2000, 114 Stat. 186; amended Pub. L. 108–176, titleIII, §323(a), Dec. 12, 2003, 117 Stat. 2541; Pub. L. 109–115, div. A, title I, §177, Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title V, §501, Feb. 14, 2012, 126 Stat. 100; Pub. L. 112–141, div. C, title V, §35002, July 6, 2012, 126 Stat. 843; Pub. L. 115–254, div. B, title V, §539(c), Oct. 5, 2018, 132 Stat. 3370.)
+(Added Pub. L. 106–181, title VIII, §803(a), Apr. 5, 2000, 114 Stat. 186; amended Pub. L. 108–176, title III, §323(a), Dec. 12, 2003, 117 Stat. 2541; Pub. L. 109–115, div. A, title I, §177, Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title V, §501, Feb. 14, 2012, 126 Stat. 100; Pub. L. 112–141, div. C, title V, §35002, July 6, 2012, 126 Stat. 843; Pub. L. 115–254, div. B, title V, §539(c), Oct. 5, 2018, 132 Stat. 3370.)
 
 #### References in Text
 
@@ -490,7 +490,7 @@ Deadline for rule.—No later than January 2005, the Secretary of Transportation
 
 "(2)
 
-Resolution of disputes.—Subject to applicable administrative law and procedures, if the Secretary determines that a dispute among interested parties (including outside groups) or government agencies cannot be resolved within a reasonable time frame and could delay finalizing the rulemaking described in subsection (a), or implementation of final standards under such rule, due to controversy over adoption of quiet technology routes, establishment of incentives to encourage adoption of such routes, establishment of incentives to encourage adoption of quite technology, or other measures to achieve substantial restoration of natural quiet, the Secretary shall refer such dispute to a recognized center for environmental conflict resolution."
+Resolution of disputes.—Subject to applicable administrative law and procedures, if the Secretary determines that a dispute among interested parties (including outside groups) or government agencies cannot be resolved within a reasonable time frame and could delay finalizing the rulemaking described in subsection (a), or implementation of final standards under such rule, due to controversy over adoption of quiet technology routes, establishment of incentives to encourage adoption of such routes, establishment of incentives to encourage adoption of quite technology, or other measures to achieve substantial restoration of natural quiet, the Secretary shall refer such dispute toa recognized center for environmental conflict resolution."
 
 #### National Parks Air Tour Management
 
@@ -610,7 +610,7 @@ Duties.—The advisory group shall provide advice, information, and recommendati
 
 &emsp;"(1) on the implementation of this title and the amendments made by this title;
 
-&emsp;"(2) on commonly accepted quiet aircraft technology for use in commercial air tour operations over a national park or tribal lands, which will receive preferential treatment in a given air tour management plan;
+&emsp;"(2) on commonly accepted quiet aircraft technology for use in commercial air tour operations overa national park or tribal lands, which will receive preferential treatment in a given air tour management plan;
 
 &emsp;"(3) on other measures that might be taken to accommodate the interests of visitors to national parks; and
 
@@ -670,7 +670,7 @@ Study by Park Service.—The Secretary of the Interior (hereinafter referred to 
 
 "(b)
 
-General Requirements of Study.—The study shall identify any problems associated with overflight by aircraft of units of the National Park System and shall provide information regarding the types of overflight which may be impacting on park unit resources. The study shall distinguish between the impacts causedby sightseeing aircraft, military aircraft, commercial aviation, general aviation, and other forms of aircraft which affect such units. The study shall identify those park system units, and portions thereof, in which the most serious adverse impacts from aircraft overflights exist.
+General Requirements of Study.—The study shall identify any problems associated with overflight by aircraft of units of the National Park System and shall provide information regarding the types of overflight which may be impacting on park unit resources. The study shall distinguish between the impacts caused by sightseeing aircraft, military aircraft, commercial aviation, general aviation, and other forms of aircraft which affect such units. The study shall identify those park system units, and portions thereof, in which the most serious adverse impacts from aircraft overflights exist.
 
 "(c)
 
@@ -764,7 +764,7 @@ Helicopter Flights of River Runners.—Subsection (b) shall not prohibit the fli
 
 #### "SEC. 4. BOUNDARY WATERS CANOE AREA WILDERNESS.
 
-"The Administrator shall conduct surveillance of aircraft flights over the Boundary Waters Canoe Area Wilderness as authorized by the Act of October 21, 1978 (92 Stat. 1649–1659) for a period of not less than 180 days beginning within 60 days of enactment of this Act \[Aug. 18, 1987\]. In addition to any actions the Administrator may take as a result of such surveillance, he shall provide a report to the Committee on Interior and Insular Affairs and the Committee on Public Works and Transportation of the United States House of Representatives and to the Committee on Energy and Natural Resources and the Committee on Commerce, Science, and Transportation of the United States Senate. Such report is to be submitted within 30 days of completion of the surveillance activities. Such report shall include but not necessarily be limited to information on the type and frequency of aircraft using the airspace over the Boundary Waters Canoe Area Wilderness.
+"The Administrator shall conduct surveillance of aircraft flights over the Boundary Waters Canoe Area Wilderness as authorized by the Act of October 21, 1978 (92 Stat. 1649–1659) for a period of not less than 180 days beginning within 60 days of enactment of this Act \[Aug. 18, 1987\]. In addition to any actions the Administrator may take as a result of such surveillance, he shall provide a report to the Committee on Interior and Insular Affairs and the Committee on Public Works and Transportation of the United States House of Representatives and to the Committee on Energy and Natural Resources and the Committee on Commerce, Science, and Transportation of the United States Senate. Such report is to be submitted within 30 days of completion of the surveillance activities. Such report shall includebut not necessarily be limited to information on the type and frequency of aircraft using the airspace over the Boundary Waters Canoe Area Wilderness.
 
 #### "SEC. 5. ASSESSMENT OF NATIONAL FOREST SYSTEM WILDERNESS OVERFLIGHTS.
 

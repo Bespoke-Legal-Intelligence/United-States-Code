@@ -84,7 +84,7 @@ Sec. 2. <i>Membership</i>. (A) <i>Composition</i>. The Council shall consist of 
 
 (1) public health, including clinical dietetics, public health nutrition, epidemiology, clinical medicine, health education, or nutrition education;
 
-(2) nutrition monitoring research, including nutrition monitoring and surveillance, food consumption patterns, nutritional anthropology, community nutrition research, nutritional biochemistry, food compositionanalysis, survey statistics, dietary-intake methodology, or nutrition status methodology; or
+(2) nutrition monitoring research, including nutrition monitoring and surveillance, food consumption patterns, nutritional anthropology, community nutrition research, nutritional biochemistry, food composition analysis, survey statistics, dietary-intake methodology, or nutrition status methodology; or
 
 (3) food production and distribution, including agriculture, biotechnology, food engineering, economics, consumer psychology or sociology, food-system management, or food assistance.
 

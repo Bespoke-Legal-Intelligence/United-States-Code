@@ -16,7 +16,7 @@ For the purposes of this subpart:
 
 #### (2) Post-baccalaureate
 
-&emsp;The term "post-baccalaureate" means a program of instruction for individuals who have completed a baccalaureate degree, that does not lead to a graduate degree, and that consists of courses required by a State in order for a teacher candidate to receive a professional certification or licensing credential that is required for employment as a teacher in an elementary school or secondary school in that State, except that such term shall not includeany program of instruction offered by an eligible institution that offers a baccalaureate degree in education.
+&emsp;The term "post-baccalaureate" means a program of instruction for individuals who have completed a baccalaureate degree, that does not lead to a graduate degree, and that consists of courses required by a State in order for a teacher candidate to receive a professional certification or licensing credential that is required for employment as a teacher in an elementary school or secondary school in that State, except that such term shall not include any program of instruction offered by an eligible institution that offers a baccalaureate degree in education.
 
 #### (3) Teacher candidate
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Secretary is authorized to make loans to any municipality, electric cooperative, industrial development agency, nonprofit organization, or other person of up to 75 percent of theproject costs of a small hydroelectric power project. No such loan may be made unless the Secretary finds that—
+The Secretary is authorized to make loans to any municipality, electric cooperative, industrial development agency, nonprofit organization, or other person of up to 75 percent of the project costs of a small hydroelectric power project. No such loan may be made unless the Secretary finds that—
 
 &emsp;(1) the project will be constructed in connection with an existing dam or dams,
 

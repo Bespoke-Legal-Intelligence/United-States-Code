@@ -16,7 +16,7 @@
 
 &emsp;(C) a participant who serves 3 days or less in the month of retirement—
 
-> shall commence on the day after separation from the Service or the day after pay ceases and the requirements for entitlement to annuity are met.
+> shall commence on the day after separation from the Service or the day after pay ceases andthe requirements for entitlement to annuity are met.
 
 #### (b) Survivor's annuity; application; proof of eligibility; payment to estate
 

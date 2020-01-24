@@ -20,7 +20,7 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3523(a)(5)(B), Jan. 28, 2008, 122 Stat. 599, substituted "Provision of decorations, medals, and replacements" for "Manufacture and sale of awards and replacements." in item 51907.
+<b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3523(a)(5)(B), Jan. 28, 2008, 122 Stat. 599, substituted"Provision of decorations, medals, and replacements" for "Manufacture and sale of awards and replacements." in item 51907.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

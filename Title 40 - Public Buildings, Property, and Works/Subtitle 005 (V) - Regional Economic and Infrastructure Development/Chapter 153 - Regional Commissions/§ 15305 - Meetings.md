@@ -12,7 +12,7 @@ Annual Meeting.—Each Commission shall conduct at least 1 meeting each year wit
 
 Additional Meetings.—Each Commission shall conduct additional meetings at such times as it determines and may conduct such meetings by electronic means.
 
-(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1473, and Pub. L. 110–246,§4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2235.)
+(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1473, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2235.)
 
 #### References in Text
 

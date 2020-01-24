@@ -170,7 +170,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986, see section 151(c) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986, see section 151(c) ofPub. L. 99–514, set out as a note under section 1 of this title.
 
 #### Effective Date of 1984 Amendment
 

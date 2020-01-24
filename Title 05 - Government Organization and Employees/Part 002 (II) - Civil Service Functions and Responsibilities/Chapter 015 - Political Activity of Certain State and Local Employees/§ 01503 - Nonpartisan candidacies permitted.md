@@ -1,6 +1,6 @@
 ### §1503. Nonpartisan candidacies permitted
 
-Section 1502(a)(3) of this title does not prohibit any State or local officer or employee from being a candidate in any election if none of the candidates is to be nominated or elected at such election as representing a party any of whose candidates for Presidential elector received votes in the last preceding election at which Presidential electors were selected.
+Section 1502(a)(3) of this title does not prohibit any State or local officer or employee from being a candidate in any election if none of the candidates is to be nominated or elected at such election as representing a party any of whosecandidates for Presidential elector received votes in the last preceding election at which Presidential electors were selected.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 404; Pub. L. 93–443, title IV, §401(b)(1), Oct. 15, 1974, 88 Stat. 1290.)
 

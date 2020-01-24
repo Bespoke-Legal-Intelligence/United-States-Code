@@ -12,7 +12,7 @@ Nothing in this subchapter—
 
 &emsp;(5) imposes any Federal water quality standard within or upstream of the Natural Area that is more restrictive than would be applicable had the Natural Area not been established; or
 
-&emsp;(6) prevents the State of Colorado from acquiring an instream flow through the Natural Area under the terms, conditions, and limitations of State law to assist in protecting thenatural environment to the extent and for the purposes authorized by State law.
+&emsp;(6) prevents the State of Colorado from acquiring an instream flow through the Natural Area under the terms, conditions, and limitations of State law to assist in protecting the natural environment to the extent and for the purposes authorized by State law.
 
 (Pub. L. 109–337, §8, Oct. 12, 2006, 120 Stat. 1781.)
 

@@ -34,7 +34,7 @@ The word "subsequently" is omitted as surplusage.
 
 #### References in Text
 
-Chapter 21 of title 14, referred to in text, was comprised of sections 701 to 713 and 720 to 746, prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233. After renumbering, such sections now comprise chapter 37 of title 14.
+Chapter 21 of title 14, referred to in text, was comprised of sections 701 to 713 and 720 to 746, prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233. After renumbering, such sections now comprise chapter 37 (designated as chapter "1" in chapter analysis) of title 14.
 
 #### Amendments
 

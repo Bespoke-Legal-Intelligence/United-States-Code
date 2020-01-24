@@ -28,7 +28,7 @@ Low-enriched Uranium Activities Defined.—In this section, the term "low-enrich
 
 #### Prior Provisions
 
-A prior section 8689, acts Aug. 10, 1956, ch. 1041, 70A Stat. 537; Sept. 26, 1961, Pub. L. 87–304, §9(d), 75 Stat. 665, related to assignments and allotments of pay, prior to repeal by Pub. L. 87–649, §14c(57), Sept. 7, 1962, 76 Stat. 502, effective Nov. 1, 1962. See section 701 of Title 37, Pay and Allowances of the Uniformed Services.
+A prior section 8689, acts Aug. 10, 1956, ch. 1041, 70A Stat. 537; Sept. 26, 1961, Pub. L. 87–304, §9(d), 75 Stat.665, related to assignments and allotments of pay, prior to repeal by Pub. L. 87–649, §14c(57), Sept. 7, 1962, 76 Stat. 502, effective Nov. 1, 1962. See section 701 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Amendments
 

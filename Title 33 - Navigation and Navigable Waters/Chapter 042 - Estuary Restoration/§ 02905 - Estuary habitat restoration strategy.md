@@ -28,7 +28,7 @@ The estuary habitat restoration strategy shall include proposals, methods, and g
 
 &emsp;&emsp;(A) provide healthy ecosystems in order to support—
 
-&emsp;&emsp;&emsp;(i) wildlife, including endangered and threatened species, migratory birds, andresident species of an estuary watershed; and
+&emsp;&emsp;&emsp;(i) wildlife, including endangered and threatened species, migratory birds, and resident species of an estuary watershed; and
 
 &emsp;&emsp;&emsp;(ii) fish and shellfish, including commercial and recreational fisheries;
 

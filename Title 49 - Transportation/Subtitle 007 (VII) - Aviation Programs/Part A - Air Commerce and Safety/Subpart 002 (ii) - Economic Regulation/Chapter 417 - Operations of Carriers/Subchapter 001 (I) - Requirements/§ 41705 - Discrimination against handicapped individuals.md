@@ -140,7 +140,7 @@ Display.—Each covered air carrier shall include the Airline Passengers with Di
 
 "(f)
 
-Training.—Covered air carriers and contractors of covered air carriers shall submit to the Secretary of Transportation plans that ensure employees of covered air carriers and their contractors receive training on the protections and responsibilities described in the Airline Passengers with Disabilities Bill of Rights. The Secretary shall review such plans to ensure the plans address the matters described in subsection (b)."
+Training.—Covered air carriers and contractors of covered air carriers shall submit to the Secretary of Transportation plans that ensure employees of covered air carriers and their contractors receive training on the protections and responsibilities described in the Airline Passengers with Disabilities Bill of Rights. TheSecretary shall review such plans to ensure the plans address the matters described in subsection (b)."
 
 \[For definition of "covered air carrier" as used in section 434 of Pub. L. 115–254, set out above, see section 401 of Pub. L. 115–254, set out as a Definitions of Terms in Pub. L. 115–254 note under section 40101 of this title.\]
 

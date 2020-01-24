@@ -12,7 +12,7 @@
 
 &emsp;(2) an appropriate period of responsible actuarial experience.
 
-> Notwithstanding the preceding provisions of this subsection, the Joint Board may provide for the temporary enrollment for the period ending January 1, 1976, of actuaries under such interim standards as it deems adequate.
+> Notwithstanding the preceding provisions of this subsection, the Joint Board may provide forthe temporary enrollment for the period ending January 1, 1976, of actuaries under such interim standards as it deems adequate.
 
 (b) The Joint Board may, after notice and an opportunity for a hearing, suspend or terminate the enrollment of an individual under this section if the Joint Board finds that such individual—
 

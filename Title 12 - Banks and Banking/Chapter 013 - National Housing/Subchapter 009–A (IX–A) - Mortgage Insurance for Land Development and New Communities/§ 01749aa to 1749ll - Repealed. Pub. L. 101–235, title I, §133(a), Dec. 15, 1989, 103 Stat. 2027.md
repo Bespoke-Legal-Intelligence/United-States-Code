@@ -8,9 +8,9 @@ Section 1749cc, act June 27, 1934, ch. 847, title X, §1003, as added Aug. 10, 1
 
 Section 1749cc–1, act June 27, 1934, ch. 847, title X, §1004, as added Nov. 3, 1966, Pub. L. 89–754, title IV, §401(a), 80 Stat. 1271, related to approval of new communities for mortgage insurance.
 
-Section 1749dd, act June 27, 1934, ch. 847, title X, §1005, formerly §1004, as added Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 463; renumbered §1005 and amended Nov. 3, 1966, Pub. L. 89–754, title IV, §§401(a), 403, 80 Stat. 1271, 1272; May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17, directed adoption of requirements to encourage homebuilding industry and proper balance of housing for moderate and low income families.
+Section 1749dd, act June 27, 1934, ch. 847, title X, §1005, formerly §1004, as added Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 463; renumbered §1005and amended Nov. 3, 1966, Pub. L. 89–754, title IV, §§401(a), 403, 80 Stat. 1271, 1272; May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17, directed adoption of requirements to encourage homebuilding industry and proper balance of housing for moderate and low income families.
 
-Section 1749ee, act June 27, 1934, ch. 847, title X, §1006, formerly §1005, as added Aug. 10, 1965, Pub. L. 89–117,title II, §201(a), 79 Stat. 463; renumbered §1006 and amended Nov. 3, 1966, Pub. L. 89–754, title IV, §§401(a), 404, 80 Stat. 1271, 1272, related to service of land by public water and sewerage systems after development.
+Section 1749ee, act June 27, 1934, ch. 847, title X, §1006, formerly §1005, as added Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 463; renumbered §1006 and amended Nov. 3, 1966, Pub. L. 89–754, title IV, §§401(a), 404, 80 Stat. 1271, 1272, related to service of land by public water and sewerage systems after development.
 
 Section 1749ff, act June 27, 1934, ch. 847, title X, §1007, formerly §1006, as added Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 464; renumbered §1007, Nov. 3, 1966, Pub. L. 89–754, title IV, §401(a), 80 Stat. 1271; amended May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17, related to release or subordination of mortgaged property.
 

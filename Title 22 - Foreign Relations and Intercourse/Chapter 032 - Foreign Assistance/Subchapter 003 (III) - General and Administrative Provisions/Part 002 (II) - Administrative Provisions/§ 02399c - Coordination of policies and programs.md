@@ -54,7 +54,7 @@ Subsec. (g). Pub. L. 95–424, §502(d)(2), substituted "section 2394 of this ti
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–88, §127(a), provided that the Committee advise the President concerning the degree to which bilateral and multilateral development assistance should focus on critical problems in those functional sectors which affect the lives of the majority of people in the developing countries: food production; rural development and nutrition; population planning and health; and education, public administration, and human resource development.
 
-Subsec. (d). Pub. L. 95–88, §127(b), substituted "less developed countries" for "low-income countries" in the description of the subject matter of the Presidential reports to Congress, designated existing provisions setting out the subject matter of the reports as cl. (2)(A), and added cls. (1) and (2)(B).
+Subsec. (d). Pub. L. 95–88, §127(b), substituted "less developed countries" for "low-income countries" in thedescription of the subject matter of the Presidential reports to Congress, designated existing provisions setting out the subject matter of the reports as cl. (2)(A), and added cls. (1) and (2)(B).
 
 Subsecs. (e) to (g). Pub. L. 95–88, §127(c), added subsecs. (e) to (g).
 

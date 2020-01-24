@@ -26,7 +26,7 @@ The Secretary may approve a plan of action that provides for termination of the 
 
 #### (2) Procedure and criteria
 
-&emsp;The Secretary shall, by regulation, develop (A) a procedure for determining whether the conditions under paragraphs (1) and (2) of subsection (a) exist, (B) requirements for evidenceon which such determinations are based, and (C) criteria on which such determinations are based.
+&emsp;The Secretary shall, by regulation, develop (A) a procedure for determining whether the conditions under paragraphs (1) and (2) of subsection (a) exist, (B) requirements for evidence on which such determinations are based, and (C) criteria on which such determinations are based.
 
 #### (c) Disapproval
 

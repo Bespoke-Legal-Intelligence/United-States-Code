@@ -43,7 +43,7 @@ Amounts deducted and withheld under this section shall be deposited in the Treas
 
 Under such regulations as the Secretary of State may issue, amounts deducted under subsection (a) shall be entered on individual retirement records.
 
-(Pub. L. 96–465, title I, §856, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 618; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–33, title VII, §7001(e)(1)(A), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, §322(b)(2), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, §5002(b), Feb. 22, 2012, 126 Stat. 200; Pub. L. 113–67, div. A, title IV, §402(b), Dec. 26, 2013, 127 Stat. 1185.)
+(Pub. L. 96–465, title I, §856, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 618; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–33, title VII, §7001(e)(1)(A), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III,§322(b)(2), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, §5002(b), Feb. 22, 2012, 126 Stat. 200; Pub. L. 113–67, div. A, title IV, §402(b), Dec. 26, 2013, 127 Stat. 1185.)
 
 #### Amendments
 

@@ -62,7 +62,7 @@ In addition to the prohibition in paragraph (1), it shall be unlawful for any pe
 
 #### (5) Subpoena
 
-For the purpose of securing effective enforcement of the provisions of this chapter, for the purpose of any investigation or proceeding under this chapter, and for the purpose of any action taken under section 16(f) of this title, any member of the Commission or any Administrative Law Judge or other officer designated by the Commission (except as provided in paragraph (7)) may administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records that the Commission deems relevant or material to the inquiry.
+For the purpose of securing effective enforcement of the provisions of this chapter, for thepurpose of any investigation or proceeding under this chapter, and for the purpose of any action taken under section 16(f) of this title, any member of the Commission or any Administrative Law Judge or other officer designated by the Commission (except as provided in paragraph (7)) may administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records that the Commission deems relevant or material to the inquiry.
 
 #### (6) Witnesses
 
@@ -124,7 +124,7 @@ On the receipt of evidence under paragraph (4)(C)(iii), the Commission may—
 
 #### (ii) Petition
 
-&emsp;&emsp;To obtain a review or other relief under clause (i), a person may, not later than 15days after notice is given to the person under clause (i), file a written petition to set aside the order with the United States Court of Appeals—
+&emsp;&emsp;To obtain a review or other relief under clause (i), a person may, not later than 15 days after notice is given to the person under clause (i), file a written petition to set aside the order with the United States Court of Appeals—
 
 &emsp;&emsp;&emsp;(I) for the circuit in which the petitioner carries out the business of the petitioner; or
 
@@ -174,7 +174,7 @@ Pub. L. 102–546, §§209(a)(1), 212(b), 223, 402(1)(C), (6), substituted, in f
 
 <b>1974</b>—Pub. L. 93–463, §§103(e), 204(b), 205(b), 212(a)(1), (2), 408, substituted "it" for "he", inserted "or any person associated therewith as described in section 6k of this title," after "futures commission merchant" wherever appearing, inserted "commodity trading advisor, commodity pool operator" before "or as floor broker" wherever appearing, inserted provision for the assessment of civil penalties of not more than $100,000 for each violation, set a limit of fifteen days after the issuance of an order within which period the person against whom the order was issued must file with the court of appeals his petition that the order be set aside, and substituted "an Administrative Law Judge" and "Administrative Law Judge" for "a referee" and "referee", respectively.
 
-Pub. L. 93–463, §103(a), provided for substitution of "Commission" for "Secretary of Agriculture" except where such words would be stricken by section 103(b), which directed striking the words "the Secretary of Agriculture or" where they appeared in the phrase "the Secretary of Agriculture or the Commission". Section 103(a) was executed wherever the term "Secretary of Agriculture" appeared in this section including in the phrase "the Secretary of Agriculture or the commission" in the first sentence. Because the word "commission" was not capitalized in that phrase in the first sentence, section 103(b) did not apply to that phraseand therefore section 103(a) was executed, resulting in the substitution of "the Commission or the commission" for "the Secretary of Agriculture or the commission".
+Pub. L. 93–463, §103(a), provided for substitution of "Commission" for "Secretary of Agriculture" except where such words would be stricken by section 103(b), which directed striking the words "the Secretary of Agriculture or" where they appeared in the phrase "the Secretary of Agriculture or the Commission". Section 103(a) was executed wherever the term "Secretary of Agriculture" appeared in this section including in the phrase "the Secretary of Agriculture or the commission" in the first sentence. Because the word "commission" was not capitalized in that phrase in the first sentence, section 103(b) did not apply to that phrase and therefore section 103(a) was executed, resulting in the substitution of "the Commission or the commission" for "the Secretary of Agriculture or the commission".
 
 <b>1968</b>—Pub. L. 90–258 amended first sentence generally, providing for denial of trading privileges to persons other than contract markets and suspension or revocation of registration of futures commission merchants and floor brokers, who are manipulating or have attempted to manipulate prices, for willful, material, misstatements in, or omissions from, reports or registration statements, and for violations of orders of Secretary of Agriculture or commission, and authorizing the Secretary to prohibit such persons from trading on or subject to rules of any contract market.
 

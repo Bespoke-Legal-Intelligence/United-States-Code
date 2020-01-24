@@ -58,7 +58,7 @@ The Secretary shall award grants to States in order to assist in supporting the 
 
 #### (D) Enforcement authority of Attorney General
 
-&emsp;&emsp;When a matter is referred to the Attorney General pursuant to subparagraph (C)(i), or whenever the Attorney General has reason to believe that a State, an Indian tribe, or an entity described in subparagraph (C) is engaged in a pattern or practice in violation of a provision of law referred to in subparagraph (A) or in violation of subparagraph (B), the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
+&emsp;&emsp;When a matter is referred to the Attorney General pursuant to subparagraph (C)(i), or whenever the Attorney General has reason to believe that a State, an Indian tribe, or an entity described in subparagraph (C) is engaged in a pattern or practice in violation of a provision of law referred to in subparagraph (A) or in violation of subparagraph (B), the Attorney General may bring a civilaction in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
 
 #### (3) Income eligibility standards
 
@@ -146,11 +146,7 @@ The Civil Rights Act of 1964, referred to in subsec. (c)(2)(A), (C)(ii), is Pub.
 
 #### Prior Provisions
 
-A prior section 10406, Pub. L. 98–457, title III, §307, Oct. 9, 1984, 98 Stat. 1761, related to prohibition of discrimination, prior to the general amendment of thischapter by Pub. L. 111–320. See subsec. (c)(2) of this section.
+A prior section 10406, Pub. L. 98–457, title III, §307, Oct. 9, 1984, 98 Stat. 1761, related to prohibition of discrimination, prior to the general amendment of this chapter by Pub. L. 111–320. See subsec. (c)(2) of this section.
 
 A prior section 306 of Pub. L. 98–457 was classified to section 10405 of this title prior to the general amendment of this chapter by Pub. L. 111–320.
-
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

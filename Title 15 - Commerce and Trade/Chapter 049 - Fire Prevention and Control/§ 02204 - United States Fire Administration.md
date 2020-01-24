@@ -72,7 +72,7 @@ Major Reorganization Defined.—With respect to the United States Fire Administr
 
 "(b)
 
-Notice of Reprogramming.—If any funds appropriated pursuant to the amendments made by this Act \[see Short Title of 1997 Amendment note set out under section 2201 of this title\] are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the Senate and the House of Representatives, notice of that action shall concurrently be provided to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives.
+Notice of Reprogramming.—If any funds appropriated pursuant to the amendments made by this Act\[see Short Title of 1997 Amendment note set out under section 2201 of this title\] are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the Senate and the House of Representatives, notice of that action shall concurrently be provided to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives.
 
 "(c)
 

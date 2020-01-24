@@ -120,11 +120,11 @@ Amendment by Pub. L. 107–16 applicable to costs paid or incurred in taxable ye
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[title I, §121(e)\] of Pub. L. 106–554, set out as a note under section 38 of this title.
+Amendment by Pub. L. 106–554 applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[title I,§121(e)\] of Pub. L. 106–554, set out as a note under section 38 of this title.
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title VI, §6020(b), July 22, 1998, 112 Stat. 823, provided that: "The amendment made by thissection \[amending this section\] shall take effect as if included in the amendments made by section 13443 of the Revenue Reconciliation Act of 1993 \[see section 13443(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 38 of this title\]."
+Pub. L. 105–206, title VI, §6020(b), July 22, 1998, 112 Stat. 823, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 13443 of the Revenue Reconciliation Act of 1993 \[see section 13443(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 38 of this title\]."
 
 #### Effective Date of 1996 Amendment
 

@@ -150,7 +150,7 @@ Subsec. (b)(2)(D), (E). Pub. L. 115–52, §206(2)(A), redesignated subpar. (E) 
 
 Subsec. (b)(3)(E). Pub. L. 115–52, §206(2)(B)(iii), added subpar. (E). Former subpar. (E) redesignated (F).
 
-Subsec. (b)(3)(F). Pub. L. 115–52, §206(2)(B)(i), (ii), redesignated subpar. (E) as (F) and substituted "Such person shall agree, at a minimum, to include in its request for accreditation a commitment to, at the time of accreditation, and at any time it is performing any review pursuant to this section" for "The operations ofsuch person shall be in accordance with generally accepted professional and ethical business practices and shall agree in writing that as a minimum it will" in introductory provisions.
+Subsec. (b)(3)(F). Pub. L. 115–52, §206(2)(B)(i), (ii), redesignated subpar. (E) as (F) and substituted "Such person shall agree, at a minimum, to include in its request for accreditation a commitment to, at the time of accreditation, and at any time it is performing any review pursuant to this section" for "The operations of such person shall be in accordance with generally accepted professional and ethical business practices and shall agree in writing that as a minimum it will" in introductory provisions.
 
 Subsec. (c). Pub. L. 115–52, §206(3), substituted "2022' for "2017".
 

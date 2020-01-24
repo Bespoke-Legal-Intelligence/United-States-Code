@@ -16,9 +16,9 @@
 
 &emsp;(5) For a case commenced under chapter 12 of title 11, $200.
 
-&emsp;(6)(A) Except as provided in subparagraph (B), in addition to the filing fee paid to the clerk, a quarterly fee shall be paid to the United States trustee, for deposit in the Treasury, in each case under chapter 11 of title 11 for each quarter (including any fraction thereof) until the case is converted or dismissed, whichever occurs first. The fee shall be $325 for each quarter in which disbursements total less than $15,000; $650 for each quarter in which disbursements total $15,000 or more but less than $75,000; $975 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,625 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,950 for each quarter in which disbursements total $225,000 or more but less than $300,000; $4,875 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $6,500 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $9,750 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $10,400 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $13,000 for each quarter in which disbursements total $5,000,000 or more but less than $15,000,000; $20,000 for each quarter in which disbursements total $15,000,000 or more but less than $30,000,000; $30,000 for each quarter in which disbursements total more than $30,000,000. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.
+&emsp;(6)(A) Except as provided in subparagraph (B), in addition to the filing fee paid to the clerk, a quarterly fee shall be paid to the United States trustee, for deposit in the Treasury, in each case under chapter 11 of title 11, other than under subchapter V, for each quarter (including any fraction thereof) until the case is converted or dismissed, whichever occurs first. The fee shall be $325 for each quarter in which disbursements total less than $15,000; $650 for each quarter in which disbursements total $15,000 or more but less than $75,000; $975 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,625 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,950 for each quarter in which disbursements total $225,000 or more but less than $300,000; $4,875 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $6,500 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $9,750 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $10,400 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $13,000 for each quarter in which disbursements total $5,000,000 or more but less than $15,000,000; $20,000 for each quarter in which disbursements total $15,000,000 or more but less than $30,000,000; $30,000 for each quarter in which disbursements total more than $30,000,000. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.
 
-&emsp;(B) During each of fiscal years 2018 through 2022, if the balance in the United States Trustee System Fund as of September 30 of the most recent full fiscal year is less than $200,000,000, the quarterly fee payable for a quarter in which disbursements equal or exceed $1,000,000 shall be the lesser of 1 percent of such disbursements or $250,000.
+&emsp;(B) During each of fiscal years 2018 through 2022, if the balance in the United States Trustee System Fund as of September 30 of the most recent full fiscal year is less than $200,000,000,<sup>1</sup> the quarterly fee payable for a quarter in which disbursements equal or exceed $1,000,000 shall be the lesser of 1 percent of such disbursements or $250,000.
 
 &emsp;(7) In districts that are not part of a United States trustee region as defined in section 581 of this title, the Judicial Conference of the United States may require the debtor in a case under chapter 11 of title 11 to pay fees equal to those imposed by paragraph (6) of this subsection. Such fees shall be deposited as offsetting receipts to the fund established under section 1931 of this title and shall remain available until expended.
 
@@ -26,7 +26,7 @@
 
 (b) The Judicial Conference of the United States may prescribe additional fees in cases under title 11 of the same kind as the Judicial Conference prescribes under section 1914(b) of this title.
 
-(c) Upon the filing of any separate or joint notice of appeal or application for appeal or uponthe receipt of any order allowing, or notice of the allowance of, an appeal or a writ of certiorari $5 shall be paid to the clerk of the court, by the appellant or petitioner.
+(c) Upon the filing of any separate or joint notice of appeal or application for appeal or upon the receipt of any order allowing, or notice of the allowance of, an appeal or a writ of certiorari $5 shall be paid to the clerk of the court, by the appellant or petitioner.
 
 (d) Whenever any case or proceeding is dismissed in any bankruptcy court for want of jurisdiction, such court may order the payment of just costs.
 
@@ -38,7 +38,7 @@
 
 (3) This subsection does not restrict the district court or the bankruptcy court from waiving, in accordance with Judicial Conference policy, fees prescribed under this section for other debtors and creditors.
 
-(Added Pub. L. 95–598, title II, §246(a), Nov. 6, 1978, 92 Stat. 2671; amended Pub. L. 98–353, title I, §111(a), (b), July 10, 1984, 98 Stat. 342; Pub. L. 99–500, §101(b) \[title IV, §407(b)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(b)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; Pub. L. 99–554, title I, §§117, 144(f), Oct. 27, 1986, 100 Stat. 3095, 3097; Pub. L. 101–162, title IV, §406(a), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(a), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(1), (b)(1), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20; Pub. L. 106–518, title I, §§103–105, Nov. 13, 2000, 114 Stat. 2411, 2412; Pub. L. 109–8, title III, §325(a), title IV, §418, Apr. 20, 2005, 119 Stat. 98, 108; Pub. L. 109–13, div. A, title VI, §6058(a), May 11, 2005, 119 Stat. 297; Pub. L. 109–171, title X, §10101(a), Feb. 8, 2006, 120 Stat. 184; Pub. L. 110–161, div. B, title II, §213(a), Dec. 26, 2007, 121 Stat. 1914; Pub. L. 112–121, §3(a), May 25, 2012, 126 Stat. 348; Pub. L. 115–72, div. B, §1004(a), Oct. 26, 2017, 131 Stat. 1232.)
+(Added Pub. L. 95–598, title II, §246(a), Nov. 6, 1978, 92 Stat. 2671; amended Pub. L. 98–353, title I, §111(a), (b), July 10, 1984, 98 Stat. 342; Pub. L. 99–500, §101(b) \[title IV, §407(b)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(b)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; Pub. L. 99–554, title I, §§117, 144(f), Oct. 27, 1986, 100 Stat. 3095, 3097; Pub. L. 101–162, title IV, §406(a), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(a), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(1), (b)(1), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20; Pub. L. 106–518, title I, §§103–105, Nov. 13, 2000, 114 Stat. 2411, 2412; Pub. L. 109–8, title III, §325(a), title IV, §418, Apr. 20, 2005, 119 Stat. 98, 108; Pub. L. 109–13, div. A, title VI, §6058(a), May 11, 2005, 119 Stat. 297; Pub. L. 109–171, title X, §10101(a), Feb. 8, 2006, 120 Stat. 184; Pub. L. 110–161, div. B, title II, §213(a), Dec. 26, 2007, 121 Stat. 1914; Pub. L. 112–121, §3(a), May 25, 2012, 126 Stat. 348; Pub. L. 115–72, div. B, §1004(a), Oct. 26, 2017, 131 Stat. 1232; Pub. L. 116–54, §4(b)(3), Aug. 23, 2019, 133 Stat. 1087.)
 
 #### References in Text
 
@@ -51,6 +51,8 @@ Amendment by Pub. L. 104–91 is based on section 111(a) of H.R. 2076, One Hundr
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(6)(A). Pub. L. 116–54 inserted ", other than under subchapter V," after "chapter 11 of title 11".
 
 <b>2017</b>—Subsec. (a)(6). Pub. L. 115–72 designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B), in addition" for "In addition", and added subpar. (B).
 
@@ -80,7 +82,7 @@ Subsec. (a)(7). Pub. L. 106–518, §105, which directed amendment of subsec. (a
 
 <b>1996</b>—Subsec. (a)(3). Pub. L. 104–208 inserted a dollar sign before "800".
 
-Subsec. (a)(6). Pub. L. 104–208 substituted "$500 for each quarter in which disbursements total $15,000 or more but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than$2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed." for "$500 for each quarter in which disbursements total $15,000 or more but less than $150,000; $1,250 or each quarter in which disbursements total $150,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $3,000,000; $5,000 for each quarter in which disbursements total $3,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed."
+Subsec. (a)(6). Pub. L. 104–208 substituted "$500 for each quarter in which disbursements total $15,000 or more but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed." for "$500 for each quarter in which disbursements total $15,000 or more but less than $150,000; $1,250 or each quarter in which disbursements total $150,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $3,000,000; $5,000 for each quarter in which disbursements total $3,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed."
 
 Pub. L. 104–91, as amended by Pub. L. 104–99, struck out "a plan is confirmed or" before "the case is converted".
 
@@ -107,6 +109,10 @@ Subsec. (a)(5), (6). Pub. L. 99–554, §117(4), added pars. (5) and (6).
 <b>1984</b>—Pub. L. 98–353, §111(b), substituted "fees" for "courts" in section catchline.
 
 Subsecs. (a), (c), (e). Pub. L. 98–353, §111(a), substituted "clerk of the court" for "clerk of the bankruptcy court".
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under section 101 of Title 11, Bankruptcy.
 
 #### Effective Date of 2017 Amendment
 
@@ -160,9 +166,13 @@ Amendment by Pub. L. 98–353 effective July 10, 1984, see section 122(a) of Pub
 
 Section effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 
+#### Application of Subsection (a)(6)(B) to Quarterly Fees in Fiscal Years 2020 and 2021
+
+Pub. L. 116–93, div. B, title II, §219, Dec. 20, 2019, 133 Stat. 2415, provided that: "Section 1930(a)(6)(B) of title 28, United States Code, shall be applied for this fiscal year and next fiscal year by substituting '$300,000,000' for '$200,000,000'."
+
 #### Use of Increased Receipts
 
-Pub. L. 109–8, title III, §325(e), Apr. 20, 2005, 119 Stat. 99, which provided for the disposition of certain fees collected under section 1930 of this title during the 5-year period beginning on Apr. 20, 2005, greater than the amount that would have been collected had the amendment by Pub. L. 109–8, §325(a), not been made, was omitted in the general amendment of section 325 of Pub. L. 109–8 by Pub. L. 109–13, div. A, title VI, §6058,May 11, 2005, 119 Stat. 297, effective immediately after the enactment of Pub. L. 109–8, Apr. 20, 2005.
+Pub. L. 109–8, title III, §325(e), Apr. 20, 2005, 119 Stat. 99, which provided for the disposition of certain fees collected under section 1930 of this title during the 5-year period beginning on Apr. 20, 2005, greater than the amount that would have been collected had the amendment by Pub. L. 109–8, §325(a), not been made, was omitted in the general amendment of section 325 of Pub. L. 109–8 by Pub. L. 109–13, div. A, title VI, §6058, May 11, 2005, 119 Stat. 297, effective immediately after the enactment of Pub. L. 109–8, Apr. 20, 2005.
 
 #### Accrual and Payment of Quarterly Fees in Chapter 11 Cases After Jan. 27, 1996; Confirmation Status of Plans
 
@@ -170,31 +180,7 @@ Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 10, as amended by P
 
 #### Report on Bankruptcy Fees
 
-Pub. L. 103–121, title I, §111(d), Oct. 27, 1993, 107 Stat. 1165, provided that:
-
-"(1)
-
-Report required.—Not later than March 31, 1998, the Judicial Conference of the United States shall submit to the Committees on the Judiciary of the House of Representatives and the Senate, a report relating to the bankruptcy fee system and the impact of such system on various participants in bankruptcy cases.
-
-"(2)
-
-Contents of report.—Such report shall include—
-
-&emsp;"(A)(i) an estimate of the costs and benefits that would result from waiving bankruptcy fees payable by debtors who are individuals, and
-
-&emsp;"(ii) recommendations regarding various revenue sources to offset the net cost of waiving such fees; and
-
-&emsp;"(B)(i) an evaluation of the effects that would result in cases under chapters 11 and 13 of title 11, United States Code, from using a graduated bankruptcy fee system based on assets, liabilities, or both of the debtor, and
-
-&emsp;"(ii) recommendations regarding various methods to implement such a graduated bankruptcy fee system.
-
-"(3)
-
-Waiver of fees in selected districts.—For purposes of carrying out paragraphs (1) and (2), the Judicial Conference of the United States shall carry out in not more than six judicial districts, throughout the 3-year period beginning on October 1, 1994, a program under which fees payable under section 1930 of title 28, United States Code, may be waived in cases under chapter 7 of title 11, United States Code, for debtors who are individuals unable to pay such fees in installments.
-
-"(4)
-
-Study of graduated fee system.—For purposes of carrying out paragraphs (1) and (2), the Judicial Conference of the United States shall carry out, in not fewer than six judicial districts, a study to estimate the results that would occur in cases under chapters 11 and 13 of title 11, United States Code, if filing fees payable under section 1930 of title 28, United States Code, were paid on a graduated scale based on assets, liabilities, or both of the debtor."
+Pub. L. 103–121, title I, §111(d), Oct. 27, 1993, 107 Stat. 1165, provided that not later than Mar. 31, 1998, the Judicial Conference of the United States would submit to Congress a report, with specified contents, waiver of fees in selected districts, and study of graduated fee systems, relating to the bankruptcy fee system and the impact of such system on various participants in bankruptcy cases.
 
 #### Court Fees for Electronic Access to Information
 
@@ -207,4 +193,6 @@ Pub. L. 101–162, title IV, §403, Nov. 21, 1989, 103 Stat. 1013, provided that
 #### Collection and Disposition of Fees in Bankruptcy Cases
 
 Pub. L. 101–162, title IV, §404(a), Nov. 21, 1989, 103 Stat. 1013, provided that: "For fiscal year 1990 and hereafter, such fees as shall be collected for the preparation and mailing of notices in bankruptcy cases as prescribed by the Judicial Conference of the United States pursuant to 28 U.S.C. 1930(b) shall be deposited to the 'Courts of Appeals, District Courts, and Other Judicial Services, Salaries and Expenses' appropriation to be used for salaries and other expenses incurred in providing these services."
+
+<i><sup>1</sup></i><i> See Application of Subsection (a)(6)(B) to Quarterly Fees in Fiscal Years 2020 and 2021 note below.</i>
 

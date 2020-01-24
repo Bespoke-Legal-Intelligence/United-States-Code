@@ -46,9 +46,9 @@ National Aviation Research Plan.—(1) The Administrator of the Federal Aviation
 
 (B) The plan shall—
 
-&emsp;(i) provide estimates by year of the schedule, cost, and work force levels for each active and planned major research and development project under sections 40119,<sup>1</sup> 44504, 44505, 44507, 44509, 44511–44513, and 44912 of this title, including activities carried out under cooperative agreements with other Federal departments and agencies;
+&emsp;(i) provide estimates by year of the schedule, cost, and work force levels for each active and planned major research and development project under sections 40119,<sup>1</sup> 44504, 44505, 44507, 44509, 44511–44513, and 44912 of this title, including activities carried out under cooperativeagreements with other Federal departments and agencies;
 
-&emsp;(ii) specify the goals and the priorities for allocation of resources among the major categories of research and development activities,including the rationale for the priorities identified;
+&emsp;(ii) specify the goals and the priorities for allocation of resources among the major categories of research and development activities, including the rationale for the priorities identified;
 
 &emsp;(iii) identify the allocation of resources among long-term research, near-term research, and development activities;
 
@@ -136,11 +136,11 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Consolidation and Realignment of FAA Services and Facilities
 

@@ -6,15 +6,11 @@ Definitions.—In this chapter:
 
 &emsp;(1)
 
-Commercial item.—The term "commercial item" has the meaning provided the term by section 103 of this title.
+Cost or pricing data.—The term "cost or pricing data" means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification) or, if applicable consistent with section 3506(a)(2) of this title, another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. The term does not include information that is judgmental, but does include factual information from which a judgment was derived.
 
 &emsp;(2)
 
-Cost or pricing data.—The term "cost or pricing data" means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification) or, if applicable consistent with section 3506(a)(2) of this title, another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. The term does not include information that is judgmental, but does include factual information from which a judgment was derived.
-
-&emsp;(3)
-
-Subcontract.—The term "subcontract" includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or a subcontractor.
+Subcontract.—The term "subcontract" includes a transfer of commercial products or commercial services between divisions, subsidiaries, or affiliates of a contractor or a subcontractor.
 
 (b)
 
@@ -22,37 +18,17 @@ Regulations.—
 
 &emsp;(1)
 
-Minimizing abuse of commercial services item authority.—The Federal Acquisition Regulation shall ensure that services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, may be treated as commercial items for purposes of this chapter only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for the services.
+Minimizing abuse of commercial services authority.—The Federal Acquisition Regulation shall ensure that services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, may be treated as commercial services for purposes of this chapter only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for the services.
 
 &emsp;(2)
 
 Information to submit.—To the extent necessary to make a determination under paragraph (1), the contracting officer may request the offeror to submit—
 
-&emsp;&emsp;(A) prices paid for the same or similar commercial items under comparable terms and conditions by both government and commercial customers; and
+&emsp;&emsp;(A) prices paid for the same or similar commercial services under comparable terms and conditions by both government and commercial customers; and
 
-&emsp;&emsp;(B) if the contracting officer determines that the information described in subparagraph (A) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost,including information on labor costs, material costs, and overhead rates.
+&emsp;&emsp;(B) if the contracting officer determines that the information described in subparagraph (A) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3764; Pub. L. 115–232, div. A, title VIII, §836(b)(11), Aug. 13, 2018, 132 Stat. 1863.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(11), (h), Aug. 13, 2018, 132 Stat. 1863, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)—</i>
-
-<i>(A) by striking paragraph (1);</i>
-
-<i>(B) by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively; and</i>
-
-<i>(C) in paragraph (2) (as so redesignated), by striking "commercial items" and inserting "commercial products or commercial services"; and</i>
-
-<i>(2) in subsection (b)—</i>
-
-<i>(A) in the heading for paragraph (1), by striking "item"; and</i>
-
-<i>(B) in paragraphs (1) and (2)(A), by striking "commercial items" and inserting "commercial services".</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes
 

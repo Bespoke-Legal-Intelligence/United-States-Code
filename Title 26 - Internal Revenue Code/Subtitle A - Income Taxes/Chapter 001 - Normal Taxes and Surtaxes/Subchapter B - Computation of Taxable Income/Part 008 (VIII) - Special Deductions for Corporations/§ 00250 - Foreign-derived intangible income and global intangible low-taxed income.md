@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (ii) Services
 
-&emsp;&emsp;&emsp;If a taxpayer provides services to another person (other than a related party) located within the United States, such services shall not be treated as describedin paragraph (4)(B) even if such other person uses such services in providing services which are so described.
+&emsp;&emsp;&emsp;If a taxpayer provides services to another person (other than a related party) located within the United States, such services shall not be treated as described in paragraph (4)(B) even if such other person uses such services in providing services which are so described.
 
 #### (C) Special rules with respect to related party transactions
 

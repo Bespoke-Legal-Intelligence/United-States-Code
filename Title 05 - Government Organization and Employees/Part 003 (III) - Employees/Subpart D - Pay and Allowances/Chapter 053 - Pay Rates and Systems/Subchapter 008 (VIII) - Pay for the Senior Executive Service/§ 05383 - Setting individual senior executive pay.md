@@ -26,7 +26,7 @@
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–136, §1125(a)(3)(A), substituted "which of the rates within a range established under section 5382" for "which of the rates established under section 5382 of this title".
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §1125(a)(3)(A), substituted "which of the rates within a range establishedunder section 5382" for "which of the rates established under section 5382 of this title".
 
 Subsec. (c). Pub. L. 108–136, §1125(a)(3)(B), substituted "as provided in regulations prescribed by the Office under section 5385" for "for any pay adjustment under section 5382 of this title".
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 108–136 effective on first day of first pay period beginn
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, seesection 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
+Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
 
 #### Effective Date
 

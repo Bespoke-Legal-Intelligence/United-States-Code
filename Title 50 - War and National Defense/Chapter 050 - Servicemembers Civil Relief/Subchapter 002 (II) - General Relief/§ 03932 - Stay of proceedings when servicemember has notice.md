@@ -34,7 +34,7 @@ An application for a stay under this section does not constitute an appearance f
 
 #### (2) Appointment of counsel when additional stay refused
 
-&emsp;If the court refuses to grant an additional stay of proceedings under paragraph (1), thecourt shall appoint counsel to represent the servicemember in the action or proceeding.
+&emsp;If the court refuses to grant an additional stay of proceedings under paragraph (1), the court shall appoint counsel to represent the servicemember in the action or proceeding.
 
 #### (e) Coordination with section 3931
 

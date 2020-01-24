@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(xiii) evaluating the impact and outcomes of the prosecution and sentencing of juveniles as adults;
 
-&emsp;&emsp;(xiv) successful and cost-effective efforts by States and units of local government to reduce recidivism through policies that provide for consideration of appropriate alternative sanctions to incarceration of youth facing nonviolent charges, while ensuring that public safety is preserved;
+&emsp;&emsp;(xiv) successful and cost-effective efforts by States and units of local government toreduce recidivism through policies that provide for consideration of appropriate alternative sanctions to incarceration of youth facing nonviolent charges, while ensuring that public safety is preserved;
 
 &emsp;&emsp;(xvi) <sup>1</sup> evaluating services, treatment, and aftercare placement of juveniles who were under the care of the State child protection system before their placement in the juvenile justice system;
 
@@ -100,7 +100,7 @@ The Administrator may—
 
 &emsp;(2) establish and operate, directly or by contract, a clearinghouse and information center for the preparation, publication, and dissemination of information relating to juvenile delinquency, including State and local prevention and treatment programs, plans, resources, and training and technical assistance programs; and
 
-&emsp;(3) make grants and contracts with public and private agencies, institutions, and organizations, for the purpose of disseminating information to representatives and personnel of public and private agencies, including practitioners in juvenile justice, law enforcement, the courts, corrections, schools, and related services, in the establishment, implementation, and operation of projects and activities for which financial assistance is provided under this subchapter.
+&emsp;(3) make grants and contracts with public and private agencies, institutions, and organizations, for the purpose of disseminating information to representatives and personnel of public and private agencies, including practitioners in juvenile justice, law enforcement, the courts, corrections, schools, and relatedservices, in the establishment, implementation, and operation of projects and activities for which financial assistance is provided under this subchapter.
 
 #### (f) National recidivism measure
 

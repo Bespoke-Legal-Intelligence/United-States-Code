@@ -192,7 +192,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 #### (E) Minority business
 
-&emsp;&emsp;The term "minority business" includes HUBZone small business concerns (as defined in section 632(p) of this title).
+&emsp;&emsp;The term "minority business" includes HUBZone small business concerns (as defined in section 632(p) <sup>1</sup> of this title).
 
 #### (F) Minority individual
 
@@ -207,6 +207,10 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 &emsp;&emsp;The term "State educational agency" has the meaning given the term in section 7801 of title 20.
 
 (Pub. L. 96–480, §5, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–382, §2, Aug. 14, 1986, 100 Stat. 811; Pub. L. 99–502, §9(b)(3)–(5), (e)(2)(A), Oct. 20, 1986, 100 Stat. 1795, 1797; Pub. L. 100–519, title II, §201(a)–(c), (d)(2), Oct. 24, 1988, 102 Stat. 2593, 2594; Pub. L. 102–245, title III, §306, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §9, Oct. 30, 1998, 112 Stat. 2938; Pub. L. 106–404, §7(3), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 110–69, title III, §3002(a), Aug. 9, 2007, 121 Stat. 586; Pub. L. 110–315, title IX, §971, Aug. 14, 2008, 122 Stat. 3473; Pub. L. 114–95, title IX, §9215(sss), Dec. 10, 2015, 129 Stat. 2190.)
+
+#### References in Text
+
+Section 632(p) of this title, referred to in subsec. (c)(8)(E), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, §1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
 
 #### Amendments
 
@@ -254,7 +258,7 @@ Subsec. (d)(1). Pub. L. 100–519, §201(d)(2), substituted "and the Under Secre
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–502, §9(b)(3), substituted "Office of Productivity, Technology, and Innovation" for "Office of Industrial Technology".
 
-Subsec. (b). Pub. L. 99–502, §9(b)(4), substituted "an Assistant Secretary for Productivity, Technology, and Innovation" for "a Director of the Office, who shall be compensated at the rate provided for level V of the Executive Schedule in section 5316 of title 5".
+Subsec. (b). Pub. L. 99–502, §9(b)(4), substituted "an Assistant Secretary for Productivity, Technology, and Innovation" for "a Director of the Office, who shall becompensated at the rate provided for level V of the Executive Schedule in section 5316 of title 5".
 
 Subsec. (c). Pub. L. 99–502, §9(b)(5)(A), substituted "the Assistant Secretary" for "the Director" in provisions preceding par. (1).
 
@@ -264,7 +268,7 @@ Subsec. (c)(7) to (10). Pub. L. 99–502, §9(b)(5)(B), (C), added pars. (7) and
 
 Subsec. (d). Pub. L. 99–382, §2(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 99–502, §9(e)(2)(A), which directed the insertion of "(as then in effect)" in subsec. (d), wasexecuted to subsec. (e) to reflect the probable intent of Congress in view of the redesignation of subsec. (d) as (e) by Pub. L. 99–382.
+Subsec. (e). Pub. L. 99–502, §9(e)(2)(A), which directed the insertion of "(as then in effect)" in subsec. (d), was executed to subsec. (e) to reflect the probable intent of Congress in view of the redesignation of subsec. (d) as (e) by Pub. L. 99–382.
 
 Pub. L. 99–382, §2(1), redesignated subsec. (d) as (e).
 
@@ -283,4 +287,6 @@ Pub. L. 100–519, title II, §201(e), Oct. 24, 1988, 102 Stat. 2594, provided t
 #### Commercial Space Programs
 
 Pub. L. 100–519, title II, §201(f), as added by Pub. L. 100–685, title II, §219, Nov. 17, 1988, 102 Stat. 4095, provided that: "Nothing in this section \[amending this section, sections 3703 and 3710 of this title, and section 5314 of Title 5, Government Organization and Employees, and enacting provisions formerly set out as a note above\] authorizes the Department to establish an Office of Commercial Space Programs or to place such an office into the Technology Administration without prior authorization of the Congress."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

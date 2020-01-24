@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;In any academic year that an eligible recipient does not expend all of the amounts the eligible recipient is allocated for such year under section 2351 or 2352 of this title, such eligible recipient shall return any unexpendedamounts to the eligible agency to be reallocated under section 2351 or 2352 of this title, as appropriate.
+&emsp;In any academic year that an eligible recipient does not expend all of the amounts the eligible recipient is allocated for such year under section 2351 or 2352 of this title, such eligible recipient shall return any unexpended amounts to the eligible agency to be reallocated under section 2351 or 2352 of this title, as appropriate.
 
 #### (2) Redistribution of amounts returned late in an academic year
 
@@ -28,21 +28,17 @@
 
 Nothing in section 2351 or 2352 of this title shall be construed—
 
-&emsp;(1) to prohibit a local educational agency or a consortium thereof that receives assistance under section 2351 of this title, from working with an eligible institution or consortium thereof that receives assistance under section 2352 of this title, to carry out career and technical education programs at the secondary level in accordance with this subchapter;
+&emsp;(1) to prohibit a local educational agency or a consortium thereof that receives assistance under section 2351 of this title, from working with an eligible institution or consortium thereof that receives assistance under section 2352 of this title, to carry out career and technical education programs or programs of study at the secondary level in accordance with this subchapter;
 
-&emsp;(2) to prohibit an eligible institution or consortium thereof that receives assistance under section 2352 of this title, from working with a local educational agency or consortium thereof that receives assistance under section 2351 of this title, to carry out postsecondary and adult career and technical education programs in accordance with this subchapter; or
+&emsp;(2) to prohibit an eligible institution or consortium thereof that receives assistance under section 2352 of this title, from working with a local educational agency or consortium thereof that receives assistance under section 2351 of this title, to carry out postsecondary and adult career and technical education programs or programs of study in accordance with this subchapter; or
 
-&emsp;(3) to require a charter school, that provides career and technical education programs and is considered a local educational agency under State law, to jointly establish the charter school's eligibility for assistance under this subchapter unless the charter school is explicitly permitted to do so under the State's charter school statute.
+&emsp;(3) to require a charter school, that provides career and technical education programs or programs of study and is considered a local educational agency under State law, to jointly establish the charter school's eligibility for assistance under this subchapter unless the charter school is explicitly permitted to do so under the State's charter school statute.
 
 #### (d) Consistent application
 
-For purposes of this section, the eligible agency shall provide funds to charter schools offering career and technical education programs in the same manner as the eligible agency provides those funds to other schools. Such career and technical education programs within a charter school shall be of sufficient size, scope, and quality to be effective.
+For purposes of this section, the eligible agency shall provide funds to charter schools offering career and technical education programs or programs of study in the same manner as the eligible agency provides those funds to other schools. Such career and technical education programs or programs of study within a charter school shall be of sufficient size, scope, and quality to be effective.
 
 (Pub. L. 88–210, title I, §133, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 731; amended Pub. L. 115–224, title I, §132, July 31, 2018, 132 Stat. 1612.)
-
-#### Amendment of Subsections (c) and (d)
-
-<i>Pub. L. 115–224, §4, title I, §132, July 31, 2018, 132 Stat. 1564, 1612, provided that, effective July 1, 2019, this section is amended by inserting "or programs of study" after "career and technical education programs" wherever appearing. See 2018 Amendment note below.</i>
 
 #### Prior Provisions
 

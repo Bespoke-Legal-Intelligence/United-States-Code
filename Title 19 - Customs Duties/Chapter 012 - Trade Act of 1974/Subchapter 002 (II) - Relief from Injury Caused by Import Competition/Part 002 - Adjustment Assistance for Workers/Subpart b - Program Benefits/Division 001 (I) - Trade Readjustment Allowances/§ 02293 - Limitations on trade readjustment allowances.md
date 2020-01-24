@@ -24,7 +24,7 @@ Amounts payable to an adversely affected worker under this division shall be sub
 
 #### (c) Special adjustments for benefit years ending with extended benefit periods
 
-Notwithstanding any other provision of this chapter or other Federal law, if the benefit year of a worker ends within an extended benefit period, the number of weeks of extended benefits that such worker would, but for this subsection, be entitled to in that extended benefit period shall be reduced (but not below zero) by the number of weeks for which the worker was entitled, during such benefit year, to trade readjustment allowances under this division. For purposes of this paragraph, the terms "benefit year" and "extended benefit period" shall have the same respective meanings given to them in the Federal-State Extended Unemployment Compensation Act of 1970.
+Notwithstanding any other provision of this chapter or other Federal law, if the benefit yearof a worker ends within an extended benefit period, the number of weeks of extended benefits that such worker would, but for this subsection, be entitled to in that extended benefit period shall be reduced (but not below zero) by the number of weeks for which the worker was entitled, during such benefit year, to trade readjustment allowances under this division. For purposes of this paragraph, the terms "benefit year" and "extended benefit period" shall have the same respective meanings given to them in the Federal-State Extended Unemployment Compensation Act of 1970.
 
 #### (d) Week during which worker received on-the-job training
 
@@ -74,7 +74,7 @@ If the Secretary determines that there is justifiable cause, the Secretary may e
 
 &emsp;&emsp;(A) serves on active duty for a period of more than 30 days under a call or order to active duty of more than 30 days; or
 
-&emsp;&emsp;(B) in the case of a member of the Army National Guard of the United States or AirNational Guard of the United States, performs full-time National Guard duty under section 502(f) of title 32 for 30 consecutive days or more when authorized by the President or the Secretary of Defense for the purpose of responding to a national emergency declared by the President and supported by Federal funds.
+&emsp;&emsp;(B) in the case of a member of the Army National Guard of the United States or Air National Guard of the United States, performs full-time National Guard duty under section 502(f) of title 32 for 30 consecutive days or more when authorized by the President or the Secretary of Defense for the purpose of responding to a national emergency declared by the President and supported by Federal funds.
 
 (Pub. L. 93–618, title II, §233, Jan. 3, 1975, 88 Stat. 2022; Pub. L. 97–35, title XXV, §2505(a), Aug. 13, 1981, 95 Stat. 883; Pub. L. 98–369, div. B, title VI, §2671, July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13003(d), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §§1423(c), 1425(a), Aug. 23, 1988, 102 Stat. 1246, 1250; Pub. L. 106–36, title I, §1001(a)(1), June 25, 1999, 113 Stat. 130; Pub. L. 107–210, div. A, title I, §116, Aug. 6, 2002, 116 Stat. 941; Pub. L. 111–5, div. B, title I, §§1821(c)(2), 1823, 1824, 1829(b), Feb. 17, 2009, 123 Stat. 377, 378, 383; Pub. L. 112–40, title II, §§201(b), (c), 213, Oct. 21, 2011, 125 Stat. 403, 404; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
@@ -86,7 +86,7 @@ If the Secretary determines that there is justifiable cause, the Secretary may e
 
 This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
-The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (c), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see Tables.
+The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (c), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which isclassified generally as a note under section 3304 of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -116,7 +116,7 @@ Subsec. (f). Pub. L. 111–5, §§1821(c)(2)(B), 1829(b)(2), 1893, temporarily r
 
 Subsecs. (g) to (i). Pub. L. 111–5, §§1824, 1893, temporarily added subsecs. (g) to (i). Former subsec. (g) temporarily redesignated (f). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-<b>2002</b>—Subsec. (a)(2). Pub. L. 107–210, §116(a)(1), in introductory provisions inserted "(or, in the case of an adversely affected worker who requires a program ofremedial education (as described in section 2296(a)(5)(D) of this title) in order to complete training approved for the worker under section 2296 of this title, the 130-week period)" after "104-week period".
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–210, §116(a)(1), in introductory provisions inserted "(or, in the case of an adversely affected worker who requires a program of remedial education (as described in section 2296(a)(5)(D) of this title) in order to complete training approved for the worker under section 2296 of this title, the 130-week period)" after "104-week period".
 
 Subsec. (a)(3). Pub. L. 107–210, §116(a)(2), substituted "52" for "26" wherever appearing.
 
@@ -190,7 +190,7 @@ No trade adjustment assistance, vouchers, allowances, or other payments or benef
 
 Pub. L. 100–418, title I, §1425(b), Aug. 23, 1988, 102 Stat. 1250, provided that:
 
-"(1) The provisions of subsections (a)(2) and (b) of section 233 of the Trade Act of 1974 \[19 U.S.C. 2293(a)(2), (b)\]shall not apply with respect to any worker who became totally separated from adversely affected employment (within the meaning of section 247 of such Act \[19 U.S.C. 2319\]) during the period that began on August 13, 1981, and ended on April 7, 1986.
+"(1) The provisions of subsections (a)(2) and (b) of section 233 of the Trade Act of 1974 \[19 U.S.C. 2293(a)(2), (b)\] shall not apply with respect to any worker who became totally separated from adversely affected employment (within the meaning of section 247 of such Act \[19 U.S.C. 2319\]) during the period that began on August 13, 1981, and ended on April 7, 1986.
 
 "(2)(A) Any worker who is otherwise eligible for payment of a trade readjustment allowance under part I of subchapter B of chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2291 et seq.\] by reason of paragraph (1) of this subsection may receive payments of such allowance only if such worker—
 

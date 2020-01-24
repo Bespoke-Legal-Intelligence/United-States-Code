@@ -234,31 +234,9 @@ Taxable gross weight.—For purposes of this subsection, the term 'taxable gross
 
 #### Studies Relating to Heavy Vehicle Use Tax
 
-Pub. L. 98–369, div. A, title IX, subtitle D, part I, July 18, 1984, 98 Stat. 1010, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
-
-#### "SEC. 931. WHETHER HEAVY VEHICLES BEAR FAIR SHARE OF HIGHWAY COSTS.
-
-"The Secretary of Transportation shall conduct a study of whether highway motor vehicles with taxable gross weights of 80,000 pounds or more bear their fair share of the costs of the highway system.
-
-#### "SEC. 932. TRANS-BORDER TRUCKING.
-
-"The Secretary of Transportation shall conduct a study to determine the significance of the tax imposed by section 4481 of the Internal Revenue Code of 1986 (relating to tax on use of certain vehicles) on trans-border trucking operations.
-
-#### "SEC. 933. WEIGHT-DISTANCE TAXES.
-
-"The Secretary of Transportation shall conduct a study to evaluate the feasibility and ability of weight-distance truck taxes to provide the greatest degree of equity among highway users, to ease the costs of compliance of such taxes, and to improve the efficiency by which such taxes might be administered. Such study shall also include an evaluation of the evasion potential for weight-distance taxes and an assessment of the benefits to interstate commerce of replacing all Federal truck taxes (other than fuel taxes) with a weight-distance tax.
-
-#### "SEC. 934. REPORTS, ETC.
-
-"(a)
-
-Consultation With Treasury.—Studies conducted under this part shall be conducted in consultation with the Secretary of the Treasury.
-
-"(b)
-
-Report.—Not later than October 1, 1987, the Secretary of Transportation shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on each study conducted under this part together with such recommendations as the Secretary may deem advisable."
+Pub. L. 98–369, div. A, title IX, subtitle D, part I, July 18, 1984, 98 Stat. 1010, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, would conduct a study of whether highway motor vehicles with taxable gross weights of 80,000 pounds or more bear their fair share of the costs of the highway system, a study to determine the significance of the tax imposed by this section (relating to tax on use of certain vehicles) on trans-border trucking operations, and a study to evaluate the feasibility and ability of weight-distance truck taxes to provide the greatest degree of equity among highway users, to ease the costs of compliance of such taxes, and to improve the efficiency by which such taxes might be administered, and submit to Congress a report of each study, together with any recommendations, by Oct. 1, 1987.
 
 #### Study of Alternatives to Tax on Use of Heavy Trucks
 
-Pub. L. 97–424, title V, §513(g), Jan. 6, 1983, 96 Stat. 2180, provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, conduct a study of alternatives to the tax on heavy vehicles imposed by section 4481(a) of the Internal Revenue Code, and plans for improving the collecting and enforcement of such tax and alternatives to such tax, such alternatives to include taxes based either singly or in suitable combinations on vehicle size or configuration; vehicle weight, both registered and actual operating weight; and distance traveled, and such plans for improving tax collection and enforcement to provide for Federal and State co-operation in such activities. The study was to be conducted in consultation with State officials, motor carriers, and other affected parties, and the Secretary of Transportation was to submit a report and recommendations to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than Jan. 1, 1985.
+Pub. L. 97–424, title V, §513(g), Jan. 6, 1983, 96 Stat. 2180, provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, conduct a study of alternatives to the tax on heavy vehicles imposed by section 4481(a) of the Internal Revenue Code, and plans for improving the collecting and enforcement of such tax and alternatives to such tax, such alternatives to include taxes based either singly or in suitable combinations on vehicle size or configuration; vehicle weight, both registered and actual operating weight; and distance traveled, and such plans forimproving tax collection and enforcement to provide for Federal and State co-operation in such activities. The study was to be conducted in consultation with State officials, motor carriers, and other affected parties, and the Secretary of Transportation was to submit a report and recommendations to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than Jan. 1, 1985.
 

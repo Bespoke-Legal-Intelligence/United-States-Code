@@ -20,7 +20,7 @@ Advertisement for Bids.—An advertisement for bids shall state—
 
 (c)
 
-Opening of Bids.—Bids required under this section shall be opened at the time and place stated in the advertisement for bids. All interested persons, including representatives of the press, shall be permitted to attend. The results of the bidding shall be publicly announced.
+Opening of Bids.—Bids required under this section shall be opened at the time and placestated in the advertisement for bids. All interested persons, including representatives of the press, shall be permitted to attend. The results of the bidding shall be publicly announced.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1666.)
 

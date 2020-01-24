@@ -160,7 +160,7 @@ Not less frequently than every 180 days, the Secretary, in coordination with the
 
 #### (5) Applicability of Federal Advisory Committee Act
 
-&emsp;Subsections (a)(1), (a)(3), and (b) of section 10 and sections 11, 13, and 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Emerging Technology and Research Advisory Committee.
+&emsp;Subsections (a)(1), (a)(3), and (b) of section 10 and sections 11, 13, and 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall notapply to the Emerging Technology and Research Advisory Committee.
 
 #### (6) Report
 

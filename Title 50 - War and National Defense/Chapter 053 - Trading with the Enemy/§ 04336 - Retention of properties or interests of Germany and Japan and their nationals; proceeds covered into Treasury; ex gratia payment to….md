@@ -10,7 +10,7 @@ The Attorney General shall cover into the Treasury, to the credit of miscellaneo
 
 &emsp;(1) which the Attorney General receives after August 23, 1988, or
 
-&emsp;(2) which the Attorney General received before that date and which, as of that date, the Attorney General had not covered into the Treasury for deposit in the War Claims Fund, other than any such sums which the Attorney General determines in his or her discretion are the subject matter of any judicial action or proceeding.
+&emsp;(2) which the Attorney General received before that date and which, as of that date, the Attorney General had not covered into theTreasury for deposit in the War Claims Fund, other than any such sums which the Attorney General determines in his or her discretion are the subject matter of any judicial action or proceeding.
 
 #### (c) Ex gratia payment to Government of Switzerland
 

@@ -122,7 +122,7 @@ Refunds.—The Administrator of the Transportation Security Administration may r
 
 (h)
 
-Exemptions.—The Administrator of the Transportation Security Administration may exempt from the passenger fee imposed under subsection (a)(1) any passenger enplaning at an airport in the United States that does not receive screening services under section 44901 for that segment of the trip for which the passenger does not receive screening.
+Exemptions.—The Administrator of the Transportation Security Administration may exempt from the passenger fee imposed undersubsection (a)(1) any passenger enplaning at an airport in the United States that does not receive screening services under section 44901 for that segment of the trip for which the passenger does not receive screening.
 
 (i)
 
@@ -222,7 +222,7 @@ Subsec. (d)(1). Pub. L. 113–67, §601(a)(2), struck out ", and may impose a f
 
 Subsec. (i). Pub. L. 113–67, §601(c), amended subsec. (i) generally. Prior to amendment, subsec. (i) related to the Checkpoint Screening Security Fund.
 
-<b>2007</b>—Subsec. (a)(2)(A), (B)(iv). Pub. L. 110–161, which directed amendment of subsec. (a)(2) "by striking the period in the last sentence of subparagraph (A) and the clause (iv) of subparagraph B and adding the following, 'except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: <i>Provided,</i> That such judicial review shall be pursuant to section 46110 of title 49, United States Code: <i>Provided further,</i> That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.' ", was executed by substituting the quoted language directed to be added for the period at the end of last sentence of subpar. (A) and for the period at the end of cl. (iv) of subpar. (B), to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (a)(2)(A), (B)(iv). Pub. L. 110–161, which directed amendment of subsec. (a)(2) "by striking the period in the last sentence of subparagraph (A) and the clause (iv) of subparagraph B and adding the following, 'except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: <i>Provided,</i> That such judicial review shall be pursuant to section 46110 of title 49, United States Code: <i>Provided further,</i> That such judicial reviewshall be limited only to additional amounts collected by the Secretary before October 1, 2007.' ", was executed by substituting the quoted language directed to be added for the period at the end of last sentence of subpar. (A) and for the period at the end of cl. (iv) of subpar. (B), to reflect the probable intent of Congress.
 
 Subsec. (d)(4). Pub. L. 110–53, §1601(1), inserted ", other than subsection (i)," before "except to".
 

@@ -1,6 +1,6 @@
 ### §1726. Postage collected unlawfully
 
-Whoever, being a postmaster or other person authorized to receive the postage of mail matter, fraudulently demands or receives any rateof postage or gratuity or reward other than is provided by law for the postage of such mail matter, shall be fined under this title or imprisoned not more than six months, or both.
+Whoever, being a postmaster or other person authorized to receive the postage of mail matter, fraudulently demands or receives any rate of postage or gratuity or reward other than is provided by law for the postage of such mail matter, shall be fined under this title or imprisoned not more than six months, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 784; Pub. L. 103–322, title XXXIII, §330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 

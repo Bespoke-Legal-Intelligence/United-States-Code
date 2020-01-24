@@ -34,7 +34,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 #### (c) Payment requirements; amount, etc.
 
-(1)(A)(i) Except as provided in subparagraphs (B) and (D) of this paragraph and in paragraphs (4) and (5), an employer shall pay the amount determined under section 1391 of this title, adjusted if appropriate first under section 1389 of this title and then under section 1386 of this title over the period of years necessary to amortize the amount in level annual payments determined under subparagraph (C), calculated as ifthe first payment were made on the first day of the plan year following the plan year in which the withdrawal occurs and as if each subsequent payment were made on the first day of each subsequent plan year. Actual payment shall commence in accordance with paragraph (2).
+(1)(A)(i) Except as provided in subparagraphs (B) and (D) of this paragraph and in paragraphs (4) and (5), an employer shall pay the amount determined under section 1391 of this title, adjusted if appropriate first under section 1389 of this title and then under section 1386 of this title over the period of years necessary to amortize the amount in level annual payments determined under subparagraph (C), calculated as if the first payment were made on the first day of the plan year following the plan year in which the withdrawal occurs and as if each subsequent payment were made on the first day of each subsequent plan year. Actual payment shall commence in accordance with paragraph (2).
 
 (ii) The determination of the amortization period described in clause (i) shall be based on the assumptions used for the most recent actuarial valuation for the plan.
 
@@ -60,7 +60,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 (iii) A plan may be amended to provide that for the first plan year ending on or after September 26, 1980, the number "5" shall be substituted for the number "10" each place it appears in clause (i) or clause (ii) (whichever is appropriate). If the plan is so amended, the number "5" shall be increased by one for each succeeding plan year until the number "10" is reached.
 
-(D) In any case in which a multiemployer plan terminates by the withdrawal of every employer from the plan, or in which substantially all the employers withdraw from a plan pursuant to an agreement or arrangement to withdraw from the plan—
+(D) In any case in which a multiemployer plan terminates by the withdrawal of every employerfrom the plan, or in which substantially all the employers withdraw from a plan pursuant to an agreement or arrangement to withdraw from the plan—
 
 &emsp;(i) the liability of each such employer who has withdrawn shall be determined (or redetermined) under this paragraph without regard to subparagraph (B), and
 

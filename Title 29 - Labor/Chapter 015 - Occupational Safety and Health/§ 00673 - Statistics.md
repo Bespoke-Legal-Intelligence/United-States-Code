@@ -28,7 +28,7 @@ On the basis of the records made and kept pursuant to section 657(c) of this tit
 
 #### (f) Supersedure of agreements between Department of Labor and States for collection of statistics
 
-Agreements between the Department of Labor and States pertaining to the collection of occupational safety and health statistics already in effect on the effective date of this chapter shall remain in effect until superseded by grants or contracts made under this chapter.
+Agreements between the Department of Labor and States pertaining to the collection of occupational safety and health statistics already ineffect on the effective date of this chapter shall remain in effect until superseded by grants or contracts made under this chapter.
 
 (Pub. L. 91–596, §24, Dec. 29, 1970, 84 Stat. 1614; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

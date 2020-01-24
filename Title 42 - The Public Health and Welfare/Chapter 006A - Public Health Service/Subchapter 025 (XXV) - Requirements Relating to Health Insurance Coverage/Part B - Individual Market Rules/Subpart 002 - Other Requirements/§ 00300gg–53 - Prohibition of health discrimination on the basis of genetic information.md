@@ -54,7 +54,7 @@
 
 &emsp;Notwithstanding paragraph (1), a health insurance issuer offering health insurance coverage in the individual market may request, but not require, that an individual or a family member of such individual undergo a genetic test if each of the following conditions is met:
 
-&emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
+&emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45,Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
 
 &emsp;&emsp;(B) The issuer clearly indicates to each individual, or in the case of a minor child, to the legal guardian of such child, to whom the request is made that—
 
@@ -106,7 +106,7 @@ Another section 2753 of act July 1, 1944, is classified to section 300gg–54 of
 
 #### Effective Date
 
-Section applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individualmarket, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as an Effective Date of 2008 Amendment note under section 300gg–21 of this title.
+Section applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as an Effective Date of 2008 Amendment note under section 300gg–21 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

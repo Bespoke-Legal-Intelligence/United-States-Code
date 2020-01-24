@@ -18,7 +18,7 @@
 
 &emsp;(8)(A) The "Federal percentage" for any State (other than Puerto Rico, the Virgin Islands, and Guam) shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 50 per centum as the square of the per capita income of such State bears to the square of the per capita income of the United States; except that the Federal percentage shall in no case be less than 50 per centum or more than 65 per centum.
 
-&emsp;(B) The Federal percentage for each State (other than Puerto Rico, the Virgin Islands, and Guam) shall be promulgated by the Secretary between October 1 and November 30 of each year, on the basis of the average per capita income of each State and of the United States for the three most recent calendar years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the four quarters in the period beginning October 1 next succeeding such promulgation: <i>Provided</i>, That the Secretary shall promulgate such percentages as soon as possible after August 28, 1958, which promulgation shall be conclusive for each of the eleven quarters in the period beginning October 1, 1958, and ending with the close of June 30, 1961.
+&emsp;(B) The Federal percentage for each State (other than Puerto Rico, the Virgin Islands, and Guam) shall be promulgated by the Secretary between October 1 and November 30 of each year, on the basis of the average per capita income of each State and of the United States for the three most recent calendar years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the four quarters in the period beginning October 1 next succeeding such promulgation: <i>Provided</i>,That the Secretary shall promulgate such percentages as soon as possible after August 28, 1958, which promulgation shall be conclusive for each of the eleven quarters in the period beginning October 1, 1958, and ending with the close of June 30, 1961.
 
 &emsp;(C) The term "United States" means (but only for purposes of subparagraphs (A) and (B) of this paragraph) the fifty States and the District of Columbia.
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(C) such practitioners have a person (who may himself be a practitioner)—
 
-&emsp;&emsp;&emsp;(i) who is in charge of, controls, manages, or supervises substantial aspects of the arrangement or operation for the delivery of health or medical services at such common physical location, other than thedirect furnishing of professional health care services by the practitioners to their patients; or
+&emsp;&emsp;&emsp;(i) who is in charge of, controls, manages, or supervises substantial aspects of the arrangement or operation for the delivery of health or medical services at such common physical location, other than the direct furnishing of professional health care services by the practitioners to their patients; or
 
 &emsp;&emsp;&emsp;(ii) who makes available to such practitioners the services of supporting staff who are not employees of such practitioners;
 
@@ -86,7 +86,7 @@ Subsec. (a)(8), (9). Pub. L. 98–369, §2663(e)(1), realigned margins of pars. 
 
 Pub. L. 97–248, §160(c), substituted "Guam, and the Northern Mariana Islands" for "American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands".
 
-<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §§2162(a)(1), 2352(b), substituted "American Samoa, the Northern Mariana Islands, and" for "American Samoa and" and inserted provisions that "State" when used in subchapter XIX of this chapter also includes the Northern Mariana Islands and when used in subchapter XX of this chapter also includes the Virgin Islands, American Samoa, theNorthern Mariana Islands, and the Trust Territory of the Pacific Islands.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §§2162(a)(1), 2352(b), substituted "American Samoa, the Northern Mariana Islands, and" for "American Samoa and" and inserted provisions that "State" when used in subchapter XIX of this chapter also includes the Northern Mariana Islands and when used in subchapter XX of this chapter also includes the Virgin Islands, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
 Subsec. (a)(9)(D). Pub. L. 97–35, §2193(c)(2), substituted "subchapters XVIII, and XIX" for "subchapters V, XVIII, and XIX".
 
@@ -236,7 +236,7 @@ Act Aug. 28, 1950, ch. 809, title IV, §403(b), 64 Stat. 559, provided that the 
 
 #### Effective Date of 1948 Amendment
 
-Act June 14, 1948, ch. 468, §2(b), 62 Stat. 438, provided that: "The amendment made by subsection (a) \[amending this section\] shall have the same effect as if included in the Social Security Act \[42 U.S.C. 301 et seq.\] on August 14, 1935, the date of its enactment, but shall not have the effect of voiding any (1) wage credits reported to the Bureau of Internal Revenue \[now Internal Revenue Service\] with respect to services performed prior to the enactment of this Act \[June 14, 1948\] or (2) wage credits with respect to services performed prior to the close of the first calendar quarter which begins after the date of the enactment of this Act in the case of individuals who have attained age sixty-five or who have died, prior to the close of such quarter, and with respect to whom prior to the date of enactment of this Act wage credits were established which would not have been established had the amendment made by subsection (a) been in effect on and after August 14, 1935."
+Act June 14, 1948, ch. 468, §2(b), 62 Stat. 438, provided that: "The amendment made by subsection (a) \[amending this section\] shall have the same effect as if included in the Social Security Act \[42 U.S.C. 301 et seq.\] on August 14, 1935, the date of its enactment, but shallnot have the effect of voiding any (1) wage credits reported to the Bureau of Internal Revenue \[now Internal Revenue Service\] with respect to services performed prior to the enactment of this Act \[June 14, 1948\] or (2) wage credits with respect to services performed prior to the close of the first calendar quarter which begins after the date of the enactment of this Act in the case of individuals who have attained age sixty-five or who have died, prior to the close of such quarter, and with respect to whom prior to the date of enactment of this Act wage credits were established which would not have been established had the amendment made by subsection (a) been in effect on and after August 14, 1935."
 
 #### Effective Date of 1946 Amendment
 
@@ -254,7 +254,7 @@ Provisions of the Internal Revenue Code of 1939 were generally repealed by secti
 
 #### Transfer of Functions
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfareand all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and Office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and Office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -296,7 +296,7 @@ Pub. L. 87–543, title II, §201, July 25, 1962, 76 Stat. 208, as amended by Pu
 
 Pub. L. 87–64, title III, §304, June 30, 1961, 75 Stat. 143, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: "As used in this title and title I, and in the provisions of the Social Security Act amended thereby \[see Short Title of 1961 Amendment note set out under section 1305 of this title\], the term 'Secretary', unless the context otherwise requires, means the Secretary of Health and Human Services."
 
-Pub. L. 86–778, title VII, §709, Sept. 13, 1960, 74 Stat. 997, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: "As used in this Act and the provisions of the Social Security Act amended by this Act \[see Short Title of 1960 Amendment note set out under section 1305 of this title\] the term 'Secretary', unless the context otherwise requires, means the Secretary of Health and Human Services."
+Pub. L. 86–778, title VII, §709, Sept. 13, 1960, 74 Stat. 997, as amended by Pub. L. 96–88, title V, §509(b), Oct.17, 1979, 93 Stat. 695, provided that: "As used in this Act and the provisions of the Social Security Act amended by this Act \[see Short Title of 1960 Amendment note set out under section 1305 of this title\] the term 'Secretary', unless the context otherwise requires, means the Secretary of Health and Human Services."
 
 Pub. L. 85–840, title VII, §702, Aug. 28, 1958, 72 Stat. 1056, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: "As used in the provisions of the Social Security Act amended by this Act \[see Short Title of 1958 Amendment note set out under section 1305 of this title\], the term "Secretary", unless the context otherwise requires, means the Secretary of Health and Human Services."
 

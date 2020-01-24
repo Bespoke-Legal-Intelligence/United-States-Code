@@ -24,13 +24,13 @@ The Commission shall establish a Panama Canal Employment System and prescribe th
 
 #### (c) Exclusion of employees or positions from coverage
 
-The Commission may exclude any employee or position from coverage under any provision of this subpart, other than the interchange rights extended under subsection (a)(4).
+The Commission may exclude any employee or position from coverage under any provision ofthis subpart, other than the interchange rights extended under subsection (a)(4).
 
 (Pub. L. 96–70, title I, §1212, Sept. 27, 1979, 93 Stat. 464; Pub. L. 104–201, div. C, title XXXV, §3530(a), Sept. 23, 1996, 110 Stat. 2862; Pub. L. 105–85, div. C, title XXXV, §§3523(d), 3550(d)(5), Nov. 18, 1997, 111 Stat. 2065, 2074; Pub. L. 105–261, div. A, title XXXV, §§3507(c), 3512(a)(2), Oct. 17, 1998, 112 Stat. 2269, 2271.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(3), (5) and (b)(3), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the PanamaCanal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+This chapter, referred to in subsecs. (a)(3), (5) and (b)(3), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 The Panama Canal Act Amendments of 1996, referred to in subsec. (b)(3), is subtitle B of title XXXV of div. C of Pub. L. 104–201, Sept. 23, 1996, 110 Stat. 2860. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 3601 of this title and Tables.
 

@@ -24,7 +24,7 @@ In general.—The term "eligible spouse" means the spouse of a member of the Coa
 
 Exclusion.—The term "eligible spouse" does not include a person who—
 
-&emsp;&emsp;&emsp;(i) is married to, but legally separated from, a member of the Coast Guard under a court order or statute of any State or territorial possession of the United States; or
+&emsp;&emsp;&emsp;(i) is married to, but legally separated from, a member of the Coast Guard under a court order or statute of any State orterritorial possession of the United States; or
 
 &emsp;&emsp;&emsp;(ii) is eligible for tuition assistance as a member of the Armed Forces.
 
@@ -41,4 +41,8 @@ A prior section 2904 was renumbered section 5104 of this title.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 542 of this title as this section.
+
+#### Second Expansion of the My Career Advancement Account Program for Military Spouses
+
+Pub. L. 116–92, div. A, title V, §580G, Dec. 20, 2019, 133 Stat. 1410, provided that: "The spouse of a member of the Coast Guard may participate in the My Career Advancement Account program of the Department of Defense if the Coast Guard reimburses the Department of Defense."
 

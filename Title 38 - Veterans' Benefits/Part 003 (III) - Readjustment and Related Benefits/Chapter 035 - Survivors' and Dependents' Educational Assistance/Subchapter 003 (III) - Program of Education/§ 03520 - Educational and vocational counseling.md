@@ -20,7 +20,7 @@ The Secretary may, upon request, arrange for educational or vocational counselin
 
 Subsec. (b). Pub. L. 97–295, §4(45)(B), substituted "of this title" for "of this chapter".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–466 substituted "the Administrator may, upon request, arrange for" for "the Administrator shall arrange for, and the eligible person shall take advantage of," and struck out provision that educational or vocational counseling not be required where the eligible person has been accepted for, or is pursuing, courses which lead to a standard college degree, at an approved institution.
+<b>1980</b>—Subsec. (a). Pub. L. 96–466 substituted "the Administrator may, upon request, arrange for" for "theAdministrator shall arrange for, and the eligible person shall take advantage of," and struck out provision that educational or vocational counseling not be required where the eligible person has been accepted for, or is pursuing, courses which lead to a standard college degree, at an approved institution.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–502 substituted "such person's" for "his" in two places.
 

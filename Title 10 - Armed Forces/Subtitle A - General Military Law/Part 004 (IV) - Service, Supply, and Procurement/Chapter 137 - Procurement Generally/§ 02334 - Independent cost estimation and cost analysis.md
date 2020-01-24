@@ -6,7 +6,7 @@ In General.—The Director of Cost Assessment and Program Evaluation shall ensur
 
 &emsp;(1) prescribe, by authority of the Secretary of Defense, policies and procedures for the conduct of cost estimation and cost analysis for the acquisition programs of the Department of Defense;
 
-&emsp;(2) provide guidance to and consult with the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), the Secretaries of the military departments, and the heads of the Defense Agencies with respect to cost estimation in the Department of Defense in general and with respect to specific cost estimates and cost analyses to be conducted in connection with a major defense acquisition program or major subprogram under chapter 144 of this title;
+&emsp;(2) provide guidance to and consult with the Secretary of Defense, the Under Secretary ofDefense for Acquisition and Sustainment, the Under Secretary of Defense (Comptroller), the Secretaries of the military departments, and the heads of the Defense Agencies with respect to cost estimation in the Department of Defense in general and with respect to specific cost estimates and cost analyses to be conducted in connection with a major defense acquisition program or major subprogram under chapter 144 of this title;
 
 &emsp;(3) issue guidance relating to the proper discussion of risk in cost estimates generally, and specifically, for the proper discussion of risk in cost estimates for major defense acquisition programs and major subprograms;
 
@@ -26,7 +26,7 @@ In General.—The Director of Cost Assessment and Program Evaluation shall ensur
 
 &emsp;&emsp;&emsp;(iv) any report under section 2445c(f) of this title; and
 
-&emsp;&emsp;(B) at any other time considered appropriate by the Director, upon the request of the Under Secretary of Defense for Acquisition, Technology, and Logistics, or upon the request of the milestone decision authority;
+&emsp;&emsp;(B) at any other time considered appropriate by the Director, upon the request of the Under Secretary of Defense for Acquisition and Sustainment, or upon the request of the milestone decision authority;
 
 &emsp;(7) periodically assess and update the cost indexes used by the Department to ensure that such indexes have a sound basis and meet the Department's needs for realistic cost estimation; and
 
@@ -34,7 +34,7 @@ In General.—The Director of Cost Assessment and Program Evaluation shall ensur
 
 (b)
 
-Independent Cost Estimate Required Before Approval.—(1) A milestone decision authority may not approve entering a milestone phase of a major defense acquisition program or major subprogram unless an independent cost estimate has been conducted or approved by theDirector of Cost Assessment and Program Evaluation and considered by the milestone decision authority that—
+Independent Cost Estimate Required Before Approval.—(1) A milestone decision authority may not approve entering a milestone phase of a major defense acquisition program or major subprogram unless an independent cost estimate has been conducted or approved by the Director of Cost Assessment and Program Evaluation and considered by the milestone decision authority that—
 
 &emsp;(A) for the technology maturation and risk reduction phase, includes the identification and sensitivity analysis of key cost drivers that may affect life-cycle costs of the program or subprogram; and
 
@@ -84,9 +84,9 @@ Discussion of Risk in Cost Estimates.—The Director of Cost Assessment and Prog
 
 Estimates for Program Baseline and Analyses and Targets for Contract Negotiation Purposes.—(1) The policies, procedures, and guidance issued by the Director of Cost Assessment and Program Evaluation in accordance with the requirements of subsection (a) shall provide that cost estimates developed for baseline descriptions and other program purposes conducted pursuant to subsection (a)(6) are not to be used for the purpose of contract negotiations or the obligation of funds.
 
-(2) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall, in consultation with the Director of Cost Assessment and Program Evaluation, develop policies, procedures, and guidance to ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are based on the Government's reasonable expectation of successful contractor performance in accordance with the contractor's proposal and previous experience.
+(2) The Under Secretary of Defense for Acquisition and Sustainment shall, in consultation with the Director of Cost Assessment and Program Evaluation, develop policies, procedures, and guidance to ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are based on the Government's reasonable expectation of successful contractor performance in accordance with the contractor's proposal and previous experience.
 
-(3) The Program Manager and contracting officer for each major defense acquisition program and major subprogram shall ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are carried out in accordance with the requirements of paragraph (1) and the policies, procedures, and guidance issued by the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (2).
+(3) The Program Manager and contracting officer for each major defense acquisition program and major subprogram shall ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are carried out in accordance with the requirements of paragraph (1) and the policies, procedures, and guidance issued by the Under Secretary of Defense for Acquisition and Sustainment under paragraph (2).
 
 (4) Funds that are made available for a major defense acquisition program or major subprogram in accordance with a cost estimate conducted pursuant to subsection (a)(6), but are excess to a cost analysis or target developed pursuant to paragraph (2), shall remain available for obligation in accordance with the terms of applicable authorization and appropriations Acts.
 
@@ -104,7 +104,7 @@ Estimates for Program Baseline and Analyses and Targets for Contract Negotiation
 
 (g)
 
-Guidelines and Collection of Cost Data.—(1) The Director of Cost Assessment and Program Evaluation shall, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, develop policies, procedures, guidance, and a collection method to ensure that quality acquisition cost data are collected to facilitate cost estimation and comparison across acquisition programs.
+Guidelines and Collection of Cost Data.—(1) The Director of Cost Assessment and Program Evaluation shall, in consultation with the Under Secretary of Defense for Acquisition and Sustainment, develop policies, procedures, guidance, and a collection method to ensure that quality acquisition cost data are collected to facilitate cost estimation and comparison across acquisition programs.
 
 (2) The program manager and contracting officer for each acquisition program in an amount greater than $100,000,000, in consultation with the cost estimating component of the relevant military department or Defense Agency, shall ensure that cost data are collected in accordance with the requirements of paragraph (1).
 
@@ -114,9 +114,11 @@ Guidelines and Collection of Cost Data.—(1) The Director of Cost Assessment an
 
 Staff.—The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this section.
 
-(Added Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; amended Pub. L. 111–383, div. A, title VIII, §811, Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, §833, Dec. 31, 2011, 125 Stat. 1506; Pub. L. 113–66, div. A, title VIII, §812(c), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, §824(b), title X, §1077(a), Nov. 25, 2015, 129 Stat. 907, 998; Pub. L. 114–328, div. A, title VIII, §§842(a), (b), 846(3), Dec. 23, 2016, 130 Stat. 2288, 2289, 2292; Pub. L. 115–91, div. A, title X, §1081(a)(31), Dec. 12, 2017, 131 Stat. 1596.)
+(Added Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; amended Pub. L. 111–383, div. A, title VIII, §811, Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, §833, Dec. 31, 2011, 125 Stat. 1506; Pub. L. 113–66, div. A, title VIII, §812(c), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, §824(b), title X, §1077(a), Nov. 25, 2015, 129 Stat. 907, 998; Pub. L. 114–328, div. A, title VIII, §§842(a), (b), 846(3), Dec. 23, 2016, 130 Stat. 2288, 2289, 2292; Pub. L. 115–91, div. A, title X, §1081(a)(31), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, §902(53), Dec. 20, 2019, 133 Stat. 1549.)
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics" wherever appearing.
 
 <b>2017</b>—Subsec. (a)(6)(B). Pub. L. 115–91 inserted semicolon at end.
 
@@ -126,7 +128,7 @@ Pub. L. 114–328, §842(b)(1), inserted "or major subprogram" before "under cha
 
 Subsec. (a)(3). Pub. L. 114–328, §842(a)(1), (b)(2), substituted "discussion of risk" for "selection of confidence levels" in two places and "major defense acquisition programs and major subprograms" for "major defense acquisition programs and major automated information system programs".
 
-Subsec. (a)(4), (5). Pub. L. 114–328, §842(b)(2), substituted "major defense acquisition programs and major subprograms" for "major defense acquisition programs and major automated information system programs".
+Subsec. (a)(4), (5). Pub. L. 114–328, §842(b)(2), substituted "major defense acquisition programs and major subprograms" for "major defense acquisitionprograms and major automated information system programs".
 
 Subsec. (a)(6). Pub. L. 114–328, §842(a)(2)(A), (B), in introductory provisions, inserted "or approve" after "conduct" and substituted "all major defense acquisition programs and major subprograms—" for "major defense acquisition programs and major automated information system programs for which the Under Secretary of Defense for Acquisition, Technology, and Logistics is the Milestone Decision Authority—".
 

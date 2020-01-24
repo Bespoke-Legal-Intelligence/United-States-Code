@@ -56,7 +56,7 @@
 
 &emsp;&emsp;During the six-year period following September 30, 1996, the Corporation shall include, in each of the Corporation's contracts for the insurance, guarantee, or reinsurance of obligations, and in each document offering debt or equity securities of the Corporation, a prominent statement providing notice that—
 
-&emsp;&emsp;&emsp;(i) such obligations or such securities, as the case may be, are not obligations of theUnited States, nor are such obligations or such securities, as the case may be, guaranteed in any way by the full faith and credit of the United States; and
+&emsp;&emsp;&emsp;(i) such obligations or such securities, as the case may be, are not obligations of the United States, nor are such obligations or such securities, as the case may be, guaranteed in any way by the full faith and credit of the United States; and
 
 &emsp;&emsp;&emsp;(ii) the Corporation is not an instrumentality of the United States.
 
@@ -124,7 +124,7 @@
 
 #### (B) Amounts and proceeds relating to Connie Lee
 
-&emsp;&emsp;The amounts and proceeds described in subparagraph (C) of paragraph (1) shall beused to finance public and public charter elementary and secondary school facility construction and repair within the District of Columbia. Of such amounts and proceeds, $5,000,000 shall be set aside for a credit enhancement revolving fund for public charter schools in the District of Columbia, to be administered and disbursed in accordance with paragraph (3).
+&emsp;&emsp;The amounts and proceeds described in subparagraph (C) of paragraph (1) shall be used to finance public and public charter elementary and secondary school facility construction and repair within the District of Columbia. Of such amounts and proceeds, $5,000,000 shall be set aside for a credit enhancement revolving fund for public charter schools in the District of Columbia, to be administered and disbursed in accordance with paragraph (3).
 
 #### (3) Credit enhancement revolving fund for public charter schools
 
@@ -190,7 +190,7 @@
 
 &emsp;&emsp;During fiscal year 2003 and each succeeding fiscal year, the Office of Public Charter School Financing and Support shall be responsible for receiving applications, making payments, and otherwise administering this paragraph, except that no grant may be made under this paragraph without the approval of the committee described in subparagraph (C)(iii).
 
-(Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–290; Pub. L. 106–113, div. A, title I, §153, Nov. 29, 1999, 113 Stat. 1526; Pub. L. 106–522, §161, Nov. 22, 2000, 114 Stat. 2483; Pub. L. 106–553, §1(a)(1) \[§161\], Dec. 21, 2000, 114 Stat. 2762, 2762A–45; Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–189; Pub. L. 107–96, Dec. 21, 2001, 115 Stat. 936; Pub. L. 108–7, div. C, title III, §143(c), Feb. 20, 2003, 117 Stat. 131; Pub. L. 108–199, div. C,title IV, §434, Jan. 23, 2004, 118 Stat. 141; Pub. L. 108–335, title III, §340(a), Oct. 18, 2004, 118 Stat. 1348; Pub. L. 108–447, div. J, title I, §103(a)(2), Dec. 8, 2004, 118 Stat. 3341.)
+(Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–290; Pub. L. 106–113, div. A, title I, §153, Nov. 29, 1999, 113 Stat. 1526; Pub. L. 106–522, §161, Nov. 22, 2000, 114 Stat. 2483; Pub. L. 106–553, §1(a)(1) \[§161\], Dec. 21, 2000, 114 Stat. 2762, 2762A–45; Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–189; Pub. L. 107–96, Dec. 21, 2001, 115 Stat. 936; Pub. L. 108–7, div. C, title III, §143(c), Feb. 20, 2003, 117 Stat. 131; Pub. L. 108–199, div. C, title IV, §434, Jan. 23, 2004, 118 Stat. 141; Pub. L. 108–335, title III, §340(a), Oct. 18, 2004, 118 Stat. 1348; Pub. L. 108–447, div. J, title I, §103(a)(2), Dec. 8, 2004, 118 Stat. 3341.)
 
 #### References in Text
 
@@ -198,7 +198,7 @@ The District of Columbia Business Corporation Act, referred to in subsec. (a)(2)
 
 Sections 1132f–3 and 1132f–9 of this title, referred to in subsecs. (a)(3)(A) and (b)(5), were repealed by subsec. (d) of this section.
 
-The District of Columbia School Reform Act of 1995, referred to in subsec. (e)(2)(A), is Pub. L. 104–134, title I, §101(b) \[title II\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–107, as amended, which amended former sections 6322, 6364, and 6365 of this title and enacted provisions set out as a note under former section 6322 of this title. For complete classification of this Act to the Code, see Tables.
+The District of Columbia School Reform Act of 1995, referred to in subsec. (e)(2)(A), is Pub. L. 104–134, title I, §101(b) \[title II\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–107, as amended, which amended former sections 6322, 6364, and 6365 of this title and enacted provisionsset out as a note under former section 6322 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

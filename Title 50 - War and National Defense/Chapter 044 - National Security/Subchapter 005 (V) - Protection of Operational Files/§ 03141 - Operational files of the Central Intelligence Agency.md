@@ -32,7 +32,7 @@ Notwithstanding subsection (a) of this section, exempted operational files shall
 
 (2) The inclusion of information from exempted operational files in files that are not exempted under subsection (a) of this section shall not affect the exemption under subsection (a) of this section of the originating operational files from search, review, publication, or disclosure.
 
-(3) Records from exempted operational files which have been disseminated to and referenced in files that are not exempted under subsection (a) of this section and which have been returnedto exempted operational files for sole retention shall be subject to search and review.
+(3) Records from exempted operational files which have been disseminated to and referenced in files that are not exempted under subsection (a) of this section and which have been returned to exempted operational files for sole retention shall be subject to search and review.
 
 #### (e) Supersedure of prior law
 
@@ -40,7 +40,7 @@ The provisions of subsection (a) of this section shall not be superseded except 
 
 #### (f) Allegation; improper withholding of records; judicial review
 
-Whenever any person who has requested agency records under section 552 of title 5 (Freedom of Information Act), alleges that the Central Intelligence Agency has improperly withheld records because of failure to comply with any provision of this section, judicial review shall be available under the terms set forth in section 552(a)(4)(B) of title 5, except that—
+Whenever any person who has requested agency records under section 552 of title 5 (Freedomof Information Act), alleges that the Central Intelligence Agency has improperly withheld records because of failure to comply with any provision of this section, judicial review shall be available under the terms set forth in section 552(a)(4)(B) of title 5, except that—
 
 &emsp;(1) in any case in which information specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign relations which is filed with, or produced for, the court by the Central Intelligence Agency, such information shall be examined ex parte, in camera by the court;
 
@@ -90,7 +90,7 @@ The text of former section 432 of this title, which was transferred to this sect
 
 Subsec. (c)(3). Pub. L. 108–458, §1072(a)(7), substituted "Office of the Director of National Intelligence" for "Office of the Director of Central Intelligence".
 
-Subsec. (g)(1). Pub. L. 108–458, §1071(a)(6)(B), substituted "Director of the Central Intelligence Agency and the Director of National Intelligence" for "Director of Central Intelligence".
+Subsec. (g)(1). Pub. L. 108–458, §1071(a)(6)(B), substituted "Director of the Central Intelligence Agencyand the Director of National Intelligence" for "Director of Central Intelligence".
 
 <b>2003</b>—Pub. L. 108–136, §922(d)(1)(B), substituted "Operational files of the Central Intelligence Agency" for "Exemption of certain operational files from search, review, publication, or disclosure" in section catchline.
 

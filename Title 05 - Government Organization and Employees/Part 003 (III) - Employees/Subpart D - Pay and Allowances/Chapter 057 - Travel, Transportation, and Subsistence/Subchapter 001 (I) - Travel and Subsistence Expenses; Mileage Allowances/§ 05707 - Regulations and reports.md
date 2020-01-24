@@ -6,7 +6,7 @@
 
 (b) The Administrator of General Services shall prescribe the mileage reimbursement rates for use on official business of privately owned airplanes, privately owned automobiles, and privately owned motorcycles while engaged on official business as provided for in section 5704 of this title as follows:
 
-&emsp;(1)(A) The Administrator of General Services shall conduct periodic investigations of thecost of travel and the operation of privately owned airplanes and privately owned motorcycles by employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.
+&emsp;(1)(A) The Administrator of General Services shall conduct periodic investigations of the cost of travel and the operation of privately owned airplanes and privately owned motorcycles by employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.
 
 &emsp;(B) In conducting the periodic investigations, the Administrator shall review and analyze among other factors—
 
@@ -92,6 +92,10 @@ Subsec. (c). Pub. L. 99–234 added subsec. (c).
 
 <b>1975</b>—Pub. L. 94–22 inserted "and reports" in section catchline, designated existing provisions as subsec. (a), substituted "Administrator of General Services" for "Director of the Bureau of the Budget", struck out provision for fixing, payment, advancement and recovery of travel allowances and expenses in accordance with the regulations and provision for the non-applicability of this section to per diem allowances under section 5703(c), and inserted provision for regulations for travel by employees of the judicial branch of the Government by the Director of the Administrative Office of the United States Courts, and added subsec. (b).
 
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of this title.
@@ -130,7 +134,7 @@ Transportation network company.—The term 'transportation network company'—
 
 #### Reports Regarding Foreign Travel
 
-Pub. L. 105–277, div. G, subdiv. B, title XXV, §2505, Oct. 21, 1998, 112 Stat. 2681–837, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §707\], Nov. 29, 1999, 113 Stat. 1536, 1501A–461; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
+Pub. L. 105–277, div. G, subdiv. B, title XXV, §2505, Oct. 21, 1998, 112 Stat. 2681–837, as amended by Pub. L.106–113, div. B, §1000(a)(7) \[div. A, title VII, §707\], Nov. 29, 1999, 113 Stat. 1536, 1501A–461; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 "(a)
 
@@ -170,7 +174,7 @@ Exceptions.—This section shall not apply to travel by—
 
 &emsp;"(1) the President or the Vice President;
 
-&emsp;"(2) any officer or employee who is carrying out an intelligence or intelligence-related activity, who isperforming a protective function, or who is engaged in a sensitive diplomatic mission; or
+&emsp;"(2) any officer or employee who is carrying out an intelligence or intelligence-related activity, who is performing a protective function, or who is engaged in a sensitive diplomatic mission; or
 
 &emsp;"(3) any officer or employee who travels prior to January 1, 1999.
 

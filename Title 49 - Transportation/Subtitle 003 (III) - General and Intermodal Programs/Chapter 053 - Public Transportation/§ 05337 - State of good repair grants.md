@@ -130,7 +130,7 @@ Receiving apportionment.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), for an area with a fixedguideway system, the amounts provided under this subsection shall be apportioned to the designated recipient for the urbanized area in which the system operates.
+In general.—Except as provided in subparagraph (B), for an area with a fixed guideway system, the amounts provided under this subsection shall be apportioned to the designated recipient for the urbanized area in which the system operates.
 
 &emsp;&emsp;(B)
 
@@ -240,7 +240,7 @@ This amends 49:5337(a)(4) to correct an erroneous cross-reference.
 
 #### References in Text
 
-The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (c)(2)(B), (4)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b)of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways.
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (c)(2)(B), (4)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways.
 
 Section 3028(a) of the Transportation Equity Act for the 21st Century (Public Law 105–178; 112 Stat. 366), referred to in subsec. (c)(6)(B), amended generally subsec. (a) of this section. See 1998 Amendment note below.
 
@@ -324,5 +324,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 Pub. L. 108–310, §8(b), Sept. 30, 2004, 118 Stat. 1154, provided for pro rata apportionment for fixed guideway modernization to reflect partial fiscal year 2005 funding.
 
-Pub. L. 108–88, §8(b)(1), Sept. 30, 2003, 117 Stat. 1121, as amended by Pub. L. 108–202, §9(b), Feb. 29, 2004, 118 Stat. 485; Pub. L. 108–224, §7(b), Apr. 30, 2004, 118 Stat. 633; Pub. L. 108–263, §7(b), June 30, 2004, 118 Stat. 704, which directed the Secretary of Transportation to determine the amount that each urbanized area would be apportioned for fixed guideway modernization under section 5337 of this title on a pro rata basis reflecting partialfiscal year 2004 funding made available under section 5338 of this title, was repealed by Pub. L. 108–280, §7(b), July 30, 2004, 118 Stat. 882.
+Pub. L. 108–88, §8(b)(1), Sept. 30, 2003, 117 Stat. 1121, as amended by Pub. L. 108–202, §9(b), Feb. 29, 2004, 118 Stat. 485; Pub. L. 108–224, §7(b), Apr. 30, 2004, 118 Stat. 633; Pub. L. 108–263, §7(b), June 30, 2004, 118 Stat. 704, which directed the Secretary of Transportation to determine the amount that each urbanized area would be apportioned for fixed guideway modernization under section 5337 of this title on a pro rata basis reflecting partial fiscal year 2004 funding made available under section 5338 of this title, was repealed by Pub. L. 108–280, §7(b), July 30, 2004, 118 Stat. 882.
 

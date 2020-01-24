@@ -54,7 +54,7 @@
 
 (4) A loan may not be made under this subsection unless the requirements of section 8435(e) of this title are satisfied.
 
-(h)(1) An employee or Member may apply, before separation, to the Board for permission to withdraw an amount from the employee's or Member's account based upon—
+(h)(1) An employee or Member may apply, before separation, to the Board for permission towithdraw an amount from the employee's or Member's account based upon—
 
 &emsp;(A) the employee or Member having attained age 59½; or
 
@@ -84,7 +84,7 @@
 
 <i>(5) Withdrawals under this subsection shall be subject to such other limitations or conditions as the Executive Director may prescribe by regulation.</i>
 
-<i>(d)(1) Subject to paragraph (2) and subsections (a) and (c) of section 8435 of this title, an employee or</i><i>Member may change an election previously made under this subchapter, except that in the case of an election to receive an annuity, a former employee or Member may not change an election under this section on or after the date on which an annuity contract is purchased to provide for the annuity elected by the former employee or Member.</i>
+<i>(d)(1) Subject to paragraph (2) and subsections (a) and (c) of section 8435 of this title, an employee or Member may change an election previously made under this subchapter, except that in the case of an election to receive an annuity, a former employee or Member may not change an election under this section on or after the date on which an annuity contract is purchased to provide for the annuity elected by the former employee or Member.</i>
 
 <i>(2) A former employee or Member may not return a payment that was made pursuant to an election under this section.</i>
 
@@ -118,7 +118,7 @@ Subsec. (d)(1). Pub. L. 115–84, §2(b)(1), inserted ", except that in the cas
 
 Subsec. (d)(2). Pub. L. 115–84, §2(b)(2), substituted "return a payment that was made pursuant to an" for "change an" and struck out before period at end "on or after the date on which a payment is made in accordance with such election or, in the case of an election to receive an annuity, the date on which an annuity contract is purchased to provide for the annuity elected by the former employee or Member".
 
-Subsec. (f). Pub. L. 115–84, §2(c), struck out par. (1) designation before "Notwithstanding", substituted "this subsection" for "this paragraph", and struck out par. (2) which read as follows: "Unless otherwise elected under this section, and subject to paragraph (1), benefits under this subchapter shall be paid as an annuity commencing for an employee, Member, former employee, or former Member on April 1 of the year following the latest of the year in which—
+Subsec. (f). Pub. L. 115–84, §2(c), struck out par. (1) designation before "Notwithstanding", substituted"this subsection" for "this paragraph", and struck out par. (2) which read as follows: "Unless otherwise elected under this section, and subject to paragraph (1), benefits under this subchapter shall be paid as an annuity commencing for an employee, Member, former employee, or former Member on April 1 of the year following the latest of the year in which—
 
 &emsp;"(A) the employee, Member, former employee, or former Member becomes 70½ years of age; or
 
@@ -184,7 +184,7 @@ Subsec. (b)(4). Pub. L. 103–226, §9(i)(3), substituted "subsection (c)" for "
 
 Subsec. (c). Pub. L. 103–226, §9(b)(2), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to permissible elections by employees separating from Government who are entitled to a deferred annuity.
 
-Subsec. (c)(1). Pub. L. 103–226, §9(b)(3), substituted "directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Code of 1986)" for "or (c)(4) or required under subsection (d) directly to an eligible retirement plan or plans (as defined in section 402(a)(5)(E) of the Internal Revenue Code of 1954)".
+Subsec. (c)(1). Pub. L. 103–226, §9(b)(3), substituted "directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Codeof 1986)" for "or (c)(4) or required under subsection (d) directly to an eligible retirement plan or plans (as defined in section 402(a)(5)(E) of the Internal Revenue Code of 1954)".
 
 Subsec. (d). Pub. L. 103–353, §4(b)(1), inserted before period at end ", unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred".
 
@@ -218,7 +218,7 @@ Subsec. (i)(4). Pub. L. 103–353, §5(e)(4), substituted "Internal Revenue Code
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–484 inserted "any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force," after "chapter 81 of this title,".
 
-<b>1990</b>—Subsec. (f)(3)(A). Pub. L. 101–335, §5(a)(1), substituted "an annuity contract is purchased to provide for the annuity elected by the former employee orMember" for "an annuity elected by the former employee or Member commences".
+<b>1990</b>—Subsec. (f)(3)(A). Pub. L. 101–335, §5(a)(1), substituted "an annuity contract is purchased to provide for the annuity elected by the former employee or Member" for "an annuity elected by the former employee or Member commences".
 
 Subsec. (f)(3)(B). Pub. L. 101–335, §5(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "A modification of a date may not be made under paragraph (2) on or after such date and may not specify a date for the commencement of an annuity earlier than 1 month after the date on which the modification is submitted to the Executive Director."
 

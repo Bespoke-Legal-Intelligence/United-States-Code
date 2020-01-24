@@ -52,7 +52,7 @@ Failure to render determination.—
 
 &emsp;(A)
 
-Failure to render determination.—If the Administrator fails to make a determination on a notice under paragraph (3) by the end of the applicable review period and the notice has not been withdrawn by the submitter, theAdministrator shall refund to the submitter all applicable fees charged to the submitter for review of the notice pursuant to section 2625(b) of this title, and the Administrator shall not be relieved of any requirement to make such determination.
+Failure to render determination.—If the Administrator fails to make a determination on a notice under paragraph (3) by the end of the applicable review period and the notice has not been withdrawn by the submitter, the Administrator shall refund to the submitter all applicable fees charged to the submitter for review of the notice pursuant to section 2625(b) of this title, and the Administrator shall not be relieved of any requirement to make such determination.
 
 &emsp;(B)
 
@@ -146,7 +146,7 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 > the Administrator shall issue an order, to take effect on the expiration of the applicable review period, to prohibit or limit the manufacture, processing, distribution in commerce, use, or disposal of such substance or to prohibit or limit any combination of such activities to the extent necessary to protect against an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified as relevant by the Administrator under the conditions of use, and the submitter of the notice may commence manufacture of the chemical substance, or manufacture or processing of the chemical substance for a significant new use, including while any required information is being developed, only in compliance with the order.
 
-(B) An order may not be issued under subparagraph (A) respecting a chemical substance (i) later than 45 days before the expiration of the applicable review period, and (ii) unless the Administrator has, on or before the issuance of the order, notified, in writing, each manufacturer or processor, as the case may be, of such substance of the determination which underlies such order.
+(B) An order may not be issued under subparagraph (A) respecting a chemical substance (i) later than 45 days before the expiration of theapplicable review period, and (ii) unless the Administrator has, on or before the issuance of the order, notified, in writing, each manufacturer or processor, as the case may be, of such substance of the determination which underlies such order.
 
 #### (f) Protection against unreasonable risks
 
@@ -160,7 +160,7 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 &emsp;(C) any combination of the requirements referred to in subparagraph (B).
 
-> Such a proposed rule shall be effective upon its publication in the Federal Register. Section2605(d)(3)(B) of this title shall apply with respect to such rule.
+> Such a proposed rule shall be effective upon its publication in the Federal Register. Section 2605(d)(3)(B) of this title shall apply with respect to such rule.
 
 (3)(A) The Administrator may issue an order to prohibit or limit the manufacture, processing, or distribution in commerce of a substance with respect to which a finding was made under paragraph (1). Such order shall take effect on the expiration of the applicable review period.
 
@@ -194,7 +194,7 @@ If the Administrator finds in accordance with subsection (a)(3)(C) that a chemic
 
 > the Administrator shall exempt the applicant from the requirement to submit such information on such substance. No exemption which is granted under this subparagraph with respect to the submission of information for a chemical substance may take effect before the beginning of the reimbursement period applicable to such information.
 
-(B) If the Administrator exempts any person, under subparagraph (A), from submitting information required under subsection (b)(2) for a chemical substance because of the existence of previously submitted information and if such exemption is granted during the reimbursement period for such information, then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
+(B) If the Administrator exempts any person, under subparagraph (A), from submitting information required under subsection (b)(2) for a chemical substance because of the existence of previously submitted information and if suchexemption is granted during the reimbursement period for such information, then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
 
 &emsp;(i) to the person who previously submitted the information on which the exemption was based, for a portion of the costs incurred by such person in complying with the requirement under subsection (b)(2) to submit such information, and
 

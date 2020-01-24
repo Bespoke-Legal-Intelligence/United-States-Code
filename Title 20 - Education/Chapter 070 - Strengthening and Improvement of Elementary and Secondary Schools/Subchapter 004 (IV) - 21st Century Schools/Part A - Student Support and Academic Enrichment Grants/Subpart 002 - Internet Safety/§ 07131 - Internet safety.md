@@ -14,7 +14,7 @@ No funds made available under this part to a local educational agency for an ele
 
 &emsp;(B) is enforcing the operation of such technology protection measure during any use of such computers by minors; and
 
-&emsp;(2)(A) has in place a policy of Internet safety that includes the operation of a technology protection measure with respect to any of itscomputers with Internet access that protects against access through such computers to visual depictions that are—
+&emsp;(2)(A) has in place a policy of Internet safety that includes the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
 
 &emsp;&emsp;(i) obscene; or
 
@@ -76,7 +76,7 @@ An administrator, supervisor, or person authorized by the responsible authority 
 
 #### (3) Recommencement of payments
 
-&emsp;Whenever the Secretary determines (whether by certification or other appropriate evidence) that a recipient of funds who is subject to the withholding of payments under paragraph (1)(A) has cured the failure providing the basis for the withholding of payments, the Secretary shall cease the withholding of payments to the recipient under that paragraph.
+&emsp;Whenever the Secretary determines (whether by certification or other appropriate evidence) that a recipient of funds who is subject to the withholding of payments under paragraph (1)(A) has cured the failure providing the basis for the withholding of payments, theSecretary shall cease the withholding of payments to the recipient under that paragraph.
 
 #### (e) Definitions
 

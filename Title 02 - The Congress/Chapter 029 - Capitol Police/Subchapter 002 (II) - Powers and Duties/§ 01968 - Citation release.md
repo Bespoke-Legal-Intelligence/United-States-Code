@@ -12,7 +12,7 @@ The Chief of the Capitol Police, with the approval of the Capitol Police Board, 
 
 &emsp;(B) paragraph (4) of subsection (b) of section 23–1110 of the District of Columbia Code, relating to failure to appear, shall apply with respect to citations under subparagraph (A) of this paragraph.
 
-(2) The United States District Court for the District of Columbia shall have the power to authorize the member of the Capitol Police referred to in subsection (a) of this section to take bond from persons arrested upon writs and process from that court in criminal cases in the same manner as provided for with respect to an official of the Metropolitan Police Department of the District of Columbia under the third sentence of section 23–1110(a) of the District of Columbia Code.
+(2) The United States District Court for the District of Columbia shall have the power to authorize the member of the Capitol Police referred to in subsection (a) of this section to take bond from persons arrested upon writs and process from that court in criminal cases in the same manner as provided for with respect to anofficial of the Metropolitan Police Department of the District of Columbia under the third sentence of section 23–1110(a) of the District of Columbia Code.
 
 (Pub. L. 104–186, title I, §108, Aug. 20, 1996, 110 Stat. 1723.)
 

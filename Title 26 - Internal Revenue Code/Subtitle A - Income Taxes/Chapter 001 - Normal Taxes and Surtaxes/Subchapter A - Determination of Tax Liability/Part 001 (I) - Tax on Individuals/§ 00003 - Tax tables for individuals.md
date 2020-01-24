@@ -102,7 +102,7 @@ Subsecs. (b) to (e). Pub. L. 95–30 added subsec. (b), redesignated former subs
 
 <b>1969</b>—Pub. L. 91–172 raised the individual gross income limit of $5,000 to $10,000 for exercising the option and substituted provision that the tax has to be determined under tables to be prescribed by the Secretary or his delegate for tables of tax rates for single persons, heads of household, married persons filing joint returns, married persons filing separate returns with 10 per cent standard deduction and married persons filing separate returns with minimum standard deduction.
 
-<b>1964</b>—Pub. L. 88–272 substituted optional tax tables covering five categories for taxable years beginning onor after Jan. 1, 1964, and before Jan. 1, 1965, and for years beginning after Dec. 31, 1964, for a single general table.
+<b>1964</b>—Pub. L. 88–272 substituted optional tax tables covering five categories for taxable years beginning on or after Jan. 1, 1964, and before Jan. 1, 1965, and for years beginning after Dec. 31, 1964, for a single general table.
 
 #### Effective Date of 1986 Amendment
 

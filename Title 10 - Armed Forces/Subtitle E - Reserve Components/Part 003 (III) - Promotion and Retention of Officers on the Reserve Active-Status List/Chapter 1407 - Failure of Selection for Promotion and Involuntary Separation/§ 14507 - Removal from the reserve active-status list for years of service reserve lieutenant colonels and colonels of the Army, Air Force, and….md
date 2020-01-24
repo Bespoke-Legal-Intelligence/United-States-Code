@@ -26,7 +26,7 @@ Temporary Authority To Retain Certain Officers Designated as Judge Advocates.—
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–201, div. A, title V, §508(b), Sept. 23, 1996, 110 Stat. 2513, provided that: "Subsection (c) of section14507 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996."
+Pub. L. 104–201, div. A, title V, §508(b), Sept. 23, 1996, 110 Stat. 2513, provided that: "Subsection (c) of section 14507 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996."
 
 #### Effective Date
 

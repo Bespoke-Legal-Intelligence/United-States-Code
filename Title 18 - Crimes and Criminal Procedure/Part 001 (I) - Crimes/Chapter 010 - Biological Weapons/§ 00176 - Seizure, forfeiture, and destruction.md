@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) Except as provided in paragraph (2), the Attorney General may request the issuance, in the same manner as provided for a search warrant, of a warrant authorizing the seizure of any biological agent, toxin, or delivery system that—
+In General.—(1) Except as provided in paragraph (2), the Attorney General may request the issuance, in the same manner as provided for a search warrant, of a warrant authorizing theseizure of any biological agent, toxin, or delivery system that—
 
 &emsp;(A) pertains to conduct prohibited under section 175 of this title; or
 

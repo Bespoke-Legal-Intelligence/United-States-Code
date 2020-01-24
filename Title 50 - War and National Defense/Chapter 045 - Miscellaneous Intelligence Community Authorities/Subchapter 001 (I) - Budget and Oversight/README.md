@@ -21,3 +21,5 @@
 - [&sect; 03313 - Notification of memoranda of understanding](%C2%A7%2003313%20-%20Notification%20of%20memoranda%20of%20understanding.md)
 - [&sect; 03314 - Report on national security systems](%C2%A7%2003314%20-%20Report%20on%20national%20security%20systems.md)
 - [&sect; 03315 - Annual certification of controlled access programs](%C2%A7%2003315%20-%20Annual%20certification%20of%20controlled%20access%20programs.md)
+- [&sect; 03316 - Submission of intelligence community policies](%C2%A7%2003316%20-%20Submission%20of%20intelligence%20community%20policies.md)
+- [&sect; 03316a - Reports on intelligence community participation in vulnerabilities equities process of Federal Government](%C2%A7%2003316a%20-%20Reports%20on%20intelligence%20community%20participation%20in%20vulnerabilities%20equities%20process%20of%20Federal%20Government.md)

@@ -112,7 +112,7 @@
 
 &emsp;&emsp;&nbsp;within a period, beginning after the recipient completes the training for which the scholarship was awarded, of not more than the sum of the number of years in the period described in subclause (III) and 2 additional years; and
 
-&emsp;&emsp;&emsp;(ii) repay all or part of any scholarship received, plus interest, if the individual does not fulfill the requirements of clause (i),
+&emsp;&emsp;&emsp;(ii) repay all or part of any scholarship received, plus interest, if the individualdoes not fulfill the requirements of clause (i),
 
 > &emsp;&emsp;except as the Commissioner by regulation may provide for repayment exceptions and deferrals.
 
@@ -130,7 +130,7 @@ A grant may not be awarded to a State or other organization under this section u
 
 #### (e) Evaluation and collection of data
 
-The Commissioner shall evaluate the impact of the training programs conducted under this section, and collect information on the training needs of, and data on shortages of qualified personnel necessary to provide services to individuals with disabilities. The Commissioner shall prepare and submit to Congress, by September 30 of each fiscal year, a report setting forth andjustifying in detail how the funds made available for training under this section for the fiscal year prior to such submission are allocated by professional discipline and other program areas. The report shall also contain findings on such personnel shortages, how funds proposed for the succeeding fiscal year will be allocated under the President's budget proposal, and how the findings on personnel shortages justify the allocations.
+The Commissioner shall evaluate the impact of the training programs conducted under this section, and collect information on the training needs of, and data on shortages of qualified personnel necessary to provide services to individuals with disabilities. The Commissioner shall prepare and submit to Congress, by September 30 of each fiscal year, a report setting forth and justifying in detail how the funds made available for training under this section for the fiscal year prior to such submission are allocated by professional discipline and other program areas. The report shall also contain findings on such personnel shortages, how funds proposed for the succeeding fiscal year will be allocated under the President's budget proposal, and how the findings on personnel shortages justify the allocations.
 
 #### (f) Grants for the training of interpreters
 

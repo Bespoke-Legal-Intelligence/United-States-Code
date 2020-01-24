@@ -154,7 +154,7 @@ Near-Term Production Incentive for Existing Leases.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding section 5(a) of the Geothermal Steam Act of 1970 \[30 U.S.C. 1004(a)\], the royalty required to be paid shall be 50 percent of the amount of the royalty otherwise required, on any lease issued before the date of enactment of this Act \[Aug. 8, 2005\] that does not convert to new royalty terms under subsection (e)—
+In general.—Notwithstanding section 5(a) of the Geothermal Steam Act of 1970 \[30 U.S.C. 1004(a)\],the royalty required to be paid shall be 50 percent of the amount of the royalty otherwise required, on any lease issued before the date of enactment of this Act \[Aug. 8, 2005\] that does not convert to new royalty terms under subsection (e)—
 
 &emsp;&emsp;"(A) with respect to commercial production of energy from a facility that begins such production in the 6-year period beginning on the date of enactment of this Act; or
 

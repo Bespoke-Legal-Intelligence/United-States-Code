@@ -20,6 +20,98 @@ Officer Management Programs.—(1) The Secretary of Defense shall take appropria
 
 A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
+#### Space-Based Environmental Monitoring Mission Requirements
+
+Pub. L. 116–92, div. A, title XVI, §1605, Dec. 20, 2019, 133 Stat. 1723, provided that:
+
+"(a)
+
+Procurement of Modernized Pathfinder Program Satellite.—
+
+&emsp;"(1)
+
+In general.—The Secretary of the Air Force shall procure a modernized pathfinder program satellite that—
+
+&emsp;&emsp;"(A) addresses space-based environmental monitoring mission requirements;
+
+&emsp;&emsp;"(B) reduces the risk that the Department of Defense experiences a gap in meeting such requirements during the period beginning January 1, 2023, and ending December 31, 2025; and
+
+&emsp;&emsp;"(C) is launched not later than January 1, 2023.
+
+&emsp;"(2)
+
+Type of satellite.—The satellite described in paragraph (1) may be a free-flyer or a hosted payload satellite.
+
+&emsp;"(3)
+
+Plan.—Not later than 60 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of the Air Force shall submit to the appropriate congressional committees a plan to procure and launch the satellite described in paragraph (1), including with respect to—
+
+&emsp;&emsp;"(A) the requirements for such satellite, including operational requirements;
+
+&emsp;&emsp;"(B) timelines for such procurement and launch;
+
+&emsp;&emsp;"(C) costs for such procurement and launch; and
+
+&emsp;&emsp;"(D) the launch plan.
+
+&emsp;"(4)
+
+Procedures.—The Secretary of the Air Force shall ensure that the satellite described in paragraph (1) is procured using full and open competition through the use of competitive procedures.
+
+&emsp;"(5)
+
+Withholding of funds.—The amount equal to 10 percent of the total amount authorized to be appropriated to the Office of the Secretary of Air Force for the travel of persons under the Operations and Maintenance, Defense-Wide account shall be withheld from obligation or expenditure until the date on which a contract is awarded for the procurement of the satellite described in paragraph (1).
+
+"(b)
+
+Weather System Satellite.—The Secretary of the Air Force shall ensure that the electro-optical/infrared weather system satellite—
+
+&emsp;"(1) meets space-based environmental monitoring mission requirements;
+
+&emsp;"(2) is procured using full and open competition through the use of competitive procedures; and
+
+&emsp;"(3) is launched not later than September 30, 2025.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+&emsp;&emsp;"(B) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+&emsp;"(2) The term 'space-based environmental monitoring mission requirements' means the national security requirements for cloud characterization and theater weather imagery."
+
+#### Resilient Enterprise Ground Architecture
+
+Pub. L. 116–92, div. A, title XVI, §1606, Dec. 20, 2019, 133 Stat. 1724, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that the Secretary of the Air Force, to advance the security of the space assets of the Department of Defense, should—
+
+&emsp;"(1) expand on complementary efforts within the Air Force that promote the adoption of a resilient enterprise ground architecture that is responsive to new and changing threats and can rapidly integrate new capabilities to make the warfighting force of the United States more resilient in a contested battlespace; and
+
+&emsp;"(2) prioritize the swift transition of space ground architecture to a common platform and leverage commercial capabilities in concurrence with the 2015 intent memorandum of the Commander of the Air Force Space Command.
+
+"(b)
+
+Future Architecture.—The Secretary of Defense shall, to the extent practicable—
+
+&emsp;"(1) develop future satellite ground architectures of the Department of Defense to be compatible with complementary commercial systems that can support uplink and downlink capabilities with dual-band spacecraft; and
+
+&emsp;"(2) emphasize that future ground architecture transition away from stove-piped systems to a service-based platform that provides members of the Armed Forces with flexible and adaptable capabilities that—
+
+&emsp;&emsp;"(A) use, as applicable, commercially available capabilities and technologies for increased resiliency and cost savings; and
+
+&emsp;&emsp;"(B) build commercial opportunity and integration across the range of resilient space systems.
+
+"(c)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the future architecture described in subsection (b)."
+
 #### Space Warfighting Policy, Review of Space Capabilities, and Plan on Space Warfighting Readiness
 
 Pub. L. 115–232, div. A, title XVI, §1607, Aug. 13, 2018, 132 Stat. 2108, provided that:
@@ -104,7 +196,7 @@ Briefing.—Not later than March 29, 2019, the Secretary shall provide to the Co
 
 Pub. L. 115–232, div. A, title XVI, §1611, Aug. 13, 2018, 132 Stat. 2112, provided that:
 
-"Not later than 30 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense, in coordination with the Secretary of the Air Force, and other Secretaries of the military departments and the heads of Defense Agencies the Secretary determines appropriate, shall designate a component of the Department of Defense or a military department to be responsible for coordinating information, processes, and lessons learned relating to using commercially hosted payloads across the military departments, Defense Agencies, and other appropriate elements of the Department of Defense. The functions of such designated component shall include, at a minimum, the following:
+"Not later than 30 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense, in coordination with the Secretary of the Air Force, and other Secretaries of the military departments and the heads of Defense Agencies the Secretary determines appropriate, shall designate a component of the Department of Defense or a military department to be responsible for coordinating information, processes,and lessons learned relating to using commercially hosted payloads across the military departments, Defense Agencies, and other appropriate elements of the Department of Defense. The functions of such designated component shall include, at a minimum, the following:
 
 &emsp;"(1) Systematically collecting information from past and planned hosted payload arrangements to inform future acquisition planning and space system architecture design, including integration test data, lessons learned, and design solutions.
 
@@ -160,7 +252,7 @@ Rule of Construction.—Nothing in this section shall be construed as preventing
 
 #### Briefings on the Joint Interagency Combined Space Operations Center
 
-Pub. L. 115–31, div. N, title VI, §605(e)(2), May 5, 2017, 131 Stat. 832, provided that: "The Director of the National Reconnaissance Office and the Commander of the United States Strategic Command, in coordination with the Director of National Intelligence and Under Secretary of Defense for Intelligence, shall provide to the appropriate committees of Congress briefings providing updates on activities and progress of the Joint Interagency Combined Space Operations Center to begin 30 days after the date of the enactment of this Act \[May 5, 2017\]. Such briefings shall be quarterly for the first year following enactment, and annually thereafter."
+Pub. L. 115–31, div. N, title VI, §605(e)(2), May 5, 2017, 131 Stat. 832, provided that: "The Director of the National Reconnaissance Office and the Commander of the United States Strategic Command, in coordination with the Director of National Intelligence and Under Secretary of Defense for Intelligence \[now Under Secretary of Defense for Intelligence and Security\], shall provide to the appropriate committees of Congress briefings providing updates on activities and progress of the Joint Interagency Combined Space Operations Center to begin 30 days after the date of the enactment of this Act \[May 5, 2017\]. Such briefings shall be quarterly for the first year following enactment, and annually thereafter."
 
 \[Pub. L. 115–31, div. N, title VI, §605(a), May 5, 2017, 131 Stat. 830, provided that: "In this section \[enacting provisions set out as a note above\], the term 'appropriate committees of Congress' means the congressional intelligence committees \[Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives\], the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives."\]
 
@@ -282,7 +374,7 @@ In General.—Except as provided by subsections (b) and (c), beginning on the da
 
 "(b)
 
-Waiver.—The Secretary may waive the prohibition under subsection (a) with respect to a contract for the procurement of property or services for space launch activities if the Secretary determines, and certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of theSenate and the House of Representatives\] not later than 30 days before the waiver takes effect, that—
+Waiver.—The Secretary may waive the prohibition under subsection (a) with respect to a contract for the procurement of property or services for space launch activities if the Secretary determines, and certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] not later than 30 days before the waiver takes effect, that—
 
 &emsp;"(1) the waiver is necessary for the national security interests of the United States; and
 

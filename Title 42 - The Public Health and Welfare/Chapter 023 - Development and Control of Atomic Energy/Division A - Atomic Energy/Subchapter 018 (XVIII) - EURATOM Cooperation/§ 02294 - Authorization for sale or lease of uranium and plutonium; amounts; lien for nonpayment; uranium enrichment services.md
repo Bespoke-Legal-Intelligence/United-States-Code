@@ -2,7 +2,7 @@
 
 Pursuant to the provisions of section 2074 of this title, there is hereby authorized for sale or lease to the Community—
 
-&emsp;an amount of contained uranium 235 which does not exceed that necessary to support the fuel cycle of power reactors located within the Community having a total installed capacity of thirty-five thousand megawatts of electricenergy, together with twenty-five thousand kilograms of contained uranium 235 for other purposes;
+&emsp;an amount of contained uranium 235 which does not exceed that necessary to support the fuel cycle of power reactors located within the Community having a total installed capacity of thirty-five thousand megawatts of electric energy, together with twenty-five thousand kilograms of contained uranium 235 for other purposes;
 
 &emsp;one thousand five hundred kilograms of plutonium; and
 

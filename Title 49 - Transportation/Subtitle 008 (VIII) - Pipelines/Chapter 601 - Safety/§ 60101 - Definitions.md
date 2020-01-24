@@ -128,7 +128,7 @@ Gathering Lines.—(1)(A) Not later than October 24, 1994, the Secretary shall p
 
 &emsp;(ii) is not bound by a classification the Commission establishes under the Natural Gas Act (15 U.S.C. 717 et seq.).
 
-(2)(A) Not later than October 24, 1995, the Secretary, if appropriate, shall prescribe standards defining the term "regulated gathering line". In defining the term, the Secretary shall consider factors such as location, length of line from the well site, operating pressure, throughput, and the composition of the transported gas or hazardous liquid, as appropriate, in deciding on the types of lines that functionally are gathering but should be regulated under this chapter because of specific physical characteristics.
+(2)(A) Not later than October 24, 1995, the Secretary, if appropriate, shall prescribe standards defining the term "regulated gathering line". In defining the term, the Secretary shall consider factors such as location, length of line from the well site, operating pressure, throughput, andthe composition of the transported gas or hazardous liquid, as appropriate, in deciding on the types of lines that functionally are gathering but should be regulated under this chapter because of specific physical characteristics.
 
 (B)(i) The Secretary also shall consider diameter when defining "regulated gathering line" for hazardous liquid.
 
@@ -360,7 +360,7 @@ Pub. L. 103–272, §4(s), July 5, 1994, 108 Stat. 1371, provided that the amend
 
 #### Short Title of 2016 Amendment
 
-Pub. L. 114–183, §1(a), June 22, 2016, 130 Stat. 514, provided that: "This Act \[enacting sections 60141 and 60302 of this title, amending this section and sections 6107,60103, 60106 to 60109, 60115, 60117, 60124, 60125, and 60130 of this title, enacting provisions set out as notes under sections 108, 60102, 60103, 60108, 60109, and 60117 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2016' or the 'PIPES Act of 2016'."
+Pub. L. 114–183, §1(a), June 22, 2016, 130 Stat. 514, provided that: "This Act \[enacting sections 60141 and 60302 of this title, amending this section and sections 6107, 60103, 60106 to 60109, 60115, 60117, 60124, 60125, and 60130 of this title, enacting provisions set out as notes under sections 108, 60102, 60103, 60108, 60109, and 60117 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2016' or the 'PIPES Act of 2016'."
 
 #### Short Title of 2012 Amendment
 

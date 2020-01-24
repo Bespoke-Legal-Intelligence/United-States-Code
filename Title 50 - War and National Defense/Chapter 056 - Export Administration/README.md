@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 4601 to 4610. Repealed. |  |
+| 4601 to 4610.Repealed. |  |
 | [4611\.](%C2%A7%2004611%20-%20Multilateral%20export%20control%20violations.md) | Multilateral export control violations. |
 | [4612\.](%C2%A7%2004612%20-%20Missile%20proliferation%20control%20violations.md) | Missile proliferation control violations. |
 | [4613\.](%C2%A7%2004613%20-%20Chemical%20and%20biological%20weapons%20proliferation%20sanctions.md) | Chemical and biological weapons proliferation sanctions. |

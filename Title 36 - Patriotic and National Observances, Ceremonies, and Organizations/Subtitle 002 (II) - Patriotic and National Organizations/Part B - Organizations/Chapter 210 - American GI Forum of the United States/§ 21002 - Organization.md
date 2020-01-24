@@ -6,7 +6,7 @@ Federal Charter.—American GI Forum of the United States (in this chapter, the 
 
 (b)
 
-Expiration of Charter.—If the corporation does not comply with any provision of this chapter, the charter granted by this chapter expires.
+Expiration of Charter.—If the corporation does not comply with any provision of thischapter, the charter granted by this chapter expires.
 
 (Added Pub. L. 105–354, §1(5)(A), Nov. 3, 1998, 112 Stat. 3242.)
 

@@ -22,7 +22,7 @@
 
 &emsp;(D) Important developments in other areas of trade for which there must be developed a proper policy response.
 
-(3) The President shall take the advice received through consultation under paragraph (2) into account in determining the importance which should be placed on each major objective and negotiating position that should be adopted in order to achieve the overall trade policy of the United States.
+(3) The President shall take the advice received through consultation under paragraph (2) into account in determining the importance which should be placed on each major objectiveand negotiating position that should be adopted in order to achieve the overall trade policy of the United States.
 
 #### (b) Advisory Committee for Trade Policy and Negotiations
 
@@ -72,7 +72,7 @@ Committees established under subsection (c) shall meet at the call of the United
 
 (1) The Advisory Committee for Trade Policy and Negotiations, each appropriate policy advisory committee, and each sectoral or functional advisory committee, if the sector or area which such committee represents is affected, shall meet at the conclusion of negotiations for each trade agreement entered into under section 4202 of this title, to provide to the President, to Congress, and to the United States Trade Representative a report on such agreement. Each report that applies to a trade agreement entered into under section 4202 of this title shall be provided under the preceding sentence not later than the date that is 30 days after the date on which the President notifies Congress under section 4205(a)(1)(A) of this title of his intention to enter into that agreement.
 
-(2) The report of the Advisory Committee for Trade Policy and Negotiations and each appropriate policy advisory committee shall include an advisory opinion as to whether and to what extent the agreement promotes the economic interests of the United States and achieves the applicable overall and principal negotiating objectives set forth in section 4201 of this title, as appropriate.
+(2) The report of the Advisory Committee for Trade Policy and Negotiations and each appropriate policy advisory committee shall include an advisory opinion as to whether and to whatextent the agreement promotes the economic interests of the United States and achieves the applicable overall and principal negotiating objectives set forth in section 4201 of this title, as appropriate.
 
 (3) The report of the appropriate sectoral or functional committee under paragraph (1) shall include an advisory opinion as to whether the agreement provides for equity and reciprocity within the sector or within the functional area.
 
@@ -114,7 +114,7 @@ The United States Trade Representative, and the Secretaries of Commerce, Labor, 
 
 #### (i) Consultation with advisory committees; procedures; nonacceptance of committee advice or recommendations
 
-It shall be the responsibility of the United States Trade Representative, in conjunction with the Secretaries of Commerce, Labor, Agriculture, the Treasury, or other executive departments, as appropriate, to adopt procedures for consultation with and obtaining information and advice from the advisory committees established under subsection (c) on a continuing and timely basis. Such consultation shall include the provision of information to each advisory committee as to—
+It shall be the responsibility of the United States Trade Representative, in conjunction with the Secretaries of Commerce, Labor, Agriculture, the Treasury, or other executive departments, as appropriate, to adopt procedures for consultation with and obtaining informationand advice from the advisory committees established under subsection (c) on a continuing and timely basis. Such consultation shall include the provision of information to each advisory committee as to—
 
 &emsp;(1) significant issues and developments; and
 
@@ -262,7 +262,7 @@ Sec. 3. <i>Functions</i>. (a) The Committee shall provide the Trade Representati
 
 (d) The Committee shall report its activities to the Trade Representative, or his designee.
 
-Sec. 4. <i>Administration</i>. (a) The Trade Representative, or his designee, with the advice of the Chairman, shallbe responsible for prior approval of the agendas for all Committee meetings.
+Sec. 4. <i>Administration</i>. (a) The Trade Representative, or his designee, with the advice of the Chairman, shall be responsible for prior approval of the agendas for all Committee meetings.
 
 (b) The Trade Representative, or his designee, shall be responsible for determinations, filings, and other administrative requirements of the Federal Advisory Committee Act.
 
@@ -280,9 +280,11 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Trade and Environment Policy Advisory Committee
 
-Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Trade and Environment Policy Advisory Committee were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 

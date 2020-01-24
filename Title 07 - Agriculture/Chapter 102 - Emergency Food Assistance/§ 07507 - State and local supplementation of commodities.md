@@ -32,7 +32,7 @@ State and emergency feeding organizations shall continue, to the maximum extent 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each fiscal year, the Secretary shall allocate the funds made available under subparagraph (A), based on a formula determined by the Secretary, to States thathave submitted a State plan describing a plan of operation for a project under section 7503(b)(5) of this title.
+&emsp;&emsp;&emsp;Each fiscal year, the Secretary shall allocate the funds made available under subparagraph (A), based on a formula determined by the Secretary, to States that have submitted a State plan describing a plan of operation for a project under section 7503(b)(5) of this title.
 
 #### (ii) Reallocation
 
@@ -80,7 +80,7 @@ The Secretary shall issue guidance outlining best practices to minimize the food
 
 #### (C) Qualified direct donor
 
-&emsp;&emsp;The term "qualified direct donor" means a retail food store, wholesaler, agricultural producer, restaurant, caterer, school food authority, or institution of higher education.
+&emsp;&emsp;The term "qualified direct donor" means a retail food store, wholesaler, agriculturalproducer, restaurant, caterer, school food authority, or institution of higher education.
 
 #### (2) Guidance
 

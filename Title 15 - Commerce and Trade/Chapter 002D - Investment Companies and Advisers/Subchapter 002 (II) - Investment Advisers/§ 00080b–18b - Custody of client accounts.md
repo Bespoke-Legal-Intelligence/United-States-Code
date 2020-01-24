@@ -1,6 +1,6 @@
 ### §80b–18b. Custody of client accounts
 
-An investment adviser registered under this subchapter shall take such steps to safeguardclient assets over which such adviser has custody, including, without limitation, verification of such assets by an independent public accountant, as the Commission may, by rule, prescribe.
+An investment adviser registered under this subchapter shall take such steps to safeguard client assets over which such adviser has custody, including, without limitation, verification of such assets by an independent public accountant, as the Commission may, by rule, prescribe.
 
 (Aug. 22, 1940, ch. 686, title II, §223, as added Pub. L. 111–203, title IV, §411, July 21, 2010, 124 Stat. 1577.)
 

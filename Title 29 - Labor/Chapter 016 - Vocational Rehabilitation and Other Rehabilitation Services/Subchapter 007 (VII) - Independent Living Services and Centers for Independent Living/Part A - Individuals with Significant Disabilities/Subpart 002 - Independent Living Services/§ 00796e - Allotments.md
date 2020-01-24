@@ -10,7 +10,7 @@
 
 #### (B) Maintenance of 1992 amounts
 
-&emsp;&emsp;Subject to the availability of appropriations to carry out this subpart, the amount of any allotment made under subparagraph (A) to a State for a fiscal year shall not beless than the amount of an allotment made to the State for fiscal year 1992 under part A of this subchapter, as in effect on the day before October 29, 1992.
+&emsp;&emsp;Subject to the availability of appropriations to carry out this subpart, the amount of any allotment made under subparagraph (A) to a State for a fiscal year shall not be less than the amount of an allotment made to the State for fiscal year 1992 under part A of this subchapter, as in effect on the day before October 29, 1992.
 
 #### (C) Minimums
 
@@ -46,7 +46,7 @@ Funds allotted or made available to a State under this section shall be administ
 
 #### References in Text
 
-Part A of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (a)(1)(B), means former part A (§796 et seq.) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, §701(1), Oct. 29, 1992, 106 Stat. 4443.
+Part A of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (a)(1)(B),means former part A (§796 et seq.) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, §701(1), Oct. 29, 1992, 106 Stat. 4443.
 
 #### Prior Provisions
 

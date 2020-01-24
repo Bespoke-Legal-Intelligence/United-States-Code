@@ -8,7 +8,7 @@ The Secretary, through the Administrator and subject to the availability of fund
 
 #### (1) Fifty percent
 
-&emsp;Except as provided in paragraph (2), Federal funds for any coral conservation project underthis section may not exceed 50 percent of the total cost of such project. For purposes of this paragraph, the non-Federal share of project costs may be provided by in-kind contributions and other noncash support.
+&emsp;Except as provided in paragraph (2), Federal funds for any coral conservation project under this section may not exceed 50 percent of the total cost of such project. For purposes of this paragraph, the non-Federal share of project costs may be provided by in-kind contributions and other noncash support.
 
 #### (2) Waiver
 
@@ -106,5 +106,5 @@ Within 180 days after December 23, 2000, the Administrator shall promulgate nece
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f)(2)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f)(2)(A), is Pub.L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 

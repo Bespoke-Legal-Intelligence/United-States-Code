@@ -76,7 +76,7 @@ Grants awarded under this section shall be used for 1 or more of the following a
 
 &emsp;The provisions of part C, regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
 
-(Pub. L. 89–329, title III, §311, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1291; amended Pub. L. 100–50, §2(a)(1), June 3,1987, 101 Stat. 335; Pub. L. 105–244, title III, §§301(c)(1), 303(a), Oct. 7, 1998, 112 Stat. 1636, 1638; Pub. L. 110–315, title III, §301, Aug. 14, 2008, 122 Stat. 3166.)
+(Pub. L. 89–329, title III, §311, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1291; amended Pub. L. 100–50, §2(a)(1), June 3, 1987, 101 Stat. 335; Pub. L. 105–244, title III, §§301(c)(1), 303(a), Oct. 7, 1998, 112 Stat. 1636, 1638; Pub. L. 110–315, title III, §301, Aug. 14, 2008, 122 Stat. 3166.)
 
 #### Prior Provisions
 

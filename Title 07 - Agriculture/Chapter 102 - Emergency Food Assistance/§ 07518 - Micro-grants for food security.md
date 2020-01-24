@@ -68,7 +68,7 @@ In this section:
 
 #### (c) Establishment
 
-The Secretary shall distribute funds to the agricultural department or agency of each eligibleState for the competitive distribution of subgrants to eligible entities to increase the quantity and quality of locally grown food in food insecure communities, including through small-scale gardening, herding, and livestock operations.
+The Secretary shall distribute funds to the agricultural department or agency of each eligible State for the competitive distribution of subgrants to eligible entities to increase the quantity and quality of locally grown food in food insecure communities, including through small-scale gardening, herding, and livestock operations.
 
 #### (d) Distribution of funds
 
@@ -122,7 +122,7 @@ The Secretary shall distribute funds to the agricultural department or agency of
 
 &emsp;&emsp;(A) has not previously received a subgrant under this section; or
 
-&emsp;&emsp;(B) is located in a community or region in that eligible State with the highest degree of food insecurity, as determined by the agricultural department or agency of the eligible State.
+&emsp;&emsp;(B) is located in a community or region in that eligible State with the highest degreeof food insecurity, as determined by the agricultural department or agency of the eligible State.
 
 #### (3) Projects
 

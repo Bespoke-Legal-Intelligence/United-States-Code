@@ -14,7 +14,7 @@ Eligible Judge Advocate Defined.—In this section, the term "eligible judge adv
 
 (b)
 
-Special Pay Authorized.—An eligible judge advocate who executes a written agreement to remain on active duty for a period of obligated service specified in the agreement may, upon the acceptance of the agreement bythe Secretary concerned, be paid continuation pay under this section. The total amount paid to an officer under one or more agreements under this section may not exceed $60,000.
+Special Pay Authorized.—An eligible judge advocate who executes a written agreement to remain on active duty for a period of obligated service specified in the agreement may, upon the acceptance of the agreement by the Secretary concerned, be paid continuation pay under this section. The total amount paid to an officer under one or more agreements under this section may not exceed $60,000.
 
 (c)
 

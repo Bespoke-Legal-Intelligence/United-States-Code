@@ -12,11 +12,11 @@ If the consignee of any designated archaeological or ethnological material is un
 
 &emsp;(2) satisfactory evidence that such material was exported from the State Party—
 
-&emsp;&emsp;(A) not less than ten years before the date of such entry and that neither the person forwhose account the material is imported (or any related person) contracted for or acquired an interest, directly or indirectly, in such material more than one year before that date of entry, or
+&emsp;&emsp;(A) not less than ten years before the date of such entry and that neither the person for whose account the material is imported (or any related person) contracted for or acquired an interest, directly or indirectly, in such material more than one year before that date of entry, or
 
 &emsp;&emsp;(B) on or before the date on which such material was designated under section 2604 of this title,
 
-> the customs officer concerned shall refuse to release the material from customs custody and send it to a bonded warehouse or store to be held at the risk and expense of the consignee, notwithstanding any other provision of law, until such documentation or evidence is filed with such officer. If such documentation or evidence is not presented within ninety days after the date on which such material is refused release from customs custody, or such longer period as may be allowed by the Secretary for good cause shown, the material shall be subject to seizure and forfeiture. The presentation of such documentation or evidence shall not bar subsequent action under section 2609 of this title.
+> the customs officer concerned shall refuse to release the material from customs custody and send it to a bonded warehouse or store to be held at the risk and expense of the consignee, notwithstanding any other provision of law, until such documentation or evidence is filed with such officer. If such documentation or evidence is not presented within ninety days after the date on which such material is refused releasefrom customs custody, or such longer period as may be allowed by the Secretary for good cause shown, the material shall be subject to seizure and forfeiture. The presentation of such documentation or evidence shall not bar subsequent action under section 2609 of this title.
 
 #### (c) "Satisfactory evidence" defined
 

@@ -20,7 +20,7 @@ Act June 23, 1939, ch. 242, §§1, 2, 53 Stat. 853, 854, provided that:
 
 &emsp;"(1) to the provisions of section 502(d) and (e) of the Federal Food, Drug, and Cosmetic Act \[352(d), (e) of this title\], insofar as such provisions relate to any substance named in section 8 \[section 10 of this title\], paragraph second, under the heading 'In the case of drugs:', of the Food and Drugs Act of June 30, 1906, as amended, or a derivative of any such substance; or
 
-&emsp;"(2) to the provisions of section 502(b), (d), (e), (f), (g), and (h) of the Federal Food, Drug, and Cosmetic Act \[352(b), (d) to (h) of this title\], insofar as such provisions relate to drugs to which section 505 \[355 of this title\] of such Act applies."
+&emsp;"(2) to the provisions of section 502(b), (d), (e), (f), (g), and (h) of the Federal Food, Drug, and CosmeticAct \[352(b), (d) to (h) of this title\], insofar as such provisions relate to drugs to which section 505 \[355 of this title\] of such Act applies."
 
 #### Effective Date
 
@@ -64,7 +64,7 @@ Pub. L. 114–146, §1, Apr. 19, 2016, 130 Stat. 357, provided that: "This Act \
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–114, §1, Dec. 28, 2015, 129 Stat. 3129, provided that: "This Act \[amending section 331 of this title and enacting provisions set out as notes under section 331 of this title\] may be cited as the 'Microbead-Free Waters Act of 2015'."
+Pub. L. 114–114, §1, Dec. 28, 2015, 129 Stat. 3129, provided that: "This Act \[amending section 331 of this titleand enacting provisions set out as notes under section 331 of this title\] may be cited as the 'Microbead-Free Waters Act of 2015'."
 
 Pub. L. 114–89, §1, Nov. 25, 2015, 129 Stat. 698, provided that: "This Act \[amending sections 355, 360b, 360ccc to 360ccc–2, 811, 823, and 953 of this title, section 156 of Title 35, Patents, and section 262 of Title 42, The Public Health and Welfare\] may be cited as the 'Improving Regulatory Transparency for New Medical Therapies Act'."
 
@@ -116,7 +116,7 @@ Pub. L. 110–316, title II, §201(a), Aug. 14, 2008, 122 Stat. 3515, provided t
 
 Pub. L. 110–85, §1, Sept. 27, 2007, 121 Stat. 823, provided that: "This Act \[enacting part I of subchapter VII of this chapter, chapter 26 of this title, sections 350f, 353b, 355–1, 355d, 355e, 360a, 360e–1, 360n, 360bbb–5, 360bbb–6, 379d–1, 379d–2, 379h–1, 379h–2, 379j–1, and 399a of this title, and section 247d–5a of Title 42, The Public Health and Welfare, amending sections 321, 331, 333, 334, 352, 355, 355a, 355c, 360, 360e, 360i, 360j, 360l, 360m, 360ee, 374, 379g, 379h, 379i, 379j, 379j–11, 379l, 381, and 393a of this title and sections 247d–3b, 262, 282, 283, 283a–2, 283a–3, 284m, 285g–10, 288–6, and 290b of Title 42, enacting provisions set out as notes under this section and sections 331, 350f, 352, 355, 355a, 355c, 360j, 379g, 379h, 379h–2, 379i, and 2110 of this title and section 282 of Title 42, and amending provisions set out as notes under section 284m of Title 42\] may be cited as the 'Food and Drug Administration Amendments Act of 2007'."
 
-Pub. L. 110–85, title I, §101(a), Sept. 27, 2007, 121 Stat. 825, provided that: "This title \[enacting sections 379h–1 and 379h–2 of this title, amending sections 379g, 379h,and 379j–11 of this title, and enacting provisions set out as notes under sections 379g, 379h, and 379h–2 of this title\] may be cited as the 'Prescription Drug User Fee Amendments of 2007'."
+Pub. L. 110–85, title I, §101(a), Sept. 27, 2007, 121 Stat. 825, provided that: "This title \[enacting sections 379h–1 and 379h–2 of this title, amending sections 379g, 379h, and 379j–11 of this title, and enacting provisions set out as notes under sections 379g, 379h, and 379h–2 of this title\] may be cited as the 'Prescription Drug User Fee Amendments of 2007'."
 
 Pub. L. 110–85, title II, §201(a), Sept. 27, 2007, 121 Stat. 842, provided that: "This title \[enacting section 379j–1 of this title, amending sections 333, 360, 360i, 360m, 374, 379i, and 379j of this title, and enacting provisions set out as notes under section 379i of this title\] may be cited as the 'Medical Device User Fee Amendments of 2007'."
 
@@ -172,7 +172,7 @@ Pub. L. 105–324, §1, Oct. 30, 1998, 112 Stat. 3035, provided that: "This Act 
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–115, §1(a), Nov. 21, 1997, 111 Stat. 2296, provided that: "This Act \[enacting sections 343–3, 353a,355a, 356 to 356c, 360m, 360aaa to 360aaa–6, 360bbb to 360bbb–2, 379k, 379l, 379o, 379r, 379s, 379v, 396, and 397 of this title and sections 247b–8 and 299a–3 of Title 42, The Public Health and Welfare, amending sections 321, 331, 334, 335a, 343, 348, 351 to 353, 355, 360, 360b to 360e, 360g, 360i, 360j, 360l, 360aa to 360cc, 360ee, 371, 374, 379a, 379g, 379h, 381 to 383, 393, and 802 of this title, section 45C of Title 26, Internal Revenue Code, section 156 of Title 35, Patents, section 8126 of Title 38, Veterans' Benefits, and sections 262, 263a, and 282 of Title 42, repealing sections 356 and 357 of this title, and enacting provisions set out as notes under sections 321, 348, 351, 352, 353a, 355 to 356b, 360i, 360l, 360m, 360aaa, 371, 379g, 379h, 379k, and 393 of this title and sections 247b–8 and 282 of Title 42\] may be cited as the 'Food and Drug Administration Modernization Act of 1997'."
+Pub. L. 105–115, §1(a), Nov. 21, 1997, 111 Stat. 2296, provided that: "This Act \[enacting sections 343–3, 353a, 355a, 356 to 356c, 360m, 360aaa to 360aaa–6, 360bbb to 360bbb–2, 379k, 379l, 379o, 379r, 379s, 379v, 396, and 397 of this title and sections 247b–8 and 299a–3 of Title 42, The Public Health and Welfare, amending sections 321, 331, 334, 335a, 343, 348, 351 to 353, 355, 360, 360b to 360e, 360g, 360i, 360j, 360l, 360aa to 360cc, 360ee, 371, 374, 379a, 379g, 379h, 381 to 383, 393, and 802 of this title, section 45C of Title 26, Internal Revenue Code, section 156 of Title 35, Patents, section 8126 of Title 38, Veterans' Benefits, and sections 262, 263a, and 282 of Title 42, repealing sections 356 and 357 of this title, and enacting provisions set out as notes under sections 321, 348, 351, 352, 353a, 355 to 356b, 360i, 360l, 360m, 360aaa, 371, 379g, 379h, 379k, and 393 of this title and sections 247b–8 and 282 of Title 42\] may be cited as the 'Food and Drug Administration Modernization Act of 1997'."
 
 #### Short Title of 1996 Amendments
 
@@ -226,7 +226,7 @@ Pub. L. 100–290, §1, Apr. 18, 1988, 102 Stat. 90, provided that: "This Act \[
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–660, title I, §101(a), Nov. 14, 1986, 100 Stat. 3743, provided that: "This title \[enacting section 382 of this title, amending sections 241 and 262 of Title 42, The Public Health and Welfare, and enacting provisions setout as notes under section 333 of this title and section 262 of Title 42\] may be cited as the 'Drug Export Amendments Act of 1986'."
+Pub. L. 99–660, title I, §101(a), Nov. 14, 1986, 100 Stat. 3743, provided that: "This title \[enacting section 382 ofthis title, amending sections 241 and 262 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 333 of this title and section 262 of Title 42\] may be cited as the 'Drug Export Amendments Act of 1986'."
 
 #### Short Title of 1985 Amendment
 
@@ -288,7 +288,7 @@ Pub. L. 85–929, §1, Sept. 6, 1958, 72 Stat. 1784, provided: "That this Act \[
 
 Pub. L. 113–54, title I, §106(b), Nov. 27, 2013, 127 Stat. 598, provided that: "If any provision of this Act \[see Short Title of 2013 Amendment note above\] (including the amendments made by this Act) is declared unconstitutional, or the applicability of this Act (including the amendments made by this Act) to any person or circumstance is held invalid, the constitutionality of the remainder of this Act (including the amendments made by this Act) and the applicability thereof to other persons and circumstances shall not be affected."
 
-Pub. L. 110–85, title XI, §1105, Sept. 27, 2007, 121 Stat. 975, provided that: "If any provision of this Act \[see Short Title of 2007 Amendment note above\], an amendment made \[by\] this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the applicationof the provisions of such to any person or circumstances shall not be affected thereby."
+Pub. L. 110–85, title XI, §1105, Sept. 27, 2007, 121 Stat. 975, provided that: "If any provision of this Act \[see Short Title of 2007 Amendment note above\], an amendment made \[by\] this Act, or the application of such provision or amendment to any person or circumstance isheld to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstances shall not be affected thereby."
 
 #### Hazardous Substances
 

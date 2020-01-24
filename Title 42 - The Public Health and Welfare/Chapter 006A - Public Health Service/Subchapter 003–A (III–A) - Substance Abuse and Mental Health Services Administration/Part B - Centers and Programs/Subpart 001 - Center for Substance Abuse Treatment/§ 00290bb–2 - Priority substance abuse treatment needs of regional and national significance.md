@@ -20,7 +20,7 @@ The Secretary shall address priority substance use disorder treatment needs of r
 
 #### (2) Special consideration
 
-&emsp;In developing program priorities under paragraph (1), the Secretary shall give special consideration to promoting the integration ofsubstance use disorder treatment services into primary health care systems.
+&emsp;In developing program priorities under paragraph (1), the Secretary shall give special consideration to promoting the integration of substance use disorder treatment services into primary health care systems.
 
 #### (c) Requirements
 
@@ -38,7 +38,7 @@ The Secretary shall address priority substance use disorder treatment needs of r
 
 #### (4) Maintenance of effort
 
-&emsp;With respect to activities for which a grant, contract, or cooperative agreement is awarded under this section, the Secretary may require that recipients for specific projects under subsection (a) agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant, contract, or cooperative agreement.
+&emsp;With respect to activities for which a grant, contract, or cooperative agreement is awardedunder this section, the Secretary may require that recipients for specific projects under subsection (a) agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant, contract, or cooperative agreement.
 
 #### (d) Evaluation
 

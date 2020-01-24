@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(iii) an Indian tribe or a tribal organization (as defined in section 679c(a) of this title) or a tribal consortium that has a plan approved under section 671 of this title in accordance with section 679c of this title; and
 
-&emsp;&emsp;(C) the child has been placed in a foster family home, with a parent residing in a licensed residential family-based treatment facility, but only to the extent permitted under subsection (j), or in a child-care institution.
+&emsp;&emsp;(C) the child has been placed in a foster family home, with a parent residing in a licensed residential family-based treatment facility, but only to the extent permitted under subsection (j), or in a child-care institution, but only to the extent permitted under subsection (k).
 
 #### (3) AFDC eligibility requirement
 
@@ -58,9 +58,55 @@ Foster care maintenance payments may be made under this part only on behalf of a
 
 &emsp;(2) in a child-care institution, whether the payments therefor are made to such institution or to a public or private child-placement or child-care agency, which payments shall be limited so as to include in such payments only those items which are included in the term "foster care maintenance payments" (as defined in section 675(4) of this title).
 
-#### (c) "Foster family home" and "child-care institution" defined
+#### (c) Definitions
 
-For the purposes of this part, (1) the term "foster family home" means a foster family home for children which is licensed by the State in which it is situated or has been approved, by the agency of such State having responsibility for licensing homes of this type, as meeting the standards established for such licensing; and (2) the term "child-care institution" means a private child-care institution, or a public child-care institution which accommodates no more than twenty-five children, which is licensed by the State in which it is situated or has been approved, by the agency of such State responsible for licensing or approval of institutions of this type, as meeting the standards established for such licensing, except, in the case of a child who has attained 18 years of age, the term shall include a supervised setting in which the individual is living independently, in accordance with such conditions as the Secretary shall establish in regulations, but the term shall not include detention facilities, forestry camps, training schools, or any other facility operated primarily for the detention of children who are determined to be delinquent.
+For purposes of this part:
+
+#### (1) Foster family home
+
+#### (A) In general
+
+&emsp;&emsp;The term "foster family home" means the home of an individual or family—
+
+&emsp;&emsp;&emsp;(i) that is licensed or approved by the State in which it is situated as a foster family home that meets the standards established for the licensing or approval; and
+
+&emsp;&emsp;&emsp;(ii) in which a child in foster care has been placed in the care of an individual, who resides with the child and who has been licensed or approved by the State to be a foster parent—
+
+&emsp;&emsp;&emsp;&emsp;(I) that the State deems capable of adhering to the reasonable and prudent parent standard;
+
+&emsp;&emsp;&emsp;&emsp;(II) that provides 24-hour substitute care for children placed away from their parents or other caretakers; and
+
+&emsp;&emsp;&emsp;&emsp;(III) that provides the care for not more than six children in foster care.
+
+#### (B) State flexibility
+
+&emsp;&emsp;The number of foster children that may be cared for in a home under subparagraph (A) may exceed the numerical limitation in subparagraph (A)(ii)(III), at the option of the State, for any of the following reasons:
+
+&emsp;&emsp;&emsp;(i) To allow a parenting youth in foster care to remain with the child of the parenting youth.
+
+&emsp;&emsp;&emsp;(ii) To allow siblings to remain together.
+
+&emsp;&emsp;&emsp;(iii) To allow a child with an established meaningful relationship with the family to remain with the family.
+
+&emsp;&emsp;&emsp;(iv) To allow a family with special training or skills to provide care to a child who has a severe disability.
+
+#### (C) Rule of construction
+
+&emsp;&emsp;Subparagraph (A) shall not be construed as prohibiting a foster parent from renting the home in which the parent cares for a foster child placed in the parent's care.
+
+#### (2) Child-care institution
+
+#### (A) In general
+
+&emsp;&emsp;The term "child-care institution" means a private child-care institution, or a public child-care institution which accommodates no more than 25 children, which is licensed by the State in which it is situated or has been approved by the agency of the State responsible for licensing or approval of institutions of this type as meeting the standards established for the licensing.
+
+#### (B) Supervised settings
+
+&emsp;&emsp;In the case of a child who has attained 18 years of age, the term shall include a supervised setting in which the individual is living independently, in accordance with such conditions as the Secretary shall establish in regulations.
+
+#### (C) Exclusions
+
+&emsp;&emsp;The term shall not include detention facilities, forestry camps, training schools, or any other facility operated primarily for the detention of children who are determined to be delinquent.
 
 #### (d) Children removed from their homes pursuant to voluntary placement agreements
 
@@ -86,7 +132,7 @@ In any case where—
 
 #### (h) Aid for dependent children; assistance for minor children in needy families
 
-(1) For purposes of subchapter XIX, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect). For purposes of division A <sup>1</sup> of subchapter XX, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and is deemed to be a recipient of assistance under such part.
+(1) For purposes of subchapter XIX, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect). For purposes of divisionA <sup>1</sup> of subchapter XX, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and is deemed to be a recipient of assistance under such part.
 
 (2) For purposes of paragraph (1), a child whose costs in a foster family home or child care institution are covered by the foster care maintenance payments being made with respect to the child's minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section.
 
@@ -116,151 +162,89 @@ Expenditures by a State that would be considered administrative expenditures for
 
 &emsp;&emsp;(B) the treatment facility provides, as part of the treatment for substance abuse, parenting skills training, parent education, and individual and family counseling; and
 
-&emsp;&emsp;(C) the substance abuse treatment, parenting skills training, parent education, and individual and family counseling is provided under an organizational structure and treatment framework that involves understanding, recognizing, and responding to the effects of all types of trauma and in accordance with recognized principles of a trauma-informed approach and trauma-specificinterventions to address the consequences of trauma and facilitate healing.
+&emsp;&emsp;(C) the substance abuse treatment, parenting skills training, parent education, and individual and family counseling is provided under an organizational structure and treatment framework that involves understanding, recognizing, and responding to the effects of all types of trauma and in accordance with recognized principles of a trauma-informed approach and trauma-specific interventions to address the consequences of trauma and facilitate healing.
 
 #### (2) Application
 
 &emsp;With respect to children for whom foster care maintenance payments are made under paragraph (1), only the children who satisfy the requirements of paragraphs (1)(B) and (3) of subsection (a) shall be considered to be children with respect to whom foster care maintenance payments are made under this section for purposes of subsection (h) or section 673(b)(3)(B) of this title.
 
+#### (k) Limitation on Federal financial participation
+
+#### (1) In general
+
+&emsp;Beginning with the third week for which foster care maintenance payments are made under this section on behalf of a child placed in a child-care institution, no Federal payment shall be made to the State under section 674(a)(1) of this title for amounts expended for foster care maintenance payments on behalf of the child unless—
+
+&emsp;&emsp;(A) the child is placed in a child-care institution that is a setting specified in paragraph (2) (or is placed in a licensed residential family-based treatment facility consistent with subsection (j)); and
+
+&emsp;&emsp;(B) in the case of a child placed in a qualified residential treatment program (as defined in paragraph (4)), the requirements specified in paragraph (3) and section 675a(c) of this title are met.
+
+#### (2) Specified settings for placement
+
+&emsp;The settings for placement specified in this paragraph are the following:
+
+&emsp;&emsp;(A) A qualified residential treatment program (as defined in paragraph (4)).
+
+&emsp;&emsp;(B) A setting specializing in providing prenatal, post-partum, or parenting supports for youth.
+
+&emsp;&emsp;(C) In the case of a child who has attained 18 years of age, a supervised setting in which the child is living independently.
+
+&emsp;&emsp;(D) A setting providing high-quality residential care and supportive services to children and youth who have been found to be,or are at risk of becoming, sex trafficking victims, in accordance with section 671(a)(9)(C) of this title.
+
+#### (3) Assessment to determine appropriateness of placement in a qualified residential treatment program
+
+#### (A) Deadline for assessment
+
+&emsp;&emsp;In the case of a child who is placed in a qualified residential treatment program, if the assessment required under section 675a(c)(1) of this title is not completed within 30 days after the placement is made, no Federal payment shall be made to the State under section 674(a)(1) of this title for any amounts expended for foster care maintenance payments on behalf of the child during the placement.
+
+#### (B) Deadline for transition out of placement
+
+&emsp;&emsp;If the assessment required under section 675a(c)(1) of this title determines that the placement of a child in a qualified residential treatment program is not appropriate, a court disapproves such a placement under section 675a(c)(2) of this title, or a child who has been in an approved placement in a qualified residential treatment program is going to return home or be placed with a fit and willing relative, a legal guardian, or an adoptive parent, or in a foster family home, Federal payments shall be made to the State under section 674(a)(1) of this title for amounts expended for foster care maintenance payments on behalf of the child while the child remains in the qualified residential treatment program only during the period necessary for the child to transition home or to such a placement. In no event shall a State receive Federal payments under section 674(a)(1) of this title for amounts expended for foster care maintenance payments on behalf of a child who remains placed in a qualified residential treatment program after the end of the 30-day period that begins on the date a determination is made that the placement is no longer the recommended or approved placement for the child.
+
+#### (4) Qualified residential treatment program
+
+&emsp;For purposes of this part, the term "qualified residential treatment program" means a program that—
+
+&emsp;&emsp;(A) has a trauma-informed treatment model that is designed to address the needs, including clinical needs as appropriate, of children with serious emotional or behavioral disorders or disturbances and, with respect to a child, is able to implement the treatment identified for the child by the assessment of the child required under section 675a(c) of this title;
+
+&emsp;&emsp;(B) subject to paragraphs (5) and (6), has registered or licensed nursing staff and other licensed clinical staff who—
+
+&emsp;&emsp;&emsp;(i) provide care within the scope of their practice as defined by State law;
+
+&emsp;&emsp;&emsp;(ii) are on-site according to the treatment model referred to in subparagraph (A); and
+
+&emsp;&emsp;&emsp;(iii) are available 24 hours a day and 7 days a week;
+
+&emsp;&emsp;(C) to extent appropriate, and in accordance with the child's best interests, facilitates participation of family members in the child's treatment program;
+
+&emsp;&emsp;(D) facilitates outreach to the family members of the child, including siblings, documents how the outreach is made (including contact information), and maintains contact information for any known biological family and fictive kin of the child;
+
+&emsp;&emsp;(E) documents how family members are integrated into the treatment process for the child, including post-discharge, and how sibling connections are maintained;
+
+&emsp;&emsp;(F) provides discharge planning and family-based aftercare support for at least 6 months post-discharge; and
+
+&emsp;&emsp;(G) is licensed in accordance with section 671(a)(10) of this title and is accredited by any of the following independent, not-for-profit organizations:
+
+&emsp;&emsp;&emsp;(i) The Commission on Accreditation of Rehabilitation Facilities (CARF).
+
+&emsp;&emsp;&emsp;(ii) The Joint Commission on Accreditation of Healthcare Organizations (JCAHO).
+
+&emsp;&emsp;&emsp;(iii) The Council on Accreditation (COA).
+
+&emsp;&emsp;&emsp;(iv) Any other independent, not-for-profit accrediting organization approved by the Secretary.
+
+#### (5) Administrative costs
+
+&emsp;The prohibition in paragraph (1) on Federal payments under section 674(a)(1) of this title shall not be construed as prohibiting Federal payments for administrative expenditures incurred on behalf of a child placed in a child-care institution and for which payment is available under section 674(a)(3) of this title.
+
+#### (6) Rule of construction
+
+&emsp;The requirements in paragraph (4)(B) shall not be construed as requiring a qualified residential treatment program to acquire nursing and behavioral health staff solely through means of a direct employer to employee relationship.
+
 (Aug. 14, 1935, ch. 531, title IV, §472, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(1), (2), June 17, 1980, 94 Stat. 503, 513, 514; Pub. L. 99–603, title II, §201(b)(2)(A), title III, §§302(b)(2), 303(e)(2), Nov. 6, 1986, 100 Stat. 3403, 3422, 3431; Pub. L. 100–203, title IX, §§9133(b)(2), 9139(a), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §202(d)(3), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 104–193, title I, §108(d)(3), (4), title V, §501, Aug. 22, 1996, 110 Stat. 2166, 2277; Pub. L. 105–33, title V, §§5513(b)(1), (2), 5592(b), Aug. 5, 1997, 111 Stat. 620, 644; Pub. L. 105–89, title I, §101(c), Nov. 19, 1997, 111 Stat. 2117; Pub. L. 106–169, title I, §111, Dec. 14, 1999, 113 Stat. 1829; Pub. L. 109–113, §2, Nov. 22, 2005, 119 Stat. 2371; Pub. L. 109–171, title VII, §§7403(a), 7404(a), Feb. 8, 2006, 120 Stat. 151; Pub. L. 109–288, §6(f)(6), Sept. 28, 2006, 120 Stat. 1247; Pub. L. 110–351, title II, §201(b), title III, §301(a)(2), Oct. 7, 2008, 122 Stat. 3958, 3967; Pub. L. 111–148, title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 803; Pub. L. 115–123, div. E, title VII, §§50712(a), 50741(a)(1), (b), Feb. 9, 2018, 132 Stat. 244, 253, 255.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–123, div. E, title VII, §§50741(a)(1), (b), 50746, Feb. 9, 2018, 132 Stat. 253, 255, 261, provided that, effective Oct. 1, 2019, with State option to delay effective date for not more than 2 years and subject to State waiver provisions, this section is amended—</i>
-
-<i>(1) in subsection (a)(2)(C), by inserting ", but only to the extent permitted under subsection (k)" after "institution";</i>
-
-<i>(2) by amending subsection (c) to read as follows:</i>
-
-#### <i>"(c) Definitions</i>
-
-<i>"For purposes of this part:</i>
-
-#### <i>"(1) Foster family home</i>
-
-#### <i>"(A) In general</i>
-
-&emsp;&emsp;<i>"The term 'foster family home' means the home of an individual or family—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) that is licensed or approved by the State in which it is situated as a foster family home that meets the standards established for the licensing or approval; and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) in which a child in foster care has been placed in the care of an individual, who resides with the child and who has been licensed or approved by the State to be a foster parent—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) that the State deems capable of adhering to the reasonable and prudent parent standard;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) that provides 24-hour substitute care for children placed away from their parents or other caretakers; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(III) that provides the care for not more than six children in foster care.</i>
-
-#### <i>"(B) State flexibility</i>
-
-&emsp;&emsp;<i>"The number of foster children that may be cared for in a home under subparagraph (A) may exceed the numerical limitation in subparagraph (A)(ii)(III), at the option of the State, for any of the following reasons:</i>
-
-&emsp;&emsp;&emsp;<i>"(i) To allow a parenting youth in foster care to remain with the child of the parenting youth.</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) To allow siblings to remain together.</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) To allow a child with an established meaningful relationship with the family to remain with the family.</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) To allow a family with special training or skills to provide care to a child who has a severe disability.</i>
-
-#### <i>"(C) Rule of construction</i>
-
-&emsp;&emsp;<i>"Subparagraph (A) shall not be construed as prohibiting a foster parent from renting the home in which the parent cares for a foster child placed in the parent's care.</i>
-
-#### <i>"(2) Child-care institution</i>
-
-#### <i>"(A) In general</i>
-
-&emsp;&emsp;<i>"The term 'child-care institution' means a private child-care institution, or a public child-care institution which accommodates no more than 25 children, which is licensed by the State in which it is situated or has been approved by the agency of the State responsible for licensing or approval of institutions of this type as meeting the standards established for the licensing.</i>
-
-#### <i>"(B) Supervised settings</i>
-
-&emsp;&emsp;<i>"In the case of a child who has attained 18 years of age, the term shall include a supervised setting in which the individual is living independently, in accordance with such conditions as the Secretary shall establish in regulations.</i>
-
-#### <i>"(C) Exclusions</i>
-
-&emsp;&emsp;<i>"The term shall not include detention facilities, forestry camps, training schools, or any other facility operated primarily for the detention of children who are determined to be delinquent."; and</i>
-
-<i>(3) by adding at the end the following:</i>
-
-#### <i>"(k) Limitation on Federal financial participation</i>
-
-#### <i>"(1) In general</i>
-
-&emsp;<i>"Beginning with the third week for which foster care maintenance payments are made under this section on behalf of a child placed in a child-care institution, no Federal payment shall be made to the State under section 674(a)(1) of this title for amounts expended for foster care maintenance payments on behalf of the child unless—</i>
-
-&emsp;&emsp;<i>"(A) the child is placed in a child-care institution that is a setting specified in paragraph (2) (or is placed in a licensed residential family-based treatment facility consistent with subsection (j)); and</i>
-
-&emsp;&emsp;<i>"(B) in the case of a child placed in a qualified residential treatment program (as defined in paragraph (4)), the requirements specified in paragraph (3) and section 675a(c) of this title are met.</i>
-
-#### <i>"(2) Specified settings for placement</i>
-
-&emsp;<i>"The settings for placement specified in this paragraph are the following:</i>
-
-&emsp;&emsp;<i>"(A) A qualified residential treatment program (as defined in paragraph (4)).</i>
-
-&emsp;&emsp;<i>"(B) A setting specializing in providing prenatal, post-partum, or parenting supports for youth.</i>
-
-&emsp;&emsp;<i>"(C) In the case of a child who has attained 18 years of age, a supervised setting in which the child is living independently.</i>
-
-&emsp;&emsp;<i>"(D) A setting providing high-quality residential care and supportive services to children and youth who have been found to be, or are at risk of becoming, sex trafficking victims, in accordance with section 671(a)(9)(C) of this title.</i>
-
-#### <i>"(3) Assessment to determine appropriateness of placement in a qualified residential treatment program</i>
-
-#### <i>"(A) Deadline for assessment</i>
-
-&emsp;&emsp;<i>"In the case of a child who is placed in a qualified residential treatment program, if the assessment required under section 675a(c)(1) of this title is not completed within 30 days after the placement is made, no Federal payment shall be made to the State under section 674(a)(1) of this title for any amounts expended for foster care maintenance payments on behalf of the child during the placement.</i>
-
-#### <i>"(B) Deadline for transition out of placement</i>
-
-&emsp;&emsp;<i>"If the assessment required under section 675a(c)(1) of this title determines that the placement of a child in a qualified residential treatment program is not appropriate, a court disapproves such a placement under section 675a(c)(2) of this title, or a child who has been in an approved placement in a qualified residential treatment program is going to return home or be placed with a fit and willing relative, a legal guardian, or an adoptive parent, or in a foster family home, Federal payments shall be made to the State under section 674(a)(1) of this title for amounts expended for foster care maintenance payments on behalf of the child while the child remains in the qualified residential treatment program only during the period necessary for the child to transition home or to such a placement. In no event shall a State receive Federal payments under section 674(a)(1) of this title for amounts expended for foster care maintenance payments on behalf of a child who remains placed in a qualified residential treatment program after the end of the 30-day period that begins on the date a determination is made that the placement is no longer the recommended or approved placement for the child.</i>
-
-#### <i>"(4) Qualified residential treatment program</i>
-
-&emsp;<i>"For purposes of this part, the term 'qualified residential treatment program' means a program that—</i>
-
-&emsp;&emsp;<i>"(A) has a trauma-informed treatment model that is designed to address the needs, including clinical needs as appropriate, of children with serious emotional or behavioral disorders or disturbances and, with respect to a child, is able to implement the treatment identified for the child by the assessment of the child required under section 675a(c) of this title;</i>
-
-&emsp;&emsp;<i>"(B) subject to paragraphs (5) and (6), has registered or licensed nursing staff and other licensed clinical staff who—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) provide care within the scope of their practice as defined by State law;</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) are on-site according to the treatment model referred to in subparagraph (A); and</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) are available 24 hours a day and 7 days a week;</i>
-
-&emsp;&emsp;<i>"(C) to extent appropriate, and in accordance with the child's best interests, facilitates participation of family members in the child's treatment program;</i>
-
-&emsp;&emsp;<i>"(D) facilitates outreach to the family members of the child, including siblings, documents how the outreach is made (including contact information), and maintains contact information for any known biological family and fictive kin of the child;</i>
-
-&emsp;&emsp;<i>"(E) documents how family members are integrated into the treatment process for the child, including post-discharge, and how sibling connections are maintained;</i>
-
-&emsp;&emsp;<i>"(F) provides discharge planning and family-based aftercare support for at least 6 months post-discharge; and</i>
-
-&emsp;&emsp;<i>"(G) is licensed in accordance with section 671(a)(10) of this title and is accredited by any of the following independent, not-for-profit organizations:</i>
-
-&emsp;&emsp;&emsp;<i>"(i) The Commission on Accreditation of Rehabilitation Facilities (CARF).</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) The Joint Commission on Accreditation of Healthcare Organizations (JCAHO).</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) The Council on Accreditation (COA).</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) Any other independent, not-for-profit accrediting organization approved by the Secretary.</i>
-
-#### <i>"(5) Administrative costs</i>
-
-&emsp;<i>"The prohibition in paragraph (1) on Federal payments under section 674(a)(1) of this title shall not be construed as prohibiting Federal payments for administrative expenditures incurred on behalf of a child placed in a child-care institution and for which payment is available under section 674(a)(3) of this title.</i>
-
-#### <i>"(6) Rule of construction</i>
-
-&emsp;<i>"The requirements in paragraph (4)(B) shall not be construed as requiring a qualified residential treatment program to acquire nursing and behavioral health staff solely through means of a direct employer to employee relationship."</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 #### References in Text
 
-The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(4), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
+The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(4),is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
 
 Division A of subchapter XX, referred to in subsec. (h)(1), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
 
@@ -268,7 +252,7 @@ Division A of subchapter XX, referred to in subsec. (h)(1), was in the original 
 
 <b>2018</b>—Subsec. (a)(2)(C). Pub. L. 115–123, §50741(a)(1)(A), inserted ", but only to the extent permitted under subsection (k)" after "institution".
 
-Pub. L. 115–123, §50712(a)(1), substituted ", with a parent residing in a licensed residential family-basedtreatment facility, but only to the extent permitted under subsection (j), or in a" for "or".
+Pub. L. 115–123, §50712(a)(1), substituted ", with a parent residing in a licensed residential family-based treatment facility, but only to the extent permitted under subsection (j), or in a" for "or".
 
 Subsec. (c). Pub. L. 115–123, §50741(b), amended subsec. (c) generally. Prior to amendment, text read as follows: "For the purposes of this part, (1) the term 'foster family home' means a foster family home for children which is licensed by the State in which it is situated or has been approved, by the agency of such State having responsibility for licensing homes of this type, as meeting the standards established for such licensing; and (2) the term 'child-care institution' means a private child-care institution, or a public child-care institution which accommodates no more than twenty-five children, which is licensed by the State in which it is situated or has been approved, by the agency of such State responsible for licensing or approval of institutions of this type, as meeting the standards established for such licensing, except, in the case of a child who has attained 18 years of age, the term shall include a supervised setting in which the individual is living independently, in accordance with such conditions as the Secretary shall establish in regulations, but the term shall not include detention facilities, forestry camps, training schools, or any other facility operated primarily for the detention of children who are determined to be delinquent."
 
@@ -332,7 +316,7 @@ Subsecs. (d) to (h). Pub. L. 96–272, §102(a)(2), added subsecs. (d) to (g). F
 
 Amendment by section 50712(a) of Pub. L. 115–123 effective Oct. 1, 2018, subject to transition rules for required State legislation or tribal action, see section 50734 of Pub. L. 115–123, set out as a note under section 622 of this title.
 
-Amendment by section 50741(a)(1), (b) of Pub. L. 115–123 effective Oct. 1, 2019, with State option to delay effective date for not more than 2 years and subject to State waiver provisions, see section 50746 of Pub. L. 115–123, set out as a note under section 622 of this title.
+Amendment by section 50741(a)(1), (b) of Pub. L. 115–123 effective Oct. 1, 2019, with State option to delayeffective date for not more than 2 years and subject to State waiver provisions, see section 50746 of Pub. L. 115–123, set out as a note under section 622 of this title.
 
 #### Effective Date of 2008 Amendment
 

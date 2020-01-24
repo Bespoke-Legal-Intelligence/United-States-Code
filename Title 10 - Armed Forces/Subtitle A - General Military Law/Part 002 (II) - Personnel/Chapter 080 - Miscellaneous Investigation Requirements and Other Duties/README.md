@@ -47,6 +47,74 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §542(b), title X, §1072(b)\], Oc
 
 <b>1999</b>—Pub. L. 106–65, div. A, title V, §594(b), Oct. 5, 1999, 113 Stat. 644, added item 1562.
 
+#### Increase in Number of Digital Forensic Examiners for Certain Military Criminal Investigative Organizations
+
+Pub. L. 116–92, div. A, title V, §539, Dec. 20, 2019, 133 Stat. 1364, provided that:
+
+"(a)
+
+In General.—Each Secretary of a military department shall take appropriate actions to increase the number of digital forensic examiners in each military criminal investigative organization specified in subsection (b) under the jurisdiction of such Secretary by not fewer than 10 from the authorized number of such examiners for such organization as of September 30, 2019.
+
+"(b)
+
+Military Criminal Investigative Organizations.—The military criminal investigative organizations specified in this subsection are the following:
+
+&emsp;"(1) The Army Criminal Investigation Command.
+
+&emsp;"(2) The Naval Criminal Investigative Service.
+
+&emsp;"(3) The Air Force Office of Special Investigations.
+
+"(c)
+
+Funding.—Funds for additional digital forensic examiners as required by subsection (a) for fiscal year 2020, including for compensation, initial training, and equipment, shall be derived from amounts authorized to be appropriated for that fiscal year for the Armed Force concerned for operation and maintenance."
+
+#### Increase in Investigative Personnel and Victim Witness Assistance Program Liaisons
+
+Pub. L. 116–92, div. A, title V, §540, Dec. 20, 2019, 133 Stat. 1364, provided that:
+
+"(a)
+
+Military Criminal Investigative Services.—Not later than one year after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of each military department shall increase the number of personnel assigned to the military criminal investigative services of the department with the goal of ensuring, to the extent practicable, that the investigation of any sex-related offense is completed not later than six months after the date on which the investigation is initiated. An investigation shall be considered completed for purposes of the preceding sentence when the active phase of the investigation is sufficiently complete to enable the appropriate authority to reach a decision with respect to the disposition of charges for the sex-related offense.
+
+"(b)
+
+Victim Witness Assistance Program Liaisons.—Not later than one year after the date of the enactment of this Act, the Secretary of each military department shall increase the number of personnel serving as Victim Witness Assistance Program liaisons to address personnel shortages in the Victim Witness Assistance Program.
+
+"(c)
+
+Rule of Construction.—Nothing in this section shall be construed to create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person."
+
+#### Enhancing the Capability of Military Criminal Investigative Organizations To Prevent and Combat Child Sexual Exploitation
+
+Pub. L. 116–92, div. A, title V, §550D, Dec. 20, 2019, 133 Stat. 1383, provided that:
+
+"(a)
+
+In General.—Beginning not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall establish and carry out an initiative to enhance the capability of military criminal investigative organizations to prevent and combat child sexual exploitation.
+
+"(b)
+
+Activities.—In establishing and carrying out the initiative under subsection (a), the Secretary of Defense may—
+
+&emsp;"(1) work with internal and external functional experts to train the personnel of military criminal investigative organizations across the Department regarding—
+
+&emsp;&emsp;"(A) technologies, tools, and techniques, including digital forensics, to enhance the investigation of child sexual exploitation; and
+
+&emsp;&emsp;"(B) evidence-based forensic interviewing of child victims, and the referral of child victims for trauma-informed mental and medical health care, and other treatment and support services;
+
+&emsp;"(2) to the extent authorized by law, collaborate with Federal, State, local, and other civilian law enforcement agencies on issues relating to child sexual exploitation, including by—
+
+&emsp;&emsp;"(A) participating in task forces established by such agencies for the purpose of preventing and combating child sexual exploitation;
+
+&emsp;&emsp;"(B) establishing cooperative agreements to facilitate co-training and collaboration with such agencies; and
+
+&emsp;&emsp;"(C) ensuring that streamlined processes for the referral of child sexual exploitation cases to other agencies and jurisdictions, as appropriate, are fully operational;
+
+&emsp;"(3) as appropriate, assist in educating the military community on the prevention and response to child sexual exploitation; and
+
+&emsp;"(4) carry out such other activities as the Secretary determines to be relevant."
+
 #### Multidisciplinary Teams for Military Installations on Child Abuse and Other Domestic Violence
 
 Pub. L. 115–232, div. A, title V, §577, Aug. 13, 2018, 132 Stat. 1781, provided that:
@@ -67,7 +135,7 @@ Single team for proximate installations.—A single multidisciplinary team descr
 
 Purposes.—The purposes of each multidisciplinary team maintained pursuant to subsection (a) shall be as follows:
 
-&emsp;"(1) To provide for the sharing of information among such team and other appropriate personnel on the installation or installations concerned regarding the progress of investigations into and resolutions of incidents of child abuse and other domestic violence involving members of the Armed Forces stationed at or otherwise assigned to the installation or installations.
+&emsp;"(1) To provide for the sharing of information among such team and other appropriate personnel on the installation or installations concerned regarding the progress of investigations into and resolutions of incidents of child abuse and other domestic violence involving members of the Armed Forces stationed ator otherwise assigned to the installation or installations.
 
 &emsp;"(2) To provide for and enhance collaborative efforts among such team and other appropriate personnel of the installation or installations regarding investigations into and resolutions of such incidents.
 
@@ -119,7 +187,7 @@ Collaboration.—In providing for the enhancement of social services available t
 
 Annual Reports.—Not later than March 1 of each year from 2020 through 2022, each Secretary concerned shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the activities of multidisciplinary teams maintained pursuant to subsection (a) under the jurisdiction of such Secretary during the preceding year. Each report shall set forth, for the period covered by such report, the following:
 
-&emsp;"(1) A summary description of the activities of the multidisciplinary teams concerned, including thenumber and composition of such teams, the recurring activities of such teams, and any notable achievements of such teams.
+&emsp;"(1) A summary description of the activities of the multidisciplinary teams concerned, including the number and composition of such teams, the recurring activities of such teams, and any notable achievements of such teams.
 
 &emsp;"(2) A description of any impediments to the effectiveness of such teams.
 

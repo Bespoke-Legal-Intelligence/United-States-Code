@@ -10,7 +10,7 @@
 
 &emsp;(2) willfully remains outside the United States, or its territories and possessions including the Commonwealth of Puerto Rico, for more than 1 year with knowledge of the indictment or charges, as the case may be.
 
-(b) The prohibition on payment of annuity or retired pay under subsection (a) of this sectionapplies to the period after the end of the 1-year period and continues until—
+(b) The prohibition on payment of annuity or retired pay under subsection (a) of this section applies to the period after the end of the 1-year period and continues until—
 
 &emsp;(1) a nolle prosequi to the entire indictment is entered on the record or the charges are dismissed by competent authority;
 

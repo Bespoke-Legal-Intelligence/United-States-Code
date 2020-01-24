@@ -12,7 +12,7 @@ This chapter may be cited as the "Rural Electrification Act of 1936".
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–129, §1, Nov. 1, 1993, 107 Stat. 1356, provided that: "This Act \[enacting sections 936d, 936e, and2008e of this title, amending sections 902, 904, 913, 918, 924, 935, 936c, 937, 939, 940d, 946, 948, 1926, and 2006f of this title, and enacting provisions set out as a note below\] may be cited as the 'Rural Electrification Loan Restructuring Act of 1993'."
+Pub. L. 103–129, §1, Nov. 1, 1993, 107 Stat. 1356, provided that: "This Act \[enacting sections 936d, 936e, and 2008e of this title, amending sections 902, 904, 913, 918, 924, 935, 936c, 937, 939, 940d, 946, 948, 1926, and 2006f of this title, and enacting provisions set out as a note below\] may be cited as the 'Rural Electrification Loan Restructuring Act of 1993'."
 
 #### Short Title of 1992 Amendment
 

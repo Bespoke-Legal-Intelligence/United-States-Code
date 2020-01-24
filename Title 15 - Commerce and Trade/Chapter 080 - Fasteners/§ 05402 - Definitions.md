@@ -10,7 +10,7 @@ As used in this chapter, the term—
 
 &emsp;(2) "consensus standard" means the provisions of a document that describes fastener characteristics published by a consensus standards organization or a Federal agency, and does not include a proprietary standard;
 
-&emsp;(3) "consensus standards organization" means the American Society for Testing and Materials, the American National Standards Institute, the American Society of Mechanical Engineers, the Society of Automotive Engineers, the International Organization for Standardization, any other organization identified as a United States consensus standards organization or a foreign and international consensus standards organization in the Federal Register at 61 Fed. Reg. 50582–83 (September 26, 1996), and any successor organizations thereto;
+&emsp;(3) "consensus standards organization" means the American Society for Testing and Materials, the American National Standards Institute, the American Society of Mechanical Engineers, the Society of Automotive Engineers, the International Organization for Standardization, any other organization identified as a United States consensus standards organization or a foreign and internationalconsensus standards organization in the Federal Register at 61 Fed. Reg. 50582–83 (September 26, 1996), and any successor organizations thereto;
 
 &emsp;(4) "Director" means the Director of the National Institute of Standards and Technology;
 
@@ -138,5 +138,5 @@ Par. (15). Pub. L. 104–113, §11(b)(6), redesignated par. (15) as (14).
 
 #### Comptroller General Report
 
-Pub. L. 106–34, §12, June 8, 1999, 113 Stat. 125, provided that: "Not later than 2 years after the date of the enactment of this Act \[June 8, 1999\], the Comptroller General shall transmit to the Congress a report describing any changes in industry practice resulting from or apparently resulting from the enactment of section 3(6)(B) of the Fastener Quality Act \[15 U.S.C. §5402(6)(B)\], as added by section 3 of this Act."
+Pub. L. 106–34, §12, June 8, 1999, 113 Stat. 125, provided that not later than 2 years after June 8, 1999, the Comptroller General would transmit to the Congress a report describing any changes in industry practice resulting from or apparently resulting from the enactment of paragraph (6)(B) of this section.
 

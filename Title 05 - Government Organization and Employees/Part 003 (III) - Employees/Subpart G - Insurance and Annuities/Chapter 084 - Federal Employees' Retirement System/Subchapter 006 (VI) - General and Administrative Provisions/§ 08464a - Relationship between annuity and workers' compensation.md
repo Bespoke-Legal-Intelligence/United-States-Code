@@ -28,5 +28,5 @@ Provisions similar to this section were contained in section 8456 of this title 
 
 #### Effective Date
 
-Section effective Jan. 1, 1987, and applicable with respect to benefits payable based on a death or disabilityoccurring on or after that date, see section 124(c) of Pub. L. 100–238 set out as an Effective Date of 1988 Amendment note under section 8337 of this title.
+Section effective Jan. 1, 1987, and applicable with respect to benefits payable based on a death or disability occurring on or after that date, see section 124(c) of Pub. L. 100–238 set out as an Effective Date of 1988 Amendment note under section 8337 of this title.
 

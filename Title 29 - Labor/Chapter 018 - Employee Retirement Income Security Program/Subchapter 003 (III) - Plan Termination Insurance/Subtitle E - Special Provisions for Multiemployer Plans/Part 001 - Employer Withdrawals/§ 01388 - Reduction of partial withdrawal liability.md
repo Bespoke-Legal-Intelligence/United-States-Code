@@ -12,7 +12,7 @@
 
 &emsp;(i) the bond shall be paid to the plan,
 
-&emsp;(ii) the employer shall immediately be liable for the outstanding amount of liability due with respect to the plan year for which the bond was posted, and
+&emsp;(ii) the employer shall immediately be liable for the outstanding amount of liability duewith respect to the plan year for which the bond was posted, and
 
 &emsp;(iii) the employer shall continue to make the partial withdrawal liability payments as they are due.
 
@@ -34,7 +34,7 @@ In any case in which, in any plan year following a partial withdrawal under sect
 
 (1) An employer to whom section 1383(b) <sup>2</sup> of this title (relating to the building and construction industry) applies is liable for a partial withdrawal only if the employer's obligation to contribute under the plan is continued for no more than an insubstantial portion of its work in the craft and area jurisdiction of the collective bargaining agreement of the type for which contributions are required.
 
-(2) An employer to whom section 1383(c) <sup>2</sup> of this title (relating to the entertainment industry) applies shall have no liability for a partialwithdrawal except under the conditions and to the extent prescribed by the corporation by regulation.
+(2) An employer to whom section 1383(c) <sup>2</sup> of this title (relating to the entertainment industry) applies shall have no liability for a partial withdrawal except under the conditions and to the extent prescribed by the corporation by regulation.
 
 #### (e) Reduction or elimination of partial withdrawal liability under any conditions; criteria; procedures applicable
 

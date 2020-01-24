@@ -58,7 +58,7 @@
 
 &emsp;(A) establish various income categories for dependent and independent undergraduate students;
 
-&emsp;(B) establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part F of this subchapter of a representative sample within each income category for the second preceding fiscal year;
+&emsp;(B) establish an expected family contribution for each income category of dependentand independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part F of this subchapter of a representative sample within each income category for the second preceding fiscal year;
 
 &emsp;(C) compute 25 percent of the average cost of attendance for all undergraduate students;
 
@@ -104,7 +104,7 @@
 
 #### (d) Reallocation of excess allocations
 
-(1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 5 percent of the total amount of funds granted to such institution under this section to compensate students employed in tutoring in reading and family literacy activities in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (b)of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
+(1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 5 percent of the total amount of funds granted to such institution under this section to compensate students employed in tutoring in reading and family literacy activities in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (b) of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
 
 (2) If, under paragraph (1) of this subsection, an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing this paragraph would be contrary to the interest of the program.
 
@@ -172,7 +172,7 @@ Pub. L. 105–244, title IV, §442(c), Oct. 7, 1998, 112 Stat. 1712, provided th
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

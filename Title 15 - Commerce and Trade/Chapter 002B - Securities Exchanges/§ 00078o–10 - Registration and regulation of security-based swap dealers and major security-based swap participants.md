@@ -50,7 +50,7 @@
 
 #### (2) Major security-based swap participant
 
-&emsp;Any person that is required to be registered as a major security-based swap participant under this section shall register with the Commission, regardless of whether the person also is registered with the Commodity Futures Trading Commission as a major swap participant.
+&emsp;Any person that is required to be registered as a major security-based swap participant under this section shall register with the Commission, regardless of whether the person also is registered with the Commodity FuturesTrading Commission as a major swap participant.
 
 #### (d) Rulemaking
 
@@ -210,11 +210,11 @@
 
 #### (A) Advising special entities
 
-&emsp;&emsp;A security-based swap dealer or major security-based swap participant that acts as an advisor to <sup>1</sup> special entity regarding a security-based swap shall comply with the requirements of paragraph (4) with respect to such special entity.
+&emsp;&emsp;A security-based swap dealer or major security-based swap participant that acts asan advisor to <sup>1</sup> special entity regarding a security-based swap shall comply with the requirements of paragraph (4) with respect to such special entity.
 
 #### (B) Entering of security-based swaps with respect to special entities
 
-&emsp;&emsp;A security-based swap dealer that enters into or offers to enter into <sup>1</sup> security-basedswap with a special entity shall comply with the requirements of paragraph (5) with respect to such special entity.
+&emsp;&emsp;A security-based swap dealer that enters into or offers to enter into <sup>1</sup> security-based swap with a special entity shall comply with the requirements of paragraph (5) with respect to such special entity.
 
 #### (C) Special entity defined
 
@@ -452,7 +452,7 @@ Each registered security-based swap dealer and major security-based swap partici
 
 #### (ii) Violations of prudential requirements
 
-&emsp;&emsp;&emsp;If the Commission has cause to believe that a securities-based swap dealer or major securities-based swap participant that has a prudential regulator may have engaged in conduct that constitute <sup>3</sup> a violation of the prudential requirements of subsection (e) or rules adopted thereunder, the Commission may recommend in writing to the prudential regulator that the prudential regulator initiate an enforcement proceeding as authorized under this chapter. The recommendation shall be accompanied by a written explanation of the concerns giving rise to the recommendation.
+&emsp;&emsp;&emsp;If the Commission has cause to believe that a securities-based swap dealer or major securities-based swap participant that has a prudential regulator may have engaged in conduct that constitute <sup>3</sup> a violation of the prudential requirements of subsection (e) or rules adopted thereunder, the Commission may recommend in writing to the prudential regulator that the prudential regulator initiate an enforcement proceeding as authorized under this chapter. The recommendation shall be accompanied by a written explanation of theconcerns giving rise to the recommendation.
 
 #### (D) Backstop enforcement authority
 
@@ -462,7 +462,7 @@ Each registered security-based swap dealer and major security-based swap partici
 
 #### (ii) Initiation of enforcement proceeding by Commission
 
-&emsp;&emsp;&emsp;If the prudential regulator does not initiate an enforcement proceeding before the end of the 90-day period beginning on thedate on which the prudential regulator receives a written report under subsection <sup>4</sup> (C)(ii), the Commission may initiate an enforcement proceeding.
+&emsp;&emsp;&emsp;If the prudential regulator does not initiate an enforcement proceeding before the end of the 90-day period beginning on the date on which the prudential regulator receives a written report under subsection <sup>4</sup> (C)(ii), the Commission may initiate an enforcement proceeding.
 
 #### (2) Censure, denial, suspension; notice and hearing
 

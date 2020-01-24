@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-After March 31, 1994, no person shall permit smoking within any indoor facility owned or leased or contracted for and utilized by suchperson for provision of routine or regular kindergarten, elementary, or secondary education or library services to children.
+After March 31, 1994, no person shall permit smoking within any indoor facility owned or leased or contracted for and utilized by such person for provision of routine or regular kindergarten, elementary, or secondary education or library services to children.
 
 #### (b) Additional prohibition
 
@@ -60,7 +60,7 @@ The prohibitions in subsections (a) through (c) shall be incorporated by publica
 
 #### (2) Administrative proceeding
 
-&emsp;A civil penalty may be assessed in a written notice, or an administrative compliance order may be issued, by the Secretary only after an opportunity for a hearing in accordance with section 554 of title 5. Before making such assessment or issuing such order, or both, the Secretary shall give written notice thereof to such person by certified mail with return receipt and provide therein an opportunity to request in writing not later than 30 days after the date of receipt of such notice such hearing. The notice shall reasonably describe the violation and be accompanied with the procedures for such hearing and a simple form to request such hearing if such person desires to use such form. If a hearing is requested, the Secretary shall establish by such certified notice the time and place for such hearing which should be located, to the greatest extent possible, at a location convenient to such person. The Secretary (or the Secretary's designee) and such person may consult to arrange a suitable date and location where appropriate.
+&emsp;A civil penalty may be assessed in a written notice, or an administrative compliance order may be issued, by the Secretary only after an opportunity for a hearing in accordance with section 554 of title 5. Before making such assessment or issuing such order, or both, the Secretary shall give written notice thereof to such person by certified mail with return receipt and provide therein an opportunity to request in writing not later than 30 days after the date of receipt of such notice such hearing. The notice shall reasonably describe the violation and be accompanied with the procedures for such hearing and a simple form to request such hearing if such person desires to use such form. If a hearing is requested, the Secretaryshall establish by such certified notice the time and place for such hearing which should be located, to the greatest extent possible, at a location convenient to such person. The Secretary (or the Secretary's designee) and such person may consult to arrange a suitable date and location where appropriate.
 
 #### (3) Circumstances affecting penalty or order
 
@@ -68,7 +68,7 @@ The prohibitions in subsections (a) through (c) shall be incorporated by publica
 
 &emsp;&emsp;(A) the nature, circumstances, extent, and gravity of the violation;
 
-&emsp;&emsp;(B) with respect to the violator, any good faith efforts to comply, the importance ofachieving early and permanent compliance, the ability to pay or comply, the effect of the penalty or order on the ability to continue operation, any prior history of the same kind of violation, the degree of culpability, and any demonstration of willingness to comply with the prohibitions of this section in a timely manner; and
+&emsp;&emsp;(B) with respect to the violator, any good faith efforts to comply, the importance of achieving early and permanent compliance, the ability to pay or comply, the effect of the penalty or order on the ability to continue operation, any prior history of the same kind of violation, the degree of culpability, and any demonstration of willingness to comply with the prohibitions of this section in a timely manner; and
 
 &emsp;&emsp;(C) such other matters as justice may require.
 

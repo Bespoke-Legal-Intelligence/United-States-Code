@@ -216,7 +216,7 @@ Delayed Implementation.—The modifications described in the report prepared und
 
 #### Placement of Orders by Chief Administrative Officer of the House of Representatives
 
-Pub. L. 107–206, title I, §904, Aug. 2, 2002, 116 Stat. 876, provided that: "Nothing in section 1535 of title 31, U.S.C. (commonly referred to as the 'Economy Act'), or any other provision of such title may be construed to prevent or restrict the Chief Administrative Officer of the House of Representatives from placing orders under such section during any fiscal year in the same manner and to the same extent as the head of any other major organizational unit with an agency may place orders under such section during a fiscal year."
+Pub. L. 107–206, title I, §904, Aug. 2, 2002, 116 Stat. 876, provided that: "Nothing in section 1535 of title 31, U.S.C. (commonly referred to as the 'Economy Act'), or any other provision of such title may be construed to prevent or restrict the Chief Administrative Officer of the House of Representatives from placing orders under such section during any fiscal year in the same mannerand to the same extent as the head of any other major organizational unit with an agency may place orders under such section during a fiscal year."
 
 #### Economy Act Purchases
 
@@ -226,7 +226,7 @@ Pub. L. 103–355, title I, §1074, Oct. 13, 1994, 108 Stat. 3271, provided that
 
 Pub. L. 105–261, div. A, title VIII, §814, Oct. 17, 1998, 112 Stat. 2087, which directed Secretary of Defense, not later than 90 days after Oct. 17, 1998, to revise regulations issued pursuant to section 844 of the National Defense Authorization Act for Fiscal Year 1994 (Pub. L. 103–160, see below) to cover certain purchases greater than the micro-purchase threshold and to provide for a streamlined method of compliance for any such purchase that is not greater than the simplified acquisition threshold, ceased to be effective 1 year after date on which final regulations took effect. Final regulations were published in the Federal Register Mar. 25, 1999, effective on that date. See 64 F.R. 14399.
 
-Pub. L. 103–160, div. A, title VIII, §844, Nov. 30, 1993, 107 Stat. 1720, directed Secretary of Defense, not later than six months after Nov. 30, 1993, to prescribe regulations governing exercise by Department of Defense of authority under this section to purchase goods and services under contracts entered into or administered by another agency, and provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published inthe Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
+Pub. L. 103–160, div. A, title VIII, §844, Nov. 30, 1993, 107 Stat. 1720, directed Secretary of Defense, not later than six months after Nov. 30, 1993, to prescribe regulations governing exercise by Department of Defense of authority under this section to purchase goods and services under contracts entered into or administered by another agency, and provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
 
 #### Acquisition of Goods, Services, or Space by Secretary of Senate and Sergeant at Arms and Doorkeeper of Senate
 

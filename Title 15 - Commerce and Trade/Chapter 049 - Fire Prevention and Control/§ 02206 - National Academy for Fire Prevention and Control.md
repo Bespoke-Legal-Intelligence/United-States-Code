@@ -118,7 +118,7 @@ The Administrator is authorized to—
 
 #### (j) Board of Visitors
 
-Upon establishment of the Academy, the Administrator of FEMA shall establish a procedure for the selection of professionals in the field of fire safety, fire prevention, fire control, research and development in fire protection, treatment and rehabilitation of fire victims, or local government services management to serve as members of a Board of Visitors for the Academy. Pursuant to such procedure, the Administrator of FEMA shall select eight such persons to serve as members of such Board of Visitors to serve such terms as the Administrator of FEMA may prescribe. The function of such Board shall be to review annually the program of the Academy and to make comments and recommendations to the Administrator of FEMA regarding the operation of the Academy and any improvements therein which such Board deems appropriate. Each member of such Board shall be reimbursed for any expenses actually incurred by him in the performance of his duties as a member of such Board.
+Upon establishment of the Academy, the Administrator of FEMA shall establish a procedure for the selection of professionals in the field offire safety, fire prevention, fire control, research and development in fire protection, treatment and rehabilitation of fire victims, or local government services management to serve as members of a Board of Visitors for the Academy. Pursuant to such procedure, the Administrator of FEMA shall select eight such persons to serve as members of such Board of Visitors to serve such terms as the Administrator of FEMA may prescribe. The function of such Board shall be to review annually the program of the Academy and to make comments and recommendations to the Administrator of FEMA regarding the operation of the Academy and any improvements therein which such Board deems appropriate. Each member of such Board shall be reimbursed for any expenses actually incurred by him in the performance of his duties as a member of such Board.
 
 #### (k) Accreditation
 
@@ -156,7 +156,7 @@ The Superintendent is authorized to admit to the courses and programs of the Aca
 
 In the first annual report filed pursuant to section 2215 of this title for which the deadline for filing is after the expiration of the 18-month period that begins on October 8, 2008, and in every third annual report thereafter, the Administrator shall include information about changes made to the National Fire Academy curriculum, including—
 
-&emsp;(1) the basis for such changes, including a review of the incorporation of lessons learned byemergency response personnel after significant emergency events and emergency preparedness exercises performed under the National Exercise Program; and
+&emsp;(1) the basis for such changes, including a review of the incorporation of lessons learned by emergency response personnel after significant emergency events and emergency preparedness exercises performed under the National Exercise Program; and
 
 &emsp;(2) the desired training outcome of all such changes.
 

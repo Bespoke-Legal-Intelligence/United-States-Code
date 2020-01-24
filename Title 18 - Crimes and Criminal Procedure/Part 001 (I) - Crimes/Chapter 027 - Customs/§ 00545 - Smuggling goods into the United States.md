@@ -6,7 +6,7 @@ Whoever fraudulently or knowingly imports or brings into the United States, any 
 
 Shall be fined under this title or imprisoned not more than 20 years, or both.
 
-Proof of defendant's possession of such goods, unless explained to the satisfaction of the jury,shall be deemed evidence sufficient to authorize conviction for violation of this section.
+Proof of defendant's possession of such goods, unless explained to the satisfaction of the jury, shall be deemed evidence sufficient to authorize conviction for violation of this section.
 
 Merchandise introduced into the United States in violation of this section, or the value thereof, to be recovered from any person described in the first or second paragraph of this section, shall be forfeited to the United States.
 

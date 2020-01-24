@@ -4,7 +4,7 @@ The Secretary of Homeland Security, in consultation with the Secretary of State,
 
 &emsp;(1) submitting to Interpol information about the theft or loss of passports of citizens or nationals of such a country; and
 
-&emsp;(2) issuing, and validating at the ports of entry of such a country, electronic passports that are fraud-resistant, contain relevant biographic and biometric information (as determined by the Secretary of Homeland Security), and otherwise satisfy internationally accepted standards for electronic passports.
+&emsp;(2) issuing, and validating at the ports of entry of such a country, electronic passportsthat are fraud-resistant, contain relevant biographic and biometric information (as determined by the Secretary of Homeland Security), and otherwise satisfy internationally accepted standards for electronic passports.
 
 (Pub. L. 114–113, div. O, title II, §208, Dec. 18, 2015, 129 Stat. 2995.)
 

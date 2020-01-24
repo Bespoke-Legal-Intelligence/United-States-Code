@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Notwithstanding any other provision of law, the Secretary may issue an order directing an employee of the Department to repay the amount, or a portion of the amount, paid to or on behalf of the employee under title 5 for relocation expenses, including any expenses under section 5724 or 5724a of such title, or this title if—
+In General.—Notwithstanding any other provision of law, the Secretary may issue anorder directing an employee of the Department to repay the amount, or a portion of the amount, paid to or on behalf of the employee under title 5 for relocation expenses, including any expenses under section 5724 or 5724a of such title, or this title if—
 
 &emsp;(1) the Secretary determines that relocation expenses were paid following an act of fraud or malfeasance that influenced the authorization of the relocation expenses;
 

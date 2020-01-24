@@ -26,7 +26,7 @@ Exception to Square Feet and Cost Per Square Foot Limitations.—In order to equ
 
 (e)
 
-Use of Energy Efficient Products in Facilities.—(1) The Secretary of Defense shall ensure, to the maximum extent practicable, that energy efficient products meeting the requirements of the Department of Defense are used in construction, repair, or renovation of facilities by or for the Department carried out under chapter 169 of this title if such products are readily available and their use is consistent with the energy performance goals and energy performance master plan for the Department developed under section 2911 of this title and supported by the special considerations specified in subsection (e) of such section.
+Use of Energy Efficient Products in Facilities.—(1) The Secretary of Defense shall ensure, to the maximum extent practicable, that energy efficient products meeting the requirements of the Department of Defense are used inconstruction, repair, or renovation of facilities by or for the Department carried out under chapter 169 of this title if such products are readily available and their use is consistent with the energy performance goals and energy performance master plan for the Department developed under section 2911 of this title and supported by the special considerations specified in subsection (e) of such section.
 
 (2)(A) The Secretary of Defense shall prescribe a definition of the term "energy-efficient product" for purposes of this subsection and establish and maintain a list of products satisfying the definition. The definition and list shall be developed in consultation with the Secretary of Energy to ensure, to the maximum extent practicable, consistency with definitions of the term used by other Federal agencies.
 

@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(E) provide training in geriatrics and exposure to the physical and mental disabilities of elderly individuals through a variety of service rotations, such as geriatric consultation services, acute care services, dental services, geriatric behavioral or mental health units, day and home care programs, rehabilitation services, extended care facilities, geriatric ambulatory care and comprehensive evaluation units, and community care programs for elderly individuals with intellectual disabilities; and
 
-&emsp;&emsp;(F) provide training in geriatrics through one or both of the training options described in subparagraphs (A) and (B) of paragraph (3).
+&emsp;&emsp;(F) provide training in geriatrics through one or both of the training options describedin subparagraphs (A) and (B) of paragraph (3).
 
 #### (3) Training options
 

@@ -4,7 +4,7 @@
 
 (2) The Secretary of Defense shall take paragraph (1) into account in approving rates of obligation of appropriations under section 2204 of this title.
 
-(b) Each solicitation for a contract for supplies shall, if practicable, include a provision inviting each offeror responding to the solicitation to state an opinion on whether the quantityof the supplies proposed to be procured is economically advantageous to the United States and, if applicable, to recommend a quantity or quantities which would be more economically advantageous to the United States. Each such recommendation shall include a quotation of the total price and the unit price for supplies procured in each recommended quantity.
+(b) Each solicitation for a contract for supplies shall, if practicable, include a provision inviting each offeror responding to the solicitation to state an opinion on whether the quantity of the supplies proposed to be procured is economically advantageous to the United States and, if applicable, to recommend a quantity or quantities which would be more economically advantageous to the United States. Each such recommendation shall include a quotation of the total price and the unit price for supplies procured in each recommended quantity.
 
 (Added Pub. L. 98–525, title XII, §1233(a), Oct. 19, 1984, 98 Stat. 2600.)
 

@@ -36,7 +36,7 @@ Each local educational agency desiring a payment under subsection (a) shall repo
 
 &emsp;(1) the number of severely disabled children for which a payment may be made under this section; and
 
-&emsp;(2) a breakdown of the average cost, by placement (inside or outside the boundaries of the school district of the local educational agency), of providing education and related services to such children.
+&emsp;(2) a breakdown of the average cost, by placement (inside or outside the boundaries ofthe school district of the local educational agency), of providing education and related services to such children.
 
 #### (f) Payments subject to appropriation
 

@@ -56,7 +56,7 @@ No lands or waters, or interests therein, that are owned by the Foundation and a
 
 &emsp;(A) the interest is a long-term property interest, and
 
-&emsp;(B) the Foundation notifies the Federal agency that administers the program under which the funds were provided of the proposed acquisition, and the agency does not object in writing to the proposed acquisition within 60 calendar days after the date of the notification.
+&emsp;(B) the Foundation notifies the Federal agency that administers the program under which the funds were provided of the proposedacquisition, and the agency does not object in writing to the proposed acquisition within 60 calendar days after the date of the notification.
 
 (2) The Foundation shall convey to the United States Fish and Wildlife Service for inclusion within the National Wildlife Refuge System any real property acquired by the Foundation in whole or in part with Federal funds if the Director, within one year after the date on which the property was acquired by the Foundation, requests the conveyance in writing.
 
@@ -84,7 +84,7 @@ Reconveyance of real property.—The Foundation shall convey at not less than fa
 
 #### (f) Establishment of national whale conservation endowment fund
 
-(1) In carrying out the purposes under section 3701(b) of this title, the Foundation may establish a national whale conservation endowment fund, to be used by the Foundation to support research, management activities, or educationalprograms that contribute to the protection, conservation, or recovery of whale populations in waters of the United States.
+(1) In carrying out the purposes under section 3701(b) of this title, the Foundation may establish a national whale conservation endowment fund, to be used by the Foundation to support research, management activities, or educational programs that contribute to the protection, conservation, or recovery of whale populations in waters of the United States.
 
 (2)(A) In a manner consistent with subsection (c)(1), the Foundation may—
 

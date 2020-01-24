@@ -14,7 +14,7 @@ Covered Members.—A member eligible for monthly special compensation authorized
 
 &emsp;(3) in the absence of the provision of such assistance, would require hospitalization, nursing home care, or other residential institutional care; and
 
-&emsp;(4) meets such other criteria, if any, as the Secretary of Defense (or the Secretary ofHomeland Security, with respect to the Coast Guard) prescribes for purposes of this section.
+&emsp;(4) meets such other criteria, if any, as the Secretary of Defense (or the Secretary of Homeland Security, with respect to the Coast Guard) prescribes for purposes of this section.
 
 (c)
 

@@ -154,7 +154,7 @@ In this section:
 
 The provisions of this section shall terminate on the date that is 30 days after the date on which the President submits to Congress the certification described in section 8551(a) of this title.
 
-(Pub. L. 112–81, div. A, title XII, §1245, Dec. 31, 2011, 125 Stat. 1647; Pub. L. 112–158, title V,§§503(a)(1), (b)(1), 504(a), Aug. 10, 2012, 126 Stat. 1260, 1261; Pub. L. 112–239, div. A, title XII, §1250, Jan. 2, 2013, 126 Stat. 2016.)
+(Pub. L. 112–81, div. A, title XII, §1245, Dec. 31, 2011, 125 Stat. 1647; Pub. L. 112–158, title V, §§503(a)(1), (b)(1), 504(a), Aug. 10, 2012, 126 Stat. 1260, 1261; Pub. L. 112–239, div. A, title XII, §1250, Jan. 2, 2013, 126 Stat. 2016.)
 
 #### References in Text
 
@@ -162,7 +162,7 @@ The International Emergency Economic Powers Act, referred to in subsecs. (c) and
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2012, and not as part of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2012, and not as partof the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
 
 #### Amendments
 
@@ -209,6 +209,10 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Presidential Determinations Relating to Petroleum or Petroleum Products from Iran
 
 The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
+
+Determination of President of the United States, No. 2020–03, Oct. 25, 2019, 84 F.R. 59917.
+
+Determination of President of the United States, No. 2019–12, Apr. 29, 2019, 84 F.R. 22327.
 
 Determination of President of the United States, No. 2019–04, Oct. 31, 2018, 83 F.R. 57673.
 

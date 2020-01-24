@@ -12,7 +12,7 @@
 
 #### (3) Benefit of the doubt
 
-&emsp;When, after consideration of all evidence and relevant material for determining whether an individual is an eligible individual, there is anapproximate balance of positive and negative evidence regarding the merits of an issue material to the determination of eligibility, the benefit of the doubt in resolving each such issue shall be given to such individual.
+&emsp;When, after consideration of all evidence and relevant material for determining whether an individual is an eligible individual, there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of eligibility, the benefit of the doubt in resolving each such issue shall be given to such individual.
 
 #### (4) Notice from the Attorney General
 
@@ -32,7 +32,7 @@
 
 #### (7) Exclusion of certain individuals
 
-&emsp;No payment may be made under this section to any individual who, after September 1, 1987, accepts payment pursuant to an award of a final judgment or a settlement on a claim against the United States for acts described in section 4218(2)(B) of this title, or to any surviving spouse, child, or parent of such individual to whom paragraph (8) applies.
+&emsp;No payment may be made under this section to any individual who, after September 1, 1987,accepts payment pursuant to an award of a final judgment or a settlement on a claim against the United States for acts described in section 4218(2)(B) of this title, or to any surviving spouse, child, or parent of such individual to whom paragraph (8) applies.
 
 #### (8) Payments in the case of deceased persons
 
@@ -78,7 +78,7 @@ Amounts paid to an eligible individual under this section—
 
 &emsp;(1) shall be treated for purposes of the internal revenue laws of the United States as damages for human suffering; and
 
-&emsp;(2) shall not be included as income or resources for purposes of determining eligibility to receive benefits described in section3803(c)(2)(C) of title 31 or available under any other law administered by the Secretary of Veterans Affairs, or for purposes of determining the amount of such benefits.
+&emsp;(2) shall not be included as income or resources for purposes of determining eligibility to receive benefits described in section 3803(c)(2)(C) of title 31 or available under any other law administered by the Secretary of Veterans Affairs, or for purposes of determining the amount of such benefits.
 
 #### (g) Liability of United States limited to amount in Fund
 

@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (3) State
 
-&emsp;The term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
+&emsp;The term "State" includes the District of Columbia, the Commonwealth of Puerto Rico,the Virgin Islands, Guam, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
 
 (Aug. 14, 1935, ch. 531, title XI, §1141, as added Pub. L. 100–647, title VIII, §8008(b)(1), Nov. 10, 1988, 102 Stat. 3784; amended Pub. L. 103–296, title I, §108(b)(13), Aug. 15, 1994, 108 Stat. 1484.)
 

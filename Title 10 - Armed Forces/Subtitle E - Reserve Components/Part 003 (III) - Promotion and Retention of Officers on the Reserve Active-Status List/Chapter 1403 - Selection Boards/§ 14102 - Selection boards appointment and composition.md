@@ -22,7 +22,7 @@ Prohibition of Service on Consecutive Promotion Boards.—No officer may be a me
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in sections 3362(b), (c), 5893(a), (b), and 8362(b), (c) of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
+Provisions similar to those in this section were contained in sections 3362(b), (c), 5893(a), (b), and 8362(b), (c)of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
 

@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;(A) Any registrant, applicant for a registration, or producer who knowingly violates any provision of this subchapter shall be fined not more than $50,000 or imprisoned for not more than 1 year, or both.
+&emsp;(A) Any registrant, applicant for a registration, or producer who knowingly violates anyprovision of this subchapter shall be fined not more than $50,000 or imprisoned for not more than 1 year, or both.
 
 &emsp;(B) Any commercial applicator of a restricted use pesticide, or any other person not described in subparagraph (A) who distributes or sells pesticides or devices, who knowingly violates any provision of this subchapter shall be fined not more than $25,000 or imprisoned for not more than 1 year, or both.
 

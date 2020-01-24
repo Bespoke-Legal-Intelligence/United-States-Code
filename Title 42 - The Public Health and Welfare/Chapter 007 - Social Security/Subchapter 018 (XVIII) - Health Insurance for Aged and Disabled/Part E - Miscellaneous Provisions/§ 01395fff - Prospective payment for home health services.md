@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for portions of costreporting periods occurring on or after October 1, 2000, for payments for home health services in accordance with a prospective payment system established by the Secretary under this section.
+Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for portions of cost reporting periods occurring on or after October 1, 2000, for payments for home health services in accordance with a prospective payment system established by the Secretary under this section.
 
 #### (b) System of prospective payment for home health services
 
@@ -94,7 +94,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (III) Public availability of data submitted
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall establish procedures for making data submitted undersubclause (II) and subclause (IV)(aa) available to the public. Such procedures shall ensure that a home health agency has the opportunity to review the data that is to be made public with respect to the agency prior to such data being made public.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall establish procedures for making data submitted under subclause (II) and subclause (IV)(aa) available to the public. Such procedures shall ensure that a home health agency has the opportunity to review the data that is to be made public with respect to the agency prior to such data being made public.
 
 #### (IV) Submission of additional data
 
@@ -132,7 +132,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall annually determine the impact of differences between assumed behavior changes (as described in paragraph (3)(A)(iv)) and actual behavior changes on estimated aggregate expenditures under this subsection with respect to years beginning with 2020 and ending with 2026.
+&emsp;&emsp;&emsp;The Secretary shall annually determine the impact of differences between assumedbehavior changes (as described in paragraph (3)(A)(iv)) and actual behavior changes on estimated aggregate expenditures under this subsection with respect to years beginning with 2020 and ending with 2026.
 
 #### (ii) Permanent adjustments
 
@@ -224,7 +224,7 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title V, §§501(a), (c)(1), 504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §§3131(a)(1), (b), 3401(e), title X, §§10315(a), 10319(d), Mar. 23, 2010, 124 Stat. 427, 428, 483, 944, 949; Pub. L. 113–185, §2(c)(1), Oct. 6, 2014, 128 Stat. 1962; Pub. L. 114–10, title IV, §411(c), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title II, §50208(a)(2), title X, §51001(a), title XII, §53110, Feb. 9, 2018, 132 Stat. 189, 289, 304.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title V, §§501(a), (c)(1), 504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §§3131(a)(1), (b), 3401(e), title X, §§10315(a), 10319(d), Mar. 23, 2010, 124 Stat. 427, 428, 483, 944, 949; Pub. L. 113–185, §2(c)(1), Oct. 6, 2014, 128 Stat. 1962; Pub. L. 114–10, title IV, §411(c), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title II, §50208(a)(2), title X, §51001(a), title XII, §53110, Feb. 9, 2018, 132 Stat. 189, 289, 304.)
 
 #### References in Text
 
@@ -526,7 +526,7 @@ Payment.—
 
 &emsp;"(1)
 
-In general.—Subject to paragraph (2), the amount of payment for an episode of care for home health services, a portion of which consists of substitute medical adult day-care services, under the demonstration project shall be made at a rate equal to 95 percent of the amount that would otherwiseapply for such home health services under section 1895 of the Social Security Act (42 U.S.C. 1395fff). In no case may a home health agency, or a medical adult day-care facility under arrangements with a home health agency, separately charge a beneficiary for medical adult day-care services furnished under the plan of care.
+In general.—Subject to paragraph (2), the amount of payment for an episode of care for home health services, a portion of which consists of substitute medical adult day-care services, under the demonstration project shall be made at a rate equal to 95 percent of the amount that would otherwise apply for such home health services under section 1895 of the Social Security Act (42 U.S.C. 1395fff). In no case may a home health agency, or a medical adult day-care facility under arrangements with a home health agency, separately charge a beneficiary for medical adult day-care services furnished under the plan of care.
 
 &emsp;"(2)
 
@@ -596,7 +596,7 @@ Medical adult day-care services.—The term 'medical adult day-care services' me
 
 &emsp;"(4)
 
-Medicare beneficiary.—The term 'medicare beneficiary' means an individual entitled to benefits under part A of this title \[probably means part A of title XVIII of the Social Security Act, 42 U.S.C. 1395c et seq.\], enrolled under part B of this title \[probably means part B of title XVIII of the Social Security Act, 42 U.S.C. 1395j et seq.\], or both."
+Medicare beneficiary.—The term 'medicare beneficiary' means an individual entitled to benefits under part A of this title \[probably means part A of title XVIII of the Social Security Act, 42 U.S.C. 1395c et seq.\], enrolled under part B of this title \[probablymeans part B of title XVIII of the Social Security Act, 42 U.S.C. 1395j et seq.\], or both."
 
 #### Temporary Suspension of Oasis Requirement for Collection of Data on Non-Medicare and Non-Medicaid Patients
 
@@ -698,7 +698,7 @@ Pub. L. 106–554, §1(a)(6) \[title V, §508\], Dec. 21, 2000, 114 Stat. 2763, 
 
 "(b)
 
-Waiving Budget Neutrality.—The Secretary shall not reduce the standard prospective payment amount (or amounts) under section 1895 of the Social Security Act (42 U.S.C. 1395fff) applicable to home health services furnished during a period to offset the increase in payments resulting from the application of subsection (a)."
+Waiving Budget Neutrality.—The Secretary shall not reduce the standard prospective paymentamount (or amounts) under section 1895 of the Social Security Act (42 U.S.C. 1395fff) applicable to home health services furnished during a period to offset the increase in payments resulting from the application of subsection (a)."
 
 #### Clarification of Application of Temporary Payment Increases for 2001
 
@@ -734,7 +734,7 @@ Midyear payment.—Not later than April 1, 2000, the Secretary shall pay to a ho
 
 &emsp;&emsp;"(B)
 
-Upon settled cost report.—The Secretary shall pay the balance of amounts payable to an agency under this subsection on the date that thecost report submitted by the agency for the cost reporting period beginning in fiscal year 2000 is settled.
+Upon settled cost report.—The Secretary shall pay the balance of amounts payable to an agency under this subsection on the date that the cost report submitted by the agency for the cost reporting period beginning in fiscal year 2000 is settled.
 
 &emsp;"(3)
 
@@ -830,7 +830,7 @@ Estimate.—Not later than October 1, 1997, the Secretary of Health and Human Se
 
 "(b)
 
-Annual Report.—Not later than the end of each of years 1999 through 2002, the Secretary shall submitto such Committees a report that compares the actual outlays under such parts for such services during the fiscal year ending in the year, to the outlays estimated under subsection (a) for such fiscal year. If the Secretary finds that such actual outlays were greater than such estimated outlays for the fiscal year, the Secretary shall include in the report recommendations regarding beneficiary copayments for home health services provided under the medicare program or such other methods as will reduce the growth in outlays for home health services under the medicare program."
+Annual Report.—Not later than the end of each of years 1999 through 2002, the Secretary shall submit to such Committees a report that compares the actual outlays under such parts for such services during the fiscal year ending in the year, to the outlays estimated under subsection (a) for such fiscal year. If the Secretary finds that such actual outlays were greater than such estimated outlays for the fiscal year, the Secretary shall include in the report recommendations regarding beneficiary copayments for home health services provided under the medicare program or such other methods as will reduce the growth in outlays for home health services under the medicare program."
 
 <i><sup>1</sup></i><i> So in original. The word "for" probably should not appear.</i>
 

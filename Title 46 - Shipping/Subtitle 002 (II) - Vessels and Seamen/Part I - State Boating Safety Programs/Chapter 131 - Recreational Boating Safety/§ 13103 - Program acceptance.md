@@ -80,7 +80,7 @@ Subsec. (a)(4). Pub. L. 99–626, §4(b), inserted "out" after "carrying".
 
 Pub. L. 99–307 substituted "carrying out the State" for "carrying the State".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §1011(c)(1), (2), in provisions preceding par. (1) substituted "shall" for "may" and struck out "and facilities improvement" after "boating safety".
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §1011(c)(1), (2), in provisions preceding par. (1) substituted "shall" for"may" and struck out "and facilities improvement" after "boating safety".
 
 Subsec. (a)(2). Pub. L. 98–369, §1011(c)(1), (3), struck out ", (d), or (f)" after "requirements of subsection (c)" and struck out "and facilities improvement" after "boating safety".
 

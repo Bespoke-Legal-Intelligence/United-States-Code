@@ -22,7 +22,7 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 
 <b>1976</b>—Pub. L. 94–564 substituted "article XVIII" for "article XXIV".
 
-<b>1970</b>—Pub. L. 91–599 inserted "in each basic period" after "vote to allocate" and substituted "allocations to the United States in that period exceed an amount equal to the United States quota in the Fund as authorized under the Bretton Woods Agreements Act" for "net cumulative allocations to the United States exceed an amount equal to the United States quota in the Fund as heretofore authorized under the Bretton Woods Agreements Act of 1945, as amended".
+<b>1970</b>—Pub. L. 91–599 inserted "in each basic period" after "vote to allocate" and substituted "allocations to the United States in that period exceed an amountequal to the United States quota in the Fund as authorized under the Bretton Woods Agreements Act" for "net cumulative allocations to the United States exceed an amount equal to the United States quota in the Fund as heretofore authorized under the Bretton Woods Agreements Act of 1945, as amended".
 
 #### Change of Name
 

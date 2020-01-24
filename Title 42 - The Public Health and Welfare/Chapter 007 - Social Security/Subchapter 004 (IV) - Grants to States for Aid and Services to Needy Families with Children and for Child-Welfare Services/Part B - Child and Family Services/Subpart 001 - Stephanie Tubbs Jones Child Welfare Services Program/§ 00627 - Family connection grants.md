@@ -102,7 +102,7 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 #### Prior Provisions
 
-A prior section 627, act Aug. 14, 1935, ch. 531, title IV, §427, as added June 17, 1980, Pub. L. 96–272, title I, §103(b), 94 Stat. 519; amended Dec. 19, 1989, Pub. L. 101–239, title X, §10401(a), 103 Stat. 2487, related to foster care protection required for additional payments, prior to repeal by Pub. L. 103–432, title II, §202(c), (e), Oct. 31, 1994, 108 Stat. 4454, effective with respect to fiscal years beginning on or after Apr. 1, 1996.
+A prior section 627, act Aug. 14, 1935, ch. 531, title IV, §427, as added June 17, 1980, Pub. L. 96–272, title I,§103(b), 94 Stat. 519; amended Dec. 19, 1989, Pub. L. 101–239, title X, §10401(a), 103 Stat. 2487, related to foster care protection required for additional payments, prior to repeal by Pub. L. 103–432, title II, §202(c), (e), Oct. 31, 1994, 108 Stat. 4454, effective with respect to fiscal years beginning on or after Apr. 1, 1996.
 
 #### Amendments
 

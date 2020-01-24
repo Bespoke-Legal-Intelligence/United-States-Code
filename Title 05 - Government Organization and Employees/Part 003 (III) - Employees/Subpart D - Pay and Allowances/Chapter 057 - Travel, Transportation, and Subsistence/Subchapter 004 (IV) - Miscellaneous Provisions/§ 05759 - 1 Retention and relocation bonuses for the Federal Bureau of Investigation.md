@@ -12,7 +12,7 @@ Authority.—The Director of the Federal Bureau of Investigation, after consulta
 
 &emsp;&emsp;(ii) for a different position in the Federal service; or
 
-&emsp;(2) the individual is subject to a mobility agreement and is transferred to a position in a different geographical area in which there is ashortage of critical skills (as determined by the Director of the Federal Bureau of Investigation).
+&emsp;(2) the individual is subject to a mobility agreement and is transferred to a position in a different geographical area in which there is a shortage of critical skills (as determined by the Director of the Federal Bureau of Investigation).
 
 (b)
 

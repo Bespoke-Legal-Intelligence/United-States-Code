@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(i) the Bank's interest in any collateral securing such advance has the same priority and is afforded the same standing and rights that the security interest would have had if the advance had been made to a federally insured credit union; and
 
-&emsp;&emsp;&emsp;(ii) the Bank has the same right to access such collateral that the Bank wouldhave had if the advance had been made to a federally insured credit union.
+&emsp;&emsp;&emsp;(ii) the Bank has the same right to access such collateral that the Bank would have had if the advance had been made to a federally insured credit union.
 
 #### (b) Location requirement
 
@@ -84,7 +84,7 @@ Section 461 of this title, referred to in subsec. (a)(1)(C), was in the original
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–289, §1206(1), which directed insertion of "community development financial institution," after "savings bank,", was executed by making the insertion after "savings bank," the first time appearing.
 
-Subsec. (a)(1)(B). Pub. L. 110–289, §1206(2), which directed insertion of "or, in the case of a community development financial institution, is certified as a community development financial institution under the Community Development Banking and Financial Institutions Act of 1994." after "United States,", was executed by making the insertion after "United States" to reflect the probable intent of Congress.
+Subsec. (a)(1)(B). Pub. L. 110–289, §1206(2), which directed insertion of "or, in the case of a community development financial institution, is certified as a community development financial institution under theCommunity Development Banking and Financial Institutions Act of 1994." after "United States,", was executed by making the insertion after "United States" to reflect the probable intent of Congress.
 
 Subsecs. (a)(1)(C), (3), (b), (c). Pub. L. 110–289, §1204(8), substituted "the Director" for "the Board" wherever appearing.
 

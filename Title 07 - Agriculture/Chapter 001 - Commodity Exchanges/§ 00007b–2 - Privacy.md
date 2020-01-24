@@ -6,7 +6,7 @@ Notwithstanding section 509(3)(B) of the Gramm-Leach-Bliley Act \[15 U.S.C. 6809
 
 #### (b) Treatment of CFTC as Federal functional regulator
 
-For purposes of title V of such Act \[15 U.S.C. 6801 et seq.\], the Commission shall be treated as a Federal functional regulator within the meaning of section 509(2) of such Act \[15 U.S.C. 6809(2)\] and shall prescribe regulations under such title within 6 months after December 21, 2000.
+For purposes of title V of such Act \[15 U.S.C. 6801 et seq.\], the Commission shall be treated as a Federal functional regulator within the meaning of section 509(2) of such Act \[15 U.S.C. 6809(2)\] and shall prescribe regulations undersuch title within 6 months after December 21, 2000.
 
 (Sept. 21, 1922, ch. 369, §5g, as added Pub. L. 106–554, §1(a)(5) \[title I, §124\], Dec. 21, 2000, 114 Stat. 2763, 2763A–411.)
 

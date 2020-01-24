@@ -92,7 +92,7 @@
 
 #### (4) Applications
 
-&emsp;An institution of higher education, nonprofit research institution, or consortia thereof seeking funding under this subsection shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
+&emsp;An institution of higher education, nonprofit research institution, or consortia thereofseeking funding under this subsection shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
 
 &emsp;&emsp;(A) the research projects that will be undertaken by the Center and the contributions of each of the participating entities;
 

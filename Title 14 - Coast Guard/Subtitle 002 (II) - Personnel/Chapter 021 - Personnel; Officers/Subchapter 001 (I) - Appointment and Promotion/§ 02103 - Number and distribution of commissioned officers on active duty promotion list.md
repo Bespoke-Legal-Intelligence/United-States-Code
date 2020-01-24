@@ -38,7 +38,7 @@ Rounding fractions.—Subject to subsection (a), in making the computations unde
 
 &emsp;(3)
 
-Treatment of officers serving outside coast guard.—The number of commissioned officers on the active duty promotion list below the rank of rear admiral (lower half) serving with other Federal departments or agencies on a reimbursable basis or excluded under section 324(d) of title 49 shall not be counted against the total number of commissioned officers authorized to serve in each grade.
+Treatment of officers serving outside coast guard.—The number of commissioned officers on the active duty promotion list below the rank of rear admiral (lower half)serving with other Federal departments or agencies on a reimbursable basis or excluded under section 324(d) of title 49 shall not be counted against the total number of commissioned officers authorized to serve in each grade.
 
 (d)
 

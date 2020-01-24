@@ -2,7 +2,7 @@
 
 (a)
 
-Initial Notification.—In the event a military protective order is issued against a member of the armed forces and any individual involved in the order does not reside on a military installation at any time during the duration of the military protective order, the commander of the military installation shall notify the appropriate civilian authorities of—
+Initial Notification.—In the event a military protective order is issued against a member of the armed forces, the commander of the unit to which the member is assigned shall, not later than seven days after the date of the issuance of the order, notify the appropriate civilian authorities of—
 
 &emsp;(1) the issuance of the protective order; and
 
@@ -10,15 +10,33 @@ Initial Notification.—In the event a military protective order is issued again
 
 (b)
 
-Notification of Changes or Termination.—The commander of the military installation also shall notify the appropriate civilian authorities of—
+Notification in Event of Transfer.—In the event that a member of the armed forces against whom a military protective order is issued is transferred to another unit—
+
+&emsp;(1) not later than the date of the transfer, the commander of the unit from which the member is transferred shall notify the commander of the unit to which the member is transferred of—
+
+&emsp;&emsp;(A) the issuance of the protective order; and
+
+&emsp;&emsp;(B) the individuals involved in the order; and
+
+&emsp;(2) not later than seven days after receiving the notice under paragraph (1), the commander of the unit to which the member is transferred shall provide notice of the order to the appropriate civilian authorities in accordance with subsection (a).
+
+(c)
+
+Notification of Changes or Termination.—The commander of the unit to which the member is assigned also shall notify the appropriate civilian authorities of—
 
 &emsp;(1) any change made in a protective order covered by subsection (a); and
 
 &emsp;(2) the termination of the protective order.
 
-(Added Pub. L. 110–417, \[div. A\], title V, §562(a), Oct. 14, 2008, 122 Stat. 4470; amended Pub. L. 111–84, div. A, title X, §1073(a)(17), Oct. 28, 2009, 123 Stat. 2473.)
+(Added Pub. L. 110–417, \[div. A\], title V, §562(a), Oct. 14, 2008, 122 Stat. 4470; amended Pub. L. 111–84, div. A, title X, §1073(a)(17), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 116–92, div. A, title V, §543(a), Dec. 20, 2019, 133 Stat. 1376.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–92, §543(a)(1), substituted ", the commander of the unit to which the member is assigned shall, not later than seven days after the date of the issuance of the order, notify" for "and any individual involved in the order does not reside on a military installation at any time during the duration of the military protective order, the commander of the military installation shall notify" in introductory provisions.
+
+Subsec. (b). Pub. L. 116–92, §543(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 116–92, §543(a)(2), (4), redesignated subsec. (b) as (c) and substituted "commander of the unit to which the member is assigned" for "commander of the military installation".
 
 <b>2009</b>—Pub. L. 111–84 made technical amendment to section catchline.
 

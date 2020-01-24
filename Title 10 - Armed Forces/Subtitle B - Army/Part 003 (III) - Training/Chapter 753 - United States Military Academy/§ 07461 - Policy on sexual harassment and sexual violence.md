@@ -64,15 +64,47 @@ Annual Report.—(1) The Secretary of the Army shall direct the Superintendent o
 
 (B) The Secretary of Defense shall transmit each such report, together with the Secretary's comments on the report, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
-(Added Pub. L. 109–364, div. A, title V, §532(a)(1), Oct. 17, 2006, 120 Stat. 2200, §4361; renumbered §7461, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(e)
+
+Consideration of Request for Transfer of a Cadet Who Is the Victim of a Sexual Assault or Related Offense.—(1) The Secretary of the Army shall provide for timely consideration of and action on a request submitted by a cadet appointed to the United States Military Academy who is the victim of an alleged sexual assault or other offense covered by section 920, 920c, or 930 of this title (article 120, 120c, or 130 of the Uniform Code of Military Justice) for transfer to another military service academy or to enroll in a Senior Reserve Officers' Training Corps program affiliated with another institution of higher education.
+
+(2) The Secretary of the Army shall prescribe regulations to carry out this subsection, within guidelines provided by the Secretary of Defense that—
+
+&emsp;(A) provide that the Superintendent of the United States Military Academy shall ensure that any cadet who has been appointed to the United States Military Academy and who is a victim of an alleged sexual assault or other offense referred to in paragraph (1), is informed of the right to request a transfer pursuant to this section, and that any formal request submitted by a cadet is processed as expeditiously as practicable through the chain of command for review and action by the Superintendent;
+
+&emsp;(B) direct the Superintendent of the United States Military Academy, in coordination with the Superintendent of the military service academy to which the cadet requests to transfer—
+
+&emsp;&emsp;(i) to take action on a request for transfer under this subsection not later than 72 hours after receiving the formal request from the cadet;
+
+&emsp;&emsp;(ii) to approve such request for transfer unless there are exceptional circumstances that require denial of the request; and
+
+&emsp;&emsp;(iii) upon approval of such request, to take all necessary and appropriate action to effectuate the transfer of the cadet to the military service academy concerned as expeditiously as possible; and
+
+&emsp;(C) direct the Superintendent of the United States Military Academy, in coordination with the Secretary of the military department that sponsors the Senior Reserve Officers' Training Corps program at the institution of higher education to which the cadet requests to transfer—
+
+&emsp;&emsp;(i) to take action on a request for transfer under this subsection not later than 72 hours after receiving the formal request from the cadet;
+
+&emsp;&emsp;(ii) subject to the cadet's acceptance for admission to the institution of higher education to which the cadet wishes to transfer, to approve such request for transfer unless there are exceptional circumstances that require denial of the application; and
+
+&emsp;&emsp;(iii) to take all necessary and appropriate action to effectuate the cadet's enrollment in the institution of higher education to which the cadet wishes to transfer and to process the cadet for participation in the relevant Senior Reserve Officers' Training Corps program as expeditiously as possible.
+
+(3) If the Superintendent of the United States Military Academy denies a request for transfer under this subsection, the cadet may request review of the denial by the Secretary of the Army, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
+
+(4) The Secretary concerned shall ensure that all records of any request, determination, transfer, or other action under this subsection remain confidential, consistent with applicable law and regulation.
+
+(5) A cadet who transfers under this subsection may retain the cadet's appointment to the United States Military Academy or may be appointed to the military service academy to which the cadet transfers without regard to the limitations and requirements set forth in sections 7442, 8454, and 9442 of this title.
+
+(Added Pub. L. 109–364, div. A, title V, §532(a)(1), Oct. 17, 2006, 120 Stat. 2200, §4361; renumbered §7461, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839; amended Pub. L. 116–92, div. A, title V, §555(a), Dec. 20, 2019, 133 Stat. 1388.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (e). Pub. L. 116–92 added subsec. (e).
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4361 of this title as this section.
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Termination of Reporting Requirements
 

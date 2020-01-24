@@ -12,7 +12,7 @@ In computing taxable gifts for preceding calendar periods for purposes of comput
 
 #### (b) Exclusions from gifts for preceding calendar periods
 
-In the case of gifts made to any person by the donor during preceding calendar periods, theamount excluded, if any, by the provisions of gift tax laws applicable to the periods in which the gifts were made shall not, for purposes of subsection (a), be included in the total amount of the gifts made during such preceding calendar periods.
+In the case of gifts made to any person by the donor during preceding calendar periods, the amount excluded, if any, by the provisions of gift tax laws applicable to the periods in which the gifts were made shall not, for purposes of subsection (a), be included in the total amount of the gifts made during such preceding calendar periods.
 
 #### (c) Valuation of gifts
 
@@ -32,7 +32,7 @@ The term "net gifts" as used in the corresponding provisions of prior laws shall
 
 #### References in Text
 
-The Tax Reform Act of 1976, referred to in subsec. (a)(3), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended. Section 2521 of this title was repealed by section 2001(b)(3) of Pub. L. 94–455. For complete classification of this Act to the Code, see Tables.
+The Tax Reform Act of 1976, referred to in subsec. (a)(3), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, asamended. Section 2521 of this title was repealed by section 2001(b)(3) of Pub. L. 94–455. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

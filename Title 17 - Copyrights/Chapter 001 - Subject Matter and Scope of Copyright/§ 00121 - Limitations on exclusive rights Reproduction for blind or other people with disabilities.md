@@ -44,7 +44,7 @@ Sections 612, 613, and 674 of the Individuals with Disabilities Education Act, r
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–261, §2(a)(1)(A), inserted "in the United States" after "distribute" and "or of apreviously published musical work that has been fixed in the form of text or notation" after "literary work", struck out ", nondramatic" after "previously published", and substituted "accessible formats" for "specialized formats" and "eligible persons" for "blind or other persons with disabilities".
+<b>2018</b>—Subsec. (a). Pub. L. 115–261, §2(a)(1)(A), inserted "in the United States" after "distribute" and "or of a previously published musical work that has been fixed in the form of text or notation" after "literary work", struck out ", nondramatic" after "previously published", and substituted "accessible formats" for "specialized formats" and "eligible persons" for "blind or other persons with disabilities".
 
 Subsec. (b)(1)(A). Pub. L. 115–261, §2(a)(1)(B)(i), inserted "in the United States" after "distributed" and substituted "an accessible format" for "a specialized format" and "eligible persons" for "blind or other persons with disabilities".
 

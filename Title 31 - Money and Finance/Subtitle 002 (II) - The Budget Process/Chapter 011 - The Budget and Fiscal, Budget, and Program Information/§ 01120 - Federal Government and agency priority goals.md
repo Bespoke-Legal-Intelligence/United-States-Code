@@ -20,7 +20,7 @@ Federal Government Priority Goals.—
 
 &emsp;&emsp;&emsp;(v) real property management;
 
-&emsp;(2) The Federal Government priority goals shall be long-term in nature. At a minimum, the Federal Government priority goals shall be updated or revised every 4 years and made publicly available concurrently with the submission of the budget of the United States Government made in the first full fiscal year following any year in which the term of the President commences under section 101 of title 3. As needed, the Director of the Office of Management and Budget may make adjustments to the Federal Government priority goals to reflect significant changes in the environmentin which the Federal Government is operating, with appropriate notification of Congress.
+&emsp;(2) The Federal Government priority goals shall be long-term in nature. At a minimum, the Federal Government priority goals shall be updated or revised every 4 years and made publicly available concurrently with the submission of the budget of the United States Government made in the first full fiscal year following any year in which the term of the President commences under section 101 of title 3. As needed, the Director of the Office of Management and Budget may make adjustments to the Federal Government priority goals to reflect significant changes in the environment in which the Federal Government is operating, with appropriate notification of Congress.
 
 &emsp;(3) When developing or making adjustments to Federal Government priority goals, the Director of the Office of Management and Budget shall consult periodically with the Congress, including obtaining majority and minority views from—
 
@@ -65,4 +65,8 @@ Agency Priority Goals.—
 (c) The functions and activities of this section shall be considered to be inherently governmental functions. The development of Federal Government and agency priority goals shall be performed only by Federal employees.
 
 (Added Pub. L. 111–352, §5, Jan. 4, 2011, 124 Stat. 3873.)
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

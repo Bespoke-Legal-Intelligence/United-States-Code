@@ -44,7 +44,7 @@
 
 (d)(1) There shall be in the Department such number of Deputy Assistant Secretaries, not exceeding 19, as the Secretary may determine. Each Deputy Assistant Secretary shall be appointed by the Secretary and shall perform such functions as the Secretary prescribes.
 
-(2) At least two-thirds of the number of positions established and filled under paragraph (1) shall be filled by individuals who have at least five years of continuous service in the Federal civil service in the executive branch immediately preceding their appointment as a Deputy Assistant Secretary. For purposes of determining such continuous service of an individual, there shall be excluded any service by such individual in a position—
+(2) At least two-thirds of the number of positions established and filled under paragraph (1) shall be filled by individuals who have at least five years of continuous service in the Federalcivil service in the executive branch immediately preceding their appointment as a Deputy Assistant Secretary. For purposes of determining such continuous service of an individual, there shall be excluded any service by such individual in a position—
 
 &emsp;(A) of a confidential, policy-determining, policy-making, or policy-advocating character;
 

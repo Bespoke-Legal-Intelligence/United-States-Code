@@ -20,7 +20,7 @@ Assistance under subsection (a) may be provided to—
 
 #### (c) Assistance to small businesses
 
-In providing assistance under this section, the Secretary of Commerce shall, in consultationwith the Administrator of the Small Business Administration, make special efforts to facilitate participation by small businesses and companies new to export.
+In providing assistance under this section, the Secretary of Commerce shall, in consultation with the Administrator of the Small Business Administration, make special efforts to facilitate participation by small businesses and companies new to export.
 
 #### (d) Uses of assistance
 

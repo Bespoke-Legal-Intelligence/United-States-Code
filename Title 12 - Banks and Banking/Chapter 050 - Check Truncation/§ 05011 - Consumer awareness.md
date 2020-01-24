@@ -24,7 +24,7 @@ Each bank shall provide, in accordance with subsection (b), a brief notice about
 
 #### (3) Mode of delivery
 
-&emsp;A bank may send the notices required by this subsection by United States mail or by any other means through which the consumer has agreed to receive account information.
+&emsp;A bank may send the notices required by this subsection by United States mail or byany other means through which the consumer has agreed to receive account information.
 
 #### (4) Consumers who request copies of checks
 

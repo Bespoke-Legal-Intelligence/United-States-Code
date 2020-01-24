@@ -14,7 +14,7 @@
 
 &emsp;(2) any employee of the Federal Aviation Administration or the Department of Defense who is assigned to a flight test pilot position classified not lower than GS-12 located in a region or center, the duties of whose position are determined by the Administrator or the Secretary to be unusually taxing, physically or mentally, and to be critical to the advancement of aviation safety; and
 
-&emsp;(3) any employee of the Federal Aviation Administration who occupies a position at the Federal Aviation Administration Academy, Oklahoma City, Oklahoma, the duties ofwhich are determined by the Administrator to require the individual to be actively engaged in or directly responsible for training employees to perform the duties of a position described in subparagraph (a); (b); or (c) or paragraph (1) of this subsection, and who, immediately prior to assuming such position at such Academy, occupied a position referred to in subparagraph (a), (b), or (c) of paragraph (1) of this subsection.
+&emsp;(3) any employee of the Federal Aviation Administration who occupies a position at the Federal Aviation Administration Academy, Oklahoma City, Oklahoma, the duties of which are determined by the Administrator to require the individual to be actively engaged in or directly responsible for training employees to perform the duties of a position described in subparagraph (a); (b); or (c) or paragraph (1) of this subsection, and who, immediately prior to assuming such position at such Academy, occupied a position referred to in subparagraph (a), (b), or (c) of paragraph (1) of this subsection.
 
 (b) The premium pay payable under any subsection of this section is in addition to basic pay and to premium pay payable under any other subsection of this section and any other provision of this subchapter.
 
@@ -48,7 +48,7 @@
 
 Subsec. (a). Pub. L. 98–525, §1537(c)(1)(A), inserted "and the Secretary of Defense (hereafter in this section referred to as the 'Secretary')" in provisions preceding par. (1).
 
-Subsec. (a)(1). Pub. L. 98–525, §1537(c)(1)(B), inserted "or the Department of Defense" in provisions preceding subpar. (A) and "or the Secretary" in provisions following subpar. (C).
+Subsec. (a)(1). Pub. L. 98–525, §1537(c)(1)(B), inserted "or the Department of Defense" in provisions precedingsubpar. (A) and "or the Secretary" in provisions following subpar. (C).
 
 Subsec. (a)(2). Pub. L. 98–525, §1537(c)(1)(C), inserted "or the Department of Defense" and "or the Secretary".
 

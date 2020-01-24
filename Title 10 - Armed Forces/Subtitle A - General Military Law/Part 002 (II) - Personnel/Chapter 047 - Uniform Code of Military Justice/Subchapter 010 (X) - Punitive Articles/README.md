@@ -83,7 +83,7 @@
 | [927\.](%C2%A7%2000927%20-%20Art.%20127.%20Extortion.md) | 127\. | Extortion. |
 | [928\.](%C2%A7%2000928%20-%20Art.%20128.%20Assault.md) | 128\. | Assault. |
 | [928a.](%C2%A7%2000928a%20-%20Art.%20128a.%20Maiming.md) | 128a. | Maiming. |
-| [928b.](%C2%A7%2000928b%20-%20Art.%20128b.%20Domestic%20violence%201.md) | 128b. | Domestic violence. |
+| [928b.](%C2%A7%2000928b%20-%20Art.%20128b.%20Domestic%20violence.md) | 128b. | Domestic violence. |
 | [929\.](%C2%A7%2000929%20-%20Art.%20129.%20Burglary%3B%20unlawful%20entry.md) | 129\. | Burglary; unlawful entry. |
 | [929a.](%C2%A7%2000929a%20-%20Art.%20129a.%20Omitted.md) | 129a. | Omitted. |
 | [930\.](%C2%A7%2000930%20-%20Art.%20130.%20Stalking.md) | 130\. | Stalking. |
@@ -217,7 +217,7 @@ Pub. L. 109–163, div. A, title V, §551(a)(2), Jan. 6, 2006, 119 Stat. 3256, a
 - [&sect; 00927 - Art. 127. Extortion](%C2%A7%2000927%20-%20Art.%20127.%20Extortion.md)
 - [&sect; 00928 - Art. 128. Assault](%C2%A7%2000928%20-%20Art.%20128.%20Assault.md)
 - [&sect; 00928a - Art. 128a. Maiming](%C2%A7%2000928a%20-%20Art.%20128a.%20Maiming.md)
-- [&sect; 00928b - Art. 128b. Domestic violence 1](%C2%A7%2000928b%20-%20Art.%20128b.%20Domestic%20violence%201.md)
+- [&sect; 00928b - Art. 128b. Domestic violence](%C2%A7%2000928b%20-%20Art.%20128b.%20Domestic%20violence.md)
 - [&sect; 00929 - Art. 129. Burglary; unlawful entry](%C2%A7%2000929%20-%20Art.%20129.%20Burglary%3B%20unlawful%20entry.md)
 - [&sect; 00929a - Art. 129a. Omitted](%C2%A7%2000929a%20-%20Art.%20129a.%20Omitted.md)
 - [&sect; 00930 - Art. 130. Stalking](%C2%A7%2000930%20-%20Art.%20130.%20Stalking.md)

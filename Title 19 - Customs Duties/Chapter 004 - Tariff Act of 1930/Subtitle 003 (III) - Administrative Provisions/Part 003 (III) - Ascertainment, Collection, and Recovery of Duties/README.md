@@ -12,7 +12,7 @@ Part III—Ascertainment, Collection, and Recovery of Duties
 - [&sect; 01484a - Articles returned from space not to be construed as importation](%C2%A7%2001484a%20-%20Articles%20returned%20from%20space%20not%20to%20be%20construed%20as%20importation.md)
 - [&sect; 01484b - Deferral of duty on large yachts imported for sale at United States boat shows](%C2%A7%2001484b%20-%20Deferral%20of%20duty%20on%20large%20yachts%20imported%20for%20sale%20at%20United%20States%20boat%20shows.md)
 - [&sect; 01485 - Declaration](%C2%A7%2001485%20-%20Declaration.md)
-- [&sect; 01486 - Administration of oaths](%C2%A7%2001486%20-%20Administration%20of%20oaths.md)
+- [&sect; 01486 - Administration of oaths; verification of documents](%C2%A7%2001486%20-%20Administration%20of%20oaths%3B%20verification%20of%20documents.md)
 - [&sect; 01487 - Value in entry; amendment](%C2%A7%2001487%20-%20Value%20in%20entry%3B%20amendment.md)
 - [&sect; 01488 - Repealed. Pub. L. 91&#8211;271, title II, &sect;204(b), June 2, 1970, 84 Stat. 283](%C2%A7%2001488%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93271%2C%20title%20II%2C%20%C2%A7204%28b%29%2C%20June%202%2C%201970%2C%2084%20Stat.%20283.md)
 - [&sect; 01489 - Repealed. Pub. L. 87&#8211;456, title III, &sect;301(a), May 24, 1962, 76 Stat. 75](%C2%A7%2001489%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93456%2C%20title%20III%2C%20%C2%A7301%28a%29%2C%20May%2024%2C%201962%2C%2076%20Stat.%2075.md)

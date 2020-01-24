@@ -40,7 +40,7 @@ The Commercial Director shall report directly to the Assistant Secretary for Ene
 
 #### (e) Coordination
 
-The Commercial Director shall ensure full coordination of high-performance green buildinginformation and activities, including activities under this part, within the Federal Government by working with the General Services Administration and all relevant agencies, including, at a minimum—
+The Commercial Director shall ensure full coordination of high-performance green building information and activities, including activities under this part, within the Federal Government by working with the General Services Administration and all relevant agencies, including, at a minimum—
 
 &emsp;(1) the Environmental Protection Agency;
 

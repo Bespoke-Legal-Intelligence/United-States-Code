@@ -64,5 +64,5 @@ Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a
 
 #### Transfer of Functions
 
-Certain functions of Recording Studio and Officers of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 ofHouse Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Certain functions of Recording Studio and Officers of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 

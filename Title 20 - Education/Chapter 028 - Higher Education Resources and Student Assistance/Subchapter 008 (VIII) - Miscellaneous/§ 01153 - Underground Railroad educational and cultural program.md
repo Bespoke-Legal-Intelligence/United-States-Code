@@ -6,7 +6,7 @@ The Secretary of Education, in consultation and cooperation with the Secretary o
 
 #### (b) Grant agreement
 
-Each nonprofit educational organization awarded a grant under this section shall enterinto an agreement with the Secretary of Education. Each such agreement shall require the organization—
+Each nonprofit educational organization awarded a grant under this section shall enter into an agreement with the Secretary of Education. Each such agreement shall require the organization—
 
 &emsp;(1) to establish a facility to—
 

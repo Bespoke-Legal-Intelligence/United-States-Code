@@ -8,7 +8,7 @@ Every candidate who is eligible to receive payments under section 9033 is entitl
 
 The total amount of payments to which a candidate is entitled under subsection (a) shall not exceed 50 percent of the expenditure limitation applicable under section 315(b)(1)(A) of the Federal Election Campaign Act of 1971.
 
-(Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1299; amended Pub. L. 94–283, titleIII, §307(b), May 11, 1976, 90 Stat. 501; Pub. L. 110–172, §11(a)(42)(D), Dec. 29, 2007, 121 Stat. 2488.)
+(Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1299; amended Pub. L. 94–283, title III, §307(b), May 11, 1976, 90 Stat. 501; Pub. L. 110–172, §11(a)(42)(D), Dec. 29, 2007, 121 Stat. 2488.)
 
 #### References in Text
 

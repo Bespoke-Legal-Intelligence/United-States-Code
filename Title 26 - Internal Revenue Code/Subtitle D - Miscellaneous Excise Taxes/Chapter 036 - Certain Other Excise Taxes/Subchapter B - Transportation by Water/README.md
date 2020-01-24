@@ -9,7 +9,7 @@
 
 #### Prior Provisions
 
-A prior subchapter B, consisted of sections 4461 to 4464 of this title, prior to repeal by Pub. L. 95–600, titleV, §521(b), Nov. 6, 1978, 92 Stat. 2884, applicable with respect to years beginning after June 30, 1980.
+A prior subchapter B, consisted of sections 4461 to 4464 of this title, prior to repeal by Pub. L. 95–600, title V, §521(b), Nov. 6, 1978, 92 Stat. 2884, applicable with respect to years beginning after June 30, 1980.
 
 Section 4461, acts Aug. 16, 1954, ch. 736, 68A Stat. 531; Sept. 21, 1959, Pub. L. 86–344, §6(a), 73 Stat. 620; June 21, 1965, Pub. L. 89–44, title IV, §403(a), 79 Stat. 148, imposed a special tax on persons who maintained for use or permitted use of coin-operated gaming devices and provided an exception from such tax.
 

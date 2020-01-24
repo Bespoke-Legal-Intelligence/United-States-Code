@@ -40,7 +40,7 @@ For the purposes of this chapter—
 
 (m) The term "labeling" means all labels and other written, printed, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article.
 
-(n) If an article is alleged to be misbranded because the labeling or advertising is misleading, then in determining whether the labeling or advertising is misleading there shall be taken into account (among other things) not only representations made or suggested by statement, word, design, device, or any combination thereof, but also the extent to which the labeling or advertising fails to reveal facts material in the lightof such representations or material with respect to consequences which may result from the use of the article to which the labeling or advertising relates under the conditions of use prescribed in the labeling or advertising thereof or under such conditions of use as are customary or usual.
+(n) If an article is alleged to be misbranded because the labeling or advertising is misleading, then in determining whether the labeling or advertising is misleading there shall be taken into account (among other things) not only representations made or suggested by statement, word, design, device, or any combination thereof, butalso the extent to which the labeling or advertising fails to reveal facts material in the light of such representations or material with respect to consequences which may result from the use of the article to which the labeling or advertising relates under the conditions of use prescribed in the labeling or advertising thereof or under such conditions of use as are customary or usual.
 
 (o) The representation of a drug, in its labeling, as an antiseptic shall be considered to be a representation that it is a germicide, except in the case of a drug purporting to be, or represented as, an antiseptic for inhibitory use as a wet dressing, ointment, dusting powder, or such other use as involves prolonged contact with the body.
 
@@ -74,7 +74,7 @@ For the purposes of this chapter—
 
 (3) Notwithstanding subparagraphs (1) and (2), the Administrator may by regulation except a substance from the definition of "pesticide chemical" or "pesticide chemical residue" if—
 
-&emsp;(A) its occurrence as a residue on or in a raw agricultural commodity or processed food is attributable primarily to natural causes or to human activities not involving the use of any substances for a pesticidal purpose in the production, storage, processing, or transportation of any raw agricultural commodity or processed food; and
+&emsp;(A) its occurrence as a residue on or in a raw agricultural commodity or processed food is attributable primarily to natural causes or to human activities not involving the use of any substances for a pesticidal purpose in the production, storage, processing, or transportationof any raw agricultural commodity or processed food; and
 
 &emsp;(B) the Administrator, after consultation with the Secretary, determines that the substance more appropriately should be regulated under one or more provisions of this chapter other than sections 342(a)(2)(B) and 346a of this title.
 
@@ -124,7 +124,7 @@ For the purposes of this chapter—
 
 &emsp;(2) Each party to the hearing shall have the right at all times to be advised and accompanied by an attorney.
 
-&emsp;(3) Before the hearing, each party to the hearing shall be given reasonable notice of thematters to be considered at the hearing, including a comprehensive statement of the basis for the action taken or proposed by the Secretary which is the subject of the hearing and a general summary of the information which will be presented by the Secretary at the hearing in support of such action.
+&emsp;(3) Before the hearing, each party to the hearing shall be given reasonable notice of the matters to be considered at the hearing, including a comprehensive statement of the basis for the action taken or proposed by the Secretary which is the subject of the hearing and a general summary of the information which will be presented by the Secretary at the hearing in support of such action.
 
 &emsp;(4) At the hearing the parties to the hearing shall have the right to hear a full and complete statement of the action of the Secretary which is the subject of the hearing together with the information and reasons supporting such action, to conduct reasonable questioning, and to present any oral or written information relevant to such action.
 

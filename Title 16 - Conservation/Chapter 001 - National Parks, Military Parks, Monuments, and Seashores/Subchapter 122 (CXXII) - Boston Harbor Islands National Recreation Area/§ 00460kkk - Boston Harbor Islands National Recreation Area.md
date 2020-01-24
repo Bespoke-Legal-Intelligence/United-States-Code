@@ -44,7 +44,7 @@ For the purposes of this section—
 
 #### (1) In general
 
-&emsp;The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4),<sup>1</sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467) <sup>1</sup> as amended and supplemented and in accordance with the integrated management plan specified in subsection (f).
+&emsp;The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4),<sup>1</sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467) <sup>1</sup> as amended and supplemented and in accordancewith the integrated management plan specified in subsection (f).
 
 #### (2) State and local jurisdiction
 
@@ -136,7 +136,7 @@ For the purposes of this section—
 
 #### (4) Compensation
 
-&emsp;Members of the Partnership shall serve without pay, but while away from their homesor regular places of business in the performance of services for the Partnership, members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
+&emsp;Members of the Partnership shall serve without pay, but while away from their homes or regular places of business in the performance of services for the Partnership, members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
 #### (5) Election of officers
 
@@ -218,7 +218,7 @@ For the purposes of this section—
 
 &emsp;In developing the plan, the Partnership shall—
 
-&emsp;&emsp;(A) consult on a regular basis with appropriate officials of any local government orFederal or State agency which has jurisdiction over lands and waters within the recreation area;
+&emsp;&emsp;(A) consult on a regular basis with appropriate officials of any local government or Federal or State agency which has jurisdiction over lands and waters within the recreation area;
 
 &emsp;&emsp;(B) consult with interested conservation, business, professional, and citizen organizations; and
 
@@ -274,7 +274,7 @@ For the purposes of this section—
 
 The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4), referred to in subsec. (d)(1), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
-The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467), referred to in subsec. (d)(1), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54,National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467), referred to in subsec. (d)(1), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g)(4), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

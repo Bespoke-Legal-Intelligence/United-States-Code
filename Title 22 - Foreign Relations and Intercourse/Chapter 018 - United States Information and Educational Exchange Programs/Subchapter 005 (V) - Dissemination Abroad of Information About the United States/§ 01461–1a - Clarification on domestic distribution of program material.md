@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-No funds authorized to be appropriated to the Department of State or the Broadcasting Board of Governors shall be used to influence public opinion in the United States. This section shall apply only to programs carried out pursuant to the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1431 et seq.), the United States International Broadcasting Act of 1994 (22 U.S.C. 6201 et seq.), the Radio Broadcasting to Cuba Act (22 U.S.C. 1465 et seq.), and the Television Broadcasting to Cuba Act (22 U.S.C. 1465aa et seq.). This section shall not prohibit or delay the Department of State or the Broadcasting Board of Governors from providing information about its operations, policies, programs, or program material, or making such available, to the media, public, or Congress, in accordance with other applicable law.
+No funds authorized to be appropriated to the Department of State or the Broadcasting Board of Governors shall be used to influence public opinion in the United States. This section shall apply only to programs carried out pursuant to the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1431 et seq.), the United States International Broadcasting Act of1994 (22 U.S.C. 6201 et seq.), the Radio Broadcasting to Cuba Act (22 U.S.C. 1465 et seq.), and the Television Broadcasting to Cuba Act (22 U.S.C. 1465aa et seq.). This section shall not prohibit or delay the Department of State or the Broadcasting Board of Governors from providing information about its operations, policies, programs, or program material, or making such available, to the media, public, or Congress, in accordance with other applicable law.
 
 #### (b) Rule of construction
 
@@ -35,6 +35,10 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 <b>2013</b>—Pub. L. 112–239 amended section generally. Prior to amendment, text read as follows: "Except as provided in section 1461 of this title and this section, no funds authorized to be appropriated to the United States Information Agency shall be used to influence public opinion in the United States, and no program material prepared by the United States Information Agency shall be distributed within the United States. This section shall not apply to programs carried out pursuant to the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2451 et seq.). The provisions of this section shall not prohibit the United States Information Agency from responding to inquiries from members of the public about its operations, policies, or programs."
 
 <b>1994</b>—Pub. L. 103–236 inserted at end "The provisions of this section shall not prohibit the United States Information Agency from responding to inquiries from members of the public about its operations, policies, or programs."
+
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 2013 Amendment
 

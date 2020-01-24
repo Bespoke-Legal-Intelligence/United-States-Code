@@ -16,7 +16,7 @@ Acquisition From Commercial Providers.—The Administrator shall, to the extent 
 
 (c)
 
-Treatment of Space Science Data as Commercial Item Under Acquisition Laws.—Acquisitions of space science data by the Administrator shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space science data shall be considered to be a commercial item. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
+Treatment of Space Science Data as Commercial Product or Commercial Service Under Acquisition Laws.—Acquisitions of space science data by the Administrator shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space science data shall be considered to be a commercial product or commercial service. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
 
 (d)
 
@@ -27,16 +27,6 @@ Safety Standards.—Nothing in this section shall be construed to prohibit the F
 Limitation.—This section does not authorize the Administration to provide financial assistance for the development of commercial systems for the collection of space science data.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3397; Pub. L. 115–232, div. A, title VIII, §836(g)(10)(A), Aug. 13, 2018, 132 Stat. 1874.)
-
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(g)(10)(A), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (c) of this section is amended as follows:</i>
-
-<i>(1) in heading, by striking "Commercial Item" and inserting "Commercial Product or Commercial Service"; and</i>
-
-<i>(2) by striking "commercial item" in the second sentence and inserting "commercial product or commercial service".</i>
-
-<i>See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -56,7 +46,7 @@ Pub. L. 105–303, title I, §105, Oct. 28, 1998, 112 Stat. 2852.
 
 #### Amendments
 
-<b>2018</b>—Subsec. (c). Pub. L. 115–232 substituted "Commercial Product or Commercial Service" for "Commercial Item", in heading and "commercial product or commercial service" for "commercial item" in text.
+<b>2018</b>—Subsec. (c). Pub. L. 115–232 substituted "Commercial Product or Commercial Service" for "Commercial Item" in heading and "commercial product or commercial service" for "commercial item" in text.
 
 #### Effective Date of 2018 Amendment
 

@@ -44,7 +44,7 @@ If the laws of a State limit teacher liability subject to one or more of the fol
 
 &emsp;The limitations on the liability of a teacher under this subpart shall not apply to any misconduct that—
 
-&emsp;&emsp;(A) constitutes a crime of violence (as that term is defined in section 16 of title 18) or act of international terrorism (as that term is defined in section 2331 of title 18) for which the defendant has been convicted in any court;
+&emsp;&emsp;(A) constitutes a crime of violence (as that term is defined in section 16 of title 18) or act of international terrorism (as that termis defined in section 2331 of title 18) for which the defendant has been convicted in any court;
 
 &emsp;&emsp;(B) involves a sexual offense, as defined by applicable State law, for which the defendant has been convicted in any court;
 

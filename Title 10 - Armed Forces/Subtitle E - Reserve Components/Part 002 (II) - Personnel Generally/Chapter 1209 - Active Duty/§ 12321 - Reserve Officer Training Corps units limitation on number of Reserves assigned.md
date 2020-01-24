@@ -6,7 +6,7 @@ The number of members of the reserve components serving on active duty or full-t
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–337 renumbered section 690 of this title as this section and substituted "Reserve OfficerTraining Corps units: limitation on number of Reserves assigned" for "Limitation on duty with Reserve Officer Training Corps units" as section catchline.
+<b>1994</b>—Pub. L. 103–337 renumbered section 690 of this title as this section and substituted "Reserve Officer Training Corps units: limitation on number of Reserves assigned" for "Limitation on duty with Reserve Officer Training Corps units" as section catchline.
 
 <b>1993</b>—Pub. L. 103–160 substituted "may not exceed 275" for "may not exceed 200".
 
@@ -32,5 +32,5 @@ Pub. L. 101–510, div. A, title V, §559(b), Nov. 5, 1990, 104 Stat. 1571, as a
 
 #### Waiver of Prohibition on Certain Reserve Service With ROTC Program
 
-Pub. L. 102–190, div. A, title V, §525, Dec. 5, 1991, 105 Stat. 1363, as amended by Pub. L. 104–106, div. A, title XV, §1501(d)(2), Feb. 10, 1996, 110 Stat. 500, provided that: "The Secretary of the military department concerned may waive the prohibition in section 12321 of title 10, United States Code, in the case of a member of a reserve component of the Armed Forces referred to in that section who is serving in an assignment to duty with a unit of the Reserve Officer Training Corps program on September 30, 1991, if the Secretary determines that the removal of the member from that assignment will cause a financial hardship for that member."
+Pub. L. 102–190, div. A, title V, §525, Dec. 5, 1991, 105 Stat. 1363, as amended by Pub. L. 104–106, div. A, title XV, §1501(d)(2), Feb. 10, 1996, 110 Stat. 500, permitted the Secretary of the military department concerned to waive the prohibition in this section in the case of a member of a reserve component of the Armed Forces who is serving with the Reserve Officer Training Corps program on Sept. 30, 1991, if the removal of the member from that assignment would cause a financial hardship for that member.
 

@@ -4,7 +4,7 @@
 
 #### (1) Hiring grants
 
-&emsp;(A) The Administrator of FEMA shall make grants directly to career fire departments, combination fire departments, and volunteerfire departments, in consultation with the chief executive of the State in which the applicant is located, for the purpose of increasing the number of firefighters to help communities meet industry minimum standards and attain 24-hour staffing to provide adequate protection from fire and fire-related hazards, and to fulfill traditional missions of fire departments that antedate the creation of the Department of Homeland Security.
+&emsp;(A) The Administrator of FEMA shall make grants directly to career fire departments, combination fire departments, and volunteer fire departments, in consultation with the chief executive of the State in which the applicant is located, for the purpose of increasing the number of firefighters to help communities meet industry minimum standards and attain 24-hour staffing to provide adequate protection from fire and fire-related hazards, and to fulfill traditional missions of fire departments that antedate the creation of the Department of Homeland Security.
 
 &emsp;(B) Grants made under this paragraph shall be for 3 years and be used for programs to hire new, additional firefighters or to change the status of part-time or paid-on-call (as defined in section 2229(a) of this title) firefighters to full-time firefighters.
 
@@ -52,7 +52,7 @@
 
 (2) No grant shall be awarded pursuant to this section to a municipality or other recipient whose annual budget at the time of the application for fire-related programs and emergency response has been reduced below 80 percent of the average funding level in the 3 years prior to the date of the application for the grant.
 
-(3) Funds appropriated by the Congress for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing firefighting functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this section.
+(3) Funds appropriated by the Congress for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing firefighting functions on any Indianlands may be used to provide the non-Federal share of the cost of programs or projects funded under this section.
 
 (4) The amount of funding provided under this section to a recipient fire department for hiring a firefighter in any fiscal year may not exceed—
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(i) Changes in rates of unemployment from previous years.
 
-&emsp;&emsp;&emsp;(ii) Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded the annual national average rates of unemployment.
+&emsp;&emsp;&emsp;(ii) Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded <sup>1</sup> the annual national average rates of unemployment.
 
 &emsp;&emsp;&emsp;(iii) Changes in percentages of individuals eligible to receive food stamps from previous years.
 
@@ -126,7 +126,7 @@ If the Administrator of FEMA determines that a grant recipient under this sectio
 
 In this section:
 
-&emsp;(1) The term "firefighter" has the meaning given the term "employee in fire protection activities" under section 203(y) of title 29.<sup>1</sup>
+&emsp;(1) The term "firefighter" has the meaning given the term "employee in fire protection activities" under section 203(y) of title 29.<sup>2</sup>
 
 &emsp;(2) The terms "Administrator of FEMA", "career fire department", "combination fire department", and "volunteer fire department" have the meanings given such terms in section 2229(a) of this title.
 
@@ -164,7 +164,7 @@ In this section:
 
 #### (3) Congressionally directed spending
 
-&emsp;Consistent with the requirement in subsection (a) that grants under this section be awarded on a competitive basis, none of the funds appropriated pursuant to this subsectionmay be used for any congressionally direct spending item (as defined under the rules of the Senate and the House of Representatives).
+&emsp;Consistent with the requirement in subsection (a) that grants under this section be awarded on a competitive basis, none of the funds appropriated pursuant to this subsection may be used for any congressionally direct spending item (as defined under the rules of the Senate and the House of Representatives).
 
 #### (k) Sunset of authorities
 
@@ -256,7 +256,9 @@ Subsec. (k). Pub. L. 112–239, §1804(k), added subsec. (k).
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–66, div. A, title X, §1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendmentmade by section 1091(b)(9) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
+Pub. L. 113–66, div. A, title X, §1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(9) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "are currently exceeding and have consistently exceeded".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

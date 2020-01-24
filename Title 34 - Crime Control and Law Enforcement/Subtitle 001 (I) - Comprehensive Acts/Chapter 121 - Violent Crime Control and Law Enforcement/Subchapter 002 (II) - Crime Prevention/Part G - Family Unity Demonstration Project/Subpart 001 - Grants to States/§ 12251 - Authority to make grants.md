@@ -20,7 +20,7 @@ For the purpose of making grants under subsection (a), the Attorney General shal
 
 &emsp;(6) unless the Attorney General determines that a different process for selecting participants in a project is desirable, the State will—
 
-&emsp;&emsp;(A) give written notice to a prisoner, not later than 30 days after the State first receives a grant under subsection (a) or 30 days after the prisoner is sentenced to a term of imprisonment of not more than 7 years (whichever is later), of the proposed or current operation of the project;
+&emsp;&emsp;(A) give written notice to a prisoner, not later than 30 days after the State first receives a grant under subsection (a) or 30 daysafter the prisoner is sentenced to a term of imprisonment of not more than 7 years (whichever is later), of the proposed or current operation of the project;
 
 &emsp;&emsp;(B) accept at any time at which the project is in operation an application by a prisoner to participate in the project if, at the time of application, the remainder of the prisoner's sentence exceeds 180 days;
 

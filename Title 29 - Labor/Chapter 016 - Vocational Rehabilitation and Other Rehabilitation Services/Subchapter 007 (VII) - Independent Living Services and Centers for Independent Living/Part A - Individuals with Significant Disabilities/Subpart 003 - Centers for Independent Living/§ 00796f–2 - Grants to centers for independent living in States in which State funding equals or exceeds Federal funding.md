@@ -12,7 +12,7 @@
 
 #### (ii) Grants
 
-&emsp;&emsp;&emsp;The director of a designated State unit or the Administrator, as appropriate, shallaward such grants, from the amount of funds so allotted for the initial fiscal year, to eligible agencies in the State for the planning, conduct, administration, and evaluation of centers for independent living that comply with the standards and assurances set forth in section 796f–4 of this title.
+&emsp;&emsp;&emsp;The director of a designated State unit or the Administrator, as appropriate, shall award such grants, from the amount of funds so allotted for the initial fiscal year, to eligible agencies in the State for the planning, conduct, administration, and evaluation of centers for independent living that comply with the standards and assurances set forth in section 796f–4 of this title.
 
 #### (iii) Regulation
 
@@ -110,7 +110,7 @@ A center that provides or manages residential housing after October 1, 1994, sha
 
 #### (h) Onsite compliance review
 
-The director of the designated State unit shall annually conduct onsite compliance reviews of at least 15 percent of the centers for independent living that receive funding under this section in the State. Each team that conducts onsite compliance review of centers for independent living shall include at least one person who is not an employee of the designated State agency, who has experience in the operation of centers for independent living, and who is jointly selected by the director of the designated State unit and the chairperson of or other individual designated by the Council acting on behalf of and at the direction of the Council. A copy of this review shall be provided to the Administrator.
+The director of the designated State unit shall annually conduct onsite compliance reviews of at least 15 percent of the centers for independent living that receive funding under this section in the State. Each team that conducts onsite compliance review of centers for independent living shall include at least one person who is not an employee of the designated State agency, who has experience in the operation of centers for independent living, and who is jointly selected by the director of the designated State unit andthe chairperson of or other individual designated by the Council acting on behalf of and at the direction of the Council. A copy of this review shall be provided to the Administrator.
 
 #### (i) Adverse actions
 
@@ -138,7 +138,7 @@ Subsecs. (g)(2), (h), (i). Pub. L. 113–128, §482(b)(1), substituted "Administ
 
 #### Grants to Centers for Independent Living in States in Which State Funding Equals or Exceeds Federal Funding
 
-Pub. L. 111–213, §2(b), July 29, 2010, 124 Stat. 2344, provided that: "In awarding funds to existing centers forindependent living (described in section 723(c) of the Rehabilitation Act of 1973 (29 U.S.C. 796f–2(c))) in a State, the director of the designated State unit that has approval to make such awards—
+Pub. L. 111–213, §2(b), July 29, 2010, 124 Stat. 2344, provided that: "In awarding funds to existing centers for independent living (described in section 723(c) of the Rehabilitation Act of 1973 (29 U.S.C. 796f–2(c))) in a State, the director of the designated State unit that has approval to make such awards—
 
 &emsp;"(1) in fiscal year 2010—
 

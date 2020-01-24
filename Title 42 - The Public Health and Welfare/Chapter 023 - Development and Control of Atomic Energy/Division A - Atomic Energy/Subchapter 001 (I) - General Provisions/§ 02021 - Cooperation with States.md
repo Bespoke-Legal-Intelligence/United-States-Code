@@ -30,7 +30,7 @@ Except as provided in subsection (c), the Commission is authorized to enter into
 
 #### (c) Commission regulation of certain activities
 
-No agreement entered into pursuant to subsection (b) shall provide for discontinuance of any authority and the Commission shall retainauthority and responsibility with respect to regulation of—
+No agreement entered into pursuant to subsection (b) shall provide for discontinuance of any authority and the Commission shall retain authority and responsibility with respect to regulation of—
 
 &emsp;(1) the construction and operation of any production or utilization facility or any uranium enrichment facility;
 
@@ -74,9 +74,9 @@ The Commission in carrying out its licensing and regulatory responsibilities und
 
 #### (j) Reserve power to terminate or suspend agreements; emergency situations; State nonaction on causes of danger; authority exercisable only during emergency and commensurate with danger
 
-(1) The Commission, upon its own initiative after reasonable notice and opportunity forhearing to the State with which an agreement under subsection (b) has become effective, or upon request of the Governor of such State, may terminate or suspend all or part of its agreement with the State and reassert the licensing and regulatory authority vested in it under this chapter, if the Commission finds that (1) such termination or suspension is required to protect the public health and safety, or (2) the State has not complied with one or more of the requirements of this section. The Commission shall periodically review such agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
+(1) The Commission, upon its own initiative after reasonable notice and opportunity for hearing to the State with which an agreement under subsection (b) has become effective, or upon request of the Governor of such State, may terminate or suspend all or part of its agreement with the State and reassert the licensing and regulatory authority vested in it under this chapter, if the Commission finds that (1) such termination or suspension is required to protect the public health and safety, or (2) the State has not complied with one or more of the requirements of this section. The Commission shall periodically review such agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
 
-(2) The Commission, upon its own motion or upon request of the Governor of any State, may, after notifying the Governor, temporarily suspend all or part of its agreement with the State without notice or hearing if, in the judgment of the Commission:
+(2) The Commission, upon its own motion or upon request of the Governor of any State, may,after notifying the Governor, temporarily suspend all or part of its agreement with the State without notice or hearing if, in the judgment of the Commission:
 
 &emsp;(A) an emergency situation exists with respect to any material covered by such an agreement creating danger which requires immediate action to protect the health or safety of persons either within or outside the State, and
 
@@ -122,13 +122,13 @@ In the licensing and regulation of byproduct material, as defined in section 201
 
 &emsp;&emsp;(C) require for each license which has a significant impact on the human environment a written analysis (which shall be available to the public before the commencement of any such proceedings) of the impact of such license, including any activities conducted pursuant thereto, on the environment, which analysis shall include—
 
-&emsp;&emsp;&emsp;(i) an assessment of the radiological and nonradiological impacts to the publichealth of the activities to be conducted pursuant to such license;
+&emsp;&emsp;&emsp;(i) an assessment of the radiological and nonradiological impacts to the public health of the activities to be conducted pursuant to such license;
 
 &emsp;&emsp;&emsp;(ii) an assessment of any impact on any waterway and groundwater resulting from such activities;
 
 &emsp;&emsp;&emsp;(iii) consideration of alternatives, including alternative sites and engineering methods, to the activities to be conducted pursuant to such license; and
 
-&emsp;&emsp;&emsp;(iv) consideration of the long-term impacts, including decommissioning, decontamination, and reclamation impacts, associated with activities to be conducted pursuant to such license, including the management of any byproduct material, as defined by section 2014(e)(2) of this title; and
+&emsp;&emsp;&emsp;(iv) consideration of the long-term impacts, including decommissioning, decontamination, and reclamation impacts, associated with activities to be conductedpursuant to such license, including the management of any byproduct material, as defined by section 2014(e)(2) of this title; and
 
 &emsp;&emsp;(D) prohibit any major construction activity with respect to such material prior to complying with the provisions of subparagraph (C).
 

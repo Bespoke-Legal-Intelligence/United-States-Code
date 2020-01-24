@@ -126,7 +126,7 @@
 
 &emsp;&emsp;&emsp;(i) is searchable and is in a format that is clear and understandable;
 
-&emsp;&emsp;&emsp;(ii) contains information that is presented by the name of the applicable manufacturer or applicable group purchasing organization, the name of the covered recipient, the business address of the covered recipient, the specialty of the covered recipient, the value of the payment or other transfer of value, the date on which the payment or other transfer of value was provided to the covered recipient, the form of the payment or other transfer of value, indicated (as appropriate) under subsection (a)(1)(A)(v), the nature of the payment or other transfer of value, indicated (as appropriate) under subsection (a)(1)(A)(vi), and the name of the covered drug, device, biological, or medical supply, as applicable;
+&emsp;&emsp;&emsp;(ii) contains information that is presented by the name of the applicable manufacturer or applicable group purchasing organization, the name of the covered recipient, the business address of the covered recipient, the specialty of the covered recipient, the value of the payment or other transfer of value, the date on which the payment or other transfer of value was provided to the covered recipient, the form of the payment or other transfer of value, indicated (as appropriate) under subsection (a)(1)(A)(v), the nature of the payment or other transfer of value, indicated (as appropriate) under subsection\(a)(1)(A)(vi), and the name of the covered drug, device, biological, or medical supply, as applicable;
 
 &emsp;&emsp;&emsp;(iii) contains information that is able to be easily aggregated and downloaded;
 
@@ -192,7 +192,7 @@ No preemption of additional requirements.—Subparagraph (A) shall not preempt a
 
 &emsp;&emsp;(ii) described in subsection (e)(10)(B), except in the case of information described in clause (i) of such subsection;
 
-&emsp;&emsp;(iii) by any person or entity other than an applicable manufacturer (as so defined) or acovered recipient (as defined in subsection (e)); or
+&emsp;&emsp;(iii) by any person or entity other than an applicable manufacturer (as so defined) or a covered recipient (as defined in subsection (e)); or
 
 &emsp;&emsp;(iv) to a Federal, State, or local governmental agency for public health surveillance, investigation, or other public health purposes or health oversight purposes.
 
@@ -274,7 +274,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) Educational materials that directly benefit patients or are intended for patient use.
 
-&emsp;&emsp;&emsp;(iv) The loan of a covered device for a short-term trial period, not to exceed 90days, to permit evaluation of the covered device by the covered recipient.
+&emsp;&emsp;&emsp;(iv) The loan of a covered device for a short-term trial period, not to exceed 90 days, to permit evaluation of the covered device by the covered recipient.
 
 &emsp;&emsp;&emsp;(v) Items or services provided under a contractual warranty, including the replacement of a covered device, where the terms of the warranty are set forth in the purchase or lease agreement for the covered device.
 

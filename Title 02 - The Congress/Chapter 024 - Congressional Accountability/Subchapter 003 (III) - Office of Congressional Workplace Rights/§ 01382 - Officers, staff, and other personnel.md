@@ -24,11 +24,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;The rate of pay for the Executive Director may not exceed the lesser of—
-
-&emsp;&emsp;&emsp;(i) the highest annual rate of compensation of any officer of the Senate; or
-
-&emsp;&emsp;&emsp;(ii) the highest annual rate of compensation of any officer of the House of Representatives.
+&emsp;&emsp;The rate of pay for the Executive Director may not exceed the maximum rate of pay in effect under section 4575(f) of this title.
 
 #### (3) Term
 
@@ -46,7 +42,7 @@
 
 #### (2) Term
 
-&emsp;The term of office of a Deputy Executive Director shall be not more than 2 terms of 5 years, except that the first Deputy Executive Directors shall have a single term of 6 years.
+&emsp;The term of office of a Deputy Executive Director shall be not more than 2 terms of 5years, except that the first Deputy Executive Directors shall have a single term of 6 years.
 
 #### (3) Compensation
 
@@ -150,7 +146,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the relative merits of securing private counsel, designating a non-attorney representative, or proceeding without representation for proceedings before the Office;
 
-&emsp;&emsp;&emsp;(iii) advising and consulting with, on a privileged and confidential basis, a covered employee who has been subject to a practice that may be a violation of part A of subchapter II regarding any claims the covered employee may have under subchapter IV, the factual allegations that support each such claim, and the relative merits of the procedural options available to the employee for each such claim;
+&emsp;&emsp;&emsp;(iii) advising and consulting with, on a privileged and confidential basis, a coveredemployee who has been subject to a practice that may be a violation of part A of subchapter II regarding any claims the covered employee may have under subchapter IV, the factual allegations that support each such claim, and the relative merits of the procedural options available to the employee for each such claim;
 
 &emsp;&emsp;&emsp;(iv) assisting, on a privileged and confidential basis, a covered employee who seeks consideration under title IV of an allegation of a violation of part A of subchapter II in understanding the procedures, and the significance of the procedures, described in subchapter IV, including—
 
@@ -202,7 +198,7 @@ The Executive Director may, with the prior consent of the department or agency o
 
 In carrying out the functions of the Office, the Executive Director may procure the temporary (not to exceed 1 year) or intermittent services of consultants.
 
-(Pub. L. 104–1, title III, §302, Jan. 23, 1995, 109 Stat. 26; Pub. L. 110–161, div. H, title I, §1101(b), Dec. 26, 2007, 121 Stat. 2237; Pub. L. 110–164, §2(a), Dec. 26, 2007, 121 Stat. 2459; Pub. L. 115–397, title II, §204, Dec. 21, 2018, 132 Stat. 5318.)
+(Pub. L. 104–1, title III, §302, Jan. 23, 1995, 109 Stat. 26; Pub. L. 110–161, div. H, title I, §1101(b), Dec. 26, 2007, 121 Stat. 2237; Pub. L. 110–164, §2(a), Dec. 26, 2007, 121 Stat. 2459; Pub. L. 115–397, title II, §204, Dec. 21, 2018, 132 Stat. 5318; Pub. L. 116–94, div. E, title II, §212(a)(3)(C), Dec. 20, 2019, 133 Stat. 2775.)
 
 #### References in Text
 
@@ -211,6 +207,12 @@ This chapter, referred to in subsecs. (a)(4), (c)(3), and (d)(2)(B)(i), (5)(A), 
 Part A of subchapter II, referred to in subsec. (d)(2)(B), (3)(B), (4)(A), was in the original "part A of title II", meaning part A (§§201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(2)(B). Pub. L. 116–94 substituted "the maximum rate of pay in effect under section 4575(f) of this title." for "the lesser of—
+
+&emsp;"(i) the highest annual rate of compensation of any officer of the Senate; or
+
+&emsp;"(ii) the highest annual rate of compensation of any officer of the House of Representatives."
 
 <b>2018</b>—Subsecs. (d) to (g). Pub. L. 115–397 added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
@@ -227,6 +229,10 @@ Subsec. (c)(2). Pub. L. 110–161, §1101(b)(3), added par. (2) and struck out h
 Subsec. (c)(5). Pub. L. 110–164, §2(a)(3), substituted "not more than 2 terms" for "a single term".
 
 Subsec. (e). Pub. L. 110–161, §1101(b)(4), substituted "Government Accountability Office" for "General Accounting Office".
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under section 282b of this title.
 
 #### Effective Date of 2018 Amendment
 

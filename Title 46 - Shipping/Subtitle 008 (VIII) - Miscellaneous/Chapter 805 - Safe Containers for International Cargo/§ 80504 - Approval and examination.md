@@ -14,7 +14,7 @@ Domicile or Principal Office in United States.—A container owner domiciled or 
 
 &emsp;(1) approved initially under procedures prescribed by the Secretary or by the government of another country that is a party to the Convention; and
 
-&emsp;(2) examined periodically as provided in the Convention, under procedures prescribed by the government of the country in which the owner is domiciled or has its principal office, as long as that country is a party to the Convention.
+&emsp;(2) examined periodically as provided in the Convention, under procedures prescribed bythe government of the country in which the owner is domiciled or has its principal office, as long as that country is a party to the Convention.
 
 (c)
 

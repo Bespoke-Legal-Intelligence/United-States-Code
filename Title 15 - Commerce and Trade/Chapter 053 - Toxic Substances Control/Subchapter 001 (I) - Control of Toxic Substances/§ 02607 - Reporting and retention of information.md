@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) a chemical substance in small quantities (as defined by the Administrator by rule) solely for purposes of scientific experimentation or analysis or chemical research on, or analysis of, such substance or another substance, including any such research or analysis for the development of a product,
 
-> &emsp;shall maintain records and submit to the Administrator reports but only to the extent the Administrator determines the maintenance of records or submission of reports, or both, is necessary for the effective enforcement of this chapter.
+> &emsp;shall maintain records and submit to the Administrator reports but only to the extent theAdministrator determines the maintenance of records or submission of reports, or both, is necessary for the effective enforcement of this chapter.
 
 > The Administrator may not require in a rule promulgated under this paragraph the maintenance of records or the submission of reports with respect to changes in the proportions of the components of a mixture unless the Administrator finds that the maintenance of such records or the submission of such reports, or both, is necessary for the effective enforcement of this chapter. For purposes of the compilation of the list of chemical substances required under subsection (b), the Administrator shall promulgate rules pursuant to this subsection not later than 180 days after January 1, 1977.
 
@@ -22,7 +22,7 @@
 
 &emsp;(B) The categories or proposed categories of use of each such substance or mixture.
 
-&emsp;(C) The total amount of each such substance and mixture manufactured or processed, reasonable estimates of the total amount to bemanufactured or processed, the amount manufactured or processed for each of its categories of use, and reasonable estimates of the amount to be manufactured or processed for each of its categories of use or proposed categories of use.
+&emsp;(C) The total amount of each such substance and mixture manufactured or processed, reasonable estimates of the total amount to be manufactured or processed, the amount manufactured or processed for each of its categories of use, and reasonable estimates of the amount to be manufactured or processed for each of its categories of use or proposed categories of use.
 
 &emsp;(D) A description of the byproducts resulting from the manufacture, processing, use, or disposal of each such substance or mixture.
 
@@ -73,6 +73,10 @@ Administration.—In carrying out this section, the Administrator shall, to the 
 Negotiated rulemaking.—(A) The Administrator shall enter into a negotiated rulemaking pursuant to subchapter III of chapter 5 of title 5 to develop and publish, not later than 3 years after June 22, 2016, a proposed rule providing for limiting the reporting requirements, under this subsection, for manufacturers of any inorganic byproducts, when such byproducts, whether by the byproduct manufacturer or by any other person, are subsequently recycled, reused, or reprocessed.
 
 (B) Not later than 3 and one-half years after June 22, 2016, the Administrator shall publish a final rule resulting from such negotiated rulemaking.
+
+(7)
+
+PFAS data.—Not later than January 1, 2023, the Administrator shall promulgate a rule in accordance with this subsection requiring each person who has manufactured a chemical substance that is a perfluoroalkyl orpolyfluoroalkyl substance in any year since January 1, 2011, to submit to the Administrator a report that includes, for each year since January 1, 2011, the information described in subparagraphs (A) through (G) of paragraph (2).
 
 #### (b) Inventory
 
@@ -226,7 +230,7 @@ Category status.—The list of inactive substances shall not be considered to be
 
 (6)
 
-Interim list of active substances.—Prior to the promulgation of the rule required under paragraph (4)(A), the Administrator shall designate the chemical substances reported under part 711 of title 40, Code of Federal Regulations (as in effect on June 22, 2016), during the reporting period that most closely preceded June 22, 2016, as the interim list of active substances for the purposes of section 2605(b) of this title.
+Interim list of active substances.—Prior to the promulgation of the rule required underparagraph (4)(A), the Administrator shall designate the chemical substances reported under part 711 of title 40, Code of Federal Regulations (as in effect on June 22, 2016), during the reporting period that most closely preceded June 22, 2016, as the interim list of active substances for the purposes of section 2605(b) of this title.
 
 (7)
 
@@ -316,9 +320,11 @@ Any person who manufactures, processes, or distributes in commerce a chemical su
 
 For purposes of this section, the terms "manufacture" and "process" mean manufacture or process for commercial purposes.
 
-(Pub. L. 94–469, title I, §8, Oct. 11, 1976, 90 Stat. 2027; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§8, 19(g), June 22, 2016, 130 Stat. 470, 507.)
+(Pub. L. 94–469, title I, §8, Oct. 11, 1976, 90 Stat. 2027; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§8, 19(g), June 22, 2016, 130 Stat. 470, 507; Pub. L. 116–92, div. F, title LXXIII, §7351, Dec. 20, 2019, 133 Stat. 2289.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(7). Pub. L. 116–92 added par. (7).
 
 <b>2016</b>—Subsec. (a)(2). Pub. L. 114–182, §8(a)(1)(A), struck out concluding provisions which read as follows: "To the extent feasible, the Administrator shall not require under paragraph (1), any reporting which is unnecessary or duplicative."
 

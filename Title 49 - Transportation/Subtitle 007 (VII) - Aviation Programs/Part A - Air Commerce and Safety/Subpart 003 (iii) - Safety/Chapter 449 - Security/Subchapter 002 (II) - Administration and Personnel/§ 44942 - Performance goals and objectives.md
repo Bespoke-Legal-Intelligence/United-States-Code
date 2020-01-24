@@ -24,7 +24,7 @@ Long-Term Results-Based Management.—
 
 Performance plan.—
 
-&emsp;&emsp;(A) Each year, consistent with the requirements of the Government Performance and Results Act of 1993 (GPRA), the Secretary ofHomeland Security and the Administrator of the Transportation Security Administration shall agree on a performance plan for the succeeding 5 years that establishes measurable goals and objectives for aviation security. The plan shall identify action steps necessary to achieve such goals.
+&emsp;&emsp;(A) Each year, consistent with the requirements of the Government Performance and Results Act of 1993 (GPRA), the Secretary of Homeland Security and the Administrator of the Transportation Security Administration shall agree on a performance plan for the succeeding 5 years that establishes measurable goals and objectives for aviation security. The plan shall identify action steps necessary to achieve such goals.
 
 &emsp;&emsp;(B) In addition to meeting the requirements of GPRA, the performance plan should clarify the responsibilities of the Secretary of Homeland Security, the Administrator of the Transportation Security Administration, and any other agency or organization that may have a role in ensuring the safety and security of the civil air transportation system.
 

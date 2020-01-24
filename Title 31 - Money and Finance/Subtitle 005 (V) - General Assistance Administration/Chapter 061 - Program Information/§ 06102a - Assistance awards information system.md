@@ -14,7 +14,7 @@
 
 &emsp;(3) may validate, by appropriate means, the method by which an agency prepares the report.
 
-(c) The Director shall transmit promptly after the end of each calendar quarter, free of charge, the data in the system required by subsection (a) to the Committee on Rules and Administration of the Senate and to the Committee on House Oversight of the House of Representatives.
+(c) The Director shall transmit promptly after the end of each calendar quarter, free of charge, the data in the system required by subsection\(a) to the Committee on Rules and Administration of the Senate and to the Committee on House Oversight of the House of Representatives.
 
 (Added Pub. L. 97–452, §1(23)(A), Jan. 12, 1983, 96 Stat. 2477; amended Pub. L. 98–169, §1(2), Nov. 29, 1983, 97 Stat. 1113; Pub. L. 99–547, §2(b)(1), Oct. 27, 1986, 100 Stat. 3060; Pub. L. 104–186, title II, §219(b)(2), Aug. 20, 1996, 110 Stat. 1748.)
 

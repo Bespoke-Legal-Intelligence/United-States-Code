@@ -26,7 +26,7 @@ Pub. L. 106–43 inserted ", including as a result of dilution under section 11
 
 <b>1982</b>—Pub. L. 97–247 substituted "an" for "a verified" after "required fee, file", inserted "when requested prior to the expiration of an extension" after "Commissioner for good cause" and struck out provision that an unverified opposition could be filed by a duly authorized attorney, but such opposition would be null and void unless verified by the opposer within a reasonable time after such filing is fixed by the Commissioner.
 
-<b>1975</b>—Pub. L. 93–600 substituted provisions relating to extensions of time for filing opposition upon written request prior to the expiration of the thirty-day period for an additional thirty days, and further extensionsfor good cause, for provisions relating to extensions of the time for filing opposition for good cause shown.
+<b>1975</b>—Pub. L. 93–600 substituted provisions relating to extensions of time for filing opposition upon written request prior to the expiration of the thirty-day period for an additional thirty days, and further extensions for good cause, for provisions relating to extensions of the time for filing opposition for good cause shown.
 
 Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 

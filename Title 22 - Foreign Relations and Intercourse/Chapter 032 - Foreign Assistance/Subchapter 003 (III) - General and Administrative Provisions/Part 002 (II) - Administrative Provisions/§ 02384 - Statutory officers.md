@@ -6,7 +6,7 @@ The President may appoint, by and with the advice and consent of the Senate, twe
 
 #### (b) Rate of compensation; title of officers; order of succession
 
-Within the limitations established by subsection (a) of this section, the President may fix the rate of compensation, and may designate the title of, any officer appointed pursuant to the authority contained in that subsection. The President may also fix the order of succession among the officers provided for in subsection (a) of this section in the event of the absence, death, resignation, or disability of one or more of said officers.
+Within the limitations established by subsection (a) of this section, the President may fixthe rate of compensation, and may designate the title of, any officer appointed pursuant to the authority contained in that subsection. The President may also fix the order of succession among the officers provided for in subsection (a) of this section in the event of the absence, death, resignation, or disability of one or more of said officers.
 
 #### (c) Appointment of certain statutory officers to comparable positions
 
@@ -58,7 +58,7 @@ Subsec. (d)(5), (7). Pub. L. 91–175, §304(2), (3), included section 290f of t
 
 <b>1966</b>—Subsec. (d)(8). Pub. L. 89–583 added par. (8).
 
-<b>1965</b>—Subsec. (b). Pub. L. 89–171, §302(b)(1), struck out "paragraph (3) of" before "subsection (a) of this section" the second time it appears and substituted "ofone or more of said officers" for "of the officers provided for in paragraphs (1) and (2) of that subsection".
+<b>1965</b>—Subsec. (b). Pub. L. 89–171, §302(b)(1), struck out "paragraph (3) of" before "subsection (a) of this section" the second time it appears and substituted "of one or more of said officers" for "of the officers provided for in paragraphs (1) and (2) of that subsection".
 
 Subsec. (d)(2)(A), (5), (7). Pub. L. 89–171, §302(b)(2), substituted "the Latin American Development Act, as amended" for "Public Law 86–735".
 

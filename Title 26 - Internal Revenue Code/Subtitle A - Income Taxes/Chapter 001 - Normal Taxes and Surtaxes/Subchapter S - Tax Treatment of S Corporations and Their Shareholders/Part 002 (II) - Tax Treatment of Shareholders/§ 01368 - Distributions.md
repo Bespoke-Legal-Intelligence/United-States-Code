@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, the term "accumulated adjustments account" means an account of the S corporation which is adjusted for the S period in a manner similar to the adjustments under section 1367 (except that no adjustment shall be made for income (and related expenses) which is exempt from tax under this title and the phrase "(but not below zero)" shall be disregarded in section 1367(a)(2)) and no adjustment shall be made for Federal taxes attributable to any taxable year in which the corporation was a C corporation.
+&emsp;&emsp;Except as otherwise provided in this paragraph, the term "accumulated adjustmentsaccount" means an account of the S corporation which is adjusted for the S period in a manner similar to the adjustments under section 1367 (except that no adjustment shall be made for income (and related expenses) which is exempt from tax under this title and the phrase "(but not below zero)" shall be disregarded in section 1367(a)(2)) and no adjustment shall be made for Federal taxes attributable to any taxable year in which the corporation was a C corporation.
 
 #### (B) Amount of adjustment in the case of redemptions
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;An S corporation may, with the consent of all of its affected shareholders, elect to haveparagraph (1) of subsection (c) not apply to all distributions made during the taxable year for which the election is made.
+&emsp;&emsp;An S corporation may, with the consent of all of its affected shareholders, elect to have paragraph (1) of subsection (c) not apply to all distributions made during the taxable year for which the election is made.
 
 #### (B) Affected shareholder
 

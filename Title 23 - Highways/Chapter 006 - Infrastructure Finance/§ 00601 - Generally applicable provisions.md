@@ -374,7 +374,7 @@ In general.—
 
 &emsp;&emsp;"(A)
 
-Purpose of agreements.—Subject to this section, the Secretary may enter into cooperative agreements with the States of California, Florida, Missouri, and \[sic\] Rhode Island, and Texas for the establishment of State infrastructure banks and multistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section, provided that Texas may not compete for funds previously allocated or appropriated to any other State.
+Purpose of agreements.—Subject to this section, the Secretary may enter into cooperative agreements with the States of California, Florida, Missouri, and \[sic\] Rhode Island, and Texas for the establishment of State infrastructure banks andmultistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section, provided that Texas may not compete for funds previously allocated or appropriated to any other State.
 
 &emsp;&emsp;"(B)
 
@@ -434,7 +434,7 @@ In general.—Subject to paragraph (2), funds in an infrastructure bank establis
 
 &emsp;"(2)
 
-Interstate funds.—Funds contributed to an infrastructure bank from funds apportioned to aState under \[former\] section 104(b)(4) of title 23, United States Code, may be used only to provide assistance with respect to projects eligible for assistance under such paragraph.
+Interstate funds.—Funds contributed to an infrastructure bank from funds apportioned to a State under \[former\] section 104(b)(4) of title 23, United States Code, may be used only to provide assistance with respect to projects eligible for assistance under such paragraph.
 
 &emsp;"(3)
 
@@ -560,7 +560,7 @@ Separate accounts.—An infrastructure bank established under this section shall
 
 Highway account.—Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (g)(1), a State entering into a cooperative agreement under this section to contribute not to exceed—
 
-&emsp;&emsp;"(A) 10 percent of the funds apportioned to the State for each of fiscal years 1996 and 1997 undereach of \[former\] sections 104(b)(1), 104(b)(3), 104(b)(5)(B), 144, and 160 of title 23, United States Code, and section 1015 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, former 23 U.S.C. 104 note\]; and
+&emsp;&emsp;"(A) 10 percent of the funds apportioned to the State for each of fiscal years 1996 and 1997 under each of \[former\] sections 104(b)(1), 104(b)(3), 104(b)(5)(B), 144, and 160 of title 23, United States Code, and section 1015 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, former 23 U.S.C. 104 note\]; and
 
 &emsp;&emsp;"(B) 10 percent of the funds allocated to the State for each of such fiscal years under each of \[former\] section 157 of such title and section 1013(c) of such Act \[former 23 U.S.C. 157 note\];
 

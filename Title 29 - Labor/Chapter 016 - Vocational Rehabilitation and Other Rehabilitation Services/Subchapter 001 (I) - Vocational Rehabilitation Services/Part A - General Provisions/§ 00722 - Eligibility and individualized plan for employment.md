@@ -44,7 +44,7 @@
 
 #### (B) Determinations by officials of other agencies
 
-&emsp;&emsp;Determinations made by officials of other agencies, particularly education officials described in section 721(a)(11)(D) of this title, regarding whether an individual satisfies one or more factors relating to whether an individual is an individual with a disability under section 705(20)(A) of this title or an individual with a significant disability under section 705(21)(A) of this title shall be used, to the extent appropriate and consistent with the requirements of this part, in assisting the designated State unit in making such determinations.
+&emsp;&emsp;Determinations made by officials of other agencies, particularly education officials described in section 721(a)(11)(D) of this title, regarding whether an individual satisfies one or more factors relating to whether anindividual is an individual with a disability under section 705(20)(A) of this title or an individual with a significant disability under section 705(21)(A) of this title shall be used, to the extent appropriate and consistent with the requirements of this part, in assisting the designated State unit in making such determinations.
 
 #### (C) Basis
 
@@ -108,7 +108,7 @@
 
 #### (2) Individuals desiring to enter the workforce
 
-&emsp;For an individual entitled to benefits under title II or XVI of the Social Security Act (42 U.S.C. 401 et seq., 1381 et seq.) on the basis of a disability or blindness, the designated State unit shall provide to the individual general information on additional supports and assistance for individuals with disabilities desiring to enter the workforce, including assistance with benefits planning.
+&emsp;For an individual entitled to benefits under title II or XVI of the Social Security Act (42U.S.C. 401 et seq., 1381 et seq.) on the basis of a disability or blindness, the designated State unit shall provide to the individual general information on additional supports and assistance for individuals with disabilities desiring to enter the workforce, including assistance with benefits planning.
 
 #### (3) Mandatory procedures
 
@@ -130,7 +130,7 @@
 
 #### (D) Copy
 
-&emsp;&emsp;A copy of the individualized plan for employment for an eligible individual shall beprovided to the individual or, as appropriate, to the individual's representative, in writing and, if appropriate, in the native language or mode of communication of the individual or, as appropriate, of the individual's representative.
+&emsp;&emsp;A copy of the individualized plan for employment for an eligible individual shall be provided to the individual or, as appropriate, to the individual's representative, in writing and, if appropriate, in the native language or mode of communication of the individual or, as appropriate, of the individual's representative.
 
 #### (E) Review and amendment
 
@@ -170,7 +170,7 @@
 
 &emsp;&emsp;(ii) timelines for the achievement of the employment outcome and for the initiation of the services;
 
-&emsp;&emsp;(C) a description of the entity chosen by the eligible individual or, as appropriate, the individual's representative, that will provide the vocational rehabilitation services, and the methods used to procure such services;
+&emsp;&emsp;(C) a description of the entity chosen by the eligible individual or, as appropriate, the individual's representative, that will providethe vocational rehabilitation services, and the methods used to procure such services;
 
 &emsp;&emsp;(D) a description of criteria to evaluate progress toward achievement of the employment outcome;
 
@@ -192,7 +192,7 @@
 
 &emsp;&emsp;&emsp;(i) the extended services needed by the eligible individual; and
 
-&emsp;&emsp;&emsp;(ii) the source of extended services or, to the extent that the source of the extendedservices cannot be identified at the time of the development of the individualized plan for employment, a description of the basis for concluding that there is a reasonable expectation that such source will become available;
+&emsp;&emsp;&emsp;(ii) the source of extended services or, to the extent that the source of the extended services cannot be identified at the time of the development of the individualized plan for employment, a description of the basis for concluding that there is a reasonable expectation that such source will become available;
 
 &emsp;&emsp;(G) as determined to be necessary, a statement of projected need for post-employment services; and
 
@@ -248,7 +248,7 @@
 
 &emsp;&emsp;&emsp;(i) is voluntary on the part of the parties;
 
-&emsp;&emsp;&emsp;(ii) is not used to deny or delay the right of an individual to a hearing under this subsection, or to deny any other right afforded under this subchapter; and
+&emsp;&emsp;&emsp;(ii) is not used to deny or delay the right of an individual to a hearing under thissubsection, or to deny any other right afforded under this subchapter; and
 
 &emsp;&emsp;&emsp;(iii) is conducted by a qualified and impartial mediator who is trained in effective mediation techniques.
 
@@ -322,7 +322,7 @@
 
 &emsp;&emsp;&emsp;(ii) not overturn or modify the decision of the hearing officer, or part of the decision, that supports the position of the applicant or eligible individual unless the reviewing official concludes, based on clear and convincing evidence, that the decision of the impartial hearing officer is clearly erroneous on the basis of being contrary to the approved State plan, this chapter (including regulations implementing this chapter) or any State regulation or policy that is consistent with the Federal requirements specified in this subchapter;
 
-&emsp;&emsp;&emsp;(iii) make a final decision with respect to the matter in a timely manner and provide such decision in writing to the applicant or eligible individual, or, as appropriate, the applicant's representative or individual's representative, and to the designated State unit, including a full report of the findings and the grounds for such decision; and
+&emsp;&emsp;&emsp;(iii) make a final decision with respect to the matter in a timely manner and provide such decision in writing to the applicant or eligible individual, or, as appropriate, the applicant's representative orindividual's representative, and to the designated State unit, including a full report of the findings and the grounds for such decision; and
 
 &emsp;&emsp;&emsp;(iv) not delegate the responsibility for making the final decision to any officer or employee of the designated State unit.
 
@@ -400,7 +400,7 @@
 
 #### (d) Policies and procedures
 
-Each designated State agency, in consultation with the State Rehabilitation Council, if the State has such a council, shall, consistent with section 720(a)(3)(C) of this title, develop and implement written policies and procedures that enable each individual who is an applicant for or eligible to receive vocational rehabilitation services under this subchapter to exercise informed choice throughout the vocational rehabilitation process carried out under this subchapter, including policies and procedures that require the designated State agency—
+Each designated State agency, in consultation with the State Rehabilitation Council, if theState has such a council, shall, consistent with section 720(a)(3)(C) of this title, develop and implement written policies and procedures that enable each individual who is an applicant for or eligible to receive vocational rehabilitation services under this subchapter to exercise informed choice throughout the vocational rehabilitation process carried out under this subchapter, including policies and procedures that require the designated State agency—
 
 &emsp;(1) to inform each such applicant and eligible individual (including students with disabilities who are making the transition from programs under the responsibility of an educational agency to programs under the responsibility of the designated State unit), through appropriate modes of communication, about the availability of, and opportunities to exercise, informed choice, including the availability of support services for individuals with cognitive or other disabilities who require assistance in exercising informed choice, throughout the vocational rehabilitation process;
 

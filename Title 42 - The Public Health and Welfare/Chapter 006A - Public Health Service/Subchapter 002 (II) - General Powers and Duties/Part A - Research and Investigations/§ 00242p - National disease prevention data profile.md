@@ -1,6 +1,6 @@
 ### §242p. National disease prevention data profile
 
-(a) The Secretary, acting through the National Center for Health Statistics, shall submitto Congress on March 15, 1990, and on March 15 of every third year thereafter, a national disease prevention data profile in order to provide a data base for the effective implementation of this Act and to increase public awareness of the prevalence, incidence, and any trends in the preventable causes of death and disability in the United States. Such profile shall include at a minimum—
+(a) The Secretary, acting through the National Center for Health Statistics, shall submit to Congress on March 15, 1990, and on March 15 of every third year thereafter, a national disease prevention data profile in order to provide a data base for the effective implementation of this Act and to increase public awareness of the prevalence, incidence, and any trends in the preventable causes of death and disability in the United States. Such profile shall include at a minimum—
 
 &emsp;(1) mortality rates for preventable diseases;
 

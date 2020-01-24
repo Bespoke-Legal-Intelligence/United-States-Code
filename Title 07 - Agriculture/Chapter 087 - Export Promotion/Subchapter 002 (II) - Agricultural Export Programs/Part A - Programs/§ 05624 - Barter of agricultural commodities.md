@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary or the Commodity Credit Corporation may provide eligible commodities inbarter for foreign products under such terms and conditions as the Secretary or the Corporation shall prescribe.
+The Secretary or the Commodity Credit Corporation may provide eligible commodities in barter for foreign products under such terms and conditions as the Secretary or the Corporation shall prescribe.
 
 #### (b) Eligible commodities
 

@@ -92,7 +92,7 @@ Authority.—
 
 &emsp;"(1)
 
-In general.—The head of an agency may carry out a pilot program, to be known as a 'commercial solutions opening pilot program', under which innovative commercial items may be acquired through a competitive selection of proposals resulting from a general solicitation and the peer review of such proposals.
+In general.—The head of an agency may carry out a pilot program, to be known as a 'commercial solutions opening pilot program', under which innovative commercial products may be acquired through a competitive selection of proposals resulting from a general solicitation and the peer review of such proposals.
 
 &emsp;"(2)
 
@@ -146,7 +146,7 @@ Elements of report.—Each report under this subsection shall include the follow
 
 &emsp;"(3)
 
-Specified congressional committees.—The congressional committees specified in this paragraph are the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives.
+Specified congressional committees.—The congressional committees specified in this paragraph are the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives.
 
 "(f)
 
@@ -159,8 +159,6 @@ Innovative Defined.—In this section, the term 'innovative' means—
 "(g)
 
 Termination.—The authority to enter into a contract under a pilot program under this section terminates on September 30, 2022."
-
-<i>\[Pub. L. 115–232, div. A, title VIII, §836(f)(10), (h), Aug. 13, 2018, 132 Stat. 1872, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 880 of Pub. L. 114–328, set out above, is amended by striking "commercial items" in subsection (a)(1) and inserting "commercial products".\]</i>
 
 #### Governmentwide Software Purchasing Program
 

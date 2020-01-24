@@ -8,7 +8,7 @@ The Secretary is authorized to make supplementary grants to applicant State and 
 
 Grants may be made under this section only for areawide development projects in areas for which it has been demonstrated, to the satisfaction of the Secretary, that—
 
-&emsp;(1) areawide comprehensive planning and programing provide an adequate basis for evaluating (A) the location, financing, and scheduling of individual public facility projects (including but not limited to hospitals and libraries; sewer, water, and sewage treatment facilities; highway, mass transit, airport, and other transportation facilities; and recreation and other open-space areas) whether or not federally assisted; and (B) other proposed land development or uses, which projects or uses, because of their size, density, type, or location, have public areawide or interjurisdictional significance;
+&emsp;(1) areawide comprehensive planning and programing provide an adequate basis for evaluating (A) the location, financing, and scheduling of individual public facility projects (including but not limited to hospitals and libraries; sewer, water, and sewage treatment facilities; highway, mass transit, airport, and other transportation facilities; and recreation and other open-space areas) whether or notfederally assisted; and (B) other proposed land development or uses, which projects or uses, because of their size, density, type, or location, have public areawide or interjurisdictional significance;
 
 &emsp;(2) adequate areawide institutional or other arrangements exist for coordinating, on the basis of such areawide comprehensive planning and programing, local public policies and activities affecting the development of the area; and
 

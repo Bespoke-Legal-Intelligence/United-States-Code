@@ -12,7 +12,7 @@
 
 (3) The Chief Information Officer designated under paragraph (2) shall head an office responsible for ensuring agency compliance with and prompt, efficient, and effective implementation of the information policies and information resources management responsibilities established under this subchapter, including the reduction of information collection burdens on the public. The Chief Information Officer and employees of such office shall be selected with special attention to the professional qualifications required to administer the functions described under this subchapter.
 
-(4) Each agency program official shall be responsible and accountable for information resources assigned to and supporting the programs under such official. In consultation with theChief Information Officer designated under paragraph (2) and the agency Chief Financial Officer (or comparable official), each agency program official shall define program information needs and develop strategies, systems, and capabilities to meet those needs.
+(4) Each agency program official shall be responsible and accountable for information resources assigned to and supporting the programs under such official. In consultation with the Chief Information Officer designated under paragraph (2) and the agency Chief Financial Officer (or comparable official), each agency program official shall define program information needs and develop strategies, systems, and capabilities to meet those needs.
 
 (b) With respect to general information resources management, each agency shall—
 
@@ -24,7 +24,29 @@
 
 &emsp;&emsp;(C) improve the integrity, quality, and utility of information to all users within and outside the agency, including capabilities for ensuring dissemination of public information, public access to government information, and protections for privacy and security;
 
-&emsp;(2) in accordance with guidance by the Director, develop and maintain a strategic information resources management plan that shall describe how information resources management activities help accomplish agency missions;
+&emsp;(2) in accordance with guidance by the Director, develop and maintain a strategic information resources management plan that, to the extent practicable—
+
+&emsp;&emsp;(A) describes how information resources management activities help accomplish agency missions;
+
+&emsp;&emsp;(B) includes an open data plan for data that does not concern monetary policy that—
+
+&emsp;&emsp;&emsp;(i) requires the agency to develop processes and procedures that—
+
+&emsp;&emsp;&emsp;&emsp;(I) require data collection mechanisms created on or after the date of the enactment of the OPEN Government Data Act to be available in an open format; and
+
+&emsp;&emsp;&emsp;&emsp;(II) facilitate collaboration with non-Government entities (including businesses), researchers, and the public for the purpose of understanding how data users value and use government data;
+
+&emsp;&emsp;&emsp;(ii) identifies and implements methods for collecting and analyzing digital information on data asset usage by users within and outside of the agency, including designating a point of contact within the agency to assist the public and to respond to quality issues, usability issues, recommendations for improvements, and complaints about adherence to open data requirements within a reasonable period of time;
+
+&emsp;&emsp;&emsp;(iii) develops and implements a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets;
+
+&emsp;&emsp;&emsp;(iv) includes requirements for meeting the goals of the agency open data plan, including the acquisition of technology, provision of training for employees, and the implementation of procurement standards, in accordance with existing law, regulation, and policy, that allow for the acquisition of innovative solutions from public and private sectors;
+
+&emsp;&emsp;&emsp;(v) identifies as priority data assets any data asset for which disclosure would be in the public interest and establishes a plan to evaluate each priority data asset for disclosure on the Federal Data Catalogue under section 3511 and for a determination under <sup>1</sup> 3511(a)(2)(A)(iii)(I)(bb), including an accounting of which priority data assets have not yet been evaluated; and
+
+&emsp;&emsp;&emsp;(vi) requires the agency to comply with requirements under section 3511, including any standards established by the Director under such section, when disclosing a data asset pursuant to such section; and
+
+&emsp;&emsp;(C) is updated annually and made publicly available on the website of the agency not later than 5 days after each such update;
 
 &emsp;(3) develop and maintain an ongoing process to—
 
@@ -34,9 +56,19 @@
 
 &emsp;&emsp;(C) establish goals for improving information resources management's contribution to program productivity, efficiency, and effectiveness, methods for measuring progress towards those goals, and clear roles and responsibilities for achieving those goals;
 
-&emsp;(4) in consultation with the Director, the Administrator of General Services, and the Archivist of the United States, maintain a current and complete inventory of the agency's information resources, including directories necessary to fulfill the requirements of section 3511 of this subchapter; and
+&emsp;(4) in consultation with the Director, the Administrator of General Services, and the Archivist of the United States, maintain a current and complete inventory of the agency's information resources, including directories necessary to fulfill the requirements of section 3511 of this subchapter;
 
-&emsp;(5) in consultation with the Director and the Director of the Office of Personnel Management, conduct formal training programs to educate agency program and management officials about information resources management.
+&emsp;(5) in consultation with the Director and the Director of the Office of Personnel Management, conduct formal training programs to educate agency program and management officials about information resources management; and
+
+&emsp;(6) in accordance with guidance by the Director—
+
+&emsp;&emsp;(A) make each data asset of the agency available in an open format; and
+
+&emsp;&emsp;(B) make each public data asset of the agency available—
+
+&emsp;&emsp;&emsp;(i) as an open Government data asset; and
+
+&emsp;&emsp;&emsp;(ii) under an open license.
 
 (c) With respect to the collection of information and the control of paperwork, each agency shall—
 
@@ -86,7 +118,7 @@
 
 &emsp;&emsp;(iv) minimize the burden of the collection of information on those who are to respond, including through the use of automated collection techniques or other forms of information technology; and
 
-&emsp;(B) for any proposed collection of information contained in a proposed rule (to be reviewed by the Director under section 3507(d)), provide notice and comment through the notice of proposed rulemaking for the proposedrule and such notice shall have the same purposes specified under subparagraph (A)(i) through (iv);
+&emsp;(B) for any proposed collection of information contained in a proposed rule (to be reviewed by the Director under section 3507(d)), provide notice and comment through the notice of proposed rulemaking for the proposed rule and such notice shall have the same purposes specified under subparagraph (A)(i) through (iv);
 
 &emsp;(3) certify (and provide a record supporting such certification, including public comments received by the agency) that each collection of information submitted to the Director for review under section 3507—
 
@@ -130,7 +162,7 @@
 
 &emsp;(2) regularly solicit and consider public input on the agency's information dissemination activities;
 
-&emsp;(3) provide adequate notice when initiating, substantially modifying, or terminating significant information dissemination products; and
+&emsp;(3) provide adequate notice when initiating, substantially modifying, or terminating significant information dissemination products;
 
 &emsp;(4) not, except where specifically authorized by statute—
 
@@ -140,7 +172,19 @@
 
 &emsp;&emsp;(C) charge fees or royalties for resale or redissemination of public information; or
 
-&emsp;&emsp;(D) establish user fees for public information that exceed the cost of dissemination.
+&emsp;&emsp;(D) establish user fees for public information that exceed the cost of dissemination;
+
+&emsp;(5) ensure that any public data asset of the agency is machine-readable; and
+
+&emsp;(6) engage the public in using public data assets of the agency and encourage collaboration by—
+
+&emsp;&emsp;(A) publishing on the website of the agency, on a regular basis (not less than annually), information on the usage of such assets by non-Government users;
+
+&emsp;&emsp;(B) providing the public with the opportunity to request specific data assets to be prioritized for disclosure and to provide suggestions for the development of agency criteria with respect to prioritizing data assets for disclosure;
+
+&emsp;&emsp;(C) assisting the public in expanding the use of public data assets; and
+
+&emsp;&emsp;(D) hosting challenges, competitions, events, or other initiatives designed to create additional value from public data assets of the agency.
 
 (e) With respect to statistical policy and coordination, each agency shall—
 
@@ -186,77 +230,9 @@
 
 (Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 171; amended Pub. L. 104–106, div. E, title LI, §5125(a), Feb. 10, 1996, 110 Stat. 684; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(b), (c), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(l)(6), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–296, title X, §1005(c)(3), Nov. 25, 2002, 116 Stat. 2273; Pub. L. 107–347, title III, §305(c)(3), Dec. 17, 2002, 116 Stat. 2961; Pub. L. 115–435, title II, §202(c)(1), Jan. 14, 2019, 132 Stat. 5536.)
 
-#### Amendment of Subsections (b) and (d)
-
-<i>Pub. L. 115–435, title II, §202(c)(1), (3), Jan. 14, 2019, 132 Stat. 5536, 5538, provided that, effective 1 year after Jan. 14, 2019, this section is amended as follows:</i>
-
-<i>(1) in subsection (b)—</i>
-
-<i>(A) by amending paragraph (2) to read as follows:</i>
-
-&emsp;<i>"(2) in accordance with guidance by the Director, develop and maintain a strategic information resources management plan that, to the extent practicable—</i>
-
-&emsp;&emsp;<i>"(A) describes how information resources management activities help accomplish agency missions;</i>
-
-&emsp;&emsp;<i>"(B) includes an open data plan for data that does not concern monetary policy that—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) requires the agency to develop processes and procedures that—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) require data collection mechanisms created on or after the date of the enactment of the OPEN Government Data Act to be available in an open format; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) facilitate collaboration with non-Government entities (including businesses), researchers, and the public for the purpose of understanding how data users value and use government data;</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) identifies and implements methods for collecting and analyzing digital information on data asset usage by users within and outside of the agency, including designating a point of contact within the agency to assist the public and to respond to quality issues, usability issues, recommendations for improvements, and complaints about adherence to open data requirements within a reasonable period of time;</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) develops and implements a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets;</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) includes requirements for meeting the goals of the agency open data plan, including the acquisition of technology, provision of training for employees, and the implementation of procurement standards, in accordance with existing law, regulation, and policy, that allow for the acquisition of innovative solutions from public and private sectors;</i>
-
-&emsp;&emsp;&emsp;<i>"(v) identifies as priority data assets any data asset for which disclosure would be in the public interest and establishes a plan to evaluate each priority data asset for disclosure on the Federal Data Catalogue under section 3511 and for a determination under 3511(a)(2)(A)(iii)(I)(bb), including an accounting of which priority data assets have not yet been evaluated; and</i>
-
-&emsp;&emsp;&emsp;<i>"(vi) requires the agency to comply with requirements under section 3511, including any standards established by the Director under such section, when disclosing a data asset pursuant to such section; and</i>
-
-&emsp;&emsp;<i>"(C) is updated annually and made publicly available on the website of the agency not later than 5 days after each such update;";</i>
-
-<i>(B) in paragraph (4), by striking "; and" and inserting a semicolon;</i>
-
-<i>(C) in paragraph (5), by striking the period at the end and inserting "; and"; and</i>
-
-<i>(D) by adding at the end the following new paragraph:</i>
-
-&emsp;<i>"(6) in accordance with guidance by the Director—</i>
-
-&emsp;&emsp;<i>"(A) make each data asset of the agency available in an open format; and</i>
-
-&emsp;&emsp;<i>"(B) make each public data asset of the agency available—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) as an open Government data asset; and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) under an open license."; and</i>
-
-<i>(2) in subsection (d)—</i>
-
-<i>(A) in paragraph (3), by striking "and" at the end;</i>
-
-<i>(B) in paragraph (4), by striking the period at the end and inserting a semicolon; and</i>
-
-<i>(C) by adding at the end the following new paragraphs:</i>
-
-&emsp;<i>"(5) ensure that any public data asset of the agency is machine-readable; and</i>
-
-&emsp;<i>"(6) engage the public in using public data assets of the agency and encourage collaboration by—</i>
-
-&emsp;&emsp;<i>"(A) publishing on the website of the agency, on a regular basis (not less than annually), information on the usage of such assets by non-Government users;</i>
-
-&emsp;&emsp;<i>"(B) providing the public with the opportunity to request specific data assets to be prioritized for disclosure and to provide suggestions for the development of agency criteria with respect to prioritizing data assets for disclosure;</i>
-
-&emsp;&emsp;<i>"(C) assisting the public in expanding the use of public data assets; and</i>
-
-&emsp;&emsp;<i>"(D) hosting challenges, competitions, events, or other initiatives designed to create additional value from public data assets of the agency."</i>
-
-<i>See 2019 Amendment notes below.</i>
-
 #### References in Text
+
+The date of the enactment of the OPEN Government Data Act, referred to in subsec. (b)(2)(B)(i)(I), is the date of enactment of title II of Pub. L. 115–435, which was approved Jan. 14, 2019.
 
 The date of enactment of the Small Business Paperwork Relief Act of 2002, referred to in subsec. (i)(2), is the date of enactment of Pub. L. 107–198, which was approved June 28, 2002.
 
@@ -381,4 +357,6 @@ Sec. 5. <i>Information Coordination Center</i>. (a) To assist the Chair in the Y
 Sec. 6. <i>Judicial Review</i>. This Executive order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "section".</i>
 

@@ -48,11 +48,11 @@ The social security account number issued to an individual for purposes of secti
 
 #### (A) Sharing of information
 
-&emsp;&emsp;The Secretary of Agriculture may share any information contained in any list referred to in paragraph (1) with any other agency or instrumentality of the United States which otherwise has access to employer identification numbers in accordance with this section or other applicable Federal law, except that the Secretary of Agriculture may share such information only to the extent that such Secretary determines such sharing would assist in verifying and matching such information against information maintained by such other agency or instrumentality. Any such information shared pursuant to this subparagraph may be used by such other agency or instrumentality only for the purpose of effective administration and enforcement of the Food and Nutrition Act of 2008 or for the purpose of investigation of violations of other Federal laws or enforcement of such laws.
+&emsp;&emsp;The Secretary of Agriculture may share any information contained in any list referred to in paragraph (1) with any otheragency or instrumentality of the United States which otherwise has access to employer identification numbers in accordance with this section or other applicable Federal law, except that the Secretary of Agriculture may share such information only to the extent that such Secretary determines such sharing would assist in verifying and matching such information against information maintained by such other agency or instrumentality. Any such information shared pursuant to this subparagraph may be used by such other agency or instrumentality only for the purpose of effective administration and enforcement of the Food and Nutrition Act of 2008 or for the purpose of investigation of violations of other Federal laws or enforcement of such laws.
 
 #### (B) Safeguards
 
-&emsp;&emsp;The Secretary of Agriculture, and the head of any other agency or instrumentality referred to in subparagraph (A), shall restrict, to the satisfaction of the Secretary of the Treasury, access to employer identification numbers obtained pursuant to this subsection only to officers and employees of the United States whose duties or responsibilities require access for the purposes described in subparagraph (A). The Secretaryof Agriculture, and the head of any agency or instrumentality with which information is shared pursuant to subparagraph (A), shall provide such other safeguards as the Secretary of the Treasury determines to be necessary or appropriate to protect the confidentiality of the employer identification numbers.
+&emsp;&emsp;The Secretary of Agriculture, and the head of any other agency or instrumentality referred to in subparagraph (A), shall restrict, to the satisfaction of the Secretary of the Treasury, access to employer identification numbers obtained pursuant to this subsection only to officers and employees of the United States whose duties or responsibilities require access for the purposes described in subparagraph (A). The Secretary of Agriculture, and the head of any agency or instrumentality with which information is shared pursuant to subparagraph (A), shall provide such other safeguards as the Secretary of the Treasury determines to be necessary or appropriate to protect the confidentiality of the employer identification numbers.
 
 #### (3) Confidentiality and nondisclosure rules
 
@@ -88,7 +88,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (3) Furnishing of information between payor and recipient
 
-&emsp;If any person is required to include the TIN of another person on a return under paragraph\(1) or (2), such other person shall furnish his TIN to such person.
+&emsp;If any person is required to include the TIN of another person on a return under paragraph (1) or (2), such other person shall furnish his TIN to such person.
 
 #### (4) Seller-provided financing
 
@@ -150,7 +150,7 @@ The social security account number issued to an individual for purposes of secti
 
 &emsp;The Secretary shall implement a system that ensures that individual taxpayer identification numbers issued solely for purposes of claiming tax treaty benefits are used only for such purposes, by distinguishing such numbers from other individual taxpayer identification numbers issued.
 
-(Added Pub. L. 87–397, §1(a), Oct. 5, 1961, 75 Stat. 828; amended Pub. L. 94–455, title XII, §§1203(d), 1211(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1691, 1712, 1834; Pub. L. 99–514, title XV, §1524(a), Oct. 22, 1986, 100 Stat. 2749; Pub. L. 100–485, title VII, §§703(c)(3), 704(a), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 101–508, title XI, §11112(a), Nov. 5, 1990, 104 Stat. 1388–413; Pub. L. 101–624, title XVII, §1735(c), title XXII, §2201(d), Nov. 28, 1990, 104 Stat. 3792, 3953; Pub. L. 102–486, title XIX, §1933(a), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–296, title III, §316(b), Aug. 15, 1994, 108 Stat. 1532; Pub. L. 103–465, title VII, §742(b), Dec. 8, 1994, 108 Stat. 5010; Pub. L. 104–188, title I, §§1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, 110 Stat. 1853, 1889; Pub. L. 105–206, title III, §3710(a), July 22, 1998, 112 Stat. 779; Pub. L. 110–28, title VIII, §8246(a)(2)(D), May 25, 2007, 121 Stat. 201; Pub. L. 110–234, title IV, §4002(b)(1)(B), (G), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (G), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 114–113, div. Q, title II, §203(a), Dec. 18, 2015, 129 Stat. 3078; Pub. L. 115–141, div. U, title I, §101(g)(1)–(3), title IV, §401(a)(276), Mar. 23, 2018, 132 Stat. 1161, 1197.)
+(Added Pub. L. 87–397, §1(a), Oct. 5, 1961, 75 Stat. 828; amended Pub. L. 94–455, title XII, §§1203(d), 1211(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1691, 1712, 1834; Pub. L. 99–514, title XV, §1524(a), Oct. 22, 1986, 100 Stat. 2749; Pub. L. 100–485, title VII, §§703(c)(3), 704(a), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 101–508, title XI, §11112(a), Nov. 5, 1990, 104 Stat. 1388–413; Pub. L. 101–624, title XVII, §1735(c), title XXII, §2201(d), Nov. 28,1990, 104 Stat. 3792, 3953; Pub. L. 102–486, title XIX, §1933(a), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–296, title III, §316(b), Aug. 15, 1994, 108 Stat. 1532; Pub. L. 103–465, title VII, §742(b), Dec. 8, 1994, 108 Stat. 5010; Pub. L. 104–188, title I, §§1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, 110 Stat. 1853, 1889; Pub. L. 105–206, title III, §3710(a), July 22, 1998, 112 Stat. 779; Pub. L. 110–28, title VIII, §8246(a)(2)(D), May 25, 2007, 121 Stat. 201; Pub. L. 110–234, title IV, §4002(b)(1)(B), (G), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (G), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 114–113, div. Q, title II, §203(a), Dec. 18, 2015, 129 Stat. 3078; Pub. L. 115–141, div. U, title I, §101(g)(1)–(3), title IV, §401(a)(276), Mar. 23, 2018, 132 Stat. 1161, 1197.)
 
 #### References in Text
 
@@ -290,9 +290,29 @@ Pub. L. 99–514, title XV, §1524(c), Oct. 22, 1986, 100 Stat. 2749, provided t
 
 Pub. L. 87–397, §1(d), Oct. 5, 1961, 75 Stat. 829, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Paragraph (1) of section 6109(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by subsection (a) of this section, shall apply only in respect of returns, statements, and other documents relating to periods commencing after December 31, 1961. Paragraphs (2) and (3) of such section 6109(a) shall apply only in respect of returns, statements, or other documents relating to periods commencing after December 31, 1962."
 
+#### Identity Protection Personal Identification Numbers
+
+Pub. L. 116–25, title II, §2005, July 1, 2019, 133 Stat. 1004, provided that:
+
+"(a)
+
+In General.—Subject to subsection (b), the Secretary of the Treasury or the Secretary's delegate (hereafter referred to in this section as the 'Secretary') shall establish a program to issue, upon the request of any individual, a number which may be used in connection with such individual's social security number (or other identifying information with respect to such individual as determined by the Secretary) to assist the Secretary in verifying such individual's identity.
+
+"(b)
+
+Requirements.—
+
+&emsp;"(1)
+
+Annual expansion.—For each calendar year beginning after the date of the enactment of this Act \[July 1, 2019\], the Secretary shall provide numbers through the program described in subsection (a) to individuals residing in such States as the Secretary deems appropriate, provided that the total number of States served by such program during such year is greater than the total number of States served by such program during the preceding year.
+
+&emsp;"(2)
+
+Nationwide availability.—Not later than 5 years after the date of the enactment of this Act, the Secretary shall ensure that the program described in subsection (a) is made available to any individual residing in the United States."
+
 #### Audit by TIGTA
 
-Pub. L. 114–113, div. Q, title II, §203(b), Dec. 18, 2015, 129 Stat. 3079, provided that: "Not later than 2 years after the date of the enactment of this Act \[Dec. 18, 2015\], and every 2 years thereafter, the Treasury Inspector General for Tax Administration shall conduct an audit of the program of the Internal Revenue Service for the issuance of individual taxpayer identification numbers pursuant to section 6109(i) of the Internal Revenue Code of 1986 (as added by this section) and report the results of such audit to the Committee on Finance of the Senate and the Committee on the \[sic\] Ways and Means of the House of Representatives."
+Pub. L. 114–113, div. Q, title II, §203(b), Dec. 18, 2015, 129 Stat. 3079, provided that: "Not later than 2 years after the date of the enactment of this Act \[Dec. 18, 2015\], and every 2 years thereafter, the Treasury Inspector General for Tax Administration shall conduct an audit of the program of the Internal Revenue Service for the issuance of individual taxpayer identificationnumbers pursuant to section 6109(i) of the Internal Revenue Code of 1986 (as added by this section) and report the results of such audit to the Committee on Finance of the Senate and the Committee on the \[sic\] Ways and Means of the House of Representatives."
 
 #### Community-Based Certifying Acceptance Agents
 

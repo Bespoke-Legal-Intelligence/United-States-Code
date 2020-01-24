@@ -10,11 +10,13 @@ Duties and Powers.—Subject to the authority, direction, and control of the Sec
 
 &emsp;(1) serving as the chief acquisition and sustainment officer of the Department of Defense with the mission of delivering and sustaining timely, cost-effective capabilities for the armed forces (and the Department);
 
-&emsp;(2) establishing policies on, and supervising, all elements of the Department relating to acquisition (including system design, development, and production, and procurement of goods and services) and sustainment (including logistics, maintenance, and materiel readiness);
+&emsp;(2) establishing policies on, and supervising, all elements of the Department relating to acquisition (including system design, development, appropriate prototyping activities, and production, and procurement of goods and services) and sustainment (including logistics, maintenance, and materiel readiness);
 
 &emsp;(3) establishing policies for access to, and maintenance of, the defense industrial base and materials critical to national security, and policies on contract administration;
 
-&emsp;(4) serving as—
+&emsp;(4) establishing policies for, and providing oversight, guidance, and coordination with respect to, the nuclear command, control, and communications system;
+
+&emsp;(5) serving as—
 
 &emsp;&emsp;(A) the principal advisor to the Secretary on acquisition and sustainment in the Department;
 
@@ -22,11 +24,11 @@ Duties and Powers.—Subject to the authority, direction, and control of the Sec
 
 &emsp;&emsp;(C) the Defense Acquisition Executive for purposes of regulations and procedures of the Department providing for a Defense Acquisition Executive;
 
-&emsp;(5) overseeing the modernization of nuclear forces and the development of capabilities to counter weapons of mass destruction, and serving as the chairman of the Nuclear Weapons Council and the co-chairman of the Council on Oversight of the National Leadership Command, Control, and Communications System;
+&emsp;(6) overseeing the modernization of nuclear forces, including the nuclear command, control, and communications system, and the development of capabilities to counter weapons of mass destruction, and serving as the chairman of the Nuclear Weapons Council and the co-chairman of the Council on Oversight of the National Leadership Command, Control, and Communications System;
 
-&emsp;(6) the authority to direct the Secretaries of the military departments and the heads of all other elements of the Department with regard to matters for which the Under Secretary has responsibility, except that the Under Secretary shall exercise advisory authority over service acquisition programs for which the service acquisition executive is the milestone decision authority; and
+&emsp;(7) the authority to direct the Secretaries of the military departments and the heads of all other elements of the Department with regard to matters for which the Under Secretary has responsibility, except that the Under Secretary shall exercise advisory authority over service acquisition programs for which the service acquisition executive is the milestone decision authority; and
 
-&emsp;(7) to the extent directed by the Secretary, exercising overall supervision of all personnel (civilian and military) in the Office of the Secretary of Defense with regard to matters for which the Under Secretary has responsibility, unless otherwise provided by law.
+&emsp;(8) to the extent directed by the Secretary, exercising overall supervision of all personnel (civilian and military) in the Office of the Secretary of Defense with regard to matters for which the Under Secretary has responsibility, unless otherwise provided by law.
 
 (c)
 
@@ -40,15 +42,19 @@ Precedence in matters of responsibility.—With regard to all matters for which 
 
 Precedence in other matters.—With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Chief Management Officer, the Under Secretary of Defense for Research and Engineering, and the Secretaries of the military departments.
 
-(Added Pub. L. 114–328, div. A, title IX, §901(b), Dec. 23, 2016, 130 Stat. 2340; amended Pub. L. 115–91, div. A, title IX, §§902, 910(c)(3), Dec. 12, 2017, 131 Stat. 1511, 1518.)
+(Added Pub. L. 114–328, div. A, title IX, §901(b), Dec. 23, 2016, 130 Stat. 2340; amended Pub. L. 115–91, div. A, title IX, §§902, 910(c)(3), Dec. 12, 2017, 131 Stat. 1511, 1518; Pub. L. 116–92, div. A, title IX, §902(92), title XVI, §1662(a), Dec. 20, 2019, 133 Stat. 1554, 1772.)
 
 #### Prior Provisions
 
-A prior section 133b was renumbered section 138a of this title.
+A prior section 133b was renumbered section 138a of this title and was subsequently repealed.
 
-Another prior section 133b was renumbered section 118 of this title.
+Another prior section 133b was renumbered section 118 of this title and was subsequently repealed.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(2). Pub. L. 116–92, §902(92), inserted "appropriate prototyping activities," after "development,".
+
+Subsec. (b)(4) to (8). Pub. L. 116–92, §1662(a), added par. (4), redesignated former pars. (4) to (7) as (5) to (8), respectively, and in par. (6) inserted ", including the nuclear command, control, and communications system," after "modernization of nuclear forces".
 
 <b>2017</b>—Subsec. (b)(6). Pub. L. 115–91, §902, substituted "advisory authority" for "supervisory authority".
 

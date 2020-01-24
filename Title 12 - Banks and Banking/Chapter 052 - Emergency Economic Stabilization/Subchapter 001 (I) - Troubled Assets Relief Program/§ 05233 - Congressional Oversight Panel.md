@@ -90,7 +90,7 @@ The Oversight Panel shall review the current state of the financial markets and 
 
 #### (3) Staff of agencies
 
-&emsp;Upon request of the Oversight Panel, the head of any Federal department or agencymay detail, on a reimbursable basis, any of the personnel of that department or agency to the Oversight Panel to assist it in carrying out its duties under this chapter.
+&emsp;Upon request of the Oversight Panel, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Oversight Panel to assist it in carrying out its duties under this chapter.
 
 #### (e) Powers
 
@@ -122,7 +122,7 @@ The Oversight Panel shall terminate 6 months after the termination date specifie
 
 #### (2) Reimbursement of amounts
 
-&emsp;An amount equal to the expenses of the Oversight Panel shall be promptly transferred by the Secretary, from time to time upon the presentment of a statement of such expenses by the Chairperson of the Oversight Panel, from funds made available to the Secretary under this chapter to the applicable fund of the House of Representatives and the contingent fund of the Senate, as appropriate, as reimbursement for amounts expended from such account and fund under paragraph (1).
+&emsp;An amount equal to the expenses of the Oversight Panel shall be promptly transferredby the Secretary, from time to time upon the presentment of a statement of such expenses by the Chairperson of the Oversight Panel, from funds made available to the Secretary under this chapter to the applicable fund of the House of Representatives and the contingent fund of the Senate, as appropriate, as reimbursement for amounts expended from such account and fund under paragraph (1).
 
 (Pub. L. 110–343, div. A, title I, §125, Oct. 3, 2008, 122 Stat. 3791; Pub. L. 111–22, div. A, title V, §501, May 20, 2009, 123 Stat. 1658.)
 

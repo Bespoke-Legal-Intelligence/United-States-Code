@@ -42,7 +42,7 @@ For the purpose of carrying out this subpart, there are authorized to be appropr
 
 #### Prior Provisions
 
-A prior section 397 of act July 1, 1944, ch. 373, title III, formerly §399, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1066; renumbered §398 and amended Mar. 13, 1970, Pub. L. 91–212, §§2(g), 8, 10(c)(3), (d)(2)(A), 84 Stat. 63, 65, 67; June 18, 1973, Pub. L. 93–45, title I, §107(f), 87 Stat. 92; renumbered §397 and amended July 23, 1974,Pub. L. 93–353, title II, §§203(e), 204, 88 Stat. 372, 373, which related to grants to provide support for biomedical scientific publications, was classified to section 280b–9 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
+A prior section 397 of act July 1, 1944, ch. 373, title III, formerly §399, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1066; renumbered §398 and amended Mar. 13, 1970, Pub. L. 91–212, §§2(g), 8, 10(c)(3), (d)(2)(A), 84 Stat. 63, 65, 67; June 18, 1973, Pub. L. 93–45, title I, §107(f), 87 Stat. 92; renumbered §397 and amended July 23, 1974, Pub. L. 93–353, title II, §§203(e), 204, 88 Stat. 372, 373, which related to grants to provide support for biomedical scientific publications, was classified to section 280b–9 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
 #### Amendments
 

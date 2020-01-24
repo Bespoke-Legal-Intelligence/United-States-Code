@@ -24,7 +24,7 @@ For purposes of applying this part with respect to a pension, profit-sharing, or
 
 &emsp;For purposes of applying paragraph (5) of section 401(a) with respect to an individual who is treated as an employee of an American employer under subsection (a)—
 
-&emsp;&emsp;(A) the total compensation of such individual shall be the remuneration paid to such individual by the foreign affiliate which would constitute his total compensation if his services had been performed for such American employer, and the basic or regularrate of compensation of such individual shall be determined under regulations prescribed by the Secretary; and
+&emsp;&emsp;(A) the total compensation of such individual shall be the remuneration paid to such individual by the foreign affiliate which would constitute his total compensation if his services had been performed for such American employer, and the basic or regular rate of compensation of such individual shall be determined under regulations prescribed by the Secretary; and
 
 &emsp;&emsp;(B) such individual shall be treated as having paid the amount paid by such American employer which is equivalent to the tax imposed by section 3101.
 
@@ -96,7 +96,7 @@ Subsec. (b). Pub. L. 98–21, §321(e)(2)(A), substituted reference to an Americ
 
 Subsec. (c). Pub. L. 98–21, §321(e)(2)(A), substituted reference to an American employer for reference to a domestic corporation, and reference to an affiliate for reference to a subsidiary, wherever appearing in provisions preceding par. (1) and in pars. (1) and (2).
 
-Subsec. (c)(3). Pub. L. 98–21, §321(e)(2)(A), (B), substituted "foreign affiliate by reason of which he istreated as an employee of such American employer, if he becomes an employee of another entity in which such American employer has not less than a 10-percent interest (within the meaning of section 3121(l)(8)(B)" for "foreign subsidiary by reason of which he is treated as an employee of such domestic corporation, if he becomes an employee of another corporation controlled by such domestic corporation".
+Subsec. (c)(3). Pub. L. 98–21, §321(e)(2)(A), (B), substituted "foreign affiliate by reason of which he is treated as an employee of such American employer, if he becomes an employee of another entity in which such American employer has not less than a 10-percent interest (within the meaning of section 3121(l)(8)(B)" for "foreign subsidiary by reason of which he is treated as an employee of such domestic corporation, if he becomes an employee of another corporation controlled by such domestic corporation".
 
 Subsec. (d). Pub. L. 98–21, §321(e)(2)(A), (C), substituted references to an American employer for references to a domestic corporation and reference to an affiliate for a reference to a subsidiary wherever appearing, substituted "another taxpayer" for "another corporation" in provisions preceding par. (1), and substituted "any other taxpayer" for "any other corporation" in par. (1).
 

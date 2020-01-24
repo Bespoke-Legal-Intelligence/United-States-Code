@@ -2,9 +2,9 @@
 
 (a)
 
-Program Required.—(1) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall carry out a program to provide opportunities for the increased introduction of innovative and cost-saving technology in acquisition programs of the Department of Defense.
+Program Required.—(1) The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, shall carry out a program to provide opportunities for the increased introduction of innovative and cost-saving technology in acquisition programs of the Department of Defense.
 
-(2) The program, to be known as the Defense Acquisition Challenge Program (hereinafter in this section referred to as the "Challenge Program"), shall provide any person or activity within or outside the Department of Defense with the opportunity to propose alternatives, to be known as challenge proposals, at the component, subsystem, system, or system-of-systemslevel of an existing Department of Defense acquisition program, or to address any broader functional challenge to Department of Defense missions that may not fall within an acquisition program, that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program or function.
+(2) The program, to be known as the Defense Acquisition Challenge Program (hereinafter in this section referred to as the "Challenge Program"), shall provide any person or activity within or outside the Department of Defense with the opportunity to propose alternatives, to be known as challenge proposals, at the component, subsystem, system, or system-of-systems level of an existing Department of Defense acquisition program, or to address any broader functional challenge to Department of Defense missions that may not fall within an acquisition program, that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program or function.
 
 (b)
 
@@ -48,7 +48,7 @@ Preliminary Evaluation by Panels.—(1) Under procedures prescribed by the Under
 
 (d)
 
-Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, for each challenge proposal submitted for a full review and evaluation as provided in subsection (c)(7), the office carrying out the acquisition program to which the proposal relates shall, in consultation with the prime system contractor carrying out such program, conduct a full review and evaluation of the proposal.
+Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, for each challenge proposal submitted for a full review and evaluation as provided in subsection\(c)(7), the office carrying out the acquisition program to which the proposal relates shall, in consultation with the prime system contractor carrying out such program, conduct a full review and evaluation of the proposal.
 
 (2) The full review and evaluation shall, independent of the determination of a Panel under subsection (c)(5), determine each of the matters specified in subparagraphs (A), (B), and (C) of such subsection. The full review and evaluation shall also include—
 
@@ -58,7 +58,7 @@ Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secre
 
 (e)
 
-Action Upon Favorable Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, each challenge proposal determined under a full review and evaluation to satisfy each of the criteria specified in subsection (c)(5) with respect to an acquisition program shall be considered by the office carrying out the applicable acquisition program and the prime system contractor for incorporation intothe acquisition program as a new technology insertion at the component, subsystem, system, or system-of-systems level.
+Action Upon Favorable Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, each challenge proposal determined under a full review and evaluation to satisfy each of the criteria specified in subsection (c)(5) with respect to an acquisition program shall be considered by the office carrying out the applicable acquisition program and the prime system contractor for incorporation into the acquisition program as a new technology insertion at the component, subsystem, system, or system-of-systems level.
 
 (2) The Under Secretary shall encourage the adoption of each challenge proposal referred to in paragraph (1) by providing suitable incentives to the office carrying out the acquisition program and the prime system contractor carrying out such program.
 
@@ -108,13 +108,13 @@ Pilot Program for Programs Other Than Major Defense Acquisition Programs.—
 
 &emsp;(1)
 
-In general.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall carry out a pilot program to expand the use of the authority provided in this section to provide opportunities for the introduction of innovative and cost-saving approaches to programs other than major defense acquisition programs through the submission, review, and implementation, where appropriate, of qualifying proposals.
+In general.—The Under Secretary of Defense for Research and Engineering shall carry out a pilot program to expand the use of the authority provided in this section to provide opportunities for the introduction of innovative and cost-saving approaches to programs other than major defense acquisition programs through the submission, review, and implementation, where appropriate, of qualifying proposals.
 
 &emsp;(2)
 
 Qualifying proposals.—For purposes of this subsection, a qualifying proposal is an offer to supply a nondevelopmental item that—
 
-&emsp;&emsp;(A) is evaluated as achieving a level of performance that is at least equal to the level of performance of an item being procured under a covered acquisition program and as providing savings in excess of 15 percent after considering all costs to the Government of implementing such proposal; or
+&emsp;&emsp;(A) is evaluated as achieving a level of performance that is at least equal to the level of performance of an item being procuredunder a covered acquisition program and as providing savings in excess of 15 percent after considering all costs to the Government of implementing such proposal; or
 
 &emsp;&emsp;(B) is evaluated as achieving a level of performance that is significantly better than the level of performance of an item being procured under a covered acquisition program without any increase in cost to the Government.
 
@@ -132,7 +132,7 @@ Nondevelopmental item.—The term "nondevelopmental item" has the meaning given 
 
 &emsp;&emsp;(B)
 
-Covered acquisition program.—The term "covered acquisition program" means any acquisition program of the Departmentof Defense other than a major defense acquisition program, but does not include any contract awarded under an exception to competitive acquisition authorized by the Small Business Act (15 U.S.C. 631 et seq.).
+Covered acquisition program.—The term "covered acquisition program" means any acquisition program of the Department of Defense other than a major defense acquisition program, but does not include any contract awarded under an exception to competitive acquisition authorized by the Small Business Act (15 U.S.C. 631 et seq.).
 
 &emsp;&emsp;(C)
 
@@ -142,13 +142,15 @@ Level of performance.—The term "level of performance", with respect to a nonde
 
 Sunset.—The authority to carry out the pilot program under this subsection shall terminate on January 7, 2021.
 
-(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270; Pub. L. 112–239, div. A, title X, §1076(e)(3), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 113–66, div. A, title X, §1091(a)(10), Dec. 26, 2013, 127 Stat. 876; Pub. L. 113–291, div. A, title X, §1071(a)(6), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–328, div. A, title VIII, §828, Dec. 23, 2016, 130 Stat. 2281.)
+(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270; Pub. L. 112–239, div. A, title X, §1076(e)(3), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 113–66, div. A, title X, §1091(a)(10), Dec. 26, 2013, 127 Stat. 876; Pub. L. 113–291, div. A, title X, §1071(a)(6), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–328, div. A, title VIII, §828, Dec. 23, 2016, 130 Stat. 2281; Pub. L. 116–92, div. A, title IX, §902(56), Dec. 20, 2019, 133 Stat. 1549.)
 
 #### References in Text
 
 The Small Business Act, referred to in subsec. (k)(4)(B), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsecs. (a)(1), (l)(1). Pub. L. 116–92 substituted "Under Secretary of Defense for Research and Engineering" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
 <b>2016</b>—Subsec. (a)(2). Pub. L. 114–328, §828(a), substituted "system, or system-of-systems level of an existing Department of Defense acquisition program, or to address any broader functional challenge to Department of Defense missions that may not fall within an acquisition program, that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program or function." for "or system level of an existing Department of Defense acquisition program that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program."
 
@@ -194,7 +196,7 @@ Subsec. (e)(3). Pub. L. 109–364, §213(b)(2), added par. (3).
 
 Subsecs. (f), (g). Pub. L. 109–364, §213(b)(3), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 109–364, §213(b)(3)(A), (e), redesignated subsec. (g) as (h), substituted "Conflicts of Interest and Confidentiality" for "Elimination of Conflicts of Interest" in heading, substituted "conflicts of interest and that the identity of any person or activity submitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity" for "conflicts of interest", and inserted at end "For purposes of the proceeding sentence, the term 'Federal Government' includes both employees of the Federal Government and employees of Federal Government contractors providing advisory and assistance services as described in part 37 of the Federal Acquisition Regulation." Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 109–364, §213(b)(3)(A), (e), redesignated subsec. (g) as (h), substituted "Conflicts of Interest and Confidentiality" for "Elimination of Conflicts of Interest" in heading, substituted "conflicts of interest and that the identity of any person or activity submitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity" for "conflicts of interest", and inserted at end "For purposes of the proceeding sentence, the term 'Federal Government' includes both employees of the Federal Government and employees of Federal Government contractors providing advisory and assistance services as described inpart 37 of the Federal Acquisition Regulation." Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 109–364, §213(b)(3)(A), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 

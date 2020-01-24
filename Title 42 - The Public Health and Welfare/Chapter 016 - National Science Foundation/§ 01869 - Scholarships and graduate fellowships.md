@@ -8,7 +8,7 @@ The Foundation is authorized to award scholarships and graduate fellowships for 
 
 The Director shall establish for each year the amount to be awarded for scholarships and fellowships under this section for that year. Each such scholarship and fellowship shall include a cost of education allowance of $12,000, subject to any restrictions on the use of cost of education allowance as determined by the Director.
 
-(May 10, 1950, ch. 171, §10, 64 Stat. 152; Pub. L. 86–232, §5, Sept. 8, 1959, 73 Stat. 468; Pub. L. 86–550, June 29, 1960, 74 Stat. 256; Pub. L. 87–835, §2, Oct. 16, 1962, 76 Stat. 1070; Pub. L. 90–407, §8, July 18, 1968, 82 Stat. 364; Pub. L. 99–159, title I, §110(a)(13), Nov. 22, 1985, 99 Stat. 891; Pub. L. 99–383, §7(c), Aug. 21, 1986, 100 Stat. 814; Pub. L. 101–589, title III, §302(c), Nov. 16, 1990, 104 Stat.2895; Pub. L. 111–358, title V, §510(d), Jan. 4, 2011, 124 Stat. 4010.)
+(May 10, 1950, ch. 171, §10, 64 Stat. 152; Pub. L. 86–232, §5, Sept. 8, 1959, 73 Stat. 468; Pub. L. 86–550, June 29, 1960, 74 Stat. 256; Pub. L. 87–835, §2, Oct. 16, 1962, 76 Stat. 1070; Pub. L. 90–407, §8, July 18, 1968, 82 Stat. 364; Pub. L. 99–159, title I, §110(a)(13), Nov. 22, 1985, 99 Stat. 891; Pub. L. 99–383, §7(c), Aug. 21, 1986, 100 Stat. 814; Pub. L. 101–589, title III, §302(c), Nov. 16, 1990, 104 Stat. 2895; Pub. L. 111–358, title V, §510(d), Jan. 4, 2011, 124 Stat. 4010.)
 
 #### Amendments
 
@@ -36,7 +36,7 @@ Pub. L. 111–358, title V, §510(a), (b), Jan. 4, 2011, 124 Stat. 4010, provide
 
 Finding.—The Congress finds that—
 
-&emsp;"(1) the Integrative Graduate Education and Research Traineeship program is an important program for training the next generation of scientists and engineers in team-based interdisciplinary research and problem solving, and for providing them with the many additional skills, such as communication skills, needed to thrive in diverse STEM careers; and
+&emsp;"(1) the Integrative Graduate Education and Research Traineeship program is an important programfor training the next generation of scientists and engineers in team-based interdisciplinary research and problem solving, and for providing them with the many additional skills, such as communication skills, needed to thrive in diverse STEM careers; and
 
 &emsp;"(2) the Integrative Graduate Education and Research Traineeship program is no less valuable to the preparation and support of graduate students than the Foundation's Graduate Research Fellowship program.
 

@@ -18,15 +18,15 @@ The Inter-American Foundation shall be consulted in developing criteria for maki
 
 #### (e) Guaranty reserve
 
-Not to exceed $3,000,000 of the guaranty reserve established under section 2183(b) of this title shall be available to make such payments as may be necessary to discharge liabilities under guaranties issued under this section or any guaranties previously issued under section 2200 of this title.
+Not to exceed $3,000,000 of the guaranty reserve established under section 2183(b) of this title shall be available to make such payments as may be necessary to discharge liabilities under guaranties issued under this section or any guaranties previously issued under section 2200 <sup>1</sup> of this title.
 
 #### (f) Administrative and operating expenses; funds
 
-Funds held by the Overseas Private Investment Corporation pursuant to section 2196 of this title may be available for meeting necessary administrative and operating expenses for carrying out the provisions of this section through June 30, 1976.
+Funds held by the Overseas Private Investment Corporation pursuant to section 2196 <sup>1</sup> of this title may be available for meeting necessary administrative and operating expenses for carrying out the provisions of this section through June 30, 1976.
 
 #### (g) Transfer of Overseas Private Investment Corporation's obligations and assets
 
-The Overseas Private Investment Corporation shall, upon enactment of this subsection, transfer to the agency primarily responsible for administering subchapter I of this chapter all obligations, assets, and related rights and responsibilities arising out of, or related to the predecessor program provided for in section 2200 of this title.
+The Overseas Private Investment Corporation shall, upon enactment of this subsection, transfer to the agency primarily responsible for administering subchapter I of this chapter all obligations, assets, and related rights and responsibilities arising out of, or related to the predecessor program provided for in section 2200 <sup>1</sup> of this title.
 
 #### (h) Termination of authority
 
@@ -40,7 +40,9 @@ Notwithstanding the limitation in subsection (c) of this section, foreign curren
 
 #### References in Text
 
-Section 2200 of this title, referred to in subsecs. (e) and (g), was in the original a reference to section 240 of this Act, meaning section 240 of Pub. L. 87–195, as added by section 105 of Pub. L. 91–175, which was repealed by section 8(b) of Pub. L. 93–559, and was replaced by this section. Another section 240 of Pub. L. 87–195, as added by section 9 of Pub. L. 95–268, was enacted Apr. 24, 1978, and is classified to section 2200 of this title.
+Section 2200 of this title, referred to in subsecs. (e) and (g), was in the original a reference to section 240 of this Act, meaning section 240 of Pub. L. 87–195, as added by section 105 of Pub. L. 91–175, which was repealed by section 8(b) of Pub. L. 93–559, and was replaced by this section. Another section 240 of Pub. L. 87–195, as added by section 9 of Pub. L. 95–268, was enacted Apr. 24, 1978, and was classified to section 2200 of this title, prior to repeal by Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513.
+
+Section 2196 of this title, referred to in subsec. (f), was repealed by Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -48,7 +50,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Codification
 
-Amendment by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(3)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–120, directing repeal of subsec. (d) of this sectiondid not become effective pursuant to section 1000(a)(2) \[title V, §586\] of div. B of Pub. L. 106–113, formerly set out as an Abolition of the Inter-American Foundation note under section 290f of this title.
+Amendment by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(3)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–120, directing repeal of subsec. (d) of this section did not become effective pursuant to section 1000(a)(2) \[title V, §586\] of div. B of Pub. L. 106–113, formerly set out as an Abolition of the Inter-American Foundation note under section 290f of this title.
 
 Amendment by Pub. L. 98–473 is based on section 312 of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by Pub. L. 98–473.
 
@@ -91,4 +93,6 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation and of non-Development Credit Authority guaranty programs of the United States Agency for International Development to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) develop a system to collect data on amyotrophic lateral sclerosis (referred to in this section as "ALS") and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS, including information with respect to the incidence and prevalence of the disease in the United States; and
 
-&emsp;&emsp;(B) establish a national registry for the collection and storage of such data to develop a population-based registry of cases in the United States of ALS and other motor neuron disorders that can be confused withALS, misdiagnosed as ALS, and in some cases progress to ALS.
+&emsp;&emsp;(B) establish a national registry for the collection and storage of such data to develop a population-based registry of cases in the United States of ALS and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS.
 
 #### (2) Purpose
 

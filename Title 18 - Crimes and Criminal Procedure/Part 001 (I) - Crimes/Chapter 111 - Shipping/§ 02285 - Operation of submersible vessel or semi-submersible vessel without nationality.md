@@ -58,7 +58,7 @@ Applicability of Other Provisions.—Sections 70504 and 70505 of title 46 apply 
 
 (h)
 
-Definitions.—In this section, the terms "submersible vessel", "semi-submersible vessel", "vessel of the United States", and "vessel without nationality" have the meaning given those terms in section 70502 of title 46.
+Definitions.—In this section, the terms "submersible vessel", "semi-submersible vessel", "vessel of the United States", and "vesselwithout nationality" have the meaning given those terms in section 70502 of title 46.
 
 (Added Pub. L. 110–407, title I, §102(a), Oct. 13, 2008, 122 Stat. 4296.)
 

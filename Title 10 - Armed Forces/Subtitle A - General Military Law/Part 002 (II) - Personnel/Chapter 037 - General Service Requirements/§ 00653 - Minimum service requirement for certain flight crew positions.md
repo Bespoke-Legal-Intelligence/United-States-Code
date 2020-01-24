@@ -6,7 +6,7 @@ Pilots.—The minimum service obligation of any member who successfully complete
 
 (b)
 
-Navigators and Naval Flight Officers.—The minimum service obligation of any member who successfully completes training in the armed forces as a navigator or naval flight officer shall be 6 years.
+Navigators and Naval Flight Officers.—The minimum service obligation of any member who successfully completes training in thearmed forces as a navigator or naval flight officer shall be 6 years.
 
 (c)
 
@@ -28,7 +28,7 @@ Subsec. (c). Pub. L. 102–484, §506(a)(2), substituted "the term 'service obli
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–510, §1484(k)(3)(A), substituted "or" for "and" before "6 years".
 
-Subsec. (c). Pub. L. 101–510, §1484(k)(3)(B), inserted a comma after first reference to "training" in pars. (1)and (2) and after first reference to "naval flight officer" in par. (3).
+Subsec. (c). Pub. L. 101–510, §1484(k)(3)(B), inserted a comma after first reference to "training" in pars. (1) and (2) and after first reference to "naval flight officer" in par. (3).
 
 #### Effective Date of 1992 Amendment
 

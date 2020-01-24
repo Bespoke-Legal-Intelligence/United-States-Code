@@ -14,7 +14,7 @@ The first annual report submitted to the Congress under section 3534 of this tit
 
 #### (1) General rule
 
-&emsp;The approval of the Congress, provided under section 3511(a) of this title, of the WTO Agreement shall cease to be effective if, andonly if, a joint resolution described in subsection (c) is enacted into law pursuant to the provisions of paragraph (2).
+&emsp;The approval of the Congress, provided under section 3511(a) of this title, of the WTO Agreement shall cease to be effective if, and only if, a joint resolution described in subsection (c) is enacted into law pursuant to the provisions of paragraph (2).
 
 #### (2) Procedural provisions
 
@@ -22,7 +22,7 @@ The first annual report submitted to the Congress under section 3534 of this tit
 
 &emsp;&emsp;(i) the Congress adopts and transmits the joint resolution to the President before the end of the 90-day period (excluding any day described in section 2194(b) of this title), beginning on the date on which the Congress receives a report referred to in subsection (a), and
 
-&emsp;&emsp;(ii) if the President vetoes the joint resolution, each House of Congress votes to override that veto on or before the later of the last day of the 90-day period referred to in clause (i) or the last day of the 15-day period (excluding any day described in section 2194(b) of this title) beginning on the date on which the Congress receives the veto message from the President.
+&emsp;&emsp;(ii) if the President vetoes the joint resolution, each House of Congress votes to override that veto on or before the later of the last day of the 90-day period referred to in clause (i) or the last day of the 15-day period (excluding any day described in section2194(b) of this title) beginning on the date on which the Congress receives the veto message from the President.
 
 &emsp;(B) A joint resolution to which this section applies may be introduced at any time on or after the date on which the President transmits to the Congress a report described in subsection (a), and before the end of the 90-day period referred to in subparagraph (A).
 

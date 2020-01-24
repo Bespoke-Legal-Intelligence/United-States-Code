@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (3) Certain separate segregated funds
 
-&emsp;For purposes of this subsection and subsection (e)(1), a separate segregated fund (within the meaning of section 610 of title 18 or of any similar State statute, or within the meaning of any State statute which permits the segregation of dues moneys for exempt functions (within the meaning of subsection (e)(2))) which is maintained by an organization described in section 501(c) which is exempt from tax under section 501(a) shall be treated as a separate organization.
+&emsp;For purposes of this subsection and subsection (e)(1), a separate segregated fund (within the meaning of section 610 of title 18 or of any similar State statute, or within the meaning of any State statute which permits the segregation of dues moneys for exempt functions (within the meaning of subsection (e)(2))) which is maintained by an organizationdescribed in section 501(c) which is exempt from tax under section 501(a) shall be treated as a separate organization.
 
 #### (g) Treatment of newsletter funds
 
@@ -212,7 +212,7 @@ For purposes of this section—
 
 #### (2) Time to give notice
 
-&emsp;The notice required under paragraph (1) shall be transmitted not later than 24 hoursafter the date on which the organization is established or, in the case of any material change in the information required under paragraph (3), not later than 30 days after such material change.
+&emsp;The notice required under paragraph (1) shall be transmitted not later than 24 hours after the date on which the organization is established or, in the case of any material change in the information required under paragraph (3), not later than 30 days after such material change.
 
 #### (3) Contents of notice
 
@@ -320,7 +320,7 @@ For purposes of this section—
 
 #### (7) Electronic filing
 
-&emsp;Any report required under paragraph (2) with respect to any calendar year shall be filed in electronic form if the organization has, or has reason to expect to have, contributions exceeding $50,000 or expenditures exceeding $50,000 in such calendar year.
+&emsp;Any report required under paragraph (2) with respect to any calendar year shall be filed in electronic form.
 
 #### (k) Public availability of notices and reports
 
@@ -358,7 +358,7 @@ The Secretary may waive all or any portion of the—
 
 > on a showing that such failure was due to reasonable cause and not due to willful neglect.
 
-(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L. 95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18, 1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 106–230, §§1(a), 2(a), July 1, 2000, 114 Stat. 477, 479; Pub. L. 107–276, §§1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, 116 Stat. 1929, 1932–1934; Pub. L. 113–295, div. A, title II, §220(l), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–97, title I, §13001(b)(2)(D), Dec. 22, 2017, 131 Stat. 2096.)
+(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L. 95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18, 1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 106–230, §§1(a), 2(a), July 1, 2000, 114 Stat. 477, 479; Pub. L. 107–276, §§1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, 116 Stat. 1929, 1932–1934; Pub. L. 113–295, div. A, title II, §220(l), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–97, title I, §13001(b)(2)(D), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 116–25, title III, §3101(b)(1), July 1, 2019, 133 Stat. 1015.)
 
 #### References in Text
 
@@ -367,6 +367,8 @@ Section 610 of title 18, referred to in subsec. (f)(3), was repealed by Pub. L. 
 The Federal Election Campaign Act of 1971, referred to in subsecs. (i)(6) and (j)(5)(A), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which is classified principally to chapter 301 (§30101 et seq.) of Title 52, Voting and Elections. Section 301 of the Act is classified to section 30101 of Title 52. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (j)(7). Pub. L. 116–25 struck out "if the organization has, or has reason to expect to have, contributions exceeding $50,000 or expenditures exceeding $50,000 in such calendar year" after "electronic form".
 
 <b>2017</b>—Subsec. (b). Pub. L. 115–97 struck out par. (1) designation and heading and struck out par. (2) which related to alternative tax in case of capital gains.
 
@@ -427,6 +429,38 @@ Subsec. (h)(2)(B). Pub. L. 98–369, §722(c), inserted "Nothing in this subsect
 Subsec. (c)(3)(D). Pub. L. 95–502 added subpar. (D).
 
 <b>1976</b>—Subsec. (b)(2). Pub. L. 94–455 substituted "net capital gain" for "net section 1201 gain" after "organization has a".
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–25, title III, §3101(d), July 1, 2019, 133 Stat. 1015, provided that:
+
+"(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 6011, 6033, and 6104 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 1, 2019\].
+
+"(2)
+
+Transitional relief.—
+
+&emsp;"(A)
+
+Small organizations.—
+
+&emsp;&emsp;"(i)
+
+In general.—In the case of any small organizations, or any other organizations for which the Secretary of the Treasury or the Secretary's delegate (hereafter referred to in this paragraph as the 'Secretary') determines the application of the amendments made by this section would cause undue burden without a delay, the Secretary may delay the application of such amendments, but such delay shall not apply to any taxable year beginning on or after the date that is 2 years after the enactment of this Act.
+
+&emsp;&emsp;"(ii)
+
+Small organization.—For purposes of clause (i), the term 'small organization' means any organization—
+
+&emsp;&emsp;&emsp;"(I) the gross receipts of which for the taxable year are less than $200,000; and
+
+&emsp;&emsp;&emsp;"(II) the aggregate gross assets of which at the end of the taxable year are less than $500,000.
+
+&emsp;"(B)
+
+Organizations filing form 990–t.—In the case of any organization described in section 511(a)(2) of the Internal Revenue Code of 1986 which is subject to the tax imposed by section 511(a)(1) of such Code on its unrelated business taxable income, or any organization required to file a return under section 6033 of such Code and include information under subsection (e) thereof, the Secretary may delay the application of the amendments made by this section, but such delay shall not apply to any taxable year beginning on or after the date that is 2 years after the enactment of this Act."
 
 #### Effective Date of 2017 Amendment
 
@@ -498,7 +532,7 @@ Organizations already in existence.—In the case of an organization established
 
 Information availability.—The amendment made by subsection (b)(2) \[amending section 6104 of this title\] shall take effect on the date that is 45 days after the date of the enactment of this section."
 
-Pub. L. 106–230, §2(d), July 1, 2000, 114 Stat. 482, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to expenditures made and contributions received after the date of the enactment of this Act \[July 1, 2000\], except that such amendment shall not apply to expenditures made, or contributions received, after such date pursuant to a contract entered into on or before such date."
+Pub. L. 106–230, §2(d), July 1, 2000, 114 Stat. 482, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to expenditures made and contributions received after the date of the enactment of this Act \[July 1, 2000\], except that suchamendment shall not apply to expenditures made, or contributions received, after such date pursuant to a contract entered into on or before such date."
 
 #### Effective Date of 1988 Amendment
 

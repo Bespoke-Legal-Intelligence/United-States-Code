@@ -1,6 +1,6 @@
 ### §3060. Preliminary examination
 
-(a) Except as otherwise provided by this section, a preliminary examination shall be held within the time set by the judge or magistrate judge pursuant to subsection (b) of this section, to determine whether there is probable cause tobelieve that an offense has been committed and that the arrested person has committed it.
+(a) Except as otherwise provided by this section, a preliminary examination shall be held within the time set by the judge or magistrate judge pursuant to subsection (b) of this section, to determine whether there is probable cause to believe that an offense has been committed and that the arrested person has committed it.
 
 (b) The date for the preliminary examination shall be fixed by the judge or magistrate judge at the initial appearance of the arrested person. Except as provided by subsection (c) of this section, or unless the arrested person waives the preliminary examination, such examination shall be held within a reasonable time following initial appearance, but in any event not later than—
 

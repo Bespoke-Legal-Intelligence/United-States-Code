@@ -34,7 +34,7 @@
 
 &emsp;&emsp;The strategic plan shall—
 
-&emsp;&emsp;&emsp;(i) specify and prioritize near-term, mid-term, and long-term research objectives, including objectives associated with the research identified in section 7403(a)(1) of this title;
+&emsp;&emsp;&emsp;(i) specify and prioritize near-term, mid-term, and long-term research objectives,including objectives associated with the research identified in section 7403(a)(1) of this title;
 
 &emsp;&emsp;&emsp;(ii) specify how the near-term objectives described in clause (i) complement research and development areas in which the private sector is actively engaged;
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(B) each quadrennial update to the strategic plan; and
 
-&emsp;&emsp;(C) the implementation roadmap under subparagraph (D), and its annual updates, which shall be appended to the annual reportrequired under section 5511(a)(2)(D) of this title.
+&emsp;&emsp;(C) the implementation roadmap under subparagraph (D), and its annual updates, which shall be appended to the annual report required under section 5511(a)(2)(D) of this title.
 
 #### (4) Definition of applicable agencies and departments
 
@@ -96,7 +96,7 @@ The Director of the National Science Foundation shall support research that—
 
 #### (1) Review
 
-&emsp;Not later than 1 year after December 18, 2014, the Director of the National Science Foundation, in coordination with the Director of the Office of Science and Technology Policy, shall conduct a review of cybersecurity test beds in existence on December 18, 2014, to inform the grants under paragraph (2). The review shall include an assessment of whether a sufficient number of cybersecurity test beds are available to meet the research needs under the Federal cybersecurity research and development strategic plan. Upon completion, the Director shall submit the review to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+&emsp;Not later than 1 year after December 18, 2014, the Director of the National Science Foundation, in coordination with the Directorof the Office of Science and Technology Policy, shall conduct a review of cybersecurity test beds in existence on December 18, 2014, to inform the grants under paragraph (2). The review shall include an assessment of whether a sufficient number of cybersecurity test beds are available to meet the research needs under the Federal cybersecurity research and development strategic plan. Upon completion, the Director shall submit the review to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
 #### (2) Additional cybersecurity modeling and test beds
 

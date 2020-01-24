@@ -10,7 +10,7 @@ In order that full public benefit may be derived from the operations of the Nati
 
 (4) Distribution of nautical charts and related navigational publications.
 
-(Aug. 6, 1947, ch. 504, §2, 61 Stat. 787; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 106–181, title VI, §605(a), Apr. 5, 2000, 114 Stat. 154.)
+(Aug. 6, 1947, ch. 504, §2, 61 Stat. 787; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat.1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 106–181, title VI, §605(a), Apr. 5, 2000, 114 Stat. 154.)
 
 #### Amendments
 

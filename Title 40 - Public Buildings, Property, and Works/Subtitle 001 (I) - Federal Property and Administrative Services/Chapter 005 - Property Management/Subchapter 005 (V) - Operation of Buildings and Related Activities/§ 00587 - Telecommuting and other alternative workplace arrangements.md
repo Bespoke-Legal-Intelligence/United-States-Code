@@ -14,7 +14,7 @@ Establishment.—The Administrator of General Services may acquire space for, es
 
 &emsp;(2)
 
-Use.—A telecommuting center may be used by employees of federal agencies, state and local governments, and the private sector. The Administrator shall give federal employees priority in using a telecommuting center.The Administrator may make a telecommuting center available for use by others to the extent it is not fully utilized by federal employees.
+Use.—A telecommuting center may be used by employees of federal agencies, state and local governments, and the private sector. The Administrator shall give federal employees priority in using a telecommuting center. The Administrator may make a telecommuting center available for use by others to the extent it is not fully utilized by federal employees.
 
 &emsp;(3)
 
@@ -26,7 +26,7 @@ Deposit and use of fees.—The Administrator may—
 
 &emsp;&emsp;(A) deposit user fees into the Federal Buildings Fund and use the fees to pay costs incurred in establishing and operating the telecommuting center; and
 
-&emsp;&emsp;(B) accept and retain income received by the General Services Administration, from federal agencies and non-federal sources, to defray costs directly associated with the functions of telecommuting centers.
+&emsp;&emsp;(B) accept and retain income received by the General Services Administration, fromfederal agencies and non-federal sources, to defray costs directly associated with the functions of telecommuting centers.
 
 (c)
 

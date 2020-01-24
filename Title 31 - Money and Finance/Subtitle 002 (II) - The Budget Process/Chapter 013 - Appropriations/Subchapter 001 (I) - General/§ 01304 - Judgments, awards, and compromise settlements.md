@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(C) under a decision of a board of contract appeals; or
 
-&emsp;&emsp;(D) in excess of an amount payable from the appropriations of an agency for a meritorious claim under section 2733 or 2734 of title 10, section 715 of title 32, or section 20113 of title 51.
+&emsp;&emsp;(D) in excess of an amount payable from the appropriations of an agency for a meritorious claim under section 2733, 2733a, or 2734 of title 10, section 715 of title 32, or section 20113 of title 51.
 
 (b)(1) Interest may be paid from the appropriation made by this section—
 
@@ -38,7 +38,21 @@
 
 (2) The Exchange making the contract shall reimburse the Government for the amount paid by the Government.
 
-(Pub. L. 97–258, §§1, 2(m)(2), Sept. 13, 1982, 96 Stat. 917, 1062; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, §202(m), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–314, §4(b), Dec. 18, 2010, 124 Stat. 3440.)
+(d) Beginning not later than the date that is 60 days after the date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and unless the disclosure of such information is otherwise prohibited by law or a court order, the Secretary of the Treasury shall make available to the public on a website, as soon as practicable, but not later than 30 days after the date on which a payment under this section is tendered, the following information with regard to that payment:
+
+&emsp;(1) The name of the specific agency or entity whose actions gave rise to the claim or judgment.
+
+&emsp;(2) The name of the plaintiff or claimant.
+
+&emsp;(3) The name of counsel for the plaintiff or claimant.
+
+&emsp;(4) The amount paid representing principal liability, and any amounts paid representing any ancillary liability, including attorney fees, costs, and interest.
+
+&emsp;(5) A brief description of the facts that gave rise to the claim.
+
+&emsp;(6) The name of the agency that submitted the claim.
+
+(Pub. L. 97–258, §§1, 2(m)(2), Sept. 13, 1982, 96 Stat. 917, 1062; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, §202(m), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–314, §4(b), Dec. 18, 2010, 124 Stat. 3440; Pub. L. 116–9, title IV, §4201(b), Mar. 12, 2019, 133 Stat. 764; Pub. L. 116–92, div. A, title VII, §731(c)(2), Dec. 20, 2019, 133 Stat. 1460.)
 
 Historical and Revision Notes
 
@@ -76,7 +90,13 @@ In subsection (b)(1)(A), the words "through the day before the date" are substit
 
 Section 2518 of title 28, referred to in subsec. (c)(1), was repealed by Pub. L. 97–164, title I, §139(l), Apr. 2, 1982, 96 Stat. 43.
 
+The date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, referred to in subsec. (d), is the date of enactment of Pub. L. 116–9, which was approved Mar. 12, 2019.
+
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(3)(D). Pub. L. 116–92, which directed substitution of "2733, 2733a," for "2733,", was executed by making the substitution for "2733" to reflect the probable intent of Congress.
+
+Subsec. (d). Pub. L. 116–9 added subsec. (d).
 
 <b>2010</b>—Subsec. (a)(3)(D). Pub. L. 111–314 substituted "section 20113 of title 51" for "section 203 of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2473)".
 
@@ -87,6 +107,10 @@ Section 2518 of title 28, referred to in subsec. (c)(1), was repealed by Pub. L.
 <b>1982</b>—Subsec. (b)(1)(A). Pub. L. 97–258, §2(m)(2)(A), struck out "under section 2411(b) of title 28" after "district court".
 
 Subsec. (b)(1)(B). Pub. L. 97–258, §2(m)(2)(B), substituted "Court of Appeals for the Federal Circuit or the United States Claims Court" for "Court of Claims".
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–92 applicable to any claim filed under section 2733a of Title 10, Armed Forces, on or after Jan. 1, 2020, and any claim filed in calendar year 2020 deemed to be filed within the time period specified in section 2733a(b)(4) of Title 10 if filed within three years after it accrues, see section 731(d) of Pub. L. 116–92, set out as an Effective Date note under section 2733a of Title 10.
 
 #### Effective Date of 1992 Amendment
 

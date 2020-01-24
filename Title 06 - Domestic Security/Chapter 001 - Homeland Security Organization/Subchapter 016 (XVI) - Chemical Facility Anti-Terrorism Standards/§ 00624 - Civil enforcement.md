@@ -68,7 +68,7 @@
 
 #### (C) Expiration of effectiveness of order
 
-&emsp;&emsp;If a petition for review of an order is filed under subparagraph (B) and the review under that paragraph is not completed by the last day of the 30-day period beginning on the date on which the petition is filed, the order shall vacate automatically at the end of that period unless the Secretary determines, in writing, that the imminent threat providing a basis for the order continues to exist.
+&emsp;&emsp;If a petition for review of an order is filed under subparagraph (B) and the review under that paragraph <sup>2</sup> is not completed by the last day of the 30-day period beginning on the date on which the petition is filed, the order shall vacate automatically at the end of that period unless the Secretary determines, in writing, that the imminent threat providing a basis for the order continues to exist.
 
 #### (d) Right of action
 
@@ -86,7 +86,9 @@ Nothing in this subchapter confers upon any person except the Secretary or his o
 
 #### Effective and Termination Dates
 
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on the date that is 4 years after such effective date, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under section 621 of this title.
+Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on the date that is 5 years and 3 months after such effective date, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under section 621 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "that subparagraph".</i>
 

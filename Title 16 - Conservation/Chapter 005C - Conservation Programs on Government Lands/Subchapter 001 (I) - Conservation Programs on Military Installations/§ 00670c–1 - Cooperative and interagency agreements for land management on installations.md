@@ -14,7 +14,7 @@ The Secretary of a military department may enter into cooperative agreements wit
 
 (2) In the case of a cooperative agreement under subsection (a)(2), such funds—
 
-&emsp;(A) may be paid in a lump sum and include an amount intended to cover the future costs of the natural resource maintenance and improvement activities provided for under the agreement; and
+&emsp;(A) may be paid in a lump sum and include an amount intended to cover the future costsof the natural resource maintenance and improvement activities provided for under the agreement; and
 
 &emsp;(B) may be placed by the recipient in an interest-bearing or other investment account, and any interest or income shall be applied for the same purposes as the principal.
 

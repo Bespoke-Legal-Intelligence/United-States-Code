@@ -2,7 +2,7 @@
 
 #### (a) Annual report
 
-On a <sup>1</sup> annual basis, the Secretary of the Treasury (acting through the head of the Office of Intelligence Support) shall submit a report to the appropriate congressional committees that fully informs the committees concerning operationsagainst terrorist financial networks. Each such report shall include with respect to the preceding one-year period—
+On a <sup>1</sup> annual basis, the Secretary of the Treasury (acting through the head of the Office of Intelligence Support) shall submit a report to the appropriate congressional committees that fully informs the committees concerning operations against terrorist financial networks. Each such report shall include with respect to the preceding one-year period—
 
 &emsp;(1) the total number of asset seizures, designations, and other actions against individuals or entities found to have engaged in financial support of terrorism;
 

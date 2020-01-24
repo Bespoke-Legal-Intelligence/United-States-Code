@@ -18,7 +18,7 @@ In this chapter:
 
 &emsp;(8) The term "existing aircraft" means a civil aircraft other than a new aircraft.
 
-&emsp;(9) The term "new aircraft" means a civil aircraft that a manufacturer has not begun to assemble before the aircraft is covered by a contract under section 9512 of this title.
+&emsp;(9) The term "new aircraft" means a civil aircraft that a manufacturer has not begun toassemble before the aircraft is covered by a contract under section 9512 of this title.
 
 &emsp;(10) The term "Secretary" means the Secretary of the Air Force.
 
@@ -60,7 +60,7 @@ Par. (12). Pub. L. 103–355, §3031(b)(3), redesignated par. (12) as (11).
 
 Par. (5). Pub. L. 101–189, §1636(a)(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The term 'cargo-convertible feature' means equipment or design features included or incorporated in a passenger aircraft that can readily enable all or substantially all of that aircraft's main deck to be used for the carriage of property or mail."
 
-Par. (8)(A). Pub. L. 101–189, §1636(a)(3), substituted "a new or existing aircraft and who contracts with the Secretary to modify that aircraft by including or incorporating specified defense features" for "a civil aircraft and who contracts with the Secretary of the Air Force to modify that aircraft by including or incorporatingcargo-convertible features suitable for defense purposes".
+Par. (8)(A). Pub. L. 101–189, §1636(a)(3), substituted "a new or existing aircraft and who contracts with the Secretary to modify that aircraft by including or incorporating specified defense features" for "a civil aircraft and who contracts with the Secretary of the Air Force to modify that aircraft by including or incorporating cargo-convertible features suitable for defense purposes".
 
 Par. (12). Pub. L. 101–189, §1636(a)(4), added par. (12).
 

@@ -18,7 +18,7 @@ The Secretary shall carry out programs of research, development, demonstration, 
 
 #### (2) Power delivery research initiative
 
-&emsp;There are authorized to be appropriated to the Secretary to carry out the Power Delivery Research Initiative under subsection <sup>1</sup> 16215(e) of this title such sums as may be necessary for each of fiscal years 2007 through 2009.
+&emsp;There are authorized to be appropriated to the Secretary to carry out the Power DeliveryResearch Initiative under subsection <sup>1</sup> 16215(e) of this title such sums as may be necessary for each of fiscal years 2007 through 2009.
 
 #### (c) Micro-cogeneration energy technology
 

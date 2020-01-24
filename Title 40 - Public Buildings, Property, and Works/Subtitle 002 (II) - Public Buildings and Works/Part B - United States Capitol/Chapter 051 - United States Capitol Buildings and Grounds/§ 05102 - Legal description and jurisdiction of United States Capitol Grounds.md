@@ -224,7 +224,7 @@ Retention of jurisdiction over subsurface area.—The District of Columbia shall
 
 "(b)
 
-Transfer of Administrative Jurisdiction From United States to District of Columbia.—Administrative jurisdiction over the following property owned by the United States and depicted on the Map is hereby transferred from the Secretary to the District of Columbia for administration by the District of Columbia:
+Transfer of Administrative Jurisdiction From United States to District of Columbia.—Administrative jurisdiction over the following property owned bythe United States and depicted on the Map is hereby transferred from the Secretary to the District of Columbia for administration by the District of Columbia:
 
 &emsp;"(1) A portion of U.S. Reservation 451.
 
@@ -260,7 +260,7 @@ Review.—If the Secretary agrees to the conveyance under subsection (b), or if 
 
 "(d)
 
-Study.—The Architect of the Capitol shall not construct a mail screening facility on any real propertyconveyed under this section unless each of the following conditions is satisfied:
+Study.—The Architect of the Capitol shall not construct a mail screening facility on any real property conveyed under this section unless each of the following conditions is satisfied:
 
 &emsp;"(1) A study is completed that analyzes—
 
@@ -362,7 +362,7 @@ Definition.—Section 5102 of title 40, United States Code, is amended to includ
 
 &emsp;&emsp;"(B)
 
-Jurisdiction of capitol police.—The United States Capitol Police shall have jurisdiction over the parcels of Federal real property described insubsection (a)(2) in accordance with section 9 of the Act entitled 'An Act to define the United States Capitol Grounds, to regulate the use thereof, and for other purposes', approved July 31, 1946 (2 U.S.C. 1961).
+Jurisdiction of capitol police.—The United States Capitol Police shall have jurisdiction over the parcels of Federal real property described in subsection (a)(2) in accordance with section 9 of the Act entitled 'An Act to define the United States Capitol Grounds, to regulate the use thereof, and for other purposes', approved July 31, 1946 (2 U.S.C. 1961).
 
 &emsp;"(3)
 

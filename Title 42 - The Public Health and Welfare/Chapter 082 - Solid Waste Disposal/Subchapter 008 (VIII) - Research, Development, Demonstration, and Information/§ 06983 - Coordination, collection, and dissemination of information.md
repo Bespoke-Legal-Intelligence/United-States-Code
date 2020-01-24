@@ -16,7 +16,7 @@ The Administrator shall develop, collect, evaluate, and coordinate information o
 
 &emsp;(6) hazardous solid waste, including incidents of damage resulting from the disposal of hazardous solid wastes; inherently and potentially hazardous solid wastes; methods of neutralizing or properly disposing of hazardous solid wastes; facilities that properly dispose of hazardous wastes;
 
-&emsp;(7) methods of financing resource recovery facilities or, sanitary landfills, or hazardous solid waste treatment facilities, whichever is appropriate for the entity developing such facility or landfill (taking into account theamount of solid waste reasonably expected to be available to such entity);
+&emsp;(7) methods of financing resource recovery facilities or, sanitary landfills, or hazardous solid waste treatment facilities, whichever is appropriate for the entity developing such facility or landfill (taking into account the amount of solid waste reasonably expected to be available to such entity);
 
 &emsp;(8) the availability of markets for the purchase of resources, either materials or energy, recovered from solid waste; and
 

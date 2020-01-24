@@ -12,7 +12,7 @@ A trustee shall be vested with the same powers and title with respect to the deb
 
 #### (b) Trustee duties
 
-To the extent consistent with the provisions of this chapter or as otherwise ordered by the court, a trustee shall be subject to the same duties as a trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7, except that a trustee may, but shall have no duty to, reduce to money any securities constituting customer property or in the general estate of the debtor. In addition, the trustee shall—
+To the extent consistent with the provisions of this chapter or as otherwise ordered by the court, a trustee shall be subject to the same duties as a trustee in a case under chapter 7 of title 11, including, if the debtor is a commoditybroker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7, except that a trustee may, but shall have no duty to, reduce to money any securities constituting customer property or in the general estate of the debtor. In addition, the trustee shall—
 
 &emsp;(1) deliver securities to or on behalf of customers to the maximum extent practicable in satisfaction of customer claims for securities of the same class and series of an issuer; and
 
@@ -20,7 +20,7 @@ To the extent consistent with the provisions of this chapter or as otherwise ord
 
 #### (c) Reports by trustee to court
 
-The trustee shall make to the court and to SIPC such written reports as may be required of a trustee in a case under chapter 7 of title 11, and shall include in such reports information with respect to the progress made in distributing cash and securities to customers. Such reports shall be in such form and detail as the Commission determines by rule to present fairly the results of the liquidation proceeding as of the date of or for the period covered by such reports, having due regard for the requirements ofsection 78q of this title and the rules prescribed under such section and the magnitude of items and transactions involved in connection with the operations of a broker or dealer.
+The trustee shall make to the court and to SIPC such written reports as may be required of a trustee in a case under chapter 7 of title 11, and shall include in such reports information with respect to the progress made in distributing cash and securities to customers. Such reports shall be in such form and detail as the Commission determines by rule to present fairly the results of the liquidation proceeding as of the date of or for the period covered by such reports, having due regard for the requirements of section 78q of this title and the rules prescribed under such section and the magnitude of items and transactions involved in connection with the operations of a broker or dealer.
 
 #### (d) Investigations
 

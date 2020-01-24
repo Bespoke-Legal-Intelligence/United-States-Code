@@ -108,7 +108,7 @@ Sections 359, 360, 367, and 712 of title 14, referred to in subsec. (c)(3)(C)(i)
 
 Prior sections 1091c to 1091f were repealed, effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
-Section 1091c, Pub. L. 89–329, title V, §504, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 83; amended Pub. L. 90–575, title II, §231(a), Oct. 16, 1968, 82 Stat.1039; Pub. L. 92–318, title I, §141(a)(1)(B), (c)(1)(B), June 23, 1972, 86 Stat. 284, 285, authorized the Commissioner to make grants or contracts with State or local educational agencies for attracting qualified persons to the field of education.
+Section 1091c, Pub. L. 89–329, title V, §504, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 83; amended Pub. L. 90–575, title II, §231(a), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §141(a)(1)(B), (c)(1)(B), June 23, 1972, 86 Stat. 284, 285, authorized the Commissioner to make grants or contracts with State or local educational agencies for attracting qualified persons to the field of education.
 
 Section 1091d, Pub. L. 89–329, title V, §505, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 84, required the Commissioner to consult with the National Science Foundation and the National Foundation on the Arts and the Humanities in development and review of programs.
 

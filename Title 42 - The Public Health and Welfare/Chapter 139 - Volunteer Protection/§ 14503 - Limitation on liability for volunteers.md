@@ -40,7 +40,7 @@ Nothing in this section shall be construed to affect the liability of any nonpro
 
 If the laws of a State limit volunteer liability subject to one or more of the following conditions, such conditions shall not be construed as inconsistent with this section:
 
-&emsp;(1) A State law that requires a nonprofit organization or governmental entity to adhereto risk management procedures, including mandatory training of volunteers.
+&emsp;(1) A State law that requires a nonprofit organization or governmental entity to adhere to risk management procedures, including mandatory training of volunteers.
 
 &emsp;(2) A State law that makes the organization or entity liable for the acts or omissions of its volunteers to the same extent as an employer is liable for the acts or omissions of its employees.
 

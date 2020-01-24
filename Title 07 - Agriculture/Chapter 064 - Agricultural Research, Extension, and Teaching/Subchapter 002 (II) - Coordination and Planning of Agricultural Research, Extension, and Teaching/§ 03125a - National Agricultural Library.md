@@ -18,7 +18,7 @@ The Director may—
 
 &emsp;(1) acquire, preserve, and manage information and information products and services in all phases of agriculture and allied sciences;
 
-&emsp;(2) organize agricultural information and information products and services by cataloging,indexing, bibliographical listing, and other appropriate techniques;
+&emsp;(2) organize agricultural information and information products and services by cataloging, indexing, bibliographical listing, and other appropriate techniques;
 
 &emsp;(3) provide agricultural information and information products and services to agencies of the Department of Agriculture and the Federal Government, public and private organizations, and individuals, within the United States and internationally;
 

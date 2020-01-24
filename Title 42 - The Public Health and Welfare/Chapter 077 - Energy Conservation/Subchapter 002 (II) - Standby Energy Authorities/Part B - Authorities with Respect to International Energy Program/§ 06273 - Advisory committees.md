@@ -38,7 +38,7 @@ Section 17 of the Federal Energy Administration Act of 1974, referred to in subs
 
 #### Classification of Certain Information and Material
 
-For provisions relating to the classification of certain information and material obtained from advisory bodies created to implement the International EnergyProgram, see Ex. Ord. No. 11932, eff. Aug. 4, 1976, 41 F.R. 32691, set out as a note under section 3161 of Title 50, War and National Defense.
+For provisions relating to the classification of certain information and material obtained from advisory bodies created to implement the International Energy Program, see Ex. Ord. No. 11932, eff. Aug. 4, 1976, 41 F.R. 32691, set out as a note under section 3161 of Title 50, War and National Defense.
 
 #### Termination of Advisory Committees
 

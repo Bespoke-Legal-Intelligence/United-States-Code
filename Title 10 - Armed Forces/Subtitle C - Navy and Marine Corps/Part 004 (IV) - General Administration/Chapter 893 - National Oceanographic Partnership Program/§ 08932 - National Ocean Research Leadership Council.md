@@ -82,7 +82,7 @@ Annual Report.—Not later than March 1 of each year, the Council shall submit t
 
 &emsp;(4) A description of the involvement of the program with Federal interagency coordinating entities.
 
-&emsp;(5) The amounts requested, in the budget submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year following the fiscal year in which the report is prepared,for the programs, projects, and activities of the program and the estimated expenditures under such programs, projects, and activities during such following fiscal year.
+&emsp;(5) The amounts requested, in the budget submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year following the fiscal year in which the report is prepared, for the programs, projects, and activities of the program and the estimated expenditures under such programs, projects, and activities during such following fiscal year.
 
 (f)
 
@@ -164,5 +164,5 @@ Pub. L. 104–201, div. A, title II, §282(b), Sept. 23, 1996, 110 Stat. 2473, d
 
 #### First Annual Report of Council
 
-Pub. L. 104–201, div. A, title II, §282(c), formerly §282(d), Sept. 23, 1996, 110 Stat. 2473, as renumbered byPub. L. 105–85, div. A, title II, §241(c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that: "The first annual report required by section 7902(f) \[now 8932(f)\] of title 10, United States Code, as added by subsection (a)(1), shall be submitted to Congress not later than March 1, 1997. The first report shall include, in addition to the information required by such section, information about the terms of office, procedures, and responsibilities of the Ocean Research Advisory Panel established by the Council."
+Pub. L. 104–201, div. A, title II, §282(c), formerly §282(d), Sept. 23, 1996, 110 Stat. 2473, as renumbered by Pub. L. 105–85, div. A, title II, §241(c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that: "The first annual report required by section 7902(f) \[now 8932(f)\] of title 10, United States Code, as added by subsection (a)(1), shall be submitted to Congress not later than March 1, 1997. The first report shall include, in addition to the information required by such section, information about the terms of office, procedures, and responsibilities of the Ocean Research Advisory Panel established by the Council."
 

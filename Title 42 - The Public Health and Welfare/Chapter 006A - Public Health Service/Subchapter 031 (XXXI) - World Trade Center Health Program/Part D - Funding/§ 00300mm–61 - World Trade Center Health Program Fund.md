@@ -106,7 +106,7 @@ Of the amounts made available under subsection (b)(1), not more than each of the
 
 &emsp;&emsp;(B) for fiscal year 2017, $15,000,000; and
 
-&emsp;&emsp;(C) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by theSecretary for the 12-month period ending with March of the previous year.
+&emsp;&emsp;(C) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
 
 #### (5) Research regarding certain health conditions
 
@@ -138,7 +138,7 @@ A prior section 300aaa–1, act July 1, 1944, ch. 373, title XXVII, §2702, form
 
 A prior section 300aaa–2, act July 1, 1944, ch. 373, title XXVII, §2703, formerly title V, §503, 58 Stat. 710, as amended, which related to disposition of money collected for care of patients, was renumbered section 233 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238b of this title.
 
-A prior section 300aaa–3, act July 1, 1944, ch. 373, title XXVII, §2704, formerly title V, §506, 58 Stat. 710, as amended, which related to transportation of remains of officers, was renumbered section 234 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238c of this title.
+A prior section 300aaa–3, act July 1, 1944, ch. 373, title XXVII, §2704, formerly title V, §506, 58 Stat. 710, as amended, which related to transportation of remains of officers, was renumbered section 234 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3),June 10, 1993, 107 Stat. 213, and transferred to section 238c of this title.
 
 A prior section 300aaa–4, act July 1, 1944, ch. 373, title XXVII, §2705, formerly title V, §507, as added June 24, 1967, Pub. L. 90–31, §5, 81 Stat. 79, and amended, which related to availability of appropriations for grants to Federal institutions, was renumbered section 235 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238d of this title.
 
@@ -162,7 +162,7 @@ A prior section 300aaa–13, act July 1, 1944, ch. 373, title XXVII, §2714, for
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(2). Pub. L. 114–113, §302(a)(1)(A)(i), substituted "fiscal year 2016 and each subsequent fiscalyear through fiscal year 2090" for "each of fiscal years 2012 through 2016 (and the last calendar quarter of fiscal year 2011)" in introductory provisions.
+<b>2015</b>—Subsec. (a)(2). Pub. L. 114–113, §302(a)(1)(A)(i), substituted "fiscal year 2016 and each subsequent fiscal year through fiscal year 2090" for "each of fiscal years 2012 through 2016 (and the last calendar quarter of fiscal year 2011)" in introductory provisions.
 
 Subsec. (a)(2)(A). Pub. L. 114–113, §302(a)(1)(A)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: "the Federal share, consisting of an amount equal to the lesser of—
 

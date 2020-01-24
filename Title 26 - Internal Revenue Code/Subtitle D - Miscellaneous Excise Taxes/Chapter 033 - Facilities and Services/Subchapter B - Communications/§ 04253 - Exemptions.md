@@ -22,7 +22,7 @@ Only one payment of tax under section 4251 shall be required with respect to the
 
 #### (f) Common carriers and communications companies
 
-No tax shall be imposed under section 4251 on the amount paid for any toll telephone service described in section 4252(b)(2) to the extent that the amount so paid is for use by a common carrier, telephone or telegraph company, or radio broadcasting station or network in the conduct of its business as such.
+No tax shall be imposed under section 4251 on the amount paid for any toll telephone servicedescribed in section 4252(b)(2) to the extent that the amount so paid is for use by a common carrier, telephone or telegraph company, or radio broadcasting station or network in the conduct of its business as such.
 
 #### (g) Installation charges
 
@@ -42,7 +42,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed under sec
 
 #### (k) Exemption for qualified blood collector organizations
 
-Under regulations provided by the Secretary, no tax shall be imposed under section 4251 onany amount paid by a qualified blood collector organization (as defined in section 7701(a)(49)) for services or facilities furnished to such organization.
+Under regulations provided by the Secretary, no tax shall be imposed under section 4251 on any amount paid by a qualified blood collector organization (as defined in section 7701(a)(49)) for services or facilities furnished to such organization.
 
 #### (l) Filing of exemption certificates
 

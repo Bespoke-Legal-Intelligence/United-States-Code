@@ -26,11 +26,11 @@
 
 #### (4) Technical assistance
 
-&emsp;The Secretary shall reserve up to ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to supporttechnical assistance and dissemination activities under paragraphs (3) and (4) of section 9858g(a) of this title.
+&emsp;The Secretary shall reserve up to ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to support technical assistance and dissemination activities under paragraphs (3) and (4) of section 9858g(a) of this title.
 
 #### (5) Research, demonstration, and evaluation
 
-&emsp;The Secretary may reserve ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to conduct research and demonstration activities, as well as periodic external, independent evaluations of the impact of the program described by this subchapter on increasing access to child care services and improving the safety and quality of child care services, using scientifically valid research methodologies, and to disseminate the key findings of those evaluations widely and on a timely basis.
+&emsp;The Secretary may reserve ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to conduct research and demonstration activities, as well as periodic external, independent evaluations of the impact of the program described by this subchapter on increasing access to child care services and improving the safety and qualityof child care services, using scientifically valid research methodologies, and to disseminate the key findings of those evaluations widely and on a timely basis.
 
 #### (b) State allotment
 
@@ -184,7 +184,7 @@ For the purposes of this section, the term "State" includes only the 50 States, 
 
 #### References in Text
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281,60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Amendments
 

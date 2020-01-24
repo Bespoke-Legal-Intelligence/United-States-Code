@@ -8,5 +8,5 @@ Section 3789c, Pub. L. 90–351, title I, §814, as added Pub. L. 96–157, §2,
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 10101 of Title 34, Crime Control and Law Enforcement.
+Repeal effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note undersection 10101 of Title 34, Crime Control and Law Enforcement.
 

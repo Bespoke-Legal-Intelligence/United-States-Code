@@ -34,7 +34,7 @@
 
 (2) The amount of such benefit for the month in which an application for benefits becomes effective (or, if the Commissioner of Social Security so determines, for such month and the following month) and for any month immediately following a month of ineligibility for such benefits (or, if the Commissioner of Social Security so determines, for such month and the following month) shall—
 
-&emsp;(A) be determined on the basis of the income of the individual and the eligible spouse, if any, of such individual and other relevant circumstances in such month; and
+&emsp;(A) be determined on the basis of the income of the individual and the eligible spouse, ifany, of such individual and other relevant circumstances in such month; and
 
 &emsp;(B) in the case of the first month following a period of ineligibility in which eligibility is restored after the first day of such month, bear the same ratio to the amount of the benefit which would have been payable to such individual if eligibility had been restored on the first day of such month as the number of days in such month including and following the date of restoration of eligibility bears to the total number of days in such month.
 
@@ -68,7 +68,7 @@
 
 #### (d) Limitation on amount of gross income earned; "gross income" defined
 
-The Commissioner of Social Security may prescribe the circumstances under which, consistently with the purposes of this subchapter, thegross income from a trade or business (including farming) will be considered sufficiently large to make an individual ineligible for benefits under this subchapter. For purposes of this subsection, the term "gross income" has the same meaning as when used in chapter 1 of the Internal Revenue Code of 1986.
+The Commissioner of Social Security may prescribe the circumstances under which, consistently with the purposes of this subchapter, the gross income from a trade or business (including farming) will be considered sufficiently large to make an individual ineligible for benefits under this subchapter. For purposes of this subsection, the term "gross income" has the same meaning as when used in chapter 1 of the Internal Revenue Code of 1986.
 
 #### (e) Limitation on eligibility of certain individuals
 
@@ -112,9 +112,9 @@ The Commissioner of Social Security may prescribe the circumstances under which,
 
 &emsp;(ii) such person needs to continue to maintain and provide for the expenses of the home or living arrangement to which he or she may return upon leaving the institution or facility.
 
-> The benefit of any person under this subchapter (including State supplementation if any) for each month to which this subparagraph applies shall be payable, without interruption of benefit payments and on the date the benefit involved is regularly due, at the rate that was applicable tosuch person in the month prior to the first month throughout which he or she is in the institution or facility.
+> The benefit of any person under this subchapter (including State supplementation if any) for each month to which this subparagraph applies shall be payable, without interruption of benefit payments and on the date the benefit involved is regularly due, at the rate that was applicable to such person in the month prior to the first month throughout which he or she is in the institution or facility.
 
-(H) The Commissioner of Social Security shall establish procedures for the determinations required by clauses (i) and (ii) of subparagraph (G), and may enter into agreements for making such determinations (or for providing information or assistance in connection with the making of such determinations) with appropriate State and local public and private agencies and organizations. Such procedures and agreements shall include the provision of appropriate assistance to individuals who, because of their physical or mental condition, are limited in their ability to furnish the information needed in connection with the making of such determinations.
+(H) The Commissioner of Social Security shall establish procedures for the determinations required by clauses (i) and (ii) of subparagraph (G), and may enter into agreements for making such determinations (or for providing information or assistance in connection with the making of such determinations) with appropriate State and local public and private agencies and organizations. Such procedures and agreements shall include the provision of appropriate assistance to individuals who, because of their physical or mental condition, are limited in their ability tofurnish the information needed in connection with the making of such determinations.
 
 (I)(i) The Commissioner shall enter into an agreement, with any interested State or local institution comprising a jail, prison, penal institution, or correctional facility, or with any other interested State or local institution a purpose of which is to confine individuals as described in section 402(x)(1)(A)(ii) of this title, under which—
 
@@ -138,7 +138,7 @@ The Commissioner of Social Security may prescribe the circumstances under which,
 
 (2) No person shall be an eligible individual or eligible spouse for purposes of this subchapter if, after notice to such person by the Commissioner of Social Security that it is likely that such person is eligible for any payments of the type enumerated in section 1382a(a)(2)(B) of this title, such person fails within 30 days to take all appropriate steps to apply for and (if eligible) obtain any such payments.
 
-(3) Notwithstanding anything to the contrary in the criteria being used by the Commissioner of Social Security in determining when a husband and wife are to be considered two eligible individuals for purposes of this subchapter and when they are to be considered an eligible individual with an eligible spouse, the State agency administering or supervising the administration of a State plan under any other program under this chapter may (in the administration of such plan) treat a husband and wife living in the same medical treatment facility described in paragraph (1)(B) as though they were an eligible individual with his or her eligible spouse for purposes of this subchapter (rather than two eligible individuals), after they have continuously lived in the same such facility for 6 months, if treating such husband and wife as two eligible individuals would prevent either of them from receiving benefits or assistance under such plan or reduce the amount thereof.
+(3) Notwithstanding anything to the contrary in the criteria being used by the Commissioner of Social Security in determining when a husband and wife are to be considered two eligible individuals for purposes of this subchapter andwhen they are to be considered an eligible individual with an eligible spouse, the State agency administering or supervising the administration of a State plan under any other program under this chapter may (in the administration of such plan) treat a husband and wife living in the same medical treatment facility described in paragraph (1)(B) as though they were an eligible individual with his or her eligible spouse for purposes of this subchapter (rather than two eligible individuals), after they have continuously lived in the same such facility for 6 months, if treating such husband and wife as two eligible individuals would prevent either of them from receiving benefits or assistance under such plan or reduce the amount thereof.
 
 (4)(A) No person shall be considered an eligible individual or eligible spouse for purposes of this subchapter with respect to any month if during such month the person is—
 
@@ -194,7 +194,7 @@ In the case of any individual or any individual and his spouse (as the case may 
 
 &emsp;(3) has, since December 31, 1973, continuously been (except for periods not in excess of six consecutive months) an eligible individual or eligible spouse with respect to whom supplemental security income benefits are payable,
 
-> the resources of such individual or such individual and his spouse (as the case may be) shall be deemed not to exceed the amount specified in subsections (a)(1)(B) and (a)(2)(B) during any period that the resources of such individual or such individual and his spouse (as the case may be) does not exceed the maximum amount of resources specified in the State plan, as in effect for October 1972, under which he or they received such aid or assistance for December 1973.
+> the resources of such individual or such individual and his spouse (as the case may be) shall bedeemed not to exceed the amount specified in subsections (a)(1)(B) and (a)(2)(B) during any period that the resources of such individual or such individual and his spouse (as the case may be) does not exceed the maximum amount of resources specified in the State plan, as in effect for October 1972, under which he or they received such aid or assistance for December 1973.
 
 #### (h) Individuals deemed to meet income test
 
@@ -302,13 +302,13 @@ Subsec. (e)(1)(G). Pub. L. 105–33, §5522(c)(3), substituted "or is in a medic
 
 Subsec. (e)(1)(I)(i)(I). Pub. L. 105–33, §5521(c), substituted "this paragraph" for "paragraph (1)".
 
-Subsec. (e)(1)(I)(i)(II). Pub. L. 105–33, §5521(b), substituted "individual who receives in the month preceding the first month throughout which such individual is an inmate of the jail, prison, penal institution, or correctional facility that furnishes information respecting such individual pursuant to subclause (I), or is confined in the institution (that so furnishes such information) as described in section 402(x)(1)(A)(ii) of this title, a benefit under this subchapter for such preceding month, and who is determined by the Commissioner tobe ineligible for benefits under this subchapter by reason of confinement based on the information provided by such institution" for "inmate of the institution who is eligible for a benefit under this subchapter for the month preceding the first month throughout which such inmate is in such institution and becomes ineligible for such benefit as a result of the application of this subparagraph".
+Subsec. (e)(1)(I)(i)(II). Pub. L. 105–33, §5521(b), substituted "individual who receives in the month preceding the first month throughout which such individual is an inmate of the jail, prison, penal institution, or correctional facility that furnishes information respecting such individual pursuant to subclause (I), or is confined in the institution (that so furnishes such information) as described in section 402(x)(1)(A)(ii) of this title, a benefit under this subchapter for such preceding month, and who is determined by the Commissioner to be ineligible for benefits under this subchapter by reason of confinement based on the information provided by such institution" for "inmate of the institution who is eligible for a benefit under this subchapter for the month preceding the first month throughout which such inmate is in such institution and becomes ineligible for such benefit as a result of the application of this subparagraph".
 
 Subsec. (e)(3). Pub. L. 105–33, §5522(c)(4), substituted "same medical treatment facility" for "same hospital, home, or facility" and "same such facility" for "same such hospital, home, or facility".
 
 Subsec. (e)(6). Pub. L. 105–33, §5521(a), inserted "and section 1306(c) of this title" after "of 1986".
 
-<b>1996</b>—Subsec. (c)(5)(A). Pub. L. 104–193, §108(j), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "a State plan approved under part A of subchapter IV of this chapter (relating to aid to families with dependent children),".
+<b>1996</b>—Subsec. (c)(5)(A). Pub. L. 104–193, §108(j), amended subpar. (A) generally. Prior to amendment, subpar.\(A) read as follows: "a State plan approved under part A of subchapter IV of this chapter (relating to aid to families with dependent children),".
 
 Subsec. (c)(7)(A), (B). Pub. L. 104–193, §204(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
@@ -400,7 +400,7 @@ Subsec. (e)(1)(D). Pub. L. 98–21, §403(a)(2), added subpar. (D).
 
 Subsec. (c)(2). Pub. L. 97–248, §181(a), in par. (2) redesignated existing provisions as provisions preceding subpar. (A) and subpar. (A), and added subpar. (B).
 
-Subsec. (c)(3) to (6). Pub. L. 97–248, §§181(a), 183(a)(2), (3), struck out par. (3) providing that an application shall be effective as of the first day of the month in which it is filed, added par. (3) providing that an application shall be effective on the later of the date it is filed or the date such individual first becomes eligible for such benefits with respect to such application and redesignated such par. (3) as (5), redesignated par. (4) as (6), and added pars. (3) and (4).
+Subsec. (c)(3) to (6). Pub. L. 97–248, §§181(a), 183(a)(2), (3), struck out par. (3) providing that an applicationshall be effective as of the first day of the month in which it is filed, added par. (3) providing that an application shall be effective on the later of the date it is filed or the date such individual first becomes eligible for such benefits with respect to such application and redesignated such par. (3) as (5), redesignated par. (4) as (6), and added pars. (3) and (4).
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–35 substituted provision that eligibility and benefit amount generally be determined on a one-month retrospective basis, with for the first month of eligibility, the month in which the application is filed, eligibility and benefit amount both determined on a prospective basis for provision that eligibility and benefit amount be determined on a quarterly prospective basis and inserted provision authorizing the Secretary to grant waivers.
 
@@ -616,7 +616,7 @@ Pub. L. 104–193, title II, §215, Aug. 22, 1996, 110 Stat. 2196, provided that
 
 #### Construction of 1999 Amendment
 
-Amendment by Pub. L. 106–170 to be executed as if Pub. L. 106–169 had been enacted after the enactment ofPub. L. 106–170, see section 121(c)(1) of Pub. L. 106–169, set out as a note under section 1396a of this title.
+Amendment by Pub. L. 106–170 to be executed as if Pub. L. 106–169 had been enacted after the enactment of Pub. L. 106–170, see section 121(c)(1) of Pub. L. 106–169, set out as a note under section 1396a of this title.
 
 #### Study of Denial of SSI Benefits for Family Farmers
 
@@ -624,7 +624,7 @@ Pub. L. 106–169, title II, §261, Dec. 14, 1999, 113 Stat. 1856, provided that
 
 "(a)
 
-In General.—The Commissioner of Social Security shall conduct a study of the reasons why family farmers with resources of less than $100,000 are denied supplemental security income benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\], including whether the deeming process unduly burdens and discriminates against family farmers who do not institutionalize a disabled dependent, and shall determine the number of such farmers who have been denied such benefits during each of the preceding 10 years.
+In General.—The Commissioner of Social Security shall conduct a study of the reasons why family farmers with resources of less than $100,000 are denied supplemental security income benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\], including whether the deeming process unduly burdensand discriminates against family farmers who do not institutionalize a disabled dependent, and shall determine the number of such farmers who have been denied such benefits during each of the preceding 10 years.
 
 "(b)
 
@@ -790,9 +790,9 @@ Pub. L. 93–66, title II, §212, July 9, 1973, 87 Stat. 155, as amended by Pub.
 
 &emsp;"(ii) any special circumstance (such as the recognition of the needs of a person whose presence in such individual's home, in December 1973, was essential to such individual's well-being),
 
-> and, if for any month after December 1973 there is a change with respect to such special need or circumstance which, if such change had existed in December 1973, the amount described in subparagraph (B)(i) with respect to such individual would have been reduced on account of such change, then, for such month and for each month thereafter the amount of the supplementary payment payable under the agreement enteredinto under this subsection to such individual shall (unless the State, at its option, otherwise specifies) be reduced by an amount equal to the amount by which the amount (described in subparagraph (B)(i)) would have been so reduced.
+> and, if for any month after December 1973 there is a change with respect to such special need or circumstance which, if such change had existed in December 1973, the amount described in subparagraph (B)(i) with respect to such individual would have been reduced on account of such change, then, for such month and for each month thereafter the amount of the supplementary payment payable under the agreement entered into under this subsection to such individual shall (unless the State, at its option, otherwise specifies) be reduced by an amount equal to the amount by which the amount (described in subparagraph (B)(i)) would have been so reduced.
 
-"(E)(i) In the case of an individual who, for December 1973 lived as a member of a family unit other members of which received aid (in the form of money payments) under a State plan of a State approved under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], such State at its option, may (subject to clause (ii)) reduce such individual's December 1973 income (as determined under subparagraph (B)) to such extent as may be necessary to cause the supplementary payment (referred to in paragraph (2)) payable to such individual for January 1974 or any month thereafter to be reduced to a level designed to assure that the total income of such individual (and of the members of such family unit) for any month after December 1973 does not exceed the total income of such individual (and of the members of such family unit) for December 1973.
+"(E)(i) In the case of an individual who, for December 1973 lived as a member of a family unit other members of which received aid (in the form of money payments) under a State plan of a State approved under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], such State at its option, may (subject to clause (ii)) reduce such individual's December 1973 income (as determined under subparagraph (B)) to such extent as may be necessary to cause the supplementary payment\(referred to in paragraph (2)) payable to such individual for January 1974 or any month thereafter to be reduced to a level designed to assure that the total income of such individual (and of the members of such family unit) for any month after December 1973 does not exceed the total income of such individual (and of the members of such family unit) for December 1973.
 
 "(ii) The amount of the reduction (under clause (i)) of any individual's December 1973 income shall not be in an amount which would cause the supplementary payment (referred to in paragraph (2)) payable to such individual to be reduced below the amount of such supplementary payment which would be payable to such individual if he had, for the month of December 1973 not lived in a family, members of which were receiving aid under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], and had had no income for such month other than that received as aid or assistance under a State plan approved under title I, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\].
 
@@ -858,7 +858,7 @@ Pub. L. 93–66, title II, §212, July 9, 1973, 87 Stat. 155, as amended by Pub.
 
 "(iii) Notwithstanding clause (i), the Commissioner may make supplementary payments on behalf of a State with funds appropriated for payment of supplemental security income benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\], and subsequently to be reimbursed for such payments by the State at such times as the Commissioner and State may agree. Such authority may be exercised only if extraordinary circumstances affecting a State's ability to make payment when required by clause (i) are determined by the Commissioner to exist.
 
-"(c)(1) Supplementary payments made pursuant to an agreement entered into under subsection (a) shall be excluded under section 1612(b)(6) of the Social Security Act \[42 U.S.C. 1382a(b)(6)\] (as in effect after December 1973) in determining income of individuals for purposes of title XVI of such Act \[42 U.S.C. 1381 et seq.\] (as so in effect).
+"(c)(1) Supplementary payments made pursuant to an agreement entered into under subsection (a) shall beexcluded under section 1612(b)(6) of the Social Security Act \[42 U.S.C. 1382a(b)(6)\] (as in effect after December 1973) in determining income of individuals for purposes of title XVI of such Act \[42 U.S.C. 1381 et seq.\] (as so in effect).
 
 "(2) Supplementary payments made by the Commissioner of Social Security (pursuant to an administration agreement entered into under subsection (b)) shall, for purposes of section 401 of the Social Security Amendments of 1972 \[set out as a note under section 1382e of this title\], be considered to be payments made under an agreement entered into under section 1616 of the Social Security Act \[42 U.S.C. 1382e\] (as enacted by section 301 of the Social Security Amendments of 1972); except that nothing in this paragraph shall be construed to waive, with respect to the payments so made by the Commissioner of Social Security, the provisions of subsection (b) of such section 401 \[set out as a note under section 1382e of this title\].
 
@@ -908,7 +908,7 @@ A State plan for aid to the aged, blind, or disabled, must—
 
 &emsp;(5) provide (A) such methods of administration (including methods relating to the establishment and maintenance of personnel standards on a merit basis, except that the Commissioner of Social Security shall exercise no authority with respect to the selection, tenure of office, and compensation of any individual employed in accordance with such methods) as are found by the Commissioner of Social Security to be necessary for the proper and efficient operation of the plan, and (B) for the training and effective use of paid subprofessional staff, with particular emphasis on the full-time or part-time employment of recipients and other persons of low income, as community service aides, in the administration of the plan and for the use of nonpaid or partially paid volunteers in a social service volunteer program in providing services to applicants and recipients and in assisting any advisory committees established by the State agency;
 
-&emsp;(6) provide that the State agency will make such reports, in such form and containing such information,as the Commissioner of Social Security may from time to time require, and comply with such provisions as the Commissioner of Social Security may from time to time find necessary to assure the correctness and verification of such reports;
+&emsp;(6) provide that the State agency will make such reports, in such form and containing such information, as the Commissioner of Social Security may from time to time require, and comply with such provisions as the Commissioner of Social Security may from time to time find necessary to assure the correctness and verification of such reports;
 
 &emsp;(7) provide safeguards which permit the use or disclosure of information concerning applicants or recipients only (A) to public officials who require such information in connection with their official duties, or (B) to other persons for purposes directly connected with the administration of the State plan;
 
@@ -952,7 +952,7 @@ The Commissioner of Social Security shall approve any plan which fulfills the co
 
 #### (c) Limitation on number of plans
 
-Subject to the last sentence of subsection (a) of this section, nothing in this subchapter shall be construed to permit a State to have in effect with respect to anyperiod more than one State plan approved under this subchapter.
+Subject to the last sentence of subsection (a) of this section, nothing in this subchapter shall be construed to permit a State to have in effect with respect to any period more than one State plan approved under this subchapter.
 
 > (Aug. 14, 1935, ch. 531, title XVI, §1602, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 198; amended Oct. 13, 1964, Pub. L. 88–650, §5(b), 78 Stat. 1078; July 30, 1965, Pub. L. 89–97, title II, §221(d)(3), title IV, §403(e), 79 Stat. 358, 418; Jan. 2, 1968, Pub. L. 90–248, title II, §§210(a)(5), 213(a)(4), 241(d), 81 Stat. 896, 898, 917; Oct. 30, 1972, Pub. L. 92–603, title IV, §§405(d), 406(d), 407(d), 410(d), 413(d), 86 Stat. 1488, 1489, 1491, 1492; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2184(d)(4), 95 Stat. 817; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2651(h), 98 Stat. 1150; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478; Aug. 22, 1996, Pub. L. 104–193, title I, §108(i), 110 Stat. 2169.)
 

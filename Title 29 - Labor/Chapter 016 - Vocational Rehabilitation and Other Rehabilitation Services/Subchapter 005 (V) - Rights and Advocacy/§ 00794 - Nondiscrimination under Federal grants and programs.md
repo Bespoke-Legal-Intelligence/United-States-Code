@@ -42,7 +42,7 @@ The standards used to determine whether this section has been violated in a comp
 
 The amendments to this section made by the Rehabilitation, Comprehensive Services, and Developmental Disabilities Act of 1978, referred to in subsec. (a), mean the amendments made by Pub. L. 95–602. See 1978 Amendments note below.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (d), is Pub. L. 101–336, July 26, 1990, 104Stat. 327. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (d), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Amendments
 

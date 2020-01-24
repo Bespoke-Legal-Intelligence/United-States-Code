@@ -104,7 +104,7 @@ Pub. L. 109–163 struck out "Territory," after "a State," in two places in intr
 
 Subsec. (a)(2). Pub. L. 109–364, §2822(a)(2), substituted "gas, water, sewer, and oil pipe lines" for "oil pipe lines".
 
-Subsec. (a)(13). Pub. L. 109–364, §2822(a)(3), substituted "the Secretary considers advisable" for "he considersadvisable, except a purpose covered by section 2669 of this title".
+Subsec. (a)(13). Pub. L. 109–364, §2822(a)(3), substituted "the Secretary considers advisable" for "he considers advisable, except a purpose covered by section 2669 of this title".
 
 Subsecs. (b) to (e). Pub. L. 109–364, §2822(b)(2)–(5), inserted subsec. headings.
 

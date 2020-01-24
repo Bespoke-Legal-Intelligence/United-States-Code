@@ -10,7 +10,7 @@ Any statute which authorizes—
 
 &emsp;(3) increases in salary on which benefits are computed;
 
-> is deemed to authorize appropriations to the Fund to finance the unfunded liability created by that statute, in 30 equal annual installments with interest computed at the rate used in the then most recent valuation of the System andwith the first payment thereof due as of the end of the fiscal year in which each new or liberalized benefit, extension of benefits, or increase in salary is effective.
+> is deemed to authorize appropriations to the Fund to finance the unfunded liability created by that statute, in 30 equal annual installments with interest computed at the rate used in the then most recent valuation of the System and with the first payment thereof due as of the end of the fiscal year in which each new or liberalized benefit, extension of benefits, or increase in salary is effective.
 
 #### (b) Authorization of appropriations to Fund
 

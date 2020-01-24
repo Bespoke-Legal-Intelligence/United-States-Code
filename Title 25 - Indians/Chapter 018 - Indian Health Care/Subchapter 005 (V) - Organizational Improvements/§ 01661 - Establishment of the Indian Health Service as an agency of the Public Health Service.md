@@ -90,7 +90,7 @@ The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq
 
 #### Codification
 
-Amendment by Pub. L. 111–148 is based on section 171 of title I of S. 1790, One Hundred Eleventh Congress, asreported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+Amendment by Pub. L. 111–148 is based on section 171 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 "On and after November 23, 1988,", referred to in subsec. (a)(1), was in the original "hereafter" and was translated as meaning the date of enactment of Pub. L. 100–713 which added this section rather than the date of enactment of Pub. L. 111–148, which amended this section generally, to reflect the probable intent of Congress.
 
@@ -100,7 +100,7 @@ A prior section 1661, Pub. L. 94–437, title VI, §601, Sept. 30, 1976, 90 Stat
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148 amended section generally, revising and restating provisions relating to establishment of the Indian Health Service as an agency of the Public Health Service and inserting additional provisions relating to responsibilities of the Director.
+<b>2010</b>—Pub. L. 111–148 amended section generally, revising and restating provisions relating to establishment of the Indian Health Service as an agency of thePublic Health Service and inserting additional provisions relating to responsibilities of the Director.
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–573, §602(c), inserted at end "Effective with respect to an individual appointed by the President, by and with the advice and consent of the Senate, after January 1, 1993, the term of service of the Director shall be 4 years. A Director may serve more than 1 term."
 

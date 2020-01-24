@@ -66,7 +66,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall proportionately reduce base acres on a farm for covered commodities for land that has been subdivided and developed for multiple residential units or other nonfarming uses if the size of the tracts and the density of the subdivision is such that the land is unlikely to return to the previous agricultural use, unless the producers on the farm demonstrate that the land—
+&emsp;&emsp;The Secretary shall proportionately reduce base acres on a farm for covered commodities for land that has been subdivided and developed for multiple residential unitsor other nonfarming uses if the size of the tracts and the density of the subdivision is such that the land is unlikely to return to the previous agricultural use, unless the producers on the farm demonstrate that the land—
 
 &emsp;&emsp;&emsp;(i) remains devoted to commercial agricultural production; or
 
@@ -112,7 +112,7 @@
 
 The date of enactment of this Act, referred to in subsec. (a)(1)(A), (B), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Food Security Act of 1985, referred to in subsec. (b)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 

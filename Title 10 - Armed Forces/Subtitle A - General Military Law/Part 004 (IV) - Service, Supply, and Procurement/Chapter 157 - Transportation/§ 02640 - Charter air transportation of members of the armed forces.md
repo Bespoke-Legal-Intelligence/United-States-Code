@@ -6,7 +6,7 @@ Requirements.—(1) The Secretary of Defense may not enter into a contract with 
 
 &emsp;(A) meets, at a minimum, the safety standards established by the Secretary of Transportation under chapter 447 of title 49;
 
-&emsp;(B) has at least 12 months of experience operating services in air transportation that aresubstantially equivalent to the service sought by the Department of Defense; and
+&emsp;(B) has at least 12 months of experience operating services in air transportation that are substantially equivalent to the service sought by the Department of Defense; and
 
 &emsp;(C) undergoes a technical safety evaluation.
 
@@ -108,7 +108,7 @@ Pub. L. 105–85, div. A, title X, §1075(b), Nov. 18, 1997, 111 Stat. 1911, pro
 
 #### Effective Date
 
-Pub. L. 99–661, div. A, title XII, §1204(c), Nov. 14, 1986, 100 Stat. 3971, provided that: "Section 2640 of title 10, United States Code, as added by subsection (a), shall apply only to contracts which are entered into on or after the date on which the regulations required by subsection (b) are prescribed \[set out below\]."
+Pub. L. 99–661, div. A, title XII, §1204(c), Nov. 14, 1986, 100 Stat. 3971, provided that: "Section 2640 of title 10,United States Code, as added by subsection (a), shall apply only to contracts which are entered into on or after the date on which the regulations required by subsection (b) are prescribed \[set out below\]."
 
 #### Regulations
 

@@ -68,7 +68,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 (2) Witnesses summoned before the Administrator shall be paid by the party at whose instance they were called the same fees and mileage that are paid witnesses in the courts of the United States.
 
-(3) A cease and desist order, suspension or revocation issued by the Administrator, after the hearing under this subsection is final agency action for purposes of chapter 7 of title 5. An adversely aggrieved party shall have 20 days from the date of issuance of the cease and desist order, suspension or revocation, to seek judicial review in an appropriate district court.
+(3) A cease and desist order, suspension or revocation issued by the Administrator, after the hearing under this subsection is final agency action for purposes of chapter 7 of title 5. An adversely aggrieved party shall have 20 days from the date of issuance of the cease and desistorder, suspension or revocation, to seek judicial review in an appropriate district court.
 
 #### (g) Removal or suspension of management official
 
@@ -142,11 +142,11 @@ If a small business lending company violates this chapter, the Administrator may
 
 &emsp;&emsp;&emsp;&emsp;(I) pending the completion of the administrative proceedings pursuant to a notice of intention to remove served under paragraph (2); and
 
-&emsp;&emsp;&emsp;&emsp;(II) until such time as the Administrator dismisses the charges specified inthe notice, or, if an order of removal or prohibition is issued against the management official, until the effective date of any such order.
+&emsp;&emsp;&emsp;&emsp;(II) until such time as the Administrator dismisses the charges specified in the notice, or, if an order of removal or prohibition is issued against the management official, until the effective date of any such order.
 
 #### (C) Judicial review of suspension prior to hearing
 
-&emsp;&emsp;Not later than 10 days after a management official is suspended or prohibited from participation under subparagraph (A), the management official may apply to an appropriate district court for a stay of the suspension or prohibition pending the completion of the administrative proceedings pursuant to a notice of intent to remove served upon the management official under paragraph (2).
+&emsp;&emsp;Not later than 10 days after a management official is suspended or prohibited from participation under subparagraph (A), the management official may apply to an appropriate district court for a stay of the suspension or prohibition pending the completion of the administrative proceedings pursuant to a notice of intent to remove served uponthe management official under paragraph (2).
 
 #### (4) Authority to suspend on criminal charges
 

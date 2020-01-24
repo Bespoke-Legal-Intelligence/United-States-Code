@@ -78,5 +78,5 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### Procurement for Construction
 
-Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1033, provided in part: "That during fiscal year 2012 and any succeeding fiscal year, a single procurement for construction of the National Museum of African American History and Culture, as authorized under section 8 of the National Museum of African American History and Culture Act (20 U.S.C. 80r–6), may be issued that includes the full scope of the project".
+Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1033, provided in part: "That during fiscal year 2012 and any succeeding fiscal year, a single procurement for construction of the National Museum of African American History and Culture, as authorized under section 8of the National Museum of African American History and Culture Act (20 U.S.C. 80r–6), may be issued that includes the full scope of the project".
 

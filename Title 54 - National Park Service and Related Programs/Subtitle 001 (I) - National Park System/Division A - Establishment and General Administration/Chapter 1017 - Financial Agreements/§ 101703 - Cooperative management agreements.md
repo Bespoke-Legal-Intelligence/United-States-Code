@@ -34,3 +34,7 @@ Pub. L. 91–383, §3 (matter before (a)), Aug. 18, 1970, 84 Stat. 826.
 
 Pub. L. 91–383, §3(<i>l</i>), as added Pub. L. 105–391, title VIII, §802(a), Nov. 13, 1998, 112 Stat. 3523.
 
+#### Authorizing Cooperative Management Agreements Between the District of Columbia and the Secretary of the Interior
+
+Pub. L. 116–9, title II, §2403, Mar. 12, 2019, 133 Stat. 747, provided that: "The Secretary \[of the Interior\] may enter into a cooperative management agreement with the District of Columbia in accordance with section 101703 of title 54, United States Code."
+

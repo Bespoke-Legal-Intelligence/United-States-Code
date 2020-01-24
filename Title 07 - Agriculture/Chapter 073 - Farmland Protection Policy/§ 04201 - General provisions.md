@@ -62,7 +62,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Farmland Protection
 
-Pub. L. 101–624, title XIV, ch. 2, §§1465–1470B, Nov. 28, 1990, 104 Stat. 3616–3619, as amended by Pub. L. 102–237, title II, §§201(b), (c), 203, Dec. 13, 1991, 105 Stat. 1847, 1848, provided that:
+Pub. L. 101–624, title XIV, ch. 2, §§1465–1470B, Nov. 28, 1990, 104 Stat. 3616–3619, as amended by Pub. L. 102–237,title II, §§201(b), (c), 203, Dec. 13, 1991, 105 Stat. 1847, 1848, provided that:
 
 #### "SEC. 1465. SHORT TITLE, PURPOSE, AND DEFINITION.
 
@@ -84,7 +84,7 @@ Allowable interest rate.—The term 'allowable interest rate' refers to the inte
 
 &emsp;"(2)
 
-Eligible loan.—The term 'eligible loan' means each loan made by lending institutions to each State trust fund, or to the State acting in conjunction with the State trust fund, to further the purposes of this chapter, and the proceeds from any issuance of obligations, or other bonded indebtedness, of any eligibleState, the State trust fund, or any agency of an eligible State, except that no eligible loan shall bear an interest rate in excess of 10 percent per year.
+Eligible loan.—The term 'eligible loan' means each loan made by lending institutions to each State trust fund, or to the State acting in conjunction with the State trust fund, to further the purposes of this chapter, and the proceeds from any issuance of obligations, or other bonded indebtedness, of any eligible State, the State trust fund, or any agency of an eligible State, except that no eligible loan shall bear an interest rate in excess of 10 percent per year.
 
 &emsp;"(3)
 
@@ -180,7 +180,7 @@ Regulations.—Except regarding the eligible State described in section 1465(c)(
 
 &emsp;"(5) requirements to prevent program abuse and procedures to recover improperly obtained funds;
 
-&emsp;"(6) rules permitting State trust funds to act as revolving funds or to otherwise accumulate additionalcapital, based on investments, to be subsequently used to promote the purposes of this chapter; and
+&emsp;"(6) rules permitting State trust funds to act as revolving funds or to otherwise accumulate additional capital, based on investments, to be subsequently used to promote the purposes of this chapter; and
 
 &emsp;"(7) any other rules necessary and appropriate to carry out the program.
 

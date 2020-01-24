@@ -168,7 +168,7 @@ Submission.—The Secretary shall submit to Congress a report setting forth the 
 
 Matters to Be Included.—The strategy under subsection (b) shall include the following:
 
-&emsp;"(1) A plan for providing funds over the period of the future-years defense program for the developmentof a robust open-source intelligence capability for the Department of Defense, with particular emphasis on exploitation and dissemination.
+&emsp;"(1) A plan for providing funds over the period of the future-years defense program for the development of a robust open-source intelligence capability for the Department of Defense, with particular emphasis on exploitation and dissemination.
 
 &emsp;"(2) A description of how management of the collection of open-source intelligence is currently conducted within the Department of Defense and how that management can be improved.
 

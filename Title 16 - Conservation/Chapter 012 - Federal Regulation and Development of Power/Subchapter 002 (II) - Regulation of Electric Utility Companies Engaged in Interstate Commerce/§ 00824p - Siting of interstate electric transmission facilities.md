@@ -46,7 +46,7 @@ Except as provided in subsection (i), the Commission may, after notice and an op
 
 &emsp;(4) the proposed construction or modification will significantly reduce transmission congestion in interstate commerce and protects or benefits consumers;
 
-&emsp;(5) the proposed construction or modification is consistent with sound national energy policy and will enhance energy independence; and
+&emsp;(5) the proposed construction or modification is consistent with sound national energypolicy and will enhance energy independence; and
 
 &emsp;(6) the proposed modification will maximize, to the extent reasonable and economical, the transmission capabilities of existing towers or structures.
 
@@ -112,7 +112,7 @@ Nothing in this section precludes any person from constructing or modifying any 
 
 &emsp;(ii) key issues of concern to the agencies and public.
 
-(5)(A) As lead agency head, the Secretary, in consultation with the affected agencies, shall prepare a single environmental review document, which shall be used as the basis for all decisions on the proposed project under Federal law.
+(5)(A) As lead agency head, the Secretary, in consultation with the affected agencies, shallprepare a single environmental review document, which shall be used as the basis for all decisions on the proposed project under Federal law.
 
 (B) The Secretary and the heads of other agencies shall streamline the review and permitting of transmission within corridors designated under section 503 of the Federal Land Policy and Management Act <sup>1</sup> (43 U.S.C. 1763) by fully taking into account prior analyses and decisions relating to the corridors.
 

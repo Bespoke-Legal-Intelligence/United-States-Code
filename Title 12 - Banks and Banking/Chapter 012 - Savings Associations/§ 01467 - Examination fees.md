@@ -94,7 +94,7 @@ The appropriate Federal banking agency may assess against an institution fees to
 
 #### (l) Working capital
 
-The appropriate Federal banking agency is authorized to impose fees and assessments pursuant to subsections (a), (b), (e), and (k) of this section, in excess of actual expenses for any given year, to permit the appropriate Federal banking agency to maintain a working capitalfund. The appropriate Federal banking agency shall remit to the payors of such fees and assessments any funds collected in excess of what he deems necessary to maintain such working capital fund.
+The appropriate Federal banking agency is authorized to impose fees and assessments pursuant to subsections (a), (b), (e), and (k) of this section, in excess of actual expenses for any given year, to permit the appropriate Federal banking agency to maintain a working capital fund. The appropriate Federal banking agency shall remit to the payors of such fees and assessments any funds collected in excess of what he deems necessary to maintain such working capital fund.
 
 #### (m) Use of funds
 
@@ -132,7 +132,7 @@ Subsec. (h). Pub. L. 111–203, §369(7)(I), substituted "appropriate Federal ba
 
 Subsec. (i). Pub. L. 111–203, §369(7)(F), substituted "appropriate Federal banking agency" for "Director" wherever appearing.
 
-Subsec. (j). Pub. L. 111–203, §369(7)(I), substituted "The appropriate Federal banking agency" for "The Director" and "submits to the appropriate Federal banking agency" for "submits to the Director".
+Subsec. (j). Pub. L. 111–203, §369(7)(I), substituted "The appropriate Federal banking agency" for "TheDirector" and "submits to the appropriate Federal banking agency" for "submits to the Director".
 
 Pub. L. 111–203, §369(7)(G), substituted "sole discretion of the appropriate Federal banking agency" for "Director's sole discretion".
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 101–73 relating to civil penalties applicable with respec
 
 Pub. L. 100–86, title IV, §402(c), Aug. 10, 1987, 101 Stat. 608, provided that: "Not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Aug. 10, 1987\]—
 
-&emsp;"(1) the Federal Home Loan Bank Board shall submit a copy of the proposed regulations required to beprescribed under the amendment made by subsection (a) \[enacting this section\] to the Congress; and
+&emsp;"(1) the Federal Home Loan Bank Board shall submit a copy of the proposed regulations required to be prescribed under the amendment made by subsection (a) \[enacting this section\] to the Congress; and
 
 &emsp;"(2) the Federal Savings and Loan Insurance Corporation shall submit a copy of the proposed regulations required to be prescribed under the amendment made by subsection (b) \[enacting section 1730h of this title\] to the Congress."
 

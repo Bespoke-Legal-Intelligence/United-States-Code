@@ -22,7 +22,7 @@ Any person, upon whom any demand under section 1312 of this title for the produc
 
 (1) Whenever any attorney of the Department of Justice has been designated to appear before any court, grand jury, or Federal administrative or regulatory agency in any case or proceeding, the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony may deliver to such attorney such material, answers, or transcripts for official use in connection with any such case, grand jury, or proceeding as such attorney determines to be required. Upon the completion of any such case, grand jury, or proceeding, such attorney shall return to the custodian any such material, answers, or transcripts so delivered which have not passed into the control of such court, grand jury, or agency through the introduction thereof into the record of such case or proceeding.
 
-(2) The custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony may deliver to the Federal Trade Commission, in response to a written request, copies of such material, answers, or transcripts for use in connection with an investigation or proceeding under the Commission's jurisdiction. Such material, answers, or transcripts may only be used by the Commission in such manner andsubject to such conditions as apply to the Department of Justice under this chapter.
+(2) The custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony may deliver to the Federal Trade Commission, in response to a written request, copies of such material, answers, or transcripts for use in connection with an investigation or proceeding under the Commission's jurisdiction. Such material, answers, or transcripts may only be used by the Commission in such manner and subject to such conditions as apply to the Department of Justice under this chapter.
 
 #### (e) Return of material to producer
 
@@ -48,7 +48,7 @@ This chapter, referred to in subsecs. (c), (e), and (f), was in the original "th
 
 #### Amendments
 
-<b>1980</b>—Subsec. (c)(2). Pub. L. 96–349, §7(a)(2), provided for use of copies of documentary material by agents of the Department of Justice, including use by such agents in connection with the taking of oral testimony.
+<b>1980</b>—Subsec. (c)(2). Pub. L. 96–349, §7(a)(2), provided for use of copies of documentary material by agents ofthe Department of Justice, including use by such agents in connection with the taking of oral testimony.
 
 Subsec. (c)(3). Pub. L. 96–349, §§2(b)(4), 7(a)(2), inserted ", and, in the case of any product of discovery produced pursuant to an express demand for such material, of the person from whom the discovery was obtained" before ", by any individual" and reference to "agent" of the Department of Justice.
 

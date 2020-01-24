@@ -44,7 +44,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;Not later than 2 years after the effective date specified in section 455,<sup>1</sup> the Secretary shall submit a report to Congress on the implementation of such program.
+&emsp;&emsp;Not later than 2 years after the effective date specified in section 455,<sup>1</sup> the Secretaryshall submit a report to Congress on the implementation of such program.
 
 #### (5) Pilot initiatives for backlog elimination
 
@@ -138,7 +138,7 @@ Bureau of Border Security, referred to in subsecs. (a)(2)(C), (3)(C), and (c)(2)
 
 #### Termination Date of 2008 Amendment
 
-Pub. L. 110–382, §4, Oct. 9, 2008, 122 Stat. 4089, provided that: "This Act \[amending this section and section 1439 of Title 8, Aliens and Nationality, and enacting provisions set out as notes under this section and section 1101 of Title 8\] and the amendments made by this Act are repealed on the date that is 5 years after the date of the enactment of this Act \[Oct. 9, 2008\]."
+Pub. L. 110–382, §4, Oct. 9, 2008, 122 Stat. 4089, provided that: "This Act \[amending this section and section 1439of Title 8, Aliens and Nationality, and enacting provisions set out as notes under this section and section 1101 of Title 8\] and the amendments made by this Act are repealed on the date that is 5 years after the date of the enactment of this Act \[Oct. 9, 2008\]."
 
 #### Effective Date
 

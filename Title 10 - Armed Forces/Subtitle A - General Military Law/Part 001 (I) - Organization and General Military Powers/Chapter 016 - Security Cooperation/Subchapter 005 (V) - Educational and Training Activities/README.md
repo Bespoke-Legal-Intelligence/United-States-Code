@@ -12,18 +12,14 @@
 | [348\.](%C2%A7%2000348%20-%20Aviation%20Leadership%20Program.md) | Aviation Leadership Program. |
 | [349\.](%C2%A7%2000349%20-%20Inter-American%20Air%20Forces%20Academy.md) | Inter-American Air Forces Academy. |
 | [350\.](%C2%A7%2000350%20-%20Inter-European%20Air%20Forces%20Academy.md) | Inter-European Air Forces Academy. |
-| Sec. <sup>1</sup> |  |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
 | [351\.](%C2%A7%2000351%20-%20Inter-American%20Defense%20College.md) | Inter-American Defense College. |
 | [352\.](%C2%A7%2000352%20-%20Naval%20Small%20Craft%20Instruction%20and%20Technical%20Training%20School.md) | Naval Small Craft Instruction and Technical Training School. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title XVII, §1731(a)(15), Dec. 20, 2019, 133 Stat. 1813, struck out "Sec." after item 350.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title XII, §§1204(c)(1)(C), 1207(b), 1208(a)(2), 1209(b)(2), Aug. 13, 2018, 132 Stat. 2017, 2020, 2021, 2023, substituted "Centers for Security Studies" for "centers for security studies" in item 342, inserted "and Irregular Warfare" after "Terrorism" in item 345, and added items 351 and 352.
 
@@ -104,8 +100,6 @@ Appropriate committees of congress defined.—In this subsection, the term 'appr
 &emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
 
 &emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives."
-
-<i><sup>1</sup></i><i> So in original.</i>
 
 
 ---

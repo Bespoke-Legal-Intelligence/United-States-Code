@@ -20,7 +20,7 @@ A State child health plan shall include a description, consistent with the requi
 
 &emsp;&emsp;(A) to assure the quality and appropriateness of care, particularly with respect to well-baby care, well-child care, and immunizations provided under the plan;
 
-&emsp;&emsp;(B) to assure access to covered services, including emergency services and services described in section 1397cc(c)(5) of this title; and
+&emsp;&emsp;(B) to assure access to covered services, including emergency services and services described in paragraphs (5) and (6) of section 1397cc(c) of this title; and
 
 &emsp;&emsp;(C) to ensure that the State agency involved is in compliance with subparagraphs (A), (B), and (C) of section 1320a–7n(b)(2) of this title.
 
@@ -44,7 +44,7 @@ A State child health plan shall include a description, consistent with the requi
 
 &emsp;&emsp;&emsp;(iv) at State option, may not apply a waiting period in the case of a child provided dental-only supplemental coverage under section 1397jj(b)(5) of this title; and
 
-&emsp;&emsp;&emsp;(v) shall, beginning January 1, 2014, use modified adjusted gross income and household income (as defined in section 36B(d)(2) of the Internal Revenue Code of 1986) to determine eligibility for child health assistance under the State child health plan or under any waiver of such plan and for any other purpose applicable under the plan or waiver for which a determination of income is required, including with respect tothe imposition of premiums and cost-sharing, consistent with section 1396a(e)(14) of this title.
+&emsp;&emsp;&emsp;(v) shall, beginning January 1, 2014, use modified adjusted gross income and household income (as defined in section 36B(d)(2) of the Internal Revenue Code of 1986) to determine eligibility for child health assistance under the State child health plan or under any waiver of such plan and for any other purpose applicable under the plan or waiver for which a determination of income is required, including with respect to the imposition of premiums and cost-sharing, consistent with section 1396a(e)(14) of this title.
 
 #### (2) Methodology
 
@@ -95,10 +95,6 @@ A State child health plan shall include a description of the procedures to be us
 &emsp;In the case of a State that provides for premium assistance subsidies under the State child health plan in accordance with paragraph (2)(B), (3), or (10) of section 1397ee(c) of this title, or a waiver approved under section 1315 of this title, outreach, education, and enrollment assistance for families of children likely to be eligible for such subsidies, to inform such families of the availability of, and to assist them in enrolling their children in, such subsidies, and for employers likely to provide coverage that is eligible for such subsidies, including the specific, significant resources the State intends to apply to educate employers about the availability of premium assistance subsidies under the State child health plan.
 
 (Aug. 14, 1935, ch. 531, title XXI, §2102, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, §111(b)(2), title II, §§201(b)(2)(B)(i), 212, title III, §302(a), title V, §501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86; Pub. L. 111–148, title II, §2101(d)(1), Mar. 23, 2010, 124 Stat. 287; Pub. L. 111–152, title I, §1004(b)(2)(A), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 114–198, title VII, §706(b)(2), July 22, 2016, 130 Stat. 754; Pub. L. 115–271, title V, §5022(c), Oct. 24, 2018, 132 Stat. 3964.)
-
-#### Amendment of Subsection (a)(7)(B)
-
-<i>Pub. L. 115–271, title V, §5022(c), (e), Oct. 24, 2018, 132 Stat. 3964, 3965, provided that, effective with respect to child health assistance provided on or after the date that is 1 year after Oct. 24, 2018, with exception if State legislation required, subsection (a)(7)(B) of this section is amended by striking "section 1397cc(c)(5)" and inserting "paragraphs (5) and (6) of section 1397cc(c)". See 2018 Amendment note below.</i>
 
 #### References in Text
 

@@ -40,7 +40,7 @@ Subsec. (b). Pub. L. 101–189, §515(a)(4), substituted "director of admissions
 
 <b>1984</b>—Subsecs. (a), (b). Pub. L. 98–525 substituted "on which he would have been promoted had he been selected for promotion from among officers in the promotion zone," for "when a regular officer, junior to him on the promotion list or active-duty list on which his name was carried before his appointment as a professor, is promoted to the regular grade of colonel,".
 
-<b>1980</b>—Subsecs. (a), (b). Pub. L. 96–513, §504(24), substituted "after the date when a regular officer, junior to him on the promotion list or active-duty list onwhich his name was carried" for "after the date when a promotion-list officer, junior to him on the promotion list on which his name was carried".
+<b>1980</b>—Subsecs. (a), (b). Pub. L. 96–513, §504(24), substituted "after the date when a regular officer, junior to him on the promotion list or active-duty list on which his name was carried" for "after the date when a promotion-list officer, junior to him on the promotion list on which his name was carried".
 
 Subsec. (c). Pub. L. 96–513, §218(b), struck out subsec. (c) which provided that, unless he is serving in a higher grade, an officer detailed to perform the duties of registrar has, while performing those duties, the temporary grade of lieutenant colonel and, after performing those duties for a period of six years, has the temporary grade of colonel.
 

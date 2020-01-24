@@ -22,7 +22,7 @@ Ratification of enrollment corrections and printed enrollment.—
 
 &emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), the enrollment corrections noted in footnotes numbered 9 through 72 of OBRA are hereby ratified and shall be considered to have been enacted as part of OBRA. The printed enrollment of title IV of OBRA \[Pub. L. 100–203, title IV, Dec. 22, 1987, 101 Stat. 1330–39\], as prepared and printed under section 8004 of OBRA \[section 8004 of Pub. L. 100–203, set out below\] (including the footnote corrections described in subparagraph (B) and as incorporating the clarifications described in subparagraph (C)), shall be deemed to constitute title IV of OBRA as enacted.
+In general.—Except as provided in subparagraph (B), the enrollment corrections noted in footnotes numbered 9 through 72 of OBRA are hereby ratified and shall be considered to have been enactedas part of OBRA. The printed enrollment of title IV of OBRA \[Pub. L. 100–203, title IV, Dec. 22, 1987, 101 Stat. 1330–39\], as prepared and printed under section 8004 of OBRA \[section 8004 of Pub. L. 100–203, set out below\] (including the footnote corrections described in subparagraph (B) and as incorporating the clarifications described in subparagraph (C)), shall be deemed to constitute title IV of OBRA as enacted.
 
 &emsp;"(B)
 
@@ -40,7 +40,7 @@ Clarifications of illegible matter.—(i) Section 1842(n)(1)(A) of the Social Se
 
 #### Printed Enrollments Prepared After Enactment
 
-Pub. L. 106–93, Nov. 10, 1999, 113 Stat. 1310, provided: "That the provisions of sections 106 and 107 of title 1, United States Code, are waived for the remainder of the first session of the One Hundred Sixth Congress with respect to the printing (on parchment or otherwise) of the enrollment of any bill or joint resolution making general appropriations or continuing appropriations forthe fiscal year ending September 30, 2000. The enrollment of any such bill or joint resolution shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment."
+Pub. L. 106–93, Nov. 10, 1999, 113 Stat. 1310, provided: "That the provisions of sections 106 and 107 of title 1, United States Code, are waived for the remainder of the first session of the One Hundred Sixth Congress with respect to the printing (on parchment or otherwise) of the enrollment of any bill or joint resolution making general appropriations or continuing appropriations for the fiscal year ending September 30, 2000. The enrollment of any such bill or joint resolution shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment."
 
 Pub. L. 105–253, Oct. 12, 1998, 112 Stat. 1887, provided: "That the provisions of sections 106 and 107 of title 1, United States Code, are waived for the remainder of the One Hundred Fifth Congress with respect to the printing (on parchment or otherwise) of the enrollment of any bill or joint resolution making general appropriations or continuing appropriations for the fiscal year ending September 30, 1999. The enrollment of any such bill or joint resolution shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment."
 
@@ -102,7 +102,7 @@ Reconciliation bill.—The term 'reconciliation bill' means a bill that is a rec
 
 Identical provisions were contained in Pub. L. 104–54, title II, §§201, 202, Nov. 19, 1995, 109 Stat. 545.
 
-Pub. L. 102–387, Oct. 6, 1992, 106 Stat. 1519, provided: "That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any appropriation bill of the One Hundred Second Congress hereafter to be presented to the President. Such an enrollment shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment. As used in this resolution, the term 'appropriation bill' means a bill or joint resolution making or continuing appropriations for the fiscal year ending September 30, 1993."
+Pub. L. 102–387, Oct. 6, 1992, 106 Stat. 1519, provided: "That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any appropriation bill of the One Hundred Second Congress hereafter to be presented to the President. Such an enrollment shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment. As used in this resolution, the term 'appropriation bill' meansa bill or joint resolution making or continuing appropriations for the fiscal year ending September 30, 1993."
 
 Pub. L. 102–260, Mar. 20, 1992, 106 Stat. 85, provided that:
 
@@ -134,7 +134,7 @@ Preparation.—
 
 &emsp;"(1)
 
-In general.—If S. 2830 is presented to the President in the form of a hand enrollment pursuantto the authority of section 1, then upon the enactment of that bill the Secretary of the Senate shall prepare a printed enrollment of the bill as in the case of a bill to which sections 106 and 107 of title 1, United States Code, apply.
+In general.—If S. 2830 is presented to the President in the form of a hand enrollment pursuant to the authority of section 1, then upon the enactment of that bill the Secretary of the Senate shall prepare a printed enrollment of the bill as in the case of a bill to which sections 106 and 107 of title 1, United States Code, apply.
 
 &emsp;"(2)
 
@@ -246,7 +246,7 @@ Limited stylistic corrections.—A printed enrollment prepared pursuant to parag
 
 "(b)
 
-Transmittal to President.—A printed enrollment prepared pursuant to subsection (a) shall besigned by the presiding officer of each House of Congress as a correct printing of the hand enrollment and shall be transmitted to the President.
+Transmittal to President.—A printed enrollment prepared pursuant to subsection (a) shall be signed by the presiding officer of each House of Congress as a correct printing of the hand enrollment and shall be transmitted to the President.
 
 "(c)
 
@@ -296,7 +296,7 @@ Pub. L. 100–202, §101(n), Dec. 22, 1987, 101 Stat. 1329–432, provided that:
 
 "(5) A printed enrollment certified by the President under subsection (n)(4) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing this resolution for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (n)(4) in lieu of the hand enrollment.
 
-"(6) As used in this section, the term 'hand enrollment' means enrollment in a form other than the printed form required by sections 106 and 107 of title 1, United States Code, as authorized by the joint resolution entitled 'Joint resolution authorizing the hand enrollment of the budget reconciliation bill and of the full-year continuing resolution for fiscal year 1988', approved December 1987 (H.J. Res. 426 of the 100th Congress) \[Pub. L. 100–199, Dec. 21, 1987, 101 Stat. 1326\]."
+"(6) As used in this section, the term 'hand enrollment' means enrollment in a form other than the printed form required by sections 106 and 107 of title 1, United States Code, as authorized by the joint resolution entitled 'Joint resolution authorizing the hand enrollment of the budget reconciliation bill and of thefull-year continuing resolution for fiscal year 1988', approved December 1987 (H.J. Res. 426 of the 100th Congress) \[Pub. L. 100–199, Dec. 21, 1987, 101 Stat. 1326\]."
 
 #### Certification of Printed Enrollments of Certain Public Laws
 
@@ -316,7 +316,7 @@ Memorandum of the President of the United States, Dec. 12, 1988, 53 F.R. 50373, 
 
 Memorandum for the Archivist of the United States
 
-By the authority vested in me as President by the Constitution and laws of the United States, including Section 301 of Title 3 of the United States Code, I hereby authorize you to ascertain whether the printed enrollments of H.R. 4637, the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989 (Public Law 100–461), H.R. 4776, the District of Columbia Appropriations Act, 1989 (Public Law 100–462), and H.R. 4781, the Department of Defense Appropriations Act, 1989 (Public Law 100–463), are correct printings of the hand enrollments, which were approved onOctober 1, 1988, and if so to make on my behalf the certifications required by Section 2(c) of H.J. Res. 665 (Public Law 100–454) \[set out as a note above\].
+By the authority vested in me as President by the Constitution and laws of the United States, including Section 301 of Title 3 of the United States Code, I hereby authorize you to ascertain whether the printed enrollments of H.R. 4637, the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989 (Public Law 100–461), H.R. 4776, the District of Columbia Appropriations Act, 1989 (Public Law 100–462), and H.R. 4781, the Department of Defense Appropriations Act, 1989 (Public Law 100–463), are correct printings of the hand enrollments, which were approved on October 1, 1988, and if so to make on my behalf the certifications required by Section 2(c) of H.J. Res. 665 (Public Law 100–454) \[set out as a note above\].
 
 Attached are the printed enrollments of H.R. 4637, H.R. 4776, and H.R. 4781, which were received at the White House on December 1, 1988.
 

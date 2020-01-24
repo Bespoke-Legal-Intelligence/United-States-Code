@@ -38,7 +38,7 @@ In this section, the term "eligible institution" means an institution of higher 
 
 &emsp;&emsp;&emsp;(i) A graduate school or department of such institution.
 
-&emsp;&emsp;&emsp;(ii) A graduate school or department of such institution in collaboration with an undergraduate college or school of such institution.
+&emsp;&emsp;&emsp;(ii) A graduate school or department of such institution in collaboration with anundergraduate college or school of such institution.
 
 &emsp;&emsp;&emsp;(iii) An organizational unit within such institution that offers a program of postbaccalaureate study leading to a graduate degree, including an interdisciplinary or an interdepartmental program.
 

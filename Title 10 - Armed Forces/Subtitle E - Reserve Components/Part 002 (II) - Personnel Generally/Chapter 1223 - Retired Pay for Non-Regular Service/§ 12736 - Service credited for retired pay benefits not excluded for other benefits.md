@@ -2,7 +2,7 @@
 
 No period of service included wholly or partly in determining a person's right to, or the amount of, retired pay under this chapter may be excluded in determining his eligibility for any annuity, pension, or old-age benefit, under any other law, on account of civilian employment by the United States or otherwise, or in determining the amount payable under that law, if that service is otherwise properly credited under it.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 104, §1336; renumbered §12736 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3003.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 104, §1336; renumbered §12736 and amended Pub. L. 103–337,div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3003.)
 
 Historical and Revision Notes
 

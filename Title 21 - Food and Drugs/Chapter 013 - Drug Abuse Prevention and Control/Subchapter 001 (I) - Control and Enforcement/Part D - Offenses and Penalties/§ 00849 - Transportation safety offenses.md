@@ -8,7 +8,7 @@ In this section—
 
 &emsp;"truck stop" means a facility (including any parking lot appurtenant thereto) that—
 
-&emsp;&emsp;(A) has the capacity to provide fuel or service, or both, to any commercial motorvehicle (as defined in section 31301 of title 49), operating in commerce (as defined in that section); and
+&emsp;&emsp;(A) has the capacity to provide fuel or service, or both, to any commercial motor vehicle (as defined in section 31301 of title 49), operating in commerce (as defined in that section); and
 
 &emsp;&emsp;(B) is located within 2,500 feet of the National System of Interstate and Defense Highways or the Federal-Aid Primary System.
 

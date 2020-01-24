@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—An officer serving in a grade below the grade of lieutenant general or, in the case of the Navy, vice admiral, who has been selected for appointment to the grade of lieutenant general or general, or, in the case of theNavy, vice admiral or admiral, and an officer serving in the grade of lieutenant general or vice admiral who has been selected for appointment to the grade of general or admiral, may be authorized, under regulations and policies of the Department of Defense and subject to subsection (b), to wear the insignia for that higher grade for a period of up to 14 days before assuming the duties of a position for which the higher grade is authorized. An officer who is so authorized to wear the insignia of a higher grade is said to be "frocked" to that grade.
+Authority.—An officer serving in a grade below the grade of lieutenant general or, in the case of the Navy, vice admiral, who has been selected for appointment to the grade of lieutenant general or general, or, in the case of the Navy, vice admiral or admiral, and an officer serving in the grade of lieutenant general or vice admiral who has been selected for appointment to the grade of general or admiral, may be authorized, under regulations and policies of the Department of Defense and subject to subsection (b), to wear the insignia for that higher grade for a period of up to 14 days before assuming the duties of a position for which the higher grade is authorized. An officer who is so authorized to wear the insignia of a higher grade is said to be "frocked" to that grade.
 
 (b)
 
@@ -32,7 +32,7 @@ Benefits Not to Be Construed as Accruing.—(1) Authority provided to an officer
 
 (d)
 
-Limitation on Number of Officers Frocked.—The total number of officers who are authorized to wear the insignia for a higher grade under this section shall count against the limitation in section 777(d) of this title on the total number of officers authorized to wear the insignia of a higher grade.
+Limitation on Number of Officers Frocked.—The total number of officers who are authorized to wear the insignia for a highergrade under this section shall count against the limitation in section 777(d) of this title on the total number of officers authorized to wear the insignia of a higher grade.
 
 (Added Pub. L. 111–383, div. A, title V, §505(a)(1), Jan. 7, 2011, 124 Stat. 4208.)
 

@@ -12,5 +12,5 @@ Costs.—Payments for entitlement to educational assistance earned under this ch
 
 #### Effective Date
 
-Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008Amendment note under section 16163 of Title 10, Armed Forces.
 

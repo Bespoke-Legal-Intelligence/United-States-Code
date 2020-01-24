@@ -40,7 +40,7 @@ Capitol Police.—The United States Capitol Police may enter into—
 
 Architect of the Capitol.—The Architect of the Capitol may enter into—
 
-&emsp;(1) contracts for the procurement of severable services for a period that begins in one fiscal year and ends in the next fiscal year to the same extent as the head of an executive agency under the authority of section 3902 of this title; and
+&emsp;(1) contracts for the procurement of severable services for a period that begins in one fiscal year and ends in the next fiscal year to the same extent as the head of an executiveagency under the authority of section 3902 of this title; and
 
 &emsp;(2) multiyear contracts for the acquisitions of property and nonaudit-related services to the same extent as executive agencies under the authority of section 3903 of this title.
 

@@ -80,7 +80,7 @@ In subsection (a), the words "the provisions of this subsection shall not apply 
 
 #### References in Text
 
-Section 25(c)(1) of the Office of Federal Procurement Policy Act, referred to in subsec. (d)(2)(D), was classified to section 421(c)(1) of former Title 41, Public Contracts, and was repealed and restated as section 1303(a)(1) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Fordisposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+Section 25(c)(1) of the Office of Federal Procurement Policy Act, referred to in subsec. (d)(2)(D), was classified to section 421(c)(1) of former Title 41, Public Contracts, and was repealed and restated as section 1303(a)(1) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 #### Amendments
 

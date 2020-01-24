@@ -44,7 +44,7 @@ Pavement standards.—
 
 &emsp;&emsp;(A)
 
-Technical assistance.—At the request of a State, the Secretary shall, not later than 30 days after the date of the request, provide technical assistance to the State in developing standards, acceptable to the Secretary under subparagraph (B), for pavement on nonprimary public-use airports in the State.
+Technical assistance.—At the request of a State, the Secretary shall, not laterthan 30 days after the date of the request, provide technical assistance to the State in developing standards, acceptable to the Secretary under subparagraph (B), for pavement on nonprimary public-use airports in the State.
 
 &emsp;&emsp;(B)
 

@@ -8,7 +8,7 @@ Subject to the limitations contained in subsection (b), the corporation shall gu
 
 (1) Except to the extent provided in paragraph (7)—
 
-&emsp;(A) no benefits provided by a plan which has been in effect for less than 60 months at the time the plan terminates shall be guaranteed under this section, and
+&emsp;(A) no benefits provided by a plan which has been in effect for less than 60 months at thetime the plan terminates shall be guaranteed under this section, and
 
 &emsp;(B) any increase in the amount of benefits under a plan resulting from a plan amendment which was made, or became effective, whichever is later, within 60 months before the date on which the plan terminates shall be disregarded.
 
@@ -20,7 +20,7 @@ Subject to the limitations contained in subsection (b), the corporation shall gu
 
 &emsp;(B) $750 multiplied by a fraction, the numerator of which is the contribution and benefit base (determined under section 230 of the Social Security Act \[42 U.S.C. 430\]) in effect at the time the plan terminates and the denominator of which is such contribution and benefit base in effect in calendar year 1974.
 
-> The provisions of this paragraph do not apply to non-basic benefits. The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq.; 1381 et seq.\], and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.
+> The provisions of this paragraph do not apply to non-basic benefits. The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq.; 1381 et seq.\], and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph <sup>1</sup> shall continue to apply.
 
 (4)(A) The actuarial value of a benefit, for purposes of this subsection, shall be determined in accordance with regulations prescribed by the corporation.
 
@@ -50,7 +50,7 @@ Subject to the limitations contained in subsection (b), the corporation shall gu
 
 (6)(A) No benefits accrued under a plan after the date on which the Secretary of the Treasury issues notice that he has determined that any trust which is a part of a plan does not meet the requirements of section 401(a) of title 26, or that the plan does not meet the requirements of section 404(a)(2) of title 26, are guaranteed under this section unless such determination is erroneous. This subparagraph does not apply if the Secretary subsequently issues a notice that such trust meets the requirements of section 401(a) of title 26 or that the plan meets the requirements of section 404(a)(2) of title 26 and if the Secretary determines that the trust or plan has taken action necessary to meet such requirements during the period between the issuance of the notice referred to in the preceding sentence and the issuance of the notice referred to in this sentence.
 
-(B) No benefits accrued under a plan after the date on which an amendment of the plan is adopted which causes the Secretary of the Treasury to determine that any trust under the plan has ceased to meet the requirements of section 401(a) of title 26 or that the plan has ceased to meet the requirements of section 404(a)(2) of title 26, are guaranteed under this section unless such determination is erroneous. This subparagraph shall not apply if the amendment is revoked as of the date it was first effective or amended to comply with such requirements.
+(B) No benefits accrued under a plan after the date on which an amendment of the plan is adopted which causes the Secretary of the Treasury to determine that any trust under the plan has ceased to meet the requirements of section 401(a) of title 26 or that the plan has ceased to meet the requirements of section 404(a)(2) oftitle 26, are guaranteed under this section unless such determination is erroneous. This subparagraph shall not apply if the amendment is revoked as of the date it was first effective or amended to comply with such requirements.
 
 (7) Benefits described in paragraph (1) are guaranteed only to the extent of the greater of—
 
@@ -112,7 +112,7 @@ If a contributing sponsor of a plan has filed or has had filed against such pers
 
 #### (h) Special rule for plans electing certain funding requirements
 
-If any plan makes an election under section 402(a)(1) of the Pension Protection Act of 2006 and is terminated effective before the end of the 10-year period beginning on the first day of the first applicable plan year—
+If any plan makes an election under section 402(a)(1) of the Pension Protection Act of 2006and is terminated effective before the end of the 10-year period beginning on the first day of the first applicable plan year—
 
 &emsp;(1) this section shall be applied—
 
@@ -148,7 +148,7 @@ Subsec. (c)(3)(A). Pub. L. 109–280, §408(b)(1), amended subpar. (A) generally
 
 Subsec. (c)(3)(B)(ii). Pub. L. 109–280, §408(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "notices of intent to terminate were provided after December 17, 1987, and during the 5-Federal fiscal year period ending with the fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate with respect to the plan termination for which the recovery ratio is being determined."
 
-Subsec. (g). Pub. L. 109–280, §404(a), which directed amendment of this section, as amended by Pub. L.109–280, by adding subsec. (g) at the end, was executed by adding subsec. (g) after subsec. (f) and before subsec. (h) to reflect the probable intent of Congress.
+Subsec. (g). Pub. L. 109–280, §404(a), which directed amendment of this section, as amended by Pub. L. 109–280, by adding subsec. (g) at the end, was executed by adding subsec. (g) after subsec. (f) and before subsec. (h) to reflect the probable intent of Congress.
 
 Subsec. (h). Pub. L. 109–280, §402(g)(2)(A), added subsec. (h).
 
@@ -170,7 +170,7 @@ Subsec. (c)(3)(B)(ii). Pub. L. 101–239, §7881(f)(5), inserted before period a
 
 <b>1987</b>—Subsecs. (c) to (e). Pub. L. 100–203 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-Subsec. (b)(7). Pub. L. 99–272, §11016(c)(8), in provisions following subpar. (B) substituted "12 months beginning with" for "12 months following".
+<b>1986</b>—Subsec. (b)(7). Pub. L. 99–272, §11016(c)(8), in provisions following subpar. (B) substituted "12 months beginning with" for "12 months following".
 
 Subsec. (d). Pub. L. 99–272, §11016(c)(9), added subsec. (d).
 
@@ -184,7 +184,7 @@ Amendment by section 402(g)(2)(A) of Pub. L. 109–280 applicable to plan years 
 
 Pub. L. 109–280, title IV, §403(b), Aug. 17, 2006, 120 Stat. 928, provided that: "The amendment made by this section \[amending this section\] shall apply to benefits that become payable as a result of an event which occurs after July 26, 2005."
 
-Pub. L. 109–280, title IV, §404(c), Aug. 17, 2006, 120 Stat. 928, provided that: "The amendments made this section \[amending this section and section 1344 of this title\] shall apply with respect to proceedings initiated under title 11, United States Code, or under any similar Federal law or law of a State or political subdivision, on or after the date that is 30 days after the date of enactment of this Act \[Aug. 17, 2006\]."
+Pub. L. 109–280, title IV, §404(c), Aug. 17, 2006, 120 Stat. 928, provided that: "The amendments made this section \[amending this section and section 1344 of thistitle\] shall apply with respect to proceedings initiated under title 11, United States Code, or under any similar Federal law or law of a State or political subdivision, on or after the date that is 30 days after the date of enactment of this Act \[Aug. 17, 2006\]."
 
 Amendment by section 407(a) of Pub. L. 109–280 applicable to plan terminations under section 1341(c) of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 31, 2005, and under section 1342 of this title with respect to which notices of determination are provided under such section after such date, see section 407(d)(1) of Pub. L. 109–280, set out as a note under section 1321 of this title.
 
@@ -229,4 +229,6 @@ In general.—In the case of any plan termination to which the amendments made b
 &emsp;"(II) subparagraph (C) of section 4022(c)(3) of ERISA (as so amended) shall apply irrespective of the outstanding amount of benefit liabilities under the plan.
 
 "(ii) \[Repealed. Pub. L. 101–239, title VII, §7881(f)(6), Dec. 19, 1989, 103 Stat. 2440.\]"
+
+<i><sup>1</sup></i><i> So in original.</i>
 

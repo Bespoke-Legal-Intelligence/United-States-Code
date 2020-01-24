@@ -30,7 +30,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 &emsp;(C) a permit has been issued under section 6925(c) of this title for the facility concerned.
 
-(2) Effective on November 8, 1984, the placement of any hazardous waste other than a hazardous waste referred to in paragraph (1) in a salt dome formation, salt bed formation, underground mine, or cave is prohibited until such time as a permit has been issued under section 6925(c) of this title for the facility concerned.
+(2) Effective on November 8, 1984, the placement of any hazardous waste other than a hazardous waste referred to in paragraph (1) in a salt dome formation, salt bed formation, underground mine, or cave is prohibited until suchtime as a permit has been issued under section 6925(c) of this title for the facility concerned.
 
 (3) No determination made by the Administrator under subsection (d), (e), or (g) of this section regarding any hazardous waste to which such subsection (d), (e), or (g) applies shall affect the prohibition contained in paragraph (1) or (2) of this subsection.
 
@@ -46,7 +46,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 &emsp;(B) minimize the presence of free liquids in containerized hazardous waste to be disposed of in landfills.
 
-> Such regulations shall also prohibit the disposal in landfills of liquids that have been absorbed inmaterials that biodegrade or that release liquids when compressed as might occur during routine landfill operations. Prior to the date on which such final regulations take effect, the requirements (as in effect on April 30, 1983) promulgated under this section by the Administrator shall remain in force and effect to the extent such requirements are applicable to the disposal of containerized liquid hazardous waste, or free liquids contained in hazardous waste, in landfills.
+> Such regulations shall also prohibit the disposal in landfills of liquids that have been absorbed in materials that biodegrade or that release liquids when compressed as might occur during routine landfill operations. Prior to the date on which such final regulations take effect, the requirements (as in effect on April 30, 1983) promulgated under this section by the Administrator shall remain in force and effect to the extent such requirements are applicable to the disposal of containerized liquid hazardous waste, or free liquids contained in hazardous waste, in landfills.
 
 (3) Effective twelve months after November 8, 1984, the placement of any liquid which is not a hazardous waste in a landfill for which a permit is required under section 6925(c) of this title or which is operating pursuant to interim status granted under section 6925(e) of this title is prohibited unless the owner or operator of such landfill demonstrates to the Administrator, or the Administrator determines, that—
 
@@ -174,7 +174,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (8) Solid waste that otherwise qualifies under paragraph (7) shall nevertheless be required to meet any applicable specific methods of treatment specified for such waste by the Administrator under subsection (m), including those specified in the rule promulgated by the Administrator June 1, 1990, prior to management in a land-based unit as part of a treatment system specified in paragraph (7)(A). No solid waste may qualify under paragraph (7) that would generate toxic gases, vapors, or fumes due to the presence of cyanide when exposed to pH conditions between 2.0 and 12.5.
 
-(9) Solid waste identified as hazardous based on one or more characteristics alone shall not be subject to this subsection, any prohibitions under subsection (d), (e), or (f), or any requirement promulgated under subsection (m) if the waste no longer exhibits a hazardous characteristic at the point of injection in any Class I injection well permitted under section 300h–1 of this title.
+(9) Solid waste identified as hazardous based on one or more characteristics alone shall notbe subject to this subsection, any prohibitions under subsection (d), (e), or (f), or any requirement promulgated under subsection (m) if the waste no longer exhibits a hazardous characteristic at the point of injection in any Class I injection well permitted under section 300h–1 of this title.
 
 (10) Not later than five years after March 26, 1996, the Administrator shall complete a study of hazardous waste managed pursuant to paragraph (7) or (9) to characterize the risks to human health or the environment associated with such management. In conducting this study, the Administrator shall evaluate the extent to which risks are adequately addressed under existing State or Federal programs and whether unaddressed risks could be better addressed under such laws or programs. Upon receipt of additional information or upon completion of such study and as necessary to protect human health and the environment, the Administrator may impose additional requirements under existing Federal laws, including subsection (m)(1), or rely on other State or Federal programs or authorities to address such risks. In promulgating any treatment standards pursuant to subsection (m)(1) under the previous sentence, the Administrator shall take into account the extent to which treatment is occurring in land-based units as part of a treatment system specified in paragraph (7)(A).
 
@@ -210,7 +210,7 @@ The use of waste or used oil or other material, which is contaminated or mixed w
 
 (1) Simultaneously with the promulgation of regulations under subsection (d), (e), (f), or (g) prohibiting one or more methods of land disposal of a particular hazardous waste, and as appropriate thereafter, the Administrator shall, after notice and an opportunity for hearings and after consultation with appropriate Federal and State agencies, promulgate regulations specifying those levels or methods of treatment, if any, which substantially diminish the toxicity of the waste or substantially reduce the likelihood of migration of hazardous constituents from the waste so that short-term and long-term threats to human health and the environment are minimized.
 
-(2) If such hazardous waste has been treated to the level or by a method specified in regulations promulgated under this subsection, such waste or residue thereof shall not be subject to any prohibition promulgated under subsection (d), (e), (f), or (g) and may be disposed of in a land disposal facility which meets the requirements of this subchapter. Any regulation promulgated under this subsection for a particular hazardous waste shall become effective on the same date as any applicable prohibition promulgated under subsection (d), (e), (f), or (g).
+(2) If such hazardous waste has been treated to the level or by a method specified in regulations promulgated under this subsection, such waste or residue thereof shall not be subject to any prohibition promulgated under subsection (d), (e), (f), or (g) and may be disposed of in a landdisposal facility which meets the requirements of this subchapter. Any regulation promulgated under this subsection for a particular hazardous waste shall become effective on the same date as any applicable prohibition promulgated under subsection (d), (e), (f), or (g).
 
 #### (n) Air emissions
 
@@ -308,7 +308,7 @@ The standards under this section concerning ground water monitoring which are ap
 
 &emsp;(B) contaminants are removed; and
 
-&emsp;(C) such refining waste containing oil is converted along with normal process streams into petroleum-derived fuel products at a facility at which crude oil is refined into petroleum products and which is classified as a number SIC 2911 facility under the Office of Management and Budget Standard Industrial Classification Manual.
+&emsp;(C) such refining waste containing oil is converted along with normal process streams intopetroleum-derived fuel products at a facility at which crude oil is refined into petroleum products and which is classified as a number SIC 2911 facility under the Office of Management and Budget Standard Industrial Classification Manual.
 
 (3) Unless the Administrator determines otherwise as may be necessary to protect human health and the environment, this subsection shall not apply to fuels produced from oily materials, resulting from normal petroleum refining, production and transportation practices, if (A) contaminants are removed; and (B) such oily materials are converted along with normal process streams into petroleum-derived fuel products at a facility at which crude oil is refined into petroleum products and which is classified as a number SIC 2911 facility under the Office of Management and Budget Standard Industrial Classification Manual.
 

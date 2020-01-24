@@ -28,7 +28,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 #### (2) Revision of plan
 
-&emsp;If the State Governor disapproves a plan, the State Governor shall explain in writing to the local educational agency the reasons why the plan was disapproved and the changes that need to be made in the plan. Within 30 days after the date on which notice is received of disapproval of its plan, the local educational agency shall revise the plan to conform withthe State Governor's suggested changes. The Governor may extend the 30-day period for not more than 90 days.
+&emsp;If the State Governor disapproves a plan, the State Governor shall explain in writing to the local educational agency the reasons why the plan was disapproved and the changes that need to be made in the plan. Within 30 days after the date on which notice is received of disapproval of its plan, the local educational agency shall revise the plan to conform with the State Governor's suggested changes. The Governor may extend the 30-day period for not more than 90 days.
 
 #### (d) Deferral of submission
 
@@ -62,7 +62,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 #### (2) Notification and public meeting
 
-&emsp;Before filing a deferral request under paragraph (1), a local educational agency shall notify affected parent, teacher, and employee organizations of its intent to file such a request. In the case of a deferral request for a public school, the local educational agency shall discuss the request at a public meeting of the school board with jurisdiction over the school, and affected parent, teacher, and employee organizations shall be notified in advance of the time and place of such meeting.
+&emsp;Before filing a deferral request under paragraph (1), a local educational agency shall notify affected parent, teacher, and employee organizations of its intent to file such a request. In the case of a deferral request for a public school, the local educational agency shall discuss the request at a public meeting of the school board with jurisdiction over the school,and affected parent, teacher, and employee organizations shall be notified in advance of the time and place of such meeting.
 
 #### (3) Response by Governor
 

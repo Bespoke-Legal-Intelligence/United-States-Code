@@ -18,7 +18,7 @@ A firearm registered to a person qualified under this chapter to engage in busin
 
 #### (e) Unserviceable firearm
 
-An unserviceable firearm may be transferred as a curio or ornament without payment of the transfer tax imposed by section 5811, under such requirements as the Secretary may by regulations prescribe.
+An unserviceable firearm may be transferred as a curio or ornament without payment of the transfer tax imposed by section 5811, under suchrequirements as the Secretary may by regulations prescribe.
 
 #### (f) Right to exemption
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) Iran's support for international terrorism; or
 
-&emsp;&emsp;(C) to or for any Iranian person included on the list of specially designated nationalsand blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury (other than an Iranian financial institution described in subsection (b)).
+&emsp;&emsp;(C) to or for any Iranian person included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury (other than an Iranian financial institution described in subsection (b)).
 
 #### (2) Exception
 

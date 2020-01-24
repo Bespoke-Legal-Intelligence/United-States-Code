@@ -32,7 +32,7 @@ The holder of an application approved under subsection (c) or (j) <sup>1</sup> 
 
 #### (c) Additional one-time report
 
-Within 180 days of August 18, 2017, all holders of applications approved under subsection (c) or\(j) of section 355 of this title shall review the information in the list published under subsection <sup>2</sup> 355(j)(7)(A) of this title and shall notify the Secretary in writing that—
+Within 180 days of August 18, 2017, all holders of applications approved under subsection (c) or (j) of section 355 of this title shall review the information in the list published under subsection <sup>2</sup> 355(j)(7)(A) of this title and shall notify the Secretary in writing that—
 
 &emsp;(1) all of the application holder's drugs in the active section of the list published under subsection <sup>2</sup> 355(j)(7)(A) of this title are available for sale; or
 

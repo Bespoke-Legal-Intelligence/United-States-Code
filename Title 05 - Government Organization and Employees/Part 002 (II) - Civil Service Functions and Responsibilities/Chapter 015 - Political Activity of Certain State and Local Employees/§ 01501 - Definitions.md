@@ -20,7 +20,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(iii) a recognized religious, philanthropic, or cultural organization.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 403; Pub. L. 93–443, title IV, §401(c), Oct. 15, 1974, 88 Stat. 1290; Pub. L. 112–230, §3(a), (b), Dec. 28, 2012, 126 Stat. 1616.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 403; Pub. L. 93–443, title IV, §401(c), Oct. 15, 1974, 88 Stat.1290; Pub. L. 112–230, §3(a), (b), Dec. 28, 2012, 126 Stat. 1616.)
 
 Historical and Revision Notes
 

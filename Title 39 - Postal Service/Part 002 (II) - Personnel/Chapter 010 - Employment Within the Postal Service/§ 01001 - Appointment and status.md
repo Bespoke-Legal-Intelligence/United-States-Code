@@ -2,7 +2,7 @@
 
 (a) Except as otherwise provided in this title, the Postal Service shall appoint all officers and employees of the Postal Service.
 
-(b) Officers and employees of the Postal Service (other than those individuals appointed under sections 202, 204, and 1001(c) of this title) shall be in the postal career service, which shall be a part of the civil service. Such appointmentsand promotions shall be in accordance with the procedures established by the Postal Service. The Postal Service shall establish procedures, in accordance with this title, to assure its officers and employees meaningful opportunities for promotion and career development and to assure its officers and employees full protection of their employment rights by guaranteeing them an opportunity for a fair hearing on adverse actions, with representatives of their own choosing.
+(b) Officers and employees of the Postal Service (other than those individuals appointed under sections 202, 204, and 1001(c) of this title) shall be in the postal career service, which shall be a part of the civil service. Such appointments and promotions shall be in accordance with the procedures established by the Postal Service. The Postal Service shall establish procedures, in accordance with this title, to assure its officers and employees meaningful opportunities for promotion and career development and to assure its officers and employees full protection of their employment rights by guaranteeing them an opportunity for a fair hearing on adverse actions, with representatives of their own choosing.
 
 (c) The Postal Service may hire individuals as executives under employment contracts for periods not in excess of 5 years. Notwithstanding any such contract, the Postal Service may at its discretion and at any time remove any such individual without prejudice to his contract rights.
 
@@ -54,7 +54,7 @@ Pub. L. 91–375, §8, Aug. 12, 1970, 84 Stat. 783, as amended by Pub. L. 109–
 
 Pub. L. 91–375, §13, Aug. 12, 1970, 84 Stat. 786, provided that:
 
-"(a) \[<i>Methods of Appointment; Order of precedence; Status of Postmasters in Office</i>\] Between the date of enactment of this Act \[Aug. 12, 1970\] and the date on which the Board of Governors of the United States Postal Service determines that section 1001 of title 39, United States Code (as enacted by section 2 of this Act), is effective, the Postmaster General shall appoint postmasters at offices of all classes in the competitive civil service by one of the three following methods which shall be applied in the following order of precedence:
+"(a) \[<i>Methods of Appointment; Order of precedence; Status of Postmasters in Office</i>\] Between the date of enactment of this Act \[Aug. 12, 1970\] and the date on which the Board of Governors of the United States Postal Service determines that section 1001 of title 39, United States Code (as enacted by section 2 of this Act), is effective, the Postmaster General shall appointpostmasters at offices of all classes in the competitive civil service by one of the three following methods which shall be applied in the following order of precedence:
 
 &emsp;"(1) by selection of a qualified employee serving at the post office where the vacancy occurs, including an acting postmaster who was serving on January 1, 1969, who shall acquire a competitive status upon being appointed postmaster;
 

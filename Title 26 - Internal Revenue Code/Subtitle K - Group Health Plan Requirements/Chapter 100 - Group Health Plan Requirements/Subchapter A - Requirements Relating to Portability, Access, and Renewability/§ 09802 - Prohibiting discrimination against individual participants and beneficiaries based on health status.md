@@ -66,13 +66,13 @@
 
 #### (2) Rule of construction
 
-&emsp;Paragraph (1) shall not be construed to limit the authority of a health care professional who is providing health care services to an individual to request that such individual undergo a genetic test.
+&emsp;Paragraph (1) shall not be construed to limit the authority of a health care professionalwho is providing health care services to an individual to request that such individual undergo a genetic test.
 
 #### (3) Rule of construction regarding payment
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a group health plan from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for thepurposes of applying the regulations promulgated by the Secretary of Health and Human Services under part C of title XI of the Social Security Act and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
+&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a group health plan from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for the purposes of applying the regulations promulgated by the Secretary of Health and Human Services under part C of title XI of the Social Security Act and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
 
 #### (B) Limitation
 

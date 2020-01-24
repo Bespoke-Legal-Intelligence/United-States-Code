@@ -58,7 +58,7 @@
 
 &emsp;The Secretary shall act upon a request for a waiver under paragraph (1) not later than 120 days after the date on which the request is made.
 
-(July 1, 1944, ch. 373, title XIX, §1931, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106Stat. 397; amended Pub. L. 114–255, div. B, title VIII, §8002(h), Dec. 13, 2016, 130 Stat. 1230.)
+(July 1, 1944, ch. 373, title XIX, §1931, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 397; amended Pub. L. 114–255, div. B, title VIII, §8002(h), Dec. 13, 2016, 130 Stat. 1230.)
 
 #### References in Text
 

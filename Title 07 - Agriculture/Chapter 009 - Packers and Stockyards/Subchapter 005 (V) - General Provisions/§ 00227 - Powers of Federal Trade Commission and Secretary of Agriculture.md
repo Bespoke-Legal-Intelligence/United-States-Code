@@ -66,7 +66,7 @@ Pub. L. 100–173, §11, Nov. 23, 1987, 101 Stat. 922, provided that:
 
 "(a)
 
-General Rule.—The amendments made by this Act \[see Short Title of 1987 Amendment note set out under section 181 of this title\] to the Packers and Stockyards Act, 1921 \[7 U.S.C. 181 et seq.\], shall not be construed to limit or otherwise affect the power or jurisdiction of the Federal Trade Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] to prevent the use of—
+General Rule.—The amendments made by this Act \[see Short Title of 1987 Amendment note set out under section 181 of this title\] to the Packers andStockyards Act, 1921 \[7 U.S.C. 181 et seq.\], shall not be construed to limit or otherwise affect the power or jurisdiction of the Federal Trade Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] to prevent the use of—
 
 &emsp;"(1) unfair methods of competition in or affecting commerce, and
 

@@ -154,7 +154,7 @@ Coordination With Other Agencies.—In developing the plan required by subsectio
 
 Inclusion of Costs in Future-Years Nuclear Security Program.—The Administrator shall—
 
-&emsp;"(1) address, in the estimated expenditures and proposed appropriations reflected in each future-years nuclear security program submitted under section 3253 of the National Nuclear Security Administration Act (50 U.S.C. 2453) during the 10-year period beginning on the date of the enactment of this Act, the costs of—
+&emsp;"(1) address, in the estimated expenditures and proposed appropriations reflected in each future-years nuclear security program submitted under section 3253 of the National Nuclear Security AdministrationAct (50 U.S.C. 2453) during the 10-year period beginning on the date of the enactment of this Act, the costs of—
 
 &emsp;&emsp;"(A) developing exascale computing and incorporating such computing into the stockpile stewardship program; and
 

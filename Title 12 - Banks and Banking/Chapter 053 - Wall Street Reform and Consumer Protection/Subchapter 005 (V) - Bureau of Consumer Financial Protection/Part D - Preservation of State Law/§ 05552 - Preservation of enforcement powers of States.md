@@ -4,7 +4,7 @@
 
 #### (1) Action by State
 
-&emsp;Except as provided in paragraph (2), the attorney general (or the equivalent thereof) of any State may bring a civil action in the name of such State in any district court of the United States in that State or in State court that is located in that State and that has jurisdiction over the defendant, to enforce provisions of this title <sup>1</sup> or regulations issued under this title,<sup>1</sup> and to secure remedies under provisions of this title <sup>1</sup> or remedies otherwise provided under other law. A State regulator may bring a civil action or other appropriate proceeding to enforce the provisions of this title <sup>1</sup> or regulations issued under this title <sup>1</sup> with respect to any entity that is State-chartered, incorporated, licensed, or otherwise authorized to do business under State law (except as provided in paragraph (2)), and to secure remedies under provisions of this title <sup>1</sup> or remedies otherwise provided under other provisions of law with respect to such an entity.
+&emsp;Except as provided in paragraph (2), the attorney general (or the equivalent thereof) ofany State may bring a civil action in the name of such State in any district court of the United States in that State or in State court that is located in that State and that has jurisdiction over the defendant, to enforce provisions of this title <sup>1</sup> or regulations issued under this title,<sup>1</sup> and to secure remedies under provisions of this title <sup>1</sup> or remedies otherwise provided under other law. A State regulator may bring a civil action or other appropriate proceeding to enforce the provisions of this title <sup>1</sup> or regulations issued under this title <sup>1</sup> with respect to any entity that is State-chartered, incorporated, licensed, or otherwise authorized to do business under State law (except as provided in paragraph (2)), and to secure remedies under provisions of this title <sup>1</sup> or remedies otherwise provided under other provisions of law with respect to such an entity.
 
 #### (2) Action by State against national bank or Federal savings association to enforce rules
 
@@ -78,7 +78,7 @@ The Bureau shall prescribe regulations to implement the requirements of this sec
 
 #### References in Text
 
-This title, referred to in subsecs. (a), (b)(1)(A), and (d)(2), (3), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This title, referred to in subsecs. (a), (b)(1)(A), and (d)(2), (3), is title X of Pub. L. 111–203, July 21, 2010, 124Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Effective Date
 

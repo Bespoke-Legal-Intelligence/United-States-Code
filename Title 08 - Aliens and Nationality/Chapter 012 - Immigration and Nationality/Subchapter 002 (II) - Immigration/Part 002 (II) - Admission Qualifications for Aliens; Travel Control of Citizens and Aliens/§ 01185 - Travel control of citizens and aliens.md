@@ -14,7 +14,7 @@ Unless otherwise ordered by the President, it shall be unlawful—
 
 &emsp;(5) for any person knowingly to use or attempt to use any permit or evidence of permission to depart or enter not issued and designed for his use;
 
-&emsp;(6) for any person to forge, counterfeit, mutilate, or alter, or cause or procure to be forged, counterfeited, mutilated, or altered,any permit or evidence of permission to depart from or enter the United States;
+&emsp;(6) for any person to forge, counterfeit, mutilate, or alter, or cause or procure to be forged, counterfeited, mutilated, or altered, any permit or evidence of permission to depart from or enter the United States;
 
 &emsp;(7) for any person knowingly to use or attempt to use or furnish to another for use any false, forged, counterfeited, mutilated, or altered permit, or evidence of permission, or any permit or evidence of permission which, though originally valid, has become or been made void or invalid.
 
@@ -84,7 +84,7 @@ Pub. L. 114–125, title VIII, §802(j), Feb. 24, 2016, 130 Stat. 216, provided 
 
 #### Asia-Pacific Economic Cooperation Business Travel Cards
 
-Pub. L. 115–79, §4(b)(2), Nov. 2, 2017, 131 Stat. 1260, provided that: "Notwithstanding the repeal under paragraph (1) \[repealing Pub. L. 112–54, below\], an ABT Card issued pursuant to the Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011 before the dateof the enactment of this Act \[Nov. 2, 2017\] that, as of such date, is still valid, shall remain valid on and after such date until such time as such Card would otherwise expire."
+Pub. L. 115–79, §4(b)(2), Nov. 2, 2017, 131 Stat. 1260, provided that: "Notwithstanding the repeal under paragraph (1) \[repealing Pub. L. 112–54, below\], an ABT Card issued pursuant to the Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011 before the date of the enactment of this Act \[Nov. 2, 2017\] that, as of such date, is still valid, shall remain valid on and after such date until such time as such Card would otherwise expire."
 
 Pub. L. 112–54, Nov. 12, 2011, 125 Stat. 550, known as the Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011, provided for the issuance of Asia-Pacific Economic Cooperation Business Travel Cards for a 7-year period ending on Sept. 30, 2018, prior to repeal by Pub. L. 115–79, §4(b)(1), Nov. 2, 2017, 131 Stat. 1260. See section 218 of Title 6, Domestic Security.
 
@@ -152,7 +152,7 @@ Report.—Not later than 180 days after the initiation of the pilot program desc
 
 &emsp;"(2)
 
-Requirement to produce documentation.—The plan developed under paragraph (1) shall require all United States citizens, and categories of individuals for whom documentation requirements have previously been waived under section 212(d)(4)(B) of suchAct \[8 U.S.C. 1182(d)(4)(B)\], to carry and produce the documentation described in paragraph (1) when traveling from foreign countries into the United States.
+Requirement to produce documentation.—The plan developed under paragraph (1) shall require all United States citizens, and categories of individuals for whom documentation requirements have previously been waived under section 212(d)(4)(B) of such Act \[8 U.S.C. 1182(d)(4)(B)\], to carry and produce the documentation described in paragraph (1) when traveling from foreign countries into the United States.
 
 "(c)
 

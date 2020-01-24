@@ -6,7 +6,7 @@ Sessions Without Presence of Members.—(1) At any time after the service of cha
 
 &emsp;(A) hearing and determining motions raising defenses or objections which are capable of determination without trial of the issues raised by a plea of not guilty;
 
-&emsp;(B) hearing and ruling upon any matter which may be ruled upon by the military judge under this chapter, whether or not thematter is appropriate for later consideration or decision by the members;
+&emsp;(B) hearing and ruling upon any matter which may be ruled upon by the military judge under this chapter, whether or not the matter is appropriate for later consideration or decision by the members;
 
 &emsp;(C) if permitted by regulations prescribed by the Secretary of Defense, receiving the pleas of the accused; and
 

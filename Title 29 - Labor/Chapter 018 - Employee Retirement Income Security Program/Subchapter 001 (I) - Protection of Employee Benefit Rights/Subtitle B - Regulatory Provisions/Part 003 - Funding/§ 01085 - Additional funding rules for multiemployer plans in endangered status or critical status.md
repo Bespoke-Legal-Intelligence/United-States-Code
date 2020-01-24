@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) A plan is described in this subparagraph if—
 
-&emsp;&emsp;&emsp;(i)(I) the plan's normal cost for the current plan year, plus interest (determined at the rate used for determining costs under the plan) for the current plan year on the amount of unfunded benefit liabilities under the plan as of the last date of the preceding plan year, exceeds
+&emsp;&emsp;&emsp;(i)(I) the plan's normal cost for the current plan year, plus interest (determined at the rate used for determining costs under the plan) for the current plan yearon the amount of unfunded benefit liabilities under the plan as of the last date of the preceding plan year, exceeds
 
 &emsp;&emsp;&emsp;(II) the present value of the reasonably anticipated employer and employee contributions for the current plan year,
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;In determining whether a plan is in critical and declining status as described in subsection (e)(9), clauses (i), (ii), and (iii) shall apply, except that—
 
-&emsp;&emsp;&emsp;&emsp;(I) if reasonable, the plan actuary shall assume that each contributing employer in compliance continues to comply through the end of the rehabilitation period or such later time as provided in subsection (e)(3)(A)(ii) with the terms of the rehabilitation plan that correspond to the schedule adopted or imposed under subsection (e), and
+&emsp;&emsp;&emsp;&emsp;(I) if reasonable, the plan actuary shall assume that each contributing employer in compliance continues to comply through the end of the rehabilitation period or such later time as provided insubsection (e)(3)(A)(ii) with the terms of the rehabilitation plan that correspond to the schedule adopted or imposed under subsection (e), and
 
 &emsp;&emsp;&emsp;&emsp;(II) the plan actuary shall take into account any suspensions of benefits described in subsection (e)(9) adopted in a prior plan year that are still in effect.
 
@@ -256,7 +256,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) paragraphs (3)(B) and (4)(B) shall apply only if the plan's actuary certifies, within 30 days after the certification under subsection (b)(3)(A) for the initial determination year, that, based on the terms of the plan and the collective bargaining agreements in effect at the time of such certification, the plan is not projected to meet the requirements of paragraph (3)(A) (without regard to paragraphs (3)(B) and (4)(B)), and
 
-&emsp;&emsp;&emsp;(ii) if there is a certification under clause (i), the plan may, in formulating its funding improvement plan, only take into account the rules of paragraph (3)(B) and (4)(B) for plan years in the funding improvement period beginning on or before the date on which the last of the collective bargaining agreements described in paragraph (4)(A)(ii) expires.
+&emsp;&emsp;&emsp;(ii) if there is a certification under clause (i), the plan may, in formulating its funding improvement plan, only take into account the rules of paragraph <sup>4</sup> (3)(B) and (4)(B) for plan years in the funding improvement period beginning on or before the date on which the last of the collective bargaining agreements described in paragraph (4)(A)(ii) expires.
 
 #### (B) Special rule after expiration of agreements
 
@@ -300,7 +300,7 @@ For purposes of this section—
 
 #### (C) Date of implementation
 
-&emsp;&emsp;The date specified in this subparagraph is the date which is 180 days after the date on which the collective bargaining agreement described in subparagraph (A) or (B) expires.
+&emsp;&emsp;The date specified in this subparagraph is the date which is 180 days after the date onwhich the collective bargaining agreement described in subparagraph (A) or (B) expires.
 
 #### (D) Failure to make scheduled contributions
 
@@ -408,7 +408,7 @@ For purposes of this section—
 
 #### (iii) Date of implementation
 
-&emsp;&emsp;&emsp;The date specified in this subparagraph is the date which is 180 days after the date on which the collective bargaining agreement described in clause (i) or (ii) expires.
+&emsp;&emsp;&emsp;The date specified in this subparagraph <sup>5</sup> is the date which is 180 days after the date on which the collective bargaining agreement described in clause (i) or (ii) expires.
 
 #### (iv) Failure to make scheduled contributions
 
@@ -424,7 +424,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the second anniversary of the date of the adoption of the rehabilitation plan, or
 
-&emsp;&emsp;&emsp;(ii) the expiration of the collective bargaining agreements in effect on the due date for the actuarial certification of critical status for the initial critical year under subsection (a)(1) and covering, as of such date at least 75 percent of the active participants in such multiemployer plan.
+&emsp;&emsp;&emsp;(ii) the expiration of the collective bargaining agreements in effect on the due date for the actuarial certification of critical status for the initial critical year under subsection (a)(1) and covering, as of such date <sup>6</sup> at least 75 percent of the active participants in such multiemployer plan.
 
 > &emsp;&emsp;If a plan emerges from critical status as provided under subparagraph (B) before the end of such 10-year period, the rehabilitation period shall end with the plan year preceding the plan year for which the determination under subparagraph (B) is made.
 
@@ -432,7 +432,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A plan in critical status shall remain in such status until a plan year for which the plan actuary certifies, in accordance with subsection (b)(3)(A), that—
+&emsp;&emsp;&emsp;A plan in critical status shall remain in such status until a plan year for which theplan actuary certifies, in accordance with subsection (b)(3)(A), that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the plan is not described in one or more of the subparagraphs in subsection (b)(2) as of the beginning of the plan year;
 
@@ -554,7 +554,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be written in a manner so as to be understood by the average plan participant, and
 
-&emsp;&emsp;&emsp;&emsp;(III) may be provided in written, electronic, or other appropriate form to theextent such form is reasonably accessible to persons to whom the notice is required to be provided.
+&emsp;&emsp;&emsp;&emsp;(III) may be provided in written, electronic, or other appropriate form to the extent such form is reasonably accessible to persons to whom the notice is required to be provided.
 
 &emsp;&emsp;&nbsp;The Secretary of the Treasury shall in the regulations prescribed under subclause (I) establish a model notice that a plan sponsor may use to meet the requirements of this subparagraph.
 
@@ -690,7 +690,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such action is accompanied by equitable benefit improvements in accordance with clause (ii) for all participants and beneficiaries whose benefit commencement dates were before the first day of the plan year for which the benefit improvement for such participant or beneficiary not in pay status took effect; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the plan actuary certifies that after taking into account such benefitsimprovements the plan is projected to avoid insolvency indefinitely under section 1426 of this title.
+&emsp;&emsp;&emsp;&emsp;(II) the plan actuary certifies that after taking into account such benefits improvements the plan is projected to avoid insolvency indefinitely under section 1426 of this title.
 
 #### (ii) Equitable distribution of benefit improvements
 
@@ -808,7 +808,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) A statement in opposition to the suspension compiled from comments received pursuant to subparagraph (G)(ii).
 
-&emsp;&emsp;&emsp;&emsp;(III) A statement that the suspension has been approved by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor.
+&emsp;&emsp;&emsp;&emsp;(III) A statement that the suspension has been approved by the Secretary ofthe Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor.
 
 &emsp;&emsp;&emsp;&emsp;(IV) A statement that the plan sponsor has determined that the plan will become insolvent unless the suspension takes effect.
 
@@ -864,7 +864,7 @@ For purposes of this section—
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;A court shall review an action challenging a suspension of benefits under this paragraph in accordance with section 706 of title 5.
+&emsp;&emsp;&emsp;&emsp;&emsp;A court shall review an action challenging a suspension of benefits underthis paragraph in accordance with section 706 of title 5.
 
 #### (bb) Temporary injunction
 
@@ -932,7 +932,7 @@ For purposes of this section—
 
 #### (1) Benefit reduction
 
-&emsp;Any benefit reductions under subsection (e)(8) or (f) or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)),<sup>4</sup> unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan's unfunded vested benefits for purposes of determining an employer's withdrawal liability under section 1381 of this title.
+&emsp;Any benefit reductions under subsection (e)(8) or (f) or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)),<sup>7</sup> unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan's unfunded vested benefits for purposes of determining anemployer's withdrawal liability under section 1381 of this title.
 
 #### (2) Surcharges
 
@@ -1160,7 +1160,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date
 
-Section applicable with respect to plan years beginning after 2007, with special rules for certain notices and certain restored benefits, see section 202(f) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under section 1082 of this title.
+Section applicable with respect to plan years beginning after 2007, with special rules for certain noticesand certain restored benefits, see section 202(f) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under section 1082 of this title.
 
 #### Guidance
 
@@ -1184,5 +1184,11 @@ For applicability of this section to a multiemployer plan that is a party to an 
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>4</sup></i><i> So in original. There is no opening parenthesis corresponding to the second closing parenthesis.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "paragraphs".</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be "clause".</i>
+
+<i><sup>6</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>7</sup></i><i> So in original. There is no opening parenthesis corresponding to the second closing parenthesis.</i>
 

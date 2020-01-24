@@ -12,7 +12,7 @@ Appointment and Qualifications.—An individual serving as the superintendent of
 
 Duties.—The superintendents of the Cemeteries report directly to the Executive Director and performs such duties and responsibilities as the Executive Director prescribes.
 
-(Added Pub. L. 112–81, div. A, title V, §591(a)(1), Dec. 31, 2011, 125 Stat. 1441, §4725; renumbered§7725, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 112–81, div. A, title V, §591(a)(1), Dec. 31, 2011, 125 Stat. 1441, §4725; renumbered §7725, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 #### Prior Provisions
 

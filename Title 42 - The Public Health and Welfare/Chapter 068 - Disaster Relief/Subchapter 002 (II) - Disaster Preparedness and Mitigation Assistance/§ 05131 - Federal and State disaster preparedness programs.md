@@ -28,7 +28,7 @@ Upon application by a State, the President is authorized to make grants, not to 
 
 &emsp;(1) set forth a comprehensive and detailed State program for preparation against and assistance following, emergencies and major disasters, including provisions for assistance to individuals, businesses, and local governments; and
 
-&emsp;(2) include provisions for appointment and training of appropriate staffs, formulation ofnecessary regulations and procedures and conduct of required exercises.
+&emsp;(2) include provisions for appointment and training of appropriate staffs, formulation of necessary regulations and procedures and conduct of required exercises.
 
 #### (d) Grants for improvement, maintenance, and updating of State plans
 

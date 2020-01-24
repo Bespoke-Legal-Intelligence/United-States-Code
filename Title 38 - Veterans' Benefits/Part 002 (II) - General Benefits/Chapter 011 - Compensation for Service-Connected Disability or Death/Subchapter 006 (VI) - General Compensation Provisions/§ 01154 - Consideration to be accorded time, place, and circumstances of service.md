@@ -134,7 +134,7 @@ Content of Registry.—Except as provided in subsection (c), the Registry shall 
 
 &emsp;&emsp;"(A) applies for hospital or nursing home care from the Department of Veterans Affairs under chapter 17 of such title;
 
-&emsp;&emsp;"(B) files a claim for compensation under chapter 11 of such title on the basis of a disability which may be associated with the exposure to ionizing radiation; or
+&emsp;&emsp;"(B) files a claim for compensation under chapter 11 of such title on the basis of a disability whichmay be associated with the exposure to ionizing radiation; or
 
 &emsp;&emsp;"(C) dies and is survived by a spouse, child, or parent who files a claim for dependency and indemnity compensation under chapter 13 of such title on the basis of the exposure of such veteran to ionizing radiation.
 
@@ -222,7 +222,7 @@ Sec. 2. The Congress makes the following findings:
 
 "
 
-Sec. 3. The purpose of this Act is to ensure that Veterans' Administration \[now Department of Veterans Affairs\] disability compensation is provided to veterans who were exposed to ionizing radiation in connection with atmospheric nuclear tests or in connection with the American occupation of Hiroshima or Nagasaki, Japan, for all disabilities arising after that service that are connected, based on sound scientific and medicalevidence, to such service (and that Veterans' Administration dependency and indemnity compensation is provided to survivors of those veterans for all deaths resulting from such disabilities)."
+Sec. 3. The purpose of this Act is to ensure that Veterans' Administration \[now Department of Veterans Affairs\] disability compensation is provided to veterans who were exposed to ionizing radiation in connection with atmospheric nuclear tests or in connection with the American occupation of Hiroshima or Nagasaki, Japan, for all disabilities arising after that service that are connected, based on sound scientific and medical evidence, to such service (and that Veterans' Administration dependency and indemnity compensation is provided to survivors of those veterans for all deaths resulting from such disabilities)."
 
 \[Amendment by Pub. L. 102–4 to sections 2 and 3 of Pub. L. 98–542, set out above, effective at the end of the six-month period beginning on Feb. 6, 1991, except as otherwise provided, see section 10(e) of Pub. L. 102–4, set out below under sections 5 to 7 of Pub. L. 98–542.\]
 
@@ -252,7 +252,7 @@ Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veteran
 
 "(iii) With regard to each disease described in subparagraph (B), the Administrator \[now Secretary\] shall include in the regulations prescribed under this section provisions specifying the factors to be considered in adjudicating issues relating to whether or not service connection should be granted in individual cases and the circumstances governing the granting of service connection for such disease.
 
-"(B) The diseases referred to in subparagraph (A) are those specified in section 2(5) \[set out above\] and any other disease with respect to which the Administrator \[now Secretary\] finds (after receiving and considering the advice of the Scientific Council established under section 6(d)(2)) that there is sound scientific or medical evidence indicating a connection to exposure to ionizing radiation, in the case of a veteran who was exposed to ionizing radiation in connection with such veteran's participation in an atmospheric nuclear test or with the American occupation of Hiroshima or Nagasaki, Japan, before July 1, 1946.
+"(B) The diseases referred to in subparagraph (A) are those specified in section 2(5) \[set out above\] and any other disease with respect to which the Administrator \[now Secretary\] finds (after receiving and considering the advice of the Scientific Council established under section 6(d)(2)) that there is sound scientific or medical evidence indicating a connection to exposure to ionizing radiation, in the case of a veteran who was exposed to ionizing radiation in connection with such veteran'sparticipation in an atmospheric nuclear test or with the American occupation of Hiroshima or Nagasaki, Japan, before July 1, 1946.
 
 "(3) The regulations prescribed under this section shall include—
 
@@ -314,7 +314,7 @@ Sec. 7. (a) In connection with the duties of the Director of the Defense Nuclear
 
 &emsp;&emsp;"(A) conduct a review of the reliability and accuracy of scientific and technical devices and techniques (such as 'whole body counters') which may be useful in determining previous radiation exposure;
 
-&emsp;&emsp;"(B) submit to the Administrator of Veterans' Affairs \[now Secretary of Veterans Affairs\] and the Committees on Veterans' Affairs of the House of Representatives and the Senate, not later than July 1, 1985, a report regarding the results of such review, including information concerning the availability of such devices and techniques, the categories of exposed individuals as to whom use of such devices and techniques may be appropriate, and the reliability and accuracy of dose estimates which may be derived from such devices and techniques; and
+&emsp;&emsp;"(B) submit to the Administrator of Veterans' Affairs \[now Secretary of Veterans Affairs\] and the Committees on Veterans' Affairs of the House of Representatives and the Senate, not later than July 1, 1985, a report regarding the results of suchreview, including information concerning the availability of such devices and techniques, the categories of exposed individuals as to whom use of such devices and techniques may be appropriate, and the reliability and accuracy of dose estimates which may be derived from such devices and techniques; and
 
 &emsp;&emsp;"(C) enter into an interagency agreement with the Administrator of Veterans' Affairs \[now Secretary of Veterans Affairs\] for the purpose of assisting the Administrator in identifying agencies or other entities capable of furnishing services involving the use of such devices and techniques.
 
@@ -324,7 +324,7 @@ Sec. 7. (a) In connection with the duties of the Director of the Defense Nuclear
 
 \["(1) Except as provided in paragraph (2), the amendments made by this section \[amending sections 2 and 3 of Pub. L. 98–542, set out above, and sections 5 and 6 of Pub. L. 98–542, set out above\] shall take effect at the end of the two-month period beginning on the date of the enactment of the Veterans' Benefits Programs Improvement Act of 1991 \[Aug. 14, 1991\].
 
-\["(2)(A) If the Secretary of Veterans Affairs determines before the end of such period that the Environmental Hazards Advisory Committee established under section 6 of Public Law 98–542 (38 U.S.C. 354 note) \[set out above\] has completed its responsibilities under thatsection and the directives of the Secretary pursuant to the Nehmer case court order, the amendments made by this section shall take effect as of the date of such determination.
+\["(2)(A) If the Secretary of Veterans Affairs determines before the end of such period that the Environmental Hazards Advisory Committee established under section 6 of Public Law 98–542 (38 U.S.C. 354 note) \[set out above\] has completed its responsibilities under that section and the directives of the Secretary pursuant to the Nehmer case court order, the amendments made by this section shall take effect as of the date of such determination.
 
 \["(B) For purposes of this paragraph, the term 'Nehmer case court order' means the court order dated May 2, 1989, in the case of Nehmer v. Department of Veterans Affairs, in the United States district court for the northern district of California (civil action docket number C–86–6160 TEH).
 

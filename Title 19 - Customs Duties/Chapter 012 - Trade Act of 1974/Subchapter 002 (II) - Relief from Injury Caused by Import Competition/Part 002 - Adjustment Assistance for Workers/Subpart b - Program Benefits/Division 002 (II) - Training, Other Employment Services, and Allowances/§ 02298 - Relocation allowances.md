@@ -58,7 +58,7 @@ A relocation allowance may not be granted to a worker unless—
 
 &emsp;(2) the relocation occurs within 182 days after the conclusion of training, if the worker entered a training program approved by the Secretary under section 2296(b)(1) and (2) of this title.
 
-(Pub. L. 93–618, title II, §238, Jan. 3, 1975, 88 Stat. 2024; Pub. L. 97–35, title XXV, §2508, Aug. 13, 1981, 95 Stat. 886; Pub. L. 98–369, div. B, title VI, §2672(b), July 18, 1984, 98 Stat. 1172; Pub. L. 107–210, div. A, title I, §122, Aug. 6, 2002, 116 Stat. 943; Pub. L. 108–429, title II, §2004(a)(6), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1833(b), Feb. 17, 2009, 123 Stat. 386; Pub. L. 112–40, title II, §§201(b), (c), 214(e), Oct. 21, 2011, 125 Stat. 403, 406; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §238, Jan. 3, 1975, 88 Stat. 2024; Pub. L. 97–35, title XXV, §2508, Aug. 13, 1981, 95 Stat. 886; Pub. L. 98–369, div. B, title VI, §2672(b), July 18, 1984, 98 Stat. 1172; Pub. L. 107–210, div. A, title I, §122, Aug. 6, 2002, 116 Stat. 943; Pub. L. 108–429, title II, §2004(a)(6), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1833(b), Feb. 17, 2009, 123 Stat. 386; Pub. L.112–40, title II, §§201(b), (c), 214(e), Oct. 21, 2011, 125 Stat. 403, 406; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
@@ -108,7 +108,7 @@ Subsec. (d)(2). Pub. L. 97–35, §2508(4)(B), increased maximum payment from $5
 
 #### Effective and Termination Dates of 2015 Revival
 
-For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect onDec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 
 For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
-Amendment by Pub. L. 97–35 effective for determinations made or filed after Sept. 30, 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
+Amendment by Pub. L. 97–35 effective for determinations made or filed after Sept. 30, 1981, with transitionprovisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
 
 #### Termination Date
 

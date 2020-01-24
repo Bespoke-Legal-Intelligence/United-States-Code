@@ -30,7 +30,7 @@ Definitions.—In this chapter—
 
 &emsp;(8) "holding of discrimination" means a holding by a United States court, a State court, or an administrative law judge appointed under section 3105 of title 5, United States Code, that a unit of general local government expending amounts received under this chapter has—
 
-&emsp;&emsp;(A) excluded a person in the United States from participating in, denied the person thebenefits of, or subjected the person to discrimination under, a program or activity because of race, color, national origin, or sex; or
+&emsp;&emsp;(A) excluded a person in the United States from participating in, denied the person the benefits of, or subjected the person to discrimination under, a program or activity because of race, color, national origin, or sex; or
 
 &emsp;&emsp;(B) violated a prohibition against discrimination described in section 6711(b); and
 

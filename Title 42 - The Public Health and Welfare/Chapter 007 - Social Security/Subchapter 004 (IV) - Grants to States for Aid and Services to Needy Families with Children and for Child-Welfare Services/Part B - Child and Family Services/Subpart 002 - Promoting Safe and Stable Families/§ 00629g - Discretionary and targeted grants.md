@@ -32,7 +32,7 @@ From the amount (if any) appropriated pursuant to subsection (a) for a fiscal ye
 
 #### (2) Territories
 
-&emsp;From the amount (if any) appropriated pursuant to subsection (a) for any fiscal year that remains after applying subection <sup>1</sup> (b) for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to eachof such jurisdictions is determined under section 623 of this title.
+&emsp;From the amount (if any) appropriated pursuant to subsection (a) for any fiscal year that remains after applying subection <sup>1</sup> (b) for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title.
 
 #### (3) Other States
 
@@ -150,7 +150,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;(C) A description of the joint activities to be funded in whole or in part with the funds provided under the grant, including the sequencing of the activities proposed to be conducted under the funding period for the grant.
 
-&emsp;&emsp;(D) A description of the strategies for integrating programs and services determined to be appropriate for the child and the child's family.
+&emsp;&emsp;(D) A description of the strategies for integrating programs and services determined tobe appropriate for the child and the child's family.
 
 &emsp;&emsp;(E) A description of a plan for sustaining the services provided by or activities funded under the grant after the conclusion of the grant period, including through the use of prevention services and programs under section 671(e) of this title and other funds provided to the State for child welfare and substance abuse prevention and treatment services.
 
@@ -196,7 +196,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;In awarding grants under this subsection, the Secretary shall take into consideration the extent to which applicant regional partnerships—
 
-&emsp;&emsp;(A) demonstrate that substance abuse by parents or caretakers has had a substantialimpact on the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region;
+&emsp;&emsp;(A) demonstrate that substance abuse by parents or caretakers has had a substantial impact on the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region;
 
 &emsp;&emsp;(B) have limited resources for addressing the needs of children affected by such abuse;
 
@@ -300,7 +300,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;(A) connecting the system with other data systems (such as systems operated by State law enforcement and judicial agencies, systems operated by the Federal Bureau of Investigation for the purposes of the Innocence Lost National Initiative, and other systems);
 
-&emsp;&emsp;(B) simplifying and improving reporting related to paragraphs (34) and (35) of section 671(a) of this title regarding children or youth who have been identified as being a sex trafficking victim <sup>2</sup> or children missing from foster care; and
+&emsp;&emsp;(B) simplifying and improving reporting related to paragraphs (34) and (35) of section 671(a) of this title regarding children or youth who have been identified as being asex trafficking victim <sup>2</sup> or children missing from foster care; and
 
 &emsp;&emsp;(C) improving the ability of States to quickly comply with background check requirements of section 671(a)(20) of this title, including checks of child abuse and neglect registries as required by section 671(a)(20)(B) of this title.
 
@@ -340,7 +340,7 @@ Subsec. (f)(3)(D). Pub. L. 115–123, §50723(3)(C), added subpar. (D).
 
 Subsec. (f)(4)(B)(i). Pub. L. 115–123, §50723(4)(A)(i), inserted ", parents, and families" after "children".
 
-Subsec. (f)(4)(B)(ii). Pub. L. 115–123, §50723(4)(A)(ii), substituted "safe, permanent caregiving relationshipsfor the children;" for "safety and permanence for such children; and".
+Subsec. (f)(4)(B)(ii). Pub. L. 115–123, §50723(4)(A)(ii), substituted "safe, permanent caregiving relationships for the children;" for "safety and permanence for such children; and".
 
 Subsec. (f)(4)(B)(iii). Pub. L. 115–123, §50723(4)(A)(iv), added cl. (iii). Former cl. (iii) redesignated (v).
 

@@ -64,7 +64,7 @@ To be eligible to receive a grant under this section, an institution of higher e
 
 &emsp;(7) For an institution of higher education proposing to use the grant for an activity described in paragraph (8) or (9) of subsection (b), a description of the policies and procedures of the institution of higher education that are related to applicable laws regarding access to, and sharing of, treatment records of students at any campus-based mental health center or partner organization, including the policies and State laws governing when such records can be accessed and shared for non-treatment purposes and a description of the process used by the institution of higher education to notify students of these policies and procedures, including the extent to which written consent is required.
 
-&emsp;(8) An assurance that grant funds will be used to supplement and not supplant any other Federal, State, or local funds available to carry out activities of the type carried out under the grant.
+&emsp;(8) An assurance that grant funds will be used to supplement and not supplant anyother Federal, State, or local funds available to carry out activities of the type carried out under the grant.
 
 #### (e) Requirement of matching funds
 
@@ -154,7 +154,7 @@ Establishment.—The Secretary of Health and Human Services (referred to in this
 
 "(c)
 
-Membership.—The Task Force shall be composed of a representative from each Federal agency (as appointed by the head of the agency) that has jurisdiction over, or is affected by, mental health and education policies and projects, including—
+Membership.—The Task Force shall be composed of a representative from each Federal agency (as appointed by the head of the agency) that has jurisdictionover, or is affected by, mental health and education policies and projects, including—
 
 &emsp;"(1) the Department of Education;
 

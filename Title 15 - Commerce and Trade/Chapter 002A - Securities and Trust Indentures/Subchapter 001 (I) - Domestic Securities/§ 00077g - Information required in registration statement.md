@@ -18,7 +18,7 @@
 
 (1) The Commission shall prescribe special rules with respect to registration statements filed by any issuer that is a blank check company. Such rules may, as the Commission determines necessary or appropriate in the public interest or for the protection of investors—
 
-&emsp;(A) require such issuers to provide timely disclosure, prior to or after such statement becomes effective under section 77h of this title, of (i) information regarding the company to beacquired and the specific application of the proceeds of the offering, or (ii) additional information necessary to prevent such statement from being misleading;
+&emsp;(A) require such issuers to provide timely disclosure, prior to or after such statement becomes effective under section 77h of this title, of (i) information regarding the company to be acquired and the specific application of the proceeds of the offering, or (ii) additional information necessary to prevent such statement from being misleading;
 
 &emsp;(B) place limitations on the use of such proceeds and the distribution of securities by such issuer until the disclosures required under subparagraph (A) have been made; and
 
@@ -118,11 +118,11 @@ Commencement of rulemaking.—Not later than 180 days after the date of enactmen
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Improvement of Regulation S–K
 
-Pub. L. 114–94, div. G, title LXXII, §72002, Dec. 4, 2015, 129 Stat. 1784, provided that: "Not later than the end ofthe 180-day period beginning on the date of the enactment of this Act \[Dec. 4, 2015\], the Securities and Exchange Commission shall take all such actions to revise regulation S–K (17 CFR 229.10 et seq.)—
+Pub. L. 114–94, div. G, title LXXII, §72002, Dec. 4, 2015, 129 Stat. 1784, provided that: "Not later than the end of the 180-day period beginning on the date of the enactment of this Act \[Dec. 4, 2015\], the Securities and Exchange Commission shall take all such actions to revise regulation S–K (17 CFR 229.10 et seq.)—
 
 &emsp;"(1) to further scale or eliminate requirements of regulation S–K, in order to reduce the burden on emerging growth companies, accelerated filers, smaller reporting companies, and other smaller issuers, while still providing all material information to investors;
 

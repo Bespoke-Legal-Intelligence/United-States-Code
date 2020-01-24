@@ -16,7 +16,7 @@
 
 (B) A list of the Federal requirements that meet the requirements of clauses (i) through (iii) of subparagraph (A) shall be included in an attachment to the contract pursuant to negotiations between the Secretary and the tribal organization.
 
-(C)(i) Except as provided in subparagraph (B), no Federal law listed in clause (ii) or any otherprovision of Federal law (including an Executive order) relating to acquisition by the Federal Government shall apply to a construction contract that a tribe or tribal organization enters into under this chapter, unless expressly provided in such law.
+(C)(i) Except as provided in subparagraph (B), no Federal law listed in clause (ii) or any other provision of Federal law (including an Executive order) relating to acquisition by the Federal Government shall apply to a construction contract that a tribe or tribal organization enters into under this chapter, unless expressly provided in such law.
 
 (ii) The laws listed in this paragraph are as follows:
 
@@ -108,7 +108,7 @@ Contracts and grants with tribal organizations pursuant to sections 5321 and 532
 
 #### (j) Proposal to redesign program, activity, function, or service
 
-Upon providing notice to the Secretary, a tribal organization that carries out a nonconstruction self-determination contract may propose a redesign of a program, activity, function, or service carried out by the tribal organization under the contract, including any nonstatutory program standard, in such manner as to best meet the local geographic, demographic, economic, cultural, health, and institutional needs of the Indian people and tribes served under the contract. The Secretary shall evaluate any proposal to redesign any program, activity, function, or service provided under the contract. With respect to declining to approve a redesigned program, activity, function, or service under this subsection, the Secretary shall apply the criteria and procedures set forth in section 5321 of this title.
+Upon providing notice to the Secretary, a tribal organization that carries out a nonconstruction self-determination contract may propose a redesign of a program, activity, function, or service carried out by the tribal organization under the contract, including any nonstatutoryprogram standard, in such manner as to best meet the local geographic, demographic, economic, cultural, health, and institutional needs of the Indian people and tribes served under the contract. The Secretary shall evaluate any proposal to redesign any program, activity, function, or service provided under the contract. With respect to declining to approve a redesigned program, activity, function, or service under this subsection, the Secretary shall apply the criteria and procedures set forth in section 5321 of this title.
 
 #### (k) Access to Federal sources of supply
 
@@ -204,7 +204,7 @@ Section 314 of the Department of the Interior and Related Agencies Appropriation
 
 Subsections (a)(2) and (b) of section 5321 of this title, referred to in subsec. (m)(4)(C)(v), was in the original "sections 102(a)(2) and 102(b) of section 102", and was translated as reading "subsections (a)(2) and (b) of section 102", meaning section 102 of Pub. L. 93–638, to reflect the probable intent of Congress.
 
-The Federal Records Act of 1950, referred to in subsec. (o), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44. Title V of act June 30, 1949, was repealed by Pub. L. 107–217, §4, Aug. 21, 2002, 116 Stat. 1303.
+The Federal Records Act of 1950, referred to in subsec. (o), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44. Title V of act June 30, 1949,was repealed by Pub. L. 107–217, §4, Aug. 21, 2002, 116 Stat. 1303.
 
 #### Codification
 
@@ -262,7 +262,7 @@ Subsec. (f)(2), (3). Pub. L. 101–644, §203(e), inserted "or real" after "pers
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–472, §204(b), (c), substituted reference to section 5321 of this title for reference to section 5321 of this title and former section 103 of Pub. L. 93–638 and inserted proviso relating to nonapplication of Office of Federal Procurement Policy Act to self-determination contracts. See Prior Provisions note set out under section 5322 of this title.
 
-Subsec. (b). Pub. L. 100–472, §204(d), which directed the amendment of subsec. (b) by substituting reference to sections 5321 and 5322 of this title for reference to section 5321 of this title, former section 103 of Pub. L. 93–638, and section 5322 of this title, was executed by substituting the new language for reference to section 5321 of this title, former section 103 of Pub. L. 93–638, or section 5322 of this title, to reflect the probable intent of Congress. See Prior Provisions note set out under section 5322 of this title.
+Subsec. (b). Pub. L. 100–472, §204(d), which directed the amendment of subsec. (b) by substituting reference to sections 5321 and 5322 of this title for reference to section 5321 of this title, former section 103 of Pub. L.93–638, and section 5322 of this title, was executed by substituting the new language for reference to section 5321 of this title, former section 103 of Pub. L. 93–638, or section 5322 of this title, to reflect the probable intent of Congress. See Prior Provisions note set out under section 5322 of this title.
 
 Subsec. (c). Pub. L. 100–472, §204(e), added subsec. (c) and struck out former subsec. (c) which related to limitation on term of any contract requested by a tribe pursuant to section 5321 of this title and former section 103 of Pub. L. 93–638 and annual renegotiation of amounts. See Prior Provisions note set out under section 5322 of this title.
 

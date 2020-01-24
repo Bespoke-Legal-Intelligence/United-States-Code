@@ -140,7 +140,7 @@ Instrument of Conveyance.—Not later than 1 year after the date of the enactmen
 
 #### Disposal of Naval Petroleum Reserves
 
-Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, as amended by Pub. L. 106–398, §1 \[div. C, title XXXIV, §3403(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, 1654A–489; Pub. L. 108–204, title I, §129, Mar. 2, 2004, 118 Stat. 547; Pub. L. 109–58, title III, §331(d), Aug. 8, 2005, 119 Stat. 695; Pub. L. 110–181, div. C, title XXXIV, §3402, Jan. 28, 2008, 122 Stat. 590, provided that:
+Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, as amended by Pub. L. 106–398, §1 \[div. C, title XXXIV, §3403(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, 1654A–489; Pub. L. 108–204, title I, §129, Mar.2, 2004, 118 Stat. 547; Pub. L. 109–58, title III, §331(d), Aug. 8, 2005, 119 Stat. 695; Pub. L. 110–181, div. C, title XXXIV, §3402, Jan. 28, 2008, 122 Stat. 590, provided that:
 
 #### "SEC. 3401. DEFINITIONS.
 
@@ -306,7 +306,7 @@ Plant Species.—(1) In accordance with a government-to-government agreement bet
 
 "(h)
 
-Horses.—(1) The Tribe shall manage, protect, and assert control over any horse not owned by theTribe or tribal members that is located or found on the NOSR–2 land conveyed to the Tribe in a manner that is consistent with Federal law governing the management, protection, and control of horses in effect on the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\].
+Horses.—(1) The Tribe shall manage, protect, and assert control over any horse not owned by the Tribe or tribal members that is located or found on the NOSR–2 land conveyed to the Tribe in a manner that is consistent with Federal law governing the management, protection, and control of horses in effect on the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\].
 
 "(2) The management, control, and protection of horses described in paragraph (1) shall be performed solely—
 
@@ -380,7 +380,7 @@ Waiver of Requirements Regarding Consultation and Approval.—Section 7431 \[now
 
 Oil Shale Reserve Numbered 2.—This section does not apply to the transfer of Oil Shale Reserve Numbered 2 under section 3405."
 
-Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631, as amended by Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774; Pub. L.113–291, div. A, title X, §1071(b)(12), Dec. 19, 2014, 128 Stat. 3507, provided that:
+Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631, as amended by Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774; Pub. L. 113–291, div. A, title X, §1071(b)(12), Dec. 19, 2014, 128 Stat. 3507, provided that:
 
 #### "SEC. 3411. DEFINITIONS.
 
@@ -402,7 +402,7 @@ Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631
 
 "(a)
 
-Sale of Reserve Required.—Subject to section 3414, not later than two years after the effective date, the Secretary of Energy shall enter into one or more contracts for the sale of all right, title, and interest of the United States in and to all lands owned or controlled by the United States inside Naval Petroleum Reserve Numbered 1. Chapter 641 \[now 869\] of title 10, United States Code, shall not apply to the sale of the reserve.
+Sale of Reserve Required.—Subject to section 3414, not later than two years after the effective date,the Secretary of Energy shall enter into one or more contracts for the sale of all right, title, and interest of the United States in and to all lands owned or controlled by the United States inside Naval Petroleum Reserve Numbered 1. Chapter 641 \[now 869\] of title 10, United States Code, shall not apply to the sale of the reserve.
 
 "(b)
 
@@ -454,7 +454,7 @@ Solicitation of Offers.—(1) Not later than 13 months after the effective date,
 
 "(2) Not later than 18 months after the effective date, the Secretary shall identify the highest responsible offer or offers for purchase of the interest of the United States in Naval Petroleum Reserve Numbered 1 that, in total, meet or exceed the minimum acceptable price determined under subsection (d)(3).
 
-"(3) The Secretary shall take such action immediately after the effective date as is necessary to obtain from an independent petroleum engineer within 10 months after that date a reserve report prepared in amanner consistent with commercial practices. The Secretary shall use the reserve report in support of the preparation of the solicitation of offers for the reserve.
+"(3) The Secretary shall take such action immediately after the effective date as is necessary to obtain from an independent petroleum engineer within 10 months after that date a reserve report prepared in a manner consistent with commercial practices. The Secretary shall use the reserve report in support of the preparation of the solicitation of offers for the reserve.
 
 "(g)
 
@@ -470,7 +470,7 @@ Noncompliance With Deadlines.—At any time during the two-year period beginning
 
 "(j)
 
-Oversight.—The Comptroller General shall monitor the actions of the Secretary relating to the sale of the reserve and report to the appropriate congressional committees any findings on such actions that the Comptroller General considers appropriate to report to the committees.
+Oversight.—The Comptroller General shall monitor the actions of the Secretary relating to the sale ofthe reserve and report to the appropriate congressional committees any findings on such actions that the Comptroller General considers appropriate to report to the committees.
 
 "(k)
 
@@ -534,7 +534,7 @@ Reservation of Funds.—After the costs incurred in the conduct of the sale of N
 
 "(b)
 
-Disposition of Funds.—In such amounts as may be provided in appropriation Acts, amounts in the contingent fund shall be available for paying a claim described in subsection (a). After final disposition of the claims, any unobligated balance in the contingent fund shall be credited to the general fund of the Treasury. If no payment is made from the contingent fund within 10years after the effective date, amounts in the contingent fund shall be credited to the general fund of the Treasury.
+Disposition of Funds.—In such amounts as may be provided in appropriation Acts, amounts in the contingent fund shall be available for paying a claim described in subsection (a). After final disposition of the claims, any unobligated balance in the contingent fund shall be credited to the general fund of the Treasury. If no payment is made from the contingent fund within 10 years after the effective date, amounts in the contingent fund shall be credited to the general fund of the Treasury.
 
 "(c)
 

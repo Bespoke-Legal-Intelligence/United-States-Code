@@ -96,7 +96,7 @@ In addition to the required activities described in subsection (a) and the permi
 
 &emsp;(2) Providing professional development opportunities to individuals working with eligible cohorts of students described in section 1070a–22(d)(1)(A) of this title.
 
-&emsp;(3) Providing administrative support to help build the capacity of eligible entities described in section 1070a–21(c)(2) of this title to compete for and manage grants awarded under this division.
+&emsp;(3) Providing administrative support to help build the capacity of eligible entities described in section 1070a–21(c)(2) of this title tocompete for and manage grants awarded under this division.
 
 &emsp;(4) Providing strategies and activities that align efforts in the State to prepare eligible students to attend and succeed in postsecondary education, which may include the development of graduation and career plans.
 
@@ -142,7 +142,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (d)(3), is Pu
 
 #### Prior Provisions
 
-A prior section 1070a–24, Pub. L. 89–329, title IV, §404D, as added Pub. L. 102–325, title IV, §402(a)(4), July23, 1992, 106 Stat. 495; amended Pub. L. 103–208, §2(b)(18), (19), Dec. 20, 1993, 107 Stat. 2459, related to scholarship component, prior to the general amendment of this division by Pub. L. 105–244. See section 1070a–25 of this title.
+A prior section 1070a–24, Pub. L. 89–329, title IV, §404D, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 495; amended Pub. L. 103–208, §2(b)(18), (19), Dec. 20, 1993, 107 Stat. 2459, related to scholarship component, prior to the general amendment of this division by Pub. L. 105–244. See section 1070a–25 of this title.
 
 #### Amendments
 

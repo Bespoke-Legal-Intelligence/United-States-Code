@@ -14,7 +14,7 @@
 
 #### (3) Allocation of funds
 
-&emsp;Of the amount authorized to be appropriated by paragraph (1) for the fiscal years 2009 through 2013, such sums as may be necessary are authorized to be appropriated to carry out section 104A(d)(4) of the Foreign Assistance Act of 1961 (as added by subsection (a)) \[22 U.S.C. 2151b–2(d)(4)\], relating to the procurement and distribution of HIV/AIDS pharmaceuticals.
+&emsp;Of the amount authorized to be appropriated by paragraph (1) for the fiscal years 2009through 2013, such sums as may be necessary are authorized to be appropriated to carry out section 104A(d)(4) of the Foreign Assistance Act of 1961 (as added by subsection (a)) \[22 U.S.C. 2151b–2(d)(4)\], relating to the procurement and distribution of HIV/AIDS pharmaceuticals.
 
 #### (c) Food and nutritional support
 
@@ -114,5 +114,5 @@ Subsec. (c). Pub. L. 110–293, §301(g), amended subsec. (c) generally. Prior t
 
 Subsec. (d). Pub. L. 110–293, §301(h), amended subsec. (d) generally. Prior to amendment, text read as follows: "An organization that is otherwise eligible to receive assistance under section 104A of the Foreign Assistance Act of 1961 (as added by subsection (a)) or under any other provision of this chapter (or any amendment made by this chapter) to prevent, treat, or monitor HIV/AIDS shall not be required, as a condition of receiving the assistance, to endorse or utilize a multisectoral approach to combatting HIV/AIDS, or to endorse, utilize, or participate in a prevention method or treatment program to which the organization has a religious or moral objection."
 
-<b>2004</b>—Subsec. (f). Pub. L. 108–199, §595(3), inserted ", except that this subsection shall not apply to theGlobal Fund to Fight AIDS, Tuberculosis and Malaria, the World Health Organization, the International AIDS Vaccine Initiative or to any United Nations agency" after "trafficking".
+<b>2004</b>—Subsec. (f). Pub. L. 108–199, §595(3), inserted ", except that this subsection shall not apply to the Global Fund to Fight AIDS, Tuberculosis and Malaria, the World Health Organization, the International AIDS Vaccine Initiative or to any United Nations agency" after "trafficking".
 

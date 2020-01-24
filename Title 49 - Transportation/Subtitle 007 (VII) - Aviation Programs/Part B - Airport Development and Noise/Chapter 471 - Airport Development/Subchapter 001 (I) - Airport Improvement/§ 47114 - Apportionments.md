@@ -258,7 +258,7 @@ Effective period.—Subparagraph (A) shall be in effect for fiscal year 2004.
 
 Supplemental Apportionment for Puerto Rico and United States Territories.—The Secretary shall apportion amounts for airports in Puerto Rico and all other United States territories in accordance with this section. This subsection does not prohibit the Secretary from making project grants for airports in Puerto Rico or other United States territories from the discretionary fund under section 47115.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §121, Oct. 9, 1996, 110 Stat. 3217; Pub. L. 106–181, title I, §§104(a)–(d), 105(c), Apr. 5, 2000, 114 Stat. 67–71; Pub. L. 108–176, title I, §§146, 147, Dec. 12, 2003, 117 Stat. 2504; Pub. L. 109–115, div. A, title I, §109, Nov. 30, 2005, 119 Stat. 2402; Pub. L. 112–95, title I, §§111(c)(2)(A)(iii), 141–143, Feb. 14, 2012, 126 Stat. 18, 28, 29; Pub. L. 114–190, title II, §2301, July 15, 2016, 130 Stat. 638; Pub. L. 115–63, title I, §102(b), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–254, div. B, title I, §§136, 148(b), 151, 164, Oct. 5, 2018, 132 Stat. 3210, 3214, 3215, 3225.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §121, Oct. 9, 1996, 110 Stat. 3217; Pub. L. 106–181, title I, §§104(a)–(d), 105(c), Apr. 5, 2000, 114 Stat. 67–71; Pub. L. 108–176, title I, §§146, 147, Dec. 12, 2003, 117 Stat. 2504; Pub. L. 109–115, div. A, title I, §109, Nov. 30,2005, 119 Stat. 2402; Pub. L. 112–95, title I, §§111(c)(2)(A)(iii), 141–143, Feb. 14, 2012, 126 Stat. 18, 28, 29; Pub. L. 114–190, title II, §2301, July 15, 2016, 130 Stat. 638; Pub. L. 115–63, title I, §102(b), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–254, div. B, title I, §§136, 148(b), 151, 164, Oct. 5, 2018, 132 Stat. 3210, 3214, 3215, 3225.)
 
 Historical and Revision Notes
 
@@ -443,7 +443,7 @@ Subsec. (e)(1). Pub. L. 106–181, §104(d)(2), (5), inserted heading, realigned
 
 Subsec. (e)(2). Pub. L. 106–181, §104(d)(3), (5), inserted heading and realigned margins.
 
-Subsec. (e)(3), (4). Pub. L. 106–181, §104(d)(4), added pars. (3) and (4) and struck out former par. (3) which read as follows: "Airports referred to in this subsectioninclude those public airports that received scheduled service as of September 3, 1982, but were not apportioned amounts in the fiscal year ending September 30, 1980, under section 15(a) of the Act because the airports were not under the control of a State or local public agency."
+Subsec. (e)(3), (4). Pub. L. 106–181, §104(d)(4), added pars. (3) and (4) and struck out former par. (3) which read as follows: "Airports referred to in this subsection include those public airports that received scheduled service as of September 3, 1982, but were not apportioned amounts in the fiscal year ending September 30, 1980, under section 15(a) of the Act because the airports were not under the control of a State or local public agency."
 
 Subsec. (f). Pub. L. 106–181, §105(c), designated existing provisions as par. (1), inserted heading, realigned margins, substituted "Subject to paragraph (3), an amount" for "An amount" and "an amount equal to—" and subpars. (A) and (B) for "an amount equal to 50 percent of the projected revenues from the fee in the fiscal year but not by more than 50 percent of the amount that otherwise would be apportioned under this section.", and added pars. (2) and (3).
 

@@ -122,7 +122,7 @@ Amendments Relating to Family Farmers.—(1) The amendments made by subtitle B o
 
 &emsp;"(A)(i) any reference in section 326(b) of title 11 of the United States Code to chapter 13 of title 11 of the United States Code shall be deemed to be a reference to chapter 12 or chapter 13 of title 11 of the United States Code,
 
-&emsp;"(ii) any reference in such section 326(b) to section 1302(d) of title 11 of the United States Code shall bedeemed to be a reference to section 1302(d) of title 11 of the United States Code or section 586(b) of title 28 of the United States Code, and
+&emsp;"(ii) any reference in such section 326(b) to section 1302(d) of title 11 of the United States Code shall be deemed to be a reference to section 1302(d) of title 11 of the United States Code or section 586(b) of title 28 of the United States Code, and
 
 &emsp;"(iii) any reference in such section 326(b) to section 1302(a) of title 11 of the United States Code shall be deemed to be a reference to section 1202(a) or section 1302(a) of title 11 of the United States Code, and
 
@@ -412,7 +412,7 @@ Standing Trustees in Bankruptcy Cases Under Chapter 13.—It is the sense of the
 
 Establishment of Project.—Not later than 1 year after the effective date of this Act, the Director of the Executive Office for United States Trustees, in consultation with the Director of the Administrative Office of the United States Courts, shall establish an electronic case management demonstration project to be carried out in 3 Federal judicial districts that have a sufficiently large and varied bankruptcy caseload so as to provide a meaningful evaluation of the cost and effectiveness of such system. A contract for such project shall be awarded—
 
-&emsp;"(1) on the basis of competitive bids submitted by qualified nongovernmental entities that are able to design an automated joint information system for use by the United States courts and by United States trustees, and
+&emsp;"(1) on the basis of competitive bids submitted by qualified nongovernmental entities that are able todesign an automated joint information system for use by the United States courts and by United States trustees, and
 
 &emsp;"(2) in accordance with the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Office of Federal Procurement Policy Act \[see division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of Title 41\], and title 31 of the United States Code.
 

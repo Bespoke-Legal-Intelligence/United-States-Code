@@ -64,7 +64,7 @@ Pub. L. 101–534, §3, Nov. 7, 1990, 104 Stat. 2352, provided that: "The amendm
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974, but only to a period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
+Amendment by Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974, but only to a period beginning on or after Sept. 7, 1974,see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
 #### Personnel Not Affected by 1967 Increase
 

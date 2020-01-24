@@ -8,7 +8,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) has a management program approved under section 1455 of this title; and
 
-&emsp;&emsp;(B) in the judgment of the Secretary, is making satisfactory progress in activities designed to result in significant improvement in achieving the coastal management objectives specified in section 1452(2)(A) through (K) of this title.
+&emsp;&emsp;(B) in the judgment of the Secretary, is making satisfactory progress in activitiesdesigned to result in significant improvement in achieving the coastal management objectives specified in section 1452(2)(A) through (K) of this title.
 
 &emsp;(2) The term "urban waterfront and port" means any developed area that is densely populated and is being used for, or has been used for, urban residential recreational, commercial, shipping or industrial purposes.
 

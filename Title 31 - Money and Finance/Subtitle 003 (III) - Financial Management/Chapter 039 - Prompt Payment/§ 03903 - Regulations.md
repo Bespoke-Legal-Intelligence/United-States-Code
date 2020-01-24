@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) the date payment is due under the contract for the item of property or service provided; or
 
-&emsp;&emsp;(B) 30 days after a proper invoice for the amount due is received if a specific payment date is not established by contract;
+&emsp;&emsp;(B) except as provided in paragraphs (10) and (11), 30 days after a proper invoice for the amount due is received if a specific payment date is not established by contract;
 
 &emsp;(2) for the acquisition of meat or a meat food product (as defined in section 2(a)(3) of the Packers and Stockyards Act, 1921 (7 U.S.C. 182(3))), including any edible fresh or frozen poultry meat, any perishable poultry meat food product, fresh eggs, and any perishable egg product, or of fresh or frozen fish (as defined in section 204(3) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4003(3)), provide a required payment date of not later than 7 days after the meat, meat food product, or fish is delivered; and
 
@@ -26,7 +26,7 @@
 
 &emsp;(6) in the case of a construction contract, provide for the payment of interest on—
 
-&emsp;&emsp;(A) a progress payment (including a monthly percentage-of-completion progresspayment or milestone payments for completed phases, increments, or segments of any project) that is approved as payable by the agency pursuant to subsection (b) of this section and remains unpaid for—
+&emsp;&emsp;(A) a progress payment (including a monthly percentage-of-completion progress payment or milestone payments for completed phases, increments, or segments of any project) that is approved as payable by the agency pursuant to subsection (b) of this section and remains unpaid for—
 
 &emsp;&emsp;&emsp;(i) a period of more than 14 days after receipt of the payment request by the place or person designated by the agency to first receive such requests; or
 
@@ -42,9 +42,17 @@
 
 &emsp;&emsp;(C) the number of days available to an agency to make a timely payment of an invoice without incurring an interest penalty shall be reduced by the number of days by which an agency exceeds the requirements of subparagraph (B) of this paragraph;
 
-&emsp;(8) permit an agency to make payment up to 7 days prior to the required payment date, or earlier as determined by the agency to be necessary on a case-by-case basis; and
+&emsp;(8) permit an agency to make payment up to 7 days prior to the required payment date, or earlier as determined by the agency to be necessary on a case-by-case basis;
 
-&emsp;(9) prescribe the methods for computing interest under section 3903(c) <sup>1</sup> of this title.
+&emsp;(9) prescribe the methods for computing interest under section 3903(c) <sup>1</sup> of this title;
+
+&emsp;(10) for a prime contractor (as defined in section 8701(5) of title 41) that is a small business concern (as defined under section 3 of the Small Business Act (15 U.S.C. 632)), to the fullest extent permitted by law, require that the head of an agency establish an accelerated payment date with a goal of 15 days after a proper invoice for the amount due is received if a specific payment date is not established by contract; and
+
+&emsp;(11) for a prime contractor (as defined in section 8701(5) of title 41) that subcontracts with a small business concern (as defined under section 3 of the Small Business Act (15 U.S.C. 632)), to the fullest extent permitted by law, require that the head of an agency establish an accelerated payment date with a goal of 15 days after a proper invoice for the amount due is received if—
+
+&emsp;&emsp;(A) a specific payment date is not established by contract; and
+
+&emsp;&emsp;(B) such prime contractor agrees to make payments to such subcontractor in accordance with such accelerated payment date, to the maximum extent practicable, without any further consideration from or fees charged to such subcontractor.
 
 (b)(1) A payment request may not be approved under subsection (a)(6)(A) of this section unless the application for such payment includes—
 
@@ -70,7 +78,7 @@
 
 (2) Amounts deducted from payments to contractors under paragraph (1)(B) shall revert to the Treasury.
 
-(Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2476; amended Pub. L. 100–496, §§4–7, 13(a), Oct. 17, 1988, 102 Stat. 2457–2459, 2465; Pub. L. 102–190, div. A, title VIII, §842, Dec. 5, 1991, 105 Stat. 1449; Pub. L. 106–65, div. A, title X, §1009, Oct. 5, 1999, 113 Stat. 738.)
+(Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2476; amended Pub. L. 100–496, §§4–7, 13(a), Oct. 17, 1988, 102 Stat. 2457–2459, 2465; Pub. L. 102–190, div. A, title VIII, §842, Dec. 5, 1991, 105 Stat. 1449; Pub. L. 106–65, div. A, title X, §1009, Oct. 5, 1999, 113 Stat. 738; Pub. L. 116–92, div. A, title VIII, §873, Dec. 20, 2019, 133 Stat. 1527.)
 
 Historical and Revision Notes
 
@@ -90,11 +98,15 @@ In the section, before clause (1), the words "The Director of the Office of Mana
 
 #### References in Text
 
-The Perishable Agricultural Commodities Act, 1930, referred to in subsec. (a)(3), is act June 10, 1930, ch. 436, 46 Stat. 531, as amended, which is classified generally to chapter 20A (§499a et seq.) of Title 7, Agriculture. Section 1(4) of the Act was redesignated section 1(b)(4) by Pub. L. 102–237, title X, §1011(1)(A), Dec. 13, 1991, 105Stat. 1898, and is classified to section 499a(b)(4) of Title 7. For complete classification of this Act to the Code, see section 499r of Title 7 and Tables.
+The Perishable Agricultural Commodities Act, 1930, referred to in subsec. (a)(3), is act June 10, 1930, ch. 436, 46 Stat. 531, as amended, which is classified generally to chapter 20A (§499a et seq.) of Title 7, Agriculture. Section 1(4) of the Act was redesignated section 1(b)(4) by Pub. L. 102–237, title X, §1011(1)(A), Dec. 13, 1991, 105 Stat. 1898, and is classified to section 499a(b)(4) of Title 7. For complete classification of this Act to the Code, see section 499r of Title 7 and Tables.
 
 Section 3903(c) of this title, referred to in subsec. (a)(9), was redesignated section 3903(d) by Pub. L. 106–65, div. A, title X, §1009(1), Oct. 5, 1999, 113 Stat. 738.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(1)(B). Pub. L. 116–92, §873(1), inserted "except as provided in paragraphs (10) and (11)," before "30 days".
+
+Subsec. (a)(10), (11). Pub. L. 116–92, §873(2)–(4), added pars. (10) and (11).
 
 <b>1999</b>—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -170,7 +182,7 @@ Pub. L. 100–496, §11, Oct. 17, 1988, 102 Stat. 2463, provided that:
 
 #### Edible Fresh or Frozen Poultry Meat, Perishable Poultry Meat Food Products, Fresh Eggs, and Perishable Egg Products
 
-Pub. L. 98–181, title II, §2002, Nov. 30, 1983, 97 Stat. 1297, to the extent that it provided that the terms "meat" and "meat food products" as used in 31 U.S.C. 3903(2) also included edible fresh or frozen poultry meat, perishable poultry meat food products, fresh eggs and perishable egg products, was stricken by Pub. L.100–496, §13(b), Oct. 17, 1988, 102 Stat. 2465, applicable to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988.
+Pub. L. 98–181, title II, §2002, Nov. 30, 1983, 97 Stat. 1297, to the extent that it provided that the terms "meat" and "meat food products" as used in 31 U.S.C. 3903(2) also included edible fresh or frozen poultry meat, perishable poultry meat food products, fresh eggs and perishable egg products, was stricken by Pub. L. 100–496, §13(b), Oct. 17, 1988, 102 Stat. 2465, applicable to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

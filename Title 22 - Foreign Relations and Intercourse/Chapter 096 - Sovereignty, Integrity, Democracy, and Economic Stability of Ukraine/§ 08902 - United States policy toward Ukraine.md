@@ -18,7 +18,7 @@ It is the policy of the United States—
 
 &emsp;(8) to reinforce the efforts of the Government of Ukraine to bring to justice those responsible for the acts of violence against peaceful protestors and other unprovoked acts of violence related to the antigovernment protests in <sup>1</sup> that began on November 21, 2013;
 
-&emsp;(9) to support the efforts of the Government of Ukraine to recover and return to theUkrainian state funds stolen by former President Yanukovych, his family, and other current and former members of the Ukrainian government and elites;
+&emsp;(9) to support the efforts of the Government of Ukraine to recover and return to the Ukrainian state funds stolen by former President Yanukovych, his family, and other current and former members of the Ukrainian government and elites;
 
 &emsp;(10) to support the continued professionalization of the Ukrainian military;
 
@@ -34,7 +34,7 @@ It is the policy of the United States—
 
 &emsp;(16) to explore ways for the United States Government to assist the countries of Central and Eastern Europe to diversify their energy sources and achieve energy security; and
 
-&emsp;(17) to ensure the United States maintains its predominant leadership position and influence within the International Monetary Fund, and to guarantee the International Monetary Fund has the resources and governance structure necessary to support structural reforms in Ukraine and respond to and prevent a potentially serious financial crisis in Ukraine or other foreign economic crises that threatens United States national security.
+&emsp;(17) to ensure the United States maintains its predominant leadership position and influence within the International Monetary Fund, and to guarantee the International Monetary Fund has the resources and governance structure necessary to support structural reformsin Ukraine and respond to and prevent a potentially serious financial crisis in Ukraine or other foreign economic crises that threatens United States national security.
 
 (Pub. L. 113–95, §3, Apr. 3, 2014, 128 Stat. 1088.)
 

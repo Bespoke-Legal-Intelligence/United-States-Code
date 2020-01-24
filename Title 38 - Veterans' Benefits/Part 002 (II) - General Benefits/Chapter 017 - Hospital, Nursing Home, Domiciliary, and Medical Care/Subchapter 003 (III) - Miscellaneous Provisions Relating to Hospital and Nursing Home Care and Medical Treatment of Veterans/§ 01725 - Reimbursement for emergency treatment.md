@@ -42,7 +42,7 @@ Limitations on Reimbursement.—(1) The Secretary, in accordance with regulation
 
 (2) Subject to paragraph (1), the Secretary may provide reimbursement under this section only after the veteran or the provider of emergency treatment has exhausted without success all claims and remedies reasonably available to the veteran or provider against a third party for payment of such treatment.
 
-(3) Payment by the Secretary under this section on behalf of a veteran to a provider of emergency treatment shall, unless rejected and refunded by the provider within 30 days of receipt, extinguish any liability on the part of the veteran for that treatment. Neither the absence of a contract or agreement between the Secretary and the provider nor any provision of a contract,agreement, or assignment to the contrary shall operate to modify, limit, or negate the requirement in the preceding sentence.
+(3) Payment by the Secretary under this section on behalf of a veteran to a provider of emergency treatment shall, unless rejected and refunded by the provider within 30 days of receipt, extinguish any liability on the part of the veteran for that treatment. Neither the absence of a contract or agreement between the Secretary and the provider nor any provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate the requirement in the preceding sentence.
 
 (4)(A) If the veteran has contractual or legal recourse against a third party that would only, in part, extinguish the veteran's liability to the provider of the emergency treatment, and payment for the treatment may be made both under subsection (a) and by the third party, the amount payable for such treatment under such subsection shall be the amount by which the costs for the emergency treatment exceed the amount payable or paid by the third party, except that the amount payable may not exceed the maximum amount payable established under paragraph (1)(A).
 
@@ -84,7 +84,7 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) at the time the veteran could have been transferred safely to a Department facility or other Federal facility, no Department facility or other Federal facility agreed to accept such transfer; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the non-Department facility in which such medical care or services was furnished made and documented reasonable attempts to transfer the veteran to a Department facility or other Federal facility.
+&emsp;&emsp;&emsp;&emsp;(II) the non-Department facility in which such medical care or services wasfurnished made and documented reasonable attempts to transfer the veteran to a Department facility or other Federal facility.
 
 &emsp;(2) The term "health-plan contract" includes any of the following:
 
@@ -112,7 +112,7 @@ Definitions.—For purposes of this section:
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended.Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -144,5 +144,5 @@ Pub. L. 106–117, title I, §111(c), Nov. 30, 1999, 113 Stat. 1556, provided th
 
 #### Implementation Reports
 
-Pub. L. 106–117, title I, §111(d), Nov. 30, 1999, 113 Stat. 1556, provided that: "The Secretary \[of Veterans Affairs\] shall include with the budget justification materials submitted to Congress in support of the Department of Veterans Affairs budget for fiscal year 2002 and for fiscal year 2003 a report on the implementation of section 1725 of title 38, United States Code, as added by subsection (a). Each such report shall include information on the experience of the Department under that section and the costs incurred, and expected to be incurred, under that section."
+Pub. L. 106–117, title I, §111(d), Nov. 30, 1999, 113 Stat. 1556, required the Secretary of Veterans Affairs to include with the budget justification materials submitted to Congress in support of the Department of Veterans Affairs budget for fiscal years 2002 and 2003 a report on the implementation of this section, including information on the experience of the Department under that section and the costs incurred.
 

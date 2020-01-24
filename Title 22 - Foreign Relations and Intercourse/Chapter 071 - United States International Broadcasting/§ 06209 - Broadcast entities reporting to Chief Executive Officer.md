@@ -8,7 +8,7 @@
 
 #### (2) Special rule
 
-&emsp;No State or political subdivision of a State may establish, enforce, or continue in effect any provision of law or legal requirement that is different from, or is in conflict with, any requirement or authority applicable under this chapter relating to the consolidation, incorporation, structure, or dissolution of any grantee under this chapter.
+&emsp;No State or political subdivision of a State may establish, enforce, or continue in effectany provision of law or legal requirement that is different from, or is in conflict with, any requirement or authority applicable under this chapter relating to the consolidation, incorporation, structure, or dissolution of any grantee under this chapter.
 
 #### (b) Mission
 

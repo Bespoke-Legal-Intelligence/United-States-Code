@@ -26,7 +26,7 @@ The Secretary shall approve a comprehensive economic development strategy that m
 
 &emsp;To the maximum extent practicable, a plan submitted under this paragraph shall be consistent and coordinated with any existing comprehensive economic development strategy for the area.
 
-(Pub. L. 89–136, title III, §302, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3608; amended Pub. L. 108–373, title III, §302, Oct. 27, 2004, 118 Stat. 1767.)
+(Pub. L. 89–136, title III, §302, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat.3608; amended Pub. L. 108–373, title III, §302, Oct. 27, 2004, 118 Stat. 1767.)
 
 #### Prior Provisions
 

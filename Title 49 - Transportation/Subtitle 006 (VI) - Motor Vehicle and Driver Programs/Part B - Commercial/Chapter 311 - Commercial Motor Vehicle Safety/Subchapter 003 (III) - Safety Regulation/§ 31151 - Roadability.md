@@ -20,7 +20,7 @@ Contents.—The regulations issued under this section shall include, at a minimu
 
 &emsp;&emsp;(B) a requirement to match intermodal equipment readily to an intermodal equipment provider through a unique identifying number;
 
-&emsp;&emsp;(C) a requirement that an intermodal equipment provider identified under subparagraph (A) systematically inspect, repair, and maintain, or cause to be systematically inspected, repaired, and maintained, intermodal equipment described in subparagraph (A) that is intended for interchange with a motor carrier;
+&emsp;&emsp;(C) a requirement that an intermodal equipment provider identified under subparagraph (A) systematically inspect, repair, and maintain, or cause to be systematicallyinspected, repaired, and maintained, intermodal equipment described in subparagraph (A) that is intended for interchange with a motor carrier;
 
 &emsp;&emsp;(D) a requirement to ensure that each intermodal equipment provider identified under subparagraph (A) maintains a system of maintenance and repair records for such equipment;
 

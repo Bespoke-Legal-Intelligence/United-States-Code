@@ -120,7 +120,7 @@ Subsec. (b)(3), (4). Pub. L. 108–493, §1(a), repealed Pub. L. 108–357, §33
 
 Pub. L. 108–357, §332(b), which directed the amendment of subsec. (b) by adding par. (3), relating to arrows, and redesignating former par. (3) as (4), was repealed by Pub. L. 108–493, §1(a). See Construction of 2004 Amendment note below.
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–34 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) imposing taxes on bows and arrows and parts and accessories and providing for coordination of taxes under subsecs. (a) and (b).
+<b>1997</b>—Subsec. (b). Pub. L. 105–34 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted ofpars. (1) to (3) imposing taxes on bows and arrows and parts and accessories and providing for coordination of taxes under subsecs. (a) and (b).
 
 <b>1986</b>—Subsec. (b)(1)(B)(ii). Pub. L. 99–514 substituted a comma for the period at end.
 
@@ -178,7 +178,7 @@ Pub. L. 89–44, title VII, §701(a), June 21, 1965, 79 Stat. 155, provided that
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by titles I and II of this Act \[enacting sections 4094 and 6424 of this title, amending this section and sections 4055, 4057, 4061, 4091, 4216, 4218, 4221, 4222, 4227, 6011, 6206, 6412, 6416, 6675, 7210, 7603, 7604, and 7605 of this title, repealing sections4001 to 4003, 4011 to 4013, 4021, 4022, 4031, 4051 to 4053, 4111, 4121, 4131, 4141 to 4143, 4151, 4171 to 4173, 4191, 4192, 4201, 4211, and 4224 of this title, and amending provisions set out as a note under section 120 of Title 23, Highways\] shall apply with respect to articles sold on or after the day after the date of the enactment of this Act \[June 21, 1965\].
+In general.—Except as otherwise provided in this subsection, the amendments made by titles I and II of this Act \[enacting sections 4094 and 6424 of this title, amending this section and sections 4055, 4057, 4061, 4091, 4216, 4218, 4221, 4222, 4227, 6011, 6206, 6412, 6416, 6675, 7210, 7603, 7604, and 7605 of this title, repealing sections 4001 to 4003, 4011 to 4013, 4021, 4022, 4031, 4051 to 4053, 4111, 4121, 4131, 4141 to 4143, 4151, 4171 to 4173, 4191, 4192, 4201, 4211, and 4224 of this title, and amending provisions set out as a note under section 120 of Title 23, Highways\] shall apply with respect to articles sold on or after the day after the date of the enactment of this Act \[June 21, 1965\].
 
 "(2)
 

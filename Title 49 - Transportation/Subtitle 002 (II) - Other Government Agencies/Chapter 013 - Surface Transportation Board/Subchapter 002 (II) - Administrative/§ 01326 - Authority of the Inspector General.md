@@ -28,7 +28,7 @@ Funding.—There are authorized to be appropriated to the Secretary of Transport
 
 &emsp;(2)
 
-Reimbursable agreement.—In the absence of an appropriation under this subsection for an expense referred to in paragraph (1), the Inspector General and the Board shall have a reimbursement agreement to cover such expense.
+Reimbursable agreement.—In the absence of an appropriation under this subsection for an expense referred to in paragraph\(1), the Inspector General and the Board shall have a reimbursement agreement to cover such expense.
 
 (Added Pub. L. 114–110, §9, Dec. 18, 2015, 129 Stat. 2232.)
 

@@ -26,7 +26,7 @@ Export credit guarantees authorized by this section shall not be used for foreig
 
 #### (d) Restrictions
 
-The Commodity Credit Corporation shall not make credit guarantees available in connection with sales of agricultural commodities to any obligor that the Secretary determines cannot adequately service the debt associated with such sale.
+The Commodity Credit Corporation shall not make credit guarantees available in connectionwith sales of agricultural commodities to any obligor that the Secretary determines cannot adequately service the debt associated with such sale.
 
 #### (e) Terms
 
@@ -52,7 +52,7 @@ The Commodity Credit Corporation shall finance or guarantee under this section o
 
 #### (h) Conditions for fish and processed fish products
 
-In making available any guarantees of credit under this section in connection with sales of fish and processed fish products, the Secretary shall make such guarantees available under terms and conditions that are comparable to theterms and conditions that apply to guarantees provided with respect to sales of other agricultural commodities under this section.
+In making available any guarantees of credit under this section in connection with sales of fish and processed fish products, the Secretary shall make such guarantees available under terms and conditions that are comparable to the terms and conditions that apply to guarantees provided with respect to sales of other agricultural commodities under this section.
 
 #### (i) Consultation on agricultural export credit programs
 

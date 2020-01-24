@@ -112,7 +112,7 @@
 
 #### (I) General rule
 
-&emsp;&emsp;&emsp;&emsp;Any apparel article classifiable under subheading 6212.10 of the HTS, except for articles entered under clause (i), (ii), (iii), or (iv), if the article is both cut and sewn or otherwise assembled in the United States, or one or more ATPDEA beneficiary countries, or both.
+&emsp;&emsp;&emsp;&emsp;Any apparel article classifiable under subheading 6212.10 of the HTS, except forarticles entered under clause (i), (ii), (iii), or (iv), if the article is both cut and sewn or otherwise assembled in the United States, or one or more ATPDEA beneficiary countries, or both.
 
 #### (II) Limitation
 
@@ -142,7 +142,7 @@
 
 #### (IV) Special origin rule
 
-&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under clause (i) or (iii) shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30, 5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS from a country that is a party to anagreement with the United States establishing a free trade area, which entered into force before January 1, 1995.
+&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under clause (i) or (iii) shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30, 5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS from a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1995.
 
 #### (vii) Textile luggage
 
@@ -154,7 +154,7 @@
 
 #### (viii) Removal of designation of fabrics or yarns not available in commercial quantities
 
-&emsp;&emsp;&emsp;If the President determines that any fabric or yarn was determined to be eligible for preferential treatment under clause (i)(III) or (ii) on the basis of fraud, the President is authorized to remove that designation from that fabric or yarn with respect to articles entered after such removal.
+&emsp;&emsp;&emsp;If the President determines that any fabric or yarn was determined to be eligible for preferential treatment under clause (i)(III) or (ii) on the basis of fraud, thePresident is authorized to remove that designation from that fabric or yarn with respect to articles entered after such removal.
 
 #### (C) Handloomed, handmade, and folklore articles
 
@@ -206,7 +206,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a vessel that has a certificate of documentation with a fishery endorsement under chapter 121 of title 46; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a vessel without a fishery endorsement, a vessel that is documented under the laws of the UnitedStates and for which a license has been issued pursuant to section 973g of title 16.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a vessel without a fishery endorsement, a vessel that is documented under the laws of the United States and for which a license has been issued pursuant to section 973g of title 16.
 
 #### (ii) ATPDEA vessel
 
@@ -216,7 +216,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) which sails under the flag of an ATPDEA beneficiary country;
 
-&emsp;&emsp;&emsp;&emsp;(III) which is at least 75 percent owned by nationals of an ATPDEA beneficiary country or by a company having its principal place of business in an ATPDEA beneficiary country, of which the manager or managers, chairman of the board of directors or of the supervisory board, and the majority of the members of such boards are nationals of an ATPDEA beneficiary country and of which, in the case of a company, at least 50 percent of the capital is owned by an ATPDEA beneficiary country or by public bodies or nationals of an ATPDEA beneficiary country;
+&emsp;&emsp;&emsp;&emsp;(III) which is at least 75 percent owned by nationals of an ATPDEA beneficiary country or by a company having its principal place of business in an ATPDEA beneficiary country, of which the manager or managers, chairman of the board of directors or of the supervisory board, and the majority of the members of such boards are nationals of an ATPDEA beneficiary country and of which, in the case of a company, at least 50 percent of the capital is owned by an ATPDEA beneficiary country or by public bodies ornationals of an ATPDEA beneficiary country;
 
 &emsp;&emsp;&emsp;&emsp;(IV) of which the master and officers are nationals of an ATPDEA beneficiary country; and
 
@@ -348,7 +348,7 @@
 
 (2) Within 14 days after the filing of a petition under paragraph (1) of this subsection—
 
-&emsp;(A) if the Secretary of Agriculture has reason to believe that a perishable product from a beneficiary country is being imported into the United States in such increased quantities as to be a substantial cause of serious injury,or the threat thereof, to the domestic industry producing a perishable product like or directly competitive with the imported product and that emergency action is warranted, he shall advise the President and recommend that the President take emergency action; or
+&emsp;(A) if the Secretary of Agriculture has reason to believe that a perishable product from a beneficiary country is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry producing a perishable product like or directly competitive with the imported product and that emergency action is warranted, he shall advise the President and recommend that the President take emergency action; or
 
 &emsp;(B) the Secretary of Agriculture shall publish a notice of his determination not to recommend the imposition of emergency action and so advise the petitioner.
 

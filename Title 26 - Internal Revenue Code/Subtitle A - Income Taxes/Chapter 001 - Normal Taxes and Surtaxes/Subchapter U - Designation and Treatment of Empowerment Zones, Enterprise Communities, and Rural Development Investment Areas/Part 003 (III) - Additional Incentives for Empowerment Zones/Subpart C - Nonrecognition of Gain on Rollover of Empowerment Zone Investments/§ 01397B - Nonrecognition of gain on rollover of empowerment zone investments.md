@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) references to empowerment zones were substituted for references to renewal communities,
 
-&emsp;&emsp;&emsp;(ii) references to enterprise zone businesses (as defined in section 1397C) weresubstituted for references to renewal community businesses,
+&emsp;&emsp;&emsp;(ii) references to enterprise zone businesses (as defined in section 1397C) were substituted for references to renewal community businesses,
 
 &emsp;&emsp;&emsp;(iii) the date of the enactment of this paragraph were substituted for "December 31, 2001" each place it appears, and
 

@@ -80,15 +80,47 @@ For transfer of authorities, functions, personnel, and assets of the Bureau of A
 
 For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
+#### Notice From IRS Regarding Closure of Taxpayer Assistance Centers
+
+Pub. L. 116–25, title I, §1403, July 1, 2019, 133 Stat. 997, provided that: "Not later than 90 days before the date that a proposed closure of a Taxpayer Assistance Center would take effect, the Secretary of the Treasury (or the Secretary's delegate) shall—
+
+&emsp;"(1) make publicly available (including by non-electronic means) a notice which—
+
+&emsp;&emsp;"(A) identifies the Taxpayer Assistance Center proposed for closure and the date of such proposed closure; and
+
+&emsp;&emsp;"(B) identifies the relevant alternative sources of taxpayer assistance which may be utilized by taxpayers affected by such proposed closure; and
+
+&emsp;"(2) submit to Congress a written report that includes—
+
+&emsp;&emsp;"(A) the information included in the notice described in paragraph (1);
+
+&emsp;&emsp;"(B) the reasons for such proposed closure; and
+
+&emsp;&emsp;"(C) such other information as the Secretary may determine appropriate."
+
+#### Customer Service Information
+
+Pub. L. 116–25, title I, §1406, July 1, 2019, 133 Stat. 1000, provided that: "The Secretary of the Treasury (or the Secretary's delegate) shall provide helpful information to taxpayers placed on hold during a telephone call to any Internal Revenue Service help line, including the following:
+
+&emsp;"(1) Information about common tax scams.
+
+&emsp;"(2) Information on where and how to report tax scams.
+
+&emsp;"(3) Additional advice on how taxpayers can protect themselves from identity theft and tax scams."
+
 #### IRS Employees Prohibited From Using Personal Email Accounts for Official Business
 
 Pub. L. 114–113, div. Q, title IV, §402, Dec. 18, 2015, 129 Stat. 3117, provided that: "No officer or employee of the Internal Revenue Service may use a personal email account to conduct any official business of the Government."
 
 #### IRS Reports on Information Technology Investments
 
-Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 888, provided in part: "That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter".
+Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 888, provided in part: "That not later than 14 days after the end of each quarter of each fiscal year, the InternalRevenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter".
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–93, div. C, title I, Dec. 20, 2019, 133 Stat. 2440, 2441.
+
+Pub. L. 116–6, div. D, title I, Feb. 15, 2019, 133 Stat. 144, 145.
 
 Pub. L. 115–141, div. E, title I, Mar. 23, 2018, 132 Stat. 541.
 
@@ -226,6 +258,26 @@ Regulations.—The Secretary of the Treasury may prescribe such regulations as m
 
 #### Reorganization of Internal Revenue Service
 
+Pub. L. 116–25, title I, §1302, July 1, 2019, 133 Stat. 993, provided that:
+
+"(a)
+
+In General.—Not later than September 30, 2020, the Secretary of the Treasury (or the Secretary's delegate) shall submit to Congress a comprehensive written plan to redesign the organization of the Internal Revenue Service. Such plan shall—
+
+&emsp;"(1) ensure the successful implementation of the priorities specified by Congress in this Act \[see Short Title of 2019 Amendment note set out under section 1 of this title\];
+
+&emsp;"(2) prioritize taxpayer services to ensure that all taxpayers easily and readily receive the assistance that they need;
+
+&emsp;"(3) streamline the structure of the agency including minimizing the duplication of services and responsibilities within the agency;
+
+&emsp;"(4) best position the Internal Revenue Service to combat cybersecurity and other threats to the Internal Revenue Service; and
+
+&emsp;"(5) address whether the Criminal Investigation Division of the Internal Revenue Service should report directly to the Commissioner of Internal Revenue.
+
+"(b)
+
+Repeal of Restriction on Organizational Structure of Internal Revenue Service.—Paragraph (3) of section 1001(a) of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206, set out below\] shall cease to apply beginning 1 year after the date on which the plan described in subsection (a) is submitted to Congress."
+
 Pub. L. 105–206, title I, §1001, July 22, 1998, 112 Stat. 689, provided that:
 
 "(a)
@@ -277,6 +329,8 @@ Administrative actions relating to promulgation of regulations.—Any administra
 "(c)
 
 Effective Date.—This section shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
+
+<i>\[Subsec. (a)(3) of section 1001 of Pub. L. 105–206, set out above, to cease to apply beginning 1 year after the date on which the plan described in section 1302(a) of Pub. L. 116–25 is submitted to Congress, see section 1302(b) of Pub. L. 116–25, set out in a note above.\]</i>
 
 #### Internal Revenue Service Mission To Focus on Taxpayers' Needs
 
@@ -414,7 +468,7 @@ Findings.—The Congress finds the following:
 
 &emsp;"(2) To date, the Tax Systems Modernization (TSM) program has cost the taxpayers $2.5 billion, with an estimated cost of $8 billion. Despite this investment, modernization efforts were recently described by the GAO as 'chaotic' and 'ad hoc'.
 
-&emsp;"(3) While the IRS maintains that TSM will increase efficiency and thus revenues, Congress has hadto appropriate additional funds in recent years for compliance initiatives in order to increase tax revenues.
+&emsp;"(3) While the IRS maintains that TSM will increase efficiency and thus revenues, Congress has had to appropriate additional funds in recent years for compliance initiatives in order to increase tax revenues.
 
 &emsp;"(4) Because TSM has not been implemented, the IRS continues to rely on paper returns, processing a total of 14 billion pieces of paper every tax season. This results in an extremely inefficient system.
 
@@ -630,7 +684,7 @@ Distribution.—The statement prepared in accordance with subsections (a) and (b
 
 #### Fees for Requests for Ruling, Determination, and Similar Letters
 
-Pub. L. 100–203, title X, §10511, Dec. 22, 1987, 101 Stat. 1330–446, as amended by Pub. L. 101–508, title XI, §11319(a), Nov. 5, 1990, 104 Stat. 1388–460; Pub. L. 103–465, title VII, §743, Dec. 8, 1994, 108 Stat. 5011; Pub. L. 104–117, §2, Mar. 20, 1996, 110 Stat. 828, related to program requiring the payment of user fees for certain requests to the Internal Revenue Service, prior to repealby Pub. L. 108–89, title II, §202(b)(2), Oct. 1, 2003, 117 Stat. 1133.
+Pub. L. 100–203, title X, §10511, Dec. 22, 1987, 101 Stat. 1330–446, as amended by Pub. L. 101–508, title XI, §11319(a), Nov. 5, 1990, 104 Stat. 1388–460; Pub. L. 103–465, title VII, §743, Dec. 8, 1994, 108 Stat. 5011; Pub. L. 104–117, §2, Mar. 20, 1996, 110 Stat. 828, related to program requiring the payment of user fees for certain requests to the Internal Revenue Service, prior to repeal by Pub. L. 108–89, title II, §202(b)(2), Oct. 1, 2003, 117 Stat. 1133.
 
 #### Study of Tax Incentives for Expenditures Required by Occupational Safety and Health Administration and Mining Health and Safety Administration
 
@@ -722,7 +776,7 @@ Ex. Ord. No. 13789, Apr. 21, 2017, 82 F.R. 19317, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The Federal tax system should be simple, fair, efficient, and pro-growth. The purposes oftax regulations should be to bring clarity to the already complex Internal Revenue Code (title 26, United States Code) and to provide useful guidance to taxpayers. Contrary to these purposes, numerous tax regulations issued over the last several years have effectively increased tax burdens, impeded economic growth, and saddled American businesses with onerous fines, complicated forms, and frustration. Immediate action is necessary to reduce the burden existing tax regulations impose on American taxpayers and thereby to provide tax relief and useful, simplified tax guidance.
+Section 1. <i>Policy</i>. The Federal tax system should be simple, fair, efficient, and pro-growth. The purposes of tax regulations should be to bring clarity to the already complex Internal Revenue Code (title 26, United States Code) and to provide useful guidance to taxpayers. Contrary to these purposes, numerous tax regulations issued over the last several years have effectively increased tax burdens, impeded economic growth, and saddled American businesses with onerous fines, complicated forms, and frustration. Immediate action is necessary to reduce the burden existing tax regulations impose on American taxpayers and thereby to provide tax relief and useful, simplified tax guidance.
 
 Sec. 2. <i>Addressing Tax Regulatory Burdens</i>. (a) In furtherance of the policy described in section 1 of this order, the Secretary of the Treasury (Secretary) shall immediately review all significant tax regulations issued by the Department of the Treasury on or after January 1, 2016, and, in consultation with the Administrator of the Office of Information and Regulatory Affairs, Office of Management and Budget, identify in an interim report to the President all such regulations that:
 

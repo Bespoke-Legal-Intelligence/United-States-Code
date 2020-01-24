@@ -12,7 +12,7 @@
 
 &emsp;(5) The term "refined sugars" possesses the same meaning as the term "direct-consumption sugar" as defined in section 1101 <sup>1</sup> of title 7.
 
-&emsp;(6) The term "Philippine article" means an article the growth, produce, or manufacture of the Philippines, in the production of which no materials of other than Philippine or United States origin valued in excess of 20 per centumof the total value of such article was used and which is brought into the United States from the Philippines.
+&emsp;(6) The term "Philippine article" means an article the growth, produce, or manufacture of the Philippines, in the production of which no materials of other than Philippine or United States origin valued in excess of 20 per centum of the total value of such article was used and which is brought into the United States from the Philippines.
 
 &emsp;(7) The term "American article" means an article the growth, produce, or manufacture of the United States, in the production of which no materials of other than Philippine or United States origin valued in excess of 20 per centum of the total value of such article was used and which is brought into the Philippines from the United States.
 

@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (B) Nondeferral period
 
-&emsp;&emsp;The term "nondeferral period" means the portion of the taxable year of the personalservice corporation which occurs after the portion of such year constituting the deferral period.
+&emsp;&emsp;The term "nondeferral period" means the portion of the taxable year of the personal service corporation which occurs after the portion of such year constituting the deferral period.
 
 #### (4) Adjusted taxable income
 

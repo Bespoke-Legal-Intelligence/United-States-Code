@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation may maintain, repair, recondition, remodel, and improve vessels owned by the United States Government and in the possession or under the control of the Secretary, to equip them adequately for competition in the foreign trade of the United States. The Secretary may operate such a vessel or charter the vessel on terms and conditions the Secretary considers appropriate to carry out the purposes of this subtitle.
+In General.—The Secretary of Transportation may maintain, repair, recondition, remodel, and improve vessels owned by the United States Government and in the possession or under the control of the Secretary, to equip them adequately for competition in the foreign trade of the United States. The Secretary mayoperate such a vessel or charter the vessel on terms and conditions the Secretary considers appropriate to carry out the purposes of this subtitle.
 
 (b)
 

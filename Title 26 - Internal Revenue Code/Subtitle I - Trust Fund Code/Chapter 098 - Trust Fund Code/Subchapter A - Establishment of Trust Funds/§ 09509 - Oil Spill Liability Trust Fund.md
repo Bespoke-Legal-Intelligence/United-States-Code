@@ -18,7 +18,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 &emsp;(5) amounts required to be transferred by the Oil Pollution Act of 1990 from the Deepwater Port Liability Fund established under section 18(f) of the Deepwater Port Act of 1974,
 
-&emsp;(6) amounts required to be transferred by the Oil Pollution Act of 1990 from the Offshore Oil Pollution Compensation Fund established under section 302 of the Outer Continental Shelf Lands Act Amendments of 1978,
+&emsp;(6) amounts required to be transferred by the Oil Pollution Act of 1990 from the Offshore Oil Pollution Compensation Fund establishedunder section 302 of the Outer Continental Shelf Lands Act Amendments of 1978,
 
 &emsp;(7) amounts required to be transferred by the Oil Pollution Act of 1990 from the Trans-Alaska Pipeline Liability Fund established under section 204 of the Trans-Alaska Pipeline Authorization Act, and
 
@@ -92,7 +92,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 #### (2) Coordination with other provisions
 
-&emsp;Nothing in the Oil Pollution Act of 1990 (or in any amendment made by such Act) shall authorize the payment by the United StatesGovernment of any amount with respect to any such claim out of any source other than the Oil Spill Liability Trust Fund.
+&emsp;Nothing in the Oil Pollution Act of 1990 (or in any amendment made by such Act) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Oil Spill Liability Trust Fund.
 
 #### (3) Order in which unpaid claims are to be paid
 
@@ -106,7 +106,7 @@ Any reference in this section to the Oil Pollution Act of 1990 or any other Act 
 
 #### References in Text
 
-The Oil Pollution Act of 1990, referred to in subsecs. (b)(2), (3), (5)–(7), (c)(1), (e)(2), and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§2701 et seq.) of Title 33, Navigation and Navigable Waters. Sections 1006, 1012, 1015, and 6002 of the Act are classified to sections 2706, 2712, 2715, and 2752 of Title 33, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 33 and Tables.
+The Oil Pollution Act of 1990, referred to in subsecs. (b)(2), (3), (5)–(7), (c)(1), (e)(2), and (f), is Pub. L. 101–380,Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§2701 et seq.) of Title 33, Navigation and Navigable Waters. Sections 1006, 1012, 1015, and 6002 of the Act are classified to sections 2706, 2712, 2715, and 2752 of Title 33, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 33 and Tables.
 
 Section 311 of the Federal Water Pollution Control Act, referred to in subsecs. (b)(4), (8) and (c)(1)(C), (D), is classified to section 1321 of Title 33. Subsec. (d) of section 311, which related to maritime disaster discharges, was amended generally by Pub. L. 101–380, title IV, §4201(b), Aug. 18, 1990, 104 Stat. 525. Subsec. (k) of section 311 was repealed by Pub. L. 101–380, title II, §2002(b)(2), Aug. 18, 1990, 104 Stat. 507.
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7811(m)(3) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7811(m)(3) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

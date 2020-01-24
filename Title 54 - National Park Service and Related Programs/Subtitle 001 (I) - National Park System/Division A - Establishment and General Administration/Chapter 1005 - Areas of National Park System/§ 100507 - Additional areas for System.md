@@ -32,7 +32,7 @@ Congressional authorization required.—No study of the potential of an area for
 
 &emsp;(5)
 
-Authority to conduct certain activities not limited.—This section and sections 100901(b), 101702(b) and (c), and 102102 of this title do not limit the authority of the Service to conduct preliminary resource assessments, gather data on potential study areas, provide technical and planning assistance, prepare or process nominations for administrative designations, update previous studies, or complete reconnaissance surveys of individual areas requiring a total expenditure of less than $25,000.
+Authority to conduct certain activities not limited.—This section and sections 100901(b), 101702(b) and (c), and 102102 of this title do not limit the authority of the Serviceto conduct preliminary resource assessments, gather data on potential study areas, provide technical and planning assistance, prepare or process nominations for administrative designations, update previous studies, or complete reconnaissance surveys of individual areas requiring a total expenditure of less than $25,000.
 
 &emsp;(6)
 
@@ -138,7 +138,7 @@ Authorization of Appropriations.—
 
 &emsp;(1)
 
-Studies of potential new system units and monitoring the welfare of system unit resources.—To carry out studies for potential new System units and for monitoring the welfare of historical and natural resources referred to in subparagraphs (A) and (B) of subsection (d)(1), there is authorized to be appropriated not more than $1,000,000 for each fiscal year.
+Studies of potential new system units and monitoring the welfare of system unitresources.—To carry out studies for potential new System units and for monitoring the welfare of historical and natural resources referred to in subparagraphs (A) and (B) of subsection (d)(1), there is authorized to be appropriated not more than $1,000,000 for each fiscal year.
 
 &emsp;(2)
 

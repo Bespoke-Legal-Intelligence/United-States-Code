@@ -58,7 +58,7 @@ Inclusions.—The updated report described in clause (i) shall—
 
 &emsp;&emsp;&emsp;"(I) include—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) the date on which the most recent review of project operations was conducted and any recommendations of the Secretary relating to that review the Secretary determines to be significant;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) the date on which the most recent review of project operations was conducted andany recommendations of the Secretary relating to that review the Secretary determines to be significant;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) the activities carried out pursuant to each such review to improve the efficiency of operations and maintenance and to improve project benefits consistent with authorized purposes;
 

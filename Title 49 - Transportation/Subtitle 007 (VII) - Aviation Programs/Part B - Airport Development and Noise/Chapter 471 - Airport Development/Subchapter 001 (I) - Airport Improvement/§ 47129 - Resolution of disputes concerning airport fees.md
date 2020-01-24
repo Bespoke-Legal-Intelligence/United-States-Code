@@ -66,7 +66,7 @@ Referral or credit.—Any amounts paid under this subsection by a complainant ai
 
 &emsp;&emsp;(C)
 
-Assurance of timely repayment.—In order to assure the timely repayment, with interest, of amounts in dispute determined not to be reasonable by the Secretary, the airport shall obtain a letter of credit, or surety bond, or other suitable credit facility, equal to the amount in dispute that is due during the 120-day period established by this section, plus interest, unless the airport and the complainant air carrier or foreign air carrier agree otherwise.
+Assurance of timely repayment.—In order to assure the timely repayment, with interest, of amounts in dispute determined not to be reasonable by the Secretary, theairport shall obtain a letter of credit, or surety bond, or other suitable credit facility, equal to the amount in dispute that is due during the 120-day period established by this section, plus interest, unless the airport and the complainant air carrier or foreign air carrier agree otherwise.
 
 &emsp;&emsp;(D)
 
@@ -118,7 +118,7 @@ A prior section 47129 was renumbered section 47131 of this title.
 
 <b>2012</b>—Pub. L. 112–95, §148(a)(1), substituted "Resolution of disputes concerning airport fees" for "Resolution of airport-air carrier disputes concerning airport fees" in section catchline.
 
-Subsec. (a)(1). Pub. L. 112–95, §148(a)(6), (7), substituted "air carriers or foreign air carriers" for "aircarriers" and "(as those terms are defined in section 40102)" for "(as defined in section 40102 of this title)" in introductory provisions.
+Subsec. (a)(1). Pub. L. 112–95, §148(a)(6), (7), substituted "air carriers or foreign air carriers" for "air carriers" and "(as those terms are defined in section 40102)" for "(as defined in section 40102 of this title)" in introductory provisions.
 
 Subsec. (a)(1)(B). Pub. L. 112–95, §148(a)(4), substituted "air carrier or foreign air carrier" for "air carrier".
 

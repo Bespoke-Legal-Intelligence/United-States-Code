@@ -12,25 +12,29 @@
 
 &emsp;(3) a majority of the members of the board, after consideration by all members of the board of any adverse information about the officer that is provided to the board under section 615 of this title, finds that the officer is among the officers best qualified for promotion to meet the needs of the armed force concerned consistent with the requirement of exemplary conduct set forth in section 7233, 8167, or 9233 of this title, as applicable.
 
-(d) Except as otherwise provided by law, an officer on the active-duty list may not be promoted to a higher grade under this chapter unless he is considered and recommended for promotion to that grade by a selection board convened under this chapter.
+(d) The number of officers recommended for promotion by a selection board convened under section 611(a) of this title may not exceed the number equal to 95 percent of the number of officers included in the promotion zone established under section 623 of this title for consideration by the board.
 
-(e) The recommendations of a selection board may be disclosed only in accordance with regulations prescribed by the Secretary of Defense. Those recommendations may not be disclosed to a person not a member of the board (or a member of the administrative staff designated by the Secretary concerned to assist the board) until the written report of the recommendations of the board, required by section 617 of this title, is signed by each member of the board.
+(e) Except as otherwise provided by law, an officer on the active-duty list may not be promoted to a higher grade under this chapter unless he is considered and recommended for promotion to that grade by a selection board convened under this chapter.
 
-(f) The Secretary convening a selection board under section 611(a) of this title, and an officer or other official exercising authority over any member of a selection board, may not—
+(f) The recommendations of a selection board may be disclosed only in accordance with regulations prescribed by the Secretary of Defense. Those recommendations may not be disclosed to a person not a member of the board (or a member of the administrative staff designated by the Secretary concerned to assist the board) until the written report of the recommendations of the board, required by section 617 of this title, is signed by each member of the board.
+
+(g) The Secretary convening a selection board under section 611(a) of this title, and an officer or other official exercising authority over any member of a selection board, may not—
 
 &emsp;(1) censure, reprimand, or admonish the selection board or any member of the board with respect to the recommendations of the board or the exercise of any lawful function within the authorized discretion of the board; or
 
 &emsp;(2) attempt to coerce or, by any unauthorized means, influence any action of a selection board or any member of a selection board in the formulation of the board's recommendations.
 
-(g)(1) In selecting the officers to be recommended for promotion, a selection board may, when authorized by the Secretary of the military department concerned, recommend officers of particular merit, from among those officers selected for promotion, to be placed higher on the promotion list established by the Secretary under section 624(a)(1) of this title.
+(h)(1) In selecting the officers to be recommended for promotion, a selection board may, when authorized by the Secretary of the military department concerned, recommend officers of particular merit, from among those officers selected for promotion, to be placed higher on the promotion list established by the Secretary under section 624(a)(1) of this title.
 
 (2) An officer may be recommended to be placed higher on a promotion list under paragraph (1) only if the officer receives the recommendation of at least a majority of the members of the board, unless the Secretary concerned establishes an alternative requirement. Any such alternative requirement shall be furnished to the board as part of the guidelines furnished to the board under section 615 of this title.
 
 (3) For the officers recommended to be placed higher on a promotion list under paragraph (1), the board shall recommend the order in which those officers should be placed on the list.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2852; amended Pub. L. 100–456, div. A, title V, §501(b), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–190, div. A, title V, §504(b), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 102–484, div. A, title X, §1052(8), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 109–364, div. A, title V, §512(a), Oct. 17, 2006, 120 Stat. 2184; Pub. L. 115–232, div. A, title V, §504(a), title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1742, 1840.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2852; amended Pub. L. 100–456, div. A, title V, §501(b), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–190, div. A, title V, §504(b), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 102–484, div. A, title X, §1052(8), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 109–364, div. A, title V, §512(a), Oct. 17, 2006, 120 Stat. 2184; Pub. L. 115–232, div. A, title V, §504(a), title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1742, 1840; Pub. L. 116–92, div. A, title V, §503(a), Dec. 20, 2019, 133 Stat. 1344.)
 
 #### Amendments
+
+<b>2019</b>—Subsecs. (d) to (h). Pub. L. 116–92 added subsec. (d) and redesignated former subsecs. (d) to (g) as (e) to (h), respectively.
 
 <b>2018</b>—Subsec. (c)(3). Pub. L. 115–232, §809(a), substituted "section 7233, 8167, or 9233" for "section 3583, 5947, or 8583".
 
@@ -44,9 +48,13 @@ Subsec. (g). Pub. L. 115–232, §504(a), added subsec. (g).
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–456 inserted "(as noted in the guidelines or information furnished the board under section 615(a) of this title)" after "particular skills".
 
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–92, div. A, title V, §503(b), Dec. 20, 2019, 133 Stat. 1344, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2019\], and shall apply with respect to consideration by promotion selection boards convened under section 611(a) of title 10, United States Code, of promotion zones that are established under section 623 of that title on or after that date."
+
 #### Effective Date of 2018 Amendment
 
-Amendment by section 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination ofamendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by section 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2006 Amendment
 

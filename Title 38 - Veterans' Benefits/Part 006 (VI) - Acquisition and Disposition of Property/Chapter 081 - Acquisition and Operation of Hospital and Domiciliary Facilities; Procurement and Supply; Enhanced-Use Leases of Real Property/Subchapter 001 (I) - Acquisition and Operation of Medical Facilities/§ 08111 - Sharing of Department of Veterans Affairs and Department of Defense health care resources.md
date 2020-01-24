@@ -24,7 +24,7 @@ Joint Incentives Program.—(1) Pursuant to subsection (b)(4), the two Secretari
 
 (2) To facilitate the incentive program, there is established in the Treasury a fund to be known as the "DOD–VA Health Care Sharing Incentive Fund". Each Secretary shall annually contribute to the fund a minimum of $15,000,000 from the funds appropriated to that Secretary's Department. Such funds shall remain available until expended and shall be available for any purpose authorized by this section.
 
-(3) The program under this subsection shall terminate on September 30, 2020.
+(3) The program under this subsection shall terminate on September 30, 2023.
 
 (e)
 
@@ -80,9 +80,9 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 &emsp;(D) A description of proposals for which funds are provided through the joint incentives program under subsection (d), together with a description of their results or status at the time of the report, including access improvements, savings, and quality-of-care enhancements they brought about, and a description of any additional use of funds made available under subsection (d).
 
-(4) In addition to the matters specified in paragraphs (2) and (3), the two Secretaries shall include in the annual report under this subsection for each year through 2008 the following:
+(4) In addition to the matters specified in paragraphs (2) and (3), the two Secretaries shallinclude in the annual report under this subsection for each year through 2008 the following:
 
-&emsp;(A) A description of the measures taken, or planned to be taken, to implement the healthresources sharing project under section 722 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and any cost savings anticipated, or cost sharing achieved, at facilities participating in the project, including information on improvements in access to care, quality, and timeliness, as well as impediments encountered and legislative recommendations to ameliorate such impediments.
+&emsp;(A) A description of the measures taken, or planned to be taken, to implement the health resources sharing project under section 722 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and any cost savings anticipated, or cost sharing achieved, at facilities participating in the project, including information on improvements in access to care, quality, and timeliness, as well as impediments encountered and legislative recommendations to ameliorate such impediments.
 
 &emsp;(B) A description of the use of the waiver authority provided by section 722(d)(1) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314), including—
 
@@ -110,7 +110,7 @@ Definitions.—For the purposes of this section:
 
 &emsp;(7) The term "service region" means a geographic service area of the Veterans Health Administration, in the case of the Department of Veterans Affairs, and a service region, in the case of the Department of Defense.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, §747(a), title X, §1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, §743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, §8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–84, div. A, title XVII, §1706, Oct. 28, 2009, 123 Stat. 2574; Pub. L. 114–58, title I, §107, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–92, div. A, title VII, §722, Nov. 25, 2015, 129 Stat. 869.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, §747(a), title X, §1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, §743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, §8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–84, div. A, title XVII, §1706, Oct. 28, 2009, 123 Stat. 2574; Pub. L. 114–58, title I, §107, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–92, div. A, title VII, §722, Nov. 25, 2015, 129 Stat. 869; Pub. L. 116–92, div. A, title VII, §736, Dec. 20, 2019, 133 Stat. 1463.)
 
 #### References in Text
 
@@ -122,7 +122,9 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-<b>2015</b>—Subsec. (d)(3). Pub. L. 114–92, which directed substitution of "September 30, 2020" for "September 30, 2015", was executed by making the substitution for "September 30, 2016" to reflect the probable intent of Congress and the intervening amendment by Pub. L. 114–58. See below.
+<b>2019</b>—Subsec. (d)(3). Pub. L. 116–92 substituted "September 30, 2023" for "September 30, 2020".
+
+<b>2015</b>—Subsec. (d)(3). Pub. L. 114–92, which directed substitution of "September 30, 2020" for "September 30,2015", was executed by making the substitution for "September 30, 2016" to reflect the probable intent of Congress and the intervening amendment by Pub. L. 114–58. See below.
 
 Pub. L. 114–58 substituted "September 30, 2016" for "September 30, 2015".
 
@@ -210,7 +212,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Admini
 
 <b>1982</b>—Pub. L. 97–174, §3(b)(1), substituted "Sharing of Veterans' Administration and Department of Defense health-care resources" for "Use of Armed Forces facilities" in section catchline.
 
-Subsec. (a). Pub. L. 97–174, §3(a)(1), (2), designated existing provisions as subsec. (a) and substituted "material, and other resources as may be needed to operate such facilities properly, except that the Administrator may not enter into an agreement that would result (1) in a permanent reduction in the total number of authorized Veterans' Administration hospital beds and nursing home beds to a level below the minimum number of such beds required by section 5010(a)(1) of this title to be authorized, or (2) in a permanent reductionin the total number of such beds operated and maintained to a level below the minimum number of such beds required by such section to be operated and maintained" for "and material as may be needed to operate such facilities properly, or for the transfer, without reimbursement of appropriations, of facilities, supplies, equipment, or material necessary and proper for authorized care for veterans, except that at no time shall the Administrator enter into any agreement which will result in a permanent reduction of Veterans' Administration hospital and domiciliary beds below the number established or approved on June 22, 1944, plus the estimated number required to meet the load of eligibles under this title,".
+Subsec. (a). Pub. L. 97–174, §3(a)(1), (2), designated existing provisions as subsec. (a) and substituted "material, and other resources as may be needed to operate such facilities properly, except that the Administrator may not enter into an agreement that would result (1) in a permanent reduction in the total number of authorized Veterans' Administration hospital beds and nursing home beds to a level below the minimum number of such beds required by section 5010(a)(1) of this title to be authorized, or (2) in a permanent reduction in the total number of such beds operated and maintained to a level below the minimum number of such beds required by such section to be operated and maintained" for "and material as may be needed to operate such facilities properly, or for the transfer, without reimbursement of appropriations, of facilities, supplies, equipment, or material necessary and proper for authorized care for veterans, except that at no time shall the Administrator enter into any agreement which will result in a permanent reduction of Veterans' Administration hospital and domiciliary beds below the number established or approved on June 22, 1944, plus the estimated number required to meet the load of eligibles under this title,".
 
 Subsecs. (b) to (g). Pub. L. 97–174, §3(a)(3), added subsecs. (b) to (g).
 
@@ -304,7 +306,7 @@ Conduct of Project.—(1) At sites at which the project is conducted, the Secret
 
 &emsp;&emsp;"(ii) communicate with medical information and information technology systems of corresponding elements of those facilities; and
 
-&emsp;&emsp;"(iii) incorporate minimum standards of information quality that are at least equivalent to thoseadopted for the Departments at large in their separate health care systems.
+&emsp;&emsp;"(iii) incorporate minimum standards of information quality that are at least equivalent to those adopted for the Departments at large in their separate health care systems.
 
 "(d)
 
@@ -480,7 +482,7 @@ Report.—In the report under subsection (a) for fiscal year 1996, the Secretari
 
 "(a)
 
-Right To Recover.—In the case of a primary beneficiary (as described in section 201(a)(2)(B)) who has coverage under a health-plan contract, as defined in section 1729(i)(1)(A) of title 38, United States Code, and who is furnished care or services by a Department medical facility pursuant to this title, the United States shall have the right to recover or collect charges for such care or services from such health-plan contract to the extent that the beneficiary (or the provider of the care or services) would be eligible to receive payment for such care or services from such health-plan contract if the care or services had not been furnishedby a department or agency of the United States. Any funds received from such health-plan contract shall be credited to funds that have been allotted to the facility that furnished the care or services.
+Right To Recover.—In the case of a primary beneficiary (as described in section 201(a)(2)(B)) who has coverage under a health-plan contract, as defined in section 1729(i)(1)(A) of title 38, United States Code, and who is furnished care or services by a Department medical facility pursuant to this title, the United States shall have the right to recover or collect charges for such care or services from such health-plan contract to the extent that the beneficiary (or the provider of the care or services) would be eligible to receive payment for such care or services from such health-plan contract if the care or services had not been furnished by a department or agency of the United States. Any funds received from such health-plan contract shall be credited to funds that have been allotted to the facility that furnished the care or services.
 
 "(b)
 

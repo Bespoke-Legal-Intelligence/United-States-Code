@@ -28,7 +28,7 @@ The Secretary shall provide funds under a funding agreement under this subchapte
 
 &emsp;&emsp;&emsp;(ii) in subsequent years, except pursuant to—
 
-&emsp;&emsp;&emsp;&emsp;(I) a reduction in appropriations from the previous fiscal year for the program or function to be included in a compact or funding agreement;
+&emsp;&emsp;&emsp;&emsp;(I) a reduction in appropriations from the previous fiscal year for the programor function to be included in a compact or funding agreement;
 
 &emsp;&emsp;&emsp;&emsp;(II) a congressional directive in legislation or accompanying report;
 
@@ -64,7 +64,7 @@ An Indian tribe is entitled to retain interest earned on any funds paid under a 
 
 #### (i) Carryover of funds
 
-All funds paid to an Indian tribe in accordance with a compact or funding agreement shall remain available until expended. In the event that an Indian tribe elects to carry over funding from1 year to the next, such carryover shall not diminish the amount of funds the Indian tribe is authorized to receive under its funding agreement in that or any subsequent fiscal year.
+All funds paid to an Indian tribe in accordance with a compact or funding agreement shall remain available until expended. In the event that an Indian tribe elects to carry over funding from 1 year to the next, such carryover shall not diminish the amount of funds the Indian tribe is authorized to receive under its funding agreement in that or any subsequent fiscal year.
 
 #### (j) Program income
 

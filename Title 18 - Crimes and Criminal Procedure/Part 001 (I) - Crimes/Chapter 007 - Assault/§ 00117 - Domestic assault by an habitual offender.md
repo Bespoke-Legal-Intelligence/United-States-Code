@@ -8,7 +8,7 @@ In General.—Any person who commits a domestic assault within the special marit
 
 &emsp;(2) an offense under chapter 110A,
 
-> shall be fined under this title, imprisoned for a term of not more than 5 years, or both, except that if substantial bodily injury results from violation under this section, the offender shall be imprisoned for a term of not more than 10 years.
+> shall be fined under this title, imprisoned for a term of not more than 5 years, or both, exceptthat if substantial bodily injury results from violation under this section, the offender shall be imprisoned for a term of not more than 10 years.
 
 (b)
 

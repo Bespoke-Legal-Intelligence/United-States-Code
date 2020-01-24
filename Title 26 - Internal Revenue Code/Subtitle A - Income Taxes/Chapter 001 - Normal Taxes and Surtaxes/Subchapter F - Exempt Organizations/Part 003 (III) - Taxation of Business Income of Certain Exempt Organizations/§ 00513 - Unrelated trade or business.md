@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The term "unrelated trade or business" means, in the case of any organization subject to the tax imposed by section 511, any trade or business the conduct of which is not substantially related (aside from the need of such organization for income or funds or the use it makes of the profits derived) to the exercise or performance by such organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501 (or, in the case of an organization described in section 511(a)(2)(B), to the exercise or performance of any purpose or function described in section 501(c)(3)), except that such term does not include any trade or business—
+The term "unrelated trade or business" means, in the case of any organization subject to the tax imposed by section 511, any trade or business the conduct of which is not substantially related (aside from the need of such organization for income or funds or the use it makesof the profits derived) to the exercise or performance by such organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501 (or, in the case of an organization described in section 511(a)(2)(B), to the exercise or performance of any purpose or function described in section 501(c)(3)), except that such term does not include any trade or business—
 
 &emsp;(1) in which substantially all the work in carrying on such trade or business is performed for the organization without compensation; or
 
@@ -112,7 +112,7 @@ In the case of a mutual or cooperative telephone or electric company, the term "
 
 #### (1) In general
 
-&emsp;In the case of an organization which is described in section 501 and contributions towhich are deductible under paragraph (2) or (3) of section 170(c), the term "unrelated trade or business" does not include—
+&emsp;In the case of an organization which is described in section 501 and contributions to which are deductible under paragraph (2) or (3) of section 170(c), the term "unrelated trade or business" does not include—
 
 &emsp;&emsp;(A) activities relating to the distribution of low cost articles if the distribution of such articles is incidental to the solicitation of charitable contributions, or
 
@@ -192,7 +192,7 @@ In the case of a mutual or cooperative telephone or electric company, the term "
 
 The term "unrelated trade or business" includes the provision of debt management plan services (as defined in section 501(q)(4)(B)) by any organization other than an organization which meets the requirements of section 501(q).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §4, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(b)(4), (c), Dec. 30, 1969, 83 Stat. 541, 542; Pub. L. 94–455, title XIII, §§1305(a), 1311(a), Oct. 4, 1976, 90 Stat. 1716, 1729; Pub. L.95–502, title III, §301(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 96–605, title I, §106(b), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 99–514, title XVI, §§1601(a), 1602(a), (b), Oct. 22, 1986, 100 Stat. 2766, 2767; Pub. L. 101–508, title XI, §11101(d)(1)(G), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 103–66, title XIII, §13201(b)(3)(H), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title IX, §965(a), Aug. 5, 1997, 111 Stat. 893; Pub. L. 109–280, title XII, §1220(b), Aug. 17, 2006, 120 Stat. 1088; Pub. L. 115–97, title I, §11002(d)(1)(Z), Dec. 22, 2017, 131 Stat. 2060.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §4, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(b)(4), (c), Dec. 30, 1969, 83 Stat. 541, 542; Pub. L. 94–455, title XIII, §§1305(a), 1311(a), Oct. 4, 1976, 90 Stat. 1716, 1729; Pub. L. 95–502, title III, §301(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 96–605, title I, §106(b), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 99–514, title XVI, §§1601(a), 1602(a), (b), Oct. 22, 1986, 100 Stat. 2766, 2767; Pub. L. 101–508, title XI, §11101(d)(1)(G), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 103–66, title XIII, §13201(b)(3)(H), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title IX, §965(a), Aug. 5, 1997, 111 Stat. 893; Pub. L. 109–280, title XII, §1220(b), Aug. 17, 2006, 120 Stat. 1088; Pub. L. 115–97, title I, §11002(d)(1)(Z), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -284,7 +284,7 @@ Pub. L. 98–369, div. A, title III, §311, July 18, 1984, 98 Stat. 786, as amen
 
 "(a)
 
-General Rule.—For purposes of section 513 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]\(defining unrelated trade or business), the term 'unrelated trade or business' does not include any trade or business which consists of conducting any game of chance if—
+General Rule.—For purposes of section 513 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (defining unrelated trade or business), the term 'unrelated trade or business' does not include any trade or business which consists of conducting any game of chance if—
 
 &emsp;"(1) such game of chance is conducted by a nonprofit organization,
 

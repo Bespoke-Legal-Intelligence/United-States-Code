@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Grants made under this subchapter shall be used to develop, implement, operate, expand, and enhance community-based, and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect that—
+Grants made under this subchapter shall be used to develop, implement, operate, expand,and enhance community-based, and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect that—
 
 &emsp;(1) assess community assets and needs through a planning process that involves parents, local public agencies, local nonprofit organizations, and private sector representatives in meaningful roles;
 

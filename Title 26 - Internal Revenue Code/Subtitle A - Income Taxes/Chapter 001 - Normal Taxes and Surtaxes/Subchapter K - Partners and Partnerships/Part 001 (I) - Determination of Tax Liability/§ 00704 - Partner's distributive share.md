@@ -6,7 +6,7 @@ A partner's distributive share of income, gain, loss, deduction, or credit shall
 
 #### (b) Determination of distributive share
 
-A partner's distributive share of income, gain, loss, deduction, or credit (or item thereof) shallbe determined in accordance with the partner's interest in the partnership (determined by taking into account all facts and circumstances), if—
+A partner's distributive share of income, gain, loss, deduction, or credit (or item thereof) shall be determined in accordance with the partner's interest in the partnership (determined by taking into account all facts and circumstances), if—
 
 &emsp;(1) the partnership agreement does not provide as to the partner's distributive share of income, gain, loss, deduction, or credit (or item thereof), or
 
@@ -52,7 +52,7 @@ A partner's distributive share of income, gain, loss, deduction, or credit (or i
 
 #### (3) Other rules
 
-&emsp;Under regulations prescribed by the Secretary, rules similar to the rules of paragraph (1) shall apply to contributions by a partner (using the cash receipts and disbursements method of accounting) of accounts payable and other accrued but unpaid items. Any reference in paragraph (1) or (2) to the contributing partner shall be treated as including a reference to any successor of such partner.
+&emsp;Under regulations prescribed by the Secretary, rules similar to the rules of paragraph (1) shall apply to contributions by a partner (using the cash receipts and disbursementsmethod of accounting) of accounts payable and other accrued but unpaid items. Any reference in paragraph (1) or (2) to the contributing partner shall be treated as including a reference to any successor of such partner.
 
 #### (d) Limitation on allowance of losses
 
@@ -78,7 +78,7 @@ A partner's distributive share of income, gain, loss, deduction, or credit (or i
 
 #### (1) Distributive share of donee includible in gross income
 
-&emsp;In the case of any partnership interest created by gift, the distributive share of thedonee under the partnership agreement shall be includible in his gross income, except to the extent that such share is determined without allowance of reasonable compensation for services rendered to the partnership by the donor, and except to the extent that the portion of such share attributable to donated capital is proportionately greater than the share of the donor attributable to the donor's capital. The distributive share of a partner in the earnings of the partnership shall not be diminished because of absence due to military service.
+&emsp;In the case of any partnership interest created by gift, the distributive share of the donee under the partnership agreement shall be includible in his gross income, except to the extent that such share is determined without allowance of reasonable compensation for services rendered to the partnership by the donor, and except to the extent that the portion of such share attributable to donated capital is proportionately greater than the share of the donor attributable to the donor's capital. The distributive share of a partner in the earnings of the partnership shall not be diminished because of absence due to military service.
 
 #### (2) Purchase of interest by member of family
 

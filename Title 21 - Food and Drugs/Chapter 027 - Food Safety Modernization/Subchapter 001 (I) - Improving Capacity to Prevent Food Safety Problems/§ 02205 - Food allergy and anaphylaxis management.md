@@ -168,7 +168,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may not award a grant under this subsection unless the local educational agency agrees that, with respect tothe costs to be incurred by such local educational agency in carrying out the grant activities, the local educational agency shall make available (directly or through donations from public or private entities) non-Federal funds toward such costs in an amount equal to not less than 25 percent of the amount of the grant.
+&emsp;&emsp;The Secretary may not award a grant under this subsection unless the local educational agency agrees that, with respect to the costs to be incurred by such local educational agency in carrying out the grant activities, the local educational agency shall make available (directly or through donations from public or private entities) non-Federal funds toward such costs in an amount equal to not less than 25 percent of the amount of the grant.
 
 #### (B) Determination of amount of non-Federal contribution
 

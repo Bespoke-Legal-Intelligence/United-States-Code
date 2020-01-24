@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), an annuity payable under subsection (a) shall becomputed under section 2031(a) of this title. However, if the disabled or incapacitated participant has less than 20 years of service credit toward retirement under the system at the time of retirement, the annuity shall be computed on the assumption that the participant has had 20 years of service, but the additional service credit that may accrue to a participant under this paragraph may not exceed the difference between the participant's age at the time of retirement and age 60.
+&emsp;Except as provided in paragraph (2), an annuity payable under subsection (a) shall be computed under section 2031(a) of this title. However, if the disabled or incapacitated participant has less than 20 years of service credit toward retirement under the system at the time of retirement, the annuity shall be computed on the assumption that the participant has had 20 years of service, but the additional service credit that may accrue to a participant under this paragraph may not exceed the difference between the participant's age at the time of retirement and age 60.
 
 #### (2) Coordination with military retired pay and veterans' compensation and pension
 
@@ -42,7 +42,7 @@
 
 #### (2) Annual reexaminations until age 60
 
-&emsp;Unless the disability is permanent, like examinations shall be made annually until the annuitant becomes age 60. If the Director determines on the basis of the advice of one or more duly qualified physicians or surgeons conducting such examinations that an annuitant has recovered to the extent that the annuitant can return to duty, the annuitant may apply for reinstatement or reappointment in the Agency within one year from the date the annuitant's recovery is determined.
+&emsp;Unless the disability is permanent, like examinations shall be made annually until the annuitant becomes age 60. If the Director determines on the basis of the advice of one or more duly qualified physicians or surgeonsconducting such examinations that an annuitant has recovered to the extent that the annuitant can return to duty, the annuitant may apply for reinstatement or reappointment in the Agency within one year from the date the annuitant's recovery is determined.
 
 #### (3) Reinstatement
 

@@ -76,7 +76,7 @@ Grant.—The term "grant" means an authorized grant as described in section 6304
 
 Gift.—The term "gift" includes a devise or bequest.
 
-(Added Pub. L. 113–291, div. A, title IX, §916(b), Dec. 19, 2014, 128 Stat. 3477; amended Pub. L.115–232, div. A, title V, §523, Aug. 13, 2018, 132 Stat. 1756.)
+(Added Pub. L. 113–291, div. A, title IX, §916(b), Dec. 19, 2014, 128 Stat. 3477; amended Pub. L. 115–232, div. A, title V, §523, Aug. 13, 2018, 132 Stat. 1756.)
 
 #### Amendments
 

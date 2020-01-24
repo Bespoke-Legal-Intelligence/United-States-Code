@@ -22,7 +22,7 @@ Section 1023, acts July 22, 1937, ch. 517, title IV, §49, 50 Stat. 531; Aug. 14
 
 Section 1024, acts July 22, 1937, ch. 517, title IV, §50, 50 Stat. 531; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064, related to taxation.
 
-Section 1025, acts July 22, 1937, ch. 517, title IV, §51, 50 Stat. 531; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064; July 22, 1954, ch. 562, §1(e), 68 Stat. 525; Aug. 1, 1956, ch. 829,§3(d), 70 Stat. 804, related to protection of investment and security and purchase at foreclosure sale.
+Section 1025, acts July 22, 1937, ch. 517, title IV, §51, 50 Stat. 531; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064; July 22, 1954, ch. 562, §1(e), 68 Stat. 525; Aug. 1, 1956, ch. 829, §3(d), 70 Stat. 804, related to protection of investment and security and purchase at foreclosure sale.
 
 For subject matter of sections 1014 to 1025 of this title, see section 1921 et seq. of this title.
 

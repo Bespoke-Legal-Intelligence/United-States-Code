@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) to assess the environmental effects of ballast water exchange on the diversity and abundance of native species in receiving estuarine, marine, and fresh waters of the United States; and
 
-&emsp;&emsp;(B) to identify areas within the waters of the United States and the exclusive economic zone, if any, where the exchange of ballast water does not pose a threat of infestation or spread of aquatic nuisance speciesin the Great Lakes and other waters of the United States.
+&emsp;&emsp;(B) to identify areas within the waters of the United States and the exclusive economic zone, if any, where the exchange of ballast water does not pose a threat of infestation or spread of aquatic nuisance species in the Great Lakes and other waters of the United States.
 
 #### (2) Biological study
 
@@ -60,7 +60,7 @@
 
 #### (3) Columbia River
 
-&emsp;The Secretary, in cooperation with the Task Force and academic institutions in each of the States affected, shall conduct an ecological and ballast water discharge survey of the Columbia River system consistent with the requirements of paragraphs (1) and (2).
+&emsp;The Secretary, in cooperation with the Task Force and academic institutions in each of theStates affected, shall conduct an ecological and ballast water discharge survey of the Columbia River system consistent with the requirements of paragraphs (1) and (2).
 
 #### (c) Reports
 
@@ -86,7 +86,7 @@ Out of amounts appropriated to carry out this subsection for a fiscal year, the 
 
 &emsp;(3) make available not to exceed $500,000 to fund research on aquatic nuisance species prevention and control for the Pacific Coast through grants, to be competitively awarded and subject to peer review, to universities and research institutions;
 
-&emsp;(4) make available not to exceed $500,000 to fund research on aquatic nuisance species prevention and control for the Atlantic Coastthrough grants, to be competitively awarded and subject to peer review, to universities and research institutions; and
+&emsp;(4) make available not to exceed $500,000 to fund research on aquatic nuisance species prevention and control for the Atlantic Coast through grants, to be competitively awarded and subject to peer review, to universities and research institutions; and
 
 &emsp;(5) make available not to exceed $750,000 to fund research on aquatic nuisance species prevention and control in the San Francisco Bay-Delta Estuary through grants, to be competitively awarded and subject to peer review, to universities and research institutions.
 
@@ -178,7 +178,7 @@ Out of amounts appropriated to carry out this subsection for a fiscal year, the 
 
 #### References in Text
 
-Section 4711 of this title (as in effect on the day before December 4, 2018), referred to in subsecs. (c)(1) and\(f)(1)(B), means section 4711 of this title as in effect prior to repeal by Pub. L. 115–282, title IX, §903(a)(2)(A)(i), Dec. 4, 2018, 132 Stat. 4354.
+Section 4711 of this title (as in effect on the day before December 4, 2018), referred to in subsecs. (c)(1) and (f)(1)(B), means section 4711 of this title as in effect prior to repeal by Pub. L. 115–282, title IX, §903(a)(2)(A)(i), Dec. 4, 2018, 132 Stat. 4354.
 
 This chapter, referred to in subsec. (f)(2), was in the original "this title", meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4701 of this title and Tables.
 

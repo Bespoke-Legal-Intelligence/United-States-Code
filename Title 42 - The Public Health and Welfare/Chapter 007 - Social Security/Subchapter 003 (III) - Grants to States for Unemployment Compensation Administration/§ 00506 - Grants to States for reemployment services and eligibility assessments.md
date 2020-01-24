@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Labor (in this section referred to as the "Secretary") shall award grants under this section for a fiscal year to eligible States to conduct a program of reemployment services and eligibility assessments for individuals referred to reemployment services as described in section 503(j) of this title for weeks in such fiscal year for which such individuals receive unemployment compensation.
+The Secretary of Labor (in this section referred to as the "Secretary") shall award grantsunder this section for a fiscal year to eligible States to conduct a program of reemployment services and eligibility assessments for individuals referred to reemployment services as described in section 503(j) of this title for weeks in such fiscal year for which such individuals receive unemployment compensation.
 
 #### (b) Purposes
 
@@ -72,7 +72,7 @@ The purposes of this section are to accomplish the following goals:
 
 #### (2) Approval
 
-&emsp;The Secretary shall approve any State plan, that is timely submitted to the Secretary, in such manner as the Secretary may require, that satisfies the conditions described in paragraph (1).
+&emsp;The Secretary shall approve any State plan, that is timely submitted to the Secretary, insuch manner as the Secretary may require, that satisfies the conditions described in paragraph (1).
 
 #### (3) Disapproval and revision
 
@@ -128,7 +128,7 @@ The purposes of this section are to accomplish the following goals:
 
 #### (g) Notification to Congress
 
-Not later than 90 days prior to making any changes to the allocation formula or the criteria developed pursuant to subsection (f)(5)(A), the Secretary shall submit to Congress, including to the Committee on Ways and Means and the Committee on Appropriations of the House of Representatives and the Committee on Financeand the Committee on Appropriations of the Senate, a notification of any such change.
+Not later than 90 days prior to making any changes to the allocation formula or the criteria developed pursuant to subsection (f)(5)(A), the Secretary shall submit to Congress, including to the Committee on Ways and Means and the Committee on Appropriations of the House of Representatives and the Committee on Finance and the Committee on Appropriations of the Senate, a notification of any such change.
 
 #### (h) Supplement not supplant
 
@@ -156,7 +156,7 @@ In this section:
 
 #### (5) Unemployment compensation
 
-&emsp;The term unemployment compensation means "regular compensation", "extended compensation", and "additional compensation" (as such terms are defined by section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note)).
+&emsp;The term unemployment compensation means "regular compensation", "extended compensation", and "additional compensation" (as such terms are defined by section 205of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note)).
 
 (Aug. 14, 1935, ch. 531, title III, §306, as added Pub. L. 115–123, div. C, title II, §30206(a), Feb. 9, 2018, 132 Stat. 127.)
 

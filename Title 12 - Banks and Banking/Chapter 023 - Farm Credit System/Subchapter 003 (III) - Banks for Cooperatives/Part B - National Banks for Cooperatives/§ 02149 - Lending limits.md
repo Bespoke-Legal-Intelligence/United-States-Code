@@ -6,5 +6,5 @@ The Farm Credit Administration may not establish lending limits for the consolid
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–334 substituted "the constituent banks described in section 413(b) of the Agricultural Credit Act of 1987 (12 U.S.C. 2121 note; Public Law 100–233)" for "a district bank for cooperatives and the Central Bank for Cooperatives".
+<b>2018</b>—Pub. L. 115–334 substituted "the constituent banks described in section 413(b) of the AgriculturalCredit Act of 1987 (12 U.S.C. 2121 note; Public Law 100–233)" for "a district bank for cooperatives and the Central Bank for Cooperatives".
 

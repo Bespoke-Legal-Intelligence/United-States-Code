@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) threats of serious harm to or physical restraint against any person;
 
-&emsp;&emsp;(B) any scheme, plan, or pattern intended to cause a person to believe that failure to perform an act would result in serious harm to or physical restraint against any person; or
+&emsp;&emsp;(B) any scheme, plan, or pattern intended to cause a person to believe that failure toperform an act would result in serious harm to or physical restraint against any person; or
 
 &emsp;&emsp;(C) the abuse or threatened abuse of law or the legal process.
 
@@ -94,7 +94,7 @@ Pub. L. 114–22, title I, §108(c), May 29, 2015, 129 Stat. 239, provided that:
 
 Pub. L. 114–22, title I, §109, May 29, 2015, 129 Stat. 239, provided that: "It is the sense of Congress that—
 
-&emsp;"(1) section 1591 of title 18, United States Code, defines a sex trafficker as a person who 'knowingly. . .recruits, entices, harbors, transports, provides, obtains, or maintains by any means a person. . .knowing, or in reckless disregard of the fact, that means of force, threats of force, fraud, coercion. . .or any combination of such means will be used to cause the person to engage in a commercialsex act, or that the person has not attained the age of 18 years and will be caused to engage in a commercial sex act';
+&emsp;"(1) section 1591 of title 18, United States Code, defines a sex trafficker as a person who 'knowingly. . .recruits, entices, harbors, transports, provides, obtains, or maintains by any means a person. . .knowing, or in reckless disregard of the fact, that means of force, threats of force, fraud, coercion. . .or any combination of such means will be used to cause the person to engage in a commercial sex act, or that the person has not attained the age of 18 years and will be caused to engage in a commercial sex act';
 
 &emsp;"(2) while use of the word 'obtains' in section 1591 \[of title 18\], United States Code, has been interpreted, prior to the date of enactment of this Act \[May 29, 2015\], to encompass those who purchase illicit sexual acts from trafficking victims, some confusion persists;
 

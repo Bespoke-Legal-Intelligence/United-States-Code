@@ -48,7 +48,7 @@ A person that violates, attempts to violate, conspires to violate, or causes a v
 
 &emsp;&emsp;(C) owns or controls or is owned or controlled by a person referred to in subparagraph (A);
 
-&emsp;&emsp;(D) forms an entity with the purpose of evading sanctions that could be imposed as aresult of a relationship described in subparagraph (C);
+&emsp;&emsp;(D) forms an entity with the purpose of evading sanctions that could be imposed as a result of a relationship described in subparagraph (C);
 
 &emsp;&emsp;(E) is acting for or on behalf of a person referred to in subparagraph (A), (B), (C), or (D); or
 

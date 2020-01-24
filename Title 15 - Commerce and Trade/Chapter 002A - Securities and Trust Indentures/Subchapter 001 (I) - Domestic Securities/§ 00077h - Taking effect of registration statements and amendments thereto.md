@@ -10,7 +10,7 @@ If it appears to the Commission that a registration statement is on its face inc
 
 #### (c) Effective date of amendment to registration statement
 
-An amendment filed after the effective date of the registration statement, if such amendment, upon its face, appears to the Commission not to be incomplete or inaccurate in any material respect, shall become effective on such date as the Commission may determine, having due regard to the public interest and the protection of investors.
+An amendment filed after the effective date of the registration statement, if such amendment,upon its face, appears to the Commission not to be incomplete or inaccurate in any material respect, shall become effective on such date as the Commission may determine, having due regard to the public interest and the protection of investors.
 
 #### (d) Untrue statements or omissions in registration statement
 

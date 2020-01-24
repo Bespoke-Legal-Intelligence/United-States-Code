@@ -12,7 +12,7 @@ Based on sections 222 and 224 of title 27, U.S.C., 1940 ed., Intoxicating Liquor
 
 Section consolidates sections 222 and 224 of title 27, U.S.C., 1940 ed., with changes in phraseology and arrangement necessary to effect the consolidation. Said section 222 is also incorporated in section 1262 of this title.
 
-Definition of "State" in section 222 of title 27 U.S.C., 1940 ed., as meaning and including "every State, Territory, and Possession of the United States," was omitted because the words "Territory, District," and so forth, appear after "State" in sections 1262, 1265, of this title, which are the only sections in chapter 59, constituting sections 1261–1265 of this title, to which such definition would have been applicable.
+Definition of "State" in section 222 of title 27 U.S.C., 1940 ed., as meaning and including "every State, Territory, and Possession of the United States," was omitted because the words "Territory, District," and so forth, appear after "State" in sections 1262, 1265, of thistitle, which are the only sections in chapter 59, constituting sections 1261–1265 of this title, to which such definition would have been applicable.
 
 Changes made in phraseology.
 

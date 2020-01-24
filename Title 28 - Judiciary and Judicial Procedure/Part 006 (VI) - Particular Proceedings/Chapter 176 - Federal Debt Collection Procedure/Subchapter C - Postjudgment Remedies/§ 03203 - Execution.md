@@ -76,7 +76,7 @@ Before execution sale.—(A) Before execution sale, the United States marshal ma
 
 &emsp;&emsp;(ii) receipt from the judgment debtor of a bond—
 
-&emsp;&emsp;&emsp;(I) payable to the United States, with 2 or more good and sufficient sureties to beapproved by the marshal, conditioned on the delivery of the property to the marshal at the time and place named in the bond to be sold under subsection (g); or
+&emsp;&emsp;&emsp;(I) payable to the United States, with 2 or more good and sufficient sureties to be approved by the marshal, conditioned on the delivery of the property to the marshal at the time and place named in the bond to be sold under subsection (g); or
 
 &emsp;&emsp;&emsp;(II) for the payment to the marshal of a fair value thereof which shall be stated in the bond.
 
@@ -106,7 +106,7 @@ In general.—(I) Except as provided in clause (ii), real property, or any inter
 
 &emsp;&emsp;&emsp;(II) The court may order the sale of any real property after the expiration of the 30-day period beginning on the date of levy under subsection (d) if the court determines that such property is likely to perish, waste, be destroyed, or otherwise substantially depreciate in value during the 90-day period beginning on the date of levy.
 
-&emsp;&emsp;&emsp;(III) The time and place of sale of real property, or any interest therein, under execution shall be advertised by the United States marshal, by publication of notice, once a week for at least 3 weeks prior to the sale, in at least one newspaper of general circulation in the county or parish where the property is located. The first publication shall appear not less than 25 days preceding the day of sale. The notice shall contain a statement of the authority by which the sale is to be made, the time of levy, the time and place of sale, and a brief description of the property to be sold, sufficient to identify the property (such as a street address for urban property and the survey identification and location for rural property), but it shall not be necessary for the notice to contain field notes. Such property shall be open for inspection and appraisal, subject to the judgment debtor's reasonable objections, for a reasonable period before the day of sale.
+&emsp;&emsp;&emsp;(III) The time and place of sale of real property, or any interest therein, under execution shall be advertised by the United States marshal, by publication of notice, once a week for at least 3 weeks prior to the sale, in at least one newspaper of general circulation in the county or parish where the property is located. The first publication shall appear not less than 25 days preceding the day of sale. The notice shall contain a statement of the authority by which the sale is to be made, the time of levy, the time and place of sale, and a brief description of the property to be sold, sufficient to identify the property (such as a street address for urban property and the survey identification and location forrural property), but it shall not be necessary for the notice to contain field notes. Such property shall be open for inspection and appraisal, subject to the judgment debtor's reasonable objections, for a reasonable period before the day of sale.
 
 &emsp;&emsp;&emsp;(IV) The United States marshal shall serve written notice of public sale by personal delivery, or certified or registered mail, to each person whom the marshal has reasonable cause to believe, after a title search is conducted by the United States, has an interest in property under execution, including lienholders, co-owners, and tenants, at least 25 days before the day of sale, to the last known address of each such person.
 
@@ -140,7 +140,7 @@ Sale of personal property.—(i) Personal property levied on shall be offered fo
 
 &emsp;&emsp;(II) The court may order the sale of any personal property before the expiration of such 30-day period if the court determines that such property is likely to perish, waste, be destroyed, or otherwise substantially depreciate in value during such 30-day period.
 
-&emsp;&emsp;(iii) Notice of the time and place of the sale of personal property shall be given by the United States marshal by posting notice thereof for not less than 10 days successively immediately before the day of sale at thecourthouse of any county, parish, or city, and at the place where the sale is to be made.
+&emsp;&emsp;(iii) Notice of the time and place of the sale of personal property shall be given by the United States marshal by posting notice thereof for not less than 10 days successively immediately before the day of sale at the courthouse of any county, parish, or city, and at the place where the sale is to be made.
 
 &emsp;&emsp;(iv) The United States marshal shall serve written notice of public sale by personal delivery, or registered or certified mail at their last known addresses, on the judgment debtor and other persons who the marshal has reasonable cause to believe, after diligent inquiry, have a substantial interest in the property.
 
@@ -180,7 +180,7 @@ Purchaser considered innocent purchaser without notice.—The purchaser of prope
 
 &emsp;&emsp;(C)
 
-Liability of successful bidder who fails to comply.—A successful bidder at an execution sale who fails to comply with the terms of the sale shall forfeit to the United States the cash deposit or, at the election of the United States, shall be liable to the United States, on a subsequent sale of the property, for all net losses incurred by the United States as a result of such failure.
+Liability of successful bidder who fails to comply.—A successful bidder at an execution sale who fails to comply with the terms of the sale shall forfeit to the United States the cash deposit or, at the election ofthe United States, shall be liable to the United States, on a subsequent sale of the property, for all net losses incurred by the United States as a result of such failure.
 
 (h)
 

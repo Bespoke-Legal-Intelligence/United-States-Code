@@ -136,7 +136,7 @@ In subsection (g), the word "resident" is substituted for the word "members", si
 
 In subsection (h), the words "authorized and" and "for wear during such course of instruction" are omitted as surplusage. The word "naval" is omitted as covered by the word "military". The words "Army, Navy, Air Force, or Marine Corps" are substituted for the words "military or naval authorities". The words "that armed force" are substituted for the words "such military or naval authorities".
 
-In subsection (i), the words "Air Force school" are substituted for the words "Air Force advanced flying schools or Air Force service schools". The words "in such manner" are omitted as surplusage.
+In subsection (i), the words "Air Force school" are substituted for the words "Air Force advanced flyingschools or Air Force service schools". The words "in such manner" are omitted as surplusage.
 
 #### Constitutionality
 

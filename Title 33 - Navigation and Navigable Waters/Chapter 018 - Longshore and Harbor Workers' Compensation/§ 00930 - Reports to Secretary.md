@@ -14,7 +14,7 @@ Any report provided for in subsection (a) or (b) shall not be evidence of any fa
 
 #### (d) Compliance by mailing
 
-The mailing of any such report and copy in a stamped envelope, within the time prescribed insubsections (a) or (b), to the Secretary and deputy commissioner, respectively, shall be a compliance with this section.
+The mailing of any such report and copy in a stamped envelope, within the time prescribed in subsections (a) or (b), to the Secretary and deputy commissioner, respectively, shall be a compliance with this section.
 
 #### (e) Penalty for failure or refusal to send report
 

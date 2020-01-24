@@ -34,7 +34,7 @@ Pub. L. 113–6, div. D, title V, §557, Mar. 26, 2013, 127 Stat. 377, provided 
 
 &emsp;"(2) production of a vessel of the Coast Guard shall be immediately available and allotted to make a contract award notwithstanding the availability of funds for outfitting, post-delivery activities, and spare or repair parts.
 
-"(b) The Secretary of Homeland Security shall develop fiscal policy that prescribes Coast Guard budgetary policies, procedures and technical direction necessary to comply with subsection (a) of this section and consistent with the Department of Defense FinancialManagement Regulation (Volume 2A, Chapter 1 C. Procedures for Full Funding) to include the costs associated with outfitting and post-delivery activities; spare and repair parts; and long lead time materials. The requirement set forth in this section shall not preclude the immediate availability or allotment of funds for fiscal year 2013, pursuant to subsection (a).
+"(b) The Secretary of Homeland Security shall develop fiscal policy that prescribes Coast Guard budgetary policies, procedures and technical direction necessary to comply with subsection (a) of this section and consistent with the Department of Defense Financial Management Regulation (Volume 2A, Chapter 1 C. Procedures for Full Funding) to include the costs associated with outfitting and post-delivery activities; spare and repair parts; and long lead time materials. The requirement set forth in this section shall not preclude the immediate availability or allotment of funds for fiscal year 2013, pursuant to subsection (a).
 
 "(c) In this section—
 

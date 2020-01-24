@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture (referred to in this section as the "Secretary") may make competitive grants to support research and extension activities specified in subsections (d) through (g).
+&emsp;The Secretary of Agriculture (referred to in this section as the "Secretary") may makecompetitive grants to support research and extension activities specified in subsections (d) through (g).
 
 #### (2) Matching funds requirement
 
@@ -286,7 +286,7 @@ Following the completion of a peer review process for grant proposals received u
 
 &emsp;&emsp;(D) building and overseeing a nationally recognized instructor cadre to ensure the availability of highly qualified instructors;
 
-&emsp;&emsp;(E) reviewing training proposed through the National Institute of Food and Agriculture and other relevant Federal agencies that report to the Secretary on the quality and content of proposed and existing courses;
+&emsp;&emsp;(E) reviewing training proposed through the National Institute of Food and Agriculture and other relevant Federal agenciesthat report to the Secretary on the quality and content of proposed and existing courses;
 
 &emsp;&emsp;(F) assisting Federal agencies in the implementation of food safety protection training requirements including requirements under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), the Agricultural Act of 2014, and any provision of law amended by such Act; and
 
@@ -406,7 +406,7 @@ Following the completion of a peer review process for grant proposals received u
 
 &emsp;&emsp;&emsp;&emsp;(VI) any other relevant information, as determined by the Chief Scientist;
 
-&emsp;&emsp;&emsp;(ix) documents, with respect to healthy populations of managed pollinators, bestmanagement practices and other practices for managed pollinators and crop managers;
+&emsp;&emsp;&emsp;(ix) documents, with respect to healthy populations of managed pollinators, best management practices and other practices for managed pollinators and crop managers;
 
 &emsp;&emsp;&emsp;(x) evaluates the effectiveness of—
 
@@ -462,7 +462,7 @@ Following the completion of a peer review process for grant proposals received u
 
 There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2023.
 
-(Pub. L. 101–624, title XVI, §1672, Nov. 28, 1990, 104 Stat. 3770; Pub. L. 102–237, title IV, §§406, 407(11), Dec. 13, 1991, 105 Stat. 1864, 1865; Pub. L. 104–127, title VIII, §§836, 863, 888, Apr. 4, 1996, 110 Stat. 1169, 1174, 1180; Pub. L. 105–185, title II, §242, June 23, 1998, 112 Stat. 549; Pub. L. 107–171, title VII, §§7119, 7208(b), May 13, 2002, 116 Stat. 434, 442; Pub. L. 108–465, title III, §302, Dec. 21, 2004, 118 Stat. 3885; Pub. L. 110–234, title VII, §§7203, 7204, May 22, 2008, 122 Stat. 1233; Pub. L. 110–246, §4(a), title VII, §§7203, 7204, June 18, 2008, 122 Stat. 1664, 1994; Pub. L. 113–79, title VII, §§7128(b)(2)(C), 7209, Feb. 7, 2014, 128 Stat. 879, 881; Pub. L. 115–334, title VII, §§7209, 7614(b)(2)(C), Dec. 20, 2018, 132 Stat. 4806, 4834.)
+(Pub. L. 101–624, title XVI, §1672, Nov. 28, 1990, 104 Stat. 3770; Pub. L. 102–237, title IV, §§406, 407(11), Dec. 13, 1991, 105 Stat. 1864, 1865; Pub. L. 104–127, title VIII, §§836, 863, 888, Apr. 4, 1996, 110Stat. 1169, 1174, 1180; Pub. L. 105–185, title II, §242, June 23, 1998, 112 Stat. 549; Pub. L. 107–171, title VII, §§7119, 7208(b), May 13, 2002, 116 Stat. 434, 442; Pub. L. 108–465, title III, §302, Dec. 21, 2004, 118 Stat. 3885; Pub. L. 110–234, title VII, §§7203, 7204, May 22, 2008, 122 Stat. 1233; Pub. L. 110–246, §4(a), title VII, §§7203, 7204, June 18, 2008, 122 Stat. 1664, 1994; Pub. L. 113–79, title VII, §§7128(b)(2)(C), 7209, Feb. 7, 2014, 128 Stat. 879, 881; Pub. L. 115–334, title VII, §§7209, 7614(b)(2)(C), Dec. 20, 2018, 132 Stat. 4806, 4834.)
 
 #### References in Text
 
@@ -588,7 +588,7 @@ Subsec. (g). Pub. L. 104–127, §863, redesignated subsec. (k) as (g) and struc
 
 &emsp;"(2) that experience difficulty in delivering products to market due to geographic isolation."
 
-Subsec. (h). Pub. L. 104–127, §863(1), struck out subsec. (h) which provided that Secretary of Agriculture mayestablish and carry out a program to conduct research on disease of scrapie in sheep and goats.
+Subsec. (h). Pub. L. 104–127, §863(1), struck out subsec. (h) which provided that Secretary of Agriculture may establish and carry out a program to conduct research on disease of scrapie in sheep and goats.
 
 Subsec. (i). Pub. L. 104–127, §§836, 863(2), redesignated subsec. (i) as (f) and substituted "1997" for "1995".
 
@@ -680,7 +680,7 @@ Sec. 2. <i>Mission and Function of the Task Force</i>. Within 180 days of the da
 
 (iii) assessments of the status of native pollinators, including the Monarch butterfly and bees, and modeling of native pollinator populations and habitats;
 
-(iv) strategies for developing affordable seed mixes, including native pollinator-friendly plants, for maintenance of honey bees and other pollinators, and guidelines for and evaluations of the effectiveness of usingpollinator-friendly seed mixes for restoration and reclamation projects;
+(iv) strategies for developing affordable seed mixes, including native pollinator-friendly plants, for maintenance of honey bees and other pollinators, and guidelines for and evaluations of the effectiveness of using pollinator-friendly seed mixes for restoration and reclamation projects;
 
 (v) identification of existing and new methods and best practices to reduce pollinator exposure to pesticides, and new cost-effective ways to control bee pests and diseases; and
 
@@ -710,7 +710,7 @@ Sec. 3. <i>Increasing and Improving Pollinator Habitat</i>. Unless otherwise spe
 
 (h) The Department of the Interior shall assist States and State wildlife organizations, as appropriate, in identifying and implementing projects to conserve pollinators at risk of endangerment and further pollinator conservation through the revision and implementation of individual State Wildlife Action Plans. The Department of the Interior shall, upon request, provide technical support for these efforts, and keep the Task Force apprised of such collaborations.
 
-(i) The Department of Transportation shall evaluate its current guidance for grantees and informational resources to identify opportunities to increase pollinator habitat along roadways and implement improvements, as appropriate. The Department of Transportation shall work with State Departments of Transportation and transportation associations to promote pollinator-friendly practices and corridors. The Department of Transportation shall evaluate opportunities to make railways, pipelines, and transportation facilities that are privately owned and operated aware of the need to increase pollinator habitat.
+(i) The Department of Transportation shall evaluate its current guidance for grantees and informational resources to identify opportunities to increase pollinator habitat along roadways and implement improvements, as appropriate. The Department of Transportation shall work with State Departments of Transportation and transportation associations to promote pollinator-friendly practices and corridors. The Department ofTransportation shall evaluate opportunities to make railways, pipelines, and transportation facilities that are privately owned and operated aware of the need to increase pollinator habitat.
 
 (j) The Department of Defense shall, consistent with law and the availability of appropriations, support habitat restoration projects for pollinators, and shall direct military service installations to use, when possible, pollinator-friendly native landscaping and minimize use of pesticides harmful to pollinators through integrated vegetation and pest management practices.
 

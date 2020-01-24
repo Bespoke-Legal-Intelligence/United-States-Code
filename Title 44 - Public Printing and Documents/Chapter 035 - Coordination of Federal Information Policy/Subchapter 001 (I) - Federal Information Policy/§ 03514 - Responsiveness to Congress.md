@@ -2,7 +2,7 @@
 
 (a)(1) The Director shall—
 
-&emsp;(A) keep the Congress and congressional committees fully and currently informed of the major activities under this subchapter; and
+&emsp;(A) keep the Congress and congressional committees fully and currently informed ofthe major activities under this subchapter; and
 
 &emsp;(B) submit a report on such activities to the President of the Senate and the Speaker of the House of Representatives annually and at such other times as the Director determines necessary.
 

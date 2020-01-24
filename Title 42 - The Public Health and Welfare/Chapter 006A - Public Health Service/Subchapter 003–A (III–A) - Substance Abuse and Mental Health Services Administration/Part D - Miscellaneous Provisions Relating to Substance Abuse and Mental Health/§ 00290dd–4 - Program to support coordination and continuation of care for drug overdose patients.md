@@ -136,7 +136,7 @@ In this section:
 
 #### (2) Report by Secretary
 
-&emsp;Not later than 5 years after October 24, 2018, the Secretary shall submit to Congress a report that includes an evaluation of the effectiveness of the grant program carried outunder this section with respect to long term health outcomes of the population of individuals who have experienced a drug overdose, the percentage of patients treated or referred to treatment by grantees, and the frequency and number of patients who experienced relapse, were readmitted for treatment, or experienced another overdose.
+&emsp;Not later than 5 years after October 24, 2018, the Secretary shall submit to Congress a report that includes an evaluation of the effectiveness of the grant program carried out under this section with respect to long term health outcomes of the population of individuals who have experienced a drug overdose, the percentage of patients treated or referred to treatment by grantees, and the frequency and number of patients who experienced relapse, were readmitted for treatment, or experienced another overdose.
 
 #### (e) Privacy
 

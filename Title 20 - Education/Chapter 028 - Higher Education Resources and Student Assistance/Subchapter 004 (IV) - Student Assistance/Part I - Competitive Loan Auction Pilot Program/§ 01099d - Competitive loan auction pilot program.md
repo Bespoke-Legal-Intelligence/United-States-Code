@@ -172,7 +172,7 @@ The Secretary and Secretary of the Treasury shall jointly conduct an evaluation,
 
 &emsp;(1) the extent of the savings to the Federal Government that are generated through the pilot program, compared to the cost the Federal Government would have incurred in operating the PLUS loan program under section 1078–2 of this title in the absence of the pilot program;
 
-&emsp;(2) the number of lenders that participated in the pilot program, and the extent to which the pilot program generated competition among lenders to participate in the auctions under the pilot program;
+&emsp;(2) the number of lenders that participated in the pilot program, and the extent to whichthe pilot program generated competition among lenders to participate in the auctions under the pilot program;
 
 &emsp;(3) the number and volume of loans made under the pilot program in each State;
 

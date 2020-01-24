@@ -44,7 +44,7 @@
 
 #### (b) Investigations and determinations by Commission
 
-(1)(A) Upon the filing of a petition under subsection (a), the request of the President or the Trade Representative, the resolution of either the Committee on Ways and Means of the House of Representatives or the Committee on Finance of the Senate, or on its own motion, the Commission shall promptly make an investigation to determine whether an article is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an article like or directly competitive with the imported article.
+(1)(A) Upon the filing of a petition under subsection (a), the request of the President or theTrade Representative, the resolution of either the Committee on Ways and Means of the House of Representatives or the Committee on Finance of the Senate, or on its own motion, the Commission shall promptly make an investigation to determine whether an article is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an article like or directly competitive with the imported article.
 
 (B) For purposes of this section, the term "substantial cause" means a cause which is important and not less than any other cause.
 
@@ -86,7 +86,7 @@
 
 (3) The presence or absence of any factor which the Commission is required to evaluate in subparagraphs (A) and (B) of paragraph (1) is not necessarily dispositive of whether an article is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry.
 
-(4) For purposes of subsection (b), in determining the domestic industry producing an articlelike or directly competitive with an imported article, the Commission—
+(4) For purposes of subsection (b), in determining the domestic industry producing an article like or directly competitive with an imported article, the Commission—
 
 &emsp;(A) to the extent information is available, shall, in the case of a domestic producer which also imports, treat as part of such domestic industry only its domestic production;
 
@@ -94,7 +94,7 @@
 
 &emsp;(C) may, in the case of one or more domestic producers which produce a like or directly competitive article in a major geographic area of the United States and whose production facilities in such area for such article constitute a substantial portion of the domestic industry in the United States and primarily serve the market in such area, and where the imports are concentrated in such area, treat as such domestic industry only that segment of the production located in such area.
 
-(5) In the course of any proceeding under this subsection, the Commission shall investigate any factor which in its judgment may be contributing to increased imports of the article under investigation. Whenever in the course of its investigation the Commission has reason to believe that the increased imports are attributable in part to circumstances which come within the purview of subtitles A and B of title VII \[19 U.S.C. 1671 et seq., 1673 et seq.\] or section 337 \[19 U.S.C. 1337\] of the Tariff Act of 1930, or other remedial provisions of law, the Commission shall promptly notify the appropriate agency so that such action may be taken as is otherwise authorized by such provisions of law.
+(5) In the course of any proceeding under this subsection, the Commission shall investigate any factor which in its judgment may be contributing to increased imports of the article under investigation. Whenever in the course of its investigation the Commission has reason to believe that the increased imports are attributable in part to circumstances which come within the purview of subtitles A and B of title VII \[19 U.S.C. 1671 et seq., 1673 et seq.\] or section 337 \[19 U.S.C. 1337\] of the Tariff Act of 1930, orother remedial provisions of law, the Commission shall promptly notify the appropriate agency so that such action may be taken as is otherwise authorized by such provisions of law.
 
 (6) For purposes of this section:
 

@@ -44,7 +44,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the appropriate State air pollution control agency has certified to the Administrator of the Environmental Protection Agency that such device is needed to meet, and is in conformity with, State requirements for abatement or control of atmospheric pollution or contamination;
 
-&emsp;&emsp;(C) the Administrator of the Environmental Protection Agency has certified to the Secretary as not duplicating or displacing existing air pollution control devices with a remaining useful economic life in excess of 2 years and as otherwise being in furtherance of the requirements and purposes of the Clean Air Act \[42 U.S.C. 7401 et seq.\];
+&emsp;&emsp;(C) the Administrator of the Environmental Protection Agency has certified tothe Secretary as not duplicating or displacing existing air pollution control devices with a remaining useful economic life in excess of 2 years and as otherwise being in furtherance of the requirements and purposes of the Clean Air Act \[42 U.S.C. 7401 et seq.\];
 
 &emsp;&emsp;(D) does not constitute or include a building, or a structural component of a building, other than a building used exclusively for the purposes set forth in subparagraph (A); and
 

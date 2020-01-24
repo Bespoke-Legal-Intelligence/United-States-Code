@@ -1,6 +1,6 @@
 ### §44304. Reinsurance
 
-To the extent the Secretary of Transportation is authorized to provide insurance under this chapter, the Secretary may reinsure any part of the insurance provided by an insurance carrier. The Secretary may reinsure with, transfer to, or transfer back to, any insurance carrier any insurance or reinsurance provided by the Secretary under this chapter.
+To the extent the Secretary of Transportation is authorized to provide insurance under thischapter, the Secretary may reinsure any part of the insurance provided by an insurance carrier. The Secretary may reinsure with, transfer to, or transfer back to, any insurance carrier any insurance or reinsurance provided by the Secretary under this chapter.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1169; Pub. L. 107–42, title II, §201(c), Sept. 22, 2001, 115 Stat. 235; Pub. L. 112–95, title VII, §703, Feb. 14, 2012, 126 Stat. 118.)
 

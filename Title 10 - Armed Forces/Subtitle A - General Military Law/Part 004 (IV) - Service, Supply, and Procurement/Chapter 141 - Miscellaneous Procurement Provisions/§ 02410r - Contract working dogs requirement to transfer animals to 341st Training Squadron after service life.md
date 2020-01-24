@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Each contract entered into by the Secretary of Defense for the provision of a contract working dog shall require that the dog be transferred to the 341st Training Squadron after the service life of the dog has terminated as described in subsection (b) for reclassification as a military animal and placement for adoption in accordance with section 2583 of this title.
+In General.—Each contract entered into by the Secretary of Defense for the provision of a contract working dog shall require, and shall contain a contract term, that the dog be transferred to the 341st Training Squadron and assigned for veterinary screening and care in accordance with section 2583 of this title after the service life of the dog has terminated as described in subsection (b) for reclassification as a military animal and placement for adoption in accordance with such section.
 
 (b)
 
@@ -20,5 +20,9 @@ Contract Working Dog.—In this section, the term "contract working dog" means a
 
 &emsp;(2) that is trained and kenneled by an entity that provides such a dog pursuant to such a contract.
 
-(Added Pub. L. 114–328, div. A, title III, §342(a)(1), Dec. 23, 2016, 130 Stat. 2082.)
+(Added Pub. L. 114–328, div. A, title III, §342(a)(1), Dec. 23, 2016, 130 Stat. 2082; amended Pub. L. 116–92, div. A, title III, §372(f), Dec. 20, 2019, 133 Stat. 1331.)
+
+#### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–92 inserted ", and shall contain a contract term," after "shall require" and "and assigned for veterinary screening and care in accordance with section 2583 of this title" after "341st Training Squadron" and substituted "such section" for "section 2583 of this title".
 

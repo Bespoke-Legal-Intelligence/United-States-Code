@@ -24,7 +24,7 @@ Acts March 3, 1881 and February 20, 1905, referred to in text, are acts Mar. 3, 
 
 <b>2010</b>—Pub. L. 111–146, §3(b)(1), substituted "right of the owner" for "right of the registrant" in introductory provisions.
 
-Par. (1). Pub. L. 111–146, §3(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "there has been no final decision adverse to registrant's claim of ownership of such mark for such goods or services, or to registrant's right to register the same or to keep the same on the register; and".
+Par. (1). Pub. L. 111–146, §3(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows:"there has been no final decision adverse to registrant's claim of ownership of such mark for such goods or services, or to registrant's right to register the same or to keep the same on the register; and".
 
 Par. (2). Pub. L. 111–146, §3(b)(3), inserted "United States" before "Patent and Trademark Office".
 

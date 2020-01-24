@@ -24,7 +24,7 @@ Notwithstanding any other provision of law, the Secretary of Commerce may enter 
 
 &emsp;&emsp;&emsp;(i) how standards will be set to ensure that data is reliable and effective;
 
-&emsp;&emsp;&emsp;(ii) how data may be acquired through commercial experimental or innovativetechniques and then evaluated for integration into operational use;
+&emsp;&emsp;&emsp;(ii) how data may be acquired through commercial experimental or innovative techniques and then evaluated for integration into operational use;
 
 &emsp;&emsp;&emsp;(iii) how to guarantee public access to all forecast-critical data to ensure that the United States weather industry and the public continue to have access to information critical to their work; and
 

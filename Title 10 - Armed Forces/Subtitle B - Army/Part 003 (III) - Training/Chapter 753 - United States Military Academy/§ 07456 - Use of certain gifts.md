@@ -34,5 +34,5 @@ Pub. L. 97–252, title XI, §1133, Sept. 8, 1982, 96 Stat. 761, provided that:
 
 "(a) \[Repealed and reenacted as section 4356 (now 7456) of this title by Pub. L. 97–295, §§1(41)(A), 6(b), Oct. 12, 1982, 96 Stat. 1297, 1315.\]
 
-"(b) This section applies with respect to any gift, devise, or bequest made on or after the date of the enactment of this Act \[Sept. 8, 1982\] for the purpose described in subsection (a) \[see text of section 7456 of this title\] and applies to any such gift, devise, or bequest, or devise made before the date of the enactment of this Act with respect to which the Secretary of the Armyhas approved application of this section rather than section 2601 of title 10, United States Code."
+"(b) This section applies with respect to any gift, devise, or bequest made on or after the date of the enactment of this Act \[Sept. 8, 1982\] for the purpose described in subsection (a) \[see text of section 7456 of this title\] and applies to any such gift, devise, or bequest, or devise made before the date of the enactment of this Act with respect to which the Secretary of the Army has approved application of this section rather than section 2601 of title 10, United States Code."
 

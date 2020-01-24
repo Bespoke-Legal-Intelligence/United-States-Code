@@ -70,7 +70,7 @@ Subsec. (a)(4)(E). Pub. L. 114–92, §631(c)(4)(B), added subpar. (E).
 
 <b>1990</b>—Subsec. (d)(4). Pub. L. 101–509 added par. (4).
 
-<b>1986</b>—Subsec. (a)(6). Pub. L. 99–348 amended par. (6) generally. Prior to amendment, par. (6) read as follows: "In computing retired pay under paragraph (4) or (5) in the case of any commissioned officer who first became a member of a uniformed service on or after September 8, 1980, the monthly retired pay base computed under section 1407(h) of title 10 shall be used in lieu of using the basic pay of the highest grade held by him as such officer."
+<b>1986</b>—Subsec. (a)(6). Pub. L. 99–348 amended par. (6) generally. Prior to amendment, par. (6) read as follows:"In computing retired pay under paragraph (4) or (5) in the case of any commissioned officer who first became a member of a uniformed service on or after September 8, 1980, the monthly retired pay base computed under section 1407(h) of title 10 shall be used in lieu of using the basic pay of the highest grade held by him as such officer."
 
 <b>1983</b>—Subsec. (a)(7). Pub. L. 98–94, §922(d), added par. (7).
 
@@ -152,7 +152,7 @@ Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of ac
 
 Pub. L. 86–415, §8(c), (d), Apr. 8, 1960, 74 Stat. 36, provided that:
 
-"(c) An officer in the Regular Corps on active duty on the date of enactment of this Act \[Apr. 8, 1960\] may be retired and have his retired pay computed under section 211 of the Public Health Service Act \[42 U.S.C. 212\], as amended by this Act, or, if he so elects, under such section as in effect prior to the date of enactment of this Act \[Apr. 8, 1960\].
+"(c) An officer in the Regular Corps on active duty on the date of enactment of this Act \[Apr. 8, 1960\] may be retired and have his retired pay computed under section 211 of the Public Health Service Act \[42 U.S.C. 212\],as amended by this Act, or, if he so elects, under such section as in effect prior to the date of enactment of this Act \[Apr. 8, 1960\].
 
 "(d) The limitation under subsection (f) of section 211 of the Public Health Service Act \[42 U.S.C. 212(f)\], as amended by this Act, on the amount of active service with the Public Health Service, other than as a commissioned officer, which may be counted for purposes of retirement or separation for physical disability, shall not apply in the case of any officer of the Reserve Corps of the Public Health Service on active duty on June 30, 1960."
 
@@ -164,7 +164,7 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 #### Delegation of Functions
 
-Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, eff.Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
+Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, eff. Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
 
 #### Coverage Under Civil Service Retirement Act
 

@@ -18,7 +18,7 @@
 
 (d) At such intervals as the Secretary determines necessary, the Secretary shall make available information concerning the need for general education and for trained personnel in the various crafts, trades, and professions. Facilities of other Federal agencies collecting such information shall be utilized to the extent the Secretary determines practicable.
 
-(e) The Secretary shall take appropriate steps (including individual notification where feasible) to acquaint all individuals described in subsection (b) of this section with the availability and advantages of counseling services under this section.
+(e) The Secretary shall take appropriate steps (including individual notification where feasible) to acquaint all individuals described insubsection (b) of this section with the availability and advantages of counseling services under this section.
 
 (Added Pub. L. 102–16, §2(a), Mar. 22, 1991, 105 Stat. 48, §1797A; renumbered §3697A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 110–252, title V, §5003(b)(2)(B), June 30, 2008, 122 Stat. 2375.)
 

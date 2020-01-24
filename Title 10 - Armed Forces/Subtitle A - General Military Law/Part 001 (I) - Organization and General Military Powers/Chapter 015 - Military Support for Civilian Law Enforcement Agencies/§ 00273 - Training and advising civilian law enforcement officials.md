@@ -14,7 +14,7 @@ Section 372 of this title, referred to in par. (1), was renumbered section 272 o
 
 #### Prior Provisions
 
-A prior section 273, act Aug. 10, 1956, ch. 1041, 70A Stat. 13, related to composition of Standby Reserve and maintenance of inactive status list in Standby Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See sections 10151 to 10153 of this title.
+A prior section 273, act Aug. 10, 1956, ch. 1041, 70A Stat. 13, related to composition of Standby Reserve andmaintenance of inactive status list in Standby Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See sections 10151 to 10153 of this title.
 
 #### Amendments
 

@@ -78,7 +78,7 @@ There are transferred to the Secretary all functions of the Secretary of Health,
 
 &emsp;(2) the Office of the Assistant Secretary for Education, including the National Center for Education Statistics; and
 
-&emsp;(3) any advisory committee in the Department of Health, Education, and Welfare giving advice and making recommendations principally concerning education functions transferred by this section.
+&emsp;(3) any advisory committee in the Department of Health, Education, and Welfare givingadvice and making recommendations principally concerning education functions transferred by this section.
 
 #### (d) Reservation of functions relating to Project Head Start
 

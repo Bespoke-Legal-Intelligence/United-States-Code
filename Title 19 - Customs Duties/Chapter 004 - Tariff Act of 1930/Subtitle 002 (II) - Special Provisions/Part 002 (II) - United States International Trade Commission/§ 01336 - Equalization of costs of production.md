@@ -24,7 +24,7 @@ In ascertaining under this section the differences in costs of production, the c
 
 #### (2) In the case of a foreign article
 
-&emsp;(A) The cost of production as hereinafter in this section defined, or, if the commissionfinds that such cost is not readily ascertainable, the commission may accept as evidence thereof, or as supplemental thereto, the weighted average of the invoice prices or values for a representative period and/or the average wholesale selling price for a representative period (which price shall be that at which the article is freely offered for sale to all purchasers in the principal market or markets of the principal competing country or countries in the ordinary course of trade and in the usual wholesale quantities in such market or markets); (B) transportation costs and other costs incident to delivery to the principal market or markets of the United States for the article; (C) other relevant factors that constitute an advantage or disadvantage in competition, including advantages granted to the foreign producers by a government, person, partnership, corporation, or association in a foreign country.
+&emsp;(A) The cost of production as hereinafter in this section defined, or, if the commission finds that such cost is not readily ascertainable, the commission may accept as evidence thereof, or as supplemental thereto, the weighted average of the invoice prices or values for a representative period and/or the average wholesale selling price for a representative period (which price shall be that at which the article is freely offered for sale to all purchasers in the principal market or markets of the principal competing country or countries in the ordinary course of trade and in the usual wholesale quantities in such market or markets); (B) transportation costs and other costs incident to delivery to the principalmarket or markets of the United States for the article; (C) other relevant factors that constitute an advantage or disadvantage in competition, including advantages granted to the foreign producers by a government, person, partnership, corporation, or association in a foreign country.
 
 #### (f) Modification of changes in duty
 
@@ -78,7 +78,7 @@ Subsec. (f). Pub. L. 96–39, §202(a)(2)(C), substituted "change in classificat
 
 Subsec. (j). Pub. L. 96–39, §202(a)(2)(D), struck out subsec. (j) which authorized the Secretary of the Treasury to make necessary rules and regulations for the entry and declaration of foreign articles with respect to which a change in the basis of value had been made.
 
-Subsec. (k). Pub. L. 96–39, §202(a)(2)(C), substituted "changes in classification or increases or decreases"for "changes in classification or in basis of value or increases or decreases".
+Subsec. (k). Pub. L. 96–39, §202(a)(2)(C), substituted "changes in classification or increases or decreases" for "changes in classification or in basis of value or increases or decreases".
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–686 struck out provisions which authorized the commission to adopt such reasonable procedure and rules and regulations as it deemed necessary to execute its functions under this section. See section 1335 of this title.
 

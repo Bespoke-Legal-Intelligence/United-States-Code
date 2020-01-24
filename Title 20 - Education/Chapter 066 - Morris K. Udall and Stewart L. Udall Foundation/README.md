@@ -10,7 +10,7 @@
 | [5606\.](%C2%A7%2005606%20-%20Establishment%20of%20Morris%20K.%20Udall%20and%20Stewart%20L.%20Udall%20Trust%20Fund.md) | Establishment of Morris K. Udall and Stewart L. Udall Trust Fund. |
 | [5607\.](%C2%A7%2005607%20-%20Expenditures%20and%20audit%20of%20Trust%20Fund.md) | Expenditures and audit of Trust Fund. |
 | [5607a.](%C2%A7%2005607a%20-%20Environmental%20Dispute%20Resolution%20Fund.md) | Environmental Dispute Resolution Fund. |
-| [5607b.](%C2%A7%2005607b%20-%20Use%20of%20Institute%20by%20Federal%20agency%20or%20other%20entity.md) | Use of Institute by Federal agency or other entity. |
+| [5607b.](%C2%A7%2005607b%20-%20Use%20of%20the%20National%20Center%20by%20Federal%20agency%20or%20other%20entity.md) | Use of the National Center by Federal agency or other entity. |
 | [5608\.](%C2%A7%2005608%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | [5609\.](%C2%A7%2005609%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
@@ -29,6 +29,6 @@
 - [&sect; 05606 - Establishment of Morris K. Udall and Stewart L. Udall Trust Fund](%C2%A7%2005606%20-%20Establishment%20of%20Morris%20K.%20Udall%20and%20Stewart%20L.%20Udall%20Trust%20Fund.md)
 - [&sect; 05607 - Expenditures and audit of Trust Fund](%C2%A7%2005607%20-%20Expenditures%20and%20audit%20of%20Trust%20Fund.md)
 - [&sect; 05607a - Environmental Dispute Resolution Fund](%C2%A7%2005607a%20-%20Environmental%20Dispute%20Resolution%20Fund.md)
-- [&sect; 05607b - Use of Institute by Federal agency or other entity](%C2%A7%2005607b%20-%20Use%20of%20Institute%20by%20Federal%20agency%20or%20other%20entity.md)
+- [&sect; 05607b - Use of the National Center by Federal agency or other entity](%C2%A7%2005607b%20-%20Use%20of%20the%20National%20Center%20by%20Federal%20agency%20or%20other%20entity.md)
 - [&sect; 05608 - Administrative provisions](%C2%A7%2005608%20-%20Administrative%20provisions.md)
 - [&sect; 05609 - Authorization of appropriations](%C2%A7%2005609%20-%20Authorization%20of%20appropriations.md)

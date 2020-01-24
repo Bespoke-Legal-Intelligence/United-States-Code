@@ -86,7 +86,7 @@ Notification of waiver status.—When informing an applicant that a grant under 
 
 &emsp;&emsp;(A) counseling individuals with respect to HIV/AIDS in accordance with section 300ff–62 of this title;
 
-&emsp;&emsp;(B) testing individuals with respect to HIV/AIDS, including tests to confirm the presence of the disease, tests to diagnose the extent of the deficiency in the immune system,and tests to provide information on appropriate therapeutic measures for preventing and treating the deterioration of the immune system and for preventing and treating conditions arising from HIV/AIDS;
+&emsp;&emsp;(B) testing individuals with respect to HIV/AIDS, including tests to confirm the presence of the disease, tests to diagnose the extent of the deficiency in the immune system, and tests to provide information on appropriate therapeutic measures for preventing and treating the deterioration of the immune system and for preventing and treating conditions arising from HIV/AIDS;
 
 &emsp;&emsp;(C) referrals described in paragraph (2);
 

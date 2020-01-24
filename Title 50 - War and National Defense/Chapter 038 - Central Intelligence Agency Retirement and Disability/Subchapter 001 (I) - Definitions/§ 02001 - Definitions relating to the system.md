@@ -148,7 +148,7 @@ Pub. L. 94–522, title II, §215, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
 "(d) The amendment made by section 210 \[amending section 251 of Pub. L. 88–643\] is effective only with respect to annuity accruing for full months beginning after January 8, 1971; but any part of a period of separation referred to in such amendment in which the participant or former participant was receiving benefits under chapter 81 of title 5, United States Code or any earlier statute on which such chapter is based shall be counted whether the person returns to duty before, on, or after January 8, 1971. With respect to any person retired before such date of enactment, any such part of a period of separation shall be counted only upon application of the retired person.
 
-"(e) The amendment in section 211 \[amending section 252(a)(2) of Pub. L. 88–643\] to credit certain service in the Public Health Service is effective as of April 8, 1960, and the amendment to credit certain service in the National Oceanic and Atmospheric Administration is effective as of September 14, 1961.
+"(e) The amendment in section 211 \[amending section 252(a)(2) of Pub. L. 88–643\] to credit certain service inthe Public Health Service is effective as of April 8, 1960, and the amendment to credit certain service in the National Oceanic and Atmospheric Administration is effective as of September 14, 1961.
 
 "(f) The amendment in section 212 \[enacting section 264 of Pub. L. 88–643\] is effective as of June 30, 1974.
 

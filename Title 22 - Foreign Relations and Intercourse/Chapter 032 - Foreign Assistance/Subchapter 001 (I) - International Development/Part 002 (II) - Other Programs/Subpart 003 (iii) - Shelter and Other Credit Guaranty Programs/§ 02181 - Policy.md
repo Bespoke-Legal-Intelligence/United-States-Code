@@ -18,7 +18,7 @@ A prior section 221 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 429, as 
 
 <b>1978</b>—Pub. L. 95–424 generally revised the statement of policy to clarify that in developing countries, financing, materials and labor for most housing must be obtained from local sources, while United States capital and technical expertise can increase the availability of housing and related services for low-income people by demonstrating financial viability of credit systems for low-cost housing.
 
-<b>1977</b>—Pub. L. 95–88 struck out provisions that the total face amount of guaranties issued under this section outstanding at any one time not exceed $430,000,000 and added section 2182(c) of this title to the enumeration of sections setting out the conditions under which guaranties shall be issued.
+<b>1977</b>—Pub. L. 95–88 struck out provisions that the total face amount of guaranties issued under this section outstanding at any one time not exceed $430,000,000and added section 2182(c) of this title to the enumeration of sections setting out the conditions under which guaranties shall be issued.
 
 <b>1975</b>—Pub. L. 94–161 substituted "$430,000,000" for "$355,000,000".
 

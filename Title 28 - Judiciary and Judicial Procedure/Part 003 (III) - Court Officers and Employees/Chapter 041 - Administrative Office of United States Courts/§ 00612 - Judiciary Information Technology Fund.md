@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Availability of Fund.—There is hereby established in the Treasury of the United States a special fund to be known as the "Judiciary Information Technology Fund" (hereafter in this section referred to as the "Fund"). Moneys in the Fund shall be available to the Director without fiscal year limitation for the procurement (by lease, purchase, exchange, transfer, or otherwise) of information technology resources for program activities included in the courts of appeals, district courts, and other judicial services account of the judicial branch of the United States. The Fund shall also be available for expenses, including personal services, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of information technology resources purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their information technology needs in accordance with subsections (b) and (c)(2).
+Establishment and Availability of Fund.—There is hereby established in the Treasury of the United States a special fund to be known as the "Judiciary Information Technology Fund" (hereafter in this section referred to as the "Fund"). Moneys in the Fund shall be available to the Director without fiscal year limitation for the procurement (by lease, purchase, exchange, transfer, or otherwise) of information technology resources for program activities included in the courts of appeals, district courts, and other judicial services account of the judicial branch of the United States. The Fund shall also be available for expenses, including personal services, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of information technology resources purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their information technologyneeds in accordance with subsections (b) and (c)(2).
 
 (b)
 
@@ -24,7 +24,7 @@ Deposits Into Fund.—
 
 Deposits.—There shall be deposited in the Fund—
 
-&emsp;&emsp;(A) all proceeds resulting from activities conducted under subsection (a), including net proceeds of disposal of excess or surplus property, all fees collected after the date ofthe enactment of the Judicial Amendments Act of 1994 by the judiciary under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133) and receipts from carriers and others for loss of or damage to property;
+&emsp;&emsp;(A) all proceeds resulting from activities conducted under subsection (a), including net proceeds of disposal of excess or surplus property, all fees collected after the date of the enactment of the Judicial Amendments Act of 1994 by the judiciary under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133) and receipts from carriers and others for loss of or damage to property;
 
 &emsp;&emsp;(B) amounts available for activities described in subsection (a) from funds appropriated to the judiciary; and
 
@@ -90,7 +90,7 @@ Reprogramming.—The Director of the Administrative Office of the United States 
 
 (i)
 
-Appropriations Into the Fund.—If the budget request of the judiciary is appropriated in full, the amount deposited into the Fund during any fiscal year under the authority of subsection (c)(1)(B) will be the same as the amount of funds requested by the judiciary for activities described in subsection (a). If an amount to be deposited is not specified in statute by Congress and if the full request is not appropriated, the amount to be deposited under subsection (c)(1)(B) will be set by the spending priorities established by the Judicial Conference.
+Appropriations Into the Fund.—If the budget request of the judiciary is appropriated in full, the amount deposited into the Fund during any fiscal year under the authority of subsection (c)(1)(B) will be the same as the amountof funds requested by the judiciary for activities described in subsection (a). If an amount to be deposited is not specified in statute by Congress and if the full request is not appropriated, the amount to be deposited under subsection (c)(1)(B) will be set by the spending priorities established by the Judicial Conference.
 
 (j)
 
@@ -186,7 +186,7 @@ Subsec. (b)(2). Pub. L. 103–420, §2(3), substituted "activities funded under 
 
 Subsec. (c)(1)(A). Pub. L. 103–420, §2(4), inserted ", all fees collected after the date of the enactment of the Judicial Amendments Act of 1994 by the judiciary under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133)" after "surplus property".
 
-Subsec. (e)(1). Pub. L. 103–420, §2(5), struck out "(A)" before "In fiscal year 1990" and substituted "amountsestimated to be collected under subsection (c) for that fiscal year" for "$75,000,000".
+Subsec. (e)(1). Pub. L. 103–420, §2(5), struck out "(A)" before "In fiscal year 1990" and substituted "amounts estimated to be collected under subsection (c) for that fiscal year" for "$75,000,000".
 
 Subsec. (h). Pub. L. 103–420, §2(6), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "
 

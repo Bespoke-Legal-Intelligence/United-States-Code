@@ -34,7 +34,7 @@ This section shall apply in the case of postmarks not made by the United States 
 
 #### (2) Certified mail; electronic filing
 
-&emsp;The Secretary is authorized to provide by regulations the extent to which the provisions of paragraph (1) with respect to prima facie evidence of delivery and the postmark date shall apply to certified mail and electronic filing.
+&emsp;The Secretary is authorized to provide by regulations the extent to which the provisionsof paragraph (1) with respect to prima facie evidence of delivery and the postmark date shall apply to certified mail and electronic filing.
 
 #### (d) Exceptions
 
@@ -74,7 +74,7 @@ This section shall not apply with respect to—
 
 #### (2) Designated delivery service
 
-&emsp;For purposes of this subsection, the term "designated delivery service" means any delivery service provided by a trade or businessif such service is designated by the Secretary for purposes of this section. The Secretary may designate a delivery service under the preceding sentence only if the Secretary determines that such service—
+&emsp;For purposes of this subsection, the term "designated delivery service" means any delivery service provided by a trade or business if such service is designated by the Secretary for purposes of this section. The Secretary may designate a delivery service under the preceding sentence only if the Secretary determines that such service—
 
 &emsp;&emsp;(A) is available to the general public,
 

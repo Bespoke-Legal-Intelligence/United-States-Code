@@ -34,7 +34,7 @@ To the extent that all the funds appropriated under section 300w of this title f
 
 &emsp;(3) some State allotments are offset or repaid under section 300w–5(b)(3) of this title;
 
-> such excess shall be allotted among each of the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this subsection.
+> such excess shall be allotted among each of the remaining States in proportion to the amountotherwise allotted to such States for the fiscal year without regard to this subsection.
 
 #### (d) Distributions to Indian tribes
 

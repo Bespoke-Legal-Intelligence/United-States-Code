@@ -12,7 +12,7 @@
 
 #### (3) Critical circumstances
 
-&emsp;An allegation that critical circumstances exist must be included in the petition or madeon or before the 90th day after the date on which the investigation is initiated under subsection (b).
+&emsp;An allegation that critical circumstances exist must be included in the petition or made on or before the 90th day after the date on which the investigation is initiated under subsection (b).
 
 #### (b) Investigation and determination
 

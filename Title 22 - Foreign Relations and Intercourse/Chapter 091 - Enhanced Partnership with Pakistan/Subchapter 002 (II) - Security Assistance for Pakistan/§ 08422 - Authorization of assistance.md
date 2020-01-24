@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A significant portion of the amount made available to carry out this subsection for afiscal year shall be for the purchase of defense articles, defense services, and military education and training for activities relating to counterinsurgency and counterterrorism operations in Pakistan.
+&emsp;&emsp;A significant portion of the amount made available to carry out this subsection for a fiscal year shall be for the purchase of defense articles, defense services, and military education and training for activities relating to counterinsurgency and counterterrorism operations in Pakistan.
 
 #### (B) Sense of Congress
 

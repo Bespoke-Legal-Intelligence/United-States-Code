@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to individuals or entities in the Appalachian region for projects and activities—
+In General.—The Appalachian Regional Commission may provide technical assistance,make grants, enter into contracts, or otherwise provide amounts to individuals or entities in the Appalachian region for projects and activities—
 
 &emsp;(1) to increase affordable access to broadband networks throughout the Appalachian region;
 

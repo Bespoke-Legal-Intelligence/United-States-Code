@@ -48,7 +48,7 @@
 
 &emsp;(7) "noncareer appointee" means an individual in a Senior Executive Service position who is not a career appointee, a limited term appointee, or a limited emergency appointee;
 
-&emsp;(8) "career reserved position" means a position which is required to be filled by a careerappointee and which is designated under subsection (b) of this section; and
+&emsp;(8) "career reserved position" means a position which is required to be filled by a career appointee and which is designated under subsection (b) of this section; and
 
 &emsp;(9) "general position" means any position, other than a career reserved position, which may be filled by either a career appointee, noncareer appointee, limited emergency appointee, or limited term appointee.
 

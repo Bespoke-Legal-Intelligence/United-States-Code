@@ -54,7 +54,7 @@ The Food and Drug Administration shall use the computerized data management syst
 
 #### (c) Volume data
 
-The Food and Drug Administration shall use the computerized data management systems placed into effect under subsection (a)(1) to summarize the volume of each type of food product subject to the requirements of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] which is imported into the United States and which has an entry value which exceeds an amount established by the Secretary of Health and Human Services. The summary shall be made by country of origin and district of entry. Information with respect to volumes of food products to be included in the summary shall, to the extent feasible, be obtained from data bases of other Federal agencies.
+The Food and Drug Administration shall use the computerized data management systems placed into effect under subsection (a)(1) to summarize the volume of each type of food product subject to the requirements of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] which is imported into the United States and which has an entry value which exceeds an amount established by the Secretary of Health and Human Services. The summary shall be made by country of origin and district of entry. Information with respect to volumes of food products to be included in the summary shall, tothe extent feasible, be obtained from data bases of other Federal agencies.
 
 #### (d) Compilation
 
@@ -74,43 +74,5 @@ Pub. L. 100–418, title IV, §4701, Aug. 23, 1988, 102 Stat. 1411, provided tha
 
 #### Imported Meat, Poultry Products, Eggs, and Egg Products
 
-Pub. L. 100–418, title IV, §4506, Aug. 23, 1988, 102 Stat. 1404, provided that:
-
-"(a)
-
-Report.—Not later than 90 days after the date of the enactment of this Act \[Aug. 23, 1988\], the Secretary of Agriculture shall submit a report to Congress—
-
-&emsp;"(1) specifying the planned distribution, in fiscal years 1988 and 1989, of the resources of the Department of Agriculture available for sampling imported covered products to ensure compliance with the requirements of the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.) that govern the level of residues of pesticides, drugs, and other products permitted in or on such products;
-
-&emsp;"(2) describing current methods used by the Secretary to enforce the requirements of such Acts with respect to the level of residues of pesticides, drugs, and other products permitted in or on such products;
-
-&emsp;"(3) responding to the audit report of the Inspector General of the Department of Agriculture, Number 38002—2—hy, dated January 14, 1987;
-
-&emsp;"(4) providing a summary with respect to the importation of covered products during fiscal years 1987 and 1988 that specifies—
-
-&emsp;&emsp;"(A) the number of samples of each such product taken during each such fiscal year in carrying out the requirements described in paragraph (1); and
-
-&emsp;&emsp;"(B) for each violation of such requirements during each such fiscal year—
-
-&emsp;&emsp;&emsp;"(i) the covered products with respect to which such violation occurred;
-
-&emsp;&emsp;&emsp;"(ii) the residue in or on such product in violation of such requirements;
-
-&emsp;&emsp;&emsp;"(iii) the country exporting such product;
-
-&emsp;&emsp;&emsp;"(iv) the actions taken in response to such violation and the reasons for such actions; and
-
-&emsp;&emsp;&emsp;"(v) the level of testing conducted by the countries exporting such products;
-
-&emsp;"(5) describing any research conducted by the Secretary to develop improved methods to detect residues subject to such requirements in or on covered products; and
-
-&emsp;"(6) providing any recommendations the Secretary considers appropriate for legislation to add or modify penalties for violations of laws, regulations, and other enforcement requirements governing the level of residues that are permitted in or on imported covered products.
-
-"(b)
-
-Revision.—Not later than November 15, 1989, the Secretary of Agriculture shall revise, as necessary, the report prepared under subsection (a) and submit the revision to Congress.
-
-"(c)
-
-Definition.—As used in this section, the term 'covered products' means meat, poultry products, eggs, and egg products."
+Pub. L. 100–418, title IV, §4506, Aug. 23, 1988, 102 Stat. 1404, required the Secretary of Agriculture, not later than 90 days after Aug. 23, 1988, to submit a report to Congress concerning the planned distribution, in fiscal years 1988 and 1989, of the resources of the Department of Agriculture available for sampling imported covered products to ensure compliance with the requirements of the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.) that govern the level of residues of pesticides, drugs, and other products permitted in or on such products.
 

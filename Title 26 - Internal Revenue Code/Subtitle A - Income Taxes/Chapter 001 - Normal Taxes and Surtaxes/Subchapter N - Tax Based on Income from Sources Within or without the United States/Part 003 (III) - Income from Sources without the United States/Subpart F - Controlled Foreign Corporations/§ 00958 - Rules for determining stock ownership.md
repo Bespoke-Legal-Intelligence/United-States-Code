@@ -20,7 +20,7 @@
 
 #### (b) Constructive ownership
 
-For purposes of sections 951(b), 954(d)(3), 956(c)(2), and 957, section 318(a) (relating to constructive ownership of stock) shall apply to the extent that the effect is to treat any United States person as a United States shareholder within the meaning of section 951(b), to treat a person as a related person within the meaning of section 954(d)(3), to treat the stock of a domestic corporation as owned by a United States shareholder of the controlled foreign corporation for purposes of section 956(c)(2), or to treat a foreign corporation as a controlled foreign corporation under section 957, except that—
+For purposes of sections 951(b), 954(d)(3), 956(c)(2), and 957, section 318(a) (relating to constructive ownership of stock) shall apply to the extent that the effect is to treat any United States person as a United States shareholder within the meaning of section 951(b), to treat a person as a related person within the meaning of section 954(d)(3), to treat the stock of a domestic corporation as owned by a United States shareholder of the controlled foreign corporation forpurposes of section 956(c)(2), or to treat a foreign corporation as a controlled foreign corporation under section 957, except that—
 
 &emsp;(1) In applying paragraph (1)(A) of section 318(a), stock owned by a nonresident alien individual (other than a foreign trust or foreign estate) shall not be considered as owned by a citizen or by a resident alien individual.
 
@@ -38,7 +38,7 @@ For purposes of sections 951(b), 954(d)(3), 956(c)(2), and 957, section 318(a) (
 
 Subsec. (b). Pub. L. 115–97, §14213(a)(2), substituted "Paragraph (1)" for "Paragraphs (1) and (4)" in concluding provisions.
 
-Subsec. (b)(4). Pub. L. 115–97, §14213(a)(1), struck out par. (4) which read as follows: "Subparagraphs (A), (B),and (C) of section 318(a)(3) shall not be applied so as to consider a United States person as owning stock which is owned by a person who is not a United States person."
+Subsec. (b)(4). Pub. L. 115–97, §14213(a)(1), struck out par. (4) which read as follows: "Subparagraphs (A), (B), and (C) of section 318(a)(3) shall not be applied so as to consider a United States person as owning stock which is owned by a person who is not a United States person."
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–188, §1704(t)(7), substituted "section 960(a)(1)" for "sections 955(b)(1)(A) and (B), 955(c)(2)(A)(ii), and 960(a)(1)" in introductory provisions.
 

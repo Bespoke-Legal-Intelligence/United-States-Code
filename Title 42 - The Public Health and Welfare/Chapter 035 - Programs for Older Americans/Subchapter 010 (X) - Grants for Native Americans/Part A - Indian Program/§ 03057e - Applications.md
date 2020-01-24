@@ -12,7 +12,7 @@ No grant may be made under this part unless the eligible tribal organization sub
 
 &emsp;(4) provide for periodic evaluation of activities and projects carried out under the application;
 
-&emsp;(5) establish objectives consistent with the purposes of this part toward which activitiesunder the application will be directed, identify obstacles to the attainment of such objectives, and indicate the manner in which the tribal organization proposes to overcome such obstacles;
+&emsp;(5) establish objectives consistent with the purposes of this part toward which activities under the application will be directed, identify obstacles to the attainment of such objectives, and indicate the manner in which the tribal organization proposes to overcome such obstacles;
 
 &emsp;(6) provide for establishing and maintaining information and assistance services to assure that older individuals who are Indians to be served by the assistance made available under this part will have reasonably convenient access to such services;
 

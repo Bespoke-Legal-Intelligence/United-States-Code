@@ -54,7 +54,7 @@ The Administrator, in coordination with the Technical Mapping Advisory Council e
 
 &emsp;&emsp;(C) any relevant information on land subsidence, coastal erosion areas, changing lake levels, and other flood-related hazards;
 
-&emsp;&emsp;(D) any relevant information or data of the National Oceanic and Atmospheric Administration and the United States Geological Survey relating to the best available scienceregarding future changes in sea levels, precipitation, and intensity of hurricanes; and
+&emsp;&emsp;(D) any relevant information or data of the National Oceanic and Atmospheric Administration and the United States Geological Survey relating to the best available science regarding future changes in sea levels, precipitation, and intensity of hurricanes; and
 
 &emsp;&emsp;(E) any other relevant information as may be recommended by the Technical Mapping Advisory Committee.
 

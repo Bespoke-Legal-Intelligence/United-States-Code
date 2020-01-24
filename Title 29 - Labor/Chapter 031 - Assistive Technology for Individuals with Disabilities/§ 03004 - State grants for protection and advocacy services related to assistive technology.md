@@ -58,11 +58,11 @@ Notwithstanding any other provision of law, the Secretary shall pay directly to 
 
 #### (e) Carryover
 
-Any amount paid to an eligible system for a fiscal year under this section that remains unobligated at the end of such fiscal year shall remain available to such system for obligation during the subsequent fiscal year. Program income generated from such amount shall remain available for 2 additional fiscal years after the year in which such amount was paid to an eligible system and may only be used to improve the awareness of individuals with disabilities about the accessibility of assistive technology and assist such individuals in the acquisition, utilization, or maintenance of assistive technology devices or assistive technology services.
+Any amount paid to an eligible system for a fiscal year under this section that remains unobligated at the end of such fiscal year shall remain available to such system for obligationduring the subsequent fiscal year. Program income generated from such amount shall remain available for 2 additional fiscal years after the year in which such amount was paid to an eligible system and may only be used to improve the awareness of individuals with disabilities about the accessibility of assistive technology and assist such individuals in the acquisition, utilization, or maintenance of assistive technology devices or assistive technology services.
 
 #### (f) Report to Secretary
 
-An entity that receives a grant under this section shall annually prepare and submit to theSecretary a report that contains such information as the Secretary may require, including documentation of the progress of the entity in—
+An entity that receives a grant under this section shall annually prepare and submit to the Secretary a report that contains such information as the Secretary may require, including documentation of the progress of the entity in—
 
 &emsp;(1) conducting consumer-responsive activities, including activities that will lead to increased access, for individuals with disabilities, to funding for assistive technology devices and assistive technology services;
 

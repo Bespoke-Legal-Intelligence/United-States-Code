@@ -58,13 +58,13 @@ Section 1. (a) When the President, or the Secretary of State or the Secretary of
 
 (ii) prohibit any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which the sanctioned person has any interest;
 
-(iii) prohibit any transfers of credit or payments between financial institutions, or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the sanctioned person;
+(iii) prohibit any transfers of credit or payments between financial institutions, or by, through, or to anyfinancial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the sanctioned person;
 
 (iv) block all property and interests in property of the sanctioned person that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person, and provide that such property and interests in property may not be transferred, paid, exported, withdrawn, or otherwise dealt in;
 
 (v) prohibit any United States person from investing in or purchasing significant amounts of equity or debt instruments of the sanctioned person; or
 
-(vi) impose on the principal executive officer or officers of the sanctioned person, or on persons performingsimilar functions and with similar authorities as such officer or officers, the sanctions described in subsections (a)(i)–(a)(v) of this section, as selected by the President, the Secretary of State, or the Secretary of the Treasury.
+(vi) impose on the principal executive officer or officers of the sanctioned person, or on persons performing similar functions and with similar authorities as such officer or officers, the sanctions described in subsections (a)(i)–(a)(v) of this section, as selected by the President, the Secretary of State, or the Secretary of the Treasury.
 
 (b) The prohibitions in subsection (a)(iv) of this section include:
 

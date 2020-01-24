@@ -84,7 +84,7 @@ Pending disbursement of assessments under a budget approved by the Secretary, th
 
 &emsp;&emsp;(D) Region IV shall comprise Arizona, Arkansas, Kansas, Louisiana, Missouri, New Mexico, Oklahoma, and Texas.
 
-&emsp;&emsp;(E) Region V shall comprise Alaska, California, Colorado, Hawaii, Idaho, Montana, Nevada, Oregon, Utah, Washington, and Wyoming.
+&emsp;&emsp;(E) Region V shall comprise Alaska, California, Colorado, Hawaii, Idaho, Montana,Nevada, Oregon, Utah, Washington, and Wyoming.
 
 #### (3) Adjustment of geographic regions
 

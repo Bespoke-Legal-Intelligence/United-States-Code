@@ -56,7 +56,7 @@ Findings.—The Congress finds and declares the following:
 
 &emsp;&emsp;"(D) absent carriage requirements there is a substantial likelihood that citizens, who have supported local public television services, will be deprived of those services.
 
-&emsp;"(9) The Federal Government has a substantial interest in having cable systems carry the signals of local commercial television stations because the carriage of such signals is necessary to serve the goals contained in section 307(b) of the Communications Act of 1934 \[47 U.S.C. 307(b)\] of providing a fair, efficient, and equitable distribution of broadcast services.
+&emsp;"(9) The Federal Government has a substantial interest in having cable systems carry the signals oflocal commercial television stations because the carriage of such signals is necessary to serve the goals contained in section 307(b) of the Communications Act of 1934 \[47 U.S.C. 307(b)\] of providing a fair, efficient, and equitable distribution of broadcast services.
 
 &emsp;"(10) A primary objective and benefit of our Nation's system of regulation of television broadcasting is the local origination of programming. There is a substantial governmental interest in ensuring its continuation.
 
@@ -102,7 +102,7 @@ Pub. L. 102–385, §26, Oct. 5, 1992, 106 Stat. 1502, directed Federal Communic
 
 #### Applicability of Antitrust Laws to Pub. L. 102–385
 
-Pub. L. 102–385, §27, Oct. 5, 1992, 106 Stat. 1503, provided that: "Nothing in this Act \[enacting sections 334, 335, 534 to 537, 544a, 548, and 555a of this title, amending sections 325, 332, 522, 532, 533, 541 to 544, 546, 551 to 555, and 558 of this title, and enacting provisions set out as notes under this section and sections 325, 531, 543, and 554 of this title\] or the amendments made by this Act shall be construed to alter or restrict in any manner the applicability of any Federal or State antitrust law."
+Pub. L. 102–385, §27, Oct. 5, 1992, 106 Stat. 1503, provided that: "Nothing in this Act \[enacting sections 334, 335, 534 to 537, 544a, 548, and 555a of this title, amending sections 325, 332, 522, 532, 533, 541 to 544, 546, 551 to 555, and 558 of this title, and enacting provisions set out as notes under this section and sections 325, 531, 543, and 554 of this title\] or the amendments made by this Act shall be construed to alter or restrict in any mannerthe applicability of any Federal or State antitrust law."
 
 #### Effect of Cable Communications Policy Act of 1984 on Jurisdiction of Federal Communications Commission Respecting Wire or Radio Communications Through Cable Systems
 

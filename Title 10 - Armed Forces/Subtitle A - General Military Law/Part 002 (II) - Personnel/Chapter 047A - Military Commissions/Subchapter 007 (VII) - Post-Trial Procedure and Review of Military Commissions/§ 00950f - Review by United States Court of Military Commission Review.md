@@ -36,7 +36,7 @@ Standard and Scope of Review.—In a case reviewed by the Court under this secti
 
 Rehearings.—If the Court sets aside the findings or sentence, the Court may, except where the setting aside is based on lack of sufficient evidence in the record to support the findings, order a rehearing. If the Court sets aside the findings or sentence and does not order a rehearing, the Court shall order that the charges be dismissed.
 
-(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2603; amended Pub. L. 112–81, div. A, title X, §1034(c), Dec. 31, 2011, 125 Stat. 1573; Pub. L. 115–91, div. A, title X, §1082, Dec. 12, 2017, 131 Stat. 1602; Pub. L. 115–232, div. A, title V, §541(a), Aug. 13, 2018, 132 Stat. 1761.)
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2603; amended Pub. L. 112–81, div. A, title X, §1034(c), Dec. 31, 2011, 125 Stat. 1573; Pub. L. 115–91, div. A, title X, §1082,Dec. 12, 2017, 131 Stat. 1602; Pub. L. 115–232, div. A, title V, §541(a), Aug. 13, 2018, 132 Stat. 1761.)
 
 #### Prior Provisions
 

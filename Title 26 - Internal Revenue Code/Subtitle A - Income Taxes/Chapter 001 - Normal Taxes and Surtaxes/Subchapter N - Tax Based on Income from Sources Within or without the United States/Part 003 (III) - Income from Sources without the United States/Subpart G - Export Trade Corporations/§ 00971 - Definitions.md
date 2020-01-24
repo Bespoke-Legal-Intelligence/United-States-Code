@@ -78,7 +78,7 @@ For purposes of this subpart, the term "unrelated person" means a person other t
 
 Pub. L. 99–514, title XVIII, §1876(m), Oct. 22, 1986, 100 Stat. 2901, provided that: "If—
 
-&emsp;"(1) a corporation which is not an export trading corporation for its most recent taxable year endingbefore the date of the enactment of the Tax Reform Act of 1984 \[July 18, 1984\] but was an export trading corporation for any prior taxable year, and
+&emsp;"(1) a corporation which is not an export trading corporation for its most recent taxable year ending before the date of the enactment of the Tax Reform Act of 1984 \[July 18, 1984\] but was an export trading corporation for any prior taxable year, and
 
 &emsp;"(2)(A) such corporation may not qualify as an export trade corporation for any taxable year beginning after December 31, 1984, by reason of section 971(a)(3) of the Internal Revenue Code of 1954 \[now 1986\], or (B) such corporation makes an election, before the date 6 months after the date of the enactment of this Act \[Oct. 22, 1986\], not to be treated as an export trade corporation with respect to taxable years beginning after December 31, 1984,
 

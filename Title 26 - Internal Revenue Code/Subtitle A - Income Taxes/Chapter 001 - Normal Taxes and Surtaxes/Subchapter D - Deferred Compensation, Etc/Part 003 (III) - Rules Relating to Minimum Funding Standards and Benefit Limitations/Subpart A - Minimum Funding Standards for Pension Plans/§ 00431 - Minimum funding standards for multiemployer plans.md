@@ -124,7 +124,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;&emsp;&emsp;(I) no extension of the amortization period under clause (i) shall be allowed under subsection (d), and
 
-&emsp;&emsp;&emsp;&emsp;(II) if an extension was granted under subsection (d) for any plan year before the election to have this subparagraph apply to the plan year, such extension shall not result in such amortization period exceeding 30 years.
+&emsp;&emsp;&emsp;&emsp;(II) if an extension was granted under subsection (d) for any plan year beforethe election to have this subparagraph apply to the plan year, such extension shall not result in such amortization period exceeding 30 years.
 
 #### (iii) Net investment losses
 
@@ -200,7 +200,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (B) Election with respect to bonds
 
-&emsp;&emsp;The value of a bond or other evidence of indebtedness which is not in default as toprincipal or interest may, at the election of the plan administrator, be determined on an amortized basis running from initial cost at purchase to par value at maturity or earliest call date. Any election under this subparagraph shall be made at such time and in such manner as the Secretary shall by regulations provide, shall apply to all such evidences of indebtedness, and may be revoked only with the consent of the Secretary.
+&emsp;&emsp;The value of a bond or other evidence of indebtedness which is not in default as to principal or interest may, at the election of the plan administrator, be determined on an amortized basis running from initial cost at purchase to par value at maturity or earliest call date. Any election under this subparagraph shall be made at such time and in such manner as the Secretary shall by regulations provide, shall apply to all such evidences of indebtedness, and may be revoked only with the consent of the Secretary.
 
 #### (3) Actuarial assumptions must be reasonable
 
@@ -290,7 +290,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (II) Secretarial authority
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may by regulation prescribe for plan years beginning after December 31, 1999, mortality tables to be used in determining current liability under this subsection. Such tables shall be based upon the actual experience of pension plans and projected trends in such experience. In prescribing such tables, the Secretary shall take into account results of available independent studies of mortality of individuals covered by pension plans.
+&emsp;&emsp;&emsp;&emsp;The Secretary may by regulation prescribe for plan years beginning after December 31, 1999, mortality tables to be used in determining current liability under this subsection. Such tables shall be based upon the actual experience of pension plans and projected trends in such experience. In prescribing such tables, the Secretary shall take into account results of available independentstudies of mortality of individuals covered by pension plans.
 
 #### (v) Separate mortality tables for the disabled
 
@@ -362,7 +362,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (8) Time when certain contributions deemed made
 
-&emsp;For purposes of this section, any contributions for a plan year made by an employer after the last day of such plan year, but not later than two and one-half months after suchday, shall be deemed to have been made on such last day. For purposes of this subparagraph, such two and one-half month period may be extended for not more than six months under regulations prescribed by the Secretary.
+&emsp;For purposes of this section, any contributions for a plan year made by an employer after the last day of such plan year, but not later than two and one-half months after such day, shall be deemed to have been made on such last day. For purposes of this subparagraph, such two and one-half month period may be extended for not more than six months under regulations prescribed by the Secretary.
 
 #### (d) Extension of amortization periods for multiemployer plans
 
@@ -430,7 +430,7 @@ The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)
 
 The date of the enactment of the Pension Protection Act of 2006, referred to in subsec. (b)(2)(D), (E), (3)(D), (4), (7)(E), is the date of enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
-The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapterII (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 807(d)(5), referred to in subsec. (c)(6)(D)(iv)(I), was repealed by Pub. L. 115–97, title I, §13517(a)(2)(A), Dec. 22, 2017, 131 Stat. 2144.
 

@@ -40,7 +40,7 @@ The information described in subsection (a)(1) shall be provided to the Secretar
 
 &emsp;(5) to State law or fraud enforcement agencies,
 
-&emsp;(6) to hospitals and other health care entities (as defined in section 431 of the Health Care Quality Improvement Act of 1986 \[42 U.S.C. 11151\]), with respect to physicians or other licensed health care practitioners that have entered (or may be entering) into an employment or affiliation relationship with, or have applied for clinical privileges or appointments to the medical staff of, such hospitals or other health care entities (and such information shall be deemed to be disclosed pursuant to section 427 \[42 U.S.C. 11137\] of, and be subject to the provisions of, that Act \[42 U.S.C. 11101 et seq.\]), but only with respect to information provided pursuant to subsection (a)(1)(A),
+&emsp;(6) to hospitals and other health care entities (as defined in section 431 of the Health Care Quality Improvement Act of 1986 \[42U.S.C. 11151\]), with respect to physicians or other licensed health care practitioners that have entered (or may be entering) into an employment or affiliation relationship with, or have applied for clinical privileges or appointments to the medical staff of, such hospitals or other health care entities (and such information shall be deemed to be disclosed pursuant to section 427 \[42 U.S.C. 11137\] of, and be subject to the provisions of, that Act \[42 U.S.C. 11101 et seq.\]), but only with respect to information provided pursuant to subsection (a)(1)(A),
 
 &emsp;(7) to health plans (as defined in section 1320a–7c(c) of this title); <sup>1</sup>
 

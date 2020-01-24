@@ -118,5 +118,5 @@ A prior section 3056l, Pub. L. 89–73, title V, §514, as added Pub. L. 106–5
 
 #### Amendments
 
-<b>2016</b>—Subsec. (c)(4). Pub. L. 114–144 struck out "and addressing additional indicators of performance" after "measures of performance" and "and additional indicators of performance" after "core indicators of performance".
+<b>2016</b>—Subsec. (c)(4). Pub. L. 114–144 struck out "and addressing additional indicators of performance" after"measures of performance" and "and additional indicators of performance" after "core indicators of performance".
 

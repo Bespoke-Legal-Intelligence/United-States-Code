@@ -2,7 +2,7 @@
 
 #### (a) Disclosure report
 
-Whenever any institution is owned or controlled by a foreign source or receives a gift from or enters into a contract with a foreignsource, the value of which is $250,000 or more, considered alone or in combination with all other gifts from or contracts with that foreign source within a calendar year, the institution shall file a disclosure report with the Secretary on January 31 or July 31, whichever is sooner.
+Whenever any institution is owned or controlled by a foreign source or receives a gift from or enters into a contract with a foreign source, the value of which is $250,000 or more, considered alone or in combination with all other gifts from or contracts with that foreign source within a calendar year, the institution shall file a disclosure report with the Secretary on January 31 or July 31, whichever is sooner.
 
 #### (b) Contents of report
 
@@ -26,7 +26,7 @@ Notwithstanding the provisions of subsection (b), whenever any institution recei
 
 #### (1) State requirements
 
-&emsp;If an institution described under subsection (a) is within a State which has enacted requirements for public disclosure of gifts from or contracts with a foreign source that are substantially similar to the requirements of this section, a copy of the disclosure report filed with the State may be filed with the Secretary in lieu of a report required under subsection (a). The State in which the institution is located shall provide to the Secretary such assurances as the Secretary may require to establish that the institution has met the requirements for public disclosure under State law if the State report is filed.
+&emsp;If an institution described under subsection (a) is within a State which has enacted requirements for public disclosure of gifts from or contracts with a foreign source that are substantially similar to the requirements ofthis section, a copy of the disclosure report filed with the State may be filed with the Secretary in lieu of a report required under subsection (a). The State in which the institution is located shall provide to the Secretary such assurances as the Secretary may require to establish that the institution has met the requirements for public disclosure under State law if the State report is filed.
 
 #### (2) Use of other Federal reports
 

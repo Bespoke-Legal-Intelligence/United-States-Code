@@ -18,7 +18,7 @@ Discontinuance for Lack of Appropriations.—(1) Amtrak may discontinue service 
 
 (c)
 
-Applicability.—This section applies to all service over routes provided by Amtrak, notwithstanding any provision of section 24701 of this title or any other provision of this title except section 24702(b).
+Applicability.—This section applies to all service over routes provided by Amtrak, notwithstanding any provision of section 24701 ofthis title or any other provision of this title except section 24702(b).
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 927; Pub. L. 105–134, title I, §§101(c), 142(a), Dec. 2, 1997, 111 Stat. 2572, 2576; Pub. L. 110–432, div. B, title II, §201(d), Oct. 16, 2008, 122 Stat. 4910; Pub. L. 114–94, div. A, title XI, §11316(n)(1), Dec. 4, 2015, 129 Stat. 1678.)
 

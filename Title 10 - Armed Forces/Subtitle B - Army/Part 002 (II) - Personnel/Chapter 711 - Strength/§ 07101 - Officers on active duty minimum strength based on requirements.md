@@ -28,5 +28,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Assistance in Accomplishing Requirement
 
-Pub. L. 104–106, div. A, title V, §505(b), Feb. 10, 1996, 110 Stat. 296, as amended by Pub. L. 115–232, div. A, title VIII, §809(b)(5), Aug. 13, 2018, 132 Stat. 1840, providedthat: "The Secretary of Defense shall provide to the Army sufficient personnel and financial resources to enable the Army to meet the requirement specified in section 7101 of title 10, United States Code, as added by subsection (a)."
+Pub. L. 104–106, div. A, title V, §505(b), Feb. 10, 1996, 110 Stat. 296, as amended by Pub. L. 115–232, div. A, title VIII, §809(b)(5), Aug. 13, 2018, 132 Stat. 1840, provided that: "The Secretary of Defense shall provide to the Army sufficient personnel and financial resources to enable the Army to meet the requirement specified in section 7101 of title 10, United States Code, as added by subsection (a)."
 

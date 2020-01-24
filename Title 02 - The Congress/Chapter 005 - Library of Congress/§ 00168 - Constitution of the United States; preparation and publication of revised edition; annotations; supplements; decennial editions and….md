@@ -8,7 +8,7 @@ The Librarian of Congress shall have prepared—
 
 &emsp;(3) upon the completion of the October 1981 term of the Supreme Court, and upon the completion of each tenth October term of the Supreme Court thereafter, a hardbound decennial revised edition of the Constitution Annotated, which shall contain annotations of all decisions theretofore rendered by the Supreme Court construing provisions of the Constitution; and
 
-&emsp;(4) upon the completion of the October 1983 term of the Supreme Court, and upon the completion of each subsequent October term of the Supreme Court beginning in an odd-numbered year (the final digit of which is not a 1), a cumulative pocket-part supplement to the most recent hardbound decennial revised edition of the Constitution Annotated, which shall contain cumulative annotations of all such decisions rendered by the Supreme Court whichwere not included in that hardbound decennial revised edition of the Constitution Annotated.
+&emsp;(4) upon the completion of the October 1983 term of the Supreme Court, and upon the completion of each subsequent October term of the Supreme Court beginning in an odd-numbered year (the final digit of which is not a 1), a cumulative pocket-part supplement to the most recent hardbound decennial revised edition of the Constitution Annotated, which shall contain cumulative annotations of all such decisions rendered by the Supreme Court which were not included in that hardbound decennial revised edition of the Constitution Annotated.
 
 (Pub. L. 91–589, §1, Dec. 24, 1970, 84 Stat. 1586.)
 

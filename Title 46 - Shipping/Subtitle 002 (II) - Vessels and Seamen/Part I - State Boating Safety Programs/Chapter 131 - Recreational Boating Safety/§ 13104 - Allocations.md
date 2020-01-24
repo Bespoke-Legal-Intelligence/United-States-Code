@@ -54,7 +54,7 @@ Subsec. (f). Pub. L. 98–369, §1011(d)(1), struck out subsec. (f) which provid
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to fiscal years beginning after Sept. 30, 1984, see section 1013 of Pub. L. 98–369, set out as a note under section 13101 of this title.
+Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to fiscal years beginning after Sept.30, 1984, see section 1013 of Pub. L. 98–369, set out as a note under section 13101 of this title.
 
 #### Payment of Administrative Costs; Retention of Amount Prior to Allocations
 

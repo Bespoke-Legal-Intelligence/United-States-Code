@@ -72,7 +72,7 @@ For purposes of section 1161 of this title, the term "continuation coverage" mea
 
 &emsp;&emsp;(B) may, at the election of the payor, be made in monthly installments.
 
-> &emsp;In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to "102 percent" is deemed a reference to "150 percent" for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A).
+> &emsp;In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of paragraph (2)(A),<sup>2</sup> any reference in subparagraph (A) of this paragraph to "102 percent" is deemed a reference to "150 percent" for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A).
 
 #### (4) No requirement of insurability
 
@@ -91,6 +91,8 @@ The Social Security Act, referred to in par. (2)(A)(vii), (viii), (D)(ii), (E), 
 Section 1166(3) of this title, referred to in par. (2)(A)(viii), was redesignated as section 1166(a)(3) of this title by Pub. L. 101–239, title VII, §7891(d)(1)(A)(ii)(I), Dec. 19, 1989, 103 Stat. 2445.
 
 The Public Health Service Act, referred to in par. (2)(D)(i), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+The last sentence of paragraph (2)(A), referred to in par. (3), probably means par. (2)(A)(viii) of this section, which was originally enacted as the concluding provisions of par. (2)(A) and subsequently designated as cl. (vi) and redesignated as cl. (viii) of par. (2)(A) by Pub. L. 111–5, div. B, title I, §1899F(a)(2), (3), Feb. 17, 2009, 123 Stat. 428.
 
 #### Amendments
 
@@ -130,7 +132,7 @@ Par. (2)(D). Pub. L. 101–239, §7862(c)(3)(B), substituted "entitlement" for "
 
 Par. (2)(E). Pub. L. 101–239, §6703(a)(2), added subpar. (E).
 
-Par. (3). Pub. L. 101–239, §7862(c)(4)(A), which directed substitution of "In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage." for last sentence of par. (3), was executed by making the substitution for the following sentence: "If an election is made after the qualifying event, the plan shall permit payment for continuation coverage during the period preceding the election to be made within 45 days of the date of the election.", notwithstanding the sentence added at the end of par. (3) by Pub. L. 101–239, §6703(b).
+Par. (3). Pub. L. 101–239, §7862(c)(4)(A), which directed substitution of "In no event may the plan require the payment of any premium before the day which is 45days after the day on which the qualified beneficiary made the initial election for continuation coverage." for last sentence of par. (3), was executed by making the substitution for the following sentence: "If an election is made after the qualifying event, the plan shall permit payment for continuation coverage during the period preceding the election to be made within 45 days of the date of the election.", notwithstanding the sentence added at the end of par. (3) by Pub. L. 101–239, §6703(b).
 
 Pub. L. 101–239, §6703(b), inserted at end "In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to '102 percent' is deemed a reference to '150 percent' for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A)."
 
@@ -201,4 +203,6 @@ Amendment by Pub. L. 99–509 effective, except as otherwise provided, as if inc
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

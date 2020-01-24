@@ -18,7 +18,7 @@ The certification described in subsection (a) shall be signed by a supervisory o
 
 #### (B) Certification
 
-&emsp;&emsp;The requirements of subparagraph (A) shall apply if the head of the governmentagency described in subsection (a), or a designee, certifies that the absence of a prohibition of disclosure under this subsection may result in—
+&emsp;&emsp;The requirements of subparagraph (A) shall apply if the head of the government agency described in subsection (a), or a designee, certifies that the absence of a prohibition of disclosure under this subsection may result in—
 
 &emsp;&emsp;&emsp;(i) a danger to the national security of the United States;
 
@@ -106,5 +106,5 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 #### Effective Date
 
-Section applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as an Effective Date of 2001 Amendment note under section 1829b of this Title 12, Banks and Banking.
+Section applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, seesection 358(h) of Pub. L. 107–56, set out as an Effective Date of 2001 Amendment note under section 1829b of this Title 12, Banks and Banking.
 

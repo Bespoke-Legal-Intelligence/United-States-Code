@@ -17,7 +17,7 @@
 
 <b>1981</b>—Pub. L. 97–34, title II, §251(b)(6), Aug. 13, 1981, 95 Stat. 259, added item 422A.
 
-<b>1964</b>—Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 63, substituted "CERTAIN STOCK OPTIONS" for"MISCELLANEOUS PROVISIONS" in part II heading, and "General rules" for "Employee stock options" in item 421, and added items 422–425.
+<b>1964</b>—Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 63, substituted "CERTAIN STOCK OPTIONS" for "MISCELLANEOUS PROVISIONS" in part II heading, and "General rules" for "Employee stock options" in item 421, and added items 422–425.
 
 
 ---

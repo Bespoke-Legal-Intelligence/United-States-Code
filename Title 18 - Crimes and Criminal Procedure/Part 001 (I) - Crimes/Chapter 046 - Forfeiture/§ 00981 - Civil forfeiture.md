@@ -66,7 +66,7 @@
 
 &emsp;(C) In cases involving fraud in the process of obtaining a loan or extension of credit, the court shall allow the claimant a deduction from the forfeiture to the extent that the loan was repaid, or the debt was satisfied, without any financial loss to the victim.
 
-(b)(1) Except as provided in section 985, any property subject to forfeiture to the UnitedStates under subsection (a) may be seized by the Attorney General and, in the case of property involved in a violation investigated by the Secretary of the Treasury or the United States Postal Service, the property may also be seized by the Secretary of the Treasury or the Postal Service, respectively.
+(b)(1) Except as provided in section 985, any property subject to forfeiture to the United States under subsection (a) may be seized by the Attorney General and, in the case of property involved in a violation investigated by the Secretary of the Treasury or the United States Postal Service, the property may also be seized by the Secretary of the Treasury or the Postal Service, respectively.
 
 (2) Seizures pursuant to this section shall be made pursuant to a warrant obtained in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure, except that a seizure may be made without a warrant if—
 
@@ -80,7 +80,7 @@
 
 &emsp;(C) the property was lawfully seized by a State or local law enforcement agency and transferred to a Federal agency.
 
-(3) Notwithstanding the provisions of rule 41(a) of the Federal Rules of Criminal Procedure, a seizure warrant may be issued pursuant to this subsection by a judicial officer in any district in which a forfeiture action against the property may be filed under section 1355(b) of title 28, and may be executed in any district in which the property is found, or transmitted to the central authority of any foreign state for service in accordance with any treaty or other international agreement. Any motion for the return of property seized under this section shall be filed in the district court in which the seizure warrant was issued or in the district court for the district in which the property was seized.
+(3) Notwithstanding the provisions of rule 41(a) <sup>4</sup> of the Federal Rules of Criminal Procedure, a seizure warrant may be issued pursuant to this subsection by a judicial officer in any district in which a forfeiture action against the property may be filed under section 1355(b) of title 28, and may be executed in any district in which the property is found, or transmitted to the central authority of any foreign state for service in accordance with any treaty or other international agreement. Any motion for the return of property seized under this section shall be filed in the district court in which the seizure warrant was issued or in the district court for the district in which the property was seized.
 
 (4)(A) If any person is arrested or charged in a foreign country in connection with an offense that would give rise to the forfeiture of property in the United States under this section or under the Controlled Substances Act, the Attorney General may apply to any Federal judge or magistrate judge in the district in which the property is located for an ex parte order restraining the property subject to forfeiture for not more than 30 days, except that the time may be extended for good cause shown at a hearing conducted in the manner provided in rule 43(e) of the Federal Rules of Civil Procedure.
 
@@ -142,7 +142,7 @@
 
 (h) In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeiture of the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
 
-(i)(1) Whenever property is civilly or criminally forfeited under this chapter, the Attorney General or the Secretary of the Treasury, as thecase may be, may transfer the forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure or forfeiture of the property, if such a transfer—
+(i)(1) Whenever property is civilly or criminally forfeited under this chapter, the Attorney General or the Secretary of the Treasury, as the case may be, may transfer the forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure or forfeiture of the property, if such a transfer—
 
 &emsp;(A) has been agreed to by the Secretary of State;
 
@@ -150,7 +150,7 @@
 
 &emsp;(C) is made to a country which, if applicable, has been certified under section 481(h) <sup>4</sup> of the Foreign Assistance Act of 1961.
 
-> A decision by the Attorney General or the Secretary of the Treasury pursuant to this paragraph shall not be subject to review. The foreign country shall, in the event of a transfer of property or proceeds of sale of property under this subsection, bear all expenses incurred by the United States in the seizure, maintenance, inventory, storage, forfeiture, and disposition of the property, and all transfer costs. The payment of all such expenses, and the transfer of assets pursuant to this paragraph, shall be upon such terms and conditions as the Attorney General or the Secretary of the Treasury may, in his discretion, set.
+> A decision by the Attorney General or the Secretary of the Treasury pursuant to this paragraph shall not be subject to review. The foreign country shall, in the event of a transfer of property or proceeds of sale of property under thissubsection, bear all expenses incurred by the United States in the seizure, maintenance, inventory, storage, forfeiture, and disposition of the property, and all transfer costs. The payment of all such expenses, and the transfer of assets pursuant to this paragraph, shall be upon such terms and conditions as the Attorney General or the Secretary of the Treasury may, in his discretion, set.
 
 (2) The provisions of this section shall not be construed as limiting or superseding any other authority of the United States to provide assistance to a foreign country in obtaining property related to a crime committed in the foreign country, including property which is sought as evidence of a crime committed in the foreign country.
 
@@ -212,7 +212,7 @@ In general.—Except as provided in clause (ii), the term "owner"—
 
 &emsp;&emsp;&emsp;(ii)
 
-Exception.—The foreign financial institution (as defined in section 984(c)(2)(A) of this title) may be considered the "owner" of the funds (and no other person shall qualify as the owner of such funds) only if—
+Exception.—The foreign financial institution (as defined in section 984(c)(2)(A)of this title) may be considered the "owner" of the funds (and no other person shall qualify as the owner of such funds) only if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the basis for the forfeiture action is wrongdoing committed by the foreign financial institution (as defined in section 984(c)(2)(A) of this title); or
 
@@ -229,6 +229,8 @@ Section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016, 
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), (3), are set out in the Appendix to this title.
 
 The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsec. (b)(2)(A), were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+Rule 41 of the Federal Rules of Criminal Procedure, referred to in subsec. (b)(3), was amended by order of the Supreme Court dated Apr. 29, 2002, effective Dec. 1, 2002. The amendment moved subject matter of former subsec. (a) to subsec. (b).
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(4)(A), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -262,7 +264,7 @@ Subsec. (k). Pub. L. 109–177, §406(a)(3), substituted "foreign financial inst
 
 Subsec. (d). Pub. L. 107–273 substituted "proceeds from the sale of such property under this section" for "proceeds from the sale of this section".
 
-<b>2001</b>—Subsec. (a)(1)(A). Pub. L. 107–56, §§372(b)(1), 373(b), struck out "of section 5313(a) or 5324(a) of title 31, or" after "transaction or attempted transaction in violation", substituted ", 1957 or 1960" for "or 1957", and struck out at end "However, no property shall be seized or forfeited in the case of a violation of section 5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof."
+<b>2001</b>—Subsec. (a)(1)(A). Pub. L. 107–56, §§372(b)(1), 373(b), struck out "of section 5313(a) or 5324(a) of title 31, or" after "transaction or attempted transaction in violation", substituted ", 1957 or 1960" for "or 1957", and struck out at end "However, no property shall be seized or forfeited in the case of a violation of section5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof."
 
 Subsec. (a)(1)(B). Pub. L. 107–56, §320, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Any property, real or personal, within the jurisdiction of the United States, constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from an offense against a foreign nation involving the manufacture, importation, sale, or distribution of a controlled substance (as such term is defined for the purposes of the Controlled Substances Act), within whose jurisdiction such offense would be punishable by death or imprisonment for a term exceeding one year and which would be punishable under the laws of the United States by imprisonment for a term exceeding one year if such act or activity constituting the offense against the foreign nation had occurred within the jurisdiction of the United States."
 
@@ -324,9 +326,9 @@ Subsec. (e)(6). Pub. L. 101–647, §2508, added par. (6).
 
 Subsec. (e)(7). Pub. L. 101–647, §2525(a)(2), as amended by Pub. L. 103–322, §330011(s)(2), added par. (7).
 
-Subsec. (i). Pub. L. 101–647, §103(1), struck out introductory provisions which read as follows: "In the case of property subject to forfeiture under subsection\(a)(1)(B), the following additional provisions shall, to the extent provided by treaty, apply:".
+Subsec. (i). Pub. L. 101–647, §103(1), struck out introductory provisions which read as follows: "In the case of property subject to forfeiture under subsection (a)(1)(B), the following additional provisions shall, to the extent provided by treaty, apply:".
 
-Subsec. (i)(1). Pub. L. 101–647, §103(3), substituted first sentence for "Notwithstanding any other provision of law, except section 3 of the Anti Drug Abuse Act of 1986, whenever property is civilly or criminally forfeited under the Controlled Substances Act, the Attorney General may, with the concurrence of the Secretary of State, equitably transfer any conveyance, currency, and any other type of personal property which the Attorney General may designate by regulation for equitable transfer, or any amounts realized by the United States from the sale of any real or personal property forfeited under the Controlled Substances Act to an appropriate foreign country to reflect generally the contribution of any such foreign country participating directly or indirectly in any acts which led to the seizure or forfeiture of such property. Such property when forfeited pursuant to subsection (a)(1)(B) of this section may also be transferred to a foreign country pursuant to a treaty providing for the transfer of forfeited property to such foreign country."
+Subsec. (i)(1). Pub. L. 101–647, §103(3), substituted first sentence for "Notwithstanding any other provision of law, except section 3 of the Anti Drug Abuse Act of 1986, whenever property is civilly or criminally forfeited under the Controlled Substances Act, the Attorney General may, with the concurrence of the Secretary of State, equitably transfer any conveyance, currency, and any other type of personal property which the Attorney General may designate by regulation for equitable transfer, or any amounts realized by the United States from the sale of any real or personal property forfeited under the Controlled Substances Act to an appropriate foreign country to reflect generally the contribution of any such foreign country participating directly or indirectly in any acts which led to the seizure or forfeiture of such property. Such property when forfeited pursuant to subsection (a)(1)(B) ofthis section may also be transferred to a foreign country pursuant to a treaty providing for the transfer of forfeited property to such foreign country."
 
 Pub. L. 101–647, §103(2), (4), (5), inserted "or the Secretary of the Treasury" after "Attorney General" in two places, realigned margin, and struck out at end "Transfers may be made under this subsection during a fiscal year to a country that is subject to paragraph (1)(A) of section 481(h) of the Foreign Assistance Act of 1961 (relating to restrictions on United States assistance) only if there is a certification in effect with respect to that country for that fiscal year under paragraph (2) of that section."
 
@@ -380,7 +382,7 @@ Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146,
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–185, §1(a), Apr. 25, 2000, 114 Stat. 202, provided that: "This Act \[enacting sections 983 and 985 of this title and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 982 to 984, 986, 2232, 2254, and 3322 of this title, section 1324 of Title 8, Aliens and Nationality, section 1621 of Title 19, Customs Duties, section 881 of Title 21, Food and Drugs, sections 524, 2461, 2465, and 2680 of Title 28, and section 2996f of Title 42, The Public Health andWelfare, repealing section 888 of Title 21, and enacting provisions set out as notes under section 1324 of Title 8, section 2466 of Title 28, and section 3724 of Title 31, Money and Finance\] may be cited as the 'Civil Asset Forfeiture Reform Act of 2000'."
+Pub. L. 106–185, §1(a), Apr. 25, 2000, 114 Stat. 202, provided that: "This Act \[enacting sections 983 and 985 of this title and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 982 to 984, 986, 2232, 2254, and 3322 of this title, section 1324 of Title 8, Aliens and Nationality, section 1621 of Title 19, Customs Duties, section 881 of Title 21, Food and Drugs, sections 524, 2461, 2465, and 2680 of Title 28, and section 2996f of Title 42, The Public Health and Welfare, repealing section 888 of Title 21, and enacting provisions set out as notes under section 1324 of Title 8, section 2466 of Title 28, and section 3724 of Title 31, Money and Finance\] may be cited as the 'Civil Asset Forfeiture Reform Act of 2000'."
 
 #### Short Title of 1988 Amendment
 
@@ -388,7 +390,7 @@ Pub. L. 100–690, title VI, §6181, Nov. 18, 1988, 102 Stat. 4354, provided tha
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–570, title I, §1351, Oct. 27, 1986, 100 Stat. 3207–18, provided that: "This subtitle \[subtitle H (§§1351–1367) of title I of Pub. L. 99–570, enacting this section, sections 982, 1956, and 1957 of this title and section 5324 of Title 31, Money and Finance, amending sections 1952, 1961, and 2516 of this title, sections 1464, 1730, 1786, 1817, 1818, 3403, and 3413 of Title 12, Banks and Banking, and sections 5312, 5316 to 5318, 5321, and 5322 of Title 31, and enacting provisions set out as notes under this section, sections 1464 and 1730 of Title 12, and sections 5315 to 5317, 5321, and 5324 of Title 31\] may be cited as the 'Money Laundering Control Act of 1986'."
+Pub. L. 99–570, title I, §1351, Oct. 27, 1986, 100 Stat. 3207–18, provided that: "This subtitle \[subtitle H\(§§1351–1367) of title I of Pub. L. 99–570, enacting this section, sections 982, 1956, and 1957 of this title and section 5324 of Title 31, Money and Finance, amending sections 1952, 1961, and 2516 of this title, sections 1464, 1730, 1786, 1817, 1818, 3403, and 3413 of Title 12, Banks and Banking, and sections 5312, 5316 to 5318, 5321, and 5322 of Title 31, and enacting provisions set out as notes under this section, sections 1464 and 1730 of Title 12, and sections 5315 to 5317, 5321, and 5324 of Title 31\] may be cited as the 'Money Laundering Control Act of 1986'."
 
 #### Severability
 

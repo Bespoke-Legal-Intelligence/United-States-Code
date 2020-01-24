@@ -14,8 +14,13 @@
 | [2279\.](%C2%A7%2002279%20-%20Foreign%20commercial%20satellite%20services%20and%20foreign%20launches.md) | Foreign commercial satellite services and foreign launches. |
 | \[2279a. | Repealed.\] |
 | [2279b.](%C2%A7%2002279b%20-%20Council%20on%20Oversight%20of%20the%20Department%20of%20Defense%20Positioning%2C%20Navigation%2C%20and%20Timing%20Enterprise.md) | Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise. |
-| [2279c.](%C2%A7%2002279c%20-%20Air%20Force%20Space%20Command.md) | Air Force Space Command. |
-| [2279d.](%C2%A7%2002279d%20-%20Limitation%20on%20construction%20on%20United%20States%20territory%20of%20satellite%20positioning%20ground%20monitoring%20stations%20of%20certain%20foreign%20governments.1.md) | Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments. |
+| [2279c.](%C2%A7%2002279c%20-%20Renumbered%20%C2%A79081.md) | Air Force Space Command.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [2279d.](%C2%A7%2002279d%20-%20Limitation%20on%20construction%20on%20United%20States%20territory%20of%20satellite%20positioning%20ground%20monitoring%20stations%20of%20certain%20foreign%20governments.md) | Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -39,6 +44,8 @@ Pub. L. 112–239, div. A, title IX, §§911(b), 912(b), 913(c)(2), Jan. 2, 2013
 
 <b>2003</b>—Pub. L. 108–136, div. A, title IX, §§911(a)(2), 912(b), 913(b), Nov. 24, 2003, 117 Stat. 1564, 1565, 1567, added items 2272 to 2274.
 
+<i><sup>1</sup></i><i> So in original. Section 2279c was renumbered by Pub. L. 116–92 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -56,5 +63,5 @@ Pub. L. 112–239, div. A, title IX, §§911(b), 912(b), 913(c)(2), Jan. 2, 2013
 - [&sect; 02279 - Foreign commercial satellite services and foreign launches](%C2%A7%2002279%20-%20Foreign%20commercial%20satellite%20services%20and%20foreign%20launches.md)
 - [&sect; 02279a - Repealed. Pub. L. 115&#8211;91, div. A, title XVI, &sect;1601(b)(2)(A), Dec. 12, 2017, 131 Stat. 1719](%C2%A7%2002279a%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9391%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71601%28b%29%282%29%28A%29%2C%20Dec.%2012%2C%202017%2C%20131%20Stat.%201719.md)
 - [&sect; 02279b - Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise](%C2%A7%2002279b%20-%20Council%20on%20Oversight%20of%20the%20Department%20of%20Defense%20Positioning%2C%20Navigation%2C%20and%20Timing%20Enterprise.md)
-- [&sect; 02279c - Air Force Space Command](%C2%A7%2002279c%20-%20Air%20Force%20Space%20Command.md)
-- [&sect; 02279d - Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments.1](%C2%A7%2002279d%20-%20Limitation%20on%20construction%20on%20United%20States%20territory%20of%20satellite%20positioning%20ground%20monitoring%20stations%20of%20certain%20foreign%20governments.1.md)
+- [&sect; 02279c - Renumbered &sect;9081](%C2%A7%2002279c%20-%20Renumbered%20%C2%A79081.md)
+- [&sect; 02279d - Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments](%C2%A7%2002279d%20-%20Limitation%20on%20construction%20on%20United%20States%20territory%20of%20satellite%20positioning%20ground%20monitoring%20stations%20of%20certain%20foreign%20governments.md)

@@ -50,7 +50,7 @@
 
 #### (2) Supplies and services in lieu of award funds
 
-&emsp;(A) Upon the request of a recipient of an award of a grant or contract under paragraph\(1), the Secretary may, subject to subparagraph (B), provide supplies, equipment, and services for the purpose of aiding the recipient in carrying out the purposes for which the award is made and, for such purposes, may detail to the recipient any officer or employee of the Department of Health and Human Services.
+&emsp;(A) Upon the request of a recipient of an award of a grant or contract under paragraph (1), the Secretary may, subject to subparagraph (B), provide supplies, equipment, and services for the purpose of aiding the recipient in carrying out the purposes for which the award is made and, for such purposes, may detail to the recipient any officer or employee of the Department of Health and Human Services.
 
 &emsp;(B) With respect to a request described in subparagraph (A), the Secretary shall reduce the amount of payments under the award involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
@@ -102,7 +102,7 @@ Subsecs. (b), (c). Pub. L. 108–154, §2(2),(4), redesignated subsecs. (c) and 
 
 Subsec. (d). Pub. L. 108–154, §2(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (d)(1). Pub. L. 108–154, §2(3)(A), added par. (1) and struck out former par. (1) which read as follows: "contains information regarding the incidence and prevalence of birth defects and the extent to which birth defects have contributed to the incidence and prevalence of infant mortality;".
+Subsec. (d)(1). Pub. L. 108–154, §2(3)(A), added par. (1) and struck out former par. (1) which read as follows: "contains information regarding the incidence andprevalence of birth defects and the extent to which birth defects have contributed to the incidence and prevalence of infant mortality;".
 
 Subsec. (d)(3). Pub. L. 108–154, §2(3)(B), inserted ", developmental disabilities, and secondary health conditions among individuals with disabilities" after "defects".
 
@@ -114,7 +114,7 @@ Subsec. (f). Pub. L. 108–154, §2(6) substituted "such sums as may be necessar
 
 <b>2000</b>—Pub. L. 106–310, §611(1), substituted "National Center on Birth Defects and Developmental Disabilities" for "Programs regarding birth defects" in section catchline.
 
-Subsec. (a). Pub. L. 106–310, §611(2), added subsec. (a) and struck out heading and text of former subsec. (a) relating to Secretary's responsibility, acting throughthe Centers for Disease Control and Prevention, to carry out programs regarding birth defects.
+Subsec. (a). Pub. L. 106–310, §611(2), added subsec. (a) and struck out heading and text of former subsec. (a) relating to Secretary's responsibility, acting through the Centers for Disease Control and Prevention, to carry out programs regarding birth defects.
 
 Subsec. (b)(1). Pub. L. 106–310, §611(3), substituted "subsection (a)(2)(A) of this section" for "subsection (a)(1) of this section" in introductory provisions.
 

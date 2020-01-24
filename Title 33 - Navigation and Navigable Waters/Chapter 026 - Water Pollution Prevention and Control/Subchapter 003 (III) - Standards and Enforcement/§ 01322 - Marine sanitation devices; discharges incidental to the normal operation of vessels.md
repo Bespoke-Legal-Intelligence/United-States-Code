@@ -30,7 +30,7 @@ In this section, the term—
 
 &emsp;&emsp;(A) means a discharge, including—
 
-&emsp;&emsp;&emsp;(i) graywater, bilge water, cooling water, weather deck runoff, ballast water, oilwater separator effluent, and any other pollutant discharge from the operation of a marine propulsion system, shipboard maneuvering system, crew habitability system, or installed major equipment, such as an aircraft carrier elevator or a catapult, or from a protective, preservative, or absorptive application to the hull of the vessel; and
+&emsp;&emsp;&emsp;(i) graywater, bilge water, cooling water, weather deck runoff, ballast water, oil water separator effluent, and any other pollutant discharge from the operation of a marine propulsion system, shipboard maneuvering system, crew habitability system, or installed major equipment, such as an aircraft carrier elevator or a catapult, or from a protective, preservative, or absorptive application to the hull of the vessel; and
 
 &emsp;&emsp;&emsp;(ii) a discharge in connection with the testing, maintenance, and repair of a system described in clause (i) whenever the vessel is waterborne; and
 
@@ -74,7 +74,7 @@ The provisions of this section and the standards and regulations promulgated her
 
 #### (e) Pre-promulgation consultation
 
-Before the standards and regulations under this section are promulgated, the Administratorand the Secretary of the department in which the Coast Guard is operating shall consult with the Secretary of State; the Secretary of Health and Human Services; the Secretary of Defense; the Secretary of the Treasury; the Secretary of Commerce; other interested Federal agencies; and the States and industries interested; and otherwise comply with the requirements of section 553 of title 5.
+Before the standards and regulations under this section are promulgated, the Administrator and the Secretary of the department in which the Coast Guard is operating shall consult with the Secretary of State; the Secretary of Health and Human Services; the Secretary of Defense; the Secretary of the Treasury; the Secretary of Commerce; other interested Federal agencies; and the States and industries interested; and otherwise comply with the requirements of section 553 of title 5.
 
 #### (f) Regulation by States or political subdivisions thereof; complete prohibition upon discharge of sewage
 
@@ -172,7 +172,7 @@ Any person who violates subsection (g)(1), clause (1) or (2) of subsection (h), 
 
 #### (B) Jurisdiction
 
-&emsp;&emsp;The appropriate Federal district court shall have jurisdiction with respect to a civilaction filed pursuant to subparagraph (A), without regard to the amount in controversy or the citizenship of the parties—
+&emsp;&emsp;The appropriate Federal district court shall have jurisdiction with respect to a civil action filed pursuant to subparagraph (A), without regard to the amount in controversy or the citizenship of the parties—
 
 &emsp;&emsp;&emsp;(i) to enforce the requirements of this section; and
 
@@ -272,7 +272,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (D) Petition for review
 
-&emsp;&emsp;The Governor of any State may submit a petition requesting that the Secretary of Defense and the Administrator review a determination under paragraph (2) or a standard under paragraph (3), if there is significant new information, not considered previously, that could reasonably result in a change to the particular determination or standard after consideration of the matters set forth in paragraph (2)(B). The petition shall be accompanied by the scientific and technical information on which the petition is based. The Administrator and the Secretary of Defense shall grant or deny the petition not later than 2 years after the date of receipt of the petition.
+&emsp;&emsp;The Governor of any State may submit a petition requesting that the Secretary of Defense and the Administrator review a determination under paragraph (2) or a standard under paragraph (3), if there is significant new information, not considered previously, that could reasonably result in a change to the particular determination or standard after consideration of the matters set forthin paragraph (2)(B). The petition shall be accompanied by the scientific and technical information on which the petition is based. The Administrator and the Secretary of Defense shall grant or deny the petition not later than 2 years after the date of receipt of the petition.
 
 #### (6) Effect on other laws
 
@@ -342,7 +342,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (9) Enforcement
 
-&emsp;This subsection shall be enforceable, as provided in subsections (j) and (k), against any agency of the United States responsible for vessels of the Armed Forces notwithstanding any immunity asserted by the agency.
+&emsp;This subsection shall be enforceable, as provided in subsections (j) and (k), against anyagency of the United States responsible for vessels of the Armed Forces notwithstanding any immunity asserted by the agency.
 
 #### (o) Management practices for recreational vessels
 
@@ -672,7 +672,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (U) Render nonviable
 
-&emsp;&emsp;The term "render nonviable", with respect to an organism in ballast water, means the action of a ballast water management system that renders the organism permanently incapable of reproduction following treatment.
+&emsp;&emsp;The term "render nonviable", with respect to an organism in ballast water, means theaction of a ballast water management system that renders the organism permanently incapable of reproduction following treatment.
 
 #### (V) Saltwater flush
 
@@ -744,7 +744,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;(III) a small vessel or fishing vessel, except that this subsection shall apply to any discharge of ballast water from a small vessel or fishing vessel; or
 
-&emsp;&emsp;&emsp;&emsp;(IV) a floating craft that is permanently moored to a pier, including a"floating" casino, hotel, restaurant, or bar;
+&emsp;&emsp;&emsp;&emsp;(IV) a floating craft that is permanently moored to a pier, including a "floating" casino, hotel, restaurant, or bar;
 
 &emsp;&emsp;&emsp;(ii) of ballast water from a vessel—
 
@@ -768,7 +768,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (B) Nonindigenous Aquatic Nuisance Prevention and Control Act regulations
 
-&emsp;&emsp;Notwithstanding section 903(a)(2)(A) of the Vessel Incidental Discharge Act of 2018, all regulations promulgated by the Secretary pursuant to section 1101 of the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4711) (as in effect on the day before December 4, 2018), including the regulations contained in subparts C and D of part 151 of title 33, Code of Federal Regulations, and subpart 162.060 of part 162 of title 46, Code of Federal Regulations (as in effect on the day before December 4, 2018), shall remain in force and effect until the applicable date described in subparagraph (C).
+&emsp;&emsp;Notwithstanding section 903(a)(2)(A) of the Vessel Incidental Discharge Act of 2018, allregulations promulgated by the Secretary pursuant to section 1101 of the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4711) (as in effect on the day before December 4, 2018), including the regulations contained in subparts C and D of part 151 of title 33, Code of Federal Regulations, and subpart 162.060 of part 162 of title 46, Code of Federal Regulations (as in effect on the day before December 4, 2018), shall remain in force and effect until the applicable date described in subparagraph (C).
 
 #### (C) Repeal on existence of final, effective, and enforceable requirements
 
@@ -902,7 +902,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) would have justified the application of a less-stringent standard of performance at the time of promulgation; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if the Administrator determines that a material technical mistake ormisinterpretation of law occurred when promulgating the existing standard of performance or comparable requirement of the Vessel General Permit, as applicable.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if the Administrator determines that a material technical mistake or misinterpretation of law occurred when promulgating the existing standard of performance or comparable requirement of the Vessel General Permit, as applicable.
 
 #### (E) Best management practices for aquatic nuisance species emergencies and further protection of water quality
 
@@ -922,7 +922,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (II) Effect of failure to concur
 
-&emsp;&emsp;&emsp;&emsp;A failure by the Secretary to concur with the Administrator under clause (i) by the date that is 60 days after the date on which the Administrator submits a request for concurrence under subclause (I) shall not prevent the Administrator from issuing the relevant order, subject to the condition that the Administrator shall include in the administrative record of the issuance—
+&emsp;&emsp;&emsp;&emsp;A failure by the Secretary to concur with the Administrator under clause (i) by the date that is 60 days after the date on which the Administrator submits a request for concurrence under subclause (I) shall not prevent the Administrator from issuing the relevant order, subjectto the condition that the Administrator shall include in the administrative record of the issuance—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) documentation of the request submitted under subclause (I); and
 
@@ -1004,7 +1004,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) if information becomes available that—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the Administrator determines was not reasonably available when the Administrator promulgated the existing requirement of the Vessel General Permit, or that the Secretary determines was not reasonably available when the Secretary promulgated the existing requirement under the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4701 et seq.) or the applicable existing requirement under this subparagraph, as applicable (including subsequent scarcity or unavailability of materials used to control the relevant discharge); and
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the Administrator determines was not reasonably available whenthe Administrator promulgated the existing requirement of the Vessel General Permit, or that the Secretary determines was not reasonably available when the Secretary promulgated the existing requirement under the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4701 et seq.) or the applicable existing requirement under this subparagraph, as applicable (including subsequent scarcity or unavailability of materials used to control the relevant discharge); and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) would have justified the application of a less-stringent requirement at the time of promulgation; or
 
@@ -1046,7 +1046,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) would compromise the safety of the vessel; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) is otherwise prohibited by any Federal, Canadian, or internationallaw (including regulations) pertaining to vessel safety;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) is otherwise prohibited by any Federal, Canadian, or international law (including regulations) pertaining to vessel safety;
 
 &emsp;&emsp;&emsp;&emsp;(IV) if design limitations of the vessel prevent a ballast water exchange or saltwater flush from being conducted in accordance with clause (i); or
 
@@ -1624,7 +1624,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) voyaging—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) between or to a port or place of destination in the State of Washington, if the ballast water to be discharged from the commercial vesseloriginated solely from waters located between the parallel 46 degrees north latitude, including the internal waters of the Columbia River, and the internal waters of Canada south of parallel 50 degrees north latitude, including the waters of the Strait of Georgia and the Strait of Juan de Fuca;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) between or to a port or place of destination in the State of Washington, if the ballast water to be discharged from the commercial vessel originated solely from waters located between the parallel 46 degrees north latitude, including the internal waters of the Columbia River, and the internal waters of Canada south of parallel 50 degrees north latitude, including the waters of the Strait of Georgia and the Strait of Juan de Fuca;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) between ports or places of destination in the State of Oregon, if the ballast water to be discharged from the commercial vessel originated solely from waters located between the parallel 40 degrees north latitude and the parallel 50 degrees north latitude;
 
@@ -1712,7 +1712,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) prohibition of the discharge would protect and enhance the quality of the specified waters within the State;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) adequate facilities for the safe and sanitary removal and treatment of the discharge are reasonably available for the water and all vessels to which the prohibition would apply;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) adequate facilities for the safe and sanitary removal and treatment ofthe discharge are reasonably available for the water and all vessels to which the prohibition would apply;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) the discharge can be safely collected and stored until a vessel reaches a discharge facility or other location; and
 
@@ -1768,7 +1768,7 @@ The Coast Guard Authorization Act of 2010, referred to in subsec. (p)(9)(B)(iv),
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–282, §903(b)(1), substituted "Marine sanitation devices; discharges incidental to the normal operation of vessels" for "Marine sanitation devices" in section catchline.
+<b>2018</b>—Pub. L. 115–282, §903(b)(1), substituted "Marine sanitation devices; discharges incidental to the normaloperation of vessels" for "Marine sanitation devices" in section catchline.
 
 Subsec. (a). Pub. L. 115–282, §903(b)(1), inserted heading and substituted "In" for "For the purpose of" in introductory provisions.
 
@@ -2054,7 +2054,7 @@ Issuance of Guidance.—Not later than 3 months after the date of the enactment 
 
 "(b)
 
-Notification.—Not later than one month after the guidance issued under subsection (a) is finalized,the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
+Notification.—Not later than one month after the guidance issued under subsection (a) is finalized, the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
 
 &emsp;"(1) the availability of amounts under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]) to implement the Clean Vessel Act of 1992; and
 
@@ -2082,7 +2082,7 @@ Notification.—Not later than one month after the guidance issued under subsect
 
 &emsp;&emsp;"(B) includes Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa; and
 
-&emsp;&emsp;"(C) does not include a State for which the ratio of the number of recreational vessels in the State numbered under chapter 123 of title 46, United States Code, to number of miles of shoreline (as that term is defined in section 926.2(d) of title 15, Code of Federal Regulations, as in effect on January 1, 1991), is less than one.
+&emsp;&emsp;"(C) does not include a State for which the ratio of the number of recreational vessels in the Statenumbered under chapter 123 of title 46, United States Code, to number of miles of shoreline (as that term is defined in section 926.2(d) of title 15, Code of Federal Regulations, as in effect on January 1, 1991), is less than one.
 
 &emsp;"(2) 'coastal waters' means—
 

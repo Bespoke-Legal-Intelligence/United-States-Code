@@ -14,7 +14,7 @@ Except as provided in subsection (i), if gasoline is used in an off-highway busi
 
 &emsp;&emsp;(B) the transportation of students and employees of schools (as defined in the last sentence of section 4221(d)(7)(C)),
 
-> &emsp;the Secretary shall pay (without interest) to the ultimate purchaser of such gasoline an amount equal to the product of the number of gallons of gasoline so used multiplied by the rate at which tax was imposed on such gasoline by section 4081.
+> &emsp;the Secretary shall pay (without interest) to the ultimate purchaser of such gasoline anamount equal to the product of the number of gallons of gasoline so used multiplied by the rate at which tax was imposed on such gasoline by section 4081.
 
 #### (2) Limitation in case of nonscheduled intercity or local buses
 

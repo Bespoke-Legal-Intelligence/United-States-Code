@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) coordinating control programs in the State involved; and
 
-&emsp;&emsp;(B) assisting such State in making grants to political subdivisions of the State to conduct assessments to determine the immediate needs in such subdivisions for control programs, and to develop, on the basis of such assessments, plans for carrying out control programs in the subdivisions.
+&emsp;&emsp;(B) assisting such State in making grants to political subdivisions of the State to conduct assessments to determine the immediate needs in such subdivisions for control programs, including programs to address emerging infectious mosquito-borne diseases, and to develop, on the basis of such assessments, plans for carrying out control programs in the subdivisions or improving existing control programs.
 
 #### (2) Preference in making grants
 
@@ -44,7 +44,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to political subdivisions of States or consortia of political subdivisions of States, for the operation of control programs.
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to political subdivisions of States or consortia of political subdivisions of States, for the operation, including improvement, of control programs.
 
 #### (2) Preference in making grants
 
@@ -54,15 +54,19 @@
 
 &emsp;&emsp;&emsp;(i) a history of elevated incidence or prevalence of mosquito-borne disease;
 
-&emsp;&emsp;&emsp;(ii) a population of infected mosquitoes; or
+&emsp;&emsp;&emsp;(ii) a population of infected mosquitoes;
 
-&emsp;&emsp;&emsp;(iii) met criteria determined by the Secretary to suggest an increased risk of elevated incidence or prevalence of mosquito-borne disease in the pending fiscal year;
+&emsp;&emsp;&emsp;(iii) met criteria determined by the Secretary to suggest an increased risk of elevated incidence or prevalence of mosquito-borne disease in the pending fiscal year, including an emerging infectious mosquito-borne disease that presents a serious public health threat; or
+
+&emsp;&emsp;&emsp;(iv) a public health emergency due to the incidence or prevalence of a mosquito-borne disease that presents a serious public health threat;
 
 &emsp;&emsp;(B) demonstrates to the Secretary that such political subdivision or consortium of political subdivisions will, if appropriate to the mosquito circumstances involved, effectively coordinate the activities of the control programs with contiguous political subdivisions;
 
 &emsp;&emsp;(C) demonstrates to the Secretary (directly or through State officials) that the State in which such a political subdivision or consortium of political subdivisions is located has identified or will identify geographic areas in such State that have a significant need for control programs and will effectively coordinate such programs in such areas; and
 
-&emsp;&emsp;(D) is located in a State that has received a grant under subsection (a).
+&emsp;&emsp;(D)(i) is located in a State that has received a grant under subsection (a); or
+
+&emsp;&emsp;(ii) that <sup>1</sup> demonstrates to the Secretary that the control program is consistent with existing State mosquito control plans or policies, or other applicable State preparedness plans.
 
 #### (3) Requirement of assessment and plan
 
@@ -84,35 +88,25 @@
 
 #### (C) Waiver
 
-&emsp;&emsp;The Secretary may waive the requirement established in subparagraph (A) if the Secretary determines that extraordinary economic conditions in the political subdivision or consortium of political subdivisions involved justify the waiver.
+&emsp;&emsp;The Secretary may waive the requirement established in subparagraph (A) if the Secretary determines that—
+
+&emsp;&emsp;&emsp;(i) extraordinary economic conditions in the political subdivision or consortium of political subdivisions involved justify the waiver; or
+
+&emsp;&emsp;&emsp;(ii) the geographical area covered by a political subdivision or consortium for a grant under paragraph (1) has an extreme mosquito control need due to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the size or density of the potentially impacted human population;
+
+&emsp;&emsp;&emsp;&emsp;(II) the size or density of a mosquito population that requires heightened control; or
+
+&emsp;&emsp;&emsp;&emsp;(III) the severity of the mosquito-borne disease, such that expected serious adverse health outcomes for the human population justify the waiver.
 
 #### (5) Reports to Secretary
 
 &emsp;A grant may be made under paragraph (1) only if the political subdivision or consortium of political subdivisions involved agrees that, promptly after the end of the fiscal year for which the grant is made, the subdivision or consortium will submit to the Secretary, and to the State within which the subdivision or consortium is located, a report that describes the control program and contains an evaluation of whether the program was effective.
 
-#### (6) Amount of grant; number of grants
+#### (6) Number of grants
 
-#### (A) Amount of grant
-
-#### (i) Single political subdivision
-
-&emsp;&emsp;&emsp;A grant under paragraph (1) awarded to a political subdivision for a fiscal year may not exceed $100,000.
-
-#### (ii) Consortium
-
-&emsp;&emsp;&emsp;A grant under paragraph (1) awarded to a consortium of 2 or more political subdivisions may not exceed $110,000 for each political subdivision. A consortium is not required to provide matching funds under paragraph (4) for any amounts received by such consortium in excess of amounts each political subdivision would have received separately.
-
-#### (iii) Waiver of requirement
-
-&emsp;&emsp;&emsp;A grant may exceed the maximum amount in clause (i) or (ii) if the Secretary determines that the geographical area covered by a political subdivision or consortium awarded a grant under paragraph (1) has an extreme need due to the size or density of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the human population in such geographical area; or
-
-&emsp;&emsp;&emsp;&emsp;(II) the mosquito population in such geographical area.
-
-#### (B) Number of grants
-
-&emsp;&emsp;A political subdivision or a consortium of political subdivisions may not receive more than one grant under paragraph (1).
+&emsp;A political subdivision or a consortium of political subdivisions may not receive more than one grant under paragraph (1).
 
 #### (c) Applications for grants
 
@@ -130,19 +124,39 @@ In this section, the term "political subdivision" means the local political juri
 
 #### (1) In general
 
-&emsp;For the purpose of carrying out this section, there are authorized to be appropriated $100,000,000 for fiscal year 2003, and such sums as may be necessary for each of fiscal years 2004 through 2007.
+&emsp;For the purpose of carrying out this section, there are authorized to be appropriated $100,000,000 for each of fiscal years 2019 through 2023.
 
 #### (2) Public health emergencies
 
-&emsp;In the case of control programs carried out in response to a mosquito-borne disease that constitutes a public health emergency, the authorization of appropriations under paragraph (1) is in addition to applicable authorizations of appropriations under the Public Health Security and Bioterrorism Preparedness and Response Act of 2002.
+&emsp;In the case of control programs carried out in response to a mosquito-borne disease that constitutes a public health emergency, the authorization of appropriations under paragraph (1) is in addition to applicable authorizations of appropriations under this chapter and other medical and public health preparedness and response laws.
 
-#### (3) Fiscal year 2004 appropriations
+#### (3) Fiscal year 2019 appropriations
 
-&emsp;For fiscal year 2004, 50 percent or more of the funds appropriated under paragraph (1) shall be used to award grants to political subdivisions or consortia of political subdivisions under subsection (b).
+&emsp;For fiscal year 2019, 50 percent or more of the funds appropriated under paragraph (1) shall be used to award grants to political subdivisions or consortia of political subdivisions under subsection (b).
 
-(July 1, 1944, ch. 373, title III, §317S, as added Pub. L. 108–75, §2(2), Aug. 15, 2003, 117 Stat. 898.)
+(July 1, 1944, ch. 373, title III, §317S, as added Pub. L. 108–75, §2(2), Aug. 15, 2003, 117 Stat. 898; amended Pub. L. 116–22, title VI, §607(a), June 24, 2019, 133 Stat. 959.)
 
-#### References in Text
+#### Amendments
 
-The Public Health Security and Bioterrorism Preparedness and Response Act of 2002, referred to in subsec. (f)(2), is Pub. L. 107–188, June 12, 2002, 116 Stat. 594, as amended. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under section 201 of this title and Tables.
+<b>2019</b>—Subsec. (a)(1)(B). Pub. L. 116–22, §607(a)(1), inserted "including programs to address emerging infectious mosquito-borne diseases," after "subdivisions for control programs," and "or improving existing control programs" after "in the subdivisions".
+
+Subsec. (b)(1). Pub. L. 116–22, §607(a)(2)(A), inserted ", including improvement," after "operation".
+
+Subsec. (b)(2)(A)(iii). Pub. L. 116–22, §607(a)(2)(B)(i)(II), substituted ", including an emerging infectious mosquito-borne disease that presents a serious public health threat; or" for semicolon at end.
+
+Subsec. (b)(2)(A)(iv). Pub. L. 116–22, §607(a)(2)(B)(i)(I), (III), added cl. (iv).
+
+Subsec. (b)(2)(D). Pub. L. 116–22, §607(a)(2)(B)(ii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "is located in a State that has received a grant under subsection (a)."
+
+Subsec. (b)(4)(C). Pub. L. 116–22, §607(a)(2)(C), substituted "that—" for "that extraordinary economic conditions in the political subdivision or consortium of political subdivisions involved justify the waiver." and added cls. (i) and (ii).
+
+Subsec. (b)(6). Pub. L. 116–22, §607(a)(2)(D), amended par. (6) generally. Prior to amendment, par. (6) related to amount of grant and number of grants.
+
+Subsec. (f)(1). Pub. L. 116–22, §607(a)(3)(A), substituted "for each of fiscal years 2019 through 2023" for "for fiscal year 2003, and such sums as may be necessary for each of fiscal years 2004 through 2007".
+
+Subsec. (f)(2). Pub. L. 116–22, §607(a)(3)(B), substituted "this chapter and other medical and public health preparedness and response laws" for "the Public Health Security and Bioterrorism Preparedness and Response Act of 2002".
+
+Subsec. (f)(3). Pub. L. 116–22, §607(a)(3)(C), substituted "2019" for "2004" in heading and "2019," for "2004," in text.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

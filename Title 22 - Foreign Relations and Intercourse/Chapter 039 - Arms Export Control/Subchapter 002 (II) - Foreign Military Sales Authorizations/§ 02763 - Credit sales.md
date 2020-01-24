@@ -42,7 +42,7 @@ For each fiscal year, the Secretary of Defense, as requested by the Director of 
 
 Of the amounts made available for a fiscal year to carry out this section, not more than $100,000,000 for such fiscal year may be made available for countries other than Israel and Egypt for the purpose of financing the procurement of defense articles, defense services, and design and construction services that are not sold by the United States Government under this chapter.
 
-(Pub. L. 90–629, ch. 2, §23, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–559, §45(a)(2), Dec. 30, 1974, 88Stat. 1813; Pub. L. 94–329, title II, §208(a), June 30, 1976, 90 Stat. 739; Pub. L. 96–533, title I, §105(b)(3), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 99–83, title I, §102, Aug. 8, 1985, 99 Stat. 195; Pub. L. 100–202, §101(e) \[title V, §572\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–176; Pub. L. 101–513, title V, §580, Nov. 5, 1990, 104 Stat. 2045; Pub. L. 104–164, title I, §102(a)–(c), July 21, 1996, 110 Stat. 1422.)
+(Pub. L. 90–629, ch. 2, §23, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–559, §45(a)(2), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §208(a), June 30, 1976, 90 Stat. 739; Pub. L. 96–533, title I, §105(b)(3), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 99–83, title I, §102, Aug. 8, 1985, 99 Stat. 195; Pub. L. 100–202, §101(e) \[title V, §572\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–176; Pub. L. 101–513, title V, §580, Nov. 5, 1990, 104 Stat. 2045; Pub. L. 104–164, title I, §102(a)–(c), July 21, 1996, 110 Stat. 1422.)
 
 #### References in Text
 

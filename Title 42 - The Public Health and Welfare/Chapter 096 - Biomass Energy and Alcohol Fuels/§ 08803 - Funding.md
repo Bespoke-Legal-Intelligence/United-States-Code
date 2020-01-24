@@ -6,7 +6,7 @@ To the extent provided in advance in appropriation Acts, for the two year period
 
 &emsp;(1) $460,000,000 to the Secretary of Agriculture for carrying out activities under subchapter I, except of the amount of the financial assistance provided by the Secretary of Agriculture under subchapter I, up to one-third shall be for small-scale biomass energy projects;
 
-&emsp;(2) $460,000,000 to the Secretary of Energy for carrying out biomass energy activities under subchapter I, of which at least $500,000,000 <sup>1</sup>shall be available to the Office of Alcohol Fuels for carrying out its activities, and any amount not made available to the Office of Alcohol Fuels shall be available to the Secretary to carry out the purposes of subchapter I under available authorities of the Secretary, including authorities under subchapter I; and
+&emsp;(2) $460,000,000 to the Secretary of Energy for carrying out biomass energy activities under subchapter I, of which at least $500,000,000 <sup>1</sup> shall be available to the Office of Alcohol Fuels for carrying out its activities, and any amount not made available to the Office of Alcohol Fuels shall be available to the Secretary to carry out the purposes of subchapter I under available authorities of the Secretary, including authorities under subchapter I; and
 
 &emsp;(3) $250,000,000 shall be available to the Secretary of Energy for carrying out activities under subchapter II.
 

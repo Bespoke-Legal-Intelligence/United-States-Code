@@ -6,7 +6,7 @@ Except as provided in subsection (b), the rights and remedies provided by this s
 
 #### (b) Class action limitations
 
-No covered class action based upon the statutory or common law of any State or subdivisionthereof may be maintained in any State or Federal court by any private party alleging—
+No covered class action based upon the statutory or common law of any State or subdivision thereof may be maintained in any State or Federal court by any private party alleging—
 
 &emsp;(1) an untrue statement or omission of a material fact in connection with the purchase or sale of a covered security; or
 
@@ -78,7 +78,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(II) one or more named parties seek to recover damages on a representative basis on behalf of themselves and other unnamed parties similarly situated, and questions of law or fact common to those persons or members of the prospective class predominate over any questions affecting only individual persons or members; or
 
-&emsp;&emsp;&emsp;(ii) any group of lawsuits filed in or pending in the same court and involving common questions of law or fact, in which—
+&emsp;&emsp;&emsp;(ii) any group of lawsuits filed in or pending in the same court and involvingcommon questions of law or fact, in which—
 
 &emsp;&emsp;&emsp;&emsp;(I) damages are sought on behalf of more than 50 persons; and
 

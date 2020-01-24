@@ -72,7 +72,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the initial applicable 1-year period and any 1-year period thereafter, apparelarticles described in this paragraph are apparel articles that are wholly assembled, or are knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, and yarns, only if, for each entry in that 1-year period, the sum of—
+&emsp;&emsp;&emsp;In the initial applicable 1-year period and any 1-year period thereafter, apparel articles described in this paragraph are apparel articles that are wholly assembled, or are knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, and yarns, only if, for each entry in that 1-year period, the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the cost or value of the materials produced in Haiti or one or more countries described in clause (iii), or any combination thereof, plus
 
@@ -158,11 +158,11 @@ In this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;U.S. Customs and Border Protection of the Department of Homeland Securityshall develop and implement methods and procedures to ensure ongoing compliance with the requirements set forth in clauses (i) and (iv).
+&emsp;&emsp;&emsp;&emsp;U.S. Customs and Border Protection of the Department of Homeland Security shall develop and implement methods and procedures to ensure ongoing compliance with the requirements set forth in clauses (i) and (iv).
 
 #### (II) Noncompliance
 
-&emsp;&emsp;&emsp;&emsp;If U.S. Customs and Border Protection finds that a producer or an entity controlling production has not satisfied such requirements in the initial applicable 1-year period or any 1-year period thereafter, either for individual entries entered pursuant to clause (i) or for entries entered in aggregate pursuant to clause (iv), then apparel articles described in clause (i) of that producer or entity shall be ineligible for preferential treatment under paragraph (1) during any succeeding 1-year period until—
+&emsp;&emsp;&emsp;&emsp;If U.S. Customs and Border Protection finds that a producer or an entity controlling production has not satisfied such requirements in the initial applicable 1-year period or any 1-year period thereafter, either for individual entries entered pursuant to clause (i) or for entries entered in aggregate pursuant toclause (iv), then apparel articles described in clause (i) of that producer or entity shall be ineligible for preferential treatment under paragraph (1) during any succeeding 1-year period until—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the cost or value of materials under subclause (I) of clause (i), plus
 
@@ -403,9 +403,9 @@ In this section:
 
 #### (B) Other apparel articles
 
-&emsp;&emsp;Any of the following apparel articles that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, oryarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made:
+&emsp;&emsp;Any of the following apparel articles that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made:
 
-&emsp;&emsp;&emsp;(i) Any apparel article that is of a type listed in chapter rule 3, 4, or 5 for chapter 61 of the HTS (as such chapter rules are contained in section A of the Annex to Proclamation 8213 of the President of December 20, 2007) as being excluded from the scope of such chapter rule, when such chapter rule is applied to determine whether an apparel article is an originating good for purposes of general note 29(n) to the HTS, except that, for purposes of this clause, reference in such chapter rules to "6104.12.00" shall be deemed to be a reference to "6104.19.60".
+&emsp;&emsp;&emsp;(i) Any apparel article that is of a type listed in chapter rule 3, 4, or 5 for chapter 61 of the HTS (as such chapter rules are contained in section A of the Annex to Proclamation 8213 of the President of December 20, 2007) as being excluded from the scope of such chapter rule, when such chapter rule is applied to determine whether an apparel article is an originating good for purposes of general note 29(n) to the HTS, except that, for purposes ofthis clause, reference in such chapter rules to "6104.12.00" shall be deemed to be a reference to "6104.19.60".
 
 &emsp;&emsp;&emsp;(ii)(I) Subject to subclause (II), any apparel article that is of a type listed in chapter rule 3(a), 4(a), or 5(a) for chapter 62 of the HTS, as such chapter rules are contained in paragraph 9 of section A of the Annex to Proclamation 8213 of the President of December 20, 2007.
 
@@ -729,13 +729,13 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) The Secretary of Commerce may require any textile mill or other entity located in the United States that exports to Haiti qualifying woven fabric or qualifying knit fabric to submit, upon such export or upon request, documentation, such as a Shipper's Export Declaration, to the Secretary of Commerce—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) verifying that the qualifying woven fabric or qualifying knit fabricwas exported to a producer in Haiti or to an entity controlling production; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) verifying that the qualifying woven fabric or qualifying knit fabric was exported to a producer in Haiti or to an entity controlling production; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) identifying such producer or entity controlling production, and the quantity and description of qualifying woven fabric or qualifying knit fabric exported to such producer or entity controlling production.
 
 &emsp;&emsp;&emsp;&emsp;(IV) The Secretary of Commerce may require that a producer or entity controlling production submit documentation to verify purchases of qualifying woven fabric or qualifying knit fabric.
 
-&emsp;&emsp;&emsp;&emsp;(V) The Secretary of Commerce may make available to each person or entity identified in documentation submitted under subclause (III) or (IV) information contained in such documentation that relates to the purchase of qualifying woven fabric or qualifying knit fabric involving such person or entity.
+&emsp;&emsp;&emsp;&emsp;(V) The Secretary of Commerce may make available to each person or entityidentified in documentation submitted under subclause (III) or (IV) information contained in such documentation that relates to the purchase of qualifying woven fabric or qualifying knit fabric involving such person or entity.
 
 &emsp;&emsp;&emsp;&emsp;(VI) The program under this subparagraph shall be established so as to allow, to the extent feasible, the submission, storage, retrieval, and disclosure of information in electronic format, including information with respect to the earned import allowance certificates required under subparagraph (A)(i).<sup>2</sup>
 
@@ -781,11 +781,11 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Any apparel article that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source ofthe fabrics, fabric components, components knit-to-shape, or yarns from which the article is made, if the fabrics, fabric components, components knit-to-shape, or yarns comprising the component that determines the tariff classification of the article are of any of the following:
+&emsp;&emsp;Any apparel article that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabrics, fabric components, components knit-to-shape, or yarns from which the article is made, if the fabrics, fabric components, components knit-to-shape, or yarns comprising the component that determines the tariff classification of the article are of any of the following:
 
 &emsp;&emsp;&emsp;(i) Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA.
 
-&emsp;&emsp;&emsp;(ii) Fabrics or yarns, to the extent that such fabrics or yarns are designated as not being available in commercial quantities for purposes of—
+&emsp;&emsp;&emsp;(ii) Fabrics or yarns, to the extent that such fabrics or yarns are designated as notbeing available in commercial quantities for purposes of—
 
 &emsp;&emsp;&emsp;&emsp;(I) section 2703(b)(2)(A)(v) of this title;
 
@@ -1059,7 +1059,7 @@ In this section:
 
 &emsp;&emsp;(A) Haiti has adopted an effective visa system, domestic laws, and enforcement procedures applicable to articles described in subsection (b) to prevent unlawful transshipment of the articles and the use of counterfeit documents relating to the importation of the articles into the United States.
 
-&emsp;&emsp;(B) Haiti has enacted legislation or promulgated regulations that would permitU.S. Customs and Border Protection verification teams to have the access necessary to investigate thoroughly allegations of transshipment through such country.
+&emsp;&emsp;(B) Haiti has enacted legislation or promulgated regulations that would permit U.S. Customs and Border Protection verification teams to have the access necessary to investigate thoroughly allegations of transshipment through such country.
 
 &emsp;&emsp;(C) Haiti agrees to report, on a timely basis, at the request of U.S. Customs and Border Protection, on the total exports from and imports into that country of articles described in subsection (b), consistent with the manner in which the records are kept by Haiti.
 
@@ -1117,9 +1117,9 @@ Subsec. (b)(2)(B)(iii). Pub. L. 114–27, §301(1)(B)(ii), substituted "16 succe
 
 Subsec. (h). Pub. L. 114–27, §301(2), substituted "September 30, 2025" for "September 30, 2020".
 
-<b>2012</b>—Subsec. (b)(4)(C), (D). Pub. L. 112–234, which directed amendment of section 231A(b)(4) of the Caribbean Basin Economic Recovery Act by redesignatingsubpar. (D) as (C) and striking out former subpar. (C), was executed to this section, which is section 213A of the Caribbean Basin Economic Recovery Act, to reflect the probable intent of Congress. Prior to amendment, text of subpar. (C) read as follows: "The United States Government Accountability Office shall review the program established under subparagraph (B) annually for the purpose of evaluating the effectiveness of, and making recommendations for improvements in, the program."
+<b>2012</b>—Subsec. (b)(4)(C), (D). Pub. L. 112–234, which directed amendment of section 231A(b)(4) of the Caribbean Basin Economic Recovery Act by redesignating subpar. (D) as (C) and striking out former subpar. (C), was executed to this section, which is section 213A of the Caribbean Basin Economic Recovery Act, to reflect the probable intent of Congress. Prior to amendment, text of subpar. (C) read as follows: "The United States Government Accountability Office shall review the program established under subparagraph (B) annually for the purpose of evaluating the effectiveness of, and making recommendations for improvements in, the program."
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–171, §7(1), added par. (1) and struck out former par. (1) which defined "applicable 1-year period", "initial applicable 1-year period", "second applicable 1-year period", "third applicable 1-year period", "fourth applicable 1-year period", and "fifth applicable 1-year period" in subpars. (A) to (F), respectively.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–171, §7(1), added par. (1) and struck out former par. (1) which defined "applicable 1-year period", "initial applicable 1-year period","second applicable 1-year period", "third applicable 1-year period", "fourth applicable 1-year period", and "fifth applicable 1-year period" in subpars. (A) to (F), respectively.
 
 Subsec. (b)(1)(A). Pub. L. 111–171, §7(2)(A), substituted "the initial applicable 1-year period and any 1-year period thereafter" for "an applicable 1-year period".
 
@@ -1275,7 +1275,7 @@ In General.—
 
 Rapid response team.—The Commissioner responsible for United States Customs and Border Protection (in this section referred to as the 'Commissioner') shall, in consultation with the United States Coast Guard, the Drug Enforcement Agency, and other Federal agencies, as appropriate, seek to send a rapid response team to Haiti—
 
-&emsp;&emsp;"(A) to assess the short-term and long-term technical, capacity-building, and training needs of theauthorities of the Government of Haiti responsible for customs services; and
+&emsp;&emsp;"(A) to assess the short-term and long-term technical, capacity-building, and training needs of the authorities of the Government of Haiti responsible for customs services; and
 
 &emsp;&emsp;"(B) to provide immediate assistance, as warranted, particularly with respect to—
 
@@ -1285,7 +1285,7 @@ Rapid response team.—The Commissioner responsible for United States Customs an
 
 &emsp;&emsp;&emsp;"(iii) preventing unlawful transshipment of goods through Haiti to the United States; and
 
-&emsp;&emsp;&emsp;"(iv) otherwise strengthening cooperation between the customs authorities of the United States, Haiti, and the Dominican Republic with respect to trade facilitation and economic development, customs compliance and law enforcement, and efforts to combat unlawful trafficking in narcotic drugs and psychotropic substances.
+&emsp;&emsp;&emsp;"(iv) otherwise strengthening cooperation between the customs authorities of the UnitedStates, Haiti, and the Dominican Republic with respect to trade facilitation and economic development, customs compliance and law enforcement, and efforts to combat unlawful trafficking in narcotic drugs and psychotropic substances.
 
 &emsp;"(2)
 

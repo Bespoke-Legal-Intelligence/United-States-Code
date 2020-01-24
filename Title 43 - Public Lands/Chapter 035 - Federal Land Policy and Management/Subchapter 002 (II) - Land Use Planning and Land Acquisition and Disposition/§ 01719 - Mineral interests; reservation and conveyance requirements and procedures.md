@@ -4,7 +4,7 @@
 
 (b)(1) The Secretary, after consultation with the appropriate department or agency head, may convey mineral interests owned by the United States where the surface is or will be in non-Federal ownership, regardless of which Federal entity may have administered the surface, if he finds (1) that there are no known mineral values in the land, or (2) that the reservation of the mineral rights in the United States is interfering with or precluding appropriate nonmineral development of the land and that such development is a more beneficial use of the land than mineral development.
 
-(2) Conveyance of mineral interests pursuant to this section shall be made only to the existing or proposed record owner of the surface, upon payment of administrative costs and thefair market value of the interests being conveyed.
+(2) Conveyance of mineral interests pursuant to this section shall be made only to the existing or proposed record owner of the surface, upon payment of administrative costs and the fair market value of the interests being conveyed.
 
 (3) Before considering an application for conveyance of mineral interests pursuant to this section—
 

@@ -24,7 +24,7 @@
 
 (d) The provisions of section 2117 of this title shall, to the extent that they are not inconsistent with this subchapter, apply to boards convened under this section.
 
-(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1014, §741; amended Pub. L. 101–225, title II, §203(5), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 103–206, title II, §203, Dec. 20, 1993, 107 Stat. 2420; Pub. L. 103–337, div. A, title XVI, §1677(b)(5), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–106, div. A, title XV, §1501(e)(1)(B), Feb. 10, 1996, 110 Stat. 501; renumbered §3752 and amended Pub. L. 115–282, title I, §§118(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4233, 4240.)
+(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1014, §741; amended Pub. L. 101–225, title II,§203(5), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 103–206, title II, §203, Dec. 20, 1993, 107 Stat. 2420; Pub. L. 103–337, div. A, title XVI, §1677(b)(5), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–106, div. A, title XV, §1501(e)(1)(B), Feb. 10, 1996, 110 Stat. 501; renumbered §3752 and amended Pub. L. 115–282, title I, §§118(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4233, 4240.)
 
 #### Prior Provisions
 

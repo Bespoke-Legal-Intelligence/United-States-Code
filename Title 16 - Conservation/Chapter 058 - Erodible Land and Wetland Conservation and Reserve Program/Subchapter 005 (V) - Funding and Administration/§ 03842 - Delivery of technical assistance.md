@@ -204,7 +204,7 @@ Another prior section 3842, Pub. L. 99–198, title XII, §1242, Dec. 23, 1985, 
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–334, §2502(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "In this section, the term 'eligible participant' means a producer, landowner, or entity that is participating in, or seeking to participate in, programs for which the producer, landowner, or entity is otherwise eligible to participate in under this chapter or the agricultural management assistance program under section 1524 of title 7."
+<b>2018</b>—Subsec. (a). Pub. L. 115–334, §2502(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "In this section, the term 'eligible participant'means a producer, landowner, or entity that is participating in, or seeking to participate in, programs for which the producer, landowner, or entity is otherwise eligible to participate in under this chapter or the agricultural management assistance program under section 1524 of title 7."
 
 Subsec. (e)(3)(B). Pub. L. 115–334, §2821(e), substituted "third-party" for "third party".
 

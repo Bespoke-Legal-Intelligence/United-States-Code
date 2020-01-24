@@ -18,7 +18,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(i) a supplement to such an application;
 
-&emsp;&emsp;(ii) an application filed under section 262(k) of title 42 that cites as the referenceproduct a bovine blood product for topical application licensed before September 1, 1992, or a large volume parenteral drug product approved before such date;
+&emsp;&emsp;(ii) an application filed under section 262(k) of title 42 that cites as the reference product a bovine blood product for topical application licensed before September 1, 1992, or a large volume parenteral drug product approved before such date;
 
 &emsp;&emsp;(iii) an application filed under section 262(k) of title 42 with respect to—
 

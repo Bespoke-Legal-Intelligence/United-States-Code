@@ -70,9 +70,9 @@ An annual report under this section shall include a financial statement containi
 
 &emsp;(F) a list of all leases which were in default or were classified during the year as uncollectable; and the following information with respect to each lease on such schedule (including a notation as to whether parties involved are known to be parties in interest): the type of property leased (and, in the case of fixed assets such as land, buildings, leasehold, and so forth, the location of the property), the identity of the lessor or lessee from or to whom the plan is leasing, the relationship of such lessors and lessees, if any, to the plan, the employer, employee organization, or any other party in interest, the terms of the lease regarding rent, taxes, insurance, repairs, expenses, and renewal options; the date the leased property was purchased and its cost, the date the property was leased and its approximate value at such date, the gross rental receipts during the reporting period, expenses paid for the leased property during the reporting period, the net receipts from the lease, the amounts in arrears, and a statement as to what steps have been taken to collect amounts due or otherwise remedy the default;
 
-&emsp;(G) if some or all of the assets of a plan or plans are held in a common or collective trust maintained by a bank or similar institution or in a separate account maintained by an insurance carrier or a separate trust maintained by a bank as trustee, the report shall include the most recent annual statement of assets and liabilities of such common or collective trust, and in the case of a separate account or a separate trust, such other information as is required by the administrator in order to comply with this subsection; and
+&emsp;(G) if some or all of the assets of a plan or plans are held in a common or collective trustmaintained by a bank or similar institution or in a separate account maintained by an insurance carrier or a separate trust maintained by a bank as trustee, the report shall include the most recent annual statement of assets and liabilities of such common or collective trust, and in the case of a separate account or a separate trust, such other information as is required by the administrator in order to comply with this subsection; and
 
-&emsp;(H) a schedule of each reportable transaction, the name of each party to the transaction (except that, in the case of an acquisition or sale of a security on the market, the report need not identify the person from whom the security was acquired or to whom it was sold) and a description of each asset to which the transaction applies; the purchase or selling price in case of a sale or purchase, therental in case of a lease, or the interest rate and maturity date in case of a loan; expenses incurred in connection with the transaction; the cost of the asset, the current value of the asset, and the net gain (or loss) on each transaction. For purposes of the preceding sentence, the term "reportable transaction" means a transaction to which the plan is a party if such transaction is—
+&emsp;(H) a schedule of each reportable transaction, the name of each party to the transaction (except that, in the case of an acquisition or sale of a security on the market, the report need not identify the person from whom the security was acquired or to whom it was sold) and a description of each asset to which the transaction applies; the purchase or selling price in case of a sale or purchase, the rental in case of a lease, or the interest rate and maturity date in case of a loan; expenses incurred in connection with the transaction; the cost of the asset, the current value of the asset, and the net gain (or loss) on each transaction. For purposes of the preceding sentence, the term "reportable transaction" means a transaction to which the plan is a party if such transaction is—
 
 &emsp;&emsp;(i) a transaction involving an amount in excess of 3 percent of the current value of the assets of the plan;
 
@@ -212,9 +212,31 @@ If some or all of the benefits under the plan are purchased from and guaranteed 
 
 With respect to any multiple employer plan, an annual report under this section for a plan year shall include a list of participating employers and a good faith estimate of the percentage of total contributions made by such participating employers during the plan year.
 
-(Pub. L. 93–406, title I, §103, Sept. 2, 1974, 88 Stat. 841; Pub. L. 96–364, title III, §307, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title XI, §11016(b)(1), Apr. 7, 1986, 100 Stat. 272; Pub. L. 100–203, title IX, §9342(a)(1), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7881(j)(1), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 109–280, title I, §108(a)(2), (3), formerly §107(a)(2), (3), title V, §503(a)(1), (b), Aug. 17, 2006, 120 Stat. 818, 942, 943, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(d)(1)(A), Dec. 23, 2008, 122 Stat. 5098; Pub. L. 113–97, title I, §§102(b)(5), 104(c), Apr. 7, 2014, 128 Stat. 1116, 1121.)
+(Pub. L. 93–406, title I, §103, Sept. 2, 1974, 88 Stat. 841; Pub. L. 96–364, title III, §307, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title XI, §11016(b)(1), Apr. 7, 1986, 100 Stat. 272; Pub. L. 100–203, title IX, §9342(a)(1), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7881(j)(1), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 109–280, title I, §108(a)(2), (3), formerly §107(a)(2), (3), title V, §503(a)(1), (b), Aug. 17, 2006, 120 Stat. 818, 942, 943, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(d)(1)(A), Dec. 23, 2008, 122 Stat. 5098; Pub. L. 113–97, title I, §§102(b)(5), 104(c), Apr. 7, 2014, 128 Stat. 1116, 1121; Pub. L. 116–94, div. O, title I, §101(d)(1), Dec. 20, 2019, 133 Stat. 3145.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–94, div. O, title I, §101(d)(1), (e), Dec. 20, 2019, 133 Stat. 3145, provided that, applicable to plan years beginning after Dec. 31, 2020, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(1)(B), by striking "applicable subsections (d), (e), and (f)" and inserting "applicable subsections (d), (e), (f), and (g)"; and</i>
+
+<i>(2) by amending subsection (g) to read as follows:</i>
+
+#### <i>(g) Additional information with respect to pooled employer and multiple employer plans</i>
+
+<i>An annual report under this section for a plan year shall include—</i>
+
+&emsp;<i>(1) with respect to any plan to which section 1060(a) of this title applies (including a pooled employer plan), a list of employers in the plan and a good faith estimate of the percentage of total contributions made by such employers during the plan year and the aggregate account balances attributable to each employer in the plan (determined as the sum of the account balances of the employees of such employer (and the beneficiaries of such employees)); and</i>
+
+&emsp;<i>(2) with respect to a pooled employer plan, the identifying information for the person designated under the terms of the plan as the pooled plan provider.</i>
+
+<i>See 2019 Amendment notes below.</i>
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(1)(B). Pub. L. 116–94, §101(d)(1)(A), substituted "applicable subsections (d), (e), (f), and (g)" for "applicable subsections (d), (e), and (f)" in introductory provisions.
+
+Subsec. (g). Pub. L. 116–94, §101(d)(1)(B), amended subsec. (g) generally. Prior to amendment, text read as follows: "With respect to any multiple employer plan, an annual report under this section for a plan year shall include a list of participating employers and a good faith estimate of the percentage of total contributions made by such participating employers during the plan year."
 
 <b>2014</b>—Subsec. (d)(8)(B). Pub. L. 113–97, §102(b)(5), substituted "sections 1083(h), 1084(c)(3), and 1085a(c)(3) of this title" for "sections 1083(h) and 1084(c)(3) of this title".
 
@@ -241,6 +263,10 @@ Subsec. (f). Pub. L. 109–280, §503(a)(1)(B), added subsec. (f).
 <b>1986</b>—Subsec. (d)(6). Pub. L. 99–272 amended par. (6) generally. Prior to amendment, par. (6) read as follows: "The present value of all of the plan's liabilities for nonforfeitable pension benefits allocated by the termination priority categories as set forth in section 1344 of this title, and the actuarial assumptions used in these computations. The Secretary shall establish regulations defining (for purposes of this section) 'termination priority categories' and acceptable methods, including approximate methods, for allocating the plan's liabilities to such termination priority categories."
 
 <b>1980</b>—Subsec. (d)(10) to (12). Pub. L. 96–364 added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2020, see section 101(e) of Pub. L. 116–94, set out as a note under section 408 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2014 Amendment
 

@@ -32,7 +32,7 @@ Rule of Construction.—Nothing in this section may be construed to remove, limi
 
 (f)
 
-State Defined.—In this section, the term "State" means a State, as defined in section101(20) of this title, or a political subdivision of a State.
+State Defined.—In this section, the term "State" means a State, as defined in section 101(20) of this title, or a political subdivision of a State.
 
 (Added Pub. L. 115–182, title I, §151(a), June 6, 2018, 132 Stat. 1430.)
 

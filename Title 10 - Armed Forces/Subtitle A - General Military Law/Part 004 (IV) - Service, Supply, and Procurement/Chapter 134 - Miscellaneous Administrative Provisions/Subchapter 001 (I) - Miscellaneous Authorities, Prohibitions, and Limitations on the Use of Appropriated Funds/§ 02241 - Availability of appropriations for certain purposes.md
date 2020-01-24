@@ -148,7 +148,7 @@ Rule of Construction Related to Intelligence Activities.—Nothing in this secti
 
 #### Funds Made Available for Transportation of Medical Supplies to American Samoa and Indian Health Service
 
-Pub. L. 110–329, div. C, title VIII, §8058, Sept. 30, 2008, 122 Stat. 3634, provided that: "Notwithstanding any other provision of law, funds available to the Department of Defense in this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to American Samoa, and funds available to the Department of Defense shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to the Indian Health Service when it is in conjunction with a civil-military project."
+Pub. L. 110–329, div. C, title VIII, §8058, Sept. 30, 2008, 122 Stat. 3634, provided that: "Notwithstanding anyother provision of law, funds available to the Department of Defense in this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to American Samoa, and funds available to the Department of Defense shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to the Indian Health Service when it is in conjunction with a civil-military project."
 
 #### Obligation of Funds for Installation Support Functions
 
@@ -236,7 +236,7 @@ Limitation on Deployment of Total Information Awareness Program.—(1) Notwithst
 
 &emsp;&emsp;"(ii) a specific appropriation by law of funds for the deployment or implementation of such program or component.
 
-"(2) The limitation in paragraph (1) shall not apply with respect to the deployment or implementation of the Total Information Awareness program, or a component of such program, in support of the following:
+"(2) The limitation in paragraph (1) shall not apply with respect to the deployment or implementation ofthe Total Information Awareness program, or a component of such program, in support of the following:
 
 &emsp;"(A) Lawful military operations of the United States conducted outside the United States.
 
@@ -308,7 +308,7 @@ Pub. L. 103–335, title VIII, §8119, Sept. 30, 1994, 108 Stat. 2649, provided 
 
 Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8109\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–111, provided for application of section 9005 of Public Law 102–396 (formerly set out below), prior to repeal by Pub. L. 107–107, div. A, title VIII, §832(b)(2), Dec. 28, 2001, 115 Stat. 1190.
 
-Pub. L. 102–396, title IX, §9005, Oct. 6, 1992, 106 Stat. 1900, as amended by Pub. L. 103–139, title VIII, §8005, Nov. 11, 1993, 107 Stat. 1438; Pub. L. 103–355, title IV,§4401(e), Oct. 13, 1994, 108 Stat. 3348, provided for restrictions on procurements from outside of the United States, prior to repeal by Pub. L. 107–107, div. A, title VIII, §832(b)(1), Dec. 28, 2001, 115 Stat. 1190.
+Pub. L. 102–396, title IX, §9005, Oct. 6, 1992, 106 Stat. 1900, as amended by Pub. L. 103–139, title VIII, §8005, Nov. 11, 1993, 107 Stat. 1438; Pub. L. 103–355, title IV, §4401(e), Oct. 13, 1994, 108 Stat. 3348, provided for restrictions on procurements from outside of the United States, prior to repeal by Pub. L. 107–107, div. A, title VIII, §832(b)(1), Dec. 28, 2001, 115 Stat. 1190.
 
 #### Prohibition on Use of Funds To Purchase Dogs or Cats for Medical Training
 
@@ -354,7 +354,7 @@ Sec. 9025. \[Provided that no funds available to the Department of Defense could
 
 "
 
-Sec. 9030. \[Provided that funds available to the Department of Defense could be used by the Departmentfor helicopters and motorized equipment at Defense installations for removal of feral burros and horses; and was repealed and restated in section 2678 of this title by Pub. L. 101–510, div. A, title XIV, §1481(h)(1), (3), Nov. 5, 1990, 104 Stat. 1708.\]
+Sec. 9030. \[Provided that funds available to the Department of Defense could be used by the Department for helicopters and motorized equipment at Defense installations for removal of feral burros and horses; and was repealed and restated in section 2678 of this title by Pub. L. 101–510, div. A, title XIV, §1481(h)(1), (3), Nov. 5, 1990, 104 Stat. 1708.\]
 
 "Sec. 9079. None of the funds appropriated by this Act or hereafter shall be obligated for the second career training program authorized by Public Law 96–347 \[amending sections 2109, 3307, 3381 to 3385, and 8335 of Title 5, Government Organization and Employees\]."
 

@@ -40,7 +40,7 @@ Penalties.—A person who violates this section or section 2261A shall be fined 
 
 Pub. L. 109–162, §116(a)(1), which directed substitution of ", intimate partner, or dating partner" for "or intimate partner", was executed by making the substitution in two places to reflect the probable intent of Congress.
 
-Subsec. (a)(2). Pub. L. 109–162, §116(a)(2), which directed substitution of ", intimate partner, or datingpartner" for "or intimate partner", was executed by making the substitution in two places to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 109–162, §116(a)(2), which directed substitution of ", intimate partner, or dating partner" for "or intimate partner", was executed by making the substitution in two places to reflect the probable intent of Congress.
 
 Subsec. (b)(6). Pub. L. 109–162, §114(b), added par. (6).
 

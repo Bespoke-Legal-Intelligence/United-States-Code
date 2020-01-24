@@ -38,7 +38,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than 1 year after August 10, 2005, the Administrator and each agency head shall take such actions as are necessary to implement fully all procurement requirements and incentives in effect as of August 10, 2005 (including guidelines under section 6962 of this title) that provide for the use of cement and concrete incorporating recovered mineral component in cement or concrete projects.
+&emsp;Not later than 1 year after August 10, 2005, the Administrator and each agency head shall take such actions as are necessary to implement fully all procurement requirements and incentives in effect as of August 10, 2005 (including guidelines under section 6962 of this title) that provide for the use of cement andconcrete incorporating recovered mineral component in cement or concrete projects.
 
 #### (2) Priority
 

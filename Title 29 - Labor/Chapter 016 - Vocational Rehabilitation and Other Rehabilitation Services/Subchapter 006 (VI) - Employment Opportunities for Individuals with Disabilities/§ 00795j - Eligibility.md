@@ -22,7 +22,7 @@ Provisions similar to this section were contained in section 795m of this title 
 
 A prior section 795j, Pub. L. 93–112, title VI, §631, as added Pub. L. 102–569, title VI, §621(a), Oct. 29, 1992, 106 Stat. 4439, stated purpose of program for supported employment services for individuals with severe disabilities, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 795g of this title.
 
-Another prior section 795j, Pub. L. 93–112, title VI, §631, as added Pub. L. 99–506, title VII, §704(a)(1), Oct. 21, 1986, 100 Stat. 1834, outlined the purpose of formerpart C of this subchapter, prior to repeal by Pub. L. 102–569, §621(a).
+Another prior section 795j, Pub. L. 93–112, title VI, §631, as added Pub. L. 99–506, title VII, §704(a)(1), Oct. 21, 1986, 100 Stat. 1834, outlined the purpose of former part C of this subchapter, prior to repeal by Pub. L. 102–569, §621(a).
 
 #### Amendments
 

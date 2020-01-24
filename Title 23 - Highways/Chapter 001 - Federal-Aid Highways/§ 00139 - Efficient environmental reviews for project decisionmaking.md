@@ -478,7 +478,7 @@ Comment deadlines.—The lead agency shall establish the following deadlines for
 
 &emsp;(3)
 
-Deadlines for decisions under other laws.—In any case in which a decision under any Federal law relating to a project (including the issuance or denial of a permit or license) is required to be made by the later of the date that is 180 days after the date on which the Secretary made all final decisions of the lead agency with respect to the project, or 180 days after the date on which an application was submitted for the permit or license, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and publish on the Internet—
+Deadlines for decisions under other laws.—In any case in which a decision under any Federal law relating to a project (including the issuance or denial of a permit or license) is required to be made by the later ofthe date that is 180 days after the date on which the Secretary made all final decisions of the lead agency with respect to the project, or 180 days after the date on which an application was submitted for the permit or license, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and publish on the Internet—
 
 &emsp;&emsp;(A) as soon as practicable after the 180-day period, an initial notice of the failure of the Federal agency to make the decision; and
 
@@ -586,7 +586,7 @@ In general.—If resolution is not achieved by not later than 30 days after the 
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Meeting.—Not later than 30 days after the date of receipt of a referral from the Secretary under subclause (I), the Council on Environmental Quality shall hold an issue resolution meetingwith the lead agency, the heads of relevant participating agencies, and the project sponsor (including the Governor only if an initial request for an issue resolution meeting came from the Governor).
+Meeting.—Not later than 30 days after the date of receipt of a referral from the Secretary under subclause (I), the Council on Environmental Quality shall hold an issue resolution meeting with the lead agency, the heads of relevant participating agencies, and the project sponsor (including the Governor only if an initial request for an issue resolution meeting came from the Governor).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -858,7 +858,7 @@ Federal agencies.—A Federal agency participating in the environmental review o
 
 &emsp;&emsp;(B)
 
-State and local agencies.—The Secretary shall encourage State and local agencies participating in the environmental review permitting process for a project to provide information regarding the status andprogress of the approval of the project for publication on the Internet website referred to in paragraph (1)(A).
+State and local agencies.—The Secretary shall encourage State and local agencies participating in the environmental review permitting process for a project to provide information regarding the status and progress of the approval of the project for publication on the Internet website referred to in paragraph (1)(A).
 
 &emsp;(3)
 
@@ -918,7 +918,7 @@ Subsec. (f)(4)(E). Pub. L. 114–94, §1304(f)(2)(C), added subpar. (E).
 
 Subsec. (g)(1)(A). Pub. L. 114–94, §1304(g)(1)(A), substituted "Not later than 90 days after the date of publication of a notice of intent to prepare an environmental impact statement or the initiation of an environmental assessment, the lead agency" for "The lead agency".
 
-Subsec. (g)(1)(B)(i). Pub. L. 114–94, §1304(g)(1)(B), substituted "shall establish as part of such coordination plan" for "may establish as part of the coordination plan".
+Subsec. (g)(1)(B)(i). Pub. L. 114–94, §1304(g)(1)(B), substituted "shall establish as part of such coordinationplan" for "may establish as part of the coordination plan".
 
 Subsec. (g)(3). Pub. L. 114–94, §1304(g)(2), inserted "and publish on the Internet" after "House of Representatives" in introductory provisions.
 
@@ -1020,7 +1020,7 @@ In General.—It is the sense of Congress that—
 
 &emsp;"(1) the Secretary \[of Transportation\] and other Federal agencies with relevant jurisdiction in the environmental review process should cooperate with each other and other agencies on environmental review and project delivery activities at the earliest practicable time to avoid delays and duplication of effort later in the process, head off potential conflicts, and ensure that planning and project development decisions reflect environmental values; and
 
-&emsp;"(2) such cooperation should include the development of policies and the designation of staff that advise planning agencies or project sponsors of studies or other information foreseeably required for later Federal action and early consultation with appropriate State and local agencies and Indian tribes.
+&emsp;"(2) such cooperation should include the development of policies and the designation of staff that advise planning agencies or project sponsors of studiesor other information foreseeably required for later Federal action and early consultation with appropriate State and local agencies and Indian tribes.
 
 "(b)
 

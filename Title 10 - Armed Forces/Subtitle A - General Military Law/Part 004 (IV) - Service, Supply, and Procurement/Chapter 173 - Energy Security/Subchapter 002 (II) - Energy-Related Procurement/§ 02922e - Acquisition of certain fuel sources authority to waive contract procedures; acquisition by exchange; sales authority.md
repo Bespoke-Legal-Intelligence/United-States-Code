@@ -10,7 +10,7 @@ Waiver Authority.—The Secretary of Defense may, for any purchase of a defined 
 
 (b)
 
-Scope of Waiver.—A waiver under subsection (a) may be made with respect to a particular contract or with respect to classes of contracts. Such a waiver that is applicable to a contract for the purchase of a defined fuel source may also be made applicable to a subcontract under that contract.
+Scope of Waiver.—A waiver under subsection (a) may be made with respect to a particular contract or with respect to classes of contracts. Such a waiver that is applicable to acontract for the purchase of a defined fuel source may also be made applicable to a subcontract under that contract.
 
 (c)
 

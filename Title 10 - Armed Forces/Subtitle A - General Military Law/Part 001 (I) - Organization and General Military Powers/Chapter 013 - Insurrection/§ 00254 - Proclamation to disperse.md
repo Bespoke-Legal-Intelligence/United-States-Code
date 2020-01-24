@@ -66,7 +66,7 @@ Proc. No. 3840, Apr. 9, 1968, 33 F.R. 5495, commanded all persons engaged in act
 
 #### Proc. No. 3841. Obstruction of Justice in the State of Illinois
 
-Proc. No. 3841, Apr. 9, 1968, 33 F.R. 5497, commanded all persons engaged in violence in and about the City of Chicago and obstructing the enforcement of the laws to cease and desist therefrom and to disperse forthwith.
+Proc. No. 3841, Apr. 9, 1968, 33 F.R. 5497, commanded all persons engaged in violence in and about the City ofChicago and obstructing the enforcement of the laws to cease and desist therefrom and to disperse forthwith.
 
 #### Proc. No. 3842. Obstruction of Justice in the State of Maryland
 

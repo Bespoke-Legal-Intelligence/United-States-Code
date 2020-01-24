@@ -6,7 +6,7 @@ The following activities shall be exempt from sanctions under sections 9403, 940
 
 &emsp;(1) Any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.), or to any authorized intelligence activities of the United States.
 
-&emsp;(2) The admission of an alien to the United States if such admission is necessary to comply with United States obligations under the Agreement between the United Nations and the United States of America regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, or under the Convention on Consular Relations, done at ViennaApril 24, 1963, and entered into force March 19, 1967, or other applicable international obligations of the United States.
+&emsp;(2) The admission of an alien to the United States if such admission is necessary to comply with United States obligations under the Agreement between the United Nations and the United States of America regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, or under the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other applicable international obligations of the United States.
 
 &emsp;(3) The conduct or facilitation of a transaction for the sale of agricultural commodities, food, medicine, or medical devices to Iran or for the provision of humanitarian assistance to the people of Iran, including engaging in a financial transaction relating to humanitarian assistance or for humanitarian purposes or transporting goods or services that are necessary to carry out operations relating to humanitarian assistance or humanitarian purposes.
 
@@ -46,7 +46,7 @@ The National Security Act of 1947, referred to in subsec. (a)(1), is act July 26
 
 This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", and was translated as reading "this title", meaning title I of Pub. L. 115–44, known as the Countering Iran's Destabilizing Activities Act of 2017, to reflect the probable intent of Congress.
 
-The International Emergency Economic Powers Act, referred to in subsecs. (c) and (d)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (c) and (d)(2), is title II of Pub.L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 Section 4618 of title 50, referred to in subsec. (d)(2), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 

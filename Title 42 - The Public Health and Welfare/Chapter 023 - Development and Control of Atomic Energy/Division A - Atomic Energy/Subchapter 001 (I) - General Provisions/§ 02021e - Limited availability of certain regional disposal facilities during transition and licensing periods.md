@@ -104,11 +104,11 @@ July 1, 1986.—The twenty-five per centum of any amount collected by a State un
 
 &emsp;&emsp;&emsp;(ii)
 
-January 1, 1988.—The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under thissection during the period beginning July 1, 1986 and ending December 31, 1987, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(B) is met by the State in which such waste originated (or its compact region, where applicable).
+January 1, 1988.—The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning July 1, 1986 and ending December 31, 1987, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(B) is met by the State in which such waste originated (or its compact region, where applicable).
 
 &emsp;&emsp;&emsp;(iii)
 
-January 1, 1990.—The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1988 and ending December 31, 1989, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(C) is met by the State in which such waste originated (or its compact region, where applicable).
+January 1, 1990.—The twenty-five per centum of any amount collected by aState under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1988 and ending December 31, 1989, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(C) is met by the State in which such waste originated (or its compact region, where applicable).
 
 &emsp;&emsp;&emsp;(iv) The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1990 and ending December 31, 1992, and transferred to the Secretary under subparagrah <sup>1</sup> (A), shall be paid by the Secretary in accordance with subparagraph (D) if, by January 1, 1993, the State in which such waste originated (or its compact region, where applicable) is able to provide for the disposal of all low-level radioactive waste generated within such State or compact region.
 
@@ -148,7 +148,7 @@ January 1, 1990.—The twenty-five per centum of any amount collected by a State
 
 #### (I) Recipient
 
-&emsp;&emsp;&emsp;&emsp;Any State or compact commission receiving a payment under subparagraphs (B) or (C) shall, on December 31 of each year in which any such funds are expended, submit a report to the Department of Energy itemizing any such expenditures.
+&emsp;&emsp;&emsp;&emsp;Any State or compact commission receiving a payment under subparagraphs (B) or (C) shall, on December 31 of eachyear in which any such funds are expended, submit a report to the Department of Energy itemizing any such expenditures.
 
 #### (II) Department of Energy
 
@@ -262,7 +262,7 @@ Proprietary information.—
 
 &emsp;&emsp;(ii) The United States shall not be liable for the wrongful disclosure by any individual or State of any information provided to such individual or State under this subsection.
 
-&emsp;&emsp;(iii) Whenever any individual or State has obtained possession of information underthis subsection, the individual shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to an officer or employee of the United States or of any department or agency thereof and the State shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to the United States or any department or agency thereof. No State or State officer or employee who receives trade secrets, proprietary information, or other confidential information under sections 2021b to 2021j of this title may be required to disclose such information under State law.
+&emsp;&emsp;(iii) Whenever any individual or State has obtained possession of information under this subsection, the individual shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to an officer or employee of the United States or of any department or agency thereof and the State shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to the United States or any department or agency thereof. No State or State officer or employee who receives trade secrets, proprietary information, or other confidential information under sections 2021b to 2021j of this title may be required to disclose such information under State law.
 
 #### (g) Nondiscrimination
 

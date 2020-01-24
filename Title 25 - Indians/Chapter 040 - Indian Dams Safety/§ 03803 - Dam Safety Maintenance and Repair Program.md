@@ -14,7 +14,7 @@ Under the Dam Safety Maintenance and Repair Program, the Secretary shall perform
 
 #### (d) Maintenance action plan
 
-The Secretary shall develop a maintenance action plan, which shall include a prioritization of actions to be taken, for those dams with a risk hazard rating of high or significant as identified pursuant to subsection (e).
+The Secretary shall develop a maintenance action plan, which shall include a prioritization of actions to be taken, for those dams with a riskhazard rating of high or significant as identified pursuant to subsection (e).
 
 #### (e) Identification of dams
 

@@ -84,7 +84,7 @@ Pub. L. 115–123, div. E, title II, §50207(b), Feb. 9, 2018, 132 Stat. 187, pr
 
 #### Medicare Enrollment Assistance
 
-Pub. L. 110–275, title I, §119, July 15, 2008, 122 Stat. 2508, as amended by Pub. L. 111–148, title III, §3306, Mar. 23, 2010, 124 Stat. 470; Pub. L. 112–240, title VI, §610, Jan. 2, 2013, 126 Stat. 2351; Pub. L. 113–67, div. B, title I,§1110, Dec. 26, 2013, 127 Stat. 1198; Pub. L. 113–93, title I, §110, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §208, Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E, title II, §50207(a), Feb. 9, 2018, 132 Stat. 186, provided that:
+Pub. L. 110–275, title I, §119, July 15, 2008, 122 Stat. 2508, as amended by Pub. L. 111–148, title III, §3306, Mar. 23, 2010, 124 Stat. 470; Pub. L. 112–240, title VI, §610, Jan. 2, 2013, 126 Stat. 2351; Pub. L. 113–67, div. B, title I, §1110, Dec. 26, 2013, 127 Stat. 1198; Pub. L. 113–93, title I, §110, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §208, Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E, title II, §50207(a), Feb. 9, 2018, 132 Stat. 186; Pub. L. 116–59, div. B, title IV, §1402, Sept. 27, 2019, 133 Stat. 1106; Pub. L. 116–69, div. B, title IV, §1402, Nov. 21, 2019, 133 Stat. 1138; Pub. L. 116–94, div. N, title I, §103, Dec. 20, 2019, 133 Stat. 3096, provided that:
 
 "(a)
 
@@ -114,11 +114,17 @@ Funding.—For purposes of making grants under this subsection, the Secretary sh
 
 &emsp;&emsp;&emsp;"(vi) for fiscal year 2016, of $13,000,000;
 
-&emsp;&emsp;&emsp;"(vii) for fiscal year 2017, of $13,000,000; and \[sic\]
+&emsp;&emsp;&emsp;"(vii) for fiscal year 2017, of $13,000,000;
 
-&emsp;&emsp;&emsp;"(viii) for fiscal year 2018, of $13,000,000; and
+&emsp;&emsp;&emsp;"(viii) for fiscal year 2018, of $13,000,000;
 
-&emsp;&emsp;&emsp;"(ix) for fiscal year 2019, of $13,000,000.
+&emsp;&emsp;&emsp;"(ix) for fiscal year 2019, of $13,000,000;
+
+&emsp;&emsp;&emsp;"(x) for the period beginning on October 1, 2019, and ending on November 21, 2019, of $1,852,000;
+
+&emsp;&emsp;&emsp;"(xi) for the period beginning on November 22, 2019, and ending on December 20, 2019, of $1,033,000; and
+
+&emsp;&emsp;&emsp;"(xii) for the period beginning on December 21, 2019, and ending on May 22, 2020, of $5,485,000.
 
 &nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -132,7 +138,7 @@ Allocation to states.—
 
 &emsp;&emsp;"(A)
 
-Allocation based on percentage of low-income beneficiaries.—The amount allocated to a State under this subparagraph from 2/3 of the total amount made available under paragraph (1) shall be based on the number of individuals who meet the requirement under subsection (a)(3)(A)(ii) of section 1860D–14 of the Social Security Act (42 U.S.C. 1395w–114) but who have not enrolled to receive a subsidy under such section 1860D–14 relative to the total number of individuals who meet the requirement under such subsection (a)(3)(A)(ii) in each State, as estimated by the Secretary.
+Allocation based on percentage of low-income beneficiaries.—The amount allocated to aState under this subparagraph from 2/3 of the total amount made available under paragraph (1) shall be based on the number of individuals who meet the requirement under subsection (a)(3)(A)(ii) of section 1860D–14 of the Social Security Act (42 U.S.C. 1395w–114) but who have not enrolled to receive a subsidy under such section 1860D–14 relative to the total number of individuals who meet the requirement under such subsection (a)(3)(A)(ii) in each State, as estimated by the Secretary.
 
 &emsp;&emsp;"(B)
 
@@ -170,11 +176,17 @@ Funding.—For purposes of making grants under this subsection, the Secretary sh
 
 &emsp;&emsp;&emsp;"(vi) for fiscal year 2016, of $7,500,000;
 
-&emsp;&emsp;&emsp;"(vii) for fiscal year 2017, of $7,500,000; and \[sic\]
+&emsp;&emsp;&emsp;"(vii) for fiscal year 2017, of $7,500,000;
 
-&emsp;&emsp;&emsp;"(viii) for fiscal year 2018, of $7,500,000; and
+&emsp;&emsp;&emsp;"(viii) for fiscal year 2018, of $7,500,000;
 
-&emsp;&emsp;&emsp;"(ix) for fiscal year 2019, of $7,500,000.
+&emsp;&emsp;&emsp;"(ix) for fiscal year 2019, of $7,500,000;
+
+&emsp;&emsp;&emsp;"(x) for the period beginning on October 1, 2019, and ending on November 21, 2019, of $1,069,000;
+
+&emsp;&emsp;&emsp;"(xi) for the period beginning on November 22, 2019, and ending on December 20, 2019, of $597,000; and
+
+&emsp;&emsp;&emsp;"(xii) for the period beginning on December 21, 2019, and ending on May 22, 2020, of $3,165,000.
 
 &nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -222,11 +234,17 @@ Funding.—For purposes of making grants under this subsection, the Secretary sh
 
 &emsp;&emsp;&emsp;"(vi) for fiscal year 2016, of $5,000,000;
 
-&emsp;&emsp;&emsp;"(vii) for fiscal year 2017, of $5,000,000; and \[sic\]
+&emsp;&emsp;&emsp;"(vii) for fiscal year 2017, of $5,000,000;
 
-&emsp;&emsp;&emsp;"(viii) for fiscal year 2018, of $5,000,000; and
+&emsp;&emsp;&emsp;"(viii) for fiscal year 2018, of $5,000,000;
 
-&emsp;&emsp;&emsp;"(ix) for fiscal year 2019, of $5,000,000.
+&emsp;&emsp;&emsp;"(ix) for fiscal year 2019, of $5,000,000;
+
+&emsp;&emsp;&emsp;"(x) for the period beginning on October 1, 2019, and ending on November 21, 2019, of $712,000;
+
+&emsp;&emsp;&emsp;"(xi) for the period beginning on November 22, 2019, and ending on December 20, 2019, of $397,000; and
+
+&emsp;&emsp;&emsp;"(xii) for the period beginning on December 21, 2019, and ending on May 22, 2020, of $2,110,000.
 
 &nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -266,11 +284,17 @@ Funding.—For purposes of making a grant or entering into a contract under para
 
 &emsp;&emsp;"(vi) for fiscal year 2016, of $12,000,000;
 
-&emsp;&emsp;"(vii) for fiscal year 2017, of $12,000,000; and \[sic\]
+&emsp;&emsp;"(vii) for fiscal year 2017, of $12,000,000;
 
-&emsp;&emsp;"(viii) for fiscal year 2018, of $12,000,000; and
+&emsp;&emsp;"(viii) for fiscal year 2018, of $12,000,000;
 
-&emsp;&emsp;"(ix) for fiscal year 2019, of $12,000,000.
+&emsp;&emsp;"(ix) for fiscal year 2019, of $12,000,000;
+
+&emsp;&emsp;"(x) for the period beginning on October 1, 2019, and ending on November 21, 2019, of $1,710,000;
+
+&emsp;&emsp;"(xi) for the period beginning on November 22, 2019, and ending on December 20, 2019, of $953,000; and
+
+&emsp;&emsp;&emsp;"(xii) for the period beginning on December 21, 2019, and ending on May 22, 2020, of $5,063,000.
 
 > &emsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -328,5 +352,5 @@ Report.—The Secretary shall submit to Congress a report on such evaluation and
 
 #### Qualified Medicare Beneficiary Outreach
 
-Pub. L. 103–432, title I, §154, Oct. 31, 1994, 108 Stat. 4437, provided that: "Not later than 1 year after the date of the enactment of this Act \[Oct. 31, 1994\], the Secretary of Health and Human Services shall establish and implement a method for obtaining information from newly eligible medicare beneficiaries that may be used to determine whether such beneficiaries may be eligible for medical assistance for medicare cost-sharing under State medicaid plans as qualified medicare beneficiaries, and for transmitting such information to the State in which such a beneficiary resides."
+Pub. L. 103–432, title I, §154, Oct. 31, 1994, 108 Stat. 4437, provided that not later than 1 year after Oct. 31, 1994, the Secretary of Health and Human Services would establish and implement a method for obtaining information from newly eligible medicare beneficiaries that might be used to determine whether such beneficiaries may be eligible for medical assistance for medicare cost-sharing under State medicaid plans as qualified medicare beneficiaries, and for transmitting such information to the State in which such a beneficiary resides.
 

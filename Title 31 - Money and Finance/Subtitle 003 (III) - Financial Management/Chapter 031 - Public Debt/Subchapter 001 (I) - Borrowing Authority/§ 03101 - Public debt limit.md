@@ -96,6 +96,24 @@ Pub. L. 98–34 substituted "$1,389,000,000,000" for "$400,000,000,000".
 
 #### Temporary Debt Limit Extension
 
+Pub. L. 116–37, title III, §301, Aug. 2, 2019, 133 Stat. 1057, provided that:
+
+"(a)
+
+In General.—Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of the enactment of this Act \[Aug. 2, 2019\] and ending on July 31, 2021.
+
+"(b)
+
+Special Rule Relating to Obligations Issued During Extension Period.—Effective on August 1, 2021, the limitation in effect under section 3101(b) of title 31, United States Code, shall be increased to the extent that—
+
+&emsp;"(1) the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on August 1, 2021, exceeds
+
+&emsp;"(2) the face amount of such obligations outstanding on the date of the enactment of this Act.
+
+"(c)
+
+Extension Limited to Necessary Obligations.—An obligation shall not be taken into account under subsection (b)(1) unless the issuance of such obligation was necessary to fund a commitment incurred pursuant to law by the Federal Government that required payment before August 1, 2021."
+
 Pub. L. 115–123, div. C, title III, §30301, Feb. 9, 2018, 132 Stat. 132, provided that:
 
 "(a)
@@ -184,7 +202,7 @@ Pub. L. 113–83, Feb. 15, 2014, 128 Stat. 1011, provided that:
 
 "(a)
 
-In General.—Section 3101(b) of title 31, United States Code, shall not apply for the period beginning onthe date of the enactment of this Act \[Feb. 15, 2014\] and ending on March 15, 2015.
+In General.—Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of the enactment of this Act \[Feb. 15, 2014\] and ending on March 15, 2015.
 
 "(b)
 
@@ -268,7 +286,7 @@ Contents of joint resolution.—For the purpose of this subsection, the term 'jo
 
 &emsp;&emsp;"(B) which does not have a preamble;
 
-&emsp;&emsp;"(C) the title of which is only as follows: 'Joint resolution relating to the disapproval of the President's exercise of authority to suspend the debt limit, as submitted under section 1002(b) of the Continuing Appropriations Act, 2014 on \_\_\_\_\_\_\_\_\_\_\_\_' (with the blank containing the date of such submission); and
+&emsp;&emsp;"(C) the title of which is only as follows: 'Joint resolution relating to the disapproval of the President's exercise of authority to suspend the debtlimit, as submitted under section 1002(b) of the Continuing Appropriations Act, 2014 on \_\_\_\_\_\_\_\_\_\_\_\_' (with the blank containing the date of such submission); and
 
 &emsp;&emsp;"(D) the matter after the resolving clause of which is only as follows: 'That Congress disapproves of the President's exercise of authority to suspend the debt limit, as exercised pursuant to the certification under section 1002(b) of the Continuing Appropriations Act, 2014.'.
 
@@ -282,7 +300,7 @@ Reporting and discharge.—Any committee of the House of Representatives to whic
 
 &emsp;&emsp;"(B)
 
-Proceeding to consideration.—After each committee authorized to consider a joint resolution reports it to the House of Representatives or has been discharged from its consideration, it shall be in order, not later than the sixth day after introduction of a joint resolution under paragraph (1), to move to proceed to consider the joint resolution in the House of Representatives. All points of order against the motion are waived. Such a motion shallnot be in order after the House of Representatives has disposed of a motion to proceed on a joint resolution. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
+Proceeding to consideration.—After each committee authorized to consider a joint resolution reports it to the House of Representatives or has been discharged from its consideration, it shall be in order, not later than the sixth day after introduction of a joint resolution under paragraph (1), to move to proceed to consider the joint resolution in the House of Representatives. All points of order against the motion are waived. Such a motion shall not be in order after the House of Representatives has disposed of a motion to proceed on a joint resolution. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
 
 &emsp;&emsp;"(C)
 
@@ -384,7 +402,7 @@ Special Rule Relating to Obligations Issued During Suspension Period.—Effectiv
 
 #### Treatment of Certain Obligations of United States
 
-Pub. L. 104–115, §1(a)–(c), Mar. 12, 1996, 110 Stat. 825, authorized Secretary of the Treasury to issue to each Federal fund obligations of United States under thischapter before Mar. 30, 1996, in amount not to exceed certain designated limits, exempted such obligations from public debt limit and provided for termination of such exemption, and defined "Federal fund" for purpose of section.
+Pub. L. 104–115, §1(a)–(c), Mar. 12, 1996, 110 Stat. 825, authorized Secretary of the Treasury to issue to each Federal fund obligations of United States under this chapter before Mar. 30, 1996, in amount not to exceed certain designated limits, exempted such obligations from public debt limit and provided for termination of such exemption, and defined "Federal fund" for purpose of section.
 
 #### Timely Payment of March 1996 Social Security Benefits Guaranteed
 
@@ -446,7 +464,7 @@ Pub. L. 94–232, §1, Mar. 15, 1976, 90 Stat. 217, provided for a temporary inc
 
 Pub. L. 94–132, §1, Nov. 14, 1975, 89 Stat. 693, providing for a temporary increase of $195,000,000,000 in the public debt limit for the period Nov. 14, 1975, to Mar. 15, 1976, was also repealed by Pub. L. 94–232, §2, Mar. 15, 1976, 90 Stat. 217.
 
-Pub. L. 94–47, §1, June 30, 1975, 89 Stat. 246, providing for a temporary increase of $177,000,000,000 in the public debt limit for the period June 30, 1975, to Nov. 15, 1975, was also repealed by Pub. L. 94–132, §2, Nov. 14, 1975, 89 Stat. 693.
+Pub. L. 94–47, §1, June 30, 1975, 89 Stat. 246, providing for a temporary increase of $177,000,000,000 in the publicdebt limit for the period June 30, 1975, to Nov. 15, 1975, was also repealed by Pub. L. 94–132, §2, Nov. 14, 1975, 89 Stat. 693.
 
 Pub. L. 94–3, §1, Feb. 19, 1975, 89 Stat. 5, providing for a temporary increase of $131,000,000,000 in the public debt limit for the period Feb. 19, 1975, to June 30, 1975, was also repealed by Pub. L. 94–47, §2, June 30, 1975, 89 Stat. 246.
 

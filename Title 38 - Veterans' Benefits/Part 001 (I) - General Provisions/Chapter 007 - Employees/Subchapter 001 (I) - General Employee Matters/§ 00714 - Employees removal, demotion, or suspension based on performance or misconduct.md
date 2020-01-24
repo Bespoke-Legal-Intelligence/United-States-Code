@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) The Secretary may remove, demote, or suspend a covered individualwho is an employee of the Department if the Secretary determines the performance or misconduct of the covered individual warrants such removal, demotion, or suspension.
+In General.—(1) The Secretary may remove, demote, or suspend a covered individual who is an employee of the Department if the Secretary determines the performance or misconduct of the covered individual warrants such removal, demotion, or suspension.
 
 (2) If the Secretary so removes, demotes, or suspends such a covered individual, the Secretary may—
 
@@ -50,7 +50,7 @@ Expedited Review.—(1) Upon receipt of an appeal under subsection (c)(4)(A), th
 
 (B) Notwithstanding section 7701(c)(1)(B) of title 5, the Merit Systems Protection Board shall uphold the decision of the Secretary to remove, demote, or suspend an employee under subsection (a) if the decision is supported by substantial evidence.
 
-(C) Notwithstanding title 5 or any other provision of law, if the decision of the Secretary is supported by substantial evidence, the Merit Systems Protection Board shall not mitigate the penalty prescribed by the Secretary.
+(C) Notwithstanding title 5 or any other provision of law, if the decision of the Secretary issupported by substantial evidence, the Merit Systems Protection Board shall not mitigate the penalty prescribed by the Secretary.
 
 (4) In any case in which the administrative judge cannot issue a decision in accordance with the 180-day requirement under paragraph (1), the Merit Systems Protection Board shall, not later than 14 business days after the expiration of the 180-day period, submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report that explains the reasons why a decision was not issued in accordance with such requirement.
 
@@ -62,7 +62,7 @@ Expedited Review.—(1) Upon receipt of an appeal under subsection (c)(4)(A), th
 
 (7) During the period beginning on the date on which a covered individual appeals a removal from the civil service under subsection (c) and ending on the date that the United States Court of Appeals for the Federal Circuit issues a final decision on such appeal, such covered individual may not receive any pay, awards, bonuses, incentives, allowances, differentials, student loan repayments, special payments, or benefits related to the employment of the individual by the Department.
 
-(8) To the maximum extent practicable, the Secretary shall provide to the Merit SystemsProtection Board such information and assistance as may be necessary to ensure an appeal under this subsection is expedited.
+(8) To the maximum extent practicable, the Secretary shall provide to the Merit Systems Protection Board such information and assistance as may be necessary to ensure an appeal under this subsection is expedited.
 
 (9) If an employee prevails on appeal under this section, the employee shall be entitled to backpay (as provided in section 5596 of title 5).
 
@@ -76,7 +76,7 @@ Whistleblower Protection.—(1) In the case of a covered individual seeking corr
 
 &emsp;(A) in the case in which the Assistant Secretary determines to refer the whistleblower disclosure under section 323(c)(1)(D) of this title to an office or other investigative entity, a final decision with respect to the whistleblower disclosure has been made by such office or other investigative entity; or
 
-&emsp;(B) in the case in which the Assistant Secretary determines not to the <sup>1</sup> refer the whistleblower disclosure under such section, the Assistant Secretary makes such determination.
+&emsp;(B) in the case in which the Assistant Secretary determines not to refer the whistleblower disclosure under such section, the Assistant Secretary makes such determination.
 
 (f)
 
@@ -118,11 +118,13 @@ Definitions.—In this section:
 
 &emsp;(6) The term "whistleblower disclosure" has the meaning given such term in section 323(g) of this title.
 
-(Added Pub. L. 115–41, title II, §202(a), June 23, 2017, 131 Stat. 869.)
+(Added Pub. L. 115–41, title II, §202(a), June 23, 2017, 131 Stat. 869; amended Pub. L. 116–61, §6(1), Sept. 30, 2019, 133 Stat. 1116.)
 
 #### Prior Provisions
 
 A prior section 714 was renumbered section 1914 of this title.
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Amendments
+
+<b>2019</b>—Subsec. (e)(2)(B). Pub. L. 116–61 substituted "to refer" for "to the refer".
 

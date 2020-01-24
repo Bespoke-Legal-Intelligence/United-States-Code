@@ -22,9 +22,9 @@ The depository accounts of the Corporation shall be kept with the Treasurer of t
 
 &emsp;(B) if, with respect to an insured bank in default, such action is taken to restore such insured bank to normal operation; or
 
-&emsp;(C) if, when severe financial conditions exist which threaten the stability of a significant number of insured depository institutions orof insured depository institutions possessing significant financial resources, such action is taken in order to lessen the risk to the Corporation posed by such insured depository institution under such threat of instability.
+&emsp;(C) if, when severe financial conditions exist which threaten the stability of a significant number of insured depository institutions or of insured depository institutions possessing significant financial resources, such action is taken in order to lessen the risk to the Corporation posed by such insured depository institution under such threat of instability.
 
-(2)(A) In order to facilitate a merger or consolidation of another <sup>1</sup> insured depository institution described in subparagraph (B) with another insured depository institution or the sale of any or all of the assets of such insured depository institution or the assumption of any or all of such insured depository institution's liabilities by another insured depository institution, or the acquisition of the stock of such insured depository institution, the Corporation is authorized, in its sole discretion and upon such terms and conditions as the Board of Directors may prescribe—
+(2)(A) In order to facilitate a merger or consolidation of another <sup>1</sup> insured depository institution described in subparagraph (B) with another insured depository institution or the saleof any or all of the assets of such insured depository institution or the assumption of any or all of such insured depository institution's liabilities by another insured depository institution, or the acquisition of the stock of such insured depository institution, the Corporation is authorized, in its sole discretion and upon such terms and conditions as the Board of Directors may prescribe—
 
 &emsp;(i) to purchase any such assets or assume any such liabilities;
 
@@ -96,7 +96,7 @@ Rule for liquidations.—For purposes of this subsection, the determination of t
 
 &emsp;(D)
 
-Liquidation costs.—In determining the cost of liquidating any depository institution for the purpose of comparing the costs undersubparagraph (A) (with respect to such institution), the amount of such cost may not exceed the amount which is equal to the sum of the insured deposits of such institution as of the earliest of the dates described in subparagraph (C), minus the present value of the total net amount the Corporation reasonably expects to receive from the disposition of the assets of such institution in connection with such liquidation.
+Liquidation costs.—In determining the cost of liquidating any depository institution for the purpose of comparing the costs under subparagraph (A) (with respect to such institution), the amount of such cost may not exceed the amount which is equal to the sum of the insured deposits of such institution as of the earliest of the dates described in subparagraph (C), minus the present value of the total net amount the Corporation reasonably expects to receive from the disposition of the assets of such institution in connection with such liquidation.
 
 &emsp;(E)
 
@@ -260,11 +260,11 @@ Unenforceability of certain agreements.—No provision contained in any existing
 
 #### (C) Fiduciary responsibility
 
-&emsp;&emsp;In exercising any right, power, privilege, or authority described in subparagraph (A),the Corporation shall continue to be subject to the fiduciary duties and obligations of the Corporation as receiver to claimants against the insured depository institution in receivership.
+&emsp;&emsp;In exercising any right, power, privilege, or authority described in subparagraph (A), the Corporation shall continue to be subject to the fiduciary duties and obligations of the Corporation as receiver to claimants against the insured depository institution in receivership.
 
 #### (D) Disposition of assets
 
-&emsp;&emsp;In exercising any right, power, privilege, or authority described in subparagraph (A) regarding the sale or disposition of assets sold to the Corporation pursuant to paragraph (1), the Corporation shall conduct its operations in a manner which—
+&emsp;&emsp;In exercising any right, power, privilege, or authority described in subparagraph (A)regarding the sale or disposition of assets sold to the Corporation pursuant to paragraph (1), the Corporation shall conduct its operations in a manner which—
 
 &emsp;&emsp;&emsp;(i) maximizes the net present value return from the sale or disposition of such assets;
 
@@ -400,7 +400,7 @@ Certain State Interstate Banking Laws Inapplicable.—Any holding company which 
 
 (5) In determining whether to arrange a sale of assets and assumption of liabilities or an acquisition or a merger under the authority of paragraph (2) or (3), the Corporation may solicit such offers or proposals as are practicable from any prospective purchasers or merger partners it determines, in its sole discretion, are both qualified and capable of acquiring the assets and liabilities of the bank in default or the bank in danger of default.
 
-(6)(A) If, after receiving offers, the offer presenting the lowest expense to the Corporation,that is in a form and with conditions acceptable to the Corporation (hereinafter referred to as the "lowest acceptable offer"), is from an offeror that is not an existing in-State bank of the same type as the bank that is in default or is in danger of default (or, where the bank is an insured bank other than a mutual savings bank, the lowest acceptable offer is not from an in-State holding company), the Corporation shall permit the offeror which made the initial lowest acceptable offer and each offeror who made an offer the estimated cost of which to the Corporation was within 15 per centum or $15,000,000, whichever is less, of the initial lowest acceptable offer to submit a new offer.
+(6)(A) If, after receiving offers, the offer presenting the lowest expense to the Corporation, that is in a form and with conditions acceptable to the Corporation (hereinafter referred to as the "lowest acceptable offer"), is from an offeror that is not an existing in-State bank of the same type as the bank that is in default or is in danger of default (or, where the bank is an insured bank other than a mutual savings bank, the lowest acceptable offer is not from an in-State holding company), the Corporation shall permit the offeror which made the initial lowest acceptable offer and each offeror who made an offer the estimated cost of which to the Corporation was within 15 per centum or $15,000,000, whichever is less, of the initial lowest acceptable offer to submit a new offer.
 
 (B) In considering authorizations under this subsection, the Corporation shall give consideration to the need to minimize the cost of financial assistance and to the maintenance of specialized depository institutions. The Corporation shall authorize transactions under this subsection considering the following priorities:
 

@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (1) Qualified timber property
 
-&emsp;The term "qualified timber property" means a woodlot or other site located in the UnitedStates which will contain trees in significant commercial quantities and which is held by the taxpayer for the planting, cultivating, caring for, and cutting of trees for sale or use in the commercial production of timber products.
+&emsp;The term "qualified timber property" means a woodlot or other site located in the United States which will contain trees in significant commercial quantities and which is held by the taxpayer for the planting, cultivating, caring for, and cutting of trees for sale or use in the commercial production of timber products.
 
 #### (2) Amortizable basis
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, ex
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) ofPub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
+Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
 #### Effective Date
 

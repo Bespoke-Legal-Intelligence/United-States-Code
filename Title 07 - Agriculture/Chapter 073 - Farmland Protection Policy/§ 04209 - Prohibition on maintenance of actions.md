@@ -1,6 +1,6 @@
 ### §4209. Prohibition on maintenance of actions
 
-This chapter shall not be deemed to provide a basis for any action, either legal or equitable, byany person or class of persons challenging a Federal project, program, or other activity that may affect farmland: <i>Provided</i>, That the Governor of an affected State where a State policy or program exists to protect farmland may bring an action in the Federal district court of the district where a Federal program is proposed to enforce the requirements of section 4202 of this title and regulations issued pursuant thereto.
+This chapter shall not be deemed to provide a basis for any action, either legal or equitable, by any person or class of persons challenging a Federal project, program, or other activity that may affect farmland: <i>Provided</i>, That the Governor of an affected State where a State policy or program exists to protect farmland may bring an action in the Federal district court of the district where a Federal program is proposed to enforce the requirements of section 4202 of this title and regulations issued pursuant thereto.
 
 (Pub. L. 97–98, title XV, §1548, Dec. 22, 1981, 95 Stat. 1344; Pub. L. 99–198, title XII, §1255(b), Dec. 23, 1985, 99 Stat. 1518.)
 

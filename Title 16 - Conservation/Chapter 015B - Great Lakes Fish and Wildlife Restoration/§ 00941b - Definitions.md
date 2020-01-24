@@ -26,7 +26,7 @@ In this chapter—
 
 &emsp;(12) the term "upper Great Lakes" means that portion of the Great Lakes Basin which is upstream from the confluence of the Saint Clair River and Lake Huron near Port Huron, Michigan.
 
-(Pub. L. 101–537, title I, §1004, Nov. 8, 1990, 104 Stat. 2371; Pub. L. 101–646, title II, §2004, Nov. 29, 1990, 104 Stat. 4774; Pub. L. 104–332, §2(h)(1), Oct.26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§3(b), 5, Oct. 19, 1998, 112 Stat. 2358, 2359; Pub. L. 109–326, §3, Oct. 11, 2006, 120 Stat. 1761.)
+(Pub. L. 101–537, title I, §1004, Nov. 8, 1990, 104 Stat. 2371; Pub. L. 101–646, title II, §2004, Nov. 29, 1990, 104 Stat. 4774; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§3(b), 5, Oct. 19, 1998, 112 Stat. 2358, 2359; Pub. L. 109–326, §3, Oct. 11, 2006, 120 Stat. 1761.)
 
 #### Codification
 
@@ -34,7 +34,7 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substanti
 
 #### Amendments
 
-<b>2006</b>—Pars. (1) to (3). Pub. L. 109–326, §3(1), (2), redesignated pars. (2), (3), and (5) as (1) to (3), respectively, and struck out former par. (1) which defined the term "Administrator".
+<b>2006</b>—Pars. (1) to (3). Pub. L. 109–326, §3(1), (2), redesignated pars. (2), (3), and (5) as (1) to (3), respectively, andstruck out former par. (1) which defined the term "Administrator".
 
 Par. (4). Pub. L. 109–326, §3(3), inserted before semicolon at end ", and that has Great Lakes fish and wildlife management authority in the Great Lakes Basin".
 

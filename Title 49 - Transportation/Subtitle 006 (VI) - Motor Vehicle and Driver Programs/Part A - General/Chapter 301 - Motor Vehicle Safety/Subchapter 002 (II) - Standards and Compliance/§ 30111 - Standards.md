@@ -34,7 +34,7 @@ Motor Vehicle Safety Guidelines.—
 
 &emsp;(1)
 
-In general.—No guidelines issued by the Secretary with respect to motor vehicle safety shall confer any rights on any person, State, or locality, nor shall operate to bind the Secretary or any person to the approach recommended in such guidelines. In any enforcement action with respect to motor vehicle safety, the Secretary shall allege a violation of a provision of this subtitle, a motor vehiclesafety standard issued under this subtitle, or another relevant statute or regulation. The Secretary may not base an enforcement action on, or execute a consent order based on, practices that are alleged to be inconsistent with any such guidelines, unless the practices allegedly violate a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation.
+In general.—No guidelines issued by the Secretary with respect to motor vehicle safety shall confer any rights on any person, State, or locality, nor shall operate to bind the Secretary or any person to the approach recommended in such guidelines. In any enforcement action with respect to motor vehicle safety, the Secretary shall allege a violation of a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation. The Secretary may not base an enforcement action on, or execute a consent order based on, practices that are alleged to be inconsistent with any such guidelines, unless the practices allegedly violate a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation.
 
 &emsp;(2)
 
@@ -92,7 +92,7 @@ In subsection (c), the words "departments, agencies, and instrumentalities of th
 
 In subsection (d), the words "The Secretary" are added for clarity. The words "effective date" are substituted for "the date . . . is to take effect" to eliminate unnecessary words. The words "under this chapter" are added for clarity. The words "However, the Secretary may prescribe a different effective date" are substituted for "unless the Secretary" for clarity. The word "different" is substituted for "earlier or later" to eliminate unnecessary words.
 
-In subsection (e), the words "duties and powers" are substituted for "responsibilities", and the word "change" is substituted for "adjust", and for clarity and consistency in the revised title.
+In subsection (e), the words "duties and powers" are substituted for "responsibilities", and the word"change" is substituted for "adjust", and for clarity and consistency in the revised title.
 
 #### References in Text
 
@@ -298,7 +298,7 @@ Phase-in period required.—The safety standards prescribed pursuant to subsecti
 
 &emsp;"(2)
 
-Phase-in priorities.—In establishing the phase-in period of the rearward visibility safety standards required under subsection (b), the Secretary shall consider whether to require the phase-in according to different types of motor vehicles based on data demonstrating the frequency by which various types of motor vehicles have been involved in backing incidents resulting in injury or death. If the Secretary determines that any type of motor vehicle should be given priority, the Secretary shall issue regulations that specify—
+Phase-in priorities.—In establishing the phase-in period of the rearward visibility safety standards required under subsection (b), the Secretary shall consider whether to require the phase-in according to different types of motor vehicles basedon data demonstrating the frequency by which various types of motor vehicles have been involved in backing incidents resulting in injury or death. If the Secretary determines that any type of motor vehicle should be given priority, the Secretary shall issue regulations that specify—
 
 &emsp;&emsp;"(A) which type or types of motor vehicles shall be phased-in first; and
 
@@ -362,7 +362,7 @@ Availability.—The Secretary shall make the information contained in the databa
 
 "(a)
 
-In General.—Not later than 9 months after the date of the enactment of this Act \[Feb. 28, 2008\], theSecretary shall provide information about hazards to children in nontraffic, noncrash incident situations by—
+In General.—Not later than 9 months after the date of the enactment of this Act \[Feb. 28, 2008\], the Secretary shall provide information about hazards to children in nontraffic, noncrash incident situations by—
 
 &emsp;"(1) supplementing an existing consumer information program relating to child safety; or
 

@@ -8,55 +8,13 @@ From funds reserved pursuant to section 2321(a)(1)(A) of this title, the Secreta
 
 &emsp;(2) make a grant in the amount of $350,000 to each of American Samoa and the Commonwealth of the Northern Mariana Islands; and
 
-&emsp;(3) make a grant of $160,000 to the Republic of Palau, subject to subsection (d).
+&emsp;(3) make a grant of $160,000 to the Republic of Palau, subject to subsection (b).
 
-#### (b) Remainder
-
-#### (1) First year
-
-&emsp;Subject to subsection (a), for the first fiscal year following August 12, 2006, the Secretary shall make a grant of the remainder of funds reserved pursuant to section 2321(a)(1)(A) of this title to the Pacific Region Educational Laboratory in Honolulu, Hawaii, to make grants for career and technical education and training in Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, for the purpose of providing direct career and technical educational services, including—
-
-&emsp;&emsp;(A) teacher and counselor training and retraining;
-
-&emsp;&emsp;(B) curriculum development; and
-
-&emsp;&emsp;(C) the improvement of career and technical education and training programs in secondary schools and institutions of higher education, or improving cooperative education programs involving secondary schools and institutions of higher education.
-
-#### (2) Subsequent years
-
-&emsp;Subject to subsection (a), for the second fiscal year following August 12, 2006, and each subsequent year, the Secretary shall make a grant of the remainder of funds reserved pursuant to section 2321(a)(1)(A) of this title and subject to subsection (a), in equal proportion, to each of Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, to be used to provide direct career and technical educational services as described in subparagraphs (A) through (C) of paragraph (1).
-
-#### (c) Limitation
-
-The Pacific Region Educational Laboratory may use not more than 5 percent of the funds received under subsection (b)(1) for administrative costs.
-
-#### (d) Restriction
+#### (b) Restriction
 
 The Republic of Palau shall cease to be eligible to receive funding under this section upon entering into an agreement for an extension of United States educational assistance under the Compact of Free Association, unless otherwise provided in such agreement.
 
 (Pub. L. 88–210, title I, §115, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 706; amended Pub. L. 115–224, title I, §114, July 31, 2018, 132 Stat. 1597.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–224, §4, title I, §114, July 31, 2018, 132 Stat. 1564, 1597, made amendments to this section, effective July 1, 2019. After July 1, 2019, this section will read as follows:</i>
-
-#### <i>§2325. Assistance for the outlying areas</i>
-
-#### <i>(a) Outlying areas</i>
-
-<i>From funds reserved pursuant to section 2321(a)(1)(A) of this title, the Secretary shall—</i>
-
-&emsp;<i>(1) make a grant in the amount of $660,000 to Guam;</i>
-
-&emsp;<i>(2) make a grant in the amount of $350,000 to each of American Samoa and the Commonwealth of the Northern Mariana Islands; and</i>
-
-&emsp;<i>(3) make a grant of $160,000 to the Republic of Palau, subject to subsection (b).</i>
-
-#### <i>(b) Restriction</i>
-
-<i>The Republic of Palau shall cease to be eligible to receive funding under this section upon entering into an agreement for an extension of United States educational assistance under the Compact of Free Association, unless otherwise provided in such agreement.</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 #### Prior Provisions
 

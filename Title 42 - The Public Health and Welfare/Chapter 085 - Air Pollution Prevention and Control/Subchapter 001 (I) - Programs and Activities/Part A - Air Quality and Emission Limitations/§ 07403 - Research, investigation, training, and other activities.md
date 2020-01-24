@@ -172,7 +172,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 &emsp;(A) Review of the status of research activities conducted to date under the comprehensive research plan developed pursuant to the Acid Precipitation Act of 1980 \[42 U.S.C. 8901 et seq.\], and development of a revised plan that identifies significant research gaps and establishes a coordinated program to address current and future research priorities. A draft of the revised plan shall be submitted by the Task Force to Congress within 6 months after November 15, 1990. The plan shall be available for public comment during the 60 day period after its submission, and a final plan shall be submitted by the President to the Congress within 45 days after the close of the comment period.
 
-&emsp;(B) Coordination with participating Federal agencies, augmenting the agencies' researchand monitoring efforts and sponsoring additional research in the scientific community as necessary to ensure the availability and quality of data and methodologies needed to evaluate the status and effectiveness of the acid deposition control program. Such research and monitoring efforts shall include, but not be limited to—
+&emsp;(B) Coordination with participating Federal agencies, augmenting the agencies' research and monitoring efforts and sponsoring additional research in the scientific community as necessary to ensure the availability and quality of data and methodologies needed to evaluate the status and effectiveness of the acid deposition control program. Such research and monitoring efforts shall include, but not be limited to—
 
 &emsp;&emsp;(i) continuous monitoring of emissions of precursors of acid deposition;
 
@@ -224,7 +224,7 @@ Section was formerly classified to section 1857b of this title.
 
 Provisions similar to those in subsec. (a)(3) of this section were contained in subsec. (a) of a prior section 1857b of this title, act July 14, 1955, ch. 360, §3, 69 Stat. 322, as amended Oct. 9, 1962, Pub. L. 87–761, §2, 76 Stat. 760, prior to the general amendment of this chapter by Pub. L. 88–206.
 
-Provisions similar to those in this section were contained in prior sections 1857a to 1857d of this title, actJuly 14, 1955, ch. 360, §§2 to 5, 69 Stat. 322 (section 1857b as amended Oct. 9, 1962, Pub. L. 87–761, §2, 76 Stat. 760; section 1857d as amended Sept. 22, 1959, Pub. L. 86–365, §1, 73 Stat. 646 and Oct. 9, 1962, Pub. L. 87–761, §1, 76 Stat. 760), prior to the general amendment of this chapter by Pub. L. 88–206.
+Provisions similar to those in this section were contained in prior sections 1857a to 1857d of this title, act July 14, 1955, ch. 360, §§2 to 5, 69 Stat. 322 (section 1857b as amended Oct. 9, 1962, Pub. L. 87–761, §2, 76 Stat. 760; section 1857d as amended Sept. 22, 1959, Pub. L. 86–365, §1, 73 Stat. 646 and Oct. 9, 1962, Pub. L. 87–761, §1, 76 Stat. 760), prior to the general amendment of this chapter by Pub. L. 88–206.
 
 #### Amendments
 
@@ -284,7 +284,7 @@ Pub. L. 106–246, div. B, title II, §2603, July 13, 2000, 114 Stat. 558, requi
 
 #### National Acid Lakes Registry
 
-Pub. L. 101–549, title IV, §405, Nov. 15, 1990, 104 Stat. 2632, provided that: "The Administrator of the Environmental Protection Agency shall create a National Acid Lakes Registry that shall list, to the extent practical, all lakes that are known to be acidified due to acid deposition, and shall publish such list within one year of the enactment of this Act \[Nov. 15, 1990\]. Lakes shall be added to the registry as they become acidic or as data becomes available to show they are acidic. Lakes shallbe deleted from the registry as they become nonacidic."
+Pub. L. 101–549, title IV, §405, Nov. 15, 1990, 104 Stat. 2632, provided that: "The Administrator of the Environmental Protection Agency shall create a National Acid Lakes Registry that shall list, to the extent practical, all lakes that are known to be acidified due to acid deposition, and shall publish such list within one year of the enactment of this Act \[Nov. 15, 1990\]. Lakes shall be added to the registry as they become acidic or as data becomes available to show they are acidic. Lakes shall be deleted from the registry as they become nonacidic."
 
 #### Assessment of International Air Pollution Control Technologies
 
@@ -294,7 +294,7 @@ Pub. L. 101–549, title IX, §901(e), Nov. 15, 1990, 104 Stat. 2706, directed A
 
 Pub. L. 101–549, title IX, §901(g), Nov. 15, 1990, 104 Stat. 2707, provided that:
 
-"(1) The Administrator of the Environmental Protection Agency shall sponsor monitoring and research and submit to Congress annual and periodic assessment reports on—
+"(1) The Administrator of the Environmental Protection Agency shall sponsor monitoring and research andsubmit to Congress annual and periodic assessment reports on—
 
 &emsp;"(A) the occurrence and effects of acid deposition on surface waters located in that part of the United States west of the Mississippi River;
 

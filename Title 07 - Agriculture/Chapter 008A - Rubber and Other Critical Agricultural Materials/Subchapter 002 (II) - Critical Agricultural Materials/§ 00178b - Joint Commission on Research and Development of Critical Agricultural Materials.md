@@ -30,7 +30,7 @@ The Joint Commission shall—
 
 #### (f) Administrative support services
 
-The Secretaries are authorized to provide without reimbursement such administrative support services, including the detail of staff personnel not to exceed a total of five persons from each Department, as the Joint Commission may need to carry out its functions.
+The Secretaries are authorized to provide without reimbursement such administrative support services, including the detail of staffpersonnel not to exceed a total of five persons from each Department, as the Joint Commission may need to carry out its functions.
 
 #### (g) Advice of scientific, engineering and business communities
 

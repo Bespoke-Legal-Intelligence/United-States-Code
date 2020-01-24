@@ -22,7 +22,7 @@ In this section, the term "Indian tribe" has the meaning given the term in secti
 
 &emsp;&emsp;(B) watershed assessments and planning activities; and
 
-&emsp;&emsp;(C) such other projects as the Secretary, in cooperation with Indian tribes and the heads of other Federal agencies, determines to be appropriate.
+&emsp;&emsp;(C) such other projects as the Secretary, in cooperation with Indian tribes and the headsof other Federal agencies, determines to be appropriate.
 
 #### (3) Feasibility study and reports
 
@@ -70,7 +70,7 @@ In this section, the term "Indian tribe" has the meaning given the term in secti
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The ability of a non-Federal interest to pay shall be determined by the Secretaryin accordance with procedures established by the Secretary.
+&emsp;&emsp;&emsp;The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.
 
 #### (ii) Determination
 

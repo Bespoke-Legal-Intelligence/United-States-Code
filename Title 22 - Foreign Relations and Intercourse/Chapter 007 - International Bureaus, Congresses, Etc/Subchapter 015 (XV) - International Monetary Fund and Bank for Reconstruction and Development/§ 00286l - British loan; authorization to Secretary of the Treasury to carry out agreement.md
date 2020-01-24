@@ -74,7 +74,7 @@ Forty-nine annual installments of principal repayments and interest shall be equ
 
 (iii) This section and section 9, which are in anticipation of more comprehensive arrangements by multilateral agreement, shall operate until December 31, 1951.
 
-9\. Import arrangements: If either the Government of the United States or the Government of the United Kingdom imposes or maintains quantitative import restrictions, such restrictions shall be administered on a basis which does not discriminate against imports from the other country in respect of any product; provided that this undertaking shall not apply in cases in which (a) its application would have the effect of preventing the country imposing such restrictions from utilizing, for the purchase of needed imports, inconvertible currencies accumulated up to December 31, 1946, or (b) there may be special necessity for the country imposing such restrictions to assist, by measures not involving a substantial departure from the general rule of non-discrimination, a country whose economy has been disrupted by war, or (c) either government imposes quantitative restrictions having equivalent effect to any exchange restrictions which that government is authorized to impose in conformity with Article VII of the Articles of Agreement of the International Monetary Fund. The provisions of this section shall become effective as soon as practicable but not later than December 31, 1946.
+9\. Import arrangements: If either the Government of the United States or the Government of the United Kingdom imposes or maintains quantitative import restrictions, such restrictions shall be administered on a basis which does not discriminate against imports from the other country in respect of any product; provided that this undertaking shall not apply in cases in which (a) its application would have the effect of preventing the country imposing such restrictions from utilizing,for the purchase of needed imports, inconvertible currencies accumulated up to December 31, 1946, or (b) there may be special necessity for the country imposing such restrictions to assist, by measures not involving a substantial departure from the general rule of non-discrimination, a country whose economy has been disrupted by war, or (c) either government imposes quantitative restrictions having equivalent effect to any exchange restrictions which that government is authorized to impose in conformity with Article VII of the Articles of Agreement of the International Monetary Fund. The provisions of this section shall become effective as soon as practicable but not later than December 31, 1946.
 
 10\. Accumulated sterling balances:
 
@@ -88,7 +88,7 @@ For the purposes of this Agreement:
 
 (i) The term "current transactions" shall have the meaning prescribed in Article XIX (i) of the Articles of Agreement of the International Monetary Fund.
 
-(ii) The term "sterling area" means the United Kingdom and the other territories declared by the Defence (Finance) Definition of the Sterling Area) (No. 2) Order,1944, to be included in the sterling area, namely "the following territories excluding Canada and Newfoundland, that is to say—
+(ii) The term "sterling area" means the United Kingdom and the other territories declared by the Defence (Finance) Definition of the Sterling Area) (No. 2) Order, 1944, to be included in the sterling area, namely "the following territories excluding Canada and Newfoundland, that is to say—
 
 (a) any Dominion,
 

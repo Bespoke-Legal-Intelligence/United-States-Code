@@ -28,7 +28,7 @@ Whenever the President determines it to be in furtherance of the purposes of thi
 
 #### (e) Allocation of funds
 
-The President may allocate or transfer to any agency of the United States Government any funds available for carrying out the purposes of this chapter including any advance received by the United States from any country or international organization under authority of this chapter, but not to exceed 20 per centum in the aggregate of such funds may be allocated or transferred to agencies other than the Peace Corps. Such funds shall be available for obligation and expenditure for the purposes of this chapter in accordance with authority granted in this chapter or under authority governing the activities of the agencies of the United States Government to which such funds are allocated or transferred.
+The President may allocate or transfer to any agency of the United States Government anyfunds available for carrying out the purposes of this chapter including any advance received by the United States from any country or international organization under authority of this chapter, but not to exceed 20 per centum in the aggregate of such funds may be allocated or transferred to agencies other than the Peace Corps. Such funds shall be available for obligation and expenditure for the purposes of this chapter in accordance with authority granted in this chapter or under authority governing the activities of the agencies of the United States Government to which such funds are allocated or transferred.
 
 #### (f) Utilization of other Government agency services and facilities
 
@@ -66,7 +66,7 @@ The provisions of section 2702 of this title shall apply to volunteers and perso
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act.For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 The Foreign Service Act of 1980, referred to in subsec. (a)(5), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 

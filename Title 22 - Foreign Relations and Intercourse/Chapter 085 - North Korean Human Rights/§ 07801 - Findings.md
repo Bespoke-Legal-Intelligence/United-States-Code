@@ -88,7 +88,7 @@ Pub. L. 115–198, §2, July 20, 2018, 132 Stat. 1519, provided that: "Congress 
 
 &emsp;"(5) North Korea profits from its human rights abuses. A 2014 report from the Asian Institute for Policy Studies suggests that there are nearly 50,000 North Korean workers forced to labor overseas, sometimes without compensation, and for as much as 20 hours at a time. Workers that received compensation were not to be paid more than $150 per month, which is between 10 to 20 percent of the value of the labor they performed. Based on this report, the regime may profit as much as $360,000,000 annually from just 50,000 laborers.
 
-&emsp;"(6) On July 6, 2016, the United States imposed sanctions on North Korean leader Kim Jong Un andother senior North Korean officials for human rights violations as required by the North Korea Sanctions and Policy Enhancement Act of 2016 (Public Law 114–122) \[22 U.S.C. 9201 et seq.\]. This was the first time that the United States had designated North Korean officials for human rights abuses.
+&emsp;"(6) On July 6, 2016, the United States imposed sanctions on North Korean leader Kim Jong Un and other senior North Korean officials for human rights violations as required by the North Korea Sanctions and Policy Enhancement Act of 2016 (Public Law 114–122) \[22 U.S.C. 9201 et seq.\]. This was the first time that the United States had designated North Korean officials for human rights abuses.
 
 &emsp;"(7) The North Korea Sanctions and Policy Enhancement Act of 2016 (Public Law 114–122) requires the President to impose mandatory penalties under United States law on any person that 'knowingly engages in, is responsible for, or facilitates serious human rights abuses by the Government of North Korea'.
 

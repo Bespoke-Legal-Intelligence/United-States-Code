@@ -16,7 +16,7 @@ A license, certificate of registry, or merchant mariner's document issued by the
 
 &emsp;(5) is a security risk that poses a threat to the safety or security of a vessel or a public or commercial structure located within or adjacent to the marine environment.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 546; Pub. L. 99–36, §1(a)(9)(E), May 15, 1985, 99 Stat. 68; Pub. L. 101–380, title IV, §4103(b), Aug. 18, 1990, 104 Stat. 511; Pub. L. 108–293, title IV, §408, title VI, §609(3), Aug. 9, 2004, 118 Stat. 1044, 1058; Pub. L. 109–241, title IX, §901(h)(3), July 11, 2006, 120 Stat. 564.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 546; Pub. L. 99–36, §1(a)(9)(E), May 15, 1985, 99 Stat. 68; Pub. L. 101–380, title IV, §4103(b), Aug. 18, 1990, 104 Stat. 511; Pub. L. 108–293, title IV, §408, title VI,§609(3), Aug. 9, 2004, 118 Stat. 1044, 1058; Pub. L. 109–241, title IX, §901(h)(3), July 11, 2006, 120 Stat. 564.)
 
 Historical and Revision Notes
 

@@ -1,6 +1,6 @@
 ### §8137. Regular Navy: officers designated for engineering duty, aeronautical engineering duty, and special duty
 
-(a) Persons may be originally appointed in the line of the Navy as regular officers designatedfor engineering duty, aeronautical engineering duty, or special duty.
+(a) Persons may be originally appointed in the line of the Navy as regular officers designated for engineering duty, aeronautical engineering duty, or special duty.
 
 (b) With the approval of the Secretary, a regular officer in the line of the Navy may, upon his application, be designated for engineering duty, aeronautical engineering duty, or special duty.
 

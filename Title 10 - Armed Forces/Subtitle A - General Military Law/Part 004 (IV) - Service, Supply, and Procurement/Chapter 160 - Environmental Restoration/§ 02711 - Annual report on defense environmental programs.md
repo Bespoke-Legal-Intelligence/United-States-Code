@@ -10,7 +10,7 @@ Report Required.—The Secretary of Defense shall submit to Congress each year, 
 
 &emsp;&emsp;&emsp;(i) The total number of sites in the Environmental Restoration Program.
 
-&emsp;&emsp;&emsp;(ii) The number of sites in the Environmental Restoration Program that have reached the Remedy in Place Stage and the Response Complete Stage, and the change in such numbers in the preceding fiscal year.
+&emsp;&emsp;&emsp;(ii) The number of sites in the Environmental Restoration Program that have reached the Remedy in Place Stage and the Response Complete Stage, and thechange in such numbers in the preceding fiscal year.
 
 &emsp;&emsp;&emsp;(iii) A statement of the amount of funds allocated by the Secretary for, and the anticipated progress in implementing, the Environmental Restoration Program during the fiscal year for which the budget is submitted.
 

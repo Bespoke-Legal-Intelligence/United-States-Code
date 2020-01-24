@@ -60,7 +60,7 @@ Energy Star products and FEMP designated products shall be clearly identified an
 
 &emsp;(B) determined by the Administrator of the Environmental Protection Agency to be environmentally safe; and
 
-&emsp;(C) shown to increase seasonal energy efficiency ratio (SEER) or energy efficiency ratio\(EER) when tested by the National Institute of Standards and Technology according to Department of Energy test procedures without causing any adverse impact on the system, system components, the refrigerant or lubricant, or other materials in the system.
+&emsp;(C) shown to increase seasonal energy efficiency ratio (SEER) or energy efficiency ratio (EER) when tested by the National Institute of Standards and Technology according to Department of Energy test procedures without causing any adverse impact on the system, system components, the refrigerant or lubricant, or other materials in the system.
 
 > &emsp;Results of testing described in subparagraph (C) shall be published in the Federal Register for public review and comment. For purposes of this section, a hardware device or primary refrigerant shall not be considered an additive.
 
@@ -108,7 +108,7 @@ Not later than 180 days after August 8, 2005, the Secretary shall issue guidelin
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1). Pub. L. 110–140, §525(a)(1), inserted "in a product category covered by the Energy Star program or the Federal Energy Management Program for designated products" after "energy consuming product" in introductory provisions.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–140, §525(a)(1), inserted "in a product category covered by the EnergyStar program or the Federal Energy Management Program for designated products" after "energy consuming product" in introductory provisions.
 
 Subsec. (c). Pub. L. 110–140, §525(a)(2), in second sentence, inserted "list in their catalogues, represent as available, and" after "shall" and substituted "in which the head of the agency" for "where the agency".
 

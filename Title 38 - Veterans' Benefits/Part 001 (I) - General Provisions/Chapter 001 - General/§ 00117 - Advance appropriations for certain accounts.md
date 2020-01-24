@@ -60,7 +60,7 @@ Amendment by Pub. L. 114–315 applicable to fiscal years beginning on and after
 
 Pub. L. 113–235, div. I, title II, §244(b), Dec. 16, 2014, 128 Stat. 2569, provided that: "Section 117 of title 38, United States Code, shall apply as follows:
 
-&emsp;"(1) With respect to an account described in paragraph (4), (5), or (6) of subsection (c) of such section,as redesignated by subsection (a) of this section, for each fiscal year beginning with fiscal year 2011.
+&emsp;"(1) With respect to an account described in paragraph (4), (5), or (6) of subsection (c) of such section, as redesignated by subsection (a) of this section, for each fiscal year beginning with fiscal year 2011.
 
 &emsp;"(2) With respect to an account described in paragraph (1), (2), or (3) of such subsection (c), as added by subsection (a) of this section, for each fiscal year beginning with 2017."
 

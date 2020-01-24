@@ -172,7 +172,7 @@ Sec. 7. <i>Initial Tasks of Council</i>. Within 180 days of the date of this ord
 
 (f) develop recommendations on how the public sector should engage with the private sector in worker re-training, including through the use of online learning resources. In developing these recommendations, the Council shall examine existing private sector efforts to re-train workers or develop them professionally, and consider how investments in worker training and re-training programs compare to investments in other human-resource related areas, such as recruitment, health benefits, and retirement benefits; and
 
-(g) examine public and private-sector expenditures, including tax expenditures, related to providing Americans with knowledge and skills that will enable them to succeed in the workplace at various stages of life (such as during primary and secondary education, postsecondary education, continuing professional development, and re-training), consider the effectiveness ofthose expenditures, and make suggestions for reforms in order to serve American workers and students better.
+(g) examine public and private-sector expenditures, including tax expenditures, related to providing Americans with knowledge and skills that will enable them to succeed in the workplace at various stages of life (such as during primary and secondary education, postsecondary education, continuing professional development, and re-training), consider the effectiveness of those expenditures, and make suggestions for reforms in order to serve American workers and students better.
 
 Sec. 8. <i>Establishment of the American Workforce Policy Advisory Board</i>. (a) There is hereby established the American Workforce Policy Advisory Board.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Assistance made available under grants awarded under this subpart shall be directed to the chief elected official of the city or urban county that administers the public health agency that provides outpatient and ambulatory services to the greatest number of individuals with AIDS, as reported to and confirmed by the Centers for Disease Control and Prevention, in the eligible area that is awarded such a grant.
+&emsp;Assistance made available under grants awarded under this subpart shall be directedto the chief elected official of the city or urban county that administers the public health agency that provides outpatient and ambulatory services to the greatest number of individuals with AIDS, as reported to and confirmed by the Centers for Disease Control and Prevention, in the eligible area that is awarded such a grant.
 
 #### (2) Requirements
 
@@ -130,7 +130,7 @@
 
 #### (B) Required agreements
 
-&emsp;&emsp;An individual may serve on the planning council under paragraph (1) only if the individual agrees that if the individual has a financial interest in an entity, if the individual is an employee of a public or private entity, or if the individual is a member of a public or private organization, and such entity or organization is seeking amounts from a grant under section 300ff–11(a) of this title, the individual will not, with respect tothe purpose for which the entity seeks such amounts, participate (directly or in an advisory capacity) in the process of selecting entities to receive such amounts for such purpose.
+&emsp;&emsp;An individual may serve on the planning council under paragraph (1) only if the individual agrees that if the individual has a financial interest in an entity, if the individual is an employee of a public or private entity, or if the individual is a member of a public or private organization, and such entity or organization is seeking amounts from a grant under section 300ff–11(a) of this title, the individual will not, with respect to the purpose for which the entity seeks such amounts, participate (directly or in an advisory capacity) in the process of selecting entities to receive such amounts for such purpose.
 
 #### (C) Composition of council
 
@@ -302,7 +302,7 @@ Subsec. (b)(3)(A). Pub. L. 104–146, §3(b)(1)(C)(i), substituted "area, includ
 
 Subsec. (b)(3)(B). Pub. L. 104–146, §3(b)(1)(C)(ii), struck out "and" at end.
 
-Subsec. (b)(3)(C). Pub. L. 104–146, §3(b)(1)(C)(iii), substituted ", and at the discretion of the planning council, assess the effectiveness, either directly or throughcontractual arrangements, of the services offered in meeting the identified needs;" for period at end.
+Subsec. (b)(3)(C). Pub. L. 104–146, §3(b)(1)(C)(iii), substituted ", and at the discretion of the planning council, assess the effectiveness, either directly or through contractual arrangements, of the services offered in meeting the identified needs;" for period at end.
 
 Subsec. (b)(3)(D), (E). Pub. L. 104–146, §3(b)(1)(C)(iv), added subpars. (D) and (E).
 

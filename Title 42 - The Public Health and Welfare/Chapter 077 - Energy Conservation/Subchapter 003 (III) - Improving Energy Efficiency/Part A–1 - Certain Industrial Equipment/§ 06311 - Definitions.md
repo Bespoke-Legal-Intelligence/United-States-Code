@@ -34,7 +34,7 @@ For purposes of this part—
 
 &emsp;&emsp;(ii) which, to any significant extent, is distributed in commerce for industrial or commercial use; and
 
-&emsp;&emsp;(iii) which is not a "covered product" as defined in section 6291(a)(2) of this title, other than a component of a covered productwith respect to which there is in effect a determination under section 6312(c) of this title;
+&emsp;&emsp;(iii) which is not a "covered product" as defined in section 6291(a)(2) of this title, other than a component of a covered product with respect to which there is in effect a determination under section 6312(c) of this title;
 
 > &emsp;without regard to whether such article is in fact distributed in commerce for industrial or commercial use.
 
@@ -214,7 +214,7 @@ Exclusion.—The terms "walk-in cooler" and "walk-in freezer" do not include pro
 
 &emsp;&emsp;(B) is designed for use in—
 
-&emsp;&emsp;&emsp;(i) applications in which the occupants of more than one household will be using the clothes washer, such as multi-family housing common areas and coin laundries; or
+&emsp;&emsp;&emsp;(i) applications in which the occupants of more than one household will be using the clothes washer, such as multi-familyhousing common areas and coin laundries; or
 
 &emsp;&emsp;&emsp;(ii) other commercial applications.
 

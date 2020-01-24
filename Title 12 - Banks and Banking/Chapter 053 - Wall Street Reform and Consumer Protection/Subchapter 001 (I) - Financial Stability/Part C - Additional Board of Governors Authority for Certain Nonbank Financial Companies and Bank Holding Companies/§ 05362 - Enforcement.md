@@ -8,7 +8,7 @@ Except as provided in subsection (b), a nonbank financial company supervised by 
 
 #### (1) Referral
 
-&emsp;If the Board of Governors determines that a condition, practice, or activity of a depository institution subsidiary or functionally regulated subsidiary of a nonbank financial company supervised by the Board of Governors does not comply with the regulations or orders prescribed by the Board of Governors underthis Act, or otherwise poses a threat to the financial stability of the United States, the Board of Governors may recommend, in writing, to the primary financial regulatory agency for the subsidiary that such agency initiate a supervisory action or enforcement proceeding. The recommendation shall be accompanied by a written explanation of the concerns giving rise to the recommendation.
+&emsp;If the Board of Governors determines that a condition, practice, or activity of a depository institution subsidiary or functionally regulated subsidiary of a nonbank financial company supervised by the Board of Governors does not comply with the regulations or orders prescribed by the Board of Governors under this Act, or otherwise poses a threat to the financial stability of the United States, the Board of Governors may recommend, in writing, to the primary financial regulatory agency for the subsidiary that such agency initiate a supervisory action or enforcement proceeding. The recommendation shall be accompanied by a written explanation of the concerns giving rise to the recommendation.
 
 #### (2) Back-up authority of the Board of Governors
 

@@ -64,7 +64,7 @@ In the case of any transfer described in subsection (a) of section 1041 (other t
 
 &emsp;(1) subsection (a) of this section shall not apply, and
 
-&emsp;(2) the same tax treatment with respect to the transferred installment obligation shallapply to the transferee as would have applied to the transferor.
+&emsp;(2) the same tax treatment with respect to the transferred installment obligation shall apply to the transferee as would have applied to the transferor.
 
 #### (h) Certain liquidating distributions by S corporations
 
@@ -136,13 +136,13 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 631(e)(9) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
-Pub. L. 99–514, title X, §1011(c)(1), Oct. 22, 1986, 100 Stat. 2389, provided that: "The amendments made by this section \[amending this section and sections 465, 801, 804 to 806, 813, and 815 of this title, enacting provisions set out as a note under section 801 of this title, and amending provisions set out as a note under section 806 of this title\] shall apply to taxable years beginning after December 31, 1986."
+Pub. L. 99–514, title X, §1011(c)(1), Oct. 22, 1986, 100 Stat. 2389, provided that: "The amendments made by this section \[amending this section and sections 465, 801, 804 to 806, 813, and 815 of this title, enacting provisions set out as a note under section 801 of this title,and amending provisions set out as a note under section 806 of this title\] shall apply to taxable years beginning after December 31, 1986."
 
 Amendment by section 1842(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 43(c)(2) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, seesection 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
+Amendment by section 43(c)(2) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
 Amendment by section 211(b)(6) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
 

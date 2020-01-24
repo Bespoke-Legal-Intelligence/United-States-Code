@@ -68,7 +68,7 @@ As used in this subpart:
 
 #### (A) In general
 
-&emsp;&emsp;The term "family reunification services" means the services and activities described in subparagraph (B) that are provided to a child that is removed from the child's home and placed in a foster family home or a child care institution or a child who has been returned home and to the parents or primary caregiver of such a child, in order to facilitate the reunification of the child safely and appropriately within a timely fashion and to ensure the strength and stability of the reunification. In the case of a child who has been returned home, the services and activities shall only be provided during the 15-month period that begins on the date that the child returns home.
+&emsp;&emsp;The term "family reunification services" means the services and activities described in subparagraph (B) that are provided to a child that is removed from the child's homeand placed in a foster family home or a child care institution or a child who has been returned home and to the parents or primary caregiver of such a child, in order to facilitate the reunification of the child safely and appropriately within a timely fashion and to ensure the strength and stability of the reunification. In the case of a child who has been returned home, the services and activities shall only be provided during the 15-month period that begins on the date that the child returns home.
 
 #### (B) Services and activities described
 

@@ -6,7 +6,7 @@ The Secretary shall permit hunting and fishing on lands and waters under his jur
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3467, known as the National Parks and Recreation Act of 1978. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3467, known as the National Parks andRecreation Act of 1978. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

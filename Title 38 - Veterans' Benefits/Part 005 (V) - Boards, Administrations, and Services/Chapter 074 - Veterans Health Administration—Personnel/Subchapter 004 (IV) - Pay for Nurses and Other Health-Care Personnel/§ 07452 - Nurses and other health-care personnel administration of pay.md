@@ -18,7 +18,7 @@
 
 (4) Whenever the director of a health-care facility makes an appointment described in paragraph (1) without prior approval at a higher level of authority within the Department, the director shall—
 
-&emsp;(A) state in a document the reasons for employing the employee in a covered position at a rate of pay in excess of the minimum rate of basic pay applicable to the grade in which the employee is appointed (and retain that document on file); and
+&emsp;(A) state in a document the reasons for employing the employee in a covered position ata rate of pay in excess of the minimum rate of basic pay applicable to the grade in which the employee is appointed (and retain that document on file); and
 
 &emsp;(B) in the first budget documents submitted to the Secretary by the director after the employee is employed, include documentation for the need for such increased rates of basic pay described in clause (A).
 

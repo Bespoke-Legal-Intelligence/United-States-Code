@@ -8,7 +8,7 @@
 
 #### (b) Pilot projects
 
-(1)(A) The Secretary may conduct on a trial basis, in one or more areas of the United States, pilot or experimental projects designed to test program changes that might increase the efficiency of the supplemental nutrition assistanceprogram and improve the delivery of supplemental nutrition assistance program benefits to eligible households, and may waive any requirement of this chapter to the extent necessary for the project to be conducted.
+(1)(A) The Secretary may conduct on a trial basis, in one or more areas of the United States, pilot or experimental projects designed to test program changes that might increase the efficiency of the supplemental nutrition assistance program and improve the delivery of supplemental nutrition assistance program benefits to eligible households, and may waive any requirement of this chapter to the extent necessary for the project to be conducted.
 
 (B)
 
@@ -94,7 +94,7 @@ Cash payment pilot projects.—Subject to the availability of appropriations und
 
 (C)(i) No waiver or demonstration program shall be approved under this chapter after November 28, 1990, unless—
 
-&emsp;(I) any household whose food assistance is issued in a form other than EBT cards has its allotment increased to the extent necessary to compensate for any State or local sales tax that may be collected in all or part of the area covered by the demonstration project, the tax on purchases of food by any such household is waived, or the Secretary determines on thebasis of information provided by the State agency that the increase is unnecessary on the basis of the limited nature of the items subject to the State or local sales tax; and
+&emsp;(I) any household whose food assistance is issued in a form other than EBT cards has its allotment increased to the extent necessary to compensate for any State or local sales tax that may be collected in all or part of the area covered by the demonstration project, the tax on purchases of food by any such household is waived, or the Secretary determines on the basis of information provided by the State agency that the increase is unnecessary on the basis of the limited nature of the items subject to the State or local sales tax; and
 
 &emsp;(II) the State agency conducting the demonstration project pays the cost of any increased allotments.
 
@@ -156,7 +156,7 @@ The Secretary shall develop and implement measures for evaluating, on an annual 
 
 #### (B) Requirement
 
-&emsp;&emsp;A State shall be eligible to carry out an employment initiatives program under this subsection only if not less than 50 percent of the households in the State that received supplemental nutrition assistance program benefits during the summer of 1993 also received benefits under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) during the summer of 1993.
+&emsp;&emsp;A State shall be eligible to carry out an employment initiatives program under thissubsection only if not less than 50 percent of the households in the State that received supplemental nutrition assistance program benefits during the summer of 1993 also received benefits under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) during the summer of 1993.
 
 #### (2) Procedure
 
@@ -206,7 +206,7 @@ The Secretary shall develop and implement measures for evaluating, on an annual 
 
 #### (e) Study and report to Congressional committees of effect of reduction of benefits
 
-The Secretary shall conduct a study of the effects of reductions made in benefits provided under this chapter pursuant to part 1 of subtitle A of title I of the Omnibus Budget Reconciliation Act of 1981, the Food Stamp and Commodity Distribution Amendments of 1981, the Food Stamp Act Amendments of 1982, and any other laws enacted by the Ninety-seventh Congress which affect the supplemental nutrition assistance program. The study shall include a study of the effect of retrospective accounting and periodic reporting procedures established under such Acts, including the impact on benefit and administrative costs and on error rates and the degree to which eligible households are denied supplemental nutrition assistance program benefits for failure to file complete periodic reports. The Secretary shall submit to the Committee on Agriculture of the House of Representatives andthe Committee on Agriculture, Nutrition, and Forestry of the Senate an interim report on the results of such study no later than February 1, 1984, and a final report on the results of such study no later than March 1, 1985.
+The Secretary shall conduct a study of the effects of reductions made in benefits provided under this chapter pursuant to part 1 of subtitle A of title I of the Omnibus Budget Reconciliation Act of 1981, the Food Stamp and Commodity Distribution Amendments of 1981, the Food Stamp Act Amendments of 1982, and any other laws enacted by the Ninety-seventh Congress which affect the supplemental nutrition assistance program. The study shall include a study of the effect of retrospective accounting and periodic reporting procedures established under such Acts, including the impact on benefit and administrative costs and on error rates and the degree to which eligible households are denied supplemental nutrition assistance program benefits for failure to file complete periodic reports. The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an interim report on the results of such study no later than February 1, 1984, and a final report on the results of such study no later than March 1, 1985.
 
 #### (f) Demonstration projects for development and use of intelligent benefit cards to pay benefits
 
@@ -340,7 +340,7 @@ The Secretary shall use up to $4,000,000 of the funds provided in advance in app
 
 #### (B) Mandatory funding
 
-&emsp;&emsp;Out of any funds made available under section 2027 of this title, on October 1, 2008, theSecretary shall make available $20,000,000 to carry out a project described in paragraph (3)(E), to remain available until expended.
+&emsp;&emsp;Out of any funds made available under section 2027 of this title, on October 1, 2008, the Secretary shall make available $20,000,000 to carry out a project described in paragraph (3)(E), to remain available until expended.
 
 #### (l) Cooperation with program research and evaluation
 
@@ -408,7 +408,7 @@ Subject to the requirements of this chapter, including protections under section
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (3) through (5), a State agency may, on approval by the Secretary, establish a longitudinal database thatcontains information about households and members of households that receive benefits under the supplemental nutrition assistance program in the State.
+&emsp;Subject to paragraphs (3) through (5), a State agency may, on approval by the Secretary, establish a longitudinal database that contains information about households and members of households that receive benefits under the supplemental nutrition assistance program in the State.
 
 #### (2) Purpose
 
@@ -642,7 +642,7 @@ Subsecs. (i) to (k). Pub. L. 107–171, §4116(b), redesignated subsecs. (j) and
 
 <b>1998</b>—Subsec. (b)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(2)(C)\], in second sentence, struck out "the Job Training Partnership Act or" before "title I of the Workforce".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(2)(C)\], in second sentence, substituted "to accept an offer of employment from a political subdivision or provider pursuant to a program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998," for "to accept an offer of employment from a political subdivision or a prime sponsor pursuant to the Comprehensive Employment and TrainingAct of 1973, as amended (29 U.S.C. 812)," and substituted ", if all of the jobs supported under the program have been made available to participants in the program before the political subdivision or provider providing the jobs extends an offer of employment under this paragraph, and if the political subdivision or provider, in employing the person, complies with the requirements of Federal law that relate to the program." for ": <i>Provided</i>, That all of the political subdivision's or prime sponsor's public service jobs supported under the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 812), are filled before such subdivision or sponsor can extend a job offer pursuant to this paragraph: <i>Provided further</i>, That the sponsor of each such project shall provide the assurances required of prime sponsors under section 205(c)(7), (8), (15), (19), and (24) of the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 845(c)), and the Secretary shall require such sponsors to comply with the conditions contained in sections 208(a)(1), (4), and (5) and (c) and 703(4) of the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 848(a) and (c) and 983)."
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(2)(C)\], in second sentence, substituted "to accept an offer of employment from a political subdivision or provider pursuant to a program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998," for "to accept an offer of employment from a political subdivision or a prime sponsor pursuant to the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 812)," and substituted ", if all of the jobs supported under the program have been made available to participants in the program before the political subdivision or provider providing the jobs extends an offer of employment under this paragraph, and if the political subdivision or provider, in employing the person, complies with the requirements of Federal law that relate to the program." for ": <i>Provided</i>, That all of the political subdivision's or prime sponsor's public service jobs supported under the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 812), are filled before such subdivision or sponsor can extend a job offer pursuant to this paragraph: <i>Provided further</i>, That the sponsor of each such project shall provide the assurances required of prime sponsors under section 205(c)(7), (8), (15), (19), and (24) of the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 845(c)), and the Secretary shall require such sponsors to comply with the conditions contained in sections 208(a)(1), (4), and (5) and (c) and 703(4) of the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 848(a) and (c) and 983)."
 
 <b>1997</b>—Subsec. (b)(1)(B)(iv)(VII). Pub. L. 105–18 added subcl. (VII).
 
@@ -712,7 +712,7 @@ Subsec. (f). Pub. L. 97–253, §190(d), redesignated subsec. (h) as (f). Former
 
 Subsecs. (g), (h). Pub. L. 97–253, §§181, 182, 190(d), added subsecs. (g) and (h) and redesignated them as (e) and (f), respectively.
 
-<b>1981</b>—Subsec. (b)(1). Pub. L. 97–98, §1328, substituted "may conduct" for "is authorized to conduct", "agesixty-five or over and any of whose members are entitled to supplemental security income benefits under title XVI of the Social Security Act or to aid to families with dependent children under part A of title IV of the Social Security Act" for "either age sixty-five or over or entitled to supplemental security income benefits under title XVI of the Social Security Act", and "October 1, 1985" for "October 1, 1981" and inserted "or the average value of allotments by household size" after "value of allotments", ", other than a project involving the payment of the average value of allotments by household size in the form of cash to eligible households," after "no project", "and operating as of October 1, 1981," after "under this paragraph" and "all of whose members are either age sixty-five or over or entitled to supplemental security income benefits under title XVI of the Social Security Act" before "shall be continued".
+<b>1981</b>—Subsec. (b)(1). Pub. L. 97–98, §1328, substituted "may conduct" for "is authorized to conduct", "age sixty-five or over and any of whose members are entitled to supplemental security income benefits under title XVI of the Social Security Act or to aid to families with dependent children under part A of title IV of the Social Security Act" for "either age sixty-five or over or entitled to supplemental security income benefits under title XVI of the Social Security Act", and "October 1, 1985" for "October 1, 1981" and inserted "or the average value of allotments by household size" after "value of allotments", ", other than a project involving the payment of the average value of allotments by household size in the form of cash to eligible households," after "no project", "and operating as of October 1, 1981," after "under this paragraph" and "all of whose members are either age sixty-five or over or entitled to supplemental security income benefits under title XVI of the Social Security Act" before "shall be continued".
 
 Subsec. (c). Pub. L. 97–98, §1329, inserted provision authorizing the Secretary to implement pilot programs to test various means of measuring on a continual basis the nutritional status of low income people in order to develop minimum common criteria and methods for systematic nutrition monitoring that could be applied on a nationwide basis and directing the Secretary to report on the progress of these pilot programs on an annual basis commencing on July 1, 1982, to designated Congressional committees.
 
@@ -776,7 +776,7 @@ Amendment by Pub. L. 97–253 effective Sept. 8, 1982, see section 193(a) of Pub
 
 Amendment by Pub. L. 97–98 effective on earlier of Sept. 8, 1982, or date such amendment became effective pursuant to section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title, see section 192(b) of Pub. L. 97–253, set out as a note under section 2012 of this title.
 
-Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agriculture may prescribe, taking intoaccount need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1980 Amendment
 

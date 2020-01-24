@@ -20,7 +20,7 @@ In this chapter:
 
 #### (5) Electronic receipt
 
-&emsp;The term "electronic receipt" means a receipt that is authorized by the Secretary to be issued or transmitted under this chapter in the form of an electronic document.
+&emsp;The term "electronic receipt" means a receipt that is authorized by the Secretary to beissued or transmitted under this chapter in the form of an electronic document.
 
 #### (6) Holder
 

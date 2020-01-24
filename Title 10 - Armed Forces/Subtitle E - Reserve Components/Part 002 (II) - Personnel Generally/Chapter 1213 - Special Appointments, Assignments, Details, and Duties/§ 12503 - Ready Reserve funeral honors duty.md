@@ -28,7 +28,7 @@ Regulations.—The exercise of authority under subsection (a) is subject to regu
 
 Members of the National Guard.—This section does not apply to members of the Army National Guard of the United States or the Air National Guard of the United States. The performance of funeral honors duty by those members is provided for in section 115 of title 32.
 
-(Added Pub. L. 106–65, div. A, title V, §578(g)(3), Oct. 5, 1999, 113 Stat. 628; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, §562(a), Dec. 28, 2001, 115 Stat. 1119; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Added Pub. L. 106–65, div. A, title V, §578(g)(3), Oct. 5, 1999, 113 Stat. 628; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, §562(a), Dec. 28, 2001, 115 Stat.1119; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
@@ -50,5 +50,5 @@ Pub. L. 107–107, div. A, title V, §562(c), Dec. 28, 2001, 115 Stat. 1120, pro
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §575(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, provided that: "Theamendments made by this section \[amending this section, section 115 of Title 32, National Guard, and section 435 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply with respect to funeral honors duty performed on or after October 1, 2000."
+Pub. L. 106–398, §1 \[\[div. A\], title V, §575(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, provided that: "The amendments made by this section \[amending this section, section 115 of Title 32, National Guard, and section 435 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply with respect to funeral honors duty performed on or after October 1, 2000."
 

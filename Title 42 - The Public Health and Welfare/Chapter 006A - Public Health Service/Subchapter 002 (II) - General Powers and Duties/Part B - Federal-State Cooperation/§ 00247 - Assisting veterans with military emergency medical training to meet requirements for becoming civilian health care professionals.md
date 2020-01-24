@@ -8,7 +8,7 @@
 
 #### (2) Consultation and collaboration
 
-&emsp;In determining the eligible military occupational specialties or training courses and the assistance required as described in paragraph (1), the Secretary shall consult with the Secretary of Defense, the Secretary of Veterans Affairs, and the Assistant Secretary of Labor for Veterans' Employment and Training, and shall collaborate with the initiatives carried out under section 4114 of title 38 and sections 1142 through 1144 of title 10.
+&emsp;In determining the eligible military occupational specialties or training courses and the assistance required as described in paragraph (1), the Secretary shall consult with the Secretary of Defense, the Secretary of VeteransAffairs, and the Assistant Secretary of Labor for Veterans' Employment and Training, and shall collaborate with the initiatives carried out under section 4114 of title 38 and sections 1142 through 1144 of title 10.
 
 #### (b) Use of funds
 

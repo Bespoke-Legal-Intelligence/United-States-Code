@@ -178,7 +178,7 @@ Reporting of Records.—
 
 &emsp;(1)
 
-In general.—Beginning 30 days after the date that the clearinghouse is established under subsection (a), a medical review officer, employer, service agent, and other appropriateperson, as determined by the Secretary, shall promptly submit to the Secretary any record generated after the clearinghouse is initiated of an individual who—
+In general.—Beginning 30 days after the date that the clearinghouse is established under subsection (a), a medical review officer, employer, service agent, and other appropriate person, as determined by the Secretary, shall promptly submit to the Secretary any record generated after the clearinghouse is initiated of an individual who—
 
 &emsp;&emsp;(A) refuses to take an alcohol or controlled substances test required under title 49, Code of Federal Regulations;
 
@@ -282,7 +282,7 @@ Protection of privacy of individuals.—A chief commercial driver's licensing of
 
 (i)
 
-National Transportation Safety Board.—The Secretary shall establish a process for the National Transportation Safety Board to request and receive an individual's record fromthe clearinghouse if the individual is involved in an accident that is under investigation by the National Transportation Safety Board.
+National Transportation Safety Board.—The Secretary shall establish a process for the National Transportation Safety Board to request and receive an individual's record from the clearinghouse if the individual is involved in an accident that is under investigation by the National Transportation Safety Board.
 
 (j)
 
@@ -406,7 +406,7 @@ The date of enactment of the Safe Roads Act of 2012, referred to in subsec. (a)(
 
 Section 226 of the Motor Carrier Safety Improvement Act of 1999, referred to in subsec. (b)(1)(A), is section 226 of Pub. L. 106–159, which is set out as a note under section 31306 of this title.
 
-The Privacy Act of 1974, referred to in subsec. (d)(1), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes undersection 552a of Title 5. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 552a of Title 5 and Tables.
+The Privacy Act of 1974, referred to in subsec. (d)(1), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 552a of Title 5 and Tables.
 
 The Fair Credit Reporting Act, referred to in subsec. (d)(2), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 

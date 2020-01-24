@@ -56,6 +56,9 @@
 | [226\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000226%20-%20Telephone%20operator%20services.md) | Telephone operator services. |
 | [227\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000227%20-%20Restrictions%20on%20use%20of%20telephone%20equipment.md) | Restrictions on use of telephone equipment. |
 | [227a.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000227a%20-%20Consumer%20education%20materials%20on%20how%20to%20avoid%20scams%20that%20rely%20upon%20misleading%20or%20inaccurate%20caller%20identification%20information.md) | Consumer education materials on how to avoid scams that rely upon misleading or inaccurate caller identification information. |
+| [227b.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000227b%20-%20Call%20authentication.md) | Call authentication. |
+| 227b–1. | Access to number resources. |
+| 227b–2. | Provision of evidence of certain robocall violations to Attorney General. |
 | [228\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000228%20-%20Regulation%20of%20carrier%20offering%20of%20pay-per-call%20services.md) | Regulation of carrier offering of pay-per-call services. |
 | [229\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000229%20-%20Communications%20Assistance%20for%20Law%20Enforcement%20Act%20compliance.md) | Communications Assistance for Law Enforcement Act compliance. |
 | [230\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000230%20-%20Protection%20for%20private%20blocking%20and%20screening%20of%20offensive%20material.md) | Protection for private blocking and screening of offensive material. |
@@ -338,6 +341,7 @@
 | [559\.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Cable%20Communications/Part%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000559%20-%20Obscene%20programming.md) | Obscene programming. |
 | [560\.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Cable%20Communications/Part%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000560%20-%20Scrambling%20of%20cable%20channels%20for%20nonsubscribers.md) | Scrambling of cable channels for nonsubscribers. |
 | [561\.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Cable%20Communications/Part%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000561%20-%20Scrambling%20of%20sexually%20explicit%20adult%20video%20service%20programming.md) | Scrambling of sexually explicit adult video service programming. |
+| [562\.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Cable%20Communications/Part%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000562%20-%20Requirements%20relating%20to%20charges%20for%20covered%20services.md) | Requirements relating to charges for covered services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

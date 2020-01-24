@@ -138,7 +138,7 @@ Consultation and report.—In entering into any arrangements with the National A
 
 &emsp;"(3)
 
-Authorization of appropriation.—In addition to amounts authorized under section 115 of the Hazardous Materials Transportation Act \[see 49 U.S.C. 5127(a)\], there is authorized to be appropriated to theSecretary of Transportation to carry out this subsection $350,000.
+Authorization of appropriation.—In addition to amounts authorized under section 115 of the Hazardous Materials Transportation Act \[see 49 U.S.C. 5127(a)\], there is authorized to be appropriated to the Secretary of Transportation to carry out this subsection $350,000.
 
 "(c)
 
@@ -180,7 +180,7 @@ Weight to be given to recommendations of nas.—In conducting the review and pre
 
 &emsp;"(3)
 
-Inclusion of reasons for not following recommendations.—If the Secretary does not include in the report prepared for submission to Congress under this subsection a recommendation for implementation of a recommendation contained in the report of the National Academy of Sciences submitted under subsection (b), the Secretary shall include in the report to Congress under this subsection the Secretary's reasons for not recommending implementation of the recommendation of the National Academy of Sciences."
+Inclusion of reasons for not following recommendations.—If the Secretary does not include in the report prepared for submission to Congress under this subsection a recommendation for implementation of a recommendation contained in the report of the National Academy of Sciences submitted undersubsection (b), the Secretary shall include in the report to Congress under this subsection the Secretary's reasons for not recommending implementation of the recommendation of the National Academy of Sciences."
 
 #### Continually Monitored Telephone Systems
 

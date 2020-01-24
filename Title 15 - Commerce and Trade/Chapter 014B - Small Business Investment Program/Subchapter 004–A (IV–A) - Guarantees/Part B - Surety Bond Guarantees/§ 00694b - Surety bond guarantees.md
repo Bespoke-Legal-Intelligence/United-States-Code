@@ -4,7 +4,7 @@
 
 (1)(A) The Administration may, upon such terms and conditions as it may prescribe, guarantee and enter into commitments to guarantee any surety against loss resulting from a breach of the terms of a bid bond, payment bond, performance bond, or bonds ancillary thereto, by a principal on any total work order or contract amount at the time of bond execution that does not exceed $6,500,000, as adjusted for inflation in accordance with section 1908 of title 41.
 
-(B) The Administrator may guarantee a surety under subparagraph (A) for a total work order or contract amount that does not exceed $10,000,000, if a contracting officer of a Federal agency certifies that such a guarantee is necessary.
+(B) The Administrator may guarantee a surety under subparagraph (A) for a total work order or contract amount that does not exceed $10,000,000, if a contracting officer of a Federalagency certifies that such a guarantee is necessary.
 
 (2) The terms and conditions of said guarantees and commitments may vary from surety to surety on the basis of the Administration's experience with the particular surety.
 
@@ -48,7 +48,7 @@ Any guarantee or agreement to indemnify under this section shall obligate the Ad
 
 &emsp;&emsp;(A) the total amount of the contract at the time of execution of the bond or bonds is $100,000 or less, or
 
-&emsp;&emsp;(B) the bond was issued to a small business concern owned and controlled by socially and economically disadvantaged individuals as defined by section 637(d) of this title, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title); or
+&emsp;&emsp;(B) the bond was issued to a small business concern owned and controlled by socially and economically disadvantaged individuals as defined by section 637(d) of this title, or to a qualified HUBZone small business concern (as defined in section 632(p) <sup>2</sup> of this title); or
 
 &emsp;(4) determined pursuant to subsection (b), if applicable.
 
@@ -58,7 +58,7 @@ The Administration may establish and periodically review regulations for partici
 
 #### (e) Reimbursement of surety; conditions
 
-Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety,as provided in subsection (c) of this section, except that the Administration shall be relieved of liability (in whole or in part within the discretion of the Administration) if—
+Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of liability (in whole or in part within the discretion of the Administration) if—
 
 &emsp;(1) the surety obtained such guarantee or agreement, or applied for such reimbursement, by fraud or material misrepresentation,
 
@@ -93,6 +93,10 @@ The provisions of section 693 of this title shall apply in the administration of
 For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guarantee application.
 
 (Pub. L. 85–699, title IV, §411, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, §111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, §115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, §18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§202–204, Nov. 3, 1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, §206(a), Sept. 30, 1996, 110 Stat. 3009–738; Pub. L. 105–135, title VI, §604(d), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–554, §1(a)(9) \[title VIII, §805(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–705; Pub. L. 108–447, div. K, title II, §203(a), (b), Dec. 8, 2004, 118 Stat. 3465, 3466; Pub. L. 111–5, div. A, title V, §508(a), (b), Feb. 17, 2009, 123 Stat. 158; Pub. L. 112–239, div. A, title XVI, §1695(a), (b), Jan. 2, 2013, 126 Stat. 2089, 2090; Pub. L. 114–92, div. A, title VIII, §874(b), Nov. 25, 2015, 129 Stat. 941.)
+
+#### References in Text
+
+Section 632(p) of this title, referred to in subsec. (c)(3)(B), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, §1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
 
 #### Amendments
 
@@ -144,7 +148,7 @@ Subsec. (g)(3). Pub. L. 108–447, §203(b), substituted "every three years" for
 
 Subsec. (b). Pub. L. 100–590, §203(c), added par. (2), redesignated former par. (2) as (3), struck out former par. (3) which prohibited the making subsequent to two years after Oct. 24, 1978, of new agreements to indemnify, and inserted concluding provision: "In no event shall the Administration pay a surety pursuant to this subsection an amount exceeding the guaranteed share of the bond available to such surety pursuant to subsection (a)."
 
-Subsec. (c). Pub. L. 100–590, §203(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Any guarantee or agreement to indemnify under this section shall obligate the Administration to pay to the surety a sum not to exceed (1) in the case of a breach of contract, 90 percent of the loss incurred and paid by the surety as the result of the breach; or (2) in a case in which subsection (b) of this section applies, the amount determined under subsection (b) of this section."
+Subsec. (c). Pub. L. 100–590, §203(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: "Any guarantee or agreement to indemnify under this section shall obligate the Administration to pay to the surety a sum not to exceed (1) in the case of a breach of contract, 90 percent of the loss incurred and paid by the surety as the result of the breach; or (2) in a case in which subsection (b) of this section applies, the amount determined under subsection (b) of this section."
 
 Subsec. (e)(3), (4). Pub. L. 100–590, §203(c), added pars. (3) and (4).
 
@@ -200,11 +204,13 @@ Pub. L. 100–590, title II, §205, Nov. 3, 1988, 102 Stat. 3009, provided that:
 
 #### Small Business Access to Surety Bonding Survey
 
-Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, known as the Small Business Access to Surety Bonding Survey Act of 1992, directed Comptroller General to conduct a comprehensive survey of business firms, from a statistically valid sample of business firms developed from the most recent list of construction firms maintained by Dun and Bradstreet Company and using a questionnaire with specifically designated questions, to obtain data on the experiences of such firms, and especially the experiences of small business concerns, in obtaining surety bonds from corporate surety firms and to submit a report to Congress, not later than 18 months after Sept. 4, 1992, which report was to contain a summary of responses of business firms to the survey and a description of any trends found by Comptroller General in such responses, which specific information on responses and trends of small businessconcerns, small business concerns owned and controlled by women, and small business concerns owned and controlled by socially and economically disadvantaged individuals.
+Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, known as the Small Business Access to Surety Bonding Survey Act of 1992, directed Comptroller General to conduct a comprehensive survey of business firms, from a statistically valid sample of business firms developed from the most recent list of construction firms maintained by Dun and Bradstreet Company and using a questionnaire with specifically designated questions, to obtain data on the experiences of such firms, and especially the experiences of small business concerns, in obtaining surety bonds from corporate surety firms and to submit a report to Congress, not later than 18 months after Sept. 4, 1992, which report was to contain a summary of responses of business firms to the survey and a description of any trends found by Comptroller General in such responses, which specific information on responses and trends of small business concerns, small business concerns owned and controlled by women, and small business concerns owned and controlled by socially and economically disadvantaged individuals.
 
 #### Evaluation of Preferred Surety Bond Guarantee Program; Report
 
 Pub. L. 100–590, title II, §206, Nov. 3, 1988, 102 Stat. 3009, as amended by Pub. L. 101–574, title II, §216(b), Nov. 15, 1990, 104 Stat. 2823, directed Comptroller General, not later than 3 years after Nov. 3, 1988, to transmit a report to Congress evaluating the preferred surety bond guarantee program, with such report to be transmitted not later than Mar. 1, 1994, and cover the period Oct. 1, 1990, through Sept. 30, 1993.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

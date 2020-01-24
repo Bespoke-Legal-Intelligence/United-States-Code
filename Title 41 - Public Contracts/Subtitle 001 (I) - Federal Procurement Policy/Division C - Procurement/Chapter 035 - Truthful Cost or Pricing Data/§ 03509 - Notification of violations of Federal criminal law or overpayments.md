@@ -6,13 +6,9 @@ Definition.—In this section, the term "covered contract" means any contract in
 
 (b)
 
-Federal Acquisition Regulation.—The Federal Acquisition Regulation shall include, pursuant to FAR Case 2007–006 (as published at 72 Fed. Reg. 64019, November 14, 2007) or any follow-on FAR case, provisions that require timely notification by Federal contractors of violations of Federal criminal law or overpayments in connection with the award or performance of covered contracts or subcontracts, including those performed outside the United States and those for commercial items.
+Federal Acquisition Regulation.—The Federal Acquisition Regulation shall include, pursuant to FAR Case 2007–006 (as published at 72 Fed. Reg. 64019, November 14, 2007) or any follow-on FAR case, provisions that require timely notification by Federal contractors of violations of Federal criminal law or overpayments in connection with the award or performance of covered contracts or subcontracts, including those performed outside the United States and those for commercial products or commercial services.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3770; Pub. L. 115–232, div. A, title VIII, §836(b)(14), Aug. 13, 2018, 132 Stat. 1864.)
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(14), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking "commercial items" and inserting "commercial products or commercial services". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 

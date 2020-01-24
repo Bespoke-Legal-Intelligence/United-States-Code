@@ -8,7 +8,7 @@
 
 &emsp;(2) the term "in any 1 year period" has the meaning given to the term "in any one-year period" in section 666.
 
-(Added Pub. L. 100–690, title VII, §7078(a), Nov. 18, 1988, 102 Stat. 4406; amended Pub. L. 103–322, title XXXII, §320609, Sept. 13, 1994, 108 Stat. 2120; Pub. L. 104–294, title VI, §604(b)(43), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 105–65, title V, §564, Oct. 27, 1997, 111 Stat. 1420; Pub. L. 106–569, title VII, §709(b), Dec. 27, 2000, 114 Stat. 3018; Pub. L. 107–273, div. A, title II, §205(c), Nov. 2, 2002, 116 Stat. 1778.)
+(Added Pub. L. 100–690, title VII, §7078(a), Nov. 18, 1988, 102 Stat. 4406; amended Pub. L. 103–322, title XXXII, §320609, Sept. 13, 1994, 108 Stat. 2120; Pub. L. 104–294, title VI, §604(b)(43), Oct. 11, 1996,110 Stat. 3509; Pub. L. 105–65, title V, §564, Oct. 27, 1997, 111 Stat. 1420; Pub. L. 106–569, title VII, §709(b), Dec. 27, 2000, 114 Stat. 3018; Pub. L. 107–273, div. A, title II, §205(c), Nov. 2, 2002, 116 Stat. 1778.)
 
 #### References in Text
 

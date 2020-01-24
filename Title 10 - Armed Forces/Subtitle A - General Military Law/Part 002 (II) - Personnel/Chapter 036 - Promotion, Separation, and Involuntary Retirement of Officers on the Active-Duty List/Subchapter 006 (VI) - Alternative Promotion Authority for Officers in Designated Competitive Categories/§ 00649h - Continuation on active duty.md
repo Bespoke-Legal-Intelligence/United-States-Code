@@ -14,7 +14,7 @@ In general.—Officers may be selected for continuation on active duty pursuant 
 
 &emsp;(2)
 
-Identification.—Before convening a selection board pursuant to section 611(b) of this title for purposes of selection of officers for continuation on active duty pursuant to this section, the Secretary of the military department concerned shall specify for purposes of the board the positions identified by the Secretary to which officers selected for continuation on active duty may be assigned.
+Identification.—Before convening a selection board pursuant to section 611(b) of thistitle for purposes of selection of officers for continuation on active duty pursuant to this section, the Secretary of the military department concerned shall specify for purposes of the board the positions identified by the Secretary to which officers selected for continuation on active duty may be assigned.
 
 (c)
 
@@ -22,7 +22,7 @@ Recommendation for Continuation.—A selection board may recommend an officer fo
 
 (d)
 
-Approval of Secretary of Military Department.—Continuation of an officer on activeduty under this section pursuant to the action of a selection board is subject to the approval of the Secretary of the military department concerned.
+Approval of Secretary of Military Department.—Continuation of an officer on active duty under this section pursuant to the action of a selection board is subject to the approval of the Secretary of the military department concerned.
 
 (e)
 

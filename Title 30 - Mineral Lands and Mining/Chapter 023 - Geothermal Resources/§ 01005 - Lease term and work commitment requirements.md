@@ -48,7 +48,7 @@ The Secretary shall by regulation establish transition rules for leases issued b
 
 #### (1) Exemption
 
-&emsp;The lessee for a geothermal lease of an area overlying an area subject to a mining claim for which a plan of operations has been approved by the relevant Federal land management agency is exempt from annual work requirements established under this chapter, if development of the geothermal resource subject to the lease would interfere with the mining operations under such claim.
+&emsp;The lessee for a geothermal lease of an area overlying an area subject to a mining claimfor which a plan of operations has been approved by the relevant Federal land management agency is exempt from annual work requirements established under this chapter, if development of the geothermal resource subject to the lease would interfere with the mining operations under such claim.
 
 #### (2) Termination of exemption
 
@@ -104,7 +104,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 &emsp;"(c) the lease would otherwise expire prior to December 31, 1988.
 
-"(2)(a) The Secretary of the Interior (hereinafter in this section referred to as 'the Secretary' shall publish for public comment in the Federal Register within 120 days after the date of enactment of this section \[Oct. 18, 1986\] a proposed list of significant thermal features within the following units of the National Park System:
+"(2)(a) The Secretary of the Interior (hereinafter in this section referred to as 'the Secretary' shall publish for public comment in the Federal Register within 120days after the date of enactment of this section \[Oct. 18, 1986\] a proposed list of significant thermal features within the following units of the National Park System:
 
 "Mount Rainier National Park;
 
@@ -166,7 +166,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 "(c) Upon receipt of an application for a geothermal lease the Secretary shall determine on the basis of scientific evidence if exploration, development, or utilization of the lands subject to the geothermal lease application is reasonably likely to result in a significant adverse effect on a significant thermal feature listed pursuant to subsection (a) of this section. Such determination shall be subject to notice and public comment. If the Secretary determines on the basis of scientific evidence that the exploration, development, or utilization of the land subject to the geothermal lease application is reasonably likely to result in a significant adverse effect on a significant thermal feature listed pursuant to subsection (a) of this section, the Secretary shall not issue such geothermal lease. In addition, the Secretary shall withdraw from leasing under the Geothermal Steam Act of 1970, as amended, those lands, or portion thereof, subject to the application for geothermal lease, the exploration, development, or utilization of which is reasonably likely to result, based on the Secretary's determination, in a significant adverse effect on a significant thermal feature listed pursuant to subsection (a) of this section.
 
-"(d) With respect to all geothermal leases issued after the date of enactment of this section \[Oct. 18, 1986\] the Secretary shall include stipulations in leases necessary to protect significant thermal features listed pursuant to subsection (a) of this section where a determination is made based on scientific evidence that theexploration, development, or utilization of the lands subject to the lease is reasonably likely to adversely affect such significant features. Such stipulations shall include, but are not limited to:
+"(d) With respect to all geothermal leases issued after the date of enactment of this section \[Oct. 18, 1986\] the Secretary shall include stipulations in leases necessary to protect significant thermal features listed pursuant to subsection (a) of this section where a determination is made based on scientific evidence that the exploration, development, or utilization of the lands subject to the lease is reasonably likely to adversely affect such significant features. Such stipulations shall include, but are not limited to:
 
 &emsp;"(1) requiring the lessee to reinject geothermal fluids into the rock formations from which they originate;
 

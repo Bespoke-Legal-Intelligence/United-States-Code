@@ -2,7 +2,7 @@
 
 #### (a) Appointment by Secretary of the Treasury
 
-The Secretary of the Treasury is authorized to appoint, in the service established by section 2071 of this title, one assistant commissioner, three deputy commissioners, one chief clerk, and such attorneys and other officers and employees as he may deem necessary. One of the deputy commissioners of the United States Customs Service shall have charge of investigations. Appointments under this subsection shall be subject to the provisions of the civil service laws, and the salaries shall be fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
+The Secretary of the Treasury is authorized to appoint, in the service established by section 2071 of this title, one assistant commissioner, three deputy commissioners, one chief clerk, and such attorneys and other officers and employees as he may deem necessary. One of the deputy commissioners of the United States Customs Service shall have charge of investigations. Appointments under this subsection shall be subject to the provisions of the civil servicelaws, and the salaries shall be fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
 
 #### (b) Absence or disability of Commissioner
 
@@ -46,7 +46,7 @@ In this section:
 
 #### (2) Commercial Operations Advisory Committee
 
-&emsp;The term "Commercial Operations Advisory Committee" means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (19 U.S.C. 2071 note) <sup>1</sup> or any successor committee.
+&emsp;The term "Commercial Operations Advisory Committee" means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (19 U.S.C. 2071 note) <sup>2</sup> or any successor committee.
 
 (Mar. 3, 1927, ch. 348, §2, 44 Stat. 1381; May 27, 1930, ch. 342, §8, 46 Stat. 430; June 17, 1930, ch. 497, title IV, §650, 46 Stat. 762; Ex. Ord. No. 6639, §1a, Mar. 10, 1934; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Sept. 3, 1954, ch. 1263, §9, 68 Stat. 1228; Pub. L. 109–347, title IV, §402, Oct. 13, 2006, 120 Stat. 1924; Pub. L. 114–125, title VIII, §802(d)(2), (h)(3), Feb. 24, 2016, 130 Stat. 210, 215.)
 
@@ -96,5 +96,5 @@ Act June 17, 1930, authorized the appointment of an additional deputy commission
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

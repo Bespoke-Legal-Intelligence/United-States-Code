@@ -22,7 +22,7 @@ Section was formerly classified to section 5777 of Title 42, The Public Health a
 
 <b>2013</b>—Subsec. (a). Pub. L. 113–38, §3(1), substituted "$40,000,000 for each of the fiscal years 2014 through 2018, up to $32,200,000 of which shall be used to carry out section 5773(b) of this title for each such fiscal year." for "such sums as may be necessary for fiscal years 2008 through 2013."
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–240, §4, which directed substitution of "2008 through 2013" for "2007 through 2008", was executed by making the substitution for "2004 through 2008", to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (a). Pub. L. 110–240, §4, which directed substitution of "2008 through 2013" for "2007 through2008", was executed by making the substitution for "2004 through 2008", to reflect the probable intent of Congress.
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–96 substituted "2008" for "2005."
 

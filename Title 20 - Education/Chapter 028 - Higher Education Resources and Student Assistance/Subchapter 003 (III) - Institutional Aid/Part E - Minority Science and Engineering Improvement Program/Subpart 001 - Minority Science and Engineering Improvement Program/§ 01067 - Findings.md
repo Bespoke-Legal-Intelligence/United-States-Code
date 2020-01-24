@@ -8,7 +8,7 @@ Congress makes the following findings:
 
 &emsp;(3) Despite significant limitations in resources, minority institutions provide an important educational opportunity for minority students, particularly in science and engineering fields. Aid to minority institutions is a good way to address the underrepresentation of minorities in science and technological fields.
 
-&emsp;(4) There is a strong Federal interest in improving science and engineering programs atminority institutions as such programs lag behind in program offerings and in student enrollment compared to such programs at other institutions of higher education.
+&emsp;(4) There is a strong Federal interest in improving science and engineering programs at minority institutions as such programs lag behind in program offerings and in student enrollment compared to such programs at other institutions of higher education.
 
 (Pub. L. 89–329, title III, §350, as added Pub. L. 105–244, title III, §307(a), Oct. 7, 1998, 112 Stat. 1647.)
 

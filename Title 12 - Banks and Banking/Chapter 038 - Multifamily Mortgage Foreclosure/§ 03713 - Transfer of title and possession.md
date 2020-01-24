@@ -14,7 +14,7 @@ A purchaser at a foreclosure sale held pursuant to this chapter shall be entitle
 
 #### (d) Right of redemption; right of possession
 
-There shall be no right of redemption, or right of possession based upon right of redemption, in the mortgagor or others subsequent to a foreclosure pursuant to this chapter.
+There shall be no right of redemption, or right of possession based upon right of redemption, inthe mortgagor or others subsequent to a foreclosure pursuant to this chapter.
 
 #### (e) Imposition of tax on conveyance to the Secretary
 

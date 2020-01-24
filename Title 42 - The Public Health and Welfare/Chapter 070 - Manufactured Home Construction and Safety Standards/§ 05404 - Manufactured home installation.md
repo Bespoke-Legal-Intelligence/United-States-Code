@@ -16,7 +16,7 @@ A manufacturer shall provide with each manufactured home, design and instruction
 
 #### (2) Establishment of model standards
 
-&emsp;Not later than 12 months after receiving the proposed model standards submitted under paragraph (1), the Secretary shall develop and establish model manufactured home installation standards, which shall, to the maximum extent practicable, taking into account the factors described in section 5403(e) of this title, be consistent with—
+&emsp;Not later than 12 months after receiving the proposed model standards submitted underparagraph (1), the Secretary shall develop and establish model manufactured home installation standards, which shall, to the maximum extent practicable, taking into account the factors described in section 5403(e) of this title, be consistent with—
 
 &emsp;&emsp;(A) the manufactured home designs that have been approved by a design approval primary inspection agency; and
 
@@ -70,7 +70,7 @@ A manufacturer shall provide with each manufactured home, design and instruction
 
 &emsp;&emsp;(C) inspection of the installation of manufactured homes.
 
-(Pub. L. 93–383, title VI, §605, Aug. 22, 1974, 88 Stat. 702; Pub. L. 96–399, title III, §308(c)(4), Oct.8, 1980, 94 Stat. 1641; Pub. L. 106–569, title VI, §605(a), Dec. 27, 2000, 114 Stat. 3006.)
+(Pub. L. 93–383, title VI, §605, Aug. 22, 1974, 88 Stat. 702; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 106–569, title VI, §605(a), Dec. 27, 2000, 114 Stat. 3006.)
 
 #### Amendments
 

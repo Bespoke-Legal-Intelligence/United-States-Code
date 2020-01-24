@@ -4,7 +4,7 @@
 
 (b) The Director of the United States Marshals Service (hereafter in this chapter referred to as the "Director") shall, in addition to the powers and duties set forth in this chapter, exercise such other functions as may be delegated by the Attorney General.
 
-(c) The President shall appoint, by and with the advice and consent of the Senate, a UnitedStates marshal for each judicial district of the United States and for the Superior Court of the District of Columbia, except that any marshal appointed for the Northern Mariana Islands may at the same time serve as marshal in another judicial district. Each United States marshal shall be an official of the Service and shall serve under the direction of the Director.
+(c) The President shall appoint, by and with the advice and consent of the Senate, a United States marshal for each judicial district of the United States and for the Superior Court of the District of Columbia, except that any marshal appointed for the Northern Mariana Islands may at the same time serve as marshal in another judicial district. Each United States marshal shall be an official of the Service and shall serve under the direction of the Director.
 
 (d) Each marshal shall be appointed for a term of four years. A marshal shall, unless that marshal has resigned or been removed by the President, continue to perform the duties of that office after the end of that 4-year term until a successor is appointed and qualifies.
 

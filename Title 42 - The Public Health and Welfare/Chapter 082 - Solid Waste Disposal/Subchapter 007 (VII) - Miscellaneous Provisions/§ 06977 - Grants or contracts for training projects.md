@@ -12,7 +12,7 @@ The Administrator is authorized to make grants to, and contracts with any eligib
 
 &emsp;(B) to train instructors and supervisory personnel to train or supervise persons in occupations involving the design, operation, and maintenance of solid waste management and resource recovery equipment and facilities.
 
-(2) A grant or contract authorized by paragraph (1) of this subsection may be made only upon application to the Administrator at such time or times and containing such information as he may prescribe, except that no such application shall be approved unless it provides for the same procedures and reports (and access to such reports and to other records) as required by section 3254a(b)(4) and (5) <sup>1</sup> of this title (as in effect before October 21, 1976) with respect to applications made under such section (as in effect before October 21, 1976).
+(2) A grant or contract authorized by paragraph (1) of this subsection may be made only upon application to the Administrator at such time or times and containing such informationas he may prescribe, except that no such application shall be approved unless it provides for the same procedures and reports (and access to such reports and to other records) as required by section 3254a(b)(4) and (5) <sup>1</sup> of this title (as in effect before October 21, 1976) with respect to applications made under such section (as in effect before October 21, 1976).
 
 (Pub. L. 89–272, title II, §7007, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2827; amended Pub. L. 95–609, §7(r), Nov. 8, 1978, 92 Stat. 3083; Pub. L. 105–362, title V, §501(f), Nov. 10, 1998, 112 Stat. 3284.)
 
@@ -26,7 +26,7 @@ Provisions similar to those in this section were contained in section 3254d of t
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–362 struck out heading and text of subsec. (c) which related to Administrator'sstudy and report on State and local training needs and obstacles to employment and occupational advancement in solid waste management and resource recovery field.
+<b>1998</b>—Subsec. (c). Pub. L. 105–362 struck out heading and text of subsec. (c) which related to Administrator's study and report on State and local training needs and obstacles to employment and occupational advancement in solid waste management and resource recovery field.
 
 <b>1978</b>—Subsec. (b)(1). Pub. L. 95–609, §7(r)(1), (2), substituted "management" for "disposal" in two places, and "resource" for "resources".
 

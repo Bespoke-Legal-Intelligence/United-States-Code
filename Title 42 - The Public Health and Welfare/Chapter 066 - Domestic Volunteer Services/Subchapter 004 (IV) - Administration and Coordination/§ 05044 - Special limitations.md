@@ -30,7 +30,7 @@ Persons serving as volunteers under this chapter shall provide such information 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b), (e), and (f), was in the original "this Act", meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b), (e), and (f), was in the original "this Act", meaning Pub. L.93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 The National and Community Service Act of 1990, referred to in subsec. (a), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 

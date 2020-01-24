@@ -38,7 +38,7 @@ Notwithstanding any other provision of this subchapter, the Secretary shall have
 
 #### (A) Program year
 
-&emsp;&emsp;Except as provided in subparagraph (B), appropriations for any fiscal year for programs and activities funded under this subchapter shall be available for obligation only on the basis of a program year. The program year shall begin on July 1 in the fiscal year for which the appropriation is made.
+&emsp;&emsp;Except as provided in subparagraph (B), appropriations for any fiscal year for programs and activities funded under this subchapter shall be available for obligation only on the basis of a program year. The programyear shall begin on July 1 in the fiscal year for which the appropriation is made.
 
 #### (B) Youth workforce investment activities
 
@@ -119,6 +119,10 @@ The Secretary shall ensure that each individual participating in any program or 
 &emsp;&emsp;If the Secretary has approved a waiver of statutory or regulatory requirements for a State or local area pursuant to this subsection, the Secretary shall expedite the determination regarding the provision of that waiver, for another State or local area if such waiver is in accordance with the approved State or local plan, as appropriate.
 
 (Pub. L. 113–128, title I, §189, July 22, 2014, 128 Stat. 1599.)
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

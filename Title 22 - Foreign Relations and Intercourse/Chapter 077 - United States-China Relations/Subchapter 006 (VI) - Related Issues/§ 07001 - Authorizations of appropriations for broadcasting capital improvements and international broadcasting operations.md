@@ -16,7 +16,7 @@ In addition to such sums as may otherwise be authorized to be appropriated, ther
 
 &emsp;&emsp;(A) To increase personnel for the program development office to enhance marketing programming in the People's Republic of China and neighboring countries.
 
-&emsp;&emsp;(B) To enable Radio Free Asia's expansion of news research, production, call-in show capability, and web site/Internet enhancement for the People's Republic of China and neighboring countries.
+&emsp;&emsp;(B) To enable Radio Free Asia's expansion of news research, production, call-in showcapability, and web site/Internet enhancement for the People's Republic of China and neighboring countries.
 
 &emsp;&emsp;(C) VOA enhancements, including the opening of new news bureaus in Taipei and Shanghai, enhancement of TV Mandarin, and an increase of stringer presence abroad.
 
@@ -27,4 +27,8 @@ In addition to such sums as may otherwise be authorized to be appropriated, ther
 <b>2002</b>—Subsec. (a). Pub. L. 107–228, §121(b)(1), substituted "2003" for "2001".
 
 Subsec. (b)(1). Pub. L. 107–228, §121(b)(2), substituted "2001, 2002, and 2003" for "2001 and 2002".
+
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 

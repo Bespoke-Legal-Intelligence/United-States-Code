@@ -54,7 +54,7 @@ Early Implementation District Courts.—
 
 &emsp;"(3) Within 18 months after the date of the enactment of this title \[Dec. 1, 1990\], the Judicial Conference shall prepare a report on the plans developed and implemented by the Early Implementation District Courts.
 
-&emsp;"(4) The Director of the Administrative Office of the United States Courts shall transmit to the United States district courts and to the Committees on the Judiciary of the Senate and House of Representatives—
+&emsp;"(4) The Director of the Administrative Office of the United States Courts shall transmit to the UnitedStates district courts and to the Committees on the Judiciary of the Senate and House of Representatives—
 
 &emsp;&emsp;"(A) copies of the plans developed and implemented by the Early Implementation District Courts;
 

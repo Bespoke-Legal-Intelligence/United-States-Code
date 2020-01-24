@@ -8,7 +8,7 @@
 
 #### (2) Commission action
 
-&emsp;The Commission shall initiate a single proceeding to implement the recommendations from the Joint Board required by paragraph (1) and shall complete such proceeding within 15 months after February 8, 1996. The rules established by such proceeding shall include a definition of the services that are supported by Federal universal service support mechanisms and a specific timetable for implementation. Thereafter, the Commission shall complete any proceeding to implement subsequent recommendations from any Joint Board on universal service within one year after receiving such recommendations.
+&emsp;The Commission shall initiate a single proceeding to implement the recommendations from the Joint Board required by paragraph (1) and shall complete such proceeding within 15 months after February 8, 1996. The rules established by such proceeding shall include a definition of the services that are supported by Federal universal service support mechanisms and a specific timetable for implementation.Thereafter, the Commission shall complete any proceeding to implement subsequent recommendations from any Joint Board on universal service within one year after receiving such recommendations.
 
 #### (b) Universal service principles
 
@@ -24,7 +24,7 @@ The Joint Board and the Commission shall base policies for the preservation and 
 
 #### (3) Access in rural and high cost areas
 
-&emsp;Consumers in all regions of the Nation, including low-income consumers and those in rural, insular, and high cost areas, should have access to telecommunications and information services, including interexchange services and advanced telecommunications and information services, that are reasonably comparable to those services provided in urban areas andthat are available at rates that are reasonably comparable to rates charged for similar services in urban areas.
+&emsp;Consumers in all regions of the Nation, including low-income consumers and those in rural, insular, and high cost areas, should have access to telecommunications and information services, including interexchange services and advanced telecommunications and information services, that are reasonably comparable to those services provided in urban areas and that are available at rates that are reasonably comparable to rates charged for similar services in urban areas.
 
 #### (4) Equitable and nondiscriminatory contributions
 
@@ -86,7 +86,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (A) Health care providers for rural areas
 
-&emsp;&emsp;A telecommunications carrier shall, upon receiving a bona fide request, provide telecommunications services which are necessary for the provision of health care services in a State, including instruction relating to such services, to any public or nonprofit health care provider that serves persons who reside in rural areas in that Stateat rates that are reasonably comparable to rates charged for similar services in urban areas in that State. A telecommunications carrier providing service under this paragraph shall be entitled to have an amount equal to the difference, if any, between the rates for services provided to health care providers for rural areas in a State and the rates for similar services provided to other customers in comparable rural areas in that State treated as a service obligation as a part of its obligation to participate in the mechanisms to preserve and advance universal service.
+&emsp;&emsp;A telecommunications carrier shall, upon receiving a bona fide request, provide telecommunications services which are necessary for the provision of health care services in a State, including instruction relating to such services, to any public or nonprofit health care provider that serves persons who reside in rural areas in that State at rates that are reasonably comparable to rates charged for similar services in urban areas in that State. A telecommunications carrier providing service under this paragraph shall be entitled to have an amount equal to the difference, if any, between the rates for services provided to health care providers for rural areas in a State and the rates for similar services provided to other customers in comparable rural areas in that State treated as a service obligation as a part of its obligation to participate in the mechanisms to preserve and advance universal service.
 
 #### (B) Educational providers and libraries
 
@@ -132,7 +132,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (iii) Public notice; hearing
 
-&emsp;&emsp;&emsp;An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary school or a secondary school as defined in section 7801 of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
+&emsp;&emsp;&emsp;An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one publichearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary school or a secondary school as defined in section 7801 of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
 
 #### (B) Certification with respect to minors
 
@@ -194,7 +194,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (III) Waivers
 
-&emsp;&emsp;&emsp;&emsp;Any school subject to subclause (II) that cannot come into compliance with subparagraphs (B) and (C) in such second year program may seek a waiver of subclause (II)(bb) if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by such subclause. A school, school board, local educational agency, or other authority with responsibility for administration of the school shall notify the Commission of the applicability of such subclause to the school. Such notice shall certify that the school in question will be brought into compliance before the start of the third program year after the effective date of this subsection in which the school is applying for funds under this subsection.
+&emsp;&emsp;&emsp;&emsp;Any school subject to subclause (II) that cannot come into compliance with subparagraphs (B) and (C) in such secondyear program may seek a waiver of subclause (II)(bb) if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by such subclause. A school, school board, local educational agency, or other authority with responsibility for administration of the school shall notify the Commission of the applicability of such subclause to the school. Such notice shall certify that the school in question will be brought into compliance before the start of the third program year after the effective date of this subsection in which the school is applying for funds under this subsection.
 
 #### (F) Noncompliance
 
@@ -274,7 +274,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 &emsp;&emsp;&emsp;Subject to clause (ii) in the case of any library covered by this paragraph as of the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, the certification under subparagraphs (B) and (C) shall be made—
 
-&emsp;&emsp;&emsp;&emsp;(I) with respect to the first program funding year under this subsection following such effective date, not later than 120 days after the beginning of such program funding year; and
+&emsp;&emsp;&emsp;&emsp;(I) with respect to the first program funding year under this subsection following such effective date, not later than120 days after the beginning of such program funding year; and
 
 &emsp;&emsp;&emsp;&emsp;(II) with respect to any subsequent program funding year, as part of the application process for such program funding year.
 
@@ -286,7 +286,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (II) Libraries without Internet safety policy and technology protection measures in place
 
-&emsp;&emsp;&emsp;&emsp;A library covered by clause (i) that does not have in place an Internet safetypolicy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C)—
+&emsp;&emsp;&emsp;&emsp;A library covered by clause (i) that does not have in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C)—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) for the first program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C); and
 
@@ -430,7 +430,7 @@ A telecommunications carrier may not use services that are not competitive to su
 
 &emsp;This subsection shall apply with respect to schools and libraries on or after the date that is 120 days after December 21, 2000.
 
-(June 19, 1934, ch. 652, title II, §254, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 71; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(8)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313; Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §§1721(a)–(d), 1732\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343 to 2763A–350; Pub. L. 107–110, title X, §1076(hh), Jan. 8, 2002, 115 Stat. 2094; Pub. L. 110–385, title II, §215, Oct. 10, 2008, 122 Stat. 4104; Pub. L. 114–95, title IX, §9215(s), Dec. 10, 2015, 129 Stat. 2171; Pub. L. 114–182, title II, §202(a), June 22, 2016, 130 Stat. 512.)
+(June 19, 1934, ch. 652, title II, §254, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110Stat. 71; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(8)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313; Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §§1721(a)–(d), 1732\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343 to 2763A–350; Pub. L. 107–110, title X, §1076(hh), Jan. 8, 2002, 115 Stat. 2094; Pub. L. 110–385, title II, §215, Oct. 10, 2008, 122 Stat. 4104; Pub. L. 114–95, title IX, §9215(s), Dec. 10, 2015, 129 Stat. 2171; Pub. L. 114–182, title II, §202(a), June 22, 2016, 130 Stat. 512.)
 
 #### References in Text
 
@@ -438,7 +438,7 @@ This chapter, referred to in subsec. (b)(7), was in the original "this Act", mea
 
 The Library Services and Technology Act, referred to in subsec. (h)(4), is subtitle B (§§211–263) of title II of Pub. L. 94–462, as added by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295, which is classified generally to subchapter II (§9121 et seq.) of chapter 72 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of Title 20 and Tables.
 
-For the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, referred to in subsec. (h)(5)(E), (6)(E), as 120 days afterDec. 21, 2000, see §1(a)(4) \[div. B, title VII, §1721(h)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
+For the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, referred to in subsec. (h)(5)(E), (6)(E), as 120 days after Dec. 21, 2000, see §1(a)(4) \[div. B, title VII, §1721(h)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
 The effective date of this subsection, referred to in subsec. (h)(5)(E), (6)(E), probably means the effective date of subsec. (h)(5) and (6) which is 120 days after Dec. 21, 2000, see §1(a)(4) \[div. B, title VII, §1721(h)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 

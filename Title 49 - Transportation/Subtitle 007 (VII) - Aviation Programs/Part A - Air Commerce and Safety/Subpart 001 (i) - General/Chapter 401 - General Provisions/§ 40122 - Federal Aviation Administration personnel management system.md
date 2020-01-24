@@ -16,7 +16,7 @@ Dispute resolution.—
 
 Mediation.—If the Administrator does not reach an agreement under paragraph (1) or the provisions referred to in subsection (g)(2)(C) with the exclusive bargaining representative of the employees, the Administrator and the bargaining representative—
 
-&emsp;&emsp;&emsp;(i) shall use the services of the Federal Mediation and Conciliation Service to attempt to reach such agreement in accordance with part 1425 of title 29, Code of Federal Regulations (as in effect on the dateof enactment of the FAA Modernization and Reform Act of 2012); or
+&emsp;&emsp;&emsp;(i) shall use the services of the Federal Mediation and Conciliation Service to attempt to reach such agreement in accordance with part 1425 of title 29, Code of Federal Regulations (as in effect on the date of enactment of the FAA Modernization and Reform Act of 2012); or
 
 &emsp;&emsp;&emsp;(ii) may by mutual agreement adopt alternative procedures for the resolution of disputes or impasses arising in the negotiation of the collective-bargaining agreement.
 
@@ -42,7 +42,7 @@ Framing issues in controversy.—If the parties do not agree on the framing of t
 
 &emsp;&emsp;&emsp;(iv)
 
-Hearings.—The arbitration board shall give the parties a full and fair hearing, including an opportunity to present evidence in support of their claims and an opportunity to present their case in person, by counsel, or by other representative as they may elect.
+Hearings.—The arbitration board shall give the parties a full and fair hearing, including an opportunity to present evidence in support of their claims and anopportunity to present their case in person, by counsel, or by other representative as they may elect.
 
 &emsp;&emsp;&emsp;(v)
 
@@ -182,7 +182,7 @@ The effective date of the Air Traffic Management System Performance Improvement 
 
 Subsec. (g)(4), (5). Pub. L. 114–242, §2(b), added par. (4) and redesignated former par. (4) as (5).
 
-<b>2012</b>—Subsec. (a)(2) to (5). Pub. L. 112–95, §601, added pars. (2) and (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die."
+<b>2012</b>—Subsec. (a)(2) to (5). Pub. L. 112–95, §601, added pars. (2) and (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted theproposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die."
 
 Subsec. (g)(2)(I). Pub. L. 112–95, §602, added subpar. (I).
 

@@ -28,7 +28,7 @@ The procedures established to implement the provisions of this chapter shall min
 
 #### Codification
 
-Section was formerly classified to section 3782 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendmentnotes below reflect the classification of such sections or references prior to editorial reclassification.
+Section was formerly classified to section 3782 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 Another section 801 of Pub. L. 90–351, title III, June 19, 1968, 82 Stat. 211, is set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
 

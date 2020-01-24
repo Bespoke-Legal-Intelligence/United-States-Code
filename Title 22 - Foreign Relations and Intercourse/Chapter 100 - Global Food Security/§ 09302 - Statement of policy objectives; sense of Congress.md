@@ -8,7 +8,7 @@ It is in the national interest of the United States to promote global food secur
 
 &emsp;(2) accelerate inclusive, agricultural-led economic growth that reduces global poverty, hunger, and malnutrition, particularly among women and children;
 
-&emsp;(3) increase the productivity, incomes, and livelihoods of small-scale producers, especially women, by working across agricultural valuechains, enhancing local capacity to manage agricultural resources effectively and expanding producer access to local and international markets;
+&emsp;(3) increase the productivity, incomes, and livelihoods of small-scale producers, especially women, by working across agricultural value chains, enhancing local capacity to manage agricultural resources effectively and expanding producer access to local and international markets;
 
 &emsp;(4) build resilience to food shocks among vulnerable populations and households while reducing reliance upon emergency food assistance;
 
@@ -30,7 +30,7 @@ It is the sense of the Congress that the President, in providing assistance to i
 
 &emsp;(2) seek to fully utilize the unique capabilities of each relevant Federal department and agency while collaborating with and leveraging the contributions of other key stakeholders; and
 
-&emsp;(3) utilize open and streamlined solicitations to allow for the participation of a wide range of implementing partners through the most appropriate procurement mechanisms, which may include grants, contracts, cooperative agreements, and other instruments as necessary and appropriate.
+&emsp;(3) utilize open and streamlined solicitations to allow for the participation of a wide range of implementing partners through the most appropriate procurement mechanisms, whichmay include grants, contracts, cooperative agreements, and other instruments as necessary and appropriate.
 
 (Pub. L. 114–195, §3, July 20, 2016, 130 Stat. 676.)
 

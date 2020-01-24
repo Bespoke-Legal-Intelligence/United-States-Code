@@ -26,7 +26,7 @@ To ensure the effectiveness of economic adjustment programs supported by Fund re
 
 &emsp;(3) United States representatives to the Fund, to the Bank, and to other appropriate institutions shall work toward improving coordination among these institutions and, in particular, shall work toward formulation of programs in association with economic adjustment programs supported by Fund resources which (A) will, among other things, promote employment, investment, real income per capita, improvements in income distribution, and the objectives of social programs such as health, housing, and education, and (B) will, to the maximum extent feasible and consistent with the borrowing country's need to improve its balance of payments position within a reasonable period, ameliorate any adverse effects of economic adjustment programs on the poor;
 
-&emsp;(4) United States representatives to the Fund and the Bank shall seek amendments to decisions on policies on the use of Fund and Bank resources to provide that, where countries are seeking Extended Fund Facility or upper credit tranche drawings from the Fund and are eligible to receive financing from the Bank, the Fund and Bank will coordinate their financing activities in order—
+&emsp;(4) United States representatives to the Fund and the Bank shall seek amendments to decisions on policies on the use of Fund and Bank resources to provide that, where countries are seeking Extended Fund Facility or upper credit tranche drawings from the Fund and are eligible to receive financing from theBank, the Fund and Bank will coordinate their financing activities in order—
 
 &emsp;&emsp;(A) to take into account the effects of economic adjustment programs on the areas listed in clause (A) of paragraph (3),
 

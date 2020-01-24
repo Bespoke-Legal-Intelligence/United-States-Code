@@ -1,32 +1,32 @@
 ### §70906. Powers
 
-The corporation may—
+The FFA may—
 
 &emsp;(1) adopt and amend bylaws and regulations for the management of its property and the regulation of its affairs, including the establishment and maintenance of local chapters and State associations of chapters;
 
-&emsp;(2) adopt and alter a corporate seal;
+&emsp;(2) adopt and alter a seal;
 
 &emsp;(3) adopt emblems and badges;
 
-&emsp;(4) choose officers, managers, agents, and employees as the activities of the corporation require;
+&emsp;(4) choose officers, managers, agents, and employees as the activities of the FFA require;
 
 &emsp;(5) make contracts;
 
-&emsp;(6) acquire, own, lease, encumber, and transfer property as necessary or convenient to carry out the purposes of the corporation;
+&emsp;(6) acquire, own, lease, encumber, and transfer property as necessary or convenient to carry out the purposes of the FFA;
 
 &emsp;(7) borrow money, issue instruments of indebtedness, and secure its obligations by granting security interests in its property;
 
-&emsp;(8) use corporate funds to give prizes, awards, loans, and grants to deserving students and young farmers to carry out the purposes of the corporation;
+&emsp;(8) use FFA funds to give prizes, awards, loans, and grants to deserving members, local FFA chapters, and State FFA associations to carry out the purposes of the FFA;
 
-&emsp;(9) publish a magazine and other publications;
+&emsp;(9) produce publications, websites, and other media;
 
-&emsp;(10) procure for and distribute to State associations, local chapters, and members all official Future Farmers of America supplies and equipment;
+&emsp;(10) make available to State associations, local chapters, and members all official FFA supplies and equipment;
 
 &emsp;(11) sue and be sued; and
 
-&emsp;(12) do any other act necessary and proper to carry out the purposes of the corporation.
+&emsp;(12) do any other act necessary and proper to carry out the purposes of the FFA.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1357.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1357; Pub. L. 116–7, §7, Feb. 21, 2019, 133 Stat. 481.)
 
 Historical and Revision Notes
 
@@ -67,4 +67,22 @@ In clause (8), the words "to carry out the purposes of the corporation" are subs
 In clause (11), the words "complain, and defend in any court of competent jurisdiction" are omitted as unnecessary.
 
 In clause (12), the words "any other act" are substituted for "any and all acts and things" for consistency in the revised title and to eliminate unnecessary words. The word "objects" is omitted as included in "purposes".
+
+#### Amendments
+
+<b>2019</b>—Pub. L. 116–7, §7(1), substituted "FFA" for "corporation" in introductory provisions.
+
+Par. (2). Pub. L. 116–7, §7(2), struck out "corporate" before "seal".
+
+Par. (4). Pub. L. 116–7, §7(3), substituted "FFA" for "corporation".
+
+Par. (6). Pub. L. 116–7, §7(4), substituted "FFA" for "corporation".
+
+Par. (8). Pub. L. 116–7, §7(5), amended par. (8) generally. Prior to amendment, par. (8) read as follows: "use corporate funds to give prizes, awards, loans, and grants to deserving students and young farmers to carry out the purposes of the corporation;".
+
+Par. (9). Pub. L. 116–7, §7(6), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "publish a magazine and other publications;".
+
+Par. (10). Pub. L. 116–7, §7(7), substituted "make available to State" for "procure for and distribute to State" and "FFA" for "Future Farmers of America".
+
+Par. (12). Pub. L. 116–7, §7(8), substituted "FFA" for "corporation".
 

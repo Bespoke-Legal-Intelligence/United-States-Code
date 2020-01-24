@@ -48,7 +48,7 @@ As used in this part:
 
 #### (3) Appeals for regulatory relief
 
-&emsp;An institution whose cohort default rate, calculated in accordance with subsection (m), is equal to or greater than the threshold percentage specified in paragraph (2)(B)(iv) for any two consecutive fiscal years may, not later than 30 days after the date the institution receives notification from the Secretary, file an appeal demonstrating exceptional mitigating circumstances, as defined in paragraph (5). The Secretary shall issue a decision on any such appeal not later than 45 days after the date of submission of the appeal. If the Secretary determines that the institution demonstrates exceptional mitigating circumstances, the Secretary may not subject the institution to provisional certification based solely on the institution's cohort default rate.
+&emsp;An institution whose cohort default rate, calculated in accordance with subsection (m),is equal to or greater than the threshold percentage specified in paragraph (2)(B)(iv) for any two consecutive fiscal years may, not later than 30 days after the date the institution receives notification from the Secretary, file an appeal demonstrating exceptional mitigating circumstances, as defined in paragraph (5). The Secretary shall issue a decision on any such appeal not later than 45 days after the date of submission of the appeal. If the Secretary determines that the institution demonstrates exceptional mitigating circumstances, the Secretary may not subject the institution to provisional certification based solely on the institution's cohort default rate.
 
 #### (4) Appeals based upon allegations of improper loan servicing
 
@@ -156,7 +156,7 @@ As used in this part:
 
 #### (A) In general
 
-&emsp;&emsp;An institution that demonstrates to the Secretary that the institution's participation rate index is equal to or less than 0.0625 for any of the 3 most recent fiscal years for which data is available shall not be subject to paragraph (2). The participation rateindex shall be determined by multiplying the institution's cohort default rate for loans under this part or part D, or weighted average cohort default rate for loans under this part and part D, by the percentage of the institution's regular students, enrolled on at least a half-time basis, who received a loan made under this part or part D for a 12-month period ending during the 6 months immediately preceding the fiscal year for which the cohort of borrowers used to calculate the institution's cohort default rate is determined.
+&emsp;&emsp;An institution that demonstrates to the Secretary that the institution's participation rate index is equal to or less than 0.0625 for any of the 3 most recent fiscal years for which data is available shall not be subject to paragraph (2). The participation rate index shall be determined by multiplying the institution's cohort default rate for loans under this part or part D, or weighted average cohort default rate for loans under this part and part D, by the percentage of the institution's regular students, enrolled on at least a half-time basis, who received a loan made under this part or part D for a 12-month period ending during the 6 monthsimmediately preceding the fiscal year for which the cohort of borrowers used to calculate the institution's cohort default rate is determined.
 
 #### (B) Data
 
@@ -220,7 +220,7 @@ As used in this part:
 
 &emsp;&emsp;&emsp;(iv) shall award any contract for financing, servicing, or administration of loans under this subchapter on a competitive basis;
 
-&emsp;&emsp;&emsp;(v) shall offer loans that carry an origination fee or an interest rate, or both, that are less than such fee or rate authorized under the provisions of this subchapter;
+&emsp;&emsp;&emsp;(v) shall offer loans that carry an origination fee or an interest rate, or both, thatare less than such fee or rate authorized under the provisions of this subchapter;
 
 &emsp;&emsp;&emsp;(vi) shall not have a cohort default rate (as defined in subsection (m)) greater than 10 percent;
 
@@ -264,9 +264,9 @@ As used in this part:
 
 &emsp;&emsp;(D) compensated an employee who is employed in the financial aid office of an institution of higher education, or who otherwise has responsibilities with respect to student loans or other financial aid of the institution, and who is serving on an advisory board, commission, or group established by a lender or group of lenders for providing such service, except that the eligible lender may reimburse such employee for reasonable expenses incurred in providing such service;
 
-&emsp;&emsp;(E) performed for an institution of higher education any function that such institution of higher education is required to perform under this title, except that a lender shall bepermitted to perform functions on behalf of such institution in accordance with section 1092(b) or 1092(l) of this title;
+&emsp;&emsp;(E) performed for an institution of higher education any function that such institution of higher education is required to perform under this title, except that a lender shall be permitted to perform functions on behalf of such institution in accordance with section 1092(b) or 1092(l) of this title;
 
-&emsp;&emsp;(F) paid, on behalf of an institution of higher education, another person to perform any function that such institution of higher education is required to perform under this subchapter, except that a lender shall be permitted to perform functions on behalf of such institution in accordance with section 1092(b) or 1092(l) of this title;
+&emsp;&emsp;(F) paid, on behalf of an institution of higher education, another person to perform any function that such institution of higher education is required to perform under this subchapter, except that a lender shall be permitted to perform functions on behalf ofsuch institution in accordance with section 1092(b) or 1092(l) of this title;
 
 &emsp;&emsp;(G) provided payments or other benefits to a student at an institution of higher education to act as the lender's representative to secure applications under this subchapter from individual prospective borrowers, unless such student—
 
@@ -330,7 +330,7 @@ The term "holder" means an eligible lender who owns a loan.
 
 #### (j) Guaranty agency
 
-The term "guaranty agency" means any State or nonprofit private institution or organizationwith which the Secretary has an agreement under section 1078(b) of this title.
+The term "guaranty agency" means any State or nonprofit private institution or organization with which the Secretary has an agreement under section 1078(b) of this title.
 
 #### (k) Insurance beneficiary
 
@@ -338,7 +338,7 @@ The term "insurance beneficiary" means the insured or its authorized representat
 
 #### (l) Default
 
-Except as provided in subsection (m), the term "default" includes only such defaults as have existed for (1) 270 days in the case of a loan which is repayable in monthly installments, or (2) 330 days in the case of a loan which is repayable in less frequent installments.
+Except as provided in subsection (m), the term "default" includes only such defaults as haveexisted for (1) 270 days in the case of a loan which is repayable in monthly installments, or (2) 330 days in the case of a loan which is repayable in less frequent installments.
 
 #### (m) Cohort default rate
 
@@ -366,7 +366,7 @@ Except as provided in subsection (m), the term "default" includes only such defa
 
 #### (4) Collection and reporting of cohort default rates and life of cohort default rates
 
-&emsp;(A) The Secretary shall publish not less often than once every fiscal year a report showing cohort default data and life of cohort default rates for each category of institution, including: (i) four-year public institutions; (ii) four-year private nonprofit institutions; (iii) two-year public institutions; (iv) two-year private nonprofit institutions; (v) four-year proprietary institutions; (vi) two-year proprietary institutions; and (vii) less than two-year proprietary institutions. For purposes of this subparagraph, for any fiscal year in which one or more current and former students at an institution enter repayment on loans under section 1078, 1078–2, or 1078–8 of this title, received for attendance at the institution, the Secretary shall publish the percentage of those current and former students who enter repayment on such loans (or on the portion of a loan made under section 1078–3 of this title that is used to repay any such loans) received for attendance at the institution in that fiscal year who default before the end of each succeeding fiscal year.
+&emsp;(A) The Secretary shall publish not less often than once every fiscal year a report showing cohort default data and life of cohort default rates for each category of institution, including: (i) four-year public institutions; (ii) four-year private nonprofit institutions; (iii) two-year public institutions; (iv) two-year private nonprofit institutions; (v) four-year proprietary institutions; (vi) two-year proprietary institutions; and (vii) less than two-year proprietary institutions. For purposes of this subparagraph, for any fiscal year in which one or more current and former students at an institution enter repayment on loans under section 1078, 1078–2, or 1078–8 of this title, received for attendance at the institution, the Secretary shall publish the percentage of those current and former students who enter repayment on such loans (or on the portion of a loanmade under section 1078–3 of this title that is used to repay any such loans) received for attendance at the institution in that fiscal year who default before the end of each succeeding fiscal year.
 
 &emsp;(B) The Secretary may designate such additional subcategories within the categories specified in subparagraph (A) as the Secretary deems appropriate.
 
@@ -432,7 +432,7 @@ Except as provided in subsection (m), the term "default" includes only such defa
 
 #### (ii) Trustees
 
-&emsp;&emsp;&emsp;A trustee described in paragraph (1)(D) shall not be an eligible not-for-profit holder under this chapter with respect to a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C) of paragraph (1), regardless of whether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection (d), if such State, political subdivision, authority, agency, instrumentality, or other entity is owned or controlled, in whole or in part, by a for-profit entity.
+&emsp;&emsp;&emsp;A trustee described in paragraph (1)(D) shall not be an eligible not-for-profit holder under this chapter with respect to a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C) of paragraph (1), regardless of whether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection\(d), if such State, political subdivision, authority, agency, instrumentality, or other entity is owned or controlled, in whole or in part, by a for-profit entity.
 
 #### (C) Sole ownership of loans and income
 
@@ -472,7 +472,7 @@ The Navajo Community College Act, referred to in subsec. (a)(2)(C)(iii), is Pub.
 
 The Employee Retirement Income Security Act, referred to in subsec. (d)(1)(B), probably means the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-Section 1078–1 of this title, referred to in subsecs. (a)(4)(B) and (m)(1)(A), (2)(D), was repealed by Pub. L.103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
+Section 1078–1 of this title, referred to in subsecs. (a)(4)(B) and (m)(1)(A), (2)(D), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 Section 1078(h) of this title, referred to in subsec. (d)(1)(H), was repealed by Pub. L. 110–315, title IV, §438(a)(2)(B), Aug. 14, 2008, 122 Stat. 3258.
 

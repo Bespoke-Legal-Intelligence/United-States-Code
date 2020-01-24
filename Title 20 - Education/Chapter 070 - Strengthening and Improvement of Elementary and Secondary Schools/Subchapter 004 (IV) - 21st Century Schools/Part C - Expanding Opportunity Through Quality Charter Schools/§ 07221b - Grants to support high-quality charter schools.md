@@ -212,7 +212,7 @@ A State entity desiring to receive a grant under this section shall submit an ap
 
 &emsp;&emsp;&emsp;&emsp;(I) a description of the roles and responsibilities of eligible applicants, partner organizations, and charter management organizations, including the administrative and contractual roles and responsibilities of such partners;
 
-&emsp;&emsp;&emsp;&emsp;(II) a description of the quality controls agreed to between the eligible applicant and the authorized public chartering agency involved, such as a contract or performance agreement, how a school's performance in the State's accountability system and impact on student achievement (which may include student academic growth) will be one of the most important factors for renewalor revocation of the school's charter, and how the State entity and the authorized public chartering agency involved will reserve the right to revoke or not renew a school's charter based on financial, structural, or operational factors involving the management of the school;
+&emsp;&emsp;&emsp;&emsp;(II) a description of the quality controls agreed to between the eligible applicant and the authorized public chartering agency involved, such as a contract or performance agreement, how a school's performance in the State's accountability system and impact on student achievement (which may include student academic growth) will be one of the most important factors for renewal or revocation of the school's charter, and how the State entity and the authorized public chartering agency involved will reserve the right to revoke or not renew a school's charter based on financial, structural, or operational factors involving the management of the school;
 
 &emsp;&emsp;&emsp;&emsp;(III) a description of how the autonomy and flexibility granted to a charter school is consistent with the definition of a charter school in section 7221i of this title;
 
@@ -264,7 +264,7 @@ A State entity desiring to receive a grant under this section shall submit an ap
 
 &emsp;&emsp;&emsp;(iv) enrollment criteria (as applicable); and
 
-&emsp;&emsp;&emsp;(v) annual performance and enrollment data for each of the subgroups of students, as defined in section 6311(c)(2) of this title, except that such disaggregation of performance and enrollment data shall not be required in a case in which the number of students in a group is insufficient to yield statically reliable information or the results would reveal personally identifiable information about an individual student.
+&emsp;&emsp;&emsp;(v) annual performance and enrollment data for each of the subgroups of students, as defined in section 6311(c)(2) of this title,except that such disaggregation of performance and enrollment data shall not be required in a case in which the number of students in a group is insufficient to yield statically reliable information or the results would reveal personally identifiable information about an individual student.
 
 #### (3) Requests for waivers
 
@@ -350,7 +350,7 @@ An eligible applicant receiving a subgrant under this section shall use such fun
 
 &emsp;(2) Acquiring supplies, training, equipment (including technology), and educational materials (including developing and acquiring instructional materials).
 
-&emsp;(3) Carrying out necessary renovations to ensure that a new school building complies with applicable statutes and regulations, and minor facilities repairs (excluding construction).
+&emsp;(3) Carrying out necessary renovations to ensure that a new school building complies withapplicable statutes and regulations, and minor facilities repairs (excluding construction).
 
 &emsp;(4) Providing one-time, startup costs associated with providing transportation to students to and from the charter school.
 

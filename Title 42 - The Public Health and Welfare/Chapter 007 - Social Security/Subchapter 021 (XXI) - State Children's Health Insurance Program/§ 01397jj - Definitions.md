@@ -2,7 +2,7 @@
 
 #### (a) Child health assistance
 
-For purposes of this subchapter, the term "child health assistance" means payment for part or all of the cost of health benefits coverage for targeted low-income children that includes any of the following (and includes, in the case described in section 1397ee(a)(1)(D)(i) of this title, payment for part or all of the cost of providing any of the following), as specified under the State plan:
+For purposes of this subchapter, the term "child health assistance" means payment for part or all of the cost of health benefits coverage for targeted low-income children that includes any of the following (and includes, in thecase described in section 1397ee(a)(1)(D)(i) of this title, payment for part or all of the cost of providing any of the following), as specified under the State plan:
 
 &emsp;(1) Inpatient hospital services.
 
@@ -38,9 +38,9 @@ For purposes of this subchapter, the term "child health assistance" means paymen
 
 &emsp;(17) Dental services.
 
-&emsp;(18) Inpatient substance abuse treatment services and residential substance abuse treatment services.
+&emsp;(18) Inpatient substance use treatment services and residential substance use treatment services.
 
-&emsp;(19) Outpatient substance abuse treatment services.
+&emsp;(19) Outpatient substance use treatment services.
 
 &emsp;(20) Case management services.
 
@@ -110,7 +110,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;Subject to subparagraphs (B) and (C), in the case of any child who is enrolled in a group health plan or health insurance coverage offered through an employer who would, but for the application of paragraph (1)(C), satisfy the requirements for being a targeted low-income child under a State child health plan that is implemented under this subchapter, a State may waive the application of such paragraph to the child in order to provide—
 
-&emsp;&emsp;&emsp;(i) dental coverage consistent with the requirements of subsection (c)(5) of section 1397cc of this title; or
+&emsp;&emsp;&emsp;(i) dental coverage consistent with the requirements of subsection (c)(6) of section 1397cc of this title; or
 
 &emsp;&emsp;&emsp;(ii) cost-sharing protection for dental coverage consistent with such requirements and the requirements of subsection (e)(3)(B) of such section.
 
@@ -164,7 +164,7 @@ For purposes of this subchapter:
 
 #### (2) Creditable health coverage
 
-&emsp;The term "creditable health coverage" has the meaning given the term "creditable coverage" under section 2701(c) <sup>2</sup> of the Public Health Service Act (42 U.S.C. 300gg(c)) and includes coverage that meets the requirements of section 1397cc of this title provided to a targeted low-income child under this subchapter or under a waiver approved under section 1397ee(c)(2)(B) of this title (relating to a direct service waiver).
+&emsp;The term "creditable health coverage" has the meaning given the term "creditable coverage" under section 2701(c) <sup>2</sup> of the Public Health Service Act (42 U.S.C. 300gg(c)) and includes coverage that meets the requirements of section 1397cc of this title provided to a targeted low-income child under this subchapter or under a waiver approved under section1397ee(c)(2)(B) of this title (relating to a direct service waiver).
 
 #### (3) Group health plan; health insurance coverage; etc.
 
@@ -222,21 +222,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(vi) A program administered by the Indian Health Service or the Bureau of Indian Affairs or operated by an Indian tribe or a tribal organization.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2110, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111Stat. 567; amended Pub. L. 105–100, title I, §162(3), (9), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 111–3, title V, §§501(b)(1), 505(b), Feb. 4, 2009, 123 Stat. 85, 90; Pub. L. 111–148, title II, §§2102(a)(7), 2302(b), title X, §10203(d)(2)(D), Mar. 23, 2010, 124 Stat. 288, 293, 930; Pub. L. 111–309, title II, §205(d), Dec. 15, 2010, 124 Stat. 3290; Pub. L. 114–95, title IX, §9215(qqq)(2), Dec. 10, 2015, 129 Stat. 2189; Pub. L. 115–271, title V, §5022(b)(2)(B), (C), Oct. 24, 2018, 132 Stat. 3964.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–271, title V, §5022(b)(2)(B), (C), (e), Oct. 24, 2018, 132 Stat. 3964, 3965, provided that, effective with respect to child health assistance provided on or after the date that is 1 year after Oct. 24, 2018, with exception if State legislation required, this section is amended:</i>
-
-<i>(1) in subsection (a)—</i>
-
-<i>(A) in paragraph (18), by striking "substance abuse" each place it appears and inserting "substance use"; and</i>
-
-<i>(B) in paragraph (19), by striking "substance abuse" and inserting "substance use"; and</i>
-
-<i>(2) in subsection (b)(5)(A)(i), by striking "subsection (c)(5)" and inserting "subsection (c)(6)".</i>
-
-<i>See 2018 Amendment notes below.</i>
+(Aug. 14, 1935, ch. 531, title XXI, §2110, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 105–100, title I, §162(3), (9), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 111–3, title V, §§501(b)(1), 505(b), Feb. 4, 2009, 123 Stat. 85, 90; Pub. L. 111–148, title II, §§2102(a)(7), 2302(b), title X, §10203(d)(2)(D), Mar. 23, 2010, 124 Stat. 288, 293, 930; Pub. L. 111–309, title II, §205(d), Dec. 15, 2010, 124 Stat. 3290; Pub. L. 114–95, title IX, §9215(qqq)(2), Dec. 10, 2015, 129 Stat. 2189; Pub. L. 115–271, title V, §5022(b)(2)(B), (C), Oct. 24, 2018, 132 Stat. 3964.)
 
 #### References in Text
 
@@ -304,7 +290,7 @@ Pub. L. 105–100, title I, §162, Nov. 19, 1997, 111 Stat. 2188, provided in pa
 
 #### CHIP Eligibility for Children Ineligible for Medicaid as a Result of Elimination of Disregards
 
-Pub. L. 111–148, title II, §2101(f), Mar. 23, 2010, 124 Stat. 287, provided that: "Notwithstanding any other provision of law, a State shall treat any child who is determined to be ineligible for medical assistanceunder the State Medicaid plan or under a waiver of the plan as a result of the elimination of the application of an income disregard based on expense or type of income, as required under section 1902(e)(14) of the Social Security Act \[42 U.S.C. 1396a(e)(14)\] (as added by this Act), as a targeted low-income child under section 2110(b) \[42 U.S.C. 1397jj(b)\] (unless the child is excluded under paragraph (2) of that section) and shall provide child health assistance to the child under the State child health plan (whether implemented under title XIX or XXI, or both, of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\])."
+Pub. L. 111–148, title II, §2101(f), Mar. 23, 2010, 124 Stat. 287, provided that: "Notwithstanding any other provision of law, a State shall treat any child who is determined to be ineligible for medical assistance under the State Medicaid plan or under a waiver of the plan as a result of the elimination of the application of an income disregard based on expense or type of income, as required under section 1902(e)(14) of the Social Security Act \[42 U.S.C. 1396a(e)(14)\] (as added by this Act), as a targeted low-income child under section 2110(b) \[42 U.S.C. 1397jj(b)\] (unless the child is excluded under paragraph (2) of that section) and shall provide child health assistance to the child under the State child health plan (whether implemented under title XIX or XXI, or both, of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\])."
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the period.</i>
 

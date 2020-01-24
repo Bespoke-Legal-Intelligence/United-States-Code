@@ -146,7 +146,7 @@ In subsection (a), the words "Subject to section 3202(a) of this title" are inse
 
 Pub. L. 97–22, which directed amendment of subsec. (a) by striking out ", exclusive of the number of commissioned officers on the active-duty list authorized for the Army Medical Department and the Chaplains", was executed by striking out ", exclusive of the number of commissioned officers on the active list authorized for the Army Medical Department and the Chaplains" before period at end of first sentence, to reflect the probable intent of Congress. See 1980 Amendment note and Effective Date of 1980 Amendment note below.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513, §502(5)(A), (B), substituted "active-duty list" for "active list" wherever appearing and struck out provisions that, of the authorized strength, not more than one-half could be in a regular grade above brigadier general.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §502(5)(A), (B), substituted "active-duty list" for "active list" whereverappearing and struck out provisions that, of the authorized strength, not more than one-half could be in a regular grade above brigadier general.
 
 Subsec. (b). Pub. L. 96–513, §502(5)(A), (C), substituted "active-duty list" for "active list" wherever appearing and substituted paragraphed references to "(1) each corps of the Army Medical Department" and "(2) the Chaplains" for former paragraphed references to "(1) The Medical Corps", "(2) the Dental Corps", "(3) the Veterinary Corps", and "(4) the Chaplains".
 

@@ -22,7 +22,7 @@
 
 &emsp;(B) the term "other service" includes any wire or radio communications service provided using any of the facilities of a cable operator that are used in the provision of cable service; and
 
-&emsp;(C) the term "cable operator" includes, in addition to persons within the definition ofcable operator in section 522 of this title, any person who (i) is owned or controlled by, or under common ownership or control with, a cable operator, and (ii) provides any wire or radio communications service.
+&emsp;(C) the term "cable operator" includes, in addition to persons within the definition of cable operator in section 522 of this title, any person who (i) is owned or controlled by, or under common ownership or control with, a cable operator, and (ii) provides any wire or radio communications service.
 
 #### (b) Collection of personally identifiable information using cable system
 
@@ -86,7 +86,7 @@ Nothing in this subchapter shall be construed to prohibit any State or any franc
 
 Except as provided in subsection (c)(2)(D), a governmental entity may obtain personally identifiable information concerning a cable subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
 
-&emsp;(1) such entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case; and
+&emsp;(1) such entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminalactivity and that the information sought would be material evidence in the case; and
 
 &emsp;(2) the subject of the information is afforded the opportunity to appear and contest such entity's claim.
 

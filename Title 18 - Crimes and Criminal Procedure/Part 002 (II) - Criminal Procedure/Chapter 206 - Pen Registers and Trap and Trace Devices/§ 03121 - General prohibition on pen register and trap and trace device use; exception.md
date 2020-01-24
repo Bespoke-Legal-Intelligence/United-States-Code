@@ -44,7 +44,7 @@ In General.—Except as provided in subsection (b), this title and the amendment
 
 "(b)
 
-Special Rule for State Authorizations of Interceptions.—Any pen register or trap and trace device order or installation which would be valid and lawful without regard to the amendments made by this title shall be valid and lawful notwithstanding such amendments if such order or installation occurs during the period beginning on the date such amendments take effect and ending on the earlier of—
+Special Rule for State Authorizations of Interceptions.—Any pen register or trap and trace device order or installation which would be valid and lawful without regard to the amendments made by this title shall be valid and lawful notwithstanding suchamendments if such order or installation occurs during the period beginning on the date such amendments take effect and ending on the earlier of—
 
 &emsp;"(1) the day before the date of the taking effect of changes in State law required in order to make orders or installations under Federal law as amended by this title; or
 

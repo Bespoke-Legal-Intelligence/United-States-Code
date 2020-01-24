@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding section 1232 of this title and section 553 of title 5, the Secretary shall, by notice in the Federal Register, publish thewaivers or modifications of statutory and regulatory provisions the Secretary deems necessary to achieve the purposes of this section.
+&emsp;Notwithstanding section 1232 of this title and section 553 of title 5, the Secretary shall, by notice in the Federal Register, publish the waivers or modifications of statutory and regulatory provisions the Secretary deems necessary to achieve the purposes of this section.
 
 #### (2) Terms and conditions
 
@@ -36,7 +36,7 @@
 
 #### (c) Impact report
 
-The Secretary shall, not later than 15 months after first exercising any authority to issue a waiver or modification under subsection (a), report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate on the impact of any waivers or modifications issued pursuant to subsection (a) on affected individuals and the programs under title IV of the Act \[20 U.S.C. 1070 et seq.\], and the basis for such determination, and include in such report the Secretary's recommendations for changes to the statutory or regulatory provisions that were the subject of such waiver or modification.
+The Secretary shall, not later than 15 months after first exercising any authority to issue a waiver or modification under subsection (a), report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate on the impact of anywaivers or modifications issued pursuant to subsection (a) on affected individuals and the programs under title IV of the Act \[20 U.S.C. 1070 et seq.\], and the basis for such determination, and include in such report the Secretary's recommendations for changes to the statutory or regulatory provisions that were the subject of such waiver or modification.
 
 #### (d) No delay in waivers and modifications
 
@@ -53,4 +53,8 @@ The Higher Education Act of 1965, referred to in subsecs. (a) and (c), is Pub. L
 Section was formerly set out in a note under section 1070 of this title.
 
 Section was enacted as part of the Higher Education Relief Opportunities for Students Act of 2003, and not as part of title IV of the Higher Education Act of 1965 which comprises this subchapter.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

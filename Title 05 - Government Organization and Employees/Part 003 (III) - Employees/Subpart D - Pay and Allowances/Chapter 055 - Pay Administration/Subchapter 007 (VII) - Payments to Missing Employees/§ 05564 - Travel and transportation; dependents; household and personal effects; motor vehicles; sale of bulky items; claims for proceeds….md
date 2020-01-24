@@ -20,7 +20,7 @@
 
 &emsp;(2) a monetary allowance, instead of transportation, as authorized by statute for the whole or that part of the travel for which transportation in kind was not furnished.
 
-(f) The head of the agency concerned may store the household and personal effects of an employee described in subsection (b) of this section until proper disposition can be made. The cost of the storage and transportation (including packing, crating, draying, temporarily storing, and unpacking) of household and personaleffects shall be charged against appropriations currently available.
+(f) The head of the agency concerned may store the household and personal effects of an employee described in subsection (b) of this section until proper disposition can be made. The cost of the storage and transportation (including packing, crating, draying, temporarily storing, and unpacking) of household and personal effects shall be charged against appropriations currently available.
 
 (g) When the head of the agency concerned determines that an emergency exists and that a sale would be in the best interests of the United States, he may provide for the public or private sale of motor vehicles and other bulky items of the household and personal effects of an employee described in subsection (b) of this section. Before a sale, and if practicable, a reasonable effort shall be made to determine the desires of interested persons. The net proceeds from the sale shall be sent to the owner or other person entitled thereto under regulations prescribed by the head of the agency concerned. If there is no owner or other person entitled thereto, or if the owner or other person or their addresses are not ascertained within 1 year from the date of sale, the net proceeds may be covered into the Treasury of the United States as miscellaneous receipts.
 
@@ -148,7 +148,7 @@ Act
 
 Oct. 19, 1965, Pub. L. 89–271, 79 Stat. 992.
 
-Only that portion of the source law applicable to civilian officers and employees and their dependents is codified in this section. That portion of the source law applicable to members of the uniformed services andtheir dependents is codified in 37 U.S.C. 554(a) by section 5(2) of this bill.
+Only that portion of the source law applicable to civilian officers and employees and their dependents is codified in this section. That portion of the source law applicable to members of the uniformed services and their dependents is codified in 37 U.S.C. 554(a) by section 5(2) of this bill.
 
 #### References in Text
 

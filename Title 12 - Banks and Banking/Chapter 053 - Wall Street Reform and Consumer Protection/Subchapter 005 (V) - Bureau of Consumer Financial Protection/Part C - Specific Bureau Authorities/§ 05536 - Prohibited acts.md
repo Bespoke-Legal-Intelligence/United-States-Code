@@ -10,7 +10,7 @@ It shall be unlawful for—
 
 &emsp;&emsp;(B) to engage in any unfair, deceptive, or abusive act or practice;
 
-&emsp;(2) any covered person or service provider to fail or refuse, as required by Federal consumerfinancial law, or any rule or order issued by the Bureau thereunder—
+&emsp;(2) any covered person or service provider to fail or refuse, as required by Federal consumer financial law, or any rule or order issued by the Bureau thereunder—
 
 &emsp;&emsp;(A) to permit access to or copying of records;
 

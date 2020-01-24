@@ -28,7 +28,7 @@ Changes were made in phraseology.
 
 <b>1978</b>—Pub. L. 95–563 inserted Contract Disputes Act of 1978 exception.
 
-<b>1961</b>—Pub. L. 87–187 provided for payment of final judgments rendered by a State or foreign court againstthe United States, its agencies or officials and compromise settlements and substituted "and compromise settlements" for "against the United States" in section catchline.
+<b>1961</b>—Pub. L. 87–187 provided for payment of final judgments rendered by a State or foreign court against the United States, its agencies or officials and compromise settlements and substituted "and compromise settlements" for "against the United States" in section catchline.
 
 #### Effective Date of 1980 Amendment
 

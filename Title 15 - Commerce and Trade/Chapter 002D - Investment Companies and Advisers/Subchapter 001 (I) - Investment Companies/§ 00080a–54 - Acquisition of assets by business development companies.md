@@ -22,13 +22,13 @@ It shall be unlawful for a business development company to acquire any assets (o
 
 &emsp;(2) securities of any eligible portfolio company with respect to which the business development company satisfies the requirements of section 80a–2(a)(46)(C)(ii) of this title;
 
-&emsp;(3) securities purchased in transactions not involving any public offering from an issuer described in sections 80a–2(a)(46)(A) and (B) of this title or from a person who is, or who within the preceding thirteen months has been, an affiliated person of such issuer, or from any person in transactions incident thereto, if such securities were—
+&emsp;(3) securities purchased in transactions not involving any public offering from an issuer described in sections 80a–2(a)(46)(A) and (B) of this title or from a person who is, or who within the preceding thirteen months has been, an affiliated person of such issuer, or from anyperson in transactions incident thereto, if such securities were—
 
 &emsp;&emsp;(A) issued by an issuer that is, or was immediately prior to the purchase of its securities by the business development company, in bankruptcy proceedings, subject to reorganization under the supervision of a court of competent jurisdiction, or subject to a plan or arrangement resulting from such bankruptcy proceedings or reorganization;
 
 &emsp;&emsp;(B) issued by an issuer pursuant to or in consummation of such a plan or arrangement; or
 
-&emsp;&emsp;(C) issued by an issuer that, immediately prior to the purchase of such issuer's securities by the business development company, was not in bankruptcy proceedings but wasunable to meet its obligations as they came due without material assistance other than conventional lending or financing arrangements;
+&emsp;&emsp;(C) issued by an issuer that, immediately prior to the purchase of such issuer's securities by the business development company, was not in bankruptcy proceedings but was unable to meet its obligations as they came due without material assistance other than conventional lending or financing arrangements;
 
 &emsp;(4) securities of eligible portfolio companies purchased from any person in transactions not involving any public offering, if there is no ready market for such securities and if immediately prior to such purchase the business development company owns at least 60 per centum of the outstanding equity securities of such issuer (giving effect to all securities presently convertible into or exchangeable for equity securities of such issuer as if such securities were so converted or exchanged);
 

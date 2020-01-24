@@ -8,7 +8,7 @@
 
 &emsp;(3) the Nation's capacity to conduct high quality research and education programs and to maintain its competitive position at the forefront of modern science, engineering, and technology is threatened by this research capital deficit, which poses serious and adverse consequences to our future national security, health, welfare, and ability to compete in the international marketplace;
 
-&emsp;(4) a national effort to spur reinvestment in research facilities is needed, and national,State, and local policies and cooperative programs are required that will yield maximum return on the investment of scarce national resources and sustain a commitment to excellence in research and education; and
+&emsp;(4) a national effort to spur reinvestment in research facilities is needed, and national, State, and local policies and cooperative programs are required that will yield maximum return on the investment of scarce national resources and sustain a commitment to excellence in research and education; and
 
 &emsp;(5) the Foundation, as part of its responsibility for maintaining the vitality of the Nation's academic research, and in partnership with the States, industry, and universities and colleges, must assist in enhancing the historic linkages between Federal investment in academic research and training and investment in the research capital base by reinvesting in the capital facilities which modern research and education programs require.
 

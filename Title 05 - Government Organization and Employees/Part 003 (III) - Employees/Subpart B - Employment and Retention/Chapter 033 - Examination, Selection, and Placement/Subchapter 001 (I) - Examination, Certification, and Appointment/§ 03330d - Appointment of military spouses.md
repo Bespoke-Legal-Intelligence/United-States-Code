@@ -92,7 +92,7 @@ Relocating spouses.—With respect to the noncompetitive appointment of a reloca
 
 &emsp;"(B) shall require the head of each agency with authority to make such appointments under such section to submit an annual report to the Director on such appointments, including information on the number of individuals so appointed, the types of positions filled, and the effectiveness of the authority for such appointments; and
 
-&emsp;"(C) not later than 18 months after the date of the enactment of this Act \[Aug. 13, 2018\], shall submit a report to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Government Affairs of the Senate on the use and effectiveness of such authority.
+&emsp;"(C) not later than 18 months after the date of the enactment of this Act \[Aug. 13, 2018\], shall submit a report to the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Homeland Security and Government Affairs of the Senate on the use and effectiveness of such authority.
 
 "(2)
 

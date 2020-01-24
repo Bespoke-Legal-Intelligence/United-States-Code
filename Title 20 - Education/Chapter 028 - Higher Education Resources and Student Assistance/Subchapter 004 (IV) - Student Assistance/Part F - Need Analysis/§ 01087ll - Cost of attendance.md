@@ -36,7 +36,7 @@ For the purpose of this subchapter, the term "cost of attendance" means—
 
 &emsp;&emsp;(B) the period for which dependent care is required includes, but is not limited to, class-time, study-time, field work, internships, and commuting time;
 
-&emsp;(9) for a student with a disability, an allowance (as determined by the institution) for those expenses related to the student's disability, including special services, personal assistance, transportation, equipment, and supplies that are reasonably incurred and not provided for by other assisting agencies;
+&emsp;(9) for a student with a disability, an allowance (as determined by the institution) forthose expenses related to the student's disability, including special services, personal assistance, transportation, equipment, and supplies that are reasonably incurred and not provided for by other assisting agencies;
 
 &emsp;(10) for a student receiving all or part of the student's instruction by means of telecommunications technology, no distinction shall be made with respect to the mode of instruction in determining costs;
 

@@ -42,7 +42,7 @@ Except as otherwise provided in this subchapter, the following conditions apply 
 
 &emsp;(12) Nothing in this subchapter shall be construed to provide an individual with an entitlement to a service under this subchapter.
 
-&emsp;(13) Services, facilities, or equipment funded under this subchapter may be used, as appropriate, on a fee-for-service basis, by employers in a local area in order to provide employmentand training activities to incumbent workers—
+&emsp;(13) Services, facilities, or equipment funded under this subchapter may be used, as appropriate, on a fee-for-service basis, by employers in a local area in order to provide employment and training activities to incumbent workers—
 
 &emsp;&emsp;(A) when such services, facilities, or equipment are not in use for the provision of services for eligible participants under this subchapter;
 

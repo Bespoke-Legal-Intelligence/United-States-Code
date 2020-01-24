@@ -18,7 +18,7 @@
 
 #### senate report no. 95–989
 
-This section, derived in large part from current Bankruptcy Act section 60d \[section 96(d) of former title 11\], requires the debtor's attorney to file with the court a statement of the compensation paid or agreed to be paid to the attorney for services in contemplation of and in connection with the case, and the source of the compensation. Payments to a debtor's attorney provide serious potential for evasion of creditor protection provisions of the bankruptcy laws, and serious potential for overreaching by the debtor's attorney, and should be subject to careful scrutiny.
+This section, derived in large part from current Bankruptcy Act section 60d \[section 96(d) of former title 11\], requires the debtor's attorney to file with the court a statement of the compensation paid or agreed to be paid to the attorney for services in contemplation of and in connection with the case, and the source ofthe compensation. Payments to a debtor's attorney provide serious potential for evasion of creditor protection provisions of the bankruptcy laws, and serious potential for overreaching by the debtor's attorney, and should be subject to careful scrutiny.
 
 Subsection (b) permits the court to deny compensation to the attorney, to cancel an agreement to pay compensation, or to order the return of compensation paid, if the compensation exceeds the reasonable value of the services provided. The return of payments already made are generally to the trustee for the benefit of the estate. However, if the property would not have come into the estate in any event, the court will order it returned to the entity that made the payment.
 

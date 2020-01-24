@@ -158,5 +158,5 @@ Subsec. (d). Pub. L. 115–254, §1111(a)(2), added subsec. (d).
 
 #### Savings Clause
 
-Pub. L. 115–254, div. C, §1111(c), Oct. 5, 2018, 132 Stat. 3436, provided that: "Nothing in this section \[amendingthis section\] or the amendments made by this section may be construed to limit or otherwise affect the authority of the \[National Transportation Safety\] Board to update, close, or reissue a recommendation."
+Pub. L. 115–254, div. C, §1111(c), Oct. 5, 2018, 132 Stat. 3436, provided that: "Nothing in this section \[amending this section\] or the amendments made by this section may be construed to limit or otherwise affect the authority of the \[National Transportation Safety\] Board to update, close, or reissue a recommendation."
 

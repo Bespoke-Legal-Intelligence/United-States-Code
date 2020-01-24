@@ -16,7 +16,7 @@ Family Members.—While a member of a reserve component is covered by TRICARE Re
 
 (d)
 
-Premiums.—(1) A member of a reserve component covered by TRICARE Retired Reserve under this section shall pay a premium for that coverage. Such premium shall apply instead of any enrollment fees required under section 1075 of this section.<sup>1</sup>
+Premiums.—(1) A member of a reserve component covered by TRICARE Retired Reserve under this section shall pay a premium for that coverage. Such premium shall apply instead of any enrollment fees required under section 1075 of this title.
 
 (2) The Secretary of Defense shall prescribe for the purposes of this section one premium for TRICARE Retired Reserve coverage of members without dependents and one premium for TRICARE Retired Reserve coverage of members with dependents referred to in subsection (f)(1). The premium prescribed for a coverage shall apply uniformly to all members of the reserve components covered under this section.
 
@@ -42,9 +42,11 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) health benefits under the TRICARE Select self-managed, preferred provider network option under section 1075 of this title made available to beneficiaries by reason of this section and subject to the cost-sharing requirements set forth in such section 1075.
 
-(Added Pub. L. 111–84, div. A, title VII, §705(a), Oct. 28, 2009, 123 Stat. 2374; Pub. L. 114–328, div. A, title VII, §701(j)(1)(C), Dec. 23, 2016, 130 Stat. 2192; Pub. L. 115–91, div. A, title VII, §701(b), Dec. 12, 2017, 131 Stat. 1432.)
+(Added Pub. L. 111–84, div. A, title VII, §705(a), Oct. 28, 2009, 123 Stat. 2374; Pub. L. 114–328, div. A, title VII, §701(j)(1)(C), Dec. 23, 2016, 130 Stat. 2192; Pub. L. 115–91, div. A, title VII, §701(b), Dec.12, 2017, 131 Stat. 1432; Pub. L. 116–92, div. A, title XVII, §1731(a)(25), Dec. 20, 2019, 133 Stat. 1813.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (d)(1). Pub. L. 116–92 substituted "section 1075 of this title" for "section 1075 of this section".
 
 <b>2017</b>—Subsec. (b). Pub. L. 115–91, §701(b)(1), struck out "Retired Reserve" after "TRICARE" in heading. See first 2016 Amendment note for subsec. (b) below.
 
@@ -69,6 +71,4 @@ Amendment by Pub. L. 114–328 applicable with respect to the provision of healt
 #### Effective Date
 
 Pub. L. 111–84, div. A, title VII, §705(c), Oct. 28, 2009, 123 Stat. 2375, provided that: "Section 1076e of title 10, United States Code, as inserted by subsection (a), shall apply to coverage for months beginning on or after October 1, 2009, or such earlier date as the Secretary of Defense may specify."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "of this title."</i>
 

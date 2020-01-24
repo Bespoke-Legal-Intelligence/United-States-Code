@@ -126,7 +126,7 @@ In general.—Subject to the other provisions of this subsection, the Federal sh
 
 &emsp;(2)
 
-Federal agency project sponsor.—Notwithstanding any other provision of law, a Federal agency that sponsors a project under this section may contribute additional Federal funds toward the cost of a project, except that—
+Federal agency project sponsor.—Notwithstanding any other provision of law, a Federal agency that sponsors a project under this section may contribute additional Federalfunds toward the cost of a project, except that—
 
 &emsp;&emsp;(A) the share attributable to the Secretary of Transportation may not exceed the amount determined in accordance with section 120(b) for the cost of a project under this section; and
 

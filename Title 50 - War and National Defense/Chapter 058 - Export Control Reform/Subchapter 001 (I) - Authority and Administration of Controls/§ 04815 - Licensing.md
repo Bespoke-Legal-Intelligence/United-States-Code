@@ -14,7 +14,7 @@ It is the sense of Congress that the Secretary should make best efforts to ensur
 
 #### (c) Fees
 
-No fee may be charged in connection with the submission, processing, or consideration of any application for a license or other authorizationor other request made in connection with any regulation in effect under the authority of this subchapter.
+No fee may be charged in connection with the submission, processing, or consideration of any application for a license or other authorization or other request made in connection with any regulation in effect under the authority of this subchapter.
 
 #### (d) Additional procedural requirements
 
@@ -30,7 +30,7 @@ No fee may be charged in connection with the submission, processing, or consider
 
 &emsp;A significant negative impact on the United States defense industrial base is the following:
 
-&emsp;&emsp;(A) A reduction in the availability of an item produced in the United States that is likely to be acquired by the Department of Defense or other Federal department or agency for the advancement of the national security of the United States, or for the production of an item in the United States for the Department of Defense or other agency for the advancement of the national security of the United States.
+&emsp;&emsp;(A) A reduction in the availability of an item produced in the United States that islikely to be acquired by the Department of Defense or other Federal department or agency for the advancement of the national security of the United States, or for the production of an item in the United States for the Department of Defense or other agency for the advancement of the national security of the United States.
 
 &emsp;&emsp;(B) A reduction in the production in the United States of an item that is the result of research and development carried out, or funded by, the Department of Defense or other Federal department or agency to advance the national security of the United States, or a federally funded research and development center.
 

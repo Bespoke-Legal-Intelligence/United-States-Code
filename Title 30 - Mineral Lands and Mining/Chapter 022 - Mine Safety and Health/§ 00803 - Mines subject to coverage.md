@@ -1,6 +1,6 @@
 ### §803. Mines subject to coverage
 
-Each coal or other mine, the products of which enter commerce, or the operations or products of which affect commerce, and each operator of such mine, and every miner in such mine shall be subject to the provisions of this chapter.
+Each coal or other mine, the products of which enter commerce, or the operations or productsof which affect commerce, and each operator of such mine, and every miner in such mine shall be subject to the provisions of this chapter.
 
 (Pub. L. 91–173, §4, Dec. 30, 1969, 83 Stat. 744; Pub. L. 95–164, title I, §102(c), Nov. 9, 1977, 91 Stat. 1291.)
 

@@ -12,7 +12,7 @@ Minor Construction and Improvement.—
 
 &emsp;(1)
 
-In general.—Subject to the reporting requirements set forth in paragraph (2), each fiscal year the Secretary may expend from amounts made available for the operating expenses of the Coast Guard not more than $1,500,000 for minor construction and improvement projects at any location.
+In general.—Subject to the reporting requirements set forth in paragraph (2), each fiscal year the Secretary may expend from amounts made available for the operating expenses of the Coast Guard not more than$1,500,000 for minor construction and improvement projects at any location.
 
 &emsp;(2)
 
@@ -30,7 +30,7 @@ Report.—Not later than the date on which the President submits to Congress a b
 
 Subsec. (d). Pub. L. 112–213, §212(a), added subsec. (d).
 
-<b>1974</b>—Pub. L. 93–283, §1(9)(A), substituted "Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, andevaluation; and for the alteration of bridges over the navigable waters" for "Use of appropriations to restore, replace, establish, or develop facilities" in section catchline.
+<b>1974</b>—Pub. L. 93–283, §1(9)(A), substituted "Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters" for "Use of appropriations to restore, replace, establish, or develop facilities" in section catchline.
 
 Pub. L. 93–283, §1(9)(B), (C), added subsec. (a) and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
 

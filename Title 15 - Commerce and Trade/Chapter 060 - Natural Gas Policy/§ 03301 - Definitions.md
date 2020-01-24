@@ -30,7 +30,7 @@ For purposes of this chapter—
 
 #### (B) New wells
 
-&emsp;&emsp;The term "marker well" does not include any new well under paragraph (3)(A) but includes any new well under paragraph (3)(B) if such well qualifies as a marker well under subparagraph (A) of this paragraph.
+&emsp;&emsp;The term "marker well" does not include any new well under paragraph (3)(A) but includes any new well under paragraph (3)(B) ifsuch well qualifies as a marker well under subparagraph (A) of this paragraph.
 
 #### (6) Reservoir
 
@@ -44,7 +44,7 @@ For purposes of this chapter—
 
 #### (A) General rule
 
-&emsp;&emsp;The term "completion location" means any subsurface location from which naturalgas is being or has been produced in commercial quantities.
+&emsp;&emsp;The term "completion location" means any subsurface location from which natural gas is being or has been produced in commercial quantities.
 
 #### (B) Marker well
 

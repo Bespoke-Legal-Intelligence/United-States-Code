@@ -52,6 +52,76 @@ Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted "multiy
 
 Pub. L. 115–91, div. A, title X, §1042(d), Dec. 12, 2017, 131 Stat. 1554, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 12, 2017\], and shall apply to future-years defense programs submitted at the time of budgets of the President for fiscal years beginning after fiscal year 2018."
 
+#### Budgeting of Department of Defense Relating to Extreme Weather
+
+Pub. L. 116–92, div. A, title III, §328, Dec. 20, 2019, 133 Stat. 1311, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall include in the annual budget submission of the President under section 1105(a) of title 31, United States Code—
+
+&emsp;"(1) a dedicated budget line item for adaptation to, and mitigation of, effects of extreme weather on military networks, systems, installations, facilities, and other assets and capabilities of the Department of Defense; and
+
+&emsp;"(2) an estimate of the anticipated adverse impacts to the readiness of the Department and the financial costs to the Department during the year covered by the budget of the loss of, or damage to, military networks, systems, installations, facilities, and other assets and capabilities of the Department, including loss of or obstructed access to training ranges, as a result \[of\] extreme weather events.
+
+"(b)
+
+Disaggregation of Impacts and Costs.—The estimate under subsection (a)(2) shall set forth the adverse readiness impacts and financial costs under that subsection by military department, Defense Agency, and other component or element of the Department.
+
+"(c)
+
+Extreme Weather Defined.—In this section, the term 'extreme weather' means recurrent flooding, drought, desertification, wildfires, and thawing permafrost."
+
+#### Inclusion of Procurement Technical Assistance Cooperative Agreement Program in Annual Budget Justification Documents
+
+Pub. L. 116–92, div. A, title VIII, §852(c), Dec. 20, 2019, 133 Stat. 1511, provided that: "The Secretary of Defense shall submit to Congress, as a part of the defense budget materials (as defined in section 234(d) of title 10, United States Code) for fiscal year 2021 and each fiscal year thereafter, a budget justification display that includes the procurement technical assistance cooperative agreement program under chapter 142 of title 10, United States Code, as part of the budget justification for Operation and Maintenance, Defense-wide for the Office of the Secretary of Defense."
+
+#### Inclusion of European Deterrence Initiative in Annual Budget Display Information
+
+Pub. L. 116–92, div. A, title XII, §1243(b)–(d), Dec. 20, 2019, 133 Stat. 1657, 1658, provided that:
+
+"(b)
+
+Budget Display Information.—The Secretary of Defense shall include in the materials submitted to Congress by the Secretary in support of the budget of the President for fiscal year 2021 and each fiscal year thereafter (as submitted under section 1105 of title 31, United States Code), a detailed budget display for the European Deterrence Initiative that includes the following information (regardless of whether the funding line is for overseas contingency operations):
+
+&emsp;"(1) With respect to procurement accounts—
+
+&emsp;&emsp;"(A) amounts displayed by account, budget activity, line number, line item, and line item title; and
+
+&emsp;&emsp;"(B) a description of the requirements for each such amounts specific to the Initiative.
+
+&emsp;"(2) With respect to research, development, test, and evaluation accounts—
+
+&emsp;&emsp;"(A) amounts displayed by account, budget activity, line number, program element, and program element title; and
+
+&emsp;&emsp;"(B) a description of the requirements for each such amounts specific to the Initiative.
+
+&emsp;"(3) With respect to operation and maintenance accounts—
+
+&emsp;&emsp;"(A) amounts displayed by account title, budget activity title, line number, and subactivity group title; and
+
+&emsp;&emsp;"(B) a description of how such amounts will specifically be used.
+
+&emsp;"(4) With respect to military personnel accounts—
+
+&emsp;&emsp;"(A) amounts displayed by account, budget activity, budget subactivity, and budget subactivity title; and
+
+&emsp;&emsp;"(B) a description of the requirements for each such amounts specific to the Initiative.
+
+&emsp;"(5) With respect to each project under military construction accounts (including with respect to unspecified minor military construction and amounts for planning and design), the country, location, project title, and project amount by fiscal year.
+
+"(c)
+
+End of Fiscal Year Report.—Not later than November 30, 2020, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that contains—
+
+&emsp;"(1) a detailed summary of funds obligated for the European Deterrence Initiative for the preceding fiscal year; and
+
+&emsp;"(2) a detailed comparison of funds obligated for the European Deterrence Initiative for the preceding fiscal year to amounts requested for the Initiative for that fiscal year in the materials submitted to Congress by the Secretary in support of the budget of the President for that fiscal year as required by subsection (c), including with respect to each of the accounts described in paragraphs (1), (2), (3), (4), and (5) of subsection (b) and the information required under each such paragraph.
+
+"(d)
+
+Interim Briefing.—Not later than March 30, 2021, and annually thereafter, the Secretary of Defense shall provide the congressional defense committees with an interim briefing on the status of all matters covered by the end of fiscal year report required by section (c)."
+
 #### Reporting on Future Years Budgeting by Subactivity Group
 
 Pub. L. 115–232, div. A, title III, §357, Aug. 13, 2018, 132 Stat. 1732, provided that: "Along with the budget for each fiscal year submitted by the President pursuant to section 1105(a) of title 31, United States Code, the Secretary of Defense and the Secretaries of the military departments shall include in the OP-5 Justification Books, as detailed by Department of Defense Financial Management Regulation 7000.14–R, the amount for each individual subactivity group, as detailed in the Department's future years defense program pursuant to section 221 of title 10, United States Code."
@@ -114,7 +184,7 @@ Pub. L. 115–232, div. A, title XVI, §1697, Aug. 13, 2018, 132 Stat. 2171, pro
 
 "(a)
 
-In General.—The Under Secretary of Defense (Comptroller) shall include in the budget justification materials submitted to Congress in support of the Department of Defense budget for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code) a single budget exhibit containing relevant details pertaining to support provided by the Department of Defense to the Executive Office of the President related to senior leadercommunications and continuity of Government programs.
+In General.—The Under Secretary of Defense (Comptroller) shall include in the budget justification materials submitted to Congress in support of the Department of Defense budget for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code) a single budget exhibit containing relevant details pertaining to support provided by the Department of Defense to the Executive Office of the President related to senior leader communications and continuity of Government programs.
 
 "(b)
 
@@ -135,6 +205,80 @@ Pub. L. 115–141, div. J, title IV, §402, Mar. 23, 2018, 132 Stat. 831, provid
 #### DoD Guidance
 
 Pub. L. 115–91, div. A, title X, §1042(e), Dec. 12, 2017, 131 Stat. 1554, provided that: "The Secretary of Defense shall, in coordination with the Under Secretary of Defense (Comptroller), update Department of Defense Financial Management Regulation 7000.14–R, and any other appropriate instructions and guidance, to ensure that the Department of Defense takes appropriate actions to comply with the amendments made by this section \[amending this section\] in the submittal of future-years defense programs in calendar years after calendar year 2017."
+
+#### Future Years Plans for the European Deterrence Initiative
+
+Pub. L. 115–91, div. A, title XII, §1273, Dec. 12, 2017, 131 Stat. 1696, as amended by Pub. L. 116–92, div. A, title XII, §1243(a), Dec. 20, 2019, 133 Stat. 1656, provided that:
+
+"(a)
+
+Initial Plan.—Not later than December 31, 2019, the Secretary of Defense, in consultation with the Commander of the United States European Command, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a future years plan on activities and resources of the European Deterrence Initiative (EDI) for fiscal year 2020 and not fewer than the four succeeding fiscal years.
+
+"(b)
+
+Matters to Be Included.—The plan required under subsection (a) shall include the following:
+
+&emsp;"(1) A description of the objectives of the EDI, including a description of—
+
+&emsp;&emsp;"(A) the intended force structure and posture of the assigned and allocated forces within the area of responsibility of the United States European Command for the last fiscal year of the plan; and
+
+&emsp;&emsp;"(B) the manner in which such force structure and posture support the implementation of the National Defense Strategy.
+
+&emsp;"(2) An assessment of resource requirements to achieve the objectives of the EDI.
+
+&emsp;"(3) An assessment of capabilities requirements to achieve the objectives of the EDI.
+
+&emsp;"(4) An assessment of logistics requirements, including force enablers, equipment, supplies, storage, and maintenance requirements, to achieve the objectives of the EDI.
+
+&emsp;"(5) An identification and assessment of required infrastructure and military construction investments to achieve the objectives of the EDI, including potential infrastructure investments by host nations and new construction or modernization of existing sites that would be funded by the United States.
+
+&emsp;"(6) An assessment of security cooperation investments required to achieve the objectives of the EDI.
+
+&emsp;"(7) An analysis of the challenges to the ability of the United States to deploy significant forces from the continental United States to the European theater in the event of a major contingency, and a description of the plans of the Department of Defense, including military exercises, to address such challenges.
+
+&emsp;"(8) A plan to fully resource United States force posture and capabilities, including—
+
+&emsp;&emsp;"(A) details regarding the strategy to balance the force structure of the United States forces to source additional permanently stationed United States forces in Europe as a part of any planned growth in end strength and force posture;
+
+&emsp;&emsp;"(B) the infrastructure capacity of existing locations and their ability to accommodate additional permanently stationed United States forces in Europe;
+
+&emsp;&emsp;"(C) the potential new locations for additional permanently stationed United States forces in Europe, including an assessment of infrastructure and military construction resources necessary to accommodate additional United States forces in Europe;
+
+&emsp;&emsp;"(D) a detailed timeline to achieve desired permanent posture requirements;
+
+&emsp;&emsp;"(E) a reevaluation of sites identified for divestiture but not yet divested under the European Infrastructure Consolidation initiative, accounting for updated military requirements;
+
+&emsp;&emsp;"(F) any changes and associated costs incurred with retaining each site identified for divestiture but not yet divested under the European Infrastructure Consolidation initiative, including possible leasing agreements, sustainment, and maintenance;
+
+&emsp;&emsp;"(G) a detailed assessment of the resources necessary to achieve the requirements of the plan, including specific cost estimates for each project under the EDI to support increased presence, exercises and training, enhanced prepositioning, improved infrastructure, and building partnership capacity;
+
+&emsp;&emsp;"(H) a detailed timeline to achieve the force posture and capabilities, including permanent force posture requirements; and
+
+&emsp;&emsp;"(I) a detailed explanation of any significant modifications to activities and resources as compared to the future years plan on activities and resources of the EDI submitted for the previous year.
+
+"(c)
+
+Subsequent Plans.—
+
+&emsp;"(1)
+
+In general.—Not later than the date on which the Secretary of Defense submits to Congress the budget request for the Department of Defense for fiscal year 2021 and each fiscal year thereafter, the Secretary, in consultation with the Commander of the United States European Command, shall submit to the congressional defense committees a future years plan on activities and resources of the European Deterrence Initiative for such fiscal year and not fewer than the four succeeding fiscal years.
+
+&emsp;"(2)
+
+Matters to be included.—The plan required under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) the matters described in subsection (b); and
+
+&emsp;&emsp;"(B) a detailed explanation of any significant modifications in requirements or resources, as compared to the plan submitted under such subsection (b).
+
+"(d)
+
+Form.—The plans required under subsections (a) and (c) shall be submitted in unclassified form, but may include a classified annex.
+
+"(e)
+
+Limitations.—In the case of a proposed divestiture of a site under the European Infrastructure Consolidation initiative, the Secretary of Defense may not take any action to divest the site unless prior to taking such action, the Secretary certifies to the congressional defense committees that no military requirement for future use of the site is foreseeable."
 
 #### Review of Support Provided by Defense Intelligence Elements to Acquisition Activities of the Department
 
@@ -196,7 +340,7 @@ Pub. L. 113–66, div. A, title II, §219, Dec. 26, 2013, 127 Stat. 708, provide
 
 "(a)
 
-Project Codes for Budget Submissions.—In the budget submitted by the President to Congress under section 1105 of title 31, United States Code, for fiscal year 2015 and each subsequent fiscal year, each capability component within the distributed common ground system program shall be set forth as a separate project code within the program element line, and each covered official shall submit supporting justification forthe project code within the program element descriptive summary.
+Project Codes for Budget Submissions.—In the budget submitted by the President to Congress under section 1105 of title 31, United States Code, for fiscal year 2015 and each subsequent fiscal year, each capability component within the distributed common ground system program shall be set forth as a separate project code within the program element line, and each covered official shall submit supporting justification for the project code within the program element descriptive summary.
 
 "(b)
 
@@ -302,7 +446,7 @@ Pub. L. 111–383, div. A, title II, §213, Jan. 7, 2011, 124 Stat. 4163, provid
 
 #### Separate Procurement Line Item for Body Armor
 
-Pub. L. 111–84, div. A, title I, §141(b), Oct. 28, 2009, 123 Stat. 2223, provided that: "In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuantto section 1105 of title 31, United States Code, of the budget for fiscal year 2011, and each subsequent fiscal year, the Secretary shall ensure that within each military department procurement account, a separate, dedicated procurement line item is designated for body armor."
+Pub. L. 111–84, div. A, title I, §141(b), Oct. 28, 2009, 123 Stat. 2223, provided that: "In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to section 1105 of title 31, United States Code, of the budget for fiscal year 2011, and each subsequent fiscal year, the Secretary shall ensure that within each military department procurement account, a separate, dedicated procurement line item is designated for body armor."
 
 #### Separate Program Elements Required for Research and Development of Individual Body Armor and Associated Components
 
@@ -318,7 +462,7 @@ Pub. L. 111–84, div. A, title II, §220, Oct. 28, 2009, 123 Stat. 2229, provid
 
 "(a)
 
-Guidance on Budget Justification Materials.—The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and the Director of the Department of Defense Test Resource Management Center, shall issue guidance clarifying and standardizing the information required in budget justification materials describing amounts to be requested in the budget of the President for a fiscal year (as submitted to Congress pursuant to section 1105(a) of title 31, United States Code) for funding for each facility and resource of the Major Range and Test Facility Base in connection with each of the following:
+Guidance on Budget Justification Materials.—The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and the Director of the Department of Defense Test ResourceManagement Center, shall issue guidance clarifying and standardizing the information required in budget justification materials describing amounts to be requested in the budget of the President for a fiscal year (as submitted to Congress pursuant to section 1105(a) of title 31, United States Code) for funding for each facility and resource of the Major Range and Test Facility Base in connection with each of the following:
 
 &emsp;"(1) Operation.
 
@@ -412,7 +556,7 @@ Pub. L. 110–181, div. A, title IX, §901(b), (c), Jan. 28, 2008, 122 Stat. 272
 
 #### Major Force Program Category for Space
 
-Pub. L. 112–10, div. A, title VIII, §8092, Apr. 15, 2011, 125 Stat. 77, provided that: "The Secretary of Defense shall create a major force program category for space for each future-years defense program of the Department of Defense submitted to Congress under section 221 of title 10, United States Code, during fiscal year 2011. The Secretary of Defense shall designate an official in the Office of the Secretary of Defense to provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category."
+Pub. L. 112–10, div. A, title VIII, §8092, Apr. 15, 2011, 125 Stat. 77, provided that: "The Secretary of Defenseshall create a major force program category for space for each future-years defense program of the Department of Defense submitted to Congress under section 221 of title 10, United States Code, during fiscal year 2011. The Secretary of Defense shall designate an official in the Office of the Secretary of Defense to provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -504,9 +648,11 @@ Pub. L. 107–64, §131, Nov. 5, 2001, 115 Stat. 482.
 
 #### Budget Justification Documents for Costs of Armed Forces' Participation in Contingency Operations
 
-Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided that: "The budget of the President for fiscal year 2004 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces' participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003."
+Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided that: "The budget of the President forfiscal year 2004 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces' participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–93, div. A, title VIII, §8076, Dec. 20, 2019, 133 Stat. 2355.
 
 Pub. L. 115–245, div. A, title VIII, §8074, Sept. 28, 2018, 132 Stat. 3018.
 
@@ -578,7 +724,7 @@ Pub. L. 104–106, div. A, title II, §251, Feb. 10, 1996, 110 Stat. 233, which 
 
 #### Budget Submissions on Salaries and Expenses Related to Administrative Activities
 
-Pub. L. 109–148, div. A, title VIII, §8032, Dec. 30, 2005, 119 Stat. 2705, provided that: "The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, and hereafter, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the defense agencies."
+Pub. L. 109–148, div. A, title VIII, §8032, Dec. 30, 2005, 119 Stat. 2705, provided that: "The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, and hereafter, materials that shall identify clearly and separately the amounts requested inthe budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the defense agencies."
 
 Similar provisions were contained in the following prior appropriation acts:
 

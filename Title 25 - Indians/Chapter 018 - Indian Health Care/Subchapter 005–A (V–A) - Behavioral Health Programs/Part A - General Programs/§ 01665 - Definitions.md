@@ -12,7 +12,7 @@ In this part:
 
 #### (3) Behavioral health aftercare
 
-&emsp;The term "behavioral health aftercare" includes those activities and resources used to support recovery following inpatient, residential, intensive substance abuse, or mental health outpatient or outpatient treatment.The purpose is to help prevent or deal with relapse by ensuring that by the time a client or patient is discharged from a level of care, such as outpatient treatment, an aftercare plan has been developed with the client. An aftercare plan may use such resources as a community-based therapeutic group, transitional living facilities, a 12-step sponsor, a local 12-step or other related support group, and other community-based providers.
+&emsp;The term "behavioral health aftercare" includes those activities and resources used to support recovery following inpatient, residential, intensive substance abuse, or mental health outpatient or outpatient treatment. The purpose is to help prevent or deal with relapse by ensuring that by the time a client or patient is discharged from a level of care, such as outpatient treatment, an aftercare plan has been developed with the client. An aftercare plan may use such resources as a community-based therapeutic group, transitional living facilities, a 12-step sponsor, a local 12-step or other related support group, and other community-based providers.
 
 #### (4) Dual diagnosis
 

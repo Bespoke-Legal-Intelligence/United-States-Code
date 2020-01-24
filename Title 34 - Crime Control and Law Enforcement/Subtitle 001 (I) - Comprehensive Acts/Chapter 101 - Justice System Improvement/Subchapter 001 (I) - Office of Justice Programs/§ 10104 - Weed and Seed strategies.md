@@ -20,7 +20,7 @@ From amounts made available under section 10103(c) of this title, the Director o
 
 The Director shall issue guidelines for the development and implementation of Weed and Seed strategies under this section. The guidelines shall ensure that the Weed and Seed strategy for a community referred to in subsection (a) shall—
 
-&emsp;(1) be planned and implemented through and under the auspices of a steering committee,properly established in the community, comprised of—
+&emsp;(1) be planned and implemented through and under the auspices of a steering committee, properly established in the community, comprised of—
 
 &emsp;&emsp;(A) in a voting capacity, representatives of—
 
@@ -96,7 +96,7 @@ An application for designation as a Weed-and-Seed community for purposes of subs
 
 #### (5) Federal share
 
-&emsp;(A) Subject to subparagraph (B), the Federal share of a grant under this subsection may not exceed 75 percent of the total costs of the projects described in the application for which the grant was made.
+&emsp;(A) Subject to subparagraph (B), the Federal share of a grant under this subsection may notexceed 75 percent of the total costs of the projects described in the application for which the grant was made.
 
 &emsp;(B) The requirement of subparagraph (A)—
 
@@ -106,7 +106,7 @@ An application for designation as a Weed-and-Seed community for purposes of subs
 
 #### (6) Supplement, not supplant
 
-&emsp;To receive a grant under this subsection, the applicant must provide assurances that theamounts received under the grant shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for programs or services provided in the community.
+&emsp;To receive a grant under this subsection, the applicant must provide assurances that the amounts received under the grant shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for programs or services provided in the community.
 
 (Pub. L. 90–351, title I, §104, as added Pub. L. 109–162, title XI, §1121(a), Jan. 5, 2006, 119 Stat. 3104.)
 

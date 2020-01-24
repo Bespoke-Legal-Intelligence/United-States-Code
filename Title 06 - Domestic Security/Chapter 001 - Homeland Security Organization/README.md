@@ -100,7 +100,7 @@
 | [195c.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195c%20-%20Promoting%20antiterrorism%20through%20international%20cooperation%20program.md) | Promoting antiterrorism through international cooperation program. |
 | [195d.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195d%20-%20Social%20media%20working%20group.md) | Social media working group. |
 | [195e.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195e%20-%20Transparency%20in%20research%20and%20development.md) | Transparency in research and development. |
-| [195f.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195f%20-%20EMP%20and%20GMD%20mitigation%20research%20and%20development.md) | EMP and GMD mitigation research and development. |
+| [195f.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195f%20-%20EMP%20and%20GMD%20mitigation%20research%20and%20development%20and%20threat%20assessment%2C%20response%2C%20and%20recovery.md) | EMP and GMD mitigation research and development and threat assessment, response, and recovery. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -114,6 +114,7 @@
 | [202\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20A%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security%20Responsibilities%20and%20Functions/%C2%A7%2000202%20-%20Border%2C%20maritime%2C%20and%20transportation%20responsibilities.md) | Border, maritime, and transportation responsibilities. |
 | [203\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20A%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security%20Responsibilities%20and%20Functions/%C2%A7%2000203%20-%20Functions%20transferred.md) | Functions transferred. |
 | [204\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20A%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security%20Responsibilities%20and%20Functions/%C2%A7%2000204%20-%20Surface%20Transportation%20Security%20Advisory%20Committee.md) | Surface Transportation Security Advisory Committee. |
+| [205\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20A%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security%20Responsibilities%20and%20Functions/%C2%A7%2000205%20-%20Ombudsman%20for%20immigration%20detention.md) | Ombudsman for immigration detention. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -244,6 +245,7 @@
 | [321m.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321m%20-%20Voluntary%20private%20sector%20preparedness%20accreditation%20and%20certification%20program.md) | Voluntary private sector preparedness accreditation and certification program. |
 | [321n.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321n%20-%20Acceptance%20of%20gifts.md) | Acceptance of gifts. |
 | 321<i>o.</i> | Integrated public alert and warning system modernization. |
+| 321o–1. | Integrated public alert and warning system. |
 | [321p.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321p%20-%20National%20planning%20and%20education.md) | National planning and education. |
 | [321q.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321q%20-%20Coordination%20of%20Department%20of%20Homeland%20Security%20efforts%20related%20to%20food%2C%20agriculture%2C%20and%20veterinary%20defense%20against%20terrorism.md) | Coordination of Department of Homeland Security efforts related to food, agriculture, and veterinary defense against terrorism. |
 
@@ -603,6 +605,7 @@
 | [607\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20A%20-%20Grants%20to%20States%20and%20High-Risk%20Urban%20Areas/%C2%A7%2000607%20-%20Terrorism%20prevention.md) | Terrorism prevention. |
 | [608\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20A%20-%20Grants%20to%20States%20and%20High-Risk%20Urban%20Areas/%C2%A7%2000608%20-%20Prioritization.md) | Prioritization. |
 | [609\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20A%20-%20Grants%20to%20States%20and%20High-Risk%20Urban%20Areas/%C2%A7%2000609%20-%20Use%20of%20funds.md) | Use of funds. |
+| [609a.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20A%20-%20Grants%20to%20States%20and%20High-Risk%20Urban%20Areas/%C2%A7%2000609a%20-%20Nonprofit%20Security%20Grant%20Program.md) | Nonprofit Security Grant Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

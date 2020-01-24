@@ -6,7 +6,7 @@ The Administrator shall continue the Management Conference of the Long Island So
 
 #### (b) Administration and staffing of Office
 
-The Office shall be headed by a Director, who shall be detailed by the Administrator, following consultation with the Administrators ofEPA regions I and II, from among the employees of the Agency who are in civil service. The Administrator shall delegate to the Director such authority and detail such additional staff as may be necessary to carry out the duties of the Director under this section.
+The Office shall be headed by a Director, who shall be detailed by the Administrator, following consultation with the Administrators of EPA regions I and II, from among the employees of the Agency who are in civil service. The Administrator shall delegate to the Director such authority and detail such additional staff as may be necessary to carry out the duties of the Director under this section.
 
 #### (c) Duties of Office
 
@@ -98,7 +98,7 @@ The Office shall assist the conference study in carrying out its goals. Specific
 
 #### (1) Coordination
 
-&emsp;The Administrator shall coordinate the actions of all Federal departments and agencies that affect water quality in the Long Island Sound watershed in order to improve the water quality and living resources of the watershed.
+&emsp;The Administrator shall coordinate the actions of all Federal departments and agencies that affect water quality in the Long Island Sound watershed in order to improve thewater quality and living resources of the watershed.
 
 #### (2) Methods
 

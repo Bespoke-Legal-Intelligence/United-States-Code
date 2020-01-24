@@ -254,9 +254,13 @@ Pub. L. 112–95, title V, §508, Feb. 14, 2012, 126 Stat. 106, provided that: "
 
 #### Strategy for Staffing, Hiring, and Training Flight Standards and Aircraft Certification Staff
 
-Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 977, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year".
+Pub. L. 116–6, div. G, title I, Feb. 15, 2019, 133 Stat. 401, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year".
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–94, div. H, title I, Dec. 20, 2019, 133 Stat. 2940.
+
+Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 977.
 
 Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 730.
 
@@ -304,7 +308,7 @@ Study.—The Administrator \[of the Federal Aviation Administration\] shall ente
 
 "(b)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a progress report on the work accomplished under the cooperative agreements detailing the evaluations performed to determine the potential of enhanced vision technology tomeet the operational requirements of the intended application.
+Report.—Not later than 180 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a progress report on the work accomplished under the cooperative agreements detailing the evaluations performed to determine the potential of enhanced vision technology to meet the operational requirements of the intended application.
 
 "(c)
 

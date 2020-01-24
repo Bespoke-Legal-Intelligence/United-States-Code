@@ -38,7 +38,7 @@ It is the purpose of this section to provide for the demonstration of solar ener
 
 #### (c) Planning for use of renewable energy systems in construction of new buildings
 
-Whenever any building is constructed under the authority contained in section 292 of thistitle, the Secretary of State shall insure that the planning for such construction takes into account those renewable energy systems which are available in the country in which the building is to be constructed.
+Whenever any building is constructed under the authority contained in section 292 of this title, the Secretary of State shall insure that the planning for such construction takes into account those renewable energy systems which are available in the country in which the building is to be constructed.
 
 #### (d) Availability of sums previously authorized to be appropriated
 

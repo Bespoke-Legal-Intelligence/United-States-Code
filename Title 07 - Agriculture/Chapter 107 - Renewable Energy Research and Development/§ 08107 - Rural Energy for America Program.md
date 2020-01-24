@@ -100,7 +100,7 @@ The Secretary, in consultation with the Secretary of Energy, shall establish a R
 
 #### (2) Award considerations
 
-&emsp;In determining the amount of a loan guarantee or grant provided under this section, the Secretary shall take into consideration, as applicable—
+&emsp;In determining the amount of a loan guarantee or grant provided under this section, theSecretary shall take into consideration, as applicable—
 
 &emsp;&emsp;(A) the type of renewable energy system to be purchased;
 
@@ -154,7 +154,7 @@ The Secretary, in consultation with the Secretary of Energy, shall establish a R
 
 #### (E) Application process
 
-&emsp;&emsp;The Secretary shall establish an application, evaluation, and oversight process thatis the most simplified for tier I projects and more comprehensive for each subsequent tier.
+&emsp;&emsp;The Secretary shall establish an application, evaluation, and oversight process that is the most simplified for tier I projects and more comprehensive for each subsequent tier.
 
 #### (d) Outreach
 

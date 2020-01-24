@@ -34,7 +34,7 @@ Subsection (a) shall not apply to a distribution by a corporation of its stock, 
 
 #### (4) Distributions on preferred stock
 
-&emsp;If the distribution is with respect to preferred stock, other than an increase in the conversion ratio of convertible preferred stockmade solely to take account of a stock dividend or stock split with respect to the stock into which such convertible stock is convertible.
+&emsp;If the distribution is with respect to preferred stock, other than an increase in the conversion ratio of convertible preferred stock made solely to take account of a stock dividend or stock split with respect to the stock into which such convertible stock is convertible.
 
 #### (5) Distributions of convertible preferred stock
 
@@ -44,7 +44,7 @@ Subsection (a) shall not apply to a distribution by a corporation of its stock, 
 
 For purposes of this section and section 301, the Secretary shall prescribe regulations under which a change in conversion ratio, a change in redemption price, a difference between redemption price and issue price, a redemption which is treated as a distribution to which section 301 applies, or any transaction (including a recapitalization) having a similar effect on the interest of any shareholder shall be treated as a distribution with respect to any shareholder whose proportionate interest in the earnings and profits or assets of the corporation is increased by such change, difference, redemption, or similar transaction. Regulations prescribed under the preceding sentence shall provide that—
 
-&emsp;(1) where the issuer of stock is required to redeem the stock at a specified time or the holder of stock has the option to require the issuer to redeem the stock, a redemption premium resulting from such requirement or option shall be treated as reasonable only if the amount of such premium does not exceed the amount determined under the principles of section 1273(a)(3),
+&emsp;(1) where the issuer of stock is required to redeem the stock at a specified time or the holder of stock has the option to require theissuer to redeem the stock, a redemption premium resulting from such requirement or option shall be treated as reasonable only if the amount of such premium does not exceed the amount determined under the principles of section 1273(a)(3),
 
 &emsp;(2) a redemption premium shall not fail to be treated as a distribution (or series of distributions) merely because the stock is callable, and
 
@@ -122,7 +122,7 @@ For purposes of this section and section 301, the Secretary shall prescribe regu
 
 &emsp;&emsp;<b>(3) In the case of a distribution which has the effect of the payment of compensation, see section 61(a)(1).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 91–172, title IV, §421(a), Dec. 30, 1969, 83 Stat. 614; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title III, §321(a), (b), Aug. 13, 1981, 95 Stat. 287, 289; Pub. L. 97–448, title I, §103(f), Jan. 12, 1983, 96 Stat. 2378; Pub. L.101–508, title XI, §§11322(a), 11801(a)(17), (c)(7), Nov. 5, 1990, 104 Stat. 1388–463, 1388–521, 1388–524; Pub. L. 103–66, title XIII, §13206(c)(1), Aug. 10, 1993, 107 Stat. 465; Pub. L. 108–357, title VIII, §831(b), Oct. 22, 2004, 118 Stat. 1587; Pub. L. 115–141, div. U, title IV, §401(c)(2)(D), Mar. 23, 2018, 132 Stat. 1206.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 91–172, title IV, §421(a), Dec. 30, 1969, 83 Stat. 614; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title III, §321(a), (b), Aug. 13, 1981, 95 Stat. 287, 289; Pub. L. 97–448, title I, §103(f), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 101–508, title XI, §§11322(a), 11801(a)(17), (c)(7), Nov. 5, 1990, 104 Stat. 1388–463, 1388–521, 1388–524; Pub. L. 103–66, title XIII, §13206(c)(1), Aug. 10, 1993, 107 Stat. 465; Pub. L. 108–357, title VIII, §831(b), Oct. 22, 2004, 118 Stat. 1587; Pub. L. 115–141, div. U, title IV, §401(c)(2)(D), Mar. 23, 2018, 132 Stat. 1206.)
 
 #### Amendments
 

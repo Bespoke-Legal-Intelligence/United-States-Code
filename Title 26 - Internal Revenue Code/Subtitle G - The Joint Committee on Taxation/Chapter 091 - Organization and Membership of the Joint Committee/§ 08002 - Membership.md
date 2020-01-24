@@ -10,7 +10,7 @@ The Joint Committee shall be composed of 10 members as follows:
 
 #### (2) From Committee on Ways and Means
 
-&emsp;Five members who are members of the Committee on Ways and Means of the House of Representatives, three from the majority and two from the minority party, to be chosen by such Committee.
+&emsp;Five members who are members of the Committee on Ways and Means of the House ofRepresentatives, three from the majority and two from the minority party, to be chosen by such Committee.
 
 #### (b) Tenure of office
 

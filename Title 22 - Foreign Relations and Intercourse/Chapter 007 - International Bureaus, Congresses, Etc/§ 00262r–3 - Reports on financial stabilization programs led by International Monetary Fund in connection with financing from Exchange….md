@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Treasury, in consultation with the Secretary of Commerce and other appropriate Federal agencies, shall prepare reports on the implementation of financial stabilization programs (and any material terms and conditions thereof) led by the International Monetary Fund in countries in connection with which theUnited States has made a commitment to provide, or has provided financing from the stabilization fund established under section 5302 of title 31. The reports shall include the following:
+The Secretary of the Treasury, in consultation with the Secretary of Commerce and other appropriate Federal agencies, shall prepare reports on the implementation of financial stabilization programs (and any material terms and conditions thereof) led by the International Monetary Fund in countries in connection with which the United States has made a commitment to provide, or has provided financing from the stabilization fund established under section 5302 of title 31. The reports shall include the following:
 
 &emsp;(1) A description of the condition of the economies of countries requiring the financial stabilization programs, including the monetary, fiscal, and exchange rate policies of the countries.
 
@@ -48,7 +48,7 @@ Not later than March 15, 1999, and semiannually thereafter, the Secretary of the
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–200 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Not later than March 15, 1999, and semiannually thereafter, the Secretary of the Treasury shall submit to the Committees on Banking and Financial Services and International Relations of the House of Representatives and the Committees on Foreign Relations, and Banking, Housing, and Urban Affairs of the Senate a report on the matters described in subsection (a) of this section."
+<b>2000</b>—Subsec. (b). Pub. L. 106–200 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Not later than March 15, 1999, and semiannually thereafter, the Secretary of the Treasury shall submit to the Committees on Banking and Financial Services and International Relations of the Houseof Representatives and the Committees on Foreign Relations, and Banking, Housing, and Urban Affairs of the Senate a report on the matters described in subsection (a) of this section."
 
 #### Change of Name
 

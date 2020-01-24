@@ -58,6 +58,60 @@
 
 <b>2001</b>—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
 
+#### American World War II Heritage Cities
+
+Pub. L. 116–9, title IX, §9007, Mar. 12, 2019, 133 Stat. 837, provided that:
+
+"(a)
+
+Designation.—In order to recognize and ensure the continued preservation and importance of the history of the United States involvement in World War II, each calendar year the Secretary \[of the Interior\] may designate 1 or more cities located in 1 of the several States or a territory of the United States as an 'American World War II Heritage City'. Not more than 1 city in each State or territory may be designated under this section.
+
+"(b)
+
+Application for Designation.—The Secretary may—
+
+&emsp;"(1) establish and publicize the process by which a city may apply for designation as an American WorldWar II Heritage City based on the criteria in subsection (c); and
+
+&emsp;"(2) encourage cities to apply for designation as an American World War II Heritage City.
+
+"(c)
+
+Criteria for Designation.—The Secretary, in consultation with the Secretary of the Smithsonian Institution or the President of the National Trust for Historic Preservation, shall make each designation under subsection (a) based on the following criteria:
+
+&emsp;"(1) Contributions by a city and its environs to the World War II home-front war effort, including contributions related to—
+
+&emsp;&emsp;"(A) defense manufacturing, such as ships, aircraft, uniforms, and equipment;
+
+&emsp;&emsp;"(B) production of foodstuffs and consumer items for Armed Forces and home consumption;
+
+&emsp;&emsp;"(C) war bond drives;
+
+&emsp;&emsp;"(D) adaptations to wartime survival;
+
+&emsp;&emsp;"(E) volunteer participation;
+
+&emsp;&emsp;"(F) civil defense preparedness;
+
+&emsp;&emsp;"(G) personnel serving in the Armed Forces, their achievements, and facilities for their rest and recreation; or
+
+&emsp;&emsp;"(H) the presence of Armed Forces camps, bases, airfields, harbors, repair facilities, and other installations within or in its environs.
+
+&emsp;"(2) Achievements by a city and its environs to preserve the heritage and legacy of the city's contributions to the war effort and to preserve World War II history, including—
+
+&emsp;&emsp;"(A) the identification, preservation, restoration, and interpretation of World War II-related structures, facilities and sites;
+
+&emsp;&emsp;"(B) establishment of museums, parks, and markers;
+
+&emsp;&emsp;"(C) establishment of memorials to area men who lost their lives in service;
+
+&emsp;&emsp;"(D) organizing groups of veterans and home-front workers and their recognition;
+
+&emsp;&emsp;"(E) presentation of cultural events such as dances, plays, and lectures;
+
+&emsp;&emsp;"(F) public relations outreach through the print and electronic media, and books; and
+
+&emsp;&emsp;"(G) recognition and ceremonies remembering wartime event anniversaries."
+
 #### 75th Anniversary of World War II Commemoration
 
 Pub. L. 115–433, Jan. 10, 2019, 132 Stat. 5523, provided that:
@@ -142,7 +196,7 @@ Acceptance of Voluntary Services.—
 
 &emsp;"(1)
 
-Authority to accept services.—Notwithstanding section 1342 of title 31, United States Code, the Secretary of Defense may accept from any person voluntary services to be provided in furtherance of the commemorative program. The Secretary of Defense shall prohibit the solicitation of any voluntary services if the nature or circumstances of such solicitation would compromise the integrity or the appearance of integrity of any program of the Department of Defense or of any individual involved in the program.
+Authority to accept services.—Notwithstanding section 1342 of title 31, United States Code, the Secretary of Defense may accept from any personvoluntary services to be provided in furtherance of the commemorative program. The Secretary of Defense shall prohibit the solicitation of any voluntary services if the nature or circumstances of such solicitation would compromise the integrity or the appearance of integrity of any program of the Department of Defense or of any individual involved in the program.
 
 &emsp;"(2)
 
@@ -188,7 +242,7 @@ Fund.—The Fund shall terminate 60 days after the termination of the commemorat
 
 #### 400 Years of African-American History Commission
 
-Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, provided that:
+Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, as amended by Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2692, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -302,7 +356,7 @@ Duties.—The Commission shall—
 
 "(a)
 
-Initial Meeting.—Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold the initial meeting of the Commission.
+Initial Meeting.—Not later than 30 days after the date on which all members of the Commission havebeen appointed, the Commission shall hold the initial meeting of the Commission.
 
 "(b)
 
@@ -470,7 +524,7 @@ Strategic Plan.—The Commission shall prepare a strategic plan for the activiti
 
 "(b)
 
-Final Report.—Not later than July 1, 2020, the Commission shall complete and submit to Congress a final report that contains—
+Final Report.—Not later than July 1, 2021, the Commission shall complete and submit to Congress a final report that contains—
 
 &emsp;"(1) a summary of the activities of the Commission;
 
@@ -482,7 +536,7 @@ Final Report.—Not later than July 1, 2020, the Commission shall complete and s
 
 "(a)
 
-Date of Termination.—The Commission shall terminate on July 1, 2020.
+Date of Termination.—The Commission shall terminate on July 1, 2021.
 
 "(b)
 
@@ -576,7 +630,7 @@ Time of Appointment.—Each initial appointment of a member of the Commission sh
 
 "(d)
 
-Continuation of Membership.—If a member of the Commission was appointed to the Commission as a Member of Congress, and ceases to be a Member of Congress, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date that member ceases to be a Member of Congress.
+Continuation of Membership.—If a member of the Commission was appointed to the Commission as aMember of Congress, and ceases to be a Member of Congress, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date that member ceases to be a Member of Congress.
 
 "(e)
 
@@ -680,7 +734,7 @@ Final Report.—Not later than June 1, 2019, the Commission shall submit a final
 
 #### Women's Suffrage Centennial Commission
 
-S. 847, One Hundred Fifteenth Congress, as introduced on Apr. 5, 2017, which was enacted into law by Pub. L. 115–31, div. G, title IV, §431(a)(3), May 5, 2017, 131 Stat. 502, provided that:
+Pub. L. 115–31, div. G, title IV, §431(a)(3) \[§§1–8\], May 5, 2017, 131 Stat. 502, 842A–17—842A–21, provided that:
 
 #### "SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
 
@@ -868,7 +922,7 @@ Postal Services.—The Centennial Commission may use the United States mails in 
 
 "(g)
 
-Gifts, Bequests, and Devises.—The Centennial Commission is authorized to solicit, accept, use, and dispose of gifts, bequests, or devises of money, services, or property, both real and personal, for the purpose of covering the costs incurred by the Centennial Commission to carry out its duties under this Act.
+Gifts, Bequests, and Devises.—The Centennial Commission is authorized to solicit, accept, use, anddispose of gifts, bequests, or devises of money, services, or property, both real and personal, for the purpose of covering the costs incurred by the Centennial Commission to carry out its duties under this Act.
 
 "(h)
 
@@ -932,7 +986,7 @@ Application of Federal Advisory Committee Act.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), the provisions of the Federal Advisory CommitteeAct (5 U.S.C. App.) shall apply to the activities of the Centennial Commission under this Act.
+In general.—Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Centennial Commission under this Act.
 
 &emsp;"(2)
 
@@ -1062,7 +1116,7 @@ Pub. L. 114–215, July 29, 2016, 130 Stat. 830, provided that:
 
 "The Commission shall—
 
-&emsp;"(1) plan, develop, and carry out such activities as the Commission considers fitting and proper to honorJohn F. Kennedy on the occasion of the 100th anniversary of his birth;
+&emsp;"(1) plan, develop, and carry out such activities as the Commission considers fitting and proper to honor John F. Kennedy on the occasion of the 100th anniversary of his birth;
 
 &emsp;"(2) provide advice and assistance to Federal, State, and local governmental agencies, as well as civic groups to carry out activities to honor John F. Kennedy on the occasion of the 100th anniversary of his birth;
 
@@ -1198,7 +1252,7 @@ Final Report.—Not later than August 31, 2017, the Commission shall submit a fi
 
 #### "SEC. 9. ANNUAL AUDIT.
 
-"The Inspector General of the Department of the Interior may perform an audit of the Commission, shall make the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of theHouse of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+"The Inspector General of the Department of the Interior may perform an audit of the Commission, shall make the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
 #### "SEC. 10. PROHIBITION ON OBLIGATION OF FEDERAL FUNDS.
 
@@ -1458,7 +1512,7 @@ Arts and humanities.—
 
 &emsp;&emsp;"(A)
 
-In general.—The presiding officer of the Federal Council on the Arts and the Humanities, the Chairperson of the National Endowment for the Arts, and the Chairperson of the National Endowment for the Humanities shall cooperate with the Commission, especially in the encouragement and coordination of scholarly works and artistic expressions focusing on the history, culture, and political thought of the period predating the United States Semiquincentennial.
+In general.—The presiding officer of the Federal Council on the Arts and the Humanities, the Chairperson of the National Endowment for the Arts, and the Chairperson of the National Endowment for the Humanities shall cooperate with theCommission, especially in the encouragement and coordination of scholarly works and artistic expressions focusing on the history, culture, and political thought of the period predating the United States Semiquincentennial.
 
 &emsp;&emsp;"(B)
 
@@ -1664,7 +1718,7 @@ Designation of liberty memorial.—The Liberty Memorial of Kansas City at Americ
 
 &emsp;"(2)
 
-Ceremonies.—The World War I Centennial Commission (in this section referred to as the 'Commission') may plan, develop, and execute ceremoniesto recognize the designation of the Liberty Memorial of Kansas City as a World War I Museum and Memorial.
+Ceremonies.—The World War I Centennial Commission (in this section referred to as the 'Commission') may plan, develop, and execute ceremonies to recognize the designation of the Liberty Memorial of Kansas City as a World War I Museum and Memorial.
 
 "(b)
 
@@ -1962,7 +2016,7 @@ In general.—Except as provided in paragraph (2), the Centennial Commission is 
 
 &emsp;"(2)
 
-Limitation.—The Centennial Commission may not enter into any contract, lease, or other legalagreement that extends beyond the date of the termination of the Centennial Commission under section 8(a).
+Limitation.—The Centennial Commission may not enter into any contract, lease, or other legal agreement that extends beyond the date of the termination of the Centennial Commission under section 8(a).
 
 "(f)
 
@@ -2290,19 +2344,19 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
-#### Proc. No. 9753. Armed Forces Day
+#### Proc. No. 9892. Armed Forces Day
 
-Proc. No. 9753, May 18, 2018, 83 F.R. 24215, provided:
+Proc. No. 9892, May 17, 2019, 84 F.R. 23701, provided:
 
-On Armed Forces Day, we pay tribute to the extraordinary men and women who serve our Nation with valor and distinction in all branches of the military. This annual observance honors their steadfast service in preserving our Nation's peace, preserving our freedom, and defending our founding principles.
+From Normandy and Iwo Jima through Operations Desert Storm and Inherent Resolve, our Nation's Armed Forces have consistently made us proud by defeating our enemies and defending the freedoms we cherish. Their bravery, love of country, and devotion to duty are unmatched, and we are eternally grateful for the sacrifices they make for all American citizens. On Armed Forces Day, we honor all of the Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen who make up the finest military in the world.
 
-Throughout our history, in times of war and peace, our service members have served with bravery, skill, and unwavering devotion to duty. There is no fighting force that rivals that of the United States military. The precious liberties all Americans enjoy are possible because, every day and without exception, our Armed Forces relentlessly and tirelessly carry out the critical mission of protecting our country, our freedoms, and our way of life.
+Every day, tens of thousands of American troops risk their lives and sacrifice time with their families and friends to protect our national security and keep us safe. Through their strength and dedication to our country, they protect our freedoms, interests, and way of life at duty stations all around the world. We thank them for their incredible service, and we recognize that our Nation has a sacred obligation to ensure that our Armed Forces remain ready and fully equipped to face any threat.
 
-Taking care of our Armed Forces is one of the highest priorities of my Administration. Our military has made tremendous gains against ISIS and al-Qa'ida in Syria and Iraq, with ISIS having lost nearly 100 percent of the territory it formerly occupied. These successes underscore the importance of continuing to support, grow, and modernize our military forces—we must ensure that our Armed Forces remain second to none. Earlier this year, I signed into law legislation that does just that, providing nearly $700 billion in funding for national defense. These funds will increase our military's capacity—investing billions in new equipment, maintenance, and troop readiness.
+As President, I am committed to empowering America's warriors with every advantage they need to fulfill their missions. During the last 2 years, our Armed Forces have had one victory after another against ISIS, culminating in March with the liberation of 100 percent of the territory once held by ISIS in Syria and Iraq. We are encouraged by this tremendous success, and it is important that our military remains the strongest in the world. This is one of my Administration's highest priorities, and I have called on the Congress to increase funding for our national defense by $34 billion over last year's level. These additional resources are vital to enhancing our capabilities at sea, on the ground, in the air, and in space and guaranteeing that America's military never falls behind.
 
-We will never be able to repay fully our heroes for their selfless service. We must, therefore, guaranteethat we support them and their families here at home so that they can effectively execute their missions abroad. I was very pleased to sign into law legislation that gave our troops a 2.4 percent pay raise—their largest pay raise in 8 years. I was also proud to sign an Executive Order this month to enhance employment opportunities for the spouses of our service members. My Administration will not stop in our efforts to encourage all sectors of our country—private and public—to find ways to support our troops and their loved ones.
+I also continue to advocate for our service members to receive increased support, which they deserve for bearing the burden of defending our freedoms. Last year, I signed into law the largest pay raise for our troops in 9 years, and, for 2020, I have called on the Congress to provide a 3.1 percent pay raise. This 3.1 percent raise would be the largest pay raise for our troops in 10 years and would further demonstrate our Nation's gratitude to the more than 2.1 million active duty and reserve military men and women.
 
-On this day, and every day, we owe a debt of gratitude to our service members stationed at home and those deployed around the world. All across America, we enjoy the blessings of liberty because our Nation's finest men and women willingly accept the call to service. We proudly salute our Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen, and recognize the families who serve alongside them for their courage and commitment.
+Our courageous and vigilant Armed Forces safeguard the blessings of liberty for us and for future generations by selflessly answering the call of duty. Today, and every day, we acknowledge and celebrate all who proudly wear our Nation's uniforms and the family members who face unique challenges as they tirelessly support them.
 
 NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the tradition of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
 
@@ -2310,13 +2364,15 @@ I invite the Governors of the States and Territories and other areas subject to 
 
 Finally, I call upon all Americans to display the flag of the United States at their homes and businesses on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day.
 
-Proclamation 9615 of May 19, 2017, is hereby superseded.
+Proclamation 9753 of May 18, 2018, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this eighteenth day of May, in the year of our Lord two thousand eighteen, and of the Independence of the United States of America the two hundred and forty-second.
+IN WITNESS WHEREOF, I have hereunto set my hand this seventeenth day of May, in the year of our Lord two thousand nineteen, and of the Independence of the United States of America the two hundred and forty-third.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior similar proclamations were contained in the following:
+
+Proc. No. 9753, May 18, 2018, 83 F.R. 24215, superseded by Proc. No. 9892, May 17, 2019, 84 F.R. 23702.
 
 Proc. No. 9615, May 19, 2017, 82 F.R. 23995, superseded by Proc. No. 9753, May 18, 2018, 83 F.R. 24215.
 
@@ -2362,7 +2418,7 @@ Proc. No. 3172, Mar. 6, 1957, 22 F.R. 1427, superseded by Proc. No. 3399, Mar. 2
 
 Proc. No. 8455, Nov. 20, 2009, 74 F.R. 61261, provided:
 
-Our Nation's farm and ranch families supply many of the basic necessities of our daily life. They manage a large portion of our country's fertile land base, and they are caretakers of our valuable natural resources and diverse ecosystems. Their connections with urban and suburban communities are critical to our economy and to the nourishment of our people. During National Farm-City Week, we express gratitude for the contributions of our Nation's farmers and ranchers, and we rededicate ourselves to providing all Americans with access to healthy food, and thus, a healthy future.
+Our Nation's farm and ranch families supply many of the basic necessities of our daily life. They manage a large portion of our country's fertile land base, andthey are caretakers of our valuable natural resources and diverse ecosystems. Their connections with urban and suburban communities are critical to our economy and to the nourishment of our people. During National Farm-City Week, we express gratitude for the contributions of our Nation's farmers and ranchers, and we rededicate ourselves to providing all Americans with access to healthy food, and thus, a healthy future.
 
 Pioneered by Native Americans, agriculture was our Nation's first industry. For agriculture to thrive in the 21st century, we must continue to cultivate the relationships between farmers and rural businesses and their partners and customers in cities and towns. American farmers and ranchers are proud to grow the food, feed, fuel, and fiber that enhance our national security and prosperity, and remain steadfast stewards of the land they love. We must ensure that farming is maintained as an economically, socially, and environmentally sustainable way of life for future generations.
 

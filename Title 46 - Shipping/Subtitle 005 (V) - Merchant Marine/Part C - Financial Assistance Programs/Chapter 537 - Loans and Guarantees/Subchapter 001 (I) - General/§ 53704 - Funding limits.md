@@ -2,11 +2,7 @@
 
 (a)
 
-General Limitations.—The total unpaid principal amount of obligations guaranteed under this chapter and outstanding at one time may not exceed $12,000,000,000. Of that amount—
-
-&emsp;(1) $850,000,000 shall be limited to obligations related to fishing vessels and fishery facilities; and
-
-&emsp;(2) $3,000,000,000 shall be limited to obligations related to eligible export vessels.
+General Limitations.—The total unpaid principal amount of obligations guaranteed under this chapter and outstanding at one time may not exceed $12,000,000,000. Of that amount, $850,000,000 shall be limited to obligations related to fishing vessels and fishery facilities.
 
 (b)
 
@@ -58,29 +54,27 @@ Restriction on further guarantees.—The Secretary or Administrator may not guar
 
 Risk factors.—The risk factors referred to in this subsection are—
 
-&emsp;&emsp;(A) if applicable, the country risk for each eligible export vessel financed or to be financed by an obligation;
+&emsp;&emsp;(A) the period for which an obligation is guaranteed or to be guaranteed;
 
-&emsp;&emsp;(B) the period for which an obligation is guaranteed or to be guaranteed;
+&emsp;&emsp;(B) the amount of an obligation guaranteed or to be guaranteed in relation to the total cost of the project financed or to be financed by the obligation;
 
-&emsp;&emsp;(C) the amount of an obligation guaranteed or to be guaranteed in relation to the total cost of the project financed or to be financed by the obligation;
+&emsp;&emsp;(C) the financial condition of an obligor or applicant for a guarantee;
 
-&emsp;&emsp;(D) the financial condition of an obligor or applicant for a guarantee;
+&emsp;&emsp;(D) if applicable, other guarantees related to the project;
 
-&emsp;&emsp;(E) if applicable, other guarantees related to the project;
+&emsp;&emsp;(E) if applicable, the projected employment of each vessel or equipment to be financed with an obligation;
 
-&emsp;&emsp;(F) if applicable, the projected employment of each vessel or equipment to be financed with an obligation;
+&emsp;&emsp;(F) if applicable, the projected market that will be served by each vessel or equipment to be financed with an obligation;
 
-&emsp;&emsp;(G) if applicable, the projected market that will be served by each vessel or equipment to be financed with an obligation;
+&emsp;&emsp;(G) the collateral provided for a guarantee for an obligation;
 
-&emsp;&emsp;(H) the collateral provided for a guarantee for an obligation;
+&emsp;&emsp;(H) the management and operating experience of an obligor or applicant for a guarantee;
 
-&emsp;&emsp;(I) the management and operating experience of an obligor or applicant for a guarantee;
+&emsp;&emsp;(I) whether a guarantee under this chapter is or will be in effect during the construction period of the project; and
 
-&emsp;&emsp;(J) whether a guarantee under this chapter is or will be in effect during the construction period of the project; and
+&emsp;&emsp;(J) the concentration risk presented by an unduly large percentage of loans outstanding by any one borrower or group of affiliated borrowers.
 
-&emsp;&emsp;(K) the concentration risk presented by an unduly large percentage of loans outstanding by any one borrower or group of affiliated borrowers.
-
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1604; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1604; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598; Pub. L. 116–92, div. C, title XXXV, §3506(d), Dec. 20, 2019, 133 Stat. 1972.)
 
 Historical and Revision Notes
 
@@ -109,6 +103,14 @@ June 29, 1936, ch. 858, title XI, §1103(f), as added June 23, 1938, ch. 600, §
 June 29, 1936, ch. 858, title XI, §1103(h), as added Pub. L. 104–239, §13(a), Oct. 8, 1996, 110 Stat. 3134; Pub. L. 108–136, title XXXV, §3528(b), Nov. 24, 2003, 117 Stat. 1802.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–92, §3506(d)(1), substituted "that amount, $850,000,000 shall be limited to obligations related to fishing vessels and fishery facilities." for "that amount—" and pars. (1) and (2) which read as follows:
+
+&emsp;"(1) $850,000,000 shall be limited to obligations related to fishing vessels and fishery facilities; and
+
+&emsp;"(2) $3,000,000,000 shall be limited to obligations related to eligible export vessels."
+
+Subsec. (c)(4). Pub. L. 116–92, §3506(d)(2), redesignated subpars. (B) to (K) as (A) to (J), respectively, and struck out former subpar. (A) which read as follows: "if applicable, the country risk for each eligible export vessel financed or to be financed by an obligation;".
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(C). See 2006 Amendment note below.
 

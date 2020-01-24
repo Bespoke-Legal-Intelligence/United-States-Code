@@ -8,7 +8,7 @@
 
 &emsp;(3) The term "owner-operator" shall include in the State of Hawaii the lessee-operator of real property in any case in which the Secretary determines that such real property cannot be acquired in fee simple by such lessee-operator, that adequate security is provided for the loan with respect to such real property for which such lessee-operator applies under this chapter, and that there is a reasonable probability of accomplishing the objectives and repayment of such loan.
 
-&emsp;(4) The word "insure" as used in this chapter includes guarantee, which means to guarantee the payment of a loan originated, held, and serviced by a private financial agency or other lender approved by the Secretary.
+&emsp;(4) The word "insure" as used in this chapter includes guarantee, which means to guaranteethe payment of a loan originated, held, and serviced by a private financial agency or other lender approved by the Secretary.
 
 &emsp;(5) The term "contract of insurance" includes a contract of guarantee.
 
@@ -208,7 +208,7 @@ Limited exclusion of military base populations.—The first 1,500 individuals wh
 
 Preservation loan service program.—The term "preservation loan service program" means homestead retention as authorized under section 2000 of this title.
 
-(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124,Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, §5310, title VI, §6020(a), May 13, 2002, 116 Stat. 346, 362; Pub. L. 110–234, title VI, §6018(a), May 22, 2008, 122 Stat. 1170; Pub. L. 110–246, §4(a), title VI, §6018(a), June 18, 2008, 122 Stat. 1664, 1931; Pub. L. 113–79, title V, §5303, Feb. 7, 2014, 128 Stat. 839; Pub. L. 115–334, title V, §5401(e)(1), (f)(1), title VI, §§6301(a), 6402(a), Dec. 20, 2018, 132 Stat. 4674, 4748, 4757.)
+(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, §5310, title VI, §6020(a), May 13, 2002, 116 Stat. 346, 362; Pub. L. 110–234, title VI, §6018(a), May 22, 2008, 122 Stat. 1170; Pub. L. 110–246, §4(a), title VI, §6018(a), June 18, 2008, 122 Stat. 1664, 1931; Pub. L. 113–79, title V, §5303, Feb. 7, 2014, 128 Stat. 839; Pub. L. 115–334, title V, §5401(e)(1), (f)(1), title VI, §§6301(a), 6402(a), Dec. 20, 2018, 132 Stat. 4674, 4748, 4757.)
 
 #### References in Text
 
@@ -244,7 +244,7 @@ Pub. L. 113–79, §5303(a)(1), substituted "joint operation, or such other lega
 
 Subsec. (a)(11)(D)(i)(II)(aa). Pub. L. 113–79, §5303(a)(1), (2), substituted "joint operation, or such other legal entity as the Secretary considers appropriate," for "or joint operation," and "joint operators, or owners," for "or joint operators,".
 
-Subsec. (a)(11)(D)(i)(II)(bb). Pub. L. 113–79, §5303(a)(3), substituted "cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators," for "corporation, has stockholders,".
+Subsec. (a)(11)(D)(i)(II)(bb). Pub. L. 113–79, §5303(a)(3), substituted "cooperative, corporation, partnership,joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators," for "corporation, has stockholders,".
 
 Subsec. (a)(11)(D)(ii)(II)(aa). Pub. L. 113–79, §5303(a)(1), (2), substituted "joint operation, or such other legal entity as the Secretary considers appropriate," for "or joint operation,"and "joint operators, or owners," for "or joint operators,".
 
@@ -330,7 +330,7 @@ Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809, as amended by Pub. L. 90–426, 
 
 #### Construction of 1990 Amendment
 
-Pub. L. 102–237, title VII, §702(h)(2), Dec. 13, 1991, 105 Stat. 1881, as amended by Pub. L. 102–552, title V, §516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: "The Consolidated Farm and Rural Development Act \[title III of Pub. L. 87–128, see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted."
+Pub. L. 102–237, title VII, §702(h)(2), Dec. 13, 1991, 105 Stat. 1881, as amended by Pub. L. 102–552, title V,§516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: "The Consolidated Farm and Rural Development Act \[title III of Pub. L. 87–128, see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted."
 
 #### Termination of Trust Territory of the Pacific Islands
 

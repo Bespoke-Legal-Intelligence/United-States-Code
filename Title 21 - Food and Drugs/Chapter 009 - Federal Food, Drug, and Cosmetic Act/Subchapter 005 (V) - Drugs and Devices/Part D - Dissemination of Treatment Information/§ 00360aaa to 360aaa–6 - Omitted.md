@@ -20,7 +20,7 @@ Section 360aaa–6, act June 25, 1938, ch. 675, §557, as added Pub. L. 105–11
 
 #### Effective and Termination Dates
 
-Pub. L. 105–115, title IV, §401(d), Nov. 21, 1997, 111 Stat. 2364, provided that: "The amendments made bythis section \[enacting this part and amending section 331 of this title\] shall take effect 1 year after the date of enactment of this Act \[Nov. 21, 1997\], or upon the Secretary's issuance of final regulations pursuant to subsection (c) \[section 401(c) of Pub. L. 105–115 set out below\] \[Such regulations were issued effective Nov. 20, 1998. See 63 F.R. 64556.\], whichever is sooner."
+Pub. L. 105–115, title IV, §401(d), Nov. 21, 1997, 111 Stat. 2364, provided that: "The amendments made by this section \[enacting this part and amending section 331 of this title\] shall take effect 1 year after the date of enactment of this Act \[Nov. 21, 1997\], or upon the Secretary's issuance of final regulations pursuant to subsection (c) \[section 401(c) of Pub. L. 105–115 set out below\] \[Such regulations were issued effective Nov. 20, 1998. See 63 F.R. 64556.\], whichever is sooner."
 
 Pub. L. 105–115, title IV, §401(e), Nov. 21, 1997, 111 Stat. 2364, provided that: "The amendments made by this section \[enacting this part and amending section 331 of this title\] cease to be effective September 30, 2006, or 7 years after the date on which the Secretary promulgates the regulations described in subsection (c) \[section 401(c) of Pub. L. 105–115 set out below\] \[Such regulations were issued effective Nov. 20, 1998. See 63 F.R. 64556.\], whichever is later."
 

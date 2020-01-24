@@ -12,7 +12,7 @@ Subject to this part, a State to which a grant is made under section 603 of this
 
 #### (1) Limitation
 
-&emsp;A State to which a grant is made under section 603 of this title shall not expend morethan 15 percent of the grant for administrative purposes.
+&emsp;A State to which a grant is made under section 603 of this title shall not expend more than 15 percent of the grant for administrative purposes.
 
 #### (2) Exception
 
@@ -86,7 +86,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (ii) First home purchase
 
-&emsp;&emsp;&emsp;Qualified acquisition costs with respect to a qualified principal residence for aqualified first-time homebuyer, if paid from an individual development account directly to the persons to whom the amounts are due.
+&emsp;&emsp;&emsp;Qualified acquisition costs with respect to a qualified principal residence for a qualified first-time homebuyer, if paid from an individual development account directly to the persons to whom the amounts are due.
 
 #### (iii) Business capitalization
 
@@ -116,7 +116,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (4) No reduction in benefits
 
-&emsp;Notwithstanding any other provision of Federal law (other than the Internal Revenue Code of 1986) that requires consideration of 1 or more financial circumstances of an individual, for the purpose of determining eligibility to receive, or the amount of, any assistance or benefit authorized by such law to be provided to or for the benefit of such individual, funds (including interest accruing) in an individual development account under this subsection shall be disregarded for such purpose with respect to any period during which such individual maintains or makes contributions into such an account.
+&emsp;Notwithstanding any other provision of Federal law (other than the Internal RevenueCode of 1986) that requires consideration of 1 or more financial circumstances of an individual, for the purpose of determining eligibility to receive, or the amount of, any assistance or benefit authorized by such law to be provided to or for the benefit of such individual, funds (including interest accruing) in an individual development account under this subsection shall be disregarded for such purpose with respect to any period during which such individual maintains or makes contributions into such an account.
 
 #### (5) Definitions
 
@@ -176,7 +176,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (I) Qualified principal residence
 
-&emsp;&emsp;The term "qualified principal residence" means a principal residence (within themeaning of section 1034 of the Internal Revenue Code of 1986), the qualified acquisition costs of which do not exceed 100 percent of the average area purchase price applicable to such residence (determined in accordance with paragraphs (2) and (3) of section 143(e) of such Code).
+&emsp;&emsp;The term "qualified principal residence" means a principal residence (within the meaning of section 1034 of the Internal Revenue Code of 1986), the qualified acquisition costs of which do not exceed 100 percent of the average area purchase price applicable to such residence (determined in accordance with paragraphs (2) and (3) of section 143(e) of such Code).
 
 #### (i) Sanction welfare recipients for failing to ensure that minor dependent children attend school
 
@@ -190,7 +190,7 @@ A State to which a grant is made under section 603 of this title shall not be pr
 
 #### (1) Use limitations
 
-&emsp;A State to which a grant is made under section 603 of this title may not use any part of the grant to match funds made available under section 3037 of the Transportation Equity Act for the 21st Century, unless—
+&emsp;A State to which a grant is made under section 603 of this title may not use any part ofthe grant to match funds made available under section 3037 of the Transportation Equity Act for the 21st Century, unless—
 
 &emsp;&emsp;(A) the grant is used for new or expanded transportation services (and not for construction) that benefit individuals described in subparagraph (C), and not to subsidize current operating costs;
 
@@ -228,7 +228,7 @@ Division A of subchapter XX, referred to in subsec. (d)(2), (3)(B), was in the o
 
 The Internal Revenue Code of 1986, referred to in subsec. (h)(2)(C), (3)(B)(i), (4), (5)(I), is classified generally to Title 26, Internal Revenue Code.
 
-Section 1088(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed and section 1088(d) was redesignated section 1088(a), by Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617. Provisions similar tothose in former section 1088(a)(1) are now contained in section 1002(a)(1) of Title 20, Education.
+Section 1088(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed and section 1088(d) was redesignated section 1088(a), by Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617. Provisions similar to those in former section 1088(a)(1) are now contained in section 1002(a)(1) of Title 20, Education.
 
 Section 1141(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998.
 
@@ -308,7 +308,7 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating totermination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 #### Assets for Independence
 
@@ -334,7 +334,7 @@ Pub. L. 105–285, title IV, Oct. 27, 1998, 112 Stat. 2759, as amended by Pub. L
 
 "The purposes of this title are to provide for the establishment of demonstration projects designed to determine—
 
-&emsp;"(1) the social, civic, psychological, and economic effects of providing to individuals and families with limited means an incentive to accumulate assets by saving a portion of their earned income;
+&emsp;"(1) the social, civic, psychological, and economic effects of providing to individuals and families withlimited means an incentive to accumulate assets by saving a portion of their earned income;
 
 &emsp;"(2) the extent to which an asset-based policy that promotes saving for postsecondary education, homeownership, and microenterprise development may be used to enable individuals and families with limited means to increase their economic self-sufficiency; and
 
@@ -398,7 +398,7 @@ Custodial accounts.—For purposes of subparagraph (A), a custodial account shal
 
 &emsp;"(6)
 
-Project year.—The term 'project year' means, with respect to a demonstration project, any of the 5consecutive 12-month periods beginning on the date the project is originally authorized to be conducted.
+Project year.—The term 'project year' means, with respect to a demonstration project, any of the 5 consecutive 12-month periods beginning on the date the project is originally authorized to be conducted.
 
 &emsp;"(7)
 
@@ -452,7 +452,7 @@ Eligible educational institution.—The term 'eligible educational institution' 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
 
-Institution of higher education.—An institution described in section 101 or 102 of the Higher Education Act of 1965 \[20 U.S.C. 1001, 1002\].
+Institution of higher education.—An institution described in section 101 or 102 of theHigher Education Act of 1965 \[20 U.S.C. 1001, 1002\].
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
@@ -532,7 +532,7 @@ Tribal government.—The term 'tribal government' means a tribal organization, a
 
 "(a)
 
-Announcement of Demonstration Projects.—Not later than 3 months after the date of enactment ofthis title \[Oct. 27, 1998\], the Secretary shall publicly announce the availability of funding under this title for demonstration projects and shall ensure that applications to conduct the demonstration projects are widely available to qualified entities.
+Announcement of Demonstration Projects.—Not later than 3 months after the date of enactment of this title \[Oct. 27, 1998\], the Secretary shall publicly announce the availability of funding under this title for demonstration projects and shall ensure that applications to conduct the demonstration projects are widely available to qualified entities.
 
 "(b)
 
@@ -578,7 +578,7 @@ Preferences.—In considering an application to conduct a demonstration project 
 
 "(e)
 
-Approval.—Not later than 9 months after the date of enactment of this title \[Oct. 27, 1998\], the Secretary shall, on a competitive basis, approve such applications to conduct demonstration projects under this title as the Secretary considers to be appropriate, taking into account the assessments required by subsections (c) and (d). The Secretary shall ensure, to the maximum extent practicable, that the applications that are approved involve a range of communities (both rural and urban) and diverse populations.
+Approval.—Not later than 9 months after the date of enactment of this title \[Oct. 27, 1998\], the Secretary shall, on a competitive basis, approve such applications to conduct demonstration projects under this title as the Secretary considers to be appropriate,taking into account the assessments required by subsections (c) and (d). The Secretary shall ensure, to the maximum extent practicable, that the applications that are approved involve a range of communities (both rural and urban) and diverse populations.
 
 "(f)
 
@@ -858,7 +858,7 @@ Interim reports.—Not later than 90 days after the end of the project year in w
 
 &emsp;"(2)
 
-Final reports.—Not later than 12 months after the conclusion of all demonstration projectsconducted under this title, the Secretary shall submit to Congress a final report setting forth the results and findings of all reports and evaluations conducted pursuant to this title.
+Final reports.—Not later than 12 months after the conclusion of all demonstration projects conducted under this title, the Secretary shall submit to Congress a final report setting forth the results and findings of all reports and evaluations conducted pursuant to this title.
 
 "(e)
 

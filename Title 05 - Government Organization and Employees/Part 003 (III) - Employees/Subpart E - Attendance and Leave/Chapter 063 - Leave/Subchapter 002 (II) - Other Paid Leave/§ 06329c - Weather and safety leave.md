@@ -30,7 +30,7 @@ Leave for Weather and Safety Issues.—An agency may approve the provision of le
 
 (c)
 
-Records.—An agency shall record leave provided under this section separately fromleave authorized under any other provision of law.
+Records.—An agency shall record leave provided under this section separately from leave authorized under any other provision of law.
 
 (d)
 

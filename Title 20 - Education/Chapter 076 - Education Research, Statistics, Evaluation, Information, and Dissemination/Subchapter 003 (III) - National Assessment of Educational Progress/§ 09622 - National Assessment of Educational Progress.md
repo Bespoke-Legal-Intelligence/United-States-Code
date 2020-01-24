@@ -58,7 +58,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), a participating State shall review and give permission for the release of results from any test of its students administered as a part of a State assessment prior to the releaseof such data. Refusal by a State to release its data shall not restrict the release of data from other States that have approved the release of such data.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), a participating State shall review and give permission for the release of results from any test of its students administered as a part of a State assessment prior to the release of such data. Refusal by a State to release its data shall not restrict the release of data from other States that have approved the release of such data.
 
 #### (ii) Special rule
 
@@ -128,13 +128,13 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (D) Report
 
-&emsp;&emsp;The Secretary shall submit a summary report of all complaints received pursuant to subparagraph (A) and responses by the Assessment Board pursuant to subparagraph (C) to the Chairman of the House Committee on Education and the Workforce, and the Chairman of the Senate Committee on Health, Education, Labor, and Pensions.
+&emsp;&emsp;The Secretary shall submit a summary report of all complaints received pursuant to subparagraph (A) and responses by the Assessment Board pursuant to subparagraph\(C) to the Chairman of the House Committee on Education and the Workforce, and the Chairman of the Senate Committee on Health, Education, Labor, and Pensions.
 
 #### (E) Cognitive questions
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Commissioner for Education Statistics may decline to make availablethrough public means, such as posting on the Internet, distribution to the media, distribution through public agencies, or in response to a request under section 552 of title 5, for a period, not to exceed 10 years after initial use, cognitive questions that the Commissioner for Education Statistics intends to reuse in the future.
+&emsp;&emsp;&emsp;The Commissioner for Education Statistics may decline to make available through public means, such as posting on the Internet, distribution to the media, distribution through public agencies, or in response to a request under section 552 of title 5, for a period, not to exceed 10 years after initial use, cognitive questions that the Commissioner for Education Statistics intends to reuse in the future.
 
 #### (ii) Extension
 
@@ -206,7 +206,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (D) Status
 
-&emsp;&emsp;The Commissioner for Education Statistics and the Board shall ensure that reports using such levels on a trial basis do so in a manner that makes clear the status of such levels.
+&emsp;&emsp;The Commissioner for Education Statistics and the Board shall ensure that reports using such levels on a trial basis do so in amanner that makes clear the status of such levels.
 
 #### (E) Updates
 
@@ -214,7 +214,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (3) Reporting
 
-&emsp;After determining that such levels are reasonable, valid, and informative to the public,as the result of an evaluation under subsection (f), the Commissioner for Education Statistics shall use such levels or other methods or indicators for reporting results of the National Assessment and State assessments.
+&emsp;After determining that such levels are reasonable, valid, and informative to the public, as the result of an evaluation under subsection (f), the Commissioner for Education Statistics shall use such levels or other methods or indicators for reporting results of the National Assessment and State assessments.
 
 #### (4) Review
 
@@ -325,6 +325,10 @@ Subsec. (f)(1)(B)(iv). Pub. L. 107–279, §401(d)(7), substituted "section 9621
 Subsec. (f)(3). Pub. L. 107–279, §401(d)(2), substituted "Assessment Board" for "National Assessment Governing Board".
 
 Pub. L. 107–279, §401(d)(1), substituted "Commissioner for Education Statistics" for "Commissioner" in two places.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2002 Amendment
 

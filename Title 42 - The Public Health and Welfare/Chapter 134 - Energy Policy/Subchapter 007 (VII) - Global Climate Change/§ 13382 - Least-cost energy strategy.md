@@ -2,7 +2,7 @@
 
 #### (a) Strategy
 
-The first National Energy Policy Plan (in this subchapter referred to as the "Plan") under section 7321 of this title prepared and required to be submitted by the President to Congress after February 1, 1993, and each subsequent such Plan, shall include a least-cost energy strategy prepared by the Secretary. In developing the least-cost energy strategy, the Secretary shall takeinto consideration the economic, energy, social, environmental, and competitive costs and benefits, including costs and benefits for jobs, of his choices. Such strategy shall also take into account the report required under section 13381 of this title and relevant Federal, State, and local requirements. Such strategy shall be designed to achieve to the maximum extent practicable and at least-cost to the Nation—
+The first National Energy Policy Plan (in this subchapter referred to as the "Plan") under section 7321 of this title prepared and required to be submitted by the President to Congress after February 1, 1993, and each subsequent such Plan, shall include a least-cost energy strategy prepared by the Secretary. In developing the least-cost energy strategy, the Secretary shall take into consideration the economic, energy, social, environmental, and competitive costs and benefits, including costs and benefits for jobs, of his choices. Such strategy shall also take into account the report required under section 13381 of this title and relevant Federal, State, and local requirements. Such strategy shall be designed to achieve to the maximum extent practicable and at least-cost to the Nation—
 
 &emsp;(1) the energy production, utilization, and energy conservation priorities of subsection (d);
 
@@ -62,7 +62,7 @@ The least-cost energy strategy shall identify Federal priorities, including poli
 
 #### (e) Assumptions
 
-The Secretary shall include in the least-cost energy strategy an identification of all of the assumptions used in developing the strategy and priorities thereunder, and the reasons for such assumptions.
+The Secretary shall include in the least-cost energy strategy an identification of all of theassumptions used in developing the strategy and priorities thereunder, and the reasons for such assumptions.
 
 #### (f) Preference
 

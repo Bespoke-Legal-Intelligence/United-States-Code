@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-It shall be unlawful for any person other than an issuer that is subject to section 78dd–1 of this title or a domestic concern (as defined in section78dd–2 of this title), or for any officer, director, employee, or agent of such person or any stockholder thereof acting on behalf of such person, while in the territory of the United States, corruptly to make use of the mails or any means or instrumentality of interstate commerce or to do any other act in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to—
+It shall be unlawful for any person other than an issuer that is subject to section 78dd–1 of this title or a domestic concern (as defined in section 78dd–2 of this title), or for any officer, director, employee, or agent of such person or any stockholder thereof acting on behalf of such person, while in the territory of the United States, corruptly to make use of the mails or any means or instrumentality of interstate commerce or to do any other act in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to—
 
 &emsp;(1) any foreign official for purposes of—
 
@@ -48,7 +48,7 @@ It shall be an affirmative defense to actions under subsection (a) of this secti
 
 (1) When it appears to the Attorney General that any person to which this section applies, or officer, director, employee, agent, or stockholder thereof, is engaged, or about to engage, in any act or practice constituting a violation of subsection (a) of this section, the Attorney General may, in his discretion, bring a civil action in an appropriate district court of the United States to enjoin such act or practice, and upon a proper showing, a permanent injunction or a temporary restraining order shall be granted without bond.
 
-(2) For the purpose of any civil investigation which, in the opinion of the Attorney General, is necessary and proper to enforce this section, the Attorney General or his designee are empowered to administer oaths and affirmations, subpoena witnesses, take evidence, and require the production of any books, papers, or other documents which the Attorney General deems relevant or material to such investigation. The attendance of witnesses and the production of documentary evidence may be required from any place in the United States, or any territory, possession, or commonwealth of the United States, at any designated place of hearing.
+(2) For the purpose of any civil investigation which, in the opinion of the Attorney General, is necessary and proper to enforce this section, the Attorney General or his designee are empowered to administer oaths and affirmations, subpoena witnesses, take evidence, and require the production of any books, papers, or other documents which the Attorney General deems relevant or material to such investigation. The attendance of witnesses and the production of documentary evidence may be required from anyplace in the United States, or any territory, possession, or commonwealth of the United States, at any designated place of hearing.
 
 (3) In case of contumacy by, or refusal to obey a subpoena issued to, any person, the Attorney General may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, or other documents. Any such court may issue an order requiring such person to appear before the Attorney General or his designee, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
@@ -112,7 +112,7 @@ For purposes of this section:
 
 #### Codification
 
-Section was enacted as part of Pub. L. 95–213, the Foreign Corrupt Practices Act of 1977, and not as part of act June 6, 1934, ch. 404, 48 Stat. 881, the Securities Exchange Act of 1934, which comprises this chapter.
+Section was enacted as part of Pub. L. 95–213, the Foreign Corrupt Practices Act of 1977, and not as part ofact June 6, 1934, ch. 404, 48 Stat. 881, the Securities Exchange Act of 1934, which comprises this chapter.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should appear.</i>
 

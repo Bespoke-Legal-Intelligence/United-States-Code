@@ -2,7 +2,7 @@
 
 There is in the Office of the Secretary of Defense a Reserve Forces Policy Board. The functions, membership, and organization of that board are set forth in section 10301 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 9; Pub. L. 90–168, §2(3), (4), Dec. 1, 1967, 81 Stat. 521; Pub. L. 98–94, title XII, §1212(b), Sept. 24, 1983, 97 Stat. 687; Pub. L. 98–525, title XIII, §1306, title XIV, §1405(4), Oct. 19, 1984, 98 Stat. 2613, 2622; Pub. L.98–557, §21, Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–433, title V, §531(a)(1), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title IX, §921, title XVI, §1661(b)(3), Oct. 5, 1994, 108 Stat. 2829, 2981.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 9; Pub. L. 90–168, §2(3), (4), Dec. 1, 1967, 81 Stat. 521; Pub. L. 98–94, title XII, §1212(b), Sept. 24, 1983, 97 Stat. 687; Pub. L. 98–525, title XIII, §1306, title XIV, §1405(4), Oct. 19, 1984, 98 Stat. 2613, 2622; Pub. L. 98–557, §21, Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–433, title V, §531(a)(1), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title IX, §921, title XVI, §1661(b)(3), Oct. 5, 1994, 108 Stat. 2829, 2981.)
 
 Historical and Revision Notes
 

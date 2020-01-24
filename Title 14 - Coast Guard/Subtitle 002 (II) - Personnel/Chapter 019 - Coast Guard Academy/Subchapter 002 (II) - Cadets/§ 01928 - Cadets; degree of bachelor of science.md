@@ -10,7 +10,7 @@ Based on title 14, U.S.C., 1946 ed., §15a (May 25, 1933, ch. 37, 48 Stat. 73; J
 
 Changes in phraseology were made inasmuch as the Academy is now accredited by the Association of American Universities. It was not so accredited when the section was enacted.
 
-Inasmuch as the acts cited above apply equally to the Military Academy and the Naval Academy, as well asthe Coast Guard Academy, they are not scheduled for repeal but are being amended by section 13 of this act to eliminate reference to the Coast Guard. 81st Congress, House Report No. 557.
+Inasmuch as the acts cited above apply equally to the Military Academy and the Naval Academy, as well as the Coast Guard Academy, they are not scheduled for repeal but are being amended by section 13 of this act to eliminate reference to the Coast Guard. 81st Congress, House Report No. 557.
 
 #### Amendments
 

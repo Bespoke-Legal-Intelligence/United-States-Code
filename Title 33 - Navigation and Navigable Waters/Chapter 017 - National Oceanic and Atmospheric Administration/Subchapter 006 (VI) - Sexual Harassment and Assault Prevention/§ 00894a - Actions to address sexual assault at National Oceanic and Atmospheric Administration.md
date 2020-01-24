@@ -2,7 +2,7 @@
 
 #### (a) Comprehensive policy on prevention of and response to sexual assaults
 
-Not later than 1 year after December 23, 2016, the Secretary of Commerce shall, acting through the Under Secretary for Oceans and Atmosphere, develop a comprehensive policy on the prevention of and response to sexual assaults involving employees of the National Oceanic and Atmospheric Administration, members of the commissioned officer corps of the Administration, and individuals who work with or conduct business on behalf of the Administration.
+Not later than 1 year after December 23, 2016, the Secretary of Commerce shall, actingthrough the Under Secretary for Oceans and Atmosphere, develop a comprehensive policy on the prevention of and response to sexual assaults involving employees of the National Oceanic and Atmospheric Administration, members of the commissioned officer corps of the Administration, and individuals who work with or conduct business on behalf of the Administration.
 
 #### (b) Elements of comprehensive policy
 
@@ -96,7 +96,7 @@ The Secretary shall ensure that the policy developed under subsection (a) is ava
 
 #### (e) Consultation and assistance
 
-In developing the policy required by subsection (a), the Secretary may consult or receiveassistance from such State, local, and national organizations and subject matter experts as the Secretary considers appropriate.
+In developing the policy required by subsection (a), the Secretary may consult or receive assistance from such State, local, and national organizations and subject matter experts as the Secretary considers appropriate.
 
 (Pub. L. 114–328, div. C, title XXXV, §3542, Dec. 23, 2016, 130 Stat. 2801.)
 

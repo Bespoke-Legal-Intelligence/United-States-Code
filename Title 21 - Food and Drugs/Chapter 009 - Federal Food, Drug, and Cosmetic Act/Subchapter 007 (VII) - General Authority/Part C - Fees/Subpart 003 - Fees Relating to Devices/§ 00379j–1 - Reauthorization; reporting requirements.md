@@ -94,7 +94,7 @@
 
 #### (B) Participation in congressional hearing
 
-&emsp;&emsp;Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
+&emsp;&emsp;Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions ofthe Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
 
 #### (4) Fiscal report
 
@@ -166,7 +166,7 @@
 
 &emsp;&emsp;The minutes described under subparagraph (A) shall summarize any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
 
-(June 25, 1938, ch. 675, §738A, as added Pub. L. 110–85, title II, §213, Sept. 27, 2007, 121 Stat. 850; amended Pub. L. 112–144, title II, §204, July 9, 2012, 126 Stat. 1006; Pub. L. 115–52, title II, §204,title IX, §§903(b), 904(b), Aug. 18, 2017, 131 Stat. 1016, 1078, 1083.)
+(June 25, 1938, ch. 675, §738A, as added Pub. L. 110–85, title II, §213, Sept. 27, 2007, 121 Stat. 850; amended Pub. L. 112–144, title II, §204, July 9, 2012, 126 Stat. 1006; Pub. L. 115–52, title II, §204, title IX, §§903(b), 904(b), Aug. 18, 2017, 131 Stat. 1016, 1078, 1083.)
 
 #### Termination of Section
 

@@ -1,6 +1,6 @@
 ### §4432. Establishment of preclearance operations
 
-Pursuant to section 1629 of this title and section 1103(a)(7) of title 8, and provided that anaviation security preclearance agreement (as defined in section 44901(d)(4)(B) <sup>1</sup> of title 49) is in effect, the Secretary may establish and maintain U.S. Customs and Border Protection preclearance operations in a foreign country—
+Pursuant to section 1629 of this title and section 1103(a)(7) of title 8, and provided that an aviation security preclearance agreement (as defined in section 44901(d)(4)(B) <sup>1</sup> of title 49) is in effect, the Secretary may establish and maintain U.S. Customs and Border Protection preclearance operations in a foreign country—
 
 &emsp;(1) to prevent terrorists, instruments of terrorism, and other security threats from entering the United States;
 

@@ -72,7 +72,7 @@ Plan.—Within 180 days after the date of the enactment of this Act \[Nov. 28, 1
 
 "(c)
 
-Demonstration Project.—The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall implement a demonstration project for disposing on an annual basis up to 10 percent of the material dredged from the New York/New Jersey Harbor region in an environmentallysound manner other than by ocean disposal. Environmentally sound alternatives may include, among others, capping of borrow pits, construction of a containment island, application for landfill cover, habitat restoration, and use of decontamination technology.
+Demonstration Project.—The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall implement a demonstration project for disposing on an annual basis up to 10 percent of the material dredged from the New York/New Jersey Harbor region in an environmentally sound manner other than by ocean disposal. Environmentally sound alternatives may include, among others, capping of borrow pits, construction of a containment island, application for landfill cover, habitat restoration, and use of decontamination technology.
 
 "(d)
 

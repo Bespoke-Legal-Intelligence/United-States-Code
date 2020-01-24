@@ -18,7 +18,7 @@ In accordance with the Implementation Plan, the Secretary shall develop an annua
 
 #### (1) In general
 
-&emsp;Federal agency involvement in developing a community wildfire protection plan, or a recommendation made in a community wildfireprotection plan, shall not be considered a Federal agency action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+&emsp;Federal agency involvement in developing a community wildfire protection plan, or a recommendation made in a community wildfire protection plan, shall not be considered a Federal agency action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 #### (2) Compliance
 
@@ -38,7 +38,7 @@ In accordance with the Implementation Plan, the Secretary shall develop an annua
 
 #### (C) Wildland-urban interface
 
-&emsp;&emsp;In the case of an authorized hazardous fuel reduction project for which a decision notice is issued during the 1-year period beginning on December 3, 2003, the Secretary shall use existing definitions of the term "wildland-urban interface" rather than the definition of that term provided under section 6511 of this title.
+&emsp;&emsp;In the case of an authorized hazardous fuel reduction project for which a decision notice is issued during the 1-year period beginning on December 3, 2003, the Secretary shall useexisting definitions of the term "wildland-urban interface" rather than the definition of that term provided under section 6511 of this title.
 
 #### (2) Non-Federal land
 

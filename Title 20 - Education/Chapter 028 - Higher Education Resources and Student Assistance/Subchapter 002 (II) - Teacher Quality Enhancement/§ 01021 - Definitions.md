@@ -140,7 +140,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) eligible for a free or reduced price school lunch under the Richard B. Russell National School Lunch Act;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) in families receiving assistance under the State program funded underpart A of title IV of the Social Security Act; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) in families receiving assistance under the State program funded under part A of title IV of the Social Security Act; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) eligible to receive medical assistance under the Medicaid program;
 
@@ -170,7 +170,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) High-quality teacher mentoring.
 
-&emsp;&emsp;(B) Periodic, structured time for collaboration with teachers in the same department or field, including mentor teachers, as well as time for information-sharing among teachers, principals, administrators, other appropriate instructional staff, and participating faculty in the partner institution.
+&emsp;&emsp;(B) Periodic, structured time for collaboration with teachers in the same department or field, including mentor teachers, as well as time for information-sharing amongteachers, principals, administrators, other appropriate instructional staff, and participating faculty in the partner institution.
 
 &emsp;&emsp;(C) The application of empirically-based practice and scientifically valid research on instructional practices.
 
@@ -250,7 +250,7 @@ In this subchapter:
 
 #### (20) Scientifically valid research
 
-&emsp;The term "scientifically valid research" includes applied research, basic research, and field-initiated research in which the rationale, design, and interpretation are soundly developed in accordance with principles of scientific research.
+&emsp;The term "scientifically valid research" includes applied research, basic research, andfield-initiated research in which the rationale, design, and interpretation are soundly developed in accordance with principles of scientific research.
 
 #### (21) Teacher mentoring
 
@@ -314,7 +314,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) are specific to academic subject matter; and
 
-&emsp;&emsp;&emsp;(iii) focus on the identification of students' specific learning needs, particularly students with disabilities, students whoare limited English proficient, students who are gifted and talented, and students with low literacy levels, and the tailoring of academic instruction to such needs;
+&emsp;&emsp;&emsp;(iii) focus on the identification of students' specific learning needs, particularly students with disabilities, students who are limited English proficient, students who are gifted and talented, and students with low literacy levels, and the tailoring of academic instruction to such needs;
 
 &emsp;&emsp;(E) conduct an ongoing assessment of student learning, which may include the use of formative assessments, performance-based assessments, project-based assessments, or portfolio assessments, that measures higher-order thinking skills (including application, analysis, synthesis, and evaluation);
 
@@ -332,7 +332,7 @@ Section 6368 of this title as such section was in effect on the day before Decem
 
 Section 7801 of this title as such section was in effect on the day before December 10, 2015, referred to in par. (8), means section 7801 of this title prior to amendment by Pub. L. 114–95, title VIII, §§8001(a)(1), (b)(2), (3), 8002, Dec. 10, 2015, 129 Stat. 2088, 2089.
 
-The Richard B. Russell National School Lunch Act, referred to in par. (11)(A)(i)(II), (ii), (B)(ii)(I)(bb), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in par. (11)(A)(i)(II), (ii), (B)(ii)(I)(bb), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification ofthis Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 The Social Security Act, referred to in par. (11)(A)(i)(III), (B)(ii)(I)(cc), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -374,7 +374,7 @@ Par. (19). Pub. L. 114–95, §9215(oo)(2)(I), made technical amendment to refer
 
 Par. (22)(D)(i). Pub. L. 114–95, §9214(c)(1)(C), substituted ", with respect to special education teachers, meets the qualifications described in section 1412(a)(14)(C) of this title" for "becomes highly qualified".
 
-<b>2009</b>—Par. (22)(D). Pub. L. 111–39 added subpar. (D) and struck out former subpar (D) which read as follows:"prior to completion of the program, earns a master's degree, attains full State teacher certification or licensure, and becomes highly qualified."
+<b>2009</b>—Par. (22)(D). Pub. L. 111–39 added subpar. (D) and struck out former subpar (D) which read as follows: "prior to completion of the program, earns a master's degree, attains full State teacher certification or licensure, and becomes highly qualified."
 
 #### Effective Date of 2015 Amendment
 

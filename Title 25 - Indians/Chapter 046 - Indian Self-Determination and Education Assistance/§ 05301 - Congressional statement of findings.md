@@ -54,7 +54,7 @@ Pub. L. 100–472, title I, §101, Oct. 5, 1988, 102 Stat. 2285, provided that: 
 
 #### Short Title
 
-Pub. L. 93–638, §1, Jan. 4, 1975, 88 Stat. 2203, provided: "That this Act \[enacting this chapter, section 13a of this title, and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section4762 of Title 42, and section 3806 of Title 50, War and National Defense\] may be cited as the 'Indian Self-Determination and Education Assistance Act'."
+Pub. L. 93–638, §1, Jan. 4, 1975, 88 Stat. 2203, provided: "That this Act \[enacting this chapter, section 13a of this title, and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 3806 of Title 50, War and National Defense\] may be cited as the 'Indian Self-Determination and Education Assistance Act'."
 
 Pub. L. 93–638, title I, §101, Jan. 4, 1975, 88 Stat. 2206, provided that: "This title \[enacting subchapter I (§5321 et seq.) of this chapter and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 3806 of Title 50, War and National Defense\] may be cited as the 'Indian Self-Determination Act'."
 
@@ -122,7 +122,7 @@ Sec. 5. <i>Consultation</i>. (a) Each agency shall have an accountable process t
 
 (b) To the extent practicable and permitted by law, no agency shall promulgate any regulation that has tribal implications, that imposes substantial direct compliance costs on Indian tribal governments, and that is not required by statute, unless:
 
-(1) funds necessary to pay the direct costs incurred by the Indian tribal government or the tribe in complyingwith the regulation are provided by the Federal Government; or
+(1) funds necessary to pay the direct costs incurred by the Indian tribal government or the tribe in complying with the regulation are provided by the Federal Government; or
 
 (2) the agency, prior to the formal promulgation of the regulation,
 
@@ -156,7 +156,7 @@ Sec. 7. <i>Accountability.</i>
 
 (a) In transmitting any draft final regulation that has tribal implications to OMB pursuant to Executive Order 12866 of September 30, 1993 \[5 U.S.C. 601 note\], each agency shall include a certification from the official designated to ensure compliance with this order stating that the requirements of this order have been met in a meaningful and timely manner.
 
-(b) In transmitting proposed legislation that has tribal implications to OMB, each agency shall include a certification from the official designated to ensure compliance with this order that all relevant requirements of this order have been met.
+(b) In transmitting proposed legislation that has tribal implications to OMB, each agency shall include a certification from the official designated to ensurecompliance with this order that all relevant requirements of this order have been met.
 
 (c) Within 180 days after the effective date of this order the Director of OMB and the Assistant to the President for Intergovernmental Affairs shall confer with tribal officials to ensure that this order is being properly and effectively implemented.
 
@@ -186,7 +186,7 @@ As we work together to forge a brighter future for all Americans, we cannot igno
 
 This order establishes a national policy to ensure that the Federal Government engages in a true and lasting government-to-government relationship with federally recognized tribes in a more coordinated and effective manner, including by better carrying out its trust responsibilities. This policy is established as a means of promoting and sustaining prosperous and resilient tribal communities. Greater engagement and meaningful consultation with tribes is of paramount importance in developing any policies affecting tribal nations.
 
-To honor treaties and recognize tribes' inherent sovereignty and right to self-government under U.S. law,it is the policy of the United States to promote the development of prosperous and resilient tribal communities, including by:
+To honor treaties and recognize tribes' inherent sovereignty and right to self-government under U.S. law, it is the policy of the United States to promote the development of prosperous and resilient tribal communities, including by:
 
 (a) promoting sustainable economic development, particularly energy, transportation, housing, other infrastructure, entrepreneurial, and workforce development to drive future economic growth and security;
 

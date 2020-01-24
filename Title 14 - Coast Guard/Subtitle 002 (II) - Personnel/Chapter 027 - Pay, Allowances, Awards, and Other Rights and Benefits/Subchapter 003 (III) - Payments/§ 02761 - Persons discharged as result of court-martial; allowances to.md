@@ -8,7 +8,7 @@ The Secretary may furnish persons discharged pursuant to the sentence of a Coast
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 509 of this title as this section.
 
-<b>1968</b>—Pub. L. 90–377 substituted "Persons discharged as result of court-martial; allowances to" for "Prisoners; allowances to; transportation" in section catchline, and struck out provision that persons confined in prisons in pursuance of the sentence of a Coast Guard court shall during such confinement, be allowed a reasonable sum, not to exceed $3 per month, for necessary prison expenses and the provision that the Commandant of the Coast Guard may transport to their homes or places of enlistment, as he may designate, all discharged prisoners, the expense of such transportation to be paid out of any money to the credit of prisoners when discharged.
+<b>1968</b>—Pub. L. 90–377 substituted "Persons discharged as result of court-martial; allowances to" for "Prisoners; allowances to; transportation" in section catchline, and struck out provision that persons confined in prisons in pursuance of the sentence of a Coast Guard court shall during such confinement, be allowed a reasonable sum, not to exceed $3 per month, for necessary prison expenses and the provision that the Commandant of the Coast Guard may transport to theirhomes or places of enlistment, as he may designate, all discharged prisoners, the expense of such transportation to be paid out of any money to the credit of prisoners when discharged.
 
 #### Effective Date
 

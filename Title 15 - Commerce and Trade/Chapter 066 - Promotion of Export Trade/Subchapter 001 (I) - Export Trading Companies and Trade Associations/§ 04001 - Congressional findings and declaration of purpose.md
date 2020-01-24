@@ -40,5 +40,5 @@ Pub. L. 99–64, §1, July 12, 1985, 99 Stat. 120, provided that: "Titles I and 
 
 #### Short Title
 
-Pub. L. 97–290, title I, §101, Oct. 8, 1982, 96 Stat. 1233, provided that: "This title \[enacting this subchapter\] may be cited as the 'Export Trading Company Act of 1982'."
+Pub. L. 97–290, title I, §101, Oct. 8, 1982, 96 Stat. 1233, provided that: "This title \[enacting this subchapter\]may be cited as the 'Export Trading Company Act of 1982'."
 

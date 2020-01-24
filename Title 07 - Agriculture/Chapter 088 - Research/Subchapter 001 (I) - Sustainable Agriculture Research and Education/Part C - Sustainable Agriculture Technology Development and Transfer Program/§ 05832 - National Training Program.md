@@ -12,7 +12,7 @@ The National Training Program shall be organized and administered by the Nationa
 
 #### (1) Agricultural agents
 
-&emsp;The Secretary shall ensure that all agricultural agents of the Cooperative Extension Service have completed the National TrainingProgram not later than the end of the five-year period beginning on November 28, 1990. Such training may occur at a college or university located within each State as designated by the coordinator designated under this section.
+&emsp;The Secretary shall ensure that all agricultural agents of the Cooperative Extension Service have completed the National Training Program not later than the end of the five-year period beginning on November 28, 1990. Such training may occur at a college or university located within each State as designated by the coordinator designated under this section.
 
 #### (2) Proof of training
 
@@ -78,7 +78,7 @@ The Cooperative Extension Service within each State shall transfer information d
 
 &emsp;(10) provide specific information on nutrient management practices developed through the research programs in chapter 86 of this title; <sup>1</sup> and
 
-&emsp;(11) provide information concerning whole-farm management systems integrating research results under this subchapter, chapter86 of this title,<sup>1</sup> and other appropriate research programs of the Department.
+&emsp;(11) provide information concerning whole-farm management systems integrating research results under this subchapter, chapter 86 of this title,<sup>1</sup> and other appropriate research programs of the Department.
 
 #### (h) "Appropriate field office personnel" defined
 

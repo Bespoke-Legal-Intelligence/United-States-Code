@@ -8,7 +8,7 @@
 
 #### (2) Guidance
 
-&emsp;Within 1 year after August 8, 2005, the Administrator shall, in consultation with theStates, underground storage tank owners, and product delivery industries, publish guidelines detailing the specific processes and procedures they will use to implement the provisions of this section. The processes and procedures include, at a minimum—
+&emsp;Within 1 year after August 8, 2005, the Administrator shall, in consultation with the States, underground storage tank owners, and product delivery industries, publish guidelines detailing the specific processes and procedures they will use to implement the provisions of this section. The processes and procedures include, at a minimum—
 
 &emsp;&emsp;(A) the criteria for determining which underground storage tank facilities are ineligible for delivery, deposit, or acceptance of a regulated substance;
 

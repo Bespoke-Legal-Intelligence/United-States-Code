@@ -22,7 +22,7 @@ The Administrator shall ensure that—
 
 &emsp;&emsp;&emsp;(i) Local or tribal government officials.
 
-&emsp;&emsp;&emsp;(ii) Emergency response providers, which shall include representatives of the fireservice, law enforcement, emergency medical services, and emergency managers.
+&emsp;&emsp;&emsp;(ii) Emergency response providers, which shall include representatives of the fire service, law enforcement, emergency medical services, and emergency managers.
 
 &emsp;&emsp;&emsp;(iii) Public health officials and other appropriate medical practitioners.
 
@@ -54,7 +54,7 @@ It is the sense of Congress that, in order to ensure that the Nation is most eff
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143. Section 203 of the Act is classified to section 5133 of Title 42, The Public Health and Welfare. Titles IV and V of the Act are classified generally to subchapters IV (§5170 et seq.) and IV–A (§5191 et seq.), respectively, of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub.L. 93–288, May 22, 1974, 88 Stat. 143. Section 203 of the Act is classified to section 5133 of Title 42, The Public Health and Welfare. Titles IV and V of the Act are classified generally to subchapters IV (§5170 et seq.) and IV–A (§5191 et seq.), respectively, of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 The Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (c)(2), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266. Title I of the Act enacted this subchapter and amended sections 318, 321a, 594, 596, and 752 of this title. Title II of the Act amended section 762 of this title and section 5196c of Title 42, The Public Health and Welfare. For complete classification of titles I and II to the Code, see Tables.
 

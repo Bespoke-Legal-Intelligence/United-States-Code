@@ -28,7 +28,7 @@ The Committee shall meet at least twice a year to provide a public, interagency 
 
 #### (d) Monitoring
 
-The Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, in cooperation with the Administrator of the Environmental Protection Agency, shall utilize the marine debris data derived under title V of the MarineProtection, Research, and Sanctuaries Act of 1972 (33 U.S.C. 2801 et seq.) to assist—
+The Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, in cooperation with the Administrator of the Environmental Protection Agency, shall utilize the marine debris data derived under title V of the Marine Protection, Research, and Sanctuaries Act of 1972 (33 U.S.C. 2801 et seq.) to assist—
 
 &emsp;(1) the Committee in ensuring coordination of research, monitoring, education and regulatory actions; and
 

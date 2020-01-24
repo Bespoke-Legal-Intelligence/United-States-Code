@@ -56,7 +56,7 @@ The Secretary shall transmit copies of any statements, notifications, reports, o
 
 #### (e) Individual statement to participant
 
-Each plan administrator required to file a registration statement under subsection (a) shall, before the expiration of the time prescribed for the filing of such registration statement, also furnish to each participant described in subsection (a)(2)(C) an individual statement setting forth the information with respect to such participant required to be contained in such registration statement. Such statement shall also include a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date.
+Each plan administrator required to file a registration statement under subsection (a) shall, before the expiration of the time prescribed for the filing of such registration statement, also furnish to each participant described in subsection (a)(2)(C) an individual statement settingforth the information with respect to such participant required to be contained in such registration statement. Such statement shall also include a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date.
 
 #### (f) Regulations
 
@@ -96,7 +96,7 @@ Subsec. (f). Pub. L. 98–369 substituted "Secretary of Health and Human Service
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a noteunder section 401 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1986 Amendment
 

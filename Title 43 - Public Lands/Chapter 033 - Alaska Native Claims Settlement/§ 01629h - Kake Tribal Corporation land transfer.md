@@ -26,7 +26,7 @@ If—
 
 #### (d) Withdrawal
 
-Subject to valid existing rights, the lands described in subsection (c)(2) are withdrawn from all forms of location, entry, and selection under the mining and public land laws of the United States and from leasing under the mineral and geothermal leasing laws. This withdrawal expires 18 months after the effective date of this section.
+Subject to valid existing rights, the lands described in subsection (c)(2) are withdrawn fromall forms of location, entry, and selection under the mining and public land laws of the United States and from leasing under the mineral and geothermal leasing laws. This withdrawal expires 18 months after the effective date of this section.
 
 #### (e) Maps
 
@@ -34,7 +34,7 @@ The maps referred to in this chapter shall be maintained on file in the Office o
 
 #### (f) Watershed management
 
-The United States Forest Service may cooperate with Kake Tribal Corporation and the City of Kake in developing a watershed management plan that provides for the protection of the watershed in the public interest. Grants may be made, and contracts and cooperative agreementsmay be entered into, to the extent necessary to assist the City of Kake and Kake Tribal Corporation in the preparation and implementation of a watershed management plan for the land within the City of Kake's municipal watershed.
+The United States Forest Service may cooperate with Kake Tribal Corporation and the City of Kake in developing a watershed management plan that provides for the protection of the watershed in the public interest. Grants may be made, and contracts and cooperative agreements may be entered into, to the extent necessary to assist the City of Kake and Kake Tribal Corporation in the preparation and implementation of a watershed management plan for the land within the City of Kake's municipal watershed.
 
 #### (g) Effective date
 
@@ -54,19 +54,19 @@ This section is effective upon the execution of one or more conservation easemen
 
 &emsp;&emsp;(D) habitat for black bear, deer, birds, and other wildlife.
 
-#### (h) Timber manufacturing; export restriction
+#### (h) Authorization of appropriations
 
-Notwithstanding any other provision of law, timber harvested from lands conveyed to Kake Tribal Corporation under this section shall not be available for export as unprocessed logs from Alaska, nor may Kake Tribal Corporation sell, trade, exchange, substitute, or otherwise convey such timber to any person for the purpose of exporting that timber from the State of Alaska.
+There are authorized such sums as may be necessary to carry out this chapter, including to compensate Kake Tribal Corporation for relinquishing its development rights pursuant to subsection (g)(2). No funds authorized under this section may be paid to Kake Tribal Corporation unless Kake Tribal Corporation is a party to the conservation easements described in subsection (g).
 
-#### (i) Authorization of appropriations
-
-There are authorized such sums as may be necessary to carry out this chapter, including to compensate Kake Tribal Corporation for relinquishing its development rights pursuant to subsection (g)(2) and to provide assistance to Kake Tribal Corporation to meet the requirements of subsection (h). No funds authorized under this section may be paid to Kake Tribal Corporation unless Kake Tribal Corporation is a party to the conservation easements described in subsection (g).
-
-(Pub. L. 92–203, §42, as added Pub. L. 106–283, §3, Oct. 6, 2000, 114 Stat. 867.)
+(Pub. L. 92–203, §42, as added Pub. L. 106–283, §3, Oct. 6, 2000, 114 Stat. 867; amended Pub. L. 116–9, title I, §1105, Mar. 12, 2019, 133 Stat. 607.)
 
 #### References in Text
 
 The Alaska Statehood Act, referred to in subsecs. (a)(1) and (b)(1), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+<b>2019</b>—Subsecs. (h), (i). Pub. L. 116–9 redesignated subsec. (i) as (h), struck out "and to provide assistance to Kake Tribal Corporation to meet the requirements of subsection (h)" after "pursuant to subsection (g)(2)", and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows: "Notwithstanding any other provision of law, timber harvested from lands conveyed to Kake Tribal Corporation under this section shall not be available for export as unprocessed logs from Alaska, nor may Kake Tribal Corporation sell, trade, exchange, substitute, or otherwise convey such timber to any person for the purpose of exporting that timber from the State of Alaska."
 
 #### Declaration of Purpose
 

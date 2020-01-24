@@ -46,7 +46,7 @@ Pub. L. 94–178, Dec. 23, 1975, 89 Stat. 1033, provided: "That the annual rate 
 
 #### Increase of Pay of Persons Retired Prior to 1967
 
-Pub. L. 90–165, Nov. 29, 1967, 81 Stat. 519, provided: "That effective on the first day of the first month which begins after the date of enactment of this Act \[Nov. 29, 1967\], the annual rate of retired pay of a person retired under section 6 of the Act of June 20, 1918 (33 U.S.C. 763), shall be increased by 11.3 per centum if such person retired prior to January 1, 1966, or by 4.1 per centum if such person retired after December 31, 1965, but before January 1, 1967."
+Pub. L. 90–165, Nov. 29, 1967, 81 Stat. 519, provided: "That effective on the first day of the first month which begins after the date of enactment of this Act \[Nov. 29, 1967\], the annual rate of retired pay of a person retired under section 6 of the Act of June 20, 1918\(33 U.S.C. 763), shall be increased by 11.3 per centum if such person retired prior to January 1, 1966, or by 4.1 per centum if such person retired after December 31, 1965, but before January 1, 1967."
 
 #### Increase of Pay of Persons Retired Prior to 1963
 

@@ -26,7 +26,7 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title I\], Nov. 29, 1999, 113 Stat. 15
 
 #### Historically Black Colleges and Universities Historic Building Restoration and Preservation
 
-Pub. L. 104–333, div. I, title V, §507, Nov. 12, 1996, 110 Stat. 4156, as amended by Pub. L. 108–7, div. F, title I, §150, Feb. 20, 2003, 117 Stat. 245, provided that:
+Pub. L. 104–333, div. I, title V, §507, Nov. 12, 1996, 110 Stat. 4156, as amended by Pub. L. 108–7, div. F, title I, §150, Feb. 20, 2003, 117 Stat. 245; Pub. L. 116–9, title II, §2402, Mar. 12, 2019, 133 Stat. 747, provided that:
 
 "(a)
 
@@ -66,7 +66,7 @@ In general.—Under section 108 of the National Historic Preservation Act \[see 
 
 &emsp;"(2)
 
-Additional funding.—In addition to amounts made available under paragraph (1), there is authorized to be appropriated from the Historic Preservation Fund to carry out this section $10,000,000 for each of fiscal years 2003 through 2008.
+Additional funding.—In addition to amounts made available under paragraph (1), there is authorized to be appropriated from the Historic Preservation Fund to carry out this section $10,000,000 for each of fiscal years 2003 through 2008 and each of fiscal years 2019 through 2025.
 
 "(e)
 

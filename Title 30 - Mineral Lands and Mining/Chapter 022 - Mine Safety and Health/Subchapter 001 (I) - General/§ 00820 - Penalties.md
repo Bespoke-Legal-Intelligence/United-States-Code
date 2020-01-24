@@ -20,7 +20,7 @@
 
 #### (c) Liability of corporate directors, officers, and agents
 
-Whenever a corporate operator violates a mandatory health or safety standard or knowingly violates or fails or refuses to comply with any order issued under this chapter or any order incorporated in a final decision issued under this chapter, except an order incorporated in a decision issued under subsection (a) or section 815(c) of this title, any director, officer, or agent of such corporation who knowingly authorized, ordered, or carried out such violation, failure, or refusal shall be subject to the same civil penalties, fines, and imprisonment that may be imposed upon a person under subsections (a) and (d).
+Whenever a corporate operator violates a mandatory health or safety standard or knowinglyviolates or fails or refuses to comply with any order issued under this chapter or any order incorporated in a final decision issued under this chapter, except an order incorporated in a decision issued under subsection (a) or section 815(c) of this title, any director, officer, or agent of such corporation who knowingly authorized, ordered, or carried out such violation, failure, or refusal shall be subject to the same civil penalties, fines, and imprisonment that may be imposed upon a person under subsections (a) and (d).
 
 #### (d) Criminal penalties
 
@@ -44,7 +44,7 @@ Whoever knowingly distributes, sells, offers for sale, introduces, or delivers i
 
 #### (i) Authority to assess civil penalties
 
-The Commission shall have authority to assess all civil penalties provided in this chapter. In assessing civil monetary penalties, the Commission shall consider the operator's history of previous violations, the appropriateness of such penalty to the size of the business of the operator charged, whether the operator was negligent,the effect on the operator's ability to continue in business, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance after notification of a violation. In proposing civil penalties under this chapter, the Secretary may rely upon a summary review of the information available to him and shall not be required to make findings of fact concerning the above factors.
+The Commission shall have authority to assess all civil penalties provided in this chapter. In assessing civil monetary penalties, the Commission shall consider the operator's history of previous violations, the appropriateness of such penalty to the size of the business of the operator charged, whether the operator was negligent, the effect on the operator's ability to continue in business, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance after notification of a violation. In proposing civil penalties under this chapter, the Secretary may rely upon a summary review of the information available to him and shall not be required to make findings of fact concerning the above factors.
 
 #### (j) Payment of penalties; interest
 

@@ -274,7 +274,7 @@
 
 #### (A) Annual, close oversight during trial period
 
-&emsp;&emsp;During the trial period (as defined in subsection (a)(9)) with respect to a PACE program operated by a PACE provider, the Secretary (in cooperation with the State administering agency) shall conduct a comprehensive annual review of the operation of the PACE program by the provider in order to assure compliance with the requirements of this section and regulations. Such a review shall include—
+&emsp;&emsp;During the trial period (as defined in subsection (a)(9)) with respect to a PACE program operated by a PACE provider, the Secretary (in cooperation with the State administering agency) shall conduct a comprehensive annual review of the operation of the PACE program by the provider in order to assure compliance with the requirements ofthis section and regulations. Such a review shall include—
 
 &emsp;&emsp;&emsp;(i) an on-site visit to the program site;
 
@@ -372,7 +372,7 @@
 
 #### (C) Continuation of modifications or waivers of operational requirements under demonstration status
 
-&emsp;&emsp;If a PACE program operating under demonstration authority has contractual orother operating arrangements which are not otherwise recognized in regulation and which were in effect on July 1, 2000, the Secretary (in close consultation with, and with the concurrence of, the State administering agency) shall permit any such program to continue such arrangements so long as such arrangements are found by the Secretary and the State to be reasonably consistent with the objectives of the PACE program.
+&emsp;&emsp;If a PACE program operating under demonstration authority has contractual or other operating arrangements which are not otherwise recognized in regulation and which were in effect on July 1, 2000, the Secretary (in close consultation with, and with the concurrence of, the State administering agency) shall permit any such program to continue such arrangements so long as such arrangements are found by the Secretary and the State to be reasonably consistent with the objectives of the PACE program.
 
 #### (3) Application of certain additional beneficiary and program protections
 
@@ -584,7 +584,7 @@ Cost Outlier Protection for Rural PACE Pilot Sites.—
 
 &emsp;"(1)
 
-Establishment of fund for reimbursement of outlier costs.—Notwithstanding any other provision of law, the Secretary shall establish an outlier fundto reimburse rural PACE pilot sites for recognized outlier costs (as defined in paragraph (3)) incurred for eligible outlier participants (as defined in paragraph (2)) in an amount, subject to paragraph (4), equal to 80 percent of the amount by which the recognized outlier costs exceeds $50,000.
+Establishment of fund for reimbursement of outlier costs.—Notwithstanding any other provision of law, the Secretary shall establish an outlier fund to reimburse rural PACE pilot sites for recognized outlier costs (as defined in paragraph (3)) incurred for eligible outlier participants (as defined in paragraph (2)) in an amount, subject to paragraph (4), equal to 80 percent of the amount by which the recognized outlier costs exceeds $50,000.
 
 &emsp;"(2)
 
@@ -668,7 +668,7 @@ Amounts in Addition to Payments Under Social Security Act.—Any amounts paid un
 
 #### Flexibility in Exercising Waiver Authority
 
-Pub. L. 106–554, §1(a)(6) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: "In applying sections 1894(f)(2)(B) and 1934(f)(2)(B) of the Social Security Act (42 U.S.C. 1395eee(f)(2)(B), 1396u–4(f)(2)(B)), the Secretary of Health and Human Services—
+Pub. L. 106–554, §1(a)(6) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: "In applyingsections 1894(f)(2)(B) and 1934(f)(2)(B) of the Social Security Act (42 U.S.C. 1395eee(f)(2)(B), 1396u–4(f)(2)(B)), the Secretary of Health and Human Services—
 
 &emsp;"(1) shall approve or deny a request for a modification or a waiver of provisions of the PACE protocol not later than 90 days after the date the Secretary receives the request; and
 
@@ -696,7 +696,7 @@ Expansion in current number and extension of demonstration projects.—Section 9
 
 &emsp;&emsp;&emsp;"(i) in subparagraph (A), by striking ', including permitting the organization to assume progressively (over the initial 3-year period of the waiver) the full financial risk'; and
 
-&emsp;&emsp;&emsp;"(ii) in subparagraph (C), by adding at the end the following: 'In granting further extensions, anorganization shall not be required to provide for reporting of information which is only required because of the demonstration nature of the project.'
+&emsp;&emsp;&emsp;"(ii) in subparagraph (C), by adding at the end the following: 'In granting further extensions, an organization shall not be required to provide for reporting of information which is only required because of the demonstration nature of the project.'
 
 &emsp;"(2)
 
@@ -766,7 +766,7 @@ Study.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Health and Human Services (in close consultation with State administering agencies, as defined in sections 1894(a)(8) and 1934(a)(8) of the Social Security Act \[42 U.S.C. 1395eee(a)(8), 1396u–4(a)(8)\]) shall conduct a study of the quality and cost of providing PACE program services under the medicare and medicaid programs under the amendments made by this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title\].
+In general.—The Secretary of Health and Human Services (in close consultation with State administering agencies, as defined in sections 1894(a)(8) and 1934(a)(8) of the Social Security Act \[42 U.S.C.1395eee(a)(8), 1396u–4(a)(8)\]) shall conduct a study of the quality and cost of providing PACE program services under the medicare and medicaid programs under the amendments made by this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title\].
 
 &emsp;"(2)
 

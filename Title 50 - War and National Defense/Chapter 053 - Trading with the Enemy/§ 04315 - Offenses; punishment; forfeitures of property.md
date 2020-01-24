@@ -22,7 +22,7 @@ Upon conviction, any property, funds, securities, papers, or other articles or d
 
 #### References in Text
 
-"This chapter" and "the chapter", referred to in subsecs. (a) and (b)(1), were in the original "this Act" and "the Act", respectively, meaning act Oct. 6, 1917, ch. 106, 40 Stat. 411, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act,which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4301 of this title and Tables.
+"This chapter" and "the chapter", referred to in subsecs. (a) and (b)(1), were in the original "this Act" and "the Act", respectively, meaning act Oct. 6, 1917, ch. 106, 40 Stat. 411, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4301 of this title and Tables.
 
 #### Codification
 

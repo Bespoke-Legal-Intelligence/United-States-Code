@@ -24,7 +24,7 @@ In this chapter:
 
 #### (6) Offshore whiting resource
 
-&emsp;The term "offshore whiting resource" means the transboundary stock of Merluccius productus that is located in the offshore waters of the United States and Canada except in Puget Sound and the Strait of Georgia.
+&emsp;The term "offshore whiting resource" means the transboundary stock of Merlucciusproductus that is located in the offshore waters of the United States and Canada except in Puget Sound and the Strait of Georgia.
 
 #### (7) Scientific review group
 

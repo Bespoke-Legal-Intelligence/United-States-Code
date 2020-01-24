@@ -20,13 +20,13 @@ The Supreme Court of the United States has ruled that, notwithstanding the three
 
 The Supreme Court in upholding the unanimous view of the five judges as to their right to sit in banc, notwithstanding the contrary opinion in <i>Langs Estate v. Commissioner of Internal Revenue</i>, 1938, 97 F.2d 867, said in the Textile Mills case: "There are numerous functions of the court, as a 'court of record, with appellate jurisdiction', other than hearing and deciding appeals. Under the Judicial Code these embrace: prescribing the form of writs and other process and the form and style of its seal (28 U.S.C., §219); the making of rules and regulations (28 U.S.C., §219); the appointment of a clerk (28 U.S.C., §221) and the approval of the appointment and removal of deputy clerks (28 U.S.C., §222); and the fixing of the 'times' when court shall be held (28 U.S.C., §223). Furthermore, those various sections of the Judicial Code provide that each of these functions shall be performed by the court."
 
-This section preserves the interpretation established by the Textile Mills case but provides in subsection (c) that cases shall be heard by a court of not more than three judges unless the court has provided for hearing in banc. This provision continues the tradition of a three-judge appellate court and makes the decision of a division, the decision of the court, unless rehearing in banc is ordered. It makes judges available for other assignments, and permits a rotation of judges in such manner as to give to each a maximum of time for the preparation of opinions.
+This section preserves the interpretation established by the Textile Mills case but provides in subsection (c)that cases shall be heard by a court of not more than three judges unless the court has provided for hearing in banc. This provision continues the tradition of a three-judge appellate court and makes the decision of a division, the decision of the court, unless rehearing in banc is ordered. It makes judges available for other assignments, and permits a rotation of judges in such manner as to give to each a maximum of time for the preparation of opinions.
 
 Whether divisions should sit simultaneously at the same or different places in the circuit is a matter for each court to determine.
 
 #### References in Text
 
-Section 6 of Public Law 95–486 (92 Stat. 1633), referred to in subsec. (c), is section 6 of Pub. L. 95–486, Oct. 20,1978, 92 Stat. 1633, which is set out as an Appeals Court Administrative Units note under section 41 of this title.
+Section 6 of Public Law 95–486 (92 Stat. 1633), referred to in subsec. (c), is section 6 of Pub. L. 95–486, Oct. 20, 1978, 92 Stat. 1633, which is set out as an Appeals Court Administrative Units note under section 41 of this title.
 
 #### Amendments
 

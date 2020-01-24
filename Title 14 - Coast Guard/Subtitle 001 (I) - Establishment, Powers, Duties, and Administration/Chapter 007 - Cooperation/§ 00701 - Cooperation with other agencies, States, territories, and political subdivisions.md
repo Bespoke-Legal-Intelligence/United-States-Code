@@ -22,5 +22,5 @@ Subsec. (a). Pub. L. 115–282, §123(c)(6), substituted "chapter 39" for "chapt
 
 <b>1996</b>—Pub. L. 104–324, §405(a)(1), amended section catchline generally, substituting "Cooperation with other agencies, States, territories, and political subdivisions" for "General".
 
-Subsec. (a). Pub. L. 104–324, §405(a)(2), (3), inserted "(including members of the Auxiliary and facilities governed under chapter 23)" after "personnel and facilities" and "The Commandant may prescribe conditions,including reimbursement, under which personnel and facilities may be provided under this subsection." at end.
+Subsec. (a). Pub. L. 104–324, §405(a)(2), (3), inserted "(including members of the Auxiliary and facilities governed under chapter 23)" after "personnel and facilities" and "The Commandant may prescribe conditions, including reimbursement, under which personnel and facilities may be provided under this subsection." at end.
 

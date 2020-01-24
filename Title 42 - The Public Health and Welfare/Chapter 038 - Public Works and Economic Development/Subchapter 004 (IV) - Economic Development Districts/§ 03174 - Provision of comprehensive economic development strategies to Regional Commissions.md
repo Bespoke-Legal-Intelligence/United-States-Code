@@ -1,6 +1,6 @@
 ### §3174. Provision of comprehensive economic development strategies to Regional Commissions
 
-If any part of an economic development district is in a region covered by 1 or more of the Regional Commissions, the economic development district shall ensure that a copy of the comprehensive economic development strategy of the district is provided to the affected Regional Commission.
+If any part of an economic development district is in a region covered by 1 or more of the Regional Commissions, the economic development district shall ensure that a copy of the comprehensive economic development strategyof the district is provided to the affected Regional Commission.
 
 (Pub. L. 89–136, title IV, §404, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3609; amended Pub. L. 108–373, title IV, §402(a), Oct. 27, 2004, 118 Stat. 1768.)
 

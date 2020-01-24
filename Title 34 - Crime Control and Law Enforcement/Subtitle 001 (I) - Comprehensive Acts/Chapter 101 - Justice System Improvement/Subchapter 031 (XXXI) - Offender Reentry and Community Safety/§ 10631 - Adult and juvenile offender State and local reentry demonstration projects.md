@@ -188,7 +188,7 @@ Funds for the juvenile offender reentry demonstration projects may be expended f
 
 #### (2) Local evaluator
 
-&emsp;A partnership with a local evaluator described in subsection (d)(2) shall require the local evaluator to use the baseline data and target population characteristics developed under a subsection (e) planning grant to derive a target goal for recidivism reduction during the 3-year period beginning on the date of implementation of the program.
+&emsp;A partnership with a local evaluator described in subsection (d)(2) shall require the local evaluator to use the baseline data andtarget population characteristics developed under a subsection (e) planning grant to derive a target goal for recidivism reduction during the 3-year period beginning on the date of implementation of the program.
 
 #### (3) Coordination
 
@@ -292,7 +292,7 @@ Funds for the juvenile offender reentry demonstration projects may be expended f
 
 &emsp;&emsp;(C) provide to all grantees technical assistance and training on performance measures and data collection for purposes of subsection (f); and
 
-&emsp;&emsp;(D) consult with the Substance Abuse and Mental Health Services Administration and the National Institute on Drug Abuse on strategic performance outcome measuresand data collection for purposes of subsection (f) relating to substance abuse and mental health.
+&emsp;&emsp;(D) consult with the Substance Abuse and Mental Health Services Administration and the National Institute on Drug Abuse on strategic performance outcome measures and data collection for purposes of subsection (f) relating to substance abuse and mental health.
 
 #### (2) Coordination
 
@@ -442,7 +442,7 @@ Subsec. (b)(8). Pub. L. 115–391, §502(a)(2)(B)–(D), added par. (8).
 
 Subsecs. (d) to (f). Pub. L. 115–391, §502(a)(3), added subsecs. (d) to (f) and struck out former subsecs. (d) to (f) which related to applications, requirements, and priority considerations for grants, respectively.
 
-Subsec. (h)(1), (2). Pub. L. 115–391, §502(a)(4)(B), added pars. (1) and (2) and struck out former par. (1). Prior to amendment, text of former par. (1) read as follows: "As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, to the maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds made available under this section." Former par. (2) redesignated (3).
+Subsec. (h)(1), (2). Pub. L. 115–391, §502(a)(4)(B), added pars. (1) and (2) and struck out former par. (1). Prior to amendment, text of former par. (1) read as follows: "As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, to the maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds madeavailable under this section." Former par. (2) redesignated (3).
 
 Subsec. (h)(3), (4). Pub. L. 115–391, §502(a)(4)(A), redesignated pars. (2) and (3) as (3) and (4), respectively.
 

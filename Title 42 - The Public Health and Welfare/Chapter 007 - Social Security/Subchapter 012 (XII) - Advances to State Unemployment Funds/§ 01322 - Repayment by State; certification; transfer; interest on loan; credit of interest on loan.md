@@ -20,9 +20,9 @@ The Governor of any State may at any time request that funds be transferred from
 
 (B) Notwithstanding subparagraph (A), in the case of any advance made during the last 5 months of any fiscal year, interest on such advance attributable to periods during such fiscal year shall not be required to be paid before the last day of the succeeding taxable year. Any interest the time for payment of which is deferred by the preceding sentence shall bear interest in the same manner as if it were an advance made on the day on which it would have been required to be paid but for this subparagraph.
 
-(C)(i) In the case of any State which meets the requirements of clause (ii) for any calendaryear, any interest otherwise required to be paid under this subsection during such calendar year shall be paid as follows—
+(C)(i) In the case of any State which meets the requirements of clause (ii) for any calendar year, any interest otherwise required to be paid under this subsection during such calendar year shall be paid as follows—
 
-&emsp;(I) 25 percent of the amount otherwise required to be paid on or before any day during such calendar year shall be paid on or before such day; and
+&emsp;(I) 25 percent of the amount otherwise required to be paid on or before any day duringsuch calendar year shall be paid on or before such day; and
 
 &emsp;(II) 25 percent of the amount otherwise required to be paid on or before such day shall be paid on or before the corresponding day in each of the 3 succeeding calendar years.
 
@@ -62,7 +62,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 (D) In the case of a State which produces a solvency effort of 50 percent, 80 percent, and 90 percent rather than the 25 percent, 35 percent, and 50 percent required under subparagraph (B), the interest shall be computed at an interest rate which is 1 percentage point less than the otherwise applicable interest rate.
 
-(9) Any interest otherwise due from a State on September 30 of a calendar year after 1982 may be deferred (and no interest shall accrue on such deferred interest) for a grace period of not to exceed 9 months if, for the most recent 12-monthperiod for which data are available before the date such interest is otherwise due, the State had an average total unemployment rate of 13.5 percent or greater.
+(9) Any interest otherwise due from a State on September 30 of a calendar year after 1982 may be deferred (and no interest shall accrue on such deferred interest) for a grace period of not to exceed 9 months if, for the most recent 12-month period for which data are available before the date such interest is otherwise due, the State had an average total unemployment rate of 13.5 percent or greater.
 
 (10)(A) With respect to the period beginning on February 17, 2009, and ending on December 31, 2010—
 

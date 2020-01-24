@@ -2,7 +2,15 @@
 
 (a)
 
-In General.—The Secretary or Administrator, on terms the Secretary or Administrator may prescribe, may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation eligible to be guaranteed under this chapter. A guarantee or commitment to guarantee shall cover 100 percent of the principal and interest.
+In General.—
+
+&emsp;(1)
+
+Guarantee of payments.—The Secretary or Administrator, on terms the Secretary or Administrator may prescribe, may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation eligible to be guaranteed under this chapter. A guarantee or commitment to guarantee shall cover 100 percent of the principal and interest.
+
+&emsp;(2)
+
+Preferred eligible lender.—The Federal Financing Bank shall be the preferred eligible lender of the principal and interest of the guaranteed obligations issued under this chapter.
 
 (b)
 
@@ -10,7 +18,7 @@ Direct Loans for Fisheries.—
 
 &emsp;(1)
 
-In general.—Notwithstanding any other provision of this chapter, any obligation involving a fishing vessel, fishery facility, aquaculture facility, individual fishing quota, or fishing capacity reduction program issued under this chapter after October 11, 1996, shall be a direct loan obligation for which the Secretary shall be the obligee, rather than an obligation issued to an obligee other than the Secretary and guaranteed by the Secretary. A direct loan obligation under this subsection shall be treated in the same manner and to the same extent as an obligation guaranteed under this chapter except with respect to provisions of this chapter that by their nature can only be applied to obligations guaranteed under this chapter.
+In general.—Notwithstanding any other provision of this chapter, any obligation involving a fishing vessel, fishery facility, aquaculture facility, individual fishing quota, or fishing capacity reduction program issued under this chapter after October 11, 1996, shall be a direct loan obligation for which the Secretary shall be the obligee, rather than an obligation issued to an obligee other than the Secretary and guaranteed by the Secretary. A direct loan obligation under this subsection shall be treated in the same manner and to the same extent as an obligation guaranteed under this chapter except with respect to provisionsof this chapter that by their nature can only be applied to obligations guaranteed under this chapter.
 
 &emsp;(2)
 
@@ -28,7 +36,7 @@ Use of obligations in limited access fisheries.—In addition to the other eligi
 
 &emsp;&emsp;(B) financing the purchase of harvesting rights in a fishery that is federally managed under a limited access system.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1603; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (d), Jan. 6, 2006, 119 Stat. 3555, 3557; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598; Pub. L. 114–120, title III, §302(a)(2), Feb. 8, 2016, 130 Stat. 52.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1603; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (d), Jan. 6, 2006, 119 Stat. 3555, 3557; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598; Pub. L. 114–120, title III, §302(a)(2), Feb. 8, 2016, 130 Stat. 52; Pub. L. 116–92, div. C, title XXXV, §3506(b), Dec. 20, 2019, 133 Stat. 1971.)
 
 Historical and Revision Notes
 
@@ -59,6 +67,8 @@ In subsection (a), the words "on terms the Secretary may prescribe" are added ba
 Subsec. (b) of this section was derived from section 1112 of act June 29, 1936, as added by Pub. L. 104–297, §303(a), which was classified to section 1279g of the former Appendix to this title. Section 1112 was renumbered section 1114 of the Act by Pub. L. 109–163, div. C, title XXXV, §3507(d), Jan. 6, 2006, 119 Stat. 3557, which was repealed by Pub. L. 110–181, div. C, title XXXV, §3522(b), Jan. 28, 2008, 122 Stat. 598. See Historical and Revision notes above and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–92 amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary or Administrator, on terms the Secretary or Administrator may prescribe, may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation eligible to be guaranteed under this chapter. A guarantee or commitment to guarantee shall cover 100 percent of the principal and interest."
 
 <b>2016</b>—Subsec. (b)(3), (4). Pub. L. 114–120 added pars. (3) and (4).
 

@@ -14,7 +14,7 @@
 
 #### (b) Additional credit
 
-In addition to the credit allowed under subsection (a), a taxpayer may credit against the tax imposed by section 3301 for any taxable year an amount, with respect to the unemployment compensation law of each State certified as provided in section 3303 for the 12-month period ending on October 31 of such year, or with respect to any provisions thereof so certified, equal to the amount, if any, by which the contributions required to be paid by him with respect to the taxable year were less than the contributions such taxpayer would have been required to pay if throughout the taxable year hehad been subject under such State law to the highest rate applied thereunder in such 12-month period to any person having individuals in his employ, or to a rate of 5.4 percent, whichever rate is lower.
+In addition to the credit allowed under subsection (a), a taxpayer may credit against the tax imposed by section 3301 for any taxable year an amount, with respect to the unemployment compensation law of each State certified as provided in section 3303 for the 12-month period ending on October 31 of such year, or with respect to any provisions thereof so certified, equal to the amount, if any, by which the contributions required to be paid by him with respect to the taxable year were less than the contributions such taxpayer would have been required to pay if throughout the taxable year he had been subject under such State law to the highest rate applied thereunder in such 12-month period to any person having individuals in his employ, or to a rate of 5.4 percent, whichever rate is lower.
 
 #### (c) Limit on total credits
 
@@ -160,7 +160,7 @@ Subject to the limits provided by subsection (c), if—
 
 #### (D) Rounding
 
-&emsp;&emsp;If any percentage determined under subparagraph (A) is not a multiple of .1 percent, such percentage shall be reduced to the nearest multiple of .1 percent.
+&emsp;&emsp;If any percentage determined under subparagraph (A) is not a multiple of .1 percent,such percentage shall be reduced to the nearest multiple of .1 percent.
 
 #### (6) Reports
 
@@ -218,7 +218,7 @@ Subject to the limits provided by subsection (c), if—
 
 If a certified professional employer organization (as defined in section 7705), or a customer of such organization, makes a contribution to the State's unemployment fund with respect to wages paid to a work site employee, such certified professional employer organization shall be eligible for the credits available under this section with respect to such contribution.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, §523(b), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, §14(b), Mar. 24, 1961, 75 Stat. 16; Pub. L. 87–321, §1(a), Sept. 26, 1961, 75 Stat. 683; Pub. L. 88–31, §2(b), May 29, 1963, 77 Stat. 51; Pub. L. 88–173, §1(a)–(c), Nov. 7, 1963, 77 Stat. 305; Pub. L. 91–373, title I, §142(a), (b), Aug. 10, 1970, 84 Stat. 707; Pub. L. 93–618, title II, §239(e), Jan. 3, 1975, 88 Stat. 2025; Pub. L. 94–45, title I, §110(a), title III, §302, June 30, 1975, 89 Stat. 239, 243; Pub. L. 94–455, title XIX, §§1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 95–19, title II, §201(a), Apr. 12, 1977, 91 Stat. 43; Pub. L. 96–589, §6(f), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 97–35, title XXIV, §2406(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–248, title II, §§271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, 96 Stat. 555–557; Pub. L. 98–21, title V, §§512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, 97 Stat. 146, 147; Pub. L. 99–514, title XVIII, §1884(1), (2), Oct. 22, 1986, 100 Stat. 2919; Pub. L. 113–295, div. A, title II, §221(a)(101), div. B, title II, §206(c)(1), Dec. 19, 2014, 128 Stat. 4052, 4070; Pub. L. 115–141, div. U, title IV, §401(b)(38), (39), Mar. 23, 2018, 132 Stat. 1204.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, §523(b), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, §14(b), Mar. 24, 1961, 75 Stat. 16; Pub. L. 87–321, §1(a), Sept. 26, 1961, 75 Stat. 683; Pub. L. 88–31, §2(b), May 29, 1963, 77 Stat. 51; Pub. L. 88–173, §1(a)–(c), Nov. 7, 1963, 77 Stat. 305; Pub. L. 91–373, title I, §142(a), (b), Aug. 10, 1970, 84 Stat. 707; Pub. L. 93–618, title II, §239(e), Jan. 3, 1975, 88 Stat. 2025; Pub. L. 94–45, title I, §110(a), title III, §302, June 30, 1975, 89 Stat. 239, 243; Pub. L. 94–455, title XIX, §§1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 95–19, title II, §201(a), Apr. 12, 1977, 91 Stat. 43; Pub. L. 96–589, §6(f), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 97–35, title XXIV, §2406(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–248, title II, §§271(c)(2), (3)(A), (B),272(a), 273(a), Sept. 3, 1982, 96 Stat. 555–557; Pub. L. 98–21, title V, §§512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, 97 Stat. 146, 147; Pub. L. 99–514, title XVIII, §1884(1), (2), Oct. 22, 1986, 100 Stat. 2919; Pub. L. 113–295, div. A, title II, §221(a)(101), div. B, title II, §206(c)(1), Dec. 19, 2014, 128 Stat. 4052, 4070; Pub. L. 115–141, div. U, title IV, §401(b)(38), (39), Mar. 23, 2018, 132 Stat. 1204.)
 
 #### References in Text
 
@@ -390,7 +390,7 @@ Requirements.—A State meets the requirements of this subsection if, during cal
 
 Special Rule.—This section shall not apply to any taxable year after 1994 unless—
 
-&emsp;"(1) such taxable year is in a series of consecutive taxable years as of the beginning of each of which there was a balance referred to in section 3302(c)(2) of such Code, and
+&emsp;"(1) such taxable year is in a series of consecutive taxable years as of the beginning of each of whichthere was a balance referred to in section 3302(c)(2) of such Code, and
 
 &emsp;"(2) such series includes a taxable year beginning in 1992, 1993, or 1994."
 
@@ -482,7 +482,7 @@ Pub. L. 94–45, title I, §110(b), June 30, 1975, 89 Stat. 239, provided that:
 
 "(1) The amendment made by subsection (a) \[amending this section\] shall not be applicable in the case of any State unless the Secretary of Labor finds that such State has studied and taken appropriate action with respect to the financing of its unemployment programs so as substantially to accomplish the purpose of restoring the fiscal soundness of the State's unemployment account in the Unemployment Trust Fund and permitting the repayment within a reasonable time of any advances made to such account under title XII of the Social Security Act \[section 1321 et seq. of Title 42, The Public Health and Welfare\]. For purposes of the preceding sentence, appropriate action with respect to the financing of a State's unemployment programs means an increase in the State's unemployment tax rate, an increase in the State's unemployment tax base, a change in the experience rating formulas, or a combination thereof.
 
-"(2) The Secretary of Labor shall promptly prescribe and publish in the Federal Register regulations setting forth the criteria according to which he will determine the requirements of the preceding paragraph.
+"(2) The Secretary of Labor shall promptly prescribe and publish in the Federal Register regulations settingforth the criteria according to which he will determine the requirements of the preceding paragraph.
 
 "(3) Immediately after he makes a determination with respect to any State under paragraph (1), the Secretary of Labor shall publish such determination, together with his reasons therefor, in the Federal Register."
 

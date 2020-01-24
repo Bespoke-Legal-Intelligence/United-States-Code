@@ -54,6 +54,10 @@ A plan to which liabilities are transferred under this section is a successor pl
 
 <b>2014</b>—Subsec. (e). Pub. L. 113–235 added subsec. (e).
 
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2014 Amendment
 
 Pub. L. 113–235, div. O, title I, §121(b), Dec. 16, 2014, 128 Stat. 2794, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to plan years beginning after December 31, 2014."

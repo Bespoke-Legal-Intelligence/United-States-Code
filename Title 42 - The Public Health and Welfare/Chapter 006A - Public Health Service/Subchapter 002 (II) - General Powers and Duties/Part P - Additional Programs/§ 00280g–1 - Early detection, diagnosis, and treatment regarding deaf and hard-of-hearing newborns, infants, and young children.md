@@ -30,7 +30,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 &emsp;&emsp;&emsp;(iii) to ensure quality monitoring of hearing screening, evaluation, and intervention programs and systems for newborns, infants, and young children; and
 
-&emsp;&emsp;&emsp;(iv) to support newborn, infant, and young child hearing screening, evaluation, and intervention programs, and information systems.
+&emsp;&emsp;&emsp;(iv) to support newborn, infant, and young child hearing screening, evaluation,and intervention programs, and information systems.
 
 #### (B) Use of awards
 
@@ -136,7 +136,7 @@ For purposes of this section:
 
 #### (2) Technical assistance, data management, and applied research; Centers for Disease Control and Prevention
 
-&emsp;For the purpose of carrying out subsection (b)(1), there are authorized to be appropriated to the Centers for Disease Control and Prevention $10,800,000 for fiscal year 2018, $11,026,800 for fiscal year 2019, $11,302,470 for fiscal year2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022.
+&emsp;For the purpose of carrying out subsection (b)(1), there are authorized to be appropriated to the Centers for Disease Control and Prevention $10,800,000 for fiscal year 2018, $11,026,800 for fiscal year 2019, $11,302,470 for fiscal year 2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022.
 
 #### (3) Technical assistance, data management, and applied research; National Institute on Deafness and Other Communication Disorders
 
@@ -160,7 +160,7 @@ Pub. L. 115–71, §2(b)(1), substituted "newborn, infant, and young child" for 
 
 Subsec. (a)(1). Pub. L. 115–71, §2(b)(3), in first sentence, substituted "newborns, infants, and young children (referred to in this section as 'children')" for "newborns and infants" and "medical, and communication (or language acquisition) interventions (including family support), for children identified as deaf or hard-of-hearing, consistent with the following:" for "and medical interventions for children identified with hearing loss."; designated second sentence as subpar. (A) and substituted ", and delivery of," for "and delivery of", "by organizations such as schools and agencies (including community, consumer, and family-based agencies), in health care settings (including medical homes for children), and in programs mandated" for "by schools and agencies, including community, consumer, and parent-based agencies and organizations and other programs mandated", and "hard-of-hearing children." for "hard of hearing newborns, infants, toddlers, and children."; struck out third sentence which read "Programs and systems under this paragraph shall establish and foster family-to-family support mechanisms that are critical in the first months after a child is identified with hearing loss."; and added subpars. (B) and (C).
 
-Subsec. (a)(2). Pub. L. 115–71, §2(b)(4), substituted "To continue to provide technical support to States, through one or more technical resource centers, to assist in further developing and enhancing State early hearing detection and intervention programs." for "To collect data on statewide newborn and infant hearing screening, evaluation and intervention programs and systems that can be used for applied research, program evaluation and policy development."
+Subsec. (a)(2). Pub. L. 115–71, §2(b)(4), substituted "To continue to provide technical support to States, through one or more technical resource centers, to assist in further developing and enhancing State early hearing detection and intervention programs." for "Tocollect data on statewide newborn and infant hearing screening, evaluation and intervention programs and systems that can be used for applied research, program evaluation and policy development."
 
 Subsec. (a)(3). Pub. L. 115–71, §2(b)(5), added par. (3) and struck out former par. (3) which read as follows: "Other activities may include developing efficient models to ensure that newborns and infants who are identified with a hearing loss through screening receive follow-up by a qualified health care provider, and State agencies shall be encouraged to adopt models that effectively increase the rate of occurrence of such follow-up."
 
@@ -184,7 +184,7 @@ Subsec. (c)(3). Pub. L. 115–71, §2(d)(2), substituted "States—" for "States
 
 Subsec. (d). Pub. L. 115–71, §2(e), substituted "that do not" for "which do not" and "parent's" for "parents' " and struck out "newborn infants or young" after "hearing loss of".
 
-Subsec. (e)(1). Pub. L. 115–71, §2(f)(1), made extensive amendments to text and structure of par. (1). Prior to amendments, par. (1) read as follows: "The term 'audiologic evaluation' refers to procedures to assess the status of the auditory system; to establish the site of the auditory disorder; the type and degree of hearing loss, and the potential effects of hearing loss on communication; and to identify appropriate treatment and referral options. Referral options should include linkage to State coordinating agencies under part C of the Individuals with Disabilities Education Act or otherappropriate agencies, medical evaluation, hearing aid/sensory aid assessment, audiologic rehabilitation treatment, national and local consumer, self-help, parent, and education organizations, and other family-centered services."
+Subsec. (e)(1). Pub. L. 115–71, §2(f)(1), made extensive amendments to text and structure of par. (1). Prior to amendments, par. (1) read as follows: "The term 'audiologic evaluation' refers to procedures to assess the status of the auditory system; to establish the site of the auditory disorder; the type and degree of hearing loss, and the potential effects of hearing loss on communication; and to identify appropriate treatment and referral options. Referral options should include linkage to State coordinating agencies under part C of the Individuals with Disabilities Education Act or other appropriate agencies, medical evaluation, hearing aid/sensory aid assessment, audiologic rehabilitation treatment, national and local consumer, self-help, parent, and education organizations, and other family-centered services."
 
 Subsec. (e)(2). Pub. L. 115–71, §2(f)(4), made extensive amendments to text and structure of par. (2). Prior to amendments, par. (2) read as follows: "The term 'early intervention' refers to providing appropriate services for the child with hearing loss, including nonmedical services, and ensuring that families of the child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, and language and communication options and are given the opportunity to consider and obtain the full range of such appropriate services, educational and program placements, and other options for their child from highly qualified providers."
 
@@ -212,7 +212,7 @@ Subsec. (f)(2). Pub. L. 115–71, §2(g)(2), substituted "$10,800,000 for fiscal
 
 Subsec. (a). Pub. L. 111–337, §2(2)(A), substituted "screening, evaluation, diagnosis, and intervention programs and systems, and to assist in the recruitment, retention, education, and training of qualified personnel and health care providers," for "screening, evaluation and intervention programs and systems" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 111–337, §2(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "To develop and monitor the efficacy of state-wide newborn and infant hearing screening, evaluation and intervention programs and systems. Early intervention includes referral to schools and agencies, including community, consumer, and parent-based agencies and organizations and other programs mandated by part C of the Individuals with Disabilities Education Act, which offer programs specifically designed to meet the unique language and communication needs of deaf and hard of hearing newborns, infants, toddlers, and children."
+Subsec. (a)(1). Pub. L. 111–337, §2(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "To develop and monitor the efficacy of state-wide newborn and infant hearing screening, evaluation and intervention programs and systems. Early intervention includes referral to schools and agencies, including community, consumer, and parent-based agencies and organizations and other programs mandated by part C of the Individuals with Disabilities Education Act, which offer programs specifically designed to meetthe unique language and communication needs of deaf and hard of hearing newborns, infants, toddlers, and children."
 
 Subsec. (a)(3). Pub. L. 111–337, §2(2)(C), added par. (3).
 

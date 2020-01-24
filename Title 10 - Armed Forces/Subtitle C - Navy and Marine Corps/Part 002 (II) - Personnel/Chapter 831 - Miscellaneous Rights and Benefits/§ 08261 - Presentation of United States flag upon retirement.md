@@ -22,7 +22,7 @@ A prior section 8261, acts Aug. 10, 1956, ch. 1041, 70A Stat. 505; Oct. 4, 1961,
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6141 of this title as this section.
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted "under this section or any other provision of law providing forthe presentation of a United States flag incident to release from active service for retirement." for "under this section or section 3681 or 8681 of this title or section 516 of title 14."
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted "under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement." for "under this section or section 3681 or 8681 of this title or section 516 of title 14."
 
 #### Effective Date of 2018 Amendment
 

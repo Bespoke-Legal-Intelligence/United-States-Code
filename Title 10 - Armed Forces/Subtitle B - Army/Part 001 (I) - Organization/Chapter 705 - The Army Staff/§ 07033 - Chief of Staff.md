@@ -104,7 +104,7 @@ Subsec. (c). Pub. L. 115–232, §809(a), substituted "section 7013(f)" for "sec
 
 <b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–456 substituted "full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)" for "joint duty assignment".
 
-<b>1986</b>—Pub. L. 99–433 renumbered section 3034 of this title as this section, substituted "Chief of Staff" for "Chief of Staff: appointment; duties" in section catchline, and amended text generally. Prior to amendment, text read as follows:
+<b>1986</b>—Pub. L. 99–433 renumbered section 3034 of this title as this section, substituted "Chief of Staff" for"Chief of Staff: appointment; duties" in section catchline, and amended text generally. Prior to amendment, text read as follows:
 
 "(a) The Chief of Staff shall be appointed by the President, by and with the advice and consent of the Senate, for a period of four years, from the general officers of the Army. He serves during the pleasure of the President. In time of war or national emergency, declared by the Congress after December 31, 1968, he may be reappointed for a term of not more than four years.
 

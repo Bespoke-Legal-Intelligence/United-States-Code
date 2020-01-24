@@ -28,7 +28,7 @@ Aviation safety and aviation security projects.—
 
 &emsp;&emsp;(A)
 
-In general.—The Administrator of the Federal Aviation Administration may designate an aviation safety project or aviation security project for priority environmental review. The Administrator may not delegate this designation authority. A designatedproject shall be subject to the coordinated and expedited environmental review process requirements set forth in this section.
+In general.—The Administrator of the Federal Aviation Administration may designate an aviation safety project or aviation security project for priority environmental review. The Administrator may not delegate this designation authority. A designated project shall be subject to the coordinated and expedited environmental review process requirements set forth in this section.
 
 &emsp;&emsp;(B)
 
@@ -90,7 +90,7 @@ Effect of Failure To Meet Deadline.—
 
 &emsp;(1)
 
-Notification of congress and ceq.— If the Secretary determines that a Federal agency, State agency, or airport sponsor that is participating in a coordinated review process under this section with respect to a project has not met a deadline established under subsection (a)(3) for the project, the Secretary shall notify, within 30 days of the date of such determination, the Committee on Commerce, Science, and Transportation of the Senate, theCommittee on Transportation and Infrastructure of the House of Representatives, the Council on Environmental Quality, and the agency or sponsor involved about the failure to meet the deadline.
+Notification of congress and ceq.— If the Secretary determines that a Federal agency, State agency, or airport sponsor that is participating in a coordinated review process under this section with respect to a project has not met a deadline established under subsection (a)(3) for the project, the Secretary shall notify, within 30 days of the date of such determination, the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, the Council on Environmental Quality, and the agency or sponsor involved about the failure to meet the deadline.
 
 &emsp;(2)
 
@@ -116,7 +116,7 @@ Monitoring by Task Force.—The Transportation Infrastructure Streamlining Task 
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(3)(B)(ii), and (l), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(3)(B)(ii), and (l), is Pub.L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 Executive Order No. 13274, referred to in subsec. (m), is set out as a note under section 301 of this title.
 

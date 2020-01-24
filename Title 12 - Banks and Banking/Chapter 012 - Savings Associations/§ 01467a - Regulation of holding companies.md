@@ -80,7 +80,7 @@
 
 #### (4) Special rule relating to qualified stock issuance
 
-&emsp;No savings and loan holding company shall be deemed to control a savings association solely by reason of the purchase by such savings and loan holding company of shares issued by such savings association, or issued by any savings and loan holding company (other than a bank holding company) which controls such savings association, in connection with a qualified stock issuance if such purchase is approved by the Board under subsection (q)(1)(D), unless the acquiring savings and loan holding company, directly or indirectly, or acting in concert with 1 or more other persons, or through 1 or more subsidiaries, owns, controls, or holds with power to vote, or holds proxies representing, more than 15 percent of the voting shares of such savings association or holding company.
+&emsp;No savings and loan holding company shall be deemed to control a savings associationsolely by reason of the purchase by such savings and loan holding company of shares issued by such savings association, or issued by any savings and loan holding company (other than a bank holding company) which controls such savings association, in connection with a qualified stock issuance if such purchase is approved by the Board under subsection (q)(1)(D), unless the acquiring savings and loan holding company, directly or indirectly, or acting in concert with 1 or more other persons, or through 1 or more subsidiaries, owns, controls, or holds with power to vote, or holds proxies representing, more than 15 percent of the voting shares of such savings association or holding company.
 
 #### (b) Registration and examination
 
@@ -278,7 +278,7 @@
 
 #### (D) Order to terminate subparagraph (B) activity
 
-&emsp;&emsp;Any activity described in subparagraph (B) may also be terminated by the Board, after opportunity for hearing, if the Board determines, having due regard for the purposes of this chapter, that such action is necessary to prevent conflicts of interest or unsound practices or is in the public interest.
+&emsp;&emsp;Any activity described in subparagraph (B) may also be terminated by the Board, after opportunity for hearing, if the Board determines, having due regard for the purposes ofthis chapter, that such action is necessary to prevent conflicts of interest or unsound practices or is in the public interest.
 
 #### (7) Foreign savings and loan holding company
 
@@ -342,7 +342,7 @@ Transactions between any subsidiary savings association of a savings and loan ho
 
 &emsp;&emsp;(A) any savings and loan holding company directly or indirectly, or through one or more subsidiaries or through one or more transactions—
 
-&emsp;&emsp;&emsp;(i) to acquire, except with the prior written approval of the Board, the control of a savings association or a savings and loan holding company, or to retain the control of such an association or holding company acquired or retained in violation of this section as heretofore or hereafter in effect;
+&emsp;&emsp;&emsp;(i) to acquire, except with the prior written approval of the Board, the control of a savings association or a savings and loanholding company, or to retain the control of such an association or holding company acquired or retained in violation of this section as heretofore or hereafter in effect;
 
 &emsp;&emsp;&emsp;(ii) to acquire, except with the prior written approval of the Board, by the process of merger, consolidation, or purchase of assets, another savings association or a savings and loan holding company, or all or substantially all of the assets of any such association or holding company;
 
@@ -366,7 +366,7 @@ Transactions between any subsidiary savings association of a savings and loan ho
 
 &emsp;&emsp;&nbsp;except that the aggregate amount of shares held under this clause (other than under subclauses (I), (II), (III), (IV), and (VI)) may not exceed 15 percent of all outstanding shares or of the voting power of a savings association or savings and loan holding company; or
 
-&emsp;&emsp;&emsp;(iv) to acquire the control of an uninsured institution, or to retain for more than one year after February 14, 1968, orfrom the date on which such control was acquired, whichever is later, except that the Board may upon application by such company extend such one-year period from year to year, for an additional period not exceeding 3 years, if the Board finds such extension is warranted and is not detrimental to the public interest; and
+&emsp;&emsp;&emsp;(iv) to acquire the control of an uninsured institution, or to retain for more than one year after February 14, 1968, or from the date on which such control was acquired, whichever is later, except that the Board may upon application by such company extend such one-year period from year to year, for an additional period not exceeding 3 years, if the Board finds such extension is warranted and is not detrimental to the public interest; and
 
 &emsp;&emsp;(B) any other company, without the prior written approval of the Board, directly or indirectly, or through one or more subsidiaries or through one or more transactions, to acquire the control of one or more savings associations, except that such approval shall not be required in connection with the control of a savings association, (i) acquired by devise under the terms of a will creating a trust which is excluded from the definition of "savings and loan holding company" under subsection (a) of this section, (ii) acquired in connection with a reorganization in which a person or group of persons, having had control of a savings association for more than 3 years, vests control of that association in a newly formed holding company subject to the control of the same person or group of persons, or (iii) acquired by a bank holding company that is registered under, and subject to, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or any company controlled by such bank holding company. The Board shall approve an acquisition of a savings association under this subparagraph unless the Board finds the financial and managerial resources and future prospects of the company and association involved to be such that the acquisition would be detrimental to the association or the insurance risk of the Deposit Insurance Fund, and shall render a decision within 90 days after submission to the Board of the complete record on the application.
 
@@ -448,7 +448,7 @@ Every subsidiary savings association of a savings and loan holding company shall
 
 #### (1) In general
 
-&emsp;The Board is authorized to issue such regulations and orders, including regulations and orders relating to capital requirements for savings and loan holding companies, as the Board deems necessary or appropriate to enable the Board to administer and carry out the purposes of this section, and to require compliance therewith and prevent evasions thereof. In establishing capital regulations pursuant tothis subsection, the appropriate Federal banking agency shall seek to make such requirements countercyclical so that the amount of capital required to be maintained by a company increases in times of economic expansion and decreases in times of economic contraction, consistent with the safety and soundness of the company.
+&emsp;The Board is authorized to issue such regulations and orders, including regulations and orders relating to capital requirements for savings and loan holding companies, as the Board deems necessary or appropriate to enable the Board to administer and carry out the purposes of this section, and to require compliance therewith and prevent evasions thereof. In establishing capital regulations pursuant to this subsection, the appropriate Federal banking agency shall seek to make such requirements countercyclical so that the amount of capital required to be maintained by a company increases in times of economic expansion and decreases in times of economic contraction, consistent with the safety and soundness of the company.
 
 #### (2) Investigations
 
@@ -474,7 +474,7 @@ Every subsidiary savings association of a savings and loan holding company shall
 
 It shall be unlawful for—
 
-&emsp;(1) any savings and loan holding company or subsidiary thereof, or any director, officer, employee, or person owning, controlling, orholding with power to vote, or holding proxies representing, more than 25 percent of the voting shares, of such holding company or subsidiary, to hold, solicit, or exercise any proxies in respect of any voting rights in a savings association which is a mutual association;
+&emsp;(1) any savings and loan holding company or subsidiary thereof, or any director, officer, employee, or person owning, controlling, or holding with power to vote, or holding proxies representing, more than 25 percent of the voting shares, of such holding company or subsidiary, to hold, solicit, or exercise any proxies in respect of any voting rights in a savings association which is a mutual association;
 
 &emsp;(2) any director or officer of a savings and loan holding company, or any individual who owns, controls, or holds with power to vote (or holds proxies representing) more than 25 percent of the voting shares of such holding company, to acquire control of any savings association not a subsidiary of such savings and loan holding company, unless such acquisition is approved by the Board pursuant to subsection (e)(4); or
 
@@ -542,7 +542,7 @@ It shall be unlawful for—
 
 #### (4) Notice under this section after separation from service
 
-&emsp;The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to a savings and loan holding company or subsidiary thereof (including a separation caused by the deregistration of such a company or sucha subsidiary) shall not affect the jurisdiction and authority of the Board to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such holding company or its subsidiary (whether such date occurs before, on, or after August 9, 1989).
+&emsp;The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to a savings and loan holding company or subsidiary thereof (including a separation caused by the deregistration of such a company or such a subsidiary) shall not affect the jurisdiction and authority of the Board to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such holding company or its subsidiary (whether such date occurs before, on, or after August 9, 1989).
 
 #### (j) Judicial review
 
@@ -598,7 +598,7 @@ Nothing contained in this section, other than any transaction approved under sub
 
 #### (i) Restrictions effective immediately
 
-&emsp;&emsp;&emsp;The following restrictions shall apply to a savings association beginning on the date on which the savings associationshould have become or ceases to be a qualified thrift lender:
+&emsp;&emsp;&emsp;The following restrictions shall apply to a savings association beginning on the date on which the savings association should have become or ceases to be a qualified thrift lender:
 
 #### (I) Activities
 
@@ -632,7 +632,7 @@ Nothing contained in this section, other than any transaction approved under sub
 
 #### (C) Holding company regulation
 
-&emsp;&emsp;Any company that controls a savings association that is subject to any provision of subparagraph (B) shall, within one year after the date on which the savings association should have become or ceases to be a qualified thrift lender, register as and be deemed to be a bank holding company subject to all of the provisions of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], section 1818 of this title, and other statutes applicable to bank holding companies, in the same manner and to the same extent as if the company were a bank holding company and the savings association were a bank, as those terms are defined in the Bank Holding Company Act of 1956.
+&emsp;&emsp;Any company that controls a savings association that is subject to any provision of subparagraph (B) shall, within one year afterthe date on which the savings association should have become or ceases to be a qualified thrift lender, register as and be deemed to be a bank holding company subject to all of the provisions of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], section 1818 of this title, and other statutes applicable to bank holding companies, in the same manner and to the same extent as if the company were a bank holding company and the savings association were a bank, as those terms are defined in the Bank Holding Company Act of 1956.
 
 #### (D) Requalification
 
@@ -726,7 +726,7 @@ Nothing contained in this section, other than any transaction approved under sub
 
 &emsp;&emsp;&emsp;The term "qualified thrift investments" excludes—
 
-&emsp;&emsp;&emsp;&emsp;(I) except for home equity loans, that portion of any loan or investment that isused for any purpose other than those expressly qualifying under any subparagraph of clause (ii) or (iii); or
+&emsp;&emsp;&emsp;&emsp;(I) except for home equity loans, that portion of any loan or investment that is used for any purpose other than those expressly qualifying under any subparagraph of clause (ii) or (iii); or
 
 &emsp;&emsp;&emsp;&emsp;(II) goodwill or any other intangible asset.
 
@@ -851,7 +851,7 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 #### (B) Transaction allowed if not disapproved
 
-&emsp;&emsp;Unless the Board within such 60-day notice period disapproves the proposed holding company formation, or extends for another 30 days the period during which such disapproval may be issued, the savings association providing such notice may proceed with the transaction, if the requirements of paragraph (2) have been met.
+&emsp;&emsp;Unless the Board within such 60-day notice period disapproves the proposed holdingcompany formation, or extends for another 30 days the period during which such disapproval may be issued, the savings association providing such notice may proceed with the transaction, if the requirements of paragraph (2) have been met.
 
 #### (C) Grounds for disapproval
 
@@ -983,7 +983,7 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 #### (B) Waiver of dividends
 
-&emsp;&emsp;A mutual holding company may waive the right to receive any dividend declared by asubsidiary of the mutual holding company, if—
+&emsp;&emsp;A mutual holding company may waive the right to receive any dividend declared by a subsidiary of the mutual holding company, if—
 
 &emsp;&emsp;&emsp;(i) no insider of the mutual holding company, associate of an insider, or tax-qualified or non-tax-qualified employee stock benefit plan of the mutual holding company holds any share of the stock in the class of stock to which the waiver would apply; or
 
@@ -1017,7 +1017,7 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;In the case of a savings association that has reorganized into a mutual holding company, has issued minority stock from a mid-tier stock holding company or a subsidiary stock savings association of the mutual holding company, and has waived dividends it had a right to receive from a subsidiary savings association before December 1, 2009, the appropriate Federal banking agency shall not consider waived dividends in determining an appropriate exchange ratio in the event of a full conversion to stock form.
+&emsp;&emsp;&emsp;In the case of a savings association that has reorganized into a mutual holding company, has issued minority stock from a mid-tier stock holding company or a subsidiary stock savings association of the mutual holding company, and has waived dividends it had a right to receive from asubsidiary savings association before December 1, 2009, the appropriate Federal banking agency shall not consider waived dividends in determining an appropriate exchange ratio in the event of a full conversion to stock form.
 
 #### (p) Holding company activities constituting serious risk to subsidiary savings association
 
@@ -1183,7 +1183,7 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 #### (t) Exemption for bank holding companies
 
-This section shall not apply to a bank holding company that is subject to the Bank HoldingCompany Act of 1956 \[12 U.S.C. 1841 et seq.\], or any company controlled by such bank holding company.
+This section shall not apply to a bank holding company that is subject to the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or any company controlled by such bank holding company.
 
 (June 13, 1933, ch. 64, §10, as added Pub. L. 100–86, title IV, §404(a), Aug. 10, 1987, 101 Stat. 609; amended Pub. L. 101–73, title III, §§301, 303(a), title IX, §§905(j), 907(k), Aug. 9, 1989, 103 Stat. 318, 343, 462, 475; Pub. L. 102–242, title II, §211, title IV, §§437–440, title V, §502(a), Dec. 19, 1991, 105 Stat. 2298, 2381, 2392; Pub. L. 102–550, title XVI, §§1606(f)(4), 1607(b), Oct. 28, 1992, 106 Stat. 4088, 4089; Pub. L. 104–201, div. A, title X, §1077, Sept. 23, 1996, 110 Stat. 2664; Pub. L. 104–208, div. A, title II, §§2201(b)(2), 2203(a)–(c), 2303(e), (g), 2704(d)(12)(B), Sept. 30, 1996, 110 Stat. 3009–403, 3009–404, 3009–424, 3009–425, 3009–490; Pub. L. 106–102, title IV, §401(a), (b), title VI, §604(d), Nov. 12, 1999, 113 Stat. 1434, 1436, 1452; Pub. L. 106–569, title XII, §§1201(b)(2), 1202, Dec. 27, 2000, 114 Stat. 3032; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(e)(2), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 111–203, title III, §369(8), title VI, §§604(g), (h)(2), (i), 606(b), 616(b), 623(c)–625(a), July 21, 2010, 124 Stat. 1564, 1602–1604, 1607, 1615, 1635, 1636.)
 
@@ -1301,7 +1301,7 @@ Subsec. (r). Pub. L. 111–203, §369(8)(I), substituted "Board or appropriate F
 
 Subsec. (s)(2). Pub. L. 111–203, §369(8)(J)(i)(II), substituted "appropriate Federal banking agency for the savings association" for "Director" wherever appearing.
 
-Subsec. (s)(2)(B)(ii). Pub. L. 111–203, §369(8)(J)(i)(I), substituted "judgment of the appropriate Federal banking agency for the savings association" for "Director's judgment".
+Subsec. (s)(2)(B)(ii). Pub. L. 111–203, §369(8)(J)(i)(I), substituted "judgment of the appropriate Federalbanking agency for the savings association" for "Director's judgment".
 
 Subsec. (s)(4)(A). Pub. L. 111–203, §369(8)(J)(ii), substituted "Comptroller" for "Director".
 
@@ -1475,7 +1475,7 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 Pub. L. 101–73, title III, §303(b), Aug. 9, 1989, 103 Stat. 350, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 1991."
 
-Amendment by section 301 of Pub. L. 101–73 relating to civil penalties applicable with respect to violations committed and activities engaged in after Aug. 9, 1989, except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such violations or activities committed or engaged in before such date with respect to an institution if such violations or activities (1) are not already subject to a notice issued by the appropriate Federal banking agency or the Board (initiating an administrative proceeding); and (2) occurred after the completion of the last report of examination of the institution by the appropriate Federal banking agency (as defined in section 1813 of this title) occurring before Aug. 9, 1989, see section 305(c) of Pub. L. 101–73, set out as a note under section 1461 of this title.
+Amendment by section 301 of Pub. L. 101–73 relating to civil penalties applicable with respect to violations committed and activities engaged in after Aug. 9, 1989, except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply tosuch violations or activities committed or engaged in before such date with respect to an institution if such violations or activities (1) are not already subject to a notice issued by the appropriate Federal banking agency or the Board (initiating an administrative proceeding); and (2) occurred after the completion of the last report of examination of the institution by the appropriate Federal banking agency (as defined in section 1813 of this title) occurring before Aug. 9, 1989, see section 305(c) of Pub. L. 101–73, set out as a note under section 1461 of this title.
 
 Amendment by section 907(k) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(l) of Pub. L. 101–73, set out as a note under section 93 of this title.
 
@@ -1507,7 +1507,7 @@ Definitions.—For purposes of paragraph (1), the terms 'company', 'control', 's
 
 #### Associations That Have Previously Failed to Remain Qualified Thrift Lenders
 
-Pub. L. 101–73, title III, §303(c), Aug. 9, 1989, 103 Stat. 351, provided that: "If, as of June 30, 1991, any savings association is subject to any provision of section 10(m)(3) of the Home Owners' Loan Act \[12 U.S.C. 1467a(m)(3)\] as in effect on that date, the amendment to this subsection made by section 303 of the Financial Institutions Reform, Recovery, and Enforcement Act of1989 \[Pub. L. 101–73\], shall not be construed as reducing the period specified in section 10(m)(3) of such Act."
+Pub. L. 101–73, title III, §303(c), Aug. 9, 1989, 103 Stat. 351, provided that: "If, as of June 30, 1991, any savings association is subject to any provision of section 10(m)(3) of the Home Owners' Loan Act \[12 U.S.C. 1467a(m)(3)\] as in effect on that date, the amendment to this subsection made by section 303 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Pub. L. 101–73\], shall not be construed as reducing the period specified in section 10(m)(3) of such Act."
 
 #### Capital Recovery; Submission of Proposed Regulations to Congress; Effective Date; Study, Report, and Congressional Review
 

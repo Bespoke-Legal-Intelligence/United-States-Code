@@ -30,7 +30,7 @@
 
 #### (3) Opportunity to respond
 
-&emsp;A non-petitioning party to a negotiation under this section may respond to the otherparty's petition and provide such additional information as it wishes within 25 days after the State commission receives the petition.
+&emsp;A non-petitioning party to a negotiation under this section may respond to the other party's petition and provide such additional information as it wishes within 25 days after the State commission receives the petition.
 
 #### (4) Action by State commission
 
@@ -88,7 +88,7 @@ In resolving by arbitration under subsection (b) any open issues and imposing co
 
 #### (3) Wholesale prices for telecommunications services
 
-&emsp;For the purposes of section 251(c)(4) of this title, a State commission shall determine wholesale rates on the basis of retail rates charged to subscribers for the telecommunications service requested, excluding the portion thereof attributable to any marketing, billing, collection, and other costs that will be avoided by the local exchange carrier.
+&emsp;For the purposes of section 251(c)(4) of this title, a State commission shall determinewholesale rates on the basis of retail rates charged to subscribers for the telecommunications service requested, excluding the portion thereof attributable to any marketing, billing, collection, and other costs that will be avoided by the local exchange carrier.
 
 #### (e) Approval by State commission
 

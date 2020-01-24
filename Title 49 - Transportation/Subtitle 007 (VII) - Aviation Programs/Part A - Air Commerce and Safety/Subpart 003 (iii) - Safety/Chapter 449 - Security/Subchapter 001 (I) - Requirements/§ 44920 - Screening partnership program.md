@@ -112,7 +112,7 @@ Definition of Administrator.—In this section, the term "Administrator" means t
 
 The Support Anti-Terrorism by Fostering Effective Technologies Act of 2002, referred to in subsec. (g)(3), is subtitle G (§§861–865) of title VIII of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2238, also known as the SAFETY Act, which is classified generally to part G (§441 et seq.) of subchapter VIII of chapter 1 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (h)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -159,6 +159,10 @@ Subsec. (d). Pub. L. 112–95, §830(b), designated existing provisions as par. 
 Subsec. (h). Pub. L. 112–95, §830(c), added subsec. (h).
 
 <b>2005</b>—Subsec. (g). Pub. L. 109–90 added subsec. (g).
+
+#### Change of Name
+
+Defense Security Service of the Department of Defense changed to Defense Counterintelligence and Security Agency effective June 20, 2019, pursuant to Ex. Ord. No. 13467, set out as a note under section 3161 of Title 50, War and National Defense.
 
 #### Applications Submitted Before the Date of Enactment of Pub. L. 115–254
 

@@ -18,7 +18,7 @@ The affidavit referred to in subsection (a) shall—
 
 &emsp;(B) set forth the goods and services recited in the registration on or in connection with which the mark is in use in commerce;
 
-&emsp;(C) be accompanied by such number of specimens or facsimiles showing current use of the mark in commerce as may be required by the Director; and
+&emsp;(C) be accompanied by such number of specimens or facsimiles showing current use of themark in commerce as may be required by the Director; and
 
 &emsp;(D) be accompanied by the fee prescribed by the Director; or
 

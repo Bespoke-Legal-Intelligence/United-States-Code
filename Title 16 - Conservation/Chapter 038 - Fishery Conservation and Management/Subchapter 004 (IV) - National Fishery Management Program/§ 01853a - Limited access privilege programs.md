@@ -172,7 +172,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 #### (B) Petition
 
-&emsp;&emsp;A group of fishermen constituting more than 50 percent of the permit holders, or holding more than 50 percent of the allocation, in the fishery for which a limited access privilege program to harvest fish is sought, may submit a petition to the Secretary requesting that the relevant Council or Councils with authority over the fishery be authorized to initiate the development of the program. Any such petition shall clearly state the fishery to which the limited access privilege program would apply. For multispecies permits in the Gulf of Mexico, only those participants who have substantiallyfished the species proposed to be included in the limited access program shall be eligible to sign a petition for such a program and shall serve as the basis for determining the percentage described in the first sentence of this subparagraph.
+&emsp;&emsp;A group of fishermen constituting more than 50 percent of the permit holders, or holding more than 50 percent of the allocation, in the fishery for which a limited access privilege program to harvest fish is sought, may submit a petition to the Secretary requesting that the relevant Council or Councils with authority over the fishery be authorized to initiate the development of the program. Any such petition shall clearly state the fishery to which the limited access privilege program would apply. For multispecies permits in the Gulf of Mexico, only those participants who have substantially fished the species proposed to be included in the limited access program shall be eligible to sign a petition for such a program and shall serve as the basis for determining the percentage described in the first sentence of this subparagraph.
 
 #### (C) Certification by Secretary
 
@@ -188,7 +188,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;(iv) Chapter 35 of title 44 (commonly known as the Paperwork Reduction Act) does not apply to the referenda conducted under this subparagraph.
 
-&emsp;&emsp;(v) The Secretary shall promulgate criteria for determining whether additional fishery participants are eligible to vote in the New England referendum described in clause (i) in order to ensure that crew members who derive a significant percentage of their total income from the fishery under the proposed program are eligible to vote in the referendum.
+&emsp;&emsp;(v) The Secretary shall promulgate criteria for determining whether additional fishery participants are eligible to vote in the New England referendum described inclause (i) in order to ensure that crew members who derive a significant percentage of their total income from the fishery under the proposed program are eligible to vote in the referendum.
 
 &emsp;&emsp;(vi) In this subparagraph, the term "individual fishing quota" does not include a sector allocation.
 

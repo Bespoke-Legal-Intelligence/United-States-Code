@@ -34,5 +34,6 @@
 - [&sect; 00825s&#8211;5 - Southeastern Power Administration; deposit and availability of advance payments](%C2%A7%2000825s%E2%80%935%20-%20Southeastern%20Power%20Administration%3B%20deposit%20and%20availability%20of%20advance%20payments.md)
 - [&sect; 00825s&#8211;6 - Southeastern Power Administration; deposit and availability of discretionary offsetting collections](%C2%A7%2000825s%E2%80%936%20-%20Southeastern%20Power%20Administration%3B%20deposit%20and%20availability%20of%20discretionary%20offsetting%20collections.md)
 - [&sect; 00825s&#8211;7 - Southwestern Power Administration; deposit and availability of discretionary offsetting collections](%C2%A7%2000825s%E2%80%937%20-%20Southwestern%20Power%20Administration%3B%20deposit%20and%20availability%20of%20discretionary%20offsetting%20collections.md)
+- [&sect; 00825s&#8211;8 - Southeastern Power Administration rates of basic and premium pay](%C2%A7%2000825s%E2%80%938%20-%20Southeastern%20Power%20Administration%20rates%20of%20basic%20and%20premium%20pay.md)
 - [&sect; 00825t - Utilization of power revenues](%C2%A7%2000825t%20-%20Utilization%20of%20power%20revenues.md)
 - [&sect; 00825u - Interest rate on power bonds held by Administrator of General Services](%C2%A7%2000825u%20-%20Interest%20rate%20on%20power%20bonds%20held%20by%20Administrator%20of%20General%20Services.md)

@@ -30,7 +30,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(7) describe and identify essential fish habitat for the fishery based on the guidelines established by the Secretary under section 1855(b)(1)(A) of this title, minimize to the extent practicable adverse effects on such habitat caused by fishing, and identify other actions to encourage the conservation and enhancement of such habitat;
 
-&emsp;(8) in the case of a fishery management plan that, after January 1, 1991, is submitted to the Secretary for review under section 1854(a) of this title (including any plan for which an amendment is submitted to the Secretary for such review) or is prepared by the Secretary,assess and specify the nature and extent of scientific data which is needed for effective implementation of the plan;
+&emsp;(8) in the case of a fishery management plan that, after January 1, 1991, is submitted to the Secretary for review under section 1854(a) of this title (including any plan for which an amendment is submitted to the Secretary for such review) or is prepared by the Secretary, assess and specify the nature and extent of scientific data which is needed for effective implementation of the plan;
 
 &emsp;(9) include a fishery impact statement for the plan or amendment (in the case of a plan or amendment thereto submitted to or prepared by the Secretary after October 1, 1990) which shall assess, specify, and analyze the likely effects, if any, including the cumulative conservation, economic, and social impacts, of the conservation and management measures on, and possible mitigation measures for—
 
@@ -146,7 +146,7 @@ This chapter, referred to in subsecs. (a)(1)(C), (5) and (b)(2)(C), (4), (5), (1
 
 <b>2007</b>—Subsec. (a)(5). Pub. L. 109–479, §104(a)(1), (2), substituted "charter fishing, and fish processing" for "and charter fishing" and inserted "economic information necessary to meet the requirements of this chapter," after "number of hauls,".
 
-Subsec. (a)(9). Pub. L. 109–479, §101(b), in introductory provisions, substituted "analyze the likely effects, if any, including the cumulative conservation, economic, and social impacts, of the conservation and management measures on, and possible mitigation measuresfor—" for "describe the likely effects, if any, of the conservation and management measures on—".
+Subsec. (a)(9). Pub. L. 109–479, §101(b), in introductory provisions, substituted "analyze the likely effects, if any, including the cumulative conservation, economic, and social impacts, of the conservation and management measures on, and possible mitigation measures for—" for "describe the likely effects, if any, of the conservation and management measures on—".
 
 Subsec. (a)(9)(C). Pub. L. 109–479, §104(a)(3)–(5), added subpar. (C).
 

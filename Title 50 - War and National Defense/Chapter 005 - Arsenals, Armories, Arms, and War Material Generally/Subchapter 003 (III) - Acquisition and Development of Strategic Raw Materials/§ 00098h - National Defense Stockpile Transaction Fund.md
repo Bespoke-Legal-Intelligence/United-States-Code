@@ -44,11 +44,11 @@ There is established in the Treasury of the United States a separate fund to be 
 
 #### (c) Moneys received from sale of materials being rotated or disposed of
 
-All moneys received from the sale of materials being rotated under the provisions of section 98e(a)(4) of this title or disposed of under section 98f(a) of this title shall be covered into the fund and shall be available only for the acquisition of replacement materials.
+All moneys received from the sale of materials being rotated under the provisions of section98e(a)(4) of this title or disposed of under section 98f(a) of this title shall be covered into the fund and shall be available only for the acquisition of replacement materials.
 
 #### (d) Effect of bartering
 
-If, during a fiscal year, the National Defense Stockpile Manager barters materials in thestockpile for the purpose of acquiring, upgrading, refining, or processing other materials (or for services directly related to that purpose), the contract value of the materials so bartered shall—
+If, during a fiscal year, the National Defense Stockpile Manager barters materials in the stockpile for the purpose of acquiring, upgrading, refining, or processing other materials (or for services directly related to that purpose), the contract value of the materials so bartered shall—
 
 &emsp;(1) be applied toward the total value of materials that are authorized to be disposed of from the stockpile during that fiscal year;
 

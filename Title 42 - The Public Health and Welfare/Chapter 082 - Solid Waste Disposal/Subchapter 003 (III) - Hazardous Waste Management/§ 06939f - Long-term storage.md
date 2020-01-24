@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than January 1, 2010, the Secretary of Energy (referred to in this section as the "Secretary") shall designate a facility or facilities of the Department of Energy, which shall not include the Y–12 National Security Complex or any other portion or facility of the Oak Ridge Reservation of the Department of Energy, for the purpose of long-term management and storage of elemental mercury generated within the United States.
+&emsp;Not later than January 1, 2010, the Secretary of Energy (referred to in this section as the "Secretary") shall designate a facility or facilities of the Department of Energy, which shall not include the Y–12 National Security Complex or any other portion or facility of the Oak Ridge Reservation of the Department ofEnergy, for the purpose of long-term management and storage of elemental mercury generated within the United States.
 
 #### (2) Operation of facility
 
@@ -74,7 +74,7 @@ Not later than 60 days after the end of each Federal fiscal year, the Secretary 
 
 #### (1) In general
 
-&emsp;(A) Except as provided in subparagraph (B) and subject to paragraph (2), the Secretaryshall hold harmless, defend, and indemnify in full any person who delivers elemental mercury to a designated facility under the program established under subsection (a) from and against any suit, claim, demand or action, liability, judgment, cost, or other fee arising out of any claim for personal injury or property damage (including death, illness, or loss of or damage to property or economic loss) that results from, or is in any manner predicated upon, the release or threatened release of elemental mercury as a result of acts or omissions occurring after such mercury is delivered to a designated facility described in subsection (a).
+&emsp;(A) Except as provided in subparagraph (B) and subject to paragraph (2), the Secretary shall hold harmless, defend, and indemnify in full any person who delivers elemental mercury to a designated facility under the program established under subsection (a) from and against any suit, claim, demand or action, liability, judgment, cost, or other fee arising out of any claim for personal injury or property damage (including death, illness, or loss of or damage to property or economic loss) that results from, or is in any manner predicated upon, the release or threatened release of elemental mercury as a result of acts or omissions occurring after such mercury is delivered to a designated facility described in subsection (a).
 
 &emsp;(B) To the extent that a person described in subparagraph (A) contributed to any such release or threatened release, subparagraph (A) shall not apply.
 
@@ -132,7 +132,7 @@ The Secretary is authorized to establish such terms, conditions, and procedures 
 
 &emsp;(E)
 
-Management standards for temporary storage.—Not later than January 1, 2017, theSecretary, after consultation with the Administrator of the Environmental Protection Agency and State agencies in affected States, shall develop and make available guidance that establishes procedures and standards for the management and short-term storage of elemental mercury at a generator covered under subparagraph (D), including requirements to ensure appropriate use of flasks or other suitable containers. Such procedures and standards shall be protective of health and the environment and shall ensure that the elemental mercury is stored in a safe, secure, and effective manner. A generator may accumulate mercury in accordance with subparagraph (D) immediately upon enactment of this subparagraph, and notwithstanding that guidance called for by this paragraph has not been developed or made available.
+Management standards for temporary storage.—Not later than January 1, 2017, the Secretary, after consultation with the Administrator of the Environmental Protection Agency and State agencies in affected States, shall develop and make available guidance that establishes procedures and standards for the management and short-term storage of elemental mercury at a generator covered under subparagraph (D), including requirements to ensure appropriate use of flasks or other suitable containers. Such procedures and standards shall be protective of health and the environment and shall ensure that the elemental mercury is stored in a safe, secure, and effective manner. A generator may accumulate mercury in accordance with subparagraph (D) immediately upon enactment of this subparagraph, and notwithstanding that guidance called for by this paragraph has not been developed or made available.
 
 #### (h) Study
 
@@ -169,4 +169,8 @@ Subsec. (g)(2)(D), (E). Pub. L. 114–182, §10(c)(3)(C), added subpars. (D) and
 #### Codification
 
 Section was enacted as part of the Mercury Export Ban Act of 2008, and not as part of the Solid Waste Disposal Act which comprises this chapter.
+
+#### Deposit of Fees
+
+Pub. L. 116–94, div. C, title III, §309, Dec. 20, 2019, 133 Stat. 2681, provided that: "Beginning in fiscal year 2021 and for each fiscal year thereafter, fees collected pursuant to subsection (b)(1) of section 6939f of title 42, United States Code, shall be deposited in 'Department of Energy—Energy Programs—Non-Defense Environmental Cleanup' as discretionary offsetting collections."
 

@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(i) on such property (or rights to property) of such person used in the trade or business for which the registration is sought, or
 
-&emsp;&emsp;&emsp;(ii) with the consent of such person, on any other property (or rights to property) of such person as the Secretary determines appropriate.
+&emsp;&emsp;&emsp;(ii) with the consent of such person, on any other property (or rights to property)of such person as the Secretary determines appropriate.
 
 > &emsp;&emsp;Rules similar to the rules of section 6323 shall apply to the lien imposed pursuant to this paragraph.
 

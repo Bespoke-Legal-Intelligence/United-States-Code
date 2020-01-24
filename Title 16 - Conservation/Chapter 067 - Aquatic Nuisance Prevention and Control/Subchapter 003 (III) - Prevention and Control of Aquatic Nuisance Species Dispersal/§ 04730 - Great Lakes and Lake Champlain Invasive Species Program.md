@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(ii) to detect newly introduced aquatic nuisance species prior to the establishment of the aquatic nuisance species in the Great Lakes and Lake Champlain Systems;
 
-&emsp;&emsp;&emsp;(iii) to inform, and assist with, management and response actions to prevent orstop the establishment or spread of an aquatic nuisance species;
+&emsp;&emsp;&emsp;(iii) to inform, and assist with, management and response actions to prevent or stop the establishment or spread of an aquatic nuisance species;
 
 &emsp;&emsp;&emsp;(iv) to establish a watch list of candidate aquatic nuisance species that may be introduced or spread, and that may survive and establish, within the Great Lakes and Lake Champlain Systems;
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;(H) to identify roles and responsibilities of Federal agencies in aquatic nuisance species monitoring and response; and
 
-&emsp;&emsp;(I) to provide resource assistance to States implementing State-level programs to enter into partnerships with Federal agencies in enforcing the requirements under subsection (p) of section 1322 of title 33.
+&emsp;&emsp;(I) to provide resource assistance to States implementing State-level programs to enterinto partnerships with Federal agencies in enforcing the requirements under subsection (p) of section 1322 of title 33.
 
 #### (4) Collaboration
 
@@ -146,7 +146,7 @@
 
 #### Codification
 
-Section was enacted as part of the Vessel Incidental Discharge Act of 2018 and also as part of the FrankLoBiondo Coast Guard Authorization Act of 2018, and not as part of the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 which comprises this chapter.
+Section was enacted as part of the Vessel Incidental Discharge Act of 2018 and also as part of the Frank LoBiondo Coast Guard Authorization Act of 2018, and not as part of the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 which comprises this chapter.
 
 Section is comprised of subsec. (g) of section 903 of Pub. L. 115–282. For classification to the Code of other provisions of section 903, see Tables.
 

@@ -48,5 +48,5 @@ Pub. L. 108–199, div. F, title VI, §637, Jan. 23, 2004, 118 Stat. 358.
 
 #### Purchases by Central Intelligence Agency of Products of Federal Prison Industries
 
-Pub. L. 108–177, title IV, §404, Dec. 13, 2003, 117 Stat. 2632, as amended by Pub. L. 108–458, title I, §1071(g)(3)(C), Dec. 17, 2004, 118 Stat. 3692, provided that: "Notwithstanding section 4124 of title 18, United States Code, purchases by the Central Intelligence Agency from Federal Prison Industries shall be made only if the Director of the Central Intelligence Agency determines that the product or service to be purchased from Federal Prison Industries best meets the needs of the Agency."
+Pub. L. 108–177, title IV, §404, Dec. 13, 2003, 117 Stat. 2632, as amended by Pub. L. 108–458, title I, §1071(g)(3)(C), Dec. 17, 2004, 118 Stat. 3692, provided that: "Notwithstanding section 4124 of title 18, United States Code, purchases by the Central Intelligence Agencyfrom Federal Prison Industries shall be made only if the Director of the Central Intelligence Agency determines that the product or service to be purchased from Federal Prison Industries best meets the needs of the Agency."
 

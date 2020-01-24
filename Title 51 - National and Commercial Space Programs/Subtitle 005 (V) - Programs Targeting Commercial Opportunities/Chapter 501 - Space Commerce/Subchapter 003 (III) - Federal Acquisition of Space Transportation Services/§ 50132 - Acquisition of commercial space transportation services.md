@@ -2,23 +2,13 @@
 
 (a)
 
-Treatment of Commercial Space Transportation Services as Commercial Item UnderAcquisition Laws.—Acquisitions of space transportation services by the Federal Government shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space transportation services shall be considered to be a commercial item.
+Treatment of Commercial Space Transportation Services as Commercial Service Under Acquisition Laws.—Acquisitions of space transportation services by the Federal Government shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space transportation services shall be considered to be a commercial service.
 
 (b)
 
 Safety Standards.—Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3400; Pub. L. 115–232, div. A, title VIII, §836(g)(10)(C), Aug. 13, 2018, 132 Stat. 1874.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(g)(10)(C), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a) of this section is amended as follows:</i>
-
-<i>(1) in heading, by striking "Commercial Item" and inserting "Commercial Service"; and</i>
-
-<i>(2) by striking "commercial item" in the second sentence and inserting "commercial service".</i>
-
-<i>See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 

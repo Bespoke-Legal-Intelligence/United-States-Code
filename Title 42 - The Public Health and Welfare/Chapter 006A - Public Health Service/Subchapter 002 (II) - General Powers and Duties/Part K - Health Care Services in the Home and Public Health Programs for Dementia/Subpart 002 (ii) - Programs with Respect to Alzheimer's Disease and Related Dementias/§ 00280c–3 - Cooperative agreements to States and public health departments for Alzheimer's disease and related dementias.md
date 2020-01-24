@@ -20,7 +20,7 @@ The Secretary, in coordination with the Director of the Centers for Disease Cont
 
 #### (b) Preference
 
-In awarding cooperative agreements under this section, the Secretary shall give preference to applications that focus on addressing health disparities, including populations and geographic areas that have the highest prevalence of Alzheimer's disease and related dementias.
+In awarding cooperative agreements under this section, the Secretary shall give preference to applications that focus on addressing healthdisparities, including populations and geographic areas that have the highest prevalence of Alzheimer's disease and related dementias.
 
 #### (c) Eligibility
 

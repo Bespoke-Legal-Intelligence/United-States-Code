@@ -12,7 +12,7 @@
 
 &emsp;(2) no award was made, because the statement was lost or through inadvertence the recommendation was not acted upon; a medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, Coast Guard medal, or bar, emblem, or insignia in lieu thereof, as the case may be, may be awarded to the person within two years after the date of that determination.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 536, §496; Pub. L. 87–526, §1(5), July 10, 1962, 76 Stat. 141; Pub. L. 111–281, title II, §224(c)(2), Oct. 15, 2010, 124 Stat. 2922; renumbered §2741, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 536, §496; Pub. L. 87–526, §1(5), July 10, 1962, 76 Stat. 141; Pub. L.111–281, title II, §224(c)(2), Oct. 15, 2010, 124 Stat. 2922; renumbered §2741, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226.)
 
 #### Historical and Revision Notes
 

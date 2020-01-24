@@ -16,7 +16,7 @@ The sole purpose of this chapter is to create an administration in the executive
 
 #### Effective and Termination Dates
 
-Section 30 of Pub. L. 93–275, as amended by Pub. L. 94–332, June 30, 1976, 90 Stat. 784; Pub. L. 94–385, title I, §112(a), Aug. 14, 1976, 90 Stat. 1132; Pub. L. 95–70, §6, July 21, 1977, 91 Stat. 277, under which this chapter became effective sixty days after May 7, 1974, and was toterminate Sept. 30, 1978, was repealed by Pub. L. 95–91, title VII, §709(a)(1), Aug. 4, 1977, 91 Stat. 607.
+Section 30 of Pub. L. 93–275, as amended by Pub. L. 94–332, June 30, 1976, 90 Stat. 784; Pub. L. 94–385, title I, §112(a), Aug. 14, 1976, 90 Stat. 1132; Pub. L. 95–70, §6, July 21, 1977, 91 Stat. 277, under which this chapter became effective sixty days after May 7, 1974, and was to terminate Sept. 30, 1978, was repealed by Pub. L. 95–91, title VII, §709(a)(1), Aug. 4, 1977, 91 Stat. 607.
 
 #### Short Title of 1977 Amendment
 
@@ -62,7 +62,7 @@ Pub. L. 93–275, §29, May 7, 1974, 88 Stat. 115, as amended by Pub. L. 94–38
 
 &emsp;&emsp;"(B) for the fiscal year ending September 30, 1978, not to exceed $62,459,000.
 
-&emsp;"(4) to carry out the functions identified as assigned to the Office of Conservation and Environment as of January 1, 1977 (other than functions described in part A \[section 6861 et seq. of Title 42, The Public Health and Welfare\] and part D \[section 6881 et seq. of Title 42\] of title IV of the Energy Conservation and Production Act, parts B \[section 6291 et seq. of Title 42\] and C \[section 6321 et seq. of Title 42\] of title III of the Energy Policy and Conservation Act and, for the fiscal year ending September 30, 1977, functions described in title II of the Energy Conservation and Production Act \[section 6801 et seq. of Title 42\] and in paragraph (7) of this subsection)—
+&emsp;"(4) to carry out the functions identified as assigned to the Office of Conservation and Environment as of January 1, 1977 (other than functions describedin part A \[section 6861 et seq. of Title 42, The Public Health and Welfare\] and part D \[section 6881 et seq. of Title 42\] of title IV of the Energy Conservation and Production Act, parts B \[section 6291 et seq. of Title 42\] and C \[section 6321 et seq. of Title 42\] of title III of the Energy Policy and Conservation Act and, for the fiscal year ending September 30, 1977, functions described in title II of the Energy Conservation and Production Act \[section 6801 et seq. of Title 42\] and in paragraph (7) of this subsection)—
 
 &emsp;&emsp;"(A) for the fiscal year ending September 30, 1977, not to exceed $38,603,000; and
 
@@ -164,7 +164,7 @@ By virtue of the authority vested in me by the Constitution and statutes of the 
 
 Section 1. Executive Order No. 11930 of July 30, 1976, which established the Federal Energy Office, is, consistent with the Federal Energy Administration Act Amendments of 1976 (Title I of Public Law 94–385) \[for classification, see Short Title of 1976 Amendment note set out above\], hereby revoked as of the date of its issuance.
 
-Sec. 2. All orders, rules, regulations, rulings, interpretations, and other directives issued or pending, allrule making, judicial and administrative proceedings commenced or pending, all voluntary agreements, plans of action, and all other actions of whatever nature taken, continued, confirmed, ratified or made effective under Executive Order 11930, shall, in accordance with the Federal Energy Administration Act Amendments of 1976 \[for classification, see Short Title of 1976 Amendment note set out above\], be deemed to have been actions of the Federal Energy Administration and shall continue and remain in full force and effect, unless amended or revoked by the Federal Energy Administration.
+Sec. 2. All orders, rules, regulations, rulings, interpretations, and other directives issued or pending, all rule making, judicial and administrative proceedings commenced or pending, all voluntary agreements, plans of action, and all other actions of whatever nature taken, continued, confirmed, ratified or made effective under Executive Order 11930, shall, in accordance with the Federal Energy Administration Act Amendments of 1976 \[for classification, see Short Title of 1976 Amendment note set out above\], be deemed to have been actions of the Federal Energy Administration and shall continue and remain in full force and effect, unless amended or revoked by the Federal Energy Administration.
 
 Sec. 3. All authority and responsibility vested in the Federal Energy Administration by Executive order or proclamation prior to July 31, 1976 was not revoked by Executive Order No. 11930, subsists in the Federal Energy Administration, and shall be deemed to have been continuously vested in the Federal Energy Administration, whose existence has been retroactively extended by the Federal Energy Administration Act Amendments of 1976 \[for classification, see Short Title of 1976 Amendment note set out above\].
 

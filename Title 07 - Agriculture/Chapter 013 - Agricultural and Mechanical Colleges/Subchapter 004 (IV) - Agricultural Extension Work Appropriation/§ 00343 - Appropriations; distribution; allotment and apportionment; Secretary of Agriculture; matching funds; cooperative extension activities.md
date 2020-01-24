@@ -14,7 +14,7 @@ Annual appropriation for hispanic-serving agricultural colleges and universities
 
 &emsp;(A)
 
-Authorization of appropriations.—There are authorized to be appropriated to the Secretary for payments to Hispanic-servingagricultural colleges and universities (as defined in section 3103 of this title) such sums as are necessary to carry out this paragraph for fiscal year 2008 and each fiscal year thereafter, to remain available until expended.
+Authorization of appropriations.—There are authorized to be appropriated to the Secretary for payments to Hispanic-serving agricultural colleges and universities (as defined in section 3103 of this title) such sums as are necessary to carry out this paragraph for fiscal year 2008 and each fiscal year thereafter, to remain available until expended.
 
 &emsp;(B)
 
@@ -86,7 +86,7 @@ Institutions and Hispanic-Serving Agricultural Colleges and Universities.—Ther
 
 (g)(1) The Secretary of Agriculture may conduct educational, instructional, demonstration, and publication distribution programs and enter into cooperative agreements with private nonprofit and profit organizations and individuals to share the cost of such programs through contributions from private sources as provided in this subsection.
 
-(2) The Secretary may receive contributions under this subsection from private sources forthe purposes described in paragraph (1) and provide matching funds in an amount not greater than 50 percent of such contributions.
+(2) The Secretary may receive contributions under this subsection from private sources for the purposes described in paragraph (1) and provide matching funds in an amount not greater than 50 percent of such contributions.
 
 (h)
 
@@ -94,7 +94,7 @@ Multistate Cooperative Extension Activities.—
 
 &emsp;(1)
 
-In general.—Not less than the applicable percentage specified under paragraph (2) of the amounts that are paid to a State under subsections (b) and (c) during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as "multistate activities").
+In general.—Not less than the applicable percentage specified under paragraph (2) of theamounts that are paid to a State under subsections (b) and (c) during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as "multistate activities").
 
 &emsp;(2)
 
@@ -174,7 +174,7 @@ Institutions" and, in text, substituted "or Hispanic-serving agricultural colleg
 
 <b>2002</b>—Subsec. (b)(3). Pub. L. 107–171, §7215, substituted "such sums as are necessary" for "$5,000,000" and inserted "The balance of any annual funds provided under the preceding sentence for a fiscal year that remains unexpended at the end of that fiscal year shall remain available without fiscal year limitation." after "section 342 of this title.".
 
-Subsec. (e)(4). Pub. L. 107–171, §7213(b), added par. (4) and struck out heading and text of former par. (4). Text read as follows: "In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under section 3222d of this title."
+Subsec. (e)(4). Pub. L. 107–171, §7213(b), added par. (4) and struck out heading and text of former par. (4). Textread as follows: "In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under section 3222d of this title."
 
 <b>1998</b>—Subsec. (b)(1). Pub. L. 105–185, §203(c)(2)(A), substituted "Secretary of Agriculture" for "Federal Extension Service".
 

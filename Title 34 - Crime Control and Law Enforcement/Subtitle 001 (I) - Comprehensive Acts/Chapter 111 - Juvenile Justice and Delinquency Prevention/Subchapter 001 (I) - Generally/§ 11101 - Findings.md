@@ -4,7 +4,7 @@
 
 &emsp;(1) Although the juvenile violent crime arrest rate in 1999 was the lowest in the decade, there remains a consensus that the number of crimes and the rate of offending by juveniles nationwide is still too high.
 
-&emsp;(2) According to the Office of Juvenile Justice and Delinquency Prevention, allowing 1youth to leave school for a life of crime and of drug abuse costs society $1,700,000 to $2,300,000 annually.
+&emsp;(2) According to the Office of Juvenile Justice and Delinquency Prevention, allowing 1 youth to leave school for a life of crime and of drug abuse costs society $1,700,000 to $2,300,000 annually.
 
 &emsp;(3) One in every 6 individuals (16.2 percent) arrested for committing violent crime in 1999 was less than 18 years of age. In 1999, juveniles accounted for 9 percent of murder arrests, 17 percent of forcible rape arrests, 25 percent of robbery arrest, 14 percent of aggravated assault arrests, and 24 percent of weapons arrests.
 
@@ -142,5 +142,5 @@ Pub. L. 93–415, title II, §263(c), as added by Pub. L. 95–115, §6(d)(2), O
 
 #### Effective Date
 
-Pub. L. 93–415, title II, §263(a), (b), Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 94–273, §32(a), Apr. 21, 1976, 90 Stat. 380; Pub. L. 95–115, §6(d)(1), Oct. 3, 1977, 91 Stat. 1058, which provided that (a) except as provided by subsections (b) and (c) (formerly set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending section 5108 of Title 5, Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(l) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
+Pub. L. 93–415, title II, §263(a), (b), Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 94–273, §32(a), Apr. 21,1976, 90 Stat. 380; Pub. L. 95–115, §6(d)(1), Oct. 3, 1977, 91 Stat. 1058, which provided that (a) except as provided by subsections (b) and (c) (formerly set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending section 5108 of Title 5, Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(l) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
 

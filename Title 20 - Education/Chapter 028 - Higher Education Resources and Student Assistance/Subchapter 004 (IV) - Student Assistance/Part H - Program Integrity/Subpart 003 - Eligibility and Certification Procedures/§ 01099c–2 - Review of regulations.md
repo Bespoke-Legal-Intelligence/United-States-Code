@@ -2,7 +2,7 @@
 
 #### (a) Review required
 
-The Secretary shall review each regulation issued under this subchapter that is in effect at the time of the review and applies to the operations or activities of any participant in the programs assisted under this subchapter. The review shall include a determination of whether the regulation is duplicative, or is no longer necessary. The review may involve one or more of the following:
+The Secretary shall review each regulation issued under this subchapter that is in effect at the time of the review and applies to the operations or activities of any participant in the programs assisted under this subchapter. The review shall include a determination of whether the regulation is duplicative, or is no longernecessary. The review may involve one or more of the following:
 
 &emsp;(1) An assurance of the uniformity of interpretation and application of such regulations.
 

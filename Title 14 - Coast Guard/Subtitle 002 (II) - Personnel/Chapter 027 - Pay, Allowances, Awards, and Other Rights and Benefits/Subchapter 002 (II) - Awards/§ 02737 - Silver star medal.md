@@ -1,6 +1,6 @@
 ### §2737. Silver star medal
 
-The President may award a silver star medal of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Coast Guard, when the Coast Guard is not operating under the Department of the Navy, is cited for gallantry in action that does not warrant a medal of honor or Coast Guard cross—
+The President may award a silver star medal of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Coast Guard, when the Coast Guard is not operating under the Department ofthe Navy, is cited for gallantry in action that does not warrant a medal of honor or Coast Guard cross—
 
 &emsp;(1) while engaged in an action against an enemy of the United States;
 

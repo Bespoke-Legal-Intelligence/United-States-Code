@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) for the purpose of obtaining a right of setoff against the debtor (except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561).
 
-(b)(1) Except with respect to a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, 561, 365(h), 546(h), or 365(i)(2) of this title, if a creditor offsets a mutual debt owing to the debtor against a claim against the debtor on or within 90 days before the date of the filing of the petition, then the trustee may recover from such creditor the amount so offset to the extent that any insufficiency on the date of such setoff is less than the insufficiency on the later of—
+(b)(1) Except with respect to a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, 561, 365(h), 546(h), or 365(i)(2) of this title, if a creditor offsets a mutual debt owing to the debtor against a claim against the debtor on or within 90 days beforethe date of the filing of the petition, then the trustee may recover from such creditor the amount so offset to the extent that any insufficiency on the date of such setoff is less than the insufficiency on the later of—
 
 &emsp;(A) 90 days before the date of the filing of the petition; and
 

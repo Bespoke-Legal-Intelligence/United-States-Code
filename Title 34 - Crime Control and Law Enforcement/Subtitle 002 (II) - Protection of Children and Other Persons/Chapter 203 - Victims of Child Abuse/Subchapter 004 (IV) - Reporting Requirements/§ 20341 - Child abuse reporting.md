@@ -8,7 +8,7 @@
 
 #### (2) Covered individuals
 
-&emsp;A covered individual who learns of facts that give reason to suspect that a child has suffered an incident of child abuse, including sexualabuse, shall as soon as possible make a report of the suspected abuse to the agency designated by the Attorney General under subsection (d).
+&emsp;A covered individual who learns of facts that give reason to suspect that a child has suffered an incident of child abuse, including sexual abuse, shall as soon as possible make a report of the suspected abuse to the agency designated by the Attorney General under subsection (d).
 
 #### (b) Covered professionals
 
@@ -70,7 +70,7 @@ For the purposes of this section—
 
 #### (d) Agency designated to receive report and action to be taken
 
-For all Federal lands and all federally operated (or contracted) facilities in which children are cared for or reside and for all covered individuals, the Attorney General shall designate an agency to receive and investigate the reports described in subsection (a). By formal written agreement, the designated agency may be a non-Federal agency. When such reports are received by social services or health care agencies, and involve allegations of sexual abuse, serious physical injury, or life-threatening neglect of a child, there shall be an immediate referral of the report to a law enforcement agency with authority to take emergency action to protect the child. All reports received shall be promptly investigated, and whenever appropriate, investigations shall be conducted jointly by social services and law enforcement personnel, with a view toward avoiding unnecessary multiple interviews with the child.
+For all Federal lands and all federally operated (or contracted) facilities in which children are cared for or reside and for all covered individuals, the Attorney General shall designate an agency to receive and investigate the reports described in subsection (a). By formal written agreement, the designated agency may be a non-Federal agency. When such reports are received by social services or health care agencies, and involve allegations of sexual abuse, serious physical injury, or life-threatening neglect of achild, there shall be an immediate referral of the report to a law enforcement agency with authority to take emergency action to protect the child. All reports received shall be promptly investigated, and whenever appropriate, investigations shall be conducted jointly by social services and law enforcement personnel, with a view toward avoiding unnecessary multiple interviews with the child.
 
 #### (e) Reporters and recipient of report involving children and homes of members of the Armed Forces
 

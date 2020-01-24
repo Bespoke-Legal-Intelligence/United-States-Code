@@ -54,5 +54,5 @@ Subgrantee.—The term 'subgrantee' means a recipient of a grant at any tier und
 
 &emsp;"(4)
 
-United states.—The term 'United States' has the meaning provided in section 103(12) \[now (13)\] of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(12) \[now (13)\])."
+United states.—The term 'United States' has the meaning provided in section 103(12) \[now 103(15)\] of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(12) \[now 7102(15)\])."
 

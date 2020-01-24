@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Amounts in the Fund may be allocated by the Foundation to support programs and activities intended to better understand and utilize ocean and coastal resources and coastal infrastructure, including baseline scientific research,ocean observing, and other programs and activities carried out in coordination with Federal and State departments or agencies.
+Amounts in the Fund may be allocated by the Foundation to support programs and activities intended to better understand and utilize ocean and coastal resources and coastal infrastructure, including baseline scientific research, ocean observing, and other programs and activities carried out in coordination with Federal and State departments or agencies.
 
 #### (b) Prohibition on use of funds for litigation or other purposes
 

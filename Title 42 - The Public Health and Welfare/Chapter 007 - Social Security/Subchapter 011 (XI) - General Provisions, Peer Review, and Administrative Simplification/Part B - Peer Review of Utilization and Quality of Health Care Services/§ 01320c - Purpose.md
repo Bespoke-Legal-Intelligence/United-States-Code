@@ -56,7 +56,7 @@ Pub. L. 101–508, title IV, §4205(c), Nov. 5, 1990, 104 Stat. 1388–113, prov
 
 "(1)
 
-Development and implementation of plan.—The Secretary of Health and Human Services shall develop and implement a plan to coordinate the physician review activities of peer review organizations and carriers. Such plan shall include—
+Development and implementation of plan.—The Secretary of Health and Human Services shall develop and implement a plan to coordinate the physicianreview activities of peer review organizations and carriers. Such plan shall include—
 
 &emsp;"(A) the development of common utilization and medical review criteria;
 

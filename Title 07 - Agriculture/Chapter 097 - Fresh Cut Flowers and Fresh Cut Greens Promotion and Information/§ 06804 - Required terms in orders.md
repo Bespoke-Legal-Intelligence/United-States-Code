@@ -152,7 +152,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (iv) Terms
 
-&emsp;&emsp;&emsp;Each initial appointment to the executive committee shall be for a term of 2years. After the initial appointments, each appointment to the executive committee shall be for a term of 1 year.
+&emsp;&emsp;&emsp;Each initial appointment to the executive committee shall be for a term of 2 years. After the initial appointments, each appointment to the executive committee shall be for a term of 1 year.
 
 #### (B) Authority
 
@@ -296,7 +296,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (A) In general
 
-&emsp;&emsp;The order shall provide that each qualified handler shall pay to the PromoFlor Council, in the manner provided in the order, an assessment on each sale of cut flowers or cut greens to a retailer or an exempt handler (including each transaction described in subparagraph (C)(ii)), except to the extent that the sale is excluded from assessments under section 6805(a) of this title.
+&emsp;&emsp;The order shall provide that each qualified handler shall pay to the PromoFlor Council, in the manner provided in the order, an assessment on each sale of cut flowers or cut greens to a retailer or an exempt handler\(including each transaction described in subparagraph (C)(ii)), except to the extent that the sale is excluded from assessments under section 6805(a) of this title.
 
 #### (B) Published lists
 

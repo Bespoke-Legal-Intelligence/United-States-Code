@@ -6,7 +6,7 @@ The Congress hereby finds and declares that, in keeping with the traditional Ame
 
 &emsp;(2) The best possible physical and mental health which science can make available and without regard to economic status.
 
-&emsp;(3) Obtaining and maintaining suitable housing, independently selected, designed and located with reference to special needs andavailable at costs which older citizens can afford.
+&emsp;(3) Obtaining and maintaining suitable housing, independently selected, designed and located with reference to special needs and available at costs which older citizens can afford.
 
 &emsp;(4) Full restoration services for those who require institutional care, and a comprehensive array of community-based, long-term care services adequate to appropriately sustain older people in their communities and in their homes, including support to family members and other persons providing voluntary care to older individuals needing long-term care services.
 
@@ -104,7 +104,7 @@ General Effective Date.—Except as provided in subsections (b) and (c), this Ac
 
 "(b)
 
-Application of Amendments.—The amendments made by title I of this Act \[enacting sections 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending sections 3001, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a,3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d of this title, enacting provisions set out as notes under this section, sections 3026, 3027, and 3057b of this title, and section 2 of Title 29, and repealing provisions set out as a note under section 3058 of this title\] shall not apply with respect to—
+Application of Amendments.—The amendments made by title I of this Act \[enacting sections 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending sections 3001, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d of this title, enacting provisions set out as notes under this section, sections 3026, 3027, and 3057b of this title, and section 2 of Title 29, and repealing provisions set out as a note under section 3058 of this title\] shall not apply with respect to—
 
 &emsp;"(1) any area plan submitted under section 306(a) of the Older Americans Act of 1965 \[section 3026(a) of this title\], or
 
@@ -114,7 +114,7 @@ Application of Amendments.—The amendments made by title I of this Act \[enacti
 
 "(c)
 
-Effective Date of Section 506.—The amendments made by section 506 of this Act \[enacting section 2991b–1 of this title and amending sections 2991a, 2991b, and 2992d of this title\] shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[Nov. 29, 1987\]."
+Effective Date of Section 506.—The amendments made by section 506 of this Act \[enacting section2991b–1 of this title and amending sections 2991a, 2991b, and 2992d of this title\] shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[Nov. 29, 1987\]."
 
 #### Effective Date of 1984 Amendment
 
@@ -176,11 +176,11 @@ Pub. L. 97–115, §1(a), Dec. 29, 1981, 95 Stat. 1595, provided that: "This act
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–478, §1(a), Oct. 18, 1978, 92 Stat. 1513, provided that: "This Act \[enacting sections 3020b to 3020d, 3030 to 3030g, 3035b to 3035h, 3057 to 3057g and 6106a of this title, amending this section, sections 3002, 3011 to 3017, 3020a, 3021 to 3029, 3031 to 3035, 3036 to 3037a, 3056 to 3056f, 5001, 5011, 5012, 5082, 6101, 6103 and 6104 of this title, repealing sections 3035a, 3041 to 3041f, 3042 and 3045 to 3045i of this title, enacting provisions set out as notes under this section and sections 1975c, 3021, and 3045 of this title, amending provisions set out as a noteunder this section, and repealing provision set out as a note under section 3056 of this title\] may be cited as the 'Comprehensive Older Americans Act Amendments of 1978'."
+Pub. L. 95–478, §1(a), Oct. 18, 1978, 92 Stat. 1513, provided that: "This Act \[enacting sections 3020b to 3020d, 3030 to 3030g, 3035b to 3035h, 3057 to 3057g and 6106a of this title, amending this section, sections 3002, 3011 to 3017, 3020a, 3021 to 3029, 3031 to 3035, 3036 to 3037a, 3056 to 3056f, 5001, 5011, 5012, 5082, 6101, 6103 and 6104 of this title, repealing sections 3035a, 3041 to 3041f, 3042 and 3045 to 3045i of this title, enacting provisions set out as notes under this section and sections 1975c, 3021, and 3045 of this title, amending provisions set out as a note under this section, and repealing provision set out as a note under section 3056 of this title\] may be cited as the 'Comprehensive Older Americans Act Amendments of 1978'."
 
 #### Short Title of 1975 Amendment
 
-Pub. L. 94–135, §1, Nov. 28, 1975, 89 Stat. 713, provided: "That this Act \[enacting chapter 76 and sections 3002, 3020a, 3024, 3028, 3034, 3045f, and 3056 to 3056f of this title, amending sections 289k–5, 3002, 3012, 3014, 3015, 3022, 3023, 3024, 3025, 3026, 3028, 3033, 3034, 3037, 3037a, 3041d, 3041f, 3045b, 3045d, 3045e, 3045f, 3045g, 5011, 5012, and 5082 of this title and sections 1008a, 1208a, and 1341 of Title 20, Education, repealing sections 3061 to 3067 of this title, enacting provisions set out as notes under section 5001 of this title and section 871 of Title 29, Labor, and amending provisions set out as a note under section 2809 of this title\] may be cited as the 'Older Americans Amendments of 1975'."
+Pub. L. 94–135, §1, Nov. 28, 1975, 89 Stat. 713, provided: "That this Act \[enacting chapter 76 and sections 3002, 3020a, 3024, 3028, 3034, 3045f, and 3056 to 3056f of this title, amending sections 289k–5, 3002, 3012, 3014, 3015, 3022, 3023, 3024, 3025, 3026, 3028, 3033, 3034, 3037, 3037a, 3041d, 3041f, 3045b, 3045d, 3045e, 3045f, 3045g, 5011, 5012, and 5082of this title and sections 1008a, 1208a, and 1341 of Title 20, Education, repealing sections 3061 to 3067 of this title, enacting provisions set out as notes under section 5001 of this title and section 871 of Title 29, Labor, and amending provisions set out as a note under section 2809 of this title\] may be cited as the 'Older Americans Amendments of 1975'."
 
 #### Short Title of 1973 Amendment
 
@@ -248,7 +248,7 @@ Arrangement for Study Committee.—The Secretary of Health and Human Services sh
 
 Scope of Study.—The study shall include—
 
-&emsp;"(1) an examination of existing quality, health, and safety requirements for board and care facilities andthe enforcement of such requirements for their adequacy and effectiveness, with special attention to their effectiveness in promoting good personal care;
+&emsp;"(1) an examination of existing quality, health, and safety requirements for board and care facilities and the enforcement of such requirements for their adequacy and effectiveness, with special attention to their effectiveness in promoting good personal care;
 
 &emsp;"(2) an examination of, and recommendations with respect to, the appropriate role of Federal, State, and local governments in assuring the health and safety of residents of board and care facilities; and
 
@@ -386,7 +386,7 @@ Individual or organization with expertise.—The committee may consult with any 
 
 "(f)
 
-Report.—Not later than 20 months after an arrangement is entered into under subsection (d), the committee shall submit, to the Secretary, the Speaker of the House of Representatives, and the President pro tempore of the Senate, a report containing the results of the study referred to in subsection (a).
+Report.—Not later than 20 months after an arrangement is entered into under subsection (d), thecommittee shall submit, to the Secretary, the Speaker of the House of Representatives, and the President pro tempore of the Senate, a report containing the results of the study referred to in subsection (a).
 
 "(g)
 
@@ -758,7 +758,7 @@ Unobligated funds.—Except as provided in paragraph (3), any such funds neither
 
 &emsp;"(3)
 
-Conference not convened.—If the Conference is not convened before December 31, 2005, such fundsneither expended nor obligated before such date shall be available to carry out the Older Americans Act of 1965."
+Conference not convened.—If the Conference is not convened before December 31, 2005, such funds neither expended nor obligated before such date shall be available to carry out the Older Americans Act of 1965."
 
 \[For reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of Title 5.\]
 

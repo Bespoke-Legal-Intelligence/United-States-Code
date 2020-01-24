@@ -24,7 +24,7 @@ Existing but unoccupied Federal facilities and surplus or unused equipment (or b
 
 #### (c) Contracts for the operation of projects
 
-The Secretary of the Interior and the Secretary of Agriculture may contract with any public agency or organization or any privatenonprofit agency or organization which has been in existence for at least five years for the operation of any Youth Conservation Corps project.
+The Secretary of the Interior and the Secretary of Agriculture may contract with any public agency or organization or any private nonprofit agency or organization which has been in existence for at least five years for the operation of any Youth Conservation Corps project.
 
 (Pub. L. 91–378, title I, §103, formerly §3, Aug. 13, 1970, 84 Stat. 795; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1319; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1067; renumbered title I, §103, and amended Pub. L. 103–82, title I, §105(1)–(3), Sept. 21, 1993, 107 Stat. 848.)
 

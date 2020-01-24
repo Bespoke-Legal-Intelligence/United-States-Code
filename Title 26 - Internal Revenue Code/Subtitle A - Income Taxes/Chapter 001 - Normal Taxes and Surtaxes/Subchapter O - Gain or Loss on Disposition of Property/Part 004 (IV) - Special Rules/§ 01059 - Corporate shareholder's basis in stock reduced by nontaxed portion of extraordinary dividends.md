@@ -320,7 +320,7 @@ Subsec. (e)(3)(A). Pub. L. 100–647, §1006(c)(6), amended subpar. (A) generall
 
 &emsp;"(ii) if clause (i) does not apply, and the taxpayer disposes of such stock before the taxpayer has held such stock for more than 5 years, only to the extent the actual rate of return exceeds the stated rate of return."
 
-Subsec. (e)(3)(B). Pub. L. 100–647, §1006(c)(8)(A), which directed the amendment of subpar. (B) "by striking out 'subparagraph (A)' and the material preceding clause (i) and inserting in lieu thereof 'this paragraph' ", was executed by striking out "subparagraph (A)" in the material preceding clause (i) and inserting in lieu thereof "this paragraph", to reflect the probable intent of Congress.
+Subsec. (e)(3)(B). Pub. L. 100–647, §1006(c)(8)(A), which directed the amendment of subpar. (B) "by striking out 'subparagraph (A)' and the material preceding clause (i)and inserting in lieu thereof 'this paragraph' ", was executed by striking out "subparagraph (A)" in the material preceding clause (i) and inserting in lieu thereof "this paragraph", to reflect the probable intent of Congress.
 
 Subsec. (e)(3)(B)(ii). Pub. L. 100–647, §1006(c)(8)(B), substituted "clause (i)(II)" for "subparagraph (B)(i)(II)".
 
@@ -356,7 +356,7 @@ Amendment by Pub. L. 115–97 applicable to distributions made after Dec. 31, 20
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined inthe same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
+Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
 
 Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 

@@ -70,7 +70,7 @@ Selection of Participants.—(1) In selecting participants to receive assistance
 
 (f)
 
-Agreement.—An individual selected under this section shall be required to enter into anagreement with the Secretary in which the participant agrees—
+Agreement.—An individual selected under this section shall be required to enter into an agreement with the Secretary in which the participant agrees—
 
 &emsp;(1) to obtain, within such time as the Secretary may require, certification or licensure as an elementary or secondary school teacher or the necessary credentials to serve as a teacher's aide in an elementary or secondary school; and
 

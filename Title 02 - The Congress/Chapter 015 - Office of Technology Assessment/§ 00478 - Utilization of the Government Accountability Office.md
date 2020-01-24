@@ -10,7 +10,7 @@ Such services and assistance to the Office shall include, but not be limited to,
 
 #### (c) Services or responsibilities performed by Government Accountability Office for Congress not altered or modified
 
-Nothing in this section shall alter or modify any services or responsibilities, other than those performed for the Office, which the GovernmentAccountability Office under law performs for or on behalf of the Congress.
+Nothing in this section shall alter or modify any services or responsibilities, other than those performed for the Office, which the Government Accountability Office under law performs for or on behalf of the Congress.
 
 #### (d) Reimbursement for services and assistance
 

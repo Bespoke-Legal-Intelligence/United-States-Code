@@ -6,7 +6,7 @@ The Secretary shall engage in outreach to rural local educational agencies regar
 
 #### (b) Technical assistance
 
-If requested to do so, the Secretary shall provide technical assistance to rural local educational agencies with locale codes 32, 33, 41, 42, or 43, or an educational service agency representing rural local educational agencies withlocale codes 32, 33, 41, 42, or 43 on applications or pre-applications for any competitive grant program under this chapter. No rural local educational agency or educational service agency shall be required to request technical assistance or include any technical assistance provided by the Secretary in any application.
+If requested to do so, the Secretary shall provide technical assistance to rural local educational agencies with locale codes 32, 33, 41, 42, or 43, or an educational service agency representing rural local educational agencies with locale codes 32, 33, 41, 42, or 43 on applications or pre-applications for any competitive grant program under this chapter. No rural local educational agency or educational service agency shall be required to request technical assistance or include any technical assistance provided by the Secretary in any application.
 
 (Pub. L. 89–10, title VIII, §8539, as added Pub. L. 114–95, title VIII, §8031, Dec. 10, 2015, 129 Stat. 2117.)
 

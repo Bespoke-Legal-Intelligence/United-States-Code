@@ -4,7 +4,7 @@
 
 &emsp;(1) United States policy toward Korea should continue to be arrived at by joint decision of the President and the Congress;
 
-&emsp;(2) in any implementation of the President's policy of gradual and phased reduction ofUnited States ground forces from the Republic of Korea, the United States should seek to accomplish such reduction in stages consistent with United States interests in Asia, notably Japan, and with the security interests of the Republic of Korea;
+&emsp;(2) in any implementation of the President's policy of gradual and phased reduction of United States ground forces from the Republic of Korea, the United States should seek to accomplish such reduction in stages consistent with United States interests in Asia, notably Japan, and with the security interests of the Republic of Korea;
 
 &emsp;(3) any implementation of this policy should be carried out with a careful regard to the interest of the United States in continuing its close relationship with the people and government of Japan, in fostering democratic practices in the Republic of Korea, and in maintaining stable relations among the countries of East Asia; and
 

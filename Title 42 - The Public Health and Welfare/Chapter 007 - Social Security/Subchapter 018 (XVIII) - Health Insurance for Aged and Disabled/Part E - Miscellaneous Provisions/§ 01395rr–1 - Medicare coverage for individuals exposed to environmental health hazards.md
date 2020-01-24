@@ -34,7 +34,7 @@
 
 &emsp;For purposes of paragraph (1), an individual described in this paragraph is an individual who enrolls in part B, submits to the Secretary an application to participate in the applicable pilot program under this subsection, and—
 
-&emsp;&emsp;(A) is an environmental exposure affected individual described in subsection (e)(2) who resides in or around the geographic area subject to an emergency declaration made as of June 17, 2009; or
+&emsp;&emsp;(A) is an environmental exposure affected individual described in subsection (e)(2) whoresides in or around the geographic area subject to an emergency declaration made as of June 17, 2009; or
 
 &emsp;&emsp;(B) is an environmental exposure affected individual described in subsection (e)(3) who—
 

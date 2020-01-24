@@ -22,7 +22,7 @@
 
 &emsp;If any package contains any article not specified in the invoice or entry and, in the opinion of the Customs Service, the article was omitted from the invoice or entry—
 
-&emsp;&emsp;(A) with fraudulent intent on the part of the seller, shipper, owner, agent, importer of record, or entry filer, the contents of the entire package in which such article is found shall be subject to seizure; or
+&emsp;&emsp;(A) with fraudulent intent on the part of the seller, shipper, owner, agent, importer ofrecord, or entry filer, the contents of the entire package in which such article is found shall be subject to seizure; or
 
 &emsp;&emsp;(B) without fraudulent intent, the value of the article shall be added to the entry and the duties, fees, and taxes thereon paid accordingly.
 
@@ -90,7 +90,7 @@ Except in the case of merchandise with respect to which the determination of adm
 
 #### (1) In general
 
-&emsp;Within the 5-day period (excluding weekends and holidays) following the date on which merchandise is presented for customs examination, the Customs Service shall decide whether to release or detain the merchandise. Merchandise which is not released within such 5-day period shall be considered to be detained merchandise.
+&emsp;Within the 5-day period (excluding weekends and holidays) following the date on whichmerchandise is presented for customs examination, the Customs Service shall decide whether to release or detain the merchandise. Merchandise which is not released within such 5-day period shall be considered to be detained merchandise.
 
 #### (2) Notice of detention
 

@@ -16,7 +16,7 @@ The Commandant shall, by policy, establish a program under which an officer, mem
 
 #### Prior Provisions
 
-A prior section 314, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to retiring or dropping for disabilities not incident to service, prior to repeal by act Aug. 3, 1950, ch. 536, §36, 64 Stat. 408. See section 1207 of Title 10, Armed Forces.
+A prior section 314, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to retiring or dropping for disabilities notincident to service, prior to repeal by act Aug. 3, 1950, ch. 536, §36, 64 Stat. 408. See section 1207 of Title 10, Armed Forces.
 
 #### Amendments
 

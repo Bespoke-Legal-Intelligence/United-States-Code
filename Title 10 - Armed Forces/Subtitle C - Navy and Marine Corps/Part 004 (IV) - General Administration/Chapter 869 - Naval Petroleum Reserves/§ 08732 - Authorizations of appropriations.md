@@ -52,7 +52,7 @@ Subsecs. (c), (d). Pub. L. 94–258 added subsecs. (c) and (d).
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -60,5 +60,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Abolition of Naval Petroleum Reserves Special Account
 
-Pub. L. 96–137, §3(c), Dec. 12, 1979, 93 Stat. 1062, provided that: "The naval petroleum reserves special account established by section 7432 \[now 8732\] of title 10, United States Code, as in existence on the day before the date of the enactment of this Act \[Dec. 12, 1979\], is abolished. Unappropriated balances of funds in the naval petroleum reserves special account on the date of the enactment of this Act shall be transferred on the books of the Treasury into miscellaneous receipts, and all moneys accruing to the United States after such date under chapter 641 \[now 869\] of title 10, United States Code, shall be covered into the Treasury as miscellaneous receipts."
+Pub. L. 96–137, §3(c), Dec. 12, 1979, 93 Stat. 1062, abolished the naval petroleum reserves special account established by this section as in existence on the day before Dec. 12, 1979, and transferred unappropriated balances of funds on that date to the Treasury.
 

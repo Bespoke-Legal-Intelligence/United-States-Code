@@ -82,7 +82,7 @@ Definitions Relating to Travel and Transportation Allowances.—In this subchapt
 
 &emsp;(6) The term "miscellaneous expenses" means authorized expenses incurred in addition to authorized allowances during the performance of official travel by an authorized traveler.
 
-&emsp;(7) The term "personal property", with respect to transportation allowances, includes baggage, furniture, and other household items, clothing, privately owned vehicles, house trailers, mobile homes, and any other personal items that would not otherwise be prohibited by any other provision of law or regulation prescribed under section 464 of this title.
+&emsp;(7) The term "personal property", with respect to transportation allowances, includes baggage, furniture, and other household items, clothing, privately owned vehicles, house trailers, mobile homes, and any other personalitems that would not otherwise be prohibited by any other provision of law or regulation prescribed under section 464 of this title.
 
 &emsp;(8) The term "relocation allowances" means the costs associated with relocating a member of the uniformed services and the member's dependents between an old and new temporary or permanent duty assignment location or other authorized location.
 

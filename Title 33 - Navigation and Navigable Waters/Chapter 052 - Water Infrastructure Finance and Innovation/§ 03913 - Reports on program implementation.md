@@ -36,7 +36,7 @@ As soon as practicable after each fiscal year for which amounts are made availab
 
 &emsp;The report under paragraph (1) shall include—
 
-&emsp;&emsp;(A) an evaluation of the impacts (if any) of the limitation under section 3907(a)(5) <sup>1</sup> ofthis title on the ability of eligible entities to finance water infrastructure projects under this chapter;
+&emsp;&emsp;(A) an evaluation of the impacts (if any) of the limitation under section 3907(a)(5) <sup>1</sup> of this title on the ability of eligible entities to finance water infrastructure projects under this chapter;
 
 &emsp;&emsp;(B) a recommendation as to whether the objectives of this chapter would be best served—
 

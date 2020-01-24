@@ -1,6 +1,6 @@
 ### §2812. Lease-purchase of facilities
 
-(a)(1) The Secretary concerned may enter into an agreement with a private contractor for thelease of a facility of the kind specified in paragraph (2) if the facility is provided at the expense of the contractor on a military installation under the jurisdiction of the Department of Defense.
+(a)(1) The Secretary concerned may enter into an agreement with a private contractor for the lease of a facility of the kind specified in paragraph (2) if the facility is provided at the expense of the contractor on a military installation under the jurisdiction of the Department of Defense.
 
 (2) The facilities that may be leased pursuant to paragraph (1) are as follows:
 
@@ -30,7 +30,7 @@
 
 &emsp;(3) shall include such other terms and conditions as the Secretary concerned determines are necessary or desirable to protect the interests of the United States.
 
-(c)(1) The Secretary concerned may enter into a lease under this section only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a justification of the need for the facility covered by the proposed lease, including an economic analysis (based upon accepted life-cycle costing procedures) that demonstrates the cost effectiveness of the proposed lease compared with a military construction project for the same facility.
+(c)(1) The Secretary concerned may enter into a lease under this section only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a justification of the need for the facility covered by the proposed lease, including an economic analysis\(based upon accepted life-cycle costing procedures) that demonstrates the cost effectiveness of the proposed lease compared with a military construction project for the same facility.
 
 (2) Each Secretary concerned may, under this section, enter into—
 

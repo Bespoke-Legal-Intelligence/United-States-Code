@@ -10,7 +10,7 @@ This chapter may be cited as the "Self-Employment Contributions Act of 1954".
 
 &emsp;&emsp;<b>(2) For provisions relating to collection of taxes in Virgin Islands, Guam, American Samoa, and Puerto Rico, see section 7651.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 355; Pub. L. 86–778, title I, §103(m), Sept. 13, 1960, 74 Stat. 938; Pub. L. 89–368, title I, §102(b)(6), Mar. 15, 1966, 80Stat. 64; Pub. L. 98–369, div. A, title IV, §412(b)(2), July 18, 1984, 98 Stat. 792.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 355; Pub. L. 86–778, title I, §103(m), Sept. 13, 1960, 74 Stat. 938; Pub. L. 89–368, title I, §102(b)(6), Mar. 15, 1966, 80 Stat. 64; Pub. L. 98–369, div. A, title IV, §412(b)(2), July 18, 1984, 98 Stat. 792.)
 
 #### Amendments
 

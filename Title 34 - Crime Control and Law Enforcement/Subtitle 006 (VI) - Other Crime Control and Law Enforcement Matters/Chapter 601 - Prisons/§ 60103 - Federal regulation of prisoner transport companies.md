@@ -16,7 +16,7 @@ The regulations shall include the following:
 
 &emsp;(4) Minimum standards for the number of personnel that must supervise violent prisoners. Such standards shall provide the transport entity with appropriate discretion, and, absent more restrictive requirements contracted for by the procuring government entity, shall not exceed a requirement of 1 agent for every 6 violent prisoners.
 
-&emsp;(5) Minimum standards for employee uniforms and identification that require wearingof a uniform with a badge or insignia identifying the employee as a transportation officer.
+&emsp;(5) Minimum standards for employee uniforms and identification that require wearing of a uniform with a badge or insignia identifying the employee as a transportation officer.
 
 &emsp;(6) Standards establishing categories of violent prisoners required to wear brightly colored clothing clearly identifying them as prisoners, when appropriate.
 

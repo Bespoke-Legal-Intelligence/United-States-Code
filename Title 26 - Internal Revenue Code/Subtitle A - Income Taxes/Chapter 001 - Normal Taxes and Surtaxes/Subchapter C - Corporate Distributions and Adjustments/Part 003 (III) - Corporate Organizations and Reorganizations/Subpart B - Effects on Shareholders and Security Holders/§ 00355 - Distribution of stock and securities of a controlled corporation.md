@@ -62,7 +62,7 @@
 
 #### (D) Nonqualified preferred stock
 
-&emsp;&emsp;Nonqualified preferred stock (as defined in section 351(g)(2)) received in a distributionwith respect to stock other than nonqualified preferred stock (as so defined) shall not be treated as stock or securities.
+&emsp;&emsp;Nonqualified preferred stock (as defined in section 351(g)(2)) received in a distribution with respect to stock other than nonqualified preferred stock (as so defined) shall not be treated as stock or securities.
 
 #### (4) Cross references
 
@@ -140,7 +140,7 @@
 
 #### (C) Treatment of liabilities
 
-&emsp;&emsp;If any property distributed in the distribution referred to in paragraph (1) is subject toa liability or the shareholder assumes a liability of the distributing corporation in connection with the distribution, then, for purposes of subparagraph (A), the fair market value of such property shall be treated as not less than the amount of such liability.
+&emsp;&emsp;If any property distributed in the distribution referred to in paragraph (1) is subject to a liability or the shareholder assumes a liability of the distributing corporation in connection with the distribution, then, for purposes of subparagraph (A), the fair market value of such property shall be treated as not less than the amount of such liability.
 
 #### (3) Coordination with sections 311 and 336(a)
 
@@ -254,7 +254,7 @@
 
 &emsp;&emsp;&emsp;(ii) such person is treated under subparagraph (A) as holding any stock or securities by reason of holding such interest,
 
-> &emsp;&emsp;such stock or securities shall be treated as acquired by purchase by such person on the later of the date of the purchase of the interest in such entity or the date such stock or securities are acquired by purchase by such entity.
+> &emsp;&emsp;such stock or securities shall be treated as acquired by purchase by such person on the later of the date of the purchase of the interest in such entity or the date such stock orsecurities are acquired by purchase by such entity.
 
 #### (9) Regulations
 
@@ -426,7 +426,7 @@ Except as provided in regulations, this section (or so much of section 356 as re
 
 #### (II) Look-thru rule
 
-&emsp;&emsp;&emsp;&emsp;The distributing or controlled corporation shall, for purposes of applying this subsection, be treated as owning its ratable share of the assets of any 20-percent controlled entity.
+&emsp;&emsp;&emsp;&emsp;The distributing or controlled corporation shall, for purposes of applying thissubsection, be treated as owning its ratable share of the assets of any 20-percent controlled entity.
 
 #### (III) 20-percent controlled entity
 
@@ -494,9 +494,9 @@ Except as provided in regulations, this section (or so much of section 356 as re
 
 &emsp;&emsp;&emsp;(iii) the distributing corporation had control (as defined in section 368(c) applied by taking into account stock owned directly or indirectly, including through one or more corporations or partnerships, by the distributing corporation) of the controlled corporation at all times during such period.
 
-> &emsp;&emsp;A controlled corporation will be treated as meeting the requirements of clauses (ii) and\(iii) if the stock of such corporation was distributed by a taxable REIT subsidiary in a transaction to which this section (or so much of section 356 as relates to this section) applies and the assets of such corporation consist solely of the stock or assets held by one or more taxable REIT subsidiaries of the distributing corporation meeting the requirements of clauses (ii) and (iii). For purposes of clause (iii), control of a partnership means ownership of at least 80 percent of the profits interest and at least 80 percent of the capital interests.
+> &emsp;&emsp;A controlled corporation will be treated as meeting the requirements of clauses (ii) and (iii) if the stock of such corporation was distributed by a taxable REIT subsidiary in a transaction to which this section (or so much of section 356 as relates to this section) applies and the assets of such corporation consist solely of the stock or assets held by one or more taxable REIT subsidiaries of the distributing corporation meeting the requirements of clauses (ii) and (iii). For purposes of clause (iii), control of a partnership means ownership of at least 80 percent of the profits interest and at least 80 percent of the capital interests.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 113; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §4(e)(2), Dec. 24, 1980, 94 Stat. 3403; Pub. L. 100–203, title X, §10223(b), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, §1018(d)(5)(C), title II, §2004(k)(1), Nov. 10, 1988, 102 Stat. 3580, 3605; Pub. L. 101–508, title XI, §§11321(a), 11702(e)(2), Nov. 5, 1990, 104 Stat. 1388–460, 1388–515; Pub. L. 104–188, title I, §1704(t)(31), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 105–34, title X, §§1012(a), (b)(1), 1014(c), (e)(1), (2), Aug. 5, 1997, 111 Stat. 914, 916, 921; Pub. L. 105–206, title VI, §6010(c)(2), July 22, 1998, 112 Stat. 813; Pub. L. 109–222, title II, §202, title V, §507(a), May 17, 2006, 120 Stat. 348, 358; Pub. L. 109–432, div. A, title IV, §410(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 110–172, §4(b)(1), (2), Dec. 29, 2007, 121 Stat. 2476; Pub. L. 113–295, div. A, title II, §221(a)(50), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 114–113, div. Q, title III, §311(a), Dec. 18, 2015, 129 Stat. 3090; Pub. L. 115–141, div. U, title I, §101(m), title IV, §401(a)(65), Mar. 23, 2018, 132 Stat. 1165, 1187.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 113; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §4(e)(2), Dec. 24, 1980, 94 Stat. 3403; Pub. L. 100–203, title X, §10223(b), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, §1018(d)(5)(C), title II, §2004(k)(1), Nov. 10, 1988, 102 Stat. 3580, 3605; Pub. L. 101–508, title XI,§§11321(a), 11702(e)(2), Nov. 5, 1990, 104 Stat. 1388–460, 1388–515; Pub. L. 104–188, title I, §1704(t)(31), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 105–34, title X, §§1012(a), (b)(1), 1014(c), (e)(1), (2), Aug. 5, 1997, 111 Stat. 914, 916, 921; Pub. L. 105–206, title VI, §6010(c)(2), July 22, 1998, 112 Stat. 813; Pub. L. 109–222, title II, §202, title V, §507(a), May 17, 2006, 120 Stat. 348, 358; Pub. L. 109–432, div. A, title IV, §410(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 110–172, §4(b)(1), (2), Dec. 29, 2007, 121 Stat. 2476; Pub. L. 113–295, div. A, title II, §221(a)(50), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 114–113, div. Q, title III, §311(a), Dec. 18, 2015, 129 Stat. 3090; Pub. L. 115–141, div. U, title I, §101(m), title IV, §401(a)(65), Mar. 23, 2018, 132 Stat. 1165, 1187.)
 
 #### References in Text
 

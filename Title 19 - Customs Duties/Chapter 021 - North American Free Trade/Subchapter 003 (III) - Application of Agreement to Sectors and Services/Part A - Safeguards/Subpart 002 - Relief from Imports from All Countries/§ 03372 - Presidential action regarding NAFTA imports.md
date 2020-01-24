@@ -32,7 +32,7 @@ In determining the nature and extent of action to be taken under chapter 1 of ti
 
 #### (d) Condition applicable to quantitative restrictions
 
-Any action taken under this section proclaiming a quantitative restriction shall permit theimportation of a quantity or value of the article which is not less than the quantity or value of such article imported into the United States during the most recent period that is representative of imports of such article, with allowance for reasonable growth.
+Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the quantity or value of such article imported into the United States during the most recent period that is representative of imports of such article, with allowance for reasonable growth.
 
 (Pub. L. 103–182, title III, §312, Dec. 8, 1993, 107 Stat. 2107.)
 

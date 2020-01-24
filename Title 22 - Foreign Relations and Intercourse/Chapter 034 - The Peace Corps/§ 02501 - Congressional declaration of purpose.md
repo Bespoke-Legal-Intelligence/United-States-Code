@@ -54,7 +54,7 @@ References.—Any reference before the date of enactment of this Act \[July 26, 
 
 #### Executive Order No. 10924
 
-Ex. Ord. No. 10924, Mar. 1, 1961, 26 F.R. 1789, relating to the establishment and administration of the PeaceCorps, was superseded by Ex. Ord. No. 11041, Aug. 6, 1962, 27 F.R. 7859, formerly set out below.
+Ex. Ord. No. 10924, Mar. 1, 1961, 26 F.R. 1789, relating to the establishment and administration of the Peace Corps, was superseded by Ex. Ord. No. 11041, Aug. 6, 1962, 27 F.R. 7859, formerly set out below.
 
 #### Executive Order No. 11041
 
@@ -66,7 +66,7 @@ Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, as amended by Ex. Ord. No. 121
 
 #### Ex. Ord. No. 12137. Administration of Peace Corps as an Agency Within ACTION
 
-Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, as amended by Ex. Ord. No. 12245, Oct. 6, 1980, 45 F.R. 66769; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379; Ex. Ord. No. 13724, §1, Apr. 8, 2016, 81 F.R. 22021, provided:
+Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, as amended by Ex. Ord. No. 12245, Oct. 6, 1980, 45 F.R. 66769;Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379; Ex. Ord. No. 13724, §1, Apr. 8, 2016, 81 F.R. 22021, provided:
 
 By virtue of the authority vested in me by the Peace Corps Act, as amended (22 U.S.C. 2501–2523) and Section 301 of Title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
@@ -140,7 +140,7 @@ National Voluntary Action Program
 
 Director of ACTION
 
-1–601. In addition to the functions vested in the Director of ACTION by the Domestic Volunteer Service Act of 1973 (42 U.S.C., Section 4951 et seq.), Reorganization Plan No. 1 of 1971 \[5 U.S.C. App.\], and Section 1–401 of this Order, the Director of ACTION shall:
+1–601. In addition to the functions vested in the Director of ACTION by the Domestic Volunteer Service Actof 1973 (42 U.S.C., Section 4951 et seq.), Reorganization Plan No. 1 of 1971 \[5 U.S.C. App.\], and Section 1–401 of this Order, the Director of ACTION shall:
 
 (a) Encourage local, national and international voluntary activities directed toward the solution or mitigation of community problems.
 

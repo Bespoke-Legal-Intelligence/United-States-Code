@@ -32,7 +32,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (F) Exception for designated orphan drug
 
-&emsp;&emsp;A human drug application for a prescription drug product that has been designated as a drug for a rare disease or condition pursuant to section 360bb of this title shall not be subject to a fee under subparagraph (A), unless the human drug application includes an indication for other than a rare disease or condition.
+&emsp;&emsp;A human drug application for a prescription drug product that has been designated as a drug for a rare disease or condition pursuant to section 360bb of this title shall not be subject to a fee under subparagraph (A),unless the human drug application includes an indication for other than a rare disease or condition.
 
 #### (G) Refund of fee if application withdrawn
 
@@ -124,7 +124,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;The inflation adjustment percentage under this subparagraph for a fiscal year is equal to the sum of—
 
-&emsp;&emsp;&emsp;(i) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by the proportion of personnel compensation and benefits costs to total costs of the process for the review of human drug applications (as defined in section 379g(6) of this title) for the first 3 years of the preceding 4 fiscal years; and
+&emsp;&emsp;&emsp;(i) the average annual percent change in the cost, per full-time equivalent positionof the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by the proportion of personnel compensation and benefits costs to total costs of the process for the review of human drug applications (as defined in section 379g(6) of this title) for the first 3 years of the preceding 4 fiscal years; and
 
 &emsp;&emsp;&emsp;(ii) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by the proportion of all costs other than personnel compensation and benefits costs to total costs of the process for the review of human drug applications (as defined in section 379g(6) of this title) for the first 3 years of the preceding 4 fiscal years.
 
@@ -190,7 +190,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (C) Notice of rationale
 
-&emsp;&emsp;If an adjustment under subparagraph (A) or (B) is made, the rationale for the amount of the increase or decrease (as applicable) in fee revenue and fees shall be contained in the annual Federal Register notice under paragraph (5) establishing fee revenue and fees for the fiscal year involved.
+&emsp;&emsp;If an adjustment under subparagraph (A) or (B) is made, the rationale for the amount of the increase or decrease (as applicable) infee revenue and fees shall be contained in the annual Federal Register notice under paragraph (5) establishing fee revenue and fees for the fiscal year involved.
 
 #### (4) Additional direct cost adjustment
 
@@ -256,7 +256,7 @@ A human drug application or supplement submitted by a person subject to fees und
 
 #### (1) In general
 
-&emsp;Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year1997 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 1997 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
+&emsp;Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year 1997 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 1997 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
 
 #### (2) Authority
 
@@ -270,7 +270,7 @@ A human drug application or supplement submitted by a person subject to fees und
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of human drug applications.
+&emsp;Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries andexpenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of human drug applications.
 
 #### (2) Collections and appropriation acts
 
@@ -386,7 +386,7 @@ Subsec. (f)(3). Pub. L. 115–52, §905(b)(1), added par. (3).
 
 Subsec. (g)(3). Pub. L. 115–52, §102(g)(1), substituted "2018 through 2022" for "2013 through 2017" and struck out "and paragraph (4) of this subsection" after "subsection (c)".
 
-Subsec. (g)(4). Pub. L. 115–52, §102(g)(2), struck out par. (4). Prior to amendment, text read as follows: "If the sum of the cumulative amount of fees collected under this section for the fiscal years 2013 through 2015 and the amount of fees estimated to be collected underthis section for fiscal year 2016 exceeds the cumulative amount appropriated under paragraph (3) for the fiscal years 2013 through 2016, the excess shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2017."
+Subsec. (g)(4). Pub. L. 115–52, §102(g)(2), struck out par. (4). Prior to amendment, text read as follows: "If the sum of the cumulative amount of fees collected under this section for the fiscal years 2013 through 2015 and the amount of fees estimated to be collected under this section for fiscal year 2016 exceeds the cumulative amount appropriated under paragraph (3) for the fiscal years 2013 through 2016, the excess shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2017."
 
 Subsec. (k)(1). Pub. L. 115–52, §102(h), substituted "prescription drug program fees" for "product and establishment fees" in two places.
 
@@ -450,7 +450,7 @@ Subsec. (c)(2)(C). Pub. L. 110–85, §103(c)(2)(D), added subpar. (C).
 
 Subsec. (c)(3). Pub. L. 110–85, §103(c)(3), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (c)(4). Pub. L. 110–85, §103(c)(3)(A), (4), redesignated par. (3) as (4) and amended it generally. Prior to amendment, text read as follows: "For fiscal year 2007, the Secretary may, in addition to adjustments under paragraphs (1) and (2), further increase the fee revenues and fees established in subsection (b) of this section if such an adjustment is necessary to provide for not more than three months of operating reserves ofcarryover user fees for the process for the review of human drug applications for the first three months of fiscal year 2008. If such an adjustment is necessary, the rationale for the amount of the increase shall be contained in the annual notice establishing fee revenues and fees for fiscal year 2007. If the Secretary has carryover balances for such process in excess of three months of such operating reserves, the adjustment under this paragraph shall not be made." Former par. (4) redesignated (5).
+Subsec. (c)(4). Pub. L. 110–85, §103(c)(3)(A), (4), redesignated par. (3) as (4) and amended it generally. Prior to amendment, text read as follows: "For fiscal year 2007, the Secretary may, in addition to adjustments under paragraphs (1) and (2), further increase the fee revenues and fees established in subsection (b) of this section if such an adjustment is necessary to provide for not more than three months of operating reserves of carryover user fees for the process for the review of human drug applications for the first three months of fiscal year 2008. If such an adjustment is necessary, the rationale for the amount of the increase shall be contained in the annual notice establishing fee revenues and fees for fiscal year 2007. If the Secretary has carryover balances for such process in excess of three months of such operating reserves, the adjustment under this paragraph shall not be made." Former par. (4) redesignated (5).
 
 Subsec. (c)(5). Pub. L. 110–85, §103(c)(3)(A), (5), redesignated par. (4) as (5) and substituted "2007" for "2002". Former par. (5) redesignated (6).
 
@@ -468,7 +468,7 @@ Subsec. (g)(1). Pub. L. 110–85, §103(h)(1), substituted "Fees authorized unde
 
 Subsec. (g)(3). Pub. L. 110–85, §103(e)(1), amended par. (3) generally. Prior to amendment, par. (3) authorized appropriations for fiscal years 2003 to 2007.
 
-Subsec. (g)(4). Pub. L. 110–85, §103(e)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year."
+Subsec. (g)(4). Pub. L. 110–85, §103(e)(2), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: "Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year."
 
 Subsec. (k). Pub. L. 110–85, §103(f), added subsec. (k).
 
@@ -574,7 +574,7 @@ Subsec. (d). Pub. L. 105–115, §103(d), struck out introductory provisions whi
 
 Subsec. (f)(1). Pub. L. 105–115, §103(e), substituted "fiscal year 1997" for "fiscal year 1993" and "fiscal year 1997 (excluding the amount of fees appropriated for such fiscal year)" for "fiscal year 1992".
 
-Subsec. (g)(1). Pub. L. 105–115, §103(f)(1), inserted at end "Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salariesand expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of human drug applications."
+Subsec. (g)(1). Pub. L. 105–115, §103(f)(1), inserted at end "Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of human drug applications."
 
 Subsec. (g)(2)(A). Pub. L. 105–115, §103(f)(2)(A), substituted "Acts, or otherwise made available for obligation," for "Acts".
 
@@ -606,7 +606,7 @@ Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subp
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–85, title I, §103(h)(2), Sept. 27, 2007, 121 Stat. 832, provided that: "Paragraph (1) \[amending this section\] shall take effect as if included in section 504 of the Prescription Drug User Fee Amendments of 2002 (Public Law 107–188; 116 Stat. 687) \[amending this section\]."
+Pub. L. 110–85, title I, §103(h)(2), Sept. 27, 2007, 121 Stat. 832, provided that: "Paragraph (1) \[amending this section\] shall take effect as if included in section 504 of the Prescription Drug User Fee Amendments of 2002\(Public Law 107–188; 116 Stat. 687) \[amending this section\]."
 
 Amendment by Pub. L. 110–85 effective Oct. 1, 2007, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2007, see section 107 of Pub. L. 110–85, set out as an Effective and Termination Dates of 2007 Amendment note under section 379g of this title.
 

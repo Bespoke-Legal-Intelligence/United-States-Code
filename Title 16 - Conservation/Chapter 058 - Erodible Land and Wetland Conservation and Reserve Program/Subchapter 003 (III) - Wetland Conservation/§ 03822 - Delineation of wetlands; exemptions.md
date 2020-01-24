@@ -20,7 +20,7 @@
 
 #### (4) Duration of certification
 
-&emsp;A final certification made under paragraph (3) shall remain valid and in effect as long as the area is devoted to an agricultural use or until such time as the person affected by the certification requests review of the certification by the Secretary.
+&emsp;A final certification made under paragraph (3) shall remain valid and in effect as long asthe area is devoted to an agricultural use or until such time as the person affected by the certification requests review of the certification by the Secretary.
 
 #### (5) Review of mapping on appeal
 
@@ -58,7 +58,7 @@ No person shall become ineligible under section 3821 of this title for program l
 
 &emsp;&emsp;(H) A converted wetland, if—
 
-&emsp;&emsp;&emsp;(i) the converted wetland was determined by the Natural Resources Conservation Service to have been manipulated forthe production of an agricultural commodity or forage prior to December 23, 1985, and was returned to wetland conditions through a voluntary restoration, enhancement, or creation action subsequent to that determination;
+&emsp;&emsp;&emsp;(i) the converted wetland was determined by the Natural Resources Conservation Service to have been manipulated for the production of an agricultural commodity or forage prior to December 23, 1985, and was returned to wetland conditions through a voluntary restoration, enhancement, or creation action subsequent to that determination;
 
 &emsp;&emsp;&emsp;(ii) technical determinations regarding the prior site conditions and the restoration, enhancement, or creation action have been adequately documented by the Natural Resources Conservation Service;
 
@@ -122,7 +122,7 @@ The Secretary shall exempt a person from the ineligibility provisions of section
 
 &emsp;(1) The action, individually and in connection with all other similar actions authorized by the Secretary in the area, will have a minimal effect on the functional hydrological and biological value of the wetlands in the area, including the value to waterfowl and wildlife.
 
-&emsp;(2) The wetland and the wetland values, acreage, and functions are mitigated by theperson through the restoration of a converted wetland, the enhancement of an existing wetland, or the creation of a new wetland, and the restoration, enhancement, or creation is—
+&emsp;(2) The wetland and the wetland values, acreage, and functions are mitigated by the person through the restoration of a converted wetland, the enhancement of an existing wetland, or the creation of a new wetland, and the restoration, enhancement, or creation is—
 
 &emsp;&emsp;(A) in accordance with a wetland conservation plan;
 
@@ -198,7 +198,7 @@ Technical determinations, the development of restoration and mitigation plans, a
 
 &emsp;The Secretary shall develop the appropriate policy and criteria that will allow willing persons to access existing mitigation banks, under this section or any other authority, that will serve the purposes of this section without requiring the Secretary to hold an easement, in whole or in part, in a mitigation bank.
 
-(Pub. L. 99–198, title XII, §1222, Dec. 23, 1985, 99 Stat. 1508; Pub. L. 101–624, title XIV, §1422, Nov.28, 1990, 104 Stat. 3573; Pub. L. 104–127, title III, §322, Apr. 4, 1996, 110 Stat. 987; Pub. L. 110–234, title II, §2003, May 22, 2008, 122 Stat. 1028; Pub. L. 110–246, §4(a), title II, §2003, June 18, 2008, 122 Stat. 1664, 1756; Pub. L. 113–79, title II, §2609, Feb. 7, 2014, 128 Stat. 761; Pub. L. 115–334, title II, §§2102, 2103, 2821(b), Dec. 20, 2018, 132 Stat. 4530, 4602.)
+(Pub. L. 99–198, title XII, §1222, Dec. 23, 1985, 99 Stat. 1508; Pub. L. 101–624, title XIV, §1422, Nov. 28, 1990, 104 Stat. 3573; Pub. L. 104–127, title III, §322, Apr. 4, 1996, 110 Stat. 987; Pub. L. 110–234, title II, §2003, May 22, 2008, 122 Stat. 1028; Pub. L. 110–246, §4(a), title II, §2003, June 18, 2008, 122 Stat. 1664, 1756; Pub. L. 113–79, title II, §2609, Feb. 7, 2014, 128 Stat. 761; Pub. L. 115–334, title II, §§2102, 2103, 2821(b), Dec. 20, 2018, 132 Stat. 4530, 4602.)
 
 #### References in Text
 
@@ -232,7 +232,7 @@ Subsec. (g). Pub. L. 104–127, §322(e), which directed substitution of "person
 
 Subsec. (h). Pub. L. 104–127, §322(f), added subsec. (h) and struck out heading and text of former subsec. (h). Text consisted of pars. (1) to (3) relating to good faith exemptions to ineligibility under section 3821 of this title and graduated sanctions.
 
-Subsec. (i). Pub. L. 104–127, §322(g), inserted before period at end "or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland".
+Subsec. (i). Pub. L. 104–127, §322(g), inserted before period at end "or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation ofwetland values in the same general area of the local watershed as the converted wetland".
 
 Subsec. (j). Pub. L. 104–127, §322(h), added subsec. (j) and struck out heading and text of former subsec. (j). Text provided that technical determinations and the development of restoration and mitigation plans be made through agreement of local representative of Soil Conservation Service and representative of the Fish and Wildlife Service and required reporting of determinations and monitoring.
 

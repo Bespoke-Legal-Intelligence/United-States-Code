@@ -20,7 +20,7 @@
 
 &emsp;(2) all of the able seamen required on a fish processing vessel entered into service after December 31, 1987, and having more than 16 individuals on board primarily employed in the preparation of fish or fish products but of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 543; Pub. L. 98–364, title IV, §402(9)(E), July 17, 1984, 98 Stat. 448; Pub. L. 99–307, §1(11), May 19, 1986, 100 Stat. 445; Pub. L. 104–324, title VII, §723, Oct. 19, 1996,110 Stat. 3938; Pub. L. 111–281, title VI, §617(b), Oct. 15, 2010, 124 Stat. 2973.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 543; Pub. L. 98–364, title IV, §402(9)(E), July 17, 1984, 98 Stat. 448; Pub. L. 99–307, §1(11), May 19, 1986, 100 Stat. 445; Pub. L. 104–324, title VII, §723, Oct. 19, 1996, 110 Stat. 3938; Pub. L. 111–281, title VI, §617(b), Oct. 15, 2010, 124 Stat. 2973.)
 
 Historical and Revision Notes
 

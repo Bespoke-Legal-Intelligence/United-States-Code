@@ -10,7 +10,7 @@ Based on the results of the study required under subsection (a), the Secretary s
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for carrying out this section $4,700,000for fiscal year 1993 and such sums as may be necessary for fiscal year 1994.
+There are authorized to be appropriated to the Secretary for carrying out this section $4,700,000 for fiscal year 1993 and such sums as may be necessary for fiscal year 1994.
 
 (Pub. L. 102–486, title XXI, §2113, Oct. 24, 1992, 106 Stat. 3073.)
 

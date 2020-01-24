@@ -20,7 +20,7 @@ A State shall be eligible for a grant under this subchapter for a fiscal year if
 
 &emsp;(3) the Governor of the State provides assurances that the lead entity—
 
-&emsp;&emsp;(A) has a demonstrated commitment to parental participation in the development, operation, and oversight of the community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect;
+&emsp;&emsp;(A) has a demonstrated commitment to parental participation in the development, operation, and oversight of the community-based and prevention-focused programs andactivities designed to strengthen and support families to prevent child abuse and neglect;
 
 &emsp;&emsp;(B) has a demonstrated ability to work with State and community-based public and private nonprofit organizations to develop a continuum of preventive, family centered, comprehensive services for children and families through the community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect;
 

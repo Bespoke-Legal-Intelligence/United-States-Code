@@ -8,7 +8,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 #### (A) In general
 
-&emsp;&emsp;The recipient may carry out national service programs through an Education Corpsthat identifies and meets unmet educational needs within communities through activities such as those described in subparagraph (B) and improves performance on the indicators described in subparagraph (C).
+&emsp;&emsp;The recipient may carry out national service programs through an Education Corps that identifies and meets unmet educational needs within communities through activities such as those described in subparagraph (B) and improves performance on the indicators described in subparagraph (C).
 
 #### (B) Activities
 
@@ -74,7 +74,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(ii) assisting individuals in obtaining access to health services, including oral health services, for themselves or their children;
 
-&emsp;&emsp;&emsp;(iii) educating economically disadvantaged individuals and individuals who are members of medically underserved populations about, and engaging individuals described in this clause in, initiatives regarding navigating the health services system and regarding disease prevention and health promotion, with a particular focus on common health conditions, chronic diseases, and conditions, for which disease prevention and health promotion measures exist and for which socioeconomic, geographic, and racial and ethnic health disparities exist;
+&emsp;&emsp;&emsp;(iii) educating economically disadvantaged individuals and individuals who aremembers of medically underserved populations about, and engaging individuals described in this clause in, initiatives regarding navigating the health services system and regarding disease prevention and health promotion, with a particular focus on common health conditions, chronic diseases, and conditions, for which disease prevention and health promotion measures exist and for which socioeconomic, geographic, and racial and ethnic health disparities exist;
 
 &emsp;&emsp;&emsp;(iv) improving the literacy of patients regarding health, including oral health;
 
@@ -82,7 +82,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(vi) providing services designed to meet the health needs of rural communities, including the recruitment of youth to work in health professions in such communities;
 
-&emsp;&emsp;&emsp;(vii) assisting in health promotion interventions that improve health status, andhelping people adopt and maintain healthy lifestyles and habits to improve health status;
+&emsp;&emsp;&emsp;(vii) assisting in health promotion interventions that improve health status, and helping people adopt and maintain healthy lifestyles and habits to improve health status;
 
 &emsp;&emsp;&emsp;(viii) addressing childhood obesity through in-school and after-school physical activities, and providing nutrition education to students, in elementary schools and secondary schools; or
 
@@ -208,7 +208,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(viii) any additional indicator that relates to education or skill attainment that assists in providing veterans with the skills to address identifiable public needs, or that relates to improving the lives of veterans, of members of the Armed Forces on active duty, and of families of the veterans and the members on active duty, and that the Corporation, in consultation (as appropriate) with the Secretary of Veterans Affairs, establishes; or
 
-&emsp;&emsp;&emsp;(ix) any additional local indicator (applicable to a particular recipient and on which an improvement in performance isneeded) relating to the education or skill attainment, or the improvement, described in clause (viii), that is approved by the Corporation or a State Commission.
+&emsp;&emsp;&emsp;(ix) any additional local indicator (applicable to a particular recipient and on which an improvement in performance is needed) relating to the education or skill attainment, or the improvement, described in clause (viii), that is approved by the Corporation or a State Commission.
 
 #### (5) Opportunity Corps
 
@@ -344,13 +344,13 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 #### (1) In general
 
-&emsp;In addition to any activities described in subparagraph (B) of paragraphs (1) through (5) of subsection (a), and subsection (b)(2), a recipient of a grant under section 12571(a) of this title and a Federal agency operating or supporting a national service program under section 12571(b) of this title may directly or through grants or subgrants to other entities carry out a national service corps program through the following program models:
+&emsp;In addition to any activities described in subparagraph (B) of paragraphs (1) through (5)of subsection (a), and subsection (b)(2), a recipient of a grant under section 12571(a) of this title and a Federal agency operating or supporting a national service program under section 12571(b) of this title may directly or through grants or subgrants to other entities carry out a national service corps program through the following program models:
 
 &emsp;&emsp;(A) A community corps program that meets unmet health, veteran, and other human, educational, environmental, or public safety needs and promotes greater community unity through the use of organized teams of participants of varied social and economic backgrounds, skill levels, physical and developmental capabilities, ages, ethnic backgrounds, or genders.
 
 &emsp;&emsp;(B) A service program that—
 
-&emsp;&emsp;&emsp;(i) recruits individuals with special skills or provides specialized preservice training to enable participants to be placed individually or in teams in positions in which theparticipants can meet such unmet needs; and
+&emsp;&emsp;&emsp;(i) recruits individuals with special skills or provides specialized preservice training to enable participants to be placed individually or in teams in positions in which the participants can meet such unmet needs; and
 
 &emsp;&emsp;&emsp;(ii) if consistent with the purposes of the program, brings participants together for additional training and other activities designed to foster civic responsibility, increase the skills of participants, and improve the quality of the service provided.
 
@@ -408,7 +408,7 @@ In awarding financial assistance and approved national service positions to elig
 
 &emsp;&emsp;(B) the Corporation shall give priority to eligible entities that propose to carry out national service programs in medically underserved areas (as designated individually, by the Secretary of Health and Human Services as an area with a shortage of personal health services); and
 
-&emsp;(2) in the case of a corps described in subsection (a)(3), the Corporation shall give priority to eligible entities that propose to recruit individuals for the Clean Energy Service Corps so that significant percentages of participants in the Corps are economically disadvantagedindividuals, and provide to such individuals support services and education and training to develop skills needed for clean energy jobs for which there is current demand or projected future demand.
+&emsp;(2) in the case of a corps described in subsection (a)(3), the Corporation shall give priority to eligible entities that propose to recruit individuals for the Clean Energy Service Corps so that significant percentages of participants in the Corps are economically disadvantaged individuals, and provide to such individuals support services and education and training to develop skills needed for clean energy jobs for which there is current demand or projected future demand.
 
 #### (f) National service priorities
 
@@ -470,7 +470,7 @@ Each tutoring program that receives assistance under the national service laws s
 
 #### (j) Citizenship training
 
-The Corporation shall establish guidelines for recipients of assistance under the national service laws, that are consistent with the principles on which citizenship programs administered by U.S. Citizenship and Immigration Services are based, relating to the promotion of citizenship and civic engagement among participants in approved national service positions and approved summer of service positions, and appropriate to the age, education, and experience of the participants.
+The Corporation shall establish guidelines for recipients of assistance under the national service laws, that are consistent with the principles on which citizenship programs administered by U.S. Citizenship and Immigration Services are based, relating to the promotion of citizenship and civic engagement among participants in approved national service positions and approved summer of service positions, and appropriate tothe age, education, and experience of the participants.
 
 #### (k) Report
 

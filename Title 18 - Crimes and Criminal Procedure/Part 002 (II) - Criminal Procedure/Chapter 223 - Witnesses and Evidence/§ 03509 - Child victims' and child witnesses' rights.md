@@ -136,7 +136,7 @@ Presumption.—A child is presumed to be competent.
 
 &emsp;(3)
 
-Requirement of written motion.—A competency examination regarding a child witness may be conducted by the court only upon written motion and offer of proof of incompetency by a party.
+Requirement of written motion.—A competency examination regarding a childwitness may be conducted by the court only upon written motion and offer of proof of incompetency by a party.
 
 &emsp;(4)
 
@@ -222,7 +222,7 @@ Closing the Courtroom.—When a child testifies the court may order the exclusio
 
 (f)
 
-Victim Impact Statement.—In preparing the presentence report pursuant to rule 32(c) of the Federal Rules of Criminal Procedure, the probation officer shall request information from the multidisciplinary child abuse team and other appropriate sources to determine the impact of the offense on the child victim and any other children who may have been affected. A guardian ad litem appointed under subsection (h) shall make every effort to obtain and report information that accurately expresses the child's and the family's views concerning the child's victimization. A guardian ad litem shall use forms that permit the child to express the child's views concerning the personal consequences of the child's victimization, at a level and in a form of communication commensurate with the child's age and ability.
+Victim Impact Statement.—In preparing the presentence report pursuant to rule 32(c) of the Federal Rules of Criminal Procedure, the probation officer shall request information from the multidisciplinary child abuse team and other appropriate sources to determine the impact of the offense on the child victim and any other children who may have been affected. A guardian ad litem appointed under subsection\(h) shall make every effort to obtain and report information that accurately expresses the child's and the family's views concerning the child's victimization. A guardian ad litem shall use forms that permit the child to express the child's views concerning the personal consequences of the child's victimization, at a level and in a form of communication commensurate with the child's age and ability.
 
 (g)
 
@@ -260,7 +260,7 @@ In general.—The court may appoint, and provide reasonable compensation and pay
 
 &emsp;(2)
 
-Duties of guardian ad litem.—A guardian ad litem may attend all the depositions, hearings, and trial proceedings in which a child participates, and make recommendations to the court concerning the welfare of the child. The guardian ad litem may have accessto all reports, evaluations and records, except attorney's work product, necessary to effectively advocate for the child. (The extent of access to grand jury materials is limited to the access routinely provided to victims and their representatives.) A guardian ad litem shall marshal and coordinate the delivery of resources and special services to the child. A guardian ad litem shall not be compelled to testify in any court action or proceeding concerning any information or opinion received from the child in the course of serving as a guardian ad litem.
+Duties of guardian ad litem.—A guardian ad litem may attend all the depositions, hearings, and trial proceedings in which a child participates, and make recommendations to the court concerning the welfare of the child. The guardian ad litem may have access to all reports, evaluations and records, except attorney's work product, necessary to effectively advocate for the child. (The extent of access to grand jury materials is limited to the access routinely provided to victims and their representatives.) A guardian ad litem shall marshal and coordinate the delivery of resources and special services to the child. A guardian ad litem shall not be compelled to testify in any court action or proceeding concerning any information or opinion received from the child in the course of serving as a guardian ad litem.
 
 &emsp;(3)
 

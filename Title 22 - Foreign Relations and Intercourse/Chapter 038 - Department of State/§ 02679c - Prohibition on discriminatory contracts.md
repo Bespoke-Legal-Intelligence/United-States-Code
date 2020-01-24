@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-(1) Except for real estate leases and as provided in subsection (b), the Department of State may not enter into any contract that expends funds appropriated to the Department of State for an amount in excess of the small purchase threshold (as defined in section 134 of title 41— <sup>1</sup>
+(1) Except for real estate leases and as provided in subsection (b), the Department of State may not enter into any contract that expends funds appropriated to the Department of State for an amount in excess of the small purchasethreshold (as defined in section 134 of title 41— <sup>1</sup>
 
 &emsp;(A) with a foreign person that complies with the Arab League boycott of Israel, or
 

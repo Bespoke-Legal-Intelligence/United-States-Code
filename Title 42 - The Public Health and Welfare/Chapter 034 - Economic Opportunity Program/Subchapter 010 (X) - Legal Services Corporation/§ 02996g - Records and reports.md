@@ -14,7 +14,7 @@ The Corporation shall publish an annual report which shall be filed by the Corpo
 
 #### (d) Copies and retention of reports
 
-Copies of all reports pertinent to the evaluation, inspection, or monitoring of any grantee,contractor, or person or entity receiving financial assistance under this subchapter shall be submitted on a timely basis to such grantee, contractor, or person or entity, and shall be maintained in the principal office of the Corporation for a period of at least five years subsequent to such evaluation, inspection, or monitoring. Such reports shall be available for public inspection during regular business hours, and copies shall be furnished, upon request, to interested parties upon payment of such reasonable fees as the Corporation may establish.
+Copies of all reports pertinent to the evaluation, inspection, or monitoring of any grantee, contractor, or person or entity receiving financial assistance under this subchapter shall be submitted on a timely basis to such grantee, contractor, or person or entity, and shall be maintained in the principal office of the Corporation for a period of at least five years subsequent to such evaluation, inspection, or monitoring. Such reports shall be available for public inspection during regular business hours, and copies shall be furnished, upon request, to interested parties upon payment of such reasonable fees as the Corporation may establish.
 
 #### (e) Publication in Federal Register of rules, regulations, guidelines and instructions
 

@@ -34,7 +34,7 @@
 
 &emsp;(A) the owner of a fishing vessel, if the permit authorizing the participation of the vessel in the fishery is surrendered for permanent revocation and the vessel owner and permit holder relinquish any claim associated with the vessel or permit that could qualify such owner or holder for any present or future limited access system permit in the fishery for which the program is established or in any other fishery and such vessel is (i) scrapped, or (ii) through the Secretary of the department in which the Coast Guard is operating, subjected to title restrictions (including loss of the vessel's fisheries endorsement) that permanently prohibit and effectively prevent its use in fishing in federal <sup>1</sup> or state <sup>1</sup> waters, or fishing on the high seas or in the waters of a foreign nation; or
 
-&emsp;(B) the holder of a permit authorizing participation in the fishery, if such permit is surrendered for permanent revocation, and such holder relinquishes any claim associated with the permit and vessel used to harvest fishery resources under the permit that could qualify such holder for any present or future limited access system permit in the fishery for which the program was established.
+&emsp;(B) the holder of a permit authorizing participation in the fishery, if such permit is surrendered for permanent revocation, and such holder relinquishes any claim associated with the permit and vessel used to harvest fishery resources under the permit that could qualify such holder for any present or future limitedaccess system permit in the fishery for which the program was established.
 
 (3) Participation in the program shall be voluntary, but the Secretary shall ensure compliance by all who do participate.
 
@@ -138,7 +138,7 @@ Basis for recommendations.—The Secretary shall base the recommendations made w
 
 #### (5) Reduction auctions
 
-&emsp;Each program not involving fair market assessment shall involve a reduction auctionthat scores the reduction price of each bid offer by the data relevant to each bidder under an appropriate fisheries productivity factor. If the Secretary accepts bids, the Secretary shall accept responsive bids in the rank order of their bid scores, starting with the bid whose reduction price is the lowest percentage of the productivity factor, and successively accepting each additional responsive bid in rank order until either there are no more responsive bids or acceptance of the next bid would cause the total value of bids accepted to exceed the amount of funds available for the program.
+&emsp;Each program not involving fair market assessment shall involve a reduction auction that scores the reduction price of each bid offer by the data relevant to each bidder under an appropriate fisheries productivity factor. If the Secretary accepts bids, the Secretary shall accept responsive bids in the rank order of their bid scores, starting with the bid whose reduction price is the lowest percentage of the productivity factor, and successively accepting each additional responsive bid in rank order until either there are no more responsive bids or acceptance of the next bid would cause the total value of bids accepted to exceed the amount of funds available for the program.
 
 #### (6) Bid invitations
 
@@ -186,11 +186,7 @@ Pub. L. 109–479, title I, §112(b), Jan. 12, 2007, 120 Stat. 3601, provided th
 
 #### Study of Federal Investment in Fisheries
 
-Pub. L. 104–297, title I, §116(b), Oct. 11, 1996, 110 Stat. 3603, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "The Secretary of Commerce shall establish a task force comprised of interested parties to study and report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives within 2 years of the date of enactment of this Act \[Oct. 11, 1996\] on the role of the Federal Government in—
-
-&emsp;"(1) subsidizing the expansion and contraction of fishing capacity in fishing fleets managed under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.); and
-
-&emsp;"(2) otherwise influencing the aggregate capital investments in fisheries."
+Pub. L. 104–297, title I, §116(b), Oct. 11, 1996, 110 Stat. 3603, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, required the Secretary of Commerce to establish a task force comprised of interested parties to study and report to Congress within 2 years of Oct. 11, 1996, on the role of the Federal Government in subsidizing the expansion and contraction of fishing capacity in fishing fleets managed under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) and otherwise influencing the aggregate capital investments in fisheries.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

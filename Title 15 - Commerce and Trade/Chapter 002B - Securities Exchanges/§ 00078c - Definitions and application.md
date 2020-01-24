@@ -22,7 +22,7 @@ In general.—The term "broker" means any person engaged in the business of effe
 
 &emsp;&emsp;(B)
 
-Exception for certain bank activities.—A bank shall not be considered to be a broker because the bank engages in any one or more of the following activities under the conditions described:
+Exception for certain bank activities.—A bank shall not be considered to be abroker because the bank engages in any one or more of the following activities under the conditions described:
 
 &emsp;&emsp;&emsp;(i)
 
@@ -80,7 +80,7 @@ Dividend reinvestment plans.—The bank effects transactions, as part of its tra
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the bank does not solicit transactions or provide investment advice with respect to the purchase or sale of securities in connection with the plan; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the bank does not net shareholders' buy and sell orders, other than for programs for odd-lot holders or plans registered with the Commission.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the bank does not net shareholders' buy and sell orders, other than forprograms for odd-lot holders or plans registered with the Commission.
 
 &emsp;&emsp;&emsp;&emsp;(III)
 
@@ -152,11 +152,11 @@ Municipal securities.—The bank effects transactions in municipal securities.
 
 &emsp;&emsp;&emsp;(xi)
 
-De minimis exception.—The bank effects, other than in transactions referred to in clauses (i) through (x), not more than 500 transactions in securities in any calendar year, and such transactions are not effected by an employee of the bank who is also an employee of a broker or dealer.
+De minimis exception.—The bank effects, other than in transactions referred to in clauses (i) through (x), not more than 500 transactions in securities in any calendar year, and such transactions are noteffected by an employee of the bank who is also an employee of a broker or dealer.
 
 &emsp;&emsp;(C)
 
-Execution by broker or dealer.—The exception to being considered a broker for a bank engaged in activities described inclauses (ii), (iv), and (viii) of subparagraph (B) shall not apply if the activities described in such provisions result in the trade in the United States of any security that is a publicly traded security in the United States, unless—
+Execution by broker or dealer.—The exception to being considered a broker for a bank engaged in activities described in clauses (ii), (iv), and (viii) of subparagraph (B) shall not apply if the activities described in such provisions result in the trade in the United States of any security that is a publicly traded security in the United States, unless—
 
 &emsp;&emsp;&emsp;(i) the bank directs such trade to a registered broker or dealer for execution;
 
@@ -240,7 +240,7 @@ Asset-backed transactions.—The bank engages in the issuance or sale to qualifi
 
 Identified banking products.—The bank buys or sells identified banking products, as defined in section 206 of the Gramm-Leach-Bliley Act.
 
-&emsp;(6) The term "bank" means (A) a banking institution organized under the laws of the United States or a Federal savings association, as defined in section 1462(5) <sup>1</sup> of title 12, (B) a member bank of the Federal Reserve System, (C) any other banking institution or savings association, as defined in section 1462(4) <sup>1</sup> of title 12, whether incorporated or not, doing business under the laws of any State or of the United States, a substantial portion of the business of which consists of receiving deposits or exercising fiduciary powers similar to those permitted to national banks under the authority of the Comptroller of the Currency pursuant to section 92a of title 12, and which is supervised and examined by State or Federal authority having supervision over banks or savings associations, and which is not operated for the purpose of evading the provisions of this chapter, and (D) a receiver, conservator, or other liquidating agent of any institution or firm included in clauses (A), (B), or (C) of this paragraph.
+&emsp;(6) The term "bank" means (A) a banking institution organized under the laws of the United States or a Federal savings association, as defined in section 1462(5) <sup>1</sup> of title 12, (B) a member bank of the Federal Reserve System, (C) any other banking institution or savings association, as defined in section 1462(4) <sup>1</sup> of title 12, whether incorporated or not, doing business under the laws of any State or of the United States, a substantial portion of the business of which consists of receiving deposits or exercising fiduciary powers similar to those permitted to national banks under the authority of the Comptroller of the Currency pursuant to section 92a of title 12, and which is supervised and examined byState or Federal authority having supervision over banks or savings associations, and which is not operated for the purpose of evading the provisions of this chapter, and (D) a receiver, conservator, or other liquidating agent of any institution or firm included in clauses (A), (B), or (C) of this paragraph.
 
 &emsp;(7) The term "director" means any director of a corporation or any person performing similar functions with respect to any organization, whether incorporated or unincorporated.
 
@@ -296,7 +296,7 @@ Identified banking products.—The bank buys or sells identified banking product
 
 &emsp;(B) The term "exclusive processor" means any securities information processor or self-regulatory organization which, directly or indirectly, engages on an exclusive basis on behalf of any national securities exchange or registered securities association, or any national securities exchange or registered securities association which engages on an exclusive basis on its own behalf, in collecting, processing, or preparing for distribution or publication any information with respect to (i) transactions or quotations on or effected or made by means of any facility of such exchange or (ii) quotations distributed or published by means of any electronic system operated or controlled by such association.
 
-&emsp;(23)(A) The term "clearing agency" means any person who acts as an intermediary in making payments or deliveries or both in connection with transactions in securities or whoprovides facilities for comparison of data respecting the terms of settlement of securities transactions, to reduce the number of settlements of securities transactions, or for the allocation of securities settlement responsibilities. Such term also means any person, such as a securities depository, who (i) acts as a custodian of securities in connection with a system for the central handling of securities whereby all securities of a particular class or series of any issuer deposited within the system are treated as fungible and may be transferred, loaned, or pledged by bookkeeping entry without physical delivery of securities certificates, or (ii) otherwise permits or facilitates the settlement of securities transactions or the hypothecation or lending of securities without physical delivery of securities certificates.
+&emsp;(23)(A) The term "clearing agency" means any person who acts as an intermediary in making payments or deliveries or both in connection with transactions in securities or who provides facilities for comparison of data respecting the terms of settlement of securities transactions, to reduce the number of settlements of securities transactions, or for the allocation of securities settlement responsibilities. Such term also means any person, such as a securities depository, who (i) acts as a custodian of securities in connection with a system for the central handling of securities whereby all securities of a particular class or series of any issuer deposited within the system are treated as fungible and may be transferred, loaned, or pledged by bookkeeping entry without physical delivery of securities certificates, or (ii) otherwise permits or facilitates the settlement of securities transactions or the hypothecation or lending of securities without physical delivery of securities certificates.
 
 &emsp;(B) The term "clearing agency" does not include (i) any Federal Reserve bank, Federal home loan bank, or Federal land bank; (ii) any national securities exchange or registered securities association solely by reason of its providing facilities for comparison of data respecting the terms of settlement of securities transactions effected on such exchange or by means of any electronic system operated or controlled by such association; (iii) any bank, broker, dealer, building and loan, savings and loan, or homestead association, or cooperative bank if such bank, broker, dealer, association, or cooperative bank would be deemed to be a clearing agency solely by reason of functions performed by such institution as part of customary banking, brokerage, dealing, association, or cooperative banking activities, or solely by reason of acting on behalf of a clearing agency or a participant therein in connection with the furnishing by the clearing agency of services to its participants or the use of services of the clearing agency by its participants, unless the Commission, by rule, otherwise provides as necessary or appropriate to assure the prompt and accurate clearance and settlement of securities transactions or to prevent evasion of this chapter; (iv) any life insurance company, its registered separate accounts, or a subsidiary of such insurance company solely by reason of functions commonly performed by such entities in connection with variable annuity contracts or variable life policies issued by such insurance company or its separate accounts; (v) any registered open-end investment company or unit investment trust solely by reason of functions commonly performed by it in connection with shares in such registered open-end investment company or unit investment trust, or (vi) any person solely by reason of its performing functions described in paragraph (25)(E) of this subsection.
 
@@ -310,9 +310,9 @@ Identified banking products.—The bank buys or sells identified banking product
 
 &emsp;(28) The term "rules of a self-regulatory organization" means the rules of an exchange which is a national securities exchange, the rules of an association of brokers and dealers which is a registered securities association, the rules of a clearing agency which is a registered clearing agency, or the rules of the Municipal Securities Rulemaking Board.
 
-&emsp;(29) The term "municipal securities" means securities which are direct obligations of, or obligations guaranteed as to principal or interest by, a State or any political subdivision thereof, or any agency or instrumentality of a State or any political subdivision thereof, or any municipal corporate instrumentality of one or more States, or any security which is an industrial development bond (as defined in section 103(c)(2) <sup>1</sup> of title 26) the interest on which is excludable from gross income under section 103(a)(1) <sup>1</sup> of title 26 if, by reason of the application of paragraph (4) or (6) of section 103(c) <sup>1</sup> of title 26 (determined as if paragraphs (4)(A), (5), and (7) were not included in such section 103(c)),<sup>1</sup> paragraph (1) of such section 103(c) <sup>1</sup> does not apply to such security.
+&emsp;(29) The term "municipal securities" means securities which are direct obligations of, or obligations guaranteed as to principal or interest by, a State or any political subdivision thereof, or any agency or instrumentality of a State or any political subdivision thereof, or any municipal corporate instrumentality of one or more States, or any security which is an industrial development bond (as defined in section 103(c)(2) <sup>1</sup> of title 26) the interest on which is excludable from gross income under section 103(a)(1) <sup>1</sup> of title 26 if, by reason of theapplication of paragraph (4) or (6) of section 103(c) <sup>1</sup> of title 26 (determined as if paragraphs (4)(A), (5), and (7) were not included in such section 103(c)),<sup>1</sup> paragraph (1) of such section 103(c) <sup>1</sup> does not apply to such security.
 
-&emsp;(30) The term "municipal securities dealer" means any person (including a separately identifiable department or division of a bank) engaged in the business of buying and sellingmunicipal securities for his own account, through a broker or otherwise, but does not include—
+&emsp;(30) The term "municipal securities dealer" means any person (including a separately identifiable department or division of a bank) engaged in the business of buying and selling municipal securities for his own account, through a broker or otherwise, but does not include—
 
 &emsp;&emsp;(A) any person insofar as he buys or sells such securities for his own account, either individually or in some fiduciary capacity, but not as a part of a regular business; or
 
@@ -350,7 +350,7 @@ Identified banking products.—The bank buys or sells identified banking product
 
 &emsp;&emsp;&emsp;(i) The Comptroller of the Currency, in the case of a national bank or a Federal savings association (as defined in section 3(b)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(2))), the deposits of which are insured by the Federal Deposit Insurance Corporation <sup>2</sup> when the appropriate regulatory agency for such clearing agency is not the Commission;
 
-&emsp;&emsp;&emsp;(ii) the Board of Governors of the Federal Reserve System in the case of a State member bank of the Federal Reserve System, a bank holding company, or a subsidiary of a bank holding company, a subsidiary of a bank holding company that is abank other than a bank specified in clause (i) or (iii) of this subparagraph, or a savings and loan holding company when the appropriate regulatory agency for such clearing agency is not the Commission;
+&emsp;&emsp;&emsp;(ii) the Board of Governors of the Federal Reserve System in the case of a State member bank of the Federal Reserve System, a bank holding company, or a subsidiary of a bank holding company, a subsidiary of a bank holding company that is a bank other than a bank specified in clause (i) or (iii) of this subparagraph, or a savings and loan holding company when the appropriate regulatory agency for such clearing agency is not the Commission;
 
 &emsp;&emsp;&emsp;(iii) the Federal Deposit Insurance Corporation, in the case of a bank insured by the Federal Deposit Insurance Corporation (other than a member of the Federal Reserve System) or a State savings association (as defined in section 3(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(3))), the deposits of which are insured by the Federal Deposit Insurance Corporation; and <sup>3</sup> when the appropriate regulatory agency for such clearing agency is not the Commission; <sup>4</sup>
 
@@ -392,7 +392,7 @@ Identified banking products.—The bank buys or sells identified banking product
 
 &emsp;&emsp;&emsp;(ii) the Board of Governors of the Federal Reserve System, in the case of a State member bank of the Federal Reserve System or any corporation chartered under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\];
 
-&emsp;&emsp;&emsp;(iii) the Federal Deposit Insurance Corporation, in the case of any other bank thedeposits of which are insured in accordance with the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\]; or
+&emsp;&emsp;&emsp;(iii) the Federal Deposit Insurance Corporation, in the case of any other bank the deposits of which are insured in accordance with the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\]; or
 
 &emsp;&emsp;&emsp;(iv) the Commission in the case of all other such institutions.
 
@@ -424,7 +424,7 @@ Identified banking products.—The bank buys or sells identified banking product
 
 &emsp;&emsp;(C) by his conduct while associated with a broker, dealer, municipal securities dealer, government securities broker, government securities dealer, security-based swap dealer, or major security-based swap participant, or while associated with an entity or person required to be registered under the Commodity Exchange Act, has been found to be a cause of any effective suspension, expulsion, or order of the character described in subparagraph (A) or (B) of this paragraph, and in entering such a suspension, expulsion, or order, the Commission, an appropriate regulatory agency, or any such self-regulatory organization shall have jurisdiction to find whether or not any person was a cause thereof;
 
-&emsp;&emsp;(D) by his conduct while associated with any broker, dealer, municipal securities dealer, government securities broker, government securities dealer, security-based swap dealer, major security-based swap participant, or any other entity engaged in transactions in securities, or while associated with an entity engaged in transactions in contracts of sale of a commodity for future delivery or other instruments traded on or subject to the rules of a contract market, board of trade, or foreign equivalent thereof, has been found to be a cause of any effective suspension, expulsion, or order by a foreign or international securities exchange or foreign financial regulatory authority empowered by a foreign government to administer or enforce its laws relating to financialtransactions as described in subparagraph (A) or (B) of this paragraph;
+&emsp;&emsp;(D) by his conduct while associated with any broker, dealer, municipal securities dealer, government securities broker, government securities dealer, security-based swap dealer, major security-based swap participant, or any other entity engaged in transactions in securities, or while associated with an entity engaged in transactions in contracts of sale of a commodity for future delivery or other instruments traded on or subject to the rules of a contract market, board of trade, or foreign equivalent thereof, has been found to be a cause of any effective suspension, expulsion, or order by a foreign or international securities exchange or foreign financial regulatory authority empowered by a foreign government to administer or enforce its laws relating to financial transactions as described in subparagraph (A) or (B) of this paragraph;
 
 &emsp;&emsp;(E) has associated with him any person who is known, or in the exercise of reasonable care should be known, to him to be a person described by subparagraph (A), (B), (C), or (D) of this paragraph; or
 
@@ -458,7 +458,7 @@ Identified banking products.—The bank buys or sells identified banking product
 
 &emsp;&emsp;&emsp;(ii) for which quotations are disseminated through an automated quotation system operated by a registered securities association; or
 
-&emsp;&emsp;(E) for purposes of sections 78o, 78o–5, and 78q–1 of this title as applied to a bank, a qualified Canadian government obligation as defined in section 24 of title 12.
+&emsp;&emsp;(E) for purposes of sections 78o, 78o–5, and 78q–1 of this title as applied to a bank, aqualified Canadian government obligation as defined in section 24 of title 12.
 
 &emsp;(43) The term "government securities broker" means any person regularly engaged in the business of effecting transactions in government securities for the account of others, but does not include—
 
@@ -506,7 +506,7 @@ Identified banking products.—The bank buys or sells identified banking product
 
 &emsp;&emsp;(v) exempted, in whole or in part, conditionally or unconditionally, from the definition of such term by rule, regulation, or order prescribed by the Commission.
 
-&emsp;(B) The Commission may, by rule, regulation, or order, designate any equity securityor class of equity securities described in clause (i) or (ii) of subparagraph (A) as within the meaning of the term "penny stock" if such security or class of securities is traded other than on a national securities exchange or through an automated quotation system described in clause (ii) of subparagraph (A).
+&emsp;(B) The Commission may, by rule, regulation, or order, designate any equity security or class of equity securities described in clause (i) or (ii) of subparagraph (A) as within the meaning of the term "penny stock" if such security or class of securities is traded other than on a national securities exchange or through an automated quotation system described in clause (ii) of subparagraph (A).
 
 &emsp;(C) In exercising its authority under this paragraph to prescribe rules, regulations, and orders, the Commission shall determine that such rule, regulation, or order is consistent with the public interest and the protection of investors.
 
@@ -566,7 +566,7 @@ Definition.—Except as provided in subparagraph (B), for purposes of this chapt
 
 &emsp;&emsp;(B)
 
-Altered thresholds for asset-backed securities and loan participations.—For purposes of subsection (a)(5)(C)(iii) of this section and section 206(a)(5) of the Gramm-Leach-Bliley Act, the term "qualified investor" has the meaninggiven such term by subparagraph (A) of this paragraph except that clauses (xi) and (xii) shall be applied by substituting "$10,000,000" for "$25,000,000".
+Altered thresholds for asset-backed securities and loan participations.—For purposes of subsection (a)(5)(C)(iii) of this section and section 206(a)(5) of the Gramm-Leach-Bliley Act, the term "qualified investor" has the meaning given such term by subparagraph (A) of this paragraph except that clauses (xi) and (xii) shall be applied by substituting "$10,000,000" for "$25,000,000".
 
 &emsp;&emsp;(C)
 
@@ -712,7 +712,7 @@ In general.—The term "major security-based swap participant" means any person�
 
 &emsp;&emsp;&emsp;(III) that is a financial entity that—
 
-&emsp;&emsp;&emsp;&emsp;(aa) is highly leveraged relative to the amount of capital such entity holds and that is not subject to capital requirements established by an appropriate Federal banking agency; and
+&emsp;&emsp;&emsp;&emsp;(aa) is highly leveraged relative to the amount of capital such entity holds andthat is not subject to capital requirements established by an appropriate Federal banking agency; and
 
 &emsp;&emsp;&emsp;&emsp;(bb) maintains a substantial position in outstanding security-based swaps in any major security-based swap category, as such categories are determined by the Commission.
 
@@ -872,9 +872,9 @@ Asset-backed security.—The term "asset-backed security"—
 
 Emerging growth company.—The term "emerging growth company" means an issuer that had total annual gross revenues of less than $1,000,000,000 (as such amount is indexed for inflation every 5 years by the Commission to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, setting the threshold to the nearest 1,000,000) during its most recently completed fiscal year. An issuer that is an emerging growth company as of the first day of that fiscal year shall continue to be deemed an emerging growth company until the earliest of—
 
-&emsp;&emsp;(A) the last day of the fiscal year of the issuer during which it had total annual gross revenues of $1,000,000,000 (as such amount is indexed for inflation every 5 years by the Commission to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, setting the threshold to the nearest 1,000,000) or more;
+&emsp;&emsp;(A) the last day of the fiscal year of the issuer during which it had total annual gross revenues of $1,000,000,000 (as such amount is indexed for inflation every 5 years by the Commission to reflect the change in theConsumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, setting the threshold to the nearest 1,000,000) or more;
 
-&emsp;&emsp;(B) the last day of the fiscal year of the issuer following the fifth anniversary of the date of the first sale of common equity securities of the issuer pursuant to an effectiveregistration statement under the Securities Act of 1933;
+&emsp;&emsp;(B) the last day of the fiscal year of the issuer following the fifth anniversary of the date of the first sale of common equity securities of the issuer pursuant to an effective registration statement under the Securities Act of 1933;
 
 &emsp;&emsp;(C) the date on which such issuer has, during the previous 3-year period, issued more than $1,000,000,000 in non-convertible debt; or
 
@@ -928,9 +928,9 @@ Whenever pursuant to this chapter the Commission is engaged in rulemaking, or in
 
 #### (g) Church plans
 
-No church plan described in section 414(e) of title 26, no person or entity eligible to establish and maintain such a plan under title 26, no company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], and no trustee, director, officer or employee of or volunteer for such plan, company, account, person, or entity, acting within the scope of that person's employment or activities with respect to such plan, shall be deemed to be a "broker", "dealer", "municipal securities broker", "municipal securities dealer", "government securities broker", "government securities dealer", "clearing agency", or "transfer agent" for purposes of this chapter—
+No church plan described in section 414(e) of title 26, no person or entity eligible to establish and maintain such a plan under title 26, no company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], and no trustee, director, officer or employee of or volunteer for suchplan, company, account, person, or entity, acting within the scope of that person's employment or activities with respect to such plan, shall be deemed to be a "broker", "dealer", "municipal securities broker", "municipal securities dealer", "government securities broker", "government securities dealer", "clearing agency", or "transfer agent" for purposes of this chapter—
 
-&emsp;(1) solely because such plan, company, person, or entity buys, holds, sells, trades in, ortransfers securities or acts as an intermediary in making payments in connection with transactions in securities for its own account in its capacity as trustee or administrator of, or otherwise on behalf of, or for the account of, any church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\]; and
+&emsp;(1) solely because such plan, company, person, or entity buys, holds, sells, trades in, or transfers securities or acts as an intermediary in making payments in connection with transactions in securities for its own account in its capacity as trustee or administrator of, or otherwise on behalf of, or for the account of, any church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\]; and
 
 &emsp;(2) if no such person or entity receives a commission or other transaction-related sales compensation in connection with any activities conducted in reliance on the exemption provided by this subsection.
 
@@ -974,7 +974,7 @@ Section 78w(b) of this title, referred to in subsec. (a)(26), was omitted from t
 
 Section 103 of title 26, referred to in subsec. (a)(29), which related to interest on certain governmental obligations, was amended generally by Pub. L. 99–514, title XIII, §1301(a), Oct. 22, 1986, 100 Stat. 2602, and, as so amended, relates to interest on State and local bonds. Section 103(b)(2) (formerly section 103(c)(2)), which prior to the general amendment defined industrial development bond, relates to the applicability of the interest exclusion to arbitrage bonds.
 
-The Federal Deposit Insurance Act, referred to in subsec. (a)(34)(D), (F)(iii), (H)(iii), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, which is classified generally tochapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (a)(34)(D), (F)(iii), (H)(iii), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
 The International Banking Act of 1978, referred to in subsec. (a)(34)(G)(i) to (iii), (46)(B), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted chapter 32 (§3101 et seq.) and sections 347d and 611a of Title 12, Banks and Banking, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of Title 12, and enacted provisions set out as notes under sections 247, 611a, and 3101 of Title 12 and formerly set out as notes under sections 36, 247, and 601 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 12 and Tables.
 
@@ -1246,7 +1246,7 @@ Subsec. (a)(42) to (46), (48). Pub. L. 99–571, §102(d), added pars. (42) to (
 
 <b>1984</b>—Subsec. (a)(39)(A). Pub. L. 98–376, §6(a)(1), inserted ", contract market designated pursuant to section 5 of the Commodity Exchange Act (7 U.S.C. 7), or futures association registered under section 17 of such Act (7 U.S.C. 21), or has been and is denied trading privileges on any such contract market".
 
-Subsec. (a)(39)(B). Pub. L. 98–376, §6(a)(2), inserted ", or is subject to an order of the Commodity Futures Trading Commission denying, suspending, or revoking his registration under the Commodity Exchange Act (7 U.S.C. 1 et seq.)".
+Subsec. (a)(39)(B). Pub. L. 98–376, §6(a)(2), inserted ", or is subject to an order of the Commodity FuturesTrading Commission denying, suspending, or revoking his registration under the Commodity Exchange Act (7 U.S.C. 1 et seq.)".
 
 Subsec. (a)(39)(C). Pub. L. 98–376, §6(a)(3), inserted "or while associated with an entity or person required to be registered under the Commodity Exchange Act,".
 
@@ -1302,7 +1302,7 @@ Notwithstanding subsec. (a)(80) of this section, issuer not to be an emerging gr
 
 #### Effective Date of 2010 Amendment
 
-Amendment by sections 932(b), 941(a), 944(b), 985(b)(2), and 986(a)(1) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 Title 12, Banks and Banking.
+Amendment by sections 932(b), 941(a), 944(b), 985(b)(2), and 986(a)(1) of Pub. L. 111–203 effective 1 day after July21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 Title 12, Banks and Banking.
 
 Amendment by section 376(1) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
@@ -1380,7 +1380,7 @@ Rulemaking supersedes previous rulemaking.—A final single set of rules or regu
 
 "(b)
 
-Consultation.—Prior to jointly adopting the single set of final rules or regulations required by this section, the Commission and the Board shall consult with and seek the concurrence of the Federal banking agencies concerning the content of such rulemaking in implementing section 3(a)(4)(B) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(4)(B)\], as amended by this section and section 201 of the Gramm-Leach-Bliley Act \[Pub. L. 106–102\].
+Consultation.—Prior to jointly adopting the single set of final rules or regulations required by thissection, the Commission and the Board shall consult with and seek the concurrence of the Federal banking agencies concerning the content of such rulemaking in implementing section 3(a)(4)(B) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(4)(B)\], as amended by this section and section 201 of the Gramm-Leach-Bliley Act \[Pub. L. 106–102\].
 
 "(c)
 
@@ -1462,7 +1462,7 @@ Definition of Identified Banking Product.—Except as provided in subsection (e)
 
 "(b)
 
-Definition of Swap Agreement.—For purposes of subsection (a)(6), the term 'swap agreement' meansany individually negotiated contract, agreement, warrant, note, or option that is based, in whole or in part, on the value of, any interest in, or any quantitative measure or the occurrence of any event relating to, one or more commodities, securities, currencies, interest or other rates, indices, or other assets, but does not include any other identified banking product, as defined in paragraphs (1) through (5) of subsection (a).
+Definition of Swap Agreement.—For purposes of subsection (a)(6), the term 'swap agreement' means any individually negotiated contract, agreement, warrant, note, or option that is based, in whole or in part, on the value of, any interest in, or any quantitative measure or the occurrence of any event relating to, one or more commodities, securities, currencies, interest or other rates, indices, or other assets, but does not include any other identified banking product, as defined in paragraphs (1) through (5) of subsection (a).
 
 "(c)
 

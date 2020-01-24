@@ -14,7 +14,7 @@ Subpoena Power.—
 
 &emsp;(1)
 
-By secretary.—The Secretary may subpoena witnesses and records related to a proceeding under this part from any place in the United States, to the designated place of the proceeding. If a witness disobeys a subpoena,the Secretary, or a party to a proceeding under this part, may petition a court of the United States to enforce that subpoena.
+By secretary.—The Secretary may subpoena witnesses and records related to a proceeding under this part from any place in the United States, to the designated place of the proceeding. If a witness disobeys a subpoena, the Secretary, or a party to a proceeding under this part, may petition a court of the United States to enforce that subpoena.
 
 &emsp;(2)
 

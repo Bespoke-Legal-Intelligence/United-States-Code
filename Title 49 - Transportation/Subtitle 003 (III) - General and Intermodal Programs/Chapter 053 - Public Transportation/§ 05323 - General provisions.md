@@ -80,7 +80,7 @@ Schoolbus Transportation.—
 
 &emsp;(1)
 
-Agreements.—Financial assistance under this chapter may be used for a capital project, or to operate public transportation equipment or a public transportation facility, only if the applicant agrees not to provide schoolbus transportation that exclusively transports students and school personnel in competitionwith a private schoolbus operator. This subsection does not apply—
+Agreements.—Financial assistance under this chapter may be used for a capital project, or to operate public transportation equipment or a public transportation facility, only if the applicant agrees not to provide schoolbus transportation that exclusively transports students and school personnel in competition with a private schoolbus operator. This subsection does not apply—
 
 &emsp;&emsp;(A) to an applicant that operates a school system in the area to be served and a separate and exclusive schoolbus program for the school system; and
 
@@ -126,7 +126,7 @@ Costs incurred by providers of public transportation by vanpool.—
 
 &emsp;&emsp;(A)
 
-Local matching share.—The local matching share provided by a recipient of assistance for a capital project under this chapter may include any amounts expended by a provider of public transportation by vanpool for the acquisition of rolling stock to be used by such provider in the recipient's service area, excluding any amounts the provider may have received in Federal, State, or local government assistance for such acquisition.
+Local matching share.—The local matching share provided by a recipient of assistance for a capital project under this chapter may include any amounts expended by a provider of public transportation by vanpool for the acquisition of rolling stock to be used by such provider in the recipient'sservice area, excluding any amounts the provider may have received in Federal, State, or local government assistance for such acquisition.
 
 &emsp;&emsp;(B)
 
@@ -290,7 +290,7 @@ Grant Requirements.—The grant requirements under sections 5307, 5309, and 5337
 
 (p)
 
-Alternative Fueling Facilities.—A recipient of assistance under this chapter may allow the incidental use of federally funded alternative fueling facilities and equipment by nontransit public entities and private entities if—
+Alternative Fueling Facilities.—A recipient of assistance under this chapter may allowthe incidental use of federally funded alternative fueling facilities and equipment by nontransit public entities and private entities if—
 
 &emsp;(1) the incidental use does not interfere with the recipient's public transportation operations;
 
@@ -328,7 +328,87 @@ Special Condition on Charter Bus Transportation Service.—If, in a fiscal year,
 
 &emsp;(2) any amounts withheld pursuant to paragraph (1) shall be added to the amount that the Secretary may apportion under section 5336 in the following fiscal year.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3020, June 9, 1998, 112 Stat. 362; Pub. L. 109–59, title III, §§3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005,119 Stat. 1545, 1615–1619; Pub. L. 110–244, title II, §201(j), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20016, July 6, 2012, 126 Stat. 697; Pub. L. 114–94, div. A, title III, §3011, Dec. 4, 2015, 129 Stat. 1474.)
+(u)
+
+Limitation on Certain Rolling Stock Procurements.—
+
+&emsp;(1)
+
+In general.—Except as provided in paragraph (5), financial assistance made available under this chapter shall not be used in awarding a contract or subcontract to an entity on or after the date of enactment of this subsection for the procurement of rolling stock for use in public transportation if the manufacturer of the rolling stock—
+
+&emsp;&emsp;(A) is incorporated in or has manufacturing facilities in the United States; and
+
+&emsp;&emsp;(B) is owned or controlled by, is a subsidiary of, or is otherwise related legally or financially to a corporation based in a country that—
+
+&emsp;&emsp;&emsp;(i) is identified as a nonmarket economy country (as defined in section 771(18) of the Tariff Act of 1930 (19 U.S.C. 1677(18))) as of the date of enactment of this subsection;
+
+&emsp;&emsp;&emsp;(ii) was identified by the United States Trade Representative in the most recent report required by section 182 of the Trade Act of 1974 (19 U.S.C. 2242) as a foreign country included on the priority watch list defined in subsection (g)(3) of that section; and
+
+&emsp;&emsp;&emsp;(iii) is subject to monitoring by the Trade Representative under section 306 of the Trade Act of 1974 (19 U.S.C. 2416).
+
+&emsp;(2)
+
+Exception.—For purposes of paragraph (1), the term "otherwise related legally or financially" does not include a minority relationship or investment.
+
+&emsp;(3)
+
+International agreements.—This subsection shall be applied in a manner consistent with the obligations of the United States under international agreements.
+
+&emsp;(4)
+
+Certification for rail rolling stock.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in paragraph (5), as a condition of financial assistance made available in a fiscal year under section 5337, a recipient that operates rail fixed guideway service shall certify in that fiscal year that the recipient will not award any contract or subcontract for the procurement of rail rolling stock for use in public transportation with a rail rolling stock manufacturer described in paragraph (1).
+
+&emsp;&emsp;(B)
+
+Separate certification.—The certification required under this paragraph shall be in addition to any certification the Secretary establishes to ensure compliance with the requirements of paragraph (1).
+
+&emsp;(5)
+
+Special rules.—
+
+&emsp;&emsp;(A)
+
+Parties to executed contracts.—This subsection, including the certification requirement under paragraph (4), shall not apply to the award of any contract or subcontract made by a public transportation agency with a rail rolling stock manufacturer described in paragraph (1) if the manufacturer and the public transportation agency have executed a contract for rail rolling stock before the date of enactment of this subsection.
+
+&emsp;&emsp;(B)
+
+Rolling stock.—Except as provided in subparagraph (C) and for a contract or subcontract that is not described in subparagraph (A), this subsection, including the certification requirement under paragraph (4), shall not apply to the award of a contract or subcontract made by a public transportation agency with any rolling stock manufacturer for the 2-year period beginning on or after the date of enactment of this subsection.
+
+&emsp;&emsp;(C)
+
+Exception.—Subparagraph (B) shall not apply to the award of a contract or subcontract made by the Washington Metropolitan Area Transit Authority.
+
+(v)
+
+Cybersecurity Certification for Rail Rolling Stock and Operations.—
+
+&emsp;(1)
+
+Certification.—As a condition of financial assistance made available under this chapter, a recipient that operates a rail fixed guideway public transportation system shall certify that the recipient has established a process to develop, maintain, and execute a written plan for identifying and reducing cybersecurity risks.
+
+&emsp;(2)
+
+Compliance.—For the process required under paragraph (1), a recipient of assistance under this chapter shall—
+
+&emsp;&emsp;(A) utilize the approach described by the voluntary standards and best practices developed under section 2(c)(15) of the National Institute of Standards and Technology Act (15 U.S.C. 272(c)(15)), as applicable;
+
+&emsp;&emsp;(B) identify hardware and software that the recipient determines should undergo third-party testing and analysis to mitigate cybersecurity risks, such as hardware or software for rail rolling stock under proposed procurements; and
+
+&emsp;&emsp;(C) utilize the approach described in any voluntary standards and best practices for rail fixed guideway public transportation systems developed under the authority of the Secretary of Homeland Security, as applicable.
+
+&emsp;(3)
+
+Limitations on statutory construction.—Nothing in this subsection shall be construed to interfere with the authority of—
+
+&emsp;&emsp;(A) the Secretary of Homeland Security to publish or ensure compliance with requirements or standards concerning cybersecurity for rail fixed guideway public transportation systems; or
+
+&emsp;&emsp;(B) the Secretary of Transportation under section 5329 to address cybersecurity issues as those issues relate to the safety of rail fixed guideway public transportation systems.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3020, June 9, 1998, 112 Stat. 362; Pub. L. 109–59, title III, §§3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, 119 Stat. 1545, 1615–1619; Pub. L. 110–244, title II, §201(j), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20016, July 6, 2012, 126 Stat. 697; Pub. L. 114–94, div. A, title III, §3011, Dec. 4, 2015, 129 Stat. 1474; Pub. L. 116–92, div. F, title LXXVI, §7613, Dec. 20, 2019, 133 Stat. 2314.)
 
 Historical and Revision Notes
 
@@ -468,7 +548,7 @@ In subsection (d)(2), the words "alleged", "take appropriate action to", "and co
 
 In subsection (e), the words "This subsection shall apply to" and "which is acquiring such buses" are omitted as surplus. The words "occurring on or after November 6, 1978" are omitted as executed. The words "In the case of" are omitted as surplus. The words "may include" are substituted for "the Secretary shall permit . . . to provide in advertising for bids for" to eliminate unnecessary words.
 
-In subsection (f)(1), before clause (A), the words "for use in providing public", "to any applicant for such assistance", and "and the Secretary" are omitted as surplus. The word "agrees" is substituted for "shall havefirst entered into an agreement that such applicant" to eliminate unnecessary words. In clause (A), the words "with respect to operation of a schoolbus program" are omitted as surplus.
+In subsection (f)(1), before clause (A), the words "for use in providing public", "to any applicant for such assistance", and "and the Secretary" are omitted as surplus. The word "agrees" is substituted for "shall have first entered into an agreement that such applicant" to eliminate unnecessary words. In clause (A), the words "with respect to operation of a schoolbus program" are omitted as surplus.
 
 Subsection (g) is substituted for 49 App.:1602a to eliminate unnecessary words.
 
@@ -524,7 +604,11 @@ The date of enactment of the Federal Public Transportation Act of 2012, referred
 
 The Federal Public Transportation Act of 2015, referred to in subsec. (j)(8), is title III of div. A of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1446. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 5101 of this title and Tables.
 
+The date of enactment of this subsection, referred to in subsec. (u)(1), (5), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
+
 #### Amendments
+
+<b>2019</b>—Subsecs. (u), (v). Pub. L. 116–92 added subsecs. (u) and (v).
 
 <b>2015</b>—Subsec. (h)(2), (3). Pub. L. 114–94, §3011(1), added par. (2) and redesignated former par. (2) as (3).
 
@@ -554,7 +638,7 @@ Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass tr
 
 Subsec. (b). Pub. L. 109–59, §3023(b), reenacted heading without change and amended text of subsec. (b) generally, substituting provisions relating to general requirements, notice, and application requirements, consisting of pars. (1) to (3), for provisions relating to application requirements and notice, consisting of pars. (1) and (2).
 
-Subsec. (c). Pub. L. 109–59, §3023(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "Amounts appropriated or made available under this chapter after September 30, 1989, may be obligated or expended to acquire a new busmodel only if a bus of the model has been tested at the facility established under section 5318 of this title."
+Subsec. (c). Pub. L. 109–59, §3023(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "Amounts appropriated or made available under this chapter after September 30, 1989, may be obligated or expended to acquire a new bus model only if a bus of the model has been tested at the facility established under section 5318 of this title."
 
 Subsec. (d)(1). Pub. L. 109–59, §3023(d)(1), inserted heading.
 

@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Priority review
 
-&emsp;The term "priority review", with respect to a human drug application, means review andaction by the Secretary on such application not later than 6 months after receipt by the Secretary of such application, as described in the Manual of Policies and Procedures in the Food and Drug Administration and goals identified in the letters described in section 101(b) of the Food and Drug Administration Safety and Innovation Act.
+&emsp;The term "priority review", with respect to a human drug application, means review and action by the Secretary on such application not later than 6 months after receipt by the Secretary of such application, as described in the Manual of Policies and Procedures in the Food and Drug Administration and goals identified in the letters described in section 101(b) of the Food and Drug Administration Safety and Innovation Act.
 
 #### (3) Priority review voucher
 
@@ -36,7 +36,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall award a priority review voucher to the sponsor of a material threat medical countermeasure application upon approval by the Secretary of such material threat medical countermeasure application.
+&emsp;The Secretary shall award a priority review voucher to the sponsor of a material threatmedical countermeasure application upon approval by the Secretary of such material threat medical countermeasure application.
 
 #### (2) Transferability
 

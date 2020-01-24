@@ -34,7 +34,7 @@
 
 #### (5) Technical assistance to facilitate participation in SHOP Exchanges
 
-&emsp;The Secretary shall provide technical assistance to States to facilitate the participationof qualified small businesses in such States in SHOP Exchanges.
+&emsp;The Secretary shall provide technical assistance to States to facilitate the participation of qualified small businesses in such States in SHOP Exchanges.
 
 #### (b) American Health Benefit Exchanges
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(C) include within health insurance plan networks those essential community providers, where available, that serve predominately low-income, medically-underserved individuals, such as health care providers defined in section 340B(a)(4) of the Public Health Service Act \[42 U.S.C. 256b(a)(4)\] and providers described in section 1927(c)(1)(D)(i)(IV) of the Social Security Act \[42 U.S.C. 1396r–8(c)(1)(D)(i)(IV)\] as set forth by section 221 of Public Law 111–8, except that nothing in this subparagraph shall be construed to require any health plan to provide coverage for any specific medical procedure;
 
-&emsp;&emsp;(D)(i) be accredited with respect to local performance on clinical quality measures such as the Healthcare Effectiveness Data and Information Set, patient experience ratings on a standardized Consumer Assessment of Healthcare Providers and Systems survey, as well as consumer access, utilization management, quality assurance, provider credentialing, complaints and appeals, network adequacy and access, and patient information programs by any entity recognized by the Secretary for the accreditation of health insurance issuers or plans (so long as any such entity has transparent and rigorous methodological and scoring criteria); or
+&emsp;&emsp;(D)(i) be accredited with respect to local performance on clinical quality measures such as the Healthcare Effectiveness Data and Information Set, patient experience ratings on a standardized Consumer Assessment of Healthcare Providers and Systems survey, as well as consumer access, utilization management, quality assurance, provider credentialing, complaints and appeals, networkadequacy and access, and patient information programs by any entity recognized by the Secretary for the accreditation of health insurance issuers or plans (so long as any such entity has transparent and rigorous methodological and scoring criteria); or
 
 &emsp;&emsp;(ii) receive such accreditation within a period established by an Exchange for such accreditation that is applicable to all qualified health plans;
 
@@ -88,7 +88,7 @@
 
 #### (4) Enrollee satisfaction system
 
-&emsp;The Secretary shall develop an enrollee satisfaction survey system that would evaluate the level of enrollee satisfaction with qualified health plans offered through an Exchange, for each such qualified health plan that had more than 500 enrollees in the previous year. The Exchange shall include enrollee satisfaction information in the information provided to individuals and employers through the Internetportal established under paragraph (5) in a manner that allows individuals to easily compare enrollee satisfaction levels between comparable plans.
+&emsp;The Secretary shall develop an enrollee satisfaction survey system that would evaluate the level of enrollee satisfaction with qualified health plans offered through an Exchange, for each such qualified health plan that had more than 500 enrollees in the previous year. The Exchange shall include enrollee satisfaction information in the information provided to individuals and employers through the Internet portal established under paragraph (5) in a manner that allows individuals to easily compare enrollee satisfaction levels between comparable plans.
 
 #### (5) Internet portals
 
@@ -111,6 +111,26 @@
 &emsp;&emsp;(C) special enrollment periods specified in section 9801 of title 26 and other special enrollment periods under circumstances similar to such periods under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\]; and
 
 &emsp;&emsp;(D) special monthly enrollment periods for Indians (as defined in section 1603 of title 25).
+
+#### (7) Reenrollment of certain individuals in qualified health plans in certain exchanges
+
+#### (A) In general
+
+&emsp;&emsp;In the case of an Exchange that the Secretary operates pursuant to section 18041(c)(1) of this title, the Secretary shall establish a process under which an individual described in subparagraph (B) is reenrolled for plan year 2021 in a qualified health plan offered through such Exchange. Such qualified health plan under which such individual is so reenrolled shall be—
+
+&emsp;&emsp;&emsp;(i) if available for plan year 2021, the qualified health plan under which such individual is enrolled during the annual open enrollment period for such plan year; and
+
+&emsp;&emsp;&emsp;(ii) if such qualified health plan is not available for plan year 2021, a qualified health plan offered through such Exchange determined appropriate by the Secretary.
+
+#### (B) Individual described
+
+&emsp;&emsp;An individual described in this subsection is an individual who, with respect to plan year 2020—
+
+&emsp;&emsp;&emsp;(i) resides in a State with an Exchange described in subparagraph (A);
+
+&emsp;&emsp;&emsp;(ii) is enrolled in a qualified health plan during such plan year and does not enroll in a qualified health plan for plan year 2021 during the annual open enrollment period for such plan year 2021; and
+
+&emsp;&emsp;&emsp;(iii) does not elect to disenroll under a qualified health plan for plan year 2021 during such annual open enrollment period.
 
 #### (d) Requirements
 
@@ -242,7 +262,7 @@
 
 #### (2) Premium considerations
 
-&emsp;The Exchange shall require health plans seeking certification as qualified health plans to submit a justification for any premium increase prior to implementation of the increase. Such plans shall prominently post such information on their websites. The Exchange shall take this information, and the information and the recommendations provided to the Exchange by the State under section 2794(b)(1) <sup>1</sup> of the Public Health Service Act \[42U.S.C. 300gg–94(b)(1)\] (relating to patterns or practices of excessive or unjustified premium increases), into consideration when determining whether to make such health plan available through the Exchange. The Exchange shall take into account any excess of premium growth outside the Exchange as compared to the rate of such growth inside the Exchange, including information reported by the States.
+&emsp;The Exchange shall require health plans seeking certification as qualified health plans to submit a justification for any premium increase prior to implementation of the increase. Such plans shall prominently post such information on their websites. The Exchange shall take this information, and the information and the recommendations provided to the Exchange by the State under section 2794(b)(1) <sup>1</sup> of the Public Health Service Act \[42 U.S.C. 300gg–94(b)(1)\] (relating to patterns or practices of excessive or unjustified premium increases), into consideration when determining whether to make such health plan available through the Exchange. The Exchange shall take into account any excess of premium growth outside the Exchange as compared to the rate of such growth inside the Exchange, including information reported by the States.
 
 #### (3) Transparency in coverage
 
@@ -270,7 +290,7 @@
 
 #### (B) Use of plain language
 
-&emsp;&emsp;The information required to be submitted under subparagraph (A) shall be provided in plain language. The term "plain language" means language that the intended audience, including individuals with limited English proficiency, can readily understand and use because that language is concise, well-organized, and follows other best practices of plain language writing. The Secretary and the Secretary of Labor shall jointly develop and issue guidance on best practices of plain language writing.
+&emsp;&emsp;The information required to be submitted under subparagraph (A) shall be provided in plain language. The term "plain language" means language that the intended audience, including individuals with limited English proficiency, can readily understand and usebecause that language is concise, well-organized, and follows other best practices of plain language writing. The Secretary and the Secretary of Labor shall jointly develop and issue guidance on best practices of plain language writing.
 
 #### (C) Cost sharing transparency
 
@@ -352,7 +372,7 @@
 
 &emsp;&emsp;&emsp;(i) utilizes a patient safety evaluation system as described in part C of title IX of the Public Health Service Act \[42 U.S.C. 299b–21 et seq.\]; and
 
-&emsp;&emsp;&emsp;(ii) implements a mechanism to ensure that each patient receives a comprehensive program for hospital discharge that includes patient-centered education and counseling, comprehensive discharge planning, and post discharge reinforcement by an appropriate health care professional; or
+&emsp;&emsp;&emsp;(ii) implements a mechanism to ensure that each patient receives a comprehensive program for hospital discharge that includes patient-centered education andcounseling, comprehensive discharge planning, and post discharge reinforcement by an appropriate health care professional; or
 
 &emsp;&emsp;(B) a health care provider only if such provider implements such mechanisms to improve health care quality as the Secretary may by regulation require.
 
@@ -426,11 +446,11 @@ Section 2726 of the Public Health Service Act \[42 U.S.C. 300gg–26\] shall app
 
 An Exchange may not establish rules that conflict with or prevent the application of regulations promulgated by the Secretary under this subchapter.
 
-(Pub. L. 111–148, title I, §1311, title X, §§10104(e)–(h), 10203(a), Mar. 23, 2010, 124 Stat. 173, 900, 901, 927.)
+(Pub. L. 111–148, title I, §1311, title X, §§10104(e)–(h), 10203(a), Mar. 23, 2010, 124 Stat. 173, 900, 901, 927; Pub. L. 116–94, div. N, title I, §608, Dec. 20, 2019, 133 Stat. 3130.)
 
 #### References in Text
 
-Subtitles A and C, referred to in subsec. (a)(4)(A)(i)(II), are subtitles A (§§1001–1004) and C (§§1201–1255), respectively, of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, 154. Subtitle A enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of this title, transferred sections 300gg–4 to 300gg–7 and 300gg–13 of this title to sections 300gg–25 to 300gg–28 and 300gg–9 of this title, respectively, amended sections 300gg–11, 300gg–12, and 300gg–21 to 300gg–23 of this title, and enacted provisions set out as a note under section 300gg–11 of this title. Subtitle C enacted subchapter II of this chapter and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, transferred section 300gg of this title to section 300gg–3 of this title, amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under section 300gg of this title. For complete classification of subtitles A and C to the Code, see Tables.
+Subtitles A and C, referred to in subsec. (a)(4)(A)(i)(II), are subtitles A (§§1001–1004) and C (§§1201–1255), respectively, of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, 154. Subtitle A enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of this title, transferred sections 300gg–4 to 300gg–7 and 300gg–13 of this title to sections 300gg–25 to 300gg–28 and 300gg–9 of this title, respectively, amended sections 300gg–11, 300gg–12, and 300gg–21 to 300gg–23 of this title, and enacted provisions set out as a note under section 300gg–11 of this title. Subtitle C enacted subchapter II of this chapter and sections 300gg to 300gg–2 and 300gg–4to 300gg–7 of this title, transferred section 300gg of this title to section 300gg–3 of this title, amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under section 300gg of this title. For complete classification of subtitles A and C to the Code, see Tables.
 
 This title, referred to in subsecs. (b)(1) and (e)(3)(A)(viii), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
@@ -445,6 +465,8 @@ The Public Health Service Act, referred to in subsec. (h)(1)(A)(i), is act July 
 This subchapter, referred to in subsec. (k), was in the original "this subtitle", meaning subtitle D of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 162, which enacted this subchapter and amended sections 501, 4958, and 6033 of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c)(7). Pub. L. 116–94 added par. (7).
 
 <b>2010</b>—Subsec. (c)(1)(I). Pub. L. 111–148, §10203(a), added subpar. (I).
 

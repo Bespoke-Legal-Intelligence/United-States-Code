@@ -54,7 +54,7 @@
 
 #### (A) Notice
 
-&emsp;&emsp;If the Secretary disapproves a proposed plan under paragraph (1)(B), the Secretary shall provide to the Indian tribe a written notice of the disapproval, including any reason why the proposed plan was disapproved.
+&emsp;&emsp;If the Secretary disapproves a proposed plan under paragraph (1)(B), the Secretary shall provide to the Indian tribe a writtennotice of the disapproval, including any reason why the proposed plan was disapproved.
 
 #### (B) Action by tribes
 
@@ -94,7 +94,7 @@ Subject to section 5614 of this title, an Indian trust asset management plan, an
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(2)(D), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(2)(D), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

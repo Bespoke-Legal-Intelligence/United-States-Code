@@ -12,7 +12,7 @@ Authority.—Subject to subsection (b), the head of a covered agency may—
 
 Determination and Notification.—The head of a covered agency may exercise the authority provided in subsection (a) only after—
 
-&emsp;(1) obtaining a joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense, on the basis of a risk assessment by the Under Secretary of Defense for Intelligence, that there is a significant supply chain risk to a covered system;
+&emsp;(1) obtaining a joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense, on the basis of a risk assessment by the Under Secretary of Defense for Intelligence,<sup>1</sup> that there is a significant supply chain risk to a covered system;
 
 &emsp;(2) making a determination in writing, in unclassified or classified form, with the concurrence of the Under Secretary of Defense for Acquisition and Sustainment, that—
 
@@ -28,7 +28,7 @@ Determination and Notification.—The head of a covered agency may exercise the 
 
 &emsp;&emsp;(B) the joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense as specified in paragraph (1);
 
-&emsp;&emsp;(C) a summary of the risk assessment by the Under Secretary of Defense for Intelligence that serves as the basis for the joint recommendation specified in paragraph (1); and
+&emsp;&emsp;(C) a summary of the risk assessment by the Under Secretary of Defense for Intelligence <sup>1</sup> that serves as the basis for the joint recommendation specified in paragraph (1); and
 
 &emsp;&emsp;(D) a summary of the basis for the determination, including a discussion of less intrusive measures that were considered and why they were not reasonably available to reduce supply chain risk.
 
@@ -44,7 +44,7 @@ Limitation on Disclosure.—If the head of a covered agency has exercised the au
 
 &emsp;(2) the agency head shall—
 
-&emsp;&emsp;(A) notify appropriate parties of a covered procurement action and the basis for suchaction only to the extent necessary to effectuate the covered procurement action;
+&emsp;&emsp;(A) notify appropriate parties of a covered procurement action and the basis for such action only to the extent necessary to effectuate the covered procurement action;
 
 &emsp;&emsp;(B) notify other Department of Defense components or other Federal agencies responsible for procurements that may be subject to the same or similar supply chain risk, in a manner and to the extent consistent with the requirements of national security; and
 
@@ -92,7 +92,7 @@ Supply chain risk.—The term "supply chain risk" means the risk that an adversa
 
 &emsp;(5)
 
-Covered system.—The term "covered system" means a national security system, as that term is defined in section 3542(b) <sup>1</sup> of title 44.
+Covered system.—The term "covered system" means a national security system, as that term is defined in section 3552(b)(6) of title 44.
 
 &emsp;(6)
 
@@ -106,7 +106,15 @@ Appropriate congressional committees.—The term "appropriate congressional comm
 
 &emsp;&emsp;(B) in the case of a covered system not otherwise included in subparagraph (A), the congressional defense committees.
 
-(Added Pub. L. 115–232, div. A, title VIII, §881(a)(1), Aug. 13, 2018, 132 Stat. 1910.)
+(Added Pub. L. 115–232, div. A, title VIII, §881(a)(1), Aug. 13, 2018, 132 Stat. 1910; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(43), Dec. 20, 2019, 133 Stat. 1814.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be "section 3552(b)".</i>
+#### Amendments
+
+<b>2019</b>—Subsec. (e)(5). Pub. L. 116–92 substituted "section 3552(b)(6)" for "section 3542(b)".
+
+#### Change of Name
+
+Under Secretary of Defense for Intelligence redesignated and references deemed to refer to Under Secretary of Defense for Intelligence and Security, see section 1621(a) of Pub. L. 116–92, set out as a note under section 137 of this title.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

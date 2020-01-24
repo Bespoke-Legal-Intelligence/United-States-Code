@@ -60,7 +60,7 @@ The Administration may provide financial assistance to private nonprofit organiz
 
 #### (d) Contract authority
 
-A women's business center may enter into a contract with a Federal department or agency to provide specific assistance to women andother underserved small business concerns. Performance of such contract should not hinder the women's business centers in carrying out the terms of the grant received by the women's business centers from the Administration.
+A women's business center may enter into a contract with a Federal department or agency to provide specific assistance to women and other underserved small business concerns. Performance of such contract should not hinder the women's business centers in carrying out the terms of the grant received by the women's business centers from the Administration.
 
 #### (e) Submission of 5-year plan
 
@@ -70,7 +70,7 @@ Each applicant organization initially shall submit a 5-year plan to the Administ
 
 The Administration shall evaluate and rank applicants in accordance with predetermined selection criteria that shall be stated in terms of relative importance. Such criteria and their relative importance shall be made publicly available and stated in each solicitation for applications made by the Administration. The criteria shall include—
 
-&emsp;(1) the experience of the applicant in conducting programs or ongoing efforts designed to impart or upgrade the business skills of women business owners or potential owners;
+&emsp;(1) the experience of the applicant in conducting programs or ongoing efforts designedto impart or upgrade the business skills of women business owners or potential owners;
 
 &emsp;(2) the present ability of the applicant to commence a project within a minimum amount of time;
 
@@ -148,7 +148,7 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 #### (2) Conditions for continued funding
 
-&emsp;In determining whether to award a contract (as a sustainability grant) under subsection (l)or to renew a contract (either as a grant or cooperative agreement) under this section with a women's business center, the Administration—
+&emsp;In determining whether to award a contract (as a sustainability grant) under subsection (l) or to renew a contract (either as a grant or cooperative agreement) under this section with a women's business center, the Administration—
 
 &emsp;&emsp;(A) shall consider the results of the most recent examination of the center under paragraph (1); and
 
@@ -160,7 +160,7 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 #### (i) Contract authority
 
-The authority of the Administrator to enter into contracts shall be in effect for each fiscal year only to the extent and in the amounts as are provided in advance in appropriations Acts. After the Administrator has entered into a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate, or fail to renew or extend any such contract unless the Administrator provides the applicant with written notification setting forth the reasons therefore <sup>1</sup> and affords the applicant an opportunity for a hearing, appeal, or other administrative proceeding under chapter 5 of title 5.
+The authority of the Administrator to enter into contracts shall be in effect for each fiscalyear only to the extent and in the amounts as are provided in advance in appropriations Acts. After the Administrator has entered into a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate, or fail to renew or extend any such contract unless the Administrator provides the applicant with written notification setting forth the reasons therefore <sup>1</sup> and affords the applicant an opportunity for a hearing, appeal, or other administrative proceeding under chapter 5 of title 5.
 
 #### (j) Management report
 
@@ -262,7 +262,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (C) Notification
 
-&emsp;&emsp;Not later than 60 days after the date of the deadline to submit applications for each fiscal year, the Administrator shall approve or deny any application under this subsection and notify the applicant for each such application.
+&emsp;&emsp;Not later than 60 days after the date of the deadline to submit applications for each fiscal year, the Administrator shall approve ordeny any application under this subsection and notify the applicant for each such application.
 
 #### (4) Award of grants
 
@@ -356,7 +356,7 @@ Subsecs. (m), (n). Pub. L. 110–28, §8305(a), added subsecs. (m) and (n).
 
 Subsec. (b). Pub. L. 106–165, §2(2), inserted "nonprofit" after "private" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 106–17, §2(a), inserted "and" after the semicolon in subpar. (A), added subpar. (B), and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (c)(1). Pub. L. 106–17, §2(a), inserted "and" after the semicolon in subpar. (A), added subpar. (B),and struck out former subpars. (B) and (C) which read as follows:
 
 "(B) in the third and fourth years, 1 non-Federal dollar for each Federal dollar; and
 
@@ -440,7 +440,7 @@ In general.—Subject to paragraph (2), any organization conducting a 3-year pro
 
 "(2)
 
-Terms of assistance for certain organizations.—Any organization operating in the third year of a 3-year project under section 29 of the Small Business Act (15 U.S.C. 656) (as in effect on the day before the effective date of this Act) on September 30, 1997, may request an extension of the term of that project to a total term of 5 years. If such an extension is made, duringthe fourth and fifth years of the project, the organization shall receive financial assistance in accordance with section 29(c)(1)(C) of the Small Business Act (as amended by this section) subject to procedures established by the Administrator, in coordination with the Assistant Administrator of the Office of Women's Business Ownership established under section 29 of the Small Business Act (15 U.S.C. 656) (as amended by this section)."
+Terms of assistance for certain organizations.—Any organization operating in the third year of a 3-year project under section 29 of the Small Business Act (15 U.S.C. 656) (as in effect on the day before the effective date of this Act) on September 30, 1997, may request an extension of the term of that project to a total term of 5 years. If such an extension is made, during the fourth and fifth years of the project, the organization shall receive financial assistance in accordance with section 29(c)(1)(C) of the Small Business Act (as amended by this section) subject to procedures established by the Administrator, in coordination with the Assistant Administrator of the Office of Women's Business Ownership established under section 29 of the Small Business Act (15 U.S.C. 656) (as amended by this section)."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "therefor".</i>
 

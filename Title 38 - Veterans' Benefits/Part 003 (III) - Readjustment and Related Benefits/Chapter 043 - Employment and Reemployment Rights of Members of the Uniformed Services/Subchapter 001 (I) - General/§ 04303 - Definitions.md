@@ -6,7 +6,7 @@ For the purposes of this chapter—
 
 &emsp;(2) The term "benefit", "benefit of employment", or "rights and benefits" means the terms, conditions, or privileges of employment, including any advantage, profit, privilege, gain, status, account, or interest (including wages or salary for work performed) that accrues by reason of an employment contract or agreement or an employer policy, plan, or practice and includes rights and benefits under a pension plan, a health plan, an employee stock ownership plan, insurance coverage and awards, bonuses, severance pay, supplemental unemployment benefits, vacations, and the opportunity to select work hours or location of employment.
 
-&emsp;(3) The term "employee" means any person employed by an employer. Such term includes any person who is a citizen, national, or permanent resident alien of the United States employed in a workplace in a foreign countryby an employer that is an entity incorporated or otherwise organized in the United States or that is controlled by an entity organized in the United States, within the meaning of section 4319(c) of this title.
+&emsp;(3) The term "employee" means any person employed by an employer. Such term includes any person who is a citizen, national, or permanent resident alien of the United States employed in a workplace in a foreign country by an employer that is an entity incorporated or otherwise organized in the United States or that is controlled by an entity organized in the United States, within the meaning of section 4319(c) of this title.
 
 &emsp;(4)(A) Except as provided in subparagraphs (B) and (C), the term "employer" means any person, institution, organization, or other entity that pays salary or wages for work performed or that has control over employment opportunities, including—
 
@@ -104,7 +104,7 @@ Par. (4)(D). Pub. L. 111–275, §702(a), added subpar. (D).
 
 Pub. L. 107–14, §8(a)(11), struck out second period at end.
 
-<b>2000</b>—Par. (13). Pub. L. 106–419, §323(a)(2), inserted before period at end ", and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32."
+<b>2000</b>—Par. (13). Pub. L. 106–419, §323(a)(2), inserted before period at end ", and a period for which a person is absent from employment for the purpose of performingfuneral honors duty as authorized by section 12503 of title 10 or section 115 of title 32."
 
 Pub. L. 106–419, §323(a)(1), as amended by Pub. L. 107–14, §8(b)(2), struck out "and" after "National Guard duty,".
 

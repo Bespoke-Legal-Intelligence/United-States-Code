@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Office.—Not later than 90 days after the date of enactment of this section, the Secretary of Transportation shall identify, within the Office of Commercial Space Transportation, a centralized policy office to be known as the Office of Spaceports.
+Establishment of Office.—Not later than 90 days after the date of enactment of this section, the Secretary of Transportation shall identify, within the Office of Commercial SpaceTransportation, a centralized policy office to be known as the Office of Spaceports.
 
 (b)
 
@@ -20,7 +20,7 @@ Functions.—The Office of Spaceports shall—
 
 (c)
 
-Recognition.—In carrying out the functions assigned in subsection (b), the Secretary shall recognize the unique needs and distinctions of spaceports that host—
+Recognition.—In carrying out the functions assigned in subsection (b), the Secretary shall recognize the unique needs and distinctions of spaceports that host— <sup>1</sup>
 
 &emsp;(1) launches to or reentries from orbit; and
 
@@ -39,4 +39,6 @@ Definition.—In this section the term "spaceport" means a launch or reentry sit
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
+
+<i><sup>1</sup></i><i> So in original. The dash probably should follow "that" and the word "host" probably should appear at the beginning of par. (1).</i>
 

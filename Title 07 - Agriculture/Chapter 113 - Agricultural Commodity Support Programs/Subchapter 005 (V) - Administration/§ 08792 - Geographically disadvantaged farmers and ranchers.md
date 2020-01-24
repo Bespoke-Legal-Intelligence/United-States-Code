@@ -24,7 +24,7 @@ Subject to the availability of funds under subsection (d), the Secretary may pro
 
 #### (2) Proof of eligibility
 
-&emsp;To be eligible to receive assistance under paragraph (1), a geographically disadvantaged farmer or rancher shall demonstrate to the Secretary that transportation of the agricultural commodity or inputs occurred over a distance of more than 30 miles, as determined by the Secretary.
+&emsp;To be eligible to receive assistance under paragraph (1), a geographically disadvantagedfarmer or rancher shall demonstrate to the Secretary that transportation of the agricultural commodity or inputs occurred over a distance of more than 30 miles, as determined by the Secretary.
 
 #### (3) Amount
 

@@ -22,7 +22,7 @@ Pub. L. 102–477, §1, Oct. 23, 1992, 106 Stat. 2302, as amended by Pub. L. 115
 
 #### Effect of Pub. L. 115–93
 
-Pub. L. 115–93, §17, Dec. 18, 2017, 131 Stat. 2037, provided that: "Nothing in this Act \[see Short Title of 2017Amendment note above\] or any amendment made by this Act—
+Pub. L. 115–93, §17, Dec. 18, 2017, 131 Stat. 2037, provided that: "Nothing in this Act \[see Short Title of 2017 Amendment note above\] or any amendment made by this Act—
 
 &emsp;"(1) affects any plan approved under the Indian Employment, Training and Related Services Act of 1992 (25 U.S.C. 3401 et seq.) (as so redesignated) before the date of enactment of this Act \[Dec. 18, 2017\];
 
@@ -66,5 +66,5 @@ Purposes.—The purposes of this title \[see Short Title of 2000 Amendment note 
 
 #### Report on Expanding Opportunities for Program Integration
 
-Pub. L. 106–568, title XI, §1104, Dec. 27, 2000, 114 Stat. 2932, provided that: "Not later than 1 year after the date of the enactment of this title \[Dec. 27, 2000\], the Secretary, the Secretary of Health and Human Services, the Secretary of Labor, and the tribes and organizations participating in the integration initiative under this title \[see Short Title of 2000 Amendment note above\] shall submit a report to the Committee on Indian Affairs of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives on the opportunities for expanding the integration of human resource development and economic development programs under this title, and the feasibility of establishing Joint Funding Agreements to authorize tribes to access and coordinated \[sic\] funds and resources from various agencies for purposes of human resources development, physical infrastructure development, and economic development assistance in general. Such report shall identify programs or activities which might be integrated and make recommendations for the removal of any statutory or other barriers to such integration."
+Pub. L. 106–568, title XI, §1104, Dec. 27, 2000, 114 Stat. 2932, provided that not later than 1 year after Dec. 27, 2000, the Secretary, the Secretary of Health and Human Services, the Secretary of Labor, and the tribes and organizations participating in the integration initiative under title XI of Pub. L. 106–568 (see Short Title of 2000 Amendment note above) would submit a report to Congress on the opportunities for expanding the integration of human resource development and economic development programs under such title, and the feasibility of establishing Joint Funding Agreements to authorize tribes to access and coordinate funds and resources from various agencies for human resources development, physical infrastructure development, and economic development assistance.
 

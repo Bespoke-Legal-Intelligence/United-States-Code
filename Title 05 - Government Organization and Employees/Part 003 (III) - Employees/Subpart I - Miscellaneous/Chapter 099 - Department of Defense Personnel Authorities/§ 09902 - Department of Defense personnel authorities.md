@@ -158,7 +158,7 @@ Provisions Related to Separation and Retirement Incentives.—
 
 &emsp;(1) The Secretary may establish a program within the Department of Defense under which employees may be eligible for early retirement, offered separation incentive pay to separate from service voluntarily, or both. This authority may be used to reduce the number of personnel employed by the Department of Defense or to restructure the workforce to meet mission objectives without reducing the overall number of personnel. This authority is in addition to, and notwithstanding, any other authorities established by law or regulation for such programs.
 
-&emsp;(2)(A) The Secretary may not authorize the payment of voluntary separation incentive pay under paragraph (1) to more than 25,000 employees in any fiscal year, except that employees who receive voluntary separation incentive pay as a result of a closure or realignment of a military installation under the Defense Base Closure and Realignment Act of 1990 (title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) shall not be included in that number.
+&emsp;(2)(A) The Secretary may not authorize the payment of voluntary separation incentivepay under paragraph (1) to more than 25,000 employees in any fiscal year, except that employees who receive voluntary separation incentive pay as a result of a closure or realignment of a military installation under the Defense Base Closure and Realignment Act of 1990 (title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) shall not be included in that number.
 
 &emsp;(B) The Secretary shall prepare a report each fiscal year setting forth the number of employees who received such pay as a result of a closure or realignment of a military base as described under subparagraph (A).
 
@@ -198,7 +198,7 @@ Provisions Relating to Reemployment.—
 
 &emsp;(2)(A) An annuitant retired under section 8336(d)(1) or 8414(b)(1)(A) receiving an annuity from the Civil Service Retirement and Disability Fund, who becomes employed in a position within the Department of Defense after the date of enactment of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136), may elect to be subject to section 8344 or 8468 (as the case may be).
 
-&emsp;(B) An election for coverage under this paragraph shall be filed not later than the later of 90 days after the date the Department of Defense—
+&emsp;(B) An election for coverage under this paragraph shall be filed not later than the later of90 days after the date the Department of Defense—
 
 &emsp;&emsp;(i) prescribes regulations to carry out this subsection; or
 
@@ -290,7 +290,7 @@ Subsec. (i). Pub. L. 110–417 substituted "the requirements and limitations in 
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2011 Amendment
 
@@ -360,7 +360,7 @@ In general.—The Secretary of Defense shall take all actions which may be neces
 
 &emsp;&emsp;"(B) if subparagraph (A) does not apply, the statutory pay system and all other aspects of the personnel system that would have applied if the National Security Personnel System had never been established.
 
-> &emsp;No employee shall suffer any loss of or decrease in pay because of the preceding sentence, and, for purposes of carrying out such preceding sentence, any determination of the system that last applied (or that would have applied) with respect to an employee or position shall take into account any modifications to such system pursuant to the provisions of subsections (a) and (b) of section 9902 of title 5, United States Code, as amended by subsection (d).
+> &emsp;No employee shall suffer any loss of or decrease in pay because of the preceding sentence, and, for purposes of carrying out such preceding sentence, any determination of the system that last applied (or that would have applied) with respect to an employeeor position shall take into account any modifications to such system pursuant to the provisions of subsections (a) and (b) of section 9902 of title 5, United States Code, as amended by subsection (d).
 
 &emsp;"(2)
 
@@ -446,45 +446,7 @@ Pub. L. 109–13, div. A, title I, §1020, May 11, 2005, 119 Stat. 251, provided
 
 #### Pilot Program for Improved Civilian Personnel Management
 
-Pub. L. 108–136, div. A, title XI, §1111, Nov. 24, 2003, 117 Stat. 1634, provided that:
-
-"(a)
-
-Pilot Program.—The Secretary of Defense may carry out a pilot program using an automated workforce management system to demonstrate improved efficiency in the performance of civilian personnel management. The automated workforce management system used for the pilot program shall be capable of automating the following workforce management functions:
-
-&emsp;"(1) Job definition.
-
-&emsp;"(2) Position management.
-
-&emsp;"(3) Recruitment.
-
-&emsp;"(4) Staffing.
-
-&emsp;"(5) Performance management.
-
-"(b)
-
-Authorities Under Pilot Program.—Under the pilot program, the Secretary of Defense shall provide the Secretary of each military department with the authority for the following:
-
-&emsp;"(1) To use an automated workforce management system for the civilian workforce of that military department to assess the potential of such a system to do the following:
-
-&emsp;&emsp;"(A) Substantially reduce hiring cycle times.
-
-&emsp;&emsp;"(B) Lower labor costs.
-
-&emsp;&emsp;"(C) Increase efficiency.
-
-&emsp;&emsp;"(D) Improve performance management.
-
-&emsp;&emsp;"(E) Provide better management reporting.
-
-&emsp;&emsp;"(F) Enable that system to make operational new personnel management flexibilities granted under the civilian personnel transformation program.
-
-&emsp;"(2) Identify at least one regional civilian personnel center (or equivalent) in that military department for participation in the pilot program.
-
-"(c)
-
-Duration of Pilot Program.—The Secretary of Defense may carry out the pilot program under this section at each selected regional civilian personnel center for a period of two years beginning not later than March 1, 2004."
+Pub. L. 108–136, div. A, title XI, §1111, Nov. 24, 2003, 117 Stat. 1634, authorized the Secretary of Defense to carry out a pilot program using an automated workforce management system to demonstrate improved efficiency in the performance of civilian personnel management and provided that the Secretary could carry out the pilot program for a period of two years beginning not later than Mar. 1, 2004.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

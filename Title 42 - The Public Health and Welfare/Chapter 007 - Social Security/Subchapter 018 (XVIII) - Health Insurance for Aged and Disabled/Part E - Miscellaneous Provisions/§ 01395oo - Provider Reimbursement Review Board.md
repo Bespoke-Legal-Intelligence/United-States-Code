@@ -8,7 +8,7 @@ Any provider of services which has filed a required cost report within the time 
 
 &emsp;&emsp;(A)(i) is dissatisfied with a final determination of the organization serving as its fiscal intermediary pursuant to section 1395h of this title as to the amount of total program reimbursement due the provider for the items and services furnished to individuals for which payment may be made under this subchapter for the period covered by such report, or
 
-&emsp;&emsp;(ii) is dissatisfied with a final determination of the Secretary as to the amount of thepayment under subsection (b) or (d) of section 1395ww of this title,
+&emsp;&emsp;(ii) is dissatisfied with a final determination of the Secretary as to the amount of the payment under subsection (b) or (d) of section 1395ww of this title,
 
 &emsp;&emsp;(B) has not received such final determination from such intermediary on a timely basis after filing such report, where such report complied with the rules and regulations of the Secretary relating to such report, or
 
@@ -38,7 +38,7 @@ The Board shall have full power and authority to make rules and establish proced
 
 (1) A decision of the Board shall be final unless the Secretary, on his own motion, and within 60 days after the provider of services is notified of the Board's decision, reverses, affirms, or modifies the Board's decision. Providers shall have the right to obtain judicial review of any final decision of the Board, or of any reversal, affirmance, or modification by the Secretary, by a civil action commenced within 60 days of the date on which notice of any final decision by the Board or of any reversal, affirmance, or modification by the Secretary is received. Providers shall also have the right to obtain judicial review of any action of the fiscal intermediary which involves a question of law or regulations relevant to the matters in controversy whenever the Board determines (on its own motion or at the request of a provider of services as described in the following sentence) that it is without authority to decide the question, by a civil action commenced within sixty days of the date on which notification of such determination is received. If a provider of services may obtain a hearing under subsection (a) and has filed a request for such a hearing, such provider may file a request for a determination by the Board of its authority to decide the question of law or regulations relevant to the matters in controversy (accompanied by such documents and materials as the Board shall require for purposes of rendering such determination). The Board shall render such determination in writing within thirty days after the Board receives the request and such accompanying documents and materials, and the determination shall be considered a final decision and not subject to review by the Secretary. If the Board fails to render such determination within such period, the provider may bring a civil action (within sixty days of the end of such period) with respect to the matter in controversy contained in such request for a hearing. Such action shall be brought in the district court of the United States for the judicial district in which the provider is located (or, in an action brought jointly by several providers, the judicial district in which the greatest number of such providers are located) or in the District Court for the District of Columbia and shall be tried pursuant to the applicable provisions under chapter 7 of title 5 notwithstanding any other provisions in section 405 of this title. Any appeal to the Board or action for judicial review by providers which are under common ownership or control or which have obtained a hearing under subsection (b) must be brought by such providers as a group with respect to any matter involving an issue common to such providers.
 
-(2) Where a provider seeks judicial review pursuant to paragraph (1), the amount in controversy shall be subject to annual interest beginning on the first day of the first month beginning after the 180-day period as determinedpursuant to subsection (a)(3) and equal to the rate of interest on obligations issued for purchase by the Federal Hospital Insurance Trust Fund for the month in which the civil action authorized under paragraph (1) is commenced, to be awarded by the reviewing court in favor of the prevailing party.
+(2) Where a provider seeks judicial review pursuant to paragraph (1), the amount in controversy shall be subject to annual interest beginning on the first day of the first month beginning after the 180-day period as determined pursuant to subsection (a)(3) and equal to the rate of interest on obligations issued for purchase by the Federal Hospital Insurance Trust Fund for the month in which the civil action authorized under paragraph (1) is commenced, to be awarded by the reviewing court in favor of the prevailing party.
 
 (3) No interest awarded pursuant to paragraph (2) shall be deemed income or cost for the purposes of determining reimbursement due providers under this chapter.
 
@@ -54,7 +54,7 @@ The Board shall be composed of five members appointed by the Secretary without r
 
 #### (i) Technical and clerical assistance
 
-The Board is authorized to engage such technical assistance as may be required to carry out its functions, and the Secretary shall, in addition, make available to the Board such secretarial, clerical, and other assistance as the Board may require to carry out its functions.
+The Board is authorized to engage such technical assistance as may be required to carry outits functions, and the Secretary shall, in addition, make available to the Board such secretarial, clerical, and other assistance as the Board may require to carry out its functions.
 
 #### (j) "Provider of services" defined
 
@@ -106,7 +106,7 @@ Amendment by section 4161(b)(4) of Pub. L. 101–508 applicable to cost reports 
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. B, title III, §2351(a)(2), July 18, 1984, 98 Stat. 1099, provided that: "The amendmentmade by paragraph (1) \[amending this section\] shall be effective with respect to any civil action commenced on or after the date of the enactment of this Act \[July 18, 1984\]."
+Pub. L. 98–369, div. B, title III, §2351(a)(2), July 18, 1984, 98 Stat. 1099, provided that: "The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any civil action commenced on or after the date of the enactment of this Act \[July 18, 1984\]."
 
 Pub. L. 98–369, div. B, title III, §2351(b)(2), July 18, 1984, 98 Stat. 1099, provided that: "The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any appeal or action brought on or after the date of the enactment of this Act \[July 18, 1984\]."
 

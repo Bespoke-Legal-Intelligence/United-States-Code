@@ -84,7 +84,7 @@ Subsec. (b). Pub. L. 90–129, §102, substituted limitation on grants for const
 
 Subsec. (c). Pub. L. 90–129, §103(c), designated existing provisions as par. (1), restricted such provisions to noncommercial educational television broadcasting facilities, and added par. (2).
 
-Subsec. (d). Pub. L. 90–129, §103(d), inserted in cls. (2) and (3) "noncommercial" and "or noncommercial educational radio broadcasting facilities, as the case may be," before and after "educational television broadcasting facilities", respectively.
+Subsec. (d). Pub. L. 90–129, §103(d), inserted in cls. (2) and (3) "noncommercial" and "or noncommercial educational radio broadcasting facilities, as the case maybe," before and after "educational television broadcasting facilities", respectively.
 
 Subsec. (e). Pub. L. 90–129, §104, increased the maximum Federal share in the cost of constructing educational broadcasting facilities from 50 to 75 percent, eliminated the additional credit, formerly allowed the grantee, of 25 percent of the cost of facilities owned by the applicant on the date his application is filed, eliminated the prohibition against using not more than 15 percent of a grant for the acquisition and installation of interconnection facilities, microwave equipment, boosters, translators, and repeaters, and provided for payment of cost of the project from the sum available therefor.
 

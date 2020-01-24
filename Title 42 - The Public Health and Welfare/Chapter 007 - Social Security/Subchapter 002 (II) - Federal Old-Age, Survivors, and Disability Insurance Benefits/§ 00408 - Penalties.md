@@ -18,7 +18,7 @@ Whoever—
 
 &emsp;(4) having knowledge of the occurrence of any event affecting (1) his initial or continued right to any payment under this subchapter, or (2) the initial or continued right to any payment of any other individual in whose behalf he has applied for or is receiving such payment, conceals or fails to disclose such event with an intent fraudulently to secure payment either in a greater amount than is due or when no payment is authorized; or
 
-&emsp;(5) having made application to receive payment under this subchapter for the use and benefit of another and having received such a payment, knowingly and willfully converts such a payment, or any part thereof, to a use other than for the use and benefit of such other person; or
+&emsp;(5) having made application to receive payment under this subchapter for the use and benefit of another and having received such a payment, knowingly and willfully convertssuch a payment, or any part thereof, to a use other than for the use and benefit of such other person; or
 
 &emsp;(6) willfully, knowingly, and with intent to deceive the Commissioner of Social Security as to his true identity (or the true identity of any other person) furnishes or causes to be furnished false information to the Commissioner of Social Security with respect to any information required by the Commissioner of Social Security in connection with the establishment and maintenance of the records provided for in section 405(c)(2) of this title; or
 
@@ -64,7 +64,7 @@ Any person or other entity who is convicted of a violation of any of the provisi
 
 #### (d) Effect upon certification as payee; definitions
 
-Any individual or entity convicted of a felony under this section or under section 1383a(b) <sup>1</sup> of this title may not be certified as a payee under section 405(j) of this title. For the purpose of subsection (a)(7), the terms "social security number" and "social security account number" mean such numbers as are assigned by the Commissioner of Social Security under section 405(c)(2) of this title whether or not, in actual use, such numbers are called social security numbers.
+Any individual or entity convicted of a felony under this section or under section 1383a(b) <sup>1</sup> of this title may not be certified as a payee under section 405(j) of this title. For the purpose ofsubsection (a)(7), the terms "social security number" and "social security account number" mean such numbers as are assigned by the Commissioner of Social Security under section 405(c)(2) of this title whether or not, in actual use, such numbers are called social security numbers.
 
 #### (e) Application of subsection (a)(6) and (7) to certain aliens
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–123, §4(c), Dec. 29, 1981, 95 Stat. 1664, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall be effective with respect to violations committed after the date of the enactment of this Act \[Dec. 29, 1981\]."
+Pub. L. 97–123, §4(c), Dec. 29, 1981, 95 Stat. 1664, provided that: "The amendments made by subsections (a)and (b) \[amending this section\] shall be effective with respect to violations committed after the date of the enactment of this Act \[Dec. 29, 1981\]."
 
 #### Effective Date of 1972 Amendment
 

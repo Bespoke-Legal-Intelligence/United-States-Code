@@ -28,7 +28,7 @@ This section reflects the opinion of the Judge Advocate General of the Navy (JAG
 
 In subsection (a) the words "by sentence of a general court-martial, or in commutation thereof" are omitted since the separation from the service of a warrant officer, W–1, by sentence of court-martial is effected by dishonorable discharge.
 
-In subsection (b) the words "from his place of duty" are omitted as surplusage. The words "at least" are substituted for the words "or more". The words "by a court other than a court-martial or other military court" are substituted for the words "by the civil authorities".
+In subsection (b) the words "from his place of duty" are omitted as surplusage. The words "at least" are substituted for the words "or more". The words "by a court other than a court-martial or other militarycourt" are substituted for the words "by the civil authorities".
 
 #### Prior Provisions
 

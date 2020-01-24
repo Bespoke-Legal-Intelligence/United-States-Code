@@ -2,7 +2,7 @@
 
 (a)
 
-General.—(1) On application of the owner of an aircraft that meets the requirements of section 44102 of this title, the Administrator of the Federal Aviation Administration shall—
+General.—(1) On application of the owner of an aircraft that meets the requirements ofsection 44102 of this title, the Administrator of the Federal Aviation Administration shall—
 
 &emsp;(A) register the aircraft; and
 
@@ -120,5 +120,5 @@ In General.—A memorandum of agreement between the Administrator \[of the Feder
 
 "(b)
 
-Existing Memoranda To Be Conformed.—Not later than 30 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall conform any memoranda of agreement, in effect on such date of enactment, between the Federal Aviation Administration and a person under which that person obtains aircraft situational display data to incorporate the requirements of subsection (a)."
+Existing Memoranda To Be Conformed.—Not later than 30 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall conform any memoranda of agreement, in effect on such date ofenactment, between the Federal Aviation Administration and a person under which that person obtains aircraft situational display data to incorporate the requirements of subsection (a)."
 

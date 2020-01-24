@@ -2,7 +2,7 @@
 
 #### (a) Preference categories
 
-Subject to the conditions and provisions of this chapter and to any valid intervening rights acquired under the laws of the United States, any mining claim located under the mining laws of the United States subsequent to July 31, 1939, and prior to February 10, 1954, on lands of theUnited States, which at the time of location were—
+Subject to the conditions and provisions of this chapter and to any valid intervening rights acquired under the laws of the United States, any mining claim located under the mining laws of the United States subsequent to July 31, 1939, and prior to February 10, 1954, on lands of the United States, which at the time of location were—
 
 &emsp;(1) included in a permit or lease issued under the mineral leasing laws; or
 
@@ -18,7 +18,7 @@ Labor performed or improvements made after the original location of and upon or 
 
 #### (c) Withdrawal or reservation of lands
 
-As to any land covered by any mining claim which is entitled to the benefits of this chapter under the provisions of subsection (a) of this section, any withdrawal or reservation of lands made after the original location of such mining claim is hereby modified and amended so that the effect thereof upon such mining claim shall be the same as if such mining claim had been located upon lands of the United States which, subsequent to July 31, 1939, and prior to the date of such withdrawal or reservation, were subject to location under the mining laws of the United States.
+As to any land covered by any mining claim which is entitled to the benefits of this chapterunder the provisions of subsection (a) of this section, any withdrawal or reservation of lands made after the original location of such mining claim is hereby modified and amended so that the effect thereof upon such mining claim shall be the same as if such mining claim had been located upon lands of the United States which, subsequent to July 31, 1939, and prior to the date of such withdrawal or reservation, were subject to location under the mining laws of the United States.
 
 (Aug. 13, 1954, ch. 730, §1, 68 Stat. 708.)
 

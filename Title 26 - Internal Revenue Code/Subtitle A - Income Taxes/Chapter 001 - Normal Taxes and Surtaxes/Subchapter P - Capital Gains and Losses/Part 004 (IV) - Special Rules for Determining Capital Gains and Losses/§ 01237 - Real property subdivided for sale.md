@@ -92,7 +92,7 @@ Pub. L. 91–686, §1, Jan. 12, 1971, 84 Stat. 2070, as amended by Pub. L. 99–
 
 &emsp;"(B)(i) such lot or parcel is a part of additional real property acquired before January 1, 1957, by the corporation in the near vicinity of any real property to which subparagraph (A) applies, or
 
-&emsp;"(ii) such lot or parcel is wholly or to some extent a part of any minor acquisition made after December 31, 1956, by the corporation to adjust boundaries, to fill gaps in previously acquired property, to facilitate the installation of streets, utilities, and other publicfacilities, or to facilitate the sale of adjacent property, or
+&emsp;"(ii) such lot or parcel is wholly or to some extent a part of any minor acquisition made after December 31, 1956, by the corporation to adjust boundaries, to fill gaps in previously acquired property, to facilitate the installation of streets, utilities, and other public facilities, or to facilitate the sale of adjacent property, or
 
 &emsp;"(iii) such lot or parcel is wholly or to some extent a part of a reacquisition by the corporation after December 31, 1956, of property previously owned by the corporation;
 

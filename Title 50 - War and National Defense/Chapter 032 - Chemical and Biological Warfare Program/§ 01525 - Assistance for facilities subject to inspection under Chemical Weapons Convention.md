@@ -18,7 +18,7 @@ In this section:
 
 &emsp;(3) The term "challenge inspection" means an inspection conducted under Article IX of the Convention.
 
-&emsp;(4) The term "United States National Authority" means the United States NationalAuthority established or designated pursuant to Article VII, paragraph 4, of the Convention.
+&emsp;(4) The term "United States National Authority" means the United States National Authority established or designated pursuant to Article VII, paragraph 4, of the Convention.
 
 (Pub. L. 105–85, div. A, title XIII, §1303, Nov. 18, 1997, 111 Stat. 1951.)
 

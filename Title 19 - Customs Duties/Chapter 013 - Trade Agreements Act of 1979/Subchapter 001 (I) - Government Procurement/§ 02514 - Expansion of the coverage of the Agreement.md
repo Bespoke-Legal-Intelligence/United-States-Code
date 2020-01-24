@@ -16,7 +16,7 @@ The President shall seek to establish in the renegotiation provided for in artic
 
 #### (1) Report in the event of inadequate progress
 
-&emsp;If, during the renegotiations of the Agreement, the President at any time determinesthat the renegotiations are not progressing satisfactorily and are not likely to result, within twelve months of the commencement thereof, in an expansion of the Agreement to cover purchases by the entities of the governments of developed countries which are the principal purchasers of goods and equipment in appropriate product sectors, he shall so report to the congressional committees referred to in section 2512(c)(1) of this title. Taking into account the objectives set forth in subsections (a) and (b) of this section and the factors required to be analyzed under section 2512(c) of this title, the President shall further report to such committees appropriate actions to seek reciprocity in such product sectors with such countries in the area of government procurement.
+&emsp;If, during the renegotiations of the Agreement, the President at any time determines that the renegotiations are not progressing satisfactorily and are not likely to result, within twelve months of the commencement thereof, in an expansion of the Agreement to cover purchases by the entities of the governments of developed countries which are the principal purchasers of goods and equipment in appropriate product sectors, he shall so report to the congressional committees referred to in section 2512(c)(1) of this title. Taking into account the objectives set forth in subsections (a) and (b) of this section and the factors required to be analyzed under section 2512(c) of this title, the President shall further report to such committees appropriate actions to seek reciprocity in such product sectors with such countries in the area of government procurement.
 
 #### (2) Legislative recommendations
 
@@ -24,7 +24,7 @@ The President shall seek to establish in the renegotiation provided for in artic
 
 #### (3) Annual reports
 
-&emsp;Each annual report of the President under section 163(a) of the Trade Act of 1974 \[19 U.S.C. 2213(a)\] made after July 26, 1979 shall report the actions, if any, the President deemed appropriate to establish reciprocity in appropriate product sectors with major industrial countries in the area of government procurement.
+&emsp;Each annual report of the President under section 163(a) of the Trade Act of 1974 \[19U.S.C. 2213(a)\] made after July 26, 1979 shall report the actions, if any, the President deemed appropriate to establish reciprocity in appropriate product sectors with major industrial countries in the area of government procurement.
 
 #### (e) Extension of nondiscrimination and national treatment
 

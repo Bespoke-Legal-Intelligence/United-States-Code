@@ -174,7 +174,7 @@ For purposes of this title, the term "private activity bond" means any bond issu
 
 &emsp;&emsp;&emsp;(i) The size of any qualified service area and the output capacity of property serving such area shall be determined as the close of the calendar year preceding the calendar year in which the acquisition of nongovernmental output property or the annexation occurs.
 
-&emsp;&emsp;&emsp;(ii) A qualified annexed area shall be treated as part of the qualified servicearea into which it is annexed for purposes of determining whether any other area annexed in a later year is a qualified annexed area.
+&emsp;&emsp;&emsp;(ii) A qualified annexed area shall be treated as part of the qualified service area into which it is annexed for purposes of determining whether any other area annexed in a later year is a qualified annexed area.
 
 #### (4) Exception for property converted to nonoutput use
 
@@ -198,7 +198,7 @@ For purposes of this title, the term "private activity bond" means any bond issu
 
 #### (6) Treatment of joint action agencies
 
-&emsp;With respect to nongovernmental output property acquired by a joint action agency the members of which are governmental units, this subsection shall be applied at the member level by treating each member as acquiring its proportionate share of such property.
+&emsp;With respect to nongovernmental output property acquired by a joint action agency the members of which are governmental units,this subsection shall be applied at the member level by treating each member as acquiring its proportionate share of such property.
 
 #### (7) Exception for qualified electric and natural gas supply contracts
 
@@ -444,7 +444,7 @@ Qualified bond.—For purposes of paragraph (1), the term 'qualified bond' means
 
 &emsp;"(3)
 
-Certain amendments to apply.—The following provisions of the 1986 Code shall be treated as included in section 103 and section 103A (as appropriate) of the 1954 Code and shall apply to refunding bonds described in paragraph (1):
+Certain amendments to apply.—The following provisions of the 1986 Code shall be treated as included in section 103 and section 103A (as appropriate)of the 1954 Code and shall apply to refunding bonds described in paragraph (1):
 
 &emsp;&emsp;"(A) The requirements of section 147(f) (relating to public approval required for private activity bonds) but only if the maturity date of the refunding bond is later than the maturity date of the refunded bond.
 
@@ -528,7 +528,7 @@ Bonds.—
 
 limit for certain small issue bonds.—Paragraph (10) of section 144(a) of the 1986 Code shall not apply to any bond (or series of bonds) the proceeds of which are used exclusively to refund a tax-exempt bond to which such paragraph and the corresponding provision of prior law did not apply if—
 
-&emsp;&emsp;"(A) the average maturity date of the issue of which the refunding bond is a part is not later thanthe average maturity date of the bonds to be refunded by such issue,
+&emsp;&emsp;"(A) the average maturity date of the issue of which the refunding bond is a part is not later than the average maturity date of the bonds to be refunded by such issue,
 
 &emsp;&emsp;"(B) the amount of the refunding bond does not exceed the outstanding amount of the refunded bond, and
 
@@ -558,7 +558,7 @@ Application to later issues.—Any bond to which section 144(a)(10) or 145(b) of
 
 Mortgage and Student Loan Targeting Rules To Apply to Loans Made More Than 3
 
-Years After the Date of the Original Issue.—Subsections (a)(3) and (b)(3) shall be treated as including the requirements of subsections (e) and (f) of section 143 and paragraphs (3) and (4) of section 144(b) of the 1986 Code with respect to bonds the proceeds of which are used to finance loans made more than 3 years after the date of the issuance of the original bond.
+Years Afterthe Date of the Original Issue.—Subsections (a)(3) and (b)(3) shall be treated as including the requirements of subsections (e) and (f) of section 143 and paragraphs (3) and (4) of section 144(b) of the 1986 Code with respect to bonds the proceeds of which are used to finance loans made more than 3 years after the date of the issuance of the original bond.
 
 #### "SEC. 1314. SPECIAL RULES WHICH OVERRIDE OTHER RULES IN THIS SUBTITLE.
 
@@ -646,7 +646,7 @@ Information Reporting.—In the case of a bond issued after December 31, 1986, n
 
 "(f)
 
-Abusive Transaction Limitation on Advance Refundings To Apply.—In the case of a bond issuedafter August 31, 1986, nothing in section 103(a) of the 1986 Code or any other provision of law shall be construed to provide an exemption from Federal income tax for interest on any bond if the issue of which such bond is a part is described in \[former\] paragraph (4) of section 149(d) of the 1986 Code (relating to abusive transactions).
+Abusive Transaction Limitation on Advance Refundings To Apply.—In the case of a bond issued after August 31, 1986, nothing in section 103(a) of the 1986 Code or any other provision of law shall be construed to provide an exemption from Federal income tax for interest on any bond if the issue of which such bond is a part is described in \[former\] paragraph (4) of section 149(d) of the 1986 Code (relating to abusive transactions).
 
 "(g)
 
@@ -668,7 +668,7 @@ In General.—Except as otherwise provided in this section, section 146(f) of th
 
 "(b)
 
-Certain Bonds for Carryforward Projects Outside of Volume Cap.—Bonds issued pursuant to an election under section 103(n)(10) of the 1954 Code (relating to elective carryforward of unused limitation for specified project) made before November 1, 1985, shall not be taken into account under section 146 of the 1986 Code if the carryforward project is a facility to which the amendments made by section 1301 \[for classification see section 1311(a) of this note\] do not apply by reason of section 1312(a) of this Act.
+Certain Bonds for Carryforward Projects Outside of Volume Cap.—Bonds issued pursuant to anelection under section 103(n)(10) of the 1954 Code (relating to elective carryforward of unused limitation for specified project) made before November 1, 1985, shall not be taken into account under section 146 of the 1986 Code if the carryforward project is a facility to which the amendments made by section 1301 \[for classification see section 1311(a) of this note\] do not apply by reason of section 1312(a) of this Act.
 
 "(c)
 
@@ -790,7 +790,7 @@ limitation.—The aggregate face amount of outstanding bonds to which this subse
 
 &emsp;"(4)
 
-Application of section 147(b).—A bond to which this subsection applies (other than a refunding bond) shall be treated as meeting the requirements of section 147(b) of the 1986 Code if the average maturity (determined in accordance with section 147(b)(2)(A) of such Code) of the issue of which such bond is a part does not exceed 20 years. A bond issued to refund (or which is part of a series of bonds issued to refund) a bond described in the preceding sentence shall be treated as meeting the requirements of such section if the refunding bond has a maturity date not later than the date which is 20 years after the date on which the original bond was issued.
+Application of section 147(b).—A bond to which this subsection applies (other than a refunding bond) shall be treated as meeting the requirements of section 147(b) of the 1986 Code if the average maturity (determined in accordance with section 147(b)(2)(A) ofsuch Code) of the issue of which such bond is a part does not exceed 20 years. A bond issued to refund (or which is part of a series of bonds issued to refund) a bond described in the preceding sentence shall be treated as meeting the requirements of such section if the refunding bond has a maturity date not later than the date which is 20 years after the date on which the original bond was issued.
 
 "(d)
 
@@ -962,7 +962,7 @@ Docks and wharves.—A bond issued as part of an issue 95 percent or more of the
 
 &emsp;&emsp;"(ii) the city council for the city in which the facility is to be located approved on July 30, 1985, an application for an urban development action grant with respect to such facility.
 
-> &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $36,500,000. A facility shall be treated as described in this subparagraph if it would be so described if '90 percent' weresubstituted for '95 percent' in the material preceding subparagraph (A) of this paragraph.
+> &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $36,500,000. A facility shall be treated as described in this subparagraph if it would be so described if '90 percent' were substituted for '95 percent' in the material preceding subparagraph (A) of this paragraph.
 
 "(2)
 
@@ -1090,7 +1090,7 @@ Sports facilities.—A bond issued as part of an issue 95 percent or more of the
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $35,000,000.
 
-&emsp;"(E) A facility is described in this subparagraph if such facility is a baseball stadium located in Bergen, Essex, Union, Middlesex, or Hudson County, New Jersey with respect to which governmental action occurred on November 7, 1985. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $150,000,000.
+&emsp;"(E) A facility is described in this subparagraph if such facility is a baseball stadium located in Bergen,Essex, Union, Middlesex, or Hudson County, New Jersey with respect to which governmental action occurred on November 7, 1985. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $150,000,000.
 
 &emsp;"(F) A facility is described in this subparagraph if—
 
@@ -1268,7 +1268,7 @@ Residential rental property.—A bond issued as part of an issue 95 percent or m
 
 Airports.—A bond issued as a part of an issue 95 percent or more of the net proceeds of which are to be used to provide an airport (within the meaning of section 103(b)(4)(D) of the 1954 Code) shall be treated as an exempt facility bond (for facilities described in section 142(a)(1) of the 1986 Code) for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if the facility is described in any of the following subparagraphs:
 
-&emsp;"(A) A facility is described in this subparagraph if such facility is a hotel at an airport facility serving a city described in section 631(a)(3) of the Tax ReformAct of 1984 \[section 631(a)(3) of Pub. L. 98–369, set out as a note under section 103 of this title\] (relating to certain bonds for a convention center and resource recovery project). The aggregate face amount of bonds to which this subparagraph applies shall not exceed $40,000,000.
+&emsp;"(A) A facility is described in this subparagraph if such facility is a hotel at an airport facility serving a city described in section 631(a)(3) of the Tax Reform Act of 1984 \[section 631(a)(3) of Pub. L. 98–369, set out as a note under section 103 of this title\] (relating to certain bonds for a convention center and resource recovery project). The aggregate face amount of bonds to which this subparagraph applies shall not exceed $40,000,000.
 
 &emsp;"(B) A facility is described in this subparagraph if such facility is the primary airport for a city described in paragraph (3)(C). The aggregate face amount of bonds to which this subparagraph applies shall not exceed $500,000,000. Section 148(d)(2) of the 1986 Code shall not apply to any issue to which this subparagraph applies. A facility shall be described in this subparagraph if it would be so described if '90 percent' were substituted for '95 percent' in the material preceding subparagraph (A).
 
@@ -1480,7 +1480,7 @@ Convention centers.—A bond issued as part of an issue 95 percent or more of th
 
 &emsp;&emsp;"(i) such facility is located in a city which was the subject of a convention center market analysis or study dated March 1983, and prepared by a nationally recognized accounting firm,
 
-&emsp;&emsp;"(ii) such facility's location was approved in December 1985 by a task force created jointly by the Governor of the State within which such facility will be located and the mayor of the capital city of such State, and
+&emsp;&emsp;"(ii) such facility's location was approved in December 1985 by a task force created jointly by theGovernor of the State within which such facility will be located and the mayor of the capital city of such State, and
 
 &emsp;&emsp;"(iii) the size of such facility is not more than 200,000 square feet.
 
@@ -1560,7 +1560,7 @@ Sports or convention facilities.—A bond issued as a part of an issue 95 percen
 
 &emsp;&emsp;"(ii) a feasibility report dated October 1980 with respect to such facility was presented to a city or county in which such facility is to be located, and
 
-&emsp;&emsp;"(iii) on September 7, 1982, a joint city/county resolution appointed a committee which wascharged with the task of independently reviewing the studies and present need for the facility.
+&emsp;&emsp;"(iii) on September 7, 1982, a joint city/county resolution appointed a committee which was charged with the task of independently reviewing the studies and present need for the facility.
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $60,000,000.
 
@@ -1592,7 +1592,7 @@ Parking facilities.—A bond issued as part of an issue 95 percent or more of th
 
 &emsp;&emsp;"(ii) the last parcel of land necessary for such facility was purchased on February 4, 1985, and
 
-&emsp;&emsp;"(iii) the amount of bonds to be issued with respect to such facility was increased by the State legislature of the State in which the facility is to be located as part of its 1983–1984 general appropriations act.
+&emsp;&emsp;"(iii) the amount of bonds to be issued with respect to such facility was increased by the Statelegislature of the State in which the facility is to be located as part of its 1983–1984 general appropriations act.
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $9,000,000.
 
@@ -1674,7 +1674,7 @@ Parking facilities.—A bond issued as part of an issue 95 percent or more of th
 
 &emsp;"(M) A facility is described in this subparagraph if such facility was approved by official action of the city council on July 26, 1984 (resolution number 33718), and is for the Moyer Theatre. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $8,000,000.
 
-&emsp;"(N) A facility is described in this subparagraph if it is part of a renovation project involving the OutletCompany building in Providence, Rhode Island. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $6,000,000.
+&emsp;"(N) A facility is described in this subparagraph if it is part of a renovation project involving the Outlet Company building in Providence, Rhode Island. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $6,000,000.
 
 "(10)
 
@@ -2228,7 +2228,7 @@ Volume cap not to apply to certain facilities.—For purposes of section 146 of 
 
 &emsp;"(A) construction of such facility began on May 6, 1973, and
 
-&emsp;"(B) forward funding will be provided for the remainder of the project pursuant to a negotiated agreement between State and local water users and the Secretary of the Interior signed April 15, 1986.
+&emsp;"(B) forward funding will be provided for the remainder of the project pursuant to a negotiatedagreement between State and local water users and the Secretary of the Interior signed April 15, 1986.
 
 The aggregate face amount of bonds to which this subparagraph applies shall not exceed $391,000,000.
 
@@ -2492,7 +2492,7 @@ Treatment of certain obligations.—A bond which is not an industrial developmen
 
 &emsp;&emsp;"(i) the 1985 session of the State legislature authorized revenue bonds to be issued in a maximum amount of $10,000,000, and
 
-&emsp;&emsp;"(ii) a market feasibility study dated June 30, 1986, relating to a major capital improvementalprogram at the facility was prepared for the advisory board of the State fair and exposition center by a certified public accounting firm.
+&emsp;&emsp;"(ii) a market feasibility study dated June 30, 1986, relating to a major capital improvemental program at the facility was prepared for the advisory board of the State fair and exposition center by a certified public accounting firm.
 
 > &emsp;The aggregate face amount of obligations to which this subparagraph applies shall not exceed $10,000,000.
 
@@ -2520,7 +2520,7 @@ Transitioned bonds subject to certain rules.—In the case of any bond to which 
 
 "(51)
 
-Certain additional projects.—Section 141(b) of the 1986 Code shall be applied by substituting '25' for '10' each place it appears and by not applying sections 141(b)(3) and 141(c)(1)(B) to bonds substantially all of the proceeds are used for—
+Certain additional projects.—Section 141(b) of the 1986 Code shall be applied by substituting '25' for'10' each place it appears and by not applying sections 141(b)(3) and 141(c)(1)(B) to bonds substantially all of the proceeds are used for—
 
 &emsp;"(A) A project is described in this subparagraph if it consists of a capital improvements program for a metropolitan sewer district, with respect to which a proposition was submitted to voters on August 7, 1984. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $60,000,000.
 
@@ -2604,7 +2604,7 @@ Bonds described.—For purposes of paragraph (1), a bond is described in this pa
 
 "(c)
 
-Current Refundings Not Taken Into Account in Applying Aggregate Limit on Bonds to WhichTransitional Rules Apply.—The limitation on the aggregate face amount of bonds to which any provision of section 1316(g) or 1317 applies shall not be reduced by the face amount of any bond the proceeds of which are to be used exclusively to refund any bond to which such provision applies (or any bond which is part of a series of refundings of such bond) if—
+Current Refundings Not Taken Into Account in Applying Aggregate Limit on Bonds to Which Transitional Rules Apply.—The limitation on the aggregate face amount of bonds to which any provision of section 1316(g) or 1317 applies shall not be reduced by the face amount of any bond the proceeds of which are to be used exclusively to refund any bond to which such provision applies (or any bond which is part of a series of refundings of such bond) if—
 
 &emsp;"(1) the average maturity date of the issue of which the refunding bond is a part is not later than the average maturity date of the bonds to be refunded by such issue,
 
@@ -2620,7 +2620,7 @@ Special Rule Permitting Carryforward of Volume Cap for Certain Transitioned Proj
 
 \[Pub. L. 100–647, title I, §1013(c)(2)(B), Nov. 10, 1988, 102 Stat. 3545, provided that: "The amendment made by subparagraph (A) \[amending section 1313(a)(3)(C) of Pub. L. 99–514, set out above\] shall apply to bonds issued after June 30, 1987".\]
 
-\[Pub. L. 100–647, title I, §1013(c)(11)(E), Nov. 10, 1988, 102 Stat. 3547, provided that: "A refunding bond issued before July 1, 1987, shall be treated as meeting the requirement of subparagraph (A) of section 1313(c)(1) of the Reform Act \[Pub. L. 99–514, set out above\] if such bond met the requirement of such subparagraph as in effect before the amendments made by this paragraph \[amending section 1313(c) of Pub. L. 99–514, set out above\]."\]
+\[Pub. L. 100–647, title I, §1013(c)(11)(E), Nov. 10, 1988, 102 Stat. 3547, provided that: "A refunding bond issued before July 1, 1987, shall be treated as meeting the requirement of subparagraph (A) of section 1313(c)(1) of the Reform Act \[Pub. L. 99–514, set out above\] if such bond met the requirement of such subparagraph as in effect before the amendments made by this paragraph\[amending section 1313(c) of Pub. L. 99–514, set out above\]."\]
 
 \[Pub. L. 100–647, title I, §1013(c)(14)(B), Nov. 10, 1988, 102 Stat. 3547, provided that: "The amendment made by subparagraph (A) \[amending section 1313 of Pub. L. 99–514, set out above\] shall apply with respect to refunding bonds issued after October 16, 1987."\]
 

@@ -34,7 +34,7 @@
 
 #### (1) Mandatory funding
 
-&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make availableto carry out this section $40,000,000 not later than October 1, 2019, to remain available until expended.
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $40,000,000 not later than October 1, 2019, to remain available until expended.
 
 #### (2) Discretionary funding
 

@@ -70,5 +70,5 @@ Amendment by Pub. L. 107–16 applicable to deductions for taxable years beginni
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stockownership plan after Aug. 5, 1997, see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
+Amendment by Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
 

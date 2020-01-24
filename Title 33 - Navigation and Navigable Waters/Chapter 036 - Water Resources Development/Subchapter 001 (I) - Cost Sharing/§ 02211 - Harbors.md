@@ -14,7 +14,7 @@
 
 #### (2) Additional 10 percent payment over 30 years
 
-&emsp;The non-Federal interests for a project to which paragraph (1) applies shall pay an additional 10 percent of the cost of the general navigation features of the project in cash over a period not to exceed 30 years, at an interest rate determined pursuant to section 2216 of this title. The value of lands, easements, rights-of-way, and relocations provided under paragraph (3) and the costs of relocations borne by the non-Federal interests under paragraph (4) shall be credited toward the payment required under this paragraph.
+&emsp;The non-Federal interests for a project to which paragraph (1) applies shall pay an additional 10 percent of the cost of the general navigation features of the project in cash over a period not to exceed 30 years, at an interestrate determined pursuant to section 2216 of this title. The value of lands, easements, rights-of-way, and relocations provided under paragraph (3) and the costs of relocations borne by the non-Federal interests under paragraph (4) shall be credited toward the payment required under this paragraph.
 
 #### (3) Lands, easements, and rights-of-way
 
@@ -68,7 +68,7 @@ The Secretary shall ensure, to the extent practicable, that—
 
 &emsp;(3) use of a dredged material disposal facility designed, constructed, managed, or operated by a private entity is not precluded if, consistent with economic and environmental considerations, the facility is the least-cost alternative.
 
-(Pub. L. 99–662, title I, §101, Nov. 17, 1986, 100 Stat. 4082; Pub. L. 100–676, §13(a), Nov. 17, 1988, 102 Stat. 4025; Pub. L. 102–580, title III, §333(b)(1), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 104–303, title II, §201(a)–(d), Oct. 12, 1996, 110 Stat. 3671, 3672; Pub. L. 113–121, title II, §2102(b), June 10, 2014, 128 Stat. 1278; Pub. L. 114–322, title I, §1111, Dec. 16, 2016, 130 Stat. 1636.)
+(Pub. L. 99–662, title I, §101, Nov. 17, 1986, 100 Stat. 4082; Pub. L. 100–676, §13(a), Nov. 17, 1988,102 Stat. 4025; Pub. L. 102–580, title III, §333(b)(1), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 104–303, title II, §201(a)–(d), Oct. 12, 1996, 110 Stat. 3671, 3672; Pub. L. 113–121, title II, §2102(b), June 10, 2014, 128 Stat. 1278; Pub. L. 114–322, title I, §1111, Dec. 16, 2016, 130 Stat. 1636.)
 
 #### References in Text
 
@@ -110,7 +110,7 @@ Pub. L. 106–53, title IV, §401, Aug. 17, 1999, 113 Stat. 322, provided that:
 
 "(a)
 
-In General.—The Secretary shall undertake a study of non-Federal cost-sharing requirements for theconstruction and operation and maintenance of deep draft harbor projects to determine whether—
+In General.—The Secretary shall undertake a study of non-Federal cost-sharing requirements for the construction and operation and maintenance of deep draft harbor projects to determine whether—
 
 &emsp;"(1) cost sharing adversely affects United States port development or domestic and international trade; and
 

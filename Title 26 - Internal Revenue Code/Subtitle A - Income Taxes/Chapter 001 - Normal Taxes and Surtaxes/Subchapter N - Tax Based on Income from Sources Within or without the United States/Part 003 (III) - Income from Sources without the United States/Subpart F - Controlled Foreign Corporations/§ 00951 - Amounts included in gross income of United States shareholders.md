@@ -14,7 +14,7 @@
 
 &emsp;The pro rata share referred to in paragraph (1)(A)(i) in the case of any United States shareholder is the amount—
 
-&emsp;&emsp;(A) which would have been distributed with respect to the stock which such shareholder owns (within the meaning of section 958(a)) in such corporation if on the last day, in its taxable year, on which the corporation is a controlled foreign corporation it had distributed pro rata to its shareholders an amount (i) which bears the same ratio to its subpart F income for the taxable year, as (ii) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year, reduced by
+&emsp;&emsp;(A) which would have been distributed with respect to the stock which such shareholder owns (within the meaning of section 958(a)) in such corporation if on the last day, in its taxable year, on which the corporation is a controlled foreign corporation it had distributed pro rata to its shareholders an amount (i) which bears the same ratio to itssubpart F income for the taxable year, as (ii) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year, reduced by
 
 &emsp;&emsp;(B) the amount of distributions received by any other person during such year as a dividend with respect to such stock, but only to the extent of the dividend which would have been received if the distribution by the corporation had been the amount (i) which bears the same ratio to the subpart F income of such corporation for the taxable year, as (ii) the part of such year during which such shareholder did not own (within the meaning of section 958(a)) such stock bears to the entire year.
 
@@ -22,7 +22,7 @@
 
 #### (b) United States shareholder defined
 
-For purposes of this title, the term "United States shareholder" means, with respect to any foreign corporation, a United States person (as defined in section 957(c)) who owns (within the meaning of section 958(a)), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the totalcombined voting power of all classes of stock entitled to vote of such foreign corporation, or 10 percent or more of the total value of shares of all classes of stock of such foreign corporation.
+For purposes of this title, the term "United States shareholder" means, with respect to any foreign corporation, a United States person (as defined in section 957(c)) who owns (within the meaning of section 958(a)), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation, or 10 percent or more of the total value of shares of all classes of stock of such foreign corporation.
 
 #### (c) Coordination with passive foreign investment company provisions
 
@@ -72,7 +72,7 @@ Foreign trade income.—For purposes of this subsection, the term 'foreign trade
 
 Subsec. (a)(1)(C). Pub. L. 103–66, §13231(a), added subpar. (C).
 
-Subsec. (a)(4). Pub. L. 103–66, §13232(c)(2), struck out heading and text of par. (4). Text read as follows: "For purposes of paragraph (1)(B), the pro rata share of any United States shareholder in the increase of the earnings of a controlled foreign corporation invested in United States property shall not exceed an amount (A) which bears the same ratio to his pro rata share of such increase (as determined under section 956(a)(2)) for the taxable year, as (B) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year."
+Subsec. (a)(4). Pub. L. 103–66, §13232(c)(2), struck out heading and text of par. (4). Text read as follows: "For purposes of paragraph (1)(B), the pro rata share of any United States shareholder in the increase of the earnings of a controlled foreign corporation invested in United States property shall not exceed an amount (A)which bears the same ratio to his pro rata share of such increase (as determined under section 956(a)(2)) for the taxable year, as (B) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year."
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted "section 957(c)" for "section 957(d)".
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations
 
 #### Effective Date
 
-Pub. L. 87–834, §12(c), Oct. 16, 1962, 76 Stat. 1031, provided that: "The amendments made by this section \[enacting this section and sections 952 to 964 and 970 to 972 of this title and amending sections 901, 904, and 1016 of this title\] shall apply with respect to taxable years of foreign corporations beginning after December 31, 1962, and to taxable year of United States shareholders within which or with which such taxable years of such foreign corporations end."
+Pub. L. 87–834, §12(c), Oct. 16, 1962, 76 Stat. 1031, provided that: "The amendments made by this section \[enacting this section and sections 952 to 964 and 970 to 972 of this title and amending sections 901, 904, and 1016 ofthis title\] shall apply with respect to taxable years of foreign corporations beginning after December 31, 1962, and to taxable year of United States shareholders within which or with which such taxable years of such foreign corporations end."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

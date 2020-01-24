@@ -82,7 +82,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;In each local area, not more than 5 percent of the in-school youth assisted under thissection may be eligible under paragraph (1) because the youth are in-school youth described in paragraph (1)(C)(iv)(VII).
+&emsp;&emsp;In each local area, not more than 5 percent of the in-school youth assisted under this section may be eligible under paragraph (1) because the youth are in-school youth described in paragraph (1)(C)(iv)(VII).
 
 #### (4) Out-of-school priority
 
@@ -260,7 +260,7 @@
 
 #### (8) Volunteers
 
-&emsp;The local board shall make opportunities available for individuals who have successfully participated in programs carried out under this section to volunteer assistance to participants in the form of mentoring, tutoring, and other activities.
+&emsp;The local board shall make opportunities available for individuals who have successfullyparticipated in programs carried out under this section to volunteer assistance to participants in the form of mentoring, tutoring, and other activities.
 
 (Pub. L. 113–128, title I, §129, July 22, 2014, 128 Stat. 1504; Pub. L. 114–18, §2(e)(2), May 22, 2015, 129 Stat. 213; Pub. L. 114–95, title IX, §9215(yyy)(3), Dec. 10, 2015, 129 Stat. 2192.)
 
@@ -282,7 +282,7 @@ Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovati
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "who".</i>
 

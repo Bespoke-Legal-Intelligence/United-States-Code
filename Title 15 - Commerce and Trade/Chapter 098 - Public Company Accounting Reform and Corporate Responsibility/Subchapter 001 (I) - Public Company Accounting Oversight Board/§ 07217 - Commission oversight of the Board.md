@@ -24,7 +24,7 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 &emsp;&emsp;(A) the phrase "consistent with the requirements of this chapter and the rules and regulations thereunder applicable to such organization" in section 78s(b)(2) of this title shall be deemed to read "consistent with the requirements of title I of the Sarbanes-Oxley Act of 2002, and the rules and regulations issued thereunder applicable to such organization, or as necessary or appropriate in the public interest or for the protection of investors"; and
 
-&emsp;&emsp;(B) the phrase "otherwise in furtherance of the purposes of this chapter" in section78s(b)(3)(C) of this title shall be deemed to read "otherwise in furtherance of the purposes of title I of the Sarbanes-Oxley Act of 2002".
+&emsp;&emsp;(B) the phrase "otherwise in furtherance of the purposes of this chapter" in section 78s(b)(3)(C) of this title shall be deemed to read "otherwise in furtherance of the purposes of title I of the Sarbanes-Oxley Act of 2002".
 
 #### (5) Commission authority to amend rules of the Board
 

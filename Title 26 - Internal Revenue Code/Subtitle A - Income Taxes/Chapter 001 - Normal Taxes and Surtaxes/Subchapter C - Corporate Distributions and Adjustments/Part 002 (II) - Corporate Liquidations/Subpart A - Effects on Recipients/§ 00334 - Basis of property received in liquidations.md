@@ -26,7 +26,7 @@ If property is received in a distribution in complete liquidation, and if gain o
 
 "(A) in any case in which gain or loss is recognized by the liquidating corporation with respect to such property, or
 
-"(B) in any case in which the liquidating corporation is a foreign corporation, the corporate distributee is adomestic corporation, and the corporate distributee's aggregate adjusted bases of property described in section 362(e)(1)(B) which is distributed in such liquidation would (but for this subparagraph) exceed the fair market value of such property immediately after such liquidation."
+"(B) in any case in which the liquidating corporation is a foreign corporation, the corporate distributee is a domestic corporation, and the corporate distributee's aggregate adjusted bases of property described in section 362(e)(1)(B) which is distributed in such liquidation would (but for this subparagraph) exceed the fair market value of such property immediately after such liquidation."
 
 <b>2004</b>—Subsec. (b)(1). Pub. L. 108–357 reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: "If property is received by a corporate distributee in a distribution in a complete liquidation to which section 332 applies (or in a transfer described in section 337(b)(1)), the basis of such property in the hands of such distributee shall be the same as it would be in the hands of the transferor; except that, in any case in which gain or loss is recognized by the liquidating corporation with respect to such property, the basis of such property in the hands of such distributee shall be the fair market value of the property at the time of the distribution."
 
@@ -36,7 +36,7 @@ If property is received in a distribution in complete liquidation, and if gain o
 
 "(1)
 
-Distribution in complete liquidation.—If property is received by a corporation in a distribution in a complete liquidation to which section 332(a) applies, the basis of the property in the hands of the distributee shall be the same as it would be in the hands of the transferor.
+Distribution in complete liquidation.—If property is received by a corporation in a distribution in acomplete liquidation to which section 332(a) applies, the basis of the property in the hands of the distributee shall be the same as it would be in the hands of the transferor.
 
 "(2)
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions andspecial and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 #### Effective Date of 1982 Amendment
 

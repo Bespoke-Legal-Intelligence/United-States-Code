@@ -66,7 +66,7 @@ In paragraph (8), based on the act of September 26, 1966 (5 App. U.S.C. 2251(c))
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–145, §7(d), Mar. 4, 2010, 124 Stat. 56, provided that: "The amendments made by this section\[amending this section and sections 5515, 5531, 5533, and 5537 of this title\] shall take effect as though enacted as part of section 1018 of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 1907)."
+Pub. L. 111–145, §7(d), Mar. 4, 2010, 124 Stat. 56, provided that: "The amendments made by this section \[amending this section and sections 5515, 5531, 5533, and 5537 of this title\] shall take effect as though enacted as part of section 1018 of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 1907)."
 
 #### Effective Date of 2008 Amendment
 

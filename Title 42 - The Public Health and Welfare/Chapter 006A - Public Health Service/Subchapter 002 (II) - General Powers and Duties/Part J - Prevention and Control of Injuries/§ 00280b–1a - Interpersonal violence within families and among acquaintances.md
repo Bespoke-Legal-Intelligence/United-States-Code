@@ -4,7 +4,7 @@
 
 &emsp;(1) Collecting data relating to the incidence of such violence.
 
-&emsp;(2) Making grants to public and nonprofit private entities for the evaluation of programswhose purpose is to prevent such violence, including the evaluation of demonstration projects under paragraph (6).
+&emsp;(2) Making grants to public and nonprofit private entities for the evaluation of programs whose purpose is to prevent such violence, including the evaluation of demonstration projects under paragraph (6).
 
 &emsp;(3) Making grants to public and nonprofit private entities for the conduct of research on identifying effective strategies for preventing such violence.
 

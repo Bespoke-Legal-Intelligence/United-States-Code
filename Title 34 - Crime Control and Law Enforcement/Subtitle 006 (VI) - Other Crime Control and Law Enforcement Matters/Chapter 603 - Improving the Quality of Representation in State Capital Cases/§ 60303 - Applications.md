@@ -8,7 +8,7 @@ The Attorney General shall establish a process through which a State may apply f
 
 #### (1) In general
 
-&emsp;A State desiring a grant under this chapter shall submit an application to the AttorneyGeneral at such time, in such manner, and containing such information as the Attorney General may reasonably require.
+&emsp;A State desiring a grant under this chapter shall submit an application to the Attorney General at such time, in such manner, and containing such information as the Attorney General may reasonably require.
 
 #### (2) Contents
 

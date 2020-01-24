@@ -64,7 +64,7 @@ Transfer of Funds.—
 
 &emsp;(1)
 
-Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a State has not enacted or is not enforcing a repeat intoxicated driver law, the Secretary shall transfer an amount equal to 1½ percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) <sup>1</sup> to the apportionment of the State under section 402—
+Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a State has not enacted or is not enforcing a repeat intoxicated driver law, the Secretary shall transfer an amount equal to 1½ percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) <sup>1</sup>to the apportionment of the State under section 402—
 
 &emsp;&emsp;(A) to be used for alcohol-impaired driving countermeasures; or
 
@@ -92,7 +92,7 @@ Use for highway safety improvement program.—
 
 &emsp;&emsp;(A)
 
-In general.—A State may elect to use all or a portion of the funds reserved underparagraph (2) for activities eligible under section 148.
+In general.—A State may elect to use all or a portion of the funds reserved under paragraph (2) for activities eligible under section 148.
 
 &emsp;&emsp;(B)
 
@@ -182,7 +182,7 @@ Subsec. (b)(2). Pub. L. 112–141, §1403(b)(1), added par. (2) and struck out f
 
 Subsec. (b)(3). Pub. L. 112–141, §1403(b)(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "A State may elect to use all or a portion of the funds transferred under paragraph (1) or (2) for activities eligible under section 148."
 
-Subsec. (b)(5). Pub. L. 112–141, §1403(b)(3), added par. (5) and struck out former par. (5). Prior to amendment,text read as follows: "The amount to be transferred under paragraph (1) or (2) may be derived from one or more of the following:
+Subsec. (b)(5). Pub. L. 112–141, §1403(b)(3), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "The amount to be transferred under paragraph (1) or (2) may be derived from one or more of the following:
 
 &emsp;"(A) The apportionment of the State under section 104(b)(1).
 

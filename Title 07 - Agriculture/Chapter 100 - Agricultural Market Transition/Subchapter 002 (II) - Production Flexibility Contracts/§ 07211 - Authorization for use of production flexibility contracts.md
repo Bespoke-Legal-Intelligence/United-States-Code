@@ -34,7 +34,7 @@ In carrying out this subchapter, the Secretary shall provide adequate safeguards
 
 #### (d) Eligible cropland described
 
-Land shall be considered to be cropland eligible for coverage under a contract only if the land has contract acreage attributable to the land and—
+Land shall be considered to be cropland eligible for coverage under a contract only if theland has contract acreage attributable to the land and—
 
 &emsp;(1) for at least 1 of the 1991 through 1995 crops, at least a portion of the land was enrolled in the acreage reduction program authorized for a crop of a contract commodity under section 101B, 103B, 105B, or 107B of the Agricultural Act of 1949 or was considered planted;
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;The Special Trustee shall ensure that the Bureau establishes appropriate policies and procedures, and develops necessary systems, that will allow it—
 
-&emsp;&emsp;&emsp;(i) properly to account for and invest, as well as maximize, in a manner consistent with the statutory restrictions imposed on the Secretary's investment options, the return on the investment of all trust fund monies, and
+&emsp;&emsp;&emsp;(i) properly to account for and invest, as well as maximize, in a manner consistent with the statutory restrictions imposed onthe Secretary's investment options, the return on the investment of all trust fund monies, and
 
 &emsp;&emsp;&emsp;(ii) to prepare accurate and timely reports to account holders (and others, as required) on a periodic basis regarding all collections, disbursements, investments, and return on investments related to their accounts.
 
@@ -104,7 +104,7 @@
 
 #### (E) Limitation on reprogramming or transfer
 
-&emsp;&emsp;No program manager shall submit, and no official of the Department of the Interior may approve or otherwise authorize, a reprogramming or transfer request with respect to any funds appropriated for trust management which is included in the Trust Management Program Budget unless such request has been approved by the Special Trustee.
+&emsp;&emsp;No program manager shall submit, and no official of the Department of the Interiormay approve or otherwise authorize, a reprogramming or transfer request with respect to any funds appropriated for trust management which is included in the Trust Management Program Budget unless such request has been approved by the Special Trustee.
 
 #### (d) Problem resolution
 
@@ -142,7 +142,7 @@ Membership.—
 
 &emsp;"(1)
 
-Appointment.—The Commission shall be composed of 12 members, appointed not later than 90 daysafter the date of the enactment of this Act \[Dec. 27, 2000\] as follows:
+Appointment.—The Commission shall be composed of 12 members, appointed not later than 90 days after the date of the enactment of this Act \[Dec. 27, 2000\] as follows:
 
 &emsp;&emsp;"(A) Four members shall be appointed by the President.
 
@@ -206,7 +206,7 @@ Staff of federal agencies.—Upon request of the Commission, the head of any Fed
 
 &emsp;"(3)
 
-Obtaining official data.—The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this section. Upon request of the Chairperson of the Commission, the head of that department or agency shall furnish that information to the Commission.
+Obtaining official data.—The Commission may secure directly from any department or agencyof the United States information necessary to enable it to carry out this section. Upon request of the Chairperson of the Commission, the head of that department or agency shall furnish that information to the Commission.
 
 &emsp;"(4)
 

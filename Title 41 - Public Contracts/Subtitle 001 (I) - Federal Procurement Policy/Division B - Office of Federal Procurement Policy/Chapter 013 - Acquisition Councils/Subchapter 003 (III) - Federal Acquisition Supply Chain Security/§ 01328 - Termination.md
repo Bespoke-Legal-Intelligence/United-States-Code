@@ -6,7 +6,7 @@ This subchapter shall terminate on the date that is 5 years after the date of th
 
 #### References in Text
 
-The date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018, referred to in text,is the date of enactment of Pub. L. 115–390, which was approved Dec. 21, 2018.
+The date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018, referred to in text, is the date of enactment of Pub. L. 115–390, which was approved Dec. 21, 2018.
 
 #### Effective Date
 

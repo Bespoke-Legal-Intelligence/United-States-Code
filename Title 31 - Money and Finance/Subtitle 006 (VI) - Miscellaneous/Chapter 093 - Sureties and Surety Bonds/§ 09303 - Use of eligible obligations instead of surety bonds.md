@@ -108,7 +108,7 @@ Subsec. (a). Pub. L. 109–351, §901(b), (c)(3), substituted "an eligible oblig
 
 Subsecs. (b) to (e). Pub. L. 109–351, §901(c)(3), (4), substituted "an eligible obligation" for "a Government obligation" and "the eligible obligation" for "the Government obligation" wherever appearing.
 
-Subsec. (f). Pub. L. 109–351, §901(c)(2), (3), substituted "eligible obligations" for "Government obligations"and "an eligible obligation" for "a Government obligation".
+Subsec. (f). Pub. L. 109–351, §901(c)(2), (3), substituted "eligible obligations" for "Government obligations" and "an eligible obligation" for "a Government obligation".
 
 <b>2003</b>—Subsec. (d)(1). Pub. L. 108–178 struck out comma after "sections 3131 and 3133 of title 40".
 

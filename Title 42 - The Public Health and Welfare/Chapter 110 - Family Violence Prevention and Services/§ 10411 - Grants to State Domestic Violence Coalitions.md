@@ -54,7 +54,7 @@ A coalition that receives a grant under this section shall use the grant funds f
 
 A coalition that receives a grant under this section shall not be required to use funds received under this chapter for the purposes described in paragraph (5) or (6) of subsection (d) if the coalition provides an annual assurance to the Secretary that the coalition is—
 
-&emsp;(1) using funds received under section 2001(c)(1) of the Omnibus Crime Control andSafe Streets Act of 1968 (42 U.S.C. 3796gg(c)(1)) <sup>1</sup> for such purposes; and
+&emsp;(1) using funds received under section 2001(c)(1) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796gg(c)(1)) <sup>1</sup> for such purposes; and
 
 &emsp;(2) coordinating the activities carried out by the coalition under subsection (d) with the State's activities under part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796gg et seq.) <sup>1</sup> that address those purposes.
 

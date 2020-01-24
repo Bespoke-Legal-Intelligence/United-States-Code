@@ -18,7 +18,7 @@ Small passenger vessel; uninspected passenger vessel; passenger for hire.—The 
 
 (b)
 
-Issuance of Certificate and Endorsement.—Notwithstanding sections 12112, 12113, 55102, and 55103 of this title, the Secretary may issue a certificate of documentation with an appropriate endorsement for employment in the coastwise trade as a small passenger vessel or an uninspected passenger vessel in the case of an eligible vessel authorized to carry no more than 12 passengers for hire if the Secretary of Transportation, after notice and an opportunity for public comment, determines that the employment of the vessel in the coastwise trade will not adversely affect—
+Issuance of Certificate and Endorsement.—Notwithstanding sections 12112, 12113,55102, and 55103 of this title, the Secretary may issue a certificate of documentation with an appropriate endorsement for employment in the coastwise trade as a small passenger vessel or an uninspected passenger vessel in the case of an eligible vessel authorized to carry no more than 12 passengers for hire if the Secretary of Transportation, after notice and an opportunity for public comment, determines that the employment of the vessel in the coastwise trade will not adversely affect—
 
 &emsp;(1) United States vessel builders; or
 

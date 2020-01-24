@@ -52,7 +52,7 @@ Other funding not to be affected.—Amounts which have or may become available f
 
 &emsp;(5)
 
-Recovery of costs.—Before transferring to an agency in accordance with paragraph (1) any amounts becoming available from the sale of a semipostal over any period, the Postal Service shall ensure that it has recovered the full costs incurred by the Postal Service in connection with such semipostal through the end of such period.
+Recovery of costs.—Before transferring to an agency in accordance with paragraph (1) any amounts becoming available from the sale of a semipostal over any period, the Postal Service shall ensure that it has recovered thefull costs incurred by the Postal Service in connection with such semipostal through the end of such period.
 
 (e)
 
@@ -160,7 +160,7 @@ Proceeds not to be offset.—In accordance with section 416(d)(4) of such title 
 
 &emsp;"(2)
 
-Duration.—The Multinational Species Conservation Funds Semipostal Stamp shall be made available to the public for a period of at least 6 years, beginning no later than 12 months after the date of the enactment of this Act \[Sept. 30, 2010\].
+Duration.—The Multinational Species Conservation Funds Semipostal Stamp shall be madeavailable to the public for a period of at least 6 years, beginning no later than 12 months after the date of the enactment of this Act \[Sept. 30, 2010\].
 
 &emsp;"(3)
 
@@ -188,7 +188,7 @@ In General.—In order to afford the public a direct and tangible way to provide
 
 "(c)
 
-Requirements.—The provisions of section 416(a), (c), (d), and (f) of title 39, United States Code, shallapply as practicable with respect to the semipostal described in subsection (b), subject to the following:
+Requirements.—The provisions of section 416(a), (c), (d), and (f) of title 39, United States Code, shall apply as practicable with respect to the semipostal described in subsection (b), subject to the following:
 
 &emsp;"(1)
 
@@ -274,5 +274,5 @@ Pub. L. 106–253, §2(b), July 28, 2000, 114 Stat. 636, provided that: "Each ag
 
 #### Reports by the Government Accountability Office
 
-Pub. L. 106–253, §2(c), July 28, 2000, 114 Stat. 636, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, which required the GAO to submit both interim and final reports to the President and each House of Congress on operations of the program established under this section, with the final report to include a detailed statement of the findings and conclusions of the GAO and any appropriate recommendations, was repealed by Pub. L. 112–234, §2(e)(1), Dec. 28, 2012, 126 Stat. 1624.
+Pub. L. 106–253, §2(c), July 28, 2000, 114 Stat. 636, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, which required the GAO to submit both interim and final reports to the President and each House ofCongress on operations of the program established under this section, with the final report to include a detailed statement of the findings and conclusions of the GAO and any appropriate recommendations, was repealed by Pub. L. 112–234, §2(e)(1), Dec. 28, 2012, 126 Stat. 1624.
 

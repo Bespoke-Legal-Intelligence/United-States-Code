@@ -28,7 +28,7 @@ This chapter, referred to in subsec. (a), was in the original "this Act", meanin
 
 #### Amendments
 
-<b>1978</b>—Subsec. (b)(1). Pub. L. 95–331, §7, substituted provisions limiting activities to furnishing technical assistance, etc., in support of volunteer programs, and conducting demonstration projects and provisions relating to payment of costs of any program or project for provisions limiting activities to furnishing of knowledge and skills relating to the selection, training, and programming of voluntary manpower and provisions relating to use of available funds.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–331, §7, substituted provisions limiting activities to furnishing technical assistance, etc., in support of volunteer programs, and conducting demonstration projects and provisions relating to payment of costs of any program or project for provisions limiting activities to furnishing ofknowledge and skills relating to the selection, training, and programming of voluntary manpower and provisions relating to use of available funds.
 
 Subsec. (b)(2). Pub. L. 95–331, §8(a), substituted provisions authorizing use of 2 per centum of amount appropriated in a fiscal year for provisions authorizing use of $350,000 in a fiscal year.
 

@@ -80,7 +80,7 @@ Statement of Reasons for Imposing a Sentence.—The court, at the time of senten
 
 (d)
 
-Presentence Procedure for an Order of Notice.—Prior to imposing an order of noticepursuant to section 3555, the court shall give notice to the defendant and the Government that it is considering imposing such an order. Upon motion of the defendant or the Government, or on its own motion, the court shall—
+Presentence Procedure for an Order of Notice.—Prior to imposing an order of notice pursuant to section 3555, the court shall give notice to the defendant and the Government that it is considering imposing such an order. Upon motion of the defendant or the Government, or on its own motion, the court shall—
 
 &emsp;(1) permit the defendant and the Government to submit affidavits and written memoranda addressing matters relevant to the imposition of such an order;
 
@@ -142,7 +142,7 @@ Subsec. (g). Pub. L. 115–391, §402(a)(2), added subsec. (g).
 
 <b>2010</b>—Subsec. (c)(2). Pub. L. 111–174 substituted "a statement of reasons form issued under section 994(w)(1)(B) of title 28" for "the written order of judgment and commitment".
 
-<b>2003</b>—Subsec. (a)(4)(A). Pub. L. 108–21, §401(j)(5)(A), amended subpar. (A) generally. Prior to amendment,subpar. (A) read as follows: "the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines issued by the Sentencing Commission pursuant to section 994(a)(1) of title 28, United States Code, and that are in effect on the date the defendant is sentenced; or".
+<b>2003</b>—Subsec. (a)(4)(A). Pub. L. 108–21, §401(j)(5)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines issued by the Sentencing Commission pursuant to section 994(a)(1) of title 28, United States Code, and that are in effect on the date the defendant is sentenced; or".
 
 Subsec. (a)(4)(B). Pub. L. 108–21, §401(j)(5)(B), inserted before semicolon at end ", taking into account any amendments made to such guidelines or policy statements by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under section 994(p) of title 28)".
 
@@ -170,7 +170,7 @@ Subsec. (f). Pub. L. 103–322, §80001(a), as amended by Pub. L. 104–294, §6
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–182, §3(1), (2), substituted "court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result" for "court finds that an aggravating or mitigating circumstance exists that was not adequately taken into consideration by the Sentencing Commission in formulating the guidelines and that should result".
 
-Pub. L. 100–182, §3(3), inserted after first sentence "In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission."
+Pub. L. 100–182, §3(3), inserted after first sentence "In determining whether a circumstance was adequatelytaken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission."
 
 Pub. L. 100–182, §16(a), substituted "In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission." for "In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, the applicable policy statements of the Sentencing Commission, and the purposes of sentencing set forth in subsection (a)(2)."
 
@@ -260,7 +260,7 @@ Appeal of the departure.—Not later than 5 days after a decision by the Solicit
 
 "(3)
 
-Effective date.—Paragraph (2) shall take effect on the day that is 91 days after the date of enactment of this Act \[Apr. 30, 2003\], except that such paragraph shall not take effect if not more than 90 days after the date of enactment of this Act the Attorney General has submitted to the Judiciary Committees of the House of Representatives and the Senate the report described in paragraph (3)."
+Effective date.—Paragraph (2) shall take effect on the day that is 91 days after the date of enactment of this Act \[Apr. 30, 2003\], except that such paragraphshall not take effect if not more than 90 days after the date of enactment of this Act the Attorney General has submitted to the Judiciary Committees of the House of Representatives and the Senate the report described in paragraph (3)."
 
 #### Authority To Lower a Sentence Below Statutory Minimum for Old Offenses
 

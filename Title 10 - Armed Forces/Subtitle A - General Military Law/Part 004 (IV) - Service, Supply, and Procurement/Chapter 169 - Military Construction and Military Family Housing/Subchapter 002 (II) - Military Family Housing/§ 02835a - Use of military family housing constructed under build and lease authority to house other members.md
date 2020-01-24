@@ -14,13 +14,13 @@ Conversion to Long-Term Leasing of Military Unaccompanied Housing.—(1) If the 
 
 (c)
 
-Notice and Wait Requirements.—(1) <sup>1</sup> The Secretary concerned may not convert military family housing to military unaccompanied housing under subsection (b) until after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a notice of the intent to undertake the conversion.
+Notice and Wait Requirements.—The Secretary concerned may not convert military family housing to military unaccompanied housing under subsection (b) until after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a notice of the intent to undertake the conversion.
 
 (d)
 
 Application to Housing Leased Under Former Authority.—This section also shall apply to housing initially acquired or constructed under the former section 2828(g) of this title (commonly known as the "Build to Lease program"), as added by section 801 of the Military Construction Authorization Act, 1984 (Public Law 98–115; 97 Stat 782).
 
-(Added Pub. L. 110–417, div. B, title XXVIII, §2803(a), Oct. 14, 2008, 122 Stat. 4719; amended Pub. L. 115–91, div. B, title XXVIII, §2801(b)(6), Dec. 12, 2017, 131 Stat. 1843.)
+(Added Pub. L. 110–417, div. B, title XXVIII, §2803(a), Oct. 14, 2008, 122 Stat. 4719; amended Pub. L. 115–91, div. B, title XXVIII, §2801(b)(6), Dec. 12, 2017, 131 Stat. 1843; Pub. L. 116–92, div. A, title XVII, §1731(a)(56), Dec. 20, 2019, 133 Stat. 1815.)
 
 #### References in Text
 
@@ -28,7 +28,9 @@ Section 2828(g) of this title (commonly known as the "Build to Lease program"), 
 
 #### Amendments
 
-<b>2017</b>—Subsec. (c). Pub. L. 115–91 substituted "until after the end of the 14-day period beginning on the dateon which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a notice of the intent to undertake the conversion." for "until—" and struck out subpars. (A) and (B) which required a notice of intent and a wait period and par. (2) which read as follows: "The notice required by paragraph (1) shall include—
+<b>2019</b>—Subsec. (c). Pub. L. 116–92 struck out par. (1) designation before "The Secretary".
+
+<b>2017</b>—Subsec. (c). Pub. L. 115–91 substituted "until after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a notice of the intent to undertake the conversion." for "until—" and struck out subpars. (A) and (B) which required a notice of intent and a wait period and par. (2) which read as follows: "The notice required by paragraph (1) shall include—
 
 &emsp;"(A) an explanation of the reasons for the conversion of the military family housing to military unaccompanied housing;
 
@@ -37,6 +39,4 @@ Section 2828(g) of this title (commonly known as the "Build to Lease program"), 
 &emsp;"(C) amounts to be paid under the lease; and
 
 &emsp;"(D) the expiration date of the lease."
-
-<i><sup>1</sup></i><i> So in original. There is no par. (2). See 2017 Amendment note below.</i>
 

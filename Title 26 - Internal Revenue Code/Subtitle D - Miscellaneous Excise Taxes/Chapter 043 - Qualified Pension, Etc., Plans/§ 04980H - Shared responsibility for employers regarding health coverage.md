@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (ii) Aggregation
 
-&emsp;&emsp;&emsp;In the case of persons treated as 1 employer under subparagraph (C)(i), only 1 reduction under subclause (I) or (II) <sup>1</sup> shall be allowed with respect to such persons and such reduction shall be allocated among such persons ratably on the basis of the number of full-time employees employed by each such person.
+&emsp;&emsp;&emsp;In the case of persons treated as 1 employer under subparagraph (C)(i), only 1 reduction under subclause (I) or (II) <sup>1</sup> shall be allowed with respect to such persons and such reduction shall be allocated amongsuch persons ratably on the basis of the number of full-time employees employed by each such person.
 
 #### (E) Full-time equivalents treated as full-time employees
 

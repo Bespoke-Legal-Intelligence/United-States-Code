@@ -22,7 +22,7 @@
 
 &emsp;(i) A bilateral or multilateral counterterrorism agreement.
 
-&emsp;(ii) A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) <sup>1</sup> of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), section 620A(a) of the Foreign Assistance Act of1961 (22 U.S.C. 2371(a)), or section 40(d) of the Arms Export Control Act (22 U.S.C. 2780(d)).
+&emsp;(ii) A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) <sup>1</sup> of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), section 620A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2371(a)), or section 40(d) of the Arms Export Control Act (22 U.S.C. 2780(d)).
 
 (f) The President shall, through the Secretary of State, promulgate such rules and regulations as may be necessary to carry out this section.
 

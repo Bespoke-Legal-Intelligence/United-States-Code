@@ -20,7 +20,7 @@ The Secretary is authorized to insure and make commitments to insure loans made 
 
 &emsp;(2) such a loan may be made for a period of up to 30 years from the making of the loan, but the Secretary may provide for periodic payments based on an amortization schedule of 50 years with a final payment of the balance due at the end of the term of the loan;
 
-&emsp;(3) for insuring such loans, the Secretary shall utilize the Agricultural Credit Insurance Fund subject to all the provisions of section 1929 of title 7 and the second and third sentences of section 1928 <sup>1</sup> of title 7, including the authority in section 1929(f)(1) <sup>1</sup> of title 7 to utilize the insurance fund to make, sell, and insure loans which could be insured under this subsection; but the aggregate of the principal amounts of such loans made by the Secretary and not disposed of shall not exceed $10,000,000 outstanding at any one time; and the Secretary may take liens running to the United States though the notes may be held by other lenders;
+&emsp;(3) for insuring such loans, the Secretary shall utilize the Agricultural Credit Insurance Fund subject to all the provisions of section 1929 of title 7 and the second and third sentences of section 1928 <sup>1</sup> of title 7, including the authority in section 1929(f)(1) <sup>1</sup> of title 7 to utilize the insurance fund to make, sell, and insure loans which could be insured under this subsection; but the aggregate of the principalamounts of such loans made by the Secretary and not disposed of shall not exceed $10,000,000 outstanding at any one time; and the Secretary may take liens running to the United States though the notes may be held by other lenders;
 
 &emsp;(4) such a loan, when made to a consumer cooperative for cooperative housing purposes, may, notwithstanding any other provision of law, be made upon the condition that any person who is admitted as an eligible member and tenant of the cooperative may not subsequently be deprived of his membership or tenancy by reason of his no longer meeting the income eligibility requirements established by the Secretary;
 
@@ -126,7 +126,7 @@ For purposes of determining the market feasibility of any project to be assisted
 
 #### (m) Standards for housing and related facilities rehabilitated or repaired; establishment, criteria, etc.
 
-The Secretary shall establish standards for housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section. Standards established by the Secretary under this subsection shall provide that except for substantial rehabilitation the particular items or systems repaired or rehabilitated must meet appropriatelevels of quality or performance comparable to those levels prescribed by the Secretary of Housing and Urban Development for rehabilitation, but shall not require that such items or systems or the remainder of the property meet the standards which are applicable to new construction. The Secretary shall ensure that standards prescribed under this subsection provide decent, safe, and sanitary housing and related facilities.
+The Secretary shall establish standards for housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section. Standards established by the Secretary under this subsection shall provide that except for substantial rehabilitation the particular items or systems repaired or rehabilitated must meet appropriate levels of quality or performance comparable to those levels prescribed by the Secretary of Housing and Urban Development for rehabilitation, but shall not require that such items or systems or the remainder of the property meet the standards which are applicable to new construction. The Secretary shall ensure that standards prescribed under this subsection provide decent, safe, and sanitary housing and related facilities.
 
 #### (n) Assistance to projects located on more than one site
 
@@ -226,7 +226,7 @@ The Secretary may provide for the assumption or transfer of a loan or loan oblig
 
 #### (2) Minimum State set-aside
 
-&emsp;If the amount set aside under paragraph (1) for any State is less than $750,000 in any fiscal year, the Secretary shall pool such amount together with set-aside amounts from other States whose set-aside is less than $750,000, and shall make such amounts available for such eligible entities under paragraph (1) in any such State. The Secretary shall establish a procedure to provide that any amounts pooled under this paragraph from the allocation for any State in any fiscal year that are not obligated during a reasonable period in such year shall be made available for any such eligible entities under paragraph (1) in such State. The Secretary may provide amounts available for reallocation under this subsection in excess of $750,000 in a given State, if such amounts are necessary to finance a project under this section.
+&emsp;If the amount set aside under paragraph (1) for any State is less than $750,000 in any fiscal year, the Secretary shall pool such amount together with set-aside amounts from other States whose set-aside is less than $750,000, and shall make such amounts available for such eligible entities under paragraph (1) inany such State. The Secretary shall establish a procedure to provide that any amounts pooled under this paragraph from the allocation for any State in any fiscal year that are not obligated during a reasonable period in such year shall be made available for any such eligible entities under paragraph (1) in such State. The Secretary may provide amounts available for reallocation under this subsection in excess of $750,000 in a given State, if such amounts are necessary to finance a project under this section.
 
 #### (3) Unused amounts
 
@@ -294,7 +294,7 @@ The Secretary shall—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may request the Attorney General to bring an action in a United States district court to recover any assets or income used by any person in violation of the provisions of a loan made or guaranteed by the Secretary under this section or in violation of any applicable statute or regulation.
+&emsp;&emsp;The Secretary may request the Attorney General to bring an action in a UnitedStates district court to recover any assets or income used by any person in violation of the provisions of a loan made or guaranteed by the Secretary under this section or in violation of any applicable statute or regulation.
 
 #### (B) Improper documentation
 
@@ -406,9 +406,9 @@ Subsec. (z). Pub. L. 104–180, §734(d)(2), (e)(2), added subsec. (z) and struc
 
 Subsec. (e)(4). Pub. L. 102–550, §707(a), struck out "and" before "initial operating expenses up to", inserted ", impact fees, local charges for installation, provision, or use of infrastructure, and local assessments for public improvements and services imposed by State and local governments" after "approved by the Secretary", and inserted at end "Notwithstanding the first sentence of this paragraph, the term 'development cost' shall not include any initial operating expenses in the case of any nonprofit corporation or consumer cooperative that is financing housing under this section and has been allocated a low-income housing tax credit by a housing credit agency pursuant to section 42 of title 26."
 
-Subsec. (l)(1). Pub. L. 102–550, §707(b)(1), added par. (1) and struck out former par. (1) which read as follows: "in the case of any applicant whose project is expected to utilize rental assistance payments under section 1490a of this title, the Secretary shall only require such applicant to demonstrate that a market exists for persons and families eligible for such rental assistance payments; and".
+Subsec. (l)(1). Pub. L. 102–550, §707(b)(1), added par. (1) and struck out former par. (1) which read as follows:"in the case of any applicant whose project is expected to utilize rental assistance payments under section 1490a of this title, the Secretary shall only require such applicant to demonstrate that a market exists for persons and families eligible for such rental assistance payments; and".
 
-Subsec. (p)(4). Pub. L. 102–550, §707(b)(2)(1), substituted period at end for ", except when the Secretary determines that the continued vacancy of units thathave been unoccupied for at least 6 months threatens the financial viability of the project. The preceding sentence shall not be interpreted as authorizing the Secretary to—
+Subsec. (p)(4). Pub. L. 102–550, §707(b)(2)(1), substituted period at end for ", except when the Secretary determines that the continued vacancy of units that have been unoccupied for at least 6 months threatens the financial viability of the project. The preceding sentence shall not be interpreted as authorizing the Secretary to—
 
 &emsp;"(A) limit the ability of a housing credit agency to require an owner of housing, in order to receive a low-income housing tax credit, to enter into a restrictive covenant, in such form and for such period as the housing credit agency deems appropriate, to maintain the occupancy characteristics of the project as prescribed in section 42(h)(6) of title 26; or
 

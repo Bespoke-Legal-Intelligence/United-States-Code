@@ -70,7 +70,7 @@ In this chapter:
 
 #### (9) High seas
 
-&emsp;The term "high seas" does not include an area that is within the exclusive economic zone of the United States or of any other country.
+&emsp;The term "high seas" does not include an area that is within the exclusive economiczone of the United States or of any other country.
 
 #### (10) North Pacific Fisheries Convention
 

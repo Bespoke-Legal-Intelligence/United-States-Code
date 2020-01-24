@@ -24,7 +24,7 @@ Not later than 2 years after October 28, 1992, after notice and opportunity for 
 
 #### (b) Renovation of target housing
 
-Within 2 years after October 28, 1992, the Administrator shall promulgate regulations under this subsection to require each person who performs for compensation a renovation of target housing to provide a lead hazard informationpamphlet to the owner and occupant of such housing prior to commencing the renovation.
+Within 2 years after October 28, 1992, the Administrator shall promulgate regulations under this subsection to require each person who performs for compensation a renovation of target housing to provide a lead hazard information pamphlet to the owner and occupant of such housing prior to commencing the renovation.
 
 (Pub. L. 94–469, title IV, §406, as added Pub. L. 102–550, title X, §1021(a), Oct. 28, 1992, 106 Stat. 3920.)
 

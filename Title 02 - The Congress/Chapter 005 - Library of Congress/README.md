@@ -12,8 +12,8 @@
 | [133\.](%C2%A7%2000133%20-%20Joint%20Committee%20during%20recess%20of%20Congress.md) | Joint Committee during recess of Congress. |
 | [134\.](%C2%A7%2000134%20-%20Incidental%20expenses%20of%20law%20library.md) | Incidental expenses of law library. |
 | [135\.](%C2%A7%2000135%20-%20Purchase%20of%20books%20for%20law%20library.md) | Purchase of books for law library. |
-| [135a.](%C2%A7%2000135a%20-%20Books%20and%20sound-reproduction%20records%20for%20blind%20and%20other%20physically%20handicapped%20residents%3B%20annual%20appropriations%3B%20purchases.md) | Books and sound-reproduction records for blind and other physically handicapped residents; annual appropriations; purchases. |
-| 135a–1. | Library of musical scores, instructional texts, and other specialized materials for use of blind persons or other physically handicapped residents; authorization of appropriations. |
+| [135a.](%C2%A7%2000135a%20-%20National%20library%20service%20for%20the%20blind%20and%20print%20disabled.md) | National library service for the blind and print disabled. |
+| 135a–1. | Repealed. |
 | [135b.](%C2%A7%2000135b%20-%20Local%20and%20regional%20centers%3B%20preference%20to%20blind%20and%20other%20physically%20handicapped%20veterans%3B%20rules%20and%20regulations%3B%20authorization%20of%E2%80%A6.md) | Local and regional centers; preference to blind and other physically handicapped veterans; rules and regulations; authorization of appropriations. |
 | [136\.](%C2%A7%2000136%20-%20Librarian%20of%20Congress%3B%20rules%20and%20regulations.md) | Librarian of Congress; rules and regulations. |
 | 136–1. | Appointment and term of service of Librarian of Congress. |
@@ -137,8 +137,8 @@
 - [&sect; 00133 - Joint Committee during recess of Congress](%C2%A7%2000133%20-%20Joint%20Committee%20during%20recess%20of%20Congress.md)
 - [&sect; 00134 - Incidental expenses of law library](%C2%A7%2000134%20-%20Incidental%20expenses%20of%20law%20library.md)
 - [&sect; 00135 - Purchase of books for law library](%C2%A7%2000135%20-%20Purchase%20of%20books%20for%20law%20library.md)
-- [&sect; 00135a - Books and sound-reproduction records for blind and other physically handicapped residents; annual appropriations; purchases](%C2%A7%2000135a%20-%20Books%20and%20sound-reproduction%20records%20for%20blind%20and%20other%20physically%20handicapped%20residents%3B%20annual%20appropriations%3B%20purchases.md)
-- [&sect; 00135a&#8211;1 - Library of musical scores, instructional texts, and other specialized materials for use of blind persons or other physically&#8230;](%C2%A7%2000135a%E2%80%931%20-%20Library%20of%20musical%20scores%2C%20instructional%20texts%2C%20and%20other%20specialized%20materials%20for%20use%20of%20blind%20persons%20or%20other%20physically%E2%80%A6.md)
+- [&sect; 00135a - National library service for the blind and print disabled](%C2%A7%2000135a%20-%20National%20library%20service%20for%20the%20blind%20and%20print%20disabled.md)
+- [&sect; 00135a&#8211;1 - Repealed. Pub. L. 116&#8211;94, div. P, title XIV, &sect;1403(b), Dec. 20, 2019, 133 Stat. 3207](%C2%A7%2000135a%E2%80%931%20-%20Repealed.%20Pub.%20L.%20116%E2%80%9394%2C%20div.%20P%2C%20title%20XIV%2C%20%C2%A71403%28b%29%2C%20Dec.%2020%2C%202019%2C%20133%20Stat.%203207.md)
 - [&sect; 00135b - Local and regional centers; preference to blind and other physically handicapped veterans; rules and regulations; authorization of&#8230;](%C2%A7%2000135b%20-%20Local%20and%20regional%20centers%3B%20preference%20to%20blind%20and%20other%20physically%20handicapped%20veterans%3B%20rules%20and%20regulations%3B%20authorization%20of%E2%80%A6.md)
 - [&sect; 00136 - Librarian of Congress; rules and regulations](%C2%A7%2000136%20-%20Librarian%20of%20Congress%3B%20rules%20and%20regulations.md)
 - [&sect; 00136&#8211;1 - Appointment and term of service of Librarian of Congress](%C2%A7%2000136%E2%80%931%20-%20Appointment%20and%20term%20of%20service%20of%20Librarian%20of%20Congress.md)

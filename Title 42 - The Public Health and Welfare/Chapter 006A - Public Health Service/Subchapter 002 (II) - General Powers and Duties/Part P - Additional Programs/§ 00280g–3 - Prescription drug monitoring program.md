@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each fiscal year, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, in coordination with the heads of other departments and agencies as appropriate, shall support States or localities for the purpose of improving the efficiency and use of PDMPs, including—
+&emsp;Each fiscal year, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, in coordinationwith the heads of other departments and agencies as appropriate, shall support States or localities for the purpose of improving the efficiency and use of PDMPs, including—
 
 &emsp;&emsp;(A) establishment and implementation of a PDMP;
 
@@ -226,7 +226,7 @@ Subsec. (c)(3). Pub. L. 114–198, §109(b)(3)(B), designated existing provision
 
 Subsec. (c)(5). Pub. L. 114–198, §109(b)(3)(C), substituted "establish, improve, or maintain" for "implement or improve" and inserted at end "The Secretary shall redistribute any funds that are so returned among the remaining grantees under this section in accordance with the formula described in subsection (a)(2)(B)."
 
-Subsec. (d). Pub. L. 114–198, §109(b)(4)(A), in introductory provisions, substituted "In establishing, improving, or maintaining a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subparagraph (B) or (C) of subsection (a)(1)" for "In implementing or improving a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subsection (a)(1)(B)" and "public health or safety" for "public health".
+Subsec. (d). Pub. L. 114–198, §109(b)(4)(A), in introductory provisions, substituted "In establishing, improving, or maintaining a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant undersubparagraph (B) or (C) of subsection (a)(1)" for "In implementing or improving a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subsection (a)(1)(B)" and "public health or safety" for "public health".
 
 Subsec. (d)(4). Pub. L. 114–198, §109(b)(9), substituted "subsection (i)" for "subsection (h)".
 

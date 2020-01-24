@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the Federal short-term rate determined under paragraph (1) for any month shall apply during the first calendar quarter beginning after such month.
+&emsp;&emsp;Except as provided in subparagraph (B), the Federal short-term rate determinedunder paragraph (1) for any month shall apply during the first calendar quarter beginning after such month.
 
 #### (B) Special rule for individual estimated tax
 
@@ -56,7 +56,7 @@ For purposes of this section—
 
 &emsp;&emsp;The applicable date is the 30th day after the earlier of—
 
-&emsp;&emsp;&emsp;(i) the date on which the 1st letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals is sent, or
+&emsp;&emsp;&emsp;(i) the date on which the 1st letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals is sent, or
 
 &emsp;&emsp;&emsp;(ii) the date on which the deficiency notice under section 6212 is sent.
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (iii) Exception for letters or notices involving small amounts
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, any letter or notice shall be disregarded if theamount of the deficiency or proposed deficiency (or the assessment or proposed assessment) set forth in such letter or notice is not greater than $100,000 (determined by not taking into account any interest, penalties, or additions to tax).
+&emsp;&emsp;&emsp;For purposes of this paragraph, any letter or notice shall be disregarded if the amount of the deficiency or proposed deficiency (or the assessment or proposed assessment) set forth in such letter or notice is not greater than $100,000 (determined by not taking into account any interest, penalties, or additions to tax).
 
 #### (3) Large corporate underpayment
 
@@ -96,9 +96,11 @@ For purposes of this section—
 
 To the extent that, for any period, interest is payable under subchapter A and allowable under subchapter B on equivalent underpayments and overpayments by the same taxpayer of tax imposed by this title, the net rate of interest under this section on such amounts shall be zero for such period.
 
-(Added Pub. L. 93–625, §7(a)(1), Jan. 3, 1975, 88 Stat. 2114; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §4(b), Dec. 29, 1979, 93 Stat. 1275; Pub. L. 97–34, title VII, §711(a)–(c), Aug. 13, 1981, 95 Stat. 340; Pub. L. 97–248, title III, §345(a), Sept. 3, 1982, 96 Stat. 636; Pub. L. 98–369, div. A, title I, §144(a), July 18, 1984, 98 Stat. 682; Pub. L. 99–514, title XV, §§1511(a), (c)(1), 1535(a), Oct. 22, 1986, 100 Stat. 2744, 2750; Pub. L. 100–647, title I, §1015(d), Nov. 10, 1988, 102 Stat. 3569; Pub. L. 101–239, title VII, §7721(b), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11341(a), Nov. 5, 1990, 104 Stat. 1388–470; Pub. L. 103–465, title VII, §713(a), Dec. 8, 1994, 108 Stat. 5001; Pub. L. 104–188, title I, §1702(c)(6), (7), Aug. 20, 1996, 110 Stat. 1870; Pub. L. 105–34, title XIV, §1463(a), title XVI, §1604(b)(1), Aug. 5, 1997, 111 Stat. 1057, 1097; Pub. L. 105–206, title III, §§3301(a), 3302(a), July 22, 1998, 112 Stat. 741.)
+(Added Pub. L. 93–625, §7(a)(1), Jan. 3, 1975, 88 Stat. 2114; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §4(b), Dec. 29, 1979, 93 Stat. 1275; Pub. L. 97–34, title VII, §711(a)–(c), Aug. 13, 1981, 95 Stat. 340; Pub. L. 97–248, title III, §345(a), Sept. 3, 1982, 96 Stat. 636; Pub. L. 98–369, div. A, title I, §144(a), July 18, 1984, 98 Stat. 682; Pub. L. 99–514, title XV, §§1511(a), (c)(1), 1535(a), Oct. 22, 1986, 100 Stat. 2744, 2750; Pub. L. 100–647, title I, §1015(d), Nov. 10, 1988, 102 Stat. 3569; Pub. L. 101–239, title VII, §7721(b), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11341(a), Nov. 5, 1990, 104 Stat. 1388–470; Pub. L. 103–465, title VII, §713(a), Dec. 8, 1994, 108 Stat. 5001; Pub. L. 104–188, title I, §1702(c)(6), (7), Aug. 20, 1996, 110 Stat. 1870; Pub. L. 105–34, title XIV, §1463(a), title XVI, §1604(b)(1), Aug. 5, 1997, 111 Stat. 1057, 1097; Pub. L. 105–206, title III, §§3301(a), 3302(a), July 22, 1998, 112 Stat. 741; Pub. L. 116–25, title I, §1001(b)(1)(E), July 1, 2019, 133 Stat. 985.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c)(2)(A)(i). Pub. L. 116–25 substituted "Internal Revenue Service Independent Office of Appeals" for "Internal Revenue Service Office of Appeals".
 
 <b>1998</b>—Subsec. (a)(1)(B). Pub. L. 105–206, §3302(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "2 percentage points."
 
@@ -144,7 +146,7 @@ Pub. L. 97–34, §711(c), substituted "January 1" for "February 1".
 
 Subsec. (c). Pub. L. 97–34, §711(b), struck out "90 percent of" before "the average predominant prime rate".
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–167 substituted provisions setting the annual rate established under this section to be such adjusted rate as is established by the Secretary under subsec. (b) of this section for provision that the rate of interest under sections 6601(a), 6602,6611(a), 6332(c)(1), and 7426(g) of this title, and under section 2411(a) of title 28 was to be 9 percent per annum, or such adjusted rate as was established by the Secretary under subsection (b).
+<b>1979</b>—Subsec. (a). Pub. L. 96–167 substituted provisions setting the annual rate established under this section to be such adjusted rate as is established by the Secretary under subsec. (b) of this section for provision that the rate of interest under sections 6601(a), 6602, 6611(a), 6332(c)(1), and 7426(g) of this title, and under section 2411(a) of title 28 was to be 9 percent per annum, or such adjusted rate as was established by the Secretary under subsection (b).
 
 <b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 

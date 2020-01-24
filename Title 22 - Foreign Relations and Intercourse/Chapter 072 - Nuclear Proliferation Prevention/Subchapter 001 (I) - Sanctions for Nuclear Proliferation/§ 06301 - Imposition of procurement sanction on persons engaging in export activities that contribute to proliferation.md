@@ -88,7 +88,7 @@ The sanction imposed pursuant to this section shall apply for a period of at lea
 
 #### (1) Criterion for waiver
 
-&emsp;The President may waive the application of the sanction imposed on any person pursuant to this section, after the end of the 12-month period beginning on the date on which that sanction was imposed on that person, if the President determines and certifies in writing to the Congress that the continued imposition of the sanction would have a serious adverse effect on vital United States interests.
+&emsp;The President may waive the application of the sanction imposed on any person pursuant to this section, after the end of the 12-month period beginning on the date on which thatsanction was imposed on that person, if the President determines and certifies in writing to the Congress that the continued imposition of the sanction would have a serious adverse effect on vital United States interests.
 
 #### (2) Notification of and report to Congress
 

@@ -54,7 +54,7 @@ Not later than 60 days after October 18, 2017, the Attorney General shall design
 
 &emsp;&emsp;(A) coordinating and supporting the enforcement and consumer education efforts and policy activities of the Federal Trade Commission on elder justice issues; and
 
-&emsp;&emsp;(B) serving as, or ensuring the availability of, a central point of contact for individuals, units of local government, States, and other Federal agencies on matters relating to the enforcement and consumer education efforts and policy activities of the Federal Trade Commission on elder justice issues.
+&emsp;&emsp;(B) serving as, or ensuring the availability of, a central point of contact for individuals, units of local government, States, and other Federal agencies on matters relating to the enforcement and consumer education effortsand policy activities of the Federal Trade Commission on elder justice issues.
 
 #### (2) Reports to Congress
 

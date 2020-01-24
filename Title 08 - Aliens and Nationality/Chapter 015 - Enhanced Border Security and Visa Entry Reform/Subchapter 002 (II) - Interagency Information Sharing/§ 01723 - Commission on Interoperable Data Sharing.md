@@ -28,7 +28,7 @@ The Commission shall consider recommendations regarding the following issues:
 
 &emsp;(3) The adequacy of mechanisms to permit the timely correction of errors in data maintained by the interoperable data system.
 
-&emsp;(4) Other protections against unauthorized use of data to guard against the misuse of theinteroperable data system or the data maintained by the system, including recommendations for modifications to existing laws and regulations to sanction misuse of the system.
+&emsp;(4) Other protections against unauthorized use of data to guard against the misuse of the interoperable data system or the data maintained by the system, including recommendations for modifications to existing laws and regulations to sanction misuse of the system.
 
 #### (d) Authorization of appropriations
 

@@ -2,7 +2,7 @@
 
 #### (a) Use of foreign currencies and credits
 
-It is the sense of Congress that the President should use his authority under the Constitution and laws of the United States to accomplish the purposes of section 2101 of this title and in accomplishing such purposes (1) use to the fullest extent practicable foreign currencies or credits available for utilization by the United States, (2) enter into agreements to use foreign currencies and credits available to other nations for use with the agreement of the United States, and (3) use any other foreign currencies and credits which may be made available by participating foreign countries.
+It is the sense of Congress that the President should use his authority under the Constitution and laws of the United States to accomplish thepurposes of section 2101 of this title and in accomplishing such purposes (1) use to the fullest extent practicable foreign currencies or credits available for utilization by the United States, (2) enter into agreements to use foreign currencies and credits available to other nations for use with the agreement of the United States, and (3) use any other foreign currencies and credits which may be made available by participating foreign countries.
 
 #### (b) Disease and health deficiency investigations, experiments, and studies; rehabilitation
 
@@ -40,7 +40,7 @@ The President may delegate any authority vested in him by this section to the Se
 
 #### (g) Use of foreign currencies and credits
 
-In order to carry out the purposes of section 2101 of this title, and subject to section 1306 of title 31, the President may use or enter into agreements with foreign nations or organizations of nations to use the foreign currencies which accrue under title I of the Food for Peace Act \[7 U.S.C. 1701 et seq.\], and the Mutual Security Act of 1954, or which are otherwise available for utilization by the United States. The President is authorized to agree to the utilization by foreign nations, for programs designed to carry out the purposes of section 2101 of this title in cooperation with the United States, of amounts deposited in special accounts pursuant to section 142(b) <sup>1</sup> of the Mutual Security Act of 1954, to the extent that the amounts in such accounts exceed the requirements of other programs covered by such section 142(b). Such utilization of amounts in special accounts shall be without regard to the second proviso in clause (iii) of such section 142(b).
+In order to carry out the purposes of section 2101 of this title, and subject to section 1306 of title 31, the President may use or enter into agreements with foreign nations or organizations of nations to use the foreign currencies which accrue under title I of the Food for Peace Act \[7 U.S.C. 1701 et seq.\], and the Mutual Security Act of 1954, or which are otherwise available for utilization by the United States. The President is authorized to agree to the utilization by foreign nations, for programs designed to carryout the purposes of section 2101 of this title in cooperation with the United States, of amounts deposited in special accounts pursuant to section 142(b) <sup>1</sup> of the Mutual Security Act of 1954, to the extent that the amounts in such accounts exceed the requirements of other programs covered by such section 142(b). Such utilization of amounts in special accounts shall be without regard to the second proviso in clause (iii) of such section 142(b).
 
 #### (h) Repealed. Pub. L. 105–362, title VI, §601(a)(2)(F), Nov. 10, 1998, 112 Stat. 3286
 

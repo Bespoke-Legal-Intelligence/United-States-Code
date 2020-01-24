@@ -56,7 +56,7 @@ Subsec. (c). Pub. L. 101–239, §6202(b)(2)(C), substituted "group" for "large 
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13561(d)(3), Aug. 10, 1993, 107 Stat. 594, provided that: "The amendments made by this subsection \[amending this section and section 1395y of Title 42, The Public Health and Welfare\] shall take effect 90 days after the date of the enactment of this Act \[Aug. 10, 1993\]."
+Pub. L. 103–66, title XIII, §13561(d)(3), Aug. 10, 1993, 107 Stat. 594, provided that: "The amendments made bythis subsection \[amending this section and section 1395y of Title 42, The Public Health and Welfare\] shall take effect 90 days after the date of the enactment of this Act \[Aug. 10, 1993\]."
 
 #### Effective Date of 1989 Amendment
 

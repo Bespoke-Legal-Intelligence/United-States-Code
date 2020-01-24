@@ -118,7 +118,7 @@
 
 #### (11) Forward auctions
 
-&emsp;Effective beginning in fiscal year 2016, the Secretary may conduct a forward auction once each fiscal year of a quantity of helium that is equal to up to 10 percent of the volume of crude helium to be made available at auction during the following fiscal year if the Secretary determines that the forward auction will—
+&emsp;Effective beginning in fiscal year 2016, the Secretary may conduct a forward auction onceeach fiscal year of a quantity of helium that is equal to up to 10 percent of the volume of crude helium to be made available at auction during the following fiscal year if the Secretary determines that the forward auction will—
 
 &emsp;&emsp;(A) not cause a disruption in the supply of helium from the Reserve;
 
@@ -212,7 +212,7 @@
 
 #### (4) Report
 
-&emsp;Not later than 1 year after October 2, 2013, and annually thereafter, the Secretary of theInterior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report describing all expenditures by the Bureau of Land Management to carry out this chapter.
+&emsp;Not later than 1 year after October 2, 2013, and annually thereafter, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report describing all expenditures by the Bureau of Land Management to carry out this chapter.
 
 #### (f) Minimum quantity
 

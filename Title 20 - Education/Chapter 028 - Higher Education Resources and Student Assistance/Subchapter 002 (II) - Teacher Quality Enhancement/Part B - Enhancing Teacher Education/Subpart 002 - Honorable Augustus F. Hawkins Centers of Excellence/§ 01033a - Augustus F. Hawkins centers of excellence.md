@@ -6,7 +6,7 @@ From the amounts appropriated to carry out this part, the Secretary is authorize
 
 #### (b) Use of funds
 
-Grants provided by the Secretary under this subpart shall be used to ensure that current andfuture teachers meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title, by carrying out one or more of the following activities:
+Grants provided by the Secretary under this subpart shall be used to ensure that current and future teachers meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title, by carrying out one or more of the following activities:
 
 &emsp;(1) Implementing reforms within teacher preparation programs to ensure that such programs are preparing teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title, are able to understand scientifically valid research, and are able to use advanced technology effectively in the classroom, including use of instructional techniques to improve student academic achievement, by—
 
@@ -20,7 +20,7 @@ Grants provided by the Secretary under this subpart shall be used to ensure that
 
 &emsp;(2) Providing sustained and high-quality preservice clinical experience, including the mentoring of prospective teachers by exemplary teachers, substantially increasing interaction between faculty at institutions of higher education and new and experienced teachers, principals, and other administrators at elementary schools or secondary schools, and providing support, including preparation time, for such interaction.
 
-&emsp;(3) Developing and implementing initiatives to promote retention of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title, and highly qualified principals, including minority teachers and principals, including programs that provide—
+&emsp;(3) Developing and implementing initiatives to promote retention of teachers who meet theapplicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title, and highly qualified principals, including minority teachers and principals, including programs that provide—
 
 &emsp;&emsp;(A) teacher or principal mentoring from exemplary teachers or principals, respectively; or
 

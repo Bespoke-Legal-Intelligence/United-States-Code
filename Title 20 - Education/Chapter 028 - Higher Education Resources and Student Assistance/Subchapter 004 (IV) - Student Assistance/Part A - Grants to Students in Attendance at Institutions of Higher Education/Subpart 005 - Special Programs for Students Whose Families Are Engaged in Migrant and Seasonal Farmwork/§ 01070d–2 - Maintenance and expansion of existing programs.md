@@ -200,7 +200,7 @@ Subsec. (e). Pub. L. 110–315, §408(3), substituted "section 1070a–11(c)(2)"
 
 Subsec. (f)(1), (2). Pub. L. 110–315, §408(4), substituted "$180,000" for "$150,000".
 
-Subsecs. (g) to (i). Pub. L. 110–315, §408(6)–(8), added subsecs. (g) to (i) and struck out former subsecs. (h) and\(i), which related to data collection and to authorization of appropriations.
+Subsecs. (g) to (i). Pub. L. 110–315, §408(6)–(8), added subsecs. (g) to (i) and struck out former subsecs. (h) and (i), which related to data collection and to authorization of appropriations.
 
 Pub. L. 110–315, §408(5), redesignated subsecs. (g) and (h) as (h) and (i), respectively.
 
@@ -230,7 +230,7 @@ Subsec. (c). Pub. L. 102–325, §405(a)(2), (b), designated existing provisions
 
 Subsec. (e). Pub. L. 102–325, §405(c), substituted "Five-year" for "Three-year" in heading and "5-year" for "3-year" in text.
 
-Subsec. (g). Pub. L. 102–325, §405(d), amended subsec. (g) generally, substituting present provisions for former provisions which authorized appropriations for fiscal years 1987 through 1991.
+Subsec. (g). Pub. L. 102–325, §405(d), amended subsec. (g) generally, substituting present provisions forformer provisions which authorized appropriations for fiscal years 1987 through 1991.
 
 <b>1987</b>—Subsec. (g). Pub. L. 100–50 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "There is authorized to be appropriated for this part $9,000,000 for fiscal year 1987, and such sums as may be necessary for the 4 succeeding fiscal years."
 

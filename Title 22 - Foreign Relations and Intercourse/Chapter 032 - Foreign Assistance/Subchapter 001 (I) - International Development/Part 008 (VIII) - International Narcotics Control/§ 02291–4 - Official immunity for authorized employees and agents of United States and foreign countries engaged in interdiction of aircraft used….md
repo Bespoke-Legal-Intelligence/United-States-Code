@@ -22,7 +22,7 @@ Notwithstanding any other provision of law, it shall not be unlawful for authori
 
 &emsp;(A) A list specifying each country for which a certification referred to in subsection (a)(2) was in effect for purposes of that subsection during any portion of such calendar year, including the nature of the illicit drug trafficking threat to each such country.
 
-&emsp;(B) A detailed explanation of the procedures referred to in subsection (a)(2)(B) in effect for each country listed under subparagraph (A), including any training and other mechanisms in place to ensure adherence to such procedures.
+&emsp;(B) A detailed explanation of the procedures referred to in subsection (a)(2)(B) in effect for each country listed under subparagraph (A),including any training and other mechanisms in place to ensure adherence to such procedures.
 
 &emsp;(C) A complete description of any assistance provided under subsection (b).
 
@@ -46,7 +46,7 @@ For purposes of this section:
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1995, and not as partof the Foreign Assistance Act of 1961 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1995, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
 #### Amendments
 
@@ -88,7 +88,9 @@ Determination No. 2006–02, Oct. 16, 2005, 70 F.R. 62227.
 
 Determination No. 2005–03, Oct. 16, 2004, 69 F.R. 62797.
 
-Colombia.—Determination No. 2018–10, July 20, 2018, 83 F.R. 39579.
+Colombia.—Determination No. 2019–14, July 19, 2019, 84 F.R. 38109.
+
+Determination No. 2018–10, July 20, 2018, 83 F.R. 39579.
 
 Determination No. 2017–10, July 21, 2017, 82 F.R. 40667.
 

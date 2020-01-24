@@ -1,6 +1,6 @@
 ### §151. Purposes of chapter; Federal Communications Commission created
 
-For the purpose of regulating interstate and foreign commerce in communication by wire and radio so as to make available, so far as possible, to all the people of the United States, without discrimination on the basis of race, color, religion, national origin, or sex, a rapid, efficient, Nation-wide, and world-wide wire and radio communication service with adequate facilities at reasonable charges, for the purpose of the national defense, for the purpose of promoting safety of life and property through the use of wire and radio communications, and for the purpose of securing a more effective execution of this policy by centralizing authority heretofore granted by law to several agencies and by granting additional authority with respect to interstate and foreign commerce in wire and radio communication, there is created a commission to be known as the "Federal Communications Commission", which shall be constituted as hereinafter provided, and which shall execute and enforce the provisions of this chapter.
+For the purpose of regulating interstate and foreign commerce in communication by wire and radio so as to make available, so far as possible, to all the people of the United States, without discrimination on the basis of race, color, religion, national origin, or sex, a rapid, efficient, Nation-wide, and world-wide wire and radio communication service with adequate facilities at reasonable charges, for the purpose of the national defense, for the purpose of promoting safety of life and property through the use of wire and radio communications, and for the purpose of securing a more effective execution of this policy by centralizing authority heretofore granted by law to several agencies and by granting additional authority with respect to interstate and foreign commerce in wire and radio communication, there is created a commission to be known as the "Federal Communications Commission", which shall be constituted ashereinafter provided, and which shall execute and enforce the provisions of this chapter.
 
 (June 19, 1934, ch. 652, title I, §1, 48 Stat. 1064; May 20, 1937, ch. 229, §1, 50 Stat. 189; Pub. L. 104–104, title I, §104, Feb. 8, 1996, 110 Stat. 86.)
 
@@ -104,7 +104,7 @@ Internet information location tool.—The term 'Internet information location to
 
 &emsp;&emsp;"(F)
 
-Material that is harmful to minors.—The term 'material that is harmful to minors' means any communication, picture, image, graphic image file, article, recording, writing, or other matter of any kind that is obscene or that—
+Material that is harmful to minors.—The term 'material that is harmful to minors' means any communication, picture, image, graphic imagefile, article, recording, writing, or other matter of any kind that is obscene or that—
 
 &emsp;&emsp;&emsp;"(i) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, is designed to appeal to, or is designed to pander to, the prurient interest;
 
@@ -466,7 +466,7 @@ In general.—The term 'tax on Internet access' means a tax on Internet access, 
 
 &emsp;&emsp;"(B)
 
-General exception.—The term 'tax on Internet access' does not include a tax levied upon or measured by net income, capital stock, net worth, or property value.
+General exception.—The term 'tax on Internet access' does not include a tax levied uponor measured by net income, capital stock, net worth, or property value.
 
 &emsp;&emsp;"(C)
 
@@ -558,11 +558,11 @@ Pub. L. 97–259, title II, §202, Sept. 13, 1982, 96 Stat. 1099, provided that:
 
 #### Commission on Governmental Use of International Telecommunications
 
-Act July 29, 1954, ch. 647, 68 Stat. 587, established the Commission on Governmental Use of International Telecommunications to examine, study and report on the objectives, operations, and effectiveness of information programs with respect to the prompt development of techniques, methods, and programs for greatly expanded and far more effective operations in this vital area of foreign policy through the use of foreign telecommunications. The Commission was required to make a report of its findings and recommendations on or before Dec. 31, 1954, and the Commission ceased to exist 90 days after submission of its report to the Congress.
+Act July 29, 1954, ch. 647, 68 Stat. 587, established the Commission on Governmental Use of International Telecommunications to examine, study and report on the objectives, operations, and effectiveness of information programs with respect to the prompt development of techniques, methods, and programs for greatly expanded and far more effective operations in this vital area of foreign policy through the use of foreign telecommunications. The Commission was required to make a report of its findings and recommendations onor before Dec. 31, 1954, and the Commission ceased to exist 90 days after submission of its report to the Congress.
 
 #### Communication Privileges to Participants in World Telecommunication Conferences
 
-Act May 13, 1947, ch. 51, 61 Stat. 83, provided that nothing in this chapter, or in any other provision oflaw should be construed to prohibit United States communication common carriers from rendering free communication services to official participants in the world telecommunications conferences which were held in the United States in 1947.
+Act May 13, 1947, ch. 51, 61 Stat. 83, provided that nothing in this chapter, or in any other provision of law should be construed to prohibit United States communication common carriers from rendering free communication services to official participants in the world telecommunications conferences which were held in the United States in 1947.
 
 #### Executive Order No. 10460
 

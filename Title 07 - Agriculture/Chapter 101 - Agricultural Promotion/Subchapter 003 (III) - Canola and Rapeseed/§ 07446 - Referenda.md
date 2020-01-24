@@ -56,7 +56,7 @@
 
 #### (C) Notifications
 
-&emsp;&emsp;The Secretary shall publish a notice in the Federal Register, and the Board shall provide written notification to producers, not later than 60 days prior to the end of the period established under subparagraph (B)(i) for an in-person request, of the opportunity of producers to request an additional referendum. The notification shall explain the right of producers to an additional referendum, the procedure for a referendum, thepurpose of a referendum, and the date and method by which producers may act to request an additional referendum under this paragraph. The Secretary shall take such other action as the Secretary determines is necessary to ensure that producers are made aware of the opportunity to request an additional referendum.
+&emsp;&emsp;The Secretary shall publish a notice in the Federal Register, and the Board shall provide written notification to producers, not later than 60 days prior to the end of the period established under subparagraph (B)(i) for an in-person request, of the opportunity of producers to request an additional referendum. The notification shall explain the right of producers to an additional referendum, the procedure for a referendum, the purpose of a referendum, and the date and method by which producers may act to request an additional referendum under this paragraph. The Secretary shall take such other action as the Secretary determines is necessary to ensure that producers are made aware of the opportunity to request an additional referendum.
 
 #### (D) Action by Secretary
 
@@ -92,7 +92,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Change of Name
 
-Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments made to section 6932 of this title by Pub. L. 115–334, title XII, §12404(a), Dec. 20, 2018, 132 Stat. 4974.
+Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments madeto section 6932 of this title by Pub. L. 115–334, title XII, §12404(a), Dec. 20, 2018, 132 Stat. 4974.
 
 #### Effective Date of 2008 Amendment
 

@@ -16,7 +16,7 @@ Every second year, the Secretary shall prepare and submit to the Committee on Ed
 
 &emsp;(4) containing a description of technical assistance and other assistance provided by State educational agencies under section 6821(b)(2)(D) of this title;
 
-&emsp;(5) containing an estimate of the number of certified or licensed teachers working in language instruction educational programs and educating English learners, and an estimate ofthe number of such teachers that will be needed for the succeeding 5 fiscal years;
+&emsp;(5) containing an estimate of the number of certified or licensed teachers working in language instruction educational programs and educating English learners, and an estimate of the number of such teachers that will be needed for the succeeding 5 fiscal years;
 
 &emsp;(6) containing the findings of the most recent evaluation related to English learners carried out under section 7981 of this title;
 
@@ -55,6 +55,10 @@ Subsec. (b)(6). Pub. L. 114–95, §3003(i)(3)(E), substituted "findings of the 
 Subsec. (b)(8). Pub. L. 114–95, §3003(i)(3)(F), substituted "of English learners" for "of limited English proficient children" and struck out "into classrooms where instruction is not tailored for limited English proficient children" before the semicolon.
 
 Subsec. (b)(9). Pub. L. 114–95, §3003(i)(3)(G), substituted "part" for "subchapter".
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 

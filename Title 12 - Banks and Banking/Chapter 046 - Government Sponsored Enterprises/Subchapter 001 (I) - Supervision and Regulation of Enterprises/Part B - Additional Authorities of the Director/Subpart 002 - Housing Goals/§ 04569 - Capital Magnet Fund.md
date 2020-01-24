@@ -50,7 +50,7 @@ Grant amounts awarded from the Capital Magnet Fund pursuant to this section may 
 
 #### (1) In general
 
-&emsp;The Secretary of the Treasury shall provide, in a competitive application process established by regulation, for eligible grantees under subsection (e) to submit applications for Capital Magnet Fund grants to the Secretary at such time and in such manner as the Secretary shall determine.
+&emsp;The Secretary of the Treasury shall provide, in a competitive application process established by regulation, for eligible grantees under subsection (e) to submit applications forCapital Magnet Fund grants to the Secretary at such time and in such manner as the Secretary shall determine.
 
 #### (2) Content of application
 
@@ -132,7 +132,7 @@ Grant amounts awarded from the Capital Magnet Fund pursuant to this section may 
 
 &emsp;&emsp;&emsp;(ii) establish minimum requirements for agreements, between the grantee and the Capital Magnet Fund, regarding assistance from the Capital Magnet Fund, which shall include—
 
-&emsp;&emsp;&emsp;&emsp;(I) appropriate periodic financial and project reporting, record retention, and audit requirements for the duration of the grant to the recipient to ensure compliance with the limitations and requirements of this section and the regulations under this section; and
+&emsp;&emsp;&emsp;&emsp;(I) appropriate periodic financial and project reporting, record retention, andaudit requirements for the duration of the grant to the recipient to ensure compliance with the limitations and requirements of this section and the regulations under this section; and
 
 &emsp;&emsp;&emsp;&emsp;(II) any other requirements that the Secretary determines are necessary to ensure appropriate grant administration and compliance.
 

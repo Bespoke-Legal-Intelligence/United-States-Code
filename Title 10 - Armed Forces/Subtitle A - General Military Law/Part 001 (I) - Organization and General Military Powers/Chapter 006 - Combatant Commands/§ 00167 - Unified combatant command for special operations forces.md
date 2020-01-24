@@ -146,7 +146,7 @@ Budget Support for Reserve Elements.—(1) Before the budget proposal for the sp
 
 (2) Before the budget proposal for a military department for any fiscal year is submitted to the Secretary of Defense, the Secretary of that military department shall consult with the commander of the special operations command concerning funding for special operations forces in the military personnel budget for a reserve component in that military department. If the commander of that command does not concur in the recommended level of funding with respect to reserve component special operations units, the Secretary shall include with the budget proposal submitted to the Secretary of Defense the views of the commander of that command.
 
-(Added Pub. L. 99–500, §101(c) \[title IX, §9115(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, §1211(d), Dec. 4, 1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, §712, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 102–88, title VI, §602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, §925, Oct. 5, 1994, 108 Stat. 2832; Pub. L. 110–181, div. A, title VIII, §810, Jan. 28, 2008, 122 Stat. 217; Pub. L. 112–81, div. A, title X, §1086(1), Dec. 31, 2011, 125 Stat. 1603; Pub. L. 113–66, div. A, title IX, §903, Dec. 26, 2013, 127 Stat. 816; Pub. L. 113–291, div. A, title X, §1071(c)(3), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title IX, §922(c), Dec. 23, 2016, 130 Stat. 2356.)
+(Added Pub. L. 99–500, §101(c) \[title IX, §9115(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, §1211(d), Dec. 4,1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, §712, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 102–88, title VI, §602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, §925, Oct. 5, 1994, 108 Stat. 2832; Pub. L. 110–181, div. A, title VIII, §810, Jan. 28, 2008, 122 Stat. 217; Pub. L. 112–81, div. A, title X, §1086(1), Dec. 31, 2011, 125 Stat. 1603; Pub. L. 113–66, div. A, title IX, §903, Dec. 26, 2013, 127 Stat. 816; Pub. L. 113–291, div. A, title X, §1071(c)(3), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title IX, §922(c), Dec. 23, 2016, 130 Stat. 2356.)
 
 #### References in Text
 
@@ -216,13 +216,37 @@ Subsecs. (f) to (l). Pub. L. 114–328, §922(c)(2), added subsec. (f) and redes
 
 Pub. L. 99–500, §101(c) \[title IX, §9115(i)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, §101(c) \[title IX, §9115(i)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, §1311(i), Nov. 14, 1986, 100 Stat. 3986, provided that: "Section 167 of title 10, United States Code (as added by subsection (b)), shall be implemented not later than 180 days after the date of the enactment of this Act \[Oct. 18, 1986\]."
 
+#### Processes and Procedures for Notifications Regarding Special Operations Forces
+
+Pub. L. 116–92, div. A, title XVII, §1745, Dec. 20, 2019, 133 Stat. 1842, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall establish and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] processes and procedures for providing notifications to the committees regarding members of special operations forces, as identified in section 167(j) of title 10, United States Code.
+
+"(b)
+
+Processes and Procedures.—The processes and procedures established under subsection (a) shall—
+
+&emsp;"(1) clarify the roles and responsibilities of the Secretaries of the military departments, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, and the Commander of United States Special Operations Command;
+
+&emsp;"(2) provide guidance relating to the types of matters that would warrant congressional notification, including awards, reprimands, incidents, and any other matters the Secretary determines necessary;
+
+&emsp;"(3) be consistent with the national security of the United States;
+
+&emsp;"(4) be designed to protect sensitive information during an ongoing investigation;
+
+&emsp;"(5) account for the privacy of members of the Armed Forces; and
+
+&emsp;"(6) take in to account existing processes and procedures for notifications to the congressional defense committees regarding members of the conventional Armed Forces."
+
 #### Memoranda of Agreement on Identification and Dedication of Enabling Capabilities of General Purpose Forces to Fulfill Certain Requirements of Special Operations Forces
 
 Pub. L. 112–81, div. A, title IX, §904, Dec. 31, 2011, 125 Stat. 1533, provided that:
 
 "(a)
 
-Requirement.—By not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\] and annually thereafter, each Secretary of a military department shall enter into a memorandum of agreement with the Commander of the United States Special Operations Command that identifies or establishes processes and associated milestones by which numbers and types of enabling capabilities of the general purpose forces of the Armed Forces under the jurisdiction of such Secretary can be identified and dedicated to fulfill the training and operational requirements of special operations forces under the United States Special Operations Command.
+Requirement.—By not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\] andannually thereafter, each Secretary of a military department shall enter into a memorandum of agreement with the Commander of the United States Special Operations Command that identifies or establishes processes and associated milestones by which numbers and types of enabling capabilities of the general purpose forces of the Armed Forces under the jurisdiction of such Secretary can be identified and dedicated to fulfill the training and operational requirements of special operations forces under the United States Special Operations Command.
 
 "(b)
 
@@ -306,7 +330,7 @@ Major Force Program Category.—The Secretary of Defense shall create for the sp
 
 "(d)
 
-Program and Budget Execution.—To the extent that there is authority to revise programs and budgets approved by Congress for special operations forces, such authority may be exercised only by the Secretary of Defense, after consulting with the commander of the special operations command.
+Program and Budget Execution.—To the extent that there is authority to revise programs and budgetsapproved by Congress for special operations forces, such authority may be exercised only by the Secretary of Defense, after consulting with the commander of the special operations command.
 
 "(e)
 

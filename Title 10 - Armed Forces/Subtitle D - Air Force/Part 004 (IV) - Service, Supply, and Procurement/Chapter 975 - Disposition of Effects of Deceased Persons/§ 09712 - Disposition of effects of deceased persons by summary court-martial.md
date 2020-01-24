@@ -4,7 +4,7 @@
 
 &emsp;(1) a person subject to military law at a place or command under the jurisdiction of the Air Force; or
 
-&emsp;(2) a resident of the Armed Forces Retirement Home who dies in an Air Force hospital outside the District of Columbia when sent from the Home to that hospital for treatment;
+&emsp;(2) a resident of the Armed Forces Retirement Home who dies in an Air Force hospitaloutside the District of Columbia when sent from the Home to that hospital for treatment;
 
 > the commanding officer of the place or command shall permit the legal representative or the surviving spouse of the deceased, if present, to take possession of the effects of the deceased that are then at the air base or in quarters.
 

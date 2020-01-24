@@ -44,7 +44,7 @@ The Social Security Act, referred to in subsec. (a)(5)(B), is act Aug. 14, 1935,
 
 Subsec. (a)(4). Pub. L. 115–48, §301(a)(3), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 115–48, §301(a)(4), designated existing provisions as subpar. (A), substituted "for fiscalyear 2018 shall be $21,000,000 and for fiscal year 2019 and thereafter shall be $23,000,000" for "for any fiscal year shall be $19,000,000", and added subpar. (B).
+Subsec. (a)(5). Pub. L. 115–48, §301(a)(4), designated existing provisions as subpar. (A), substituted "for fiscal year 2018 shall be $21,000,000 and for fiscal year 2019 and thereafter shall be $23,000,000" for "for any fiscal year shall be $19,000,000", and added subpar. (B).
 
 Pub. L. 115–48, §301(a)(2), redesignated par. (4) as (5).
 
@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 107–14, §8(a)(7)(B), struck out "on September 30, 1978, 
 
 <b>1994</b>—Subsec. (a)(3). Pub. L. 103–446, §606(b), struck out "(A)" before "Each State" and struck out subpar. (B) which read as follows: "The Secretary shall transmit a report to the Congress on a quarterly basis which summarizes—
 
-&emsp;"(i) the amounts for which certifications were made by State and local agencies in the reports submitted under subparagraph (A) of this paragraph with respect to the quarter for which the report is made; and
+&emsp;"(i) the amounts for which certifications were made by State and local agencies in the reports submittedunder subparagraph (A) of this paragraph with respect to the quarter for which the report is made; and
 
 &emsp;"(ii) the amounts of the payments made by the Secretary for such quarter with respect to such certifications and with respect to administrative expenses."
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–631, §6(b), Oct. 23, 1968, 82 Stat. 1335, provided that: "The amendments made by section 4 of this Act \[amending this section\] shall apply with respect to contracts and agreements entered into under section 1774 \[now 3674\] of title 38, United States Code, effective for periods beginning after June 30, 1968."
+Pub. L. 90–631, §6(b), Oct. 23, 1968, 82 Stat. 1335, provided that: "The amendments made by section 4 of this Act \[amending this section\] shall apply with respect tocontracts and agreements entered into under section 1774 \[now 3674\] of title 38, United States Code, effective for periods beginning after June 30, 1968."
 
 #### Reimbursement From Account Used for Payment of Readjustment Benefits
 

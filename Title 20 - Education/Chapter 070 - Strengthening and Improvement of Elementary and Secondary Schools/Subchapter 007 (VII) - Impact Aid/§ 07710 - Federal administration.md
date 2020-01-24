@@ -26,7 +26,7 @@ Each Federal agency administering Federal property on which children reside, and
 
 &emsp;&emsp;&emsp;(ii) with a parent employed on Federal property in a State adjacent to the State in which such agency is located;
 
-&emsp;&emsp;(B) the schools of such agency are within a more reasonable commuting distance of suchchild's home than the schools of the local educational agency that serves the school attendance area where such child resides;
+&emsp;&emsp;(B) the schools of such agency are within a more reasonable commuting distance of such child's home than the schools of the local educational agency that serves the school attendance area where such child resides;
 
 &emsp;&emsp;(C) attending the schools of the local educational agency that serves the school attendance area where such child resides will impose a substantial hardship on such child;
 

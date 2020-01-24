@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the certificate credit rate exceeds 20 percent, the amount of the credit allowed to the taxpayer under paragraph (1) for any taxable year shall not exceed $2,000.
+&emsp;&emsp;If the certificate credit rate exceeds 20 percent, the amount of the credit allowed to thetaxpayer under paragraph (1) for any taxable year shall not exceed $2,000.
 
 #### (B) Special rule where 2 or more persons hold interests in residence
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) paragraph (1) of section 143(d) shall be applied by substituting "100 percent" for "95 percent or more".
 
-> &emsp;&emsp;Clause (iii) shall not apply if the issuing authority submits a plan to the Secretary for administering the 95-percent requirement of section 143(d)(1) and the Secretary is satisfied that such requirement will be met under such plan.
+> &emsp;&emsp;Clause (iii) shall not apply if the issuing authority submits a plan to the Secretary foradministering the 95-percent requirement of section 143(d)(1) and the Secretary is satisfied that such requirement will be met under such plan.
 
 #### (d) Determination of certificate credit rate
 
@@ -184,7 +184,7 @@ For purposes of this section—
 
 #### (C) Notice to Secretary when certificate revoked
 
-&emsp;&emsp;Any issuing authority which revokes any mortgage credit certificate shall notify theSecretary of such revocation at such time and in such manner as the Secretary shall prescribe by regulations.
+&emsp;&emsp;Any issuing authority which revokes any mortgage credit certificate shall notify the Secretary of such revocation at such time and in such manner as the Secretary shall prescribe by regulations.
 
 #### (4) Reissuance of mortgage credit certificates
 
@@ -266,7 +266,7 @@ For purposes of this section—
 
 #### (g) Reporting requirements
 
-Each person who makes a loan which is a certified indebtedness amount under any mortgagecredit certificate shall file a report with the Secretary containing—
+Each person who makes a loan which is a certified indebtedness amount under any mortgage credit certificate shall file a report with the Secretary containing—
 
 &emsp;(1) the name, address, and social security account number of the individual to which the certificate was issued,
 
@@ -436,7 +436,7 @@ Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by section 402(i)(3)(C) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub.L. 109–135, set out as a note under section 23 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
+Amendment by section 402(i)(3)(C) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
 The Internal Revenue Code of 1986 to be applied and administered as if the amendments made by section 1335(b)(1)–(3) of Pub. L. 109–58 had never been enacted, see section 402(i)(4) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
@@ -456,7 +456,7 @@ Amendment by section 618(b)(2)(B) of Pub. L. 107–16 applicable to taxable year
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

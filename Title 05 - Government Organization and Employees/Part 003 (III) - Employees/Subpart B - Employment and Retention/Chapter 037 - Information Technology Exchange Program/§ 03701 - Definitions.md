@@ -6,7 +6,7 @@ For purposes of this chapter—
 
 &emsp;(2) the term "detail" means—
 
-&emsp;&emsp;(A) the assignment or loan of an employee of an agency to a private sector organizationwithout a change of position from the agency that employs the individual, or
+&emsp;&emsp;(A) the assignment or loan of an employee of an agency to a private sector organization without a change of position from the agency that employs the individual, or
 
 &emsp;&emsp;(B) the assignment or loan of an employee of a private sector organization to an agency without a change of position from the private sector organization that employs the individual,
 

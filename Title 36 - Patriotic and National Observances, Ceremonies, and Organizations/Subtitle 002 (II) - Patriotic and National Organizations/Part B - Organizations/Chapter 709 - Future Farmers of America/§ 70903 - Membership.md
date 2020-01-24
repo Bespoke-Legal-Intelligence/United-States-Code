@@ -2,13 +2,13 @@
 
 (a)
 
-Eligibility.—Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the bylaws.
+Eligibility.—Except as provided in this chapter, eligibility for membership in the FFA and the rights and privileges of members are as provided in the constitution or bylaws of the FFA.
 
 (b)
 
 Voting.—In matters of official business of a local chapter, each member has one vote. In matters of official business of a State association, each qualified delegate of a local chapter has one vote.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1356.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1356; Pub. L. 116–7, §4, Feb. 21, 2019, 133 Stat. 479.)
 
 Historical and Revision Notes
 
@@ -27,4 +27,8 @@ Historical and Revision Notes
 Aug. 30, 1950, ch. 823, §6, 64 Stat. 565.
 
 In subsection (b), the words "In matters of" are substituted for "In the conduct of" for clarity and to eliminate unnecessary words.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–7 substituted "FFA" for "corporation" and "as provided in the constitution or bylaws of the FFA" for "as provided in the bylaws" before period at end.
 

@@ -470,6 +470,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Provisions relating to inflation adjustment of items in this section and reference price for certain years were contained in the following:
 
+<b>2018</b>—Internal Revenue Notice 2019–28.
+
 <b>2017</b>—Internal Revenue Notice 2018–32.
 
 <b>2016</b>—Internal Revenue Notice 2017–24.

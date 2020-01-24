@@ -24,7 +24,7 @@
 
 #### (2) Swap submissions
 
-&emsp;(A) A clearing agency shall submit to the Commission each security-based swap, or any group, category, type, or class of security-based swaps that it plans to accept for clearing and provide notice to its members (in a manner to be determined by the Commission) of such submission.
+&emsp;(A) A clearing agency shall submit to the Commission each security-based swap, or any group, category, type, or class of security-based swaps that it plans to accept for clearing and provide notice to its members (in amanner to be determined by the Commission) of such submission.
 
 &emsp;(B) Any security-based swap or group, category, type, or class of security-based swaps listed for clearing by a clearing agency as of July 21, 2010, shall be considered submitted to the Commission.
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(i) make available to the public any submission received under subparagraphs (A) and (B);
 
-&emsp;&emsp;(ii) review each submission made under subparagraphs (A) and (B), and determine whether the security-based swap, or group, category, type, or class of security-basedswaps, described in the submission is required to be cleared; and
+&emsp;&emsp;(ii) review each submission made under subparagraphs (A) and (B), and determine whether the security-based swap, or group, category, type, or class of security-based swaps, described in the submission is required to be cleared; and
 
 &emsp;&emsp;(iii) provide at least a 30-day public comment period regarding its determination whether the clearing requirement under subsection (a)(1) shall apply to the submission.
 
@@ -92,13 +92,13 @@
 
 #### (2) Duty of Commission to investigate and take certain actions
 
-&emsp;To the extent the Commission finds that a particular security-based swap or any group, category, type, or class of security-based swaps that would otherwise be subject to mandatory clearing but no clearing agency has listed the security-based swap or the group, category, type, or class of security-based swaps for clearing, the Commission shall—
+&emsp;To the extent the Commission finds that a particular security-based swap or any group,category, type, or class of security-based swaps that would otherwise be subject to mandatory clearing but no clearing agency has listed the security-based swap or the group, category, type, or class of security-based swaps for clearing, the Commission shall—
 
 &emsp;&emsp;(A) investigate the relevant facts and circumstances;
 
 &emsp;&emsp;(B) within 30 days issue a public report containing the results of the investigation; and
 
-&emsp;&emsp;(C) take such actions as the Commission determines to be necessary and in the public interest, which may include requiring the retaining of adequate margin or capital by parties to the security-based swap or thegroup, category, type, or class of security-based swaps.
+&emsp;&emsp;(C) take such actions as the Commission determines to be necessary and in the public interest, which may include requiring the retaining of adequate margin or capital by parties to the security-based swap or the group, category, type, or class of security-based swaps.
 
 #### (3) Effect on authority
 
@@ -188,7 +188,7 @@ Rules adopted by the Commission under this section shall provide for the reporti
 
 &emsp;&emsp;&emsp;(iv) is not ultimately owned by a parent company that is a financial entity; and
 
-&emsp;&emsp;&emsp;(v) does not provide any services, financial or otherwise, to any affiliate that is a nonbank financial company supervised by the Board of Governors (as defined under section 5311 of title 12).
+&emsp;&emsp;&emsp;(v) does not provide any services, financial or otherwise, to any affiliate that is anonbank financial company supervised by the Board of Governors (as defined under section 5311 of title 12).
 
 #### (B) Limitation on qualifying affiliates
 

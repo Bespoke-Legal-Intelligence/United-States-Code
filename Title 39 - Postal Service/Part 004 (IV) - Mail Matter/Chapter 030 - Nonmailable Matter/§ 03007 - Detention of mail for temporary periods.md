@@ -20,7 +20,7 @@
 
 (b) If any order is issued under subsection (a) and the proceedings under section 3005 are concluded with the issuance of an order under that section, any judicial review of the matter shall be in the district in which the order under subsection (a) was issued.
 
-(c) This section does not apply to mail addressed to publishers of newspapers and other periodical publications entitled to a periodical publication rate or to mail addressed to the agents of those publishers.
+(c) This section does not apply to mail addressed to publishers of newspapers and otherperiodical publications entitled to a periodical publication rate or to mail addressed to the agents of those publishers.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 747; Pub. L. 106–168, title I, §105(a), Dec. 12, 1999, 113 Stat. 1810.)
 
@@ -38,5 +38,5 @@ Amendment by Pub. L. 106–168 effective 120 days after Dec. 12, 1999, see secti
 
 #### Effective Date
 
-Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) ofPub. L. 91–375, set out as a note preceding section 101 of this title.
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 

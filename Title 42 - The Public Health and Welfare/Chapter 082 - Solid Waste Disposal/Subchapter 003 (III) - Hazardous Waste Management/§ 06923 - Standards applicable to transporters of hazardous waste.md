@@ -18,7 +18,7 @@ In case of any hazardous waste identified or listed under this subchapter which 
 
 #### (c) Fuel from hazardous waste
 
-Not later than two years after November 8, 1984, and after opportunity for public hearing, the Administrator shall promulgate regulations establishing standards, applicable to transporters of fuel produced (1) from any hazardous waste identified or listed under section 6921 of this title, or (2) from any hazardous waste identified or listed under section 6921 of this title and any other material, as may be necessary to protect human health and the environment. Such standards may include any of the requirements set forth in paragraphs (1) through (4) of subsection (a) as may be appropriate.
+Not later than two years after November 8, 1984, and after opportunity for public hearing, the Administrator shall promulgate regulationsestablishing standards, applicable to transporters of fuel produced (1) from any hazardous waste identified or listed under section 6921 of this title, or (2) from any hazardous waste identified or listed under section 6921 of this title and any other material, as may be necessary to protect human health and the environment. Such standards may include any of the requirements set forth in paragraphs (1) through (4) of subsection (a) as may be appropriate.
 
 (Pub. L. 89–272, title II, §3003, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2807; amended Pub. L. 95–609, §7(g), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 98–616, title II, §204(b)(2), Nov. 8, 1984, 98 Stat. 3238.)
 
@@ -30,7 +30,7 @@ The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (a)
 
 #### Codification
 
-In subsec. (b), "chapter 51 of title 49" substituted for "the Hazardous Materials Transportation Act (88 Stat. 2156) \[49 App. U.S.C. 1801 et seq.\]" on authority of Pub.L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (b), "chapter 51 of title 49" substituted for "the Hazardous Materials Transportation Act (88 Stat. 2156) \[49 App. U.S.C. 1801 et seq.\]" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
 

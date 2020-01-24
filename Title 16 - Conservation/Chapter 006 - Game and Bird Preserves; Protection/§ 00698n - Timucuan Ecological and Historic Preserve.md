@@ -48,7 +48,7 @@ In subsec. (a)(1), "section 100506(c) of title 54" substituted for "section 7(c)
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–321, §1, Oct. 5, 2004, 118 Stat. 1214, provided that: "This Act \[amending this section\] may be cited as the 'Timucuan Ecological and Historic Preserve Boundary Revision Act of 2004'."
+Pub. L. 108–321, §1, Oct. 5, 2004, 118 Stat. 1214, provided that: "This Act \[amending this section\] may be cited asthe 'Timucuan Ecological and Historic Preserve Boundary Revision Act of 2004'."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

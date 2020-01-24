@@ -27,6 +27,8 @@
 | [5722\.](Subchapter%20002%20%28II%29%20-%20Status%20of%20Hong%20Kong%20in%20United%20States%20Law/%C2%A7%2005722%20-%20Presidential%20order.md) | Presidential order. |
 | [5723\.](Subchapter%20002%20%28II%29%20-%20Status%20of%20Hong%20Kong%20in%20United%20States%20Law/%C2%A7%2005723%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [5724\.](Subchapter%20002%20%28II%29%20-%20Status%20of%20Hong%20Kong%20in%20United%20States%20Law/%C2%A7%2005724%20-%20Consultation%20with%20Congress.md) | Consultation with Congress. |
+| [5725\.](Subchapter%20002%20%28II%29%20-%20Status%20of%20Hong%20Kong%20in%20United%20States%20Law/%C2%A7%2005725%20-%20Secretary%20of%20State%20report%20regarding%20the%20autonomy%20of%20Hong%20Kong.md) | Secretary of State report regarding the autonomy of Hong Kong. |
+| [5726\.](Subchapter%20002%20%28II%29%20-%20Status%20of%20Hong%20Kong%20in%20United%20States%20Law/%C2%A7%2005726%20-%20Treatment%20of%20Hong%20Kong%20applicants%20for%20visas%20to%20study%20or%20work%20in%20the%20United%20States.md) | Treatment of Hong Kong applicants for visas to study or work in the United States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

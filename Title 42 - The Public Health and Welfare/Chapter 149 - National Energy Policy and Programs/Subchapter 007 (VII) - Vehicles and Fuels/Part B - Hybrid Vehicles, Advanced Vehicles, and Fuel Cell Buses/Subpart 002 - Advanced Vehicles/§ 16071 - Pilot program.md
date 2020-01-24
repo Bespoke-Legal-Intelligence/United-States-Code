@@ -96,7 +96,7 @@ In evaluating applications under the pilot program, the Secretary shall—
 
 #### (5) Transfer of information and knowledge
 
-&emsp;The Secretary shall establish mechanisms to ensure that the information and knowledgegained by participants in the pilot program are transferred among the pilot program participants and to other interested parties, including other applicants that submitted applications.
+&emsp;The Secretary shall establish mechanisms to ensure that the information and knowledge gained by participants in the pilot program are transferred among the pilot program participants and to other interested parties, including other applicants that submitted applications.
 
 #### (f) Schedule
 

@@ -56,7 +56,7 @@ This section shall not apply to property acquired by a corporation by the exchan
 
 #### (f) Definition of nonrecognition property in case of section 361 exchange
 
-For purposes of this section, the property permitted to be received under section 361 without the recognition of gain or loss shall be treated as consisting only of stock or securities in another corporation a party to the reorganization.
+For purposes of this section, the property permitted to be received under section 361 withoutthe recognition of gain or loss shall be treated as consisting only of stock or securities in another corporation a party to the reorganization.
 
 #### (g) Adjustments in intragroup transactions involving section 355
 
@@ -130,7 +130,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §309(d)\], Dec. 21, 2000, 114 Stat. 2
 
 "(1)
 
-In general.—The amendments made by this section \[amending this section and section 357 of this title\]shall apply to assumptions of liability after October 18, 1999.
+In general.—The amendments made by this section \[amending this section and section 357 of this title\] shall apply to assumptions of liability after October 18, 1999.
 
 "(2)
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 105–34 applicable, with certain exceptions, to distributi
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1978 Amendment
 

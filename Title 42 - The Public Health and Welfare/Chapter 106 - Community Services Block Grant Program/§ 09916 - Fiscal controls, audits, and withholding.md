@@ -18,7 +18,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), each audit required by subsection (a)(1)(C) shall be conducted by an entity independent of anyagency administering activities or services carried out under this chapter and shall be conducted in accordance with generally accepted accounting principles.
+&emsp;&emsp;Subject to subparagraph (B), each audit required by subsection (a)(1)(C) shall be conducted by an entity independent of any agency administering activities or services carried out under this chapter and shall be conducted in accordance with generally accepted accounting principles.
 
 #### (B) Single audit requirements
 

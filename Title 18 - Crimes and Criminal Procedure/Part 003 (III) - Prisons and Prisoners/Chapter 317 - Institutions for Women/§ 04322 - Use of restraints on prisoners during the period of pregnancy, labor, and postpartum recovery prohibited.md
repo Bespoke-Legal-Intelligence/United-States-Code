@@ -80,7 +80,7 @@ Notice.—Not later than 48 hours after the confirmation of a prisoner's pregnan
 
 (e)
 
-Violation Reporting Process.—The Director of the Bureau of Prisons, in consultation with the Director of the United States MarshalsService, shall establish a process through which a prisoner may report a violation of this section.
+Violation Reporting Process.—The Director of the Bureau of Prisons, in consultation with the Director of the United States Marshals Service, shall establish a process through which a prisoner may report a violation of this section.
 
 (f)
 

@@ -52,7 +52,7 @@ Limitation.—Amounts may be credited to the Fund under subparagraph (A) only if
 
 &emsp;(4)
 
-Report required.—On the date on which the President submits each budget for a fiscal year pursuant to section 1105 of title 31, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
+Report required.—On the date on which the President submits each budget for a fiscalyear pursuant to section 1105 of title 31, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
 
 &emsp;&emsp;(A) the amounts credited to the Fund under paragraph (3) for the preceding fiscal year; and
 

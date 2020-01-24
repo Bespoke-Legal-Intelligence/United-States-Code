@@ -22,5 +22,5 @@ For the purposes of this chapter, the term—
 
 #### Effective Date
 
-Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under thistitle before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 

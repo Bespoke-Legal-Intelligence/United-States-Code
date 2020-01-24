@@ -20,7 +20,7 @@ Funds in the account shall be used by the Architect of the Capitol for all neces
 
 &emsp;(B) the Committee on Appropriations of the Senate, in the case of a transfer from an office of the Senate; or
 
-&emsp;(C) the Committees on Appropriations of the House of Representatives and the Senate, in the case of a transfer from any other office of the Government.
+&emsp;(C) the Committees on Appropriations of the House of Representatives and the Senate, inthe case of a transfer from any other office of the Government.
 
 (2) Amounts transferred under this subsection shall be merged with the account and made available under this section.
 
@@ -38,5 +38,5 @@ Section was classified to section 166l of former Title 40, prior to the enactmen
 
 #### Amendments
 
-<b>2018</b>—Subsecs. (b) to (d). Pub. L. 115–244 added subsec. (c), redesignated former subsec. (c) as (d), and amendedsubsec. (b) generally. Prior to amendment, text of subsec. (b) read as follows: "Funds in the account shall be used by the Architect of the Capitol for all necessary expenses for the maintenance, care, and operation of buildings and grounds of the United States Capitol Police."
+<b>2018</b>—Subsecs. (b) to (d). Pub. L. 115–244 added subsec. (c), redesignated former subsec. (c) as (d), and amended subsec. (b) generally. Prior to amendment, text of subsec. (b) read as follows: "Funds in the account shall be used by the Architect of the Capitol for all necessary expenses for the maintenance, care, and operation of buildings and grounds of the United States Capitol Police."
 

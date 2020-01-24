@@ -204,7 +204,7 @@ Staff.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Chairperson of the Commission may, without regard to the civil service laws (including regulations), appoint and terminate the appointment of an executive director and such other additional personnel as are necessary to enable the Commission to perform the duties of the Commission.
+In general.—The Chairperson of the Commission may, without regard to the civil service laws (including regulations), appoint and terminatethe appointment of an executive director and such other additional personnel as are necessary to enable the Commission to perform the duties of the Commission.
 
 &emsp;&emsp;"(B)
 
@@ -216,7 +216,7 @@ Compensation.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Except as provided in clause (ii), the Chairperson of the Commission may fix the compensation of the executive director andother personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
+In general.—Except as provided in clause (ii), the Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
 
 &emsp;&emsp;&emsp;"(ii)
 

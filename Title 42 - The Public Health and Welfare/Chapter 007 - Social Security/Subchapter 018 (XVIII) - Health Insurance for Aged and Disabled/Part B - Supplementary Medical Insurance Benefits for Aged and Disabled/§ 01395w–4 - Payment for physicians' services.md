@@ -136,7 +136,7 @@
 
 #### (6) Special rule for teaching anesthesiologists
 
-&emsp;With respect to physicians' services furnished on or after January 1, 2010, in the case of teaching anesthesiologists involved in thetraining of physician residents in a single anesthesia case or two concurrent anesthesia cases, the fee schedule amount to be applied shall be 100 percent of the fee schedule amount otherwise applicable under this section if the anesthesia services were personally performed by the teaching anesthesiologist alone and paragraph (4) shall not apply if—
+&emsp;With respect to physicians' services furnished on or after January 1, 2010, in the case of teaching anesthesiologists involved in the training of physician residents in a single anesthesia case or two concurrent anesthesia cases, the fee schedule amount to be applied shall be 100 percent of the fee schedule amount otherwise applicable under this section if the anesthesia services were personally performed by the teaching anesthesiologist alone and paragraph (4) shall not apply if—
 
 &emsp;&emsp;(A) the teaching anesthesiologist is present during all critical or key portions of the anesthesia service or procedure involved; and
 
@@ -398,7 +398,7 @@
 
 #### (A) "Work component" defined
 
-&emsp;&emsp;The term "work component" means the portion of the resources used in furnishingthe service that reflects physician time and intensity in furnishing the service. Such portion shall—
+&emsp;&emsp;The term "work component" means the portion of the resources used in furnishing the service that reflects physician time and intensity in furnishing the service. Such portion shall—
 
 &emsp;&emsp;&emsp;(i) include activities before and after direct patient contact, and
 
@@ -476,7 +476,7 @@
 
 #### (VI) Additional reduced payment for multiple imaging procedures
 
-&emsp;&emsp;&emsp;&emsp;Effective for fee schedules established beginning with 2010 (but not applied for services furnished prior to July 1, 2010), reduced expenditures attributable to the increase in the multiple procedure payment reduction from 25 to 50 percent (as described in subsection (b)(4)(D)).
+&emsp;&emsp;&emsp;&emsp;Effective for fee schedules established beginning with 2010 (but not applied forservices furnished prior to July 1, 2010), reduced expenditures attributable to the increase in the multiple procedure payment reduction from 25 to 50 percent (as described in subsection (b)(4)(D)).
 
 #### (VII) Reduced expenditures for multiple therapy services
 
@@ -538,7 +538,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary shall reduce the practice expense relative valueunits applied to services described in clause (iii) furnished in—
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary shall reduce the practice expense relative value units applied to services described in clause (iii) furnished in—
 
 &emsp;&emsp;&emsp;&emsp;(I) 1994, by 25 percent of the number by which the number of practice expense relative value units (determined for 1994 without regard to this subparagraph) exceeds the number of work relative value units determined for 1994,
 
@@ -678,7 +678,7 @@
 
 #### (ii) Identification of potentially misvalued codes
 
-&emsp;&emsp;&emsp;For purposes of identifying potentially misvalued codes pursuant to clause (i)(I),the Secretary shall examine codes (and families of codes as appropriate) based on any or all of the following criteria:
+&emsp;&emsp;&emsp;For purposes of identifying potentially misvalued codes pursuant to clause (i)(I), the Secretary shall examine codes (and families of codes as appropriate) based on any or all of the following criteria:
 
 &emsp;&emsp;&emsp;&emsp;(I) Codes that have experienced the fastest growth.
 
@@ -756,7 +756,7 @@
 
 #### (i) Collection of information
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may collect or obtain information on the resources directly orindirectly related to furnishing services for which payment is made under the fee schedule established under subsection (b). Such information may be collected or obtained from any eligible professional or any other source.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may collect or obtain information on the resources directly or indirectly related to furnishing services for which payment is made under the fee schedule established under subsection (b). Such information may be collected or obtained from any eligible professional or any other source.
 
 #### (ii) Use of information
 
@@ -832,7 +832,7 @@
 
 #### (ii) Budget neutral redistribution of funds if target met and counting overages towards the target for the succeeding year
 
-&emsp;&emsp;&emsp;If the estimated net reduction in expenditures determined under clause (i) for theyear is equal to or greater than the target for the year—
+&emsp;&emsp;&emsp;If the estimated net reduction in expenditures determined under clause (i) for the year is equal to or greater than the target for the year—
 
 &emsp;&emsp;&emsp;&emsp;(I) reduced expenditures attributable to such adjustments shall be redistributed for the year in a budget neutral manner in accordance with subparagraph (B)(ii)(II); and
 
@@ -1234,7 +1234,7 @@
 
 #### (E) Floor at 1.0 on work geographic index
 
-&emsp;&emsp;After calculating the work geographic index in subparagraph (A)(iii), for purposes of payment for services furnished on or after January 1, 2004, and before January 1, 2020, the Secretary shall increase the work geographic index to 1.00 for any locality for which such work geographic index is less than 1.00.
+&emsp;&emsp;After calculating the work geographic index in subparagraph (A)(iii), for purposes of payment for services furnished on or after January 1, 2004, and before May 23, 2020, the Secretary shall increase the work geographic index to 1.00 for any locality for which such work geographic index is less than 1.00.
 
 #### (G) <sup>3</sup> Floor for practice expense, malpractice, and work geographic indices for services furnished in Alaska
 
@@ -3562,7 +3562,7 @@ In this section:
 
 &emsp;Chapter 35 of title 44 shall not apply to the collection of information for the development of quality measures.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1848, as added Pub. L. 101–239, title VI, §6102(a), Dec. 19, 1989, 103 Stat. 2169; amended Pub. L. 101–508, title IV, §§4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), Nov. 5, 1990, 104 Stat. 1388–56, 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; Pub. L. 103–66, title XIII, §§13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), Aug. 10, 1993, 107 Stat. 580–583, 585, 586; Pub. L. 103–432, title I, §§121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), Oct. 31, 1994, 108 Stat. 4409, 4410, 4412, 4415, 4416; Pub. L. 105–33, title IV, §§4022(b)(2)(B), (C), 4102(d), 4103(d), 4104(d), 4105(a)(2), 4106(b), 4501, 4502(a)(1), (b), 4503, 4504(a), 4505(a), (b), (e), (f)(1), 4644(d), 4714(b)(2), Aug. 5, 1997, 111 Stat. 354, 355, 361, 362,365, 366, 368, 432–437, 488, 510; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(1), (2)(A), (3)(A), (b), title III, §321(k)(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–345 to 1501A–348, 1501A–366; Pub. L. 106–554, §1(a)(6) \[title I, §104(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–469; Pub. L. 108–7, div. N, title IV, §402(a), Feb. 20, 2003, 117 Stat. 548; Pub. L. 108–173, title III, §303(a)(1), (g)(2), title IV, §412, title VI, §§601(a)(1), (2), (b)(1), 602, 611(c), title VII, §736(b)(10), Dec. 8, 2003, 117 Stat. 2233, 2253, 2274, 2300, 2301, 2304, 2356; Pub. L. 109–171, title V, §§5102, 5104(a), 5112(c), Feb. 8, 2006, 120 Stat. 39, 40, 44; Pub. L. 109–432, div. B, title I, §§101(a), (b), (d), 102, Dec. 20, 2006, 120 Stat. 2975, 2980, 2981; Pub. L. 110–90, §6, Sept. 29, 2007, 121 Stat. 985; Pub. L. 110–161, div. G, title II, §225(c)(2), title V, §524, Dec. 26, 2007, 121 Stat. 2190, 2212; Pub. L. 110–173, title I, §§101(a)(1), (2)(A), (b)(1), 103, Dec. 29, 2007, 121 Stat. 2493–2495; Pub. L. 110–252, title VII, §7002(c), June 30, 2008, 122 Stat. 2395; Pub. L. 110–275, title I, §§131(a)(1), (3)(C), (b)(1)–(4)(A), (5), (c)(1), 132(a), (b), 133(b), 134, 139(a), 144(a)(2), 152(b)(1)(C), July 15, 2008, 122 Stat. 2520–2522, 2525–2527, 2529, 2532, 2541, 2546, 2552; Pub. L. 111–5, div. B, title IV, §4101(a), (b), (f), Feb. 17, 2009, 123 Stat. 467, 472, 476; Pub. L. 111–118, div. B, §1011(a), Dec. 19, 2009, 123 Stat. 3473; Pub. L. 111–144, §5, Mar. 2, 2010, 124 Stat. 46; Pub. L. 111–148, title III, §§3002(a)–(c)(1), (d)–(f), 3003(a), 3007, 3101, 3102, 3111(a)(1), 3134(a), 3135(a), (b), title IV, §4103(c)(2), title V, §5501(c), title X, §§10310, 10324(c), 10327(a), 10501(h), Mar. 23, 2010, 124 Stat. 363–366, 373, 415, 416, 421, 434, 436, 437, 556, 654, 942, 960, 962, 997; Pub. L. 111–152, title I, §§1107, 1108, Mar. 30, 2010, 124 Stat. 1050; Pub. L. 111–157, §§4, 5(a)(1), Apr. 15, 2010, 124 Stat. 1117; Pub. L. 111–192, title I, §101(a), June 25, 2010, 124 Stat. 1280; Pub. L. 111–286, §§2, 3, Nov. 30, 2010, 124 Stat. 3056; Pub. L. 111–309, title I, §§101, 103, Dec. 15, 2010, 124 Stat. 3285, 3287; Pub. L. 112–78, title III, §§301, 303, 309, Dec. 23, 2011, 125 Stat. 1283, 1284, 1286; Pub. L. 112–96, title III, §§3003(a), 3004(a), Feb. 22, 2012, 126 Stat. 186, 187; Pub. L. 112–240, title VI, §§601(a), (b)(1), 602, 633(a), 635, Jan. 2, 2013, 126 Stat. 2345, 2347, 2355, 2356; Pub. L. 113–67, div. B, title I, §§1101, 1102, Dec. 26, 2013, 127 Stat. 1196; Pub. L. 113–93, title I, §§101, 102, title II, §§218(a)(2)(B), 220(a)–(f), (h), Apr. 1, 2014, 128 Stat. 1041, 1064, 1070–1074; Pub. L. 113–295, div. B, title II, §202, Dec. 19, 2014, 128 Stat. 4065; Pub. L. 114–10, title I, §§101(a)(1), (2), (b), (c)(1), (d), (f), 102, 103(a), 106(b)(2)(A), title II, §201, title V, §523, Apr. 16, 2015, 129 Stat. 89, 91, 92, 115, 123–131, 139, 143, 177; Pub. L. 114–113, div. O, title V, §502(a)(1)–(2)(B), Dec. 18, 2015, 129 Stat. 3018, 3019; Pub. L. 114–115, §§3(a), 4(a), Dec. 28, 2015, 129 Stat. 3132, 3133; Pub. L. 114–255, div. A, title IV, §4002(b)(1), div. C, title XVI, §16003, Dec. 13, 2016, 130 Stat. 1161, 1326; Pub. L. 115–123, div. E, title II, §50201, title IV, §50413, title X, §§51003(a), 51009, title XII, §53106, Feb. 9, 2018, 132 Stat. 176, 221, 293, 297, 303.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1848, as added Pub. L. 101–239, title VI, §6102(a), Dec. 19, 1989, 103 Stat. 2169; amended Pub. L. 101–508, title IV, §§4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), Nov. 5, 1990, 104 Stat. 1388–56, 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; Pub. L. 103–66, title XIII, §§13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), Aug. 10, 1993, 107 Stat. 580–583, 585, 586; Pub. L. 103–432, title I, §§121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), Oct. 31, 1994, 108 Stat. 4409, 4410, 4412, 4415, 4416; Pub. L. 105–33, title IV, §§4022(b)(2)(B), (C), 4102(d), 4103(d), 4104(d), 4105(a)(2), 4106(b), 4501, 4502(a)(1), (b), 4503, 4504(a), 4505(a), (b), (e), (f)(1), 4644(d), 4714(b)(2), Aug. 5, 1997, 111 Stat. 354, 355, 361, 362,365, 366, 368, 432–437, 488, 510; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(1), (2)(A), (3)(A), (b), title III, §321(k)(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–345 to 1501A–348, 1501A–366; Pub. L. 106–554, §1(a)(6) \[title I, §104(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–469; Pub. L. 108–7, div. N, title IV, §402(a), Feb. 20, 2003, 117 Stat. 548; Pub. L. 108–173, title III, §303(a)(1), (g)(2), title IV, §412, title VI, §§601(a)(1), (2), (b)(1), 602, 611(c), title VII, §736(b)(10), Dec. 8, 2003, 117 Stat. 2233, 2253, 2274, 2300, 2301, 2304, 2356; Pub. L. 109–171, title V, §§5102, 5104(a), 5112(c), Feb. 8, 2006, 120 Stat. 39, 40, 44; Pub. L. 109–432, div. B, title I, §§101(a), (b), (d), 102, Dec. 20, 2006, 120 Stat. 2975, 2980, 2981; Pub. L. 110–90, §6, Sept. 29, 2007, 121 Stat. 985; Pub. L. 110–161, div. G, title II, §225(c)(2), title V, §524, Dec. 26, 2007, 121 Stat. 2190, 2212; Pub. L. 110–173, title I, §§101(a)(1), (2)(A), (b)(1), 103, Dec. 29, 2007, 121 Stat. 2493–2495; Pub. L. 110–252, title VII, §7002(c), June 30, 2008, 122 Stat. 2395; Pub. L. 110–275, title I, §§131(a)(1), (3)(C), (b)(1)–(4)(A), (5), (c)(1), 132(a), (b), 133(b), 134, 139(a), 144(a)(2), 152(b)(1)(C), July 15, 2008, 122 Stat. 2520–2522, 2525–2527, 2529, 2532, 2541, 2546, 2552; Pub. L. 111–5, div. B, title IV, §4101(a), (b), (f), Feb. 17, 2009, 123 Stat. 467, 472, 476; Pub. L. 111–118, div. B, §1011(a), Dec. 19, 2009, 123 Stat. 3473; Pub. L. 111–144, §5, Mar. 2, 2010, 124 Stat. 46; Pub. L. 111–148, title III, §§3002(a)–(c)(1), (d)–(f), 3003(a), 3007, 3101, 3102, 3111(a)(1), 3134(a), 3135(a), (b), title IV, §4103(c)(2), title V, §5501(c), title X, §§10310, 10324(c), 10327(a), 10501(h), Mar. 23, 2010, 124 Stat. 363–366, 373, 415, 416, 421, 434, 436, 437, 556, 654, 942, 960, 962, 997; Pub. L. 111–152, title I, §§1107, 1108, Mar. 30, 2010, 124 Stat. 1050; Pub. L. 111–157, §§4, 5(a)(1), Apr. 15, 2010, 124 Stat. 1117; Pub. L. 111–192, title I, §101(a), June 25, 2010, 124 Stat. 1280; Pub. L. 111–286, §§2, 3, Nov. 30, 2010, 124 Stat. 3056; Pub. L. 111–309, title I, §§101, 103, Dec. 15, 2010, 124 Stat. 3285, 3287; Pub. L. 112–78, title III, §§301, 303, 309, Dec. 23, 2011, 125 Stat. 1283, 1284, 1286; Pub. L. 112–96, title III, §§3003(a), 3004(a), Feb. 22, 2012, 126 Stat. 186, 187; Pub. L. 112–240, title VI, §§601(a), (b)(1), 602, 633(a), 635, Jan. 2, 2013, 126 Stat. 2345, 2347, 2355, 2356; Pub. L. 113–67, div. B, title I, §§1101, 1102, Dec. 26, 2013, 127 Stat. 1196; Pub. L. 113–93, title I, §§101, 102, title II, §§218(a)(2)(B), 220(a)–(f), (h), Apr. 1, 2014, 128 Stat. 1041, 1064, 1070–1074; Pub. L. 113–295, div. B, title II, §202, Dec. 19, 2014, 128 Stat. 4065; Pub. L. 114–10, title I, §§101(a)(1), (2), (b), (c)(1), (d), (f), 102, 103(a), 106(b)(2)(A), title II, §201, title V, §523, Apr. 16, 2015, 129 Stat. 89, 91, 92, 115, 123–131, 139, 143, 177; Pub. L. 114–113, div. O, title V, §502(a)(1)–(2)(B), Dec. 18, 2015, 129 Stat. 3018, 3019; Pub. L. 114–115, §§3(a), 4(a), Dec. 28, 2015, 129 Stat. 3132, 3133; Pub. L. 114–255, div. A, title IV, §4002(b)(1), div. C, title XVI, §16003, Dec. 13, 2016, 130 Stat. 1161, 1326; Pub. L. 115–123, div. E, title II, §50201, title IV, §50413, title X, §§51003(a), 51009, title XII, §53106, Feb. 9, 2018, 132 Stat. 176, 221, 293, 297, 303; Pub. L. 116–94, div. N, title I, §101, Dec. 20, 2019, 133 Stat. 3096.)
 
 #### References in Text
 
@@ -3588,6 +3588,8 @@ The text of section 101(c) of Pub. L. 109–432, div. B, title I, Dec. 20, 2006,
 
 #### Amendments
 
+<b>2019</b>—Subsec. (e)(1)(E). Pub. L. 116–94 substituted "May 23, 2020" for "January 1, 2020".
+
 <b>2018</b>—Subsec. (b)(11). Pub. L. 115–123, §51009(1), substituted "2017, 2018, and 2019" for "2017 and 2018".
 
 Subsec. (c)(2)(K)(iv). Pub. L. 115–123, §51009(2), substituted "2017, 2018, and 2019" for "2017 and 2018".
@@ -3604,7 +3606,7 @@ Subsec. (q)(1)(C)(iv)(I). Pub. L. 115–123, §51003(a)(1)(A)(ii)(I), amended su
 
 Subsec. (q)(1)(C)(iv)(II). Pub. L. 115–123, §51003(a)(1)(A)(ii)(II), substituted "covered professional services (as defined in subsection (k)(3)(A))" for "items and services".
 
-Subsec. (q)(1)(C)(iv)(III). Pub. L. 115–123, §51003(a)(1)(A)(ii)(III), amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: "The minimum amount (as determined by the Secretary) of allowed charges billed by such professional under this part for such performance period."
+Subsec. (q)(1)(C)(iv)(III). Pub. L. 115–123, §51003(a)(1)(A)(ii)(III), amended subcl. (III) generally.Prior to amendment, subcl. (III) read as follows: "The minimum amount (as determined by the Secretary) of allowed charges billed by such professional under this part for such performance period."
 
 Subsec. (q)(5)(D)(i)(I). Pub. L. 115–123, §51003(a)(1)(B)(i), inserted "subject to clause (iii)," after "clauses (i) and (ii) of paragraph (2)(A),".
 
@@ -3772,9 +3774,9 @@ Subsec. (j)(2). Pub. L. 113–93, §220(h)(2), substituted "Except as provided i
 
 <b>2013</b>—Subsec. (b)(4)(C). Pub. L. 112–240, §635(1), substituted ", 2012, and 2013" for "and subsequent years" and inserted at end "With respect to fee schedules established for 2014 and subsequent years, in such methodology, the Secretary shall use a 90 percent utilization rate."
 
-Subsec. (b)(7). Pub. L. 112–240, §633(a), substituted "2011, and before April 1, 2013," for "2011," and inserted at end "In the case of such services furnished on or after April 1, 2013, and for which payment is made under such fee schedules, instead of the 25 percent multiple procedure payment reduction specified in such final rule, the reduction percentage shall be 50 percent."
+Subsec. (b)(7). Pub. L. 112–240, §633(a), substituted "2011, and before April 1, 2013," for "2011," and inserted at end "In the case of such services furnished on or after April 1, 2013, and for which payment is madeunder such fee schedules, instead of the 25 percent multiple procedure payment reduction specified in such final rule, the reduction percentage shall be 50 percent."
 
-Subsec. (c)(2)(B)(v)(III). Pub. L. 112–240, §635(2), substituted "changes in the utilization rate applicable to2011 and 2014, as described in the first and second sentence, respectively, of" for "change in the utilization rate applicable to 2011, as described in".
+Subsec. (c)(2)(B)(v)(III). Pub. L. 112–240, §635(2), substituted "changes in the utilization rate applicable to 2011 and 2014, as described in the first and second sentence, respectively, of" for "change in the utilization rate applicable to 2011, as described in".
 
 Subsec. (d)(14). Pub. L. 112–240, §601(a), added par. (14).
 
@@ -3994,9 +3996,9 @@ Subsec. (l)(2)(A)(i)(IV). Pub. L. 110–275, §131(a)(3)(C)(i)(I), struck out su
 
 Pub. L. 110–252, §7002(c)(1)(B), added subcl. (IV).
 
-Subsec. (l)(2)(A)(ii)(III). Pub. L. 110–275, §131(a)(3)(C)(i)(II), struck out subcl. (III). Text read as follows: "The amount available for expenditures during 2013 shall only be available for an adjustment to the update of the conversion factor under subsection (d) for that year."
+Subsec. (l)(2)(A)(ii)(III). Pub. L. 110–275, §131(a)(3)(C)(i)(II), struck out subcl. (III). Text read asfollows: "The amount available for expenditures during 2013 shall only be available for an adjustment to the update of the conversion factor under subsection (d) for that year."
 
-Subsec. (l)(2)(A)(ii)(IV). Pub. L. 110–275, §131(a)(3)(C)(i)(II), struck out subcl. (IV). Text read asfollows: "The amount available for expenditures during 2014 shall only be available for an adjustment to the update of the conversion factor under subsection (d) for that year."
+Subsec. (l)(2)(A)(ii)(IV). Pub. L. 110–275, §131(a)(3)(C)(i)(II), struck out subcl. (IV). Text read as follows: "The amount available for expenditures during 2014 shall only be available for an adjustment to the update of the conversion factor under subsection (d) for that year."
 
 Pub. L. 110–252, §7002(c)(2), added subcl. (IV).
 
@@ -4078,7 +4080,7 @@ Subsec. (l)(2)(A). Pub. L. 110–173, §101(a)(2)(A)(i), added subpar. (A) and s
 
 Pub. L. 110–161, §524, which directed amendment of subpar. (A) by reducing the dollar amount in the first sentence by $150,000,000, was executed by substituting "$1,200,000,000" for "$1,350,000,000" in first sentence.
 
-Pub. L. 110–161, §225(c)(2), inserted, in first sentence, ", as reduced by section 524 and section 225(c)(1)(A) of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2008 (division G of the Consolidated AppropriationsAct, 2008)" after "$1,350,000,000" and, in second sentence, ", as reduced by section 225(c)(1)(B) of such Act," after "$325,000,000".
+Pub. L. 110–161, §225(c)(2), inserted, in first sentence, ", as reduced by section 524 and section 225(c)(1)(A) of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2008 (division G of the Consolidated Appropriations Act, 2008)" after "$1,350,000,000" and, in second sentence, ", as reduced by section 225(c)(1)(B) of such Act," after "$325,000,000".
 
 Pub. L. 110–90, §6(1), inserted at end: "In addition, there shall be available to the Fund for expenditures during 2009 an amount equal to $325,000,000 and for expenditures during or after 2013 an amount equal to $60,000,000."
 
@@ -4172,9 +4174,9 @@ Subsec. (f)(3)(C). Pub. L. 106–113, §1000(a)(6) \[title II, §211(b)(3)\], ad
 
 Subsec. (f)(4). Pub. L. 106–113, §1000(a)(6) \[title II, §211(b)(4)\], redesignated par. (3) as (4).
 
-Subsec. (j)(3). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(5)\], substituted "section 1395x(oo)(2) of this title)" for "section 1395x(oo)(2) of this title,", "(B)," for "(B),", and ", and (15)" for "and (15)".
+Subsec. (j)(3). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(5)\], substituted "section 1395x(oo)(2) of thistitle)" for "section 1395x(oo)(2) of this title,", "(B)," for "(B),", and ", and (15)" for "and (15)".
 
-<b>1997</b>—Subsec. (b)(1). Pub. L. 105–33, §4644(d), substituted "Before November 1 of the preceding year, foreach year beginning with 1998" for "Before January 1 of each year beginning with 1992" in introductory provisions.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–33, §4644(d), substituted "Before November 1 of the preceding year, for each year beginning with 1998" for "Before January 1 of each year beginning with 1992" in introductory provisions.
 
 Subsec. (c)(2)(B)(iii). Pub. L. 105–33, §4022(b)(2)(C), substituted "Medicare Payment Advisory Commission" for "Physician Payment Review Commission".
 
@@ -4252,7 +4254,7 @@ Pub. L. 103–432, §122(a), substituted "shall, in consultation with appropriat
 
 Subsec. (e)(1)(D). Pub. L. 103–432, §122(b), added subpar. (D).
 
-Subsec. (f)(2)(A)(i). Pub. L. 103–432, §126(g)(7), made technical amendment to directory language of Pub. L.101–508, §4118(f)(1)(N)(ii). See 1990 Amendment note below.
+Subsec. (f)(2)(A)(i). Pub. L. 103–432, §126(g)(7), made technical amendment to directory language of Pub. L. 101–508, §4118(f)(1)(N)(ii). See 1990 Amendment note below.
 
 Subsec. (f)(2)(C). Pub. L. 103–432, §126(g)(2)(B), inserted heading.
 
@@ -4316,7 +4318,7 @@ Pub. L. 103–66, §13517(a)(6), inserted ", except for purposes of subsections
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–508, §4104(b)(2), struck out "or 1395m(f)" after "section 1395m(b)" in introductory provisions.
 
-Subsec. (a)(2)(C). Pub. L. 101–508, §4102(b), inserted "and radiology" after "Special rule for anesthesia" in heading and inserted at end "With respect to radiology services, '109 percent' and '9 percent' shall be substituted for '115 percent' and '15 percent', respectively, in subparagraph (A)(ii)."
+Subsec. (a)(2)(C). Pub. L. 101–508, §4102(b), inserted "and radiology" after "Special rule for anesthesia" inheading and inserted at end "With respect to radiology services, '109 percent' and '9 percent' shall be substituted for '115 percent' and '15 percent', respectively, in subparagraph (A)(ii)."
 
 Subsec. (a)(2)(D)(ii). Pub. L. 101–508, §4102(g)(2)(A), inserted ", but excluding nuclear medicine services that are subject to section 6105(b) of the Omnibus Budget Reconciliation Act of 1989" after "section 1395m(b)(6) of this title)".
 
@@ -4412,7 +4414,7 @@ Subsec. (i)(2). Pub. L. 101–508, §4107(a)(1), added par. (2).
 
 Subsec. (i)(3). Pub. L. 101–508, §4118(k), added par. (3).
 
-Subsec. (j)(1). Pub. L. 101–508, §4118(f)(1)(S), which directed the amendment of par. (1) by substituting "(as defined by the Secretary) and all other physicians' services" for ", and such other" and all that follows through the period was executed by making the substitution for ", and such other category or categories ofphysicians' services as the Secretary, from time to time, defines in regulation." to reflect the probable intent of Congress.
+Subsec. (j)(1). Pub. L. 101–508, §4118(f)(1)(S), which directed the amendment of par. (1) by substituting "(asdefined by the Secretary) and all other physicians' services" for ", and such other" and all that follows through the period was executed by making the substitution for ", and such other category or categories of physicians' services as the Secretary, from time to time, defines in regulation." to reflect the probable intent of Congress.
 
 #### Change of Name
 
@@ -4488,7 +4490,7 @@ Pub. L. 105–33, title IV, §4502(a)(2), Aug. 5, 1997, 111 Stat. 433, provided 
 
 Pub. L. 105–33, title IV, §4504(b), Aug. 5, 1997, 111 Stat. 435, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to services furnished on or after January 1, 1998."
 
-Amendment by section 4714(b)(2) of Pub. L. 105–33 applicable to payment for (and with respect to provideragreements with respect to) items and services furnished on or after Aug. 5, 1997, see section 4714(c) of Pub. L. 105–33, set out as a note under section 1396a of this title.
+Amendment by section 4714(b)(2) of Pub. L. 105–33 applicable to payment for (and with respect to provider agreements with respect to) items and services furnished on or after Aug. 5, 1997, see section 4714(c) of Pub. L. 105–33, set out as a note under section 1396a of this title.
 
 #### Effective Date of 1994 Amendment
 

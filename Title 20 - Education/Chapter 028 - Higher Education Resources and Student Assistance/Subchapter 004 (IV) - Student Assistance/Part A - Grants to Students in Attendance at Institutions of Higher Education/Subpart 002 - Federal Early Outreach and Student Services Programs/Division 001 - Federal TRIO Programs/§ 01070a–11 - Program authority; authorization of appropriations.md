@@ -42,7 +42,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (3) Order of awards; program fraud
 
-&emsp;(A) Except with respect to grants made under sections 1070a–17 and 1070a–18 of this title and as provided in subparagraph (B), the Secretary shall award grants and contractsunder this division in the order of the scores received by the application for such grant or contract in the peer review process required under paragraph (4) and adjusted for prior experience in accordance with paragraph (2) of this subsection.
+&emsp;(A) Except with respect to grants made under sections 1070a–17 and 1070a–18 of this title and as provided in subparagraph (B), the Secretary shall award grants and contracts under this division in the order of the scores received by the application for such grant or contract in the peer review process required under paragraph (4) and adjusted for prior experience in accordance with paragraph (2) of this subsection.
 
 &emsp;(B) The Secretary shall not provide assistance to a program otherwise eligible for assistance under this division, if the Secretary has determined that such program has involved the fraudulent use of funds under this division.
 
@@ -88,7 +88,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;With respect to any competition for a grant under this division, an applicantmay request a review by the Secretary if the applicant—
+&emsp;&emsp;&emsp;With respect to any competition for a grant under this division, an applicant may request a review by the Secretary if the applicant—
 
 &emsp;&emsp;&emsp;&emsp;(I) has evidence of a specific technical, administrative, or scoring error made by the Department, an agent of the Department, or a peer reviewer, with respect to the scoring or processing of a submitted application; and
 
@@ -160,7 +160,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (2) Notice
 
-&emsp;In carrying out the provisions of paragraph (1), the Secretary shall notify the entities described in subsection (b) of the availability of assistance under this subsection not less than120 days prior to the deadline for submission of applications under this division and shall consult national, State, and regional organizations about candidates for notification.
+&emsp;In carrying out the provisions of paragraph (1), the Secretary shall notify the entities described in subsection (b) of the availability of assistance under this subsection not less than 120 days prior to the deadline for submission of applications under this division and shall consult national, State, and regional organizations about candidates for notification.
 
 #### (3) Technical assistance
 
@@ -338,7 +338,7 @@ For the purpose of this division:
 
 The General Education Provisions Act, referred to in subsec. (c)(8)(A)(i), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
-The Higher Education Amendments of 1992, referred to in subsec. (g), is Pub. L. 102–325, July 23, 1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
+The Higher Education Amendments of 1992, referred to in subsec. (g), is Pub. L. 102–325, July 23, 1992, 106Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
 
 #### References to Subpart 2, 3, or 4 of This Part Deemed To Refer to Subpart 3, 4, or 2 of This Part
 

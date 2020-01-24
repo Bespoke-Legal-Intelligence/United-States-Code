@@ -52,7 +52,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;After determining the eligibility of the student for a late disbursement or post-withdrawal disbursement (as required in regulations prescribed by the Secretary), the institution of higher education shall contact the borrower and obtain confirmation that the loan funds are still required by the borrower. In making such contact, the institutionshall explain to the borrower the borrower's obligation to repay the funds following any such disbursement. The institution shall document in the borrower's file the result of such contact and the final determination made concerning such disbursement.
+&emsp;&emsp;After determining the eligibility of the student for a late disbursement or post-withdrawal disbursement (as required in regulations prescribed by the Secretary), the institution of higher education shall contact the borrower and obtain confirmation that the loan funds are still required by the borrower. In making such contact, the institution shall explain to the borrower the borrower's obligation to repay the funds following any such disbursement. The institution shall document in the borrower's file the result of such contact and the final determination made concerning such disbursement.
 
 #### (B) Return
 
@@ -64,7 +64,7 @@
 
 &emsp;The institution shall return not later than 45 days from the determination of withdrawal, in the order specified in paragraph (3), the lesser of—
 
-&emsp;&emsp;(A) the amount of grant and loan assistance awarded under this subchapter that has not been earned by the student, as calculated under subsection (a)(3)(C); or
+&emsp;&emsp;(A) the amount of grant and loan assistance awarded under this subchapter that hasnot been earned by the student, as calculated under subsection (a)(3)(C); or
 
 &emsp;&emsp;(B) an amount equal to—
 
@@ -132,7 +132,7 @@
 
 &emsp;&emsp;&emsp;(i) To outstanding balances on loans made under section 1078–8 of this title for the payment period or period of enrollment for which a return of funds is required.
 
-&emsp;&emsp;&emsp;(ii) To outstanding balances on loans made under section 1078 of this title forthe payment period or period of enrollment for which a return of funds is required.
+&emsp;&emsp;&emsp;(ii) To outstanding balances on loans made under section 1078 of this title for the payment period or period of enrollment for which a return of funds is required.
 
 &emsp;&emsp;&emsp;(iii) To outstanding balances on unsubsidized loans (other than parent loans) made under part D for the payment period or period of enrollment for which a return of funds is required.
 
@@ -204,7 +204,7 @@ Subsec. (a)(4)(A). Pub. L. 109–171, §8022(4), amended heading and text of sub
 
 Subsec. (b)(1). Pub. L. 109–171, §8022(5), inserted "not later than 45 days from the determination of withdrawal" after "return" in introductory provisions.
 
-Subsec. (b)(2)(C). Pub. L. 109–171, §8022(6), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: "Notwithstandingsubparagraphs (A) and (B), a student shall not be required to return 50 percent of the grant assistance received by the student under this subchapter, for a payment period or period of enrollment, that is the responsibility of the student to repay under this section."
+Subsec. (b)(2)(C). Pub. L. 109–171, §8022(6), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: "Notwithstanding subparagraphs (A) and (B), a student shall not be required to return 50 percent of the grant assistance received by the student under this subchapter, for a payment period or period of enrollment, that is the responsibility of the student to repay under this section."
 
 Subsec. (d). Pub. L. 109–171, §8022(7), (8), in introductory provisions, substituted "(a)(3)(B)" for "(a)(3)(B)(i)" and, in par. (2), substituted "clock hours scheduled to be completed by the student in that period as of the day the student withdrew." for "clock hours—
 

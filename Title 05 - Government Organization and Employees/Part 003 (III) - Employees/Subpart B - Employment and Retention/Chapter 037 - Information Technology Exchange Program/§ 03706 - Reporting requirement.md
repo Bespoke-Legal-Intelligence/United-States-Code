@@ -14,7 +14,7 @@ Content.—Each report shall include, with respect to the 6-month period to whic
 
 &emsp;&emsp;(A) the name of the assigned individual, as well as the private sector organization and the agency (including the specific bureau or other agency component) to or from which such individual was assigned;
 
-&emsp;&emsp;(B) the respective positions to and from which the individual was assigned, includingthe duties and responsibilities and the pay grade or level associated with each; and
+&emsp;&emsp;(B) the respective positions to and from which the individual was assigned, including the duties and responsibilities and the pay grade or level associated with each; and
 
 &emsp;&emsp;(C) the duration and objectives of the individual's assignment; and
 
@@ -36,7 +36,7 @@ Agency Cooperation.—On request of the Office, agencies shall furnish such info
 
 #### Change of Name
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

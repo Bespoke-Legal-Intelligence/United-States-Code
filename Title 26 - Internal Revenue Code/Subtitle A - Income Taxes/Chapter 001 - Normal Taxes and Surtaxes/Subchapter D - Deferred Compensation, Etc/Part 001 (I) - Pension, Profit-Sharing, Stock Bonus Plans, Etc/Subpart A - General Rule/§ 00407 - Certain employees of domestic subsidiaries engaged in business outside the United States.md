@@ -42,7 +42,7 @@
 
 #### (2) Determination of compensation
 
-&emsp;For purposes of applying paragraph (5) of section 401(a) with respect to an individual who is treated as an employee of a domestic parent corporation under subsection (a), the total compensation of such individual shall be the remuneration paid to such individual by the domestic subsidiary which would constitute his total compensation if his services had been performed for such domestic parentcorporation, and the basic or regular rate of compensation of such individual shall be determined under regulations prescribed by the Secretary.
+&emsp;For purposes of applying paragraph (5) of section 401(a) with respect to an individual who is treated as an employee of a domestic parent corporation under subsection (a), the total compensation of such individual shall be the remuneration paid to such individual by the domestic subsidiary which would constitute his total compensation if his services had been performed for such domestic parent corporation, and the basic or regular rate of compensation of such individual shall be determined under regulations prescribed by the Secretary.
 
 #### \[(c) Repealed. Pub. L. 104–188, title I, §1401(b)(8), Aug. 20, 1996, 110 Stat. 1789\]
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 1112(d)(3) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
-Amendment by section 1114(b)(9)(B), (C) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1988, see section 1114(c)(3) of Pub. L. 99–514, set out as a note under section 414 of this title.
+Amendment by section 1114(b)(9)(B), (C) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1988,see section 1114(c)(3) of Pub. L. 99–514, set out as a note under section 414 of this title.
 
 Amendment by section 1852(e)(2)(D) of Pub. L. 99–514 applicable to transfers after Oct. 22, 1986, see section 1852(e)(2)(E) of Pub. L. 99–514, set out as a note under section 406 of this title.
 

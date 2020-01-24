@@ -88,7 +88,7 @@ Pub. L. 111–13, §1(a), Apr. 21, 2009, 123 Stat. 1460, provided that: "This Ac
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–117, div. B, §1301(a), Jan. 10, 2002, 115 Stat. 2339, provided that: "This section \[enacting subchapter III of this chapter\] may be cited as the 'Unity in the Spirit of America Act' or the 'USA Act'."
+Pub. L. 107–117, div. B, §1301(a), Jan. 10, 2002, 115 Stat. 2339, provided that: "This section \[enacting subchapterIII of this chapter\] may be cited as the 'Unity in the Spirit of America Act' or the 'USA Act'."
 
 #### Short Title of 1994 Amendment
 
@@ -108,7 +108,7 @@ Pub. L. 102–10, §1, Mar. 12, 1991, 105 Stat. 29, provided that: "This Act \[e
 
 #### Short Title
 
-Pub. L. 101–610, §1(a), Nov. 16, 1990, 104 Stat. 3127, provided that: "This Act \[enacting this chapter, sections 5091 to 5091n of this title, and section 2452a of Title 22,Foreign Relations and Intercourse, amending sections 1018c, 1018e, 1070a–6, 1087vv, 1092, and 1092b of Title 20, Education, and former section 546 of Title 45, Railroads, and enacting provisions set out as notes under this section and section 24301 of Title 49, Transportation\] may be cited as the 'National and Community Service Act of 1990'."
+Pub. L. 101–610, §1(a), Nov. 16, 1990, 104 Stat. 3127, provided that: "This Act \[enacting this chapter, sections 5091 to 5091n of this title, and section 2452a of Title 22, Foreign Relations and Intercourse, amending sections 1018c, 1018e, 1070a–6, 1087vv, 1092, and 1092b of Title 20, Education, and former section 546 of Title 45, Railroads, and enacting provisions set out as notes under this section and section 24301 of Title 49, Transportation\] may be cited as the 'National and Community Service Act of 1990'."
 
 Pub. L. 101–610, title I, subtitle B (§§110–118), §110, Nov. 16, 1990, 104 Stat. 3132, which provided that such subtitle (enacting former part B (§§12521–12531) of subchapter I of this chapter) be cited as the "Serve-America: The Community Service, Schools and Service-Learning Act of 1990", was repealed by Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 825.
 
@@ -174,7 +174,7 @@ Sec. 3. <i>USA Freedom Corps Council</i>. (a) <i>Establishment and Mission</i>. 
 
 &emsp;(vii) tracking progress in participation in public service programs.
 
-(b) <i>Membership</i>. In addition to the Chair, the members of the Council shall be the heads of the executivebranch departments, agencies, and offices listed below, or their designees, and such other officers of the executive branch as the President may from time to time designate. Every member of the Council or designee shall be a full-time or permanent part-time officer or employee of the Federal Government. Members shall not be compensated for their service on the Council in addition to the salaries they receive as employees or officers of the Federal Government.
+(b) <i>Membership</i>. In addition to the Chair, the members of the Council shall be the heads of the executive branch departments, agencies, and offices listed below, or their designees, and such other officers of the executive branch as the President may from time to time designate. Every member of the Council or designee shall be a full-time or permanent part-time officer or employee of the Federal Government. Members shall not be compensated for their service on the Council in addition to the salaries they receive as employees or officers of the Federal Government.
 
 &emsp;(i) Vice President;
 
@@ -240,7 +240,7 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 (b) "National and community service programs" means those programs authorized under the national service laws;
 
-(c) "Policies governing programs authorized under the national service laws" refers to all policies, programs, guidelines, and regulations, including official guidance and internal agency procedures and practices, that are issued by the Corporation for National and Community Service (Corporation) and have significant effects on national and community service programs; and
+(c) "Policies governing programs authorized under the national service laws" refers to all policies, programs, guidelines, and regulations, including official guidance and internal agency procedures and practices, that are issued by the Corporation for National andCommunity Service (Corporation) and have significant effects on national and community service programs; and
 
 (d) "Professional corps programs" means those programs described in section 122(a)(8) of the National and Community Service Act of 1990 (42 U.S.C. 12572(a)(8)) \[see 42 U.S.C. 12572(c)(1)(D)\].
 
@@ -310,7 +310,7 @@ Service has always been integral to the American identity. Our country was built
 
 Since its creation 20 years ago, the Corporation for National and Community Service (CNCS) has been the Federal agency charged with leading and expanding national service. The Edward M. Kennedy Serve America Act of 2009 (SAA) expanded CNCS's authority to create opportunities for more Americans to serve. This landmark, bipartisan legislation focuses national service on six areas: emergency and disaster services; economic opportunity; education; environmental stewardship; healthy futures; and veterans and military families. The SAA provides greater opportunities for CNCS to partner with other executive departments and agencies (agencies) and with the private sector to utilize national service to address these critical areas.
 
-National service and volunteering can be effective solutions to national challenges and can have positive and lasting impacts that reach beyond the immediate service experience. Americans engaged in national service make an intensive commitment to tackle unmet national and local needs by working through non-profit, faith-based, and community organizations. Service can help Americans gain valuable skills, pursue higher education, and jumpstart their careers, which can provide immediate and long-term benefits to those individuals, as well as the communities in which they serve.
+National service and volunteering can be effective solutions to national challenges and can have positive and lasting impacts that reach beyond the immediate service experience. Americans engaged in nationalservice make an intensive commitment to tackle unmet national and local needs by working through non-profit, faith-based, and community organizations. Service can help Americans gain valuable skills, pursue higher education, and jumpstart their careers, which can provide immediate and long-term benefits to those individuals, as well as the communities in which they serve.
 
 Americans are ready and willing to serve. Applications from Americans seeking to engage in national service programs far exceed the number of available positions. By creating new partnerships between agencies and CNCS that expand national service opportunities in areas aligned with agency missions, we can utilize the American spirit of service to improve lives and communities, expand economic and educational opportunities, enhance agencies' capacity to achieve their missions, efficiently use tax dollars, help individuals develop skills that will enable them to prepare for long-term careers, and build a pipeline to employment inside and outside the Federal Government.
 

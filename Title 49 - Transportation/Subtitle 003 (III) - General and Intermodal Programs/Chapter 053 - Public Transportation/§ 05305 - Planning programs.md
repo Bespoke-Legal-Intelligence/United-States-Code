@@ -56,7 +56,7 @@ Minimum apportionment.—Notwithstanding subparagraph (A), a State may not recei
 
 &emsp;(2)
 
-Allocation to mpo's.—Amounts apportioned to a State under paragraph (1) shall bemade available, not later than 30 days after the date of apportionment, to metropolitan planning organizations in the State designated under this section under a formula that—
+Allocation to mpo's.—Amounts apportioned to a State under paragraph (1) shall be made available, not later than 30 days after the date of apportionment, to metropolitan planning organizations in the State designated under this section under a formula that—
 
 &emsp;&emsp;(A) considers population of urbanized areas;
 
@@ -116,7 +116,7 @@ Allocation of Funds.—Of the funds made available by or appropriated to carry o
 
 (h)
 
-Availability of Funds.—Funds apportioned under this section to a State that have not been obligated in the 3-year period beginning after the last day of the fiscal year for which the funds are authorized shall be reapportioned among the States.
+Availability of Funds.—Funds apportioned under this section to a State that havenot been obligated in the 3-year period beginning after the last day of the fiscal year for which the funds are authorized shall be reapportioned among the States.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 794; Pub. L. 105–178, title III, §3006, June 9, 1998, 112 Stat. 346; Pub. L. 105–206, title IX, §9009(d), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3007(a), Aug. 10, 2005, 119 Stat. 1566; Pub. L. 111–147, title IV, §431, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2301, Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title III, §301, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §131, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §301, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §301, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20030(a), div. G, title III, §113001, July 6, 2012, 126 Stat. 730, 983.)
 

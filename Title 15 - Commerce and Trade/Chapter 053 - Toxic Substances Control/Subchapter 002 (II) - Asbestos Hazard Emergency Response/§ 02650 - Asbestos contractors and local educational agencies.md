@@ -4,7 +4,7 @@
 
 #### (1) General requirement
 
-&emsp;The Administrator shall conduct a study on the availability of liability insurance and other forms of assurance against financial losswhich are available to local educational agencies and asbestos contractors with respect to actions required under this subchapter. Such study shall examine the following:
+&emsp;The Administrator shall conduct a study on the availability of liability insurance and other forms of assurance against financial loss which are available to local educational agencies and asbestos contractors with respect to actions required under this subchapter. Such study shall examine the following:
 
 &emsp;&emsp;(A) The extent to which liability insurance and other forms of assurance against financial loss are available to local educational agencies and asbestos contractors.
 

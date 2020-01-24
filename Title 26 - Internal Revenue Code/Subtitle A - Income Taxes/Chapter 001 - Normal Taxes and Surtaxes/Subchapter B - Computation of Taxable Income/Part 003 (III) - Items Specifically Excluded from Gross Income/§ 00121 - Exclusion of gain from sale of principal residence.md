@@ -156,7 +156,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (C) Property acquired after involuntary conversion
 
-&emsp;&emsp;If the basis of the property sold or exchanged is determined (in whole or in part)under section 1033(b) (relating to basis of property acquired through involuntary conversion), then the holding and use by the taxpayer of the converted property shall be treated as holding and use by the taxpayer of the property sold or exchanged.
+&emsp;&emsp;If the basis of the property sold or exchanged is determined (in whole or in part) under section 1033(b) (relating to basis of property acquired through involuntary conversion), then the holding and use by the taxpayer of the converted property shall be treated as holding and use by the taxpayer of the property sold or exchanged.
 
 #### (6) Recognition of gain attributable to depreciation
 
@@ -382,7 +382,7 @@ Subsec. (g). Pub. L. 109–135, §402(a)(3), substituted "section 1223(6)" for "
 
 &emsp;"(D) neither spouse is ineligible for the benefits of subsection (a) with respect to such property by reason of paragraph (3)."
 
-Subsec. (c)(1). Pub. L. 105–206, §6005(e)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "In the case of a sale or exchange to which this subsection applies, the ownership and use requirements of subsection (a) shall not apply and subsection (b)(3) shall not apply; but the amount of gain excluded from gross income under subsection (a) with respect to such sale or exchange shall not exceed—
+Subsec. (c)(1). Pub. L. 105–206, §6005(e)(2), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: "In the case of a sale or exchange to which this subsection applies, the ownership and use requirements of subsection (a) shall not apply and subsection (b)(3) shall not apply; but the amount of gain excluded from gross income under subsection (a) with respect to such sale or exchange shall not exceed—
 
 &emsp;"(A) the amount which bears the same ratio to the amount which would be so excluded under this section if such requirements had been met, as
 
@@ -460,7 +460,7 @@ Amendment by section 403(ee) of Pub. L. 109–135 effective as if included in th
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §840(b), Oct. 22, 2004, 118 Stat. 1597, provided that: "The amendment made by this section \[amending this section\] shall apply to sales or exchanges after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §840(b), Oct. 22, 2004, 118 Stat. 1597, provided that: "The amendment made by this section \[amending this section\] shall apply to salesor exchanges after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 2003 Amendment
 

@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 115–254, §1991(f)(4), which directed substitution of "Ad
 
 Pub. L. 115–254, §1991(f)(2), which directed substitution of "or Administrator of the Federal Aviation Administration" for "or Administrator", was executed by making the substitution in heading and text to reflect the probable intent of Congress.
 
-<b>2001</b>—Subsec. (b)(1). Pub. L. 107–71, §140(b)(1), in introductory provisions, inserted "the Under Secretary of Transportation for Security with respect to securityduties and powers designated to be carried out by the Under Secretary or" after "(or".
+<b>2001</b>—Subsec. (b)(1). Pub. L. 107–71, §140(b)(1), in introductory provisions, inserted "the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or" after "(or".
 
 Subsec. (c). Pub. L. 107–71, §140(b)(2), substituted ", Under Secretary, or Administrator" for "or Administrator" in heading and text.
 

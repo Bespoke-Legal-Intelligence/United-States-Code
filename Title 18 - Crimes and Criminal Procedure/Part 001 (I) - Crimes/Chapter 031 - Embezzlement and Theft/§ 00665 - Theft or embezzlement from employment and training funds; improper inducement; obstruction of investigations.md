@@ -1,6 +1,6 @@
 ### §665. Theft or embezzlement from employment and training funds; improper inducement; obstruction of investigations
 
-(a) Whoever, being an officer, director, agent, or employee of, or connected in any capacitywith any agency or organization receiving financial assistance or any funds under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998 knowingly enrolls an ineligible participant, embezzles, willfully misapplies, steals, or obtains by fraud any of the moneys, funds, assets, or property which are the subject of a financial assistance agreement or contract pursuant to such Act shall be fined under this title or imprisoned for not more than 2 years, or both; but if the amount so embezzled, misapplied, stolen, or obtained by fraud does not exceed $1,000, such person shall be fined under this title or imprisoned not more than 1 year, or both.
+(a) Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998 knowingly enrolls an ineligible participant, embezzles, willfully misapplies, steals, or obtains by fraud any of the moneys, funds, assets, or property which are the subject of a financial assistance agreement or contract pursuant to such Act shall be fined under this title or imprisoned for not more than 2 years, or both; but if the amount so embezzled, misapplied, stolen, or obtained by fraud does not exceed $1,000, such person shall be fined under this title or imprisoned not more than 1 year, or both.
 
 (b) Whoever, by threat or procuring dismissal of any person from employment or of refusal to employ or refusal to renew a contract of employment in connection with a financial assistance agreement or contract under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998 induces any person to give up any money or thing of any value to any person (including such organization or agency receiving funds) shall be fined under this title, or imprisoned not more than 1 year, or both.
 
@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 97–300 inserted "willfully" before "endeavors to obstruct
 
 <b>1978</b>—Pub. L. 95–524 substituted "employment and training funds:" for "manpower funds;" and inserted ": obstruction of investigations" after "improper inducement" in section catchline.
 
-Subsec. (a). Pub. L. 95–524 substituted "Comprehensive Employment and Training Act knowingly hires anineligible individual or individuals," for "Comprehensive Employment and Training Act of 1973".
+Subsec. (a). Pub. L. 95–524 substituted "Comprehensive Employment and Training Act knowingly hires an ineligible individual or individuals," for "Comprehensive Employment and Training Act of 1973".
 
 Subsec. (b). Pub. L. 95–524 substituted "Comprehensive Employment and Training Act" for "Comprehensive Employment and Training Act of 1973".
 

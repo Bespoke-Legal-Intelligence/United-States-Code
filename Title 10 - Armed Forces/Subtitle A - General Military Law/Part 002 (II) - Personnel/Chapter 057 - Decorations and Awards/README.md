@@ -19,10 +19,13 @@
 | [1134\.](%C2%A7%2001134%20-%20Medal%20of%20honor%20award%20to%20individual%20interred%20in%20Tomb%20of%20the%20Unknowns%20as%20representative%20of%20casualties%20of%20a%20war.md) | Medal of honor: award to individual interred in Tomb of the Unknowns as representative of casualties of a war. |
 | [1134a.](%C2%A7%2001134a%20-%20Medal%20of%20honor%20Army%2C%20Navy%2C%20Air%20Force%2C%20and%20Coast%20Guard%20Medal%20of%20Honor%20Roll.md) | Medal of honor: Army, Navy, Air Force, and Coast Guard Medal of Honor Roll. |
 | [1135\.](%C2%A7%2001135%20-%20Replacement%20of%20military%20decorations.md) | Replacement of military decorations. |
+| [1136\.](%C2%A7%2001136%20-%20Honorable%20service%20requirement%20for%20award%20of%20military%20decorations.md) | Honorable service requirement for award of military decorations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title V, §582(a)(2), Dec. 20, 2019, 133 Stat. 1412, added item 1136.
 
 <b>2014</b>—Pub. L. 113–291, div. A, title V, §571(a)(1)(B), Dec. 19, 2014, 128 Stat. 3387, added item 1129a.
 
@@ -57,6 +60,18 @@ Pub. L. 89–534, §1(2), Aug. 11, 1966, 80 Stat. 345, added item 1124, relating
 Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
 <b>1965</b>—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
+
+#### Development of Guidelines for Use of Unofficial Sources of Information To Determine Eligibility of Members and Former Members of the Armed Forces for Decorations When the Service Records Are Incomplete Because of Damage to the Official Record
+
+Pub. L. 116–92, div. A, title V, §528, Dec. 20, 2019, 133 Stat. 1357, provided that:
+
+"(a)
+
+Guidelines Required.—The Secretary of Defense shall develop guidelines regarding the use by the Secretaries of the military departments of unofficial sources of information, including eyewitness statements, to determine the eligibility of a member or former member of the Armed Forces for decorations when the service records of the member are incomplete because of damage to the records as a result of the 1973 fire at the National Personnel Records Center in St. Louis, Missouri, or any subsequent incident while the records were in the possession of the Department of Defense.
+
+"(b)
+
+Time for Completion.—The Secretary of Defense shall complete development of the guidelines not later than one year after the date of the enactment of this Act \[Dec. 20, 2019\]."
 
 #### Atomic Veterans Service Certificate
 
@@ -128,7 +143,7 @@ Report.—Not later than August 1, 2007, the Secretary shall submit to the Commi
 
 #### Separate Military Campaign Medals To Recognize Service in Operation Enduring Freedom and Service in Operation Iraqi Freedom
 
-Pub. L. 109–163, div. A, title V, §576, Jan. 6, 2006, 119 Stat. 3274, provided that: "For purposes of eligibility for the campaign medal for Operation Enduring Freedom established pursuant to Public Law 108–234 (10 U.S.C. 1121 note), the beginning date of Operation Enduring Freedom is September 11, 2001."
+Pub. L. 109–163, div. A, title V, §576, Jan. 6, 2006, 119 Stat. 3274, provided that: "For purposes of eligibility for the campaign medal for Operation Enduring Freedom established pursuant to Public Law 108–234 (10U.S.C. 1121 note), the beginning date of Operation Enduring Freedom is September 11, 2001."
 
 Pub. L. 108–234, §1, May 28, 2004, 118 Stat. 655, provided that:
 
@@ -206,7 +221,7 @@ Ex. Ord. No. 11926, July 19, 1976, 41 F.R. 29805, as amended by Ex. Ord. No. 132
 
 By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
 
-Section 1. There is established a Vice Presidential Service Badge to be awarded in the name of the Vice President of the United States of America to members of the Army, Navy, Marine Corps, Air Force, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service who have been assigned to duty in the Office of the Vice President for a period of at least one year subsequent to December 19, 1974, or who have been assigned to perform duties predominantly for the Vice President for a period of at least one year subsequent to January 20, 2001, in the implementation of Public Law 93–346, as amended \[3 U.S.C. 111 note\], or in military units and support facilities to which section 1 of Executive Order 12793 of March 20, 1992, as amended \[set out below\], refers.
+Section 1. There is established a Vice Presidential Service Badge to be awarded in the name of the VicePresident of the United States of America to members of the Army, Navy, Marine Corps, Air Force, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service who have been assigned to duty in the Office of the Vice President for a period of at least one year subsequent to December 19, 1974, or who have been assigned to perform duties predominantly for the Vice President for a period of at least one year subsequent to January 20, 2001, in the implementation of Public Law 93–346, as amended \[3 U.S.C. 111 note\], or in military units and support facilities to which section 1 of Executive Order 12793 of March 20, 1992, as amended \[set out below\], refers.
 
 Sec. 2. The Vice Presidential Service Badge may be awarded, upon recommendation of the Vice President's designee (with the concurrence of the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers), by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security, to military personnel of their respective services who have been assigned to duty in the Office of the Vice President and, in the case of members of the commissioned corps of the National Oceanic and Atmospheric Administration or the commissioned corps of the Public Health Service so assigned, by the Secretary of Commerce or the Secretary of Health and Human Services, respectively.
 
@@ -240,13 +255,13 @@ Ex. Ord. No. 12019, Nov. 3, 1977, 42 F.R. 57945, as amended by Ex. Ord. No. 1366
 
 By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
 
-Section 1. There is hereby established a Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to any member of the Armed Forces of the United States, or to any member of the armed forces of a friendly foreign nation, who has rendered outstanding non-combat meritorious achievement or service whileassigned to the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or other such joint activity as may be designated by the Secretary of Defense.
+Section 1. There is hereby established a Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to any member of the Armed Forces of the United States, or to any member of the armed forces of a friendly foreign nation, who has rendered outstanding non-combat meritorious achievement or service while assigned to the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or other such joint activity as may be designated by the Secretary of Defense.
 
 Sec. 2. The Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as the Secretary of Defense may prescribe. These regulations shall place the Defense Meritorious Service Medal in an order of precedence after the Medal of Honor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal, the Silver Star Medal, the Defense Superior Service Medal, the Legion of Merit Medal, and the Bronze Star Medal, but before the Meritorious Service Medal.
 
 Sec. 3. No more than one Defense Meritorious Service Medal shall be awarded to any one person, but for each succeeding outstanding meritorious achievement or service justifying such an award a suitable device to be worn with that medal may be awarded under such regulations as the Secretary of Defense may prescribe.
 
-Sec. 4. The Defense Meritorious Service Medal or device may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense.
+Sec. 4. The Defense Meritorious Service Medal or device may be awarded posthumously and, when so awarded, may be presented to such representative ofthe deceased as may be deemed appropriate by the Secretary of Defense.
 
 #### Ex. Ord. No. 12793. Presidential Service Certificate and Presidential Service Badge
 
@@ -368,7 +383,7 @@ Sec. 5. <i>Distinguished Flying Cross.</i>
 
 (iv) between July 2, 1926, and September 10, 2001, with the exception of a qualifying act or achievement authorized pursuant to paragraphs (ii) or (iii) of this subsection, no award shall be made more than 3 years after the date of the qualifying act or achievement unless the award recommendation was made within 2 years of the qualifying act or achievement; or
 
-(v) on or after September 11, 2001, no award shall be made except in accordance with any time limitations established in regulations by the Secretary of the military department concerned or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
+(v) on or after September 11, 2001, no award shall be made except in accordance with any time limitationsestablished in regulations by the Secretary of the military department concerned or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 (e) The Distinguished Flying Cross may be awarded posthumously. When so awarded, it may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
@@ -422,3 +437,4 @@ Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 01134 - Medal of honor award to individual interred in Tomb of the Unknowns as representative of casualties of a war](%C2%A7%2001134%20-%20Medal%20of%20honor%20award%20to%20individual%20interred%20in%20Tomb%20of%20the%20Unknowns%20as%20representative%20of%20casualties%20of%20a%20war.md)
 - [&sect; 01134a - Medal of honor Army, Navy, Air Force, and Coast Guard Medal of Honor Roll](%C2%A7%2001134a%20-%20Medal%20of%20honor%20Army%2C%20Navy%2C%20Air%20Force%2C%20and%20Coast%20Guard%20Medal%20of%20Honor%20Roll.md)
 - [&sect; 01135 - Replacement of military decorations](%C2%A7%2001135%20-%20Replacement%20of%20military%20decorations.md)
+- [&sect; 01136 - Honorable service requirement for award of military decorations](%C2%A7%2001136%20-%20Honorable%20service%20requirement%20for%20award%20of%20military%20decorations.md)

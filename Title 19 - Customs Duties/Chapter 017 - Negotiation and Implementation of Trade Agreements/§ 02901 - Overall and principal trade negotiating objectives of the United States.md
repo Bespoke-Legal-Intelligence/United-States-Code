@@ -44,7 +44,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 #### (5) Current account surpluses
 
-&emsp;The principal negotiating objective of the United States regarding current account surpluses is to develop rules to address large and persistent global current account imbalances of countries, including imbalances which threaten the stability of the international trading system, by imposing greater responsibility on such countries to undertake policy changes aimed at restoring current accountequilibrium, including expedited implementation of trade agreements where feasible and appropriate.
+&emsp;The principal negotiating objective of the United States regarding current account surpluses is to develop rules to address large and persistent global current account imbalances of countries, including imbalances which threaten the stability of the international trading system, by imposing greater responsibility on such countries to undertake policy changes aimed at restoring current account equilibrium, including expedited implementation of trade agreements where feasible and appropriate.
 
 #### (6) Trade and monetary coordination
 
@@ -286,7 +286,7 @@ Sec. 2–101. <i>Countertrade and Barter.</i>
 
 Sec. 2–201. <i>Sanctions Against Toshiba and Kongsberg.</i>
 
-(1) <i>Procurement Sanctions</i>. Pursuant to section 2443 of the Omnibus Trade Act \[former 50 U.S.C. App. 2410a note\] and subject to the exceptions referred to in paragraph (3), departments, agencies and instrumentalitiesof the United States Government shall not for the three-year period beginning on the date this Order takes effect, contract with or procure products and services from Toshiba Machine Company, Kongsberg Trading Company, Toshiba Corporation or Kongsberg Vaapenfabrikk. The head of each department, agency or instrumentality is hereby directed and authorized to implement this procurement sanction in accordance with paragraph (3).
+(1) <i>Procurement Sanctions</i>. Pursuant to section 2443 of the Omnibus Trade Act \[former 50 U.S.C. App. 2410a note\] and subject to the exceptions referred to in paragraph (3), departments, agencies and instrumentalities of the United States Government shall not for the three-year period beginning on the date this Order takes effect, contract with or procure products and services from Toshiba Machine Company, Kongsberg Trading Company, Toshiba Corporation or Kongsberg Vaapenfabrikk. The head of each department, agency or instrumentality is hereby directed and authorized to implement this procurement sanction in accordance with paragraph (3).
 
 (2) <i>Import Sanctions</i>. Pursuant to section 2443 of the Omnibus Trade Act and subject to the exceptions referred to in paragraph (3), importation into the United States, its territories and possessions, of products produced by Toshiba Machine Company or Kongsberg Trading Company is prohibited for three years from the effective date of this Order. The Secretary of the Treasury is hereby directed and authorized to implement this import sanction in accordance with paragraph (3).
 
@@ -336,7 +336,7 @@ Sec. 3–301. <i>Reporting Requirement on Semiconductors, Fiber Optics and Super
 
 (D) Federal research to assist United States industry to develop and apply advanced manufacturing technologies for the production of durable and nondurable goods.
 
-(2) The Department of Defense, the Department of Energy, the National Science Foundation, the National Aeronautics and Space Administration, the Department of State, the United States Trade Representative,and other Federal agencies deemed appropriate by the Secretary of Commerce shall provide the information described in section 5141 of the Omnibus Trade Act \[Pub. L. 100–418, title V, Aug. 23, 1988, 102 Stat. 1444\] concerning their Fiscal Year 1989 program and proposed Fiscal Year 1990 program to the Secretary of Commerce in sufficient time to permit preparation of the report.
+(2) The Department of Defense, the Department of Energy, the National Science Foundation, the National Aeronautics and Space Administration, the Department of State, the United States Trade Representative, and other Federal agencies deemed appropriate by the Secretary of Commerce shall provide the information described in section 5141 of the Omnibus Trade Act \[Pub. L. 100–418, title V, Aug. 23, 1988, 102 Stat. 1444\] concerning their Fiscal Year 1989 program and proposed Fiscal Year 1990 program to the Secretary of Commerce in sufficient time to permit preparation of the report.
 
 (3) The Office of Management and Budget shall provide to the Secretary of Commerce, in sufficient time to permit preparation of the report, a summary of the Federal base program and Fiscal Year 1990 budget initiatives in each of the technical areas of the report.
 

@@ -32,7 +32,7 @@ The Aviation and Transportation Security Act, referred to in subsec. (c), is Pub
 
 Subsec. (b)(1). Pub. L. 115–254, §1991(d)(34)(B)(i), substituted "Secretary of Homeland Security and Administrator of the Transportation Security Administration" for "Secretary and Under Secretary of Transportation for Security" and "for the Administrator of the Transportation Security Administration" for "for the Under Secretary".
 
-Subsec. (b)(2). Pub. L. 115–254, §1991(d)(34)(B)(ii), substituted "Administrator of the Transportation Security Administration and" for "Under Secretary and"and, in two places, substituted "Administrator shall" for "Under Secretary shall".
+Subsec. (b)(2). Pub. L. 115–254, §1991(d)(34)(B)(ii), substituted "Administrator of the Transportation Security Administration and" for "Under Secretary and" and, in two places, substituted "Administrator shall" for "Under Secretary shall".
 
 Subsec. (c). Pub. L. 115–254, §1991(d)(34)(C), substituted "Aviation and Transportation Security Act (Public Law 107–71; 115 Stat. 597), the Administrator of the Transportation Security Administration" for "Aviation Security Act, the Under Secretary for Transportation Security".
 

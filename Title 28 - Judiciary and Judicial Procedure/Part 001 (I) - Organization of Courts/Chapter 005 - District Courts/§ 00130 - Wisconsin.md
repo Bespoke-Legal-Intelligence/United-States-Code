@@ -4,7 +4,7 @@ Wisconsin is divided into two judicial districts to be known as the Eastern and 
 
 ### Eastern District
 
-(a) The Eastern District comprises the counties of Brown, Calumet, Dodge, Door, Florence, Fond du Lac, Forest, Green Lake, Kenosha, Kewaunee, Langlade, Manitowoc, Marinette, Marquette, Menominee, Milwaukee, Oconto, Outagamie, Ozaukee, Racine, Shawano, Sheboygan, Walworth, Washington, Waukesha, Waupaca, Waushara, and Winnebago.
+(a) The Eastern District comprises the counties of Brown, Calumet, Dodge, Door, Florence,Fond du Lac, Forest, Green Lake, Kenosha, Kewaunee, Langlade, Manitowoc, Marinette, Marquette, Menominee, Milwaukee, Oconto, Outagamie, Ozaukee, Racine, Shawano, Sheboygan, Walworth, Washington, Waukesha, Waupaca, Waushara, and Winnebago.
 
 &emsp;&emsp;Court for the Eastern District shall be held at Green Bay, Milwaukee, and Oshkosh.
 

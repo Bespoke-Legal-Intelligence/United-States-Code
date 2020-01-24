@@ -10,7 +10,7 @@ Moneys in the fund not needed for current operations shall be deposited in the T
 
 #### (c) Notes; form and denominations; maturities; terms and conditions; interest rate; purchase by Treasury; public debt transaction
 
-The Secretary is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under this section and for authorized expenditures out of the fund. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Secretary under this subchapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.
+The Secretary is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under this section and for authorized expenditures out of the fund. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Secretary under this subchapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and, for that purpose, the Secretary ofthe Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.
 
 #### (d) Notes and security as part of fund; collection or sale of notes; deposit of net proceeds in fund
 
@@ -102,13 +102,13 @@ The Secretary may guarantee under this chapter a loan made under a State beginni
 
 Section 11(a) of the Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), refers to section 11(a) of act July 22, 1937, ch. 517, title I, as added Aug. 14, 1946, ch. 964, §5, 60 Stat. 1072, which was classified to section 1005a of this title and was repealed by section 341(a) of Pub. L. 87–128.
 
-This chapter, referred to in subsecs. (f)(5), (h)(1), (2), (4), (5), and (j), was in the original "this title", meaningtitle III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
+This chapter, referred to in subsecs. (f)(5), (h)(1), (2), (4), (5), and (j), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 Section 1988(c) of this title (before the amendment made by section 749(a)(1) of the Federal Agriculture Improvement and Reform Act of 1996), referred to in subsec. (g)(1), means subsec. (c) of section 1988 of this title prior to repeal by section 749(a)(1) of Pub. L. 104–127.
 
 #### Codification
 
-In subsec. (c), "chapter 31 of title 31" and "such chapter" substituted for "the Second Liberty Bond Act, as amended" and "such Act, as amended," respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), "chapter 31 of title 31" and "such chapter" substituted for "the Second Liberty Bond Act, asamended" and "such Act, as amended," respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
@@ -200,7 +200,7 @@ Membership.—The Secretary shall appoint the members of the Advisory Committee.
 
 #### Limitation on Sales From Agricultural Credit Insurance Fund
 
-Pub. L. 99–509, title I, §1002, Oct. 21, 1986, 100 Stat. 1875, provided that: "During fiscal years 1987 through1989, no note shall be sold out of the Agricultural Credit Insurance Fund, except in connection with transactions with the Secretary of the Treasury, without prior approval by Congress."
+Pub. L. 99–509, title I, §1002, Oct. 21, 1986, 100 Stat. 1875, provided that: "During fiscal years 1987 through 1989, no note shall be sold out of the Agricultural Credit Insurance Fund, except in connection with transactions with the Secretary of the Treasury, without prior approval by Congress."
 
 #### Loans to Indians
 

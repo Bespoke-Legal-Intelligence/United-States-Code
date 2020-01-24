@@ -54,7 +54,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each of fiscal years 2017 through 2030, the Secretary of the Treasury shalldeposit in the Fund $22,750,000 from the general fund of the Treasury.
+&emsp;&emsp;&emsp;For each of fiscal years 2017 through 2030, the Secretary of the Treasury shall deposit in the Fund $22,750,000 from the general fund of the Treasury.
 
 #### (ii) Availability of amounts
 
@@ -294,7 +294,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), in allocating amounts under paragraph (1)(B), the Secretary shall allocate not more than $10,000,000 to any individual dam described in paragraph (2) during any consecutive 3-year period.
+&emsp;&emsp;&emsp;Subject to clause (ii), in allocating amounts under paragraph (1)(B), the Secretary shall allocate not more than $10,000,000 to any individual dam describedin paragraph (2) during any consecutive 3-year period.
 
 #### (ii) Exception
 
@@ -344,7 +344,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) 1 shall be appointed by the Secretary of the Interior from among employees of the Bureau of Reclamation who have knowledge and expertise in dam safety issues and flood prevention and mitigation; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) 1 shall be appointed by the Secretary of the Army from among employees of the Corps of Engineers who haveknowledge and expertise in dam safety issues and flood prevention and mitigation.
+&emsp;&emsp;&emsp;&emsp;(IV) 1 shall be appointed by the Secretary of the Army from among employees of the Corps of Engineers who have knowledge and expertise in dam safety issues and flood prevention and mitigation.
 
 #### (ii) Nonvoting members
 
@@ -400,7 +400,7 @@ In this section:
 
 #### (A) Hearings
 
-&emsp;&emsp;The Committee may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Committee considers appropriate to carry out this paragraph.
+&emsp;&emsp;The Committee may hold such hearings, sit and act at such times and places, takesuch testimony, and receive such evidence as the Committee considers appropriate to carry out this paragraph.
 
 #### (B) Information from Federal agencies
 

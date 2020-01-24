@@ -78,7 +78,7 @@ If, during the term of a contract entered into under this subpart, an owner or o
 
 #### (A) In general
 
-&emsp;&emsp;During fiscal year 2015, the Secretary shall allow a participant that entered into a contract under this subpart to terminate the contract at any time if the contract has been in effect for at least 5 years.
+&emsp;&emsp;During fiscal year 2015, the Secretary shall allow a participant that entered into a contract under this subpart to terminate thecontract at any time if the contract has been in effect for at least 5 years.
 
 #### (B) Liability for contract violation
 
@@ -192,7 +192,7 @@ The Secretary may terminate or modify a contract entered into under this subpart
 
 Section 2279(e) of title 7, referred to in subsec. (f)(1), was redesignated section 2279(a) of title 7 by Pub. L. 115–334, title XII, §12301(b)(3), Dec. 20, 2018, 132 Stat. 4951.
 
-The Organic Foods Production Act of 1990, referred to in subsecs. (f)(1)(A)(ii) and (g)(2), is title XXI of Pub. L.101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
+The Organic Foods Production Act of 1990, referred to in subsecs. (f)(1)(A)(ii) and (g)(2), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
 
 #### Codification
 

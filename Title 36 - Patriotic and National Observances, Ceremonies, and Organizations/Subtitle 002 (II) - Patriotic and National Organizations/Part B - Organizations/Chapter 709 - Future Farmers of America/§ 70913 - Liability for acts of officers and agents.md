@@ -1,8 +1,8 @@
 ### §70913. Liability for acts of officers and agents
 
-The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
+The FFA is liable for the acts of its officers and agents acting within the scope of their authority.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1359.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1359; Pub. L. 116–7, §14, Feb. 21, 2019, 133 Stat. 482.)
 
 Historical and Revision Notes
 
@@ -19,4 +19,8 @@ Historical and Revision Notes
 36:281.
 
 Aug. 30, 1950, ch. 823, §11, 64 Stat. 566.
+
+#### Amendments
+
+<b>2019</b>—Pub. L. 116–7 substituted "FFA" for "corporation".
 

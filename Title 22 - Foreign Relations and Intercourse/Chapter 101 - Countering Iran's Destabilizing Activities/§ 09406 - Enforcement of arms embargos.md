@@ -30,7 +30,7 @@ The President is not required to impose sanctions under subsection (a) with resp
 
 &emsp;(2) Iran no longer presents a significant threat to the national security of the United States and to the allies of the United States; and
 
-&emsp;(3) the Government of Iran has ceased providing operational or financial support for acts of international terrorism and no longer satisfies the requirements for designation as a state sponsor of terrorism.
+&emsp;(3) the Government of Iran has ceased providing operational or financial support foracts of international terrorism and no longer satisfies the requirements for designation as a state sponsor of terrorism.
 
 #### (e) State sponsor of terrorism defined
 

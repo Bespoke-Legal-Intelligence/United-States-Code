@@ -38,7 +38,7 @@ The funds appropriated under subsection (b) may be made available to the Polish-
 
 &emsp;(A) Each Enterprise Fund shall be governed by a Board of Directors comprised of private citizens of the United States, and citizens of the respective host country, who have demonstrated experience and expertise in those areas of private sector development in which the Enterprise Fund is involved.
 
-&emsp;(B) A majority of the members of the Board of Directors of each Enterprise Fund shall be United States citizens.: <sup>1</sup> <i>Provided</i>, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the"Advisory Councils"), with which the Enterprise Fund's policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.
+&emsp;(B) A majority of the members of the Board of Directors of each Enterprise Fund shall be United States citizens.: <sup>1</sup> <i>Provided</i>, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the "Advisory Councils"), with which the Enterprise Fund's policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.
 
 &emsp;(C) A host country citizen who is not committed to respect for democracy and a free market economy may not serve as a member of the Board of Directors of an Enterprise Fund.
 
@@ -52,7 +52,11 @@ The funds appropriated under subsection (b) may be made available to the Polish-
 
 #### (e) Grants to Enterprise Funds
 
-Funds appropriated to the President pursuant to subsection (b) shall be granted to the Enterprise Funds by the Agency for International Development to enable the Enterprise Funds to carry out the purposes specified in subsection (a) and for the administrative expenses of each Enterprise Fund.
+Funds appropriated to the President pursuant to subsection (b) shall be granted to the Enterprise Funds to carry out the purposes specified in subsection (a) and for the administrative expenses of each Enterprise Fund—
+
+&emsp;(1) except as provided in paragraph (2), by the United States Agency for International Development; or
+
+&emsp;(2) if the Enterprise Funds are transferred to the United States International Development Finance Corporation pursuant to section 9683(b) of this title, by the Corporation.
 
 #### (f) Eligible programs and projects
 
@@ -140,20 +144,6 @@ Each Enterprise Fund shall publish an annual report, which shall include a compr
 
 (Pub. L. 101–179, title II, §201, Nov. 28, 1989, 103 Stat. 1305; Pub. L. 104–107, title II, \[(v)\], Feb. 12, 1996, 110 Stat. 714; Pub. L. 105–118, title V, §588, Nov. 26, 1997, 111 Stat. 2438; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 115–254, div. F, title VI, §1470(m)(2), Oct. 5, 2018, 132 Stat. 3518.)
 
-#### Amendment of Subsection (e)
-
-<i>Pub. L. 115–254, div. F, title VI, §1470(m)(2), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in section 9681 of this title, this section is amended by striking subsection (e) and inserting the following new subsection (e):</i>
-
-#### <i>(e) Grants to Enterprise Funds</i>
-
-<i>Funds appropriated to the President pursuant to subsection (b) shall be granted to the Enterprise Funds to carry out the purposes specified in subsection (a) and for the administrative expenses of each Enterprise Fund—</i>
-
-&emsp;<i>(1) except as provided in paragraph (2), by the United States Agency for International Development; or</i>
-
-&emsp;<i>(2) if the Enterprise Funds are transferred to the United States International Development Finance Corporation pursuant to section 9683(b) of this title, by the Corporation.</i>
-
-<i>See 2018 Amendment note below.</i>
-
 #### References in Text
 
 This chapter, referred to in subsec. (d)(1), was in the original "this Act", meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
@@ -168,7 +158,7 @@ The date of enactment of this subsection, referred to in subsec. (l)(3), probabl
 
 <b>1997</b>—Subsec. (l). Pub. L. 105–118, which directed the general amendment of section 201(l) of the Support for East European Democracy Act, was executed by amending heading and text of section 201(l) of the Support for East European Democracy (SEED) Act of 1989, subsec. (l) of this section, generally, to reflect the probable intent of Congress. Prior to amendment, text read as follows: "No part of the funds of either Enterprise Fund shall inure to the benefit of any board member, officer, or employee of such Enterprise Fund, except as salary or reasonable compensation for services."
 
-<b>1996</b>—Subsec. (d)(3)(B). Pub. L. 104–107 inserted at end ": <i>Provided</i>, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the 'Advisory Councils'), with which the Enterprise Fund's policies and proposed activities and such host countrycitizens shall satisfy the experience and expertise requirements of this clause."
+<b>1996</b>—Subsec. (d)(3)(B). Pub. L. 104–107 inserted at end ": <i>Provided</i>, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the 'Advisory Councils'), with which the Enterprise Fund's policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause."
 
 #### Effective Date of 2018 Amendment
 

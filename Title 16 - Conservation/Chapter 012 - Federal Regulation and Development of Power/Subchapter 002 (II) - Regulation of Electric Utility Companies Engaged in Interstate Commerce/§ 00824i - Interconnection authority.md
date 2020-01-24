@@ -12,7 +12,7 @@
 
 &emsp;(D) such increase in transmission capacity as may be necessary to carry out the purposes of any order under subparagraph (A) or (B).
 
-(2) Any State regulatory authority may apply to the Commission for an order for any action referred to in subparagraph (A), (B), (C), or (D) of paragraph (1). No such order may be issued by the Commission with respect to a Federal power marketing agency upon application of a State regulatory authority.
+(2) Any State regulatory authority may apply to the Commission for an order for any action referred to in subparagraph (A), (B), (C), or (D) of paragraph (1). No such order may be issued by the Commission with respect to a Federal powermarketing agency upon application of a State regulatory authority.
 
 #### (b) Notice, hearing and determination by Commission
 

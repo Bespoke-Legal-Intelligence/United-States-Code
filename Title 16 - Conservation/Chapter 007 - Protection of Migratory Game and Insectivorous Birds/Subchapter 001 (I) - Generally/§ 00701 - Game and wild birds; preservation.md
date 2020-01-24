@@ -1,6 +1,6 @@
 ### §701. Game and wild birds; preservation
 
-The duties and powers of the Department of the Interior include the preservation, distribution, introduction, and restoration of game birds and other wild birds. The Secretary of the Interior is authorized to adopt such measures as may be necessary to carry out the purposes of this Act, and to purchase such game birds andother wild birds as may be required therefor, subject, however, to the laws of the various States and Territories. The object and purpose of this Act is to aid in the restoration of such birds in those parts of the United States adapted thereto where the same have become scarce or extinct, and also to regulate the introduction of American or foreign birds or animals in localities where they have not heretofore existed.
+The duties and powers of the Department of the Interior include the preservation, distribution, introduction, and restoration of game birds and other wild birds. The Secretary of the Interior is authorized to adopt such measures as may be necessary to carry out the purposes of this Act, and to purchase such game birds and other wild birds as may be required therefor, subject, however, to the laws of the various States and Territories. The object and purpose of this Act is to aid in the restoration of such birds in those parts of the United States adapted thereto where the same have become scarce or extinct, and also to regulate the introduction of American or foreign birds or animals in localities where they have not heretofore existed.
 
 The Secretary of the Interior shall from time to time collect and publish useful information as to the propagation, uses, and preservation of such birds.
 
@@ -20,7 +20,7 @@ Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organ
 
 Ex. Ord. No. 13186, Jan. 10, 2001, 66 F.R. 3853, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the migratory bird conventions, the Migratory Bird Treaty Act (16 U.S.C. 703–711), the Bald and Golden Eagle Protection Acts (16 U.S.C. 668–668d), the Fish and Wildlife Coordination Act (16 U.S.C. 661–666c), the Endangered Species Act of 1973 (16 U.S.C. 1531–1544), the National Environmental Policy Act of 1969 (42 U.S.C. 4321–4347), and other pertinent statutes, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the migratory bird conventions, the Migratory Bird Treaty Act (16 U.S.C. 703–711), the Bald and Golden Eagle Protection Acts (16 U.S.C. 668–668d), the Fish and Wildlife Coordination Act (16 U.S.C. 661–666c \[666c–1\]), the Endangered Species Act of 1973 (16 U.S.C. 1531–1544), the National Environmental Policy Act of 1969 (42 U.S.C. 4321–4347), and other pertinent statutes, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. Migratory birds are of great ecological and economic value to this country and to other countries. They contribute to biological diversity and bring tremendous enjoyment to millions of Americans who study, watch, feed, or hunt these birds throughout the United States and other countries. The United States has recognized the critical importance of this shared resource by ratifying international, bilateral conventions for the conservation of migratory birds. Such conventions include the Convention for the Protection of Migratory Birds with Great Britain on behalf of Canada 1916, the Convention for the Protection of Migratory Birds and Game Mammals-Mexico 1936, the Convention for the Protection of Birds and Their Environment-Japan 1972, and the Convention for the Conservation of Migratory Birds and Their Environment-Union of Soviet Socialist Republics 1978.
 
@@ -54,7 +54,7 @@ Sec. 3. <i>Federal Agency Responsibilities</i>. (a) Each Federal agency taking a
 
 (d) Each MOU shall include an elevation process to resolve any dispute between the signatory agencies regarding a particular practice or activity.
 
-(e) Pursuant to its MOU, each agency shall, to the extent permitted by law and subject to the availability ofappropriations and within Administration budgetary limits, and in harmony with agency missions:
+(e) Pursuant to its MOU, each agency shall, to the extent permitted by law and subject to the availability of appropriations and within Administration budgetary limits, and in harmony with agency missions:
 
 (1) support the conservation intent of the migratory bird conventions by integrating bird conservation principles, measures, and practices into agency activities and by avoiding or minimizing, to the extent practicable, adverse impacts on migratory bird resources when conducting agency actions;
 
@@ -80,7 +80,7 @@ Sec. 3. <i>Federal Agency Responsibilities</i>. (a) Each Federal agency taking a
 
 (12) provide training and information to appropriate employees on methods and means of avoiding or minimizing the take of migratory birds and conserving and restoring migratory bird habitat;
 
-(13) promote migratory bird conservation in international activities and with other countries and international partners, in consultation with the Department of State, as appropriate or relevant to the agency's authorities;
+(13) promote migratory bird conservation in international activities and with other countries and international partners, in consultation with the Departmentof State, as appropriate or relevant to the agency's authorities;
 
 (14) recognize and promote economic and recreational values of birds, as appropriate; and
 

@@ -4,7 +4,7 @@
 
 The objectives of this chapter are to promote the protection of health and the environment and to conserve valuable material and energy resources by—
 
-&emsp;(1) providing technical and financial assistance to State and local governments and interstate agencies for the development of solid waste management plans (including resource recovery and resource conservation systems) which will promote improved solid waste management techniques (including more effective organizational arrangements), new and improved methods of collection, separation, and recovery of solid waste, and the environmentally safe disposal of nonrecoverable residues;
+&emsp;(1) providing technical and financial assistance to State and local governments and interstate agencies for the development of solid waste management plans (including resource recovery and resource conservationsystems) which will promote improved solid waste management techniques (including more effective organizational arrangements), new and improved methods of collection, separation, and recovery of solid waste, and the environmentally safe disposal of nonrecoverable residues;
 
 &emsp;(2) providing training grants in occupations involving the design, operation, and maintenance of solid waste disposal systems;
 
@@ -20,7 +20,7 @@ The objectives of this chapter are to promote the protection of health and the e
 
 &emsp;(8) providing for the promulgation of guidelines for solid waste collection, transport, separation, recovery, and disposal practices and systems;
 
-&emsp;(9) promoting a national research and development program for improved solid wastemanagement and resource conservation techniques, more effective organizational arrangements, and new and improved methods of collection, separation, and recovery, and recycling of solid wastes and environmentally safe disposal of nonrecoverable residues;
+&emsp;(9) promoting a national research and development program for improved solid waste management and resource conservation techniques, more effective organizational arrangements, and new and improved methods of collection, separation, and recovery, and recycling of solid wastes and environmentally safe disposal of nonrecoverable residues;
 
 &emsp;(10) promoting the demonstration, construction, and application of solid waste management, resource recovery, and resource conservation systems which preserve and enhance the quality of air, water, and land resources; and
 

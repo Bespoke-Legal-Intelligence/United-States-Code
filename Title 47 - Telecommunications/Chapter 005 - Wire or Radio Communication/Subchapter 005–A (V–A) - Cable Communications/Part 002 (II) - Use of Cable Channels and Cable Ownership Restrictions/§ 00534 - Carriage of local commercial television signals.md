@@ -16,7 +16,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 &emsp;Whenever the number of local commercial television stations exceeds the maximum number of signals a cable system is required to carry under paragraph (1), the cable operator shall have discretion in selecting which such stations shall be carried on its cable system, except that—
 
-&emsp;&emsp;(A) under no circumstances shall a cable operator carry a qualified low power stationin lieu of a local commercial television station; and
+&emsp;&emsp;(A) under no circumstances shall a cable operator carry a qualified low power station in lieu of a local commercial television station; and
 
 &emsp;&emsp;(B) if the cable operator elects to carry an affiliate of a broadcast network (as such term is defined by the Commission by regulation), such cable operator shall carry the affiliate of such broadcast network whose city of license reference point, as defined in section 76.53 of title 47, Code of Federal Regulations (in effect on January 1, 1991), or any successor regulation thereto, is closest to the principal headend of the cable system.
 
@@ -98,7 +98,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 No cable operator shall be required—
 
-&emsp;(1) to provide or make available any input selector switch as defined in section 76.5(mm) of title 47, Code of Federal Regulations, or any comparable device; or
+&emsp;(1) to provide or make available any input selector switch as defined in section 76.5(mm)of title 47, Code of Federal Regulations, or any comparable device; or
 
 &emsp;(2) to provide information to subscribers about input selector switches or comparable devices.
 

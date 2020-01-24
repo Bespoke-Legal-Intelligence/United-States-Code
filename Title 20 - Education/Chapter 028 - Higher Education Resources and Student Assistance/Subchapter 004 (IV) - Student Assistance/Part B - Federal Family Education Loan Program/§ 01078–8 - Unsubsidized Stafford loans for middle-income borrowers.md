@@ -62,7 +62,7 @@ The determination of the amount of a loan by an eligible institution under subse
 
 &emsp;&emsp;The maximum annual amount of loans under this section an undergraduate independent student, or an undergraduate dependent student whose parents are unable to borrow under section 1078–2 of this title or the Federal Direct PLUS Loan Program, may borrow in any academic year (as defined in section 1088(a)(2) of this title) or its equivalent shall be the sum of the amount determined under paragraph (1), plus—
 
-&emsp;&emsp;&emsp;(i) in the case of such a student attending an eligible institution who has not completed such student's first 2 years of undergraduate study—
+&emsp;&emsp;&emsp;(i) in the case of such a student attending an eligible institution who has notcompleted such student's first 2 years of undergraduate study—
 
 &emsp;&emsp;&emsp;&emsp;(I) $6,000, if such student is enrolled in a program whose length is at least one academic year in length; or
 
@@ -186,7 +186,7 @@ Subsec. (d)(4)(A)(iii). Pub. L. 110–315, §428(a)(2), added cl. (iii) and stru
 
 Subsec. (d)(2)(D). Pub. L. 109–171, §8005(d)(2), substituted "$7,000" for "$5,000" in cls. (i) and (ii).
 
-Subsec. (h). Pub. L. 109–171, §8014(b)(2), inserted at end "Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretaryunder section 1078(b)(1) of this title shall collect and deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders."
+Subsec. (h). Pub. L. 109–171, §8014(b)(2), inserted at end "Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collect and deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders."
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–244, §423(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Any student meeting the requirements for student eligibility under section 1091 of this title (including graduate and professional students as defined in regulations promulgated by the Secretary) shall be entitled to borrow an unsubsidized Stafford loan. Such student shall provide to the lender a statement from the eligible institution at which the student has been accepted for enrollment, or at which the student is in attendance, which—
 
@@ -194,7 +194,7 @@ Subsec. (h). Pub. L. 109–171, §8014(b)(2), inserted at end "Effective for loa
 
 &emsp;"(2) sets forth such student's estimated financial assistance, including a loan which qualifies for subsidy payments under section 1078 of this title; and
 
-&emsp;"(3) certifies the eligibility of the student to receive a loan under this section and the amount of the loan for which such student is eligible, in accordance with subsection (c) of this section."
+&emsp;"(3) certifies the eligibility of the student to receive a loan under this section and the amount of theloan for which such student is eligible, in accordance with subsection (c) of this section."
 
 Subsec. (d)(2). Pub. L. 105–244, §423(b)(1)(A), in introductory provisions, inserted "(as defined in section 1088(a)(2) of this title)" after "academic year" and struck out "or in any period of 7 consecutive months, whichever is longer," after "or its equivalent".
 

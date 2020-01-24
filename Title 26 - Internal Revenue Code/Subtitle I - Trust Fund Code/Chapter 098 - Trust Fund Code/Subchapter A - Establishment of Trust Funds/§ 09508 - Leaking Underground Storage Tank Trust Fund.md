@@ -56,7 +56,7 @@ There are hereby appropriated to the Leaking Underground Storage Tank Trust Fund
 
 #### (3) Order in which unpaid claims are to be paid
 
-&emsp;If at any time the Leaking Underground Storage Tank Trust Fund has insufficient funds to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1), be paid in full in the order in which they were finally determined.
+&emsp;If at any time the Leaking Underground Storage Tank Trust Fund has insufficientfunds to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1), be paid in full in the order in which they were finally determined.
 
 #### (e) Limitation on transfers to Leaking Underground Storage Tank Trust Fund
 
@@ -120,7 +120,7 @@ Pub. L. 112–102 substituted "July 1, 2012" for "April 1, 2012".
 
 <b>2011</b>—Subsec. (e)(2). Pub. L. 112–30 substituted "April 1, 2012" for "October 1, 2011".
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–433, which directed an amendment of subsec. (c) identical to that by Pub. L.109–432, to be treated as not having been enacted. See Amendment note and Construction of Amendment by Pub. L. 109–433 note below.
+<b>2006</b>—Subsec. (c). Pub. L. 109–433, which directed an amendment of subsec. (c) identical to that by Pub. L. 109–432, to be treated as not having been enacted. See Amendment note and Construction of Amendment by Pub. L. 109–433 note below.
 
 Pub. L. 109–432 substituted "sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013" for "section 9003(h)" and "Public Law 109–168" for "Superfund Amendments and Reauthorization Act of 1986".
 
@@ -134,7 +134,7 @@ Subsec. (c)(2)(A). Pub. L. 108–357, §853(d)(2)(Q), substituted "section 4081"
 
 <b>1997</b>—Subsec. (b)(2). Pub. L. 105–34 substituted ", diesel fuel, and kerosene" for "and diesel fuel".
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–66, §13242(d)(42)(C), which directed the substitution of "4081" for "4091" in last sentence, could not be executed because last sentence did not contain a reference to "4091".
+<b>1993</b>—Subsec. (b). Pub. L. 103–66, §13242(d)(42)(C), which directed the substitution of "4081" for "4091" inlast sentence, could not be executed because last sentence did not contain a reference to "4091".
 
 Pub. L. 103–66, §13163(c), inserted at end "For purposes of this subsection, there shall not be taken into account the taxes imposed by sections 4041 and 4081 on diesel fuel sold for use or used as fuel in a diesel-powered boat."
 

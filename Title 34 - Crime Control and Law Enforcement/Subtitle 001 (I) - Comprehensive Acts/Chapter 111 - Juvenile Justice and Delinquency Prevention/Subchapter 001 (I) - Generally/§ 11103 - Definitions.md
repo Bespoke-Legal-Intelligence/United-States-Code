@@ -56,7 +56,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) is used for the placement, after adjudication and disposition, of any juvenile who has been adjudicated as having committed an offense or any other individual convicted of a criminal offense;
 
-&emsp;(14) the term "serious crime" means criminal homicide, forcible rape or other sex offenses punishable as a felony, mayhem, kidnapping, aggravated assault, drug trafficking,robbery, larceny or theft punishable as a felony, motor vehicle theft, burglary or breaking and entering, extortion accompanied by threats of violence, and arson punishable as a felony;
+&emsp;(14) the term "serious crime" means criminal homicide, forcible rape or other sex offenses punishable as a felony, mayhem, kidnapping, aggravated assault, drug trafficking, robbery, larceny or theft punishable as a felony, motor vehicle theft, burglary or breaking and entering, extortion accompanied by threats of violence, and arson punishable as a felony;
 
 &emsp;(15) the term "treatment" includes but is not limited to medical, educational, special education, social, psychological, and vocational services, corrective and preventive guidance and training, and other rehabilitative services designed to protect the public, including services designed to benefit addicts and other users by eliminating their dependence on alcohol or other addictive or nonaddictive drugs or by controlling their dependence and susceptibility to addiction or use;
 
@@ -282,7 +282,7 @@ Pars. (17), (18). Pub. L. 100–690, §7251(a), added pars. (17) and (18).
 
 Par. (4)(A). Pub. L. 98–473, §613(2), substituted " 'Bureau of Justice Assistance' means the bureau established by section 3741 of this title" for " 'Office of Justice Assistance, Research, and Statistics' means the office established by section 3781(a) of this title".
 
-Par. (4)(B). Pub. L. 98–473, §613(2), substituted " 'Office of Justice Programs' means the office established by section 3711 of this title" for " 'Law Enforcement Assistance Administration' means the administration established by section 3711 of this title".
+Par. (4)(B). Pub. L. 98–473, §613(2), substituted " 'Office of Justice Programs' means the office established by section 3711 of this title" for " 'Law EnforcementAssistance Administration' means the administration established by section 3711 of this title".
 
 Par. (6). Pub. L. 98–473, §613(3), substituted "services)," for "services," before "activities of".
 

@@ -24,15 +24,15 @@
 
 &emsp;&emsp;(B) substitutes for the reference to "12 months" and "18 months" in section 1181(a)(2) of this title a reference to any shorter period of time;
 
-&emsp;&emsp;(C) substitutes for the references to "63 days" in sections 1181(c)(2)(A) and (d)(4)(A) of this title a reference to any greater number of days;
+&emsp;&emsp;(C) substitutes for the references to "63 days" in sections 1181(c)(2)(A) and (d)(4)(A) <sup>1</sup>of this title a reference to any greater number of days;
 
-&emsp;&emsp;(D) substitutes for the reference to "30-day period" in sections 1181(b)(2) and (d)(1) of this title a reference to any greater period;
+&emsp;&emsp;(D) substitutes for the reference to "30-day period" in sections 1181(b)(2) <sup>2</sup> and (d)(1) of this title a reference to any greater period;
 
 &emsp;&emsp;(E) prohibits the imposition of any preexisting condition exclusion in cases not described in section 1181(d) of this title or expands the exceptions described in such section;
 
 &emsp;&emsp;(F) requires special enrollment periods in addition to those required under section 1181(f) of this title; or
 
-&emsp;&emsp;(G) reduces the maximum period permitted in an affiliation period under section 1181(g)(1)(B) of this title.
+&emsp;&emsp;(G) reduces the maximum period permitted in an affiliation period under section 1181(g)(1)(B) <sup>3</sup> of this title.
 
 #### (c) Rules of construction
 
@@ -63,4 +63,10 @@ Amendment by Pub. L. 104–204 applicable with respect to group health plans for
 #### Effective Date
 
 Section applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section 101(g) of Pub. L. 104–191, set out as a note under section 1181 of this title.
+
+<i><sup>1</sup></i><i> So in original. Section 1181(d)(4) of this title does not contain subpars.</i>
+
+<i><sup>2</sup></i><i> So in original. Section 1181(b)(2) of this title does not refer to a 30-day period.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "1181(g)(1)(C)".</i>
 

@@ -42,5 +42,5 @@ The boundaries of the Wilson's Creek National Battlefield, as revised by subsect
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–394, §1, Oct. 30, 2004, 118 Stat. 2247, provided that: "This Act \[amending this section and section 430mm of this title\] may be cited as the 'Wilson's Creek National Battlefield Boundary Adjustment Act of 2004'."
+Pub. L. 108–394, §1, Oct. 30, 2004, 118 Stat. 2247, provided that: "This Act \[amending this section and section 430mm of this title\] may be cited as the 'Wilson'sCreek National Battlefield Boundary Adjustment Act of 2004'."
 

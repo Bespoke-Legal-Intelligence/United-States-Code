@@ -56,7 +56,7 @@ Silver Coins.—
 
 &emsp;(1)
 
-Sale price.—The Secretary shall sell the coins minted under subsection (e) to the public at a price equal to the market value of the bullion at the time of sale, plus the cost of minting, marketing, and distributing such coins (including labor, materials, dies, use of machinery, and promotional and overhead expenses).
+Sale price.—The Secretary shall sell the coins minted under subsection (e) to the public at a price equal to the market value of the bullion at the time of sale, plus the cost ofminting, marketing, and distributing such coins (including labor, materials, dies, use of machinery, and promotional and overhead expenses).
 
 &emsp;(2)
 
@@ -286,7 +286,7 @@ In general.—The inscription of the year of minting or issuance of the coin and
 
 &emsp;&emsp;&emsp;(ii)
 
-Preservation of distinctive edge.—The edge-incusing of the inscriptionsunder clause (i) on coins issued under this subsection shall be done in a manner that preserves the distinctive edge of the coin so that the denomination of the coin is readily discernible, including by individuals who are blind or visually impaired.
+Preservation of distinctive edge.—The edge-incusing of the inscriptions under clause (i) on coins issued under this subsection shall be done in a manner that preserves the distinctive edge of the coin so that the denomination of the coin is readily discernible, including by individuals who are blind or visually impaired.
 
 &emsp;&emsp;(D)
 
@@ -486,7 +486,7 @@ Acceptance by agencies and instrumentalities.—Beginning January 1, 2006, all a
 
 &emsp;&emsp;&emsp;(i) accepting $1 coins in connection with such operations; and
 
-&emsp;&emsp;&emsp;(ii) other than vending machines that do not receive currency denominations higher than $1, dispensing $1 coins in connection with such operations; and
+&emsp;&emsp;&emsp;(ii) other than vending machines that do not receive currency denominations higherthan $1, dispensing $1 coins in connection with such operations; and
 
 &emsp;&emsp;(B) display signs and notices denoting such capability on the premises where coins or currency are accepted or dispensed, including on each vending machine.
 
@@ -500,7 +500,7 @@ Publicity.—The Director of the United States Mint,<sup>2</sup> shall work clos
 
 Coordination.—The Board of Governors of the Federal Reserve System and the Secretary shall take steps to ensure that an adequate supply of $1 coins is available for commerce and collectors at such places and in such quantities as are appropriate by—
 
-&emsp;&emsp;(A) consulting, to accurately gauge demand for coins and to anticipate and eliminate obstacles to the easy and efficient distribution and circulation of $1 coins as well as all other circulating coins, from time totime but no less frequently than annually, with a coin users group, which may include—
+&emsp;&emsp;(A) consulting, to accurately gauge demand for coins and to anticipate and eliminate obstacles to the easy and efficient distribution and circulation of $1 coins as well as all other circulating coins, from time to time but no less frequently than annually, with a coin users group, which may include—
 
 &emsp;&emsp;&emsp;(i) representatives of merchants who would benefit from the increased usage of $1 coins;
 
@@ -570,7 +570,7 @@ In general.—Except as provided under subparagraph (B), the obverse and reverse
 
 Variations.—The coins referred to in subparagraph (A) shall—
 
-&emsp;&emsp;&emsp;(i) have inscriptions of the weight of the coin and the nominal denomination of the coin incused in that portion of the design on the reverse of the coin commonly known as the "grassy mound"; and
+&emsp;&emsp;&emsp;(i) have inscriptions of the weight of the coin and the nominal denomination of the coin incused in that portion of the designon the reverse of the coin commonly known as the "grassy mound"; and
 
 &emsp;&emsp;&emsp;(ii) bear such other inscriptions as the Secretary determines to be appropriate.
 
@@ -934,7 +934,7 @@ Notice and report.—Within 30 days after making a determination under clause (i
 
 &emsp;&emsp;&emsp;(iii)
 
-Applicability of provisions.—If the Secretary makes a determination under clause (i), the provisions of this subsection applicable to site and design selection andapproval, the order, timing, and conditions of issuance shall apply in like manner as the initial issuance of quarter dollars under this subsection, except that the issuance of quarter dollars pursuant to such determination bearing the first design shall commence in order immediately following the last issuance of quarter dollars under the first round.
+Applicability of provisions.—If the Secretary makes a determination under clause (i), the provisions of this subsection applicable to site and design selection and approval, the order, timing, and conditions of issuance shall apply in like manner as the initial issuance of quarter dollars under this subsection, except that the issuance of quarter dollars pursuant to such determination bearing the first design shall commence in order immediately following the last issuance of quarter dollars under the first round.
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -990,7 +990,7 @@ In general.—In addition to the authorized dealers utilized by the Secretary in
 
 &emsp;&emsp;(B)
 
-Resale.—The Director of the National Park Service, or the designee of the Director, may resell, at cost and without repackaging, numismatic items acquired by the Director or such designee under subparagraph (A) to any party affiliated with any national site honored by a quarter dollar under subsection (t) for repackaging and resale by such party in the same manner and to the same extent as such party would be authorized to engage in such activities under subparagraph (A) if the party were acting as the designee of the Director under such subparagraph.
+Resale.—The Director of the National Park Service, or the designee of the Director, may resell, at cost and without repackaging, numismatic items acquired by the Director or such designee under subparagraph (A) to any party affiliated with any national site honored by a quarter dollar under subsection (t) for repackaging and resale by such party in the same manner and to thesame extent as such party would be authorized to engage in such activities under subparagraph (A) if the party were acting as the designee of the Director under such subparagraph.
 
 (v)
 
@@ -1214,7 +1214,7 @@ Issuance of numismatic coins.—The Secretary may mint and issue such number of 
 
 Termination of program.—The issuance of coins under this subsection shall terminate when one innovation, an individual innovator, or a group of innovators, from each State, the District of Columbia, and each territory has been honored and may not be resumed except by an Act of Congress.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L. 109–145, title I, §§102–104, title II, §201, Dec. 22,2005, 119 Stat. 2665–2669, 2672; Pub. L. 110–82, §§2, 3, Sept. 20, 2007, 121 Stat. 777, 779; Pub. L. 110–147, Dec. 21, 2007, 121 Stat. 1817; Pub. L. 110–161, div. D, title VI, §§622–623(b), Dec. 26, 2007, 121 Stat. 2016, 2018; Pub. L. 110–456, title I, §102, title II, §201, Dec. 23, 2008, 122 Stat. 5039, 5042; Pub. L. 111–8, div. D, title VI, §616, Mar. 11, 2009, 123 Stat. 677; Pub. L. 111–302, §§4, 5, Dec. 14, 2010, 124 Stat. 3273; Pub. L. 111–303, §2, Dec. 14, 2010, 124 Stat. 3275; Pub. L. 114–94, div. G, title LXXIII, §73001(1), Dec. 4, 2015, 129 Stat. 1785; Pub. L. 115–91, div. A, title VIII, §885, Dec. 12, 2017, 131 Stat. 1505; Pub. L. 115–197, §2, July 20, 2018, 132 Stat. 1515; Pub. L. 115–232, div. A, title X, §1081(e)(1), Aug. 13, 2018, 132 Stat. 1986.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L. 109–145, title I, §§102–104, title II, §201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672; Pub. L. 110–82, §§2, 3, Sept. 20, 2007, 121 Stat. 777, 779; Pub. L. 110–147, Dec. 21, 2007, 121 Stat. 1817; Pub. L. 110–161, div. D, title VI, §§622–623(b), Dec. 26, 2007, 121 Stat. 2016, 2018; Pub. L. 110–456, title I, §102, title II, §201, Dec. 23, 2008, 122 Stat. 5039, 5042; Pub. L. 111–8, div. D, title VI, §616, Mar. 11, 2009, 123 Stat. 677; Pub. L. 111–302, §§4, 5, Dec. 14, 2010, 124 Stat. 3273; Pub. L. 111–303, §2, Dec. 14, 2010, 124 Stat. 3275; Pub. L. 114–94, div. G, title LXXIII, §73001(1), Dec. 4, 2015, 129 Stat. 1785; Pub. L. 115–91, div. A, title VIII, §885, Dec. 12, 2017, 131 Stat. 1505; Pub. L. 115–197, §2, July 20, 2018, 132 Stat. 1515; Pub. L. 115–232, div. A, title X, §1081(e)(1), Aug. 13, 2018, 132 Stat. 1986.)
 
 Historical and Revision Notes<br>1982
 
@@ -1322,13 +1322,13 @@ In subsection (b), the words "In minting 5-cent coins" are substituted for "in m
 
 In subsection (c), the words "a different weight and alloy of copper and zinc" are substituted for "such action" for clarity.
 
-In subsection (d)(1), the words "an impression emblematic of liberty" in 31:324 are omitted as obsolete. The words "The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle" are substituted for "and upon the reverse side shall be the figure or representation of an eagle . . . but on the dime, 5-, and 1-cent piece, the figure of the eagle shall be omitted", and the words "The emblem on the obverse side of the dollar is" are substituted for "The one-dollar coin authorized by section 391(c) of this title shall bear on the obverse side" in 31:324b–1, to eliminate unnecessary words. The words "Any coins minted after July 23, 1965, from 900 fine coin silver shall be inscribed with the year 1964" in 31:324 are omitted because the Secretary no longer has authority to mint coins from 900 fine coin silver.
+In subsection (d)(1), the words "an impression emblematic of liberty" in 31:324 are omitted as obsolete. The words "The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle" are substituted for "and upon the reverse side shall be the figure or representation of an eagle . . . but on the dime, 5-, and 1-cent piece, the figure of the eagle shall beomitted", and the words "The emblem on the obverse side of the dollar is" are substituted for "The one-dollar coin authorized by section 391(c) of this title shall bear on the obverse side" in 31:324b–1, to eliminate unnecessary words. The words "Any coins minted after July 23, 1965, from 900 fine coin silver shall be inscribed with the year 1964" in 31:324 are omitted because the Secretary no longer has authority to mint coins from 900 fine coin silver.
 
 In subsection (d)(2), the word "Secretary" is substituted for "engraver", "Director of the Mint", and "Director of the Mint . . . with the approval of the Secretary of the Treasury" because of the source provisions restated in section 321(c) of the revised title. The word "dies" is substituted for "from the original dies already authorized all the working dies required for use in the coinage of the several mints" and "original dies" to eliminate unnecessary words. The word "inscription" is substituted for "legend" for consistency in the section. The words "<i>Provided</i>, That no change be made in the diameter of any coin" are omitted as unnecessary because the diameters are prescribed by subsection (a) of the revised section. The words "procure services under section 3109 of title 5 in carrying out this paragraph" are substituted for "engage temporarily for this purpose the services of one or more artists, distinguished in their respective departments of art" to eliminate unnecessary words. The words "who shall be paid for such service from the contingent appropriation for the mint at Philadelphia" are omitted as obsolete. The text of section 3510(2d proviso) of the Revised Statutes is omitted as executed.
 
 In subsection (e)(2), the words "80 percent" are substituted for "eight hundred parts" in 31:391(d), and the words "20 percent" are substituted for "two hundred parts", for consistency in the revised title and with other titles of the Code. The words "that are metallurgically bonded to" are added for clarity and consistency with subsection (b). In clause (4), the words "the late President of the United States" in 31:324b are omitted as unnecessary. Clause (6) is added because 31:324 applies to coins minted under this subsection.
 
-In subsection (f)(1), before clause (A), the words "Notwithstanding this section and section 5111(a)(1) of this title are substituted for "Notwithstanding any other provision of law" in 31:399 for clarity. In clause (B), the words "are an alloy of 90 percent silver and 10 percent copper" are substituted for "be minted in accordance with the standard established in section 3514 of the Revised Statutes (31 U.S.C. 321)" and 31:321 to eliminate unnecessary words and for clarity. In clause (C), theword "symbolizing" is substituted for "emblematic" for clarity.
+In subsection (f)(1), before clause (A), the words "Notwithstanding this section and section 5111(a)(1) of this title are substituted for "Notwithstanding any other provision of law" in 31:399 for clarity. In clause (B), the words "are an alloy of 90 percent silver and 10 percent copper" are substituted for "be minted in accordance with the standard established in section 3514 of the Revised Statutes (31 U.S.C. 321)" and 31:321 to eliminate unnecessary words and for clarity. In clause (C), the word "symbolizing" is substituted for "emblematic" for clarity.
 
 In subsection (f)(2), the words "under such regulations as he may prescribe" are omitted as unnecessary because of section 321 of the revised title. The word "Treasury" is substituted for "general fund of the Treasury" to eliminate unnecessary words.
 
@@ -1480,7 +1480,7 @@ Pub. L. 104–208, div. A, title I, §101(f) \[title V, §529(e)\], Sept. 30, 19
 
 #### Effective Date of 1985 Amendments
 
-Pub. L. 99–185, §3, Dec. 17, 1985, 99 Stat. 1179, provided that: "This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] shall take effect on October 1, 1985, except that no coins may be issued or sold under section 5112(i) of title 31, United States Code, before October 1, 1986."
+Pub. L. 99–185, §3, Dec. 17, 1985, 99 Stat. 1179, provided that: "This Act \[amending this section and sections5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] shall take effect on October 1, 1985, except that no coins may be issued or sold under section 5112(i) of title 31, United States Code, before October 1, 1986."
 
 Pub. L. 99–61, title II, §205, July 9, 1985, 99 Stat. 117, provided that: "This title \[amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section\] shall take effect on October 1, 1985, except that no coins may be issued or sold under subsection (e) of section 5112 of title 31, United States Code, before September 1, 1986, or before the date on which all coins minted under title I of this Act \[set out as a note below\] have been sold, whichever is earlier."
 
@@ -1666,7 +1666,7 @@ Pub. L. 109–145, title III, Dec. 22, 2005, 119 Stat. 2673, provided that:
 
 &emsp;"(11) In the nearly 100 years of production of the 'Lincoln cent', there have been only 2 designs on the reverse: the original, featuring 2 wheat-heads in memorial style enclosing mottoes, and the current representation of the Lincoln Memorial in Washington, D.C.
 
-&emsp;"(12) On the occasion of the bicentennial of President Lincoln's birth and the 100th anniversary of theproduction of the Lincoln cent, it is entirely fitting to issue a series of 1-cent coins with designs on the reverse that are emblematic of the 4 major periods of President Lincoln's life.
+&emsp;"(12) On the occasion of the bicentennial of President Lincoln's birth and the 100th anniversary of the production of the Lincoln cent, it is entirely fitting to issue a series of 1-cent coins with designs on the reverse that are emblematic of the 4 major periods of President Lincoln's life.
 
 #### "SEC. 302. REDESIGN OF LINCOLN CENT FOR 2009.
 
@@ -1860,7 +1860,7 @@ Numismatic items.—
 
 &emsp;&emsp;"(A)
 
-Quality of coins.—The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (4) of this subsection in uncirculated and proof qualities as the Secretary determines to be appropriate.
+Quality of coins.—The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (4) of this subsectionin uncirculated and proof qualities as the Secretary determines to be appropriate.
 
 &emsp;&emsp;"(B)
 
@@ -1937,6 +1937,12 @@ Pub. L. 99–185, §2(g), Dec. 17, 1985, 99 Stat. 1178, provided that: "The Secr
 #### Commemorative Coins
 
 Provisions authorizing commemorative coins were contained in the following acts:
+
+Pub. L. 116–94, div. K, §101–108, Dec. 20, 2019, 133 Stat. 3086.—National Law Enforcement Museum.
+
+Pub. L. 116–71, Nov. 25, 2019, 133 Stat. 1147.—Women's Suffrage Centennial.
+
+Pub. L. 116–65, Oct. 9, 2019, 133 Stat. 1124.—Christa McAuliffe.
 
 Pub. L. 115–343, Dec. 21, 2018, 132 Stat. 5043.—Naismith Memorial Basketball Hall of Fame.
 

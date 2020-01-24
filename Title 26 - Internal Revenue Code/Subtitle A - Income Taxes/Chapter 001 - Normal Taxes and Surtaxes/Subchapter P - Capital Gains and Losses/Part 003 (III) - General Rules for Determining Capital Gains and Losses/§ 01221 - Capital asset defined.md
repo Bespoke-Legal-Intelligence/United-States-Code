@@ -4,7 +4,7 @@
 
 For purposes of this subtitle, the term "capital asset" means property held by the taxpayer (whether or not connected with his trade or business), but does not include—
 
-&emsp;(1) stock in trade of the taxpayer or other property of a kind which would properly be included in the inventory of the taxpayer if onhand at the close of the taxable year, or property held by the taxpayer primarily for sale to customers in the ordinary course of his trade or business;
+&emsp;(1) stock in trade of the taxpayer or other property of a kind which would properly be included in the inventory of the taxpayer if on hand at the close of the taxable year, or property held by the taxpayer primarily for sale to customers in the ordinary course of his trade or business;
 
 &emsp;(2) property, used in his trade or business, of a character which is subject to the allowance for depreciation provided in section 167, or real property used in his trade or business;
 
@@ -48,7 +48,7 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "commodities derivative financial instrument" means any contract or financial instrument with respect to commodities (other than a share of stock in a corporation, a beneficial interest in a partnership or trust, a note, bond, debenture, or other evidence of indebtedness, or a section 1256 contract (as defined in section 1256(b))), the value or settlement price of which is calculated by or determined by reference to a specified index.
+&emsp;&emsp;&emsp;The term "commodities derivative financial instrument" means any contract or financial instrument with respect to commodities (other than a share of stock in a corporation, a beneficial interest in a partnership or trust, a note, bond, debenture, or other evidence of indebtedness, or a section 1256 contract (as defined in section 1256(b))), the value or settlement price ofwhich is calculated by or determined by reference to a specified index.
 
 #### (ii) Specified index
 
@@ -82,7 +82,7 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 
 #### (3) Sale or exchange of self-created musical works
 
-&emsp;At the election of the taxpayer, paragraphs (1) and (3) of subsection (a) shall not apply tomusical compositions or copyrights in musical works sold or exchanged by a taxpayer described in subsection (a)(3).
+&emsp;At the election of the taxpayer, paragraphs (1) and (3) of subsection (a) shall not apply to musical compositions or copyrights in musical works sold or exchanged by a taxpayer described in subsection (a)(3).
 
 #### (4) Regulations
 

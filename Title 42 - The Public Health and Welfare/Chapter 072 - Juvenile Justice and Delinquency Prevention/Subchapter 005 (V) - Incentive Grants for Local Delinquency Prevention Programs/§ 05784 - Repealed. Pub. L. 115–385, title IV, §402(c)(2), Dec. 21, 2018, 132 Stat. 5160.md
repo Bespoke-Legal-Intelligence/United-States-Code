@@ -4,7 +4,7 @@ Section, Pub. L. 93–415, title V, §506, formerly §505, as added Pub. L. 107�
 
 #### Codification
 
-Pub. L. 115–385, §402(c)(2), which directed the repeal of section 505 of Pub. L. 93–415, was executed by repealingthis section, which was section 506 of Pub. L. 93–415, to reflect the probable intent of Congress and the renumbering of this section from section 505 to section 506 of the Act by section 305 of Pub. L. 115–385. A new section 505 of Pub. L. 93–415 was enacted by Pub. L. 115–385 and is classified to section 11314 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 115–385, §402(c)(2), which directed the repeal of section 505 of Pub. L. 93–415, was executed by repealing this section, which was section 506 of Pub. L. 93–415, to reflect the probable intent of Congress and the renumbering of this section from section 505 to section 506 of the Act by section 305 of Pub. L. 115–385. A new section 505 of Pub. L. 93–415 was enacted by Pub. L. 115–385 and is classified to section 11314 of Title 34, Crime Control and Law Enforcement.
 
 #### Prior Provisions
 

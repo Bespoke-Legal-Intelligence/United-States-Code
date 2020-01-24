@@ -36,7 +36,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–581 effective 60 days after Aug. 13, 1962, but shall not affect contracts existing or thereafter entered into pursuant to invitations for bids outstanding on Aug. 13, 1962, see section 204 of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 360.
+Amendment by Pub. L. 87–581 effective 60 days after Aug. 13, 1962, but shall not affect contracts existing orthereafter entered into pursuant to invitations for bids outstanding on Aug. 13, 1962, see section 204 of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 360.
 
 #### Continued Jurisdiction Upon Claims Under Section 324 of Former Title 40
 

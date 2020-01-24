@@ -12,7 +12,7 @@
 
 #### (3) Continued applicability of base production history
 
-&emsp;A production history established for a dairy operation under paragraph (1) shall be the base production history for the dairy operation in subsequent years (as adjusted under paragraph (2), as applicable).
+&emsp;A production history established for a dairy operation under paragraph (1) shall be the baseproduction history for the dairy operation in subsequent years (as adjusted under paragraph (2), as applicable).
 
 #### (b) Election by new dairy operations
 

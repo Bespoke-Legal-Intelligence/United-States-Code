@@ -8,7 +8,7 @@ Any employee described in more than one paragraph of subsection (a) of this sect
 
 #### (c) Recruitment and relocation bonuses
 
-(1) The Commission may pay a recruitment bonus to an individual who is newly appointed to a position with the Commission, or a relocation bonus to an employee of the Commission who must relocate to accept a position, if theCommission determines that the Commission would be likely, in the absence of such a bonus, to have difficulty in filling the position.
+(1) The Commission may pay a recruitment bonus to an individual who is newly appointed to a position with the Commission, or a relocation bonus to an employee of the Commission who must relocate to accept a position, if the Commission determines that the Commission would be likely, in the absence of such a bonus, to have difficulty in filling the position.
 
 (2) A recruitment or relocation bonus may be paid to an employee under this subsection only if the employee enters into an agreement with the Commission to complete a period of employment established in the agreement. If the employee voluntarily fails to complete such period of employment or is separated from service in such employment as a result of an adverse action before the completion of such period, the employee shall repay the entire amount of the bonus.
 
@@ -66,7 +66,7 @@ Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269,
 
 #### Savings Provision for Basic Pay
 
-Pub. L. 105–261, div. C, title XXXV, §3507(b), Oct. 17, 1998, 112 Stat. 2269, provided that: "Notwithstanding subsection (a) \[amending this section and sections 3664, 3671, and 3731 of this title and repealing sections 3646 and 3647 of this title\], benefits based on basic pay, as listed in paragraphs (1), (2), (3), (5), and (6) of section 1218 of the Panama Canal Act of 1979 \[22 U.S.C. 3658(1), (2), (3), (5), (6)\], shall be paid as if sections 1217(a) and 1231(a)(2)(A) and (B) of that Act \[22 U.S.C. 3657(a), 3671(a)(2)(A), (B)\] had been repealed effective 12:00 noon, December 31, 1999. The exception under the preceding sentence shall not apply to any pay for hours of work performed on December 31, 1999."
+Pub. L. 105–261, div. C, title XXXV, §3507(b), Oct. 17, 1998, 112 Stat. 2269, provided that: "Notwithstanding subsection (a) \[amending this section and sections 3664, 3671, and 3731 of this title and repealing sections 3646 and 3647 of this title\], benefits based on basic pay, as listed in paragraphs (1), (2), (3), (5), and (6) of section 1218 of the Panama Canal Act of 1979 \[22 U.S.C. 3658(1), (2), (3), (5), (6)\], shall be paid as if sections 1217(a) and 1231(a)(2)(A) and (B) of that Act \[22 U.S.C. 3657(a), 3671(a)(2)(A), (B)\] had been repealed effective 12:00 noon, December 31, 1999. The exception under the precedingsentence shall not apply to any pay for hours of work performed on December 31, 1999."
 
 #### Coordination of Pay and Employment Practices
 

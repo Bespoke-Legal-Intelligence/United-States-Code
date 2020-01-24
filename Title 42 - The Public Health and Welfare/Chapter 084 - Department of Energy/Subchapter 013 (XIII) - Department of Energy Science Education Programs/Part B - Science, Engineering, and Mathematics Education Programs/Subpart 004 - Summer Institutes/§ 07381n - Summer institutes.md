@@ -20,7 +20,7 @@ In this section:
 
 &emsp;&emsp;(B) is operated for a period of not less than 2 weeks;
 
-&emsp;&emsp;(C) includes, as a component, a program that provides direct interaction between students and faculty, including personnel of 1 or more National Laboratories who have scientific expertise;
+&emsp;&emsp;(C) includes, as a component, a program that provides direct interaction between students and faculty, including personnel of 1 ormore National Laboratories who have scientific expertise;
 
 &emsp;&emsp;(D) provides for follow-up training, during the academic year, that is conducted in the classroom; and
 
@@ -112,7 +112,7 @@ The Director shall consult and coordinate with the Secretary of Education and th
 
 #### (3) Report to Congress
 
-&emsp;The Secretary shall submit to Congress with the annual budget submission of the Secretary a report on how the activities assisted under this section improve the science, technology, engineering, and mathematics teaching skills of participating teachers.
+&emsp;The Secretary shall submit to Congress with the annual budget submission of the Secretarya report on how the activities assisted under this section improve the science, technology, engineering, and mathematics teaching skills of participating teachers.
 
 #### (f) Authorization of appropriations
 

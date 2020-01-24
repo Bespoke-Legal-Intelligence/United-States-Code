@@ -14,7 +14,7 @@ Commission Response to Council Action.—
 
 &emsp;(1)
 
-Period of review.—Within 60 days after receiving an element or amendment from the Council, the Commission shall certify to theCouncil whether the element or amendment has a negative impact on the interests or functions of the federal establishment in the National Capital.
+Period of review.—Within 60 days after receiving an element or amendment from the Council, the Commission shall certify to the Council whether the element or amendment has a negative impact on the interests or functions of the federal establishment in the National Capital.
 
 &emsp;(2)
 

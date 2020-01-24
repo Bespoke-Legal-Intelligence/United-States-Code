@@ -20,7 +20,7 @@
 
 #### (5) Cross reference
 
-&emsp;&emsp;<b>For substitution of 120-day period for the 6-month period contained in paragraph (1) in a title 11 case,</b><b>see section 505(a)(2) of title 11 of the United States Code.</b>
+&emsp;&emsp;<b>For substitution of 120-day period for the 6-month period contained in paragraph (1) in a title 11 case, see section 505(a)(2) of title 11 of the United States Code.</b>
 
 #### (b) Suits by United States for recovery of erroneous refunds
 
@@ -66,5 +66,5 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 applicable only if mailing occurs after Sept. 2, 1958, see section 89(d) of Pub. L. 85–866, set out as a note under section 7502 of this title.
+Amendment by Pub. L. 85–866 applicable only if mailing occurs after Sept. 2, 1958, see section 89(d) of Pub.L. 85–866, set out as a note under section 7502 of this title.
 

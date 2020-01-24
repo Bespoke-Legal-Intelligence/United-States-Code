@@ -6,7 +6,7 @@ Deadline for Completion of Action.—The Secretary shall complete processing of 
 
 (b)
 
-Remedies Deemed Exhausted.—Ten months after a complete application for correction of military records is received by the Boardfor Correction of Military Records of the Coast Guard, administrative remedies are deemed to have been exhausted, and—
+Remedies Deemed Exhausted.—Ten months after a complete application for correction of military records is received by the Board for Correction of Military Records of the Coast Guard, administrative remedies are deemed to have been exhausted, and—
 
 &emsp;(1) if the Board has rendered a recommended decision, its recommendation shall be final agency action and not subject to further review or approval within the department in which the Coast Guard is operating; or
 

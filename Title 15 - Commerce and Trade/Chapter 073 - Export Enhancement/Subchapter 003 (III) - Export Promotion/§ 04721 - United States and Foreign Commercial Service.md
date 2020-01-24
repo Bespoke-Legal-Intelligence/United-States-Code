@@ -24,7 +24,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 &emsp;(1) identifying United States businesses with the potential to export goods and services and providing such businesses with advice and information on establishing export businesses;
 
-&emsp;(2) providing United States exporters with information on economic conditions, market opportunities, the status of the intellectual property system in such country, and the legaland regulatory environment within foreign countries;
+&emsp;(2) providing United States exporters with information on economic conditions, market opportunities, the status of the intellectual property system in such country, and the legal and regulatory environment within foreign countries;
 
 &emsp;(3) providing United States exporters with information and advice on the necessary adaptation of product design and marketing strategy to meet the differing cultural and technical requirements of foreign countries;
 
@@ -38,7 +38,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 &emsp;(8) utilizing district and foreign offices as one-stop shops for United States exporters by providing exporters with information on all export promotion and export finance activities of the Federal Government, assisting exporters in identifying which Federal programs may be of greatest assistance, and assisting exporters in making contact with the Federal programs identified; and
 
-&emsp;(9) providing United States exporters and export finance institutions with information on all financing and insurance programs of the Export-Import Bank of the United States, the Overseas Private Investment Corporation, the Trade and Development Program, and the Small Business Administration, including providing assistance in completing applications for such programs and working with exporters and export finance institutions to address any deficiencies in such applications that have been submitted.
+&emsp;(9) providing United States exporters and export finance institutions with information on all financing and insurance programs of the Export-Import Bank of the United States, the United States International Development Finance Corporation, the Trade and Development Program, and the Small Business Administration, including providing assistance in completing applications for such programs and working with exporters and export finance institutions to address any deficiencies in such applications that have been submitted.
 
 #### (c) Offices
 
@@ -56,7 +56,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 #### (4) Foreign offices
 
-&emsp;(A) The Secretary may, after consultation with the Secretary of State, establish foreign offices of the Commercial Service. These offices shall be located in foreign cities in regions in which the Secretary determines there are significant business opportunities for United States exporters.
+&emsp;(A) The Secretary may, after consultation with the Secretary of State, establish foreign offices of the Commercial Service. These offices shall be located in foreign cities in regions in which the Secretary determines thereare significant business opportunities for United States exporters.
 
 &emsp;(B) The Secretary may, in consultation with the Secretary of State, assign to the foreign offices Commercial Service Officers and such other personnel as the Secretary considers necessary. In employing Commercial Service Officers and such other personnel, the Secretary shall use the Foreign Service personnel system in accordance with the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. The Secretary shall designate a Commercial Officer <sup>1</sup> as head of each foreign office.
 
@@ -84,7 +84,7 @@ In order to carry out subsection (b)(7), to lessen the cost of distribution of i
 
 #### (f) Cooperation in Federal financing and insurance programs
 
-To assist the Commercial Service in carrying out subsection (b)(9), and consistent with the provisions of section 635i–7 of title 12, the Export-Import Bank of the United States, the Overseas Private Investment Corporation, the Trade and Development Program, and the Small Business Administration shall each—
+To assist the Commercial Service in carrying out subsection (b)(9), and consistent with the provisions of section 635i–7 of title 12, the Export-Import Bank of the United States, the United States International Development Finance Corporation, the Trade and Development Program, and the Small Business Administration shall each—
 
 &emsp;(1) provide to the Commercial Service complete and current information on all of its programs and financing practices; and
 
@@ -131,10 +131,6 @@ For purposes of this section—
 &emsp;(6) the term "United States" means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (Pub. L. 100–418, title II, §2301, Aug. 23, 1988, 102 Stat. 1338; Pub. L. 102–429, title II, §§202, 203, 205, Oct. 21, 1992, 106 Stat. 2201, 2204; Pub. L. 115–254, div. F, title VI, §1470(d), Oct. 5, 2018, 132 Stat. 3516.)
-
-#### Amendment of Subsections (b)(9) and (f)
-
-<i>Pub. L. 115–254, div. F, title VI, §1470(d), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, subsection (b)(9) and the introductory provisions of subsection (f) of this section are amending by striking "Overseas Private Investment Corporation" and inserting "United States International Development Finance Corporation". See 2018 Amendment notes below.</i>
 
 #### References in Text
 

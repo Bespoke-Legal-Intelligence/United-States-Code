@@ -22,7 +22,7 @@ Upon application of the Government authority, a court may grant a delay in the m
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (a), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-The Right to Financial Privacy Act of 1978, referred to in subsecs. (b) and (c), is title XI of Pub. L. 95–630,Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
+The Right to Financial Privacy Act of 1978, referred to in subsecs. (b) and (c), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
 #### Effective Date
 

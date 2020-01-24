@@ -22,10 +22,13 @@
 | [2867\.](%C2%A7%2002867%20-%20Energy%20monitoring%20and%20utility%20control%20system%20specification%20for%20military%20construction%20and%20military%20family%20housing%20activities.md) | Energy monitoring and utility control system specification for military construction and military family housing activities. |
 | [2868\.](%C2%A7%2002868%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md) | Utility services: furnishing for certain buildings. |
 | [2869\.](%C2%A7%2002869%20-%20Exchange%20of%20property%20at%20military%20installations.md) | Exchange of property at military installations. |
+| [2870\.](%C2%A7%2002870%20-%20Use%20of%20qualified%20apprentices%20by%20military%20construction%20contractors.md) | Use of qualified apprentices by military construction contractors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title VIII, §865(a)(2), Dec. 20, 2019, 133 Stat. 1524, added item 2870.
 
 <b>2018</b>—Pub. L. 115–232, div. B, title XXVIII, §2806(a)(2), Aug. 13, 2018, 132 Stat. 2264, added item 2865.
 
@@ -94,3 +97,4 @@ Pub. L. 108–375, div. B, title XXVIII, §2804(a)(2), Oct. 28, 2004, 118 Stat. 
 - [&sect; 02867 - Energy monitoring and utility control system specification for military construction and military family housing activities](%C2%A7%2002867%20-%20Energy%20monitoring%20and%20utility%20control%20system%20specification%20for%20military%20construction%20and%20military%20family%20housing%20activities.md)
 - [&sect; 02868 - Utility services furnishing for certain buildings](%C2%A7%2002868%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md)
 - [&sect; 02869 - Exchange of property at military installations](%C2%A7%2002869%20-%20Exchange%20of%20property%20at%20military%20installations.md)
+- [&sect; 02870 - Use of qualified apprentices by military construction contractors](%C2%A7%2002870%20-%20Use%20of%20qualified%20apprentices%20by%20military%20construction%20contractors.md)

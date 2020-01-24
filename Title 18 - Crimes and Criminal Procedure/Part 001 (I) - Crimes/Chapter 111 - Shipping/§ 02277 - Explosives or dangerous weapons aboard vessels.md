@@ -4,7 +4,7 @@
 
 Whoever brings, carries, or possesses any such weapon or explosive on board of any vessel in the possession and under the control of the United States or which has been seized and forfeited by the United States or upon which a guard has been placed by the United States pursuant to the provisions of section 191 <sup>1</sup> of Title 50, without previously obtaining the permission of the captain of the port in which such vessel is located, shall be fined under this title or imprisoned not more than one year, or both.
 
-(b) This section shall not apply to the personnel of the Armed Forces of the United States or to officers or employees of the United States orof a State or of a political subdivision thereof, while acting in the performance of their duties, who are authorized by law or by rules or regulations to own or possess any such weapon or explosive.
+(b) This section shall not apply to the personnel of the Armed Forces of the United States or to officers or employees of the United States or of a State or of a political subdivision thereof, while acting in the performance of their duties, who are authorized by law or by rules or regulations to own or possess any such weapon or explosive.
 
 (June 25, 1948, ch. 645, 62 Stat. 804; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–304, §17(d)(6), Oct. 6, 2006, 120 Stat. 1707.)
 

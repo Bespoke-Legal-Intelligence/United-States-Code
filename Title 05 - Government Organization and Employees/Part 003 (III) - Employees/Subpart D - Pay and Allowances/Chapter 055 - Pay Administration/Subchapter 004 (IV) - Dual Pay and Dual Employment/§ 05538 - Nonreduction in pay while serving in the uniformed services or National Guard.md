@@ -28,7 +28,7 @@
 
 (e)(1) The head of each agency referred to in section 2302(a)(2)(C)(ii) shall, in consultation with the Office, prescribe procedures to ensure that the rights under this section apply to the employees of such agency.
 
-(2) The Administrator of the Federal Aviation Administration shall, in consultation with theOffice, prescribe procedures to ensure that the rights under this section apply to the employees of that agency.
+(2) The Administrator of the Federal Aviation Administration shall, in consultation with the Office, prescribe procedures to ensure that the rights under this section apply to the employees of that agency.
 
 (f) For purposes of this section—
 

@@ -58,7 +58,7 @@ A school participating in the program shall make free fresh fruits and vegetable
 
 #### (A) In general
 
-&emsp;&emsp;Prior to making decisions regarding school participation in the program, a State agencyshall inform the schools within the State with the highest proportion of free and reduced price meal eligibility, including Native American schools, of the eligibility of the schools for the program with respect to priority granted to schools with the highest proportion of free and reduced price eligibility under paragraph (1)(B).
+&emsp;&emsp;Prior to making decisions regarding school participation in the program, a State agency shall inform the schools within the State with the highest proportion of free and reduced price meal eligibility, including Native American schools, of the eligibility of the schools for the program with respect to priority granted to schools with the highest proportion of free and reduced price eligibility under paragraph (1)(B).
 
 #### (B) Requirement
 
@@ -148,7 +148,7 @@ To the maximum extent practicable, each State agency shall ensure that in making
 
 &emsp;&emsp;A State that receives a grant under this section may reallocate any amounts made available under the grant that are not obligated or expended by a date determined by the Secretary.
 
-(June 4, 1946, ch. 281, §19, as added Pub. L. 110–234, title IV, §4304(a)(1), May 22, 2008, 122Stat. 1127, and Pub. L. 110–246, §4(a), title IV, §4304(a)(1), June 18, 2008, 122 Stat. 1664, 1888.)
+(June 4, 1946, ch. 281, §19, as added Pub. L. 110–234, title IV, §4304(a)(1), May 22, 2008, 122 Stat. 1127, and Pub. L. 110–246, §4(a), title IV, §4304(a)(1), June 18, 2008, 122 Stat. 1664, 1888.)
 
 #### References in Text
 
@@ -167,10 +167,6 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 1769a, act June 4, 1946, ch. 281, §19, formerly §21, as added Nov. 10, 1977, Pub. L. 95–166, §13, 91 Stat. 1338; renumbered §19, Oct. 18, 1986, Pub. L. 99–500, title III, §371(c)(1), 100 Stat. 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §371(c)(1), 100 Stat. 3341–372; renumbered §19, Nov. 14, 1986, Pub. L. 99–661, div. D, title V, §4501(c)(1), 100 Stat. 4080; Nov. 10, 1989, Pub. L. 101–147, title I, §108, 103 Stat. 887; Nov. 2, 1994, Pub. L. 103–448, title I, §119, 108 Stat. 4726, directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), prior to repeal by Pub. L. 104–193, title VII, §710, Aug. 22, 1996, 110 Stat. 2301.
-
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date
 
@@ -244,7 +240,7 @@ School year beginning july 1, 2008.—To facilitate transition from the program 
 
 &emsp;"(ii) funds made available under that Act \[42 U.S.C. 1751 et seq.\] for fiscal year 2009 may be used to support the participation of any schools selected to participate in the program authorized under section 18(f) of that Act (42 U.S.C. 1769(f)) (as in effect on the day before the date of enactment of this Act \[June 18, 2008\])."
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@ General.—To carry out this chapter and the Regional Rail Reorganization Act of
 
 &emsp;(4) improve rail rights of way between Boston, Massachusetts, and the District of Columbia (including the route through Springfield, Massachusetts, and routes to Harrisburg, Pennsylvania, and Albany, New York, from the Northeast Corridor main line) to achieve the goals of section 24902 of providing improved high-speed rail passenger transportation between Boston, Massachusetts, and the District of Columbia, and intermediate intercity markets;
 
-&emsp;(5) acquire, build, improve, and install passenger stations, communications and electric power facilities and equipment, public and private highway and pedestrian crossings, and other facilities and equipment necessary to provide improved high-speed rail passenger transportation over rights of way improved under clause (4) of this subsection;
+&emsp;(5) acquire, build, improve, and install passenger stations, communications and electric power facilities and equipment, public and private highway and pedestrian crossings, andother facilities and equipment necessary to provide improved high-speed rail passenger transportation over rights of way improved under clause (4) of this subsection;
 
 &emsp;(6) make agreements with other carriers and commuter authorities to grant, acquire, or make arrangements for rail freight or commuter rail passenger transportation over, rights of way and facilities acquired under the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.); and
 

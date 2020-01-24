@@ -20,7 +20,7 @@ The Congress finds with respect to the environment and health, that—
 
 &emsp;(2) disposal of solid waste and hazardous waste in or on the land without careful planning and management can present a danger to human health and the environment;
 
-&emsp;(3) as a result of the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Water Pollution Control Act\[33 U.S.C. 1251 et seq.\], and other Federal and State laws respecting public health and the environment, greater amounts of solid waste (in the form of sludge and other pollution treatment residues) have been created. Similarly, inadequate and environmentally unsound practices for the disposal or use of solid waste have created greater amounts of air and water pollution and other problems for the environment and for health;
+&emsp;(3) as a result of the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], and other Federal and State laws respecting public health and the environment, greater amounts of solid waste (in the form of sludge and other pollution treatment residues) have been created. Similarly, inadequate and environmentally unsound practices for the disposal or use of solid waste have created greater amounts of air and water pollution and other problems for the environment and for health;
 
 &emsp;(4) open dumping is particularly harmful to health, contaminates drinking water from underground and surface supplies, and pollutes the air and the land;
 
@@ -90,7 +90,7 @@ Pub. L. 104–119, §1, Mar. 26, 1996, 110 Stat. 830, provided that: "This Act \
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–386, title I, §101, Oct. 6, 1992, 106 Stat. 1505, provided that: "This title \[enacting sections 6908, 6939c to 6939e, and 6965 of this title, amending sections 6903, 6924, 6927, and 6961 of this title, and enacting provisions set out as notes under sections 6939c and 6961 of thistitle\] may be cited as the 'Federal Facility Compliance Act of 1992'."
+Pub. L. 102–386, title I, §101, Oct. 6, 1992, 106 Stat. 1505, provided that: "This title \[enacting sections 6908, 6939c to 6939e, and 6965 of this title, amending sections 6903, 6924, 6927, and 6961 of this title, and enacting provisions set out as notes under sections 6939c and 6961 of this title\] may be cited as the 'Federal Facility Compliance Act of 1992'."
 
 #### Short Title of 1988 Amendment
 

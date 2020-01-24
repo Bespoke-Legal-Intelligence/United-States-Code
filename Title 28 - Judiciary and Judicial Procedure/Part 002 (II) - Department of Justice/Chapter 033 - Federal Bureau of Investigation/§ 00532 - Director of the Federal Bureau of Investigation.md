@@ -88,7 +88,7 @@ Budget Matters.—The Director of the Federal Bureau of Investigation shall esta
 
 Reports.—(1) Not later than 180 days after the date of the enactment of this Act \[Dec. 17, 2004\], the Director of the Federal Bureau of Investigation shall submit to Congress a report on the progress made as of the date of such report in carrying out the requirements of this section.
 
-"(2) The Director shall include in each annual program review of the Federal Bureau of Investigationthat is submitted to Congress a report on the progress made by each field office of the Bureau during the period covered by such review in addressing Bureau and national program priorities.
+"(2) The Director shall include in each annual program review of the Federal Bureau of Investigation that is submitted to Congress a report on the progress made by each field office of the Bureau during the period covered by such review in addressing Bureau and national program priorities.
 
 "(3) Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report on the progress of the Bureau in implementing information-sharing principles.
 
@@ -158,7 +158,7 @@ Appropriate Committees of Congress Defined.—In this section, the term 'appropr
 
 &emsp;"(1) the Committees on Appropriations, Homeland Security and Governmental Affairs, and the Judiciary and the Select Committee on Intelligence of the Senate; and
 
-&emsp;"(2) the Committees on Appropriations, Government Reform \[now Committee on Oversight and Government Reform\], and the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives."
+&emsp;"(2) the Committees on Appropriations, Government Reform \[now Oversight and Reform\], and the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives."
 
 #### Webster Commission Implementation Report
 
@@ -212,7 +212,7 @@ Pub. L. 102–183, title V, §501, Dec. 4, 1991, 105 Stat. 1268, provided that:
 
 "(a)
 
-Study.—The Director of the Federal Bureau of Investigation shall conduct a study relative to the establishment of an undergraduate training program with respect to employees of the Federal Bureau of Investigation that is similar in purpose, conditions, content, and administration to undergraduate training programs administered by the Central Intelligence Agency (under section 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j) \[now 50 U.S.C. 3510\]), the National Security Agency (under section 16 of theNational Security Agency Act of 1959 (50 U.S.C. 402 (note)) \[now 50 U.S.C. 3614\]\[)\], and the Defense Intelligence Agency (under section 1608 \[now 1623\] of title 10, United States Code).
+Study.—The Director of the Federal Bureau of Investigation shall conduct a study relative to the establishment of an undergraduate training program with respect to employees of the Federal Bureau of Investigation that is similar in purpose, conditions, content, and administration to undergraduate training programs administered by the Central Intelligence Agency (under section 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j) \[now 50 U.S.C. 3510\]), the National Security Agency (under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 402 (note)) \[now 50 U.S.C. 3614\]\[)\], and the Defense Intelligence Agency (under section 1608 \[now 1623\] of title 10, United States Code).
 
 "(b)
 

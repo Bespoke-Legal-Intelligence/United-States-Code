@@ -42,7 +42,7 @@ A copy of any proposed rule or order to be prescribed or issued by the Secretary
 
 #### (h) Coordination with other provisions of law
 
-(1) Except as provided in sections 8412(c)(4), 8433(d)(5), and 8434 of this title, title V of the Department of Energy Organization Act (42 U.S.C.7191, et seq.) shall not apply with respect to this chapter.
+(1) Except as provided in sections 8412(c)(4), 8433(d)(5), and 8434 of this title, title V of the Department of Energy Organization Act (42 U.S.C. 7191, et seq.) shall not apply with respect to this chapter.
 
 (2) The preceding provisions of this section shall not apply with respect to any exercise of authority under section 8374 of this title.
 

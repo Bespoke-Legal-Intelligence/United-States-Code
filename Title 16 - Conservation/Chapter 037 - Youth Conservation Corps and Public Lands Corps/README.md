@@ -24,8 +24,10 @@
 | [1725\.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001725%20-%20Resource%20assistants.md) | Resource assistants. |
 | [1725a.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001725a%20-%20Direct%20hire%20authority.md) | Direct hire authority. |
 | [1725b.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001725b%20-%20Forest%20Service%20hire%20authority.md) | Forest Service hire authority. |
-| [1726\.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001726%20-%20Living%20allowances%20and%20terms%20of%20service.md) | Living allowances and terms of service. |
+| [1726\.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001726%20-%20Compensation%20and%20terms%20of%20service.md) | Compensation and terms of service. |
 | [1727\.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001727%20-%20National%20service%20educational%20awards.md) | National service educational awards. |
+| [1727a.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001727a%20-%20Reporting%20and%20data%20collection.md) | Reporting and data collection. |
+| [1727b.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001727b%20-%20Indian%20Youth%20Service%20Corps.md) | Indian Youth Service Corps. |
 | [1728\.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001728%20-%20Nondisplacement.md) | Nondisplacement. |
 | [1729\.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001729%20-%20Funding.md) | Funding. |
 | [1730\.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001730%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |

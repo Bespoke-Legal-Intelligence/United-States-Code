@@ -10,7 +10,7 @@
 
 (b) The Board shall report to the Secretary of Defense annually on the actuarial status of the Fund and shall furnish its advice and opinion on matters referred to it by the Secretary.
 
-(c) The Board shall review valuations of the Fund under section 1115(c) of this title and shall report periodically, not less than once everyfour years, to the President and Congress on the status of the Fund. The Board shall include in such reports recommendations for such changes as in the Board's judgment are necessary to protect the public interest and maintain the Fund on a sound actuarial basis.
+(c) The Board shall review valuations of the Fund under section 1115(c) of this title and shall report periodically, not less than once every four years, to the President and Congress on the status of the Fund. The Board shall include in such reports recommendations for such changes as in the Board's judgment are necessary to protect the public interest and maintain the Fund on a sound actuarial basis.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–180; amended Pub. L. 107–107, div. A, title X, §1048(a)(12), Dec. 28, 2001, 115 Stat. 1223.)
 

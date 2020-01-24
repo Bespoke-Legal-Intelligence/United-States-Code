@@ -2,7 +2,7 @@
 
 #### (a) Earliest practicable date for issuance or grant of authorizations
 
-To the extent that the taking of any action which is necessary or related to the construction and initial operation of the approved transportation system requires a certificate, right-of-way, permit, lease, or other authorization to beissued or granted by a Federal officer or agency, such Federal officer or agency shall—
+To the extent that the taking of any action which is necessary or related to the construction and initial operation of the approved transportation system requires a certificate, right-of-way, permit, lease, or other authorization to be issued or granted by a Federal officer or agency, such Federal officer or agency shall—
 
 &emsp;(1) to the fullest extent permitted by the provisions of law administered by such officer or agency, but
 
@@ -22,7 +22,7 @@ Any Federal officer or agency, with respect to any certificate, permit, right-of
 
 #### (e) Appropriate terms and conditions
 
-Any Federal officer or agency to which subsection (a) applies, to the extent permitted under laws administered by such officer or agency, shall include in any certificate, permit, right-of-way, lease, or authorization issued or granted those terms and conditions identified in the President's decision as appropriate for inclusion except that the requirement to include such terms and conditions shall not limit the Federal officer or agency's authority under subsection (d) of this section.
+Any Federal officer or agency to which subsection (a) applies, to the extent permitted under laws administered by such officer or agency, shall include in any certificate, permit, right-of-way, lease, or authorization issued or granted those terms and conditions identified inthe President's decision as appropriate for inclusion except that the requirement to include such terms and conditions shall not limit the Federal officer or agency's authority under subsection (d) of this section.
 
 (Pub. L. 94–586, §9, Oct. 22, 1976, 90 Stat. 2912.)
 

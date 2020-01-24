@@ -1,6 +1,6 @@
 ### §7458. Recruitment and retention bonus pay
 
-(a)(1) In order to recruit and retain registered nurses, the Secretary may enter into agreements under this section. Such an agreementmay be entered into with any registered nurse who is employed at, or who agrees to accept employment with the Department at, a Department health-care facility that is designated by the Secretary as a health-care facility with a significant shortage in registered nurses in any clinical service.
+(a)(1) In order to recruit and retain registered nurses, the Secretary may enter into agreements under this section. Such an agreement may be entered into with any registered nurse who is employed at, or who agrees to accept employment with the Department at, a Department health-care facility that is designated by the Secretary as a health-care facility with a significant shortage in registered nurses in any clinical service.
 
 (2) A registered nurse entering into an agreement under this section shall agree to remain employed by the Department as a registered nurse for a period of time to be specified in the agreement and to serve during that period in a specific health-care facility that is designated by the Secretary as a health-care facility with a significant shortage of registered nurses in that nurse's clinical service. Such period may not be less than two years or more than four years. Such employment during such period may be on a full-time basis or a part-time basis, as specified in the agreement. Part-time employment as specified in such an agreement may not be less than half-time.
 
@@ -16,7 +16,7 @@
 
 (c)(1) Except as provided in paragraph (2) of this subsection, a bonus under this section shall be paid in equal installments after each year of service is completed throughout the period of obligated service specified in the agreement.
 
-(2)(A) The Secretary may make a payment in an amount not in excess of 25 percent of the total bonus in a lump sum at the time that the period of obligated service commences under the agreement.
+(2)(A) The Secretary may make a payment in an amount not in excess of 25 percent of thetotal bonus in a lump sum at the time that the period of obligated service commences under the agreement.
 
 (B) If the Secretary makes a lump-sum payment under subparagraph (A) of this paragraph, the remaining balance of the bonus shall be paid in equal installments after each year of service is completed throughout the period of obligated service specified in the agreement.
 

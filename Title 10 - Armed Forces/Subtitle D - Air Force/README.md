@@ -8,6 +8,7 @@
 | [<b>903.</b>](Part%20001%20%28I%29%20-%20Organization/Chapter%20903%20-%20Department%20of%20the%20Air%20Force/README.md) | <b>Department of the Air Force</b> | <b>9011</b> |
 | [<b>905.</b>](Part%20001%20%28I%29%20-%20Organization/Chapter%20905%20-%20The%20Air%20Staff/README.md) | <b>The Air Staff</b> | <b>9031</b> |
 | [<b>907.</b>](Part%20001%20%28I%29%20-%20Organization/Chapter%20907%20-%20The%20Air%20Force/README.md) | <b>The Air Force</b> | <b>9061</b> |
+| [<b>908.</b>](Part%20001%20%28I%29%20-%20Organization/Chapter%20908%20-%20The%20Space%20Force/README.md) | <b>The Space Force</b> | <b>9081. </b><b><sup>1</sup></b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -67,6 +68,8 @@
 
 #### Amendments
 
+<b>2019</b>—Pub. L. 116–92, div. A, title IX, §952(f), Dec. 20, 2019, 133 Stat. 1562, added item for chapter 908.
+
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 801 to 953 as 901 to 983 and redesignated section numbers 8011 to 9831 as 9011 to 9831. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title XII, §1241(o)(8), Dec. 23, 2016, 130 Stat. 2512, struck out item for chapter 905 "Aviation Leadership Program".
@@ -94,6 +97,8 @@ Pub. L. 90–235, §8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for chapte
 <b>1960</b>—Pub. L. 86–616, §§7(b), 8(b), July 12, 1960, 74 Stat. 393, 395, substituted "Substandard Performance of Duty" for "Failure to Meet Standards" in item for chapter 859 and added item for chapter 860.
 
 <b>1958</b>—Pub. L. 85–861, §1(193), Sept. 2, 1958, 72 Stat. 1538, substituted "8841" for "\[No present sections\]" in item for chapter 863.
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 
 
 ---

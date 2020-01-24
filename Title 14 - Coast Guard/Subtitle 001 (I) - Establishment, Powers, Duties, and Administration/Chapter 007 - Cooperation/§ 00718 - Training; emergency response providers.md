@@ -40,7 +40,7 @@ A prior section 751, acts Aug. 4, 1949, ch. 393, 63 Stat. 551; Aug. 3, 1950, ch.
 
 A prior section 751a, added act Aug. 10, 1956, ch. 1041, §15(a), 70A Stat. 624, provided for the organization of the Coast Guard Reserve and was omitted in the general revision of former chapter 21 of this title by Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1002.
 
-A prior section 752, act Aug. 4, 1949, ch. 393, 63 Stat. 551, related to eligibility, prior to repeal by act July 9, 1952, ch. 608, part VIII, §§802, 803, 66 Stat. 505, effective on the first day of the sixth month following July 1952.
+A prior section 752, act Aug. 4, 1949, ch. 393, 63 Stat. 551, related to eligibility, prior to repeal by act July 9,1952, ch. 608, part VIII, §§802, 803, 66 Stat. 505, effective on the first day of the sixth month following July 1952.
 
 A prior section 752a, added act Aug. 10, 1956, ch. 1041, §15(a), 70A Stat. 625, related to the authorized strength of the Coast Guard Reserve and was omitted in the general revision of former chapter 21 of this title by Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1002.
 
@@ -126,7 +126,7 @@ Section 789, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1553, relat
 
 Section 790, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1554; amended Pub. L. 91–402, §1(11), Sept. 18, 1970, 84 Stat. 841, related to types of promotion.
 
-Section 791, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1554; amended Pub. L. 88–130, §1(13), Sept. 24, 1963, 77 Stat. 190; Pub. L. 91–402, §1(12), Sept. 18, 1970, 84 Stat. 842, related to promotion of officers on active duty.
+Section 791, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1554; amended Pub. L. 88–130, §1(13), Sept. 24, 1963, 77 Stat. 190; Pub. L. 91–402, §1(12), Sept. 18, 1970, 84Stat. 842, related to promotion of officers on active duty.
 
 Section 792, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1554, related to appointment of former Navy and Coast Guard officers.
 

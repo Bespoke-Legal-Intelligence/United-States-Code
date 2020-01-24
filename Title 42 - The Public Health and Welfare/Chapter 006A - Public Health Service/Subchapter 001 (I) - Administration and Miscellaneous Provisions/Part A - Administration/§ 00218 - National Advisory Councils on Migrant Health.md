@@ -2,7 +2,7 @@
 
 #### (a) Appointment; duties
 
-Within 120 days of July 29, 1975, the Secretary shall appoint and organize a National Advisory Council on Migrant Health (hereinafter in thissubsection referred to as the "Council") which shall advise, consult with, and make recommendations to, the Secretary on matters concerning the organization, operation, selection, and funding of migrant health centers and other entities under grants and contracts under section 254b <sup>1</sup> of this title.
+Within 120 days of July 29, 1975, the Secretary shall appoint and organize a National Advisory Council on Migrant Health (hereinafter in this subsection referred to as the "Council") which shall advise, consult with, and make recommendations to, the Secretary on matters concerning the organization, operation, selection, and funding of migrant health centers and other entities under grants and contracts under section 254b <sup>1</sup> of this title.
 
 #### (b) Membership
 
@@ -28,7 +28,7 @@ Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d),
 
 <b>1986</b>—Pub. L. 99–570 redesignated former subsec. (e)(1) to (4) as subsecs. (a) to (d), respectively, in subsec. (c), further redesignated former cls. (A) and (B) as (1) and (2), respectively, and struck out former subsecs. (a) to (d), which related, respectively, to composition, qualifications, appointment and tenure of the National Advisory Mental Health Council and the National Advisory Council on Alcohol Abuse and Alcoholism; duties of the National Advisory Mental Health Council; duties of the National Advisory Council on Alcohol Abuse and Alcoholism; and the composition, qualifications, and duties of the National Advisory Council on Drug Abuse.
 
-Subsec. (c). Pub. L. 99–660 which directed that "section 300cc of this title" be substituted for "section 300aa of this title" could not be executed because the reference in question appeared in former subsec. (c) which was repealed by Pub. L. 99–570.
+Subsec. (c). Pub. L. 99–660 which directed that "section 300cc of this title" be substituted for "section 300aa of this title" could not be executed because thereference in question appeared in former subsec. (c) which was repealed by Pub. L. 99–570.
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–158, §3(a)(2)(A), in first sentence substituted "National Advisory Mental Health Council and the National Advisory Council on Alcohol Abuse and Alcoholism" for "National Advisory Health Council, the National Advisory Mental Health Council, the National Advisory Council on Alcohol Abuse and Alcoholism, and the National Advisory Dental Research Council", and substituted "by the Secretary" for "by the Surgeon General with the approval of the Secretary of Health, Education, and Welfare".
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 94–63 effective July 1, 1975, see section 608 of Pub. L. 
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–348, title II, §211(b), July 12, 1974, 88 Stat. 352, as amended by Pub. L. 94–278, title III, §301(b), Apr. 22, 1976, 90 Stat. 407; Pub. L. 94–573, §18(b), Oct. 21, 1976, 90 Stat. 2720; Pub. L. 95–203, §5(b), Nov. 23, 1977, 91 Stat. 1454, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect November 1, 1978."
+Pub. L. 93–348, title II, §211(b), July 12, 1974, 88 Stat. 352, as amended by Pub. L. 94–278, title III, §301(b), Apr.22, 1976, 90 Stat. 407; Pub. L. 94–573, §18(b), Oct. 21, 1976, 90 Stat. 2720; Pub. L. 95–203, §5(b), Nov. 23, 1977, 91 Stat. 1454, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect November 1, 1978."
 
 #### Effective Date of 1972 Amendment
 

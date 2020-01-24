@@ -4,7 +4,7 @@
 
 #### (1) Reservations
 
-&emsp;From the sum appropriated under section 2307 of this title for each fiscal year, the Secretary shall reserve—
+&emsp;From the amount appropriated under section 2307 of this title for each fiscal year, the Secretary shall reserve—
 
 &emsp;&emsp;(A) 0.13 percent to carry out section 2325 of this title; and
 
@@ -14,11 +14,21 @@
 
 &emsp;&emsp;&emsp;(ii) 0.25 percent of the sum shall be available to carry out section 2326(h) of this title.
 
-#### (2) State allotment formula
+#### (2) Foundational grant
 
-&emsp;Subject to paragraphs (3), (4), and (5), from the remainder of the sum appropriated under section 2307 of this title and not reserved under paragraph (1) for a fiscal year, the Secretary shall allot to a State for the fiscal year—
+#### (A) In general
 
-&emsp;&emsp;(A) an amount that bears the same ratio to 50 percent of the sum being allotted as the product of the population aged 15 to 19 inclusive, in the State in the fiscal year preceding the fiscal year for which the determination is made and the State's allotment ratio bears to the sum of the corresponding products for all the States;
+&emsp;&emsp;From the remainder of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for a fiscal year, the Secretary shall allot to a State for the fiscal year an amount equal to the amount the State received in fiscal year 2018.
+
+#### (B) Ratable reduction
+
+&emsp;&emsp;If for any fiscal year the amount appropriated for allotments under this section is insufficient to satisfy the provisions of subparagraph (A), the payments to all States under such subparagraph shall be ratably reduced.
+
+#### (3) Additional funds
+
+&emsp;Subject to paragraph (4), from the additional funds remaining from the amount appropriated under section 2307 of this title and not expended under paragraphs (1) and (2) for a fiscal year, the Secretary shall allot to a State for the fiscal year—
+
+&emsp;&emsp;(A) an amount that bears the same ratio to 50 percent of the sum being allotted as the product of the population aged 15 to 19, inclusive, in the State in the fiscal year preceding the fiscal year for which the determination is made and the State's allotment ratio bears to the sum of the corresponding products for all the States;
 
 &emsp;&emsp;(B) an amount that bears the same ratio to 20 percent of the sum being allotted as the product of the population aged 20 to 24, inclusive, in the State in the fiscal year preceding the fiscal year for which the determination is made and the State's allotment ratio bears to the sum of the corresponding products for all the States;
 
@@ -26,103 +36,43 @@
 
 &emsp;&emsp;(D) an amount that bears the same ratio to 15 percent of the sum being allotted as the amounts allotted to the State under subparagraphs (A), (B), and (C) for such years bears to the sum of the amounts allotted to all the States under subparagraphs (A), (B), and (C) for such year.
 
-#### (3) Minimum allotment for years with no additional funds
-
-#### (A) In general
-
-&emsp;&emsp;Notwithstanding any other provision of law and subject to subparagraphs (B) and (C), and paragraph (5), for a fiscal year for which there are no additional funds (as such term is defined in paragraph (4)(D)), no State shall receive for such fiscal year under this subsection less than ½ of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
-
-#### (B) Requirement
-
-&emsp;&emsp;No State, by reason of the application of subparagraph (A), shall receive for a fiscal year more than 150 percent of the amountthe State received under this subsection for the preceding fiscal year.
-
-#### (C) Special rule
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;Subject to paragraph (5), no State, by reason of the application of subparagraph (A), shall be allotted for a fiscal year more than the lesser of—
-
-&emsp;&emsp;&emsp;&emsp;(I) 150 percent of the amount that the State received in the preceding fiscal year; and
-
-&emsp;&emsp;&emsp;&emsp;(II) the amount calculated under clause (ii).
-
-#### (ii) Amount
-
-&emsp;&emsp;&emsp;The amount calculated under this clause shall be determined by multiplying—
-
-&emsp;&emsp;&emsp;&emsp;(I) the number of individuals in the State counted under paragraph (2) in the preceding fiscal year; by
-
-&emsp;&emsp;&emsp;&emsp;(II) 150 percent of the national average per pupil payment made with funds available under this section for that year.
-
 #### (4) Minimum allotment for years with additional funds
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) and paragraph (5), for a fiscal year for which there are additional funds, no State shall receive for such fiscal year under this subsection less than ½ of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
+&emsp;&emsp;Subject to subparagraph (B), for a fiscal year for which there are additional funds described in paragraph (3), no State shall receive for such fiscal year under paragraph (3) less than 1/2 of 1 percent of the additional funds available for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
 
 #### (B) Special rule
 
 &emsp;&emsp;In the case of a qualifying State, the minimum allotment under subparagraph (A) for a fiscal year for the qualifying State shall be the lesser of—
 
-&emsp;&emsp;&emsp;(i) ½ of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year; and
+&emsp;&emsp;&emsp;(i) 1/2 of 1 percent of the additional funds available for such fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) the sum of—
+&emsp;&emsp;&emsp;(ii) the product of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount the qualifying State was allotted under paragraph (2) for fiscal year 2006 (as such paragraph was in effect on the day before August 12, 2006); and
+&emsp;&emsp;&emsp;&emsp;(I) 1/3 of the additional funds; multiplied by
 
-&emsp;&emsp;&emsp;&emsp;(II) the product of—
+&emsp;&emsp;&emsp;&emsp;(II) the quotient of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) 1/3 of the additional funds; multiplied by
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the qualifying State's ratio described in subparagraph (C) for the fiscal year for which the determination is made; divided by
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the quotient of—
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the qualifying State's ratio described in subparagraph (C) for the fiscal year for which the determination is made; divided by
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the sum of all such ratios for all qualifying States for the fiscal year for which the determination is made.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the sum of all such ratios for all qualifying States for the fiscal year for which the determination is made.
 
 #### (C) Ratio
 
-&emsp;&emsp;For purposes of subparagraph (B)(ii)(II)(bb)(AA), the ratio for a qualifying State for a fiscal year shall be 1.00 less the quotient of—
+&emsp;&emsp;For purposes of subparagraph (B)(ii)(II)(aa), the ratio for a qualifying State for a fiscal year shall be 1.00 less the quotient of—
 
-&emsp;&emsp;&emsp;(i) the amount the qualifying State was allotted under paragraph (2) for fiscal year 2006 (as such paragraph was in effect on the day before August 12, 2006); divided by
+&emsp;&emsp;&emsp;(i) the amount the qualifying State is allotted under paragraph (3) for the fiscal year; divided by
 
-&emsp;&emsp;&emsp;(ii) ½ of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for the fiscal year for which the determination is made.
+&emsp;&emsp;&emsp;(ii) 1/2 of 1 percent of the amount appropriated under paragraph (3) for the fiscal year for which the determination is made.
 
 #### (D) Definitions
 
-&emsp;&emsp;In this paragraph:
-
-#### (i) Additional funds
-
-&emsp;&emsp;&emsp;The term "additional funds" means the amount by which—
-
-&emsp;&emsp;&emsp;&emsp;(I) the sum appropriated under section 2307 of this title and not reserved under paragraph (1) for a fiscal year; exceeds
-
-&emsp;&emsp;&emsp;&emsp;(II) the sum of—
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount allotted under paragraph (2) for fiscal year 2006 (as such paragraph (2) was in effect on the day before August 12, 2006);
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the amount reserved under paragraph (1)(C) for fiscal year 2006 (as such paragraph (1)(C) was so in effect); and
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) $827,671.
-
-#### (ii) Qualifying State
-
-&emsp;&emsp;&emsp;The term "qualifying State" means a State (except the United States Virgin Islands) that, for the fiscal year for which a determination under this paragraph is made, would receive, under the allotment formula under paragraph (2) (without the application of this paragraph and paragraphs (3) and (5)), an amount that would be less than the amount the State would receive under subparagraph (A) for such fiscal year.
-
-#### (5) Hold harmless
-
-#### (A) In general
-
-&emsp;&emsp;No State shall receive an allotment under this section for a fiscal year that is less than the allotment the State received under part A of title I of the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2311 et seq.) (as such part was in effect on the day before October 31, 1998) for fiscal year 1998.
-
-#### (B) Ratable reduction
-
-&emsp;&emsp;If for any fiscal year the amount appropriated for allotments under this section is insufficient to satisfy the provisions of subparagraph (A), the payments to all States under such subparagraph shall be ratably reduced.
+&emsp;&emsp;In this paragraph, the term "qualifying State" means a State (except the United States Virgin Islands) that, for the fiscal year for which a determination under this paragraph is made, would receive, under the allotment formula under paragraph (3) (without the application of this paragraph), an amount that would be less than the amount the State would receive under subparagraph (A) for such fiscal year.
 
 #### (b) Reallotment
 
-If the Secretary determines that any amount of any State's allotment under subsection (a) for any fiscal year will not be required for such fiscal year for carrying out the activities for which such amount has been allotted, the Secretary shall make such amount available for reallotment. Any such reallotment among other States shall occur on such dates during the same year as the Secretary shall fix, and shall be made onthe basis of criteria established by regulation. No funds may be reallotted for any use other than the use for which the funds were appropriated. Any amount reallotted to a State under this subsection for any fiscal year shall remain available for obligation during the succeeding fiscal year and shall be deemed to be part of the State's allotment for the year in which the amount is obligated.
+If the Secretary determines that any amount of any State's allotment under subsection (a) for any fiscal year will not be required for such fiscal year for carrying out the activities for which such amount has been allotted, the Secretary shall make such amount available for reallotment. Any such reallotment among other States shall occur on such dates during the same year as the Secretary shall fix, and shall be made on the basis of criteria established by regulation. No funds may be reallotted for any use other than the use for which the funds were appropriated. Any amount reallotted to a State under this subsection for any fiscal year shall remain available for obligation during the succeeding fiscal year and shall be deemed to be part of the State's allotment for the year in which the amount is obligated.
 
 #### (c) Allotment ratio
 
@@ -155,124 +105,6 @@ If the Secretary determines that any amount of any State's allotment under subse
 For the purpose of this section, the term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the United States Virgin Islands.
 
 (Pub. L. 88–210, title I, §111, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 691; amended Pub. L. 115–224, title I, §110, July 31, 2018, 132 Stat. 1576.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–224, §4, title I, §110, July 31, 2018, 132 Stat. 1564, 1576, provided that, effective July 1, 2019, this section is amended to read as follows:</i>
-
-#### <i>§2321. Reservations and State allotment</i>
-
-#### <i>(a) Reservations and State allotment</i>
-
-#### <i>(1) Reservations</i>
-
-&emsp;<i>From the amount appropriated under section 2307 of this title for each fiscal year, the Secretary shall reserve—</i>
-
-&emsp;&emsp;<i>(A) 0.13 percent to carry out section 2325 of this title; and</i>
-
-&emsp;&emsp;<i>(B) 1.50 percent to carry out section 2326 of this title, of which—</i>
-
-&emsp;&emsp;&emsp;<i>(i) 1.25 percent of the sum shall be available to carry out section 2326(b) of this title; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) 0.25 percent of the sum shall be available to carry out section 2326(h) of this title.</i>
-
-#### <i>(2) Foundational grant</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>From the remainder of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for a fiscal year, the Secretary shall allot to a State for the fiscal year an amount equal to the amount the State received in fiscal year 2018.</i>
-
-#### <i>(B) Ratable reduction</i>
-
-&emsp;&emsp;<i>If for any fiscal year the amount appropriated for allotments under this section is insufficient to satisfy the provisions of subparagraph (A), the payments to all States under such subparagraph shall be ratably reduced.</i>
-
-#### <i>(3) Additional funds</i>
-
-&emsp;<i>Subject to paragraph (4), from the additional funds remaining from the amount appropriated under section 2307 of this title and not expended under paragraphs (1) and (2) for a fiscal year, the Secretary shall allot to a State for the fiscal year—</i>
-
-&emsp;&emsp;<i>(A) an amount that bears the same ratio to 50 percent of the sum being allotted as the product of the population aged 15 to 19, inclusive, in the State in the fiscal year preceding the fiscal year for which the determination is made and the State's allotment ratio bears to the sum of the corresponding products for all the States;</i>
-
-&emsp;&emsp;<i>(B) an amount that bears the same ratio to 20 percent of the sum being allotted as the product of the population aged 20 to 24, inclusive, in the State in the fiscal year preceding the fiscal year for which the determination is made and the State's allotment ratio bears to the sum of the corresponding products for all the States;</i>
-
-&emsp;&emsp;<i>(C) an amount that bears the same ratio to 15 percent of the sum being allotted as the product of the population aged 25 to 65, inclusive, in the State in the fiscal year preceding the fiscal year for which the determination is made and the State's allotment ratio bears to the sum of the corresponding products for all the States; and</i>
-
-&emsp;&emsp;<i>(D) an amount that bears the same ratio to 15 percent of the sum being allotted as the amounts allotted to the State under subparagraphs (A), (B), and (C) for such years bears to the sum of the amounts allotted to all the States under subparagraphs (A), (B), and (C) for such year.</i>
-
-#### <i>(4) Minimum allotment for years with additional funds</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>Subject to subparagraph (B), for a fiscal year for which there are additional funds described in paragraph (3), no State shall receive for such fiscal year under paragraph (3) less than 1/2 of 1 percent of the additional funds available for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.</i>
-
-#### <i>(B) Special rule</i>
-
-&emsp;&emsp;<i>In the case of a qualifying State, the minimum allotment under subparagraph (A) for a fiscal year for the qualifying State shall be the lesser of—</i>
-
-&emsp;&emsp;&emsp;<i>(i) 1/2 of 1 percent of the additional funds available for such fiscal year; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the product of—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) 1/3 of the additional funds; multiplied by</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) the quotient of—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) the qualifying State's ratio described in subparagraph (C) for the fiscal year for which the determination is made; divided by</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) the sum of all such ratios for all qualifying States for the fiscal year for which the determination is made.</i>
-
-#### <i>(C) Ratio</i>
-
-&emsp;&emsp;<i>For purposes of subparagraph (B)(ii)(II)(aa), the ratio for a qualifying State for a fiscal year shall be 1.00 less the quotient of—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the amount the qualifying State is allotted under paragraph (3) for the fiscal year; divided by</i>
-
-&emsp;&emsp;&emsp;<i>(ii) 1/2 of 1 percent of the amount appropriated under paragraph (3) for the fiscal year for which the determination is made.</i>
-
-#### <i>(D) Definitions</i>
-
-&emsp;&emsp;<i>In this paragraph, the term "qualifying State" means a State (except the United States Virgin Islands) that, for the fiscal year for which a determination under this paragraph is made, would receive, under the allotment formula under paragraph (3) (without the application of this paragraph), an amount that would be less than the amount the State would receive under subparagraph (A) for such fiscal year.</i>
-
-#### <i>(b) Reallotment</i>
-
-<i>If the Secretary determines that any amount of any State's allotment under subsection (a) for any fiscal year will not be required for such fiscal year for carrying out the activities for which such amount has been allotted, the Secretary shall make such amount available for reallotment. Any such reallotment among other States shall occur on such dates during the same year as the Secretary shall fix, and shall be made on the basis of criteria established by regulation. No funds may be reallotted for any use other than the use for which the funds were appropriated. Any amount reallotted to a State under this subsection for any fiscal year shall remain available for obligation during the succeeding fiscal year and shall be deemed to be part of the State's allotment for the year in which the amount is obligated.</i>
-
-#### <i>(c) Allotment ratio</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>The allotment ratio for any State shall be 1.00 less the product of—</i>
-
-&emsp;&emsp;<i>(A) 0.50; and</i>
-
-&emsp;&emsp;<i>(B) the quotient obtained by dividing the per capita income for the State by the per capita income for all the States (exclusive of the Commonwealth of Puerto Rico and the United States Virgin Islands), except that—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the allotment ratio in no case shall be more than 0.60 or less than 0.40; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the allotment ratio for the Commonwealth of Puerto Rico and the United States Virgin Islands shall be 0.60.</i>
-
-#### <i>(2) Promulgation</i>
-
-&emsp;<i>The allotment ratios shall be promulgated by the Secretary for each fiscal year between October 1 and December 31 of the fiscal year preceding the fiscal year for which the determination is made. Allotment ratios shall be computed on the basis of the average of the appropriate per capita incomes for the 3 most recent consecutive fiscal years for which satisfactory data are available.</i>
-
-#### <i>(3) Definition of per capita income</i>
-
-&emsp;<i>For the purpose of this section, the term "per capita income" means, with respect to a fiscal year, the total personal income in the calendar year ending in such year, divided by the population of the area concerned in such year.</i>
-
-#### <i>(4) Population determination</i>
-
-&emsp;<i>For the purposes of this section, population shall be determined by the Secretary on the basis of the latest estimates available to the Department of Education.</i>
-
-#### <i>(d) Definition of State</i>
-
-<i>For the purpose of this section, the term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the United States Virgin Islands.</i>
-
-<i>See 2018 Amendment note below.</i>
-
-#### References in Text
-
-Paragraphs (1)(C) and (2), as such paragraphs were in effect on the day before August 12, 2006, referred to in subsec. (a)(4)(B)(ii)(I), (C)(i), (D)(i)(II)(aa), (bb), mean paragraphs (1)(C) and (2) of section 2321(a) of this title, as added by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3083, as amended, prior to the general amendment of this chapter by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 691. See Prior Provisions note below.
-
-Part A of title I of the Carl D. Perkins Vocational and Applied Technology Education Act, as such part was in effect on the day before October 31, 1998, referred to in subsec. (a)(5)(A), means part A of title I of Pub. L. 88–210, as added by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2438, as amended, which was classified to part A (§2311 et seq.) of subchapter I of this chapter prior to the general amendment of this chapter by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 #### Prior Provisions
 

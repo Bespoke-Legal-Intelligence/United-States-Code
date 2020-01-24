@@ -88,7 +88,7 @@
 
 (e) Under such procedures as the Director may prescribe, a phased retiree may elect to enter full retirement status at any time. Upon making such an election, a phased retiree shall be entitled to a composite retirement annuity.
 
-(f)(1) Except as provided otherwise under this subsection, a composite retirement annuity is a single annuity computed under regulations prescribed by the Director, equal to the sum of—
+(f)(1) Except as provided otherwise under this subsection, a composite retirement annuity is asingle annuity computed under regulations prescribed by the Director, equal to the sum of—
 
 &emsp;(A) the amount of the phased retirement annuity as of the date of full retirement, including any adjustments made under section 8462; and
 

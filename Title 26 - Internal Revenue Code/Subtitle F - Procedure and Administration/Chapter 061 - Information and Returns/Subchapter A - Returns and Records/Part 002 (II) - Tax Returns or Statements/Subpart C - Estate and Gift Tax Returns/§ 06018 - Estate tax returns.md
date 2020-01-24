@@ -82,7 +82,7 @@ Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 301(a) of Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
+Amendment by section 301(a) of Pub. L. 111–312 applicable to estates of decedents dying, and transfers madeafter Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
 
 Amendment by section 303(b)(3) of Pub. L. 111–312 applicable to estates of decedents dying and gifts made after Dec. 31, 2010, see section 303(c)(1) of Pub. L. 111–312, set out as a note under section 2010 of this title.
 

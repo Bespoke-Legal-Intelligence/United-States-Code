@@ -6,7 +6,7 @@ The Under Secretary for Science and Technology, acting through the Director of t
 
 &emsp;(1) the ability of emergency response providers and relevant government officials to continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters; and
 
-&emsp;(2) interoperable emergency communications capabilities among emergency responseproviders and relevant government officials, including by—
+&emsp;(2) interoperable emergency communications capabilities among emergency response providers and relevant government officials, including by—
 
 &emsp;&emsp;(A) supporting research on a competitive basis, including through the Directorate of Science and Technology and Homeland Security Advanced Research Projects Agency; and
 

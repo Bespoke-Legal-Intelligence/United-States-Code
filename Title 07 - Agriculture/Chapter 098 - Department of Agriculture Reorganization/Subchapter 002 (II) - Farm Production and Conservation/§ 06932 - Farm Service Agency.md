@@ -64,7 +64,7 @@ In carrying out the programs specified in subsection (b)(4), the Secretary shall
 
 #### (f) Collocation
 
-To the maximum extent practicable, the Secretary shall collocate county offices of the Farm Service Agency with county offices of the Natural Resources Conservation Service in order to—
+To the maximum extent practicable, the Secretary shall collocate county offices of the FarmService Agency with county offices of the Natural Resources Conservation Service in order to—
 
 &emsp;(1) maximize savings from shared equipment, office space, and administrative support;
 

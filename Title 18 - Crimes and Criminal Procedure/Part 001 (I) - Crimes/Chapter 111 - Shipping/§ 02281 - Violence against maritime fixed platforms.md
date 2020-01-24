@@ -34,7 +34,7 @@ Jurisdiction.—There is jurisdiction over the activity prohibited in subsection
 
 &emsp;&emsp;(A) that is located on the continental shelf of the United States;
 
-&emsp;&emsp;(B) that is located on the continental shelf of another country, by a national of the United States or by a stateless person whose habitual residence is in the United States; or
+&emsp;&emsp;(B) that is located on the continental shelf of another country, by a national of theUnited States or by a stateless person whose habitual residence is in the United States; or
 
 &emsp;&emsp;(C) in an attempt to compel the United States to do or abstain from doing any act;
 

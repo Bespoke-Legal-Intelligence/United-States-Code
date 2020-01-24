@@ -22,7 +22,7 @@ As used in this subchapter—
 
 (10) "Secretary" means the Secretary of Housing and Urban Development.
 
-(Pub. L. 89–754, title II, §208, Nov. 3, 1966, 80 Stat. 1265; Pub. L. 90–448, title VI, §602(e), Aug. 1, 1968, 82 Stat. 532; Pub. L. 91–258, title I, §52(b)(3), May 21, 1970, 84 Stat. 235; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105Stat. 2088; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(6)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312; Pub. L. 113–287, §5(k)(2), Dec. 19, 2014, 128 Stat. 3269.)
+(Pub. L. 89–754, title II, §208, Nov. 3, 1966, 80 Stat. 1265; Pub. L. 90–448, title VI, §602(e), Aug. 1, 1968, 82 Stat. 532; Pub. L. 91–258, title I, §52(b)(3), May 21, 1970, 84 Stat. 235; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(6)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312; Pub. L. 113–287, §5(k)(2), Dec. 19, 2014, 128 Stat. 3269.)
 
 #### References in Text
 

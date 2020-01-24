@@ -20,7 +20,7 @@ The Congress finds that—
 
 #### (2) Scrambling and encryption
 
-&emsp;In issuing the regulations referred to in paragraph (1), the Commission shall determine whether and, if so, under what circumstances to permit cable systems to scramble or encrypt signals or to restrict cable systems in the manner in which they encrypt or scramblesignals, except that the Commission shall not limit the use of scrambling or encryption technology where the use of such technology does not interfere with the functions of subscribers' television receivers or video cassette recorders.
+&emsp;In issuing the regulations referred to in paragraph (1), the Commission shall determine whether and, if so, under what circumstances to permit cable systems to scramble or encrypt signals or to restrict cable systems in the manner in which they encrypt or scramble signals, except that the Commission shall not limit the use of scrambling or encryption technology where the use of such technology does not interfere with the functions of subscribers' television receivers or video cassette recorders.
 
 #### (c) Rulemaking requirements
 
@@ -72,7 +72,7 @@ The Congress finds that—
 
 #### (d) Review of regulations
 
-The Commission shall periodically review and, if necessary, modify the regulations issued pursuant to this section in light of any actions taken in response to such regulations and to reflect improvements and changes in cable systems, television receivers, video cassette recorders, and similar technology.
+The Commission shall periodically review and, if necessary, modify the regulations issued pursuant to this section in light of any actionstaken in response to such regulations and to reflect improvements and changes in cable systems, television receivers, video cassette recorders, and similar technology.
 
 (June 19, 1934, ch. 652, title VI, §624A, as added Pub. L. 102–385, §17, Oct. 5, 1992, 106 Stat. 1491; amended Pub. L. 104–104, title III, §301(f), Feb. 8, 1996, 110 Stat. 116; Pub. L. 115–141, div. P, title IV, §402(i)(10), Mar. 23, 2018, 132 Stat. 1090.)
 

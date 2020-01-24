@@ -18,7 +18,7 @@ In furtherance of sections 426 to 426j of this title, the boundary of Stones Riv
 
 (C) This paragraph applies only to owners who have reached the age of majority.
 
-(D) As used in this paragraph, the term "improved property" means a detached, year-round noncommercial residential dwelling, the construction of which was begun before December 11, 1991, together with so much of the land onwhich the dwelling is situated, such land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+(D) As used in this paragraph, the term "improved property" means a detached, year-round noncommercial residential dwelling, the construction of which was begun before December 11, 1991, together with so much of the land on which the dwelling is situated, such land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 (Pub. L. 100–205, §1, Dec. 23, 1987, 101 Stat. 1433; Pub. L. 102–225, §1(1), (2), Dec. 11, 1991, 105 Stat. 1682; Pub. L. 103–437, §6(d)(15), Nov. 2, 1994, 108 Stat. 4584.)
 

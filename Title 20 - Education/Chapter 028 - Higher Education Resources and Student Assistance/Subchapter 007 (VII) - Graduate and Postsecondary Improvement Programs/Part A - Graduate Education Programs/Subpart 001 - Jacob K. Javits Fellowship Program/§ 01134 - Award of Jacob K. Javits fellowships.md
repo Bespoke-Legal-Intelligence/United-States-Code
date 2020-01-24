@@ -40,5 +40,5 @@ Another prior section 701 of Pub. L. 89–329 was classified to section 1132a of
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–315 inserted at end "In the case of other exceptional circumstances, such asactive duty military service or personal or family member illness, the institution of higher education may also permit the fellowship recipient to interrupt periods of study for the duration of the tour of duty (in the case of military service) or for not more than 12 months (in any other case), but without payment of the stipend."
+<b>2008</b>—Subsec. (c). Pub. L. 110–315 inserted at end "In the case of other exceptional circumstances, such as active duty military service or personal or family member illness, the institution of higher education may also permit the fellowship recipient to interrupt periods of study for the duration of the tour of duty (in the case of military service) or for not more than 12 months (in any other case), but without payment of the stipend."
 

@@ -62,7 +62,7 @@ Pub. L. 96–294, title I, part A (§§101–107), §101, June 30, 1980, 94 Stat
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–37, §1, June 1, 1977, 91 Stat. 178, provided: "That this Act \[see Tables for classification\] may becited as the 'Defense Production Act Extension Amendments of 1977'."
+Pub. L. 95–37, §1, June 1, 1977, 91 Stat. 178, provided: "That this Act \[see Tables for classification\] may be cited as the 'Defense Production Act Extension Amendments of 1977'."
 
 #### Short Title of 1975 Amendment
 
@@ -90,7 +90,7 @@ Act July 31, 1951, ch. 275, §1, 65 Stat. 131, provided: "That this Act \[see Ta
 
 #### Delegation of Functions
 
-Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, eff. June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
+Functions of President under this chapter relating to production, conservation, use, control, distribution,and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, eff. June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
 
 For delegation of certain authority of President under this chapter relating to national defense resource preparedness and statement of related policy, see Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16651, set out as a note under section 4553 of this title.
 

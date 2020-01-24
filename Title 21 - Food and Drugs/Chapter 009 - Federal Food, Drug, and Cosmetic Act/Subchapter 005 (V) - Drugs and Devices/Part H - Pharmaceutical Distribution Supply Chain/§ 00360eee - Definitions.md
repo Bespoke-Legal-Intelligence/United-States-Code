@@ -40,7 +40,7 @@ In this part:
 
 #### (6) Exclusive distributor
 
-&emsp;The term "exclusive distributor" means the wholesale distributor that directly purchasedthe product from the manufacturer and is the sole distributor of that manufacturer's product to a subsequent repackager, wholesale distributor, or dispenser.
+&emsp;The term "exclusive distributor" means the wholesale distributor that directly purchased the product from the manufacturer and is the sole distributor of that manufacturer's product to a subsequent repackager, wholesale distributor, or dispenser.
 
 #### (7) Homogeneous case
 
@@ -72,7 +72,7 @@ In this part:
 
 &emsp;The term "manufacturer" means, with respect to a product—
 
-&emsp;&emsp;(A) a person that holds an application approved under section 355 of this title or a license issued under section 262 of title 42 for such product, or if such product is not the subject of an approved application or license, the person who manufactured the product;
+&emsp;&emsp;(A) a person that holds an application approved under section 355 of this title or a license issued under section 262 of title 42 for such product, or if such product is not thesubject of an approved application or license, the person who manufactured the product;
 
 &emsp;&emsp;(B) a co-licensed partner of the person described in subparagraph (A) that obtains the product directly from a person described in this subparagraph or subparagraph (A) or (C); or
 
@@ -220,7 +220,7 @@ In this part:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(gg) a sympathomimetic;
 
-&emsp;&emsp;&emsp;(xiv) the distribution of an intravenous product that, by its formulation, is intended for the replenishment of fluids and electrolytes (such as sodium, chloride, and potassium) or calories (such as dextrose and amino acids);
+&emsp;&emsp;&emsp;(xiv) the distribution of an intravenous product that, by its formulation, is intended for the replenishment of fluids andelectrolytes (such as sodium, chloride, and potassium) or calories (such as dextrose and amino acids);
 
 &emsp;&emsp;&emsp;(xv) the distribution of an intravenous product used to maintain the equilibrium of water and minerals in the body, such as dialysis solutions;
 
@@ -288,7 +288,7 @@ In this part:
 
 #### References in Text
 
-The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in par. (24)(B)(xiii)(II), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§801 et seq.) of this title. For complete classification of this Act to theCode, see Short Title note set out under section 801 of this title and Tables.
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in par. (24)(B)(xiii)(II), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 The Drug Supply Chain Security Act, referred to in par. (27)(A), (B), is Pub. L. 113–54, title II, Nov. 27, 2013, 127 Stat. 599. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 

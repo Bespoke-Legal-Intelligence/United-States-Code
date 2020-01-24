@@ -30,7 +30,7 @@ In this chapter:
 
 #### (5) Agricultural disease emergency
 
-&emsp;The term "agricultural disease emergency" means an incident of agricultural disease that requires prompt action to prevent significant damage to people, plants, or animals.
+&emsp;The term "agricultural disease emergency" means an incident of agricultural disease thatrequires prompt action to prevent significant damage to people, plants, or animals.
 
 #### (6) Agroterrorist act
 

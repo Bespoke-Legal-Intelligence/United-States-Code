@@ -42,7 +42,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;(A) such individuals shall be treated as 1 taxpayer for purposes of paragraphs (1) and (2), and
 
-&emsp;&emsp;(B) unless such individuals elect otherwise, 50 percent of the cost which may be taken into account under subsection (a) for such taxable year (before application of paragraph (3)) shall be allocated to each such individual.
+&emsp;&emsp;(B) unless such individuals elect otherwise, 50 percent of the cost which may be takeninto account under subsection (a) for such taxable year (before application of paragraph (3)) shall be allocated to each such individual.
 
 #### (5) Limitation on cost taken into account for certain passenger vehicles
 
@@ -142,7 +142,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (3) Cost
 
-&emsp;For purposes of this section, the cost of property does not include so much of the basis of such property as is determined by reference to the basis of other property held at any time by the person acquiring such property.
+&emsp;For purposes of this section, the cost of property does not include so much of the basisof such property as is determined by reference to the basis of other property held at any time by the person acquiring such property.
 
 #### (4) Section not to apply to estates and trusts
 
@@ -196,7 +196,7 @@ For purposes of this section, the term "qualified real property" means—
 
 &emsp;&emsp;(D) Security systems.
 
-(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192; Pub. L. 110–185, title I, §102(a), Feb. 13, 2008, 122 Stat. 618; Pub. L. 110–343, div. C, title VII, §711(a), Oct. 3, 2008, 122 Stat. 3928; Pub. L. 111–5, div. B, title I, §1202(a), Feb. 17, 2009, 123 Stat. 335; Pub. L. 111–147, title II, §201(a), Mar. 18, 2010, 124 Stat. 77; Pub. L. 111–240, title II, §2021(a)–(d), Sept. 27, 2010, 124 Stat. 2556, 2558; Pub. L. 111–312, title IV, §402(a)–(e), title VII, §737(b)(3), Dec. 17, 2010, 124 Stat. 3306, 3307, 3318; Pub. L. 112–240, title III, §315(a)–(d), Jan. 2, 2013, 126 Stat. 2330,2331; Pub. L. 113–295, div. A, title I, §127(a)–(d), Dec. 19, 2014, 128 Stat. 4017; Pub. L. 114–113, div. Q, title I, §124(a)–(f), Dec. 18, 2015, 129 Stat. 3053; Pub. L. 115–97, title I, §§11002(d)(1)(R), 13101(a)–(c), Dec. 22, 2017, 131 Stat. 2060, 2101, 2102; Pub. L. 115–141, div. U, title IV, §401(b)(15)(A), (B), Mar. 23, 2018, 132 Stat. 1202.)
+(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192; Pub. L. 110–185, title I, §102(a), Feb. 13, 2008, 122 Stat. 618; Pub. L. 110–343, div. C, title VII, §711(a), Oct. 3, 2008, 122 Stat. 3928; Pub. L. 111–5, div. B, title I, §1202(a), Feb. 17, 2009, 123 Stat. 335; Pub. L. 111–147, title II, §201(a), Mar. 18, 2010, 124 Stat. 77; Pub. L. 111–240, title II, §2021(a)–(d), Sept. 27, 2010, 124 Stat. 2556, 2558; Pub. L. 111–312, title IV, §402(a)–(e), title VII, §737(b)(3), Dec. 17, 2010, 124 Stat. 3306, 3307, 3318; Pub. L. 112–240, title III, §315(a)–(d), Jan. 2, 2013, 126 Stat. 2330, 2331; Pub. L. 113–295, div. A, title I, §127(a)–(d), Dec. 19, 2014, 128 Stat. 4017; Pub. L. 114–113, div. Q, title I, §124(a)–(f), Dec. 18, 2015, 129 Stat. 3053; Pub. L. 115–97, title I, §§11002(d)(1)(R), 13101(a)–(c), Dec. 22, 2017, 131 Stat. 2060, 2101, 2102; Pub. L. 115–141, div. U, title IV, §401(b)(15)(A), (B), Mar. 23, 2018, 132 Stat. 1202.)
 
 #### Amendments
 
@@ -402,7 +402,7 @@ Subsec. (d)(1). Pub. L. 99–514, §202(b), inserted "in the active conduct of".
 
 Subsec. (d)(8). Pub. L. 99–514, §201(d)(3), substituted "Treatment of" for "Dollar limitation in case of" in heading and amended text generally. Prior to amendment, text read as follows: "In the case of a partnership, the dollar limitation contained in subsection (b)(1) shall apply with respect to the partnership and with respect to each partner. A similar rule shall apply in the case of an S corporation and its shareholders."
 
-Subsec. (d)(10). Pub. L. 99–514, §202(c), struck out "before the close of the second taxable year following thetaxable year in which it is placed in service by the taxpayer" after "at any time".
+Subsec. (d)(10). Pub. L. 99–514, §202(c), struck out "before the close of the second taxable year following the taxable year in which it is placed in service by the taxpayer" after "at any time".
 
 <b>1984</b>—Subsec. (b)(1). Pub. L. 98–369 amended table by dropping items setting applicable amounts of $0 for 1981 and $5,000 for 1982, substituting an applicable amount of $5,000 for 1983, 1984, 1985, 1986, and 1987 for former table items which had set applicable amounts of $5,000 for 1983, $7,500 for 1984, $7,500 for 1985, and $10,000 for 1986 or thereafter, and added items setting applicable amounts of $7,500 for 1988 or 1989, and $10,000 for 1990 or thereafter.
 
@@ -514,7 +514,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 201(d)(3) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
+Amendment by section 201(d)(3) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986,in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
 Amendment by section 201(d)(3) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 

@@ -114,7 +114,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a State makes significant changes to its plan at any time, such as the adoption of new challenging State academic standards or new academic assessments under subsection (b), or changes to its accountability system under subsection (c), such information shall be submitted to the Secretary in the form of revisions or amendments to the State plan.
+&emsp;&emsp;&emsp;If a State makes significant changes to its plan at any time, such as the adoption of new challenging State academic standards or new academic assessments under subsection (b), or changes to its accountability system under subsection (c), suchinformation shall be submitted to the Secretary in the form of revisions or amendments to the State plan.
 
 #### (ii) Review of revised plans
 
@@ -260,7 +260,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) be administered through multiple statewide interim assessments during the course of the academic year that result in a single summative score that provides valid, reliable, and transparent information on student achievement or growth;
 
-&emsp;&emsp;&emsp;(ix) notwithstanding clause (vii)(III), provide for assessments (using tests in English) of reading or language arts of any student who has attended school in the United States (not including the Commonwealth of Puerto Rico) for 3 or more consecutive school years, except that if the local educational agency determines, on a case-by-case individual basis, that academic assessments in another language or form would likely yield more accurate and reliable information on what such student knows and can do, the local educational agency may make a determination to assess such student in the appropriate language other than English for a period that does not exceed 2 additional consecutive years, provided that such student has not yet reached a level of English language proficiency sufficient to yield valid and reliable information on what such student knows and can do on tests (written in English) of reading or language arts;
+&emsp;&emsp;&emsp;(ix) notwithstanding clause (vii)(III), provide for assessments (using tests in English) of reading or language arts of any student who has attended school in theUnited States (not including the Commonwealth of Puerto Rico) for 3 or more consecutive school years, except that if the local educational agency determines, on a case-by-case individual basis, that academic assessments in another language or form would likely yield more accurate and reliable information on what such student knows and can do, the local educational agency may make a determination to assess such student in the appropriate language other than English for a period that does not exceed 2 additional consecutive years, provided that such student has not yet reached a level of English language proficiency sufficient to yield valid and reliable information on what such student knows and can do on tests (written in English) of reading or language arts;
 
 &emsp;&emsp;&emsp;(x) produce individual student interpretive, descriptive, and diagnostic reports, consistent with clause (iii), regarding achievement on such assessments that allow parents, teachers, principals, and other school leaders to understand and address the specific academic needs of students, and that are provided to parents, teachers, and school leaders, as soon as is practicable after the assessment is given, in an understandable and uniform format, and to the extent practicable, in a language that parents can understand;
 
@@ -326,7 +326,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) participating in academic instruction and assessments for the grade level in which the student is enrolled; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) who are tested based on challenging State academic standards forthe grade level in which the student is enrolled; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) who are tested based on challenging State academic standards for the grade level in which the student is enrolled; and
 
 &emsp;&emsp;&emsp;&emsp;(VII) does not preclude a student with the most significant cognitive disabilities who takes an alternate assessment based on alternate academic achievement standards from attempting to complete the requirements for a regular high school diploma.
 
@@ -452,7 +452,7 @@
 
 &emsp;&emsp;&emsp;In developing and administering computer adaptive assessments—
 
-&emsp;&emsp;&emsp;&emsp;(I) as the assessments allowed under subparagraph (D), a State shall ensurethat such computer adaptive assessments—
+&emsp;&emsp;&emsp;&emsp;(I) as the assessments allowed under subparagraph (D), a State shall ensure that such computer adaptive assessments—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) meet the requirements of this paragraph, including subparagraph (D), except such assessments shall not be required to meet the requirements of clause (i)(II); and
 
@@ -530,7 +530,7 @@
 
 #### (4) Description of system
 
-&emsp;The statewide accountability system described in paragraph (1) shall be based on the challenging State academic standards for reading or language arts and mathematics described in subsection (b)(1) to improve studentacademic achievement and school success. In designing such system to meet the requirements of this part, the State shall carry out the following:
+&emsp;The statewide accountability system described in paragraph (1) shall be based on the challenging State academic standards for reading or language arts and mathematics described in subsection (b)(1) to improve student academic achievement and school success. In designing such system to meet the requirements of this part, the State shall carry out the following:
 
 #### (A) Establishment of long-term goals
 
@@ -680,7 +680,7 @@
 
 &emsp;&emsp;&emsp;(iii) is based on a school-level needs assessment;
 
-&emsp;&emsp;&emsp;(iv) identifies resource inequities, which may include a review of local educational agency and school-level budgeting, to be addressed through implementation of such comprehensive support and improvement plan;
+&emsp;&emsp;&emsp;(iv) identifies resource inequities, which may include a review of local educationalagency and school-level budgeting, to be addressed through implementation of such comprehensive support and improvement plan;
 
 &emsp;&emsp;&emsp;(v) is approved by the school, local educational agency, and State educational agency; and
 
@@ -690,7 +690,7 @@
 
 &emsp;&emsp;With respect to any high school in the State identified under subsection (c)(4)(D)(i)(II), the State educational agency may—
 
-&emsp;&emsp;&emsp;(i) permit differentiated improvement activities that utilize evidence-basedinterventions in the case of such a school that predominantly serves students—
+&emsp;&emsp;&emsp;(i) permit differentiated improvement activities that utilize evidence-based interventions in the case of such a school that predominantly serves students—
 
 &emsp;&emsp;&emsp;&emsp;(I) returning to education after having exited secondary school without a regular high school diploma; or
 
@@ -750,7 +750,7 @@
 
 #### (D) Special rule
 
-&emsp;&emsp;The State educational agency, based on the State's differentiation of schools under subsection (c)(4)(C) for school year 2017–2018, shall notify local educational agencies of any schools served by the local educational agency in which any subgroup of students, on its own, would lead to identification under subsection (c)(4)(D)(i)(I) using the State's methodology under subsection (c)(4)(D), after which notification of such schools under this paragraph shall result from differentiation of schools pursuant to subsection (c)(4)(C)(iii).
+&emsp;&emsp;The State educational agency, based on the State's differentiation of schools under subsection (c)(4)(C) for school year 2017–2018, shall notify local educational agencies ofany schools served by the local educational agency in which any subgroup of students, on its own, would lead to identification under subsection (c)(4)(D)(i)(I) using the State's methodology under subsection (c)(4)(D), after which notification of such schools under this paragraph shall result from differentiation of schools pursuant to subsection (c)(4)(C)(iii).
 
 #### (3) Continued support for school and local educational agency improvement
 
@@ -880,7 +880,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;&emsp;(ii) when a determination is made that it is not in such child's best interest to remain in the school of origin, the child is immediately enrolled in a new school, even if the child is unable to produce records normally required for enrollment;
 
-&emsp;&emsp;&emsp;(iii) the enrolling school shall immediately contact the school last attended by any such child to obtain relevant academic and other records; and
+&emsp;&emsp;&emsp;(iii) the enrolling school shall immediately contact the school last attended byany such child to obtain relevant academic and other records; and
 
 &emsp;&emsp;&emsp;(iv) the State educational agency will designate an employee to serve as a point of contact for child welfare agencies and to oversee implementation of the State agency responsibilities required under this subparagraph, and such point of contact shall not be the State's Coordinator for Education of Homeless Children and Youths under section 722(d)(3) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(d)(3));
 
@@ -934,7 +934,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;Nothing in paragraph (2)(N) shall be construed to—
 
-&emsp;&emsp;(A) require groups of students obtained by any entity that cross-tabulates the information provided under such paragraph to be considered subgroups of students, as defined in subsection (c)(2), for the purposes of the State accountability system under subsection (c); or
+&emsp;&emsp;(A) require groups of students obtained by any entity that cross-tabulates the information provided under such paragraph to be considered subgroups of students, as definedin subsection (c)(2), for the purposes of the State accountability system under subsection (c); or
 
 &emsp;&emsp;(B) require or prohibit States or local educational agencies from publicly reporting data in a cross-tabulated manner, in order to meet the requirements of paragraph (2)(N).
 
@@ -944,7 +944,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;(A) meet the requirements of paragraph (2)(N); or
 
-&emsp;&emsp;(B) in the case of a State educational agency choosing, at its sole discretion, to disaggregate data described in clauses (ii) and (iii)(II) of subsection (h)(1)(C) for Asian and Native Hawaiian or Pacific Islander studentsusing the same race response categories as the decennial census of the population, assist such State educational agency in such disaggregation and in using such data to improve academic outcomes for such students.
+&emsp;&emsp;(B) in the case of a State educational agency choosing, at its sole discretion, to disaggregate data described in clauses (ii) and (iii)(II) of subsection (h)(1)(C) for Asian and Native Hawaiian or Pacific Islander students using the same race response categories as the decennial census of the population, assist such State educational agency in such disaggregation and in using such data to improve academic outcomes for such students.
 
 #### (h) Reports
 
@@ -990,7 +990,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;&emsp;&emsp;(VI) the exit criteria established by the State as required under clause (i) of subsection (d)(3)(A), including the length of years established under clause (i)(II) of such subsection.
 
-&emsp;&emsp;&emsp;(ii) For all students and disaggregated by each subgroup of students described in subsection (b)(2)(B)(xi), homeless status, status as a child in foster care, and status as a student with a parent who is a member of the Armed Forces (as defined in section 101(a)(4) of title 10) on active duty (as defined in section 101(d)(5) <sup>8</sup> of such title), information on student achievement on the academic assessments described in subsection (b)(2) at each level of achievement, as determined by the State under subsection (b)(1).
+&emsp;&emsp;&emsp;(ii) For all students and disaggregated by each subgroup of students described in subsection (b)(2)(B)(xi), homeless status, status as a child in foster care, and status as a student with a parent who is a member of the Armed Forces (as defined in section 101(a)(4) of title 10), information on student achievement on the academic assessments described in subsection (b)(2) at each level of achievement, as determined by the State under subsection (b)(1).
 
 &emsp;&emsp;&emsp;(iii) For all students and disaggregated by each of the subgroups of students, as defined in subsection (c)(2), and for purposes of subclause (II) of this clause, homeless status and status as a child in foster care—
 
@@ -1000,7 +1000,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;&emsp;(iv) Information on the number and percentage of English learners achieving English language proficiency.
 
-&emsp;&emsp;&emsp;(v) For all students and disaggregated by each of the subgroups of students, as defined in subsection (c)(2), information on the performance on the other indicator or indicators of school quality or student success under subsection (c)(4)(B)(v) used by the State in the State accountability system.
+&emsp;&emsp;&emsp;(v) For all students and disaggregated by each of the subgroups of students, as defined in subsection (c)(2), information on the performance on the other indicator or indicators of school quality or student success under subsection (c)(4)(B)(v) used bythe State in the State accountability system.
 
 &emsp;&emsp;&emsp;(vi) Information on the progress of all students and each subgroup of students, as defined in subsection (c)(2), toward meeting the State-designed long term goals under subsection (c)(4)(A), including the progress of all students and each such subgroup of students against the State measurements of interim progress established under such subsection.
 
@@ -1036,7 +1036,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;&emsp;&emsp;(II) if data are available and to the extent practicable, in programs of private postsecondary education in the State or programs of postsecondary education outside the State.
 
-&emsp;&emsp;&emsp;(xiv) Any additional information that the State believes will best provide parents, students, and other members of the public with information regarding the progress of each of the State's public elementary schools and secondary schools, which may include the number and percentage of students attaining career and technical proficiencies ( <sup>9</sup> as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2323(b)) and reported by States only in a manner consistent with section 113(c) of such Act (20 U.S.C. 2323(c)).
+&emsp;&emsp;&emsp;(xiv) Any additional information that the State believes will best provide parents, students, and other members of the public with information regarding the progress of each of the State's public elementary schools and secondary schools, which may include the number and percentage of students meeting State determined levels of performance for core indicators, as defined by section 113(b)(3)(A) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2323(b)(3)(A)), and reported by States only in a manner consistent with section 113(b)(3)(C) of such Act (20 U.S.C. 2323(b)(3)(C)).
 
 #### (D) Rules of construction
 
@@ -1138,7 +1138,7 @@ A State retains the right to enter into a voluntary partnership with another Sta
 
 #### (k) Special rule with respect to Bureau-funded schools
 
-In determining the assessments to be used by each school operated or funded by the Bureau of Indian Education receiving funds under this part, the following shall apply until the requirements of section 7824(c) of this title have been met:
+In determining the assessments to be used by each school operated or funded by the Bureau ofIndian Education receiving funds under this part, the following shall apply until the requirements of section 7824(c) of this title have been met:
 
 &emsp;(1) Each such school that is accredited by the State in which it is operating shall use the assessments and other academic indicators the State has developed and implemented to meet the requirements of this section, or such other appropriate assessment and academic indicators as approved by the Secretary of the Interior.
 
@@ -1150,11 +1150,7 @@ In determining the assessments to be used by each school operated or funded by t
 
 Nothing in this part shall be construed to prescribe the use of the academic assessments described in this part for student promotion or graduation purposes.
 
-(Pub. L. 89–10, title I, §1111, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1444; amended Pub. L. 107–279, title IV, §404(d)(1), Nov. 5, 2002, 116 Stat. 1985; Pub. L. 108–446, title III, §305(g)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 109–270, §2(f)(1), Aug. 12, 2006, 120 Stat. 747; Pub. L. 114–95, title I, §1005, Dec. 10, 2015, 129 Stat. 1820; Pub. L. 115–224, title III, §302(1), July 31, 2018, 132 Stat. 1623.)
-
-#### Amendment of Subsection (h)(1)(C)(xiv)
-
-<i>Pub. L. 115–224, §4, title III, §302(1), July 31, 2018, 132 Stat. 1564, 1623, provided that, effective July 1, 2019, subsection (h)(1)(C)(xiv) of this section is amended by substituting "meeting State determined levels of performance for core indicators, as defined by section 113(b)(3)(A) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2323(b)(3)(A)), and reported by States only in a manner consistent with section 113(b)(3)(C) of such Act (20 U.S.C. 2323(b)(3)(C))" for "attaining career and technical proficiencies (as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2323(b)) and reported by States only in a manner consistent with section 113(c) of such Act (20 U.S.C. 2323(c))". See 2018 Amendment note below.</i>
+(Pub. L. 89–10, title I, §1111, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1444; amended Pub. L. 107–279, title IV, §404(d)(1), Nov. 5, 2002, 116 Stat. 1985; Pub. L. 108–446, title III, §305(g)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 109–270, §2(f)(1), Aug. 12, 2006, 120 Stat. 747; Pub. L. 114–95, title I, §1005, Dec. 10, 2015, 129 Stat. 1820; Pub. L. 115–224, title III, §302(1), July 31, 2018, 132 Stat. 1623; Pub. L. 116–92, div. A, title V, §579, Dec. 20, 2019, 133 Stat. 1407.)
 
 #### References in Text
 
@@ -1182,7 +1178,7 @@ The Adult Education and Family Literacy Act, referred to in subsec. (a)(1)(B), i
 
 Public Law 93–112, referred to in subsec. (b)(1)(E)(i)(V), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, known as the Rehabilitation Act of 1973, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. July 22, 2014, refers to the date of enactment of title IV (§401 et seq.) of Pub. L. 113–128, 128 Stat. 1631, which amended numerous sections in the Act. For complete classification of Pub. L. 93–112 to the Code, see Short Title note set out under section 701 of Title 29 and Tables. For complete classification of title IV of Pub. L. 113–128 to the Code, see Tables.
 
-The Social Security Act, referred to in subsec. (g)(1)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, ThePublic Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (g)(1)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -1191,6 +1187,8 @@ A prior section 6311, Pub. L. 89–10, title I, §1111, as added Pub. L. 103–3
 A prior section 1111 of Pub. L. 89–10 was classified to section 2768 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (h)(1)(C)(ii). Pub. L. 116–92 struck out "on active duty (as defined in section 101(d)(5) of such title)" after "section 101(a)(4) of title 10)".
 
 <b>2018</b>—Subsec. (h)(1)(C)(xiv). Pub. L. 115–224 substituted "meeting State determined levels of performance for core indicators, as defined by section 113(b)(3)(A) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2323(b)(3)(A)), and reported by States only in a manner consistent with section 113(b)(3)(C) of such Act (20 U.S.C. 2323(b)(3)(C))" for "attaining career and technical proficiencies (as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2323(b)) and reported by States only in a manner consistent with section 113(c) of such Act (20 U.S.C. 2323(c))".
 
@@ -1201,6 +1199,10 @@ A prior section 1111 of Pub. L. 89–10 was classified to section 2768 of this t
 <b>2004</b>—Subsec. (b)(2)(I)(ii). Pub. L. 108–446 substituted "section 612(a)(16)(A)" for "section 612(a)(17)(A)".
 
 <b>2002</b>—Subsec. (c)(2). Pub. L. 107–279 substituted "section 9622(b)(2) of this title" for "section 9010(b)(2) of this title".
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 
@@ -1223,8 +1225,4 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, with separate effective d
 <i><sup>6</sup></i><i> So in original. Designations (III) to (VIII) probably should be (aa) to (ff), respectively.</i>
 
 <i><sup>7</sup></i><i> So in original. The word "of" probably should not appear.</i>
-
-<i><sup>8</sup></i><i> So in original. Probably should be "101(d)(1)".</i>
-
-<i><sup>9</sup></i><i> So in original. There is no corresponding closing parenthesis.</i>
 

@@ -12,7 +12,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 #### (2) Consultation on grants
 
-&emsp;To ensure input from and coordination with State, local, and tribal governments and emergency response providers, the Administrator shall regularly consult and work with the National Advisory Council on the administration and assessment of grant programs administered by the Department, including with respect to the development of program guidance and the development and evaluation of risk-assessment methodologies, as appropriate.
+&emsp;To ensure input from and coordination with State, local, and tribal governments and emergency response providers, the Administratorshall regularly consult and work with the National Advisory Council on the administration and assessment of grant programs administered by the Department, including with respect to the development of program guidance and the development and evaluation of risk-assessment methodologies, as appropriate.
 
 #### (c) Membership
 
@@ -90,7 +90,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 &emsp;&emsp;&emsp;(i) Members of the National Advisory Council that have the requisite technical knowledge and expertise to address rail emergency response issues, including members from the following disciplines:
 
-&emsp;&emsp;&emsp;&emsp;(I) Emergency management and emergency response providers, including fireservice, law enforcement, hazardous materials response, and emergency medical services.
+&emsp;&emsp;&emsp;&emsp;(I) Emergency management and emergency response providers, including fire service, law enforcement, hazardous materials response, and emergency medical services.
 
 &emsp;&emsp;&emsp;&emsp;(II) State, local, and tribal government officials.
 
@@ -182,7 +182,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 #### (B) Review
 
-&emsp;&emsp;Not later than 30 days after receiving the report under subparagraph (A), the National Advisory Council shall begin a review of the report. The National Advisory Council may ask for additional clarification, changes, or other information from the RESPONSE Subcommittee to assist in the approval of the recommendations.
+&emsp;&emsp;Not later than 30 days after receiving the report under subparagraph (A), the NationalAdvisory Council shall begin a review of the report. The National Advisory Council may ask for additional clarification, changes, or other information from the RESPONSE Subcommittee to assist in the approval of the recommendations.
 
 #### (C) Recommendation
 

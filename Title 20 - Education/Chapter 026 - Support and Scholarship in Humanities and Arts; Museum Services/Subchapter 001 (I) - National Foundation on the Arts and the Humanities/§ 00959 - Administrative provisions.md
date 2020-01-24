@@ -28,7 +28,7 @@ In addition to any authorities vested in them by other provisions of this subcha
 
 (3) For the purposes of the preceding sentence, if one or more of the purposes of such a condition or restriction is covered by the functions of both Endowments, or if some of the purposes of such a condition or restriction are covered by the functions of one Endowment and other of the purposes of such a condition or restriction are covered by the functions of the other Endowment, the Federal Council on the Arts and the Humanities shall determine an equitable manner for distribution between each of the Endowments of the property so donated, bequeathed, or devised.
 
-(4) For the purposes of the income tax, gift tax, and estate tax laws of the United States, any money or other property donated, bequeathed, or devised to the Foundation or one of its Endowments and received by the Chairperson of an Endowment pursuant to authority derived under this subsection shall be deemed to have been donated, bequeathed, or devised to or for the use of the United States.
+(4) For the purposes of the income tax, gift tax, and estate tax laws of the United States, any money or other property donated, bequeathed, or devised to the Foundation or one of its Endowments and received by the Chairpersonof an Endowment pursuant to authority derived under this subsection shall be deemed to have been donated, bequeathed, or devised to or for the use of the United States.
 
 #### (c) Advisory panels; membership; procedures
 

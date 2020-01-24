@@ -70,7 +70,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 &emsp;&emsp;(II) benefit payments under the plan may be suspended under section 1426 or 1441 of this title.
 
-&emsp;(F) A matching contribution (within the meaning of section 401(m) of title 26) shall not be treated as forfeitable merely because such contribution is forfeitable if the contributionto which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B) of title 26, an excess deferral under section 402(g)(2)(A) of title 26, an erroneous automatic contribution under section 414(w) of title 26, or an excess aggregate contribution under section 401(m)(6)(B) of title 26.
+&emsp;(F) A matching contribution (within the meaning of section 401(m) of title 26) shall not be treated as forfeitable merely because such contribution is forfeitable if the contribution to which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B) of title 26, an excess deferral under section 402(g)(2)(A) of title 26, an erroneous automatic contribution under section 414(w) of title 26, or an excess aggregate contribution under section 401(m)(6)(B) of title 26.
 
 #### (b) Computation of period of service
 
@@ -140,7 +140,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 &emsp;(II) in any case in which the plan is unable to determine the hours described in subclause (I), 8 hours of service per day of absence,
 
-> except that the total number of hours treated as hours of service under this clause by reason ofsuch pregnancy or placement shall not exceed 501 hours.
+> except that the total number of hours treated as hours of service under this clause by reason of such pregnancy or placement shall not exceed 501 hours.
 
 (iii) The hours described in clause (ii) shall be treated as hours of service as provided in this subparagraph—
 
@@ -176,7 +176,7 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 
 #### (e) Consent for distribution; present value; covered distributions
 
-(1) If the present value of any nonforfeitable benefit with respect to a participant in a plan exceeds $5,000, the plan shall provide that such benefit may not be immediately distributed without the consent of the participant.
+(1) If the present value of any nonforfeitable benefit with respect to a participant in a plan exceeds $5,000, the plan shall provide that suchbenefit may not be immediately distributed without the consent of the participant.
 
 (2) For purposes of paragraph (1), the present value shall be calculated in accordance with section 1055(g)(3) of this title.
 
@@ -212,7 +212,7 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 
 &emsp;&emsp;The Secretary of the Treasury shall issue regulations which include in the definition of an applicable defined benefit plan any defined benefit plan (or any portion of such a plan) which has an effect similar to an applicable defined benefit plan.
 
-(Pub. L. 93–406, title I, §203, Sept. 2, 1974, 88 Stat. 854; Pub. L. 96–364, title III, §303, Sept. 26, 1980,94 Stat. 1292; Pub. L. 98–397, title I, §§102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, 98 Stat. 1426–1428, 1436; Pub. L. 99–514, title XI, §§1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, §1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, 100 Stat. 2447, 2448, 2487, 2942, 2944, 2955; Pub. L. 101–239, title VII, §§7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, 103 Stat. 2430, 2434, 2445, 2449; Pub. L. 103–465, title VII, §767(c)(1), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1442(b), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§633(b), 648(a)(2), June 7, 2001, 115 Stat. 116, 127; Pub. L. 108–311, title IV, §408(b)(8), Oct. 4, 2004, 118 Stat. 1193; Pub. L. 109–280, title I, §108(a)(4), formerly §107(a)(4), title VII, §701(a)(2), title IX, §§902(d)(2)(E), 904(b), Aug. 17, 2006, 120 Stat. 819, 984, 1038, 1049, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(1), Dec. 23, 2008, 122 Stat. 5107.)
+(Pub. L. 93–406, title I, §203, Sept. 2, 1974, 88 Stat. 854; Pub. L. 96–364, title III, §303, Sept. 26, 1980, 94 Stat. 1292; Pub. L. 98–397, title I, §§102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, 98 Stat. 1426–1428, 1436; Pub. L. 99–514, title XI, §§1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, §1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, 100 Stat. 2447, 2448, 2487, 2942, 2944, 2955; Pub. L. 101–239, title VII, §§7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, 103 Stat. 2430, 2434, 2445, 2449; Pub. L. 103–465, title VII, §767(c)(1), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1442(b), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§633(b), 648(a)(2), June 7, 2001, 115 Stat. 116, 127; Pub. L. 108–311, title IV, §408(b)(8), Oct. 4, 2004, 118 Stat. 1193; Pub. L. 109–280, title I, §108(a)(4), formerly §107(a)(4), title VII, §701(a)(2), title IX, §§902(d)(2)(E), 904(b), Aug. 17, 2006, 120 Stat. 819, 984, 1038, 1049, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(1), Dec. 23, 2008, 122 Stat. 5107.)
 
 #### References in Text
 
@@ -288,7 +288,7 @@ Subsec. (e)(2). Pub. L. 101–239, §7891(b)(1), (2), realigned margins of subpa
 
 Subsec. (e)(3). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §1113(e)(1), amended par. (2) generally, substituting provisions covering 5-year vesting, 3- to 7-year vesting, and multiemployer plans, for former provisions which covered 10-year vesting, 5- to 15-year vesting, and the "rule of 45" under which a plan satisfied the requirements of this paragraph if an employee who had completed at least 5 years of service and with respect to whom the sum ofhis age and years of service equalled or exceeded 45 had a right to a percentage of his accrued benefits derived from employer contributions.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §1113(e)(1), amended par. (2) generally, substituting provisions covering 5-year vesting, 3- to 7-year vesting, and multiemployer plans, for former provisions which covered 10-year vesting, 5- to 15-year vesting, and the "rule of 45" under which a plan satisfied the requirements of this paragraph if an employee who had completed at least 5 years of service and with respect to whom the sum of his age and years of service equalled or exceeded 45 had a right to a percentage of his accrued benefits derived from employer contributions.
 
 Subsec. (a)(3)(D)(ii). Pub. L. 99–514, §1898(a)(4)(B)(i), inserted last sentence and struck out former last sentence which read as follows: "In the case of a defined contribution plan the plan provision required under this clause may provide that such repayment must be made before the participant has any 1-year break in service commencing after the withdrawal."
 
@@ -384,7 +384,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractorplans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Plan Amendments Not Required Until January 1, 1998
 

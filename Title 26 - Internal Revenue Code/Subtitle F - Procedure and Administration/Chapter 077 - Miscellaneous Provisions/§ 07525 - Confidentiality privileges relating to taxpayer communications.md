@@ -48,7 +48,7 @@ The privilege under subsection (a) shall not apply to any written communication 
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §813(b), Oct. 22, 2004, 118 Stat. 1581, provided that: "The amendment made bythis section \[amending this section\] shall apply to communications made on or after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §813(b), Oct. 22, 2004, 118 Stat. 1581, provided that: "The amendment made by this section \[amending this section\] shall apply to communications made on or after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date
 

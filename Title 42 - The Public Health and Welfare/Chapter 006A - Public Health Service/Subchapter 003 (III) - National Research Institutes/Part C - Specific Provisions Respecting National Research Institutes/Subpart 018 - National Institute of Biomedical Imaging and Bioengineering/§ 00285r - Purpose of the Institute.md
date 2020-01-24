@@ -44,7 +44,7 @@ The establishment under section 284a of this title of an advisory council for th
 
 &emsp;&emsp;(A) six members shall be scientists, engineers, physicians, and other health professionals who represent disciplines in biomedical imaging and bioengineering and who are not officers or employees of the United States; and
 
-&emsp;&emsp;(B) six members shall be scientists, engineers, physicians, and other health professionals who represent other disciplines and are knowledgeable about the applications of biomedical imaging and bioengineering in medicine, and who are not officers or employees of the United States.
+&emsp;&emsp;(B) six members shall be scientists, engineers, physicians, and other health professionals who represent other disciplines and are knowledgeable about the applications of biomedical imaging and bioengineering inmedicine, and who are not officers or employees of the United States.
 
 &emsp;(3) In addition to the ex officio members specified in section 284a(b)(2) of this title, the ex officio members of the advisory council shall include the Director of the Centers for Disease Control and Prevention, the Director of the National Science Foundation, and the Director of the National Institute of Standards and Technology (or the designees of such officers).
 
@@ -80,7 +80,7 @@ Pub. L. 106–580, §2, Dec. 29, 2000, 114 Stat. 3088, provided that: "The Congr
 
 &emsp;"(7) At a time when a consensus exists to add significant resources to the NIH in coming years, it is appropriate to modernize the structure of the NIH to ensure that research dollars are expended more effectively and efficiently and that the fields of medical science that have contributed the most to the detection, diagnosis, and treatment of disease in recent years receive appropriate emphasis.
 
-&emsp;"(8) The establishment of a National Institute of Biomedical Imaging and Bioengineering at the NIH would accelerate the development of new technologies with clinical and research applications, improve coordination and efficiency at the NIH and throughout the Federal Government, reduce duplication and waste, lay the foundation for a new medical information age, promote economic development, and provide a structure to train the young researcherswho will make the pathbreaking discoveries of the next century."
+&emsp;"(8) The establishment of a National Institute of Biomedical Imaging and Bioengineering at the NIH would accelerate the development of new technologies with clinical and research applications, improve coordination and efficiency at the NIH and throughout the Federal Government, reduce duplication and waste, lay the foundation for a new medical information age, promote economic development, and provide a structure to train the young researchers who will make the pathbreaking discoveries of the next century."
 
 #### Establishment of Institute and Advisory Council
 

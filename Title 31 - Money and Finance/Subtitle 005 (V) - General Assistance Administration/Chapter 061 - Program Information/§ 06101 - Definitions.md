@@ -140,7 +140,7 @@ Pub. L. 113–101, §2, May 9, 2014, 128 Stat. 1146, provided that: "The purpose
 
 &emsp;"(1) expand the Federal Funding Accountability and Transparency Act of 2006 \[Pub. L. 109–282\] (31 U.S.C. 6101 note) by disclosing direct Federal agency expenditures and linking Federal contract, loan, and grant spending information to programs of Federal agencies to enable taxpayers and policy makers to track Federal spending more effectively;
 
-&emsp;"(2) establish Government-wide data standards for financial data and provide consistent, reliable, and searchable Government-wide spending data that isdisplayed accurately for taxpayers and policy makers on USASpending.gov (or a successor system that displays the data);
+&emsp;"(2) establish Government-wide data standards for financial data and provide consistent, reliable, and searchable Government-wide spending data that is displayed accurately for taxpayers and policy makers on USASpending.gov (or a successor system that displays the data);
 
 &emsp;"(3) simplify reporting for entities receiving Federal funds by streamlining reporting requirements and reducing compliance costs while improving transparency;
 
@@ -164,7 +164,7 @@ Requirements.—Not later than 180 days after the date of the enactment of this 
 
 &emsp;&emsp;"(C) for the United States Agency for International Development.
 
-&emsp;"(2) A suspension and debarment official under paragraph (1) may not report to or be subject to the supervision of the acquisition office or the Inspector General—
+&emsp;"(2) A suspension and debarment official under paragraph (1) may not report to or be subject to thesupervision of the acquisition office or the Inspector General—
 
 &emsp;&emsp;"(A) in the case of the Department of Defense, of either the Department of Defense or the military department or Defense Agency concerned; and
 
@@ -454,7 +454,7 @@ Report.—
 
 &emsp;"(1)
 
-In general.—The Director shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives an annual report regarding the implementation of the website established under this section.
+In general.—The Director shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives an annual report regarding the implementation of the website established under this section.
 
 &emsp;"(2)
 
@@ -576,7 +576,7 @@ Limitation.—The Director may not grant more than 3 extensions to the Secretary
 
 &emsp;&emsp;&emsp;"(iii)
 
-Notification.—The Director of the Office of Management and Budget shall notify the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate and the Committee on Oversight and Government Reform and the Committee on Armed Services of the House of Representatives of—
+Notification.—The Director of the Office of Management and Budget shall notify the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] and the Committee on Armed Services of the House of Representatives of—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) each grant of an extension under clause (i); and
 
@@ -640,7 +640,7 @@ Termination.—The pilot program shall terminate on the date that is 2 years aft
 
 &emsp;"(6)
 
-Report to congress.—Not later than 90 days after the date on which the pilot program terminates under paragraph (5), the Director shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on the Budget of the Senate and the Committee on Oversight and Government Reform and the Committee on the Budget of the House of Representatives a report on the pilot program, which shall include—
+Report to congress.—Not later than 90 days after the date on which the pilot program terminates under paragraph (5), the Director shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on the Budget of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] and the Committee on the Budget of the House of Representatives a report on the pilot program, which shall include—
 
 &emsp;&emsp;"(A) a description of the data collected under the pilot program, the usefulness of the data provided, and the cost to collect the data from recipients; and
 
@@ -698,7 +698,7 @@ In general.—In accordance with paragraph (2) and after a review of the reports
 
 &emsp;"(2)
 
-Deadlines.—Not later than 30 months after the date on which the Director and the Secretary issue guidance to Federal agencies under section 4(c)(1), and every 2 years thereafter until the date that is 4years after the date on which the first report is submitted under this subsection, the Comptroller General of the United States shall submit and make publically available a report as described in paragraph (1).
+Deadlines.—Not later than 30 months after the date on which the Director and the Secretary issue guidance to Federal agencies under section 4(c)(1), and every 2 years thereafter until the date that is 4 years after the date on which the first report is submitted under this subsection, the Comptroller General of the United States shall submit and make publically available a report as described in paragraph (1).
 
 "(c)
 
@@ -728,7 +728,7 @@ Data availability.—The Secretary shall enter into memoranda of understanding w
 
 &emsp;"(3)
 
-Transfer.—Upon the establishment of a data analysis center or the expansion of a service under paragraph (1), and on or before the date on which the Recovery Accountability and Transparency Board terminates, and in addition to any other transfer that the Director determines is necessary under section 1531 of title 31, United States Code, there are transferred to the Department of the Treasury all assets identified by the Secretary that support the operations and activities of the Recovery Operations Center of the Recovery Accountability and Transparency Board relating to the detection of waste, fraud, and abuse in the use of Federal funds that are in existence on the day before the transfer.
+Transfer.—Upon the establishment of a data analysis center or the expansion of a service under paragraph (1), and on or before the date on which the Recovery Accountability and Transparency Board terminates, and in addition to any other transferthat the Director determines is necessary under section 1531 of title 31, United States Code, there are transferred to the Department of the Treasury all assets identified by the Secretary that support the operations and activities of the Recovery Operations Center of the Recovery Accountability and Transparency Board relating to the detection of waste, fraud, and abuse in the use of Federal funds that are in existence on the day before the transfer.
 
 #### "SEC. 7. CLASSIFIED AND PROTECTED INFORMATION.
 
@@ -762,13 +762,11 @@ Authority To Grant Exception.—The regulations issued pursuant to subsection (a
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'procurement activities' means all acquisition programs and activities of the Federal Government, as defined in the Federal Acquisition Regulation. Such term includes subcontracts at any tier, other than subcontracts for commercially available off-the-shelf items (as defined in section 35(c) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 431(c)) \[now 41 U.S.C. 104\]), except that in the case of a contract for commercial items, such term includes only first-tier subcontracts.
+&emsp;"(1) The term 'procurement activities' means all acquisition programs and activities of the Federal Government, as defined in the Federal Acquisition Regulation. Such term includes subcontracts at any tier, other than subcontracts for commercially available off-the-shelf items (as defined in section 35(c) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 431(c)) \[now 41 U.S.C. 104\]), except that in the case of a contract for commercial products, such term includes only first-tier subcontracts.
 
 &emsp;"(2) The term 'nonprocurement activities' means all programs and activities involving Federal financial and nonfinancial assistance and benefits, as covered by Executive Order No. 12549 and the Office of Management and Budget guidelines implementing that order.
 
 &emsp;"(3) The term 'agency' means an Executive agency as defined in section 103 of title 5, United States Code."
-
-<i>\[Pub. L. 115–232, div. A, title VIII, §836(g)(4), (h), Aug. 13, 2018, 132 Stat. 1873, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 2455(c)(1) of Pub. L. 103–355, set out above, is amended by striking "commercial items" and inserting "commercial products".\]</i>
 
 #### Transfer of Personnel, Property, Records, and Appropriations
 
@@ -780,7 +778,7 @@ Ex. Ord. No. 12549, Feb. 18, 1986, 51 F.R. 6370, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to curb fraud, waste, and abuse in Federal programs, increase agency accountability, and ensure consistency among agency regulations concerning debarment and suspension of participants in Federal programs, it is hereby ordered that:
 
-Section 1. (a) To the extent permitted by law and subject to the limitations in Section 1(c), Executive departments and agencies shall participate in a system for debarment and suspension from programs and activities involving Federal financial and nonfinancialassistance and benefits. Debarment or suspension of a participant in a program by one agency shall have government-wide effect.
+Section 1. (a) To the extent permitted by law and subject to the limitations in Section 1(c), Executive departments and agencies shall participate in a system for debarment and suspension from programs and activities involving Federal financial and nonfinancial assistance and benefits. Debarment or suspension of a participant in a program by one agency shall have government-wide effect.
 
 (b) Activities covered by this Order include but are not limited to: grants, cooperative agreements, contracts of assistance, loans, and loan guarantees.
 
@@ -794,7 +792,7 @@ Sec. 2. To the extent permitted by law, Executive departments and agencies shall
 
 (c) Not allow a party to participate in any affected program if any Executive department or agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in an affected program. An agency may grant an exception permitting a debarred, suspended, or excluded party to participate in a particular transaction upon a written determination by the agency head or authorized designee stating the reason(s) for deviating from this Presidential policy. However, I intend that exceptions to this policy should be granted only infrequently.
 
-Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelines issued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
+Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall besubmitted to the Office of Management and Budget for review within four months of the date of the guidelines issued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
 
 Sec. 4. There is hereby constituted the Interagency Committee on Debarment and Suspension, which shall monitor implementation of this Order. The Committee shall consist of representatives of agencies designated by the Director of the Office of Management and Budget.
 

@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 786 of this title prior to the completerevision of former chapter 21 of this title by Pub. L. 96–322.
+Provisions similar to those in this section were contained in section 786 of this title prior to the complete revision of former chapter 21 of this title by Pub. L. 96–322.
 
 #### Amendments
 

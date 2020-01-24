@@ -4,7 +4,7 @@
 
 The Administrator, alone or after consultation with the Secretary of Energy, shall conduct, and encourage, cooperate with, and render financial and other assistance to appropriate public (whether Federal, State, interstate, or local) authorities, agencies, and institutions, private agencies and institutions, and individuals in the conduct of, and promote the coordination of, research, investigations, experiments, training, demonstrations, surveys, public education programs, and studies relating to—
 
-&emsp;(1) any adverse health and welfare effects of the release into the environment of materialpresent in solid waste, and methods to eliminate such effects;
+&emsp;(1) any adverse health and welfare effects of the release into the environment of material present in solid waste, and methods to eliminate such effects;
 
 &emsp;(2) the operation and financing of solid waste management programs;
 
@@ -42,7 +42,7 @@ The Administrator, alone or after consultation with the Secretary of Energy, sha
 
 (1) In carrying out subsection (a) of this section respecting solid waste research, studies, development, and demonstration, except as otherwise specifically provided in section 6984(d) of this title, the Administrator may make grants to or enter into contracts (including contracts for construction) with, public agencies and authorities or private persons.
 
-(2) Contracts for research, development, or demonstrations or for both (including contracts for construction) shall be made in accordance with and subject to the limitations providedwith respect to research contracts of the military departments in section 2353 of title 10, except that the determination, approval, and certification required thereby shall be made by the Administrator.
+(2) Contracts for research, development, or demonstrations or for both (including contracts for construction) shall be made in accordance with and subject to the limitations provided with respect to research contracts of the military departments in section 2353 of title 10, except that the determination, approval, and certification required thereby shall be made by the Administrator.
 
 (3) Any invention made or conceived in the course of, or under, any contract under this chapter shall be subject to section 9 of the Federal Nonnuclear Energy Research and Development Act of 1974 \[42 U.S.C. 5908\] to the same extent and in the same manner as inventions made or conceived in the course of contracts under such Act \[42 U.S.C. 5901 et seq.\], except that in applying such section, the Environmental Protection Agency shall be substituted for the Secretary of Energy and the words "solid waste" shall be substituted for the word "energy" where appropriate.
 
@@ -84,5 +84,5 @@ Pub. L. 94–580, §3, Oct. 21, 1976, 90 Stat. 2840, provided for a study of pro
 
 #### Leachate Control Research Program in Delaware
 
-Pub. L. 94–580, §4, Oct. 21, 1976, 90 Stat. 2840, directed Administrator of Environmental Protection Agency, in order to demonstrate effective means of dealing with contamination of public water supplies by leachate from abandoned or other landfills, to provide technical and financial assistance for a research program, designed by New Castle County areawide waste treatment management program, to control leachate from Llangollen Landfill in New Castle County, Delaware, and provided up to $250,000 in each of the fiscal years 1978 and 1979 for the operating costs of a counter-pumping program to contain the leachate from the Llangollen Landfill during the period of this study.
+Pub. L. 94–580, §4, Oct. 21, 1976, 90 Stat. 2840, directed Administrator of Environmental Protection Agency, inorder to demonstrate effective means of dealing with contamination of public water supplies by leachate from abandoned or other landfills, to provide technical and financial assistance for a research program, designed by New Castle County areawide waste treatment management program, to control leachate from Llangollen Landfill in New Castle County, Delaware, and provided up to $250,000 in each of the fiscal years 1978 and 1979 for the operating costs of a counter-pumping program to contain the leachate from the Llangollen Landfill during the period of this study.
 

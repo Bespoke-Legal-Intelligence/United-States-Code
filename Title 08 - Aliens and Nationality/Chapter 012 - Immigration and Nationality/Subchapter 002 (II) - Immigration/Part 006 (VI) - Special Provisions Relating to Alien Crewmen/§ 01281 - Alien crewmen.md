@@ -34,7 +34,7 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–649 applicable to services performed on or after 180 days after Nov. 29, 1990, seesection 203(d) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 101–649 applicable to services performed on or after 180 days after Nov. 29, 1990, see section 203(d) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

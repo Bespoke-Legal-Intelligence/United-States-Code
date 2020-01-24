@@ -6,11 +6,15 @@ There are transferred to the Secretary of State all functions of the Director of
 
 #### (b) Exception
 
-Subsection (a) does not apply to the Broadcasting Board of Governors, the International Broadcasting Bureau, or any function performed by the Board or the Bureau.
+Subsection (a) does not apply to the Broadcasting Board of Governors, the InternationalBroadcasting Bureau, or any function performed by the Board or the Bureau.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XIII, §1312, Oct. 21, 1998, 112 Stat. 2681–776.)
 
 #### References in Text
 
 For the effective date of this subchapter, referred to in subsec. (a), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of this title.
+
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 

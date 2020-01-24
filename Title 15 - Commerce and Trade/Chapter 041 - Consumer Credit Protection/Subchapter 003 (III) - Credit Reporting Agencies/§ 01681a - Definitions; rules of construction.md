@@ -326,25 +326,19 @@ Subsequent disclosure.—After taking any adverse action based in whole or in pa
 
 Self-regulatory organization defined.—For purposes of this subsection, the term "self-regulatory organization" includes any self-regulatory organization (as defined in section 78c(a)(26) of this title), any entity established under title I of the Sarbanes-Oxley Act of 2002 \[15 U.S.C. 7211 et seq.\], any board of trade designated by the Commodity Futures Trading Commission, and any futures association registered with such Commission.
 
-(Pub. L. 90–321, title VI, §603, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, §2(b), Oct. 27, 1992, 106 Stat. 3531; Pub. L. 104–208, div. A, title II, §2402, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 105–347, §6(1)–(3), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §111, title II, §214(c)(1), title IV, §411(b), (c), title VI, §611, Dec. 4, 2003, 117 Stat. 1954, 1983, 2001, 2010; Pub. L. 111–203, title X, §1088(a)(1), (2)(A), (C), (3), July 21, 2010, 124 Stat. 2086, 2087; Pub. L. 115–174, title III, §302(b)(1), May 24, 2018, 132 Stat. 1333.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–174, title III, §302(b)(1), (e), May 24, 2018, 132 Stat. 1333, 1335, provided that, effective 1 year after May 24, 2018, this section is amended by adding at the end the following new subsections:</i>
-
-<i>(z)</i>
+(z)
 
 Veteran.—The term "veteran" has the meaning given the term in section 101 of title 38.
 
-<i>(aa)</i>
+(aa)
 
 Veteran's Medical Debt.—The term "veteran's medical debt"—
 
-&emsp;<i>(1) means a medical collection debt of a veteran owed to a non-Department of Veterans Affairs health care provider that was submitted to the Department for payment for health care authorized by the Department of Veterans Affairs; and</i>
+&emsp;(1) means a medical collection debt of a veteran owed to a non-Department of Veterans Affairs health care provider that was submitted to the Department for payment for health care authorized by the Department of Veterans Affairs; and
 
-&emsp;<i>(2) includes medical collection debt that the Department of Veterans Affairs has wrongfully charged a veteran.</i>
+&emsp;(2) includes medical collection debt that the Department of Veterans Affairs has wrongfully charged a veteran.
 
-<i>See 2018 Amendment note below.</i>
+(Pub. L. 90–321, title VI, §603, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, §2(b), Oct. 27, 1992, 106 Stat. 3531; Pub. L. 104–208, div. A, title II, §2402, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 105–347, §6(1)–(3), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §111, title II, §214(c)(1), title IV, §411(b), (c), title VI, §611, Dec. 4, 2003, 117 Stat. 1954, 1983, 2001, 2010; Pub. L. 111–203, title X, §1088(a)(1), (2)(A), (C), (3), July 21, 2010, 124 Stat. 2086, 2087; Pub. L. 115–174, title III, §302(b)(1), May 24, 2018, 132 Stat. 1333.)
 
 #### References in Text
 
@@ -374,7 +368,7 @@ Subsec. (d)(2)(D). Pub. L. 108–159, §611(b), inserted "or (x)" after "subsect
 
 Subsec. (d)(3). Pub. L. 108–159, §411(b)(2), added par. (3).
 
-Subsec. (i). Pub. L. 108–159, §411(c), inserted heading and amended text of subsec. (i) generally. Prior toamendment, text read as follows: "The term 'medical information' means information or records obtained, with the consent of the individual to whom it relates, from licensed physicians or medical practitioners, hospitals, clinics, or other medical or medically related facilities."
+Subsec. (i). Pub. L. 108–159, §411(c), inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: "The term 'medical information' means information or records obtained, with the consent of the individual to whom it relates, from licensed physicians or medical practitioners, hospitals, clinics, or other medical or medically related facilities."
 
 Subsecs. (q) to (w). Pub. L. 108–159, §111, added subsecs. (q) to (w).
 

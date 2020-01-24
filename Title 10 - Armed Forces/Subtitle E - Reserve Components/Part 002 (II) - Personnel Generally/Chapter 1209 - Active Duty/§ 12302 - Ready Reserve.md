@@ -82,7 +82,7 @@ The changes are necessary to reflect section 101(b) of the Armed Forces Reserve 
 
 <b>1973</b>—Subsec. (d). Pub. L. 93–155 added subsec. (d).
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–861, §§1(14)(A), 33(a)(5), inserted "(other than for training)" after "activeduty", and struck out provisions that made subsection inapplicable unless Congress determined how many members of the reserve components were necessary, in the interest of national security, to be ordered to active duty.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861, §§1(14)(A), 33(a)(5), inserted "(other than for training)" after "active duty", and struck out provisions that made subsection inapplicable unless Congress determined how many members of the reserve components were necessary, in the interest of national security, to be ordered to active duty.
 
 Subsec. (c). Pub. L. 85–861, §1(14)(B), added subsec. (c).
 

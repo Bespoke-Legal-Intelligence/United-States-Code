@@ -34,7 +34,7 @@ In the case of an individual who is an eligible individual for any month during 
 
 #### (B) Self-employed individuals
 
-&emsp;&emsp;The deduction allowed under subsection (a) for contributions as an eligible individual described in subclause (II) of subsection (c)(1)(A)(iii) shall not exceed such individual's earned income (as defined in section 401(c)(1)) derived by the taxpayer from the trade or business with respect to which the high deductible health plan is established.
+&emsp;&emsp;The deduction allowed under subsection (a) for contributions as an eligible individualdescribed in subclause (II) of subsection (c)(1)(A)(iii) shall not exceed such individual's earned income (as defined in section 401(c)(1)) derived by the taxpayer from the trade or business with respect to which the high deductible health plan is established.
 
 #### (C) Community property laws not to apply
 
@@ -54,7 +54,7 @@ In the case of an individual who is an eligible individual for any month during 
 
 #### (7) Medicare eligible individuals
 
-&emsp;The limitation under this subsection for any month with respect to an individual shall bezero for the first month such individual is entitled to benefits under title XVIII of the Social Security Act and for each month thereafter.
+&emsp;The limitation under this subsection for any month with respect to an individual shall be zero for the first month such individual is entitled to benefits under title XVIII of the Social Security Act and for each month thereafter.
 
 #### (c) Definitions
 
@@ -248,7 +248,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;An Archer MSA is exempt from taxation under this subtitle unless such account hasceased to be an Archer MSA. Notwithstanding the preceding sentence, any such account is subject to the taxes imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc. organizations).
+&emsp;An Archer MSA is exempt from taxation under this subtitle unless such account has ceased to be an Archer MSA. Notwithstanding the preceding sentence, any such account is subject to the taxes imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc. organizations).
 
 #### (2) Account terminations
 
@@ -304,7 +304,7 @@ For purposes of this section—
 
 #### (B) Limitation
 
-&emsp;&emsp;This paragraph shall not apply to any amount described in subparagraph (A) received by an individual from an Archer MSA if, at any time during the 1-year period ending on the day of such receipt, such individual received any other amount described in subparagraph (A) from an Archer MSA which was not includible in the individual's gross income because of the application of this paragraph.
+&emsp;&emsp;This paragraph shall not apply to any amount described in subparagraph (A) received by an individual from an Archer MSA if, at any time during the 1-year period ending on the day of such receipt, such individual received any other amount described in subparagraph (A) from an Archer MSA whichwas not includible in the individual's gross income because of the application of this paragraph.
 
 #### (6) Coordination with medical expense deduction
 
@@ -324,7 +324,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If, by reason of the death of the account holder, any person acquires the accountholder's interest in an Archer MSA in a case to which subparagraph (A) does not apply—
+&emsp;&emsp;&emsp;If, by reason of the death of the account holder, any person acquires the account holder's interest in an Archer MSA in a case to which subparagraph (A) does not apply—
 
 &emsp;&emsp;&emsp;&emsp;(I) such account shall cease to be an Archer MSA as of the date of death, and
 
@@ -470,7 +470,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 #### (A) In general
 
-&emsp;&emsp;The determination of whether any calendar year is a cut-off year shall be made by not counting the Archer MSA of any previously uninsured individual.
+&emsp;&emsp;The determination of whether any calendar year is a cut-off year shall be made bynot counting the Archer MSA of any previously uninsured individual.
 
 #### (B) Previously uninsured individual
 
@@ -650,7 +650,7 @@ Subsec. (d)(2)(C). Pub. L. 105–34, §1602(a)(3), substituted "described in cla
 
 Amendment by section 11002(d)(1)(T) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
-Amendment by section 11051(b)(3)(D) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
+Amendment by section 11051(b)(3)(D) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made bysection 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -710,19 +710,5 @@ Pub. L. 104–191, title III, §301(k), Aug. 21, 1996, 110 Stat. 2052, provided 
 
 #### Study of Effects of Medical Savings Accounts on Small Group Market
 
-Pub. L. 104–191, title III, §301(l), Aug. 21, 1996, 110 Stat. 2052, provided that: "The Comptroller General of the United States shall enter into a contract with an organization with expertise in health economics, health insurance markets, and actuarial science to conduct a comprehensive study regarding the effects of medical savings accounts in the small group market on—
-
-&emsp;"(1) selection, including adverse selection,
-
-&emsp;"(2) health costs, including any impact on premiums of individuals with comprehensive coverage,
-
-&emsp;"(3) use of preventive care,
-
-&emsp;"(4) consumer choice,
-
-&emsp;"(5) the scope of coverage of high deductible plans purchased in conjunction with such accounts, and
-
-&emsp;"(6) other relevant items.
-
-> A report on the results of the study conducted under this subsection shall be submitted to the Congress no later than January 1, 1999."
+Pub. L. 104–191, title III, §301(l), Aug. 21, 1996, 110 Stat. 2052, mandated a comprehensive study regarding the effects of medical savings accounts in the small group market on selection, health costs, preventive care, consumer choice, high deductible plans, and other relevant issues, and mandated a report to Congress on the results of the study by Jan. 1, 1999.
 

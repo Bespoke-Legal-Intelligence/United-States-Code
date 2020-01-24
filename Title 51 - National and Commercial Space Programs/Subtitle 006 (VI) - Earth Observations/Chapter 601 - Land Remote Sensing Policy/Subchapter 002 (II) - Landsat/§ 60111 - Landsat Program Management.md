@@ -42,7 +42,7 @@ Responsibilities.—The Landsat Program Management shall be responsible for—
 
 (d)
 
-Authority To Contract.—The Landsat Program Management may, subject to appropriations and only under the existing contractauthority of the United States Government agencies that compose the Landsat Program Management, enter into contracts with the private sector for services such as satellite operations and data preprocessing.
+Authority To Contract.—The Landsat Program Management may, subject to appropriations and only under the existing contract authority of the United States Government agencies that compose the Landsat Program Management, enter into contracts with the private sector for services such as satellite operations and data preprocessing.
 
 (e)
 

@@ -2,7 +2,7 @@
 
 (a) The uniform of officers and members of the United States Park Police force, the United States Secret Service Uniformed Division, the Capitol Police, and the Metropolitan Police force of the District of Columbia shall bear a distinctive patch, pin, or other emblem depicting the flag of the United States or the colors thereof.
 
-(b) The Secretary of the Interior in the case of the United States Park Police force, the Secretary of the Treasury in the case of the United States Secret Service Uniformed Division, the Capitol Police Board in the case of the Capitol Police, and the Mayor of the District of Columbia in the case of the Metropolitan Police force shall prescribe such regulations as may be necessary to carry out the purposes of this section.
+(b) The Secretary of the Interior in the case of the United States Park Police force, the Secretary of the Treasury in the case of the United States Secret Service Uniformed Division, the Capitol Police Board in the case of the Capitol Police, and the Mayor of the District of Columbia in the case of the Metropolitan Police forceshall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
 (Pub. L. 91–297, title II, §201(a), (b), June 30, 1970, 84 Stat. 357; Pub. L. 93–198, title IV, §421, Dec. 24, 1973, 87 Stat. 789; Pub. L. 95–179, Nov. 15, 1977, 91 Stat. 1371.)
 

@@ -12,7 +12,7 @@ Except as provided in subsection (b), any person (other than the United States) 
 
 &emsp;&emsp;(B) the Administrator of the Federal Aviation Administration where there is alleged a failure of such Administrator to perform any act or duty under section 44715 of title 49 which is not discretionary with such Administrator.
 
-> The district courts of the United States shall have jurisdiction, without regard to the amountin controversy, to restrain such person from violating such noise control requirement or to order such Administrator to perform such act or duty, as the case may be.
+> The district courts of the United States shall have jurisdiction, without regard to the amount in controversy, to restrain such person from violating such noise control requirement or to order such Administrator to perform such act or duty, as the case may be.
 
 #### (b) Notice
 

@@ -12,7 +12,7 @@ In order to coordinate the policies and operations of the representatives of the
 
 (3) The Council shall coordinate, by consultation or otherwise, so far as is practicable, the policies and operations of the representatives of the United States on the Fund and the Bank, the Export-Import Bank of the United States and all other agencies of the Government to the extent that they make or participate in the making of foreign loans or engage in foreign financial, exchange or monetary transactions.
 
-(4) Whenever, under the Articles of Agreement of the Fund or the Articles of Agreement of the Bank, the approval, consent or agreement of the United States is required before an act may be done by the respective institutions, the decision as to whether such approval, consent, or agreement, shall be given or refused shall (to the extent such decision is not prohibited by section 286c of this title) be made by the Council, under the general direction of the President. No governor, executive director, or alternate representing the United States shall vote in favor of any waiver of condition under article V, section 4, or in favor of any declaration of the United States dollar as a scarce currency under article VII, section 3, of the Articles of Agreement of the Fund, without prior approval of the Council.
+(4) Whenever, under the Articles of Agreement of the Fund or the Articles of Agreement of the Bank, the approval, consent or agreement of the United States is required before an act may be done by the respective institutions, the decision as to whether such approval, consent, or agreement, shall be given or refused shall (to the extent such decision is not prohibited by section 286c of this title) be made by the Council, under the general direction of the President. No governor, executive director, or alternate representing the United States shall vote in favor of anywaiver of condition under article V, section 4, or in favor of any declaration of the United States dollar as a scarce currency under article VII, section 3, of the Articles of Agreement of the Fund, without prior approval of the Council.
 
 (5) The Council shall make such reports and recommendations to the President as he may from time to time request, or as the Council may consider necessary to more effectively or efficiently accomplish the purposes of this subchapter or the purposes for which the Council is created.
 
@@ -74,7 +74,7 @@ Office of Director for Mutual Security abolished and functions of Director trans
 
 Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813, as amended by Ex. Ord. No. 11334, Mar. 7, 1967, 32 F.R. 3933; Ex. Ord. No. 11808, Sept. 30, 1974, 39 F.R. 35563; Ex. Ord. No. 11977, Mar. 14, 1977, 42 F.R. 14671; Ex. Ord. No. 12164, Sept. 29, 1979, 44 F.R. 56681; Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989; Ex. Ord. No. 12403, Feb. 8, 1983, 48 F.R. 6087; Ex. Ord. No. 12567, Oct. 2, 1986, 51 F.R. 35495; Ex. Ord. No. 12647, Aug. 2, 1988, 53 F.R. 29323; Ex. Ord. No. 12766, June 18, 1991, 56 F.R. 28463; Ex. Ord. No. 13118, §10(9), Mar. 31, 1999, 64 F.R. 16598, provided:
 
-By virtue of the authority vested in me by Reorganization Plan No. 4 of 1965 (30 F.R. 9353) \[set out in the Appendix to Title 5, Government Organization and Employees\], and as President of the United States, it is ordered as follows:
+By virtue of the authority vested in me by Reorganization Plan No. 4 of 1965 (30 F.R. 9353) \[set out in theAppendix to Title 5, Government Organization and Employees\], and as President of the United States, it is ordered as follows:
 
 Section 1. <i>Establishment of Council</i>. (a) There is hereby established the National Advisory Council on International Monetary and Financial Policies, hereinafter referred to as the Council.
 
@@ -88,7 +88,7 @@ Sec. 2. <i>Functions of the Council</i>. (a) Exclusive of the functions delegate
 
 (c) The Council shall perform with respect to the Asian Development Bank, African Development Fund,, \[sic\] African Development Bank, Inter-American Investment Corporation, Multilateral Investment Guarantee Agency, and European Bank for Reconstruction and Development, the same functions as those delegated to it by subsections (a) and (b) of this section with respect to other international financial institutions.
 
-Sec. 3. <i>Functions of the Secretary of the Treasury</i>. (a) Functions which are now vested in the President inconsequence of their transfer to him effected by the provisions of Section 1(b) of Reorganization Plan No. 4 of 1965 are hereby delegated to the Secretary of the Treasury to the extent of the following:
+Sec. 3. <i>Functions of the Secretary of the Treasury</i>. (a) Functions which are now vested in the President in consequence of their transfer to him effected by the provisions of Section 1(b) of Reorganization Plan No. 4 of 1965 are hereby delegated to the Secretary of the Treasury to the extent of the following:
 
 (1) Authority, subject to the provisions of Section 7 of this Order, to instruct representatives of the United States to international financial organizations.
 

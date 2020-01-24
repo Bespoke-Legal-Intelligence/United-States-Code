@@ -18,7 +18,7 @@ Composition.—(1) A board appointed under this section shall be composed of at 
 
 &emsp;(A) In the case of a board that will inquire into the whereabouts and status of one or more members of the armed forces (and no civilians described in subparagraph (B)), the board shall be composed of officers having the grade of major or lieutenant commander or above.
 
-&emsp;(B) In the case of a board that will inquire into the whereabouts and status of one or more civilian employees of the Department of Defense or contractors of the Department of Defense (and no members of the armed forces), the board shall be composed of—
+&emsp;(B) In the case of a board that will inquire into the whereabouts and status of one ormore civilian employees of the Department of Defense or contractors of the Department of Defense (and no members of the armed forces), the board shall be composed of—
 
 &emsp;&emsp;(i) not less than three employees of the Department of Defense whose rate of annual pay is equal to or greater than the rate of annual pay payable for grade GS–13 of the General Schedule under section 5332 of title 5; and
 
@@ -28,7 +28,7 @@ Composition.—(1) A board appointed under this section shall be composed of at 
 
 &emsp;&emsp;(i) the board shall include at least one officer described in subparagraph (A) and at least one employee of the Department of Defense described in subparagraph (B)(i); and
 
-&emsp;&emsp;(ii) the ratio of such officers to such employees on the board shall be roughly proportional to the ratio of the number of members of the armed forces who are subjects ofthe board's inquiry to the number of civilians who are subjects of the board's inquiry.
+&emsp;&emsp;(ii) the ratio of such officers to such employees on the board shall be roughly proportional to the ratio of the number of members of the armed forces who are subjects of the board's inquiry to the number of civilians who are subjects of the board's inquiry.
 
 (2) The Secretary concerned shall designate one member of a board appointed under this section as president of the board. The president of the board shall have a security clearance that affords the president access to all information relating to the whereabouts and status of each person covered by the inquiry.
 
@@ -82,7 +82,7 @@ Attendance of Family Members and Certain Other Interested Persons at Proceedings
 
 (5)(A) Individuals who wish to file objections under paragraph (4)(D) to any recommendation of the board shall—
 
-&emsp;(i) submit a letter of intent to the president of the board not later than 15 days after the date on which the recommendations are made; and
+&emsp;(i) submit a letter of intent to the president of the board not later than 15 days after thedate on which the recommendations are made; and
 
 &emsp;(ii) submit to the president of the board the objections in writing not later than 30 days after the date on which the recommendations are made.
 
@@ -92,7 +92,7 @@ Attendance of Family Members and Certain Other Interested Persons at Proceedings
 
 (h)
 
-Availability of Information to Boards.—(1) In conducting proceedings in an inquiry under this section, a board may secure directly from any department or agency of the UnitedStates any information that the board considers necessary in order to conduct the proceedings.
+Availability of Information to Boards.—(1) In conducting proceedings in an inquiry under this section, a board may secure directly from any department or agency of the United States any information that the board considers necessary in order to conduct the proceedings.
 
 (2) Upon written request from the president of a board, the head of a department or agency of the United States shall release information covered by the request to the board. In releasing such information, the head of the department or agency shall—
 

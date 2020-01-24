@@ -1,6 +1,6 @@
 ### §1552. Correction of military records: claims incident thereto
 
-(a)(1) The Secretary of a military department may correct any military record of the Secretary's department when the Secretary considers it necessary to correct an error or remove aninjustice. Except as provided in paragraph (2), such corrections shall be made by the Secretary acting through boards of civilians of the executive part of that military department. The Secretary of Homeland Security may in the same manner correct any military record of the Coast Guard.
+(a)(1) The Secretary of a military department may correct any military record of the Secretary's department when the Secretary considers it necessary to correct an error or remove an injustice. Except as provided in paragraph (2), such corrections shall be made by the Secretary acting through boards of civilians of the executive part of that military department. The Secretary of Homeland Security may in the same manner correct any military record of the Coast Guard.
 
 (2) The Secretary concerned is not required to act through a board in the case of the correction of a military record announcing a decision that a person is not eligible to enlist (or reenlist) or is not accepted for enlistment (or reenlistment) or announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade. Such a correction may be made only if the correction is favorable to the person concerned.
 
@@ -12,7 +12,9 @@
 
 (D) Any request for reconsideration of a determination of a board under this section, no matter when filed, shall be reconsidered by a board under this section if supported by materials not previously presented to or considered by the board in making such determination.
 
-(4) Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.
+(4)(A) Subject to subparagraph (B), a correction under this section is final and conclusive on all officers of the United States except when procured by fraud.
+
+(B) If a board established under this section does not grant a request for an upgrade to the characterization of a discharge or dismissal, that declination may be considered under section 1553a of this title.
 
 (5) Each final decision of a board under this subsection shall be made available to the public in electronic form on a centralized Internet website. In any decision so made available to the public there shall be redacted all personally identifiable information.
 
@@ -38,11 +40,15 @@
 
 (f) With respect to records of courts-martial and related administrative records pertaining to court-martial cases tried or reviewed under chapter 47 of this title (or under the Uniform Code of Military Justice (Public Law 506 of the 81st Congress)), action under subsection (a) may extend only to—
 
-&emsp;(1) correction of a record to reflect actions taken by reviewing authorities under chapter47 of this title (or under the Uniform Code of Military Justice (Public Law 506 of the 81st Congress)); or
+&emsp;(1) correction of a record to reflect actions taken by reviewing authorities under chapter 47 of this title (or under the Uniform Code of Military Justice (Public Law 506 of the 81st Congress)); or
 
 &emsp;(2) action on the sentence of a court-martial for purposes of clemency.
 
-(g) Any medical advisory opinion issued to a board established under subsection (a)(1) with respect to a member or former member of the armed forces who was diagnosed while serving in the armed forces as experiencing a mental health disorder shall include the opinion of a clinical psychologist or psychiatrist if the request for correction of records concerned relates to a mental health disorder.
+(g)(1) Any medical advisory opinion issued to a board established under subsection (a)(1) with respect to a member or former member of the armed forces who was diagnosed while serving in the armed forces as experiencing a mental health disorder shall include the opinion of a clinical psychologist or psychiatrist if the request for correction of records concerned relates to a mental health disorder.
+
+(2) If a board established under subsection (a)(1) is reviewing a claim described in subsection (h), the board shall seek advice and counsel in the review from a psychiatrist, psychologist, or social worker with training on mental health issues associated with post-traumatic stress disorder or traumatic brain injury or other trauma as specified in the current edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association.
+
+(3) If a board established under subsection (a)(1) is reviewing a claim in which sexual trauma, intimate partner violence, or spousal abuse is claimed, the board shall seek advice and counsel in the review from an expert in trauma specific to sexual assault, intimate partner violence, or spousal abuse, as applicable.
 
 (h)(1) This subsection applies to a former member of the armed forces whose claim under this section for review of a discharge or dismissal is based in whole or in part on matters relating to post-traumatic stress disorder or traumatic brain injury as supporting rationale, or as justification for priority consideration, and whose post-traumatic stress disorder or traumatic brain injury is related to combat or military sexual trauma, as determined by the Secretary concerned.
 
@@ -62,9 +68,9 @@
 
 &emsp;(4) The number and disposition of claims decided during the calendar quarter preceding the calendar quarter in which such information is made available in which sexual assault is alleged to have contributed, whether in whole or in part, to the original characterization of the discharge or release of the former member.
 
-(j) In this section, the term "military record" means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947 of this title).
+(j) In this section, the term "military record" means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such termdoes not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947 of this title).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 86–533, §1(4), June 29, 1960, 74 Stat. 246; Pub. L. 96–513, title V, §511(60), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–209, §11(a), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 100–456, div. A, title XII, §1233(a), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title V, §514, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1441, 1603; Pub. L. 102–484, div. A, title X, §1052(19), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 105–261, div. A, title V, §545(a), (b), Oct. 17, 1998, 112 Stat. 2022; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–417, \[div. A\], title V, §592(a), (b), Oct. 14, 2008, 122 Stat. 4474, 4475; Pub. L. 113–291, div. A, title V, §521(a), Dec. 19, 2014, 128 Stat. 3360; Pub. L. 114–92, div. A, title V, §521, Nov. 25, 2015, 129 Stat. 811; Pub. L. 114–328, div. A, title V, §§533(a), 534(a), (b), Dec. 23, 2016, 130 Stat. 2121, 2122; Pub. L. 115–91, div. A, title V, §§520(a), 521(a), (c)(1), title X, §1081(a)(27), Dec. 12, 2017, 131 Stat. 1379, 1380, 1595; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 86–533, §1(4), June 29, 1960, 74 Stat. 246; Pub. L. 96–513, title V, §511(60), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–209, §11(a), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 100–456, div. A, title XII, §1233(a), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title V, §514, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1441, 1603; Pub. L. 102–484, div. A, title X, §1052(19), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 105–261, div. A, title V, §545(a), (b), Oct. 17, 1998, 112 Stat. 2022; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–417, \[div. A\], title V, §592(a), (b), Oct. 14, 2008, 122 Stat. 4474, 4475; Pub. L. 113–291, div. A, title V, §521(a), Dec. 19, 2014, 128 Stat. 3360; Pub. L. 114–92, div. A, title V, §521, Nov. 25, 2015, 129 Stat. 811; Pub. L. 114–328, div. A, title V, §§533(a), 534(a), (b), Dec. 23, 2016, 130 Stat. 2121, 2122; Pub. L. 115–91, div. A, title V, §§520(a), 521(a), (c)(1), title X, §1081(a)(27), Dec. 12, 2017, 131 Stat. 1379, 1380, 1595; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title V, §§521(a), 523(b)(2)(A), Dec. 20, 2019, 133 Stat. 1353, 1354.)
 
 Historical and Revision Notes
 
@@ -126,7 +132,7 @@ In subsection (a), the words "and approved by the Secretary of Defense" are subs
 
 In subsection (b), the words "before October 26, 1961" are substituted for the words "or within ten years after the date of enactment of this section", in 5:191a and 275. The last sentence of the revised subsection is substituted for 5:191a(a) (last proviso) and 275(a) (last proviso).
 
-In subsection (c), the words "if, as a result of correcting a record under this section \* \* \* the amount isfound to be due the claimant on account of his or another's service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be" are substituted for the words "which are found to be due on account of military or naval service as a result of the action \* \* \* hereafter taken pursuant to subsection (a) of this section", in 5:191a and 275. The words "heretofore taken pursuant to this section", in 5:191a and 275, are omitted as executed. The words "of any persons, their heirs at law or legal representative as hereinafter provided", "(including retired or retirement pay)", "as the case may be", "duly appointed", "otherwise due hereunder", "decedent's", "precedence or succession", and "of precedence", in 5:191a and 275, are omitted as surplusage. The last sentence is substituted for 5:191a(c) and 275(c).
+In subsection (c), the words "if, as a result of correcting a record under this section \* \* \* the amount is found to be due the claimant on account of his or another's service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be" are substituted for the words "which are found to be due on account of military or naval service as a result of the action \* \* \* hereafter taken pursuant to subsection (a) of this section", in 5:191a and 275. The words "heretofore taken pursuant to this section", in 5:191a and 275, are omitted as executed. The words "of any persons, their heirs at law or legal representative as hereinafter provided", "(including retired or retirement pay)", "as the case may be", "duly appointed", "otherwise due hereunder", "decedent's", "precedence or succession", and "of precedence", in 5:191a and 275, are omitted as surplusage. The last sentence is substituted for 5:191a(c) and 275(c).
 
 In subsection (d), the word "but" is substituted for the words "That, continuing payments are authorized to be made to such personnel", in 5:191a and 275. The words "if he is not reenlisted in, or appointed or reappointed to, the grade to which those payments relate" are substituted for the words "without the necessity for reenlistment, appointment, or reappointment to the grade, rank, or office to which such pay (including retired or retirement pay), allowances, compensation, emoluments, and other monetary benefits are attached", in 5:191a and 275. The words "or one year following the date of enactment of this section", in 5:191a and 275, are omitted as executed. The words "for payment of such sums as may be due for", in 5:191a and 275, are omitted as surplusage. The words "(including retired or retirement pay)", in 5:191a and 275, are omitted as covered by the definition of "pay" in section 101(27) of this title.
 
@@ -137,6 +143,10 @@ In subsection (e), the words "No payment may be made under this section" are sub
 The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (f), is act May 5, 1950, ch. 169, §1, 64 Stat. 107, which was classified to chapter 22 (§551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, the first section of which enacted this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(4). Pub. L. 116–92, §523(b)(2)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States."
+
+Subsec. (g). Pub. L. 116–92, §521(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
 <b>2018</b>—Subsec. (j). Pub. L. 115–232 substituted "chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947" for "chapters 81, 83, 87, 108, 373, 605, 607, 643, and 873".
 
@@ -208,6 +218,42 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Correction of Certain Discharge Characterizations
+
+Pub. L. 116–92, div. A, title V, §527, Dec. 20, 2019, 133 Stat. 1356, provided that:
+
+"(a)
+
+In General.—In accordance with this section, and in a manner that is consistent across the military departments to the greatest extent practicable, the appropriate board shall, at the request of a covered member or the authorized representative of a covered member—
+
+&emsp;"(1) review the discharge characterization of that covered member; and
+
+&emsp;"(2) change the discharge characterization of that covered member to honorable if the appropriate board determines such change to be appropriate after review under paragraph (1).
+
+"(b)
+
+Appeal.—A covered member or the authorized representative of that covered member may seek review of a decision by the appropriate board not to change the discharge characterization of that covered member. Such review may be made pursuant to section 1552 of title 10, United States Code, section 1553 of such title, or any other process established by the Secretary of Defense for such purpose.
+
+"(c)
+
+Change of Records.—For each covered member whose discharge characterization is changed under subsection (a) or (b), the Secretary of the military department concerned shall issue to the covered member or the authorized representative of the covered member a corrected Certificate of Release or Discharge from Active Duty (DD Form 214), or other like form regularly used by an Armed Force that—
+
+&emsp;"(1) reflects the upgraded discharge characterization of the covered member; and
+
+&emsp;"(2) does not reflect the sexual orientation of the covered member or the original stated reason for the discharge or dismissal of that covered member.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate board' means a board for the correction of military or naval records under section 1552 of title 10, United States Code, or a discharge review board under section 1553 of such title, as the case may be.
+
+&emsp;"(2) The term 'authorized representative' means an heir or legal representative of a covered member.
+
+&emsp;"(3) The term 'covered member' means any former member of the Armed Forces who was discharged from the Armed Forces because of the sexual orientation of that member.
+
+&emsp;"(4) The term 'discharge characterization' means the characterization assigned to the service of a covered member on the discharge or dismissal of that covered member from service in the Armed Forces."
+
 #### Pilot Program on Use of Video Teleconferencing Technology by Boards for the Correction of Military Records and Discharge Review Boards
 
 Pub. L. 115–91, div. A, title V, §524, Dec. 12, 2017, 131 Stat. 1381, provided that:
@@ -233,6 +279,16 @@ No Expansion of Eligibility.—Nothing in the pilot program is intended to alter
 Termination.—The authority of the Secretary of Defense to carry out the pilot program shall terminate on December 31, 2020."
 
 #### Training of Members of Boards
+
+Pub. L. 116–92, div. A, title V, §525(a), Dec. 20, 2019, 133 Stat. 1356, provided that: "The curriculum of training for members of boards for the correction of military records under section 534(c) of the National Defense Authorization Act for Fiscal Year 2017 \[Pub. L. 114–328\] (10 U.S.C. 1552 note) shall include training on each of the following:
+
+&emsp;"(1) Sexual trauma.
+
+&emsp;"(2) Intimate partner violence.
+
+&emsp;"(3) Spousal abuse.
+
+&emsp;"(4) The various responses of individuals to trauma."
 
 Pub. L. 114–328, div. A, title V, §534(c), Dec. 23, 2016, 130 Stat. 2122, as amended by Pub. L. 115–91, div. A, title V, §523(a), Dec. 12, 2017, 131 Stat. 1381, provided that:
 

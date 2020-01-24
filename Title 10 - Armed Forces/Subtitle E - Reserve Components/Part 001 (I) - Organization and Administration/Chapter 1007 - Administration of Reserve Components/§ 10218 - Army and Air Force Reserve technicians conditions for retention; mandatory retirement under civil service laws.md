@@ -12,7 +12,7 @@ Separation and Retirement of Military Technicians (Dual Status).—(1) An indivi
 
 &emsp;(ii) apply for a civil service position that is not a technician position.
 
-(B) If such a technician continues employment with the Army Reserve or the Air Force Reserveas a non-dual status technician, the technician—
+(B) If such a technician continues employment with the Army Reserve or the Air Force Reserve as a non-dual status technician, the technician—
 
 &emsp;(i) shall not be permitted, after October 5, 2000, to apply for any voluntary personnel action; and
 

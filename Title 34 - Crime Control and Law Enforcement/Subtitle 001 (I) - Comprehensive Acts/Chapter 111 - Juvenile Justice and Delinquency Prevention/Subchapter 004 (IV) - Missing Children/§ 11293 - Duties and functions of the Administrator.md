@@ -12,7 +12,7 @@ The Administrator shall—
 
 &emsp;(4) coordinate with the United States Interagency Council on Homelessness to ensure that homeless services professionals are aware of educational resources and assistance provided by the Center regarding child sexual exploitation;
 
-&emsp;(5) provide adequate staff and agency resources which are necessary to properly carryout the responsibilities pursuant to this subchapter; and
+&emsp;(5) provide adequate staff and agency resources which are necessary to properly carry out the responsibilities pursuant to this subchapter; and
 
 &emsp;(6) not later than 180 days after the end of each fiscal year, submit a report to the President, Speaker of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the President pro tempore of the Senate, and the Committee on the Judiciary of the Senate—
 
@@ -74,7 +74,7 @@ The Administrator shall—
 
 &emsp;&emsp;(G) provide support and technical assistance to child-serving professionals involved in helping to recover missing and exploited children by searching public records databases to help in the identification, location, and recovery of such children, and help in the location and identification of potential abductors and offenders;
 
-&emsp;&emsp;(H) provide forensic and direct on-site technical assistance and consultation to families, law enforcement agencies, child-serving professionals, and nongovernmental organizations in child abduction and exploitation cases, including facial reconstructionof skeletal remains and similar techniques to assist in the identification of unidentified deceased children;
+&emsp;&emsp;(H) provide forensic and direct on-site technical assistance and consultation to families, law enforcement agencies, child-serving professionals, and nongovernmental organizations in child abduction and exploitation cases, including facial reconstruction of skeletal remains and similar techniques to assist in the identification of unidentified deceased children;
 
 &emsp;&emsp;(I) provide training, technical assistance, and information to nongovernmental organizations relating to non-compliant sex offenders and to law enforcement agencies in identifying and locating such individuals;
 
@@ -126,7 +126,7 @@ The Administrator shall—
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, no Federal funds may be used to pay the compensation of an individual employed by the Center if such compensation, as determined at the beginning of each grant year, exceeds 110 percent of the maximum annual salary payable to a member of the Federal Government's Senior Executive Service (SES) for that year. The Center may compensate an employee at a higher rate provided the amount in excess of this limitation is paid with non-Federal funds.
+&emsp;&emsp;Notwithstanding any other provision of law, no Federal funds may be used to pay the compensation of an individual employed by the Center if such compensation, as determined at the beginning of each grant year, exceeds 110 percent of the maximum annualsalary payable to a member of the Federal Government's Senior Executive Service (SES) for that year. The Center may compensate an employee at a higher rate provided the amount in excess of this limitation is paid with non-Federal funds.
 
 #### (B) Definition of compensation
 
@@ -148,7 +148,7 @@ The Administrator, either by making grants to or entering into contracts with pu
 
 Nothing contained in this subchapter shall be construed to grant to the Administrator any law enforcement responsibility or supervisory authority over any other Federal agency.
 
-(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18,1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 107–273, div. C, title II, §12221(b)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 108–21, title III, §§321(b), 323, Apr. 30, 2003, 117 Stat. 664, 665; Pub. L. 108–96, title II, §202(a), Oct. 10, 2003, 117 Stat. 1172; Pub. L. 110–240, §3, June 3, 2008, 122 Stat. 1561; Pub. L. 113–38, §2(b), Sept. 30, 2013, 127 Stat. 527; Pub. L. 114–22, title II, §211, May 29, 2015, 129 Stat. 249; Pub. L. 115–141, div. Q, title II, §201, Mar. 23, 2018, 132 Stat. 1120; Pub. L. 115–267, §2(c), Oct. 11, 2018, 132 Stat. 3757; Pub. L. 115–393, title II, §202(c), Dec. 21, 2018, 132 Stat. 5268.)
+(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 107–273, div. C, title II, §12221(b)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 108–21, title III, §§321(b), 323, Apr. 30, 2003, 117 Stat. 664, 665; Pub. L. 108–96, title II, §202(a), Oct. 10, 2003, 117 Stat. 1172; Pub. L. 110–240, §3, June 3, 2008, 122 Stat. 1561; Pub. L. 113–38, §2(b), Sept. 30, 2013, 127 Stat. 527; Pub. L. 114–22, title II, §211, May 29, 2015, 129 Stat. 249; Pub. L. 115–141, div. Q, title II, §201, Mar. 23, 2018, 132 Stat. 1120; Pub. L. 115–267, §2(c), Oct. 11, 2018, 132 Stat. 3757; Pub. L. 115–393, title II, §202(c), Dec. 21, 2018, 132 Stat. 5268.)
 
 #### References in Text
 
@@ -186,7 +186,7 @@ Subsec. (b)(1)(F). Pub. L. 115–267, §2(c)(2)(D), (I), redesignated subpar. (I
 
 Pub. L. 115–267, §2(c)(2)(C), struck out subpar. (F) which related to requirement to annually provide the Office of Juvenile Justice and Delinquency Prevention certain information based on reports received by the National Center for Missing and Exploited Children.
 
-Subsec. (b)(1)(G). Pub. L. 115–267, §2(c)(2)(D), (I), redesignated subpar. (J) as (G) and amended it generally. Prior to amendment, text read as follows: "provide analytical support and technical assistance to law enforcement agencies through searching public records databases in locating and recovering missing and exploited children and helping to locate and identify abductors;".
+Subsec. (b)(1)(G). Pub. L. 115–267, §2(c)(2)(D), (I), redesignated subpar. (J) as (G) and amended it generally.Prior to amendment, text read as follows: "provide analytical support and technical assistance to law enforcement agencies through searching public records databases in locating and recovering missing and exploited children and helping to locate and identify abductors;".
 
 Pub. L. 115–267, §2(c)(2)(C), struck out subpar. (G) which read as follows: "provide, at the request of State and local governments, and public and private nonprofit agencies, guidance on how to facilitate the lawful use of school records and birth certificates to identify and locate missing children;".
 
@@ -282,6 +282,10 @@ Subsec. (b)(2)(D). Pub. L. 100–690, §7285(b)(2)(B), inserted "and training" a
 
 Subsec. (b)(4). Pub. L. 100–690, §7285(b)(3), (4), added par. (4).
 
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–267 effective Oct. 11, 2018, and applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under section 11291 of this title.
@@ -296,7 +300,7 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (a)(6) of this section relating to submittal ofannual report to the Speaker of the House of Representatives and the President pro tempore of the Senate, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 122 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (a)(6) of this section relating to submittal of annual report to the Speaker of the House of Representatives and the President pro tempore of the Senate, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 122 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "case."</i>
 

@@ -10,7 +10,7 @@
 
 &emsp;(2) the terms of the enrollment period; and
 
-&emsp;(3) such other terms and conditions as may be mutually agreed to by the Office and thequalified company involved, consistent with the requirements of this chapter and regulations prescribed by the Office.
+&emsp;(3) such other terms and conditions as may be mutually agreed to by the Office and the qualified company involved, consistent with the requirements of this chapter and regulations prescribed by the Office.
 
 (c) Nothing in this chapter shall, in the case of an individual electing dental supplemental benefit coverage under this chapter after the expiration of such individual's first opportunity to enroll, preclude the application of waiting periods more stringent than those that would have applied if that opportunity had not yet expired.
 

@@ -56,7 +56,7 @@ TRICARE Program Defined.—In this section, the term 'TRICARE program' has the m
 
 #### Value-Based Purchasing and Acquisition of Managed Care Support Contracts for TRICARE Program
 
-Pub. L. 114–328, div. A, title VII, §705, Dec. 23, 2016, 130 Stat. 2201, as amended by Pub. L. 115–91, div. A, title VII, §715, Dec. 12, 2017, 131 Stat. 1438, provided that:
+Pub. L. 114–328, div. A, title VII, §705, Dec. 23, 2016, 130 Stat. 2201, as amended by Pub. L. 115–91, div. A, title VII, §715, Dec. 12, 2017, 131 Stat. 1438; Pub. L. 116–92, div. A, title VII, §716, Dec. 20, 2019, 133 Stat. 1453, provided that:
 
 "(a)
 
@@ -84,7 +84,7 @@ Development.—In developing value-based incentive programs under paragraph (1),
 
 &emsp;&emsp;&emsp;"(ii) consider the characteristics of the population of covered beneficiaries affected by the value-based incentive program;
 
-&emsp;&emsp;&emsp;"(iii) consider how the value-based incentive program would affect the receipt of health careunder the TRICARE program by such covered beneficiaries;
+&emsp;&emsp;&emsp;"(iii) consider how the value-based incentive program would affect the receipt of health care under the TRICARE program by such covered beneficiaries;
 
 &emsp;&emsp;&emsp;"(iv) establish or maintain an assurance that such covered beneficiaries will have timely access to health care during the operation of the value-based incentive program;
 
@@ -120,7 +120,7 @@ Acquisition of Contracts.—
 
 &emsp;"(1)
 
-Strategy.—Not later than January 1, 2018, the Secretary of Defense shall develop and implement a strategy to ensure that managed care support contracts under the TRICARE program entered into with private sector entities, other than overseas medical support contracts—
+Strategy.—Not later than January 1, 2018, the Secretary of Defense shall develop and implement a strategy to ensure that managed care support contracts under the TRICARE program entered into with private sector entities—
 
 &emsp;&emsp;"(A) improve access to health care for covered beneficiaries;
 
@@ -198,7 +198,7 @@ Rural, remote, and isolated areas.—In developing and implementing the strategy
 
 &emsp;&emsp;"(D) ensure that managed care support contracts under the TRICARE program in those locations will—
 
-&emsp;&emsp;&emsp;"(i) establish individual and institutional provider networks that will provide timely access tocare for covered beneficiaries, including pursuant to such networks relating to an Indian tribe or tribal organization that is party to the Alaska Native Health Compact with the Indian Health Service or has entered into a contract with the Indian Health Service to provide health care in rural Alaska or other locations in the United States; and
+&emsp;&emsp;&emsp;"(i) establish individual and institutional provider networks that will provide timely access to care for covered beneficiaries, including pursuant to such networks relating to an Indian tribe or tribal organization that is party to the Alaska Native Health Compact with the Indian Health Service or has entered into a contract with the Indian Health Service to provide health care in rural Alaska or other locations in the United States; and
 
 &emsp;&emsp;&emsp;"(ii) deliver high-quality care, better health outcomes, and a better experience of care for covered beneficiaries.
 

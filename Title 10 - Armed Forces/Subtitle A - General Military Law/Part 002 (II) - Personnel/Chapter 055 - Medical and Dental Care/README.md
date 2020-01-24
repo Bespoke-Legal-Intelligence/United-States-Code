@@ -96,7 +96,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 116–92, div. A, title VII, §702(b)(3), (c), Dec. 20, 2019, 133 Stat. 1436, 1437, provided that, applicable to health care coverage beginning on or after Jan. 1, 2021, this analysis is amended by adding items 1097a "TRICARE Prime: automatic enrollments" and 1099 "Health care enrollment system and payment options" and by striking out former items 1097a "TRICARE Prime: automatic enrollments; payment options" and 1099 "Health care enrollment system". See 2019 Amendment note below.</i>
+
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title VII, §702(b)(3), Dec. 20, 2019, 133 Stat. 1436, added items 1097a and 1099 and struck out former items 1097a "TRICARE Prime: automatic enrollments; payment options" and 1099 "Health care enrollment system".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(a)(13), Aug. 13, 2018, 132 Stat. 1984, inserted period at end of item 1077a.
 
@@ -120,7 +126,7 @@ Pub. L. 111–383, div. A, title VII, §702(a)(2), Jan. 7, 2011, 124 Stat. 4245,
 
 <b>2006</b>—Pub. L. 109–364, div. A, title VII, §707(b), Oct. 17, 2006, 120 Stat. 2284, added item 1097c.
 
-Pub. L. 109–364, div. A, title VII, §706(e), Oct. 17, 2006, 120 Stat. 2282, struck out item 1076b "TRICARE program: TRICARE Standard coverage for members of the Selected Reserve" and substituted "TRICARE program: TRICARE Standard coverage for members of the Selected Reserve" for "TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation" in item 1076d, effective Oct. 1, 2007.
+Pub. L. 109–364, div. A, title VII, §706(e), Oct. 17, 2006, 120 Stat. 2282, struck out item 1076b "TRICARE program: TRICARE Standard coverage for members of the Selected Reserve" and substituted "TRICARE program: TRICARE Standard coverage for members of the Selected Reserve" for "TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after releasefrom active duty in support of a contingency operation" in item 1076d, effective Oct. 1, 2007.
 
 Pub. L. 109–163, div. A, title VII, §§701(f)(2), 702(a)(2), Jan. 6, 2006, 119 Stat. 3340, 3342, substituted "TRICARE program: TRICARE Standard coverage for members of the Selected Reserve" for "TRICARE program: coverage for members of the Ready Reserve" in item 1076b and "TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation" for "TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty" in item 1076d.
 
@@ -166,7 +172,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 
 <b>1985</b>—Pub. L. 99–145, title VI, §§651(a)(2), 653(a)(2), Nov. 8, 1985, 99 Stat. 656, 658, added items 1076a and 1094.
 
-<b>1984</b>—Pub. L. 98–525, title VI, §631(a)(2), title XIV, §1401(e)(2)(B), (5)(B), Oct. 19, 1984, 98 Stat. 2543, 2616, 2618, substituted in item 1074a "Medical and dental care: members on duty other than active duty; injuries, diseases, and illnesses incident to duty" for "Medical and dental care for members of the uniformed services for injuries incurred or aggravated while traveling toand from inactive duty training" and added items 1074b and 1093.
+<b>1984</b>—Pub. L. 98–525, title VI, §631(a)(2), title XIV, §1401(e)(2)(B), (5)(B), Oct. 19, 1984, 98 Stat. 2543, 2616, 2618, substituted in item 1074a "Medical and dental care: members on duty other than active duty; injuries, diseases, and illnesses incident to duty" for "Medical and dental care for members of the uniformed services for injuries incurred or aggravated while traveling to and from inactive duty training" and added items 1074b and 1093.
 
 <b>1983</b>—Pub. L. 98–94, title IX, §§932(a)(2), 933(a)(2), title X, §1012(a)(2), title XII, §1268(5)(B), Sept. 24, 1983, 97 Stat. 650, 651, 665, 706, added items 1074a, 1091, and 1092, and struck out "; reports" at end of item 1081.
 

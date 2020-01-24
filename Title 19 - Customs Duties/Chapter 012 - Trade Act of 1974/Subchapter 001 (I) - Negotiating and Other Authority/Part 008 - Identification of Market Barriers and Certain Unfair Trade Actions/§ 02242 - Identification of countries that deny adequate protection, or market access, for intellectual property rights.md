@@ -70,7 +70,7 @@ For purposes of this section—
 
 &emsp;(2) A foreign country denies adequate and effective protection of intellectual property rights if the foreign country denies adequate and effective means under the laws of the foreign country for persons who are not citizens or nationals of such foreign country to secure, exercise, and enforce rights relating to patents, process patents, registered trademarks, copyrights, trade secrets, and mask works.
 
-&emsp;(3) A foreign country denies fair and equitable market access if the foreign country effectively denies access to a market for a product protected by a copyright or related right, patent, trademark, mask work, trade secret, or plant breeder's right, through the use of laws, procedures, practices, or regulations which—
+&emsp;(3) A foreign country denies fair and equitable market access if the foreign country effectively denies access to a market for a product protected by a copyright or related right, patent, trademark, mask work, trade secret,or plant breeder's right, through the use of laws, procedures, practices, or regulations which—
 
 &emsp;&emsp;(A) violate provisions of international law or international agreements to which both the United States and the foreign country are parties, or
 
@@ -208,7 +208,7 @@ Pub. L. 114–125, title VI, §610(b)(2), Feb. 24, 2016, 130 Stat. 192, provided
 
 "(A)
 
-In general.—Amounts from the Trade Enforcement Trust Fund established under section 611 \[19U.S.C. 4405\] may be expended by the United States Trade Representative, only as provided by appropriations Acts, to provide assistance to any developing country to which an action plan applies under section 182(g) of the Trade Act of 1974 \[19 U.S.C. 2242(g)\], as amended by paragraph (1), to facilitate the efforts of the developing country to comply with the benchmarks contained in the action plan. Such assistance may include capacity building, activities designed to increase awareness of intellectual property rights, and training for officials responsible for enforcing intellectual property rights in the developing country.
+In general.—Amounts from the Trade Enforcement Trust Fund established under section 611 \[19 U.S.C. 4405\] may be expended by the United States Trade Representative, only as provided by appropriations Acts, to provide assistance to any developing country to which an action plan applies under section 182(g) of the Trade Act of 1974 \[19 U.S.C. 2242(g)\], as amended by paragraph (1), to facilitate the efforts of the developing country to comply with the benchmarks contained in the action plan. Such assistance may include capacity building, activities designed to increase awareness of intellectual property rights, and training for officials responsible for enforcing intellectual property rights in the developing country.
 
 "(B)
 

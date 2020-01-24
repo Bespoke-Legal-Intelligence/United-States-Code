@@ -4,7 +4,7 @@
 
 #### (1) Submission
 
-&emsp;A State educational agency that desires to receive a grant under this part shall submit tothe Secretary an application at such time, in such manner, and including such information as the Secretary may require.
+&emsp;A State educational agency that desires to receive a grant under this part shall submit to the Secretary an application at such time, in such manner, and including such information as the Secretary may require.
 
 #### (2) State plan
 
@@ -90,7 +90,7 @@ The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 8
 
 #### Prior Provisions
 
-A prior section 1453, Pub. L. 91–230, title VI, §653, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 125, related to grant applications, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1453, Pub. L. 91–230, title VI, §653, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat.125, related to grant applications, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1453, Pub. L. 91–230, title VI, §653, Apr. 13, 1970, 84 Stat. 187; Pub. L. 94–142, §6(b), Nov. 29, 1975, 89 Stat. 795; Pub. L. 99–386, title II, §204, Aug. 22, 1986, 100 Stat. 823, related to establishment and operation of centers on educational media and materials for handicapped, prior to repeal by Pub. L. 99–457, title III, §316, Oct. 8, 1986, 100 Stat. 1171.
 

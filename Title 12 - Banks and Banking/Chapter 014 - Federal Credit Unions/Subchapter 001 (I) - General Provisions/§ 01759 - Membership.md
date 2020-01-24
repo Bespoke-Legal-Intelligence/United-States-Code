@@ -100,7 +100,7 @@ Subject to the other provisions of this section, the membership of any Federal c
 
 &emsp;&emsp;(A) encourage the formation of separately chartered credit unions instead of approving an application to include an additional group within the field of membership of an existing credit union whenever practicable and consistent with reasonable standards for the safe and sound operation of the credit union; and
 
-&emsp;&emsp;(B) if the formation of a separate credit union by the group is not practicable or consistent with the standards referred to in subparagraph (A), require the inclusion of the group in the field of membership of a credit union that is within reasonable proximity to the location of the group whenever practicable and consistent with reasonablestandards for the safe and sound operation of the credit union.
+&emsp;&emsp;(B) if the formation of a separate credit union by the group is not practicable or consistent with the standards referred to in subparagraph (A), require the inclusion of the group in the field of membership of a credit union that is within reasonable proximity to the location of the group whenever practicable and consistent with reasonable standards for the safe and sound operation of the credit union.
 
 #### (2) Approval criteria
 

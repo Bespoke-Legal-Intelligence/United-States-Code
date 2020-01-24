@@ -36,7 +36,7 @@ Exception to Reimbursement Requirement.—Notwithstanding subsection (a), in the
 
 Definitions.—In this section:
 
-&emsp;(1) The term "hazardous waste" has the meaning given that term by section 1004(5) of the Solid Waste Disposal Act (42 U.S.C. 6903(5)), except that such term also includes polychlorinated biphenyls.
+&emsp;(1) The term "hazardous waste" has the meaning given that term by section 1004(5) ofthe Solid Waste Disposal Act (42 U.S.C. 6903(5)), except that such term also includes polychlorinated biphenyls.
 
 &emsp;(2) The term "remedial action" has the meaning given that term by section 101(24) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(24)).
 

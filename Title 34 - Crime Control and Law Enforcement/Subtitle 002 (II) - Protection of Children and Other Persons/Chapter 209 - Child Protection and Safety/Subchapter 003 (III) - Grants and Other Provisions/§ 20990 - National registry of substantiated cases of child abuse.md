@@ -8,7 +8,7 @@ The Secretary of Health and Human Services, in consultation with the Attorney Ge
 
 #### (1) Collection
 
-&emsp;The information in the registry described in subsection (a) shall be supplied by States andIndian tribes, or, at the option of a State, by political subdivisions of such State, to the Secretary of Health and Human Services.
+&emsp;The information in the registry described in subsection (a) shall be supplied by States and Indian tribes, or, at the option of a State, by political subdivisions of such State, to the Secretary of Health and Human Services.
 
 #### (2) Type of information
 

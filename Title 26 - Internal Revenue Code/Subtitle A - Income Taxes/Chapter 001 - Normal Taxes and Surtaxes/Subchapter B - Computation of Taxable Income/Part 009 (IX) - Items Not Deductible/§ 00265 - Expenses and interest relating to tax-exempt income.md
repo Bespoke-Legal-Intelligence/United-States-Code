@@ -6,7 +6,7 @@ No deduction shall be allowed for—
 
 #### (1) Expenses
 
-&emsp;Any amount otherwise allowable as a deduction which is allocable to one or more classesof income other than interest (whether or not any amount of income of that class or classes is received or accrued) wholly exempt from the taxes imposed by this subtitle, or any amount otherwise allowable under section 212 (relating to expenses for production of income) which is allocable to interest (whether or not any amount of such interest is received or accrued) wholly exempt from the taxes imposed by this subtitle.
+&emsp;Any amount otherwise allowable as a deduction which is allocable to one or more classes of income other than interest (whether or not any amount of income of that class or classes is received or accrued) wholly exempt from the taxes imposed by this subtitle, or any amount otherwise allowable under section 212 (relating to expenses for production of income) which is allocable to interest (whether or not any amount of such interest is received or accrued) wholly exempt from the taxes imposed by this subtitle.
 
 #### (2) Interest
 
@@ -124,7 +124,7 @@ No deduction shall be allowed for—
 
 #### (ii) Certain refundings of designated obligations deemed designated
 
-&emsp;&emsp;&emsp;Except as provided in clause (iii), in the case of a refunding (or series of refundings) of a qualified tax-exempt obligation, the refunding obligation shall be treated as a qualified tax-exempt obligation (and shall not be taken into account under clause (i)) if—
+&emsp;&emsp;&emsp;Except as provided in clause (iii), in the case of a refunding (or series of refundings)of a qualified tax-exempt obligation, the refunding obligation shall be treated as a qualified tax-exempt obligation (and shall not be taken into account under clause (i)) if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the refunding obligation was not taken into account under subparagraph (C) by reason of clause (ii)(III) thereof,
 
@@ -244,7 +244,7 @@ No deduction shall be allowed for—
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (b)(3)(B)(ii)(II), (C)(ii)(II), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
-Sections 1312, 1313, 1316(g), and 1317 of the Tax Reform Act of 1986, referred to in subsec. (b)(3)(C)(ii)(II), are sections 1312, 1313, 1316(g), and 1317 of Pub. L. 99–514,which are set out as a note under section 141 of this title.
+Sections 1312, 1313, 1316(g), and 1317 of the Tax Reform Act of 1986, referred to in subsec. (b)(3)(C)(ii)(II), are sections 1312, 1313, 1316(g), and 1317 of Pub. L. 99–514, which are set out as a note under section 141 of this title.
 
 Section 149(d)(5), referred to in subsec. (b)(3)(C)(ii)(III), was redesignated section 149(d)(2) by Pub. L. 115–97, title I, §13532(b)(1), Dec. 22, 2017, 131 Stat. 2154.
 
@@ -326,7 +326,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 144 of Pub. L. 99–514 applicable to taxable years beginning before, on, or after Dec. 31,1986, see section 151(e) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 144 of Pub. L. 99–514 applicable to taxable years beginning before, on, or after Dec. 31, 1986, see section 151(e) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Pub. L. 99–514, title IX, §902(f), Oct. 22, 1986, 100 Stat. 2382, as amended by Pub. L. 100–647, title I, §1009(b)(1), (2), (7), Nov. 10, 1988, 102 Stat. 3445, 3446, 3449, provided that:
 
@@ -394,7 +394,7 @@ Transitional rules.—For purposes of sections 265(b) and 291(e)(1)(B) of the In
 
 "(4)
 
-Additional transitional rule.—Obligations issued pursuant to an allocation of a State's volume limitation for private activity bonds, which allocation was made by Executive Order 25 signed by the Governor of the State on May 22, 1986 (as such order may be amended before January 1, 1987), and qualified 501(c)(3) bonds designated by such Governor for purposes of this paragraph, shall be treated as acquired on or before August 7, 1986, in the hands of the first and any subsequent financial institution acquiring such obligation. The aggregate face amount of obligations to which this paragraph applies shall not exceed $200,000,000."
+Additional transitional rule.—Obligations issued pursuant to an allocation of a State's volume limitation for private activity bonds, which allocation was made by Executive Order 25 signed by the Governor of the State on May 22, 1986 (as such order may be amended before January 1, 1987), and qualified 501(c)(3) bonds designated by such Governor for purposes of this paragraph, shall be treated as acquired on or before August7, 1986, in the hands of the first and any subsequent financial institution acquiring such obligation. The aggregate face amount of obligations to which this paragraph applies shall not exceed $200,000,000."
 
 #### Effective Date of 1984 Amendment
 

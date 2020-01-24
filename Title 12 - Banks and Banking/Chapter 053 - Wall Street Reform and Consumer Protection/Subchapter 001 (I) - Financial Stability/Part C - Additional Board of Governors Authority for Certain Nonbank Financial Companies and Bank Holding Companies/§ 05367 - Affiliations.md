@@ -36,7 +36,7 @@ Nothing in this part shall be construed to require a nonbank financial company s
 
 #### (A) In general
 
-&emsp;&emsp;In addition to any other authority of the Board of Governors, the Board of Governors may enforce compliance with the provisions of this subsection that are applicable to any company described in paragraph (1) that controls an intermediate holding company under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], and such company shall be subject to such section (solely for such purposes) in the same manner and to the same extent as if such company were a bank holding company.
+&emsp;&emsp;In addition to any other authority of the Board of Governors, the Board of Governors may enforce compliance with the provisions of this subsection that are applicable to anycompany described in paragraph (1) that controls an intermediate holding company under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], and such company shall be subject to such section (solely for such purposes) in the same manner and to the same extent as if such company were a bank holding company.
 
 #### (B) Application of other Act
 
@@ -52,7 +52,7 @@ The Board of Governors—
 
 &emsp;(1) shall promulgate regulations to establish the criteria for determining whether to require a nonbank financial company supervised by the Board of Governors to establish an intermediate holding company under subsection (b); and
 
-&emsp;(2) may promulgate regulations to establish any restrictions or limitations on transactions between an intermediate holding company or a nonbank financial company supervised by the Board of Governors and its affiliates, as necessary to prevent unsafe and unsound practices in connection with transactions between such company, or any subsidiary thereof, and its parent company or affiliates that are not subsidiaries of such company, except that such regulations shall not restrict or limit anytransaction in connection with the bona fide acquisition or lease by an unaffiliated person of assets, goods, or services.
+&emsp;(2) may promulgate regulations to establish any restrictions or limitations on transactions between an intermediate holding company or a nonbank financial company supervised by the Board of Governors and its affiliates, as necessary to prevent unsafe and unsound practices in connection with transactions between such company, or any subsidiary thereof, and its parent company or affiliates that are not subsidiaries of such company, except that such regulations shall not restrict or limit any transaction in connection with the bona fide acquisition or lease by an unaffiliated person of assets, goods, or services.
 
 (Pub. L. 111–203, title I, §167, July 21, 2010, 124 Stat. 1432.)
 

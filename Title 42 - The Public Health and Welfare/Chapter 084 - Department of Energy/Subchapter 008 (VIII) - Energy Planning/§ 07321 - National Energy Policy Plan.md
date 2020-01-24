@@ -18,7 +18,7 @@ The President shall—
 
 Not later than April 1, 1979, and biennially thereafter, the President shall transmit to the Congress the proposed Plan. Such proposed Plan shall—
 
-&emsp;(1) consider and establish energy production, utilization, and conservation objectives, for periods of five and ten years, necessary to satisfy projected energy needs of the United States to meet the requirements of the general welfare of the people of the United States and the commercial and industrial life of the Nation, paying particular attention to the needs for full employment, price stability, energy security, economic growth, environmental protection, nuclear non-proliferation, special regional needs, and the efficient utilization of public and private resources;
+&emsp;(1) consider and establish energy production, utilization, and conservation objectives, for periods of five and ten years, necessary to satisfy projected energy needs of the United States to meet the requirements of the general welfare of the people of the United Statesand the commercial and industrial life of the Nation, paying particular attention to the needs for full employment, price stability, energy security, economic growth, environmental protection, nuclear non-proliferation, special regional needs, and the efficient utilization of public and private resources;
 
 &emsp;(2) identify the strategies that should be followed and the resources that should be committed to achieve such objectives, forecasting the level of production and investment necessary in each of the significant energy supply sectors and the level of conservation and investment necessary in each consuming sector, and outlining the appropriate policies and actions of the Federal Government that will maximize the private production and investment necessary in each of the significant energy supply sectors consistent with applicable Federal, State, and local environmental laws, standards, and requirements; and
 
@@ -36,7 +36,7 @@ The President shall submit to the Congress with the proposed Plan a report which
 
 &emsp;(4) a summary of research and development efforts funded by the Federal Government to forestall energy shortages, to reduce waste, to foster recycling, to encourage conservation practices, and to otherwise protect environmental quality, including recommendations for developing technologies to accomplish such purposes; and
 
-&emsp;(5) a review and appraisal of the adequacy and appropriateness of technologies, procedures, and practices (including competitive and regulatory practices) employed by Federal, State, and local governments andnongovernmental entities to achieve the purposes of the Plan.
+&emsp;(5) a review and appraisal of the adequacy and appropriateness of technologies, procedures, and practices (including competitive and regulatory practices) employed by Federal, State, and local governments and nongovernmental entities to achieve the purposes of the Plan.
 
 #### (d) Consultation with consumers, small businesses, etc.
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;Such initial evaluation shall consist of procedures—
 
-&emsp;&emsp;&emsp;&emsp;(I) to determine whether a child is a child with a disability (as defined in 1401 of this title) within 60 days of receiving parental consent for the evaluation, or, if the State establishes a timeframe within which the evaluation must be conducted, within such timeframe; and
+&emsp;&emsp;&emsp;&emsp;(I) to determine whether a child is a child with a disability (as defined in 1401of this title) within 60 days of receiving parental consent for the evaluation, or, if the State establishes a timeframe within which the evaluation must be conducted, within such timeframe; and
 
 &emsp;&emsp;&emsp;&emsp;(II) to determine the educational needs of such child.
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;(C) assessment tools and strategies that provide relevant information that directly assists persons in determining the educational needs of the child are provided; and
 
-&emsp;&emsp;(D) assessments of children with disabilities who transfer from 1 school district to another school district in the same academic year are coordinated with such children's prior and subsequent schools, as necessaryand as expeditiously as possible, to ensure prompt completion of full evaluations.
+&emsp;&emsp;(D) assessments of children with disabilities who transfer from 1 school district to another school district in the same academic year are coordinated with such children's prior and subsequent schools, as necessary and as expeditiously as possible, to ensure prompt completion of full evaluations.
 
 #### (4) Determination of eligibility and educational need
 
@@ -320,7 +320,7 @@
 
 #### (i) Attendance not necessary
 
-&emsp;&emsp;&emsp;A member of the IEP Team shall not be required to attend an IEP meeting, in whole or in part, if the parent of a child with a disability and the local educational agency agree that the attendance of such member is not necessary because the member's area of the curriculum or related services is not being modified or discussed in the meeting.
+&emsp;&emsp;&emsp;A member of the IEP Team shall not be required to attend an IEP meeting, in whole or in part, if the parent of a child with a disability and the local educational agency agree that the attendance of suchmember is not necessary because the member's area of the curriculum or related services is not being modified or discussed in the meeting.
 
 #### (ii) Excusal
 
@@ -362,7 +362,7 @@
 
 #### (II) Transfer outside State
 
-&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in another State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to thosedescribed in the previously held IEP, in consultation with the parents until such time as the local educational agency conducts an evaluation pursuant to subsection (a)(1), if determined to be necessary by such agency, and develops a new IEP, if appropriate, that is consistent with Federal and State law.
+&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in another State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency conducts an evaluation pursuant to subsection (a)(1), if determined to be necessary by such agency, and develops a new IEP, if appropriate, that is consistent with Federal and State law.
 
 #### (ii) Transmittal of records
 
@@ -394,7 +394,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of a child with limited English proficiency, consider the language needs of the child as such needs relate to the child's IEP;
 
-&emsp;&emsp;&emsp;(iii) in the case of a child who is blind or visually impaired, provide for instruction in Braille and the use of Braille unless the IEP Team determines, after an evaluation of the child's reading and writing skills, needs, and appropriate reading and writing media (including an evaluation of the child's future needs for instruction in Braille or the use of Braille), that instruction in Braille or the use of Braille is not appropriate for the child;
+&emsp;&emsp;&emsp;(iii) in the case of a child who is blind or visually impaired, provide for instruction in Braille and the use of Braille unless theIEP Team determines, after an evaluation of the child's reading and writing skills, needs, and appropriate reading and writing media (including an evaluation of the child's future needs for instruction in Braille or the use of Braille), that instruction in Braille or the use of Braille is not appropriate for the child;
 
 &emsp;&emsp;&emsp;(iv) consider the communication needs of the child, and in the case of a child who is deaf or hard of hearing, consider the child's language and communication needs, opportunities for direct communications with peers and professional personnel in the child's language and communication mode, academic level, and full range of needs, including opportunities for direct instruction in the child's language and communication mode; and
 
@@ -514,7 +514,7 @@
 
 &emsp;&emsp;The following requirements shall not apply to children with disabilities who are convicted as adults under State law and incarcerated in adult prisons:
 
-&emsp;&emsp;&emsp;(i) The requirements contained in section 1412(a)(16) of this title and paragraph\(1)(A)(i)(VI) (relating to participation of children with disabilities in general assessments).
+&emsp;&emsp;&emsp;(i) The requirements contained in section 1412(a)(16) of this title and paragraph (1)(A)(i)(VI) (relating to participation of children with disabilities in general assessments).
 
 &emsp;&emsp;&emsp;(ii) The requirements of items (aa) and (bb) of paragraph (1)(A)(i)(VIII) (relating to transition planning and transition services), do not apply with respect to such children whose eligibility under this subchapter will end, because of such children's age, before such children will be released from prison.
 
@@ -547,6 +547,10 @@ A prior section 1414a, Pub. L. 91–230, title VI, §614A, as added Pub. L. 103�
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(5)(A). Pub. L. 114–95 inserted ", as such section was in effect on the day before December 10, 2015" after "of this title".
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 

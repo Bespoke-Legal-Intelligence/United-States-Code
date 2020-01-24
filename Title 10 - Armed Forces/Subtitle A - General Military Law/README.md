@@ -13,19 +13,19 @@
 | [<b>7.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20007%20-%20Boards%2C%20Councils%2C%20and%20Committees/README.md) | <b>Boards, Councils, and Committees</b> | <b>171</b> |
 | [<b>8.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20008%20-%20Defense%20Agencies%20and%20Department%20of%20Defense%20Field%20Activities/README.md) | <b>Defense Agencies and Department of Defense Field Activities</b> | <b>191</b> |
 | [<b>9.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20009%20-%20Defense%20Budget%20Matters/README.md) | <b>Defense Budget Matters</b> | <b>221</b> |
-| [<b>9A.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20009A%20-%20Audit/README.md) | <b>Audit</b> | <b>251 </b><b><sup>1</sup></b> |
+| [<b>9A.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20009A%20-%20Audit/README.md) | <b>Audit</b> | <b>240a</b> |
+| [<b>11.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20011%20-%20Reserve%20Components/README.md) | <b>Reserve Components</b> | <b>261</b> |
+| [<b>12.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20012%20-%20The%20Militia/README.md) | <b>The Militia</b> | <b>246</b> |
+| [<b>13.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20013%20-%20Insurrection/README.md) | <b>Insurrection</b> | <b>251</b> |
+| [<b>14.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20014%20-%20Arming%20of%20American%20Vessels/README.md) | <b>Arming of American Vessels</b> | <b>261</b> |
+| [<b>15.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20015%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>271</b> |
+| [<b>16.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20016%20-%20Security%20Cooperation/README.md) | <b>Security Cooperation</b> | <b>301</b> |
+| [<b>19.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20019%20-%20Cyber%20and%20Information%20Operations%20Matters/README.md) | <b>Cyber Matters </b><b><sup>1</sup></b> | <b>391</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>11.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20011%20-%20Reserve%20Components/README.md) | <b>Reserve Components</b> | <b>261</b> |
-| [<b>12.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20012%20-%20The%20Militia/README.md) | <b>The Militia</b> | <b>246</b> |
-| [<b>13.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20013%20-%20Insurrection/README.md) | <b>Insurrection</b> | <b>251 </b><b><sup>1</sup></b> |
-| [<b>14.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20014%20-%20Arming%20of%20American%20Vessels/README.md) | <b>Arming of American Vessels</b> | <b>261</b> |
-| [<b>15.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20015%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>271</b> |
-| [<b>16.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20016%20-%20Security%20Cooperation/README.md) | <b>Security Cooperation</b> | <b>301</b> |
-| [<b>19.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20019%20-%20Cyber%20Matters/README.md) | <b>Cyber Matters</b> | <b>391</b> |
 | [<b>20.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
 | [<b>21.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md) | <b>Department of Defense Intelligence Matters</b> | <b>421</b> |
 | [<b>22.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20022%20-%20National%20Geospatial-Intelligence%20Agency/README.md) | <b>National Geospatial  -  Intelligence Agency</b> | <b>441</b> |
@@ -104,11 +104,17 @@
 | [<b>109.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20109%20-%20Educational%20Loan%20Repayment%20Programs/README.md) | <b>Educational Loan Repayment Programs</b> | <b>2171</b> |
 | [<b>110.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20110%20-%20Educational%20Assistance%20for%20Members%20Held%20as%20Captives%20and%20Their%20Dependents/README.md) | <b>Educational Assistance for Members Held as Captives and Their Dependents</b> | <b>2181</b> |
 | [<b>111.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20111%20-%20Support%20of%20Science%2C%20Mathematics%2C%20and%20Engineering%20Education/README.md) | <b>Support of Science, Mathematics, and Engineering Education</b> | <b>2191</b> |
-| [<b>112.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20112%20-%20Cyber%20Scholarship%20Program/README.md) | <b>Information Security Scholarship Program </b><b><sup>2</sup></b> | <b>2200</b> |
+| [<b>112.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20112%20-%20Cyber%20Scholarship%20Program/README.md) | <b>Cyber Scholarship Program</b> | <b>2200</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### <b>PART IV—SERVICE, SUPPLY, AND PROCUREMENT</b>
+
+|  |  |  |
+| :--- | :---: | ---: |
+| <b>\[113.</b><b><sup>2</sup></b> | <b>Defense Civilian Training Corps</b> | <b>2200g\]</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |  |
 | :--- | :---: | ---: |
@@ -120,7 +126,12 @@
 | [<b>137.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20137%20-%20Procurement%20Generally/README.md) | <b>Procurement Generally</b> | <b>2301</b> |
 | [<b>138.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20138%20-%20Cooperative%20Agreements%20with%20NATO%20Allies%20and%20Other%20Countries/README.md) | <b>Cooperative Agreements with NATO Allies and Other Countries</b> | <b>2341</b> |
 | [<b>139.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20139%20-%20Research%20and%20Development/README.md) | <b>Research and Development</b> | <b>2351</b> |
-| [<b>140.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20140%20-%20Procurement%20of%20Commercial%20Items/README.md) | <b>Procurement of Commercial Items</b> | <b>2375</b> |
+| [<b>140.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20140%20-%20Procurement%20of%20Commercial%20Products%20and%20Commercial%20Services/README.md) | <b>Procurement of Commercial Products and Commercial Services</b> | <b>2377 </b><b><sup>3</sup></b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>141.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20141%20-%20Miscellaneous%20Procurement%20Provisions/README.md) | <b>Miscellaneous Procurement Provisions</b> | <b>2381</b> |
 | [<b>142.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20142%20-%20Procurement%20Technical%20Assistance%20Cooperative%20Agreement%20Program/README.md) | <b>Procurement Technical Assistance Cooperative Agreement Program</b> | <b>2411</b> |
 | [<b>143.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20143%20-%20Production%20by%20Military%20Agencies/README.md) | <b>Production by Military Agencies</b> | <b>2421</b> |
@@ -257,11 +268,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(e)(12), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this analysis is amended by amending item for chapter 140 to read "Procurement of Commercial Products and Commercial Services" and by substituting "2377" for "2375". See 2018 Amendment note below.</i>
-
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title XVII, §1731(a)(1), (2), Dec. 20, 2019, 133 Stat. 1812, substituted "240a" for "251" in item for chapter 9A and "Cyber Scholarship Program" for "Information Security Scholarship Program" in item for chapter 112.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §§801(b), 836(e)(12), Aug. 13, 2018, 132 Stat. 1831, 1870, substituted "Procurement of Commercial Products and Commercial Services" for "Procurement of Commercial Items" and "2377" for "2375" in item for chapter 140 and added item for part V containing items for subparts A to I and chapters 201 to 385.
 
@@ -389,9 +398,11 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 
 <b>1958</b>—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted "General Service Requirements" for "Service Requirements for Reserves" in item for chapter 37, "971" for "\[No present sections\]" in item for chapter 49, "Medical and Dental Care" for "Voting by Members of Armed Forces" in item for chapter 55, and struck out "Care of the Dead" and substituted "1475" for "1481" in item for chapter 75.
 
-<i><sup>1</sup></i><i> So in original. Chapters 9A and 13 both begin with a section 251. Section 251 in chapter 9A was renumbered by Pub. L. 115–232 without corresponding amendment of subtitle analysis.</i>
+<i><sup>1</sup></i><i> Chapter heading amended by Pub. L. 116–92 without corresponding amendment of subtitle analysis.</i>
 
-<i><sup>2</sup></i><i> Chapter heading amended by Pub. L. 115–91 without corresponding amendment of subtitle analysis.</i>
+<i><sup>2</sup></i><i> Chapter added by Pub. L. 116–92 without corresponding amendment of subtitle analysis.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "2375".</i>
 
 
 ---

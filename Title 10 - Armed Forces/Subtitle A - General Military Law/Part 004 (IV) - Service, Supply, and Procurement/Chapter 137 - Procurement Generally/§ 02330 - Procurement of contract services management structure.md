@@ -4,9 +4,9 @@
 
 Requirement for Management Structure.—The Secretary of Defense shall establish and implement a management structure for the procurement of contract services for the Department of Defense. The management structure shall provide, at a minimum, for the following:
 
-&emsp;(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
+&emsp;(1) The Under Secretary of Defense for Acquisition and Sustainment shall—
 
-&emsp;&emsp;(A) develop and maintain (in consultation with the service acquisition executives) policies, procedures, and best practices guidelines addressing the procurement of contract services, including policies, procedures, and best practices guidelines for—
+&emsp;&emsp;(A) develop and maintain (in consultation with the service acquisition executives) policies, procedures, and best practices guidelines addressing the procurement of contractservices, including policies, procedures, and best practices guidelines for—
 
 &emsp;&emsp;&emsp;(i) acquisition planning;
 
@@ -34,17 +34,17 @@ Requirement for Management Structure.—The Secretary of Defense shall establish
 
 &emsp;(2) The service acquisition executive of each military department shall be the senior official responsible for the management of acquisition of contract services for or on behalf of the military department.
 
-&emsp;(3) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be the senior official responsible for the management of acquisition of contract services for or on behalf of the Defense Agencies and other components of the Department of Defense outside the military departments.
+&emsp;(3) The Under Secretary of Defense for Acquisition and Sustainment shall be the senior official responsible for the management of acquisition of contract services for or on behalf of the Defense Agencies and other components of the Department of Defense outside the military departments.
 
 (b)
 
 Duties and Responsibilities of Senior Officials Responsible for the Management of Acquisition of Contract Services.—(1) Except as provided in paragraph (2), the senior officials responsible for the management of acquisition of contract services shall assign responsibility for the review and approval of procurements in each contract services acquisition category established under subsection (a)(1)(C) to specific Department of Defense officials, subject to the direction, supervision, and oversight of such senior officials.
 
-(2) With respect to the acquisition of contract services by a component or command of the Department of Defense the primary mission ofwhich is the acquisition of products and services, such acquisition shall be conducted in accordance with policies, procedures, and best practices guidelines developed and maintained by the Under Secretary of Defense for Acquisition, Technology, and Logistics pursuant to subsection (a)(1), subject to oversight by the senior officials referred to in paragraph (1).
+(2) With respect to the acquisition of contract services by a component or command of the Department of Defense the primary mission of which is the acquisition of products and services, such acquisition shall be conducted in accordance with policies, procedures, and best practices guidelines developed and maintained by the Under Secretary of Defense for Acquisition and Sustainment pursuant to subsection (a)(1), subject to oversight by the senior officials referred to in paragraph (1).
 
 (3) In carrying out paragraph (1), each senior official responsible for the management of acquisition of contract services shall—
 
-&emsp;(A) implement the requirements of this section and the policies, procedures, and best practices guidelines developed by the Under Secretary of Defense for Acquisition, Technology, and Logistics pursuant to subsection (a)(1)(A);
+&emsp;(A) implement the requirements of this section and the policies, procedures, and best practices guidelines developed by the Under Secretary of Defense for Acquisition and Sustainment pursuant to subsection (a)(1)(A);
 
 &emsp;(B) authorize the procurement of contract services through contracts entered into by agencies outside the Department of Defense in appropriate circumstances, in accordance with the requirements of section 854 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (10 U.S.C. 2304 note), section 814 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (31 U.S.C. 1535 note), and the regulations implementing such sections;
 
@@ -68,13 +68,13 @@ Definitions.—In this section:
 
 &emsp;(2) The term "contract services" includes all services acquired from private sector entities by or for the Department of Defense, including services in support of contingency operations. The term does not include services relating to research and development or military construction.
 
-(Added Pub. L. 107–107, div. A, title VIII, §801(b)(1), Dec. 28, 2001, 115 Stat. 1174; amended Pub. L. 107–314, div. A, title X, §1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, §812(a)(1), Jan. 6, 2006, 119 Stat. 3376; Pub. L. 112–239, div. A, title VIII, §845(d), Jan. 2, 2013, 126 Stat. 1848.)
+(Added Pub. L. 107–107, div. A, title VIII, §801(b)(1), Dec. 28, 2001, 115 Stat. 1174; amended Pub. L. 107–314, div. A, title X, §1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, §812(a)(1), Jan. 6, 2006, 119 Stat. 3376; Pub. L. 112–239, div. A, title VIII, §845(d), Jan. 2, 2013, 126 Stat. 1848; Pub. L. 116–92, div. A, title IX, §902(51), Dec. 20, 2019, 133 Stat. 1548.)
 
 #### References in Text
 
 Section 854 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (b)(3)(B), is section 854 of div. A of Pub. L. 108–375, which is set out as a note under section 2304 of this title.
 
-Section 814 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(3)(B), is section 814 of div. A of Pub. L. 105–261, which was formerly set out as a note under section 1535 of Title 31, Money and Finance.
+Section 814 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, referred to insubsec. (b)(3)(B), is section 814 of div. A of Pub. L. 105–261, which was formerly set out as a note under section 1535 of Title 31, Money and Finance.
 
 #### Prior Provisions
 
@@ -83,6 +83,8 @@ A prior section 2330, added Pub. L. 100–456, div. A, title VIII, §801(a)(1), 
 Another prior section 2330 was renumbered section 2349 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsecs. (a)(1), (3), (b)(2), (3)(A). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
 <b>2013</b>—Subsec. (c)(2). Pub. L. 112–239 substituted "including services in support of contingency operations. The term does not include services relating to research and development or military construction." for "other than services relating to research and development or military construction."
 
@@ -104,7 +106,7 @@ Review of Services Acquisition Categories.—Not later than 180 days after the d
 
 #### Examination and Guidance Relating to Oversight and Approval of Services Contracts
 
-Pub. L. 114–92, div. A, title VIII, §882, Nov. 25, 2015, 129 Stat. 942, provided that: "Not later than March 1, 2016, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
+Pub. L. 114–92, div. A, title VIII, §882, Nov. 25, 2015, 129 Stat. 942, as amended by Pub. L. 116–92, div. A, title IX, §902(52), Dec. 20, 2019, 133 Stat. 1549, provided that: "Not later than March 1, 2016, the Under Secretary of Defense for Acquisition and Sustainment shall—
 
 &emsp;"(1) complete an examination of the decision authority related to acquisition of services; and
 
@@ -186,13 +188,13 @@ Applicability of Commercial Procedures.—
 
 &emsp;"(1)
 
-Services of a type sold in marketplace.—The regulations modified pursuant to subsection (a) shall ensure that services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, may be treated as commercial items for purposes of section 2306a of title 10, United States Code (relating to truth in negotiations), only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such services.
+Services of a type sold in marketplace.—The regulations modified pursuant to subsection (a) shall ensure that services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, may be treated as commercial services for purposes of section 2306a of title 10, United States Code (relating to truth in negotiations), only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such services.
 
 &emsp;"(2)
 
 Information submitted.—To the extent necessary to make a determination under paragraph (1), the contracting officer may request the offeror to submit—
 
-&emsp;&emsp;"(A) prices paid for the same or similar commercial items under comparable terms and conditions by both government and commercial customers; and
+&emsp;&emsp;"(A) prices paid for the same or similar commercial services under comparable terms and conditions by both government and commercial customers; and
 
 &emsp;&emsp;"(B) if the contracting officer determines that the information described in subparagraph (A) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
 
@@ -202,15 +204,15 @@ Time-and-Materials Contracts.—
 
 &emsp;"(1)
 
-Commercial item acquisitions.—The regulations modified pursuant to subsection (a) shall ensure that procedures applicable to time-and-materials contracts and labor-hour contracts for commercial item acquisitions may be used only for the following:
+Commercial services acquisitions.—The regulations modified pursuant to subsection (a) shall ensure that procedures applicable to time-and-materials contracts and labor-hour contracts for commercial service acquisitions may be used only for the following:
 
-&emsp;&emsp;"(A) Services procured for support of a commercial item, as described in section 103(5) of title 41, United States Code.
+&emsp;&emsp;"(A) Services procured for support of a service, as described in section 103a(1) of title 41, United States Code.
 
 &emsp;&emsp;"(B) Emergency repair services.
 
 &emsp;&emsp;"(C) Any other commercial services only to the extent that the head of the agency concerned approves a determination in writing by the contracting officer that—
 
-&emsp;&emsp;&emsp;"(i) the services to be acquired are commercial services as defined in section 103(6) of title 41, United States Code;
+&emsp;&emsp;&emsp;"(i) the services to be acquired are commercial services as defined in section 103a(2) of title 41, United States Code;
 
 &emsp;&emsp;&emsp;"(ii) if the services to be acquired are subject to subsection (b), the offeror of the services has submitted sufficient information in accordance with that subsection;
 
@@ -220,23 +222,7 @@ Commercial item acquisitions.—The regulations modified pursuant to subsection 
 
 &emsp;"(2)
 
-Non-commercial item acquisitions.—Nothing in this subsection shall be construed to preclude the use of procedures applicable to time-and-materials contracts and labor-hour contracts for non-commercial item acquisitions for the acquisition of any category of services."
-
-<i>\[Pub. L. 115–232, div. A, title VIII, §836(f)(6), (h), Aug. 13, 2018, 132 Stat. 1871, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 805 of Pub. L. 110–181, set out above, is amended:</i>
-
-&emsp;<i>\[(1) in subsection (b)(1) and (2)(A), by striking "commercial items" and inserting "commercial services"; and</i>
-
-&emsp;<i>\[(2) in subsection (c)—</i>
-
-&emsp;&emsp;<i>\[(A) in headings for paragraphs (1) and (2), by striking "item" and inserting "services";</i>
-
-&emsp;&emsp;<i>\[(B) in the matter in paragraph (1) preceding subparagraph (A), by striking "commercial item" and inserting "commercial service";</i>
-
-&emsp;&emsp;<i>\[(C) in paragraph (1)(A), by striking "a commercial item, as described in section 103(5) of title 41" and inserting "a service, as described in section 103a(1) of title 41";</i>
-
-&emsp;&emsp;<i>\[(D) in paragraph (1)(C)(i), by striking "section 103(6) of title 41" and inserting "section 103a(2) of title 41"; and</i>
-
-&emsp;&emsp;<i>\[(E) in paragraph (2), by striking "item" and inserting "service".\]</i>
+Non-commercial services acquisitions.—Nothing in this subsection shall be construed to preclude the use of procedures applicable to time-and-materials contracts and labor-hour contracts for non-commercial service acquisitions for the acquisition of any category of services."
 
 #### Independent Management Reviews of Contracts for Services
 

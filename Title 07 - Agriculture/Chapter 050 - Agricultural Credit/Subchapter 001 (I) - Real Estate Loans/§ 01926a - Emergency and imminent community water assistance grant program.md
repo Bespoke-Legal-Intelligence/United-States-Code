@@ -146,7 +146,7 @@ Subsec. (i)(1)(A). Pub. L. 115–334, §6407(a)(5)(A)(i), substituted "5 percent
 
 Subsec. (i)(1)(B). Pub. L. 115–334, §6407(a)(5)(A)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "Funds reserved under subparagraph (A) for a fiscal year shall be reserved only until July 1 of the fiscal year."
 
-Subsec. (i)(2). Pub. L. 115–334, §6407(a)(5)(B), substituted "$50,000,000 for each of fiscal years 2019 through2023" for "$35,000,000 for each of fiscal years 2008 through 2018".
+Subsec. (i)(2). Pub. L. 115–334, §6407(a)(5)(B), substituted "$50,000,000 for each of fiscal years 2019 through 2023" for "$35,000,000 for each of fiscal years 2008 through 2018".
 
 <b>2014</b>—Subsec. (i)(2). Pub. L. 113–79 substituted "2018" for "2012".
 

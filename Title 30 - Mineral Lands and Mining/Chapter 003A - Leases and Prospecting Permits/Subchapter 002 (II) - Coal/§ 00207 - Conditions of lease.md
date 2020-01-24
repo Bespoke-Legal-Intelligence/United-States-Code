@@ -34,7 +34,7 @@ A coal lease shall be for a term of twenty years and for so long thereafter as c
 
 Prior to taking any action on a leasehold which might cause a significant disturbance of the environment, the lessee shall submit for the Secretary's approval an operation and reclamation plan. The Secretary shall approve or disapprove the plan or require that it be modified. Where the land involved is under the surface jurisdiction of another Federal agency, that other agency must consent to the terms of such approval.
 
-(Feb. 25, 1920, ch. 85, §7, 41 Stat. 439; Pub. L. 94–377, §6, Aug. 4, 1976, 90 Stat. 1087; Pub. L. 109–58, title IV, §§434, 435, Aug. 8, 2005, 119 Stat. 761, 762.)
+(Feb. 25, 1920, ch. 85, §7, 41 Stat. 439; Pub. L. 94–377, §6, Aug. 4, 1976, 90 Stat. 1087; Pub. L.109–58, title IV, §§434, 435, Aug. 8, 2005, 119 Stat. 761, 762.)
 
 #### Amendments
 

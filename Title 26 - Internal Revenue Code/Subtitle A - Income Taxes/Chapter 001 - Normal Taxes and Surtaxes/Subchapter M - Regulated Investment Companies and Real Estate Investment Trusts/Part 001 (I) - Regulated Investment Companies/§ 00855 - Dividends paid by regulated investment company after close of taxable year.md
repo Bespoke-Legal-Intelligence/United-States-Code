@@ -76,7 +76,7 @@ Amendment by section 655(a)(5) of Pub. L. 99–514 applicable to taxable years b
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable to taxable years of regulated investment companies ending on orafter Feb. 26, 1964, see section 229(c) of Pub. L. 88–272, set out as a note under section 852 of this title.
+Amendment by Pub. L. 88–272 applicable to taxable years of regulated investment companies ending on or after Feb. 26, 1964, see section 229(c) of Pub. L. 88–272, set out as a note under section 852 of this title.
 
 #### Effective Date of 1960 Amendment
 

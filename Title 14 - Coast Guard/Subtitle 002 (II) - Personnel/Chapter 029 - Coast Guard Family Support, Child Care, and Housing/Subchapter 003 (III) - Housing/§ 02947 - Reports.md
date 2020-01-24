@@ -14,9 +14,9 @@ The Secretary shall prepare and submit to Congress, concurrent with the budget s
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Final Report
 
-Pub. L. 104–324, title II, §208(b), Oct. 19, 1996, 110 Stat. 3913, provided that: "Not later than March 1, 2000, the Secretary of the department in which the Coast Guard is operating shall submit to the Congress a report on the use by the Secretary of the authorities provided by \[former\] chapter 18 of title 14, United States Code, as added by subsection (a). The report shall assess the effectiveness of such authority in providing for the construction and improvement of military family housing and military unaccompanied housing."
+Pub. L. 104–324, title II, §208(b), Oct. 19, 1996, 110 Stat. 3913, provided that by March 1, 2000, the Secretary of the department in which the Coast Guard was operating was to submit to Congress a report on the use by the Secretary of the authorities provided by former chapter 18 of this title.
 

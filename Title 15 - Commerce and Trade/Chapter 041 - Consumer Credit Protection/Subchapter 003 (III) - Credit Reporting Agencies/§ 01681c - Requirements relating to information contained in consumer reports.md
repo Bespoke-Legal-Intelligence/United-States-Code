@@ -20,6 +20,10 @@ Except as authorized under subsection (b), no consumer reporting agency may make
 
 &emsp;(B) the report is being provided to an insurance company for a purpose relating to engaging in the business of insurance other than property and casualty insurance.
 
+(7) With respect to a consumer reporting agency described in section 1681a(p) of this title, any information related to a veteran's medical debt if the date on which the hospital care, medical services, or extended care services was rendered relating to the debt antedates the report by less than 1 year if the consumer reporting agency has actual knowledge that the information is related to a veteran's medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.
+
+(8) With respect to a consumer reporting agency described in section 1681a(p) of this title, any information related to a fully paid or settled veteran's medical debt that had been characterized as delinquent, charged off, or in collection if the consumer reporting agency has actual knowledge that the information is related to a veteran's medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.
+
 #### (b) Exempted cases
 
 The provisions of paragraphs (1) through (5) of subsection (a) are not applicable in the case of any consumer credit report to be used in connection with—
@@ -38,7 +42,7 @@ The provisions of paragraphs (1) through (5) of subsection (a) are not applicabl
 
 #### (2) Effective date
 
-&emsp;Paragraph (1) shall apply only to items of information added to the file of a consumer on or after the date that is 455 days after September 30, 1996.
+&emsp;Paragraph (1) shall apply only to items of information added to the file of a consumer onor after the date that is 455 days after September 30, 1996.
 
 #### (d) Information required to be disclosed
 
@@ -96,21 +100,13 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 &emsp;&emsp;&emsp;(ii) if the user establishes a continuing relationship with the consumer, and the user regularly and in the ordinary course of business furnishes information to the consumer reporting agency from which the notice of discrepancy pertaining to the consumer was obtained, to reconcile the address of the consumer with the consumer reporting agency by furnishing such address to such consumer reporting agency as part of information regularly furnished by the user for the period in which the relationship is established.
 
-(Pub. L. 90–321, title VI, §605, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 95–598, title III, §312(b), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 104–208, div. A, title II, §2406(a)–(e)(1), Sept. 30, 1996, 110 Stat. 3009–434, 3009–435; Pub. L. 105–347, §5, Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §113, title II, §212(d), title III, §315, title IV, §412(b), (c), title VIII, §811(c)(1), (2)(A), Dec. 4, 2003, 117 Stat. 1959, 1977, 1996, 2002, 2011; Pub. L. 111–203, title X, §1088(a)(2)(D), (5), July 21, 2010, 124 Stat. 2087; Pub. L. 115–174, title III, §302(b)(2), May 24, 2018, 132 Stat. 1333.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 115–174, title III, §302(b)(2), (e), May 24, 2018, 132 Stat. 1333, 1335, provided that, effective 1 year after May 24, 2018, subsection (a) of this section is amended by adding at the end the following new paragraphs:</i>
-
-<i>(7) With respect to a consumer reporting agency described in section 1681a(p) of this title, any infor</i><i>mation related to a veteran's medical debt if the date on which the hospital care, medical services, or extended care services was rendered relating to the debt antedates the report by less than 1 year if the consumer reporting agency has actual knowledge that the information is related to a veteran's medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.</i>
-
-<i>(8) With respect to a consumer reporting agency described in section 1681a(p) of this title, any information related to a fully paid or settled veteran's medical debt that had been characterized as delinquent, charged off, or in collection if the consumer reporting agency has actual knowledge that the information is related to a veteran's medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.</i>
-
-<i>See 2018 Amendment note below.</i>
+(Pub. L. 90–321, title VI, §605, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 95–598, title III, §312(b), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 104–208, div. A, title II, §2406(a)–(e)(1), Sept. 30, 1996, 110 Stat. 3009–434,3009–435; Pub. L. 105–347, §5, Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §113, title II, §212(d), title III, §315, title IV, §412(b), (c), title VIII, §811(c)(1), (2)(A), Dec. 4, 2003, 117 Stat. 1959, 1977, 1996, 2002, 2011; Pub. L. 111–203, title X, §1088(a)(2)(D), (5), July 21, 2010, 124 Stat. 2087; Pub. L. 115–174, title III, §302(b)(2), May 24, 2018, 132 Stat. 1333.)
 
 #### References in Text
 
 The Bankruptcy Act, referred to in subsec. (a)(1), was act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified to section 1 et seq. of former Title 11, Bankruptcy, prior to its repeal by Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549, section 101 of which enacted revised Title 11.
+
+Section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act, referred to in subsec. (a)(7), (8), is section 302(c)(5) of Pub. L. 115–174, which is set out as a note below.
 
 #### Amendments
 

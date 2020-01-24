@@ -38,7 +38,7 @@ A group health plan, and a health insurance issuer providing health insurance co
 
 #### (d) No change in benefits
 
-A dependent child whose benefits are continued under this section shall be entitled to the same benefits as if (during the medically necessary leave of absence) the child continued to be a covered student at the institution of higher education and was not on a medically necessary leave of absence.
+A dependent child whose benefits are continued under this section shall be entitled to thesame benefits as if (during the medically necessary leave of absence) the child continued to be a covered student at the institution of higher education and was not on a medically necessary leave of absence.
 
 #### (e) Continued application in case of changed coverage
 

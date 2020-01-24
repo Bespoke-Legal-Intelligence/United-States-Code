@@ -8,7 +8,7 @@ The Federal Trade Commission shall be authorized to enforce compliance with this
 
 Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance with any requirements imposed under this subchapter shall be enforced under—
 
-&emsp;(1) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the appropriate Federal banking agency, as defined in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with respect to—
+&emsp;(1) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the appropriateFederal banking agency, as defined in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with respect to—
 
 &emsp;&emsp;(A) national banks, Federal savings associations, and Federal branches and Federal agencies of foreign banks;
 
@@ -56,11 +56,11 @@ In subsec. (b)(3), "subtitle IV of title 49" substituted for "the Acts to regula
 
 In subsec. (b)(4), "part A of subtitle VII of title 49" substituted for "the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301 et seq.\]" and "that part" substituted for "that Act" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
-Section 1089(4) of Pub. L. 111–203, which directed amendment "in subsection (d)" of the Fair Debt Collection Practices Act, was executed in subsec. (d) of this section, which is section 814 of the Act, to reflect theprobable intent of Congress. See 2010 Amendment note below.
+Section 1089(4) of Pub. L. 111–203, which directed amendment "in subsection (d)" of the Fair Debt Collection Practices Act, was executed in subsec. (d) of this section, which is section 814 of the Act, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1089(3)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "Compliance with this subchapter shall be enforced by the Commission, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another agency under subsection (b) of this section. For purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act, a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule."
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1089(3)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "Compliance with this subchapter shall be enforced by the Commission, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another agency under subsection (b) of this section. For purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act, a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power toenforce the provisions of this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule."
 
 Subsec. (b). Pub. L. 111–203, §1089(3)(B)(i), substituted "Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance" for "Compliance" in introductory provisions.
 

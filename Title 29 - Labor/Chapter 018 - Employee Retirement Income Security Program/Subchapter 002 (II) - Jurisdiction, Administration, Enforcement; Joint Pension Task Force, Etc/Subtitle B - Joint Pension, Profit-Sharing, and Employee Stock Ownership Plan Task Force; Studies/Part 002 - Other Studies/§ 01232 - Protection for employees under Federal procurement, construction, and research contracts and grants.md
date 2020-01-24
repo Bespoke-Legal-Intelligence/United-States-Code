@@ -30,9 +30,9 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 (4)(A) If the committee to which a resolution of disapproval has been referred has not reported it at the end of 7 calendar days after its introduction, it is in order to move either to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of any other resolution of disapproval which has been referred to the committee.
 
-(B) A motion to discharge may be made only by an individual favoring the resolution, is highly privileged (except that it may not be made after the committee has reported a resolution of disapproval), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(B) A motion to discharge may be made only by an individual favoring the resolution, is highly privileged (except that it may not be made after the committee has reported a resolution ofdisapproval), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
-(C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed,nor may another motion to discharge the committee be made with respect to any other resolution of disapproval.
+(C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution of disapproval.
 
 (5)(A) When the committee has reported, or has been discharged from further consideration of, a resolution of disapproval, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
@@ -59,8 +59,6 @@ Within 1 year after the date on which he submits his report to the Congress unde
 (Pub. L. 93–406, title III, §3032, Sept. 2, 1974, 88 Stat. 1000.)
 
 #### Change of Name
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

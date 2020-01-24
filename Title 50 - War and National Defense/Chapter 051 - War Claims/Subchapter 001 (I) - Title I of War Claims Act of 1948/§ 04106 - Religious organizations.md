@@ -18,7 +18,7 @@ Claims filed pursuant to subsection (b) shall be determined and paid upon the ba
 
 #### (e) Investigation; determination of replacement costs; basis used
 
-The Commission is authorized and directed to proceed at once with the necessary investigation, study, and establishment of procedures in order to determine the replacement costs of theclaims to be filed under subsections (b) and (c), using as a basis for beginning such investigation and study the evidence contained in the claims of those religious organizations or their personnel which have already filed and are eligible to be paid under the terms of subsection (a) of this section.
+The Commission is authorized and directed to proceed at once with the necessary investigation, study, and establishment of procedures in order to determine the replacement costs of the claims to be filed under subsections (b) and (c), using as a basis for beginning such investigation and study the evidence contained in the claims of those religious organizations or their personnel which have already filed and are eligible to be paid under the terms of subsection (a) of this section.
 
 #### (f) Filing of claims; adjudication; place and use of payments
 

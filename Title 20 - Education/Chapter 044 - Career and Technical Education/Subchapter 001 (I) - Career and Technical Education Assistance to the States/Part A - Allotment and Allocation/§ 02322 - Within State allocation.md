@@ -4,19 +4,25 @@
 
 From the amount allotted to each State under section 2321 of this title for a fiscal year, the eligible agency shall make available—
 
-&emsp;(1) not less than 85 percent for distribution under section 2351 or 2352 of this title, of which not more than 10 percent of the 85 percent may be used in accordance with subsection (c);
+&emsp;(1) not less than 85 percent for distribution under section 2351 or 2352 of this title, of which not more than 15 percent of the 85 percent may be used in accordance with subsection (c);
 
 &emsp;(2) not more than 10 percent to carry out State leadership activities described in section 2344 of this title, of which—
 
-&emsp;&emsp;(A) an amount equal to not more than 1 percent of the amount allotted to the State under section 2321 of this title for the fiscal year shall be made available to serve individuals in State institutions, such as State correctional institutions and institutions that serve individuals with disabilities; and
+&emsp;&emsp;(A) an amount equal to not more than 2 percent of the amount allotted to the State under section 2321 of this title for the fiscal year shall be made available to serve individuals in State institutions, such as State correctional institutions, juvenile justice facilities, and educational institutions that serve individuals with disabilities;
 
 &emsp;&emsp;(B) not less than $60,000 and not more than $150,000 shall be available for services that prepare individuals for non-traditional fields; and
+
+&emsp;&emsp;(C) an amount shall be made available for the recruitment of special populations to enroll in career and technical education programs, which shall be not less than the lesser of—
+
+&emsp;&emsp;&emsp;(i) an amount equal to 0.1 percent; or
+
+&emsp;&emsp;&emsp;(ii) $50,000; and
 
 &emsp;(3) an amount equal to not more than 5 percent, or $250,000, whichever is greater, for administration of the State plan, which may be used for the costs of—
 
 &emsp;&emsp;(A) developing the State plan;
 
-&emsp;&emsp;(B) reviewing a local plan;
+&emsp;&emsp;(B) reviewing local applications;
 
 &emsp;&emsp;(C) monitoring and evaluating program effectiveness;
 
@@ -32,79 +38,25 @@ Each eligible agency receiving funds made available under subsection (a)(3) shal
 
 #### (c) Reserve
 
-From amounts made available under subsection (a)(1) to carry out this subsection, an eligible agency may award grants to eligible recipients for career and technical education activities described in section 2355 of this title in—
+From amounts made available under subsection (a)(1) to carry out this subsection, an eligible agency may award grants to eligible recipients for career and technical education activities described in section 2355 of this title—
 
-&emsp;(1) rural areas;
+&emsp;(1) in—
 
-&emsp;(2) areas with high percentages of career and technical education students; and
+&emsp;&emsp;(A) rural areas;
 
-&emsp;(3) areas with high numbers of career and technical education students.
+&emsp;&emsp;(B) areas with high percentages of CTE concentrators or CTE participants;
+
+&emsp;&emsp;(C) areas with high numbers of CTE concentrators or CTE participants; and
+
+&emsp;&emsp;(D) areas with disparities or gaps in performance as described in section 2323(b)(3)(C)(ii)(II) of this title; and
+
+&emsp;(2) in order to—
+
+&emsp;&emsp;(A) foster innovation through the identification and promotion of promising andproven career and technical education programs, practices, and strategies, which may include programs, practices, and strategies that prepare individuals for nontraditional fields; or
+
+&emsp;&emsp;(B) promote the development, implementation, and adoption of programs of study or career pathways aligned with State-identified high-skill, high-wage, or in-demand occupations or industries.
 
 (Pub. L. 88–210, title I, §112, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 695; amended Pub. L. 115–224, title I, §111, July 31, 2018, 132 Stat. 1579.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–224, §4, title I, §111, July 31, 2018, 132 Stat. 1564, 1579, made amendments to this section, effective July 1, 2019. After July 1, 2019, this section will read as follows:</i>
-
-#### <i>§2322. Within State allocation</i>
-
-#### <i>(a) In general</i>
-
-<i>From the amount allotted to each State under section 2321 of this title for a fiscal year, the eligible agency shall make available—</i>
-
-&emsp;<i>(1) not less than 85 percent for distribution under section 2351 or 2352 of this title, of which not more than 15 percent of the 85 percent may be used in accordance with subsection (c);</i>
-
-&emsp;<i>(2) not more than 10 percent to carry out State leadership activities described in section 2344 of this title, of which—</i>
-
-&emsp;&emsp;<i>(A) an amount equal to not more than 2 percent of the amount allotted to the State under section 2321 of this title for the fiscal year shall be made available to serve individuals in State institutions, such as State correctional institutions, juvenile justice facilities, and educational institutions that serve individuals with disabilities;</i>
-
-&emsp;&emsp;<i>(B) not less than $60,000 and not more than $150,000 shall be available for services that prepare individuals for non-traditional fields; and</i>
-
-&emsp;&emsp;<i>(C) an amount shall be made available for the recruitment of special populations to enroll in career and technical education programs, which shall be not less than the lesser of—</i>
-
-&emsp;&emsp;&emsp;<i>(i) an amount equal to 0.1 percent; or</i>
-
-&emsp;&emsp;&emsp;<i>(ii) $50,000; and</i>
-
-&emsp;<i>(3) an amount equal to not more than 5 percent, or $250,000, whichever is greater, for administration of the State plan, which may be used for the costs of—</i>
-
-&emsp;&emsp;<i>(A) developing the State plan;</i>
-
-&emsp;&emsp;<i>(B) reviewing local applications;</i>
-
-&emsp;&emsp;<i>(C) monitoring and evaluating program effectiveness;</i>
-
-&emsp;&emsp;<i>(D) assuring compliance with all applicable Federal laws;</i>
-
-&emsp;&emsp;<i>(E) providing technical assistance; and</i>
-
-&emsp;&emsp;<i>(F) supporting and developing State data systems relevant to the provisions of this chapter.</i>
-
-#### <i>(b) Matching requirement</i>
-
-<i>Each eligible agency receiving funds made available under subsection (a)(3) shall match, from non-Federal sources and on a dollar-for-dollar basis, the funds received under subsection (a)(3).</i>
-
-#### <i>(c) Reserve</i>
-
-<i>From amounts made available under subsection (a)(1) to carry out this subsection, an eligible agency may award grants to eligible recipients for career and technical education activities described in section 2355 of this title—</i>
-
-&emsp;<i>(1) in—</i>
-
-&emsp;&emsp;<i>(A) rural areas;</i>
-
-&emsp;&emsp;<i>(B) areas with high percentages of CTE concentrators or CTE participants;</i>
-
-&emsp;&emsp;<i>(C) areas with high numbers of CTE concentrators or CTE participants; and</i>
-
-&emsp;&emsp;<i>(D) areas with disparities or gaps in performance as described in section 2323(b)(3)(C)(ii)(II) of this title; and</i>
-
-&emsp;<i>(2) in order to—</i>
-
-&emsp;&emsp;<i>(A) foster innovation through the identification and promotion of promising and proven career and technical education programs, practices, and strategies, which may include programs, practices, and strategies that prepare individuals for nontraditional fields; or</i>
-
-&emsp;&emsp;<i>(B) promote the development, implementation, and adoption of programs of study or career pathways aligned with State-identified high-skill, high-wage, or in-demand occupations or industries.</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 #### Prior Provisions
 

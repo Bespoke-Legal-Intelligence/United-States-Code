@@ -1,6 +1,6 @@
 ### §6903. Agreements and contracts
 
-The Secretary of Transportation may make agreements and contracts, except an agreement or contract to sell property rights at the Union Station complex, with a person, a federal, regional, or local agency, or the Architect of the Capitol that the Secretary considers necessary or desirable to carry out the purposes of this subchapter.
+The Secretary of Transportation may make agreements and contracts, except an agreementor contract to sell property rights at the Union Station complex, with a person, a federal, regional, or local agency, or the Architect of the Capitol that the Secretary considers necessary or desirable to carry out the purposes of this subchapter.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1201.)
 

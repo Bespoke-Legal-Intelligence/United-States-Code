@@ -39,6 +39,7 @@
 | [1629e.](%C2%A7%2001629e%20-%20Settlement%20Trust%20option.md) | Settlement Trust option. |
 | [1629f.](%C2%A7%2001629f%20-%20Claims%20arising%20from%20contamination%20of%20transferred%20lands.md) | Claims arising from contamination of transferred lands. |
 | [1629g.](%C2%A7%2001629g%20-%20Open%20season%20for%20certain%20Alaska%20Native%20veterans%20for%20allotments.md) | Open season for certain Alaska Native veterans for allotments. |
+| 1629g–1. | Alaska Native Vietnam era veterans land allotment. |
 | [1629h.](%C2%A7%2001629h%20-%20Kake%20Tribal%20Corporation%20land%20transfer.md) | Kake Tribal Corporation land transfer. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -85,4 +86,5 @@
 - [&sect; 01629e - Settlement Trust option](%C2%A7%2001629e%20-%20Settlement%20Trust%20option.md)
 - [&sect; 01629f - Claims arising from contamination of transferred lands](%C2%A7%2001629f%20-%20Claims%20arising%20from%20contamination%20of%20transferred%20lands.md)
 - [&sect; 01629g - Open season for certain Alaska Native veterans for allotments](%C2%A7%2001629g%20-%20Open%20season%20for%20certain%20Alaska%20Native%20veterans%20for%20allotments.md)
+- [&sect; 01629g&#8211;1 - Alaska Native Vietnam era veterans land allotment](%C2%A7%2001629g%E2%80%931%20-%20Alaska%20Native%20Vietnam%20era%20veterans%20land%20allotment.md)
 - [&sect; 01629h - Kake Tribal Corporation land transfer](%C2%A7%2001629h%20-%20Kake%20Tribal%20Corporation%20land%20transfer.md)

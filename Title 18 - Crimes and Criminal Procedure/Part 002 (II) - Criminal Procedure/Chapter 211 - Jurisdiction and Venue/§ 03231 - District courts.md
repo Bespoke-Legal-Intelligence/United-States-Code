@@ -10,7 +10,7 @@ Nothing in this title shall be held to take away or impair the jurisdiction of t
 
 Based on section 588d of title 12, U.S.C., 1940 ed., Banks and Banking; title 18, U.S.C., 1940 ed., §§546, 547 (Mar. 4, 1909, ch. 321, §§326, 340, 35 Stat. 1151, 1153; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; May 18, 1934, ch. 304, §4, 48 Stat. 783).
 
-This section was formed by combining sections 546 and 547 of title 18, U.S.C., 1940 ed., with section 588d oftitle 12, U.S.C., Banks and Banking, with no change of substance.
+This section was formed by combining sections 546 and 547 of title 18, U.S.C., 1940 ed., with section 588d of title 12, U.S.C., Banks and Banking, with no change of substance.
 
 The language of said section 588d of title 12, U.S.C., 1940 ed., which related to bank robbery, or killing or kidnapping as an incident thereto (see section 2113, of this title), and which read "Jurisdiction over any offense defined by sections 588b and 588c of this title shall not be reserved exclusively to courts of the United States" was omitted as adequately covered by this section.
 

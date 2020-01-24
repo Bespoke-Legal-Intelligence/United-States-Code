@@ -10,7 +10,7 @@ The corporation may provide under the program for reimbursement of amounts of wi
 
 #### (c) Payment of cost of program
 
-The cost of the program (including such administrative and legal costs as the corporationconsiders appropriate) may be paid only out of premiums collected under such program.
+The cost of the program (including such administrative and legal costs as the corporation considers appropriate) may be paid only out of premiums collected under such program.
 
 #### (d) Terms and conditions, limitations, etc., of supplemental program
 

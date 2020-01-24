@@ -66,7 +66,7 @@ There is hereby established a commission to be known as the Commission on Safegu
 
 #### (d) Reports
 
-(1) Not later than February 15 each year, the Commission shall submit to the Secretary of Energy and to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the activities of the Commission duringthe preceding year. The report shall be submitted in unclassified form, but may include a classified annex.
+(1) Not later than February 15 each year, the Commission shall submit to the Secretary of Energy and to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the activities of the Commission during the preceding year. The report shall be submitted in unclassified form, but may include a classified annex.
 
 (2) Each report—
 

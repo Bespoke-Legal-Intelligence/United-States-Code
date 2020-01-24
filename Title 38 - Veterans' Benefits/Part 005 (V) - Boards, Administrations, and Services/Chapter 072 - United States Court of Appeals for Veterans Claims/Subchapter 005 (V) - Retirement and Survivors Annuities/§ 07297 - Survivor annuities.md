@@ -36,7 +36,7 @@
 
 &emsp;(2) at or before the time of the expiration of that term, the judge is eligible for and elects to receive retired pay under section 7296 of this title.
 
-(f)(1) If a judge who makes an election under subsection (b) of this section dies after having rendered at least 18 months of civilian service (computed as prescribed in subsection (l) of this section), for the last 18 months of which the salary deductions provided for by subsection (c) of this section or the deposits required by subsection (d) of this section have actually been made (and not withdrawn) or the salary deductions required by the civil service retirement laws have actually been made (and not withdrawn)—
+(f)(1) If a judge who makes an election under subsection (b) of this section dies after having rendered at least 18 months of civilian service (computed as prescribed in subsection (l) of thissection), for the last 18 months of which the salary deductions provided for by subsection (c) of this section or the deposits required by subsection (d) of this section have actually been made (and not withdrawn) or the salary deductions required by the civil service retirement laws have actually been made (and not withdrawn)—
 
 &emsp;(A) if the judge is survived by a surviving spouse but not by a dependent child, there shall be paid to the surviving spouse an annuity beginning with the day of the death of the judge, in an amount computed as provided in subsection (k) of this section; or
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(i) 1.5 percent of the judge's average annual pay; and
 
-&emsp;&emsp;(ii) the sum of the judge's years of judicial service, the judge's years of prior allowable service as a Member of Congress, the judge's years of prior allowable service performed as a member of the Armed Forces, and the judge's years, not exceeding 15, of prior allowable service performed as a congressionalemployee (as defined in section 2107 of title 5).
+&emsp;&emsp;(ii) the sum of the judge's years of judicial service, the judge's years of prior allowable service as a Member of Congress, the judge's years of prior allowable service performed as a member of the Armed Forces, and the judge's years, not exceeding 15, of prior allowable service performed as a congressional employee (as defined in section 2107 of title 5).
 
 &emsp;(B) Three-fourths of 1 percent of the judge's average annual pay multiplied by the judge's years of allowable service not counted under subparagraph (A) of this paragraph.
 

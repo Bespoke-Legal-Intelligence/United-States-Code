@@ -1,6 +1,6 @@
 ### \[§935. Repealed. Pub. L. 99–514, title XII, §1272(d)(2), Oct. 22, 1986, 100 Stat. 2594\]
 
-Section, added Pub. L. 92–606, §1(a), Oct. 31, 1972, 86 Stat. 1494; amended Pub. L. 108–357, title VIII, §908(c)(4), Oct. 22, 2004, 118 Stat. 1656, related to coordination of United States and Guam individual income taxes.
+Section, added Pub. L. 92–606, §1(a), Oct. 31, 1972, 86 Stat. 1494; amended Pub. L. 108–357, title VIII,§908(c)(4), Oct. 22, 2004, 118 Stat. 1656, related to coordination of United States and Guam individual income taxes.
 
 #### Amendment Subsequent to Repeal
 

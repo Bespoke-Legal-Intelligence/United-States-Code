@@ -76,7 +76,7 @@ The Secretary, the Secretary of Agriculture, and the Secretary of Homeland Secur
 
 &emsp;&emsp;(A) include conclusions concerning the reasons that such existing programs have proven successful or not successful and what factors contributed to such conclusions;
 
-&emsp;&emsp;(B) include recommendations for consolidation and elimination to reduce duplication and inefficiencies in such programs at such Department as identified during the evaluation conduct <sup>3</sup> under this subsection; and
+&emsp;&emsp;(B) include recommendations for consolidation and elimination to reduce duplication and inefficiencies in such programs at suchDepartment as identified during the evaluation conduct <sup>3</sup> under this subsection; and
 
 &emsp;&emsp;(C) be made publicly available in a publication entitled "Guide to the U.S. Department of Health and Human Services Programs".
 
@@ -96,7 +96,7 @@ The Secretary, the Secretary of Agriculture, and the Secretary of Homeland Secur
 
 The Secretary, referred to in subsecs. (a), (b), (d), (f), (g), (h)(1), and (i), probably means the Secretary of Health and Human Services.
 
-This Act, referred to in subsec. (a)(1)(H), is Pub. L. 111–353, Jan. 4, 2011, 124 Stat. 3885, known as the FDAFood Safety Modernization Act, which enacted this chapter and sections 350g to 350l–1, 379j–31, 384a to 384d, 399c, and 399d of this title, section 7625 of Title 7, Agriculture, and section 280g–16 of Title 42, The Public Health and Welfare, amended sections 331, 333, 334, 350b to 350d, 350f, 374, 381, 393, and 399 of this title and section 247b–20 of Title 42, and enacted provisions set out as notes under sections 331, 334, 342, 350b, 350d, 350e, 350g to 350j, 350l, and 381 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+This Act, referred to in subsec. (a)(1)(H), is Pub. L. 111–353, Jan. 4, 2011, 124 Stat. 3885, known as the FDA Food Safety Modernization Act, which enacted this chapter and sections 350g to 350l–1, 379j–31, 384a to 384d, 399c, and 399d of this title, section 7625 of Title 7, Agriculture, and section 280g–16 of Title 42, The Public Health and Welfare, amended sections 331, 333, 334, 350b to 350d, 350f, 374, 381, 393, and 399 of this title and section 247b–20 of Title 42, and enacted provisions set out as notes under sections 331, 334, 342, 350b, 350d, 350e, 350g to 350j, 350l, and 381 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
 Section 350d of this title, referred to in subsec. (a)(1)(H), and section 321(r) of this title, referred to in subsec. (f), were in the original "section 415 (21 U.S.C. 350d)" and "section 201(r) (21 U.S.C. 321(r))", respectively, and were translated as meaning sections 415 and 201(r) of the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, to reflect the probable intent of Congress.
 

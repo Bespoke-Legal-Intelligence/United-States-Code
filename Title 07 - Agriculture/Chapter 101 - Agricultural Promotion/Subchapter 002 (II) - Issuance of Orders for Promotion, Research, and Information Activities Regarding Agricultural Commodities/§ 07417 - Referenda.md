@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;For the purpose of ascertaining whether the persons covered by an order favor the continuation, suspension, or termination of the order, the Secretary shall conduct a referendum among persons subject to assessments under section 7416 of this title who, during a representative period determined by the Secretary, have engaged in—
+&emsp;For the purpose of ascertaining whether the persons covered by an order favor the continuation, suspension, or termination of the order, the Secretary shall conduct a referendumamong persons subject to assessments under section 7416 of this title who, during a representative period determined by the Secretary, have engaged in—
 
 &emsp;&emsp;(A) the production or handling of the agricultural commodity covered by the order; or
 

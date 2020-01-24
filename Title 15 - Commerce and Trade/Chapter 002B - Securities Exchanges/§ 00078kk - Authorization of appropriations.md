@@ -12,7 +12,7 @@ In addition to any other funds authorized to be appropriated to the Commission, 
 
 &emsp;(5) for fiscal year 2015, $2,250,000,000.
 
-(June 6, 1934, ch. 404, title I, §35, as added Pub. L. 94–29, §24, June 4, 1975, 89 Stat. 162; amended Pub. L. 95–20, Apr. 13, 1977, 91 Stat. 47; Pub. L. 95–211, Dec. 19, 1977, 91 Stat. 1492; Pub. L. 95–425,§1, Oct. 6, 1978, 92 Stat. 962; Pub. L. 96–477, title IV, §401, Oct. 21, 1980, 94 Stat. 2291; Pub. L. 100–181, title I, §101, Dec. 4, 1987, 101 Stat. 1249; Pub. L. 100–704, §8, Nov. 19, 1988, 102 Stat. 4683; Pub. L. 101–550, title I, §102, Nov. 15, 1990, 104 Stat. 2713; Pub. L. 104–290, title IV, §403, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 105–353, title II, §201, Nov. 3, 1998, 112 Stat. 3233; Pub. L. 107–204, title VI, §601, July 30, 2002, 116 Stat. 793; Pub. L. 111–203, title IX, §991(c), July 21, 2010, 124 Stat. 1953.)
+(June 6, 1934, ch. 404, title I, §35, as added Pub. L. 94–29, §24, June 4, 1975, 89 Stat. 162; amended Pub. L. 95–20, Apr. 13, 1977, 91 Stat. 47; Pub. L. 95–211, Dec. 19, 1977, 91 Stat. 1492; Pub. L. 95–425, §1, Oct. 6, 1978, 92 Stat. 962; Pub. L. 96–477, title IV, §401, Oct. 21, 1980, 94 Stat. 2291; Pub. L. 100–181, title I, §101, Dec. 4, 1987, 101 Stat. 1249; Pub. L. 100–704, §8, Nov. 19, 1988, 102 Stat. 4683; Pub. L. 101–550, title I, §102, Nov. 15, 1990, 104 Stat. 2713; Pub. L. 104–290, title IV, §403, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 105–353, title II, §201, Nov. 3, 1998, 112 Stat. 3233; Pub. L. 107–204, title VI, §601, July 30, 2002, 116 Stat. 793; Pub. L. 111–203, title IX, §991(c), July 21, 2010, 124 Stat. 1953.)
 
 #### Codification
 

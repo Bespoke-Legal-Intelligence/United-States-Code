@@ -48,7 +48,7 @@ Section 1. <i>White House Cancer Moonshot Task Force</i>. There is established, 
 
 (xiv) such other executive branch departments, agencies, or offices as the President may designate.
 
-A member of the Task Force may designate, to perform the Task Force functions of the member, any person who is a part of the member's department, agency, or office, and who is a full time officer or employee of the Federal Government. At the direction of the Chair, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees under this section, as appropriate.
+A member of the Task Force may designate, to perform the Task Force functions of the member, any person who is a part of the member's department, agency,or office, and who is a full time officer or employee of the Federal Government. At the direction of the Chair, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees under this section, as appropriate.
 
 (b) Administration of the Task Force. The NIH shall provide funding and administrative support for the Task Force to the extent permitted by law and within existing appropriations. The Vice President shall designate an officer or employee of the executive branch as the Executive Director of the Task Force, who shall coordinate the work of the Task Force.
 

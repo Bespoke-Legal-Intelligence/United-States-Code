@@ -26,7 +26,7 @@ The Commission is authorized to—
 
 (2) In determining the amount of any penalty to be sought upon commencing an action seeking to assess a penalty for a violation of a regulation or standard under section 1193 of this title, the Commission shall consider the nature, circumstances, extent, and gravity of the violations, the severity of the risk of injury, the occurrence or absence of injury, the appropriateness of such penalty in relation to the size of the business of the person charged, and such other factors as appropriate.
 
-(3) Any civil penalty under this subsection may be compromised by the Commission. In determining the amount of such penalty or whether it should be remitted or mitigated, and in what amount, the Commission shall consider the nature, circumstances, extent, and gravity of the violations, the appropriateness of such penalty to the size of the business of the persons charged, the severity of the risk of injury, and <sup>1</sup> the occurrence or absence of injury, and such other factors as appropriate. The amount of such penalty when finally determined, or the amount agreed on compromise, may be deducted from any sums owing by the United States to the person charged.
+(3) Any civil penalty under this subsection may be compromised by the Commission. In determining the amount of such penalty or whether it should be remitted or mitigated, and in what amount, the Commission shall consider the nature, circumstances, extent, and gravity of the violations, the appropriateness of such penalty to the size of the business of the persons charged, the severity of the risk of injury, and <sup>1</sup> the occurrence or absence of injury, and such other factors as appropriate. The amount of such penalty when finally determined, or the amount agreed on compromise, may be deductedfrom any sums owing by the United States to the person charged.
 
 (4) As used in paragraph (1), the term "knowingly" means (A) having actual knowledge, or (B) the presumed having of knowledge deemed to be possessed by a reasonable person who acts in the circumstances, including knowledge obtainable upon the exercise of due care to ascertain the truth of representations.
 
@@ -64,7 +64,7 @@ The Federal Trade Commission Act, referred to in subsecs. (a), (b), and (c), is 
 
 <b>2008</b>—Subsec. (e)(1). Pub. L. 110–314, §217(a)(3)(A), (B), substituted "$100,000" for "$5,000" and "$15,000,000" for "$1,250,000".
 
-Subsec. (e)(2). Pub. L. 110–314, §217(b)(1)(C)(i), substituted "nature, circumstances, extent, and gravity"for "nature and number" and "absence of injury," for "absence of injury, and" and inserted ", and such other factors as appropriate" before period at end.
+Subsec. (e)(2). Pub. L. 110–314, §217(b)(1)(C)(i), substituted "nature, circumstances, extent, and gravity" for "nature and number" and "absence of injury," for "absence of injury, and" and inserted ", and such other factors as appropriate" before period at end.
 
 Subsec. (e)(3). Pub. L. 110–314, §217(b)(1)(C)(ii)(III), which directed insertion of ", and such other factors as appropriate" before the period, was executed by making the insertion before period at end of second sentence, to reflect the probable intent of Congress.
 

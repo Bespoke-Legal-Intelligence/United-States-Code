@@ -10,7 +10,7 @@ The President shall appoint to the Commission a United States Commissioner who s
 
 #### Amendments
 
-<b>1983</b>—Pub. L. 98–129 amended section generally, substituting provisions establishing the North Pacific Fur Seal Commission, which were previously contained in section 1156 of this title, for provisions empowering the Secretaries of State and Commerce to accept or reject recommendations made by the Commission. See section 1158 of this title.
+<b>1983</b>—Pub. L. 98–129 amended section generally, substituting provisions establishing the North Pacific Fur Seal Commission, which were previously contained insection 1156 of this title, for provisions empowering the Secretaries of State and Commerce to accept or reject recommendations made by the Commission. See section 1158 of this title.
 
 #### Alternate United States Commissioners
 

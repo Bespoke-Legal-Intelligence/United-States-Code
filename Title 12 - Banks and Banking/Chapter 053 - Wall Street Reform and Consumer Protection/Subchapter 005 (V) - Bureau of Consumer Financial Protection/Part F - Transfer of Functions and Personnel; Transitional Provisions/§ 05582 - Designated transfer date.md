@@ -4,7 +4,7 @@
 
 Not later than 60 days after July 21, 2010, the Secretary shall—
 
-&emsp;(1) in consultation with the Chairman of the Board of Governors, the Chairperson of the Corporation, the Chairman of the Federal Trade Commission, the Chairman of the National Credit Union Administration Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Secretary of the Department of Housing and Urban Development, and the Director of the Office of Management and Budget, designate a singlecalendar date <sup>1</sup> for the transfer of functions to the Bureau under section 5581 of this title; and
+&emsp;(1) in consultation with the Chairman of the Board of Governors, the Chairperson of the Corporation, the Chairman of the Federal Trade Commission, the Chairman of the National Credit Union Administration Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Secretary of the Department of Housing and Urban Development, and the Director of the Office of Management and Budget, designate a single calendar date <sup>1</sup> for the transfer of functions to the Bureau under section 5581 of this title; and
 
 &emsp;(2) publish notice of that designated date in the Federal Register.
 
@@ -28,9 +28,9 @@ The Secretary—
 
 &emsp;&emsp;(A) a written determination that orderly implementation of this title <sup>2</sup> is not feasible before the date that is 12 months after July 21, 2010;
 
-&emsp;&emsp;(B) an explanation of why an extension is necessary for the orderly implementation of this title; <sup>1</sup> and
+&emsp;&emsp;(B) an explanation of why an extension is necessary for the orderly implementation of this title; <sup>2</sup> and
 
-&emsp;&emsp;(C) a description of the steps that will be taken to effect an orderly and timely implementation of this title <sup>1</sup> within the extended time period.
+&emsp;&emsp;(C) a description of the steps that will be taken to effect an orderly and timely implementation of this title <sup>2</sup> within the extended time period.
 
 #### (3) Extension limited
 

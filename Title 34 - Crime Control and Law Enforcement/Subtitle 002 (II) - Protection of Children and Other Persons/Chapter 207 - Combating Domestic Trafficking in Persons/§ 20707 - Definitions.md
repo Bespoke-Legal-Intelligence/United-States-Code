@@ -4,11 +4,11 @@ In this chapter:
 
 #### (1) Severe forms of trafficking in persons
 
-&emsp;The term "severe forms of trafficking in persons" has the meaning given the term in section 7102(9) of title 22.
+&emsp;The term "severe forms of trafficking in persons" has the meaning given the term in section 7102(9) <sup>1</sup> of title 22.
 
 #### (2) Sex trafficking
 
-&emsp;The term "sex trafficking" has the meaning given the term in section 7102(10) of title 22.
+&emsp;The term "sex trafficking" has the meaning given the term in section 7102(10) <sup>1</sup> of title 22.
 
 #### (3) Commercial sex act
 
@@ -19,6 +19,8 @@ In this chapter:
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 109–164, Jan. 10, 2006, 119 Stat. 3567, which enacted sections 20701 to 20703 and 20705 to 20707 of this title and amended sections 7103 and 7104 of Title 22, Foreign Relations and Intercourse. For complete classification of title II to the Code, see Tables.
+
+Section 7102(9) and (10) of title 22, referred to in pars. (1) and (2), was redesignated section 7102(11) and (12), respectively, of title 22 by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 #### Codification
 
@@ -31,4 +33,6 @@ Section was formerly classified to section 14044e of Title 42, The Public Health
 Par. (2). Pub. L. 113–4, §1212(b)(2)(C)(ii), substituted "section 7102(10)" for "section 7102(9)".
 
 Par. (3). Pub. L. 113–4, §1212(b)(2)(C)(iii), substituted "section 7102(4)" for "section 7102(3)".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

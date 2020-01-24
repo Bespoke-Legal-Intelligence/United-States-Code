@@ -58,7 +58,7 @@ When requested by the Attorney General, it shall be the duty of any agency or in
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(7), was in the original as added by Pub. L. 99–646 "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. In the subsec. (a)(7) added by Pub. L. 99–570, the reference was "this title", meaning title II of Pub. L. 91–513 which is popularly known as the "Controlled Substances Act" and is classified principally to this subchapter. For complete classification of this Act and title II to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (a)(7), was in the original as added by Pub. L. 99–646 "this Act", meaningPub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. In the subsec. (a)(7) added by Pub. L. 99–570, the reference was "this title", meaning title II of Pub. L. 91–513 which is popularly known as the "Controlled Substances Act" and is classified principally to this subchapter. For complete classification of this Act and title II to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 Schedule II, referred to in subsec. (c), is set out in section 812(c) of this title.
 

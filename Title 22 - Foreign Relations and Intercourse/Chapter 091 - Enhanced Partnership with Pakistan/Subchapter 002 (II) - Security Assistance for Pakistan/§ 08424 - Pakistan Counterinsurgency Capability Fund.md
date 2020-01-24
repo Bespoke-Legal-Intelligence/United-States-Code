@@ -22,7 +22,7 @@
 
 #### (B) Treatment of transferred funds
 
-&emsp;&emsp;Subject to subsections (d) and (e) of section 8423 of this title, transfers from the Fund under the authority of subparagraph (A) shall be merged with and be available for the same purposes and for the same time period as amounts in the Department of Defense's Pakistan Counterinsurgency Fund.
+&emsp;&emsp;Subject to subsections (d) and (e) of section 8423 of this title, transfers from theFund under the authority of subparagraph (A) shall be merged with and be available for the same purposes and for the same time period as amounts in the Department of Defense's Pakistan Counterinsurgency Fund.
 
 #### (C) Relation to other authorities
 

@@ -26,7 +26,7 @@ A producer or handler seeking certification under this chapter shall submit an o
 
 &emsp;&emsp;&emsp;(iii) any crop not for human consumption; and
 
-&emsp;&emsp;&emsp;(iv) any crop for human consumption, if such crop is harvested after a reasonableperiod of time determined by the certifying agent to ensure the safety of such crop, after the most recent application of raw manure, but in no event shall such period be less than 60 days after such application.
+&emsp;&emsp;&emsp;(iv) any crop for human consumption, if such crop is harvested after a reasonable period of time determined by the certifying agent to ensure the safety of such crop, after the most recent application of raw manure, but in no event shall such period be less than 60 days after such application.
 
 #### (C) Contamination by manure
 

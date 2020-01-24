@@ -14,7 +14,7 @@ Funds made available for adult education and literacy activities under this subc
 
 #### (B) Proportionate reduction
 
-&emsp;&emsp;Subject to paragraphs (2), (3), and (4), for any fiscal year with respect to which the Secretary determines under subparagraph\(A) that the fiscal effort or the aggregate expenditures of an eligible agency for the preceding program year were less than such effort or expenditures for the second preceding program year, the Secretary—
+&emsp;&emsp;Subject to paragraphs (2), (3), and (4), for any fiscal year with respect to which the Secretary determines under subparagraph (A) that the fiscal effort or the aggregate expenditures of an eligible agency for the preceding program year were less than such effort or expenditures for the second preceding program year, the Secretary—
 
 &emsp;&emsp;&emsp;(i) shall determine the percentage decreases in such effort or in such expenditures; and
 
@@ -36,5 +36,5 @@ Funds made available for adult education and literacy activities under this subc
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

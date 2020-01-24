@@ -122,7 +122,7 @@ Pub. L. 113–235, div. B, title V, §541, Dec. 16, 2014, 128 Stat. 2217, provid
 
 "(a)
 
-In General.—During the period beginning on January 1, 2015, and ending on December 31, 2015, the provisions of chapter 3 of title II of the Trade Act of 1974 (19 U.S.C. 2341 et seq.) \[part 3 of this subchapter\], as in effect on December 31, 2014, shall apply, except that in applying and administering such provisions, section 256(b) of that Act \[19 U.S.C. 2346(b)\] shall be applied and administered by substituting '$16,000,000 for the period beginning on January 1, 2015, and ending December 31, 2015' for '$16,000,000 for each of fiscal years 2003 through 2007, and $4,000,000 for the 3-month period beginning on October 1, 2007'.
+In General.—During the period beginning on January 1, 2015, and ending on December 31, 2015, the provisions of chapter 3 of title II of the Trade Act of 1974 (19 U.S.C. 2341 et seq.) \[part 3 of this subchapter\], as in effect on December 31, 2014, shall apply, except that in applying and administering such provisions, section 256(b) of that Act \[19 U.S.C. 2346(b)\] shall be applied and administered by substituting '$16,000,000 for the period beginning on January 1, 2015, and ending December 31, 2015' for '$16,000,000 for each of fiscal years2003 through 2007, and $4,000,000 for the 3-month period beginning on October 1, 2007'.
 
 "(b)
 
@@ -182,7 +182,7 @@ In General.—Except as otherwise provided in sections 123(c) \[set out as a not
 
 "(b)
 
-Workers Certified as Eligible Before Effective Date.—Notwithstanding subsection (a), a worker shall continue to receive (or be eligible to receive) trade adjustment assistance and other benefits under chapter 2 of title II of the Trade Act of 1974 \[this part\], as in effect on September 30, 2001, for any week for which the worker meets the eligibility requirements ofsuch chapter 2 as in effect on such date, if on or before such date, the worker—
+Workers Certified as Eligible Before Effective Date.—Notwithstanding subsection (a), a worker shall continue to receive (or be eligible to receive) trade adjustment assistance and other benefits under chapter 2 of title II of the Trade Act of 1974 \[this part\], as in effect on September 30, 2001, for any week for which the worker meets the eligibility requirements of such chapter 2 as in effect on such date, if on or before such date, the worker—
 
 &emsp;"(1) was certified as eligible for trade adjustment assistance benefits under such chapter as in effect on such date; and
 
@@ -206,7 +206,7 @@ Adjustment Assistance for Firms.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding subsection (a) or any other provision of law, including section 285 of the Trade Act of 1974 \[set out as a Termination Date note below\], and except as provided in paragraph (2), any firm that would have been eligible to receive adjustment assistance under chapter 3 of title II of the Trade Act if 1974 \[part 3 of this subchapter\] during the qualified period if such chapter 3 had been in effect during such period, shall be eligible to receive adjustment assistance under chapter 3 of title II of the Trade Act of 1974, as in effect on September 30, 2001, for any week during the qualified period for which the firm meets the eligibility requirements of such chapter 3 as in effect on September 30, 2001.
+In general.—Notwithstanding subsection (a) or any other provision of law, including section 285 of the Trade Act of 1974 \[set out as a Termination Date note below\], and except as provided in paragraph (2), any firm that would have been eligible to receive adjustment assistance under chapter 3 of title II of the Trade Act if 1974 \[part 3 of this subchapter\] during the qualified period if such chapter 3 had been in effect during such period, shall be eligible to receive adjustment assistance under chapter 3 of title II ofthe Trade Act of 1974, as in effect on September 30, 2001, for any week during the qualified period for which the firm meets the eligibility requirements of such chapter 3 as in effect on September 30, 2001.
 
 &emsp;"(2)
 

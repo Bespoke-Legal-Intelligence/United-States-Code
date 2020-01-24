@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program
 
-The Commission shall establish, in such manner as the Commission deems appropriate, consistent with the applicable provisions of law, a program to use simple and expeditious licensing procedures under the Federal Power Act \[16 U.S.C. 791a et seq.\] for small hydroelectric power projects in connection with existing dams.
+The Commission shall establish, in such manner as the Commission deems appropriate, consistent with the applicable provisions of law, aprogram to use simple and expeditious licensing procedures under the Federal Power Act \[16 U.S.C. 791a et seq.\] for small hydroelectric power projects in connection with existing dams.
 
 #### (b) Prerequisites
 
@@ -16,7 +16,7 @@ Before issuing any license under the Federal Power Act \[16 U.S.C. 791a et seq.\
 
 #### (c) Fish and wildlife facilities
 
-The Commission shall encourage applicants for licenses for small hydroelectric power projects to make use of public funds and other assistance for the design and construction of fish and wildlife facilities which may be required inconnection with any development of such project.
+The Commission shall encourage applicants for licenses for small hydroelectric power projects to make use of public funds and other assistance for the design and construction of fish and wildlife facilities which may be required in connection with any development of such project.
 
 #### (d) Exemptions from licensing requirements in certain cases
 
@@ -32,7 +32,7 @@ The Federal Power Act, referred to in subsecs. (a), (b), and (d), is act June 10
 
 The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Fish and Wildlife Coordination Act, referred to in subsec. (b), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (b), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
 
 The Endangered Species Act, referred to in subsec. (b), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 

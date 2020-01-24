@@ -70,7 +70,7 @@ Another section 2613 was renumbered section 2614 of this title.
 
 Subsec. (b). Pub. L. 112–81, §576(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) defined travel benefit.
 
-Subsec. (c). Pub. L. 112–81, §576(b), substituted "the business entity referred to in subsection (b)" for "theair or surface carrier" and substituted "the business entity" for "the surface carrier" and for "the carrier".
+Subsec. (c). Pub. L. 112–81, §576(b), substituted "the business entity referred to in subsection (b)" for "the air or surface carrier" and substituted "the business entity" for "the surface carrier" and for "the carrier".
 
 Subsec. (e)(3). Pub. L. 112–81, §576(c), substituted "the business entity referred to in subsection (b)" for "the air carrier or surface carrier".
 

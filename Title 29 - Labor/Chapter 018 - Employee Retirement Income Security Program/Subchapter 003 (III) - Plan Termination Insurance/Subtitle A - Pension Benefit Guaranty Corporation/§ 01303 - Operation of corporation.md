@@ -6,11 +6,11 @@ The corporation may make such investigations as it deems necessary to enforce an
 
 #### (b) Discovery powers vested in board members or officers designated by the chairman
 
-For the purpose of any such investigation, or any other proceeding under this subchapter, the Director, any member of the board of directors of the corporation, or any officer designated by the Director or chairman, may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which the corporation deems relevant or material to the inquiry.
+For the purpose of any such investigation, or any other proceeding under this subchapter, the Director, any member of the board of directors of the corporation, or any officer designated by the Director or chairman, may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which thecorporation deems relevant or material to the inquiry.
 
 #### (c) Contempt
 
-In the case of contumacy by, or refusal to obey a subpena issued to, any person, the corporation may invoke the aid of any court of the UnitedStates within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, and other records. The court may issue an order requiring such person to appear before the corporation, or member or officer designated by the corporation, and to produce records or to give testimony related to the matter under investigation or in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof. All process in any such case may be served in the judicial district in which such person is an inhabitant or may be found.
+In the case of contumacy by, or refusal to obey a subpena issued to, any person, the corporation may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, and other records. The court may issue an order requiring such person to appear before the corporation, or member or officer designated by the corporation, and to produce records or to give testimony related to the matter under investigation or in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof. All process in any such case may be served in the judicial district in which such person is an inhabitant or may be found.
 
 #### (d) Cooperation with other governmental agencies
 
@@ -52,7 +52,7 @@ In order to avoid unnecessary expense and duplication of functions among governm
 
 &emsp;(C) the United States District Court for the District of Columbia.
 
-(3) In any action brought under this subsection, the court may award all or a portion of the costs and expenses incurred in connection with such action to any party who prevails or substantially prevails in such action.
+(3) In any action brought under this subsection, the court may award all or a portion ofthe costs and expenses incurred in connection with such action to any party who prevails or substantially prevails in such action.
 
 (4) This subsection shall be the exclusive means for bringing actions against the corporation under this subchapter, including actions against the corporation in its capacity as a trustee under section 1342 or 1349 <sup>1</sup> of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With assembly of the ISS complete, NASA shall take steps to maximize the productivityand use of the ISS with respect to scientific and technological research and development, advancement of space exploration, and international collaboration.
+With assembly of the ISS complete, NASA shall take steps to maximize the productivity and use of the ISS with respect to scientific and technological research and development, advancement of space exploration, and international collaboration.
 
 #### (b) NASA actions
 

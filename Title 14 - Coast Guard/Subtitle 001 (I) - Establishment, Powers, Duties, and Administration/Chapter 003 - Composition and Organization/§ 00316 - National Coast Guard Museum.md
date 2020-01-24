@@ -10,7 +10,7 @@ Limitation on Expenditures.—
 
 &emsp;(1) The Secretary shall not expend any funds appropriated to the Coast Guard on the construction of any museum established under this section.
 
-&emsp;(2) The Secretary shall fund the National Coast Guard Museum with nonappropriated and non-Federal funds to the maximum extent practicable. The priority use of Federal funds should be to preserve and protect historic Coast Guard artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.
+&emsp;(2) The Secretary shall fund the National Coast Guard Museum with nonappropriatedand non-Federal funds to the maximum extent practicable. The priority use of Federal funds should be to preserve and protect historic Coast Guard artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.
 
 &emsp;(3) The Secretary may expend funds appropriated to the Coast Guard on the engineering and design of a National Coast Guard Museum.
 

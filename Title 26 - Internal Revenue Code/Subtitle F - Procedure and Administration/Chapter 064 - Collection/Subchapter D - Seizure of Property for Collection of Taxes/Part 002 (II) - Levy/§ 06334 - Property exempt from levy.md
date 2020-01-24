@@ -80,7 +80,7 @@ There shall be exempt from levy—
 
 #### (b) Appraisal
 
-The officer seizing property of the type described in subsection (a) shall appraise and setaside to the owner the amount of such property declared to be exempt. If the taxpayer objects at the time of the seizure to the valuation fixed by the officer making the seizure, the Secretary shall summon three disinterested individuals who shall make the valuation.
+The officer seizing property of the type described in subsection (a) shall appraise and set aside to the owner the amount of such property declared to be exempt. If the taxpayer objects at the time of the seizure to the valuation fixed by the officer making the seizure, the Secretary shall summon three disinterested individuals who shall make the valuation.
 
 #### (c) No other property exempt
 
@@ -168,7 +168,7 @@ Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not
 
 #### (1) In general
 
-&emsp;In the case of any calendar year beginning after 1999, each dollar amount referred to inparagraphs (2) and (3) of subsection (a) shall be increased by an amount equal to—
+&emsp;In the case of any calendar year beginning after 1999, each dollar amount referred to in paragraphs (2) and (3) of subsection (a) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
@@ -342,7 +342,7 @@ Pub. L. 97–248, title III, §347(b), Sept. 3, 1982, 96 Stat. 638, provided tha
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XII, §1209(e), Oct. 4, 1976, 90 Stat. 1711, as amended by Pub. L. 94–528, §2(c), Oct. 17, 1976,90 Stat. 2483, provided that: "The amendments made by this section \[amending this section and sections 6331 and 6332 of this title\] shall apply only with respect to levies made after February 28, 1977."
+Pub. L. 94–455, title XII, §1209(e), Oct. 4, 1976, 90 Stat. 1711, as amended by Pub. L. 94–528, §2(c), Oct. 17, 1976, 90 Stat. 2483, provided that: "The amendments made by this section \[amending this section and sections 6331 and 6332 of this title\] shall apply only with respect to levies made after February 28, 1977."
 
 #### Effective Date of 1969 Amendment
 

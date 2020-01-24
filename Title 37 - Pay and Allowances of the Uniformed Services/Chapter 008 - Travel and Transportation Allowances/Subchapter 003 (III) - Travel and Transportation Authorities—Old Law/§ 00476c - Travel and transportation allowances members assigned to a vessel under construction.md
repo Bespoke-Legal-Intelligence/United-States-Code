@@ -10,7 +10,7 @@ Allowance Authorized.—(1) Under regulations prescribed by the Secretary concer
 
 > is entitled to transportation, or an allowance for transportation under section 474(d)(3) of this title, for round-trip travel from the port of construction to either of those locations as provided in paragraph (2).
 
-(2) A member referred to in paragraph (1) shall be entitled to such transportation or allowanceon or after the thirty-first day (and every sixtieth day after the thirty-first day) after the later of—
+(2) A member referred to in paragraph (1) shall be entitled to such transportation or allowance on or after the thirty-first day (and every sixtieth day after the thirty-first day) after the later of—
 
 &emsp;(A) the date on which the ship enters the construction port; and
 

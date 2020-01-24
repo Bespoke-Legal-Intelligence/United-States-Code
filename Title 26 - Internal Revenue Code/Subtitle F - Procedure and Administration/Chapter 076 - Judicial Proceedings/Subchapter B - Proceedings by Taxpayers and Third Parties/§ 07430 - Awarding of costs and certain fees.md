@@ -52,9 +52,9 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any administrative fees or similar charges imposed by the Internal Revenue Service, and
 
-&emsp;&emsp;(B) expenses, costs, and fees described in paragraph (1)(B), except that any determination made by the court under clause (ii) or (iii) thereof shall be made by the Internal Revenue Service in cases where the determination under paragraph (4)(C) of theawarding of reasonable administrative costs is made by the Internal Revenue Service.
+&emsp;&emsp;(B) expenses, costs, and fees described in paragraph (1)(B), except that any determination made by the court under clause (ii) or (iii) thereof shall be made by the Internal Revenue Service in cases where the determination under paragraph (4)(C) of the awarding of reasonable administrative costs is made by the Internal Revenue Service.
 
-> &emsp;Such term shall only include costs incurred on or after whichever of the following is the earliest: (i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Office of Appeals; (ii) the date of the notice of deficiency; or (iii) the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals is sent.
+> &emsp;Such term shall only include costs incurred on or after whichever of the following is the earliest: (i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Independent Office of Appeals; (ii) the date of the notice of deficiency; or (iii) the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals is sent.
 
 #### (3) Attorneys' fees
 
@@ -164,7 +164,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the position taken in an administrative proceeding to which subsection (a) applies as of the earlier of—
 
-&emsp;&emsp;&emsp;(i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Office of Appeals, or
+&emsp;&emsp;&emsp;(i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Independent Office of Appeals, or
 
 &emsp;&emsp;&emsp;(ii) the date of the notice of deficiency.
 
@@ -196,7 +196,7 @@ For purposes of this section, in the case of—
 
 #### (2) Administrative proceedings
 
-&emsp;A decision granting or denying (in whole or in part) an award for reasonable administrative costs under subsection (a) by the Internal Revenue Service shall be subject to the filing of a petition for review with the Tax Court under rules similar to the rules under section 7463 (without regard to the amount in dispute). If the Secretary sends by certified or registered mail a notice of such decision to the petitioner, no proceeding in the Tax Court may be initiated under this paragraph unless such petition is filed before the 91st day after the date of such mailing.
+&emsp;A decision granting or denying (in whole or in part) an award for reasonable administrative costs under subsection (a) by the Internal Revenue Service shall be subject to the filing of a petition for review with the Tax Courtunder rules similar to the rules under section 7463 (without regard to the amount in dispute). If the Secretary sends by certified or registered mail a notice of such decision to the petitioner, no proceeding in the Tax Court may be initiated under this paragraph unless such petition is filed before the 91st day after the date of such mailing.
 
 #### (3) Appeal of Tax Court decision
 
@@ -222,11 +222,11 @@ For purposes of subsection (c)(4)—
 
 &emsp;For purposes of this subsection, the term "qualified offer period" means the period—
 
-&emsp;&emsp;(A) beginning on the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals is sent, and
+&emsp;&emsp;(A) beginning on the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals is sent, and
 
 &emsp;&emsp;(B) ending on the date which is 30 days before the date the case is first set for trial.
 
-(Added Pub. L. 97–248, title II, §292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, §714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, §1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, §1015(i), title VI, §6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 104–168, title VII, §§701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464; Pub. L. 105–34, title XII, §1285(a)–(c), title XIV, §1453(a), Aug. 5, 1997, 111 Stat. 1038, 1055; Pub. L. 105–206, title III, §3101(a)–(e), title VI, §§6012(h), 6014(e), July 22, 1998, 112 Stat. 727, 728, 819, 820; Pub. L. 106–554, §1(a)(7) \[title III, §319(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 115–97, title I, §11002(d)(1)(SS), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 115–141, div. U, title IV, §401(a)(325)(A), Mar. 23, 2018, 132 Stat. 1199.)
+(Added Pub. L. 97–248, title II, §292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, §714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, §1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, §1015(i), title VI, §6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 104–168, title VII, §§701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464; Pub. L. 105–34, title XII, §1285(a)–(c), title XIV, §1453(a), Aug. 5, 1997, 111 Stat. 1038, 1055; Pub. L. 105–206, title III, §3101(a)–(e), title VI, §§6012(h), 6014(e), July 22, 1998, 112 Stat. 727, 728, 819, 820; Pub. L. 106–554, §1(a)(7) \[title III, §319(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 115–97, title I, §11002(d)(1)(SS), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 115–141, div. U, title IV, §401(a)(325)(A), Mar. 23, 2018, 132 Stat. 1199; Pub. L. 116–25, title I, §1001(b)(1)(H), (2), July 1, 2019, 133 Stat. 985.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -237,6 +237,8 @@ For purposes of subsection (c)(4)—
 A prior section 7430 was renumbered section 7437 of this title.
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–25 substituted "Internal Revenue Service Independent Office of Appeals" for "Internal Revenue Service Office of Appeals" wherever appearing.
 
 <b>2018</b>—Subsec. (c)(6). Pub. L. 115–141 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
@@ -310,7 +312,7 @@ Subsec. (c)(2)(A)(iii). Pub. L. 100–647, §1015(i), amended cl. (iii) generall
 
 Subsec. (b). Pub. L. 99–514, §1551(a), (b), redesignated pars. (2) to (4) as (1) to (3), respectively, added par. (4), and struck out former par. (1), maximum dollar amount, which read as follows: "The amount of reasonable litigation costs which may be awarded under subsection (a) with respect to any prevailing party in any civil proceeding shall not exceed $25,000."
 
-Subsec. (c)(1)(A). Pub. L. 99–514, §1551(c), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: "The term 'reasonable litigation costs' includes—
+Subsec. (c)(1)(A). Pub. L. 99–514, §1551(c), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The term 'reasonable litigation costs' includes—
 
 &emsp;"(i) reasonable court costs,
 

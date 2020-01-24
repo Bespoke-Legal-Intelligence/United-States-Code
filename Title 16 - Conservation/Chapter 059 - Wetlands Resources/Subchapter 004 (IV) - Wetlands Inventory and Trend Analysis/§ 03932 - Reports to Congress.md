@@ -44,7 +44,7 @@ The reports required under subsection (a) shall contain—
 
 &emsp;&emsp;(D) Federal expenditures for the construction of publicly owned or publicly operated highways, roads, structures, or facilities that are essential links in a larger network or system; and
 
-&emsp;(7) recommendations for the conservation of wetlands resources based on an evaluation and comparison of all management alternatives,and combinations of management alternatives, such as State and local actions, Federal actions, and initiatives by private organizations and individuals.
+&emsp;(7) recommendations for the conservation of wetlands resources based on an evaluation and comparison of all management alternatives, and combinations of management alternatives, such as State and local actions, Federal actions, and initiatives by private organizations and individuals.
 
 (Pub. L. 99–645, title IV, §402, Nov. 10, 1986, 100 Stat. 3589.)
 

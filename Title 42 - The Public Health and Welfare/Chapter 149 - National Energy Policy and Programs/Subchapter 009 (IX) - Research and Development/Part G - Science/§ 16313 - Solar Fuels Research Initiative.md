@@ -36,7 +36,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall carry out under the Initiative a program to support research needed to bridge scientific barriers to, and discover knowledge relevant to, artificial photosynthetic systems.
+&emsp;The Secretary shall carry out under the Initiative a program to support research neededto bridge scientific barriers to, and discover knowledge relevant to, artificial photosynthetic systems.
 
 #### (2) Activities
 
@@ -52,7 +52,7 @@
 
 #### (3) Standard of review
 
-&emsp;The Secretary shall review activities carried out under the program described in paragraph\(1) to determine the achievement of technical milestones.
+&emsp;The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
 
 #### (4) Prohibition
 

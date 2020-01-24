@@ -12,7 +12,7 @@
 
 #### (b) Independent member
 
-In addition to individuals appointed under subsection (a), the Secretary, jointly with the Government of Canada, shall appoint 1 independent member to the joint technical committee selected from a list of names provided by the advisory panel.
+In addition to individuals appointed under subsection (a), the Secretary, jointly with theGovernment of Canada, shall appoint 1 independent member to the joint technical committee selected from a list of names provided by the advisory panel.
 
 (Pub. L. 109–479, title VI, §605, Jan. 12, 2007, 120 Stat. 3646; Pub. L. 111–348, title III, §302(a), Jan. 4, 2011, 124 Stat. 3672.)
 

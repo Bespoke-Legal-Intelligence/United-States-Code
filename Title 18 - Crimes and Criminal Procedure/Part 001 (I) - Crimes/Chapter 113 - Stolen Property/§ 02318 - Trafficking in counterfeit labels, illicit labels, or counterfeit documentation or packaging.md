@@ -154,7 +154,7 @@ Limitation on actions.—A civil action may not be commenced under this subsecti
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–403, §202(1), designated existing provisions as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A).
 
-Subsec. (d). Pub. L. 110–403, §202(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all counterfeit labels or illicit labels and all articles to which counterfeit labels or illicit labels have been affixed or which were intended to have had suchlabels affixed, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels."
+Subsec. (d). Pub. L. 110–403, §202(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all counterfeit labels or illicit labels and all articles to which counterfeit labels or illicit labels have been affixed or which were intended to have had such labels affixed, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels."
 
 Subsecs. (e), (f). Pub. L. 110–403, §202(3), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: "Except to the extent they are inconsistent with the provisions of this title, all provisions of section 509, title 17, United States Code, are applicable to violations of subsection (a)."
 
@@ -230,7 +230,7 @@ Electronic Transmissions.—The amendments made by this title \[amending this se
 
 &emsp;&emsp;"(A) in any case, to the electronic transmission of a genuine certificate, licensing document, registration card, similar labeling component, or documentation or packaging described in paragraph (4) or (5) of section 2318(b) of title 18, United States Code, as amended by this title; and
 
-&emsp;&emsp;"(B) in the case of a civil action under section 2318(f) \[now 2318(e)\] of title 18, United States Code,to the electronic transmission of a counterfeit label or counterfeit documentation or packaging defined in paragraph (1) or (6) of section 2318(b) of title 18, United States Code.
+&emsp;&emsp;"(B) in the case of a civil action under section 2318(f) \[now 2318(e)\] of title 18, United States Code, to the electronic transmission of a counterfeit label or counterfeit documentation or packaging defined in paragraph (1) or (6) of section 2318(b) of title 18, United States Code.
 
 "(b)
 

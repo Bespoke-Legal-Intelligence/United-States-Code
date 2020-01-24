@@ -50,7 +50,7 @@ In this section, the following definitions apply:
 
 #### (2) Scope of Program
 
-&emsp;The Program shall consist of a collaborative stakeholder-based program for environmentalprotection and restoration activities throughout the Columbia River Basin.
+&emsp;The Program shall consist of a collaborative stakeholder-based program for environmental protection and restoration activities throughout the Columbia River Basin.
 
 #### (3) Duties
 
@@ -182,7 +182,7 @@ In this section, the following definitions apply:
 
 #### (A) In general
 
-&emsp;&emsp;Each grant recipient under this subsection shall submit to the Administrator reports on progress being made in achieving the purposes of this section.
+&emsp;&emsp;Each grant recipient under this subsection shall submit to the Administrator reports onprogress being made in achieving the purposes of this section.
 
 #### (B) Requirements
 

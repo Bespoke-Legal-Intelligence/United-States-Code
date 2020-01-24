@@ -316,7 +316,7 @@ Continuation of suits.—No action or other proceeding commenced by or against t
 
 "(a)
 
-In General.—All regulations, orders, determinations, and resolutions described under subsection (b)shall remain in effect according to the terms of such regulations, orders, determinations, and resolutions, and shall be enforceable by or against the Director until modified, terminated, set aside, or superseded in accordance with applicable law by the Director, any court of competent jurisdiction, or operation of law.
+In General.—All regulations, orders, determinations, and resolutions described under subsection (b) shall remain in effect according to the terms of such regulations, orders, determinations, and resolutions, and shall be enforceable by or against the Director until modified, terminated, set aside, or superseded in accordance with applicable law by the Director, any court of competent jurisdiction, or operation of law.
 
 "(b)
 

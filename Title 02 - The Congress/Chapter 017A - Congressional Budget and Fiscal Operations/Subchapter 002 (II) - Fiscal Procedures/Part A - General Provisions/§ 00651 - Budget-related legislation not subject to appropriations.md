@@ -80,7 +80,7 @@ Subsec. (d)(2), (3). Pub. L. 105–33, §10116(a)(4)(B), (C), redesignated par. 
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(F), substituted "bill, joint resolution, amendment, motion, or conference report" for "bill, resolution, or conference report" and struck out "(or any amendment which provides such new spending authority)" after "subsection (c)(2)(A) or (B) of this section".
 
-Subsec. (b)(1). Pub. L. 101–508, §13207(a)(1)(G), substituted "bill, joint resolution, amendment, motion, orconference report, as reported to its House" for "bill or resolution" and struck out "(or any amendment which provides such new spending authority)" after "subsection (c)(2)(C) of this section".
+Subsec. (b)(1). Pub. L. 101–508, §13207(a)(1)(G), substituted "bill, joint resolution, amendment, motion, or conference report, as reported to its House" for "bill or resolution" and struck out "(or any amendment which provides such new spending authority)" after "subsection (c)(2)(C) of this section".
 
 <b>1986</b>—Subsec. (d)(1)(B). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 

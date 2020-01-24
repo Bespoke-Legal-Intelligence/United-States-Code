@@ -1,6 +1,6 @@
 ### §5948. Physicians comparability allowances
 
-(a) Notwithstanding any other provision of law, and in order to recruit and retain highly qualified Government physicians, the head of an agency, subject to the provisions of this section, section 5307, and such regulations as the President or his designee may prescribe, may enterinto a service agreement with a Government physician which provides for such physician to complete a specified period of service in such agency in return for an allowance for the duration of such agreement in an amount to be determined by the agency head and specified in the agreement, but not to exceed—
+(a) Notwithstanding any other provision of law, and in order to recruit and retain highly qualified Government physicians, the head of an agency, subject to the provisions of this section, section 5307, and such regulations as the President or his designee may prescribe, may enter into a service agreement with a Government physician which provides for such physician to complete a specified period of service in such agency in return for an allowance for the duration of such agreement in an amount to be determined by the agency head and specified in the agreement, but not to exceed—
 
 &emsp;(1) $14,000 per annum if, at the time the agreement is entered into, the Government physician has served as a Government physician for twenty-four months or less, or
 
@@ -90,7 +90,7 @@ Section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–571, §2(a)(1), struck out second sentence which read as follows: "No agreement shall be entered into under this section later than September 30, 2005, nor shall any agreement cover a period of service extending beyond September 30, 2007."
+<b>2000</b>—Subsec. (d). Pub. L. 106–571, §2(a)(1), struck out second sentence which read as follows: "No agreementshall be entered into under this section later than September 30, 2005, nor shall any agreement cover a period of service extending beyond September 30, 2007."
 
 Pub. L. 106–554 amended second sentence generally. Prior to amendment, second sentence read as follows: "No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002."
 
@@ -134,7 +134,7 @@ Subsec. (d). Pub. L. 100–140, §1(b), substituted "September 30, 1990" for "Se
 
 <b>1983</b>—Subsec. (d). Pub. L. 98–168 substituted "1987" for "1983", and "1989" for "1985".
 
-<b>1981</b>—Subsec. (d). Pub. L. 97–141, §2(1), substituted "September 30, 1983, nor shall any agreement cover aperiod of service extending beyond September 30, 1985" for "September 30, 1981, nor shall any agreement cover a period of service extending beyond September 30, 1983".
+<b>1981</b>—Subsec. (d). Pub. L. 97–141, §2(1), substituted "September 30, 1983, nor shall any agreement cover a period of service extending beyond September 30, 1985" for "September 30, 1981, nor shall any agreement cover a period of service extending beyond September 30, 1983".
 
 Subsec. (g)(1). Pub. L. 97–141, §2(2), (3), reenacted provisions preceding subpar. (A) without change, and in subpar. (F), substituted "chapter 4 of title I of the Foreign Service Act of 1980 (22 U.S.C. 3961 and following)" for "title 4 of the Foreign Service Act of 1946 (22 U.S.C. 861–890)".
 
@@ -210,7 +210,7 @@ Limitation.—A modification taking effect under this subsection in any year sha
 
 #### Effectiveness of Service Agreements Limited by Appropriation Acts
 
-Pub. L. 103–114, §1(a)(3), Oct. 26, 1993, 107 Stat. 1115, provided that: "Any service agreement entered into on or after the date of the enactment of this Act \[Oct. 26,1993\] pursuant to section 5948 of title 5, United States Code, as amended by paragraph (1), shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts."
+Pub. L. 103–114, §1(a)(3), Oct. 26, 1993, 107 Stat. 1115, provided that: "Any service agreement entered into on or after the date of the enactment of this Act \[Oct. 26, 1993\] pursuant to section 5948 of title 5, United States Code, as amended by paragraph (1), shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts."
 
 #### Due Date for First Annual Report on Operation of Section
 

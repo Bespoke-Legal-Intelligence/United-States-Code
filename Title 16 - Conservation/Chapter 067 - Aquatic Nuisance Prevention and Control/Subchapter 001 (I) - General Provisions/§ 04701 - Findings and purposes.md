@@ -108,7 +108,7 @@ Multiagency effort to slow the spread of asian carp in the upper mississippi and
 
 &emsp;"(A)
 
-In general.—The Director of the United States Fish and Wildlife Service, in coordinationwith the Secretary \[of the Army\], the Director of the National Park Service, and the Director of the United States Geological Survey, shall lead a multiagency effort to slow the spread of Asian carp in the Upper Mississippi and Ohio River basins and tributaries by providing technical assistance, coordination, best practices, and support to State and local governments in carrying out activities designed to slow, and eventually eliminate, the threat posed by Asian carp.
+In general.—The Director of the United States Fish and Wildlife Service, in coordination with the Secretary \[of the Army\], the Director of the National Park Service, and the Director of the United States Geological Survey, shall lead a multiagency effort to slow the spread of Asian carp in the Upper Mississippi and Ohio River basins and tributaries by providing technical assistance, coordination, best practices, and support to State and local governments in carrying out activities designed to slow, and eventually eliminate, the threat posed by Asian carp.
 
 &emsp;"(B)
 

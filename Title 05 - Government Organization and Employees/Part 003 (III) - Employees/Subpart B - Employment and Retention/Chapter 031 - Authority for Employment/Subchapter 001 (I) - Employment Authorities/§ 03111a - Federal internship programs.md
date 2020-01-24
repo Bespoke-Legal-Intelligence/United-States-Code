@@ -2,7 +2,7 @@
 
 (a)
 
-Internship Coordinator.—The head of each agency operating an internship programshall appoint an individual within such agency to serve as an internship coordinator.
+Internship Coordinator.—The head of each agency operating an internship program shall appoint an individual within such agency to serve as an internship coordinator.
 
 (b)
 

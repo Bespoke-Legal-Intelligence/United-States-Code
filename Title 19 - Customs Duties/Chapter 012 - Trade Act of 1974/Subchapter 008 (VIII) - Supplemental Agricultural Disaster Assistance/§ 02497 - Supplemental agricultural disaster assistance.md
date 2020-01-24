@@ -190,7 +190,7 @@ In this section:
 
 #### (C) Exclusion of subsequently planted crops
 
-&emsp;&emsp;In calculating the disaster assistance program guarantee under paragraph (3) and thetotal farm revenue under paragraph (4), the Secretary shall not consider the value of any crop that—
+&emsp;&emsp;In calculating the disaster assistance program guarantee under paragraph (3) and the total farm revenue under paragraph (4), the Secretary shall not consider the value of any crop that—
 
 &emsp;&emsp;&emsp;(i) is produced on land that is not eligible for a policy or plan of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or assistance under the noninsured crop assistance program; or
 
@@ -208,7 +208,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) the payment acres for the commodity that is equal to the number of acres planted, or prevented from being planted, to the commodity;
 
-&emsp;&emsp;&emsp;&emsp;(III) the payment yield for the commodity that is equal to the percentage of the crop insurance yield elected by the producer of the higher of—
+&emsp;&emsp;&emsp;&emsp;(III) the payment yield for the commodity that is equal to the percentage ofthe crop insurance yield elected by the producer of the higher of—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the adjusted actual production history yield; or
 
@@ -364,7 +364,7 @@ In this section:
 
 #### (ii) Exclusion
 
-&emsp;&emsp;&emsp;The term "covered livestock" does not include livestock that were or would havebeen in a feedlot, on the beginning date of the qualifying drought or fire condition, as a part of the normal business operation of the eligible livestock producer, as determined by the Secretary.
+&emsp;&emsp;&emsp;The term "covered livestock" does not include livestock that were or would have been in a feedlot, on the beginning date of the qualifying drought or fire condition, as a part of the normal business operation of the eligible livestock producer, as determined by the Secretary.
 
 #### (B) Drought monitor
 
@@ -620,7 +620,7 @@ In this section:
 
 #### (A) Definitions of legal entity and person
 
-&emsp;&emsp;In this paragraph, the terms "legal entity" and "person" have the meaning given thoseterms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>5</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
+&emsp;&emsp;In this paragraph, the terms "legal entity" and "person" have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>5</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
 
 #### (B) Amount
 
@@ -638,7 +638,7 @@ In this section:
 
 &emsp;&emsp;(A) in the case of each insurable commodity of the eligible producers on the farm, excluding grazing land, did not obtain a policy or plan of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) (excluding a crop insurance pilot program under that Act); or
 
-&emsp;&emsp;(B) in the case of each noninsurable commodity of the eligible producers on the farm, did not file the required paperwork, and pay the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program.
+&emsp;&emsp;(B) in the case of each noninsurable commodity of the eligible producers on the farm,did not file the required paperwork, and pay the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program.
 
 #### (2) Minimum
 
@@ -770,7 +770,7 @@ This section shall be effective only for losses that are incurred as the result 
 
 In implementing any other program which makes disaster assistance payments (except for indemnities made under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.)) <sup>7</sup> and section 7333 of title 7), the Secretary shall prevent duplicative payments with respect to the same loss for which a person receives a payment under subsections (b), (c), (d), (e), or (f).
 
-(Pub. L. 93–618, title IX, §901, as added Pub. L. 110–234, title XV, §15101(a), May 22, 2008, 122 Stat. 1484, and Pub. L. 110–246, §4(a), title XV, §15101(a), June 18, 2008, 122 Stat. 1664, 2246; amended Pub. L. 110–398, §2(b), Oct. 13, 2008, 122 Stat. 4218; Pub. L. 111–5, div. A, title I, §102(b), Feb. 17, 2009, 123 Stat. 123; Pub. L. 111–80, title VII, §745(b), Oct. 21, 2009, 123 Stat. 2130; Pub. L. 113–79, title XI, §11028(d), Feb. 7, 2014, 128 Stat. 978.)
+(Pub. L. 93–618, title IX, §901, as added Pub. L. 110–234, title XV, §15101(a), May 22, 2008, 122 Stat.1484, and Pub. L. 110–246, §4(a), title XV, §15101(a), June 18, 2008, 122 Stat. 1664, 2246; amended Pub. L. 110–398, §2(b), Oct. 13, 2008, 122 Stat. 4218; Pub. L. 111–5, div. A, title I, §102(b), Feb. 17, 2009, 123 Stat. 123; Pub. L. 111–80, title VII, §745(b), Oct. 21, 2009, 123 Stat. 2130; Pub. L. 113–79, title XI, §11028(d), Feb. 7, 2014, 128 Stat. 978.)
 
 #### References in Text
 

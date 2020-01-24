@@ -14,7 +14,7 @@
 
 (c)(1) Not later than five days after the Secretary receives a complaint submitted by a person under subsection (a), the Secretary shall notify such person in writing of his or her rights with respect to such complaint under this section and section 4323 or 4324, as the case may be.
 
-(2) The Secretary shall, upon request, provide technical assistance to a potential claimant with respect to a complaint under this subsection, and when appropriate, to such claimant's employer.
+(2) The Secretary shall, upon request, provide technical assistance to a potential claimantwith respect to a complaint under this subsection, and when appropriate, to such claimant's employer.
 
 (d) The Secretary shall investigate each complaint submitted pursuant to subsection (a). If the Secretary determines as a result of the investigation that the action alleged in such complaint occurred, the Secretary shall attempt to resolve the complaint by making reasonable efforts to ensure that the person or entity named in the complaint complies with the provisions of this chapter.
 

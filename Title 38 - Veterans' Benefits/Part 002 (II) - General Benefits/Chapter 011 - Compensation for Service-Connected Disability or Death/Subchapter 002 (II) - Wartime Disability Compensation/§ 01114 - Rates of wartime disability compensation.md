@@ -22,13 +22,13 @@ For the purposes of section 1110 of this title—
 
 &emsp;(j) if and while the disability is rated as total the monthly compensation shall be $2,673;
 
-&emsp;(k) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of one or more creative organs, or one foot, or one hand, or both buttocks, or blindness of one eye, having only light perception, has suffered complete organic aphonia with constant inability to communicate by speech, or deafness of both ears, having absence of air and bone conduction, or, in the case of a woman veteran, has suffered the anatomical loss of 25 percent or more of tissue from a single breast or both breasts in combination (including loss by mastectomy or partial mastectomy) or has received radiation treatment of breast tissue, the rate of compensation therefor shall be $96 per month for each such loss or loss of use independent of any other compensation provided in subsections (a) through (j) or subsection (s) of this section but in no event to exceed $3,327 per month; and in the event the veteran has suffered one or more of the disabilities heretofore specified in this subsection, in addition to the requirement for any of the rates specified in subsections (l) through (n) of this section, the rate of compensation shall be increased by $96 per month for each such loss or loss of use, but in no event to exceed $4,667 per month;
+&emsp;(k) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of one or more creative organs, or one foot, or one hand, or both buttocks, or blindness of one eye, having only light perception, has suffered complete organic aphonia with constant inability to communicate by speech, or deafness of both ears, having absence of air and bone conduction, or, in the case of a woman veteran, has suffered the anatomical loss of 25 percent or more of tissue from a single breast or both breasts in combination (including loss by mastectomy or partial mastectomy) or has received radiationtreatment of breast tissue, the rate of compensation therefor shall be $96 per month for each such loss or loss of use independent of any other compensation provided in subsections (a) through (j) or subsection (s) of this section but in no event to exceed $3,327 per month; and in the event the veteran has suffered one or more of the disabilities heretofore specified in this subsection, in addition to the requirement for any of the rates specified in subsections (l) through (n) of this section, the rate of compensation shall be increased by $96 per month for each such loss or loss of use, but in no event to exceed $4,667 per month;
 
 &emsp;(l) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of both feet, or of one hand and one foot, or is blind in both eyes, with 5/200 visual acuity or less, or is permanently bedridden or with such significant disabilities as to be in need of regular aid and attendance, the monthly compensation shall be $3,327;
 
 &emsp;(m) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of both hands, or of both legs with factors preventing natural knee action with prostheses in place, or of one arm and one leg with factors preventing natural elbow and knee action with prostheses in place, or has suffered blindness in both eyes having only light perception, or has suffered blindness in both eyes, rendering such veteran so significantly disabled as to be in need of regular aid and attendance, the monthly compensation shall be $3,671;
 
-&emsp;(n) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of both arms with factors preventing natural elbow action with prostheses in place, has suffered the anatomical loss of both legs with factors that preventthe use of prosthetic appliances, or has suffered the anatomical loss of one arm and one leg with factors that prevent the use of prosthetic appliances, or has suffered the anatomical loss of both eyes, or has suffered blindness without light perception in both eyes, the monthly compensation shall be $4,176;
+&emsp;(n) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of both arms with factors preventing natural elbow action with prostheses in place, has suffered the anatomical loss of both legs with factors that prevent the use of prosthetic appliances, or has suffered the anatomical loss of one arm and one leg with factors that prevent the use of prosthetic appliances, or has suffered the anatomical loss of both eyes, or has suffered blindness without light perception in both eyes, the monthly compensation shall be $4,176;
 
 &emsp;(o) if the veteran, as the result of service-connected disability, has suffered disability under conditions which would entitle such veteran to two or more of the rates provided in one or more subsections (l) through (n) of this section, no condition being considered twice in the determination, or if the veteran has suffered bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at 60 percent or more disabling and the veteran has also suffered service-connected total blindness with 20/200 visual acuity or less, or if the veteran has suffered service-connected total deafness in one ear or bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at 40 percent or more disabling and the veteran has also suffered service-connected blindness having only light perception or less, or if the veteran has suffered the anatomical loss of both arms with factors that prevent the use of prosthetic appliances, the monthly compensation shall be $4,667;
 
@@ -42,7 +42,7 @@ For the purposes of section 1110 of this title—
 
 &emsp;&emsp;(2) if the veteran, in addition to such need for regular aid and attendance, is in need of a higher level of care, such veteran shall be paid a monthly aid and attendance allowance at the rate of $2,983, in lieu of the allowance authorized in clause (1) of this subsection, if the Secretary finds that the veteran, in the absence of the provision of such care, would require hospitalization, nursing home care, or other residential institutional care.
 
-> &emsp;For the purposes of clause (2) of this subsection, need for a higher level of care shall be considered to be need for personal health-care services provided on a daily basis in the veteran's home by a person who is licensed to provide such services or who provides such services under the regular supervision of a licensed health-care professional. The existence of the need for such care shall be determined by a physician employed by the Department or, in areas where no such physician is available, by a physician carrying out such function under contract or fee arrangement based on an examination by such physician. For the purposes of section 1134 of this title, such allowance shall be considered as additional compensation payable for disability.
+> &emsp;For the purposes of clause (2) of this subsection, need for a higher level of care shall be considered to be need for personal health-care services provided on a daily basis in the veteran's home by a person who is licensed to provide such services or who provides such services under the regular supervision of a licensed health-care professional. The existence of the need for such care shall be determined by a physician employed by the Department or, inareas where no such physician is available, by a physician carrying out such function under contract or fee arrangement based on an examination by such physician. For the purposes of section 1134 of this title, such allowance shall be considered as additional compensation payable for disability.
 
 &emsp;(s) If the veteran has a service-connected disability rated as total, and (1) has additional service-connected disability or disabilities independently ratable at 60 percent or more, or, (2) by reason of such veteran's service-connected disability or disabilities, is permanently housebound, then the monthly compensation shall be $2,993. For the purpose of this subsection, the requirement of "permanently housebound" will be considered to have been met when the veteran is substantially confined to such veteran's house (ward or clinical areas, if institutionalized) or immediate premises due to a service-connected disability or disabilities which it is reasonably certain will remain throughout such veteran's lifetime.
 
@@ -940,7 +940,7 @@ Pub. L. 97–253, §405(b)(12), (h), eff. Jan. 1, 1983, substituted "$243" for "
 
 Subsec. (l). Pub. L. 97–66, §§101(a)(12), 104(1), substituted "loss of use of both feet" for "loss of use of both hands, or both feet" and "$1,403" for "$1,262".
 
-Subsec. (m). Pub. L. 97–66, §§101(a)(13), 104(2), substituted "both hands, or of both legs at a level, or with complications, preventing natural knee action with prostheses in place, or of one arm and one leg at levels, or with complications, preventing natural elbow and knee action with prostheses" for "two extremities at a level, or with complications, preventing natural elbow or knee action with prosthesis" and "$1,547" for "$1,391".
+Subsec. (m). Pub. L. 97–66, §§101(a)(13), 104(2), substituted "both hands, or of both legs at a level, or with complications, preventing natural knee action with prostheses in place, or of one arm and one leg at levels, or with complications, preventing natural elbow and knee action with prostheses" for "two extremities at alevel, or with complications, preventing natural elbow or knee action with prosthesis" and "$1,547" for "$1,391".
 
 Subsec. (n). Pub. L. 97–66, §§101(a)(14), 104(3), substituted "or loss of use of both arms at levels, or with complications, preventing natural elbow action with prostheses in place, has suffered the anatomical loss of both legs so near the hip as to prevent the use of prosthetic appliances, or has suffered the anatomical loss of one arm and one leg so near the shoulder and hip as to prevent the use of prosthetic appliances," for "of two extremities so near the shoulder or hip as to prevent the use of a prosthetic appliance" and "$1,758" for "$1,581".
 
@@ -1002,7 +1002,7 @@ Subsec. (s). Pub. L. 94–433, §§101(a)(17), 404(8), increased compensation fr
 
 <b>1975</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 94–71 increased compensation in subsec. (a) from $32 to $35, subsec. (b) from $59 to $65, subsec. (c) from $89 to $98, subsec. (d) from $122 to $134, subsec. (e) from $171 to $188, subsec. (f) from $211 to $236, subsec. (g) from $250 to $280, subsec. (h) from $289 to $324, subsec. (i) from $325 to $364, subsec. (j) from $584 to $655, subsec. (k) from $727 and $1,017 to $814 and $1,139 respectively, subsec. (l) from $727 to $814, subsec. (m) from $800 to $896, subsec. (n) from $909 to $1,018, subsec. (o) from $1,017 to $1,139, subsec. (p) from $1,017 to $1,139, subsec. (r) from $437 to $489, and subsec. (s) from $654 to $732.
 
-<b>1974</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 93–295 increased compensation in subsec. (a) from $28 to $32, subsec. (b) from $51 to $59, subsec. (c) from $77 to $89, subsec. (d) from $106 to $122, subsec. (e) from $149 to $171, subsec. (f) from $179 to $211, subsec. (g) from $212 to $250, subsec. (h) from $245 to $289, subsec. (i) from $275 to $325, subsec. (j) from $495 to $584, subsec. (k) from $47, $616 and $862 to $52, $727 and $1,017, respectively, subsec. (l) from $616 to $727, subsec. (m) from $678 to $800, subsec. (n) from $770 to $909, subsec. (o) from $862 to $1,017, subsec. (p) from $862 to $1,017, subsec. (r) from $370 to $437, and subsec. (s) from $554 to $654.
+<b>1974</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 93–295 increased compensation in subsec. (a) from $28 to $32, subsec. (b) from $51 to $59, subsec. (c) from $77 to $89, subsec. (d) from $106 to $122, subsec. (e) from $149 to $171, subsec. (f) from $179 to $211, subsec. (g) from $212 to $250, subsec. (h) from $245 to $289, subsec. (i) from $275to $325, subsec. (j) from $495 to $584, subsec. (k) from $47, $616 and $862 to $52, $727 and $1,017, respectively, subsec. (l) from $616 to $727, subsec. (m) from $678 to $800, subsec. (n) from $770 to $909, subsec. (o) from $862 to $1,017, subsec. (p) from $862 to $1,017, subsec. (r) from $370 to $437, and subsec. (s) from $554 to $654.
 
 <b>1972</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 92–328 increased compensation in subsec. (a) from $25 to $28, subsec. (b) from $46 to $51, subsec. (c) from $70 to $77, subsec. (d) from $96 to $106, subsec. (e) from $135 to $149, subsec. (f) from $163 to $179, subsec. (g) from $193 to $212, subsec. (h) from $223 to $245, subsec. (i) from $250 to $275, subsec. (j) from $450 to $495, subsec. (k) from $560 to $616 and $784 to $862, respectively, subsec. (l) from $560 to $616, subsec. (m) from $616 to $678, subsec. (n) from $700 to $770, subsec. (o) from $784 to $862, subsec. (p) from $784 to $862, subsec. (r) from $336 to $370, and subsec. (s) from $504 to $554.
 
@@ -1088,7 +1088,7 @@ Pub. L. 100–687, div. B, title XI, §1106, Nov. 18, 1988, 102 Stat. 4125, prov
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–227, title I, §107, Dec. 31, 1987, 101 Stat. 1555, provided that: "The amendments made by thistitle \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title and enacting provisions set out as notes under this section and section 101 of this title\] shall take effect as of December 1, 1987."
+Pub. L. 100–227, title I, §107, Dec. 31, 1987, 101 Stat. 1555, provided that: "The amendments made by this title \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title and enacting provisions set out as notes under this section and section 101 of this title\] shall take effect as of December 1, 1987."
 
 #### Effective Date of 1986 Amendment
 
@@ -1168,7 +1168,7 @@ Pub. L. 95–479, title IV, §401, Oct. 18, 1978, 92 Stat. 1566, provided that:
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–117, title V, §501, Oct. 3, 1977, 91 Stat. 1066, provided that: "Except as otherwise provided in thisAct, the amendments made by this Act to title 38, United States Code \[see Tables for classification\], shall become effective on October 1, 1977."
+Pub. L. 95–117, title V, §501, Oct. 3, 1977, 91 Stat. 1066, provided that: "Except as otherwise provided in this Act, the amendments made by this Act to title 38, United States Code \[see Tables for classification\], shall become effective on October 1, 1977."
 
 #### Effective Date of 1976 Amendment
 
@@ -1224,17 +1224,17 @@ Pub. L. 85–782, §2, Aug. 27, 1958, 72 Stat. 936, provided that the amendment 
 
 #### Repeal of Temporary Changes in Fiscal Year 1983 Compensation
 
-Pub. L. 97–253, title IV, §405, Sept. 8, 1982, 96 Stat. 803, \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title and enacting provisions set out as notes under this section\] was repealed by Pub. L. 97–306, title I, §107, Oct. 14, 1982, 96 Stat. 1431. Section 405 of Pub. L. 97–253 had amended those sections relating to compensation to be effective Jan. 1, 1983, in contemplation of the later enactment of a law providing for cost-of-living increases for fiscal year 1983, with the intent that the increases provided for under section 405 of Pub. L. 97–253 be superseded by increases provided for in the later law. Pub. L. 97–306 provided for the anticipated increases and repealed section 405 of Pub. L. 97–253.
+Pub. L. 97–253, title IV, §405, Sept. 8, 1982, 96 Stat. 803, \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title and enacting provisions set out as notes under this section\] was repealed by Pub. L. 97–306, title I, §107, Oct. 14, 1982, 96 Stat. 1431. Section 405 of Pub. L. 97–253 had amended those sections relating to compensation to beeffective Jan. 1, 1983, in contemplation of the later enactment of a law providing for cost-of-living increases for fiscal year 1983, with the intent that the increases provided for under section 405 of Pub. L. 97–253 be superseded by increases provided for in the later law. Pub. L. 97–306 provided for the anticipated increases and repealed section 405 of Pub. L. 97–253.
 
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
 
-Pub. L. 115–258, §§2(a)–(c), (3), Oct. 9, 2018, 132 Stat. 3662, 3663, provided that:
+Pub. L. 116–58, §§2(a)–(c), 3, Sept. 26, 2019, 133 Stat. 1091, 1092, provided that:
 
 #### "SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.
 
 "(a)
 
-Rate Adjustment.—Effective on December 1, 2018, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2018, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
+Rate Adjustment.—Effective on December 1, 2019, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2019, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
 
 "(b)
 
@@ -1262,13 +1262,15 @@ Dependency and indemnity compensation to children.—Each of the dollar amounts 
 
 "(c)
 
-Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effectiveDecember 1, 2018, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
+Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 2019, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
 
 #### "SEC. 3. PUBLICATION OF ADJUSTED RATES.
 
-"The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2019."
+"The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2020."
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 115–258, §§2(a)–(c), (3), Oct. 9, 2018, 132 Stat. 3662, 3663.
 
 Pub. L. 115–75, §§2(a)–(c), 3, Nov. 2, 2017, 131 Stat. 1244, 1245.
 
@@ -1312,9 +1314,11 @@ Pub. L. 102–510, §2(a), (c), Oct. 24, 1992, 106 Stat. 3318, 3319.
 
 #### Administrative Adjustment of Disability Rates of Certain Persons Not Covered by This Chapter
 
-Pub. L. 115–258, §2(d), Oct. 9, 2018, 132 Stat. 3662, provided that: "The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) \[set out as a note above\], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) \[set out as a note preceding section 101 of this title\] who have not received compensation under chapter 11 of title 38, United States Code."
+Pub. L. 116–58, §2(d), Sept. 26, 2019, 133 Stat. 1091, provided that: "The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) \[set out as a note above\], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) \[set out as a note preceding section 101 of this title\] who have not received compensation under chapter 11 of title 38, United States Code."
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 115–258, §2(d), Oct. 9, 2018, 132 Stat. 3662.
 
 Pub. L. 115–75, §2(d), Nov. 2, 2017, 131 Stat. 1244.
 

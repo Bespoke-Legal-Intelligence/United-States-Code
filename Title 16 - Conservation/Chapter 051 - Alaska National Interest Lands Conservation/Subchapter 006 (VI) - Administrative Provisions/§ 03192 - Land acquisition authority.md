@@ -46,7 +46,7 @@ For the purposes of this section, the term "improved property" means—
 
 #### (g) Consideration of hardship
 
-The Secretary shall give prompt and careful consideration to any offer made by the owner of any property within a conservation system unit to sell such property, if such owner notifies theSecretary that the continued ownership is causing, or would result in, undue hardship.
+The Secretary shall give prompt and careful consideration to any offer made by the owner of any property within a conservation system unit to sell such property, if such owner notifies the Secretary that the continued ownership is causing, or would result in, undue hardship.
 
 #### (h) Exchange authority
 

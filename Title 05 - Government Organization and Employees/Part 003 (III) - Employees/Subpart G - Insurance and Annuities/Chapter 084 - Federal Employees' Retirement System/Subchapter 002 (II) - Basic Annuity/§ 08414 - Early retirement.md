@@ -1,6 +1,6 @@
 ### §8414. Early retirement
 
-(a)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for less than fully successful executive performance (as determined under subchapter II of chapter 43 of this title) after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
+(a)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for less than fully successful executive performance (as determined under subchapter IIof chapter 43 of this title) after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
 
 (2) A member of the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
 

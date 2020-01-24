@@ -27,11 +27,13 @@
 | [4980F.](%C2%A7%2004980F%20-%20Failure%20of%20applicable%20plans%20reducing%20benefit%20accruals%20to%20satisfy%20notice%20requirements.md) | Failure of applicable plans reducing benefit accruals to satisfy notice requirements. |
 | [4980G.](%C2%A7%2004980G%20-%20Failure%20of%20employer%20to%20make%20comparable%20health%20savings%20account%20contributions.md) | Failure of employer to make comparable health savings account contributions. |
 | [4980H.](%C2%A7%2004980H%20-%20Shared%20responsibility%20for%20employers%20regarding%20health%20coverage.md) | Shared responsibility for employers regarding health coverage. |
-| [4980I.](%C2%A7%2004980I%20-%20Excise%20tax%20on%20high%20cost%20employer-sponsored%20health%20coverage.md) | Excise tax on high cost employer-sponsored health coverage. |
+| \[4980I. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–94, div. N, title I, §503(b)(3), Dec. 20, 2019, 133 Stat. 3120, struck out item 4980I "Excise tax on high cost employer-sponsored health coverage".
 
 <b>2010</b>—Pub. L. 111–148, title I, §1513(b), title IX, §9001(b), Mar. 23, 2010, 124 Stat. 256, 853, added items 4980H and 4980I.
 
@@ -53,7 +55,7 @@ Pub. L. 104–188, title I, §1602(b)(5)(B), Aug. 20, 1996, 110 Stat. 1834, stru
 
 <b>1987</b>—Pub. L. 100–203, title X, §10413(b)(2), Dec. 22, 1987, 101 Stat. 1330–438, added item 4978A.
 
-<b>1986</b>—Pub. L. 99–514, title XI, §§1117(b)(2), 1121(a)(2), 1131(c)(2), 1132(b), 1133(b), title XVIII, §§1854(a)(9)(C), 1899A(75), Oct. 22, 1986, 100 Stat. 2462, 2465, 2478, 2480, 2483, 2877, 2963, added item 4972, inserted "section" in item 4973, substituted "Excise tax on certain accumulations in qualified retirement plans" for "Tax on certain accumulations in individual retirement accounts" in item 4974, struck out "and allocations" after "certain dispositions" in item 4978, and added items 4979, 4979A, 4980, and 4981A.
+<b>1986</b>—Pub. L. 99–514, title XI, §§1117(b)(2), 1121(a)(2), 1131(c)(2), 1132(b), 1133(b), title XVIII, §§1854(a)(9)(C),1899A(75), Oct. 22, 1986, 100 Stat. 2462, 2465, 2478, 2480, 2483, 2877, 2963, added item 4972, inserted "section" in item 4973, substituted "Excise tax on certain accumulations in qualified retirement plans" for "Tax on certain accumulations in individual retirement accounts" in item 4974, struck out "and allocations" after "certain dispositions" in item 4978, and added items 4979, 4979A, 4980, and 4981A.
 
 <b>1984</b>—Pub. L. 98–369, div. A, title IV, §491(d)(56), title V, §§511(c)(2), 531(e)(2), 545(b), July 18, 1984, 98 Stat. 852, 862, 886, 896, substituted "and certain individual retirement annuities" for "certain individual retirement annuities, and certain retirement bonds" in item 4973 and added items 4976 to 4978.
 
@@ -89,4 +91,4 @@ Pub. L. 104–188, title I, §1602(b)(5)(B), Aug. 20, 1996, 110 Stat. 1834, stru
 - [&sect; 04980F - Failure of applicable plans reducing benefit accruals to satisfy notice requirements](%C2%A7%2004980F%20-%20Failure%20of%20applicable%20plans%20reducing%20benefit%20accruals%20to%20satisfy%20notice%20requirements.md)
 - [&sect; 04980G - Failure of employer to make comparable health savings account contributions](%C2%A7%2004980G%20-%20Failure%20of%20employer%20to%20make%20comparable%20health%20savings%20account%20contributions.md)
 - [&sect; 04980H - Shared responsibility for employers regarding health coverage](%C2%A7%2004980H%20-%20Shared%20responsibility%20for%20employers%20regarding%20health%20coverage.md)
-- [&sect; 04980I - Excise tax on high cost employer-sponsored health coverage](%C2%A7%2004980I%20-%20Excise%20tax%20on%20high%20cost%20employer-sponsored%20health%20coverage.md)
+- [&sect; 04980I - Repealed. Pub. L. 116&#8211;94, div. N, title I, &sect;503(a), Dec. 20, 2019, 133 Stat. 3119](%C2%A7%2004980I%20-%20Repealed.%20Pub.%20L.%20116%E2%80%9394%2C%20div.%20N%2C%20title%20I%2C%20%C2%A7503%28a%29%2C%20Dec.%2020%2C%202019%2C%20133%20Stat.%203119.md)

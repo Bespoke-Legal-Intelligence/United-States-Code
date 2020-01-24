@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 92–179, §1(b), added subsec. (c) consisting of provision
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–614, §1, Nov. 8, 1984, 98 Stat. 3192, provided: "That this Act \[amending sections 903 to 906 and 908 to 912 of this title\] may be cited as the 'Reorganization Act Amendments of 1984'."
+Pub. L. 98–614, §1, Nov. 8, 1984, 98 Stat. 3192, provided: "That this Act \[amending sections 903 to 906 and 908 to912 of this title\] may be cited as the 'Reorganization Act Amendments of 1984'."
 
 #### Short Title of 1977 Amendment
 
@@ -72,7 +72,7 @@ Ex. Ord. No. 6166, June 10, 1933, provided:
 
 Procurement
 
-The function of determination of policies and methods of procurement, warehousing, and distribution ofproperty, facilities, structures, improvements, machinery, equipment, stores, and supplies exercised by an agency is transferred to a Procurement Division in the Treasury Department, at the head of which shall be a Director of Procurement.
+The function of determination of policies and methods of procurement, warehousing, and distribution of property, facilities, structures, improvements, machinery, equipment, stores, and supplies exercised by an agency is transferred to a Procurement Division in the Treasury Department, at the head of which shall be a Director of Procurement.
 
 The Office of the Supervising Architect of the Treasury Department is transferred to the Procurement Division, except that the buildings of the Treasury Department shall be administered by the Treasury Department and the administration of post-office buildings is transferred to the Post Office Department. The General Supply Committee of the Treasury Department is abolished.
 
@@ -280,7 +280,7 @@ As to any case referred to the Department of Justice for prosecution or defense 
 
 For the exercise of such of his functions as are not transferred to the Department of Justice by the foregoing two paragraphs, the Solicitor of the Treasury is transferred from the Department of Justice to the Treasury Department.
 
-Nothing in this section shall be construed to affect the function of any agency or officer with respect tocases at any stage prior to reference to the Department of Justice for prosecution or defense.
+Nothing in this section shall be construed to affect the function of any agency or officer with respect to cases at any stage prior to reference to the Department of Justice for prosecution or defense.
 
 #### Effective Date
 
@@ -388,7 +388,7 @@ Each agency, all the functions of which are transferred to or consolidated with 
 
 The records pertaining to an abolished agency or a function disposed of, disposition of which is not elsewhere herein provided for, shall be transferred to the successor. If there be no successor agency, and such abolished agency be within a department, said records shall be disposed of as the head of such department may direct.
 
-The property, facilities, equipment, and supplies employed in the work of an abolished agency or the exercise of a function disposed of, disposition of which is not elsewhere herein provided for, shall, to the extent required, be transferred to the successor agency. Other such property, facilities, equipment, and supplies shall be transferred to the Procurement Division.
+The property, facilities, equipment, and supplies employed in the work of an abolished agency or the exercise of a function disposed of, disposition of which is not elsewhere herein provided for, shall, to the extentrequired, be transferred to the successor agency. Other such property, facilities, equipment, and supplies shall be transferred to the Procurement Division.
 
 All personnel employed in connection with the work of an abolished agency or function disposed of shall be separated from the service of the United States, except that the head of any successor agency, subject to my approval, may, within a period of four months after transfer or consolidation, reappoint any of such personnel required for the work of the successor agency without reexamination or loss of civil-service status.
 

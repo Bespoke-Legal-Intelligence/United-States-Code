@@ -28,7 +28,7 @@ Prohibition on Naming Department of Defense Real Property After Member of Congre
 
 &emsp;(A) The term "Member of Congress" includes a Delegate or Resident Commissioner to the Congress.
 
-&emsp;(B) The term "real property" includes structures, buildings, or other infrastructure of amilitary installation, roadways and defense access roads, and any other area on the grounds of a military installation.
+&emsp;(B) The term "real property" includes structures, buildings, or other infrastructure of a military installation, roadways and defense access roads, and any other area on the grounds of a military installation.
 
 (d)
 
@@ -61,6 +61,48 @@ Subsec. (c). Pub. L. 108–375, §2821(a)(1), added subsec. (c).
 #### Effective Date of 2011 Amendment
 
 Pub. L. 112–81, div. B, title XXVIII, §2863(b), Dec. 31, 2011, 125 Stat. 1702, provided that: "The prohibition in subsection (c) of section 2661 of title 10, United States Code, as added by subsection (a), shall apply only with respect to real property of the Department of Defense named after the date of the enactment of this Act \[Dec. 31, 2011\]."
+
+#### Department of Defense Policy on Lead-Based Paint Testing on Military Installations
+
+Pub. L. 116–92, div. B, title XXX, §3054, Dec. 20, 2019, 133 Stat. 1943, provided that:
+
+"(a)
+
+Access and Testing Policy.—Not later than February 1, 2020, the Secretary of Defense shall establish a policy under which the Secretary of the military department concerned may permit a qualified individual to access a military installation for the purpose of conducting testing for the presence of lead-based paint on the installation.
+
+"(b)
+
+Transmission of Results.—
+
+&emsp;"(1)
+
+Installations inside the united states.—In the case of military installations located inside the United States, the results of any testing for lead-based paint on a military installation shall be transmitted the following:
+
+&emsp;&emsp;"(A) The civil engineer of the installation.
+
+&emsp;&emsp;"(B) The housing management office of the installation.
+
+&emsp;&emsp;"(C) The public health organization on the installation.
+
+&emsp;&emsp;"(D) The major subordinate command of the Armed Force with jurisdiction over the installation.
+
+&emsp;&emsp;"(E) If required by law, any relevant Federal, State, and local agencies.
+
+&emsp;"(2)
+
+Installations outside the united states.—In the case of military installations located outside the United States, the results of any testing for lead-based paint on a military installation shall be transmitted to the civil engineer or commander of the installation who shall transmit those results to the major subordinate command of the Armed Force with jurisdiction over the installation.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'United States' has the meaning given that term in section 101(a)(1) of title 10, United States Code.
+
+&emsp;"(2) The term 'qualified individual' means an individual who is certified by the Environmental Protection Agency or by a State as—
+
+&emsp;&emsp;"(A) a lead-based paint inspector; or
+
+&emsp;&emsp;"(B) a lead-based paint risk assessor."
 
 #### Prioritization of Environmental Impacts for Facilities Sustainment, Restoration, and Modernization Demolition
 
@@ -152,7 +194,7 @@ In general.—The term 'beneficial owner'—
 
 &emsp;&emsp;"(B)
 
-Anti-abuse rule.—The exceptions under subparagraph (A)(ii) shall not apply if used for the purpose of evading, circumventing, or abusing the requirements of this section.
+Anti-abuse rule.—The exceptions under subparagraph (A)(ii) shall not apply if used for thepurpose of evading, circumventing, or abusing the requirements of this section.
 
 &emsp;"(2)
 

@@ -84,11 +84,11 @@
 
 &emsp;&emsp;&emsp;(ii) describe the purposes and overall expected results of waiving each such requirement, which may include innovative methods to leverage resources to improve program efficiencies that benefit students;
 
-&emsp;&emsp;&emsp;(iii) describe, for each school year, specific, measurable, educational goals for each local educational agency, educational service agency, or school affected by the proposed waiver, and for the students served by the local educational agency, educational service agency, or school who are affected by the waiver;
+&emsp;&emsp;&emsp;(iii) describe, for each school year, specific, measurable, educational goals foreach local educational agency, educational service agency, or school affected by the proposed waiver, and for the students served by the local educational agency, educational service agency, or school who are affected by the waiver;
 
 &emsp;&emsp;&emsp;(iv) explain why the waiver will assist the local educational agency, educational service agency, or school in reaching such goals; and
 
-&emsp;&emsp;&emsp;(v) in the case of an application from a local educational agency or educationalservice agency, describe how the agency will meet the requirements of paragraph (7).
+&emsp;&emsp;&emsp;(v) in the case of an application from a local educational agency or educational service agency, describe how the agency will meet the requirements of paragraph (7).
 
 #### (B) Evaluation of applications
 
@@ -224,11 +224,11 @@
 
 #### (7) Public notice and comment
 
-&emsp;Each State educational agency seeking waiver authority under this section and each local educational agency, educational service agency, or school seeking a waiver under this section—
+&emsp;Each State educational agency seeking waiver authority under this section and eachlocal educational agency, educational service agency, or school seeking a waiver under this section—
 
 &emsp;&emsp;(A) shall provide the public with adequate and efficient notice of the proposed waiver authority or waiver, consisting of a description of the agency's application for the proposed waiver authority or waiver on each agency's website, including a description of any improved student performance that is expected to result from the waiver authority or waiver;
 
-&emsp;&emsp;(B) shall provide the opportunity for parents, educators, school administrators, andall other interested members of the community to comment regarding the proposed waiver authority or waiver;
+&emsp;&emsp;(B) shall provide the opportunity for parents, educators, school administrators, and all other interested members of the community to comment regarding the proposed waiver authority or waiver;
 
 &emsp;&emsp;(C) shall provide the opportunity described in subparagraph (B) in accordance with any applicable State law specifying how the comments may be received, and how the comments may be reviewed by any member of the public; and
 
@@ -296,7 +296,7 @@ A notice of the Secretary's decision to authorize State educational agencies to 
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(2)(A)(ii), (3)(A)(v), (b)(1), and (c)(1)(G), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. Parts A, C, and D of title I of the Act are classified generally to parts A (§6311 et seq.), C (§6391 et seq.), and D (§6421 et seq.), respectively, of subchapter I of chapter 70 of this title. Part A of title II of the Act is classified generally to part A (§6611 et seq.) of subchapter II of chapter 70 of this title. Part A of title IV of the Act is classified generally to part A (§7101) of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(2)(A)(ii), (3)(A)(v), (b)(1), and (c)(1)(G), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. Parts A, C, and D of title I of the Act are classified generally to parts A (§6311 et seq.), C (§6391 et seq.), and D (§6421 et seq.), respectively, of subchapter I of chapter 70 of this title. Part A of title II of the Act is classified generally to part A (§6611 et seq.) of subchapter II of chapter 70 of this title. Part A of title IV of the Act isclassified generally to part A (§7101) of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Every Student Succeeds Act, referred to in subsec. (a)(2)(A)(ii), is Pub. L. 114–95, Dec. 10, 2015, 129 Stat. 1802. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 6301 of this title and Tables.
 

@@ -78,7 +78,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (16) Customer premises equipment
 
-&emsp;The term "customer premises equipment" means equipment employed on the premises of a person (other than a carrier) to originate, route, or terminate telecommunications.
+&emsp;The term "customer premises equipment" means equipment employed on the premises ofa person (other than a carrier) to originate, route, or terminate telecommunications.
 
 #### (17) Dialing parity
 
@@ -150,7 +150,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (33) Mobile service
 
-&emsp;The term "mobile service" means a radio communication service carried on between mobile stations or receivers and land stations, and by mobile stations communicating among themselves, and includes (A) both one-way and two-way radio communication services, (B) a mobile service which provides a regularly interacting group of base, mobile, portable,and associated control and relay stations (whether licensed on an individual, cooperative, or multiple basis) for private one-way or two-way land mobile radio communications by eligible users over designated areas of operation, and (C) any service for which a license is required in a personal communications service established pursuant to the proceeding entitled "Amendment to the Commission's Rules to Establish New Personal Communications Services" (GEN Docket No. 90–314; ET Docket No. 92–100), or any successor proceeding.
+&emsp;The term "mobile service" means a radio communication service carried on between mobile stations or receivers and land stations, and by mobile stations communicating among themselves, and includes (A) both one-way and two-way radio communication services, (B) a mobile service which provides a regularly interacting group of base, mobile, portable, and associated control and relay stations (whether licensed on an individual, cooperative, or multiple basis) for private one-way or two-way land mobile radio communications by eligible users over designated areas of operation, and (C) any service for which a license is required in a personal communications service established pursuant to the proceeding entitled "Amendment to the Commission's Rules to Establish New Personal Communications Services" (GEN Docket No. 90–314; ET Docket No. 92–100), or any successor proceeding.
 
 #### (34) Mobile station
 
@@ -210,7 +210,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;&emsp;(A) provides common carrier service to any local exchange carrier study area that does not include either—
 
-&emsp;&emsp;&emsp;(i) any incorporated place of 10,000 inhabitants or more, or any part thereof, basedon the most recently available population statistics of the Bureau of the Census; or
+&emsp;&emsp;&emsp;(i) any incorporated place of 10,000 inhabitants or more, or any part thereof, based on the most recently available population statistics of the Bureau of the Census; or
 
 &emsp;&emsp;&emsp;(ii) any territory, incorporated or unincorporated, included in an urbanized area, as defined by the Bureau of the Census as of August 10, 1993;
 
@@ -280,11 +280,11 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (B) Digital television service
 
-&emsp;&emsp;The term "digital television service" means television service provided pursuant to the transmission standards prescribed by the Commission in section 73.682(d) of its regulations (47 C.F.R. 73.682(d)).
+&emsp;&emsp;The term "digital television service" means television service provided pursuantto the transmission standards prescribed by the Commission in section 73.682(d) of its regulations (47 C.F.R. 73.682(d)).
 
 #### (57) Transmission of energy by radio
 
-&emsp;The term "transmission of energy by radio" or "radio transmission of energy" includesboth such transmission and all instrumentalities, facilities, and services incidental to such transmission.
+&emsp;The term "transmission of energy by radio" or "radio transmission of energy" includes both such transmission and all instrumentalities, facilities, and services incidental to such transmission.
 
 #### (58) United States
 
@@ -456,7 +456,7 @@ Video description.—The term 'video description' has the meaning given such ter
 
 Video programming.—The term 'video programming' has the meaning given such term in section 713 of the Communications Act of 1934 (47 U.S.C. 613)."
 
-Pub. L. 105–33, title III, §3001(a), Aug. 5, 1997, 111 Stat. 258, provided that: "Except as otherwise provided in this title \[enacting section 337 of this title, amending this section and sections 303, 309, and 923 to 925 of this title, enacting provisions set out as notes under sections 254, 309, and 925 of this title, and repealing provisions set out as a note under section 309 of this title\], the terms used in this title have the meanings providedin section 3 of the Communications Act of 1934 (47 U.S.C. 153), as amended by this section."
+Pub. L. 105–33, title III, §3001(a), Aug. 5, 1997, 111 Stat. 258, provided that: "Except as otherwise provided in this title \[enacting section 337 of this title, amending this section and sections 303, 309, and 923 to 925 of this title, enacting provisions set out as notes under sections 254, 309, and 925 of this title, and repealing provisions set out as a note under section 309 of this title\], the terms used in this title have the meanings provided in section 3 of the Communications Act of 1934 (47 U.S.C. 153), as amended by this section."
 
 Pub. L. 104–104, §3(b), Feb. 8, 1996, 110 Stat. 61, provided that: "Except as otherwise provided in this Act \[see Short Title of 1996 Amendment note set out under section 609 of this title\], the terms used in this Act have the meanings provided in section 3 of the Communications Act of 1934 (47 U.S.C. 153), as amended by this section."
 

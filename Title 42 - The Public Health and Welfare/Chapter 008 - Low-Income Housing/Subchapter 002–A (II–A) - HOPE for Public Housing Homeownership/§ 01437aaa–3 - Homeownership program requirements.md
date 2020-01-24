@@ -30,7 +30,7 @@ Acquisition or rehabilitation of public housing projects under a homeownership p
 
 #### (1) In general
 
-&emsp;The application shall identify and describe the proposed financing for (A) any rehabilitation, and (B) acquisition (i) of the project, where applicable, by an entity other than the public housing agency for transfer to eligible families, and (ii) by eligible families of ownership interests in, or shares representing, units in the project. Financing may include use of the implementation grant, sale for cash, or other sources of financing (subject to applicable requirements), including conventional mortgage loans and mortgage loans insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\].
+&emsp;The application shall identify and describe the proposed financing for (A) any rehabilitation, and (B) acquisition (i) of the project, where applicable, by an entity other than the public housing agency for transfer to eligiblefamilies, and (ii) by eligible families of ownership interests in, or shares representing, units in the project. Financing may include use of the implementation grant, sale for cash, or other sources of financing (subject to applicable requirements), including conventional mortgage loans and mortgage loans insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\].
 
 #### (2) Prohibition against pledges
 
@@ -46,7 +46,7 @@ Acquisition or rehabilitation of public housing projects under a homeownership p
 
 #### (3) Opportunity to cure
 
-&emsp;Any lender that provides financing in connection with a homeownership program underthis subchapter shall give the public housing agency, resident management corporation, individual owner, or other appropriate entity a reasonable opportunity to cure a financial default before foreclosing on the property, or taking other action as a result of the default.
+&emsp;Any lender that provides financing in connection with a homeownership program under this subchapter shall give the public housing agency, resident management corporation, individual owner, or other appropriate entity a reasonable opportunity to cure a financial default before foreclosing on the property, or taking other action as a result of the default.
 
 #### (f) Housing quality standards
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in section 5005 of this title, any person who, in connection with a substitute check, breaches any warranty under this chapter or fails to comply with any requirement imposed by, or regulation prescribed pursuant to, this chapter with respect to any other person shall be liable to such person in an amount equal to the sum of—
+&emsp;Except as provided in section 5005 of this title, any person who, in connection with asubstitute check, breaches any warranty under this chapter or fails to comply with any requirement imposed by, or regulation prescribed pursuant to, this chapter with respect to any other person shall be liable to such person in an amount equal to the sum of—
 
 &emsp;&emsp;(A) the lesser of—
 

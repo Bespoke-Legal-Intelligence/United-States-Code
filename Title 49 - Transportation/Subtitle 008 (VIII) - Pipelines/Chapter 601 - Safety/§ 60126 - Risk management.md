@@ -8,7 +8,7 @@ Risk Management Program Demonstration Projects.—
 
 In general.—The Secretary shall establish risk management demonstration projects—
 
-&emsp;&emsp;(A) to demonstrate, through the voluntary participation by owners and operators of gaspipeline facilities and hazardous liquid pipeline facilities, the application of risk management; and
+&emsp;&emsp;(A) to demonstrate, through the voluntary participation by owners and operators of gas pipeline facilities and hazardous liquid pipeline facilities, the application of risk management; and
 
 &emsp;&emsp;(B) to evaluate the safety and cost-effectiveness of the program.
 
@@ -48,7 +48,7 @@ Requirements.—In carrying out a demonstration project under this section, the 
 
 &emsp;&emsp;&emsp;(ii) the risk management plans carried out under the demonstration project under this subsection can be audited;
 
-&emsp;&emsp;(H) a process whereby an owner or operator of a pipeline facility is able to terminate a risk management plan or, with the approval of the Secretary, to amend, modify, or otherwise adjust a risk management plan referred to in paragraph (1) that has been approved by the Secretary pursuant to that paragraph to respond to—
+&emsp;&emsp;(H) a process whereby an owner or operator of a pipeline facility is able to terminatea risk management plan or, with the approval of the Secretary, to amend, modify, or otherwise adjust a risk management plan referred to in paragraph (1) that has been approved by the Secretary pursuant to that paragraph to respond to—
 
 &emsp;&emsp;&emsp;(i) changed circumstances; or
 

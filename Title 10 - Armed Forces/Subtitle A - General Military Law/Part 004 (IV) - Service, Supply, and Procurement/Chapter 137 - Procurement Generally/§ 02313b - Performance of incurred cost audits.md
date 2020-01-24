@@ -54,13 +54,13 @@ Procedures for the Use of Qualified Private Auditors.—(1) Not later than Octob
 
 (4) The Secretary of Defense shall consider the results of an incurred cost audit performed under this section without regard to whether the Defense Contract Audit Agency or a qualified private auditor performed the audit.
 
-(5) The contracting officer for a contract that is the subject of an incurred cost audit shall have the sole discretion to determine what action should be taken based on an audit finding on direct costs of the contract.
+(5) The contracting officer for a contract that is the subject of an incurred cost audit shallhave the sole discretion to determine what action should be taken based on an audit finding on direct costs of the contract.
 
 (d)
 
-Qualified Private Auditor Requirements.—(1) A qualified private auditor awarded a contract or issued an <sup>1</sup> task order under subsection (c)(2) shall conduct an incurred cost audit in accordance with the generally accepted government auditing standards.
+Qualified Private Auditor Requirements.—(1) A qualified private auditor awarded a contract or issued a task order under subsection (c)(2) shall conduct an incurred cost audit in accordance with the generally accepted government auditing standards.
 
-(2) A qualified private auditor awarded a contract or issued an <sup>1</sup> task order under subsection (c)(2) shall develop and maintain complete and accurate working papers on each incurred cost audit. All working papers and reports on the incurred cost audit prepared by such qualified private auditor shall be the property of the Department of Defense, except that the qualified private auditor may retain a complete copy of all working papers to support such reports made pursuant to this section.
+(2) A qualified private auditor awarded a contract or issued a task order under subsection (c)(2) shall develop and maintain complete and accurate working papers on each incurred cost audit. All working papers and reports on the incurred cost audit prepared by such qualified private auditor shall be the property of the Department of Defense, except that the qualified private auditor may retain a complete copy of all working papers to support such reports made pursuant to this section.
 
 (3) A breach of contract by a qualified private auditor with respect to use of proprietary or nonpublic data may subject the qualified private auditor to—
 
@@ -116,7 +116,7 @@ Definitions.—In this section:
 
 &emsp;(4) The term "generally accepted government auditing standards" means the generally accepted government auditing standards of the Comptroller General of the United States.
 
-&emsp;(5) The term "numeric materiality standard" means a dollar amount of misstatements, including omissions, contained in an incurred cost audit that would be material if the misstatements, individually or in the aggregate, could reasonably be expected to influence the economic decisions of the Government made on the basis of the incurred cost audit.
+&emsp;(5) The term "numeric materiality standard" means a dollar amount of misstatements, including omissions, contained in an incurredcost audit that would be material if the misstatements, individually or in the aggregate, could reasonably be expected to influence the economic decisions of the Government made on the basis of the incurred cost audit.
 
 &emsp;(6) The term "qualified incurred cost submission" means a submission by a contractor of costs incurred under a flexibly priced contract that has been qualified by the Department of Defense as sufficient to conduct an incurred cost audit.
 
@@ -126,7 +126,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) that has received a passing peer review rating, as defined by generally accepted government auditing standards.
 
-(Added Pub. L. 115–91, div. A, title VIII, §803(a), Dec. 12, 2017, 131 Stat. 1451; amended Pub. L. 115–232, div. A, title X, §1081(a)(19), Aug. 13, 2018, 132 Stat. 1984.)
+(Added Pub. L. 115–91, div. A, title VIII, §803(a), Dec. 12, 2017, 131 Stat. 1451; amended Pub. L. 115–232, div. A, title X, §1081(a)(19), Aug. 13, 2018, 132 Stat. 1984; Pub. L. 116–92, div. A, title XVII, §1731(a)(41), Dec. 20, 2019, 133 Stat. 1814.)
 
 #### References in Text
 
@@ -136,7 +136,7 @@ Section 809 of the National Defense Authorization Act for Fiscal Year 2016, refe
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b)(1)(E). Pub. L. 115–232 redesignated cls. (A) and (B) as (i) and (ii), respectively.
+<b>2019</b>—Subsec. (d)(1), (2). Pub. L. 116–92 substituted "a task order" for "an task order".
 
-<i><sup>1</sup></i><i> So in original. Probably should be "a".</i>
+<b>2018</b>—Subsec. (b)(1)(E). Pub. L. 115–232 redesignated cls. (A) and (B) as (i) and (ii), respectively.
 

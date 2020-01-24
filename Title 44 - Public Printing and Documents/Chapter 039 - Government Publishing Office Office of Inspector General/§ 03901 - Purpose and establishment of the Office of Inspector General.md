@@ -18,7 +18,7 @@ In order to create an independent and objective office—
 
 #### Change of Name
 
-"Government Publishing Office" substituted for "Government Printing Office" in pars. (1) and (3) andconcluding provisions on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
+"Government Publishing Office" substituted for "Government Printing Office" in pars. (1) and (3) and concluding provisions on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
 
 #### Effective Date
 

@@ -42,7 +42,7 @@ Section 7392, acts Aug. 10, 1956, ch. 1041, 70A Stat. 456; July 10, 1962, Pub. L
 
 Section 7393, acts Aug. 10, 1956, ch. 1041, 70A Stat. 456; July 10, 1962, Pub. L. 87–533, §1(a)(4), 76 Stat. 154, directed that certain identifying information be printed on United States Naval Oceanographic pilot charts, and that the Department of Commerce's Weather Bureau provide the Naval Oceanographic Office with data necessary for their preparation, and was reenacted as section 452 of this title.
 
-Section 7394, acts Aug. 10, 1956, ch. 1041, 70A Stat. 457; July 10, 1962, Pub. L. 87–533, §1(a)(5), 76 Stat. 154; Aug. 14, 1964, Pub. L. 88–436, §1(a), 78 Stat. 443, directed that publications by the Naval Oceanographic Office be sold under regulations of the Secretary of the Navy, and that proceeds be covered into the Treasury, and was reenacted as section 453 of this title.
+Section 7394, acts Aug. 10, 1956, ch. 1041, 70A Stat. 457; July 10, 1962, Pub. L. 87–533, §1(a)(5), 76 Stat. 154; Aug.14, 1964, Pub. L. 88–436, §1(a), 78 Stat. 443, directed that publications by the Naval Oceanographic Office be sold under regulations of the Secretary of the Navy, and that proceeds be covered into the Treasury, and was reenacted as section 453 of this title.
 
 Prior sections 7395 and 7396 were renumbered sections 8715 and 8716 of this title, respectively.
 

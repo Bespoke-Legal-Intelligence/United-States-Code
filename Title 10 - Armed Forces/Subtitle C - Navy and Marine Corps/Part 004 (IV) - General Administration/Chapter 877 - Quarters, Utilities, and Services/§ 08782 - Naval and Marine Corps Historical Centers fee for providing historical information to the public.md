@@ -52,7 +52,7 @@ Section 8791, added Pub. L. 86–616, §8(a), July 12, 1960, 74 Stat. 393, autho
 
 Section 8792, added Pub. L. 86–616, §8(a), July 12, 1960, 74 Stat. 393, provided for boards of inquiry, composed of three or more general officers, to be convened at such places as Secretary of Air Force prescribes, to receive evidence and make findings and recommendations whether an officer, required to show cause under section 8791 of this title, should be retained on active list of the Regular Air Force. See section 1182 of this title.
 
-Section 8793, added Pub. L. 86–616, §8(a), July 12, 1960, 74 Stat. 393, provided for boards of review, composed ofthree or more general officers, to be convened by Secretary of Air Force, at such places as he prescribes, to review the records of cases of officers recommended by boards of inquiry for removal from active list of Regular Air Force.
+Section 8793, added Pub. L. 86–616, §8(a), July 12, 1960, 74 Stat. 393, provided for boards of review, composed of three or more general officers, to be convened by Secretary of Air Force, at such places as he prescribes, to review the records of cases of officers recommended by boards of inquiry for removal from active list of Regular Air Force.
 
 Section 8794, added Pub. L. 86–616, §8(a), July 12, 1960, 74 Stat. 394, authorized Secretary of Air Force to remove an officer from active list of Regular Air Force if his removal is recommended by a board of review and provided that decision of Secretary in such a case is final and conclusive. See section 1184 of this title.
 

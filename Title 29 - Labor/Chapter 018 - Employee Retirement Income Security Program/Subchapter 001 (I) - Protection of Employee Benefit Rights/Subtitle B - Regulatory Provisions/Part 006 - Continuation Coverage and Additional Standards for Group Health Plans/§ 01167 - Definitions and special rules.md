@@ -48,11 +48,11 @@ For purposes of this part—
 
 &emsp;&emsp;(B) that the applicable notice period provided under section 1166(a)(2) of this title commences with the date of the loss of coverage.
 
-(Pub. L. 93–406, title I, §607, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 231; amended Pub. L. 99–509, title IX, §9501(c)(2), Oct. 21, 1986, 100 Stat. 2077; Pub. L. 99–514, title XVIII, §1895(d)(8), (9)(A), Oct. 22, 1986, 100 Stat. 2940; Pub. L. 100–647, title III, §3011(b)(6), Nov. 10, 1988, 102 Stat. 3625; Pub. L. 101–239, title VII, §§7862(c)(2)(A), (6)(A), 7891(a)(1), (d)(2)(B)(i), Dec. 19, 1989, 103 Stat. 2432, 2433, 2445, 2446; Pub. L. 104–191, title III, §321(d)(2), title IV, §421(b)(3), Aug. 21, 1996, 110 Stat. 2058, 2088; Pub. L. 114–255, div. C, title XVIII, §18001(b)(2), Dec. 13, 2016, 130 Stat. 1344.)
+(Pub. L. 93–406, title I, §607, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 231; amended Pub. L. 99–509, title IX, §9501(c)(2), Oct. 21, 1986, 100 Stat. 2077; Pub. L. 99–514, titleXVIII, §1895(d)(8), (9)(A), Oct. 22, 1986, 100 Stat. 2940; Pub. L. 100–647, title III, §3011(b)(6), Nov. 10, 1988, 102 Stat. 3625; Pub. L. 101–239, title VII, §§7862(c)(2)(A), (6)(A), 7891(a)(1), (d)(2)(B)(i), Dec. 19, 1989, 103 Stat. 2432, 2433, 2445, 2446; Pub. L. 104–191, title III, §321(d)(2), title IV, §421(b)(3), Aug. 21, 1996, 110 Stat. 2058, 2088; Pub. L. 114–255, div. C, title XVIII, §18001(b)(2), Dec. 13, 2016, 130 Stat. 1344.)
 
 #### Amendments
 
-<b>2016</b>—Par. (1). Pub. L. 114–255 inserted at end "Such term shall not include any qualified small employerhealth reimbursement arrangement (as defined in section 9831(d)(2) of title 26)."
+<b>2016</b>—Par. (1). Pub. L. 114–255 inserted at end "Such term shall not include any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of title 26)."
 
 <b>1996</b>—Par. (1). Pub. L. 104–191, §321(d)(2), inserted at end "Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26)."
 

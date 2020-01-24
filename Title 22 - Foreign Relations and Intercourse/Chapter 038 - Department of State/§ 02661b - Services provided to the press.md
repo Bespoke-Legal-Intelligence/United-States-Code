@@ -12,3 +12,7 @@ Administration of Foreign Affairs", and "
 
 diplomatic and consular programs" of the annual Department of State and Related Agency Appropriations Act.
 
+#### References to Diplomatic and Consular Programs Account
+
+References to the Diplomatic and Consular Programs account to be construed to include the Diplomatic Programs account in fiscal year 2020 and each fiscal year thereafter, see par. (7) of title I of div. G of Pub. L. 116–94, set out as a note under section 2651 of this title.
+

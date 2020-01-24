@@ -86,7 +86,7 @@ Subsec. (d)(1). Pub. L. 104–53, §309(b), substituted "Board" for "Administrat
 
 #### Change of Name
 
-General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271,set out as a note under section 702 of Title 31, Money and Finance.
+General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
 
 Government Printing Office redesignated Government Publishing Office. See section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 

@@ -116,7 +116,7 @@ In subsection (c), the words "or his designee" are substituted for "or by such s
 
 In subsection (d), the words "under this subchapter" are substituted for "authorized to be made by this Act". The words "or his designee" are substituted for "or such subordinate as he may designate".
 
-In subsection (e), the words "an employee . . . allotment paid under this subchapter" are substituted for"any person . . . allotments paid pursuant to this Act". The words "the employee if the head of the agency concerned or his designee" are substituted for "such person's . . . in any case in which . . . the head of the department concerned, or such subordinate as he may designate."
+In subsection (e), the words "an employee . . . allotment paid under this subchapter" are substituted for "any person . . . allotments paid pursuant to this Act". The words "the employee if the head of the agency concerned or his designee" are substituted for "such person's . . . in any case in which . . . the head of the department concerned, or such subordinate as he may designate."
 
 In subsection (f), the words "may not be collected" are substituted for "shall not be subject to collection" in two places. The word "employee" is substituted for "person".
 

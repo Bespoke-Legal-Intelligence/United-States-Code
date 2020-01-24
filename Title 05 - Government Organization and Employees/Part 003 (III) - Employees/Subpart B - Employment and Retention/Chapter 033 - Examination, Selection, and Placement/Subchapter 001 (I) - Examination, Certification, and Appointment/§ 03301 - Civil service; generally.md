@@ -394,7 +394,7 @@ Section 1. Under regulations and conditions prescribed by the Office of Personne
 
 (a) Is qualified for the position in the competitive service;
 
-(b) Was appointed in the Foreign Service under authority of the Foreign Service Act of 1946 as amended \[former section 801 et seq. of Title 22, Foreign Relations and Intercourse\], the Foreign Service Act of 1980 \[section 3901 et seq. of Title 22\], or legislation that supplements or replaces the latter Act;
+(b) Was appointed in the Foreign Service under authority of the Foreign Service Act of 1946 as amended \[former section 801 et seq. of Title 22, Foreign Relationsand Intercourse\], the Foreign Service Act of 1980 \[section 3901 et seq. of Title 22\], or legislation that supplements or replaces the latter Act;
 
 (c) Served in the Foreign Service under an unlimited, career-type appointment and, immediately before his separation from that appointment, he completed at least one year of continuous service under one or more nontemporary appointments in the Foreign Service which may include the service that made him eligible for his career-type appointment; and
 
@@ -456,7 +456,7 @@ Ex. Ord. No. 12008, Aug. 25, 1977, 42 F.R. 43373, as amended by Ex. Ord. No. 121
 
 #### Executive Order No. 12015
 
-Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R.1055; Ex. Ord. No. 13024, Nov. 7, 1996, 61 F.R. 58125, which related to career or career-conditional appointments in competitive service for students completing approved career-related work-study programs, was revoked by Ex. Ord. No. 13562, §8(b), Dec. 27, 2010, 75 F.R. 82588, set out below, on the effective date of final regulations promulgated by the Director of OPM to implement the Internship Program \[July 10, 2012, see 77 F.R. 28194\].
+Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 13024, Nov. 7, 1996, 61 F.R. 58125, which related to career or career-conditional appointments in competitive service for students completing approved career-related work-study programs, was revoked by Ex. Ord. No. 13562, §8(b), Dec. 27, 2010, 75 F.R. 82588, set out below, on the effective date of final regulations promulgated by the Director of OPM to implement the Internship Program \[July 10, 2012, see 77 F.R. 28194\].
 
 #### Executive Order No. 12026
 
@@ -606,7 +606,7 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 (b) the term "Armed Forces" has the meaning specified for that term in section 101 of title 10, United States Code;
 
-(c) the term "active duty" means full-time duty in an armed force and includes full-time National Guardduty, except that, for Reserve Component members, the term "active duty" does not include training duties or attendance at service schools.
+(c) the term "active duty" means full-time duty in an armed force and includes full-time National Guard duty, except that, for Reserve Component members, the term "active duty" does not include training duties or attendance at service schools.
 
 (d) the term "permanent change of station" means the assignment, detail, or transfer of a member of the Armed Forces serving at a present permanent duty station to a different permanent duty station under a competent authorization or order that does not:
 
@@ -786,7 +786,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The Federal Government benefits from a diverse workforce that includes students and recent graduates, who infuse the workplace with their enthusiasm, talents, and unique perspectives. The existing competitive hiring process for the Federal civil service, however, is structured in a manner that, even at the entry level, favors job applicants who have significant previous work experience. This structure, along with the complexity of the rules governing admission to the career civil service, creates a barrier to recruiting and hiring students and recent graduates. It places the Federal Government at a competitive disadvantage compared to private-sector employers when it comes to hiring qualified applicants for entry-level positions.
 
-To compete effectively for students and recent graduates, the Federal Government must improve its recruiting efforts; offer clear paths to Federal internships for students from high school through post-graduateschool; offer clear paths to civil service careers for recent graduates; and provide meaningful training, mentoring, and career-development opportunities. Further, exposing students and recent graduates to Federal jobs through internships and similar programs attracts them to careers in the Federal Government and enables agency employers to evaluate them on the job to determine whether they are likely to have successful careers in Government.
+To compete effectively for students and recent graduates, the Federal Government must improve its recruiting efforts; offer clear paths to Federal internships for students from high school through post-graduate school; offer clear paths to civil service careers for recent graduates; and provide meaningful training, mentoring, and career-development opportunities. Further, exposing students and recent graduates to Federal jobs through internships and similar programs attracts them to careers in the Federal Government and enables agency employers to evaluate them on the job to determine whether they are likely to have successful careers in Government.
 
 Accordingly, pursuant to my authority under 5 U.S.C. 3302(1), and in order to achieve a workforce that represents all segments of society as provided in 5 U.S.C. 2301(b)(1), I find that conditions of good administration (specifically, the need to promote employment opportunities for students and recent graduates in the Federal workforce) make necessary an exception to the competitive hiring rules for certain positions in the Federal civil service.
 
@@ -916,7 +916,7 @@ Sec. 2. <i>Establishment and Administration</i>. (a) The Administrator of Genera
 
 Sec. 3. <i>Advisory Board</i>. (a) The Administrator shall establish an Advisory Board to advise the Director by recommending such priorities and standards as may be beneficial to fulfill the mission of the Program and assist in identifying potential projects and placements for Fellows. The Advisory Board will not participate in the Fellows' selection process.
 
-(b) The Administrator will designate a representative to serve as the Chair of the Advisory Board. In addition to the Chair, the membership of the Advisory Board shall include the Deputy Director for Management of the Office of Management and Budget, the Director of the Office of Personnel Management, the Office of Management and Budget's Administrator of the Office ofElectronic Government, and the Assistant to the President and Chief Technology Officer, or their designees and such other persons as may be designated by the Administrator. Consistent with law, the Advisory Board may consult with industry, academia, or non-profits to ensure the Program is continually identifying opportunities to apply advanced skillsets and innovative practices in effective ways to address the Nation's most significant challenges.
+(b) The Administrator will designate a representative to serve as the Chair of the Advisory Board. In addition to the Chair, the membership of the Advisory Board shall include the Deputy Director for Management of the Office of Management and Budget, the Director of the Office of Personnel Management, the Office of Management and Budget's Administrator of the Office of Electronic Government, and the Assistant to the President and Chief Technology Officer, or their designees and such other persons as may be designated by the Administrator. Consistent with law, the Advisory Board may consult with industry, academia, or non-profits to ensure the Program is continually identifying opportunities to apply advanced skillsets and innovative practices in effective ways to address the Nation's most significant challenges.
 
 Sec. 4. <i>Application Process</i>. (a) The Director, in accordance with applicable law, shall prescribe the process for applications and nominations of individuals to the Program.
 
@@ -968,7 +968,7 @@ Sec. 4. A person appointed under section 2 of this order shall become a career c
 
 Sec. 5. Any law, Executive Order, or regulation that would disqualify an applicant for appointment in the competitive service shall also disqualify a person for appointment under section 2 of this order. Examples of disqualifying criteria include restrictions on employing persons who are not U.S. citizens or nationals, who have violated the anti-nepotism provisions of the Civil Service Reform Act \[of 1978\], 5 U.S.C. 2302(b)(7), 3110, who have knowingly and willfully failed to register for Selective Service when required to do so, 5 U.S.C. 3328(a)(2), who do not meet occupational qualifying standards prescribed by OPM, or who do not meet suitability factors prescribed by OPM.
 
-Sec. 6. The Office of Personnel Management is authorized to issue such additional regulations as may benecessary to implement this order. Any individual who meets the terms of this order, however, is eligible for noncompetitive eligibility with or without additional regulations.
+Sec. 6. The Office of Personnel Management is authorized to issue such additional regulations as may be necessary to implement this order. Any individual who meets the terms of this order, however, is eligible for noncompetitive eligibility with or without additional regulations.
 
 Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -1022,7 +1022,7 @@ Ex. Ord. No. 13842, July 10, 2018, 83 F.R. 32753, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Providing Appointment Authority</i>. (a) Good administration of the executive branch necessitates that the U.S. Marshals Service (USMS), a component of the Department of Justice, have a hiring authority that is currently available to other Federal law enforcement agencies and that would, among other things, enable the USMS to be competitive in recruiting high-quality Deputy U.S. Marshals and Criminal Investigators, to better hire and retain qualified individuals in certain duty locations, and to more expeditiously fill vacant positions consistent with law enforcement needs. Accordingly, it is appropriate to place Deputy U.S. Marshals and Criminal Investigators of the USMS in Schedule B of the excepted service, as it is impracticable to hold open competition or to applyusual competitive examining procedures for those positions related to Federal law enforcement.
+Section 1. <i>Providing Appointment Authority</i>. (a) Good administration of the executive branch necessitates that the U.S. Marshals Service (USMS), a component of the Department of Justice, have a hiring authority that is currently available to other Federal law enforcement agencies and that would, among other things, enable the USMS to be competitive in recruiting high-quality Deputy U.S. Marshals and Criminal Investigators, to better hire and retain qualified individuals in certain duty locations, and to more expeditiously fill vacant positions consistent with law enforcement needs. Accordingly, it is appropriate to place Deputy U.S. Marshals and Criminal Investigators of the USMS in Schedule B of the excepted service, as it is impracticable to hold open competition or to apply usual competitive examining procedures for those positions related to Federal law enforcement.
 
 (b) Appointments to the positions identified in subsection (a) of this section:
 
@@ -1172,7 +1172,7 @@ Sec. 5. <i>General Provisions</i>. (a) Except as expressly stated herein, nothin
 
 (c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-(d) The Director of the OPM, in consultation with the OMB, may grant an exception to any of the requirements set forth in section 1 of this memorandum to anagency that demonstrates that exceptional circumstances prevent it from complying with that requirement.
+(d) The Director of the OPM, in consultation with the OMB, may grant an exception to any of the requirements set forth in section 1 of this memorandum to an agency that demonstrates that exceptional circumstances prevent it from complying with that requirement.
 
 Sec. 6. <i>Publication</i>. The Director of the OPM is hereby authorized and directed to publish this memorandum in the Federal Register.
 

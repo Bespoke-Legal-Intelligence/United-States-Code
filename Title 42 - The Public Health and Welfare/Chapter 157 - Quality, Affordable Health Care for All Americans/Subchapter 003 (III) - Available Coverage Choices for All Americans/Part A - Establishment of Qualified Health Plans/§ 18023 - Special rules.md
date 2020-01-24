@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;In making such estimate, the issuer—
 
-&emsp;&emsp;&emsp;&emsp;(I) may take into account the impact on overall costs of the inclusion of suchcoverage, but may not take into account any cost reduction estimated to result from such services, including prenatal care, delivery, or postnatal care;
+&emsp;&emsp;&emsp;&emsp;(I) may take into account the impact on overall costs of the inclusion of such coverage, but may not take into account any cost reduction estimated to result from such services, including prenatal care, delivery, or postnatal care;
 
 &emsp;&emsp;&emsp;&emsp;(II) shall estimate such costs as if such coverage were included for the entire population covered; and
 

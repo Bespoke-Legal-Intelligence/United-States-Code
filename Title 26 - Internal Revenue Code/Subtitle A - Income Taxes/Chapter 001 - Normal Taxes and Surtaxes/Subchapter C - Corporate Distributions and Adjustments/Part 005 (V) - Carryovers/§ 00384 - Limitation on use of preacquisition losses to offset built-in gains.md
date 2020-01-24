@@ -134,7 +134,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;(2) contributions of property to a corporation.
 
-(Added Pub. L. 100–203, title X, §10226(a), Dec. 22, 1987, 101 Stat. 1330–414; amended Pub. L. 100–647, title II, §2004(m)(1)–(4), Nov. 10, 1988, 102 Stat. 3606, 3607; Pub. L. 101–239, title VII, §7812(c)(1), Dec. 19, 1989, 103 Stat. 2412.)
+(Added Pub. L. 100–203, title X, §10226(a), Dec. 22, 1987, 101 Stat. 1330–414; amended Pub. L. 100–647,title II, §2004(m)(1)–(4), Nov. 10, 1988, 102 Stat. 3606, 3607; Pub. L. 101–239, title VII, §7812(c)(1), Dec. 19, 1989, 103 Stat. 2412.)
 
 #### Amendments
 

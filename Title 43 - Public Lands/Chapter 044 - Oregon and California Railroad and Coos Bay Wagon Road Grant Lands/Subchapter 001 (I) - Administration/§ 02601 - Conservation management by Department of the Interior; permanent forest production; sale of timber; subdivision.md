@@ -20,7 +20,7 @@ Section was formerly classified to section 1181a of this title prior to editoria
 
 #### Repeals
 
-Act Aug. 28, 1937, ch. 876, title II (last par.), 50 Stat. 876, provided: "All Acts or parts of Acts in conflict with this Act \[enacting this subchapter and former section 1181c of this title\] are hereby repealed to the extent necessary to give full force and effect to this Act."
+Act Aug. 28, 1937, ch. 876, title II (last par.), 50 Stat. 876, provided: "All Acts or parts of Acts in conflict with this Act \[enacting this subchapter and former section1181c of this title\] are hereby repealed to the extent necessary to give full force and effect to this Act."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

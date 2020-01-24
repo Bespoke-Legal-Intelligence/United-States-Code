@@ -54,7 +54,7 @@ If the property was acquired by gift or transfer in trust on or before December 
 
 #### (e) Gifts between spouses
 
-In the case of any property acquired by gift in a transfer described in section 1041(a), the basisof such property in the hands of the transferee shall be determined under section 1041(b)(2) and not this section.
+In the case of any property acquired by gift in a transfer described in section 1041(a), the basis of such property in the hands of the transferee shall be determined under section 1041(b)(2) and not this section.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 298; Pub. L. 85–866, title I, §43(a), Sept. 2, 1958, 72 Stat. 1640; Pub. L. 91–614, title I, §102(d)(1), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §§1901(a)(122), 1906(b) (13)(A), title XX, §2005(c), Oct. 4, 1976, 90 Stat. 1784, 1834, 1877; Pub. L. 97–34, title IV, §442(d)(1), Aug. 13, 1981, 95 Stat. 322; Pub. L. 98–369, div. A, title IV, §421(b)(5), July 18, 1984, 98 Stat. 794.)
 

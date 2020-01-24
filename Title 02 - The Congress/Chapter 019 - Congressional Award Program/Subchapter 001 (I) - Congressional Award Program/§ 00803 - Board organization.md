@@ -24,7 +24,7 @@
 
 (1) Appointed members of the Board shall continue to serve at the pleasure of the officer by whom they are appointed, and (unless reappointed under paragraph (2)) shall serve for a term of 4 years.
 
-(2)(A) Subject to the limitations in subparagraph (B), members of the Board may be reappointed, except that no member may serve more than 2 full consecutive terms. Members may be reappointed to 2 full consecutive terms after being appointed to fill a vacancy on the Board.
+(2)(A) Subject to the limitations in subparagraph (B), members of the Board may be reappointed, except that no member may serve morethan 2 full consecutive terms. Members may be reappointed to 2 full consecutive terms after being appointed to fill a vacancy on the Board.
 
 (B) Members of the Board shall not be subject to the limitation on reappointment in subparagraph (A) during their period of service as Chairman of the Board and may be reappointed to an additional full term after termination of such Chairmanship.
 
@@ -64,7 +64,7 @@ The Chairman and the Vice Chairman of the Board shall be elected from among the 
 
 #### (h) Appointment, functions, etc., of committees; membership
 
-(1) The Board may appoint such committees, and assign to the committees such functions, as may be appropriate to assist the Board in carrying out its duties under this chapter. Members of such committees may include the members ofthe Board or such other qualified individuals as the Board may select.
+(1) The Board may appoint such committees, and assign to the committees such functions, as may be appropriate to assist the Board in carrying out its duties under this chapter. Members of such committees may include the members of the Board or such other qualified individuals as the Board may select.
 
 (2) Any employee or officer of the Federal Government may serve as a member of a committee created by the Board, but may not receive compensation for services performed for such a committee.
 

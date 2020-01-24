@@ -2,7 +2,7 @@
 
 #### (a) Rights and remedies of Corporation; State qualifications or similar statutes
 
-All rights and remedies of the Corporation, including without limitation on the generality of the foregoing any rights and remedies of the Corporation on, under, or with respect to any mortgage or any obligation secured thereby, shall be immune from impairment, limitation, or restriction by or under (1) any law (except laws enacted by the Congress expressly in limitation of this sentence) which becomes effective after the acquisition by the Corporation of the subject or property on, under, or with respect to which such right or remedy arises or exists or would so arise or exist in the absence of such law, or (2) any administrative or other action which becomes effective after such acquisition. The Corporation is authorized to conduct its business without regard to any qualification or similar statute in any State.
+All rights and remedies of the Corporation, including without limitation on the generality of the foregoing any rights and remedies of the Corporation on, under, or with respect to any mortgage or any obligation secured thereby, shall be immune from impairment, limitation, or restriction by or under (1) any law (except laws enacted by the Congress expressly in limitation of this sentence) which becomes effective after the acquisition by the Corporation of thesubject or property on, under, or with respect to which such right or remedy arises or exists or would so arise or exist in the absence of such law, or (2) any administrative or other action which becomes effective after such acquisition. The Corporation is authorized to conduct its business without regard to any qualification or similar statute in any State.
 
 #### (b) Government audits; procedure; access to records, etc.; reimbursement of costs
 
@@ -70,7 +70,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 (3)(A) Except as provided in subparagraph (B), this subsection shall apply only to mortgages purchased by the Corporation after December 31, 1992.
 
-(B) This subsection shall apply to any mortgage purchased by the Corporation after the date determined under subparagraph (A) if the mortgage was originated before such date, but only to the extent that the data referred in paragraph (1) or (2), as applicable, is available to the Corporation.
+(B) This subsection shall apply to any mortgage purchased by the Corporation after thedate determined under subparagraph (A) if the mortgage was originated before such date, but only to the extent that the data referred in paragraph (1) or (2), as applicable, is available to the Corporation.
 
 #### (f) Report on housing activities; contents; public disclosure
 
@@ -120,7 +120,7 @@ The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, refe
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(1). Pub. L. 110–289, §1161(c)(1), substituted "Director of the Federal Housing Finance Agency" for "Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development".
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–289, §1161(c)(1), substituted "Director of the Federal Housing FinanceAgency" for "Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development".
 
 Subsec. (e)(1), (2). Pub. L. 110–289, §1161(c)(3)(A), substituted "to the Director of the Federal Housing Finance Agency, in a form determined by the Director" for "to the Secretary, in a form determined by the Secretary" in introductory provisions.
 
@@ -148,5 +148,5 @@ Pub. L. 101–73, title VII, §731(j)(2), Aug. 9, 1989, 103 Stat. 435, provided 
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L.92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

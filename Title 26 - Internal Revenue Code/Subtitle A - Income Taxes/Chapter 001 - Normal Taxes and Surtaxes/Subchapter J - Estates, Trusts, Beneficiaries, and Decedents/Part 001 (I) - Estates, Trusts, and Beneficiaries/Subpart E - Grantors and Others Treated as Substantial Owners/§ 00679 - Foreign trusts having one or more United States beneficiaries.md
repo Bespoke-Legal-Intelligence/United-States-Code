@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A United States person who directly or indirectly transfers property to a foreign trust\(other than a trust described in section 6048(a)(3)(B)(ii)) shall be treated as the owner for his taxable year of the portion of such trust attributable to such property if for such year there is a United States beneficiary of any portion of such trust.
+&emsp;A United States person who directly or indirectly transfers property to a foreign trust (other than a trust described in section 6048(a)(3)(B)(ii)) shall be treated as the owner for his taxable year of the portion of such trust attributable to such property if for such year there is a United States beneficiary of any portion of such trust.
 
 #### (2) Exceptions
 
@@ -90,7 +90,7 @@ If—
 
 #### (2) Attribution of ownership
 
-&emsp;For purposes of paragraph (1), an amount shall be treated as paid or accumulated to orfor the benefit of a United States person if such amount is paid to or accumulated for a foreign corporation, foreign partnership, or foreign trust or estate, and—
+&emsp;For purposes of paragraph (1), an amount shall be treated as paid or accumulated to or for the benefit of a United States person if such amount is paid to or accumulated for a foreign corporation, foreign partnership, or foreign trust or estate, and—
 
 &emsp;&emsp;(A) in the case of a foreign corporation, such corporation is a controlled foreign corporation (as defined in section 957(a)),
 
@@ -130,7 +130,7 @@ If a United States person directly or indirectly transfers property to a foreign
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 94–455, title X, §1013(a), Oct. 4, 1976, 90 Stat. 1614; amended Pub. L. 96–603, §2(b), Dec. 28, 1980, 94 Stat. 3509; Pub. L. 104–188, title I, §1903(a)–(f), Aug. 20, 1996, 110 Stat. 1909, 1910; Pub. L. 105–34, title XVI, §1601(i)(2), Aug. 5, 1997, 111 Stat. 1093; Pub. L. 105–206, title VI, §6018(g), July 22, 1998, 112 Stat. 823; Pub. L. 111–147, title V, §§531, 532(a), 533(c), Mar. 18, 2010, 124 Stat. 113, 114.)
+(Added Pub. L. 94–455, title X, §1013(a), Oct. 4, 1976, 90 Stat. 1614; amended Pub. L. 96–603, §2(b), Dec. 28, 1980, 94 Stat. 3509; Pub. L. 104–188, titleI, §1903(a)–(f), Aug. 20, 1996, 110 Stat. 1909, 1910; Pub. L. 105–34, title XVI, §1601(i)(2), Aug. 5, 1997, 111 Stat. 1093; Pub. L. 105–206, title VI, §6018(g), July 22, 1998, 112 Stat. 823; Pub. L. 111–147, title V, §§531, 532(a), 533(c), Mar. 18, 2010, 124 Stat. 113, 114.)
 
 #### Amendments
 

@@ -60,7 +60,7 @@
 
 > Total severance pay under this section may not exceed 1 year's pay at the rate received immediately before separation. For the purpose of this subsection, "basic pay" includes premium pay under section 5545(c)(1) of this title.
 
-(d) If an employee is reemployed by the Government of the United States or the government of the District of Columbia before the end of the period covered by payments of severance pay, the payments shall be discontinued beginning with the date of reemployment and the service represented by the unexpired portion of the period shall be recredited to the employee for use in any later computations of severance pay. Forthe purpose of subsection (b) (1) of this section, reemployment that causes severance pay to be discontinued is deemed employment continuous with that serving as the basis for severance pay.
+(d) If an employee is reemployed by the Government of the United States or the government of the District of Columbia before the end of the period covered by payments of severance pay, the payments shall be discontinued beginning with the date of reemployment and the service represented by the unexpired portion of the period shall be recredited to the employee for use in any later computations of severance pay. For the purpose of subsection (b) (1) of this section, reemployment that causes severance pay to be discontinued is deemed employment continuous with that serving as the basis for severance pay.
 
 (e) If the employee dies before the end of the period covered by payments of severance pay, the payments of severance pay with respect to the employee shall be continued as if the employee were living and shall be paid on a pay period basis to the survivor of the employee in accordance with section 5582(b) of this title.
 
@@ -98,7 +98,7 @@
 
 (6) In this subsection:
 
-&emsp;(A) The term "defense nonappropriated fund instrumentality" means a nonappropriated fund instrumentality of the Department of Defense.
+&emsp;(A) The term "defense nonappropriated fund instrumentality" means a nonappropriatedfund instrumentality of the Department of Defense.
 
 &emsp;(B) The term "Coast Guard nonappropriated fund instrumentality" means a nonappropriated fund instrumentality of the Coast Guard.
 
@@ -116,7 +116,7 @@
 
 (4) This subsection applies with respect to severance pay payable under this section for separations taking effect on or after February 10, 1996, and before October 1, 2018.
 
-(j)(1) In the case of an employee of the Department of Energy who is entitled to severance payunder this section as a result of the establishment of the National Nuclear Security Administration, the Secretary of Energy may, upon application by the employee, pay the total amount of the severance pay to the employee in one lump sum.
+(j)(1) In the case of an employee of the Department of Energy who is entitled to severance pay under this section as a result of the establishment of the National Nuclear Security Administration, the Secretary of Energy may, upon application by the employee, pay the total amount of the severance pay to the employee in one lump sum.
 
 (2)(A) If an employee paid severance pay in a lump sum under this subsection is reemployed by the Government of the United States or the government of the District of Columbia at such time that, had the employee been paid severance pay in regular pay periods under subsection (b), the payments of such pay would have been discontinued under subsection (d) upon such reemployment, the employee shall repay to the Department of Energy an amount equal to the amount of severance pay to which the employee was entitled under this section that would not have been paid to the employee under subsection (d) by reason of such reemployment.
 
@@ -248,7 +248,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as a note under section 3131 of this title.
+Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions ofsections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as a note under section 3131 of this title.
 
 #### Transfer of Functions
 

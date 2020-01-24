@@ -2,7 +2,7 @@
 
 (a) There are hereby transferred from the National Wildlife Refuge System to the seashore the Horn Island and Petit Bois National Wildlife Refuges to be administered in accordance with the provisions of sections 459h to 459h–10 of this title.
 
-(b) If any of the Federal land on Santa Rosa or Okaloosa Island, Florida, under the jurisdiction of the Department of Defense is ever excess to the needs of the Armed Forces, the Secretary of Defense shall transfer the excess land to the administrative jurisdiction of the Secretary of the Interior, subject to the terms and conditions acceptable to the Secretary of the Interior and the Secretary of Defense. The Secretary of the Interior shall administer the transferred land aspart of the seashore in accordance with the provisions of sections 459h to 459h–10 of this title.
+(b) If any of the Federal land on Santa Rosa or Okaloosa Island, Florida, under the jurisdiction of the Department of Defense is ever excess to the needs of the Armed Forces, the Secretary of Defense shall transfer the excess land to the administrative jurisdiction of the Secretary of the Interior, subject to the terms and conditions acceptable to the Secretary of the Interior and the Secretary of Defense. The Secretary of the Interior shall administer the transferred land as part of the seashore in accordance with the provisions of sections 459h to 459h–10 of this title.
 
 (Pub. L. 91–660, §7, Jan. 8, 1971, 84 Stat. 1969; Pub. L. 109–163, div. B, title XXVIII, §2872(b), Jan. 6, 2006, 119 Stat. 3535.)
 

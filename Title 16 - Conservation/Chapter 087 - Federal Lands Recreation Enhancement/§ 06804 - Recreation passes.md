@@ -8,7 +8,7 @@
 
 #### (2) Image competition for recreation pass
 
-&emsp;The Secretaries shall hold an annual competition to select the image to be used on the National Parks and Federal Recreational Lands Pass for a year. The competition shall be open to the public and used as a means to educate the American people about Federal recreational lands and waters.
+&emsp;The Secretaries shall hold an annual competition to select the image to be used on theNational Parks and Federal Recreational Lands Pass for a year. The competition shall be open to the public and used as a means to educate the American people about Federal recreational lands and waters.
 
 #### (3) Notice of establishment
 
@@ -76,7 +76,7 @@ The Secretary may establish and charge a fee for a site-specific pass that will 
 
 #### (2) Regional multientity pass agreement
 
-&emsp;In order to establish a regional multientity pass under this subsection, the Secretary shall enter into a regional multientity pass agreement with all the participating agencies or entities on price, the distribution of revenues between participating agencies or entities, the sharing of costs, benefits provided, marketing and design, and the issuance of the pass to volunteers. The Secretary shall take into consideration all relevant visitor and sales data available when entering into this agreement.
+&emsp;In order to establish a regional multientity pass under this subsection, the Secretary shall enter into a regional multientity pass agreement with all the participating agencies or entities on price, the distribution of revenues between participating agencies or entities, thesharing of costs, benefits provided, marketing and design, and the issuance of the pass to volunteers. The Secretary shall take into consideration all relevant visitor and sales data available when entering into this agreement.
 
 #### (e) Discounted or free admission days or use
 
@@ -111,6 +111,110 @@ In subsec. (f), "section 100904 of title 54" substituted for "section 4 of the L
 <b>2014</b>—Subsec. (f)(1). Pub. L. 113–287, §5(d)(36)(B), struck out "; 16 U.S.C. 5991–5995" after "(Public Law 105–391".
 
 Pub. L. 113–287, §5(d)(36)(A), made technical amendment to reference in original act which appeared in text as reference to "section 460l–6a of this title" prior to substitution of "section 100904 of title 54". See Codification note above.
+
+#### Every Kid Outdoors Act
+
+Pub. L. 116–9, title IX, §9001, Mar. 12, 2019, 133 Stat. 829, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Federal land and waters.—The term 'Federal land and waters' means any Federal land or body of water under the jurisdiction of any of the Secretaries to which the public has access.
+
+&emsp;"(2)
+
+Program.—The term 'program' means the Every Kid Outdoors program established under subsection (b)(1).
+
+&emsp;"(3)
+
+Secretaries.—The term 'Secretaries' means—
+
+&emsp;&emsp;"(A) the Secretary \[of the Interior\], acting through—
+
+&emsp;&emsp;&emsp;"(i) the Director of the National Park Service;
+
+&emsp;&emsp;&emsp;"(ii) the Director of the United States Fish and Wildlife Service;
+
+&emsp;&emsp;&emsp;"(iii) the Director of the Bureau of Land Management; and
+
+&emsp;&emsp;&emsp;"(iv) the Commissioner of Reclamation;
+
+&emsp;&emsp;"(B) the Secretary of Agriculture, acting through the Chief of the Forest Service;
+
+&emsp;&emsp;"(C) the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration; and
+
+&emsp;&emsp;"(D) the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works.
+
+&emsp;"(4)
+
+State.—The term 'State' means each of the several States, the District of Columbia, American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, the Virgin Islands of the United States, and any other territory or possession of the United States.
+
+&emsp;"(5)
+
+Student or students.—The term 'student' or 'students' means any fourth grader or home-schooled learner 10 years of age residing in the United States, including any territory or possession of the United States.
+
+"(b)
+
+Every Kid Outdoors Program.—
+
+&emsp;"(1)
+
+Establishment.—The Secretaries shall jointly establish a program, to be known as the 'Every Kid Outdoors program', to provide free access to Federal land and waters for students and accompanying individuals in accordance with this subsection.
+
+&emsp;"(2)
+
+Annual passes.—
+
+&emsp;&emsp;"(A)
+
+In general.—At the request of a student, the Secretaries shall issue a pass to the student, which allows access to Federal lands and waters for which access is subject to an entrance, standard amenity, or day use fee, free of charge for the student and—
+
+&emsp;&emsp;&emsp;"(i) in the case of a per-vehicle fee area—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) any passengers accompanying the student in a private, noncommercial vehicle; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) not more than three adults accompanying the student on bicycles; or
+
+&emsp;&emsp;&emsp;"(ii) in the case of a per-person fee area, not more than three adults accompanying the student.
+
+&emsp;&emsp;"(B)
+
+Term.—A pass described in subparagraph (A) shall be effective during the period beginning on September 1 and ending on August 31 of the following year.
+
+&emsp;&emsp;"(C)
+
+Presence of a student in grade four required.—A pass described in subparagraph (A) shall be effective only if the student to which the pass was issued is present at the point of entry to the applicable Federal land or water.
+
+&emsp;"(3)
+
+Other activities.—In carrying out the program, the Secretaries—
+
+&emsp;&emsp;"(A) may collaborate with State Park systems that opt to implement a complementary Every Kid Outdoors State park pass;
+
+&emsp;&emsp;"(B) may coordinate with the Secretary of Education to implement the program;
+
+&emsp;&emsp;"(C) shall maintain a publicly available website with information about the program;
+
+&emsp;&emsp;"(D) may provide visitor services for the program; and
+
+&emsp;&emsp;"(E) may support approved partners of the Federal land and waters by providing the partners with opportunities to participate in the program.
+
+&emsp;"(4)
+
+Reports.—The Secretary, in coordination with each Secretary described in subparagraphs (B) through (D) of subsection (a)(3), shall prepare a comprehensive report to Congress each year describing—
+
+&emsp;&emsp;"(A) the implementation of the program;
+
+&emsp;&emsp;"(B) the number and geographical distribution of students who participated in the program; and
+
+&emsp;&emsp;"(C) the number of passes described in paragraph (2)(A) that were distributed.
+
+&emsp;"(5)
+
+Sunset.—The authorities provided in this section, including the reporting requirement, shall expire on the date that is 7 years after the date of enactment of this Act \[Mar. 12, 2019\]."
 
 #### America the Beautiful National Parks and Federal Recreational Lands Pass Program
 

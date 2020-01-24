@@ -10,7 +10,7 @@ This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 33
 
 #### Short Title of 2012 Amendment
 
-Pub. L. 112–82, §1, Jan. 3, 2012, 125 Stat. 1863, provided that: "This Act \[amending provisions set out as a note under section 5811 of this title\] may be cited as the 'Belarus Democracy and Human Rights Act of 2011'."
+Pub. L. 112–82, §1, Jan. 3, 2012, 125 Stat. 1863, provided that: "This Act \[amending provisions set out as a noteunder section 5811 of this title\] may be cited as the 'Belarus Democracy and Human Rights Act of 2011'."
 
 #### Short Title of 2007 Amendment
 
@@ -46,7 +46,7 @@ Pub. L. 103–199, title I, §§101–103, Dec. 17, 1993, 107 Stat. 2318, 2319, 
 
 &emsp;&emsp;"(C) cooperation between the United States and Russia is essential to the peaceful resolution of international conflicts and the promotion of democratic values, the protection of human rights, and the solution of global problems such as environmental pollution, terrorism, and narcotics trafficking.
 
-&emsp;"(3) The Congress enacted the FREEDOM Support Act (Public Law 102–511) \[see Short Title note above\], as well as other legislation such as the Soviet Nuclear Threat Reduction Act of 1991 (title II of PublicLaw 102–228) \[22 U.S.C. 2551 note\] and the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484) \[22 U.S.C. 5901 et seq.\], to help meet the historic opportunities and challenges presented by the transformation that has taken place, and is continuing to take place, in what once was the Soviet Union.
+&emsp;"(3) The Congress enacted the FREEDOM Support Act (Public Law 102–511) \[see Short Title note above\], as well as other legislation such as the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228) \[22 U.S.C. 2551 note\] and the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484) \[22 U.S.C. 5901 et seq.\], to help meet the historic opportunities and challenges presented by the transformation that has taken place, and is continuing to take place, in what once was the Soviet Union.
 
 &emsp;"(4) The process of reform in Russia, Ukraine, and the other independent states of the former Soviet Union is ongoing. The holding of a referendum in Russia on April 25, 1993, that was free and fair, and that reflected the support of the Russian people for the process of continued and strengthened democratic and economic reform, represents an important and encouraging hallmark in this ongoing process.
 

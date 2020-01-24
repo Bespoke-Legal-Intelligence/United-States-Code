@@ -12,7 +12,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 &emsp;&emsp;(A) the gross interest derived during the taxable year from producer's loans,
 
-&emsp;&emsp;(B) the gain recognized by the DISC during the taxable year on the sale or exchange of property, other than property which in thehands of the DISC is a qualified export asset, previously transferred to it in a transaction in which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized,
+&emsp;&emsp;(B) the gain recognized by the DISC during the taxable year on the sale or exchange of property, other than property which in the hands of the DISC is a qualified export asset, previously transferred to it in a transaction in which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized,
 
 &emsp;&emsp;(C) the gain (other than the gain described in subparagraph (B)) recognized by the DISC during the taxable year on the sale or exchange of property (other than property which in the hands of the DISC is stock in trade or other property described in section 1221(a)(1)) previously transferred to it in a transaction in which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized and would have been treated as ordinary income if the property had been sold or exchanged rather than transferred to the DISC,
 
@@ -56,7 +56,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of applying paragraph (1)(E), all DISC's which are members of the same controlled group shall be treated as a single corporation.
+&emsp;&emsp;For purposes of applying paragraph (1)(E), all DISC's which are members of the samecontrolled group shall be treated as a single corporation.
 
 #### (B) Allocation
 
@@ -318,7 +318,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title X, §1012(bb)(6)(B), Nov. 10, 1988, 102 Stat. 3536, provided that: "The amendment made bysubparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1987."
+Pub. L. 100–647, title X, §1012(bb)(6)(B), Nov. 10, 1988, 102 Stat. 3536, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1987."
 
 Amendment by section 1006(e)(15) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

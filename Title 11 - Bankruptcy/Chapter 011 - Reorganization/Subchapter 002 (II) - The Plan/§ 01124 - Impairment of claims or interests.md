@@ -28,7 +28,7 @@ Section 1124(3) of the House amendment rejects a provision contained in section 
 
 The effect of the House amendment is to permit an interest not to be impaired only if the interest has a fixed liquidation preference or redemption price. Therefore, a class of interests such as common stock, must either accept a plan under section 1129(a)(8), or the plan must satisfy the requirements of section 1129(b)(2)(C) in order for a plan to be confirmed.
 
-A compromise reflected in section 1124(2)(C) of the House amendment indicates that a class of claims is not impaired under the circumstances of section 1124(2) if damages are paid to rectify reasonable reliance engaged in by the holder of a claim or interest arising from the prepetition breach of a contractual provision, such as an ipso facto or bankruptcy clause, or law. Where the rights of third parties are concerned, such asin the case of lease premises which have been rerented to a third party, it is not intended that there will be adequate damages to compensate the third party.
+A compromise reflected in section 1124(2)(C) of the House amendment indicates that a class of claims is not impaired under the circumstances of section 1124(2) if damages are paid to rectify reasonable reliance engaged in by the holder of a claim or interest arising from the prepetition breach of a contractual provision, such as an ipso facto or bankruptcy clause, or law. Where the rights of third parties are concerned, such as in the case of lease premises which have been rerented to a third party, it is not intended that there will be adequate damages to compensate the third party.
 
 #### senate report no. 95–989
 

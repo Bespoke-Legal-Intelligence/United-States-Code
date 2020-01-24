@@ -32,7 +32,7 @@
 
 #### (2) Effect of election
 
-&emsp;If a corporation makes an election under paragraph (1), then the provisions of this part shall apply to such corporation for the taxable year of the corporation for which made and for all succeeding taxable years and shall apply toeach person who at any time is a shareholder of such corporation for all periods on or after the first day of the first taxable year of the corporation for which the election is effective.
+&emsp;If a corporation makes an election under paragraph (1), then the provisions of this part shall apply to such corporation for the taxable year of the corporation for which made and for all succeeding taxable years and shall apply to each person who at any time is a shareholder of such corporation for all periods on or after the first day of the first taxable year of the corporation for which the election is effective.
 
 #### (3) Termination of election
 
@@ -104,7 +104,7 @@ If—
 
 > then, for purposes of applying subsection (d)(2) and section 541 (relating to personal holding company tax) to the subsidiary for the taxable year, there shall be taken into account under section 543(a)(5) (relating to produced film rents) any interest in a film acquired by the parent and transferred to the subsidiary as if such interest were acquired by the subsidiary at the time it was acquired by the parent.
 
-(Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 535; amended Pub. L. 94–455, title XIX,§1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–354, §5(a)(32), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title VIII, §802(c)(1), July 18, 1984, 98 Stat. 999; Pub. L. 104–188, title I, §1616(b)(11), Aug. 20, 1996, 110 Stat. 1857; Pub. L. 110–172, §11(g)(16), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 115–141, div. U, title IV, §401(b)(30), Mar. 23, 2018, 132 Stat. 1203.)
+(Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 535; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–354, §5(a)(32), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title VIII, §802(c)(1), July 18, 1984, 98 Stat. 999; Pub. L. 104–188, title I, §1616(b)(11), Aug. 20, 1996, 110 Stat. 1857; Pub. L. 110–172, §11(g)(16), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 115–141, div. U, title IV, §401(b)(30), Mar. 23, 2018, 132 Stat. 1203.)
 
 #### Amendments
 

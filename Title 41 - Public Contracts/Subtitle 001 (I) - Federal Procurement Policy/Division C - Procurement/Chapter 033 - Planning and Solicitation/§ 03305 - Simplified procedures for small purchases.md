@@ -6,7 +6,7 @@ Authorization.—To promote efficiency and economy in contracting and to avoid u
 
 &emsp;(1) not greater than the simplified acquisition threshold; and
 
-&emsp;(2) greater than the simplified acquisition threshold but not greater than $5,000,000 for which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
+&emsp;(2) greater than the simplified acquisition threshold but not greater than $5,000,000 for which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial products or commercial services.
 
 (b)
 
@@ -25,10 +25,6 @@ Promotion of Competition.—In using the simplified procedures, an executive age
 Compliance With Special Requirements of Federal Acquisition Regulation.—An executive agency shall comply with the Federal Acquisition Regulation provisions referred to in section 1901(e) of this title.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3752; Pub. L. 115–232, div. A, title VIII, §836(b)(8), Aug. 13, 2018, 132 Stat. 1861.)
-
-#### Amendment of Subsection (a)(2)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(8), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(2) of this section is amended by striking "commercial items" and inserting "commercial products or commercial services". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 

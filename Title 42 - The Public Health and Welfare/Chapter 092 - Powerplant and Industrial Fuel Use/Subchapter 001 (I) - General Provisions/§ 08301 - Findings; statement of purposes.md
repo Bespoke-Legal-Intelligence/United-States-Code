@@ -76,7 +76,7 @@ Exemptions in the Case of Certain Powerplants.—In the case of—
 
 "(b)
 
-Exemptions Under Section 211(d).—The Secretary may receive, consider, and grant (or deny) anypetition for any exemption under section 211(d) \[section 8321(d) of this title\] notwithstanding section 901 \[section 901 of Pub. L. 95–620, set out as a note above\], or the fact that all rules related to such petition have not been prescribed at the time."
+Exemptions Under Section 211(d).—The Secretary may receive, consider, and grant (or deny) any petition for any exemption under section 211(d) \[section 8321(d) of this title\] notwithstanding section 901 \[section 901 of Pub. L. 95–620, set out as a note above\], or the fact that all rules related to such petition have not been prescribed at the time."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "expanded".</i>
 

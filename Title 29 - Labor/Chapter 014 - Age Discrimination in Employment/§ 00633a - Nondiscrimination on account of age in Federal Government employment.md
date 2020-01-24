@@ -74,7 +74,7 @@ Pub. L. 105–220, title III, §341(d), Aug. 7, 1998, 112 Stat. 1092, which prov
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see section 1311(d) of Title 2, The Congress.
+Amendment by Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see section 1311(e) of Title 2, The Congress.
 
 #### Effective Date of 1978 Amendment
 

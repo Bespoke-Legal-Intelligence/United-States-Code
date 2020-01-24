@@ -12,7 +12,7 @@
 
 (c) Any determination pursuant to subsection (b) shall be published in the Federal Register.
 
-(d) The Secretary of State shall make publicly available through the Internet website of theDepartment of State each treaty or international agreement proposed to be published in the compilation entitled "United States Treaties and Other International Agreements" not later than 180 days after the date on which the treaty or agreement enters into force.
+(d) The Secretary of State shall make publicly available through the Internet website of the Department of State each treaty or international agreement proposed to be published in the compilation entitled "United States Treaties and Other International Agreements" not later than 180 days after the date on which the treaty or agreement enters into force.
 
 (Added Sept. 23, 1950, ch. 1001, §2, 64 Stat. 980; amended Pub. L. 103–236, title I, §138, Apr. 30, 1994, 108 Stat. 397; Pub. L. 108–458, title VII, §7121(a), Dec. 17, 2004, 118 Stat. 3807.)
 

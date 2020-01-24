@@ -160,7 +160,7 @@ Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater p
 
 &emsp;&emsp;(C) transfers oil or hazardous material in a place subject to the jurisdiction of the United States;
 
-&emsp;(35) "territorial seas" means the belt of the seas measured from the line of ordinary low water along that portion of the coast which is in direct contact with the open sea and the line marking the seaward limit of inland waters, and extending seaward a distance of 3 miles;
+&emsp;(35) "territorial seas" means the belt of the seas measured from the line of ordinary low water along that portion of the coast which is in direct contact with the open sea and theline marking the seaward limit of inland waters, and extending seaward a distance of 3 miles;
 
 &emsp;(36) "United States" and "State" mean the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Marianas, and any other territory or possession of the United States;
 
@@ -226,7 +226,7 @@ The Comprehensive Environmental Response, Compensation, and Liability Act, refer
 
 <b>2018</b>—Par. (32)(A). Pub. L. 115–232 struck out "(other than a vessel described in section 3703a(b)(3) of title 46)" before period at end.
 
-<b>2017</b>—Par. (26)(A)(ii). Pub. L. 115–91, §3508(b)(1)(A)(i)(I), substituted "onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or entity" for "onshore or offshore facility, any person".
+<b>2017</b>—Par. (26)(A)(ii). Pub. L. 115–91, §3508(b)(1)(A)(i)(I), substituted "onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, anyperson or entity" for "onshore or offshore facility, any person".
 
 Par. (26)(A)(iii). Pub. L. 115–91, §3508(b)(1)(A)(i)(II), substituted "offshore facility or foreign offshore unit or other facility located seaward of the exclusive economic zone, the person or entity that" for "offshore facility, the person who".
 
@@ -246,7 +246,7 @@ Pub. L. 101–380, title I, §1020, Aug. 18, 1990, 104 Stat. 506, provided that:
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–241, title VI, §601, July 11, 2006, 120 Stat. 553, provided that: "This title \[enacting sections 1232band 2762 of this title, amending sections 1321, 2704, and 2761 of this title, and enacting provisions set out as notes under section 2704 of this title\] may be cited as the 'Delaware River Protection Act of 2006'."
+Pub. L. 109–241, title VI, §601, July 11, 2006, 120 Stat. 553, provided that: "This title \[enacting sections 1232b and 2762 of this title, amending sections 1321, 2704, and 2761 of this title, and enacting provisions set out as notes under section 2704 of this title\] may be cited as the 'Delaware River Protection Act of 2006'."
 
 #### Short Title of 1995 Amendment
 

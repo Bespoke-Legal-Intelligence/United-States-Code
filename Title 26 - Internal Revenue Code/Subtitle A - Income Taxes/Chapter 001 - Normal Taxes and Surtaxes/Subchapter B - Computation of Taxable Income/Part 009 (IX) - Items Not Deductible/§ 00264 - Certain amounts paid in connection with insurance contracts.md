@@ -12,7 +12,7 @@ No deduction shall be allowed for—
 
 &emsp;(4) Except as provided in subsection (e), any interest paid or accrued on any indebtedness with respect to 1 or more life insurance policies owned by the taxpayer covering the life of any individual, or any endowment or annuity contracts owned by the taxpayer covering any individual.
 
-> Paragraph (2) shall apply in respect of annuity contracts only as to contracts purchased afterMarch 1, 1954. Paragraph (3) shall apply only in respect of contracts purchased after August 6, 1963. Paragraph (4) shall apply with respect to contracts purchased after June 20, 1986.
+> Paragraph (2) shall apply in respect of annuity contracts only as to contracts purchased after March 1, 1954. Paragraph (3) shall apply only in respect of contracts purchased after August 6, 1963. Paragraph (4) shall apply with respect to contracts purchased after June 20, 1986.
 
 #### (b) Exceptions to subsection (a)(1)
 
@@ -218,7 +218,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 &emsp;&emsp;This subsection shall not apply to an insurance company subject to tax under subchapter L, and subparagraph (A) shall be applied without regard to any member of an affiliated group which is an insurance company.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 77; Pub. L. 88–272, title II, §215(a), (b), Feb. 26, 1964, 78 Stat. 55; Pub. L. 99–514, title X, §1003(a), (b), Oct. 22, 1986, 100 Stat. 2388; Pub. L. 104–191, title V, §501(a), (b), Aug. 21, 1996, 110 Stat. 2090; Pub. L. 105–34, title X, §1084(a), (b)(1), (c), title XVI, §1602(f)(1)–(3), Aug. 5, 1997, 111 Stat. 951, 952, 1094, 1095; Pub. L. 105–206, title VI, §6010(o)(1)–(3)(A), (4)(A), (5), July 22, 1998, 112 Stat. 816; Pub. L. 105–277, div. J, title IV, §4003(i), Oct. 21, 1998, 112 Stat. 2681–910.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 77; Pub. L. 88–272, title II, §215(a), (b), Feb. 26, 1964, 78 Stat. 55; Pub. L. 99–514, title X, §1003(a), (b), Oct. 22, 1986, 100Stat. 2388; Pub. L. 104–191, title V, §501(a), (b), Aug. 21, 1996, 110 Stat. 2090; Pub. L. 105–34, title X, §1084(a), (b)(1), (c), title XVI, §1602(f)(1)–(3), Aug. 5, 1997, 111 Stat. 951, 952, 1094, 1095; Pub. L. 105–206, title VI, §6010(o)(1)–(3)(A), (4)(A), (5), July 22, 1998, 112 Stat. 816; Pub. L. 105–277, div. J, title IV, §4003(i), Oct. 21, 1998, 112 Stat. 2681–910.)
 
 #### References in Text
 
@@ -328,7 +328,7 @@ Qualified interest.—For purposes of subparagraph (A), the qualified interest w
 
 &emsp;&emsp;&emsp;"(I) The rate of interest specified under the terms of the indebtedness as in effect on October 13, 1995 (and without regard to modification of such terms after such date).
 
-&emsp;&emsp;&emsp;"(II) The applicable percentage of the rate of interest described as Moody's Corporate Bond Yield Average-Monthly Average Corporates as published by Moody's Investors Service, Inc., or any successor thereto, for such month.
+&emsp;&emsp;&emsp;"(II) The applicable percentage of the rate of interest described as Moody's Corporate Bond YieldAverage-Monthly Average Corporates as published by Moody's Investors Service, Inc., or any successor thereto, for such month.
 
 > &emsp;For purposes of clause (i), all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 or subsection (m) or (o) of section 414 of such Code shall be treated as 1 person. Subclause (II) of clause (ii) shall not apply to any month before January 1, 1996.
 

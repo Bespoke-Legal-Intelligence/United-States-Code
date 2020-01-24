@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) this Nation historically has recognized the importance of protecting special areas of its public domain, but these efforts have been directed almost exclusively to land areas above the high-water mark;
 
-&emsp;(2) certain areas of the marine environment possess conservation, recreational, ecological,historical, scientific, educational, cultural, archeological, or esthetic qualities which give them special national, and in some cases international, significance;
+&emsp;(2) certain areas of the marine environment possess conservation, recreational, ecological, historical, scientific, educational, cultural, archeological, or esthetic qualities which give them special national, and in some cases international, significance;
 
 &emsp;(3) while the need to control the effects of particular activities has led to enactment of resource-specific legislation, these laws cannot in all cases provide a coordinated and comprehensive approach to the conservation and management of special areas of the marine environment; and
 
@@ -124,7 +124,7 @@ Pub. L. 92–532, title III, §317, formerly §316, as added by Pub. L. 102–58
 
 #### Safe Vessel Operation in the Great Lakes
 
-Pub. L. 113–281, title VI, §610, Dec. 18, 2014, 128 Stat. 3064, as amended by Pub. L. 114–120, title VI, §602(1), Feb. 8, 2016, 130 Stat. 79, provided that: "The Secretary of the department in which the Coast Guard is operating and the Administrator of the Environmental Protection Agency may not prohibit a vessel operating within the boundaries of any national marine sanctuary that preserves shipwrecks or maritime heritage in the Great Lakes from taking up or discharging ballast water to allow for safe and efficient vessel operation if the uptake or discharge meets all Federal and State ballast water management requirements that would apply if the area were not a marine sanctuary, unless the designation documents for such sanctuary do not allow taking up or discharging ballast water in such sanctuary."
+Pub. L. 113–281, title VI, §610, Dec. 18, 2014, 128 Stat. 3064, as amended by Pub. L. 114–120, title VI, §602(1),Feb. 8, 2016, 130 Stat. 79, provided that: "The Secretary of the department in which the Coast Guard is operating and the Administrator of the Environmental Protection Agency may not prohibit a vessel operating within the boundaries of any national marine sanctuary that preserves shipwrecks or maritime heritage in the Great Lakes from taking up or discharging ballast water to allow for safe and efficient vessel operation if the uptake or discharge meets all Federal and State ballast water management requirements that would apply if the area were not a marine sanctuary, unless the designation documents for such sanctuary do not allow taking up or discharging ballast water in such sanctuary."
 
 #### Congressional Findings, Policy, and Declaration of Purpose
 
@@ -190,7 +190,7 @@ Sec. 5. <i>Agency Responsibilities</i>. Each Federal agency whose actions affect
 
 Sec. 6. <i>Accountability</i>. Each Federal agency that is required to take actions under this order shall prepare and make public annually a concise description of actions taken by it in the previous year to implement the order, including a description of written comments by any person or organization stating that the agency has not complied with this order and a response to such comments by the agency.
 
-Sec. 7. <i>International Law</i>. Federal agencies taking actions pursuant to this Executive Order must act in accordance with international law and with Presidential Proclamation 5928 of December 27, 1988, on the Territorial Sea of the United States of America \[43 U.S.C. 1331 note\], Presidential Proclamation 5030 of March 10, 1983, on the Exclusive Economic Zone of the United States of America \[16 U.S.C. 1453 note\], and Presidential Proclamation 7219 of September 2, 1999, on theContiguous Zone of the United States \[43 U.S.C. 1331 note\].
+Sec. 7. <i>International Law</i>. Federal agencies taking actions pursuant to this Executive Order must act in accordance with international law and with Presidential Proclamation 5928 of December 27, 1988, on the Territorial Sea of the United States of America \[43 U.S.C. 1331 note\], Presidential Proclamation 5030 of March 10, 1983, on the Exclusive Economic Zone of the United States of America \[16 U.S.C. 1453 note\], and Presidential Proclamation 7219 of September 2, 1999, on the Contiguous Zone of the United States \[43 U.S.C. 1331 note\].
 
 Sec. 8. <i>General</i>. (a) Nothing in this order shall be construed as altering existing authorities regarding the establishment of Federal MPAs in areas of the marine environment subject to the jurisdiction and control of States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and Indian tribes.
 

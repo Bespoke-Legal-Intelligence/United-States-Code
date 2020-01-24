@@ -248,7 +248,7 @@ Requirements for grants.—The Secretary shall make grants under this section—
 
 &emsp;"(3)
 
-Demonstration of need.—The Secretary shall require, as part of an application for a grant underthis subsection, a demonstration of need. The Secretary may only award a grant under this subsection to an applicant that demonstrates a failure to obtain funding for a project after making a reasonable effort to otherwise obtain the funding.
+Demonstration of need.—The Secretary shall require, as part of an application for a grant under this subsection, a demonstration of need. The Secretary may only award a grant under this subsection to an applicant that demonstrates a failure to obtain funding for a project after making a reasonable effort to otherwise obtain the funding.
 
 &emsp;"(4)
 
@@ -322,7 +322,7 @@ Sec. 3. Any land conveyed to the State of Missouri under authority of this Act s
 
 #### Cooperation in Placement of Domestic Farm Labor
 
-Act Apr. 28, 1947, ch. 43, §2(b), 61 Stat. 55, provided that: "The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary toassure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen's Readjustment Act of 1944, as amended (58 Stat. 295)."
+Act Apr. 28, 1947, ch. 43, §2(b), 61 Stat. 55, provided that: "The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary to assure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen's Readjustment Act of 1944, as amended (58 Stat. 295)."
 
 #### Admission of Alaska as State; Grants Not To Extend to Alaska
 

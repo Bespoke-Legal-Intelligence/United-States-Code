@@ -200,7 +200,7 @@ Each Party State shall—
 
 #### (c) Compliance with III System standards
 
-In carrying out their responsibilities under this Compact, the FBI and each Party State shall comply with III System rules, procedures, and standards duly established by the Council concerning record dissemination and use, response times, data quality, system security, accuracy, privacy protection, and other aspects of III System operation.
+In carrying out their responsibilities under this Compact, the FBI and each Party State shall comply with III System rules, procedures,and standards duly established by the Council concerning record dissemination and use, response times, data quality, system security, accuracy, privacy protection, and other aspects of III System operation.
 
 #### (d) Maintenance of record services
 
@@ -266,7 +266,7 @@ A State criminal history record repository or the FBI—
 
 #### (1) In general
 
-&emsp;There is established a council to be known as the "Compact Council", which shall have the authority to promulgate rules and procedures governing the use of the III System for noncriminal justice purposes, not to conflict with FBI administration of the III System for criminal justice purposes.
+&emsp;There is established a council to be known as the "Compact Council", which shall have the authority to promulgate rules and procedures governing the use of the III System for noncriminal justice purposes, not to conflictwith FBI administration of the III System for criminal justice purposes.
 
 #### (2) Organization
 

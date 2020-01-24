@@ -14,7 +14,7 @@ Representatives of small business concerns shall be afforded the maximum opportu
 
 #### (d) Information
 
-Information about this chapter and activities undertaken in accordance with this chaptershall be made available to small business concerns.
+Information about this chapter and activities undertaken in accordance with this chapter shall be made available to small business concerns.
 
 #### (e) Allocations under section 4511
 

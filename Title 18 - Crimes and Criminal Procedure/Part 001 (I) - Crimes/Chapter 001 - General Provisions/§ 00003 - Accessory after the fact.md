@@ -4,7 +4,7 @@ Whoever, knowing that an offense against the United States has been committed, r
 
 Except as otherwise expressly provided by any Act of Congress, an accessory after the fact shall be imprisoned not more than one-half the maximum term of imprisonment or (notwithstanding section 3571) fined not more than one-half the maximum fine prescribed for the punishment of the principal, or both; or if the principal is punishable by life imprisonment or death, the accessory shall be imprisoned not more than 15 years.
 
-(June 25, 1948, ch. 645, 62 Stat. 684; Pub. L. 99–646, §43, Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XXXV, §3502, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 103–322, title XXXIII, §§330011(h), 330016(2)(A), Sept. 13, 1994, 108 Stat. 2145, 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 684; Pub. L. 99–646, §43, Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XXXV, §3502, Nov. 29, 1990, 104 Stat. 4921;Pub. L. 103–322, title XXXIII, §§330011(h), 330016(2)(A), Sept. 13, 1994, 108 Stat. 2145, 2148.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,7 @@ Based on title 18, U.S.C., 1940 ed., §551 (Mar. 4, 1909, ch. 321, §333, 35 Sta
 
 The first paragraph is new. It is based upon authority of <i>Skelly v. United States</i> (C. C. A. Okl. 1935, 76 F. 2d 483, certiorari denied, 1935, 55 S. Ct. 914, 295 U.S. 757, 79 L. Ed. 1699), where the court defined an accessory after the fact as—
 
-> one who knowing a felony to have been committed by another, receives, relieves, comforts, or assists thefelon in order to hinder the felon's apprehension, trial, or punishment—
+> one who knowing a felony to have been committed by another, receives, relieves, comforts, or assists the felon in order to hinder the felon's apprehension, trial, or punishment—
 
 > and cited Jones' Blackstone, books 3 and 4, page 2204; <i>U.S. v. Hartwell</i> (Fed. Cas. No. 15,318); <i>Albritton v. State</i> (32 Fla. 358, 13 So. 955); <i>State v. Davis</i> (14 R. I. 281); <i>Schleeter v. Commonwealth</i> (218 Ky. 72, 290 S. W. 1075). (See also <i>State v. Potter</i>, 1942, 221 N. C. 153, 19 S. E. 2d 257; <i>Hunter v. State</i>, 1935, 128 Tex. Cr. R. 191, 79 S. W. 2d 855; <i>State v. Wells</i>, 1940, 195 La. 754, 197 So. 419.)
 

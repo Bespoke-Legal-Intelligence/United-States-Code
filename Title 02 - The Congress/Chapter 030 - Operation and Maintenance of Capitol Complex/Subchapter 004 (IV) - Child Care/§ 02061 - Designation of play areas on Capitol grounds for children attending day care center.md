@@ -24,7 +24,7 @@ The day care center referred to in S. Res. 269, Ninety-eighth Congress, first se
 
 #### References in Text
 
-S. Res. 269, Ninety-eighth Congress, first session, referred to in subsec. (d), is dated Nov. 14, 1983, and readsas follows: "<i>Resolved</i>, That payment is authorized from the contingent fund of the Senate in an amount not to exceed $20,000 for the start-up costs, including the procurement of the services of individual consultants or organizations, for a Senate day care center, which shall be ready for occupancy by January 1, 1984.
+S. Res. 269, Ninety-eighth Congress, first session, referred to in subsec. (d), is dated Nov. 14, 1983, and reads as follows: "<i>Resolved</i>, That payment is authorized from the contingent fund of the Senate in an amount not to exceed $20,000 for the start-up costs, including the procurement of the services of individual consultants or organizations, for a Senate day care center, which shall be ready for occupancy by January 1, 1984.
 
 "
 

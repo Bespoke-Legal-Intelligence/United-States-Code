@@ -26,7 +26,7 @@ Amendment by Pub. L. 93–254 effective Mar. 22, 1974, see section 2 of Pub. L. 
 
 #### Effective Date
 
-Pub. L. 92–532, title I, §110(a), Oct. 23, 1972, 86 Stat. 1060, provided that: "This title \[this subchapter\] shall take effect six months after the date of the enactment of this Act \[Oct. 23, 1972\]."
+Pub. L. 92–532, title I, §110(a), Oct. 23, 1972, 86 Stat. 1060, provided that: "This title \[this subchapter\] shalltake effect six months after the date of the enactment of this Act \[Oct. 23, 1972\]."
 
 #### Savings Provision
 

@@ -38,7 +38,7 @@ Amounts of Bonds.—The total of the face amounts of the United States savings b
 
 (e)
 
-Total Amount of Benefit.—The total amount of the benefit authorized for a member when United States savings bonds are purchased for the member under this section by reason of a commitment by that member shall be the sum of—
+Total Amount of Benefit.—The total amount of the benefit authorized for a memberwhen United States savings bonds are purchased for the member under this section by reason of a commitment by that member shall be the sum of—
 
 &emsp;(1) the purchase price of the United States savings bonds; and
 
@@ -46,7 +46,7 @@ Total Amount of Benefit.—The total amount of the benefit authorized for a memb
 
 (f)
 
-Amount Withheld for Taxes.—The total amount payable for a member under subsection\(e)(2) for a commitment by that member shall be withheld, credited, and otherwise treated in the same manner as amounts deducted and withheld from the basic pay of the member.
+Amount Withheld for Taxes.—The total amount payable for a member under subsection (e)(2) for a commitment by that member shall be withheld, credited, and otherwise treated in the same manner as amounts deducted and withheld from the basic pay of the member.
 
 (g)
 

@@ -12,7 +12,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(B) the programs under part D of title III of the Energy Policy and Conservation Act (relating to primary and supplemental State energy conservation programs; 42 U.S.C. 6321 and following);
 
-&emsp;&emsp;(C) the program under part G of title III of the Energy Policy and Conservation Act (relating to energy conservation for schools and hospitals; 42 U.S.C. 6371 and following); and
+&emsp;&emsp;(C) the program under part G of title III of the Energy Policy and Conservation Act (relating to energy conservation for schoolsand hospitals; 42 U.S.C. 6371 and following); and
 
 &emsp;&emsp;(D) the program under the National Energy Extension Service Act (42 U.S.C. 7001 and following).
 

@@ -1,6 +1,6 @@
 ### §962. Reduction of bycatch in eastern tropical Pacific Ocean
 
-The Secretary of State, in consultation with the Secretary of Commerce and acting throughthe United States Commissioners, shall seek, in cooperation with other nations whose vessels fish for tuna in the eastern tropical Pacific Ocean, to establish standards and measures for a bycatch reduction program for vessels fishing for yellowfin tuna in the eastern tropical Pacific Ocean. The bycatch reduction program shall include measures—
+The Secretary of State, in consultation with the Secretary of Commerce and acting through the United States Commissioners, shall seek, in cooperation with other nations whose vessels fish for tuna in the eastern tropical Pacific Ocean, to establish standards and measures for a bycatch reduction program for vessels fishing for yellowfin tuna in the eastern tropical Pacific Ocean. The bycatch reduction program shall include measures—
 
 &emsp;(1) to require, to the maximum extent practicable, that sea turtles and other threatened species and endangered species are released alive;
 
@@ -14,7 +14,7 @@ The Secretary of State, in consultation with the Secretary of Commerce and actin
 
 #### Codification
 
-Section 7(c) of Pub. L. 105–42, which directed the addition of this section at the end of the Tuna Conventions Act, was executed by adding this section at the end of the Tuna Conventions Act of 1950, to reflect the probable intent of Congress.
+Section 7(c) of Pub. L. 105–42, which directed the addition of this section at the end of the Tuna ConventionsAct, was executed by adding this section at the end of the Tuna Conventions Act of 1950, to reflect the probable intent of Congress.
 
 #### Amendments
 

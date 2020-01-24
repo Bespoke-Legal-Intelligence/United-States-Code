@@ -44,7 +44,7 @@ Subsec. (d). Pub. L. 99–336 struck out subsec. (d) which provided that section
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–171, title X, §10001(d), Feb. 8, 2006, 120 Stat. 184, provided that: "This section \[amending this section and enacting provisions set out as notes under sections 1913 and 1931 of this title\] and the amendment made by this section shall take effect 60 days after the date of the enactment of this Act \[Feb. 8, 2006\]."
+Pub. L. 109–171, title X, §10001(d), Feb. 8, 2006, 120 Stat. 184, provided that: "This section \[amending this section and enacting provisions set out as notes under sections 1913 and 1931 of this title\] and the amendmentmade by this section shall take effect 60 days after the date of the enactment of this Act \[Feb. 8, 2006\]."
 
 #### Effective Date of 2004 Amendment
 

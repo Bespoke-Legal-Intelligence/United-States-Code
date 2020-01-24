@@ -52,7 +52,7 @@ Grants awarded under this section shall be used by the eligible entity (and part
 
 &emsp;&emsp;(B) offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields; and
 
-&emsp;(4) in the case of National Science Foundation Master Teaching Fellowships for teachers with bachelor's degrees in their field and working toward a master's degree—
+&emsp;(4) in the case of National Science Foundation Master Teaching Fellowships for teacherswith bachelor's degrees in their field and working toward a master's degree—
 
 &emsp;&emsp;(A) offering academic courses leading to a master's degree and leadership training to prepare individuals to become master teachers in elementary and secondary schools;
 
@@ -158,7 +158,7 @@ A National Science Foundation Master Teacher Fellow may receive a maximum of 1 y
 
 An individual awarded a fellowship under this section shall serve as a mathematics or science teacher in an elementary school or secondary school served by a high need local educational agency for—
 
-&emsp;(1) in the case of a National Science Foundation Teaching Fellow, 4 years, to be fulfilledwithin 6 years of completing the master's program described in subsection (c)(2)(A); and
+&emsp;(1) in the case of a National Science Foundation Teaching Fellow, 4 years, to be fulfilled within 6 years of completing the master's program described in subsection (c)(2)(A); and
 
 &emsp;(2) in the case of a National Science Foundation Master Teaching Fellow, 5 years, to be fulfilled within 7 years of the start of participation in the program under subsection (c)(3).
 
@@ -180,7 +180,7 @@ An individual awarded a fellowship under this section shall serve as a mathemati
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), subsections (e), (f), (g), and (h) of section 1862n–1 of this title shall apply to eligible entities and recipients of fellowships under this section, as applicable, in the same manner as such subsections apply to eligible entities and recipients of scholarships and stipends under section 1862n–1 of this title, as applicable.
+&emsp;Except as provided in paragraph (2), subsections (e), (f), (g), and (h) of section 1862n–1 of this title shall apply to eligible entities and recipients of fellowships under this section, asapplicable, in the same manner as such subsections apply to eligible entities and recipients of scholarships and stipends under section 1862n–1 of this title, as applicable.
 
 #### (2) Amount of repayment
 

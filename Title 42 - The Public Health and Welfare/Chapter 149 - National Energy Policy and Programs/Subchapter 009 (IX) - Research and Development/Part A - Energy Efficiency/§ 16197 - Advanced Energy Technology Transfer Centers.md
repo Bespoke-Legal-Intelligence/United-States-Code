@@ -74,7 +74,7 @@ In carrying out this section, the Secretary shall require cost-sharing in accord
 
 #### (3) Additional extension
 
-&emsp;If a grantee receives an extension under paragraph (2), the grantee shall be evaluatedagain during the second year of the extension. The Secretary shall terminate any grant that does not receive a positive evaluation. If an evaluation is positive, the Secretary may extend the grant for a final additional period of 3 additional years beyond the original extension.
+&emsp;If a grantee receives an extension under paragraph (2), the grantee shall be evaluated again during the second year of the extension. The Secretary shall terminate any grant that does not receive a positive evaluation. If an evaluation is positive, the Secretary may extend the grant for a final additional period of 3 additional years beyond the original extension.
 
 #### (4) Limitation
 

@@ -48,7 +48,7 @@ Any securities that are offered and sold pursuant to section 77d(5) <sup>1</sup
 
 #### References in Text
 
-Section 77d(5) of this title, referred to in subsecs. (a)(1)(A), (2)(A) and (c), was redesignated section 77d(a)(5) of this title by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
+Section 77d(5) of this title, referred to in subsecs. (a)(1)(A), (2)(A) and (c), was redesignated section77d(a)(5) of this title by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
 
 #### Codification
 

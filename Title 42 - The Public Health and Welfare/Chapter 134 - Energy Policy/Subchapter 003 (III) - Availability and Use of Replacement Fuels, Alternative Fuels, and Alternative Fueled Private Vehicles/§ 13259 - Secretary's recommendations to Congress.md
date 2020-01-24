@@ -14,7 +14,7 @@ If the Secretary determines, under section 13257(f) of this title, that a fleet 
 
 #### (b) Fair and equitable application
 
-In carrying out this section, the Secretary shall recommend the imposition of requirementsproportionately on all appropriate fuel suppliers and purchasers of motor fuels and suppliers and purchasers of motor vehicles in a fair and equitable manner.
+In carrying out this section, the Secretary shall recommend the imposition of requirements proportionately on all appropriate fuel suppliers and purchasers of motor fuels and suppliers and purchasers of motor vehicles in a fair and equitable manner.
 
 (Pub. L. 102–486, title V, §509, Oct. 24, 1992, 106 Stat. 2898.)
 

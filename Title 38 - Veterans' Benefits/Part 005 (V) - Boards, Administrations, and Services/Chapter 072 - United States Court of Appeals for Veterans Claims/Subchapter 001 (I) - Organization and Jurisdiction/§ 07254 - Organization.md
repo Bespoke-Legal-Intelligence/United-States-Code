@@ -18,7 +18,7 @@ Precedence of Judges.—The chief judge of the Court shall have precedence and p
 
 #### Amendments
 
-<b>1999</b>—Subsec. (d). Pub. L. 106–117 inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: "In the event of a vacancy in the position of chief judge of the Court, the associate judge senior in service on the Court shall serve as acting chief judge unless the President designates one of the other associate judges to serve as acting chief judge, in which case the judge so designated shall serve as acting chief judge."
+<b>1999</b>—Subsec. (d). Pub. L. 106–117 inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: "In the event of a vacancyin the position of chief judge of the Court, the associate judge senior in service on the Court shall serve as acting chief judge unless the President designates one of the other associate judges to serve as acting chief judge, in which case the judge so designated shall serve as acting chief judge."
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–368 substituted "Court of Appeals for Veterans Claims" for "Court of Veterans Appeals".
 

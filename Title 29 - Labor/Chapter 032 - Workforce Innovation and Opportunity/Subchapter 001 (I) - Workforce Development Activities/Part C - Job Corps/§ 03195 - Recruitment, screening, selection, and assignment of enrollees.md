@@ -60,7 +60,7 @@
 
 #### (3) Individuals convicted of certain crimes
 
-&emsp;An individual shall not be selected as an enrollee if the individual has been convicted of afelony consisting of murder (as described in section 1111 of title 18), child abuse, or a crime involving rape or sexual assault.
+&emsp;An individual shall not be selected as an enrollee if the individual has been convicted of a felony consisting of murder (as described in section 1111 of title 18), child abuse, or a crime involving rape or sexual assault.
 
 #### (c) Assignment plan
 

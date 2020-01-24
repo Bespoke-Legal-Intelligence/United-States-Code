@@ -12,7 +12,7 @@ Not later than January 15, 1969, the President shall make a report to the Congre
 
 &emsp;(5) provide such other pertinent data, estimates, and recommendations as the President deems advisable.
 
-> Such report shall, in addition, contain a projection of the residential mortgage market needs and prospects during the coming year, including an estimate of the requirements with respect to the availability, need, and flow of mortgagefunds (particularly in declining urban and rural areas) during such year, together with such recommendations as may be deemed appropriate for encouraging the availability of such funds.
+> Such report shall, in addition, contain a projection of the residential mortgage market needs and prospects during the coming year, including an estimate of the requirements with respect to the availability, need, and flow of mortgage funds (particularly in declining urban and rural areas) during such year, together with such recommendations as may be deemed appropriate for encouraging the availability of such funds.
 
 (Pub. L. 90–448, title XVI, §1602, Aug. 1, 1968, 82 Stat. 601.)
 

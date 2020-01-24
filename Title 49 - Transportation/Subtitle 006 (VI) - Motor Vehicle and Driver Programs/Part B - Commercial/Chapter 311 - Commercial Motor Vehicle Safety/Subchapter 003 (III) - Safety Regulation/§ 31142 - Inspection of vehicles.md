@@ -6,7 +6,7 @@ Inspection of Safety Equipment.—On the instruction of an authorized enforcemen
 
 (b)
 
-Inspection of Vehicles and Record Retention.—The Secretary of Transportation shall prescribe regulations on Government standards for inspection of commercial motor vehicles and retention by employers of records of an inspection. The standards shall provide for annual or more frequent inspections of a commercial motor vehicle unless the Secretary finds that another inspection system is as effective as an annual or more frequent inspection system. Regulations prescribed under this subsection are deemed to be regulations prescribed under section 31136 of this title.
+Inspection of Vehicles and Record Retention.—The Secretary of Transportation shall prescribe regulations on Government standards for inspection of commercial motor vehicles andretention by employers of records of an inspection. The standards shall provide for annual or more frequent inspections of a commercial motor vehicle unless the Secretary finds that another inspection system is as effective as an annual or more frequent inspection system. Regulations prescribed under this subsection are deemed to be regulations prescribed under section 31136 of this title.
 
 (c)
 
@@ -89,4 +89,8 @@ In subsection (c)(1), before clause (A), the words "this subchapter and section 
 <b>1998</b>—Subsec. (a). Pub. L. 105–178, §4008(f), substituted "the regulations issued under section 31136" for "part 393 of title 49, Code of Federal Regulations".
 
 Subsec. (c)(1)(C). Pub. L. 105–178, §4008(g), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "prevent a State from enforcing a program for inspection of commercial motor vehicles that meets the requirements for membership in the Commercial Vehicle Safety Alliance, as those requirements were in effect on October 30, 1984; or".
+
+#### Update of Annual Inspection Regulations
+
+Pub. L. 116–94, div. H, title I, §132, Dec. 20, 2019, 133 Stat. 2955, provided that: "The Federal Motor Carrier Safety Administration shall update annual inspection regulations under Appendix G to subchapter B of chapter III of title 49, Code of Federal Regulations, as recommended by GAO–19–264."
 

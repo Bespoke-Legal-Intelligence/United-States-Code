@@ -6,7 +6,7 @@ Use of Funds.—
 
 &emsp;(1)
 
-In general.—Funds made available under the Federal lands transportation program shall be used by the Secretary of Transportation and the Secretary of the appropriateFederal land management agency to pay the costs of—
+In general.—Funds made available under the Federal lands transportation program shall be used by the Secretary of Transportation and the Secretary of the appropriate Federal land management agency to pay the costs of—
 
 &emsp;&emsp;(A) program administration, transportation planning, research, preventive maintenance, engineering, rehabilitation, restoration, construction, and reconstruction of Federal lands transportation facilities, and—
 
@@ -102,7 +102,7 @@ Applications.—
 
 &emsp;&emsp;(A)
 
-Requirements.—Each application submitted by a Federal land management agency shall include proposed programs at various potential funding levels, as defined by the Secretary following collaborative discussions with applicable Federal land management agencies.
+Requirements.—Each application submitted by a Federal land management agency shall include proposed programs at various potential funding levels, as defined bythe Secretary following collaborative discussions with applicable Federal land management agencies.
 
 &emsp;&emsp;(B)
 

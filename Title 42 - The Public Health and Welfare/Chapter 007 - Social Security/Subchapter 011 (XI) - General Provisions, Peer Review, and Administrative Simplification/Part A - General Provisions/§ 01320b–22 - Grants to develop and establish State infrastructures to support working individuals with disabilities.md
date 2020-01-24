@@ -38,13 +38,13 @@
 
 &emsp;&emsp;&emsp;The term "employed" means—
 
-&emsp;&emsp;&emsp;&emsp;(I) earning at least the applicable minimum wage requirement under section 206 of title 29 and working at least 40 hours per month; or
+&emsp;&emsp;&emsp;&emsp;(I) earning at least the applicable minimum wage requirement under section206 of title 29 and working at least 40 hours per month; or
 
 &emsp;&emsp;&emsp;&emsp;(II) being engaged in a work effort that meets substantial and reasonable threshold criteria for hours of work, wages, or other measures, as defined and approved by the Secretary.
 
 #### (ii) Personal assistance services
 
-&emsp;&emsp;&emsp;The term "personal assistance services" means a range of services, provided by 1 ormore persons, designed to assist an individual with a disability to perform daily activities on and off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
+&emsp;&emsp;&emsp;The term "personal assistance services" means a range of services, provided by 1 or more persons, designed to assist an individual with a disability to perform daily activities on and off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
 
 #### (3) Determination of awards
 
@@ -116,7 +116,7 @@ A State that is awarded a grant under this section shall submit an annual report
 
 #### (f) Recommendation
 
-Not later than October 1, 2010, the Secretary, in consultation with the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of this Act, shall submit a recommendation to the Committee on Commerce of the House of Representatives and the Committee on Finance of the Senate regarding whether the grant program established under this section should be continued after fiscal year 2011.
+Not later than October 1, 2010, the Secretary, in consultation with the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of this Act, shall submit a recommendation to the Committee on Commerce of the House of Representatives and the Committee on Finance of the Senate regarding whetherthe grant program established under this section should be continued after fiscal year 2011.
 
 (Pub. L. 106–170, title II, §203, Dec. 17, 1999, 113 Stat. 1894.)
 

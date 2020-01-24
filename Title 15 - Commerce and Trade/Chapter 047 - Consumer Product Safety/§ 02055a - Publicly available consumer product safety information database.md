@@ -84,7 +84,7 @@
 
 #### (6) Availability of contact information
 
-&emsp;The Commission may not disclose, under this section, the name, address, or other contact information of any individual or entity that submits to the Commission a report described in paragraph (1)(A), except that the Commission may provide such information to the manufacturer or private labeler of the product with the express written consent of the person submitting the information. Consumer information provided to a manufacturer or private labeler under this section may not be used or disseminated to any other party for any purpose other than verifying a report submitted under paragraph (1)(A).
+&emsp;The Commission may not disclose, under this section, the name, address, or other contact information of any individual or entity that submits to the Commission a report described in paragraph (1)(A), except that the Commission may provide such information tothe manufacturer or private labeler of the product with the express written consent of the person submitting the information. Consumer information provided to a manufacturer or private labeler under this section may not be used or disseminated to any other party for any purpose other than verifying a report submitted under paragraph (1)(A).
 
 #### (c) Procedural requirements
 
@@ -152,7 +152,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Commission receives a report described in subsection (b)(1)(A) that does not include the model or serial number of the consumer product concerned, the Commission shall seek from the individual or entity submitting the report such model or serial number or, if such model or serial number is not available, a photograph of the product. If the Commission obtains information relating to the serial or model number of the product or a photograph of the product, it shall immediately forward such information to the manufacturer of the product. The Commission shall make the report available in the database on the 15th business day after the date on which the Commission transmits the report under paragraph (1) and shall include in the database any additional information about the product obtained under this paragraph.
+&emsp;&emsp;If the Commission receives a report described in subsection (b)(1)(A) that does not include the model or serial number of the consumer product concerned, the Commission shall seek from the individual or entity submitting the report such model or serial number or, if such model or serial number is not available, a photograph of the product. If the Commission obtains information relating to the serial or model number of the product or a photograph of the product, it shall immediately forward such informationto the manufacturer of the product. The Commission shall make the report available in the database on the 15th business day after the date on which the Commission transmits the report under paragraph (1) and shall include in the database any additional information about the product obtained under this paragraph.
 
 #### (B) Rule of construction
 

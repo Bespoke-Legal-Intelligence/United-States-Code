@@ -42,7 +42,7 @@ This section not applicable with respect to either the amendments made by sectio
 
 #### Recommendations by Secretary of State to President
 
-For authority for the Secretary of State to make recommendations to the President through the Director of the Office of Management and Budget whenever action is appropriate under this section to maintain existing conformity between the Civil Service Retirement and Disability System and the Foreign Service Retirement and Disability System, see section 3 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
+For authority for the Secretary of State to make recommendations to the President through the Director of the Office of Management and Budget whenever action is appropriate under this section to maintain existing conformity between the Civil Service Retirement andDisability System and the Foreign Service Retirement and Disability System, see section 3 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
 
 #### Ex. Ord. No. 12289. Conforming the Foreign Service and Civil Service Retirement and Disability Systems
 
@@ -50,7 +50,7 @@ Ex. Ord. No. 12289, Feb. 14, 1981, 46 F.R. 12693, as amended by Pub. L. 102–54
 
 By the authority vested in me as President of the United States of America by Section 827 of the Foreign Service Act of 1980 (22 U.S.C. 4067), and in order to conform further the Foreign Service Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
 
-Section 1. (a) Section 826(c) of the Foreign Service Act of 1980 (22 U.S.C. 4066(c)) is deemed to be amendedby striking out the first sentence of paragraph (1) thereof, and inserting in lieu thereof the following sentence:
+Section 1. (a) Section 826(c) of the Foreign Service Act of 1980 (22 U.S.C. 4066(c)) is deemed to be amended by striking out the first sentence of paragraph (1) thereof, and inserting in lieu thereof the following sentence:
 
 &emsp;"(1) The first increase (if any) made under this section to an annuity which is payable from the Fund to a participant or to the surviving spouse of a deceased participant who dies in service shall be equal to the product (adjusted to the nearest 1/10 of 1 percent) of—
 
@@ -110,7 +110,7 @@ Sec. 4. <i>Credit For Military Service</i>. (a) Section 805 of the Act (22 U.S.C
 
 (i) by striking out subsection (e) and substituting the following subsection in lieu thereof:
 
-"(e)(1) Each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this chapter is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37 of the United States Code, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be based upon estimates of such basic pay provided to the Department under paragraph (4).
+"(e)(1) Each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this chapter is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37 of the United States Code, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be basedupon estimates of such basic pay provided to the Department under paragraph (4).
 
 "(2) Any deposit made under paragraph (1) of this subsection more than two years after the later of—
 

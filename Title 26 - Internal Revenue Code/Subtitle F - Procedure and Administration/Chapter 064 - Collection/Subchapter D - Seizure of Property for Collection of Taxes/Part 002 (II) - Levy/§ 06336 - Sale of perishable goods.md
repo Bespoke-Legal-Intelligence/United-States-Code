@@ -1,6 +1,6 @@
 ### §6336. Sale of perishable goods
 
-If the Secretary determines that any property seized is liable to perish or become greatly reduced in price or value by keeping, or that such property cannot be kept without great expense, he shall appraise the value of such property and—
+If the Secretary determines that any property seized is liable to perish, he shall appraise the value of such property and—
 
 #### (1) Return to owner
 
@@ -14,9 +14,15 @@ If the Secretary determines that any property seized is liable to perish or beco
 
 &emsp;If the owner does not pay such amount or furnish such bond in accordance with this section, the Secretary shall as soon as practicable make public sale of the property in accordance with such regulations as may be prescribed by the Secretary.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 786; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 786; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 116–25, title I, §1404(a), July 1, 2019, 133 Stat. 997.)
 
 #### Amendments
 
+<b>2019</b>—Pub. L. 116–25 struck out "or become greatly reduced in price or value by keeping, or that such property cannot be kept without great expense" after "to perish" in introductory provisions.
+
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–25, title I, §1404(b), July 1, 2019, 133 Stat. 997, provided that: "The amendment made by this section \[amending this section\] shall apply to property seized after the date of the enactment of this Act \[July 1, 2019\]."
 

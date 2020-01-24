@@ -2,7 +2,7 @@
 
 #### (a) Tax-exempt foundations
 
-There is hereby imposed on each private foundation which is exempt from taxation under section 501(a) for the taxable year, with respect to the carrying on of its activities, a tax equal to 2 percent of the net investment income of such foundation for the taxable year.
+There is hereby imposed on each private foundation which is exempt from taxation under section 501(a) for the taxable year, with respect to the carrying on of its activities, a tax equal to 1.39 percent of the net investment income of such foundation for the taxable year.
 
 #### (b) Taxable foundations
 
@@ -20,7 +20,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 #### (2) Gross investment income
 
-&emsp;For purposes of paragraph (1), the term "gross investment income" means the gross amount of income from interest, dividends, rents, payments with respect to securities loans (as defined in section 512(a)(5)), and royalties, but not including any such income to the extent included in computing the tax imposed by section 511. Such term shall also include income from sources similar to those in the preceding sentence.
+&emsp;For purposes of paragraph (1), the term "gross investment income" means the grossamount of income from interest, dividends, rents, payments with respect to securities loans (as defined in section 512(a)(5)), and royalties, but not including any such income to the extent included in computing the tax imposed by section 511. Such term shall also include income from sources similar to those in the preceding sentence.
 
 #### (3) Deductions
 
@@ -112,83 +112,17 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 &emsp;&emsp;The rules of paragraphs (3) and (4) of section 4946(a) shall apply for purposes of subparagraph (B)(ii).
 
-#### (e) Reduction in tax where private foundation meets certain distribution requirements
-
-#### (1) In general
-
-&emsp;In the case of any private foundation which meets the requirements of paragraph (2) for any taxable year, subsection (a) shall be applied with respect to such taxable year by substituting "1 percent" for "2 percent".
-
-#### (2) Requirements
-
-&emsp;A private foundation meets the requirements of this paragraph for any taxable year if—
-
-&emsp;&emsp;(A) the amount of the qualifying distributions made by the private foundation during such taxable year equals or exceeds the sum of—
-
-&emsp;&emsp;&emsp;(i) an amount equal to the assets of such foundation for such taxable year multiplied by the average percentage payout for the base period, plus
-
-&emsp;&emsp;&emsp;(ii) 1 percent of the net investment income of such foundation for such taxable year, and
-
-&emsp;&emsp;(B) such private foundation was not liable for tax under section 4942 with respect to any year in the base period.
-
-#### (3) Average percentage payout for base period
-
-&emsp;For purposes of this subsection—
-
-#### (A) In general
-
-&emsp;&emsp;The average percentage payout for the base period is the average of the percentage payouts for taxable years in the base period.
-
-#### (B) Percentage payout
-
-&emsp;&emsp;The term "percentage payout" means, with respect to any taxable year, the percentage determined by dividing—
-
-&emsp;&emsp;&emsp;(i) the amount of the qualifying distributions made by the private foundation during the taxable year, by
-
-&emsp;&emsp;&emsp;(ii) the assets of the private foundation for the taxable year.
-
-#### (C) Special rule where tax reduced under this subsection
-
-&emsp;&emsp;For purposes of this paragraph, if the amount of the tax imposed by this section for any taxable year in the base period is reduced by reason of this subsection, the amount of the qualifying distributions made by the private foundation during such year shall be reduced by the amount of such reduction in tax.
-
-#### (4) Base period
-
-&emsp;For purposes of this subsection—
-
-#### (A) In general
-
-&emsp;&emsp;The term "base period" means, with respect to any taxable year, the 5 taxable years preceding such taxable year.
-
-#### (B) New private foundations, etc.
-
-&emsp;&emsp;If an organization has not been a private foundation throughout the base period referred to in subparagraph (A), the base period shall consist of the taxable years during which such foundation has been in existence.
-
-#### (5) Other definitions
-
-&emsp;For purposes of this subsection—
-
-#### (A) Qualifying distribution
-
-&emsp;&emsp;The term "qualifying distribution" has the meaning given such term by section 4942(g).
-
-#### (B) Assets
-
-&emsp;&emsp;The assets of a private foundation for any taxable year shall be treated as equal to the excess determined under section 4942(e)(1).
-
-#### (6) Treatment of successor organizations, etc.
-
-&emsp;In the case of—
-
-&emsp;&emsp;(A) a private foundation which is a successor to another private foundation, this subsection shall be applied with respect to such successor by taking into account the experience of such other foundation, and
-
-&emsp;&emsp;(B) a merger, reorganization, or division of a private foundation, this subsection shall be applied under regulations prescribed by the Secretary.
-
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 498; amended Pub. L. 94–455, title XIX, §1901(b)(33)(N), Oct. 4, 1976, 90 Stat. 1802; Pub. L. 95–345, §2(a)(4), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title V, §520(a), Nov. 6, 1978, 92 Stat. 2884; Pub. L. 98–369, div. A, title III, §§302(a), 303(a), July 18, 1984, 98 Stat. 779, 781; Pub. L. 99–514, title XIII, §1301(j)(6), title XVIII, §1832, Oct. 22, 1986, 100 Stat. 2658, 2851; Pub. L. 109–280, title XII, §1221(a)(1), (b), Aug. 17, 2006, 120 Stat. 1089; Pub. L. 110–172, §3(f), Dec. 29, 2007, 121 Stat. 2475.)
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 498; amended Pub. L. 94–455, title XIX, §1901(b)(33)(N), Oct. 4, 1976, 90 Stat. 1802; Pub. L. 95–345, §2(a)(4), Aug. 15, 1978, 92 Stat. 481;Pub. L. 95–600, title V, §520(a), Nov. 6, 1978, 92 Stat. 2884; Pub. L. 98–369, div. A, title III, §§302(a), 303(a), July 18, 1984, 98 Stat. 779, 781; Pub. L. 99–514, title XIII, §1301(j)(6), title XVIII, §1832, Oct. 22, 1986, 100 Stat. 2658, 2851; Pub. L. 109–280, title XII, §1221(a)(1), (b), Aug. 17, 2006, 120 Stat. 1089; Pub. L. 110–172, §3(f), Dec. 29, 2007, 121 Stat. 2475; Pub. L. 116–94, div. Q, title II, §206(a), (b), Dec. 20, 2019, 133 Stat. 3246.)
 
 #### Codification
 
 Section 1221(a)(1), (b) of Pub. L. 109–280, which directed the amendment of section 4940 without specifying the act to be amended, was executed to this section, which is section 4940 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–94, §206(a), substituted "1.39 percent" for "2 percent".
+
+Subsec. (e). Pub. L. 116–94, §206(b), struck out subsec. (e) which provided for reduction in tax where private foundation met certain distribution requirements.
 
 <b>2007</b>—Subsec. (c)(4)(A). Pub. L. 110–172 amended text generally. Prior to amendment, text read as follows: "There shall be taken into account only gains and losses from the sale or other disposition of property used for the production of interest, dividends, rents, and royalties, and property used for the production of income included in computing the tax imposed by section 511 (except to the extent gain or loss from the sale or other disposition of such property is taken into account for purposes of such tax)."
 
@@ -218,9 +152,13 @@ Subsec. (c)(2). Pub. L. 95–345 inserted provision relating to payments with re
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–455 substituted "capital gain net income" for "net capital gain" in par. (1) after "investment income and the", and in par. (4) after "par. (1) in determining".
 
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–94, div. Q, title II, §206(c), Dec. 20, 2019, 133 Stat. 3246, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 20, 2019\]."
+
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006,Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -318,7 +256,7 @@ Section 4942.—In the case of organizations organized before May 27, 1969, sect
 
 &emsp;&emsp;"(iii) by defining the distributable amount as the sum of the amount determined under section 4942(d) (after the application of clauses (i) and (ii)), and the amount of the dividend income from such stock.
 
-> With respect to taxable years beginning after December 31, 1971, subparagraphs (B) and (E) shall apply only during the pendency of any judicial proceeding by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument (as in effect on May 26, 1969) in order to comply with the provisions of section 4942, and in the case of subparagraph (B) for all periods after the termination of such judicial proceeding during which the governing instrument or any other instrument does not permit compliance with such provisions.
+> With respect to taxable years beginning after December 31, 1971, subparagraphs (B) and (E) shall apply only during the pendency of any judicial proceeding by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument (as in effect on May 26, 1969) in order to comply with the provisions of section 4942, and in the case of subparagraph (B) for all periods after the termination of such judicial proceeding during which the governing instrument or anyother instrument does not permit compliance with such provisions.
 
 "(4)
 

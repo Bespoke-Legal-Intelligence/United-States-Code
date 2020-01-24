@@ -46,7 +46,7 @@ In this section:
 
 &emsp;&emsp;(C) on which the application State grants a State license; or
 
-&emsp;&emsp;(D) that is 120 days after the date on which the individual submits the application, if theapplication is listed on the Nationwide Mortgage Licensing System and Registry as incomplete.
+&emsp;&emsp;(D) that is 120 days after the date on which the individual submits the application, if the application is listed on the Nationwide Mortgage Licensing System and Registry as incomplete.
 
 #### (c) Temporary authority to originate loans for State-licensed loan originators moving interstate
 

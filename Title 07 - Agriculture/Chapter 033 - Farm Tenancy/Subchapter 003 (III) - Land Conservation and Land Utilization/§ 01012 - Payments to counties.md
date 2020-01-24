@@ -10,5 +10,5 @@ This section is section 33 of act July 22, 1937. Section is being treated as rep
 
 #### Existing Rights-of-Way
 
-Provisions of section 706(a) of Pub. L. 94–579, except as pertaining to rights-of-way, not to be construed asaffecting the authority of the Secretary of Agriculture under this section, see note set out under section 1701 of Title 43, Public Lands.
+Provisions of section 706(a) of Pub. L. 94–579, except as pertaining to rights-of-way, not to be construed as affecting the authority of the Secretary of Agriculture under this section, see note set out under section 1701 of Title 43, Public Lands.
 

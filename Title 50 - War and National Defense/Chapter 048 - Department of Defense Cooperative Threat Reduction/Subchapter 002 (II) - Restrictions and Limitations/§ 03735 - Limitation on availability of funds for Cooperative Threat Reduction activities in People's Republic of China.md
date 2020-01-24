@@ -22,7 +22,7 @@ In carrying out activities under the Program in the People's Republic of China, 
 
 #### (2) Additional submissions
 
-&emsp;At the same time as the Secretary of Defense submits to the congressional defense committees the information described in subparagraphs (A), (B), and (C) of paragraph (1) as part of the reports required by section 3711(g) of this title, the Secretary shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate such information.
+&emsp;At the same time as the Secretary of Defense submits to the congressional defense committees the information described in subparagraphs (A), (B), and (C) of paragraph (1) as part of the reports required by section 3711(g)of this title, the Secretary shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate such information.
 
 #### (3) Coverage
 

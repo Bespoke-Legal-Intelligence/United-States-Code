@@ -7,13 +7,13 @@
 | [8746\.](%C2%A7%2008746%20-%20Administration%20of%20oaths%20by%20clerks%20and%20employees.md) | Administration of oaths by clerks and employees. |
 | [8747\.](%C2%A7%2008747%20-%20Transportation%20of%20dependents%20and%20household%20effects%20of%20civilian%20personnel%20stationed%20outside%20the%20United%20States%20payment%20in%20lieu%20of%E2%80%A6.md) | Transportation of dependents and household effects of civilian personnel stationed outside the United States: payment in lieu of transportation. |
 | [8748\.](%C2%A7%2008748%20-%20Naval%20War%20College%20and%20Marine%20Corps%20University%20civilian%20faculty%20members.md) | Naval War College and Marine Corps University: civilian faculty members. |
-| [8749\.](%C2%A7%2008749%20-%20Civil%20service%20mariners%20of%20military%20sealift%20command%20release%20of%20drug%20and%20alcohol%20test%20results%20to%20coast%20guard%201.md) | Civil service mariners of Military Sealift Command: release of drug and alcohol test results to Coast Guard<sup>1</sup> |
+| [8749\.](%C2%A7%2008749%20-%20Civil%20service%20mariners%20of%20Military%20Sealift%20Command%20release%20of%20drug%20and%20alcohol%20test%20results%20to%20Coast%20Guard.md) | Civil service mariners of military sealift command: release of drug and alcohol test results to Coast Guard<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |
 | :--- | ---: |
-| [8749a.](%C2%A7%2008749a%20-%20Civil%20service%20mariners%20of%20military%20sealift%20command%201%20alcohol%20testing.md) | Civil service mariners of Military Sealift Command: alcohol testing<sup>1</sup> |
+| [8749a.](%C2%A7%2008749a%20-%20Civil%20service%20mariners%20of%20Military%20Sealift%20Command%20alcohol%20testing.md) | Civil service mariners of military sealift command: alcohol testing<sup>1</sup> |
 | [8750\.](%C2%A7%2008750%20-%20Special%20agents%20of%20the%20Naval%20Criminal%20Investigative%20Service%20authority%20to%20execute%20warrants%20and%20make%20arrests.md) | Special agents of the Naval Criminal Investigative Service: authority to execute warrants and make arrests. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,6 +50,6 @@ Pub. L. 115–232, div. A, title XI, §1114(c), Aug. 13, 2018, 132 Stat. 2013, a
 - [&sect; 08746 - Administration of oaths by clerks and employees](%C2%A7%2008746%20-%20Administration%20of%20oaths%20by%20clerks%20and%20employees.md)
 - [&sect; 08747 - Transportation of dependents and household effects of civilian personnel stationed outside the United States payment in lieu of&#8230;](%C2%A7%2008747%20-%20Transportation%20of%20dependents%20and%20household%20effects%20of%20civilian%20personnel%20stationed%20outside%20the%20United%20States%20payment%20in%20lieu%20of%E2%80%A6.md)
 - [&sect; 08748 - Naval War College and Marine Corps University civilian faculty members](%C2%A7%2008748%20-%20Naval%20War%20College%20and%20Marine%20Corps%20University%20civilian%20faculty%20members.md)
-- [&sect; 08749 - Civil service mariners of military sealift command release of drug and alcohol test results to coast guard 1](%C2%A7%2008749%20-%20Civil%20service%20mariners%20of%20military%20sealift%20command%20release%20of%20drug%20and%20alcohol%20test%20results%20to%20coast%20guard%201.md)
-- [&sect; 08749a - Civil service mariners of military sealift command 1 alcohol testing](%C2%A7%2008749a%20-%20Civil%20service%20mariners%20of%20military%20sealift%20command%201%20alcohol%20testing.md)
+- [&sect; 08749 - Civil service mariners of Military Sealift Command release of drug and alcohol test results to Coast Guard](%C2%A7%2008749%20-%20Civil%20service%20mariners%20of%20Military%20Sealift%20Command%20release%20of%20drug%20and%20alcohol%20test%20results%20to%20Coast%20Guard.md)
+- [&sect; 08749a - Civil service mariners of Military Sealift Command alcohol testing](%C2%A7%2008749a%20-%20Civil%20service%20mariners%20of%20Military%20Sealift%20Command%20alcohol%20testing.md)
 - [&sect; 08750 - Special agents of the Naval Criminal Investigative Service authority to execute warrants and make arrests](%C2%A7%2008750%20-%20Special%20agents%20of%20the%20Naval%20Criminal%20Investigative%20Service%20authority%20to%20execute%20warrants%20and%20make%20arrests.md)

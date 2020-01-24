@@ -66,11 +66,11 @@
 
 > &emsp;&emsp;if the Secretary finds, on the basis of the conviction of such individual and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
 
-&emsp;&emsp;(iii) Any individual whom the Secretary finds materially participated in acts that were the basis for a conviction for an offense described in subsection (a) or in clause (i) or (ii) for which a conviction was obtained, if the Secretary finds, on the basis of such participation and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
+&emsp;&emsp;(iii) Any individual whom the Secretary finds materially participated in acts that were the basis for a conviction for an offense described in subsection (a) or in clause (i) or (ii) for which a conviction was obtained, ifthe Secretary finds, on the basis of such participation and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
 
 &emsp;&emsp;(iv) Any high managerial agent whom the Secretary finds—
 
-&emsp;&emsp;&emsp;(I) worked for, or worked as a consultant for, the same person as another individualduring the period in which such other individual took actions for which a felony conviction was obtained and which resulted in the debarment under subsection (a)(2), or clause (i), of such other individual,
+&emsp;&emsp;&emsp;(I) worked for, or worked as a consultant for, the same person as another individual during the period in which such other individual took actions for which a felony conviction was obtained and which resulted in the debarment under subsection (a)(2), or clause (i), of such other individual,
 
 &emsp;&emsp;&emsp;(II) had actual knowledge of the actions described in subclause (I) of such other individual, or took action to avoid such actual knowledge, or failed to take action for the purpose of avoiding such actual knowledge,
 
@@ -416,7 +416,7 @@ Subsec. (m). Pub. L. 107–250 added subsec. (m).
 
 #### Construction
 
-Pub. L. 102–282, §7, May 13, 1992, 106 Stat. 162, provided that: "No amendment made by this Act \[enacting this section and sections 335b and 335c of this title andamending sections 321, 336, 337, and 355 of this title\] shall preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by this Act."
+Pub. L. 102–282, §7, May 13, 1992, 106 Stat. 162, provided that: "No amendment made by this Act \[enacting this section and sections 335b and 335c of this title and amending sections 321, 336, 337, and 355 of this title\] shall preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by this Act."
 
 #### Congressional Findings
 

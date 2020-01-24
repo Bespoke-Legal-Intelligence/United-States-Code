@@ -42,7 +42,7 @@ The land management goals of a project under subsection (b) may include any of t
 
 #### (2) Contract for sale of property
 
-&emsp;A contract entered into under this section may, at the discretion of the Secretary of Agriculture, be considered a contract for the saleof property under such terms as the Secretary may prescribe without regard to any other provision of law.
+&emsp;A contract entered into under this section may, at the discretion of the Secretary of Agriculture, be considered a contract for the sale of property under such terms as the Secretary may prescribe without regard to any other provision of law.
 
 #### (3) Term
 

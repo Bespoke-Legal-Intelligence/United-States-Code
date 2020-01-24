@@ -400,7 +400,7 @@ Employer Requirements.—An employer who wants to employ employees at the wage a
 
 &emsp;"(1) notify the Secretary annually of the positions at which such employees are to be employed at such wage,
 
-&emsp;"(2) provide on-the-job training to such employees which meets general criteria of the Secretary issued by regulation after consultation with the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives and other interested persons,
+&emsp;"(2) provide on-the-job training to such employees which meets general criteria of the Secretary issued by regulation after consultation with the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Education and Labor of the House of Representatives and other interested persons,
 
 &emsp;"(3) keep on file a copy of the training program which the employer will provide such employees,
 
@@ -426,11 +426,11 @@ Report.—The Secretary of Labor shall report to Congress not later than March 1
 
 #### Practice of Public Agency in Treating Certain Individuals as Volunteers Prior to April 15, 1986; Liability
 
-Certain public agencies not to be liable for violations of this section occurring before Apr. 15, 1986, with respect to services deemed by that agency to have been performed for it by an individual on a voluntary basis,see section 4(c) of Pub. L. 99–150, set out as a note under section 203 of this title.
+Certain public agencies not to be liable for violations of this section occurring before Apr. 15, 1986, with respect to services deemed by that agency to have been performed for it by an individual on a voluntary basis, see section 4(c) of Pub. L. 99–150, set out as a note under section 203 of this title.
 
 #### Effect of Amendments by Public Law 99–150 on Public Agency Liability Respecting any Employee Covered Under Special Enforcement Policy
 
-Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under section 216 of this title for violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under section 216 of this title.
+Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under section 216 of this titlefor violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under section 216 of this title.
 
 #### Inapplicability to Northern Mariana Islands
 

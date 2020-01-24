@@ -6,7 +6,7 @@ The authority of the Chief of Engineers, Department of the Army, to undertake or
 
 #### (b) Land contribution
 
-The Secretary shall also contribute the necessary land which may be required at any future date for the construction of one new inlet across Fire Island in such location as may be feasible in accordance with plans for such an inlet which are mutually acceptable to the Secretary of the Interior and the Secretary of the Army and thatis consistent with the purposes of sections 459e to 459e–9 of this title.
+The Secretary shall also contribute the necessary land which may be required at any future date for the construction of one new inlet across Fire Island in such location as may be feasible in accordance with plans for such an inlet which are mutually acceptable to the Secretary of the Interior and the Secretary of the Army and that is consistent with the purposes of sections 459e to 459e–9 of this title.
 
 (Pub. L. 88–587, §8, Sept. 11, 1964, 78 Stat. 932.)
 

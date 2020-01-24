@@ -30,7 +30,7 @@ Acquisition of Low-Cost Interests in Land.—(1) The Secretary of a military dep
 
 &emsp;(B) does not cost more than $1,500,000, exclusive of administrative costs and the amounts of any deficiency judgments.
 
-(3) This subsection does not apply to the acquisition, as a part of the same project, of more than one parcel of land unless the parcels are noncontiguous, or, if contiguous, unless the total cost is not more than $750,000, in the case of an acquisition under paragraph (1), or$1,500,000, in the case of an acquisition under paragraph (2).
+(3) This subsection does not apply to the acquisition, as a part of the same project, of more than one parcel of land unless the parcels are noncontiguous, or, if contiguous, unless the total cost is not more than $750,000, in the case of an acquisition under paragraph (1), or $1,500,000, in the case of an acquisition under paragraph (2).
 
 (4) Appropriations available to the Department of Defense for operation and maintenance or construction may be used for the acquisition of land or interests in land under this subsection.
 
@@ -116,7 +116,7 @@ July 2, 1917, ch. 35; restated Apr. 11, 1918, ch. 51, 40 Stat. 518.
 
 Oct. 25, 1951, ch. 563, §101 (less 22d through 43d words), 65 Stat. 641.
 
-In subsection (a), the words "brought \* \* \* in a court of proper jurisdiction" are substituted for the words "instituted \* \* \* in any court having jurisdiction of such proceedings". The words "any interest in land, including temporary use" are substituted for the words "any land, temporary use thereof or other interest therein, or right pertaining thereto". The words "relating to suits for the condemnation of property" are omitted as surplusage. The last sentence is substituted for 50:171 (words between semicolon and first proviso). The Act of July 2, 1917, ch. 35, as restated by the Act of April 11, 1918, ch. 51 (last 77 words), are not containedin 50:171. They are also omitted from the revised section as executed.
+In subsection (a), the words "brought \* \* \* in a court of proper jurisdiction" are substituted for the words "instituted \* \* \* in any court having jurisdiction of such proceedings". The words "any interest in land, including temporary use" are substituted for the words "any land, temporary use thereof or other interest therein, or right pertaining thereto". The words "relating to suits for the condemnation of property" are omitted as surplusage. The last sentence is substituted for 50:171 (words between semicolon and first proviso). The Act of July 2, 1917, ch. 35, as restated by the Act of April 11, 1918, ch. 51 (last 77 words), are not contained in 50:171. They are also omitted from the revised section as executed.
 
 In subsection (a)(1), the word "location" is omitted as surplusage. The words "operation of" are substituted for the words "prosecution of works for".
 

@@ -92,7 +92,7 @@ Proceeds.—
 
 &emsp;&emsp;(A)
 
-Deposit in special account.—For a transfer or disposition of property pursuantto paragraph (4), the Administrator shall deposit any proceeds (less expenses of the transfer or disposition as provided in subsection (a)) in a special account in the Treasury.
+Deposit in special account.—For a transfer or disposition of property pursuant to paragraph (4), the Administrator shall deposit any proceeds (less expenses of the transfer or disposition as provided in subsection (a)) in a special account in the Treasury.
 
 &emsp;&emsp;(B)
 

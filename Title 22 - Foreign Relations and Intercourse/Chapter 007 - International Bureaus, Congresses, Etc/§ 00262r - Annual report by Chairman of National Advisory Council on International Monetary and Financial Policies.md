@@ -26,7 +26,7 @@ Each annual report required by subsection (a) shall contain—
 
 &emsp;(7) a description of the progress made by the United States Executive Director of the International Monetary Fund with respect to the goals of section 286kk of this title;
 
-&emsp;(8) a description of the status of procedures in the multilateral development banks specifically designed to increase the productive role of the poor in the economies of the nations which are borrowers from such banks;
+&emsp;(8) a description of the status of procedures in the multilateral development banks specifically designed to increase the productive roleof the poor in the economies of the nations which are borrowers from such banks;
 
 &emsp;(9) in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than section 262e of this title), including the information required to be reported pursuant to section 262d(c) <sup>1</sup> of this title, and, for the fiscal year 1990, the report described in section 262p–4h of this title;
 
@@ -200,7 +200,7 @@ Report.—On the termination of the Commission, the Commission shall submit to t
 
 &emsp;"(2) Changes to the charters, organizational structures, policies and programs of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]).
 
-&emsp;"(3) Additional monitoring tools, global standards, or regulations for, among other things, global capital flows, bankruptcy standards, accounting standards, payment systems, and safety and soundness principles for financial institutions.
+&emsp;"(3) Additional monitoring tools, global standards, or regulations for, among other things, global capital flows, bankruptcy standards, accounting standards,payment systems, and safety and soundness principles for financial institutions.
 
 &emsp;"(4) Possible mergers or abolition of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]), including changes to the manner in which such institutions coordinate their policy and program implementation and their roles and responsibilities.
 
@@ -216,7 +216,7 @@ Reports by the Executive Branch.—
 
 &emsp;"(1) Within three months after receiving the report of the Commission under subsection (g), the President of the United States through the Secretary of the Treasury shall report to the appropriate committees on the desirability and feasibility of implementing the recommendations contained in the report.
 
-&emsp;"(2) Annually, for three years after the termination of the Commission, the President of the United States through the Secretary of the Treasury shall submit to the appropriate committees a report on the steps taken, if any, through relevant international institutions and international fora to implementsuch recommendations as are deemed feasible and desirable under paragraph (1)."
+&emsp;"(2) Annually, for three years after the termination of the Commission, the President of the United States through the Secretary of the Treasury shall submit to the appropriate committees a report on the steps taken, if any, through relevant international institutions and international fora to implement such recommendations as are deemed feasible and desirable under paragraph (1)."
 
 #### Progress Reports to Congress on United States Initiatives To Update Architecture of International Monetary System
 

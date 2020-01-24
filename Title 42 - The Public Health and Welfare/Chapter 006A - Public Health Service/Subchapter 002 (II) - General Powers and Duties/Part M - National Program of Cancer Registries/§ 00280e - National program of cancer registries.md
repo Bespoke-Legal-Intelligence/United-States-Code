@@ -30,7 +30,7 @@
 
 &emsp;&emsp;For purposes of subparagraph (A):
 
-&emsp;&emsp;&emsp;(i) The term "brain-related tumor" means a listed primary tumor (whethermalignant or benign) occurring in any of the following sites:
+&emsp;&emsp;&emsp;(i) The term "brain-related tumor" means a listed primary tumor (whether malignant or benign) occurring in any of the following sites:
 
 &emsp;&emsp;&emsp;&emsp;(I) The brain, meninges, spinal cord, cauda equina, a cranial nerve or nerves, or any other part of the central nervous system.
 
@@ -54,7 +54,7 @@
 
 &emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-&emsp;(B) With respect to a State in which the purpose described in subsection (a) is to be carried out, the Secretary, in making a determination of the amount of non-Federal contributions provided under paragraph (1), may include only such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) is made with respect to the State. The Secretary may decrease the amount of non-Federal contributions that otherwise would have been required by this subsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
+&emsp;(B) With respect to a State in which the purpose described in subsection (a) is to be carried out, the Secretary, in making a determination of the amount of non-Federal contributions provided under paragraph (1), may includeonly such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) is made with respect to the State. The Secretary may decrease the amount of non-Federal contributions that otherwise would have been required by this subsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
 
 #### (c) Eligibility for grants
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(ii) a means to assure the complete reporting of cancer cases (as defined in subsection (a)) to the statewide cancer registry by physicians, surgeons, and all other health care practitioners diagnosing or providing treatment for cancer patients, except for cases directly referred to or previously admitted to a hospital or other facility providing screening, diagnostic or therapeutic services to patients in that State and reported by those facilities;
 
-&emsp;&emsp;&emsp;(iii) a means for the statewide cancer registry to access all records of physiciansand surgeons, hospitals, outpatient clinics, nursing homes, and all other facilities, individuals, or agencies providing such services to patients which would identify cases of cancer or would establish characteristics of the cancer, treatment of the cancer, or medical status of any identified patient;
+&emsp;&emsp;&emsp;(iii) a means for the statewide cancer registry to access all records of physicians and surgeons, hospitals, outpatient clinics, nursing homes, and all other facilities, individuals, or agencies providing such services to patients which would identify cases of cancer or would establish characteristics of the cancer, treatment of the cancer, or medical status of any identified patient;
 
 &emsp;&emsp;&emsp;(iv) for the reporting of cancer case data to the statewide cancer registry in such a format, with such data elements, and in accordance with such standards of quality timeliness and completeness, as may be established by the Secretary;
 

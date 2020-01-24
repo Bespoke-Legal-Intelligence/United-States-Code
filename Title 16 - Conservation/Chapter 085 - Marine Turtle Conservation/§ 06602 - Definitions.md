@@ -8,37 +8,55 @@ In this chapter:
 
 #### (2) Conservation
 
-&emsp;The term "conservation" means the use of all methods and procedures necessary to protect nesting habitats of marine turtles in foreign countries and of marine turtles in those habitats, including—
+&emsp;The term "conservation" means the use of all methods and procedures necessary to protect marine turtles, freshwater turtles, and tortoises, and the habitats of marine turtles, freshwater turtles, and tortoises, in foreigncountries and territories of the United States under the jurisdiction of United States Fish and Wildlife Service programs, including—
 
-&emsp;&emsp;(A) protection, restoration, and management of nesting habitats;
+&emsp;&emsp;(A) protection, restoration, and management of habitats;
 
-&emsp;&emsp;(B) onsite research and monitoring of nesting populations, nesting habitats, annual reproduction, and species population trends;
+&emsp;&emsp;(B) onsite research and monitoring of populations, habitats, annual reproduction, and species population trends;
 
-&emsp;&emsp;(C) assistance in the development, implementation, and improvement of national and regional management plans for nesting habitat ranges;
+&emsp;&emsp;(C) assistance in the development, implementation, and improvement of national and regional management plans for habitat ranges;
 
-&emsp;&emsp;(D) enforcement and implementation of CITES and laws of foreign countries to—
+&emsp;&emsp;(D) enforcement and implementation of CITES and laws of foreign countries—
 
-&emsp;&emsp;&emsp;(i) protect and manage nesting populations and nesting habitats; and
+&emsp;&emsp;&emsp;(i) to protect and manage populations and habitats; and
 
-&emsp;&emsp;&emsp;(ii) prevent illegal trade of marine turtles;
+&emsp;&emsp;&emsp;(ii) to prevent illegal trade of marine turtles;
 
 &emsp;&emsp;(E) training of local law enforcement officials in the interdiction and prevention of—
 
-&emsp;&emsp;&emsp;(i) the illegal killing of marine turtles on nesting habitat; and
+&emsp;&emsp;&emsp;(i) the illegal killing of marine turtles, freshwater turtles, and tortoises; and
 
 &emsp;&emsp;&emsp;(ii) illegal trade in marine turtles;
 
-&emsp;&emsp;(F) initiatives to resolve conflicts between humans and marine turtles over habitat used by marine turtles for nesting;
+&emsp;&emsp;(F) initiatives to resolve conflicts between humans and marine turtles, freshwater turtles, and tortoises over habitats used by marine turtles, freshwater turtles, and tortoises;
 
 &emsp;&emsp;(G) community outreach and education; and
 
-&emsp;&emsp;(H) strengthening of the ability of local communities to implement nesting population and nesting habitat conservation programs.
+&emsp;&emsp;(H) strengthening of the ability of local communities to implement population and habitat conservation programs.
 
-#### (3) Fund
+#### (3) Freshwater turtle
+
+#### (A) In general
+
+&emsp;&emsp;The term "freshwater turtle" means any member of the family Carettochelyidae, Chelidae, Chelydridae, Dermatemydidae, Emydidae, Geoemydidae, Kinosternidae, Pelomedusidae, Platysternidae, Podocnemididae, or Trionychidae.
+
+#### (B) Inclusions
+
+&emsp;&emsp;The term "freshwater turtle" includes—
+
+&emsp;&emsp;&emsp;(i) any part, product, egg, or offspring of a turtle described in subparagraph (A); and
+
+&emsp;&emsp;&emsp;(ii) a carcass of such a turtle.
+
+#### (4) Fund
 
 &emsp;The term "Fund" means the Marine Turtle Conservation Fund established by section 6604 of this title.
 
-#### (4) Marine turtle
+#### (5) Habitat
+
+&emsp;The term "habitat" means any marine turtle, freshwater turtle, or tortoise habitat (including a nesting habitat) that is under the jurisdiction of United States Fish and Wildlife Service programs.
+
+#### (6) Marine turtle
 
 #### (A) In general
 
@@ -52,19 +70,69 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) a carcass of such a turtle.
 
-#### (5) Multinational Species Conservation Fund
+#### (7) Multinational Species Conservation Fund
 
 &emsp;The term "Multinational Species Conservation Fund" means the fund established under the heading "multinational species conservation fund" in title I of the Department of the Interior and Related Agencies Appropriations Act, 1999 (16 U.S.C. 4246).
 
-#### (6) Secretary
+#### (8) Secretary
 
 &emsp;The term "Secretary" means the Secretary of the Interior.
 
-(Pub. L. 108–266, §3, July 2, 2004, 118 Stat. 792.)
+#### (9) Territory of the United States
+
+&emsp;The term "territory of the United States" means—
+
+&emsp;&emsp;(A) American Samoa;
+
+&emsp;&emsp;(B) the Commonwealth of the Northern Mariana Islands;
+
+&emsp;&emsp;(C) the Commonwealth of Puerto Rico;
+
+&emsp;&emsp;(D) Guam;
+
+&emsp;&emsp;(E) the United States Virgin Islands; and
+
+&emsp;&emsp;(F) any other territory or possession of the United States.
+
+#### (10) Tortoise
+
+#### (A) In general
+
+&emsp;&emsp;The term "tortoise" means any member of the family Testudinidae.
+
+#### (B) Inclusions
+
+&emsp;&emsp;The term "tortoise" includes—
+
+&emsp;&emsp;&emsp;(i) any part, product, egg, or offspring of a tortoise described in subparagraph (A); and
+
+&emsp;&emsp;&emsp;(ii) a carcass of such a tortoise.
+
+(Pub. L. 108–266, §3, July 2, 2004, 118 Stat. 792; Pub. L. 116–9, title VII, §7001(c)(3)(B), Mar. 12, 2019, 133 Stat. 786.)
 
 #### References in Text
 
-Title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in par. (5), is Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading "
+Title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in par. (7), is Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading "
 
 multinational species conservation fund" in Pub. L. 105–277, §101(e) \[title I\] appear at 112 Stat. 2681–237 and are classified in part to section 4246 of this title.
+
+#### Amendments
+
+<b>2019</b>—Par. (2). Pub. L. 116–9, §7001(c)(3)(B)(i)(I), substituted "marine turtles, freshwater turtles, and tortoises, and the habitats of marine turtles, freshwater turtles, and tortoises, in foreign countries and territories of the United States under the jurisdiction of United States Fish and Wildlife Service programs" for "nesting habitats of marine turtles in foreign countries and of marine turtles in those habitats" in introductory provisions.
+
+Par. (2)(A) to (C). Pub. L. 116–9, §7001(c)(3)(B)(i)(II), struck out "nesting" wherever appearing before "habitats", "populations", and "habitat".
+
+Par. (2)(D). Pub. L. 116–9, §7001(c)(3)(B)(i)(III)(aa), substituted "countries—" for "countries to—" in introductory provisions.
+
+Par. (2)(D)(i). Pub. L. 116–9, §7001(c)(3)(B)(i)(III)(bb), inserted "to" before "protect" and struck out "nesting" before "populations" and before "habitats".
+
+Par. (2)(D)(ii). Pub. L. 116–9, §7001(c)(3)(B)(i)(III)(cc), inserted "to" before "prevent".
+
+Par. (2)(E)(i). Pub. L. 116–9, §7001(c)(3)(B)(i)(IV), substituted "turtles, freshwater turtles, and tortoises" for "turtles on nesting habitat".
+
+Par. (2)(F). Pub. L. 116–9, §7001(c)(3)(B)(i)(V), substituted "turtles, freshwater turtles, and tortoises over habitats used by marine turtles, freshwater turtles, and tortoises" for "turtles over habitat used by marine turtles for nesting".
+
+Par. (2)(H). Pub. L. 116–9, §7001(c)(3)(B)(i)(VI), struck out "nesting" before "population" and before "habitat".
+
+Pars. (3) to (10). Pub. L. 116–9, §7001(c)(3)(B)(ii)–(v), added pars. (3), (5), (9), and (10) and redesignated former pars. (3) to (6) as (4), (6), (7) and (8), respectively.
 

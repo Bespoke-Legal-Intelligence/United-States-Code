@@ -34,7 +34,7 @@ Not later than 1 year after June 10, 2014, the Secretary, after providing notice
 
 &emsp;&emsp;To the extent practicable, the benchmark goals established under paragraph (1) shall provide that—
 
-&emsp;&emsp;&emsp;(i) the Secretary generally approve or disapprove a completed section 14 application not later than 45 days after the date of receipt of the completed application; and
+&emsp;&emsp;&emsp;(i) the Secretary generally approve or disapprove a completed section 14 application not later than 45 days after the dateof receipt of the completed application; and
 
 &emsp;&emsp;&emsp;(ii) in a case in which the Secretary determines that additional time is needed to review a completed section 14 application due to the type, size, cost, complexity, or impacts of the actions proposed in the application, the Secretary generally approve or disapprove the application not later than 180 days after the date of receipt of the completed application.
 
@@ -60,7 +60,7 @@ In any case in which the Secretary fails make <sup>1</sup> a decision on a sect
 
 #### (1) Submission to Congress
 
-&emsp;The Secretary shall provide a copy of any written notice provided under subsection (d)to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+&emsp;The Secretary shall provide a copy of any written notice provided under subsection (d) to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 #### (2) Public availability
 

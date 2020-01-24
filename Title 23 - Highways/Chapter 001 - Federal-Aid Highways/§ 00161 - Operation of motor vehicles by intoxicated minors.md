@@ -14,7 +14,7 @@ Fiscal year 2012 and thereafter.—The Secretary shall withhold an amount equal 
 
 &emsp;(3)
 
-Requirement.—A State meets the requirement of this paragraph if the State has enacted and is enforcing a law that considers an individual under the age of 21 who has a blood alcohol concentration of 0.02 percent or greater while operating a motor vehicle in the State to be driving while intoxicated or driving under the influence of alcohol.
+Requirement.—A State meets the requirement of this paragraph if the State hasenacted and is enforcing a law that considers an individual under the age of 21 who has a blood alcohol concentration of 0.02 percent or greater while operating a motor vehicle in the State to be driving while intoxicated or driving under the influence of alcohol.
 
 (b)
 

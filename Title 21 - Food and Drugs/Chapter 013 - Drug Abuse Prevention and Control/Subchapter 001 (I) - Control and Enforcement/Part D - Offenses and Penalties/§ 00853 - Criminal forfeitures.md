@@ -10,7 +10,7 @@ Any person convicted of a violation of this subchapter or subchapter II punishab
 
 &emsp;(3) in the case of a person convicted of engaging in a continuing criminal enterprise in violation of section 848 of this title, the person shall forfeit, in addition to any property described in paragraph (1) or (2), any of his interest in, claims against, and property or contractual rights affording a source of control over, the continuing criminal enterprise.
 
-> The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to this subchapter or subchapter II, that the person forfeit to the United States all property described in this subsection. In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
+> The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to this subchapter or subchapter II, that the person forfeit to the United States all property described in this subsection. In lieu of a fine otherwise authorized by thispart, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
 
 #### (b) Meaning of term "property"
 
@@ -68,7 +68,7 @@ The Government may request the issuance of a warrant authorizing the seizure of 
 
 #### (g) Execution
 
-Upon entry of an order of forfeiture under this section, the court shall authorize the Attorney General to seize all property ordered forfeited upon such terms and conditions as the court shall deem proper. Following entry of an order declaring the property forfeited, the court may, upon application of the United States, enter such appropriate restraining orders or injunctions, require the execution of satisfactory performance bonds, appoint receivers, conservators, appraisers, accountants, or trustees, or take any other action to protect the interest of the United States in the property ordered forfeited. Any income accruing to or derived from property ordered forfeited under this section may be used to offset ordinary and necessary expenses to the property which are required by law, or which are necessary to protect the interests of the United States or third parties.
+Upon entry of an order of forfeiture under this section, the court shall authorize the Attorney General to seize all property ordered forfeited upon such terms and conditions as the courtshall deem proper. Following entry of an order declaring the property forfeited, the court may, upon application of the United States, enter such appropriate restraining orders or injunctions, require the execution of satisfactory performance bonds, appoint receivers, conservators, appraisers, accountants, or trustees, or take any other action to protect the interest of the United States in the property ordered forfeited. Any income accruing to or derived from property ordered forfeited under this section may be used to offset ordinary and necessary expenses to the property which are required by law, or which are necessary to protect the interests of the United States or third parties.
 
 #### (h) Disposition of property
 
@@ -116,7 +116,7 @@ In order to facilitate the identification and location of property declared forf
 
 (3) The petition shall be signed by the petitioner under penalty of perjury and shall set forth the nature and extent of the petitioner's right, title, or interest in the property, the time and circumstances of the petitioner's acquisition of the right, title, or interest in the property, any additional facts supporting the petitioner's claim, and the relief sought.
 
-(4) The hearing on the petition shall, to the extent practicable and consistent with the interests of justice, be held within thirty days of the filing of the petition. The court may consolidate the hearing on the petition with a hearing on any other petition filed by a person other than the defendant under this subsection.
+(4) The hearing on the petition shall, to the extent practicable and consistent with the interests of justice, be held within thirty days of the filing of the petition. The court may consolidatethe hearing on the petition with a hearing on any other petition filed by a person other than the defendant under this subsection.
 
 (5) At the hearing, the petitioner may testify and present evidence and witnesses on his own behalf, and cross-examine witnesses who appear at the hearing. The United States may present evidence and witnesses in rebuttal and in defense of its claim to the property and cross-examine witnesses who appear at the hearing. In addition to testimony and evidence presented at the hearing, the court shall consider the relevant portions of the record of the criminal case which resulted in the order of forfeiture.
 

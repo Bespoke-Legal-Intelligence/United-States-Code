@@ -6,7 +6,7 @@ The Congress makes the following findings:
 
 &emsp;(1) Timber is essential to the United States.
 
-&emsp;(2) Forests, forest resources, and the forest environment are exhaustible natural resourcesthat require efficient and effective conservation efforts.
+&emsp;(2) Forests, forest resources, and the forest environment are exhaustible natural resources that require efficient and effective conservation efforts.
 
 &emsp;(3) In the interest of conserving those resources, the United States has set aside millions of acres of otherwise harvestable timberlands in the western United States, representing well over 100,000,000,000 board feet of otherwise harvestable timber.
 

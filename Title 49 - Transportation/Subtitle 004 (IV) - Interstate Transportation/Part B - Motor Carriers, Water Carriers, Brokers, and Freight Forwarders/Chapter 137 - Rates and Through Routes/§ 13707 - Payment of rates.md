@@ -40,7 +40,7 @@ Post-contract services.—Subparagraph (A) does not apply to additional services
 
 &emsp;&emsp;(D)
 
-Impracticable operations.—Subparagraph (A) does not apply to impracticable operations, as defined by the applicable carrier tariff, except that the charges collected at delivery for such operations shall not exceed 15 percent of all other charges due at delivery. Any remaining charges due shall be paid within 30 days after the carrier presents its freight bill.
+Impracticable operations.—Subparagraph (A) does not apply to impracticable operations, as defined by the applicable carrier tariff, except that the charges collected at delivery for such operations shall not exceed 15 percent of all other charges due at delivery. Any remaining charges due shall bepaid within 30 days after the carrier presents its freight bill.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 873; amended Pub. L. 109–59, title IV, §4203, Aug. 10, 2005, 119 Stat. 1752.)
 

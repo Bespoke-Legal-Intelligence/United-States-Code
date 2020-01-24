@@ -16,7 +16,7 @@
 
 #### (b) Recovery with respect to gift tax
 
-If for any calendar year tax is paid under chapter 12 with respect to any person by reasonof property treated as transferred by such person under section 2519, such person shall be entitled to recover from the person receiving the property the amount by which—
+If for any calendar year tax is paid under chapter 12 with respect to any person by reason of property treated as transferred by such person under section 2519, such person shall be entitled to recover from the person receiving the property the amount by which—
 
 &emsp;(1) the total tax for such year under chapter 12, exceeds
 

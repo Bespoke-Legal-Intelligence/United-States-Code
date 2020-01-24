@@ -26,7 +26,7 @@
 
 &emsp;(2) Notwithstanding the provisions of section 2130 of this title, the board of directors of a bank for cooperatives may determine that, with respect to a loan to any borrower eligible to borrow from a bank under paragraph (1)(A) that is fully guaranteed by the United States, no stock purchase requirement shall apply, other than the requirement that a borrower eligible to own voting stock shall purchase one share of such stock.
 
-&emsp;(3) Each association and other entity eligible to borrow from a bank for cooperatives under this subsection, for purposes of section 2128(a) of this title, shall be treated as an eligible cooperative association and a stockholder eligible to borrow from the bank.
+&emsp;(3) Each association and other entity eligible to borrow from a bank for cooperatives under this subsection, for purposes of section 2128(a)of this title, shall be treated as an eligible cooperative association and a stockholder eligible to borrow from the bank.
 
 &emsp;(4) Nothing in this subsection shall be construed to adversely affect the eligibility, as it existed on January 6, 1988, of cooperatives and other entities for any other credit assistance under Federal law.
 

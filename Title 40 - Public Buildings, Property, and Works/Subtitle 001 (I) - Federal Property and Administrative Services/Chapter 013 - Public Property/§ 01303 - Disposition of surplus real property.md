@@ -212,7 +212,7 @@ Table of Contents.—\[Omitted.\]
 
 &emsp;"(9) improving the efficiency of real property transfers for the provision of services to the homeless; and
 
-&emsp;"(10) assisting Federal agencies in achieving the Government's sustainability goals by reducing excess space, inventory, and energy consumption, as well as by leveraging new technologies.
+&emsp;"(10) assisting Federal agencies in achieving the Government's sustainability goals by reducing excessspace, inventory, and energy consumption, as well as by leveraging new technologies.
 
 #### "SEC. 3. DEFINITIONS.
 
@@ -350,7 +350,7 @@ Transparency of Information.—All the proceedings, information, and deliberatio
 
 &emsp;"(1) the Committee on Transportation and Infrastructure of the House of Representatives;
 
-&emsp;"(2) the Committee on Oversight and Government Reform of the House of Representatives;
+&emsp;"(2) the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives;
 
 &emsp;"(3) the Committee on Homeland Security and Governmental Affairs of the Senate;
 
@@ -370,7 +370,7 @@ Compensation.—
 
 &emsp;"(1)
 
-Rate of pay for members.—Each member, other than the Chairperson, shall be paid at a rateequal to the daily equivalent of the minimum annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the actual performance of duties vested in the Board.
+Rate of pay for members.—Each member, other than the Chairperson, shall be paid at a rate equal to the daily equivalent of the minimum annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5, United StatesCode, for each day (including travel time) during which the member is engaged in the actual performance of duties vested in the Board.
 
 &emsp;"(2)
 
@@ -620,7 +620,7 @@ Second round.—Not earlier than 3 years after the date of transmittal of the fi
 
 &emsp;"(3)
 
-Consensus in majority.—The Board shall seek to develop consensus recommendations, but if a consensus cannot be obtained, the Board may include in the reports required under this subsection recommendations that are supported by a majority of the Board.
+Consensus in majority.—The Board shall seek to develop consensus recommendations, but if a consensus cannot be obtained, the Board may include inthe reports required under this subsection recommendations that are supported by a majority of the Board.
 
 "(h)
 
@@ -752,7 +752,7 @@ Public Benefit.—
 
 &emsp;"(1)
 
-Submission of information to hud.—The Director of OMB shall submit to the Secretary of HUD, on the same day the Director of OMB submits the Board's recommendations to Congress pursuant toparagraphs (1) and (4) of section 13(c), all known information on Federal civilian real properties that are included in the recommendations (except those recommended under section 12(b)).
+Submission of information to hud.—The Director of OMB shall submit to the Secretary of HUD, on the same day the Director of OMB submits the Board's recommendations to Congress pursuant to paragraphs (1) and (4) of section 13(c), all known information on Federal civilian real properties that are included in the recommendations (except those recommended under section 12(b)).
 
 &emsp;"(2)
 
@@ -850,7 +850,7 @@ Deposits.—The following amounts shall be deposited into the Fund and made avai
 
 &emsp;"(4)
 
-Use of amounts to cover costs.—As provided in appropriations Acts, amounts in the Fund may be made available to cover necessary costs associatedwith implementing the recommendations pursuant to section 14, including costs associated with—
+Use of amounts to cover costs.—As provided in appropriations Acts, amounts in the Fund may be made available to cover necessary costs associated with implementing the recommendations pursuant to section 14, including costs associated with—
 
 &emsp;&emsp;"(A) sales transactions;
 
@@ -986,7 +986,7 @@ Net Proceeds.—Any net proceeds received shall be paid into an account in the F
 
 "(a)
 
-Definition.—In this section, the term 'property' means property located in the District of Columbia,subject to survey and as determined by the Administrator, generally consisting of Square 326 south of C Street, all in Southwest Washington, District of Columbia, including the building known as the Cotton Annex.
+Definition.—In this section, the term 'property' means property located in the District of Columbia, subject to survey and as determined by the Administrator, generally consisting of Square 326 south of C Street, all in Southwest Washington, District of Columbia, including the building known as the Cotton Annex.
 
 "(b)
 

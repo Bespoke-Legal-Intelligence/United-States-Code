@@ -16,7 +16,7 @@ A grant may not be made to a State under this subchapter unless an application t
 
 &emsp;(7) a description of the criteria that the entity will use to develop, or select and fund, community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect as part of network development, expansion, or enhancement;
 
-&emsp;(8) a description of outreach activities that the entity and the community-based and prevention-focused programs designed to strengthen and support families to prevent child abuse and neglect will undertake to maximize the participation of racial and ethnic minorities, children and adults with disabilities, homeless families and those at risk of homelessness, unaccompanied homeless youth, and members of other underserved or underrepresented groups;
+&emsp;(8) a description of outreach activities that the entity and the community-based and prevention-focused programs designed tostrengthen and support families to prevent child abuse and neglect will undertake to maximize the participation of racial and ethnic minorities, children and adults with disabilities, homeless families and those at risk of homelessness, unaccompanied homeless youth, and members of other underserved or underrepresented groups;
 
 &emsp;(9) a plan for providing operational support, training, and technical assistance to community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect for development, operation, expansion and enhancement activities;
 

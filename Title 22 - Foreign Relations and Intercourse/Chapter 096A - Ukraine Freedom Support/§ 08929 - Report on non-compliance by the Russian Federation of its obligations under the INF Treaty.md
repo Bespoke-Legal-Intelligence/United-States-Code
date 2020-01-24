@@ -26,13 +26,17 @@ It is the sense of Congress that—
 
 &emsp;&emsp;(B) The President's assessment as to whether it remains in the national security interests of the United States to remain a party to the INF Treaty, and other related treaties and agreements, while the Russian Federation is in violation of its obligations under the INF Treaty.
 
-&emsp;&emsp;(C) Notification of any deployment by the Russian Federation of a ground launchedballistic or cruise missile system with a range of between 500 and 5,500 kilometers.
+&emsp;&emsp;(C) Notification of any deployment by the Russian Federation of a ground launched ballistic or cruise missile system with a range of between 500 and 5,500 kilometers.
 
 &emsp;&emsp;(D) A plan developed by the Secretary of State, in consultation with the Director of National Intelligence and the Defense Threat Reduction Agency (DTRA), to verify that the Russian Federation has fully and completely dismantled any ground launched cruise missiles or ballistic missiles with a range of between 500 and 5,500 kilometers, including details on facilities that inspectors need access to, people inspectors need to talk with, how often inspectors need the accesses for, and how much the verification regime would cost.
 
 #### (2) Form
 
 &emsp;The report required under paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
+
+#### (3) Sunset
+
+&emsp;The reporting requirement under paragraph (1) shall be in effect so long as the INF Treaty remains in force.
 
 #### (d) Committees specified
 
@@ -42,7 +46,11 @@ The committees specified in this subsection are—
 
 &emsp;(2) the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(Pub. L. 113–272, §10, Dec. 18, 2014, 128 Stat. 2965.)
+(Pub. L. 113–272, §10, Dec. 18, 2014, 128 Stat. 2965; Pub. L. 116–92, div. A, title XII, §1235(d), Dec. 20, 2019, 133 Stat. 1650.)
+
+#### Amendments
+
+<b>2019</b>—Subsec. (c)(3). Pub. L. 116–92 added par. (3).
 
 #### Delegation of Functions
 

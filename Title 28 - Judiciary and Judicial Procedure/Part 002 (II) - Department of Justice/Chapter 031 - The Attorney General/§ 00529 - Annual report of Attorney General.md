@@ -2,7 +2,7 @@
 
 (a) Beginning on June 1, 1979, and at the beginning of each regular session of Congress thereafter, the Attorney General shall report to Congress on the activities and operations of the Public Integrity Section or any other unit of the Department of Justice designated to supervise the investigation and prosecution of—
 
-&emsp;(1) any violation of Federal criminal law by any individual who holds or who at the time of such violation held a position, whether or notelective, as a Federal Government officer, employee, or special employee, if such violation relates directly or indirectly to such individual's Federal Government position, employment, or compensation;
+&emsp;(1) any violation of Federal criminal law by any individual who holds or who at the time of such violation held a position, whether or not elective, as a Federal Government officer, employee, or special employee, if such violation relates directly or indirectly to such individual's Federal Government position, employment, or compensation;
 
 &emsp;(2) any violation of any Federal criminal law relating to lobbying, conflict of interest, campaigns, and election to public office committed by any person, except insofar as such violation relates to a matter involving discrimination or intimidation on grounds of race, color, religion, or national origin;
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(C) all documentation necessary for conducting a full and proper audit under generally accepted accounting principles, and any (additional) documentation that may have been required under the grant, cooperative agreement, or contract, have been kept in orderly fashion and will be preserved for not less than 3 years from the date of such close out, termination, or end;
 
-> &emsp;except that the requirement of this paragraph shall be deemed satisfied with respect to any such description, statistics, or declaration if such non-Federal grantee or such non-Federal party shall have failed to provide the same to the Attorney General, and the Attorney General notes the fact of such failure and the name of such grantee or such party in the report.
+> &emsp;except that the requirement of this paragraph shall be deemed satisfied with respect to any such description, statistics, or declaration if such non-Federal grantee or such non-Federalparty shall have failed to provide the same to the Attorney General, and the Attorney General notes the fact of such failure and the name of such grantee or such party in the report.
 
 (Added Pub. L. 95–521, title VI, §603(a), Oct. 26, 1978, 92 Stat. 1874; amended Pub. L. 107–273, div. A, title II, §205(a), div. B, title IV, §4003(b)(3), Nov. 2, 2002, 116 Stat. 1777, 1811.)
 

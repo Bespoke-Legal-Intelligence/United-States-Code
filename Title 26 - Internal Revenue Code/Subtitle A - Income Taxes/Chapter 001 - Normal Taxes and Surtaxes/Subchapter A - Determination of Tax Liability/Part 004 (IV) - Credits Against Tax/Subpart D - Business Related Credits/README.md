@@ -31,12 +31,15 @@ Subpart D—Business Related Credits
 | [45Q.](%C2%A7%2000045Q%20-%20Credit%20for%20carbon%20oxide%20sequestration.md) | Credit for carbon dioxide sequestration. |
 | [45R.](%C2%A7%2000045R%20-%20Employee%20health%20insurance%20expenses%20of%20small%20employers.md) | Employee health insurance expenses of small employers. |
 | [45S.](%C2%A7%2000045S%20-%20Employer%20credit%20for%20paid%20family%20and%20medical%20leave.md) | Employer credit for paid family and medical leave. |
+| [45T.](%C2%A7%2000045T%20-%20Auto-enrollment%20option%20for%20retirement%20savings%20options%20provided%20by%20small%20employers.md) | Auto-enrollment option for retirement savings options provided by small employers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(7), (d)(2)(A), Mar. 23, 2018, 132 Stat. 1184, 1208, struck out item 41 "Employee stock ownership credit" and item45M "Energy efficient appliance credit" and transferred item 45K to appear after item 45J.
+<b>2019</b>—Pub. L. 116–94, div. O, title I, §105(c), Dec. 20, 2019, 133 Stat. 3148, added item 45T.
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(7), (d)(2)(A), Mar. 23, 2018, 132 Stat. 1184, 1208, struck out item 41 "Employee stock ownership credit" and item 45M "Energy efficient appliance credit" and transferred item 45K to appear after item 45J.
 
 <b>2017</b>—Pub. L. 115–97, title I, §13403(d)(3), Dec. 22, 2017, 131 Stat. 2138, added item 45S.
 
@@ -115,3 +118,4 @@ Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 
 - [&sect; 00045Q - Credit for carbon oxide sequestration](%C2%A7%2000045Q%20-%20Credit%20for%20carbon%20oxide%20sequestration.md)
 - [&sect; 00045R - Employee health insurance expenses of small employers](%C2%A7%2000045R%20-%20Employee%20health%20insurance%20expenses%20of%20small%20employers.md)
 - [&sect; 00045S - Employer credit for paid family and medical leave](%C2%A7%2000045S%20-%20Employer%20credit%20for%20paid%20family%20and%20medical%20leave.md)
+- [&sect; 00045T - Auto-enrollment option for retirement savings options provided by small employers](%C2%A7%2000045T%20-%20Auto-enrollment%20option%20for%20retirement%20savings%20options%20provided%20by%20small%20employers.md)

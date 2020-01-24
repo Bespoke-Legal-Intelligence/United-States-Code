@@ -6,7 +6,7 @@ Every importer of record making an entry under the provisions of section 1484 of
 
 &emsp;(1) Whether the merchandise is imported in pursuance of a purchase or an agreement to purchase, or whether it is imported otherwise than in pursuance of a purchase or agreement to purchase;
 
-&emsp;(2) That the prices set forth in the invoice are true, in the case of merchandise purchased or agreed to be purchased; or in the case of merchandise secured otherwise than by purchase or agreement to purchase, that the statements in such invoice as to value or priceare true to the best of his knowledge and belief;
+&emsp;(2) That the prices set forth in the invoice are true, in the case of merchandise purchased or agreed to be purchased; or in the case of merchandise secured otherwise than by purchase or agreement to purchase, that the statements in such invoice as to value or price are true to the best of his knowledge and belief;
 
 &emsp;(3) That all other statements in the invoice or other documents filed with the entry, or in the entry itself, are true and correct; and
 

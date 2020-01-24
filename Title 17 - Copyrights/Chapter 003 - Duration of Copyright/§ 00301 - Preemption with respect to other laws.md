@@ -10,7 +10,7 @@
 
 &emsp;(3) activities violating legal or equitable rights that are not equivalent to any of the exclusive rights within the general scope of copyright as specified by section 106; or
 
-&emsp;(4) State and local landmarks, historic preservation, zoning, or building codes, relating toarchitectural works protected under section 102(a)(8).
+&emsp;(4) State and local landmarks, historic preservation, zoning, or building codes, relating to architectural works protected under section 102(a)(8).
 
 (c) Notwithstanding the provisions of section 303, and in accordance with chapter 14, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title. With respect to sound recordings fixed before February 15, 1972, the preemptive provisions of subsection (a) shall apply to activities that are commenced on and after the date of enactment of the Classics Protection and Access Act. Nothing in this subsection may be construed to affirm or negate the preemption of rights and remedies pertaining to any cause of action arising from the nonsubscription broadcast transmission of sound recordings under the common law or statutes of any State for activities that do not qualify as covered activities under chapter 14 undertaken during the period between the date of enactment of the Classics Protection and Access Act and the date on which the term of prohibition on unauthorized acts under section 1401(a)(2) expires for such sound recordings. Any potential preemption of rights and remedies related to such activities undertaken during that period shall apply in all respects as it did the day before the date of enactment of the Classics Protection and Access Act.
 

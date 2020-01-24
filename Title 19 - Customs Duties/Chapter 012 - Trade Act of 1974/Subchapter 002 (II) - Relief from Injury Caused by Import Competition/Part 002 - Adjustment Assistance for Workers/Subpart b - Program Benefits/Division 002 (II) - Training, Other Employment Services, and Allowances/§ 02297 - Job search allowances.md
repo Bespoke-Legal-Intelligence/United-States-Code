@@ -16,7 +16,7 @@
 
 #### (B) Local employment not available
 
-&emsp;&emsp;The Secretary determines that the worker cannot reasonably be expected to secure suitable employment in the commuting area in which the worker resides.
+&emsp;&emsp;The Secretary determines that the worker cannot reasonably be expected to securesuitable employment in the commuting area in which the worker resides.
 
 #### (C) Application
 
@@ -66,7 +66,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-Subsec. (a)(1). Pub. L. 112–40, §§214(d)(1), 233, temporarily substituted "Each State may use funds made available to the State to carry out sections 2295 through 2298 of this title to allow an adversely affectedworker" for "An adversely affected worker" and "to file" for "may file". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+Subsec. (a)(1). Pub. L. 112–40, §§214(d)(1), 233, temporarily substituted "Each State may use funds made available to the State to carry out sections 2295 through 2298 of this title to allow an adversely affected worker" for "An adversely affected worker" and "to file" for "may file". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
 Subsec. (b)(1). Pub. L. 112–40, §§214(d)(2)(A), 233, temporarily substituted "Any" for "An" and "not more than 90 percent of the necessary job search expenses of the worker" for "all necessary job search expenses". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
@@ -94,7 +94,7 @@ Subsec. (b)(3). Pub. L. 97–35, §2507(2)(B), amended par. (3) generally, subst
 
 #### Effective and Termination Dates of 2015 Revival
 
-For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect onDec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 
 For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 

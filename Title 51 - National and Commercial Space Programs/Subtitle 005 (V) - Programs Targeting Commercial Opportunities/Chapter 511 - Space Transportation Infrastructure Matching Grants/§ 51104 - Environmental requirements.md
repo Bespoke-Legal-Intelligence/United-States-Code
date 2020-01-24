@@ -58,7 +58,7 @@ In subsection (d), before clause (1), the words "in connection with any project"
 
 The Civil Rights Act of 1964, referred to in subsec. (d)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-Title VIII of the Act of April 11, 1968, referred to in subsec. (d)(3), is title VIII of Pub. L. 90–284, Apr. 11,1968, 82 Stat. 81, known as the Fair Housing Act, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+Title VIII of the Act of April 11, 1968, referred to in subsec. (d)(3), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, known as the Fair Housing Act, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (d)(4), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

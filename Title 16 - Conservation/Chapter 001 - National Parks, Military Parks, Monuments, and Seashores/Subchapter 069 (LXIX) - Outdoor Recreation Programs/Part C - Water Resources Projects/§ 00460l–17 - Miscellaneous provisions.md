@@ -8,7 +8,7 @@ The views of the Secretary of the Interior developed in accordance with section 
 
 #### (c) Migratory waterfowl refuges at Federal projects; expenditure limitation for acquisition of lands
 
-Expenditures for lands or interests in lands hereafter acquired by project construction agencies for the establishment of migratory waterfowl refuges recommended by the Secretary of the Interior at Federal water resource projects, when such lands or interests in lands would not have been acquired but for the establishment of a migratory waterfowl refuge at the project, shall not exceed $28,000,000: <i>Provided</i>, That the aforementioned expenditure limitation in this subsection shall not apply to the costs of mitigating damages to migratory waterfowl caused by such water resource project.
+Expenditures for lands or interests in lands hereafter acquired by project construction agencies for the establishment of migratory waterfowl refuges recommended by the Secretary of the Interior at Federal water resource projects, when such lands or interests in lands would not have been acquired but for the establishment ofa migratory waterfowl refuge at the project, shall not exceed $28,000,000: <i>Provided</i>, That the aforementioned expenditure limitation in this subsection shall not apply to the costs of mitigating damages to migratory waterfowl caused by such water resource project.
 
 #### (d) Nonapplication to certain projects
 

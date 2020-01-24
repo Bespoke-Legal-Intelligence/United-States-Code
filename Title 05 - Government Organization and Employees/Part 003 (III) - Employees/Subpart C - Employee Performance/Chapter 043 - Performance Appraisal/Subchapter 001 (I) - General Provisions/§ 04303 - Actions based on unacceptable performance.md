@@ -28,7 +28,7 @@
 
 &emsp;(2) in the case of a reduction in grade or removal, may be based only on those instances of unacceptable performance by the employee—
 
-&emsp;&emsp;(A) which occurred during the 1-year period ending on the date of the notice undersubsection (b)(1)(A) of this section in connection with the decision; and
+&emsp;&emsp;(A) which occurred during the 1-year period ending on the date of the notice under subsection (b)(1)(A) of this section in connection with the decision; and
 
 &emsp;&emsp;(B) for which the notice and other requirements of this section are complied with.
 

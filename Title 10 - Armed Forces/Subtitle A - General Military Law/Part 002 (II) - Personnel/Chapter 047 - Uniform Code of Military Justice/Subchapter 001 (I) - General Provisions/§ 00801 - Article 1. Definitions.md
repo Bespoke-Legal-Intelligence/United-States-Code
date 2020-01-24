@@ -14,7 +14,7 @@ In this chapter (the Uniform Code of Military Justice):
 
 &emsp;(6) The term "cadet" means a cadet of the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy.
 
-&emsp;(7) The term "midshipman" means a midshipman of the United States Naval Academyand any other midshipman on active duty in the naval service.
+&emsp;(7) The term "midshipman" means a midshipman of the United States Naval Academy and any other midshipman on active duty in the naval service.
 
 &emsp;(8) The term "military" refers to any or all of the armed forces.
 
@@ -44,7 +44,7 @@ In this chapter (the Uniform Code of Military Justice):
 
 &emsp;(16) The term "national security" means the national defense and foreign relations of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, §5101, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 115–91, div. A, title X, §1081(a)(21), (c)(1)(A), Dec. 12, 2017, 131 Stat. 1595, 1597.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L.98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, §5101, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 115–91, div. A, title X, §1081(a)(21), (c)(1)(A), Dec. 12, 2017, 131 Stat. 1595, 1597.)
 
 Historical and Revision Notes
 
@@ -100,7 +100,7 @@ Cl. (13)(C). Pub. L. 109–241, §218(a)(2), added subpar. (C) and struck out fo
 
 <b>1988</b>—Cl. (1). Pub. L. 100–456 substituted "term 'Judge" for "term 'judge".
 
-<b>1987</b>—Cls. (1), (3) to (14). Pub. L. 100–180 inserted "The term" after each clause designation and revised firstword in quotes in each clause to make initial letter of such word lowercase.
+<b>1987</b>—Cls. (1), (3) to (14). Pub. L. 100–180 inserted "The term" after each clause designation and revised first word in quotes in each clause to make initial letter of such word lowercase.
 
 <b>1983</b>—Cl. (13). Pub. L. 98–209, §2(a), added officers of the Coast Guard who are designated as law specialists to definition of "Judge Advocate".
 
@@ -232,6 +232,226 @@ Act Aug. 10, 1956, ch. 1041, §49(e), 70A Stat. 640, provided that: "In chapter 
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Assessment of Racial, Ethnic, and Gender Disparities in the Military Justice System
+
+Pub. L. 116–92, div. A, title V, §540I, Dec. 20, 2019, 133 Stat. 1369, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall provide for the carrying out of the activities described in subsections (b) and (c) in order to improve the ability of the Department of Defense to detect and address racial, ethnic, and gender disparities in the military justice system.
+
+"(b)
+
+Secretary of Defense and Related Activities.—The activities described in this subsection are the following, to be commenced or carried out (as applicable) by not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\]:
+
+&emsp;"(1) For each court-martial conducted by an Armed Force after the date of the enactment of this Act, the Secretary of Defense shall require the head of the Armed Force concerned—
+
+&emsp;&emsp;"(A) to record the race, ethnicity, and gender of the victim and the accused, and such other demographic information about the victim and the accused as the Secretary considers appropriate;
+
+&emsp;&emsp;"(B) to include data based on the information described in subparagraph (A) in the annual military justice reports of the Armed Force.
+
+&emsp;"(2) The Secretary of Defense, in consultation with the Secretaries of the military departments and the Secretary of Homeland Security, shall issue guidance that—
+
+&emsp;&emsp;"(A) establishes criteria to determine when data indicating possible racial, ethnic, or gender disparities in the military justice process should be further reviewed; and
+
+&emsp;&emsp;"(B) describes how such a review should be conducted.
+
+&emsp;"(3) The Secretary of Defense, in consultation with the Secretaries of the military departments and the Secretary of Homeland Security, shall—
+
+&emsp;&emsp;"(A) conduct an evaluation to identify the causes of any racial, ethnic, or gender disparities identified in the military justice system;
+
+&emsp;&emsp;"(B) take steps to address the causes of any such disparities, as appropriate.
+
+"(c)
+
+DAC–IPAD Activities.—
+
+&emsp;"(1)
+
+In general.—The activities described in this subsection are the following, to be conducted by the independent committee DAC–IPAD:
+
+&emsp;&emsp;"(A) A review and assessment, by fiscal year, of the race and ethnicity of members of the Armed Forces accused of a penetrative sexual assault offense or contact sexual assault offense in an unrestricted report made pursuant to Department of Defense Instruction 6495.02, including an unrestricted report involving a spouse or intimate partner, in all cases completed in each fiscal year assessed.
+
+&emsp;&emsp;"(B) A review and assessment, by fiscal year, of the race and ethnicity of members of the Armed Forces against whom charges were preferred pursuant to Rule for Courts-Martial 307 for a penetrative sexual assault offense or contact sexual assault offense in all cases completed in each fiscal year assessed.
+
+&emsp;&emsp;"(C) A review and assessment, by fiscal year, of the race and ethnicity of members of the Armed Forces who were convicted of a penetrative sexual assault offense or contact sexual assault offense in all cases completed in each fiscal year assessed.
+
+&emsp;"(2)
+
+Information from federal agencies.—
+
+&emsp;&emsp;"(A)
+
+In general.—Upon request by the chair of the committee, a department or agency of the Federal Government shall provide information that the committee considers necessary to conduct reviews and assessments required by paragraph (1), including military criminal investigation files, charge sheets, records of trial, and personnel records.
+
+&emsp;&emsp;"(B)
+
+Handling, storage, and return.—The committee shall handle and store all records received and reviewed under this subsection in accordance with applicable privacy laws and Department of Defense policy, and shall return all records so received in a timely manner.
+
+&emsp;"(3)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Dec. 20, 2019\], the committee shall submit to the Secretary of Defense, and to the Committees on Armed Services of the Senate and the House of Representatives, a report setting forth the results of the reviews and assessments required by paragraph (1). The report shall include such recommendations for legislative or administrative action as the committee considers appropriate in light of such results.
+
+&emsp;"(4)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;"(A) The term 'independent committee DAC–IPAD' means the independent committee established by the Secretary of Defense under section 546 of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3374) \[10 U.S.C. 1561 note\], commonly known as the 'DAC-IPAD'.
+
+&emsp;&emsp;"(B) The term 'case' means an unrestricted report of any penetrative sexual assault offense or contact sexual assault offense made against a member of the Armed Forces pursuant to Department of Defense Instruction 6495.02, including any unrestricted report involving a spouses or intimate partner for which an investigation has been opened by a criminal investigative organization.
+
+&emsp;&emsp;"(C) The term 'completed', with respect to a case, means that the case was tried to verdict, dismissed without further action, or dismissed and then resolved by non-judicial or administrative proceedings.
+
+&emsp;&emsp;"(D) The term 'contact sexual assault offense' means aggravated sexual contact, abusive sexual contact, wrongful sexual contact, and attempts to commit such offenses under the Uniform Code of Military Justice.
+
+&emsp;&emsp;"(E) The term 'penetrative sexual assault offense' means rape, aggravated sexual assault, sexual assault, forcible sodomy, and attempts to commit such offenses under the Uniform Code of Military Justice."
+
+#### Pilot Programs on Defense Investigators in the Military Justice System
+
+Pub. L. 116–92, div. A, title V, §540J, Dec. 20, 2019, 133 Stat. 1371, provided that:
+
+"(a)
+
+In General.—Each Secretary of a military department shall carry out a pilot program on defense investigators within the military justice system under the jurisdiction of such Secretary in order to do the following:
+
+&emsp;"(1) Determine whether the presence of defense investigators within such military justice system will—
+
+&emsp;&emsp;"(A) make such military justice system more effective in providing an effective defense for the accused; and
+
+&emsp;&emsp;"(B) make such military justice system more fair and efficient.
+
+&emsp;"(2) Otherwise assess the feasibility and advisability of defense investigators as an element of such military justice system.
+
+"(b)
+
+Elements.—
+
+&emsp;"(1)
+
+Interview of victim.—A defense investigator may question a victim under a pilot program only upon a request made through the Special Victims' Counsel or other counsel if the victim does not have such counsel.
+
+&emsp;"(2)
+
+Uniformity across military justice systems.—The Secretary of Defense shall ensure that the personnel and activities of defense investigators under the pilot programs are, to the extent practicable, uniform across the military justice systems of the military departments.
+
+"(c)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than three years after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall, in consultation with the Secretaries of the military departments, submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot programs under subsection (a).
+
+&emsp;"(2)
+
+Elements.—The report required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A description of each pilot program, including the personnel and activities of defense investigators under such pilot program.
+
+&emsp;&emsp;"(B) An assessment of the feasibility and advisability of establishing and maintaining defense investigators as an element of the military justice systems of the military departments.
+
+&emsp;&emsp;"(C) If the assessment under subparagraph (B) is that the establishment and maintenance of defense investigators as an element of the military justice systems of the military departments is feasible and advisable, such recommendations for legislative and administrative action as the Secretary of Defense considers appropriate to establish and maintain defense investigators as an element of the military justice systems.
+
+&emsp;&emsp;"(D) Any other matters the Secretary of Defense considers appropriate."
+
+#### Chief Medical Officer at United States Naval Station, Guantanamo Bay, Cuba
+
+Pub. L. 116–92, div. A, title X, §1046, Dec. 20, 2019, 133 Stat. 1586, provided that:
+
+"(a)
+
+Chief Medical Officer.—
+
+&emsp;"(1)
+
+In general.—There shall be at United States Naval Station, Guantanamo Bay, Cuba, a Chief Medical Officer of United States Naval Station, Guantanamo Bay (in this section referred to as the 'Chief Medical Officer').
+
+&emsp;"(2)
+
+Grade.—The individual serving as Chief Medical Officer shall be an officer of the Armed Forces who holds a grade not below the grade of colonel, or captain in the Navy.
+
+&emsp;"(3)
+
+Chain of command.—Notwithstanding sections 162 and 164 of title 10, United States Code, the Chief Medical Officer shall be assigned and report to the Assistant Secretary of Defense for Health Affairs, with duty at United States Naval Station, Guantanamo Bay, Cuba, in the performance of duties and the exercise of powers of the Chief Medical Officer under this section.
+
+"(b)
+
+Duties.—
+
+&emsp;"(1)
+
+In general.—The Chief Medical Officer shall oversee the provision of medical care to individuals detained at Guantanamo.
+
+&emsp;"(2)
+
+Quality of care.—The Chief Medical Officer shall ensure that medical care provided as described in paragraph (1) meets applicable standards of care.
+
+"(c)
+
+Powers.—
+
+&emsp;"(1)
+
+In general.—The Chief Medical Officer shall make medical determinations relating to medical care for individuals detained at Guantanamo, including—
+
+&emsp;&emsp;"(A) decisions regarding assessment, diagnosis, and treatment; and
+
+&emsp;&emsp;"(B) determinations concerning medical accommodations to living conditions and operating procedures for detention facilities.
+
+&emsp;"(2)
+
+Resolution of declination to follow determinations.—If the commander of Joint Task Force Guantanamo or the Commander of United States Southern Command declines to follow a determination of the Chief Medical Officer under paragraph (1), the matter covered by such determination shall be resolved by the Assistant Secretary of Defense for Health Affairs, in consultation with the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, not later than seven days after receipt by both Assistant Secretaries of written notification of the matter from the Chief Medical Officer.
+
+&emsp;"(3)
+
+Security clearances.—The appropriate departments or agencies of the Federal Government shall, to the extent practicable in accordance with existing procedures and requirements, process expeditiously any application and adjudication for a security clearance required by the Chief Medical Officer to carry out the Chief Medical Officer's duties and powers under this section.
+
+"(d)
+
+Access to Individuals, Information, and Assistance.—
+
+&emsp;"(1)
+
+In general.—The Chief Medical Officer may secure directly from the Department of Defense access to any individual, information, or assistance that the Chief Medical Officer considers necessary to enable the Chief Medical Officer to carry out this section, including full access to the following:
+
+&emsp;&emsp;"(A) Any individual detained at Guantanamo.
+
+&emsp;&emsp;"(B) Any medical records of any individual detained at Guantanamo.
+
+&emsp;&emsp;"(C) Medical professionals of the Department who are working, or have worked, at United States Naval Station, Guantanamo Bay.
+
+&emsp;"(2)
+
+Access upon request.—Upon request of the Chief Medical Officer, the Department shall make available to the Chief Medical Officer on an expeditious basis access to individuals, information, and assistance as described in paragraph (1).
+
+&emsp;"(3)
+
+Lack of expeditious availability.—If access to individuals, information, or assistance is not made available to the Chief Medical Officer upon request on an expeditious basis as required by paragraph (2), the Chief Medical Officer shall notify the Assistant Secretary of Defense for Health Affairs and the AssistantSecretary of Defense for Special Operations and Low Intensity Conflict, who shall take actions to resolve the matter expeditiously.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Individual detained at guantanamo defined.—The term 'individual detained at Guantanamo' means an individual located at United States Naval Station, Guantanamo Bay, Cuba, as of October 1, 2009, who—
+
+&emsp;&emsp;"(A) is not a national of the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)) or a member of the Armed Forces of the United States; and
+
+&emsp;&emsp;"(B) is—
+
+&emsp;&emsp;&emsp;"(i) in the custody or under the control of the Department of Defense; or
+
+&emsp;&emsp;&emsp;"(ii) otherwise detained at United States Naval Station, Guantanamo Bay.
+
+&emsp;"(2)
+
+Medical care.—The term 'medical care' means physical and mental health care.
+
+&emsp;"(3)
+
+Standard of care.—The term 'standard of care' means evaluation and treatment that is accepted by medical experts and reflected in peer-reviewed medical literature as the appropriate medical approach for a condition, symptoms, illness, or disease and that is widely used by healthcare professionals."
+
 #### Sentencing in Certain Transitional Cases
 
 Pub. L. 115–91, div. A, title V, §531(o), Dec. 12, 2017, 131 Stat. 1387, provided that:
@@ -358,7 +578,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;"(ii) otherwise under detention at United States Naval Station, Guantanamo Bay, Cuba.
 
-&emsp;"(3) The term 'foreign terrorist organization' means any organization so designated by the Secretary ofState under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
+&emsp;"(3) The term 'foreign terrorist organization' means any organization so designated by the Secretary of State under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
 
 &emsp;"(4) The term 'state sponsor of terrorism' has the meaning given that term in section 301(13) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8541(13))."
 
@@ -392,7 +612,7 @@ Assessments Required.—Prior to any transfer referred to under subsection (a), 
 
 "(c)
 
-Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives and the Committee on Armed Services and the Committee on Foreign Relations of the Senate."
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means the Committee on Armed Services and the Committee on Foreign Affairs of theHouse of Representatives and the Committee on Armed Services and the Committee on Foreign Relations of the Senate."
 
 #### Requirements for Certifications Relating to the Transfer of Detainees at United States Naval Station, Guantanamo Bay, Cuba, to Foreign Countries and Other Foreign Entities
 
@@ -430,7 +650,7 @@ Construction With Other Requirements.—Nothing in this section shall be constru
 
 &emsp;"(2) Section 8120 of the Department of Defense Appropriations Act, 2012 \[div. A of Pub. L. 112–74, 125 Stat. 833\]."
 
-\[Memorandum of President of the United States, Jan. 27, 2012, 77 F.R. 11371, delegated to the Secretary of State, in consultation with the Secretary of Defense, the function to provide to Congress the informationspecified in section 308(a) of Pub. L. 112–87, set out above.\]
+\[Memorandum of President of the United States, Jan. 27, 2012, 77 F.R. 11371, delegated to the Secretary of State, in consultation with the Secretary of Defense, the function to provide to Congress the information specified in section 308(a) of Pub. L. 112–87, set out above.\]
 
 #### Detention Authority and Procedures, Transfer Certifications and Prosecution Consultation Requirement
 
@@ -494,7 +714,7 @@ Covered persons.—The requirement in paragraph (1) shall apply to any person wh
 
 &emsp;"(3)
 
-Disposition under law of war.—For purposes of this subsection, the disposition of a person under the law of war has the meaning given in section 1021(c), except that no transfer otherwise described in paragraph (4) of that section shall be made unless consistent with the requirements of section 1028.
+Disposition under law of war.—For purposes of this subsection, the disposition of a person underthe law of war has the meaning given in section 1021(c), except that no transfer otherwise described in paragraph (4) of that section shall be made unless consistent with the requirements of section 1028.
 
 &emsp;"(4)
 
@@ -598,7 +818,7 @@ Applicability.—The Secretary of Defense is not required to apply the procedure
 
 "(d)
 
-Report on Modification of Procedures.—The Secretary of Defense shall submit to the appropriate committees of Congress a report on any modification of the procedures submitted under this section. The report on any such modification shall be so submitted not later than 60 days before the date on which such modification goes into effect.
+Report on Modification of Procedures.—The Secretary of Defense shall submit to the appropriatecommittees of Congress a report on any modification of the procedures submitted under this section. The report on any such modification shall be so submitted not later than 60 days before the date on which such modification goes into effect.
 
 "(e)
 
@@ -702,7 +922,7 @@ Deadline for regulations.—The Secretary of Defense shall prescribe the regulat
 
 &emsp;"(3)
 
-Congressional notification.—Not later than five days after the Secretary issues a waiver pursuant to paragraph (1), the Secretary shall submit to Congress written notification of the waiver."
+Congressional notification.—Not later than five days after the Secretary issues a waiver pursuantto paragraph (1), the Secretary shall submit to Congress written notification of the waiver."
 
 #### No Miranda Warnings for Al Qaeda Terrorists
 
@@ -748,7 +968,7 @@ Pub. L. 111–84, div. A, title X, §1080, Oct. 28, 2009, 123 Stat. 2479, as ame
 
 "(a)
 
-Videotaping or Other Electronic Recording Required.—In accordance with the Army Field Manualon Human Intelligence Collector Operations (FM 2–22.3, September 2006), or any successor thereto, and the guidelines developed pursuant to subsection (f), the Secretary of Defense shall ensure that each strategic intelligence interrogation of any person who is in the custody or under the effective control of the Department of Defense or under detention in a Department of Defense facility is videotaped or otherwise electronically recorded.
+Videotaping or Other Electronic Recording Required.—In accordance with the Army Field Manual on Human Intelligence Collector Operations (FM 2–22.3, September 2006), or any successor thereto, and the guidelines developed pursuant to subsection (f), the Secretary of Defense shall ensure that each strategic intelligence interrogation of any person who is in the custody or under the effective control of the Department of Defense or under detention in a Department of Defense facility is videotaped or otherwise electronically recorded.
 
 "(b)
 
@@ -828,11 +1048,11 @@ Submittal to congress.—Not later than 30 days after the date of the enactment 
 
 #### Reports on Guantanamo Bay Prisoner Population
 
-Pub. L. 111–32, title III, §319, June 24, 2009, 123 Stat. 1874, as amended by Pub. L. 114–92, div. A, title X, §§1038(a), 1039, Nov. 25, 2015, 129 Stat. 974, provided that:
+Pub. L. 111–32, title III, §319, June 24, 2009, 123 Stat. 1874, as amended by Pub. L. 114–92, div. A, title X, §§1038(a), 1039, Nov. 25, 2015, 129 Stat. 974; Pub. L. 116–92, div. E, title LVII, §5701(a)(2), Dec. 20, 2019, 133 Stat. 2159, provided that:
 
 "(a)
 
-Reports Required.—Not later than 60 days after the date of the enactment of this Act \[June 24, 2009\] and every 90 days thereafter, the President shall submit to the members and committees of Congress specified in subsection (b) a report on the prisoner population at the detention facility at Naval Station Guantanamo Bay, Cuba.
+Reports Required.—Not later than 60 days after the date of the enactment of this Act \[June 24, 2009\] and annually thereafter, the President shall submit to the members and committees of Congress specified in subsection (b) a report on the prisoner population at the detention facility at Naval Station Guantanamo Bay, Cuba.
 
 "(b)
 
@@ -888,7 +1108,7 @@ Additional Matters To Be Included in Initial Report.—The first report submitte
 
 \[Pub. L. 114–92, div. A, title X, §1038(b), Nov. 25, 2015, 129 Stat. 974, provided that: "Nothing in the amendment made by subsection (a) \[amending section 319(c) of Pub. L. 111–32, set out above, by adding par. (6)\] shall be construed to terminate, alter, modify, override, or otherwise affect any reporting of information required under section 319(c) of the Supplemental Appropriations Act, 2009 \[Pub. L. 111–32, set out above\] before the date of the enactment of this section \[Nov. 25, 2015\]."\]
 
-\[Memorandum of President of the United States, July 17, 2009, 74 F.R. 35765, provided that the reporting function conferred upon the President by section 319(a), (c)(1) to (3) of Pub. L. 111–32, set out above, is assigned to the Attorney General, and the reporting function specified in section 319(a), (c)(4), (5), (d) of Pub. L. 111–32 is assigned to the Director of National Intelligence, in consultation with the Secretary of Defense.\]
+\[Memorandum of President of the United States, July 17, 2009, 74 F.R. 35765, provided that the reporting function conferred upon the President by section 319(a), (c)(1) to (3) of Pub. L. 111–32, set out above, is assigned to the Attorney General, and the reporting function specified in section 319(a), (c)(4), (5), (d) of Pub. L. 111–32is assigned to the Director of National Intelligence, in consultation with the Secretary of Defense.\]
 
 #### Policy on Role of Military Medical and Behavioral Science Personnel in Interrogation of Detainees
 
@@ -1004,7 +1224,7 @@ Limitation on claims.—The jurisdiction of the United States Court of Appeals f
 
 &emsp;&emsp;"(C)
 
-Scope of review.—The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit on any claims with respect to an alien under this paragraph shall be limited to the consideration of—
+Scope of review.—The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit on any claims with respect to analien under this paragraph shall be limited to the consideration of—
 
 &emsp;&emsp;&emsp;"(i) whether the status determination of the Combatant Status Review Tribunal with regard to such alien was consistent with the standards and procedures specified by the Secretary of Defense for Combatant Status Review Tribunals (including the requirement that the conclusion of the Tribunal be supported by a preponderance of the evidence and allowing a rebuttable presumption in favor the Government's evidence); and
 
@@ -1284,7 +1504,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 Policy.—It is the policy of the United States to—
 
-&emsp;"(1) ensure that no detainee shall be subject to torture or cruel, inhuman, or degrading treatment orpunishment that is prohibited by the Constitution, laws, or treaties of the United States;
+&emsp;"(1) ensure that no detainee shall be subject to torture or cruel, inhuman, or degrading treatment or punishment that is prohibited by the Constitution, laws, or treaties of the United States;
 
 &emsp;"(2) investigate and prosecute, as appropriate, all alleged instances of unlawful treatment of detainees in a manner consistent with the international obligations, laws, or policies of the United States;
 
@@ -1404,7 +1624,7 @@ Sec. 7. <i>Relationship to Other Law and Forums.</i>
 
 &emsp;(1) military tribunals shall have exclusive jurisdiction with respect to offenses by the individual; and
 
-&emsp;(2) the individual shall not be privileged to seek any remedy or maintain any proceeding, directly or indirectly, or to have any such remedy or proceeding sought on the individual's behalf, in (i) any court of the United States, or any State thereof, (ii) any court of any foreign nation, or (iii) any international tribunal.
+&emsp;(2) the individual shall not be privileged to seek any remedy or maintain any proceeding, directly or indirectly, or to have any such remedy or proceeding sought on the individual's behalf, in (i) any court of the United States, or any State thereof, (ii) any courtof any foreign nation, or (iii) any international tribunal.
 
 (c) This order is not intended to and does not create any right, benefit, or privilege, substantive or procedural, enforceable at law or equity by any party, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 
@@ -1446,7 +1666,7 @@ Sec. 2. <i>Findings</i>.
 
 (a) Over the past 7 years, approximately 800 individuals whom the Department of Defense has ever determined to be, or treated as, enemy combatants have been detained at Guantanamo. The Federal Government has moved more than 500 such detainees from Guantanamo, either by returning them to their home country or by releasing or transferring them to a third country. The Department of Defense has determined that a number of the individuals currently detained at Guantanamo are eligible for such transfer or release.
 
-(b) Some individuals currently detained at Guantanamo have been there for more than 6 years, and most have been detained for at least 4 years. In view of thesignificant concerns raised by these detentions, both within the United States and internationally, prompt and appropriate disposition of the individuals currently detained at Guantanamo and closure of the facilities in which they are detained would further the national security and foreign policy interests of the United States and the interests of justice. Merely closing the facilities without promptly determining the appropriate disposition of the individuals detained would not adequately serve those interests. To the extent practicable, the prompt and appropriate disposition of the individuals detained at Guantanamo should precede the closure of the detention facilities at Guantanamo.
+(b) Some individuals currently detained at Guantanamo have been there for more than 6 years, and most have been detained for at least 4 years. In view of the significant concerns raised by these detentions, both within the United States and internationally, prompt and appropriate disposition of the individuals currently detained at Guantanamo and closure of the facilities in which they are detained would further the national security and foreign policy interests of the United States and the interests of justice. Merely closing the facilities without promptly determining the appropriate disposition of the individuals detained would not adequately serve those interests. To the extent practicable, the prompt and appropriate disposition of the individuals detained at Guantanamo should precede the closure of the detention facilities at Guantanamo.
 
 (c) The individuals currently detained at Guantanamo have the constitutional privilege of the writ of habeas corpus. Most of those individuals have filed petitions for a writ of habeas corpus in Federal court challenging the lawfulness of their detention.
 
@@ -1504,7 +1724,7 @@ Sec. 8. <i>General Provisions</i>.
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 #### Ex. Ord. No. 13567. Periodic Review of Individuals Detained at Guantánamo Bay Naval Station Pursuant to the Authorization for Use of Military Force
 
@@ -1566,7 +1786,7 @@ Sec. 5. <i>Annual Committee Review</i>. (a) The Committee shall conduct an annua
 
 Sec. 6. <i>Continuing Obligation of the Departments of Justice and Defense to Assess Feasibility of Prosecution</i>. As to each detainee whom the interagency review established by Executive Order 13492 has designated for continued law of war detention, the Attorney General and the Secretary of Defense shall continue to assess whether prosecution of the detainee is feasible and in the national security interests of the United States, and shall refer detainees for prosecution, as appropriate.
 
-Sec. 7. <i>Obligation of Other Departments and Agencies to Assist the Secretary of Defense</i>. All departments, agencies, entities, and officers of the United States, to the maximum extent permitted by law, shall provide the Secretary of Defense such assistance as may be requested to implement this order.
+Sec. 7. <i>Obligation of Other Departments and Agencies to Assist the Secretary of Defense</i>. All departments, agencies, entities, and officers of the United States, to the maximum extent permitted by law, shall provide theSecretary of Defense such assistance as may be requested to implement this order.
 
 Sec. 8. <i>Legality of Detention</i>. The process established under this order does not address the legality of any detainee's law of war detention. If, at any time during the periodic review process established in this order, material information calls into question the legality of detention, the matter will be referred immediately to the Secretary of Defense and the Attorney General for appropriate action.
 
@@ -1628,7 +1848,7 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1694,7 +1914,7 @@ Sec. 10. Except as provided by Rule for Courts-Martial 902A, as promulgated by A
 
 Sec. 11. The amendments to Article 146 of the UCMJ \[10 U.S.C. 946\] enacted by section 5521 of the MJA and the new Article 146a \[10 U.S.C. 946a\] enacted by section 5522 of the MJA shall take effect on the day after the report for fiscal year 2017 required by Article 146(c) of the UCMJ (as in effect before the MJA's amendments) is submitted in accordance with Article 146(c)(1), but in no event later than December 1, 2018.
 
-Sec. 12. In accordance with Article 33 of the UCMJ \[10 U.S.C. 833\], as amended by section 5204 of the MJA, the Secretary of Defense, in consultation with the Secretary of Homeland Security, will issue nonbinding guidance regarding factors that commanders, convening authorities, staff judge advocates, and judge advocates should take into account when exercising their duties with respect to the disposition of charges and specifications in the interest of justice and discipline under Articles 30 and 34 of the UCMJ \[10 U.S.C. 830, 834\]. That guidance will take into account, with appropriate consideration of military requirements, the principles contained in official guidance of the Attorney General to attorneys for the Federal Government with respect to the disposition of Federal criminal cases in accordance with the principle of fair and evenhanded administration of Federal criminal law.
+Sec. 12. In accordance with Article 33 of the UCMJ \[10 U.S.C. 833\], as amended by section 5204 of the MJA, theSecretary of Defense, in consultation with the Secretary of Homeland Security, will issue nonbinding guidance regarding factors that commanders, convening authorities, staff judge advocates, and judge advocates should take into account when exercising their duties with respect to the disposition of charges and specifications in the interest of justice and discipline under Articles 30 and 34 of the UCMJ \[10 U.S.C. 830, 834\]. That guidance will take into account, with appropriate consideration of military requirements, the principles contained in official guidance of the Attorney General to attorneys for the Federal Government with respect to the disposition of Federal criminal cases in accordance with the principle of fair and evenhanded administration of Federal criminal law.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

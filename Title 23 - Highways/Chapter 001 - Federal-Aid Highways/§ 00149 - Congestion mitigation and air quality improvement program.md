@@ -24,7 +24,7 @@ Eligible Projects.—Except as provided in subsection (d), a State may obligate 
 
 &emsp;(4) to establish or operate a traffic monitoring, management, and control facility or program, including advanced truck stop electrification systems, if the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that the facility or program is likely to contribute to the attainment or maintenance in the area of a national ambient air quality standard;
 
-&emsp;(5) if the program or project improves traffic flow, including projects to improve signalization, construct high occupancy vehicle lanes, improve intersections, add turning lanes, improve transportation systems management and operations that mitigate congestion and improve air quality, and implement intelligent transportation system strategies and such other projects that are eligible for assistance under this section on the day before the date of enactment of this paragraph, including programs or projects to improve incident and emergency response or improve mobility, such as through real-time traffic, transit, and multimodal traveler information;
+&emsp;(5) if the program or project improves traffic flow, including projects to improve signalization, construct high occupancy vehicle lanes, improve intersections, add turning lanes, improve transportation systems management and operations that mitigate congestion and improve air quality, and implement intelligent transportation system strategies and such other projects that are eligible for assistance under this section on the day before the date of enactment of this paragraph, including programs or projects to improve incident and emergency response or improve mobility, suchas through real-time traffic, transit, and multimodal traveler information;
 
 &emsp;(6) if the project or program involves the purchase of integrated, interoperable emergency communications equipment;
 
@@ -216,7 +216,7 @@ Optional Programmatic Eligibility.—
 
 &emsp;(1)
 
-In general.—At the discretion of a metropolitan planning organization, a technical assessment of a selected program of projects may be conducted through modeling or othermeans to demonstrate the emissions reduction projection required under this section.
+In general.—At the discretion of a metropolitan planning organization, a technical assessment of a selected program of projects may be conducted through modeling or other means to demonstrate the emissions reduction projection required under this section.
 
 &emsp;(2)
 
@@ -280,7 +280,7 @@ Updated plans.—Performance plans shall be updated biennially and include a sep
 
 Operating Assistance.—A State may obligate funds apportioned under section 104(b)(4) in an area of such State that is otherwise eligible for obligations of such funds for operating costs under chapter 53 of title 49 or on a system for which CMAQ funding was made available, obligated or expended in fiscal year 2012, or on a State-Supported <sup>1</sup> Amtrak route with a valid cost-sharing agreement under section 209 of the Passenger Rail Investment and Improvement Act of 2008 and no current nonattainment areas under subsection (d), and shall have no imposed time limitation.
 
-(Added Pub. L. 93–87, title I, §142(a), Aug. 13, 1973, 87 Stat. 272; amended Pub. L. 102–240, title I, §1008(a), Dec. 18, 1991, 105 Stat. 1932; Pub. L. 102–388, title III, §380, Oct. 6, 1992, 106 Stat. 1562; Pub. L. 104–59, title III, §319(a)(1), (b), Nov. 28, 1995, 109 Stat. 588, 589; Pub. L. 104–88, title IV, §405(a)(2), (b), Dec. 29, 1995, 109 Stat. 956, 957; Pub. L. 105–178, title I, §1110(a)–(d)(1), June 9, 1998, 112 Stat. 142, 143; Pub. L. 109–59, title I, §1808(a)–(f), Aug. 10, 2005, 119 Stat. 1461–1463; Pub. L. 112–141, div. A, title I, §1113(a), (b), July 6, 2012, 126 Stat. 460; Pub. L. 113–76, div. L, title I, §125, Jan. 17, 2014, 128 Stat. 587; Pub. L. 114–94, div. A, title I, §§1109(c)(5), 1114, Dec. 4, 2015, 129 Stat. 1343, 1348; Pub. L. 115–141, div. L, title IV, §421, Mar. 23, 2018, 132 Stat. 1045.)
+(Added Pub. L. 93–87, title I, §142(a), Aug. 13, 1973, 87 Stat. 272; amended Pub. L. 102–240, title I, §1008(a), Dec. 18, 1991, 105 Stat. 1932; Pub. L. 102–388, title III, §380, Oct. 6, 1992, 106 Stat. 1562; Pub. L. 104–59, title III, §319(a)(1), (b), Nov. 28, 1995, 109 Stat. 588, 589; Pub. L. 104–88, title IV, §405(a)(2), (b), Dec. 29, 1995, 109 Stat. 956, 957;Pub. L. 105–178, title I, §1110(a)–(d)(1), June 9, 1998, 112 Stat. 142, 143; Pub. L. 109–59, title I, §1808(a)–(f), Aug. 10, 2005, 119 Stat. 1461–1463; Pub. L. 112–141, div. A, title I, §1113(a), (b), July 6, 2012, 126 Stat. 460; Pub. L. 113–76, div. L, title I, §125, Jan. 17, 2014, 128 Stat. 587; Pub. L. 114–94, div. A, title I, §§1109(c)(5), 1114, Dec. 4, 2015, 129 Stat. 1343, 1348; Pub. L. 115–141, div. L, title IV, §421, Mar. 23, 2018, 132 Stat. 1045.)
 
 #### References in Text
 
@@ -288,7 +288,7 @@ The Clean Air Act, referred to in subsecs. (b), (d)(1), (3), (f)(5), and (g)(3),
 
 The date of enactment of this paragraph, referred to in subsec. (b)(5), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
-Sections 104(b)(2), 133, and 149(c)(2), as in effect on the day before the date of enactment of the MAP–21, referred to in subsec. (d)(2), mean section 104(b)(2) of this title, section 133 of this title, and subsec. (c)(2) of thissection, respectively, as in effect on the day before the date of enactment of Pub. L. 112–141, which amended section 104 generally, made numerous amendments to section 133, and redesignated subsec. (c) of this section as (d) and struck it out. The date of enactment of the MAP–21 is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
+Sections 104(b)(2), 133, and 149(c)(2), as in effect on the day before the date of enactment of the MAP–21, referred to in subsec. (d)(2), mean section 104(b)(2) of this title, section 133 of this title, and subsec. (c)(2) of this section, respectively, as in effect on the day before the date of enactment of Pub. L. 112–141, which amended section 104 generally, made numerous amendments to section 133, and redesignated subsec. (c) of this section as (d) and struck it out. The date of enactment of the MAP–21 is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
 
 The day before the date of enactment of MAP–21, referred to in subsec. (d)(3), means the day before the date of enactment of Pub. L. 112–141. See note above.
 
@@ -442,7 +442,7 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Determination by Secretary; Water-Phased Hydrocarbon Fuel Emulsion Technologies
 
-Pub. L. 105–178, title I, §1110(d)(2), June 9, 1998, 112 Stat. 144, as amended by Pub. L. 105–206, title IX, §9002(g), July 22, 1998, 112 Stat. 836, provided that: "For the purposes of section 149(e) \[now 149(f)\] of title 23, United States Code, the Secretary shall determine in accordance with the procedures specified in section 149(b) of such title whether water-phased hydrocarbon fuel emulsion technologies that consist of a hydrocarbon base and water in an amount not less than 20 percent by volume reduce emissions of hydrocarbon, particulate matter, carbon monoxide, or nitrogen oxide from motor vehicles."
+Pub. L. 105–178, title I, §1110(d)(2), June 9, 1998, 112 Stat. 144, as amended by Pub. L. 105–206, title IX, §9002(g), July 22, 1998, 112 Stat. 836, provided that: "For the purposes of section 149(e) \[now 149(f)\] of title 23, United States Code, the Secretary shall determine in accordance with the procedures specified in section 149(b) of such title whether water-phased hydrocarbonfuel emulsion technologies that consist of a hydrocarbon base and water in an amount not less than 20 percent by volume reduce emissions of hydrocarbon, particulate matter, carbon monoxide, or nitrogen oxide from motor vehicles."
 
 #### Study of CMAQ Program
 
@@ -460,7 +460,7 @@ In general.—The Secretary and the Administrator of the Environmental Protectio
 
 &emsp;"(D) evaluate the emissions reductions attributable to projects of various types that have been funded under the program;
 
-&emsp;"(E) assess the effectiveness, including the quantitative and nonquantitative benefits, of projectsfunded under the program and include, in the assessment, an estimate of the cost per ton of pollution reduction;
+&emsp;"(E) assess the effectiveness, including the quantitative and nonquantitative benefits, of projects funded under the program and include, in the assessment, an estimate of the cost per ton of pollution reduction;
 
 &emsp;"(F) assess the cost effectiveness of projects funded under the program with respect to congestion mitigation;
 

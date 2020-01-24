@@ -8,7 +8,7 @@ The boundary of the Petersburg National Battlefield is modified to include the l
 
 #### (1) Authority
 
-&emsp;The Secretary of the Interior (referred to in this section as the "Secretary") is authorized to acquire the land and interests in land described in subsection (a) from willing sellers only, by donation, purchase with donated or appropriated funds, exchange, or transfer.
+&emsp;The Secretary of the Interior (referred to in this section as the "Secretary") is authorized to acquire the land and interests in land described in subsection (a) from willing sellersonly, by donation, purchase with donated or appropriated funds, exchange, or transfer.
 
 #### (2) Omitted
 

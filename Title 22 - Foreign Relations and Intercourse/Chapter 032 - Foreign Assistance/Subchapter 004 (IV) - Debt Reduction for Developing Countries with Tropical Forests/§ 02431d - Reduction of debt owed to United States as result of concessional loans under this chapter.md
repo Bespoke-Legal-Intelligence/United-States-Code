@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;Any debt reduction pursuant to subsection (a) shall be accomplished at the direction ofthe Facility by the exchange of a new obligation for obligations of the type referred to in subsection (a) outstanding as of the date specified in subsection (a)(1).
+&emsp;Any debt reduction pursuant to subsection (a) shall be accomplished at the direction of the Facility by the exchange of a new obligation for obligations of the type referred to in subsection (a) outstanding as of the date specified in subsection (a)(1).
 
 #### (2) Exchange of obligations
 

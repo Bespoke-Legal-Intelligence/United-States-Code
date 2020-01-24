@@ -218,7 +218,7 @@ Other Laws Unaffected.—
 
 &emsp;(1)
 
-Post-conviction relief.—Nothing in this section shall affect the circumstances underwhich a person may obtain DNA testing or post-conviction relief under any other law.
+Post-conviction relief.—Nothing in this section shall affect the circumstances under which a person may obtain DNA testing or post-conviction relief under any other law.
 
 &emsp;(2)
 

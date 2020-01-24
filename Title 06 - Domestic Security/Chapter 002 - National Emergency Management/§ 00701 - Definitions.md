@@ -72,6 +72,10 @@ Exceptions.—The following shall take effect on March 31, 2007:
 
 &emsp;"(5) The amendments made by subsection (b)(1) \[sic\]."
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–64, §1, Oct. 9, 2019, 133 Stat. 1122, provided that: "This Act \[amending section 748 of this title\] may be cited as the 'Terrorist and Foreign Fighter Travel Exercise Act of 2019'."
+
 #### Short Title
 
 Pub. L. 109–295, title VI, §601, Oct. 4, 2006, 120 Stat. 1394, provided that: "This title \[see Tables for classification\] may be cited as the 'Post-Katrina Emergency Management Reform Act of 2006'."

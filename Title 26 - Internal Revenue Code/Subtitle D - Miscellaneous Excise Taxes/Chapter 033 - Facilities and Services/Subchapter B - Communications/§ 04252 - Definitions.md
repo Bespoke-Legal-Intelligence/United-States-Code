@@ -44,7 +44,7 @@ For purposes of this subchapter, the term "private communication service" means�
 
 #### Codification
 
-This subchapter, relating to the tax on communications was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
+This subchapter, relating to the tax on communications was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case ofcommunications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
 
 #### Amendments
 
@@ -64,7 +64,7 @@ Subsecs. (e), (f). Pub. L. 89–44 struck out subsecs. (e) and (f) which defined
 
 Subsec. (b). Pub. L. 85–859 substituted "toll telephone service" for "long distance telephone service" and struck out provisions which defined "long distance telephone service" as a telephone or radio telephone message or conversation for which the toll charge is more than 24 cents.
 
-Subsec. (c). Pub. L. 85–859 substituted "For purposes of this subchapter, the term 'telegraph service' meansa telegram" for "As used in section 4251 the term 'telegraph service' means a telegraph".
+Subsec. (c). Pub. L. 85–859 substituted "For purposes of this subchapter, the term 'telegraph service' means a telegram" for "As used in section 4251 the term 'telegraph service' means a telegraph".
 
 Subsec. (d). Pub. L. 85–859 substituted provisions defining "teletypewriter exchange service" for provisions which defined "leased wire, teletypewriter or talking circuit special service".
 

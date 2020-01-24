@@ -24,7 +24,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(v) an administrative appeals judge paid under section 5372b; and
 
-&emsp;&emsp;(vi) an individual in a position which is excepted from the competitive service becauseof its confidential, policy-determining, policy-making, or policy-advocating character; and
+&emsp;&emsp;(vi) an individual in a position which is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; and
 
 &emsp;(3) "Office" means the Office of Personnel Management.
 

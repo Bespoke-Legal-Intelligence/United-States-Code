@@ -14,7 +14,7 @@
 
 #### (2) Notification
 
-&emsp;Any person intending to bring a civil action pursuant to paragraph (1) shall notify the United States National Authority of that intent at least one year before filing the claim in the United States Court of Federal Claims. Action on any claim filed during that one-yearperiod shall be stayed. The one-year period following the notification shall not be counted for purposes of any law limiting the period within which the civil action may be commenced.
+&emsp;Any person intending to bring a civil action pursuant to paragraph (1) shall notify the United States National Authority of that intent at least one year before filing the claim in the United States Court of Federal Claims. Action on any claim filed during that one-year period shall be stayed. The one-year period following the notification shall not be counted for purposes of any law limiting the period within which the civil action may be commenced.
 
 #### (3) Initial steps by United States Government to seek remedies
 
@@ -46,7 +46,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (1) United States actions in United States district court
 
-&emsp;Notwithstanding any other law, the Attorney General of the United States is authorized to bring an action in the United States District Court for the District of Columbia against any foreign nation for money damages resulting from that nation's refusal to provide indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat who is a national of that foreign nation acting at the direction or the behest of that foreign nation.
+&emsp;Notwithstanding any other law, the Attorney General of the United States is authorized to bring an action in the United States District Court for the District of Columbiaagainst any foreign nation for money damages resulting from that nation's refusal to provide indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat who is a national of that foreign nation acting at the direction or the behest of that foreign nation.
 
 #### (2) United States actions in courts outside the United States
 
@@ -70,7 +70,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 &emsp;&emsp;&emsp;(i) any foreign person, officer, or employee of the Organization, including any member of an inspection team of the Technical Secretariat, for whose actions or omissions the United States has been held liable for a tort or taking pursuant to this chapter; and
 
-&emsp;&emsp;&emsp;(ii) any foreign person or business entity organized and operating under the laws of a foreign nation which knowingly assisted, encouraged or induced, in any way, a foreign person described in clause (i) to publish, divulge, disclose, or make known inany manner or to any extent not authorized by the Convention any United States confidential business information.
+&emsp;&emsp;&emsp;(ii) any foreign person or business entity organized and operating under the laws of a foreign nation which knowingly assisted, encouraged or induced, in any way, a foreign person described in clause (i) to publish, divulge, disclose, or make known in any manner or to any extent not authorized by the Convention any United States confidential business information.
 
 #### (B) Sanctions
 
@@ -106,7 +106,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (A) Imposition of sanctions
 
-&emsp;&emsp;Whenever the President determines that persuasive information is available indicating that a foreign country has knowingly assisted, encouraged or induced, in any way, a person described in paragraph (2)(A) to publish, divulge, disclose, or make known in any manner or to any extent not authorized by the Convention any United States confidential business information, the President shall, within 30 days after the receipt of such information by the executive branch of Government, notify the Congress in writing of such determination and, subject to the requirements of paragraphs (4) and (5), impose the sanctions provided under subparagraph (B) for a period of not less than five years.
+&emsp;&emsp;Whenever the President determines that persuasive information is available indicating that a foreign country has knowingly assisted, encouraged or induced, in any way, aperson described in paragraph (2)(A) to publish, divulge, disclose, or make known in any manner or to any extent not authorized by the Convention any United States confidential business information, the President shall, within 30 days after the receipt of such information by the executive branch of Government, notify the Congress in writing of such determination and, subject to the requirements of paragraphs (4) and (5), impose the sanctions provided under subparagraph (B) for a period of not less than five years.
 
 #### (B) Sanctions
 
@@ -140,7 +140,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (viii) Private bank transactions
 
-&emsp;&emsp;&emsp;Regulations shall be issued to prohibit any United States bank from making anyloan or providing any credit to a country described in subparagraph (A).
+&emsp;&emsp;&emsp;Regulations shall be issued to prohibit any United States bank from making any loan or providing any credit to a country described in subparagraph (A).
 
 #### (ix) Denial of landing rights
 
@@ -162,7 +162,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 The Secretary of State shall deny a visa to, and the Attorney General shall exclude from the United States any alien who, after October 21, 1998—
 
-&emsp;(1) is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any United States confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses <sup>2</sup> or damages to a United States person and for which actions or omissions the United States has been found liable of a tort or taking pursuant to this chapter;
+&emsp;(1) is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any United States confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses <sup>2</sup> or damages to a United States person and for which actions or omissions the UnitedStates has been found liable of a tort or taking pursuant to this chapter;
 
 &emsp;(2) traffics in United States confidential business information, a proven claim to which is owned by a United States national;
 

@@ -50,7 +50,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 (3) An owner, agent, consignee, master, or commanding officer may meet the requirements under this subsection with respect to more than one alien crewman in a single list.
 
-(4)(A) The Secretary of Labor shall compile and make available for public examination in a timely manner in Washington, D.C., a list identifying owners, agents, consignees, masters, or commanding officers which have filed lists for nonimmigrants described in section1101(a)(15)(D)(i) of this title with respect to whom an attestation under paragraph (1) or subsection (d)(1) is made and, for each such entity, a copy of the entity's attestation under paragraph (1) or subsection (d)(1) (and accompanying documentation) and each such list filed by the entity.
+(4)(A) The Secretary of Labor shall compile and make available for public examination in a timely manner in Washington, D.C., a list identifying owners, agents, consignees, masters, or commanding officers which have filed lists for nonimmigrants described in section 1101(a)(15)(D)(i) of this title with respect to whom an attestation under paragraph (1) or subsection (d)(1) is made and, for each such entity, a copy of the entity's attestation under paragraph (1) or subsection (d)(1) (and accompanying documentation) and each such list filed by the entity.
 
 (B)(i) The Secretary of Labor shall establish a process for the receipt, investigation, and disposition of complaints respecting an entity's failure to meet conditions attested to, an entity's misrepresentation of a material fact in an attestation, or, in the case described in the last sentence of paragraph (1), whether the performance of the particular activity is or is not described in paragraph (1)(B)(i).
 
@@ -80,7 +80,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 &emsp;&emsp;(i) wherever two or more contract stevedoring companies have signed a joint collective bargaining agreement with a single labor organization described in subparagraph (D)(i), the employer may request longshore workers from only one of such contract stevedoring companies, and
 
-&emsp;&emsp;(ii) a request for longshore workers to an operator of a private dock may be made onlyfor longshore work to be performed at that dock and only if the operator meets the requirements of section 932 of title 33;
+&emsp;&emsp;(ii) a request for longshore workers to an operator of a private dock may be made only for longshore work to be performed at that dock and only if the operator meets the requirements of section 932 of title 33;
 
 &emsp;(B) the employer will employ all those United States longshore workers made available in response to the request made pursuant to subparagraph (A) who are qualified and available in sufficient numbers and who are needed to perform the longshore activity at the particular time and location;
 
@@ -146,7 +146,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 #### (2) Establishment of list
 
-&emsp;The Secretary of State shall, in accordance with section 553 of title 5, compile and annually maintain a list, of longshore work by particular activity, of countries where performance of such a particular activity by crewmembers aboard United States vessels is prohibited by law, regulation, or in practice in the country. By not later than 90 days after November 29, 1990, the Secretary shall publish a notice of proposed rulemaking to establish such list. The Secretary shall first establish such list by not later than 180 days after November 29, 1990.
+&emsp;The Secretary of State shall, in accordance with section 553 of title 5, compile and annually maintain a list, of longshore work by particular activity, of countries where performance of such a particular activity by crewmembers aboard United States vessels is prohibited by law, regulation, or in practice in the country. By not later than 90 days afterNovember 29, 1990, the Secretary shall publish a notice of proposed rulemaking to establish such list. The Secretary shall first establish such list by not later than 180 days after November 29, 1990.
 
 #### (3) "In practice" defined
 

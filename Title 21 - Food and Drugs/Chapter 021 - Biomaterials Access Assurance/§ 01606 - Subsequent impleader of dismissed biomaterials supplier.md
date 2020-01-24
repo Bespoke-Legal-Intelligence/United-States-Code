@@ -8,7 +8,7 @@ A court, upon motion by a manufacturer or a claimant within 90 days after entry 
 
 &emsp;&emsp;(A) the negligence or intentionally tortious conduct of the dismissed supplier was an actual and proximate cause of the harm to the claimant; and
 
-&emsp;&emsp;(B) the manufacturer's liability for damages should be reduced in whole or in partbecause of such negligence or intentionally tortious conduct; or
+&emsp;&emsp;(B) the manufacturer's liability for damages should be reduced in whole or in part because of such negligence or intentionally tortious conduct; or
 
 &emsp;(2) the claimant has moved to implead the supplier and the court finds, based on the court's independent review of the evidence contained in the record of the action, that under applicable law—
 

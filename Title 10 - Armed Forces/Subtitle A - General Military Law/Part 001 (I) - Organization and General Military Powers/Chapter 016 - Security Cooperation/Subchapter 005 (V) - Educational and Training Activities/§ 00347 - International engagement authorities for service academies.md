@@ -124,7 +124,7 @@ Foreign and Cultural Exchange Activities.—
 
 &emsp;(1)
 
-Attendance authorized.—The Secretary of a military department may authorize theService Academy under the jurisdiction of that Secretary to permit students, officers, and other representatives of a foreign country to attend that Academy for periods of not more than four weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross-cultural interactions and understanding, and cultural immersion of cadets or midshipmen, as the case may be.
+Attendance authorized.—The Secretary of a military department may authorize the Service Academy under the jurisdiction of that Secretary to permit students, officers, and other representatives of a foreign country to attend that Academy for periods of not more than four weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross-cultural interactions and understanding, and cultural immersion of cadets or midshipmen, as the case may be.
 
 &emsp;(2)
 
@@ -156,7 +156,7 @@ Service Academy Defined.—In this section, the term "Service Academy" means the
 
 &emsp;(3) The United States Air Force Academy.
 
-(Added Pub. L. 114–328, div. A, title XII, §1248(a), Dec. 23, 2016, 130 Stat. 2522; amended Pub. L. 115–91, div. A, title X, §1081(a)(18), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, §809(a), title XII, §1204(c)(1)(D), Aug. 13, 2018, 132 Stat. 1840, 2017.)
+(Added Pub. L. 114–328, div. A, title XII, §1248(a), Dec. 23, 2016, 130 Stat. 2522; amended Pub. L.115–91, div. A, title X, §1081(a)(18), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, §809(a), title XII, §1204(c)(1)(D), Aug. 13, 2018, 132 Stat. 1840, 2017.)
 
 #### Prior Provisions
 

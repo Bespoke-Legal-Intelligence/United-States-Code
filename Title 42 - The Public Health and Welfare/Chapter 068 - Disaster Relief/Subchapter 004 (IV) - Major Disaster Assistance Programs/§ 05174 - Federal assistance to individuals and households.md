@@ -14,7 +14,7 @@
 
 #### (1) Eligibility
 
-&emsp;The President may provide financial or other assistance under this section to individuals and households to respond to the disaster-related housing needs of individuals and households who are displaced from their predisaster primary residences or whose predisaster primary residences are rendered uninhabitable, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable, as a result of damage caused by a major disaster.
+&emsp;The President may provide financial or other assistance under this section to individuals and households to respond to the disaster-related housing needs of individuals and households who are displaced from theirpredisaster primary residences or whose predisaster primary residences are rendered uninhabitable, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable, as a result of damage caused by a major disaster.
 
 #### (2) Determination of appropriate types of assistance
 
@@ -184,7 +184,7 @@
 
 #### (A) Application
 
-&emsp;&emsp;A State or Indian tribal government desiring to provide assistance under subsection (c)(1)(B), (c)(4), or (e) shall submit to the President an application for a grant to provide financial assistance under the program.
+&emsp;&emsp;A State or Indian tribal government desiring to provide assistance under subsection\(c)(1)(B), (c)(4), or (e) shall submit to the President an application for a grant to provide financial assistance under the program.
 
 #### (B) Criteria
 
@@ -238,7 +238,7 @@
 
 #### (H) Report on incentives
 
-&emsp;&emsp;Not later than 12 months after October 5, 2018, the Administrator of the Federal Emergency Management Agency shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on a potential incentive structure for awards made under this section to encourage participation by eligible States and Indian tribal governments. In developing this report, the Administrator of the Federal Emergency Management Agency shall consult with State, local, and Indian tribal entities to gain their input on any such incentive structure to encourage participation and shall include this information in the report. This report should address, among other options, potential adjustments to the cost-share requirement and management costs to State and Indian tribal governments.
+&emsp;&emsp;Not later than 12 months after October 5, 2018, the Administrator of the Federal Emergency Management Agency shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on a potential incentive structure for awards made under this section to encourage participation by eligible States and Indian tribal governments. In developing this report, the Administrator of the Federal Emergency Management Agency shall consult with State, local, and Indian tribal entities to gain their input on any such incentive structure to encourage participation and shall include this information in the report. This report should address, among other options, potential adjustments to thecost-share requirement and management costs to State and Indian tribal governments.
 
 #### (I) Prohibition
 
@@ -338,7 +338,7 @@ Subsec. (f)(1). Pub. L. 115–254, §1211(a)(1)(A), substituted "State- or India
 
 Subsec. (f)(1)(A). Pub. L. 115–254, §1211(a)(1)(B), struck out "financial" before "assistance" and substituted "subsections (c)(1)(B), (c)(4), and (e) if the President and the State or Indian tribal government comply, as determined by the Administrator, with paragraph (3)" for "subsection (e)".
 
-Subsec. (f)(1)(B). Pub. L. 115–254, §1211(a)(1)(C), struck out "financial" before "assistance" and substituted"subsections (c)(1)(B), (c)(4), and (e)" for "subsection (e)".
+Subsec. (f)(1)(B). Pub. L. 115–254, §1211(a)(1)(C), struck out "financial" before "assistance" and substituted "subsections (c)(1)(B), (c)(4), and (e)" for "subsection (e)".
 
 Subsec. (f)(3). Pub. L. 115–254, §1211(a)(2), added par. (3).
 

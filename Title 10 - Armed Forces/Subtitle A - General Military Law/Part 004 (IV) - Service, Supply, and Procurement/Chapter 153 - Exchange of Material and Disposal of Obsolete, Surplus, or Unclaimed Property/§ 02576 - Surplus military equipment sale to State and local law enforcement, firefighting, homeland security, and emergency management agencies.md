@@ -4,7 +4,7 @@
 
 (b) Such surplus military equipment shall not be sold under the provisions of this section to a State or local law enforcement, firefighting, homeland security, or emergency management agency unless request therefor is made by such agency, in such form and manner as the Secretary of Defense shall prescribe, and such request, with respect to the type and amount of equipment so requested, is certified as being necessary and suitable for the operation of such agency by the Governor (or such State official as he may designate) of the State in which such agency is located. Equipment sold to a State or local law enforcement, firefighting, homeland security, or emergency management agency under this section shall not exceed, in quantity, the amount requested and certified for such agency and shall be for the exclusive use of such agency. Such equipment may not be sold, or otherwise transferred, by such agency to any individual or public or private organization or agency.
 
-(Added Pub. L. 90–500, title IV, §403(a) Sept. 20, 1968, 82 Stat. 851; amended Pub. L. 96–513, title V, §511(85), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–217, §3(b)(10), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 111–350, §5(b)(42), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 111–383, div. A, title X, §1072(a)–(c)(1), Jan. 7, 2011, 124 Stat. 4366.)
+(Added Pub. L. 90–500, title IV, §403(a) Sept. 20, 1968, 82 Stat. 851; amended Pub. L. 96–513, title V, §511(85), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–217, §3(b)(10), Aug. 21, 2002, 116 Stat. 1296;Pub. L. 111–350, §5(b)(42), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 111–383, div. A, title X, §1072(a)–(c)(1), Jan. 7, 2011, 124 Stat. 4366.)
 
 #### Amendments
 
@@ -98,7 +98,7 @@ Deadline for Guidance.—Not later than 90 days after the date of the enactment 
 
 "(c)
 
-Preference.—No small arms ammunition or small arms ammunition components in excess of military requirements, or fired small arms cartridge cases may be made available for commercial sale under this section before such ammunition and ammunition components are offered for transfer or purchase, as authorized by law, to another Federal department or agency or for sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies pursuant to section 2576 of title 10, United States Code, as amended by this Act.
+Preference.—No small arms ammunition or small arms ammunition components in excess of military requirements, or fired small arms cartridge cases may be made available for commercial sale under thissection before such ammunition and ammunition components are offered for transfer or purchase, as authorized by law, to another Federal department or agency or for sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies pursuant to section 2576 of title 10, United States Code, as amended by this Act.
 
 "(d)
 
@@ -110,7 +110,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Small arms ammunition.—The term 'small arms ammunition' means ammunition or ordnancefor firearms up to and including .50 caliber and for shotguns.
+Small arms ammunition.—The term 'small arms ammunition' means ammunition or ordnance for firearms up to and including .50 caliber and for shotguns.
 
 &emsp;"(2)
 

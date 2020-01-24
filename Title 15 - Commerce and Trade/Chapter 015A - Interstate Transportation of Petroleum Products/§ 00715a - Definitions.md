@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) The term "contraband oil" means petroleum which, or any constituent part of which, was produced, transported, or withdrawn from storage in excess of the amounts permitted to be produced, transported, or withdrawn from storage under the laws of a State or under any regulation or order prescribed thereunder by any board, commission, officer, or other duly authorized agency of such State, or any of the products of such petroleum, except petroleum or any of its constituent parts, title to which has been acquired by a State pursuant to its laws.
+&emsp;(1) The term "contraband oil" means petroleum which, or any constituent part of which, was produced, transported, or withdrawn from storage in excess of the amounts permitted to be produced, transported, or withdrawn from storage under the laws of a State or under any regulation or order prescribed thereunder by any board, commission, officer, or other dulyauthorized agency of such State, or any of the products of such petroleum, except petroleum or any of its constituent parts, title to which has been acquired by a State pursuant to its laws.
 
 &emsp;(2) The term "products" or "petroleum products" includes any article produced or derived in whole or in part from petroleum or any product thereof by refining, processing, manufacturing, or otherwise.
 

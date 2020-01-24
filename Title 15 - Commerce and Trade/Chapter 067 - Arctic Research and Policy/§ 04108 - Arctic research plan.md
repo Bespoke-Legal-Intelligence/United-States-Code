@@ -12,7 +12,7 @@
 
 &emsp;(4) recommendations for necessary program changes and other proposals to meet the requirements of the policy and goals as set forth by the Commission and in the Plan as currently in effect; and
 
-&emsp;(5) a description of the actions taken by the Interagency Committee to coordinate the budget review process in order to ensure interagency coordination and cooperation in (A) carrying out Federal Arctic research programs, and (B) eliminating unnecessary duplication of effort among these programs.
+&emsp;(5) a description of the actions taken by the Interagency Committee to coordinate the budget review process in order to ensure interagency coordination and cooperation in (A)carrying out Federal Arctic research programs, and (B) eliminating unnecessary duplication of effort among these programs.
 
 (Pub. L. 98–373, title I, §109, July 31, 1984, 98 Stat. 1247.)
 

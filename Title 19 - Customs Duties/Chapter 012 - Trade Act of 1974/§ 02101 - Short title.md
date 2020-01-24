@@ -40,7 +40,7 @@ Pub. L. 107–210, div. A, §101, Aug. 6, 2002, 116 Stat. 935, provided that: "T
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–188, title I, §1951, Aug. 20, 1996, 110 Stat. 1917, provided that: "This subtitle \[subtitle J\(§§1951–1954) of title I of Pub. L. 104–188, enacting sections 2461 to 2467 of this title, amending sections 2702, 3011, 3202, 3331, and 3551 of this title, section 1444–2 of Title 7, Agriculture, section 4711 of Title 15, Commerce and Trade, sections 262p–4p and 2191a of Title 22, Foreign Relations and Intercourse, and section 871 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 2461 of this title\] may be cited as the 'GSP Renewal Act of 1996'."
+Pub. L. 104–188, title I, §1951, Aug. 20, 1996, 110 Stat. 1917, provided that: "This subtitle \[subtitle J (§§1951–1954) of title I of Pub. L. 104–188, enacting sections 2461 to 2467 of this title, amending sections 2702, 3011, 3202, 3331, and 3551 of this title, section 1444–2 of Title 7, Agriculture, section 4711 of Title 15, Commerce and Trade, sections 262p–4p and 2191a of Title 22, Foreign Relations and Intercourse, and section 871 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 2461 of this title\] may be cited as the 'GSP Renewal Act of 1996'."
 
 #### Short Title of 1993 Amendment
 
@@ -52,7 +52,7 @@ Pub. L. 101–382, §1(a), Aug. 20, 1990, 104 Stat. 629, provided that: "This Ac
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–221, §1, Dec. 12, 1989, 103 Stat. 1886, provided that: "This Act \[amending section 4611 of Title 26, Internal Revenue Code, enacting provisions set out as notes under sections 2253 and 2703 of this title and section 4611 of Title 26, and amending provisions set out as notes under sections 2253 and 2703 of this title\] may be cited as the 'Steel Trade Liberalization Program Implementation Act'."
+Pub. L. 101–221, §1, Dec. 12, 1989, 103 Stat. 1886, provided that: "This Act \[amending section 4611 of Title 26, Internal Revenue Code, enacting provisions set out as notes under sections 2253 and 2703 of this title and section 4611 of Title 26, and amending provisions set outas notes under sections 2253 and 2703 of this title\] may be cited as the 'Steel Trade Liberalization Program Implementation Act'."
 
 #### Short Title of 1986 Amendment
 

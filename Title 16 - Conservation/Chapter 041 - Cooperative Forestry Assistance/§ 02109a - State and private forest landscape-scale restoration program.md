@@ -122,7 +122,7 @@ Not later than 3 years after December 20, 2018, the Secretary shall submit to th
 
 #### (1) In general
 
-&emsp;There is established in the Treasury a fund, to be known as the "State and Private ForestLandscape-Scale Restoration Fund" (referred to in this subsection as the "Fund"), to be used by the Secretary to make grants under this section.
+&emsp;There is established in the Treasury a fund, to be known as the "State and Private Forest Landscape-Scale Restoration Fund" (referred to in this subsection as the "Fund"), to be used by the Secretary to make grants under this section.
 
 #### (2) Contents
 

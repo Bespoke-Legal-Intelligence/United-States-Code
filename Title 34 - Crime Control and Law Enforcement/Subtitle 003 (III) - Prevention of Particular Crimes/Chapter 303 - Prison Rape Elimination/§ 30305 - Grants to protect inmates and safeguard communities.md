@@ -72,7 +72,7 @@ Amounts received by a grantee under this section may be used by the grantee, dir
 
 &emsp;&emsp;&emsp;(ii) describe the rate of growth of the State's prison population over the preceding 10 years and explain why the State may have difficulty sustaining that rate of growth; and
 
-&emsp;&emsp;&emsp;(iii) explain the extent to which officials (including law enforcement officials) of State and local governments and victims of crime will be consulted regarding decisions whether, or how, to moderate the growth of the State's prison population.
+&emsp;&emsp;&emsp;(iii) explain the extent to which officials (including law enforcement officials) of State and local governments and victimsof crime will be consulted regarding decisions whether, or how, to moderate the growth of the State's prison population.
 
 #### (e) Reports by grantee
 

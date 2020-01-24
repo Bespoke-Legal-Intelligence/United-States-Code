@@ -28,7 +28,7 @@ Reorganization Plan Number 1 of 1977, referred to in subsec. (a), is Reorg. Plan
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 6618 of this title, Pub. L. 94–282, title II, §209, May 11, 1976, 90 Stat. 468, prior to repeal by Pub. L. 97–375, title II, §215(1), Dec. 21, 1982, 96 Stat. 1826.
+Provisions similar to those in this section were contained in section 6618 of this title, Pub. L. 94–282, titleII, §209, May 11, 1976, 90 Stat. 468, prior to repeal by Pub. L. 97–375, title II, §215(1), Dec. 21, 1982, 96 Stat. 1826.
 
 #### Amendments
 
@@ -36,5 +36,5 @@ Provisions similar to those in this section were contained in section 6618 of th
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to submission ofbiennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 16th item on page 42 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to submission of biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 16th item on page 42 of House Document No. 103–7.
 

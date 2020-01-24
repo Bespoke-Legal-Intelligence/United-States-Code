@@ -38,7 +38,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary may make or guarantee loans to farmers or ranchers in the United States, farm cooperatives, private domestic corporations, partnerships, joint operations, trusts, limited liability companies, or such other legal entities as the Secretary considers appropriate that are controlled by farmers or ranchers and engaged primarily and directly in agricultural production in the United States.
+&emsp;The Secretary may make or guarantee loans to farmers or ranchers in the United States,farm cooperatives, private domestic corporations, partnerships, joint operations, trusts, limited liability companies, or such other legal entities as the Secretary considers appropriate that are controlled by farmers or ranchers and engaged primarily and directly in agricultural production in the United States.
 
 #### (2) Requirements
 
@@ -102,7 +102,7 @@ Subsec. (b). Pub. L. 104–127, §603(1), (3), redesignated subsec. (a)(2) as (b
 
 Subsec. (c). Pub. L. 104–127, §603(1), (4), (6), redesignated subsec. (a)(3) as (c), inserted heading, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former subsec. (c) which read as follows: "Loans may also be made or insured under this subchapter to any farm owners or tenants without regard to the requirements of clauses (1), (2), and (3) of section 1922 of this title for the purposes of meeting Federal, State, or local requirements for agricultural, animal, or poultry waste pollution abatement and control facilities, including the construction, modification, or relocation of farm or other structures necessary to comply with such pollution abatement requirements."
 
-<b>1991</b>—Subsecs. (a), (d). Pub. L. 102–237 redesignated subsec. (d) as (a) and moved it to appear before subsec.\(b) and struck out former subsec. (a) which read as follows: "Loans may also be made or insured under this subchapter to any farmowners or tenants without regard to the requirements of section 1922(1), (2), and (3) of this title for the purposes only of land and water development, use and conservation, not including recreational uses and facilities, and without regard to the requirements of section 1922(2) and (3) of this title, to farmowners or tenants to finance outdoor recreational enterprises or to convert to recreational uses their farming or ranching operations, including those heretofore financed under this chapter."
+<b>1991</b>—Subsecs. (a), (d). Pub. L. 102–237 redesignated subsec. (d) as (a) and moved it to appear before subsec. (b) and struck out former subsec. (a) which read as follows: "Loans may also be made or insured under this subchapter to any farmowners or tenants without regard to the requirements of section 1922(1), (2), and (3) of this title for the purposes only of land and water development, use and conservation, not including recreational uses and facilities, and without regard to the requirements of section 1922(2) and (3) of this title, to farmowners or tenants to finance outdoor recreational enterprises or to convert to recreational uses their farming or ranching operations, including those heretofore financed under this chapter."
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–624 added subsec. (d).
 
@@ -110,7 +110,7 @@ Subsec. (c). Pub. L. 104–127, §603(1), (4), (6), redesignated subsec. (a)(3) 
 
 Subsec. (c). Pub. L. 95–334, §102(2), added subsec. (c).
 
-<b>1972</b>—Pub. L. 92–419 designated existing provisions as subsec. (a) and struck out item (a) and (b) designations appearing before "to any farmowners" and "without regard to", respectively, and added subsec. (b).
+<b>1972</b>—Pub. L. 92–419 designated existing provisions as subsec. (a) and struck out item (a) and (b) designationsappearing before "to any farmowners" and "without regard to", respectively, and added subsec. (b).
 
 <b>1968</b>—Pub. L. 90–488 designated existing provisions as cl. (a), excluded recreational uses and facilities, and added cl. (b).
 

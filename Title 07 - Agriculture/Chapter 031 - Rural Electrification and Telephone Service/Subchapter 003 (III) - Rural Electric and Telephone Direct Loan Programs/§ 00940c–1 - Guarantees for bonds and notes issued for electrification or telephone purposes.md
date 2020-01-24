@@ -92,7 +92,7 @@
 
 #### (3) Department opinion
 
-&emsp;On the timely request of a lender, the General Counsel of the Department of Agriculture shall provide the Secretary with an opinion regarding the validity and authority of a guarantee issued to the lender under this section.
+&emsp;On the timely request of a lender, the General Counsel of the Department of Agricultureshall provide the Secretary with an opinion regarding the validity and authority of a guarantee issued to the lender under this section.
 
 #### (e) Authorization of appropriations
 
@@ -142,7 +142,7 @@ Subsec. (f). Pub. L. 115–334, §6505(a)(3), substituted "2023" for "2018".
 
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–246, §6106(a)(1)(A), substituted "for eligible electrification or telephone purposes consistent with this chapter" for "for electrification or telephone purposes that have been made concurrently with loans approved for such purposes under this chapter".
 
-Subsec. (b)(4). Pub. L. 110–246, §6106(a)(1)(B), added par. (4) and struck out former par. (4) which related to prohibition on use of amounts from reduced fundingcosts for interest rate reduction except for certain concurrent loans.
+Subsec. (b)(4). Pub. L. 110–246, §6106(a)(1)(B), added par. (4) and struck out former par. (4) which related to prohibition on use of amounts from reduced funding costs for interest rate reduction except for certain concurrent loans.
 
 Subsec. (c)(2), (3). Pub. L. 110–246, §6106(a)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which provided that the amount of an annual fee paid for the guarantee would be equal to 30 basis points of the amount of the unpaid principal and directed payment of fees required under subsec. (c) on a semiannual basis.
 

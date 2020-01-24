@@ -1,6 +1,6 @@
 ### §3105. Appointment of administrative law judges
 
-Each agency shall appoint as many administrative law judges as are necessary for proceedings required to be conducted in accordancewith sections 556 and 557 of this title. Administrative law judges shall be assigned to cases in rotation so far as practicable, and may not perform duties inconsistent with their duties and responsibilities as administrative law judges.
+Each agency shall appoint as many administrative law judges as are necessary for proceedings required to be conducted in accordance with sections 556 and 557 of this title. Administrative law judges shall be assigned to cases in rotation so far as practicable, and may not perform duties inconsistent with their duties and responsibilities as administrative law judges.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 415; Pub. L. 95–251, §2(a)(1), (b)(2), (d)(1), Mar. 27, 1978, 92 Stat. 183, 184.)
 
@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 June 11, 1946, ch. 324, §11 (1st sentence), 60 Stat. 244.
 
-The words "Subject to the civil service" are omitted as unnecessary inasmuch as appointments are made subject to the civil service laws unless specifically excepted. The words "and other laws not inconsistent with this chapter" are omitted as unnecessary because of the organization of this title.
+The words "Subject to the civil service" are omitted as unnecessary inasmuch as appointments are made subject to the civil service laws unless specifically excepted. The words "and other laws not inconsistentwith this chapter" are omitted as unnecessary because of the organization of this title.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

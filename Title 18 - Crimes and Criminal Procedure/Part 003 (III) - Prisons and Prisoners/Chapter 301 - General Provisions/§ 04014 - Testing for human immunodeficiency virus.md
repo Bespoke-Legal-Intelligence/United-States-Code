@@ -6,7 +6,7 @@
 
 &emsp;(1) cause the person who may have transmitted the virus to be tested promptly for the presence of such virus and communicate the test results to the person tested; and
 
-&emsp;(2) consistent with the guidelines issued by the Bureau of Prisons relating to infectious disease management, inform any person (in, as appropriate, confidential consultation with the person's physician) who may have been exposed to such virus, of the potential risk involved and, if warranted by the circumstances, that prophylactic or other treatment should be considered.
+&emsp;(2) consistent with the guidelines issued by the Bureau of Prisons relating to infectiousdisease management, inform any person (in, as appropriate, confidential consultation with the person's physician) who may have been exposed to such virus, of the potential risk involved and, if warranted by the circumstances, that prophylactic or other treatment should be considered.
 
 (c) If the results of a test under subsection (a) or (b) indicate the presence of the human immunodeficiency virus, the Attorney General shall provide appropriate access for counselling, health care, and support services to the affected officer, employee, or other person, and to the person tested.
 

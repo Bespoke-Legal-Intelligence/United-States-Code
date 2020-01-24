@@ -12,7 +12,7 @@ Section was formerly classified to section 481 of Title 5 prior to the general r
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–125, §1, Dec. 7, 2005, 119 Stat. 2544, provided that: "This Act \[enacting section 1475b of this title and provisions set out as a note under section 1475b of this title\] may be cited as the 'Department of the Interior Volunteer Recruitment Act of 2005'."
+Pub. L. 109–125, §1, Dec. 7, 2005, 119 Stat. 2544, provided that: "This Act \[enacting section 1475b of this title andprovisions set out as a note under section 1475b of this title\] may be cited as the 'Department of the Interior Volunteer Recruitment Act of 2005'."
 
 #### Transfer of Functions
 
@@ -72,7 +72,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (a) Except as otherwise provided in subsection (b) of this section, there are hereby transferred to the Secretary of the Interior all functions of all other officers of the Department of the Interior and all functions of all agencies and employees of such Department.
 
-(b) This section shall not apply to the functions vested by the Administrative Procedure Act (60 Stat. 237)\[see 5 U.S.C. 551 et seq. and 701 et seq.\] in hearing examiners employed by the Department of the Interior, nor to the functions of the Virgin Islands Corporation or of its Board of Directors or officers.
+(b) This section shall not apply to the functions vested by the Administrative Procedure Act (60 Stat. 237) \[see 5 U.S.C. 551 et seq. and 701 et seq.\] in hearing examiners employed by the Department of the Interior, nor to the functions of the Virgin Islands Corporation or of its Board of Directors or officers.
 
 #### Sec. 2. Performance of Functions of Secretary
 

@@ -104,7 +104,7 @@ Defense Acquisitions Specifically Authorized by Law.—(1) In the case of the De
 
 &emsp;(G) The proposed multiyear contract provides for production at not less than minimum economic rates given the existing tooling and facilities.
 
-(4) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (afternegotiations with contractors) that such savings cannot be achieved, but that significant savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
+(4) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that significant savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
 
 (5)(A) The Secretary may obligate funds for procurement of an end item under a multiyear contract for the purchase of property only for procurement of a complete and usable end item.
 
@@ -112,7 +112,7 @@ Defense Acquisitions Specifically Authorized by Law.—(1) In the case of the De
 
 (6) The Secretary may make the certification under paragraph (3) notwithstanding the fact that one or more of the conditions of such certification are not met, if the Secretary determines that, due to exceptional circumstances, proceeding with a multiyear contract under this section is in the best interest of the Department of Defense and the Secretary provides the basis for such determination with the certification.
 
-(7) The Secretary may not delegate the authority to make the certification under paragraph (3) or the determination under paragraph (6) to an official below the level of Under Secretary of Defense for Acquisition, Technology, and Logistics.
+(7) The Secretary may not delegate the authority to make the certification under paragraph (3) or the determination under paragraph (6) to an official below the level of Under Secretary of Defense for Acquisition and Sustainment.
 
 (j)
 
@@ -162,7 +162,7 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 &emsp;(D) The amount of total obligational authority under all Department of Defense multiyear procurements (determined without regard to the amount of the multiyear contract (or contract extension)), including any multiyear contract (or contract extension) that has been authorized by the Congress but not yet entered into, and the percentage that such amount represents of the procurement accounts of the Department of Defense treated in the aggregate.
 
-(5) The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract), the value of which would exceed $500,000,000 (when entered into or when extended, as the case may be), until the Secretary of Defense submits to the congressional defense committees a report containing the information described in paragraph (4) with respect to the contract (or contract extension).
+(5) The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract), the value of which would exceed $500,000,000 (when entered into or when extended, as the case may be), until the Secretary of Defense submits to the congressionaldefense committees a report containing the information described in paragraph (4) with respect to the contract (or contract extension).
 
 (6) The head of an agency may not terminate a multiyear procurement contract until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
 
@@ -180,7 +180,7 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 Increased Funding and Reprogramming Requests.—Any request for increased funding for the procurement of a major system under a multiyear contract authorized under this section shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary under subsection (i).
 
-(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, §814(a), title X, §1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, §811(a), Jan. 28, 2008, 122 Stat. 217; Pub. L. 111–23, title I, §101(d)(2), May 22, 2009, 123 Stat. 1709; Pub. L. 113–291, div. A, title VIII, §816(a), (b), Dec. 19, 2014, 128 Stat. 3430, 3432; Pub. L. 114–92, div. A, title VIII, §811, Nov. 25, 2015, 129 Stat. 891; Pub. L. 115–91, div. A, title X, §1051(a)(14), Dec. 12, 2017, 131 Stat. 1561; Pub. L. 115–232, div. A, title VIII, §817, Aug. 13, 2018, 132 Stat. 1852.)
+(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, §814(a), title X, §1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, §811(a), Jan. 28, 2008, 122 Stat. 217; Pub. L. 111–23, title I, §101(d)(2), May 22, 2009, 123 Stat. 1709; Pub. L. 113–291, div. A, title VIII, §816(a), (b), Dec. 19, 2014, 128 Stat. 3430, 3432; Pub. L. 114–92, div. A, title VIII, §811, Nov. 25, 2015, 129 Stat. 891; Pub. L. 115–91, div. A, title X, §1051(a)(14), Dec. 12, 2017, 131 Stat. 1561; Pub. L. 115–232, div. A, title VIII, §817, Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–92, div. A, title IX, §902(48), Dec. 20, 2019, 133 Stat. 1548.)
 
 #### References in Text
 
@@ -189,6 +189,8 @@ Subsection (i)(1)(A), referred to in subsec. (g)(2), related to certification of
 Section 2334(e)(2) of this title, referred to in subsec. (i)(3)(B), was redesignated as section 2334(f)(2) of this title by Pub. L. 114–328, div. A, title VIII, §842(a)(3), Dec. 23, 2016, 130 Stat. 2288.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (i)(7). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
 <b>2018</b>—Subsec. (i)(2)(B). Pub. L. 115–232 substituted "supported by a preliminary cost analysis" for "made after the completion of a cost analysis" and struck out "for the purpose of section 2334(e)(1) of this title, and that the analysis supports those preliminary findings" after "Evaluation".
 
@@ -347,6 +349,8 @@ Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided tha
 &emsp;"(3) the Secretary of Defense makes such request in writing to the congressional defense committees."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–93, div. A, title VIII, §8010, Dec. 20, 2019, 133 Stat. 2337.
 
 Pub. L. 115–245, div. A, title VIII, §8010, Sept. 28, 2018, 132 Stat. 3000.
 

@@ -34,7 +34,7 @@ Pub. L. 103–160, div. A, title V, §516, Nov. 30, 1993, 107 Stat. 1650, direct
 
 #### Army National Guard Combat Readiness Reform
 
-Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended by Pub. L. 103–35, title II, §202(a)(11), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title V, §520, Nov. 30, 1993, 107 Stat. 1651; Pub. L. 103–337, div. A, title V, §516, Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title V, §§514, 515, title VII, §704(b), Feb. 10, 1996, 110 Stat. 307, 308, 372; Pub. L. 114–328, div. A, title III, §321(b), Dec. 23, 2016, 130 Stat. 2075, provided that:
+Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended by Pub. L. 103–35, title II, §202(a)(11), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title V, §520, Nov. 30, 1993, 107 Stat. 1651; Pub. L. 103–337, div. A, title V, §516, Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title V, §§514, 515, title VII, §704(b), Feb. 10, 1996, 110 Stat. 307, 308, 372; Pub. L. 114–328, div. A, title III, §321(b), Dec. 23, 2016, 130 Stat. 2075; Pub. L. 116–92, div. A, title V, §520, Dec. 20, 2019, 133 Stat. 1351, provided that:
 
 #### "SEC. 1101. SHORT TITLE.
 
@@ -60,7 +60,7 @@ Qualified Prior Active-Duty Personnel.—For purposes of this section, qualified
 
 "(a)
 
-Academy Graduates and Distinguished ROTC Graduates To Serve in Selected Reserve for Periodof Active-duty Service Obligation Not Served on Active Duty.—(1) An officer who is a graduate of one of the service academies or who was commissioned as a distinguished Reserve Officers' Training Corps graduate and who is permitted to be released from active duty before the completion of the active-duty service obligation applicable to that officer shall serve the remaining period of such active-duty service obligation as a member of the Selected Reserve.
+Academy Graduates and Distinguished ROTC Graduates To Serve in Selected Reserve for Period of Active-duty Service Obligation Not Served on Active Duty.—(1) An officer who is a graduate of one of the service academies or who was commissioned as a distinguished Reserve Officers' Training Corps graduate and who is permitted to be released from active duty before the completion of the active-duty service obligation applicable to that officer shall serve the remaining period of such active-duty service obligation as a member of the Selected Reserve.
 
 "(2) The Secretary concerned may waive paragraph (1) in a case in which the Secretary determines that there is no unit position available for the officer.
 
@@ -68,21 +68,7 @@ Academy Graduates and Distinguished ROTC Graduates To Serve in Selected Reserve 
 
 ROTC Graduates.—The Secretary of the Army shall provide a program under which graduates of the Reserve Officers' Training Corps program may perform their minimum period of obligated service by a combination of (A) two years of active duty, and (B) such additional period of service as is necessary to complete the remainder of such obligation, to be served in the Selected Reserve.
 
-#### "SEC. 1113. REVIEW OF OFFICER PROMOTIONS BY COMMANDER OF ASSOCIATED ACTIVE DUTY UNIT.
-
-"(a)
-
-Review.—Whenever an officer in an Army Selected Reserve unit as defined in subsection (b) is recommended for a unit vacancy promotion to a grade above first lieutenant, the recommended promotion shall be reviewed by the commander of the active duty unit associated with the Selected Reserve unit of that officer or another active-duty officer designated by the Secretary of the Army. The commander or other active-duty officer designated by the Secretary of the Army shall provide to the promoting authority, through the promotion board convened by the promotion authority to consider unit vacancy promotion candidates, before the promotion is made, a recommendation of concurrence or nonconcurrence in the promotion. The recommendation shall be provided to the promoting authority within 60 days after receipt of notice of the recommended promotion.
-
-"(b)
-
-Coverage of Selected Reserve Combat and Early Deploying Units.—(1) Subsection (a) applies to officers in all units of the Selected Reserve that are designated as combat units or that are designated for deployment within 75 days of mobilization.
-
-"(2) Subsection (a) shall take effect with respect to officers of the Army Reserve, and with respect to officers of the Army National Guard in units not subject to subsection (a) as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996 \[Feb. 10, 1996\], at the end of the 90-day period beginning on such date of enactment.
-
-"(c)
-
-Report on Feasibility.—The Secretary of the Army shall submit to the Committees on Armed Services of the Senate and House of Representatives a report, not later than March 1, 1993, containing a plan for implementation of subsection (a). The Secretary may include with the report such proposals for legislation to clarify, improve, or modify the provisions of subsection (a) in order to better carry out the purposes of those provisions as the Secretary considers appropriate.
+#### "\[SEC. 1113. Repealed. Pub. L. 116–92, div. A, title V, §520, Dec. 20, 2019, 133 Stat. 1351.\]
 
 #### "SEC. 1114. NONCOMMISSIONED OFFICER EDUCATION REQUIREMENTS.
 
@@ -150,7 +136,7 @@ Time for Qualification for Deployment.—(1) If at the end of 24 months after a 
 
 Associate Units.—The Secretary of the Army shall require—
 
-&emsp;"(1) that each ground combat maneuver brigade of the Army National Guard that (as determined by theSecretary) is essential for the execution of the National Military Strategy be associated with an active-duty combat unit; and
+&emsp;"(1) that each ground combat maneuver brigade of the Army National Guard that (as determined by the Secretary) is essential for the execution of the National Military Strategy be associated with an active-duty combat unit; and
 
 &emsp;"(2) that combat support and combat service support units of the Army Selected Reserve that (as determined by the Secretary) are essential for the execution of the National Military Strategy be associated with active-duty units.
 

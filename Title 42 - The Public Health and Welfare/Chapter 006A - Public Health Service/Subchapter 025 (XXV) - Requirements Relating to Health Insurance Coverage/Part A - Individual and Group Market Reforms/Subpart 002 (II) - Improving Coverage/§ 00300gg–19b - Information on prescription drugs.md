@@ -10,7 +10,7 @@ A group health plan or a health insurance issuer offering group or individual he
 
 #### (b) Definition
 
-For purposes of this section, the term "out-of-pocket cost", with respect to acquisition of a drug, means the amount to be paid by the enrollee under the plan or coverage, including any cost-sharing (including any deductible, copayment, or coinsurance) and, as determined by the Secretary, any other expenditure.
+For purposes of this section, the term "out-of-pocket cost", with respect to acquisition of adrug, means the amount to be paid by the enrollee under the plan or coverage, including any cost-sharing (including any deductible, copayment, or coinsurance) and, as determined by the Secretary, any other expenditure.
 
 (July 1, 1944, ch. 373, title XXVII, §2729, as added Pub. L. 115–263, §2, Oct. 10, 2018, 132 Stat. 3672.)
 

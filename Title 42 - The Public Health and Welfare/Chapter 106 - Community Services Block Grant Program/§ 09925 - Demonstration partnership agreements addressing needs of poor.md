@@ -56,7 +56,7 @@ As soon as practicable, but not later than 180 days after the end of the fiscal 
 
 #### (e) Replication of programs
 
-(1) The Secretary shall annually identify programs that receive grants under this section that demonstrate a significant potential fordealing with particularly critical needs or problems of the poor that exist in a number of communities.
+(1) The Secretary shall annually identify programs that receive grants under this section that demonstrate a significant potential for dealing with particularly critical needs or problems of the poor that exist in a number of communities.
 
 (2) Not less than 10 percent, and not more than 25 percent, of the funds appropriated for each fiscal year to carry out this section shall be available to make grants under this section to replicate in additional geographic areas programs identified under paragraph (1).
 
@@ -116,7 +116,7 @@ Subsec. (f). Pub. L. 101–501, §601(1), (2), redesignated subsec. (e) as (f) a
 
 Subsec. (g). Pub. L. 101–501, §601(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 101–501, §§601(2), 602, redesignated subsec. (g) as (h), designated existing provisions as par.\(1), substituted "$10,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992, 1993, and 1994" for "$5,000,000 for each of the fiscal years 1987, 1988, and 1989, and $7,000,000 for fiscal year 1990", inserted "(other than subsection (c) of this section)" before period at end, and added par. (2).
+Subsec. (h). Pub. L. 101–501, §§601(2), 602, redesignated subsec. (g) as (h), designated existing provisions as par. (1), substituted "$10,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years1992, 1993, and 1994" for "$5,000,000 for each of the fiscal years 1987, 1988, and 1989, and $7,000,000 for fiscal year 1990", inserted "(other than subsection (c) of this section)" before period at end, and added par. (2).
 
 <b>1989</b>—Subsec. (a)(1). Pub. L. 101–204, §705(a)(1), substituted "stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor" for "provide for the self-sufficiency of the Nation's poor".
 

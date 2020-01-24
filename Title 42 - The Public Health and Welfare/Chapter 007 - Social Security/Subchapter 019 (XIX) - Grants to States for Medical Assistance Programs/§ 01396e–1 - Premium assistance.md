@@ -40,7 +40,7 @@ In this section, the term "premium assistance subsidy" means the amount of the e
 
 #### (2) Beneficiaries
 
-&emsp;No subsidy shall be provided to an individual under this section unless the individual (or theindividual's parent) voluntarily elects to receive such a subsidy. A State may not require such an election as a condition of receipt of medical assistance. A State may not require, as a condition of an individual (or the individual's parent) being or remaining eligible for medical assistance under this subchapter, that the individual (or the individual's parent) apply for enrollment in qualified employer-sponsored coverage under this section.
+&emsp;No subsidy shall be provided to an individual under this section unless the individual (or the individual's parent) voluntarily elects to receive such a subsidy. A State may not require such an election as a condition of receipt of medical assistance. A State may not require, as a condition of an individual (or the individual's parent) being or remaining eligible for medical assistance under this subchapter, that the individual (or the individual's parent) apply for enrollment in qualified employer-sponsored coverage under this section.
 
 #### (3) Opt-out permitted for any month
 
@@ -84,7 +84,7 @@ Pub. L. 111–148, title X, §10203(b), Mar. 23, 2010, 124 Stat. 927, provided t
 
 #### Effective Date
 
-Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
+Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on orafter that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
 
 #### Effect of Certain Amendment by Pub. L. 111–148
 

@@ -54,7 +54,7 @@ For purposes of subsection (c)(1)(C), the Secretary may determine that there are
 
 Upon receiving notice from the Secretary of Labor under section 2275 of this title of the identity of a firm that is covered by a certification issued under section 2273 of this title, the Secretary of Commerce shall notify the firm of the availability of adjustment assistance under this part.
 
-(Pub. L. 93–618, title II, §251, Jan. 3, 1975, 88 Stat. 2030; Pub. L. 99–272, title XIII, §13002(b), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(2), (b)(2), Aug. 23, 1988, 102 Stat. 1243, 1244; Pub. L. 111–5, div. B, title I, §§1861(a), (c), 1862, 1863, 1867(a), Feb. 17, 2009, 123 Stat. 396, 397, 400; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §251, Jan. 3, 1975, 88 Stat. 2030; Pub. L. 99–272, title XIII, §13002(b), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(2), (b)(2), Aug. 23, 1988, 102 Stat. 1243, 1244; Pub. L. 111–5, div. B, title I, §§1861(a), (c), 1862, 1863, 1867(a), Feb. 17, 2009, 123 Stat. 396, 397, 400; Pub. L. 112–40, title II, §201(b), (c), Oct. 21,2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
@@ -100,7 +100,7 @@ Subsecs. (e), (f). Pub. L. 111–5, §§1863, 1893, temporarily added subsecs. (
 
 &emsp;&emsp;"(A) sales or production, or both, of the firm have decreased absolutely, or
 
-&emsp;&emsp;"(B) sales or production, or both, of an article that accounted for not less than 25 percent of thetotal production or sales of the firm during the 12-month period preceding the most recent 12-month period for which data are available have decreased absolutely, and
+&emsp;&emsp;"(B) sales or production, or both, of an article that accounted for not less than 25 percent of the total production or sales of the firm during the 12-month period preceding the most recent 12-month period for which data are available have decreased absolutely, and
 
 &emsp;"(3) that increases of imports of articles like or directly competitive with articles produced by such firm contributed importantly to such total or partial separation, or threat thereof, and to such decline in sales or production.
 
@@ -126,7 +126,7 @@ Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 22
 
 #### Effective and Termination Dates of 2009 Amendment
 
-Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
 Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
 

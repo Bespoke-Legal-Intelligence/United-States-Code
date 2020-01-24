@@ -16,7 +16,7 @@ The Secretary shall establish under this subchapter a Medicare Improvement Fund 
 
 #### (3) Funding limitation
 
-&emsp;Amounts in the Fund shall be available in advance of appropriations but only if the total amount obligated from the Fund does not exceed the amount available to the Fund under paragraph (1). The Secretary may obligate funds from the Fund only if the Secretary determines (and the Chief Actuary of the Centers for Medicare \& Medicaid Services and the appropriate budget officer certify) that there are available in the Fund sufficient amounts to cover all such obligations incurred consistent with the previous sentence.
+&emsp;Amounts in the Fund shall be available in advance of appropriations but only if the total amount obligated from the Fund does not exceed the amount available to the Fund under paragraph (1). The Secretary may obligate funds from the Fund only if the Secretary determines (and the Chief Actuary of the Centers for Medicare \& Medicaid Services and the appropriate budget officer certify) that thereare available in the Fund sufficient amounts to cover all such obligations incurred consistent with the previous sentence.
 
 #### (4) No effect on payments in subsequent years
 

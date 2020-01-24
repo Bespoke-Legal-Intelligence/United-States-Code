@@ -28,7 +28,7 @@ Sept. 3, 1954, ch. 1257, §320, 68 Stat. 1160.
 
 In subsections (a) and (b), the words "federally recognized" are inserted for clarity.
 
-In subsection (a), the words "or the date of the promotion, whichever is later" are omitted as inconsistent with section 3820(c) of title 10, requiring the discharge of each second lieutenant who is not promoted by the time he has three years of service. (See opinion of the Judge Advocate General of the Army (JAGA 1957/1019, Jan. 7, 1957).)
+In subsection (a), the words "or the date of the promotion, whichever is later" are omitted as inconsistent with section 3820(c) of title 10, requiring the discharge of each second lieutenant who is not promoted by the time he has three years of service. (See opinion of theJudge Advocate General of the Army (JAGA 1957/1019, Jan. 7, 1957).)
 
 #### Amendments
 

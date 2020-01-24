@@ -14,7 +14,7 @@ The general application submitted by a local educational agency under subsection
 
 &emsp;(3) that the local educational agency will use fiscal control and fund accounting procedures that will ensure proper disbursement of, and accounting for, Federal funds paid to that agency under each program;
 
-&emsp;(4) that the local educational agency will make reports to the State agency or board and to the Secretary as may reasonably be necessary to enable the State agency or board and the Secretary to perform their duties and that the local educational agency will maintain such records, including the records required under section 1232f of this title, and provide access to those records, as the State agency or board or the Secretary deem necessary to perform their duties;
+&emsp;(4) that the local educational agency will make reports to the State agency or board andto the Secretary as may reasonably be necessary to enable the State agency or board and the Secretary to perform their duties and that the local educational agency will maintain such records, including the records required under section 1232f of this title, and provide access to those records, as the State agency or board or the Secretary deem necessary to perform their duties;
 
 &emsp;(5) that the local educational agency will provide reasonable opportunities for the participation by teachers, parents, and other interested agencies, organizations, and individuals in the planning for and operation of each program;
 

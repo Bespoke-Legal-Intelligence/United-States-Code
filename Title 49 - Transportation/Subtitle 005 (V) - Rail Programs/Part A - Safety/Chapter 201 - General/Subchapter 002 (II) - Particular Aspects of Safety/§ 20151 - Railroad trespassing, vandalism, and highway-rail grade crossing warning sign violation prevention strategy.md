@@ -2,7 +2,7 @@
 
 (a)
 
-Evaluation of Existing Laws.—In consultation with affected parties, the Secretary of Transportation shall evaluate and review current local, State, and Federal laws regarding trespassing on railroad property, vandalism affecting railroad safety, and violations of highway-rail grade crossing signs, signals, markings, or other warning devices and develop model prevention strategies and enforcement laws to be used for the consideration of State and local legislatures and governmental entities. The first such evaluation and review shall be completed within 1 year after the date of enactment of the Rail Safety Improvement Act of 2008. The Secretary shall revise the model prevention strategies and enforcement codes periodically.
+Evaluation of Existing Laws.—In consultation with affected parties, the Secretary of Transportation shall evaluate and review current local, State, and Federal laws regarding trespassing on railroad property, vandalism affecting railroad safety, and violations of highway-rail grade crossing signs, signals, markings, or other warning devices and develop model prevention strategies and enforcement laws to be used for the consideration of State and local legislatures and governmental entities. The first such evaluation and review shall be completed within 1 year after the date of enactment of theRail Safety Improvement Act of 2008. The Secretary shall revise the model prevention strategies and enforcement codes periodically.
 
 (b)
 
@@ -34,7 +34,7 @@ Definition.—In this section, the term "violation of highway-rail grade crossin
 
 #### References in Text
 
-The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsecs. (a) and (c)(2),is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
+The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsecs. (a) and (c)(2), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
 #### Amendments
 

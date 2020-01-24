@@ -2,7 +2,7 @@
 
 (a)
 
-Members Involuntarily Separated From Active Duty.—The Secretary of Defense shallprescribe regulations to allow a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 2007, and ending on December 31, 2018, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary concerned shall implement this provision for Coast Guard members involuntarily separated during the same period.
+Members Involuntarily Separated From Active Duty.—The Secretary of Defense shall prescribe regulations to allow a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 2007, and ending on December 31, 2018, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary concerned shall implement this provision for Coast Guard members involuntarily separated during the same period.
 
 (b)
 
@@ -60,5 +60,5 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

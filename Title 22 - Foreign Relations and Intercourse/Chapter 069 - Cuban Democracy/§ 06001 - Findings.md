@@ -38,7 +38,7 @@ I, WILLIAM J. CLINTON, President of the United States of America, hereby order:
 
 Section 1. <i>Implementation of the Act</i>. All agencies are hereby directed to take all appropriate measures within their authority, including the promulgation of rules and regulations, to carry out the provisions of the Act.
 
-Sec. 2. <i>Functions of the Department of State</i>. The Secretary of State shall be responsible for implementing sections 1704, 1707, and 1708 of the Act \[22 U.S.C. 6003, 6006, 6007\]. Responsibility for transmitting the certification required by section 1707 and the report required by section 1708 of the Act is delegated to the Secretary of State.
+Sec. 2. <i>Functions of the Department of State</i>. The Secretary of State shall be responsible for implementingsections 1704, 1707, and 1708 of the Act \[22 U.S.C. 6003, 6006, 6007\]. Responsibility for transmitting the certification required by section 1707 and the report required by section 1708 of the Act is delegated to the Secretary of State.
 
 Sec. 3. <i>Functions of the Department of the Treasury</i>. Except as provided in section 4 of this order, the Secretary of the Treasury shall be responsible for implementing sections 1705(b)–(e) and 1706 \[22 U.S.C. 6004(b)–(e), 6005\] of the Act, to the extent that these sections pertain to transactions with Cuba.
 

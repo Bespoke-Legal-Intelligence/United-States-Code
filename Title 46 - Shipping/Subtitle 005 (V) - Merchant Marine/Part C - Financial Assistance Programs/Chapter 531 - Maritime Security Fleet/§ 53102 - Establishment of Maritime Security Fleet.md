@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation, in consultation with the Secretary of Defense, shall establish a fleet of active, commercially viable, militarily useful, privately owned vessels to meet national defense and other security requirements and maintain a United States presence in international commercial shipping. The Fleet shall consist of privately owned, United States-documented vessels for which there are in effect operating agreements under this chapter, and shall be known as the Maritime Security Fleet.
+In General.—The Secretary of Transportation, in consultation with the Secretary of Defense, shall establish a fleet of active, commercially viable, militarily useful, privately owned vessels to meet national defense and other security requirements and maintain a United Statespresence in international commercial shipping. The Fleet shall consist of privately owned, United States-documented vessels for which there are in effect operating agreements under this chapter, and shall be known as the Maritime Security Fleet.
 
 (b)
 
@@ -20,7 +20,7 @@ Vessel Eligibility.—A vessel is eligible to be included in the Fleet if—
 
 &emsp;(4) the vessel—
 
-&emsp;&emsp;(A) is suitable for use by the United States for national defense or military purposes intime of war or national emergency, as determined by the Secretary of Defense; and
+&emsp;&emsp;(A) is suitable for use by the United States for national defense or military purposes in time of war or national emergency, as determined by the Secretary of Defense; and
 
 &emsp;&emsp;(B) is commercially viable, as determined by the Secretary; and
 

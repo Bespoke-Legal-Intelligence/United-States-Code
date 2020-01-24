@@ -10,7 +10,7 @@
 
 #### (A) Activity restrictions
 
-&emsp;&emsp;Notwithstanding any other provision of law, the adequate land use and control measures required to be adopted in an area (or subdivision thereof) pursuant to paragraph (1) may provide, at the discretion of the appropriate State or local authority, for therepair and restoration to predamaged conditions of an agricultural structure that—
+&emsp;&emsp;Notwithstanding any other provision of law, the adequate land use and control measures required to be adopted in an area (or subdivision thereof) pursuant to paragraph (1) may provide, at the discretion of the appropriate State or local authority, for the repair and restoration to predamaged conditions of an agricultural structure that—
 
 &emsp;&emsp;&emsp;(i) is a repetitive loss structure; or
 
@@ -62,7 +62,7 @@
 
 #### (1) Community participation
 
-&emsp;The placement of any mobile home on any site shall not affect the eligibility of any community to participate in the flood insurance program under this chapter and the Flood Disaster Protection Act of 1973 (notwithstanding that such placement may fail to comply with any elevation or flood damage mitigation requirements), if—
+&emsp;The placement of any mobile home on any site shall not affect the eligibility of any community to participate in the flood insurance program under this chapter and the Flood Disaster Protection Act of 1973 (notwithstandingthat such placement may fail to comply with any elevation or flood damage mitigation requirements), if—
 
 &emsp;&emsp;(A) such mobile home was previously located on such site;
 

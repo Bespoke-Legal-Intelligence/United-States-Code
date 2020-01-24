@@ -190,7 +190,7 @@ Management of low emission and energy-efficient vehicles.—In managing the use 
 
 Certification of Low Emission and Energy-Efficient Vehicles.—Not later than 180 days after the date of enactment of this section, the Administrator of the Environmental Protection Agency shall—
 
-&emsp;(1) issue a final rule establishing requirements for certification of vehicles as low emission and energy-efficient vehicles for purposesof this section and requirements for the labeling of the vehicles; and
+&emsp;(1) issue a final rule establishing requirements for certification of vehicles as low emission and energy-efficient vehicles for purposes of this section and requirements for the labeling of the vehicles; and
 
 &emsp;(2) establish guidelines and procedures for making the vehicle comparisons and performance calculations described in subsection (f)(3)(B), in accordance with section 32908(b) of title 49.
 
@@ -284,7 +284,7 @@ Subsec. (b)(5)(B). Pub. L. 114–94, §1411(b)(3)(D)(ii), substituted "2019" for
 
 Subsec. (c)(1). Pub. L. 114–94, §1411(b)(4)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "Tolls may be charged under paragraphs (4) and (5) of subsection (b) notwithstanding section 301 and, except as provided in paragraphs (2) and (3), subject to the requirements of section 129."
 
-Subsec. (c)(2), (3). Pub. L. 114–94, §1411(b)(4)(B), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "Notwithstanding section 129, tolls may be chargedunder paragraphs (4) and (5) of subsection (b) on a HOV facility on the Interstate System."
+Subsec. (c)(2), (3). Pub. L. 114–94, §1411(b)(4)(B), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "Notwithstanding section 129, tolls may be charged under paragraphs (4) and (5) of subsection (b) on a HOV facility on the Interstate System."
 
 Subsec. (d)(1). Pub. L. 114–94, §1411(b)(5)(A), substituted "public authority" for "State agency" in introductory provisions.
 

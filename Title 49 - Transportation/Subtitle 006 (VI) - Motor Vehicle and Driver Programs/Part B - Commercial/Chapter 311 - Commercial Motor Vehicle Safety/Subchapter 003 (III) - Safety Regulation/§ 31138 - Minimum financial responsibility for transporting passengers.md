@@ -6,7 +6,7 @@ General Requirement.—
 
 &emsp;(1)
 
-Transportation of passengers for compensation.—The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability andproperty damage for the transportation of passengers for compensation by motor vehicle in the United States between a place in a State and—
+Transportation of passengers for compensation.—The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability and property damage for the transportation of passengers for compensation by motor vehicle in the United States between a place in a State and—
 
 &emsp;&emsp;(A) a place in another State;
 

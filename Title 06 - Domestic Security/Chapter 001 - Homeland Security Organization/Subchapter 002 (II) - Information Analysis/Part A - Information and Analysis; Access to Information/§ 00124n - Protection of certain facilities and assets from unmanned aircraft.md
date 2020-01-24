@@ -114,7 +114,7 @@ The Secretary and the Attorney General shall submit to Congress, as a part of th
 
 #### (5) Notification
 
-&emsp;Within 30 days of deploying any new technology to carry out the actions described in subsection (b)(1), the Secretary and the Attorney General shall, respectively, submit a notification to the appropriate congressional committees. Such notification shall include a description of options considered to mitigate any identified impacts to the national airspace system related to the use of any system or technology, including the minimization of the use of any technology that disrupts the transmission of radio or electronic signals, for carrying out the actions described in subsection (b)(1).
+&emsp;Within 30 days of deploying any new technology to carry out the actions described insubsection (b)(1), the Secretary and the Attorney General shall, respectively, submit a notification to the appropriate congressional committees. Such notification shall include a description of options considered to mitigate any identified impacts to the national airspace system related to the use of any system or technology, including the minimization of the use of any technology that disrupts the transmission of radio or electronic signals, for carrying out the actions described in subsection (b)(1).
 
 #### (h) Rule of construction
 
@@ -224,7 +224,7 @@ In this section:
 
 &emsp;&emsp;(C) an evaluation of the knowledge of, efficiency of, and effectiveness of current procedures and resources available to owners of critical infrastructure and domestic large hub airports when they believe a threat from unmanned aircraft systems is present and what additional actions, if any, the Department of Homeland Security or the Department of Transportation could implement under existing authorities to assist these entities to counter the threat identified in subparagraph (A);
 
-&emsp;&emsp;(D) an assessment of what, if any, additional authorities are needed by each Department and law enforcement to counterthe threat identified in subparagraph (A); and
+&emsp;&emsp;(D) an assessment of what, if any, additional authorities are needed by each Department and law enforcement to counter the threat identified in subparagraph (A); and
 
 &emsp;&emsp;(E) an assessment of what, if any, additional research and development the Department needs to counter the threat identified in subparagraph (A).
 

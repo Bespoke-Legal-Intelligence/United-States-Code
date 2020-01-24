@@ -16,7 +16,7 @@ The Commission shall transmit to Congress notification—
 
 #### (1) Penalties for late payment
 
-&emsp;The Commission shall by rule prescribe an additional penalty for late payment of fees under section 158 or 159 of this title. Such additional penalty shall be 25 percent of theamount of the fee that was not paid in a timely manner.
+&emsp;The Commission shall by rule prescribe an additional penalty for late payment of feesunder section 158 or 159 of this title. Such additional penalty shall be 25 percent of the amount of the fee that was not paid in a timely manner.
 
 #### (2) Interest on unpaid fees and penalties
 

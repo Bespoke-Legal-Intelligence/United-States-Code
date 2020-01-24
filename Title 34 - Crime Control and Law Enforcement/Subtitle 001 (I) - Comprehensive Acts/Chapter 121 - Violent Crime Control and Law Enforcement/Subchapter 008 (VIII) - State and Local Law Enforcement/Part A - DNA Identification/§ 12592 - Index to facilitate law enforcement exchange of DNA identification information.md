@@ -90,7 +90,7 @@ Section was formerly classified to section 14132 of Title 42, The Public Health 
 
 &emsp;"(A) not later than 2 years after October 30, 2004, have been accredited by a nonprofit professional association of persons actively involved in forensic science that is nationally recognized within the forensic science community; and
 
-&emsp;"(B) undergo external audits, not less than once every 2 years, that demonstrate compliance with standards established by the Director of the Federal Bureau of Investigation; and".
+&emsp;"(B) undergo external audits, not less than once every 2 years, that demonstrate compliance withstandards established by the Director of the Federal Bureau of Investigation; and".
 
 <b>2006</b>—Subsec. (a)(1)(C). Pub. L. 109–162, §1002(1), struck out "DNA profiles from arrestees who have not been charged in an indictment or information with a crime, and" after "provided that".
 

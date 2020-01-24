@@ -20,7 +20,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 &emsp;(i) the testing, in accordance with paragraph (3) and by the manufacturer of an infant formula or an agent of such manufacturer, of each batch of infant formula for each nutrient required by subsection (i) before the distribution of such batch,
 
-&emsp;(ii) regularly scheduled testing, by the manufacturer of an infant formula or an agent of such manufacturer, of samples of infant formulas during the shelf life of such formulas to ensure that such formulas are in compliance with this section,
+&emsp;(ii) regularly scheduled testing, by the manufacturer of an infant formula or an agent of such manufacturer, of samples of infant formulas during the shelf life of such formulas toensure that such formulas are in compliance with this section,
 
 &emsp;(iii) in-process controls including, where necessary, testing required by good manufacturing practices designed to prevent adulteration of each batch of infant formula, and
 

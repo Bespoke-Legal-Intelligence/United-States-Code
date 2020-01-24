@@ -12,5 +12,5 @@ A prior section 1865, Pub. L. 95–372, title VI, §606, Sept. 18, 1978, 92 Stat
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in this section relating to the requirement that the Secretary of the Interior provide a biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 17th item on page 111 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in this section relating to the requirement that theSecretary of the Interior provide a biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 17th item on page 111 of House Document No. 103–7.
 

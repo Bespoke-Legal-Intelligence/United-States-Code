@@ -6,14 +6,18 @@
 | [2502\.](%C2%A7%2002502%20-%20National%20Defense%20Technology%20and%20Industrial%20Base%20Council.md) | National Defense Technology and Industrial Base Council. |
 | [2503\.](%C2%A7%2002503%20-%20National%20defense%20program%20for%20analysis%20of%20the%20technology%20and%20industrial%20base.md) | National defense program for analysis of the technology and industrial base. |
 | [2504\.](%C2%A7%2002504%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| [2504a.](%C2%A7%2002504a%20-%20Unfunded%20priorities%20of%20the%20national%20technology%20and%20industrial%20base%20annual%20report.md) | Unfunded priorities of the national technology and industrial base: annual report. |
 | [2505\.](%C2%A7%2002505%20-%20National%20technology%20and%20industrial%20base%20periodic%20defense%20capability%20assessments.md) | National technology and industrial base: periodic defense capability assessments. |
 | [2506\.](%C2%A7%2002506%20-%20Department%20of%20Defense%20technology%20and%20industrial%20base%20policy%20guidance.md) | Department of Defense technology and industrial base policy guidance. |
 | [2507\.](%C2%A7%2002507%20-%20Data%20collection%20authority%20of%20President.md) | Data collection authority of President. |
 | [2508\.](%C2%A7%2002508%20-%20Industrial%20Base%20Fund.md) | Industrial Base Fund |
+| [2509\.](%C2%A7%2002509%20-%20Modernization%20of%20acquisition%20processes%20to%20ensure%20integrity%20of%20industrial%20base.md) | Modernization of acquisition processes to ensure integrity of industrial base. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title VIII, §§845(b), 846(c)(2), Dec. 19, 2019, 133 Stat. 1503, 1505, added items 2504a and 2509.
 
 <b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(g)(2), Dec. 12, 2017, 131 Stat. 1601, amended directory language of Pub. L. 111–383, §896(b)(2). See 2011 Amendment note below.
 
@@ -36,7 +40,9 @@ Pub. L. 104–106, div. A, title X, §1081(i)(1), Feb. 10, 1996, 110 Stat. 455, 
 - [&sect; 02502 - National Defense Technology and Industrial Base Council](%C2%A7%2002502%20-%20National%20Defense%20Technology%20and%20Industrial%20Base%20Council.md)
 - [&sect; 02503 - National defense program for analysis of the technology and industrial base](%C2%A7%2002503%20-%20National%20defense%20program%20for%20analysis%20of%20the%20technology%20and%20industrial%20base.md)
 - [&sect; 02504 - Annual report to Congress](%C2%A7%2002504%20-%20Annual%20report%20to%20Congress.md)
+- [&sect; 02504a - Unfunded priorities of the national technology and industrial base annual report](%C2%A7%2002504a%20-%20Unfunded%20priorities%20of%20the%20national%20technology%20and%20industrial%20base%20annual%20report.md)
 - [&sect; 02505 - National technology and industrial base periodic defense capability assessments](%C2%A7%2002505%20-%20National%20technology%20and%20industrial%20base%20periodic%20defense%20capability%20assessments.md)
 - [&sect; 02506 - Department of Defense technology and industrial base policy guidance](%C2%A7%2002506%20-%20Department%20of%20Defense%20technology%20and%20industrial%20base%20policy%20guidance.md)
 - [&sect; 02507 - Data collection authority of President](%C2%A7%2002507%20-%20Data%20collection%20authority%20of%20President.md)
 - [&sect; 02508 - Industrial Base Fund](%C2%A7%2002508%20-%20Industrial%20Base%20Fund.md)
+- [&sect; 02509 - Modernization of acquisition processes to ensure integrity of industrial base](%C2%A7%2002509%20-%20Modernization%20of%20acquisition%20processes%20to%20ensure%20integrity%20of%20industrial%20base.md)

@@ -78,7 +78,7 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 &emsp;(E) the powerplant has the capability to use synthetic fuels derived from coal or other alternate fuel.
 
-(2) The Secretary shall, from time to time, review each exemption granted to a powerplant under this subsection, and shall terminate such exemption if he finds that there is available asupply of synthetic fuel derived from coal or other alternate fuel suitable for use as a primary energy source by such powerplant.
+(2) The Secretary shall, from time to time, review each exemption granted to a powerplant under this subsection, and shall terminate such exemption if he finds that there is available a supply of synthetic fuel derived from coal or other alternate fuel suitable for use as a primary energy source by such powerplant.
 
 #### (h) Permanent exemption for use of natural gas by certain powerplants with capacities of less than 250 million Btu's per hour
 

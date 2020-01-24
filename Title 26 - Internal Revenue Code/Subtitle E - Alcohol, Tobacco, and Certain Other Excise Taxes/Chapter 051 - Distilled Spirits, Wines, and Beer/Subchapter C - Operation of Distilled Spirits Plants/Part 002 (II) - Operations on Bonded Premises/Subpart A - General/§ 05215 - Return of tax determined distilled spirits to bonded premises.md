@@ -58,7 +58,7 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 91–659 effective on first day of first calendar month which begins more than 90 daysafter January 8, 1971, see section 6 of Pub. L. 91–659, set out as an Effective Date note under section 5066 of this title.
+Amendment by Pub. L. 91–659 effective on first day of first calendar month which begins more than 90 days after January 8, 1971, see section 6 of Pub. L. 91–659, set out as an Effective Date note under section 5066 of this title.
 
 #### Effective Date of 1965 Amendment
 

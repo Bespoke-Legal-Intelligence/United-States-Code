@@ -18,7 +18,7 @@ The museum operated by the Department of Energy and currently located at Buildin
 
 &emsp;(B) provide to volunteers incidental expenses, such as nominal awards, uniforms, and transportation.
 
-(2) Except as provided in paragraphs (3) and (4), a volunteer who is not otherwise employed by the Federal Government is not subject to laws relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, because of service as a volunteer under this subsection.
+(2) Except as provided in paragraphs (3) and (4), a volunteer who is not otherwise employedby the Federal Government is not subject to laws relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, because of service as a volunteer under this subsection.
 
 (3) For purposes of chapter 171 of title 28 (relating to tort claims), a volunteer under this subsection is considered a Federal employee.
 
@@ -34,7 +34,7 @@ The museum operated by the Department of Energy and currently located at Buildin
 
 &emsp;(C) exhibit, perform, display, and publish information and materials concerning museum mementos, items, memorabilia, and replicas thereof in any media or place anywhere in the world, at reasonable fees or charges where feasible and appropriate, to substantially cover costs.
 
-(2) The net proceeds of activities authorized under subparagraphs (B) and (C) of paragraph (1)may be used by the National Atomic Museum for activities of the museum.
+(2) The net proceeds of activities authorized under subparagraphs (B) and (C) of paragraph (1) may be used by the National Atomic Museum for activities of the museum.
 
 #### (d) Recognition and status of National Atomic Testing Museum
 

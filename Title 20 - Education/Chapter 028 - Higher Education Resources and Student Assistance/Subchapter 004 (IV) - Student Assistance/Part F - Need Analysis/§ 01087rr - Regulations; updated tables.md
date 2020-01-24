@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For each academic year after academic year 2008–2009, the Secretary shall publish in the Federal Register a revised table of income protection allowances for the purpose of sections 1087oo(c)(4) and 1087qq(b)(4) of this title, subject to subparagraphs (B) and (C).
+&emsp;&emsp;For each academic year after academic year 2008–2009, the Secretary shall publish inthe Federal Register a revised table of income protection allowances for the purpose of sections 1087oo(c)(4) and 1087qq(b)(4) of this title, subject to subparagraphs (B) and (C).
 
 #### (B) Table for independent students
 
@@ -68,7 +68,7 @@ As used in this section, the term "Consumer Price Index" means the Consumer Pric
 
 #### (g) State and other tax allowance
 
-For each award year after award year 1993–1994, the Secretary shall publish in the Federal Register a revised table of State and other tax allowances for the purpose of sections 1087oo(c)(2), 1087oo(g)(3), 1087pp(b)(2), and1087qq(b)(2) of this title. The Secretary shall develop such revised table after review of the Department of the Treasury's Statistics of Income file and determination of the percentage of income that each State's taxes represent.
+For each award year after award year 1993–1994, the Secretary shall publish in the Federal Register a revised table of State and othertax allowances for the purpose of sections 1087oo(c)(2), 1087oo(g)(3), 1087pp(b)(2), and 1087qq(b)(2) of this title. The Secretary shall develop such revised table after review of the Department of the Treasury's Statistics of Income file and determination of the percentage of income that each State's taxes represent.
 
 #### (h) Employment expense allowance
 

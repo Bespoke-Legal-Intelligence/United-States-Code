@@ -16,7 +16,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;(B) assisted with tenant-based assistance under section 1437f of this title;
 
-&emsp;&emsp;(C) in housing that is provided project-based assistance under section 1437f of this title, including new construction and substantial rehabilitation projects;
+&emsp;&emsp;(C) in housing that is provided project-based assistance under section 1437f of thistitle, including new construction and substantial rehabilitation projects;
 
 &emsp;&emsp;(D) in housing that is assisted under section 1701q of title 12 (as amended by section 801 of the Cranston-Gonzalez National Affordable Housing Act);
 

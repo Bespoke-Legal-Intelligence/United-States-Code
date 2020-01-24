@@ -156,7 +156,7 @@ Definitions.—For the purposes of this section:
 
 "(g)
 
-Allocation of Funds.—Any amount otherwise available for fiscal year 1997, 1998, or 1999 to carry out section 4102A(b)(5) of title 38, United States Code, with respect to a State designated by the Secretary of Labor pursuant to subsection (d) shall be available to carry out the pilot program during that fiscal year with respect to that State.
+Allocation of Funds.—Any amount otherwise available for fiscal year 1997, 1998, or 1999 to carry out section 4102A(b)(5) of title 38, United States Code, withrespect to a State designated by the Secretary of Labor pursuant to subsection (d) shall be available to carry out the pilot program during that fiscal year with respect to that State.
 
 "(h)
 

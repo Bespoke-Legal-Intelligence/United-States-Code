@@ -124,7 +124,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (8) Regulatory practices
 
-&emsp;The principal negotiating objectives of the United States regarding the use of government regulation or other practices by foreign governments to provide a competitive advantage to their domestic producers, service providers, or investors and thereby reduce market access for United States goods, services, and investments are—
+&emsp;The principal negotiating objectives of the United States regarding the use of government regulation or other practices by foreign governments to provide a competitive advantageto their domestic producers, service providers, or investors and thereby reduce market access for United States goods, services, and investments are—
 
 &emsp;&emsp;(A) to achieve increased transparency and opportunity for the participation of affected parties in the development of regulations;
 
@@ -234,11 +234,11 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(B) to seek to strengthen the capacity of the Trade Policy Review Mechanism of the World Trade Organization to review compliance with commitments;
 
-&emsp;&emsp;(C) to seek adherence by panels convened under the Dispute Settlement Understandingand by the Appellate Body to the standard of review applicable under the Uruguay Round Agreement involved in the dispute, including greater deference, where appropriate, to the fact-finding and technical expertise of national investigating authorities;
+&emsp;&emsp;(C) to seek adherence by panels convened under the Dispute Settlement Understanding and by the Appellate Body to the standard of review applicable under the Uruguay Round Agreement involved in the dispute, including greater deference, where appropriate, to the fact-finding and technical expertise of national investigating authorities;
 
 &emsp;&emsp;(D) to seek provisions encouraging the early identification and settlement of disputes through consultation;
 
-&emsp;&emsp;(E) to seek provisions to encourage the provision of trade-expanding compensation if a party to a dispute under the agreement does not come into compliance with its obligations under the agreement;
+&emsp;&emsp;(E) to seek provisions to encourage the provision of trade-expanding compensation if a party to a dispute under the agreementdoes not come into compliance with its obligations under the agreement;
 
 &emsp;&emsp;(F) to seek provisions to impose a penalty upon a party to a dispute under the agreement that—
 
@@ -298,7 +298,7 @@ In order to address and maintain United States competitiveness in the global eco
 
 &emsp;(7) direct the Secretary of Labor to consult with any country seeking a trade agreement with the United States concerning that country's labor laws and provide technical assistance to that country if needed;
 
-&emsp;(8) in connection with any trade negotiations entered into under this chapter, submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a meaningful labor rights report of the country, or countries, with respect to which the President is negotiating, on a time frame determined in accordance with section 3807(b)(2)(E) of this title;
+&emsp;(8) in connection with any trade negotiations entered into under this chapter, submit to the Committee on Ways and Means of the House of Representatives and the Committeeon Finance of the Senate a meaningful labor rights report of the country, or countries, with respect to which the President is negotiating, on a time frame determined in accordance with section 3807(b)(2)(E) of this title;
 
 &emsp;(9) with respect to any trade agreement which the President seeks to implement under trade authorities procedures, submit to the Congress a report describing the extent to which the country or countries that are parties to the agreement have in effect laws governing exploitative child labor;
 

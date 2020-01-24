@@ -414,7 +414,7 @@ Section 109 of the Ethics in Government Act of 1978, referred to in subsec. (f)(
 
 #### Codification
 
-Section was enacted as part of the Agricultural Act of 2014, and not as part of subtitle H of title XVI of theFood, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+Section was enacted as part of the Agricultural Act of 2014, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
 #### Amendments
 

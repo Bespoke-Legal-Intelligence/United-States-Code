@@ -78,5 +78,5 @@ Pub. L. 115–79, §3, Nov. 2, 2017, 131 Stat. 1259, provided that:
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Asia-Pacific".</i>
 
-<i><sup>2</sup></i><i> So in original. "The" probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

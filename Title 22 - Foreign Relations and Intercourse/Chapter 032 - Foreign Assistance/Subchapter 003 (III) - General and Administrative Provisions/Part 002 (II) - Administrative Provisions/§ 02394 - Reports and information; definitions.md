@@ -86,7 +86,7 @@ Subsec. (a)(1)(B). Pub. L. 97–113, §733(2), struck out "the progress developi
 
 Subsec. (a)(2)(F). Pub. L. 97–113, §733(3), added subpar. (F).
 
-Subsec. (a)(4). Pub. L. 97–113, §733(4), struck out requirement that the report include the status of each loan and each contract of guaranty or insurance theretofore made under this chapter, predecessor Acts, or any Act authorizing international security assistance, with respect to which there remained outstanding any unpaid obligation or potential liability, and the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guarantee in connection with any such procurement, theretofore made under the Arms Export Control Act with respect to which there remained outstanding any unpaid obligation or potential liability.
+Subsec. (a)(4). Pub. L. 97–113, §733(4), struck out requirement that the report include the status of each loan and each contract of guaranty or insurance theretofore made under this chapter, predecessor Acts, or any Act authorizing international security assistance, with respect to which there remained outstanding anyunpaid obligation or potential liability, and the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guarantee in connection with any such procurement, theretofore made under the Arms Export Control Act with respect to which there remained outstanding any unpaid obligation or potential liability.
 
 Subsec. (a)(7). Pub. L. 97–113, §733(5), struck out "and" after the semicolon.
 

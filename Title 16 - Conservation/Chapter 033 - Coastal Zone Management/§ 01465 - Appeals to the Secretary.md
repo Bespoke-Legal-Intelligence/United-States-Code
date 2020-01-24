@@ -42,7 +42,7 @@ Not later than 30 days after the date of the filing of an appeal to the Secretar
 
 &emsp;Not later than 15 days after the date of publication of a Federal Register notice explaining why a decision cannot be issued within the 60-day period, the Secretary shall issue a decision.
 
-(Pub. L. 89–454, title III, §319, as added Pub. L. 104–150, §8, June 3, 1996, 110 Stat. 1382; amendedPub. L. 109–58, title III, §381, Aug. 8, 2005, 119 Stat. 737.)
+(Pub. L. 89–454, title III, §319, as added Pub. L. 104–150, §8, June 3, 1996, 110 Stat. 1382; amended Pub. L. 109–58, title III, §381, Aug. 8, 2005, 119 Stat. 737.)
 
 #### References in Text
 

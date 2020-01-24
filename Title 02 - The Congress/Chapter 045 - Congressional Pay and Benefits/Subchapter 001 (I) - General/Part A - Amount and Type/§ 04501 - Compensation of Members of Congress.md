@@ -116,7 +116,7 @@ Period described.—With respect to a House of Congress, the period described in
 
 &emsp;"(3)
 
-Withholding and remittance of amounts from payments held in escrow.—The payroll administrator shall provide for the same withholding and remittance with respect to a payment deposited in an escrow account under paragraph (1) that would apply to the payment if the payment were not subject to paragraph (1).
+Withholding and remittance of amounts from payments held in escrow.—The payroll administrator shall provide for the same withholding andremittance with respect to a payment deposited in an escrow account under paragraph (1) that would apply to the payment if the payment were not subject to paragraph (1).
 
 &emsp;"(4)
 
@@ -140,35 +140,31 @@ Payroll Administrator Defined.—In this section, the 'payroll administrator' of
 
 #### Cost of Living Adjustment
 
-Pub. L. 115–244, div. B, title II, §212, Sept. 21, 2018, 132 Stat. 2946, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2019."
+Pub. L. 116–94, §7, Dec. 20, 2019, 133 Stat. 2536, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2020."
 
-Pub. L. 115–141, §7(a), Mar. 23, 2018, 132 Stat. 351, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2018."
+Similar provisions were contained in the following prior acts:
 
-Pub. L. 114–223, div. C, §175, as added by Pub. L. 114–254, div. A, §101(3), Dec. 10, 2016, 130 Stat. 1012, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2017."
+Pub. L. 115–244, div. B, title II, §212, Sept. 21, 2018, 132 Stat. 2946.
 
-Pub. L. 114–113, §9, Dec. 18, 2015, 129 Stat. 2245, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2016."
+Pub. L. 115–141, §7(a), Mar. 23, 2018, 132 Stat. 351.
 
-Pub. L. 113–235, §8, Dec. 16, 2014, 128 Stat. 2133, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 610(a) \[probably should be "601(a)"\] of the Legislative Reorganization Act of 1946 (2 U.S.C. 31) \[now 2 U.S.C. 4501\] (relating to cost of living adjustments for Members of Congress) during fiscal year 2015."
+Pub. L. 114–223, div. C, §175, as added by Pub. L. 114–254, div. A, §101(3), Dec. 10, 2016, 130 Stat. 1012.
 
-Pub. L. 113–46, div. A, §146, Oct. 17, 2013, 127 Stat. 565, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 610(a) \[probably should be "601(a)"\] of the Legislative Reorganization Act of 1946 (2 U.S.C. 31) \[now 2 U.S.C. 4501\] (relating to cost of living adjustments for Members of Congress) during fiscal year 2014."
+Pub. L. 114–113, §9, Dec. 18, 2015, 129 Stat. 2245.
 
-Pub. L. 112–240, title VIII, §802, Jan. 2, 2013, 126 Stat. 2369, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31) \[now 2 U.S.C. 4501\] (relating to cost of living adjustments for Members of Congress) during fiscal year 2013."
+Pub. L. 113–235, §8, Dec. 16, 2014, 128 Stat. 2133.
 
-Pub. L. 111–165, §1, May 14, 2010, 124 Stat. 1185, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31) \[now 2 U.S.C. 4501\] (relating to cost of living adjustments for Members of Congress) during fiscal year 2011."
+Pub. L. 113–46, div. A, §146, Oct. 17, 2013, 127 Stat. 565.
 
-Pub. L. 111–8, div. J, §103, Mar. 11, 2009, 123 Stat. 988, provided that: "Notwithstanding any provision of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) \[now 2 U.S.C. 4501(2)\], the percentage adjustment scheduled to take effect under any such provision in calendar year 2010 shall not take effect."
+Pub. L. 112–240, title VIII, §802, Jan. 2, 2013, 126 Stat. 2369.
 
-Pub. L. 109–289, div. B, title I, §115, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 12, provided that: "Notwithstanding any other provision of this division \[see Tables for classification\] and notwithstanding section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31\[(2)\]) \[now 2 U.S.C. 4501(2)\], the percentage adjustment scheduled to take effect under such section for 2007 shall not take effect."
+Pub. L. 111–165, §1, May 14, 2010, 124 Stat. 1185.
 
-Pub. L. 103–6, §7, Mar. 4, 1993, 107 Stat. 35, provided that:
+Pub. L. 111–8, div. J, §103, Mar. 11, 2009, 123 Stat. 988.
 
-"(a)
+Pub. L. 109–289, div. B, title I, §115, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 12.
 
-Cost of Living Adjustment.—Notwithstanding section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) \[now 2 U.S.C. 4501(2)\], the cost of living adjustment (relating to pay for Members of Congress) which would become effective under such provision of law during calendar year 1994 shall not take effect.
-
-"(b)
-
-Severability.—If any provision of this Act \[enacting provisions set out as notes under sections 1 and 3304 of Title 26, Internal Revenue Code, and section 352 of Title 45, Railroads, and amending provisions set out as notes under section 3304 of Title 26 and section 352 of Title 45\], or an amendment made by this Act, or the application of such provision to any person or circumstance, is held to be invalid, the remainder of this Act, or an amendment made by this Act, or the application of such provision to other persons or circumstances, shall not be affected."
+Pub. L. 103–6, §7, Mar. 4, 1993, 107 Stat. 35.
 
 #### Annual Rate of Pay Increase for Certain Members of Congress Serving On or After July 1, 1983
 

@@ -20,11 +20,11 @@ The Congress finds and declares that—
 
 &emsp;&emsp;(A) of the national scope of the problems created by the legitimate fears of volunteers about frivolous, arbitrary, or capricious lawsuits;
 
-&emsp;&emsp;(B) the citizens of the United States depend on, and the Federal Government expends funds on, and provides tax exemptions and other consideration to, numerous social programs that depend on the services of volunteers;
+&emsp;&emsp;(B) the citizens of the United States depend on, and the Federal Government expends funds on, and provides tax exemptions and other consideration to, numerous socialprograms that depend on the services of volunteers;
 
 &emsp;&emsp;(C) it is in the interest of the Federal Government to encourage the continued operation of volunteer service organizations and contributions of volunteers because the Federal Government lacks the capacity to carry out all of the services provided by such organizations and volunteers; and
 
-&emsp;&emsp;(D)(i) liability reform for volunteers, will promote the free flow of goods and services, lessen burdens on interstate commerce anduphold constitutionally protected due process rights; and
+&emsp;&emsp;(D)(i) liability reform for volunteers, will promote the free flow of goods and services, lessen burdens on interstate commerce and uphold constitutionally protected due process rights; and
 
 &emsp;&emsp;(ii) therefore, liability reform is an appropriate use of the powers contained in article 1, section 8, clause 3 of the United States Constitution, and the fourteenth amendment to the United States Constitution.
 

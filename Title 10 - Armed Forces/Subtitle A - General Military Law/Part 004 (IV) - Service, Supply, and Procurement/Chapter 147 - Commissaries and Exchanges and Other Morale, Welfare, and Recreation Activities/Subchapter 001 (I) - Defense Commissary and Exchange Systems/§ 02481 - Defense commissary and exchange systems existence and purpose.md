@@ -50,6 +50,32 @@ Another prior section 2481 was renumbered section 2686 of this title.
 
 Subsec. (c)(3), (4). Pub. L. 114–328, §661(a), added pars. (3) and (4).
 
+#### Defense Resale System Matters
+
+Pub. L. 116–92, div. A, title VI, §631(a)–(c), Dec. 20, 2019, 133 Stat. 1429, provided that:
+
+"(a)
+
+In General.—The Under Secretary of Defense for Personnel and Readiness shall, in coordination with the Chief Management Officer of the Department of Defense, maintain oversight of business transformation efforts of the defense commissary system and the exchange stores system in order to ensure the following:
+
+&emsp;"(1) Development of an intercomponent business strategy that maximizes efficiencies and results in a viable defense resale system in the future.
+
+&emsp;"(2) Preservation of patron savings and satisfaction from and in the defense commissary system and exchange stores system.
+
+&emsp;"(3) Sustainment of financial support of the defense commissary and exchange systems for morale, welfare, and recreation (MWR) services of the Armed Forces.
+
+"(b)
+
+Executive Resale Board Advice on Operations of Systems.—The Executive Resale Board of the Department of Defense shall advise the Under Secretary on the implementation of sustainable, complementary operations of the defense commissary system and the exchange stores system.
+
+"(c)
+
+Information Technology Modernization.—The Secretary of Defense shall, acting through the Under Secretary and with advice from the Executive Resale Board, require the Defense Commissary Agency and the Military Exchange Service to do as follows:
+
+&emsp;"(1) Field new technologies and best business practices for information technology for the defense resale system.
+
+&emsp;"(2) Implement cutting-edge marketing opportunities across the defense resale system."
+
 #### Plan To Obtain Budget-Neutrality for the Defense Commissary System and the Military Exchange System
 
 Pub. L. 114–92, div. A, title VI, §651, Nov. 25, 2015, 129 Stat. 854, provided that:
@@ -110,7 +136,7 @@ Required savings to patrons.—The Secretary shall ensure that the level of savi
 
 &emsp;&emsp;"(A) Before commencing a pilot program the Secretary shall establish a baseline of savings to patrons achieved for each commissary or exchange to participate in such pilot program by comparing prices charged by such commissary or exchange for a representative market basket of goods to prices charged by local competitors for the same market basket of goods.
 
-&emsp;&emsp;"(B) After commencement of such pilot program, the Secretary shall ensure that each commissary or exchange, or private sector entity, participating in such pilot program conducts market-basket price comparisons not less than once a month and adjusts pricing as necessary to ensure that pricing achieves savings to patrons under such pilot program that are reasonably consistent with the baseline savings for the commissary or exchange established pursuant to subparagraph (A).
+&emsp;&emsp;"(B) After commencement of such pilot program, the Secretary shall ensure that each commissary orexchange, or private sector entity, participating in such pilot program conducts market-basket price comparisons not less than once a month and adjusts pricing as necessary to ensure that pricing achieves savings to patrons under such pilot program that are reasonably consistent with the baseline savings for the commissary or exchange established pursuant to subparagraph (A).
 
 &emsp;"(4)
 

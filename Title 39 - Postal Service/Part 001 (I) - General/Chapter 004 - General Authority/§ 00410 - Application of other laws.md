@@ -4,7 +4,7 @@
 
 (b) The following provisions shall apply to the Postal Service:
 
-&emsp;(1) section 552 (public information), section 552a (records about individuals), section 552b (open meetings), section 3102 (employment of personal assistants for blind, deaf, or otherwise handicapped employees), section 3110 (restrictions on employment of relatives), section 3333 and chapters 72 (antidiscrimination; right to petition Congress) and 73 (suitability, security, and conduct of employees), section 5520 (withholding city income or employment taxes), and section 5532 <sup>1</sup> (dual pay) of title 5, except that no regulation issued under such chapters or section shall apply to the Postal Service unless expressly made applicable;
+&emsp;(1) section 552 (public information), section 552a (records about individuals), section 552b (open meetings), section 3102 (employment of personal assistants for blind, deaf, or otherwise handicapped employees), section 3110 (restrictions on employment of relatives), section 3333 and chapters 72 (antidiscrimination; right to petition Congress) and 73 (suitability, security, and conduct of employees), section 5520 (withholding city income or employment taxes), and section 5532 <sup>1</sup> (dual pay) of title 5, except that no regulation issued under suchchapters or section shall apply to the Postal Service unless expressly made applicable;
 
 &emsp;(2) all provisions of title 18 dealing with the Postal Service, the mails, and officers or employees of the Government of the United States;
 
@@ -176,7 +176,7 @@ Subsecs. (a), (b)(2) to (6), and (c)(1) to (3), (5), (6) of this section effecti
 
 #### Applicability of Hatch Act Reform Amendments of 1993 to Postal Employees
 
-Pub. L. 103–94, §7, Oct. 6, 1993, 107 Stat. 1005, as amended by Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242, provided that: "The amendments made by this Act \[enacting sections 5520a and 7321 to 7326 of Title 5, Government Organization and Employees, and section 610 of Title 18, Crimes and Criminal Procedure, amending this section, sections 1216, 2302, 3302, and 3303 of Title 5, sections 602 and 603 of Title 18, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of Title 5\] (except for the amendments made by section 8 \[amending sections 2302 and 3303 of Title 5\]),and any regulations thereunder, shall apply with respect to employees of the United States Postal Service and the Postal Regulatory Commission, pursuant to sections 410(b) and 3604(e) \[now 504(e)\] of title 39, United States Code."
+Pub. L. 103–94, §7, Oct. 6, 1993, 107 Stat. 1005, as amended by Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242, provided that: "The amendments made by this Act \[enacting sections 5520a and 7321 to 7326 of Title 5, Government Organization and Employees, and section 610 of Title 18, Crimes and Criminal Procedure, amending this section, sections 1216, 2302, 3302, and 3303 of Title 5, sections 602 and 603 of Title 18, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of Title 5\] (except for the amendments made by section 8 \[amending sections 2302 and 3303 of Title 5\]), and any regulations thereunder, shall apply with respect to employees of the United States Postal Service and the Postal Regulatory Commission, pursuant to sections 410(b) and 3604(e) \[now 504(e)\] of title 39, United States Code."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

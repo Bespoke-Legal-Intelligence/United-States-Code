@@ -6,7 +6,7 @@
 
 &emsp;(1) public announcements of the availability of funds for such grants or contracts, general criteria for the selection of new recipients, and a description of the application process and the application review process; and
 
-&emsp;(2) a requirement that each applicant for any such grant or contract identify, with sufficient particularity to assure that the assignments of volunteers under such grants andcontracts will carry out the purpose of this part, the particular poverty or poverty-related problems on which the grant or contract will focus, and any such grant or contract shall specifically so identify such problems.
+&emsp;(2) a requirement that each applicant for any such grant or contract identify, with sufficient particularity to assure that the assignments of volunteers under such grants and contracts will carry out the purpose of this part, the particular poverty or poverty-related problems on which the grant or contract will focus, and any such grant or contract shall specifically so identify such problems.
 
 (Pub. L. 93–113, title I, §108, as added Pub. L. 94–293, §4(a)(1), May 27, 1976, 90 Stat. 525; amended Pub. L. 96–143, §4, Dec. 13, 1979, 93 Stat. 1075; Pub. L. 98–288, §8, May 21, 1984, 98 Stat. 191; Pub. L. 101–204, title VII, §703, Dec. 7, 1989, 103 Stat. 1821.)
 

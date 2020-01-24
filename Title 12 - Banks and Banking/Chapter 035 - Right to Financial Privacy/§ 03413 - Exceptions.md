@@ -46,7 +46,7 @@ The notice requirements of this chapter and sections 3410 and 3412 of this title
 
 &emsp;(B) nothing in this paragraph prohibits a Government authority providing assistance to a customer in the form of a loan, loan guaranty, or loan insurance agreement from using or transferring financial records necessary to process, service or foreclose a loan, or to collect on an indebtedness to the Government resulting from a customer's default.
 
-(5) Notification that financial records obtained pursuant to this subsection may relate to a potential civil, criminal, or regulatory violation by a customer may be given to an agency or department with jurisdiction over that violation,and such agency or department may then seek access to the records pursuant to the provisions of this chapter.
+(5) Notification that financial records obtained pursuant to this subsection may relate to a potential civil, criminal, or regulatory violation by a customer may be given to an agency or department with jurisdiction over that violation, and such agency or department may then seek access to the records pursuant to the provisions of this chapter.
 
 (6) Each financial institution shall keep a notation of each disclosure made pursuant to paragraph (1)(B) of this subsection, including the date of such disclosure and the Government authority to which it was made. The customer shall be entitled to inspect this information.
 
@@ -68,7 +68,7 @@ This chapter shall not apply when financial records are sought by the Government
 
 &emsp;(B) the investigation or recovery of an improper Federal payment or collection of funds or an improperly negotiated Treasury check.
 
-(3) Notwithstanding any other provision of law, a request authorized by paragraph (1) or (2) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing information contained in the financial records of the customer to the Government authority requesting the information, and the financial institution and its agents shall be barred from redisclosure of such information. Any Government authority receiving information pursuant to paragraph (1) or (2) may not disclose or use the information, except for the purposes set forth in such paragraph.
+(3) Notwithstanding any other provision of law, a request authorized by paragraph (1) or (2) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing informationcontained in the financial records of the customer to the Government authority requesting the information, and the financial institution and its agents shall be barred from redisclosure of such information. Any Government authority receiving information pursuant to paragraph (1) or (2) may not disclose or use the information, except for the purposes set forth in such paragraph.
 
 #### (l) Crimes against financial institutions by insiders
 
@@ -116,7 +116,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (e), are set out
 
 The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The effective date of this chapter, referred to in subsec. (h)(3), is the date upon the expiration of 120 days after Nov. 10, 1978. See section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
+The effective date of this chapter, referred to in subsec. (h)(3), is the date upon the expiration of 120 days after Nov. 10, 1978. See section 2101 of Pub. L. 95–630, setout as an Effective Date note under section 375b of this title.
 
 The Social Security Act, referred to in subsec. (k)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of such Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

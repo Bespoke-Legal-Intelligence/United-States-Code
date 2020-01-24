@@ -26,7 +26,7 @@ Definition.—In this paragraph, the term "Export Assistance Center" has the sam
 
 (3) The Small Business Development Center Program shall be under the general management and oversight of the Administration for the delivery of programs and services to the small business community. Such programs and services shall be jointly developed, negotiated, and agreed upon, with full participation of both parties, pursuant to an executed cooperative agreement between the Small Business Development Center applicant and the Administration.
 
-(A) Small business development centers are authorized to form an association to pursue matters of common concern. If more than a majority of the small business development centers which are operating pursuant to agreements with the Administration are members of such an association, the Administration is authorized and directed to recognize the existence and activities of such an association and to consult with it and develop documents (i) announcing the annual scope of activities pursuant to this section, (ii) requesting proposals to deliver assistance as provided in this section and (iii) governing the general operations and administration of the Small Business Development CenterProgram, specifically including the development of regulations and a uniform negotiated cooperative agreement for use on an annual basis when entering into individual negotiated agreements with small business development centers.
+(A) Small business development centers are authorized to form an association to pursuematters of common concern. If more than a majority of the small business development centers which are operating pursuant to agreements with the Administration are members of such an association, the Administration is authorized and directed to recognize the existence and activities of such an association and to consult with it and develop documents (i) announcing the annual scope of activities pursuant to this section, (ii) requesting proposals to deliver assistance as provided in this section and (iii) governing the general operations and administration of the Small Business Development Center Program, specifically including the development of regulations and a uniform negotiated cooperative agreement for use on an annual basis when entering into individual negotiated agreements with small business development centers.
 
 (B) Provisions governing audits, cost principles and administrative requirements for Federal grants, contracts and cooperative agreements which are included in uniform requirements of Office of Management and Budget (OMB) Circulars shall be incorporated by reference and shall not be set forth in summary or other form in regulations.
 
@@ -78,7 +78,7 @@ Minimum funding level.—The amount of the minimum funding level for each State 
 
 Distributions.—Subject to clause (iii), if any State does not apply for, or use, its full funding eligibility for a fiscal year, the Administration shall distribute the remaining funds as follows:
 
-&emsp;&emsp;&emsp;(I) If the grant to any State is less than the amount received by that State in fiscal year 2000, the Administration shall distribute such remaining funds, on a pro rata basis, based on the percentage of shortage of each such State, as compared to the total amount of such remaining funds available, to the extent necessary in order to increase the amount of the grant to the amount received by that State in fiscal year 2000, or until such funds are exhausted, whichever first occurs.
+&emsp;&emsp;&emsp;(I) If the grant to any State is less than the amount received by that State in fiscal year 2000, the Administration shall distribute such remaining funds, on a pro rata basis, based on the percentage of shortage of each such State, as compared to the total amount of such remainingfunds available, to the extent necessary in order to increase the amount of the grant to the amount received by that State in fiscal year 2000, or until such funds are exhausted, whichever first occurs.
 
 &emsp;&emsp;&emsp;(II) If any funds remain after the application of subclause (I), the remaining amount may be distributed as supplemental grants to any State, as the Administration determines, in its discretion, to be appropriate, after consultation with the association referred to in subsection (a)(3)(A).
 
@@ -156,7 +156,7 @@ Privacy requirements.—
 
 In general.—A small business development center, consortium of small business development centers, or contractor or agent of a small business development center may not disclose the name, address, or telephone number of any individual or small business concern receiving assistance under this section without the consent of such individual or small business concern, unless—
 
-&emsp;&emsp;(i) the Administrator is ordered to make such a disclosure by a court in any civil orcriminal enforcement action initiated by a Federal or State agency; or
+&emsp;&emsp;(i) the Administrator is ordered to make such a disclosure by a court in any civil or criminal enforcement action initiated by a Federal or State agency; or
 
 &emsp;&emsp;(ii) the Administrator considers such a disclosure to be necessary for the purpose of conducting a financial audit of a small business development center, but a disclosure under this clause shall be limited to the information necessary for such audit.
 
@@ -240,7 +240,7 @@ Continuity of services.—A small business development center that provides coun
 
 &emsp;&emsp;(iv)
 
-Access to disaster recovery facilities.—For purposes of this subparagraph, the Administrator shall, to the maximum extent practicable, permit the personnel of a small business development center to use any site or facility designated by the Administrator for use to provide disaster recovery assistance.
+Access to disaster recovery facilities.—For purposes of this subparagraph,the Administrator shall, to the maximum extent practicable, permit the personnel of a small business development center to use any site or facility designated by the Administrator for use to provide disaster recovery assistance.
 
 #### (c) Problem-solving assistance; development center extension services; staff and access requirements; assistance services; changing services for evolving needs; qualified small business vendors; non-profit entities; cooperation with regional and local offices, etc.; information sharing system
 
@@ -288,9 +288,9 @@ Access to disaster recovery facilities.—For purposes of this subparagraph, the
 
 &emsp;(E) working closely with the small business community, small business consultants, State agencies, universities and other appropriate groups to make translation services more readily available to small business firms doing business, or attempting to develop business, in foreign markets;
 
-&emsp;(F) in providing assistance under this subsection, applicants shall cooperate with the Department of Commerce and other relevant Federal agencies to increase access to available export market information systems, including the CIMS system;
+&emsp;(F) in providing assistance under this subsection, applicants shall cooperate with theDepartment of Commerce and other relevant Federal agencies to increase access to available export market information systems, including the CIMS system;
 
-&emsp;(G) assisting small businesses to develop and implement strategic business plans to timelyand effectively respond to the planned closure (or reduction) of a Department of Defense facility within the community, or actual or projected reductions in such firms' business base due to the actual or projected termination (or reduction) of a Department of Defense program or a contract in support of such program—
+&emsp;(G) assisting small businesses to develop and implement strategic business plans to timely and effectively respond to the planned closure (or reduction) of a Department of Defense facility within the community, or actual or projected reductions in such firms' business base due to the actual or projected termination (or reduction) of a Department of Defense program or a contract in support of such program—
 
 &emsp;&emsp;(i) by developing broad economic assessments of the adverse impacts of—
 
@@ -442,7 +442,7 @@ The National Aeronautics and Space Administration and regional technology transf
 
 #### (A) In general
 
-&emsp;&emsp;In extending or renewing a cooperative agreement of a small business development center, the Administration shall considerthe results of the examination and accreditation program conducted pursuant to paragraphs (1) and (2).
+&emsp;&emsp;In extending or renewing a cooperative agreement of a small business development center, the Administration shall consider the results of the examination and accreditation program conducted pursuant to paragraphs (1) and (2).
 
 #### (B) Accreditation requirement
 
@@ -494,7 +494,7 @@ The General Schedule, referred to in subsecs. (h)(1) and (i)(2), is set out unde
 
 #### Codification
 
-October 22, 1994, referred to in subsec. (k)(1), was in the original "the date of enactment of this subsection",which was translated as meaning the date of enactment of Pub. L. 103–403, which amended subsec. (k) generally, to reflect the probable intent of Congress.
+October 22, 1994, referred to in subsec. (k)(1), was in the original "the date of enactment of this subsection", which was translated as meaning the date of enactment of Pub. L. 103–403, which amended subsec. (k) generally, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -620,7 +620,7 @@ Subsec. (k). Pub. L. 103–403, §404, amended subsec. (k) generally. Prior to a
 
 Subsec. (c)(3)(D) to (G). Pub. L. 102–366, §212, redesignated former subpars. (E) to (G) as (D) to (F), respectively, added subpar. (G), and struck out former subpar. (D) which read as follows: "assisting small businesses in developing and implementing marketing and production strategies that will enable them to better compete within the domestic market;".
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–515, §6, struck out period at end of first sentence and inserted ": <i>Provided</i>, That after December 31, 1990, the Administration shall not make a grant to any applicant other than an institution of higher education as a Small Business Development Center unless the applicant was receiving a grant (including a contract or cooperative agreement) on such date. The Administration shall require any applicant for a small business development center grant with performance commencing on or after January 1,1992 to have its own budget and to primarily utilize institutions of higher education to provide services to the small business community."
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–515, §6, struck out period at end of first sentence and inserted ": <i>Provided</i>, That after December 31, 1990, the Administration shall not make a grant to any applicant other than an institution of higher education as a Small Business Development Center unless the applicant was receiving a grant (including a contract or cooperative agreement) on such date. The Administration shall require any applicant for a small business development center grant with performance commencing on or after January 1, 1992 to have its own budget and to primarily utilize institutions of higher education to provide services to the small business community."
 
 Subsec. (a)(4). Pub. L. 101–515, §5(a), and Pub. L. 101–574, §201(a)(1), amended par. (4) identically, substituting "<i>Provided further</i>, That no recipient of funds under this section shall receive a grant which would exceed its pro rata share of a $70,000,000 program based upon the population to be served by the Small Business Development Center as compared to the total population of the United States, plus $100,000 for each State, but no State shall receive less than $200,000." for "<i>Provided further</i>, That no recipient of funds under this section shall receive a grant which would exceed its pro rata share of a $65,000,000 program based upon the population to be served by the Small Business Development Center as compared to the total population in the United States, or $200,000, whichever is greater."
 
@@ -682,7 +682,7 @@ Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29,
 
 Pub. L. 101–574, title II, §201(a)(2), Nov. 15, 1990, 104 Stat. 2818, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to contracts, grants, or cooperative agreements for performance commencing on or after October 1, 1991. Contracts, grants, or cooperative agreements the performance of which commences before October 1, 1991, shall receive funding for the entire term of performance without regard to the amendment made by paragraph (1) and according to the State's pro rata share of a $65,000,000 program as computed on the effective date of this section \[Nov. 15, 1990\] under population estimates used for calendar year 1990 agreements, plus $50,000 for each State, but no State shall receive less than $200,000."
 
-Pub. L. 101–515, title V, §5(c), Nov. 5, 1990, 104 Stat. 2142, provided that: "The amendments to the second proviso in subsection (a)(4) \[15 U.S.C. 648(a)(4)\] made by subsection (a) of this section shall apply to contracts, grants or cooperative agreements for performance commencing on or after October 1, 1991; contracts, grants or cooperative agreements for performance commencing prior thereto shall receive funding for the entire term of performance without regard to this amendment and according to the State's pro rata share of a $65,000,000 program as computed on the effective date of this section \[Nov. 5, 1990\] under population estimates used for calendar year 1990 agreements, plus $50,000 for each State, but no State shall receive less than $200,000."
+Pub. L. 101–515, title V, §5(c), Nov. 5, 1990, 104 Stat. 2142, provided that: "The amendments to the second proviso in subsection (a)(4) \[15 U.S.C. 648(a)(4)\] made by subsection (a) of this section shall apply to contracts, grants or cooperative agreements for performance commencing on or after October 1, 1991; contracts, grants or cooperative agreements for performance commencing prior thereto shall receive funding for the entire term of performance without regard to this amendment and according to the State's pro rata share of a $65,000,000program as computed on the effective date of this section \[Nov. 5, 1990\] under population estimates used for calendar year 1990 agreements, plus $50,000 for each State, but no State shall receive less than $200,000."
 
 #### Effective and Termination Dates
 

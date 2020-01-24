@@ -26,7 +26,7 @@ Another prior section 921 of Pub. L. 90–321 was renumbered section 923 and is 
 
 <b>2010</b>—Pub. L. 111–203, §1084(1), substituted "Bureau" for "Board" wherever appearing.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–375 struck out requirement that the Attorney General make a report on thesame terms as the Board, and that such report also contain an analysis of the impact of this subchapter on the operation, workload, and efficiency of the Federal courts, and substituted "necessary and appropriate" for "necessary or appropriate".
+<b>1982</b>—Subsec. (a). Pub. L. 97–375 struck out requirement that the Attorney General make a report on the same terms as the Board, and that such report also contain an analysis of the impact of this subchapter on the operation, workload, and efficiency of the Federal courts, and substituted "necessary and appropriate" for "necessary or appropriate".
 
 #### Effective Date of 2010 Amendment
 

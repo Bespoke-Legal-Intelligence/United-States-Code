@@ -14,7 +14,7 @@ Discrimination.—For purposes of any action arising under section 411 (or any a
 
 &emsp;(2)
 
-Mixed cases.—In the case of any covered employee (within the meaning of section 411) who has been affected by an action which an employee of an executive agency may appeal to the Board and who alleges that a basis for the action was discrimination prohibited bysection 411 (or any action alleging intimidation, reprisal, or discrimination under section 417 relating to any practice made unlawful under section 411), the initial appropriate agency shall be the Board, and such matter shall thereafter be processed in accordance with section 7702(a)–(d) (disregarding paragraph (2) of such subsection (a)) and (f) of title 5.
+Mixed cases.—In the case of any covered employee (within the meaning of section 411) who has been affected by an action which an employee of an executive agency may appeal to the Board and who alleges that a basis for the action was discrimination prohibited by section 411 (or any action alleging intimidation, reprisal, or discrimination under section 417 relating to any practice made unlawful under section 411), the initial appropriate agency shall be the Board, and such matter shall thereafter be processed in accordance with section 7702(a)–(d) (disregarding paragraph (2) of such subsection (a)) and (f) of title 5.
 
 &emsp;(3)
 

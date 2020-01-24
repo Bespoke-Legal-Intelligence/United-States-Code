@@ -118,7 +118,7 @@ The Secretary, in concert with the responsible State agencies, shall conduct an 
 
 #### (2) Grant recipients
 
-&emsp;Not later than 90 days after the completion of a specific rehabilitation project for which assistance is provided under this section, the local organization that received the assistance shall make a report to the Secretary giving the status of any rehabilitation effort undertaken using financial assistance provided under this section.
+&emsp;Not later than 90 days after the completion of a specific rehabilitation project for whichassistance is provided under this section, the local organization that received the assistance shall make a report to the Secretary giving the status of any rehabilitation effort undertaken using financial assistance provided under this section.
 
 (Aug. 4, 1954, ch. 656, §14, as added Pub. L. 106–472, title III, §313, Nov. 9, 2000, 114 Stat. 2077; amended Pub. L. 107–171, title II, §2505, May 13, 2002, 116 Stat. 274; Pub. L. 110–234, title II, §2803, May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, §4(a), title II, §2803, June 18, 2008, 122 Stat. 1664, 1814; Pub. L. 113–79, title II, §2505, Feb. 7, 2014, 128 Stat. 752; Pub. L. 115–334, title II, §2401(b), Dec. 20, 2018, 132 Stat. 4570.)
 

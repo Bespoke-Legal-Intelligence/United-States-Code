@@ -6,7 +6,7 @@ The Administrator of General Services shall make such repairs and alterations as
 
 #### (b) Authorization of appropriation
 
-There is authorized to be appropriated to the Administrator of General Services $25,000,000 from the fund established pursuant to section 592 of title 40 to carry out this section and section 80q–5(b)(2)(B) of this title.
+There is authorized to be appropriated to the Administrator of General Services $25,000,000from the fund established pursuant to section 592 of title 40 to carry out this section and section 80q–5(b)(2)(B) of this title.
 
 (Pub. L. 101–185, §8, Nov. 28, 1989, 103 Stat. 1341.)
 

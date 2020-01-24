@@ -58,7 +58,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 &emsp;&emsp;&emsp;(IV) detention officers;
 
-&emsp;&emsp;&emsp;(V) executive personnel, including special agents in charge, and directors anddeputies of various offices in the Office of Justice Services; and
+&emsp;&emsp;&emsp;(V) executive personnel, including special agents in charge, and directors and deputies of various offices in the Office of Justice Services; and
 
 &emsp;&emsp;&emsp;(VI) tribal court judges, prosecutors, public defenders, appointed defense counsel, or related staff; and
 
@@ -104,7 +104,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 #### (C) Training at State, tribal, and local academies
 
-&emsp;&emsp;Law enforcement personnel of the Office of Justice Services or an Indian tribe may satisfy the training standards established under subparagraph (A) through training at a State or tribal police academy, a State, regional, local, or tribal college or university, or other training academy (including any program at a State, regional, local, or tribalcollege or university) that meets the appropriate Peace Officer Standards of Training.
+&emsp;&emsp;Law enforcement personnel of the Office of Justice Services or an Indian tribe may satisfy the training standards established under subparagraph (A) through training at a State or tribal police academy, a State, regional, local, or tribal college or university, or other training academy (including any program at a State, regional, local, or tribal college or university) that meets the appropriate Peace Officer Standards of Training.
 
 #### (D) Maximum age requirement
 
@@ -138,7 +138,7 @@ Not later than 1 year after July 29, 2010, the Secretary, acting through the Bur
 
 &emsp;(2) an assessment and consideration of the construction of Federal detention facilities in Indian country; and
 
-&emsp;(3) any other alternatives as the Secretary, in coordination with the Attorney General and in consultation with Indian tribes, determines to be necessary.
+&emsp;(3) any other alternatives as the Secretary, in coordination with the Attorney General andin consultation with Indian tribes, determines to be necessary.
 
 (Pub. L. 101–379, §3, Aug. 18, 1990, 104 Stat. 473; Pub. L. 111–211, title II, §§211(b), 231(a), 262, July 29, 2010, 124 Stat. 2264, 2272, 2299.)
 

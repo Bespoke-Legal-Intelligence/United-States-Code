@@ -30,5 +30,9 @@ Section 1441a(r)(4) of this title, referred to in subsec. (b), was repealed by P
 
 <b>2009</b>—Subsec. (b). Pub. L. 111–5 inserted "and individuals with disabilities and businesses owned by individuals with disabilities (for purposes of this subsection the term 'individual with disability' has the same meaning as the term 'handicapped individual' as that term is defined in section 632(f) of title 15)," after "section 1441a(r)(4) of this title),".
 
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

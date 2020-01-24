@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) violated the Convention, this chapter, or any regulation prescribed under this chapter, is liable to the United States Government for a civil penalty of not more than $37,500 for each violation; or
 
-&emsp;&emsp;(B) made a false, fictitious, or fraudulent statement or representation in any matter in which a statement or representation is required to be made to the Secretary under the Convention, this chapter, or any regulations prescribed under this chapter, is liable to the United States for a civil penalty of not more than $50,000 for each such statement or representation.
+&emsp;&emsp;(B) made a false, fictitious, or fraudulent statement or representation in any matter in which a statement or representation is required to be made to the Secretary under theConvention, this chapter, or any regulations prescribed under this chapter, is liable to the United States for a civil penalty of not more than $50,000 for each such statement or representation.
 
 #### (2) Relationship to other law
 

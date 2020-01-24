@@ -22,7 +22,7 @@ In this section, the term "General Counsel of the House of Representatives" mean
 
 The provisions of this section shall become effective beginning with September 29, 1999.
 
-(Pub. L. 106–57, title I, §101, Sept. 29, 1999, 113 Stat. 414; Pub. L. 107–273, div. A, title II,§202(b)(5), Nov. 2, 2002, 116 Stat. 1775; Pub. L. 108–7, div. H, title I, §110(a), Feb. 20, 2003, 117 Stat. 355.)
+(Pub. L. 106–57, title I, §101, Sept. 29, 1999, 113 Stat. 414; Pub. L. 107–273, div. A, title II, §202(b)(5), Nov. 2, 2002, 116 Stat. 1775; Pub. L. 108–7, div. H, title I, §110(a), Feb. 20, 2003, 117 Stat. 355.)
 
 #### Codification
 

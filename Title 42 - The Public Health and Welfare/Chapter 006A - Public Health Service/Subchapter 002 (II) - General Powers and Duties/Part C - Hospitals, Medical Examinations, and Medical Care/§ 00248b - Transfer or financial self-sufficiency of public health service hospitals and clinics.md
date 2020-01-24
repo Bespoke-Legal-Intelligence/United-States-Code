@@ -30,7 +30,7 @@ Paragraph (1) shall not apply in the case of a proposal for the transfer of a di
 
 &emsp;(B) to bring the hospital or station into compliance with applicable licensure, accreditation, and local medical practice standards, and
 
-&emsp;(C) to provide for such other legal, administrative, personnel, and financial arrangements (including allowing payments made with respect to services provided by the hospital or station to be made directly to that hospital orstation) as may be necessary to effect a timely and orderly transfer of such hospital or station (including the land, building, and equipment thereof) from the Service, or for the financial self-sufficiency of the hospital or station, not later than September 30, 1982.
+&emsp;(C) to provide for such other legal, administrative, personnel, and financial arrangements (including allowing payments made with respect to services provided by the hospital or station to be made directly to that hospital or station) as may be necessary to effect a timely and orderly transfer of such hospital or station (including the land, building, and equipment thereof) from the Service, or for the financial self-sufficiency of the hospital or station, not later than September 30, 1982.
 
 #### (e) Establishment of identifiable administrative unit
 

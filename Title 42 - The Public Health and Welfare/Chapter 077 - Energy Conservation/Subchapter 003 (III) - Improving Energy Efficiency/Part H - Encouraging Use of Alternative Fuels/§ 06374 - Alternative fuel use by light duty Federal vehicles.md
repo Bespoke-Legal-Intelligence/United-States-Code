@@ -44,7 +44,7 @@
 
 (B) The Secretary shall provide a report on the results of the study conducted under subparagraph (A) to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate, and the Committee on Energy and Commerce of the House of Representatives, within one year after the first such vehicles are acquired.
 
-(2)(A) The Secretary and the Administrator of the General Services Administration shall conduct a study of the advisability, feasibility, and timing of the disposal of vehicles acquired under subsection (a) and any problems of such disposal. Such study shall take into account existing laws governing the sale of Government vehicles and shall specifically focus on when to sell such vehicles and what price to charge, without compromising studies of the use of such vehicles authorized under this part.
+(2)(A) The Secretary and the Administrator of the General Services Administration shall conduct a study of the advisability, feasibility, andtiming of the disposal of vehicles acquired under subsection (a) and any problems of such disposal. Such study shall take into account existing laws governing the sale of Government vehicles and shall specifically focus on when to sell such vehicles and what price to charge, without compromising studies of the use of such vehicles authorized under this part.
 
 (B) The Secretary and the Administrator of the General Services Administration shall report the results of the study conducted under subparagraph (A) to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate, and the Committee on Energy and Commerce of the House of Representatives, within 12 months after funds are appropriated for carrying out this section.
 
@@ -114,7 +114,7 @@ For purposes of this part—
 
 (1) For the purposes of this section, there are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 1998, to remain available until expended.
 
-(2) The authority of the Secretary to obligate amounts to be expended under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
+(2) The authority of the Secretary to obligate amounts to be expended under this section shallbe effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
 (Pub. L. 94–163, title III, §400AA, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2442; amended Pub. L. 102–486, title III, §§302(a), 309, Oct. 24, 1992, 106 Stat. 2868, 2874; Pub. L. 104–66, title I, §§1051(a), 1052(e), Dec. 21, 1995, 109 Stat. 716, 718; Pub. L. 105–388, §5(a)(14), Nov. 13, 1998, 112 Stat. 3479; Pub. L. 106–36, title I, §1002(h), June 25, 1999, 113 Stat. 134; Pub. L. 109–58, title VII, §701, Aug. 8, 2005, 119 Stat. 814.)
 

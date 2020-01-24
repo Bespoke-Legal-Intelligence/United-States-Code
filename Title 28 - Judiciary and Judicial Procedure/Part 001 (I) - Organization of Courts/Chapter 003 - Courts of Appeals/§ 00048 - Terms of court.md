@@ -20,13 +20,13 @@
 | Eleventh | Atlanta, Jacksonville, Montgomery. |
 | Federal | District of Columbia, and in any other place listed above as the court by rule directs. |
 
-(b) Each court of appeals may hold special sessions at any place within its circuit as the nature of the business may require, and upon such notice as the court orders. The court may transact any business at a special session which it might transact at a regular session.
+(b) Each court of appeals may hold special sessions at any place within its circuit as the nature of the business may require, and upon suchnotice as the court orders. The court may transact any business at a special session which it might transact at a regular session.
 
 (c) Any court of appeals may pretermit any regular session of court at any place for insufficient business or other good cause.
 
 (d) The times and places of the sessions of the Court of Appeals for the Federal Circuit shall be prescribed with a view to securing reasonable opportunity to citizens to appear before the court with as little inconvenience and expense to citizens as is practicable.
 
-(e) Each court of appeals may hold special sessions at any place within the United States outside the circuit as the nature of the businessmay require and upon such notice as the court orders, upon a finding by either the chief judge of the court of appeals (or, if the chief judge is unavailable, the most senior available active judge of the court of appeals) or the judicial council of the circuit that, because of emergency conditions, no location within the circuit is reasonably available where such special sessions could be held. The court may transact any business at a special session outside the circuit which it might transact at a regular session.
+(e) Each court of appeals may hold special sessions at any place within the United States outside the circuit as the nature of the business may require and upon such notice as the court orders, upon a finding by either the chief judge of the court of appeals (or, if the chief judge is unavailable, the most senior available active judge of the court of appeals) or the judicial council of the circuit that, because of emergency conditions, no location within the circuit is reasonably available where such special sessions could be held. The court may transact any business at a special session outside the circuit which it might transact at a regular session.
 
 (f) If a court of appeals issues an order exercising its authority under subsection (e), the court—
 
@@ -100,5 +100,5 @@ Amendment by Pub. L. 96–452 effective Oct. 1, 1981, see section 12 of Pub. L. 
 
 #### Survey of Judicial Business in Alaska
 
-Pub. L. 86–70, §23(a), June 25, 1959, 73 Stat. 147, provided that: "The Judicial Conference of the United States, with the assistance of the Administrative Office of the United States Courts, shall conduct a study, including a field survey, of the Federal judicial business arising in the State of Alaska with a view toward directing the United States Court of Appeals for the Ninth Circuit to hold such terms of court in Anchorage or such other Alaskan cities as may be necessary for the prompt and efficient administration of justice."
+Pub. L. 86–70, §23(a), June 25, 1959, 73 Stat. 147, provided that: "The Judicial Conference of the UnitedStates, with the assistance of the Administrative Office of the United States Courts, shall conduct a study, including a field survey, of the Federal judicial business arising in the State of Alaska with a view toward directing the United States Court of Appeals for the Ninth Circuit to hold such terms of court in Anchorage or such other Alaskan cities as may be necessary for the prompt and efficient administration of justice."
 

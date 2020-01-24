@@ -38,7 +38,7 @@ There is established a council to be known as the Technical Mapping Advisory Cou
 
 &emsp;&emsp;&emsp;(ix) a member of a recognized regional flood and storm water management organization;
 
-&emsp;&emsp;&emsp;(x) 2 representatives of different State government agencies that have entered into cooperating technical partnershipswith the Administrator and have demonstrated the capability to produce flood insurance rate maps;
+&emsp;&emsp;&emsp;(x) 2 representatives of different State government agencies that have entered into cooperating technical partnerships with the Administrator and have demonstrated the capability to produce flood insurance rate maps;
 
 &emsp;&emsp;&emsp;(xi) 2 representatives of different local government agencies that have entered into cooperating technical partnerships with the Administrator and have demonstrated the capability to produce flood insurance maps;
 

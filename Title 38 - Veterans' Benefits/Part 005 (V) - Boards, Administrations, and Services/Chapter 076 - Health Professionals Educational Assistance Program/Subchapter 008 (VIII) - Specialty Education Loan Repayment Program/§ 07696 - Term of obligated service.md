@@ -18,7 +18,7 @@ Fellowship.—In the case of a participant who receives an accredited fellowship
 
 (c)
 
-Penalty.—(1) An employee who does not complete a period of obligated service under this section shall owe the Federal Government an amount determined in accordance with the following formula: <i>A = B  ×  ((T − S) ÷ T))</i>.<sup>1</sup>
+Penalty.—(1) An employee who does not complete a period of obligated service under this section shall owe the Federal Government an amount determined in accordance with the following formula: <i>A = B  ×  ((T − S) ÷ T)</i>.
 
 (2) In the formula in paragraph (1):
 
@@ -30,7 +30,9 @@ Penalty.—(1) An employee who does not complete a period of obligated service u
 
 &emsp;(D) "<i>S</i>" is the number of whole months of such period of obligated service served by the employee.
 
-(Added Pub. L. 115–182, title III, §303(a), June 6, 2018, 132 Stat. 1465.)
+(Added Pub. L. 115–182, title III, §303(a), June 6, 2018, 132 Stat. 1465; amended Pub. L. 116–61, §6(8), Sept. 30, 2019, 133 Stat. 1117.)
 
-<i><sup>1</sup></i><i> So in original. There is an extra closing parenthesis in the formula.</i>
+#### Amendments
+
+<b>2019</b>—Subsec. (c)(1). Pub. L. 116–61 struck out second closing parenthesis before period at end.
 

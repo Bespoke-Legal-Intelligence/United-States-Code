@@ -146,7 +146,7 @@ Certification of compliance.—Evidence of compliance that shall include, as app
 
 &emsp;&emsp;&emsp;&emsp;(II) other applicable Federal statutes;
 
-&emsp;&emsp;&emsp;(ii) a certification that the Department will require adequate insurance coveragefor housing units that are owned and operated or assisted with grant amounts provided under this subchapter, in compliance with such requirements as may be established by the Secretary;
+&emsp;&emsp;&emsp;(ii) a certification that the Department will require adequate insurance coverage for housing units that are owned and operated or assisted with grant amounts provided under this subchapter, in compliance with such requirements as may be established by the Secretary;
 
 &emsp;&emsp;&emsp;(iii) a certification that policies are in effect and are available for review by the Secretary and the public governing the eligibility, admission, and occupancy of families for housing assisted with grant amounts provided under this subchapter;
 

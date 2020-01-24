@@ -60,7 +60,7 @@ For purposes of this section, the terms "reportable transaction" and "listed tra
 
 #### (3) Special rule for amended returns
 
-&emsp;Except as provided in regulations, in no event shall any tax treatment included with an amendment or supplement to a return of tax be taken into account in determining the amount of any reportable transaction understatement if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.
+&emsp;Except as provided in regulations, in no event shall any tax treatment included withan amendment or supplement to a return of tax be taken into account in determining the amount of any reportable transaction understatement if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.
 
 (Added Pub. L. 108–357, title VIII, §812(a), Oct. 22, 2004, 118 Stat. 1577; amended Pub. L. 109–135, title IV, §403(x)(2), Dec. 21, 2005, 119 Stat. 2629; Pub. L. 111–152, title I, §1409(b)(3), Mar. 30, 2010, 124 Stat. 1069; Pub. L. 113–295, div. A, title II, §220(w), Dec. 19, 2014, 128 Stat. 4036.)
 

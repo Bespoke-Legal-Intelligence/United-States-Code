@@ -16,7 +16,7 @@ The study shall—
 
 &emsp;(4) determine seasonal capacity needs and associated transmission upgrades for integration of tribal wind generation and identify costs associated with these activities;
 
-&emsp;(5) include an independent tribal engineer and a Western Area Power Administration customer representative as study team members; and
+&emsp;(5) include an independent tribal engineer and a Western Area Power Administrationcustomer representative as study team members; and
 
 &emsp;(6) incorporate, to the extent appropriate, the results of the Dakotas Wind Transmission study prepared by the Western Area Power Administration.
 
@@ -50,7 +50,7 @@ Not later than 1 year after August 8, 2005, the Secretary of Energy, the Secreta
 
 #### Prior Provisions
 
-A prior section 3506, Pub. L. 102–486, title XXVI, §2606, Oct. 24, 1992, 106 Stat. 3118, related to tribal governmentenergy assistance program, prior to the general amendment of this chapter by Pub. L. 109–58.
+A prior section 3506, Pub. L. 102–486, title XXVI, §2606, Oct. 24, 1992, 106 Stat. 3118, related to tribal government energy assistance program, prior to the general amendment of this chapter by Pub. L. 109–58.
 
 #### Amendments
 

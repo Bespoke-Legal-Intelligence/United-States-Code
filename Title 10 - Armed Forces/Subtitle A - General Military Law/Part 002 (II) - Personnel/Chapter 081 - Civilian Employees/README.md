@@ -86,7 +86,7 @@ Pub. L. 102–25, title VII, §701(e)(4), (8)(B), Apr. 6, 1991, 105 Stat. 114, 1
 
 <b>1989</b>—Pub. L. 101–193, title V, §501(a)(2), Nov. 30, 1989, 103 Stat. 1708, added item 1592 "Foreign language proficiency: special pay".
 
-Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(b)(2), title XI, §1124(a)(2), Nov. 29, 1989, 103 Stat. 1412, 1419, 1467, 1558, added item 1592 "Prohibition on payment of severance pay to foreign nationals in the event of certain overseas base closures.", and items 1593 to 1595.
+Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(b)(2), title XI, §1124(a)(2), Nov. 29, 1989, 103 Stat. 1412, 1419, 1467, 1558, added item 1592 "Prohibitionon payment of severance pay to foreign nationals in the event of certain overseas base closures.", and items 1593 to 1595.
 
 <b>1987</b>—Pub. L. 100–180, div. A, title VI, §617(b)(2), Dec. 4, 1987, 101 Stat. 1097, added item 1591.
 
@@ -106,9 +106,91 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 
 <b>1958</b>—Pub. L. 85–577, §1(2), July 31, 1958, 72 Stat. 456, added item 1585.
 
+#### Technology and National Security Fellowship
+
+Pub. L. 116–92, div. A, title II, §235, Dec. 20, 2019, 133 Stat. 1279, provided that:
+
+"(a)
+
+Fellowship Program.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, may establish a civilian fellowship program designed to place eligible individuals within the Department of Defense and Congress to increase the number of national security professionals with science, technology, engineering, and mathematics credentials employed by the Department.
+
+&emsp;"(2)
+
+Designation.—The fellowship program established under paragraph (1) shall be known as the 'Technology and National Security Fellowship' (in this section referred to as the 'fellows program').
+
+&emsp;"(3)
+
+Assignments.—Each individual selected for participation in the fellows program shall be assigned to a one year position within—
+
+&emsp;&emsp;"(A) the Department of Defense; or
+
+&emsp;&emsp;"(B) a congressional office with emphasis on defense and national security matters.
+
+&emsp;"(4)
+
+Pay and benefits.—To the extent practicable, each individual assigned to a position under paragraph (3)—
+
+&emsp;&emsp;"(A) shall be compensated at a rate of basic pay that is equivalent to the rate of basic pay payable for a position at level 10 of the General Schedule; and
+
+&emsp;&emsp;"(B) shall be treated as an employee of the United States during the assignment.
+
+"(b)
+
+Eligible Individuals.—
+
+&emsp;"(1)
+
+Eligibility for dod assignment.—Subject to subsection (e), an individual eligible for an assignment in the Department of Defense under subsection (a)(3)(A) is an individual who—
+
+&emsp;&emsp;"(A) is a citizen of the United States; and
+
+&emsp;&emsp;"(B) either—
+
+&emsp;&emsp;&emsp;"(i) expects to be awarded a bachelor's degree, associate's degree, or graduate degree that, as determined by the Secretary, focuses on science, technology, engineering, or mathematics course work not later than 180 days after the date on which the individual submits an application for participation in the fellows program;
+
+&emsp;&emsp;&emsp;"(ii) possesses a bachelor's degree, associate's degree, or graduate degree that, as determined by the Secretary, focuses on science, technology, engineering, or mathematics course work; or
+
+&emsp;&emsp;&emsp;"(iii) is an employee of the Department of Defense and possesses a bachelor's degree, associate's degree, or graduate degree that, as determined by the Secretary, focuses on science, technology, engineering, or mathematics course work.
+
+&emsp;"(2)
+
+Eligibility for congressional assignment.—Subject to subsection (e), an individual eligible for an assignment in a congressional office under subsection (a)(3)(B) is an individual who—
+
+&emsp;&emsp;"(A) meets the requirements specified in paragraph (1); and
+
+&emsp;&emsp;"(B) has not less than 3 years of relevant work experience in the field of science, technology, engineering, or mathematics.
+
+"(c)
+
+Application.—Each individual seeking to participate in the fellows program shall submit to the Secretary an application therefor at such time and in such manner as the Secretary shall specify.
+
+"(d)
+
+Coordination.—In carrying out this section, the Secretary may consider working through the following entities:
+
+&emsp;"(1) The National Security Innovation Network.
+
+&emsp;"(2) Universities.
+
+&emsp;"(3) Science and technology reinvention laboratories and test and evaluation centers of the Department of Defense.
+
+&emsp;"(4) Other organizations of the Department of Defense or public and private sector organizations, as determined appropriate by the Secretary.
+
+"(e)
+
+Modifications to Fellows Program.—The Secretary may modify the terms and procedures of the fellows program in order to better achieve the goals of the program and to support workforce needs of the Department of Defense.
+
+"(f)
+
+Consultation.—The Secretary may consult with the heads of the agencies, components, and other elements of the Department of Defense, Members and committees of Congress, and such institutions of higher education and private entities engaged in work on national security and emerging technologies as the Secretary considers appropriate for purposes of the fellows program, including with respect to assignments in the fellows program."
+
 #### John S. McCain Strategic Defense Fellows Program
 
-Pub. L. 115–232, div. A, title IX, §932, Aug. 13, 2018, 132 Stat. 1935, provided that:
+Pub. L. 115–232, div. A, title IX, §932, Aug. 13, 2018, 132 Stat. 1935, as amended by Pub. L. 116–92, div. A, title IX, §906, Dec. 20, 2019, 133 Stat. 1559, provided that:
 
 "(a)
 
@@ -168,7 +250,7 @@ Selection.—
 
 &emsp;"(1)
 
-In general.—Each year, the Secretary of Defense shall select participants in the fellows program from among applicants for the fellows program forsuch year who qualify for participation in the fellows program based on character, commitment to public service, academic achievement, extracurricular activities, and such other qualifications for participation in the fellows program as the Secretary considers appropriate.
+In general.—Each year, the Secretary of Defense shall select participants in the fellows program from among applicants for the fellows program for such year who qualify for participation in the fellows program based on character, commitment to public service, academic achievement, extracurricular activities, and such other qualifications for participation in the fellows program as the Secretary considers appropriate.
 
 &emsp;"(2)
 
@@ -246,7 +328,7 @@ Reservation of positions.—In carrying out paragraph (1)(B), the Secretary shal
 
 &emsp;"(3)
 
-Noncompetitive appointment.—Upon the successful completion of the assignment of a participant in the fellows program in a position pursuant to subsection (e), the Secretary may, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, appoint the participant to a position reserved pursuant to paragraph (2) if the Secretary determines that such appointment will contribute to the development of highly qualified future senior leaders for the Department.
+Noncompetitive appointment.—Upon the successful completion of the assignment of a participant in the fellows program in a position pursuant to subsection (e), the Secretary may, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, appoint the participant to a position reserved pursuant to paragraph (2) if the Secretary determines that such appointment will contribute to the development of highly qualified future senior leaders for the Department. An individual appointed pursuant to this paragraph shall not count against the limitation on the number of Office of the Secretary of Defense personnel in section 143 of title 10, United States Code, or any similar limitation in law on the number of personnel in headquarters of the Department that would otherwise apply to the office or headquarters to which appointed.
 
 &emsp;"(4)
 
@@ -262,7 +344,7 @@ Regulations.—The Secretary of Defense shall carry out this section in accordan
 
 "(i)
 
-Funding.—Of the amounts authorized to be appropriated for each fiscal year for the Department of Defense for operation and maintenance, Defense-wide, $10,000,000 may be available to carry out the fellows program in such fiscal year."
+Funding.—Of the amounts authorized to be appropriated for each fiscal year for the Department of Defense for operation and maintenance, Defense-wide,$10,000,000 may be available to carry out the fellows program in such fiscal year."
 
 #### Pilot Programs on Appointment in the Excepted Service in the Department of Defense of Physically Disqualified Former Cadets and Midshipmen
 
@@ -282,7 +364,7 @@ Cadets and midshipmen.—Except as provided in paragraph (3), a former cadet or 
 
 &emsp;&emsp;"(A) completed the prescribed course of instruction and graduated from the applicable service academy; and
 
-&emsp;&emsp;"(B) is determined to be medically disqualified to complete a period of active duty in the ArmedForces prescribed in an agreement signed by such cadet or midshipman in accordance with section 7448, 8459, or 9448 of title 10, United States Code.
+&emsp;&emsp;"(B) is determined to be medically disqualified to complete a period of active duty in the Armed Forces prescribed in an agreement signed by such cadet or midshipman in accordance with section 7448, 8459, or 9448 of title 10, United States Code.
 
 &emsp;"(3)
 
@@ -342,7 +424,7 @@ Report required.—Not later than the date that is three years after the date of
 
 &emsp;"(2)
 
-Appropriate congressional committees defined.—In this section, the term 'appropriate congressional committees' means the Committee on Armed Services and the Committee on Homeland Security and Government Affairs of the Senate and the Committee on Armed Services and the Committee on Oversight and Government Reform of the House of Representatives."
+Appropriate congressional committees defined.—In this section, the term 'appropriate congressional committees' means the Committee on Armed Services and the Committee on Homeland Security and Government Affairs of the Senate and the Committee on Armed Services and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives."
 
 #### Direct Hire Authority for the Department of Defense for Personnel To Assist in Business Transformation and Management Innovation
 
@@ -392,7 +474,7 @@ Appropriate committees of congress defined.—In this subsection, the term 'appr
 
 &emsp;&emsp;"(A) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Government Oversight and Reform of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Government Oversight and Reform \[probably means Committee on Oversight and Government Reform, now Committee on Oversight and Reform\] of the House of Representatives.
 
 "(f)
 
@@ -412,7 +494,7 @@ Pub. L. 115–91, div. A, title XI, §1110, Dec. 12, 2017, 131 Stat. 1631, provi
 
 "(a)
 
-Pilot Program Required.—The Secretary of Defense shall carry out within the Department of Defense a pilot program to assess the feasability and advisability of an enhanced personnel management system in accordance with this section for cybersecurity andlegal professionals in the Department described in subsection (b) who enter civilian service with the Department on or after January 1, 2020.
+Pilot Program Required.—The Secretary of Defense shall carry out within the Department of Defense a pilot program to assess the feasability and advisability of an enhanced personnel management system in accordance with this section for cybersecurity and legal professionals in the Department described in subsection (b) who enter civilian service with the Department on or after January 1, 2020.
 
 "(b)
 
@@ -492,7 +574,7 @@ Performance awards.—Individuals serving with the Department as cybersecurity o
 
 &emsp;"(4)
 
-Additional compensation.—Individuals serving with the Department as cybersecurity or legal professionals under the pilot program may be awarded such additional compensation above basic pay as the Secretary (or the designees of the Secretary) consider appropriate in order to promote the recruitment and retention of highly skilled and productive cybersecurity and legal professionals to and with the Department.
+Additional compensation.—Individuals serving with the Department as cybersecurity or legal professionals under the pilot program may be awarded such additional compensation above basic pay as the Secretary (or the designees of the Secretary) consider appropriate in order to promote the recruitment and retention of highly skilled and productivecybersecurity and legal professionals to and with the Department.
 
 "(g)
 
@@ -516,7 +598,7 @@ Particular conditions.—In prescribing conditions for the renewal of appointmen
 
 &emsp;&emsp;"(A) The necessity for the continuation of the position concerned based on mission requirements and other applicable justifications for the position.
 
-&emsp;&emsp;"(B) The service performance of the individual serving in the position concerned, with individualswith satisfactory or better performance afforded preference in renewal.
+&emsp;&emsp;"(B) The service performance of the individual serving in the position concerned, with individuals with satisfactory or better performance afforded preference in renewal.
 
 &emsp;&emsp;"(C) Input from employees on conditions for renewal.
 
@@ -608,7 +690,7 @@ Appropriate committees of congress defined.—In this subsection, the term 'appr
 
 &emsp;&emsp;"(A) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Oversight and Government Reform of the House of Representatives."
+&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives."
 
 #### Temporary and Term Appointments in the Competitive Service in the Department of Defense
 
@@ -776,11 +858,11 @@ Termination.—The authority to make appointments under this section shall not b
 
 #### Temporary Direct Hire Authority for Domestic Defense Industrial Base Facilities, the Major Range and Test Facilities Base, and the Office of the Director of Operational Test and Evaluation
 
-Pub. L. 114–328, div. A, title XI, §1125, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, §1102(a), Dec. 12, 2017, 131 Stat. 1628, provided that:
+Pub. L. 114–328, div. A, title XI, §1125, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, §1102(a), Dec. 12, 2017, 131 Stat. 1628; Pub. L. 116–92, div. A, title XI, §1107(a), Dec. 20, 2019, 133 Stat. 1597, provided that:
 
 "(a)
 
-Defense Industrial Base Facility and MRTFB.—During each of fiscal years 2017 through 2021, the Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title, qualified candidates to positions in the competitive service at any defense industrial base facility or the Major Range and Test Facilities Base.
+Defense Industrial Base Facility and MRTFB.—During each of fiscal years 2017 through 2025, the Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title, qualified candidates to positions in the competitive service at any defense industrial base facility or the Major Range and Test Facilities Base.
 
 "(b)
 
@@ -846,7 +928,7 @@ Coordination.—The Under Secretary of Defense (Comptroller), in consultation wi
 
 "(c)
 
-Limitations.—The regulations required under subsection (a) shall not be restricted by any civilian full-time equivalent or end-strength limitation, nor shall such regulations require offsetting civilian pay funding, civilian full-time equivalents, or civilian end-strengths."
+Limitations.—The regulations required under subsection (a) shall not be restricted by any civilian full-time equivalent or end-strength limitation, nor shall such regulations require offsetting civilian payfunding, civilian full-time equivalents, or civilian end-strengths."
 
 #### Availability of Funds for Compensation of Certain Civilian Employees of the Department of Defense
 
@@ -868,7 +950,7 @@ Regulations.—Not later than 120 days after the date of the enactment of this A
 
 "(c)
 
-Annual Report.—Not later than 60 days after the end of each fiscal year for which the authority in subsection (a) is in effect, the Secretary shall submit tothe congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of such authority. Each report shall cover the preceding fiscal year and shall identify, at a minimum, the following:
+Annual Report.—Not later than 60 days after the end of each fiscal year for which the authority in subsection (a) is in effect, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of such authority. Each report shall cover the preceding fiscal year and shall identify, at a minimum, the following:
 
 &emsp;"(1) The amount of funds used under the authority in subsection (a) to provide compensation for civilian employees.
 
@@ -970,7 +1052,7 @@ Objective, merit-based principles for personnel decisions.—The Secretary shall
 
 &emsp;&emsp;"(D) The access of participants in the program to training, mentoring, and educational opportunities under the program.
 
-&emsp;&emsp;"(E) The consideration of participants in the program for selection into the senior management, functional, and technical workforce of the Department.
+&emsp;&emsp;"(E) The consideration of participants in the program for selection into the senior management,functional, and technical workforce of the Department.
 
 &emsp;"(7)
 
@@ -990,7 +1072,7 @@ Applicability.—This section applies with respect to candidates for scientific 
 
 "(c)
 
-Limitation.—(1) Authority under this section may not, in any calendar year and with respect to any laboratory, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineering positions within such laboratory that are filled as of theclose of the fiscal year last ending before the start of such calendar year.
+Limitation.—(1) Authority under this section may not, in any calendar year and with respect to any laboratory, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineering positions within such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
 
 "(2) For purposes of this subsection, positions and candidates shall be counted on a full-time equivalent basis.
 

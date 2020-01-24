@@ -48,7 +48,7 @@ Pub. L. 110–456, §1, Dec. 23, 2008, 122 Stat. 5038, provided that: "This Act 
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 110–82, §1, Sept. 20, 2007, 121 Stat. 777, provided that: "This Act \[amending section 5112 of this title and enacting provisions set out as a note under section 5112 of this title\] may be cited as the 'Native American $1 Coin Act'."
+Pub. L. 110–82, §1, Sept. 20, 2007, 121 Stat. 777, provided that: "This Act \[amending section 5112 of this title and enacting provisions set out as a note under section 5112of this title\] may be cited as the 'Native American $1 Coin Act'."
 
 #### Short Title of 2005 Amendment
 
@@ -60,7 +60,7 @@ Pub. L. 108–15, §1, Apr. 23, 2003, 117 Stat. 615, provided that: "This Act \[
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–201, §1, July 23, 2002, 116 Stat. 736, provided that: "This Act \[amending section 5116 of this title and enacting provisions set out as notes under sections 5112 and 5116 of this title\] may be cited as the'Support of American Eagle Silver Bullion Program Act'."
+Pub. L. 107–201, §1, July 23, 2002, 116 Stat. 736, provided that: "This Act \[amending section 5116 of this title and enacting provisions set out as notes under sections 5112 and 5116 of this title\] may be cited as the 'Support of American Eagle Silver Bullion Program Act'."
 
 #### Short Title of 2000 Amendment
 

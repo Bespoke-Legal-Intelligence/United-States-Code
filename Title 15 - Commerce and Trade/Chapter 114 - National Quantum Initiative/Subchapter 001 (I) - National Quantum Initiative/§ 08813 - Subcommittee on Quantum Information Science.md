@@ -50,7 +50,7 @@ The Subcommittee shall—
 
 #### (e) Strategic plans
 
-In order to guide the activities of the Program and meet the goals, priorities, and anticipatedoutcomes of the Federal departments and agencies described in subsection (b), the Subcommittee shall—
+In order to guide the activities of the Program and meet the goals, priorities, and anticipated outcomes of the Federal departments and agencies described in subsection (b), the Subcommittee shall—
 
 &emsp;(1) not later than 1 year after December 21, 2018, develop a 5-year strategic plan;
 

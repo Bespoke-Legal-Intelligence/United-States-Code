@@ -130,7 +130,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Contracting Out Study
 
-Pub. L. 105–178, title III, §3032, June 9, 1998, 112 Stat. 385, as amended by Pub. L. 105–206, title IX, §9009(v), July 22, 1998, 112 Stat. 861, provided that a study of the effect of contracting out mass transportation operation and administrative functions was to be arranged between the Secretary of Transportation and the Transportation Research Board of the National Academy of Sciences no later than 6 months after June 9, 1998, and made available funds for fiscal year 1999.
+Pub. L. 105–178, title III, §3032, June 9, 1998, 112 Stat. 385, as amended by Pub. L. 105–206, title IX, §9009(v),July 22, 1998, 112 Stat. 861, provided that a study of the effect of contracting out mass transportation operation and administrative functions was to be arranged between the Secretary of Transportation and the Transportation Research Board of the National Academy of Sciences no later than 6 months after June 9, 1998, and made available funds for fiscal year 1999.
 
 #### Commute-to-Work Benefits
 

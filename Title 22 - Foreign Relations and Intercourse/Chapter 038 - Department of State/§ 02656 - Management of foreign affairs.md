@@ -32,7 +32,7 @@ Pub. L. 115–441, §§3, 6, 7, Jan. 14, 2019, 132 Stat. 5586, 5588, 5589, provi
 
 &emsp;"(1) regard the prevention of atrocities as in its national interest;
 
-&emsp;"(2) work with partners and allies, including to build their capacity, and enhance the capacity of the United States, to identify, prevent, and respond to the causes of atrocities, including insecurity, mass displacement, violent conflict, and other conditions that may lead to such atrocities; and
+&emsp;"(2) work with partners and allies, including to build their capacity, and enhance the capacity of the United States, to identify, prevent, and respond to the causes of atrocities, including insecurity, massdisplacement, violent conflict, and other conditions that may lead to such atrocities; and
 
 &emsp;"(3) pursue a United States Government-wide strategy to identify, prevent, and respond to the risk of atrocities by—
 
@@ -332,7 +332,7 @@ United states person.—The term 'United States person' has the meaning given th
 
 "(a)
 
-In General.—The President may impose the sanctions described in subsection (b) with respect toany foreign person the President determines, based on credible evidence—
+In General.—The President may impose the sanctions described in subsection (b) with respect to any foreign person the President determines, based on credible evidence—
 
 &emsp;"(1) is responsible for extrajudicial killings, torture, or other gross violations of internationally recognized human rights committed against individuals in any foreign country who seek—
 
@@ -638,7 +638,7 @@ In general.—For each of fiscal years 2019 and 2020, the Secretary of Defense i
 
 &emsp;"(2)
 
-Notice requirement.—The Secretary of Defense shall notify the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform of the House of Representatives of a proposed transfer under paragraph (1) not less than 15 days prior to making such transfer.
+Notice requirement.—The Secretary of Defense shall notify the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives of a proposed transfer under paragraph (1) not less than 15 days prior to making such transfer.
 
 &emsp;"(3)
 
@@ -682,7 +682,7 @@ Definition.—In this subsection, the term 'appropriate congressional committees
 
 "(h)
 
-Congressional Briefings.—The Secretary of State, together with the heads of other relevant Federal departments and agencies, shall provide a briefing to the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform of the House of Representatives not less often than annually regarding the activities of the Global Engagement Center. The briefings required under this subsection shall terminate on the date specified in subsection (j).
+Congressional Briefings.—The Secretary of State, together with the heads of other relevant Federal departments and agencies, shall provide a briefing to the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives not less often than annually regarding the activities of the Global Engagement Center. The briefings required under this subsection shall terminate on the date specified in subsection (j).
 
 "(i)
 
@@ -720,7 +720,7 @@ Statement of Policy.—It is the policy of the United States—
 
 &emsp;"(2) to enhance counterterrorism cooperation with the Government of Saudi Arabia; and
 
-&emsp;"(3) to support the efforts of the Government of Saudi Arabia to make political, economic, and social reforms, including greater religious freedom, throughout the country.
+&emsp;"(3) to support the efforts of the Government of Saudi Arabia to make political, economic, and socialreforms, including greater religious freedom, throughout the country.
 
 "(c)
 
@@ -772,7 +772,7 @@ Findings.—Consistent with the report of the National Commission on Terrorist A
 
 &emsp;"(1) Almost every aspect of the counterterrorism strategy of the United States relies on international cooperation.
 
-&emsp;"(2) Since September 11, 2001, the number and scope of United States Government contacts with foreigngovernments concerning counterterrorism have expanded significantly, but such contacts have often been ad hoc and not integrated as a comprehensive and unified approach to counterterrorism.
+&emsp;"(2) Since September 11, 2001, the number and scope of United States Government contacts with foreign governments concerning counterterrorism have expanded significantly, but such contacts have often been ad hoc and not integrated as a comprehensive and unified approach to counterterrorism.
 
 "(b)
 
@@ -934,7 +934,7 @@ Availability.—Amounts appropriated pursuant to the authorization of appropriat
 
 #### "SEC. 633. MULTILATERAL ASSISTANCE.
 
-"The Secretary of the Treasury shall instruct the United States executive director at each international financial institution to which the United States is a member to use the voice, vote, and influence of the United States to support economic and democratic development in East Timor.
+"The Secretary of the Treasury shall instruct the United States executive director at each internationalfinancial institution to which the United States is a member to use the voice, vote, and influence of the United States to support economic and democratic development in East Timor.
 
 #### "SEC. 634. TRADE AND INVESTMENT ASSISTANCE.
 
@@ -972,7 +972,7 @@ Export-Import Bank.—The Export-Import Bank of the United States should expand 
 
 #### "SEC. 636. AUTHORITY FOR RADIO BROADCASTING.
 
-"The Broadcasting Board of Governors should broadcast to East Timor in an appropriate language or languages.
+"The Broadcasting Board of Governors \[now United States Agency for Global Media\] should broadcast to East Timor in an appropriate language or languages.
 
 #### "SEC. 637. SECURITY ASSISTANCE FOR EAST TIMOR.
 
@@ -1002,7 +1002,7 @@ Authorization of Assistance.—
 
 In general.—Beginning on the date on which Congress receives the report transmitted under subsection (a)(2), or the date on which Congress receives the certification transmitted under paragraph (2), whichever occurs later, the President is authorized—
 
-&emsp;&emsp;"(A) to transfer excess defense articles under section 516 of the Foreign Assistance Act of 1961 (22U.S.C. 2321j) to East Timor in accordance with such section; and
+&emsp;&emsp;"(A) to transfer excess defense articles under section 516 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321j) to East Timor in accordance with such section; and
 
 &emsp;&emsp;"(B) to provide military education and training under chapter 5 of part II of such Act (22 U.S.C. 2347 et seq.) for the armed forces of East Timor in accordance with such chapter.
 
@@ -1042,7 +1042,7 @@ Information.—The report required by subsection (a) shall include—
 
 \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.\]
 
-\[For definitions of "appropriate congressional committees" and "Secretary" as used in subtitle C of title VI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+\[For definitions of "appropriate congressional committees" and "Secretary" as used in subtitle C of titleVI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
 #### Presidential Certification Authorizing Security Assistance to East Timor
 
@@ -1134,7 +1134,7 @@ Requirement.—The Secretary of State shall establish and maintain a registry wh
 
 "(b)
 
-Information in Registry.—The registry required by subsection (a) shall include information on the charges, judicial processes, administrative actions, uses of forced labor, incidents of torture, lengths of imprisonment, physical and health conditions, and other matters associated with the incarceration of prisoners in the People's Republic of China referred to in that subsection.
+Information in Registry.—The registry required by subsection (a) shall include information on the charges, judicial processes, administrative actions, uses of forced labor, incidents of torture, lengths of imprisonment, physical and health conditions, and othermatters associated with the incarceration of prisoners in the People's Republic of China referred to in that subsection.
 
 "(c)
 
@@ -1266,7 +1266,7 @@ Pub. L. 100–204, title I, §109, Dec. 22, 1987, 101 Stat. 1339, provided that:
 
 #### Consular and Diplomatic Posts Abroad
 
-Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary of State, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by Pub. L.102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655. See section 2720 of this title.
+Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary of State, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by Pub. L. 102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655. See section 2720 of this title.
 
 #### Closing of Diplomatic and Consular Posts in Antigua and Barbuda
 
@@ -1444,7 +1444,7 @@ Sec. 6. <i>Establishment of a Temporary Organization</i>. (a) There is establish
 
 (vi) perform such other functions related to the specific project set forth in subsection (b) of this section as the Secretary may assign.
 
-(d) The GECCO shall be headed by the Coordinator. Its staff may include, as determined by the Coordinator: (1) personnel with relevant expertise detailed on a non-reimbursable basis from other agencies; (2) senior and other technical advisers; (3) executive-level personnel; and (4) such other personnel as the Secretary may request to support the GECCO. To accomplish this mission, the heads of agencies shall, upon request, provide to the GECCO, on a non-reimbursable basis, assistance, services, and other support including but not limited tologistical and administrative support and details of personnel to the extent permitted by law. Non-reimbursable details to the GECCO shall be based on reasonable requests from the Coordinator in light of the need for specific expertise, and after consultation with the relevant agency, to the extent permitted by law.
+(d) The GECCO shall be headed by the Coordinator. Its staff may include, as determined by the Coordinator: (1) personnel with relevant expertise detailed on a non-reimbursable basis from other agencies; (2) senior and other technical advisers; (3) executive-level personnel; and (4) such other personnel as the Secretary may request to support the GECCO. To accomplish this mission, the heads of agencies shall, upon request, provide to the GECCO, on a non-reimbursable basis, assistance, services, and other support including but not limited to logistical and administrative support and details of personnel to the extent permitted by law. Non-reimbursable details to the GECCO shall be based on reasonable requests from the Coordinator in light of the need for specific expertise, and after consultation with the relevant agency, to the extent permitted by law.
 
 (e) The GECCO shall terminate at the end of the maximum period permitted by section 3161(a)(1) of title 5, United States Code, unless sooner terminated by the Secretary consistent with section 3161(a)(2) of such title.
 

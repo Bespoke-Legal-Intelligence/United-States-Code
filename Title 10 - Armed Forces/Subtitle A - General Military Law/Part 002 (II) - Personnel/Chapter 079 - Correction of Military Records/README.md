@@ -5,6 +5,7 @@
 | [1551\.](%C2%A7%2001551%20-%20Correction%20of%20name%20after%20separation%20from%20service%20under%20an%20assumed%20name.md) | Correction of name after separation from service under an assumed name. |
 | [1552\.](%C2%A7%2001552%20-%20Correction%20of%20military%20records%20claims%20incident%20thereto.md) | Correction of military records: claims incident thereto. |
 | [1553\.](%C2%A7%2001553%20-%20Review%20of%20discharge%20or%20dismissal.md) | Review of discharge or dismissal. |
+| [1553a.](%C2%A7%2001553a%20-%20Review%20of%20a%20request%20for%20upgrade%20of%20discharge%20or%20dismissal.md) | Review of a request for upgrade of discharge or dismissal. |
 | [1554\.](%C2%A7%2001554%20-%20Review%20of%20retirement%20or%20separation%20without%20pay%20for%20physical%20disability.md) | Review of retirement or separation without pay for physical disability. |
 | [1554a.](%C2%A7%2001554a%20-%20Review%20of%20separation%20with%20disability%20rating%20of%2020%20percent%20disabled%20or%20less.md) | Review of separation with disability rating of 20 percent disabled or less. |
 | [1554b.](%C2%A7%2001554b%20-%20Confidential%20review%20of%20characterization%20of%20terms%20of%20discharge%20of%20members%20of%20the%20armed%20forces%20who%20are%20victims%20of%20sex-related%20offenses.md) | Confidential review of characterization of terms of discharge of members of the armed forces who are victims of sex-related offenses. |
@@ -17,6 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title V, §523(b)(1), Dec. 20, 2019, 133 Stat. 1354, added item 1553a.
 
 <b>2017</b>—Pub. L. 115–91, div. A, title V, §522(a)(2), Dec. 12, 2017, 131 Stat. 1380, added item 1554b.
 
@@ -40,6 +43,7 @@
 - [&sect; 01551 - Correction of name after separation from service under an assumed name](%C2%A7%2001551%20-%20Correction%20of%20name%20after%20separation%20from%20service%20under%20an%20assumed%20name.md)
 - [&sect; 01552 - Correction of military records claims incident thereto](%C2%A7%2001552%20-%20Correction%20of%20military%20records%20claims%20incident%20thereto.md)
 - [&sect; 01553 - Review of discharge or dismissal](%C2%A7%2001553%20-%20Review%20of%20discharge%20or%20dismissal.md)
+- [&sect; 01553a - Review of a request for upgrade of discharge or dismissal](%C2%A7%2001553a%20-%20Review%20of%20a%20request%20for%20upgrade%20of%20discharge%20or%20dismissal.md)
 - [&sect; 01554 - Review of retirement or separation without pay for physical disability](%C2%A7%2001554%20-%20Review%20of%20retirement%20or%20separation%20without%20pay%20for%20physical%20disability.md)
 - [&sect; 01554a - Review of separation with disability rating of 20 percent disabled or less](%C2%A7%2001554a%20-%20Review%20of%20separation%20with%20disability%20rating%20of%2020%20percent%20disabled%20or%20less.md)
 - [&sect; 01554b - Confidential review of characterization of terms of discharge of members of the armed forces who are victims of sex-related offenses](%C2%A7%2001554b%20-%20Confidential%20review%20of%20characterization%20of%20terms%20of%20discharge%20of%20members%20of%20the%20armed%20forces%20who%20are%20victims%20of%20sex-related%20offenses.md)

@@ -70,7 +70,7 @@ Regulatory process.—Not later than 90 days after the date of enactment of the 
 
 &emsp;&emsp;(E)
 
-Design-build contract defined.—In this paragraph, the term "design-build contract" means an agreement that provides for design and construction of a project by acontractor, regardless of whether the agreement is in the form of a design-build contract, a franchise agreement, or any other form of contract approved by the Secretary.
+Design-build contract defined.—In this paragraph, the term "design-build contract" means an agreement that provides for design and construction of a project by a contractor, regardless of whether the agreement is in the form of a design-build contract, a franchise agreement, or any other form of contract approved by the Secretary.
 
 &emsp;(4)
 
@@ -336,25 +336,7 @@ Pub. L. 105–178, title I, §1307(d), June 9, 1998, 112 Stat. 231, provided tha
 
 #### Report to Congress
 
-Pub. L. 105–178, title I, §1307(f), June 9, 1998, 112 Stat. 231, provided that:
-
-"(1)
-
-In general.—Not later than 5 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall submit to Congress a report on the effectiveness of design-build contracting procedures.
-
-"(2)
-
-Contents.—The report shall contain—
-
-&emsp;"(A) an assessment of the effect of design-build contracting on project quality, project cost, and timeliness of project delivery;
-
-&emsp;"(B) recommendations on the appropriate level of design for design-build procurements;
-
-&emsp;"(C) an assessment of the impact of design-build contracting on small businesses;
-
-&emsp;"(D) assessment of the subjectivity used in design-build contracting; and
-
-&emsp;"(E) such recommendations concerning design-build contracting procedures as the Secretary determines to be appropriate."
+Pub. L. 105–178, title I, §1307(f), June 9, 1998, 112 Stat. 231, provided that, not later than 5 years after June 9, 1998, the Secretary was to submit to Congress a report on the effectiveness of design-build contracting procedures.
 
 #### Private Sector Involvement Program
 

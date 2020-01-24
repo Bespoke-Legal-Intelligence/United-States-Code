@@ -340,7 +340,7 @@ Pub. L. 109–121, Dec. 1, 2005, 119 Stat. 2533, as amended by Pub. L. 113–289
 
 "Congress makes the following findings:
 
-&emsp;"(1) Water-related diseases are a human tragedy, killing up to five million people annually, preventingmillions of people from leading healthy lives, and undermining development efforts.
+&emsp;"(1) Water-related diseases are a human tragedy, killing up to five million people annually, preventing millions of people from leading healthy lives, and undermining development efforts.
 
 &emsp;"(2) A child dies an average of every 15 seconds because of lack of access to safe water and adequate sanitation.
 

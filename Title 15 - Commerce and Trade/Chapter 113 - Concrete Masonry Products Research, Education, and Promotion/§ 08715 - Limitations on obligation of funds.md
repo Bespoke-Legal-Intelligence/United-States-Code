@@ -20,7 +20,7 @@ During the covered period, the Board may not obligate, expend, or borrow against
 
 #### (d) Release of amounts in escrow account
 
-After the covered period, the Board may withdraw and obligate in any fiscal year an amountin the escrow account that does not exceed 1/5 of the amount in the escrow account on the last day of the covered period.
+After the covered period, the Board may withdraw and obligate in any fiscal year an amount in the escrow account that does not exceed 1/5 of the amount in the escrow account on the last day of the covered period.
 
 #### (e) Special rule for estimates for particular fiscal years
 
@@ -34,7 +34,7 @@ After the covered period, the Board may withdraw and obligate in any fiscal year
 
 #### (f) Covered period defined
 
-In this section, the term "covered period" means the period that begins on October 5, 2018, and ends on the last day of the 11th fiscal year that begins on or after such date.
+In this section, the term "covered period" means the period that begins on October 5, 2018,and ends on the last day of the 11th fiscal year that begins on or after such date.
 
 (Pub. L. 115–254, div. E, §1316, Oct. 5, 2018, 132 Stat. 3483.)
 

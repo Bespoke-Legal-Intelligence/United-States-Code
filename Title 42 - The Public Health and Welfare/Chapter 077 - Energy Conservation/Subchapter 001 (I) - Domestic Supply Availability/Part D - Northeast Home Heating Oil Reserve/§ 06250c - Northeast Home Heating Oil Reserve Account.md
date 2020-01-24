@@ -10,7 +10,7 @@ the <sup>1</sup> Secretary of the Treasury shall deposit in the Account any amo
 
 #### (c) Obligation of amounts
 
-The Secretary of Energy may obligate amounts in the Account to carry out activities under this part without the need for further appropriation, and amounts available to the Secretary of Energy for obligation under this section shall remain available without fiscal year limitation.
+The Secretary of Energy may obligate amounts in the Account to carry out activitiesunder this part without the need for further appropriation, and amounts available to the Secretary of Energy for obligation under this section shall remain available without fiscal year limitation.
 
 (Pub. L. 94–163, title I, §184, as added Pub. L. 106–469, title II, §201(a)(3), Nov. 9, 2000, 114 Stat. 2036.)
 

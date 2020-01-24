@@ -48,7 +48,7 @@ The purposes of this section are to—
 
 #### (c) General authority
 
-The Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the purpose of encouraging States to provide information and technical assistance to units of local government and others that will encourage cooperative efforts to plan urban forestry programs and to plant, protect, and maintain, and utilize wood from, trees in open spaces, greenbelts, roadside screens, parks, woodlands, curb areas, and residential developments in urban areas. In providing such assistance, the Secretary is authorized to cooperate with interested members of the public, including nonprofit private organizations. The Secretary is also authorized to cooperate directly with units of local government and others in implementing this section whenever the Secretary and the affected State forester or equivalent State official agree that direct cooperation would better achieve the purposes of this section.
+The Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the purpose of encouraging States to provide information and technical assistance to units of local government and others that will encourage cooperative efforts to plan urban forestry programs and to plant, protect, and maintain, and utilize wood from, trees in open spaces, greenbelts, roadside screens, parks, woodlands, curb areas, and residential developments in urban areas. In providing such assistance, the Secretary is authorized to cooperate with interested members of the public, including nonprofit private organizations. The Secretary is also authorized to cooperate directly with units of local government and others in implementing this section whenever the Secretary and the affectedState forester or equivalent State official agree that direct cooperation would better achieve the purposes of this section.
 
 #### (d) Program of education and technical assistance
 
@@ -122,7 +122,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 &emsp;&emsp;&emsp;(ix) 1 member from the Forest Service, and
 
-&emsp;&emsp;&emsp;(x) 2 members who are not officers or employees of any governmental body, 1 of whom is a resident of a community with a population of less than 50,000 as of the most recent census and both of whom have expertise and have been active in urban and community forestry.
+&emsp;&emsp;&emsp;(x) 2 members who are not officers or employees of any governmental body, 1 of whom is a resident of a community with apopulation of less than 50,000 as of the most recent census and both of whom have expertise and have been active in urban and community forestry.
 
 #### (B) Vacancy
 
@@ -146,7 +146,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 &emsp;&emsp;&emsp;&emsp;(II) 5, including 2 governmental employees, shall be appointed for a term of 2 years, and
 
-&emsp;&emsp;&emsp;&emsp;(III) 5, including 2 governmental employees, shall be appointed for a term of1 year, as designated by the Secretary at the time of appointment.
+&emsp;&emsp;&emsp;&emsp;(III) 5, including 2 governmental employees, shall be appointed for a term of 1 year, as designated by the Secretary at the time of appointment.
 
 #### (iii) Continuation
 
@@ -196,7 +196,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 &emsp;The Council shall submit the plan to the Secretary and the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate upon its completion. Beginning no later than one year after the plan is submitted and annually thereafter, the Council shall submit a review of the plan to the Secretary no later than December 31. The review shall consist of—
 
-&emsp;&emsp;(A) the Council's assessment of prior year accomplishments in research, education, technical assistance, and related activities in urban and community forestry;
+&emsp;&emsp;(A) the Council's assessment of prior year accomplishments in research, education,technical assistance, and related activities in urban and community forestry;
 
 &emsp;&emsp;(B) the Council's recommendations for research, education, technical assistance, and related activities in the succeeding year; and
 

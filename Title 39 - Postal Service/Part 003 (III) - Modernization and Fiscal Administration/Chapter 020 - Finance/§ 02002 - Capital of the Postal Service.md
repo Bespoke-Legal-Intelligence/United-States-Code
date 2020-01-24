@@ -42,7 +42,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 Pub. L. 91–375, §4(b), Aug. 12, 1970, 84 Stat. 774, provided that: "Postal revenues and fees collected on and after the effective date of this section \[see note below\] shall be considered assets of the Postal Service."
 
-Provisions of section 4(b) of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
+Provisions of section 4(b) of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date establishedtherefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
 
 #### Ex. Ord. No. 11672. Transfer or Furnishing of Property
 
@@ -54,7 +54,7 @@ Section 1. The authority conferred upon the President by section 2002(d) of titl
 
 Sec. 2. Property transferred to the Postal Service under this order shall be subject to reimbursement at fair market value, as agreed to by the Administrator of General Services and the Postmaster General, unless the Director of the Office of Management and Budget finds that a different basis of valuation, or transfer without reimbursement, is more equitable or better serves the public interest.
 
-Sec. 3. Reimbursement of fair market value required for property transfers to the Postal Service under this order may consist of cash payments or, subject to approval by the Director of the Office of Management and Budget, property transferred from the Postal Service toother departments, agencies, or independent establishments of the Government of the United States, or both cash and approved properties.
+Sec. 3. Reimbursement of fair market value required for property transfers to the Postal Service under this order may consist of cash payments or, subject to approval by the Director of the Office of Management and Budget, property transferred from the Postal Service to other departments, agencies, or independent establishments of the Government of the United States, or both cash and approved properties.
 
 Sec. 4. Heads of agencies furnishing property to the Postal Service under section 411 of title 39 of the United States Code shall require reimbursement at fair market value of such property or at a rate based on appropriate commercial charges for comparable property, as agreed to by the agency head and the Postmaster General, unless the Director of the Office of Management and Budget finds that a different basis of valuation is more equitable or better serves the public interest.
 

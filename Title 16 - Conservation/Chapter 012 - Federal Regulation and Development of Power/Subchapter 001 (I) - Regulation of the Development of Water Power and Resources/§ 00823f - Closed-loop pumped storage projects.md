@@ -42,7 +42,7 @@ Before issuing any license for a closed-loop pumped storage project, the Commiss
 
 #### (4) Fees
 
-&emsp;The Commission, in addition to the requirements of section 803(e) of this title, shall establish fees which shall be paid by an applicant for a license for a closed-loop pumped storage project that is required to meet terms and conditions set by fish and wildlife agencies under paragraph (3). Such fees shall be adequate to reimburse the fish and wildlife agencies referred to in paragraph (3) for any reasonable costs incurred in connection with any studies or other reviews carried out by such agencies for purposes of compliance withthis section. The fees shall, subject to annual appropriations Acts, be transferred to such agencies by the Commission for use solely for purposes of carrying out such studies and shall remain available until expended.
+&emsp;The Commission, in addition to the requirements of section 803(e) of this title, shall establish fees which shall be paid by an applicant for a license for a closed-loop pumped storage project that is required to meet terms and conditions set by fish and wildlife agencies under paragraph (3). Such fees shall be adequate to reimburse the fish and wildlife agencies referred to in paragraph (3) for any reasonable costs incurred in connection with any studies or other reviews carried out by such agencies for purposes of compliance with this section. The fees shall, subject to annual appropriations Acts, be transferred to such agencies by the Commission for use solely for purposes of carrying out such studies and shall remain available until expended.
 
 #### (d) Transfers
 
@@ -92,7 +92,7 @@ Nothing in this section affects any authority of the Commission to license a clo
 
 #### References in Text
 
-The Fish and Wildlife Coordination Act, referred to in subsec. (c)(2), (3)(A), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (c)(2), (3)(A), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

@@ -50,7 +50,7 @@ Penalties applicable to individuals and small business concerns.—
 
 (6)
 
-Failure To Collect Airport Security Badges <sup>1</sup>.—Notwithstanding paragraph (1), any employer (other than a governmental entity or airport operator) who employs an employee to whom an airport security badge or other identifier used to obtain access to a secure area of an airport is issued before, on, or after the date of enactment of this paragraph and who does not collect or make reasonable efforts to collect such badge from the employee on the date that the employment of the employee is terminated and does not notify the operator of the airport of such termination within 24 hours of the date of such termination shall be liable to the Government for a civil penalty not to exceed $10,000.
+Failure To Collect Airport Security Badges <sup>1</sup>.—Notwithstanding paragraph (1), any employer (other than a governmental entity or airport operator) who employs an employee to whom an airport security badge or other identifier used to obtain access to a secure area of an airport is issued before, on, or after the date of enactment of this paragraph and who does not collect or make reasonable efforts to collectsuch badge from the employee on the date that the employment of the employee is terminated and does not notify the operator of the airport of such termination within 24 hours of the date of such termination shall be liable to the Government for a civil penalty not to exceed $10,000.
 
 (7)
 
@@ -344,7 +344,7 @@ In subsection (d)(2), the text of section 7214 of the Anti-Drug Abuse Act of 198
 
 In subsection (d)(4)(C), the word "or" is substituted for "and" for clarity.
 
-In subsection (d)(5)(B) and (7)(A), the words "in accordance with section 554 of title 5" are omitted for consistency in the revised title and because 5:554 applies to a hearing on the record unless otherwise stated.
+In subsection (d)(5)(B) and (7)(A), the words "in accordance with section 554 of title 5" are omitted forconsistency in the revised title and because 5:554 applies to a hearing on the record unless otherwise stated.
 
 In subsection (d)(5)(B), the words "consistent with this subsection" are omitted as surplus.
 
@@ -518,7 +518,7 @@ Subsec. (g). Pub. L. 106–181, §720(3), inserted "or the Administrator" after 
 
 <b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–287, §5(77)(A)(iii), (iv), inserted "or" after "46303," and struck out ", or 41715" after "under such section)".
 
-Pub. L. 104–287, §5(77)(A)(ii), substituted "section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section" for "or any of sections 44701(a) or (b),44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44909(a), 44912–44915, 44932–44938,".
+Pub. L. 104–287, §5(77)(A)(ii), substituted "section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section" for "or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44909(a), 44912–44915, 44932–44938,".
 
 Pub. L. 104–287, §5(77)(A)(i), substituted "chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714)," for "any of sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, or 41731–41742,".
 
@@ -532,7 +532,7 @@ Pub. L. 104–264, §502(c)(2), which directed amendment of subpar. (A) by inser
 
 Subsec. (a)(3). Pub. L. 104–287, §5(77)(C), realigned margins of subpars. (A) and (B).
 
-Subsec. (a)(5). Pub. L. 104–264, §804(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "In the case of a violation of section 47107(b) of this title, the maximum civil penalty for a continuing violation shall not exceed $50,000."
+Subsec. (a)(5). Pub. L. 104–264, §804(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "In the case of a violation of section 47107(b) ofthis title, the maximum civil penalty for a continuing violation shall not exceed $50,000."
 
 Subsec. (c)(1)(A). Pub. L. 104–287, §5(77)(D)(ii), (iii), struck out "or" before "subchapter II" and inserted ", or section 44909" before "of this title".
 
@@ -608,7 +608,7 @@ Amendment by section 207(c) of Pub. L. 103–305 effective Feb. 1, 1995, see sec
 
 #### Savings Provision
 
-Pub. L. 102–345, §2(c), Aug. 26, 1992, 106 Stat. 925, provided that: "Notwithstanding subsections (a) and (b) of this section, sections 901(a)(3) and 905 of the Federal Aviation Act of 1958 \[Pub. L. 85–726\] as in effect on July 31, 1992, shall continue in effect on and after such dateof enactment with respect to violations of the Federal Aviation Act of 1958 occurring before such date of enactment."
+Pub. L. 102–345, §2(c), Aug. 26, 1992, 106 Stat. 925, provided that: "Notwithstanding subsections (a) and (b) of this section, sections 901(a)(3) and 905 of the Federal Aviation Act of 1958 \[Pub. L. 85–726\] as in effect on July 31, 1992, shall continue in effect on and after such date of enactment with respect to violations of the Federal Aviation Act of 1958 occurring before such date of enactment."
 
 #### Laser Pointer Incidents
 

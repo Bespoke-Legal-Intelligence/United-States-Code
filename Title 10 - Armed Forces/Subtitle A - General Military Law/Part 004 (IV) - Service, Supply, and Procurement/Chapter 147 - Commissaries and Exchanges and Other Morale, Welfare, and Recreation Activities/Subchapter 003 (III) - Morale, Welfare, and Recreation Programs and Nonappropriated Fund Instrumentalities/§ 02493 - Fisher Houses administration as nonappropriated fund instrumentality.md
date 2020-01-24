@@ -54,7 +54,7 @@ Governance.—The Secretary of each military department shall establish a system
 
 (d)
 
-Central Fund.—The Secretary of each military department shall establish a single fund as the source of funding for the operation, maintenance, and improvement of all FisherHouses and Fisher Suites of the nonappropriated fund instrumentality required by subsection (b) for that military department.
+Central Fund.—The Secretary of each military department shall establish a single fund as the source of funding for the operation, maintenance, and improvement of all Fisher Houses and Fisher Suites of the nonappropriated fund instrumentality required by subsection (b) for that military department.
 
 (e)
 

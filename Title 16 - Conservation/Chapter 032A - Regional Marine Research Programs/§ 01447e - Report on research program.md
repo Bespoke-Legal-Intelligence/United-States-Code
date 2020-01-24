@@ -2,7 +2,7 @@
 
 #### (a) Preparation and submission of report
 
-Each Board receiving a grant under section 1447d of this title shall, not later than 2 yearsafter the approval of its comprehensive plan under section 1447d of this title and at 2-year intervals thereafter, prepare and submit to the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency a report describing—
+Each Board receiving a grant under section 1447d of this title shall, not later than 2 years after the approval of its comprehensive plan under section 1447d of this title and at 2-year intervals thereafter, prepare and submit to the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency a report describing—
 
 &emsp;(1) the findings and conclusions of research projects conducted in the region;
 

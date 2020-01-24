@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–405 substituted "Under Secretary for Health is" for "Chief Medical Director is" and inserted at end "The Under Secretary for Health may be referred to as the Chief Medical Director."
+<b>1992</b>—Subsec. (a). Pub. L. 102–405 substituted "Under Secretary for Health is" for "Chief Medical Directoris" and inserted at end "The Under Secretary for Health may be referred to as the Chief Medical Director."
 

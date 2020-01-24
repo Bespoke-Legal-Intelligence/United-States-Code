@@ -102,7 +102,7 @@ There is established within the Executive Office of the President the Office of 
 
 The United States Trade Representative may, for the purpose of carrying out his functions under this section—
 
-&emsp;(1) subject to the civil service and classification laws, select, appoint, employ, and fix the compensation of such officers and employees as are necessary and prescribe their authority and duties, except that not more than 20 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceed the rate of pay for level IV of the Executive Schedule in section 5314 <sup>1</sup> of title 5;
+&emsp;(1) subject to the civil service and classification laws, select, appoint, employ, and fix the compensation of such officers and employeesas are necessary and prescribe their authority and duties, except that not more than 20 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceed the rate of pay for level IV of the Executive Schedule in section 5314 <sup>1</sup> of title 5;
 
 &emsp;(2) employ experts and consultants in accordance with section 3109 of title 5 and compensate individuals so employed for each day (including traveltime) at rates not in excess of the maximum rate of pay for grade GS–18 as provided in section 5332 of title 5 and while such experts and consultants are so serving away from their homes or regular place of business, to pay such employees travel expenses and per diem in lieu of subsistence at rates authorized by section 5703 of title 5 for persons in Government service employed intermittently;
 
@@ -142,7 +142,7 @@ The United States Trade Representative shall, to the extent he deems it necessar
 
 &emsp;(ii) not to exceed $1,000,000 shall remain available until expended.
 
-(2) For the fiscal year beginning October 1, 1982, and for each fiscal year thereafter, there are authorized to be appropriated to the Office for the salaries of its officers and employees such additional sums as may be provided by lawto reflect pay rate changes made in accordance with the Federal Pay Comparability Act of 1970.
+(2) For the fiscal year beginning October 1, 1982, and for each fiscal year thereafter, there are authorized to be appropriated to the Office for the salaries of its officers and employees such additional sums as may be provided by law to reflect pay rate changes made in accordance with the Federal Pay Comparability Act of 1970.
 
 (3) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the United States Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the Office to carry out its functions.
 
@@ -172,7 +172,7 @@ The United States Trade Representative shall, to the extent he deems it necessar
 
 #### (B) Additional employees
 
-&emsp;&emsp;A Federal agency may, in consultation with and with the approval of the United States Trade Representative, detail or assign one or more employees to the Center without any reimbursement from the Center to support the functions of the Center.
+&emsp;&emsp;A Federal agency may, in consultation with and with the approval of the United States Trade Representative, detail or assign one or more employees to the Centerwithout any reimbursement from the Center to support the functions of the Center.
 
 (Pub. L. 93–618, title I, §141, Jan. 3, 1975, 88 Stat. 1999; Pub. L. 97–456, §3(a)–(d)(2), Jan. 12, 1983, 96 Stat. 2504, 2505; Pub. L. 98–573, title III, §304(d)(2)(A), title VII, §703, Oct. 30, 1984, 98 Stat. 3004, 3043; Pub. L. 99–272, title XIII, §13023, Apr. 7, 1986, 100 Stat. 307; Pub. L. 99–514, title XVIII, §1887(a)(3), (4), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–203, title IX, §9504, Dec. 22, 1987, 101 Stat. 1330–382; Pub. L. 100–418, title I, §1601, Aug. 23, 1988, 102 Stat. 1260; Pub. L. 101–207, §1(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §103(a), Aug. 20, 1990, 104 Stat. 634; Pub. L. 103–465, title VI, §621(a)(8), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–65, §21(b), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–295, §20(f)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–36, title I, §1001(a)(2), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title IV, §406, May 18, 2000, 114 Stat. 293; Pub. L. 107–210, div. A, title III, §361(a), (b), Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(15), Dec. 3, 2004, 118 Stat. 2591; Pub. L. 114–26, title I, §104(f), June 29, 2015, 129 Stat. 342; Pub. L. 114–125, title VI, §§604(a), (b), 609(a), title IX, §918, Feb. 24, 2016, 130 Stat. 185, 186, 190, 280.)
 
@@ -370,7 +370,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (a) The Office of the Special Representative for Trade Negotiations is redesignated the Office of the United States Trade Representative.
 
-(b)(1) The Special Representative for Trade Negotiations is redesignated the United States Trade Representative (hereinafter referred to as the "Trade Representative"). The Trade Representative shall have primary responsibility, with the advice of the interagency organization established under section 242 of the Trade Expansion Act of 1962 (19 U.S.C. 1872) (hereinafter referred to as the "Committee"), for developing, and for coordinating the implementation of, United States international trade policy, including commodity matters and, to the extent they are related to international trade policy, direct investment matters. The Trade Representative shall serve as the principal advisor to the President on international trade policy and shalladvise the President on the impact of other policies of the United States Government on international trade.
+(b)(1) The Special Representative for Trade Negotiations is redesignated the United States Trade Representative (hereinafter referred to as the "Trade Representative"). The Trade Representative shall have primary responsibility, with the advice of the interagency organization established under section 242 of the Trade Expansion Act of 1962 (19 U.S.C. 1872) (hereinafter referred to as the "Committee"), for developing, and for coordinating the implementation of, United States international trade policy, including commodity matters and, to the extent they are related to international trade policy, direct investment matters. The Trade Representative shall serve as the principal advisor to the President on international trade policy and shall advise the President on the impact of other policies of the United States Government on international trade.
 
 (2) The Trade Representative shall have lead responsibility for the conduct of international trade negotiations, including commodity and direct investment negotiations in which the United States participates.
 
@@ -462,7 +462,7 @@ Nothing in this reorganization plan is intended to derogate from the responsibil
 
 #### Sec. 8. Incidental Transfers; Interim Officers
 
-(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this reorganization plan as the Director of the Office of Management and Budget shall determine shall be transferred to the appropriate agency, organization, or component at such time or times as such Director shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation originally was made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agency abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of the reorganization plan.
+(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this reorganization plan as the Director ofthe Office of Management and Budget shall determine shall be transferred to the appropriate agency, organization, or component at such time or times as such Director shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation originally was made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agency abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of the reorganization plan.
 
 (b) Pending the assumption of office by the initial officers provided for in section 2 of this reorganization plan, the functions of each such office may be performed, for up to a total of 60 days, by such individuals as the President may designate. Any individual so designated shall be compensated at the rate provided herein for such position.
 
@@ -785,6 +785,52 @@ Sec. 6. <i>General Provisions</i>. (a) This order shall be implemented consisten
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Reforming Developing-Country Status in the World Trade Organization
+
+Memorandum of President of the United States, July 26, 2019, 84 F.R. 37555, provided:
+
+Memorandum for the United States Trade Representative
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby directed as follows:
+
+Section 1. <i>Policy</i>. The World Trade Organization (WTO) was created to spur economic growth and raise standards of living by establishing international trade rules premised on principles of transparency, openness, and predictability. Although economic tides have risen worldwide since the WTO's inception in 1995, the WTO continues to rest on an outdated dichotomy between developed and developing countries that has allowed some WTO Members to gain unfair advantages in the international trade arena. Nearly two-thirds of WTO Members have been able to avail themselves of special treatment and to take on weaker commitments under the WTO framework by designating themselves as developing countries. While some developing-country designations are proper, many are patently unsupportable in light of current economic circumstances. For example, 7 out of the 10 wealthiest economies in the world as measured by Gross Domestic Product per capita on a purchasing-power parity basis—Brunei, Hong Kong, Kuwait, Macao, Qatar, Singapore, and the United Arab Emirates—currently claim developing-country status. Mexico, South Korea, and Turkey—members of both the G20 and the Organization for Economic Cooperation and Development (OECD)—also claim this status.
+
+When the wealthiest economies claim developing-country status, they harm not only other developed economies but also economies that truly require special and differential treatment. Such disregard for adherence to WTO rules, including the likely disregard of any future rules, cannot continue to go unchecked.
+
+China most dramatically illustrates the point. Since joining the WTO in 2001, China has continued to insist that it is a developing country and thus has the right to avail itself of flexibilities under any new WTO rules. The United States has never accepted China's claim to developing-country status, and virtually every current economic indicator belies China's claim. After years of explosive growth, China has the second largest Gross Domestic Product in the world, behind only the United States. China accounts for nearly 13 percent of total global exports of goods, while its global share of such exports jumped five-fold between 1995 and 2017. It has been the largest global exporter of goods each year since 2009. Further, China's preeminent status in exports is not limited to goods from low-wage manufacturing sectors. China currently ranks first in the world for exports of high-technology products, with such exports alone increasing by 3,800 percent between 1995 and 2016.
+
+Other economic figures tell a similar story. Valued at nearly $1.5 trillion, China's outbound foreign direct investment (FDI) exceeds that of 32 of 36 OECD countries, while its inbound FDI of nearly $2.9 trillion exceeds all but one OECD country. China is home to 120 of the world's 500 largest companies, and its defense expenditures and total number of satellites in space are second only to those of the United States.
+
+Notwithstanding these facts and other evidence of economic vibrancy, China and too many other countries have continued to style themselves as developing countries, allowing them to enjoy the benefits that come with that status and seek weaker commitments than those made by other WTO Members. These countries claim entitlement to longer timeframes for the imposition of safeguards, generous transition periods, softer tariff cuts, procedural advantages for WTO disputes, and the ability to avail themselves of certain export subsidies—all at the expense of other WTO Members. These countries have also consistently sought weaker commitments than other WTO Members in ongoing negotiations, which has significantly stymied progress. Moreover, many of the world's most advanced economies have used developing-country status as an excuse not to comply with the most basic notification requirements under WTO rules, depriving United States traders of vital trade data. The status quo cannot continue.
+
+The WTO is in desperate need of reform, without which the WTO will be unable to address the needs of workers and businesses or the challenges posed by the modern global economy. The United States is also pressing for critical reforms in other multilateral international organizations to help ensure that those organizations recognize the economic development of their members and can work within their mandates to address important challenges. The need to reform international economic institutions is not just a challenge for the United States but for all countries that participate in the global marketplace.
+
+With respect to the WTO, there is no hope of progress in resolving this challenge until the world's most advanced economies are prepared to take on the full commitments associated with WTO membership. To help ensure that those countries live up to their commitments, it shall be the policy of the United States to make trade more free, fair, and reciprocal by devoting all necessary resources toward changing the WTO approach to developing-country status such that advanced economies can no longer avail themselves of unwarranted benefits despite abundant evidence of economic strength.
+
+Sec. 2. <i>Changing the WTO Approach to Flexibilities Associated with Developing-Country Status</i>. (a) To advance the policy set forth in section 1 of this memorandum, the United States Trade Representative (USTR) shall, as appropriate and consistent with applicable law, use all available means to secure changes at the WTO that would prevent self-declared developing countries from availing themselves of flexibilities in WTO rules and negotiations that are not justified by appropriate economic and other indicators. Where appropriate and consistent with law, the USTR shall pursue this action in cooperation with other like-minded WTO Members.
+
+(b) Within 60 days of the date of this memorandum \[July 26, 2019\], the USTR shall update the President on his progress under subsection (a) of this section.
+
+Sec. 3. <i>Ending Unfair Trade Benefits</i>. (a) If, within 90 days of the date of this memorandum, the USTR determines that substantial progress has not been made toward achieving the changes described in section 2 of this memorandum, the USTR shall, as appropriate and to the extent consistent with law:
+
+(i) no longer treat as a developing country for the purposes of the WTO any WTO Member that in the USTR's judgment is improperly declaring itself a developing country and inappropriately seeking the benefit of flexibilities in WTO rules and negotiations; and
+
+(ii) where relevant, not support any such country's membership in the OECD.
+
+(b) Before taking any action under subsection (a) of this section, the USTR shall:
+
+(i) consult with the Trade Policy Committee established under section 242 of the Trade Expansion Act of 1962 (19 U.S.C. 1872);
+
+(ii) consult with the National Security Council and the National Economic Council as to the advisability of interagency coordination through the process described in National Security Presidential Memorandum–4 of April 4, 2017 (Organization of the National Security Council, the Homeland Security Council, and Subcommittees) \[50 U.S.C. 3021 note\], or any successor document; and
+
+(iii) consider the WTO Member's involvement in global trade, membership in key economic decision-making groups, placement within relative economic and other indicators, and any other factors the USTR deems appropriate.
+
+(c) The USTR shall publish on its website a list of all self-declared developing countries that the USTR believes are inappropriately seeking the benefit of developing-country flexibilities in WTO rules and negotiations.
+
+Sec. 4. <i>Publication</i>. The USTR is authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "5315".</i>
 

@@ -18,7 +18,7 @@ The Director of the National Science Foundation (referred to in this section as 
 
 #### (B) Ability
 
-&emsp;Awards of scholarships under this section shall be made by the Director solely on the basis of the ability of the applicant, except that in any case in which 2 or more applicants for scholarships are deemed by the Director to be possessed of substantially equal ability, and there are not sufficient scholarships available to grant one to each of such applicants, the available scholarship or scholarships shall be awarded to the applicants in a manner that will tend to result in a geographically wide distribution throughout the United States of recipients' places of permanent residence.
+&emsp;Awards of scholarships under this section shall be made by the Director solely on the basis of the ability of the applicant, except that in any case in which 2 or more applicants for scholarships are deemed by the Director to be possessed of substantially equal ability, and there are not sufficient scholarships available to grant one to each of such applicants, the available scholarship or scholarships shall be awarded to the applicants in a manner thatwill tend to result in a geographically wide distribution throughout the United States of recipients' places of permanent residence.
 
 #### (3) Limitation
 

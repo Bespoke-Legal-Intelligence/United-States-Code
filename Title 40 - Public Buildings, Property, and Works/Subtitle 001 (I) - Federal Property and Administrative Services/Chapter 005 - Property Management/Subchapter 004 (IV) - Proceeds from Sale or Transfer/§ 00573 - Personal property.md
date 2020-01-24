@@ -26,5 +26,5 @@ June 30, 1949, ch. 288, title II, §204(i), as added Pub. L. 103–123, title IV
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313, set out asa note under section 5316 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313, set out as a note under section 5316 of Title 5, Government Organization and Employees.
 

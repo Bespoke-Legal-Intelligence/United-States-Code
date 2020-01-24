@@ -10,7 +10,7 @@
 
 (c) An agreement between the Secretary and a participant in the Tuition Reimbursement Program shall (in addition to the requirements set forth in section 7604 of this title) contain the following:
 
-&emsp;(1) The Secretary's agreement to provide the participant with tuition reimbursement following successful completion (as determined, pursuant to regulations prescribed by the Secretary, by the educational institution involved) of (A) a course or courses required for the course of study described in subsection (a) of this section, or (B) a course or courses taken as necessary prerequisites for degree program enrollment if a letter regarding the potential enrollment of the participant from an appropriate official of the institution involved includes a statement specifying such prerequisites.
+&emsp;(1) The Secretary's agreement to provide the participant with tuition reimbursement following successful completion (as determined, pursuant to regulations prescribed by the Secretary, by the educational institution involved) of (A) a course or courses required for the course of study described in subsection (a) of this section, or (B) a course or courses taken as necessary prerequisites for degreeprogram enrollment if a letter regarding the potential enrollment of the participant from an appropriate official of the institution involved includes a statement specifying such prerequisites.
 
 &emsp;(2) The participant's agreement—
 

@@ -76,7 +76,7 @@ For purposes of this part—
 
 #### (B) Waiting period not treated as a break in coverage
 
-&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4), any period that an individualis in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2)) shall not be taken into account in determining the continuous period under subparagraph (A).
+&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4), any period that an individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2)) shall not be taken into account in determining the continuous period under subparagraph (A).
 
 #### (C) TAA-eligible individuals
 
@@ -204,7 +204,7 @@ For purposes of this part—
 
 #### (B) Dependent special enrollment period
 
-&emsp;&emsp;A dependent special enrollment period under this subparagraph shall be a period of not less than 30 days and shall begin on the later of—
+&emsp;&emsp;A dependent special enrollment period under this subparagraph shall be a period ofnot less than 30 days and shall begin on the later of—
 
 &emsp;&emsp;&emsp;(i) the date dependent coverage is made available, or
 
@@ -252,7 +252,7 @@ For purposes of this part—
 
 #### (ii) Disclosure about group health plan benefits to States for Medicaid and CHIP eligible individuals
 
-&emsp;&emsp;&emsp;In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act \[42 U.S.C. 1397ee(c)(2)(B), (3), (10)\] or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
+&emsp;&emsp;&emsp;In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under thegroup health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act \[42 U.S.C. 1397ee(c)(2)(B), (3), (10)\] or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
 
 #### (g) Use of affiliation period by HMOs as alternative to preexisting condition exclusion
 
@@ -344,7 +344,7 @@ Period of coverage.—
 
 &emsp;&emsp;"(i)
 
-In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into accountunder part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (as added by this section) \[this part\] in determining creditable coverage.
+In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into account under part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (as added by this section) \[this part\] in determining creditable coverage.
 
 &emsp;&emsp;"(ii)
 
@@ -444,7 +444,7 @@ Compensation.—The members of the Working Group shall serve without compensatio
 
 "(iv)
 
-Administrative support.—The Department of Health and Human Services and the Department of Labor shall jointly provide appropriate administrative support to the Working Group, including technical assistance. The Working Group may use the services andfacilities of either such Department, with or without reimbursement, as jointly determined by such Departments.
+Administrative support.—The Department of Health and Human Services and the Department of Labor shall jointly provide appropriate administrative support to the Working Group, including technical assistance. The Working Group may use the services and facilities of either such Department, with or without reimbursement, as jointly determined by such Departments.
 
 "(v)
 

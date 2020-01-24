@@ -20,7 +20,7 @@ Subsec. (a). Pub. L. 91–172, §121(d)(2)(C), substituted "income" for "rents" 
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 101(j)(22) of Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
+Amendment by section 101(j)(22) of Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L.91–172, set out as an Effective Date note under section 4940 of this title.
 
 Amendment by section 121(d)(2)(C) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
 

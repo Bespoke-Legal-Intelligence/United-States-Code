@@ -20,7 +20,7 @@ Environmental Checklist.—
 
 &emsp;(1)
 
-In general.—Not later than 90 days after the date of enactment of this section, the Secretary of Transportation and Federal agenciesof jurisdiction likely to have substantive review or approval responsibilities on transportation projects shall jointly develop a checklist to help project sponsors identify potential natural, cultural, and historic resources in the area of a proposed project.
+In general.—Not later than 90 days after the date of enactment of this section, the Secretary of Transportation and Federal agencies of jurisdiction likely to have substantive review or approval responsibilities on transportation projects shall jointly develop a checklist to help project sponsors identify potential natural, cultural, and historic resources in the area of a proposed project.
 
 &emsp;(2)
 

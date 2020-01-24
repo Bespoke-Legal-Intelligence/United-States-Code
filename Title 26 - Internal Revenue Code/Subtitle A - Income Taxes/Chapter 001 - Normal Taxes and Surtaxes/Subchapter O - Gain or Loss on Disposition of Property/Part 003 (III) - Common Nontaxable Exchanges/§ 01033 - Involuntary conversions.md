@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-If property (as a result of its destruction in whole or in part, theft, seizure, or requisition orcondemnation or threat or imminence thereof) is compulsorily or involuntarily converted—
+If property (as a result of its destruction in whole or in part, theft, seizure, or requisition or condemnation or threat or imminence thereof) is compulsorily or involuntarily converted—
 
 #### (1) Conversion into similar property
 
@@ -46,7 +46,7 @@ If property (as a result of its destruction in whole or in part, theft, seizure,
 
 #### (i) Control
 
-&emsp;&emsp;&emsp;The term "control" means the ownership of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
+&emsp;&emsp;&emsp;The term "control" means the ownership of stock possessing at least 80 percent ofthe total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
 
 #### (ii) Disposition of the converted property
 
@@ -118,7 +118,7 @@ For purposes of this subtitle, if livestock are destroyed by or on account of di
 
 #### (B) Further extension by Secretary
 
-&emsp;&emsp;The Secretary may extend on a regional basis the period for replacement under this section (after the application of subparagraph (A)) for such additional time as the Secretary determines appropriate if the weather-related conditions which resulted in such application continue for more than 3 years.
+&emsp;&emsp;The Secretary may extend on a regional basis the period for replacement under this section (after the application of subparagraph (A)) for such additional time as theSecretary determines appropriate if the weather-related conditions which resulted in such application continue for more than 3 years.
 
 #### (f) Replacement of livestock with other farm property in certain cases
 
@@ -128,7 +128,7 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 #### (1) Special rule
 
-&emsp;For purposes of subsection (a), if real property (not including stock in trade or other property held primarily for sale) held for productive use in trade or business or for investment is (as the result of its seizure, requisition, or condemnation, or threat or imminencethereof) compulsorily or involuntarily converted, property of a like kind to be held either for productive use in trade or business or for investment shall be treated as property similar or related in service or use to the property so converted.
+&emsp;For purposes of subsection (a), if real property (not including stock in trade or other property held primarily for sale) held for productive use in trade or business or for investment is (as the result of its seizure, requisition, or condemnation, or threat or imminence thereof) compulsorily or involuntarily converted, property of a like kind to be held either for productive use in trade or business or for investment shall be treated as property similar or related in service or use to the property so converted.
 
 #### (2) Limitations
 
@@ -190,7 +190,7 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 #### (4) Principal residence
 
-&emsp;For purposes of this subsection, the term "principal residence" has the same meaning as when used in section 121, except that such term shall include a residence not treated as a principal residence solely because the taxpayer does not own the residence.
+&emsp;For purposes of this subsection, the term "principal residence" has the same meaning aswhen used in section 121, except that such term shall include a residence not treated as a principal residence solely because the taxpayer does not own the residence.
 
 #### (i) Replacement property must be acquired from unrelated person in certain cases
 
@@ -206,7 +206,7 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 &emsp;&emsp;(B) a partnership in which 1 or more C corporations own, directly or indirectly (determined in accordance with section 707(b)(3)), more than 50 percent of the capital interest, or profits interest, in such partnership at the time of the involuntary conversion, and
 
-&emsp;&emsp;(C) any other taxpayer if, with respect to property which is involuntarily convertedduring the taxable year, the aggregate of the amount of realized gain on such property on which there is realized gain exceeds $100,000.
+&emsp;&emsp;(C) any other taxpayer if, with respect to property which is involuntarily converted during the taxable year, the aggregate of the amount of realized gain on such property on which there is realized gain exceeds $100,000.
 
 > &emsp;In the case of a partnership, subparagraph (C) shall apply with respect to the partnership and with respect to each partner. A similar rule shall apply in the case of an S corporation and its shareholders.
 
@@ -274,7 +274,7 @@ In general.—In the case of—
 
 &emsp;"(A) a C corporation, or
 
-&emsp;"(B) a partnership in which 1 or more C corporations own, directly or indirectly (determined in accordance with section 707(b)(3)), more than 50 percent of the capital interest, or profits interest, in suchpartnership at the time of the involuntary conversion,
+&emsp;"(B) a partnership in which 1 or more C corporations own, directly or indirectly (determined in accordance with section 707(b)(3)), more than 50 percent of the capital interest, or profits interest, in such partnership at the time of the involuntary conversion,
 
 > subsection (a) shall not apply if the replacement property or stock is acquired from a related person. The preceding sentence shall not apply to the extent that the related person acquired the replacement property or stock from an unrelated person during the period described in subsection (a)(2)(B).
 
@@ -414,7 +414,7 @@ Pub. L. 91–172, title IX, §915(b), Dec. 30, 1969, 83 Stat. 723, as amended by
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending after such date, see section 206(c) of Pub. L. 88–272, set out as an Effective Date note under section 121 of this title.
+Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending aftersuch date, see section 206(c) of Pub. L. 88–272, set out as an Effective Date note under section 121 of this title.
 
 #### Effective Date of 1958 Amendment
 

@@ -72,7 +72,7 @@ Upon request of the Commission, and subject to the availability of funds, the he
 
 #### (m) Administrative support services
 
-The Administrator of the General Services Administration shall provide to the Commission ona reimbursable basis such administrative support services as the Commission may request to carry out its duties under this chapter.
+The Administrator of the General Services Administration shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request to carry out its duties under this chapter.
 
 (Pub. L. 96–430, title II, §203, Oct. 10, 1980, 94 Stat. 1847.)
 

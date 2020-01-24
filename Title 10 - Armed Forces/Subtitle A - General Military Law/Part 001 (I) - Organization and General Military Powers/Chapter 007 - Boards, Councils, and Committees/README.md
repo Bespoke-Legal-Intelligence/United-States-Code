@@ -16,21 +16,18 @@
 | [181\.](%C2%A7%2000181%20-%20Joint%20Requirements%20Oversight%20Council.md) | Joint Requirements Oversight Council. |
 | [182\.](%C2%A7%2000182%20-%20Center%20for%20Excellence%20in%20Disaster%20Management%20and%20Humanitarian%20Assistance.md) | Center for Excellence in Disaster Management and Humanitarian Assistance. |
 | [183\.](%C2%A7%2000183%20-%20Department%20of%20Defense%20Board%20of%20Actuaries.md) | Department of Defense Board of Actuaries. |
-| [183a.](%C2%A7%2000183a%20-%20Military%20Aviation%20and%20Installation%20Assurance%20Clearinghouse%20for%20review%20of%20mission%20obstructions.md) | Military Aviation and Installation Assurance Siting Clearinghouse for review of mission obstructions.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [183a.](%C2%A7%2000183a%20-%20Military%20Aviation%20and%20Installation%20Assurance%20Clearinghouse%20for%20review%20of%20mission%20obstructions.md) | Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions. |
 | \[184 to 186. Renumbered or Repealed.\] |  |
 | [187\.](%C2%A7%2000187%20-%20Strategic%20Materials%20Protection%20Board.md) | Strategic Materials Protection Board. |
 | [188\.](%C2%A7%2000188%20-%20Interagency%20Council%20on%20the%20Strategic%20Capability%20of%20the%20National%20Laboratories.md) | Interagency Council on the Strategic Capability of the National Laboratories. |
 | [189\.](%C2%A7%2000189%20-%20Communications%20Security%20Review%20and%20Advisory%20Board.md) | Communications Security Review and Advisory Board. |
-| [190\.](%C2%A7%2000190%20-%20Defense%20Cost%20Accounting%20Standards%20Board.md) | Defense Cost Accounting Standards Board. |
+| \[190. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title VIII, §810(b), title XVII, §1731(a)(10), Dec. 20, 2019, 133 Stat. 1487, 1813, substituted "Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions" for "Military Aviation and Installation Assurance Siting Clearinghouse for review of mission obstructions" in item 183a and struck out item 190 "Defense Cost Accounting Standards Board".
 
 <b>2017</b>—Pub. L. 115–91, div. A, title III, §§311(b)(4), 341(b)(2), Dec. 12, 2017, 131 Stat. 1348, 1361, substituted "Explosive safety board" for "Ammunition storage board" in item 172 and added item 183a.
 
@@ -70,8 +67,6 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 
 <b>1976</b>—Pub. L. 94–361, title VIII, §811(c), July 14, 1976, 90 Stat. 936, added items 176 and 177.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
@@ -98,4 +93,4 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 - [&sect; 00187 - Strategic Materials Protection Board](%C2%A7%2000187%20-%20Strategic%20Materials%20Protection%20Board.md)
 - [&sect; 00188 - Interagency Council on the Strategic Capability of the National Laboratories](%C2%A7%2000188%20-%20Interagency%20Council%20on%20the%20Strategic%20Capability%20of%20the%20National%20Laboratories.md)
 - [&sect; 00189 - Communications Security Review and Advisory Board](%C2%A7%2000189%20-%20Communications%20Security%20Review%20and%20Advisory%20Board.md)
-- [&sect; 00190 - Defense Cost Accounting Standards Board](%C2%A7%2000190%20-%20Defense%20Cost%20Accounting%20Standards%20Board.md)
+- [&sect; 00190 - Repealed. Pub. L. 116&#8211;92, div. A, title VIII, &sect;810(a), Dec. 20, 2019, 133 Stat. 1487](%C2%A7%2000190%20-%20Repealed.%20Pub.%20L.%20116%E2%80%9392%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7810%28a%29%2C%20Dec.%2020%2C%202019%2C%20133%20Stat.%201487.md)

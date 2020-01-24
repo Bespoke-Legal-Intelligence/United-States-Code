@@ -52,7 +52,7 @@ For purposes of this part:
 
 #### (7) Smallpox emergency response plan
 
-&emsp;The term "smallpox emergency response plan" or "plan" means a response plan detailing actions to be taken in preparation for a possible smallpox-related emergency during the period prior to the identification of an active case of smallpox either within or outside the United States.
+&emsp;The term "smallpox emergency response plan" or "plan" means a response plan detailing actions to be taken in preparation for apossible smallpox-related emergency during the period prior to the identification of an active case of smallpox either within or outside the United States.
 
 #### (b) Voluntary program
 

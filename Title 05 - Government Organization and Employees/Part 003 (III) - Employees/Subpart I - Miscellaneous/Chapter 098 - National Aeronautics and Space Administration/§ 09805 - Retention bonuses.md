@@ -24,7 +24,7 @@
 
 (2) The employee's service period shall be expressed as the number equal to the full years and twelfth parts thereof, rounding the fractional part of a month to the nearest twelfth part of a year. The service period may not be less than 6 months and may not exceed 4 years.
 
-(3) Notwithstanding paragraph (1), a service agreement is not required if the Administration pays a bonus in biweekly installments and sets the installment payment at the full bonus percentage rate established for the employee, with no portion of the bonus deferred. In this case, the Administration shall inform the employee in writing of any decision to change the retention bonus payments. The employee shall continue to accrue entitlement to the retention bonus through the end of the pay period in which such written notice is provided.
+(3) Notwithstanding paragraph (1), a service agreement is not required if the Administration pays a bonus in biweekly installments and sets the installment payment at the full bonus percentage rate established for the employee, with no portion of the bonus deferred. In this case, the Administration shall inform the employee in writing of any decision to change the retention bonus payments. The employee shall continue to accrue entitlement to the retention bonusthrough the end of the pay period in which such written notice is provided.
 
 (e) A bonus under this section may not be considered to be part of the basic pay of an employee.
 

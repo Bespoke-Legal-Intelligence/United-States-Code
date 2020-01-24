@@ -6,7 +6,7 @@ The Administrator is authorized to award grants under this section to nonprofit 
 
 #### (b) Authorization
 
-Of such sums as are authorized to be appropriated pursuant to section 4021(a) of title 20 for the fiscal years 1991, 1992, 1993, 1994, and 1995, not more than $5,000,000 are authorized to be appropriated to carry out this section in each such fiscal year.
+Of such sums as are authorized to be appropriated pursuant to section 4021(a) of title 20 forthe fiscal years 1991, 1992, 1993, 1994, and 1995, not more than $5,000,000 are authorized to be appropriated to carry out this section in each such fiscal year.
 
 (Pub. L. 94–469, title II, §216, as added Pub. L. 101–637, §16(a)(1), Nov. 28, 1990, 104 Stat. 4597.)
 

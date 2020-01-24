@@ -32,7 +32,7 @@ In subsection (a), the words "Except as provided in section 8786 of this title" 
 
 In subsections (a) and (b), the words "or volunteer service, or both" are omitted as obsolete in accordance with an opinion of the Attorney General, 22 Ops. Atty. Gen. 199, Aug. 30, 1898, holding that such words refer to volunteer service in the Civil War. The words "upon his request" are substituted for the words "if he make application therefor to the President".
 
-In subsection (b), the applicability of 10:942 to warrant officers is based on an opinion of the Judge Advocate General of the Army (JAGA 1950/6951, 4 Jan. 1951), which holds that 10:594 (less provisos) makes 10:942 applicable to warrant officers.
+In subsection (b), the applicability of 10:942 to warrant officers is based on an opinion of the Judge Advocate General of the Army (JAGA 1950/6951, 4 Jan. 1951),which holds that 10:594 (less provisos) makes 10:942 applicable to warrant officers.
 
 #### Amendments
 

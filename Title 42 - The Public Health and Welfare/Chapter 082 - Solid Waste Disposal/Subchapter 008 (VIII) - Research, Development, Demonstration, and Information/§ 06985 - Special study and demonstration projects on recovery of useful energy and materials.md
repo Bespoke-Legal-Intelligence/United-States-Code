@@ -8,7 +8,7 @@ The Administrator shall conduct studies and develop recommendations for administ
 
 &emsp;(2) actions to reduce waste generation which have been taken voluntarily or in response to governmental action, and those which practically could be taken in the future, and the economic, social, and environmental consequences of such actions;
 
-&emsp;(3) methods of collection, separation, and containerization which will encourage efficient utilization of facilities and contribute to more effective programs of reduction, reuse, or disposal of wastes;
+&emsp;(3) methods of collection, separation, and containerization which will encourage efficient utilization of facilities and contribute tomore effective programs of reduction, reuse, or disposal of wastes;
 
 &emsp;(4) the use of Federal procurement to develop market demand for recovered resources;
 
@@ -18,7 +18,7 @@ The Administrator shall conduct studies and develop recommendations for administ
 
 &emsp;(7) the necessity and method of imposing disposal or other charges on packaging, containers, vehicles, and other manufactured goods, which charges would reflect the cost of final disposal, the value of recoverable components of the item, and any social costs associated with nonrecycling or uncontrolled disposal of such items; and
 
-&emsp;(8) the legal constraints and institutional barriers to the acquisition of land needed forsolid waste management, including land for facilities and disposal sites;
+&emsp;(8) the legal constraints and institutional barriers to the acquisition of land needed for solid waste management, including land for facilities and disposal sites;
 
 &emsp;(9) in consultation with the Secretary of Agriculture, agricultural waste management problems and practices, the extent of reuse and recovery of resources in such wastes, the prospects for improvement, Federal, State, and local regulations governing such practices, and the economic, social, and environmental consequences of such practices; and
 

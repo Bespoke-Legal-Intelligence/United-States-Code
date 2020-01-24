@@ -16,7 +16,7 @@ Defect and Noncompliance Proceedings and Orders.—(1) The Secretary may make a 
 
 (c)
 
-Notification by Manufacturer.—A manufacturer of a motor vehicle or replacementequipment shall notify the Secretary by certified mail or electronic mail, and the owners, purchasers, and dealers of the vehicle or equipment as provided in section 30119(d) of this section, if the manufacturer—
+Notification by Manufacturer.—A manufacturer of a motor vehicle or replacement equipment shall notify the Secretary by certified mail or electronic mail, and the owners, purchasers, and dealers of the vehicle or equipment as provided in section 30119(d) of this section, if the manufacturer—
 
 &emsp;(1) learns the vehicle or equipment contains a defect and decides in good faith that the defect is related to motor vehicle safety; or
 

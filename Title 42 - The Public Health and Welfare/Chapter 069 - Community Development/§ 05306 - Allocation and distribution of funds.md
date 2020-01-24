@@ -92,7 +92,7 @@
 
 (3) Notwithstanding the provisions of paragraph (1), the Secretary may upon request transfer responsibility to any metropolitan city for the administration of any amounts received, but not obligated, by the urban county in which such city is located if (A) such city was an included unit of general local government in such county prior to the qualification of such city as a metropolitan city; (B) such amounts were designated and received by such county for use in such city prior to the qualification of such city as a metropolitan city; and (C) such city and county agree to such transfer of responsibility for the administration of such amounts.
 
-(4)(A) Notwithstanding paragraph (1), in the event of a major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], the Secretary shall make available, to metropolitan cities and urban counties located or partially located in the areas affected by the disaster, any amounts that become available as a result of actions under section 5304(e) or 5311 of this title.
+(4)(A) Notwithstanding paragraph (1), in the event of a major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], the Secretary shall make available,to metropolitan cities and urban counties located or partially located in the areas affected by the disaster, any amounts that become available as a result of actions under section 5304(e) or 5311 of this title.
 
 (B) In using any amounts that become available as a result of actions under section 5304(e) or 5311 of this title, the Secretary shall give priority to providing emergency assistance under this paragraph.
 
@@ -134,7 +134,7 @@
 
 &emsp;(ii) by the Secretary, in any case described in subparagraph (B), for use by units of general local government in accordance with paragraph (3)(B).
 
-> Any election to distribute funds made after the close of fiscal year 1984 is permanent and final. Notwithstanding any provision of this chapter, the Secretary shall make grants from amounts authorized for use in nonentitlement areas by the Department of Housing and Urban Development—Independent Agencies Appropriation Act, 1981, in accordance with the provisions of this chapter which governed grants with respect to such amounts, as such provisions existed prior to October 1, 1981. Any amounts under the preceding sentence (except amounts for which preapplications have been approved by the Secretary prior to October 1, 1981, and which have been obligated by January 1, 1982) which are or become available for obligation after fiscal year 1981 shall be available for distribution in the State in which the grants from such amounts were made, by the State or by the Secretary, whichever is distributing the State allocation in the fiscal year in which such amounts are or become available.
+> Any election to distribute funds made after the close of fiscal year 1984 is permanent and final. Notwithstanding any provision of this chapter, the Secretary shall make grants from amounts authorized for use in nonentitlement areas by the Department of Housing and Urban Development—Independent Agencies Appropriation Act, 1981, in accordance with the provisions of this chapter which governed grants with respect to such amounts, as such provisions existed priorto October 1, 1981. Any amounts under the preceding sentence (except amounts for which preapplications have been approved by the Secretary prior to October 1, 1981, and which have been obligated by January 1, 1982) which are or become available for obligation after fiscal year 1981 shall be available for distribution in the State in which the grants from such amounts were made, by the State or by the Secretary, whichever is distributing the State allocation in the fiscal year in which such amounts are or become available.
 
 (B) The Secretary shall distribute amounts allocated under paragraph (1) if the State has not elected to distribute such amounts.
 
@@ -186,7 +186,7 @@ The Secretary may fix such qualification or submission dates as he determines ar
 
 #### (f) Pro rata adjustment of entitlement amounts
 
-If the total amount available for distribution in any fiscal year to metropolitan cities andurban counties under this section is insufficient to provide the amounts to which metropolitan cities and urban counties would be entitled under subsection (b), and funds are not otherwise appropriated to meet the deficiency, the Secretary shall meet the deficiency through a pro rata reduction of all amounts determined under subsection (b). If the total amount available for distribution in any fiscal year to metropolitan cities and urban counties under this section exceeds the amounts to which metropolitan cities and urban counties would be entitled under subsection (b), the Secretary shall distribute the excess through a pro rata increase of all amounts determined under subsection (b).
+If the total amount available for distribution in any fiscal year to metropolitan cities and urban counties under this section is insufficient to provide the amounts to which metropolitan cities and urban counties would be entitled under subsection (b), and funds are not otherwise appropriated to meet the deficiency, the Secretary shall meet the deficiency through a pro rata reduction of all amounts determined under subsection (b). If the total amount available for distribution in any fiscal year to metropolitan cities and urban counties under this section exceeds the amounts to which metropolitan cities and urban counties would be entitled under subsection (b), the Secretary shall distribute the excess through a pro rata increase of all amounts determined under subsection (b).
 
 (Pub. L. 93–383, title I, §106, Aug. 22, 1974, 88 Stat. 642; Pub. L. 95–128, title I, §106, Oct. 12, 1977, 91 Stat. 1117; Pub. L. 96–153, title I, §103(d), (e), Dec. 21, 1979, 93 Stat. 1102; Pub. L. 96–399, title I, §§102, 103, 111(d)–(g), 112, Oct. 8, 1980, 94 Stat. 1615, 1621, 1622; Pub. L. 97–35, title III, §§304, 309(h), Aug. 13, 1981, 95 Stat. 388, 396; Pub. L. 98–181, title I \[title I, §106\], Nov. 30, 1983, 97 Stat. 1164; Pub. L. 98–479, title I, §101(a)(10)–(12), Oct. 17, 1984, 98 Stat. 2219, 2220; Pub. L. 100–242, title V, §§512, 513, 517(b)(1), Feb. 5, 1988, 101 Stat. 1930, 1936; Pub. L. 100–628, title X, §1082(b), (c), Nov. 7, 1988, 102 Stat. 3277; Pub. L. 101–235, title VII, §702(b), Dec. 15, 1989, 103 Stat. 2056; Pub. L. 101–625, title IX, §§913(b), 933, Nov. 28, 1990, 104 Stat. 4392, 4403; Pub. L. 102–550, title VIII, §§802(b), 808, 811, title XII, §1204(i), Oct. 28, 1992, 106 Stat. 3845, 3850, 3940; Pub. L. 108–186, title V, §501(d), (e), Dec. 16, 2003, 117 Stat. 2697; Pub. L. 108–199, div. G, title IV, §423, Jan. 23, 2004, 118 Stat. 416.)
 
@@ -318,7 +318,7 @@ Subsec. (d)(5), (6). Pub. L. 98–181, §106(i), added pars. (5) and (6).
 
 Subsec. (f). Pub. L. 98–181, §106(j), amended subsec. (f) generally, substituting provisions for pro rata reduction of all amounts determined under subsec. (b) in the event of a deficiency for provisions for reduction of all basic grant entitlement funds provided pursuant to this section in the event of a deficiency, and inserted provision for distribution of excess amounts.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §304(a), substituted provisions relating to amounts allocated to metropolitan areas and urban counties and limitations on amount of annual grants for provisions relating toamounts allocated to metropolitan areas, annual grants for metropolitan cities and urban counties, and limitations.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §304(a), substituted provisions relating to amounts allocated to metropolitan areas and urban counties and limitations on amount of annual grants for provisions relating to amounts allocated to metropolitan areas, annual grants for metropolitan cities and urban counties, and limitations.
 
 Subsec. (b)(4). Pub. L. 97–35, §309(h), substituted provision respecting assistance under subsec. (d) of this section for provision respecting grants under subsec. (c) or (e) of this section.
 
@@ -484,7 +484,7 @@ First fiscal year.—For the first fiscal year to which this section applies, 10
 
 &emsp;"(2)
 
-Succeeding fiscal years.—For each of the succeeding fiscal years to which this section applies, a percentage (not to exceed 10 percent) that is determined by the Secretary of Housing and Urban Development to be appropriate after consultation with representatives of the interests of the residents of colonias.
+Succeeding fiscal years.—For each of the succeeding fiscal years to which this section applies, apercentage (not to exceed 10 percent) that is determined by the Secretary of Housing and Urban Development to be appropriate after consultation with representatives of the interests of the residents of colonias.
 
 "(b)
 

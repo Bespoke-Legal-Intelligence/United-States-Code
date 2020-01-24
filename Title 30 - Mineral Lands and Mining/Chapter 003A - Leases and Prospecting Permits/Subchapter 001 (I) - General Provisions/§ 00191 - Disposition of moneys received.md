@@ -10,7 +10,7 @@ In determining the amount of payments to the States under this section, beginnin
 
 #### (c) Rentals received on or after August 8, 2005
 
-(1) Notwithstanding the first sentence of subsection (a), any rentals received from leases in any State (other than the State of Alaska) on or after August 8, 2005, shall be deposited in theTreasury, to be allocated in accordance with paragraph (2).
+(1) Notwithstanding the first sentence of subsection (a), any rentals received from leases in any State (other than the State of Alaska) on or after August 8, 2005, shall be deposited in the Treasury, to be allocated in accordance with paragraph (2).
 
 (2) Of the amounts deposited in the Treasury under paragraph (1)—
 
@@ -96,7 +96,7 @@ Allocation.—The Secretary shall transfer not less than 75 percent of the reven
 
 &emsp;During each of fiscal years of 2016 through 2026, the Secretary shall not implement a rulemaking that would enable an increase in fees to recover additional costs related to processing applications for permits to drill.
 
-(Feb. 25, 1920, ch. 85, §35, 41 Stat. 450; May 27, 1947, ch. 83, 61 Stat. 119; Aug. 3, 1950, ch. 527, 64 Stat. 402; Pub. L. 85–88, §2, July 10, 1957, 71 Stat. 282; Pub. L. 85–508, §§6(k), 28(b), July 7, 1958, 72 Stat. 343, 351; Pub. L. 94–273, §6(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–377, §9, Aug. 4, 1976, 90 Stat. 1089; Pub. L. 94–422, title III, §301, Sept. 28, 1976, 90 Stat. 1323; Pub. L. 94–579, title III, §317(a), Oct. 21, 1976, 90 Stat. 2770; Pub. L. 97–451, title I, §§104(a), 111(g), Jan. 12, 1983, 96 Stat. 2451, 2456; Pub. L. 100–203, title V, §5109, Dec. 22, 1987, 101 Stat. 1330–261; Pub. L. 100–443, §5(b), Sept. 22, 1988, 102 Stat. 1768; Pub. L. 103–66, title X, §10201, Aug. 10, 1993, 107 Stat. 407; Pub. L. 106–393, title V, §503, Oct. 30, 2000, 114 Stat. 1624; Pub. L. 109–58, title III, §365(g), Aug. 8, 2005, 119 Stat. 725; Pub. L. 113–67, div. A, title III, §302, Dec. 26, 2013, 127 Stat. 1181; Pub. L. 113–291, div. B, title XXX, §3021(b), (c)(1), Dec. 19, 2014, 128 Stat. 3760, 3761; Pub. L. 115–232, div. A, title VIII, §809(i)(1), Aug. 13, 2018, 132 Stat. 1843.)
+(Feb. 25, 1920, ch. 85, §35, 41 Stat. 450; May 27, 1947, ch. 83, 61 Stat. 119; Aug. 3, 1950, ch. 527, 64 Stat. 402; Pub. L. 85–88, §2, July 10, 1957, 71 Stat. 282; Pub. L. 85–508, §§6(k), 28(b), July 7, 1958, 72 Stat. 343, 351; Pub. L. 94–273, §6(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–377, §9, Aug. 4, 1976, 90 Stat. 1089; Pub. L. 94–422, title III, §301, Sept. 28, 1976, 90 Stat. 1323; Pub. L. 94–579, title III, §317(a), Oct. 21, 1976, 90 Stat. 2770; Pub. L. 97–451, title I, §§104(a), 111(g), Jan. 12, 1983, 96 Stat. 2451, 2456; Pub. L. 100–203, title V, §5109, Dec. 22, 1987, 101 Stat. 1330–261; Pub. L. 100–443, §5(b), Sept. 22, 1988, 102 Stat. 1768; Pub. L. 103–66, title X, §10201, Aug. 10, 1993, 107 Stat. 407; Pub. L. 106–393, title V, §503, Oct. 30, 2000, 114 Stat. 1624; Pub. L. 109–58, title III, §365(g), Aug. 8, 2005, 119 Stat. 725; Pub. L. 113–67, div. A, title III, §302, Dec. 26, 2013,127 Stat. 1181; Pub. L. 113–291, div. B, title XXX, §3021(b), (c)(1), Dec. 19, 2014, 128 Stat. 3760, 3761; Pub. L. 115–232, div. A, title VIII, §809(i)(1), Aug. 13, 2018, 132 Stat. 1843.)
 
 #### References in Text
 

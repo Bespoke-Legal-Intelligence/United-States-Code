@@ -16,7 +16,7 @@ For purposes of this subchapter:
 
 &emsp;(i) severance pay arrangements, and
 
-&emsp;(ii) supplemental retirement income payments, under which the pension benefits of retirees or their beneficiaries are supplemented to take into account some portion or all of the increases in the cost of living (as determined by the Secretary of Labor) since retirement,
+&emsp;(ii) supplemental retirement income payments, under which the pension benefits of retirees or their beneficiaries are supplemented to take into account some portion or all of theincreases in the cost of living (as determined by the Secretary of Labor) since retirement,
 
 > shall, for purposes of this subchapter, be treated as welfare plans rather than pension plans. In the case of any arrangement or payment a principal effect of which is the evasion of the standards or purposes of this chapter applicable to pension plans, such arrangement or payment shall be treated as a pension plan. An applicable voluntary early retirement incentive plan (as defined in section 457(e)(11)(D)(ii) of title 26) making payments or supplements described in section 457(e)(11)(D)(i) of title 26, and an applicable employment retention plan (as defined in section 457(f)(4)(C) of title 26) making payments of benefits described in section 457(f)(4)(A) of title 26, shall, for purposes of this subchapter, be treated as a welfare plan (and not a pension plan) with respect to such payments and supplements.
 
@@ -78,7 +78,7 @@ For purposes of this subchapter:
 
 &emsp;(I) a 10 percent or more (directly or indirectly in capital or profits) partner or joint venturer of a person described in subparagraph (B), (C), (D), (E), or (G).
 
-> The Secretary, after consultation and coordination with the Secretary of the Treasury, may by regulation prescribe a percentage lower than 50 percent for subparagraph (E) and (G) and lower than 10 percent for subparagraph (H) or (I). The Secretary may prescribe regulations for determining the ownership (direct or indirect) of profits and beneficial interests, and the manner in which indirect stockholdings are taken into account. Any person who is a party in interest with respect to a plan to which a trust described in section 501(c)(22) of title 26 is permitted to make payments under section 1403 of this title shall be treated as a party in interest with respect to such trust.
+> The Secretary, after consultation and coordination with the Secretary of the Treasury, may byregulation prescribe a percentage lower than 50 percent for subparagraph (E) and (G) and lower than 10 percent for subparagraph (H) or (I). The Secretary may prescribe regulations for determining the ownership (direct or indirect) of profits and beneficial interests, and the manner in which indirect stockholdings are taken into account. Any person who is a party in interest with respect to a plan to which a trust described in section 501(c)(22) of title 26 is permitted to make payments under section 1403 of this title shall be treated as a party in interest with respect to such trust.
 
 (15) The term "relative" means a spouse, ancestor, lineal descendant, or spouse of a lineal descendant.
 
@@ -94,7 +94,7 @@ For purposes of this subchapter:
 
 (17) The term "separate account" means an account established or maintained by an insurance company under which income, gains, and losses, whether or not realized, from assets allocated to such account, are, in accordance with the applicable contract, credited to or charged against such account without regard to other income, gains, or losses of the insurance company.
 
-(18) The term "adequate consideration" when used in part 4 of subtitle B means (A) in the case of a security for which there is a generally recognized market, either (i) the price of the security prevailing on a national securities exchange which is registered under section 78f of title 15,or (ii) if the security is not traded on such a national securities exchange, a price not less favorable to the plan than the offering price for the security as established by the current bid and asked prices quoted by persons independent of the issuer and of any party in interest; and (B) in the case of an asset other than a security for which there is a generally recognized market, the fair market value of the asset as determined in good faith by the trustee or named fiduciary pursuant to the terms of the plan and in accordance with regulations promulgated by the Secretary.
+(18) The term "adequate consideration" when used in part 4 of subtitle B means (A) in the case of a security for which there is a generally recognized market, either (i) the price of the security prevailing on a national securities exchange which is registered under section 78f of title 15, or (ii) if the security is not traded on such a national securities exchange, a price not less favorable to the plan than the offering price for the security as established by the current bid and asked prices quoted by persons independent of the issuer and of any party in interest; and (B) in the case of an asset other than a security for which there is a generally recognized market, the fair market value of the asset as determined in good faith by the trustee or named fiduciary pursuant to the terms of the plan and in accordance with regulations promulgated by the Secretary.
 
 (19) The term "nonforfeitable" when used with respect to a pension benefit or right means a claim obtained by a participant or his beneficiary to that part of an immediate or deferred benefit under a pension plan which arises from the participant's service, which is unconditional, and which is legally enforceable against the plan. For purposes of this paragraph, a right to an accrued benefit derived from employer contributions shall not be treated as forfeitable merely because the plan contains a provision described in section 1053(a)(3) of this title.
 
@@ -114,7 +114,7 @@ For purposes of this subchapter:
 
 (23) The term "accrued benefit" means—
 
-&emsp;(A) in the case of a defined benefit plan, the individual's accrued benefit determined under the plan and, except as provided in section 1054(c)(3) of this title, expressed in the form of an annual benefit commencing at normal retirement age, or
+&emsp;(A) in the case of a defined benefit plan, the individual's accrued benefit determined under the plan and, except as provided in section 1054(c)(3) of this title, expressed in the form ofan annual benefit commencing at normal retirement age, or
 
 &emsp;(B) in the case of a plan which is an individual account plan, the balance of the individual's account.
 
@@ -138,7 +138,7 @@ For purposes of this subchapter:
 
 (28) The term "normal service cost" or "normal cost" means the annual cost of future pension benefits and administrative expenses assigned, under an actuarial cost method, to years subsequent to a particular valuation date of a pension plan. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
 
-(29) The term "accrued liability" means the excess of the present value, as of a particular valuation date of a pension plan, of the projected future benefit costs and administrative expenses for all plan participants and beneficiaries over the present value of future contributions for the normal cost of all applicableplan participants and beneficiaries. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
+(29) The term "accrued liability" means the excess of the present value, as of a particular valuation date of a pension plan, of the projected future benefit costs and administrative expenses for all plan participants and beneficiaries over the present value of future contributions for the normal cost of all applicable plan participants and beneficiaries. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
 
 (30) The term "unfunded accrued liability" means the excess of the accrued liability, under an actuarial cost method which so provides, over the present value of the assets of a pension plan. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
 
@@ -176,7 +176,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(II) receives contributions on the employee's behalf after the employee's separation from such service, but only for a period of 5 years after such separation, unless the employee is disabled (within the meaning of the disability provisions of the church plan or, if there are no such provisions in the church plan, within the meaning of section 72(m)(7) of title 26) at the time of such separation from service.
 
-(D)(i) If a plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association ofchurches which is exempt from tax under section 501 of title 26 fails to meet one or more of the requirements of this paragraph and corrects its failure to meet such requirements within the correction period, the plan shall be deemed to meet the requirements of this paragraph for the year in which the correction was made and for all prior years.
+(D)(i) If a plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 of title 26 fails to meet one or more of the requirements of this paragraph and corrects its failure to meet such requirements within the correction period, the plan shall be deemed to meet the requirements of this paragraph for the year in which the correction was made and for all prior years.
 
 (ii) If a correction is not made within the correction period, the plan shall be deemed not to meet the requirements of this paragraph beginning with the date on which the earliest failure to meet one or more of such requirements occurred.
 
@@ -260,7 +260,7 @@ For purposes of this subchapter:
 
 (vi) A plan is described in this clause if it is a plan sponsored by an organization which is described in section 501(c)(5) of title 26 and exempt from tax under section 501(a) of such title and which was established in Chicago, Illinois, on August 12, 1881.
 
-(vii) For purposes of this chapter and title 26, a plan making an election under this subparagraph shall be treated as maintained pursuant to a collective bargaining agreement if a collective bargaining agreement, expressly or otherwise, provides for or permits employer contributions to the plan by one or more employers that are signatory to such agreement, or participation in the plan by one or more employees of an employer that is signatory to such agreement, regardless of whether the plan was created, established, or maintained for such employees by virtue of another document that is not a collective bargaining agreement.
+(vii) For purposes of this chapter and title 26, a plan making an election under this subparagraph shall be treated as maintained pursuant to a collective bargaining agreement if a collective bargaining agreement, expressly or otherwise, provides for or permits employer contributions to the plan by one or more employers that are signatory to such agreement, or participation in the plan by one or more employees of an employer that is signatory to such agreement, regardless of whether the plan was created, established, or maintained for such employees byvirtue of another document that is not a collective bargaining agreement.
 
 (38) The term "investment manager" means any fiduciary (other than a trustee or named fiduciary, as defined in section 1102(a)(2) of this title)—
 
@@ -304,7 +304,129 @@ Single-employer plan.—The term "single-employer plan" means an employee benefi
 
 (42) the <sup>5</sup> term "plan assets" means plan assets as defined by such regulations as the Secretary may prescribe, except that under such regulations the assets of any entity shall not be treated as plan assets if, immediately after the most recent acquisition of any equity interest in the entity, less than 25 percent of the total value of each class of equity interest in the entity is held by benefit plan investors. For purposes of determinations pursuant to this paragraph, the value of any equity interest held by a person (other than such a benefit plan investor) who has discretionary authority or control with respect to the assets of the entity or any person who provides investment advice for a fee (direct or indirect) with respect to such assets, or any affiliate of such a person, shall be disregarded for purposes of calculating the 25 percent threshold. An entity shall be considered to hold plan assets only to the extent of the percentage of the equity interest held by benefit plan investors. For purposes of this paragraph, the term "benefit plan investor" means an employee benefit plan subject to part 4,<sup>6</sup> any plan to which section 4975 of title 26 applies, and any entity whose underlying assets include plan assets by reason of a plan's investment in such entity.
 
-(Pub. L. 93–406, title I, §3, Sept. 2, 1974, 88 Stat. 833; Pub. L. 96–364, title III, §§302, 305, title IV, §§407(a), 409, Sept. 26, 1980, 94 Stat. 1291, 1294, 1303, 1307; Pub. L. 97–473, title III, §302(a), Jan. 14, 1983, 96 Stat. 2612; Pub. L. 99–272, title XI, §11016(c)(1), Apr. 7, 1986, 100 Stat. 273; Pub. L. 99–509, title IX, §9203(b)(1), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XVIII, §1879(u)(3), Oct. 22, 1986, 100 Stat. 2913; Pub. L. 100–202, §136(a), Dec. 22, 1987, 101 Stat. 1329–441; Pub. L. 101–239, title VII, §§7871(b)(2), 7881(m)(2)(D), 7891(a)(1), 7893(a), 7894(a)(1)(A), (2)(A), (3), (4), Dec. 19, 1989, 103 Stat. 2435, 2444, 2445, 2447, 2448; Pub. L. 101–508, title XII, §12002(b)(2)(C), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 102–89, §2, Aug. 14, 1991, 105 Stat. 446; Pub. L. 104–290, title III, §308(b)(1), Oct. 11, 1996, 110 Stat. 3440; Pub. L. 105–72, §1(a), Nov. 10, 1997, 111 Stat. 1457; Pub. L. 109–280, title VI, §611(f), title IX, §§905(a), 906(a)(2)(A), title XI, §§1104(c), 1106(a), Aug. 17, 2006, 120 Stat. 972, 1050, 1051, 1060; Pub. L. 110–28, title VI, §6611(a)(1), (b)(1), May 25, 2007, 121 Stat. 179, 180; Pub. L. 110–458, title I, §111(c), Dec. 23, 2008, 122 Stat. 5113.)
+(Pub. L. 93–406, title I, §3, Sept. 2, 1974, 88 Stat. 833; Pub. L. 96–364, title III, §§302, 305, title IV, §§407(a), 409, Sept. 26, 1980, 94 Stat. 1291, 1294, 1303, 1307; Pub. L. 97–473, title III, §302(a), Jan. 14, 1983, 96 Stat. 2612; Pub. L. 99–272, title XI, §11016(c)(1), Apr. 7, 1986, 100 Stat. 273; Pub. L. 99–509, title IX, §9203(b)(1), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XVIII, §1879(u)(3), Oct. 22, 1986, 100 Stat. 2913; Pub. L. 100–202, §136(a), Dec. 22, 1987, 101 Stat. 1329–441; Pub. L. 101–239, title VII, §§7871(b)(2), 7881(m)(2)(D), 7891(a)(1), 7893(a), 7894(a)(1)(A), (2)(A), (3), (4), Dec. 19, 1989, 103 Stat. 2435, 2444, 2445, 2447, 2448; Pub. L. 101–508, title XII, §12002(b)(2)(C), Nov. 5, 1990, 104Stat. 1388–566; Pub. L. 102–89, §2, Aug. 14, 1991, 105 Stat. 446; Pub. L. 104–290, title III, §308(b)(1), Oct. 11, 1996, 110 Stat. 3440; Pub. L. 105–72, §1(a), Nov. 10, 1997, 111 Stat. 1457; Pub. L. 109–280, title VI, §611(f), title IX, §§905(a), 906(a)(2)(A), title XI, §§1104(c), 1106(a), Aug. 17, 2006, 120 Stat. 972, 1050, 1051, 1060; Pub. L. 110–28, title VI, §6611(a)(1), (b)(1), May 25, 2007, 121 Stat. 179, 180; Pub. L. 110–458, title I, §111(c), Dec. 23, 2008, 122 Stat. 5113; Pub. L. 116–94, div. O, title I, §101(b), (c)(1), (3), Dec. 20, 2019, 133 Stat. 3141, 3144.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–94, div. O, title I, §101(b), (c)(1), (3), (e), Dec. 20, 2019, 133 Stat. 3141, 3144, 3145, provided that, applicable to plan years beginning after Dec. 31, 2020, this section is amended as follows:</i>
+
+<i>(1) in paragraph (2), by adding at the end the following:</i>
+
+<i>"(C) A pooled employer plan shall be treated as—</i>
+
+&emsp;<i>"(i) a single employee pension benefit plan or single pension plan; and</i>
+
+&emsp;<i>"(ii) a plan to which section 1060(a) of this title applies.";</i>
+
+<i>(2) in paragraph (16)(B)—</i>
+
+<i>(A) by striking "or" at the end of clause (ii), and</i>
+
+<i>(B) by striking the period at the end and inserting ", or (iv) in the case of a pooled employer plan, the pooled plan provider.";</i>
+
+<i>(3) by striking the second paragraph (41); and</i>
+
+<i>(4) by adding at the end the following:</i>
+
+<i>(43)</i>
+
+<i>Pooled employer plan.—</i>
+
+&emsp;<i>(A)</i>
+
+<i>In general.—The term "pooled employer plan" means a plan—</i>
+
+&emsp;&emsp;<i>(i) which is an individual account plan established or maintained for the purpose of providing benefits to the employees of 2 or more employers;</i>
+
+&emsp;&emsp;<i>(ii) which is a plan described in section 401(a) of title 26 which includes a trust exempt from tax under section 501(a) of title 26 or a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof); and</i>
+
+&emsp;&emsp;<i>(iii) the terms of which meet the requirements of subparagraph (B).</i>
+
+> &emsp;<i>Such term shall not include a plan maintained by employers which have a common interest other than having adopted the plan.</i>
+
+&emsp;<i>(B)</i>
+
+<i>Requirements for plan terms.—The requirements of this subparagraph are met with respect to any plan if the terms of the plan—</i>
+
+&emsp;&emsp;<i>(i) designate a pooled plan provider and provide that the pooled plan provider is a named fiduciary of the plan;</i>
+
+&emsp;&emsp;<i>(ii) designate one or more trustees meeting the requirements of section 408(a)(2) of title 26 (other than an employer in the plan) to be responsible for collecting contributions to, and holding the assets of, the plan and require such trustees to implement written contribution collection procedures that are reasonable, diligent, and systematic;</i>
+
+&emsp;&emsp;<i>(iii) provide that each employer in the plan retains fiduciary responsibility for—</i>
+
+&emsp;&emsp;&emsp;<i>(I) the selection and monitoring in accordance with section 1104(a) of this title of the person designated as the pooled plan provider and any other person who, in addition to the pooled plan provider, is designated as a named fiduciary of the plan; and</i>
+
+&emsp;&emsp;&emsp;<i>(II) to the extent not otherwise delegated to another fiduciary by the pooled plan provider and subject to the provisions of section 1104(c) of this title, the investment and management of the portion of the plan's assets attributable to the employees of the employer (or beneficiaries of such employees);</i>
+
+&emsp;&emsp;<i>(iv) provide that employers in the plan, and participants and beneficiaries, are not subject to unreasonable restrictions, fees, or penalties with regard to ceasing participation, receipt of distributions, or otherwise transferring assets of the plan in accordance with section 1058 of this title or paragraph (44)(C)(i)(II);</i>
+
+&emsp;&emsp;<i>(v) require—</i>
+
+&emsp;&emsp;&emsp;<i>(I) the pooled plan provider to provide to employers in the plan any disclosures or other information which the Secretary may require, including any disclosures or other information to facilitate the selection or any monitoring of the pooled plan provider by employers in the plan; and</i>
+
+&emsp;&emsp;&emsp;<i>(II) each employer in the plan to take such actions as the Secretary or the pooled plan provider determines are necessary to administer the plan or for the plan to meet any requirement applicable under this chapter or title 26 to a plan described in section 401(a) of title 26 or to a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof), whichever is applicable, including providing any disclosures or other information which the Secretary may require or which the pooled plan provider otherwise determines are necessary to administer the plan or to allow the plan to meet such requirements; and</i>
+
+&emsp;&emsp;<i>(vi) provide that any disclosure or other information required to be provided under clause (v) may be provided in electronic form and will be designed to ensure only reasonable costs are imposed on pooled plan providers and employers in the plan.</i>
+
+&emsp;<i>(C)</i>
+
+<i>Exceptions.—The term "pooled employer plan" does not include—</i>
+
+&emsp;&emsp;<i>(i) a multiemployer plan; or</i>
+
+&emsp;&emsp;<i>(ii) a plan established before December 20, 2019, unless the plan administrator elects that the plan will be treated as a pooled employer plan and the plan meets the requirements of this subchapter applicable to a pooled employer plan established on or after such date.</i>
+
+&emsp;<i>(D)</i>
+
+<i>Treatment of employers as plan sponsors.—Except with respect to the administrative duties of the pooled plan provider described in paragraph (44)(A)(i), each employer in a pooled employer plan shall be treated as the plan sponsor with respect to the portion of the plan attributable to employees of such employer (or beneficiaries of such employees).</i>
+
+<i>(44)</i>
+
+<i>Pooled plan provider.—</i>
+
+&emsp;<i>(A)</i>
+
+<i>In general.—The term "pooled plan provider" means a person who—</i>
+
+&emsp;&emsp;<i>(i) is designated by the terms of a pooled employer plan as a named fiduciary, as the plan administrator, and as the person responsible for</i><i>the performance of all administrative duties (including conducting proper testing with respect to the plan and the employees of each employer in the plan) which are reasonably necessary to ensure that—</i>
+
+&emsp;&emsp;&emsp;<i>(I) the plan meets any requirement applicable under this chapter or title 26 to a plan described in section 401(a) of title 26 or to a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof), whichever is applicable; and</i>
+
+&emsp;&emsp;&emsp;<i>(II) each employer in the plan takes such actions as the Secretary or pooled plan provider determines are necessary for the plan to meet the requirements described in subclause (I), including providing the disclosures and information described in paragraph (43)(B)(v)(II);</i>
+
+&emsp;&emsp;<i>(ii) registers as a pooled plan provider with the Secretary, and provides to the Secretary such other information as the Secretary may require, before beginning operations as a pooled plan provider;</i>
+
+&emsp;&emsp;<i>(iii) acknowledges in writing that such person is a named fiduciary, and the plan administrator, with respect to the pooled employer plan; and</i>
+
+&emsp;&emsp;<i>(iv) is responsible for ensuring that all persons who handle assets of, or who are fiduciaries of, the pooled employer plan are bonded in accordance with section 1112 of this title.</i>
+
+&emsp;<i>(B)</i>
+
+<i>Audits, examinations and investigations.—The Secretary may perform audits, examinations, and investigations of pooled plan providers as may be necessary to enforce and carry out the purposes of this paragraph and paragraph (43).</i>
+
+&emsp;<i>(C)</i>
+
+<i>Guidance.—The Secretary shall issue such guidance as the Secretary determines appropriate to carry out this paragraph and paragraph (43), including guidance—</i>
+
+&emsp;&emsp;<i>(i) to identify the administrative duties and other actions required to be performed by a pooled plan provider under either such paragraph; and</i>
+
+&emsp;&emsp;<i>(ii) which requires in appropriate cases that if an employer in the plan fails to take the actions required under subparagraph (A)(i)(II)—</i>
+
+&emsp;&emsp;&emsp;<i>(I) the assets of the plan attributable to employees of such employer (or beneficiaries of such employees) are transferred to a plan maintained only by such employer (or its successor), to an eligible retirement plan as defined in section 402(c)(8)(B) of title 26 for each individual whose account is transferred, or to any other arrangement that the Secretary determines is appropriate in such guidance; and</i>
+
+&emsp;&emsp;&emsp;<i>(II) such employer (and not the plan with respect to which the failure occurred or any other employer in such plan) shall, except to the extent provided in such guidance, be liable for any liabilities with respect to such plan attributable to employees of such employer (or beneficiaries of such employees).</i>
+
+> &emsp;&emsp;<i>The Secretary shall take into account under clause (ii) whether the failure of an employer or pooled plan provider to provide any disclosures or other information, or to take any other action, necessary to administer a plan or to allow a plan to meet requirements described in subparagraph (A)(i)(II) has continued over a period of time that demonstrates a lack of commitment to compliance. The Secretary may waive the requirements of subclause (ii)(I) in appropriate circumstances if the Secretary determines it is in the best interests of the employees of the employer referred to in such clause (and the beneficiaries of such employees) to retain the assets in the plan with respect to which the employer's failure occurred.</i>
+
+&emsp;<i>(D)</i>
+
+<i>Good faith compliance with law before guidance.—An employer or pooled plan provider shall not be treated as failing to meet a requirement of guidance issued by the Secretary under subparagraph (C) if, before the issuance of such guidance, the employer or pooled plan provider complies in good faith with a reasonable interpretation of the provisions of this paragraph, or paragraph (43), to which such guidance relates.</i>
+
+&emsp;<i>(E)</i>
+
+<i>Aggregation rules.—For purposes of this paragraph, in determining whether a person meets the requirements of this paragraph to be a pooled plan provider with respect to any plan, all persons who perform services for the plan and who are treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of title 26 shall be treated as one person.</i>
+
+<i>See 2019 Amendment notes below.</i>
 
 #### References in Text
 
@@ -320,7 +442,7 @@ Section 77b(1) of title 15, referred to in par. (20), was redesignated section 7
 
 The Investment Company Act of 1940, referred to in par. (21)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
-The Railroad Retirement Act of 1935 or 1937, referred to in par. (32), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, as amended, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 wasamended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305 and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
+The Railroad Retirement Act of 1935 or 1937, referred to in par. (32), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, as amended, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16,1974, 88 Stat. 1305 and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
 The International Organizations Immunities Act, referred to in par. (32), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
@@ -333,6 +455,14 @@ For the effective date of the Multiemployer Pension Plan Amendments Act of 1980,
 The Investment Advisers Act of 1940, referred to in par. (38)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2019</b>—Par. (2)(C). Pub. L. 116–94, §101(b), added subpar. (C).
+
+Par. (16)(B)(iv). Pub. L. 116–94, §101(c)(3)(A), added cl. (iv).
+
+Par. (41). Pub. L. 116–94, §101(c)(3)(B), struck out second par. (41) which read as follows: "The term 'single-employer plan' means a plan which is not a multiemployer plan."
+
+Pars. (43), (44). Pub. L. 116–94, §101(c)(1), added pars. (43) and (44).
 
 <b>2008</b>—Par. (37)(G). Pub. L. 110–458 substituted "subparagraph" for "paragraph" in cls. (ii), (iii), and (v)(I), "clause (i)(II)" for "subclause (i)(II)" in cl. (iii), "clause" for "subparagraph" in cl. (v)(II), and "section 1021(b)(1)" for "section 1021(b)(4)" in cl. (v)(III).
 
@@ -382,7 +512,7 @@ Par. (33)(D)(iii). Pub. L. 101–239, §7894(a)(1)(A), substituted "Secretary of
 
 Par. (37)(B). Pub. L. 101–239, §7893(a), substituted "section 1301(b)(1)" for "section 1301(c)(1)".
 
-Par. (37)(F)(i)(II). Pub. L. 101–239, §7894(a)(2)(A)(i), substituted "the Internal Revenue Code of 1986" for "such Code", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+Par. (37)(F)(i)(II). Pub. L. 101–239, §7894(a)(2)(A)(i), substituted "the Internal Revenue Code of 1986" for "such Code", which for purposes of codification wastranslated as "title 26" thus requiring no change in text.
 
 Par. (37)(F)(ii). Pub. L. 101–239, §7894(a)(2)(A)(ii), (iii), inserted "of such Code" after "section 501(c)" in subcl. (I) and after "section 170(b)(1)(A)(ii)" in subcl. (II), which for purposes of codification was translated as "of title 26" thus requiring no change in text.
 
@@ -411,6 +541,10 @@ Par. (14). Pub. L. 96–364, §305, inserted provisions respecting a trust descr
 Par. (33). Pub. L. 96–364, §407(a), substituted provisions defining "church plan" as a plan established and maintained (to the extent required in cl. (ii) of subpar. (B)) for employees or beneficiaries by a church, etc., exempt from tax under section 501 of title 26, for provisions defining "church plan" as a plan established and maintained for employees by a church, etc., exempt from tax under section 501 of title 26, or a plan in existence on Jan. 1, 1974, established and maintained by a church, etc., for employees and employees of agencies of the church, etc.
 
 Par. (37). Pub. L. 96–364, §302(a), substantially revised definition of term "multiemployer plan" by, among other changes, restructuring subpar. (A), resulting in elimination of provisions covering amount of contributions and payment of benefits, and subpar. (B), resulting in elimination of provisions reworking amount of contributions for subsequent plan years, and added subpars. (C) to (E).
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2020, see section 101(e) of Pub. L. 116–94, set out as a note under section 408 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2008 Amendment
 
@@ -450,11 +584,11 @@ Amendment by Pub. L. 101–508 applicable to reversions occurring after Sept. 30
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7871(b)(2) of Pub. L. 101–239 effective as if included in the amendments made by section 9203 of Pub. L. 99–509, see section 7871(b)(3) of Pub. L. 101–239, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by section 7871(b)(2) of Pub. L. 101–239 effective as if included in the amendments made by section 9203 of Pub. L. 99–509, see section 7871(b)(3) of Pub.L. 101–239, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 Amendment by section 7881(m)(2)(D) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26.
 
-Pub. L. 101–239, title VII, §7891(f), Dec. 19, 1989, 103 Stat. 2447, provided that: "Except as otherwise provided in this section, any amendment made by this section \[amending this section, sections 1003, 1025, 1051 to 1056, 1060, 1061, 1081 to 1084, 1085a, 1101, 1103, 1107, 1108, 1132, 1134, 1137, 1161, 1166, 1167, 1201 to 1203, 1222, 1301, 1302, 1307, 1309, 1321 to 1322a, 1342 to 1345, 1362, 1368, 1384, 1385, 1390, 1391, 1393, 1403, 1421, 1423, 1425, and 1453 of thistitle, and section 4980B of Title 26\] shall take effect as if included in the provision of the Reform Act \[probably means Tax Reform Act of 1986, Pub. L. 99–514\] to which such amendment relates."
+Pub. L. 101–239, title VII, §7891(f), Dec. 19, 1989, 103 Stat. 2447, provided that: "Except as otherwise provided in this section, any amendment made by this section \[amending this section, sections 1003, 1025, 1051 to 1056, 1060, 1061, 1081 to 1084, 1085a, 1101, 1103, 1107, 1108, 1132, 1134, 1137, 1161, 1166, 1167, 1201 to 1203, 1222, 1301, 1302, 1307, 1309, 1321 to 1322a, 1342 to 1345, 1362, 1368, 1384, 1385, 1390, 1391, 1393, 1403, 1421, 1423, 1425, and 1453 of this title, and section 4980B of Title 26\] shall take effect as if included in the provision of the Reform Act \[probably means Tax Reform Act of 1986, Pub. L. 99–514\] to which such amendment relates."
 
 Pub. L. 101–239, title VII, §7893(h), Dec. 19, 1989, 103 Stat. 2448, provided that: "Any amendment made by this section \[amending this section and sections 1322a, 1341, 1342, 1347, 1366, 1367, and 1398 of this title\] shall take effect as if included in the provision of the Single-Employer Pension Plan Amendments Act of 1986 \[Pub. L. 99–272, title XI\] to which such amendment relates."
 

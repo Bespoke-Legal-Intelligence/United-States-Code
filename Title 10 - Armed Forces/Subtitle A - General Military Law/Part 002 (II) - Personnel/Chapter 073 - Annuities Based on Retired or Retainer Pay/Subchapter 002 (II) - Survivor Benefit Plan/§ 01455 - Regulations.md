@@ -50,7 +50,7 @@ Authorized procedures.—The regulations under paragraph (1) may include provisi
 
 &emsp;&emsp;(H) In the case of an annuitant referred to in paragraph (1)(B) or (1)(C)—
 
-&emsp;&emsp;&emsp;(i) procedures for determining incompetency and for selecting a payee to represent the annuitant for the purposes of this section, including provisions for notifying the annuitant of the actions being taken to make such a determination and to select a representative payee, an opportunity for the annuitant to review the evidence being considered, and an opportunity for the annuitant to submit additional evidence before the determination is made;
+&emsp;&emsp;&emsp;(i) procedures for determining incompetency and for selecting a payee to represent the annuitant for the purposes of this section, including provisions for notifying the annuitant of the actions beingtaken to make such a determination and to select a representative payee, an opportunity for the annuitant to review the evidence being considered, and an opportunity for the annuitant to submit additional evidence before the determination is made;
 
 &emsp;&emsp;&emsp;(ii) standards for determining incompetency, including standards for determining the sufficiency of medical evidence and other evidence; and
 

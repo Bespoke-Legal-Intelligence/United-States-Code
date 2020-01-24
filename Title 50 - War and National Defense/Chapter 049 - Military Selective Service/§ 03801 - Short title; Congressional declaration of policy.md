@@ -18,7 +18,7 @@ To this end, it is the intent of the Congress that whenever Congress shall deter
 
 #### References in Text
 
-The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604. Actwas comprised of titles I and II, prior to repeal of title II by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641. Title I of the Act is classified principally to this chapter. Title II of the Act was classified to the Articles of War set out in former Title 10, Army and Air Force, to sections 61, 61a, 62a, 65, and 652a of former Title 10, and to section 180 of former Title 14, Coast Guard, prior to repeal. For complete classification of this Act to the Code, see Tables.
+The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604. Act was comprised of titles I and II, prior to repeal of title II by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641. Title I of the Act is classified principally to this chapter. Title II of the Act was classified to the Articles of War set out in former Title 10, Army and Air Force, to sections 61, 61a, 62a, 65, and 652a of former Title 10, and to section 180 of former Title 14, Coast Guard, prior to repeal. For complete classification of this Act to the Code, see Tables.
 
 The National Defense Act of 1916, referred to in subsec. (d), is act June 3, 1916, ch. 134, 39 Stat. 166, which was classified generally throughout former Title 10, Army and Air Force, prior to repeal by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, and reenactment as parts of Title 10, Armed Forces, and Title 32, National Guard.
 

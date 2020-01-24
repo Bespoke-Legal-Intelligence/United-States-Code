@@ -10,7 +10,7 @@ As used in this chapter, the term—
 
 &emsp;(4) "subterminal facility" means any facility that is located in the area of production or consumption of agricultural commodities or any major storage or major export point for such commodities and is located at a place that conveniently serves the needs of producers, purchasers, and consumers of bulk agricultural commodities, and is—
 
-&emsp;&emsp;(A) used for the transient storage of bulk agricultural commodities and may include equipment or structures necessary for the transportation, upgrading, receiving, drying, or loading out of such commodities; or
+&emsp;&emsp;(A) used for the transient storage of bulk agricultural commodities and may includeequipment or structures necessary for the transportation, upgrading, receiving, drying, or loading out of such commodities; or
 
 &emsp;&emsp;(B) any rail siding, loading, or unloading facility that can accommodate unit railroad trains or multiple car trains and other appropriate transportation modes designed for the transport of bulk agricultural commodities and production materials; and
 

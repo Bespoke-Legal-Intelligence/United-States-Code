@@ -4,7 +4,7 @@
 
 The Secretary and the Service shall conduct, in conjunction with other appropriate Federal agencies and in consultation with concerned Indian tribes and organizations, a study of the health hazards to Indian miners and Indians on or near Indian reservations and in Indian communities as a result of nuclear resource development. Such study shall include—
 
-&emsp;(1) an evaluation of the nature and extent of nuclear resource development related healthproblems currently exhibited among Indians and the causes of such health problems;
+&emsp;(1) an evaluation of the nature and extent of nuclear resource development related health problems currently exhibited among Indians and the causes of such health problems;
 
 &emsp;(2) an analysis of the potential effect of ongoing and future nuclear resource development on or near Indian reservations and communities;
 
@@ -60,21 +60,5 @@ In the case of any Indian who—
 
 #### Nuclear Resource Development Health Hazards; Study and Report
 
-Pub. L. 100–713, title VII, §717, Nov. 23, 1988, 102 Stat. 4837, provided that:
-
-"(a) The Secretary of Health and Human Services (acting through the Indian Health Service), the Secretary of the Interior (acting through the Bureau of Indian Affairs), and the Secretary of Energy shall jointly conduct a study for the purpose of determining—
-
-&emsp;"(1) the number of active nuclear resource development sites on Indian lands in the United States;
-
-&emsp;"(2) the Federal agencies that carry out Federal responsibilities with respect to each such site;
-
-&emsp;"(3) the health hazards that exist as a result of such sites;
-
-&emsp;"(4) the remedial actions which have been undertaken with respect to such health hazards;
-
-&emsp;"(5) remedial actions that are needed with respect to such health hazards; and
-
-&emsp;"(6) the amount of funds that would be necessary each year to implement and maintain such needed remedial actions and the date by which the remedial actions would be implemented if sufficient funds were to provide for the remedial actions.
-
-"(b) By no later than the date that is 2 years after the date of enactment of this Act \[Nov. 23, 1988\], a report shall be submitted to the Congress describing the findings and conclusions made as a result of carrying out the study required in subsection (a)."
+Pub. L. 100–713, title VII, §717, Nov. 23, 1988, 102 Stat. 4837, provided for a study to determine the number of active nuclear resource development sites on Indian lands in the United States and the health hazards that exist as a result of such sites and required a report to Congress describing the findings and conclusions of the study by no later than 2 years after Nov. 23, 1988.
 

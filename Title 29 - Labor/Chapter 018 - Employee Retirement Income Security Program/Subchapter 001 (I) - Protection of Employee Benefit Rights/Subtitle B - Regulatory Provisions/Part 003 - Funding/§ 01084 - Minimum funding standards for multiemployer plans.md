@@ -8,7 +8,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (1) Account required
 
-&emsp;Each multiemployer plan to which this part applies shall establish and maintain a fundingstandard account. Such account shall be credited and charged solely as provided in this section.
+&emsp;Each multiemployer plan to which this part applies shall establish and maintain a funding standard account. Such account shall be credited and charged solely as provided in this section.
 
 #### (2) Charges to account
 
@@ -72,7 +72,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (A) Withdrawal liability
 
-&emsp;&emsp;Any amount received by a multiemployer plan in payment of all or part of an employer's withdrawal liability under part 1 of subtitle E of subchapter III shall be considered an amount contributed by the employer to or under the plan. The Secretary of theTreasury may prescribe by regulation additional charges and credits to a multiemployer plan's funding standard account to the extent necessary to prevent withdrawal liability payments from being unduly reflected as advance funding for plan liabilities.
+&emsp;&emsp;Any amount received by a multiemployer plan in payment of all or part of an employer's withdrawal liability under part 1 of subtitle E of subchapter III shall be considered an amount contributed by the employer to or under the plan. The Secretary of the Treasury may prescribe by regulation additional charges and credits to a multiemployer plan's funding standard account to the extent necessary to prevent withdrawal liability payments from being unduly reflected as advance funding for plan liabilities.
 
 #### (B) Adjustments when a multiemployer plan leaves reorganization
 
@@ -160,7 +160,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (iii) Amortization of reduction in unfunded accrued liability
 
-&emsp;&emsp;&emsp;If this subparagraph and subparagraph (A) both apply for any plan year, the plan shall treat any reduction in unfunded accrued liability resulting from the application of this subparagraph as a separate experience amortization base, to be amortized in equal annual installments (until fully amortized) over a period of 30 plan years rather than the period such liability would otherwise be amortized over.
+&emsp;&emsp;&emsp;If this subparagraph and subparagraph (A) both apply for any plan year, the planshall treat any reduction in unfunded accrued liability resulting from the application of this subparagraph as a separate experience amortization base, to be amortized in equal annual installments (until fully amortized) over a period of 30 plan years rather than the period such liability would otherwise be amortized over.
 
 #### (C) Solvency test
 
@@ -216,7 +216,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;(A) a change in benefits under the Social Security Act \[42 U.S.C. 301 et seq.\] or in other retirement benefits created under Federal or State law, or
 
-&emsp;&emsp;(B) a change in the definition of the term "wages" under section 3121 of title 26, or a change in the amount of such wages takeninto account under regulations prescribed for purposes of section 401(a)(5) of title 26,
+&emsp;&emsp;(B) a change in the definition of the term "wages" under section 3121 of title 26, or a change in the amount of such wages taken into account under regulations prescribed for purposes of section 401(a)(5) of title 26,
 
 > &emsp;results in an increase or decrease in accrued liability under a plan, such increase or decrease shall be treated as an experience loss or gain.
 
@@ -322,7 +322,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the term "permissible range" means a rate of interest which is not more than 5 percent above, and not more than 10 percent below, the weighted average of the rates of interest on 30-year Treasury securities during the 4-year period ending on the last day before the beginning of the plan year.
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the term "permissible range" means a rate of interest which is not more than 5 percent above, and not more than 10 percent below, the weighted average of the rates of interest on 30-year Treasury securities during the 4-year period endingon the last day before the beginning of the plan year.
 
 #### (II) Secretarial authority
 

@@ -44,7 +44,7 @@ Accrued Joint Experience.—For the purposes of subsection (d)(2), the Secretary
 
 Constructive Credit.—The Secretary of Defense may award constructive credit in the case of an officer (other than a general or flag officer) who, for reasons of military necessity, is reassigned from a joint duty assignment within 60 days of meeting the tour length criteria prescribed in subsection (d)(1). The amount of constructive service that may be credited to such officer shall be the amount sufficient for the completion of the applicable tour of duty requirement, but in no case more than 60 days.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5),Oct. 5, 1999, 113 Stat. 770; Pub. L. 107–107, div. A, title V, §522, Dec. 28, 2001, 115 Stat. 1097; Pub. L. 109–364, div. A, title V, §519(d)(1), Oct. 17, 2006, 120 Stat. 2191; Pub. L. 110–417, \[div. A\], title V, §524, Oct. 14, 2008, 122 Stat. 4446; Pub. L. 114–328, div. A, title V, §510, Dec. 23, 2016, 130 Stat. 2110; Pub. L. 115–232, div. A, title X, §1081(a)(9), Aug. 13, 2018, 132 Stat. 1983.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5), Oct. 5, 1999, 113 Stat. 770; Pub. L. 107–107, div. A, title V, §522, Dec. 28, 2001, 115 Stat. 1097; Pub. L. 109–364, div. A, title V, §519(d)(1), Oct. 17, 2006, 120 Stat. 2191; Pub. L. 110–417, \[div. A\], title V, §524, Oct. 14, 2008, 122 Stat. 4446; Pub. L. 114–328, div. A, title V, §510, Dec. 23, 2016, 130 Stat. 2110; Pub. L. 115–232, div. A, title X, §1081(a)(9), Aug. 13, 2018, 132 Stat. 1983.)
 
 #### Amendments
 
@@ -100,7 +100,7 @@ Subsec. (f). Pub. L. 114–328, §510(g)(1), (5), redesignated subsec. (h) as (f
 
 Subsec. (f)(1). Pub. L. 114–328, §510(e)(1), substituted "the requirement in subsection (a)" for "standards prescribed in subsection (a)".
 
-Subsec. (f)(2) to (6). Pub. L. 114–328, §510(e)(2)–(4), redesignated pars. (3), (5), and (6) as (2), (3), and (4), respectively, struck out ", but not less than two years" before period at end of par. (4), and struck out former pars. (2) and (4) which read as follows:
+Subsec. (f)(2) to (6). Pub. L. 114–328, §510(e)(2)–(4), redesignated pars. (3), (5), and (6) as (2), (3), and (4), respectively, struck out ", but not less than two years"before period at end of par. (4), and struck out former pars. (2) and (4) which read as follows:
 
 "(2) A joint duty assignment under the circumstances described in subsection (c)."
 
@@ -130,7 +130,7 @@ Subsec. (e)(2). Pub. L. 110–417, §524(b), added par. (2) and struck out forme
 
 Subsec. (f). Pub. L. 110–417, §524(c), in par. (3) substituted "Accrued joint experience" for "Cumulative service", in par. (4) struck out "(except that not more than 6 percent of all joint duty assignments may be considered to be under this paragraph at any time)" before period at end, added par. (6), and struck out former par. (6) which read as follows "A second joint duty assignment that is less than the period required under subsection (a), but not less than two years, without regard to whether a waiver was granted for such assignment under subsection (b).".
 
-Subsec. (g). Pub. L. 110–417, §524(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) relatedto cumulative service of an officer in joint duty assignments.
+Subsec. (g). Pub. L. 110–417, §524(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to cumulative service of an officer in joint duty assignments.
 
 Subsec. (h). Pub. L. 110–417, §524(e), substituted "paragraphs (1), (2), and (4) of subsection (f)" for "subsection (f)(1), (f)(2), (f)(4), or (g)(2)" in par. (1) and struck out par. (3) which read as follows: "This subsection shall not apply in the case of an officer who serves less than 10 months in the joint duty assignment."
 

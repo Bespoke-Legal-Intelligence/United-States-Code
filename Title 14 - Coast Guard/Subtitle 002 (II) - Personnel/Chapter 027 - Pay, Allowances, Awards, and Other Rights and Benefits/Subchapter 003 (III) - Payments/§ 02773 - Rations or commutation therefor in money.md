@@ -2,7 +2,7 @@
 
 (a) Enlisted members of the Coast Guard, civilian officers and civilian crews of vessels, and working parties in the field shall be allowed a ration or commutation thereof in money, in such amount and under limitations and regulations prescribed by the Secretary.
 
-(b) Money for commuted rations shall be paid, under such regulations as the Secretary shallprescribe, on proper vouchers, or pay rolls, to persons entitled to receive it, or to the officers designated by the Commandant to administer the financial affairs of the messes in which such persons may be subsisted.
+(b) Money for commuted rations shall be paid, under such regulations as the Secretary shall prescribe, on proper vouchers, or pay rolls, to persons entitled to receive it, or to the officers designated by the Commandant to administer the financial affairs of the messes in which such persons may be subsisted.
 
 (c) Money paid for commuted rations to the designated officer may be deposited in general or limited depositories of public money or in any bank in which deposits are insured. Such funds shall be expended and accounted for under such regulations as the Secretary shall prescribe.
 

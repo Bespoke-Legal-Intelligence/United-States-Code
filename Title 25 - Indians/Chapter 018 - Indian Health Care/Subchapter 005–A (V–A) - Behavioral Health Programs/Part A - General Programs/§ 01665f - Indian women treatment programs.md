@@ -16,7 +16,7 @@ A grant made pursuant to this section may be used—
 
 #### (c) Criteria
 
-The Secretary, in consultation with Indian tribes and tribal organizations, shall establishcriteria for the review and approval of applications and proposals for funding under this section.
+The Secretary, in consultation with Indian tribes and tribal organizations, shall establish criteria for the review and approval of applications and proposals for funding under this section.
 
 #### (d) Allocation of funds for urban Indian organizations
 

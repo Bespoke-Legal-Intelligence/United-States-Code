@@ -10,7 +10,7 @@ The first installment of compensation shall become due on the fourteenth day aft
 
 #### (c) Notification of commencement or suspension of payment
 
-Upon making the first payment, and upon suspension of payment for any cause, the employer shall immediately notify the deputy commissioner, in accordance with a form prescribed bythe Secretary, that payment of compensation has begun or has been suspended, as the case may be.
+Upon making the first payment, and upon suspension of payment for any cause, the employer shall immediately notify the deputy commissioner, in accordance with a form prescribed by the Secretary, that payment of compensation has begun or has been suspended, as the case may be.
 
 #### (d) Right to compensation controverted
 
@@ -18,7 +18,7 @@ If the employer controverts the right to compensation he shall file with the dep
 
 #### (e) Additional compensation for overdue installment payments payable without award
 
-If any installment of compensation payable without an award is not paid within fourteen days after it becomes due, as provided in subsection (b) of this section, there shall be added to such unpaid installment an amount equal to 10 per centum thereof, which shall be paid at the same time as, but in addition to, such installment, unless notice is filed under subsection (d) of this section, or unless such nonpayment is excused by the deputy commissioner after a showing by the employer that owing to conditions over which he had no control such installment could not be paid within the period prescribed for the payment.
+If any installment of compensation payable without an award is not paid within fourteen days after it becomes due, as provided in subsection (b) of this section, there shall be added to such unpaid installment an amount equal to 10 per centum thereof, which shall be paid at the same time as, but in addition to, such installment, unless notice is filed under subsection (d)of this section, or unless such nonpayment is excused by the deputy commissioner after a showing by the employer that owing to conditions over which he had no control such installment could not be paid within the period prescribed for the payment.
 
 #### (f) Additional compensation for overdue installment payments payable under terms of award
 
@@ -56,13 +56,13 @@ Subsecs. (j) to (l). Pub. L. 98–426, §13(b), redesignated subsecs. (k) and (l
 
 <b>1972</b>—Subsec. (f). Pub. L. 92–576, §15(d), substituted "order staying payment has been issued by the Board or court" for "interlocutory injunction staying payments is allowed by the court as provided therein".
 
-Subsec. (m). Pub. L. 92–576, §5(e), repealed subsec. (m) limiting aggregate money allowance for an injuryunder this chapter to $24,000, making the limitation inapplicable to cases of permanent total disability or death, and providing that in applying the limitation there shall not be taken into account any amount payable under section 908(g) of this title for maintenance during rehabilitation or any amount of additional compensation required to be paid under this section for delay or default in the payment of compensation or any amount accruing as interest upon defaulted compensation collectible under section 918 of this title.
+Subsec. (m). Pub. L. 92–576, §5(e), repealed subsec. (m) limiting aggregate money allowance for an injury under this chapter to $24,000, making the limitation inapplicable to cases of permanent total disability or death, and providing that in applying the limitation there shall not be taken into account any amount payable under section 908(g) of this title for maintenance during rehabilitation or any amount of additional compensation required to be paid under this section for delay or default in the payment of compensation or any amount accruing as interest upon defaulted compensation collectible under section 918 of this title.
 
 <b>1961</b>—Subsec. (m). Pub. L. 87–87 increased limitation on total money allowance as compensation for injury from "$17,280" to "$24,000".
 
 <b>1956</b>—Subsec. (m). Act July 26, 1956, provided for maximum money allowance of $17,280 in lieu of total compensation of $11,000, struck out additional former limit of $10,000 for disabilities compensable under section 908(c)(21) of this title, and inserted provision excepting from $17,280 limitation, amounts payable under section 908(g) of this title for maintenance during rehabilitation, and amounts payable under this section for delay or default in payment of compensation or interest collectible under section 918 of this title.
 
-<b>1948</b>—Subsec. (m). Act June 24, 1948, increased overall statutory maximum limitation upon compensation for disability from $7,500 to $11,000, and fixed a sublimitation of $10,000 upon that particular compensation for permanent partial disability which is payable when the case is classified as one in which compensation shall be payable under section 908(c)(21) of this title, but neither limitation shall apply for permanent total disability or death.
+<b>1948</b>—Subsec. (m). Act June 24, 1948, increased overall statutory maximum limitation upon compensation for disability from $7,500 to $11,000, and fixed a sublimitation of $10,000 upon that particular compensation for permanent partial disability which is payable when the case is classified as one in which compensation shall be payable under section 908(c)(21) of this title, but neitherlimitation shall apply for permanent total disability or death.
 
 <b>1938</b>—Subsec. (f). Act June 25, 1938, inserted "and an interlocutory injunction staying payments is allowed by the court as provided therein".
 

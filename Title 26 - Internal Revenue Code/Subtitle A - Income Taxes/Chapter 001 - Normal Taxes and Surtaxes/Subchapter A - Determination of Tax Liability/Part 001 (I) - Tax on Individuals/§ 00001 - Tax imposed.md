@@ -693,59 +693,7 @@ There is hereby imposed on the taxable income of—
 
 &emsp;&emsp;&emsp;(iii) subsection (f)(8) shall not apply.
 
-#### (4) Special rules for certain children with unearned income
-
-#### (A) In general
-
-&emsp;&emsp;In the case of a child to whom subsection (g) applies for the taxable year, the rules of subparagraphs (B) and (C) shall apply in lieu of the rule under subsection (g)(1).
-
-#### (B) Modifications to applicable rate brackets
-
-&emsp;&emsp;In determining the amount of tax imposed by this section for the taxable year on a child described in subparagraph (A), the income tax table otherwise applicable under this subsection to the child shall be applied with the following modifications:
-
-#### (i) 24-percent bracket
-
-&emsp;&emsp;&emsp;The maximum taxable income which is taxed at a rate below 24 percent shall not be more than the sum of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the earned taxable income of such child, plus
-
-&emsp;&emsp;&emsp;&emsp;(II) the minimum taxable income for the 24-percent bracket in the table under paragraph (2)(E) (as adjusted under paragraph (3)) for the taxable year.
-
-#### (ii) 35-percent bracket
-
-&emsp;&emsp;&emsp;The maximum taxable income which is taxed at a rate below 35 percent shall not be more than the sum of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the earned taxable income of such child, plus
-
-&emsp;&emsp;&emsp;&emsp;(II) the minimum taxable income for the 35-percent bracket in the table under paragraph (2)(E) (as adjusted under paragraph (3)) for the taxable year.
-
-#### (iii) 37-percent bracket
-
-&emsp;&emsp;&emsp;The maximum taxable income which is taxed at a rate below 37 percent shall not be more than the sum of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the earned taxable income of such child, plus
-
-&emsp;&emsp;&emsp;&emsp;(II) the minimum taxable income for the 37-percent bracket in the table under paragraph (2)(E) (as adjusted under paragraph (3)) for the taxable year.
-
-#### (C) Coordination with capital gains rates
-
-&emsp;&emsp;For purposes of applying section 1(h) (after the modifications under paragraph (5)(A))—
-
-&emsp;&emsp;&emsp;(i) the maximum zero rate amount shall not be more than the sum of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the earned taxable income of such child, plus
-
-&emsp;&emsp;&emsp;&emsp;(II) the amount in effect under paragraph (5)(B)(i)(IV) for the taxable year, and
-
-&emsp;&emsp;&emsp;(ii) the maximum 15-percent rate amount shall not be more than the sum of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the earned taxable income of such child, plus
-
-&emsp;&emsp;&emsp;&emsp;(II) the amount in effect under paragraph (5)(B)(ii)(IV) for the taxable year.
-
-#### (D) Earned taxable income
-
-&emsp;&emsp;For purposes of this paragraph, the term "earned taxable income" means, with respect to any child for any taxable year, the taxable income of such child reduced (but not below zero) by the net unearned income (as defined in subsection (g)(4)) of such child.
+#### \[(4) Repealed. Pub. L. 116–94, div. O, title V, §501(a), Dec. 20, 2019, 133 Stat. 3180\]
 
 #### (5) Application of current income tax brackets to capital gains brackets
 
@@ -799,7 +747,7 @@ There is hereby imposed on the taxable income of—
 
 &emsp;Section 15 shall not apply to any change in a rate of tax by reason of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 5; Pub. L. 88–272, title I, §111, Feb. 26, 1964, 78 Stat. 19; Pub. L. 89–809, title I, §103(a)(2), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 91–172, title VIII, §803(a), Dec. 30, 1969, 83 Stat. 678; Pub. L. 95–30, title I, §101(a), May 23, 1977, 91 Stat. 127; Pub. L. 95–600, title I, §101(a), Nov. 6, 1978, 92 Stat. 2767; Pub. L. 97–34, title I, §§101(a), 104(a), Aug. 13, 1981, 95 Stat. 176, 188; Pub. L. 97–448, title I, §101(a)(3), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 99–514, title I, §101(a), title III, §302(a), title XIV, §1411(a), Oct. 22, 1986, 100 Stat. 2096, 2218, 2714; Pub. L. 100–647, title I, §§1001(a)(3), 1014(e)(1)–(3), (6), (7), title VI, §6006(a), Nov. 10, 1988, 102 Stat. 3349, 3561, 3562, 3686; Pub. L. 101–239, title VII, §§7811(j)(1),7816(b), 7831(a), Dec. 19, 1989, 103 Stat. 2411, 2420, 2425; Pub. L. 101–508, title XI, §§11101(a)–(c), (d)(1)(A), (2), 11103(c), 11104(b), Nov. 5, 1990, 104 Stat. 1388–403 to 1388–406, 1388–408; Pub. L. 103–66, title XIII, §§13201(a), (b)(3)(A), (B), 13202(a), 13206(d)(2), Aug. 10, 1993, 107 Stat. 457, 459, 461, 467; Pub. L. 104–188, title I, §1704(m)(1), (2), Aug. 20, 1996, 110 Stat. 1882, 1883; Pub. L. 105–34, title III, §311(a), Aug. 5, 1997, 111 Stat. 831; Pub. L. 105–206, title V, §5001(a)(1)–(4), title VI, §§6005(d)(1), 6007(f)(1), July 22, 1998, 112 Stat. 787, 788, 800, 810; Pub. L. 105–277, div. J, title IV, §4002(i)(1), (3), Oct. 21, 1998, 112 Stat. 2681–907, 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §117(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 107–16, title I, §101(a), (c)(1), (2), title III, §§301(c)(1), 302(a), (b), June 7, 2001, 115 Stat. 41, 43, 54; Pub. L. 108–27, title I, §§102(a), (b)(1), 104(a), (b), 105(a), title III, §§301(a)(1), (2)(A), (b)(1), 302(a), (e)(1), May 28, 2003, 117 Stat. 754, 755, 758, 760, 763; Pub. L. 108–311, title I, §101(c), (d), title IV, §§402(a)(1)–(3), 408(a)(1), (2), Oct. 4, 2004, 118 Stat. 1167, 1168, 1184, 1190; Pub. L. 108–357, title IV, §413(c)(1), Oct. 22, 2004, 118 Stat. 1506; Pub. L. 109–222, title V, §510(a)—(c), May 17, 2006, 120 Stat. 364; Pub. L. 110–28, title VIII, §8241(a), (b), May 25, 2007, 121 Stat. 199; Pub. L. 110–185, title I, §101(f)(2), Feb. 13, 2008, 122 Stat. 617; Pub. L. 112–240, title I, §§101(b)(1), 102(b)(1), (c)(2), Jan. 2, 2013, 126 Stat. 2316, 2318, 2319; Pub. L. 113–295, div. A, title II, §221(a)(1), Dec. 19, 2014, 128 Stat. 4037; Pub. L. 115–97, title I, §§11001(a), 11002(a)–(c), 14223(a), Dec. 22, 2017, 131 Stat. 2054, 2059, 2220.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 5; Pub. L. 88–272, title I, §111, Feb. 26, 1964, 78 Stat. 19; Pub. L. 89–809, title I, §103(a)(2), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 91–172, title VIII, §803(a), Dec. 30, 1969, 83 Stat. 678; Pub. L. 95–30, title I, §101(a), May 23, 1977, 91 Stat. 127; Pub. L. 95–600, title I, §101(a), Nov. 6, 1978, 92 Stat. 2767; Pub. L. 97–34, title I, §§101(a), 104(a), Aug. 13, 1981, 95 Stat. 176, 188; Pub. L. 97–448, title I, §101(a)(3), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 99–514, title I, §101(a), title III, §302(a), title XIV, §1411(a), Oct. 22, 1986, 100 Stat. 2096, 2218, 2714; Pub. L. 100–647, title I, §§1001(a)(3), 1014(e)(1)–(3), (6), (7), title VI, §6006(a), Nov. 10, 1988, 102 Stat. 3349, 3561, 3562, 3686; Pub. L. 101–239, title VII, §§7811(j)(1), 7816(b), 7831(a), Dec. 19, 1989, 103 Stat. 2411, 2420, 2425; Pub. L. 101–508, title XI, §§11101(a)–(c), (d)(1)(A), (2), 11103(c), 11104(b), Nov. 5, 1990, 104 Stat. 1388–403 to 1388–406, 1388–408; Pub. L. 103–66, title XIII, §§13201(a), (b)(3)(A), (B), 13202(a), 13206(d)(2), Aug. 10, 1993, 107 Stat. 457, 459, 461, 467; Pub. L. 104–188, title I, §1704(m)(1), (2), Aug. 20, 1996, 110 Stat. 1882, 1883; Pub. L. 105–34, title III, §311(a), Aug. 5, 1997, 111 Stat. 831; Pub. L. 105–206, title V, §5001(a)(1)–(4), title VI, §§6005(d)(1), 6007(f)(1), July 22, 1998, 112 Stat. 787, 788, 800, 810; Pub. L. 105–277, div. J, title IV, §4002(i)(1), (3), Oct. 21, 1998, 112 Stat. 2681–907, 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §117(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 107–16, title I, §101(a), (c)(1), (2), title III, §§301(c)(1), 302(a), (b), June 7, 2001, 115 Stat. 41, 43, 54; Pub. L. 108–27, title I, §§102(a), (b)(1), 104(a), (b), 105(a), title III, §§301(a)(1), (2)(A), (b)(1), 302(a), (e)(1), May 28, 2003, 117 Stat. 754, 755, 758, 760, 763; Pub. L. 108–311, title I, §101(c), (d), title IV, §§402(a)(1)–(3), 408(a)(1), (2), Oct. 4, 2004, 118 Stat. 1167, 1168, 1184, 1190; Pub. L. 108–357, title IV, §413(c)(1), Oct. 22, 2004, 118 Stat. 1506; Pub. L. 109–222, title V, §510(a)—(c), May 17, 2006, 120 Stat. 364; Pub. L. 110–28, title VIII, §8241(a), (b), May 25, 2007, 121 Stat. 199; Pub. L. 110–185, title I, §101(f)(2), Feb. 13, 2008, 122 Stat. 617; Pub. L. 112–240, title I, §§101(b)(1), 102(b)(1), (c)(2), Jan. 2, 2013, 126 Stat. 2316, 2318, 2319; Pub. L. 113–295, div. A, title II, §221(a)(1), Dec. 19, 2014, 128 Stat. 4037; Pub. L. 115–97, title I, §§11001(a), 11002(a)–(c), 14223(a), Dec. 22, 2017, 131 Stat. 2054, 2059, 2220; Pub. L. 116–94, div. O, title V, §501(a), Dec. 20, 2019, 133 Stat. 3180.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -810,6 +758,8 @@ There is hereby imposed on the taxable income of—
 The date of the enactment of this subclause, referred to in subsec. (h)(11)(C)(iii)(II), is the date of enactment of Pub. L. 115–97, which was approved Dec. 22, 2017.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (j)(4). Pub. L. 116–94 struck out par. (4) which related to special rules for certain children with unearned income.
 
 <b>2017</b>—Subsec. (f)(2)(A). Pub. L. 115–97, §11002(c)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "except as provided in paragraph (8), by increasing the minimum and maximum dollar amounts for each rate bracket for which a tax is imposed under such table by the cost-of-living adjustment for such calendar year,".
 
@@ -1205,7 +1155,7 @@ Subsec. (f). Pub. L. 97–34, §104(a), added subsec. (f).
 
 Subsec. (b). Pub. L. 95–600 generally made a downward revision of tax table for heads of household resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $2,300 or less was substituted for a bottom bracket imposing no tax on taxable income of $2,200 or less.
 
-Subsec. (c). Pub. L. 95–600 generally made a downward revision of tax table for unmarried individuals otherthan surviving spouses and heads of households resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $2,300 or less was substituted for a bottom bracket imposing no tax on taxable income of $2,200 or less.
+Subsec. (c). Pub. L. 95–600 generally made a downward revision of tax table for unmarried individuals other than surviving spouses and heads of households resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $2,300 or less was substituted for a bottom bracket imposing no tax on taxable income of $2,200 or less.
 
 Subsec. (d). Pub. L. 95–600 generally made a downward revision of tax tables for married individuals filing separate returns resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $1,700 or less was substituted for a bottom bracket imposing no tax on taxable income of $1,600 or less.
 
@@ -1234,6 +1184,22 @@ Subsec. (e). Pub. L. 91–172 struck out cross reference to section 63. See sect
 <b>1966</b>—Subsecs. (d), (e). Pub. L. 89–809 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>1964</b>—Pub. L. 88–272 amended section generally by splitting the former first bracket which started at $2,000 into four new brackets, the 14 percent bracket representing a 30 percent reduction, the 15 percent bracket a 25 percent cut, and the 16 percent bracket a 20 percent cut, and reducing all other brackets by cuts averaging about 20 percent and effectuated these cuts in two steps, one in 1964, and one in 1965.
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–94, div. O, title V, §501(c), Dec. 20, 2019, 133 Stat. 3181, provided that:
+
+"(1)
+
+In general.—Except as otherwise provided in this subsection, the amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2019.
+
+"(2)
+
+Coordination with alternative minimum tax.—The amendment made by subsection (b) \[amending section 55 of this title\] shall apply to taxable years beginning after December 31, 2017.
+
+"(3)
+
+Elective retroactive application.—A taxpayer may elect (at such time and in such manner as the Secretary of the Treasury (or the Secretary's designee) may provide) for the amendment made by subsection (a) to also apply to taxable years of the taxpayer which begin in 2018, 2019, or both (as specified by the taxpayer in such election)."
 
 #### Effective Date of 2017 Amendment
 
@@ -1281,7 +1247,7 @@ Withholding.—The amendments made by paragraphs (1)(C) and (3) of subsection (c
 
 #### Effective and Termination Dates of 2010 Amendment
 
-Pub. L. 111–148, title X, §10909(c), Mar. 23, 2010, 124 Stat. 1023, as amended by Pub. L. 111–312, title I,§101(b)(1), Dec. 17, 2010, 124 Stat. 3298, provided that: "Each provision of law amended by this section \[amending sections 23, 24, 25, 25A, 25B, 26, 30, 30B, 30D, 36C, 137, 904, 1016, 1400C, and 6211 of this title and section 1324 of Title 31, Money and Finance, and renumbering section 23 of this title as section 36C of this title\] is amended to read as such provision would read if this section had never been enacted. The amendments made by the preceding sentence shall apply to taxable years beginning after December 31, 2011."
+Pub. L. 111–148, title X, §10909(c), Mar. 23, 2010, 124 Stat. 1023, as amended by Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298, provided that: "Each provision of law amended by this section \[amending sections 23, 24, 25, 25A, 25B, 26, 30, 30B, 30D, 36C, 137, 904, 1016, 1400C, and 6211 of this title and section 1324 of Title 31, Money and Finance, and renumbering section 23 of this title as section 36C of this title\] is amended to read as such provision would read if this section had never been enacted. The amendments made by the preceding sentence shall apply to taxable years beginning after December 31, 2011."
 
 Pub. L. 111–148, title X, §10909(d), Mar. 23, 2010, 124 Stat. 1024, as amended by Pub. L. 111–312, title I, §101(b)(2), Dec. 17, 2010, 124 Stat. 3298, provided that: "Except as provided in subsection (c) \[set out as a note above\], the amendments made by this section \[amending sections 24, 25, 25A, 25B, 26, 30, 30B, 30D, 36C, 137, 904, 1016, 1400C, and 6211 of this title and section 1324 of Title 31, Money and Finance, and renumbering section 23 of this title as section 36C of this title\] shall apply to taxable years beginning after December 31, 2009."
 
@@ -1305,7 +1271,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Subsection (c)(27).—The amendments made by subsection (c)(27) \[amending section 6103 of this title\] shall apply to disclosures of return or return information with respect to taxable years beginning after December 31, 2004."
 
-Pub. L. 108–311, title I, §101(e), Oct. 4, 2004, 118 Stat. 1168, provided that: "The amendments made by this section \[amending this section and sections 24 and 63 of this title\] shall apply to taxable years beginning after December 31, 2003."
+Pub. L. 108–311, title I, §101(e), Oct. 4, 2004, 118 Stat. 1168, provided that: "The amendments made by thissection \[amending this section and sections 24 and 63 of this title\] shall apply to taxable years beginning after December 31, 2003."
 
 Pub. L. 108–311, title I, §105, Oct. 4, 2004, 118 Stat. 1169, provided that: "Each amendment made by this title \[amending this section and sections 24, 32, 55, and 63 of this title\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, which was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315, was formerly set out as an Effective and Termination Dates of 2001 Amendment note below\] to the same extent and in the same manner as the provision of such Act to which such amendment relates."
 
@@ -1373,7 +1339,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Amendments to withholding provisions.—The amendments made by paragraphs (6), (7), (8), (9), (10), and (11) of subsection (c) \[amending sections 3402 and 3406 of this title\] shall apply to amounts paid after the 60th day after the date of the enactment of this Act \[June 7, 2001\]. References to income brackets and rates of tax in such paragraphs shall be applied without regard to \[former\] section 1(i)(1)(D) of the Internal Revenue Code of 1986."
 
-Pub. L. 107–16, title III, §301(d), June 7, 2001, 115 Stat. 54, as amended by Pub. L. 108–27, title I, §103(b), May 28, 2003, 117 Stat. 754, provided that: "The amendments made by this section \[amending this section and section 63 of this title\] shall apply to taxable years beginning after December 31, 2002."
+Pub. L. 107–16, title III, §301(d), June 7, 2001, 115 Stat. 54, as amended by Pub. L. 108–27, title I, §103(b), May 28, 2003, 117 Stat. 754, provided that: "The amendmentsmade by this section \[amending this section and section 63 of this title\] shall apply to taxable years beginning after December 31, 2002."
 
 Pub. L. 107–16, title III, §302(c), June 7, 2001, 115 Stat. 54, as amended by Pub. L. 108–27, title I, §102(b)(2), May 28, 2003, 117 Stat. 754, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2002."
 
@@ -1423,7 +1389,7 @@ Pub. L. 104–188, title I, §1704(m)(4), Aug. 20, 1996, 110 Stat. 1883, provide
 
 Pub. L. 103–66, title XIII, §13201(c), Aug. 10, 1993, 107 Stat. 459, provided that: "The amendments made by this section \[amending this section and sections 41, 63, 68, 132, 151, 453A, 513, 531, and 541 of this title\] shall apply to taxable years beginning after December 31, 1992."
 
-Pub. L. 103–66, title XIII, §13202(c), Aug. 10, 1993, 107 Stat. 461, provided that: "The amendments made by this section \[amending this section and sections 531 and541 of this title\] shall apply to taxable years beginning after December 31, 1992."
+Pub. L. 103–66, title XIII, §13202(c), Aug. 10, 1993, 107 Stat. 461, provided that: "The amendments made by this section \[amending this section and sections 531 and 541 of this title\] shall apply to taxable years beginning after December 31, 1992."
 
 Pub. L. 103–66, title XIII, §13206(d)(3), Aug. 10, 1993, 107 Stat. 467, provided that: "The amendments made by this subsection \[amending this section and section 163 of this title\] shall apply to taxable years beginning after December 31, 1992."
 
@@ -1451,7 +1417,7 @@ General Rule.—Except as otherwise provided in this title, any amendment made b
 
 "(b)
 
-Waiver of Estimated Tax Penalties.—No addition to tax shall be made under section 6654 or 6655 of the 1986 Code for any period before April 16, 1989 (March 16, 1989 in the case of a taxpayer subject to section 6655 of the 1986 Code) with respect to any underpayment to the extent such underpayment was created or increased by any provision of this title or title II \[see Tables for classification\]."
+Waiver of Estimated Tax Penalties.—No addition to tax shall be made under section 6654 or 6655 of the 1986 Code for any period before April 16, 1989 (March 16, 1989 in the case of a taxpayer subject to section 6655 of the 1986 Code) with respect to any underpayment to the extent such underpayment was created or increasedby any provision of this title or title II \[see Tables for classification\]."
 
 Pub. L. 100–647, title VI, §6006(b), Nov. 10, 1988, 102 Stat. 3687, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1988."
 
@@ -1503,7 +1469,7 @@ Pub. L. 95–30, title I, §106(a), May 23, 1977, 91 Stat. 141, provided that: "
 
 #### Effective Date of 1969 Amendment
 
-Pub. L. 91–172, title VIII, §803(f), Dec. 30, 1969, 83 Stat. 685, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made bysubsections (a) \[amending this section\], (b) \[amending section 2 of this title\], and (d) (other than paragraphs (1) and (8)) \[amending sections 5, 511, 632, 641, 1347, and 6015 of this title\] shall apply to taxable years beginning after December 31, 1970, except that section 2(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 2(c) of this title\], as amended by subsection (b), shall also apply to taxable years beginning after December 31, 1969. The amendments made by subsections (c) \[amending section 3 of this title\], (d)(1) \[amending section 6014 of this title\], and (d)(8) \[amending section 1304 of this title\] shall apply to taxable years beginning after December 31, 1969".
+Pub. L. 91–172, title VIII, §803(f), Dec. 30, 1969, 83 Stat. 685, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by subsections (a) \[amending this section\], (b) \[amending section 2 of this title\], and (d) (other than paragraphs (1) and (8)) \[amending sections 5, 511, 632, 641, 1347, and 6015 of this title\] shall apply to taxable years beginning after December 31, 1970, except that section 2(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 2(c) of this title\], as amended by subsection (b), shall also apply to taxable years beginning after December 31, 1969. The amendments made by subsections (c) \[amending section 3 of this title\], (d)(1) \[amending section 6014 of this title\], and (d)(8) \[amending section 1304 of this title\] shall apply to taxable years beginning after December 31, 1969".
 
 #### Effective Date of 1966 Amendment
 
@@ -1520,6 +1486,16 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 #### Effective Date of 1964 Amendment
 
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title \[amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title\] shall apply with respect to taxable years beginning after December 31, 1963."
+
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–94, div. O, §1(a), Dec. 20, 2019, 133 Stat. 3137, provided that: "This Act \[div. O of Pub. L. 116–94, see Tables for classification\] may be cited as the 'Setting Every Community Up for Retirement Enhancement Act of 2019'."
+
+Pub. L. 116–94, div. P, title XIII, §1301, Dec. 20, 2019, 133 Stat. 3204, provided that: "This title \[amending section 4975 of this title and section 1108 of Title 29, Labor, and enacting provisions set out as a note under section 4975 of this title\] may be cited as the 'Temporary Relief from Certain ERISA Requirements Act of 2020'."
+
+Pub. L. 116–94, div. Q, §1(a), Dec. 20, 2019, 133 Stat. 3226, provided that: "This division \[div. Q of Pub. L. 116–94, see Tables for classification\] may be cited as the 'Taxpayer Certainty and Disaster Tax Relief Act of 2019'."
+
+Pub. L. 116–25, §1(a), July 1, 2019, 133 Stat. 981, provided that: "This Act \[see Tables for classification\] may be cited as the 'Taxpayer First Act'."
 
 #### Short Title of 2018 Amendment
 
@@ -1579,7 +1555,7 @@ Pub. L. 112–96, title II, §2001, Feb. 22, 2012, 126 Stat. 159, provided that:
 
 Pub. L. 112–96, title II, §2121, Feb. 22, 2012, 126 Stat. 163, provided that: "This subtitle \[subtitle B (§§2121–2124) of title II of Pub. L. 112–96, amending section 352 of Title 45, Railroads, and enacting and amending provisions set out as notes under section 3304 of this title\] may be cited as the 'Unemployment Benefits Extension Act of 2012'."
 
-Pub. L. 112–96, title II, §2160, Feb. 22, 2012, 126 Stat. 171, provided that: "This subtitle \[subtitle D (§§2160–2166) of title II of Pub. L. 112–96, amending sections 3304 and 3306 of this title and section 503 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 3304 and 3306 of this title, and repealing provisions set out as a note under section 3304 of this title\] may be cited as the 'Layoff Prevention Act of 2012'."
+Pub. L. 112–96, title II, §2160, Feb. 22, 2012, 126 Stat. 171, provided that: "This subtitle \[subtitle D (§§2160–2166) of title II of Pub. L. 112–96, amending sections 3304 and 3306 of this title and section 503 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 3304 and 3306 of thistitle, and repealing provisions set out as a note under section 3304 of this title\] may be cited as the 'Layoff Prevention Act of 2012'."
 
 Pub. L. 112–91, §1, Jan. 31, 2012, 126 Stat. 3, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 106, 40117, 41742, 41743, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title, and amending provisions set out as notes under sections 41731 and 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2012'."
 
@@ -1611,7 +1587,7 @@ Pub. L. 111–312, §1(a), Dec. 17, 2010, 124 Stat. 3296, provided that: "This A
 
 Pub. L. 111–249, §1, Sept. 30, 2010, 124 Stat. 2627, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 1135, 40117, 41743, 44302, 44303, 44703, 47104, 47107, 47115, 47141, 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and sections 1135 and 40117 of Title 49, and amending provisions set out as notes under sections 41731, 44701, and 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2010, Part III'."
 
-Pub. L. 111–240, title II, §2001, Sept. 27, 2010, 124 Stat. 2553, provided that: "This title \[amending sections 38 to40, 55, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 862, 864, 1202, 1374, 1400L, 1400N, 6041, 6330, 6707A, 6721, and 6722 of this title and enacting provisions set out as notes under sections 38 to 40, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 1202, 1374, 6041, 6330, 6655, 6662A, 6707A, and 6721 of this title\] may be cited as the 'Creating Small Business Jobs Act of 2010'."
+Pub. L. 111–240, title II, §2001, Sept. 27, 2010, 124 Stat. 2553, provided that: "This title \[amending sections 38 to 40, 55, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 862, 864, 1202, 1374, 1400L, 1400N, 6041, 6330, 6707A, 6721, and 6722 of this title and enacting provisions set out as notes under sections 38 to 40, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 1202, 1374, 6041, 6330, 6655, 6662A, 6707A, and 6721 of this title\] may be cited as the 'Creating Small Business Jobs Act of 2010'."
 
 Pub. L. 111–237, §1, Aug. 16, 2010, 124 Stat. 2497, provided that: "This Act \[amending sections 6201, 6213, 6302, and 6501 of this title and enacting provisions set out as notes under sections 6201, 6302, and 6655 of this title\] may be cited as the 'Firearms Excise Tax Improvement Act of 2010'."
 
@@ -1621,7 +1597,7 @@ Pub. L. 111–205, §1, July 22, 2010, 124 Stat. 2236, provided that: "This Act 
 
 Pub. L. 111–198, §1, July 2, 2010, 124 Stat. 1356, provided that: "This Act \[amending sections 36, 6103, and 6657 of this title, section 1187 of Title 8, Aliens and Nationality, and section 2131 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under sections 36, 6103, and 6657 of this title\] may be cited as the 'Homebuyer Assistance and Improvement Act of 2010'."
 
-Pub. L. 111–197, §1, July 2, 2010, 124 Stat. 1353, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 106, 40117, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 40117 of Title 49, and amending provisions set out as a note under section 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2010, Part II'."
+Pub. L. 111–197, §1, July 2, 2010, 124 Stat. 1353, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 106, 40117, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 ofTitle 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 40117 of Title 49, and amending provisions set out as a note under section 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2010, Part II'."
 
 Pub. L. 111–161, §1, Apr. 30, 2010, 124 Stat. 1126, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 106, 40117, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 40117 of Title 49, and amending provisions set out as a note under section 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2010'."
 
@@ -1715,7 +1691,7 @@ Pub. L. 109–58, title XIII, §1300(a), Aug. 8, 2005, 119 Stat. 986, provided t
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–357, §1(a), Oct. 22, 2004, 118 Stat. 1418, provided that: "This Act \[see Tables for classification\] may be cited as the 'American Jobs Creation Act of 2004'."
+Pub. L. 108–357, §1(a), Oct. 22, 2004, 118 Stat. 1418, provided that: "This Act \[see Tables for classification\]may be cited as the 'American Jobs Creation Act of 2004'."
 
 Pub. L. 108–311, §1(a), Oct. 4, 2004, 118 Stat. 1166, provided that: "This Act \[see Tables for classification\] may be cited as the 'Working Families Tax Relief Act of 2004'."
 
@@ -1763,7 +1739,7 @@ Pub. L. 105–277, div. J, §1000(a), Oct. 21, 1998, 112 Stat. 2681–886, provi
 
 Pub. L. 105–277, div. C, title XV, §1501, Oct. 21, 1998, 112 Stat. 2681–741, provided that: "This title \[amending sections 4132 and 9510 of this title and section 300aa–11 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 4132 and 9510 of this title\] may be cited as the 'Vaccine Injury Compensation Program Modification Act'."
 
-Pub. L. 105–206, §1(a), July 22, 1998, 112 Stat. 685, provided that: "This Act \[see Tables for classification\]may be cited as the 'Internal Revenue Service Restructuring and Reform Act of 1998'."
+Pub. L. 105–206, §1(a), July 22, 1998, 112 Stat. 685, provided that: "This Act \[see Tables for classification\] may be cited as the 'Internal Revenue Service Restructuring and Reform Act of 1998'."
 
 Pub. L. 105–206, title III, §3000, July 22, 1998, 112 Stat. 726, provided that: "This title \[see Tables for classification\] may be cited as the 'Taxpayer Bill of Rights 3'."
 
@@ -1781,7 +1757,7 @@ Pub. L. 105–2, §1(a), Feb. 28, 1997, 111 Stat. 4, provided that: "This Act \[
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–188, §1(a), Aug. 20, 1996, 110 Stat. 1755, provided that: "This Act \[see Tables for classification\] may be cited as the 'Small Business Job Protection Act of 1996'."
+Pub. L. 104–188, §1(a), Aug. 20, 1996, 110 Stat. 1755, provided that: "This Act \[see Tables for classification\]may be cited as the 'Small Business Job Protection Act of 1996'."
 
 Pub. L. 104–168, §1(a), July 30, 1996, 110 Stat. 1452, provided that: "This Act \[enacting sections 4958, 7434, 7435, and 7524 of this title, amending sections 501, 4955, 4963, 6013, 6033, 6041 to 6042, 6044, 6045, 6049, 6050B, 6050H to 6050K, 6050N, 6103, 6104, 6159, 6201, 6213, 6323, 6334, 6343, 6404, 6503, 6601, 6651, 6652, 6656, 6672, 6685, 7122, 7213, 7422, 7430, 7433, 7454, 7502, 7608, 7609, 7623, 7802, 7805, and 7811 of this title, renumbering sections 7434 and 7435 as sections 7435 and 7436 of this title, enacting provisions set out as notes under sections 501, 4955, 6013, 6033, 6041, 6103, 6104, 6159, 6201, 6311, 6323, 6334, 6404, 6503, 6601, 6651, 6652, 6656, 6672, 7122, 7430, 7433 to 7435, 7524, 7608, 7609, 7623, 7802, 7803, 7805, and 7811 of this title, and amending provisions set out as a note under section 7608 of this title\] may be cited as the 'Taxpayer Bill of Rights 2'."
 
@@ -1817,7 +1793,7 @@ Pub. L. 101–508, title XI, §11001(a), Nov. 5, 1990, 104 Stat. 1388–400, pro
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7001(a), Dec. 19, 1989, 103 Stat. 2301, provided that: "This title \[see Tables forclassification\] may be cited as the 'Revenue Reconciliation Act of 1989'."
+Pub. L. 101–239, title VII, §7001(a), Dec. 19, 1989, 103 Stat. 2301, provided that: "This title \[see Tables for classification\] may be cited as the 'Revenue Reconciliation Act of 1989'."
 
 Pub. L. 101–239, title VII, §7701, Dec. 19, 1989, 103 Stat. 2388, provided that: "This subtitle \[subtitle G (§§7701–7743) of title VII of Pub. L. 101–239, see Tables for classification\] may be cited as the 'Improved Penalty Administration and Compliance Tax Act'."
 
@@ -1831,7 +1807,7 @@ Pub. L. 100–647, title VI, §6226, Nov. 10, 1988, 102 Stat. 3730, provided tha
 
 Pub. L. 100–223, title IV, §401, Dec. 30, 1987, 101 Stat. 1532, provided that: "This title \[enacting section 4283 of this title, amending sections 4041, 4261, 4271, 6427, and 9502 of this title, and enacting provisions set out as notes under sections 4041 and 4261 of this title\] may be cited as the 'Airport and Airway Revenue Act of 1987'."
 
-Pub. L. 100–203, title IX, §9302(a), Dec. 22, 1987, 101 Stat. 1330–333, provided that: "This part \[part II (§§9302–9346) of subtitle D of part II of Pub. L. 100–203, enacting sections 1085b and 1371 of Title 29, Labor, amending sections 401, 404, 411, 412, 414, and 4971 of this title and sections 1021, 1023, 1024, 1054, 1082 to 1084, 1085a, 1086, 1103, 1107, 1113, 1132, 1201, 1301, 1305 to 1307, 1322, 1341, 1342, 1344, 1349, 1362, 1364, 1367, and 1368 of Title 29, repealing section 1349 of Title 29, and enacting provisions set out as notes under sections 401, 404, 412, and 4971 of this title and sections 1054, 1107, 1132, 1301, 1305, 1322, and 1344 of Title 29\] may be cited as the 'Pension Protection Act'."
+Pub. L. 100–203, title IX, §9302(a), Dec. 22, 1987, 101 Stat. 1330–333, provided that: "This part \[part II (§§9302–9346) of subtitle D of part II of Pub. L. 100–203, enacting sections 1085b and 1371 of Title 29, Labor,amending sections 401, 404, 411, 412, 414, and 4971 of this title and sections 1021, 1023, 1024, 1054, 1082 to 1084, 1085a, 1086, 1103, 1107, 1113, 1132, 1201, 1301, 1305 to 1307, 1322, 1341, 1342, 1344, 1349, 1362, 1364, 1367, and 1368 of Title 29, repealing section 1349 of Title 29, and enacting provisions set out as notes under sections 401, 404, 412, and 4971 of this title and sections 1054, 1107, 1132, 1301, 1305, 1322, and 1344 of Title 29\] may be cited as the 'Pension Protection Act'."
 
 Pub. L. 100–203, title X, §10000(a), Dec. 22, 1987, 101 Stat. 1330–382, provided that: "This title \[see Tables for classification\] may be cited as the 'Revenue Act of 1987'."
 
@@ -1869,7 +1845,7 @@ Pub. L. 97–424, title V, §501(a), Jan. 6, 1983, 96 Stat. 2168, provided that:
 
 Pub. L. 97–362, §1(a), Oct. 25, 1982, 96 Stat. 1726, provided that: "This Act \[amending sections 8509 and 8521 of Title 5, Government Organization and Employees, sections 48, 172, 4401, 4411, 6051, 7447, 7448, 7456, 7459, and 7463 of this title, and section 601 of former Title 46, Shipping, enacting provisions set out as notes under sections 8509 and 8521 of Title 5 and sections 48, 172, 336, 4401, 4411, 6051, 7448, and 7463 of this title, and amending provisions set out as notes under section 2291 of Title 19, Customs Duties, and section 3306 of this title\] may be cited as the 'Miscellaneous Revenue Act of 1982'."
 
-Pub. L. 97–354, §1(a), Oct. 19, 1982, 96 Stat. 1669, provided that: "This Act \[enacting sections 1361 to 1363, 1366 to 1368, 1371 to 1375, 1377 to 1379, and 6241 to 6245 ofthis title, amending sections 29, 31, 40, 41, 46, 48, 50A, 50B, 52, 53, 55, 57, 58, 62, 108, 163, 168, 170, 172, 179, 183, 189, 194, 267, 280, 280A, 291, 447, 464, 465, 613A, 992, 1016, 1101, 1212, 1251, 1254, 1256, 3453, 3454, 4992, 4996, 6037, 6042, 6362, and 6661 of this title and section 1108 of Title 29, Labor, omitting section 1376 of this title, and enacting provisions set out as a note under section 1361 of this title\] may be cited as the 'Subchapter S Revision Act of 1982'."
+Pub. L. 97–354, §1(a), Oct. 19, 1982, 96 Stat. 1669, provided that: "This Act \[enacting sections 1361 to 1363, 1366 to 1368, 1371 to 1375, 1377 to 1379, and 6241 to 6245 of this title, amending sections 29, 31, 40, 41, 46, 48, 50A, 50B, 52, 53, 55, 57, 58, 62, 108, 163, 168, 170, 172, 179, 183, 189, 194, 267, 280, 280A, 291, 447, 464, 465, 613A, 992, 1016, 1101, 1212, 1251, 1254, 1256, 3453, 3454, 4992, 4996, 6037, 6042, 6362, and 6661 of this title and section 1108 of Title 29, Labor, omitting section 1376 of this title, and enacting provisions set out as a note under section 1361 of this title\] may be cited as the 'Subchapter S Revision Act of 1982'."
 
 Pub. L. 97–248, §1(a), Sept. 3, 1982, 96 Stat. 324, provided that: "This Act \[see Tables for classification\] may be cited as the 'Tax Equity and Fiscal Responsibility Act of 1982'."
 
@@ -1931,7 +1907,7 @@ Pub. L. 95–19, §1, Apr. 12, 1977, 91 Stat. 39, provided that: "This Act \[ame
 
 Pub. L. 94–455, title I, §101, Oct. 4, 1976, 90 Stat. 1525, provided that: "This Act \[see Tables for classification\] may be cited as the 'Tax Reform Act of 1976'."
 
-Pub. L. 94–452, §1, Oct. 2, 1976, 90 Stat. 1503, provided that: "This Act \[enacting section 6158 of this title, amending sections 311, 1101, 1102, 1103, 6151, 6503, and 6601 of this title, and enacting provisions set out as notes under sections 311, 1101, and 6158 of this title\] may be cited as the 'Bank Holding Company Tax Act of 1976'."
+Pub. L. 94–452, §1, Oct. 2, 1976, 90 Stat. 1503, provided that: "This Act \[enacting section 6158 of this title, amending sections 311, 1101, 1102, 1103, 6151, 6503, and 6601 of this title, and enacting provisions set out asnotes under sections 311, 1101, and 6158 of this title\] may be cited as the 'Bank Holding Company Tax Act of 1976'."
 
 #### Short Title of 1975 Amendment
 
@@ -1987,7 +1963,7 @@ Pub. L. 89–44, §1(a), June 21, 1965, 79 Stat. 136, provided that: "This Act \
 
 #### Short Title of 1964 Amendment
 
-Pub. L. 88–348, §1, June 30, 1964, 78 Stat. 237, provided: "That this Act \[amending sections 165, 4061, 4251, 4261,5001, 5022, 5041, 5051, 5063, 5701, 5707, and 6412 of this title, and provisions set out as notes under sections 165, 4261, and 5701 of this title\] may be cited as the 'Excise-Tax Rate Extension Act of 1964'."
+Pub. L. 88–348, §1, June 30, 1964, 78 Stat. 237, provided: "That this Act \[amending sections 165, 4061, 4251, 4261, 5001, 5022, 5041, 5051, 5063, 5701, 5707, and 6412 of this title, and provisions set out as notes under sections 165, 4261, and 5701 of this title\] may be cited as the 'Excise-Tax Rate Extension Act of 1964'."
 
 Pub. L. 88–272, §2(a), Feb. 26, 1964, 78 Stat 19, provided that: "This Act \[see Tables for classification\] may be cited as the 'Revenue Act of 1964'."
 
@@ -2249,7 +2225,7 @@ Treatment of gain or loss.—
 
 &emsp;"(3)
 
-Election.—An election under paragraph (1) shall be made in such manner as the Secretary of the Treasury or his delegate may prescribe and shall specify the assets for which such election is made. Such an election, once made with respect to anyasset, shall be irrevocable. Such an election shall not apply to any asset which is disposed of (in a transaction in which gain or loss is recognized in whole or in part) before the close of the 1-year period beginning on the date that the asset would have been treated as sold under such election.
+Election.—An election under paragraph (1) shall be made in such manner as the Secretary of the Treasury or his delegate may prescribe and shall specify the assets for which such election is made. Such an election, once made with respect to any asset, shall be irrevocable. Such an election shall not apply to any asset which is disposed of (in a transaction in which gain or loss is recognized in whole or in part) before the close of the 1-year period beginning on the date that the asset would have been treated as sold under such election.
 
 &emsp;"(4)
 
@@ -2357,7 +2333,7 @@ Pub. L. 97–448, title I, §101(a)(3), Jan. 12, 1983, 96 Stat. 2366, as amended
 
 #### Policy With Respect to Additional Tax Reductions
 
-Pub. L. 95–600, §3, Nov. 6, 1978, 92 Stat. 2767, provided that: "As a matter of national policy the rate of growth in Federal outlays, adjusted for inflation, should not exceed 1 percent per year between fiscal year 1979 and fiscal year 1983; Federal outlays as a percentage of gross national product should decline to below 21 percent in fiscal year 1980, 20.5 percent in fiscal year 1981, 20 percent in fiscal year 1982 and 19.5 percent in fiscalyear 1983; and the Federal budget should be balanced in fiscal years 1982 and 1983. If these conditions are met, it is the intention that the tax-writing committees of Congress will report legislation providing significant tax reductions for individuals to the extent that these tax reductions are justified in the light of prevailing and expected economic conditions."
+Pub. L. 95–600, §3, Nov. 6, 1978, 92 Stat. 2767, provided that: "As a matter of national policy the rate of growth in Federal outlays, adjusted for inflation, should not exceed 1 percent per year between fiscal year 1979 and fiscal year 1983; Federal outlays as a percentage of gross national product should decline to below 21 percent in fiscal year 1980, 20.5 percent in fiscal year 1981, 20 percent in fiscal year 1982 and 19.5 percent in fiscal year 1983; and the Federal budget should be balanced in fiscal years 1982 and 1983. If these conditions are met, it is the intention that the tax-writing committees of Congress will report legislation providing significant tax reductions for individuals to the extent that these tax reductions are justified in the light of prevailing and expected economic conditions."
 
 #### Effective Date of Certain Definitions and Designations
 
@@ -2388,6 +2364,8 @@ Pub. L. 88–272, §1, Feb. 26, 1964, 78 Stat. 19, provided that: "It is the sen
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 152, 179, 199A, 213, 219, 220, 221, 223, 408A, 448, 461, 512, 513, 642, 685, 831, 877, 877A, 911, 1274A, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, 7702B, and 9831 of this title for certain years were contained in the following:
+
+<b>2020</b>—Revenue Procedure 2019–44.
 
 <b>2019</b>—Revenue Procedure 2018–57.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Programs Authorized.—Consistent with such regulations as the Secretary of Defense may prescribe to carry out this section, the Commander of the United States Special Operations Command may conduct programs to provide family support services for the immediate family members of members of the armed forces assigned to special operations forces. In selecting and conducting any program under this subsection, the Commander shall coordinate with the Under Secretary of Defense for Personnel and Readiness.
+Programs Authorized.—Consistent with such regulations as the Secretary of Defense may prescribe to carry out this section, the Commander of the United States Special Operations Command may conduct programs to provide family support services for the immediate family members of members of the armed forcesassigned to special operations forces. In selecting and conducting any program under this subsection, the Commander shall coordinate with the Under Secretary of Defense for Personnel and Readiness.
 
 (b)
 
@@ -22,7 +22,7 @@ Annual Report.—
 
 &emsp;(1)
 
-Report required.—Not later than March 1, 2019, and each March 1 thereafter, the Commander, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall submit to the congressional defense committees a report describing the progress made in achieving the goals of the family support programs conducted under this section.
+Report required.—Not later than March 1 each year, the Commander, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall submit to the congressional defense committees a report describing the progress made in achieving the goals of the family support programs conducted under this section.
 
 &emsp;(2)
 
@@ -50,7 +50,11 @@ Definitions.—In this section:
 
 &emsp;(4) The term "family support services" includes costs of transportation, food, lodging, child care, supplies, fees, and training materials for immediate family members of members of the armed forces assigned to special operations forces while participating in programs under subsection (a).
 
-(Added and amended Pub. L. 115–91, div. A, title V, §555(a)–(d), Dec. 12, 2017, 131 Stat. 1402, 1403; Pub. L. 115–232, div. A, title V, §572, Aug. 13, 2018, 132 Stat. 1778.)
+(Added and amended Pub. L. 115–91, div. A, title V, §555(a)–(d), Dec. 12, 2017, 131 Stat. 1402, 1403; Pub. L. 115–232, div. A, title V, §572, Aug. 13, 2018, 132 Stat. 1778; Pub. L. 116–92, div. A, title XVII, §§1702(c)(1), 1731(a)(28), Dec. 20, 2019, 133 Stat. 1796, 1813.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–92, div. A, title XVII, §1702(c), Dec. 20, 2019, 133 Stat. 1796, provided that, effective on Dec. 30, 2021, this section is amended by striking out subsection (d). See 2019 Amendment note below.</i>
 
 #### References in Text
 
@@ -61,6 +65,10 @@ Section 167(i) of this title, referred to in subsec. (e)(3), was redesignated se
 Text of section, as added by Pub. L. 115–91, is based on text of subsecs. (a), (b), (d), and (e) of section 554 of Pub. L. 113–66, div. A, title V, Dec. 26, 2013, 127 Stat. 765, which was formerly set out as a note under section 1788 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, §1081(e), Dec. 12, 2017, 131 Stat. 1601.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (d). Pub. L. 116–92, §1702(c)(1), struck out subsec. (d) which required an annual report regarding the family support programs.
+
+Subsec. (d)(1). Pub. L. 116–92, §1731(a)(28), substituted "Not later than March 1 each year" for "Not later than March 1, 2019, and each March 1 thereafter".
 
 <b>2018</b>—Subsecs. (a), (b)(1). Pub. L. 115–232, §572(1), substituted "services" for "activities".
 
@@ -87,6 +95,14 @@ Subsec. (e)(2). Pub. L. 115–91, §555(d)(4)(A), substituted "this title" for "
 Subsec. (e)(3). Pub. L. 115–91, §555(d)(4)(B), substituted "this title" for "such title".
 
 Pub. L. 115–91, §555(d)(1), substituted "armed forces" for "Armed Forces".
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–92, div. A, title XVII, §1702(c)(2), Dec. 20, 2019, 133 Stat. 1796, provided that: "The amendmentmade by paragraph (1) \[amending this section\] shall take effect on December 30, 2021."
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 30, 2021, of provisions in subsec. (d) of this section requiring submittal of annual report to Congress, see section 1702(a), (b) of Pub. L. 116–92, set out as a note under section 111 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

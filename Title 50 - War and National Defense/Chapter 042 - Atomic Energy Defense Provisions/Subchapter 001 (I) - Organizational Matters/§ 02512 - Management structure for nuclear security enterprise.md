@@ -232,7 +232,7 @@ Duties.—The panel established under paragraph (1) shall—
 
 Reports.—(A) Not later than July 1, 2016, the panel established under paragraph (1) shall submit to the appropriate congressional committees, the Secretary, and the Administrator an initial assessment of the implementation plan developed under subsection (b)(1)(A), including with respect to the completeness of the plan, how the plan aligns with the intent and recommendations made by the covered study, and the prospects for success for the plan.
 
-&emsp;"(B) Beginning February 28, 2017, and semiannually thereafter through 2020, the panel established under paragraph (1) shall brief the appropriate congressional committees, the Secretary, and the Administrator on the efforts of the Secretary and the Administrator to implement the implementation plan developed under subsection (b)(1)(A).
+&emsp;"(B) Beginning February 28, 2017, and semiannually thereafter through 2020, the panel established underparagraph (1) shall brief the appropriate congressional committees, the Secretary, and the Administrator on the efforts of the Secretary and the Administrator to implement the implementation plan developed under subsection (b)(1)(A).
 
 &emsp;"(C) Not later than September 30, 2020, the panel established under paragraph (1) shall submit to the appropriate congressional committees, the Secretary, and the Administrator a final report on the efforts of the Secretary and the Administrator to implement the implementation plan developed under subsection (b)(1)(A), including an assessment of the effectiveness of the reform efforts under such plan and whether further action is needed.
 

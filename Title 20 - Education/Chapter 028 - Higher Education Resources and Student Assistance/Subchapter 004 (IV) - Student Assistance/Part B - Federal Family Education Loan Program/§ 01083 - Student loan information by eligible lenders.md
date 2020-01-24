@@ -62,7 +62,7 @@ Each eligible lender, at or prior to the time such lender disburses a loan that 
 
 #### (b) Required disclosure before repayment
 
-Each eligible lender shall, at or prior to the start of the repayment period on a loan made, insured, or guaranteed under section 1078, 1078–2, or 1078–8 of this title, disclose to the borrower by written or electronic means the information required under this subsection in simple and understandable terms. Each eligible lender shall provide to each borrower a telephone number, and may provide an electronic address, throughwhich additional loan information can be obtained. The disclosure required by this subsection shall be made not less than 30 days nor more than 150 days before the first payment on the loan is due from the borrower. The disclosure shall include—
+Each eligible lender shall, at or prior to the start of the repayment period on a loan made, insured, or guaranteed under section 1078, 1078–2, or 1078–8 of this title, disclose to the borrower by written or electronic means the information required under this subsection in simple and understandable terms. Each eligible lender shall provide to each borrower a telephone number, and may provide an electronic address, through which additional loan information can be obtained. The disclosure required by this subsection shall be made not less than 30 days nor more than 150 days before the first payment on the loan is due from the borrower. The disclosure shall include—
 
 &emsp;(1) the name of the eligible lender or loan servicer, and the address to which communications and payments should be sent;
 
@@ -136,7 +136,7 @@ Loans made under sections 1078–2 and 1078–8 of this title shall not be subje
 
 #### (1) Pertinent information about a loan provided on a periodic basis
 
-&emsp;Each eligible lender shall provide the borrower of a loan made, insured, or guaranteedunder this part with a bill or statement (as applicable) that corresponds to each payment installment time period in which a payment is due and that includes, in simple and understandable terms—
+&emsp;Each eligible lender shall provide the borrower of a loan made, insured, or guaranteed under this part with a bill or statement (as applicable) that corresponds to each payment installment time period in which a payment is due and that includes, in simple and understandable terms—
 
 &emsp;&emsp;(A) the original principal amount of the borrower's loan;
 

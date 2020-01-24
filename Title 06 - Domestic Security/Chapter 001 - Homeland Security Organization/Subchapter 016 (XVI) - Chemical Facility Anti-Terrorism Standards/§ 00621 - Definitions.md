@@ -88,7 +88,7 @@ Section 550 of the Department of Homeland Security Appropriations Act, 2007, ref
 
 Pub. L. 113–254, §4(a), Dec. 18, 2014, 128 Stat. 2918, provided that: "This Act \[see Short Title of 2014 Amendment note set out under section 101 of this title\], and the amendments made by this Act, shall take effect on the date that is 30 days after the date of enactment of this Act \[Dec. 18, 2014\]."
 
-Pub. L. 113–254, §5, Dec. 18, 2014, 128 Stat. 2919, provided that: "The authority provided under title XXI of the Homeland Security Act of 2002 \[6 U.S.C. 621 et seq.\], as added by section 2(a), shall terminate on the date that is 4 years after the effective date of this Act \[see section 4(a) of Pub. L. 113–254, set out above\]."
+Pub. L. 113–254, §5, Dec. 18, 2014, 128 Stat. 2919, as amended by Pub. L. 116–2, §2, Jan. 18, 2019, 133 Stat. 5, provided that: "The authority provided under title XXI of the Homeland Security Act of 2002 \[6 U.S.C. 621 et seq.\], as added by section 2(a), shall terminate on the date that is 5 years and 3 months after the effective date of this Act \[see section 4(a) of Pub. L. 113–254, set out above\]."
 
 #### Ex. Ord. No. 13650. Improving Chemical Facility Safety and Security
 
@@ -158,7 +158,7 @@ Sec. 5. <i>Enhanced Information Collection and Sharing</i>. In order to enhance 
 
 (b) Within 180 days of the date of this order, the Working Group shall produce a proposal for a coordinated, flexible data-sharing process which can be utilized to track data submitted to agencies for federally regulated chemical facilities, including locations, chemicals, regulated entities, previous infractions, and other relevant information. The proposal shall allow for the sharing of information with and by State, local, and tribal entities where possible, consistent with section 3 of this order, and shall address computer-based and non-computer-based means for improving the process in the short-term, if they exist.
 
-(c) Within 180 days of the date of this order, the Working Group shall identify and recommend possible changes to streamline and otherwise improve data collection to meet the needs of the public and Federal,State, local, and tribal agencies (including those charged with protecting workers and the public), consistent with the Paperwork Reduction Act and other relevant authorities, including opportunities to lessen the reporting burden on regulated industries. To the extent feasible, efforts shall minimize the duplicative collection of information while ensuring that pertinent information is shared with all key entities.
+(c) Within 180 days of the date of this order, the Working Group shall identify and recommend possible changes to streamline and otherwise improve data collection to meet the needs of the public and Federal, State, local, and tribal agencies (including those charged with protecting workers and the public), consistent with the Paperwork Reduction Act and other relevant authorities, including opportunities to lessen the reporting burden on regulated industries. To the extent feasible, efforts shall minimize the duplicative collection of information while ensuring that pertinent information is shared with all key entities.
 
 Sec. 6. <i>Policy, Regulation, and Standards Modernization</i>. (a) In order to enhance safety and security in chemical facilities by modernizing key policies, regulations, and standards, the Working Group shall:
 

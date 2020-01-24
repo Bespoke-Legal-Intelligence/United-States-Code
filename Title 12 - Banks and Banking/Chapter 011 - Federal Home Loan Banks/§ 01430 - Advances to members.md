@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) Fully disbursed, whole first mortgages on improved residential property (not more than 90 days delinquent), or securities representing a whole interest in such mortgages.
 
-&emsp;&emsp;(B) Securities issued, insured, or guaranteed by the United States Government or any agency thereof (including without limitation, mortgage-backed securities issued or guaranteed by the Federal Home Loan Mortgage Corporation, the Federal NationalMortgage Corporation, and the Government National Mortgage Association).
+&emsp;&emsp;(B) Securities issued, insured, or guaranteed by the United States Government or any agency thereof (including without limitation, mortgage-backed securities issued or guaranteed by the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Corporation, and the Government National Mortgage Association).
 
 &emsp;&emsp;(C) Cash or deposits of a Federal Home Loan Bank.
 
@@ -74,7 +74,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Federal Home Loan Banks may, upon the request of the Director of the Office of Thrift Supervision,make short-term liquidity advances to a savings association that—
+&emsp;Subject to paragraph (2), the Federal Home Loan Banks may, upon the request of the Director of the Office of Thrift Supervision, make short-term liquidity advances to a savings association that—
 
 &emsp;&emsp;(A) is solvent but presents a supervisory concern because of such association's poor financial condition; and
 
@@ -146,7 +146,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (A) In general
 
-&emsp;&emsp;If a Bank finds that the payments required under this paragraph are contributing to the financial instability of such Bank, it mayapply to the Director for a temporary suspension of such payments.
+&emsp;&emsp;If a Bank finds that the payments required under this paragraph are contributing to the financial instability of such Bank, it may apply to the Director for a temporary suspension of such payments.
 
 #### (B) Financial instability
 
@@ -256,7 +256,7 @@ Submission to congress.—The Director shall submit the reports under subparagra
 
 #### (A) In general
 
-&emsp;&emsp;The Director shall make available to the public, in a form that is useful to the public (including forms accessible electronically), and to the extent practicable, the data provided to the Director under paragraph (1).
+&emsp;&emsp;The Director shall make available to the public, in a form that is useful to the public\(including forms accessible electronically), and to the extent practicable, the data provided to the Director under paragraph (1).
 
 #### (B) Proprietary information
 
@@ -356,7 +356,7 @@ Subsec. (b). Pub. L. 97–320, §352(2), struck out provisions relating to accep
 
 Subsec. (c). Pub. L. 97–320, §352(3), substituted "twenty" for "twelve" wherever appearing.
 
-<b>1977</b>—Subsec. (b). Pub. L. 95–128 substituted prohibition against acceptance of a home mortgage as collateral security for an advance by a Federal Home Loan Bank if, at the time the advance is made, the home mortgage exceeds a sum equal to the dollar limitation under the first proviso of the first sentence of section 1464(c) of this title for each home or other dwelling unitcovered by such mortgage for prior prohibition where the home mortgage exceeded a sum equal to $55,000 (except that with respect to dwellings in Alaska, Guam, and Hawaii the foregoing limitation, might, by regulation of the Board, be increased by not to exceed 50 per centum) for each home or other dwelling unit covered by the mortgage.
+<b>1977</b>—Subsec. (b). Pub. L. 95–128 substituted prohibition against acceptance of a home mortgage as collateral security for an advance by a Federal Home Loan Bank if, at the time the advance is made, the home mortgage exceeds a sum equal to the dollar limitation under the first proviso of the first sentence of section 1464(c) of this title for each home or other dwelling unit covered by such mortgage for prior prohibition where the home mortgage exceeded a sum equal to $55,000 (except that with respect to dwellings in Alaska, Guam, and Hawaii the foregoing limitation, might, by regulation of the Board, be increased by not to exceed 50 per centum) for each home or other dwelling unit covered by the mortgage.
 
 <b>1974</b>—Subsec. (b). Pub. L. 93–449 substituted provisions limiting the home mortgage to a sum not to exceed $55,000, except with respect to dwellings in Alaska, Guam, etc., for provisions limiting the home mortgage to a sum not to exceed $40,000.
 

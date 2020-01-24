@@ -60,7 +60,7 @@ Classification.—Each report under subsections (d) and (e) shall be submitted i
 
 "(g)
 
-Delegation of Objection Authority Within the Department of Defense.—For the purposes of the Department of Defense, the authority to issue an objection referred to in subsection (a) shall be executed for the Secretary of Defense by an official at the Assistant Secretary level within the office of the Under Secretary of Defense for Policy. In implementing subsection (a), the Secretary of Defense shall ensure that Department of Defense procedures maximize the ability of the Department of Defense to be able to issue an objection within the 10-day period specified in subsection (c).
+Delegation of Objection Authority Within the Department of Defense.—For the purposes of the Department of Defense, the authority to issue an objection referred to in subsection (a) shall be executed for the Secretary of Defense by an official at the AssistantSecretary level within the office of the Under Secretary of Defense for Policy. In implementing subsection (a), the Secretary of Defense shall ensure that Department of Defense procedures maximize the ability of the Department of Defense to be able to issue an objection within the 10-day period specified in subsection (c).
 
 "(h)
 

@@ -1,8 +1,52 @@
 ### §105. Subject matter of copyright: United States Government works
 
-Copyright protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise.
+(a)
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546.)
+In General.—Copyright protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise.
+
+(b)
+
+Copyright Protection of Certain of <sup>1</sup> Works.—Subject to subsection (c),<sup>2</sup> the covered author of a covered work owns the copyright to that covered work.
+
+(c) <sup>2</sup>
+
+Use by Federal Government.—The Secretary of Defense may direct the covered author of a covered work to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+
+(c) <sup>2</sup>
+
+Definitions.—In this section:
+
+&emsp;(1) The term "covered author" means a civilian member of the faculty of a covered institution.
+
+&emsp;(2) The term "covered institution" means the following:
+
+&emsp;&emsp;(A) National Defense University.
+
+&emsp;&emsp;(B) United States Military Academy.
+
+&emsp;&emsp;(C) Army War College.
+
+&emsp;&emsp;(D) United States Army Command and General Staff College.
+
+&emsp;&emsp;(E) United States Naval Academy.
+
+&emsp;&emsp;(F) Naval War College.
+
+&emsp;&emsp;(G) Naval Post Graduate School.
+
+&emsp;&emsp;(H) Marine Corps University.
+
+&emsp;&emsp;(I) United States Air Force Academy.
+
+&emsp;&emsp;(J) Air University.
+
+&emsp;&emsp;(K) Defense Language Institute.
+
+&emsp;&emsp;(L) United States Coast Guard Academy.
+
+&emsp;(3) The term "covered work" means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 116–92, div. A, title V, §544, Dec. 20, 2019, 133 Stat. 1376.)
 
 #### Historical and Revision Notes
 
@@ -31,4 +75,12 @@ In response to this request the Committee adopted a limited exception to the gen
 Retention of a saving clause has been urged on the ground that the present statutory provision is frequently cited, and that having the provision expressly stated in the law would avoid questions and explanations. The committee here observes: (1) there is nothing in section 105 that would relieve the Government of its obligation to secure permission in order to publish a copyrighted work; and (2) publication or other use by the Government of a private work would not affect its copyright protection in any way. The question of use of copyrighted material in documents published by the Congress and its Committees is discussed below in connection with section 107.
 
 <b>Works of the United States Postal Service.</b> The intent of section 105 \[this section\] is to restrict the prohibition against Government copyright to works written by employees of the United States Government within the scope of their official duties. In accordance with the objectives of the Postal Reorganization Act of 1970 \[Pub. L. 91–375, which enacted title 39, Postal Service\], this section does not apply to works created by employees of the United States Postal Service. In addition to enforcing the criminal statutes proscribing the forgery or counterfeiting of postage stamps, the Postal Service could, if it chooses, use the copyright law to prevent the reproduction of postage stamp designs for private or commercial non-postal services (for example, in philatelic publications and catalogs, in general advertising, in art reproductions, in textile designs, and so forth). However, any copyright claimed by the Postal Service in its works, including postage stamp designs, would be subject to the same conditions, formalities, and time limits as other copyrightable works.
+
+#### Amendments
+
+<b>2019</b>—Pub. L. 116–92 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b) and two subsecs. (c). Heading of subsec. (a) was conformed to the style used in this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. There are two subsecs. designated (c).</i>
 

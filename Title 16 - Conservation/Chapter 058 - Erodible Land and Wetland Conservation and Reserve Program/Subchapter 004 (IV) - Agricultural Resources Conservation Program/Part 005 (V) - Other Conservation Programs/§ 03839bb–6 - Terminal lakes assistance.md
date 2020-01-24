@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible land
 
-&emsp;The term "eligible land" means privately owned agricultural land (including land inwhich a State has a property interest as a result of State water law)—
+&emsp;The term "eligible land" means privately owned agricultural land (including land in which a State has a property interest as a result of State water law)—
 
 &emsp;&emsp;(A) that a landowner voluntarily agrees to sell to a State; and
 
@@ -110,7 +110,7 @@ The Secretary shall—
 
 #### (1) In general
 
-&emsp;The Secretary of the Interior, acting through the Commissioner of Reclamation,may use the funds described in subsection (e)(2) to administer and provide financial assistance to carry out this subsection to provide water and assistance to a terminal lake described in subsection (a)(3)(B) through willing sellers or willing participants only—
+&emsp;The Secretary of the Interior, acting through the Commissioner of Reclamation, may use the funds described in subsection (e)(2) to administer and provide financial assistance to carry out this subsection to provide water and assistance to a terminal lake described in subsection (a)(3)(B) through willing sellers or willing participants only—
 
 &emsp;&emsp;(A) to lease water;
 

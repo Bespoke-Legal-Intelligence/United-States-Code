@@ -14,7 +14,7 @@ Under the program under subsection (a), the Secretary may—
 
 &emsp;(3) provide assistance to local communities in the development of policies to address violence when and if it occurs;
 
-&emsp;(4) assist in the creation of community partnerships among law enforcement, education systems and mental health and substance abuse service systems; and
+&emsp;(4) assist in the creation of community partnerships among law enforcement, educationsystems and mental health and substance abuse service systems; and
 
 &emsp;(5) establish mechanisms for children and adolescents to report incidents of violence or plans by other children or adolescents to commit violence.
 

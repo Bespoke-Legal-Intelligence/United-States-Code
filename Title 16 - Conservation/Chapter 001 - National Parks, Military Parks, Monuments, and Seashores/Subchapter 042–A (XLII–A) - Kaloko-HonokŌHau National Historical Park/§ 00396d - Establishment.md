@@ -40,7 +40,7 @@ In carrying out the purposes of this section the Secretary is authorized and dir
 
 (4) The Superintendent of the park, the National Park Service State Director, Hawaii, a person appointed by the Governor of Hawaii, and a person appointed by the mayor of the county of Hawaii, shall serve as ex officio nonvoting members of the Commission.
 
-(5) The Commission shall advise the Director, National Park Service, with respect to the historical, archeological, cultural, and interpretiveprograms of the park. The Commission shall afford particular emphasis to the quality of traditional native Hawaiian culture demonstrated in the park.
+(5) The Commission shall advise the Director, National Park Service, with respect to the historical, archeological, cultural, and interpretive programs of the park. The Commission shall afford particular emphasis to the quality of traditional native Hawaiian culture demonstrated in the park.
 
 (6) The Commission shall meet not less than twice a year. Additional meetings may be called by the Chairman.
 

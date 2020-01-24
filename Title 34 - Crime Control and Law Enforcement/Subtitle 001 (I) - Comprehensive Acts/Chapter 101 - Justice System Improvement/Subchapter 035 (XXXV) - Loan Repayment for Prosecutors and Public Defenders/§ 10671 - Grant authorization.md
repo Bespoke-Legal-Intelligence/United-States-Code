@@ -68,7 +68,7 @@ The Attorney General shall establish a program by which the Department of Justic
 
 &emsp;&emsp;(A) the borrower will remain employed as a prosecutor or public defender for a required period of service of not less than three years, unless involuntarily separated from that employment;
 
-&emsp;&emsp;(B) if the borrower is involuntarily separated from employment on account of misconduct, or voluntarily separates from employment, before the end of the period specified in the agreement, the borrower will repay the Attorney General the amount of any benefits received by such employee under this section;
+&emsp;&emsp;(B) if the borrower is involuntarily separated from employment on account of misconduct, or voluntarily separates from employment, before the end of the period specified in the agreement, the borrower willrepay the Attorney General the amount of any benefits received by such employee under this section;
 
 &emsp;&emsp;(C) if the borrower is required to repay an amount to the Attorney General under subparagraph (B) and fails to repay such amount, a sum equal to that amount shall be recoverable by the Federal Government from the employee (or such employee's estate, if applicable) by such methods as are provided by law for the recovery of amounts owed to the Federal Government;
 
@@ -84,7 +84,7 @@ The Attorney General shall establish a program by which the Department of Justic
 
 #### (B) Merger
 
-&emsp;&emsp;Any amount credited under subparagraph (A) shall be merged with other sums in such account and shall be available for the same purposes and period, and subject to the samelimitations, if any, as the sums with which the amount was merged.
+&emsp;&emsp;Any amount credited under subparagraph (A) shall be merged with other sums in such account and shall be available for the same purposes and period, and subject to the same limitations, if any, as the sums with which the amount was merged.
 
 #### (3) Limitations
 

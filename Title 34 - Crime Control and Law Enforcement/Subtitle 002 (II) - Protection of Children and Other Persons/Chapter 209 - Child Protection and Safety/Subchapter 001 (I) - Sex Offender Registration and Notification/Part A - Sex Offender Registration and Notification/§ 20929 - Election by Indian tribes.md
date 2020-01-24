@@ -24,7 +24,7 @@
 
 #### (1) Nonduplication
 
-&emsp;A tribe subject to this part is not required to duplicate functions under this part which are fully carried out by another jurisdiction or jurisdictions within which the territory of the tribe is located.
+&emsp;A tribe subject to this part is not required to duplicate functions under this part which arefully carried out by another jurisdiction or jurisdictions within which the territory of the tribe is located.
 
 #### (2) Cooperative agreements
 
@@ -38,7 +38,7 @@
 
 #### References in Text
 
-This part, referred to in text, was in the original "this subtitle", meaning subtitle A (§§111–131) of title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 591, which isclassified principally to this part. For complete classification of subtitle A to the Code, see Tables.
+This part, referred to in text, was in the original "this subtitle", meaning subtitle A (§§111–131) of title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 591, which is classified principally to this part. For complete classification of subtitle A to the Code, see Tables.
 
 #### Codification
 

@@ -86,7 +86,7 @@ In general.—For a taxable year for which there is a nonqualified withdrawal (i
 
 &emsp;(2)
 
-Maximum tax rate.—For that portion of a nonqualified withdrawal made from the capital gain account during a taxable year to which section 1(h) or 1201(a) <sup>1</sup> of such Code (26 U.S.C. 1(h), 1201(a)) applies, the tax rate used under paragraph (1)(B) may not exceed 20 percent (or 34 percent for a corporation).
+Maximum tax rate.—For that portion of a nonqualified withdrawal made from the capital gain account during a taxable year to which section 1(h) or 1201(a) <sup>1</sup> of such Code (26U.S.C. 1(h), 1201(a)) applies, the tax rate used under paragraph (1)(B) may not exceed 20 percent (or 34 percent for a corporation).
 
 &emsp;(3)
 

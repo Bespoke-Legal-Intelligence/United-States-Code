@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, in cooperation with the Secretary of Agriculture, shall establish a biofuels and biorefinery information center to make available to interested parties information on—
+The Secretary, in cooperation with the Secretary of Agriculture, shall establish a biofuelsand biorefinery information center to make available to interested parties information on—
 
 &emsp;(1) renewable fuel feedstocks, including the varieties of fuel capable of being produced from various feedstocks;
 

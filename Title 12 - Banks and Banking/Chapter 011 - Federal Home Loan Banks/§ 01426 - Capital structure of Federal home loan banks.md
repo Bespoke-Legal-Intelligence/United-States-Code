@@ -116,7 +116,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (D) Adjustments to minimum required investment
 
-&emsp;&emsp;The capital structure plan of each Federal home loan bank shall impose a continuing obligation on the board of directors of the bank to review and adjust the minimum investment required of each member of that bank, as necessary to ensure that the bank remains in compliance with applicable minimum capital levels established by the Director, and shall require each member to comply promptly with any adjustments to the required minimum investment.
+&emsp;&emsp;The capital structure plan of each Federal home loan bank shall impose a continuing obligation on the board of directors of thebank to review and adjust the minimum investment required of each member of that bank, as necessary to ensure that the bank remains in compliance with applicable minimum capital levels established by the Director, and shall require each member to comply promptly with any adjustments to the required minimum investment.
 
 #### (2) Transition rule
 
@@ -154,7 +154,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 &emsp;The capital structure plan of a Federal home loan bank shall—
 
-&emsp;&emsp;(A) provide that any stock issued by that bank shall be available only to and held onlyby members of that bank and tradable only between that bank and its members; and
+&emsp;&emsp;(A) provide that any stock issued by that bank shall be available only to and held only by members of that bank and tradable only between that bank and its members; and
 
 &emsp;&emsp;(B) establish standards, criteria, and requirements for the issuance, purchase, transfer, retirement, and redemption of stock issued by that bank.
 
@@ -226,7 +226,7 @@ If the Director or the board of directors of a Federal home loan bank determines
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), and notwithstanding any other provision of this chapter, an institution that divests all shares of stock in a Federal home loan bank may not, after such divestiture, acquire shares of anyFederal home loan bank before the end of the 5-year period beginning on the date of the completion of such divestiture, unless the divestiture is a consequence of a transfer of membership on an uninterrupted basis between banks.
+&emsp;Except as provided in paragraph (2), and notwithstanding any other provision of this chapter, an institution that divests all shares of stock in a Federal home loan bank may not, after such divestiture, acquire shares of any Federal home loan bank before the end of the 5-year period beginning on the date of the completion of such divestiture, unless the divestiture is a consequence of a transfer of membership on an uninterrupted basis between banks.
 
 #### (2) Exception for withdrawals from membership before 1998
 
@@ -250,7 +250,7 @@ If the Director or the board of directors of a Federal home loan bank determines
 
 #### References in Text
 
-The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (a)(3)(B), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to chapter 46 (§4501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
+The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (a)(3)(B), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to chapter 46\(§4501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
 
 #### Amendments
 
@@ -312,7 +312,7 @@ Subsec. (m). Pub. L. 97–320, §355(b), added subsec. (m).
 
 <b>1961</b>—Subsec. (c). Pub. L. 87–210, §1, amended subsection generally, and among other changes, authorized the bank to adjust at the end of each calendar year, under Board regulations, the stock held by each member, to retire stock of members in excess of required amounts, prohibited members to reduce stock to less than the amount held on Sept. 8, 1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction is made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board, provided that no bank shall act so as to cause the aggregate outstanding advances, within the meaning of regulations of the Board defining said term, to exceed 12 times the amounts paid in by members for outstanding capital stock held by such members, defined term "aggregate unpaid loan principal" and authorized the board to require members to submit reports and information for purposes of this subsection.
 
-Subsec. (l). Pub. L. 87–210, §2, repealed subsec. (l) which required members to acquire, hold and maintain their stock holding in an amount equal to at least 2 per centum of the aggregate of the unpaid principal of such member's home mortgage loans, home-purchase contracts, and similar obligations, but not less than $500, and provided for the retirement of Government-owned stock.
+Subsec. (l). Pub. L. 87–210, §2, repealed subsec. (l) which required members to acquire, hold and maintain their stock holding in an amount equal to at least 2 per centum of the aggregate of the unpaid principal of suchmember's home mortgage loans, home-purchase contracts, and similar obligations, but not less than $500, and provided for the retirement of Government-owned stock.
 
 <b>1955</b>—Subsec. (i). Act Aug. 11, 1955, provided that a Federal savings and loan association may not withdraw voluntarily, inserted proviso clause in item (ii), and inserted provisions authorizing removal of a member institution which has a management or home-financing policy of a character inconsistent with sound and economical home financing or with the purposes of this chapter.
 

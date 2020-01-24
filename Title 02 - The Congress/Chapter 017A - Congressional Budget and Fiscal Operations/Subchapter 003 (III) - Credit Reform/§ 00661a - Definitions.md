@@ -38,7 +38,7 @@ For purposes of this subchapter—
 
 &emsp;(6) The term "credit program account" means the budget account into which an appropriation to cover the cost of a direct loan or loan guarantee program is made and from which such cost is disbursed to the financing account.
 
-&emsp;(7) The term "financing account" means the non-budget account or accounts associated with each credit program account which holds balances, receives the cost payment from the credit program account, and also includes all other cash flows to and from the Government resulting from direct loan obligations or loan guarantee commitments made on or after October 1, 1991.
+&emsp;(7) The term "financing account" means the non-budget account or accounts associatedwith each credit program account which holds balances, receives the cost payment from the credit program account, and also includes all other cash flows to and from the Government resulting from direct loan obligations or loan guarantee commitments made on or after October 1, 1991.
 
 &emsp;(8) The term "liquidating account" means the budget account that includes all cash flows to and from the Government resulting from direct loan obligations or loan guarantee commitments made prior to October 1, 1991.
 
@@ -78,7 +78,7 @@ Par. (5)(B), (C). Pub. L. 105–33, §10117(a)(3), added subpars. (B) and (C) an
 
 &emsp;"(ii) the estimated payments to the Government including origination and other fees, penalties and recoveries."
 
-Par. (5)(D). Pub. L. 105–33, §10117(a)(4), amended subpar. (D) generally. Prior to amendment, subpar. (D)read as follows: "Any Government action that alters the estimated net present value of an outstanding direct loan or loan guarantee (except modifications within the terms of existing contracts or through other existing authorities) shall be counted as a change in the cost of that direct loan or loan guarantee. The calculation of such changes shall be based on the estimated present value of the direct loan or loan guarantee at the time of modification."
+Par. (5)(D). Pub. L. 105–33, §10117(a)(4), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "Any Government action that alters the estimated net present value of an outstanding direct loan or loan guarantee (except modifications within the terms of existing contracts or through other existing authorities) shall be counted as a change in the cost of that direct loan or loan guarantee. The calculation of such changes shall be based on the estimated present value of the direct loan or loan guarantee at the time of modification."
 
 Par. (5)(E). Pub. L. 105–33, §10117(a)(5), inserted "the cash flows of" after "similar maturity to".
 

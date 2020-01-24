@@ -72,7 +72,7 @@ Subsec. (b). Pub. L. 98–181, §451(d)(1), substituted "Director" for "Secretar
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–325, title V, §555(b), Sept. 23, 1994, 108 Stat. 2274, provided that: "The provisions of subsection (a) \[amending this section\] shall apply only to properties that sustain flood-related damage after the date of enactment of this Act \[Sept. 23, 1994\]."
+Pub. L. 103–325, title V, §555(b), Sept. 23, 1994, 108 Stat. 2274, provided that: "The provisions of subsection\(a) \[amending this section\] shall apply only to properties that sustain flood-related damage after the date of enactment of this Act \[Sept. 23, 1994\]."
 
 #### Effective Date
 
@@ -80,7 +80,7 @@ Section effective 120 days following Aug. 1, 1968, or such later date prescribed
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
@@ -164,7 +164,7 @@ Pub. L. 108–264, §2, June 30, 2004, 118 Stat. 712, provided that: "The Congre
 
 &emsp;"(9) mitigation of repetitive-loss properties through buyouts, elevations, relocations, or flood-proofing will produce savings for policyholders under the program and for Federal taxpayers through reduced flood insurance losses and reduced Federal disaster assistance;
 
-&emsp;"(10) a strategy of making mitigation offers aimed at high-priority repetitive-loss properties and shifting more of the burden of recovery costs to property owners who choose to remain vulnerable to repetitive flood damage can encourage property owners to take appropriate actions that reduce loss of life and property damage and benefit the financial soundness of the program;
+&emsp;"(10) a strategy of making mitigation offers aimed at high-priority repetitive-loss properties and shifting more of the burden of recovery costs to property owners who choose to remain vulnerable to repetitiveflood damage can encourage property owners to take appropriate actions that reduce loss of life and property damage and benefit the financial soundness of the program;
 
 &emsp;"(11) the method for addressing repetitive-loss properties should be flexible enough to take into consideration legitimate circumstances that may prevent an owner from taking a mitigation action; and
 
@@ -296,7 +296,7 @@ Report.—Not later than 1 year after the date of enactment of this Act \[June 3
 
 #### "SEC. 210. REPORT ON CHANGES TO FEE SCHEDULE OR FEE PAYMENT ARRANGEMENTS.
 
-"Not later than 3 months after the date of enactment of this Act \[June 30, 2004\], the Director shall submit a report on any changes or modifications made to the feeschedule or fee payment arrangements between the Federal Emergency Management Agency and insurance adjusters who provide services with respect to flood insurance policies to—
+"Not later than 3 months after the date of enactment of this Act \[June 30, 2004\], the Director shall submit a report on any changes or modifications made to the fee schedule or fee payment arrangements between the Federal Emergency Management Agency and insurance adjusters who provide services with respect to flood insurance policies to—
 
 &emsp;"(1) the Committee on Banking, Housing, and Urban Affairs of the Senate; and
 

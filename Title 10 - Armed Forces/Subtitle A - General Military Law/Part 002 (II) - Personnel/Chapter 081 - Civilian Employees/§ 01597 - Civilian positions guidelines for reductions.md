@@ -26,7 +26,7 @@ Involuntary Reductions of Civilian Positions.—The Secretary of Defense may not
 
 (e)
 
-Reductions Based Primarily on Performance.—The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in the Department of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall be made primarily on the basis of performance, as determined under any applicable performance management system.
+Reductions Based Primarily on Performance.—The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in theDepartment of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall be made primarily on the basis of performance, as determined under any applicable performance management system.
 
 (Added Pub. L. 101–510, div. A, title III, §322(a)(1), Nov. 5, 1990, 104 Stat. 1528; amended Pub. L. 102–484, div. A, title III, §371(a), Oct. 23, 1992, 106 Stat. 2382; Pub. L. 103–35, title II, §201(d)(1), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title III, §363, Nov. 30, 1993, 107 Stat. 1628; Pub. L. 112–81, div. A, title IX, §933(b), Dec. 31, 2011, 125 Stat. 1544; Pub. L. 114–92, div. A, title XI, §1101(a), Nov. 25, 2015, 129 Stat. 1022; Pub. L. 115–91, div. A, title X, §1051(a)(6)(A), Dec. 12, 2017, 131 Stat. 1560.)
 

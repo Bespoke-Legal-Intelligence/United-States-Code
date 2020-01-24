@@ -18,10 +18,13 @@
 | [985\.](%C2%A7%2000985%20-%20Persons%20convicted%20of%20capital%20crimes%3B%20certain%20other%20persons%20denial%20of%20specified%20burial-related%20benefits.md) | Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits. |
 | \[986. | Repealed.\] |
 | [987\.](%C2%A7%2000987%20-%20Terms%20of%20consumer%20credit%20extended%20to%20members%20and%20dependents%20limitations.md) | Terms of consumer credit extended to members and dependents: limitations. |
+| [988\.](%C2%A7%2000988%20-%20Prohibition%20on%20ownership%20or%20trading%20of%20stocks%20in%20certain%20companies%20by%20certain%20officials%20of%20the%20Department%20of%20Defense.md) | Prohibition on ownership or trading of stocks in certain companies by certain officials of the Department of Defense. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title IX, §921(b), Dec. 20, 2019, 133 Stat. 1561, added item 988.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title VII, §721(a)(2), Dec. 23, 2016, 130 Stat. 2228, added item 977.
 
@@ -107,7 +110,7 @@ One-year Prohibition.—
 
 &emsp;"(1)
 
-Prohibition.—An individual described in paragraph (2) may not engage in lobbying activities with respect to the Department of Defense during the one-year period beginning on the date of retirement or separation from service in the Armed Forces or the date of retirement or separation from service with the Department, as applicable.
+Prohibition.—An individual described in paragraph (2) may not engage in lobbying activities with respect to the Department of Defense during the one-year period beginning on the date of retirement or separation from service in the Armed Forces or thedate of retirement or separation from service with the Department, as applicable.
 
 &emsp;"(2)
 
@@ -152,3 +155,4 @@ Definitions.—In this section:
 - [&sect; 00985 - Persons convicted of capital crimes; certain other persons denial of specified burial-related benefits](%C2%A7%2000985%20-%20Persons%20convicted%20of%20capital%20crimes%3B%20certain%20other%20persons%20denial%20of%20specified%20burial-related%20benefits.md)
 - [&sect; 00986 - Repealed. Pub. L. 110&#8211;181, div. A, title X, &sect;1072(b)(1), Jan. 28, 2008, 122 Stat. 329](%C2%A7%2000986%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71072%28b%29%281%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%20329.md)
 - [&sect; 00987 - Terms of consumer credit extended to members and dependents limitations](%C2%A7%2000987%20-%20Terms%20of%20consumer%20credit%20extended%20to%20members%20and%20dependents%20limitations.md)
+- [&sect; 00988 - Prohibition on ownership or trading of stocks in certain companies by certain officials of the Department of Defense](%C2%A7%2000988%20-%20Prohibition%20on%20ownership%20or%20trading%20of%20stocks%20in%20certain%20companies%20by%20certain%20officials%20of%20the%20Department%20of%20Defense.md)

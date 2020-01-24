@@ -44,7 +44,7 @@ Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections
 
 <b>2016</b>—Subsec. (e). Pub. L. 114–327 added subsec. (e).
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–562, §304(b), inserted after second sentence "Individuals serving as suchCommissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28."
+<b>2000</b>—Subsec. (a). Pub. L. 106–562, §304(b), inserted after second sentence "Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

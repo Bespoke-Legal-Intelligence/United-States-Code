@@ -24,7 +24,7 @@ There is hereby imposed a tax on any liquid used during any calendar quarter by 
 
 #### (3) Exception for fuel on which Leaking Underground Storage Tank Trust Fund financing rate separately imposed
 
-&emsp;The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax was imposed with respect to such fuel under section 4041(d) or 4081 at the Leaking Underground Storage Tank Trust Fund financing rate.
+&emsp;The Leaking Underground Storage Tank Trust Fund financing rate under paragraph\(2)(B) shall not apply to the use of any fuel if tax was imposed with respect to such fuel under section 4041(d) or 4081 at the Leaking Underground Storage Tank Trust Fund financing rate.
 
 #### (4) Termination of Leaking Underground Storage Tank Trust Fund financing rate
 
@@ -76,7 +76,7 @@ The date for filing the return of the tax imposed by this section for any calend
 
 #### References in Text
 
-Section 206 of the Inland Waterways Revenue Act of 1978, referred to in subsec. (d)(2), is section 206 of Pub. L. 95–502, title II, Oct. 21, 1978, 92 Stat. 1700, which isclassified to section 1804 of Title 33, Navigation and Navigable Waters.
+Section 206 of the Inland Waterways Revenue Act of 1978, referred to in subsec. (d)(2), is section 206 of Pub. L. 95–502, title II, Oct. 21, 1978, 92 Stat. 1700, which is classified to section 1804 of Title 33, Navigation and Navigable Waters.
 
 #### Prior Provisions
 
@@ -110,7 +110,7 @@ Subsec. (b)(2)(C). Pub. L. 103–66, §13241(d)(2), added subpar. (C).
 
 &emsp;"(B) the Leaking Underground Storage Tank Trust Fund financing rate is 0.1 cents a gallon."
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–499 and Pub. L. 99–662 both amended subsec. (b) generally, effective Jan. 1, 1987. Pub. L. 100–647, §2002(a)(1) (see Construction of 1986 Amendments note below), provided that for purposes of this section, the amendment made by Pub. L. 99–499 be treated as enacted after the amendment made by Pub. L. 99–662. Prior to amendment by Pub. L. 99–499 and Pub. L. 99–662, subsec. (b) read as follows:
+<b>1986</b>—Subsec. (b). Pub. L. 99–499 and Pub. L. 99–662 both amended subsec. (b) generally, effective Jan. 1, 1987. Pub. L. 100–647, §2002(a)(1) (see Construction of 1986 Amendments note below), provided that for purposes of this section, the amendment made by Pub. L. 99–499 be treated as enacted after the amendment made by Pub.L. 99–662. Prior to amendment by Pub. L. 99–499 and Pub. L. 99–662, subsec. (b) read as follows:
 
 &nbsp;
 

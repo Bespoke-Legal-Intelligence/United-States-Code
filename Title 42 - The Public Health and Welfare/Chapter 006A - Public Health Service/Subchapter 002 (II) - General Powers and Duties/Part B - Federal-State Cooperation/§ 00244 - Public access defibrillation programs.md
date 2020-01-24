@@ -28,7 +28,7 @@ In awarding grants under subsection (a), the Secretary shall give a preference t
 
 A State, political subdivision of a State, Indian tribe, or tribal organization that receives a grant under subsection (a) may use funds received through such grant to—
 
-&emsp;(1) purchase automated external defibrillators that have been approved, or cleared for marketing, by the Food and Drug Administration;
+&emsp;(1) purchase automated external defibrillators that have been approved, or cleared formarketing, by the Food and Drug Administration;
 
 &emsp;(2) provide automated external defibrillation and basic life support training in automated external defibrillator usage through nationally recognized courses;
 

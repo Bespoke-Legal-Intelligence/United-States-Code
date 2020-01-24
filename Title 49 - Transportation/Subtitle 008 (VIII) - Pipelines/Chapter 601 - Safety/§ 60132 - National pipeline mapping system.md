@@ -24,7 +24,7 @@ Technical Assistance To Improve Local Response Capabilities.—The Secretary may
 
 Map of High-consequence Areas.—The Secretary shall—
 
-&emsp;(1) maintain, as part of the National Pipeline Mapping System, a map of designated high-consequence areas (as described in section 60109(a)) in which pipelines are requiredto meet integrity management program regulations, excluding any proprietary or sensitive security information; and
+&emsp;(1) maintain, as part of the National Pipeline Mapping System, a map of designated high-consequence areas (as described in section 60109(a)) in which pipelines are required to meet integrity management program regulations, excluding any proprietary or sensitive security information; and
 
 &emsp;(2) update the map biennially.
 

@@ -68,7 +68,7 @@ Pub. L. 97–414, §1(b), Jan. 4, 1983, 96 Stat. 2049, provided that: "The Congr
 
 &emsp;"(4) because so few individuals are affected by any one rare disease or condition, a pharmaceutical company which develops an orphan drug may reasonably expect the drug to generate relatively small sales in comparison to the cost of developing the drug and consequently to incur a financial loss;
 
-&emsp;"(5) there is reason to believe that some promising orphan drugs will not be developed unless changes are made in the applicable Federal laws to reduce the costs of developing such drugs and to provide financial incentives to develop such drugs; and
+&emsp;"(5) there is reason to believe that some promising orphan drugs will not be developed unless changes aremade in the applicable Federal laws to reduce the costs of developing such drugs and to provide financial incentives to develop such drugs; and
 
 &emsp;"(6) it is in the public interest to provide such changes and incentives for the development of orphan drugs."
 

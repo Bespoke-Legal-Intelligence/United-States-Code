@@ -16,3 +16,4 @@
 - [&sect; 05509 - Incidental use of equipment and supplies](%C2%A7%2005509%20-%20Incidental%20use%20of%20equipment%20and%20supplies.md)
 - [&sect; 05510 - Providing assistance to House of Representatives in response to cybersecurity events](%C2%A7%2005510%20-%20Providing%20assistance%20to%20House%20of%20Representatives%20in%20response%20to%20cybersecurity%20events.md)
 - [&sect; 05511 - Transfer of funds](%C2%A7%2005511%20-%20Transfer%20of%20funds.md)
+- [&sect; 05512 - Use of available balances of expired appropriations](%C2%A7%2005512%20-%20Use%20of%20available%20balances%20of%20expired%20appropriations.md)

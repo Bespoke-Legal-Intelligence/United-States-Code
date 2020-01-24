@@ -12,7 +12,7 @@ In carrying out this chapter, the Secretary shall—
 
 &emsp;(2) assist potential and actual applicants for economic development, economic adjustment, disaster recovery, defense conversion, and trade adjustment assistance under Federal and State laws in locating and applying for the assistance;
 
-&emsp;(3) assist areas described in section 3161(a) of this title and other areas by providing to interested persons, communities, industries, and businesses in the areas any technical information, market research, or other forms of assistance, information, or advice that would beuseful in alleviating or preventing conditions of excessive unemployment or underemployment in the areas; and
+&emsp;(3) assist areas described in section 3161(a) of this title and other areas by providing to interested persons, communities, industries, and businesses in the areas any technical information, market research, or other forms of assistance, information, or advice that would be useful in alleviating or preventing conditions of excessive unemployment or underemployment in the areas; and
 
 &emsp;(4) obtain appropriate information from other Federal agencies needed to carry out the duties under this chapter.
 

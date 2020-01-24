@@ -74,7 +74,7 @@ The total value of all orders for items or services to be provided under the pro
 
 (2) The Director of the Central Intelligence Agency and the Director of the Office of Management and Budget may not undertake any action under paragraph (1) until 60 days after the date on which the Directors jointly submit notice of such action to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615; Pub. L. 106–567, title IV, §401, Dec. 27, 2000, 114 Stat. 2847; Pub. L. 107–108, title IV, §401, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title VIII, §841(e), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title IV, §403, Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–458, title I, §1071(b)(3)(D), (E), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 112–277, title IV, §401, Jan. 14, 2013, 126 Stat. 2475; Pub. L. 113–126, title VII, §701, July 7, 2014, 128 Stat. 1422.)
+(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615; Pub. L. 106–567, title IV, §401, Dec. 27, 2000, 114 Stat. 2847; Pub. L. 107–108, title IV, §401, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title VIII, §841(e), Nov. 27, 2002, 116 Stat.2432; Pub. L. 108–177, title IV, §403, Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–458, title I, §1071(b)(3)(D), (E), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 112–277, title IV, §401, Jan. 14, 2013, 126 Stat. 2475; Pub. L. 113–126, title VII, §701, July 7, 2014, 128 Stat. 1422.)
 
 #### Codification
 
@@ -134,9 +134,11 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
 
-Pub. L. 115–245, div. A, title VIII, §8036, Sept. 28, 2018, 132 Stat. 3008, provided in part: "That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended".
+Pub. L. 116–93, div. A, title VIII, §8038, Dec. 20, 2019, 133 Stat. 2344, provided in part: "That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–245, div. A, title VIII, §8036, Sept. 28, 2018, 132 Stat. 3008.
 
 Pub. L. 115–141, div. C, title VIII, §8035, Mar. 23, 2018, 132 Stat. 471.
 

@@ -100,7 +100,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act <sup>1</sup> \[25 U.S.C. 5301 et seq.\]), unless a devicemanufactured by the establishment is to be distributed commercially.
+&emsp;&emsp;No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act <sup>1</sup> \[25 U.S.C. 5301 et seq.\]), unless a device manufactured by the establishment is to be distributed commercially.
 
 #### (C) Payment
 
@@ -297,7 +297,7 @@
 
 #### (2) Authority
 
-&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscalyear because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
+&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
 
 #### (3) Limitation
 
@@ -307,7 +307,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of device applications.
+&emsp;Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected andavailable for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of device applications.
 
 #### (2) Collections and appropriation acts
 
@@ -363,7 +363,7 @@ This section may not be construed to require that the number of full-time equiva
 
 #### References in Text
 
-The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B), probablymeans the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Amendments
 
@@ -525,11 +525,11 @@ Subsec. (f). Pub. L. 110–85, §212(f), amended subsec. (f) generally. Prior to
 
 Subsec. (g)(1). Pub. L. 110–85, §212(g)(1), added par. (1) and struck out former par. (1). Prior to amendment, par. (1) related to performance goals for fiscal years 2003 through 2005, with respect to the amount appropriated under the salaries and expenses account of the Food and Drug Administration, for devices and radiological products, and termination of the program after fiscal year 2005.
 
-Subsec. (g)(2). Pub. L. 110–85, §212(g)(2), amended par. (2) generally. Prior to amendment, text read as follows: "If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal yearbecause of subparagraph (C) or (D) of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, and premarket notification submissions, and at any time in such fiscal year, notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid."
+Subsec. (g)(2). Pub. L. 110–85, §212(g)(2), amended par. (2) generally. Prior to amendment, text read as follows: "If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal year because of subparagraph (C) or (D) of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, and premarket notification submissions, and at any time in such fiscal year, notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid."
 
 Subsec. (h)(3). Pub. L. 110–85, §212(h)(1), amended par. (3) generally, substituting provisions authorizing appropriations for fiscal years 2008 to 2012 for provisions authorizing appropriations for fiscal years 2003 to 2007.
 
-Subsec. (h)(4). Pub. L. 110–85, §212(h)(2), amended par. (4) generally. Prior to amendment, text read as follows: "Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year."
+Subsec. (h)(4). Pub. L. 110–85, §212(h)(2), amended par. (4) generally. Prior to amendment, text read as follows: "Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that wouldotherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year."
 
 <b>2005</b>—Subsec. (a)(2)(A). Pub. L. 109–43, §2(a)(7), substituted "subsection (c)(1)" for "subsection (c)(5)".
 

@@ -6,7 +6,7 @@ A person who has filed a declaration that meets the requirements of sections 422
 
 #### (b) Civil action
 
-If the Attorney General determines that a proceeding to recover the asset or assets identified in the declaration should be referred to private counsel pursuant to subchapter III, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute the action, and the declarant and the declarant's counsel shall act in accordance with subchapter III.
+If the Attorney General determines that a proceeding to recover the asset or assets identified in the declaration should be referred to privatecounsel pursuant to subchapter III, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute the action, and the declarant and the declarant's counsel shall act in accordance with subchapter III.
 
 #### (c) Share of assets
 
@@ -26,7 +26,7 @@ For purposes of this section, funds or assets acquired by the United States shal
 
 #### References in Text
 
-Section 3509A of title 18, referred to in subsec. (d)(1), probably is a reference to former section 3059A of title 18, which was repealed by Pub. L. 107–273, div. A, title III, §301(c)(2), Nov. 2, 2002, 116 Stat. 1781.
+Section 3509A of title 18, referred to in subsec. (d), probably is a reference to former section 3059A of title 18, which was repealed by Pub. L. 107–273, div. A, title III, §301(c)(2), Nov. 2, 2002, 116 Stat. 1781.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

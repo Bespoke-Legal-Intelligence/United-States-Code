@@ -48,11 +48,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) all statutory changes necessary to provide for sufficiently accurate and reliable reporting of such cases had been made; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the State had agreed that, by April 1, 2008, the State will begin accurate and reliable names-based reporting of suchcases, except that such agreement is not required to provide that, as of such date, the system for such reporting be fully sufficient with respect to accuracy and reliability throughout the area.
+&emsp;&emsp;&emsp;&emsp;(II) the State had agreed that, by April 1, 2008, the State will begin accurate and reliable names-based reporting of such cases, except that such agreement is not required to provide that, as of such date, the system for such reporting be fully sufficient with respect to accuracy and reliability throughout the area.
 
 #### (iv) Requirement for exemption as of fiscal year 2008
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2008 through 2012, an exemption under clause (ii) for an eligible area applies only if, as of April 1, 2008, the State in which the area is located is substantially in compliance with the agreement under clause (iii)(II).
+&emsp;&emsp;&emsp;For each of the fiscal years 2008 through 2012, an exemption under clause (ii) for an eligible area applies only if, as of April 1,2008, the State in which the area is located is substantially in compliance with the agreement under clause (iii)(II).
 
 #### (v) Progress toward names-based reporting
 
@@ -172,7 +172,7 @@
 
 &emsp;&emsp;(F) demonstrates the inclusiveness of affected communities and individuals with HIV/AIDS;
 
-&emsp;&emsp;(G) demonstrates the manner in which the proposed services are consistent with thelocal needs assessment and the statewide coordinated statement of need;
+&emsp;&emsp;(G) demonstrates the manner in which the proposed services are consistent with the local needs assessment and the statewide coordinated statement of need;
 
 &emsp;&emsp;(H) demonstrates the ability of the applicant to expend funds efficiently by not having had, for the most recent grant year under subsection (a) for which data is available, more than 5 percent of grant funds under such subsection canceled, offset under subsection (c)(4), or covered by any waivers under subsection (c)(3); and
 
@@ -248,7 +248,7 @@
 
 #### (2) Supplemental grants; cancellation of unobligated balance of grant award
 
-&emsp;Effective for fiscal year 2007 and subsequent fiscal years, if a grant award made pursuant to subsection (b) for an eligible area for a fiscal year has an unobligated balance as of the end of the grant year for the award—
+&emsp;Effective for fiscal year 2007 and subsequent fiscal years, if a grant award made pursuant to subsection (b) for an eligible area for a fiscalyear has an unobligated balance as of the end of the grant year for the award—
 
 &emsp;&emsp;(A) the Secretary shall cancel that unobligated balance of the award, and shall require the eligible area to return any amounts from such balance that have been disbursed to the area; and
 
@@ -294,11 +294,11 @@
 
 #### (4) Authority regarding administration of provisions
 
-&emsp;In administering paragraphs (2) and (3) with respect to the unobligated balance of an eligible area, the Secretary may elect to reduce the amount of future grants to the area under subsection (a) or (b), as applicable, by the amount of any such unobligated balance in lieu of cancelling such amount as provided for in paragraph (2) or (3)(A). In such case, the Secretary may permit the area to use such unobligated balance for purposes of any such future grant. An amount equal to such reduction shall be available for use as additional amounts for grants pursuant to subsection (b), subject to subsection (a)(4) and section 300ff–20(d)(2) of this title. Nothing in this paragraph shall be construed to affect the authority of the Secretary under paragraphs (2) and\(3), including the authority to grant waivers under paragraph (3)(A). The reduction in future grants authorized under this paragraph shall be notwithstanding the penalty required under paragraph (3)(D) with respect to unobligated funds.
+&emsp;In administering paragraphs (2) and (3) with respect to the unobligated balance of an eligible area, the Secretary may elect to reduce the amount of future grants to the area under subsection (a) or (b), as applicable, by the amount of any such unobligated balance in lieu of cancelling such amount as provided for in paragraph (2) or (3)(A). In such case, the Secretary may permit the area to use such unobligated balance for purposes of any such future grant. An amount equal to such reduction shall be available for use as additional amounts for grants pursuant to subsection (b), subject to subsection (a)(4) and section 300ff–20(d)(2) of this title. Nothing in this paragraph shall be construed to affect the authority of the Secretary under paragraphs (2) and (3), including the authority to grant waivers under paragraph (3)(A). The reduction in future grants authorized under this paragraph shall be notwithstanding the penalty required under paragraph (3)(D) with respect to unobligated funds.
 
 #### (d) Compliance with priorities of HIV planning council
 
-Notwithstanding any other provision of this subpart, the Secretary, in carrying out section 300ff–11(a) of this title, may not make any grant under subsection (a) or (b) to an eligible area unless the application submitted by such area under section 300ff–15 of this title for the grant involved demonstrates that the grants made under subsections (a) and (b) to the area for the preceding fiscal year (if any) were expended in accordance with the priorities applicable to such year that were established, pursuant to section 300ff–12(b)(4)(C) of this title, by the planning council serving the area.
+Notwithstanding any other provision of this subpart, the Secretary, in carrying out section300ff–11(a) of this title, may not make any grant under subsection (a) or (b) to an eligible area unless the application submitted by such area under section 300ff–15 of this title for the grant involved demonstrates that the grants made under subsections (a) and (b) to the area for the preceding fiscal year (if any) were expended in accordance with the priorities applicable to such year that were established, pursuant to section 300ff–12(b)(4)(C) of this title, by the planning council serving the area.
 
 #### (e) Report on the awarding of supplemental funds
 
@@ -376,11 +376,11 @@ Subsec. (c)(4). Pub. L. 111–87, §8(b)(2)(A), added par. (4).
 
 Subsec. (a)(2). Pub. L. 109–415, §107(b), substituted "this subpart" for "this part".
 
-Pub. L. 109–415, §102(a), substituted "662/3 percent of the amount made available under section 300ff–20(b) of this title for carrying out this subpart" for "50 percentof the amount appropriated under section 300ff–77 of this title" and "paragraphs (3) and (4)" for "paragraph (3)" in first sentence and struck out last sentence which read as follows: "The Secretary shall reserve an additional percentage of the amount appropriated under section 300ff–77 of this title for a fiscal year for grants under this part to make grants to eligible areas under section 300ff–11(a) of this title in accordance with paragraph (4)."
+Pub. L. 109–415, §102(a), substituted "662/3 percent of the amount made available under section 300ff–20(b) of this title for carrying out this subpart" for "50 percent of the amount appropriated under section 300ff–77 of this title" and "paragraphs (3) and (4)" for "paragraph (3)" in first sentence and struck out last sentence which read as follows: "The Secretary shall reserve an additional percentage of the amount appropriated under section 300ff–77 of this title for a fiscal year for grants under this part to make grants to eligible areas under section 300ff–11(a) of this title in accordance with paragraph (4)."
 
 Subsec. (a)(3)(A). Pub. L. 109–415, §102(d)(1), inserted concluding provisions.
 
-Subsec. (a)(3)(B). Pub. L. 109–415, §102(b)(1), which directed the substitution of "living cases of HIV/AIDS (reported to and confirmed by the Director of the Centers for Disease Control and Prevention)" for "estimated living cases of acquired immune deficiency syndrome", was executed by making the substitution for "estimated number of living cases of acquired immune deficiency syndrome", to reflect the probable intent of Congress.
+Subsec. (a)(3)(B). Pub. L. 109–415, §102(b)(1), which directed the substitution of "living cases of HIV/AIDS\(reported to and confirmed by the Director of the Centers for Disease Control and Prevention)" for "estimated living cases of acquired immune deficiency syndrome", was executed by making the substitution for "estimated number of living cases of acquired immune deficiency syndrome", to reflect the probable intent of Congress.
 
 Subsec. (a)(3)(C) to (E). Pub. L. 109–415, §102(b)(2), (c), added subpars. (C) and (D) and struck out former subpars. (C) to (E) which related to estimate of living cases, determination of Secretary regarding data on HIV cases, and unexpended funds, respectively.
 

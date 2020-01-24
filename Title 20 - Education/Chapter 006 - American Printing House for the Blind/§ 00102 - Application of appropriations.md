@@ -8,7 +8,7 @@ The Secretary of Education is authorized to pay over semiannually, to the truste
 
 &emsp;(B) The portion of the appropriation received by each chief State school officer, in such books and other materials under subparagraph (A) of this paragraph which represents the number of blind pupils in private nonprofit institutions in such State in which blind pupils are educated shall be distributed among such institutions on the basis of the number of blind pupils in each such institution as compared to the total number of such pupils in all of the private nonprofit institutions in which blind pupils are educated in such State.
 
-&emsp;(C) All books and other materials furnished pursuant to sections 101, 102, and 104 of thistitle, and control and administration of their use, shall vest only in a public agency. Such books and materials made available pursuant to sections 101, 102 and 104 of this title for use of teachers and blind pupils in any State, Territory, or possession of the United States, the Commonwealth of Puerto Rico, and the District of Columbia in any school shall be limited to those books and materials which have been approved by an appropriate educational authority or agency of such State, Territory, possession, Commonwealth, or District, or any local educational authority thereof, for use, or are used, in a public elementary or secondary school therein.
+&emsp;(C) All books and other materials furnished pursuant to sections 101, 102, and 104 of this title, and control and administration of their use, shall vest only in a public agency. Such books and materials made available pursuant to sections 101, 102 and 104 of this title for use of teachers and blind pupils in any State, Territory, or possession of the United States, the Commonwealth of Puerto Rico, and the District of Columbia in any school shall be limited to those books and materials which have been approved by an appropriate educational authority or agency of such State, Territory, possession, Commonwealth, or District, or any local educational authority thereof, for use, or are used, in a public elementary or secondary school therein.
 
 #### (2) Buildings
 
@@ -20,7 +20,7 @@ The Secretary of Education is authorized to pay over semiannually, to the truste
 
 #### (4) Income withheld when not properly used
 
-&emsp;Fourth. The Secretary of the Treasury of the United States shall have the authority to withhold the appropriation whenever he shall receive satisfactory proof that the trustees of said American Printing House for the Blind, located in Louisville, Kentucky, are not using the appropriation for the benefit of the blind in the public and private nonprofit institutions for the education of the blind in the United States.
+&emsp;Fourth. The Secretary of the Treasury of the United States shall have the authority to withhold the appropriation whenever he shall receive satisfactory proof that the trustees of said American Printing House for the Blind,located in Louisville, Kentucky, are not using the appropriation for the benefit of the blind in the public and private nonprofit institutions for the education of the blind in the United States.
 
 #### (5) Bond of treasurer
 
@@ -60,5 +60,5 @@ Amendment by Pub. L. 87–294 effective immediately after Sept. 22, 1961, see se
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
-Transfer of functions with respect to American Printing House for the Blind to Federal Security Agency, see note set out under section 101 of this title.
+Functions of Secretary of the Treasury over administration of appropriations for American Printing House for Blind (except function relating to administration of perpetual trust fund) transferred to Federal Security Agency, and annual report and vouchers of trustees directed to be furnished to Federal Security Administrator by Reorg. Plan No. II of 1939, §201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434, set out in the Appendix to Title 5.
 

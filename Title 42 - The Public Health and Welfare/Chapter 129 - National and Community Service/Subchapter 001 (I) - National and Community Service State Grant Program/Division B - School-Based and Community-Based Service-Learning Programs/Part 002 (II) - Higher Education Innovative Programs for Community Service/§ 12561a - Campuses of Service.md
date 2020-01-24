@@ -52,7 +52,7 @@ The Corporation, after consultation with the Secretary of Education, may annuall
 
 #### (1) In general
 
-&emsp;Using sums reserved under section 12681(a)(1)(C) of this title for Campuses of Service, the Corporation shall provide an award of funds to institutions designated under subsection (c), to be used by the institutions to develop or disseminate service-learning models and information on best practices regarding service-learning to other institutions of higher education.
+&emsp;Using sums reserved under section 12681(a)(1)(C) of this title for Campuses of Service, the Corporation shall provide an award of funds to institutions designated under subsection (c), to be used by the institutions to develop or disseminate service-learning models and information on best practicesregarding service-learning to other institutions of higher education.
 
 #### (2) Plan
 
@@ -60,7 +60,7 @@ The Corporation, after consultation with the Secretary of Education, may annuall
 
 #### (3) Allocation
 
-&emsp;The Corporation shall determine how the funds reserved under section 12681(a)(1)(C) of this title for Campuses of Service for a fiscal year will be allocated among the institutions submitting acceptable plans under paragraph (2). In determining the amount of funds to beallocated to such an institution, the Corporation shall consider the number of students at the institution, the quality and scope of the plan submitted by the institution under paragraph (2), and the institution's current (as of the date of submission of the plan) strategies to encourage or assist students to pursue public service careers in the nonprofit sector or government.
+&emsp;The Corporation shall determine how the funds reserved under section 12681(a)(1)(C) of this title for Campuses of Service for a fiscal year will be allocated among the institutions submitting acceptable plans under paragraph (2). In determining the amount of funds to be allocated to such an institution, the Corporation shall consider the number of students at the institution, the quality and scope of the plan submitted by the institution under paragraph (2), and the institution's current (as of the date of submission of the plan) strategies to encourage or assist students to pursue public service careers in the nonprofit sector or government.
 
 (Pub. L. 101–610, title I, §118A, as added Pub. L. 111–13, title I, §1203, Apr. 21, 2009, 123 Stat. 1477.)
 

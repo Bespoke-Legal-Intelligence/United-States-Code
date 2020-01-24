@@ -110,7 +110,7 @@ Pub. L. 95–454, title IV, §413, Oct. 13, 1978, 92 Stat. 1175, provided that:
 
 &emsp;&emsp;"(ii) authority to employ a specific number of noncareer appointees.
 
-"(2) The Office of Personnel Management shall review the designations and requests of each agency under paragraph (1) of this subsection, and shall establish interim authorizations in accordance with sections 3133 and 3134 of title 5, United States Code (as added by this Act), and shall publish the titles of the authorized positions in the Federal Register.
+"(2) The Office of Personnel Management shall review the designations and requests of each agency under paragraph (1) of this subsection, and shall establish interim authorizations in accordance with sections 3133and 3134 of title 5, United States Code (as added by this Act), and shall publish the titles of the authorized positions in the Federal Register.
 
 "(c)(1) Each employee serving in a position at the time it is designated as a Senior Executive Service position under subsection (b) of this section shall elect to—
 

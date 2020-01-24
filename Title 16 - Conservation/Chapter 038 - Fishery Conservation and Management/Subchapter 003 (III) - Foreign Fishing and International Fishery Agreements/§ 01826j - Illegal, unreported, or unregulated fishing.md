@@ -14,7 +14,7 @@
 
 &emsp;Taking into account the factors described under subsection (a)(1), the Secretary shall also identify, and list in such report, a nation—
 
-&emsp;&emsp;(A) if it is violating, or has violated at any point during the preceding 3 years, conservation and management measures required under an international fishery management agreement to which the United States is aparty and the violations undermine the effectiveness of such measures; or
+&emsp;&emsp;(A) if it is violating, or has violated at any point during the preceding 3 years, conservation and management measures required under an international fishery management agreement to which the United States is a party and the violations undermine the effectiveness of such measures; or
 
 &emsp;&emsp;(B) if it is failing, or has failed in the preceding 3-year period, to effectively address or regulate illegal, unreported, or unregulated fishing in areas described under paragraph (1)(B).
 

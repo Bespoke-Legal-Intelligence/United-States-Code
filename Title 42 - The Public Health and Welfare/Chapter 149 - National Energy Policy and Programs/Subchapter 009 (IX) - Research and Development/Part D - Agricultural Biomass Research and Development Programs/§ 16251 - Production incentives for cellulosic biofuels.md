@@ -70,7 +70,7 @@ In this section:
 
 #### (B) Amount of incentive received
 
-&emsp;&emsp;An eligible entity selected by the Secretary through a reverse auction shall receive the amount of performance incentiverequested in the auction for each gallon produced and sold by the entity during the first 6 years of operation.
+&emsp;&emsp;An eligible entity selected by the Secretary through a reverse auction shall receive the amount of performance incentive requested in the auction for each gallon produced and sold by the entity during the first 6 years of operation.
 
 #### (C) Commencement of production of cellulosic biofuels
 

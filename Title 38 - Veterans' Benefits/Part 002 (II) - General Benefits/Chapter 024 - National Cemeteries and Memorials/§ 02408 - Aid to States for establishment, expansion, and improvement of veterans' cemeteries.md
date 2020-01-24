@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(A) in the case of the establishment of a new cemetery, the sum of: (i) the cost of improvements to be made on the land to be converted into a cemetery; and (ii) the cost of initial equipment necessary to operate the cemetery; and
 
-&emsp;&emsp;(B) in the case of the expansion or improvement of an existing cemetery, the sum of: (i) the cost of improvements to be made on any land to be added to the cemetery; and (ii) the cost of any improvements to be made to the existing cemetery.
+&emsp;&emsp;(B) in the case of the expansion or improvement of an existing cemetery, the sum of: (i) the cost of improvements to be made on any land to be added to the cemetery; and\(ii) the cost of any improvements to be made to the existing cemetery.
 
 &emsp;(2) If the amount of such a grant is less than the amount of costs referred to in subparagraph (A) or (B) of paragraph (1), the State receiving the grant shall contribute the excess of such costs over the grant.
 
@@ -112,5 +112,5 @@ Section effective Oct. 18, 1978, see section 205(a) of Pub. L. 95–476, set out
 
 #### Regulations
 
-Pub. L. 110–157, title II, §202(b)(4), Dec. 26, 2007, 121 Stat. 1833, provided that: "Not later than 180 days afterthe date of the enactment of this Act \[Dec. 26, 2007\], the Secretary of Veterans Affairs shall prescribe regulations to carry out the amendments made by this subsection \[amending this section\]."
+Pub. L. 110–157, title II, §202(b)(4), Dec. 26, 2007, 121 Stat. 1833, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2007\], the Secretary of Veterans Affairs shall prescribe regulations to carry out the amendments made by this subsection \[amending this section\]."
 

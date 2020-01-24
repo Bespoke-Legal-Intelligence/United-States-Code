@@ -2,7 +2,7 @@
 
 #### (a) Application for relief
 
-A servicemember may, during military service or within 180 days of termination of or releasefrom military service, apply to a court for relief—
+A servicemember may, during military service or within 180 days of termination of or release from military service, apply to a court for relief—
 
 &emsp;(1) from any obligation or liability incurred by the servicemember before the servicemember's military service; or
 

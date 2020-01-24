@@ -42,11 +42,11 @@ The President, in consultation with the head of each Federal agency administerin
 
 #### (c) Recovery of duplicative benefits
 
-A person receiving Federal assistance for a major disaster or emergency shall be liable to the United States to the extent that such assistance duplicates benefits available to the person for the same purpose from another source. The agency which provided the duplicative assistance shall collect such duplicative assistance from the recipient in accordance with chapter 37 of title 31, relating to debt collection, when the head of such agency considers it to be in the best interest of the Federal Government.
+A person receiving Federal assistance for a major disaster or emergency shall be liable to the United States to the extent that such assistance duplicates benefits available to the person for the same purpose from another source. Theagency which provided the duplicative assistance shall collect such duplicative assistance from the recipient in accordance with chapter 37 of title 31, relating to debt collection, when the head of such agency considers it to be in the best interest of the Federal Government.
 
 #### (d) Assistance not income
 
-Federal major disaster and emergency assistance provided to individuals and families underthis chapter, and comparable disaster assistance provided by States, local governments, and disaster assistance organizations, shall not be considered as income or a resource when determining eligibility for or benefit levels under federally funded income assistance or resource-tested benefit programs.
+Federal major disaster and emergency assistance provided to individuals and families under this chapter, and comparable disaster assistance provided by States, local governments, and disaster assistance organizations, shall not be considered as income or a resource when determining eligibility for or benefit levels under federally funded income assistance or resource-tested benefit programs.
 
 (Pub. L. 93–288, title III, §312, as added Pub. L. 100–707, title I, §105(i), Nov. 23, 1988, 102 Stat. 4693; amended Pub. L. 115–254, div. D, §1210(a)(1), (4), Oct. 5, 2018, 132 Stat. 3442, 3443.)
 

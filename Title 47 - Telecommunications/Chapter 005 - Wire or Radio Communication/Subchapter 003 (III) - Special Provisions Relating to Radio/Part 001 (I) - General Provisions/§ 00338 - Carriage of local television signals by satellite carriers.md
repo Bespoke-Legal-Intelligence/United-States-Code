@@ -16,7 +16,7 @@
 
 #### (4) Carriage of signals of local stations in certain markets
 
-&emsp;A satellite carrier that offers multichannel video programming distribution service in the United States to more than 5,000,000 subscribers shall (A) within 1 year after December 8, 2004, retransmit the signals originating as analog signals of each television broadcast station located in any local market within a State that is not part of the contiguous United States, and (B) within 30 months after December 8, 2004, retransmit the signals originating as digital signals of each such station. The retransmissions of such stations shall be made available to substantially all of the satellite carrier's subscribers in each station's local market, and the retransmissions of the stations in at least one market in the State shall be made available to substantially all of thesatellite carrier's subscribers in areas of the State that are not within a designated market area. The cost to subscribers of such retransmissions shall not exceed the cost of retransmissions of local television stations in other States. Within 1 year after December 8, 2004, the Commission shall promulgate regulations concerning elections by television stations in such State between mandatory carriage pursuant to this section and retransmission consent pursuant to section 325(b) of this title, which shall take into account the schedule on which local television stations are made available to viewers in such State.
+&emsp;A satellite carrier that offers multichannel video programming distribution service in the United States to more than 5,000,000 subscribers shall (A) within 1 year after December 8, 2004, retransmit the signals originating as analog signals of each television broadcast station located in any local market within a State that is not part of the contiguous United States, and (B) within 30 months after December 8, 2004, retransmit the signals originating as digital signals of each such station. The retransmissions of such stations shall be made available to substantially all of the satellite carrier's subscribers in each station's local market, and the retransmissions of the stations in at least one market in the State shall be made available to substantially all of the satellite carrier's subscribers in areas of the State that are not within a designated market area. The cost to subscribers of such retransmissions shall not exceed the cost of retransmissions of local television stations in other States. Within 1 year after December 8, 2004, the Commission shall promulgate regulations concerning elections by television stations in such State between mandatory carriage pursuant to this section and retransmission consent pursuant to section 325(b) of this title, which shall take into account the schedule on which local television stations are made available to viewers in such State.
 
 #### (5) Nondiscrimination in carriage of high definition signals of noncommercial educational television stations
 
@@ -64,7 +64,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (1) Complaints by broadcast stations
 
-&emsp;Whenever a local television broadcast station believes that a satellite carrier has failed to meet its obligations under subsections (b) through (e) of this section, such station shall notify the carrier, in writing, of the alleged failure and identify its reasons for believing that the satellite carrier failed to comply with such obligations. The satellite carrier shall, within 30 days after such written notification, respond in writing to such notification and comply with such obligations or state its reasons for believing that it is in compliance with such obligations. A local television broadcast station that disputes a response by a satellitecarrier that it is in compliance with such obligations may obtain review of such denial or response by filing a complaint with the Commission. Such complaint shall allege the manner in which such satellite carrier has failed to meet its obligations and the basis for such allegations.
+&emsp;Whenever a local television broadcast station believes that a satellite carrier has failed to meet its obligations under subsections (b) through (e) of this section, such station shall notify the carrier, in writing, of the alleged failure and identify its reasons for believing that the satellite carrier failed to comply with such obligations. The satellite carrier shall, within 30 days after such written notification, respond in writing to such notification and comply with such obligations or state its reasons for believing that it is in compliance with such obligations. A local television broadcast station that disputes a response by a satellite carrier that it is in compliance with such obligations may obtain review of such denial or response by filing a complaint with the Commission. Such complaint shall allege the manner in which such satellite carrier has failed to meet its obligations and the basis for such allegations.
 
 #### (2) Opportunity to respond
 
@@ -306,7 +306,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(ii) whether the television station provides coverage or other local service to such community;
 
-&emsp;&emsp;&emsp;(iii) whether modifying the local market of the television station would promote consumers' access to television broadcast station signals that originate in their State of residence;
+&emsp;&emsp;&emsp;(iii) whether modifying the local market of the television station would promote consumers' access to television broadcaststation signals that originate in their State of residence;
 
 &emsp;&emsp;&emsp;(iv) whether any other television station that is eligible to be carried by a satellite carrier in such community in fulfillment of the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
 
@@ -386,11 +386,11 @@ Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pu
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–447, div. J, title IX \[title II, §206(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: "Section 338(i) of the Communications Act of 1934 (47 U.S.C. 338(i)) asamended by subsection (a) of this section shall be effective 60 days after the date of enactment of this Act \[Dec. 8, 2004\]."
+Pub. L. 108–447, div. J, title IX \[title II, §206(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: "Section 338(i) of the Communications Act of 1934 (47 U.S.C. 338(i)) as amended by subsection (a) of this section shall be effective 60 days after the date of enactment of this Act \[Dec. 8, 2004\]."
 
 #### Market Modification Process
 
-Pub. L. 113–200, title I, §102(c), Dec. 4, 2014, 128 Stat. 2061, provided that: "The \[Federal Communications\] Commission shall make information available to consumers on its website that explains the market modification process, including—
+Pub. L. 113–200, title I, §102(c), Dec. 4, 2014, 128 Stat. 2061, provided that: "The \[Federal Communications\]Commission shall make information available to consumers on its website that explains the market modification process, including—
 
 &emsp;"(1) who may petition to include additional communities within, or exclude communities from, a—
 
@@ -510,7 +510,7 @@ Study; Report.—
 
 Study.—If no satellite carrier files a request for a certification under section 342 of the Communications Act of 1934 \[47 U.S.C. 342\] (as added by section 206 of this title) within 270 days after the date of the enactment of this Act, the Federal Communications Commission shall initiate a study of—
 
-&emsp;&emsp;"(A) incentives that would induce a satellite carrier to provide the signals of 1 or more television broadcast stations licensed to provide signals in local markets in which the satellite carrier does not provide such signals; and
+&emsp;&emsp;"(A) incentives that would induce a satellite carrier to provide the signals of 1 or more televisionbroadcast stations licensed to provide signals in local markets in which the satellite carrier does not provide such signals; and
 
 &emsp;&emsp;"(B) the economic and satellite capacity conditions affecting delivery of local signals by satellite carriers to these markets.
 

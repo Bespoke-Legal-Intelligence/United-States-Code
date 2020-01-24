@@ -152,7 +152,7 @@ Pub. L. 113–291, §3021(a)(2), substituted "Project" for "Pilot Project".
 
 Subsec. (j)(2). Pub. L. 113–291, §3021(a)(2), substituted "Project" for "Pilot Project".
 
-<b>2013</b>—Subsec. (d). Pub. L. 113–69 added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "The following Bureau of Land Management Field Offices shall serve as the Pilot Project offices:
+<b>2013</b>—Subsec. (d). Pub. L. 113–69 added subsec. (d) and struck out former subsec. (d). Prior to amendment, textread as follows: "The following Bureau of Land Management Field Offices shall serve as the Pilot Project offices:
 
 &emsp;"(1) Rawlins, Wyoming.
 

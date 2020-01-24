@@ -42,7 +42,7 @@
 
 (2) In a cooperative agreement or funding agreement under paragraph (1), the Secretary may agree to provide not more than 80 percent of the cost of any project under the agreement. Not less than 5 percent of the non-Federal entity's share of the cost of any such project shall be paid in cash.
 
-(3) The research, development, or utilization of any technology pursuant to a cooperativeagreement under paragraph (1), including the terms under which such technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
+(3) The research, development, or utilization of any technology pursuant to a cooperative agreement under paragraph (1), including the terms under which such technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
 
 (4) The research, development, or utilization of any technology pursuant to a funding agreement under paragraph (1), including the determination of all licensing and ownership rights, shall be subject to the provisions of chapter 18 of title 35, United States Code.
 
@@ -148,7 +148,7 @@ Request for proposals.—Not later than 12 months after the date of the enactmen
 
 &emsp;"(B)
 
-Award of contracts.—Not later than 15 months after the date of the enactment of this Act, the Secretary and the Assistant Secretary shall, based on the recommendations of the program director, award 1-year contracts for research and development to no fewer than 5 eligible applicants. If fewer than 5 complete applications have been received, contracts shall be awarded to as many eligible applicants as is practical.
+Award of contracts.—Not later than 15 months after the date of the enactment of this Act, the Secretary and the Assistant Secretary shall, based on the recommendations of the program director, award 1-year contracts for research and development to no fewer than 5 eligible applicants. If fewerthan 5 complete applications have been received, contracts shall be awarded to as many eligible applicants as is practical.
 
 &emsp;"(C)
 
@@ -180,7 +180,7 @@ Selection of design.—Within 6 months of receiving the detailed designs develop
 
 &emsp;&emsp;"(iv) 3 members to be appointed by the Speaker of the House and the minority leader of the House,
 
-> &emsp;shall be appointed not later than 1 year following the award of contracts under paragraph (3). The selectioncommittee, within 3 months of receiving the detailed designs developed under paragraph (3), shall make a recommendation to the Secretary and the Assistant Secretary as to the best prototype design or the unsuitability of any design. The program director shall provide technical reviews of the phase two contract reports to the selection committee and otherwise provide any technical assistance that the committee requires to assist it in making a recommendation. In the event that the Secretary and the Assistant Secretary determine jointly not to select a design for development under this subsection, they shall report to Congress on the basis for such determination, together with recommendations for future action, including further research, development, or design, termination of the program, or such other action as may be appropriate.
+> &emsp;shall be appointed not later than 1 year following the award of contracts under paragraph (3). The selection committee, within 3 months of receiving the detailed designs developed under paragraph (3), shall make a recommendation to the Secretary and the Assistant Secretary as to the best prototype design or the unsuitability of any design. The program director shall provide technical reviews of the phase two contract reports to the selection committee and otherwise provide any technical assistance that the committee requires to assist it in making a recommendation. In the event that the Secretary and the Assistant Secretary determine jointly not to select a design for development under this subsection, they shall report to Congress on the basis for such determination, together with recommendations for future action, including further research, development, or design, termination of the program, or such other action as may be appropriate.
 
 &emsp;"(B)
 

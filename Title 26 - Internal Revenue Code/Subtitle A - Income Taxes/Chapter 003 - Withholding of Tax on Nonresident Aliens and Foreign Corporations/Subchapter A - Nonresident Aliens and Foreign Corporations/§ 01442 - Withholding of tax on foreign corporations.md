@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 108–357, §420(b), designated existing provisions as par.
 
 Subsec. (c). Pub. L. 99–514, §1273(b)(2)(B), amended subsec. (c) generally, substituting reference to "certain possessions corporations" for reference to "certain Guam and Virgin Islands corporations" in heading, and in text extending "foreign corporation" exception so as to not include corporation created or organized in Guam, American Samoa, Northern Mariana Islands, or the Virgin Islands, and striking out par. (2) which declared that par. (1) not apply to tax imposed in Guam, and par. (3) which referred to sections 934 and 943a for tax imposed in Virgin Islands.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §474(r)(29)(I), struck out "or section 1451" after "provided in section 1441" and struck out "; except that, in the case of interest described in section 1451 (relating to tax-free covenant bonds), the deduction and withholding shall be at the rate specified therein" after "a tax equal to 30 percent thereof".
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §474(r)(29)(I), struck out "or section 1451" after "provided in section 1441"and struck out "; except that, in the case of interest described in section 1451 (relating to tax-free covenant bonds), the deduction and withholding shall be at the rate specified therein" after "a tax equal to 30 percent thereof".
 
 Pub. L. 98–369, §127(e)(2), struck out "and" after "section 881(a)(4)," and inserted ", and the references in section 1449(c)(9) to sections 871(h)(2) and 871(h)(3) shall be treated as referring to sections 881(c)(2) and 881(c)(3)".
 

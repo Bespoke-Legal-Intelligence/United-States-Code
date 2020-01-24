@@ -6,7 +6,7 @@ Making Slots Available for Essential Air Service.—
 
 &emsp;(1)
 
-Operational authority.—If basic essential air service under subchapter II of this chapter is to be provided from an eligible point to a high density airport (other than Ronald Reagan Washington National Airport),the Secretary of Transportation shall ensure that the air carrier providing or selected to provide such service has sufficient operational authority at the high density airport to provide such service. The operational authority shall allow flights at reasonable times taking into account the needs of passengers with connecting flights.
+Operational authority.—If basic essential air service under subchapter II of this chapter is to be provided from an eligible point to a high density airport (other than Ronald Reagan Washington National Airport), the Secretary of Transportation shall ensure that the air carrier providing or selected to provide such service has sufficient operational authority at the high density airport to provide such service. The operational authority shall allow flights at reasonable times taking into account the needs of passengers with connecting flights.
 
 &emsp;(2)
 
@@ -90,7 +90,7 @@ Matters to be considered.—The Secretary shall continue the Secretary's current
 
 &emsp;&emsp;&emsp;(v) aviation safety;
 
-&emsp;&emsp;(C) the impact of the current slot allocation process upon the ability of air carriersto provide essential air service under subchapter II of this chapter;
+&emsp;&emsp;(C) the impact of the current slot allocation process upon the ability of air carriers to provide essential air service under subchapter II of this chapter;
 
 &emsp;&emsp;(D) the impact of such allocation process upon the ability of new entrant air carriers to obtain slots in time periods that enable them to provide service;
 
@@ -100,7 +100,7 @@ Matters to be considered.—The Secretary shall continue the Secretary's current
 
 &emsp;&emsp;(G) the impact, on the ability of air carriers to provide domestic and international air service, of the withdrawal of slots from air carriers in order to provide slots for foreign air carriers; and
 
-&emsp;&emsp;(H) the impact of the prohibition on slot withdrawals in subsections (b)(2) and (b)(3) of this section on the aviation relationship between the United States Government and foreign governments, including whether the prohibition in such subsections will require the withdrawal of slots from general and military aviation in order to meet the needs of air carriers and foreign air carriers providing foreign air transportation (and the impact of such withdrawal on general aviation and military aviation) and whether slots will become available to meet the needs of air carriers and foreign air carriers to provide foreign air transportation as a result of the planned relocation of Air Force Reserve units and the Air National Guard at O'Hare International Airport.
+&emsp;&emsp;(H) the impact of the prohibition on slot withdrawals in subsections (b)(2) and (b)(3) of this section on the aviation relationship between the United States Government and foreign governments, including whether the prohibition in such subsections will require the withdrawal of slots from general and military aviation in order to meet the needs of air carriers and foreign air carriers providing foreign air transportation (and theimpact of such withdrawal on general aviation and military aviation) and whether slots will become available to meet the needs of air carriers and foreign air carriers to provide foreign air transportation as a result of the planned relocation of Air Force Reserve units and the Air National Guard at O'Hare International Airport.
 
 &emsp;(2)
 
@@ -172,7 +172,7 @@ Day Application Process.—
 
 &emsp;(1)
 
-Request for slot exemptions.—Any slot exemption request filed with the Secretaryunder this section or section 41716 or 41717 (other than subsection (c)) shall include—
+Request for slot exemptions.—Any slot exemption request filed with the Secretary under this section or section 41716 or 41717 (other than subsection (c)) shall include—
 
 &emsp;&emsp;(A) the names of the airports to be served;
 
@@ -196,7 +196,7 @@ day period tolled for timely request for more information.—If the Secretary re
 
 &emsp;(4)
 
-Failure to determine deemed approval.—If the Secretary neither approves the request under paragraph (2)(A) nor denies the request under paragraph (2)(C) within the 60-day period beginning on the date the request is received, excepting any days during which the 60-day period is tolled under paragraph (3), then the request is deemed to have been approved on the 61st day, after the request was filed with the Secretary.
+Failure to determine deemed approval.—If the Secretary neither approves therequest under paragraph (2)(A) nor denies the request under paragraph (2)(C) within the 60-day period beginning on the date the request is received, excepting any days during which the 60-day period is tolled under paragraph (3), then the request is deemed to have been approved on the 61st day, after the request was filed with the Secretary.
 
 (j)
 

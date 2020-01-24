@@ -8,7 +8,7 @@ In General.—Except when providing transportation for charitable purposes witho
 
 &emsp;(2) for movement of household goods;
 
-> only if the rate for such transportation or service is contained in a tariff that is in effect under this section. The carrier may not charge or receive a different compensation for the transportation or service than the rate specified in the tariff, whether by returning a part of that rate to a person, giving a person a privilege, allowing the use of a facility that affects the value of that transportation or service, or another device. A rate contained in a tariff shall be stated in money of the United States.
+> only if the rate for such transportation or service is contained in a tariff that is in effect under this section. The carrier may not charge or receive a different compensation for the transportation or service than the rate specified in the tariff, whether by returning a part of that rate to a person, giving a person a privilege, allowing the use of a facility that affects the value ofthat transportation or service, or another device. A rate contained in a tariff shall be stated in money of the United States.
 
 (b)
 
@@ -62,7 +62,7 @@ In general.—A carrier providing transportation described in subsection (a)(2) 
 
 &emsp;(2)
 
-Notice of availability.—A carrier that maintains a tariff under this subsection may not enforce the provisions of the tariff unless the carrier has given notice that the tariff is available for inspection in its bill of lading orby other actual notice to individuals whose shipments are subject to the tariff.
+Notice of availability.—A carrier that maintains a tariff under this subsection may not enforce the provisions of the tariff unless the carrier has given notice that the tariff is available for inspection in its bill of lading or by other actual notice to individuals whose shipments are subject to the tariff.
 
 &emsp;(3)
 

@@ -20,7 +20,7 @@
 
 &emsp;The Secretary may make a grant under this chapter on behalf of an Indian tribe for a fiscal year only if—
 
-&emsp;&emsp;(A) the Indian tribe has submitted to the Secretary an Indian housing plan for such fiscal year under section 4112 of this title; and
+&emsp;&emsp;(A) the Indian tribe has submitted to the Secretary an Indian housing plan for suchfiscal year under section 4112 of this title; and
 
 &emsp;&emsp;(B) the plan has been determined under section 4113 of this title to comply with the requirements of section 4112 of this title.
 
@@ -74,7 +74,7 @@ Each recipient shall make all reasonable efforts, consistent with the purposes o
 
 For purposes of section 501 of title 40, on election by the applicable Indian tribe—
 
-&emsp;(1) each Indian tribe or tribally designated housing entity shall be considered to be an Executive agency in carrying out any program, service, or other activity under this chapter; and
+&emsp;(1) each Indian tribe or tribally designated housing entity shall be considered to be an Executive agency in carrying out any program,service, or other activity under this chapter; and
 
 &emsp;(2) each Indian tribe or tribally designated housing entity and each employee of the Indian tribe or tribally designated housing entity shall have access to sources of supply on the same basis as employees of an Executive agency.
 

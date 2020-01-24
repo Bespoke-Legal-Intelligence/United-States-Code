@@ -1,6 +1,6 @@
 ### §100704. Inventory and monitoring program
 
-The Secretary shall undertake a program of inventory and monitoring of System resourcesto establish baseline information and to provide information on the long-term trends in the condition of System resources. The monitoring program shall be developed in cooperation with other Federal monitoring and information collection efforts to ensure a cost-effective approach.
+The Secretary shall undertake a program of inventory and monitoring of System resources to establish baseline information and to provide information on the long-term trends in the condition of System resources. The monitoring program shall be developed in cooperation with other Federal monitoring and information collection efforts to ensure a cost-effective approach.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3105.)
 

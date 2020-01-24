@@ -24,7 +24,7 @@ To be eligible to receive financial assistance under this chapter, a project sha
 
 #### (C) Security features
 
-&emsp;&emsp;The Secretary or the Administrator, as applicable, shall ensure that any financing forthe project has appropriate security features, such as a rate covenant, supporting the project obligations to ensure repayment.
+&emsp;&emsp;The Secretary or the Administrator, as applicable, shall ensure that any financing for the project has appropriate security features, such as a rate covenant, supporting the project obligations to ensure repayment.
 
 #### (D) Rating opinion letters
 
@@ -142,7 +142,7 @@ To be eligible to receive financial assistance under this chapter, a project sha
 
 &emsp;&emsp;(I) The extent to which the project addresses identified municipal, State, or regional priorities.
 
-&emsp;&emsp;(J) The readiness of the project to proceed toward development, including a demonstration by the obligor that there is a reasonable expectation that the contracting process for construction of the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under this chapter.
+&emsp;&emsp;(J) The readiness of the project to proceed toward development, including a demonstration by the obligor that there is a reasonableexpectation that the contracting process for construction of the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under this chapter.
 
 &emsp;&emsp;(K) The extent to which assistance under this chapter reduces the contribution of Federal assistance to the project.
 

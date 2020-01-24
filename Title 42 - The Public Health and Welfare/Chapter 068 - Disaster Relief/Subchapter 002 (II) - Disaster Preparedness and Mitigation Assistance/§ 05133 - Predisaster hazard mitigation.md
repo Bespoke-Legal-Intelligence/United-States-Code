@@ -112,7 +112,7 @@ In determining whether to provide technical and financial assistance to a State 
 
 &emsp;(9) the extent to which assistance will fund mitigation activities in small impoverished communities;
 
-&emsp;(10) the extent to which the State, local, Indian tribal, or territorial government has facilitated the adoption and enforcement of the latest published editions of relevant consensus-based codes, specifications, and standards, including amendments made by State, local, Indian tribal, or territorial governments during the adoption process that incorporate the latest hazard-resistant designs and establish criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings' users against disasters;
+&emsp;(10) the extent to which the State, local, Indian tribal, or territorial government has facilitated the adoption and enforcement of the latest published editions of relevant consensus-based codes, specifications, and standards, including amendments made by State, local, Indian tribal, or territorial governments during the adoption process that incorporate the latest hazard-resistant designs and establishcriteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings' users against disasters;
 
 &emsp;(11) the extent to which the assistance will fund activities that increase the level of resiliency; and
 
@@ -194,7 +194,7 @@ Not later than 18 months after October 30, 2000, the President, in consultation 
 
 For purposes of subsections (e)(1)(B)(iv) and (g)(10), the term "latest published editions" means, with respect to relevant consensus-based codes, specifications, and standards, the 2 most recently published editions.
 
-(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan.23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649; Pub. L. 110–329, div. D, title V, §553, Sept. 30, 2008, 122 Stat. 3690; Pub. L. 111–83, title V, §543, Oct. 28, 2009, 123 Stat. 2176; Pub. L. 111–351, §§3(a), (b), 4, Jan. 4, 2011, 124 Stat. 3864; Pub. L. 115–254, div. D, §1234(a), (d), Oct. 5, 2018, 132 Stat. 3461, 3463.)
+(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan. 23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649; Pub. L. 110–329, div. D, title V, §553, Sept. 30, 2008, 122 Stat. 3690; Pub. L. 111–83, title V, §543, Oct. 28, 2009, 123 Stat. 2176; Pub. L. 111–351, §§3(a), (b), 4, Jan. 4, 2011, 124 Stat. 3864; Pub. L. 115–254, div. D, §1234(a), (d), Oct. 5, 2018, 132 Stat. 3461, 3463.)
 
 #### Amendment of Section
 

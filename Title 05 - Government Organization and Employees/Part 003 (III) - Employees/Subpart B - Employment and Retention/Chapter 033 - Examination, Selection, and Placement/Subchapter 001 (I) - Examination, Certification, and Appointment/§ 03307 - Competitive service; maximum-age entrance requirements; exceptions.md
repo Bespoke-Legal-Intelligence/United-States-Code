@@ -10,7 +10,7 @@
 
 (e)(1) Except as provided in paragraph (2), the head of an agency may determine and fix the maximum age limit for an original appointment to a position as a firefighter or law enforcement officer, as defined by section 8401(14) or (17), respectively, of this title.
 
-(2)(A) In the case of the conversion of an agency function from performance by a contractor toperformance by an employee of the agency, the head of the agency, in consultation with the Director of the Office of Personnel Management, may waive any maximum limit of age, determined or fixed for positions within such agency under paragraph (1), if necessary in order to promote the recruitment or appointment of experienced personnel.
+(2)(A) In the case of the conversion of an agency function from performance by a contractor to performance by an employee of the agency, the head of the agency, in consultation with the Director of the Office of Personnel Management, may waive any maximum limit of age, determined or fixed for positions within such agency under paragraph (1), if necessary in order to promote the recruitment or appointment of experienced personnel.
 
 (B) For purposes of this paragraph—
 
@@ -132,7 +132,7 @@ Election available to incumbents.—
 
 In general.—An incumbent may elect, for all purposes, either—
 
-&emsp;&emsp;&emsp;"(I) to be treated in accordance with the amendments made by subsection (a) or (b) \[amending sections 8331, 8334 to 8336, 8401, 8412,8415, 8422, 8423, and 8425 of this title\], as applicable; or
+&emsp;&emsp;&emsp;"(I) to be treated in accordance with the amendments made by subsection (a) or (b) \[amending sections 8331, 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title\], as applicable; or
 
 &emsp;&emsp;&emsp;"(II) to be treated as if subsections (a) and (b) had never been enacted.
 
@@ -148,7 +148,7 @@ Definition.—For purposes of this subsection, the term 'customs and border prot
 
 "(5)
 
-Exclusion.—Nothing in this section or any amendment made by this section shall be considered to afford any election or to otherwise apply with respect to any individual who, as of the day before the date of the enactment of this Act—
+Exclusion.—Nothing in this section or any amendment made by this section shall be considered toafford any election or to otherwise apply with respect to any individual who, as of the day before the date of the enactment of this Act—
 
 &emsp;"(A) holds a position within U.S. Customs and Border Protection; and
 

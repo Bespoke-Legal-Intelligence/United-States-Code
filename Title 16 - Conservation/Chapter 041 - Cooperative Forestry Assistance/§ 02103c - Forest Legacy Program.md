@@ -2,7 +2,7 @@
 
 #### (a) Establishment and purpose
 
-The Secretary shall establish a program, to be known as the Forest Legacy Program, in cooperation with appropriate State, regional, and other units of government for the purposes of ascertaining and protecting environmentally important forest areas that are threatened by conversion to nonforest uses and, through the use of conservation easements and other mechanisms, for promoting forest land protection and other conservation opportunities. Such purposes shall also include the protection of important scenic, cultural, fish, wildlife, and recreational resources, riparian areas, and other ecological values.
+The Secretary shall establish a program, to be known as the Forest Legacy Program, in cooperation with appropriate State, regional, and other units of government for the purposes of ascertaining and protecting environmentally important forest areas that are threatened by conversion to nonforest uses and, through the use ofconservation easements and other mechanisms, for promoting forest land protection and other conservation opportunities. Such purposes shall also include the protection of important scenic, cultural, fish, wildlife, and recreational resources, riparian areas, and other ecological values.
 
 #### (b) State and regional forest legacy programs
 
@@ -16,7 +16,7 @@ In addition to the authorities granted under section 515 of this title and secti
 
 #### (1) In general
 
-&emsp;Lands and interests therein acquired under subsection (c) may be held in perpetuity forprogram and easement administration purposes as the Secretary may provide. In administering lands and interests therein under the program, the Secretary shall identify the environmental values to be protected by entry of the lands into the program, management activities which are planned and the manner in which they may affect the values identified, and obtain from the landowner other information determined appropriate for administration and management purposes.
+&emsp;Lands and interests therein acquired under subsection (c) may be held in perpetuity for program and easement administration purposes as the Secretary may provide. In administering lands and interests therein under the program, the Secretary shall identify the environmental values to be protected by entry of the lands into the program, management activities which are planned and the manner in which they may affect the values identified, and obtain from the landowner other information determined appropriate for administration and management purposes.
 
 #### (2) Initial programs
 
@@ -56,7 +56,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 #### (2) Cost sharing
 
-&emsp;In accordance with terms and conditions that the Secretary shall prescribe, costs for the acquisition of lands or interests therein or project costs shall be shared among participating entities including regional organizations, State and other governmental units, landowners, corporations, or private organizations. Such costs may include, but are not limited to, those associated with planning, administration, property acquisition, and property management. To the extent practicable, the Federal share of total program costs shall not exceed 75 percent, including any in-kind contribution.
+&emsp;In accordance with terms and conditions that the Secretary shall prescribe, costs for the acquisition of lands or interests therein orproject costs shall be shared among participating entities including regional organizations, State and other governmental units, landowners, corporations, or private organizations. Such costs may include, but are not limited to, those associated with planning, administration, property acquisition, and property management. To the extent practicable, the Federal share of total program costs shall not exceed 75 percent, including any in-kind contribution.
 
 #### (k) Easements
 

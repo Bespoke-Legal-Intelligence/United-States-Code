@@ -2,7 +2,7 @@
 
 #### (a) Designation of position
 
-The President shall designate an individual to serve in the Executive Office of the President as the National Coordinator for Nonproliferation Matters.
+The President shall designate an individual to serve in the Executive Office of the President asthe National Coordinator for Nonproliferation Matters.
 
 #### (b) Duties
 

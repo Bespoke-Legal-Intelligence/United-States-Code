@@ -33,7 +33,7 @@
 
 <b>1984</b>—Pub. L. 98–353, title II, §208(b), July 10, 1984, 98 Stat. 351, inserted "; assignment of ownership" in item 8706.
 
-<b>1980</b>—Pub. L. 96–427, §§2(e), 7(b), 8(c), and 9(b), Oct. 10, 1980, 94 Stat. 1832, 1836, 1837, added items 8714b and8714c, substituted "Definitions" for "Definition" in item 8701, and struck out item 8713 "Advisory committee".
+<b>1980</b>—Pub. L. 96–427, §§2(e), 7(b), 8(c), and 9(b), Oct. 10, 1980, 94 Stat. 1832, 1836, 1837, added items 8714b and 8714c, substituted "Definitions" for "Definition" in item 8701, and struck out item 8713 "Advisory committee".
 
 <b>1967</b>—Pub. L. 90–206, title IV, §404(2), Dec. 16, 1967, 81 Stat. 648, added item 8714a.
 

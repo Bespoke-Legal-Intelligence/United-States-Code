@@ -18,7 +18,7 @@ Within the boundaries of the park, the Secretary may acquire lands and interests
 
 #### (d) Administration
 
-The Secretary shall administer the park in accordance with the Acts of August 25, 1916 (39 Stat. 535),<sup>1</sup> as amended and supplemented, and August 21, 1935 (49 Stat. 666) <sup>1</sup> as amended.
+The Secretary shall administer the park in accordance with the Acts of August 25, 1916 (39Stat. 535),<sup>1</sup> as amended and supplemented, and August 21, 1935 (49 Stat. 666) <sup>1</sup> as amended.
 
 #### (e) Omitted
 

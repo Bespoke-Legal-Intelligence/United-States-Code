@@ -102,7 +102,7 @@ In this section:
 
 #### (iii) Tribal agencies
 
-&emsp;&emsp;&emsp;The Secretary may allow a Tribal agency to use funds provided to the Indian Tribe of the Tribal agency through a Federal agency (including the Indian HealthService) or other Federal benefit to satisfy all or part of the non-Federal share described in clause (i) if such use is otherwise consistent with the purpose of such funds.
+&emsp;&emsp;&emsp;The Secretary may allow a Tribal agency to use funds provided to the Indian Tribe of the Tribal agency through a Federal agency (including the Indian Health Service) or other Federal benefit to satisfy all or part of the non-Federal share described in clause (i) if such use is otherwise consistent with the purpose of such funds.
 
 #### (2) Criteria
 
@@ -278,7 +278,7 @@ In this section:
 
 &emsp;The Centers shall be capable of providing services related to grants under subsections (b) and (c), including—
 
-&emsp;&emsp;(A) offering incentive program training and technical assistance to applicants andgrantees to the extent practicable, including—
+&emsp;&emsp;(A) offering incentive program training and technical assistance to applicants and grantees to the extent practicable, including—
 
 &emsp;&emsp;&emsp;(i) collecting and providing information on best practices that may include communications, signage, record-keeping, incentive instruments, development and integration of point of sale systems, and reporting;
 
@@ -406,7 +406,7 @@ Subsec. (c)(1). Pub. L. 115–334, §4205(a)(4)(A), substituted "to carry out th
 
 Subsec. (c)(2). Pub. L. 115–334, §4205(a)(4)(B), substituted "this section" for "subsection (b)" in introductory provisions and added subpar. (C) relating to fiscal year 2019 and subpars. (D) to (G).
 
-Subsec. (c)(3). Pub. L. 115–334, §4205(a)(4)(B)(iv) added par. (3).
+Subsec. (c)(3). Pub. L. 115–334, §4205(a)(4)(B)(iv), added par. (3).
 
 Subsecs. (d), (e). Pub. L. 115–334, §4205(a)(6), added subsecs. (d) and (e).
 
@@ -416,7 +416,7 @@ Subsec. (f). Pub. L. 115–334, §4205(a)(5), redesignated subsec. (c) as (f).
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
 Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under section 1161 of Title 2, The Congress.
 

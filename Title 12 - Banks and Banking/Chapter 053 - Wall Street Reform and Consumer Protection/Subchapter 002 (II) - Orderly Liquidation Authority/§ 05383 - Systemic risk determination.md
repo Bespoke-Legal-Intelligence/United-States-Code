@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;On their own initiative, or at the request of the Secretary, the Corporation and the Board of Governors shall consider whether to make a written recommendation described in paragraph (2) with respect to whether the Secretary should appoint the Corporation as receiver for a financial company. Such recommendation shall be madeupon a vote of not fewer than 2/3 of the members of the Board of Governors then serving and 2/3 of the members of the board of directors of the Corporation then serving.
+&emsp;&emsp;On their own initiative, or at the request of the Secretary, the Corporation and the Board of Governors shall consider whether to make a written recommendation described in paragraph (2) with respect to whether the Secretary should appoint the Corporation as receiver for a financial company. Such recommendation shall be made upon a vote of not fewer than 2/3 of the members of the Board of Governors then serving and 2/3 of the members of the board of directors of the Corporation then serving.
 
 #### (B) Cases involving brokers or dealers
 

@@ -34,7 +34,7 @@ For purposes of this section, the term "functions" does not include any quaranti
 
 #### (2) Rulemaking coordination
 
-&emsp;The Secretary of Agriculture shall coordinate with the Secretary whenever the Secretary of Agriculture prescribes regulations, policies, or procedures for administering the functions transferred under subsection (a) under a law specified in subsection (b).
+&emsp;The Secretary of Agriculture shall coordinate with the Secretary whenever the Secretary of Agriculture prescribes regulations, policies, or procedures for administering thefunctions transferred under subsection (a) under a law specified in subsection (b).
 
 #### (3) Effective administration
 

@@ -13,6 +13,7 @@
 | [9409\.](%C2%A7%2009409%20-%20Report%20on%20United%20States%20citizens%20detained%20by%20Iran.md) | Report on United States citizens detained by Iran. |
 | [9410\.](%C2%A7%2009410%20-%20Exceptions%20for%20national%20security%20and%20humanitarian%20assistance%3B%20rule%20of%20construction.md) | Exceptions for national security and humanitarian assistance; rule of construction. |
 | [9411\.](%C2%A7%2009411%20-%20Presidential%20waiver%20authority.md) | Presidential waiver authority. |
+| [9412\.](%C2%A7%2009412%20-%20Report%20and%20annual%20briefing%20on%20Iranian%20expenditures%20supporting%20foreign%20military%20and%20terrorist%20activities.md) | Report and annual briefing on Iranian expenditures supporting foreign military and terrorist activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -32,3 +33,4 @@
 - [&sect; 09409 - Report on United States citizens detained by Iran](%C2%A7%2009409%20-%20Report%20on%20United%20States%20citizens%20detained%20by%20Iran.md)
 - [&sect; 09410 - Exceptions for national security and humanitarian assistance; rule of construction](%C2%A7%2009410%20-%20Exceptions%20for%20national%20security%20and%20humanitarian%20assistance%3B%20rule%20of%20construction.md)
 - [&sect; 09411 - Presidential waiver authority](%C2%A7%2009411%20-%20Presidential%20waiver%20authority.md)
+- [&sect; 09412 - Report and annual briefing on Iranian expenditures supporting foreign military and terrorist activities](%C2%A7%2009412%20-%20Report%20and%20annual%20briefing%20on%20Iranian%20expenditures%20supporting%20foreign%20military%20and%20terrorist%20activities.md)

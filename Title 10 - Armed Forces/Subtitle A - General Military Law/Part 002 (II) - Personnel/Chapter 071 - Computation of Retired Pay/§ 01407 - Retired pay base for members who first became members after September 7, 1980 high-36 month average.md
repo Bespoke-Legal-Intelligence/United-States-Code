@@ -68,7 +68,7 @@ High-36 months.—The high-36 months of a member or former member whose retired 
 
 Limitation for Enlisted Members Retiring With Less Than 30
 
-Years' Service.—In the case of a member who is retired under section 7314 or 9314 of this title or who is transferred to the Fleet Reserve or Fleet Marine Corps Reserve under section 8330 of this title, the member'shigh-36 average shall be computed using only rates of basic pay applicable to months of active duty of the member as an enlisted member.
+Years' Service.—In the case of a member who is retired under section 7314 or 9314 of this title or who is transferred to the Fleet Reserve or Fleet Marine Corps Reserve under section 8330 of this title, the member's high-36 average shall be computed using only rates of basic pay applicable to months of active duty of the member as an enlisted member.
 
 (f)
 
@@ -146,7 +146,7 @@ Pub. L. 108–375, div. A, title VI, §641(b), Oct. 28, 2004, 118 Stat. 1957, pr
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made bythat section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1994 Amendment
 

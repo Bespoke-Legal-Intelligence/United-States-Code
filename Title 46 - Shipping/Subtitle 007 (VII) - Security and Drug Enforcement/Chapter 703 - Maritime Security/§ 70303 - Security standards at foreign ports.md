@@ -6,7 +6,7 @@ General Requirements.—The Secretary shall develop and implement a plan to asse
 
 (b)
 
-Notice and Recommendations to Other Countries.—If the Secretary, after implementing the plan under subsection (a), determines that a port does not maintain and administer effective security measures, the Secretary of State (after being informed by the Secretary) shall—
+Notice and Recommendations to Other Countries.—If the Secretary, after implementing the plan under subsection (a), determines that a port does not maintain and administer effective security measures, the Secretary ofState (after being informed by the Secretary) shall—
 
 &emsp;(1) notify the appropriate government authorities of the country in which the port is located of the determination; and
 

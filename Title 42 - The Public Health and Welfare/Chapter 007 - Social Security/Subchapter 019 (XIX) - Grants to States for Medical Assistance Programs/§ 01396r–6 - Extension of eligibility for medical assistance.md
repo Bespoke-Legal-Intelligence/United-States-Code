@@ -28,7 +28,7 @@
 
 #### (B) Notice before termination
 
-&emsp;&emsp;No termination of assistance shall become effective under subparagraph (A) until theState has provided the family with notice of the grounds for the termination.
+&emsp;&emsp;No termination of assistance shall become effective under subparagraph (A) until the State has provided the family with notice of the grounds for the termination.
 
 #### (C) Continuation in certain cases until redetermination
 
@@ -80,7 +80,7 @@
 
 #### (i) During initial extension period
 
-&emsp;&emsp;&emsp;Each State shall require (as a condition for additional extended assistance under this subsection) that a family receiving extended assistance under subsection (a) report to the State, not later than the 21st day of the 4th month in the period of extended assistance under subsection (a), on the family's gross monthly earnings and on the family's costs for such child care as is necessary for the employment of the caretaker relative in each of the first 3 months of that period. A State may permitsuch additional extended assistance under this subsection notwithstanding a failure to report under this clause if the family has established, to the satisfaction of the State, good cause for the failure to report on a timely basis.
+&emsp;&emsp;&emsp;Each State shall require (as a condition for additional extended assistance under this subsection) that a family receiving extended assistance under subsection (a) report to the State, not later than the 21st day of the 4th month in the period of extended assistance under subsection (a), on the family's gross monthly earnings and on the family's costs for such child care as is necessary for the employment of the caretaker relative in each of the first 3 months of that period. A State may permit such additional extended assistance under this subsection notwithstanding a failure to report under this clause if the family has established, to the satisfaction of the State, good cause for the failure to report on a timely basis.
 
 #### (ii) During additional extension period
 
@@ -202,7 +202,7 @@
 
 #### (C) Limit on premium
 
-&emsp;&emsp;In no case may the amount of any premium under this paragraph for a family fora month in either of the premium payment periods described in subparagraph (D)(i) exceed 3 percent of the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative) during the premium base period (as defined in subparagraph (D)(ii)).
+&emsp;&emsp;In no case may the amount of any premium under this paragraph for a family for a month in either of the premium payment periods described in subparagraph (D)(i) exceed 3 percent of the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative) during the premium base period (as defined in subparagraph (D)(ii)).
 
 #### (D) Definitions
 
@@ -216,7 +216,7 @@
 
 #### (1) States operating under demonstration projects
 
-&emsp;In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315(a) of this title, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
+&emsp;In the case of any State which is providing medical assistance to its residents under awaiver granted under section 1315(a) of this title, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
 
 #### (2) Inapplicability in commonwealths and territories
 

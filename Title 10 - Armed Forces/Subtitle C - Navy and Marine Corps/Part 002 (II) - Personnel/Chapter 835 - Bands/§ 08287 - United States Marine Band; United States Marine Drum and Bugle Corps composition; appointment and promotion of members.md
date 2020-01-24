@@ -2,7 +2,7 @@
 
 (a)
 
-United States Marine Band.—The band of the Marine Corps shall be composed of one director, two assistant directors, and other personnelin such numbers and grades as the Secretary of the Navy determines to be necessary.
+United States Marine Band.—The band of the Marine Corps shall be composed of one director, two assistant directors, and other personnel in such numbers and grades as the Secretary of the Navy determines to be necessary.
 
 (b)
 

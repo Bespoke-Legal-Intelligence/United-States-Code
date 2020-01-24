@@ -4,7 +4,7 @@
 
 Establishment of Centers.—(1) The Secretary shall establish four medical emergency preparedness centers in accordance with this section. Each such center shall be established at a Department medical center and shall be staffed by Department employees.
 
-(2) The Under Secretary for Health shall be responsible for supervising the operation of the centers established under this section. The Under Secretary shall provide for ongoing evaluation of the centers and their compliance with the requirements of this section.
+(2) The Under Secretary for Health shall be responsible for supervising the operation of thecenters established under this section. The Under Secretary shall provide for ongoing evaluation of the centers and their compliance with the requirements of this section.
 
 (3) The Under Secretary shall carry out the Under Secretary's functions under paragraph (2) in consultation with the Assistant Secretary of Veterans Affairs with responsibility for operations, preparedness, security, and law enforcement functions.
 
@@ -52,9 +52,9 @@ Dissemination of Research Products.—(1) The Under Secretary for Health and the
 
 Coordination of Activities.—The Secretary shall take appropriate actions to ensure that the work of each center is carried out—
 
-&emsp;(1) in close coordination with the Department of Defense, the Department of Health and Human Services, and other departments, agencies, and elements of the Government charged with coordination of plans for United States homeland security; and
+&emsp;(1) in close coordination with the Department of Defense, the Department of Healthand Human Services, and other departments, agencies, and elements of the Government charged with coordination of plans for United States homeland security; and
 
-&emsp;(2) after taking into consideration applicable recommendations of the working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies established under section 319F(a) of the Public Health Service Act (42 U.S.C. 247d–6(a)) or any other joint interagency advisory group orcommittee designated by the President or the President's designee to coordinate Federal research on weapons of mass destruction.
+&emsp;(2) after taking into consideration applicable recommendations of the working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies established under section 319F(a) of the Public Health Service Act (42 U.S.C. 247d–6(a)) or any other joint interagency advisory group or committee designated by the President or the President's designee to coordinate Federal research on weapons of mass destruction.
 
 (g)
 

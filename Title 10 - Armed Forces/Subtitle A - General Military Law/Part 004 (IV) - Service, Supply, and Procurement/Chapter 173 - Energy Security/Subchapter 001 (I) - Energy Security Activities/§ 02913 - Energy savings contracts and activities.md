@@ -14,15 +14,15 @@ Shared Energy Savings Contracts.—(1) The Secretary of Defense shall develop a 
 
 &emsp;(D) select from such firms the most qualified firm to provide shared energy savings services pursuant to a contractual arrangement that the Secretary determines is fair and reasonable, taking into account the estimated value of the services to be rendered and the scope and nature of the project.
 
-(3) In carrying out paragraph (1), the Secretary may also provide for the direct negotiation, by departments, agencies, and instrumentalities of the Department of Defense, of contracts with shared energy savings contractors that have been selected competitively and approved by any gas or electric utility serving the department, agency, or instrumentality concerned.
+(3) In carrying out paragraph (1), the Secretary may also provide for the direct negotiation, by departments, agencies, and instrumentalities of the Department of Defense, of contracts with shared energy savings contractors that have been selected competitively and approved by any gas or electric utility serving thedepartment, agency, or instrumentality concerned.
 
 (b)
 
-Participation in Gas or Electric Utility Programs.—The Secretary of Defense shall permit and encourage each military department, Defense Agency, and other instrumentality ofthe Department of Defense to participate in programs conducted by any gas or electric utility for the management of energy demand or for energy conservation.
+Participation in Gas or Electric Utility Programs.—The Secretary of Defense shall permit and encourage each military department, Defense Agency, and other instrumentality of the Department of Defense to participate in programs conducted by any gas or electric utility for the management of energy demand or for energy conservation.
 
 (c)
 
-Acceptance of Financial Incentive, Goods, or Services.—The Secretary of Defense may authorize any military installation to accept any financial incentive, goods, or services generally available from a State or local government a <sup>1</sup> gas or electric utility, to adopt technologies and practices that the Secretary determines are in the interests of the United States and consistent with the energy performance goals for the Department of Defense.
+Acceptance of Financial Incentive, Goods, or Services.—The Secretary of Defense may authorize any military installation to accept any financial incentive, goods, or services generally available from a State or local government or gas or electric utility, to adopt technologies and practices that the Secretary determines are in the interests of the United States and consistent with the energy performance goals for the Department of Defense.
 
 (d)
 
@@ -34,9 +34,13 @@ Agreements With Gas or Electric Utilities.—(1) The Secretary of Defense may au
 
 (4) An agreement under this subsection shall provide that title to any energy-saving device or technology installed at a military installation pursuant to the agreement vest in the United States. Such title may vest at such time during the term of the agreement, or upon expiration of the agreement, as determined to be in the best interests of the United States.
 
-(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(a)(1), 2853, Oct. 17, 2006, 120 Stat. 2491, 2496; Pub. L. 110–140, title V, §511(c), Dec. 19, 2007, 121 Stat. 1658; Pub. L. 110–181, div. B, title XXVIII, §2861, Jan. 28, 2008, 122 Stat. 559; Pub. L. 115–232, div. A, title III, §312(g), Aug. 13, 2018, 132 Stat. 1711.)
+(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(a)(1), 2853, Oct. 17, 2006, 120 Stat. 2491, 2496; Pub. L. 110–140, title V, §511(c), Dec. 19, 2007, 121 Stat. 1658; Pub. L. 110–181, div. B, title XXVIII, §2861, Jan. 28, 2008, 122 Stat. 559; Pub. L. 115–232, div. A, title III, §312(g), Aug. 13, 2018, 132 Stat. 1711; Pub. L. 116–92, div. A, title III, §320(a)(1)(A), title XVII, §1731(a)(58), Dec. 20, 2019, 133 Stat. 1306, 1815.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c). Pub. L. 116–92, §320(a)(1)(A), substituted "government or" for "government".
+
+Pub. L. 116–92, §1731(a)(58), substituted "government gas or electric utility" for "government a gas or electric utility". Amendment executed before amendment by section 320(a)(1)(A) of Pub. L. 116–92, see above, pursuant to section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–232 inserted "a State or local government" after "generally available from".
 
@@ -49,6 +53,4 @@ Agreements With Gas or Electric Utilities.—(1) The Secretary of Defense may au
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

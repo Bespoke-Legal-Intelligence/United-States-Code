@@ -20,7 +20,7 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 &emsp;&emsp;(iii) an estimate of all other costs and expenditures that the Government would incur because of the award of such a contract;
 
-&emsp;(F) requires continued performance of the function by Department of Defense civilian employees unless the difference in the cost of performance of the function by a contractorcompared to the cost of performance of the function by Department of Defense civilian employees would, over all performance periods required by the solicitation, be equal to or exceed the lesser of—
+&emsp;(F) requires continued performance of the function by Department of Defense civilian employees unless the difference in the cost of performance of the function by a contractor compared to the cost of performance of the function by Department of Defense civilian employees would, over all performance periods required by the solicitation, be equal to or exceed the lesser of—
 
 &emsp;&emsp;(i) 10 percent of the personnel-related costs for performance of that function in the agency tender; or
 
@@ -28,7 +28,7 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 &emsp;(G) requires that the contractor shall not receive an advantage for a proposal that would reduce costs for the Department of Defense by—
 
-&emsp;&emsp;(i) not making an employer-sponsored health insurance plan (or payment that could be used in lieu of such a plan), health savings account, or medical savings account available to the workers who are to be employed to perform the function under the contract;
+&emsp;&emsp;(i) not making an employer-sponsored health insurance plan (or payment thatcould be used in lieu of such a plan), health savings account, or medical savings account available to the workers who are to be employed to perform the function under the contract;
 
 &emsp;&emsp;(ii) offering to such workers an employer-sponsored health benefits plan that requires the employer to contribute less towards the premium or subscription share than the amount that is paid by the Department of Defense for health benefits for civilian employees of the Department under chapter 89 of title 5; or
 
@@ -134,7 +134,7 @@ Exemption for the Purchase of Products and Services of the Blind and Other Sever
 
 (e)
 
-Inapplicability During War or Emergency.—The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
+Inapplicability During War or Emergency.—The provisions of this section shall notapply during war or during a period of national emergency declared by the President or Congress.
 
 (Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72; Pub. L. 107–107, div. A, title III, §344, Dec. 28, 2001, 115 Stat. 1061; Pub. L. 107–314, div. A, title III, §331, Dec. 2, 2002, 116 Stat. 2512; Pub. L. 109–163, div. A, title III, §341(a), (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, 119 Stat. 3195, 3196, 3199, 3200; Pub. L. 110–181, div. A, title III, §§322(a), (b)(2), (c), 323, Jan. 28, 2008, 122 Stat. 58–60; Pub. L. 111–84, div. A, title III, §§321(a), 322(a), title X, §1073(a)(25), Oct. 28, 2009, 123 Stat. 2250, 2251, 2474; Pub. L. 111–350, §5(b)(34), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title IX, §937, Dec. 31, 2011, 125 Stat. 1546; Pub. L. 112–239, div. A, title X, §1076(f)(28), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 113–66, div. A, title X, §1091(a)(11), Dec. 26, 2013, 127 Stat. 876.)
 
@@ -190,7 +190,7 @@ Subsec. (b)(1)(C). Pub. L. 109–163, §341(b)(1)(C), inserted "Department of De
 
 Subsec. (b)(1)(D). Pub. L. 109–163, §341(b)(1)(D), substituted "the public-private competition" for "the analysis" in two places.
 
-Subsec. (b)(1)(E). Pub. L. 109–163, §341(b)(1)(E), struck out "commercial or industrial type" before "function"and substituted "a contractor" for "persons who are not civilian employees of the Department of Defense".
+Subsec. (b)(1)(E). Pub. L. 109–163, §341(b)(1)(E), struck out "commercial or industrial type" before "function" and substituted "a contractor" for "persons who are not civilian employees of the Department of Defense".
 
 Subsec. (b)(2). Pub. L. 109–163, §341(b)(2), added par. (2) and struck out former par. (2) which read as follows: "The duty to prepare a report under paragraph (1) may be delegated. A report prepared below the major command or claimant level of a military department, or below the equivalent level in a Defense Agency, pursuant to any such delegation shall be reviewed at the major command, claimant level, or equivalent level, as the case may be, before submission to Congress."
 
@@ -266,7 +266,7 @@ Pub. L. 110–181, div. A, title III, §325, Jan. 28, 2008, 122 Stat. 61, provid
 
 "(a)
 
-Restriction on Office of Management and Budget.—The Office of Management and Budget maynot direct or require the Secretary of Defense or the Secretary of a military department to prepare for, undertake, continue, or complete a public-private competition or direct conversion of a Department of Defense function to performance by a contractor under Office of Management and Budget Circular A–76, or any other successor regulation, directive, or policy.
+Restriction on Office of Management and Budget.—The Office of Management and Budget may not direct or require the Secretary of Defense or the Secretary of a military department to prepare for, undertake, continue, or complete a public-private competition or direct conversion of a Department of Defense function to performance by a contractor under Office of Management and Budget Circular A–76, or any other successor regulation, directive, or policy.
 
 "(b)
 
@@ -278,7 +278,7 @@ Inspector General Review.—
 
 &emsp;"(1)
 
-Comprehensive review required.—The Inspector General of the Department of Defense shall conduct a comprehensive review of the compliance of the Secretary of Defense and the Secretaries of the military departments with the requirements of this section during calendar year 2008. The Inspector General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the following reports on the comprehensive review:
+Comprehensive review required.—The Inspector General of the Department of Defense shall conduct a comprehensive review of the compliance of the Secretary of Defense and the Secretaries of the military departments with the requirements of this section during calendar year 2008. The Inspector Generalshall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the following reports on the comprehensive review:
 
 &emsp;&emsp;"(A) An interim report, to be submitted by not later than 90 days after the date of the enactment of this Act \[Jan. 28, 2008\].
 
@@ -366,7 +366,7 @@ Annual Report.—The Secretary of the Air Force shall provide to the congression
 
 #### Inapplicability of Subsection (a)(1)(E) to Best-Value Source Selection Pilot Program
 
-Pub. L. 109–163, div. A, title III, §341(e), Jan. 6, 2006, 119 Stat. 3199, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(1), Oct. 17, 2006, 120 Stat. 2401, provided that: "Subsection (a)(1)(F) of section 2461 of title 10, United States Code, as amended by subsection (a), shallnot apply with respect to the pilot program for best-value source selection for performance of information technology services authorized by section 336 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1444; 10 U.S.C. 2461 note)."
+Pub. L. 109–163, div. A, title III, §341(e), Jan. 6, 2006, 119 Stat. 3199, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(1), Oct. 17, 2006, 120 Stat. 2401, provided that: "Subsection (a)(1)(F) of section 2461 of title 10, United States Code, as amended by subsection (a), shall not apply with respect to the pilot program for best-value source selection for performance of information technology services authorized by section 336 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1444; 10 U.S.C. 2461 note)."
 
 #### Performance of Certain Work by Federal Government Employees
 
@@ -504,7 +504,7 @@ Collection Method.—(1) In the case of an overpayment to a vendor identified un
 
 "(e)
 
-Fees for Contractor.—The Secretary shall pay to the contractor under the contract entered into under the demonstration program an amount not to exceed 25 percent of the total amount recovered by the Department (through the collection of overpayments and the use of setoffs) solely on the basis of information obtained as a result of the audits performed by the contractor under the program. When an overpayment is recovered through the use of a setoff, amounts for the required payment to the contractor shall be derived fromfunds available to the working-capital fund or industrial, commercial, or support type activity for which the overpayment is recovered."
+Fees for Contractor.—The Secretary shall pay to the contractor under the contract entered into under the demonstration program an amount not to exceed 25 percent of the total amount recovered by the Department (through the collection of overpayments and the use of setoffs) solely on the basis of information obtained as a result of the audits performed by the contractor under the program. When an overpayment is recovered through the use of a setoff, amounts for the required payment to the contractor shall be derived from funds available to the working-capital fund or industrial, commercial, or support type activity for which the overpayment is recovered."
 
 #### Program for Improved Travel Process for Department of Defense
 

@@ -88,7 +88,7 @@ The General Schedule, the symbol for which is "GS", is the basic pay schedule fo
 
 &emsp;&emsp;&emsp;(i) considerable specialized or supervisory training and experience;
 
-&emsp;&emsp;&emsp;(ii) comprehensive and thorough working knowledge of a specialized and complex subject matter, procedure, or practice, or of the principles of the profession, art, or science involved; and
+&emsp;&emsp;&emsp;(ii) comprehensive and thorough working knowledge of a specialized and complexsubject matter, procedure, or practice, or of the principles of the profession, art, or science involved; and
 
 &emsp;&emsp;&emsp;(iii) to a considerable extent the exercise of independent judgment; or
 
@@ -154,7 +154,7 @@ The General Schedule, the symbol for which is "GS", is the basic pay schedule fo
 
 &emsp;&emsp;(B) to serve as assistant head of a major organization involving work of comparable level within a bureau;
 
-&emsp;&emsp;(C) to perform, under administrative direction, with wide latitude for the exercise of independent judgment, work of unusual difficulty and responsibility requiring extended professional, scientific, or technical training and experience which has demonstrated leadership and marked attainments in professional, scientific, or technical research, practice, or administration; or
+&emsp;&emsp;(C) to perform, under administrative direction, with wide latitude for the exercise ofindependent judgment, work of unusual difficulty and responsibility requiring extended professional, scientific, or technical training and experience which has demonstrated leadership and marked attainments in professional, scientific, or technical research, practice, or administration; or
 
 &emsp;&emsp;(D) to perform other work of equal importance, difficulty, and responsibility, and requiring comparable qualifications.
 

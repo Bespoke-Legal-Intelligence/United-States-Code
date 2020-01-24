@@ -124,7 +124,7 @@ Rail account.—Federal funds deposited into a rail account of a State infrastru
 
 &emsp;(6)
 
-Special rule for urbanized areas of over 200,000.—Funds in a State infrastructure bank that are attributed to urbanized areas of a State with urbanized populations of over200,000 under section 133(d)(1)(A)(i) may be used to provide assistance with respect to a project only if the metropolitan planning organization designated for such area concurs, in writing, with the provision of such assistance.
+Special rule for urbanized areas of over 200,000.—Funds in a State infrastructure bank that are attributed to urbanized areas of a State with urbanized populations of over 200,000 under section 133(d)(1)(A)(i) may be used to provide assistance with respect to a project only if the metropolitan planning organization designated for such area concurs, in writing, with the provision of such assistance.
 
 &emsp;(7)
 
@@ -166,7 +166,7 @@ Eligible Projects.—Subject to subsection (e), funds in an infrastructure bank 
 
 Infrastructure Bank Requirements.—In order to establish an infrastructure bank under this section, the State establishing the bank shall—
 
-&emsp;(1) deposit in cash, at a minimum, into the highway account, the transit account, and the rail account of the bank from non-Federal sources an amount equal to 25 percent of the amount of each capitalization grant made to the State and deposited into such account; except that, if the deposit is into the highway account of the bank and the State has a non-Federal share under section 120(b) that is less than 25 percent, the percentage to be deposited from non-Federal sources shall be the lower percentage of such grant;
+&emsp;(1) deposit in cash, at a minimum, into the highway account, the transit account, and therail account of the bank from non-Federal sources an amount equal to 25 percent of the amount of each capitalization grant made to the State and deposited into such account; except that, if the deposit is into the highway account of the bank and the State has a non-Federal share under section 120(b) that is less than 25 percent, the percentage to be deposited from non-Federal sources shall be the lower percentage of such grant;
 
 &emsp;(2) ensure that the bank maintains on a continuing basis an investment grade rating on its debt, or has a sufficient level of bond or debt financing instrument insurance, to maintain the viability of the bank;
 

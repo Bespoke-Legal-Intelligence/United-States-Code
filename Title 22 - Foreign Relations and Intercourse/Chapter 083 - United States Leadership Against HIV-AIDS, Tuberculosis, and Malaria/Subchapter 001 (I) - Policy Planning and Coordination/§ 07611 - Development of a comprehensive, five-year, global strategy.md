@@ -54,7 +54,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;(10) expand and accelerate research on and development of HIV/AIDS prevention methods for women, including enhancing inter-agency collaboration, staffing, and organizational infrastructure dedicated to microbicide research;
 
-&emsp;(11) provide for consultation with local leaders and officials to develop prevention strategies and programs that are tailored to the unique needs of each country and community and targeted particularly toward those most at risk of acquiring HIV infection;
+&emsp;(11) provide for consultation with local leaders and officials to develop prevention strategies and programs that are tailored to the unique needs of each country and communityand targeted particularly toward those most at risk of acquiring HIV infection;
 
 &emsp;(12) make the reduction of HIV/AIDS behavioral risks a priority of all prevention efforts by—
 
@@ -96,7 +96,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;(15) increase support for prevention of mother-to-child transmission;
 
-&emsp;(16) build capacity within the public health sector of developing countries by improvinghealth systems and public health infrastructure and developing indicators to measure changes in broader public health sector capabilities;
+&emsp;(16) build capacity within the public health sector of developing countries by improving health systems and public health infrastructure and developing indicators to measure changes in broader public health sector capabilities;
 
 &emsp;(17) increase the coordination of HIV/AIDS programs with development programs;
 
@@ -142,7 +142,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;(23) encourage partner countries to develop health care curricula and promote access to training tailored to individuals receiving services through, or exiting from, existing programs geared to orphans and vulnerable children;
 
-&emsp;(24) provide a framework to work with international actors and partner countries toward universal access to HIV/AIDS prevention, treatment, and care programs, recognizing that prevention is of particular importance;
+&emsp;(24) provide a framework to work with international actors and partner countries towarduniversal access to HIV/AIDS prevention, treatment, and care programs, recognizing that prevention is of particular importance;
 
 &emsp;(25) enhance the coordination of United States bilateral efforts to combat global HIV/AIDS with other major public and private entities;
 
@@ -216,7 +216,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;(L) Within the analysis required under subparagraph (K), an examination of additional planned means of preventing the transmission of HIV including medical male circumcision, maintenance of a safe blood supply, public education about risks to acquire HIV infection from blood exposures, promotion of universal precautions, investigation of suspected nosocomial infections and other tools.
 
-&emsp;&emsp;(M) A description of efforts to assist partner country and community to identify and address social, economic, or cultural factors, such as migration, urbanization, conflict, gender-based violence, lack of empowerment for women, and transportation patterns, which directly contribute to the transmission of HIV.
+&emsp;&emsp;(M) A description of efforts to assist partner country and community to identify and address social, economic, or cultural factors, such as migration, urbanization, conflict, gender-based violence, lack of empowerment for women, and transportation patterns,which directly contribute to the transmission of HIV.
 
 &emsp;&emsp;(N) A description of the specific targets, goals, and strategies developed to address the needs and vulnerabilities of women and girls to HIV/AIDS, including—
 
@@ -400,7 +400,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (iv) Subsequent plans
 
-&emsp;&emsp;&emsp;Each of the last nine plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2015 through 2023, respectively.
+&emsp;&emsp;&emsp;Each of the last nine plans developed under subparagraph (A) shall be completednot later than 30 days before each of the fiscal years 2015 through 2023, respectively.
 
 #### (2) Coordination
 
@@ -488,7 +488,7 @@ Subsec. (g)(2), (3). Pub. L. 113–56, §3(a)(2), (3), added par. (2) and redesi
 
 Subsec. (g)(4). Pub. L. 113–56, §3(a)(4), added par. (4).
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–293, §101(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) required the President to establish a comprehensive, integrated, five-year strategy to combat global HIV/AIDS that strengthened the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS and set out standards in pars. (1) to (10) for this strategy.
+<b>2008</b>—Subsec. (a). Pub. L. 110–293, §101(a), amended subsec. (a) generally. Prior to amendment, subsec. (a)required the President to establish a comprehensive, integrated, five-year strategy to combat global HIV/AIDS that strengthened the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS and set out standards in pars. (1) to (10) for this strategy.
 
 Subsec. (b). Pub. L. 110–293, §101(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to presidential submission of a report to Congress setting forth the strategy described in subsec. (a).
 
@@ -497,6 +497,10 @@ Subsec. (c). Pub. L. 110–293, §101(c), amended subsec. (c) generally. Prior t
 Subsecs. (d) to (f). Pub. L. 110–293, §101(d), added subsecs. (d) to (f).
 
 Subsecs. (g), (h). Pub. L. 110–293, §101(e), added subsecs. (g) and (h).
+
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Delegation of Certain Authority Under the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003
 

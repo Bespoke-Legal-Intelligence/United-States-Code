@@ -26,7 +26,7 @@ No member bank may extend credit to any of its executive officers, directors, or
 
 #### (3) Prior approval required
 
-A member bank may extend credit to a person described in paragraph (1) in an amount that, when aggregated with the amount of all other outstanding extensions of credit by that bank to each such person and that person's related interests, would exceed an amount prescribed by regulation of the appropriate Federal banking agency (as defined in section 1813 of this title) only if—
+A member bank may extend credit to a person described in paragraph (1) in an amount that,when aggregated with the amount of all other outstanding extensions of credit by that bank to each such person and that person's related interests, would exceed an amount prescribed by regulation of the appropriate Federal banking agency (as defined in section 1813 of this title) only if—
 
 &emsp;(A) the extension of credit has been approved in advance by a majority vote of that bank's entire board of directors; and
 
@@ -182,7 +182,7 @@ Par. (9)(D). Pub. L. 102–550, §955(a), designated existing provisions as cl. 
 
 Par. (9)(F). Pub. L. 102–550, §955(b), designated portion of existing provisions as cl. (i), realigned margin, substituted "; and" for period at end, and added cl. (ii).
 
-<b>1991</b>—Pub. L. 102–242, §306(a), amended section generally, substituting provisions relating to extensions of credit to executive officers, directors, and principalshareholders of member banks for provisions relating to prohibitions respecting loans and extensions of credit to executive officers and directors of banks, political or campaign committees, etc.
+<b>1991</b>—Pub. L. 102–242, §306(a), amended section generally, substituting provisions relating to extensions of credit to executive officers, directors, and principal shareholders of member banks for provisions relating to prohibitions respecting loans and extensions of credit to executive officers and directors of banks, political or campaign committees, etc.
 
 Par. (1). Pub. L. 102–242, §306(d)(2), inserted "(5)," after "(4),".
 

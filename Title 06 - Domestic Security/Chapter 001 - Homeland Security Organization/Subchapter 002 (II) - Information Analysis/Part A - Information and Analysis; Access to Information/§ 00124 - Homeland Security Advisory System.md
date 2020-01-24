@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-The Secretary shall administer the Homeland Security Advisory System in accordance with this section to provide advisories or warningsregarding the threat or risk that acts of terrorism will be committed on the homeland to Federal, State, local, and tribal government authorities and to the people of the United States, as appropriate. The Secretary shall exercise primary responsibility for providing such advisories or warnings.
+The Secretary shall administer the Homeland Security Advisory System in accordance with this section to provide advisories or warnings regarding the threat or risk that acts of terrorism will be committed on the homeland to Federal, State, local, and tribal government authorities and to the people of the United States, as appropriate. The Secretary shall exercise primary responsibility for providing such advisories or warnings.
 
 #### (b) Required elements
 

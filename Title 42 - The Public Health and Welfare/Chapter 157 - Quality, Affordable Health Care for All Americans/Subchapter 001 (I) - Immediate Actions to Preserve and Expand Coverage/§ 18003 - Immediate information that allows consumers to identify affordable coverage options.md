@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 60 days after March 23, 2010, the Secretary shall develop a standardized format to be used for the presentation of information relating to the coverage options described in subsection (a)(2). Such format shall, at a minimum, require the inclusion of information on the percentage of total premium revenue expended on nonclinical costs (as reported under section 300gg–18(a) of this title), eligibility, availability, premium rates, andcost sharing with respect to such coverage options and be consistent with the standards adopted for the uniform explanation of coverage as provided for in section 300gg–15 of this title.
+&emsp;Not later than 60 days after March 23, 2010, the Secretary shall develop a standardized format to be used for the presentation of information relating to the coverage options described in subsection (a)(2). Such format shall, at a minimum, require the inclusion of information on the percentage of total premium revenue expended on nonclinical costs (as reported under section 300gg–18(a) of this title), eligibility, availability, premium rates, and cost sharing with respect to such coverage options and be consistent with the standards adopted for the uniform explanation of coverage as provided for in section 300gg–15 of this title.
 
 #### (2) Use of format
 

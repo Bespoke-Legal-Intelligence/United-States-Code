@@ -22,7 +22,7 @@
 
 &emsp;(iii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i) or (ii) of this subparagraph, his or her course pursuit.
 
-(C) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receivecredit or with respect to which the individual lost training time, as determined under subparagraph (B)(iii) of this paragraph.
+(C) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(iii) of this paragraph.
 
 (D) The amount in the fund for each eligible veteran who received a payment of an educational assistance allowance described in subparagraph (B) of this paragraph shall be restored to the amount that would have been in the fund for the veteran if the payment had not been made. For purposes of carrying out the previous sentence, the Secretary of Defense shall deposit into the fund, on behalf of each such veteran, an amount equal to the entire amount of the payment made to the veteran.
 
@@ -40,7 +40,7 @@
 
 (d)(1) Subject to the provisions of paragraph (2) of this subsection, the amount of the educational assistance benefits paid to an eligible veteran who is pursuing a program of education under this chapter while incarcerated in a Federal, State, local, or other penal institution or correctional facility for conviction of a felony may not exceed the lesser of (A) such amount as the Secretary determines, in accordance with regulations which the Secretary shall prescribe, is necessary to cover the cost of established charges for tuition and fees required of similarly circumstanced nonveterans enrolled in the same program and the cost of necessary supplies, books, and equipment, or (B) the applicable monthly benefit payment otherwise prescribed in this section or section 3233 of this title. The amount of the educational assistance benefits payable to a veteran while so incarcerated shall be reduced to the extent that the tuition and fees of the veteran for any course are paid under any Federal program (other than a program administered by the Secretary) or under any State or local program.
 
-(2) Paragraph (1) of this subsection shall not apply in the case of any veteran who is pursuing a program of education under this chapter while residing in a halfway house or participating in a work-release program in connection with such veteran's conviction of a felony.
+(2) Paragraph (1) of this subsection shall not apply in the case of any veteran who is pursuing a program of education under this chapter whileresiding in a halfway house or participating in a work-release program in connection with such veteran's conviction of a felony.
 
 (e)(1) Subject to subsection (a)(1) of this section, each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 3241(b) of this title shall be paid educational assistance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 107–103 effective Sept. 11, 2001, see section 103(e) of P
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–568 applicable to flight training received under this chapter, chapter 30 of this title, and chapter 106 of Title 10, Armed Forces, after Sept. 30, 1992, see section 310(d) of Pub. L. 102–568, set out as a note under section 16131 of Title 10.
+Amendment by Pub. L. 102–568 applicable to flight training received under this chapter, chapter 30 of thistitle, and chapter 106 of Title 10, Armed Forces, after Sept. 30, 1992, see section 310(d) of Pub. L. 102–568, set out as a note under section 16131 of Title 10.
 
 #### Effective Date of 1991 Amendment
 

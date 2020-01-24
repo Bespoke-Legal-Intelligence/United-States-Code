@@ -18,7 +18,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services, as
 
 &emsp;(7) to evaluate the effect on bodily impairment and occupational disability of miners afflicted with an occupational disease;
 
-&emsp;(8) to prepare and publish from time to time, reports on all significant aspects of occupational diseases of miners as well as on the medical aspects of injuries, other than diseases, which are revealed by the research carried on pursuant to this subsection;
+&emsp;(8) to prepare and publish from time to time, reports on all significant aspects of occupational diseases of miners as well as on themedical aspects of injuries, other than diseases, which are revealed by the research carried on pursuant to this subsection;
 
 &emsp;(9) to study the relationship between coal or other mine environments and occupational diseases of miners;
 
@@ -38,7 +38,7 @@ In carrying out the provisions for research, demonstrations, experiments, studie
 
 #### (d) Prevention of diseases affecting persons working with mine products
 
-The Secretary of Health and Human Services shall also conduct studies and research into matters involving the protection of life and the prevention of diseases in connection with persons, who although not miners, work with, oraround the products of, coal or other mines in areas outside of such mines and under conditions which may adversely affect the health and well-being of such persons.
+The Secretary of Health and Human Services shall also conduct studies and research into matters involving the protection of life and the prevention of diseases in connection with persons, who although not miners, work with, or around the products of, coal or other mines in areas outside of such mines and under conditions which may adversely affect the health and well-being of such persons.
 
 #### (e) Authorization of appropriations
 

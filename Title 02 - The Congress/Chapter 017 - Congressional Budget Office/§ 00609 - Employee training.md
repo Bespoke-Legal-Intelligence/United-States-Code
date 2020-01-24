@@ -6,7 +6,7 @@ The Director of the Congressional Budget Office may, by regulation, make applica
 
 #### (b) Regulations
 
-The implementing regulations shall provide for training that, in the determination of theDirector, is consistent with the training provided by agencies subject to chapter 41 of title 5.
+The implementing regulations shall provide for training that, in the determination of the Director, is consistent with the training provided by agencies subject to chapter 41 of title 5.
 
 #### (c) Recovery of debt
 

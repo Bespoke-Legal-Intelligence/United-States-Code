@@ -106,7 +106,7 @@ Whenever the Secretary has reasonable cause to believe that a respondent has bre
 
 (1) The Secretary shall, within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) with respect to a complaint, within 100 days after the commencement of such further action), determine based on the facts whether reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, unless it is impracticable to do so, or unless the Secretary has approved a conciliation agreement with respect to the complaint. If the Secretary is unable to make the determination within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) with respect to a complaint, within 100 days after the commencement of such further action), the Secretary shall notify the complainant and respondent in writing of the reasons for not doing so.
 
-(2)(A) If the Secretary determines that reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, the Secretary shall, except as provided in subparagraph (C), immediately issue a charge on behalf of the aggrieved person, for further proceedings under section 3612 of this title.
+(2)(A) If the Secretary determines that reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, the Secretary shall, except as provided in subparagraph (C), immediately issue a charge onbehalf of the aggrieved person, for further proceedings under section 3612 of this title.
 
 (B) Such charge—
 
@@ -118,7 +118,7 @@ Whenever the Secretary has reasonable cause to believe that a respondent has bre
 
 (C) If the Secretary determines that the matter involves the legality of any State or local zoning or other land use law or ordinance, the Secretary shall immediately refer the matter to the Attorney General for appropriate action under section 3614 of this title, instead of issuing such charge.
 
-(3) If the Secretary determines that no reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, the Secretary shall promptly dismiss thecomplaint. The Secretary shall make public disclosure of each such dismissal.
+(3) If the Secretary determines that no reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, the Secretary shall promptly dismiss the complaint. The Secretary shall make public disclosure of each such dismissal.
 
 (4) The Secretary may not issue a charge under this section regarding an alleged discriminatory housing practice after the beginning of the trial of a civil action commenced by the aggrieved party under an Act of Congress or a State law, seeking relief with respect to that discriminatory housing practice.
 

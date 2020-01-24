@@ -36,7 +36,7 @@ A prior section 1070c, Pub. L. 89–329, title IV, §415A, as added Pub. L. 92�
 
 <b>2008</b>—Subsec. (b)(1), (2). Pub. L. 110–315 added pars. (1) and (2) and struck out former pars. (1) and (2) which related to appropriations and reservation of funding for section 1070c–3a of this title for fiscal year 1999 and the 4 succeeding fiscal years.
 
-<b>2000</b>—Subsec. (a)(2). Pub. L. 106–554, which directed amendment of section 415 of the Higher Education Act of 1965 in section 415A(a)(2) by substituting "section 1070c–3a of this title" for "section 1070c–4 of this title",was executed by making the substitution in subsec. (a)(2) of this section, which is section 415A of the Higher Education Act of 1965, to reflect the probable intent of Congress.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–554, which directed amendment of section 415 of the Higher Education Act of 1965 in section 415A(a)(2) by substituting "section 1070c–3a of this title" for "section 1070c–4 of this title", was executed by making the substitution in subsec. (a)(2) of this section, which is section 415A of the Higher Education Act of 1965, to reflect the probable intent of Congress.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–244, §407(c)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "It is the purpose of this subpart to make incentive grants available to States to assist States in providing grants to—
 

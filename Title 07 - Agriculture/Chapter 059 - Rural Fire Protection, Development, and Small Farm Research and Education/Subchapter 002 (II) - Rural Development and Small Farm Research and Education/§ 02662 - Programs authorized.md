@@ -12,7 +12,7 @@ Rural development research shall consist of research, investigations, and basic 
 
 #### (c) Small farm research programs
 
-Small farm research programs shall consist of programs of research to develop new approaches for initiating and upgrading small farm operations through management techniques, agricultural production techniques, farm machinery technology, new products, new marketing techniques, and small farm finance; to develop new enterprises that can use labor, skills, or natural resources available to the small farm family; orthat will help to increase the quality and availability of services and facilities needed by the small farm family.
+Small farm research programs shall consist of programs of research to develop new approaches for initiating and upgrading small farm operations through management techniques, agricultural production techniques, farm machinery technology, new products, new marketing techniques, and small farm finance; to develop new enterprises that can use labor, skills, or natural resources available to the small farm family; or that will help to increase the quality and availability of services and facilities needed by the small farm family.
 
 #### (d) Small farm extension programs
 
@@ -20,7 +20,7 @@ Small farm extension programs shall consist of extension programs to improve sma
 
 #### (e) Special grants programs
 
-Special grants programs shall consist of extension and research programs to strengthen research and education on national and regional issues in rural development, including the assessment of alternative policies and strategies for rural development and balanced growth; to develop alternative strategies for national and regional investment, and the creation of employment, in rural areas; to develop alternative energy policies to meet rural development needs; and to strengthen rural development programs of agencies of the Department of Agriculture and those in other Federal departments and agencies.
+Special grants programs shall consist of extension and research programs to strengthen research and education on national and regionalissues in rural development, including the assessment of alternative policies and strategies for rural development and balanced growth; to develop alternative strategies for national and regional investment, and the creation of employment, in rural areas; to develop alternative energy policies to meet rural development needs; and to strengthen rural development programs of agencies of the Department of Agriculture and those in other Federal departments and agencies.
 
 #### (f), (g) Repealed. Pub. L. 104–127, title VII, §792(a), title VIII, §871, Apr. 4, 1996, 110 Stat. 1152, 1175
 
@@ -160,7 +160,7 @@ Special grants programs shall consist of extension and research programs to stre
 
 Act of July 2, 1862, referred to in subsec. (i)(4), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, referred to in subsec. (i)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the "Agricultural College Act of 1890"and also as the "Second Morrill Act", which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (i)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the "Agricultural College Act of 1890" and also as the "Second Morrill Act", which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 #### Codification
 
@@ -268,7 +268,7 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 #### Effect of Amendments on Current Grant Recipients
 
-Pub. L. 101–624, title XXIII, §2389(d), Nov. 28, 1990, 104 Stat. 4055, provided that 8 States receiving grants under 7 U.S.C. 2662(f) during fiscal year 1990 could continue to be eligible to receive grants (in an amount not to exceed the amount received during that fiscal year) under that section notwithstanding that such grants be awarded competitively, so long as such States complied with requirement that not less than one-half of such grant amount was to be used for clinical outreach counseling and crisis management assistance, prior to repeal by Pub. L. 104–127, title VII, §792(b)(1), Apr. 4, 1996, 100 Stat. 1152.
+Pub. L. 101–624, title XXIII, §2389(d), Nov. 28, 1990, 104 Stat. 4055, provided that 8 States receiving grantsunder 7 U.S.C. 2662(f) during fiscal year 1990 could continue to be eligible to receive grants (in an amount not to exceed the amount received during that fiscal year) under that section notwithstanding that such grants be awarded competitively, so long as such States complied with requirement that not less than one-half of such grant amount was to be used for clinical outreach counseling and crisis management assistance, prior to repeal by Pub. L. 104–127, title VII, §792(b)(1), Apr. 4, 1996, 100 Stat. 1152.
 
 #### Rural Health Infrastructure Improvement
 

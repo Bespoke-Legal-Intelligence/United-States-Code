@@ -16,7 +16,7 @@
 
 &emsp;(2) it is not covered by section 2734 of this title or section 2672 of title 28;
 
-&emsp;(3) it is not for personal injury or death of such a member or civilian officer or employee whose injury or death is incident to his service;
+&emsp;(3) it is not for personal injury or death of such a member or civilian officer or employeewhose injury or death is incident to his service;
 
 &emsp;(4) the damage to, or loss of, property, or the personal injury or death, was not caused wholly or partly by a negligent or wrongful act of the claimant, his agent, or his employee; or, if so caused, allowed only to the extent that the law of the place where the act or omission complained of occurred would permit recovery from a private individual under like circumstances; and
 
@@ -108,7 +108,7 @@ Dec. 28, 1945, ch. 597, §1, 59 Stat. 662; June 28, 1946, ch. 514, §2, 60 Stat.
 
 Dec. 28, 1945, ch. 597, §6; added Mar. 20, 1946, ch. 104 (last par.), 60 Stat. 56.
 
-In subsection (a), the words "a civilian officer or employee of that department, or a member of the Army, Navy, Air Force, or Marine Corps, as the case may be"are substituted for the words "military personnel or civilian employees of the Department of the Army or of the Army". The words "whether under a lease, express or implied" are omitted as surplusage. The words "consider, ascertain, adjust, determine" are omitted as covered by the word "settle", as defined in section 2731 of this title. The words "arising on or after May 27, 1941" are omitted as executed, since, under revised subsection (b), a claim must be filed within one year after it accrues, or within one year after the war is terminated, if it accrues in time of war.
+In subsection (a), the words "a civilian officer or employee of that department, or a member of the Army, Navy, Air Force, or Marine Corps, as the case may be" are substituted for the words "military personnel or civilian employees of the Department of the Army or of the Army". The words "whether under a lease, express or implied" are omitted as surplusage. The words "consider, ascertain, adjust, determine" are omitted as covered by the word "settle", as defined in section 2731 of this title. The words "arising on or after May 27, 1941" are omitted as executed, since, under revised subsection (b), a claim must be filed within one year after it accrues, or within one year after the war is terminated, if it accrues in time of war.
 
 In subsection (a)(1), the words "or loss" are inserted before the word "incident", for clarity.
 
@@ -194,7 +194,7 @@ The directory language of, but not the amendment made by, Pub. L. 89–718, §8(
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of functions of Public Health Service, see note set out under section 802 of this title.
 

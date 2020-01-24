@@ -20,7 +20,7 @@ The Secretary of the Treasury is authorized to prescribe rules and regulations f
 
 &emsp;(4) Merchandise recovered from a wrecked or stranded vessel;
 
-&emsp;(5) Household effects used abroad and personal effects, not imported in pursuance of apurchase or agreement for purchase and not intended for sale;
+&emsp;(5) Household effects used abroad and personal effects, not imported in pursuance of a purchase or agreement for purchase and not intended for sale;
 
 &emsp;(6) Articles sent by persons in foreign countries as gifts to persons in the United States;
 
@@ -40,7 +40,7 @@ The Secretary of the Treasury is authorized to prescribe rules and regulations f
 
 The Secretary of the Treasury is authorized to include in such rules and regulations any of the provisions of section 1484 or 1485 of this title (relating, respectively, to entry and to declaration of merchandise generally).
 
-(June 17, 1930, ch. 497, title IV, §498, 46 Stat. 728; Aug. 8, 1953, ch. 397, §16(d), (e), 67 Stat. 517; Pub. L. 96–609, title II, §202, Dec. 28, 1980, 94 Stat. 3561; Pub. L. 98–573, title II, §206, Oct. 30, 1984, 98 Stat. 2975; Pub. L. 100–418, title I, §1214(h)(5), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 103–182, title VI, §662, Dec. 8, 1993, 107 Stat. 2214.)
+(June 17, 1930, ch. 497, title IV, §498, 46 Stat. 728; Aug. 8, 1953, ch. 397, §16(d), (e), 67 Stat. 517; Pub. L. 96–609, title II, §202, Dec. 28, 1980, 94 Stat. 3561; Pub. L. 98–573, title II, §206, Oct. 30, 1984, 98 Stat. 2975; Pub. L. 100–418, title I, §1214(h)(5), Aug. 23,1988, 102 Stat. 1157; Pub. L. 103–182, title VI, §662, Dec. 8, 1993, 107 Stat. 2214.)
 
 #### References in Text
 

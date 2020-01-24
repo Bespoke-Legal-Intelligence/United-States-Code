@@ -76,7 +76,7 @@ Requirements.—A vessel subject to this subsection is not eligible for a fisher
 
 &emsp;&emsp;(B) the owner of the vessel demonstrates to the Secretary that—
 
-&emsp;&emsp;&emsp;(i) the regional fishery management council of jurisdiction established under section 302(a)(1) of the Magnuson-StevensFishery Conservation and Management Act (16 U.S.C. 1852(a)(1)) has recommended after October 21, 1998, and the Secretary of Commerce has approved, conservation and management measures in accordance with the American Fisheries Act (Public Law 105–277, div. C, title II) (16 U.S.C. 1851 note) <sup>1</sup> to allow the vessel to be used in fisheries under the council's authority; and
+&emsp;&emsp;&emsp;(i) the regional fishery management council of jurisdiction established under section 302(a)(1) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(1)) has recommended after October 21, 1998, and the Secretary of Commerce has approved, conservation and management measures in accordance with the American Fisheries Act (Public Law 105–277, div. C, title II) (16 U.S.C. 1851 note) <sup>1</sup> to allow the vessel to be used in fisheries under the council's authority; and
 
 &emsp;&emsp;&emsp;(ii) in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–625 et seq.), the vessel is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2887));
 
@@ -276,7 +276,7 @@ Pub. L. 100–239, §4, Jan. 11, 1988, 101 Stat. 1779, as amended by Pub. L. 101
 
 &emsp;&emsp;&emsp;"(ii) that vessel is part of a specific business plan involving the conversion in foreign shipyards of a series of three vessels and rebuilding work on at least one of the vessels had begun before July 28, 1987.
 
-"(b) A vessel rebuilt under subsection (a)(3)(B) or (4) of this section must be redelivered to the owner before July 28, 1990. However, the Secretary may, on proof ofcircumstances beyond the control of the owner of a vessel affected by this section, extend the period for rebuilding in a foreign country permitted by this section.
+"(b) A vessel rebuilt under subsection (a)(3)(B) or (4) of this section must be redelivered to the owner before July 28, 1990. However, the Secretary may, on proof of circumstances beyond the control of the owner of a vessel affected by this section, extend the period for rebuilding in a foreign country permitted by this section.
 
 "(c)(1) Any fishery license or registry issued to a vessel built in a foreign country under this section shall be endorsed to restrict the vessel from catching, taking, or harvesting.
 

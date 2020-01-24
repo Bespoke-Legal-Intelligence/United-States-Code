@@ -79,7 +79,7 @@
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 501 to 669 as 801 to 897 and redesignated section numbers 5001 to 7921 as 8001 to 8951. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters501 to 669 as 801 to 897 and redesignated section numbers 5001 to 7921 as 8001 to 8951. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
 Pub. L. 115–232, div. A, title V, §503(b)(2), Aug. 13, 2018, 132 Stat. 1742, struck out item for chapter 544 "Temporary Appointments".
 

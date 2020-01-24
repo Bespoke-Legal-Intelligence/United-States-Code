@@ -10,7 +10,7 @@
 
 The Superconductivity Action Plan shall include—
 
-&emsp;(1) goals and priorities for advanced superconductivity research and development to be carried out by individual departments and agencies and organizational elements therein;
+&emsp;(1) goals and priorities for advanced superconductivity research and development to becarried out by individual departments and agencies and organizational elements therein;
 
 &emsp;(2) the assignment of responsibility for the conduct of advanced superconductivity research and development among the departments, agencies, and organization elements therein;
 

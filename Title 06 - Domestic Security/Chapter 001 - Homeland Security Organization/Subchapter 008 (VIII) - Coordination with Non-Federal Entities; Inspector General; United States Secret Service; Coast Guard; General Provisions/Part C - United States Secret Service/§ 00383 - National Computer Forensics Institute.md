@@ -40,7 +40,7 @@ The Institute shall facilitate the expansion of the network of Electronic Crime 
 
 #### (f) Savings provision
 
-All authorized activities and functions carried out by the Institute at any location as of the day before November 2, 2017, are authorized to continue to be carried out at any such location on and after such date.
+All authorized activities and functions carried out by the Institute at any location as of the day before November 2, 2017, are authorized tocontinue to be carried out at any such location on and after such date.
 
 (Pub. L. 107–296, title VIII, §822, as added Pub. L. 115–76, §2(a), Nov. 2, 2017, 131 Stat. 1246.)
 

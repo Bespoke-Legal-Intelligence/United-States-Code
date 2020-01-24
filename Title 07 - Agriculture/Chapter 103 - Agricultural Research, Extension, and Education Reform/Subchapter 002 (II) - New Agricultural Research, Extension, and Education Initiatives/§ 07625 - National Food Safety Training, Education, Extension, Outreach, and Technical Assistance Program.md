@@ -30,7 +30,7 @@ In awarding grants under this section, the Secretary shall give priority to proj
 
 #### (1) In general
 
-&emsp;In carrying out this section, the Secretary shall make competitive grants to support training, education, extension, outreach, and technical assistance projects that will helpimprove public health by increasing the understanding and adoption of established food safety standards, guidance, and protocols.
+&emsp;In carrying out this section, the Secretary shall make competitive grants to support training, education, extension, outreach, and technical assistance projects that will help improve public health by increasing the understanding and adoption of established food safety standards, guidance, and protocols.
 
 #### (2) Encouraged features
 

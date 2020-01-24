@@ -18,7 +18,7 @@
 
 (2) The head of the procuring activity responsible for award of a contract may authorize the award of the contract (notwithstanding a protest of which the Federal agency has notice under this section)—
 
-&emsp;(A) upon a written finding that urgent and compelling circumstances which significantlyaffect interests of the United States will not permit waiting for the decision of the Comptroller General under this subchapter; and
+&emsp;(A) upon a written finding that urgent and compelling circumstances which significantly affect interests of the United States will not permit waiting for the decision of the Comptroller General under this subchapter; and
 
 &emsp;(B) after the Comptroller General is advised of that finding.
 
@@ -74,7 +74,7 @@
 
 #### Amendments
 
-<b>2017</b>—Subsec. (d)(4). Pub. L. 115–91 redesignated existing provisions as subpar. (A) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and added subpar. (B).
+<b>2017</b>—Subsec. (d)(4). Pub. L. 115–91 redesignated existing provisions as subpar. (A) and former subpars. (A)and (B) as cls. (i) and (ii), respectively, of subpar. (A) and added subpar. (B).
 
 <b>2004</b>—Subsec. (g). Pub. L. 108–375 added subsec. (g).
 

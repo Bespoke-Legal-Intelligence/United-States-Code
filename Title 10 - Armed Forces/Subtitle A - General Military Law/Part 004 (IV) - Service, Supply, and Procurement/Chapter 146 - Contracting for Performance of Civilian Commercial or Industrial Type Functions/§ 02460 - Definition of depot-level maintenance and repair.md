@@ -6,7 +6,7 @@ In General.—In this chapter, the term "depot-level maintenance and repair" mea
 
 (b)
 
-Exceptions.—(1) The term does not include the procurement of major modifications or upgrades of weapon systems that are designed to improve program performance or the nuclear refueling or defueling of an aircraft carrier and any concurrent complex overhaul. A major upgrade program covered by this exception could continue to be performed by private or public sector activities.
+Exceptions.—(1) The term does not include the procurement of major modifications or upgrades of weapon systems that are designed toimprove program performance or the nuclear refueling or defueling of an aircraft carrier and any concurrent complex overhaul. A major upgrade program covered by this exception could continue to be performed by private or public sector activities.
 
 (2) The term also does not include the procurement of parts for safety modifications. However, the term does include the installation of parts for that purpose.
 
@@ -27,4 +27,32 @@ A prior section 2460, added Pub. L. 105–85, div. A, title III, §355(a), Nov. 
 #### Effective Date
 
 Section and amendment by Pub. L. 112–239 effective Dec. 31, 2011, immediately after enactment of Pub. L. 112–81, see section 322(f) of Pub. L. 112–239, set out as an Effective Date of 2013 Amendment note under section 2366a of this title.
+
+#### Requirement for Military Department Inter-Service Depot Maintenance
+
+Pub. L. 116–92, div. A, title III, §358, Dec. 20, 2019, 133 Stat. 1323, provided that:
+
+"(a)
+
+Joint Process for Technical Compliance and Quality Control.—If the Secretary of a military department transfers any maintenance action on a platform to a depot under the jurisdiction of the Secretary of another military department, the two Secretaries shall develop and implement a process to ensure the technical compliance and quality control for the work performed.
+
+"(b)
+
+Requirements.—A process developed under subsection (a) shall include the following requirements—
+
+&emsp;"(1) The Secretary of the military department with jurisdiction over the depot to which the maintenance action is transferred shall—
+
+&emsp;&emsp;"(A) ensure that the technical specifications, requirements, and standards for work to be performed are provided to such action or depot; and
+
+&emsp;&emsp;"(B) implement procedures to ensure that completed work complies with such specifications, requirements and standards.
+
+&emsp;"(2) The Secretary who transfers the maintenance activity or depot shall ensure that—
+
+&emsp;&emsp;"(A) the technical specifications and requirements are clearly understood; and
+
+&emsp;&emsp;"(B) the work performed is completed to the technical specifications, requirements, and standards prescribed under paragraph (1), and that the Secretary of the military department with jurisdiction over the depot is informed of any shortcoming or discrepancy.
+
+"(c)
+
+Reports.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing a certification that sufficient policy and procedures are in place to ensure quality control when the depot or maintenance activities of one military department support another. The report shall include a description of known shortfalls in existing policies and procedures and actions the Department of Defense is taking to address such shortfalls."
 

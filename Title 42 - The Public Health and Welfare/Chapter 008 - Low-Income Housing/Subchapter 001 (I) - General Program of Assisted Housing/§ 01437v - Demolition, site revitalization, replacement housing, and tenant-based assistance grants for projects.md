@@ -68,7 +68,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (2) Endowment trust for supportive services
 
-&emsp;In using grant amounts under this section made available in fiscal year 2000 or thereafter for supportive services under paragraph (1)(L), a public housing agency may deposit such amounts in an endowment trust to provide supportive services over such period of time as the agency determines. Such amounts shall be provided to the agency by the Secretary in a lump sum when requested by the agency, shallbe invested in a wise and prudent manner, and shall be used (together with any interest thereon earned) only for eligible uses pursuant to paragraph (1)(L). A public housing agency may use amounts in an endowment trust under this paragraph in conjunction with other amounts donated or otherwise made available to the trust for similar purposes.
+&emsp;In using grant amounts under this section made available in fiscal year 2000 or thereafter for supportive services under paragraph (1)(L), a public housing agency may deposit such amounts in an endowment trust to provide supportive services over such period of time as the agency determines. Such amounts shall be provided to the agency by the Secretary in a lump sum when requested by the agency, shall be invested in a wise and prudent manner, and shall be used (together with any interest thereon earned) only for eligible uses pursuant to paragraph (1)(L). A public housing agency may use amounts in an endowment trust under this paragraph in conjunction with other amounts donated or otherwise made available to the trust for similar purposes.
 
 #### (e) Application and selection
 
@@ -106,7 +106,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (3) Applicability of selection criteria
 
-&emsp;The Secretary may determine not to apply certain of the selection criteria established pursuant to paragraph (2) when awarding grants for demolition only, tenant-based assistance only, or other specific categories of revitalization activities. This section may not be construed to require any application for a grant under this section to include demolition of public housing or to preclude use of grant amounts for rehabilitation or rebuilding of any housing on an existing site.
+&emsp;The Secretary may determine not to apply certain of the selection criteria established pursuant to paragraph (2) when awarding grants for demolition only, tenant-based assistance only, or other specific categories ofrevitalization activities. This section may not be construed to require any application for a grant under this section to include demolition of public housing or to preclude use of grant amounts for rehabilitation or rebuilding of any housing on an existing site.
 
 #### (f) Cost limits
 
@@ -348,7 +348,7 @@ Pub. L. 109–289, §21045(2), as added by Pub. L. 110–5, substituted "Septemb
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–186, §403(a), inserted concluding provisions.
 
-Subsec. (e)(2). Pub. L. 108–186, §402(a)(1), substituted "The Secretary shall establish criteria for the award of grants under this section and shall include among the factors—" for "The Secretary shall establish selection criteria for the award of grants under this section and shall include such factors as—" in introductory provisions.
+Subsec. (e)(2). Pub. L. 108–186, §402(a)(1), substituted "The Secretary shall establish criteria for the award of grants under this section and shall include among the factors—" for "The Secretary shall establish selectioncriteria for the award of grants under this section and shall include such factors as—" in introductory provisions.
 
 Subsec. (e)(2)(B). Pub. L. 108–186, §402(a)(2), struck out "large-scale" after "for managing".
 

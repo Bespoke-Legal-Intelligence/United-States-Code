@@ -70,7 +70,7 @@ In this subchapter:
 
 #### (b) Outstanding Bonds
 
-In determining whether holders of the requisite principal amount of Outstanding Bonds have voted in favor of, or consented to, a proposed Qualifying Modification, a Bond will be deemed not to be outstanding, and may not becounted in a vote or consent solicitation for or against a proposed Qualifying Modification, if on the record date for the proposed Qualifying Modification—
+In determining whether holders of the requisite principal amount of Outstanding Bonds have voted in favor of, or consented to, a proposed Qualifying Modification, a Bond will be deemed not to be outstanding, and may not be counted in a vote or consent solicitation for or against a proposed Qualifying Modification, if on the record date for the proposed Qualifying Modification—
 
 &emsp;(1) the Bond has previously been cancelled or delivered for cancellation or is held for reissuance but has not been reissued;
 
@@ -84,7 +84,7 @@ In determining whether holders of the requisite principal amount of Outstanding 
 
 #### (c) Certification of disenfranchised Bonds
 
-Prior to any vote on, or consent solicitation for, a Qualifying Modification, the Issuer shall deliver to the Calculation Agent a certificate signed by an authorized representative of the Issuer specifying any Bonds that are deemed not to be Outstanding for the purpose of subsection (b) above.
+Prior to any vote on, or consent solicitation for, a Qualifying Modification, the Issuer shalldeliver to the Calculation Agent a certificate signed by an authorized representative of the Issuer specifying any Bonds that are deemed not to be Outstanding for the purpose of subsection (b) above.
 
 #### (d) Determination of Pools for voting
 
@@ -140,7 +140,7 @@ A Modification is a Qualifying Modification if one of the following processes ha
 
 &emsp;(A) the Issuer proposing the Modification has consulted with holders of Bonds in each Pool of such Issuer prior to soliciting a vote on such Modification;
 
-&emsp;(B) each exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification is offered the same amount of consideration per amount of principal, the same amount of consideration per amount of interest accrued but unpaid and the same amount of consideration per amount of past due interest, respectively, as that offered to each other exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification (or, where a menu of instruments or other consideration is offered, each exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification is offered the same amount of consideration per amount of principal, the same amount of consideration per amount of interest accrued but unpaid and the same amount of consideration per amount of past due interest, respectively, as that offered to each other exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification electing the same option under such menu of instruments); and
+&emsp;(B) each exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification is offered the same amount of consideration per amount of principal, the same amount of consideration per amount of interest accrued but unpaid and the same amount of consideration per amount of past due interest, respectively, as that offered to each other exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification (or, where a menu of instruments or other consideration is offered, each exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification is offered the same amount of consideration per amountof principal, the same amount of consideration per amount of interest accrued but unpaid and the same amount of consideration per amount of past due interest, respectively, as that offered to each other exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification electing the same option under such menu of instruments); and
 
 &emsp;(C) the Modification is certified by the Administrative Supervisor as being consistent with the requirements set forth in section 2124(i)(1) of this title and is in the best interests of the creditors and is feasible.
 

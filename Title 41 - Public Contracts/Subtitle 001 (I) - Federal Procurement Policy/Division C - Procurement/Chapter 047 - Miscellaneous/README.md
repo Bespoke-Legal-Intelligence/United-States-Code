@@ -15,10 +15,13 @@
 | [4711\.](%C2%A7%2004711%20-%20Linking%20of%20award%20and%20incentive%20fees%20to%20acquisition%20outcomes.md) | Linking of award and incentive fees to acquisition outcomes. |
 | [4712\.](%C2%A7%2004712%20-%20Enhancement%20of%20contractor%20protection%20from%20reprisal%20for%20disclosure%20of%20certain%20information.md) | Enhancement of contractor protection from reprisal for disclosure of certain information. |
 | [4713\.](%C2%A7%2004713%20-%20Authorities%20relating%20to%20mitigating%20supply%20chain%20risks%20in%20the%20procurement%20of%20covered%20articles.md) | Authorities relating to mitigating supply chain risks in the procurement of covered articles. |
+| [4714\.](%C2%A7%2004714%20-%20Prohibition%20on%20criminal%20history%20inquiries%20by%20contractors%20prior%20to%20conditional%20offer.md) | Prohibition on criminal history inquiries by contractors prior to conditional offer. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title XI, §1123(a)(2), Dec. 20, 2019, 133 Stat. 1612, added item 4714.
 
 <b>2018</b>—Pub. L. 115–390, title II, §203(b), Dec. 21, 2018, 132 Stat. 5192, added item 4713.
 
@@ -44,3 +47,4 @@
 - [&sect; 04711 - Linking of award and incentive fees to acquisition outcomes](%C2%A7%2004711%20-%20Linking%20of%20award%20and%20incentive%20fees%20to%20acquisition%20outcomes.md)
 - [&sect; 04712 - Enhancement of contractor protection from reprisal for disclosure of certain information](%C2%A7%2004712%20-%20Enhancement%20of%20contractor%20protection%20from%20reprisal%20for%20disclosure%20of%20certain%20information.md)
 - [&sect; 04713 - Authorities relating to mitigating supply chain risks in the procurement of covered articles](%C2%A7%2004713%20-%20Authorities%20relating%20to%20mitigating%20supply%20chain%20risks%20in%20the%20procurement%20of%20covered%20articles.md)
+- [&sect; 04714 - Prohibition on criminal history inquiries by contractors prior to conditional offer](%C2%A7%2004714%20-%20Prohibition%20on%20criminal%20history%20inquiries%20by%20contractors%20prior%20to%20conditional%20offer.md)

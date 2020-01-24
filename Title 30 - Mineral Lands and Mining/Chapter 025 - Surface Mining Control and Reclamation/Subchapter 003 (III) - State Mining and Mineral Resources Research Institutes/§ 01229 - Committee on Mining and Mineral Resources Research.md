@@ -24,7 +24,7 @@ The Committee shall consult with, and make recommendations to, the Secretary on 
 
 #### (c) Compensation, travel, subsistence and related expenses
 
-Committee members, other than officers or employees of Federal, State, or local governments, shall be, for each day (including traveltime) during which they are performing Committee business, paid at a rate fixed by the Secretary but not <sup>1</sup> excess of the daily equivalent of the maximum rate of pay for grade GS–18 of the General Schedule under section 5332 of title 5, and shall be fully reimbursed for travel, subsistence, and related expenses.
+Committee members, other than officers or employees of Federal, State, or local governments, shall be, for each day (including traveltime) during which they are performing Committee business, paid at a rate fixed by the Secretary but not <sup>1</sup> excess of the daily equivalent of the maximum rate of pay for grade GS–18 of the General Schedule under section 5332 of title 5,and shall be fully reimbursed for travel, subsistence, and related expenses.
 
 #### (d) Chairmanship of Committee
 
@@ -72,7 +72,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Reports
 
-Pub. L. 100–483, §11, Oct. 12, 1988, 102 Stat. 2341, directed Committee on Mining and Mineral ResourcesResearch to submit a report to Congress by Jan. 15, 1992, on programs established under this subchapter, including reviews of activities of the institutes and generic mineral technology centers established under this subchapter, each institute's and center's eligibility pursuant to section 1230 of this title, and recommendations on establishing new generic mineral technology centers, as well as phasing out or consolidating existing centers, and further directed Committee to submit to Congress, by Jan. 15, 1990, a proposal to establish a Generic Mineral Technology Center on Strategic and Critical Minerals.
+Pub. L. 100–483, §11, Oct. 12, 1988, 102 Stat. 2341, directed Committee on Mining and Mineral Resources Research to submit a report to Congress by Jan. 15, 1992, on programs established under this subchapter, including reviews of activities of the institutes and generic mineral technology centers established under this subchapter, each institute's and center's eligibility pursuant to section 1230 of this title, and recommendations on establishing new generic mineral technology centers, as well as phasing out or consolidating existing centers, and further directed Committee to submit to Congress, by Jan. 15, 1990, a proposal to establish a Generic Mineral Technology Center on Strategic and Critical Minerals.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "in".</i>
 

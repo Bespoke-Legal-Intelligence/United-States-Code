@@ -6,7 +6,7 @@ It is hereby found that a burden on and obstruction to commerce in poultry is ca
 
 #### (b) Poultry, inventories, receivables and proceeds held by dealer in trust for benefit of unpaid cash sellers or poultry growers
 
-All poultry obtained by a live poultry dealer, by purchase in cash sales or by poultry growing arrangement, and all inventories of, or receivables or proceeds from such poultry or poultry products derived therefrom, shall be held by such live poultry dealer in trust for the benefit of all unpaid cash sellers or poultry growers of such poultry, until full payment has been received by such unpaid cash sellers or poultry growers, unless such live poultry dealer does not have average annual sales of live poultry, or average annual value of live poultry obtained bypurchase or by poultry growing arrangement, in excess of $100,000.
+All poultry obtained by a live poultry dealer, by purchase in cash sales or by poultry growing arrangement, and all inventories of, or receivables or proceeds from such poultry or poultry products derived therefrom, shall be held by such live poultry dealer in trust for the benefit of all unpaid cash sellers or poultry growers of such poultry, until full payment has been received by such unpaid cash sellers or poultry growers, unless such live poultry dealer does not have average annual sales of live poultry, or average annual value of live poultry obtained by purchase or by poultry growing arrangement, in excess of $100,000.
 
 #### (c) Effect of dishonored instruments
 
@@ -14,7 +14,7 @@ Payment shall not be considered to have been made if the cash seller or poultry 
 
 #### (d) Preservation of trust benefit by seller or poultry grower
 
-The unpaid cash seller or poultry grower shall lose the benefit of such trust if, in the event that a payment instrument has not been received, within 30 days of the final date for making payment under section 228b–1 of this title, or within 15 business days after the seller or poultry grower has received notice that the payment instrument promptly presented for payment has been dishonored, the seller or poultry grower has not preserved his trust under this section. The trust shall be preserved by giving written notice to the live poultry dealer and by filing such notice with the Secretary.
+The unpaid cash seller or poultry grower shall lose the benefit of such trust if, in the event that a payment instrument has not been received, within 30 days of the final date for making payment under section 228b–1 of this title, or within 15 business days after the seller or poultry grower has received notice that the payment instrument promptly presented for payment has been dishonored, the seller or poultry growerhas not preserved his trust under this section. The trust shall be preserved by giving written notice to the live poultry dealer and by filing such notice with the Secretary.
 
 #### (e) Definition of cash sale
 

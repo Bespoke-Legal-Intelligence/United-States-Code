@@ -76,7 +76,7 @@ Pub. L. 115–232, div. A, title VI, §601(b), Aug. 13, 2018, 132 Stat. 1794, pr
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–291 effective on Dec. 19, 2014 and applicable with respect to months of service that begin on or after that date, see section 603(e) of Pub. L. 113–291, set out as a note under section 1406 of Title 10, Armed Forces.
+Amendment by Pub. L. 113–291 effective on Dec. 19, 2014 and applicable with respect to months of service that begin on or after that date, see section 603(e) ofPub. L. 113–291, set out as a note under section 1406 of Title 10, Armed Forces.
 
 #### Effective Date of 2000 Amendment
 

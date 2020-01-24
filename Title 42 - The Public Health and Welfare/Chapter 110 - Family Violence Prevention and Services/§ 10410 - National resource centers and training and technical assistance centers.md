@@ -70,7 +70,7 @@
 
 &emsp;&emsp;An eligible entity shall use a grant provided under this paragraph—
 
-&emsp;&emsp;&emsp;(i) to offer a comprehensive array of technical assistance and training resources to Indian tribes, tribal organizations, and providers of services to Indians (including Alaska Natives) or Native Hawaiians, specifically designed to enhance the capacity of the tribes, organizations,and providers to respond to domestic violence, including offering the resources in States in which the population of Indians (including Alaska Natives) or Native Hawaiians exceeds 2.5 percent of the total population of the State;
+&emsp;&emsp;&emsp;(i) to offer a comprehensive array of technical assistance and training resources to Indian tribes, tribal organizations, and providers of services to Indians (including Alaska Natives) or Native Hawaiians, specifically designed to enhance the capacity of the tribes, organizations, and providers to respond to domestic violence, including offering the resources in States in which the population of Indians (including Alaska Natives) or Native Hawaiians exceeds 2.5 percent of the total population of the State;
 
 &emsp;&emsp;&emsp;(ii) to coordinate all projects and activities with the national resource center described in paragraph (1)(B), including projects and activities that involve working with nontribal State and local governments to enhance their capacity to understand the unique needs of Indians (including Alaska Natives) and Native Hawaiians; and
 
@@ -132,7 +132,7 @@ Each entity receiving a grant under this section shall submit a performance repo
 
 #### References in Text
 
-Sections 901 and 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005,referred to in subsecs. (b)(1)(B)(i), (ii) and (c)(2)(A), (B), are sections 901 and 902, respectively, of Pub. L. 109–162, which were set out as a note under section 3796gg–10 of this title, prior to editorial reclassification as a note under section 10452 of Title 34, Crime Control and Law Enforcement.
+Sections 901 and 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005, referred to in subsecs. (b)(1)(B)(i), (ii) and (c)(2)(A), (B), are sections 901 and 902, respectively, of Pub. L. 109–162, which were set out as a note under section 3796gg–10 of this title, prior to editorial reclassification as a note under section 10452 of Title 34, Crime Control and Law Enforcement.
 
 #### Prior Provisions
 

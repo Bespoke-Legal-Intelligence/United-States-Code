@@ -48,7 +48,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;After receipt of a personal estate pursuant to subsection (a), the Secretary may seek payment of all outstanding debts to the estate as they become due, may receive any balances due on such estate, may endorse allchecks, bills of exchange, promissory notes, and other instruments of indebtedness payable to the estate for the benefit thereof, and may take such other action as is reasonably necessary for the conservation of the estate.
+&emsp;&emsp;After receipt of a personal estate pursuant to subsection (a), the Secretary may seek payment of all outstanding debts to the estate as they become due, may receive any balances due on such estate, may endorse all checks, bills of exchange, promissory notes, and other instruments of indebtedness payable to the estate for the benefit thereof, and may take such other action as is reasonably necessary for the conservation of the estate.
 
 #### (B) Disposition as surplus United States property
 

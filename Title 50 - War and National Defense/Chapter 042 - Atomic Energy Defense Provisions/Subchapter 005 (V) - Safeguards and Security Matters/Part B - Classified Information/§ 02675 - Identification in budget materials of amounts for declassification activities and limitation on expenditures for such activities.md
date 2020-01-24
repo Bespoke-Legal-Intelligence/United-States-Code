@@ -8,7 +8,7 @@ The Secretary of Energy shall include in the budget justification materials subm
 
 No records of the Department of Energy that have not as of October 5, 1999, been reviewed for declassification shall be subject to automatic declassification unless the Secretary of Energy certifies to Congress that such declassification would not harm the national security.
 
-(Pub. L. 107–314, div. D, title XLV, §4525, formerly Pub. L. 106–65, div. C, title XXXI, §3173, Oct. 5, 1999, 113 Stat. 949; renumbered Pub. L. 107–314, div. D, title XLV, §4525, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(15), Nov. 24, 2003, 117 Stat. 1775; Pub. L. 113–66, div. C, title XXXI, §3146(f)(4), Dec. 26, 2013, 127 Stat. 1079; Pub. L. 113–291, div. C, title XXXI, §3142(n), Dec. 19, 2014, 128 Stat. 3901.)
+(Pub. L. 107–314, div. D, title XLV, §4525, formerly Pub. L. 106–65, div. C, title XXXI, §3173, Oct. 5, 1999, 113 Stat. 949; renumbered Pub. L.107–314, div. D, title XLV, §4525, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(15), Nov. 24, 2003, 117 Stat. 1775; Pub. L. 113–66, div. C, title XXXI, §3146(f)(4), Dec. 26, 2013, 127 Stat. 1079; Pub. L. 113–291, div. C, title XXXI, §3142(n), Dec. 19, 2014, 128 Stat. 3901.)
 
 #### Codification
 
@@ -16,7 +16,7 @@ Section was formerly set out as a note under section 435 of this title prior to 
 
 #### Prior Provisions
 
-A prior section 2691, Pub. L. 107–314, div. D, title XLV, §4541, formerly Pub. L. 104–106, div. C, title XXXI, §3158, Feb. 10, 1996, 110 Stat. 626; renumbered Pub. L. 107–314, div. D, title XLV, §4541, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(17), Nov. 24, 2003, 117 Stat. 1776, relatedto responsibility for Defense Programs Emergency Response Program, prior to repeal by Pub. L. 113–66, div. C, title XXXI, §3146(f)(5)(A), Dec. 26, 2013, 127 Stat. 1079.
+A prior section 2691, Pub. L. 107–314, div. D, title XLV, §4541, formerly Pub. L. 104–106, div. C, title XXXI, §3158, Feb. 10, 1996, 110 Stat. 626; renumbered Pub. L. 107–314, div. D, title XLV, §4541, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(17), Nov. 24, 2003, 117 Stat. 1776, related to responsibility for Defense Programs Emergency Response Program, prior to repeal by Pub. L. 113–66, div. C, title XXXI, §3146(f)(5)(A), Dec. 26, 2013, 127 Stat. 1079.
 
 #### Amendments
 

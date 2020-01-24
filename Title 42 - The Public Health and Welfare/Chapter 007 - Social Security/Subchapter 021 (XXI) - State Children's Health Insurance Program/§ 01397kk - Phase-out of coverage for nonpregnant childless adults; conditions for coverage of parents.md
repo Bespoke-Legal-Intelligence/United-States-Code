@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each State for which coverage under an applicable existing waiver is terminated under paragraph (2)(A) may submit, not later than September 30, 2009, an application to the Secretary for a waiver under section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a nonpregnant childless adult whose coverage is so terminated (in this subsection referred to as a "Medicaid nonpregnant childless adults waiver").
+&emsp;&emsp;Each State for which coverage under an applicable existing waiver is terminated under paragraph (2)(A) may submit, not later than September 30, 2009, an applicationto the Secretary for a waiver under section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a nonpregnant childless adult whose coverage is so terminated (in this subsection referred to as a "Medicaid nonpregnant childless adults waiver").
 
 #### (B) Deadline for approval
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;Notwithstanding section 1315 of this title or any other provision of this subchapter, except as provided in this subsection—
 
-&emsp;&emsp;&emsp;(i) the Secretary shall not on or after February 4, 2009, approve or renew a waiver, experimental, pilot, or demonstrationproject that would allow funds made available under this subchapter to be used to provide child health assistance or other health benefits coverage to a parent of a targeted low-income child; and
+&emsp;&emsp;&emsp;(i) the Secretary shall not on or after February 4, 2009, approve or renew a waiver, experimental, pilot, or demonstration project that would allow funds made available under this subchapter to be used to provide child health assistance or other health benefits coverage to a parent of a targeted low-income child; and
 
 &emsp;&emsp;&emsp;(ii) notwithstanding the terms and conditions of an applicable existing waiver, the provisions of paragraphs (2) and (3) shall apply for purposes of any fiscal year beginning on or after October 1, 2011, in determining the period to which the waiver applies, the individuals eligible to be covered by the waiver, and the amount of the Federal payment under this subchapter.
 
@@ -106,7 +106,7 @@
 
 #### (vi) No increase in income eligibility level for parents
 
-&emsp;&emsp;&emsp;No payments shall be made to a State from the amount set aside under clause (i) for a fiscal year for expenditures for providing child health assistance or health benefits coverage to a parent of a targetedlow-income child whose family income exceeds the income eligibility level applied under the applicable existing waiver to parents of targeted low-income children on February 4, 2009.
+&emsp;&emsp;&emsp;No payments shall be made to a State from the amount set aside under clause (i) for a fiscal year for expenditures for providing child health assistance or health benefits coverage to a parent of a targeted low-income child whose family income exceeds the income eligibility level applied under the applicable existing waiver to parents of targeted low-income children on February 4, 2009.
 
 #### (3) Outreach or coverage benchmarks
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 #### References in Text
 
-Section 6102(c)(3) of the Deficit Reduction Act of 2005, referred to in subsec. (c)(1), is section 6102(c)(3) of Pub. L. 109–171, which is set out as a note under section 1397gg of this title.
+Section 6102(c)(3) of the Deficit Reduction Act of 2005, referred to in subsec. (c)(1), is section 6102(c)(3) of Pub.L. 109–171, which is set out as a note under section 1397gg of this title.
 
 #### Amendments
 

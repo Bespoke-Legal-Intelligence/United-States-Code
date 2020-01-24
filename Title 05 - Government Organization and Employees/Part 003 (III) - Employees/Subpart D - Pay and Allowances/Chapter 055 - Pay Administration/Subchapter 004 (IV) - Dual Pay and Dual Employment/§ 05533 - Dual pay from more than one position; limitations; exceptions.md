@@ -6,7 +6,7 @@
 
 (c)(1) Unless otherwise authorized by law and except as otherwise provided by paragraph (2) or (4) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position if the pay of one of the positions is paid by the Secretary of the Senate, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police, or one of the positions is under the Office of the Architect of the Capitol, and if the aggregate gross pay from the positions exceeds $7,724 a year ($10,540,<sup>1</sup> in the case of pay disbursed by the Secretary of the Senate).
 
-(2) Notwithstanding paragraph (1) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position, for each of which the pay is disbursed by the Chief Administrative Officer of the House of Representatives or the Chief of the Capitol Police, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of the clerk hire allowance of a Member of the House.
+(2) Notwithstanding paragraph (1) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position, for each of which the pay is disbursed by the Chief Administrative Officer ofthe House of Representatives or the Chief of the Capitol Police, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of the clerk hire allowance of a Member of the House.
 
 (3) For the purposes of this subsection, "gross pay" means the annual rate of pay (or equivalent thereof in the case of an individual paid on other than an annual basis) received by an individual.
 
@@ -104,7 +104,7 @@ Subsec. (d)(5)(A). Pub. L. 111–145, §7(b)(2)(B), substituted ", the Chief Ad
 
 Subsec. (e). Pub. L. 93–140 designated existing provisions as par. (1) and added par. (2).
 
-<b>1970</b>—Subsec. (c)(1). Pub. L. 91–510 inserted "and except as otherwise provided by paragraph (2) of this section" after "authorized by law" and substituted "if the aggregate gross pay from the positions exceeds $7,724 a year" for "if—
+<b>1970</b>—Subsec. (c)(1). Pub. L. 91–510 inserted "and except as otherwise provided by paragraph (2) of this section" after "authorized by law" and substituted "if theaggregate gross pay from the positions exceeds $7,724 a year" for "if—
 
 "(A) the pay of one or more of the positions is fixed at a single gross per annum rate, and the aggregate gross pay from the positions exceeds $6,256 a year, or
 
@@ -146,6 +146,8 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Increase in Compensation of Individuals Whose Pay is Disbursed by Secretary of Senate
 
+<b>2019</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2019, to the figure "$36,766", see section 9 of Salary Directive of President pro tempore of the Senate, Apr. 1, 2019, set out as a note under section 4571 of Title 2, The Congress.
+
 <b>2018</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2018, to the figure "$35,949", see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 23, 2018, set out as a note under section 4571 of Title 2, The Congress.
 
 <b>2017</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2017, to the figure "$35,144", see section 9 of Salary Directive of President pro tempore of the Senate, May 5, 2017, set out as a note under section 4571 of Title 2, The Congress.
@@ -170,7 +172,7 @@ The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, ef
 
 <b>2004</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2004, to the figure "$28,574", see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 5, 2004, formerly set out as a note under section 4571 of Title 2.
 
-<b>2003</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2003, to the figure "$27,822", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 2002, as amended, formerly set out as a note under section 4571 of Title 2.
+<b>2003</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2003, to the figure "$27,822", see section 9 of Salary Directive ofPresident pro tempore of the Senate, Dec. 19, 2002, as amended, formerly set out as a note under section 4571 of Title 2.
 
 <b>2002</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2002, to the figure "$26,985", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2001, formerly set out as a note under section 4571 of Title 2.
 
@@ -198,7 +200,7 @@ The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, ef
 
 <b>1988</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1988, to the figure "$17,938", see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1988, formerly set out as a note under section 4571 of Title 2.
 
-<b>1987</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1987, to thefigure "$17,586", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1986, formerly set out as a note under section 4571 of Title 2.
+<b>1987</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1987, to the figure "$17,586", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1986, formerly set out as a note under section 4571 of Title 2.
 
 <b>1985</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1985, to the figure "$17,073", see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1985, formerly set out as a note under section 4571 of Title 2.
 

@@ -144,7 +144,7 @@ Subsec. (e). Pub. L. 107–171, §7218(2), amended heading and text of subsec. (
 
 #### Effective Date of 2018 Amendment
 
-Amendment by section 7614(b)(2)(D) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
+Amendment by section 7614(b)(2)(D) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching fundsrequirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
 
 #### Effective Date of 2013 Amendment
 

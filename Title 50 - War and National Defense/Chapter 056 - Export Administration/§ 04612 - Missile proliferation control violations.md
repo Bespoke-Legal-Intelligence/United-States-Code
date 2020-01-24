@@ -74,7 +74,7 @@
 
 &emsp;(A) In any case other than one in which an advisory opinion has been issued under paragraph (4) stating that a proposed activity would not subject a person to sanctions under this subsection, the President may waive the application of paragraph (1) to a foreign person if the President determines that such waiver is essential to the national security of the United States.
 
-&emsp;(B) In the event that the President decides to apply the waiver described in subparagraph (A), the President shall so notify the Congress not less than 20 working days before issuingthe waiver. Such notification shall include a report fully articulating the rationale and circumstances which led the President to apply the waiver.
+&emsp;(B) In the event that the President decides to apply the waiver described in subparagraph (A), the President shall so notify the Congress not less than 20 working days before issuing the waiver. Such notification shall include a report fully articulating the rationale and circumstances which led the President to apply the waiver.
 
 #### (6) Additional waiver
 

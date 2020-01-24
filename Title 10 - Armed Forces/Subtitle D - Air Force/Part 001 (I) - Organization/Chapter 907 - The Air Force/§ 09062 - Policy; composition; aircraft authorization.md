@@ -72,7 +72,7 @@
 
 &emsp;(B) The term "total aircraft inventory" means aircraft authorized to a flying unit for operations or training.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 493, §8062; Pub. L. 96–513, title V, §504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, §110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, §1314(b)(9), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 109–364, div. A, title I, §132, Oct. 17, 2006, 120 Stat. 2112; Pub. L. 111–84, div. A, title I, §139, Oct. 28, 2009, 123 Stat. 2223; Pub. L. 112–81, div. A, title I, §131, Dec. 31, 2011, 125 Stat. 1320; Pub. L. 112–239, div. A, title I, §§141(a), 142(a), Jan. 2, 2013, 126 Stat. 1659, 1662; Pub. L.115–91, div. A, title I, §131(a), Dec. 12, 2017, 131 Stat. 1314; renumbered §9062 and amended Pub. L. 115–232, div. A, title I, §141(a), title VIII, §§806(c), 809(a), Aug. 13, 2018, 132 Stat. 1666, 1833, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 493, §8062; Pub. L. 96–513, title V, §504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, §110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, §1314(b)(9), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 109–364, div. A, title I, §132, Oct. 17, 2006, 120 Stat. 2112; Pub. L. 111–84, div. A, title I, §139, Oct. 28, 2009, 123 Stat. 2223; Pub. L. 112–81, div. A, title I, §131, Dec. 31, 2011, 125 Stat. 1320; Pub. L. 112–239, div. A, title I, §§141(a), 142(a), Jan. 2, 2013, 126 Stat. 1659, 1662; Pub. L. 115–91, div. A, title I, §131(a), Dec. 12, 2017, 131 Stat. 1314; renumbered §9062 and amended Pub. L. 115–232, div. A, title I, §141(a), title VIII, §§806(c), 809(a), Aug. 13, 2018, 132 Stat. 1666, 1833, 1840.)
 
 Historical and Revision Notes
 
@@ -280,7 +280,7 @@ Pub. L. 111–383, div. A, title III, §345, Jan. 7, 2011, 124 Stat. 4191, as am
 
 "(a)
 
-Requirements.—Before making an aircraft transfer described in subsection (c), the Secretary of the Air Force shall ensure that a written agreement regarding such transfer has been entered into between the Chief of Staff of the Air Force and the Director of the Air National Guard or the Chief of Air Force Reserve. Any such agreement shall specify each of the following:
+Requirements.—Before making an aircraft transfer described in subsection (c), the Secretary of the Air Force shall ensure that a written agreement regarding such transfer has been entered into between the Chief of Staff of the Air Force and the Director ofthe Air National Guard or the Chief of Air Force Reserve. Any such agreement shall specify each of the following:
 
 &emsp;"(1) The number of and type of aircraft to be transferred.
 

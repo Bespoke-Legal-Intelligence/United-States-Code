@@ -32,7 +32,7 @@
 
 (g) The fund described in subsection (a) is available to pay costs that the Office incurs for activities associated with implementation of the demonstration project under section 1108 of title 10.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 605; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, §3(6), Nov. 8, 1984, 98 Stat. 3204; Pub. L. 99–53, §2(e), (f), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §101, Feb. 27,1986, 100 Stat. 14; Pub. L. 100–654, title II, §202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(b), (c), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 105–261, div. A, title VII, §721(b)(4), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 105–266, §6(b)(1), Oct. 19, 1998, 112 Stat. 2369.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 605; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, §3(6), Nov. 8, 1984, 98 Stat. 3204; Pub. L. 99–53, §2(e), (f), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §101, Feb. 27, 1986, 100 Stat. 14; Pub. L. 100–654, title II, §202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(b), (c), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 105–261, div. A, title VII, §721(b)(4), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 105–266, §6(b)(1), Oct. 19, 1998, 112 Stat. 2369.)
 
 Historical and Revision Notes
 
@@ -130,7 +130,7 @@ Pub. L. 99–272, title XV, §15202(a), Apr. 7, 1986, 100 Stat. 333, provided th
 
 "(3) No amount in the Employees Health Benefits Fund may be transferred to the general fund of the Treasury of the United States as a result of a refund made under this subsection.
 
-"(4)(A) Subject to subparagraphs (B) and (C), any amounts refunded to the Employees Health BenefitsFund under this subsection may be used solely for the purpose of paying the Government contribution under chapter 89 of title 5, United States Code, for health benefits for annuitants, as defined by section 8901(3) of title 5, United States Code, (including the Government contribution for former employees of the United States Postal Service) enrolled in health benefits plans under such chapter.
+"(4)(A) Subject to subparagraphs (B) and (C), any amounts refunded to the Employees Health Benefits Fund under this subsection may be used solely for the purpose of paying the Government contribution under chapter 89 of title 5, United States Code, for health benefits for annuitants, as defined by section 8901(3) of title 5, United States Code, (including the Government contribution for former employees of the United States Postal Service) enrolled in health benefits plans under such chapter.
 
 "(B) This paragraph applies to a refund to the extent that such refund represents amounts attributable to Government contributions which were made under section 8906(b) of title 5, United States Code, (including contributions made by the United States Postal Service) as determined under regulations which the Office of Personnel Management shall prescribe.
 
@@ -140,7 +140,7 @@ Pub. L. 99–272, title XV, §15202(a), Apr. 7, 1986, 100 Stat. 333, provided th
 
 &emsp;"(ii) to the United States Postal Service, except that the amount of any such part so transferred shall not exceed the amount attributable to the contributions made by the United States Postal Service to subscription charges under this chapter (as determined by the Office).
 
-"(5) The provisions of this subsection shall apply notwithstanding any provision of the Federal Employees Benefits Improvement Act of 1985 \[probably means the Federal Employees Benefits Improvement Act of 1986, Pub. L. 99–251, see Short Title of 1986 Amendment note set out under section 8901 of this title for classification\]."
+"(5) The provisions of this subsection shall apply notwithstanding any provision of the Federal Employees Benefits Improvement Act of 1985 \[probably means the Federal Employees Benefits Improvement Act of 1986, Pub. L. 99–251, see Short Title of 1986 Amendment noteset out under section 8901 of this title for classification\]."
 
 #### Restrictions Relating to Amounts Refunded to Employees Health Benefits Fund From Carriers' Special Reserves
 

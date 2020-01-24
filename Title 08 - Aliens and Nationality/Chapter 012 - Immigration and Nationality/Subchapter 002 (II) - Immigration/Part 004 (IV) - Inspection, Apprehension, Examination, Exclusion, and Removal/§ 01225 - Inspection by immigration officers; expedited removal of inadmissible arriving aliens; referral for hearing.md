@@ -34,7 +34,7 @@
 
 #### (ii) Claims for asylum
 
-&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title and the alien indicates either an intention to apply for asylum under section 1158 of thistitle or a fear of persecution, the officer shall refer the alien for an interview by an asylum officer under subparagraph (B).
+&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title and the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution, the officer shall refer the alien for an interview by an asylum officer under subparagraph (B).
 
 #### (iii) Application to certain other aliens
 
@@ -100,7 +100,7 @@
 
 #### (F) Exception
 
-&emsp;&emsp;Subparagraph (A) shall not apply to an alien who is a native or citizen of a country in the Western Hemisphere with whose government the United States does not have full diplomatic relations and who arrives by aircraft at a port of entry.
+&emsp;&emsp;Subparagraph (A) shall not apply to an alien who is a native or citizen of a countryin the Western Hemisphere with whose government the United States does not have full diplomatic relations and who arrives by aircraft at a port of entry.
 
 #### (G) Commonwealth of the Northern Mariana Islands
 
@@ -232,25 +232,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### GAO Study on Operation of Expedited Removal Procedures
 
-Pub. L. 104–208, div. C, title III, §302(b), Sept. 30, 1996, 110 Stat. 3009–584, provided that:
-
-"(1)
-
-Study.—The Comptroller General shall conduct a study on the implementation of the expedited removal procedures under section 235(b)(1) of the Immigration and Nationality Act \[8 U.S.C. 1225(b)(1)\], as amended by subsection (a). The study shall examine—
-
-&emsp;"(A) the effectiveness of such procedures in deterring illegal entry,
-
-&emsp;"(B) the detention and adjudication resources saved as a result of the procedures,
-
-&emsp;"(C) the administrative and other costs expended to comply with the provision,
-
-&emsp;"(D) the effectiveness of such procedures in processing asylum claims by undocumented aliens who assert a fear of persecution, including the accuracy of credible fear determinations, and
-
-&emsp;"(E) the cooperation of other countries and air carriers in accepting and returning aliens removed under such procedures.
-
-"(2)
-
-Report.—By not later than 18 months after the date of the enactment of this Act \[Sept. 30, 1996\], the Comptroller General shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a report on the study conducted under paragraph (1)."
+Pub. L. 104–208, div. C, title III, §302(b), Sept. 30, 1996, 110 Stat. 3009–584, required the Comptroller General to conduct a study on the implementation and effectiveness of the expedited removal procedures under subsec. (b)(1) of this section and submit to Congress a report on the study no later than 18 months after Sept. 30, 1996.
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 

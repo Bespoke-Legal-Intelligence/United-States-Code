@@ -16,13 +16,15 @@ Pub. L. 100–204, title XIII, §1301, Dec. 22, 1987, 101 Stat. 1432, provided t
 
 #### Short Title of 2019 Amendment
 
+Pub. L. 116–94, div. J, title VI, §601, Dec. 20, 2019, 133 Stat. 3069, provided that: "This title \[amending section2708 of this title and enacting provisions set out as a note under section 2708 of this title\] may be cited as the 'Rescuing Animals With Rewards Act of 2019' or the 'RAWR Act'."
+
 Pub. L. 115–441, §1, Jan. 14, 2019, 132 Stat. 5586, provided that: "This Act \[amending section 4028 of this title and enacting provisions set out as a note under section 2656 of this title\] may be cited as the 'Elie Wiesel Genocide and Atrocities Prevention Act of 2018'."
 
 #### Short Title of 2018 Amendment
 
 Pub. L. 115–409, §1(a), Dec. 31, 2018, 132 Stat. 5387, provided that: "This Act \[enacting provisions set out as a note preceding section 1971 of this title and as notes under sections 2656, 3301, and 9203 of this title\] may be cited as the 'Asia Reassurance Initiative Act of 2018'."
 
-Pub. L. 115–141, div. R, §1, Mar. 23, 2018, 132 Stat. 1123, provided that: "This division \[amending section 2708 ofthis title and enacting provisions set out as a note under section 2708 of this title\] may be cited as the 'Targeted Rewards for the Global Eradication of Human Trafficking' or the 'TARGET Act'."
+Pub. L. 115–141, div. R, §1, Mar. 23, 2018, 132 Stat. 1123, provided that: "This division \[amending section 2708 of this title and enacting provisions set out as a note under section 2708 of this title\] may be cited as the 'Targeted Rewards for the Global Eradication of Human Trafficking' or the 'TARGET Act'."
 
 #### Short Title of 2017 Amendment
 
@@ -68,11 +70,11 @@ Pub. L. 101–246, §1(a), Feb. 16, 1990, 104 Stat. 15, provided that: "This Act
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–204, §1(a), Dec. 22, 1987, 101 Stat. 1331, provided that: "This Act \[enacting sections 288f–3, 1464, 2656f, 2664a, 2713, 4069a to 4069c, 4315, 4316, 4341 to 4343, and 5201 to 5203 of this title, amending sections 288h, 290j–1, 1469, 1471, 1475e, 1477c, 1627, 1928a, 1928b, 2151n, 2291, 2304, 2460, 2661, 2670, 2697, 2706, 2707, 2778, 2877, 3905, 3922a, 3927, 3941, 3942, 3946, 3949, 3961, 3965, 4001, 4010, 4023, 4137, 4173, 4302, 4303, 4305, 4403, 4412, 4413, 4831, 4834, 4851, 4861, and 4904 of this title, sections 5313, 5315, and 8332 of Title 5, Government Organization and Employees, section 1182 of Title 8, Aliens and Nationality, sections 2492 and 2605 of Title 19, Customs Duties, and section 1364 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section, sections 287, 287e, 1461, 1463, 1471, 2601, 2656, 2680, 2697, 2707, 3922a, 3941 to 3943, 3946, 3965, 4041, 4301, 4315, 4316, 4341, 4802, 4851, and 5201 of this title, section 112b of Title 1, General Provisions, section 5313 of Title 5, sections 1182, 1201, and 1255a of Title 8, section 2901 of Title 15, Commerce and Trade, section 3181 of Title 18, Crimes and Criminal Procedure, section 2605 of Title 19, and section 1364 of Title 28, and amending provisions set out as notes under this section and sections 287, 287b, 287e, and 4021 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Years 1988 and 1989'."
+Pub. L. 100–204, §1(a), Dec. 22, 1987, 101 Stat. 1331, provided that: "This Act \[enacting sections 288f–3, 1464, 2656f, 2664a, 2713, 4069a to 4069c, 4315, 4316, 4341 to 4343, and 5201 to 5203 of this title, amending sections 288h, 290j–1, 1469, 1471, 1475e, 1477c, 1627, 1928a, 1928b, 2151n, 2291, 2304, 2460, 2661, 2670, 2697, 2706, 2707, 2778, 2877, 3905, 3922a, 3927, 3941, 3942, 3946, 3949, 3961, 3965, 4001, 4010, 4023, 4137, 4173, 4302, 4303, 4305, 4403, 4412, 4413, 4831, 4834, 4851, 4861, and 4904 of this title, sections 5313, 5315, and 8332 of Title 5, Government Organization and Employees, section 1182 of Title 8, Aliens and Nationality, sections 2492 and 2605 of Title 19, Customs Duties, and section 1364 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section, sections 287, 287e, 1461, 1463, 1471, 2601, 2656, 2680, 2697, 2707, 3922a, 3941 to 3943, 3946, 3965, 4041, 4301, 4315, 4316, 4341, 4802, 4851, and 5201 of this title, section 112b of Title 1, General Provisions, section 5313 of Title 5, sections 1182, 1201, and 1255a of Title 8, section 2901 of Title 15, Commerce and Trade, section 3181 of Title 18,Crimes and Criminal Procedure, section 2605 of Title 19, and section 1364 of Title 28, and amending provisions set out as notes under this section and sections 287, 287b, 287e, and 4021 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Years 1988 and 1989'."
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–93, §1(a), Aug. 16, 1985, 99 Stat. 405, provided that: "This Act \[enacting sections 1461–1a, 2592, 2606, 2709, 2710, 2883, 3922a, 3929a, 4309a, 4314, 4414, 4415, and 4701 to 4715 of this title, amending sections 290j–1, 1477c, 2357, 2589, 2601, 2605, 2652, 2669, 2685, 2704, 2871, 2875, 2877, 3930, 3945, 4084, 4301, 4302, 4304, 4305, 4403, and 4413 of this title, section 208 of Title 3, The President, sections 5314, 5315, and 5316 of Title 5, Government Organization and Employees, sections 2 and 11 of the Appendix to Title 5, and sections 1622 and 4336 of Title 50, Warand National Defense, repealing sections 2666 and 2667 of this title, enacting provisions set out as notes under sections 287e, 1477c, 1928, 2291, 2605, 2656, 2669, 2697, 2875, 2877, 3943, 3945, 4021, and 4314 of this title, section 1182 of Title 8, Aliens and Nationality, section 3181 of Title 18, Crimes and Criminal Procedure, section 701 of Title 47, Telecommunications, and section 1701 of Title 50, amending provisions set out as notes under this section and sections 287 and 287e of this title, and repealing provisions set out as a note under section 3901 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Years 1986 and 1987'."
+Pub. L. 99–93, §1(a), Aug. 16, 1985, 99 Stat. 405, provided that: "This Act \[enacting sections 1461–1a, 2592, 2606, 2709, 2710, 2883, 3922a, 3929a, 4309a, 4314, 4414, 4415, and 4701 to 4715 of this title, amending sections 290j–1, 1477c, 2357, 2589, 2601, 2605, 2652, 2669, 2685, 2704, 2871, 2875, 2877, 3930, 3945, 4084, 4301, 4302, 4304, 4305, 4403, and 4413 of this title, section 208 of Title 3, The President, sections 5314, 5315, and 5316 of Title 5, Government Organization and Employees, sections 2 and 11 of the Appendix to Title 5, and sections 1622 and 4336 of Title 50, War and National Defense, repealing sections 2666 and 2667 of this title, enacting provisions set out as notes under sections 287e, 1477c, 1928, 2291, 2605, 2656, 2669, 2697, 2875, 2877, 3943, 3945, 4021, and 4314 of this title, section 1182 of Title 8, Aliens and Nationality, section 3181 of Title 18, Crimes and Criminal Procedure, section 701 of Title 47, Telecommunications, and section 1701 of Title 50, amending provisions set out as notes under this section and sections 287 and 287e of this title, and repealing provisions set out as a note under section 3901 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Years 1986 and 1987'."
 
 #### Short Title of 1976 Amendment
 
@@ -107,6 +109,10 @@ For assignment of certain emergency preparedness functions to Secretary of State
 #### Order of Succession
 
 For order of succession during any period when both Secretary and Deputy Secretary of State are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13251, Dec. 28, 2001, 67 F.R. 1599, listed in a table under section 3345 of Title 5, Government Organization and Employees.
+
+#### References to Diplomatic and Consular Programs Account
+
+Pub. L. 116–94, div. G, title I, par. (7), Dec. 20, 2019, 133 Stat. 2817, provided that: "References to the 'Diplomatic and Consular Programs' account in any provision of law shall in this fiscal year, and each fiscal year thereafter, be construed to include the 'Diplomatic Programs' account."
 
 #### Compliance With Congressional Budget Act
 
@@ -158,7 +164,7 @@ Foreign service.—The term 'Foreign Service' has the meaning given such term in
 
 &emsp;"(4)
 
-Inspector general.—Unless otherwise specified, the term 'Inspector General' means the Office of Inspector General of the Department of State and the Broadcasting Board of Governors.
+Inspector general.—Unless otherwise specified, the term 'Inspector General' means the Office of Inspector General of the Department of State and the Broadcasting Board of Governors \[now United States Agency for Global Media\].
 
 &emsp;"(5)
 

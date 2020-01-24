@@ -44,7 +44,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (C) Admissions
 
-&emsp;&emsp;Nothing in this section shall be construed as authorizing an alien to apply for admission to, or to be admitted to, the United States in order to apply for adjustment of status under this subsection.
+&emsp;&emsp;Nothing in this section shall be construed as authorizing an alien to apply for admission to, or to be admitted to, the UnitedStates in order to apply for adjustment of status under this subsection.
 
 #### (4) Admissible as immigrant
 
@@ -126,7 +126,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (B) Authorization of employment
 
-&emsp;&emsp;The Attorney General shall grant the alien authorization to engage in employment in the United States and provide to that alien an "employment authorized" endorsement or other appropriate work permit.
+&emsp;&emsp;The Attorney General shall grant the alien authorization to engage in employment inthe United States and provide to that alien an "employment authorized" endorsement or other appropriate work permit.
 
 #### (c) Applications for adjustment of status
 
@@ -202,7 +202,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (B) Use of fees
 
-&emsp;&emsp;The Attorney General shall deposit payments received under this paragraph in a separate account and amounts in such account shall be available, without fiscal year limitation, to cover administrative andother expenses incurred in connection with the review of applications filed under this section.
+&emsp;&emsp;The Attorney General shall deposit payments received under this paragraph in a separate account and amounts in such account shall be available, without fiscal year limitation, to cover administrative and other expenses incurred in connection with the review of applications filed under this section.
 
 #### (C) Immigration-related unfair employment practices
 
@@ -420,7 +420,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(H) The Public Health Service Act \[42 U.S.C. 201 et seq.\].
 
-&emsp;&emsp;(I) Titles V, XVI, and XX \[42 U.S.C. 701 et seq., 1381 et seq., 1397 et seq.\], and parts B, D, and E of title IV \[42 U.S.C. 620 et seq., 651 et seq., 670 et seq.\], of the Social Security Act (and titles I, X, XIV, and XVI of such Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972).
+&emsp;&emsp;(I) Titles V, XVI, and XX \[42 U.S.C. 701 et seq., 1381 et seq., 1397 et seq.\], and parts B, D, and E of title IV \[42 U.S.C. 620 et seq., 651 et seq., 670 et seq.\], of the Social Security Act (and titles I, X, XIV, and XVI of such Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] as in effect without regard tothe amendment made by section 301 of the Social Security Amendments of 1972).
 
 #### (5) Adjustment not affecting Fascell-Stone benefits
 
@@ -464,7 +464,7 @@ The Headstart-Follow Through Act, referred to in subsec. (h)(4)(E), is title V o
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (h)(4)(F), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (h)(4)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (h)(4)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generallyto subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Public Health Service Act, referred to in subsec. (h)(4)(H), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -474,7 +474,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 1255a, Pub. L. 85–316, §9, Sept. 11, 1957, 71 Stat. 641, provided for adjustment of status of certain resident aliens to that of a person admitted for permanent residence, the recording by Attorney General of alien's lawful admission for permanent residence, and for granting of nonquota status to spouse and children, prior to repeal, eff. 180 days after Sept. 26,1961, by Pub. L. 87–301, §24(a)(5), (b), Sept. 26, 1961, 75 Stat. 657.
+A prior section 1255a, Pub. L. 85–316, §9, Sept. 11, 1957, 71 Stat. 641, provided for adjustment of status of certain resident aliens to that of a person admitted for permanent residence, the recording by Attorney General of alien's lawful admission for permanent residence, and for granting of nonquota status to spouse and children, prior to repeal, eff. 180 days after Sept. 26, 1961, by Pub. L. 87–301, §24(a)(5), (b), Sept. 26, 1961, 75 Stat. 657.
 
 #### Amendments
 
@@ -606,15 +606,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Report on Citizenship of Certain Legalized Aliens
 
-Pub. L. 103–416, title I, §109, Oct. 25, 1994, 108 Stat. 4310, provided that: "Not later than June 30, 1996, the Commissioner of the Immigration and Naturalization Service shall prepare and submit to the Congress a report concerning the citizenship status of aliens legalized under section 245A and section 210 of the Immigration and Nationality Act \[8 U.S.C. 1255a, 1160\]. Such report shall include the following information by district office for each national origin group:
-
-&emsp;"(1) The number of applications for citizenship filed.
-
-&emsp;"(2) The number of applications approved.
-
-&emsp;"(3) The number of applications denied.
-
-&emsp;"(4) The number of applications pending."
+Pub. L. 103–416, title I, §109, Oct. 25, 1994, 108 Stat. 4310, provided that not later than June 30, 1996, the Commissioner of the Immigration and Naturalization Service was to prepare and submit to the Congress a report concerning the citizenship status of aliens legalized under this section and section 1160 of this title.
 
 #### Family Unity
 
@@ -728,33 +720,7 @@ Pub. L. 99–603, title III, §303(c), Nov. 6, 1986, 100 Stat. 3431, defined "el
 
 #### Reports on Legalization Program
 
-Pub. L. 99–603, title IV, §404, Nov. 6, 1986, 100 Stat. 3442, provided that:
-
-"(a)
-
-In General.—The President shall transmit to Congress two reports on the legalization program established under section 245A of the Immigration and Nationality Act \[8 U.S.C. 1255a\].
-
-"(b)
-
-Initial Report Describing Legalized Aliens.—The first report, which shall be transmitted not later than 18 months after the end of the application period for adjustment to lawful temporary residence status under the program, shall include a description of the population whose status is legalized under the program, including—
-
-&emsp;"(1) geographical origins and manner of entry of these aliens into the United States,
-
-&emsp;"(2) their demographic characteristics, and
-
-&emsp;"(3) a general profile and characteristics.
-
-"(c)
-
-Second Report on Impact of Legalization Program.—The second report, which shall be transmitted not later than three years after the date of transmittal of the first report, shall include a description of—
-
-&emsp;"(1) the impact of the program on State and local governments and on public health and medical needs of individuals in the different regions of the United States,
-
-&emsp;"(2) the patterns of employment of the legalized population, and
-
-&emsp;"(3) the participation of legalized aliens in social service programs."
-
-\[Functions of President under section 404 of Pub. L. 99–603 relating to initial report described in section 404(b) delegated to Secretary of Homeland Security and relating to second report described in section 404(c) delegated to Secretary of Labor by sections 1(c) and 2(c) of Ex. Ord. No. 12789, Feb. 10, 1992, 57 F.R. 5225, set out as a note under section 1364 of this title.\]
+Pub. L. 99–603, title IV, §404, Nov. 6, 1986, 100 Stat. 3442, provided that the President would transmit to Congress two reports on the legalization program established under this section, one describing legalized aliens and the second on the impact on State and local government, employment, and social welfare and medical needs.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

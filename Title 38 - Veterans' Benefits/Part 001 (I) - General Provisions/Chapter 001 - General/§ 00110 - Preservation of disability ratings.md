@@ -6,11 +6,11 @@ A rating of total disability or permanent total disability which has been made f
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–83 substituted "Secretary" for "Administrator" and substituted "administered by the Secretary" for "administered by the Veterans' Administration" in two places.
+<b>1991</b>—Pub. L. 102–83 substituted "Secretary" for "Administrator" and substituted "administered by theSecretary" for "administered by the Veterans' Administration" in two places.
 
 <b>1969</b>—Pub. L. 91–32 substituted "evaluation" for "percentage" wherever appearing.
 
-<b>1964</b>—Pub. L. 88–445 substituted "Preservation of disability ratings" for "Preservation of total disabilityratings" in section catchline, and inserted sentence directing that a disability which has been continuously rated at or above any percentage for twenty or more years for compensation purposes shall not thereafter be rated at less than such percentage, except upon a showing that such rating was based on fraud.
+<b>1964</b>—Pub. L. 88–445 substituted "Preservation of disability ratings" for "Preservation of total disability ratings" in section catchline, and inserted sentence directing that a disability which has been continuously rated at or above any percentage for twenty or more years for compensation purposes shall not thereafter be rated at less than such percentage, except upon a showing that such rating was based on fraud.
 
 <b>1962</b>—Pub. L. 87–825 provided for computation of the period from the date the Administrator determines as the date the status commenced for rating purposes.
 

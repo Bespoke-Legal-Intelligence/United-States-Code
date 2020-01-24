@@ -68,7 +68,7 @@ Subsec. (b). Pub. L. 99–198, §1422(b), substituted "$270,000,000 for the fisc
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–98, §1437(1), inserted provisions authorizing appropriations of $780,000,000 for fiscal year ending Sept. 30, 1983, $835,000,000 for fiscal year ending Sept. 30, 1984, and $890,000,000 for fiscal year ending Sept. 30, 1985.
 
-Subsec. (b). Pub. L. 97–98, §1437(2), inserted provisions authorizing appropriations of $230,000,000 for fiscal year ending Sept. 30, 1983, $240,000,000 for fiscal year ending Sept. 30, 1984, and $250,000,000 for fiscal year ending Sept. 30, 1985.
+Subsec. (b). Pub. L. 97–98, §1437(2), inserted provisions authorizing appropriations of $230,000,000 for fiscal year ending Sept. 30, 1983, $240,000,000 for fiscal year endingSept. 30, 1984, and $250,000,000 for fiscal year ending Sept. 30, 1985.
 
 Subsec. (c). Pub. L. 97–98, §1437(3), added subsec. (c).
 

@@ -18,7 +18,7 @@ If the Board of Governors determines that a bank holding company with total cons
 
 #### (1) In general
 
-&emsp;The Board of Governors, in consultation with the Council, shall provide to a companydescribed in subsection (a) written notice that such company is being considered for mitigatory action pursuant to this section, including an explanation of the basis for, and description of, the proposed mitigatory action.
+&emsp;The Board of Governors, in consultation with the Council, shall provide to a company described in subsection (a) written notice that such company is being considered for mitigatory action pursuant to this section, including an explanation of the basis for, and description of, the proposed mitigatory action.
 
 #### (2) Hearing
 
@@ -41,10 +41,6 @@ The Board of Governors may prescribe regulations regarding the application of th
 &emsp;(2) taking into account the extent to which the foreign nonbank financial company or foreign-based bank holding company is subject on a consolidated basis to home country standards that are comparable to those applied to financial companies in the United States.
 
 (Pub. L. 111–203, title I, §121, July 21, 2010, 124 Stat. 1410; Pub. L. 115–174, title IV, §401(c)(1)(C), May 24, 2018, 132 Stat. 1358.)
-
-#### Delayed Effective Date of Amendment
-
-<i>For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under section 5365 of this title.</i>
 
 #### Amendments
 

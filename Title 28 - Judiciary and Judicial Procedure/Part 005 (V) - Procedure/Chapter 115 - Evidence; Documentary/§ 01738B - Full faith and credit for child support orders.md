@@ -84,7 +84,7 @@ Recognition of Child Support Orders.—If 1 or more child support orders have be
 
 &emsp;(1) If only 1 court has issued a child support order, the order of that court must be recognized.
 
-&emsp;(2) If 2 or more courts have issued child support orders for the same obligor and child, and only 1 of the courts would have continuing, exclusive jurisdiction under this section, the order of that court must be recognized.
+&emsp;(2) If 2 or more courts have issued child support orders for the same obligor and child, andonly 1 of the courts would have continuing, exclusive jurisdiction under this section, the order of that court must be recognized.
 
 &emsp;(3) If 2 or more courts have issued child support orders for the same obligor and child, and more than 1 of the courts would have continuing, exclusive jurisdiction under this section, an order issued by a court in the current home State of the child must be recognized, but if an order has not been issued in the current home State of the child, the order most recently issued must be recognized.
 
@@ -172,7 +172,7 @@ Amendment by Pub. L. 105–33 effective as if included in enactment of title III
 
 #### Effective Date of 1996 Amendment
 
-For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42, The Public Health and Welfare.
+For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a noteunder section 654 of Title 42, The Public Health and Welfare.
 
 #### Congressional Findings and Declaration of Purpose
 

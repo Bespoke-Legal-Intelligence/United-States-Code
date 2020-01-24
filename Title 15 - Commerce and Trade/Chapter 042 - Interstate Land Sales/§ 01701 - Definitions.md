@@ -58,5 +58,5 @@ Pub. L. 90–448, title XIV, §1423, formerly §1422, Aug. 1, 1968, 82 Stat. 599
 
 #### Short Title
 
-Pub. L. 90–448, title XIV, §1401, Aug. 1, 1968, 82 Stat. 590, provided that: "This title \[enacting this chapter\]may be cited as the 'Interstate Land Sales Full Disclosure Act'."
+Pub. L. 90–448, title XIV, §1401, Aug. 1, 1968, 82 Stat. 590, provided that: "This title \[enacting this chapter\] may be cited as the 'Interstate Land Sales Full Disclosure Act'."
 

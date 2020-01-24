@@ -6,9 +6,9 @@ For the purpose of this subchapter, "agency", "Senior Executive Service position
 
 #### Prior Provisions
 
-A prior section 3391, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 1056, which related to definitions for part-time career employment opportunities, was renumbered as section 3401 of this title by Pub. L. 95–454, title IX, §906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.
+A prior section 3391, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 1056, which related to definitions forpart-time career employment opportunities, was renumbered as section 3401 of this title by Pub. L. 95–454, title IX, §906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.
 
 #### Effective Date
 
-Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 

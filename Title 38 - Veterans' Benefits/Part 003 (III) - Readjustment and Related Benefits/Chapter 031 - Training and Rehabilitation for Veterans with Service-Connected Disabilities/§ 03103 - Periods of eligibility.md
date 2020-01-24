@@ -12,7 +12,7 @@
 
 > the twelve-year period of eligibility shall not run during the period of time that such veteran was so prevented from participating in such a program.
 
-(3) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because such veteran had not established the existence of a service-connected disability rated at 10 percent or more, the twelve-year period of eligibility shall not run during the period such veteran was so prevented from participating in such a program.
+(3) In any case in which the Secretary determines that a veteran has been prevented fromparticipating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because such veteran had not established the existence of a service-connected disability rated at 10 percent or more, the twelve-year period of eligibility shall not run during the period such veteran was so prevented from participating in such a program.
 
 (c) In any case in which the Secretary determines that a veteran is in need of services to overcome a serious employment handicap, such veteran may be afforded a vocational rehabilitation program after the expiration of the period of eligibility otherwise applicable to such veteran if the Secretary also determines, on the basis of such veteran's current employment handicap and need for such services, that an extension of the applicable period of eligibility is necessary for such veteran and—
 

@@ -84,7 +84,7 @@ In filing a loan for enrollment under the Program, the participating financial i
 
 #### (j) State contributions
 
-In enrolling a loan under the Program, the participating State shall contribute to the reserve fund an amount, as provided for in the participation agreement, which shall not be less than the sum of the amount of premium charges paid by the borrower and the participating financial institution.
+In enrolling a loan under the Program, the participating State shall contribute to the reserve fund an amount, as provided for in the participation agreement, which shall not be lessthan the sum of the amount of premium charges paid by the borrower and the participating financial institution.
 
 #### (k) Submission of claims
 
@@ -116,7 +116,7 @@ A claim filed by a participating financial institution may include the amount of
 
 &emsp;&emsp;(A) is not an early loan, such payment shall be deemed fully to satisfy the claim, and the participating financial institution shall have no other or further right to receive any amount from the reserve fund with respect to such claim; or
 
-&emsp;&emsp;(B) is an early loan, such payment shall not be deemed fully to satisfy the claim of the participating financial institution, and at such time as the remaining balance of the claim does not exceed 75 percent of the balance in the reserve fund, the participatingState shall, upon the request of the participating financial institution, pay any remaining amount of the claim.
+&emsp;&emsp;(B) is an early loan, such payment shall not be deemed fully to satisfy the claim of the participating financial institution, and at such time as the remaining balance of the claim does not exceed 75 percent of the balance in the reserve fund, the participating State shall, upon the request of the participating financial institution, pay any remaining amount of the claim.
 
 #### (n) Denial of claims
 
@@ -156,7 +156,7 @@ If, subsequent to payment of a claim by the participating State, a participating
 
 &emsp;&emsp;&emsp;(iii) additional or new financing is extended by the participating financial institution as part of the refinancing,
 
-> &emsp;&emsp;the participating financial institution may file the loan for enrollment, with the amount to be covered under the Program not to exceed the amount of any additional or new financing; and
+> &emsp;&emsp;the participating financial institution may file the loan for enrollment, with theamount to be covered under the Program not to exceed the amount of any additional or new financing; and
 
 &emsp;&emsp;(D) may include additional restrictions on the eligibility of loans or borrowers that are not inconsistent with the provisions and purposes of this subchapter.
 
@@ -184,7 +184,7 @@ The participation agreement may provide that, if, for any consecutive period of 
 
 #### (2) Payment of post-withdrawal claims
 
-&emsp;After any withdrawal of assets from the reserve fund pursuant to paragraph (1)(B), any future claims filed by the participating financial institution on loans remaining in its capital access program portfolio shall only be paid from funds remaining in the reserve fund to the extent that, in the aggregate, such claims exceed the sum of the amount of such withdrawn assets, and interest on thatamount, imputed at the same rate as income would have accrued had the amount not been withdrawn.
+&emsp;After any withdrawal of assets from the reserve fund pursuant to paragraph (1)(B), any future claims filed by the participating financial institution on loans remaining in its capital access program portfolio shall only be paid from funds remaining in the reserve fund to the extent that, in the aggregate, such claims exceed the sum of the amount of such withdrawn assets, and interest on that amount, imputed at the same rate as income would have accrued had the amount not been withdrawn.
 
 #### (3) Conditions for terminating special authority
 

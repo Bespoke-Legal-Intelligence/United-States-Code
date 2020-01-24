@@ -2,7 +2,7 @@
 
 #### (a) Period of registration
 
-(1) Every person who manufactures or distributes any controlled substance or list I chemical, or who proposes to engage in the manufacture or distribution of any controlled substance or list I chemical, shall obtain annually a registration issued by the Attorney General in accordance with the rules and regulations promulgated by him.
+(1) Every person who manufactures or distributes any controlled substance or list I chemical, or who proposes to engage in the manufacture or distribution of any controlled substance or list I chemical, shall obtain annually a registration issued by the Attorney General in accordancewith the rules and regulations promulgated by him.
 
 (2) Every person who dispenses, or who proposes to dispense, any controlled substance, shall obtain from the Attorney General a registration issued in accordance with the rules and regulations promulgated by him. The Attorney General shall, by regulation, determine the period of such registrations. In no event, however, shall such registrations be issued for less than one year nor for more than three years.
 
@@ -158,7 +158,7 @@ Pub. L. 111–273, §2, Oct. 12, 2010, 124 Stat. 2858, provided that: "Congress 
 
 &emsp;&emsp;"(C) responsible adults are in a unique position to reduce teen access to prescription drugs because the drugs often are found in the home.
 
-&emsp;"(4)(A) Many State and local law enforcement agencies have established drug disposal programs (often called 'take-back' programs) to facilitate the collection and destruction of unused, unwanted, or expired medications. These programs help get outdated or unused medications off household shelves and out of the reach of children and teenagers.
+&emsp;"(4)(A) Many State and local law enforcement agencies have established drug disposal programs (oftencalled 'take-back' programs) to facilitate the collection and destruction of unused, unwanted, or expired medications. These programs help get outdated or unused medications off household shelves and out of the reach of children and teenagers.
 
 &emsp;"(B) However, take-back programs often cannot dispose of the most dangerous pharmaceutical drugs—controlled substance medications—because Federal law does not permit take-back programs to accept controlled substances unless they get specific permission from the Drug Enforcement Administration and arrange for full-time law enforcement officers to receive the controlled substances directly from the member of the public who seeks to dispose of them.
 

@@ -66,11 +66,11 @@ Of the funds appropriated by this Act under the headings in title II of this Act
 
 &emsp;(4) Not less than $25,000,000 of the funds appropriated for the Development Assistance Fund shall be made available for the Office of Energy of the Agency for International Development; and
 
-&emsp;(5) Up to $50,000,000 of the funds appropriated to carry out the provisions of chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\] may be made available to carry out the "Forests for the Future Initiative" and to achieve a Global Forest Agreement.
+&emsp;(5) Up to $50,000,000 of the funds appropriated to carry out the provisions of chapter 4 of part II of the Foreign Assistance Act of 1961 \[22U.S.C. 2346 et seq.\] may be made available to carry out the "Forests for the Future Initiative" and to achieve a Global Forest Agreement.
 
 #### (f) International development and economic support
 
-Of the funds appropriated by this Act to carry out the provisions of part I and chapter 4 of partII of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.; 2346 et seq.\], the Agency for International Development should, to the extent feasible and inclusive of funds earmarked under subsection (e) of this section, target assistance for the following activities:
+Of the funds appropriated by this Act to carry out the provisions of part I and chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.; 2346 et seq.\], the Agency for International Development should, to the extent feasible and inclusive of funds earmarked under subsection (e) of this section, target assistance for the following activities:
 
 &emsp;(1) $50,000,000 for projects associated with the Global Environment Facility;
 

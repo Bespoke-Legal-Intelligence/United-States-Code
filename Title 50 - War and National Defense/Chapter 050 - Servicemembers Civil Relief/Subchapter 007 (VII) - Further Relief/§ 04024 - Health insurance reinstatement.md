@@ -30,7 +30,7 @@ An application under this section must be filed not later than 120 days after th
 
 #### (1) Premium protection
 
-&emsp;The amount of the premium for health insurance coverage that was terminated by aservicemember and required to be reinstated under subsection (a) may not be increased, for the balance of the period for which coverage would have been continued had the coverage not been terminated, to an amount greater than the amount chargeable for such coverage before the termination.
+&emsp;The amount of the premium for health insurance coverage that was terminated by a servicemember and required to be reinstated under subsection (a) may not be increased, for the balance of the period for which coverage would have been continued had the coverage not been terminated, to an amount greater than the amount chargeable for such coverage before the termination.
 
 #### (2) Increases of general applicability not precluded
 

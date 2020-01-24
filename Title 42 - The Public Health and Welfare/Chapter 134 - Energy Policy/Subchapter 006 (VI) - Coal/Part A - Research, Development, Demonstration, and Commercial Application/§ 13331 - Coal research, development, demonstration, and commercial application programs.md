@@ -8,7 +8,7 @@ The Secretary shall, in accordance with section <sup>1</sup> 13541 and 13542 of
 
 &emsp;(2) complying with applicable environmental requirements;
 
-&emsp;(3) achieving the control of sulfur oxides, oxides of nitrogen, air toxics, solid and liquid wastes, greenhouse gases, or other emissions resulting from coal use or conversion at levels of proficiency greater than or equal to applicable currently available commercial technology;
+&emsp;(3) achieving the control of sulfur oxides, oxides of nitrogen, air toxics, solid and liquidwastes, greenhouse gases, or other emissions resulting from coal use or conversion at levels of proficiency greater than or equal to applicable currently available commercial technology;
 
 &emsp;(4) achieving the cost competitive conversion of coal into energy forms usable in the transportation sector;
 
@@ -72,7 +72,7 @@ Within 240 days after October 24, 1992, the Secretary shall transmit to the Comm
 
 #### (d) Status reports
 
-Within one year after transmittal of the report described in subsection (c), and every 2 years thereafter for a period of 6 years, the Secretary shall transmit to the Congress a report that provides a detailed description of the status of development of the advanced coal-based technologies and the research, development, demonstration, and commercial application activities undertaken to carry out the programs required by this part.
+Within one year after transmittal of the report described in subsection (c), and every 2 years thereafter for a period of 6 years, the Secretary shall transmit to the Congress a report that provides a detailed description of the statusof development of the advanced coal-based technologies and the research, development, demonstration, and commercial application activities undertaken to carry out the programs required by this part.
 
 #### (e) Consultation
 
@@ -86,7 +86,7 @@ Public Law 98–473, referred to in subsec. (c)(4), is Pub. L. 98–473, Oct. 12
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, andjurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

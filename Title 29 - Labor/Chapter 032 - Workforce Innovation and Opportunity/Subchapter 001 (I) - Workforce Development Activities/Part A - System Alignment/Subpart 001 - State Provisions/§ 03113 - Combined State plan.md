@@ -76,7 +76,7 @@
 
 #### (4) Special rule
 
-&emsp;In paragraph (3), the term "criteria for approval of a plan or application", with respect to a State and a core program or a program under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), includes a requirement for agreement between the State and the appropriate Secretaries regarding State performance measures or State performance accountability measures, as the case may be, including levels of performance.
+&emsp;In paragraph (3), the term "criteria for approval of a plan or application", with respectto a State and a core program or a program under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), includes a requirement for agreement between the State and the appropriate Secretaries regarding State performance measures or State performance accountability measures, as the case may be, including levels of performance.
 
 #### (d) Appropriate Secretary
 

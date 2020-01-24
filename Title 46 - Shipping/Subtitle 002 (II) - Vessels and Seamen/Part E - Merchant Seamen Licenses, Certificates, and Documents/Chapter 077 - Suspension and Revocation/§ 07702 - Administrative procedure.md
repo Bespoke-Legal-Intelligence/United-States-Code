@@ -2,7 +2,7 @@
 
 (a) Sections 551–559 of title 5 apply to each hearing under this chapter about suspending or revoking a license, certificate of registry, or merchant mariner's document.
 
-(b) The individual whose license, certificate of registry, or merchant mariner's document has been suspended or revoked under this chapter may appeal, within 30 days, the suspension or revocation to the Secretary.
+(b) The individual whose license, certificate of registry, or merchant mariner's document hasbeen suspended or revoked under this chapter may appeal, within 30 days, the suspension or revocation to the Secretary.
 
 (c)(1) The Secretary shall request a holder of a license, certificate of registry, or merchant mariner's document to make available to the Secretary, under section 30305(b)(7) of title 49, all information contained in the National Driver Register related to an offense described in section 205(a)(3)(A) or (B) of that Act <sup>1</sup> committed by the individual.
 

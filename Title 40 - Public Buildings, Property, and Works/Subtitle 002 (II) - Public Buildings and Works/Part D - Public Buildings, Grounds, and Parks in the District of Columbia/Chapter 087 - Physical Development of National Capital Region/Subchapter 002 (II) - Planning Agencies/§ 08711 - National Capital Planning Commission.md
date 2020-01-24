@@ -40,7 +40,7 @@ Personnel.—The National Capital Planning Commission may employ a Director, an 
 
 Principal Duties.—The principal duties of the National Capital Planning Commission include—
 
-&emsp;(1) preparing, adopting, and amending a comprehensive plan for the federal activitiesin the National Capital and making related recommendations to the appropriate developmental agencies; and
+&emsp;(1) preparing, adopting, and amending a comprehensive plan for the federal activities in the National Capital and making related recommendations to the appropriate developmental agencies; and
 
 &emsp;(2) serving as the central planning agency for the Government within the National Capital region and reviewing the development programs of the developmental agencies to advise as to consistency with the comprehensive plan.
 
@@ -104,7 +104,7 @@ June 6, 1924, ch. 270, §13, formerly §4, 43 Stat. 464; renumbered §13, July 1
 
 Pub. L. 105–83, (last proviso in par. under heading "National Capital Planning Commission"), Nov. 14, 1997, 111 Stat. 1589.
 
-In this chapter, the word "Mayor" is substituted for "Commissioners" \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to "Commissioner" \[meaning the Commissioner of the District of Columbia\] because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Nov. 3, 1967, 81 Stat. 951)\] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789). The words "Council of the District of Columbia" are substituted for "Board of Commissioners of the District of Columbia" \[subsequently changed to "District of Columbia Council" because of section 402(21), (28), (32), and (199) of Reorganization Plan No. 3 of 1967 (eff. Nov. 3, 1967, 81 Stat. 952, 953, 963)\] because of sections 401 and 404(a) of the Act (87 Stat. 785, 787).
+In this chapter, the word "Mayor" is substituted for "Commissioners" \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to "Commissioner" \[meaning the Commissioner of the District of Columbia\] because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Nov. 3, 1967, 81 Stat. 951)\] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789). The words "Council of the District of Columbia" are substituted for "Board of Commissioners of the District of Columbia" \[subsequently changed to "District of Columbia Council" because of section 402(21), (28),\(32), and (199) of Reorganization Plan No. 3 of 1967 (eff. Nov. 3, 1967, 81 Stat. 952, 953, 963)\] because of sections 401 and 404(a) of the Act (87 Stat. 785, 787).
 
 In subsection (b)(1)(A), the words "the Chairman of the Committee on Governmental Affairs of the Senate, and the Chairman of the Committee on Government Reform of the House of Representatives" are substituted for "and the chairman of the Committees of the District of Columbia of the Senate and the House of Representatives" in section 2(b)(1) of the Act of June 24, 1924 (ch. 270), because of Rule XXV of the Standing Rules of the Senate, as amended by Senate Resolution 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved February 4, 1977, section 1(b)(1) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.), and Rule X(1)(h) of House Resolution No. 5 (105th Congress, January 6, 1999).
 
@@ -128,7 +128,7 @@ In subsection (h), the words "beginning in fiscal year 1998 and thereafter" are 
 
 Act of March 2, 1893, referred to in subsec. (f), is act Mar. 2, 1893, ch. 197, 27 Stat. 532, as amended, which is not classified to the Code.
 
-Act of June 6, 1924, referred to in subsec. (f), is act June 6, 1924, ch. 270, 43 Stat. 463, as amended, which enacted sections 71 to 71i, 72, 73, and 74 of former Title 40, Public Buildings, Property, and Works. Sections 71, 71a, 71c, 71d, 71f to 71i, 72, 73, and 74 of former Title 40 were repealed and reenacted as sections 8701, 8702, 8711, 8721 to 8724, 8731, and 8737 of this title by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 71b offormer Title 40 was repealed by Pub. L. 107–217. Section 71e of former Title 40 was repealed by Pub. L. 93–198, title II, §203(e), Dec. 24, 1973, 87 Stat. 782. For complete classification of this Act to the Code, see Tables.
+Act of June 6, 1924, referred to in subsec. (f), is act June 6, 1924, ch. 270, 43 Stat. 463, as amended, which enacted sections 71 to 71i, 72, 73, and 74 of former Title 40, Public Buildings, Property, and Works. Sections 71, 71a, 71c, 71d, 71f to 71i, 72, 73, and 74 of former Title 40 were repealed and reenacted as sections 8701, 8702, 8711, 8721 to 8724, 8731, and 8737 of this title by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 71b of former Title 40 was repealed by Pub. L. 107–217. Section 71e of former Title 40 was repealed by Pub. L. 93–198, title II, §203(e), Dec. 24, 1973, 87 Stat. 782. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -140,7 +140,7 @@ Act of June 6, 1924, referred to in subsec. (f), is act June 6, 1924, ch. 270, 4
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Compensation of Appointed Commission Members
 

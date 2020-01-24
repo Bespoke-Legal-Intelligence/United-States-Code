@@ -222,7 +222,7 @@ Table Showing Disposition of All Sections of Former Title 36
 
 4
 
-Rep.
+Prev. Rep.
 
 4a
 
@@ -254,7 +254,7 @@ Rep.
 
 10–12
 
-Rep.
+Prev. Rep.
 
 13
 
@@ -274,7 +274,7 @@ Rep.
 
 17, 17a, 17b
 
-Rep.
+Prev. Rep.
 
 18 (words before "for patriotic")
 
@@ -694,7 +694,7 @@ Elim.
 
 78m
 
-Rep.
+Prev. Rep.
 
 78n
 
@@ -934,7 +934,7 @@ Rep.
 
 126
 
-Rep.
+Prev. Rep.
 
 127
 
@@ -946,7 +946,7 @@ Rep.
 
 129, 130
 
-Rep.
+Prev. Rep.
 
 131
 
@@ -1090,7 +1090,7 @@ Rep.
 
 152
 
-Rep.
+Prev. Rep.
 
 153
 
@@ -1270,7 +1270,7 @@ T. 4 §§4–10
 
 182a–184
 
-Rep.
+Prev. Rep.
 
 185
 
@@ -1386,7 +1386,7 @@ Rep.
 
 235
 
-Rep.
+Prev. Rep.
 
 236 (1st sentence)
 
@@ -1478,7 +1478,7 @@ Rep.
 
 284
 
-Rep.
+Prev. Rep.
 
 285
 
@@ -1578,7 +1578,7 @@ Rep.
 
 349
 
-Rep.
+Prev. Rep.
 
 350
 
@@ -1774,7 +1774,7 @@ Rep.
 
 416
 
-Rep.
+Prev. Rep.
 
 417
 
@@ -1850,7 +1850,7 @@ Rep.
 
 444
 
-Rep.
+Prev. Rep.
 
 445
 
@@ -1910,7 +1910,7 @@ Rep.
 
 475
 
-Rep.
+Prev. Rep.
 
 476
 
@@ -1934,7 +1934,7 @@ Rep.
 
 492
 
-Rep.
+Prev. Rep.
 
 493
 
@@ -1990,7 +1990,7 @@ Elim.
 
 514
 
-Rep.
+Prev. Rep.
 
 515
 
@@ -2058,7 +2058,7 @@ Rep.
 
 545
 
-Rep.
+Prev. Rep.
 
 546
 
@@ -2126,7 +2126,7 @@ Rep.
 
 584
 
-Rep.
+Prev. Rep.
 
 585
 
@@ -2198,7 +2198,7 @@ Rep.
 
 614
 
-Rep.
+Prev. Rep.
 
 615
 
@@ -2262,7 +2262,7 @@ Rep.
 
 644
 
-Rep.
+Prev. Rep.
 
 645
 
@@ -2330,7 +2330,7 @@ Rep.
 
 674
 
-Rep.
+Prev. Rep.
 
 675
 
@@ -2406,7 +2406,7 @@ Rep.
 
 704
 
-Rep.
+Prev. Rep.
 
 705
 
@@ -2454,7 +2454,7 @@ Rep.
 
 726
 
-Rep.
+Prev. Rep.
 
 727
 
@@ -2482,7 +2482,7 @@ Rep.
 
 748
 
-Rep.
+Prev. Rep.
 
 749
 
@@ -2546,7 +2546,7 @@ Rep.
 
 775
 
-Rep.
+Prev. Rep.
 
 776
 
@@ -2622,7 +2622,7 @@ Rep.
 
 804
 
-Rep.
+Prev. Rep.
 
 805
 
@@ -2686,7 +2686,7 @@ Rep.
 
 834
 
-Rep.
+Prev. Rep.
 
 835
 
@@ -2750,7 +2750,7 @@ Rep.
 
 864
 
-Rep.
+Prev. Rep.
 
 865
 
@@ -2818,7 +2818,7 @@ Rep.
 
 894
 
-Rep.
+Prev. Rep.
 
 895
 
@@ -2882,7 +2882,7 @@ Rep.
 
 923
 
-Rep.
+Prev. Rep.
 
 924
 
@@ -2950,7 +2950,7 @@ Rep.
 
 954
 
-Rep.
+Prev. Rep.
 
 955
 
@@ -3026,7 +3026,7 @@ Rep.
 
 984
 
-Rep.
+Prev. Rep.
 
 985
 
@@ -3094,7 +3094,7 @@ Rep.
 
 1015
 
-Rep.
+Prev. Rep.
 
 1016
 
@@ -3170,7 +3170,7 @@ Rep.
 
 1054
 
-Rep.
+Prev. Rep.
 
 1055
 
@@ -4678,7 +4678,7 @@ Rep.
 
 3414
 
-Rep.
+Prev. Rep.
 
 3415
 

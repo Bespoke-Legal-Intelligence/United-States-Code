@@ -76,7 +76,7 @@ Payments to mirror code possessions.—The Secretary of the Treasury shall pay t
 
 &emsp;"(2)
 
-Coordination with credit allowed against united states income taxes.—No credit shall be allowed against United States income taxes for any taxable year under this section to any person to whom a credit is allowed against taxes imposed by the possession by reason of the credit allowed under subsection (a) for such taxable year.
+Coordination with credit allowed against united states income taxes.—No credit shall be allowed against United States income taxes for any taxable year under this section to any person towhom a credit is allowed against taxes imposed by the possession by reason of the credit allowed under subsection (a) for such taxable year.
 
 &emsp;"(3)
 

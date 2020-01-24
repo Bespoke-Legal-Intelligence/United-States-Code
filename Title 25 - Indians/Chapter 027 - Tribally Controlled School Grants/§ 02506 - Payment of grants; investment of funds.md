@@ -12,7 +12,7 @@
 
 #### (2) Excess funding
 
-&emsp;In a case in which the amount provided to a grant recipient under paragraph (1)(A) is in excess of the amount that the recipient is entitled to receive for the academic year involved, the recipient shall return to the Secretary such excess amount not later than 30 days after the final determination that the school was overpaid pursuant to this section. Theamount returned to the Secretary under this paragraph shall be distributed equally to all schools in the system.
+&emsp;In a case in which the amount provided to a grant recipient under paragraph (1)(A) is in excess of the amount that the recipient is entitled to receive for the academic year involved, the recipient shall return to the Secretary such excess amount not later than 30 days after the final determination that the school was overpaid pursuant to this section. The amount returned to the Secretary under this paragraph shall be distributed equally to all schools in the system.
 
 #### (3) Newly funded schools
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(A) invested by the Indian tribe or tribal organization only in obligations of the United States, or in obligations or securities that are guaranteed or insured by the United States, or mutual (or other) funds registered with the Securities and Exchange Commission and which only invest in obligations of the United States, or securities that are guaranteed or insured by the United States; or
 
-&emsp;&emsp;(B) deposited only into accounts that are insure by and <sup>1</sup> agency or instrumentality of the United States, or are fully collateralized to ensure protection of the funds, even in the event of a bank failure.
+&emsp;&emsp;(B) deposited only into accounts that are insure by and <sup>1</sup> agency or instrumentality of the United States, or are fully collateralizedto ensure protection of the funds, even in the event of a bank failure.
 
 #### (c) Recoveries
 

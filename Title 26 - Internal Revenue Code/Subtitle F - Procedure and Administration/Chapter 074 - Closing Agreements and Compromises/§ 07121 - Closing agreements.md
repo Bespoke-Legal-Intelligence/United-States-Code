@@ -6,7 +6,7 @@ The Secretary is authorized to enter into an agreement in writing with any perso
 
 #### (b) Finality
 
-If such agreement is approved by the Secretary (within such time as may be stated insuch agreement, or later agreed to) such agreement shall be final and conclusive, and, except upon a showing of fraud or malfeasance, or misrepresentation of a material fact—
+If such agreement is approved by the Secretary (within such time as may be stated in such agreement, or later agreed to) such agreement shall be final and conclusive, and, except upon a showing of fraud or malfeasance, or misrepresentation of a material fact—
 
 &emsp;(1) the case shall not be reopened as to the matters agreed upon or the agreement modified by any officer, employee, or agent of the United States, and
 

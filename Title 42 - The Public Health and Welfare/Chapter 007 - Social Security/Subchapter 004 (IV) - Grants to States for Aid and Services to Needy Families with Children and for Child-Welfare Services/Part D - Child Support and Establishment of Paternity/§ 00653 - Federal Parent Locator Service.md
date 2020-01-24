@@ -26,7 +26,7 @@
 
 #### (b) Disclosure of information to authorized persons
 
-(1) Upon request, filed in accordance with subsection (d), of any authorized person, as defined in subsection (c) for the information described in subsection (a)(2), or of any authorized person, as defined in section 663(d)(2) of this title for the information described in section 663(c) of thistitle, the Secretary shall, notwithstanding any other provision of law, provide through the Federal Parent Locator Service such information to such person, if such information—
+(1) Upon request, filed in accordance with subsection (d), of any authorized person, as defined in subsection (c) for the information described in subsection (a)(2), or of any authorized person, as defined in section 663(d)(2) of this title for the information described in section 663(c) of this title, the Secretary shall, notwithstanding any other provision of law, provide through the Federal Parent Locator Service such information to such person, if such information—
 
 &emsp;(A) is contained in any files or records maintained by the Secretary or by the Department of Health and Human Services; or
 
@@ -52,7 +52,7 @@ As used in subsection (a), the term "authorized person" means—
 
 &emsp;(1) any agent or attorney of any State or Indian tribe or tribal organization (as defined in subsections (e) and (l) of section 5304 of title 25), having in effect a plan approved under this part, who has the duty or authority under such plans to seek to recover any amounts owed as child and spousal support (including, when authorized under the State plan, any official of a political subdivision);
 
-&emsp;(2) the court which has authority to issue an order or to serve as the initiating court in an action to seek an order against a noncustodial parent for the support and maintenance of a child, or any agent of such court;
+&emsp;(2) the court which has authority to issue an order or to serve as the initiating court in an action to seek an order against a noncustodialparent for the support and maintenance of a child, or any agent of such court;
 
 &emsp;(3) the resident parent, legal guardian, attorney, or agent of a child (other than a child receiving assistance under a State program funded under part A) (as determined by regulations prescribed by the Secretary) without regard to the existence of a court order against a noncustodial parent who has a duty to support and maintain any such child;
 
@@ -88,7 +88,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (2) Case and order information
 
-&emsp;The information referred to in paragraph (1) with respect to a case or an order shall be such information as the Secretary may specify in regulations (including the names, social security numbers or other uniform identification numbers, and State case identification numbers) to identify the individuals who owe or are owed support (or with respect to or on behalf of whom support obligations are sought to be established), and the State or States which have the case or order. Beginning not later than October 1, 1999, the information referred to in paragraph (1) shall include the names and social security numbers of the children of such individuals.
+&emsp;The information referred to in paragraph (1) with respect to a case or an order shall be such information as the Secretary may specify in regulations (including the names, social security numbers or other uniform identification numbers, and State case identification numbers) to identify the individuals who owe or are owed support (or with respect to or on behalf of whom support obligations are sought to be established), and the State or States which have the case or order. Beginning not laterthan October 1, 1999, the information referred to in paragraph (1) shall include the names and social security numbers of the children of such individuals.
 
 #### (3) Administration of Federal tax laws
 
@@ -120,7 +120,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (4) List of multistate employers
 
-&emsp;The Secretary shall maintain within the National Directory of New Hires a list of multistate employers that report information regarding newly hired employees pursuant tosection 653a(b)(1)(B) of this title, and the State which each such employer has designated to receive such information.
+&emsp;The Secretary shall maintain within the National Directory of New Hires a list of multistate employers that report information regarding newly hired employees pursuant to section 653a(b)(1)(B) of this title, and the State which each such employer has designated to receive such information.
 
 #### (j) Information comparisons and other disclosures
 
@@ -160,7 +160,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (5) Research
 
-&emsp;The Secretary may provide access to data in each component of the Federal Parent Locator Service maintained under this section and to information reported by employers pursuant to section 653a(b) of this title for research purposes found by the Secretary to be likely to contribute to achieving the purposes of part A or this part, but without personal identifiers.
+&emsp;The Secretary may provide access to data in each component of the Federal Parent LocatorService maintained under this section and to information reported by employers pursuant to section 653a(b) of this title for research purposes found by the Secretary to be likely to contribute to achieving the purposes of part A or this part, but without personal identifiers.
 
 #### (6) Information comparisons and disclosure for enforcement of obligations on Higher Education Act loans and grants
 
@@ -238,7 +238,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (B) Requirement to seek minimum information
 
-&emsp;&emsp;The Secretary of Housing and Urban Development shall seek information pursuant to this section only to the extent necessary to verify the employment and income of individuals described in subparagraph (A).
+&emsp;&emsp;The Secretary of Housing and Urban Development shall seek information pursuantto this section only to the extent necessary to verify the employment and income of individuals described in subparagraph (A).
 
 #### (C) Duties of the Secretary
 
@@ -304,7 +304,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (A) In general
 
-&emsp;&emsp;If, for purposes of administering an unemployment compensation program under Federal or State law, a State agency responsible for the administration of such program transmits to the Secretary the names and social security account numbers of individuals, the Secretary shall disclose to such State agency information on such individuals and their employers maintained in the National Directory of New Hires, subject to this paragraph.
+&emsp;&emsp;If, for purposes of administering an unemployment compensation program under Federal or State law, a State agency responsible for the administration of such programtransmits to the Secretary the names and social security account numbers of individuals, the Secretary shall disclose to such State agency information on such individuals and their employers maintained in the National Directory of New Hires, subject to this paragraph.
 
 #### (B) Condition on disclosure by the Secretary
 
@@ -384,7 +384,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (I) Determination by Secretaries
 
-&emsp;&emsp;&emsp;&emsp;The Secretary of the Treasury and the Secretary shall determine whether to permit disclosure of information under this paragraph to persons or entities described in subclause (II), based on an evaluation made by the Secretary of the Treasury (in consultation with and approved by the Secretary), of the costs and benefits of such disclosures and the adequacy of measures used to safeguard the security and confidentiality of information so disclosed.
+&emsp;&emsp;&emsp;&emsp;The Secretary of the Treasury and the Secretary shall determine whether topermit disclosure of information under this paragraph to persons or entities described in subclause (II), based on an evaluation made by the Secretary of the Treasury (in consultation with and approved by the Secretary), of the costs and benefits of such disclosures and the adequacy of measures used to safeguard the security and confidentiality of information so disclosed.
 
 #### (II) Permitted persons or entities
 
@@ -486,7 +486,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (1) For SSA verification
 
-&emsp;The Secretary shall reimburse the Commissioner of Social Security, at a rate negotiatedbetween the Secretary and the Commissioner, for the costs incurred by the Commissioner in performing the verification services described in subsection (j).
+&emsp;The Secretary shall reimburse the Commissioner of Social Security, at a rate negotiated between the Secretary and the Commissioner, for the costs incurred by the Commissioner in performing the verification services described in subsection (j).
 
 #### (2) For information from State directories of new hires
 
@@ -526,7 +526,7 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 As used in this part, the term "support order" means a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or of the parent with whom the child is living, which provides for monetary support, health care, arrearages, or reimbursement, and which may include related costs and fees, interest and penalties, income withholding, attorneys' fees, and other relief.
 
-(Aug. 14, 1935, ch. 531, title IV, §453, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2353; amended Pub. L. 97–35, title XXIII, §2332(c), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§17, 19(a), Aug. 16, 1984, 98 Stat. 1321, 1322; Pub. L. 100–485, title I, §124(a), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, 111 Stat. 627, 629–631, 636, 637; Pub. L. 105–34, title X, §1090(a)(2), Aug. 5, 1997, 111 Stat. 961; Pub. L. 105–89, title I, §105, Nov. 19, 1997, 111 Stat. 2120; Pub. L. 105–200, title IV, §§402(a), (b), 410(d), July 16, 1998, 112 Stat. 668, 669, 673; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304, 1501A–306; Pub. L. 108–199, div. G, title II, §217(a), Jan. 23, 2004, 118 Stat. 394; Pub. L. 108–295, §3, Aug. 9, 2004, 118 Stat. 1091; Pub. L. 108–447, div. H, title VI, §643, Dec. 8, 2004, 118 Stat. 3283; Pub. L. 109–171, title VII, §§7305, 7306(b), Feb. 8, 2006, 120 Stat. 145, 146; Pub. L. 109–250, §2, July 27, 2006, 120 Stat. 652; Pub. L.110–157, title III, §301(a), Dec. 26, 2007, 121 Stat. 1833; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–351, title I, §105, Oct. 7, 2008, 122 Stat. 3957; Pub. L. 112–37, §17(b), Oct. 5, 2011, 125 Stat. 398; Pub. L. 113–37, §3(a), Sept. 30, 2013, 127 Stat. 525; Pub. L. 113–79, title IV, §4030(p), Feb. 7, 2014, 128 Stat. 815; Pub. L. 113–183, title III, §§301(a)(2), (b), 302(a), (c), Sept. 29, 2014, 128 Stat. 1943, 1945, 1946.)
+(Aug. 14, 1935, ch. 531, title IV, §453, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2353; amended Pub. L. 97–35, title XXIII, §2332(c), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§17, 19(a), Aug. 16, 1984, 98 Stat. 1321, 1322; Pub. L. 100–485, title I, §124(a), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, 111 Stat. 627, 629–631, 636, 637; Pub. L. 105–34, title X, §1090(a)(2), Aug. 5, 1997, 111 Stat. 961; Pub. L. 105–89, title I, §105, Nov. 19, 1997, 111 Stat. 2120; Pub. L. 105–200, title IV, §§402(a), (b), 410(d), July 16, 1998, 112 Stat. 668, 669, 673; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304, 1501A–306; Pub. L. 108–199, div. G, title II, §217(a), Jan. 23, 2004, 118 Stat. 394; Pub. L. 108–295, §3, Aug. 9, 2004, 118 Stat. 1091; Pub. L. 108–447, div. H, title VI, §643, Dec. 8, 2004, 118 Stat. 3283; Pub. L. 109–171, title VII, §§7305, 7306(b), Feb. 8, 2006, 120 Stat. 145, 146; Pub. L. 109–250, §2, July 27, 2006, 120 Stat. 652; Pub. L. 110–157, title III, §301(a), Dec. 26, 2007, 121 Stat. 1833; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–351, title I, §105, Oct. 7, 2008, 122 Stat. 3957; Pub. L. 112–37, §17(b), Oct. 5, 2011, 125 Stat. 398; Pub. L. 113–37, §3(a), Sept. 30, 2013, 127 Stat. 525; Pub. L. 113–79, title IV, §4030(p), Feb. 7, 2014, 128 Stat. 815; Pub. L. 113–183, title III, §§301(a)(2), (b), 302(a), (c), Sept. 29, 2014, 128 Stat. 1943, 1945, 1946.)
 
 #### References in Text
 
@@ -738,7 +738,7 @@ Pub. L. 105–200, title IV, §402(c), July 16, 1998, 112 Stat. 669, provided th
 
 #### Report on Data Maintained by National Directory of New Hires
 
-Pub. L. 105–200, title IV, §402(d), July 16, 1998, 112 Stat. 669, provided that: "Within 3 years after the date of the enactment of this Act \[July 16, 1998\], the Secretary of Health and Human Services shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the accuracy of the data maintained by the National Directory of New Hires pursuant to section 453(i) of the Social Security Act \[42 U.S.C. 653(i)\], and the effectiveness of the procedures designed to provide for the security of such data."
+Pub. L. 105–200, title IV, §402(d), July 16, 1998, 112 Stat. 669, provided that: "Within 3 years after the dateof the enactment of this Act \[July 16, 1998\], the Secretary of Health and Human Services shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the accuracy of the data maintained by the National Directory of New Hires pursuant to section 453(i) of the Social Security Act \[42 U.S.C. 653(i)\], and the effectiveness of the procedures designed to provide for the security of such data."
 
 #### Coordination Between Secretaries Relating to Amendments by Pub. L. 105–34
 

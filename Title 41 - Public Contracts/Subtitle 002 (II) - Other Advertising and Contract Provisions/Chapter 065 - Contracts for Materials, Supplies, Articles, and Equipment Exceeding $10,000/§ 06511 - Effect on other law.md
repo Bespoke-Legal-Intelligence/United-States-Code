@@ -28,7 +28,7 @@ June 30, 1936, ch. 881, §8, 49 Stat. 2039.
 
 Paragraph (1) is substituted for "Title III of the act entitled 'An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes', approved May 3, 1933 (commonly known as the Buy American Act)" for consistency in the revised title and to correct an error in the source, which incorrectly gives May 3, 1933, rather than March 3, 1933, as the date of approval.
 
-Paragraph (2) is substituted for "the Act entitled 'An Act relating to the rate of wages for laborers and mechanics employed on public buildings of the United States and the District of Columbia by contractors and subcontractors, and for other purposes', approved March 3, 1931 (commonly known as the Bacon-Davis Act), as amended from time to time" because of section 5(c) of Public Law 107–217 (40 U.S.C. note prec. 101) and for consistency with title 40.
+Paragraph (2) is substituted for "the Act entitled 'An Act relating to the rate of wages for laborers and mechanics employed on public buildings of the UnitedStates and the District of Columbia by contractors and subcontractors, and for other purposes', approved March 3, 1931 (commonly known as the Bacon-Davis Act), as amended from time to time" because of section 5(c) of Public Law 107–217 (40 U.S.C. note prec. 101) and for consistency with title 40.
 
 The words "the labor provisions of Title II of the National Industrial Recovery Act, approved June 16, 1933, as extended" are omitted as obsolete because of section 201 of the Act of June 21, 1938 (ch. 554, 52 Stat. 816), as amended by the Acts of June 27, 1940 (ch. 437, 54 Stat. 633), April 5, 1941 (ch. 40, 55 Stat. 110), and June 27, 1942 (ch. 450, 56 Stat. 410).
 

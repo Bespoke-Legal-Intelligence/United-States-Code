@@ -22,7 +22,7 @@ Any nonexcess land which is acquired into excess status pursuant to involuntary 
 
 #### (g) Annual audit of compliance with reclamation laws
 
-In addition to any other audit or compliance activities which may otherwise be undertaken, the Secretary of the Interior, or his designee, shall conduct a thorough audit of the compliance with the reclamation law of the United States, specifically including this subchapter, by legal entities and individuals subject to such law. At a minimum, the Secretary shall complete audits of those legal entities and individuals whose landholdings or operations exceed 960 acres within 3 years.
+In addition to any other audit or compliance activities which may otherwise be undertaken, the Secretary of the Interior, or his designee, shall conduct a thorough audit of the compliance with the reclamation law of the UnitedStates, specifically including this subchapter, by legal entities and individuals subject to such law. At a minimum, the Secretary shall complete audits of those legal entities and individuals whose landholdings or operations exceed 960 acres within 3 years.
 
 #### (h) Recordable contracts executed prior to October 12, 1982
 

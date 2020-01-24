@@ -52,7 +52,7 @@ The President shall appoint, by and with the advice and consent of the Senate, a
 
 &emsp;&emsp;&emsp;&emsp;(VIII) The Department of Agriculture.
 
-&emsp;&emsp;&emsp;&emsp;(IX) Any such other agencies as the President determines to be substantiallyinvolved in the efforts of the Federal Government to combat counterfeiting and infringement.
+&emsp;&emsp;&emsp;&emsp;(IX) Any such other agencies as the President determines to be substantially involved in the efforts of the Federal Government to combat counterfeiting and infringement.
 
 &emsp;&emsp;&emsp;(ii) The Register of Copyrights, or a senior representative of the United States Copyright Office appointed by the Register of Copyrights.
 
@@ -74,7 +74,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Senior Intellectual Property Enforcement Advisory Committee</i>.
 
-(a) <i>Establishment of Committee</i>. There is established an interagency Senior Intellectual Property Enforcement Advisory Committee (Senior Advisory Committee), which shall be chaired by the Intellectual Property Enforcement Coordinator (Coordinator), Executive Office of the President.
+(a) <i>Establishment of Committee</i>. There is established an interagency Senior Intellectual Property EnforcementAdvisory Committee (Senior Advisory Committee), which shall be chaired by the Intellectual Property Enforcement Coordinator (Coordinator), Executive Office of the President.
 
 (b) <i>Membership</i>. The Senior Advisory Committee shall be composed of the Coordinator, who shall chair it, and the heads of, or the deputies to the heads of:
 
@@ -140,7 +140,7 @@ Pursuant to the PRO IP Act (15 U.S.C. 8111), the Coordinator shall also invite t
 
 &emsp;(C) recommendations to enhance cooperation among Federal, State, and local authorities responsible for intellectual property enforcement.
 
-(ii) The Coordinator may establish subgroups, consisting exclusively of Enforcement Advisory Committee members or their designees, who must be officialsfrom the designating member's department or agency, to support the functions of the Enforcement Advisory Committee. The subgroups shall be chaired by the Coordinator, or the Coordinator's designee with expertise and experience in intellectual property enforcement matters, and may include:
+(ii) The Coordinator may establish subgroups, consisting exclusively of Enforcement Advisory Committee members or their designees, who must be officials from the designating member's department or agency, to support the functions of the Enforcement Advisory Committee. The subgroups shall be chaired by the Coordinator, or the Coordinator's designee with expertise and experience in intellectual property enforcement matters, and may include:
 
 &emsp;(A) an Enforcement Subcommittee; and
 

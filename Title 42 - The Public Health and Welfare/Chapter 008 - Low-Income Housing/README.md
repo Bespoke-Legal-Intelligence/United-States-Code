@@ -31,7 +31,7 @@
 | [1437d.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437d%20-%20Contract%20provisions%20and%20requirements%3B%20loans%20and%20annual%20contributions.md) | Contract provisions and requirements; loans and annual contributions. |
 | [1437e.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437e%20-%20Designated%20housing%20for%20elderly%20and%20disabled%20families.md) | Designated housing for elderly and disabled families. |
 | [1437f.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437f%20-%20Low-income%20housing%20assistance.md) | Low-income housing assistance. |
-| 1437f–1. | Report on section 8 project-based housing. |
+| 1437f–1. | Repealed. |
 | [1437g.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437g%20-%20Public%20housing%20Capital%20and%20Operating%20Funds.md) | Public housing Capital and Operating Funds. |
 | [1437h.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437h%20-%20Implementation%20of%20provisions%20by%20Secretary.md) | Implementation of provisions by Secretary. |
 | [1437i.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437i%20-%20Obligations%20of%20public%20housing%20agencies%3B%20contestability%3B%20full%20faith%20and%20credit%20of%20United%20States%20pledged%20as%20security%3B%20tax%20exemption.md) | Obligations of public housing agencies; contestability; full faith and credit of United States pledged as security; tax exemption. |

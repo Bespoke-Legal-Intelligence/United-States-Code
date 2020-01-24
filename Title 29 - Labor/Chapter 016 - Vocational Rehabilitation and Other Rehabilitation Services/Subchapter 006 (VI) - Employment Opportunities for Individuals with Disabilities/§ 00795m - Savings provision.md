@@ -6,7 +6,7 @@ Nothing in this chapter shall be construed to prohibit a State from providing su
 
 #### (b) Postemployment services
 
-Nothing in this subchapter shall be construed to prohibit a State from providing discrete postemployment services in accordance with the State plan submitted under section 721 of this title by using funds made available through aState allotment under section 730 of this title to an individual who is eligible under this subchapter.
+Nothing in this subchapter shall be construed to prohibit a State from providing discrete postemployment services in accordance with the State plan submitted under section 721 of this title by using funds made available through a State allotment under section 730 of this title to an individual who is eligible under this subchapter.
 
 (Pub. L. 93–112, title VI, §608, formerly §627, as added Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1216; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(18)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered §608 and amended Pub. L. 113–128, title IV, §461(3), (10), July 22, 2014, 128 Stat. 1679, 1682.)
 

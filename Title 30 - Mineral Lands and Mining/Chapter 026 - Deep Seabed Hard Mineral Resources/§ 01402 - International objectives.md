@@ -12,7 +12,7 @@ By the enactment of this chapter, the United States—
 
 (1) The Secretary of State is encouraged to negotiate successfully a comprehensive Law of the Sea Treaty which, among other things, provides assured and nondiscriminatory access to the hard mineral resources of the deep seabed for all nations, gives legal definition to the principle that the resources of the deep seabed are the common heritage of mankind, and provides for the establishment of requirements for the protection of the quality of the environment as stringent as those promulgated pursuant to this chapter.
 
-(2) Until such a Treaty is concluded, the Secretary of State is encouraged to promote any international actions necessary to adequately protect the environment from adverse impacts which may result from any exploration for and commercial recovery of hard mineral resourcesof the deep seabed carried out by persons not subject to this chapter.
+(2) Until such a Treaty is concluded, the Secretary of State is encouraged to promote any international actions necessary to adequately protect the environment from adverse impacts which may result from any exploration for and commercial recovery of hard mineral resources of the deep seabed carried out by persons not subject to this chapter.
 
 (Pub. L. 96–283, §3, June 28, 1980, 94 Stat. 555.)
 

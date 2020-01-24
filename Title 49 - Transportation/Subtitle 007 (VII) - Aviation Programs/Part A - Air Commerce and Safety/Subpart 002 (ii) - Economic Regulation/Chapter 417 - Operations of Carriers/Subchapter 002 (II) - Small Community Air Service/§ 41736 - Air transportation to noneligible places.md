@@ -2,7 +2,7 @@
 
 (a)
 
-Proposals and Decisions.—(1) A State or local government may propose to the Secretary of Transportation that the Secretary provide compensation to an air carrier to provide air transportation to a place that is not an eligibleplace under this subchapter. Not later than 90 days after receiving a proposal under this section, the Secretary shall—
+Proposals and Decisions.—(1) A State or local government may propose to the Secretary of Transportation that the Secretary provide compensation to an air carrier to provide air transportation to a place that is not an eligible place under this subchapter. Not later than 90 days after receiving a proposal under this section, the Secretary shall—
 
 &emsp;(A) decide whether to designate the place as eligible to receive compensation under this section; and
 
@@ -76,7 +76,7 @@ Proposals.—No proposal under subsection (a) may be accepted by the Secretary a
 
 &emsp;(2)
 
-Program.—The Secretary may not provide any compensation under this sectionafter the date that is 2 years after the date of enactment of this subsection.
+Program.—The Secretary may not provide any compensation under this section after the date that is 2 years after the date of enactment of this subsection.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1149; Pub. L. 106–181, title II, §202, Apr. 5, 2000, 114 Stat. 91; Pub. L. 115–254, div. B, title IV, §453(b), Oct. 5, 2018, 132 Stat. 3348.)
 

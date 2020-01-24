@@ -60,5 +60,5 @@ The Arms Export Control Act, referred to in subsec. (b), is Pub. L. 90–629, Oc
 
 Subsec. (c). Pub. L. 115–254, §1991(d)(7)(A), (C), substituted "Administrator of the Transportation Security Administration" for "Secretary of Transportation" and "The Administrator" for "The Secretary".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted "and" at end of par. (1), redesignated par. (3) as (2), and struckout former par. (2) which read as follows: "shall publish the advisory in the Federal Register; and".
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted "and" at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "shall publish the advisory in the Federal Register; and".
 

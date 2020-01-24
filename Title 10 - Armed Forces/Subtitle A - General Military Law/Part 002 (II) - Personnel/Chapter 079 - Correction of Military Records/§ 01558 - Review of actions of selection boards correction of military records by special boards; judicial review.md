@@ -18,7 +18,7 @@ Special board.—(A) The term "special board" means a board that the Secretary o
 
 &emsp;(2)
 
-Selection board.—(A) The term "selection board" means a selection board convened under section 573(c), 580, 580a, 581, 611(b), 637, 638, 638a, 14101(b), 14701, 14704, or 14705 of thistitle, and any other board convened by the Secretary of a military department under any authority to recommend persons for appointment, enlistment, reenlistment, assignment, promotion, or retention in the armed forces or for separation, retirement, or transfer to inactive status in a reserve component for the purpose of reducing the number of persons serving in the armed forces.
+Selection board.—(A) The term "selection board" means a selection board convened under section 573(c), 580, 580a, 581, 611(b), 637, 638, 638a, 14101(b), 14701, 14704, or 14705 of this title, and any other board convened by the Secretary of a military department under any authority to recommend persons for appointment, enlistment, reenlistment, assignment, promotion, or retention in the armed forces or for separation, retirement, or transfer to inactive status in a reserve component for the purpose of reducing the number of persons serving in the armed forces.
 
 &emsp;(B) Such term does not include any of the following:
 
@@ -32,7 +32,7 @@ Selection board.—(A) The term "selection board" means a selection board conven
 
 &emsp;(3)
 
-Involuntarily board-separated.—The term "involuntarily board-separated" means separated or retired from an armed force, or transferred to the Retired Reserve or to inactive status in a reserve component, as a result of a recommendation of a selection board.
+Involuntarily board-separated.—The term "involuntarily board-separated" means separated or retired from an armed force, ortransferred to the Retired Reserve or to inactive status in a reserve component, as a result of a recommendation of a selection board.
 
 (c)
 
@@ -98,7 +98,7 @@ Judicial Review.—(1) A person seeking to challenge an action or recommendation
 
 (B) If, six months after the convening of a special board in any case, the Secretary concerned has not taken final action on the report of the special board, the Secretary shall be deemed for the purposes of this subsection to have denied relief in such case.
 
-(C) Under regulations prescribed under subsection (e), the Secretary of a military department may waive the applicability of subparagraph (A) or (B) in a case if the Secretary determines that a longer period for consideration of the case is warranted. Such a waiver may be for an additional period of not more than six months. The Secretary concerned may not delegate authority to make a determination under this subparagraph.
+(C) Under regulations prescribed under subsection (e), the Secretary of a military department may waive the applicability of subparagraph (A) or (B) in a case if the Secretary determines that a longer period for consideration ofthe case is warranted. Such a waiver may be for an additional period of not more than six months. The Secretary concerned may not delegate authority to make a determination under this subparagraph.
 
 (g)
 

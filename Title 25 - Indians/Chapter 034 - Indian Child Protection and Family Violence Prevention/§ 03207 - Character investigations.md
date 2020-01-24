@@ -12,7 +12,7 @@ The Secretary and the Secretary of Health and Human Services shall—
 
 #### (b) Criminal records
 
-The minimum standards of character that are to be prescribed under this section shall ensure that none of the individuals appointed to positions described in subsection (a) have been found guilty of, or entered a plea of nolo contendere or guilty to, any felonious offense, or any of two ormore misdemeanor offenses, under Federal, State, or tribal law involving crimes of violence; sexual assault, molestation, exploitation, contact or prostitution; crimes against persons; or offenses committed against children.
+The minimum standards of character that are to be prescribed under this section shall ensure that none of the individuals appointed to positions described in subsection (a) have been found guilty of, or entered a plea of nolo contendere or guilty to, any felonious offense, or any of two or more misdemeanor offenses, under Federal, State, or tribal law involving crimes of violence; sexual assault, molestation, exploitation, contact or prostitution; crimes against persons; or offenses committed against children.
 
 #### (c) Investigations by Indian tribes and tribal organizations
 
@@ -106,7 +106,7 @@ Each Indian tribe or tribal organization that receives funds under the Indian Se
 
 #### (C) Results
 
-&emsp;&emsp;Except as provided in paragraph (3), no foster care placement shall be ordered in any proceeding described in subparagraph (A) ifan investigation described in clause (i) of that subparagraph reveals that a covered individual described in that clause has been found by a Federal, State, or tribal court to have committed any crime listed in clause (i) or (ii) of section 671(a)(20)(A) of title 42.
+&emsp;&emsp;Except as provided in paragraph (3), no foster care placement shall be ordered in any proceeding described in subparagraph (A) if an investigation described in clause (i) of that subparagraph reveals that a covered individual described in that clause has been found by a Federal, State, or tribal court to have committed any crime listed in clause (i) or (ii) of section 671(a)(20)(A) of title 42.
 
 #### (3) Emergency placement
 

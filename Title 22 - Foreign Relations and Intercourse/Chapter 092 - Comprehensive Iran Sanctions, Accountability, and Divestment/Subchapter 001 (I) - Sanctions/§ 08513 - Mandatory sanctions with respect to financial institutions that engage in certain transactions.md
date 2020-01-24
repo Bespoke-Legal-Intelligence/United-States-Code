@@ -188,7 +188,7 @@ In implementing this section and the regulations prescribed under this section, 
 
 #### (D) Foreign financial institution; domestic financial institution
 
-&emsp;&emsp;The terms "foreign financial institution" and "domestic financial institution" shallhave the meanings of those terms as determined by the Secretary of the Treasury.
+&emsp;&emsp;The terms "foreign financial institution" and "domestic financial institution" shall have the meanings of those terms as determined by the Secretary of the Treasury.
 
 #### (E) Money laundering
 
@@ -198,7 +198,7 @@ In implementing this section and the regulations prescribed under this section, 
 
 &emsp;The Secretary of the Treasury may further define the terms used in this section in the regulations prescribed under this section.
 
-(Pub. L. 111–195, title I, §104, July 1, 2010, 124 Stat. 1331; Pub. L. 112–158, title II, §§214(a), 215(a), title III, §312(b), (c), Aug. 10, 2012, 126 Stat. 1231, 1249.)
+(Pub. L. 111–195, title I, §104, July 1, 2010, 124 Stat. 1331; Pub. L. 112–158, title II, §§214(a),215(a), title III, §312(b), (c), Aug. 10, 2012, 126 Stat. 1231, 1249.)
 
 #### Termination of Section
 

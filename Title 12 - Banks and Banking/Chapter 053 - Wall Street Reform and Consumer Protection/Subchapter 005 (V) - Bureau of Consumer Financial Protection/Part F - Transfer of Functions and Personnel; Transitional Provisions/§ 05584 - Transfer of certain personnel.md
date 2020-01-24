@@ -26,7 +26,7 @@
 
 &emsp;&emsp;The Bureau and the Board of Directors of the Federal Deposit Insurance Corporation shall—
 
-&emsp;&emsp;&emsp;(i) jointly determine the number of employees of that Corporation necessary toperform or support the consumer financial protection functions of the Corporation that are transferred to the Bureau by this title; <sup>1</sup> and
+&emsp;&emsp;&emsp;(i) jointly determine the number of employees of that Corporation necessary to perform or support the consumer financial protection functions of the Corporation that are transferred to the Bureau by this title; <sup>1</sup> and
 
 &emsp;&emsp;&emsp;(ii) consistent with the number determined under clause (i), jointly identify employees of the Corporation for transfer to the Bureau, in a manner that the Bureau and the Board of Directors of the Corporation, in their sole discretion, determine equitable.
 
@@ -242,11 +242,11 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 #### (ii) Employer contribution
 
-&emsp;&emsp;&emsp;The Bureau shall pay any employer contributions to the existing retirement plan of each transferred employee, as required under that plan.
+&emsp;&emsp;&emsp;The Bureau shall pay any employer contributions to the existing retirement planof each transferred employee, as required under that plan.
 
 #### (iii) Option to elect into the Federal Reserve System Retirement Plan and Federal Reserve System Thrift Plan
 
-&emsp;&emsp;&emsp;Any employee transferred pursuant to this part may, during the 1-year period beginning 6 months after the designated transfer date, elect to end their participation and benefit accruals under their existing retirement plan or plans and elect to participate in both the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, through any period of continuous employment with the Bureau, under the same terms as are applicable to Federal Reserve System transferred employees, as provided in subparagraph (C). An election of coverage by the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan shall begin on the day following the end of the 18-month period beginning onthe designated transfer date, and benefit accruals under the existing retirement plan of the transferred employee shall end on the last day of the 18-month period beginning on the designated transfer date <sup>2</sup> If an employee elects to participate in the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, all of the service of the employee that was creditable under their existing retirement plan shall be transferred to the Federal Reserve System Retirement Plan on the day following the end of the 18-month period beginning on the designated transfer date.
+&emsp;&emsp;&emsp;Any employee transferred pursuant to this part may, during the 1-year period beginning 6 months after the designated transfer date, elect to end their participation and benefit accruals under their existing retirement plan or plans and elect to participate in both the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, through any period of continuous employment with the Bureau, under the same terms as are applicable to Federal Reserve System transferred employees, as provided in subparagraph (C). An election of coverage by the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan shall begin on the day following the end of the 18-month period beginning on the designated transfer date, and benefit accruals under the existing retirement plan of the transferred employee shall end on the last day of the 18-month period beginning on the designated transfer date <sup>2</sup> If an employee elects to participate in the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, all of the service of the employee that was creditable under their existing retirement plan shall be transferred to the Federal Reserve System Retirement Plan on the day following the end of the 18-month period beginning on the designated transfer date.
 
 #### (iv) Bureau contribution
 
@@ -342,7 +342,7 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 #### (D) Employee contribution
 
-&emsp;&emsp;An individual enrolled in the Federal Employees Health Benefits program shall pay any employee contribution required by the plan.
+&emsp;&emsp;An individual enrolled in the Federal Employees Health Benefits program shall payany employee contribution required by the plan.
 
 #### (E) Additional funding
 

@@ -40,7 +40,7 @@ Amounts provided as a grant by the Foundation shall not be used for—
 
 &emsp;(2) any activity the purpose of which is to influence legislation pending before Congress.
 
-(Pub. L. 98–244, §10, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, §4, Jan. 11, 1988, 101 Stat. 1786; Pub. L. 101–593, title I, §110(c), Nov. 16, 1990, 104 Stat. 2960; Pub. L. 103–232, title I, §104, Apr. 11, 1994, 108 Stat. 337; Pub. L. 106–408, title II, §207,Nov. 1, 2000, 114 Stat. 1781; Pub. L. 107–141, §6, Feb. 12, 2002, 116 Stat. 14; Pub. L. 109–363, title II, §§202, 204, Oct. 17, 2006, 120 Stat. 2075.)
+(Pub. L. 98–244, §10, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, §4, Jan. 11, 1988, 101 Stat. 1786; Pub. L. 101–593, title I, §110(c), Nov. 16, 1990, 104 Stat. 2960; Pub. L. 103–232, title I, §104, Apr. 11, 1994, 108 Stat. 337; Pub. L. 106–408, title II, §207, Nov. 1, 2000, 114 Stat. 1781; Pub. L. 107–141, §6, Feb. 12, 2002, 116 Stat. 14; Pub. L. 109–363, title II, §§202, 204, Oct. 17, 2006, 120 Stat. 2075.)
 
 #### Amendments
 

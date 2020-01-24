@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\], compliance with the requirements imposed under this chapter shall be enforced under—
+Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 etseq.\], compliance with the requirements imposed under this chapter shall be enforced under—
 
 &emsp;(1) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the appropriate Federal banking agency (as defined in section 3(q) of that Act \[12 U.S.C. 1813(q)\]), with respect to—
 
@@ -68,7 +68,7 @@ Subsec. (b)(2). Pub. L. 111–203, §1095(2), inserted ", subject to subtitle B
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

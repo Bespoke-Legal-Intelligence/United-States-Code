@@ -54,7 +54,7 @@ In selecting among applications for grants under subsection (c), the Secretary s
 
 &emsp;(3) the impact of weather on economic and environmental costs in agricultural production.
 
-(Pub. L. 101–624, title XVI, §1638, Nov. 28, 1990, 104 Stat. 3748; Pub. L. 102–237, title IV, §407(6), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 110–234, title VII, §7511(c)(18), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(18), June 18, 2008, 122 Stat. 1664, 2030.)
+(Pub. L. 101–624, title XVI, §1638, Nov. 28, 1990, 104 Stat. 3748; Pub. L. 102–237, title IV, §407(6), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 110–234, titleVII, §7511(c)(18), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(18), June 18, 2008, 122 Stat. 1664, 2030.)
 
 #### Codification
 

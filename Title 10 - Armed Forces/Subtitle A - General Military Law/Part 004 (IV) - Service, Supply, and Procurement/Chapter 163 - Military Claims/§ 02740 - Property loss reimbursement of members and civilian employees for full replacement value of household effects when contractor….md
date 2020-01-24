@@ -1,10 +1,10 @@
 ### §2740. Property loss: reimbursement of members and civilian employees for full replacement value of household effects when contractor reimbursement not available
 
-The Secretary of Defense and the Secretaries of the military departments, in paying a claim under section 3721 of title 31 arising from loss or damage to household goods stored or transported at the expense of the Department of Defense, may pay the claim on the basis of full replacement value in any of the following cases in which reimbursement for the full replacement value for the loss or damage is not available directly from a carrier under section 2636a of this title:
+The Secretary of Defense and the Secretaries of the military departments, in paying a claimunder section 3721 of title 31 arising from loss or damage to household goods stored or transported at the expense of the Department of Defense, may pay the claim on the basis of full replacement value in any of the following cases in which reimbursement for the full replacement value for the loss or damage is not available directly from a carrier under section 2636a of this title:
 
 &emsp;(1) A case in which—
 
-&emsp;&emsp;(A) the lost or damaged goods were stored or transported under a contract, tender, orsolicitation in accordance with section 2636a of this title that requires the transportation service provider to settle claims on the basis of full replacement value; and
+&emsp;&emsp;(A) the lost or damaged goods were stored or transported under a contract, tender, or solicitation in accordance with section 2636a of this title that requires the transportation service provider to settle claims on the basis of full replacement value; and
 
 &emsp;&emsp;(B) the loss or damage occurred under circumstances that exclude the transportation service provider from liability.
 

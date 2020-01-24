@@ -18,7 +18,7 @@ First paragraph of this section is comprised of part of first sentence of sectio
 
 Second paragraph of this section is from act Dec. 5, 1924.
 
-Language was inserted in the first paragraph of this section limiting it to projects existing prior to Dec. 5, 1924, to avoid conflict with second paragraph applicable to projects after Dec. 5, 1924.
+Language was inserted in the first paragraph of this section limiting it to projects existing prior to Dec. 5,1924, to avoid conflict with second paragraph applicable to projects after Dec. 5, 1924.
 
 #### Definitions
 

@@ -12,7 +12,7 @@
 
 (c)(1) While on a leave of absence under this section, a member shall be paid basic pay but may not receive basic allowance for housing under section 403 of title 37, basic allowance for subsistence under section 402 of such title, or any other pay and allowances to which he would otherwise be entitled for such period.
 
-(2) A period during which a member is on a leave of absence under this section shall be counted for the purposes of computing the amount of the member's basic pay, for the purpose of determining the member's eligibility forretired pay, and for the purpose of determining the member's time in grade for promotion purposes, but may not be counted for the purposes of completion of the term of enlistment of the member (in the case of an enlisted member) or for purposes of section 3021 of title 38, relating to entitlement to supplemental educational assistance.
+(2) A period during which a member is on a leave of absence under this section shall be counted for the purposes of computing the amount of the member's basic pay, for the purpose of determining the member's eligibility for retired pay, and for the purpose of determining the member's time in grade for promotion purposes, but may not be counted for the purposes of completion of the term of enlistment of the member (in the case of an enlisted member) or for purposes of section 3021 of title 38, relating to entitlement to supplemental educational assistance.
 
 (d)(1) In time of war, or of national emergency declared by the President or the Congress after October 19, 1984, the Secretary concerned may cancel any leave of absence granted under this section.
 

@@ -8,7 +8,7 @@
 
 > Such individual shall be so reemployed within thirty days after making such application or after being removed from office, whichever is later. An individual denied reemployment under this section in a position because the individual is not qualified for that position may appeal that denial to the Merit Systems Protection Board under section 7701 of title 5.
 
-(b) Any United States marshal serving on the effective date of this section shall continue toserve for the remainder of the term for which such marshal was appointed, unless sooner removed by the President.
+(b) Any United States marshal serving on the effective date of this section shall continue to serve for the remainder of the term for which such marshal was appointed, unless sooner removed by the President.
 
 (Added Pub. L. 98–473, title II, §1211(a), Oct. 12, 1984, 98 Stat. 2163, §576; renumbered §569, Pub. L. 100–690, title VII, §7608(a)(2)(B), Nov. 18, 1988, 102 Stat. 4514.)
 

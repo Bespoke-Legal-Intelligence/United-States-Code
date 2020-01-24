@@ -162,7 +162,7 @@
 
 &emsp;&emsp;&emsp;(i) consider payments otherwise payable under this subchapter for opioid use disorder treatment services and the needs of applicable beneficiaries;
 
-&emsp;&emsp;&emsp;(ii) pay a higher per applicable beneficiary per month care management fee for an applicable beneficiary who receives more intensive treatment services from a participant and for whom those services are appropriate based on clinical guidelines for opioid use disorder care;
+&emsp;&emsp;&emsp;(ii) pay a higher per applicable beneficiary per month care management fee foran applicable beneficiary who receives more intensive treatment services from a participant and for whom those services are appropriate based on clinical guidelines for opioid use disorder care;
 
 &emsp;&emsp;&emsp;(iii) pay a higher per applicable beneficiary per month care management fee for the month in which the applicable beneficiary begins treatment with a participant than in subsequent months, to reflect the greater time and costs required for the planning and initiation of treatment, as compared to maintenance of treatment; and
 

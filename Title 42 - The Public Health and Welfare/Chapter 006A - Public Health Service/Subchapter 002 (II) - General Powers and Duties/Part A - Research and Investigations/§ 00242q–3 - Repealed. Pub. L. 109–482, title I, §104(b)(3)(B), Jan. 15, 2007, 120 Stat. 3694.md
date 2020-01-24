@@ -4,5 +4,5 @@ Section, Pub. L. 101–557, title III, §304, Nov. 15, 1990, 104 Stat. 2770, rel
 
 #### Effective Date of Repeal
 
-Repeal applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as an Effective Date of 2007 Amendment note under section 281 of this title.
+Repeal applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscalyears, see section 109 of Pub. L. 109–482, set out as an Effective Date of 2007 Amendment note under section 281 of this title.
 

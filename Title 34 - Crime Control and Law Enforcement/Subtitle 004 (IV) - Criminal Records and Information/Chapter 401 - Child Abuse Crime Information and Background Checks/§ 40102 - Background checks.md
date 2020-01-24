@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) A State may have in effect procedures (established by State statute or regulation) thatrequire qualified entities designated by the State to contact an authorized agency of the State to request a nationwide background check for the purpose of determining whether a covered individual has been convicted of a crime that bears upon the covered individual's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities.
+(1) A State may have in effect procedures (established by State statute or regulation) that require qualified entities designated by the State to contact an authorized agency of the State to request a nationwide background check for the purpose of determining whether a covered individual has been convicted of a crime that bears upon the covered individual's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities.
 
 (2) The authorized agency shall access and review State and Federal criminal history records through the national criminal history background check system and shall make reasonable efforts to respond to the inquiry within 15 business days.
 
@@ -42,7 +42,7 @@ The procedures established under subsection (a) shall require—
 
 &emsp;&emsp;(D) an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 
-&emsp;(3) that an authorized agency or designated entity, as applicable,,<sup>3</sup> upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
+&emsp;(3) that an authorized agency or designated entity, as applicable,,<sup>3</sup> upon receipt of a background check report lacking disposition data, shall conduct research in whatever State andlocal recordkeeping systems are available in order to obtain complete data;
 
 &emsp;(4) that the authorized agency or designated entity, as applicable, shall make a determination whether the covered individual has been convicted of, or is under pending indictment for, a crime that bears upon the covered individual's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
 
@@ -50,7 +50,7 @@ The procedures established under subsection (a) shall require—
 
 #### (c) Regulations
 
-(1) The Attorney General may by regulation prescribe such other measures as may be required to carry out the purposes of this chapter,including measures relating to the security, confidentiality, accuracy, use, misuse, and dissemination of information, and audits and recordkeeping.
+(1) The Attorney General may by regulation prescribe such other measures as may be required to carry out the purposes of this chapter, including measures relating to the security, confidentiality, accuracy, use, misuse, and dissemination of information, and audits and recordkeeping.
 
 (2) The Attorney General shall, to the maximum extent possible, encourage the use of the best technology available in conducting background checks.
 
@@ -178,7 +178,7 @@ State check.—The participating State under this paragraph after receiving a re
 
 &emsp;&emsp;"(D)
 
-Information provided.—Under procedures established by the Attorney General, any criminal history record information resulting from the State and Federal check under subparagraph (C) shall be provided to the State or National Center for Missing and Exploited Children consistent with the National Child Protection Act \[of 1993, 34 U.S.C. 40101 et seq.\].
+Information provided.—Under procedures established by the Attorney General, any criminal history record information resulting from the State and Federal check under subparagraph (C) shall beprovided to the State or National Center for Missing and Exploited Children consistent with the National Child Protection Act \[of 1993, 34 U.S.C. 40101 et seq.\].
 
 &emsp;&emsp;"(E)
 
@@ -194,7 +194,7 @@ Child safety pilot program.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Attorney General shall establish a 104-month Child Safety Pilot Program that shall provide for the processing of 200,000 10-fingerprint check requests from organizations described in subparagraph (B) conducted through theIntegrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
+In general.—The Attorney General shall establish a 104-month Child Safety Pilot Program that shall provide for the processing of 200,000 10-fingerprint check requests from organizations described in subparagraph (B) conducted through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
 
 &emsp;&emsp;"(B)
 
@@ -306,7 +306,7 @@ Study required.—The Attorney General shall conduct a feasibility study within 
 
 &emsp;&emsp;"(H) The cost of development and operation of the technology and the infrastructure necessary to establish a nationwide fingerprint-based and other criminal background check system.
 
-&emsp;&emsp;"(I) The extent of State participation in the procedures for background checks authorized in theNational Child Protection Act \[of 1993\] (Public Law 103–209), as amended by the Volunteers for Children Act (sections 221 and 222 of Public Law 105–251).
+&emsp;&emsp;"(I) The extent of State participation in the procedures for background checks authorized in the National Child Protection Act \[of 1993\] (Public Law 103–209), as amended by the Volunteers for Children Act (sections 221 and 222 of Public Law 105–251).
 
 &emsp;&emsp;"(J) The extent to which States currently provide access to nationwide criminal history background checks to organizations that serve children.
 

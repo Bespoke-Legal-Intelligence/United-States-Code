@@ -12,7 +12,7 @@ It is the purpose of this subchapter to provide—
 
 &emsp;(5) opportunities for low-income people 55 years of age or older, through the Senior Companion Program, to provide support services and companionship to other older individuals through volunteer service.
 
-(Pub. L. 93–113, title II, §200, as added Pub. L. 101–204, title V, §501, Dec. 7, 1989, 103 Stat. 1815; amended Pub. L. 103–82, title III, §§341(b)(1), 342(b), Sept. 21, 1993, 107 Stat. 904; Pub. L. 111–13, title II, §2142, Apr. 21, 2009, 123 Stat. 1584.)
+(Pub. L. 93–113, title II, §200, as added Pub. L. 101–204, title V, §501, Dec. 7, 1989, 103 Stat. 1815; amended Pub. L. 103–82, title III, §§341(b)(1),342(b), Sept. 21, 1993, 107 Stat. 904; Pub. L. 111–13, title II, §2142, Apr. 21, 2009, 123 Stat. 1584.)
 
 #### Amendments
 

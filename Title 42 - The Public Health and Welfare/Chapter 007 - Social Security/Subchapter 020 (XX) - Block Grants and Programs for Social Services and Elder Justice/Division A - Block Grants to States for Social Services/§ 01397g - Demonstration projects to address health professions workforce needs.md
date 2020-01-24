@@ -38,7 +38,7 @@
 
 #### (C) Report to Congress
 
-&emsp;&emsp;The Secretary shall submit interim reports and, based on the evaluation conducted under subparagraph (B), a final report to Congress on the demonstration projects conducted under this subsection.
+&emsp;&emsp;The Secretary shall submit interim reports and, based on the evaluation conducted under subparagraph (B), a final report toCongress on the demonstration projects conducted under this subsection.
 
 #### (4) Definitions
 
@@ -214,7 +214,7 @@
 
 #### (A) Eligible health and long-term care provider
 
-&emsp;&emsp;The term "eligible health and long-term care provider" means a personal or homecare agency (including personal or home care public authorities), a nursing home, a home health agency (as defined in section 1395x(o) of this title), or any other health care provider the Secretary determines appropriate which—
+&emsp;&emsp;The term "eligible health and long-term care provider" means a personal or home care agency (including personal or home care public authorities), a nursing home, a home health agency (as defined in section 1395x(o) of this title), or any other health care provider the Secretary determines appropriate which—
 
 &emsp;&emsp;&emsp;(i) is licensed or authorized to provide services in a participating State; and
 
@@ -226,7 +226,7 @@
 
 #### (C) Personal or home care aide
 
-&emsp;&emsp;The term "personal or home care aide" means an individual who helps individuals who are elderly, disabled, ill, or mentally disabled (including an individual with Alzheimer's disease or other dementia) to live in their own home or a residential care facility (such as a nursing home, assisted living facility, or any other facility the Secretary determines appropriate) by providing routine personal care services and other appropriate services to the individual.
+&emsp;&emsp;The term "personal or home care aide" means an individual who helps individualswho are elderly, disabled, ill, or mentally disabled (including an individual with Alzheimer's disease or other dementia) to live in their own home or a residential care facility (such as a nursing home, assisted living facility, or any other facility the Secretary determines appropriate) by providing routine personal care services and other appropriate services to the individual.
 
 #### (D) State
 

@@ -40,7 +40,7 @@ Subsec. (b). Act Sept. 21, 1944, struck out subsec. (b) limiting amount of appro
 
 Subsec. (e). Act Sept. 21, 1944, struck out "and provided further, that no loans shall be made by the Reconstruction Finance Corporation to the Administrator after June 30, 1939", and changed colon to period after "territories".
 
-<b>1938</b>—Subsecs. (a), (e). Act June 21, 1938, inserted "and $100,000,000 for the fiscal year ending June 30, 1939"after "June 30, 1937," in subsec. (a), and substituted "June 30, 1939" for "June 30, 1937" in subsec. (e).
+<b>1938</b>—Subsecs. (a), (e). Act June 21, 1938, inserted "and $100,000,000 for the fiscal year ending June 30, 1939" after "June 30, 1937," in subsec. (a), and substituted "June 30, 1939" for "June 30, 1937" in subsec. (e).
 
 #### Effective Date of 1973 Amendment
 
@@ -56,5 +56,5 @@ Act June 21, 1938, ch. 554, title IV, §401, 52 Stat. 818, as amended by Pub. L.
 
 \[Amendment by section 342(g) of Pub. L. 103–465 to section 401 of act June 21, 1938, set out above, effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 344(b) of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 2512 of Title 19, Customs Duties.\]
 
-\[Amendment by subsec. 381(d) of Pub. L. 103–182 to section 401 of act June 21, 1938, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 381(e) of Pub. L. 103–182, set out as an Effective Date of 1993 Amendment note under section 2511 of Title 19, Customs Duties.\]
+\[Amendment by section 381(d) of Pub. L. 103–182 to section 401 of act June 21, 1938, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 381(e) of Pub. L. 103–182, set out as an Effective Date of 1993 Amendment note under section 2511 of Title 19, Customs Duties.\]
 

@@ -82,7 +82,7 @@ In General.—The Secretary \[of Agriculture\] and the Secretary of the Interior
 
 "(b)
 
-Expansion of Model.—The Secretary and the Secretary of the Interior may expand the conservation model described in subsection (a) through a new partnership agreement between the Farm Service Agency and the United States Fish and Wildlife Service for thepurpose of carrying out conservation activities for species conservation.
+Expansion of Model.—The Secretary and the Secretary of the Interior may expand the conservation model described in subsection (a) through a new partnership agreement between the Farm Service Agency and the United States Fish and Wildlife Service for the purpose of carrying out conservation activities for species conservation.
 
 "(c)
 

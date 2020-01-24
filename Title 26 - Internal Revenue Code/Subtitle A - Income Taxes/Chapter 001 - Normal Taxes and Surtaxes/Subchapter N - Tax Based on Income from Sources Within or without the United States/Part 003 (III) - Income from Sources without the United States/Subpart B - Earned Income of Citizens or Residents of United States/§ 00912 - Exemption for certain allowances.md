@@ -70,7 +70,7 @@ Pub. L. 87–293, title II, §201(d), Sept. 22, 1961, 75 Stat. 625, provided tha
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–707, title V, §523(b), Sept. 6, 1960, 74 Stat. 802, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Paragraphs (1) and (2) of section 912 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a) of this section, shall apply only with respect to amounts received on or after the date of the enactment of this Act \[Sept. 6, 1960\] in taxable years ending on or after such date."
+Pub. L. 86–707, title V, §523(b), Sept. 6, 1960, 74 Stat. 802, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "Paragraphs (1) and (2) of section 912 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a) of this section, shall apply only with respect to amounts received on or after the date of the enactment of this Act \[Sept. 6, 1960\] in taxable years ending on or after such date."
 
 #### Repeals; Amendments and Application of Amendments Unaffected
 

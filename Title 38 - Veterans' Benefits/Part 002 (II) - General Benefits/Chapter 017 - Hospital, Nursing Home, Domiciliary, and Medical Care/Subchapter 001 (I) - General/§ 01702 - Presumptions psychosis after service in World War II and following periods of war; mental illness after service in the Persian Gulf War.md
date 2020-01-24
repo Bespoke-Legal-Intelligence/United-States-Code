@@ -12,7 +12,7 @@ Mental Illness.—For purposes of this chapter, any veteran of the Persian Gulf 
 
 &emsp;(2) before the end of the two-year period beginning on the last day of the Persian Gulf War.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §602; Pub. L. 90–77, title II, §203(a), Aug. 31, 1967, 81 Stat. 183; Pub. L. 97–295, §4(16), Oct. 12, 1982, 96Stat. 1306; Pub. L. 99–576, title VII, §701(20), Oct. 28, 1986, 100 Stat. 3292; Pub. L. 102–25, title III, §334(b), Apr. 6, 1991, 105 Stat. 88; renumbered §1702, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 110–181, div. A, title XVII, §1708(a)(1), (2), Jan. 28, 2008, 122 Stat. 493, 494.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §602; Pub. L. 90–77, title II, §203(a), Aug. 31, 1967, 81 Stat. 183; Pub. L. 97–295, §4(16), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–576, title VII, §701(20), Oct. 28, 1986, 100 Stat. 3292; Pub. L. 102–25, title III, §334(b), Apr. 6, 1991, 105 Stat. 88; renumbered §1702, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 110–181, div. A, title XVII, §1708(a)(1), (2), Jan. 28, 2008, 122 Stat. 493, 494.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ List.—The Secretary shall—
 
 &emsp;(1) develop a list of signature projects and programs eligible for funding from the National Park Centennial Challenge Fund;
 
-&emsp;(2) submit the list developed pursuant to paragraph (1) to the Committees on Appropriations and Energy and Natural Resources in theUnited States Senate, and to the Committees on Appropriations and Natural Resources in the House of Representatives; and
+&emsp;(2) submit the list developed pursuant to paragraph (1) to the Committees on Appropriations and Energy and Natural Resources in the United States Senate, and to the Committees on Appropriations and Natural Resources in the House of Representatives; and
 
 &emsp;(3) prioritize deferred maintenance projects, physical improvements to visitor services facilities and trail maintenance.
 

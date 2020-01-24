@@ -124,7 +124,7 @@ Pub. L. 107–330, title I, §101(b), Dec. 6, 2002, 116 Stat. 2821, as amended b
 
 #### Limitation on Payments
 
-Pub. L. 106–117, title V, §502(d), Nov. 30, 1999, 113 Stat. 1574, provided that: "No payment may be made to a person by reason of paragraphs (2) and (3) of section 103(d) of title 38, United States Code, as added by subsection (a), for any period before the effective date specified in subsection (c) \[set out as an Effective Date of 1999 Amendment note above\]."
+Pub. L. 106–117, title V, §502(d), Nov. 30, 1999, 113 Stat. 1574, provided that: "No payment may be made to aperson by reason of paragraphs (2) and (3) of section 103(d) of title 38, United States Code, as added by subsection (a), for any period before the effective date specified in subsection (c) \[set out as an Effective Date of 1999 Amendment note above\]."
 
 #### Applicability of Amendments
 
@@ -132,7 +132,7 @@ Pub. L. 102–568, title I, §103, Oct. 29, 1992, 106 Stat. 4322, provided that:
 
 "(a)
 
-Exception.—The amendments made by section 8004 of the Omnibus Budget Reconciliation Act of 1990 (105 Stat. 424) \[Pub. L. 101–508, 104 Stat. 1388–343, amending this section\] shall not apply to any case in whicha legal proceeding to terminate an existing marital relationship was commenced before November 1, 1990, by an individual described in subsection (b) if that proceeding directly resulted in the termination of such marriage.
+Exception.—The amendments made by section 8004 of the Omnibus Budget Reconciliation Act of 1990 (105 Stat. 424) \[Pub. L. 101–508, 104 Stat. 1388–343, amending this section\] shall not apply to any case in which a legal proceeding to terminate an existing marital relationship was commenced before November 1, 1990, by an individual described in subsection (b) if that proceeding directly resulted in the termination of such marriage.
 
 "(b)
 

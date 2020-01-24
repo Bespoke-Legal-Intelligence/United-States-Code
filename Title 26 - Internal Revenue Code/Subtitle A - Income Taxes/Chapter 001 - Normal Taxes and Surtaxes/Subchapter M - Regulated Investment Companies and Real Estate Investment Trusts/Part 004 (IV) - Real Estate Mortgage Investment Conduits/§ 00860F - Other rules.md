@@ -82,7 +82,7 @@
 
 #### (C) Treatment of nonrecognized gain
 
-&emsp;&emsp;If the issue price of any regular or residual interest exceeds its adjusted basis as determined under subparagraph (B), for periods during which such interest is held by the transferor (or by any other person whose basis is determined in whole or in part by reference to the basis of such interest in the hand of the transferor)—
+&emsp;&emsp;If the issue price of any regular or residual interest exceeds its adjusted basis as determined under subparagraph (B), for periods during which such interest is held by the transferor (or by any other person whosebasis is determined in whole or in part by reference to the basis of such interest in the hand of the transferor)—
 
 &emsp;&emsp;&emsp;(i) in the case of a regular interest, such excess shall be included in gross income (as determined under rules similar to rules of section 1276(b)), and
 
@@ -90,7 +90,7 @@
 
 #### (D) Treatment of nonrecognized loss
 
-&emsp;&emsp;If the adjusted basis of any regular or residual interest received in a transfer described in subparagraph (A) exceeds its issue price, for periods during which such interest is held by the transferor (or by any otherperson whose basis is determined in whole or in part by reference to the basis of such interest in the hand of the transferor)—
+&emsp;&emsp;If the adjusted basis of any regular or residual interest received in a transfer described in subparagraph (A) exceeds its issue price, for periods during which such interest is held by the transferor (or by any other person whose basis is determined in whole or in part by reference to the basis of such interest in the hand of the transferor)—
 
 &emsp;&emsp;&emsp;(i) in the case of a regular interest, such excess shall be allowable as a deduction under rules similar to the rules of section 171, and
 

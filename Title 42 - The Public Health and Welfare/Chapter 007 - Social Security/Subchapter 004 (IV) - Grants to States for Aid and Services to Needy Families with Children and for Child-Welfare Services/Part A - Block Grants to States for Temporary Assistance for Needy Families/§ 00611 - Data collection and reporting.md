@@ -80,7 +80,7 @@
 
 #### (i) Authority
 
-&emsp;&emsp;&emsp;A State may comply with subparagraph (A) by submitting disaggregated caserecord information on a sample of families selected through the use of scientifically acceptable sampling methods approved by the Secretary.
+&emsp;&emsp;&emsp;A State may comply with subparagraph (A) by submitting disaggregated case record information on a sample of families selected through the use of scientifically acceptable sampling methods approved by the Secretary.
 
 #### (ii) Sampling and other methods
 
@@ -220,7 +220,7 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 #### (A) Designation
 
-&emsp;&emsp;The Secretary, in consultation with an interagency work group which shall be established by the Office of Management and Budget, and considering State and tribal perspectives, shall, by rule, designate a dataexchange standard for any category of information required to be reported under this part.
+&emsp;&emsp;The Secretary, in consultation with an interagency work group which shall be established by the Office of Management and Budget, and considering State and tribal perspectives, shall, by rule, designate a data exchange standard for any category of information required to be reported under this part.
 
 #### (B) Data exchange standards must be nonproprietary and interoperable
 
@@ -256,7 +256,7 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 &emsp;&emsp;In designating reporting standards under this paragraph, the Secretary shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Markup Language.
 
-(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284; Pub. L. 109–171, title VII, §7102(b)(2), Feb. 8, 2006, 120 Stat. 136; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–291, title VIII, §812(a), Dec. 8, 2010, 124 Stat. 3160; Pub. L. 112–96, title IV, §§4003(a), 4005(e), Feb. 22, 2012, 126 Stat. 195, 198.)
+(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284; Pub. L. 109–171, title VII, §7102(b)(2), Feb. 8, 2006, 120 Stat. 136; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–291, title VIII, §812(a), Dec.8, 2010, 124 Stat. 3160; Pub. L. 112–96, title IV, §§4003(a), 4005(e), Feb. 22, 2012, 126 Stat. 195, 198.)
 
 #### References in Text
 
@@ -304,7 +304,7 @@ Subsec. (a)(1)(B). Pub. L. 105–33, §5507(1)(B), substituted "samples" for "es
 
 Subsec. (a)(2). Pub. L. 105–33, §5001(e)(2), inserted before period at end ", with a separate statement of the percentage of such funds that are used to cover administrative costs or overhead incurred for programs operated with funds provided under section 603(a)(5) of this title".
 
-Subsec. (a)(3). Pub. L. 105–33, §5001(e)(3), inserted before period at end ", with a separate statement of thetotal amount expended by the State during the quarter on programs operated with funds provided under section 603(a)(5) of this title".
+Subsec. (a)(3). Pub. L. 105–33, §5001(e)(3), inserted before period at end ", with a separate statement of the total amount expended by the State during the quarter on programs operated with funds provided under section 603(a)(5) of this title".
 
 Subsec. (a)(4). Pub. L. 105–33, §5001(e)(4), inserted before period at end ", with a separate statement of the number of such parents who participated in programs operated with funds provided under section 603(a)(5) of this title".
 
@@ -346,7 +346,7 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating totermination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

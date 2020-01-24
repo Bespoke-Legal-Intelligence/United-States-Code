@@ -100,7 +100,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 #### (A) Upon arrival of vessel
 
-&emsp;&emsp;Upon the arrival of a vessel in a harbor in which the vessel may be subject to the levy of port or harbor dues under this section, the master of that vessel shall, within forty-eight hours after arrival and before anycargo is unloaded from that vessel, deliver to the appropriate authorized representative appointed under subsection (a)(6)(C) of this section a tonnage certificate for the vessel and a manifest of the cargo aboard that vessel or, if the vessel is in ballast, a declaration to that effect.
+&emsp;&emsp;Upon the arrival of a vessel in a harbor in which the vessel may be subject to the levy of port or harbor dues under this section, the master of that vessel shall, within forty-eight hours after arrival and before any cargo is unloaded from that vessel, deliver to the appropriate authorized representative appointed under subsection (a)(6)(C) of this section a tonnage certificate for the vessel and a manifest of the cargo aboard that vessel or, if the vessel is in ballast, a declaration to that effect.
 
 #### (B) Before departure of vessel
 
@@ -130,7 +130,7 @@ The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch.
 
 #### Codification
 
-In subsec. (d)(1), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
+In subsec. (d)(1), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes of the UnitedStates (46 U.S.C. App. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Amendments
 

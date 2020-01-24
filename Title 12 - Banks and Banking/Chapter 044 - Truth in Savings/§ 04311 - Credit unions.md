@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-No regulation prescribed by the Bureau under this chapter shall apply directly with respect toany depository institution described in clause (iv) of section 461(b)(1)(A) of this title.
+No regulation prescribed by the Bureau under this chapter shall apply directly with respect to any depository institution described in clause (iv) of section 461(b)(1)(A) of this title.
 
 #### (b) Regulations prescribed by NCUA
 

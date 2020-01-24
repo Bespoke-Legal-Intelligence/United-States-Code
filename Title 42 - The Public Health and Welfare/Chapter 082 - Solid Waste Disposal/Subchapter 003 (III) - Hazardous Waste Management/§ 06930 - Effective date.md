@@ -22,7 +22,7 @@ The regulations under this subchapter respecting requirements applicable to the 
 
 &emsp;(3) other good cause found and published with the regulation.
 
-(Pub. L. 89–272, title II, §3010, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2812; amended Pub. L. 96–482, §15, Oct. 21, 1980, 94 Stat. 2342; Pub. L. 98–616, title II, §§204(a), 234, Nov. 8, 1984, 98 Stat. 3235, 3258.)
+(Pub. L. 89–272, title II, §3010, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2812; amendedPub. L. 96–482, §15, Oct. 21, 1980, 94 Stat. 2342; Pub. L. 98–616, title II, §§204(a), 234, Nov. 8, 1984, 98 Stat. 3235, 3258.)
 
 #### Amendments
 

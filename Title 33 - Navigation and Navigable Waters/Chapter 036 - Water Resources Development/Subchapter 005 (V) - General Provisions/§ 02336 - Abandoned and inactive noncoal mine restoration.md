@@ -38,7 +38,7 @@ The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
 

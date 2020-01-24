@@ -12,7 +12,7 @@ The Director of National Intelligence and the Director of the Central Intelligen
 
 #### References in Text
 
-Section 4(b)(3) of the Federal Advisory Committee Act, referred to in par. (3), is section 4(b)(3) of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in theAppendix to Title 5, Government Organization and Employees.
+Section 4(b)(3) of the Federal Advisory Committee Act, referred to in par. (3), is section 4(b)(3) of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 

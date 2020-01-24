@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as provided in section 12152 of this title, the Secretary, on receipt of aproper application, shall issue a certificate of documentation or a temporary certificate of documentation for a vessel satisfying the requirements of section 12103 of this title. The certificate shall contain each endorsement under subchapter II of this chapter for which the owner applies and the vessel is eligible.
+In General.—Except as provided in section 12152 of this title, the Secretary, on receipt of a proper application, shall issue a certificate of documentation or a temporary certificate of documentation for a vessel satisfying the requirements of section 12103 of this title. The certificate shall contain each endorsement under subchapter II of this chapter for which the owner applies and the vessel is eligible.
 
 (b)
 
@@ -40,7 +40,7 @@ In general.—A certificate of documentation for a recreational vessel and the r
 
 &emsp;&emsp;(B)
 
-Phase-in period.—During the period beginning January 1, 2019, and ending December 31, 2021, the owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years for such a certificate of documentation for such vessel or the renewal thereof.
+Phase-in period.—During the period beginning January 1, 2019, and ending December 31, 2021, the owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years forsuch a certificate of documentation for such vessel or the renewal thereof.
 
 &emsp;&emsp;(C)
 

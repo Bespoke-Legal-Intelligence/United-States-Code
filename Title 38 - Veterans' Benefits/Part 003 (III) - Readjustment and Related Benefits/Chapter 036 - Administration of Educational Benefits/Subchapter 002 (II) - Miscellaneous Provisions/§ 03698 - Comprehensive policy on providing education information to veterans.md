@@ -2,7 +2,7 @@
 
 (a)
 
-Comprehensive Policy Required.—The Secretary shall develop a comprehensive policyto improve outreach and transparency to veterans and members of the Armed Forces through the provision of information on institutions of higher learning.
+Comprehensive Policy Required.—The Secretary shall develop a comprehensive policy to improve outreach and transparency to veterans and members of the Armed Forces through the provision of information on institutions of higher learning.
 
 (b)
 
@@ -88,7 +88,7 @@ Definitions.—In this section:
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(1)(C)(iv), (vi), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§1099b) of part H of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(1)(C)(iv), (vi), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§1099b) of part H of subchapter IV of chapter 28 of Title 20. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 Executive Order No. 13607, referred to in subsec. (d)(1), is set out as a note under section 3301 of this title.
 

@@ -22,7 +22,7 @@ Bar To Concurrent Receipt of Transferred Education Benefits and Marine Gunnery S
 
 (f)
 
-Bar To Receipt of Compensation and Pension and Marine Gunnery Sergeant JohnDavid Fry Scholarship Assistance.—The commencement of a program of education under section 3311(b)(9) shall be a bar to the following:
+Bar To Receipt of Compensation and Pension and Marine Gunnery Sergeant John David Fry Scholarship Assistance.—The commencement of a program of education under section 3311(b)(9) shall be a bar to the following:
 
 &emsp;(1) Subsequent payments of dependency and indemnity compensation or pension based on the death of a parent to an eligible person over the age of 18 years by reason of pursuing a course in an educational institution.
 

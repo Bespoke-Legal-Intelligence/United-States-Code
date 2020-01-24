@@ -42,7 +42,7 @@ AIP grant assurances.—Noncompliance with subsection (a) shall not be construed
 
 &emsp;(2)
 
-Pending applications.—Nothing in this section may be construed as interfering with,nullifying, or otherwise affecting determinations made by the Federal Aviation Administration, or to be made by the Administration, with respect to applications under part 161 of title 14, Code of Federal Regulations, that were pending on the date of enactment of this section.
+Pending applications.—Nothing in this section may be construed as interfering with, nullifying, or otherwise affecting determinations made by the Federal Aviation Administration, or to be made by the Administration, with respect to applications under part 161 of title 14, Code of Federal Regulations, that were pending on the date of enactment of this section.
 
 (Added Pub. L. 112–95, title V, §506(a), Feb. 14, 2012, 126 Stat. 105.)
 

@@ -18,7 +18,7 @@ For purposes of this title, the term "Roth IRA" means an individual retirement p
 
 &emsp;The aggregate amount of contributions for any taxable year to all Roth IRAs maintained for the benefit of an individual shall not exceed the excess (if any) of—
 
-&emsp;&emsp;(A) the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (d)(1) or (g) of such section), over
+&emsp;&emsp;(A) the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (d)(1) <sup>1</sup> or (g) of such section), over
 
 &emsp;&emsp;(B) the aggregate amount of contributions for such taxable year to all other individual retirement plans (other than Roth IRAs) maintained for the benefit of the individual.
 
@@ -66,11 +66,7 @@ For purposes of this title, the term "Roth IRA" means an individual retirement p
 
 > &emsp;&emsp;Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
-#### (4) Contributions permitted after age 70½
-
-&emsp;Contributions to a Roth IRA may be made even after the individual for whom the account is maintained has attained age 70½.
-
-#### (5) Mandatory distribution rules not to apply before death
+#### (4) Mandatory distribution rules not to apply before death
 
 &emsp;Notwithstanding subsections (a)(6) and (b)(3) of section 408 (relating to required distributions), the following provisions shall not apply to any Roth IRA:
 
@@ -78,7 +74,7 @@ For purposes of this title, the term "Roth IRA" means an individual retirement p
 
 &emsp;&emsp;(B) The incidental death benefit requirements of section 401(a).
 
-#### (6) Rollover contributions
+#### (5) Rollover contributions
 
 #### (A) In general
 
@@ -88,7 +84,7 @@ For purposes of this title, the term "Roth IRA" means an individual retirement p
 
 &emsp;&emsp;A qualified rollover contribution shall not be taken into account for purposes of paragraph (2).
 
-#### (7) Time when contributions made
+#### (6) Time when contributions made
 
 &emsp;For purposes of this section, the rule of section 219(f)(3) shall apply.
 
@@ -228,7 +224,7 @@ For purposes of this title—
 
 #### (ii) No deduction
 
-&emsp;&emsp;&emsp;Subparagraph (A) shall apply to the transfer of any contribution only to the extent no deduction was allowed with respect to the contribution to the transferor plan.
+&emsp;&emsp;&emsp;Subparagraph (A) shall apply to the transfer of any contribution only to theextent no deduction was allowed with respect to the contribution to the transferor plan.
 
 #### (iii) Conversions
 
@@ -282,13 +278,19 @@ For purposes of this section—
 
 &emsp;(2) contributions to any such pension or account shall not be taken into account for purposes of subsection (c)(2)(B).
 
-(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b), May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 115–97, title I, §§11002(d)(1)(W), 13611(a), Dec. 22, 2017, 131 Stat. 2060, 2165; Pub. L. 115–141, div. U, title IV, §401(a)(77), (78), Mar. 23, 2018, 132 Stat. 1187.)
+(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b), May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 115–97, title I, §§11002(d)(1)(W), 13611(a), Dec. 22, 2017, 131 Stat. 2060, 2165; Pub. L. 115–141, div. U, title IV, §401(a)(77), (78), Mar. 23, 2018, 132 Stat. 1187; Pub. L. 116–94, div. O, title I, §107(c), Dec. 20, 2019, 133 Stat. 3149.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
+#### References in Text
+
+Subsection (d)(1) of such section, referred to in subsec. (c)(2)(A), means section 219(d)(1) of this title, which was repealed by Pub. L. 116–94, div. O, title I, §107(a), Dec. 20, 2019, 133 Stat. 3148.
+
 #### Amendments
+
+<b>2019</b>—Subsec. (c)(4) to (7). Pub. L. 116–94 redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "Contributions to a Roth IRA may be made even after the individual for whom the account is maintained has attained age 70½."
 
 <b>2018</b>—Subsec. (d)(3)(B). Pub. L. 115–141, §401(a)(77), inserted period at end.
 
@@ -302,7 +304,7 @@ Subsec. (d)(6)(B)(iii). Pub. L. 115–97, §13611(a), added cl. (iii).
 
 Subsec. (c)(3)(C), (E). Pub. L. 110–458, §108(h)(1), redesignated subpar. (C) relating to inflation adjustment as subpar. (E).
 
-Subsec. (d)(3)(B). Pub. L. 110–458, §108(d)(2), struck out "(other than a Roth IRA)" after "section 402(c)(8)(B))" and inserted at end "This paragraph shall not apply to a distribution which is a qualified rollover contribution from a Roth IRA or a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A)".
+Subsec. (d)(3)(B). Pub. L. 110–458, §108(d)(2), struck out "(other than a Roth IRA)" after "section 402(c)(8)(B))" and inserted at end "This paragraph shall not apply to a distribution which is a qualified rollover contribution from a Roth IRA or a qualified rollover contribution from a designated Roth account which isa rollover contribution described in section 402A(c)(3)(A)".
 
 Subsec. (e). Pub. L. 110–245, §109(b), amended subsec. (e), as in effect after amendment by section 824(a) of Pub. L. 109–280, by amending text generally. Prior to amendment, text read as follows: "For purposes of this section, the term 'qualified rollover contribution' means a rollover contribution—
 
@@ -386,7 +388,7 @@ In general.—The amount required to be included in gross income for each of the
 
 Limitation on aggregate amount included.—The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceed the aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 4-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years."
 
-Subsec. (e). Pub. L. 109–280, §824(a), reenacted heading without change and amended text of subsec. (e) generally. Prior to amendments by Pub. L. 109–280, §824(a), and Pub. L. 110–245, §109(a), text read as follows: "For purposes of this section, the term 'qualified rollover contribution' means a rollover contribution to a Roth IRA from another such account, or from an individual retirement plan, but only if such rollover contribution meets the requirements of section 408(d)(3). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA." See 2008 Amendment note above.
+Subsec. (e). Pub. L. 109–280, §824(a), reenacted heading without change and amended text of subsec. (e) generally. Prior to amendments by Pub. L. 109–280, §824(a), and Pub. L. 110–245, §109(a), text read as follows: "For purposes of this section, the term 'qualified rollover contribution' means a rollover contribution to a Roth IRA from another such account, or from an individual retirement plan, but only if such rollover contribution meets the requirements of section 408(d)(3). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individualretirement plan (other than a Roth IRA) to a Roth IRA." See 2008 Amendment note above.
 
 <b>2001</b>—Subsec. (e). Pub. L. 107–16 inserted "Such term includes a rollover contribution described in section 402A(c)(3)(A)." after first sentence.
 
@@ -443,6 +445,10 @@ Subsec. (d)(6). Pub. L. 105–206, §6005(b)(6)(A), added par. (6).
 Subsec. (d)(7). Pub. L. 105–206, §6005(b)(7), added par. (7).
 
 Subsec. (f). Pub. L. 105–206, §6005(b)(9), added subsec. (f).
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–94 applicable to contributions made for taxable years beginning after Dec. 31, 2019, see section 107(d)(1) of div. O of Pub. L. 116–94, set out in a note under section 219 of this title.
 
 #### Effective Date of 2017 Amendment
 
@@ -514,7 +520,7 @@ Airline payment amount.—
 
 &emsp;&emsp;"(A)
 
-In general.—The term 'airline payment amount' means any payment of any money or otherproperty which is payable by a commercial passenger airline carrier to a qualified airline employee—
+In general.—The term 'airline payment amount' means any payment of any money or other property which is payable by a commercial passenger airline carrier to a qualified airline employee—
 
 &emsp;&emsp;&emsp;"(i) under the approval of an order of a Federal bankruptcy court in a case filed after September 11, 2001, and before January 1, 2007, and
 
@@ -547,4 +553,6 @@ Reporting requirements.—If a commercial passenger airline carrier pays 1 or mo
 "(c)
 
 Effective Date.—This section shall apply to transfers made after the date of the enactment of this Act \[Dec. 23, 2008\] with respect to airline payment amounts paid before, on, or after such date."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

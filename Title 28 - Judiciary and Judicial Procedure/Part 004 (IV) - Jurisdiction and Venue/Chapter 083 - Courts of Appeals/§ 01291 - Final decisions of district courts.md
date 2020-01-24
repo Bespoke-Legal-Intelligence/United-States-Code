@@ -1,6 +1,6 @@
 ### §1291. Final decisions of district courts
 
-The courts of appeals (other than the United States Court of Appeals for the Federal Circuit)shall have jurisdiction of appeals from all final decisions of the district courts of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, and the District Court of the Virgin Islands, except where a direct review may be had in the Supreme Court. The jurisdiction of the United States Court of Appeals for the Federal Circuit shall be limited to the jurisdiction described in sections 1292(c) and (d) and 1295 of this title.
+The courts of appeals (other than the United States Court of Appeals for the Federal Circuit) shall have jurisdiction of appeals from all final decisions of the district courts of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, and the District Court of the Virgin Islands, except where a direct review may be had in the Supreme Court. The jurisdiction of the United States Court of Appeals for the Federal Circuit shall be limited to the jurisdiction described in sections 1292(c) and (d) and 1295 of this title.
 
 (June 25, 1948, ch. 646, 62 Stat. 929; Oct. 31, 1951, ch. 655, §48, 65 Stat. 726; Pub. L. 85–508, §12(e), July 7, 1958, 72 Stat. 348; Pub. L. 97–164, title I, §124, Apr. 2, 1982, 96 Stat. 36.)
 
@@ -80,5 +80,5 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct.1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 

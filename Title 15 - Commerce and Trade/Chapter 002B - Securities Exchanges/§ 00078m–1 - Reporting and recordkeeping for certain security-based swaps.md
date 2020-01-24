@@ -70,7 +70,7 @@ An individual or entity described in subsection (b) shall—
 
 #### (d) Identical data
 
-In prescribing rules under this section, the Commission shall require individuals and entities described in subsection (b) to submit to the Commission a report that contains data that is not less comprehensive than the data required to be collected by security-based swap data repositories under this chapter.
+In prescribing rules under this section, the Commission shall require individuals and entities described in subsection (b) to submit to the Commission a report that contains data that isnot less comprehensive than the data required to be collected by security-based swap data repositories under this chapter.
 
 (June 6, 1934, ch. 404, title I, §13A, as added Pub. L. 111–203, title VII, §766(a), July 21, 2010, 124 Stat. 1797.)
 

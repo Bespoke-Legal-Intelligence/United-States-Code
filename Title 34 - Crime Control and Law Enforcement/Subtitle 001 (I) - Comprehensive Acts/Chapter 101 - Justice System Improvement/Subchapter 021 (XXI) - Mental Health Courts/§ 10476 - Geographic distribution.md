@@ -10,5 +10,5 @@ Section was formerly classified to section 3796ii–5 of Title 42, The Public He
 
 #### Prior Provisions
 
-A prior section 2206 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, §50001(a)(3), Sept. 13, 1994, 108 Stat. 1957, related to Federal share of grants, prior to repeal by Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(A)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+A prior section 2206 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, §50001(a)(3), Sept. 13, 1994,108 Stat. 1957, related to Federal share of grants, prior to repeal by Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(A)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 

@@ -42,7 +42,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (4) Considerations
 
-&emsp;In adopting standards under paragraph (1), the Secretary of Homeland Security shall give due consideration to the recommended national standards provided by the Commission under section 30306(e) of this title.
+&emsp;In adopting standards under paragraph (1), the Secretary of Homeland Security shall givedue consideration to the recommended national standards provided by the Commission under section 30306(e) of this title.
 
 #### (5) Definition
 
@@ -52,7 +52,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (1) In general
 
-&emsp;Not later than 180 days after March 7, 2013, the Secretary of Health and Human Services shall publish a final rule adopting nationalstandards for the detection, prevention, reduction, and punishment of rape and sexual assault in facilities that maintain custody of unaccompanied alien children (as defined in section 279(g) of title 6).
+&emsp;Not later than 180 days after March 7, 2013, the Secretary of Health and Human Services shall publish a final rule adopting national standards for the detection, prevention, reduction, and punishment of rape and sexual assault in facilities that maintain custody of unaccompanied alien children (as defined in section 279(g) of title 6).
 
 #### (2) Applicability
 
@@ -194,7 +194,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (4) Cooperation with survey
 
-&emsp;For each fiscal year, any amount that a State receives for that fiscal year under a grant program covered by this subsection shall not be used for prison purposes (and shall be returned to the grant program if no other authorized use is available), unless the chief executive of the State submits to the Attorney General a certification that neither the State, nor any political subdivision or unit of local government within the State, is listed in a report issued by the Attorney General pursuant to section 30303(c)(2)(C) of this title.
+&emsp;For each fiscal year, any amount that a State receives for that fiscal year under agrant program covered by this subsection shall not be used for prison purposes (and shall be returned to the grant program if no other authorized use is available), unless the chief executive of the State submits to the Attorney General a certification that neither the State, nor any political subdivision or unit of local government within the State, is listed in a report issued by the Attorney General pursuant to section 30303(c)(2)(C) of this title.
 
 #### (5) Redistribution of amounts
 
@@ -202,7 +202,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (6) Implementation
 
-&emsp;The Attorney General shall establish procedures to implement this subsection, includingprocedures for effectively applying this subsection to discretionary grant programs.
+&emsp;The Attorney General shall establish procedures to implement this subsection, including procedures for effectively applying this subsection to discretionary grant programs.
 
 #### (7) Effective date
 
@@ -260,7 +260,7 @@ Section was formerly classified to section 15607 of Title 42, The Public Health 
 
 <b>2016</b>—Subsec. (e)(1)(A)(iii). Pub. L. 114–324, §5, added cl. (iii).
 
-Subsec. (e)(2). Pub. L. 114–324, §7(2)(A), added par. (2) and struck out former par. (2) which read as follows: "For each fiscal year, any amount that a State would otherwise receive for prison purposes for that fiscal year under a grant program covered by this subsection shall be reduced by 5 percent, unless the chief executive of the State submits to the Attorney General—
+Subsec. (e)(2). Pub. L. 114–324, §7(2)(A), added par. (2) and struck out former par. (2) which read as follows:"For each fiscal year, any amount that a State would otherwise receive for prison purposes for that fiscal year under a grant program covered by this subsection shall be reduced by 5 percent, unless the chief executive of the State submits to the Attorney General—
 
 &emsp;"(A) a certification that the State has adopted, and is in full compliance with, the national standards described in subsection (a); or
 

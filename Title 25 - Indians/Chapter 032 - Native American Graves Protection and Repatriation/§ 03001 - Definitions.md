@@ -18,7 +18,7 @@ For purposes of this chapter, the term—
 
 &emsp;(4) "Federal agency" means any department, agency, or instrumentality of the United States. Such term does not include the Smithsonian Institution.
 
-&emsp;(5) "Federal lands" means any land other than tribal lands which are controlled or owned by the United States, including lands selected by but not yet conveyed to Alaska Native Corporations and groups organized pursuant to the Alaska Native Claims Settlement Act of 1971 \[43 U.S.C. 1601 et seq.\].
+&emsp;(5) "Federal lands" means any land other than tribal lands which are controlled orowned by the United States, including lands selected by but not yet conveyed to Alaska Native Corporations and groups organized pursuant to the Alaska Native Claims Settlement Act of 1971 \[43 U.S.C. 1601 et seq.\].
 
 &emsp;(6) "Hui Malama I Na Kupuna O Hawai'i Nei" means the nonprofit, Native Hawaiian organization incorporated under the laws of the State of Hawaii by that name on April 17, 1989, for the purpose of providing guidance and expertise in decisions dealing with Native Hawaiian cultural issues, particularly burial issues.
 

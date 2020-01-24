@@ -6,7 +6,7 @@ The Secretary of Energy shall ensure that an investigation meeting the requireme
 
 &emsp;(2) has or may have regular access to a location where Restricted Data is present.
 
-(Pub. L. 107–314, div. D, title XLV, §4503, formerly Pub. L. 106–65, div. C, title XXXI, §3143, Oct. 5, 1999, 113 Stat. 934; renumbered Pub. L. 107–314, div. D, title XLV, §4503, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(4),Nov. 24, 2003, 117 Stat. 1772; Pub. L. 112–239, div. C, title XXXI, §3131(l), Jan. 2, 2013, 126 Stat. 2182.)
+(Pub. L. 107–314, div. D, title XLV, §4503, formerly Pub. L. 106–65, div. C, title XXXI, §3143, Oct. 5, 1999, 113 Stat. 934; renumbered Pub. L. 107–314, div. D, title XLV, §4503, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(4), Nov. 24, 2003, 117 Stat. 1772; Pub. L. 112–239, div. C, title XXXI, §3131(l), Jan. 2, 2013, 126 Stat. 2182.)
 
 #### Codification
 

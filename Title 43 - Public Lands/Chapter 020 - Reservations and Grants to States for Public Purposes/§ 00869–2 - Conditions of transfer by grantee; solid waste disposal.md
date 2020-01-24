@@ -6,9 +6,9 @@ Title to lands conveyed by the Government under sections 869 to 869–4 of this 
 
 #### (b) New disposal sites
 
-(1) Notwithstanding the provisions of subsection (a) of this section, if the Secretary receives an application for conveyance of landunder sections 869 to 869–4 of this title for the express purpose of solid waste disposal or for another purpose which the Secretary finds may include the disposal, placement, or release of any hazardous substance, the Secretary may convey such land subject only to the provisions of this subsection.
+(1) Notwithstanding the provisions of subsection (a) of this section, if the Secretary receives an application for conveyance of land under sections 869 to 869–4 of this title for the express purpose of solid waste disposal or for another purpose which the Secretary finds may include the disposal, placement, or release of any hazardous substance, the Secretary may convey such land subject only to the provisions of this subsection.
 
-(2) Prior to issuance of any conveyance of land under this subsection the Secretary shall investigate the land covered by an application for such conveyance to determine whether or not any hazardous substance is present on such land. Such investigation shall include a review of any available records as to the use of such land and all appropriate analysis of the soil, water and air associated with such land. No land shall be conveyed under this subsection if such investigation indicates that any hazardous substance is present on such land.
+(2) Prior to issuance of any conveyance of land under this subsection the Secretary shall investigate the land covered by an application for such conveyance to determine whether or not any hazardous substance is present on such land. Such investigation shall include a review of any available records as to the use of such land and all appropriate analysis of the soil, water andair associated with such land. No land shall be conveyed under this subsection if such investigation indicates that any hazardous substance is present on such land.
 
 (3) No application for conveyance under this subsection shall be acted on by the Secretary until the applicant has furnished evidence, satisfactory to the Secretary, that a copy of the application and information concerning the proposed use of the land covered by the application has been provided to the Environmental Protection Agency and to all other State and Federal agencies with responsibility for enforcement of State and Federal laws applicable to lands used for the disposal, placement, or release of solid waste or any hazardous substance.
 
@@ -34,7 +34,7 @@ Title to lands conveyed by the Government under sections 869 to 869–4 of this 
 
 (2) Upon the application or with the concurrence of a party to whom the Secretary, prior to November 10, 1988, leased lands pursuant to sections 869 to 869–4 of this title, the Secretary may convey in fee the lands covered by such lease or any portion thereof which have been used for solid waste disposal or for any other purpose that the Secretary finds may result in the disposal, placement, or release of any hazardous substance. Notwithstanding any other provision of sections 869 to 869–4 of this title, a patent issued pursuant to this paragraph shall not contain a reverter provision and the lands covered by such patent shall not under any circumstances revert to the United States by operation of law after the issuance of such patent and shall not be subject to the provisions of subsection (a) of this section.
 
-(June 14, 1926, ch. 578, §3, as added June 4, 1954, ch. 263, 68 Stat. 175; amended Pub. L. 86–292, §2,Sept. 21, 1959, 73 Stat. 571; Pub. L. 100–648, §2, Nov. 10, 1988, 102 Stat. 3813.)
+(June 14, 1926, ch. 578, §3, as added June 4, 1954, ch. 263, 68 Stat. 175; amended Pub. L. 86–292, §2, Sept. 21, 1959, 73 Stat. 571; Pub. L. 100–648, §2, Nov. 10, 1988, 102 Stat. 3813.)
 
 #### References in Text
 

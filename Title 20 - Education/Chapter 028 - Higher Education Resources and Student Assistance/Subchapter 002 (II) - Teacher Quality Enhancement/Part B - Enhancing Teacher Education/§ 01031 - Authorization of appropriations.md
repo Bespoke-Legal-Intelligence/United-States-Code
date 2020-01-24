@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out this part such sums as may 
 
 #### Prior Provisions
 
-A prior section 1031, Pub. L. 89–329, title II, §221, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1385; amended Pub. L. 99–498, title II, §204(b)(1), Oct. 17,1986, 100 Stat. 1289; Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 469, authorized grants in accordance with former sections 1032 and 1033 of this title, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
+A prior section 1031, Pub. L. 89–329, title II, §221, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1385; amended Pub. L. 99–498, title II, §204(b)(1), Oct. 17, 1986, 100 Stat. 1289; Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 469, authorized grants in accordance with former sections 1032 and 1033 of this title, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
 Another prior section 1031, Pub. L. 89–329, title II, §221, as added Pub. L. 92–318, title I, §111(b)(3)(A), June 23, 1972, 86 Stat. 239, contained the grant authority for training and research programs, prior to the general amendment of this subchapter by Pub. L. 96–374.
 

@@ -24,7 +24,7 @@
 
 #### legislative statements
 
-Section 1301 of the House amendment is identical with the provision contained in section 1301 of the House bill and adopted by the Senate amendment. Section 1301(c)(1) indicates that a basis for lifting the stay is that the debtor did not receive consideration for the claim by the creditor, or in other words, the debtor is really the "codebtor." As with other sections in title 11, the standard of receiving consideration is a generalrule, but where two co-debtors have agreed to share liabilities in a different manner than profits it is the individual who does not ultimately bear the liability that is protected by the stay under section 1301.
+Section 1301 of the House amendment is identical with the provision contained in section 1301 of the House bill and adopted by the Senate amendment. Section 1301(c)(1) indicates that a basis for lifting the stay is that the debtor did not receive consideration for the claim by the creditor, or in other words, the debtor is really the "codebtor." As with other sections in title 11, the standard of receiving consideration is a general rule, but where two co-debtors have agreed to share liabilities in a different manner than profits it is the individual who does not ultimately bear the liability that is protected by the stay under section 1301.
 
 #### senate report no. 95–989
 

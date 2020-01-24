@@ -6,7 +6,7 @@ Whoever falsely and willfully represents himself to be a citizen of the United S
 
 #### Historical and Revision Notes
 
-Based on subsection (a), paragraph (18) and subsection (d), of section 746, title 8, U.S.C., 1940 ed., Aliensand Nationality (Oct. 14, 1940, ch. 876, §346(a), par. (18), and (d), 54 Stat. 1165, 1167).
+Based on subsection (a), paragraph (18) and subsection (d), of section 746, title 8, U.S.C., 1940 ed., Aliens and Nationality (Oct. 14, 1940, ch. 876, §346(a), par. (18), and (d), 54 Stat. 1165, 1167).
 
 Section consolidates said provisions of section 746, title 8, U.S.C., 1940 ed., Aliens and Nationality. The word "willfully" was substituted for "knowingly", "$1,000" for "$5,000", and "three years" for "five years", to harmonize with congressional intent evidenced by the other sections of this chapter.
 

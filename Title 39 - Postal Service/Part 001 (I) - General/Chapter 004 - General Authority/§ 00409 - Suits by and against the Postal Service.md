@@ -54,7 +54,7 @@
 
 (4) Appropriate officials of a State or a political subdivision of a State may make recommendations to the Postal Service concerning measures necessary to meet the requirements of paragraphs (1) and (2). Such officials may also make recommendations to the Postal Service concerning measures which should be taken in the construction or alteration of the building to take into account local conditions. The Postal Service shall give due consideration to any such recommendations.
 
-(5) In addition to consulting with local and State officials under paragraph (3), the Postal Service shall establish procedures for soliciting, assessing, and incorporating local community input on real property and land use decisions.
+(5) In addition to consulting with local and State officials under paragraph (3), the PostalService shall establish procedures for soliciting, assessing, and incorporating local community input on real property and land use decisions.
 
 (6) For purposes of this subsection, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, and a territory or possession of the United States.
 
@@ -68,7 +68,7 @@
 
 > The Postal Service may, by contract or otherwise, employ attorneys to obtain any legal representation that it is precluded from obtaining from the Department of Justice under this paragraph.
 
-(2) In any circumstance not covered by paragraph (1), the Department of Justice shall, under section 411, furnish the Postal Service such legal representation as it may require, except that,with the prior consent of the Attorney General, the Postal Service may, in any such circumstance, employ attorneys by contract or otherwise to conduct litigation brought by or against the Postal Service or its officers or employees in matters affecting the Postal Service.
+(2) In any circumstance not covered by paragraph (1), the Department of Justice shall, under section 411, furnish the Postal Service such legal representation as it may require, except that, with the prior consent of the Attorney General, the Postal Service may, in any such circumstance, employ attorneys by contract or otherwise to conduct litigation brought by or against the Postal Service or its officers or employees in matters affecting the Postal Service.
 
 (3)(A) In any action, suit, or proceeding in a court of the United States arising in whole or in part under any of the provisions of law referred to in subparagraph (B) or (C) of paragraph (1), and to which the Commission is not otherwise a party, the Commission shall be permitted to appear as a party on its own motion and as of right.
 

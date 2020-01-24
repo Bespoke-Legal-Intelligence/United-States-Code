@@ -64,7 +64,7 @@ The Administrator shall permit the recipient of a grant under section 604 or 605
 
 #### (B) Analysts
 
-&emsp;&emsp;If amounts awarded to a grant recipient under section 604 or 605 of this title are used for paying salary or benefits of a qualified intelligence analyst under subsection (a)(10), the Administrator shall make such amounts available without time limitations placed on the period of time that the analyst can serve under the grant.
+&emsp;&emsp;If amounts awarded to a grant recipient under section 604 or 605 of this title are used for paying salary or benefits of a qualified intelligence analyst under subsection (a)(10),<sup>1</sup> the Administrator shall make such amounts available without time limitations placed on the period of time that the analyst can serve under the grant.
 
 #### (4) Construction
 
@@ -118,6 +118,8 @@ If an applicant for a grant under section 604 or 605 of this title proposes to u
 
 #### References in Text
 
+Subsection (a)(10), referred to in subsec. (b)(3)(B), was redesignated subsec. (a)(11) by Pub. L. 114–190, title III, §3603(1), July 15, 2016, 130 Stat. 665.
+
 The Fair Labor Standards Act of 1938, referred to in subsec. (d)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Amendments
@@ -133,4 +135,6 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (d)(1), is act June
 Subsec. (a)(10). Pub. L. 110–412, §2(1)(B), inserted ", regardless of whether such analysts are current or new full-time employees or contract employees" after "analysts".
 
 Subsec. (b)(3) to (5). Pub. L. 110–412, §2(2), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

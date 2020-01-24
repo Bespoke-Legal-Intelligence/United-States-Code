@@ -26,7 +26,7 @@ A certification described in this subsection is a certification by the President
 
 &emsp;(5) has ceased the development and deployment of medium- and long-range surface-to-surface ballistic missiles;
 
-&emsp;(6) is not pursuing or engaged in the research, development, acquisition, production, transfer, or deployment of biological, chemical, or nuclear weapons, and has provided credible assurances that it will not engage in such activities in the future; and
+&emsp;(6) is not pursuing or engaged in the research, development, acquisition, production, transfer, or deployment of biological, chemical, or nuclear weapons, and has providedcredible assurances that it will not engage in such activities in the future; and
 
 &emsp;(7) has agreed to allow the United Nations and other international observers to verify that the Government of Syria is not engaging in such activities and to assess the credibility of the assurances provided by that Government.
 

@@ -30,7 +30,7 @@ In carrying out the provisions of subsection (a) of this section the Administrat
 
 &emsp;(5) establish and maintain research fellowships at public or nonprofit private educational institutions or research organizations;
 
-&emsp;(6) collect and disseminate, in cooperation with other Federal departments and agencies, and with other public or private agencies, institutions, and organizations having relatedresponsibilities, basic data on chemical, physical, and biological effects of varying water quality and other information pertaining to pollution and the prevention, reduction, and elimination thereof;
+&emsp;(6) collect and disseminate, in cooperation with other Federal departments and agencies, and with other public or private agencies, institutions, and organizations having related responsibilities, basic data on chemical, physical, and biological effects of varying water quality and other information pertaining to pollution and the prevention, reduction, and elimination thereof;
 
 &emsp;(7) develop effective and practical processes, methods, and prototype devices for the prevention, reduction, and elimination of pollution; and
 
@@ -78,7 +78,7 @@ The Administrator shall conduct research and technical development work, and mak
 
 &emsp;(C) provide, in addition to the program established under paragraph (1) of this subsection, training in technical matters relating to the causes, prevention, reduction, and elimination of pollution for personnel of public agencies and other persons with suitable qualifications.
 
-(4) The Administrator shall submit, through the President, a report to the Congress not later than December 31, 1973, summarizing the actions taken under this subsection and the effectiveness of such actions, and setting forth the number of persons trained, the occupational categories for which training was provided, the effectiveness of other Federal, State, and local training programs in this field, together with estimates of future needs, recommendations on improving training programs, and such other information and recommendations, including legislative recommendations, as he deems appropriate.
+(4) The Administrator shall submit, through the President, a report to the Congress not later than December 31, 1973, summarizing the actions taken under this subsection and the effectiveness of such actions, and setting forth the number of persons trained, the occupational categories for which training was provided, the effectiveness of other Federal, State, and local training programs in this field, together with estimates of future needs, recommendations onimproving training programs, and such other information and recommendations, including legislative recommendations, as he deems appropriate.
 
 #### (h) Lake pollution
 
@@ -180,7 +180,7 @@ Not later than 18 months after October 10, 2000, after consultation and in coope
 
 For purposes of subsection (b)(8), the term "nonprofit organization" means a nonprofit organization that the Administrator determines, after consultation with the States regarding what small publicly owned treatments works in the State find to be most beneficial and effective, is qualified and experienced in providing on-site training and technical assistance to small publicly owned treatment works.
 
-(June 30, 1948, ch. 758, title I, §104, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 819; amended Pub. L. 93–207, §1(1), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, §1, Jan. 2, 1975, 88 Stat. 1924; Pub. L. 95–217, §§4(a), (b), 6, 7, Dec. 27, 1977, 91 Stat. 1566, 1567; Pub. L. 95–576, §1(a), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–483, §1(a), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §§101(a), 102, Feb. 4, 1987, 101 Stat. 8, 9; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 105–362, title V, §501(a)(1), (d)(2)(A), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–284, §3(a), Oct. 10, 2000, 114 Stat. 871; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 115–270, title IV, §4103, Oct. 23, 2018, 132 Stat. 3872.)
+(June 30, 1948, ch. 758, title I, §104, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 819; amendedPub. L. 93–207, §1(1), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, §1, Jan. 2, 1975, 88 Stat. 1924; Pub. L. 95–217, §§4(a), (b), 6, 7, Dec. 27, 1977, 91 Stat. 1566, 1567; Pub. L. 95–576, §1(a), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–483, §1(a), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §§101(a), 102, Feb. 4, 1987, 101 Stat. 8, 9; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 105–362, title V, §501(a)(1), (d)(2)(A), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–284, §3(a), Oct. 10, 2000, 114 Stat. 871; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 115–270, title IV, §4103, Oct. 23, 2018, 132 Stat. 3872.)
 
 #### Codification
 

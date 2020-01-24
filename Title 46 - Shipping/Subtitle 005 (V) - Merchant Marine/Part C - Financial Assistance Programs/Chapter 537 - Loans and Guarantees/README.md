@@ -6,7 +6,12 @@
 | :--- | ---: |
 | [53701\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053701%20-%20Definitions.md) | Definitions. |
 | [53702\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053702%20-%20General%20authority.md) | General authority. |
-| [53703\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053703%20-%20Application%20procedures.md) | Application procedures. |
+| [53703\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053703%20-%20Application%20and%20administration.md) | Application procedures.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [53704\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053704%20-%20Funding%20limits.md) | Funding limits. |
 | [53705\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053705%20-%20Pledge%20of%20United%20States%20Government.md) | Pledge of United States Government. |
 | [53706\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053706%20-%20Eligible%20purposes%20of%20obligations.md) | Eligible purposes of obligations. |
@@ -22,6 +27,7 @@
 | [53716\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053716%20-%20Deposit%20fund.md) | Deposit fund. |
 | [53717\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053717%20-%20Management%20of%20funds%20in%20the%20Treasury.md) | Management of funds in the Treasury. |
 | [53718\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053718%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| [53719\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2053719%20-%20Best%20practices.md) | Best practices. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,7 +48,7 @@
 |  |  |
 | :--- | ---: |
 | [53731\.](Subchapter%20003%20%28III%29%20-%20Particular%20Projects/%C2%A7%2053731%20-%20Commercial%20demonstration%20ocean%20thermal%20energy%20conversion%20facilities%20and%20plantships.md) | Commercial demonstration ocean thermal energy conversion facilities and plantships. |
-| [53732\.](Subchapter%20003%20%28III%29%20-%20Particular%20Projects/%C2%A7%2053732%20-%20Eligible%20export%20vessels.md) | Eligible export vessels. |
+| \[53732. | Repealed.\] |
 | [53733\.](Subchapter%20003%20%28III%29%20-%20Particular%20Projects/%C2%A7%2053733%20-%20Shipyard%20modernization%20and%20improvement.md) | Shipyard modernization and improvement. |
 | [53734\.](Subchapter%20003%20%28III%29%20-%20Particular%20Projects/%C2%A7%2053734%20-%20Replacement%20of%20vessels%20because%20of%20changes%20in%20operating%20standards.md) | Replacement of vessels because of changes in operating standards. |
 | [53735\.](Subchapter%20003%20%28III%29%20-%20Particular%20Projects/%C2%A7%2053735%20-%20Fisheries%20financing%20and%20capacity%20reduction.md) | Fisheries financing and capacity reduction. |
@@ -51,7 +57,11 @@
 
 #### Amendments
 
+<b>2019</b>—Pub. L. 116–92, div. C, title XXXV, §3506(l), Dec. 20, 2019, 133 Stat. 1974, added item 53719 and struck out item 53732 "Eligible export vessels".
+
 <b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(A), Jan. 28, 2008, 122 Stat. 598, inserted "or Administrator" after "Secretary" in items 53722 and 53723.
+
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 116–92 without corresponding amendment of analysis.</i>
 
 
 ---

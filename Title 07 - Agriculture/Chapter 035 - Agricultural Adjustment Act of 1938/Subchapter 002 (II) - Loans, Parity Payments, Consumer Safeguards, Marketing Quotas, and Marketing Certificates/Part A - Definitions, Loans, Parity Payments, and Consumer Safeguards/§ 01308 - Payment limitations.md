@@ -94,7 +94,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary shall attribute payments at the third and fourth tiers of ownership in the same manner as specified in subparagraph (C).
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary shall attribute payments at thethird and fourth tiers of ownership in the same manner as specified in subparagraph (C).
 
 #### (ii) Fourth-tier ownership
 
@@ -188,7 +188,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (B) Family members
 
-&emsp;&emsp;The addition of a family member to a farming operation under the criteria set out in section 1308–1 of this title shall be considered a bona fide and substantive change in the farming operation.
+&emsp;&emsp;The addition of a family member to a farming operation under the criteria set outin section 1308–1 of this title shall be considered a bona fide and substantive change in the farming operation.
 
 #### (8) Death of owner
 
@@ -312,13 +312,13 @@ Par. (2)(B)(vi). Pub. L. 101–624, §1111(a)(3)(D), substituted "section 107B(f
 
 Par. (5)(B)(ii)(III). Pub. L. 101–624, §1111(e), added subcl. (III).
 
-Par. (5)(B)(iii). Pub. L. 101–624, §1111(c), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "Such regulations shall provide that, with respect to any married couple, the husband and wife shall be considered to be one person, except that any married couple consisting of spouses who, prior to their marriage, were separately engaged in unrelated farming operations, each spouse shall be treated as a separate person with respect to the farming operation brought intothe marriage by such spouse so long as such operation remains as a separate farming operation, for the purposes of the application of the limitations under this section."
+Par. (5)(B)(iii). Pub. L. 101–624, §1111(c), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "Such regulations shall provide that, with respect to any married couple, the husband and wife shall be considered to be one person, except that any married couple consisting of spouses who, prior to their marriage, were separately engaged in unrelated farming operations, each spouse shall be treated as a separate person with respect to the farming operation brought into the marriage by such spouse so long as such operation remains as a separate farming operation, for the purposes of the application of the limitations under this section."
 
 <b>1989</b>—Par. (5)(D). Pub. L. 101–217, §2, amended subpar. (D) generally, striking out cl. (i) designation, substituting "Any" for "Except as provided in clause (ii), any" and "ineligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land" for "considered the same person as the landlord", and struck out cls. (ii) and (iii) which read as follows:
 
 "(ii) A tenant that because of any act or failure to act would otherwise be considered the same person as the landlord under clause (i) shall not be considered the same person as the landlord if the Secretary has at any time made a determination, for purposes of this section, regarding the number of persons with respect to the tenant's operation on such land for the 1989 crop year and the landlord did not consent to or knowingly participate in such act or failure to act.
 
-"(iii) Any tenant that would be considered to be the same person as the landlord but for the operation of clause (ii) shall be eligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land only to the extent that the tenant would be eligible for such payments if the tenant were to be considered the same person as the landlord under the regulations in place immediately prior to the enactment of this subparagraph."
+"(iii) Any tenant that would be considered to be the same person as the landlord but for the operation ofclause (ii) shall be eligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land only to the extent that the tenant would be eligible for such payments if the tenant were to be considered the same person as the landlord under the regulations in place immediately prior to the enactment of this subparagraph."
 
 Pub. L. 101–217, §1, in temporarily amending subpar. (D) generally, designated existing provisions as cl. (i) and added cls. (ii) and (iii). See Effective and Termination Dates of 1989 Amendment note below.
 
@@ -374,7 +374,7 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 Pub. L. 101–217, §1, Dec. 11, 1989, 103 Stat. 1857, provided that the amendment made by that section is effective only for the 1989 crops.
 
-Pub. L. 101–217, §2, Dec. 11, 1989, 103 Stat. 1857, as amended by Pub. L. 101–624, title XI, §1111(i), Nov. 28,1990, 104 Stat. 3500, provided that the amendment made by that section is effective beginning with the 1990 crops.
+Pub. L. 101–217, §2, Dec. 11, 1989, 103 Stat. 1857, as amended by Pub. L. 101–624, title XI, §1111(i), Nov. 28, 1990, 104 Stat. 3500, provided that the amendment made by that section is effective beginning with the 1990 crops.
 
 #### Effective Date of 1987 Amendment
 
@@ -384,7 +384,7 @@ Pub. L. 100–203, title I, §§1301(a), 1303, Dec. 22, 1987, 101 Stat. 1330–1
 
 Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346, provided that the amendment made by Pub. L. 99–500 and Pub. L. 99–591 is effective with respect to each of the 1987 through 1990 crops.
 
-Pub. L. 99–500, §108(b), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99–591, §108(b), Oct. 30, 1986, 100 Stat. 3341–347, provided that: "The amendments made by subsection (a) \[amending this section\] shall not apply with respect to any payment or loan received under any agreement or contract made before the date of enactment of this Act \[Oct. 18, 1986\]."
+Pub. L. 99–500, §108(b), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99–591, §108(b), Oct. 30, 1986, 100 Stat. 3341–347, provided that: "The amendments made by subsection (a) \[amending this section\] shall not apply with respect to any payment or loan received under anyagreement or contract made before the date of enactment of this Act \[Oct. 18, 1986\]."
 
 #### Transition Provisions
 
@@ -452,7 +452,7 @@ Pub. L. 100–203, title I, §1305(d), Dec. 22, 1987, 101 Stat. 1330–18, provi
 
 Pub. L. 99–500, §108(c), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99–591, §108(c), Oct. 30, 1986, 100 Stat. 3341–347, provided that:
 
-"(1)(A) The Secretary of Agriculture shall review the regulations in effect on the date of enactment of this Act \[Oct. 18, 1986\] that define 'person' under section 1001of the Food Security Act of 1985 \[this section\] and related regulations in effect on such date otherwise affecting the payment limitations under such section, to determine ways in which such regulations can be revised to better ensure the fair and reasonable application of limitations and eliminate fraud and abuse in the application of such payment limitations.
+"(1)(A) The Secretary of Agriculture shall review the regulations in effect on the date of enactment of this Act \[Oct. 18, 1986\] that define 'person' under section 1001 of the Food Security Act of 1985 \[this section\] and related regulations in effect on such date otherwise affecting the payment limitations under such section, to determine ways in which such regulations can be revised to better ensure the fair and reasonable application of limitations and eliminate fraud and abuse in the application of such payment limitations.
 
 "(B) The Secretary also shall review the amendments to section 1001 of the Food Security Act of 1985 made by this section.
 
@@ -460,7 +460,7 @@ Pub. L. 99–500, §108(c), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99�
 
 &emsp;"(A) with respect to the matters reviewed under paragraph (1)(A), proposed regulations or amendments to regulations, to take effect not earlier than October 1, 1987, that will meet the object with respect to limitations specified in paragraph (1)(A); and
 
-&emsp;"(B) with respect to the matters reviewed under paragraph (1)(B), recommendations on legislative changes to section 1001 of the Food Security Act of 1985 that the Secretary determines are necessary or appropriate."
+&emsp;"(B) with respect to the matters reviewed under paragraph (1)(B), recommendations on legislativechanges to section 1001 of the Food Security Act of 1985 that the Secretary determines are necessary or appropriate."
 
 #### Separate Person Status Among Family Members
 

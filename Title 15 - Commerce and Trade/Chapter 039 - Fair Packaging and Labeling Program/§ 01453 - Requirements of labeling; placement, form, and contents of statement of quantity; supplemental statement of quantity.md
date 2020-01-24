@@ -12,7 +12,7 @@ No person subject to the prohibition contained in section 1452 of this title sha
 
 &emsp;&emsp;(A)(i) if on a package labeled in terms of weight, shall be expressed in pounds, with any remainder in terms of ounces or common or decimal fractions of the pound; or in the case of liquid measure, in the largest whole unit (quarts, quarts and pints, or pints, as appropriate) with any remainder in terms of fluid ounces or common or decimal fractions of the pint or quart;
 
-&emsp;&emsp;(ii) if on a random package, may be expressed in terms of pounds and decimal fractions of the pound carried out to not more than three decimal places and is not required to, but may, include a statement in terms of the SI metric system carried out to not more than three decimal places;
+&emsp;&emsp;(ii) if on a random package, may be expressed in terms of pounds and decimal fractions of the pound carried out to not morethan three decimal places and is not required to, but may, include a statement in terms of the SI metric system carried out to not more than three decimal places;
 
 &emsp;&emsp;(iii) if on a package labeled in terms of linear measure, shall be expressed in terms of the largest whole unit (yards, yards and feet, or feet, as appropriate) with any remainder in terms of inches or common or decimal fractions of the foot or yard;
 

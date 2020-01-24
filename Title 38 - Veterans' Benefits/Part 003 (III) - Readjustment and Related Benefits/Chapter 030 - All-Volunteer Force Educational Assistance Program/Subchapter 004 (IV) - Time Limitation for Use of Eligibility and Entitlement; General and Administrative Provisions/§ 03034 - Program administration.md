@@ -22,7 +22,7 @@
 
 (2) The information referred to in paragraph (1) is information with respect to the benefits, limitations, procedures, eligibility requirements (including time-in-service requirements), and other important aspects of the basic educational assistance program under this chapter, including application forms for such basic educational assistance under section 5102 of this title.
 
-(3) The Secretary shall furnish the forms described in paragraph (2) and other educational materials to educational institutions, trainingestablishments, and military education personnel, as the Secretary determines appropriate.
+(3) The Secretary shall furnish the forms described in paragraph (2) and other educational materials to educational institutions, training establishments, and military education personnel, as the Secretary determines appropriate.
 
 (4) The Secretary shall use amounts appropriated for readjustment benefits to carry out this subsection and section 5102 of this title with respect to application forms under that section for basic educational assistance under this chapter.
 
@@ -100,7 +100,7 @@ Pub. L. 105–368, title II, §206(b), Nov. 11, 1998, 112 Stat. 3328, provided t
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–446, title VI, §601(d), Nov. 2, 1994, 108 Stat. 4671, provided that: "The amendments made by thissection \[amending this section, section 3241 of this title, and section 16136 of Title 10, Armed Forces\] shall take effect as of October 1, 1994."
+Pub. L. 103–446, title VI, §601(d), Nov. 2, 1994, 108 Stat. 4671, provided that: "The amendments made by this section \[amending this section, section 3241 of this title, and section 16136 of Title 10, Armed Forces\] shall take effect as of October 1, 1994."
 
 #### Effective Date of 1989 Amendment
 
@@ -120,7 +120,7 @@ Pub. L. 101–366, title II, §206(b), Aug. 15, 1990, 104 Stat. 442, provided th
 
 #### Continued Use of Categories of Information Used Prior to December 18, 1989
 
-Pub. L. 101–237, title IV, §413(b), Dec. 18, 1989, 103 Stat. 2085, provided that: "Through July 1, 1990, no provision of law shall preclude the Department of Veterans Affairs, in making determinations of the active-duty or Selected Reserve status, or the character of service, of individuals receiving benefits under chapter 30 or 32 of title 38, United States Code, or chapter 106 of title 10, United States Code, from continuing to use any category of information provided by the Department of Defense or Department of Transportation that the Department of Veterans Affairs was using prior to the date of the enactment of this Act \[Dec. 18, 1989\], if the Secretary of Veterans Affairs determines that the information has proven to be sufficiently reliable in making such determinations."
+Pub. L. 101–237, title IV, §413(b), Dec. 18, 1989, 103 Stat. 2085, provided that: "Through July 1, 1990, no provision of law shall preclude the Department of Veterans Affairs, in making determinations of the active-duty or Selected Reserve status, or the character of service, of individuals receiving benefits under chapter 30 or 32 of title 38, United States Code, or chapter 106 of title 10, United States Code, from continuing to use any category of information provided by the Department of Defense or Department of Transportation that the Department of Veterans Affairs was using prior to the date of the enactment of this Act \[Dec. 18, 1989\], if theSecretary of Veterans Affairs determines that the information has proven to be sufficiently reliable in making such determinations."
 
 #### Evaluation of Providing Assistance for Flight Training
 

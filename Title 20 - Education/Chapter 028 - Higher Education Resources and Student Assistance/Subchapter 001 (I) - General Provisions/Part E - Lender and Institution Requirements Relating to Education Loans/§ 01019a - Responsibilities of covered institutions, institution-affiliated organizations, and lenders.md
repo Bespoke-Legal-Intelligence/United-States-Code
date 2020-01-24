@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of a covered institution, the information that the Board of Governors of the Federal Reserve System requires to be disclosed under section 1638(e)(11) of title 15, for each type of private education loan offered pursuant to a preferred lender arrangement of the institution to students of the institution or the families of such students; and
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of an institution-affiliated organization of a covered institution, the information the Board of Governors of the Federal Reserve System requires to be disclosed under section 1638(e)(1) of title 15, for each type of private education loan offered pursuant to a preferred lender arrangement of the organization to students of such institution or the families of such students.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of an institution-affiliated organization of a covered institution, the information the Board of Governors of the Federal Reserve System requires to be disclosed under section 1638(e)(1) of title 15, for each type of private education loan offered pursuant to apreferred lender arrangement of the organization to students of such institution or the families of such students.
 
 #### (B) Private education loan disclosures
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) is employed in the financial aid office of a covered institution; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) otherwise has responsibilities with respect to education loans orother financial aid of the institution; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) otherwise has responsibilities with respect to education loans or other financial aid of the institution; and
 
 &emsp;&emsp;&emsp;&emsp;(II) any similar expenses paid or provided to any agent of an institution-affiliated organization who is involved in the practice of recommending, promoting, or endorsing education loans.
 

@@ -38,7 +38,7 @@ Pub. L. 109–443, §1(a), Dec. 21, 2006, 120 Stat. 3297, provided that: "This A
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–168, §1, Dec. 6, 2003, 117 Stat. 2032, provided that: "This Act \[enacting section 354 of this title, amending sections 354, 1118, 1119, 1131, 1135, and 1136 of this title, and enacting provisions set out as notes under sections 1113, 1131, and 1135 of this title\] may be cited as the 'National Transportation Safety Board Reauthorization Act of 2003'."
+Pub. L. 108–168, §1, Dec. 6, 2003, 117 Stat. 2032, provided that: "This Act \[enacting section 354 of this title,amending sections 354, 1118, 1119, 1131, 1135, and 1136 of this title, and enacting provisions set out as notes under sections 1113, 1131, and 1135 of this title\] may be cited as the 'National Transportation Safety Board Reauthorization Act of 2003'."
 
 #### Short Title of 2000 Amendment
 

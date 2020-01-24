@@ -116,7 +116,7 @@
 
 &emsp;&emsp;(A) offers more than 50 percent of such institution's courses by correspondence (excluding courses offered by telecommunications as defined in section 1091(l)(4) <sup>1</sup> of this title), unless the institution is an institution that meets the definition in section 2302(3)(C) of this title;
 
-&emsp;&emsp;(B) enrolls 50 percent or more of the institution's students in correspondence courses (excluding courses offered by telecommunications as defined in section 1091(l)(4) <sup>1</sup> of this title), unless the institution is an institution that meets the definition in such section, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2- or 4-yearprogram of instruction (or both) for which the institution awards an associate or baccalaureate degree, respectively;
+&emsp;&emsp;(B) enrolls 50 percent or more of the institution's students in correspondence courses (excluding courses offered by telecommunications as defined in section 1091(l)(4) <sup>1</sup> of this title), unless the institution is an institution that meets the definition in such section, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2- or 4-year program of instruction (or both) for which the institution awards an associate or baccalaureate degree, respectively;
 
 &emsp;&emsp;(C) has a student enrollment in which more than 25 percent of the students are incarcerated, except that the Secretary may waive the limitation contained in this subparagraph for a nonprofit institution that provides a 2- or 4-year program of instruction (or both) for which the institution awards a bachelor's degree, or an associate's degree or a postsecondary diploma, respectively; or
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;(B) who will be dually or concurrently enrolled in the institution and a secondary school.
 
-(Pub. L. 89–329, title I, §102, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1586; amended Pub. L. 108–98, §1(a), Oct. 10, 2003, 117 Stat. 1174; Pub. L. 109–171, title VIII, §8002, Feb. 8, 2006, 120 Stat. 155; Pub. L. 109–270, §2(c)(1),Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title I, §102(a)–(d)(1), Aug. 14, 2008, 122 Stat. 3083–3085; Pub. L. 111–39, title I, §101(b)(1), July 1, 2009, 123 Stat. 1935; Pub. L. 111–152, title II, §2209(b)(1), Mar. 30, 2010, 124 Stat. 1077.)
+(Pub. L. 89–329, title I, §102, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1586; amended Pub. L. 108–98, §1(a), Oct. 10, 2003, 117 Stat. 1174; Pub. L. 109–171, title VIII, §8002, Feb. 8, 2006, 120 Stat. 155; Pub. L. 109–270, §2(c)(1), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title I, §102(a)–(d)(1), Aug. 14, 2008, 122 Stat. 3083–3085; Pub. L. 111–39, title I, §101(b)(1), July 1, 2009, 123 Stat. 1935; Pub. L. 111–152, title II, §2209(b)(1), Mar. 30, 2010, 124 Stat. 1077.)
 
 #### References in Text
 
@@ -214,7 +214,7 @@ Subsec. (a)(1)(C). Pub. L. 111–152, §2209(b)(1)(B), inserted ", consistent w
 
 Subsec. (a)(2)(A). Pub. L. 111–152, §2209(b)(1)(C)(i), substituted "made" for "made, insured, or guaranteed" in introductory provisions.
 
-Subsec. (a)(2)(A)(iii)(III). Pub. L. 111–152, §2209(b)(1)(C)(ii)(I), substituted "only Federal Direct Stafford Loans under section 1087e(a)(2)(A) of this title, Federal Direct Unsubsidized Stafford Loans under section 1087e(a)(2)(D) of this title, or Federal Direct PLUS Loans under section 1087e(a)(2)(B) of this title" for "only Federal Stafford Loans under section 1078 of this title, unsubsidized Federal Stafford Loans under section 1078–8 of this title, or Federal PLUS loans under section 1078–2 of this title".
+Subsec. (a)(2)(A)(iii)(III). Pub. L. 111–152, §2209(b)(1)(C)(ii)(I), substituted "only Federal Direct Stafford Loans under section 1087e(a)(2)(A) of this title, Federal Direct Unsubsidized Stafford Loans under section 1087e(a)(2)(D) of this title, or Federal Direct PLUSLoans under section 1087e(a)(2)(B) of this title" for "only Federal Stafford Loans under section 1078 of this title, unsubsidized Federal Stafford Loans under section 1078–8 of this title, or Federal PLUS loans under section 1078–2 of this title".
 
 Subsec. (a)(2)(A)(iii)(V). Pub. L. 111–152, §2209(b)(1)(C)(ii)(II), substituted "a Federal Direct Stafford Loan under section 1087e(a)(2)(A) of this title, a Federal Direct Unsubsidized Stafford Loan under section 1087e(a)(2)(D) of this title, or a Federal Direct PLUS Loan under section 1087e(a)(2)(B) of this title" for "a Federal Stafford Loan under section 1078 of this title, an unsubsidized Federal Stafford Loan under section 1078–8 of this title, or a Federal PLUS loan under section 1078–2 of this title".
 
@@ -254,7 +254,7 @@ Pub. L. 111–152, title II, §2209(b)(2), Mar. 30, 2010, 124 Stat. 1078, provid
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2008 Amendment
 

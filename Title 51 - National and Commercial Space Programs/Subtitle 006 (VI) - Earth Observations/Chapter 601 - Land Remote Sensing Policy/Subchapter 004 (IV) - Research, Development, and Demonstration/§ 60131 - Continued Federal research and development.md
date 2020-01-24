@@ -24,7 +24,7 @@ Roles of Department of Agriculture and Department of the Interior.—
 
 &emsp;(1)
 
-In general.—In order to enhance the ability of the United States to manage and utilize its renewable and nonrenewable resources, the Secretary of Agriculture and theSecretary of the Interior are authorized and encouraged to conduct programs of research and development in the applications of remote sensing using funds appropriated for such purposes.
+In general.—In order to enhance the ability of the United States to manage and utilize its renewable and nonrenewable resources, the Secretary of Agriculture and the Secretary of the Interior are authorized and encouraged to conduct programs of research and development in the applications of remote sensing using funds appropriated for such purposes.
 
 &emsp;(2)
 

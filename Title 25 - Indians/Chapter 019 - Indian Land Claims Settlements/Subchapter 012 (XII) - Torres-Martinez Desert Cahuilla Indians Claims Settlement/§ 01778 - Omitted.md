@@ -6,5 +6,5 @@ Section, Pub. L. 106–568, title VI, §602, Dec. 27, 2000, 114 Stat. 2906, whic
 
 #### Short Title
 
-Pub. L. 106–568, title VI, §601, Dec. 27, 2000, 114 Stat. 2906, provided that title VI of Pub. L. 106–568, enacting this subchapter and provisions formerly set out as a note under this section, could be cited as the "Torres-Martinez Desert Cahuilla Indians Claims Settlement Act".
+Pub. L. 106–568, title VI, §601, Dec. 27, 2000, 114 Stat. 2906, provided that title VI of Pub. L. 106–568, enactingthis subchapter and provisions formerly set out as a note under this section, could be cited as the "Torres-Martinez Desert Cahuilla Indians Claims Settlement Act".
 

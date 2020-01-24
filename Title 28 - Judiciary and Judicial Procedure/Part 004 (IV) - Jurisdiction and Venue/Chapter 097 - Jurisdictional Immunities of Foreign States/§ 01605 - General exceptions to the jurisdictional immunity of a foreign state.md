@@ -6,11 +6,11 @@
 
 &emsp;(2) in which the action is based upon a commercial activity carried on in the United States by the foreign state; or upon an act performed in the United States in connection with a commercial activity of the foreign state elsewhere; or upon an act outside the territory of the United States in connection with a commercial activity of the foreign state elsewhere and that act causes a direct effect in the United States;
 
-&emsp;(3) in which rights in property taken in violation of international law are in issue and that property or any property exchanged for such property is present in the United States in connection with a commercial activity carried on in the United States by the foreign state; or that property or any property exchanged for such property is owned or operated by an agency or instrumentality of the foreign state and that agency or instrumentality is engaged in a commercial activity in the United States;
+&emsp;(3) in which rights in property taken in violation of international law are in issue andthat property or any property exchanged for such property is present in the United States in connection with a commercial activity carried on in the United States by the foreign state; or that property or any property exchanged for such property is owned or operated by an agency or instrumentality of the foreign state and that agency or instrumentality is engaged in a commercial activity in the United States;
 
 &emsp;(4) in which rights in property in the United States acquired by succession or gift or rights in immovable property situated in the United States are in issue;
 
-&emsp;(5) not otherwise encompassed in paragraph (2) above, in which money damages are sought against a foreign state for personal injury or death, or damage to or loss of property, occurring in the United States and caused by the tortious act or omission of that foreign state or of any official or employee of that foreignstate while acting within the scope of his office or employment; except this paragraph shall not apply to—
+&emsp;(5) not otherwise encompassed in paragraph (2) above, in which money damages are sought against a foreign state for personal injury or death, or damage to or loss of property, occurring in the United States and caused by the tortious act or omission of that foreign state or of any official or employee of that foreign state while acting within the scope of his office or employment; except this paragraph shall not apply to—
 
 &emsp;&emsp;(A) any claim based upon the exercise or performance or the failure to exercise or perform a discretionary function regardless of whether the discretion be abused, or
 
@@ -38,7 +38,7 @@ Limitation on Discovery.—
 
 In general.—(A) Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for section 1605A or section 1605B, the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
 
-&emsp;(B) A stay under this paragraph shall be in effect during the 12-month period beginning on the date on which the court issues the order to stay discovery. The court shall renew the order to stay discovery for additional 12-month periods upon motion by the United States if the Attorney General certifies that discovery would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action.
+&emsp;(B) A stay under this paragraph shall be in effect during the 12-month period beginning on the date on which the court issues the order to stay discovery. The court shall renew the order to stay discovery for additional 12-month periods upon motion by the UnitedStates if the Attorney General certifies that discovery would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action.
 
 &emsp;(2)
 
@@ -48,7 +48,7 @@ Sunset.—(A) Subject to subparagraph (B), no stay shall be granted or continued
 
 &emsp;&emsp;(i) create a serious threat of death or serious bodily injury to any person;
 
-&emsp;&emsp;(ii) adversely affect the ability of the United States to work in cooperation with foreign and international law enforcementagencies in investigating violations of United States law; or
+&emsp;&emsp;(ii) adversely affect the ability of the United States to work in cooperation with foreign and international law enforcement agencies in investigating violations of United States law; or
 
 &emsp;&emsp;(iii) obstruct the criminal case related to the incident that gave rise to the cause of action or undermine the potential for a conviction in such case.
 
@@ -128,7 +128,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;(C) the term "covered period" means the period beginning on January 30, 1933, and ending on May 8, 1945.
 
-(Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892; amended Pub. L. 100–640, §1, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, §2, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, §325(b)(8), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, §221(a), Apr. 24, 1996, 110 Stat. 1241; Pub. L. 105–11, Apr. 25, 1997, 111 Stat. 22; Pub. L. 107–77, title VI, §626(c), Nov. 28, 2001, 115 Stat. 803; Pub. L. 107–117, div. B, §208, Jan. 10, 2002, 115 Stat. 2299; Pub. L. 109–304, §17(f)(2), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 110–181, div. A, title X, §1083(b)(1), Jan. 28, 2008, 122 Stat. 341; Pub. L. 114–222, §3(b)(2), Sept. 28, 2016, 130 Stat. 853; Pub. L. 114–319, §2(a), Dec. 16, 2016, 130 Stat. 1618.)
+(Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892; amended Pub. L. 100–640, §1, Nov. 9, 1988, 102Stat. 3333; Pub. L. 100–669, §2, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, §325(b)(8), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, §221(a), Apr. 24, 1996, 110 Stat. 1241; Pub. L. 105–11, Apr. 25, 1997, 111 Stat. 22; Pub. L. 107–77, title VI, §626(c), Nov. 28, 2001, 115 Stat. 803; Pub. L. 107–117, div. B, §208, Jan. 10, 2002, 115 Stat. 2299; Pub. L. 109–304, §17(f)(2), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 110–181, div. A, title X, §1083(b)(1), Jan. 28, 2008, 122 Stat. 341; Pub. L. 114–222, §3(b)(2), Sept. 28, 2016, 130 Stat. 853; Pub. L. 114–319, §2(a), Dec. 16, 2016, 130 Stat. 1618.)
 
 #### References in Text
 
@@ -204,7 +204,7 @@ Pub. L. 114–319, §3, Dec. 16, 2016, 130 Stat. 1620, provided that: "The Secre
 
 Pub. L. 104–208, div. A, title I, §101(c) \[title V, §589\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–172, provided that:
 
-"(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under \[former\] section 6(j) of the Export Administration Act of 1979 \[former 50 U.S.C. 4605(j)\] while acting within the scope of his or her office, employment, or agency shall be liable to a United States national or the national's legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under \[former\] section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in \[former\] section 1605(a)(7).
+"(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under \[former\] section 6(j) of the Export Administration Act of 1979 \[former 50 U.S.C. 4605(j)\] while acting within the scope of his or her office, employment, or agency shall be liable to a United Statesnational or the national's legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under \[former\] section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in \[former\] section 1605(a)(7).
 
 "(b) Provisions related to statute of limitations and limitations on discovery that would apply to an action brought under 28 U.S.C. 1605(f) and (g) shall also apply to actions brought under this section. No action shall be maintained under this action \[sic\] if an official, employee, or agent of the United States, while acting within the scope of his or her office, employment, or agency would not be liable for such acts if carried out within the United States."
 

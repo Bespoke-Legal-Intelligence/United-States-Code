@@ -18,7 +18,7 @@ A prior section 8036 was renumbered section 9036 of this title.
 
 Subsec. (a). Pub. L. 115–232, §809(a), substituted "section 8037" for "section 5037".
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted "There are Deputy Chiefs of Naval Operations in the Office of the Chief of Naval Operations," for "There are in the Office of the Chief of Naval Operations not more than five Deputy Chiefs of Naval Operations," and inserted at end "The Secretary of the Navy shall prescribe the number of Deputy Chiefs of Naval Operations under this section and Assistant Chiefs of Naval Operations under section 5037 of this title, for a total of not more than eight positions."
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted "There are Deputy Chiefs of Naval Operations in the Office of the Chief of Naval Operations," for "There are in the Office of the Chief of Naval Operations not more than five Deputy Chiefs of Naval Operations," and inserted at end "The Secretary of the Navy shall prescribe thenumber of Deputy Chiefs of Naval Operations under this section and Assistant Chiefs of Naval Operations under section 5037 of this title, for a total of not more than eight positions."
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–375 struck out "in the line" after "active-duty list".
 

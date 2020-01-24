@@ -48,7 +48,7 @@ As used in this chapter—
 
 #### References in Text
 
-The Trademark Act of 1946, referred to in par. (7), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
+The Trademark Act of 1946, referred to in par. (7), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce andTrade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
 
 #### Amendments
 

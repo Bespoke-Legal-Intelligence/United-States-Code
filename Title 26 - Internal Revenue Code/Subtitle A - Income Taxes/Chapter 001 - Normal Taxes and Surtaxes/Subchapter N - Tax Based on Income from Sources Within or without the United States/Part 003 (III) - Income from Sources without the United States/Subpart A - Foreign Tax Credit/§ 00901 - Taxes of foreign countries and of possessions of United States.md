@@ -56,7 +56,7 @@ For purposes of this subpart, dividends from a DISC or former DISC (as defined i
 
 #### (2) Foreign mineral income defined
 
-&emsp;For purposes of paragraph (1), the term "foreign mineral income" means income derived from the extraction of minerals from mines, wells, or other natural deposits, the processingof such minerals into their primary products, and the transportation, distribution, or sale of such minerals or primary products. Such term includes, but is not limited to <sup>1</sup> that portion of the taxpayer's distributive share of the income of partnerships attributable to foreign mineral income.
+&emsp;For purposes of paragraph (1), the term "foreign mineral income" means income derived from the extraction of minerals from mines, wells, or other natural deposits, the processing of such minerals into their primary products, and the transportation, distribution, or sale of such minerals or primary products. Such term includes, but is not limited to <sup>1</sup> that portion of the taxpayer's distributive share of the income of partnerships attributable to foreign mineral income.
 
 #### (f) Certain payments for oil or gas not considered as taxes
 
@@ -318,7 +318,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The basis difference with respect to any relevant foreign asset shall be allocated totaxable years using the applicable cost recovery method under this chapter.
+&emsp;&emsp;&emsp;The basis difference with respect to any relevant foreign asset shall be allocated to taxable years using the applicable cost recovery method under this chapter.
 
 #### (ii) Special rule for disposition of assets
 
@@ -372,7 +372,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;&emsp;<b>(4) For reduction of credit for failure of a United States person to furnish certain information with respect to a foreign corporation or partnership controlled by him, see section 6038.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 285; Pub. L. 86–780, §3(a), (b), Sept. 14, 1960, 74 Stat. 1013; Pub. L. 87–834, §§9(d)(3), 12(b)(1), Oct. 16, 1962, 76 Stat. 1001, 1031; Pub. L. 88–272, title II, §207(b)(7), Feb. 26, 1964, 78 Stat. 42; Pub. L. 89–384, §1(c)(2), Apr. 8, 1966, 80 Stat. 102; Pub. L. 89–809, title I, §106(a)(4), (5), (b)(1), (2), Nov. 13, 1966, 80 Stat. 1569; Pub. L. 91–172, title III, §301(b)(9), title V, §506(a), Dec. 30, 1969, 83 Stat. 585, 634; Pub. L. 92–178, title V, §502(b)(1), Dec. 10, 1971, 85 Stat. 549; Pub. L. 93–406, title II, §§2001(g)(2)(C), 2002(g)(3), 2005(c)(5), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title VI, §601(b), Mar. 29, 1975, 89 Stat. 57; Pub. L. 94–455, title X, §§1031(b)(1), 1051(d), title XIX, §1901(b)(1)(H)(iii), (37)(A), Oct. 4, 1976, 90 Stat. 1622, 1645, 1791, 1803; Pub. L. 95–600, title VII, §701(u)(1)(A), (B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §265(b)(2)(A)(iv), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(20), title VI, §612(e)(1), title VII, §713(c)(1)(C), title VIII, §801(d)(1), July 18, 1984, 98 Stat. 843, 912, 957, 995; Pub. L. 99–509, title VIII, §8041(a), Oct. 21, 1986, 100 Stat. 1962; Pub. L. 99–514, title I, §112(b)(3), title XII, §1204(a), title XVIII, §1876(p)(2), Oct. 22, 1986, 100 Stat. 2109, 2532, 2902; Pub. L. 100–203, title X, §10231(a), (b), Dec. 22, 1987, 101 Stat. 1330–418, 1330–419; Pub. L. 100–647, title I, §1012(j), title II, §2003(c)(1), Nov. 10, 1988, 102 Stat. 3512, 3598; Pub. L. 103–149, §4(b)(8)(A), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 104–188, title I, §1904(b)(2), Aug. 20, 1996, 110 Stat. 1912; Pub. L. 105–34, title X, §1053(a), title XI, §1142(e)(4), Aug. 5, 1997, 111 Stat. 941, 983; Pub. L. 105–206, title VI, §6010(k)(3), July 22, 1998, 112 Stat. 815; Pub. L. 106–200, title VI, §601(a), May 18, 2000, 114 Stat. 305; Pub. L. 108–311, title IV, §406(g), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title IV, §405(b), title VIII, §832(a), (b), Oct. 22, 2004, 118 Stat. 1498, 1587, 1588; Pub. L. 109–135, title IV, §403(aa)(2), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 110–172, §11(g)(9), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 111–226, title II, §212(a), Aug. 10, 2010, 124 Stat. 2396; Pub. L. 115–97, title I, §14301(c)(7)–(14), Dec. 22, 2017, 131 Stat. 2222, 2223; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xii), Mar. 23, 2018, 132 Stat. 1208.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 285; Pub. L. 86–780, §3(a), (b), Sept. 14, 1960, 74 Stat. 1013; Pub. L. 87–834, §§9(d)(3), 12(b)(1), Oct. 16, 1962, 76 Stat. 1001, 1031; Pub. L. 88–272, title II, §207(b)(7), Feb. 26, 1964, 78 Stat. 42; Pub. L. 89–384, §1(c)(2), Apr. 8, 1966, 80 Stat. 102; Pub. L. 89–809, title I, §106(a)(4), (5), (b)(1), (2), Nov. 13, 1966, 80 Stat. 1569; Pub. L. 91–172, title III, §301(b)(9), title V, §506(a), Dec. 30, 1969, 83 Stat. 585, 634; Pub. L. 92–178, title V, §502(b)(1), Dec. 10, 1971, 85 Stat. 549; Pub. L. 93–406, title II, §§2001(g)(2)(C), 2002(g)(3), 2005(c)(5), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title VI, §601(b), Mar. 29,1975, 89 Stat. 57; Pub. L. 94–455, title X, §§1031(b)(1), 1051(d), title XIX, §1901(b)(1)(H)(iii), (37)(A), Oct. 4, 1976, 90 Stat. 1622, 1645, 1791, 1803; Pub. L. 95–600, title VII, §701(u)(1)(A), (B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §265(b)(2)(A)(iv), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(20), title VI, §612(e)(1), title VII, §713(c)(1)(C), title VIII, §801(d)(1), July 18, 1984, 98 Stat. 843, 912, 957, 995; Pub. L. 99–509, title VIII, §8041(a), Oct. 21, 1986, 100 Stat. 1962; Pub. L. 99–514, title I, §112(b)(3), title XII, §1204(a), title XVIII, §1876(p)(2), Oct. 22, 1986, 100 Stat. 2109, 2532, 2902; Pub. L. 100–203, title X, §10231(a), (b), Dec. 22, 1987, 101 Stat. 1330–418, 1330–419; Pub. L. 100–647, title I, §1012(j), title II, §2003(c)(1), Nov. 10, 1988, 102 Stat. 3512, 3598; Pub. L. 103–149, §4(b)(8)(A), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 104–188, title I, §1904(b)(2), Aug. 20, 1996, 110 Stat. 1912; Pub. L. 105–34, title X, §1053(a), title XI, §1142(e)(4), Aug. 5, 1997, 111 Stat. 941, 983; Pub. L. 105–206, title VI, §6010(k)(3), July 22, 1998, 112 Stat. 815; Pub. L. 106–200, title VI, §601(a), May 18, 2000, 114 Stat. 305; Pub. L. 108–311, title IV, §406(g), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title IV, §405(b), title VIII, §832(a), (b), Oct. 22, 2004, 118 Stat. 1498, 1587, 1588; Pub. L. 109–135, title IV, §403(aa)(2), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 110–172, §11(g)(9), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 111–226, title II, §212(a), Aug. 10, 2010, 124 Stat. 2396; Pub. L. 115–97, title I, §14301(c)(7)–(14), Dec. 22, 2017, 131 Stat. 2222, 2223; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xii), Mar. 23, 2018, 132 Stat. 1208.)
 
 #### References in Text
 
@@ -478,7 +478,7 @@ Subsec. (k). Pub. L. 99–509 redesignated former subsec. (j) as (k).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369, §612(e)(1), substituted "section 26(b)" for "section 25(b)".
 
-Pub. L. 98–369, §474(r)(20), substituted "The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 25(b)" for "The credit shall not be allowed against the tax imposed by section 56 (relating to corporate minimum tax), against the tax imposed for the taxable yearunder section 72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees) section 72(q)(1) (relating to 5-percent tax on premature distributions under annuity contracts),, against the tax imposed by section 402(e) (relating to tax on lump sum distributions), against the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), against the tax imposed by section 531 (relating to the tax on accumulated earnings), against the additional tax imposed for the taxable year under section 1351 (relating to recoveries of foreign expropriation losses), or against the personal holding company tax imposed by section 541".
+Pub. L. 98–369, §474(r)(20), substituted "The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 25(b)" for "The credit shall not be allowed against the tax imposed by section 56 (relating to corporate minimum tax), against the tax imposed for the taxable year under section 72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees) section 72(q)(1) (relating to 5-percent tax on premature distributions under annuity contracts),, against the tax imposed by section 402(e) (relating to tax on lump sum distributions), against the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), against the tax imposed by section 531 (relating to the tax on accumulated earnings), against the additional tax imposed for the taxable year under section 1351 (relating to recoveries of foreign expropriation losses), or against the personal holding company tax imposed by section 541".
 
 Pub. L. 98–369, §713(c)(1)(C), substituted "premature distributions to key employees" for "premature distributions to owner-employees".
 
@@ -536,7 +536,7 @@ Pub. L. 111–226, title II, §212(b), Aug. 10, 2010, 124 Stat. 2398, provided t
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to covered asset acquisitions (as defined in section 901(m)(2) of the Internal Revenue Code of 1986, as added by this section) after December 31, 2010.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection\] shall apply to covered asset acquisitions (as defined in section 901(m)(2) of the Internal Revenue Code of 1986, as added by this section) after December 31, 2010.
 
 "(2)
 
@@ -560,7 +560,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 Pub. L. 108–357, title IV, §405(c), Oct. 22, 2004, 118 Stat. 1498, provided that: "The amendments made by this section \[amending this section and section 902 of this title\] shall apply to taxes of foreign corporations for taxable years of such corporations beginning after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
-Pub. L. 108–357, title VIII, §832(c), Oct. 22, 2004, 118 Stat. 1588, provided that: "The amendments made by this section \[amending this section\] shall apply toamounts paid or accrued more than 30 days after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §832(c), Oct. 22, 2004, 118 Stat. 1588, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts paid or accrued more than 30 days after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 Amendment by Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
 
@@ -620,7 +620,7 @@ Amendment by section 265(b)(2)(A)(iv) of Pub. L. 97–248 applicable to distribu
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §701(u)(1)(C), Nov. 6, 1978, 92 Stat. 2913, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply as if included in section 901(g) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by section 1051(d)(2) of the Tax Reform Act of 1976 \[section 1051(d)(2) of Pub. L. 94–455\]. The amendments made by subparagraph (B) \[amending this section\] shall apply to distributions made after the date of the enactment of this Act \[Nov. 6, 1978\] in taxable years ending after such date."
+Pub. L. 95–600, title VII, §701(u)(1)(C), Nov. 6, 1978, 92 Stat. 2913, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply as if included in section 901(g) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by section 1051(d)(2) of the Tax Reform Act of 1976 \[section 1051(d)(2) of Pub. L. 94–455\]. The amendments made by subparagraph (B) \[amending this section\] shall apply todistributions made after the date of the enactment of this Act \[Nov. 6, 1978\] in taxable years ending after such date."
 
 #### Effective Date of 1976 Amendment
 
@@ -684,7 +684,7 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

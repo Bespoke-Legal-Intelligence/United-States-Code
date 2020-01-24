@@ -6,7 +6,7 @@ In order to assist in the development and promotion of rural tourism, there is e
 
 #### (b) Functions
 
-The functions of the Foundation shall be the planning, development, and implementation of projects and programs which have the potential to increase travel and tourism export revenuesby attracting foreign visitors to rural America. Initially, such projects and programs shall include—
+The functions of the Foundation shall be the planning, development, and implementation of projects and programs which have the potential to increase travel and tourism export revenues by attracting foreign visitors to rural America. Initially, such projects and programs shall include—
 
 &emsp;(1) participation in the development and distribution of educational and promotional materials pertaining to both private and public attractions located in rural areas of the United States, including Federal parks and recreational lands, which can be used by foreign visitors;
 
@@ -66,7 +66,7 @@ No compensation shall be paid to the members of the Board for their services as 
 
 #### (f) Investments
 
-Except as otherwise required by the instrument of transfer, the Foundation may sell, lease, invest, reinvest, retain, or otherwise dispose of or deal with any property or income thereof as the Board may from time to time determine. The Foundation shall not engage inany business, nor shall the Foundation make any investment that may not lawfully be made by a trust company in the District of Columbia, except that the Foundation may make any investment authorized by the instrument of transfer and may retain any property accepted by the Foundation.
+Except as otherwise required by the instrument of transfer, the Foundation may sell, lease, invest, reinvest, retain, or otherwise dispose of or deal with any property or income thereof as the Board may from time to time determine. The Foundation shall not engage in any business, nor shall the Foundation make any investment that may not lawfully be made by a trust company in the District of Columbia, except that the Foundation may make any investment authorized by the instrument of transfer and may retain any property accepted by the Foundation.
 
 #### (g) Perpetual succession; liability of Board members
 

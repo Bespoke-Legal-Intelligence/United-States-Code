@@ -20,7 +20,7 @@ If the indenture to be qualified is or is to be secured by the mortgage or pledg
 
 &emsp;(1) promptly after the execution and delivery of the indenture, an opinion of counsel (who may be of counsel for such obligor) either stating that in the opinion of such counsel the indenture has been properly recorded and filed so as to make effective the lien intended to be created thereby, and reciting the details of such action, or stating that in the opinion of such counsel no such action is necessary to make such lien effective; and
 
-&emsp;(2) at least annually after the execution and delivery of the indenture, an opinion of counsel (who may be of counsel for such obligor) either stating that in the opinion of such counsel such action has been taken with respect to the recording, filing, re-recording, and refiling of the indenture as is necessary to maintain the lien of such indenture, and reciting the details of such action, or stating that in theopinion of such counsel no such action is necessary to maintain such lien.
+&emsp;(2) at least annually after the execution and delivery of the indenture, an opinion of counsel (who may be of counsel for such obligor) either stating that in the opinion of such counsel such action has been taken with respect to the recording, filing, re-recording, and refiling of the indenture as is necessary to maintain the lien of such indenture, and reciting the details of such action, or stating that in the opinion of such counsel no such action is necessary to maintain such lien.
 
 #### (c) Evidence of compliance with conditions precedent
 

@@ -4,7 +4,7 @@
 
 (b)(1) Except as provided in subsection (a) of this section, an official may make, and the head of an executive agency may request, an apportionment under section 1512 of this title that would indicate a necessity for a deficiency or supplemental appropriation only when the official or agency head decides that the action is required because of—
 
-&emsp;(A) a law enacted after submission to Congress of the estimates for an appropriation that requires an expenditure beyond administrative control; or
+&emsp;(A) a law enacted after submission to Congress of the estimates for an appropriationthat requires an expenditure beyond administrative control; or
 
 &emsp;(B) an emergency involving the safety of human life, the protection of property, or the immediate welfare of individuals when an appropriation that would allow the United States Government to pay, or contribute to, amounts required to be paid to individuals in specific amounts fixed by law or under formulas prescribed by law, is insufficient.
 
@@ -38,7 +38,7 @@ R.S. §3679(e)(1); Mar. 3, 1905, ch. 1484, §4(1st par.), 33 Stat. 1257; Feb. 27
 
 R.S. §3679(e)(2); Mar. 3, 1905, ch. 1484, §4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, §3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, §1211, 64 Stat. 767.
 
-In subsection (a), the words "On and after June 5, 1957" are omitted as executed. The words "deficiency or supplemental appropriation" are substituted for "supplemental or deficiency estimate of appropriation" for consistency with chapter 11 of the revised title. The words "prevailing rate employees whose pay is fixed and adjusted under subchapter IV of chapter 53 of title 5" are substituted for "those employees (commonlyknown as wage-board employees) whose compensation is fixed and adjusted from time to time in accordance with prevailing rates (5 U.S.C. 5102(c)(7), 5341 et seq.)" for consistency with title 5.
+In subsection (a), the words "On and after June 5, 1957" are omitted as executed. The words "deficiency or supplemental appropriation" are substituted for "supplemental or deficiency estimate of appropriation" for consistency with chapter 11 of the revised title. The words "prevailing rate employees whose pay is fixed and adjusted under subchapter IV of chapter 53 of title 5" are substituted for "those employees (commonly known as wage-board employees) whose compensation is fixed and adjusted from time to time in accordance with prevailing rates (5 U.S.C. 5102(c)(7), 5341 et seq.)" for consistency with title 5.
 
 In subsection (b), the word "apportionment" is substituted for "apportionment or reapportionment" because of section 1512(a)(last sentence) of the revised title.
 

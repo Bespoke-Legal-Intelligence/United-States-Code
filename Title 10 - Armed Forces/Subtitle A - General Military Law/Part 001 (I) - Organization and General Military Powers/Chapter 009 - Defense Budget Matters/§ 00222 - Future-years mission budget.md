@@ -16,7 +16,7 @@ Relationship to Other Defense Budget Formats.—The requirement in subsection (a
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 101–510, div. A, title XIV, §1404, Nov.5, 1990, 104 Stat. 1675, which was set out as a note under section 114a \[now 221\] of this title, prior to repeal by Pub. L. 102–484, §1002(b).
+Provisions similar to those in this section were contained in Pub. L. 101–510, div. A, title XIV, §1404, Nov. 5, 1990, 104 Stat. 1675, which was set out as a note under section 114a \[now 221\] of this title, prior to repeal by Pub. L. 102–484, §1002(b).
 
 #### Amendments
 

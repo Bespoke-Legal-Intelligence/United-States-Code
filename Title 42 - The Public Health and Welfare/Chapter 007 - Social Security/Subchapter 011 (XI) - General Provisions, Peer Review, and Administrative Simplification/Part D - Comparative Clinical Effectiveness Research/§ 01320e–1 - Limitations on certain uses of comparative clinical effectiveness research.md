@@ -28,7 +28,7 @@
 
 #### References in Text
 
-The Patient Protection and Affordable Care Act, referred to in subsec. (d)(3), is Pub. L. 111–148, Mar. 23,2010, 124 Stat. 119. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
+The Patient Protection and Affordable Care Act, referred to in subsec. (d)(3), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

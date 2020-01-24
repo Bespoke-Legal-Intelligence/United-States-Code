@@ -18,7 +18,7 @@ It is unlawful for any person—
 
 &emsp;(7) to interfere with, delay, or prevent, by any means, the apprehension or arrest of another person, knowing that such other person has committed any chapter <sup>1</sup> prohibited by this section;
 
-&emsp;(8) to knowingly and willfully submit to the Secretary false information (including false information regarding the capacity and extent to which a United States fish processor, on an annual basis, will process a portion of the optimum yield of a fishery that will be harvested by fishery vessels of the United States), regarding any matter that the Secretary is considering in the course of carrying out this chapter;
+&emsp;(8) to knowingly and willfully submit to the Secretary false information (including false information regarding the capacity and extent to which a United States fish processor, on anannual basis, will process a portion of the optimum yield of a fishery that will be harvested by fishery vessels of the United States), regarding any matter that the Secretary is considering in the course of carrying out this chapter;
 
 &emsp;(9) to forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with any observer on a vessel under this chapter, or any data collector employed by the National Marine Fisheries Service or under contract to any person to carry out responsibilities under this chapter;
 

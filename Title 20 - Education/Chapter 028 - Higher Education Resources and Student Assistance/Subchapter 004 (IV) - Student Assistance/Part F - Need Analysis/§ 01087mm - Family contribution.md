@@ -46,7 +46,7 @@ For the purpose of this subchapter, other than subpart 2 of part A, and except a
 
 #### (4) Treatment of Pell amount
 
-&emsp;Notwithstanding section 1212 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796d–1),<sup>1</sup> in the case of a student who receives an increased Federal Pell Grant amount under this section, the total amount of such Federal Pell Grant, including the increase under this subsection, shall not be considered in calculating that student's educational assistance benefits under the PublicSafety Officers' Benefits program under subpart 2 of part L of title I of such Act.
+&emsp;Notwithstanding section 1212 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796d–1),<sup>1</sup> in the case of a student who receives an increased Federal Pell Grant amount under this section, the total amount of such Federal Pell Grant, including the increase under this subsection, shall not be considered in calculating that student's educational assistance benefits under the Public Safety Officers' Benefits program under subpart 2 of part L of title I of such Act.
 
 #### (5) Definition of public safety officer
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 105–244 effective Oct. 7, 1998, see section 480A of Pub. 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
+Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part foraward years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

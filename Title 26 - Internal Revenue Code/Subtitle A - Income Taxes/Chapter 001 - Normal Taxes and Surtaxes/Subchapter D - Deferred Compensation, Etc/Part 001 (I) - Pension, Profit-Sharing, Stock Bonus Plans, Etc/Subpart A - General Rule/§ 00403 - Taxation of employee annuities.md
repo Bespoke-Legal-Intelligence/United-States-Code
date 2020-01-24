@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(E) in the case of a contract purchased under a salary reduction agreement, the contract meets the requirements of section 401(a)(30),
 
-> &emsp;then contributions and other additions by such employer for such annuity contract shall be excluded from the gross income of the employee for the taxable year to the extent that the aggregate of such contributions and additions (when expressed as an annual addition (within the meaning of section 415(c)(2))) does not exceed the applicable limit under section 415. The amount actually distributed to any distributee under such contract shall be taxable to the distributee (in the year in which so distributed) under section 72 (relating to annuities). For purposes of applying the rules of this subsection to contributions and other additions by an employer for a taxable year,amounts transferred to a contract described in this paragraph by reason of a rollover contribution described in paragraph (8) of this subsection or section 408(d)(3)(A)(ii) shall not be considered contributed by such employer.
+> &emsp;then contributions and other additions by such employer for such annuity contract shall be excluded from the gross income of the employee for the taxable year to the extent that the aggregate of such contributions and additions (when expressed as an annual addition (within the meaning of section 415(c)(2))) does not exceed the applicable limit under section 415. The amount actually distributed to any distributee under such contract shall be taxable to the distributee (in the year in which so distributed) under section 72 (relating to annuities). For purposes of applying the rules of this subsection to contributions and other additions by an employer for a taxable year, amounts transferred to a contract described in this paragraph by reason of a rollover contribution described in paragraph (8) of this subsection or section 408(d)(3)(A)(ii) shall not be considered contributed by such employer.
 
 #### (2) Special rule for health and long-term care insurance
 
@@ -92,11 +92,23 @@
 
 #### (A) Amounts paid treated as contributions
 
-&emsp;&emsp;For purposes of this title, amounts paid by an employer described in paragraph (1)(A) to a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as amounts contributed by him for an annuity contract for his employee if—
+&emsp;&emsp;For purposes of this title, amounts paid by an employer described in paragraph (1)(A) to a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as amounts contributed by him for an annuity contract for his employee if the amounts are to be invested in regulated investment company stock to be held in that custodial account, and under the custodial account—
 
-&emsp;&emsp;&emsp;(i) the amounts are to be invested in regulated investment company stock to be held in that custodial account, and
+&emsp;&emsp;&emsp;(i) no such amounts may be paid or made available to any distributee (unless such amount is a distribution to which section 72(t)(2)(G) applies) before—
 
-&emsp;&emsp;&emsp;(ii) under the custodial account no such amounts may be paid or made available to any distributee (unless such amount is a distribution to which section 72(t)(2)(G) applies) before the employee dies, attains age 59½, has a severance from employment, becomes disabled (within the meaning of section 72(m)(7)), or in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), encounters financial hardship.
+&emsp;&emsp;&emsp;&emsp;(I) the employee dies,
+
+&emsp;&emsp;&emsp;&emsp;(II) the employee attains age 59½,
+
+&emsp;&emsp;&emsp;&emsp;(III) the employee has a severance from employment,
+
+&emsp;&emsp;&emsp;&emsp;(IV) the employee becomes disabled (within the meaning of section 72(m)(7)),
+
+&emsp;&emsp;&emsp;&emsp;(V) in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), the employee encounters financial hardship, or
+
+&emsp;&emsp;&emsp;&emsp;(VI) except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the contract, and
+
+&emsp;&emsp;&emsp;(ii) in the case of amounts described in clause (i)(VI), such amounts will be distributed only in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
 
 #### (B) Account treated as plan
 
@@ -132,11 +144,11 @@
 
 &emsp;&emsp;&emsp;(i) a retirement income account shall be treated as an annuity contract described in this subsection, and
 
-&emsp;&emsp;&emsp;(ii) amounts paid by an employer described in paragraph (1)(A) to a retirement income account shall be treated asamounts contributed by the employer for an annuity contract for the employee on whose behalf such account is maintained.
+&emsp;&emsp;&emsp;(ii) amounts paid by an employer described in paragraph (1)(A) to a retirement income account shall be treated as amounts contributed by the employer for an annuity contract for the employee on whose behalf such account is maintained.
 
 #### (B) Retirement income account
 
-&emsp;&emsp;For purposes of this paragraph, the term "retirement income account" means a defined contribution program established or maintained by a church, or a convention or association of churches, including an organization described in section 414(e)(3)(A), to provide benefits under section 403(b) for an employee described in paragraph (1) or his beneficiaries.
+&emsp;&emsp;For purposes of this paragraph, the term "retirement income account" means a defined contribution program established or maintained by a church, or a convention or association of churches, including an organization described in section 414(e)(3)(A), to provide benefits under section 403(b) for an employee described in paragraph (1) (including an employee described in section 414(e)(3)(B)) or his beneficiaries.
 
 #### (10) Distribution requirements
 
@@ -148,9 +160,15 @@
 
 &emsp;&emsp;(A) when the employee attains age 59½, has a severance from employment, dies, or becomes disabled (within the meaning of section 72(m)(7)),
 
-&emsp;&emsp;(B) in the case of hardship, or
+&emsp;&emsp;(B) in the case of hardship,
 
-&emsp;&emsp;(C) for distributions to which section 72(t)(2)(G) applies.
+&emsp;&emsp;(C) for distributions to which section 72(t)(2)(G) applies, or
+
+&emsp;&emsp;(D) except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii))—
+
+&emsp;&emsp;&emsp;(i) on or after the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the contract, and
+
+&emsp;&emsp;&emsp;(ii) in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
 
 > &emsp;Such contract may not provide for the distribution of any income attributable to such contributions in the case of hardship.
 
@@ -188,11 +206,21 @@
 
 #### (c) Taxability of beneficiary under nonqualified annuities or under annuities purchased by exempt organizations
 
-Premiums paid by an employer for an annuity contract which is not subject to subsection (a) shall be included in the gross income of the employee in accordance with section 83 (relating to property transferred in connection with performance of services), except that the value of such contract shall be substituted for the fairmarket value of the property for purposes of applying such section. The preceding sentence shall not apply to that portion of the premiums paid which is excluded from gross income under subsection (b). In the case of any portion of any contract which is attributable to premiums to which this subsection applies, the amount actually paid or made available under such contract to any beneficiary which is attributable to such premiums shall be taxable to the beneficiary (in the year in which so paid or made available) under section 72 (relating to annuities).
+Premiums paid by an employer for an annuity contract which is not subject to subsection (a) shall be included in the gross income of the employee in accordance with section 83 (relating to property transferred in connection with performance of services), except that the value of such contract shall be substituted for the fair market value of the property for purposes of applying such section. The preceding sentence shall not apply to that portion of the premiums paid which is excluded from gross income under subsection (b). In the case of any portion of any contract which is attributable to premiums to which this subsection applies, the amount actually paid or made available under such contract to any beneficiary which is attributable to such premiums shall be taxable to the beneficiary (in the year in which so paid or made available) under section 72 (relating to annuities).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 137; Pub. L. 85–866, title I, §23(a)–(c), Sept. 2, 1958, 72 Stat. 1620–1622; Pub. L. 87–370, §3(a), Oct. 4, 1961, 75 Stat. 801; Pub. L. 87–792, §4(d), Oct. 10, 1962, 76 Stat. 825; Pub. L. 88–272, title II, §232(e)(4)–(6), Feb. 26, 1964, 78 Stat. 111; Pub. L. 91–172, title III, §321(b)(2), title V, §515(a)(2), Dec. 30, 1969, 83 Stat. 591, 644; Pub. L. 93–406, title II, §§1022(e), 2002(g)(6), 2004(c)(4), 2005(b)(2), Sept. 2, 1974, 88 Stat. 940, 969, 986, 991; Pub. L. 94–267, §1(b), Apr. 15, 1976, 90 Stat. 366; Pub. L. 94–455, title XIV, §1402(b)(1)(D), (2), title XV, §1504(a), title XIX, §§1901(a)(58), (b)(8)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1731, 1732, 1738, 1774, 1794, 1834; Pub. L. 95–458, §4(b), Oct. 14, 1978, 92 Stat. 1259; Pub. L. 95–600, title I, §§154(a), 156(a), (b), 157(g)(2), Nov. 6, 1978, 92 Stat. 2801, 2802, 2808; Pub. L. 96–222, title I, §101(a)(12), (13)(C), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, §311(b)(3)(B), Aug. 13, 1981, 95 Stat. 280; Pub. L. 97–248, title II, §251(a), (b), (c)(3), Sept. 3, 1982, 96 Stat. 529–531; Pub. L. 97–448, title I, §103(c)(8)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–21, title I, §122(c)(4), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title IV, §491(d)(12), title V, §§521(c), 522(a)(2), (3), (d)(9)–(11), title X, §1001(b)(4), (e), July 18, 1984, 98 Stat. 849, 867, 869–871, 1011, 1012; Pub. L. 99–514, title XI, §§1120(a), (b), 1122(b)(1)(B), (d), 1123(c), title XVIII, §1852(a)(3)(A), (B), (5)(B), (b)(10), Oct. 22, 1986, 100 Stat. 2463, 2466, 2469, 2474, 2865, 2867; Pub. L. 100–647, title I, §1011(c)(7)(B), (12), (m)(1), (2), title VI, §6052(a)(1), Nov. 10, 1988, 102 Stat. 3458, 3459, 3471, 3696; Pub. L. 101–508, title XI, §11701(k), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 102–318, title V, §§521(b)(12), (13), 522(a)(3), (c)(2), (3), July 3, 1992, 106 Stat. 311, 314, 315; Pub. L. 104–188, title I, §§1450(c)(1), 1704(t)(69), Aug. 20, 1996, 110 Stat. 1815, 1891; Pub. L. 105–34, title XV, §§1504(a)(1), 1505(c), title XVI, §1601(d)(6)(B), Aug. 5, 1997, 111 Stat. 1063, 1064, 1090; Pub. L. 105–206, title VI, §6005(c)(2)(B), July 22, 1998, 112 Stat. 800; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§632(a)(2), 641(b)(1), (e)(7), 642(b)(1), 646(a)(2), 647(a), June 7, 2001, 115 Stat. 113, 120, 121, 126, 127; Pub. L. 107–147, title IV, §411(p)(1)–(3), Mar. 9, 2002, 116 Stat. 49, 50; Pub. L. 108–311, title IV, §§404(e), 408(a)(11), Oct. 4, 2004, 118 Stat. 1188, 1191; Pub. L. 109–135, title IV, §412(w), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title VIII, §§827(b)(2), (3), 829(a)(2), (3), 845(b)(1), (2), Aug. 17, 2006, 120 Stat. 1000, 1002, 1015; Pub. L. 110–245, title I, §104(c)(2), June 17, 2008, 122 Stat. 1627.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 137; Pub. L. 85–866, title I, §23(a)–(c), Sept. 2, 1958, 72 Stat. 1620–1622; Pub. L. 87–370, §3(a), Oct. 4, 1961, 75 Stat. 801; Pub. L. 87–792, §4(d), Oct. 10, 1962, 76 Stat. 825; Pub. L. 88–272, title II, §232(e)(4)–(6), Feb. 26, 1964, 78 Stat. 111; Pub. L. 91–172, title III, §321(b)(2), title V, §515(a)(2), Dec. 30, 1969, 83 Stat. 591, 644; Pub. L. 93–406, title II, §§1022(e), 2002(g)(6), 2004(c)(4), 2005(b)(2), Sept. 2, 1974, 88 Stat. 940, 969, 986, 991; Pub. L. 94–267, §1(b), Apr. 15, 1976, 90 Stat. 366; Pub. L. 94–455, title XIV, §1402(b)(1)(D), (2), title XV, §1504(a), title XIX, §§1901(a)(58), (b)(8)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1731, 1732, 1738, 1774, 1794, 1834; Pub. L. 95–458, §4(b), Oct. 14, 1978, 92 Stat. 1259; Pub. L. 95–600, title I, §§154(a), 156(a), (b), 157(g)(2), Nov. 6, 1978, 92 Stat. 2801, 2802, 2808; Pub. L. 96–222, title I, §101(a)(12), (13)(C), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, §311(b)(3)(B), Aug. 13, 1981, 95 Stat. 280; Pub. L. 97–248, title II, §251(a), (b), (c)(3), Sept. 3, 1982, 96 Stat. 529–531; Pub. L. 97–448, title I, §103(c)(8)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–21, title I, §122(c)(4), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title IV, §491(d)(12), title V, §§521(c), 522(a)(2), (3), (d)(9)–(11), title X, §1001(b)(4), (e), July 18, 1984, 98 Stat. 849, 867, 869–871, 1011, 1012; Pub. L. 99–514, title XI, §§1120(a), (b), 1122(b)(1)(B), (d), 1123(c), title XVIII, §1852(a)(3)(A), (B), (5)(B), (b)(10), Oct. 22, 1986, 100 Stat. 2463, 2466, 2469, 2474, 2865, 2867; Pub. L. 100–647, title I, §1011(c)(7)(B), (12), (m)(1), (2), title VI, §6052(a)(1), Nov. 10, 1988, 102 Stat. 3458, 3459, 3471, 3696; Pub. L. 101–508, title XI, §11701(k), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 102–318, title V, §§521(b)(12), (13), 522(a)(3), (c)(2), (3), July 3, 1992, 106 Stat. 311, 314, 315; Pub. L. 104–188, title I, §§1450(c)(1), 1704(t)(69), Aug. 20, 1996, 110 Stat. 1815, 1891; Pub. L. 105–34, title XV, §§1504(a)(1), 1505(c), title XVI, §1601(d)(6)(B), Aug. 5, 1997, 111 Stat. 1063, 1064, 1090; Pub. L. 105–206, title VI, §6005(c)(2)(B), July 22, 1998, 112 Stat. 800; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§632(a)(2), 641(b)(1), (e)(7), 642(b)(1), 646(a)(2), 647(a), June 7, 2001, 115 Stat. 113, 120, 121, 126, 127; Pub. L. 107–147, title IV, §411(p)(1)–(3), Mar. 9, 2002, 116 Stat. 49, 50; Pub. L. 108–311, title IV, §§404(e), 408(a)(11), Oct. 4, 2004, 118 Stat. 1188, 1191; Pub. L. 109–135, title IV, §412(w), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title VIII, §§827(b)(2), (3), 829(a)(2), (3), 845(b)(1), (2), Aug. 17, 2006, 120 Stat. 1000, 1002, 1015; Pub. L. 110–245, title I, §104(c)(2), June 17, 2008, 122 Stat. 1627; Pub. L. 116–94, div. O, title I, §§109(c), 111(a), Dec. 20, 2019, 133 Stat. 3151, 3152.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(7)(A). Pub. L. 116–94, §109(c)(2), substituted "if the amounts are to be invested in regulated investment company stock to be held in that custodial account, and under the custodial account—" for "if—" and cls. (i) and (ii) for former cls. (i) and (ii) which read as follows:
+
+"(i) the amounts are to be invested in regulated investment company stock to be held in that custodial account, and
+
+"(ii) under the custodial account no such amounts may be paid or made available to any distributee (unless such amount is a distribution to which section 72(t)(2)(G) applies) before the employee dies, attains age 59½, has a severance from employment, becomes disabled (within the meaning of section 72(m)(7)), or in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), encounters financial hardship."
+
+Subsec. (b)(9)(B). Pub. L. 116–94, §111(a), inserted "(including an employee described in section 414(e)(3)(B))" after "employee described in paragraph (1)".
+
+Subsec. (b)(11)(D). Pub. L. 116–94, §109(c)(1), added subpar. (D).
 
 <b>2008</b>—Subsec. (b)(14). Pub. L. 110–245 added par. (14).
 
@@ -358,7 +386,7 @@ Subsec. (b)(9). Pub. L. 97–248, §251(b), added par. (9).
 
 Pub. L. 95–458, among other changes, substituted provision permitting tax free treatment for any portion of a lump sum distribution from a qualified retirement plan which is deposited in an individual retirement account or another qualifying plan for provision which required transfer of all such property received.
 
-Subsec. (a)(5). Pub. L. 95–458 struck out par. (5) which related to special rules concerning time of termination of a profit-sharing plan and the treatment of the sale of a corporate subsidiary or assets as payment or distribution on account of termination of a plan of which an annuity trust was a part.
+Subsec. (a)(5). Pub. L. 95–458 struck out par. (5) which related to special rules concerning time of terminationof a profit-sharing plan and the treatment of the sale of a corporate subsidiary or assets as payment or distribution on account of termination of a plan of which an annuity trust was a part.
 
 Subsec. (b)(1). Pub. L. 95–600, §156(b), inserted provision relating to application of rules of this subsection to amounts contributed by an employer for a taxable year.
 
@@ -396,7 +424,7 @@ Subsec. (b)(7). Pub. L. 93–406, §1022(e), added par. (7).
 
 <b>1969</b>—Subsec. (a)(2)(C). Pub. L. 91–172, §515(a)(2), added subpar. (C).
 
-Subsec. (c). Pub. L. 91–172, §321(b)(2), consolidated provisions of subsec. (c) providing for taxability of beneficiary under a nonqualified annuity, the employeesgross income to include amount contributed by employer for annuity contract in the year in which amount is contributed, the amount to be included as provided in section 72 of this title and of subsec. (d) providing for taxability of beneficiary under certain forfeitable contracts purchased by exempt organizations, including farmers' cooperatives, the gross income to include amount contributed by employer after Dec. 31, 1957, in the year of change from forfeitable to nonforfeitable rights, the new provisions including premiums paid by an employer in accordance with section 83, except that value of the contract shall be substituted for fair market value of the property for purposes of applying such section 83, such provision not to be applicable to that portion of premiums paid which is excluded from gross income under subsec. (b) of this section.
+Subsec. (c). Pub. L. 91–172, §321(b)(2), consolidated provisions of subsec. (c) providing for taxability of beneficiary under a nonqualified annuity, the employees gross income to include amount contributed by employer for annuity contract in the year in which amount is contributed, the amount to be included as provided in section 72 of this title and of subsec. (d) providing for taxability of beneficiary under certain forfeitable contracts purchased by exempt organizations, including farmers' cooperatives, the gross income to include amount contributed by employer after Dec. 31, 1957, in the year of change from forfeitable to nonforfeitable rights, the new provisions including premiums paid by an employer in accordance with section 83, except that value of the contract shall be substituted for fair market value of the property for purposes of applying such section 83, such provision not to be applicable to that portion of premiums paid which is excluded from gross income under subsec. (b) of this section.
 
 Subsec. (d). Pub. L. 91–172, §321(b)(2), struck out subsec. (d) providing for taxability of beneficiary under certain forfeitable contracts purchased by exempt organizations, including farmers' cooperatives, gross income of the employee to include (amount contributed by employer after Dec. 31, 1957), in year of change from forfeitable to nonforfeitable rights. See subsec. (c) of this section.
 
@@ -415,6 +443,12 @@ Subsec. (b)(3). Pub. L. 87–370, §(3)(a)(2), substituted "the employer describ
 <b>1958</b>—Subsec. (a)(1). Pub. L. 85–866, §23(b), substituted "which meets the requirements of section 404(a)(2) (whether or not the employer deducts the amounts paid for the contract under such section)," for "with respect to which the employer's contribution is deductible under section 404(a)(2), or if an annuity contract is purchased for an employee by an employer described in section 501(c)(3) which is exempt from tax under section 501(a),".
 
 Subsecs. (b) to (d). Pub. L. 85–866, §23(a), added subsec. (b), redesignated former subsec. (b) as (c), and added subsec. (d).
+
+#### Effective Date of 2019 Amendment
+
+Amendment by section 109(c) of Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2019, see section 109(e) of Pub. L. 116–94, set out as a note under section 401 of this title.
+
+Pub. L. 116–94, div. O, title I, §111(b), Dec. 20, 2019, 133 Stat. 3152, provided that: "The amendment made bythis section \[amending this section\] shall apply to years beginning before, on, or after the date of the enactment of this Act \[Dec. 20, 2019\]."
 
 #### Effective Date of 2008 Amendment
 
@@ -466,7 +500,7 @@ Amendment by section 1601(d)(6)(B) of Pub. L. 105–34 effective as if included 
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title I, §1450(c)(2), Aug. 20, 1996, 110 Stat. 1815, provided that: "The amendment made bythis subsection \[amending this section\] shall apply to years beginning after December 31, 1995, except a contract shall not be required to meet any change in any requirement by reason of such amendment before the 90th day after the date of the enactment of this Act \[Aug. 20, 1996\]."
+Pub. L. 104–188, title I, §1450(c)(2), Aug. 20, 1996, 110 Stat. 1815, provided that: "The amendment made by this subsection \[amending this section\] shall apply to years beginning after December 31, 1995, except a contract shall not be required to meet any change in any requirement by reason of such amendment before the 90th day after the date of the enactment of this Act \[Aug. 20, 1996\]."
 
 #### Effective Date of 1992 Amendment
 
@@ -622,6 +656,10 @@ Pub. L. 85–866, §23(g), Sept. 2, 1958, 72 Stat. 1623, provided that: "The ame
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1120 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
+#### Treatment of Custodial Accounts on Termination of Section 403(b) Plans
+
+Pub. L. 116–94, div. O, title I, §110, Dec. 20, 2019, 133 Stat. 3152, provided that: "Not later than six months after the date of enactment of this Act \[Dec. 20, 2019\], the Secretary of the Treasury shall issue guidance to provide that, if an employer terminates the plan under which amounts are contributed to a custodial account under subparagraph (A) of section 403(b)(7), the plan administrator or custodian may distribute an individual custodial account in kind to a participant or beneficiary of the plan and the distributed custodial account shall be maintained by the custodian on a tax-deferred basis as a section 403(b)(7) custodial account, similar to the treatment of fully-paid individual annuity contracts under Revenue Ruling 2011–7, until amounts are actually paid to the participant or beneficiary. The guidance shall provide further (i) that the section 403(b)(7) status of the distributed custodial account is generally maintained if the custodial account thereafter adheres to the requirements of section 403(b) that are in effect at the time of the distribution of the account and (ii) that a custodial account would not be considered distributed to the participant or beneficiary if the employer has any material retained rights under the account (but the employer would not be treated as retaining material rights simply because the custodial account was originally opened under a group contract). Such guidance shall be retroactively effective for taxable years beginning after December 31, 2008."
+
 #### Election To Modify Section 403(b) Exclusion Allowance To Conform to Section 415 Modification
 
 Pub. L. 107–16, title VI, §632(b)(3), June 7, 2001, 115 Stat. 115, provided that: "In the case of taxable years beginning after December 31, 1999, and before January 1, 2002, a plan may disregard the requirement in the regulations regarding the exclusion allowance under section 403(b)(2) of the Internal Revenue Code of 1986 that contributions to a defined benefit pension plan be treated as previously excluded amounts for purposes of the exclusion allowance."
@@ -630,7 +668,7 @@ Pub. L. 107–16, title VI, §632(b)(3), June 7, 2001, 115 Stat. 115, provided t
 
 Pub. L. 105–34, title XVI, §1601(d)(4), Aug. 5, 1997, 111 Stat. 1089, as amended by Pub. L. 105–206, title VI, §6016(a)(2), July 22, 1998, 112 Stat. 822, provided that:
 
-"(A) Paragraphs (7)(A)(ii) and (11) of section 403(b) of the Internal Revenue Code of 1986 shall not apply with respect to a distribution from a contract described in section 1450(b)(1) of such Act \[Pub. L. 104–188, set outbelow\] to the extent that such distribution is not includible in income by reason of—
+"(A) Paragraphs (7)(A)(ii) and (11) of section 403(b) of the Internal Revenue Code of 1986 shall not apply with respect to a distribution from a contract described in section 1450(b)(1) of such Act \[Pub. L. 104–188, set out below\] to the extent that such distribution is not includible in income by reason of—
 
 &emsp;"(i) in the case of distributions before January 1, 1998, section 403(b)(8) or (b)(10) of such Code (determined after the application of section 1450(b)(2) of such Act \[Pub. L. 104–188, set out below\]), and
 

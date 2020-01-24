@@ -46,5 +46,5 @@ In subsections (b) and (c), the words "the United States" are substituted for "a
 
 In subsection (b), the words "of a decedent" are omitted as unnecessary.
 
-In subsection (c), the words "if the death resulted from a commercial aviation accident occurring on thehigh seas" are substituted for "In the case of a commercial aviation accident, whenever the death of a person shall be caused by wrongful act, neglect, or default occurring on the high seas" for consistency with subsection (b) and to eliminate unnecessary words. The words "and the rules applicable under Federal, State, and other appropriate law shall apply" are omitted as unnecessary.
+In subsection (c), the words "if the death resulted from a commercial aviation accident occurring on the high seas" are substituted for "In the case of a commercial aviation accident, whenever the death of a person shall be caused by wrongful act, neglect, or default occurring on the high seas" for consistency with subsection (b) and to eliminate unnecessary words. The words "and the rules applicable under Federal, State, and other appropriate law shall apply" are omitted as unnecessary.
 

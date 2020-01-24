@@ -5,6 +5,7 @@
 | [2731\.](%C2%A7%2002731%20-%20Definition.md) | Definition. |
 | [2732\.](%C2%A7%2002732%20-%20Payment%20of%20claims%20availability%20of%20appropriations.md) | Payment of claims: availability of appropriations. |
 | [2733\.](%C2%A7%2002733%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20incident%20to%20noncombat%20activities%20of%20Department%20of%20Army%2C%20Navy%2C%20or%20Air%20Force.md) | Property loss; personal injury or death: incident to noncombat activities of Department of Army, Navy, or Air Force. |
+| [2733a.](%C2%A7%2002733a%20-%20Medical%20malpractice%20claims%20by%20members%20of%20the%20uniformed%20services.md) | Medical malpractice claims by members of the uniformed services. |
 | [2734\.](%C2%A7%2002734%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20incident%20to%20noncombat%20activities%20of%20the%20armed%20forces%3B%20foreign%20countries.md) | Property loss; personal injury or death: incident to noncombat activities of the armed forces; foreign countries. |
 | [2734a.](%C2%A7%2002734a%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20incident%20to%20noncombat%20activities%20of%20armed%20forces%20in%20foreign%20countries%3B%20international%20agreements.md) | Property loss; personal injury or death: incident to noncombat activities of armed forces in foreign countries; international agreements. |
 | [2734b.](%C2%A7%2002734b%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20incident%20to%20activities%20of%20armed%20forces%20of%20foreign%20countries%20in%20United%20States%3B%20international%E2%80%A6.md) | Property loss; personal injury or death: incident to activities of armed forces of foreign countries in United States; international agreements. |
@@ -18,6 +19,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title VII, §731(a)(2), Dec. 20, 2019, 133 Stat. 1459, added item 2733a.
 
 <b>2011</b>—Pub. L. 111–383, div. A, title III, §354(a)(2), Jan. 7, 2011, 124 Stat. 4195, added item 2740.
 
@@ -51,6 +54,7 @@ Pub. L. 87–651, title I, §113(b), Sept. 7, 1962, 76 Stat. 513, added items 27
 - [&sect; 02731 - Definition](%C2%A7%2002731%20-%20Definition.md)
 - [&sect; 02732 - Payment of claims availability of appropriations](%C2%A7%2002732%20-%20Payment%20of%20claims%20availability%20of%20appropriations.md)
 - [&sect; 02733 - Property loss; personal injury or death incident to noncombat activities of Department of Army, Navy, or Air Force](%C2%A7%2002733%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20incident%20to%20noncombat%20activities%20of%20Department%20of%20Army%2C%20Navy%2C%20or%20Air%20Force.md)
+- [&sect; 02733a - Medical malpractice claims by members of the uniformed services](%C2%A7%2002733a%20-%20Medical%20malpractice%20claims%20by%20members%20of%20the%20uniformed%20services.md)
 - [&sect; 02734 - Property loss; personal injury or death incident to noncombat activities of the armed forces; foreign countries](%C2%A7%2002734%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20incident%20to%20noncombat%20activities%20of%20the%20armed%20forces%3B%20foreign%20countries.md)
 - [&sect; 02734a - Property loss; personal injury or death incident to noncombat activities of armed forces in foreign countries; international agreements](%C2%A7%2002734a%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20incident%20to%20noncombat%20activities%20of%20armed%20forces%20in%20foreign%20countries%3B%20international%20agreements.md)
 - [&sect; 02734b - Property loss; personal injury or death incident to activities of armed forces of foreign countries in United States; international&#8230;](%C2%A7%2002734b%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20incident%20to%20activities%20of%20armed%20forces%20of%20foreign%20countries%20in%20United%20States%3B%20international%E2%80%A6.md)

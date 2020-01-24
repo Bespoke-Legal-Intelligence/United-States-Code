@@ -2,9 +2,9 @@
 
 #### (a) In general
 
-The Secretary of State shall ensure that each diplomatic or consular post or other mission designates an employee to be responsible for receiving information from—
+The Secretary of State shall ensure that each diplomatic or consular post or other missiondesignates an employee to be responsible for receiving information from—
 
-&emsp;(1) any person who was a victim of a severe form of trafficking in persons (as such term is defined in section 7102(14) of this title) while present in the United States; or
+&emsp;(1) any person who was a victim of a severe form of trafficking in persons (as such term is defined in section 7102(14) <sup>1</sup> of this title) while present in the United States; or
 
 &emsp;(2) any person who has information regarding a victim described in paragraph (1).
 
@@ -18,7 +18,13 @@ The employee designated for receiving information pursuant to subsection (a) sho
 
 (Pub. L. 115–425, title I, §102, Jan. 8, 2019, 132 Stat. 5474.)
 
+#### References in Text
+
+Section 7102(14) of this title, referred to in subsec. (a)(1), was redesignated section 7102(16) of this title by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503.
+
 #### Codification
 
 Section was enacted as part of the Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization Act of 2018, and not as part of the Trafficking Victims Protection Act of 2000 which comprises this chapter.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

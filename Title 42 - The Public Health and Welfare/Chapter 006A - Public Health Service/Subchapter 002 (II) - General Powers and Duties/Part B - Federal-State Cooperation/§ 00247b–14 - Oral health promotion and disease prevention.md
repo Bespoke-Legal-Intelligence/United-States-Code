@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(B) the identification of the administrative, technical and operational challenges that are unique to the fluoridation of small water systems;
 
-&emsp;&emsp;(C) the development of a practical model that may be easily utilized by other tribal, State, county or local governments in improving the quality of water fluoridation with emphasis on small water systems; and
+&emsp;&emsp;(C) the development of a practical model that may be easily utilized by other tribal,State, county or local governments in improving the quality of water fluoridation with emphasis on small water systems; and
 
 &emsp;&emsp;(D) the measurement of any increased percentage of Native Americans or Alaskan Natives who receive the benefits of optimally fluoridated water.
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;(B) be a public elementary or secondary school—
 
-&emsp;&emsp;&emsp;(i) that is located in an urban area in which and <sup>1</sup> more than 50 percent of thestudent population is participating in Federal or State free or reduced meal programs; or
+&emsp;&emsp;&emsp;(i) that is located in an urban area in which and <sup>1</sup> more than 50 percent of the student population is participating in Federal or State free or reduced meal programs; or
 
 &emsp;&emsp;&emsp;(ii) that is located in a rural area and, with respect to the school district in which the school is located, the district involved has a median income that is at or below 235 percent of the poverty line, as defined in section 9902(2) of this title.
 

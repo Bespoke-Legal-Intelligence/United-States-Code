@@ -16,7 +16,7 @@ The Attorney General may make grants to Indian tribal governments or authorized 
 
 &emsp;(6) provide programs for supervised visitation and safe visitation exchange of children in situations involving domestic violence, sexual assault, or stalking committed by one parent against the other with appropriate security measures, policies, and procedures to protect the safety of victims and their children;
 
-&emsp;(7) provide transitional housing for victims of domestic violence, dating violence, sexual assault, sex trafficking, or stalking, including rental or utilities payments assistance and assistance with related expenses such as security deposits and other costs incidental to relocation to transitional housing, and supportservices to enable a victim of domestic violence, dating violence, sexual assault, sex trafficking, or stalking to locate and secure permanent housing and integrate into a community;
+&emsp;(7) provide transitional housing for victims of domestic violence, dating violence, sexual assault, sex trafficking, or stalking, including rental or utilities payments assistance and assistance with related expenses such as security deposits and other costs incidental to relocation to transitional housing, and support services to enable a victim of domestic violence, dating violence, sexual assault, sex trafficking, or stalking to locate and secure permanent housing and integrate into a community;
 
 &emsp;(8) provide legal assistance necessary to provide effective aid to victims of domestic violence, dating violence, stalking, sex trafficking, or sexual assault who are seeking relief in legal matters arising as a consequence of that abuse or violence, at minimal or no cost to the victims;
 
@@ -28,7 +28,7 @@ The Attorney General may make grants to Indian tribal governments or authorized 
 
 All applicants under this section shall demonstrate their proposal was developed in consultation with a nonprofit, nongovernmental Indian victim services program, including sexual assault and domestic violence victim services providers in the tribal or local community, or a nonprofit tribal domestic violence and sexual assault coalition to the extent that they exist. In the absence of such a demonstration, the applicant may meet the requirement of this subsection through consultation with women in the community to be served.
 
-(Pub. L. 90–351, title I, §2015, formerly §2007, as added Pub. L. 109–162, title IX, §906(a), Jan. 5, 2006, 119 Stat. 3080; renumbered §2015 and amended Pub. L. 109–271, §7(a)(1)(A), (C), (3), Aug. 12, 2006, 120 Stat. 763; Pub. L. 113–4, title IX, §901, Mar. 7, 2013, 127 Stat. 118.)
+(Pub. L. 90–351, title I, §2015, formerly §2007, as added Pub. L. 109–162, title IX, §906(a), Jan. 5, 2006, 119 Stat. 3080; renumbered §2015 and amended Pub. L. 109–271, §7(a)(1)(A), (C), (3), Aug. 12,2006, 120 Stat. 763; Pub. L. 113–4, title IX, §901, Mar. 7, 2013, 127 Stat. 118.)
 
 #### Codification
 

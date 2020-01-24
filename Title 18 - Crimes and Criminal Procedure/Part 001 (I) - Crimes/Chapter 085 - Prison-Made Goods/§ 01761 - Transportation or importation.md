@@ -8,7 +8,7 @@
 
 &emsp;(1) are participating in—one of not more than 50 prison work pilot projects designated by the Director of the Bureau of Justice Assistance;
 
-&emsp;(2) have, in connection with such work, received wages at a rate which is not less than that paid for work of a similar nature in the locality in which the work was performed, except that such wages may be subject to deductions which shall not, in the aggregate, exceed 80 per centum of gross wages, and shall be limited as follows:
+&emsp;(2) have, in connection with such work, received wages at a rate which is not less than that paid for work of a similar nature in the locality in which the work was performed, except that such wages may be subject to deductions which shall not, in the aggregate, exceed80 per centum of gross wages, and shall be limited as follows:
 
 &emsp;&emsp;(A) taxes (Federal, State, local);
 
@@ -62,7 +62,7 @@ Subsec. (c). Pub. L. 103–322, §330010(11), struck out "and" at end of par. (1
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–647, §2906(1), (2), substituted "In addition to the exceptions set forth in subsection (b) of this section, this chapter shall not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners who" for "In addition to the exceptions set forth in subsection (b) of this section, this chapter shall also not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners participating in a program of not more than twenty pilot projects designated by the Director of the Bureau of Justice Assistance and who" in introductory provisions, added par. (1), and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
-Subsec. (c)(2)(B). Pub. L. 101–647, §2906(3), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: "reasonable charges for room and board as determined by regulations which shall be issued by the Chief State correctional officer;".
+Subsec. (c)(2)(B). Pub. L. 101–647, §2906(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "reasonable charges for room and board as determined by regulations which shall be issued by the Chief State correctional officer;".
 
 <b>1987</b>—Subsec. (d). Pub. L. 100–17 struck out subsec. (d) which read as follows: "Notwithstanding any law to the contrary, materials produced by convict labor may be used in the construction of any highways or portion of highways located on Federal-aid systems, as described in section 103 of title 23, United States Code."
 

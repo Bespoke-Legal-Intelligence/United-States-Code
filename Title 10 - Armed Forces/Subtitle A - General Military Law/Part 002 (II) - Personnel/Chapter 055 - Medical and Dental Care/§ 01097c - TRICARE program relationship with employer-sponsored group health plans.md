@@ -24,7 +24,7 @@ Inapplicability to Certain Employers.—The provisions of this section do not ap
 
 (d)
 
-Retention of Eligibility for Coverage Under TRICARE.—Nothing in this section, including an election made by a TRICARE-eligible employee under subsection (b), shall be construed to affect, modify, or terminate the eligibility of a TRICARE-eligible employee or spouse of such employee for health care or dental services under this chapter in accordance with the other provisions of this chapter.
+Retention of Eligibility for Coverage Under TRICARE.—Nothing in this section, including an election made by a TRICARE-eligibleemployee under subsection (b), shall be construed to affect, modify, or terminate the eligibility of a TRICARE-eligible employee or spouse of such employee for health care or dental services under this chapter in accordance with the other provisions of this chapter.
 
 (e)
 

@@ -24,7 +24,7 @@
 
 &emsp;(A) the State has adopted an interstate fishery management plan for the resource to which the project applies; or
 
-&emsp;(B) the State has adopted fishery regulations which the Secretary has determined are consistent with any Federal fishery management plan for the species to which the project applies;
+&emsp;(B) the State has adopted fishery regulations which the Secretary has determined are consistent with any Federal fishery managementplan for the species to which the project applies;
 
 > in which case the Federal share shall not exceed 90 percent of the total estimated cost of the project.
 

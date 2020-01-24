@@ -20,7 +20,7 @@ The Secretary shall, to the greatest extent possible, provide technical assistan
 
 (3) The Secretary of the Interior shall conduct his safety research responsibilities under section 951 of this title in coordination with the Secretary of Labor, and the Secretaries of Labor and the Interior are authorized to enter into contractual or other agreements for the performance of such safety related research.
 
-(Pub. L. 91–173, title V, §502, Dec. 30, 1969, 83 Stat. 800; Pub. L. 95–164, title III, §303(b), (h), Nov. 9, 1977, 91 Stat. 1320, 1321; Pub. L. 96–38, title I, §100, July 25, 1979, 93 Stat. 111.)
+(Pub. L. 91–173, title V, §502, Dec. 30, 1969, 83 Stat. 800; Pub. L. 95–164, title III, §303(b), (h),Nov. 9, 1977, 91 Stat. 1320, 1321; Pub. L. 96–38, title I, §100, July 25, 1979, 93 Stat. 111.)
 
 #### References in Text
 

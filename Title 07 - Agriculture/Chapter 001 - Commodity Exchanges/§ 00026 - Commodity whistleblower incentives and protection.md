@@ -46,7 +46,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;In any covered judicial or administrative action, or related action, the Commission, under regulations prescribed by the Commission and subject to subsection (c), shall pay an award or awards to 1 or more whistleblowers who voluntarily provided original information to the Commission that led to the successful enforcement of the covered judicial or administrative action, or related action, in an aggregate amount equal to—
+&emsp;In any covered judicial or administrative action, or related action, the Commission, under regulations prescribed by the Commission and subject to subsection (c), shall pay an award or awards to 1 or more whistleblowers who voluntarily provided original information to the Commission that led to the successful enforcement of the covered judicial or administrativeaction, or related action, in an aggregate amount equal to—
 
 &emsp;&emsp;(A) not less than 10 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions; and
 

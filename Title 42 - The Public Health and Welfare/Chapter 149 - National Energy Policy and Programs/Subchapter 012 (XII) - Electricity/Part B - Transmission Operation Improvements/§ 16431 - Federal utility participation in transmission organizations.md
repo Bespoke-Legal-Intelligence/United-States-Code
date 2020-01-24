@@ -54,7 +54,7 @@ The contract, agreement, or arrangement shall include—
 
 #### (d) Commission
 
-Neither this section, actions taken pursuant to this section, nor any other transaction of aFederal utility participating in a Transmission Organization shall confer on the Commission jurisdiction or authority over—
+Neither this section, actions taken pursuant to this section, nor any other transaction of a Federal utility participating in a Transmission Organization shall confer on the Commission jurisdiction or authority over—
 
 &emsp;(1) the electric generation assets, electric capacity, or energy of the Federal utility that the Federal utility is authorized by law to market; or
 

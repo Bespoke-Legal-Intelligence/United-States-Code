@@ -12,7 +12,7 @@ A prior chapter 839, consisting of sections 8441 to 8452, related to temporary a
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 569 of this title as this chapter and item 6292 as 8317.
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignatedchapter 569 of this title as this chapter and item 6292 as 8317.
 
 <b>1980</b>—Pub. L. 96–513, title V, §503(46), Dec. 12, 1980, 94 Stat. 2914, struck out item 6294 "Women in the Regular Navy and Regular Marine Corps: termination of enlistment".
 

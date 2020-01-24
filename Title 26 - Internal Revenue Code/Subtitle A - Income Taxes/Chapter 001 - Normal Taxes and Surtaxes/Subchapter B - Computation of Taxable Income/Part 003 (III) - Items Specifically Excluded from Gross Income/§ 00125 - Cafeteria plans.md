@@ -166,7 +166,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins by substituting "calendar year 2012" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
-> &emsp;If any increase determined under this paragraph is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
+> &emsp;If any increase determined under this paragraph is not a multiple of $50, such increaseshall be rounded to the next lowest multiple of $50.
 
 #### (j) Simple cafeteria plans for small businesses
 
@@ -258,7 +258,7 @@ For purposes of this section—
 
 #### (B) Employers not in existence during preceding year
 
-&emsp;&emsp;If an employer was not in existence throughout the preceding year, the determination under subparagraph (A) shall be based on the average number of employees that it is reasonably expected such employer will employ on business days in the current year.
+&emsp;&emsp;If an employer was not in existence throughout the preceding year, the determination under subparagraph (A) shall be based on the average number of employeesthat it is reasonably expected such employer will employ on business days in the current year.
 
 #### (C) Growing employers retain treatment as small employer
 
@@ -334,7 +334,7 @@ Subsec. (h)(2). Pub. L. 113–295, §220(g), substituted "means any" for "means,
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–148, §1515(a), (b), substituted "For purposes of this section—" for "For purposes of this section,"; designated remainder of first sentence and second sentence as par. (1), inserted heading, and substituted "The term" for "the term"; designated third sentence as par. (2), inserted heading, and substituted "The term 'qualified benefit' shall not include" for "Such term shall not include"; and added par. (3).
 
-Subsec. (i). Pub. L. 111–148, §10902(a), amended subsec. (i) generally. Prior to amendment, text read as follows: "For purposes of this section, if a benefit is provided under a cafeteria plan through employer contributions to a health flexible spending arrangement, such benefit shall not be treated as a qualified benefit unless the cafeteria plan provides that an employee may not elect for any taxable year to have salary reduction contributions in excess of $2,500 made to such arrangement."
+Subsec. (i). Pub. L. 111–148, §10902(a), amended subsec. (i) generally. Prior to amendment, text read as follows:"For purposes of this section, if a benefit is provided under a cafeteria plan through employer contributions to a health flexible spending arrangement, such benefit shall not be treated as a qualified benefit unless the cafeteria plan provides that an employee may not elect for any taxable year to have salary reduction contributions in excess of $2,500 made to such arrangement."
 
 Pub. L. 111–148, §9005(a)(2), added subsec. (i). Former subsec. (i) redesignated (j).
 
@@ -374,7 +374,7 @@ Subsec. (e)(2)(A). Pub. L. 101–239 substituted "includible only because" for "
 
 Subsec. (g)(3)(A). Pub. L. 101–140, §203(a)(3), substituted "section 410(b)(2)(A)(i)" for "subparagraph (B) of section 410(b)(1)".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1011B(a)(11)(A), amended subsec. (a) generally, see Codification noteabove. Prior to amendment, subsec. (a) read as follows: "In the case of a cafeteria plan—
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1011B(a)(11)(A), amended subsec. (a) generally, see Codification note above. Prior to amendment, subsec. (a) read as follows: "In the case of a cafeteria plan—
 
 &emsp;"(1) amounts shall not be included in gross income of a participant in such plan solely because, under the plan, the participant may choose among the benefits of the plan, and
 
@@ -416,7 +416,7 @@ Subsec. (c). Pub. L. 98–369, §531(b)(2)(B), inserted "statutory" before "nont
 
 Subsec. (d)(1). Pub. L. 98–369, §531(b)(1), substituted "among 2 or more benefits consisting of cash and statutory nontaxable benefits" for "among two or more benefits" in cl. (B) and struck out "The benefits which may be chosen may be nontaxable benefits, or cash, property, or other taxable benefits."
 
-Subsec. (f). Pub. L. 98–369, §531(b)(2)(A), amended subsec. (f) generally, inserting "Statutory" in heading and "statutory" before "nontaxable benefit" in text, providing that the benefit be excluded by reason of an express provision of this chapter (other than section 117, 124, 127, or 132), and extending the benefit to include group term life insurance.
+Subsec. (f). Pub. L. 98–369, §531(b)(2)(A), amended subsec. (f) generally, inserting "Statutory" in heading and"statutory" before "nontaxable benefit" in text, providing that the benefit be excluded by reason of an express provision of this chapter (other than section 117, 124, 127, or 132), and extending the benefit to include group term life insurance.
 
 Subsec. (h). Pub. L. 98–611 and Pub. L. 98–612, made identical amendments, substituting cross reference provision for reporting requirements provisions.
 
@@ -526,7 +526,7 @@ Pub. L. 98–369, div. A, title V, §531(b)(5), July 18, 1984, 98 Stat. 883, as 
 
 "(A)
 
-General transitional rule.—Any cafeteria plan in existence on February 10, 1984, which failed asof such date and continued to fail thereafter to satisfy the rules relating to section 125 under proposed Treasury regulations, and any benefit offered under such a cafeteria plan which failed as of such date and continued to fail thereafter to satisfy the rules of section 105, 106, 120, or 129 under proposed Treasury regulations, will not fail to be a cafeteria plan under section 125 or a nontaxable benefit under section 105, 106, 120, or 129 solely because of such failures. The preceding sentence shall apply only with respect to cafeteria plans and benefits provided under cafeteria plans before the earlier of—
+General transitional rule.—Any cafeteria plan in existence on February 10, 1984, which failed as of such date and continued to fail thereafter to satisfy the rules relating to section 125 under proposed Treasury regulations, and any benefit offered under such a cafeteria plan which failed as of such date and continued to fail thereafter to satisfy the rules of section 105, 106, 120, or 129 under proposed Treasury regulations, will not fail to be a cafeteria plan under section 125 or a nontaxable benefit under section 105, 106, 120, or 129 solely because of such failures. The preceding sentence shall apply only with respect to cafeteria plans and benefits provided under cafeteria plans before the earlier of—
 
 &emsp;"(i) January 1, 1985, or
 

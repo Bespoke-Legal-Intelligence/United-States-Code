@@ -20,7 +20,7 @@ For purposes of this part, the term "dividend" shall, except as otherwise provid
 
 #### (1) In general
 
-&emsp;Except in the case of a publicly offered regulated investment company (as defined in section 67(c)(2)(B)) or a publicly offered REIT, the amount of any distribution shall not be considered as a dividend for purposes of computing the dividends paid deduction, unless such distribution is pro rata, with no preference to any share of stock as compared with other shares of the same class, and with no preference to one class of stock as compared with another class except to the extent that the former is entitled (without reference to waivers of their rights by shareholders) to such preference. In the case of a distribution by a regulated investment company (other than a publicly offered regulated investment company (as so defined)) to a shareholder who made an initial investment of at least $10,000,000 in such company, such distribution shall not be treated as not being pro rata or as being preferential solely by reason of an increase in the distribution by reason of reductions in administrative expenses of the company.
+&emsp;Except in the case of a publicly offered regulated investment company (as defined in section 67(c)(2)(B)) or a publicly offered REIT, the amount of any distribution shall not be considered as a dividend for purposes of computing the dividends paid deduction, unless such distribution is pro rata, with no preference to any share of stock as compared with other shares of the same class, and with no preference to one class of stock as compared with another class except to the extent that the former is entitled (without reference to waivers of their rights by shareholders) to such preference. In the case of a distribution by a regulated investment company (other than apublicly offered regulated investment company (as so defined)) to a shareholder who made an initial investment of at least $10,000,000 in such company, such distribution shall not be treated as not being pro rata or as being preferential solely by reason of an increase in the distribution by reason of reductions in administrative expenses of the company.
 
 #### (2) Publicly offered REIT
 
@@ -36,7 +36,7 @@ In the case where a corporation which is a member of an affiliated group of corp
 
 &emsp;In the case of a real estate investment trust, in determining the amount of dividends under section 316 for purposes of computing the dividends paid deduction—
 
-&emsp;&emsp;(A) the earnings and profits of such trust for any taxable year (but not its accumulated earnings) shall be increased by the amount of gain (if any) on the sale or exchange of real property which is taken into account in determining the taxable income of such trust for such taxable year (and nototherwise taken into account in determining such earnings and profits), and
+&emsp;&emsp;(A) the earnings and profits of such trust for any taxable year (but not its accumulated earnings) shall be increased by the amount of gain (if any) on the sale or exchange of real property which is taken into account in determining the taxable income of such trust for such taxable year (and not otherwise taken into account in determining such earnings and profits), and
 
 &emsp;&emsp;(B) section 857(d)(1) shall be applied without regard to subparagraph (B) thereof.
 

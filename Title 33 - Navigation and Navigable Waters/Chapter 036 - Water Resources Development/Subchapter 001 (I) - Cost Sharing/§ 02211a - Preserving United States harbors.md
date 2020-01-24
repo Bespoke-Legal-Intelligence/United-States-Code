@@ -6,7 +6,7 @@ Upon a request from a non-Federal interest, the Secretary shall review a report 
 
 #### (b) Justification of investment
 
-A report submitted under subsection (a) may provide for an economic justification of Federal investment in the operation and maintenance of a federally authorized harbor based on—
+A report submitted under subsection (a) may provide for an economic justification of Federalinvestment in the operation and maintenance of a federally authorized harbor based on—
 
 &emsp;(1) the projected economic benefits, including transportation savings and job creation; and
 

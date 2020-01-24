@@ -70,7 +70,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;(B) By June 30, 1992, the Administrator, in consultation with the Program Office, shall publish in the Federal Register, pursuant to this section and the Administrator's authority under this chapter, final water quality guidance for the Great Lakes System.
 
-&emsp;(C) Within two years after such Great Lakes guidance is published, the Great Lakes States shall adopt water quality standards, antidegradation policies, and implementation procedures for waters within the Great Lakes System which are consistent with such guidance. If a Great Lakes State fails to adoptsuch standards, policies, and procedures, the Administrator shall promulgate them not later than the end of such two-year period. When reviewing any Great Lakes State's water quality plan, the agency shall consider the extent to which the State has complied with the Great Lakes guidance issued pursuant to this section.
+&emsp;(C) Within two years after such Great Lakes guidance is published, the Great Lakes States shall adopt water quality standards, antidegradation policies, and implementation procedures for waters within the Great Lakes System which are consistent with such guidance. If a Great Lakes State fails to adopt such standards, policies, and procedures, the Administrator shall promulgate them not later than the end of such two-year period. When reviewing any Great Lakes State's water quality plan, the agency shall consider the extent to which the State has complied with the Great Lakes guidance issued pursuant to this section.
 
 #### (3) Remedial Action Plans
 
@@ -82,7 +82,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;&emsp;(iii) includes such Remedial Action Plans within the State's water quality plan by January 1, 1993.
 
-&emsp;(B) For each area of concern for which Canada has agreed to draft a Remedial Action Plan, the Program Office shall, pursuant to subparagraph (c)(1)(C) of this section, work with Canada to assure the submission of such Remedial Action Plans to the International Joint Commission by June 30, 1991, and to finalize such Remedial Action Plans by January 1, 1993.
+&emsp;(B) For each area of concern for which Canada has agreed to draft a Remedial Action Plan, the Program Office shall, pursuant to subparagraph (c)(1)(C) of this section, work with Canada to assure the submission of such Remedial Action Plans to the InternationalJoint Commission by June 30, 1991, and to finalize such Remedial Action Plans by January 1, 1993.
 
 &emsp;(C) For any area of concern designated as such subsequent to November 16, 1990, the Program Office shall (i) if the United States has agreed to draft the Remedial Action Plan, ensure that the Great Lakes State in which such area of concern is located submits such Plan to the Program Office within two years of the area's designation, submits it to the International Joint Commission no later than six months after submitting it to the Program Office, and includes such Plan in the State's water quality plan no later than one year after submitting it to the Commission; and (ii) if Canada has agreed to draft the Remedial Action Plan, work with Canada, pursuant to subparagraph (c)(1)(C) of this section, to ensure the submission of such Plan to the International Joint Commission within two years of the area's designation and the finalization of such Plan no later than eighteen months after submitting it to such Commission.
 
@@ -330,7 +330,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;&emsp;&emsp;(i) if an evaluation of remedial alternatives for the area of concern has not been conducted, including a review of the short-term and long-term effects of the alternatives on human health and the environment;
 
-&emsp;&emsp;&emsp;(ii) if the Administrator determines that the area of concern is likely to suffer significant further or renewed contamination from existing sources of pollutants causing sediment contamination following completion of the project;
+&emsp;&emsp;&emsp;(ii) if the Administrator determines that the area of concern is likely to suffer significant further or renewed contaminationfrom existing sources of pollutants causing sediment contamination following completion of the project;
 
 &emsp;&emsp;&emsp;(iii) unless each non-Federal sponsor for the project has entered into a written project agreement with the Administrator under which the party agrees to carry out its responsibilities and requirements for the project; or
 
@@ -392,7 +392,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the Administrator may carry out one site assessmentper discrete site within a project at Federal expense.
+&emsp;&emsp;&emsp;For purposes of clause (i), the Administrator may carry out one site assessment per discrete site within a project at Federal expense.
 
 #### (G) Coordination
 
@@ -410,7 +410,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (iii) Allocation of funds
 
-&emsp;&emsp;&emsp;Not more than 20 percent of the funds appropriated pursuant to clause (i) for a fiscal year may be used to carry out subparagraph (F).
+&emsp;&emsp;&emsp;Not more than 20 percent of the funds appropriated pursuant to clause (i) for afiscal year may be used to carry out subparagraph (F).
 
 #### (12) Public information program
 
@@ -472,7 +472,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;(A) Not later than September 30, 1994, the Program Office, in consultation with the Research Office, the Agency for Toxic Substances and Disease Registry, and Great Lakes States shall submit to the Congress a report assessing the adverse effects of water pollutants in the Great Lakes System on the health of persons in Great Lakes States and the health of fish, shellfish, and wildlife in the Great Lakes System. In conducting research in support of this report, the Administrator may, where appropriate, provide for research to be conducted under cooperative agreements with Great Lakes States.
 
-&emsp;(B) There is authorized to be appropriated to the Administrator to carry out this sectionnot to exceed $3,000,000 for each of fiscal years 1992, 1993, and 1994.
+&emsp;(B) There is authorized to be appropriated to the Administrator to carry out this section not to exceed $3,000,000 for each of fiscal years 1992, 1993, and 1994.
 
 #### (f) Interagency cooperation
 
@@ -482,7 +482,7 @@ The head of each department, agency, or other instrumentality of the Federal Gov
 
 Nothing in this section shall be construed—
 
-&emsp;(1) to affect the jurisdiction, powers, or prerogatives of any department, agency, or officer of the Federal Government or of any State government, or of any tribe, nor any powers, jurisdiction, or prerogatives of any international body created by treaty with authority relating to the Great Lakes; or
+&emsp;(1) to affect the jurisdiction, powers, or prerogatives of any department, agency, or officer of the Federal Government or of any Stategovernment, or of any tribe, nor any powers, jurisdiction, or prerogatives of any international body created by treaty with authority relating to the Great Lakes; or
 
 &emsp;(2) to affect any other Federal or State authority that is being used or may be used to facilitate the cleanup and protection of the Great Lakes.
 
@@ -546,7 +546,7 @@ Subsec. (c)(12)(E)(iv). Pub. L. 110–365, §3(d)(1), (3), redesignated cl. (iii
 
 Subsec. (c)(12)(E)(v). Pub. L. 110–365, §3(d)(1), redesignated cl. (iv) as (v).
 
-Subsec. (c)(12)(F). Pub. L. 110–365, §3(e), amended subpar. (F) generally. Prior to amendment, text read as follows: "The Administrator may not carry out aproject under this paragraph unless the non-Federal sponsor enters into such agreements with the Administrator as the Administrator may require to ensure that the non-Federal sponsor will maintain its aggregate expenditures from all other sources for remediation programs in the area of concern in which the project is located at or above the average level of such expenditures in the 2 fiscal years preceding the date on which the project is initiated."
+Subsec. (c)(12)(F). Pub. L. 110–365, §3(e), amended subpar. (F) generally. Prior to amendment, text read as follows: "The Administrator may not carry out a project under this paragraph unless the non-Federal sponsor enters into such agreements with the Administrator as the Administrator may require to ensure that the non-Federal sponsor will maintain its aggregate expenditures from all other sources for remediation programs in the area of concern in which the project is located at or above the average level of such expenditures in the 2 fiscal years preceding the date on which the project is initiated."
 
 Subsec. (c)(12)(H)(i). Pub. L. 110–365, §3(f)(1), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "In addition to other amounts authorized under this section, there is authorized to be appropriated to carry out this paragraph $50,000,000 for each of fiscal years 2004 through 2008."
 
@@ -562,7 +562,7 @@ Subsec. (g). Pub. L. 107–303, §104, substituted "construed—" for "construed
 
 Subsec. (h). Pub. L. 107–303, §105, substituted "not to exceed—" for "not to exceed $11,000,000", inserted "(1) $11,000,000" before "per fiscal year for", substituted "1991;" for "1991.", added pars. (2) and (3), and struck out former last sentence which read as follows: "Of the amounts appropriated each fiscal year—
 
-&emsp;"(1) 40 percent shall be used by the Great Lakes National Program Office on demonstration projects on the feasibility of controlling and removing toxic pollutants;
+&emsp;"(1) 40 percent shall be used by the Great Lakes National Program Office on demonstration projects onthe feasibility of controlling and removing toxic pollutants;
 
 &emsp;"(2) 7 percent shall be used by the Great Lakes National Program Office for the program of nutrient monitoring; and
 
@@ -674,7 +674,7 @@ State action.—Nothing in this subsection prohibits an affected State from esta
 
 #### Funds Contributed by a Non-Federal Sponsor
 
-Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3332, provided in part that: "The Administrator \[of the Environmental Protection Agency\] may hereafter receive and use funds contributed by a non-Federal sponsor as its share of the cost of a project to carry out aproject under paragraph (c)(12) \[now (c)(11)\] of section 118 of the Federal Water Pollution Control Act \[33 U.S.C. 1268(c)(11)\], as amended."
+Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3332, provided in part that: "The Administrator \[of the Environmental Protection Agency\] may hereafter receive and use funds contributed by a non-Federal sponsor as its share of the cost of a project to carry out a project under paragraph (c)(12) \[now (c)(11)\] of section 118 of the Federal Water Pollution Control Act \[33 U.S.C. 1268(c)(11)\], as amended."
 
 #### Great Lakes Remedial Action Plans and Sediment Remediation
 
@@ -706,7 +706,7 @@ Sediment Remediation Projects.—
 
 &emsp;"(1)
 
-In general.—The Secretary, in consultation with the Administrator of the Environmental Protection Agency (acting through the Great Lakes National Program Office), may conduct pilot- and full-scale projects of promising technologies to remediate contaminated sediments in freshwater coastal regions in the Great Lakes basin. The Secretary shall conduct not fewer than 3 full-scale projects under this subsection.
+In general.—The Secretary, in consultation with the Administrator of the Environmental Protection Agency (acting through the Great Lakes National Program Office), may conduct pilot- and full-scale projects of promising technologies to remediatecontaminated sediments in freshwater coastal regions in the Great Lakes basin. The Secretary shall conduct not fewer than 3 full-scale projects under this subsection.
 
 &emsp;"(2)
 
@@ -762,7 +762,7 @@ Sec. 3. <i>Great Lakes Interagency Task Force</i>.
 
 &emsp;(i) The Task Force shall consist exclusively of the following officers of the United States: the Administrator of the Environmental Protection Agency (who shall chair the Task Force), the Secretary of State, the Secretary of the Interior, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Secretary of Homeland Security, the Secretary of the Army, and the Chairman of the Council on Environmental Quality. A member of the Task Force may designate, to perform the Task Force functions of the member, any person who is part of the member's department, agency, or office and who is either an officer of the United States appointed by the President or a full-time employee serving in a position with pay equal to or greater than the minimum rate payable for GS–15 of the General Schedule. The Task Force shall report to the President through the Chairman of the Council on Environmental Quality.
 
-&emsp;(ii) The Task Force shall establish a "Great Lakes Regional Working Group" (Working Group) composed of the appropriate regional administrator or director with programmatic responsibility for the Great Lakes system for each agency represented on the Task Force including: the Great Lakes National Program Office of the Environmental Protection Agency; the United States Fish and Wildlife Service, National Park Service, and United States Geological Survey within the Department of the Interior; the Natural Resources Conservation Service and the Forest Service of the Department of Agriculture; the National Oceanic and Atmospheric Administration of the Department of Commerce; the Department of Housing and Urban Development; the Department of Transportation; the Coast Guard within the Department of Homeland Security; and the Army Corps of Engineers within the Department of the Army. The Working Group will coordinate and make recommendations on how to implement the policies, strategies, projects, and priorities of the Task Force.
+&emsp;(ii) The Task Force shall establish a "Great Lakes Regional Working Group" (Working Group) composed of the appropriate regional administrator or director with programmatic responsibility for the Great Lakes system for each agency represented on the Task Force including: the Great Lakes National Program Office of the Environmental Protection Agency; the United States Fish and Wildlife Service, National Park Service, and United States Geological Survey within the Department of the Interior; the Natural Resources Conservation Service and the Forest Service of the Department of Agriculture; the National Oceanic and Atmospheric Administration of the Department of Commerce; the Department of Housing and Urban Development; the Department of Transportation; the Coast Guard within the Department ofHomeland Security; and the Army Corps of Engineers within the Department of the Army. The Working Group will coordinate and make recommendations on how to implement the policies, strategies, projects, and priorities of the Task Force.
 
 (c) Management Principles for Regional Collaboration of National Significance. To further the policy described in section 1, the Task Force shall recognize and apply key principles and foster conditions to ensure successful collaboration. To that end, the Environmental Protection Agency will coordinate the development of a set of principles of successful collaboration.
 

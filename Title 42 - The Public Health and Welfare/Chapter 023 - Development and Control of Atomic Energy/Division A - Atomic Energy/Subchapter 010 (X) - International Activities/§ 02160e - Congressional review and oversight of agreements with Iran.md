@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) the extent to which the Secretary will be able to verify that Iran is complying with its obligations and commitments under the agreement;
 
-&emsp;&emsp;&emsp;(ii) the adequacy of the safeguards and other control mechanisms and other assurances contained in the agreement with respect to Iran's nuclear program to ensure Iran's activities permitted thereunder will not be used to further any nuclear-related military or nuclear explosive purpose, including for any research on or development of any nuclear explosive device or any other nuclear-related military purpose; and
+&emsp;&emsp;&emsp;(ii) the adequacy of the safeguards and other control mechanisms and other assurances contained in the agreement with respect to Iran's nuclear program to ensureIran's activities permitted thereunder will not be used to further any nuclear-related military or nuclear explosive purpose, including for any research on or development of any nuclear explosive device or any other nuclear-related military purpose; and
 
 &emsp;&emsp;&emsp;(iii) the capacity and capability of the International Atomic Energy Agency to effectively implement the verification regime required by or related to the agreement, including whether the International Atomic Energy Agency will have sufficient access to investigate suspicious sites or allegations of covert nuclear-related activities and whether it has the required funding, manpower, and authority to undertake the verification regime required by or related to the agreement.
 
@@ -38,7 +38,7 @@
 
 #### (C) Classified annex
 
-&emsp;&emsp;A report under subparagraph (A) shall be transmitted in unclassified form, but shallinclude a classified annex prepared in consultation with the Director of National Intelligence, summarizing relevant classified information.
+&emsp;&emsp;A report under subparagraph (A) shall be transmitted in unclassified form, but shall include a classified annex prepared in consultation with the Director of National Intelligence, summarizing relevant classified information.
 
 #### (3) Exception
 
@@ -102,7 +102,7 @@
 
 #### (2) In general
 
-&emsp;Notwithstanding any other provision of law, action involving any measure of statutorysanctions relief by the United States pursuant to an agreement subject to subsection (a) or the Joint Plan of Action—
+&emsp;Notwithstanding any other provision of law, action involving any measure of statutory sanctions relief by the United States pursuant to an agreement subject to subsection (a) or the Joint Plan of Action—
 
 &emsp;&emsp;(A) may be taken, consistent with existing statutory requirements for such action, if, during the period for review provided in subsection (b), there is enacted a joint resolution stating in substance that the Congress does favor the agreement;
 
@@ -216,7 +216,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the event the President does not submit a certification pursuant to subsection (d)(6) during each 90-day period following the review period provided in subsection (b), or submits a determination pursuant to subsection (d)(3) that Iran has materially breached an agreement subject to subsection (a) and the material breach has not been cured, qualifying legislation introduced within 60 calendar days of such event shall be entitled to expedited consideration pursuant to this subsection.
+&emsp;&emsp;In the event the President does not submit a certification pursuant to subsection (d)(6) during each 90-day period following the review period provided in subsection (b), or submits a determination pursuant to subsection (d)(3) that Iran has materiallybreached an agreement subject to subsection (a) and the material breach has not been cured, qualifying legislation introduced within 60 calendar days of such event shall be entitled to expedited consideration pursuant to this subsection.
 
 #### (B) Definition
 
@@ -292,7 +292,7 @@
 
 &emsp;&emsp;&emsp;(ii) With respect to qualifying legislation of the House receiving the legislation—
 
-&emsp;&emsp;&emsp;&emsp;(I) the procedure in that House shall be the same as if no qualifying legislationhad been received from the other House; but
+&emsp;&emsp;&emsp;&emsp;(I) the procedure in that House shall be the same as if no qualifying legislation had been received from the other House; but
 
 &emsp;&emsp;&emsp;&emsp;(II) the vote on passage shall be on the qualifying legislation of the other House.
 
@@ -342,7 +342,7 @@ In this section:
 
 #### (3) Appropriate congressional committees and leadership
 
-&emsp;The term "appropriate congressional committees and leadership" means the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, the Select Committee on Intelligence, and the Committee on Foreign Relations, and the Majority and Minority Leaders of the Senate and the Committee on Ways and Means, the Committee on Financial Services, the Permanent Select Committee on Intelligence, and the Committee on Foreign Affairs, and the Speaker, Majority Leader, and Minority Leader of the House of Representatives.
+&emsp;The term "appropriate congressional committees and leadership" means the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, the Select Committee on Intelligence, and the Committee on Foreign Relations, and the Majority and Minority Leaders of the Senate and the Committee on Ways and Means, the Committee on FinancialServices, the Permanent Select Committee on Intelligence, and the Committee on Foreign Affairs, and the Speaker, Majority Leader, and Minority Leader of the House of Representatives.
 
 #### (4) Iranian financial institution
 
@@ -358,7 +358,7 @@ In this section:
 
 #### (7) Material breach
 
-&emsp;The term "material breach" means, with respect to an agreement described in subsection (a), any breach of the agreement, or in thecase of non-binding commitments, any failure to perform those commitments, that substantially—
+&emsp;The term "material breach" means, with respect to an agreement described in subsection (a), any breach of the agreement, or in the case of non-binding commitments, any failure to perform those commitments, that substantially—
 
 &emsp;&emsp;(A) benefits Iran's nuclear program;
 

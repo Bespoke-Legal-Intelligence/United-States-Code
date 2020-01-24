@@ -14,7 +14,7 @@
 
 &emsp;(1) the debtor's failure to complete such payments is due to circumstances for which the debtor should not justly be held accountable;
 
-&emsp;(2) the value, as of the effective date of the plan, of property actually distributed under the plan on account of each allowed unsecuredclaim is not less than the amount that would have been paid on such claim if the estate of the debtor had been liquidated under chapter 7 of this title on such date; and
+&emsp;(2) the value, as of the effective date of the plan, of property actually distributed under the plan on account of each allowed unsecured claim is not less than the amount that would have been paid on such claim if the estate of the debtor had been liquidated under chapter 7 of this title on such date; and
 
 &emsp;(3) modification of the plan under section 1329 of this title is not practicable.
 
@@ -80,7 +80,7 @@ Pub. L. 109–8, §314(b), added pars. (1) to (4) and struck out former pars. (1
 
 "(3) for restitution, or a criminal fine, included in a sentence on the debtor's conviction of a crime."
 
-Pub. L. 109–8, §213(11), inserted ", and in the case of a debtor who is required by a judicial or administrativeorder, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid" after "completion by the debtor of all payments under the plan" in introductory provisions.
+Pub. L. 109–8, §213(11), inserted ", and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid" after "completion by the debtor of all payments under the plan" in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 109–8, §707, substituted "section 507(a)(8)(C) or in paragraph (1)(B), (1)(C)," for "paragraph".
 

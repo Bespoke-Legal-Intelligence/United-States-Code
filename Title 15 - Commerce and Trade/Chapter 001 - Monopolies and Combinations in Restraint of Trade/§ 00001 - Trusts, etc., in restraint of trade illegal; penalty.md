@@ -24,7 +24,7 @@ Pub. L. 107–72, §4, Nov. 20, 2001, 115 Stat. 650, provided that: "This Act \[
 
 #### Effective Date of 1975 Amendment
 
-Pub. L. 94–145, §4, Dec. 12, 1974, 89 Stat. 801, provided that: "The amendments made by sections 2 and 3 of this Act \[amending this section and section 45 of this title\] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act \[Dec. 12, 1975\]."
+Pub. L. 94–145, §4, Dec. 12, 1974, 89 Stat. 801, provided that: "The amendments made by sections 2 and 3 of this Act \[amending this section and section 45 of thistitle\] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act \[Dec. 12, 1975\]."
 
 #### Short Title of 2015 Amendment
 
@@ -450,7 +450,7 @@ In general.—For the purpose of completing the study under subsection (a)(1), a
 
 &emsp;&emsp;"(A) collect and maintain for each academic year until the study under subsection (a)(1) is completed—
 
-&emsp;&emsp;&emsp;"(i) student-level data that is sufficient, in the judgment of the Comptroller General, to permit the analysis of expected family contributions, identified need, and undergraduate grant aid awards; and
+&emsp;&emsp;&emsp;"(i) student-level data that is sufficient, in the judgment of the Comptroller General, to permitthe analysis of expected family contributions, identified need, and undergraduate grant aid awards; and
 
 &emsp;&emsp;&emsp;"(ii) information on formulas used by the institution to determine need; and
 

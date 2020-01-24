@@ -10,7 +10,7 @@
 
 #### (b) Conservation measures under State plans
 
-(1) Each State emergency conservation plan under this section shall provide for emergency reduction in the public and private use of each energy source for which an emergency conservation target is in effect under section 8511 of this title. Such State plan shall contain adequate assurances that measures contained therein will be effectively implemented in that State. Such plan may provide for reduced use of that energy source through voluntary programs or through the application of one or more of the following measures described in such plan:
+(1) Each State emergency conservation plan under this section shall provide for emergencyreduction in the public and private use of each energy source for which an emergency conservation target is in effect under section 8511 of this title. Such State plan shall contain adequate assurances that measures contained therein will be effectively implemented in that State. Such plan may provide for reduced use of that energy source through voluntary programs or through the application of one or more of the following measures described in such plan:
 
 &emsp;(A) measures which are authorized under the laws of that State and which will be administered and enforced by officers and employees of the State (or political subdivisions of the State) pursuant to the laws of such State (or political subdivisions); and
 
@@ -62,7 +62,7 @@
 
 (2) Any penalty under paragraph (1) may be assessed by the court in any action brought in any appropriate United States district court or any other court of competent jurisdiction. Except to the extent provided in paragraph (3), any such penalty collected shall be deposited into the general fund of the United States Treasury as miscellaneous receipts.
 
-(3) The Secretary may enter into an agreement with the Governor of any State under which amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of measures the authority for which is delegated under subsection (d).
+(3) The Secretary may enter into an agreement with the Governor of any State underwhich amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of measures the authority for which is delegated under subsection (d).
 
 (Pub. L. 96–102, title II, §212, Nov. 5, 1979, 93 Stat. 759.)
 

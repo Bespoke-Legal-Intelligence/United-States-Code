@@ -30,7 +30,7 @@
 
 (2) If a participant (other than the United States) in such a cooperative project or a NATO organization makes a contract on behalf of such project to meet the requirements of the United States, the contract may permit the contracting party to follow its own procedures relating to contracting.
 
-(f) In carrying out a cooperative project, the Secretary of Defense may also agree to the disposal of property that is jointly acquired by themembers of the project without regard to any laws of the United States applicable to the disposal of property owned by the United States. Disposal of such property may include a transfer of the interest of the United States in such property to one of the other governments participating in the cooperative agreement or the sale of such property. Payment for the transfer or sale of any interest of the United States in any such property shall be made in accordance with the terms of the cooperative agreement.
+(f) In carrying out a cooperative project, the Secretary of Defense may also agree to the disposal of property that is jointly acquired by the members of the project without regard to any laws of the United States applicable to the disposal of property owned by the United States. Disposal of such property may include a transfer of the interest of the United States in such property to one of the other governments participating in the cooperative agreement or the sale of such property. Payment for the transfer or sale of any interest of the United States in any such property shall be made in accordance with the terms of the cooperative agreement.
 
 (g) Nothing in this section shall be construed as authorizing the Secretary of Defense—
 

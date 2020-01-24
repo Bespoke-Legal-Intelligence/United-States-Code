@@ -76,7 +76,7 @@ Any contracts entered into between the United States and a foreign country under
 
 #### (g) North Atlantic Treaty Organization standardization agreements, similar agreements; reimbursement for costs; transmittal to Congress
 
-The President may enter into North Atlantic Treaty Organization standardization agreements in carrying out section 814 of the Act of October 7, 1975 (Public Law 94–106), and may enter into similar agreements with countries which are major non-NATO allies, for the cooperative furnishing of training on bilateral or multilateral basis, if the financial principles of such agreements are based on reciprocity. Such agreements shall include reimbursement for all direct costs but may exclude reimbursement for indirect costs, administrative surcharges, andcosts of billeting of trainees (except to the extent that members of the United States Armed Forces occupying comparable accommodations are charged for such accommodations by the United States). Each such agreement shall be transmitted promptly to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate.
+The President may enter into North Atlantic Treaty Organization standardization agreements in carrying out section 814 of the Act of October 7, 1975 (Public Law 94–106), and may enter into similar agreements with countries which are major non-NATO allies, for the cooperative furnishing of training on bilateral or multilateral basis, if the financial principles of such agreements are based on reciprocity. Such agreements shall include reimbursement for all direct costs but may exclude reimbursement for indirect costs, administrative surcharges, and costs of billeting of trainees (except to the extent that members of the United States Armed Forces occupying comparable accommodations are charged for such accommodations by the United States). Each such agreement shall be transmitted promptly to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate.
 
 #### (h) Reciprocal quality assurance, inspection, contract administrative services, and contract audit defense services; catalog data and services
 
@@ -218,7 +218,7 @@ Subsec. (e)(3)(C)(i)(II). Pub. L. 113–66, §1250(b)(3), substituted "activitie
 
 Subsec. (h)(1)(A). Pub. L. 110–429, §203(b)(3), inserted "the Republic of Korea," before "or Israel".
 
-Subsec. (h)(2). Pub. L. 110–429, §203(b)(4), substituted ", to any member government of that Organization, or to the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel" for "or to any member government of that Organization if that Organization or member government".
+Subsec. (h)(2). Pub. L. 110–429, §203(b)(4), substituted ", to any member government of that Organization, orto the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel" for "or to any member government of that Organization if that Organization or member government".
 
 <b>2005</b>—Subsec. (h)(1)(A). Pub. L. 109–102, §534(l)(1), inserted "or the Governments of Australia, New Zealand, Japan, or Israel" after "North Atlantic Treaty Organization".
 
@@ -404,7 +404,7 @@ Annual report.—Not later than November 1, 2019, and annually thereafter until 
 
 Definitions.—In this section—
 
-&emsp;"(1) the terms 'defense article' and 'defense service' have the meanings given those terms, respectively, in section 47 of the Arms Export Control Act (22 U.S.C. 2794); and
+&emsp;"(1) the terms 'defense article' and 'defense service' have the meanings given those terms, respectively, insection 47 of the Arms Export Control Act (22 U.S.C. 2794); and
 
 &emsp;"(2) the term 'appropriate committees of Congress' means—
 

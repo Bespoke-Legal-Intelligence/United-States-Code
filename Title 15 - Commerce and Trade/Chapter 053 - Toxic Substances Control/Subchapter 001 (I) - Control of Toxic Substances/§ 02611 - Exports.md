@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Except as provided in paragraph (2) and subsections (b) and (c), this chapter (other thansection 2607 of this title) shall not apply to any chemical substance, mixture, or to an article containing a chemical substance or mixture, if—
+(1) Except as provided in paragraph (2) and subsections (b) and (c), this chapter (other than section 2607 of this title) shall not apply to any chemical substance, mixture, or to an article containing a chemical substance or mixture, if—
 
 &emsp;(A) it can be shown that such substance, mixture, or article is being manufactured, processed, or distributed in commerce for export from the United States, unless such substance, mixture, or article was, in fact, manufactured, processed, or distributed in commerce, for use in the United States, and
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;(iv) the potential for these compounds to be processed into elemental mercury after export from the United States; and
 
-&emsp;&emsp;&emsp;(v) other relevant information that Congress should consider in determining whether to extend the export prohibition to include one or more of these mercury compounds.
+&emsp;&emsp;&emsp;(v) other relevant information that Congress should consider in determiningwhether to extend the export prohibition to include one or more of these mercury compounds.
 
 #### (B) Procedure
 

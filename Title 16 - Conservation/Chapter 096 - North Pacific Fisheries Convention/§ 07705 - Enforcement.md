@@ -42,11 +42,11 @@ The Secretary and the Secretary of the department in which the Coast Guard is op
 
 #### (1) In general
 
-&emsp;Any information submitted to the Secretary in compliance with any requirement underthis chapter, and information submitted under any requirement of this chapter that may be necessary to implement the Convention, including information submitted before December 16, 2016, shall be confidential and may not be disclosed, except—
+&emsp;Any information submitted to the Secretary in compliance with any requirement under this chapter, and information submitted under any requirement of this chapter that may be necessary to implement the Convention, including information submitted before December 16, 2016, shall be confidential and may not be disclosed, except—
 
 &emsp;&emsp;(A) to a Federal employee who is responsible for administering, implementing, or enforcing this chapter;
 
-&emsp;&emsp;(B) to the Commission, in accordance with requirements in the North Pacific Fisheries Convention and decisions of the Commission, and, insofar as possible, in accordance with an agreement with the Commission that prevents public disclosure of the identity or business of any person;
+&emsp;&emsp;(B) to the Commission, in accordance with requirements in the North Pacific Fisheries Convention and decisions of the Commission, and, insofar as possible, in accordancewith an agreement with the Commission that prevents public disclosure of the identity or business of any person;
 
 &emsp;&emsp;(C) to State, Council, or marine fisheries commission employees pursuant to an agreement with the Secretary that prevents public disclosure of the identity or business of any person;
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Bureau is authorized to conduct hearings and adjudication proceedings with respect toany person in the manner prescribed by chapter 5 of title 5 in order to ensure or enforce compliance with—
+The Bureau is authorized to conduct hearings and adjudication proceedings with respect to any person in the manner prescribed by chapter 5 of title 5 in order to ensure or enforce compliance with—
 
 &emsp;(1) the provisions of this title,<sup>1</sup> including any rules prescribed by the Bureau under this title; <sup>1</sup> and
 
@@ -38,7 +38,7 @@ The Bureau is authorized to conduct hearings and adjudication proceedings with r
 
 #### (4) Appeal to court of appeals
 
-&emsp;Any party to any proceeding under this subsection may obtain a review of any order served pursuant to this subsection (other than an order issued with the consent of the person concerned) by the filing in the court of appeals of the United States for the circuit in which the principal office of the covered person is located, or in the United States Court of Appeals for the District of Columbia Circuit, within 30 days after the date of service of such order, a written petition praying that the order of the Bureau be modified, terminated, or set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Bureau, and thereupon the Bureau shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Upon the filing of such petition, such court shall have jurisdiction, which upon the filing of the record shall except as provided in the last sentence of paragraph (3) be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Bureau. Review of such proceedings shall be had as provided in chapter 7 of title 5. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court of the United States, upon certiorari, as provided in section 1254 of title 28.
+&emsp;Any party to any proceeding under this subsection may obtain a review of any orderserved pursuant to this subsection (other than an order issued with the consent of the person concerned) by the filing in the court of appeals of the United States for the circuit in which the principal office of the covered person is located, or in the United States Court of Appeals for the District of Columbia Circuit, within 30 days after the date of service of such order, a written petition praying that the order of the Bureau be modified, terminated, or set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Bureau, and thereupon the Bureau shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Upon the filing of such petition, such court shall have jurisdiction, which upon the filing of the record shall except as provided in the last sentence of paragraph (3) be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Bureau. Review of such proceedings shall be had as provided in chapter 7 of title 5. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court of the United States, upon certiorari, as provided in section 1254 of title 28.
 
 #### (5) No stay
 

@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-The district courts of the United States shall have jurisdiction over any civil action commenced under section 1404 of this title and this section by a covered employee who has completed counseling under section 1402 of this title and mediation under section 1403 of this title. A civil action may be commenced by a covered employee only to seek redress for a violation for which the employee has completed counseling and mediation.
+The district courts of the United States shall have jurisdiction over any civil action commenced under section 1401 of this title and this section by a covered employee.
 
 #### (b) Parties
 
@@ -16,7 +16,7 @@ Any party may demand a jury trial where a jury trial would be available in an ac
 
 #### (1) In general
 
-&emsp;The House Employment Counsel of the House of Representatives and any other counsel in the Office of House Employment Counselof the House of Representatives, including any counsel specially retained by the Office of House Employment Counsel, shall be entitled, for the purpose of providing legal assistance and representation to employing offices of the House of Representatives under this chapter, to enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof without compliance with any requirements for admission to practice before such court, except that the authorization conferred by this paragraph shall not apply with respect to the admission of any such person to practice before the United States Supreme Court.
+&emsp;The House Employment Counsel of the House of Representatives and any other counsel in the Office of House Employment Counsel of the House of Representatives, including any counsel specially retained by the Office of House Employment Counsel, shall be entitled, for the purpose of providing legal assistance and representation to employing offices of the House of Representatives under this chapter, to enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof without compliance with any requirements for admission to practice before such court, except that the authorization conferred by this paragraph shall not apply with respect to the admission of any such person to practice before the United States Supreme Court.
 
 #### (2) House Employment Counsel defined
 
@@ -29,16 +29,6 @@ Any party may demand a jury trial where a jury trial would be available in an ac
 &emsp;&emsp;(C) any other person authorized and directed in accordance with the Rules of the House of Representatives to provide legal assistance and representation to employing offices of the House of Representatives in connection with actions brought under this subchapter.
 
 (Pub. L. 104–1, title IV, §408, Jan. 23, 1995, 109 Stat. 37; Pub. L. 107–68, title I, §119(a), Nov. 12, 2001, 115 Stat. 573; Pub. L. 115–397, title I, §101(b), Dec. 21, 2018, 132 Stat. 5300.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 115–397, title I, §101(b), title IV, §401, Dec. 21, 2018, 132 Stat. 5300, 5327, made amendments to subsection (a) of this section, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings. After such effective date, subsection (a) of this section will read as follows:</i>
-
-#### <i>(a) Jurisdiction</i>
-
-<i>The district courts of the United States shall have jurisdiction over any civil action commenced under section 1401 of this title and this section by a covered employee.</i>
-
-<i>See 2018 Amendment note below.</i>
 
 #### References in Text
 

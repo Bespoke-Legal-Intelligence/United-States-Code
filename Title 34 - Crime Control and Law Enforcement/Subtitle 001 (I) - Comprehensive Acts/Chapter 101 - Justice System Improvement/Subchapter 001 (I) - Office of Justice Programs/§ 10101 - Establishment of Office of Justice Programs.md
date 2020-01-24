@@ -30,6 +30,12 @@ Pub. L. 98–473, title II, §609AA, Oct. 12, 1984, 98 Stat. 2107, provided that
 
 #### Short Title of 2019 Amendment
 
+Pub. L. 116–104, §1, Dec. 30, 2019, 133 Stat. 3272, provided that: "This Act \[amending sections 40701, 40722, and 40723 of this title\] may be cited as the 'Debbie Smith Reauthorization Act of 2019'."
+
+Pub. L. 116–69, div. B, title VII, §1701(a), Nov. 21, 2019, 133 Stat. 1140, provided that: "This section \[amending section 20144 of this title and enacting provisions set out as notes under section 20144 of this title\] may be cited as the 'United States Victims of State Sponsored Terrorism Fund Clarification Act'."
+
+Pub. L. 116–32, §1, July 25, 2019, 133 Stat. 1036, provided that: "This Act \[amending sections 10261 and 10491 to 10493 of this title\] may be cited as the 'Supporting and Treating Officers In Crisis Act of 2019'."
+
 Pub. L. 115–424, §1, Jan. 7, 2019, 132 Stat. 5465, provided that: "This Act \[enacting section 20342 of this title and amending sections 20301 to 20307, 20323, and 20333 of this title and section 5106a of Title 42, The Public Health and Welfare\] may be cited as the 'Victims of Child Abuse Act Reauthorization Act of 2018'."
 
 #### Short Title of 2018 Amendment
@@ -116,7 +122,7 @@ Pub. L. 113–163, §1, Aug. 8, 2014, 128 Stat. 1864, provided that: "This Act \
 
 #### Short Title of 2013 Act
 
-Pub. L. 113–38, §1, Sept. 30, 2013, 127 Stat. 527, provided that: "This Act \[enacting section 11296 of this title and amending sections 11291, 11293, 11294, and 11297 of this title\] may be cited as the 'E. Clay Shaw, Jr. Missing Children's Assistance Reauthorization Act of 2013'."
+Pub. L. 113–38, §1, Sept. 30, 2013, 127 Stat. 527, provided that: "This Act \[enacting section 11296 of this title andamending sections 11291, 11293, 11294, and 11297 of this title\] may be cited as the 'E. Clay Shaw, Jr. Missing Children's Assistance Reauthorization Act of 2013'."
 
 Pub. L. 113–4, §1, Mar. 7, 2013, 127 Stat. 54, provided that: "This Act \[see Tables for classification\] may be cited as the 'Violence Against Women Reauthorization Act of 2013'."
 
@@ -190,7 +196,7 @@ Pub. L. 109–162, title X, §1001, Jan. 5, 2006, 119 Stat. 3084, provided that:
 
 #### Short Title of 2004 Act
 
-Pub. L. 108–414, §1, Oct. 30, 2004, 118 Stat. 2327, provided that: "This Act \[enacting subchapter XXXIII of this chapter and provisions set out as notes under section 10651 of this title\] may be cited as the 'Mentally Ill Offender Treatment and Crime Reduction Act of 2004'."
+Pub. L. 108–414, §1, Oct. 30, 2004, 118 Stat. 2327, provided that: "This Act \[enacting subchapter XXXIII ofthis chapter and provisions set out as notes under section 10651 of this title\] may be cited as the 'Mentally Ill Offender Treatment and Crime Reduction Act of 2004'."
 
 Pub. L. 108–405, §1(a), Oct. 30, 2004, 118 Stat. 2260, provided that: "This Act \[see Tables for classification\] may be cited as the 'Justice for All Act of 2004'."
 
@@ -258,7 +264,7 @@ Pub. L. 105–251, title II, §201, Oct. 9, 1998, 112 Stat. 1874, provided that:
 
 Pub. L. 105–251, title II, §211, Oct. 9, 1998, 112 Stat. 1874, provided that: "This subtitle \[subtitle A (§§211–217) of title II of Pub. L. 105–251, enacting subchapter II of chapter 403 of this title\] may be cited as the 'National Crime Prevention and Privacy Compact Act of 1998'."
 
-Pub. L. 105–251, title II, §221, Oct. 9, 1998, 112 Stat. 1885, provided that: "This subtitle \[subtitle B (§§221, 222) of title II of Pub. L. 105–251, amending sections 40102 and 40103 of this title\] may be cited as the 'Volunteers for Children Act'."
+Pub. L. 105–251, title II, §221, Oct. 9, 1998, 112 Stat. 1885, provided that: "This subtitle \[subtitle B (§§221,222) of title II of Pub. L. 105–251, amending sections 40102 and 40103 of this title\] may be cited as the 'Volunteers for Children Act'."
 
 Pub. L. 105–181, §1, June 16, 1998, 112 Stat. 512, provided that: "This Act \[enacting subchapter XXIV of this chapter, amending sections 10261 and 10541 of this title, and enacting provisions set out as a note under section 10531 of this title\] may be cited as the 'Bulletproof Vest Partnership Grant Act of 1998'."
 
@@ -266,7 +272,7 @@ Pub. L. 105–180, §1, June 16, 1998, 112 Stat. 511, provided that: "This Act \
 
 #### Short Title of 1996 Act
 
-Pub. L. 104–238, §1, Oct. 3, 1996, 110 Stat. 3114, provided that: "This Act \[enacting part B of subchapter XI ofthis chapter\] may be cited as the 'Federal Law Enforcement Dependents Assistance Act of 1996'."
+Pub. L. 104–238, §1, Oct. 3, 1996, 110 Stat. 3114, provided that: "This Act \[enacting part B of subchapter XI of this chapter\] may be cited as the 'Federal Law Enforcement Dependents Assistance Act of 1996'."
 
 Pub. L. 104–132, title II, §231, Apr. 24, 1996, 110 Stat. 1243, provided that: "This subtitle \[subtitle C (§§231–236) of title II of Pub. L. 104–132, enacting sections 20105 and 20142 of this title, amending this section and sections 20102 and 20103 of this title, and enacting provisions set out as notes under section 20102 of this title\] may be cited as the 'Justice for Victims of Terrorism Act of 1996'."
 
@@ -324,7 +330,7 @@ Pub. L. 98–473, title II, §601, Oct. 12, 1984, 98 Stat. 2077, provided that: 
 
 Pub. L. 98–473, title II, §610, Oct. 12, 1984, 98 Stat. 2107, provided that: "This Division \[division II (§§610–670) of chapter VI of title II of Pub. L. 98–473, see Tables for classification\] may be cited as the 'Juvenile Justice, Runaway Youth, and Missing Children's Act Amendments of 1984'."
 
-Pub. L. 98–473, title II, §1401, Oct. 12, 1984, 98 Stat. 2170, provided that: "This chapter \[chapter XIV (§§1401–1411) of title II of Pub. L. 98–473, see Tables for classification\] may be cited as the 'Victims of Crime Act of 1984'."
+Pub. L. 98–473, title II, §1401, Oct. 12, 1984, 98 Stat. 2170, provided that: "This chapter \[chapter XIV\(§§1401–1411) of title II of Pub. L. 98–473, see Tables for classification\] may be cited as the 'Victims of Crime Act of 1984'."
 
 #### Short Title of 1980 Act
 

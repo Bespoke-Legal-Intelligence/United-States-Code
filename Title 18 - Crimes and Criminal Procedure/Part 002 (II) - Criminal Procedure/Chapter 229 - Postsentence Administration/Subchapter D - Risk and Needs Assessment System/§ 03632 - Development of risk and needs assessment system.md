@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Not later than 210 days after the date of enactment of this subchapter, the Attorney General, in consultation with the Independent Review Committee authorized by the First Step Act of 2018, shall develop and release publicly on the Department of Justice website a risk and needs assessment system (referred to in this subchapter as the "System"), which shall be used to—
+In General.—Not later than 210 days after the date of enactment of this subchapter, theAttorney General, in consultation with the Independent Review Committee authorized by the First Step Act of 2018, shall develop and release publicly on the Department of Justice website a risk and needs assessment system (referred to in this subchapter as the "System"), which shall be used to—
 
 &emsp;(1) determine the recidivism risk of each prisoner as part of the intake process, and classify each prisoner as having minimum, low, medium, or high risk for recidivism;
 
@@ -34,7 +34,7 @@ Assignment of Evidence-based Recidivism Reduction Programs.—The System shall p
 
 &emsp;(1) programs in which the Bureau of Prisons shall assign the prisoner to participate, according to the prisoner's specific criminogenic needs; and
 
-&emsp;(2) information on the best ways that the Bureau of Prisons can tailor the programs tothe specific criminogenic needs of each prisoner so as to most effectively lower each prisoner's risk of recidivism.
+&emsp;(2) information on the best ways that the Bureau of Prisons can tailor the programs to the specific criminogenic needs of each prisoner so as to most effectively lower each prisoner's risk of recidivism.
 
 (c)
 
@@ -84,7 +84,7 @@ In general.—A prisoner, except for an ineligible prisoner under subparagraph (
 
 &emsp;&emsp;&emsp;(i) A prisoner shall earn 10 days of time credits for every 30 days of successful participation in evidence-based recidivism reduction programming or productive activities.
 
-&emsp;&emsp;&emsp;(ii) A prisoner determined by the Bureau of Prisons to be at a minimum or low risk for recidivating, who, over 2 consecutive assessments, has not increased their risk of recidivism, shall earn an additional 5 days of time credits for every 30 days of successful participation in evidence-based recidivism reduction programming or productive activities.
+&emsp;&emsp;&emsp;(ii) A prisoner determined by the Bureau of Prisons to be at a minimum or low risk for recidivating, who, over 2 consecutive assessments, has not increased their riskof recidivism, shall earn an additional 5 days of time credits for every 30 days of successful participation in evidence-based recidivism reduction programming or productive activities.
 
 &emsp;&emsp;(B)
 
@@ -252,7 +252,7 @@ In general.—A prisoner is ineligible to apply time credits under subparagraph 
 
 &emsp;&emsp;&emsp;(ii)
 
-Proceedings.—The Attorney General, in consultation with the Secretary of Homeland Security, shall ensure that any alien described in section 212 or 237 of the Immigration and Nationality Act (8 U.S.C. 1182, 1227) who seeks to earn time creditsare subject to proceedings described in section 238(a) of that Act (8 U.S.C. 1228(a)) at a date as early as practicable during the prisoner's incarceration.
+Proceedings.—The Attorney General, in consultation with the Secretary of Homeland Security, shall ensure that any alien described in section 212 or 237 of the Immigration and Nationality Act (8 U.S.C. 1182, 1227) who seeks to earn time credits are subject to proceedings described in section 238(a) of that Act (8 U.S.C. 1228(a)) at a date as early as practicable during the prisoner's incarceration.
 
 &emsp;(5)
 

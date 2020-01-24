@@ -18,7 +18,7 @@ The purposes of this chapter are—
 
 As used in this chapter, the term:
 
-&emsp;(1) "critical technology" (or "critical technical issue") means a technology (or issue) that, in the opinion of the Secretary, requiresunderstanding and development in order to take the next needed step in the development of hydrogen as an economic fuel or storage medium;
+&emsp;(1) "critical technology" (or "critical technical issue") means a technology (or issue) that, in the opinion of the Secretary, requires understanding and development in order to take the next needed step in the development of hydrogen as an economic fuel or storage medium;
 
 &emsp;(2) "Department" means the Department of Energy; and
 

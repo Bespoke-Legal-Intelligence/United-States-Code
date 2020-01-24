@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The court, in imposing a sentence to a term of imprisonment for a felony or a misdemeanor, may include as a part of the sentence a requirement that the defendant be placed on a term of supervised release after imprisonment, except that the court shall include as a part of the sentence a requirement that the defendant be placed on a term of supervised release if such a term is required by statute or if the defendant has been convicted for the first time of a domestic violence crime as defined in section 3561(b).
+In General.—The court, in imposing a sentence to a term of imprisonment for a felony or a misdemeanor, may include as a part of the sentence a requirement that the defendant beplaced on a term of supervised release after imprisonment, except that the court shall include as a part of the sentence a requirement that the defendant be placed on a term of supervised release if such a term is required by statute or if the defendant has been convicted for the first time of a domestic violence crime as defined in section 3561(b).
 
 (b)
 
@@ -58,7 +58,7 @@ Mandatory Revocation for Possession of Controlled Substance or Firearm or for Re
 
 &emsp;(4) as a part of drug testing, tests positive for illegal controlled substances more than 3 times over the course of 1 year;
 
-> the court shall revoke the term of supervised release and require the defendant to serve a term of imprisonment not to exceed the maximumterm of imprisonment authorized under subsection (e)(3).
+> the court shall revoke the term of supervised release and require the defendant to serve a term of imprisonment not to exceed the maximum term of imprisonment authorized under subsection (e)(3).
 
 (h)
 

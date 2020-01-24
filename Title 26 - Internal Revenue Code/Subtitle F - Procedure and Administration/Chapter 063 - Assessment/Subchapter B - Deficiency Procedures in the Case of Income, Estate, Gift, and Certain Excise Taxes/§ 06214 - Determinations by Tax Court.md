@@ -24,7 +24,7 @@ For purposes of this chapter, chapter 41, 42, 43, or 44, and subtitles A or B th
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–280 inserted at end "Notwithstanding the preceding sentence, the Tax Court may apply the doctrine of equitable recoupmentto the same extent that it is available in civil tax cases before the district courts of the United States and the United States Court of Federal Claims."
+<b>2006</b>—Subsec. (b). Pub. L. 109–280 inserted at end "Notwithstanding the preceding sentence, the Tax Court may apply the doctrine of equitable recoupment to the same extent that it is available in civil tax cases before the district courts of the United States and the United States Court of Federal Claims."
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–188 amended subsec. (e) generally, striking par. (2) designation and par. (1) which provided cross reference to section 6621(c)(4) of this title for provision giving Tax Court jurisdiction to determine whether any portion of deficiency is a substantial underpayment attributable to tax motivated transactions.
 

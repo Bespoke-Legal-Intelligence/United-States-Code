@@ -28,5 +28,5 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Effective Date
 
-Pub. L. 111–281, title II, §207(c), Oct. 15, 2010, 124 Stat. 2912, provided that: "The amendments made by this section \[enacting this section\] shall be deemed to have been enacted on April 19, 2010."
+Pub. L. 111–281, title II, §207(c), Oct. 15, 2010, 124 Stat. 2912, provided that: "The amendments made by thissection \[enacting this section\] shall be deemed to have been enacted on April 19, 2010."
 

@@ -44,7 +44,7 @@ Maximum Period.—An exemption or renewal under subsection (b)(3)(B)(i) of this 
 
 (f)
 
-Disclosure.—The Secretary may make public, by the 10th day after an application is filed, information contained in the application or relevant to the application unless the information concerns or is related to a trade secret or other confidential information not relevant to the application.
+Disclosure.—The Secretary may make public, by the 10th day after an application is filed, information contained in the applicationor relevant to the application unless the information concerns or is related to a trade secret or other confidential information not relevant to the application.
 
 (g)
 
@@ -116,7 +116,7 @@ In subsection (b)(3)(B)(iii), the words "lower the safety level" are substituted
 
 In subsection (b)(3)(B)(iv), the word "requiring" is omitted as surplus.
 
-In subsection (c), before clause (1), the words "the following information" are added for clarity. In clause (1),the word "describing" is substituted for "the basis of showing" to eliminate unnecessary words. The words "each motor vehicle safety standard prescribed under this chapter from which the manufacturer is requesting an exemption" are substituted for "the standards" for clarity. In clauses (2) and (3), the words "a record" are substituted for "documentation" for consistency in the revised title. In clause (2), the words "establishing that the safety level of the feature at least equals the safety level of the standard" are substituted for "establishing that the level of safety of the new safety feature is equivalent to or exceeds the level of safety established in the standard from which the exemption is sought" because of the restatement. In clause (3), the word "level" is added, and the words "lowered . . . by exemption from the standard" are substituted for "degraded", for consistency in this section. In clause (4), the words "at least equal to" are substituted for "equivalent to or exceeding" for consistency.
+In subsection (c), before clause (1), the words "the following information" are added for clarity. In clause (1), the word "describing" is substituted for "the basis of showing" to eliminate unnecessary words. The words "each motor vehicle safety standard prescribed under this chapter from which the manufacturer is requesting an exemption" are substituted for "the standards" for clarity. In clauses (2) and (3), the words "a record" are substituted for "documentation" for consistency in the revised title. In clause (2), the words "establishing that the safety level of the feature at least equals the safety level of the standard" are substituted for "establishing that the level of safety of the new safety feature is equivalent to or exceeds the level of safety established in the standard from which the exemption is sought" because of the restatement. In clause (3), the word "level" is added, and the words "lowered . . . by exemption from the standard" are substituted for "degraded", for consistency in this section. In clause (4), the words "at least equal to" are substituted for "equivalent to or exceeding" for consistency.
 
 In subsection (f), the text of 15:1410(f) (1st sentence) is omitted as executed. The words "under this section all" and "other information" are omitted as surplus. The words "to the application" are substituted for "thereto" for clarity. The words "business" and "for exemption" are omitted as surplus.
 

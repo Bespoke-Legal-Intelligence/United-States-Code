@@ -1,6 +1,6 @@
 ### §178. Retirement of judges of the Court of Federal Claims
 
-(a) A judge of the United States Court of Federal Claims who retires from office after attaining the age and meeting the service requirements, whether continuously or otherwise, of this subsection shall, subject to subsection (f), be entitled to receive, during the remainder of the judge's lifetime, an annuity equal to the salary payable to Court of Federal Claims judges inregular active service. The age and service requirements for retirement under this subsection are as follows:
+(a) A judge of the United States Court of Federal Claims who retires from office after attaining the age and meeting the service requirements, whether continuously or otherwise, of this subsection shall, subject to subsection (f), be entitled to receive, during the remainder of the judge's lifetime, an annuity equal to the salary payable to Court of Federal Claims judges in regular active service. The age and service requirements for retirement under this subsection are as follows:
 
 &nbsp;
 
@@ -113,7 +113,7 @@
 
 (3)(A) There are authorized to be appropriated to the Court of Federal Claims Judges Retirement Fund amounts required to reduce to zero the unfunded liability of the Fund.
 
-(B) For purposes of subparagraph (A), the term "unfunded liability" means the estimated excess, determined on an annual basis in accordance with the provisions of section 9503 of title 31, of the present value of all benefits payable from the Court of Federal Claims Judges Retirement Fund, over the balance in the Fund as of the date the unfunded liability is determined. In making any determination under this subparagraph, the Comptroller General shall use the applicable information contained in the reports filed pursuant to section 9503 of title 31, with respect to the retirement annuities provided for in this section.
+(B) For purposes of subparagraph (A), the term "unfunded liability" means the estimated excess, determined on an annual basis in accordance with the provisions of section 9503 of title 31, of the present value of all benefits payablefrom the Court of Federal Claims Judges Retirement Fund, over the balance in the Fund as of the date the unfunded liability is determined. In making any determination under this subparagraph, the Comptroller General shall use the applicable information contained in the reports filed pursuant to section 9503 of title 31, with respect to the retirement annuities provided for in this section.
 
 (C) There are authorized to be appropriated such sums as may be necessary to carry out this paragraph.
 

@@ -42,7 +42,7 @@ Exception.—Section 204 \[section 12134 of this title\] shall become effective 
 
 Ex. Ord. No. 13217, June 18, 2001, 66 F.R. 33155, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to place qualified individualswith disabilities in community settings whenever appropriate, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to place qualified individuals with disabilities in community settings whenever appropriate, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. This order is issued consistent with the following findings and principles:
 

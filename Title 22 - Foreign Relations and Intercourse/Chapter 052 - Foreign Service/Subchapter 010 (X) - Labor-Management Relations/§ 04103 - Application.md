@@ -16,7 +16,7 @@ The President may by Executive order exclude any subdivision of the Department f
 
 The President may by Executive order suspend any provision of this subchapter with respect to any post, bureau, office, or activity of the Department, if the President determines in writing that the suspension is necessary in the interest of national security because of an emergency.
 
-(Pub. L. 96–465, title I, §1003, Oct. 17, 1980, 94 Stat. 2130; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(k)(3), title XIV, §1422(b)(4)(C), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
+(Pub. L. 96–465, title I, §1003, Oct. 17, 1980, 94 Stat. 2130; Pub. L. 97–241, title III, §303(b), Aug.24, 1982, 96 Stat. 291; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(k)(3), title XIV, §1422(b)(4)(C), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
 
 #### Amendments
 
@@ -26,7 +26,9 @@ Pub. L. 105–277, §1335(k)(3), substituted "Broadcasting Board of Governors" f
 
 #### Change of Name
 
-"United States Information Agency" substituted for "International Communication Agency" in subsec. (a),pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
+"United States Information Agency" substituted for "International Communication Agency" in subsec. (a), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title.
 
 #### Effective Date of 1998 Amendment
 

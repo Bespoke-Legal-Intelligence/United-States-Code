@@ -10,7 +10,7 @@ Pub. L. 114–237, §1, Oct. 7, 2016, 130 Stat. 970, provided that: "This Act \[
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–173, §1, Nov. 23, 1987, 101 Stat. 917, provided that: "This Act \[enacting sections 197 and 228b–1 to 228b–4 of this title, amending sections 182, 192, 209, 221, 223, 227, and 228a of this title, repealing sections 218 to 218d of this title, and enacting provisions set out as notes under sections 182 and 227 of this title\] may be cited as the 'Poultry Producers Financial Protection Act of 1987'."
+Pub. L. 100–173, §1, Nov. 23, 1987, 101 Stat. 917, provided that: "This Act \[enacting sections 197 and 228b–1to 228b–4 of this title, amending sections 182, 192, 209, 221, 223, 227, and 228a of this title, repealing sections 218 to 218d of this title, and enacting provisions set out as notes under sections 182 and 227 of this title\] may be cited as the 'Poultry Producers Financial Protection Act of 1987'."
 
 #### Improved Investigative and Enforcement Activities Under This Chapter
 

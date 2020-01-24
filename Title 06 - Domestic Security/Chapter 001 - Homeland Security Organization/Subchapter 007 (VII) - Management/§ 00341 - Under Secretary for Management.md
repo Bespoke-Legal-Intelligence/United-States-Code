@@ -16,7 +16,7 @@ The Under Secretary for Management shall serve as the Chief Management Officer a
 
 &emsp;(6) Security for personnel, information technology and communications systems, facilities, property, equipment, and other material resources.
 
-&emsp;(7) Strategic management planning and annual performance planning and identification and tracking of performance measures relating to the responsibilities of the Department.
+&emsp;(7) Strategic management planning and annual performance planning and identificationand tracking of performance measures relating to the responsibilities of the Department.
 
 &emsp;(8) Grants and other assistance management programs.
 
@@ -122,7 +122,7 @@ Not later than five days after the date on which the Chief Procurement Officer o
 
 #### (D) Review
 
-&emsp;&emsp;The Under Secretary for Management shall review and make a determination on the results of each component's vehicle allocation tool and fleet management plan under this paragraph to ensure each such component's vehicle fleets are the optimalfleet size and that components are in compliance with applicable Federal law, Federal regulations, executive branch guidance, and Department policy (including associated guidance) pursuant to paragraph (2) relating to fleet management and use of vehicles from home to work. The Under Secretary shall use such tools and plans when reviewing annual component requests for vehicle fleet funding in accordance with paragraph (6).
+&emsp;&emsp;The Under Secretary for Management shall review and make a determination on the results of each component's vehicle allocation tool and fleet management plan under this paragraph to ensure each such component's vehicle fleets are the optimal fleet size and that components are in compliance with applicable Federal law, Federal regulations, executive branch guidance, and Department policy (including associated guidance) pursuant to paragraph (2) relating to fleet management and use of vehicles from home to work. The Under Secretary shall use such tools and plans when reviewing annual component requests for vehicle fleet funding in accordance with paragraph (6).
 
 #### (5) Guidance to develop fleet management plans
 

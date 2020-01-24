@@ -76,7 +76,7 @@ Veterans Employment.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (2), a recipient of Federal financial assistance under this chapter shall, to the extent practicable, encourage contractors working on a highway project funded using the assistance to make a best faith effort in the hiring or referral of laborers on any project for the construction of a highway to veterans (as defined in section 2108 of title 5) who have the requisite skills and abilities to perform the construction work required under the contract.
+In general.—Subject to paragraph (2), a recipient of Federal financial assistance under this chapter shall, to the extent practicable,encourage contractors working on a highway project funded using the assistance to make a best faith effort in the hiring or referral of laborers on any project for the construction of a highway to veterans (as defined in section 2108 of title 5) who have the requisite skills and abilities to perform the construction work required under the contract.
 
 &emsp;(2)
 
@@ -280,5 +280,5 @@ Pub. L. 98–166, title II, §202, Nov. 28, 1983, 97 Stat. 1085.
 
 #### Acceleration of Projects
 
-Pub. L. 97–424, title I, §129, Jan. 6, 1983, 96 Stat. 2118, provided that: "The Secretary of Transportation shall by rule or regulation establish, as soon as practicable, alternative methods for processing projects under title 23, United States Code, so as to reduce the time required from the request for project approval through the completion of construction. In carrying out this section the Secretary shall utilize the knowledge and experience resulting from the demonstration project authorized by and carried out under section 141 of the Federal-Aid Highway Act of 1976 \[Pub. L. 94–280, title I, §141, May 5, 1976, 90 Stat. 444, formerly set out as a note under former section 124 of this title\]."
+Pub. L. 97–424, title I, §129, Jan. 6, 1983, 96 Stat. 2118, provided that: "The Secretary of Transportation shall by rule or regulation establish, as soon as practicable, alternative methods for processing projects under title 23, United States Code, so as to reduce the time required from the request for project approval through the completion of construction. In carrying out this section the Secretary shall utilize the knowledge and experience resulting from the demonstration projectauthorized by and carried out under section 141 of the Federal-Aid Highway Act of 1976 \[Pub. L. 94–280, title I, §141, May 5, 1976, 90 Stat. 444, formerly set out as a note under former section 124 of this title\]."
 

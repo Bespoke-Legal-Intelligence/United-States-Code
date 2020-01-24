@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1)(A) Except as otherwise provided in this subchapter, not later than 60 days after the date on which a rule is promulgated under this subchapter, subchapter II, or subchapter IV, or the date on which an order is issued under section 2603, 2604(e), 2604(f), or 2605(i)(1) of this title,,<sup>1</sup> any person may file a petition for judicial review of such rule or order with the United States Court of Appeals for the District of Columbia Circuit or for the circuit in which such person resides or in which such person's principal place of business is located. Courts of appeals of the United States shall have exclusive jurisdiction of any action to obtain judicial review (other than in an enforcement proceeding) of such a rule or order if any district court of the United States would have had jurisdiction of such action but for this subparagraph.
+(1)(A) Except as otherwise provided in this subchapter, not later than 60 days after the dateon which a rule is promulgated under this subchapter, subchapter II, or subchapter IV, or the date on which an order is issued under section 2603, 2604(e), 2604(f), or 2605(i)(1) of this title,,<sup>1</sup> any person may file a petition for judicial review of such rule or order with the United States Court of Appeals for the District of Columbia Circuit or for the circuit in which such person resides or in which such person's principal place of business is located. Courts of appeals of the United States shall have exclusive jurisdiction of any action to obtain judicial review (other than in an enforcement proceeding) of such a rule or order if any district court of the United States would have had jurisdiction of such action but for this subparagraph.
 
 (B) Except as otherwise provided in this subchapter, courts of appeals of the United States shall have exclusive jurisdiction of any action to obtain judicial review (other than in an enforcement proceeding) of an order issued under this subchapter, other than an order under section 2603, 2604(e), 2604(f), or 2605(i)(1) of this title, if any district court of the United States would have had jurisdiction of such action but for this subparagraph.
 
@@ -10,7 +10,7 @@
 
 (ii) The United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction over a civil action filed under this subparagraph.
 
-(2) Copies of any petition filed under paragraph (1)(A) shall be transmitted forthwith to the Administrator and to the Attorney General by the clerk of the court with which such petition was filed. The provisions of section 2112 of title 28 shall apply to the filing of the record of proceedings on which the Administrator basedthe rule or order being reviewed under this section and to the transfer of proceedings between United States courts of appeals.
+(2) Copies of any petition filed under paragraph (1)(A) shall be transmitted forthwith to the Administrator and to the Attorney General by the clerk of the court with which such petition was filed. The provisions of section 2112 of title 28 shall apply to the filing of the record of proceedings on which the Administrator based the rule or order being reviewed under this section and to the transfer of proceedings between United States courts of appeals.
 
 #### (b) Additional submissions and presentations; modifications
 
@@ -44,7 +44,7 @@ The remedies as provided in this section shall be in addition to and not in lieu
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a)(1)(A). Pub. L. 114–182, §19(m)(1)(A), substituted "Except as otherwise provided in this subchapter, not later than 60 days after the date on which a rule is promulgated under this subchapter, subchapter II, or subchapter IV, or the date on which an order is issued under section 2603, 2604(e), 2604(f), or 2605(i)(1) of this title," for "Not later than 60 days after the date of the promulgation of a rule under section 2603(a), 2604(a)(2), 2604(b)(4), 2605(a), 2605(e), or 2607 of this title, or under subchapter II or IV", "such rule or order" for "such rule", and "such a rule or order" for "such a rule".
+<b>2016</b>—Subsec. (a)(1)(A). Pub. L. 114–182, §19(m)(1)(A), substituted "Except as otherwise provided in this subchapter, not later than 60 days after the date on which a rule is promulgated under this subchapter, subchapter II, or subchapter IV, or the date on which an order is issued under section 2603, 2604(e), 2604(f), or 2605(i)(1) of this title," for "Not later than 60 days afterthe date of the promulgation of a rule under section 2603(a), 2604(a)(2), 2604(b)(4), 2605(a), 2605(e), or 2607 of this title, or under subchapter II or IV", "such rule or order" for "such rule", and "such a rule or order" for "such a rule".
 
 Subsec. (a)(1)(B). Pub. L. 114–182, §19(m)(1)(B), substituted "Except as otherwise provided in this subchapter, courts" for "Courts" and "this subchapter, other than an order under section 2603, 2604(e), 2604(f), or 2605(i)(1) of this title," for "subparagraph (A) or (B) of section 2605(b)(1) of this title".
 

@@ -2,7 +2,7 @@
 
 #### (a) Expedited review
 
-&emsp;(1) Any Member of Congress may bring an action, in the United States District Court for the District of Columbia, for declaratory judgment and injunctive relief on the ground that any order that might be issued pursuant to section 904 of this title violates the Constitution.
+&emsp;(1) Any Member of Congress may bring an action, in the United States District Court forthe District of Columbia, for declaratory judgment and injunctive relief on the ground that any order that might be issued pursuant to section 904 of this title violates the Constitution.
 
 &emsp;(2) Any Member of Congress, or any other person adversely affected by any action taken under this title,<sup>1</sup> may bring an action, in the United States District Court for the District of Columbia, for declaratory judgment and injunctive relief concerning the constitutionality of this title.<sup>1</sup>
 
@@ -44,7 +44,7 @@ It shall be the duty of the District Court for the District of Columbia and the 
 
 #### (e) Timing of relief
 
-No order of any court granting declaratory or injunctive relief from the order of the President issued under section 904 of this title, including but not limited to relief permitting or requiringthe expenditure of funds sequestered by such order, shall take effect during the pendency of the action before such court, during the time appeal may be taken, or, if appeal is taken, during the period before the court to which such appeal is taken has entered its final order disposing of such action.
+No order of any court granting declaratory or injunctive relief from the order of the President issued under section 904 of this title, including but not limited to relief permitting or requiring the expenditure of funds sequestered by such order, shall take effect during the pendency of the action before such court, during the time appeal may be taken, or, if appeal is taken, during the period before the court to which such appeal is taken has entered its final order disposing of such action.
 
 #### (f) Preservation of other rights
 
@@ -58,7 +58,7 @@ The economic data and economic assumptions used by the Director of OMB in comput
 
 #### References in Text
 
-This title, referred to in subsec. (a)(2), (3), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
+This title, referred to in subsec. (a)(2), (3), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classificationof this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
 Section 906(a) of this title, referred to in subsec. (d)(1)(A), was repealed by Pub. L. 111–139, title I, §10(a), Feb. 12, 2010, 124 Stat. 21.
 

@@ -1,6 +1,6 @@
 ### §209. Salary of Government officials and employees payable only by United States
 
-(a) Whoever receives any salary, or any contribution to or supplementation of salary, as compensation for his services as an officer or employee of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, from any source other than the Government of the United States, except as may be contributed out of the treasury of any State, county, or municipality; or
+(a) Whoever receives any salary, or any contribution to or supplementation of salary, ascompensation for his services as an officer or employee of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, from any source other than the Government of the United States, except as may be contributed out of the treasury of any State, county, or municipality; or
 
 Whoever, whether an individual, partnership, association, corporation, or other organization pays, makes any contribution to, or in any way supplements, the salary of any such officer or employee under circumstances which would make its receipt a violation of this subsection—
 

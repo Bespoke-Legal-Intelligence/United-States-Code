@@ -58,7 +58,7 @@ For purposes of this section and section 179B(b), in the calculation of average 
 
 #### (2) Contents of application
 
-&emsp;An application for certification shall include relevant information regarding unit capacities and operating characteristics sufficient for the Secretary, after consultation with the Administrator of the Environmental ProtectionAgency, to determine that such qualified costs are necessary for compliance with the applicable EPA regulations.
+&emsp;An application for certification shall include relevant information regarding unit capacities and operating characteristics sufficient for the Secretary, after consultation with the Administrator of the Environmental Protection Agency, to determine that such qualified costs are necessary for compliance with the applicable EPA regulations.
 
 #### (3) Review period
 

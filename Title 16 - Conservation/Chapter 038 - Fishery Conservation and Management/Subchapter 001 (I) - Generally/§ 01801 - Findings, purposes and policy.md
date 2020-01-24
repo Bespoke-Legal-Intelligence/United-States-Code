@@ -10,7 +10,7 @@ The Congress finds and declares the following:
 
 &emsp;(3) Commercial and recreational fishing constitutes a major source of employment and contributes significantly to the economy of the Nation. Many coastal areas are dependent upon fishing and related activities, and their economies have been badly damaged by the overfishing of fishery resources at an ever-increasing rate over the past decade. The activities of massive foreign fishing fleets in waters adjacent to such coastal areas have contributed to such damage, interfered with domestic fishing efforts, and caused destruction of the fishing gear of United States fishermen.
 
-&emsp;(4) International fishery agreements have not been effective in preventing or terminating the overfishing of these valuable fisheryresources. There is danger that irreversible effects from overfishing will take place before an effective international agreement on fishery management jurisdiction can be negotiated, signed, ratified, and implemented.
+&emsp;(4) International fishery agreements have not been effective in preventing or terminating the overfishing of these valuable fishery resources. There is danger that irreversible effects from overfishing will take place before an effective international agreement on fishery management jurisdiction can be negotiated, signed, ratified, and implemented.
 
 &emsp;(5) Fishery resources are finite but renewable. If placed under sound management before overfishing has caused irreversible effects, the fisheries can be conserved and maintained so as to provide optimum yields on a continuing basis.
 
@@ -128,7 +128,7 @@ Subsec. (b)(6). Pub. L. 95–354, §2(b), inserted requirement for development b
 
 #### References to Magnuson-Stevens Fishery Conservation and Management Act Considered To Include Section 401(a) of Pub. L. 108–219
 
-References to the Magnuson-Stevens Fishery Conservation and Management Act or any provision of that Act considered to be references to that Act as it would be in effect if section 401(a) of Pub. L. 108–219 were aprovision of that Act, see section 401(c)(1) of Pub. L. 108–219, set out in an Implementation of Pacific Albacore Tuna Treaty note under section 1821 of this title.
+References to the Magnuson-Stevens Fishery Conservation and Management Act or any provision of that Act considered to be references to that Act as it would be in effect if section 401(a) of Pub. L. 108–219 were a provision of that Act, see section 401(c)(1) of Pub. L. 108–219, set out in an Implementation of Pacific Albacore Tuna Treaty note under section 1821 of this title.
 
 #### References to Magnuson Fishery Conservation and Management Act Redesignated as References to Magnuson-Stevens Fishery Conservation and Management Act
 
@@ -156,7 +156,7 @@ Pub. L. 112–183, §1, Oct. 5, 2012, 126 Stat. 1422, provided that: "This Act \
 
 #### Short Title of 2011 Amendment
 
-Pub. L. 111–348, title I, §101, Jan. 4, 2011, 124 Stat. 3668, provided that: "This title \[amending sections 1826i to 1826k, 1857, and 4107 of this title and enacting provisions set out as notes under sections 1826k and 1857 of this title\] may be cited as the 'Shark Conservation Act of 2010'."
+Pub. L. 111–348, title I, §101, Jan. 4, 2011, 124 Stat. 3668, provided that: "This title \[amending sections 1826i to1826k, 1857, and 4107 of this title and enacting provisions set out as notes under sections 1826k and 1857 of this title\] may be cited as the 'Shark Conservation Act of 2010'."
 
 #### Short Title of 2007 Amendment
 
@@ -184,7 +184,7 @@ Pub. L. 100–220, §1, Dec. 29, 1987, 101 Stat. 1458, provided that: "This Act 
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–561, title II, §201, Dec. 22, 1980, 94 Stat. 3287, provided that: "This title \[enacting section 1511b of Title 15, Commerce and Trade, amending sections 917, 1801, 1821, 1824, 1852, and 1855 of this title, section 713c–3of Title 15, sections 1972 and 1980 of Title 22, Foreign Relations and Intercourse, section 1321 of Title 33, Navigation and Navigable Waters, section 1843 of Title 43, Public Lands, and sections 1271, 1273, 1274, and 1275 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section, sections 742c, 1821, and 1824 of this title, and section 1980 of Title 22\] may be cited as the 'American Fisheries Promotion Act'."
+Pub. L. 96–561, title II, §201, Dec. 22, 1980, 94 Stat. 3287, provided that: "This title \[enacting section 1511b of Title 15, Commerce and Trade, amending sections 917, 1801, 1821, 1824, 1852, and 1855 of this title, section 713c–3 of Title 15, sections 1972 and 1980 of Title 22, Foreign Relations and Intercourse, section 1321 of Title 33, Navigation and Navigable Waters, section 1843 of Title 43, Public Lands, and sections 1271, 1273, 1274, and 1275 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section, sections 742c, 1821, and 1824 of this title, and section 1980 of Title 22\] may be cited as the 'American Fisheries Promotion Act'."
 
 #### Short Title of 1977 Amendment
 
@@ -240,7 +240,7 @@ Mixed-use fishery.—The term 'mixed-use fishery' means a Federal fishery in whi
 
 Ex. Ord. No. 12962, June 7, 1995, 60 F.R. 30769, as amended by Ex. Ord. No. 13474, Sept. 26, 2008, 73 F.R. 57229, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a–d, and e–j), the Fish and Wildlife Coordination Act (16 U.S.C. 661–666c), the National Environmental Policy Act of 1969 (42 U.S.C. 4321 <i>et seq</i>.), the National Marine Sanctuaries Act of 1972 (16 U.S.C. 1431 <i>et seq</i>.), the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd–ee), the National Park Service Organic Act (\[former\] 16 U.S.C. 1 <i>et seq</i>.) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], the National Historic Preservation Act (\[former\] 16 U.S.C. 470 <i>et seq</i>.) \[see 54 U.S.C. 300101 et seq.\], \[the\] Wilderness Act (16 U.S.C. 1131 <i>et seq</i>.), the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 <i>et seq</i>.), the Coastal Zone Management Act \[of 1972\] (16 U.S.C. 1451 <i>et seq</i>.), the Outer Continental Shelf Lands Act (43 U.S.C. 1331 <i>et seq</i>.), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a–d, and e–j), the Fish and Wildlife Coordination Act (16 U.S.C. 661–666c \[666c–1\]), the National Environmental Policy Act of 1969 (42 U.S.C. 4321 <i>et seq</i>.), the National Marine Sanctuaries Act of 1972 (16 U.S.C. 1431 <i>et seq</i>.), the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd–ee), the National Park Service Organic Act (\[former\] 16 U.S.C. 1 <i>et seq</i>.) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], the National Historic Preservation Act (\[former\] 16 U.S.C. 470 <i>et seq</i>.) \[see 54 U.S.C. 300101 et seq.\], \[the\] Wilderness Act (16 U.S.C. 1131 <i>et seq</i>.), the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 <i>et seq</i>.), the Coastal Zone Management Act \[of 1972\] (16 U.S.C. 1451 <i>et seq</i>.), the Outer Continental Shelf Lands Act (43 U.S.C. 1331 <i>et seq</i>.), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
 
 Section 1. <i>Federal Agency Duties</i>. Federal agencies shall, to the extent permitted by law and where practicable, and in cooperation with States and Tribes, improve the quantity, function, sustainable productivity, and distribution of U.S. aquatic resources for increased recreational fishing opportunities by: (a) developing and encouraging partnerships between governments and the private sector to advance aquatic resource conservation and enhance recreational fishing opportunities;
 

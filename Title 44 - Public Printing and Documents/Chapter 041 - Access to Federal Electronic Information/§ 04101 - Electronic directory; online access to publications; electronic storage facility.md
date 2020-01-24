@@ -6,7 +6,7 @@ In General.—The Superintendent of Documents, under the direction of the Direct
 
 &emsp;(1) maintain an electronic directory of Federal electronic information;
 
-&emsp;(2) provide a system of online access to the Congressional Record, the Federal Register, and, as determined by the Superintendent ofDocuments, other appropriate publications distributed by the Superintendent of Documents; and
+&emsp;(2) provide a system of online access to the Congressional Record, the Federal Register, and, as determined by the Superintendent of Documents, other appropriate publications distributed by the Superintendent of Documents; and
 
 &emsp;(3) operate an electronic storage facility for Federal electronic information to which online access is made available under paragraph (2).
 
@@ -36,5 +36,5 @@ Pub. L. 103–40, §3, June 8, 1993, 107 Stat. 113, required the Public Printer 
 
 #### Operational Deadline
 
-Pub. L. 103–40, §4(a), June 8, 1993, 107 Stat. 113, provided that: "The directory, the system of access, and the electronic storage facility referred to in section 4101 of title 44, United States Code, as added by section 2(a), shall be operational not later than one year after the date of the enactment of this Act \[June 8, 1993\]."
+Pub. L. 103–40, §4(a), June 8, 1993, 107 Stat. 113, provided that: "The directory, the system of access, and the electronic storage facility referred to in section4101 of title 44, United States Code, as added by section 2(a), shall be operational not later than one year after the date of the enactment of this Act \[June 8, 1993\]."
 

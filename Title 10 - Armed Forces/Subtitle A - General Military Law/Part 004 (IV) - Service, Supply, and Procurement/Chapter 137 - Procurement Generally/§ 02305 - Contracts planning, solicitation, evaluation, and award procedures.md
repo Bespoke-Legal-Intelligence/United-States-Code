@@ -22,7 +22,7 @@
 
 &emsp;(iii) design requirements.
 
-(2) In addition to the specifications described in paragraph (1), a solicitation for sealed bids or competitive proposals (other than for a procurement for commercial items using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
+(2) In addition to the specifications described in paragraph (1), a solicitation for sealed bids or competitive proposals (other than for a procurement for commercial products or commercial services using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
 
 &emsp;(A) a statement of—
 
@@ -114,7 +114,7 @@
 
 &emsp;(iv) a summary of the rationale for the award;
 
-&emsp;(v) in the case of a proposal that includes a commercial item that is an end item under the contract, the make and model of the item being provided in accordance with the offer of the contractor awarded the contract;
+&emsp;(v) in the case of a proposal that includes a commercial product that is an end item under the contract, the make and model of the item being provided in accordance with the offer of the contractor awarded the contract;
 
 &emsp;(vi) reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the agency; and
 
@@ -126,7 +126,7 @@
 
 (E) Each solicitation for competitive proposals shall include a statement that information described in subparagraph (B) may be disclosed in post-award debriefings.
 
-(F) If, within one year after the date of the contract award and as a result of a successful procurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
+(F) If, within one year after the date of the contract award and as a result of a successfulprocurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
 
 &emsp;(i) the information provided in debriefings under this paragraph regarding the offer of the contractor awarded the contract; and
 
@@ -174,7 +174,7 @@
 
 (B) Proposals referred to in the first sentence of subparagraph (A) are proposals identifying opportunities to ensure that the United States will be able to obtain on a competitive basis items procured in connection with the system that are likely to be reprocured in substantial quantities during the service life of the system. Proposals submitted in response to such requirement may include the following:
 
-&emsp;(i) Proposals to provide to the United States the right to use technical data to be providedunder the contract for competitive reprocurement of the item, together with the cost to the United States, if any, of acquiring such technical data and the right to use such data.
+&emsp;(i) Proposals to provide to the United States the right to use technical data to be provided under the contract for competitive reprocurement of the item, together with the cost tothe United States, if any, of acquiring such technical data and the right to use such data.
 
 &emsp;(ii) Proposals for the qualification or development of multiple sources of supply for the item.
 
@@ -211,16 +211,6 @@ Prohibition on Release of Contractor Proposals.—(1) Except as provided in para
 (3) In this subsection, the term "proposal" means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII, §1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, §802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108 Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660; Pub. L. 106–65, div. A, title VIII, §821, Oct. 5, 1999, 113 Stat. 714; Pub. L. 114–328, div. A, title VIII, §825(a), Dec. 23, 2016, 130 Stat. 2279; Pub. L. 115–91, div. A, title VIII, §818(b), Dec. 12, 2017, 131 Stat. 1463; Pub. L. 115–232, div. A, title VIII, §836(c)(3), Aug. 13, 2018, 132 Stat. 1864.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(c)(3), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(2), by striking "commercial items" and inserting "commercial products or commercial services"; and</i>
-
-<i>(2) in subsection (b)(5)(B)(v), by striking "commercial item" and inserting "commercial product".</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes<br>1956
 
@@ -354,7 +344,7 @@ Subsec. (b)(1). Pub. L. 101–510, §802(d)(1), inserted "and make an award" aft
 
 Subsec. (b)(3). Pub. L. 101–510, §802(d)(2), inserted "in accordance with paragraph (1)" after "shall evaluate the bids".
 
-Subsec. (b)(4)(A). Pub. L. 101–510, §802(d)(3)(A), substituted "competitive proposals in accordance withparagraph (1)" for "competitive proposals" in introductory provisions, added cls. (i) and (ii), and struck out former cls. (i) and (ii) which read as follows:
+Subsec. (b)(4)(A). Pub. L. 101–510, §802(d)(3)(A), substituted "competitive proposals in accordance with paragraph (1)" for "competitive proposals" in introductory provisions, added cls. (i) and (ii), and struck out former cls. (i) and (ii) which read as follows:
 
 "(i) after discussions conducted with the offerors at any time after receipt of the proposals and before the award of the contract; or
 
@@ -424,13 +414,31 @@ Pub. L. 98–525, title XII, §1213(b), Oct. 19, 1984, 98 Stat. 2592, provided t
 
 Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 2302 of this title.
 
+#### Pilot Program To Use Alpha Contracting Teams for Complex Requirements
+
+Pub. L. 116–92, div. A, title VIII, §802, Dec. 20, 2019, 133 Stat. 1483, provided that:
+
+"(a)
+
+In General.—(1) The Secretary of Defense shall select at least 2, and up to 5, initiatives to participate in a pilot \[program\] to use teams that, with the advice of expert third parties, focus on the development of complex contract technical requirements for services, with each team focusing on developing achievable technical requirements that are appropriately valued and identifying the most effective acquisition strategy to achieve those requirements.
+
+"(2) The Secretary shall develop metrics for tracking progress of the program at improving quality and acquisition cycle time.
+
+"(b)
+
+Development of Criteria and Initiatives.—(1) Not later than February 1, 2020, the Secretary of Defense shall establish the pilot program and notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the criteria used to select initiatives and the metrics used to track progress.
+
+"(2) Not later than May 1, 2020, the Secretary shall notify the congressional defense committees of the initiatives selected for the program.
+
+"(3) Not later than December 1, 2020, the Secretary shall brief the congressional defense committees on the progress of the selected initiatives, including the progress of the initiatives at improving quality and acquisition cycle time according to the metrics developed under subsection (a)(2)."
+
 #### Department of Defense Contracting Dispute Matters
 
 Pub. L. 115–232, div. A, title VIII, §822, Aug. 13, 2018, 132 Stat. 1853, provided that:
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], theSecretary of Defense shall carry out a study of the frequency and effects of bid protests involving the same contract award or proposed award that have been filed at both the Government Accountability Office and the United States Court of Federal Claims. The study shall cover Department of Defense contracts and include, at a minimum—
+In General.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall carry out a study of the frequency and effects of bid protests involving the same contract award or proposed award that have been filed at both the Government Accountability Office and the United States Court of Federal Claims. The study shall cover Department of Defense contracts and include, at a minimum—
 
 &emsp;"(1) the number of protests that have been filed with both tribunals and results;
 
@@ -502,7 +510,7 @@ Pub. L. 115–232, div. A, title VIII, §823, Aug. 13, 2018, 132 Stat. 1855, pro
 
 &emsp;&emsp;"(C) the rating clearly identifies the responsibilities of joint venture partners for discrete elements of the work where the partners are not jointly and severally responsible for the project.
 
-&emsp;"(3) Processes to request exceptions from the annual evaluation requirement under section 42.1502(a) of the Federal Acquisition Regulation for construction and architect-engineer contracts where submission of the annual evaluations would not provide the best representation of the performance of a contractor, including subcontractors and joint venture partners, including—
+&emsp;"(3) Processes to request exceptions from the annual evaluation requirement under section 42.1502(a)of the Federal Acquisition Regulation for construction and architect-engineer contracts where submission of the annual evaluations would not provide the best representation of the performance of a contractor, including subcontractors and joint venture partners, including—
 
 &emsp;&emsp;"(A) where no severable element of the work has been completed;
 
@@ -528,7 +536,7 @@ Pub. L. 115–91, div. A, title VIII, §818(a), Dec. 12, 2017, 131 Stat. 1463, p
 
 #### Use Of Lowest Price Technically Acceptable Source Selection Process
 
-Pub. L. 114–328, div. A, title VIII, §813, Dec. 23, 2016, 130 Stat. 2270, as amended by Pub. L. 115–91, div. A, title VIII, §822(a), (b)(1), Dec. 12, 2017, 131 Stat. 1465, provided that:
+Pub. L. 114–328, div. A, title VIII, §813, Dec. 23, 2016, 130 Stat. 2270, as amended by Pub. L. 115–91, div. A, title VIII, §822(a), (b)(1), Dec. 12, 2017, 131 Stat. 1465; Pub. L. 116–92, div. A, title VIII, §806(a)(1), Dec. 20, 2019, 133 Stat. 1485, provided that:
 
 "(a)
 
@@ -562,17 +570,13 @@ Avoidance of Use of Lowest Price Technically Acceptable Source Selection Criteri
 
 &emsp;"(2) personal protective equipment; or
 
-&emsp;"(3) knowledge-based training or logistics services in contingency operations or other operations outside the United States, including in Afghanistan or Iraq.
+&emsp;"(3) knowledge-based training or logistics services in contingency operations or other operations outside the United States, including in Afghanistan or Iraq."
 
-"(d)
-
-Reporting.—Not later than December 1, 2017, and annually thereafter for three years, the Comptroller General of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the number of instances in which lowest price technically acceptable source selection criteria is used for a contract exceeding $5,000,000, including an explanation of how the situations listed in subsection (b) were considered in making a determination to use lowest price technically acceptable source selection criteria."
-
-\[Pub. L. 115–91, div. A, title VIII, §822(b)(2), Dec. 12, 2017, 131 Stat. 1465, provided that: "The amendment made by this subsection \[amending section 813 of Pub. L. 114–328, set out above\] shall apply with respect to the second, third, and fourth reports submitted under subsection (d) of section 813 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat 2271; 10 U.S.C. 2305 note)."\]
+\[Pub. L. 115–91, div. A, title VIII, §822(b)(2), Dec. 12, 2017, 131 Stat. 1465, provided that: "The amendment made by this subsection \[amending section 813 of Pub. L. 114–328, set out above\] shall apply with respect to the second, third, and fourth reports submitted under \[former\] subsection (d) of section 813 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat 2271; 10 U.S.C. 2305 note)."\]
 
 #### Use of Commercial or Non-Government Standards in Lieu of Military Specifications and Standards
 
-Pub. L. 114–328, div. A, title VIII, §875, Dec. 23, 2016, 130 Stat. 2310, provided that:
+Pub. L. 114–328, div. A, title VIII, §875, Dec. 23, 2016, 130 Stat. 2310, as amended by Pub. L. 116–92, div. A, title IX, §902(45), Dec. 20, 2019, 133 Stat. 1548, provided that:
 
 "(a)
 
@@ -588,27 +592,27 @@ In general.—Military specifications shall be used in procurements only to defi
 
 &emsp;"(2)
 
-Waiver.—A waiver for the use of military specifications in accordance with paragraph (1) shall be approved by either the appropriate milestone decision authority, the appropriate service acquisition executive, or the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+Waiver.—A waiver for the use of military specifications in accordance with paragraph (1) shall be approved by either the appropriate milestone decision authority, the appropriate service acquisition executive, or the Under Secretary of Defense for Acquisition and Sustainment.
 
 "(c)
 
-Revision to DFARS.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall revise the Defense Federal Acquisition Regulation Supplement to encourage contractors to propose commercial or non-Government standards and industry-wide practices that meet the intent of the military specifications and standards.
+Revision to DFARS.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Under Secretary of Defense for Acquisition and Sustainment shall revise the Defense Federal Acquisition Regulation Supplement to encourage contractors to propose commercial or non-Government standards and industry-wide practices that meet the intent of the military specifications and standards.
 
 "(d)
 
-Development of Non-government Standards.—The Under Secretary for Acquisition, Technology, and Logistics shall form partnerships with appropriate industry associations to develop commercial or non-Government standards for replacement of military specifications and standards where practicable.
+Development of Non-government Standards.—The Under Secretary of Defense for Research and Engineering shall form partnerships with appropriate industry associations to develop commercial or non-Government standards for replacement of military specifications and standards where practicable.
 
 "(e)
 
-Education, Training, and Guidance.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall ensure that training, education, and guidance programs throughout the Department are revised to incorporate specifications and standards reform.
+Education, Training, and Guidance.—The Under Secretary of Defense for Acquisition and Sustainment shall ensure that training, education, and guidance programs throughout the Department are revised to incorporate specifications and standards reform.
 
 "(f)
 
-Licenses.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall negotiate licenses for standards to be used across the Department of Defense and shall maintain an inventory of such licenses that is accessible to other Department of Defense organizations."
+Licenses.—The Under Secretary of Defense for Acquisition and Sustainment shall negotiate licenses for standards to be used across the Department of Defense and shall maintain an inventory of such licenses that is accessible to other Department of Defense organizations."
 
 #### Requirement and Review Relating to Use of Brand Names or Brand-Name or Equivalent Descriptions in Solicitations
 
-Pub. L. 114–328, div. A, title VIII, §888, Dec. 23, 2016, 130 Stat. 2322, provided that:
+Pub. L. 114–328, div. A, title VIII, §888, Dec. 23, 2016, 130 Stat. 2322, as amended by Pub. L. 116–92, div. A, title IX, §902(46), Dec. 20, 2019, 133 Stat. 1548, provided that:
 
 "(a)
 
@@ -620,7 +624,7 @@ Review of Anti-competitive Specifications in Information Technology Acquisitions
 
 &emsp;"(1)
 
-Review required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall conduct a review of the policy, guidance, regulations, and training related to specifications included in information technology acquisitions to ensure current policies eliminate the unjustified use of potentially anti-competitive specifications. In conducting the review, the Under Secretary shall examine the use of brand names or proprietary specifications or standards in solicitations for procurements of goods and services, as well as the current acquisition training curriculum related to those areas.
+Review required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Under Secretary of Defense for Acquisition and Sustainment shall conduct a review of the policy, guidance, regulations, and training related to specifications included in information technology acquisitions to ensure current policies eliminate the unjustified use of potentially anti-competitive specifications. In conducting the review, the Under Secretary shall examine the use of brand names or proprietary specifications or standards in solicitations for procurements of goods and services, as well as the current acquisition training curriculum related to those areas.
 
 &emsp;"(2)
 

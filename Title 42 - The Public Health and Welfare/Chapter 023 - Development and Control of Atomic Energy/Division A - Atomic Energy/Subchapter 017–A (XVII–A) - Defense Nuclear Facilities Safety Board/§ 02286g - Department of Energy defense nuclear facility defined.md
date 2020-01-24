@@ -4,7 +4,7 @@ As used in this subchapter, the term "Department of Energy defense nuclear facil
 
 &emsp;(1) A production facility or utilization facility (as defined in section 2014 of this title) that is under the control or jurisdiction of the Secretary of Energy and that is operated for national security purposes, but the term does not include—
 
-&emsp;&emsp;(A) any facility or activity covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the Naval nuclear propulsion program;
+&emsp;&emsp;(A) any facility or activity covered by Executive Order No. 12344, dated February 1,1982, pertaining to the Naval nuclear propulsion program;
 
 &emsp;&emsp;(B) any facility or activity involved with the transportation of nuclear explosives or nuclear material;
 
@@ -12,7 +12,7 @@ As used in this subchapter, the term "Department of Energy defense nuclear facil
 
 &emsp;&emsp;(D) any facility owned by the United States Enrichment Corporation.
 
-&emsp;(2) A nuclear waste storage facility under the control or jurisdiction of the Secretary ofEnergy, but the term does not include a facility developed pursuant to the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101 et seq.) and licensed by the Nuclear Regulatory Commission.
+&emsp;(2) A nuclear waste storage facility under the control or jurisdiction of the Secretary of Energy, but the term does not include a facility developed pursuant to the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101 et seq.) and licensed by the Nuclear Regulatory Commission.
 
 (Aug. 1, 1946, ch. 724, title I, §318, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2083; amended Pub. L. 102–190, div. C, title XXXII, §3202(b)(1), Dec. 5, 1991, 105 Stat. 1582; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(7), (8), Oct. 24, 1992, 106 Stat. 2944.)
 

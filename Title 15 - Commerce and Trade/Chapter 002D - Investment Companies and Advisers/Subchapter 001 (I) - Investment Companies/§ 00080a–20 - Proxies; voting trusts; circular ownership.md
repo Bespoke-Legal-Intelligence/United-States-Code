@@ -2,7 +2,7 @@
 
 #### (a) Prohibition on use of means of interstate commerce for solicitation of proxies
 
-It shall be unlawful for any person, by use of the mails or any means or instrumentality of interstate commerce or otherwise, to solicit or to permit the use of his name to solicit any proxy or consent or authorization in respect of any security of which a registered investment company is the issuer in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+It shall be unlawful for any person, by use of the mails or any means or instrumentality ofinterstate commerce or otherwise, to solicit or to permit the use of his name to solicit any proxy or consent or authorization in respect of any security of which a registered investment company is the issuer in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
 #### (b) Prohibition on use of means of interstate commerce for sale of voting-trust certificates
 
@@ -10,7 +10,7 @@ It shall be unlawful for any registered investment company or affiliated person 
 
 #### (c) Prohibition on purchase of securities knowingly resulting in cross-ownership or circular ownership
 
-No registered investment company shall purchase any voting security if, to the knowledge of such registered company, cross-ownership or circular ownership exists, or after such acquisition will exist, between such registered company and the issuer of such security. Cross-ownership shall be deemed to exist between two companieswhen each of such companies beneficially owns more than 3 per centum of the outstanding voting securities of the other company. Circular ownership shall be deemed to exist between two companies if such companies are included within a group of three or more companies, each of which—
+No registered investment company shall purchase any voting security if, to the knowledge of such registered company, cross-ownership or circular ownership exists, or after such acquisition will exist, between such registered company and the issuer of such security. Cross-ownership shall be deemed to exist between two companies when each of such companies beneficially owns more than 3 per centum of the outstanding voting securities of the other company. Circular ownership shall be deemed to exist between two companies if such companies are included within a group of three or more companies, each of which—
 
 &emsp;(1) beneficially owns more than 3 per centum of the outstanding voting securities of one or more other companies of the group; and
 

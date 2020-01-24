@@ -58,7 +58,7 @@
 
 &emsp;(1) to join or maintain membership in any organization or association not constituting a "military labor organization" as defined in subsection (a)(2) of this section;
 
-&emsp;(2) to present complaints or grievances concerning the terms or conditions of the service of such member in the armed forces in accordance with established military procedures;
+&emsp;(2) to present complaints or grievances concerning the terms or conditions of the serviceof such member in the armed forces in accordance with established military procedures;
 
 &emsp;(3) to seek or receive information or counseling from any source;
 

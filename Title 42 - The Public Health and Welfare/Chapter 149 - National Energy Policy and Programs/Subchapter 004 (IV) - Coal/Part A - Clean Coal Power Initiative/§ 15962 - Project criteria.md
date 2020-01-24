@@ -28,7 +28,7 @@ To be eligible to receive assistance under this part, a project shall advance ef
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall periodically set technical milestones specifying the emission and thermal efficiency levels that coal gasification projects under this part shall be designed, and reasonably expected, to achieve.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall periodically set technical milestones specifying theemission and thermal efficiency levels that coal gasification projects under this part shall be designed, and reasonably expected, to achieve.
 
 #### (II) Prescriptive milestones
 
@@ -58,7 +58,7 @@ To be eligible to receive assistance under this part, a project shall advance ef
 
 #### (A) Allocation of funds
 
-&emsp;&emsp;The Secretary shall ensure that up to 30 percent of the funds made available undersection 15961(a) of this title are used to fund projects other than those described in paragraph (1).
+&emsp;&emsp;The Secretary shall ensure that up to 30 percent of the funds made available under section 15961(a) of this title are used to fund projects other than those described in paragraph (1).
 
 #### (B) Technical milestones
 

@@ -20,7 +20,7 @@
 
 &emsp;A single-employer plan may terminate under a standard termination only if—
 
-&emsp;&emsp;(A) the plan administrator provides the 60-day advance notice of intent to terminate to affected parties required under subsection (a)(2),
+&emsp;&emsp;(A) the plan administrator provides the 60-day advance notice of intent to terminate toaffected parties required under subsection (a)(2),
 
 &emsp;&emsp;(B) the requirements of subparagraphs (A) and (B) of paragraph (2) are met,
 
@@ -166,7 +166,7 @@
 
 #### (A) Information submitted to the corporation
 
-&emsp;&emsp;As soon as practicable after the date on which the notice of intent to terminate is provided pursuant to subsection (a)(2), the plan administrator shall provide the corporation, in such form as may be prescribed by the corporation in regulations, the following information:
+&emsp;&emsp;As soon as practicable after the date on which the notice of intent to terminate isprovided pursuant to subsection (a)(2), the plan administrator shall provide the corporation, in such form as may be prescribed by the corporation in regulations, the following information:
 
 &emsp;&emsp;&emsp;(i) such information as the corporation may prescribe by regulation as necessary to make determinations under subparagraph (B) and paragraph (3);
 
@@ -272,7 +272,7 @@
 
 &emsp;&emsp;If the corporation determines that the requirements for a distress termination set forth in paragraphs (1) and (2) are met, the corporation shall—
 
-&emsp;&emsp;&emsp;(i) determine that the plan is sufficient for guaranteed benefits (as of the termination date) or that the corporation is unable to make such determination on thebasis of information made available to the corporation,
+&emsp;&emsp;&emsp;(i) determine that the plan is sufficient for guaranteed benefits (as of the termination date) or that the corporation is unable to make such determination on the basis of information made available to the corporation,
 
 &emsp;&emsp;&emsp;(ii) determine that the plan is sufficient for benefit liabilities (as of the termination date) or that the corporation is unable to make such determination on the basis of information made available to the corporation, and
 
@@ -298,7 +298,7 @@
 
 #### (i) Finding with respect to benefit liabilities which are not guaranteed benefits
 
-&emsp;&emsp;&emsp;If, after the plan administrator has begun to terminate the plan as authorized under subparagraph (B)(i), the plan administrator finds that the plan is unable, or will be unable, to pay benefit liabilities which are not benefits guaranteed by the corporation under section 1322 of this title, the plan administrator shall notify the corporation of such finding as soon as practicable thereafter.
+&emsp;&emsp;&emsp;If, after the plan administrator has begun to terminate the plan as authorized under subparagraph (B)(i), the plan administrator finds that the plan is unable, or will be unable, to pay benefit liabilities which are not benefits guaranteed by the corporation under section 1322 of this title,the plan administrator shall notify the corporation of such finding as soon as practicable thereafter.
 
 #### (ii) Finding with respect to guaranteed benefits
 
@@ -326,7 +326,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) continues to pay all benefit liabilities under the plan, but, commencing on the proposed termination date, limits the payment of benefits under the plan to those benefits which are guaranteed by the corporation under section 1322 of this title or to which assets are required to be allocated under section 1344 of this title.
 
-&emsp;&emsp;&nbsp;In the event the plan administrator is later determined not to have met the requirements for distress termination, any benefits which are not paid solely by reason of compliance with subclause (IV) shall be due and payable immediately (together with interest, at a reasonable rate,in accordance with regulations of the corporation).
+&emsp;&emsp;&nbsp;In the event the plan administrator is later determined not to have met the requirements for distress termination, any benefits which are not paid solely by reason of compliance with subclause (IV) shall be due and payable immediately (together with interest, at a reasonable rate, in accordance with regulations of the corporation).
 
 #### (d) Sufficiency
 
@@ -410,7 +410,7 @@ Subsec. (b)(3)(A)(i). Pub. L. 100–203, §9313(a)(2)(C)(i), added cl. (i) and s
 
 Pub. L. 100–203, §9313(a)(2)(A), substituted "benefit liabilities" for "benefit commitments".
 
-Subsec. (b)(3)(A)(ii). Pub. L. 100–203, §9313(a)(2)(C)(i), added cl. (ii) and struck out former cl. (ii) which readas follows: "in accordance with the provisions of the plan and any applicable regulations of the corporation, otherwise fully provide the benefit liabilities under the plan and all other benefits (if any) under the plan to which assets are required to be allocated under section 1344 of this title."
+Subsec. (b)(3)(A)(ii). Pub. L. 100–203, §9313(a)(2)(C)(i), added cl. (ii) and struck out former cl. (ii) which read as follows: "in accordance with the provisions of the plan and any applicable regulations of the corporation, otherwise fully provide the benefit liabilities under the plan and all other benefits (if any) under the plan to which assets are required to be allocated under section 1344 of this title."
 
 Pub. L. 100–203, §9313(a)(2)(A), substituted "benefit liabilities" for "benefit commitments".
 
@@ -450,7 +450,7 @@ Subsec. (c)(3)(B)(i). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading
 
 Subsec. (c)(3)(B)(ii). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading and text "benefit liabilities" for "benefit commitments".
 
-Pub. L. 100–203, §9312(c)(1), struck out former subcl. (I) designation and substituted comma for dash before "the plan administrator", substituted period for ", and" after "termination of the plan", and struck out former subcl. (II) which read as follows: "the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title."
+Pub. L. 100–203, §9312(c)(1), struck out former subcl. (I) designation and substituted comma for dash before"the plan administrator", substituted period for ", and" after "termination of the plan", and struck out former subcl. (II) which read as follows: "the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title."
 
 Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before "the corporation shall commence", substituted period for ", and" after "section 1342 of this title", and struck out former subcl. (II) which read as follows: "the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title."
 
@@ -570,7 +570,7 @@ Terminations for which sufficiency notices have not been issued.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
 
-In general.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, if, during the 90-day period commencing on the date of the notice required in subclause (II), all benefit commitments under the plan have beensatisfied, the termination shall be treated as a standard termination under section 4041(b) of such Act (as amended by this title).
+In general.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, if, during the 90-day period commencing on the date of the notice required in subclause (II), all benefit commitments under the plan have been satisfied, the termination shall be treated as a standard termination under section 4041(b) of such Act (as amended by this title).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
@@ -656,7 +656,7 @@ Delay on issuance of notice.—
 
 &emsp;"(A)
 
-General rule.—Except as provided in subparagraph (B), the Corporation shall not issue any notice described in paragraph (1)(B) until 90 daysafter the date on which the Corporation makes the determination described in paragraph (1)(A).
+General rule.—Except as provided in subparagraph (B), the Corporation shall not issue any notice described in paragraph (1)(B) until 90 days after the date on which the Corporation makes the determination described in paragraph (1)(A).
 
 &emsp;"(B)
 

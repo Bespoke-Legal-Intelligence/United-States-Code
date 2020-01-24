@@ -90,7 +90,7 @@ The Secretary shall ensure that research projects conducted under this section a
 
 #### (2) Subject to agreement
 
-&emsp;An indemnity payment under paragraph (1) shall be subject to any agreement between aproject grantee and operator entered into prior to the initiation of such project.
+&emsp;An indemnity payment under paragraph (1) shall be subject to any agreement between a project grantee and operator entered into prior to the initiation of such project.
 
 (Pub. L. 101–624, title XVI, §1621, Nov. 28, 1990, 104 Stat. 3734; Pub. L. 104–127, title VIII, §860(c)(2), Apr. 4, 1996, 110 Stat. 1173.)
 

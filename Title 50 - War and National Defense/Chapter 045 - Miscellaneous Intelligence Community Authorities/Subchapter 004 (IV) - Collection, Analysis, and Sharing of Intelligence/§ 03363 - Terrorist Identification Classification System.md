@@ -16,7 +16,7 @@
 
 (2) The Director shall ensure that the information utilized to determine the inclusion, or deletion or omission, of an individual or organization on or from the list is derived from all-source intelligence.
 
-(3) The Director shall ensure that the list is maintained in accordance with existing law and regulations governing the collection, storage, and dissemination of intelligence concerning United States persons.
+(3) The Director shall ensure that the list is maintained in accordance with existing law andregulations governing the collection, storage, and dissemination of intelligence concerning United States persons.
 
 #### (c) Information sharing
 

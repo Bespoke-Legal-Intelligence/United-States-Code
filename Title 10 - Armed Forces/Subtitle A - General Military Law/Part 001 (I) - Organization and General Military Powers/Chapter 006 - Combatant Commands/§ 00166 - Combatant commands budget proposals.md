@@ -30,5 +30,5 @@ SOF Training With Foreign Forces.—A funding proposal for force training under 
 
 #### Effective Date
 
-Pub. L. 99–433, title II, §214(d), Oct. 1, 1986, 100 Stat. 1019, provided that: "Section 166 of title 10, United States Code (as added by section 211 of this Act), shall take effect with budget proposals for fiscal year 1989."
+Pub. L. 99–433, title II, §214(d), Oct. 1, 1986, 100 Stat. 1019, provided that: "Section 166 of title 10, UnitedStates Code (as added by section 211 of this Act), shall take effect with budget proposals for fiscal year 1989."
 

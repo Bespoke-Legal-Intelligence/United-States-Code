@@ -6,7 +6,7 @@
 
 (c) The Office of Personnel Management may prescribe regulations necessary for the administration of subsection (b) of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, §7154; Pub. L. 90–83, §1(44), Sept. 11, 1967, 81 Stat. 208; Pub. L. 92–392, §8, Aug. 19, 1972, 86 Stat. 573; renumbered §7204 and amended Pub. L. 95–454, title VII, §703(a)(1), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1216, 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, §7154; Pub. L. 90–83, §1(44), Sept. 11, 1967, 81 Stat. 208;Pub. L. 92–392, §8, Aug. 19, 1972, 86 Stat. 573; renumbered §7204 and amended Pub. L. 95–454, title VII, §703(a)(1), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1216, 1224.)
 
 Historical and Revision Notes<br>1966
 

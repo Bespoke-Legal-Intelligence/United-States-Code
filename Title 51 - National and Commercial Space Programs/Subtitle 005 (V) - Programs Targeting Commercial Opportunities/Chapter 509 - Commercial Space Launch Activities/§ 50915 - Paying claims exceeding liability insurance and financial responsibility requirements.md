@@ -34,7 +34,7 @@ Notice, Participation, and Approval.—Before a payment under subsection (a) of 
 
 (c)
 
-Withholding Payments.—The Secretary may withhold a payment under subsection (a) of this section if the Secretary certifies that the amount is not reasonable. However, the Secretary shall deem to be reasonable the amount of a claim finally decided by a court of competent jurisdiction.
+Withholding Payments.—The Secretary may withhold a payment under subsection (a) ofthis section if the Secretary certifies that the amount is not reasonable. However, the Secretary shall deem to be reasonable the amount of a claim finally decided by a court of competent jurisdiction.
 
 (d)
 
@@ -96,7 +96,7 @@ Congressional Resolutions.—(1) In this subsection, "resolution"—
 
 Application.—This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than September 30, 2025. This section does not apply to permits.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1338, §70113 of title 49; Pub. L. 104–287, §5(94), Oct. 11,1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(13), Oct. 28, 1998, 112 Stat. 2850; Pub. L. 106–74, title IV, §433, Oct. 20, 1999, 113 Stat. 1097; Pub. L. 106–377, §1(a)(1) \[title IV, §429\], Oct. 27, 2000, 114 Stat. 1441, 1441A–56; Pub. L. 106–405, §§5(b), 6(a), Nov. 1, 2000, 114 Stat. 1752; Pub. L. 108–428, §1, Nov. 30, 2004, 118 Stat. 2432; Pub. L. 108–492, §2(c)(22), (23), Dec. 23, 2004, 118 Stat. 3981; Pub. L. 111–125, §1, Dec. 28, 2009, 123 Stat. 3486; renumbered §70113 then §50915 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(O), (5)(Q), (R), Dec. 18, 2010, 124 Stat. 3440–3442; Pub. L. 112–273, §3, Jan. 14, 2013, 126 Stat. 2454; Pub. L. 113–76, §8, Jan. 17, 2014, 128 Stat. 7; Pub. L. 114–90, title I, §§102(d), 103(a)(2), Nov. 25, 2015, 129 Stat. 706.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1338, §70113 of title 49; Pub. L. 104–287, §5(94), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(13), Oct. 28, 1998, 112 Stat. 2850; Pub. L. 106–74, title IV, §433, Oct. 20, 1999, 113 Stat. 1097; Pub. L. 106–377, §1(a)(1) \[title IV, §429\], Oct. 27, 2000, 114 Stat. 1441, 1441A–56; Pub. L. 106–405, §§5(b), 6(a), Nov. 1, 2000, 114 Stat. 1752; Pub. L. 108–428, §1, Nov. 30, 2004, 118 Stat. 2432; Pub. L. 108–492, §2(c)(22), (23), Dec. 23, 2004, 118 Stat. 3981; Pub. L. 111–125, §1, Dec. 28, 2009, 123 Stat. 3486; renumbered §70113 then §50915 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(O), (5)(Q), (R), Dec. 18, 2010, 124 Stat. 3440–3442; Pub. L. 112–273, §3, Jan. 14, 2013, 126 Stat. 2454; Pub. L. 113–76, §8, Jan. 17, 2014, 128 Stat. 7; Pub. L. 114–90, title I, §§102(d), 103(a)(2), Nov. 25, 2015, 129 Stat. 706.)
 
 Historical and Revision Notes
 

@@ -8,7 +8,7 @@ For the purpose of making price loss coverage payments under section 9016 of thi
 
 #### (1) Determination of average yield
 
-&emsp;In the case of oilseeds designated before December 20, 2018, the Secretary shall determine the average yield per planted acre for the designated oilseed on a farm for the 1998 through 2001 crop years, excluding any crop year in which the acreage planted to the designated oilseed was zero.
+&emsp;In the case of oilseeds designated before December 20, 2018, the Secretary shall determinethe average yield per planted acre for the designated oilseed on a farm for the 1998 through 2001 crop years, excluding any crop year in which the acreage planted to the designated oilseed was zero.
 
 #### (2) Adjustment for payment yield
 
@@ -82,7 +82,7 @@ For the purpose of making price loss coverage payments under section 9016 of thi
 
 #### (1) Payment yield
 
-&emsp;Subject to paragraph (2), the payment yield for seed cotton for a farm shall be equal to 2.4 times the payment yield for upland cotton for the farm established under section 8714(e)(3) of this title (as in effect on September 30, 2013).
+&emsp;Subject to paragraph (2), the payment yield for seed cotton for a farm shall be equal to 2.4times the payment yield for upland cotton for the farm established under section 8714(e)(3) of this title (as in effect on September 30, 2013).
 
 #### (2) Update
 

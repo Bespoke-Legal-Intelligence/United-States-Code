@@ -38,7 +38,7 @@
 
 #### (B) Requirement
 
-&emsp;&emsp;In awarding grants under this section, the Secretary shall give preference to eligible entities that demonstrate that the activities to be carried out under this section shall be in localities within areas of known or suspected high prevalence of childhood asthma or high asthma-related mortality or high rate of hospitalization or emergency room visits for asthma (relative to the average asthma prevalence rates and associated mortality rates in the United States). Acceptable data sets to demonstrate a high prevalence of childhood asthma or high asthma-related mortality may include data from Federal, State, or local vital statistics, claims data under title XIX or XXI of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\], other public health statistics or surveys, or other data that the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention, deems appropriate.
+&emsp;&emsp;In awarding grants under this section, the Secretary shall give preference to eligible entities that demonstrate that the activities to be carried out under this section shall be in localities within areas of known or suspected high prevalence of childhood asthma or high asthma-related mortality or high rate of hospitalization or emergency room visits for asthma (relative to the average asthma prevalence rates and associated mortality rates in the United States). Acceptable data sets to demonstrate a high prevalence of childhood asthma or high asthma-related mortality may include data from Federal, State, or local vital statistics, claims data under title XIX or XXI of theSocial Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\], other public health statistics or surveys, or other data that the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention, deems appropriate.
 
 #### (3) Definition of eligible entity
 
@@ -82,7 +82,7 @@ An eligible entity that receives a grant under this section shall submit to the 
 
 #### (A) In general
 
-&emsp;&emsp;The State must require that each public elementary school and secondary school inthat State will grant to any student in the school an authorization for the self-administration of medication to treat that student's asthma or anaphylaxis, if—
+&emsp;&emsp;The State must require that each public elementary school and secondary school in that State will grant to any student in the school an authorization for the self-administration of medication to treat that student's asthma or anaphylaxis, if—
 
 &emsp;&emsp;&emsp;(i) a health care practitioner prescribed the medication for use by the student during school hours and instructed the student in the correct and responsible use of the medication;
 
@@ -154,7 +154,7 @@ An eligible entity that receives a grant under this section shall submit to the 
 
 &emsp;&emsp;&emsp;(ii) who has received training in the administration of epinephrine; and
 
-&emsp;&emsp;&emsp;(iii) whose training in the administration of epinephrine meets appropriatemedical standards and has been documented by appropriate administrative staff of the school.
+&emsp;&emsp;&emsp;(iii) whose training in the administration of epinephrine meets appropriate medical standards and has been documented by appropriate administrative staff of the school.
 
 #### (e) Authorization of appropriations
 
@@ -200,7 +200,7 @@ Pub. L. 108–377, §2, Oct. 30, 2004, 118 Stat. 2202, provided that: "The Congr
 
 &emsp;"(3) In 2001, 20,300,000 Americans had asthma; 6,300,000 children under age 18 had asthma.
 
-&emsp;"(4) The prevalence of asthma among African-American children was 40 percent greater than among Caucasian children, and more than 26 percent of all asthma deaths are in the African-American population.
+&emsp;"(4) The prevalence of asthma among African-American children was 40 percent greater than amongCaucasian children, and more than 26 percent of all asthma deaths are in the African-American population.
 
 &emsp;"(5) In 2000, there were 1,800,000 asthma-related visits to emergency departments (more than 728,000 of these involved children under 18 years of age).
 

@@ -170,7 +170,7 @@ Subsec. (a)(1)(B)(i)(III). Pub. L. 113–79, §4026(1)(A)(i)(II), inserted "food
 
 Subsec. (a)(1)(B)(ii)(I). Pub. L. 113–79, §4026(1)(A)(ii), added subcl. (I) and struck out former subcl. (I) which read as follows: "infrastructure improvement and development;".
 
-Subsec. (a)(2), (3). Pub. L. 113–79, §4026(1)(B), added pars. (2) and (3) and struck out former pars. (2) and (3)which defined "Center" and "underserved community", respectively.
+Subsec. (a)(2), (3). Pub. L. 113–79, §4026(1)(B), added pars. (2) and (3) and struck out former pars. (2) and (3) which defined "Center" and "underserved community", respectively.
 
 Subsec. (b)(2)(B). Pub. L. 113–79, §4026(2)(B), substituted "each of fiscal years 2008 through 2014; and" for "fiscal year 2008 and each fiscal year thereafter."
 

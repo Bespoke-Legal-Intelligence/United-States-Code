@@ -170,7 +170,7 @@ Definition.—In this section, the term 'veteran' has the meaning given such ter
 
 #### Veterans' Job Training Act
 
-Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, §704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, §212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, §4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, §201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, §901, July 22, 1987, 101 Stat. 538; Pub. L. 100–227, title II, §201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(25), (f)(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
+Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, §704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, §212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, §4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, §201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, §901, July 22,1987, 101 Stat. 538; Pub. L. 100–227, title II, §201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(25), (f)(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
 
 #### "short title
 
@@ -376,7 +376,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 "(c) The Administrator may investigate any matter the Administrator considers necessary to determine compliance with the requirements established under this Act. The investigations authorized by this subsection may include examining records (including making certified copies of records), questioning employees, and entering into any premises or onto any site where any part of a program of job training is conducted under this Act, or where any of the records of the employer offering or providing such program are kept.
 
-"(d) The Administrator may administer functions under subsections (b) and (c) in accordance with an agreement between the Administrator and the Secretary providing for the administration of such subsections (or any portion of such subsections) by the Department of Labor. Under such an agreement, any entity of the Department of Labor specified in the agreement may administer such subsections, notwithstanding section 4(b).
+"(d) The Administrator may administer functions under subsections (b) and (c) in accordance with anagreement between the Administrator and the Secretary providing for the administration of such subsections (or any portion of such subsections) by the Department of Labor. Under such an agreement, any entity of the Department of Labor specified in the agreement may administer such subsections, notwithstanding section 4(b).
 
 #### "coordination with other programs
 
@@ -446,7 +446,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 "(e) The Administrator and the Secretary shall assist veterans and employers desiring to participate under this Act in making application and completing necessary certifications.
 
-"(f) The Secretary shall, on a not less frequent than quarterly basis, collect and compile from the heads ofState employment services and Directors for Veterans' Employment and Training for each State information available to such heads and Directors, and derived from programs carried out in their respective States, with respect to the numbers of veterans who receive counseling services pursuant to section 14, who are referred to employers participating under this Act, who participate in programs of job training under this Act, and who complete such programs, and the reasons for veterans' noncompletion.
+"(f) The Secretary shall, on a not less frequent than quarterly basis, collect and compile from the heads of State employment services and Directors for Veterans' Employment and Training for each State information available to such heads and Directors, and derived from programs carried out in their respective States, with respect to the numbers of veterans who receive counseling services pursuant to section 14, who are referred to employers participating under this Act, who participate in programs of job training under this Act, and who complete such programs, and the reasons for veterans' noncompletion.
 
 #### "authorization of appropriations
 

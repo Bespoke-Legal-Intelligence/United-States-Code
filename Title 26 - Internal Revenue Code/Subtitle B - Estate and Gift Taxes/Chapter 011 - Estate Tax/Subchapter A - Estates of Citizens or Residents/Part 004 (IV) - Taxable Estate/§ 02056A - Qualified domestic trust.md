@@ -56,7 +56,7 @@ For purposes of this section and section 2056(d), the term "qualified domestic t
 
 #### (C) Special rule where decedent has more than 1 qualified domestic trust
 
-&emsp;&emsp;If there is more than 1 qualified domestic trust with respect to any decedent, theamount of the tax imposed by paragraph (1) with respect to such trusts shall be determined by using the highest rate of tax in effect under section 2001 as of the date of the decedent's death (and the provisions of paragraph (3)(B) shall not apply) unless, pursuant to a designation made by the decedent's executor, there is 1 person—
+&emsp;&emsp;If there is more than 1 qualified domestic trust with respect to any decedent, the amount of the tax imposed by paragraph (1) with respect to such trusts shall be determined by using the highest rate of tax in effect under section 2001 as of the date of the decedent's death (and the provisions of paragraph (3)(B) shall not apply) unless, pursuant to a designation made by the decedent's executor, there is 1 person—
 
 &emsp;&emsp;&emsp;(i) who is an individual citizen of the United States or a domestic corporation and is responsible for filing all returns of tax imposed under paragraph (1) with respect to such trusts and for paying all tax so imposed, and
 
@@ -80,7 +80,7 @@ For purposes of this section and section 2056(d), the term "qualified domestic t
 
 #### (A) Tax on distributions
 
-&emsp;&emsp;The estate tax imposed by paragraph (1)(A) shall be due and payable on the 15th day of the 4th month following the calendar year in which the taxable event occurs; except that the estate tax imposed by paragraph (1)(A) on distributions during the calendar year in which the surviving spouse dies shall be due and payable not later than the date on which the estate tax imposed by paragraph (1)(B) is due and payable.
+&emsp;&emsp;The estate tax imposed by paragraph (1)(A) shall be due and payable on the 15th day ofthe 4th month following the calendar year in which the taxable event occurs; except that the estate tax imposed by paragraph (1)(A) on distributions during the calendar year in which the surviving spouse dies shall be due and payable not later than the date on which the estate tax imposed by paragraph (1)(B) is due and payable.
 
 #### (B) Tax at death of spouse
 
@@ -150,7 +150,7 @@ For purposes of this section and section 2056(d), the term "qualified domestic t
 
 #### (15) No tax on certain distributions
 
-&emsp;No tax shall be imposed by paragraph (1) on any distribution to the surviving spouse to the extent such distribution is to reimburse such surviving spouse for any tax imposed by subtitle A on any item of income of the trust to which such surviving spouse is not entitled under the terms of the trust.
+&emsp;No tax shall be imposed by paragraph (1) on any distribution to the surviving spouse to the extent such distribution is to reimburse such surviving spouse for any tax imposed by subtitle A on any item of income of the trust towhich such surviving spouse is not entitled under the terms of the trust.
 
 #### (c) Definitions
 
@@ -212,7 +212,7 @@ Subsec. (b)(4). Pub. L. 101–239, §7815(d)(7)(D), amended par. (4) generally. 
 
 Pub. L. 101–239, §7815(d)(7)(B), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (b)(5). Pub. L. 101–239, §7815(d)(15), amended par. (5) generally. Prior to amendment, par. (5) read asfollows: "The estate tax imposed by paragraph (1) shall be due and payable on the 15th day of the 4th month following the calendar year in which the taxable event occurs."
+Subsec. (b)(5). Pub. L. 101–239, §7815(d)(15), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The estate tax imposed by paragraph (1) shall be due and payable on the 15th day of the 4th month following the calendar year in which the taxable event occurs."
 
 Pub. L. 101–239, §7815(d)(7)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
@@ -238,7 +238,7 @@ Pub. L. 105–34, title XIII, §1314(b), Aug. 5, 1997, 111 Stat. 1045, provided 
 
 Amendment by section 11702(g)(2), (4) of Pub. L. 101–508 effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
 
-Pub. L. 101–508, title XI, §11702(g)(3)(B), Nov. 5, 1990, 104 Stat. 1388–516, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall not apply to any election made before the date 6 months after the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–508, title XI, §11702(g)(3)(B), Nov. 5, 1990, 104 Stat. 1388–516, provided that: "The amendment made by subparagraph (A) \[amending this section\] shallnot apply to any election made before the date 6 months after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Effective Date of 1989 Amendment
 

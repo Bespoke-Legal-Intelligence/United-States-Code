@@ -12,7 +12,7 @@ Compensation of Faculty Members.—The compensation of persons employed under th
 
 Application to Certain Faculty Members.—This section shall not apply with respect to professors, instructors, and lecturers employed at a school of the Naval War College or of the Marine Corps University if the duration of the principal course of instruction offered at the school or college involved is less than 10 months.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 464, §7478; Pub. L. 101–189, div. A, title XI, §1124(c)(1), Nov. 29, 1989, 103 Stat. 1559; Pub. L. 105–85, div. A, titleXI, §1109(a), (b)(1), Nov. 18, 1997, 111 Stat. 1927; renumbered §8748, Pub. L. 115–232, div. A, title VIII, §807(d)(6), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 464, §7478; Pub. L. 101–189, div. A, title XI, §1124(c)(1), Nov. 29, 1989, 103 Stat. 1559; Pub. L. 105–85, div. A, title XI, §1109(a), (b)(1), Nov. 18, 1997, 111 Stat. 1927; renumbered §8748, Pub. L. 115–232, div. A, title VIII, §807(d)(6), Aug. 13, 2018, 132 Stat. 1836.)
 
 Historical and Revision Notes
 
@@ -34,7 +34,7 @@ Aug. 2, 1946, ch. 756, §7(a) (less applicability to Naval Academy), 60 Stat. 85
 
 Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 
-In subsection (a) the words "for the proper instruction of naval personnel" and in subsection (b) the words "out of naval appropriations" are omitted as surplusage.
+In subsection (a) the words "for the proper instruction of naval personnel" and in subsection (b) the words"out of naval appropriations" are omitted as surplusage.
 
 In subsection (c) the words "except the authority to prescribe regulations" are omitted, since 34 U.S.C. 1071 contains no authority for the Secretary to prescribe regulations.
 

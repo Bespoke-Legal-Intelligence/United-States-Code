@@ -20,7 +20,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 &emsp;(ii) in the case of an amendment submitted by the board of directors of the corporation pursuant to a shareholder petition, not more than once every two years.
 
-(2) An amendment authorized by paragraph (1) shall specify the time of termination, either by establishing a date certain or by describing the specific event upon which alienability restrictions shall terminate.
+(2) An amendment authorized by paragraph (1) shall specify the time of termination, either by establishing a date certain or by describing thespecific event upon which alienability restrictions shall terminate.
 
 (3) Dissenters rights may be granted by the corporation in connection with the rejection of an amendment to terminate alienability restrictions in accordance with section 1629d of this title. Once dissenters rights have been so granted, they shall not be granted again in connection with subsequent amendments to terminate alienability restrictions.
 
@@ -100,7 +100,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (ii) Alienable common stock issued in exchange for a class of Settlement Common Stock carrying greater per share voting power than Settlement Common Stock issued pursuant to subsections (g)(1)(A) and (g)(1)(B) shall carry such voting power and be subject to such other terms as may be provided in the amendment to the articles of incorporation authorizing the issuance of such class of Settlement Common Stock.
 
-(iii) In the resolution authorized by paragraph (5)(B), the board of directors shall provide thateach share of Settlement Common Stock carrying the right to share in distributions made to shareholders pursuant to subsections (j) and (m) of section 1606 of this title shall be exchanged either for—
+(iii) In the resolution authorized by paragraph (5)(B), the board of directors shall provide that each share of Settlement Common Stock carrying the right to share in distributions made to shareholders pursuant to subsections (j) and (m) of section 1606 of this title shall be exchanged either for—
 
 &emsp;(I) a share of alienable common stock carrying such right, or
 

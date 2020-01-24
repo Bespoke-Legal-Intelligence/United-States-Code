@@ -26,11 +26,7 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 &emsp;&emsp;(iii) the satellite carrier complies with any network nonduplication, syndicated exclusivity, and sports blackout rules adopted by the Commission under section 339(b) of this title;
 
-&emsp;(C) until December 31, 2019, to retransmission of the signals of network stations directly to a home satellite antenna, if the subscriber receiving the signal—
-
-&emsp;&emsp;(i) is located in an area outside the local market of such stations; and
-
-&emsp;&emsp;(ii) resides in an unserved household;
+&emsp;(C) to retransmission of the signals of network stations directly to a home satellite antenna under the statutory license of section 119 of title 17;
 
 &emsp;(D) to retransmission by a cable operator or other multichannel video provider, other than a satellite carrier, of the signal of a television broadcast station outside the station's local market if such signal was obtained from a satellite carrier and—
 
@@ -40,9 +36,9 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 &emsp;(E) during the 6-month period beginning on November 29, 1999, to the retransmission of the signal of a television broadcast station within the station's local market by a satellite carrier directly to its subscribers under the statutory license of section 122 of title 17.
 
-> For purposes of this paragraph, the terms "satellite carrier" and "superstation" have the meanings given those terms, respectively, in section 119(d) of title 17, as in effect on October 5, 1992, the term "unserved household" has the meaning given that term under section 119(d) of such title, and the term "local market" has the meaning given that term in section 122(j) of such title.
+> For purposes of this paragraph, the terms "satellite carrier" and "superstation" have the meanings given those terms, respectively, in section 119(d) of title 17, as in effect on October 5, 1992.
 
-(3)(A) Within 45 days after October 5, 1992, the Commission shall commence a rulemaking proceeding to establish regulations to govern the exercise by television broadcast stations of the right to grant retransmission consent under this subsection and of the right to signal carriage under section 534 of this title, and such other regulations as are necessary to administer the limitations contained in paragraph (2). The Commission shall consider in such proceeding the impact that the grant of retransmission consent by television stations may have on the rates for the basic service tier and shall ensure that the regulations prescribed under this subsection do not conflict with the Commission's obligation under section 543(b)(1) of this title to ensure that the rates for the basic service tier are reasonable. Such rulemaking proceeding shall be completed within 180 days after October 5, 1992.
+(3)(A) Within 45 days after October 5, 1992, the Commission shall commence a rulemaking proceeding to establish regulations to govern the exercise by television broadcast stations of the right to grant retransmission consent under thissubsection and of the right to signal carriage under section 534 of this title, and such other regulations as are necessary to administer the limitations contained in paragraph (2). The Commission shall consider in such proceeding the impact that the grant of retransmission consent by television stations may have on the rates for the basic service tier and shall ensure that the regulations prescribed under this subsection do not conflict with the Commission's obligation under section 543(b)(1) of this title to ensure that the rates for the basic service tier are reasonable. Such rulemaking proceeding shall be completed within 180 days after October 5, 1992.
 
 (B) The regulations required by subparagraph (A) shall require that television stations, within one year after October 5, 1992, and every three years thereafter, make an election between the right to grant retransmission consent under this subsection and the right to signal carriage under section 534 of this title. If there is more than one cable system which services the same geographic area, a station's election shall apply to all such cable systems.
 
@@ -50,13 +46,21 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 &emsp;(i) establish election time periods that correspond with those regulations adopted under subparagraph (B) of this paragraph;
 
-&emsp;(ii) until January 1, 2020, prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations;
+&emsp;(ii) prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations;
 
-&emsp;(iii) until January 1, 2020, prohibit a multichannel video programming distributor from failing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations;
+&emsp;(iii) prohibit a multichannel video programming distributor from failing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations;
 
-&emsp;(iv) prohibit a television broadcast station from coordinating negotiations or negotiating on a joint basis with another television broadcast station in the same local market (as defined in section 122(j) of title 17) to grant retransmission consent under this section to a multichannel video programming distributor, unless such stations are directly or indirectly under common de jure control permitted under the regulations of the Commission; and
+&emsp;(iv) prohibit a television broadcast station from coordinating negotiations or negotiating on a joint basis with another television broadcast station in the same local market to grant retransmission consent under this section to a multichannel video programming distributor, unless such stations are directly or indirectly under common de jure control permitted under the regulations of the Commission;
 
-&emsp;(v) prohibit a television broadcast station from limiting the ability of a multichannel video programming distributor to carry into the local market (as defined in section 122(j) of title 17) of such station a television signal that has been deemed significantly viewed, within the meaning of section 76.54 of title 47, Code of Federal Regulations, or any successor regulation, or any other television broadcast signal such distributor is authorized to carry under section 338, 339, 340, or 534 of this title, unless such stations are directly or indirectly under common de jure control permitted by the Commission.
+&emsp;(v) prohibit a television broadcast station from limiting the ability of a multichannel video programming distributor to carry into the local market of such station a television signal that has been deemed significantly viewed, within the meaning of section 76.54 of title 47, Code of Federal Regulations, or any successor regulation, or any other television broadcast signal such distributor is authorized to carry under section 338, 339, 340, or 534 of this title, unless such stations are directly or indirectly under common de jure control permitted by the Commission; and
+
+&emsp;(vi) <sup>1</sup> not later than 90 days after December 20, 2019, specify that—
+
+&emsp;&emsp;(I) a multichannel video programming distributor may satisfy its obligation to negotiate in good faith under clause (iii) with respect to a negotiation for retransmission consent under this section with a large station group by designating a qualified MVPD buying group to negotiate on its behalf, so long as the qualified MVPD buying group itself negotiates in good faith in accordance with such clause;
+
+&emsp;&emsp;(II) it is a violation of the obligation to negotiate in good faith under clause (iii) for the qualified MVPD buying group to disclose the prices, terms, or conditions of an ongoing negotiation or the final terms of a negotiation to a member of the qualified MVPD buying group that is not intending, or is unlikely, to enter into the final terms negotiated by the qualified MVPD buying group; and
+
+&emsp;&emsp;(III) a large station group has an obligation to negotiate in good faith under clause (ii) with respect to a negotiation for retransmission consent under this section with a qualified MVPD buying group.
 
 (4) If an originating television station elects under paragraph (3)(B) to exercise its right to grant retransmission consent under this subsection with respect to a cable system, the provisions of section 534 of this title shall not apply to the carriage of the signal of such station by such cable system. If an originating television station elects under paragraph (3)(C) to exercise its right to grant retransmission consent under this subsection with respect to a satellite carrier, section 338 of this title shall not apply to the carriage of the signal of such station by such satellite carrier.
 
@@ -66,9 +70,35 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 (7) For purposes of this subsection, the term—
 
-&emsp;(A) "network station" has the meaning given such term under section 119(d) of title 17; and
+&emsp;(A) "network station" has the meaning given such term under section 119(d) of title 17;
 
-&emsp;(B) "television broadcast station" means an over-the-air commercial or noncommercial television broadcast station licensed by the Commission under subpart E of part 73 of title 47, Code of Federal Regulations, except that such term does not include a low-power or translator television station.
+&emsp;(B) "television broadcast station" means an over-the-air commercial or noncommercialtelevision broadcast station licensed by the Commission under subpart E of part 73 of title 47, Code of Federal Regulations, except that such term does not include a low-power or translator television station;
+
+&emsp;(C) <sup>1</sup> "qualified MVPD buying group" means an entity that, with respect to a negotiation with a large station group for retransmission consent under this section—
+
+&emsp;&emsp;(i) negotiates on behalf of two or more multichannel video programming distributors—
+
+&emsp;&emsp;&emsp;(I) none of which is a multichannel video programming distributor that serves more than 500,000 subscribers nationally; and
+
+&emsp;&emsp;&emsp;(II) that do not collectively serve more than 25 percent of all households served by a multichannel video programming distributor in any single local market in which the applicable large station group operates; and
+
+&emsp;&emsp;(ii) negotiates agreements for such retransmission consent—
+
+&emsp;&emsp;&emsp;(I) that contain standardized contract provisions, including billing structures and technical quality standards, for each multichannel video programming distributor on behalf of which the entity negotiates; and
+
+&emsp;&emsp;&emsp;(II) under which the entity assumes liability to remit to the applicable large station group all fees received from the multichannel video programming distributors on behalf of which the entity negotiates;
+
+&emsp;(D) <sup>1</sup> "large station group" means a group of television broadcast stations that—
+
+&emsp;&emsp;(i) are directly or indirectly under common de jure control permitted by the regulations of the Commission;
+
+&emsp;&emsp;(ii) generally negotiate agreements for retransmission consent under this section as a single entity; and
+
+&emsp;&emsp;(iii) include only television broadcast stations that have a national audience reach of more than 20 percent;
+
+&emsp;(E) <sup>1</sup> "local market" has the meaning given such term in section 122(j) of title 17; and
+
+&emsp;(F) <sup>1</sup> "multichannel video programming distributor" has the meaning given such term in section 522 of this title.
 
 #### (c) Broadcast to foreign countries for rebroadcast to United States; permit
 
@@ -148,7 +178,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (8) Relief
 
-&emsp;If the Commission determines that a satellite carrier has retransmitted the televisionbroadcast station to at least one person in the local market of such station and has failed to meet its burden of proving one of the defenses under paragraph (4) with respect to such retransmission, the Commission shall be required to—
+&emsp;If the Commission determines that a satellite carrier has retransmitted the television broadcast station to at least one person in the local market of such station and has failed to meet its burden of proving one of the defenses under paragraph (4) with respect to such retransmission, the Commission shall be required to—
 
 &emsp;&emsp;(A) make a finding that the satellite carrier violated subsection (b)(1) with respect to that station; and
 
@@ -166,7 +196,7 @@ Such application shall contain such information as the Commission may by regulat
 
 &emsp;&emsp;On entry by the Commission of a final order granting relief under this subsection—
 
-&emsp;&emsp;&emsp;(i) a television broadcast station may apply within 30 days after such entry to the United States District Court for the Eastern District of Virginia for a final judgment enforcing all relief granted by the Commission; and
+&emsp;&emsp;&emsp;(i) a television broadcast station may apply within 30 days after such entry tothe United States District Court for the Eastern District of Virginia for a final judgment enforcing all relief granted by the Commission; and
 
 &emsp;&emsp;&emsp;(ii) the satellite carrier may apply within 30 days after such entry to the United States District Court for the Eastern District of Virginia for a judgment reversing the Commission's order.
 
@@ -192,9 +222,31 @@ Such application shall contain such information as the Commission may by regulat
 
 &emsp;No complaint or civil action may be filed under this subsection after December 31, 2001. This subsection shall continue to apply to any complaint or civil action filed on or before such date.
 
-(June 19, 1934, ch. 652, title III, §325, 48 Stat. 1091; Pub. L. 102–385, §6, Oct. 5, 1992, 106 Stat. 1482; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1009\], Nov. 29, 1999, 113 Stat. 1536, 1501A–537; Pub. L. 108–447, div. J, title IX \[title II, §§201, 207(a)\], Dec. 8, 2004, 118 Stat. 3409, 3428; Pub. L. 111–118, div. B, §1003(b), Dec. 19, 2009, 123 Stat. 3469; Pub. L. 111–144, §10(b), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, §2(b), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, §9(b), Apr. 15, 2010, 124 Stat. 1119; Pub. L. 111–175, title II, §202, May 27, 2010, 124 Stat. 1245; Pub. L. 113–200, title I, §§101, 103(a), (b), (d), Dec. 4, 2014, 128 Stat. 2060, 2062.)
+(June 19, 1934, ch. 652, title III, §325, 48 Stat. 1091; Pub. L. 102–385, §6, Oct. 5, 1992, 106 Stat. 1482; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1009\], Nov. 29, 1999, 113 Stat. 1536, 1501A–537; Pub. L. 108–447, div. J, title IX \[title II, §§201, 207(a)\], Dec. 8, 2004, 118 Stat. 3409, 3428; Pub. L. 111–118, div. B, §1003(b), Dec. 19, 2009, 123 Stat. 3469; Pub. L. 111–144, §10(b), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, §2(b), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, §9(b), Apr. 15, 2010, 124 Stat. 1119; Pub. L. 111–175, title II, §202, May 27, 2010, 124 Stat. 1245; Pub. L. 113–200, title I, §§101, 103(a), (b), (d), Dec. 4, 2014, 128 Stat. 2060, 2062; Pub. L. 116–94, div. P, title X, §§1002–1003(c), Dec. 20, 2019, 133 Stat. 3198, 3199.)
+
+#### Delayed Effective Date of Amendment
+
+<i>For delayed effective date of amendment by section 1003(a)–(c) of Pub. L. 116–94, see Effective Date of 2019 Amendment note below.</i>
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(2). Pub. L. 116–94, §1003(c)(1), struck out ", and the term 'local market' has the meaning given that term in section 122(j) of such title" before period at end of concluding provisions.
+
+Pub. L. 116–94, §1002(b), struck out "the term 'unserved household' has the meaning given that term under section 119(d) of such title" after "October 5, 1992" in concluding provisions.
+
+Subsec. (b)(2)(C). Pub. L. 116–94, §1002(a)(1), struck out "until December 31, 2019," before "to retransmission"and substituted "antenna under the statutory license of section 119 of title 17;" for "antenna, if the subscriber receiving the signal—
+
+&emsp;"(i) is located in an area outside the local market of such stations; and
+
+&emsp;"(ii) resides in an unserved household;".
+
+Subsec. (b)(3)(C)(ii), (iii). Pub. L. 116–94, §1002(a)(2), struck out "until January 1, 2020," before "prohibit".
+
+Subsec. (b)(3)(C)(iv), (v). Pub. L. 116–94, §1003(c)(2), struck out "(as defined in section 122(j) of title 17)" after "local market".
+
+Subsec. (b)(3)(C)(vi). Pub. L. 116–94, §1003(a), added cl. (vi).
+
+Subsec. (b)(7)(C) to (F). Pub. L. 116–94, §1003(b), added subpars. (C) to (F).
 
 <b>2014</b>—Subsec. (b)(2)(C). Pub. L. 113–200, §101(1), substituted "December 31, 2019" for "December 31, 2014" in introductory provisions.
 
@@ -268,6 +320,10 @@ Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title I, §1009(b)\], added subse
 
 <b>1992</b>—Subsecs. (b) to (d). Pub. L. 102–385 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–94, div. P, title X, §1003(d), Dec. 20, 2019, 133 Stat. 3200, provided that: "The amendments made by this section \[amending this section\], and the regulations promulgated by the Federal Communications Commission under such amendments, shall not take effect before January 1 of the calendar year after the calendar year in which this Act \[probably means "this title", which is title X of div. P of Pub. L. 116–94, approved Dec. 20, 2019\] is enacted."
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as a note under section 111 of Title 17, Copyrights.
@@ -278,7 +334,7 @@ Pub. L. 102–385, §28, Oct. 5, 1992, 106 Stat. 1503, provided that: "Except wh
 
 #### Regulations
 
-Pub. L. 113–200, title I, §103(e), Dec. 4, 2014, 128 Stat. 2062, provided that: "Not later than 9 months after the date of the enactment of this Act \[Dec. 4, 2014\], the\[Federal Communications\] Commission shall promulgate regulations to implement the amendments made by this section \[amending this section\]."
+Pub. L. 113–200, title I, §103(e), Dec. 4, 2014, 128 Stat. 2062, provided that: "Not later than 9 months after the date of the enactment of this Act \[Dec. 4, 2014\], the \[Federal Communications\] Commission shall promulgate regulations to implement the amendments made by this section \[amending this section\]."
 
 Pub. L. 108–447, div. J, title IX \[title II, §207(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: "The Federal Communications Commission shall prescribe regulations to implement the amendment made by subsection (a)(5) \[amending this section\] within 180 days after the date of enactment of this Act \[Dec. 8, 2004\]."
 
@@ -305,4 +361,6 @@ Pub. L. 108–447, div. J, title IX \[title II, §212\], Dec. 8, 2004, 118 Stat.
 &emsp;"(1) to impair the authority of the Federal Communications Commission to take any action with respect to the transition by television broadcasters to the digital television service; or
 
 &emsp;"(2) to require the Commission to take any such action."
+
+<i><sup>1</sup></i><i> See Delayed Effective Date of Amendment note below.</i>
 

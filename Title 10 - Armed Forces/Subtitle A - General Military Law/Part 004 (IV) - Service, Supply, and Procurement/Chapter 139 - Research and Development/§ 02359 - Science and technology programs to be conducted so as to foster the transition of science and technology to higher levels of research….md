@@ -8,7 +8,7 @@ Policy.—Each official specified in subsection (b) shall ensure that the manage
 
 Covered Officials.—Subsection (a) applies to the following officials of the Department of Defense:
 
-&emsp;(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+&emsp;(1) The Under Secretary of Defense for Research and Engineering.
 
 &emsp;(2) The Secretary of each military department.
 
@@ -16,15 +16,19 @@ Covered Officials.—Subsection (a) applies to the following officials of the De
 
 &emsp;(4) The directors and heads of other offices and agencies of the Department of Defense with assigned research, development, test, and evaluation responsibilities.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §904(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–225.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §904(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–225; amended Pub. L. 116–92, div. A, title IX, §902(55), Dec. 20, 2019, 133 Stat. 1549.)
 
 #### Prior Provisions
 
 A prior section 2359, added Pub. L. 96–107, title VIII, §819(a)(1), Nov. 9, 1979, 93 Stat. 818, related to reports on salaries of officers of Federal contract research centers, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1322(a)(5), Nov. 5, 1990, 104 Stat. 1671.
 
+#### Amendments
+
+<b>2019</b>—Subsec. (b)(1). Pub. L. 116–92 substituted "Under Secretary of Defense for Research and Engineering" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
 #### Support for National Security Innovation and Entrepreneurial Education
 
-Pub. L. 115–91, div. A, title II, §225, Dec. 12, 2017, 131 Stat. 1334, as amended by Pub. L. 115–232, div. A, title II, §233, Aug. 13, 2018, 132 Stat. 1692, provided that:
+Pub. L. 115–91, div. A, title II, §225, Dec. 12, 2017, 131 Stat. 1334, as amended by Pub. L. 115–232, div. A, title II, §233, Aug. 13, 2018, 132 Stat. 1692; Pub. L. 116–92, div. A, title II, §219, Dec. 20, 2019, 133 Stat. 1260, provided that:
 
 "(a)
 
@@ -50,7 +54,7 @@ Elements.—Support under paragraph (1) may include the following:
 
 &emsp;&emsp;"(F) Exchanges and partnerships with Department of Defense science and technology activities.
 
-&emsp;&emsp;"(G) Activities consistent with the Proof of Concept Commercialization Pilot Program established under section 1603 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 2359 note).
+&emsp;&emsp;"(G) Activities consistent with the Proof of Concept Commercialization Pilot Program establishedunder section 1603 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 2359 note).
 
 "(b)
 
@@ -104,15 +108,17 @@ Coordination.—In carrying out this section, the Secretary shall consider coord
 
 &emsp;"(16) The National Security Technology Accelerator.
 
-&emsp;"(17) The I-Corps Program."
+&emsp;"(17) The I-Corps Program.
 
-#### Proof of Concept Commercialization Pilot Program
+&emsp;"(18) The Lab-Embedded Entrepreneurship Programs of the Department of Energy."
 
-Pub. L. 113–66, div. A, title XVI, §1603, Dec. 26, 2013, 127 Stat. 944, as amended by Pub. L. 113–291, div. A, title VIII, §818, Dec. 19, 2014, 128 Stat. 3432, provided that:
+#### Proof of Concept Commercialization of Dual-Use Technology Pilot Program
+
+Pub. L. 113–66, div. A, title XVI, §1603, Dec. 26, 2013, 127 Stat. 944, as amended by Pub. L. 113–291, div. A, title VIII, §818, Dec. 19, 2014, 128 Stat. 3432; Pub. L. 116–92, div. A, title II, §217, Dec. 20, 2019, 133 Stat. 1258, provided that:
 
 "(a)
 
-Pilot Program.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering and the Secretary of each military department, may establish and implement a pilot program, to be known as the 'Proof of Concept Commercialization Pilot Program', in accordance with this section.
+Pilot Program.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering and the Secretary of each military department, may establish and implement a pilot program, to be known as the 'Proof of Concept Commercialization of Dual-Use Technology Pilot Program', with a focus on priority defense technology areas that attract public and private sector funding, as well as private sector investment capital, including from venture capital firms in the United States, in accordance with this section.
 
 "(b)
 
@@ -158,7 +164,7 @@ Criteria.—An award may be made under the pilot program to a qualifying institu
 
 &emsp;&emsp;&emsp;"(iii) has an intellectual property rights strategy or office; and
 
-&emsp;&emsp;&emsp;"(iv) demonstrates a plan for sustainability beyond the duration of the funding from the award.
+&emsp;&emsp;&emsp;"(iv) demonstrates a plan for sustainability beyond the duration of the funding from the award, which may include access to venture capital.
 
 &emsp;&emsp;"(B) Such other criteria as the Secretary determines necessary.
 
@@ -180,29 +186,31 @@ Limitations.—
 
 "(d)
 
-Report.—Not later than one year after the establishment of the pilot program, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report evaluating the effectiveness of the activities of the pilot program. The report shall include—
-
-&emsp;"(1) a detailed description of the pilot program;
-
-&emsp;"(2) an accounting of the funds used in the pilot program;
-
-&emsp;"(3) a detailed description of the institutional selection process;
-
-&emsp;"(4) a detailed compilation of results achieved by the pilot program; and
-
-&emsp;"(5) an analysis of the program's effectiveness, with data supporting the analysis.
+Qualifying Institution Defined.—In this section, the term 'qualifying institution' means a nonprofit institution, as defined in section 4(3) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703(3)), or a Federal laboratory, as defined in section 4(4) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703(4)).
 
 "(e)
 
-Qualifying Institution Defined.—In this section, the term 'qualifying institution' means a nonprofit institution, as defined in section 4(3) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703(3)), or a Federal laboratory, as defined in section 4(4) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703(4)).
+Authorities.—In carrying out this section, the Secretary may use the following authorities:
+
+&emsp;"(1) Section 1599g of title 10 of the United States Code, relating to public-private talent exchanges.
+
+&emsp;"(2) Section 2368 of such title, relating to Centers for Science, Technology, and Engineering Partnerships.
+
+&emsp;"(3) Section 2374a of such title, relating to prizes for advanced technology achievements.
+
+&emsp;"(4) Section 2474 of such title, relating to Centers of Industrial and Technical Excellence.
+
+&emsp;"(5) Section 2521 of such title, relating to the Manufacturing Technology Program.
+
+&emsp;"(6) Section 225 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2359 note).
+
+&emsp;"(7) Section 1711 of such Act (Public Law 115–91; 10 U.S.C. 2505 note), relating to a pilot program on strengthening manufacturing in the defense industrial base.
+
+&emsp;"(8) Section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a) and section 6305 of title 31, United States Code, relating to cooperative research and development agreements.
 
 "(f)
 
-Limitation and Use of Funds.—Not more than $5,000,000 may be obligated or expended to conduct the pilot program under this section. The Secretary of a military department may use basic research funds, or other funds considered appropriate by the Secretary, to conduct the pilot program within the military department concerned.
-
-"(g)
-
-Termination.—The pilot program conducted under this section shall terminate on September 30, 2019."
+Termination.—The pilot program conducted under this section shall terminate on September 30, 2024."
 
 #### Defense Research and Development Rapid Innovation Program
 

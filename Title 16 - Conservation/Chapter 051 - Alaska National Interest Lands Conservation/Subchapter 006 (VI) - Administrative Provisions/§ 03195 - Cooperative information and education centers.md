@@ -28,7 +28,7 @@ Design.—Design of the center in subsection (a) shall be developed in consultat
 
 "(d)
 
-Consultation.—In establishing, operating, and maintaining the center (and any affiliated branches), the Secretary of Agriculture shall consult with, in addition to those listed in subsection (c), Alaska colleges and universities, the National Historic Association of Alaska, the Alaska Federation of Natives, and appropriate individuals and other organizations concerned with the diverse heritage resources of Alaska.
+Consultation.—In establishing, operating, and maintaining the center (and any affiliated branches), the Secretary of Agriculture shall consult with, in addition to those listed in subsection (c), Alaska collegesand universities, the National Historic Association of Alaska, the Alaska Federation of Natives, and appropriate individuals and other organizations concerned with the diverse heritage resources of Alaska.
 
 "(e)
 

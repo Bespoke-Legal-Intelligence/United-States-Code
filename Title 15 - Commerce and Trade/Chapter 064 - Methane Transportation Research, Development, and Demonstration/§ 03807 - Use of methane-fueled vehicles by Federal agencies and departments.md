@@ -2,7 +2,7 @@
 
 The Secretary shall consult with the Postmaster General of the United States Postal Service, the Administrator of the General Services Administration, the Secretary of Defense, and the heads of other Federal agencies where appropriate to—
 
-&emsp;(a) determine the practicability of using methane vehicles in the performance of certain or all of the functions of their agencies based in counties and standard metropolitan statistical areas in which demonstrationsunder section 3806 of this title are being conducted; and
+&emsp;(a) determine the practicability of using methane vehicles in the performance of certain or all of the functions of their agencies based in counties and standard metropolitan statistical areas in which demonstrations under section 3806 of this title are being conducted; and
 
 &emsp;(b) arrange for appropriate use of methane-fueled vehicles at the earliest practicable date.
 

@@ -24,7 +24,7 @@
 
 <b>1996</b>—Pub. L. 104–106, div. A, title XV, §1503(b)(5), Feb. 10, 1996, 110 Stat. 513, substituted "officers" for "Officers" in item 7577.
 
-<b>1973</b>—Pub. L. 93–166, title V, §509(d), Nov. 29, 1973, 87 Stat. 678, struck out items 7574 "Quarters: limitations on size" and 7575 "Quarters: exemptions from cost limitations".
+<b>1973</b>—Pub. L. 93–166, title V, §509(d), Nov. 29, 1973, 87 Stat. 678, struck out items 7574 "Quarters: limitationson size" and 7575 "Quarters: exemptions from cost limitations".
 
 <b>1958</b>—Pub. L. 85–861, §1(155), Sept. 2, 1958, 72 Stat. 1513, struck out item 7578 "Tableware and kitchen utensils: limitations on furnishing".
 

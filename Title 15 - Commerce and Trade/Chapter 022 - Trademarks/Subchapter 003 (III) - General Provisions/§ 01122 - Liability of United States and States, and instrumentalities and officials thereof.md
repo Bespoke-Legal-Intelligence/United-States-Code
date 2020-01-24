@@ -2,7 +2,7 @@
 
 #### (a) Waiver of sovereign immunity by the United States
 
-The United States, all agencies and instrumentalities thereof, and all individuals, firms, corporations, other persons acting for the United States and with the authorization and consent of the United States, shall not be immune from suit in Federal or State court by any person, including any governmental or nongovernmental entity, for any violation under this chapter.
+The United States, all agencies and instrumentalities thereof, and all individuals, firms,corporations, other persons acting for the United States and with the authorization and consent of the United States, shall not be immune from suit in Federal or State court by any person, including any governmental or nongovernmental entity, for any violation under this chapter.
 
 #### (b) Waiver of sovereign immunity by States
 
@@ -28,7 +28,7 @@ A prior section 1122, act July 5, 1946, ch. 540, title VI, §40, 60 Stat. 440, r
 
 Subsec. (b). Pub. L. 106–43, §4(b)(1), (2), redesignated subsec. (a) as (b) and inserted heading. Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 106–43, §4(b)(1), (3), redesignated subsec. (b) as (c) and in first sentence substituted "subsection (a) or (b) for a violation described therein" for "subsection (a) of this section for a violation described in that subsection" and inserted "the United States orany agency or instrumentality thereof, or any individual, firm, corporation, or other person acting for the United States and with authorization and consent of the United States, or" after "other than".
+Subsec. (c). Pub. L. 106–43, §4(b)(1), (3), redesignated subsec. (b) as (c) and in first sentence substituted "subsection (a) or (b) for a violation described therein" for "subsection (a) of this section for a violation described in that subsection" and inserted "the United States or any agency or instrumentality thereof, or any individual, firm, corporation, or other person acting for the United States and with authorization and consent of the United States, or" after "other than".
 
 #### Effective Date
 

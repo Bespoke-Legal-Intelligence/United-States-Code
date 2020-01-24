@@ -4,7 +4,7 @@
 
 #### (1) Conclusiveness of certified claims
 
-&emsp;In any action brought under this subchapter, the court shall accept as conclusive proof of ownership of an interest in property a certification of a claim to ownership of that interestthat has been made by the Foreign Claims Settlement Commission under title V of the International Claims Settlement Act of 1949 (22 U.S.C. 1643 and following).
+&emsp;In any action brought under this subchapter, the court shall accept as conclusive proof of ownership of an interest in property a certification of a claim to ownership of that interest that has been made by the Foreign Claims Settlement Commission under title V of the International Claims Settlement Act of 1949 (22 U.S.C. 1643 and following).
 
 #### (2) Claims not certified
 
@@ -18,7 +18,7 @@
 
 #### (c) Rule of construction
 
-Nothing in this chapter or in section 514 of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643l\], as added by subsection (b), shall be construed—
+Nothing in this chapter or in section 514 of the International Claims Settlement Act of 1949 \[22U.S.C. 1643l\], as added by subsection (b), shall be construed—
 
 &emsp;(1) to require or otherwise authorize the claims of Cuban nationals who became United States citizens after their property was confiscated to be included in the claims certified to the Secretary of State by the Foreign Claims Settlement Commission for purposes of future negotiation and espousal of claims with a friendly government in Cuba when diplomatic relations are restored; or
 

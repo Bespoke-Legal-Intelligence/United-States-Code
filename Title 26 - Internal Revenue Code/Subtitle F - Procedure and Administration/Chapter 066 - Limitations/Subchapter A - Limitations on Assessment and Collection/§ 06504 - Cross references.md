@@ -128,7 +128,7 @@ Amendment by section 1203(h)(2) of Pub. L. 94–455 applicable to documents prep
 
 Amendment by section 1901(b)(31)(D), (36)(C), (37)(D), (39)(B) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Amendment by section 1906(a)(32) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
+Amendment by section 1906(a)(32) of Pub. L. 94–455 effective on first day of first month which begins morethan 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
 #### Effective Date of 1975 Amendment
 

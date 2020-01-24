@@ -24,7 +24,7 @@ The goals of the National Spatial Data Infrastructure are to—
 
 &emsp;&emsp;(E) the interoperability and sharing capabilities of Federal information systems and data to enable the drawing of resources from covered agencies and partners of covered agencies; and
 
-&emsp;(2) support and advance the establishment of a Global Spatial Data Infrastructure, consistent with national security, national defense, national intelligence, and international trade requirements, including ensuring that coveredagencies develop international geospatial data in accordance with international voluntary consensus standards, as defined in Office of Management and Budget Circular A–119, or any successor thereto.
+&emsp;(2) support and advance the establishment of a Global Spatial Data Infrastructure, consistent with national security, national defense, national intelligence, and international trade requirements, including ensuring that covered agencies develop international geospatial data in accordance with international voluntary consensus standards, as defined in Office of Management and Budget Circular A–119, or any successor thereto.
 
 #### (c) Strategic plan
 

@@ -60,7 +60,7 @@ In carrying out subsection (b), the Secretary shall ensure that—
 
 &emsp;A private entity described in subsection (c)(2) may not—
 
-&emsp;&emsp;(A) disclose any network traffic transiting or traveling to or from an agency information system to any entity other than the Department or the agency that disclosed theinformation under subsection (c)(1), including personal information of a specific individual or information that identifies a specific individual not directly related to a cybersecurity risk; or
+&emsp;&emsp;(A) disclose any network traffic transiting or traveling to or from an agency information system to any entity other than the Department or the agency that disclosed the information under subsection (c)(1), including personal information of a specific individual or information that identifies a specific individual not directly related to a cybersecurity risk; or
 
 &emsp;&emsp;(B) use any network traffic transiting or traveling to or from an agency information system to which the private entity gains access in accordance with this section for any purpose other than to protect agency information and agency information systems against cybersecurity risks or to administer a contract or other agreement entered into pursuant to subsection (c)(2) or as part of another contract with the Secretary.
 
@@ -286,7 +286,7 @@ Pub. L. 114–113, div. N, title II, §223(b), Dec. 18, 2015, 129 Stat. 2966, as
 
 In general.—Except as provided in paragraph (2)—
 
-&emsp;"(A) not later than 1 year after the date of enactment of this Act \[Dec. 18, 2015\] or 2 months after the date on which the Secretary makes available the intrusion detection and prevention capabilities under section 2213(b)(1) of the Homeland Security Act of 2002 \[6 U.S.C. 663(b)(1)\], whichever is later, the head ofeach agency shall apply and continue to utilize the capabilities to all information traveling between an agency information system and any information system other than an agency information system; and
+&emsp;"(A) not later than 1 year after the date of enactment of this Act \[Dec. 18, 2015\] or 2 months after thedate on which the Secretary makes available the intrusion detection and prevention capabilities under section 2213(b)(1) of the Homeland Security Act of 2002 \[6 U.S.C. 663(b)(1)\], whichever is later, the head of each agency shall apply and continue to utilize the capabilities to all information traveling between an agency information system and any information system other than an agency information system; and
 
 &emsp;"(B) not later than 6 months after the date on which the Secretary makes available improvements to the intrusion detection and prevention capabilities pursuant to section 2213(b)(2) of the Homeland Security Act of 2002 \[6 U.S.C. 663(b)(2)\], the head of each agency shall apply and continue to utilize the improved intrusion detection and prevention capabilities.
 

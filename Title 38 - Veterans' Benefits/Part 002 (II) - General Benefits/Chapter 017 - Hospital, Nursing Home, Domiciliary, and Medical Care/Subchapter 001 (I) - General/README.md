@@ -7,7 +7,7 @@
 
 - [&sect; 01701 - Definitions](%C2%A7%2001701%20-%20Definitions.md)
 - [&sect; 01702 - Presumptions psychosis after service in World War II and following periods of war; mental illness after service in the Persian Gulf War](%C2%A7%2001702%20-%20Presumptions%20psychosis%20after%20service%20in%20World%20War%20II%20and%20following%20periods%20of%20war%3B%20mental%20illness%20after%20service%20in%20the%20Persian%20Gulf%20War.md)
-- [&sect; 01703 - Contracts for hospital care and medical services in non-Department facilities](%C2%A7%2001703%20-%20Contracts%20for%20hospital%20care%20and%20medical%20services%20in%20non-Department%20facilities.md)
+- [&sect; 01703 - Veterans Community Care Program](%C2%A7%2001703%20-%20Veterans%20Community%20Care%20Program.md)
 - [&sect; 01703A - Agreements with eligible entities or providers; certification processes](%C2%A7%2001703A%20-%20Agreements%20with%20eligible%20entities%20or%20providers%3B%20certification%20processes.md)
 - [&sect; 01703B - Access standards](%C2%A7%2001703B%20-%20Access%20standards.md)
 - [&sect; 01703C - Standards for quality](%C2%A7%2001703C%20-%20Standards%20for%20quality.md)

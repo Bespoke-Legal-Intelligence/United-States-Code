@@ -424,7 +424,7 @@ Definition of tier i family or group day care home.—In this paragraph, the ter
 
 &emsp;&emsp;&emsp;&emsp;(aa) a family or group day care home that is located in a geographic area, as defined by the Secretary based on census data, in which at least 50 percent of the children residing in the area are members of households whose incomes meet the income eligibility guidelines for free or reduced price meals under section 1758 of this title;
 
-&emsp;&emsp;&emsp;&emsp;(bb) a family or group day care home that is located in an area served by a school enrolling students in which at least 50 percent of the total number of children enrolled are certified eligible to receive free or reduced price school meals under this chapter or the ChildNutrition Act of 1966 (42 U.S.C. 1771 et seq.); or
+&emsp;&emsp;&emsp;&emsp;(bb) a family or group day care home that is located in an area served by a school enrolling students in which at least 50 percent of the total number of children enrolled are certified eligible to receive free or reduced price school meals under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.); or
 
 &emsp;&emsp;&emsp;&emsp;(cc) a family or group day care home that is operated by a provider whose household meets the income eligibility guidelines for free or reduced price meals under section 1758 of this title and whose income is verified by the sponsoring organization of the home under regulations established by the Secretary.
 
@@ -498,7 +498,7 @@ Policy.—The Secretary shall develop a policy under which a sponsored family or
 
 &emsp;&emsp;&emsp;(IV)
 
-Simplified meal counting and reporting procedures.—The Secretary shall prescribe simplified meal counting and reporting procedures for use by a family or group day care home that elects to claim the factors under subclause (II) and by a family or group day care home sponsoring organization that sponsors the home. The procedures the Secretary prescribes may include 1 or more of the following:
+Simplified meal counting and reporting procedures.—The Secretary shallprescribe simplified meal counting and reporting procedures for use by a family or group day care home that elects to claim the factors under subclause (II) and by a family or group day care home sponsoring organization that sponsors the home. The procedures the Secretary prescribes may include 1 or more of the following:
 
 &emsp;&emsp;&emsp;&emsp;(aa) Setting an annual percentage for each home of the number of meals served that are to be reimbursed in accordance with the reimbursement factors prescribed under clause (ii)(III) and an annual percentage of the number of meals served that are to be reimbursed in accordance with the reimbursement factors prescribed under subclause (I), based on the family income of children enrolled in the home in a specified month or other period.
 
@@ -544,7 +544,7 @@ In general.—Subject to clause (ii), a State agency shall limit the ability of 
 
 &emsp;&emsp;(ii)
 
-Good cause.—The State agency may permit or require a family or group day carehome to transfer from a sponsoring organization to another sponsoring organization more frequently than once a year for good cause (as determined by the State agency), including circumstances in which the sponsoring organization of the family or group day care home ceases to participate in the child and adult care food program.
+Good cause.—The State agency may permit or require a family or group day care home to transfer from a sponsoring organization to another sponsoring organization more frequently than once a year for good cause (as determined by the State agency), including circumstances in which the sponsoring organization of the family or group day care home ceases to participate in the child and adult care food program.
 
 &emsp;(E)
 
@@ -560,7 +560,7 @@ School data.—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—A State agency administering the school lunch program under this chapter or the school breakfast program under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall provide to approved family or group day care home sponsoring organizations a list of schools serving elementary school children in the State in which not less than ½ of the children enrolled are certified to receive free or reduced price meals. The State agency shall collect the data necessary to create the list annually and provide the list on a timely basis to any approved family or group day care home sponsoring organization that requests the list.
+In general.—A State agency administering the school lunch program underthis chapter or the school breakfast program under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall provide to approved family or group day care home sponsoring organizations a list of schools serving elementary school children in the State in which not less than ½ of the children enrolled are certified to receive free or reduced price meals. The State agency shall collect the data necessary to create the list annually and provide the list on a timely basis to any approved family or group day care home sponsoring organization that requests the list.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -606,7 +606,7 @@ Duration of determination.—For purposes of this section, a determination that 
 
 #### (i) Special dietary needs
 
-&emsp;&emsp;&emsp;The minimum nutritional requirements prescribed under subparagraph (A) shallnot prohibit institutions, family or group day care homes, and sponsored centers from substituting foods to accommodate the medical or other special dietary needs of individual participants.
+&emsp;&emsp;&emsp;The minimum nutritional requirements prescribed under subparagraph (A) shall not prohibit institutions, family or group day care homes, and sponsored centers from substituting foods to accommodate the medical or other special dietary needs of individual participants.
 
 #### (ii) Exempt institutions
 
@@ -678,7 +678,7 @@ Duration of determination.—For purposes of this section, a determination that 
 
 (D) Any State receiving assistance under this section for institutions participating in the child care food program may, upon application to the Secretary, receive cash in lieu of some or all of the commodities to which it would otherwise be entitled under this subsection. In determining whether to request cash in lieu of commodities, the State shall base its decision on the preferences of individual participating institutions within the State, unless this proves impracticable due to the small number of institutions preferring donated commodities.
 
-(2) The Secretary is authorized to provide agricultural commodities obtained by the Secretary under the provisions of the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) and donatedunder the provisions of section 416 of such Act \[7 U.S.C. 1431\], to the Department of Defense for use by its institutions providing child care services, when such commodities are in excess of the quantities needed to meet the needs of all other child nutrition programs, domestic and foreign food assistance and export enhancement programs. The Secretary shall require reimbursement from the Department of Defense for the costs, or some portion thereof, of delivering such commodities to overseas locations, unless the Secretary determines that it is in the best interest of the program that the Department of Agriculture shall assume such costs.
+(2) The Secretary is authorized to provide agricultural commodities obtained by the Secretary under the provisions of the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) and donated under the provisions of section 416 of such Act \[7 U.S.C. 1431\], to the Department of Defense for use by its institutions providing child care services, when such commodities are in excess of the quantities needed to meet the needs of all other child nutrition programs, domestic and foreign food assistance and export enhancement programs. The Secretary shall require reimbursement from the Department of Defense for the costs, or some portion thereof, of delivering such commodities to overseas locations, unless the Secretary determines that it is in the best interest of the program that the Department of Agriculture shall assume such costs.
 
 #### (i) Audits
 
@@ -686,7 +686,7 @@ Duration of determination.—For purposes of this section, a determination that 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), in conducting management evaluations, reviews, or audits under this section, the Secretary or a State agency may disregard any overpayment to an institution for a fiscal year if the total overpayment to the institution for the fiscal year does not exceed an amount that is consistent with the disregards allowed in other programs under this chapter and recognizes the cost of collecting small claims, as determined by the Secretary.
+&emsp;&emsp;Subject to subparagraph (B), in conducting management evaluations, reviews, or audits under this section, the Secretary or a State agency may disregard any overpayment to an institution for a fiscal year if the totaloverpayment to the institution for the fiscal year does not exceed an amount that is consistent with the disregards allowed in other programs under this chapter and recognizes the cost of collecting small claims, as determined by the Secretary.
 
 #### (B) Criminal or fraud violations
 
@@ -746,7 +746,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 &emsp;&emsp;(ii) provides for such care and services directly or under arrangements made by the agency or organization whereby the agency or organization maintains professional management responsibility for all such services; and
 
-&emsp;(B) the term "proprietary title XIX or title XX center" means any private, for-profit center providing adult day care services for which it receives compensation from amounts granted to the States under title XIX or XX of the Social Security Act \[42 U.S.C. 1396 et seq., 1397 et seq.\] and which title XIX or title XX beneficiaries were not less than 25 percent of enrolled eligible participants in a calendar month preceding initial application or annual reapplication for program participation.
+&emsp;(B) the term "proprietary title XIX or title XX center" means any private, for-profit center providing adult day care services for which it receives compensation from amounts granted to the States under title XIX or XX of the Social Security Act \[42 U.S.C. 1396 et seq., 1397et seq.\] and which title XIX or title XX beneficiaries were not less than 25 percent of enrolled eligible participants in a calendar month preceding initial application or annual reapplication for program participation.
 
 (3)(A) The Secretary, in consulation <sup>2</sup> with the Assistant Secretary for Aging, shall establish, within 6 months of October 1, 1988, separate guidelines for reimbursement of institutions described in this subsection. Such reimbursement shall take into account the nutritional requirements of eligible persons, as determined by the Secretary on the basis of tested nutritional research, except that such reimbursement shall not be less than would otherwise be required under this section.
 
@@ -982,7 +982,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 &emsp;&emsp;&emsp;The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds transferred under clause (i), without further appropriation.
 
-(June 4, 1946, ch. 281, §17, as added Pub. L. 94–105, §16, Oct. 7, 1975, 89 Stat. 522; amended Pub. L. 95–166, §§3, 19(d), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §2, Nov. 10, 1978, 92 Stat. 3603; Pub. L. 96–499, title II, §§207(a), 208(b), (c), Dec. 5, 1980, 94 Stat. 2602; Pub. L. 97–35, title VIII, §§810, 817(c), 819(k), Aug. 13, 1981, 95 Stat. 528, 532, 534; Pub. L. 99–500, title III, §§361, 372(a), Oct. 18, 1986, 100 Stat. 1783–367, 1783–369, and Pub. L. 99–591, title III, §§361, 372(a), Oct. 30, 1986, 100 Stat. 3341–370, 3341–372; Pub. L. 99–661, div. D, title IV, §4401, title V, §4502(a), Nov. 14, 1986, 100 Stat. 4079, 4080; Pub. L. 100–175, title IV, §401, Nov. 29, 1987, 101 Stat. 972; Pub. L. 100–435, title II, §§211, 214, Sept. 19, 1988, 102 Stat. 1657, 1659; Pub. L. 100–460, title VI, §641, Oct. 1, 1988, 102 Stat. 2265; Pub. L. 101–147, title I, §§105(a), (b), 131(b), title II, §204(a), title III, §§310, 312(2), Nov. 10, 1989, 103 Stat. 883, 907, 909, 915, 916; Pub. L. 102–342, title II, §§202, 203, Aug. 14, 1992, 106 Stat. 913; Pub. L. 102–375, title VIII, §811(a), Sept. 30, 1992, 106 Stat. 1295; Pub. L. 103–171, §3(b)(4), Dec. 2, 1993, 107 Stat. 1991; Pub. L. 103–448, title I, §§105(c), 109(b), 116, Nov. 2, 1994, 108 Stat. 4702, 4705, 4714; Pub. L. 104–193, title VII, §708(a)–(j), Aug. 22, 1996, 110 Stat. 2293–2299; Pub. L. 105–336, title I, §§101(b), 107(a)–(j)(1), (2)(B), (3)(C), Oct. 31, 1998, 112 Stat. 3144, 3149–3153; Pub. L. 106–224, title II, §243(a), (b)(1)–(4)(A), (5), (c)–(g)(1), (h),\(i), June 20, 2000, 114 Stat. 413–420; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–472, title III, §307(c), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–214; Pub. L. 107–76, title VII, §§743, 771, Nov. 28, 2001, 115 Stat. 738, 745; Pub. L. 108–7, div. A, title VII, §735, Feb. 20, 2003, 117 Stat. 43; Pub. L. 108–134, §2, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §2, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §119(a)–(h), June 30, 2004, 118 Stat. 753–755; Pub. L. 110–134, §29(c)(2), Dec. 12, 2007, 121 Stat. 1449; Pub. L. 110–161, div. A, title VII, §744, Dec. 26, 2007, 121 Stat. 1881; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(Z), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(Z), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 111–8, div. A, title VII, §735, Mar. 11, 2009, 123 Stat. 559; Pub. L. 111–80, title VII, §730, Oct. 21, 2009, 123 Stat. 2125; Pub. L. 111–296, title I, §§121, 122, title II, §221, title III, §§331–335, title IV, §441(a)(7), (8), Dec. 13, 2010, 124 Stat. 3205, 3224, 3248–3252, 3264.)
+(June 4, 1946, ch. 281, §17, as added Pub. L. 94–105, §16, Oct. 7, 1975, 89 Stat. 522; amended Pub. L. 95–166, §§3, 19(d), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §2, Nov. 10, 1978, 92 Stat. 3603; Pub. L. 96–499, title II, §§207(a), 208(b), (c), Dec. 5, 1980, 94 Stat. 2602; Pub. L. 97–35, title VIII, §§810, 817(c), 819(k), Aug. 13, 1981, 95 Stat. 528, 532, 534; Pub. L. 99–500, title III, §§361, 372(a), Oct. 18, 1986, 100 Stat. 1783–367, 1783–369, and Pub. L. 99–591, title III, §§361, 372(a), Oct. 30, 1986, 100 Stat. 3341–370, 3341–372; Pub. L. 99–661, div. D, title IV, §4401, title V, §4502(a), Nov. 14, 1986, 100 Stat. 4079, 4080; Pub. L. 100–175, title IV, §401, Nov. 29, 1987, 101 Stat. 972; Pub. L. 100–435, title II, §§211, 214, Sept. 19, 1988, 102 Stat. 1657, 1659; Pub. L. 100–460, title VI, §641, Oct. 1, 1988, 102 Stat. 2265; Pub. L. 101–147, title I, §§105(a), (b), 131(b), title II, §204(a), title III, §§310, 312(2), Nov. 10, 1989, 103 Stat. 883, 907, 909, 915, 916; Pub. L. 102–342, title II, §§202, 203, Aug. 14, 1992, 106 Stat. 913; Pub. L. 102–375, title VIII, §811(a), Sept. 30, 1992, 106 Stat. 1295; Pub. L. 103–171, §3(b)(4), Dec. 2, 1993, 107 Stat. 1991; Pub. L. 103–448, title I, §§105(c), 109(b), 116, Nov. 2, 1994, 108 Stat. 4702, 4705, 4714; Pub. L. 104–193, title VII, §708(a)–(j), Aug. 22, 1996, 110 Stat. 2293–2299; Pub. L. 105–336, title I, §§101(b), 107(a)–(j)(1), (2)(B), (3)(C), Oct. 31, 1998, 112 Stat. 3144, 3149–3153; Pub. L. 106–224, title II, §243(a), (b)(1)–(4)(A), (5), (c)–(g)(1), (h), (i), June 20, 2000, 114 Stat. 413–420; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–472, title III, §307(c), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–214; Pub. L. 107–76, title VII, §§743, 771, Nov. 28, 2001, 115 Stat. 738, 745; Pub. L. 108–7, div. A, title VII, §735, Feb. 20, 2003, 117 Stat. 43; Pub. L. 108–134, §2, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §2, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §119(a)–(h), June 30, 2004, 118 Stat. 753–755; Pub. L. 110–134, §29(c)(2), Dec. 12, 2007, 121 Stat. 1449; Pub. L. 110–161, div. A, title VII, §744, Dec. 26, 2007, 121 Stat. 1881; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(Z), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(Z), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 111–8, div. A, title VII, §735, Mar. 11, 2009, 123 Stat. 559; Pub. L. 111–80, title VII, §730, Oct. 21, 2009, 123 Stat. 2125; Pub. L. 111–296, title I, §§121, 122, title II, §221, title III, §§331–335, title IV, §441(a)(7), (8), Dec. 13, 2010, 124 Stat. 3205, 3224, 3248–3252, 3264.)
 
 #### References in Text
 
@@ -1112,7 +1112,7 @@ Subsec. (a)(6)(E), (F). Pub. L. 106–224, §243(a)(8)(D), added subpars. (E) an
 
 Subsec. (d). Pub. L. 106–224, §243(b)(1), inserted subsec. heading.
 
-Subsec. (d)(1). Pub. L. 106–224, §243(b)(1), added par. (1) and struck out former par. (1), which had provided that any eligible public institution would be approved upon its request, that any eligible private institution would be approved if it had been visited by a State agency and had either tax exempt status or had been operating a Federal program requiring nonprofit status, and setforth provisions relating to tax exempt certification of family or group day care homes, authorizing temporary participation for an institution moving toward compliance, and requiring notice of approval or disapproval of application within 30 days after filing.
+Subsec. (d)(1). Pub. L. 106–224, §243(b)(1), added par. (1) and struck out former par. (1), which had provided that any eligible public institution would be approved upon its request, that any eligible private institution would be approved if it had been visited by a State agency and had either tax exempt status or had been operating a Federal program requiring nonprofit status, and set forth provisions relating to tax exempt certification of family or group day care homes, authorizing temporary participation for an institution moving toward compliance, and requiring notice of approval or disapproval of application within 30 days after filing.
 
 Subsec. (d)(2)(A)(ii), (iii). Pub. L. 106–224, §243(b)(2), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
@@ -1132,7 +1132,7 @@ Subsec. (f)(1). Pub. L. 106–224, §243(d), inserted par. heading, designated e
 
 Subsec. (f)(2)(C). Pub. L. 106–224, §243(e), added subpar. (C).
 
-Subsec. (f)(3)(D). Pub. L. 106–224, §243(f), added subpar. (D) and struck out former subpar. (D), which required the Secretary to reserve $5,000,000 of the amount made available for fiscal year 1997 for grants to States to provide assistance to family or group day care homes and set forth provisions relating to allocation and retention of funds and additional payments.
+Subsec. (f)(3)(D). Pub. L. 106–224, §243(f), added subpar. (D) and struck out former subpar. (D), which requiredthe Secretary to reserve $5,000,000 of the amount made available for fiscal year 1997 for grants to States to provide assistance to family or group day care homes and set forth provisions relating to allocation and retention of funds and additional payments.
 
 Subsec. (p)(1). Pub. L. 106–224, §243(g)(1)(A), substituted "State-wide demonstration projects in three States" for "2 statewide demonstration projects" in first sentence of introductory provisions.
 
@@ -1478,7 +1478,7 @@ Pub. L. 101–147, title II, §204(b), Nov. 10, 1989, 103 Stat. 910, provided th
 
 #### Interagency Coordination To Promote Health and Wellness in Child Care Licensing
 
-Pub. L. 111–296, title II, §222, Dec. 13, 2010, 124 Stat. 3228, provided that: "The Secretary \[of Agriculture\] shall coordinate with the Secretary of Health and Human Services to encourage State licensing agencies to include nutrition and wellness standards within State licensing standards that ensure, to the maximum extent practicable, that licensed child care centers and family or group day care homes—
+Pub. L. 111–296, title II, §222, Dec. 13, 2010, 124 Stat. 3228, provided that: "The Secretary \[of Agriculture\]shall coordinate with the Secretary of Health and Human Services to encourage State licensing agencies to include nutrition and wellness standards within State licensing standards that ensure, to the maximum extent practicable, that licensed child care centers and family or group day care homes—
 
 &emsp;"(1) provide to all children under the supervision of the child care centers and family or group day care homes daily opportunities for age-appropriate physical activity;
 
@@ -1550,7 +1550,7 @@ In general.—Subject to the availability of funds made available under paragrap
 
 "(2)
 
-States.—The Secretary shall provide grants under this subsection in States that have experienced a growth in the limited-English-proficient population ofthe States of at least 100 percent between the years 1990 and 2000, as measured by the census.
+States.—The Secretary shall provide grants under this subsection in States that have experienced a growth in the limited-English-proficient population of the States of at least 100 percent between the years 1990 and 2000, as measured by the census.
 
 "(3)
 

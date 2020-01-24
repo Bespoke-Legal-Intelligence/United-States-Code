@@ -56,11 +56,11 @@
 
 #### (1) In general
 
-&emsp;The 1992 UMWA Benefit Plan shall provide health care benefits coverage to each eligible beneficiary which is substantially the same as (and subject to all the limitations of) coverage provided under the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan as of January 1, 1992.
+&emsp;The 1992 UMWA Benefit Plan shall provide health care benefits coverage to each eligiblebeneficiary which is substantially the same as (and subject to all the limitations of) coverage provided under the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan as of January 1, 1992.
 
 #### (2) Managed care
 
-&emsp;The 1992 UMWA Benefit Plan shall develop managed care and cost containment rules which shall be applicable to the payment of benefits under this subsection. Application of such rules shall not cause the plan to be treated as failing to meet the requirements of thissubsection. Such rules shall preserve freedom of choice while reinforcing managed care network use by allowing a point of service decision as to whether a network medical provider will be used. Major elements of such rules may include, but are not limited to, elements described in paragraph (3).
+&emsp;The 1992 UMWA Benefit Plan shall develop managed care and cost containment rules which shall be applicable to the payment of benefits under this subsection. Application of such rules shall not cause the plan to be treated as failing to meet the requirements of this subsection. Such rules shall preserve freedom of choice while reinforcing managed care network use by allowing a point of service decision as to whether a network medical provider will be used. Major elements of such rules may include, but are not limited to, elements described in paragraph (3).
 
 #### (3) Major elements of rules
 

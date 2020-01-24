@@ -14,7 +14,7 @@
 
 &emsp;(6) extending relief granted under section 1519(a); and
 
-&emsp;(7) granting any additional relief that may be available to a trustee, except for relief available under sections 522, 544, 545, 547, 548, 550, and 724(a).
+&emsp;(7) granting any additional relief that may be available to a trustee, except for reliefavailable under sections 522, 544, 545, 547, 548, 550, and 724(a).
 
 (b) Upon recognition of a foreign proceeding, whether main or nonmain, the court may, at the request of the foreign representative, entrust the distribution of all or part of the debtor's assets located in the United States to the foreign representative or another person, including an examiner, authorized by the court, provided that the court is satisfied that the interests of creditors in the United States are sufficiently protected.
 

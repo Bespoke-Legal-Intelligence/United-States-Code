@@ -112,7 +112,7 @@ Subsec. (f)(4). Pub. L. 101–647, §3595, substituted "604(a)(18)" for "604(a)(
 
 <b>1987</b>—Subsec. (f)(4). Pub. L. 100–185 inserted "or the person designated under section 604(a)(17) of title 28" after "Attorney General".
 
-Subsec. (g). Pub. L. 100–182 substituted "revoke probation or a term of supervised release," for "revokeprobation," in two places and inserted "probation or" after "modify the term or conditions of" in two places.
+Subsec. (g). Pub. L. 100–182 substituted "revoke probation or a term of supervised release," for "revoke probation," in two places and inserted "probation or" after "modify the term or conditions of" in two places.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–646, §20(a), which directed that subsec. (a)(1) be amended by inserting ", in the case of a misdemeanor," after "in addition to or", was executed to subsec. (a) to reflect the probable intent of Congress and the prior amendment to subsec. (a) by Pub. L. 99–646, §8(b), below.
 
@@ -150,7 +150,7 @@ Amendment by section 20(a) of Pub. L. 99–646 effective Nov. 1, 1987, see secti
 
 Pub. L. 99–646, §77(b), Nov. 10, 1986, 100 Stat. 3618, provided that: "The amendment made by this section \[amending this section\] shall take effect on the 30th day after the date of the enactment of this Act \[Nov. 10, 1986\]."
 
-Pub. L. 99–646, §78(b), Nov. 10, 1986, 100 Stat. 3618, provided that: "The amendment made by this section \[amending this section\] shall take effect on the 30th day after the date of the enactment of this Act \[Nov. 10, 1986\]."
+Pub. L. 99–646, §78(b), Nov. 10, 1986, 100 Stat. 3618, provided that: "The amendment made by this section \[amending this section\] shall take effect on the 30thday after the date of the enactment of this Act \[Nov. 10, 1986\]."
 
 Pub. L. 99–646, §79(b), Nov. 10, 1986, 100 Stat. 3619, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1986\]."
 

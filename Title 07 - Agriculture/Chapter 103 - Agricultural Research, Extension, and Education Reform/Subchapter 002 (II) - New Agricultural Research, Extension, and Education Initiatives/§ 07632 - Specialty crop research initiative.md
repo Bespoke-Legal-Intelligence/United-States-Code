@@ -246,7 +246,7 @@ Funds made available under this section shall not be used for the construction o
 
 &emsp;Funds made available pursuant to this subsection for a fiscal year shall remain available until expended to pay for obligations incurred in that fiscal year.
 
-(Pub. L. 105–185, title IV, §412, as added Pub. L. 110–234, title VII, §7311(a), May 22, 2008, 122 Stat. 1243, and Pub. L. 110–246, §4(a), title VII, §7311(a), June 18, 2008, 122 Stat. 1664, 2004; amended Pub.L. 112–240, title VII, §701(e)(2), Jan. 2, 2013, 126 Stat. 2364; Pub. L. 113–79, title VII, §§7128(b)(3)(B), 7306, Feb. 7, 2014, 128 Stat. 879, 888; Pub. L. 115–334, title VII, §§7305, 7614(b)(3)(B), Dec. 20, 2018, 132 Stat. 4815, 4836.)
+(Pub. L. 105–185, title IV, §412, as added Pub. L. 110–234, title VII, §7311(a), May 22, 2008, 122 Stat. 1243, and Pub. L. 110–246, §4(a), title VII, §7311(a), June 18, 2008, 122 Stat. 1664, 2004; amended Pub. L. 112–240, title VII, §701(e)(2), Jan. 2, 2013, 126 Stat. 2364; Pub. L. 113–79, title VII, §§7128(b)(3)(B), 7306, Feb. 7, 2014, 128 Stat. 879, 888; Pub. L. 115–334, title VII, §§7305, 7614(b)(3)(B), Dec. 20, 2018, 132 Stat. 4815, 4836.)
 
 #### References in Text
 
@@ -356,7 +356,7 @@ Pub. L. 115–334, title XII, §12605, Dec. 20, 2018, 132 Stat. 5006, provided t
 
 "(a)
 
-Definition of Citrus.—In this section, the term 'citrus' means edible fruit of the family Rutaceae, including any hybrid of that fruit and any product of thathybrid that is produced for commercial purposes in the United States.
+Definition of Citrus.—In this section, the term 'citrus' means edible fruit of the family Rutaceae, including any hybrid of that fruit and any product of that hybrid that is produced for commercial purposes in the United States.
 
 "(b)
 

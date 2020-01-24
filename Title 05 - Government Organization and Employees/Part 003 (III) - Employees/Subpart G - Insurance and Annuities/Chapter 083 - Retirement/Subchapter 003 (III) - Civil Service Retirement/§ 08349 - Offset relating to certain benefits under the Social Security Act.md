@@ -46,7 +46,7 @@
 
 (2)(A) Subject to subparagraph (B), reductions under this subsection shall be made in a manner consistent with the manner in which reductions under subsection (a) are computed and otherwise made.
 
-(B) Reductions under this subsection shall be discontinued if, or for so long as, entitlement to the similar benefits under title II of the Social Security Act (as referred to in paragraph (1)) is terminated (or, in the case of an individual who has not made proper application therefor, would be terminated).
+(B) Reductions under this subsection shall be discontinued if, or for so long as, entitlement tothe similar benefits under title II of the Social Security Act (as referred to in paragraph (1)) is terminated (or, in the case of an individual who has not made proper application therefor, would be terminated).
 
 (3) For the purpose of applying section 224 of the Social Security Act to the disability insurance benefit used to compute the reduction under this subsection, the amount of the CSRS annuity considered shall be the amount of the CSRS annuity before application of this section.
 

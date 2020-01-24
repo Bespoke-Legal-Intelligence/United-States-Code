@@ -10,7 +10,7 @@
 
 &emsp;(4) The term "full life-cycle cost", with respect to a major defense acquisition program, means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control.
 
-(b)(1) The Secretary of Defense shall submit to Congress at the end of each fiscal-year quarter a report on current major defense acquisition programs. Except as provided in paragraphs (2) and (3), each such report shall include a status report on each defense acquisition program that at the end of such quarter is a major defense acquisition program. Reports under this section shall be known as Selected Acquisition Reports.
+(b)(1) The Secretary of Defense shall submit to Congress at the end of each fiscal-year quarter a report on current major defense acquisition programs and any program that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars). Except as provided in paragraphs (2) and (3), each such report shall include a status report on each defense acquisition program that at the end of such quarter is a major defense acquisition program. Reports under this section shall be known as Selected Acquisition Reports.
 
 (2) A status report on a major defense acquisition program need not be included in the Selected Acquisition Report for the second, third, or fourth quarter of a fiscal year if such a report was included in a previous Selected Acquisition Report for that fiscal year and during the period since that report there has been—
 
@@ -26,7 +26,7 @@
 
 &emsp;(iii) the system configuration for such program is not well defined.
 
-(B) The Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House ofRepresentatives a written notification of each waiver under subparagraph (A) for a program for a fiscal year not later than 60 days before the President submits the budget to Congress pursuant to section 1105 of title 31 in that fiscal year.
+(B) The Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of each waiver under subparagraph (A) for a program for a fiscal year not later than 60 days before the President submits the budget to Congress pursuant to section 1105 of title 31 in that fiscal year.
 
 (c)(1) Each Selected Acquisition Report for the first quarter for a fiscal year shall include—
 
@@ -112,13 +112,25 @@
 
 (3) The submission requirements for a limited report under this subsection shall be the same as for quarterly Selected Acquisition Reports for total program reporting.
 
-(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 739, §139a; amended Pub. L. 98–525, title XII, §1242(a), Oct. 19, 1984, 98 Stat. 2606; Pub. L. 99–145, title XII, §1201, Nov. 8, 1985, 99 Stat. 715; renumbered §2432 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(13), (g)(7), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, and Pub. L. 99–591, §101(c) \[title X, §961(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(a), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(3), (k)(2), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XII, §1233(a)(1), title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1161, 1175; Pub. L. 101–189, div. A, title VIII, §811(c), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XIV, §§1407(a)–(c), 1484(f)(4), Nov. 5, 1990, 104 Stat. 1681, 1717; Pub. L. 102–25, title VII, §701(f)(3), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title VIII, §801(b)(2), title X, §1061(a)(14), Dec. 5, 1991, 105 Stat. 1412, 1473; Pub. L. 102–484, div. A, title VIII, §817(c), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 103–355, title III, §3002(a)(1), (b)–(h), Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §806, Sept. 23, 1996, 110 Stat. 2606; Pub. L. 105–85, div. A, title VIII, §841(c), Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181; Pub. L. 108–136, div. A, title X, §1045(a)(6), Nov. 24, 2003, 117 Stat. 1612; Pub. L. 108–375, div. A, title VIII, §801(b)(2), Oct. 28, 2004, 118 Stat. 2004; Pub. L. 109–364, div. A, title X, §1071(g)(10), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 110–417, \[div. A\], title VIII, §811(b), Oct. 14, 2008, 122 Stat. 4521; Pub. L. 112–81, div. A, title VIII, §812, Dec. 31, 2011, 125 Stat. 1491; Pub. L. 113–66, div. A, title VIII, §812(a), Dec. 26, 2013, 127 Stat. 807; Pub. L. 113–291, div. A, title X, §1071(g)(2), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–328, div. A, title VIII, §§805(b), 841, Dec. 23, 2016, 130 Stat. 2255, 2288.)
+(i)
+
+Form of Report.—A Selected Acquisition Report required under this section shall be submitted in unclassified form without any designation relating to dissemination control, but may contain a classified annex.
+
+(j)
+
+Termination.—The requirements under this section shall terminate after the final submission covering fiscal year 2021.
+
+(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 739, §139a; amended Pub. L. 98–525, title XII, §1242(a), Oct. 19, 1984, 98 Stat. 2606; Pub. L. 99–145, title XII, §1201, Nov. 8, 1985, 99 Stat. 715; renumbered §2432 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(13), (g)(7), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, and Pub. L. 99–591, §101(c) \[title X, §961(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(a), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(3), (k)(2), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XII, §1233(a)(1), title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1161, 1175; Pub. L. 101–189, div. A, title VIII, §811(c), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XIV, §§1407(a)–(c), 1484(f)(4), Nov. 5, 1990, 104 Stat. 1681, 1717; Pub. L. 102–25, title VII, §701(f)(3), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title VIII, §801(b)(2), title X, §1061(a)(14), Dec. 5, 1991, 105 Stat. 1412, 1473; Pub. L. 102–484, div. A, title VIII, §817(c), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 103–355, title III, §3002(a)(1), (b)–(h), Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §806, Sept. 23, 1996, 110 Stat. 2606; Pub. L. 105–85, div. A, title VIII, §841(c), Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181; Pub. L. 108–136, div. A, title X, §1045(a)(6), Nov. 24, 2003, 117 Stat. 1612; Pub. L. 108–375, div. A, title VIII, §801(b)(2), Oct. 28, 2004, 118 Stat. 2004; Pub. L. 109–364, div. A, title X, §1071(g)(10), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 110–417, \[div. A\], title VIII, §811(b), Oct. 14, 2008, 122 Stat. 4521; Pub. L. 112–81, div. A, title VIII, §812, Dec. 31, 2011, 125 Stat. 1491; Pub. L. 113–66, div. A, title VIII,§812(a), Dec. 26, 2013, 127 Stat. 807; Pub. L. 113–291, div. A, title X, §1071(g)(2), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–328, div. A, title VIII, §§805(b), 841, Dec. 23, 2016, 130 Stat. 2255, 2288; Pub. L. 116–92, div. A, title VIII, §830(a), Dec. 20, 2019, 133 Stat. 1492.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(1). Pub. L. 116–92, §830(a)(1), inserted "and any program that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars)" after "major defense acquisition programs".
+
+Subsecs. (i), (j). Pub. L. 116–92, §830(a)(2), added subsecs. (i) and (j).
 
 <b>2016</b>—Subsec. (c)(1)(G), (H). Pub. L. 114–328, §805(b), added subpar. (G) and redesignated former subpar. (G) as (H).
 
@@ -132,7 +144,7 @@ Subsec. (c)(1)(E). Pub. L. 113–66, §812(a)(3)(B), as amended by Pub. L. 113�
 
 Pub. L. 113–66, §812(a)(1), (3)(A), (C), (D), redesignated subpar. (B) as (E) and substituted "such program or subprogram" for "major defense acquisition program or designated major subprogram", "those costs" for "that cost", and "December 2001 reporting period" for "date the program or subprogram was first included in a Selected Acquisition Report".
 
-Subsec. (c)(1)(F). Pub. L. 113–66, §812(a)(1), (4), redesignated subpar. (C) as (F) and substituted "such programor subprogram" for "major defense acquisition program or designated major subprogram" and "December 2001 reporting period" for "date the program or subprogram was first included in a Selected Acquisition Report".
+Subsec. (c)(1)(F). Pub. L. 113–66, §812(a)(1), (4), redesignated subpar. (C) as (F) and substituted "such program or subprogram" for "major defense acquisition program or designated major subprogram" and "December 2001 reporting period" for "date the program or subprogram was first included in a Selected Acquisition Report".
 
 Subsec. (c)(1)(G). Pub. L. 113–66, §812(a)(1), redesignated subpar. (D) as (G).
 
@@ -184,7 +196,7 @@ Subsec. (e)(8), (9). Pub. L. 104–201, §806(2), redesignated par. (9) as (8) a
 
 Subsec. (h)(1). Pub. L. 104–106 substituted "Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives" for "Committees on Armed Services of the Senate and House of Representatives".
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–355, §3002(a)(1), struck out "for a fiscal year, reduced by the amount of funds programmed to be available for obligation for such fiscal year for advanced procurement for such program in any subsequent year and increased by any amount appropriated in years before such fiscal year for advanced procurement for such program in such fiscal year" after "procurement for the program" in cl. (A), "with such funds during such fiscal year" after "procured" in cl. (B), and last sentence which read as follows: "If for any fiscal year the funds appropriated, or the number of fully-configured end items to be purchased, differ from those programmed, the procurement unit cost shall be revised to reflect the appropriated amounts and quantities."
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–355, §3002(a)(1), struck out "for a fiscal year, reduced by the amount of funds programmed to be available for obligation for such fiscal year for advanced procurement for such program in any subsequent year and increased by any amount appropriated in years before such fiscal year for advanced procurement for such program in such fiscal year" after "procurement for the program" in cl. (A), "with such funds during such fiscal year" after "procured" in cl. (B), and last sentence which read as follows: "If for any fiscal year the funds appropriated, or the numberof fully-configured end items to be purchased, differ from those programmed, the procurement unit cost shall be revised to reflect the appropriated amounts and quantities."
 
 Subsec. (a)(3). Pub. L. 103–355, §3002(b), inserted before period at end "and that is not a firm, fixed price contract".
 
@@ -276,7 +288,7 @@ Subsec. (g). Pub. L. 98–525, §1242(a)(5), added subsec. (g).
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–291, div. A, title X, §1071(g), Dec. 19, 2014, 128 Stat. 3511, provided that the amendment made bysection 1071(g)(2) is effective as of Dec. 26, 2013, and as if included in Pub. L. 113–66 as enacted.
+Pub. L. 113–291, div. A, title X, §1071(g), Dec. 19, 2014, 128 Stat. 3511, provided that the amendment made by section 1071(g)(2) is effective as of Dec. 26, 2013, and as if included in Pub. L. 113–66 as enacted.
 
 #### Effective Date of 2013 Amendment; Phase-In of Additional Information Requirements
 

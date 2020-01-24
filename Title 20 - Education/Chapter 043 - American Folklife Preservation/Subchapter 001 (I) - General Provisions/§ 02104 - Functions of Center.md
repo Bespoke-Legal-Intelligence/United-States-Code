@@ -18,7 +18,7 @@ The Librarian is authorized to—
 
 &emsp;(3) procure, receive, purchase, and collect for preservation or retention in an appropriate archive creative works, exhibitions, presentations, objects, materials, artifacts, manuscripts, publications, and audio and visual records (including still and motion picture film records, audio and visual magnetic tape recordings, written records, and manuscripts) which represent or illustrate some aspect of American folklife;
 
-&emsp;(4) loan, or otherwise make available, through Library of Congress procedures, anyitem in the archive established under this subchapter to any individual or group;
+&emsp;(4) loan, or otherwise make available, through Library of Congress procedures, any item in the archive established under this subchapter to any individual or group;
 
 &emsp;(5) present, display, exhibit, disseminate, communicate, and broadcast to local, regional, State, or National audiences any exhibition, display, or presentation referred to in clause (3) of this section or any item in the archive established pursuant to clause (2) of this section, by making appropriate arrangements, including contracts with public, nonprofit, and private radio and television broadcasters, museums, educational institutions, and such other individuals and organizations, including corporations, as the Board deems appropriate;
 

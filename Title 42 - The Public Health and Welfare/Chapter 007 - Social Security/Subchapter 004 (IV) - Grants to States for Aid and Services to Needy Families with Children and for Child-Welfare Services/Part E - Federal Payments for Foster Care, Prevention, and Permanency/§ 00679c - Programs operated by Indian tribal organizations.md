@@ -6,7 +6,7 @@ In this section, the terms "Indian tribe" and "tribal organization" have the mea
 
 #### (b) Authority
 
-Except as otherwise provided in this section, this part shall apply in the same manner as this part applies to a State to an Indian tribe, tribal organization, or tribal consortium that elects to operate a program under this part and has a plan approved by the Secretary under section 671 of this title in accordance with this section.
+Except as otherwise provided in this section, this part shall apply in the same manner as thispart applies to a State to an Indian tribe, tribal organization, or tribal consortium that elects to operate a program under this part and has a plan approved by the Secretary under section 671 of this title in accordance with this section.
 
 #### (c) Plan requirements
 
@@ -20,7 +20,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (B) Service areas and populations
 
-&emsp;&emsp;For purposes of complying with section 671(a)(3) of this title, a description of the service area or areas and populations to be served under the plan and an assurance thatthe plan shall be in effect in all service area or areas and for all populations served by the tribe, organization, or consortium.
+&emsp;&emsp;For purposes of complying with section 671(a)(3) of this title, a description of the service area or areas and populations to be served under the plan and an assurance that the plan shall be in effect in all service area or areas and for all populations served by the tribe, organization, or consortium.
 
 #### (C) Eligibility
 
@@ -110,7 +110,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a tribe, organization, or consortium that elects to provide services and programs specified in section 671(e)(1) of this title to children described in section 671(e)(2) of this title and their parents or kin caregivers under the plan, the Secretary shall specify the requirements applicable to the provision of the services and programs. The requirements shall, to the greatest extent practicable, be consistent with the requirements applicable to States under section 671(e) of this title and shall permit the provision of the services and programs in the form of services and programs that are adapted to the cultureand context of the tribal communities served.
+&emsp;&emsp;&emsp;In the case of a tribe, organization, or consortium that elects to provide services and programs specified in section 671(e)(1) of this title to children described in section 671(e)(2) of this title and their parents or kin caregivers under the plan, the Secretary shall specify the requirements applicable to the provision of the services and programs. The requirements shall, to the greatest extent practicable, be consistent with the requirements applicable to States under section 671(e) of this title and shall permit the provision of the services and programs in the form of services and programs that are adapted to the culture and context of the tribal communities served.
 
 #### (ii) Performance measures
 
@@ -150,7 +150,7 @@ Except as provided in section 677(j) of this title, subsection (b) of this secti
 
 Nothing in this section shall be construed as affecting the application of section 672(h) of this title to a child on whose behalf payments are paid under section 672 of this title, or the application of section 673(b) of this title to a child on whose behalf payments are made under section 673 of this title pursuant to an adoption assistance agreement or a kinship guardianship assistance agreement, by an Indian tribe, tribal organization, or tribal consortium that elects to operate a foster care and adoption assistance program in accordance with this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §479B, as added Pub. L. 110–351, title III, §301(a)(1), Oct. 7, 2008, 122 Stat. 3962; amended Pub. L. 115–123, div. E, title VII, §§50711(e), 50722(b), Feb. 9, 2018, 132 Stat. 243, 246.)
+(Aug. 14, 1935, ch. 531, title IV, §479B, as added Pub. L. 110–351, title III, §301(a)(1), Oct. 7, 2008,122 Stat. 3962; amended Pub. L. 115–123, div. E, title VII, §§50711(e), 50722(b), Feb. 9, 2018, 132 Stat. 243, 246.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) certain other lands on the Lolo National Forest, while not predominantly of wilderness quality, have high value for municipal watershed, recreation, wildlife habitat, and ecological and educational purposes.
 
-(b) Therefore, it is hereby declared to be the policy of Congress that, to further the purposes of the Wilderness Act of 1964 (16 U.S.C. 1131) andthe National Forest Management Act of 1976 (16 U.S.C. 1600), the people of the Nation and Montana would best be served by national recreation area designation of the Rattlesnake area to include the permanent preservation of certain of these lands under established statutory designation as wilderness, and to promote the watershed, recreational, wildlife, and educational values of the remainder of these lands.
+(b) Therefore, it is hereby declared to be the policy of Congress that, to further the purposes of the Wilderness Act of 1964 (16 U.S.C. 1131) and the National Forest Management Act of 1976 (16 U.S.C. 1600), the people of the Nation and Montana would best be served by national recreation area designation of the Rattlesnake area to include the permanent preservation of certain of these lands under established statutory designation as wilderness, and to promote the watershed, recreational, wildlife, and educational values of the remainder of these lands.
 
 (Pub. L. 96–476, §1, Oct. 19, 1980, 94 Stat. 2271.)
 

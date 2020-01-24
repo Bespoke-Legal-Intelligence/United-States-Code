@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) an information system of another non-Federal entity, upon the authorization and written consent of such other entity;
 
-&emsp;&emsp;(C) an information system of a Federal entity, upon the authorization and writtenconsent of an authorized representative of the Federal entity; and
+&emsp;&emsp;(C) an information system of a Federal entity, upon the authorization and written consent of an authorized representative of the Federal entity; and
 
 &emsp;&emsp;(D) information that is stored on, processed by, or transiting an information system monitored by the private entity under this paragraph.
 
@@ -50,7 +50,7 @@
 
 #### (2) Lawful restriction
 
-&emsp;A non-Federal entity receiving a cyber threat indicator or defensive measure from another non-Federal entity or a Federal entity shall comply with otherwise lawful restrictions placed on the sharing or use of such cyber threat indicator or defensive measure by the sharing non-Federal entity or Federal entity.
+&emsp;A non-Federal entity receiving a cyber threat indicator or defensive measure from another non-Federal entity or a Federal entity shall comply with otherwise lawful restrictions placed on the sharing or use of such cyber threat indicator or defensive measure bythe sharing non-Federal entity or Federal entity.
 
 #### (3) Construction
 

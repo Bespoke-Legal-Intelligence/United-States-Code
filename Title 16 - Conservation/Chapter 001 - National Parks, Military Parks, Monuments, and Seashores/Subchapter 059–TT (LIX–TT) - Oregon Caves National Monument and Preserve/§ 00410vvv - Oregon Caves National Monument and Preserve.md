@@ -14,7 +14,7 @@ In this section:
 
 #### (3) National Monument and Preserve
 
-&emsp;The term "National Monument and Preserve" means the Oregon Caves NationalMonument and Preserve designated by subsection (b)(1)(A).
+&emsp;The term "National Monument and Preserve" means the Oregon Caves National Monument and Preserve designated by subsection (b)(1)(A).
 
 #### (4) National Preserve
 
@@ -72,7 +72,7 @@ In this section:
 
 #### (5) References
 
-&emsp;Any reference in a law, map, regulation, document, paper, or other record of the United States to the Monument shall be considered to be a reference to the "Oregon Caves National Monument and Preserve".
+&emsp;Any reference in a law, map, regulation, document, paper, or other record of the UnitedStates to the Monument shall be considered to be a reference to the "Oregon Caves National Monument and Preserve".
 
 #### (c) Administration
 
@@ -128,7 +128,7 @@ In this section:
 
 #### (5) Fish and wildlife
 
-&emsp;The Secretary shall permit hunting and fishing on land and waters within the NationalPreserve in accordance with applicable Federal and State laws, except that the Secretary may, in consultation with the Oregon Department of Fish and Wildlife, designate zones in which, and establish periods during which, no hunting or fishing shall be permitted for reasons of public safety, administration, or compliance by the Secretary with any applicable law (including regulations).
+&emsp;The Secretary shall permit hunting and fishing on land and waters within the National Preserve in accordance with applicable Federal and State laws, except that the Secretary may, in consultation with the Oregon Department of Fish and Wildlife, designate zones in which, and establish periods during which, no hunting or fishing shall be permitted for reasons of public safety, administration, or compliance by the Secretary with any applicable law (including regulations).
 
 #### (d) Voluntary grazing lease or permit donation program
 

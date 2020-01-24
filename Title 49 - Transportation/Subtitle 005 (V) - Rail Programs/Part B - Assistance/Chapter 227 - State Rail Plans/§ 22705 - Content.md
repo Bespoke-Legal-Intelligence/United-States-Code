@@ -72,7 +72,7 @@ Considerations for project list.—In preparing the list of freight and intercit
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(12). Pub. L. 114–94 struck out par. (12) which read as follows: "A statement that the Stateis in compliance with the requirements of section 22102."
+<b>2015</b>—Subsec. (a)(12). Pub. L. 114–94 struck out par. (12) which read as follows: "A statement that the State is in compliance with the requirements of section 22102."
 
 #### Effective Date of 2015 Amendment
 

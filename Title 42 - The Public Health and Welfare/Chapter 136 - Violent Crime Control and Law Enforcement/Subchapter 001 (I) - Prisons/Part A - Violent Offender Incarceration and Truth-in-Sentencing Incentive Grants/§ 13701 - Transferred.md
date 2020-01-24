@@ -6,7 +6,7 @@ Section 13701 was editorially reclassified as section 12101 of Title 34, Crime C
 
 #### Short Title of 1996 Amendments
 
-Pub. L. 104–236, §1, Oct. 3, 1996, 110 Stat. 3093, provided that: "This Act \[enacting former sections 14072 and 14073 of this title, amending former section 14071 of this title, and enacting provisions formerly set out as notes under section 14071 of this title\] may be cited as the 'Pam Lychner Sexual Offender Tracking and Identification Act of 1996'."
+Pub. L. 104–236, §1, Oct. 3, 1996, 110 Stat. 3093, provided that: "This Act \[enacting former sections 14072 and 14073 of this title, amending former section 14071 of this title, and enacting provisions formerly set out as notes under section 14071 of this title\] may be cited as the'Pam Lychner Sexual Offender Tracking and Identification Act of 1996'."
 
 Pub. L. 104–145, §1, May 17, 1996, 110 Stat. 1345, provided that: "This Act \[amending former section 14071 of this title\] may be cited as 'Megan's Law'."
 

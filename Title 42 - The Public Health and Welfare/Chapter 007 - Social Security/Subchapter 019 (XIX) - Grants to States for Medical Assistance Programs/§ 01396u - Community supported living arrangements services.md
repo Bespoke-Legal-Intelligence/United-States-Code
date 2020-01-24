@@ -24,7 +24,7 @@ In this subchapter the term,<sup>1</sup> "developmentally disabled individual" m
 
 #### (c) Criteria for selection of participating States
 
-The Secretary shall develop criteria to review the applications of States submitted under this section to provide community supported living arrangement services. The Secretary shall provide in such criteria that during the first 5 years of the provision of services under this section that no less than 2 and no more than 8 Statesshall be allowed to receive Federal financial participation for providing the services described in this section.
+The Secretary shall develop criteria to review the applications of States submitted under this section to provide community supported living arrangement services. The Secretary shall provide in such criteria that during the first 5 years of the provision of services under this section that no less than 2 and no more than 8 States shall be allowed to receive Federal financial participation for providing the services described in this section.
 
 #### (d) Quality assurance
 
@@ -48,7 +48,7 @@ A State selected by the Secretary to provide services under this section shall i
 
 &emsp;(6) the State will provide the services defined in subsection (a) in accordance with an individual support plan (as defined by the Secretary in regulations); and
 
-&emsp;(7) the State plan amendment under this section shall be reviewed by the State Council on Developmental Disabilities established under section 125 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. §15025\] and the protection and advocacy system established under subtitle C of that Act \[42 U.S.C. 15041 et seq.\].
+&emsp;(7) the State plan amendment under this section shall be reviewed by the State Council on Developmental Disabilities established undersection 125 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. §15025\] and the protection and advocacy system established under subtitle C of that Act \[42 U.S.C. 15041 et seq.\].
 
 > The Secretary shall not approve a quality assurance plan under this subsection and allow a State to continue to receive Federal financial participation under this section unless the State provides for public hearings on the plan prior to adoption and implementation of its plan under this subsection.
 
@@ -98,7 +98,7 @@ The Secretary may waive such provisions of this subchapter as necessary to carry
 
 #### (i) Treatment of funds
 
-Any funds expended under this section for medical assistance shall be in addition to funds expended for any existing services covered under the State plan, including any waiver services forwhich an individual receiving services under this program is already eligible.
+Any funds expended under this section for medical assistance shall be in addition to funds expended for any existing services covered under the State plan, including any waiver services for which an individual receiving services under this program is already eligible.
 
 #### (j) Limitation on amounts of expenditures as medical assistance
 

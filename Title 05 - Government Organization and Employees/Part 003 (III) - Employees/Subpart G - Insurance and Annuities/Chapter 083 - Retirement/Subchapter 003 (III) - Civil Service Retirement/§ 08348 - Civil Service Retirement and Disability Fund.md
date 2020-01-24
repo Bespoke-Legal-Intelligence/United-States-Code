@@ -12,7 +12,7 @@
 
 &emsp;(3) is made available, subject to such annual limitation as the Congress may prescribe, for any expenses incurred by the Merit Systems Protection Board in the administration of appeals authorized under sections 8347(d) and 8461(e) of this title.
 
-(b) The Secretary of the Treasury may accept and credit to the Fund money received in the form of a donation, gift, legacy, or bequest, orotherwise contributed for the benefit of civil-service employees generally.
+(b) The Secretary of the Treasury may accept and credit to the Fund money received in the form of a donation, gift, legacy, or bequest, or otherwise contributed for the benefit of civil-service employees generally.
 
 (c) The Secretary shall immediately invest in interest-bearing securities of the United States such currently available portions of the Fund as are not immediately required for payments from the Fund. The income derived from these investments constitutes a part of the Fund.
 
@@ -90,7 +90,7 @@
 
 (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (c) of this section, the Secretary shall immediately notify Congress of the determination. The notification shall be made in writing.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, titleVII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 108–18, §2(c), (d)(1)(A), Apr. 23, 2003, 117 Stat. 625, 626; Pub. L. 109–435, title VIII, §802(a)(2), Dec. 20, 2006, 120 Stat. 3249.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 108–18, §2(c), (d)(1)(A), Apr. 23, 2003, 117 Stat. 625, 626; Pub. L. 109–435, title VIII, §802(a)(2), Dec. 20, 2006, 120 Stat. 3249.)
 
 Historical and Revision Notes<br>1966
 
@@ -248,7 +248,7 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions 
 
 Amendment by Pub. L. 97–346 effective Sept. 8, 1982, see section 3(n) of Pub. L. 97–346, set out as a note under section 8332 of this title.
 
-Amendment by Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a paymentunder section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1979 Amendment
 
@@ -280,7 +280,7 @@ Request for review.—Notwithstanding any other provision of this section \[amen
 
 &emsp;"(B)
 
-Report.—Upon receiving a request under subparagraph (A), the Commission shall promptly procure the services of an actuary, who shall hold membership in the American Academy of Actuaries and shall be qualified in the evaluation of pension obligations, to conduct a review in accordance with generally accepted actuarial practices and principles andto provide a report to the Commission containing the results of the review. The Commission, upon determining that the report satisfies the requirements of this paragraph, shall approve the report, with any comments it may choose to make, and submit it with any such comments to the Postal Service, the Office of Personnel Management, and Congress.
+Report.—Upon receiving a request under subparagraph (A), the Commission shall promptly procure the services of an actuary, who shall hold membership in the American Academy of Actuaries and shall be qualified in the evaluation of pension obligations, to conduct a review in accordance with generally accepted actuarial practices and principles and to provide a report to the Commission containing the results of the review. The Commission, upon determining that the report satisfies the requirements of this paragraph, shall approve the report, with any comments it may choose to make, and submit it with any such comments to the Postal Service, the Office of Personnel Management, and Congress.
 
 "(2)
 
@@ -334,5 +334,5 @@ Section 3 of Pub. L. 89–737, Nov. 2, 1966, 80 Stat. 1164, which provided that 
 
 #### Redemption of Obligations Held Prior to Oct. 4, 1961; Reinvestment of Proceeds
 
-Pub. L. 87–350, §1(b) Oct. 4, 1961, 75 Stat. 770, provided that: "All special issues in which the civil service retirement and disability fund is invested in accordance with section 17(d) of the Civil Service Retirement Act \[subsecs. (d) and (e) of this section\] as in effect prior to the enactment of this Act \[Oct. 4, 1961\] shall be redeemed and the moneys reinvested by the Secretary of the Treasury, as nearly as may be practicable, in equal annual amounts over the period of ten calendar years beginning with the calendar year 1962, in accordance with such section 17(d), as amended by subsection (a) of this section."
+Pub. L. 87–350, §1(b) Oct. 4, 1961, 75 Stat. 770, provided that all special issues in which the civil service retirement and disability fund was invested in accordance with subsecs. (d) and (e) of this section before Oct. 4, 1961, were to be redeemed and the moneys reinvested by the Secretary of the Treasury in equal annual amounts over the period of ten calendar years beginning with the calendar year 1962.
 

@@ -16,7 +16,7 @@ The notice instituting proceedings pursuant to subsection (a) shall fix a hearin
 
 #### (2) Applicability
 
-&emsp;This subsection shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, ortransfer agent, or is, or was at the time of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
+&emsp;This subsection shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, or transfer agent, or is, or was at the time of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
 
 #### (d) Review of temporary orders
 

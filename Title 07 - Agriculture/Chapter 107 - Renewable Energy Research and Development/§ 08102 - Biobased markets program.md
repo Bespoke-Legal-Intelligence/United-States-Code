@@ -88,7 +88,7 @@
 
 &emsp;&emsp;The guidelines under this paragraph shall—
 
-&emsp;&emsp;&emsp;(i) designate those items (including finished products) that are or can be produced with biobased products (including biobasedproducts for which there is only a single product or manufacturer in the category) that will be subject to the preference described in paragraph (2);
+&emsp;&emsp;&emsp;(i) designate those items (including finished products) that are or can be produced with biobased products (including biobased products for which there is only a single product or manufacturer in the category) that will be subject to the preference described in paragraph (2);
 
 &emsp;&emsp;&emsp;(ii) designate those intermediate ingredients and feedstocks that are or can be used to produce items that will be subject to the preference described in paragraph (2);
 
@@ -162,7 +162,7 @@
 
 #### (C) Procurement subject to other law
 
-&emsp;&emsp;Any procurement by any Federal agency that is subject to regulations of the Administrator under section 6962 of title 42 shall not be subject to the requirements of thissection to the extent that the requirements are inconsistent with the regulations.
+&emsp;&emsp;Any procurement by any Federal agency that is subject to regulations of the Administrator under section 6962 of title 42 shall not be subject to the requirements of this section to the extent that the requirements are inconsistent with the regulations.
 
 #### (b) Labeling
 
@@ -208,7 +208,7 @@
 
 #### (4) Assembled and finished products
 
-&emsp;Not later than 1 year after February 7, 2014, the Secretary shall begin issuing criteria for determining which assembled and finished products may qualify to receive the label under paragraph (1).
+&emsp;Not later than 1 year after February 7, 2014, the Secretary shall begin issuing criteria fordetermining which assembled and finished products may qualify to receive the label under paragraph (1).
 
 #### (c) Recognition
 
@@ -460,7 +460,7 @@ Sec. 6. <i>Jobs Creation Research</i>. Biobased products are creating jobs acros
 
 Sec. 7. <i>Education and Outreach</i>. In compliance with the 2002 Farm Bill, several agencies established agency promotion programs to support the biobased products procurement preference. The Federal Acquisition Institute has added biobased procurement training to its course offerings. To assure both formal and informal educational and outreach instruction on the BioPreferred program are in place and being implemented by each agency, I direct:
 
-(a) the Secretary of Agriculture to update all existing USDA BioPreferred and related sustainable acquisition training materials within 1 year of the date of this memorandum;
+(a) the Secretary of Agriculture to update all existing USDA BioPreferred and related sustainable acquisitiontraining materials within 1 year of the date of this memorandum;
 
 (b) the Senior Sustainability Officers and Chief Acquisition Officers of agencies to work cooperatively with the Secretary of Agriculture to immediately implement such BioPreferred program agency education and outreach programs as are necessary to meet the requirements of this memorandum and relevant statutes; and
 

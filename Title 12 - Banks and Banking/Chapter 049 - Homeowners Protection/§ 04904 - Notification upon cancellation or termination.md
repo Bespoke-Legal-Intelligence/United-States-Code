@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 30 days after the date of cancellation or termination of a private mortgageinsurance requirement in accordance with this chapter, the servicer shall notify the mortgagor in writing—
+Not later than 30 days after the date of cancellation or termination of a private mortgage insurance requirement in accordance with this chapter, the servicer shall notify the mortgagor in writing—
 
 &emsp;(1) that the private mortgage insurance has terminated and that the mortgagor no longer has private mortgage insurance; and
 

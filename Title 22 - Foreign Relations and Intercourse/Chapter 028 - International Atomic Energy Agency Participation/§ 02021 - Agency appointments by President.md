@@ -46,7 +46,7 @@ Pub. L. 85–177, §1, Aug. 28, 1957, 71 Stat. 453, provided that: "This Act \[e
 
 #### Reporting Requirements
 
-Pub. L. 107–228, div. B, title XIII, §1344, Sept. 30, 2002, 116 Stat. 1452, required the Secretary of State to submit to Congress, beginning no later than 180 days after Sept. 30, 2002, and for five years thereafter, reports concerning assistance, nuclear materials and technology given by the International Atomic Energy Agency to Iran, Iranians in leadership positions at the Agency, the expected timeframe for the completion of the nuclear power reactors at the Bushehr nuclear power plant, and certain information on all programs and projects of the International Atomic Energy Agency in each country described in section 2227(a) of the title.
+Pub. L. 107–228, div. B, title XIII, §1344, Sept. 30, 2002, 116 Stat. 1452, required the Secretary of State to submitto Congress, beginning no later than 180 days after Sept. 30, 2002, and for five years thereafter, reports concerning assistance, nuclear materials and technology given by the International Atomic Energy Agency to Iran, Iranians in leadership positions at the Agency, the expected timeframe for the completion of the nuclear power reactors at the Bushehr nuclear power plant, and certain information on all programs and projects of the International Atomic Energy Agency in each country described in section 2227(a) of the title.
 
 #### Opposition to Certain Programs or Projects; Reporting Requirements
 

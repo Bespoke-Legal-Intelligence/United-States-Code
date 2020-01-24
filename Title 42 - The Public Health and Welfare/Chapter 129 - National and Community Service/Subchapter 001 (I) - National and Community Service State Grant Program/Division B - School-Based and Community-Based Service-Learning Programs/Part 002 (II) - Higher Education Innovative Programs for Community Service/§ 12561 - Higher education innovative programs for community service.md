@@ -6,7 +6,7 @@ It is the purpose of this part to expand participation in community service by s
 
 #### (b) General authority
 
-The Corporation, in consultation with the Secretary of Education, is authorized to make grants to, and enter into contracts with, institutions of higher education (including a consortium of such institutions), and partnershipscomprised of such institutions and of other public or private nonprofit organizations, to pay for the Federal share of the cost of—
+The Corporation, in consultation with the Secretary of Education, is authorized to make grants to, and enter into contracts with, institutions of higher education (including a consortium of such institutions), and partnerships comprised of such institutions and of other public or private nonprofit organizations, to pay for the Federal share of the cost of—
 
 &emsp;(1) enabling such an institution or partnership to create or expand an organized community service program that—
 

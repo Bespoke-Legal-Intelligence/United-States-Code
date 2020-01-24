@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is hereby established in the Treasury of the United States a trust fund to be known as the "Harbor Maintenance Trust Fund", consisting of such amounts as may be—
+There is hereby established in the Treasury of the United States a trust fund to be known asthe "Harbor Maintenance Trust Fund", consisting of such amounts as may be—
 
 &emsp;(1) appropriated to the Harbor Maintenance Trust Fund as provided in this section,
 

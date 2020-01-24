@@ -66,7 +66,7 @@ The Secretary of the Treasury, in consultation with the Administrator, shall pre
 
 #### References in Text
 
-The Plant Protection Act, referred to in subsec. (c)(4)(A), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+The Plant Protection Act, referred to in subsec. (c)(4)(A), is title IV of Pub. L. 106–224, June 20, 2000, 114Stat. 438, which is classified principally to chapter 104 (§7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
 The Federal Seed Act, referred to in subsec. (c)(4)(B), is act Aug. 9, 1939, ch. 615, 53 Stat. 1275, which is classified generally to chapter 37 (§1551 et seq.) of this title. For complete classification of this Act to the Code, see section 1551 of this title and Tables.
 

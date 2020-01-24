@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to promulgate regulations to require marking or recordkeepingthat the Secretary determines will contribute significantly to the ability of the Secretary to ensure compliance with the prohibitions of section 4910 of this title, for—
+The Secretary is authorized to promulgate regulations to require marking or recordkeeping that the Secretary determines will contribute significantly to the ability of the Secretary to ensure compliance with the prohibitions of section 4910 of this title, for—
 
 &emsp;(1) any exotic bird that is imported after October 23, 1992; or
 

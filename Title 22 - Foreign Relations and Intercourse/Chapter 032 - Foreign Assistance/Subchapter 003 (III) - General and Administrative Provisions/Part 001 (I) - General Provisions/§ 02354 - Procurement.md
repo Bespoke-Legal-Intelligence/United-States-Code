@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(I) to meet unforeseen circumstances, such as emergency situations, where it is important to permit procurement in a country not specified in subparagraph (A); or
 
-&emsp;&emsp;&emsp;(II) to promote efficiency in the use of United States foreign assistance resources, including to avoid impairment of foreign assistance objectives.
+&emsp;&emsp;&emsp;(II) to promote efficiency in the use of United States foreign assistance resources,including to avoid impairment of foreign assistance objectives.
 
 (2) For purposes of this subsection, the term "developing countries" shall not include advanced developing countries.
 
@@ -36,7 +36,7 @@ No funds made available under this chapter shall be used for the procurement of 
 
 #### (f) Commodity eligibility
 
-No funds authorized to be made available to carry out subchapter I of this chapter shall be used under any commodity import program to make any payment to a supplier unless the supplier has certified to the agency primarily responsible for administering such subchapter I,such information as such agency shall by regulation prescribe, including but not limited to, a description of the commodity supplied by him and its condition, and, on the basis of such information such agency shall have approved such commodity as eligible and suitable for financing under this chapter.
+No funds authorized to be made available to carry out subchapter I of this chapter shall be used under any commodity import program to make any payment to a supplier unless the supplier has certified to the agency primarily responsible for administering such subchapter I, such information as such agency shall by regulation prescribe, including but not limited to, a description of the commodity supplied by him and its condition, and, on the basis of such information such agency shall have approved such commodity as eligible and suitable for financing under this chapter.
 
 #### (g) Construction or engineering services; applicability to advanced developing country
 

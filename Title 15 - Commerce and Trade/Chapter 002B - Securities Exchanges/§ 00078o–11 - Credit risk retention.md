@@ -126,7 +126,7 @@ In determining how to allocate risk retention obligations between a securitizer 
 
 #### (B) Other Federal programs
 
-&emsp;&emsp;This section shall not apply to any residential, multifamily, or health care facility mortgage loan asset, or securitization based directly or indirectly on such an asset, which is insured or guaranteed by the United States or an agency of the United States. For purposes of this subsection, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the Federal home loan banks shall not be considered an agency of the United States.
+&emsp;&emsp;This section shall not apply to any residential, multifamily, or health care facilitymortgage loan asset, or securitization based directly or indirectly on such an asset, which is insured or guaranteed by the United States or an agency of the United States. For purposes of this subsection, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the Federal home loan banks shall not be considered an agency of the United States.
 
 #### (4) Exemption for qualified residential mortgages
 
@@ -196,7 +196,7 @@ The regulations issued under this section shall become effective—
 
 The Securities Act of 1933, referred to in subsec. (c)(1)(G)(iii), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-Section 129C(c)(2) of the Truth in Lending Act, as amended by the Consumer Financial Protection Act of 2010, referred to in subsec. (e)(4)(C), probably means section 129C(b)(2) of Pub. L. 90–321, as amended by title X of Pub. L. 111–203, which defines "qualified mortgage" and is classified to section 1639c(b)(2) of this title.
+Section 129C(c)(2) of the Truth in Lending Act, as amended by the Consumer Financial Protection Act of 2010, referred to in subsec. (e)(4)(C), probably meanssection 129C(b)(2) of Pub. L. 90–321, as amended by title X of Pub. L. 111–203, which defines "qualified mortgage" and is classified to section 1639c(b)(2) of this title.
 
 #### Effective Date
 

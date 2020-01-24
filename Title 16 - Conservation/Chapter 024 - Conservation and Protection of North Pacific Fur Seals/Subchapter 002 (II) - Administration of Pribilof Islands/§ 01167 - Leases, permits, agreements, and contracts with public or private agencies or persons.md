@@ -6,5 +6,5 @@ The Secretary is authorized to enter into agreements or contracts or leases with
 
 #### Amendments
 
-<b>1983</b>—Pub. L. 98–129 amended section generally, substituting provisions authorizing the Secretary to enter into agreements or contracts or leases with, or to issue permits to, any public or private agency or person for carrying out the provisions of the Convention or this chapter for provisions which had set a fine of not more than $500 or imprisonment for not more than six months, or both, for violating regulations of the Secretary relating to the use and management of the Pribilof Islands or the protection or conservation of fur seals, wildlife, or other natural resources.
+<b>1983</b>—Pub. L. 98–129 amended section generally, substituting provisions authorizing the Secretary to enterinto agreements or contracts or leases with, or to issue permits to, any public or private agency or person for carrying out the provisions of the Convention or this chapter for provisions which had set a fine of not more than $500 or imprisonment for not more than six months, or both, for violating regulations of the Secretary relating to the use and management of the Pribilof Islands or the protection or conservation of fur seals, wildlife, or other natural resources.
 

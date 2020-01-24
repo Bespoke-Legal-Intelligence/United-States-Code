@@ -12,7 +12,7 @@ The Congress finds and declares that:
 
 &emsp;(5) Industrial and technological innovation in the United States may be lagging when compared to historical patterns and other industrialized nations.
 
-&emsp;(6) Increased industrial and technological innovation would reduce trade deficits, stabilize the dollar, increase productivity gains, increase employment, and stabilize prices.
+&emsp;(6) Increased industrial and technological innovation would reduce trade deficits, stabilizethe dollar, increase productivity gains, increase employment, and stabilize prices.
 
 &emsp;(7) Government antitrust, economic, trade, patent, procurement, regulatory, research and development, and tax policies have significant impacts upon industrial innovation and development of technology, but there is insufficient knowledge of their effects in particular sectors of the economy.
 
@@ -378,7 +378,7 @@ Issues.—The Commission shall address the following issues:
 
 &emsp;"(5) Should Federal Government procurement practices include cooperative efforts between the supplier and the Federal entity to develop products so as to be more easily marketed on a commercial basis? Should a program for the exchange of technical personnel to foster innovation in product development be part of such practices?
 
-&emsp;"(6) To what extent, if any, should Federal Government documents specify standards that are beneficial to domestic suppliers, aid the compatibility of advanced technologies, and speed the commercial acceptance of those technologies, and what would be the role of the Institute in such an effort?
+&emsp;"(6) To what extent, if any, should Federal Government documents specify standards that are beneficialto domestic suppliers, aid the compatibility of advanced technologies, and speed the commercial acceptance of those technologies, and what would be the role of the Institute in such an effort?
 
 &emsp;"(7) Should Federal Government procurement be linked to the Advanced Technology Program and to technology transfer activities so that specification development can incorporate the latest technical advances available?
 

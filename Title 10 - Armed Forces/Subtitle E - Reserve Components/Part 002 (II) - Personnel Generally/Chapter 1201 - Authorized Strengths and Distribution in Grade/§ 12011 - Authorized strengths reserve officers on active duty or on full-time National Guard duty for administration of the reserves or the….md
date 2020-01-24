@@ -51,26 +51,29 @@ Limitations.—(1) Of the total number of members of a reserve component who are
 | 2,100 | 132 | 94 | 30&nbsp;&nbsp; |
 | 2,200 | 134 | 97 | 31&nbsp;&nbsp; |
 | 2,300 | 136 | 100 | 32&nbsp;&nbsp; |
-| 2,400 | 138 | 103 | 33&nbsp;&nbsp; |
-| 2,500 | 140 | 106 | 34&nbsp;&nbsp; |
-| 2,600 | 142 | 109 | 35&nbsp;&nbsp; |
+| 2,400 | 143 | 105 | 34&nbsp;&nbsp; |
+| 2,500 | 149 | 109 | 35&nbsp;&nbsp; |
+| 2,600 | 155 | 113 | 36&nbsp;&nbsp; |
+| 2,700 | 161 | 118 | 37&nbsp;&nbsp; |
+| 2,800 | 167 | 122 | 39&nbsp;&nbsp; |
+| 2,900 | 173 | 126 | 41&nbsp;&nbsp; |
+| 3,000 | 179 | 130 | 42&nbsp;&nbsp; |
 | &nbsp; |  |  |  |
-| Air Force Reserve: |  |  |  |
-| 500 | 83 | 85 | 50&nbsp;&nbsp; |
-| 1,000 | 155 | 165 | 95&nbsp;&nbsp; |
-| 1,500 | 220 | 240 | 135&nbsp;&nbsp; |
-| 2,000 | 285 | 310 | 170&nbsp;&nbsp; |
-| 2,500 | 350 | 369 | 203&nbsp;&nbsp; |
-| 3,000 | 413 | 420 | 220&nbsp;&nbsp; |
-| 3,500 | 473 | 464 | 230&nbsp;&nbsp; |
-| 4,000 | 530 | 500 | 240&nbsp;&nbsp; |
-| 4,500 | 585 | 529 | 247&nbsp;&nbsp; |
-| 5,000 | 638 | 550 | 254&nbsp;&nbsp; |
-| 5,500 | 688 | 565 | 261&nbsp;&nbsp; |
-| 6,000 | 735 | 575 | 268&nbsp;&nbsp; |
-| 7,000 | 770 | 595 | 280&nbsp;&nbsp; |
-| 8,000 | 805 | 615 | 290&nbsp;&nbsp; |
-| 10,000 | 835 | 635 | 300&nbsp;&nbsp; |
+| Air Force Reserve |  |  |  |
+| 1,000 | 166 | 170 | 100&nbsp;&nbsp; |
+| 1,500 | 245 | 251 | 143&nbsp;&nbsp; |
+| 2,000 | 322 | 330 | 182&nbsp;&nbsp; |
+| 2,500 | 396 | 406 | 216&nbsp;&nbsp; |
+| 3,000 | 467 | 479 | 246&nbsp;&nbsp; |
+| 3,500 | 536 | 550 | 271&nbsp;&nbsp; |
+| 4,000 | 602 | 618 | 292&nbsp;&nbsp; |
+| 4,500 | 665 | 683 | 308&nbsp;&nbsp; |
+| 5,000 | 726 | 746 | 320&nbsp;&nbsp; |
+| 5,500 | 784 | 806 | 325&nbsp;&nbsp; |
+| 6,000 | 840 | 864 | 327&nbsp;&nbsp; |
+| 7,000 | 962 | 990 | 347&nbsp;&nbsp; |
+| 8,000 | 1,087 | 1,110 | 356&nbsp;&nbsp; |
+| 10,000 | 1,322 | 1,362 | 395&nbsp;&nbsp; |
 | &nbsp; |  |  |  |
 | Air National Guard: |  |  |  |
 | 10,000 | 763 | 745 | 333&nbsp;&nbsp; |
@@ -119,7 +122,7 @@ Determinations by Interpolation.—If the total number of members of a reserve c
 
 (c)
 
-Reallocations to Lower Grades.—Whenever the number of officers serving in any grade for duty described in subsection (a) is less than the number authorized for that grade under thissection, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
+Reallocations to Lower Grades.—Whenever the number of officers serving in any gradefor duty described in subsection (a) is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
 
 (d)
 
@@ -137,9 +140,11 @@ Full-Time Reserve Component Duty Defined.—In this section, the term "full-time
 
 &emsp;(3) Active duty described in section 708 of title 32.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844, §524; amended Pub. L. 97–86, title V, §503(b), Dec. 1, 1981, 95 Stat. 1108; Pub. L. 97–252, title V, §503(b), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(b), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(b), 414(a)(4)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2518, 2519; Pub. L. 99–145, title IV, §413(b), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(b), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(b), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(b), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(b), Nov. 30, 1993, 107 Stat. 1642; renumbered §12011 and amended Pub. L. 103–337, div. A, title XVI, §1662(a)(2), Oct. 5, 1994, 108 Stat. 2988; Pub. L. 104–106, div. A, title IV, §414(a), Feb. 10, 1996, 110 Stat. 288; Pub. L. 105–261, div. A, title IV, §414(a), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(a), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(a), 421(b), 424(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(a), Dec. 28, 2001, 115 Stat. 1070; Pub. L. 108–375, div. A, title IV, §416(h), Oct. 28, 2004, 118 Stat. 1869; Pub. L. 109–163, div. A, title V, §515(b)(1)(HH), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–417, \[div. A\], title V, §512(a), (b), Oct. 14, 2008, 122 Stat. 4439, 4440; Pub. L. 115–232, div. A, title V, §515(a), Aug. 13, 2018, 132 Stat. 1752.)
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844, §524; amended Pub. L. 97–86, title V, §503(b), Dec. 1, 1981, 95 Stat. 1108; Pub. L. 97–252, title V, §503(b), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(b), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(b), 414(a)(4)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2518, 2519; Pub. L. 99–145, title IV, §413(b), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(b), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(b), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(b), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(b), Nov. 30, 1993, 107 Stat. 1642; renumbered §12011 and amended Pub. L. 103–337, div. A, title XVI, §1662(a)(2), Oct. 5, 1994, 108 Stat. 2988; Pub. L. 104–106, div. A, title IV, §414(a), Feb. 10, 1996, 110 Stat. 288; Pub. L. 105–261, div. A, title IV, §414(a), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(a), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(a), 421(b), 424(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(a), Dec. 28, 2001, 115 Stat. 1070; Pub. L. 108–375, div. A, title IV, §416(h), Oct. 28, 2004, 118 Stat. 1869; Pub. L. 109–163, div. A, title V, §515(b)(1)(HH), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–417, \[div. A\], title V, §512(a), (b), Oct. 14, 2008, 122 Stat. 4439, 4440; Pub. L. 115–232, div. A, title V, §515(a), Aug. 13, 2018, 132 Stat. 1752; Pub. L. 116–92, div. A, title IV, §§415(a), 416(a), Dec. 20, 2019, 133 Stat. 1337, 1338.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(1). Pub. L. 116–92 inserted sections of table relating to the Marine Corps Reserve and Air Force Reserve and struck out corresponding former sections.
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–232 inserted section of table relating to the Air National Guard and struck out corresponding former section.
 
@@ -165,7 +170,7 @@ Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title IV, §421(b)\], added su
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title IV, §424(a)\], added subsec. (d).
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–65 amended table generally, increasing the fiscal year limitation on number of reserve officers in the Army in grade of Major or Lieutenant Commander from 3,219 to 3,227, in grade of Lieutenant Colonel or Commander from 1,524 to 1,611, and in grade of Colonel or Navy Captain from 438 to 471, and in the Air Force in grade of Major or Lieutenant Commander from 791 to 860 and in grade of Lieutenant Colonel or Commander from 713 to 777.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65 amended table generally, increasing the fiscal year limitation on number of reserve officers in the Army in grade of Major or Lieutenant Commander from 3,219 to 3,227, in grade of Lieutenant Colonel or Commander from 1,524 to 1,611, and in grade of Colonel or Navy Captain from 438 to 471, andin the Air Force in grade of Major or Lieutenant Commander from 791 to 860 and in grade of Lieutenant Colonel or Commander from 713 to 777.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–261, in table, increased fiscal year limitation on number of reserve officers in the Army in grade of Colonel or Navy Captain from 412 to 438 and in the Air Force in grade of Major or Lieutenant Commander from 643 to 791, in grade of Lieutenant Colonel or Commander from 672 to 713, and in grade of Colonel or Navy Captain from 274 to 297.
 
@@ -198,6 +203,10 @@ Pub. L. 98–525, §413(b), increased fiscal year limitation on number of reserv
 <b>1982</b>—Subsec. (a). Pub. L. 97–252 increased numbers in columns headed "Army", "Air Force", and "Marine Corps" from 1,105, 189, and 51 in line for major or lieutenant commander to 1,351, 281, and 95, respectively, from 551, 194, and 35 in line for lieutenant colonel or commander to 671, 267, and 40, respectively, and from 171, 147, and 19 in line for colonel or Navy captain to 234, 170, and 21, respectively.
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–86 increased numbers in columns headed "Army" and "Air Force" from 821 and 170 in line for major or lieutenant commander to 1,105 and 189, respectively, from 503 and 183 in line for lieutenant colonel or commander to 551 and 194, respectively, and from 163 and 146 in line for colonel or Navy captain to 171 and 147, respectively.
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–92, div. A, title IV, §416(b), Dec. 20, 2019, 133 Stat. 1338, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2019, and shall apply with respect to fiscal years beginning on or after that date."
 
 #### Effective Date of 2000 Amendment
 

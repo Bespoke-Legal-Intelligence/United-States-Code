@@ -4,7 +4,7 @@
 
 #### (1) Violations
 
-&emsp;Whenever on the basis of any information the Administrator determines that any person has violated, or is in violation of, any requirement or prohibition in effect under this subchapter (including any requirement or prohibition in effect under regulations under this subchapter) (A) the Administrator may issue an order (i) assessing a civil penalty for any past or current violation, (ii) requiring compliance immediately or within a specified time period, or (iii) both, or (B) the Administrator may commence a civil action in the United Statesdistrict court in the district in which the violation occurred for appropriate relief, including a temporary or permanent injunction. Any order issued pursuant to this subsection shall state with reasonable specificity the nature of the violation.
+&emsp;Whenever on the basis of any information the Administrator determines that any person has violated, or is in violation of, any requirement or prohibition in effect under this subchapter (including any requirement or prohibition in effect under regulations under this subchapter) (A) the Administrator may issue an order (i) assessing a civil penalty for any past or current violation, (ii) requiring compliance immediately or within a specified time period, or (iii) both, or (B) the Administrator may commence a civil action in the United States district court in the district in which the violation occurred for appropriate relief, including a temporary or permanent injunction. Any order issued pursuant to this subsection shall state with reasonable specificity the nature of the violation.
 
 #### (2) Orders assessing penalties
 

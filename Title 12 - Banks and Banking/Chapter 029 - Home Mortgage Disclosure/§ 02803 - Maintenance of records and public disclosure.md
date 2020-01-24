@@ -116,7 +116,7 @@ The requirements of subsections (a) and (b) shall not apply with respect to mort
 
 &emsp;&emsp;&emsp;(i) credit score data described in subsection (b)(6)(I), in a manner that is consistent with the purpose described in paragraph (1)(E); and
 
-&emsp;&emsp;&emsp;(ii) age or any other category of data described in paragraph (5) or (6) of subsection (b), as the Bureau determines to be necessary to satisfy the purpose described in paragraph (1)(E), and in a manner consistent with that purpose.
+&emsp;&emsp;&emsp;(ii) age or any other category of data described in paragraph (5) or (6) of subsection (b), as the Bureau determines to be necessary to satisfy the purpose described inparagraph (1)(E), and in a manner consistent with that purpose.
 
 #### (B) Standards
 
@@ -192,7 +192,7 @@ The requirements of subsections (a) and (b) shall not apply with respect to mort
 
 #### (1) In general
 
-&emsp;In accordance with procedures established by the Bureau pursuant to this section, any depository institution required to make disclosures under this section—
+&emsp;In accordance with procedures established by the Bureau pursuant to this section, anydepository institution required to make disclosures under this section—
 
 &emsp;&emsp;(A) shall make a disclosure statement available, upon request, to the public no later than 3 business days after the institution receives the statement from the Federal Financial Institutions Examination Council; and
 
@@ -362,7 +362,7 @@ Pub. L. 102–550, title IX, §932(c), Oct. 28, 1992, 106 Stat. 3891, provided t
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–73 applicable to each calendar year beginning after Dec. 31, 1989, see section 1211(k) of Pub. L. 101–73, set out as a note under section 2802 of this title.
+Amendment by Pub. L. 101–73 applicable to each calendar year beginning after Dec. 31, 1989, see section1211(k) of Pub. L. 101–73, set out as a note under section 2802 of this title.
 
 #### Effective Date of 1988 Amendment
 

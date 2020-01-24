@@ -42,7 +42,7 @@ Prior sections 7314 to 7316 were renumbered sections 8684 to 8686 of this title,
 
 Pub. L. 115–232, §808(b)(12), renumbered section 3914 of this title as this section.
 
-<b>1994</b>—Pub. L. 103–337 struck out at end "A regular enlisted member then becomes a member of the Army Reserve. A member retired under this section shall perform such active duty as may be prescribed by lawuntil his service computed under section 3925 of this title, plus his inactive service as a member of the Army Reserve, equals 30 years."
+<b>1994</b>—Pub. L. 103–337 struck out at end "A regular enlisted member then becomes a member of the Army Reserve. A member retired under this section shall perform such active duty as may be prescribed by law until his service computed under section 3925 of this title, plus his inactive service as a member of the Army Reserve, equals 30 years."
 
 <b>1980</b>—Pub. L. 96–343 struck out "regular" before "enlisted members" in section catchline and substituted in section "an enlisted member" for "a regular enlisted member", "A regular enlisted member" for "He", and "Army Reserve. A member retired under this section" for "Army Reserve, and".
 

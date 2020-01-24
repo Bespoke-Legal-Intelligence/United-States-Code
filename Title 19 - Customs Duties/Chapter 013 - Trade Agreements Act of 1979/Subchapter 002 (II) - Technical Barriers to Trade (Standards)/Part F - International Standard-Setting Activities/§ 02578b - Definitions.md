@@ -28,7 +28,7 @@ As used in this part:
 
 &emsp;&emsp;(B) regarding animal health and zoonoses, developed under the auspices of the International Office of Epizootics;
 
-&emsp;&emsp;(C) regarding plant health, developed under the auspices of the Secretariat of theInternational Plant Protection Convention in cooperation with the North American Plant Protection Organization; or
+&emsp;&emsp;(C) regarding plant health, developed under the auspices of the Secretariat of the International Plant Protection Convention in cooperation with the North American Plant Protection Organization; or
 
 &emsp;&emsp;(D) established by or developed under any other international organization agreed to by the NAFTA countries (as defined in section 3301(4) of this title) or by the WTO members (as defined in section 3501(10) of this title).
 

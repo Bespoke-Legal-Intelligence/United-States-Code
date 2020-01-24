@@ -80,7 +80,7 @@ Development of Strategy for Increased Contracting With Nongovernmental Entities 
 
 #### Hydrographic Survey
 
-Pub. L. 106–541, title V, §554, Dec. 11, 2000, 114 Stat. 2679, provided that: "The Secretary \[of the Army\] shall enter into an agreement with the Administrator of the National Oceanic and Atmospheric Administration—
+Pub. L. 106–541, title V, §554, Dec. 11, 2000, 114 Stat. 2679, provided that: "The Secretary \[of the Army\] shallenter into an agreement with the Administrator of the National Oceanic and Atmospheric Administration—
 
 &emsp;"(1) to require the Secretary, not later than 60 days after the Corps of Engineers completes a project involving dredging of a channel, to provide data to the Administration in a standard digital format on the results of a hydrographic survey of the channel conducted by the Corps of Engineers; and
 

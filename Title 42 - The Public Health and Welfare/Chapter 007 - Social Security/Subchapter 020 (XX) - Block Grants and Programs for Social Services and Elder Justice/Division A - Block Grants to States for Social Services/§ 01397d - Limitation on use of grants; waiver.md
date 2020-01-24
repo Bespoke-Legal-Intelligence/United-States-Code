@@ -28,7 +28,7 @@
 
 (b) The Secretary may waive the limitation contained in subsection (a)(1) and (4) upon the State's request for such a waiver if he finds that the request describes extraordinary circumstances to justify the waiver and that permitting the waiver will contribute to the State's ability to carry out the purposes of this division.
 
-(Aug. 14, 1935, ch. 531, title XX, §2005, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981, 95 Stat. 869; amended Pub. L. 100–93, §8(i), Aug. 18, 1987, 101 Stat. 695; Pub. L. 100–203, title IV, §4118(e)(13), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 796; Pub. L. 100–485, title VI, §608(d)(26)(K)(ii), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 105–12, §9(c), Apr. 30, 1997, 111 Stat. 27; Pub. L. 111–148, title VI, §6703(d)(1)(B), Mar. 23, 2010, 124 Stat. 803.)
+(Aug. 14, 1935, ch. 531, title XX, §2005, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981, 95 Stat. 869; amended Pub. L. 100–93, §8(i), Aug. 18, 1987, 101 Stat. 695; Pub. L. 100–203, title IV, §4118(e)(13), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 796; Pub. L. 100–485, title VI, §608(d)(26)(K)(ii), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 105–12, §9(c), Apr. 30, 1997, 111 Stat. 27;Pub. L. 111–148, title VI, §6703(d)(1)(B), Mar. 23, 2010, 124 Stat. 803.)
 
 #### References in Text
 

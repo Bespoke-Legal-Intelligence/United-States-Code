@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) under this chapter, the Department of State is charged with the "formulation and implementation of United States arms control and disarmament policy in a manner which will promote the national security";
 
-&emsp;(2) the On-Site Inspection Agency was established in 1988 pursuant to the INF Treaty toimplement, on behalf of the United States, the inspection provisions of the INF Treaty;
+&emsp;(2) the On-Site Inspection Agency was established in 1988 pursuant to the INF Treaty to implement, on behalf of the United States, the inspection provisions of the INF Treaty;
 
 &emsp;(3) on-site inspection activities under the INF Treaty include—
 

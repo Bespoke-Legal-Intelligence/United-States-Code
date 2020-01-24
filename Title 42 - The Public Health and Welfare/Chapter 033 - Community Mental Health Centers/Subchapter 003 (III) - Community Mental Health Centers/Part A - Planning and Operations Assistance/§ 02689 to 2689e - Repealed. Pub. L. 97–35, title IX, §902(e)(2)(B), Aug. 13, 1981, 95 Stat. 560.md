@@ -1,6 +1,6 @@
 ### §§2689 to 2689e. Repealed. Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560
 
-Section 2689, Pub. L. 88–164, title II, §201, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 309; amended Pub. L. 95–622, title I, §104(a)(1), (b), (c)(1), Nov. 9, 1978, 92 Stat. 3414, 3415, set forth general requirements for community mental health centers.
+Section 2689, Pub. L. 88–164, title II, §201, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 309;amended Pub. L. 95–622, title I, §104(a)(1), (b), (c)(1), Nov. 9, 1978, 92 Stat. 3414, 3415, set forth general requirements for community mental health centers.
 
 A prior section 201 of Pub. L. 88–164, title II, was classified to section 2681 of this title.
 

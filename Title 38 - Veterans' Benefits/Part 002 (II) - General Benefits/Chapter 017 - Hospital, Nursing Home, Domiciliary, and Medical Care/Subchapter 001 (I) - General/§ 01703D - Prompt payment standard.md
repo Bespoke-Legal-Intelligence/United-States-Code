@@ -54,7 +54,7 @@ Information and Documentation Required.—(1) The Secretary shall provide to all
 
 Processing of Claims.—(1) In processing a claim for compensation for hospital care, medical services, or extended care services furnished by a non-Department health care entity or provider under this chapter, the Secretary may act through—
 
-&emsp;(A) a non-Department entity that is under contract or agreement for the program established under section 1703(a) <sup>1</sup> of this title; or
+&emsp;(A) a non-Department entity that is under contract or agreement for the program established under section 1703(a) of this title; or
 
 &emsp;(B) a non-Department entity that specializes in such processing for other Federal agency health care systems.
 
@@ -64,7 +64,7 @@ Processing of Claims.—(1) In processing a claim for compensation for hospital 
 
 &emsp;(B) a cost benefit analysis comparing the capacity of the Department to a third party entity capable of processing such claims.
 
-(3) The review required under paragraph (2) shall apply to claims for hospital care, medical services, or extended care services furnished under section 1703 <sup>1</sup> of this title that are processed by the Department.
+(3) The review required under paragraph (2) shall apply to claims for hospital care, medical services, or extended care services furnished under section 1703 of this title that are processed by the Department.
 
 (h)
 
@@ -94,8 +94,6 @@ Definitions.—In this section:
 
 #### References in Text
 
-Section 1703 of this title, referred to in subsec. (g)(1)(A), (3), probably means section 1703 of this title as amended by Pub. L. 115–182, title I, §101(a)(1), June 6, 2018, 132 Stat. 1395, which takes effect on the date specified in section 101(b) of Pub. L. 115–182. See Amendment of Section and Effective Date of 2018 Amendment notes set out under section 1703 of this title.
-
 The date of the enactment of the Caring for Our Veterans Act of 2018, referred to in subsec. (h), is the date of enactment of Pub. L. 115–182, which was approved June 6, 2018.
 
 #### Amendments
@@ -107,6 +105,4 @@ Subsec. (g)(3). Pub. L. 115–251, §211(a)(5), substituted "of this title" for 
 #### Processing of Claims for Reimbursement Through Electronic Interface
 
 Pub. L. 115–182, title I, §114, June 6, 2018, 132 Stat. 1423, provided that: "The Secretary of Veterans Affairs may enter into an agreement with a third-party entity to process, through the use of an electronic interface, claims for reimbursement for health care provided under the laws administered by the Secretary."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

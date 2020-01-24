@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) provide balanced funding for prevention activities for sexual transmission of HIV/AIDS; and
 
-&emsp;&emsp;(B) ensure that activities promoting abstinence, delay of sexual debut, monogamy, fidelity, and partner reduction are implemented and funded in a meaningful and equitable way in the strategy for each host country based on objective epidemiological evidence as to the source of infections and in consultation with the government of each host county <sup>1</sup> involved in HIV/AIDS prevention activities.
+&emsp;&emsp;(B) ensure that activities promoting abstinence, delay of sexual debut, monogamy, fidelity, and partner reduction are implemented and funded in a meaningful and equitable way in the strategy for each host country based on objective epidemiological evidence as to the source of infections and in consultation with the government of eachhost county <sup>1</sup> involved in HIV/AIDS prevention activities.
 
 #### (2) Prevention strategy
 
@@ -56,7 +56,7 @@ For each of the fiscal years 2009 through 2013—
 
 &emsp;(1) the treatment goal under section 7672(a)(3) of this title shall be increased above 2,000,000 by at least the percentage increase in the amount appropriated for bilateral global HIV/AIDS assistance for such fiscal year compared with fiscal year 2008;
 
-&emsp;(2) any increase in the treatment goal under section 7672(a)(3) of this title above the percentage increase in the amount appropriated for bilateral global HIV/AIDS assistance for such fiscal year compared with fiscal year 2008 shall be based on long-term requirements, epidemiological evidence, the share of treatmentneeds being met by partner governments and other sources of treatment funding, and other appropriate factors;
+&emsp;(2) any increase in the treatment goal under section 7672(a)(3) of this title above the percentage increase in the amount appropriated for bilateral global HIV/AIDS assistance for such fiscal year compared with fiscal year 2008 shall be based on long-term requirements, epidemiological evidence, the share of treatment needs being met by partner governments and other sources of treatment funding, and other appropriate factors;
 
 &emsp;(3) the treatment goal under section 7672(a)(3) of this title shall be increased above the number calculated under paragraph (1) by the same percentage that the average United States Government cost per patient of providing treatment in countries receiving bilateral HIV/AIDS assistance has decreased compared with fiscal year 2008; and
 

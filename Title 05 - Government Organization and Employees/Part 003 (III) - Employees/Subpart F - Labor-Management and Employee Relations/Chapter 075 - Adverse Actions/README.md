@@ -82,7 +82,7 @@ Sec. 2. <i>Principles for Accountability in the Federal Workforce</i>. (a) Remov
 
 (e) When taking disciplinary action, agencies should have discretion to take into account an employee's disciplinary record and past work record, including all past misconduct -- not only similar past misconduct. Agencies should provide an employee with appropriate notice when taking a disciplinary action.
 
-(f) To the extent practicable, agencies should issue decisions on proposed removals taken under chapter 75 of title 5, United States Code \[5 U.S.C. 7501 et seq.\], within 15 business days of the end of the employee reply period following a notice of proposed removal.
+(f) To the extent practicable, agencies should issue decisions on proposed removals taken under chapter 75of title 5, United States Code \[5 U.S.C. 7501 et seq.\], within 15 business days of the end of the employee reply period following a notice of proposed removal.
 
 (g) To the extent practicable, agencies should limit the written notice of adverse action to the 30 days prescribed in section 7513(b)(1) of title 5, United States Code.
 
@@ -92,7 +92,7 @@ Sec. 2. <i>Principles for Accountability in the Federal Workforce</i>. (a) Remov
 
 (j) Following issuance of regulations under section 7 of this order, agencies should prioritize performance over length of service when determining which employees will be retained following a reduction in force.
 
-Sec. 3. <i>Standard for Negotiating Grievance Procedures</i>. Whenever reasonable in view of the particular circumstances, agency heads shall endeavor to exclude from the application of any grievance procedures negotiatedunder section 7121 of title 5, United States Code, any dispute concerning decisions to remove any employee from Federal service for misconduct or unacceptable performance. Each agency shall commit the time and resources necessary to achieve this goal and to fulfill its obligation to bargain in good faith. If an agreement cannot be reached, the agency shall, to the extent permitted by law, promptly request the assistance of the Federal Mediation and Conciliation Service and, as necessary, the Federal Service Impasses Panel in the resolution of the disagreement. Within 30 days after the adoption of any collective bargaining agreement that fails to achieve this goal, the agency head shall provide an explanation to the President, through the Director of the Office of Personnel Management (OPM Director).
+Sec. 3. <i>Standard for Negotiating Grievance Procedures</i>. Whenever reasonable in view of the particular circumstances, agency heads shall endeavor to exclude from the application of any grievance procedures negotiated under section 7121 of title 5, United States Code, any dispute concerning decisions to remove any employee from Federal service for misconduct or unacceptable performance. Each agency shall commit the time and resources necessary to achieve this goal and to fulfill its obligation to bargain in good faith. If an agreement cannot be reached, the agency shall, to the extent permitted by law, promptly request the assistance of the Federal Mediation and Conciliation Service and, as necessary, the Federal Service Impasses Panel in the resolution of the disagreement. Within 30 days after the adoption of any collective bargaining agreement that fails to achieve this goal, the agency head shall provide an explanation to the President, through the Director of the Office of Personnel Management (OPM Director).
 
 Sec. 4. <i>Managing the Federal Workforce</i>. To promote good morale in the Federal workforce, employee accountability, and high performance, and to ensure the effective and efficient accomplishment of agency missions and the efficiency of the Federal service, to the extent consistent with law, no agency shall:
 
@@ -144,7 +144,7 @@ Sec. 7. <i>Implementation</i>. (a) Within 45 days of the date of this order, the
 
 (i) within 45 days of this order, revise its discipline and unacceptable performance policies to conform to the principles and requirements of this order, in areas where new final Office of Personnel Management (OPM) regulations are not required, and shall further revise such policies as necessary to conform to any new final OPM regulations, within 45 days of the issuance of such regulations; and
 
-(ii) renegotiate, as applicable, any collective bargaining agreement provisions that are inconsistent with any part of this order or any final OPM regulations promulgated pursuant to this order. Each agency shall give any contractually required notice of its intent to alter the terms of such agreement and reopen negotiations. Each agency shall, to the extent consistent with law, subsequently conform such terms to the requirements of this order, and to any final OPM regulations issued pursuant to this order, on the earliest practicable date permitted by law.
+(ii) renegotiate, as applicable, any collective bargaining agreement provisions that are inconsistent withany part of this order or any final OPM regulations promulgated pursuant to this order. Each agency shall give any contractually required notice of its intent to alter the terms of such agreement and reopen negotiations. Each agency shall, to the extent consistent with law, subsequently conform such terms to the requirements of this order, and to any final OPM regulations issued pursuant to this order, on the earliest practicable date permitted by law.
 
 (c) Within 15 months of the adoption of any final rules issued pursuant to subsection (a) of this section, the OPM Director shall submit to the President a report, through the Director of the Office of Management and Budget, evaluating the effect of those rules, including their effect on the ability of Federal supervisors to hold employees accountable for their performance.
 
@@ -165,6 +165,8 @@ Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (e) If any provision of this order, including any of its applications, is held to be invalid, the remainder of this order and all of its other applications shall not be affected thereby.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Ex. Ord. No. 13839, set out above, construed to be amended to the extent necessary, by Memorandum of President of the United States, Oct. 11, 2019, 84 F.R. 56095, set out as a note under section 7101 of this title.\]
 
 <i><sup>1</sup></i><i> So in original. Does not conform to subchapter heading.</i>
 

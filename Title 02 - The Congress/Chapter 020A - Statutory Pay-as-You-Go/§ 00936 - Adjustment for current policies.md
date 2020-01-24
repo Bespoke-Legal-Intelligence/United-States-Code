@@ -18,7 +18,7 @@ The purpose of this section is to provide for adjustments of estimates of budget
 
 &emsp;&emsp;(C) the AMT referred to in paragraph (3); and
 
-&emsp;&emsp;(D) the income tax rates on ordinary income that apply to individuals with adjustedgross incomes greater than $200,000 for a single filer and $250,000 for joint filers.
+&emsp;&emsp;(D) the income tax rates on ordinary income that apply to individuals with adjusted gross incomes greater than $200,000 for a single filer and $250,000 for joint filers.
 
 #### (b) Duration
 
@@ -92,7 +92,7 @@ This section shall remain in effect through December 31, 2011.
 
 #### (3) Limitation
 
-&emsp;If the provisions in the legislation that cause it to meet the criteria in paragraph (1) cover a time period that ends before December31, 2011, subject to the maximum adjustment provided for under paragraph (2), the amount of each current policy adjustment made pursuant to this section shall be limited to the difference between—
+&emsp;If the provisions in the legislation that cause it to meet the criteria in paragraph (1) cover a time period that ends before December 31, 2011, subject to the maximum adjustment provided for under paragraph (2), the amount of each current policy adjustment made pursuant to this section shall be limited to the difference between—
 
 &emsp;&emsp;(A) total revenues projected to be collected under title 26 (as scheduled on December 31, 2009, to be in effect for the period of time covered by the relevant provisions of the eligible legislation); and
 
@@ -146,7 +146,7 @@ This section shall remain in effect through December 31, 2011.
 
 &emsp;&emsp;(A) total revenues projected to be collected and outlays to be paid under title 26 (as scheduled on December 31, 2009, to be in effect for the period of time covered by the relevant provisions of the eligible legislation); and
 
-&emsp;&emsp;(B) what those revenue collections and outlay payments would have been if, on the date of enactment of legislation meeting the criteria in paragraph (1), the provisions identified in paragraph (1) had been in effect,without change, for the same period of time covered by the relevant provisions of the eligible legislation as under subparagraph (A).
+&emsp;&emsp;(B) what those revenue collections and outlay payments would have been if, on the date of enactment of legislation meeting the criteria in paragraph (1), the provisions identified in paragraph (1) had been in effect, without change, for the same period of time covered by the relevant provisions of the eligible legislation as under subparagraph (A).
 
 #### (g) Indexing for inflation
 

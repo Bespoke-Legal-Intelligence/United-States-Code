@@ -8,7 +8,7 @@ Submission With Annual Budget Justification Documents.—The Secretary of Defens
 
 Requirements for Budget Display.—The budget display under subsection (a) shall include—
 
-&emsp;(1) the amount requested, by appropriation and functional area, for each of the program elements, projects, and initiatives that support the Department of Defense combatingterrorism program, with supporting narrative descriptions and rationale for the funding levels requested; and
+&emsp;(1) the amount requested, by appropriation and functional area, for each of the program elements, projects, and initiatives that support the Department of Defense combating terrorism program, with supporting narrative descriptions and rationale for the funding levels requested; and
 
 &emsp;(2) a summary, to the program element and project level of detail, of estimated expenditures for the current year, funds requested for the budget year, and budget estimates through the completion of the current future-years defense plan for the Department of Defense combating terrorism program.
 

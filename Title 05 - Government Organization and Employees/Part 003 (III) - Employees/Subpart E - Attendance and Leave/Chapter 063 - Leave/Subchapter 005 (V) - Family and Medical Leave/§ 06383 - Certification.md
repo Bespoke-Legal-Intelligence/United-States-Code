@@ -14,7 +14,7 @@
 
 &emsp;(B) for purposes of leave under section 6382(a)(1)(D), a statement that the employee is unable to perform the functions of the position of the employee; and
 
-&emsp;(5) in the case of certification for intermittent leave, or leave on a reduced leave schedule, for planned medical treatment, the dateson which such treatment is expected to be given and the duration of such treatment.
+&emsp;(5) in the case of certification for intermittent leave, or leave on a reduced leave schedule, for planned medical treatment, the dates on which such treatment is expected to be given and the duration of such treatment.
 
 (c)(1) In any case in which the employing agency has reason to doubt the validity of the certification provided under subsection (a) for leave under subparagraph (C) or (D) of section 6382(a)(1), the employing agency may require, at the expense of the agency, that the employee obtain the opinion of a second health care provider designated or approved by the employing agency concerning any information certified under subsection (b) for such leave.
 

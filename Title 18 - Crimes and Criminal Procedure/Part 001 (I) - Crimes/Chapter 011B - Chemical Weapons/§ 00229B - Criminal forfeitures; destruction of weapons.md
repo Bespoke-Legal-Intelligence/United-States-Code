@@ -18,7 +18,7 @@ Procedures.—
 
 &emsp;(1)
 
-General.—Property subject to forfeiture under this section, any seizure and disposition thereof, and any administrative or judicial proceeding in relation thereto, shall be governed by subsections (b) through (p) of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), except that any reference under those subsections to—
+General.—Property subject to forfeiture under this section, any seizure and dispositionthereof, and any administrative or judicial proceeding in relation thereto, shall be governed by subsections (b) through (p) of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), except that any reference under those subsections to—
 
 &emsp;&emsp;(A) "this subchapter or subchapter II" shall be deemed to be a reference to section 229A(a); and
 

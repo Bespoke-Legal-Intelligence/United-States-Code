@@ -32,9 +32,9 @@ Each State that receives an allotment under section 7113 of this title shall use
 
 &emsp;&emsp;&emsp;&emsp;(IV) accelerated learning programs that provide—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) postsecondary level courses accepted for credit at institutions of higher education, including dual or concurrent enrollment programs, and early college high schools; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) postsecondary level courses accepted for credit at institutions of higher education, including dual orconcurrent enrollment programs, and early college high schools; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) postsecondary level instruction and examinations that are accepted for credit at institutions of higher education, including Advanced Placementand International Baccalaureate programs;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) postsecondary level instruction and examinations that are accepted for credit at institutions of higher education, including Advanced Placement and International Baccalaureate programs;
 
 &emsp;&emsp;&emsp;&emsp;(V) American history, civics, economics, geography, social studies, or government education;
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(E) The Under Secretary of Defense for Personnel and Readiness.
 
-&emsp;&emsp;(F) The Under Secretary of Defense for Intelligence.
+&emsp;&emsp;(F) The Under Secretary of Defense for Intelligence and Security.
 
 &emsp;(4) Other officers who are appointed by the President, by and with the advice and consent of the Senate, and who report directly to the Secretary and Deputy Secretary without intervening authority, as follows:
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(E) The Director of the Office of Corrosion Policy and Oversight assigned pursuant to section 2228(a) of this title.
 
-&emsp;&emsp;(I) <sup>1</sup> The official designated under section 2438(a) of this title to have responsibility for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs.
+&emsp;&emsp;(F) The official designated under section 2438(a) of this title to have responsibility for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs.
 
 &emsp;(9) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.
 
@@ -58,13 +58,17 @@
 
 (d) The Secretary of each military department, and the civilian employees and members of the armed forces under the jurisdiction of the Secretary, shall cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
 
-(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §901(b)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 110–181, div. A, title IX, §904(a)(4), Jan. 28, 2008, 122 Stat. 274; Pub. L. 110–417, \[div. A\], title X, §1061(b)(7), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–383, div. A, title IX, §901(b)(2), (m)(1), Jan. 7, 2011, 124 Stat. 4317, 4326; Pub. L. 113–291, div. A, title IX, §901(a)(2), (b)(2), (j)(1)(A), (k)(1), (n)(1), Dec. 19, 2014, 128 Stat. 3463, 3467, 3469; Pub. L. 114–328, div. A, title IX, §§901(d), (f), 902(b), 933(a)(3), Dec. 23, 2016, 130 Stat. 2342, 2344, 2364; Pub. L. 115–91, div. A, title IX, §§906(d)(1), 910(c)(1), title X, §1081(b)(1)(A), (D), (d)(9), Dec. 12, 2017, 131 Stat. 1513, 1518, 1597, 1600; Pub. L. 115–232, div. A, title X, §1081(a)(3), (f)(1)(B), Aug. 13, 2018, 132 Stat. 1983, 1986.)
+(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §901(b)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 110–181, div. A, title IX, §904(a)(4), Jan. 28, 2008, 122 Stat. 274; Pub. L. 110–417, \[div. A\], title X, §1061(b)(7), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–383, div. A, title IX, §901(b)(2), (m)(1), Jan. 7, 2011, 124 Stat. 4317, 4326; Pub. L. 113–291, div. A, title IX, §901(a)(2), (b)(2), (j)(1)(A), (k)(1), (n)(1), Dec. 19, 2014, 128 Stat. 3463, 3467, 3469; Pub. L. 114–328, div. A, title IX, §§901(d), (f), 902(b), 933(a)(3), Dec. 23, 2016, 130 Stat. 2342, 2344, 2364; Pub. L. 115–91, div. A, title IX, §§906(d)(1), 910(c)(1), title X, §1081(b)(1)(A), (D), (d)(9), Dec. 12, 2017, 131 Stat. 1513, 1518, 1597, 1600; Pub. L. 115–232, div. A, title X, §1081(a)(3), (f)(1)(B), Aug. 13, 2018, 132 Stat. 1983, 1986; Pub. L. 116–92, div. A, title XVI, §1621(e)(1)(A)(i), title XVII, §1731(a)(7), Dec. 20, 2019, 133 Stat. 1733, 1812.)
 
 #### Prior Provisions
 
 A prior section 131 was renumbered section 111 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(3)(F). Pub. L. 116–92, §1621(e)(1)(A)(i), substituted "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence".
+
+Subsec. (b)(8)(F), (I). Pub. L. 116–92, §1731(a)(7), redesignated subpar. (I) as (F).
 
 <b>2018</b>—Subsec. (b)(4) to (9). Pub. L. 115–232, §1081(f)(1)(B), redesignated pars. (5) to (10) as (4) to (9), respectively, and struck out former par. (4) which read as follows: "The Deputy Chief Management Officer of the Department of Defense."
 
@@ -246,7 +250,7 @@ Directive.—Not later than 90 days after the submission of the oversight plan u
 
 #### Designation of Office Within Office of the Secretary of Defense To Oversee Use of Food Assistance Programs by Members of the Armed Forces on Active Duty
 
-Pub. L. 115–91, div. A, title V, §583, Dec. 12, 2017, 131 Stat. 1416, provided that: "Not later than 90 days afterthe date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall designate an office or official within the Office of the Secretary of Defense for purposes as follows:
+Pub. L. 115–91, div. A, title V, §583, Dec. 12, 2017, 131 Stat. 1416, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall designate an office or official within the Office of the Secretary of Defense for purposes as follows:
 
 &emsp;"(1) To discharge responsibility for overseeing the efforts of the Department of Defense to collect, analyze, and monitor data on the use of food assistance programs by members of the Armed Forces on active duty.
 
@@ -328,7 +332,7 @@ Covered individuals and positions.—The individuals and positions specified in 
 
 #### Defense Acquisition Workforce
 
-Pub. L. 105–85, div. A, title IX, §912(a)–(e), Nov. 18, 1997, 111 Stat. 1860, 1861, required Secretary of Defense to accomplish reductions in defense acquisition personnel positions, to report on specific acquisition positions previously eliminated, to submit an implementation plan to streamline and improve acquisition organizations, to review acquisition organizations and functions, and to require certain duties of Task Force on Defense Reform.
+Pub. L. 105–85, div. A, title IX, §912(a)–(e), Nov. 18, 1997, 111 Stat. 1860, 1861, required Secretary of Defenseto accomplish reductions in defense acquisition personnel positions, to report on specific acquisition positions previously eliminated, to submit an implementation plan to streamline and improve acquisition organizations, to review acquisition organizations and functions, and to require certain duties of Task Force on Defense Reform.
 
 #### Reduction of Personnel Assigned to Office of the Secretary of Defense
 
@@ -336,9 +340,7 @@ Pub. L. 104–201, div. A, title IX, §903, Sept. 23, 1996, 110 Stat. 2617, whic
 
 #### Organization of Office of the Secretary of Defense
 
-Pub. L. 104–106, div. A, title IX, §901, Feb. 10, 1996, 110 Stat. 399, as amended by Pub. L. 104–201, div. A, title IX, §903(g), Sept. 23, 1996, 110 Stat. 2618, directed the Secretary of Defense to conduct a review of the organizations and functions of the Office of the Secretary ofDefense and the personnel needed to carry out those functions, and to submit to the congressional defense committees a report containing findings, conclusions, and a plan for implementing recommendations not later than Mar. 1, 1996.
+Pub. L. 104–106, div. A, title IX, §901, Feb. 10, 1996, 110 Stat. 399, as amended by Pub. L. 104–201, div. A, title IX, §903(g), Sept. 23, 1996, 110 Stat. 2618, directed the Secretary of Defense to conduct a review of the organizations and functions of the Office of the Secretary of Defense and the personnel needed to carry out those functions, and to submit to the congressional defense committees a report containing findings, conclusions, and a plan for implementing recommendations not later than Mar. 1, 1996.
 
 Pub. L. 99–433, title I, §109, Oct. 1, 1986, 100 Stat. 999, directed the Secretary of Defense, the Secretaries of the military departments, and the Chairman of the Joint Chiefs of Staff to conduct studies of the functions and organization of the Office of the Secretary of Defense, required the Secretaries of the military departments and the Chairman of the Joint Chiefs of Staff to submit reports on their studies to the Secretary of Defense, and directed the Secretary of Defense to submit a report on the Secretary's study to Congress not later than one year after Oct. 1, 1986.
-
-<i><sup>1</sup></i><i> So in original. Former subpars. (F) to (H) redesignated (C) to (E), respectively.</i>
 

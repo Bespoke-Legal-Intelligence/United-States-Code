@@ -58,7 +58,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (6) Compromise or other action by Secretary
 
-&emsp;The Secretary may compromise, modify, or remit, with or without conditions, any civilpenalty which is or may be imposed under this section.
+&emsp;The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which is or may be imposed under this section.
 
 #### (e) Forfeiture
 
@@ -84,7 +84,7 @@ Any person who is authorized to enforce this chapter may—
 
 &emsp;(A) Notwithstanding any other law, amounts received by the United States as civil penalties, forfeitures of property, and costs imposed under paragraph (2) shall be retained by the Secretary in the manner provided for in section 9607(f)(1) of title 42.
 
-&emsp;(B) Amounts received under this section for forfeitures and costs imposed under paragraph (2) shall be used to pay the reasonable and necessary costs incurred by the Secretary to provide temporary storage, care, maintenance, and disposal of any sanctuary resource or other property seized in connection with a violation of this chapter or any regulation or permit issued under this chapter.
+&emsp;(B) Amounts received under this section for forfeitures and costs imposed under paragraph (2) shall be used to pay the reasonable and necessary costs incurred by the Secretary to provide temporary storage, care, maintenance, and disposal of any sanctuary resource orother property seized in connection with a violation of this chapter or any regulation or permit issued under this chapter.
 
 &emsp;(C) Amounts received under this section as civil penalties and any amounts remaining after the operation of subparagraph (B) shall be used, in order of priority, to—
 
@@ -154,7 +154,7 @@ Subsec. (e)(1). Pub. L. 102–587, §2107(c), added par. (1) and struck out form
 
 In general.—Notwithstanding any other law, the Secretary may use amounts received under this section in the form of civil penalties, forfeitures of property, and costs imposed under paragraph (2) to pay—
 
-&emsp;"(A) the reasonable and necessary costs incurred by the Secretary in providing temporary storage, care, and maintenance of any sanctuary resource or other property seized under this section pending disposition of any civil proceeding relating to any alleged violation with respect to which such property or sanctuary resource was seized; and
+&emsp;"(A) the reasonable and necessary costs incurred by the Secretary in providing temporary storage, care,and maintenance of any sanctuary resource or other property seized under this section pending disposition of any civil proceeding relating to any alleged violation with respect to which such property or sanctuary resource was seized; and
 
 &emsp;"(B) a reward to any person who furnishes information leading to an assessment of a civil penalty, or to a forfeiture of property, for a violation of this chapter or of any regulation or permit issued under this chapter."
 

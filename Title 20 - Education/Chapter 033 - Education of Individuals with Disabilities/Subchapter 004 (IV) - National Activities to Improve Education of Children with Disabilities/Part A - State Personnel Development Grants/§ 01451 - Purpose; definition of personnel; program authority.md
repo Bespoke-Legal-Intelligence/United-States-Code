@@ -6,7 +6,7 @@ The purpose of this part is to assist State educational agencies in reforming an
 
 #### (b) Definition of personnel
 
-In this part the term "personnel" means special education teachers, regular education teachers, principals, administrators, relatedservices personnel, paraprofessionals, and early intervention personnel serving infants, toddlers, preschoolers, or children with disabilities, except where a particular category of personnel, such as related services personnel, is identified.
+In this part the term "personnel" means special education teachers, regular education teachers, principals, administrators, related services personnel, paraprofessionals, and early intervention personnel serving infants, toddlers, preschoolers, or children with disabilities, except where a particular category of personnel, such as related services personnel, is identified.
 
 #### (c) Competitive grants
 
@@ -86,7 +86,7 @@ In this part the term "personnel" means special education teachers, regular educ
 
 #### (2) Prohibition
 
-&emsp;A State educational agency that receives a continuation award under paragraph (1) forany fiscal year may not receive any other award under this part for that fiscal year.
+&emsp;A State educational agency that receives a continuation award under paragraph (1) for any fiscal year may not receive any other award under this part for that fiscal year.
 
 (Pub. L. 91–230, title VI, §651, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2765; amended Pub. L. 114–95, title IX, §9215(ss)(6), Dec. 10, 2015, 129 Stat. 2183.)
 

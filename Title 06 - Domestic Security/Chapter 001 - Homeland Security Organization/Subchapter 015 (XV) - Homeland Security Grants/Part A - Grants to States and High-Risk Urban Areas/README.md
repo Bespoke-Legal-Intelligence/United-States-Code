@@ -12,3 +12,4 @@ Part A—Grants to States and High-Risk Urban Areas
 - [&sect; 00607 - Terrorism prevention](%C2%A7%2000607%20-%20Terrorism%20prevention.md)
 - [&sect; 00608 - Prioritization](%C2%A7%2000608%20-%20Prioritization.md)
 - [&sect; 00609 - Use of funds](%C2%A7%2000609%20-%20Use%20of%20funds.md)
+- [&sect; 00609a - Nonprofit Security Grant Program](%C2%A7%2000609a%20-%20Nonprofit%20Security%20Grant%20Program.md)

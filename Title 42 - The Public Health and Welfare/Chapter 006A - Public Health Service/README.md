@@ -48,7 +48,7 @@
 | [231\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000231%20-%20Service%20and%20supply%20fund%3B%20uses%3B%20reimbursement.md) | Service and supply fund; uses; reimbursement. |
 | [232\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000232%20-%20National%20Institute%20of%20Mental%20Health%3B%20authorization%20of%20appropriation%3B%20construction%3B%20location.md) | National Institute of Mental Health; authorization of appropriation; construction; location. |
 | [233\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000233%20-%20Civil%20actions%20or%20proceedings%20against%20commissioned%20officers%20or%20employees.md) | Civil actions or proceedings against commissioned officers or employees. |
-| [234\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000234%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93484%2C%20title%20IV%2C%20%C2%A7408%28b%29%281%29%2C%20Oct.%2012%2C%201976%2C%2090%20Stat.%202281%2C%20eff.%20Oct.%201%2C%201977.md) | Repealed. |
+| [234\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000234%20-%20Health%20care%20professionals%20assisting%20during%20a%20public%20health%20emergency.md) | Health care professionals assisting during a public health emergency. |
 | [235\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000235%20-%20Administration%20of%20grants%20in%20multigrant%20projects%3B%20promulgation%20of%20regulations.md) | Administration of grants in multigrant projects; promulgation of regulations. |
 | [236\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000236%20-%20Orphan%20Products%20Board.md) | Orphan Products Board. |
 | [237\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000237%20-%20Silvio%20O.%20Conte%20Senior%20Biomedical%20Research%20and%20Biomedical%20Product%20Assessment%20Service.md) | Silvio O. Conte Senior Biomedical Research and Biomedical Product Assessment Service. |
@@ -181,6 +181,7 @@
 | 247b–20. | Food safety grants. |
 | 247b–21. | Mosquito-borne diseases; coordination grants to States; assessment and control grants to political subdivisions. |
 | 247b–22. | Microbicide research. |
+| 247b–23. | National strategy and regional centers of excellence in vector-borne diseases. |
 | [247c.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000247c%20-%20Sexually%20transmitted%20diseases%3B%20prevention%20and%20control%20projects%20and%20programs.md) | Sexually transmitted diseases; prevention and control projects and programs. |
 | 247c–1. | Infertility and sexually transmitted diseases. |
 | 247c–2. | Data collection regarding programs under subchapter XXIV. |
@@ -189,8 +190,10 @@
 | 247d–2, 247d–3. | Repealed. |
 | 247d–3a. | Improving State and local public health security. |
 | 247d–3b. | Partnerships for State and regional hospital preparedness to improve surge capacity. |
-| 247d–4. | Revitalizing the Centers for Disease Control and Prevention. |
+| 247d–3c. | Guidelines for regional health care emergency preparedness and response systems. |
+| 247d–4. | Facilities and capacities of the Centers for Disease Control and Prevention. |
 | 247d–4a. | Infectious Diseases Rapid Response Reserve Fund. |
+| 247d–4b. | Children's Preparedness Unit. |
 | 247d–5. | Combating antimicrobial resistance. |
 | 247d–5a. | Repealed. |
 | 247d–6. | Public health countermeasures to a bioterrorist attack. |
@@ -201,11 +204,12 @@
 | 247d–6e. | Covered countermeasure process. |
 | 247d–7. | Demonstration program to enhance bioterrorism training, coordination, and readiness. |
 | 247d–7a. | Grants regarding training and education of certain health professionals. |
-| 247d–7b. | Emergency system for advance registration of health professions volunteers. |
+| 247d–7b. | Emergency system for advance registration of volunteer health professional. |
 | 247d–7c. | Supplies and services in lieu of award funds. |
 | 247d–7d. | Security for countermeasure development and production. |
 | 247d–7e. | Biomedical Advanced Research and Development Authority. |
-| 247d–7f. | National Biodefense Science Board and working groups. |
+| 247d–7f. | Collaboration and coordination. |
+| 247d–7g. | National Biodefense Science Board and working groups. |
 | 247d–8. | Coordinated program to improve pediatric oral health. |
 | 247d–9. | Dental education for parents of newborns. |
 | 247d–10. | Pilot program for public health laboratories to detect fentanyl and other synthetic opioids. |
@@ -1920,8 +1924,8 @@
 
 |  |  |
 | :--- | ---: |
-| 300d–71. | Maintenance of the national toll-free number. |
-| 300d–72. | Nationwide media campaign to promote poison control center utilization. |
+| 300d–71. | Maintenance of the national toll-free number and other communication capabilities. |
+| 300d–72. | Promoting poison control center utilization. |
 | 300d–73. | Maintenance of the poison control center grant program. |
 | 300d–74. | Rule of construction. |
 
@@ -1933,6 +1937,14 @@
 | :--- | ---: |
 | 300d–81. | Grants to States. |
 | 300d–82. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part I—Military and Civilian Partnership for Trauma Readiness Grant Program
+
+|  |  |
+| :--- | ---: |
+| 300d–91. | Military and civilian partnership for trauma readiness grant program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2227,8 +2239,8 @@
 | 300x–23. | Intravenous substance abuse. |
 | 300x–24. | Requirements regarding tuberculosis and human immunodeficiency virus. |
 | 300x–25. | Group homes for persons in recovery from substance use disorders. |
-| 300x–26. | State law regarding sale of tobacco products to individuals under age of 18. |
-| 300x–26a. | Withholding of substance abuse funding under section 300x–26. |
+| 300x–26. | Sale of tobacco products to individuals under age of 21. |
+| 300x–26a. | Repealed. |
 | 300x–27. | Treatment services for pregnant women. |
 | 300x–28. | Additional agreements. |
 | 300x–29. | Repealed. |
@@ -2839,7 +2851,11 @@
 |  |  |
 | :--- | ---: |
 | 300hh–10. | Coordination of preparedness for and response to all-hazards public health emergencies. |
-| 300hh–10a. | National Advisory Committee on Children and Disasters. |
+| 300hh–10a. | Public Health Emergency Medical Countermeasures Enterprise. |
+| 300hh–10b. | National Advisory Committee on Children and Disasters. |
+| 300hh–10c. | National Advisory Committee on Seniors and Disasters. |
+| 300hh–10d. | National Advisory Committee on Individuals With Disabilities and Disasters. |
+| 300hh–10e. | Advisory Committee Coordination. |
 | 300hh–11. | National Disaster Medical System. |
 | 300hh–12. | Transferred. |
 | 300hh–13. | Evaluation of new and emerging technologies regarding bioterrorist attack and other public health emergencies. |
@@ -2855,6 +2871,7 @@
 |  |  |
 | :--- | ---: |
 | 300hh–31. | Epidemiology-laboratory capacity grants. |
+| 300hh–32. | Enhanced support to assist health departments in addressing vector-borne diseases. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

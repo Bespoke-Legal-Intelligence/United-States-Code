@@ -88,7 +88,7 @@ Any claim against the Corporation as receiver for a covered broker or dealer for
 
 #### (1) Obligations to customers
 
-&emsp;Notwithstanding any other provision of this subchapter, all obligations of a covered broker or dealer or of any bridge financial company established with respect to such covered broker or dealer to a customer relating to, or net equity claims based upon, customer property or customer name securities shall be promptly discharged by SIPC, the Corporation, or the bridge financial company, as applicable, by the delivery of securities or the making of payments to or for the account of such customer, in a manner and in an amount at least as beneficial to the customer as would have been the case had the actual proceeds realized from the liquidation of the covered broker or dealer under this subchapter been distributed in a proceeding under the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.) without the appointment of the Corporation as receiver and without any transfer of assets or liabilities to a bridge financial company, and with a filing date as of the date on which the Corporation is appointed as receiver.
+&emsp;Notwithstanding any other provision of this subchapter, all obligations of a covered broker or dealer or of any bridge financial company established with respect to such covered broker or dealer to a customer relating to, or net equity claims based upon, customer property or customer name securities shall be promptly discharged by SIPC, the Corporation, or the bridge financial company, as applicable, by the delivery of securities or the making of payments to or for the account ofsuch customer, in a manner and in an amount at least as beneficial to the customer as would have been the case had the actual proceeds realized from the liquidation of the covered broker or dealer under this subchapter been distributed in a proceeding under the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.) without the appointment of the Corporation as receiver and without any transfer of assets or liabilities to a bridge financial company, and with a filing date as of the date on which the Corporation is appointed as receiver.
 
 #### (2) Satisfaction of claims by SIPC
 
@@ -102,7 +102,7 @@ Any claim against the Corporation as receiver for a covered broker or dealer for
 
 #### (2) Other claims
 
-&emsp;All claims other than those described in paragraph (1) (including any unpaid claim by acustomer for the allowed net equity claim of such customer from customer property) shall be paid in accordance with the priorities in section 5390(b) of this title.
+&emsp;All claims other than those described in paragraph (1) (including any unpaid claim by a customer for the allowed net equity claim of such customer from customer property) shall be paid in accordance with the priorities in section 5390(b) of this title.
 
 #### (h) Rulemaking
 

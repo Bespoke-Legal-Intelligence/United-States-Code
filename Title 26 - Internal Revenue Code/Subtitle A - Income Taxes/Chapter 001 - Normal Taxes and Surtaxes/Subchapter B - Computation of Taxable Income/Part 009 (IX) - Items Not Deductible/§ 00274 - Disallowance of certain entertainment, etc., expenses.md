@@ -74,7 +74,7 @@ No deduction or credit shall be allowed—
 
 &emsp;(3) with respect to any listed property (as defined in section 280F(d)(4)),
 
-> unless the taxpayer substantiates by adequate records or by sufficient evidence corroborating the taxpayer's own statement (A) the amount of such expense or other item, (B) the time and place of the travel or the date and description of the gift, (C) the business purpose of the expense or other item, and (D) the business relationship to the taxpayer of the person receiving the benefit. The Secretary may by regulations provide that some or all of the requirements of the preceding sentence shall not apply in the case of an expense which does not exceed an amount prescribed pursuant to such regulations. This subsection shall not apply to any qualified nonpersonal use vehicle (as defined in subsection (i)).
+> unless the taxpayer substantiates by adequate records or by sufficient evidence corroborating the taxpayer's own statement (A) the amount ofsuch expense or other item, (B) the time and place of the travel or the date and description of the gift, (C) the business purpose of the expense or other item, and (D) the business relationship to the taxpayer of the person receiving the benefit. The Secretary may by regulations provide that some or all of the requirements of the preceding sentence shall not apply in the case of an expense which does not exceed an amount prescribed pursuant to such regulations. This subsection shall not apply to any qualified nonpersonal use vehicle (as defined in subsection (i)).
 
 #### (e) Specific exceptions to application of subsection (a)
 
@@ -190,7 +190,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 &emsp;&emsp;(A) Except as provided in subparagraph (B), this subsection shall apply to deductions otherwise allowable under section 162 to any person, whether or not such person is the individual attending the convention, seminar, or similar meeting.
 
-&emsp;&emsp;(B) This subsection shall not deny a deduction to any person other than the individual attending the convention, seminar, or similar meeting with respect to any amount paid by such person to or on behalf of such individual if includible in the gross income of such individual. The preceding sentence shall not apply if the amount is required tobe included in any information return filed by such person under part III of subchapter A of chapter 61 and is not so included.
+&emsp;&emsp;(B) This subsection shall not deny a deduction to any person other than the individual attending the convention, seminar, or similar meeting with respect to any amount paid by such person to or on behalf of such individual if includible in the gross income of such individual. The preceding sentence shall not apply if the amount is required to be included in any information return filed by such person under part III of subchapter A of chapter 61 and is not so included.
 
 #### (5) Reporting requirements
 
@@ -218,7 +218,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 &emsp;&emsp;For purposes of this subsection, the term "North American area" includes, with respect to any convention, seminar, or similar meeting, any beneficiary country if (as of the time such meeting begins)—
 
-&emsp;&emsp;&emsp;(i) there is in effect a bilateral or multilateral agreement described in subparagraph (C) between such country and the United States providing for the exchange of information between the United States and such country, and
+&emsp;&emsp;&emsp;(i) there is in effect a bilateral or multilateral agreement described in subparagraph (C) between such country and theUnited States providing for the exchange of information between the United States and such country, and
 
 &emsp;&emsp;&emsp;(ii) there is not in effect a finding by the Secretary that the tax laws of such country discriminate against conventions held in the United States.
 
@@ -372,7 +372,7 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 #### (A) In general
 
-&emsp;&emsp;No deduction shall be allowed under this chapter for expenses incurred for transportation by water to the extent such expenses exceed twice the aggregate per diem amounts for days of such transportation. For purposes of the preceding sentence, the term "per diem amounts" means the highest amount generally allowable with respect to a day to employees of the executive branch of the Federal Government for per diem while away from home but serving in the United States.
+&emsp;&emsp;No deduction shall be allowed under this chapter for expenses incurred for transportation by water to the extent such expenses exceed twice the aggregate per diem amounts for days of such transportation. For purposes of the preceding sentence, theterm "per diem amounts" means the highest amount generally allowable with respect to a day to employees of the executive branch of the Federal Government for per diem while away from home but serving in the United States.
 
 #### (B) Exceptions
 
@@ -516,7 +516,7 @@ Subsec. (n). Pub. L. 103–66, §13209(a), (b), substituted "50" for "80" in hea
 
 Subsec. (n)(2). Pub. L. 101–508, §11802(b)(2)(A)(ii), (iii), substituted "described in subparagraph (D)" for "described in subparagraph (E)" and "of subparagraph (E)" for "of subparagraph (F)" in concluding provisions.
 
-Subsec. (n)(2)(D) to (F). Pub. L. 101–508, §11802(b)(2)(A)(i), redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: "in the case of an expense for food or beverages before January 1, 1989, such expense is an integral part of a qualified meeting,".
+Subsec. (n)(2)(D) to (F). Pub. L. 101–508, §11802(b)(2)(A)(i), redesignated subpars. (E) and (F) as\(D) and (E), respectively, and struck out former subpar. (D) which read as follows: "in the case of an expense for food or beverages before January 1, 1989, such expense is an integral part of a qualified meeting,".
 
 Subsec. (n)(3). Pub. L. 101–508, §11802(b)(2)(B), struck out par. (3) "Qualified meeting" which read as follows: "For purposes of paragraph (2)(D), the term 'qualified meeting' means any convention, seminar, annual meeting, or similar business program with respect to which—
 
@@ -760,7 +760,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Certain Recordkeeping Requirements
 

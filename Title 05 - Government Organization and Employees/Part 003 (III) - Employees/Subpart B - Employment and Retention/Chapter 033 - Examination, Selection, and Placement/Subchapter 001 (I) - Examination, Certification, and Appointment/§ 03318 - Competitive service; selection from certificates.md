@@ -42,7 +42,7 @@ Collective bargaining obligations.—Nothing in this subsection limits any colle
 
 (c)(1) If an appointing authority proposes to pass over a preference eligible on a certificate in order to select an individual who is not a preference eligible, such authority shall file written reasons with the Office for passing over the preference eligible. The Office shall make the reasons presented by the appointing authority part of the record of the preference eligible and may require the submission of more detailed information from the appointing authority in support of the passing over of the preference eligible. The Office shall determine the sufficiency or insufficiency of the reasons submitted by the appointing authority, taking into account any response received from the preference eligible under paragraph (2) of this subsection. When the Office has completed its review of the proposed passover, it shall send its findings to the appointing authority and to the preference eligible. The appointing authority shall comply with the findings of the Office.
 
-(2) In the case of a preference eligible described in section 2108(3)(C) of this title who has a compensable service-connected disability of 30 percent or more, the appointing authority shallat the same time it notifies the Office under paragraph (1) of this subsection, notify the preference eligible of the proposed passover, of the reasons therefor, and of his right to respond to such reasons to the Office within 15 days of the date of such notification. The Office shall, before completing its review under paragraph (1) of this subsection, require a demonstration by the appointing authority that the passover notification was timely sent to the preference eligible's last known address.
+(2) In the case of a preference eligible described in section 2108(3)(C) of this title who has a compensable service-connected disability of 30 percent or more, the appointing authority shall at the same time it notifies the Office under paragraph (1) of this subsection, notify the preference eligible of the proposed passover, of the reasons therefor, and of his right to respond to such reasons to the Office within 15 days of the date of such notification. The Office shall, before completing its review under paragraph (1) of this subsection, require a demonstration by the appointing authority that the passover notification was timely sent to the preference eligible's last known address.
 
 (3) A preference eligible not described in paragraph (2) of this subsection, or his representative, shall be entitled, on request, to a copy of—
 
@@ -58,7 +58,7 @@ Collective bargaining obligations.—Nothing in this subsection limits any colle
 
 #### Repeal and Reenactment of Section
 
-<i>Pub. L. 115–232, div. A, title XI, §1107(a), (d), Aug. 13, 2018, 132 Stat. 2003, 2005, provided that, effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, this section is repealed and a new section 3318 is enacted to read as follows:</i>
+<i>Pub. L. 115–232, div. A, title XI, §1107(a), (d), Aug. 13, 2018, 132 Stat. 2003, 2005, provided that, effective on the date on which the Director of the Office of Personnel Management issues final regulations for implementation, with such regulations due not later than one year after Aug. 13, 2018, this section is repealed and a new section 3318 is enacted to read as follows:</i>
 
 #### §3318. Competitive service; selections using numerical ratings
 
@@ -110,7 +110,7 @@ In general.—Subject to subparagraph (2), if an appointing authority proposes t
 
 &emsp;(2)
 
-Preference eligible individuals who have a compensable service-connected disability.—In the case of a preference eligible described in section 2108(3)(C) who has a compensable service-connected disability of 30 percent or more, the appointing authority shall notify the Director under paragraph (1) and, at the same time, notify the preference eligible of the proposed pass-over, of the reasons for the proposed pass-over, and of the individual's right to respond to those reasons to the Director within 15 days of the date of the notification. The Director shall, before completing thereview under paragraph (1), require a demonstration by the appointing authority that the notification was timely sent to the preference eligible's last known address.
+Preference eligible individuals who have a compensable service-connected disability.—In the case of a preference eligible described in section 2108(3)(C) who has a compensable service-connected disability of 30 percent or more, the appointing authority shall notify the Director under paragraph (1) and, at the same time, notify the preference eligible of the proposed pass-over, of the reasons for the proposed pass-over, and of the individual's right to respond to those reasons to the Director within 15 days of the date of the notification. The Director shall, before completing the review under paragraph (1), require a demonstration by the appointing authority that the notification was timely sent to the preference eligible's last known address.
 
 &emsp;(3)
 
@@ -118,7 +118,7 @@ Further consideration not required.—When a preference eligible, for reasons co
 
 &emsp;(4)
 
-Delegation prohibition.—In the case of a preference eligible described in paragraph (2), the functions of the Director under this subsection may not be delegated to an individual who is not an officer or employee of the Office of Personnel Management.
+Delegation prohibition.—In the case of a preference eligible described in paragraph (2), the functions of the Director under this subsection may not be delegated to an individualwho is not an officer or employee of the Office of Personnel Management.
 
 (d)
 
@@ -186,7 +186,7 @@ Subsec. (b). Pub. L. 95–454, §307(d), designated existing provisions as par. 
 
 #### Effective Date of 2018 Amendment
 
-Repeal and reenactment of section effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, see section 1107(d) of Pub. L. 115–232, set out as a note under section 3317 of this title.
+Repeal and reenactment of section effective on the date on which the Director of the Office of Personnel Management issues final regulations for implementation, with such regulations due not later than one year after Aug. 13, 2018, see section 1107(d) of Pub. L. 115–232, set out as a note under section 3317 of this title.
 
 #### Effective Date of 1978 Amendment
 

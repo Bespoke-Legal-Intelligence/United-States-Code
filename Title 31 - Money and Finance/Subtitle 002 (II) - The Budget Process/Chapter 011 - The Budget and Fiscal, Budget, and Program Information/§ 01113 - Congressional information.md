@@ -20,7 +20,7 @@
 
 &emsp;(3) when requested, provide assistance to committees and, to the extent practicable, to members of Congress in evaluating the information obtained from the sources in the directory.
 
-(d) To the extent they consider necessary, the Comptroller General and the Director of the Congressional Budget Office individually or jointly shall establish and maintain a file of information to meet recurring needs of Congress for fiscal, budget, and program information to carry out this section and sections 717 and 1112 of this title. The file shall include information on budget requests, congressional authorizations to obligate and expend, apportionment and reserve actions, and obligations and expenditures. The Comptroller General and the Director shall maintain the file and an index to the file so that it is easier for the committees and agencies of Congress to use the file and index through data processing and communications techniques.
+(d) To the extent they consider necessary, the Comptroller General and the Director of theCongressional Budget Office individually or jointly shall establish and maintain a file of information to meet recurring needs of Congress for fiscal, budget, and program information to carry out this section and sections 717 and 1112 of this title. The file shall include information on budget requests, congressional authorizations to obligate and expend, apportionment and reserve actions, and obligations and expenditures. The Comptroller General and the Director shall maintain the file and an index to the file so that it is easier for the committees and agencies of Congress to use the file and index through data processing and communications techniques.
 
 (e)(1) The Comptroller General shall—
 
@@ -582,7 +582,7 @@ Pub. L. 106–197, §1, May 2, 2000, 114 Stat. 246, provided that: "Section 3003
 
 &emsp;"(5) Section 8 of the Civil Rights of Institutionalized Persons Act (42 U.S.C. 1997f).
 
-&emsp;"(6) The following provisions of the Omnibus Crime Control and Safe Streets Act of 1968: sections 102(b) (42 U.S.C. 3712(b)) \[now 34 U.S.C. 10102(b)\], 520 (42 U.S.C. 3766) \[now 34 U.S.C. 10201\], 522 (42 U.S.C. 3766b) \[now 34 U.S.C. 10203\], and 810 (42 U.S.C. 3789e) \[now 34 U.S.C. 10229\].
+&emsp;"(6) The following provisions of the Omnibus Crime Control and Safe Streets Act of 1968: sections 102(b) (42 U.S.C. 3712(b)) \[now 34 U.S.C. 10102(b)\], 520 (42U.S.C. 3766) \[now 34 U.S.C. 10201\], 522 (42 U.S.C. 3766b) \[now 34 U.S.C. 10203\], and 810 (42 U.S.C. 3789e) \[now 34 U.S.C. 10229\].
 
 &emsp;"(7) The following provisions of the Immigration and Nationality Act: sections 103 (8 U.S.C. 1103), 207(c)(3) (8 U.S.C. 1157(c)(3)), 412(b) (8 U.S.C. 1522(b)), and 413 (8 U.S.C. 1523), and subsections (h), (l), (o), (q), and (r) of section 286 (8 U.S.C. 1356).
 
@@ -616,7 +616,7 @@ Pub. L. 106–197, §1, May 2, 2000, 114 Stat. 246, provided that: "Section 3003
 
 &emsp;"(22) Section 102(b)(5) of the Department of Justice and Related Agencies Appropriations Act, 1993 \[Pub. L. 102–395\] (28 U.S.C. 533 note)."
 
-Pub. L. 106–181, title I, §163, Apr. 5, 2000, 114 Stat. 91, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any reportrequired to be submitted under any of the following provisions of law:
+Pub. L. 106–181, title I, §163, Apr. 5, 2000, 114 Stat. 91, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
 &emsp;"(1) Section 44501 of title 49, United States Code.
 
@@ -656,7 +656,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29,
 
 &emsp;"(15) Section 407(f) of the Food for Peace Act (Public Law 83–480; 7 U.S.C. 1736a) (relating to Public Law 480 programs and activities).
 
-&emsp;"(16) Section 239(c) of the Foreign Assistance Act of 1961 (Public Law 87–195; 22 U.S.C. 2199(c)) (relating to OPIC audit report).
+&emsp;"(16) \[Former\] Section 239(c) of the Foreign Assistance Act of 1961 (Public Law 87–195; \[former\] 22 U.S.C. 2199(c)) (relating to OPIC audit report).
 
 &emsp;"(17) Section 504(i) of the National Endowment for Democracy Act (Public Law 98–164; 22 U.S.C. 4413(i)) (relating to the activities of the National Endowment for Democracy).
 
@@ -822,7 +822,7 @@ Specific Reports Exempted.—Subsection (a)(1) shall not apply to any report req
 
 &emsp;"(30) section 50 of Public Law 87–297 (22 U.S.C. 2590);
 
-&emsp;"(31) section 240A of the Foreign Assistance Act of 1961 (22 U.S.C. 2200a);
+&emsp;"(31) \[former\] section 240A of the Foreign Assistance Act of 1961 (\[former\] 22 U.S.C. 2200a);
 
 &emsp;"(32) section 27(k) of the Consumer Product Safety Act (15 U.S.C. 2076(k)); or
 

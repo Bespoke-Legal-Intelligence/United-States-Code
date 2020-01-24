@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) for administrative or overhead expenses; or
 
-&emsp;&emsp;(C) for contributions sought or required from any person for costs or fees to clean upany matter that was caused or contributed to by such person on or after March 15, 2000.
+&emsp;&emsp;(C) for contributions sought or required from any person for costs or fees to clean up any matter that was caused or contributed to by such person on or after March 15, 2000.
 
 #### (4) Funding instruments and procedures
 
@@ -40,7 +40,7 @@
 
 #### (3) Limitation
 
-&emsp;In order to be eligible to receive financial assistance under this subsection, not later than 180 days after December 23, 2000, each of the Cities of St. Paul and St. George shall enter into a written agreement with the State of Alaska under which such City shall identify by its legal boundaries the tract or tracts of land that such City has selected as the site for its solid waste management facility and any supporting infrastructure.
+&emsp;In order to be eligible to receive financial assistance under this subsection, not later than 180 days after December 23, 2000, each of the Cities of St. Paul and St. George shall enter into a written agreement with the State of Alaska under which such City shall identifyby its legal boundaries the tract or tracts of land that such City has selected as the site for its solid waste management facility and any supporting infrastructure.
 
 #### (c) Authorization of appropriations
 

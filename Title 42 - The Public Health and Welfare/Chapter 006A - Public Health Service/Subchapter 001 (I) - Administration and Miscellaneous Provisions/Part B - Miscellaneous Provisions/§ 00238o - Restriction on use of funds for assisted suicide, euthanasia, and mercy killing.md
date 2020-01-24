@@ -6,7 +6,7 @@ Appropriations for carrying out the purposes of this chapter shall not be used i
 
 #### References in Text
 
-The Assisted Suicide Funding Restriction Act of 1997, referred to in text, is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of this title and Tables.
+The Assisted Suicide Funding Restriction Act of 1997, referred to in text, is Pub. L. 105–12, Apr. 30, 1997, 111Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of this title and Tables.
 
 #### Effective Date
 

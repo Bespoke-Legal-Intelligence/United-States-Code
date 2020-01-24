@@ -34,7 +34,7 @@ This chapter, referred to in subsecs. (b)(2), (d), and (e), was in the original 
 
 Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Chemical Weapons Convention Implementation Act of 1998 \[22 U.S.C. 6701 et seq.\] (as enacted in Division I of Public Law 105–277) (the Act), the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), and section 301 of title 3, United States Code, and in order to facilitate implementationof the Act and the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction (the "Convention"), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Chemical Weapons Convention Implementation Act of 1998 \[22 U.S.C. 6701 et seq.\] (as enacted in Division I of Public Law 105–277) (the Act), the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), and section 301 of title 3, United States Code, and in order to facilitate implementation of the Act and the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction (the "Convention"), it is hereby ordered as follows:
 
 Section 1. The Department of State shall be the United States National Authority (the "USNA") for purposes of the Act and the Convention.
 
@@ -60,7 +60,7 @@ Sec. 8. In order to take additional steps with respect to the proliferation of w
 
 &emsp;"(e) the Secretary of Commerce shall impose and enforce such restrictions on the importation of chemicals into the United States as may be necessary to carry out the requirements of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction."
 
-Sec. 9. Any investigation emanating from a possible violation of this order, or of any license, order, or regulation issued pursuant to this order, involving or revealing a possible violation of 18 U.S.C. section 229 shall be referred to the Federal Bureau of Investigation (FBI), which shall coordinate with the referring agency and other appropriate agencies. The FBI shall timely notify the referring agency and other appropriate agencies of any action it takes on such referrals.
+Sec. 9. Any investigation emanating from a possible violation of this order, or of any license, order, or regulation issued pursuant to this order, involving or revealing a possible violation of 18 U.S.C. section 229 shall be referred to the Federal Bureau of Investigation\(FBI), which shall coordinate with the referring agency and other appropriate agencies. The FBI shall timely notify the referring agency and other appropriate agencies of any action it takes on such referrals.
 
 Sec. 10. Nothing in this order shall create any right or benefit, substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 

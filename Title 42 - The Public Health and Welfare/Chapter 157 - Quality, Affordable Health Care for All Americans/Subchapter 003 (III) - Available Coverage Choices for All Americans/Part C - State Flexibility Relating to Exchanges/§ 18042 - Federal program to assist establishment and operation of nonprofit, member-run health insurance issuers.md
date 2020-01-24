@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(i) take into account the recommendations of the advisory board established under paragraph (3);
 
-&emsp;&emsp;&emsp;(ii) give priority to applicants that will offer qualified health plans on a Statewidebasis, will utilize integrated care models, and have significant private support; and
+&emsp;&emsp;&emsp;(ii) give priority to applicants that will offer qualified health plans on a Statewide basis, will utilize integrated care models, and have significant private support; and
 
 &emsp;&emsp;&emsp;(iii) ensure that there is sufficient funding to establish at least 1 qualified nonprofit health insurance issuer in each State, except that nothing in this clause shall prohibit the Secretary from funding the establishment of multiple qualified nonprofit health insurance issuers in any State if the funding is sufficient to do so.
 
@@ -48,7 +48,7 @@
 
 #### (ii) Restrictions on use of Federal funds
 
-&emsp;&emsp;&emsp;The agreement shall include a requirement that no portion of the funds made available by any loan or grant under this section may be used—
+&emsp;&emsp;&emsp;The agreement shall include a requirement that no portion of the funds madeavailable by any loan or grant under this section may be used—
 
 &emsp;&emsp;&emsp;&emsp;(I) for carrying on propaganda, or otherwise attempting, to influence legislation; or
 
@@ -192,7 +192,7 @@ No representative of any Federal, State, or local government (or of any politica
 
 #### (2) Competition
 
-&emsp;Nothing in this section shall be construed as authorizing the Secretary to interfere withthe competitive nature of providing health benefits through qualified nonprofit health insurance issuers.
+&emsp;Nothing in this section shall be construed as authorizing the Secretary to interfere with the competitive nature of providing health benefits through qualified nonprofit health insurance issuers.
 
 #### (g) Appropriations
 
@@ -214,7 +214,7 @@ There are hereby appropriated, out of any funds in the Treasury not otherwise ap
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(4)(E), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(4)(E), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat.770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Public Health Service Act, referred to in subsec. (c)(6), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XXVII of the Act is classified generally to part A (§300gg et seq.) of subchapter XXV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 

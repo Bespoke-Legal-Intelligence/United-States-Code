@@ -94,7 +94,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(5) of this
 
 #### Transfer of Functions
 
-Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
+Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to RuralDevelopment Administration by section 2302(b) of Pub. L. 101–624.
 
 #### Simplified, Uniform Application for Assistance From All Federal Rural Development Programs
 

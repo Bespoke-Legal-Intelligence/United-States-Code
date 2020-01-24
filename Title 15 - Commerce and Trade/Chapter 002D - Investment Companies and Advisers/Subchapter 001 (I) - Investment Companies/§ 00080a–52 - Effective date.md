@@ -12,7 +12,7 @@ The effective date of the provisions of this subchapter, so far as the same rela
 
 Pub. L. 91–547, §30, Dec. 14, 1970, 84 Stat. 1436, provided that: "This Act \[see Short Title note set out under section 80a–51 of this title\] shall take effect on the date of its enactment \[Dec. 14, 1970\], except that—
 
-&emsp;"(1) sections (5)(a), (b), and (c); 8; 9(a); 11; 18; 24(a); and 25 (amending sections 10(a), (b), and (c) \[section 80a–10(a), (b), and (c)\]; 15 \[section 80a–15\]; 17(f) \[section 80a–17(f)\]; 19 \[section 80a–19\]; and 32(a) of the Investment Company Act of 1940 \[section 80a–31(a)\]; and sections 203(b) and 205 of the Investment Advisers Act of 1940 \[sections 80b–3(b) and 80b–5 of this title\], respectively) shall take effect upon the expiration of one year after the date of enactment of this Act \[Dec. 14, 1970\];
+&emsp;"(1) sections (5)(a), (b), and (c); 8; 9(a); 11; 18; 24(a); and 25 (amending sections 10(a), (b), and (c) \[section 80a–10(a), (b), and (c)\]; 15 \[section 80a–15\]; 17(f) \[section 80a–17(f)\]; 19 \[section 80a–19\]; and 32(a) of the Investment Company Act of 1940 \[section 80a–31(a)\]; and sections 203(b) and 205 of the Investment Advisers Act of 1940 \[sections 80b–3(b) and 80b–5 of this title\], respectively) shall take effect upon the expiration ofone year after the date of enactment of this Act \[Dec. 14, 1970\];
 
 &emsp;"(2) that part of section 5(d) which substitutes 'interested persons' for 'affiliated persons' in section 10(d) of the Investment Company Act of 1940 \[section 80a–10(d) of this title\] shall take effect upon the expiration of one year after the date of enactment of this Act \[Dec. 14, 1970\];
 

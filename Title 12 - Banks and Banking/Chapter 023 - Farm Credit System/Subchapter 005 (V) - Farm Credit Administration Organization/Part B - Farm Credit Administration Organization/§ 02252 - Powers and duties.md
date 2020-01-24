@@ -4,7 +4,7 @@
 
 The Farm Credit Administration shall have the following powers, functions, and responsibilities in connection with the institutions of the Farm Credit System and the administration of this chapter:
 
-&emsp;(1) Modify the boundaries of farm credit districts, with due regard for the farm credit needs of the country, as approved by the Board, with the concurrence of the district banks involved.
+&emsp;(1) Modify the boundaries of farm credit districts, with due regard for the farm creditneeds of the country, as approved by the Board, with the concurrence of the district banks involved.
 
 &emsp;(2) Where necessary or appropriate to carry out the policy and objectives of this chapter, issue and approve amendments to Federal charters of institutions of the System; approve change in names of banks operating under this chapter; approve the merger of districts when agreed to by the district bank boards involved and by a majority vote of the voting stockholders and contributors to the guaranty funds of each bank for each of such districts, voting in the same manner as is provided in section 2279a of this title; approve mergers and any related activities as provided for in subchapter VII; and approve the consolidation or division of the territories of institutions when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved; and approve consolidations of boards of directors when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved. The Farm Credit Administration Board, after consultation with the respective boards of directors of the affected banks, may require two or more banks operating under the same or different titles to merge if the Board determines that one of such banks has failed to meet its outstanding obligations.
 
@@ -44,7 +44,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;&emsp;(i) in the geographic area served by an association that was reassigned pursuant to section 433 of the Agricultural Credit Act of 1987 (12 U.S.C. 2071 note) (where the geographic area was a part of the association's territory as of the date of the reassignment); and
 
-&emsp;&emsp;(ii) in which the charter of an institution that is not seeking the charter amendment authorizes the institution to exercise thetype of lending authority that is the subject of the charter request.
+&emsp;&emsp;(ii) in which the charter of an institution that is not seeking the charter amendment authorizes the institution to exercise the type of lending authority that is the subject of the charter request.
 
 &emsp;(B) The Farm Credit Administration may approve a charter amendment under subparagraph (A) only on the approval of—
 
@@ -92,7 +92,7 @@ The Farm Credit Administration shall not have authority, either direct or indire
 
 &emsp;(i) continuity of session is broken only by an adjournment of Congress sine die; and
 
-&emsp;(ii) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of sixty and ninety calendar days of continuous session of Congress.
+&emsp;(ii) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excludedin the computation of sixty and ninety calendar days of continuous session of Congress.
 
 (4) Congressional inaction on or rejection of a resolution of disapproval shall not be deemed an expression of approval of such regulation.
 
@@ -136,7 +136,7 @@ Pub. L. 100–233, §802(v)(1)(A), substituted "approve amendments to" for "amen
 
 Pub. L. 100–233, §415(d), substituted "section 2279a of this title" for "section 2181 of this title" and "approve mergers and any related activities as provided for in subchapter VII; and" for "; approve mergers of banks operating under the same subchapter of this chapter, merger of Federal land bank associations, merger of production credit associations, and".
 
-Pub. L. 100–233, §414, substituted ". The Farm Credit Administration Board shall ensure that disapproving associations (A) shall not be charged any assessment under this chapter at a rate higher than that charged other like associations in the district, and (B) shall be provided with financial services and assistance on the same basis as other like associations in the district" for "; and the Farm Credit Administration shall ensurethat the board of directors of district banks does not discriminate against the disapproving associations in exercising its supervisory authorities. Such associations shall not be (i) charged any assessment under this chapter at a rate higher than that charged other like associations in the district or (ii) discriminated against in the provision of any financial service and assistance".
+Pub. L. 100–233, §414, substituted ". The Farm Credit Administration Board shall ensure that disapproving associations (A) shall not be charged any assessment under this chapter at a rate higher than that charged other like associations in the district, and (B) shall be provided with financial services and assistance on the same basis as other like associations in the district" for "; and the Farm Credit Administration shall ensure that the board of directors of district banks does not discriminate against the disapproving associations in exercising its supervisory authorities. Such associations shall not be (i) charged any assessment under this chapter at a rate higher than that charged other like associations in the district or (ii) discriminated against in the provision of any financial service and assistance".
 
 Pub. L. 100–233, §431(e)(1), substituted "The Farm Credit Administration Board, after consultation with the respective boards of directors of the affected banks, may require two or more banks operating under the same or different titles to merge if the Board determines that one of such banks has failed to meet its outstanding obligations" for "The Chairman of the Farm Credit Administration Board, after consultation with the respective district board or boards and the board of directors of the Capital Corporation may require two or more banks of the Farm Credit System (other than Central Banks for Cooperatives) operating under the same subchapter to merge if the Chairman determines that one of such banks has failed to meet outstanding obligations of such bank."
 

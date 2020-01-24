@@ -48,7 +48,7 @@ Upon approving any application for a grant under subsection (b)(1)(B), the Secre
 
 (1) The Secretary shall establish an Advisory Council on Children's Educational Television. The Secretary shall appoint ten individuals as members of the Council and designate one of such members to serve as Chairman.
 
-(2) Members of the Council shall have terms of two years, and no member shall serve for morethan three consecutive terms. The members shall have expertise in the fields of education, psychology, child development, or television programming, or related disciplines. Officers and employees of the United States shall not be appointed as members.
+(2) Members of the Council shall have terms of two years, and no member shall serve for more than three consecutive terms. The members shall have expertise in the fields of education, psychology, child development, or television programming, or related disciplines. Officers and employees of the United States shall not be appointed as members.
 
 (3) While away from their homes or regular places of business in the performance of duties for the Council, the members of the Council shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, in accordance with section 5703 of title 5.
 
@@ -104,7 +104,7 @@ Pub. L. 101–437, title II, §202, Oct. 17, 1990, 104 Stat. 997, provided that:
 
 &emsp;"(4) television is watched by children about three hours each day on average and can be effective in teaching children;
 
-&emsp;"(5) educational television programming for children is aired too infrequently either because public broadcast licensees and permittees lack funds or because commercial broadcast licensees and permittees or cable television system operators do not have the economic incentive; and
+&emsp;"(5) educational television programming for children is aired too infrequently either because publicbroadcast licensees and permittees lack funds or because commercial broadcast licensees and permittees or cable television system operators do not have the economic incentive; and
 
 &emsp;"(6) the Federal Government can assist in the creation of children's educational television by establishing a National Endowment for Children's Educational Television to supplement the children's educational programming funded by other governmental entities."
 

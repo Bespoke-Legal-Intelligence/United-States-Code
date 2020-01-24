@@ -54,7 +54,7 @@ In general.—Notwithstanding the provisions of this chapter, the Administrator,
 
 &emsp;(2)
 
-Relinquishment and acceptance of responsibility.—The Administrator relinquishesresponsibility with respect to the functions and duties transferred by the Administrator as specified in the bilateral agreement, under the Articles listed in paragraph (1) for United States-registered aircraft described in paragraph (4)(A) transferred abroad and accepts responsibility with respect to the functions and duties under those Articles for aircraft registered abroad and described in paragraph (4)(B) that are transferred to the United States.
+Relinquishment and acceptance of responsibility.—The Administrator relinquishes responsibility with respect to the functions and duties transferred by the Administrator as specified in the bilateral agreement, under the Articles listed in paragraph (1) for United States-registered aircraft described in paragraph (4)(A) transferred abroad and accepts responsibility with respect to the functions and duties under those Articles for aircraft registered abroad and described in paragraph (4)(B) that are transferred to the United States.
 
 &emsp;(3)
 
@@ -106,7 +106,7 @@ Limitation.—The Administrator may not accept an airworthiness directive issued
 
 Exemptions.—The Administrator may grant an exemption from a requirement of a regulation prescribed under subsection (a) or (b) of this section or any of sections 44702–44716 of this title if the Administrator finds the exemption is in the public interest.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1185; Pub. L. 103–429, §6(55), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 106–181, title VII, §714, Apr. 5, 2000, 114 Stat. 161; Pub. L. 115–254, div. B, title II, §242, Oct. 5, 2018, 132 Stat. 3258.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1185; Pub. L. 103–429, §6(55), Oct. 31, 1994, 108 Stat.4385; Pub. L. 106–181, title VII, §714, Apr. 5, 2000, 114 Stat. 161; Pub. L. 115–254, div. B, title II, §242, Oct. 5, 2018, 132 Stat. 3258.)
 
 Historical and Revision Notes
 
@@ -596,7 +596,7 @@ Consultation Requirement.—In establishing the database under subsection (a), t
 
 "(d)
 
-Regulatory Guidance Documents Defined.—In this section, the term 'regulatory guidance documents' means all forms of written information issued by theFAA that an individual or entity may use to interpret or apply FAA regulations and requirements, including information an individual or entity may use to determine acceptable means of compliance with such regulations and requirements, such as an order, manual, circular, policy statement, legal interpretation memorandum, or rulemaking document.
+Regulatory Guidance Documents Defined.—In this section, the term 'regulatory guidance documents' means all forms of written information issued by the FAA that an individual or entity may use to interpret or apply FAA regulations and requirements, including information an individual or entity may use to determine acceptable means of compliance with such regulations and requirements, such as an order, manual, circular, policy statement, legal interpretation memorandum, or rulemaking document.
 
 #### "SEC. 224. REGULATORY CONSISTENCY COMMUNICATIONS BOARD.
 
@@ -676,7 +676,7 @@ Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 5
 
 &emsp;"(4) provides recommendations, if appropriate, to improve the existing structure and personnel and travel policies supporting the FAA's international engagement activities, including the activities of the Aviation Certification Office, to better support the growth of United States aerospace exports; and
 
-&emsp;"(5) identifies cost-effective policy initiatives, regulatory initiatives, or legislative initiatives needed to improve and enhance the timely acceptance of United States aerospace products abroad.
+&emsp;"(5) identifies cost-effective policy initiatives, regulatory initiatives, or legislative initiatives neededto improve and enhance the timely acceptance of United States aerospace products abroad.
 
 "(c)
 
@@ -832,7 +832,7 @@ Authority.—Notwithstanding any other provision of law, the Administrator shall
 
 "(e)
 
-Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on the results of the study required under subsection\(a), including the recommendations described in subsection (c).
+Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on the results of the study required under subsection (a), including the recommendations described in subsection (c).
 
 "(f)
 
@@ -1060,7 +1060,7 @@ In General.—The Secretary of Transportation shall carry out a public awareness
 
 Campaign Requirements.—The public awareness campaign required under subsection (a) shall do the following:
 
-&emsp;"(1) Focus on targeting segments of the hazardous materials industry with high rates of undeclared shipments through air commerce and educate air carriers, shippers, manufacturers, and other relevant stakeholders of such segments on properly packaging and classifying such shipments.
+&emsp;"(1) Focus on targeting segments of the hazardous materials industry with high rates of undeclaredshipments through air commerce and educate air carriers, shippers, manufacturers, and other relevant stakeholders of such segments on properly packaging and classifying such shipments.
 
 &emsp;"(2) Educate the public on proper ways to declare and ship hazardous materials, examples of everyday items that are considered hazardous materials, and penalties associated with intentional shipments of undeclared hazardous materials.
 
@@ -1308,7 +1308,7 @@ Rulemaking on Applicability of Part 121
 
 Duty Periods and Flight Time Limitations to Part 91
 
-Operations.—Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall initiate a rulemaking proceeding, if such a proceeding has not already been initiated, to require a flight crewmember who is employed by an air carrier conducting operations under part 121 of title 14, Code of Federal Regulations, and who accepts an additional assignment for flying under part 91 of such title from the air carrier or from any other air carrier conducting operations underpart 121 or 135 of such title, to apply the period of the additional assignment (regardless of whether the assignment is performed by the flight crewmember before or after an assignment to fly under part 121 of such title) toward any limitation applicable to the flight crewmember relating to duty periods or flight times under part 121 of such title.
+Operations.—Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall initiate a rulemaking proceeding, if such a proceeding has not already been initiated, to require a flight crewmember who is employed by an air carrier conducting operations under part 121 of title 14, Code of Federal Regulations, and who accepts an additional assignment for flying under part 91 of such title from the air carrier or from any other air carrier conducting operations under part 121 or 135 of such title, to apply the period of the additional assignment (regardless of whether the assignment is performed by the flight crewmember before or after an assignment to fly under part 121 of such title) toward any limitation applicable to the flight crewmember relating to duty periods or flight times under part 121 of such title.
 
 "(b)
 
@@ -1648,7 +1648,7 @@ Air carrier.—The term 'air carrier' has the meaning given that term in section
 
 &emsp;"(3)
 
-Aviation safety action program.—The term 'aviation safety action program' means the program established by the Federal Aviation Administrationin Advisory Circular 120–66B, dated November 15, 2002, including any subsequent revisions thereto.
+Aviation safety action program.—The term 'aviation safety action program' means the program established by the Federal Aviation Administration in Advisory Circular 120–66B, dated November 15, 2002, including any subsequent revisions thereto.
 
 &emsp;"(4)
 
@@ -2054,7 +2054,7 @@ Study.—In conducting the study, the National Academy of Sciences shall conside
 
 &emsp;"(3)
 
-Preliminary findings.—Not later than 120 days after the date of entering into arrangementsunder paragraph (1), the National Academy of Sciences shall submit to the Administrator its preliminary findings under the study.
+Preliminary findings.—Not later than 120 days after the date of entering into arrangements under paragraph (1), the National Academy of Sciences shall submit to the Administrator its preliminary findings under the study.
 
 &emsp;"(4)
 
@@ -2324,7 +2324,7 @@ Required Contents.—At a minimum, the report shall indicate—
 
 &emsp;"(2) progress in integrating the aviation safety data derived from such system's inspections with existing aviation data of the Administration in the safety performance analysis system of the Administration; and
 
-&emsp;"(3) the Administration's efforts in collaboration with the aviation industry to develop and validatesafety performance measures and appropriate risk weightings for such system.
+&emsp;"(3) the Administration's efforts in collaboration with the aviation industry to develop and validate safety performance measures and appropriate risk weightings for such system.
 
 "(c)
 
@@ -2426,7 +2426,7 @@ In General.—Not later than 120 days after the last day of the 1-year period de
 
 "(b)
 
-Form of Decision.—A decision under this section shall be in the form of a notice of proposed rulemaking requiring automatic external defibrillators in airports or on passenger aircraft operated by air carriers, or both, or a recommendation to Congress for legislation requiring such defibrillators or a notice in the Federal Register that such defibrillators should not be required in airports or on such aircraft. If a decision under this section is in the form of a notice of proposed rulemaking, the Administrator shall make a final decision not later than the 120th day following the date on which comments are due on the notice of proposed rulemaking.
+Form of Decision.—A decision under this section shall be in the form of a notice of proposed rulemakingrequiring automatic external defibrillators in airports or on passenger aircraft operated by air carriers, or both, or a recommendation to Congress for legislation requiring such defibrillators or a notice in the Federal Register that such defibrillators should not be required in airports or on such aircraft. If a decision under this section is in the form of a notice of proposed rulemaking, the Administrator shall make a final decision not later than the 120th day following the date on which comments are due on the notice of proposed rulemaking.
 
 "(c)
 

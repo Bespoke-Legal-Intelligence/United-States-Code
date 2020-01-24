@@ -2,7 +2,7 @@
 
 #### (a) Special Drawing Rights
 
-Special Drawing Rights allocated to the United States pursuant to article XVIII of the Articles of Agreement of the Fund, and Special Drawing Rights otherwise acquired by the United States, shall be credited to the account of, and administered as part of, the Exchange Stabilization Fund established by section 5302 of title 31.
+Special Drawing Rights allocated to the United States pursuant to article XVIII of theArticles of Agreement of the Fund, and Special Drawing Rights otherwise acquired by the United States, shall be credited to the account of, and administered as part of, the Exchange Stabilization Fund established by section 5302 of title 31.
 
 #### (b) Deposit in and withdrawal from Fund
 

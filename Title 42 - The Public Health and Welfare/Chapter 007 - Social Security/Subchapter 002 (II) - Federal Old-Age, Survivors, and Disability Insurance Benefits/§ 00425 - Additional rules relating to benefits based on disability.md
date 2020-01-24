@@ -26,7 +26,7 @@ Notwithstanding any other provision of this subchapter, payment to an individual
 
 (3) The Commissioner of Social Security is not required to furnish any authorization obtained pursuant to this subsection to the payroll data provider.
 
-(4) The Commissioner shall inform any person who provides authorization pursuant to this clause of the duration and scope of the authorization.
+(4) The Commissioner shall inform any person who provides authorization pursuant to thisclause of the duration and scope of the authorization.
 
 (5) If an individual who applies for or is entitled to benefits under this subchapter refuses to provide, or revokes, any authorization under this subsection, subsection (d) shall not apply to such individual beginning with the first day of the first month in which he or she refuses or revokes such authorization.
 
@@ -104,7 +104,7 @@ Effective date.—
 
 &emsp;"(i)
 
-In general.—Except as otherwise provided in this paragraph, the amendments made by this paragraph \[amending this section and sections 426 and 426–1 of this title\] shall apply with respect to benefits based on disability (as defined in section 225(c)(9) of the Social Security Act \[42 U.S.C. 425(c)(9)\], added by this section) which are otherwise payable in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\]. The Secretary of Health and Human Services shall issue regulations necessary to carry out the amendments made by this paragraph not later than 180 days after the date of the enactment of this Act.
+In general.—Except as otherwise provided in this paragraph, the amendments made by this paragraph \[amending this section and sections 426 and 426–1 of this title\] shall apply with respect to benefits based on disability (as defined in section 225(c)(9) of the Social Security Act \[42 U.S.C. 425(c)(9)\], added bythis section) which are otherwise payable in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\]. The Secretary of Health and Human Services shall issue regulations necessary to carry out the amendments made by this paragraph not later than 180 days after the date of the enactment of this Act.
 
 &emsp;"(ii)
 
@@ -142,7 +142,7 @@ Amendment by section 205(o) of Pub. L. 85–840 applicable with respect to month
 
 #### Effective Date
 
-Section applicable only with respect to monthly benefits under this subchapter for months after June 1957,see section 103(a) of act Aug. 1, 1956, set out as a note under section 423 of this title.
+Section applicable only with respect to monthly benefits under this subchapter for months after June 1957, see section 103(a) of act Aug. 1, 1956, set out as a note under section 423 of this title.
 
 #### Report on Referral, Monitoring, Testing and Treatment of Individuals Where Entitlement to or Termination of Benefits Involves Alcoholism or Drug Addiction
 

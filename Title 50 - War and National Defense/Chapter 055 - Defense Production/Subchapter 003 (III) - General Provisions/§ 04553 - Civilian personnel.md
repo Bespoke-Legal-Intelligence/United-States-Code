@@ -42,7 +42,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16651, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including the Defense Production Act of 1950, as amended (\[former\] 50 U.S.C. App. 2061 et seq.) \[now 50 U.S.C. 4501 et seq.\], and section 301 of title 3, United States Code, and as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended (\[former\] 50 U.S.C. App. 2061 et seq.) \[now 50 U.S.C. 4501 et seq.\], and section 301 of title 3, United States Code, and as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
 
 #### PART I—PURPOSE, POLICY, AND IMPLEMENTATION
 
@@ -56,7 +56,7 @@ Sec. 103. <i>General Functions</i>. Executive departments and agencies (agencies
 
 (b) assess on an ongoing basis the capability of the domestic industrial and technological base to satisfy requirements in peacetime and times of national emergency, specifically evaluating the availability of the most critical resource and production sources, including subcontractors and suppliers, materials, skilled labor, and professional and technical personnel;
 
-(c) be prepared, in the event of a potential threat to the security of the United States, to take actions necessary to ensure the availability of adequate resources and production capability, including services and critical technology, for national defense requirements;
+(c) be prepared, in the event of a potential threat to the security of the United States, to take actions necessary to ensure the availability of adequate resourcesand production capability, including services and critical technology, for national defense requirements;
 
 (d) improve the efficiency and responsiveness of the domestic industrial base to support national defense requirements; and
 
@@ -144,7 +144,7 @@ Sec. 306. <i>Strategic and Critical Materials</i>. The Secretary of Defense, and
 
 Sec. 307. <i>Substitutes</i>. The head of each agency engaged in procurement for the national defense is delegated the authority of the President under section 303(g) of the Act, 50 U.S.C. App. 2093(g) \[now 50 U.S.C. 4533(g)\], to make provision for the development of substitutes for strategic and critical materials, critical components, critical technology items, and other resources to aid the national defense.
 
-Sec. 308. <i>Government-Owned Equipment</i>. The head of each agency engaged in procurement for the nationaldefense is delegated the authority of the President under section 303(e) of the Act, 50 U.S.C. App. 2093(e) \[now 50 U.S.C. 4533(e)\], to:
+Sec. 308. <i>Government-Owned Equipment</i>. The head of each agency engaged in procurement for the national defense is delegated the authority of the President under section 303(e) of the Act, 50 U.S.C. App. 2093(e) \[now 50 U.S.C. 4533(e)\], to:
 
 (a) procure and install additional equipment, facilities, processes, or improvements to plants, factories, and other industrial facilities owned by the Federal Government and to procure and install Government-owned equipment in plants, factories, or other industrial facilities owned by private persons;
 
@@ -156,7 +156,7 @@ Sec. 309. <i>Defense Production Act Fund</i>. The Secretary of Defense is design
 
 Sec. 310. <i>Critical Items</i>. The head of each agency engaged in procurement for the national defense is delegated the authority of the President under section 107(b)(1) of the Act, 50 U.S.C. App. 2077(b)(1) \[now 50 U.S.C. 4517(b)(1)\], to take appropriate action to ensure that critical components, critical technology items, essential materials, and industrial resources are available from reliable sources when needed to meet defense requirements during peacetime, graduated mobilization, and national emergency. Appropriate action may include restricting contract solicitations to reliable sources, restricting contract solicitations to domestic sources (pursuant to statutory authority), stockpiling critical components, and developing substitutes for critical components or critical technology items.
 
-Sec. 311. <i>Strengthening Domestic Capability</i>. The head of each agency engaged in procurement for the national defense is delegated the authority of the President under section 107(a) of the Act, 50 U.S.C. App. 2077(a) \[now 50 U.S.C. 4517(a)\], to utilize the authority of title III of the Act \[50 U.S.C. 4531 et seq.\] or any other provision of law to provide appropriate incentives to develop, maintain, modernize, restore, and expand the productive capacities of domestic sources for critical components, critical technology items, materials, and industrial resources essential for the execution of the national security strategy of the United States.
+Sec. 311. <i>Strengthening Domestic Capability</i>. The head of each agency engaged in procurement for the nationaldefense is delegated the authority of the President under section 107(a) of the Act, 50 U.S.C. App. 2077(a) \[now 50 U.S.C. 4517(a)\], to utilize the authority of title III of the Act \[50 U.S.C. 4531 et seq.\] or any other provision of law to provide appropriate incentives to develop, maintain, modernize, restore, and expand the productive capacities of domestic sources for critical components, critical technology items, materials, and industrial resources essential for the execution of the national security strategy of the United States.
 
 Sec. 312. <i>Modernization of Equipment</i>. The head of each agency engaged in procurement for the national defense, in accordance with section 108(b) of the Act, 50 U.S.C. App. 2078(b) \[now 50 U.S.C. 4518(b)\], may utilize the authority of title III of the Act \[50 U.S.C. 4531 et seq.\] to guarantee the purchase or lease of advance manufacturing equipment, and any related services with respect to any such equipment for purposes of the Act \[50 U.S.C. 4501 et seq.\]. In considering title III projects, the head of each agency engaged in procurement for the national defense shall provide a strong preference for proposals submitted by a small business supplier or subcontractor in accordance with section 108(b)(2) of the Act, 50 U.S.C. App. 2078(b)(2) \[now 50 U.S.C. 4518(b)(2)\].
 
@@ -268,7 +268,7 @@ Sec. 801. <i>Definitions</i>. In addition to the definitions in section 702 of t
 
 (k) "Offsets" means compensation practices required as a condition of purchase in either government-to-government or commercial sales of defense articles and/or defense services as defined by the Arms Export Control Act, 22 U.S.C. 2751 <i>et seq</i>., and the International Traffic in Arms Regulations, 22 C.F.R. 120.1–130.17.
 
-(l) "Special priorities assistance" means action by resource departments to assist with expediting deliveries,placing rated orders, locating suppliers, resolving production or delivery conflicts between various rated orders, addressing problems that arise in the fulfillment of a rated order or other action authorized by a delegated agency, and determining the validity of rated orders.
+(l) "Special priorities assistance" means action by resource departments to assist with expediting deliveries, placing rated orders, locating suppliers, resolving production or delivery conflicts between various rated orders, addressing problems that arise in the fulfillment of a rated order or other action authorized by a delegated agency, and determining the validity of rated orders.
 
 (m) "Strategic and critical materials" means materials (including energy) that (1) would be needed to supply the military, industrial, and essential civilian needs of the United States during a national emergency, and (2) are not found or produced in the United States in sufficient quantities to meet such need and are vulnerable to the termination or reduction of the availability of the material.
 
@@ -280,7 +280,7 @@ Sec. 802. <i>General</i>. (a) Except as otherwise provided in section 802(c) of 
 
 (1) the power to redelegate authorities, and to authorize the successive redelegation of authorities to agencies, officers, and employees of the Government; and
 
-(2) the power of subpoena under section 705 of the Act, 50 U.S.C. App. 2155 \[now 50 U.S.C. 4555\], with respect to (i) authorities delegated in parts II, III, and section 702 of this order, and (ii) the functions assigned to the Secretary of the Treasury in Executive Order 11858 \[50 U.S.C. 4565 note\], as amended, provided that the subpoena power referenced in subsections (i) and (ii) shall be utilized only after the scope and purpose of the investigation, inspection, or inquiry to which the subpoena relates have been defined either by the appropriate officer identified in section 802(a) of this order or by such other person or persons as the officer shall designate.
+(2) the power of subpoena under section 705 of the Act, 50 U.S.C. App. 2155 \[now 50 U.S.C. 4555\], with respect to (i) authorities delegated in parts II, III, and section 702 of this order, and (ii) the functions assignedto the Secretary of the Treasury in Executive Order 11858 \[50 U.S.C. 4565 note\], as amended, provided that the subpoena power referenced in subsections (i) and (ii) shall be utilized only after the scope and purpose of the investigation, inspection, or inquiry to which the subpoena relates have been defined either by the appropriate officer identified in section 802(a) of this order or by such other person or persons as the officer shall designate.
 
 (c) Excluded from the authorities delegated by section 802(a) of this order are authorities delegated by parts IV and V of this order, authorities in section\[s\] 721 and 722 of the Act, 50 U.S.C. App. 2170–2171 \[now 50 U.S.C. 4565, 4567\], and the authority with respect to fixing compensation under section 703 of the Act, 50 U.S.C. App. 2153 \[now 50 U.S.C. 4553\].
 

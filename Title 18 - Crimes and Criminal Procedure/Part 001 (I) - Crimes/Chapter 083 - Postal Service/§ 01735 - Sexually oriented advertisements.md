@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, in concluding provisions, substituted "fined under this title" for "finednot more than $5,000" after "shall be" and for "fined not more than $10,000" after "and shall be".
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, in concluding provisions, substituted "fined under this title" for "fined not more than $5,000" after "shall be" and for "fined not more than $10,000" after "and shall be".
 
 #### Effective Date
 

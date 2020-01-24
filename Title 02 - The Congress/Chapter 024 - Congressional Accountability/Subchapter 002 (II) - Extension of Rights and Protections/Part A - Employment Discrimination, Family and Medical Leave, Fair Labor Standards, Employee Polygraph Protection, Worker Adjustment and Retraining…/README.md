@@ -12,4 +12,5 @@ Part A—Employment Discrimination, Family and Medical Leave, Fair Labor Standar
 - [&sect; 01315 - Rights and protections under Worker Adjustment and Retraining Notification Act](%C2%A7%2001315%20-%20Rights%20and%20protections%20under%20Worker%20Adjustment%20and%20Retraining%20Notification%20Act.md)
 - [&sect; 01316 - Rights and protections relating to veterans' employment and reemployment](%C2%A7%2001316%20-%20Rights%20and%20protections%20relating%20to%20veterans%27%20employment%20and%20reemployment.md)
 - [&sect; 01316a - Legislative branch appointments](%C2%A7%2001316a%20-%20Legislative%20branch%20appointments.md)
+- [&sect; 01316b - Rights and protections relating to criminal history inquiries](%C2%A7%2001316b%20-%20Rights%20and%20protections%20relating%20to%20criminal%20history%20inquiries.md)
 - [&sect; 01317 - Prohibition of intimidation or reprisal](%C2%A7%2001317%20-%20Prohibition%20of%20intimidation%20or%20reprisal.md)

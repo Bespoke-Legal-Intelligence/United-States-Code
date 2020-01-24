@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(i) quality related to the duration and stability of health insurance coverage for children under subchapters XIX and XXI;
 
-&emsp;&emsp;&emsp;(ii) the quality of children's health care under such subchapters, including preventive health services, dental care, health care for acute conditions, chronic health care, and health services to ameliorate theeffects of physical and mental conditions and to aid in growth and development of infants, young children, school-age children, and adolescents with special health care needs; and
+&emsp;&emsp;&emsp;(ii) the quality of children's health care under such subchapters, including preventive health services, dental care, health care for acute conditions, chronic health care, and health services to ameliorate the effects of physical and mental conditions and to aid in growth and development of infants, young children, school-age children, and adolescents with special health care needs; and
 
 &emsp;&emsp;&emsp;(iii) the quality of children's health care under such subchapters across the domains of quality, including clinical quality, health care safety, family experience with health care, health care in the most integrated setting, and elimination of racial, ethnic, and socioeconomic disparities in health and health care;
 
@@ -120,7 +120,7 @@
 
 &emsp;As part of the program to advance pediatric quality measures, the Secretary shall—
 
-&emsp;&emsp;(A) award grants and contracts for the development, testing, and validation of new, emerging, and innovative evidence-based measures for children's health care services across the domains of quality described inclauses (i), (ii), and (iii) of subsection (a)(6)(A); and
+&emsp;&emsp;(A) award grants and contracts for the development, testing, and validation of new,emerging, and innovative evidence-based measures for children's health care services across the domains of quality described in clauses (i), (ii), and (iii) of subsection (a)(6)(A); and
 
 &emsp;&emsp;(B) award grants and contracts for—
 
@@ -268,7 +268,7 @@
 
 &emsp;In awarding grants under paragraph (1), the Secretary shall give priority to awarding grants to eligible entities—
 
-&emsp;&emsp;(A) that demonstrate that they have previously applied successfully for funds to carry out activities that seek to promote individual and community health and to prevent the incidence of chronic disease and that can cite published and peer-reviewed research demonstrating that the activities that the entities propose to carry out with funds made available under the grant are effective;
+&emsp;&emsp;(A) that demonstrate that they have previously applied successfully for funds to carry out activities that seek to promote individual and community health and to prevent the incidence of chronic disease andthat can cite published and peer-reviewed research demonstrating that the activities that the entities propose to carry out with funds made available under the grant are effective;
 
 &emsp;&emsp;(B) that will carry out programs or activities that seek to accomplish a goal or goals set by the State in the Healthy People 2010 plan of the State;
 
@@ -366,7 +366,7 @@
 
 #### (1) In general
 
-&emsp;Not later than January 1, 2010, the Secretary shall establish a program to encourage the development and dissemination of a model electronic health record format for children enrolled in the State plan under subchapter XIXor the State child health plan under subchapter XXI that is—
+&emsp;Not later than January 1, 2010, the Secretary shall establish a program to encourage the development and dissemination of a model electronic health record format for children enrolled in the State plan under subchapter XIX or the State child health plan under subchapter XXI that is—
 
 &emsp;&emsp;(A) subject to State laws, accessible to parents, caregivers, and other consumers for the sole purpose of demonstrating compliance with school or leisure activity requirements, such as appropriate immunizations or physicals;
 
@@ -432,7 +432,7 @@ Subsec. (c)(1)(A). Pub. L. 115–123, §50102(b)(2), inserted "and, beginning wi
 
 Subsec. (e)(8). Pub. L. 115–120, §3003(a), substituted ", $10,000,000" for "and $10,000,000" and inserted ", and $30,000,000 for the period of fiscal years 2018 through 2023" after "2017".
 
-Subsec. (i). Pub. L. 115–120, §3003(b), restructured existing text into par. (1), including subpars. (A) and (B), and par. (2), inserted par. headings, and added par. (1)(C).
+Subsec. (i). Pub. L. 115–120, §3003(b), restructured existing text into par. (1), including subpars. (A) and (B),and par. (2), inserted par. headings, and added par. (1)(C).
 
 Subsec. (i)(1)(D). Pub. L. 115–123, §50102(a), added subpar. (D).
 

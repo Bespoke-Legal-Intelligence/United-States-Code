@@ -31,7 +31,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 | 3 | 20&nbsp;&nbsp; |
 | 4 | 40&nbsp;&nbsp; |
 | 5 | 60&nbsp;&nbsp; |
-| 6 | 80&nbsp;&nbsp; |
+| 6 | 80   |
 | 7 or more | 100\. |
 
 #### (B) Defined contribution plans
@@ -122,7 +122,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;(E) years of service before January 1, 1971, unless the employee has had at least 3 years of service after December 31, 1970;
 
-&emsp;&emsp;(F) years of service before the first plan year to which this section applies, if suchservice would have been disregarded under the rules of the plan with regard to breaks in service as in effect on the applicable date; and
+&emsp;&emsp;(F) years of service before the first plan year to which this section applies, if such service would have been disregarded under the rules of the plan with regard to breaks in service as in effect on the applicable date; and
 
 &emsp;&emsp;(G) in the case of a multiemployer plan, years of service—
 
@@ -358,7 +358,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;A defined benefit plan satisfies the requirements of this paragraph if the accrued benefit to which each participant is entitled upon his separation from the service is not less than—
 
-&emsp;&emsp;&emsp;(i) 3 percent of the normal retirement benefit to which he would be entitled if hecommenced participation at the earliest possible entry age under the plan and served continuously until the earlier of age 65 or the normal retirement age specified under the plan, multiplied by
+&emsp;&emsp;&emsp;(i) 3 percent of the normal retirement benefit to which he would be entitled if he commenced participation at the earliest possible entry age under the plan and served continuously until the earlier of age 65 or the normal retirement age specified under the plan, multiplied by
 
 &emsp;&emsp;&emsp;(ii) the number of years (not in excess of 331/3) of his participation in the plan.
 
@@ -428,7 +428,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;&emsp;(II) if distribution of benefits under such plan with respect to such employee has not commenced as of the end of such year in accordance with section 401(a)(14)(C), and the payment of benefits under such plan with respect to such employee is not suspended during such plan year pursuant to subsection (a)(3)(B), then any requirement of this subparagraph for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of any adjustment in the benefit payable under the plan during such plan year attributable to the delay in the distribution of benefits after the attainment of normal retirement age.
 
-&emsp;&emsp;&nbsp;The preceding provisions of this clause shall apply in accordance with regulations of the Secretary. Such regulations may provide for the application of the preceding provisions of this clause, in the case of any such employee, with respect to any period of time within a plan year.
+&emsp;&emsp;&nbsp;The preceding provisions of this clause shall apply in accordance with regulationsof the Secretary. Such regulations may provide for the application of the preceding provisions of this clause, in the case of any such employee, with respect to any period of time within a plan year.
 
 #### (iv) Disregard of subsidized portion of early retirement benefit
 
@@ -464,7 +464,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (A) Definition
 
-&emsp;&emsp;For purposes of determining an employee's accrued benefit, the term "year of participation" means a period of service (beginning at the earliest date on which the employee is a participant in the plan and which is included in a period of service required to be taken into account under section 410(a)(5), determined without regard to section 410(a)(5)(E)) as determined under regulations prescribed by the Secretary of Labor which provide forthe calculation of such period on any reasonable and consistent basis.
+&emsp;&emsp;For purposes of determining an employee's accrued benefit, the term "year of participation" means a period of service (beginning at the earliest date on which the employee is a participant in the plan and which is included in a period of service required to be taken into account under section 410(a)(5), determined without regard to section 410(a)(5)(E)) as determined under regulations prescribed by the Secretary of Labor which provide for the calculation of such period on any reasonable and consistent basis.
 
 #### (B) Less than full time service
 
@@ -528,7 +528,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;&emsp;(I) the participant's accrued benefit for years of service before the effective date of the amendment, determined under the terms of the plan as in effect before the amendment, plus
 
-&emsp;&emsp;&emsp;&emsp;(II) the participant's accrued benefit for years of service after the effectivedate of the amendment, determined under the terms of the plan as in effect after the amendment.
+&emsp;&emsp;&emsp;&emsp;(II) the participant's accrued benefit for years of service after the effective date of the amendment, determined under the terms of the plan as in effect after the amendment.
 
 #### (iv) Special rules for early retirement subsidies
 
@@ -560,7 +560,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;&emsp;(I) if the interest credit rate (or an equivalent amount) under the plan is a variable rate, the rate of interest used to determine accrued benefits under the plan shall be equal to the average of the rates of interest used under the plan during the 5-year period ending on the termination date, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the interest rate and mortality table used to determine the amount of any benefit under the plan payable in the form of an annuity payable at normal retirement age shall be the rate and table specified under the plan for such purpose as of the termination date, except that if such interest rate is a variable rate, the interest rate shall be determined under the rules of subclause (I).
+&emsp;&emsp;&emsp;&emsp;(II) the interest rate and mortality table used to determine the amount of any benefit under the plan payable in the form of an annuity payable at normal retirement age shall be the rate and table specified under the plan for such purpose as of the termination date, except that ifsuch interest rate is a variable rate, the interest rate shall be determined under the rules of subclause (I).
 
 #### (C) Certain offsets permitted
 
@@ -602,7 +602,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (A) Plans other than defined benefit plans
 
-&emsp;&emsp;In the case of a plan other than a defined benefit plan, the accrued benefit derivedfrom contributions made by an employee as of any applicable date is—
+&emsp;&emsp;In the case of a plan other than a defined benefit plan, the accrued benefit derived from contributions made by an employee as of any applicable date is—
 
 &emsp;&emsp;&emsp;(i) except as provided in clause (ii), the balance of the employee's separate account consisting only of his contributions and the income, expenses, gains, and losses attributable thereto, or
 
@@ -630,7 +630,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (D) Adjustments
 
-&emsp;&emsp;The Secretary is authorized to adjust by regulation the conversion factor described in subparagraph (B) from time to time as he may deem necessary. No such adjustment shall be effective for a plan year beginning before the expiration of 1 year after such adjustment is determined and published.
+&emsp;&emsp;The Secretary is authorized to adjust by regulation the conversion factor described in subparagraph (B) from time to time as he may deem necessary. No such adjustment shall be effective for a plan year beginningbefore the expiration of 1 year after such adjustment is determined and published.
 
 #### (3) Actuarial adjustment
 
@@ -658,7 +658,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;(B) in the case of a plan to which section 412 does not apply, upon complete discontinuance of contributions under the plan,
 
-> &emsp;the rights of all affected employees to benefits accrued to the date of such termination, partial termination, or discontinuance, to the extent funded as of such date, or the amounts credited to the employees' accounts, are nonforfeitable. This paragraph shall not apply to benefits or contributions which, under provisions of the plan adopted pursuant to regulations prescribed by the Secretary to preclude the discrimination prohibited by section401(a)(4), may not be used for designated employees in the event of early termination of the plan. For purposes of this paragraph, in the case of the complete discontinuance of contributions under a profit-sharing or stock bonus plan, such plan shall be treated as having terminated on the day on which the plan administrator notifies the Secretary (in accordance with regulations) of the discontinuance.
+> &emsp;the rights of all affected employees to benefits accrued to the date of such termination, partial termination, or discontinuance, to the extent funded as of such date, or the amounts credited to the employees' accounts, are nonforfeitable. This paragraph shall not apply to benefits or contributions which, under provisions of the plan adopted pursuant to regulations prescribed by the Secretary to preclude the discrimination prohibited by section 401(a)(4), may not be used for designated employees in the event of early termination of the plan. For purposes of this paragraph, in the case of the complete discontinuance of contributions under a profit-sharing or stock bonus plan, such plan shall be treated as having terminated on the day on which the plan administrator notifies the Secretary (in accordance with regulations) of the discontinuance.
 
 #### \[(4) Repealed. Pub. L. 99–514, title XI, §1113(b), Oct. 22, 1986, 100 Stat. 2447\]
 
@@ -888,7 +888,7 @@ Subsec. (c)(2)(B). Pub. L. 101–239, §7881(m)(1)(B), amended subpar. (B) gener
 
 "(i)
 
-In general.—In the case of a defined benefit plan providing an annual benefit in the form of a single lifeannuity (without ancillary benefits) commencing at normal retirement age, the accrued benefit derived from contributions made by an employee as of any applicable date is the annual benefit equal to the employee's accumulated contributions multiplied by the appropriate conversion factor.
+In general.—In the case of a defined benefit plan providing an annual benefit in the form of a single life annuity (without ancillary benefits) commencing at normal retirement age, the accrued benefit derived from contributions made by an employee as of any applicable date is the annual benefit equal to the employee's accumulated contributions multiplied by the appropriate conversion factor.
 
 "(ii)
 
@@ -1146,7 +1146,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 Amendment by section 7861(a)(5)(A), (6)(A) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set out as a note under section 106 of this title.
 
-Pub. L. 101–239, title VII, §7871(a)(4), Dec. 19, 1989, 103 Stat. 2435, provided that: "The amendments made bythis subsection \[amending this section and section 1054 of Title 29, Labor\] shall take effect as if included in the amendments made by section 9202 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\]."
+Pub. L. 101–239, title VII, §7871(a)(4), Dec. 19, 1989, 103 Stat. 2435, provided that: "The amendments made by this subsection \[amending this section and section 1054 of Title 29, Labor\] shall take effect as if included in the amendments made by section 9202 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\]."
 
 Pub. L. 101–239, title VII, §7871(b)(3), Dec. 19, 1989, 103 Stat. 2435, provided that: "The amendments made by this subsection \[amending this section and section 1002 of Title 29, Labor\] shall take effect as if included in the amendments made by section 9203 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\]."
 
@@ -1192,7 +1192,7 @@ Repeal of class year vesting.—If a plan amendment repealing class year vesting
 
 &emsp;"(B) such employee has at least 1 hour of service before the adoption of such plan amendment and after the beginning of such 1st plan year.
 
-> This paragraph shall not apply to an employee who has 5 consecutive 1-year breaks in service (as defined in section 411(a)(6)(A) of the Internal Revenue Code of 1986) which include the 1st day of the 1st plan year to which the amendments made by subsection (b) and (e)(2) apply. A plan shall not be treated as failing to meet the requirements of section 401(a)(26) of such Code by reason of complying with the provisions of this paragraph."
+> This paragraph shall not apply to an employee who has 5 consecutive 1-year breaks in service (as defined in section 411(a)(6)(A) of the Internal Revenue Code of 1986) which include the 1st day of the 1st plan year to which the amendments made by subsection (b) and (e)(2) apply. A plan shall not be treated as failing tomeet the requirements of section 401(a)(26) of such Code by reason of complying with the provisions of this paragraph."
 
 Amendment by section 1114(b)(10) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1988, see section 1114(c)(3) of Pub. L. 99–514, set out as a note under section 414 of this title.
 
@@ -1232,7 +1232,7 @@ Pub. L. 99–514, title XVIII, §1898(a)(1)(C), Oct. 22, 1986, 100 Stat. 2942, p
 
 Amendment by section 1898(a)(4)(A), (d)(1)(A), (2)(A), (f)(1)(A) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
-Amendment by section 9202(b) of Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only to employees who have 1 hour of service in any plan year to which amendmentapplies, with special rule for collectively bargained plans, and amendment by section 9203(b)(2) of Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only with respect to service performed on or after such date, see section 9204(a), (b) of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of Title 29, Labor.
+Amendment by section 9202(b) of Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only to employees who have 1 hour of service in any plan year to which amendment applies, with special rule for collectively bargained plans, and amendment by section 9203(b)(2) of Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only with respect to service performed on or after such date, see section 9204(a), (b) of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of Title 29, Labor.
 
 #### Effective Date of 1984 Amendment
 
@@ -1272,7 +1272,7 @@ In general.—The modifications required by paragraph (1) shall apply to years b
 
 Reasonable notice.—A plan shall not be treated as failing to meet the requirements of section 411(a)(11) of such Code or section 205 of such Act with respect to any description of consequences described in paragraph (1) made within 90 days after the Secretary of the Treasury issues the modifications required by paragraph (1) if the plan administrator makes a reasonable attempt to comply with such requirements."
 
-Pub. L. 107–16, title VI, §645(b)(3), June 7, 2001, 115 Stat. 126, provided that: "Not later than December 31, 2003, the Secretary of the Treasury is directed to issue regulations under section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1054(g)\], including the regulations required by the amendment made by this subsection \[amending this section and section 1054 of Title 29, Labor\]. Such regulations shall apply to plan years beginning after December 31, 2003, or such earlier date as is specified by the Secretary of the Treasury."
+Pub. L. 107–16, title VI, §645(b)(3), June 7, 2001, 115 Stat. 126, provided that: "Not later than December 31, 2003, the Secretary of the Treasury is directed to issue regulations under section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1054(g)\], including the regulations required by the amendmentmade by this subsection \[amending this section and section 1054 of Title 29, Labor\]. Such regulations shall apply to plan years beginning after December 31, 2003, or such earlier date as is specified by the Secretary of the Treasury."
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1113 and 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
@@ -1370,7 +1370,7 @@ Pub. L. 105–34, title XV, §1541, Aug. 5, 1997, 111 Stat. 1085, provided that:
 
 In General.—If this section applies to any plan or contract amendment—
 
-&emsp;"(1) such plan or contract shall be treated as being operated in accordance with the terms of the plan during the period described in subsection (b)(2)(A), and
+&emsp;"(1) such plan or contract shall be treated as being operated in accordance with the terms of the planduring the period described in subsection (b)(2)(A), and
 
 &emsp;"(2) such plan shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 or section 204(g) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1054(g)\] by reason of such amendment.
 
@@ -1414,7 +1414,7 @@ Pub. L. 104–188, title I, §1449(d), Aug. 20, 1996, 110 Stat. 1814, provided t
 
 #### Plan Amendments Reflecting Amendments by Section 7881(m) of Pub. L. 101–239 Not Treated as Reducing Accrued Benefits
 
-For provisions directing that if during the period beginning Dec. 22, 1987, and ending June 21, 1988, a plan was amended to reflect the amendments by section 9346 of Pub. L. 100–203 and such plan is amended to reflect the amendments by section 7881(m) of Pub. L. 101–239, any plan amendments made to reflect the amendmentsby section 7881(m) of Pub. L. 101–239 shall not be treated as reducing accrued benefits for purposes of subsection (d)(6) of this section or section 1054(g) of Title 29, Labor, see section 7881(m)(3) of Pub. L. 101–239, set out as a note under section 1054 of Title 29.
+For provisions directing that if during the period beginning Dec. 22, 1987, and ending June 21, 1988, a plan was amended to reflect the amendments by section 9346 of Pub. L. 100–203 and such plan is amended to reflect the amendments by section 7881(m) of Pub. L. 101–239, any plan amendments made to reflect the amendments by section 7881(m) of Pub. L. 101–239 shall not be treated as reducing accrued benefits for purposes of subsection (d)(6) of this section or section 1054(g) of Title 29, Labor, see section 7881(m)(3) of Pub. L. 101–239, set out as a note under section 1054 of Title 29.
 
 #### Plan Amendments Not Required Until January 1, 1998
 

@@ -18,7 +18,7 @@ Testing Program for Operators of Commercial Motor Vehicles.—(1)(A) In the inte
 
 &emsp;&emsp;(II) in conducting random testing for the use of a controlled substance if the operator was subject to hair testing for preemployment testing.
 
-(C) When the Secretary of Transportation considers it appropriate in the interest of safety,the Secretary may prescribe regulations for conducting periodic recurring testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a Government regulation.
+(C) When the Secretary of Transportation considers it appropriate in the interest of safety, the Secretary may prescribe regulations for conducting periodic recurring testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a Government regulation.
 
 (2) In prescribing regulations under this subsection, the Secretary of Transportation—
 
@@ -214,7 +214,7 @@ Pub. L. 106–159, title II, §226, Dec. 9, 1999, 113 Stat. 1771, provided that:
 
 In General.—The Secretary shall conduct a study of the feasibility and merits of—
 
-&emsp;"(1) requiring medical review officers or employers to report all verified positive controlled substancestest results on any driver subject to controlled substances testing under part 382 of title 49, Code of Federal Regulations, including the identity of each person tested and each controlled substance found, to the State that issued the driver's commercial driver's license; and
+&emsp;"(1) requiring medical review officers or employers to report all verified positive controlled substances test results on any driver subject to controlled substances testing under part 382 of title 49, Code of Federal Regulations, including the identity of each person tested and each controlled substance found, to the State that issued the driver's commercial driver's license; and
 
 &emsp;"(2) requiring all prospective employers, before hiring any driver, to query the State that issued the driver's commercial driver's license on whether the State has on record any verified positive controlled substances test on such driver.
 
@@ -246,5 +246,5 @@ Study.—The Secretary \[of Transportation\] shall conduct a study of the feasib
 
 "(b)
 
-Report.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the study, together with such recommendations as the Secretary determines appropriate."
+Report.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretaryshall transmit to Congress a report on the study, together with such recommendations as the Secretary determines appropriate."
 

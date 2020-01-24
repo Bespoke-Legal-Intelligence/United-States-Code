@@ -50,7 +50,7 @@ Adjustment and Diversification Assistance.—(1) The Secretary of Defense may ma
 
 (c)
 
-Research and Technical Assistance.—The Secretary of Defense may make grants to, or conclude cooperative agreements or enter into contracts with, another Federal agency, a State or local government, or any private entity to conduct research and provide technical assistance in support of activities under this section or Executive Order 12788 (57 Fed. Reg. 2213), as amended by section 33 of Executive Order 13286 (68 Fed. Reg. 10625) and Executive Order 13378 (70 Fed. Reg. 28413).
+Research and Technical Assistance.—The Secretary of Defense may make grants to, or conclude cooperative agreements or enter into contracts with, another Federal agency, a State or local government, or any private entity to conduct research and provide technical assistance in support of activities under this section or Executive Order 12788 (57 Fed. Reg. 2213), as amended by section 33 of Executive Order13286 (68 Fed. Reg. 10625) and Executive Order 13378 (70 Fed. Reg. 28413).
 
 (d)
 
@@ -72,7 +72,23 @@ Definitions.—In this section:
 
 &emsp;(3) The terms "community adjustment" and "economic diversification" include the development of feasibility studies and business plans for market diversification within a community adversely affected by an action described in clause (A), (B), (C), or (E) of subsection (b)(1) by adversely affected businesses and labor organizations located in the community.
 
-&emsp;(4) The term "community infrastructure" means any transportation project; school, hospital, police, fire, emergency response, or other community support facility; or water, waste-water, telecommunications, electric, gas, or other utility infrastructure project that is located off of a military installation and owned by a State or local government.
+&emsp;(4)(A) The term "community infrastructure" means a project or facility described in subparagraph (B) that—
+
+&emsp;&emsp;(i) is located off of a military installation; and
+
+&emsp;&emsp;(ii) is—
+
+&emsp;&emsp;&emsp;(I) owned by a State or local government; or
+
+&emsp;&emsp;&emsp;(II) a not-for-profit, member-owned utility service.
+
+&emsp;(B) A project or facility described in this subparagraph is any of the following:
+
+&emsp;&emsp;(i) Any transportation project.
+
+&emsp;&emsp;(ii) A school, hospital, police, fire, emergency response, or other community support facility.
+
+&emsp;&emsp;(iii) A water, waste-water, telecommunications, electric, gas, or other utility infrastructure project.
 
 &emsp;(5) The term "rural area" means a city, town, or unincorporated area that has a population of not more than 50,000 inhabitants.
 
@@ -80,7 +96,7 @@ Definitions.—In this section:
 
 Assistance Subject to Appropriations.—The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.
 
-(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. B, title XXVIII, §2814, Sept. 23, 1996, 110 Stat. 2790; Pub. L. 105–85, div. B, title XXVIII, §2822, Nov. 18, 1997, 111 Stat. 1997; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(a)(13), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 109–163, div. B, title XXVIII, §2832, Jan. 6, 2006, 119 Stat. 3520; Pub. L. 109–364, div. B, title XXVIII, §§2861, 2862, Oct. 17, 2006, 120 Stat. 2498; Pub. L. 110–417, div. B, title XXVIII, §2823(b), Oct. 14, 2008, 122 Stat. 4730; Pub. L. 112–239, div. B, title XXVII, §2712(c)(1), Jan. 2, 2013, 126 Stat. 2145; Pub. L. 115–232, div. B, title XXVIII, §§2805(f), 2861, Aug. 13, 2018, 132 Stat. 2263, 2282.)
+(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. B, title XXVIII, §2814, Sept. 23, 1996, 110 Stat. 2790; Pub. L. 105–85, div. B, title XXVIII, §2822, Nov. 18, 1997, 111 Stat. 1997; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(a)(13), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 109–163, div. B, title XXVIII, §2832, Jan. 6, 2006, 119 Stat. 3520; Pub. L. 109–364, div. B, title XXVIII, §§2861, 2862, Oct. 17, 2006, 120 Stat. 2498; Pub. L. 110–417, div. B, title XXVIII, §2823(b), Oct. 14, 2008, 122 Stat. 4730; Pub. L. 112–239, div. B, title XXVII, §2712(c)(1), Jan. 2, 2013, 126 Stat. 2145; Pub. L. 115–232, div. B, title XXVIII, §§2805(f), 2861, Aug. 13, 2018, 132 Stat. 2263, 2282; Pub. L. 116–92, div. B, title XXVIII, §2862, Dec. 20, 2019, 133 Stat. 1899.)
 
 #### References in Text
 
@@ -91,6 +107,8 @@ Executive Order 12788, referred to in subsec. (c), is set out below.
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2019, referred to in subsec. (d)(4), is the date of enactment of Pub. L. 115–232, which was approved Aug. 13, 2018.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (e)(4). Pub. L. 116–92 amended par. (4) generally. Prior to amendment, text read as follows: "The term 'community infrastructure' means any transportation project; school, hospital, police, fire, emergency response, or other community support facility; or water, waste-water, telecommunications, electric, gas, or other utility infrastructure project that is located off of a military installation and owned by a State or local government."
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–232, §2805(f), substituted ", (E) by threats to military installation resilience, or (F) by the closure" for ", or (E) by the closure", "(A), (B), (C), or (F)" for "(A), (B), (C), or (E)", and "action described in clause (D) or (E), if the Secretary determines that either the encroachment of the civilian community or threats to military installation resilience" for "action described in clause (D), if the Secretary determines that the encroachment of the civilian community".
 
@@ -128,7 +146,7 @@ Pub. L. 109–163, §2832(b), amended par. (1) generally. Prior to amendment, pa
 
 Subsec. (c). Pub. L. 104–106 substituted "Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives" for "Committees on Armed Services of the Senate and House of Representatives".
 
-<b>1994</b>—Subsec. (b)(5) to (7). Pub. L. 103–337, §1123(a), added par. (5) and redesignated former pars. (5) and (6)as (6) and (7), respectively. Former par. (7) redesignated (8).
+<b>1994</b>—Subsec. (b)(5) to (7). Pub. L. 103–337, §1123(a), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
 Subsec. (b)(8). Pub. L. 103–337, §1123(a)(1), (b), redesignated par. (7) as (8) and substituted "paragraph (7)" for "paragraph (6)" in subpars. (A) and (B).
 
@@ -166,7 +184,7 @@ Subsec. (e). Pub. L. 102–484, §4301(c)(4), inserted heading.
 
 "(6) Not more than $2,000,000 in assistance may be provided under this subsection in any fiscal year."
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–456, §2805(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds made available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments, and regional organizations composed of State and local governments, in planning community adjustments required (A) by the proposed or actual establishment, realignment, or closure of a military installation, or (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, if the Secretary of Defense determines that the action is likely to impose a significant impact on the affected community."
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–456, §2805(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds made available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments, and regional organizations composed of State and local governments, in planning community adjustments required (A) by the proposed or actual establishment, realignment, or closure of a military installation, or (B) by the cancellation or termination of a Department ofDefense contract or the failure to proceed with an approved major weapon system program, if the Secretary of Defense determines that the action is likely to impose a significant impact on the affected community."
 
 Subsec. (b)(4) to (6). Pub. L. 100–456, §2805(b), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
@@ -400,7 +418,7 @@ Export-Import Bank.—
 
 &emsp;"(1)
 
-Sense of congress on plan for expansion.—It is the sense of Congress that the United States businesses undergoing transition from defense production to nondefense production will need assistance in seizing export markets overseas. Therefore, in order to provide financial support for such businesses, as wellas meeting other normal demands on its resources, the annual direct lending authority of the Export-Import Bank of the United States should be increased by at least 150 percent from the fiscal year 1990 level over the five-year period beginning October 1, 1990.
+Sense of congress on plan for expansion.—It is the sense of Congress that the United States businesses undergoing transition from defense production to nondefense production will need assistance in seizing export markets overseas. Therefore, in order to provide financial support for such businesses, as well as meeting other normal demands on its resources, the annual direct lending authority of the Export-Import Bank of the United States should be increased by at least 150 percent from the fiscal year 1990 level over the five-year period beginning October 1, 1990.
 
 &emsp;"(2)
 
@@ -432,7 +450,7 @@ Coordination and Integration of Activities and Assistance with Other Agencies.�
 
 "(d)
 
-Reporting.—The annual reports made by the Export-Import Bank of the United States and the Administrator of the Small Business Administration and the annual economic stabilization and adjustment report under section 4004(c)(3) of this division shall include a description of the extent to which the bank and the Administrator are—
+Reporting.—The annual reports made by the Export-Import Bank of the United States and the Administrator of the Small Business Administration and the annual economic stabilization and adjustment reportunder section 4004(c)(3) of this division shall include a description of the extent to which the bank and the Administrator are—
 
 &emsp;"(1) providing financing described in subsections (a)(2) and (b), respectively, to businesses or groups of workers which were substantially and seriously affected by defense budget reductions; and
 
@@ -506,7 +524,7 @@ Sec. 3. <i>Functions of the Defense Economic Adjustment Program</i>. The Defense
 
 (e) Identify and strengthen existing agency mechanisms to improve reemployment opportunities for dislocated Defense industry personnel;
 
-(f) Assure timely consultation and cooperation with Federal, State, regional, metropolitan, and community officials concerning Defense-related impacts on Defense-affected communities' problems;
+(f) Assure timely consultation and cooperation with Federal, State, regional, metropolitan, and communityofficials concerning Defense-related impacts on Defense-affected communities' problems;
 
 (g) Assure coordinated interagency and intergovernmental adjustment assistance concerning Defense impact problems;
 

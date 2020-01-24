@@ -14,7 +14,7 @@ Each Federal agency or museum which has possession or control over holdings or c
 
 &emsp;(C) completed by not later than the date that is 3 years after November 16, 1990.
 
-(2) Upon request, Indian Tribes <sup>1</sup> and Native Hawaiian organizations shall have access to records, catalogues, relevant studies or other pertinent data for the limited purposes of determining the geographic origin, cultural affiliation, and basic facts surrounding acquisition and accession of Native American objects subject to this section. Such information shall be provided in a reasonable manner to be agreed upon by all parties.
+(2) Upon request, Indian Tribes <sup>1</sup> and Native Hawaiian organizations shall have access to records, catalogues, relevant studies or other pertinent data for the limited purposes of determining the geographic origin, cultural affiliation, and basic facts surrounding acquisitionand accession of Native American objects subject to this section. Such information shall be provided in a reasonable manner to be agreed upon by all parties.
 
 (Pub. L. 101–601, §6, Nov. 16, 1990, 104 Stat. 3053.)
 

@@ -4,7 +4,7 @@
 
 #### (1) Establishment of program
 
-&emsp;To foster individual economic self-sufficiency and promote useful opportunities in community service activities (which shall include community service employment) for unemployed low-income persons who are age 55 or older, particularly persons who have poor employment prospects, and to increase the number of persons who may enjoy the benefits of unsubsidized employment in both the public and private sectors, the Secretary of Labor (referred to in this subchapter as the "Secretary") may establish an older American community service employment program.
+&emsp;To foster individual economic self-sufficiency and promote useful opportunities incommunity service activities (which shall include community service employment) for unemployed low-income persons who are age 55 or older, particularly persons who have poor employment prospects, and to increase the number of persons who may enjoy the benefits of unsubsidized employment in both the public and private sectors, the Secretary of Labor (referred to in this subchapter as the "Secretary") may establish an older American community service employment program.
 
 #### (2) Use of appropriated amounts
 
@@ -130,7 +130,7 @@
 
 &emsp;For purposes of this subchapter, administrative costs are the costs, both personnel-related and nonpersonnel-related and both direct and indirect, associated with the following:
 
-&emsp;&emsp;(A) The costs of performing general administrative functions and of providing for thecoordination of functions, such as the costs of—
+&emsp;&emsp;(A) The costs of performing general administrative functions and of providing for the coordination of functions, such as the costs of—
 
 &emsp;&emsp;&emsp;(i) accounting, budgeting, and financial and cash management;
 
@@ -238,7 +238,7 @@ Whenever a grantee conducts a project within a planning and service area in a St
 
 &emsp;Such projects may include—
 
-&emsp;&emsp;(A) activities linking businesses and eligible individuals, including activities providing assistance to participants transitioning from subsidized activities to private sector employment;
+&emsp;&emsp;(A) activities linking businesses and eligible individuals, including activities providing assistance to participants transitioningfrom subsidized activities to private sector employment;
 
 &emsp;&emsp;(B) demonstration projects and pilot projects designed to—
 
@@ -266,7 +266,7 @@ Whenever a grantee conducts a project within a planning and service area in a St
 
 #### References in Text
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(H), (N)(i), (3), is Pub. L.113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle B of title I of the Act is classified generally to part B (§3151 et seq.) of subchapter I of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(H), (N)(i), (3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle B of title I of the Act is classified generally to part B (§3151 et seq.) of subchapter I of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (b)(1)(J)(i), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
@@ -296,7 +296,7 @@ Subsec. (e)(3). Pub. L. 114–144, §6(a)(3), inserted ", with the State workfo
 
 <b>2014</b>—Subsec. (b)(1)(H). Pub. L. 113–128, §512(w)(3)(A)(i)(I), substituted "will coordinate activities with training and other services provided under title I of the Workforce Innovation and Opportunity Act, including utilizing the one-stop delivery system of the local workforce development areas involved" for "will coordinate activities with training and other services provided under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), including utilizing the one-stop delivery system of the local workforce investment areas involved".
 
-Subsec. (b)(1)(O). Pub. L. 113–128, §512(w)(3)(A)(i)(II), substituted "through the one-stop delivery system of the local workforce development areas involved as established under section 121(e) of the Workforce Innovation and Opportunity Act, and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce development board in accordance with section 121(c) of such Act" for "through the one-stop delivery system of the local workforce investment areas involved as established under section 134(c) of the Workforce Investment Act of 1998 (29 U.S.C. 2864(c)), and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce investment board in accordance with section 121(c) of such Act (29 U.S.C. 2841(c))".
+Subsec. (b)(1)(O). Pub. L. 113–128, §512(w)(3)(A)(i)(II), substituted "through the one-stop delivery system of the local workforce development areas involved as established under section 121(e) of the Workforce Innovation and Opportunity Act, and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce development board in accordance with section121(c) of such Act" for "through the one-stop delivery system of the local workforce investment areas involved as established under section 134(c) of the Workforce Investment Act of 1998 (29 U.S.C. 2864(c)), and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce investment board in accordance with section 121(c) of such Act (29 U.S.C. 2841(c))".
 
 Subsec. (b)(1)(Q)(i). Pub. L. 113–128, §512(w)(3)(A)(i)(III)(aa), substituted "clauses (ii) and (viii) of paragraph (2)(B), relating to coordination with other Federal programs, of section 102(b) of the Workforce Innovation and Opportunity Act" for "paragraph (8), relating to coordination with other Federal programs, of section 112(b) of the Workforce Investment Act of 1998 (29 U.S.C. 2822(b))".
 
@@ -310,7 +310,7 @@ Subsec. (e)(2)(B)(ii). Pub. L. 113–128, §512(w)(3)(B), substituted "one-stop 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014\(July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date
 

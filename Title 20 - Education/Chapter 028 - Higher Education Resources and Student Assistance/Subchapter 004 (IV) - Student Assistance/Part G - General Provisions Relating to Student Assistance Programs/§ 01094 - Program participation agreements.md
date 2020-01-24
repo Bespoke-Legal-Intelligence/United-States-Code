@@ -4,7 +4,7 @@
 
 In order to be an eligible institution for the purposes of any program authorized under this subchapter, an institution must be an institution of higher education or an eligible institution (as that term is defined for the purpose of that program) and shall, except with respect to a program under subpart 4 of part A, enter into a program participation agreement with the Secretary. The agreement shall condition the initial and continuing eligibility of an institution to participate in a program upon compliance with the following requirements:
 
-&emsp;(1) The institution will use funds received by it for any program under this subchapter andany interest or other earnings thereon solely for the purpose specified in and in accordance with the provision of that program.
+&emsp;(1) The institution will use funds received by it for any program under this subchapter and any interest or other earnings thereon solely for the purpose specified in and in accordance with the provision of that program.
 
 &emsp;(2) The institution shall not charge any student a fee for processing or handling any application, form, or data required to determine the student's eligibility for assistance under this subchapter or the amount of such assistance.
 
@@ -92,7 +92,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(26) The institution will, upon written request, disclose to the alleged victim of any crime of violence (as that term is defined in section 16 of title 18), or a nonforcible sex offense, the report on the results of any disciplinary proceeding conducted by such institution against a student who is the alleged perpetrator of such crime or offense with respect to such crime or offense. If the alleged victim of such crime or offense is deceased as a result of such crime or offense, the next of kin of such victim shall be treated as the alleged victim for purposes of this paragraph.
 
-&emsp;(27) In the case of an institution that has entered into a preferred lender arrangement, the institution will at least annually compile, maintain, and make available for students attending the institution, and the families of such students, a list, in print or other medium, of the specific lenders for loans made,insured, or guaranteed under this subchapter or private education loans that the institution recommends, promotes, or endorses in accordance with such preferred lender arrangement. In making such list, the institution shall comply with the requirements of subsection (h).
+&emsp;(27) In the case of an institution that has entered into a preferred lender arrangement, the institution will at least annually compile, maintain, and make available for students attending the institution, and the families of such students, a list, in print or other medium, of the specific lenders for loans made, insured, or guaranteed under this subchapter or private education loans that the institution recommends, promotes, or endorses in accordance with such preferred lender arrangement. In making such list, the institution shall comply with the requirements of subsection (h).
 
 &emsp;(28)(A) The institution will, upon the request of an applicant for a private education loan, provide to the applicant the form required under section 1638(e)(3) of title 15, and the information required to complete such form, to the extent the institution possesses such information.
 
@@ -126,11 +126,11 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(ii) with regard to a third party servicer that is audited under chapter 75 of title 31, such audit shall be deemed to satisfy the requirements of clause (i) for the period covered by such audit;
 
-&emsp;(D)(i) a compliance audit of a secondary market with regard to its transactions involving, and its servicing and collection of, loans made under this subchapter, at least once a year and covering the period since the mostrecent audit, conducted by a qualified, independent organization or person in accordance with standards established by the Comptroller General for the audit of governmental organizations, programs, and functions, and as prescribed in regulations of the Secretary, the results of which shall be submitted to the Secretary; or
+&emsp;(D)(i) a compliance audit of a secondary market with regard to its transactions involving, and its servicing and collection of, loans made under this subchapter, at least once a year and covering the period since the most recent audit, conducted by a qualified, independent organization or person in accordance with standards established by the Comptroller General for the audit of governmental organizations, programs, and functions, and as prescribed in regulations of the Secretary, the results of which shall be submitted to the Secretary; or
 
 &emsp;(ii) with regard to a secondary market that is audited under chapter 75 of title 31, such audit shall be deemed to satisfy the requirements of clause (i) for the period covered by the audit;
 
-&emsp;(E) the establishment, by each eligible institution under part B responsible for furnishing to the lender the statement required by section 1078(a)(2)(A)(i) of this title, of policies and procedures by which the latest known address and enrollment status of any student who has had a loan insured under this part and who has either formally terminated his enrollment, or failed to re-enroll on at least a half-time basis, at such institution, shall be furnished either to the holder (or if unknown, the insurer) of the note, not later than 60 days after such termination or failure to re-enroll;
+&emsp;(E) the establishment, by each eligible institution under part B responsible for furnishing to the lender the statement required by section 1078(a)(2)(A)(i) of this title, of policies and procedures by which the latest known addressand enrollment status of any student who has had a loan insured under this part and who has either formally terminated his enrollment, or failed to re-enroll on at least a half-time basis, at such institution, shall be furnished either to the holder (or if unknown, the insurer) of the note, not later than 60 days after such termination or failure to re-enroll;
 
 &emsp;(F) the limitation, suspension, or termination of the participation in any program under this subchapter of an eligible institution, or the imposition of a civil penalty under paragraph (3)(B) whenever the Secretary has determined, after reasonable notice and opportunity for hearing, that such institution has violated or failed to carry out any provision of this subchapter, any regulation prescribed under this subchapter, or any applicable special arrangement, agreement, or limitation, except that no period of suspension under this section shall exceed 60 days unless the institution and the Secretary agree to an extension or unless limitation or termination proceedings are initiated by the Secretary within that period of time;
 
@@ -158,7 +158,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 (2) If an individual who, or entity that, exercises substantial control, as determined by the Secretary in accordance with the definition of substantial control in subpart 3 of part H, over one or more institutions participating in any program under this subchapter, or, for purposes of paragraphs (1)(H) and (I), over one or more organizations that contract with an institution to administer any aspect of the institution's student assistance program under this subchapter, is determined to have committed one or more violations of the requirements of any program under this subchapter, or has been suspended or debarred in accordance with the regulations of the Secretary, the Secretary may use such determination, suspension, or debarment as the basis for imposing an emergency action on, or limiting, suspending, or terminating, in a single proceeding, the participation of any or all institutions under the substantial control of that individual or entity.
 
-(3)(A) Upon determination, after reasonable notice and opportunity for a hearing, that an eligible institution has engaged in substantial misrepresentation of the nature of its educational program, its financial charges, or the employability of its graduates, the Secretary may suspend or terminate the eligibility status for any or all programs under this subchapter of any otherwise eligible institution, in accordance with procedures specified in paragraph (1)(D) of this subsection, until the Secretary finds that such practices have been corrected.
+(3)(A) Upon determination, after reasonable notice and opportunity for a hearing, that an eligible institution has engaged in substantial misrepresentation of the nature of its educational program, its financial charges, or the employability of its graduates, the Secretarymay suspend or terminate the eligibility status for any or all programs under this subchapter of any otherwise eligible institution, in accordance with procedures specified in paragraph (1)(D) of this subsection, until the Secretary finds that such practices have been corrected.
 
 (B)(i) Upon determination, after reasonable notice and opportunity for a hearing, that an eligible institution—
 
@@ -218,7 +218,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;&emsp;(D) include institutional aid as revenue to the school only as follows:
 
-&emsp;&emsp;&emsp;(i) in the case of loans made by a proprietary institution of higher education on or after July 1, 2008 and prior to July 1, 2012, the net present value of such loans made by the institution during the applicable institutional fiscal year accounted for on an accrual basis and estimated in accordance with generally accepted accounting principles and related standards and guidance, if the loans—
+&emsp;&emsp;&emsp;(i) in the case of loans made by a proprietary institution of higher education on or after July 1, 2008 and prior to July 1, 2012,the net present value of such loans made by the institution during the applicable institutional fiscal year accounted for on an accrual basis and estimated in accordance with generally accepted accounting principles and related standards and guidance, if the loans—
 
 &emsp;&emsp;&emsp;&emsp;(I) are bona fide as evidenced by enforceable promissory notes;
 
@@ -268,7 +268,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 #### (4) Report to Congress
 
-&emsp;Not later than July 1, 2009, and July 1 of each succeeding year, the Secretary shall submit to the authorizing committees a report that contains, for each proprietary institution of higher education that receives assistanceunder this subchapter, as provided in the audited financial statements submitted to the Secretary by each institution pursuant to the requirements of subsection (a)(24)—
+&emsp;Not later than July 1, 2009, and July 1 of each succeeding year, the Secretary shall submit to the authorizing committees a report that contains, for each proprietary institution of higher education that receives assistance under this subchapter, as provided in the audited financial statements submitted to the Secretary by each institution pursuant to the requirements of subsection (a)(24)—
 
 &emsp;&emsp;(A) the amount and percentage of such institution's revenues received from sources under this subchapter; and
 
@@ -406,7 +406,7 @@ An institution of higher education's code of conduct, as required under subsecti
 
 The Inspector General of the Department shall—
 
-&emsp;(1) submit an annual report to the authorizing committees identifying all violations of an institution's code of conduct that the Inspector General has substantiated during the preceding year relating to the gift ban provisions described in subsection (e)(2); and
+&emsp;(1) submit an annual report to the authorizing committees identifying all violations of aninstitution's code of conduct that the Inspector General has substantiated during the preceding year relating to the gift ban provisions described in subsection (e)(2); and
 
 &emsp;(2) make the report available to the public through the Department's website.
 
@@ -496,7 +496,7 @@ For the purpose of this section:
 
 #### (j) Construction
 
-Nothing in the amendments made by the Higher Education Amendments of 1992 shall be construed to prohibit an institution from recording, at the cost of the institution, a hearing referred to in subsection (b)(2), subsection (c)(1)(D), or subparagraph (A) or (B)(i) of subsection (c)(2), of this section to create a record of the hearing, except the unavailability of a recording shall not serve to delay the completion of the proceeding. The Secretary shall allow the institution to use any reasonable means, including stenographers, of recording the hearing.
+Nothing in the amendments made by the Higher Education Amendments of 1992 shall be construed to prohibit an institution from recording,at the cost of the institution, a hearing referred to in subsection (b)(2), subsection (c)(1)(D), or subparagraph (A) or (B)(i) of subsection (c)(2), of this section to create a record of the hearing, except the unavailability of a recording shall not serve to delay the completion of the proceeding. The Secretary shall allow the institution to use any reasonable means, including stenographers, of recording the hearing.
 
 (Pub. L. 89–329, title IV, §487, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1488; amended Pub. L. 101–239, title II, §§2003(c)(2), 2006(c), Dec. 19, 1989, 103 Stat. 2114, 2118; Pub. L. 101–542, title II, §205, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(c)(3), Apr. 9, 1991, 105 Stat. 124; Pub. L. 102–325, title IV, §490, July 23, 1992, 106 Stat. 625; Pub. L. 103–208, §2(h)(42), (43), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title I, §102(b)(4), title IV, §489(a), (b)(1), (c), Oct. 7, 1998, 112 Stat. 1622, 1750, 1751; Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §314\], Nov. 29, 1999, 113 Stat. 1535, 1501A–266; Pub. L. 110–315, title IV, §493(a)(1)(A), (b)–(d), Aug. 14, 2008, 122 Stat. 3308, 3309–3317; Pub. L. 111–39, title IV, §407(b)(8), July 1, 2009, 123 Stat. 1952.)
 

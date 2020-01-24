@@ -2,7 +2,7 @@
 
 #### (a) Competitiveness program
 
-Notwithstanding any other provision of law, during the period beginning on February 7, 2014, through July 31, 2024, the Secretary shall carry out a program—
+Notwithstanding any other provision of law, during the period beginning on February 7, 2014,through July 31, 2024, the Secretary shall carry out a program—
 
 &emsp;(1) to maintain and expand the domestic use of extra long staple cotton produced in the United States;
 

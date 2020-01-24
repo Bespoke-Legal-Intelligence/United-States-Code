@@ -38,7 +38,7 @@ Mississippi is divided into two judicial districts to be known as the northern a
 
 &emsp;&emsp;Court for the Western Division shall be held at Natchez.
 
-(June 25, 1948, ch. 646, 62 Stat. 883; Aug. 7, 1950, ch. 601, 64 Stat. 415; Pub. L. 90–92, Sept. 27, 1967, 81 Stat. 229; Pub. L. 91–546, §§2, 3, Dec. 14, 1970,84 Stat. 1412; Pub. L. 95–408, §2(b), Oct. 2, 1978, 92 Stat. 883; Pub. L. 106–130, §1, Dec. 6, 1999, 113 Stat. 1677; Pub. L. 108–455, §2, Dec. 10, 2004, 118 Stat. 3628; Pub. L. 112–188, §3, Oct. 5, 2012, 126 Stat. 1433; Pub. L. 113–61, §1, Dec. 20, 2013, 127 Stat. 665.)
+(June 25, 1948, ch. 646, 62 Stat. 883; Aug. 7, 1950, ch. 601, 64 Stat. 415; Pub. L. 90–92, Sept. 27, 1967, 81 Stat. 229; Pub. L. 91–546, §§2, 3, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 95–408, §2(b), Oct. 2, 1978, 92 Stat. 883; Pub. L. 106–130, §1, Dec. 6, 1999, 113 Stat. 1677; Pub. L. 108–455, §2, Dec. 10, 2004, 118 Stat. 3628; Pub. L. 112–188, §3, Oct. 5, 2012, 126 Stat. 1433; Pub. L. 113–61, §1, Dec. 20, 2013, 127 Stat. 665.)
 
 #### Historical and Revision Notes
 

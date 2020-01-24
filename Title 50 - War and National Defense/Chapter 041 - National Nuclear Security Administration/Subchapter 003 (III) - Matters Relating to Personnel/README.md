@@ -32,7 +32,7 @@ Modifications.—In carrying out the demonstration project described in paragrap
 
 "(3)
 
-Application to naval nuclear propulsion program.—The Director of the Naval Nuclear Propulsion Program established pursuant to section 4101 of theAtomic Energy Defense Act (50 U.S.C. 2511) and section 3216 of the National Nuclear Security Administration Act (50 U.S.C. 2406) may, with the concurrence of the Secretary of the Navy, apply the demonstration project described in paragraph (1) to—
+Application to naval nuclear propulsion program.—The Director of the Naval Nuclear Propulsion Program established pursuant to section 4101 of the Atomic Energy Defense Act (50 U.S.C. 2511) and section 3216 of the National Nuclear Security Administration Act (50 U.S.C. 2406) may, with the concurrence of the Secretary of the Navy, apply the demonstration project described in paragraph (1) to—
 
 &emsp;"(A) all employees of the Naval Nuclear Propulsion Program in the competitive service (as defined in section 2102 of title 5, United States Code); and
 

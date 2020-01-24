@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program
 
-(1) The Secretary shall, within one year after October 24, 1992, issue regulations establishing guidelines for comprehensive State alternative fuels and alternative fueled vehicle incentives and program plans designed to accelerate the introduction and use of such fuels and vehicles. Such guideline <sup>1</sup> shall address the development,modification, and implementation of such State plans and shall describe those program elements, as described in paragraph (3), to be addressed in such plans.
+(1) The Secretary shall, within one year after October 24, 1992, issue regulations establishing guidelines for comprehensive State alternative fuels and alternative fueled vehicle incentives and program plans designed to accelerate the introduction and use of such fuels and vehicles. Such guideline <sup>1</sup> shall address the development, modification, and implementation of such State plans and shall describe those program elements, as described in paragraph (3), to be addressed in such plans.
 
 (2) The Secretary, after consultation with the Secretary of Transportation and the Administrator of the Environmental Protection Agency, shall invite the Governor of each State to submit to the Secretary a State plan within one year after the effective date of the regulations issued under paragraph (1). Such plan shall include—
 
@@ -66,7 +66,7 @@
 
 (3) The Secretary, in consultation with the Administrator of General Services, shall provide assistance to States in procuring alternative fueled vehicles, including coordination with Federal procurements of such vehicles.
 
-(4) The Secretary may not approve a State plan submitted under subsection (a) unless the State agrees to provide at least 20 percent of the cost of activities for which assistance is provided under paragraph (1).
+(4) The Secretary may not approve a State plan submitted under subsection (a) unless the State agrees to provide at least 20 percent of thecost of activities for which assistance is provided under paragraph (1).
 
 #### (c) General provisions
 

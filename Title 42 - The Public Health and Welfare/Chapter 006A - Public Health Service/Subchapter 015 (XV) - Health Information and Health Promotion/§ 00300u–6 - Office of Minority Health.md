@@ -8,7 +8,7 @@ There is established an Office of Minority Health. The Office of Minority Health
 
 With respect to improving the health of racial and ethnic minority groups, the Secretary, acting through the Deputy Assistant Secretary for Minority Health (in this section referred to as the "Deputy Assistant Secretary"), shall carry out the following:
 
-&emsp;(1) Establish short-range and long-range goals and objectives and coordinate all other activities within the Public Health Service that relate to disease prevention, health promotion, service delivery, and research concerning such individuals. The heads of each of the agencies of the Service shall consult with the Deputy Assistant Secretary to ensure the coordination of such activities.
+&emsp;(1) Establish short-range and long-range goals and objectives and coordinate all otheractivities within the Public Health Service that relate to disease prevention, health promotion, service delivery, and research concerning such individuals. The heads of each of the agencies of the Service shall consult with the Deputy Assistant Secretary to ensure the coordination of such activities.
 
 &emsp;(2) Enter into interagency agreements with other agencies of the Public Health Service.
 
@@ -80,7 +80,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (B) Health professions education regarding health disparities
 
-&emsp;&emsp;The Deputy Assistant Secretary shall carry out the duties under subsection (b)(10) in collaboration with appropriate personnel of the Department of Health and Human Services, other Federal agencies, and other offices, centers, and institutions, as appropriate, that have responsibilities under the Minority Health and Health Disparities Research and Education Act of 2000.
+&emsp;&emsp;The Deputy Assistant Secretary shall carry out the duties under subsection (b)(10) in collaboration with appropriate personnelof the Department of Health and Human Services, other Federal agencies, and other offices, centers, and institutions, as appropriate, that have responsibilities under the Minority Health and Health Disparities Research and Education Act of 2000.
 
 #### (2) Equitable allocation regarding activities
 

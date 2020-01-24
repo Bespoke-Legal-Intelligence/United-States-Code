@@ -68,7 +68,7 @@ Use of Personnel and Organizations.—In carrying out the program established un
 
 (e)
 
-Participation in Apprenticeship Programs.—As part of the program carried out under this section, the Secretary of Defense and the Secretary of Homeland Security may permit a member of the armed forces eligible for assistance under the program to participate in an apprenticeship program registered under the Actof August 16, 1937 (commonly known as the "National Apprenticeship Act"; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.), or a pre-apprenticeship program that provides credit toward a program registered under such Act, that provides members of the armed forces with the education, training, and services necessary to transition to meaningful employment that leads to economic self-sufficiency.
+Participation in Apprenticeship Programs.—As part of the program carried out under this section, the Secretary of Defense and the Secretary of Homeland Security may permit a member of the armed forces eligible for assistance under the program to participate in an apprenticeship program registered under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act"; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.), or a pre-apprenticeship program that provides credit toward a program registered under such Act, that provides members of the armed forces with the education, training, and services necessary to transition to meaningful employment that leads to economic self-sufficiency.
 
 (f)
 
@@ -102,7 +102,7 @@ Program Contents.—(1) The program carried out under this section shall consist
 
 &emsp;(B) in addition to such training and instruction required during such time periods.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718; Pub. L. 113–66, div. A, title V, §521(a), Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–92, div. A, title V, §553, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §§563, 564(a), Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–232, div. A, title V, §§552(b)(1), 553(b)(1), Aug. 13, 2018, 132 Stat. 1770, 1772.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718; Pub. L. 113–66, div. A, title V, §521(a), Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–92,div. A, title V, §553, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §§563, 564(a), Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–232, div. A, title V, §§552(b)(1), 553(b)(1), Aug. 13, 2018, 132 Stat. 1770, 1772.)
 
 #### References in Text
 
@@ -175,6 +175,58 @@ Amendment by section 221(a) of Pub. L. 112–56 effective on the date that is 1 
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
+#### Command Matters in Connection With Transition Assistance Programs
+
+Pub. L. 116–92, div. A, title V, §568, Dec. 20, 2019, 133 Stat. 1397, provided that: "The training provided a commander of a military installation in connection with the commencement of assignment to the installation shall include a module on the covered transition assistance programs available for members of the Armed Forces assigned to the installation."
+
+#### Pilot Program Regarding Online Application for the Transition Assistance Program
+
+Pub. L. 116–92, div. A, title V, §570G, Dec. 20, 2019, 133 Stat. 1402, provided that:
+
+"(a)
+
+Establishment.—The Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Labor may jointly carry out a pilot program that creates a one-stop source for online applications for the purposes of assisting members of the Armed Forces and Veterans participating in the Transition Assistance Program (in this section referred to as 'TAP').
+
+"(b)
+
+Data Sources.—If the Secretaries carry out the pilot program, any online application developed under such program shall, in part, aggregate existing data from government resources and the private sector under one uniform resource locator for the purpose of assisting members of the Armed Forces and veterans participating in TAP.
+
+"(c)
+
+Availability; Accessibility.—Any online application developed under a pilot program shall, to the extent feasible be—
+
+&emsp;"(1) widely available as a mobile application; and
+
+&emsp;"(2) easily accessible by veterans, members of the Armed Forces, and employers.
+
+"(d)
+
+Assessments.—
+
+&emsp;"(1)
+
+Interim assessments.—Not later than the dates that are one and two years after the date of the commencement of any pilot program under this section, the Secretaries shall jointly assess the pilot program.
+
+&emsp;"(2)
+
+Final assessment.—Not later than the date that is three years after the date of the commencement of any pilot program under this section, the Secretaries shall jointly carry out a final assessment of the pilot program.
+
+&emsp;"(3)
+
+Purpose.—The general objective of each assessment under this subsection shall be to determine if the online application under the pilot program helps participants in TAP to accomplish the goals of TAP, accounting for the individual profiles of participants, including military experience and geographic location.
+
+"(e)
+
+Briefing.—If the Secretaries carry out the pilot program, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and House of Representatives a briefing on findings regarding the pilot program, including any recommendations for legislation.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'mobile application' means a software program that runs on the operating system of a mobile device.
+
+&emsp;"(2) The term 'mobile device' means a smartphone, tablet computer, or similar portable computing device that transmits data over a wireless connection."
 
 #### Deadline for Transition Assistance Program
 
@@ -270,7 +322,7 @@ Report.—
 
 &emsp;"(1)
 
-In general.—Not later than one year after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense shall submit to the Committees on Armed Services and Veterans' Affairs of the Senate and the House of Representatives a report on the progress made by the Secretary—
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 19, 2014\], theSecretary of Defense shall submit to the Committees on Armed Services and Veterans' Affairs of the Senate and the House of Representatives a report on the progress made by the Secretary—
 
 &emsp;&emsp;"(A) in developing the procedures required by subsection (a); and
 
@@ -378,7 +430,7 @@ Publication.—The secretaries described in subsection (a)(1) shall ensure that 
 
 "(c)
 
-Individualized Assessment of Civilian Positions Available Through Military Experiences.—The Secretary of Defense shall ensure that each member of the Armed Forces who is participating in the Transition Assistance Program (TAP) of the Department of Defense receives, as part of such member's participation in that program, an individualized assessment of the various positions of civilian employment in the private sector for which such member may be qualified as a result of the skills developed by such member through various military occupational specialties\(MOS), successful completion of resident training courses, attaining various military ranks or rates, or other military experiences. The assessment shall be performed using the results of the study conducted under subsection (a) and such other information as the Secretary of Defense, in consultation with the Secretary of Veterans Affairs and the Secretary of Labor, considers appropriate for that purpose.
+Individualized Assessment of Civilian Positions Available Through Military Experiences.—The Secretary of Defense shall ensure that each member of the Armed Forces who is participating in the Transition Assistance Program (TAP) of the Department of Defense receives, as part of such member's participation in that program, an individualized assessment of the various positions of civilian employment in the private sector for which such member may be qualified as a result of the skills developed by such memberthrough various military occupational specialties (MOS), successful completion of resident training courses, attaining various military ranks or rates, or other military experiences. The assessment shall be performed using the results of the study conducted under subsection (a) and such other information as the Secretary of Defense, in consultation with the Secretary of Veterans Affairs and the Secretary of Labor, considers appropriate for that purpose.
 
 "(d)
 

@@ -116,7 +116,7 @@ This Act, referred to in subsec. (c)(2)(D), is Pub. L. 110–400, Oct. 13, 2008,
 
 #### Codification
 
-Section was enacted as part of the Keeping the Internet Devoid of Sexual Predators Act of 2008, also knownas the KIDS Act of 2008, and not as part of the Sex Offender Registration and Notification Act which comprises this subchapter, or as part of the Adam Walsh Child Protection and Safety Act of 2006 which comprises this chapter.
+Section was enacted as part of the Keeping the Internet Devoid of Sexual Predators Act of 2008, also known as the KIDS Act of 2008, and not as part of the Sex Offender Registration and Notification Act which comprises this subchapter, or as part of the Adam Walsh Child Protection and Safety Act of 2006 which comprises this chapter.
 
 Section was formerly classified to section 16915b of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 

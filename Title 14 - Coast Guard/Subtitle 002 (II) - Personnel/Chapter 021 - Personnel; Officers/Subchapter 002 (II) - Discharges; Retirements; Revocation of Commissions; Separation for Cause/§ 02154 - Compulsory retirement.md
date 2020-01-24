@@ -10,7 +10,7 @@ Flag-Officer Grades.—(1) Except as provided in paragraph (2), any regular comm
 
 (2) The retirement of an officer under paragraph (1) may be deferred—
 
-&emsp;(A) by the President, but such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 68 years of age; or
+&emsp;(A) by the President, but such a deferment may not extend beyond the first day of themonth following the month in which the officer becomes 68 years of age; or
 
 &emsp;(B) by the Secretary of the department in which the Coast Guard is operating, but such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 66 years of age.
 

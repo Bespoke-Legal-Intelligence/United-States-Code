@@ -28,11 +28,19 @@ Dec. 30, 1963, Pub. L. 88–254, 77 Stat. 843.
 
 In clause (2), the words "chief executive officers" are substituted for "Governors", and the words "territories, and possessions" are substituted for "territories", for clarity and consistency in the revised title and with other titles of the United States Code.
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–67, §1, Nov. 7, 2019, 133 Stat. 1128, provided that: "This Act \[amending section 902 of this title\] may be cited as the 'National POW/MIA Flag Act'."
+
+Pub. L. 116–35, §1, July 30, 2019, 133 Stat. 1043, provided that: "This Act \[enacting section 21704A of this title, amending section 21703 of this title, and enacting provisions set out as a note under section 21703 of this title\] may be cited as the 'Let Everyone Get Involved in Opportunities for National Service Act' or the 'LEGION Act'."
+
+Pub. L. 116–7, §1, Feb. 21, 2019, 133 Stat. 478, provided that: "This Act \[amending sections 70901 to 70914 of this title\] may be cited as the 'National FFA Organization's Federal Charter Amendments Act'."
+
 #### Short Title of 2018 Amendment
 
 Pub. L. 115–141, div. S, title III, §301, Mar. 23, 2018, 132 Stat. 1127, provided that: "This title \[enacting subchapter III (§220531) of this title\] may be cited as the 'Keep Young Athletes Safe Act of 2018'."
 
-Pub. L. 115–126, §1(a), Feb. 14, 2018, 132 Stat. 318, provided that: "This Act \[enacting subchapter III (§220541 et seq.) of chapter 2205 of this title and 220530 of this title and amending sections 220501, 220503, and 220525 ofthis title, sections 2255 and 2258 of Title 18, Crimes and Criminal Procedure, and section 20341 of Title 34, Crime Control and Law Enforcement\] may be cited as the 'Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act of 2017'."
+Pub. L. 115–126, §1(a), Feb. 14, 2018, 132 Stat. 318, provided that: "This Act \[enacting subchapter III (§220541 et seq.) of chapter 2205 of this title and 220530 of this title and amending sections 220501, 220503, and 220525 of this title, sections 2255 and 2258 of Title 18, Crimes and Criminal Procedure, and section 20341 of Title 34, Crime Control and Law Enforcement\] may be cited as the 'Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act of 2017'."
 
 #### Short Title of 2016 Amendment
 

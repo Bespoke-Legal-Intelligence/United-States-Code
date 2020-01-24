@@ -8,7 +8,7 @@ The Secretary shall expeditiously issue guidance to implement each covered provi
 
 #### (1) In general
 
-&emsp;Prior to developing and issuing any new or revised implementation guidance for a covered water resources development law, the Secretary shall issue a public notice that—
+&emsp;Prior to developing and issuing any new or revised implementation guidance for a coveredwater resources development law, the Secretary shall issue a public notice that—
 
 &emsp;&emsp;(A) informs potentially interested non-Federal stakeholders of the Secretary's intent to develop and issue such guidance; and
 

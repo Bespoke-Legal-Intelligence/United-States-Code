@@ -34,7 +34,7 @@ Subpoena Power.—
 
 &emsp;(1)
 
-Authority to require the production of records.—The Inspector General of an executive agency appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.) or, on request of the head of an executive agency, the Director of the Defense Contract Audit Agency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which is provided for that executive agency by subsection (b).
+Authority to require the production of records.—The Inspector General of an executive agency appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.) or, on request of the head of an executive agency, the Director of the Defense Contract Audit Agency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which isprovided for that executive agency by subsection (b).
 
 &emsp;(2)
 
@@ -175,4 +175,8 @@ In subsection (c)(4), the words "Committee on Oversight and Government Reform" a
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (c)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

@@ -284,7 +284,7 @@ Act of August 30, 1890, 26 Stat. 417, referred to in pars. (13), (14)(C)(ii)(II)
 
 The Equity in Educational Land-Grant Status Act of 1994, referred to in par. (14)(C)(ii)(III), is Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, which is set out as a note under section 301 of this title. For complete classification of this Act to the Code, see Tables.
 
-Act of March 2, 1887, referred to in pars. (17) and (18)(C), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
+Act of March 2, 1887, referred to in pars. (17) and (18)(C), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
 #### Codification
 
@@ -382,7 +382,7 @@ Pars. (17), (18). Pub. L. 101–624, §1603(1), (3), added pars. (17) and (18).
 
 <b>1985</b>—Par. (8)(J). Pub. L. 99–198 added subpar. (J).
 
-<b>1981</b>—Par. (8). Pub. L. 97–98, §1404(1), substituted in provision preceding subpar. (A) "basic, applied, and developmental research, extension, and teaching activities in the food, agricultural, renewable natural resources, forestry, and physical and social sciences, in the broadest sense of these terms, including but not limited to, activities relating to" for "sciences relating to food and agriculture in the broadest sense, including the social, economic, and political considerations of", in subpar. (E) "including consumer affairs, food and nutrition, clothing and textiles, housing, and family well-being and financial management;" for "human nutrition, and family life; and", and in subpar. (F) "community welfare and development" for "and community development", and added subpars. (G) to (I).
+<b>1981</b>—Par. (8). Pub. L. 97–98, §1404(1), substituted in provision preceding subpar. (A) "basic, applied, and developmental research, extension, and teaching activities in the food, agricultural, renewable natural resources, forestry, and physical and social sciences, in the broadest sense of these terms, including but not limited to, activities relating to" for "sciences relating to food and agriculture in the broadest sense, includingthe social, economic, and political considerations of", in subpar. (E) "including consumer affairs, food and nutrition, clothing and textiles, housing, and family well-being and financial management;" for "human nutrition, and family life; and", and in subpar. (F) "community welfare and development" for "and community development", and added subpars. (G) to (I).
 
 Par. (12). Pub. L. 97–98, §1404(2), struck out "except as provided in subchapter VII of this chapter," before "the term" and included within term "State" American Samoa, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
 

@@ -36,7 +36,7 @@ The Joint Committee, or any subcommittee thereof, is authorized to make such exp
 
 #### (e) Investigations
 
-The Joint Committee shall review all requests (other than requests by the chairman or ranking member of a committee or subcommittee) for investigations of the Internal Revenue Service by the Government Accountability Office, and approve such requests when appropriate, with a view towards eliminating overlapping investigations, ensuring that the Government Accountability Office has the capacity to handle the investigation, and ensuring that investigations focus on areas of primary importance to tax administration.
+The Joint Committee shall review all requests (other than requests by the chairman or rankingmember of a committee or subcommittee) for investigations of the Internal Revenue Service by the Government Accountability Office, and approve such requests when appropriate, with a view towards eliminating overlapping investigations, ensuring that the Government Accountability Office has the capacity to handle the investigation, and ensuring that investigations focus on areas of primary importance to tax administration.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 927; Pub. L. 94–455, title XIX, §1907(a)(3), Oct. 4, 1976, 90 Stat. 1835; Pub. L. 100–647, title I, §1018(s)(1), Nov. 10, 1988, 102 Stat. 3586; Pub. L. 105–206, title IV, §4001(a), July 22, 1998, 112 Stat. 783; Pub. L. 108–311, title III, §321(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–135, title IV, §412(rr)(5), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 115–141, div. U, title IV, §401(b)(56), Mar. 23, 2018, 132 Stat. 1205.)
 

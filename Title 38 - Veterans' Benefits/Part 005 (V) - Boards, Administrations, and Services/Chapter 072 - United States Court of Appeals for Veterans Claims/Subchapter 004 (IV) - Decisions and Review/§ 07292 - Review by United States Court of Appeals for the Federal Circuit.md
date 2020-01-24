@@ -8,7 +8,7 @@
 
 (c) The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction to review and decide any challenge to the validity of any statute or regulation or any interpretation thereof brought under this section, and to interpret constitutional and statutory provisions, to the extent presented and necessary to a decision. The judgment of such court shall be final subject to review by the Supreme Court upon certiorari, in the manner provided in section 1254 of title 28.
 
-(d)(1) The Court of Appeals for the Federal Circuit shall decide all relevant questions of law, including interpreting constitutional and statutory provisions. The court shall hold unlawful and set aside any regulation or any interpretation thereof (other than a determination as to a factual matter) that was relied upon in the decision of the Court of Appeals for Veterans Claims that the Court of Appeals for the Federal Circuit finds to be—
+(d)(1) The Court of Appeals for the Federal Circuit shall decide all relevant questions of law,including interpreting constitutional and statutory provisions. The court shall hold unlawful and set aside any regulation or any interpretation thereof (other than a determination as to a factual matter) that was relied upon in the decision of the Court of Appeals for Veterans Claims that the Court of Appeals for the Federal Circuit finds to be—
 
 &emsp;(A) arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law;
 
@@ -24,7 +24,7 @@
 
 (2) Rules for review of decisions of the Court of Appeals for Veterans Claims shall be those prescribed by the Supreme Court under section 2072 of title 28.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4120, §4092; amended Pub. L. 101–94, title III, §302(b), Aug. 16, 1989, 103 Stat. 628; renumbered §7292, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(e)(5), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title V, §512(a)(1),Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–330, title IV, §402(a), Dec. 6, 2002, 116 Stat. 2832.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4120, §4092; amended Pub. L. 101–94, title III, §302(b), Aug. 16, 1989, 103 Stat. 628; renumbered §7292, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(e)(5), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–330, title IV, §402(a), Dec. 6, 2002, 116 Stat. 2832.)
 
 #### Amendments
 

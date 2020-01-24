@@ -2,7 +2,7 @@
 
 #### (1) No decisions by Federal reserve bank presidents
 
-No provision of subchapter I relating to the authority of the Board of Governors shall beconstrued as conferring any decision-making authority on presidents of Federal reserve banks.
+No provision of subchapter I relating to the authority of the Board of Governors shall be construed as conferring any decision-making authority on presidents of Federal reserve banks.
 
 #### (2) Voting decisions by Board
 

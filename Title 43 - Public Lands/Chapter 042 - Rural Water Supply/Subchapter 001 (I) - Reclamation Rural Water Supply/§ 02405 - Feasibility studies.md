@@ -84,7 +84,7 @@ Feasibility studies authorized or reviewed under this subchapter shall include a
 
 #### (2) Inclusions
 
-&emsp;The Secretary shall include in the criteria promulgated under paragraph (1) methods to scale the level of effort needed to complete the feasibility assessment relative to the totalsize and cost of the proposed rural water supply project and reduce total costs to non-Federal entities.
+&emsp;The Secretary shall include in the criteria promulgated under paragraph (1) methods to scale the level of effort needed to complete the feasibility assessment relative to the total size and cost of the proposed rural water supply project and reduce total costs to non-Federal entities.
 
 #### (e) Feasibility report
 

@@ -1,6 +1,6 @@
 ### §101322. Management development and training
 
-The Secretary shall maintain a clear plan for management training and development under which career professional Service employees from any appropriate academic field may obtain sufficient training, experience, and advancement opportunity to enable those qualified to move into System unit management positions,including the position of superintendent of a System unit.
+The Secretary shall maintain a clear plan for management training and development under which career professional Service employees from any appropriate academic field may obtain sufficient training, experience, and advancement opportunity to enable those qualified to move into System unit management positions, including the position of superintendent of a System unit.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3126.)
 

@@ -74,5 +74,5 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 #### Transvestism
 
-Section 6(b)(3) of Pub. L. 100–430 provided that: "For the purposes of this Act \[see Short Title of 1988 Amendment note set out under section 3601 of this title\] as well as chapter 16 of title 29 of the United States Code \[29 U.S.C. 701 et seq.\], neither the term 'individual with handicaps' nor the term 'handicap' shall apply to an individual solely because that individual is a transvestite."
+Section 6(b)(3) of Pub. L. 100–430 provided that: "For the purposes of this Act \[see Short Title of 1988 Amendment note set out under section 3601 of this title\] as well as chapter 16 of title 29 of the United States Code \[29 U.S.C. 701 et seq.\], neither the term 'individual withhandicaps' nor the term 'handicap' shall apply to an individual solely because that individual is a transvestite."
 

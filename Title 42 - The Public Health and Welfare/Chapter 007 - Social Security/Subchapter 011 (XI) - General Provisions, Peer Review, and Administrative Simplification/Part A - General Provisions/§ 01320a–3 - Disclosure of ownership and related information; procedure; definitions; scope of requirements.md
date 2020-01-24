@@ -30,7 +30,7 @@
 
 #### (b) Other disclosing entities
 
-To the extent determined to be feasible under regulations of the Secretary, a disclosing entity shall also include in the information supplied under subsection (a)(1), with respect to each person with an ownership or control interest in the entity, the name of any other disclosing entitywith respect to which the person is a person with an ownership or control interest.
+To the extent determined to be feasible under regulations of the Secretary, a disclosing entity shall also include in the information supplied under subsection (a)(1), with respect to each person with an ownership or control interest in the entity, the name of any other disclosing entity with respect to which the person is a person with an ownership or control interest.
 
 #### (c) Required disclosure of ownership and additional disclosable parties information
 
@@ -112,7 +112,7 @@ To the extent determined to be feasible under regulations of the Secretary, a di
 
 #### (C) Managing employee
 
-&emsp;&emsp;The term "managing employee" means, with respect to a facility, an individual (including a general manager, business manager, administrator, director, or consultant) who directly or indirectly manages, advises, or supervises any element of the practices, finances, or operations of the facility.
+&emsp;&emsp;The term "managing employee" means, with respect to a facility, an individual (including a general manager, business manager, administrator, director, or consultant)who directly or indirectly manages, advises, or supervises any element of the practices, finances, or operations of the facility.
 
 #### (D) Organizational structure
 
@@ -184,7 +184,7 @@ Pub. L. 95–142, §3(e), Oct. 25, 1977, 91 Stat. 1179, provided that: "The amen
 
 #### Public Availability of Information
 
-Pub. L. 111–148, title VI, §6101(b), Mar. 23, 2010, 124 Stat. 702, provided that: "Not later than the date thatis 1 year after the date on which the final regulations promulgated under section 1124(c)(3)(A) of the Social Security Act \[42 U.S.C. 1320a–3(c)(3)(A)\], as added by subsection (a), are published in the Federal Register, the Secretary of Health and Human Services shall make the information reported in accordance with such final regulations available to the public in accordance with procedures established by the Secretary."
+Pub. L. 111–148, title VI, §6101(b), Mar. 23, 2010, 124 Stat. 702, provided that: "Not later than the date that is 1 year after the date on which the final regulations promulgated under section 1124(c)(3)(A) of the Social Security Act \[42 U.S.C. 1320a–3(c)(3)(A)\], as added by subsection (a), are published in the Federal Register, the Secretary of Health and Human Services shall make the information reported in accordance with such final regulations available to the public in accordance with procedures established by the Secretary."
 
 #### Report on Confidentiality of Social Security Account Numbers
 

@@ -12,7 +12,7 @@ Sustainment and Operation for Military Purposes.—The Secretary of Defense shal
 
 Sustainment and Operation for Civilian Purposes.—The Secretary of Defense shall provide for the sustainment and operation of the GPS Standard Positioning Service for peaceful civil, commercial, and scientific uses on a continuous worldwide basis free of direct user fees. In doing so, the Secretary—
 
-&emsp;(1) shall provide for the sustainment and operation of the GPS Standard Positioning Service in order to meet the performance requirements of the Federal Radionavigation Plan prepared jointly by the Secretary of Defense and the Secretary of Transportation pursuant to subsection (c);
+&emsp;(1) shall provide for the sustainment and operation of the GPS Standard Positioning Service in order to meet the performance requirements of the Federal Radionavigation Planprepared jointly by the Secretary of Defense and the Secretary of Transportation pursuant to subsection (c);
 
 &emsp;(2) shall coordinate with the Secretary of Transportation regarding the development and implementation by the Government of augmentations to the basic GPS that achieve or enhance uses of the system in support of transportation;
 
@@ -68,9 +68,103 @@ Subsec. (d)(2). Pub. L. 108–136, §914(b), inserted "(C)," after "under subpar
 
 <b>1999</b>—Subsec. (d)(1). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security" in introductory provisions.
 
+#### Prototype Program for Multi-Global Navigation Satellite System Receiver Development
+
+Pub. L. 116–92, div. A, title XVI, §1607, Dec. 20, 2019, 133 Stat. 1724, provided that:
+
+"(a)
+
+Prototype Multi-GNSS Program.—The Secretary of the Air Force shall carry out a program to prototype an M-code based, multi-global navigation satellite system receiver that is capable of receiving covered signals to increase the resilience and capability of military position, navigation, and timing equipment against threats to the Global Positioning System and to deter the likelihood of attack on the worldwide Global Positioning System by reducing the benefits of such an attack.
+
+"(b)
+
+Elements.—In carrying out the program under subsection (a), the Secretary shall—
+
+&emsp;"(1) with respect to each covered signal that could be received by the prototype receiver under such program, conduct an assessment of the relative benefits and risks of using that signal, including with respect to any existing or needed monitoring infrastructure that would alert users of the Department of Defenseof potentially corrupted signal information, and the cyber risks and challenges of incorporating such signals into a properly designed receiver;
+
+&emsp;"(2) ensure that monitoring systems are able to include any monitoring network of the United States or allies of the United States;
+
+&emsp;"(3) conduct an assessment of the benefits and risks, including with respect to the compatibility of non-United States global navigation satellite system signals with existing position, navigation, and timing equipment of the United States, and the extent to which the capability to receive such signals would impact current receiver or antenna design; and
+
+&emsp;"(4) conduct an assessment of the desirability of establishing a program for the development and deployment of the receiver system described in subsection (a) in a manner that—
+
+&emsp;&emsp;"(A) is a cooperative effort, coordinated with the Secretary of State, between the United States and the allies of the United States that may also have interest in funding a multi-global navigation satellite system and M-code program; and
+
+&emsp;&emsp;"(B) the Secretary of Defense, in coordination with the Secretary of State, ensures that the United States has access to sufficient insight into trusted signals of allied systems to assure potential reliance by the United States on such signals.
+
+"(c)
+
+Briefing.—Not later than 120 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary, in coordination with the Air Force GPS User Equipment Program office, shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on a plan to carry out the program under subsection (a) that includes—
+
+&emsp;"(1) the estimated cost, including total cost and out-year funding requirements for a program to develop and deploy the receiver system described in subsection (a);
+
+&emsp;"(2) the schedule for such program;
+
+&emsp;"(3) a plan for how the results of the program could be incorporated into future blocks of the Global Positioning System military user equipment program; and
+
+&emsp;"(4) the recommendations and analysis contained in the study sponsored by the Department of Defense conducted by the MITRE Corporation on the risks, benefits, and approaches to adding multi-global navigation satellite system capabilities to military user equipment.
+
+"(d)
+
+Report.—Not later than 150 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall submit to the congressional defense committees a report containing—
+
+&emsp;"(1) an explanation of how the Secretary intends to comply with section 1609 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 2281 note);
+
+&emsp;"(2) an outline of any potential cooperative efforts acting in accordance with the North Atlantic Treaty Organization, the European Union, or Japan that would support such compliance;
+
+&emsp;"(3) an assessment of the potential to host, or incorporate through software-defined payloads, Global Positioning System M-code functionality onto allied global navigation satellite system systems; and
+
+&emsp;"(4) an assessment of new or enhanced monitoring capabilities that would be needed to incorporate global navigation satellite system functionality into weapon systems of the Department.
+
+"(e)
+
+Limitation.—Of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2020 for increment 2 of the acquisition of military Global Positioning System user equipment terminals, not more than 90 percent may be obligated or expended until the date on which the briefing has been provided under subsection (c) and the report has been submitted under subsection (d).
+
+"(f)
+
+Waiver Authority for Trusted Signals Capabilities.—\[Amended section 1609 of Pub. L. 115–232, set out as a note below.\]
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'allied systems' means—
+
+&emsp;&emsp;"(A) the Galileo system of the European Union;
+
+&emsp;&emsp;"(B) the QZSS system of Japan; and
+
+&emsp;&emsp;"(C) upon designation by the Secretary of Defense, in consultation with the Director of National Intelligence—
+
+&emsp;&emsp;&emsp;"(i) the NAVIC system of India; and
+
+&emsp;&emsp;&emsp;"(ii) any similarly associated wide area augmentation systems.
+
+&emsp;"(2) The term 'covered signals'—
+
+&emsp;&emsp;"(A) means global navigation satellite system signals from—
+
+&emsp;&emsp;&emsp;"(i) allied systems; and
+
+&emsp;&emsp;&emsp;"(ii) non-allied systems; and
+
+&emsp;&emsp;"(B) includes both encrypted signals and open signals.
+
+&emsp;"(3) The term 'encrypted signals' means global navigation satellite system signals that incorporate encryption or other internal methods to authenticate signal information.
+
+&emsp;"(4) The term 'M-code' means, with respect to global navigation satellite system signals, military code that provides enhanced positioning, navigation, and timing capabilities and improved resistance to existing and emerging threats, such as jamming.
+
+&emsp;"(5) The term 'non-allied systems' means—
+
+&emsp;&emsp;"(A) the Russian GLONASS system; and
+
+&emsp;&emsp;"(B) the Chinese Beidou system.
+
+&emsp;"(6) The term 'open signals' means global navigation satellite system \[signals\] that do not include encryption or other internal methods to authenticate signal information."
+
 #### Capacity To Receive Allied and Non-Allied Signals
 
-Pub. L. 115–232, div. A, title XVI, §1609, Aug. 13, 2018, 132 Stat. 2110, provided that:
+Pub. L. 115–232, div. A, title XVI, §1609, Aug. 13, 2018, 132 Stat. 2110, as amended by Pub. L. 116–92, div. A, title XVI, §1607(f), Dec. 20, 2019, 133 Stat. 1726, provided that:
 
 "(a)
 
@@ -86,7 +180,7 @@ Waiver.—The Secretary of Defense may waive, on a case-by-case basis, the requi
 
 &emsp;&emsp;"(A) the rationale for why the Secretary could not integrate such capability beginning with increment 2 of the acquisition of such terminals; and
 
-&emsp;&emsp;"(B) a plan, including a timeline, to incorporate such capability in future increments of such terminals.
+&emsp;&emsp;"(B) a plan, including a timeline, to incorporate the capability to add multi-Global Navigation Satellite System signals to provide substantive military utility in future increments of such terminals.
 
 &emsp;"(3)
 
@@ -110,7 +204,7 @@ Engagement.—The Secretary of Defense and the Secretary of State shall jointly 
 
 #### Designation of Component of Department of Defense Responsible for Coordination of Modernization Efforts Relating to Military-Code Capable GPS Receiver Cards
 
-Pub. L. 115–232, div. A, title XVI, §1610, Aug. 13, 2018, 132 Stat. 2111, provided that:
+Pub. L. 115–232, div. A, title XVI, §1610, Aug. 13, 2018, 132 Stat. 2111, as amended by Pub. L. 116–92, div. A, title XVI, §1602, Dec. 20, 2019, 133 Stat. 1722, provided that:
 
 "(a)
 
@@ -128,7 +222,7 @@ Roles and Responsibilities.—The roles and responsibilities of the component se
 
 &emsp;&emsp;"(C) the projected cost for each such program.
 
-&emsp;"(2) Systematically collect integration test data, lessons learned, and design solutions, and share such information with other elements of the Department.
+&emsp;"(2) Systematically collect integration test data, lessons learned, and design solutions, and share such information with other elements of the Department, including with respect to each program of the Department that requires M-code capable receiver cards.
 
 &emsp;"(3) Identify ways the Department can prevent duplication in conducting M-code modernization efforts, and identify, to the extent practicable, potential cost savings that could be realized by addressing such duplication.
 
@@ -136,7 +230,7 @@ Roles and Responsibilities.—The roles and responsibilities of the component se
 
 "(c)
 
-Support.—The Secretary of Defense shall ensure the military departments, the Defense Agencies, and other elements of the Department of Defense provide the component selected under subsection (a) with the appropriate support and resources needed to perform the roles and responsibilities under subsection (b).
+Support.—The Secretary of Defense shall ensure the military departments, the Defense Agencies, and other elements of the Department of Defense provide the component selected under subsection (a) with the appropriate support and resources needed to perform the roles and responsibilities under subsection (b), and shall clarify the roles of the Chief Information Officer and the Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise with respect to M-code modernization efforts.
 
 "(d)
 

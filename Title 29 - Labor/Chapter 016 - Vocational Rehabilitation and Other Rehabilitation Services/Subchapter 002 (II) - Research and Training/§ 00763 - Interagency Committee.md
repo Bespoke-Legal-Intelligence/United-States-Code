@@ -82,7 +82,7 @@ A prior section 763, Pub. L. 93–112, title II, §203, Sept. 26, 1973, 87 Stat.
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a)(1). Pub. L. 113–128, §434(1)(A), substituted "conducting disability, independent living, and rehabilitation research" for "conducting rehabilitation research", "chaired by the Secretary, or the Secretary's designee," for "chaired by the Director",and "the Director of the National Science Foundation and the Administrator of the Small Business Administration." for "and the Director of the National Science Foundation." and inserted "the Assistant Secretary of Labor for Disability Employment Policy, the Secretary of Defense, the Administrator of the Administration for Community Living," after "Assistant Secretary for Special Education and Rehabilitative Services,".
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–128, §434(1)(A), substituted "conducting disability, independent living, and rehabilitation research" for "conducting rehabilitation research", "chaired by the Secretary, or the Secretary's designee," for "chaired by the Director", and "the Director of the National Science Foundation and the Administrator of the Small Business Administration." for "and the Director of the National Science Foundation." and inserted "the Assistant Secretary of Labor for Disability Employment Policy, the Secretary of Defense, the Administrator of the Administration for Community Living," after "Assistant Secretary for Special Education and Rehabilitative Services,".
 
 Subsec. (a)(2). Pub. L. 113–128, §434(1)(B), inserted ", and for not less than 1 of such meetings at least every 2 years, the Committee shall invite policymakers, representatives from other Federal agencies conducting relevant research, individuals with disabilities, organizations representing individuals with disabilities, researchers, and providers, to offer input on the Committee's work, including the development and implementation of the strategic plan required under subsection (c)" after "each year".
 
@@ -115,6 +115,10 @@ Subsec. (b). Pub. L. 105–394, §201(2), designated existing provisions as par.
 Subsec. (c). Pub. L. 105–394, §201(3), added subsec. (c) and struck out former subsec. (c) which read as follows: "The Committee shall annually submit to the President and to the appropriate committees of the Congress a report making such recommendations as the Committee deems appropriate with respect to coordination of policy and development of objectives and priorities for all Federal programs relating to the conduct of research related to rehabilitation of individuals with disabilities."
 
 Subsecs. (d), (e). Pub. L. 105–394, §201(4), added subsecs. (d) and (e).
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "from".</i>
 

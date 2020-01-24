@@ -24,5 +24,5 @@ For transitional and savings provisions and treatment of references to former pr
 
 #### Separability
 
-Pub. L. 95–474, §6(c), Oct. 17, 1978, 92 Stat. 1493, provided that: "If a provision of this Act \[see Short Titleof 1978 Amendment note above\] or the application of such provision to any person or circumstances shall be held invalid, the remainder of the Act and the application of such provision to persons or circumstances other than those to which it is held invalid shall not be affected thereby."
+Pub. L. 95–474, §6(c), Oct. 17, 1978, 92 Stat. 1493, provided that: "If a provision of this Act \[see Short Title of 1978 Amendment note above\] or the application of such provision to any person or circumstances shall be held invalid, the remainder of the Act and the application of such provision to persons or circumstances other than those to which it is held invalid shall not be affected thereby."
 

@@ -56,7 +56,7 @@ Each Center shall, at a minimum, carry out the following activities directly, th
 
 &emsp;&emsp;(B) Provide the full continuum of treatment services, including—
 
-&emsp;&emsp;&emsp;(i) all drugs and devices approved or cleared under the Federal Food, Drug, and Cosmetic Act and all biological products licensed under section 262 of this title to treat substance use disorders or reverse overdoses, pursuant to Federal and State law;
+&emsp;&emsp;&emsp;(i) all drugs and devices approved or cleared under the Federal Food, Drug, and Cosmetic Act and all biological productslicensed under section 262 of this title to treat substance use disorders or reverse overdoses, pursuant to Federal and State law;
 
 &emsp;&emsp;&emsp;(ii) medically supervised withdrawal management, that includes patient evaluation, stabilization, and readiness for and entry into treatment;
 

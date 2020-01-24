@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-After February 28, 1977, no foreign fishing vessel shall engage in fishing within the exclusive economic zone, or for anadromous species or Continental Shelf fishery resources beyond such zone, unless such vessel has on board a valid permit issued under this section for such vessel.
+After February 28, 1977, no foreign fishing vessel shall engage in fishing within the exclusive economic zone, or for anadromous species or Continental Shelf fishery resources beyond suchzone, unless such vessel has on board a valid permit issued under this section for such vessel.
 
 #### (b) Applications and permits under governing international fishery agreements
 
@@ -46,7 +46,7 @@ After February 28, 1977, no foreign fishing vessel shall engage in fishing withi
 
 #### (5) Action by Council
 
-&emsp;After receiving a copy or summary of an application under paragraph (4)(C), the Councilmay prepare and submit to the Secretary such written comments on the application as it deems appropriate. Such comments shall be submitted within 45 days after the date on which the application is received by the Council and may include recommendations with respect to approval of the application and, if approval is recommended, with respect to appropriate conditions and restrictions thereon. Any interested person may submit comments to such Council with respect to any such application. The Council shall consider any such comments in formulating its submission to the Secretary.
+&emsp;After receiving a copy or summary of an application under paragraph (4)(C), the Council may prepare and submit to the Secretary such written comments on the application as it deems appropriate. Such comments shall be submitted within 45 days after the date on which the application is received by the Council and may include recommendations with respect to approval of the application and, if approval is recommended, with respect to appropriate conditions and restrictions thereon. Any interested person may submit comments to such Council with respect to any such application. The Council shall consider any such comments in formulating its submission to the Secretary.
 
 #### (6) Approval
 
@@ -60,7 +60,7 @@ After February 28, 1977, no foreign fishing vessel shall engage in fishing withi
 
 #### (7) Establishment of conditions and restrictions
 
-&emsp;The Secretary shall establish conditions and restrictions which shall be included in each permit issued pursuant to any application approved under paragraph (6) or subsection (d) and which must be complied with by the owner or operator of the fishing vessel for which the permit is issued. Such conditions and restrictions shall include the following:
+&emsp;The Secretary shall establish conditions and restrictions which shall be included in each permit issued pursuant to any application approved under paragraph (6) or subsection (d)and which must be complied with by the owner or operator of the fishing vessel for which the permit is issued. Such conditions and restrictions shall include the following:
 
 &emsp;&emsp;(A) All of the requirements of any applicable fishery management plan, or preliminary fishery management plan, and any applicable Federal or State fishing regulations.
 
@@ -96,7 +96,7 @@ After February 28, 1977, no foreign fishing vessel shall engage in fishing withi
 
 #### (11) Issuance of permits
 
-&emsp;If a foreign nation notifies the Secretary of State of its acceptance of the conditions and restrictions established by the Secretary under paragraph (7), the Secretary of State shall promptly transmit such notification to the Secretary. Upon payment of the applicable fees established pursuant to paragraph (10), the Secretary shall thereupon issue to such foreign nation, through the Secretary of State, permits for the appropriate fishing vessels of that nation. Each permit shall contain a statement of all conditions and restrictions established under paragraph (7) which apply tothe fishing vessel for which the permit is issued.
+&emsp;If a foreign nation notifies the Secretary of State of its acceptance of the conditions and restrictions established by the Secretary under paragraph (7), the Secretary of State shall promptly transmit such notification to the Secretary. Upon payment of the applicable fees established pursuant to paragraph (10), the Secretary shall thereupon issue to such foreign nation, through the Secretary of State, permits for the appropriate fishing vessels of that nation. Each permit shall contain a statement of all conditions and restrictions established under paragraph (7) which apply to the fishing vessel for which the permit is issued.
 
 #### (c) Registration permits
 
@@ -178,7 +178,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 #### (4) Marine conservation plans
 
-&emsp;(A) Prior to entering into a Pacific Insular Area fishery agreement, the Western Pacific Council and the appropriate Governor shall develop a 3-year marine conservation plan detailing uses for funds to be collected by the Secretary pursuant to such agreement. Such plan shall be consistent with any applicable fishery management plan, identify conservation and management objectives (including criteria for determining when such objectives have been met), and prioritize planned marine conservation projects. Conservation and management objectives shall include, but not be limited to—
+&emsp;(A) Prior to entering into a Pacific Insular Area fishery agreement, the Western Pacific Council and the appropriate Governor shall develop a 3-year marine conservation plan detailing uses for funds to be collected by theSecretary pursuant to such agreement. Such plan shall be consistent with any applicable fishery management plan, identify conservation and management objectives (including criteria for determining when such objectives have been met), and prioritize planned marine conservation projects. Conservation and management objectives shall include, but not be limited to—
 
 &emsp;&emsp;(i) Pacific Insular Area observer programs, or other monitoring programs, that the Secretary determines are adequate to monitor the harvest, bycatch, and compliance with the laws of the United States by foreign fishing vessels that fish under Pacific Insular Area fishing agreements;
 
@@ -200,7 +200,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 #### (6) Use of payments by American Samoa, Guam, Northern Mariana Islands
 
-&emsp;Any payments received by the Secretary under a Pacific Insular Area fishery agreement for American Samoa, Guam, or the Northern Mariana Islands shall be deposited into the United States Treasury and then covered over to the Treasury of the Pacific Insular Area for which those funds were collected. Amounts deposited in the Treasury of a Pacific Insular Area shall be available, withoutappropriation or fiscal year limitation, to the Governor of the Pacific Insular Area—
+&emsp;Any payments received by the Secretary under a Pacific Insular Area fishery agreement for American Samoa, Guam, or the Northern Mariana Islands shall be deposited into the United States Treasury and then covered over to the Treasury of the Pacific Insular Area for which those funds were collected. Amounts deposited in the Treasury of a Pacific Insular Area shall be available, without appropriation or fiscal year limitation, to the Governor of the Pacific Insular Area—
 
 &emsp;&emsp;(A) to carry out the purposes of this subsection;
 
@@ -222,7 +222,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 #### (8) Use of fines and penalties
 
-&emsp;In the case of violations occurring within the exclusive economic zone off American Samoa, Guam, or the Northern Mariana Islands, amounts received by the Secretary which are attributable to fines or penalties imposed under this chapter, including such sums collected from the forfeiture and disposition or sale of property seized subject to its authority, after payment of direct costs of the enforcement action to all entities involved in such action, shall be deposited into the Treasury of the Pacific Insular Area adjacent to the exclusive economic zone in which the violation occurred, to be used for fisheries enforcement and for implementation of a marine conservation plan under paragraph (4). In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection.
+&emsp;In the case of violations occurring within the exclusive economic zone off American Samoa, Guam, or the Northern Mariana Islands, amounts received by the Secretary which are attributable to fines or penalties imposed under this chapter, including such sums collected from the forfeiture and disposition or sale of property seized subject to its authority, after payment of direct costs of the enforcement action to all entities involved insuch action, shall be deposited into the Treasury of the Pacific Insular Area adjacent to the exclusive economic zone in which the violation occurred, to be used for fisheries enforcement and for implementation of a marine conservation plan under paragraph (4). In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection.
 
 (Pub. L. 94–265, title II, §204, Apr. 13, 1976, 90 Stat. 342; Pub. L. 95–354, §4(5)–(8), Aug. 28, 1978, 92 Stat. 520, 521; Pub. L. 96–470, title I, §111(b), title II, §208, Oct. 19, 1980, 94 Stat. 2239, 2245; Pub. L. 96–561, title II, §232, Dec. 22, 1980, 94 Stat. 3298; Pub. L. 97–453, §3, Jan. 12, 1983, 96 Stat. 2483; Pub. L. 99–272, title VI, §6021, Apr. 7, 1986, 100 Stat. 123; Pub. L. 99–659, title I, §§101(c)(2), 102, 103(b), Nov. 14, 1986, 100 Stat. 3707, 3709; Pub. L. 101–627, title I, §§106, 120(b), Nov. 28, 1990, 104 Stat. 4440, 4459; Pub. L. 102–251, title III, §301(f), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §105(d), Oct. 11, 1996, 110 Stat. 3564; Pub. L. 109–479, §6, title IV, §404(b), Jan. 12, 2007, 120 Stat. 3579, 3632.)
 
@@ -242,7 +242,7 @@ Section 112(b) of the Sustainable Fisheries Act, referred to in subsec. (e)(4)(A
 
 Subsec. (e)(7). Pub. L. 109–479, §6(1), inserted "and any funds or contributions received in support of conservation and management objectives under a marine conservation plan" after "agreement" in introductory provisions.
 
-Subsec. (e)(8). Pub. L. 109–479, §6(2), inserted at end "In the case of violations by foreign vessels occurringwithin the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection."
+Subsec. (e)(8). Pub. L. 109–479, §6(2), inserted at end "In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection."
 
 <b>1996</b>—Subsec. (b)(7). Pub. L. 104–297, §105(d)(1), inserted "or subsection (d)" after "under paragraph (6)" in introductory provisions.
 

@@ -73,6 +73,28 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER V—SMALL BUSINESS DEBTOR REORGANIZATION
+
+|  |  |
+| :--- | ---: |
+| [1181\.](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/%C2%A7%2001181%20-%20Inapplicability%20of%20other%20sections.md) | Inapplicability of other sections. |
+| [1182\.](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/%C2%A7%2001182%20-%20Definitions.md) | Definitions. |
+| [1183\.](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/%C2%A7%2001183%20-%20Trustee.md) | Trustee. |
+| [1184\.](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/%C2%A7%2001184%20-%20Rights%20and%20powers%20of%20a%20debtor%20in%20possession.md) | Rights and powers of a debtor in possession. |
+| [1185\.](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/%C2%A7%2001185%20-%20Removal%20of%20debtor%20in%20possession.md) | Removal of debtor in possession. |
+| [1186\.](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/%C2%A7%2001186%20-%20Property%20of%20the%20estate.md) | Property of the estate. |
+| [1187\.](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/%C2%A7%2001187%20-%20Duties%20and%20reporting%20requirements%20of%20debtors.md) | Duties and reporting requirements of debtors. |
+| [1188\.](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/%C2%A7%2001188%20-%20Status%20conference.md) | Status conference. |
+| [1189\.](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/%C2%A7%2001189%20-%20Filing%20of%20the%20plan.md) | Filing of the plan. |
+| [1190\.](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/%C2%A7%2001190%20-%20Contents%20of%20plan.md) | Contents of plan. |
+| [1191\.](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/%C2%A7%2001191%20-%20Confirmation%20of%20plan.md) | Confirmation of plan. |
+| [1192\.](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/%C2%A7%2001192%20-%20Discharge.md) | Discharge. |
+| [1193\.](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/%C2%A7%2001193%20-%20Modification%20of%20plan.md) | Modification of plan. |
+| [1194\.](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/%C2%A7%2001194%20-%20Payments.md) | Payments. |
+| [1195\.](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/%C2%A7%2001195%20-%20Transactions%20with%20professionals.md) | Transactions with professionals. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Historical and Revision Notes
 
 #### legislative statements
@@ -101,7 +123,7 @@ The record of the Senate hearings on S. 2266 and the House hearings on H.R. 8200
 
 The negative results under chapter X \[chapter 10 of former title 11\] have resulted from the stilted procedures, under which management is always ousted and replaced by an independent trustee, the courts and the Securities and Exchange Commission examine the plan of reorganization in great detail, no matter how long that takes, and the court values the business, a time consuming and inherently uncertain procedure.
 
-The House amendment deletes the "public company" exception, because it would codify the well recognized infirmities of chapter X \[chapter 10 of former title 11\], because it would extend the chapter X approach to a large number of new cases without regard to whetherthe rigid and formalized procedures of chapter X are needed, and because it is predicated upon the myth that provisions similar to those contained in chapter X are necessary for the protection of public investors. Bankruptcy practice in large reorganization cases has also changed substantially in the 40 years since the Chandler Act \[June 22, 1938, ch. 575, 52 Stat. 883, amending former title 11\] was enacted. This change is, in large part, attributable to the pervasive effect of the Federal securities laws and the extraordinary success of the Securities and Exchange Commission in sensitizing both management and members of the bar to the need for full disclosure and fair dealing in transactions involving publicly held securities.
+The House amendment deletes the "public company" exception, because it would codify the well recognized infirmities of chapter X \[chapter 10 of former title 11\], because it would extend the chapter X approach to a large number of new cases without regard to whether the rigid and formalized procedures of chapter X are needed, and because it is predicated upon the myth that provisions similar to those contained in chapter X are necessary for the protection of public investors. Bankruptcy practice in large reorganization cases has also changed substantially in the 40 years since the Chandler Act \[June 22, 1938, ch. 575, 52 Stat. 883, amending former title 11\] was enacted. This change is, in large part, attributable to the pervasive effect of the Federal securities laws and the extraordinary success of the Securities and Exchange Commission in sensitizing both management and members of the bar to the need for full disclosure and fair dealing in transactions involving publicly held securities.
 
 It is important to note that Congress passed the Chandler Act \[June 22, 1938, ch. 575, 52 Stat. 883, amending former title 11\] prior to enactment of the Trust Indenture Act of 1939 \[15 U.S.C. section 77aaa et seq.\] and prior to the definition and enforcement of the disclosure requirements of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\]. The judgments made by the 75th Congress in enacting the Chandler Act are not equally applicable to the financial markets of 1978. First of all, most public debenture holders are neither weak nor unsophisticated investors. In most cases, a significant portion of the holders of publicly issued debentures are sophisticated institutions, acting for their own account or as trustees for investment funds, pension funds, or private trusts. In addition, debenture holders, sophisticated, and unsophisticated alike, are represented by indenture trustees, qualified under section 77ggg of the Trust Indenture Act \[probably should be "section 307" which is 15 U.S.C. 77ggg\]. Given the high standard of care to which indenture trustees are bound, they are invariably active and sophisticated participants in efforts to rehabilitate corporate debtors in distress.
 
@@ -123,7 +145,7 @@ There are a number of other corporations with publicly held debt which have succ
 
 While there are other examples of large publicly held companies which have successfully reorganized in chapter XI \[chapter 11 of former title 11\], including Esgrow, Inc. (C.D.Cal. 73–02510), Sherwood Diversified Services Inc. (S.D.N.Y. 73–B–213), and United Merchants and Manufacturers, Inc. (S.D.N.Y. 77–B–1513), the numerous successful chapter XI cases demonstrate two points: first, the complicated and time-consuming provisions of chapter X \[chapter 10 of former title 11\] are not always necessary for the successful reorganization of a company with publicly held debt, and second, the more flexible provisions in chapter XI permit a debtor to obtain relief under the Bankruptcy Act \[former title 11\] in significantly less time than is required to confirm a plan of reorganization under chapter X of the Bankruptcy Act.
 
-One cannot overemphasize the advantages of speed and simplicity to both creditors and debtors. Chapter XI \[chapter 11 of former title 11\] allows a debtor to negotiate a plan outside of court and, having reached a settlement with a majority in number and amount of each class of creditors, permits the debtor to bind all unsecured creditors to the terms of the arrangement. From the perspective of creditors, early confirmation of a plan of arrangement: first, generally reduces administrative expenses which have priority over the claims of unsecured creditors; second, permits creditors to receive prompt distributions on their claims with respect to which interest does not accrue after the filing date; and third, increases the ultimate recovery on creditor claims by minimizing the adverse effect on thebusiness which often accompanies efforts to operate an enterprise under the protection of the Bankruptcy Act \[former title 11\].
+One cannot overemphasize the advantages of speed and simplicity to both creditors and debtors. Chapter XI \[chapter 11 of former title 11\] allows a debtor to negotiate a plan outside of court and, having reached a settlement with a majority in number and amount of each class of creditors, permits the debtor to bind all unsecured creditors to the terms of the arrangement. From the perspective of creditors, early confirmation of a plan of arrangement: first, generally reduces administrative expenses which have priority over the claims of unsecured creditors; second, permits creditors to receive prompt distributions on their claims with respect to which interest does not accrue after the filing date; and third, increases the ultimate recovery on creditor claims by minimizing the adverse effect on the business which often accompanies efforts to operate an enterprise under the protection of the Bankruptcy Act \[former title 11\].
 
 Although chapter XI \[chapter 11 of former title 11\] offers the corporate debtor flexibility and continuity of management, successful rehabilitation under chapter XI is often impossible for a number of reasons. First, chapter XI does not permit a debtor to "affect" secured creditors or shareholders, in the absence of their consent. Second, whereas a debtor corporation in chapter X \[chapter 10 of former title 11\], upon the consummation of the plan or reorganization, is discharged from all its debts and liabilities, a corporation in chapter XI may not be able to get a discharge in respect of certain kinds of claims including fraud claims, even in cases where the debtor is being operated under new management. The language of chapter 11 in the House amendment solves these problems and thus increases the utility and flexibility of the new chapter 11, as compared to chapter XI of the existing Bankruptcy Act \[chapter 11 of former title 11\].
 
@@ -134,6 +156,8 @@ In summary, it has been the experience of the great majority of those who have t
 Having discussed the general reasons why chapter 11 of the House amendment is sorely needed, a brief discussion of the differences between the House bill, Senate amendment, and the House amendment, is in order. Since chapter 11 of the House amendment rejects the concept of separate treatment for a public company, sections 1101(3), 1104(a), 1125(f), 1128, and 1130(a)(7) of the Senate amendment have been deleted.
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–54, §2(b), Aug. 23, 2019, 133 Stat. 1084, added subchapter V heading and items 1181 to 1195.
 
 <b>2005</b>—Pub. L. 109–8, title III, §321(a)(2), title IV, §436(b), Apr. 20, 2005, 119 Stat. 95, 113, added items 1115 and 1116.
 
@@ -152,3 +176,4 @@ Having discussed the general reasons why chapter 11 of the House amendment is so
 - [Subchapter 002 (II) - The Plan](Subchapter%20002%20%28II%29%20-%20The%20Plan/README.md)
 - [Subchapter 003 (III) - Postconfirmation Matters](Subchapter%20003%20%28III%29%20-%20Postconfirmation%20Matters/README.md)
 - [Subchapter 004 (IV) - Railroad Reorganization](Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/README.md)
+- [Subchapter 005 (V) - Small Business Debtor Reorganization](Subchapter%20005%20%28V%29%20-%20Small%20Business%20Debtor%20Reorganization/README.md)

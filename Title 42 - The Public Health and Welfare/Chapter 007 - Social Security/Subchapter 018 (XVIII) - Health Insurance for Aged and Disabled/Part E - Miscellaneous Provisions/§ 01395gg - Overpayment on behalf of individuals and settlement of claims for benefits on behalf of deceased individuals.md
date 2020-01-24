@@ -64,7 +64,7 @@ If an individual, who is enrolled under section 1395i–2(c) of this title or un
 
 #### (h) Appeals by providers of services or suppliers
 
-Notwithstanding subsection (f) or any other provision of law, the Secretary shall permit a provider of services or supplier to appeal any determination of the Secretary under this subchapter relating to services rendered under this subchapter to an individual who subsequentlydies if there is no other party available to appeal such determination.
+Notwithstanding subsection (f) or any other provision of law, the Secretary shall permit a provider of services or supplier to appeal any determination of the Secretary under this subchapter relating to services rendered under this subchapter to an individual who subsequently dies if there is no other party available to appeal such determination.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1870, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 331; amended Pub. L. 90–248, title I, §154(b), (c), Jan. 2, 1968, 81 Stat. 862; Pub. L. 92–603, title II, §§261(a), 266, 281(a), (b), Oct. 30, 1972, 86 Stat. 1448, 1450, 1454, 1455; Pub. L. 93–445, title III, §309, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 96–499, title IX, §954(a), Dec. 5, 1980, 94 Stat. 2647; Pub. L. 97–248, title I, §128(d)(1), Sept. 3, 1982, 96 Stat. 367; Pub. L. 100–203, title IV, §§4039(h)(7), 4096(a)(2), Dec, 22, 1987, 101 Stat. 1330–139, as amended Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776; Pub. L. 100–360, title IV, §411(j)(4)(B), July 1, 1988, 102 Stat. 791; Pub. L. 108–173, title IX, §939(a), Dec. 8, 2003, 117 Stat. 2416; Pub. L. 112–240, title VI, §638(a), Jan. 2, 2013, 126 Stat. 2357.)
 
@@ -88,7 +88,7 @@ Subsec. (f)(1), (2). Pub. L. 100–203, §4096(a)(2), substituted "to the terms 
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–248 substituted "section 1395y(a)" for "section 1395y".
 
-<b>1980</b>—Subsec. (f). Pub. L. 96–499 amended subsec. (f) generally, inserting provision for payments to providers of medical and other health services where the person or persons furnishing the services did not agree that the reasonable charge was the full charge for such services.
+<b>1980</b>—Subsec. (f). Pub. L. 96–499 amended subsec. (f) generally, inserting provision for payments to providers of medical and other health services where the person or persons furnishing the services did not agreethat the reasonable charge was the full charge for such services.
 
 <b>1974</b>—Subsec. (b). Pub. L. 93–445 substituted "Railroad Retirement Act of 1974" for "Railroad Retirement Act of 1937", wherever appearing.
 
@@ -138,5 +138,5 @@ Pub. L. 92–603, title II, §281(g), Oct. 30, 1972, 86 Stat. 1456, provided tha
 
 #### Waiver of Liability Limiting Recoupment in Certain Cases
 
-Pub. L. 101–239, title VI, §6109, Dec. 19, 1989, 103 Stat. 2213, provided that: "In the case where more than the correct amount may have been paid to a physician or individual under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395j et seq.\] with respect to services furnished during the period beginning on July 1, 1985, and ending on March 31, 1986, as a result of a carrier's establishing statewide fees for certain procedurecodes while the carrier was in the process of implementing the national common procedure coding system of the Health Care Financing Administration, the provisions of section 1870(c) of the Social Security Act \[42 U.S.C. 1395gg(c)\] shall apply, without the need for affirmative action by such a physician or individual, so as to prevent any recoupment, or other decrease in subsequent payments, to the physician or individual. The previous sentence shall apply to claims for items and services which were reopened by carriers on or after July 31, 1987."
+Pub. L. 101–239, title VI, §6109, Dec. 19, 1989, 103 Stat. 2213, provided that: "In the case where more than the correct amount may have been paid to a physician or individual under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395j et seq.\] with respect to services furnished during the period beginning on July 1, 1985, and ending on March 31, 1986, as a result of a carrier's establishing statewide fees for certain procedure codes while the carrier was in the process of implementing the national common procedure coding system of the Health Care Financing Administration, the provisions of section 1870(c) of the Social Security Act \[42 U.S.C. 1395gg(c)\] shall apply, without the need for affirmative action by such a physician or individual, so as to prevent any recoupment, or other decrease in subsequent payments, to the physician or individual. The previous sentence shall apply to claims for items and services which were reopened by carriers on or after July 31, 1987."
 

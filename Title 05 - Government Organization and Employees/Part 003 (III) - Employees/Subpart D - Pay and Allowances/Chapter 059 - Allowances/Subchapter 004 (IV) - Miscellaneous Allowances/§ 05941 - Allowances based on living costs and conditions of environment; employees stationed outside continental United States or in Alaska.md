@@ -170,7 +170,7 @@ Additional Compensation by Reason of Environment. The Office of Personnel Manage
 
 Sec. 203.
 
-Basis for Non-Foreign Area Post Differential. The Office of Personnel Management may establish a non-foreign area post differential for any place in the non-foreign areas when, and only when, the place involves any one or more of the following: (a) extraordinarily difficult living conditions, (b) excessive physical hardship, or (c) notably unhealthful conditions.
+Basis for Non-Foreign Area Post Differential. The Office of Personnel Management may establish a non-foreign area post differential for anyplace in the non-foreign areas when, and only when, the place involves any one or more of the following: (a) extraordinarily difficult living conditions, (b) excessive physical hardship, or (c) notably unhealthful conditions.
 
 Sec. 204.
 

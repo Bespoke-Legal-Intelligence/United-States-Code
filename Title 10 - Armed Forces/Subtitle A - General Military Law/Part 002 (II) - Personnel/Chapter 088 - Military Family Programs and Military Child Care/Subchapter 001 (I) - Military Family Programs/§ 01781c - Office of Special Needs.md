@@ -18,7 +18,7 @@ Responsibilities.—The Office shall have the responsibilities as follows:
 
 &emsp;(3) To identify gaps in services available through the Department of Defense for military families with special needs.
 
-&emsp;(4) To develop plans to address gaps identified under paragraph (3) through appropriate mechanisms, such as enhancing resources and training and ensuring the provision of special assistance to military families with special needs and military parents of individuals with special needs (including through the provision of training and seminars to members of the armed forces).
+&emsp;(4) To develop plans to address gaps identified under paragraph (3) through appropriatemechanisms, such as enhancing resources and training and ensuring the provision of special assistance to military families with special needs and military parents of individuals with special needs (including through the provision of training and seminars to members of the armed forces).
 
 &emsp;(5) To monitor the programs of the military departments for the assignment of members of the armed forces who are members of military families with special needs, and the programs for the support of such military families, and to advise the Secretary of Defense on the adequacy of such programs in conjunction with the preparation of future-years defense programs and other budgeting and planning activities of the Department of Defense.
 
@@ -58,7 +58,7 @@ Policy.—(1) The Office shall develop, and update from time to time, a uniform 
 
 &emsp;(F) Requirements regarding the development and continuous updating of an individualized services plan (medical and educational) for each military family with special needs.
 
-&emsp;(G) Requirements for record keeping, reporting, and continuous monitoring of availableresources and family needs under individualized services support plans for military families with special needs, including the establishment and maintenance of a central or various regional databases for such purposes.
+&emsp;(G) Requirements for record keeping, reporting, and continuous monitoring of available resources and family needs under individualized services support plans for military families with special needs, including the establishment and maintenance of a central or various regional databases for such purposes.
 
 (e)
 

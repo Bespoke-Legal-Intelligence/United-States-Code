@@ -44,6 +44,7 @@
 |  |  |
 | :--- | ---: |
 | [4851\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Authorities/%C2%A7%2004851%20-%20Under%20Secretary%20of%20Commerce%20for%20Industry%20and%20Security.md) | Under Secretary of Commerce for Industry and Security. |
+| [4852\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Authorities/%C2%A7%2004852%20-%20Assistant%20Secretaries%20of%20Commerce.md) | Assistant Secretaries of Commerce. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -18,7 +18,7 @@ Nothing in this chapter shall be construed to apply to (or to authorize any Stat
 
 (B) Based on the report under subparagraph (A) and on any future information on such emissions, the Administrator may publish advisories or guidelines regarding the control of dioxin emissions from such facilities. Nothing in this paragraph shall be construed to preempt or otherwise affect the authority of the Administrator to promulgate any regulations under the Clean Air Act \[42 U.S.C. 7401 et seq.\] regarding emissions of polychlorinated dibenzo-p-dioxins.
 
-(3) Notwithstanding any other provisions of law, in developing solid waste plans, it is the intention of this chapter that in determining the size of a waste-to-energy facility, adequate provisions shall be given to the present and reasonably anticipated future needs, including those needs created by thorough implementation of section 6962(h) of this title, of the recycling and resource recovery interests within the area encompassed by the solid waste plan.
+(3) Notwithstanding any other provisions of law, in developing solid waste plans, it is the intention of this chapter that in determining the size of a waste-to-energy facility, adequate provisions shall be given to the present and reasonably anticipated future needs, including thoseneeds created by thorough implementation of section 6962(h) of this title, of the recycling and resource recovery interests within the area encompassed by the solid waste plan.
 
 #### (c) Integration with the Surface Mining Control and Reclamation Act of 1977
 
@@ -26,7 +26,7 @@ Nothing in this chapter shall be construed to apply to (or to authorize any Stat
 
 (2) The Secretary of the Interior shall have exclusive responsibility for carrying out any requirement of subchapter III of this chapter with respect to coal mining wastes or overburden for which a surface coal mining and reclamation permit is issued or approved under the Surface Mining Control and Reclamation Act of 1977 \[30 U.S.C. 1201 et seq.\]. The Secretary shall, with the concurrence of the Administrator, promulgate such regulations as may be necessary to carry out the purposes of this subsection and shall integrate such regulations with regulations promulgated under the Surface Mining Control and Reclamation Act of 1977.
 
-(Pub. L. 89–272, title II, §1006, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2802; amendedPub. L. 96–482, §3, Oct. 21, 1980, 94 Stat. 2334; Pub. L. 98–616, title I, §102, title V, §501(f)(2), Nov. 8, 1984, 98 Stat. 3225, 3276.)
+(Pub. L. 89–272, title II, §1006, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2802; amended Pub. L. 96–482, §3, Oct. 21, 1980, 94 Stat. 2334; Pub. L. 98–616, title I, §102, title V, §501(f)(2), Nov. 8, 1984, 98 Stat. 3225, 3276.)
 
 #### References in Text
 

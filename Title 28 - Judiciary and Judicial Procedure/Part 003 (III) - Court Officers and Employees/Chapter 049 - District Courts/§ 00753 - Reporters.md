@@ -62,7 +62,7 @@ The last paragraph of subsection (b) of this section was revised to conform with
 
 #### References in Text
 
-The Criminal Justice Act, referred to in subsec. (f), probably means Pub. L. 88–455, Aug. 20, 1964, 78 Stat.552, known as the Criminal Justice Act of 1964, which is classified to section 3006A of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under section 3006A of Title 18.
+The Criminal Justice Act, referred to in subsec. (f), probably means Pub. L. 88–455, Aug. 20, 1964, 78 Stat. 552, known as the Criminal Justice Act of 1964, which is classified to section 3006A of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under section 3006A of Title 18.
 
 #### Amendments
 
@@ -118,7 +118,7 @@ For termination of the United States District Court for the District of the Cana
 
 <b>1966</b>—Pub. L. 89–504, title II, §202(c), July 18, 1966, 80 Stat. 294, inserted a new salary limitation for court reporters effective the first pay period which begins on or after July 1, 1966, which reflected the respective applicable pay increases provided by section 102(a) of title I of Pub. L. 89–504 in corresponding rates of compensation for particular officers and employees of the government.
 
-<b>1965</b>—Pub. L. 89–301, §12(c), Oct. 29, 1965, 79 Stat. 1122, inserted a new salary limitation for court reporters which reflected the applicable pay increases provided by section 2(a) of Pub. L. 89–301 in corresponding rates of compensation for particular government officers and employees.
+<b>1965</b>—Pub. L. 89–301, §12(c), Oct. 29, 1965, 79 Stat. 1122, inserted a new salary limitation for court reporterswhich reflected the applicable pay increases provided by section 2(a) of Pub. L. 89–301 in corresponding rates of compensation for particular government officers and employees.
 
 <b>1964</b>—Pub. L. 88–426, title IV, §402(c), Aug. 14, 1964, 78 Stat. 434, inserted a new salary limitation for court reporters which reflected the applicable pay increases provided by title I of Pub. L. 88–426 in corresponding rates of compensation for particular government officers and employees.
 

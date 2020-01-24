@@ -484,21 +484,13 @@ Special rule for master contract.—For purposes of this subsection, in the case
 
 #### Interim Rules; Regulations; Standards Before Regulations Take Effect
 
-Pub. L. 100–647, title V, §5011(c), Nov. 10, 1988, 102 Stat. 3661, provided that:
-
-"(1)
-
-Regulations.—Not later than January 1, 1990, the Secretary of the Treasury (or his delegate) shall issue regulations under section 7702(c)(3)(B)(i) of the 1986 Code (as amended by subsection (a)).
-
-"(2)
-
-Standards before regulations take effect.—In the case of any contract to which the amendments made by this section \[amending this section\] apply and which is issued before the effective date of the regulations required under paragraph (1), mortality charges which do not differ materially from the charges actually expected to be imposed by the company (taking into account any relevant characteristic of the insured of which the company is aware) shall be treated as meeting the requirements of clause (i) of section 7702(c)(3)(B) of the 1986 Code (as amended by subsection (a))."
+Pub. L. 100–647, title V, §5011(c), Nov. 10, 1988, 102 Stat. 3661, provided that the Secretary of the Treasury would issue regulations under subsec. (c)(3)(B)(i) of this section and provided for a standard for contracts issues before the effective date of those regulations.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Treatment of Flexible Premium Contracts Issued During 1984 Which Meet New Requirements
 
-Pub. L. 98–369, div. A, title II, §221(b)(3), as added by Pub. L. 99–514, title XVIII, §1825(d), Oct. 22, 1986, 100 Stat. 2848, provided that: "Any flexible premium contract issued during 1984 which meets the requirements of section 7702 of the Internal Revenue Code of 1954 \[now 1986\] (as added by this section) shall be treated as meeting the requirements of section 101(f) of such Code."
+Pub. L. 98–369, div. A, title II, §221(b)(3), as added by Pub. L. 99–514, title XVIII, §1825(d), Oct. 22, 1986, 100 Stat. 2848, provided that: "Any flexible premium contract issued during 1984 which meets the requirements of section 7702 of the Internal Revenue Code of 1954\[now 1986\] (as added by this section) shall be treated as meeting the requirements of section 101(f) of such Code."
 

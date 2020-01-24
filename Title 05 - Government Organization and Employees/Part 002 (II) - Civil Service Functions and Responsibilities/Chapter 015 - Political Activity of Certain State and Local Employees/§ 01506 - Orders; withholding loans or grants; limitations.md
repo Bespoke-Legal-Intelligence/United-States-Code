@@ -12,7 +12,7 @@
 
 (c) The Board may not require an amount to be withheld from a loan or grant pledged by a State or local agency as security for its bonds or notes if the withholding of that amount would jeopardize the payment of the principal or interest on the bonds or notes.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 405; Pub. L. 95–454, title IX, §906(a)(6), Oct. 13, 1978, 92 Stat.1225; Pub. L. 112–230, §3(d), Dec. 28, 2012, 126 Stat. 1616.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 405; Pub. L. 95–454, title IX, §906(a)(6), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 112–230, §3(d), Dec. 28, 2012, 126 Stat. 1616.)
 
 Historical and Revision Notes
 

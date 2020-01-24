@@ -80,7 +80,7 @@ Not later than 30 days after receiving a written notification under subsection (
 
 &emsp;&emsp;(C) a description of any impacts the cost increase, or the actions described under subparagraph (B), will have on any other program within NOAA; and
 
-&emsp;(2) if the Under Secretary intends to continue with the program, promptly initiate an analysis of the program, which shall include, at a minimum—
+&emsp;(2) if the Under Secretary intends to continue with the program, promptly initiate ananalysis of the program, which shall include, at a minimum—
 
 &emsp;&emsp;(A) the projected cost and schedule for completing the program if current requirements of the program are not modified;
 
@@ -110,9 +110,13 @@ Pub. L. 110–161, div. B, title I, §112, Dec. 26, 2007, 121 Stat. 1894.
 
 #### Requirements Adopted by Reference
 
-Pub. L. 115–141, div. B, title I, §104, Mar. 23, 2018, 132 Stat. 408, provided in part that: "The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) \[33 U.S.C. 878a\], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2018".
+Pub. L. 116–93, div. B, title I, §104, Dec. 20, 2019, 133 Stat. 2394, provided in part that: "The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) \[33 U.S.C. 878a\], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2020".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–6, div. C, title I, §104, Feb. 15, 2019, 133 Stat. 100.
+
+Pub. L. 115–141, div. B, title I, §104, Mar. 23, 2018, 132 Stat. 408.
 
 Pub. L. 115–31, div. B, title I, §104, May 5, 2017, 131 Stat. 191.
 

@@ -50,7 +50,7 @@ In this section:
 
 #### (11) Resolution mine plan of operations
 
-&emsp;The term "Resolution mine plan of operations" means the mine plan of operationssubmitted to the Secretary by Resolution Copper in November, 2013, including any amendments or supplements.
+&emsp;The term "Resolution mine plan of operations" means the mine plan of operations submitted to the Secretary by Resolution Copper in November, 2013, including any amendments or supplements.
 
 #### (c) Land exchange
 
@@ -140,7 +140,7 @@ In this section:
 
 #### (iii) Disposition and use of proceeds
 
-&emsp;&emsp;&emsp;Any amounts received by the United States under this subparagraph shall be deposited in the fund established undersection 484a of this title and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
+&emsp;&emsp;&emsp;Any amounts received by the United States under this subparagraph shall be deposited in the fund established under section 484a of this title and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
 
 #### (C) Surplus of non-Federal land
 
@@ -230,7 +230,7 @@ In this section:
 
 &emsp;&emsp;(B) to the Secretary of the Interior, all right, title, and interest that the Secretary of the Interior determines to be acceptable in and to—
 
-&emsp;&emsp;&emsp;(i) the approximately 3,050 acres of land located in Pinal County, Arizona, identified as "Lands to DOI" as generally depicted on the map entitled "Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Lower San Pedro River" and dated July 6, 2011;
+&emsp;&emsp;&emsp;(i) the approximately 3,050 acres of land located in Pinal County, Arizona, identified as "Lands to DOI" as generally depicted on the map entitled "Southeast Arizona Land Exchange and Conservation Actof 2011–Non-Federal Parcel–Lower San Pedro River" and dated July 6, 2011;
 
 &emsp;&emsp;&emsp;(ii) the approximately 160 acres of land located in Gila and Pinal Counties, Arizona, identified as "Lands to DOI" as generally depicted on the map entitled "Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Dripping Springs" and dated July 6, 2011; and
 
@@ -446,7 +446,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(9), is
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2)(B)(ii), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-The Geothermal Steam Act of 1970, referred to in subsec. (i)(1)(B), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat.1566, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (i)(1)(B), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 
 #### Codification
 

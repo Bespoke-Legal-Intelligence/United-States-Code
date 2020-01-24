@@ -132,7 +132,7 @@ Authority of Individuals To Act for Commission.—Any member or agent of the Com
 
 In General.—The Commission shall—
 
-&emsp;"(1) review the adequacy and effectiveness of veterans transition assistance and benefits programs inproviding assistance to members of the Armed Forces in making the transition and adjustment to civilian life;
+&emsp;"(1) review the adequacy and effectiveness of veterans transition assistance and benefits programs in providing assistance to members of the Armed Forces in making the transition and adjustment to civilian life;
 
 &emsp;"(2) review the allocation under law of responsibility for the administration of veterans transition assistance and benefits programs among the various departments and agencies of the Government and determine the feasibility and desirability of consolidating such administration;
 
@@ -212,7 +212,7 @@ Reports.—(1) Not later than 90 days after the date on which all members of the
 
 "(a)
 
-Hearings.—The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out the purposes of this title.
+Hearings.—The Commission may hold such hearings, sit and act at such times and places, takesuch testimony, and receive such evidence as the Commission considers advisable to carry out the purposes of this title.
 
 "(b)
 
@@ -240,7 +240,7 @@ Compensation of Members.—Each member of the Commission may be compensated at a
 
 "(b)
 
-Travel and Travel Expenses.—(1) Members and personnel of the Commission may travel on military aircraft, military vehicles, or other military conveyances when travel is necessary in the performance of aduty of the Commission except when the cost of commercial transportation is less expensive.
+Travel and Travel Expenses.—(1) Members and personnel of the Commission may travel on military aircraft, military vehicles, or other military conveyances when travel is necessary in the performance of a duty of the Commission except when the cost of commercial transportation is less expensive.
 
 "(2) The members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 

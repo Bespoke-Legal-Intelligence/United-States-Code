@@ -76,7 +76,7 @@ For the purposes of sections 5342 to 5348 of this title, the following definitio
 
 #### (2) Failure to comply
 
-&emsp;A contracting party that fails to submit a report under paragraph (1) shall receive no amounts under sections 5342 to 5348 of this title for the fiscal year following the academic year for which the report should have been submitted.
+&emsp;A contracting party that fails to submit a report under paragraph (1) shall receive noamounts under sections 5342 to 5348 of this title for the fiscal year following the academic year for which the report should have been submitted.
 
 #### (3) Notice
 
@@ -126,7 +126,7 @@ For the purposes of sections 5342 to 5348 of this title, the following definitio
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An existing contracting party shall receive an amount under sections 5342 to 5348of this title for a fiscal year that is less than the amount that the existing contracting party received under sections 5342 to 5348 of this title for the fiscal year preceding December 31, 2018, if one or more of the following conditions is met:
+&emsp;&emsp;&emsp;An existing contracting party shall receive an amount under sections 5342 to 5348 of this title for a fiscal year that is less than the amount that the existing contracting party received under sections 5342 to 5348 of this title for the fiscal year preceding December 31, 2018, if one or more of the following conditions is met:
 
 #### (I) Failure to report
 
@@ -244,7 +244,11 @@ Nothing in this section—
 
 #### References in Text
 
-The Johnson-O'Malley Supplemental Indian Education Program Modernization Act, referred to subsec. (a)(4), is Pub. L. 115–404, Dec. 31, 2018, 132 Stat. 5349, which enacted this section and provisions set out as a note under section 5301 of this title. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 5301 of this title and Tables.
+The Johnson-O'Malley Supplemental Indian Education Program Modernization Act, referred to subsec. (a)(4), is Pub. L. 115–404, Dec. 31, 2018, 132 Stat. 5349, which enacted this section and provisions set out as a note under section 5301 of this title. For complete classification of this Act to the Code, see Short Title of2018 Amendment note set out under section 5301 of this title and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VI of the Act is classified generally to subchapter VI (§7401 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

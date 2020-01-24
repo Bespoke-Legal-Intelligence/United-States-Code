@@ -66,7 +66,7 @@ Same state purchases.—Of the amounts not used under subparagraph (C), not less
 
 #### (d) Contaminated sites and sites difficult and uneconomic to manage
 
-Funds in the Federal Land Disposal Account shall not be used to purchase land or an interestin land that, as determined by the Secretary or the Secretary of Agriculture—
+Funds in the Federal Land Disposal Account shall not be used to purchase land or an interest in land that, as determined by the Secretary or the Secretary of Agriculture—
 
 &emsp;(1) contains a hazardous substance or is otherwise contaminated; or
 

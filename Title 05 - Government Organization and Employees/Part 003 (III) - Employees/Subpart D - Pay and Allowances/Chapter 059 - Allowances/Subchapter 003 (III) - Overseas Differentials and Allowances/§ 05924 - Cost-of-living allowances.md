@@ -6,7 +6,7 @@ The following cost-of-living allowances may be granted, when applicable, to an e
 
 &emsp;(2) A transfer allowance for extraordinary, necessary, and reasonable subsistence and other relocation expenses (including unavoidable lease penalties), not otherwise compensated for, incurred by an employee incident to establishing himself at a post of assignment in—
 
-&emsp;&emsp;(A) a foreign area (including costs incurred in the United States, its territories or possessions, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or the areas and installations in theRepublic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements prior to departure for a post of assignment in a foreign area); or
+&emsp;&emsp;(A) a foreign area (including costs incurred in the United States, its territories or possessions, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements prior to departure for a post of assignment in a foreign area); or
 
 &emsp;&emsp;(B) the United States after the employee agrees in writing to remain in Government service for 12 months after transfer, unless separated for reasons beyond the control of the employee that are acceptable to the agency concerned.
 

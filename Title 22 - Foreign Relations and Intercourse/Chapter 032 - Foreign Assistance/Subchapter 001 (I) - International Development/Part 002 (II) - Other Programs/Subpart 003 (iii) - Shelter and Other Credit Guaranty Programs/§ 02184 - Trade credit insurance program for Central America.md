@@ -24,7 +24,7 @@ Commitments to guarantee under subsection (a) are authorized only to the extent 
 
 #### (f) Credits to reserve fund
 
-To the extent that any of the funds made available pursuant to subsection (d) are paid out for a claim arising out of liabilities guaranteed under subsection (a), amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund referred to in subsection (b), shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Agency to the Bank for guarantees under subsection (a).
+To the extent that any of the funds made available pursuant to subsection (d) are paid out for a claim arising out of liabilities guaranteed under subsection (a), amounts received after the date of such payment, with respect to suchclaim, shall be credited to the reserve fund referred to in subsection (b), shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Agency to the Bank for guarantees under subsection (a).
 
 #### (g) Omitted
 
@@ -50,7 +50,7 @@ Section 224 of Pub. L. 87–195 is based on section 1011 of title X of H.R. 5119
 
 #### Prior Provisions
 
-A prior section 224 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 432, as amended by Pub. L. 87–565, pt. I, §104(c), Aug. 1, 1962, 76 Stat. 257; Pub. L. 88–205, pt. I, §104(g), Dec. 16, 1963, 77 Stat. 382; Pub. L. 88–633, pt. I,§103(b), Oct. 7, 1964, 78 Stat. 1010; Pub. L. 89–171, pt. I, §104(e), Sept. 6, 1965, 79 Stat. 655; Pub. L. 89–583, pt. I, §104(c), Sept. 19, 1966, 80 Stat. 798; Pub. L. 90–137, pt. I, §104(d), Nov. 14, 1967, 81 Stat. 451; Pub. L. 90–554, pt. I, §104, Oct. 8, 1968, 82 Stat. 961, related to housing projects in Latin America, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807. See section 2182 of this title.
+A prior section 224 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 432, as amended by Pub. L. 87–565, pt. I, §104(c), Aug. 1, 1962, 76 Stat. 257; Pub. L. 88–205, pt. I, §104(g), Dec. 16, 1963, 77 Stat. 382; Pub. L. 88–633, pt. I, §103(b), Oct. 7, 1964, 78 Stat. 1010; Pub. L. 89–171, pt. I, §104(e), Sept. 6, 1965, 79 Stat. 655; Pub. L. 89–583, pt. I, §104(c), Sept. 19, 1966, 80 Stat. 798; Pub. L. 90–137, pt. I, §104(d), Nov. 14, 1967, 81 Stat. 451; Pub. L. 90–554, pt. I, §104, Oct. 8, 1968, 82 Stat. 961, related to housing projects in Latin America, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807. See section 2182 of this title.
 
 #### Amendments
 

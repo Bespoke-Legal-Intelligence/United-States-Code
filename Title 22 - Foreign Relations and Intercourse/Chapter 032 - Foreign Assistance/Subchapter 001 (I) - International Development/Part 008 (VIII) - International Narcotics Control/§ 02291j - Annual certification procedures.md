@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) during the previous year the country has cooperated fully with the United States, or has taken adequate steps on its own, to achieve full compliance with the goals and objectives established by the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances; or
 
-&emsp;&emsp;(B) for a country that would not otherwise qualify for certification under subparagraph (A), the vital national interests of the United States require that the assistance withheld pursuant to subsection (a)(1) be provided and that the United States not vote against multilateral development bank assistance for that country pursuant to subsection (a)(2).
+&emsp;&emsp;(B) for a country that would not otherwise qualify for certification under subparagraph (A), the vital national interests of the United States require that the assistance withheld pursuant to subsection (a)(1) beprovided and that the United States not vote against multilateral development bank assistance for that country pursuant to subsection (a)(2).
 
 #### (2) Considerations regarding cooperation
 
@@ -82,7 +82,7 @@ Any joint resolution under this section shall be considered in the Senate in acc
 
 #### (h) Determining major drug-transit and major illicit drug producing countries
 
-Not later than November 1 of each year, the President shall notify the appropriate committees of the Congress of which countries have been determined to be major drug-transit countries, and which countries have been determined to be major illicit drug producing countries, for purposes of this chapter.
+Not later than November 1 of each year, the President shall notify the appropriate committees of the Congress of which countries have been determined to be major drug-transit countries, and which countries have been determinedto be major illicit drug producing countries, for purposes of this chapter.
 
 (Pub. L. 87–195, pt. I, §490, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4924; amended Pub. L. 103–447, title I, §101(g)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(d), Dec. 21, 1995, 109 Stat. 724; Pub. L. 109–177, title VII, §722(b), Mar. 9, 2006, 120 Stat. 268.)
 

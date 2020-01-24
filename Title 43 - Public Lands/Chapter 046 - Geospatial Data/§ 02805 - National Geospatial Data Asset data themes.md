@@ -66,7 +66,7 @@ The Committee shall designate as National Geospatial Data Asset data themes the 
 
 &emsp;&emsp;&emsp;&emsp;(II) comments, as appropriate, regarding the summary and evaluation of the performance report provided by the Committee under section 2802(c)(12) of this title;
 
-&emsp;&emsp;&emsp;(iii) publish maps or comparable graphics online (in accordance with the mapping conventions specified by the Committee) showing the extent and status of the National Geospatial Data Asset data themes for which the covered agency is a lead covered agency;
+&emsp;&emsp;&emsp;(iii) publish maps or comparable graphics online (in accordance with the mappingconventions specified by the Committee) showing the extent and status of the National Geospatial Data Asset data themes for which the covered agency is a lead covered agency;
 
 &emsp;&emsp;&emsp;(iv) encourage individuals and entities that are a source of geospatial data or metadata for geospatial data for the National Geospatial Data Asset data theme to provide access to such data through the GeoPlatform;
 

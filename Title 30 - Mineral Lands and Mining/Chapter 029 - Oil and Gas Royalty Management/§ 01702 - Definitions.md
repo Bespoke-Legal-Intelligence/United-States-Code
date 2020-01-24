@@ -52,7 +52,7 @@ For the purposes of this chapter, the term—
 
 &emsp;&emsp;(B) with respect to a demand, the receipt by the Secretary or a delegated State or a lessee or its designee (with written notice to the lessee who designated the designee) of the demand;
 
-&emsp;(21) "credit" means the application of an overpayment (in whole or in part) against an obligation which has become due to discharge, cancel or reduce the obligation;
+&emsp;(21) "credit" means the application of an overpayment (in whole or in part) against anobligation which has become due to discharge, cancel or reduce the obligation;
 
 &emsp;(22) "delegated State" means a State which, pursuant to an agreement or agreements under section 1735 of this title, performs authorities, duties, responsibilities, or activities of the Secretary;
 
@@ -96,7 +96,7 @@ For the purposes of this chapter, the term—
 
 &emsp;&emsp;(A) asserts a specific, definite, and quantified obligation claimed to be due, and
 
-&emsp;&emsp;(B) specifically identifies the obligation by lease, production month and monetaryamount of such obligation claimed to be due and ordered to be paid, as well as the reason or reasons such obligation is claimed to be due, but such term does not include any other communication or action by or on behalf of the Secretary or a delegated State;
+&emsp;&emsp;(B) specifically identifies the obligation by lease, production month and monetary amount of such obligation claimed to be due and ordered to be paid, as well as the reason or reasons such obligation is claimed to be due, but such term does not include any other communication or action by or on behalf of the Secretary or a delegated State;
 
 &emsp;(27) "overpayment" means any payment by a lessee or its designee in excess of an amount legally required to be paid on an obligation and includes the portion of any estimated payment for a production month that is in excess of the royalties due for that month;
 

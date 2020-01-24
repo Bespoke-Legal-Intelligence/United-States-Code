@@ -100,7 +100,7 @@ The purposes of this section are as follows:
 
 &emsp;&emsp;(H) The drivers, nature, and implications of the growing economic, technological, political, cultural, people-to-people, and security relations of the People's Republic of China's with other countries, regions, and international and regional entities (including multilateral organizations), including the relationship among the United States, Taiwan, and the People's Republic of China.
 
-&emsp;&emsp;(I) The compliance of the People's Republic of China with its commitments to the World Trade Organization, other multilateral commitments, bilateral agreements signed with the United States, commitments made to bilateral science and technology programs, and any other commitments and agreements strategic to the United States (including agreements on intellectual property rights and prison labor imports), and United States enforcement policies with respect to such agreements.
+&emsp;&emsp;(I) The compliance of the People's Republic of China with its commitments to the World Trade Organization, other multilateral commitments, bilateral agreementssigned with the United States, commitments made to bilateral science and technology programs, and any other commitments and agreements strategic to the United States (including agreements on intellectual property rights and prison labor imports), and United States enforcement policies with respect to such agreements.
 
 &emsp;&emsp;(J) The implications of restrictions on speech and access to information in the People's Republic of China for its relations with the United States in economic and security policy, as well as any potential impact of media control by the People's Republic of China on United States economic interests.
 
@@ -136,7 +136,7 @@ The purposes of this section are as follows:
 
 #### (1) Compensation of members
 
-&emsp;Members of the Commission shall be compensated in the same manner provided for thecompensation of members of the Trade Deficit Review Commission under section 127(g)(1) and section 127(g)(6) of the Trade Deficit Review Commission Act (19 U.S.C. 2213 note).
+&emsp;Members of the Commission shall be compensated in the same manner provided for the compensation of members of the Trade Deficit Review Commission under section 127(g)(1) and section 127(g)(6) of the Trade Deficit Review Commission Act (19 U.S.C. 2213 note).
 
 #### (2) Travel expenses
 
@@ -250,7 +250,7 @@ Proliferation practices.—The Commission shall analyze and assess the Chinese r
 
 &emsp;"(B)
 
-Economic reforms and united states economic transfers.—The Commission shall analyze and assess the qualitative and quantitative nature of the shift of United States production activities to China, including the relocation of high-technology, manufacturing, and R\&D facilities; the impact of these transfers on United States national security, including political influence by the Chinese Government over American firms, dependence of the United States national security industrial base on Chinese imports, the adequacy of United States export control laws, and the effect of these transfers on United States economic security, employment, and the standard of living of the American people; analyze China's national budget and assess China's fiscal strength to address internal instability problems and assess the likelihood of externalization of such problems.
+Economic reforms and united states economic transfers.—The Commission shall analyze and assess the qualitative and quantitative nature of the shift of United States production activities to China, including the relocation of high-technology, manufacturing, and R\&D facilities; the impact of these transfers on United States national security, including political influence by the Chinese Government over American firms, dependence of the United States national security industrial base on Chineseimports, the adequacy of United States export control laws, and the effect of these transfers on United States economic security, employment, and the standard of living of the American people; analyze China's national budget and assess China's fiscal strength to address internal instability problems and assess the likelihood of externalization of such problems.
 
 &emsp;"(C)
 

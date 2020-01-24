@@ -2,7 +2,7 @@
 
 #### (a) Program plan; guidelines; compliance
 
-(1) The Secretary shall permit any political subdivision, in any State, that applies and submits a plan to the Secretary in compliance with guidelines promulgated by the Secretary to operate a workfare program pursuant to which every member of a household participating in the supplemental nutrition assistance program who is not exempt by virtue of the provisions of subsection (b) of this section shall accept an offer from such subdivision to perform work on its behalf, or may seek an offer to perform work, in return for compensation consisting of the allotment to which the household is entitled under section 2017(a) of this title, with each hour of such work entitling that household to a portion of its allotment equal in value to 100 per centum of the higher of the applicable State minimum wage or the Federal minimum hourly rate under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\].
+(1) The Secretary shall permit any political subdivision, in any State, that applies and submits a plan to the Secretary in compliance with guidelines promulgated by the Secretary to operate a workfare program pursuant to which every member of a household participating in the supplemental nutrition assistance program who is not exempt by virtue of the provisions of subsection (b) of this section shall accept an offer from such subdivision to perform work on its behalf, or may seek an offer to perform work, in return for compensation consisting of the allotment to which the household is entitledunder section 2017(a) of this title, with each hour of such work entitling that household to a portion of its allotment equal in value to 100 per centum of the higher of the applicable State minimum wage or the Federal minimum hourly rate under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\].
 
 (2)(A) The Secretary shall promulgate guidelines pursuant to paragraph (1) which, to the maximum extent practicable, enable a political subdivision to design and operate a workfare program under this section which is compatible and consistent with similar workfare programs operated by the subdivision.
 
@@ -60,7 +60,7 @@ An individual or a household may become ineligible under section 2015(d)(1) of t
 
 (3) The Secretary may suspend or cancel some or all of these payments, or may withdraw approval from a political subdivision to operate a workfare program, upon a finding that the subdivision has failed to comply with the workfare requirements.
 
-(Pub. L. 88–525, §20, as added Pub. L. 97–98, title XIII, §1333, Dec. 22, 1981, 95 Stat. 1291; amended Pub. L. 97–253, title I, §§185–188, Sept. 8, 1982, 96 Stat. 786; Pub. L. 99–198, title XV, §1517(d), Dec. 23, 1985, 99 Stat. 1577; Pub. L. 102–237, title IX, §941(10), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 104–193, title I, §109(e), title VIII, §815(b)(2), Aug. 22, 1996, 110 Stat. 2170, 2317; Pub. L. 110–234, titleIV, §4001(b), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, §4(a), title IV, §4001(b), June 18, 2008, 122 Stat. 1664, 1853.)
+(Pub. L. 88–525, §20, as added Pub. L. 97–98, title XIII, §1333, Dec. 22, 1981, 95 Stat. 1291; amended Pub. L. 97–253, title I, §§185–188, Sept. 8, 1982, 96 Stat. 786; Pub. L. 99–198, title XV, §1517(d), Dec. 23, 1985, 99 Stat. 1577; Pub. L. 102–237, title IX, §941(10), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 104–193, title I, §109(e), title VIII, §815(b)(2), Aug. 22, 1996, 110 Stat. 2170, 2317; Pub. L. 110–234, title IV, §4001(b), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, §4(a), title IV, §4001(b), June 18, 2008, 122 Stat. 1664, 1853.)
 
 #### References in Text
 
@@ -70,7 +70,7 @@ The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

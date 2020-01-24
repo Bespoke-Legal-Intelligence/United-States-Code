@@ -1,6 +1,6 @@
 ### §928. Separability
 
-If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of the chapter and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected thereby.
+If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of the chapter andthe application of such provision to other persons not similarly situated or to other circumstances shall not be affected thereby.
 
 (Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 234; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1226.)
 

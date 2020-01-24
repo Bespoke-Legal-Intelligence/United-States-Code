@@ -22,11 +22,27 @@ Except as otherwise provided by subsection (b) and sections 6062 and 6063, any r
 
 #### (3) Published guidance
 
-&emsp;The Secretary shall publish guidance as appropriate to define and implement any waiver of the signature requirements or any method adopted under paragraph (1).
+#### (A) In general
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 748; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title II, §2003(a), July 22, 1998, 112 Stat. 724.)
+&emsp;&emsp;The Secretary shall publish guidance as appropriate to define and implement any waiver of the signature requirements or any method adopted under paragraph (1).
+
+#### (B) Electronic signatures for disclosure authorizations to, and other authorizations of, practitioners
+
+&emsp;&emsp;Not later than 6 months after the date of the enactment of this subparagraph, the Secretary shall publish guidance to establish uniform standards and procedures for the acceptance of taxpayers' signatures appearing in electronic form with respect to any request for disclosure of a taxpayer's return or return information under section 6103(c) to a practitioner or any power of attorney granted by a taxpayer to a practitioner.
+
+#### (C) Practitioner
+
+&emsp;&emsp;For purposes of subparagraph (B), the term "practitioner" means any individual in good standing who is regulated under section 330 of title 31, United States Code.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 748; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title II, §2003(a), July 22, 1998, 112 Stat. 724; Pub. L. 116–25, title II, §2302, July 1, 2019, 133 Stat. 1013.)
+
+#### References in Text
+
+The date of the enactment of this subparagraph, referred to in subsec. (b)(3)(B), is the date of enactment of Pub. L. 116–25, which was approved July 1, 2019.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(3). Pub. L. 116–25 amended par. (3) generally. Prior to amendment, text of par. (3) read as follows: "The Secretary shall publish guidance as appropriate to define and implement any waiver of the signature requirements or any method adopted under paragraph (1)."
 
 <b>1998</b>—Pub. L. 105–206 designated existing provisions as subsec. (a), inserted subsec. heading, substituted "Except as otherwise provided by subsection (b) and" for "Except as otherwise provided by", and added subsec. (b).
 

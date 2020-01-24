@@ -44,5 +44,5 @@ This chapter, referred to in subsecs. (a) and (c)(5), was in the original "this 
 
 #### Short Title
 
-Pub. L. 101–624, title XXIV, §2401, Nov. 28, 1990, 104 Stat. 4058, provided that: "This title \[enacting this chapter and amending sections 1601 and 1602 of Title 16, Conservation\] may be cited as the 'Global Climate Change Prevention Act of 1990'."
+Pub. L. 101–624, title XXIV, §2401, Nov. 28, 1990, 104 Stat. 4058, provided that: "This title \[enacting thischapter and amending sections 1601 and 1602 of Title 16, Conservation\] may be cited as the 'Global Climate Change Prevention Act of 1990'."
 

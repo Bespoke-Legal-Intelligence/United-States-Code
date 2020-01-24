@@ -16,7 +16,7 @@
 
 #### (b) Substitutions
 
-The owner or operator of an affected unit under subsection (a) may include in its section 7651g of this title permit application and proposed compliance plan a proposal to reassign, in whole or in part, the affected unit's sulfur dioxide reduction requirements to any other unit(s)under the control of such owner or operator. Such proposal shall specify—
+The owner or operator of an affected unit under subsection (a) may include in its section 7651g of this title permit application and proposed compliance plan a proposal to reassign, in whole or in part, the affected unit's sulfur dioxide reduction requirements to any other unit(s) under the control of such owner or operator. Such proposal shall specify—
 
 &emsp;(1) the designation of the substitute unit or units to which any part of the reduction obligations of subsection (a) shall be required, in addition to, or in lieu of, any original affected units designated under such subsection;
 
@@ -54,7 +54,7 @@ The owner or operator of an affected unit under subsection (a) may include in it
 
 (3) The Administrator shall review and take final action on each extension proposal in order of receipt, consistent with section 7651g of this title, and for an approved proposal shall designate the unit or units as an eligible phase I extension unit. The Administrator may approve an extension proposal in whole or in part, and with such modifications or conditions as may be necessary, consistent with the orderly functioning of the allowance system, and to ensure the emissions reductions contemplated by the <sup>3</sup> subchapter.
 
-(4) In order to determine the number of proposals eligible for allocations from the reserveunder subsection (a)(2) and the number of allowances remaining available after each proposal is acted upon, the Administrator shall reduce the total number of allowances remaining available in the reserve by the number of allowances calculated according to subparagraphs (A), (B) and (C) until either no allowances remain available in the reserve for further allocation or all approved proposals have been acted upon. If no allowances remain available in the reserve for further allocation before all proposals have been acted upon by the Administrator, any pending proposals shall be disapproved. The Administrator shall calculate allowances equal to—
+(4) In order to determine the number of proposals eligible for allocations from the reserve under subsection (a)(2) and the number of allowances remaining available after each proposal is acted upon, the Administrator shall reduce the total number of allowances remaining available in the reserve by the number of allowances calculated according to subparagraphs (A), (B) and (C) until either no allowances remain available in the reserve for further allocation or all approved proposals have been acted upon. If no allowances remain available in the reserve for further allocation before all proposals have been acted upon by the Administrator, any pending proposals shall be disapproved. The Administrator shall calculate allowances equal to—
 
 &emsp;(A) the difference between the lesser of the average annual emissions in calendar years 1988 and 1989 or the projected emissions tonnage for calendar year 1995 of each eligible phase I extension unit, as designated under paragraph (3), and the product of the unit's baseline multiplied by an emission rate of 2.50 lbs/mmBtu, divided by 2,000;
 
@@ -1624,7 +1624,7 @@ S. Oak Creek
 
 &emsp;&emsp;&emsp;&emsp;(I) designates the qualified energy conservation measures implemented and the qualified renewable energy sources used for purposes of avoiding emissions,<sup>9</sup>
 
-&emsp;&emsp;&emsp;&emsp;(II) calculates, in accordance with subparagraphs (F) and (G), the number of tons of emissions avoided by reason ofthe implementation of such measures or the use of such renewable energy sources; and
+&emsp;&emsp;&emsp;&emsp;(II) calculates, in accordance with subparagraphs (F) and (G), the number of tons of emissions avoided by reason of the implementation of such measures or the use of such renewable energy sources; and
 
 &emsp;&emsp;&emsp;&emsp;(III) demonstrates that the requirements of subparagraph (B) have been met.
 
@@ -1684,7 +1684,7 @@ The Administrator shall establish a Conservation and Renewable Energy Reserve un
 
 #### (2) Allowance allocation
 
-&emsp;Whenever a unit referred to in paragraph (1) elects to calculate its baseline as provided inclause (ii) of paragraph (1), the Administrator shall allocate allowances for the unit pursuant to section 7651b(a)(1) of this title, this section, and section 7651d of this title (as basic Phase II allowance allocations) in an amount equal to the baseline selected multiplied by the lower of the average annual emission rate for such unit in 1989, or 1.0 lbs./mmBtu. Such allowance allocation shall be in lieu of any allocation of allowances under this section and section 7651d of this title.
+&emsp;Whenever a unit referred to in paragraph (1) elects to calculate its baseline as provided in clause (ii) of paragraph (1), the Administrator shall allocate allowances for the unit pursuant to section 7651b(a)(1) of this title, this section, and section 7651d of this title (as basic Phase II allowance allocations) in an amount equal to the baseline selected multiplied by the lower of the average annual emission rate for such unit in 1989, or 1.0 lbs./mmBtu. Such allowance allocation shall be in lieu of any allocation of allowances under this section and section 7651d of this title.
 
 (July 14, 1955, ch. 360, title IV, §404, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2592.)
 

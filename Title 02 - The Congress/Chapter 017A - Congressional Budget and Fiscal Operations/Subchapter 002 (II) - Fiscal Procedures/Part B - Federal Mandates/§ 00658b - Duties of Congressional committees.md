@@ -22,7 +22,7 @@ Each report described under subsection (a) shall contain—
 
 If any of the Federal mandates in the bill or joint resolution are Federal intergovernmental mandates, the report required under subsection (a) shall also contain—
 
-&emsp;(1)(A) a statement of the amount, if any, of increase or decrease in authorization of appropriations under existing Federal financial assistance programs, or of authorization of appropriations for new Federal financial assistance, provided by the bill or joint resolution and usable for activities of State, local, or tribal governments subject to the Federal intergovernmental mandates;
+&emsp;(1)(A) a statement of the amount, if any, of increase or decrease in authorization of appropriations under existing Federal financial assistance programs, or of authorization of appropriations for new Federal financial assistance, provided by the bill or joint resolution and usable for activities of State, local, ortribal governments subject to the Federal intergovernmental mandates;
 
 &emsp;(B) a statement of whether the committee intends that the Federal intergovernmental mandates be partly or entirely unfunded, and if so, the reasons for that intention; and
 
@@ -54,5 +54,5 @@ When a committee of authorization of the Senate or the House of Representatives 
 
 #### Effective Date
 
-Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after suchdate, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 

@@ -2,11 +2,11 @@
 
 (a)
 
-Performance Assessments Required.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Director of Procurement and Acquisition Policy, and the Director of the Office of Performance Assessment and Root Cause Analysis, shall issue guidance, with detailed implementation instructions, for the Department of Defense to provide for periodic independent performance assessments of elements of the defense acquisition system for the purpose of—
+Performance Assessments Required.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, the Director of Procurement and Acquisition Policy, and the Director of the Office of Performance Assessment and Root Cause Analysis, shall issue guidance, with detailed implementation instructions, for the Department of Defense to provide for periodic independent performance assessments of elements of the defense acquisition system for the purpose of—
 
 &emsp;(1) determining the extent to which such elements of the defense acquisition system deliver value to the Department of Defense, taking into consideration the performance elements identified in subsection (b);
 
-&emsp;(2) assisting senior officials of the Department of Defense in identifying and developinglessons learned from best practices and shortcomings in the performance of such elements of the defense acquisition system; and
+&emsp;(2) assisting senior officials of the Department of Defense in identifying and developing lessons learned from best practices and shortcomings in the performance of such elements of the defense acquisition system; and
 
 &emsp;(3) assisting senior officials of the Department of Defense in developing acquisition workforce excellence under section 1701a of this title.
 
@@ -24,7 +24,7 @@ Areas Considered in Performance Assessments.—(1) Each performance assessment c
 
 &emsp;&emsp;(i) the extent of competition and the use of exceptions to competition requirements;
 
-&emsp;&emsp;(ii) compliance with Department of Defense policies regarding the participation of small business concerns and various categories of small business concerns, including the use of contract bundling and the availability of non-bundled contract vehicles;
+&emsp;&emsp;(ii) compliance with Department of Defense policies regarding the participation of small business concerns and various categories of small business concerns, includingthe use of contract bundling and the availability of non-bundled contract vehicles;
 
 &emsp;&emsp;(iii) the quality of market research;
 
@@ -72,7 +72,7 @@ Contents of Guidance.—The guidance issued pursuant to subsection (a) shall ens
 
 &emsp;(7) procedures for developing and disseminating lessons learned from performance assessments; and
 
-&emsp;(8) procedures for ensuring that information from performance assessments are retained electronically and are provided in a timely manner to the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Director of the Office of Performance Assessment and Root Cause Analysis as needed to assist them in performing their responsibilities under this section.
+&emsp;(8) procedures for ensuring that information from performance assessments are retained electronically and are provided in a timely manner to the Under Secretary of Defense for Acquisition and Sustainment and the Director of the Office of Performance Assessment and Root Cause Analysis as needed to assist them in performing their responsibilities under this section.
 
 (d)
 
@@ -82,7 +82,7 @@ Performance Goals Under Government Performance and Results Act of 1993.—The an
 
 Reporting Requirement.—The annual report prepared by the Secretary of Defense pursuant to section 1116 of title 31 shall address the Department's success in achieving performance goals established pursuant to such section for elements of the defense acquisition system.
 
-(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4289; amended Pub. L. 112–239, div. A, title X, §1076(d)(5), (f)(30), Jan. 2, 2013, 126 Stat. 1951, 1953; Pub. L. 115–91, div. A, title X, §1081(a)(41), Dec. 12, 2017, 131 Stat. 1596.)
+(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4289; amended Pub. L. 112–239, div. A, title X, §1076(d)(5), (f)(30), Jan. 2, 2013, 126 Stat. 1951, 1953; Pub. L. 115–91, div. A, title X, §1081(a)(41), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, §902(79), Dec. 20, 2019, 133 Stat. 1553.)
 
 #### References in Text
 
@@ -93,6 +93,8 @@ The Government Performance and Results Act of 1993, referred to in subsec. (d), 
 A prior section 2548 was renumbered section 2558 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsecs. (a), (c)(8). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
 <b>2017</b>—Subsec. (e). Pub. L. 115–91 substituted "Requirement" for "Requirements" in heading, struck out introductory provisions "Beginning with fiscal year 2012—", substituted "The annual report prepared by the Secretary" for "(1) the annual report prepared by the Secretary", and struck out par. (2) which read as follows: "the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to section 2438(f) of this title shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments."
 

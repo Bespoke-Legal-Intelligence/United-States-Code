@@ -34,7 +34,7 @@
 
 (3) A notice filed under paragraph (1) may be withdrawn by such entity.
 
-(g)(1) Notice provided to a creditor by the debtor or the court other than in accordance with this section (excluding this subsection) shall not be effective notice until such notice is brought to the attention of such creditor. If such creditor designates a person or an organizational subdivision of such creditor to be responsible for receiving notices under this title and establishes reasonable procedures so that such notices receivable by such creditor are to be delivered to such person or such subdivision, then a notice provided to such creditor other than in accordance with this section (excluding this subsection) shall not be considered to have been brought to the attention of such creditor until such notice is received by such person or such subdivision.
+(g)(1) Notice provided to a creditor by the debtor or the court other than in accordance with this section (excluding this subsection) shall not be effective notice until such notice is brought to the attention of such creditor. Ifsuch creditor designates a person or an organizational subdivision of such creditor to be responsible for receiving notices under this title and establishes reasonable procedures so that such notices receivable by such creditor are to be delivered to such person or such subdivision, then a notice provided to such creditor other than in accordance with this section (excluding this subsection) shall not be considered to have been brought to the attention of such creditor until such notice is received by such person or such subdivision.
 
 (2) A monetary penalty may not be imposed on a creditor for a violation of a stay in effect under section 362(a) (including a monetary penalty imposed under section 362(k)) or for failure to comply with section 542 or 543 unless the conduct that is the basis of such violation or of such failure occurs after such creditor receives notice effective under this section of the order for relief.
 
@@ -62,7 +62,7 @@ Subsections (b) and (c) \[enacted as section 549(c)\] are derived from section 2
 
 Subsec. (c). Pub. L. 109–8, §315(a)(1) designated existing provisions as par. (1), struck out ", but the failure of such notice to contain such information shall not invalidate the legal effect of such notice" after "number of the debtor", and added par. (2).
 
-Pub. L. 109–8, §234(b), inserted "last 4 digits of the" before "taxpayer identification number" and "If thenotice concerns an amendment that adds a creditor to the schedules of assets and liabilities, the debtor shall include the full taxpayer identification number in the notice sent to that creditor, but the debtor shall include only the last 4 digits of the taxpayer identification number in the copy of the notice filed with the court." at end.
+Pub. L. 109–8, §234(b), inserted "last 4 digits of the" before "taxpayer identification number" and "If the notice concerns an amendment that adds a creditor to the schedules of assets and liabilities, the debtor shall include the full taxpayer identification number in the notice sent to that creditor, but the debtor shall include only the last 4 digits of the taxpayer identification number in the copy of the notice filed with the court." at end.
 
 Subsec. (d). Pub. L. 109–8, §102(d), added subsec. (d).
 

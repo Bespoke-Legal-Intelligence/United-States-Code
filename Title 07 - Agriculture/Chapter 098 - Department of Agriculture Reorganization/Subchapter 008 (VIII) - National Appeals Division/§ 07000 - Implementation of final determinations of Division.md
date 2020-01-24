@@ -24,7 +24,7 @@ On the return of a case to an agency pursuant to the final determination of the 
 
 &emsp;Each month, the head of each agency shall publish on the website of the Department any updates to the reports submitted under paragraph (1).
 
-(Pub. L. 103–354, title II, §280, Oct. 13, 1994, 108 Stat. 3233; Pub. L. 110–234, title XIV, §14009, May22, 2008, 122 Stat. 1446; Pub. L. 110–246, §4(a), title XIV, §14009, June 18, 2008, 122 Stat. 1664, 2208.)
+(Pub. L. 103–354, title II, §280, Oct. 13, 1994, 108 Stat. 3233; Pub. L. 110–234, title XIV, §14009, May 22, 2008, 122 Stat. 1446; Pub. L. 110–246, §4(a), title XIV, §14009, June 18, 2008, 122 Stat. 1664, 2208.)
 
 #### References in Text
 

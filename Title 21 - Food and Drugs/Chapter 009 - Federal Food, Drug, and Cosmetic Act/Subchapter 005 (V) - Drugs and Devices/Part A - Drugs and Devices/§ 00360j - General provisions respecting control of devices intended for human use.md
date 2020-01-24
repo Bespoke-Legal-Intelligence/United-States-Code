@@ -46,7 +46,7 @@ Any information reported to or otherwise obtained by the Secretary or his repres
 
 #### (d) Notices and findings
 
-Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, or 360i of this title, or under this section, any other notice which is published in the Federal Register with respect to any other action taken under any such section and which states the reasons forsuch action, and each publication of findings required to be made in connection with rulemaking under any such section shall set forth—
+Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, or 360i of this title, or under this section, any other notice which is published in the Federal Register with respect to any other action taken under any such section and which states the reasons for such action, and each publication of findings required to be made in connection with rulemaking under any such section shall set forth—
 
 &emsp;(1) the manner in which interested persons may examine data and other information on which the notice or findings is based, and
 
@@ -74,7 +74,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(ii) afford opportunity for an oral hearing; and
 
-&emsp;(iii) ensure that such regulation conforms, to the extent practicable, with internationally recognized standards defining quality systems, or parts of the standards, for medical devices.
+&emsp;(iii) ensure that such regulation conforms, to the extent practicable, with internationallyrecognized standards defining quality systems, or parts of the standards, for medical devices.
 
 > The Secretary shall provide the advisory committee a reasonable time to make its recommendation with respect to proposed regulations under subparagraph (A).
 
@@ -144,7 +144,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(B) promptly notify the Secretary (under such circumstances and in such manner as the Secretary prescribes) of approval by an institutional review committee of any clinical testing plan submitted to it in accordance with subparagraph (A);
 
-&emsp;(C) in the case of a device to be distributed to investigators for testing, obtain signed agreements from each of such investigatorsthat any testing of the device involving human subjects will be under such investigator's supervision and in accordance with subparagraph (D) and submit such agreements to the Secretary; and
+&emsp;(C) in the case of a device to be distributed to investigators for testing, obtain signed agreements from each of such investigators that any testing of the device involving human subjects will be under such investigator's supervision and in accordance with subparagraph (D) and submit such agreements to the Secretary; and
 
 &emsp;(D) assure that informed consent will be obtained from each human subject (or his representative) of proposed clinical testing involving such device, except where, subject to such conditions as the Secretary may prescribe—
 
@@ -166,7 +166,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(iii) an additional or different investigation may be necessary to support clearance or approval of the device.
 
-(5) The Secretary may by order withdraw an exemption granted under this subsection for a device if the Secretary determines that the conditions applicable to the device under this subsection for such exemption are not met. Such an order may be issued only after opportunity for an informal hearing, except that such an order may be issued before the provision of an opportunity for an informal hearing if the Secretary determines that the continuation of testing under the exemption with respect to which the order is to be issued will result in an unreasonable risk to the public health.
+(5) The Secretary may by order withdraw an exemption granted under this subsection for adevice if the Secretary determines that the conditions applicable to the device under this subsection for such exemption are not met. Such an order may be issued only after opportunity for an informal hearing, except that such an order may be issued before the provision of an opportunity for an informal hearing if the Secretary determines that the continuation of testing under the exemption with respect to which the order is to be issued will result in an unreasonable risk to the public health.
 
 (6)(A) Not later than 1 year after November 21, 1997, the Secretary shall by regulation establish, with respect to a device for which an exemption under this subsection is in effect, procedures and conditions that, without requiring an additional approval of an application for an exemption or the approval of a supplement to such an application, permit—
 
@@ -232,7 +232,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(iv) classifying or reclassifying another device under section 360c of this title and subsection (l)(2).
 
-(B) The publicly available detailed summaries of information respecting the safety and effectiveness of devices required by paragraph (1)(A) shall be available for use by the Secretary as theevidentiary basis for the agency actions described in subparagraph (A).
+(B) The publicly available detailed summaries of information respecting the safety and effectiveness of devices required by paragraph (1)(A) shall be available for use by the Secretary as the evidentiary basis for the agency actions described in subparagraph (A).
 
 (C) No information contained in an application for premarket approval filed with the Secretary pursuant to section 360e(c) of this title may be used to approve or clear any application submitted under section 360e or 360(k) of this title or to classify a product under section 360c(f)(2) of this title for a combination product containing as a constituent part an approved drug (as defined in section 353(g)(5)(B) of this title) unless—
 
@@ -304,7 +304,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 (4) Repealed. Pub. L. 105–115, title I, §125(b)(2)(E), Nov. 21, 1997, 111 Stat. 2325.
 
-(5)(A) Before December 1, 1991, the Secretary shall by order require manufacturers of devices described in paragraph (1), which are subject to revision of classification under subparagraph (B), to submit to the Secretary a summary of and citation to any information known or otherwise available to the manufacturers respecting the devices, including adverse safety or effectiveness information which has not been submitted under section 360i of this title. The Secretary may require a manufacturer to submit the adverse safety or effectiveness data for which a summary and citation were submitted, if such data are available to the manufacturer.
+(5)(A) Before December 1, 1991, the Secretary shall by order require manufacturers of devices described in paragraph (1), which are subject to revision of classification under subparagraph\(B), to submit to the Secretary a summary of and citation to any information known or otherwise available to the manufacturers respecting the devices, including adverse safety or effectiveness information which has not been submitted under section 360i of this title. The Secretary may require a manufacturer to submit the adverse safety or effectiveness data for which a summary and citation were submitted, if such data are available to the manufacturer.
 
 (B) Except as provided in subparagraph (C), after the issuance of an order under subparagraph (A) but before December 1, 1992, the Secretary shall publish a regulation in the Federal Register for each device which is classified in class III under paragraph (1) revising the classification of the device so that the device is classified into class I or class II, unless the regulation requires the device to remain in class III. In determining whether to revise the classification of a device or to require a device to remain in class III, the Secretary shall apply the criteria set forth in section 360c(a) of this title. Before the publication of a regulation requiring a device to remain in class III or revising its classification, the Secretary shall publish a proposed regulation respecting the classification of a device under this subparagraph and provide an opportunity for the submission of comments on any such regulation. No regulation under this subparagraph requiring a device to remain in class III or revising its classification may take effect before the expiration of 90 days from the date of the publication in the Federal Register of the proposed regulation.
 
@@ -340,7 +340,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 &emsp;(i) The device with respect to which the exemption is granted—
 
-&emsp;&emsp;(I) is intended for the treatment or diagnosis of a disease or condition that occurs in pediatric patients or in a pediatric subpopulation, and such device is labeled for use in pediatric patients or in a pediatric subpopulation in which the disease or condition occurs; or
+&emsp;&emsp;(I) is intended for the treatment or diagnosis of a disease or condition that occurs in pediatric patients or in a pediatric subpopulation, and such device is labeled for use inpediatric patients or in a pediatric subpopulation in which the disease or condition occurs; or
 
 &emsp;&emsp;(II) is intended for the treatment or diagnosis of a disease or condition that does not occur in pediatric patients or that occurs in pediatric patients in such numbers that the development of the device for such patients is impossible, highly impracticable, or unsafe.
 
@@ -368,7 +368,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 &emsp;(IV) Adolescents.
 
-(7) The Secretary shall refer any report of an adverse event regarding a device described in paragraph (6)(A)(i)(I) for which the prohibition under paragraph (3) does not apply pursuant to paragraph (6)(A) that the Secretary receives to the Office of Pediatric Therapeutics, established under section 393a of this title. In considering the report, the Director of the Office of Pediatric Therapeutics, in consultation with expertsin the Center for Devices and Radiological Health, shall provide for periodic review of the report by the Pediatric Advisory Committee, including obtaining any recommendations of such committee regarding whether the Secretary should take action under this chapter in response to the report.
+(7) The Secretary shall refer any report of an adverse event regarding a device described in paragraph (6)(A)(i)(I) for which the prohibition under paragraph (3) does not apply pursuant to paragraph (6)(A) that the Secretary receives to the Office of Pediatric Therapeutics, established under section 393a of this title. In considering the report, the Director of the Office of Pediatric Therapeutics, in consultation with experts in the Center for Devices and Radiological Health, shall provide for periodic review of the report by the Pediatric Advisory Committee, including obtaining any recommendations of such committee regarding whether the Secretary should take action under this chapter in response to the report.
 
 (8) The Secretary, acting through the Office of Pediatric Therapeutics and the Center for Devices and Radiological Health, shall provide for an annual review by the Pediatric Advisory Committee of all devices described in paragraph (6)(A)(i)(I) to ensure that the exemption under paragraph (2) remains appropriate for the pediatric populations for which it is granted.
 
@@ -394,7 +394,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 &emsp;&emsp;(iii) such function is not intended to interpret or analyze patient records, including medical image data, for the purpose of the diagnosis, cure, mitigation, prevention, or treatment of a disease or condition;
 
-&emsp;(D) for transferring, storing, converting formats, or displaying clinical laboratory test or other device data and results, findings by a health care professional with respect to such data and results, general information about such findings, and general background information about such laboratory test or other device, unless such function is intended to interpret or analyze clinical laboratory test or other device data, results, and findings; or
+&emsp;(D) for transferring, storing, converting formats, or displaying clinical laboratory test or other device data and results, findings by a health care professional with respect to such data and results, general information aboutsuch findings, and general background information about such laboratory test or other device, unless such function is intended to interpret or analyze clinical laboratory test or other device data, results, and findings; or
 
 &emsp;(E) unless the function is intended to acquire, process, or analyze a medical image or a signal from an in vitro diagnostic device or a pattern or signal from a signal acquisition system, for the purpose of—
 
@@ -478,7 +478,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 &emsp;&emsp;(B) the term "contrast agent" means a drug that is approved under section 355 of this title or licensed under section 262 of title 42, is intended for use in conjunction with an applicable medical imaging device, and—
 
-&emsp;&emsp;&emsp;(i) is a diagnostic radiopharmaceutical, as defined in section <sup>2</sup> 315.2 and 601.31 oftitle 21, Code of Federal Regulations (or any successor regulations); or
+&emsp;&emsp;&emsp;(i) is a diagnostic radiopharmaceutical, as defined in section <sup>2</sup> 315.2 and 601.31 of title 21, Code of Federal Regulations (or any successor regulations); or
 
 &emsp;&emsp;&emsp;(ii) is a diagnostic agent that improves the visualization of structure or function within the body by increasing the relative difference in signal intensity within the target tissue, structure, or fluid.
 
@@ -512,7 +512,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 &emsp;An over-the-counter hearing aid shall be subject to the regulations promulgated in accordance with section 709(b) of the FDA Reauthorization Act of 2017 and shall be exempt from sections 801.420 and 801.421 of title 21, Code of Federal Regulations (or any successor regulations).
 
-(June 25, 1938, ch. 675, §520, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 565; amended Pub. L. 101–629, §§3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, 104 Stat. 4514, 4516, 4518, 4519, 4522, 4524, 4529; Pub. L. 102–571, title I, §107(10), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 105–115, title I, §125(b)(2)(E), title II, §§201(a), 203, 216(a)(1), title IV, §410(a), Nov. 21, 1997, 111 Stat. 2325, 2332, 2334, 2349, 2372; Pub. L. 109–96, §1, Nov. 9, 2005, 119 Stat. 2119; Pub. L. 110–85, title III, §303(a), title VIII, §801(b)(3)(E), Sept. 27, 2007, 121 Stat. 860, 921; Pub. L. 112–144, title V, §507(c), title VI, §§601, 606, 613(a), 617, July 9, 2012, 126 Stat. 1045, 1051, 1054, 1060, 1062; Pub. L. 114–255, div. A, title III, §§3024(a), 3038(b), 3052(a), 3056, 3060(a), Dec. 13, 2016, 130 Stat. 1099, 1110, 1124, 1128, 1130; Pub. L. 115–52, title V, §502(b), title VII, §§706(a), 709(a), Aug. 18, 2017, 131 Stat. 1037, 1058, 1065.)
+(June 25, 1938, ch. 675, §520, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 565; amended Pub. L. 101–629, §§3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, 104 Stat. 4514, 4516, 4518, 4519, 4522, 4524, 4529; Pub. L. 102–571, title I, §107(10), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 105–115, title I, §125(b)(2)(E), title II, §§201(a), 203, 216(a)(1), title IV, §410(a), Nov. 21, 1997, 111 Stat. 2325, 2332, 2334, 2349, 2372; Pub. L. 109–96, §1, Nov. 9, 2005, 119 Stat. 2119; Pub. L. 110–85, title III, §303(a), title VIII, §801(b)(3)(E), Sept. 27, 2007, 121 Stat. 860, 921; Pub. L. 112–144, title V, §507(c), title VI, §§601, 606, 613(a), 617, July 9, 2012, 126 Stat. 1045, 1051, 1054, 1060, 1062; Pub. L. 114–255, div. A, title III, §§3024(a), 3038(b), 3052(a), 3056, 3060(a), Dec. 13, 2016, 130 Stat. 1099, 1110, 1124, 1128, 1130; Pub. L. 115–52, title V, §502(b), titleVII, §§706(a), 709(a), Aug. 18, 2017, 131 Stat. 1037, 1058, 1065.)
 
 #### References in Text
 
@@ -594,7 +594,7 @@ Subsec. (m)(3). Pub. L. 110–85, §303(a)(1), substituted "Except as provided i
 
 Subsec. (m)(5). Pub. L. 110–85, §303(a)(2), inserted ", if the Secretary has reason to believe that the requirements of paragraph (6) are no longer met," after "public health" and inserted at end "If the person granted an exemption under paragraph (2) fails to demonstrate continued compliance with the requirements of this subsection, the Secretary may suspend or withdraw the exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing."
 
-Subsec. (m)(6) to (8). Pub. L. 110–85, §303(a)(3), added pars. (6) to (8) and struck out former par. (6) which read as follows: "The Secretary may suspend or withdraw an exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing."
+Subsec. (m)(6) to (8). Pub. L. 110–85, §303(a)(3), added pars. (6) to (8) and struck out former par. (6) which read as follows: "The Secretary may suspend or withdraw anexemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing."
 
 <b>2005</b>—Subsec. (n). Pub. L. 109–96 added subsec. (n).
 
@@ -628,7 +628,7 @@ Subsec. (m)(6). Pub. L. 105–115, §203(4), amended par. (6) generally. Prior t
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–629, §11(1), substituted "from class III to class II or class I" for "under section 360c of this title from class III to class II" and inserted "(1) in accordance with subsection (h), and (2)" after "except".
 
-Subsec. (f)(1)(A). Pub. L. 101–629, §18(e), inserted "pre-production design validation (including a process to assess the performance of a device but not including anevaluation of the safety or effectiveness of a device)," after "manufacture,".
+Subsec. (f)(1)(A). Pub. L. 101–629, §18(e), inserted "pre-production design validation (including a process to assess the performance of a device but not including an evaluation of the safety or effectiveness of a device)," after "manufacture,".
 
 Subsec. (h)(3). Pub. L. 101–629, §11(2)(A), substituted "Except as provided in paragraph (4), any" for "Any".
 
@@ -680,7 +680,7 @@ Requirements.—In promulgating the regulations under paragraph (1), the Secreta
 
 &emsp;"(3)
 
-Premarket notification.—The Secretary shall make findings under section 510(m) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360(m)) to determine whether over-the-counter hearing aids (as defined in section 520(q) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j\[(q)\]), as amended by subsection (a)) require a report under section 510(k) \[21 U.S.C. 360(k)\] to provide reasonable assurance of safety and effectiveness.
+Premarket notification.—The Secretary shall make findings under section 510(m) of the FederalFood, Drug, and Cosmetic Act (21 U.S.C. 360(m)) to determine whether over-the-counter hearing aids (as defined in section 520(q) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j\[(q)\]), as amended by subsection (a)) require a report under section 510(k) \[21 U.S.C. 360(k)\] to provide reasonable assurance of safety and effectiveness.
 
 &emsp;"(4)
 
@@ -706,7 +706,7 @@ Pub. L. 114–255, div. A, title III, §3060(b), Dec. 13, 2016, 130 Stat. 1132, 
 
 &emsp;"(2) examines information available to the Secretary on any risks and benefits to health associated with software functions described in section 520(o)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j\[(o)(1)\]) (as amended by subsection (a)); and
 
-&emsp;"(3) summarizes findings regarding the impact of such software functions on patient safety, includingbest practices to promote safety, education, and competency related to such functions."
+&emsp;"(3) summarizes findings regarding the impact of such software functions on patient safety, including best practices to promote safety, education, and competency related to such functions."
 
 #### Applicability to Existing Devices
 

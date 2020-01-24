@@ -40,7 +40,7 @@ Application to part 121 aircraft work.—Not later than 1 year after the date of
 
 (e)
 
-Annual Inspections.—The Administrator shall ensure that part 145 repair stations located outside the United States are inspected annually by Federal Aviation Administration safety inspectors, without regard to where the station is located, in a manner consistent with UnitedStates obligations under international agreements. The Administrator may carry out inspections in addition to the annual inspection required under this subsection based on identified risks.
+Annual Inspections.—The Administrator shall ensure that part 145 repair stations locatedoutside the United States are inspected annually by Federal Aviation Administration safety inspectors, without regard to where the station is located, in a manner consistent with United States obligations under international agreements. The Administrator may carry out inspections in addition to the annual inspection required under this subsection based on identified risks.
 
 (f)
 

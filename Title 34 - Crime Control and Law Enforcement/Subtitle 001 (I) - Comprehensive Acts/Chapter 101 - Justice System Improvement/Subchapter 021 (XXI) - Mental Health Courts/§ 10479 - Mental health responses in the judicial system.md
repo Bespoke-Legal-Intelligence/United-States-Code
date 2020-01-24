@@ -44,7 +44,7 @@
 
 #### (c) Use of grant funds
 
-A State, unit of local government, territory, Indian Tribe, or nonprofit agency that receives a grant under this section shall, in accordance with subsection (b)(2), use grant funds for the expenses of a treatment program, including—
+A State, unit of local government, territory, Indian Tribe, or nonprofit agency that receivesa grant under this section shall, in accordance with subsection (b)(2), use grant funds for the expenses of a treatment program, including—
 
 &emsp;(1) salaries, personnel costs, equipment costs, and other costs directly related to the operation of the program, including costs relating to enforcement;
 

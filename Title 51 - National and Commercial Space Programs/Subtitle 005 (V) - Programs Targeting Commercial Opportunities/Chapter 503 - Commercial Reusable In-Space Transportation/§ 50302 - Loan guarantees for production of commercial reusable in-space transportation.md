@@ -52,7 +52,7 @@ Treatment of guarantee.—The guarantee of a loan under this section shall be co
 
 &emsp;(4)
 
-Other terms and conditions.—The Secretary may establish any other terms and conditions for a guarantee of a loan under this section as the Secretary considers appropriate to protect the financial interests of the United States.
+Other terms and conditions.—The Secretary may establish any other terms and conditions for a guarantee of a loan under thissection as the Secretary considers appropriate to protect the financial interests of the United States.
 
 (f)
 

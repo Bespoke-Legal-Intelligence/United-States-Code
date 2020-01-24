@@ -186,7 +186,7 @@
 
 #### (A) Limited exercise of authority
 
-&emsp;&emsp;Only the minimum number of such plans may be approved in order to meet the accessrequirements under section 1395w–103(a) of this title.
+&emsp;&emsp;Only the minimum number of such plans may be approved in order to meet the access requirements under section 1395w–103(a) of this title.
 
 #### (B) Maximizing assumption of risk
 

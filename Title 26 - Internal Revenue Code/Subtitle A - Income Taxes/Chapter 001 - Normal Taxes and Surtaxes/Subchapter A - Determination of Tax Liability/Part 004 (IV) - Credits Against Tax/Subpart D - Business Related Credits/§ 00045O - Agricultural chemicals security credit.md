@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of section 38, in the case of an eligible agricultural business, the agricultural chemicals security credit determined under this section for the taxable year is 30 percent of thequalified security expenditures for the taxable year.
+For purposes of section 38, in the case of an eligible agricultural business, the agricultural chemicals security credit determined under this section for the taxable year is 30 percent of the qualified security expenditures for the taxable year.
 
 #### (b) Facility limitation
 
@@ -92,7 +92,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
 Section applicable to amounts paid or incurred after June 18, 2008, see section 15343(e) of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under section 38 of this title.
 

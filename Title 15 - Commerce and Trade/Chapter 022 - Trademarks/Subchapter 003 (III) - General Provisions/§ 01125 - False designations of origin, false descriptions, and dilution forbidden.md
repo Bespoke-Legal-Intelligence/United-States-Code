@@ -108,7 +108,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;(ii) registers, traffics in, or uses a domain name that—
 
-&emsp;&emsp;(I) in the case of a mark that is distinctive at the time of registration of the domain name, is identical or confusingly similar to that mark;
+&emsp;&emsp;(I) in the case of a mark that is distinctive at the time of registration of the domainname, is identical or confusingly similar to that mark;
 
 &emsp;&emsp;(II) in the case of a famous mark that is famous at the time of registration of the domain name, is identical or confusingly similar to or dilutive of that mark; or
 
@@ -136,7 +136,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 (ii) Bad faith intent described under subparagraph (A) shall not be found in any case in which the court determines that the person believed and had reasonable grounds to believe that the use of the domain name was a fair use or otherwise lawful.
 
-(C) In any civil action involving the registration, trafficking, or use of a domain name underthis paragraph, a court may order the forfeiture or cancellation of the domain name or the transfer of the domain name to the owner of the mark.
+(C) In any civil action involving the registration, trafficking, or use of a domain name under this paragraph, a court may order the forfeiture or cancellation of the domain name or the transfer of the domain name to the owner of the mark.
 
 (D) A person shall be liable for using a domain name under subparagraph (A) only if that person is the domain name registrant or that registrant's authorized licensee.
 
@@ -210,7 +210,7 @@ Subsec. (d). Pub. L. 106–113 added subsec. (d).
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–542 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–667 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Any person who shall affix, apply, or annex, or use in connection with any goods or services, or any container or containers for goods, a false designation of origin, or any false description or representation, including words or other symbols tending falsely to describe or represent the same, and shall cause such goods or services to enter into commerce, and any person who shall with knowledge of the falsity of such designation of origin or description or representationcause or procure the same to be transported or used in commerce or deliver the same to any carrier to be transported or used, shall be liable to a civil action by any person doing business in the locality falsely indicated as that of origin or in the region in which said locality is situated, or by any person who believes that he is or is likely to be damaged by the use of any such false description or representation."
+<b>1988</b>—Subsec. (a). Pub. L. 100–667 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Any person who shall affix, apply, or annex, or use in connection with any goods or services, or any container or containers for goods, a false designation of origin, or any false description or representation, including words or other symbols tending falsely to describe or represent the same, and shall cause such goods or services to enter into commerce, and any person who shall with knowledge of the falsity of such designation of origin or description or representation cause or procure the same to be transported or used in commerce or deliver the same to any carrier to be transported or used, shall be liable to a civil action by any person doing business in the locality falsely indicated as that of origin or in the region in which said locality is situated, or by any person who believes that he is or is likely to be damaged by the use of any such false description or representation."
 
 #### Effective Date of 2012 Amendment
 
@@ -248,7 +248,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;"(2) protecting individuals from bad faith uses of their personal names as second level domain names by others with malicious intent to harm the reputation of the individual or the goodwill associated with that individual's name;
 
-&emsp;"(3) protecting consumers from the registration and use of domain names that include personal names in the second level domain in manners which are intended or are likely to confuse or deceive the public as to the affiliation, connection, or association of the domain name registrant, or a site accessible under the domain name, with such other person, or as to the origin, sponsorship, or approval of the goods, services, or commercial activities of the domain name registrant;
+&emsp;"(3) protecting consumers from the registration and use of domain names that include personal names in the second level domain in manners which are intended or are likely to confuse or deceive the public as to the affiliation, connection, or association of the domain name registrant, or a site accessible underthe domain name, with such other person, or as to the origin, sponsorship, or approval of the goods, services, or commercial activities of the domain name registrant;
 
 &emsp;"(4) protecting the public from registration of domain names that include the personal names of government officials, official candidates, and potential official candidates for Federal, State, or local political office in the United States, and the use of such domain names in a manner that disrupts the electoral process or the public's ability to access accurate and reliable information regarding such individuals;
 

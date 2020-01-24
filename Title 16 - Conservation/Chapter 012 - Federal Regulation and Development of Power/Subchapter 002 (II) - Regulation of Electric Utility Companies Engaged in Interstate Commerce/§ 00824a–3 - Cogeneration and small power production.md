@@ -76,7 +76,7 @@ No contract between a Federal agency and any electric utility for the sale of el
 
 #### (j) New dams and diversions
 
-Except for a hydroelectric project located at a Government dam (as defined in section 3(10) of the Federal Power Act \[16 U.S.C. 796(10)\]) at which non-Federal hydroelectric development is permissible, this section shall not apply to any hydroelectric project which impounds or diverts the water of a natural watercourse by means ofa new dam or diversion unless the project meets each of the following requirements:
+Except for a hydroelectric project located at a Government dam (as defined in section 3(10) of the Federal Power Act \[16 U.S.C. 796(10)\]) at which non-Federal hydroelectric development is permissible, this section shall not apply to any hydroelectric project which impounds or diverts the water of a natural watercourse by means of a new dam or diversion unless the project meets each of the following requirements:
 
 #### (1) No substantial adverse effects
 
@@ -228,7 +228,7 @@ Pub. L. 102–486, title XIII, §1335, Oct. 24, 1992, 106 Stat. 2984, provided t
 
 Pub. L. 100–202, §101(d) \[title III, §310\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–126, provided that:
 
-"(a) The amendments made by section 643(b) of the Energy Security Act (Public Law 96–294) \[amending this section\] and any regulations issued to implement such amendment shall apply to qualifying small power production facilities (as such term is defined in the Federal Power Act \[16 U.S.C. 791a et seq.\]) using solar energy as the primary energy source to the same extent such amendments and regulations apply to qualifying small power production facilities using geothermal energy as the primary energy source, except that nothing in this Act \[see Tables for classification\]shall preclude the Federal Energy Regulatory Commission from revising its regulations to limit the availability of exemptions authorized under this Act as it determines to be required in the public interest and consistent with its obligations and duties under section 210 of the Public Utility Regulatory Policies Act of 1978 \[this section\].
+"(a) The amendments made by section 643(b) of the Energy Security Act (Public Law 96–294) \[amending this section\] and any regulations issued to implement such amendment shall apply to qualifying small power production facilities (as such term is defined in the Federal Power Act \[16 U.S.C. 791a et seq.\]) using solar energy as the primary energy source to the same extent such amendments and regulations apply to qualifying small power production facilities using geothermal energy as the primary energy source, except that nothing in this Act \[see Tables for classification\] shall preclude the Federal Energy Regulatory Commission from revising its regulations to limit the availability of exemptions authorized under this Act as it determines to be required in the public interest and consistent with its obligations and duties under section 210 of the Public Utility Regulatory Policies Act of 1978 \[this section\].
 
 "(b) The provisions of subsection (a) shall apply to a facility using solar energy as the primary energy source only if either of the following is submitted to the Federal Energy Regulatory Commission during the two-year period beginning on the date of enactment of this Act \[Dec. 22, 1987\]:
 

@@ -78,7 +78,7 @@ Status of Persons Providing Services.—(1) Subject to paragraph (3), while prov
 
 &emsp;(B) Section 2733 of this title and chapter 171 of title 28 (relating to claims for damages or loss).
 
-(3) A person providing voluntary services accepted under subsection (a) shall be considered to be an employee of the Federal Government under paragraph (1) or (2) only with respect to services that are within the scope of the services so accepted.
+(3) A person providing voluntary services accepted under subsection (a) shall be considered to be an employee of the Federal Governmentunder paragraph (1) or (2) only with respect to services that are within the scope of the services so accepted.
 
 (4) For purposes of determining the compensation for work-related injuries payable under chapter 81 of title 5 (pursuant to this subsection) to a person providing voluntary services accepted under subsection (a), the monthly pay of the person for such services shall be deemed to be the amount determined by multiplying—
 
@@ -162,11 +162,5 @@ Pub. L. 106–65, div. A, title III, §371(b), Oct. 5, 1999, 113 Stat. 579, prov
 
 #### Acceptance of Voluntary Services Pilot Program
 
-Pub. L. 103–337, div. A, title X, §1061(b), Oct. 5, 1994, 108 Stat. 2847, provided that:
-
-"(1) The Secretary of Defense shall conduct a pilot program, for not less than six months, to accept voluntary services under the authority provided in section 1588 of title 10, United States Code, as amended by subsection (a). The purpose of the pilot program shall be to evaluate the policies and procedures of the Department of Defense for the acceptance of voluntary services under such section. The pilot program shall involve a variety of services, programs, and locations.
-
-"(2) The Secretary may not accept voluntary services under section 1588 of title 10, United States Code (other than services that may have been accepted under such section before the date of the enactment of this Act \[Oct. 5, 1994\]), and may not issue regulations to implement the amendment to such section made by subsection (a), until after the termination of the pilot program.
-
-"(3) Not later than 60 days after the termination of the pilot program, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the results of the pilot program."
+Pub. L. 103–337, div. A, title X, §1061(b), Oct. 5, 1994, 108 Stat. 2847, required the Secretary of Defense to conduct a pilot program, for not less than six months, to evaluate the policies and procedures of the Department of Defense for the acceptance of voluntary services under this section, with a final report due to Congress no later than 60 days after the termination of the program.
 

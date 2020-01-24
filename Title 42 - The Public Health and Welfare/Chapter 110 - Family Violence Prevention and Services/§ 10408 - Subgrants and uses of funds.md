@@ -46,7 +46,7 @@ A State that receives a grant under section 10406(a) of this title shall use gra
 
 To be eligible to receive a subgrant from a State under this section, an entity shall be—
 
-&emsp;(1) a local public agency, or a nonprofit private organization (including faith-based andcharitable organizations, community-based organizations, tribal organizations, and voluntary associations), that assists victims of family violence, domestic violence, or dating violence, and their dependents, and has a documented history of effective work concerning family violence, domestic violence, or dating violence; or
+&emsp;(1) a local public agency, or a nonprofit private organization (including faith-based and charitable organizations, community-based organizations, tribal organizations, and voluntary associations), that assists victims of family violence, domestic violence, or dating violence, and their dependents, and has a documented history of effective work concerning family violence, domestic violence, or dating violence; or
 
 &emsp;(2) a partnership of 2 or more agencies or organizations that includes—
 

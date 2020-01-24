@@ -16,7 +16,7 @@ School buses.—
 
 In general.—Notwithstanding paragraph (1), the maximum amount of a civil penalty under this paragraph shall be $10,000 in the case of—
 
-&emsp;&emsp;&emsp;(i) the manufacture, sale, offer for sale, introduction or delivery for introduction into interstate commerce, or importation of a school bus or school bus equipment (as those terms are defined in section 30125(a) of this title) in violation of section 30112(a)(1) of this title; or
+&emsp;&emsp;&emsp;(i) the manufacture, sale, offer for sale, introduction or delivery for introductioninto interstate commerce, or importation of a school bus or school bus equipment (as those terms are defined in section 30125(a) of this title) in violation of section 30112(a)(1) of this title; or
 
 &emsp;&emsp;&emsp;(ii) a violation of section 30112(a)(2) of this title.
 

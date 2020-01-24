@@ -68,7 +68,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions ofsections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
 #### Limitation on Consulting Services
 
@@ -144,7 +144,7 @@ Sec. 2. <i>Duties of Agency Heads</i>. (a) Heads of agencies shall implement wit
 
 Sec. 3. <i>Definitions</i>. For purposes of this order:
 
-(a) The term "agency" means an executive agency as defined in section 105 of title 5, United States Code, andthe United States Postal Service and the Postal Regulatory Commission, but shall exclude the Government Accountability Office and elements of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 as amended (50 U.S.C. 401a(4)) \[now 50 U.S.C. 3003(4)\]\[)\].
+(a) The term "agency" means an executive agency as defined in section 105 of title 5, United States Code, and the United States Postal Service and the Postal Regulatory Commission, but shall exclude the Government Accountability Office and elements of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 as amended (50 U.S.C. 401a(4)) \[now 50 U.S.C. 3003(4)\]\[)\].
 
 (b) The term "contingency fee agreement" means a contract or other agreement to provide services under which the amount or the payment of the fee for the services is contingent in whole or in part on the outcome of the matter for which the services were obtained. The term does not include:
 

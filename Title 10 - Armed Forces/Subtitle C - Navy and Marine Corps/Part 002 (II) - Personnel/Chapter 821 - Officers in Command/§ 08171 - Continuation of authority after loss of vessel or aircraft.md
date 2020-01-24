@@ -1,6 +1,6 @@
 ### §8171. Continuation of authority after loss of vessel or aircraft
 
-If the crew of any naval vessel or naval aircraft are separated from their vessel or aircraft because of its wreck, loss, or destruction, all the command and authority given to the officers of the vessel or aircraft remain in full force until the crew are discharged or reassigned.
+If the crew of any naval vessel or naval aircraft are separated from their vessel or aircraftbecause of its wreck, loss, or destruction, all the command and authority given to the officers of the vessel or aircraft remain in full force until the crew are discharged or reassigned.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 372, §5951; renumbered §8171, Pub. L. 115–232, div. A, title VIII, §807(b)(5), Aug. 13, 2018, 132 Stat. 1834.)
 

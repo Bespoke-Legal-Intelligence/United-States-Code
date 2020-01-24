@@ -100,7 +100,7 @@ Reports by Independent Counsel.—
 
 Required reports.—An independent counsel shall—
 
-&emsp;&emsp;(A) file with the division of the court, with respect to the 6-month period beginning onthe date of his or her appointment, and with respect to each 6-month period thereafter until the office of that independent counsel terminates, a report which identifies and explains major expenses, and summarizes all other expenses, incurred by that office during the 6-month period with respect to which the report is filed, and estimates future expenses of that office; and
+&emsp;&emsp;(A) file with the division of the court, with respect to the 6-month period beginning on the date of his or her appointment, and with respect to each 6-month period thereafter until the office of that independent counsel terminates, a report which identifies and explains major expenses, and summarizes all other expenses, incurred by that office during the 6-month period with respect to which the report is filed, and estimates future expenses of that office; and
 
 &emsp;&emsp;(B) before the termination of the independent counsel's office under section 596(b), file a final report with the division of the court, setting forth fully and completely a description of the work of the independent counsel, including the disposition of all cases brought.
 
@@ -118,7 +118,7 @@ Independence From Department of Justice.—Each independent counsel appointed un
 
 (j)
 
-Standards of Conduct Applicable to Independent Counsel, Persons Serving in the Office of an Independent Counsel, and Their Law Firms.—
+Standards of Conduct Applicable to Independent Counsel, Persons Serving in theOffice of an Independent Counsel, and Their Law Firms.—
 
 &emsp;(1)
 
@@ -280,7 +280,7 @@ Subsec. (g). Pub. L. 97–409, §6(c), added subsec. (g).
 
 #### Effective Date of 1994 Amendment; Transition Provisions
 
-Amendment by Pub. L. 103–270 applicable with respect to independent counsels appointed before, on, or after June 30, 1994, with transition provisions relating to assignment of employee to certify expenditures and relating to office space, travel and subsistence expenses, rates of compensation, and reporting requirements established or modified by Pub. L. 103–270, see section 7(a)–(e), (g) of Pub. L. 103–270, set out as a note under section 591 of this title.
+Amendment by Pub. L. 103–270 applicable with respect to independent counsels appointed before, on, orafter June 30, 1994, with transition provisions relating to assignment of employee to certify expenditures and relating to office space, travel and subsistence expenses, rates of compensation, and reporting requirements established or modified by Pub. L. 103–270, see section 7(a)–(e), (g) of Pub. L. 103–270, set out as a note under section 591 of this title.
 
 #### Effective Date of 1987 Amendment
 

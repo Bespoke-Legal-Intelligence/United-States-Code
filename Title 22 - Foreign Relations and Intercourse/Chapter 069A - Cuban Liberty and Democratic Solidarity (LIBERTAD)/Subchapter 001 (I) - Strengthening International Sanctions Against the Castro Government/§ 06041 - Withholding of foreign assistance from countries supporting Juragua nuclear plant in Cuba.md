@@ -42,7 +42,7 @@ The Congress makes the following findings:
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, the President shall withhold from assistance allocated, on or after March 12, 1996, for anycountry an amount equal to the sum of assistance and credits, if any, provided on or after March 12, 1996, by that country or any entity in that country in support of the completion of the Cuban nuclear facility at Juragua, near Cienfuegos, Cuba.
+&emsp;Notwithstanding any other provision of law, the President shall withhold from assistance allocated, on or after March 12, 1996, for any country an amount equal to the sum of assistance and credits, if any, provided on or after March 12, 1996, by that country or any entity in that country in support of the completion of the Cuban nuclear facility at Juragua, near Cienfuegos, Cuba.
 
 #### (2) Exceptions
 

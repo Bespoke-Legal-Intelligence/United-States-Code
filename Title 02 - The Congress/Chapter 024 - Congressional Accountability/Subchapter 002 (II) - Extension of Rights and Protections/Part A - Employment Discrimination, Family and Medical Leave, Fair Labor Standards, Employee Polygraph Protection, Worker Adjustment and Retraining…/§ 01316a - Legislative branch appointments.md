@@ -12,7 +12,7 @@ The rights and protections established under section 2108, sections 3309 through
 
 #### (A) In general
 
-&emsp;The remedy for a violation of paragraph (2) shall be such remedy as would be appropriate if awarded under applicable provisions of title 5 in the case of a violation of the relevant corresponding provision (referred to in paragraph (2)) of such title.
+&emsp;The remedy for a violation of paragraph (2) shall be such remedy as would be appropriateif awarded under applicable provisions of title 5 in the case of a violation of the relevant corresponding provision (referred to in paragraph (2)) of such title.
 
 #### (B) Procedure
 

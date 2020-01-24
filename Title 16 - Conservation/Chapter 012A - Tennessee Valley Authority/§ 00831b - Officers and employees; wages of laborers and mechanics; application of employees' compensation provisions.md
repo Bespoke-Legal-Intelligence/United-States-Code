@@ -12,7 +12,7 @@ In the event any dispute arises as to what are the prevailing rates of wages, th
 
 Where such work as is described in the two preceding paragraphs is done directly by the Corporation the prevailing rate of wages shall be paid in the same manner as though such work had been let by contract.
 
-Insofar as applicable, the benefits of subchapter I of chapter 81 of title 5 shall extend topersons given employment under the provisions of this chapter.
+Insofar as applicable, the benefits of subchapter I of chapter 81 of title 5 shall extend to persons given employment under the provisions of this chapter.
 
 (May 18, 1933, ch. 32, §3, 48 Stat. 59; Pub. L. 92–310, title II, §225(a), June 6, 1972, 86 Stat. 206; Pub. L. 108–447, div. C, title VI, §602, Dec. 8, 2004, 118 Stat. 2966.)
 

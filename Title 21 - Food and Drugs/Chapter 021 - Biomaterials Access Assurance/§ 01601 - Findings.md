@@ -42,7 +42,7 @@ The Congress finds that—
 
 &emsp;&emsp;(B) to warn consumers concerning the safety and effectiveness of a medical device;
 
-&emsp;(14) because medical devices and the raw materials and component parts used in theirmanufacture move in interstate commerce, a shortage of such raw materials and component parts affects interstate commerce;
+&emsp;(14) because medical devices and the raw materials and component parts used in their manufacture move in interstate commerce, a shortage of such raw materials and component parts affects interstate commerce;
 
 &emsp;(15) in order to safeguard the availability of a wide variety of lifesaving and life-enhancing medical devices, immediate action is needed—
 

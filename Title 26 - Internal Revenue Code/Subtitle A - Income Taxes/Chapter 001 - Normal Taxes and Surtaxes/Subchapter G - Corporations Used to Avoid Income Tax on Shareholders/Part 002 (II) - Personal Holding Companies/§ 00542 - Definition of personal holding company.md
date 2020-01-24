@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of this subtitle, the term "personal holding company" means any corporation (other than a corporation described in subsection (c)) if—
+For purposes of this subtitle, the term "personal holding company" means any corporation\(other than a corporation described in subsection (c)) if—
 
 #### (1) Adjusted ordinary gross income requirement
 
@@ -22,7 +22,7 @@ For purposes of this subtitle, the term "personal holding company" means any cor
 
 &emsp;Paragraph (1) shall not apply to an affiliated group of corporations if—
 
-&emsp;&emsp;(A) any member of the affiliated group of corporations (including the common parentcorporation) derived 10 percent or more of its adjusted ordinary gross income for the taxable year from sources outside the affiliated group, and
+&emsp;&emsp;(A) any member of the affiliated group of corporations (including the common parent corporation) derived 10 percent or more of its adjusted ordinary gross income for the taxable year from sources outside the affiliated group, and
 
 &emsp;&emsp;(B) 80 percent or more of the amount described in subparagraph (A) consists of personal holding company income (as defined in section 543).
 
@@ -90,7 +90,7 @@ The term "personal holding company" as defined in subsection (a) does not includ
 
 &emsp;&emsp;&emsp;(iii) rendering services or making facilities available in connection with activities described in clauses (i) and (ii) carried on by the corporation rendering services or making facilities available, or
 
-&emsp;&emsp;&emsp;(iv) rendering services or making facilities available to another corporation which is engaged in the lending or financebusiness (within the meaning of this paragraph), if such services or facilities are related to the lending or finance business (within such meaning) of such other corporation and such other corporation and the corporation rendering services or making facilities available are members of the same affiliated group (as defined in section 1504).
+&emsp;&emsp;&emsp;(iv) rendering services or making facilities available to another corporation which is engaged in the lending or finance business (within the meaning of this paragraph), if such services or facilities are related to the lending or finance business (within such meaning) of such other corporation and such other corporation and the corporation rendering services or making facilities available are members of the same affiliated group (as defined in section 1504).
 
 #### (B) Exceptions
 
@@ -126,7 +126,7 @@ The term "personal holding company" as defined in subsection (a) does not includ
 
 &emsp;For purposes of subsection (c)(6)(B), in the case of a lending or finance company which meets the requirements of subsection (c)(6)(A), there shall not be treated as personal holding company income the lawful income received from a corporation which meets the requirements of subsection (c)(6) and which is a member of the same affiliated group (as defined in section 1504) of which such company is a member.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 182; ch. 871, §3, Aug. 12, 1955, 69 Stat. 718; Pub. L. 86–376, §3(a), Sept. 23, 1959, 73 Stat. 700; Pub. L. 87–768, §1, Oct. 9, 1962, 76 Stat. 766; Pub. L. 88–272, title II, §225(b), (c), (k)(1), Feb. 26, 1964, 78 Stat. 79, 93; Pub. L. 89–809, title I, §104(h)(1), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §101(j)(16), Dec. 30, 1969, 83 Stat. 528; Pub. L. 93–480, §3(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–455, title XIX, §1901(a)(76), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 96–589, §5(a), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §293(a)–(c), Sept. 3, 1982, 96 Stat. 575; Pub. L. 98–369, div. A, title II, §211(b)(7), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1235(f)(2), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, §1122(d)(1), Aug. 5, 1997, 111 Stat. 977; Pub. L. 108–357, title IV, §413(b)(1), Oct. 22, 2004, 118 Stat. 1506; Pub. L. 115–141, div. U, title IV, §401(a)(132), (133), Mar. 23, 2018, 132 Stat. 1190.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 182; ch. 871, §3, Aug. 12, 1955, 69 Stat. 718; Pub. L. 86–376, §3(a), Sept. 23, 1959, 73 Stat. 700; Pub. L. 87–768, §1, Oct. 9, 1962, 76 Stat. 766; Pub. L. 88–272, title II, §225(b), (c), (k)(1), Feb. 26, 1964, 78 Stat. 79, 93; Pub. L. 89–809, title I, §104(h)(1), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §101(j)(16), Dec. 30, 1969, 83 Stat. 528; Pub. L. 93–480, §3(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–455, title XIX, §1901(a)(76), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 96–589, §5(a), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §293(a)–(c), Sept. 3, 1982, 96 Stat. 575; Pub. L. 98–369, div. A, title II, §211(b)(7),July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1235(f)(2), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, §1122(d)(1), Aug. 5, 1997, 111 Stat. 977; Pub. L. 108–357, title IV, §413(b)(1), Oct. 22, 2004, 118 Stat. 1506; Pub. L. 115–141, div. U, title IV, §401(a)(132), (133), Mar. 23, 2018, 132 Stat. 1190.)
 
 #### References in Text
 
@@ -150,7 +150,7 @@ Subsec. (c)(7) to (10). Pub. L. 108–357, §413(b)(1)(B)–(D), redesignated pa
 
 <b>1982</b>—Subsec. (c)(6)(C)(ii). Pub. L. 97–248, §293(a), struck out "but not $1,000,000" after "exceeds $500,000".
 
-Subsec. (d)(1)(B)(i). Pub. L. 97–248, §293(b), substituted "144 months" for "60 months" after "remaining maturity exceeds", designated existing provisions from "theloans" through "transferor's trade or business, or" as subcl. (I), and added subcl. (II).
+Subsec. (d)(1)(B)(i). Pub. L. 97–248, §293(b), substituted "144 months" for "60 months" after "remaining maturity exceeds", designated existing provisions from "the loans" through "transferor's trade or business, or" as subcl. (I), and added subcl. (II).
 
 Subsec. (d)(1)(C). Pub. L. 97–248, §293(c), added subpar. (C).
 
@@ -228,7 +228,7 @@ Pub. L. 93–480, §3(b), Oct. 26, 1974, 88 Stat. 1454, provided that: "The amen
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section101(k)(2)(B) of Pub. L. 91–172, set out as a note under section 4940 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 101(k)(2)(B) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 
 #### Effective Date of 1966 Amendment
 

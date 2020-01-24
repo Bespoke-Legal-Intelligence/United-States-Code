@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) whose participation is essential to the success of the partnership;
 
-&emsp;&emsp;(E) outline how the voluntary local partnership has or will, during development and implementation of recommendations of the voluntary local partnership, identify, recognize and take into account any voluntary or other activities already being undertaken by persons in the source water area delineated under section 300j–13 of this title under Federal or State law to reduce the likelihood that contaminants will occur in drinking water at levels of public health concern; and
+&emsp;&emsp;(E) outline how the voluntary local partnership has or will, during development andimplementation of recommendations of the voluntary local partnership, identify, recognize and take into account any voluntary or other activities already being undertaken by persons in the source water area delineated under section 300j–13 of this title under Federal or State law to reduce the likelihood that contaminants will occur in drinking water at levels of public health concern; and
 
 &emsp;&emsp;(F) specify the technical, financial, or other assistance that the voluntary local partnership requests of the State to develop the partnership or to implement recommendations of the partnership.
 
@@ -164,7 +164,7 @@ Nothing in this section—
 
 #### References in Text
 
-The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), (B)(i), is act June 30, 1948, ch.758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 2 of subtitle D of title XII of the Act means chapter 2 of subtitle D of title XII of Pub. L. 99–198, as added by Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3590, which was classified generally to part II (§3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 

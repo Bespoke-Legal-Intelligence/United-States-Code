@@ -72,7 +72,7 @@ Use of Images of Original Records.—The head of an agency shall not require a c
 
 Records Defined.—In this section, the term "records" includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 89–607, §1(2), Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §2727(c), July 18, 1984, 98 Stat. 1195; Pub. L. 99–145, title IX, §935, Nov. 8, 1985, 99 Stat. 700; Pub. L. 100–26, §7(g)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 101–510, div. A, title XIII, §1301(9), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), Oct. 13, 1994, 108 Stat. 3316, 3340; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §808(a), Sept. 23, 1996, 110 Stat. 2607; Pub. L. 106–65, div. A, title X, §1032(a)(2), Oct. 5, 1999, 113 Stat. 751; Pub. L. 110–417, \[div. A\], title VIII, §871(b), Oct. 14, 2008, 122 Stat. 4555.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 89–607, §1(2), Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §2727(c), July 18, 1984, 98 Stat. 1195; Pub. L. 99–145, title IX, §935, Nov. 8, 1985, 99 Stat. 700; Pub. L. 100–26, §7(g)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 101–510, div. A, title XIII, §1301(9), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), Oct. 13, 1994, 108 Stat. 3316, 3340; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §808(a), Sept. 23, 1996, 110 Stat. 2607; Pub. L. 106–65, div. A, title X, §1032(a)(2), Oct. 5, 1999, 113 Stat. 751;Pub. L. 110–417, \[div. A\], title VIII, §871(b), Oct. 14, 2008, 122 Stat. 4555.)
 
 Historical and Revision Notes
 
@@ -186,7 +186,7 @@ Report.—
 
 &emsp;&emsp;&emsp;"(ii) A comparison of commercial industry accounting practices, including requirements under the Sarbanes-Oxley Act of 2002 (Public Law 107–204; 15 U.S.C. 7201 et seq.), with the cost accounting standards prescribed under chapter 15 of title 41, United States Code, to determine if some portions of cost accounting standards compliance can be met through such practices or requirements.
 
-&emsp;&emsp;&emsp;"(iii) A description of standards of materiality used by the Defense Contract Audit Agency and the Inspector General of the Department of Defense for defense contract audits.
+&emsp;&emsp;&emsp;"(iii) A description of standards of materiality used by the Defense Contract Audit Agency andthe Inspector General of the Department of Defense for defense contract audits.
 
 &emsp;&emsp;&emsp;"(iv) An estimate of average delay and range of delays in contract awards due to the time necessary for the Defense Contract Audit Agency to complete pre-award audits.
 
@@ -276,7 +276,7 @@ Sunset.—
 
 &emsp;"(1)
 
-In general.—The clause described by subsection (a)(2) shall not be required in any contract, grant, or cooperative agreement that is awarded after the date that is three years after the date of the enactment of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\].
+In general.—The clause described by subsection (a)(2) shall not be required in any contract, grant, or cooperative agreement that is awarded after the date that is three years after the date of the enactment of the Carl Levin and Howard P. 'Buck'McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\].
 
 &emsp;"(2)
 

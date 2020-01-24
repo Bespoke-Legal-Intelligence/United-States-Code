@@ -102,7 +102,7 @@ Pub. L. 98–369, div. A, title I, §73(b), July 18, 1984, 98 Stat. 592, as amen
 
 In general.—The amendment made by subsection (a) \[amending this section\] shall apply—
 
-&emsp;"(A) in the case of arrangements described in section 707(a)(2)(A) of the Internal Revenue Code of 1986\[formerly I.R.C. 1954\] (as amended by subsection (a)), to services performed or property transferred after February 29, 1984, and
+&emsp;"(A) in the case of arrangements described in section 707(a)(2)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a)), to services performed or property transferred after February 29, 1984, and
 
 &emsp;"(B) in the case of transfers described in section 707(a)(2)(B) of such Code (as so amended), to property transferred after March 31, 1984.
 

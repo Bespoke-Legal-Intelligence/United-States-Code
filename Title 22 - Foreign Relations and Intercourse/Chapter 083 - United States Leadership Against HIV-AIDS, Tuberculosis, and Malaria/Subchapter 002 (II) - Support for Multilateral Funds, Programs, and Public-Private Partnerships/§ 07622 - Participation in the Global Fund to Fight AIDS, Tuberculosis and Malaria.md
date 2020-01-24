@@ -98,7 +98,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 #### (4) Limitation
 
-&emsp;(A)(i) At any time during fiscal years 2004 through 2023, no United States contribution to the Global Fund may cause the total amount of United States Government contributions to the Global Fund to exceed 33 percent of the total amount of funds contributed to the Global Fund from all sources. Contributions to the Global Fund from the International Bank for Reconstruction and Development and the International Monetary Fund shall not be considered in determining compliance with this paragraph.
+&emsp;(A)(i) At any time during fiscal years 2004 through 2023, no United States contribution tothe Global Fund may cause the total amount of United States Government contributions to the Global Fund to exceed 33 percent of the total amount of funds contributed to the Global Fund from all sources. Contributions to the Global Fund from the International Bank for Reconstruction and Development and the International Monetary Fund shall not be considered in determining compliance with this paragraph.
 
 &emsp;(ii) If, at any time during any of the fiscal years 2009 through 2023, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of section 4605(j)(1) <sup>2</sup> of title 50, has repeatedly provided support for acts of international terrorism, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the amount expended by the Fund to the government of each such country.
 
@@ -114,7 +114,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 &emsp;(iii) Notwithstanding clause (i), after July 31 of each of the fiscal years 2009 through 2023, any amount made available that is withheld by reason of subparagraph (A)(i) is authorized to be made available to carry out sections 2151b–2, 2151b–3, and 2151b–4 of this title.
 
-&emsp;(C)(i) The President may suspend the application of subparagraph (A) with respect to afiscal year if the President determines that an international health emergency threatens the national security interests of the United States.
+&emsp;(C)(i) The President may suspend the application of subparagraph (A) with respect to a fiscal year if the President determines that an international health emergency threatens the national security interests of the United States.
 
 &emsp;(ii) The President shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate not less than 5 days before making a determination under clause (i) with respect to the application of subparagraph (A)(i) and shall include in the notification—
 
@@ -302,7 +302,7 @@ Subsec. (d)(5)(D)(ii). Pub. L. 113–56, §4(b)(1)(C), inserted ", in an open, 
 
 Subsec. (d)(5)(E). Pub. L. 113–56, §4(b)(1)(D), inserted ", in an open, machine readable format," after "publicly".
 
-Subsec. (d)(5)(F)(ii) to (iv). Pub. L. 113–56, §4(b)(1)(E), added cls. (ii) to (iv) and struck out former cl. (ii) which read as follows: "the distribution of resources, by grant and principal recipient, for prevention, care, treatment, drugs and commodities purchase, and other purposes;".
+Subsec. (d)(5)(F)(ii) to (iv). Pub. L. 113–56, §4(b)(1)(E), added cls. (ii) to (iv) and struck out former cl. (ii)which read as follows: "the distribution of resources, by grant and principal recipient, for prevention, care, treatment, drugs and commodities purchase, and other purposes;".
 
 Subsec. (d)(5)(G). Pub. L. 113–56, §4(b)(1)(F), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: "has established a policy on tariffs imposed by national governments on all goods and services financed by the Global Fund;".
 
@@ -327,6 +327,10 @@ Subsec. (d)(5), (6). Pub. L. 110–293, §202(c)(3), added pars. (5) and (6).
 <b>2004</b>—Subsec. (d)(4)(A)(vi). Pub. L. 108–199, §595(1), added cl. (vi).
 
 Subsec. (d)(4)(B)(iv). Pub. L. 108–199, §595(2), added cl. (iv).
+
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Delegation of Functions
 

@@ -96,7 +96,7 @@ As a condition of receipt of a grant under subsection (b), a State or local gove
 
 &emsp;&emsp;(B) a designated official of a local government having jurisdiction over land adjoining the coastal recreation waters for which the failure to meet applicable standards is identified;
 
-&emsp;(6) measures for the posting of signs at beaches or similar points of access, or functionally equivalent communication measuresthat are sufficient to give notice to the public that the coastal recreation waters are not meeting or are not expected to meet applicable water quality standards for pathogens and pathogen indicators; and
+&emsp;(6) measures for the posting of signs at beaches or similar points of access, or functionally equivalent communication measures that are sufficient to give notice to the public that the coastal recreation waters are not meeting or are not expected to meet applicable water quality standards for pathogens and pathogen indicators; and
 
 &emsp;(7) measures that inform the public of the potential risks associated with water contact activities in the coastal recreation waters that do not meet applicable water quality standards.
 

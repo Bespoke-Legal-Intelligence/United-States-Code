@@ -50,7 +50,7 @@ This Act, referred to in par. (10), is Pub. L. 111–195, July 1, 2010, 124 Stat
 
 The Iran Sanctions Act of 1996, as amended by this Act, referred to in par. (10), is Pub. L. 104–172, Aug. 5, 1996, 110 Stat. 1541, as amended by Pub. L. 111–195, which is set out as a note under section 1701 of Title 50, War and National Defense.
 
-The International Emergency Economic Powers Act, referred to in par. (10), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in par. (10), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and NationalDefense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### Short Title
 

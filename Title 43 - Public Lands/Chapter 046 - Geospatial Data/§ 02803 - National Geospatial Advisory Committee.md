@@ -14,7 +14,7 @@ The Secretary of the Interior shall establish within the Department of the Inter
 
 &emsp;&emsp;(B) be selected—
 
-&emsp;&emsp;&emsp;(i) to generally achieve a balanced representation of the viewpoints of variousinterested parties involved in national geospatial activities and the development of the National Spatial Data Infrastructure; and
+&emsp;&emsp;&emsp;(i) to generally achieve a balanced representation of the viewpoints of various interested parties involved in national geospatial activities and the development of the National Spatial Data Infrastructure; and
 
 &emsp;&emsp;&emsp;(ii) with consideration of a geographic balance of residence of the members; and
 
@@ -124,7 +124,7 @@ The Advisory Committee shall—
 
 #### (1) Meetings
 
-&emsp;The Advisory Committee may hold meetings (which shall be open to the public) and sit and act at such times and places as the Advisory Committee considers advisable to carry out this chapter.
+&emsp;The Advisory Committee may hold meetings (which shall be open to the public) and sit andact at such times and places as the Advisory Committee considers advisable to carry out this chapter.
 
 #### (2) Information from covered agencies
 

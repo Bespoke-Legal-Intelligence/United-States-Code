@@ -6,7 +6,7 @@ The board of directors may—
 
 &emsp;(2) Invite the deposit and undertake the custody of foreign securities which have defaulted in the payment either of principal or interest, and issue receipts or certificates in the place of securities so deposited.
 
-&emsp;(3) Appoint committees from the directors of the Corporation and/or all other persons to represent holders of any class or classes of foreign securities which have defaulted in the payment either of principal or interest and determine and regulate the functions of such committees. The chairman and vice chairman of the board of directors shall be ex officio chairman and vice chairman of each committee.
+&emsp;(3) Appoint committees from the directors of the Corporation and/or all other persons to represent holders of any class or classes of foreign securities which have defaulted in thepayment either of principal or interest and determine and regulate the functions of such committees. The chairman and vice chairman of the board of directors shall be ex officio chairman and vice chairman of each committee.
 
 &emsp;(4) Negotiate and carry out, or assist in negotiating and carrying out, arrangements for the resumption of payments due or in arrears in respect of any foreign securities in default or for rearranging the terms on which such securities may in future be held or for converting and exchanging the same for new securities or for any other object in relation thereto; and under this paragraph any plan or agreement made with respect to such securities shall be binding upon depositors, providing that the consent of holders resident in the United States of 60 per centum of the securities deposited with the Corporation shall be obtained.
 

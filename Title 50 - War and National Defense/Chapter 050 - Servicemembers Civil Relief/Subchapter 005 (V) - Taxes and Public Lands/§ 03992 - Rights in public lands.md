@@ -16,7 +16,7 @@ Regulations prescribed by the Secretary of the Interior shall provide for such s
 
 #### References in Text
 
-Act of June 28, 1934, referred to in subsec. (b), is act June 28, 1934, ch. 865, 48 Stat. 1269, popularly known asthe Taylor Grazing Act, which is classified principally to subchapter I (§315 et seq.) of chapter 8A of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 315 of Title 43 and Tables.
+Act of June 28, 1934, referred to in subsec. (b), is act June 28, 1934, ch. 865, 48 Stat. 1269, popularly known as the Taylor Grazing Act, which is classified principally to subchapter I (§315 et seq.) of chapter 8A of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 315 of Title 43 and Tables.
 
 #### Codification
 

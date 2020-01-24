@@ -54,7 +54,7 @@ In this section:
 
 #### (C) Incorporation of acquired land and interests
 
-&emsp;&emsp;Any land or interest in land that is located in the Conservation Management Area and is acquired by the United States from a willing seller shall—
+&emsp;&emsp;Any land or interest in land that is located in the Conservation Management Area andis acquired by the United States from a willing seller shall—
 
 &emsp;&emsp;&emsp;(i) become part of the Conservation Management Area; and
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Use of Performance Information To Achieve Federal Government Priority Goals.—Not less than quarterly, the Director of the Office of Management and Budget, with the support of the Performance Improvement Council, shall—
+Use of Performance Information To Achieve Federal Government PriorityGoals.—Not less than quarterly, the Director of the Office of Management and Budget, with the support of the Performance Improvement Council, shall—
 
 &emsp;(1) for each Federal Government priority goal required by section 1120(a) of this title, review with the appropriate lead Government official the progress achieved during the most recent quarter, overall trend data, and the likelihood of meeting the planned level of performance;
 

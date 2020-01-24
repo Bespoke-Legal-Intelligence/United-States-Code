@@ -30,7 +30,7 @@ Upon the basis of facts disclosed by the record and reports of the Securities an
 
 &emsp;(6) when investment companies are reorganized, become inactive, or change the character of their business, or when the control or management thereof is transferred, without the consent of their security holders;
 
-&emsp;(7) when investment companies by excessive borrowing and the issuance of excessive amounts of senior securities increase undulythe speculative character of their junior securities; or
+&emsp;(7) when investment companies by excessive borrowing and the issuance of excessive amounts of senior securities increase unduly the speculative character of their junior securities; or
 
 &emsp;(8) when investment companies operate without adequate assets or reserves.
 

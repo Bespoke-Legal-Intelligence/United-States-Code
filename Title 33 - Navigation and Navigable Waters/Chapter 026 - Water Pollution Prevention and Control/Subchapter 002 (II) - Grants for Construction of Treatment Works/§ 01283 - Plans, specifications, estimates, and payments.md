@@ -14,13 +14,13 @@ Limitation on modifications.—Before taking final action on any plans, specific
 
 &emsp;(B)
 
-Limitation on effect.—Eligibility determinations under this paragraph shall not preclude the Administrator from auditing a project pursuant to section 1361 of this title, or other authority, or from withholding or recovering Federal funds for costs which are found to be unreasonable, unsupported by adequate documentation, or otherwise unallowable under applicable Federal cost principles, or which are incurred on a project which failsto meet the design specifications or effluent limitations contained in the grant agreement and permit pursuant to section 1342 of this title for such project.
+Limitation on effect.—Eligibility determinations under this paragraph shall not preclude the Administrator from auditing a project pursuant to section 1361 of this title, or other authority, or from withholding or recovering Federal funds for costs which are found to be unreasonable, unsupported by adequate documentation, or otherwise unallowable under applicable Federal cost principles, or which are incurred on a project which fails to meet the design specifications or effluent limitations contained in the grant agreement and permit pursuant to section 1342 of this title for such project.
 
 (3) In the case of a treatment works that has an estimated total cost of $8,000,000 or less (as determined by the Administrator), and the population of the applicant municipality is twenty-five thousand or less (according to the most recent United States census), upon completion of an approved facility plan, a single grant may be awarded for the combined Federal share of the cost of preparing construction plans and specifications, and the building and erection of the treatment works.
 
 #### (b) Periodic payments
 
-The Administrator shall, from time to time as the work progresses, make payments to the recipient of a grant for costs of construction incurred on a project. These payments shall at no time exceed the Federal share of the cost of construction incurred to the date of the voucher covering such payment plus the Federal share of the value of the materials which have been stockpiled in the vicinity of such construction in conformity to plans and specifications for the project.
+The Administrator shall, from time to time as the work progresses, make payments to the recipient of a grant for costs of construction incurred on a project. These payments shall at no time exceed the Federal share of the cost of construction incurred to the date of the voucher covering such payment plus the Federal share of the value of the materials which have beenstockpiled in the vicinity of such construction in conformity to plans and specifications for the project.
 
 #### (c) Final payments
 
@@ -90,7 +90,7 @@ At the request of a grantee under this subchapter, the Administrator is authoriz
 
 &emsp;A recipient of a grant made pursuant to this subsection shall not be eligible for any other grants under this subchapter for the same project.
 
-(June 30, 1948, ch. 758, title II, §203, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 835; amended Pub. L. 93–243, §2, Jan. 2, 1974, 87 Stat. 1069; Pub. L. 95–217, §§18, 19, Dec. 27, 1977, 91 Stat. 1571, 1572; Pub. L. 96–483, §6, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 97–117, §9, Dec. 29, 1981, 95 Stat. 1626; Pub. L. 100–4, title II, §§203, 204, Feb. 4, 1987, 101 Stat. 16, 17.)
+(June 30, 1948, ch. 758, title II, §203, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 835;amended Pub. L. 93–243, §2, Jan. 2, 1974, 87 Stat. 1069; Pub. L. 95–217, §§18, 19, Dec. 27, 1977, 91 Stat. 1571, 1572; Pub. L. 96–483, §6, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 97–117, §9, Dec. 29, 1981, 95 Stat. 1626; Pub. L. 100–4, title II, §§203, 204, Feb. 4, 1987, 101 Stat. 16, 17.)
 
 #### Amendments
 

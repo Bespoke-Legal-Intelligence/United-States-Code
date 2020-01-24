@@ -44,7 +44,7 @@ No payments may be made under this part with respect to the expenses of an indiv
 
 Notwithstanding subsection (a), in the case of an individual who enrolls during a special enrollment period pursuant to section 1395p(i)(3) or 1395p(i)(4)(B) of this title—
 
-&emsp;(1) in any month of the special enrollment period in which the individual is at any time enrolled in a plan (specified in subparagraph (A) or (B), as applicable, of section 1395p(i)(3) of this title or specified in section 1395p(i)(4)(A)(i) of this title) or in the first month following such a month, the coverage period shall begin on the first day of the month in which the individual so enrolls (or, at the option of the individual, on the first day of any of the following three months), or
+&emsp;(1) in any month of the special enrollment period in which the individual is at any time enrolled in a plan (specified in subparagraph (A) or (B), as applicable, of section 1395p(i)(3) of this title or specified in section 1395p(i)(4)(A)(i) of this title) or in the first month following such a month, the coverage period shall begin on the first day of the month in which the individual so enrolls (or,at the option of the individual, on the first day of any of the following three months), or
 
 &emsp;(2) in any other month of the special enrollment period, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.
 
@@ -168,5 +168,5 @@ Pub. L. 89–384, §3(d), Apr. 8, 1966, 80 Stat. 105, provided that: "In the cas
 
 #### Commencement of Coverage Period of Certain Enrollees
 
-Commencement of coverage period upon enrollment before Oct. 1, 1966 of eligible individuals failing for goodcause to enroll before June 1, 1966, see section 102(b) of Pub. L. 89–97, set out as a note under section 1395p of this title.
+Commencement of coverage period upon enrollment before Oct. 1, 1966 of eligible individuals failing for good cause to enroll before June 1, 1966, see section 102(b) of Pub. L. 89–97, set out as a note under section 1395p of this title.
 

@@ -12,7 +12,7 @@ It shall be the responsibility of the head of each Federal agency (not including
 
 &emsp;(4) consult with the Secretary with regard to the adequacy as to form and content of records kept pursuant to subsection (a)(3) of this section; and
 
-&emsp;(5) make an annual report to the Secretary with respect to occupational accidents and injuries and the agency's program under this section. Such report shall include any report submitted under section 7902(e)(2) of title 5.
+&emsp;(5) make an annual report to the Secretary with respect to occupational accidents and injuries and the agency's program under thissection. Such report shall include any report submitted under section 7902(e)(2) of title 5.
 
 #### (b) Report by Secretary to President
 

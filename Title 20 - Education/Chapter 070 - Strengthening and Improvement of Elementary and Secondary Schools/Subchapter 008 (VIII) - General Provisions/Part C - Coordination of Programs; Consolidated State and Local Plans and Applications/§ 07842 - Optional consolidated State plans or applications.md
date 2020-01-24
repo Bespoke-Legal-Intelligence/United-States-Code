@@ -28,7 +28,7 @@
 
 &emsp;The Secretary shall require only descriptions, information, assurances (including assurances of compliance with applicable provisions regarding participation by private school children and teachers), and other materials that are absolutely necessary for the consideration of the consolidated State plan or consolidated State application.
 
-(Pub. L. 89–10, title VIII, §8302, formerly title IX, §9302, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1968; renumbered title VIII,§8302, and amended Pub. L. 114–95, title VIII, §§8001(a)(3), 8009, Dec. 10, 2015, 129 Stat. 2088, 2089, 2102.)
+(Pub. L. 89–10, title VIII, §8302, formerly title IX, §9302, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1968; renumbered title VIII, §8302, and amended Pub. L. 114–95, title VIII, §§8001(a)(3), 8009, Dec. 10, 2015, 129 Stat. 2088, 2089, 2102.)
 
 #### Amendments
 

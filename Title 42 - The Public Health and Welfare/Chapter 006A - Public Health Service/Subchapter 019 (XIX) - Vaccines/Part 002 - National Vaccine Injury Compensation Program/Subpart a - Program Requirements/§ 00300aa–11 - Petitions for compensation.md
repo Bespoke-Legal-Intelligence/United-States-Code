@@ -34,7 +34,7 @@
 
 #### (b) Petitioners
 
-(1)(A) Except as provided in subparagraph (B), any person who has sustained a vaccine-related injury, the legal representative of such person if such person is a minor or is disabled, or the legal representative of any person who died as the result of the administration of a vaccine set forth in the Vaccine Injury Table may, if the person meets the requirements of subsection (c)(1), file a petition for compensation under the Program.
+(1)(A) Except as provided in subparagraph (B), any person who has sustained a vaccine-related injury, the legal representative of such person if such person is a minor or is disabled, or the legal representative of any person who died as the result of the administration of a vaccine set forth in the Vaccine Injury Table may, if the person meets the requirements of subsection\(c)(1), file a petition for compensation under the Program.
 
 (B) No person may file a petition for a vaccine-related injury or death associated with a vaccine administered before October 1, 1988, if compensation has been paid under this part for 3500 petitions for such injuries or deaths.
 
@@ -84,13 +84,13 @@ The petitioner shall submit in accordance with a schedule set by the special mas
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, for purposes of this subpart, both a woman who received a covered vaccine while pregnant and any child who was in utero at the timesuch woman received the vaccine shall be considered persons to whom the covered vaccine was administered and persons who received the covered vaccine.
+&emsp;Notwithstanding any other provision of law, for purposes of this subpart, both a woman who received a covered vaccine while pregnant and any child who was in utero at the time such woman received the vaccine shall be considered persons to whom the covered vaccine was administered and persons who received the covered vaccine.
 
 #### (2) Definition
 
 &emsp;As used in this subsection, the term "child" shall have the meaning given that term by subsections (a) and (b) of section 8 of title 1 except that, for purposes of this subsection, such section 8 shall be applied as if the term "include" in subsection (a) of such section were replaced with the term "mean".
 
-(July 1, 1944, ch. 373, title XXI, §2111, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758; amended Pub. L. 100–203, title IV, §§4302(b), 4304(a), (b), 4306, 4307(1), (2), Dec. 22, 1987, 101 Stat. 1330–221, 1330–223, 1330–224; Pub. L. 101–239, title VI, §6601(c)(1)–(7), Dec. 19, 1989, 103 Stat. 2285, 2286; Pub. L. 101–502, §5(a), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 102–168, title II, §201(h)(1), Nov. 26, 1991, 105 Stat. 1104; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–43, title XX, §2012, June 10, 1993, 107 Stat. 214; Pub. L. 105–277, div. C, title XV, §1502, Oct. 21, 1998, 112 Stat. 2681–741; Pub. L. 106–310, div. A, title XVII, §1701(a), Oct. 17, 2000, 114 Stat. 1151; Pub. L. 114–255, div. A, title III, §3093(c)(2), (3), Dec. 13, 2016, 130 Stat. 1152.)
+(July 1, 1944, ch. 373, title XXI, §2111, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100Stat. 3758; amended Pub. L. 100–203, title IV, §§4302(b), 4304(a), (b), 4306, 4307(1), (2), Dec. 22, 1987, 101 Stat. 1330–221, 1330–223, 1330–224; Pub. L. 101–239, title VI, §6601(c)(1)–(7), Dec. 19, 1989, 103 Stat. 2285, 2286; Pub. L. 101–502, §5(a), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 102–168, title II, §201(h)(1), Nov. 26, 1991, 105 Stat. 1104; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–43, title XX, §2012, June 10, 1993, 107 Stat. 214; Pub. L. 105–277, div. C, title XV, §1502, Oct. 21, 1998, 112 Stat. 2681–741; Pub. L. 106–310, div. A, title XVII, §1701(a), Oct. 17, 2000, 114 Stat. 1151; Pub. L. 114–255, div. A, title III, §3093(c)(2), (3), Dec. 13, 2016, 130 Stat. 1152.)
 
 #### Codification
 

@@ -56,7 +56,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each organization in the United States desiring a grant under this section shall submit an application to the Center at suchtime, in such manner, and accompanied by such information as the Center may reasonably require.
+&emsp;&emsp;Each organization in the United States desiring a grant under this section shall submit an application to the Center at such time, in such manner, and accompanied by such information as the Center may reasonably require.
 
 #### (B) Contents
 
@@ -146,7 +146,7 @@ Subsec. (a)(2)(B). Pub. L. 111–68, §1601(a)(2), substituted "Senators" for "m
 
 Subsec. (d). Pub. L. 111–68, §1601(b), substituted "On behalf of the Board, the Librarian of Congress shall appoint" for "The Board shall appoint".
 
-<b>2007</b>—Subsec. (a)(2)(E). Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5, repealed Pub. L. 109–13, §3402(b), and amended this section to read as if Pub. L. 109–13,§3402(b), had not been enacted. See 2005 Amendment note below.
+<b>2007</b>—Subsec. (a)(2)(E). Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5, repealed Pub. L. 109–13, §3402(b), and amended this section to read as if Pub. L. 109–13, §3402(b), had not been enacted. See 2005 Amendment note below.
 
 <b>2005</b>—Subsec. (a)(2)(E). Pub. L. 109–13, §3402(b), which substituted "chair of the Committee on Appropriations of the House of Representatives (or another member of such Committee designated by the chair)" for "chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives", was repealed by Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5. See Construction of 2005 Amendment note below.
 

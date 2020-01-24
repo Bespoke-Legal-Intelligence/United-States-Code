@@ -6,7 +6,7 @@
 
 &emsp;(2) provide the seaman passage to the port of original engagement; or
 
-&emsp;(3) deposit with the consular officer an amount of money considered sufficient by the officer to provide the seaman with maintenance and passage home.
+&emsp;(3) deposit with the consular officer an amount of money considered sufficient by theofficer to provide the seaman with maintenance and passage home.
 
 (b) The consular officer shall endorse on the agreement the particulars of the payment, provision, or deposit made under this section.
 

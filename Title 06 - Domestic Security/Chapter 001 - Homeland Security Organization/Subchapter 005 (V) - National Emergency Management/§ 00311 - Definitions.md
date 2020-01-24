@@ -30,7 +30,7 @@ In this subchapter—
 
 &emsp;(14) the terms "typed" and "typing" mean having evaluated, or evaluating, respectively, a resource in accordance with standards created under section 320 of this title.
 
-(Pub. L. 107–296, title V, §501, as added Pub. L. 109–295, title VI, §611(10), Oct. 4, 2006, 120 Stat. 1395; amended Pub. L. 110–53, title IV, §401(a), title V, §502(c)(1), Aug. 3, 2007, 121 Stat. 301, 311; Pub. L. 114–328, div. A, title XIX, §1913(b)(2), Dec. 23, 2016, 130 Stat. 2687.)
+(Pub. L. 107–296, title V, §501, as added Pub. L. 109–295, title VI, §611(10), Oct. 4, 2006, 120 Stat. 1395; amended Pub. L. 110–53, title IV, §401(a), title V, §502(c)(1), Aug. 3, 2007, 121 Stat. 301, 311;Pub. L. 114–328, div. A, title XIX, §1913(b)(2), Dec. 23, 2016, 130 Stat. 2687.)
 
 #### References in Text
 

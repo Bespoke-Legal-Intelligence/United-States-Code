@@ -140,5 +140,5 @@ Requirements of Expertise.—The Institute of Medicine shall conduct the review 
 
 Pub. L. 106–310, div. A, title XXVII, §2701, Oct. 17, 2000, 114 Stat. 1167, as amended by Pub. L. 106–505, title X, §1001(a), Nov. 13, 2000, 114 Stat. 2350, provided that: "Notwithstanding any other provision of law, not later than 6 months after the date of the enactment of this Act \[Oct. 17, 2000\], the Secretary of Health and Human Services shall require that all research involving children that is conducted, supported, or regulated by the Department of Health and Human Services be in compliance with subpart D of part 46 of title 45, Code of Federal Regulations."
 
-\[Pub. L. 106–505, title X, §1001(b), Nov. 13, 2000, 114 Stat. 2350, provided that: "The amendment made by subsection (a) \[amending section 2701 of Pub. L. 106–310, set out above\] takes effect on the date of the enactment of the Children's Health Act of 2000 \[Oct. 17, 2000\]."\]
+\[Pub. L. 106–505, title X, §1001(b), Nov. 13, 2000, 114 Stat. 2350, provided that: "The amendment made bysubsection (a) \[amending section 2701 of Pub. L. 106–310, set out above\] takes effect on the date of the enactment of the Children's Health Act of 2000 \[Oct. 17, 2000\]."\]
 

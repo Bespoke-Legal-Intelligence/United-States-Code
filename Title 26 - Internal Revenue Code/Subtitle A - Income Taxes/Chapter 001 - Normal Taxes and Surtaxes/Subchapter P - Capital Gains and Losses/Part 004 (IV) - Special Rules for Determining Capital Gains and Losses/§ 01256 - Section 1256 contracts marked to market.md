@@ -124,7 +124,7 @@ For purposes of this subtitle—
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Any hedging loss for a taxable year which is allocable to any limited partner or limited entrepreneur (within the meaning of paragraph (3)) shall be allowed only to the extent of the taxable income of such limited partner or entrepreneur for such taxable year attributable to the trade or business in which the hedging transactions were entered into. For purposes of the preceding sentence, taxable income shall be determined by not taking into account items attributable to hedging transactions.
+&emsp;&emsp;&emsp;Any hedging loss for a taxable year which is allocable to any limited partner or limited entrepreneur (within the meaning of paragraph (3)) shall be allowed only to the extent of the taxable income of such limited partner or entrepreneur for such taxable year attributable to the trade or business in which the hedging transactions were entered into. For purposes of the preceding sentence, taxable income shall bedetermined by not taking into account items attributable to hedging transactions.
 
 #### (ii) Carryover of disallowed loss
 
@@ -238,7 +238,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) to buy or sell stock, or
 
-&emsp;&emsp;(B) the value of which is determined directly or indirectly by reference to any stock or any narrow-based security index (as defined in section 3(a)(55) of the SecuritiesExchange Act of 1934, as in effect on the date of the enactment of this paragraph).
+&emsp;&emsp;(B) the value of which is determined directly or indirectly by reference to any stock or any narrow-based security index (as defined in section 3(a)(55) of the Securities Exchange Act of 1934, as in effect on the date of the enactment of this paragraph).
 
 > &emsp;The term "equity option" includes such an option on a group of stocks only if such group meets the requirements for a narrow-based security index (as so defined). The Secretary may prescribe regulations regarding the status of options the values of which are determined directly or indirectly by reference to any index which becomes (or ceases to be) a narrow-based security index (as so defined).
 
@@ -296,7 +296,7 @@ The date of the enactment of this paragraph, referred to in subsec. (g)(6)(B), p
 
 <b>2005</b>—Subsec. (f)(1). Pub. L. 109–135 substituted "subsection (e)(2)" for "subsection (e)(2)(C)".
 
-<b>2004</b>—Subsec. (g)(6). Pub. L. 108–311 added at end of concluding provisions "The Secretary may prescribe regulations regarding the status of options the values of which are determined directly or indirectly by reference to any index which becomes (or ceases to be) a narrow-based security index (as so defined)."
+<b>2004</b>—Subsec. (g)(6). Pub. L. 108–311 added at end of concluding provisions "The Secretary may prescribe regulations regarding the status of options the valuesof which are determined directly or indirectly by reference to any index which becomes (or ceases to be) a narrow-based security index (as so defined)."
 
 <b>2002</b>—Subsec. (f)(5). Pub. L. 107–147 added par. (5).
 
@@ -388,7 +388,7 @@ Pub. L. 111–203, title XVI, §1601(b), July 21, 2010, 124 Stat. 2223, provided
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–311 effective as if included in section 401 of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by Pub. L. 106–554\], see section 405(b) of Pub. L. 108–311, set out as a note under section 1234B of this title.
+Amendment by Pub. L. 108–311 effective as if included in section 401 of the Community Renewal Tax ReliefAct of 2000 \[H.R. 5662, as enacted by Pub. L. 106–554\], see section 405(b) of Pub. L. 108–311, set out as a note under section 1234B of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -596,7 +596,7 @@ Determination of deferred tax liability.—If the taxpayer makes an election und
 
 &emsp;&emsp;&emsp;"(i) the tax for such year, determined by taking into account paragraph (2), over
 
-&emsp;&emsp;&emsp;"(ii) the tax for such year, determined by taking into account paragraph (2) and by treating all regulated futures contracts which were held by the taxpayer on the first day of the taxable year described in paragraph (1), and which were acquired before the first day of such taxable year, as having been acquired for a purchase price equal to their fair market value on the last business day of the preceding taxable year.
+&emsp;&emsp;&emsp;"(ii) the tax for such year, determined by taking into account paragraph (2) and by treating all regulated futures contracts which were held by the taxpayer on the first day of the taxable year described in paragraph (1), and which were acquired before the first day of such taxable year,as having been acquired for a purchase price equal to their fair market value on the last business day of the preceding taxable year.
 
 &emsp;"(4)
 

@@ -34,7 +34,7 @@ The Bank shall be governed by a Board of Directors (hereinafter in this chapter 
 
 (1) All elections of members of the Board by the holders of class B stock and class C stock shall be conducted in accordance with the bylaws of the Bank. Such bylaws shall conform to the requirements of this section. Nominations for such elections shall be made by the following classes of cooperatives: (A) housing, (B) consumer goods, (C) low-income cooperatives, (D) consumer services, and (E) all other eligible cooperatives.
 
-(2)(A) Vacant shareholder directorships shall be filled so that at any time when there arethree or more shareholder directors on the Board, there shall be at least one director representing each of the following classes of cooperatives: (i) housing cooperatives, (ii) low-income cooperatives, and (iii) consumer goods and services cooperatives.
+(2)(A) Vacant shareholder directorships shall be filled so that at any time when there are three or more shareholder directors on the Board, there shall be at least one director representing each of the following classes of cooperatives: (i) housing cooperatives, (ii) low-income cooperatives, and (iii) consumer goods and services cooperatives.
 
 (B) Each nominee for a shareholder directorship of a particular class shall have at least three years experience as a director or senior officer in the class of cooperatives to be represented.
 
@@ -76,7 +76,7 @@ Subsec. (h). Pub. L. 97–35, §393(b), inserted provisions relating to compensa
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–149, §1(a), inserted provisions respecting appointment of a member from among proprietors of small business concerns, and substituted "fifteen" for "thirteen", "eight" for "seven", and "this section" for "this section 104", which for purposes of codification had been editorially translated as "section 3014 of this title".
 
-Subsec. (b). Pub. L. 96–149, §1(b), substituted provisions respecting criteria for resignations of initial twoadditional Board members and the additional Board member, for provisions respecting criteria for resignation of an additional Board member, and substituted "Five of the" for "Five".
+Subsec. (b). Pub. L. 96–149, §1(b), substituted provisions respecting criteria for resignations of initial two additional Board members and the additional Board member, for provisions respecting criteria for resignation of an additional Board member, and substituted "Five of the" for "Five".
 
 Subsec. (d). Pub. L. 96–149, §1(c), substituted "five of the" for "all five".
 

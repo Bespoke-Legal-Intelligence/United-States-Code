@@ -158,7 +158,7 @@ Amendment by Pub. L. 90–22 effective Jan. 1, 1969, see section 405 of Pub. L. 
 
 #### Waiver of Qualifications for Appointment as Service Chief
 
-For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section, see section 532(c) of Pub. L. 99–433, title V, Oct. 1, 1986, 100 Stat. 1063, which was formerly set out as a note under section 3033 of this title.
+For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section,see section 532(c) of Pub. L. 99–433, title V, Oct. 1, 1986, 100 Stat. 1063, which was formerly set out as a note under section 3033 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,7 +30,7 @@ Ten percent of the sums allotted to each State pursuant to section 49e of this t
 
 &emsp;(1) performance incentives for public employment service offices and programs, consistent with the performance accountability measures that are based on indicators described in section 116(b)(2)(A)(i) of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3141(b)(2)(A)(i)\], taking into account direct or indirect placements (including those resulting from self-directed job search or group job search activities assisted by such offices or programs), wages on entered employment, retention, and other appropriate factors;
 
-&emsp;(2) services for groups with special needs, carried out pursuant to joint agreements between the employment service offices and the appropriate local workforce investment boardand chief elected official or officials or other public agencies or private nonprofit organizations; and
+&emsp;(2) services for groups with special needs, carried out pursuant to joint agreements between the employment service offices and the appropriate local workforce investment board and chief elected official or officials or other public agencies or private nonprofit organizations; and
 
 &emsp;(3) the extra costs of exemplary models for delivering services of the types described in subsection (a), and models for enhancing professional development and career advancement opportunities of State agency staff, as described in section 49b(c)(4) of this title.
 
@@ -106,7 +106,7 @@ Subsec. (e). Pub. L. 105–220, §305(4), added subsec. (e).
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014\(July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 1998 Amendment
 

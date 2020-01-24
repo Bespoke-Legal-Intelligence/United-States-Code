@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(A) administration;
 
-&emsp;&emsp;(B) research and evaluation, including assessment of the effect on public safety and other effects of the expansion of correctional capacity and sentencing reforms implemented pursuant to this part;
+&emsp;&emsp;(B) research and evaluation, including assessment of the effect on public safety andother effects of the expansion of correctional capacity and sentencing reforms implemented pursuant to this part;
 
 &emsp;&emsp;(C) technical assistance relating to the use of grant funds, and development and implementation of sentencing reforms implemented pursuant to this part; and
 

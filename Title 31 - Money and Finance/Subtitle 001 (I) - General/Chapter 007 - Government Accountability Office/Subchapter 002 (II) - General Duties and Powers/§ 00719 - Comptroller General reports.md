@@ -190,7 +190,7 @@ Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were 
 
 <b>1997</b>—Subsec. (b)(3). Pub. L. 105–85 added par. (3).
 
-<b>1996</b>—Subsecs. (d) to (i). Pub. L. 104–316 redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which read as follows: "The Comptroller General shall report each year to the Committees on Finance and Governmental Affairs of the Senate, the Committees on Ways and Means and Government Operations of the House of Representatives, and the Joint Committee on Taxation. Each report shall include—
+<b>1996</b>—Subsecs. (d) to (i). Pub. L. 104–316 redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struckout former subsec. (d) which read as follows: "The Comptroller General shall report each year to the Committees on Finance and Governmental Affairs of the Senate, the Committees on Ways and Means and Government Operations of the House of Representatives, and the Joint Committee on Taxation. Each report shall include—
 
 &emsp;"(1) procedures and requirements the Comptroller General, the Commissioner of Internal Revenue, and the Director of the Bureau of Alcohol, Tobacco, and Firearms, prescribe to protect the confidentiality of returns and return information made available to the Comptroller General under section 713(b)(1) of this title;
 
@@ -202,7 +202,7 @@ Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were 
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Termination of Reporting Requirements
 

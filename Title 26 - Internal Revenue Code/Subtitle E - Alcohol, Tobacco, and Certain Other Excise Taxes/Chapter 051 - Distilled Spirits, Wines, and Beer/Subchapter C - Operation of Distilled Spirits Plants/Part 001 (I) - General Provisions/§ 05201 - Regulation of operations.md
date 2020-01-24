@@ -10,7 +10,7 @@ The regulations of the Secretary under this chapter respecting the production, w
 
 #### (c) Hours of operations
 
-The Secretary may prescribe regulations relating to hours for distillery operations and to hours for removal of distilled spirits from distilled spirits plants; however, such regulationsshall not be more restrictive, as to any operation or function, that the provisions of internal revenue law and regulations relating to such operation or function in effect on the day preceding the effective date of this section.
+The Secretary may prescribe regulations relating to hours for distillery operations and to hours for removal of distilled spirits from distilled spirits plants; however, such regulations shall not be more restrictive, as to any operation or function, that the provisions of internal revenue law and regulations relating to such operation or function in effect on the day preceding the effective date of this section.
 
 #### (d) Identification of distilled spirits
 
@@ -34,7 +34,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 633, 63
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–39 substituted "all operations authorized to be conducted" for "their operations relating to the production, storage, denaturing, rectification and bottling of distilled spirits, and all other operations authorized to be conducted".
+<b>1979</b>—Subsec. (a). Pub. L. 96–39 substituted "all operations authorized to be conducted" for "their operations relating to the production, storage, denaturing,rectification and bottling of distilled spirits, and all other operations authorized to be conducted".
 
 <b>1976</b>—Subsecs. (a) to (d). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 

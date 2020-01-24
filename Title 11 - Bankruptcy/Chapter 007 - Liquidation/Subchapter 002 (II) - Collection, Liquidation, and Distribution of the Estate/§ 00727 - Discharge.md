@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) gave, offered, received, or attempted to obtain money, property, or advantage, or a promise of money, property, or advantage, for acting or forbearing to act; or
 
-&emsp;&emsp;(D) withheld from an officer of the estate entitled to possession under this title, any recorded information, including books, documents, records, and papers, relating to the debtor's property or financial affairs;
+&emsp;&emsp;(D) withheld from an officer of the estate entitled to possession under this title, anyrecorded information, including books, documents, records, and papers, relating to the debtor's property or financial affairs;
 
 &emsp;(5) the debtor has failed to explain satisfactorily, before determination of denial of discharge under this paragraph, any loss of assets or deficiency of assets to meet the debtor's liabilities;
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(B) the date the case is closed.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2609; Pub. L. 98–353, title III, §480, July 10, 1984, 98 Stat. 382; Pub. L. 99–554, title II, §§220, 257(s), Oct. 27, 1986, 100 Stat. 3101, 3116; Pub. L. 109–8, title I, §106(b), title III, §§312(1), 330(a), title VI, §603(d), Apr. 20, 2005, 119 Stat. 38, 86, 101, 123.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2609; Pub. L. 98–353, title III, §480, July 10, 1984, 98 Stat. 382; Pub. L. 99–554, title II, §§220, 257(s), Oct. 27, 1986,100 Stat. 3101, 3116; Pub. L. 109–8, title I, §106(b), title III, §§312(1), 330(a), title VI, §603(d), Apr. 20, 2005, 119 Stat. 38, 86, 101, 123.)
 
 #### Historical and Revision Notes
 

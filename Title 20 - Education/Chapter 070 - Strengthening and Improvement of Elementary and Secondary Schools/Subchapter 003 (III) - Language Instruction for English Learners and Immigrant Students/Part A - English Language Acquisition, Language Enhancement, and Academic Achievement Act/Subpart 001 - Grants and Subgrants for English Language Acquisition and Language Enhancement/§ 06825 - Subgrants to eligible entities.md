@@ -34,7 +34,7 @@ An eligible entity receiving funds under section 6824(a) of this title shall use
 
 &emsp;&emsp;(C) effective in increasing children's English language proficiency or substantially increasing the subject matter knowledge, teaching knowledge, and teaching skills of such teachers; and
 
-&emsp;&emsp;(D) of sufficient intensity and duration (which shall not include activities such as 1-day or short-term workshops and conferences) to have a positive and lasting impact on the teachers' performance in the classroom, except that this subparagraph shall not apply to an activity that is one component of a long-term, comprehensive professional development plan established by a teacher and the teacher's supervisor based on an assessment of the needs of theteacher, the supervisor, the students of the teacher, and any local educational agency employing the teacher, as appropriate; and
+&emsp;&emsp;(D) of sufficient intensity and duration (which shall not include activities such as 1-day or short-term workshops and conferences) to have a positive and lasting impact on the teachers' performance in the classroom, except that this subparagraph shall not apply to an activity that is one component of a long-term, comprehensive professional development plan established by a teacher and the teacher's supervisor based on an assessment of the needs of the teacher, the supervisor, the students of the teacher, and any local educational agency employing the teacher, as appropriate; and
 
 &emsp;(3) to provide and implement other effective activities and strategies that enhance or supplement language instruction educational programs for English learners, which—
 
@@ -106,7 +106,7 @@ Subject to subsection (c), an eligible entity receiving funds under section 6824
 
 #### (1) In general
 
-&emsp;To receive a subgrant from a State educational agency under this subpart, an eligible entity shall select one or more methods or forms of effective instruction to be used in the programs and activities undertaken by the entity to assist English learners to attain English language proficiency and meet challenging State academic standards.
+&emsp;To receive a subgrant from a State educational agency under this subpart, an eligibleentity shall select one or more methods or forms of effective instruction to be used in the programs and activities undertaken by the entity to assist English learners to attain English language proficiency and meet challenging State academic standards.
 
 #### (2) Consistency
 
@@ -114,7 +114,7 @@ Subject to subsection (c), an eligible entity receiving funds under section 6824
 
 #### (g) Supplement, not supplant
 
-Federal funds made available under this subpart shall be used so as to supplement the levelof Federal, State, and local public funds that, in the absence of such availability, would have been expended for programs for English learners and immigrant children and youth and in no case to supplant such Federal, State, and local public funds.
+Federal funds made available under this subpart shall be used so as to supplement the level of Federal, State, and local public funds that, in the absence of such availability, would have been expended for programs for English learners and immigrant children and youth and in no case to supplant such Federal, State, and local public funds.
 
 (Pub. L. 89–10, title III, §3115, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1697; amended Pub. L. 114–95, title III, §3003(f), Dec. 10, 2015, 129 Stat. 1958.)
 

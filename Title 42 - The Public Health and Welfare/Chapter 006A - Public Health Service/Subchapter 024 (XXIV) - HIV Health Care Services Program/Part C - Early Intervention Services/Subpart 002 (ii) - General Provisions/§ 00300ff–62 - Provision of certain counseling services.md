@@ -52,7 +52,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 #### (d) Counseling of emergency response employees
 
-The Secretary may not make a grant under this part to a State unless the State agrees that, in counseling individuals with respect to HIV/AIDS, the State will ensure that, in the case of emergency response employees, the counseling is provided to such employees under conditions appropriate to the needs of the employees regarding the counseling.
+The Secretary may not make a grant under this part to a State unless the State agrees that, in counseling individuals with respect to HIV/AIDS, the State will ensure that, in the case of emergency response employees, the counselingis provided to such employees under conditions appropriate to the needs of the employees regarding the counseling.
 
 #### (e) Rule of construction regarding counseling without testing
 

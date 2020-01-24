@@ -30,7 +30,7 @@ The Forest Supervisor shall consult with the Clear Creek County commissioners an
 
 #### (d) Report
 
-After the consultation required by subsection (c), the Forest Supervisor shall submit to the Committee on Resources and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate a report regarding the amount of any additional funding required to implement this section.
+After the consultation required by subsection (c), the Forest Supervisor shall submit to the Committee on Resources and the Committee on Appropriations of the House of Representativesand the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate a report regarding the amount of any additional funding required to implement this section.
 
 (Pub. L. 107–216, §5, Aug. 21, 2002, 116 Stat. 1060.)
 

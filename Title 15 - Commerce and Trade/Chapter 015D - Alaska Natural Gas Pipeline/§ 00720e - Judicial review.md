@@ -2,7 +2,7 @@
 
 #### (a) Exclusive jurisdiction
 
-Except for review by the Supreme Court on writ of certiorari, the United States Court ofAppeals for the District of Columbia Circuit shall have original and exclusive jurisdiction to determine—
+Except for review by the Supreme Court on writ of certiorari, the United States Court of Appeals for the District of Columbia Circuit shall have original and exclusive jurisdiction to determine—
 
 &emsp;(1) the validity of any final order or action (including a failure to act) of any Federal agency or officer under this chapter;
 

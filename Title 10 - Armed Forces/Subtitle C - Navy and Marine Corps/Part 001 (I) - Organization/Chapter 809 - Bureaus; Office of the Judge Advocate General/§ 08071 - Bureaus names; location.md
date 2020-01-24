@@ -6,7 +6,7 @@ There are in the executive part of the Department of the Navy the following bure
 
 (2) Bureau of Naval Personnel.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 285, §5131; Pub. L. 86–174, §§1(1), 2(1), Aug. 18, 1959, 73 Stat. 395; Pub. L. 89–718, §35(1), Nov. 2, 1966, 80 Stat. 1120; renumbered §8071, Pub. L. 115–232, div. A, title VIII, §807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 285, §5131; Pub. L. 86–174, §§1(1), 2(1), Aug. 18, 1959, 73 Stat. 395; Pub. L. 89–718, §35(1), Nov. 2, 1966, 80 Stat. 1120;renumbered §8071, Pub. L. 115–232, div. A, title VIII, §807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
 
 Historical and Revision Notes
 

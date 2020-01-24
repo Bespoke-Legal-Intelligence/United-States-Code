@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) has a full-time director who is responsible for the day-to-day operation of the vocational rehabilitation program;
 
-&emsp;&emsp;&emsp;&emsp;(III) has a staff employed on the rehabilitation work of the organizationalunit all or substantially all of whom are employed full time on such work;
+&emsp;&emsp;&emsp;&emsp;(III) has a staff employed on the rehabilitation work of the organizational unit all or substantially all of whom are employed full time on such work;
 
 &emsp;&emsp;&emsp;&emsp;(IV) is located at an organizational level and has an organizational status within the designated State agency comparable to that of other major organizational units of the designated State agency; and
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;(A) include a description (consistent with the purposes of this chapter) of a comprehensive system of personnel development, which shall include—
 
-&emsp;&emsp;&emsp;(i) a description of the procedures and activities the designated State agency will undertake to ensure an adequate supply of qualified State rehabilitation professionals and paraprofessionals for the designated State unit, including the development andmaintenance of a system for determining, on an annual basis—
+&emsp;&emsp;&emsp;(i) a description of the procedures and activities the designated State agency will undertake to ensure an adequate supply of qualified State rehabilitation professionals and paraprofessionals for the designated State unit, including the development and maintenance of a system for determining, on an annual basis—
 
 &emsp;&emsp;&emsp;&emsp;(I) the number and type of personnel that are employed by the designated State unit in the provision of vocational rehabilitation services, including ratios of qualified vocational rehabilitation counselors to clients; and
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(CC) direct experience as an employer, as a small business owner or operator, or in self-employment, or other experience in human resources, recruitment, or experience in supervising employees, training, or other activities that provide experience in competitive integrated employment environments; or
 
-&emsp;&emsp;&emsp;&emsp;(II) attainment of a master's or doctoral degree in a field of study such as vocational rehabilitation counseling, law, social work, psychology, disability studies, business administration, human resources, special education, management, public administration, or another field that reasonably provides competence in the employment sector, in adisability field, or in both business-related and rehabilitation-related fields; and
+&emsp;&emsp;&emsp;&emsp;(II) attainment of a master's or doctoral degree in a field of study such as vocational rehabilitation counseling, law, social work, psychology, disability studies, business administration, human resources, special education, management, public administration, or another field that reasonably provides competence in the employment sector, in a disability field, or in both business-related and rehabilitation-related fields; and
 
 &emsp;&emsp;(C) contain provisions relating to the establishment and maintenance of minimum standards to ensure the availability of personnel within the designated State unit, to the maximum extent feasible, trained to communicate in the native language or mode of communication of an applicant or eligible individual.
 
@@ -184,11 +184,11 @@
 
 #### (i) Responsibilities under other law
 
-&emsp;&emsp;&emsp;Notwithstanding subparagraph (B), if any public entity other than a designated State unit is obligated under Federal or State law, or assigned responsibility under State policy or under this paragraph, to provide or pay for any services that are also considered to be vocational rehabilitation services (other than those specified in paragraph (5)(E) and in paragraphs (1) through (4) and (14) of section 723(a) of this title), such public entity shall fulfill that obligation or responsibility, either directly or by contract or other arrangement.
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (B), if any public entity other than a designatedState unit is obligated under Federal or State law, or assigned responsibility under State policy or under this paragraph, to provide or pay for any services that are also considered to be vocational rehabilitation services (other than those specified in paragraph (5)(E) and in paragraphs (1) through (4) and (14) of section 723(a) of this title), such public entity shall fulfill that obligation or responsibility, either directly or by contract or other arrangement.
 
 #### (ii) Reimbursement
 
-&emsp;&emsp;&emsp;If a public entity other than the designated State unit fails to provide or pay for the services described in clause (i) for an eligible individual, the designated State unit shall provide or pay for such services to the individual. Such designated State unit may claim reimbursement for the services from the public entity that failed to provide or pay for such services. Such public entity shall reimburse the designated State unit pursuant to the terms of the interagency agreement or other mechanism described in this paragraph according to the procedures established insuch agreement or mechanism pursuant to subparagraph (B)(ii).
+&emsp;&emsp;&emsp;If a public entity other than the designated State unit fails to provide or pay for the services described in clause (i) for an eligible individual, the designated State unit shall provide or pay for such services to the individual. Such designated State unit may claim reimbursement for the services from the public entity that failed to provide or pay for such services. Such public entity shall reimburse the designated State unit pursuant to the terms of the interagency agreement or other mechanism described in this paragraph according to the procedures established in such agreement or mechanism pursuant to subparagraph (B)(ii).
 
 #### (D) Methods
 
@@ -242,7 +242,7 @@
 
 &emsp;&emsp;&emsp;(iii) of those applicants and eligible recipients who are individuals with significant disabilities—
 
-&emsp;&emsp;&emsp;&emsp;(I) the number who ended their participation in the program carried out under this subchapter and the number who achieved employment outcomes after receiving vocational rehabilitation services; and
+&emsp;&emsp;&emsp;&emsp;(I) the number who ended their participation in the program carried out underthis subchapter and the number who achieved employment outcomes after receiving vocational rehabilitation services; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the number who ended their participation in the program and who were employed 6 months and 12 months after securing or regaining employment, or, in the case of individuals whose employment outcome was to retain or advance in employment, who were employed 6 months and 12 months after achieving their employment outcome, including—
 
@@ -252,7 +252,7 @@
 
 &emsp;&emsp;&emsp;(iv) of those applicants and eligible recipients who are not individuals with significant disabilities—
 
-&emsp;&emsp;&emsp;&emsp;(I) the number who ended their participation in the program carried out underthis subchapter and the number who achieved employment outcomes after receiving vocational rehabilitation services and, for those who achieved employment outcomes, the average length of time to obtain employment; and
+&emsp;&emsp;&emsp;&emsp;(I) the number who ended their participation in the program carried out under this subchapter and the number who achieved employment outcomes after receiving vocational rehabilitation services and, for those who achieved employment outcomes, the average length of time to obtain employment; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the number who ended their participation in the program and who were employed 6 months and 12 months after securing or regaining employment, or, in the case of individuals whose employment outcome was to retain or advance in employment, who were employed 6 months and 12 months after achieving their employment outcome, including—
 
@@ -312,7 +312,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the availability and benefits of, and information on eligibility standards for, vocational rehabilitation services; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the promotion of equal, effective, and meaningful participation by individuals with disabilities in workforce development activities in the State throughthe promotion of program accessibility (including programmatic accessibility and physical accessibility), the use of nondiscriminatory policies and procedures, and the provision of reasonable accommodations, auxiliary aids and services, and rehabilitation technology, for individuals with disabilities;
+&emsp;&emsp;&emsp;&emsp;(II) the promotion of equal, effective, and meaningful participation by individuals with disabilities in workforce development activities in the State through the promotion of program accessibility (including programmatic accessibility and physical accessibility), the use of nondiscriminatory policies and procedures, and the provision of reasonable accommodations, auxiliary aids and services, and rehabilitation technology, for individuals with disabilities;
 
 &emsp;&emsp;&emsp;(ii) use of information and financial management systems that link all components of the statewide workforce development system, that link the components to other electronic networks, including nonvisual electronic networks, and that relate to such subjects as employment statistics, and information on job vacancies, career planning, and workforce investment activities;
 
@@ -456,7 +456,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the performance of the State on the standards and indicators established under section 726 of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(III) other available information on the operation and the effectiveness of the vocational rehabilitation program carried out in the State, including any reports received from the State Rehabilitation Council, under section 725(c) of this title and the findings and recommendations from monitoring activities conducted under section 727 of this title.
+&emsp;&emsp;&emsp;&emsp;(III) other available information on the operation and the effectiveness of the vocational rehabilitation program carried out in the State, including any reports received from the State Rehabilitation Council, under section 725(c) of this titleand the findings and recommendations from monitoring activities conducted under section 727 of this title.
 
 #### (iii) Service and outcome goals for categories in order of selection
 
@@ -516,7 +516,7 @@
 
 &emsp;The State plan shall provide that if, under special circumstances, the State plan includes provisions for the construction of facilities for community rehabilitation programs—
 
-&emsp;&emsp;(A) the Federal share of the cost of construction for the facilities for a fiscal year will not exceed an amount equal to 10 percent of the State's allotment under section 730 of this title for such year;
+&emsp;&emsp;(A) the Federal share of the cost of construction for the facilities for a fiscal yearwill not exceed an amount equal to 10 percent of the State's allotment under section 730 of this title for such year;
 
 &emsp;&emsp;(B) the provisions of section 776 <sup>2</sup> of this title (as in effect on the day before August 7, 1998) shall be applicable to such construction and such provisions shall be deemed to apply to such construction; and
 
@@ -696,7 +696,7 @@ Subsec. (a)(7)(B)(ii). Pub. L. 113–128, §412(a)(4)(B), added cl. (ii) and str
 
 Subsec. (a)(8)(A)(i). Pub. L. 113–128, §412(a)(5)(A), in introductory provisions, inserted "an accommodation or auxiliary aid or service or" after "prior to providing" and substituted "(5)(E)" for "(5)(D)".
 
-Subsec. (a)(8)(B). Pub. L. 113–128, §412(a)(5)(B)(i), in introductory provisions, substituted "Medicaid" for "medicaid", "workforce development system" for "workforce investment system", and "(5)(E)" for "(5)(D)", inserted "and, if appropriate, accommodations or auxiliary aids and services," before "that are included", and substituted "provision of such vocational rehabilitation services (including, if appropriate, accommodations or auxiliary aids and services)" for "provision of such vocational rehabilitation services".
+Subsec. (a)(8)(B). Pub. L. 113–128, §412(a)(5)(B)(i), in introductory provisions, substituted "Medicaid" for"medicaid", "workforce development system" for "workforce investment system", and "(5)(E)" for "(5)(D)", inserted "and, if appropriate, accommodations or auxiliary aids and services," before "that are included", and substituted "provision of such vocational rehabilitation services (including, if appropriate, accommodations or auxiliary aids and services)" for "provision of such vocational rehabilitation services".
 
 Subsec. (a)(8)(B)(iv). Pub. L. 113–128, §412(a)(5)(B)(ii), substituted "(5)(E)" for "(5)(D)" and inserted ", and accommodations or auxiliary aids and services" before period at end.
 
@@ -789,6 +789,10 @@ Subsec. (c). Pub. L. 113–128, §412(c), added subsec. (c).
 <b>1998</b>—Subsec. (a)(18)(C). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(4)(A)\], substituted "were utilized during the preceding year" for "will be utilized".
 
 Subsec. (a)(21)(A)(i)(II)(bb). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(4)(B)\], substituted "commission" for "Commission".
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Definitions of Terms in Pub. L. 113–128
 

@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) Developing, not later than 6 months after October 25, 2004, and updating periodically—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a strategic plan that establishes goals and priorities for the Program activities described under subsection (a)(2); and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a strategic plan that establishes goals and priorities for the Programactivities described under subsection (a)(2); and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) a detailed management plan to implement such strategic plan.
 
@@ -82,21 +82,29 @@
 
 &emsp;&emsp;&emsp;To the extent practicable, the Secretary of Agriculture and the Secretary of the Interior shall expedite any request for a permit to use public land under clause (ii)(VI).
 
-#### (4) Annual report
+#### (4) Biennial report
 
-&emsp;The Interagency Coordinating Committee shall transmit, at the time of the President's budget request to Congress, an annual report to the Committee on Science and the Committee on Resources of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate. Such report shall include—
+#### (A) In general
 
-&emsp;&emsp;(A) the Program budget for the current fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I); <sup>2</sup>
+&emsp;&emsp;Not less frequently than once every two years, the Interagency Coordinating Committee shall submit to the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology, the Committee on Energy and Commerce, the Committee on Natural Resources, and the Committee on Homeland Security of the House of Representatives a report on the Program. Such report shall include—
 
-&emsp;&emsp;(B) the proposed Program budget for the next fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I); <sup>2</sup>
+&emsp;&emsp;&emsp;(i) the Program budget for the current fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I); <sup>2</sup>
 
-&emsp;&emsp;(C) a description of the activities and results of the Program during the previous year, including an assessment of the effectiveness of the Program in furthering the goals established in the strategic plan under paragraph (3)(D)(i)(I); <sup>2</sup>
+&emsp;&emsp;&emsp;(ii) the proposed Program budget for the next fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I); <sup>2</sup>
 
-&emsp;&emsp;(D) a description of the extent to which the Program has incorporated the recommendations of the Advisory Committee;
+&emsp;&emsp;&emsp;(iii) a description of the activities and results of the Program during the previous year, including an assessment of the effectiveness of the Program in furthering the goals established in the strategic plan under paragraph (3)(D)(i)(I); <sup>2</sup>
 
-&emsp;&emsp;(E) a description of activities, including budgets for the current fiscal year and proposed budgets for the next fiscal year, that are carried out by Program agencies and contribute to the Program, but are not included in the Program; and
+&emsp;&emsp;&emsp;(iv) a description of the extent to which the Program has incorporated the recommendations of the Advisory Committee;
 
-&emsp;&emsp;(F) a description of the activities, including budgets for the current fiscal year and proposed budgets for the following fiscal year, related to the grant program carried out under subsection (b)(2)(A)(i).
+&emsp;&emsp;&emsp;(v) a description of activities, including budgets for the current fiscal year and proposed budgets for the next fiscal year, that are carried out by Program agencies and contribute to the Program, but are not included in the Program;
+
+&emsp;&emsp;&emsp;(vi) a description of the activities, including budgets for the current fiscal year and proposed budgets for the following fiscal year, related to the grant program carried out under subsection (b)(2)(A)(i); and
+
+&emsp;&emsp;&emsp;(vii) a statement regarding whether the Administrator of the Federal Emergency Management Agency has lowered or waived the cost share requirement for assistance provided under subsection (b)(2)(A)(i).
+
+#### (B) Support for preparation of report
+
+&emsp;&emsp;Each head of a Program agency shall submit to the Director of the National Institute of Standards and Technology such information as the Director may request for the preparation of a report under subparagraph (A) not later than 90 days after the date on which the Director requests such information.
 
 #### (5) Advisory Committee
 
@@ -118,7 +126,7 @@
 
 #### (C) Report
 
-&emsp;&emsp;Not later than 1 year after October 25, 2004, and at least once every 2 years thereafter, the Advisory Committee shall report to the Director on its findings of the assessment carried out under subparagraph (B) and its recommendations for ways to improve theProgram. In developing recommendations, the Committee shall consider the recommendations of the United States Geological Survey Scientific Earthquake Studies Advisory Committee.
+&emsp;&emsp;Not later than 1 year after October 25, 2004, and at least once every 2 years thereafter, the Advisory Committee shall report to the Director on its findings of the assessment carried out under subparagraph (B) and its recommendations for ways to improve the Program. In developing recommendations, the Committee shall consider the recommendations of the United States Geological Survey Scientific Earthquake Studies Advisory Committee.
 
 #### (D) Federal Advisory Committee Act application
 
@@ -168,7 +176,7 @@
 
 &emsp;The United States Geological Survey shall report on significant domestic and international earthquakes and conduct research and other activities necessary to characterize and identify earthquake hazards, assess earthquake risks, monitor seismic activity, and improve earthquake forecasts. In carrying out this paragraph, the Director of the United States Geological Survey shall—
 
-&emsp;&emsp;(A) conduct a systematic assessment of the seismic risks in each region of the Nation prone to earthquakes, including, where appropriate, the establishment and operation of intensive monitoring projects on hazardous faults, seismic microzonation studies in urban and other developed areaswhere earthquake risk is determined to be significant, and engineering seismology studies;
+&emsp;&emsp;(A) conduct a systematic assessment of the seismic risks in each region of the Nation prone to earthquakes, including, where appropriate, the establishment and operation of intensive monitoring projects on hazardous faults, seismic microzonation studies in urban and other developed areas where earthquake risk is determined to be significant, and engineering seismology studies;
 
 &emsp;&emsp;(B) work with officials of State and local governments to ensure that they are knowledgeable about the specific seismic risks in their areas;
 
@@ -218,7 +226,7 @@
 
 &emsp;&emsp;&emsp;(vii) include to the maximum extent practicable diverse institutions, including Historically Black Colleges and Universities and those serving large proportions of Hispanics, Native Americans, Asian-Pacific Americans, and other underrepresented populations;
 
-&emsp;&emsp;&emsp;(viii) develop, in conjunction with the Federal Emergency Management Agency, the National Institute of Standards and Technology, and the United States Geological Survey, a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner; and
+&emsp;&emsp;&emsp;(viii) develop, in conjunction with the Federal Emergency Management Agency, the National Institute of Standards and Technology, and the United States Geological Survey, a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time ofthe development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner; and
 
 &emsp;&emsp;&emsp;(ix) support the Director of the National Institute of Standards and Technology in the completion of programmatic goals.
 
@@ -264,47 +272,13 @@
 
 (Pub. L. 95–124, §5, Oct. 7, 1977, 91 Stat. 1099; Pub. L. 96–472, title I, §101, Oct. 19, 1980, 94 Stat. 2257; Pub. L. 99–105, §§5, 6, Sept. 30, 1985, 99 Stat. 475; Pub. L. 100–252, §2, Feb. 29, 1988, 102 Stat. 18; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–707, title I, §109(u), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 101–614, §5, Nov. 16, 1990, 104 Stat. 3232; Pub. L. 105–47, §3, Oct. 1, 1997, 111 Stat. 1162; Pub. L. 106–503, title II, §§206, 208, Nov. 13, 2000, 114 Stat. 2307; Pub. L. 108–360, title I, §103, Oct. 25, 2004, 118 Stat. 1669; Pub. L. 115–307, §§2(c)(1)(B), 3(a)–(b)(4)(A), (c)–(f), 8(a)(1), (c), Dec. 11, 2018, 132 Stat. 4409–4413, 4417.)
 
-#### Amendment of Subsection (a)(4)
-
-<i>Pub. L. 115–307, §3(b)(4), Dec. 11, 2018, 132 Stat. 4411, made amendments to subsection (a)(4) of this section, effective on the first day of the first fiscal year beginning after Dec. 11, 2018. After such effective date, subsection (a)(4) of this section, as amended by section 8(c) of Pub. L. 115–307, will read as follows:</i>
-
-#### <i>(4) Biennial report</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>Not less frequently than once every two years, the Interagency Coordinating Committee shall submit to the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology, the Committee on Energy and Commerce, the Committee on Natural Resources, and the Committee on Homeland Security of the House of Representatives a report on the Program. Such report shall include—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the Program budget for the current fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I);</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the proposed Program budget for the next fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I);</i>
-
-&emsp;&emsp;&emsp;<i>(iii) a description of the activities and results of the Program during the previous year, including an assessment of the effectiveness of the Program in furthering the goals established in the strategic plan under paragraph (3)(D)(i)(I);</i>
-
-&emsp;&emsp;&emsp;<i>(iv) a description of the extent to which the Program has incorporated the recommendations of the Advisory Committee;</i>
-
-&emsp;&emsp;&emsp;<i>(v) a description of activities, including budgets for the current fiscal year and proposed budgets for the next fiscal year, that are carried out by Program agencies and contribute to the Program, but are not included in the Program;</i>
-
-&emsp;&emsp;&emsp;<i>(vi) a description of the activities, including budgets for the current fiscal year and proposed budgets for the following fiscal year, related to the grant program carried out under subsection (b)(2)(A)(i); and</i>
-
-&emsp;&emsp;&emsp;<i>(vii) a statement regarding whether the Administrator of the Federal Emergency Management Agency has lowered or waived the cost share requirement for assistance provided under subsection (b)(2)(A)(i).</i>
-
-#### <i>(B) Support for preparation of report</i>
-
-&emsp;&emsp;<i>Each head of a Program agency shall submit to the Director of the National Institute of Standards and Technology such information as the Director may request for the preparation of a report under subparagraph (A) not later than 90 days after the date on which the Director requests such information.</i>
-
-<i>See 2018 Amendment notes below.</i>
-
 #### References in Text
 
-Paragraph (3)(D), referred to in subsec. (a)(4)(A) to (C), was amended generally by Pub. L. 115–307, §3(b)(3), Dec. 11, 2018, 132 Stat. 4410, and, as so amended, does not contain a cl. (i)(I). For similar provisions after amendment by Pub. L. 115–307, see cl. (ii)(I)(aa) of par. (3)(D).
+Paragraph (3)(D), referred to in subsec. (a)(4)(A)(i) to (iii), was amended generally by Pub. L. 115–307, §3(b)(3), Dec. 11, 2018, 132 Stat. 4410, and, as so amended, does not contain a cl. (i)(I). For similar provisions after amendment by Pub. L. 115–307, see cl. (ii)(I)(aa) of par. (3)(D).
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (a)(5)(D), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Section 5133 of this title, referred to in subsec. (b)(2)(B)(ii), was in the original "section 203 of the Disaster Relief Act of 1974 (42 U.S.C. 5133(a))", and was translated as if it had been a reference to section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which was formerly known as the Disaster Relief Act of 1974, to reflect the probable intent of Congress. Subsec. (a) of section 5133 of this title defines "small impoverished community".
-
-#### Codification
-
-Section 8(c) of Pub. L. 115–307, which directed the amendment of cls. (i) to (iii) of subsec. (a)(4)(A) of this section, was executed to subpars. (A) to (C) of subsec. (a)(4) to reflect the probable intent of Congress. At the time of the amendments made by section 8(c) of Pub. L. 115–307, there were no cls. (i) to (iii) of subsec. (a)(4)(A) because the redesignations of subpars. (A) to (C) as cls. (i) to (iii) made by section 3(b)(4)(A)(ii) of Pub. L. 115–307 were not yet effective.
 
 #### Amendments
 
@@ -328,13 +302,11 @@ Subsec. (a)(4). Pub. L. 115–307, §3(b)(4)(A)(ii), (vi), (vii), designated exi
 
 Pub. L. 115–307, §3(b)(4)(A)(i), substituted "Biennial" for "Annual" in heading.
 
-Subsec. (a)(4)(A). Pub. L. 115–307, §8(c)(1), substituted "paragraph (3)(D)(i)(I)" for "subparagraph (3)(A)". See Codification note above.
+Subsec. (a)(4)(A)(i), (ii). Pub. L. 115–307, §8(c)(1), substituted "paragraph (3)(D)(i)(I)" for "subparagraph (3)(A)".
+
+Subsec. (a)(4)(A)(iii). Pub. L. 115–307, §8(c)(2), substituted "under paragraph (3)(D)(i)(I)" for "under (3)(A)".
 
 Subsec. (a)(4)(A)(vii). Pub. L. 115–307, §3(b)(4)(A)(iii)–(v), added cl. (vii).
-
-Subsec. (a)(4)(B). Pub. L. 115–307, §8(c)(1), substituted "paragraph (3)(D)(i)(I)" for "subparagraph (3)(A)". See Codification note above.
-
-Subsec. (a)(4)(C). Pub. L. 115–307, §8(c)(2), substituted "under paragraph (3)(D)(i)(I)" for "under (3)(A)". See Codification note above.
 
 Subsec. (b)(1)(A). Pub. L. 115–307, §3(c)(1)(A), which directed substitution of "constructing, evaluating, and retrofitting" for "and constructing,", was executed by making the substitution for "and constructing" to reflect the probable intent of Congress.
 
@@ -428,7 +400,7 @@ Subsec. (j). Pub. L. 100–252 added subsec. (j).
 
 Subsec. (b)(2)(F), (G). Pub. L. 99–105, §6, added subpar. (F) and redesignated former subpar. (F) as (G).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–472, §101(a), inserted provisions relating to non-Federal participation in par. (2),and substituted provisions respecting the elements described in subsec. (f) of this section, for provisions respecting the implementation plan described in subsec. (f) of this section in par. (3).
+<b>1980</b>—Subsec. (a). Pub. L. 96–472, §101(a), inserted provisions relating to non-Federal participation in par. (2), and substituted provisions respecting the elements described in subsec. (f) of this section, for provisions respecting the implementation plan described in subsec. (f) of this section in par. (3).
 
 Subsec. (b). Pub. L. 96–472, §101(b), substituted provisions setting forth the duties of the President and the Director of the Federal Emergency Management Agency with respect to the Program for provisions setting forth the duties of the President with respect to the program and plan.
 
@@ -439,12 +411,6 @@ Subsec. (e)(6). Pub. L. 96–472, §101(d), substituted "potential" for "politic
 Subsec. (f). Pub. L. 96–472, §101(e), substituted in provision preceding par. (1), provision directing that the mitigation elements of the program are to be as specified in pars. (1) to (8) for provision authorizing the establishment of a implementation plan, year-by-year targets, and Federal and non-Federal roles, in par. (1), substituted provision including as one of the mitigating elements, issuance of earthquake predictions for provision including in the implementation plan development of measures in preparing for earthquakes, actual predictions, warnings, and insuring a comprehensive response to an earthquake, added pars. (7) and (8), and struck out provision following par. (8), that when the implementation plan developed by the President contemplates specific action to be taken by a Federal agency, department, or entity, and at the end of the 30-day period beginning on the date the President submits such plan to the appropriate authorizing committees of Congress and such action has not been initiated, the President submit to such committees a report why such action has not been taken.
 
 Subsec. (i). Pub. L. 96–472, §101(f), added subsec. (i).
-
-#### Change of Name
-
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2018 Amendment
 
@@ -460,7 +426,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Pub. L. 107–228, div. B, title XVI, §1602, Sept. 30, 2002, 116 Stat. 1460, provided that: "The head of the Air Force Technical Applications Center shall make available to the public, immediately upon receipt or as soon after receipt as is practicable, all raw seismological data provided to the United States Government by any international monitoring organization that is directly responsible for seismological monitoring."
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1116\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: "The United States Government shall, to the maximum extent practicable, make available to the public in real time, or as quickly as possible, all raw seismological data provided to the United States Government by any international organization that is directly responsible for seismological monitoring."
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1116\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: "The United States Government shall, to themaximum extent practicable, make available to the public in real time, or as quickly as possible, all raw seismological data provided to the United States Government by any international organization that is directly responsible for seismological monitoring."
 
 #### Authorization of Real-Time Seismic Hazard Warning System Development, and Other Activities
 
@@ -520,7 +486,7 @@ Reports on progress.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 120 days after the date of enactment of this Act \[Oct. 1, 1997\], theDirector shall prepare and submit to Congress a report that contains a plan for implementing a real-time seismic hazard warning system.
+In general.—Not later than 120 days after the date of enactment of this Act \[Oct. 1, 1997\], the Director shall prepare and submit to Congress a report that contains a plan for implementing a real-time seismic hazard warning system.
 
 &emsp;&emsp;"(B)
 
@@ -606,7 +572,7 @@ Contents of assessment.—The assessment conducted under this subsection shall i
 
 &emsp;&emsp;"(A) a review of the disaster training programs offered by the Federal Emergency Management Agency at the time of the assessment;
 
-&emsp;&emsp;"(B) an estimate of the number and types of emergency response personnel that have, during the period beginning on January 1, 1990 and ending on July 1, 1997, sought the training referred to in subparagraph (A), but have been unable to receive that training as a result of the oversubscription of the training capabilities of the Federal Emergency Management Agency; and
+&emsp;&emsp;"(B) an estimate of the number and types of emergency response personnel that have, during the period beginning on January 1, 1990 and ending onJuly 1, 1997, sought the training referred to in subparagraph (A), but have been unable to receive that training as a result of the oversubscription of the training capabilities of the Federal Emergency Management Agency; and
 
 &emsp;&emsp;"(C) a recommendation on the need to provide additional Federal disaster-response training centers.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b), an Indian tribe that has in place an approved plan under this chapter may use the funds made available for the plan under this chapter—
+Subject to subsection (b), an Indian tribe that has in place an approved plan under this chaptermay use the funds made available for the plan under this chapter—
 
 &emsp;(1) to place participants in training positions with employers; and
 

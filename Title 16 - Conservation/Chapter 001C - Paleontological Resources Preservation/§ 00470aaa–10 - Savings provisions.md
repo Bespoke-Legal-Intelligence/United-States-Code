@@ -30,7 +30,7 @@ surveying the public lands.", which are classified to sections 473 to 475, 477, 
 
 #### Amendments
 
-<b>2014</b>—Par. (1). Pub. L. 113–287, which directed amendment of par. (1) by substituting "subchapter 3 of chapter 1007 of title 54" for "Public Law 94–429 (commonly known as the 'Mining in the Parks Act' (16 U.S.C. 1901 et seq.)", was executed by making the substitution for "Public Law 94–429 (commonly known as the 'Mining in the Parks Act') (16 U.S.C. 1901 et seq.)", to reflect the probable intent of Congress.
+<b>2014</b>—Par. (1). Pub. L. 113–287, which directed amendment of par. (1) by substituting "subchapter 3 of chapter 1007 of title 54" for "Public Law 94–429 (commonly known as the 'Mining in the Parks Act' (16 U.S.C. 1901et seq.)", was executed by making the substitution for "Public Law 94–429 (commonly known as the 'Mining in the Parks Act') (16 U.S.C. 1901 et seq.)", to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

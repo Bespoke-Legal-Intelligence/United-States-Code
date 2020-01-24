@@ -26,7 +26,7 @@ As used in this chapter:
 
 > The term "food" as used in clause (vi) of this subparagraph includes poultry and poultry products (as defined in sections 4(e) and 4(f) of the Poultry Products Inspection Act \[21 U.S.C. 453(e) and (f)\]), meat and meat food products (as defined in section 1(j) of the Federal Meat Inspection Act \[21 U.S.C. 601(j)\]), and eggs and egg products (as defined in section 4 of the Egg Products Inspection Act \[21 U.S.C. 1033\]).
 
-(3) The term "commerce" means trade, traffic, transportation, or other commerce (A) between a place in a State and any place outside of such State, or (B) which affects trade, traffic, transportation, or commerce described in clause (A).
+(3) The term "commerce" means trade, traffic, transportation, or other commerce (A) betweena place in a State and any place outside of such State, or (B) which affects trade, traffic, transportation, or commerce described in clause (A).
 
 (4) The term "conditions of use" means the circumstances, as determined by the Administrator, under which a chemical substance is intended, known, or reasonably foreseen to be manufactured, processed, distributed in commerce, used, or disposed of.
 
@@ -86,7 +86,7 @@ The Atomic Energy Act of 1954, referred to in par. (2)(B)(iv), is act Aug. 1, 19
 
 The Harmonized Tariff Schedule of the United States, referred to in par. (9), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
-For definition of Canal Zone, Governor of the Canal Zone, and Panama Canal Company, referred to in par. (16), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
+For definition of Canal Zone, Governor of the Canal Zone, and Panama Canal Company, referred to in par.\(16), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
 

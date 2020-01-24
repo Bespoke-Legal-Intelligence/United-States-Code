@@ -142,7 +142,7 @@ Income Protection Allowance
 
 &emsp;The employment expense allowance is determined as follows (or a successor table prescribed by the Secretary under section 1087rr of this title):
 
-&emsp;&emsp;(A) If the student is married and the student's spouse is employed in the year forwhich their income is reported, such allowance is equal to the lesser of $2,500 or 35 percent of the earned income of the student or spouse with the lesser earned income.
+&emsp;&emsp;(A) If the student is married and the student's spouse is employed in the year for which their income is reported, such allowance is equal to the lesser of $2,500 or 35 percent of the earned income of the student or spouse with the lesser earned income.
 
 &emsp;&emsp;(B) If a student qualifies as a surviving spouse or as a head of household as defined in section 2 of title 26, such allowance is equal to the lesser of $2,500 or 35 percent of the student's earned income.
 
@@ -256,7 +256,7 @@ Assessment From Adjusted Available Income (AAI)
 
 In the case of a student who is divorced or separated, or whose spouse has died, the spouse's income and assets shall not be considered in determining the family's available income or assets.
 
-(Pub. L. 89–329, title IV, §477, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1465; amended Pub. L. 100–50, §14(1)–(6), (8), (18), (19), June 3, 1987, 101 Stat. 349–351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat.597; Pub. L. 103–208, §2(g)(2), (7), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(i), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §475, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(c)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(c), Sept. 27, 2007, 121 Stat. 802; Pub. L. 111–39, title IV, §406(a)(3), July 1, 2009, 123 Stat. 1948.)
+(Pub. L. 89–329, title IV, §477, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1465; amended Pub. L. 100–50, §14(1)–(6), (8), (18), (19), June 3, 1987, 101 Stat. 349–351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 597; Pub. L. 103–208, §2(g)(2), (7), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(i), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §475, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(c)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(c), Sept. 27, 2007, 121 Stat. 802; Pub. L. 111–39, title IV, §406(a)(3), July 1, 2009, 123 Stat. 1948.)
 
 #### Amendments
 

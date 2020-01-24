@@ -82,7 +82,7 @@ Pub. L. 101–549, title VIII, §807, Nov. 15, 1990, 104 Stat. 2689, provided th
 
 #### Combustion of Contaminated Used Oil in Ships
 
-Pub. L. 101–549, title VIII, §813, Nov. 15, 1990, 104 Stat. 2693, provided that: "Within 2 years after the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administrator of the Environmental Protection Agency shall complete a study and submit a report to Congress evaluating the health and environmental impacts of the combustion of contaminated used oil in ships, the reasons for using such oil for such purposes, the alternatives to such use, the costs of such alternatives, and other relevant factors and impacts. In preparing such study, the Administrator shall obtain theview and comments of all interested persons and shall consult with the Secretary of Transportation and the Secretary of the department in which the Coast Guard is operating."
+Pub. L. 101–549, title VIII, §813, Nov. 15, 1990, 104 Stat. 2693, provided that: "Within 2 years after the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administrator of the Environmental Protection Agency shall complete a study and submit a report to Congress evaluating the health and environmental impacts of the combustion of contaminated used oil in ships, the reasons for using such oil for such purposes, the alternatives to such use, the costs of such alternatives, and other relevant factors and impacts. In preparing such study, the Administrator shall obtain the view and comments of all interested persons and shall consult with the Secretary of Transportation and the Secretary of the department in which the Coast Guard is operating."
 
 #### Extension to Aug. 31, 1970 of Authorization Period for Fiscal Year 1970
 

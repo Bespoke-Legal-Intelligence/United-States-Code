@@ -33,7 +33,7 @@ A prior chapter 861, consisting of sections 8811 to 8820, related to separation 
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 631 of this title as this chapter and items 7204, 7205, 7207, 7211, 7212, 7214, 7216, 7219 to 7229, 7231, and 7233 to 7235 as 8604, 8605, 8607, 8611, 8612, 8614, 8616, 8619 to 8629, 8631, and 8633 to 8635, respectively.
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter631 of this title as this chapter and items 7204, 7205, 7207, 7211, 7212, 7214, 7216, 7219 to 7229, 7231, and 7233 to 7235 as 8604, 8605, 8607, 8611, 8612, 8614, 8616, 8619 to 8629, 8631, and 8633 to 8635, respectively.
 
 <b>2015</b>—Pub. L. 114–92, div. A, title III, §312(b), Nov. 25, 2015, 129 Stat. 789, added item 7235.
 

@@ -22,7 +22,7 @@ The Secretary shall furnish to the Council an executive secretary and such secre
 
 (1) Members of the Council shall each be entitled to receive the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Council.
 
-(2) While away from their homes or regular places of business in the performance of services for Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5.<sup>1</sup>
+(2) While away from their homes or regular places of business in the performance of services for Council,<sup>2</sup> members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5.<sup>1</sup>
 
 #### (e) Termination
 
@@ -49,4 +49,6 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "for the Council,".</i>
 

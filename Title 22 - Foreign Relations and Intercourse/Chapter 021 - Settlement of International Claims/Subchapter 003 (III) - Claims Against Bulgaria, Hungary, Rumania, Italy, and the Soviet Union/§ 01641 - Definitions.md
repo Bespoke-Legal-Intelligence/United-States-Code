@@ -4,7 +4,7 @@ As used in this subchapter the term—
 
 &emsp;(1) "Person" means a natural person, partnership, association, other unincorporated body, corporation, or body politic.
 
-&emsp;(2) "National of the United States" means (A) a natural person who is a citizen of theUnited States, or who owes permanent allegiance to the United States, and (B) a corporation or other legal entity which is organized under the laws of the United States, any State or Territory thereof, or the District of Columbia, if natural persons who are nationals of the United States own, directly or indirectly, more than 50 per centum of the outstanding capital stock or other beneficial interest in such legal entity. It does not include aliens.
+&emsp;(2) "National of the United States" means (A) a natural person who is a citizen of the United States, or who owes permanent allegiance to the United States, and (B) a corporation or other legal entity which is organized under the laws of the United States, any State or Territory thereof, or the District of Columbia, if natural persons who are nationals of the United States own, directly or indirectly, more than 50 per centum of the outstanding capital stock or other beneficial interest in such legal entity. It does not include aliens.
 
 &emsp;(3) "Treaty of peace", with respect to a country, means the treaty of peace with that country signed at Paris, France, February 10, 1947, which came into force between that country and the United States on September 15, 1947.
 
@@ -24,7 +24,7 @@ As used in this subchapter the term—
 
 #### References in Text
 
-Reorganization Plan Numbered 1 of 1954, referred to in par. (8), is Reorg. Plan No. 1 of 1954, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, which is set out as a note under section 1622 of this title.
+Reorganization Plan Numbered 1 of 1954, referred to in par. (8), is Reorg. Plan No. 1 of 1954, eff. July 1, 1954,19 F.R. 3985, 68 Stat. 1279, which is set out as a note under section 1622 of this title.
 
 #### Transfer of Foreign Claims Settlement Commission of the United States as Separate Agency Within Department of Justice
 

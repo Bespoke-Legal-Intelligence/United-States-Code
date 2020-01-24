@@ -26,7 +26,7 @@ In developing strategies under subsection (a), the Secretary shall consult with 
 
 #### (2) Report
 
-&emsp;The Secretary shall transmit to Congress a report on the results of the study conductedunder paragraph (1), together with any recommendations of the Secretary that may be developed in a strategy under subsection (a).
+&emsp;The Secretary shall transmit to Congress a report on the results of the study conducted under paragraph (1), together with any recommendations of the Secretary that may be developed in a strategy under subsection (a).
 
 #### (e) Great Lakes tributary model
 

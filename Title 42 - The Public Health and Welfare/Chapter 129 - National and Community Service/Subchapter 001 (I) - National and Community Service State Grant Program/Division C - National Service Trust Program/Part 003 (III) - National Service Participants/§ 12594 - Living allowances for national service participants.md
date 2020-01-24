@@ -98,7 +98,7 @@ Subsec. (b). Pub. L. 111–13, §1315(2), substituted "may be used to pay the ta
 
 Subsec. (c). Pub. L. 111–13, §1315(3), substituted "section 12572(c)(1)(D)" for "section 12572(a)(8)" and "subsection (a)(2)" for "subsection (a)(3) of this section" in introductory provisions, redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "the applicant shall apply for such assistance only by submitting an application to the Corporation for assistance on a competitive basis; and".
 
-Subsec. (d)(1). Pub. L. 111–13, §1315(4)(A), substituted "shall provide or make available" for "shall provide" and struck out second sentence which read as follows: "Not more than 85 percent of the cost of a premium shall be provided by the Corporation, with the remaining cost paid by the entity receiving assistance under section 12571 of this title."
+Subsec. (d)(1). Pub. L. 111–13, §1315(4)(A), substituted "shall provide or make available" for "shall provide" and struck out second sentence which read as follows:"Not more than 85 percent of the cost of a premium shall be provided by the Corporation, with the remaining cost paid by the entity receiving assistance under section 12571 of this title."
 
 Subsec. (d)(2). Pub. L. 111–13, §1315(4)(B), substituted "provide from its own funds or make available" for "provide from its own funds".
 

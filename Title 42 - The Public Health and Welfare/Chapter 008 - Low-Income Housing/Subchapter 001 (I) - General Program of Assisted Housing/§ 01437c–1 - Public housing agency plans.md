@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Effective beginning upon October 1, 1999, each public housing agency shall submit tothe Secretary an annual public housing agency plan under this subsection for each fiscal year for which the public housing agency receives assistance under section 1437f(o) or 1437g of this title.
+&emsp;Effective beginning upon October 1, 1999, each public housing agency shall submit to the Secretary an annual public housing agency plan under this subsection for each fiscal year for which the public housing agency receives assistance under section 1437f(o) or 1437g of this title.
 
 #### (2) Updates
 
@@ -134,7 +134,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 &emsp;&emsp;(B) any policies or programs of the public housing agency for the enhancement of the economic and social self-sufficiency of assisted families;
 
-&emsp;&emsp;(C) how the public housing agency will comply with the requirements of subsections (c) and (d) of section 1437j of this title (relating to community service and treatment of income changes resulting from welfare program requirements).
+&emsp;&emsp;(C) how the public housing agency will comply with the requirements of subsections\(c) and (d) of section 1437j of this title (relating to community service and treatment of income changes resulting from welfare program requirements).
 
 #### (13) Domestic violence, dating violence, sexual assault, or stalking programs
 
@@ -172,7 +172,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 #### (16) Civil rights certification
 
-&emsp;A certification by the public housing agency that the public housing agency will carry out the public housing agency plan in conformity with title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], the Fair Housing Act \[42U.S.C. 3601 et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and title II of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12131 et seq.\], and will affirmatively further fair housing.
+&emsp;A certification by the public housing agency that the public housing agency will carry out the public housing agency plan in conformity with title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], the Fair Housing Act \[42 U.S.C. 3601 et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and title II of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12131 et seq.\], and will affirmatively further fair housing.
 
 #### (17) Annual audit
 
@@ -208,7 +208,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), nothing in this section may be construed to exempt a qualified public housing agency from the requirement under paragraph (1) to establish 1 or more resident advisory boards. Notwithstanding that qualified public housing agencies are exempt under subsection (b)(3)(A) from the requirement under this section to prepare and submit an annual public housing plan, each qualified public housing agency shall consult with, and consider the recommendations of the resident advisory boards for the agency, at the annual public hearing required under subsection (f)(5), regarding any changes to the goals, objectives, and policies of that agency.
+&emsp;&emsp;Except as provided in subparagraph (B), nothing in this section may be construed to exempt a qualified public housing agency from the requirement under paragraph (1) to establish 1 or more resident advisory boards. Notwithstanding that qualified public housing agencies are exempt under subsection (b)(3)(A) from the requirement under this section to prepare and submit an annualpublic housing plan, each qualified public housing agency shall consult with, and consider the recommendations of the resident advisory boards for the agency, at the annual public hearing required under subsection (f)(5), regarding any changes to the goals, objectives, and policies of that agency.
 
 #### (B) Applicability of waiver authority
 
@@ -244,7 +244,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 #### (4) Advisory board consultation enforcement
 
-&emsp;Pursuant to a written request made by the resident advisory board for a public housing agency that documents a failure on the part of the agency to provide adequate notice and opportunity for comment under this subsection and a finding by the Secretary of good cause within the time period provided for in subsection (i)(4), the Secretary may require the public housing agency to adequately remedysuch failure before final approval of the public housing agency plan under this section.
+&emsp;Pursuant to a written request made by the resident advisory board for a public housing agency that documents a failure on the part of the agency to provide adequate notice and opportunity for comment under this subsection and a finding by the Secretary of good cause within the time period provided for in subsection (i)(4), the Secretary may require the public housing agency to adequately remedy such failure before final approval of the public housing agency plan under this section.
 
 #### (5) Qualified public housing agencies
 
@@ -290,7 +290,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 #### (1) Initial submission
 
-&emsp;Each public housing agency shall submit the initial plan required by this section, and any amendment or modification to the initial plan, to the Secretary at such time and in such form as the Secretary shall require.
+&emsp;Each public housing agency shall submit the initial plan required by this section, and anyamendment or modification to the initial plan, to the Secretary at such time and in such form as the Secretary shall require.
 
 #### (2) Annual submission
 
@@ -402,7 +402,7 @@ Pub. L. 105–276, title V, §511(b), Oct. 21, 1998, 112 Stat. 2538, provided th
 
 "(1)
 
-Interim rule.—Not later than 120 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue an interim rule to require the submission of an interim public housing agency plan by each public housing agency, as required by section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section). Theinterim rule shall provide for a public comment period of not less than 60 days.
+Interim rule.—Not later than 120 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue an interim rule to require the submission of an interim public housing agency plan by each public housing agency, as required by section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section). The interim rule shall provide for a public comment period of not less than 60 days.
 
 "(2)
 

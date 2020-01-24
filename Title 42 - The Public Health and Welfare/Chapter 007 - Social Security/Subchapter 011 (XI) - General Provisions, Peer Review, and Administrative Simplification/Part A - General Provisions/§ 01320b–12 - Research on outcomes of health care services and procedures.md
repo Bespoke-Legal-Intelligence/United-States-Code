@@ -126,7 +126,7 @@ The Secretary may conduct or support research with respect to improving methods 
 
 #### (2) Specifications
 
-&emsp;For the purpose of carrying out this section, for each of the fiscal years 1990 through 1992 anamount equal to two-thirds of the amounts authorized to be appropriated under paragraph (1), and for each of the fiscal years 1993 and 1994 an amount equal to 70 percent of such amounts, are to be appropriated in the following proportions from the following trust funds:
+&emsp;For the purpose of carrying out this section, for each of the fiscal years 1990 through 1992 an amount equal to two-thirds of the amounts authorized to be appropriated under paragraph (1), and for each of the fiscal years 1993 and 1994 an amount equal to 70 percent of such amounts, are to be appropriated in the following proportions from the following trust funds:
 
 &emsp;&emsp;(A) 60 percent from the Federal Hospital Insurance Trust Fund (established under section 1395i of this title).
 

@@ -26,7 +26,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (c) Voluntary market-based program for debt reduction and sustainable growth
 
-In connection with the discussions initiated pursuant to subsection (b), the Secretary shall instruct the United States Executive Director of the International Bank for Reconstruction andDevelopment to propose that a country be considered to be participating in a voluntary market-based program of debt reduction for purposes of subsection (b) if the creditors of such country agree to significantly reduce the debt service of such country through forgiveness of a percentage of the interest owed by such country on any sovereign debt or through any other means.
+In connection with the discussions initiated pursuant to subsection (b), the Secretary shall instruct the United States Executive Director of the International Bank for Reconstruction and Development to propose that a country be considered to be participating in a voluntary market-based program of debt reduction for purposes of subsection (b) if the creditors of such country agree to significantly reduce the debt service of such country through forgiveness of a percentage of the interest owed by such country on any sovereign debt or through any other means.
 
 #### (d) Reports
 
@@ -62,7 +62,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 2 years after July 21, 2010, see section 939(g) of Pub. L. 111–203, set out as a note under section 24a of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 2 years after July 21, 2010, see section 939(g) of Pub. L. 111–203, setout as a note under section 24a of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

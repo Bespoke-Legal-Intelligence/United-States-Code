@@ -26,7 +26,7 @@
 
 &emsp;(12) improved logistical coordination and support for Arctic research and better dissemination of research data and information is necessary to increase the efficiency and utility of national Arctic research efforts;
 
-&emsp;(13) a comprehensive national policy and program plan to organize and fund currently neglected scientific research with respect tothe Arctic is necessary to fulfill national objectives in Arctic research;
+&emsp;(13) a comprehensive national policy and program plan to organize and fund currently neglected scientific research with respect to the Arctic is necessary to fulfill national objectives in Arctic research;
 
 &emsp;(14) the Federal Government, in cooperation with State and local governments, should focus its efforts on the collection and characterization of basic data related to biological, materials, geophysical, social, and behavioral phenomena in the Arctic;
 

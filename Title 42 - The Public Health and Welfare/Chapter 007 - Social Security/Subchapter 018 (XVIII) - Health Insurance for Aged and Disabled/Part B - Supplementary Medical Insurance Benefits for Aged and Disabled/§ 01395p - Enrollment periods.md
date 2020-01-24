@@ -12,7 +12,7 @@ In the case of individuals who first satisfy paragraph (1) or (2) of section 139
 
 #### (d) Eligible individuals on or after March 1, 1966
 
-In the case of an individual who first satisfies paragraph (1) or (2) of section 1395o of this title on or after March 1, 1966, his initial enrollment period shall begin on the first day of the third month before the month in which he first satisfies such paragraphs and shall end seven months later. Where the Secretary finds that an individual who has attained age 65 failed to enroll under this part during his initial enrollment period (based on a determination by the Secretary of the month in which such individual attained age 65), because such individual (relying on documentary evidence) was mistaken as to his correct date of birth, the Secretary shall establish for such individual an initial enrollment period based on his attaining age 65 at the time shown in such documentary evidence (with a coverage period determined under section 1395q of this title as though he had attained such age at that time).
+In the case of an individual who first satisfies paragraph (1) or (2) of section 1395o of this title on or after March 1, 1966, his initial enrollment period shall begin on the first day of the third month before the month in which he first satisfies such paragraphs and shall end seven months later. Where the Secretary finds that an individual who has attained age 65 failed to enrollunder this part during his initial enrollment period (based on a determination by the Secretary of the month in which such individual attained age 65), because such individual (relying on documentary evidence) was mistaken as to his correct date of birth, the Secretary shall establish for such individual an initial enrollment period based on his attaining age 65 at the time shown in such documentary evidence (with a coverage period determined under section 1395q of this title as though he had attained such age at that time).
 
 #### (e) General enrollment period
 
@@ -40,7 +40,7 @@ All of the provisions of this section shall apply to individuals satisfying subs
 
 &emsp;(B) in the case of an individual who is not entitled to benefits under section 402 of this title on the first day of his initial enrollment period and does not become so entitled during the first 3 months of such period, his enrollment shall be deemed to have occurred in the month in which he files the application establishing his entitlement to hospital insurance benefits provided such filing occurs during the last 4 months of his initial enrollment period; and
 
-&emsp;(3) in the case of an individual who would otherwise satisfy subsection (f) but does not establish his entitlement to hospital insurance benefits until after the last day of his initial enrollment period (as defined in subsection (d)of this section), his enrollment shall be deemed to have occurred on the first day of the earlier of the then current or immediately succeeding general enrollment period (as defined in subsection (e) of this section).
+&emsp;(3) in the case of an individual who would otherwise satisfy subsection (f) but does not establish his entitlement to hospital insurance benefits until after the last day of his initial enrollment period (as defined in subsection (d) of this section), his enrollment shall be deemed to have occurred on the first day of the earlier of the then current or immediately succeeding general enrollment period (as defined in subsection (e) of this section).
 
 #### (h) Waiver of enrollment period requirements where individual's rights were prejudiced by administrative error or inaction
 
@@ -208,7 +208,7 @@ Subsec. (g)(3). Pub. L. 96–499, §945(b)(2), substituted "the month in which t
 
 <b>1972</b>—Subsec. (b). Pub. L. 92–603, §260, struck out provisions preventing enrollment under this part more than three years after first opportunity for such enrollment.
 
-Subsec. (c). Pub. L. 92–603, §201(c)(2)(A), (B), substituted "paragraph (1) or (2)" for "paragraphs (1) and\(2)", and substituted provisions relating to the treatment of an individual who has attained age 65 and who satisfies paragraph (1) of section 1395o of this title but not paragraph (2) of such section, for provisions relating to the treatment of an individual who satisfies paragraph (2) of section 1395o of this title solely by reason of subparagraph (B) thereof.
+Subsec. (c). Pub. L. 92–603, §201(c)(2)(A), (B), substituted "paragraph (1) or (2)" for "paragraphs (1) and (2)", and substituted provisions relating to the treatment of an individual who has attained age 65 and who satisfies paragraph (1) of section 1395o of this title but not paragraph (2) of such section, for provisions relating to the treatment of an individual who satisfies paragraph (2) of section 1395o of this title solely by reason of subparagraph (B) thereof.
 
 Subsec. (d). Pub. L. 92–603, §201(c)(2)(C), substituted "paragraph (1) or (2)" for "paragraphs (1) and (2)".
 

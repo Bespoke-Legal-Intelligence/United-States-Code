@@ -100,7 +100,7 @@
 
 #### (1) Timely application
 
-&emsp;To be eligible for assistance under this section, a producer shall submit an application for noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted by an appropriate deadline before the beginning of the coverage period, as determined by the Secretary.
+&emsp;To be eligible for assistance under this section, a producer shall submit an applicationfor noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted by an appropriate deadline before the beginning of the coverage period, as determined by the Secretary.
 
 #### (2) Records
 
@@ -188,7 +188,7 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (i) Documentation
 
-&emsp;&emsp;&emsp;If sufficient data are available to demonstrate that the acreage of a crop in a county for the crop year has increased by more than 100 percent over any year in the preceding 7 crop years or, if data are not available, if the acreage of the crop in the county has increased significantly from the previous crop years, a producer must provide such detailed documentation of production costs, acres planted, and yield for the crop year for which benefits are being claimed as is required by the Secretary. If the Secretary determines that the documentation provided is not sufficient, the Secretary may require documenting proof that the crop, had the crop been harvested, could have been marketed at a reasonable price.
+&emsp;&emsp;&emsp;If sufficient data are available to demonstrate that the acreage of a crop in acounty for the crop year has increased by more than 100 percent over any year in the preceding 7 crop years or, if data are not available, if the acreage of the crop in the county has increased significantly from the previous crop years, a producer must provide such detailed documentation of production costs, acres planted, and yield for the crop year for which benefits are being claimed as is required by the Secretary. If the Secretary determines that the documentation provided is not sufficient, the Secretary may require documenting proof that the crop, had the crop been harvested, could have been marketed at a reasonable price.
 
 #### (ii) Prohibition
 
@@ -272,7 +272,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 #### (1) In general
 
-&emsp;To be eligible to receive assistance for an eligible crop for a crop year under this section, a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1)) a service fee for the eligible crop in an amount that is equal to the lesser of—
+&emsp;To be eligible to receive assistance for an eligible crop for a crop year under this section,a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1)) a service fee for the eligible crop in an amount that is equal to the lesser of—
 
 &emsp;&emsp;(A) $325 per crop per county; or
 
@@ -364,7 +364,7 @@ Section 1308–3a of this title, referred to in subsec. (i)(4), was amended by P
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section is comprised of section 196 of Pub. L. 104–127. Subsec. (j) of section 196 of Pub. L. 104–127 repealed section 1519 of this title.
 
@@ -414,7 +414,7 @@ Subsec. (l)(2)(B)(i)(VI). Pub. L. 115–334, §1601(7)(B), added subcl. (VI).
 
 Subsec. (l)(3). Pub. L. 115–334, §12306(f)(2), inserted "veteran," after "beginning," in heading and "and veteran farmers or ranchers (as defined in section 2279(a) of this title)" after "as determined by the Secretary," in text.
 
-Pub. L. 115–334, §1601(7)(C), (D), redesignated par. (4) as (3) and struck out former par. (3) which related toadditional assistance for certain 2012 annual fruit crop losses.
+Pub. L. 115–334, §1601(7)(C), (D), redesignated par. (4) as (3) and struck out former par. (3) which related to additional assistance for certain 2012 annual fruit crop losses.
 
 Subsec. (l)(4). Pub. L. 115–334, §1601(7)(D), redesignated par. (4) as (3).
 

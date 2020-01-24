@@ -54,7 +54,7 @@ Congress finds that—
 
 &emsp;&emsp;(C) leveraging natural gas to positively impact regional stability;
 
-&emsp;&emsp;(D) issues relating to the energy-water nexus, including improving energy efficiencyand the overall performance of water technologies through research and development in water desalination, wastewater treatment and reclamation, water treatment in gas and oil production processes, and other water treatment refiners;
+&emsp;&emsp;(D) issues relating to the energy-water nexus, including improving energy efficiency and the overall performance of water technologies through research and development in water desalination, wastewater treatment and reclamation, water treatment in gas and oil production processes, and other water treatment refiners;
 
 &emsp;&emsp;(E) technical and environmental management of deep-water exploration and production;
 

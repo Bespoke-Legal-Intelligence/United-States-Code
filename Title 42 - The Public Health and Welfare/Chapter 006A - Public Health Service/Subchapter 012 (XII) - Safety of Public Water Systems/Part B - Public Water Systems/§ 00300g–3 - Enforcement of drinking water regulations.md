@@ -184,7 +184,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;(vii) Identification of, if any—
 
-&emsp;&emsp;&emsp;&emsp;(I) exceedances described in paragraph (1)(D) for which corrective action has been required by the Administrator or the State (in the case of a State exercising primary enforcement responsibility for public water systems) during the monitoring period covered by the consumer confidence report; and
+&emsp;&emsp;&emsp;&emsp;(I) exceedances described in paragraph (1)(D) for which corrective action has been required by the Administrator or the State (in the case of a State exercising primary enforcement responsibility for public water systems) during themonitoring period covered by the consumer confidence report; and
 
 &emsp;&emsp;&emsp;&emsp;(II) violations that occurred during the monitoring period covered by the consumer confidence report.
 
@@ -244,7 +244,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (ii) Dissemination of information by owner or operator
 
-&emsp;&emsp;&emsp;The owner or operator of a public water system shall disseminate to affected households the information described in subparagraph (C) within a time period established by the Administrator, if the owner or operator—
+&emsp;&emsp;&emsp;The owner or operator of a public water system shall disseminate to affectedhouseholds the information described in subparagraph (C) within a time period established by the Administrator, if the owner or operator—
 
 &emsp;&emsp;&emsp;&emsp;(I) receives data and information under clause (i); and
 
@@ -302,7 +302,7 @@ If the Administrator makes a finding of noncompliance (described in subparagraph
 
 &emsp;(1) the ways in which such system can within the earliest feasible time be brought into compliance with the regulation or requirement with respect to which such finding was made, and
 
-&emsp;(2) the means for the maximum feasible protection of the public health during any period in which such system is not in compliance with a national primary drinking water regulation or requirement applicable to a variance or exemption.
+&emsp;(2) the means for the maximum feasible protection of the public health during any periodin which such system is not in compliance with a national primary drinking water regulation or requirement applicable to a variance or exemption.
 
 > On the basis of such hearings the Administrator shall issue recommendations which shall be sent to such State and public water system and shall be made available to the public and communications media.
 
@@ -514,7 +514,7 @@ Subsec. (c). Pub. L. 104–182, §114(a), amended subsec. (c) generally. Prior t
 
 Subsec. (g)(1). Pub. L. 104–182, §113(a)(3)(A), substituted "applicable requirement" for "regulation, schedule, or other requirement" in two places.
 
-Subsec. (g)(2). Pub. L. 104–182, §113(a)(3)(B), substituted "effect, in the case" for "effect until after notice and opportunity for public hearing and, in the case" and "regarding the order" for "regarding the proposed order" and struck out "proposed to be" after "A copy of any order".
+Subsec. (g)(2). Pub. L. 104–182, §113(a)(3)(B), substituted "effect, in the case" for "effect until after notice and opportunity for public hearing and, in thecase" and "regarding the order" for "regarding the proposed order" and struck out "proposed to be" after "A copy of any order".
 
 Subsec. (g)(3)(B). Pub. L. 104–182, §113(a)(3)(C)(i), added subpar. (B) and struck out former subpar. (B) which read as follows: "Whenever any civil penalty sought by the Administrator under this paragraph does not exceed a total of $5,000, the penalty shall be assessed by the Administrator after notice and opportunity for a hearing on the record in accordance with section 554 of title 5."
 

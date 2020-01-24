@@ -146,5 +146,5 @@ Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 3
 
 #### Establishment of Reserve for Taxable Year Ending After Oct. 21, 1965, and Beginning Before Aug. 2, 1966
 
-Pub. L. 89–722, §1(c), Nov. 2, 1966, 80 Stat. 1152, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095, provided that: "If the taxpayer establishes a reserve described in section 166(g)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a) of this section) for a taxable year ending after October 21, 1965, and beginning before August 2, 1966, the establishment of such reserve shall not be considered as a change in method of accounting for purposes of section 446(e) of such Code."
+Pub. L. 89–722, §1(c), Nov. 2, 1966, 80 Stat. 1152, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If the taxpayer establishes a reserve described in section 166(g)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a) of this section) for a taxable year ending after October 21, 1965, and beginning before August 2, 1966, the establishment of such reserve shall not be considered as a change in method of accounting for purposes of section 446(e) of such Code."
 

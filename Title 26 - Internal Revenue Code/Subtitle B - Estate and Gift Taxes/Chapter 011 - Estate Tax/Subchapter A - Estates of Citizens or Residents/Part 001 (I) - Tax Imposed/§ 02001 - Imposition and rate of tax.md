@@ -103,7 +103,7 @@ If—
 
 &emsp;&emsp;(B) the basic exclusion amount under such section applicable with respect to any gifts made by the decedent.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 373; Pub. L. 94–455, title XX, §2001(a)(1), Oct. 4, 1976, 90 Stat. 1846; Pub. L. 95–600, title VII, §702(h)(1), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §402(a)–(c), Aug. 13, 1981, 95 Stat. 300; Pub. L. 98–369, div. A, title I, §21(a), July 18, 1984, 98Stat. 506; Pub. L. 100–203, title X, §10401(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–430, 1330–431; Pub. L. 103–66, title XIII, §13208(a)–(b)(2), Aug. 10, 1993, 107 Stat. 469; Pub. L. 105–34, title V, §§501(a)(1)(D), 506(a), Aug. 5, 1997, 111 Stat. 845, 855; Pub. L. 105–206, title VI, §6007(e)(2)(B), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4003(c), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–16, title V, §511(a)–(c), June 7, 2001, 115 Stat. 70; Pub. L. 111–312, title III, §302(a)(2), (d)(1), Dec. 17, 2010, 124 Stat. 3301, 3302; Pub. L. 112–240, title I, §101(c)(1), Jan. 2, 2013, 126 Stat. 2317; Pub. L. 115–97, title I, §11061(b), Dec. 22, 2017, 131 Stat. 2091.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 373; Pub. L. 94–455, title XX, §2001(a)(1), Oct. 4, 1976, 90 Stat. 1846; Pub. L. 95–600, title VII, §702(h)(1), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §402(a)–(c), Aug. 13, 1981, 95 Stat. 300; Pub. L. 98–369, div. A, title I, §21(a), July 18, 1984, 98 Stat. 506; Pub. L. 100–203, title X, §10401(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–430, 1330–431; Pub. L. 103–66, title XIII, §13208(a)–(b)(2), Aug. 10, 1993, 107 Stat. 469; Pub. L. 105–34, title V, §§501(a)(1)(D), 506(a), Aug. 5, 1997, 111 Stat. 845, 855; Pub. L. 105–206, title VI, §6007(e)(2)(B), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4003(c), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–16, title V, §511(a)–(c), June 7, 2001, 115 Stat. 70; Pub. L. 111–312, title III, §302(a)(2), (d)(1), Dec. 17, 2010, 124 Stat. 3301, 3302; Pub. L. 112–240, title I, §101(c)(1), Jan. 2, 2013, 126 Stat. 2317; Pub. L. 115–97, title I, §11061(b), Dec. 22, 2017, 131 Stat. 2091.)
 
 #### Amendments
 
@@ -171,7 +171,7 @@ Subsec. (c). Pub. L. 97–34, §402(a), (b)(1), designated existing provision as
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–97, title I, §11061(c), Dec. 22, 2017, 131 Stat. 2091, provided that: "The amendments made by thissection \[amending this section and section 2010 of this title\] shall apply to estates of decedents dying and gifts made after December 31, 2017."
+Pub. L. 115–97, title I, §11061(c), Dec. 22, 2017, 131 Stat. 2091, provided that: "The amendments made by this section \[amending this section and section 2010 of this title\] shall apply to estates of decedents dying and gifts made after December 31, 2017."
 
 #### Effective Date of 2013 Amendment
 
@@ -211,7 +211,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title V, §501(f), Aug. 5, 1997, 111 Stat. 847, as amended by Pub. L. 105–206, title VI, §6007(a)(2), July 22, 1998, 112 Stat. 807, provided that: "The amendments made by this section \[amending this section and sections 2010, 2032A, 2102, 2503, 2505, 2631, 6018, and 6601 of this title\] (other than the amendment made by subsection (d) \[amending section 2631 of this title\]) shall apply to the estates of decedents dying, and gifts made, after December 31, 1997."
+Pub. L. 105–34, title V, §501(f), Aug. 5, 1997, 111 Stat. 847, as amended by Pub. L. 105–206, title VI, §6007(a)(2), July 22, 1998, 112 Stat. 807, provided that: "The amendments made by this section \[amending this section andsections 2010, 2032A, 2102, 2503, 2505, 2631, 6018, and 6601 of this title\] (other than the amendment made by subsection (d) \[amending section 2631 of this title\]) shall apply to the estates of decedents dying, and gifts made, after December 31, 1997."
 
 Pub. L. 105–34, title V, §506(e)(1), Aug. 5, 1997, 111 Stat. 856, as amended by Pub. L. 105–206, title VI, §6007(e)(1), July 22, 1998, 112 Stat. 809, provided that: "The amendments made by subsections (a), (c), and (d) \[enacting section 7477 of this title and amending this section and section 2504 of this title\] shall apply to gifts made after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
@@ -245,7 +245,7 @@ Pub. L. 91–614, §1(a), Dec. 31, 1970, 84 Stat. 1836, provided that: "This Act
 
 #### Special Election With Respect to Estates of Decedents Dying in 2010
 
-Pub. L. 111–312, title III, §301(c), Dec. 17, 2010, 124 Stat. 3300, provided that: "Notwithstanding subsection (a) \[amending sections 121, 170, 684, 1014, 1040, 1221, 1246, 1291, 1296, 4947, 6018, 6019, 6075, and 7701 of this title and repealing sections 1022, 2210, 2664, and 6716 of this title\], in the case of an estate of a decedent dying after December 31, 2009, and before January 1, 2011, the executor (within the meaning of section 2203 of the Internal Revenue Code of 1986) may elect to apply such Code as though the amendments made by subsection (a) do not apply with respect to chapter 11 of such Code and with respect to property acquired or passing from such decedent (within the meaning of section 1014(b) of such Code). Such election shall be made at such time and in such manner as the Secretary of the Treasury or the Secretary's delegate shall provide. Such an election once made shall be revocable only with the consent ofthe Secretary of the Treasury or the Secretary's delegate. For purposes of section 2652(a)(1) of such Code, the determination of whether any property is subject to the tax imposed by such chapter 11 shall be made without regard to any election made under this subsection."
+Pub. L. 111–312, title III, §301(c), Dec. 17, 2010, 124 Stat. 3300, provided that: "Notwithstanding subsection (a) \[amending sections 121, 170, 684, 1014, 1040, 1221, 1246, 1291, 1296, 4947, 6018, 6019, 6075, and 7701 of this title and repealing sections 1022, 2210, 2664, and 6716 of this title\], in the case of an estate of a decedent dying after December 31, 2009, and before January 1, 2011, the executor (within the meaning of section 2203 of the Internal Revenue Code of 1986) may elect to apply such Code as though the amendments made by subsection (a) do not apply with respect to chapter 11 of such Code and with respect to property acquired or passing from such decedent (within the meaning of section 1014(b) of such Code). Such election shall be made at such time and in such manner as the Secretary of the Treasury or the Secretary's delegate shall provide. Such an election once made shall be revocable only with the consent of the Secretary of the Treasury or the Secretary's delegate. For purposes of section 2652(a)(1) of such Code, the determination of whether any property is subject to the tax imposed by such chapter 11 shall be made without regard to any election made under this subsection."
 
 #### Clarification of Treatment of Certain Exemptions for Purposes of Federal Estate and Gift Taxes
 

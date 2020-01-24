@@ -46,7 +46,7 @@ Par. (6). Pub. L. 115–267, §2(a)(3), (5), redesignated par. (8) as (6) and in
 
 Par. (7). Pub. L. 115–267, §2(a)(3), (6), redesignated par. (10) as (7) and amended it generally. Prior to amendment, text related to the National Center for Missing and Exploited Children. Former par. (7) redesignated (5).
 
-Pars. (8) to (10). Pub. L. 115–267, §2(a)(2), (3), redesignated pars. (8) and (10) as (6) and (7), respectively, and struck out par. (9) which read as follows: "the Office ofJuvenile Justice and Delinquency Prevention administers programs under this chapter through the Child Protection Division, including programs which prevent or address offenses committed against vulnerable children and which support missing children's organizations; and".
+Pars. (8) to (10). Pub. L. 115–267, §2(a)(2), (3), redesignated pars. (8) and (10) as (6) and (7), respectively, and struck out par. (9) which read as follows: "the Office of Juvenile Justice and Delinquency Prevention administers programs under this chapter through the Child Protection Division, including programs which prevent or address offenses committed against vulnerable children and which support missing children's organizations; and".
 
 <b>2013</b>—Pub. L. 113–38 added par. (3) and redesignated former pars. (3) to (9) as (4) to (10), respectively.
 

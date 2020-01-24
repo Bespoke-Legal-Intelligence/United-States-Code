@@ -26,7 +26,7 @@ Requirements for historic sites.—The requirements of this section shall be con
 
 &emsp;&emsp;(B)
 
-Requirements for parks, recreation areas, and wildlife or waterfowl refuges.—The requirements of subsection (c)(1) shall be considered to be satisfied with respect to an area described in paragraph (3) if the Secretary determines, in accordance with this subsection, that a transportation program or project will have a de minimis impact on the area. The requirements of subsection (c)(2) with respect to an area described in paragraph (3) shall not include an alternatives analysis.
+Requirements for parks, recreation areas, and wildlife or waterfowl refuges.—The requirements of subsection (c)(1) shall be considered to be satisfied with respect to an area described in paragraph (3) if the Secretary determines, in accordance with this subsection, that a transportation program or project will have a de minimis impact on the area. The requirements ofsubsection (c)(2) with respect to an area described in paragraph (3) shall not include an alternatives analysis.
 
 &emsp;&emsp;(C)
 
@@ -116,7 +116,7 @@ References to Past Transportation Environmental Authorities.—
 
 &emsp;(1)
 
-Section 4(f) requirements.—The requirements of this section are commonly referred to as section 4(f) requirements (see section 4(f) of the Department of Transportation Act (Public Law 89–670; 80 Stat. 934) as in effect before the repeal of that section).
+Section 4(f) requirements.—The requirements of this section are commonly referredto as section 4(f) requirements (see section 4(f) of the Department of Transportation Act (Public Law 89–670; 80 Stat. 934) as in effect before the repeal of that section).
 
 &emsp;(2)
 

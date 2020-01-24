@@ -46,7 +46,7 @@ The amounts expended by a State in carrying out subsection (a) are expenditures 
 
 #### (B) Form and manner of payment
 
-&emsp;&emsp;Payment under subparagraph (A) shall be made in a manner specified by the Secretarythat is similar to the manner in which State payments are made under an agreement entered into under section 1395v of this title, except that all such payments shall be deposited into the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund.
+&emsp;&emsp;Payment under subparagraph (A) shall be made in a manner specified by the Secretary that is similar to the manner in which State payments are made under an agreement entered into under section 1395v of this title, except that all such payments shall be deposited into the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund.
 
 #### (C) Compliance
 
@@ -156,7 +156,7 @@ The amounts expended by a State in carrying out subsection (a) are expenditures 
 
 &emsp;&emsp;For purposes of this section, the term "full-benefit dual eligible individual" means for a State for a month an individual who—
 
-&emsp;&emsp;&emsp;(i) has coverage for the month for covered part D drugs under a prescription drug plan under part D of subchapter XVIII, or under an MA–PD plan under part C of such subchapter; and
+&emsp;&emsp;&emsp;(i) has coverage for the month for covered part D drugs under a prescription drug plan under part D of subchapterXVIII, or under an MA–PD plan under part C of such subchapter; and
 
 &emsp;&emsp;&emsp;(ii) is determined eligible by the State for medical assistance for full benefits under this subchapter for such month under section 1396a(a)(10)(A) or 1396a(a)(10)(C) of this title, by reason of section 1396a(f) of this title, or under any other category of eligibility for medical assistance for full benefits under this subchapter, as determined by the Secretary.
 
@@ -182,7 +182,7 @@ The amounts expended by a State in carrying out subsection (a) are expenditures 
 
 &emsp;&emsp;(A) the previous provisions of this section shall not apply to residents of such State; and
 
-&emsp;&emsp;(B) if the State establishes and submits to the Secretary a plan described in paragraph (2) (for providing medical assistance with respect to the provision of prescription drugs to part D eligible individuals), the amount otherwise determined under section 1308(f) of this title (as increased under section 1308(g) of this title) for the State shall be increased by the amount for the fiscal period specified in paragraph (3).
+&emsp;&emsp;(B) subject to paragraph (4), if the State establishes and submits to the Secretary a plan described in paragraph (2) (for providing medical assistance with respect to the provision of prescription drugs to part D eligible individuals), the amount otherwise determined under section 1308(f) of this title (as increased under section 1308(g) of this title) for the State shall be increased by the amount for the fiscal period specified in paragraph (3).
 
 #### (2) Plan
 
@@ -218,11 +218,15 @@ The amounts expended by a State in carrying out subsection (a) are expenditures 
 
 &emsp;&emsp;&emsp;(iii) a subsequent year, is equal to the aggregate amount specified in this subparagraph for the previous year increased by annual percentage increase specified in section 1395w–102(b)(6) of this title for the year involved.
 
-#### (4) Report
+#### (4) Treatment of funding for certain fiscal years
+
+&emsp;Notwithstanding paragraph (1)(B), in the case that Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa establishes and submits to the Secretary a plan described in paragraph (2) with respect to any of fiscal years 2020 through 2021, the amount specified for such a year in paragraph (3) for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa, as the case may be, shall be taken into account in applying, as applicable,subparagraph (A)(ii), (B)(ii), (C)(ii), (D)(ii), or (E)(ii) of section 1308(g)(2) of this title for such year.
+
+#### (5) Report
 
 &emsp;The Secretary shall submit to Congress a report on the application of this subsection and may include in the report such recommendations as the Secretary deems appropriate.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1935, as added and amended Pub. L. 108–173, title I, §103(a)(2)(B), (b)–(d)(1), Dec. 8, 2003, 117 Stat. 2154–2158; Pub. L. 109–91, title I, §104(c), Oct. 20, 2005, 119 Stat. 2093; Pub. L. 110–275, title I, §113(b), July 15, 2008, 122 Stat. 2506.)
+(Aug. 14, 1935, ch. 531, title XIX, §1935, as added and amended Pub. L. 108–173, title I, §103(a)(2)(B), (b)–(d)(1), Dec. 8, 2003, 117 Stat. 2154–2158; Pub. L. 109–91, title I, §104(c), Oct. 20, 2005, 119 Stat. 2093; Pub. L. 110–275, title I, §113(b), July 15, 2008, 122 Stat. 2506; Pub. L. 116–94, div. N, title I, §202(b), Dec. 20, 2019, 133 Stat. 3107.)
 
 #### References in Text
 
@@ -235,6 +239,10 @@ Parts A and B, referred to in subsec. (e)(3)(A)(ii)(I), probably means parts A a
 A prior section 1935 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (e)(1)(B). Pub. L. 116–94, §202(b)(1), substituted "subject to paragraph (4), if the State" for "if the State".
+
+Subsec. (e)(4), (5). Pub. L. 116–94, §202(b)(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–275 amended heading to include reference to medicare cost-sharing and added par. (4).
 

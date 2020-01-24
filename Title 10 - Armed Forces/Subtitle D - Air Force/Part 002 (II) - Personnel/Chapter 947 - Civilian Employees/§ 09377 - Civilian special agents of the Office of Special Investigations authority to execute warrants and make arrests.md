@@ -10,7 +10,7 @@ Agents To Have Authority.—Subsection (a) applies to any employee of the Depart
 
 (c)
 
-Guidelines for Exercise of Authority.—The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Secretary of the Air Force and approved by the Secretary of Defense and the Attorney General and any other applicable guidelines prescribed by the Secretary of the Air Force, the Secretary of Defense, or the Attorney General.
+Guidelines for Exercise of Authority.—The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Secretary of the Air Force andapproved by the Secretary of Defense and the Attorney General and any other applicable guidelines prescribed by the Secretary of the Air Force, the Secretary of Defense, or the Attorney General.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title V, §554(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–127, §9027; renumbered §9377, Pub. L. 115–232, div. A, title VIII, §806(b)(16), Aug. 13, 2018, 132 Stat. 1833.)
 

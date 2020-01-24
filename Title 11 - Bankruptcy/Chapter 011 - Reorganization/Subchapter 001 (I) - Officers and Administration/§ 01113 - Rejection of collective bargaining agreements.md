@@ -2,7 +2,7 @@
 
 (a) The debtor in possession, or the trustee if one has been appointed under the provisions of this chapter, other than a trustee in a case covered by subchapter IV of this chapter and by title I of the Railway Labor Act, may assume or reject a collective bargaining agreement only in accordance with the provisions of this section.
 
-(b)(1) Subsequent to filing a petition and prior to filing an application seeking rejection of a collective bargaining agreement, the debtor in possession or trustee (hereinafter in this section "trustee" shall include a debtor in possession), shall—
+(b)(1) Subsequent to filing a petition and prior to filing an application seeking rejection of acollective bargaining agreement, the debtor in possession or trustee (hereinafter in this section "trustee" shall include a debtor in possession), shall—
 
 &emsp;(A) make a proposal to the authorized representative of the employees covered by such agreement, based on the most complete and reliable information available at the time of such proposal, which provides for those necessary modifications in the employees benefits and protections that are necessary to permit the reorganization of the debtor and assures that all creditors, the debtor and all of the affected parties are treated fairly and equitably; and
 
@@ -18,7 +18,7 @@
 
 &emsp;(3) the balance of the equities clearly favors rejection of such agreement.
 
-(d)(1) Upon the filing of an application for rejection the court shall schedule a hearing to beheld not later than fourteen days after the date of the filing of such application. All interested parties may appear and be heard at such hearing. Adequate notice shall be provided to such parties at least ten days before the date of such hearing. The court may extend the time for the commencement of such hearing for a period not exceeding seven days where the circumstances of the case, and the interests of justice require such extension, or for additional periods of time to which the trustee and representative agree.
+(d)(1) Upon the filing of an application for rejection the court shall schedule a hearing to be held not later than fourteen days after the date of the filing of such application. All interested parties may appear and be heard at such hearing. Adequate notice shall be provided to such parties at least ten days before the date of such hearing. The court may extend the time for the commencement of such hearing for a period not exceeding seven days where the circumstances of the case, and the interests of justice require such extension, or for additional periods of time to which the trustee and representative agree.
 
 (2) The court shall rule on such application for rejection within thirty days after the date of the commencement of the hearing. In the interests of justice, the court may extend such time for ruling for such additional period as the trustee and the employees' representative may agree to. If the court does not rule on such application within thirty days after the date of the commencement of the hearing, or within such additional time as the trustee and the employees' representative may agree to, the trustee may terminate or alter any provisions of the collective bargaining agreement pending the ruling of the court on such application.
 

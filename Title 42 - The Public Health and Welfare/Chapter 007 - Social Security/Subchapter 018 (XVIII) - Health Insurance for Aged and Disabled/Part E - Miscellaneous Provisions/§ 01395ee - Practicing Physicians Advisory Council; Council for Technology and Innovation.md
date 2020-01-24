@@ -18,7 +18,7 @@
 
 #### (4) Executive Coordinator for Technology and Innovation
 
-&emsp;The Secretary shall appoint (or designate) a noncareer appointee (as defined in section 3132(a)(7) of title 5) who shall serve as the Executive Coordinator for Technology and Innovation. Such executive coordinator shall report to the Administrator of CMS, shall chair the Council, shall oversee the execution of its duties, and shall serve as a single point of contact for outside groups and entities regarding the coverage, coding, and payment processes under this subchapter.
+&emsp;The Secretary shall appoint (or designate) a noncareer appointee (as defined in section3132(a)(7) of title 5) who shall serve as the Executive Coordinator for Technology and Innovation. Such executive coordinator shall report to the Administrator of CMS, shall chair the Council, shall oversee the execution of its duties, and shall serve as a single point of contact for outside groups and entities regarding the coverage, coding, and payment processes under this subchapter.
 
 #### (c) Physician-focused payment models
 
@@ -78,7 +78,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Assistant Secretary for Planning and Evaluation shall provide technical andoperational support for the Committee, which may be by use of a contractor. The Office of the Actuary of the Centers for Medicare \& Medicaid Services shall provide to the Committee actuarial assistance as needed.
+&emsp;&emsp;&emsp;The Assistant Secretary for Planning and Evaluation shall provide technical and operational support for the Committee, which may be by use of a contractor. The Office of the Actuary of the Centers for Medicare \& Medicaid Services shall provide to the Committee actuarial assistance as needed.
 
 #### (ii) Funding
 

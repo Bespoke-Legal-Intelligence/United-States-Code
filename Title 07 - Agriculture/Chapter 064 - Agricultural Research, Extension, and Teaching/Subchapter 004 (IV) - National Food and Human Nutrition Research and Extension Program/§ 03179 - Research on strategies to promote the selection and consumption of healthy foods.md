@@ -32,7 +32,7 @@ The solicitation and evaluation of contracts, cooperative agreements, and grant 
 
 #### (f) Annual reports
 
-Not later than 90 days after the end of each fiscal year, the Secretary shall submit to theCommittee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that includes a description of—
+Not later than 90 days after the end of each fiscal year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that includes a description of—
 
 &emsp;(1) the policies, priorities, and operations of the program carried out by the Secretary under this section during the fiscal year;
 

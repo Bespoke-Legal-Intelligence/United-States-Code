@@ -20,7 +20,7 @@ There is authorized to be appropriated, and there is appropriated, out of any mo
 
 &emsp;&emsp;(E) $3,600,000,000 for each of fiscal years 2015 through 2017; and
 
-&emsp;&emsp;(F) $3,800,000,000 for fiscal year 2018 and $4,000,000,000 for fiscal year 2019.<sup>1</sup>
+&emsp;&emsp;(F) $3,800,000,000 for fiscal year 2018, $4,000,000,000 for fiscal year 2019, and $2,575,342,466 for the period beginning on October 1, 2019, and ending on May 22, 2020; and
 
 &emsp;(2) to be transferred to the Secretary of Health and Human Services to provide enhanced funding for the National Health Service Corps—
 
@@ -32,9 +32,11 @@ There is authorized to be appropriated, and there is appropriated, out of any mo
 
 &emsp;&emsp;(D) $305,000,000 for fiscal year 2014;
 
-&emsp;&emsp;(E) $310,000,000 for each of fiscal years 2015 through 2017; and
+&emsp;&emsp;(E) $310,000,000 for each of fiscal years 2015 through 2017;
 
-&emsp;&emsp;(F) $310,000,000 for each of fiscal years 2018 and 2019.
+&emsp;&emsp;(F) $310,000,000 for each of fiscal years 2018 and 2019; and
+
+&emsp;&emsp;(G) $199,589,041 for the period beginning on October 1, 2019, and ending on May 22, 2020.
 
 #### (c) Construction
 
@@ -48,13 +50,25 @@ The Secretary of Health and Human Services shall transfer amounts in the CHC Fun
 
 Amounts appropriated under subsections (b) and (c) shall remain available until expended.
 
-(Pub. L. 111–148, title X, §10503, Mar. 23, 2010, 124 Stat. 1004; Pub. L. 111–152, title II, §2303, Mar. 30, 2010, 124 Stat. 1083; Pub. L. 114–10, title II, §221(a), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–96, div. C, title I, §3101(a), (b), Dec. 22, 2017, 131 Stat. 2048; Pub. L. 115–123, div. E, title IX, §50901(a), (c), Feb. 9, 2018, 132 Stat. 282, 287.)
+(Pub. L. 111–148, title X, §10503, Mar. 23, 2010, 124 Stat. 1004; Pub. L. 111–152, title II, §2303, Mar. 30, 2010, 124 Stat. 1083; Pub. L. 114–10, title II, §221(a), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–96,div. C, title I, §3101(a), (b), Dec. 22, 2017, 131 Stat. 2048; Pub. L. 115–123, div. E, title IX, §50901(a), (c), Feb. 9, 2018, 132 Stat. 282, 287; Pub. L. 116–59, div. B, title I, §1101(a), (b), Sept. 27, 2019, 133 Stat. 1102; Pub. L. 116–69, div. B, title I, §1101(a), (b), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, §401(a), (b), Dec. 20, 2019, 133 Stat. 3113.)
 
 #### Codification
 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(1)(F). Pub. L. 116–94, §401(a), substituted "$2,575,342,466" for "$887,671,223" and "May 22, 2020" for "December 20, 2019".
+
+Pub. L. 116–69, §1101(a), substituted "$887,671,223" for "$569,863,014" and "December 20, 2019" for "November 21, 2019".
+
+Pub. L. 116–59, §1101(a), substituted "2018, $4,000,000,000 for fiscal year 2019, and $569,863,014 for the period beginning on October 1, 2019, and ending on November 21, 2019; and" for "2018 and $4,000,000,000 for fiscal year 2019."
+
+Subsec. (b)(2)(G). Pub. L. 116–94, §401(b), substituted "$199,589,041" for "$68,794,521" and "May 22, 2020" for "December 20, 2019".
+
+Pub. L. 116–69, §1101(a), substituted "$887,671,223" for "$569,863,014" and "December 20, 2019" for "November 21, 2019".
+
+Pub. L. 116–59, §1101(b), added subpar. (G).
 
 <b>2018</b>—Subsec. (b)(1)(F). Pub. L. 115–123, §50901(a), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "$550,000,000 for the period of the first and second quarters of fiscal year 2018;".
 
@@ -75,6 +89,4 @@ Subsec. (b)(1)(C). Pub. L. 111–152, §2303(3), substituted "1,500,000,000" for
 Subsec. (b)(1)(D). Pub. L. 111–152, §2303(4), substituted "2,200,000,000" for "1,600,000,000".
 
 Subsec. (b)(1)(E). Pub. L. 111–152, §2303(5), substituted "3,600,000,000" for "2,900,000,000".
-
-<i><sup>1</sup></i><i> So in original. The period probably should be "; and".</i>
 

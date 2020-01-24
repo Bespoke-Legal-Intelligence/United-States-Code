@@ -74,7 +74,7 @@
 
 #### (C) Regulatory authority
 
-&emsp;&emsp;The Secretary may issue regulations to prevent the abuse of the safe harbor under this paragraph, including regulations providing that this paragraph shall not apply to the extent necessary to prevent any such abuse.
+&emsp;&emsp;The Secretary may issue regulations to prevent the abuse of the safe harbor underthis paragraph, including regulations providing that this paragraph shall not apply to the extent necessary to prevent any such abuse.
 
 #### (d) Lower limitations for persons with gross receipts of not more than $5,000,000
 

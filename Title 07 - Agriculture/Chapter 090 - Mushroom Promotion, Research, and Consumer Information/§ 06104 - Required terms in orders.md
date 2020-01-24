@@ -20,7 +20,7 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 #### (A) In general
 
-&emsp;&emsp;In making appointments, the Secretary shall take into account, to the extent practicable, the geographical distribution ofmushroom production throughout the United States, and the comparative volume of mushrooms imported into the United States.
+&emsp;&emsp;In making appointments, the Secretary shall take into account, to the extent practicable, the geographical distribution of mushroom production throughout the United States, and the comparative volume of mushrooms imported into the United States.
 
 #### (B) Units
 
@@ -174,7 +174,7 @@ The order shall define the powers and duties of the Council, which shall include
 
 #### (3) Use of assessments
 
-&emsp;The order shall provide that the assessments shall be used for payment of the expenses in implementing and administering this chapter, with provision for a reasonable reserve, and to cover those administrative costs incurred by the Secretary in implementing and administering this chapter, except for the salaries of Government employees incurred in conducting referenda.
+&emsp;The order shall provide that the assessments shall be used for payment of the expenses inimplementing and administering this chapter, with provision for a reasonable reserve, and to cover those administrative costs incurred by the Secretary in implementing and administering this chapter, except for the salaries of Government employees incurred in conducting referenda.
 
 #### (4) Limitation on collection
 
@@ -250,5 +250,5 @@ Subsec. (c)(6) to (9). Pub. L. 110–246, §10104(b), added par. (6) and redesig
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

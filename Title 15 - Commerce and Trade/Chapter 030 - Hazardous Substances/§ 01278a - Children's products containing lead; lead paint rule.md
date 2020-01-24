@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) the product, class of product, material, or component part is not likely to be placed in the mouth or ingested, taking into account normal and reasonably foreseeable use and abuse of such product, class of product, material, or component part by a child; and
 
-&emsp;&emsp;&emsp;(iii) an exception for the product, class of product, material, or component part will have no measurable adverse effect on public health or safety, taking into account normal and reasonably foreseeable use and abuse.
+&emsp;&emsp;&emsp;(iii) an exception for the product, class of product, material, or component part will have no measurable adverse effect onpublic health or safety, taking into account normal and reasonably foreseeable use and abuse.
 
 #### (B) Measurement
 
@@ -210,7 +210,7 @@ The pendency of a rulemaking proceeding to consider—
 
 #### (B) Rulemaking
 
-&emsp;&emsp;If the Commission determines, based on the study in subparagraph (A), that x-ray fluorescence technology or other alternative methods for measuring lead in paint are as effective, precise, and reliable as the methodology used by the Commission for compliance determinations prior to August 14, 2008, the Commission may promulgate regulations governing the use of such methods in determining the compliance of products with part 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection. Any regulations promulgated by the Commission shall ensure that such alternative methods are no less effective, precise,and reliable than the methodology used by the Commission prior to August 14, 2008.
+&emsp;&emsp;If the Commission determines, based on the study in subparagraph (A), that x-ray fluorescence technology or other alternative methods for measuring lead in paint are as effective, precise, and reliable as the methodology used by the Commission for compliance determinations prior to August 14, 2008, the Commission may promulgate regulations governing the use of such methods in determining the compliance of products with part 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection. Any regulations promulgated by the Commission shall ensure that such alternative methods are no less effective, precise, and reliable than the methodology used by the Commission prior to August 14, 2008.
 
 #### (5) Periodic review
 
@@ -236,7 +236,7 @@ The Federal Hazardous Substances Act, referred to in subsec. (a)(1), is Pub. L. 
 
 The Consumer Product Safety Act, referred to in subsec. (c), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 
-This Act, referred to in subsec. (e)(3), is Pub. L. 110–314, Aug. 14, 2008, 122 Stat. 3016, known as the Consumer Product Safety Improvement Act of 2008. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2051 of this title and Tables.
+This Act, referred to in subsec. (e)(3), is Pub. L. 110–314, Aug. 14, 2008, 122 Stat. 3016, known as the Consumer Product Safety Improvement Act of 2008. For complete classification of this Act to the Code, seeShort Title of 2008 Amendment note set out under section 2051 of this title and Tables.
 
 #### Codification
 

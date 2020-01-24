@@ -76,7 +76,7 @@ The date of enactment of the Bankruptcy Abuse Prevention and Consumer Protection
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e). Pub. L. 109–390, §5(b)(1), inserted "(or for the benefit of)" before "a commodity broker"and "or that is a transfer made by or to (or for the benefit of) a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency, in connection with a securities contract, as defined in section 741(7), commodity contract, as defined in section 761(4), or forward contract," after "securities clearing agency,".
+<b>2006</b>—Subsec. (e). Pub. L. 109–390, §5(b)(1), inserted "(or for the benefit of)" before "a commodity broker" and "or that is a transfer made by or to (or for the benefit of) a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency, in connection with a securities contract, as defined in section 741(7),commodity contract, as defined in section 761(4), or forward contract," after "securities clearing agency,".
 
 Subsec. (f). Pub. L. 109–390, §5(b)(2), struck out "that is a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title," after "avoid a transfer" and inserted "(or for the benefit of)" before "a repo participant".
 

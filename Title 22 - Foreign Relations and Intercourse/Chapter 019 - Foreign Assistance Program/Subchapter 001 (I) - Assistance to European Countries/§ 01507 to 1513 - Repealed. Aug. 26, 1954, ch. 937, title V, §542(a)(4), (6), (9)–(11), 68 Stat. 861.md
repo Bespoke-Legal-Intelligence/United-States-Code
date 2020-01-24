@@ -1,6 +1,6 @@
 ### §§1507 to 1513. Repealed. Aug. 26, 1954, ch. 937, title V, §542(a)(4), (6), (9)–(11), 68 Stat. 861
 
-Section 1507, acts Apr. 3, 1948, ch. 169, title I, §109, 62 Stat. 142; Apr. 19, 1949, ch. 77, §5, 63 Stat. 51; Oct. 10,1951, ch. 479, title V, §503(b)(1), as added June 20, 1952, ch. 449, §7(c), 66 Stat. 144, related to special missions for each participating country. See sections 2382, 2391, and 2396 of this title.
+Section 1507, acts Apr. 3, 1948, ch. 169, title I, §109, 62 Stat. 142; Apr. 19, 1949, ch. 77, §5, 63 Stat. 51; Oct. 10, 1951, ch. 479, title V, §503(b)(1), as added June 20, 1952, ch. 449, §7(c), 66 Stat. 144, related to special missions for each participating country. See sections 2382, 2391, and 2396 of this title.
 
 Section 1508, acts Apr. 3, 1948, ch. 169, title I, §110, 62 Stat. 142; Apr. 5, 1952, ch. 159, §1, 66 Stat. 43; Oct. 10, 1951, ch. 479, title V, §503(b)(1), as added June 20, 1952, ch. 449, §7(c), 66 Stat. 144, related to personnel performing outside United States, their pay and allowances, assignment to Foreign Service Reserve or Staff, employment of aliens and loyalty and security investigation of employees. See section 2385 of this title.
 

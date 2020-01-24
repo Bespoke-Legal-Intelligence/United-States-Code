@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Foundation shall support research activities related to the interagency Brain Researchthrough Advancing Innovative Neurotechnologies Initiative.
+The Foundation shall support research activities related to the interagency Brain Research through Advancing Innovative Neurotechnologies Initiative.
 
 #### (b) Sense of Congress
 

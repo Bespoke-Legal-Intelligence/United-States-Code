@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering and the service acquisition executive for each military department, may carry out programs to award cash prizes and other types of prizes that the Secretary determines are appropriate to recognize outstanding achievements in basic, advanced, and applied research, technology development, and prototype development that have the potential for application to the performance of the military missions of the Department of Defense.
+Authority.—The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, and the service acquisition executive for each military department, may carry out programs to award cash prizes and other types of prizes that the Secretary determines are appropriate to recognize outstanding achievements in basic, advanced, and applied research, technology development, and prototype development that have the potential for application to the performance of the military missions of the Department of Defense.
 
 (b)
 
@@ -22,15 +22,17 @@ Relationship to Other Authority.—A program under subsection (a) may be carried
 
 (e)
 
-Acceptance of Funds.—In addition to such sums as may be appropriated or otherwise made available to the Secretary to award prizes under this section, the Secretary may accept funds or nonmonetary items from other departments and agencies of the Federal Government, from State and local governments, and from the privatesector, to award prizes under this section. The Secretary may not give any special consideration to any private sector entity in return for a donation.
+Acceptance of Funds.—In addition to such sums as may be appropriated or otherwise made available to the Secretary to award prizes under this section, the Secretary may accept funds or nonmonetary items from other departments and agencies of the Federal Government, from State and local governments, and from the private sector, to award prizes under this section. The Secretary may not give any special consideration to any private sector entity in return for a donation.
 
 (f)
 
 Use of Prize Authority.—Use of prize authority under this section shall be considered the use of competitive procedures for the purposes of section 2304 of this title.
 
-(Added Pub. L. 106–65, div. A, title II, §244(a), Oct. 5, 1999, 113 Stat. 552; amended Pub. L. 107–314, div. A, title II, §248(a), Dec. 2, 2002, 116 Stat. 2502; Pub. L. 108–136, div. A, title X, §1031(a)(20), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 109–163, div. A, title II, §257, Jan. 6, 2006, 119 Stat. 3184; Pub. L. 109–364, div. A, title II, §212, Oct. 17, 2006, 120 Stat. 2119; Pub. L. 111–84, div. A, title II, §253, Oct. 28, 2009, 123 Stat. 2243; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 113–66, div. A, title II, §263, Dec. 26, 2013, 127 Stat. 726; Pub. L. 113–291, div. A, title II, §211, Dec. 19, 2014, 128 Stat. 3324; Pub. L. 114–92, div. A, title X, §1079(a), Nov. 25, 2015, 129 Stat. 999; Pub. L. 114–328, div. A, title X, §1081(c)(6), Dec. 23, 2016, 130 Stat. 2420; Pub. L. 115–91, div. A, title II, §213, Dec. 12, 2017, 131 Stat. 1324; Pub. L. 115–232, div. A, title X, §1081(a)(21), Aug. 13, 2018, 132 Stat. 1984.)
+(Added Pub. L. 106–65, div. A, title II, §244(a), Oct. 5, 1999, 113 Stat. 552; amended Pub. L. 107–314, div. A, title II, §248(a), Dec. 2, 2002, 116 Stat. 2502; Pub. L. 108–136, div. A, title X, §1031(a)(20), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 109–163, div. A, title II, §257, Jan. 6, 2006, 119 Stat. 3184; Pub. L. 109–364, div. A, title II, §212, Oct. 17, 2006, 120 Stat. 2119; Pub. L. 111–84, div. A, title II, §253, Oct. 28, 2009, 123 Stat. 2243; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 113–66, div. A, title II, §263, Dec. 26, 2013, 127 Stat. 726; Pub. L. 113–291, div. A, title II, §211, Dec. 19, 2014, 128 Stat. 3324; Pub. L. 114–92, div. A, title X, §1079(a), Nov. 25, 2015, 129 Stat. 999; Pub. L. 114–328, div. A, title X, §1081(c)(6), Dec. 23, 2016, 130 Stat. 2420; Pub. L. 115–91, div. A, title II, §213, Dec. 12, 2017, 131 Stat. 1324; Pub. L. 115–232, div. A, title X, §1081(a)(21), Aug. 13, 2018, 132 Stat. 1984; Pub. L. 116–92, div. A, title II, §215, Dec. 20, 2019, 133 Stat. 1257.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–92 substituted "Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment," for "Assistant Secretary of Defense for Research and Engineering".
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–232 substituted "Federal Government," for "Federal Government,,".
 
@@ -110,7 +112,7 @@ Pub. L. 115–91, div. A, title X, §1089, Dec. 12, 2017, 131 Stat. 1605, provid
 
 "(a)
 
-In General.—Under the authority of section 2374a of title 10, United States Code, and section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719), the Secretary of Defense, in consultation with the Secretary of the Navy, the Secretary of the Air Force, the Commandant of the Marine Corps, and the heads of any other appropriate Federal agencies that have experience in prize competitions, and when appropriate, in coordination with private organizations, may establish a prize competition designed toaccelerate identification of the root cause or causes of, or find solutions to, physiological episodes experienced in Navy, Marine Corps, and Air Force training and operational aircraft.
+In General.—Under the authority of section 2374a of title 10, United States Code, and section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719), the Secretary of Defense, in consultation with the Secretary of the Navy, the Secretary of the Air Force, the Commandant of the Marine Corps, and the heads of any other appropriate Federal agencies that have experience in prize competitions, and when appropriate, in coordination with private organizations, may establish a prize competition designed to accelerate identification of the root cause or causes of, or find solutions to, physiological episodes experienced in Navy, Marine Corps, and Air Force training and operational aircraft.
 
 "(b)
 

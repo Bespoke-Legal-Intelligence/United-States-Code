@@ -14,7 +14,7 @@
 
 &emsp;(1) shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending; and
 
-&emsp;(2) shall be deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merits that the case so removed is one in which a remedy by suit within the meaning of subsection (a) is not availableagainst the United States, the case shall be remanded to the State court.
+&emsp;(2) shall be deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merits that the case so removed is one in which a remedy by suit within the meaning of subsection (a) is not available against the United States, the case shall be remanded to the State court.
 
 (d) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28, and with the same effect.
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A)(i) trade in that species is detrimental to the species,
 
-&emsp;&emsp;(ii) there is not sufficient information available on which to base a judgment that the species is not detrimentally affected by trade in that species, or
+&emsp;&emsp;(ii) there is not sufficient information available on which to base a judgment thatthe species is not detrimentally affected by trade in that species, or
 
 &emsp;&emsp;(iii) remedial measures have been recommended by the Standing Committee of the Convention that have not been implemented; and
 

@@ -88,7 +88,7 @@
 
 #### (C) Special rule
 
-&emsp;&emsp;The process established under subparagraph (A) shall include, except as provided in subparagraph (D), in the case of a part D eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) who has failed to enroll in a prescription drug plan or an MA–PD plan, for the enrollment in a prescription drug plan that has a monthly beneficiary premium that does not exceed the premium assistance available under section 1395w–114(a)(1)(A) of this title).<sup>1</sup> If there is more than one such plan available, the Secretary shall enroll such an individual on a random basis among all such plans in the PDP region. Nothing in the previous sentence shall prevent such an individual from declining or changing such enrollment.
+&emsp;&emsp;The process established under subparagraph (A) shall include, except as provided in subparagraph (D), in the case of a part D eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) who has failed to enroll in a prescription drug plan or an MA–PD plan, for the enrollment in a prescription drug plan that has a monthly beneficiary premium that does not exceed the premium assistance available under section 1395w–114(a)(1)(A) of this title).<sup>1</sup> If there ismore than one such plan available, the Secretary shall enroll such an individual on a random basis among all such plans in the PDP region. Nothing in the previous sentence shall prevent such an individual from declining or changing such enrollment.
 
 #### (D) Special rule for plans that waive de minimis premiums
 
@@ -152,7 +152,7 @@
 
 #### (i) Provision of information
 
-&emsp;&emsp;&emsp;The Secretary may provide the information under subparagraph (A) only to theextent necessary to carry out such subparagraph.
+&emsp;&emsp;&emsp;The Secretary may provide the information under subparagraph (A) only to the extent necessary to carry out such subparagraph.
 
 #### (ii) Use of information
 
@@ -256,7 +256,7 @@ Stakeholder meetings prior to effective date.—
 
 &emsp;"(A)
 
-In general.—Not later than January 1, 2017, the Secretary of Health and Human Services shall convene stakeholders, including individuals entitled to benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] or enrolled under part B of such title \[42 U.S.C. 1395j et seq.\], advocacy groups representing such individuals, physicians, pharmacists, and other clinicians, retail pharmacies, plan sponsors, entities delegated by plan sponsors, and biopharmaceutical manufacturers for input regarding the topics described in subparagraph (B). The input described in the preceding sentence shall be provided to the Secretary in sufficient time in order for the Secretary to take such input into account in promulgating the regulations pursuant to paragraph (3).
+In general.—Not later than January 1, 2017, the Secretary of Health and Human Services shall convene stakeholders, including individuals entitled to benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] or enrolled under part B of such title \[42 U.S.C. 1395j et seq.\], advocacy groups representing such individuals, physicians, pharmacists, and other clinicians, retail pharmacies, plan sponsors, entities delegated by plansponsors, and biopharmaceutical manufacturers for input regarding the topics described in subparagraph (B). The input described in the preceding sentence shall be provided to the Secretary in sufficient time in order for the Secretary to take such input into account in promulgating the regulations pursuant to paragraph (3).
 
 &emsp;"(B)
 
@@ -454,7 +454,7 @@ Pub. L. 108–173, title I, §110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
 Study.—The Federal Trade Commission shall conduct a study of differences in payment amounts for pharmacy services provided to enrollees in group health plans that utilize pharmacy benefit managers. Such study shall include the following:
 
-&emsp;"(1) An assessment of the differences in costs incurred by such enrollees and plans for prescriptiondrugs dispensed by mail-order pharmacies owned by pharmaceutical benefit managers compared to mail-order pharmacies not owned by pharmaceutical benefit managers, and community pharmacies.
+&emsp;"(1) An assessment of the differences in costs incurred by such enrollees and plans for prescription drugs dispensed by mail-order pharmacies owned by pharmaceutical benefit managers compared to mail-order pharmacies not owned by pharmaceutical benefit managers, and community pharmacies.
 
 &emsp;"(2) Whether such plans are acting in a manner that maximizes competition and results in lower prescription drug prices for enrollees.
 

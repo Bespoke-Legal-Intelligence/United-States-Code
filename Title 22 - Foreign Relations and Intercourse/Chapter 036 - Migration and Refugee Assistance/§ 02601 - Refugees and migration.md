@@ -58,7 +58,7 @@ Subsec. (c)(2). Pub. L. 103–236, §430(a)(4), substituted "$100,000,000" for "
 
 <b>1985</b>—Subsec. (f). Pub. L. 99–93 added subsec. (f).
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–212, §312(b)(1), in par. (1) inserted provisions respecting contributions to theIntergovernmental Committee for European Migration, etc., in par. (2) inserted provisions requiring refugees to be outside of the United States, and struck out requirement that the assistance contribute to the defense or security of the United States, and struck out pars. (3) to (6), which related to assistance when determined by the President to be in the interest of the United States, assistance to State and local agencies, assistance for transportation and resettlement, and assistance for employment and professional refresher training projects, respectively.
+<b>1980</b>—Subsec. (b). Pub. L. 96–212, §312(b)(1), in par. (1) inserted provisions respecting contributions to the Intergovernmental Committee for European Migration, etc., in par. (2) inserted provisions requiring refugees to be outside of the United States, and struck out requirement that the assistance contribute to the defense or security of the United States, and struck out pars. (3) to (6), which related to assistance when determined by the President to be in the interest of the United States, assistance to State and local agencies, assistance for transportation and resettlement, and assistance for employment and professional refresher training projects, respectively.
 
 Subsec. (c)(2). Pub. L. 96–212, §312(b)(2), inserted provisions increasing amount from $25,000,000 to $50,000,000.
 
@@ -68,7 +68,7 @@ Subsec. (c)(2). Pub. L. 96–212, §312(b)(2), inserted provisions increasing am
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–212 effective with respect to fiscal years beginning on and after Oct. 1, 1979, see section 313 of Pub. L. 96–212, set out as an Effective Date note under section 1522 of Title 8, Immigration and Nationality.
+Amendment by Pub. L. 96–212 effective with respect to fiscal years beginning on and after Oct. 1, 1979, see section 313 of Pub. L. 96–212, set out as an Effective Date note under section 1522 of Title 8, Aliens and Nationality.
 
 #### Short Title
 
@@ -126,7 +126,7 @@ Standards for Refugee Women and Children.—The United States Government, in pro
 
 "(b)
 
-Procedures.—The Secretary of State should adopt specific procedures to ensure that all recipients of United States Government refugee and migration assistance funds implement the standards outlined in subsection (a).
+Procedures.—The Secretary of State should adopt specific procedures to ensure that all recipientsof United States Government refugee and migration assistance funds implement the standards outlined in subsection (a).
 
 "(c)
 

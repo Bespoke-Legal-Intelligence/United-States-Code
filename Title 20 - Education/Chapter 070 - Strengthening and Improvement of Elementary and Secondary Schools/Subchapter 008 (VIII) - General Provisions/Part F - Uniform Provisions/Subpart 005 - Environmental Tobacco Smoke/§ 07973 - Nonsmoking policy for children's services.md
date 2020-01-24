@@ -28,7 +28,7 @@ After January 8, 2002, no person shall permit smoking within any indoor facility
 
 #### (A) In general
 
-&emsp;&emsp;After January 8, 2002, no Federal agency shall permit smoking within any indoor facility (or portion of such facility) operatedby such agency, directly or by contract, to provide routine or regular health or day care or early childhood education programs to children.
+&emsp;&emsp;After January 8, 2002, no Federal agency shall permit smoking within any indoor facility (or portion of such facility) operated by such agency, directly or by contract, to provide routine or regular health or day care or early childhood education programs to children.
 
 #### (B) Exception
 
@@ -76,7 +76,7 @@ The prohibitions in subsections (a) through (c) shall be published in a notice i
 
 #### (6) Failure to comply
 
-&emsp;If a person fails to pay an assessment of a civil penalty or comply with an order, after the assessment or order, or both, are final under this section, or after a court has entered a final judgment under paragraph (5) in favor of the Secretary, the Attorney General, at the request of the Secretary, shall recover the amount of the civil penalty (plus interest at prevailing rates from the day the assessmentor order, or both, are final) or enforce the order in an action brought in the appropriate district court of the United States. In such action, the validity and appropriateness of the penalty or order or the amount of the penalty shall not be subject to review.
+&emsp;If a person fails to pay an assessment of a civil penalty or comply with an order, after the assessment or order, or both, are final under this section, or after a court has entered a final judgment under paragraph (5) in favor of the Secretary, the Attorney General, at the request of the Secretary, shall recover the amount of the civil penalty (plus interest atprevailing rates from the day the assessment or order, or both, are final) or enforce the order in an action brought in the appropriate district court of the United States. In such action, the validity and appropriateness of the penalty or order or the amount of the penalty shall not be subject to review.
 
 (Pub. L. 89–10, title VIII, §8573, formerly title IV, §4303, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1774; renumbered title IX, §9563, renumbered title VIII, §8573, and amended Pub. L. 114–95, title IV, §4001(a)(1), (4)(A), (B), (C)(ii), title VIII, §8001(a)(9), Dec. 10, 2015, 129 Stat. 1966, 2088, 2089.)
 

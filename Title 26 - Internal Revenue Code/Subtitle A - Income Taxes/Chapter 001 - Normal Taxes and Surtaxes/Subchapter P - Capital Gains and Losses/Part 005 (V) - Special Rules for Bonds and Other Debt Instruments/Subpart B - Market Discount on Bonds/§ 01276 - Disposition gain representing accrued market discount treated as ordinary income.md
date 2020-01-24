@@ -22,7 +22,7 @@
 
 #### (4) Gain treated as interest for certain purposes
 
-&emsp;Except for purposes of sections 103, 871(a), 881, 1441, 1442, and 6049 (and such other provisions as may be specified in regulations), any amount treated as ordinary income under paragraph (1) or (3) shall be treated as interest for purposes of this title.
+&emsp;Except for purposes of sections 103, 871(a), 881, 1441, 1442, and 6049 (and such other provisions as may be specified in regulations), any amount treated as ordinary income underparagraph (1) or (3) shall be treated as interest for purposes of this title.
 
 #### (b) Accrued market discount
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 631(e)(15) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation afterJuly 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(e)(15) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 1803(a)(5) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

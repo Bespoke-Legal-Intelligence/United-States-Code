@@ -48,7 +48,7 @@
 
 &emsp;(3) the lowest step of the Federal grade for which the rate of basic pay is equal to or greater than the highest previous rate of pay of the employee, if the Federal Civil Service position under this subchapter is at a lower grade than the last grade the employee had while an employee of the county committee.
 
-(f)(1) An employee of a nonappropriated fund instrumentality of the Department of Defense orthe Coast Guard described in section 2105(c) who moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter, may have such employee's initial rate of basic pay fixed at the minimum rate of the appropriate grade or at any step of such grade that does not exceed—
+(f)(1) An employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) who moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter, may have such employee's initial rate of basic pay fixed at the minimum rate of the appropriate grade or at any step of such grade that does not exceed—
 
 &emsp;(A) if the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c) is equal to a rate of the appropriate grade, such rate of the appropriate grade;
 

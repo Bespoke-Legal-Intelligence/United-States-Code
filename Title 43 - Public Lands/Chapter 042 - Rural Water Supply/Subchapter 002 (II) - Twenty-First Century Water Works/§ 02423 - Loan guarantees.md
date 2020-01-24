@@ -12,7 +12,7 @@ Subject to the availability of appropriations, the Secretary may make available 
 
 #### (2) Amount
 
-&emsp;Loan guarantees by the Secretary shall not exceed an amount equal to 90 percent of the cost of the project that is the subject of the loan guarantee, as estimated at the time at which the loan guarantee is issued.
+&emsp;Loan guarantees by the Secretary shall not exceed an amount equal to 90 percent of thecost of the project that is the subject of the loan guarantee, as estimated at the time at which the loan guarantee is issued.
 
 #### (3) Interest rate
 

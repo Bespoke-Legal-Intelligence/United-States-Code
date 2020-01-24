@@ -80,7 +80,7 @@
 
 #### (B) Considerations
 
-&emsp;&emsp;In making the determination under subparagraph (A), the Secretary shall give equalconsideration to each of the following factors:
+&emsp;&emsp;In making the determination under subparagraph (A), the Secretary shall give equal consideration to each of the following factors:
 
 &emsp;&emsp;&emsp;(i) With respect to the applicant's proposal—
 

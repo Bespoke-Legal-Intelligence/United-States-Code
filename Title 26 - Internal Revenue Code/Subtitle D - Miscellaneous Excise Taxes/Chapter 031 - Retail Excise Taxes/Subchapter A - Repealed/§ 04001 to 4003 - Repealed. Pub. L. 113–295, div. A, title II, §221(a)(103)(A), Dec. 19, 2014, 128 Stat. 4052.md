@@ -20,5 +20,5 @@ Section 4012, added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 S
 
 #### Effective Date of Repeal
 
-Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under section 1 of this title.
+Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set outas an Effective Date of 2014 Amendment note under section 1 of this title.
 

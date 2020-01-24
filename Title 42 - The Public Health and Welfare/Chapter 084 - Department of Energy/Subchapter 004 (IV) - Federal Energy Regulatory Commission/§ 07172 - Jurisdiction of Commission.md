@@ -80,7 +80,7 @@ Pub. L. 102–486, title XVIII, Oct. 24, 1992, 106 Stat. 3010, provided that:
 
 "(a)
 
-Establishment.—Not later than 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], the Federal Energy Regulatory Commission shall issue a final rule which establishes a simplified and generally applicable ratemaking methodology for oil pipelines in accordance with section 1(5) of part I of the Interstate Commerce Act \[former 49 U.S.C. 1(5)\].
+Establishment.—Not later than 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], the Federal Energy Regulatory Commission shall issue a final rule which establishes a simplified and generallyapplicable ratemaking methodology for oil pipelines in accordance with section 1(5) of part I of the Interstate Commerce Act \[former 49 U.S.C. 1(5)\].
 
 "(b)
 

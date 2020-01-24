@@ -2,13 +2,13 @@
 
 #### (a) Authorization and appropriation
 
-There are authorized to be appropriated, and there are appropriated, to carry out this section $150,000,000 for each of the fiscal years 2010through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014. In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+There are authorized to be appropriated, and there are appropriated, to carry out this section $150,000,000 for each of the fiscal years 2010 through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014. In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
 #### (b) Program authorized
 
 #### (1) Grants authorized
 
-&emsp;From amounts appropriated under subsection (a), the Secretary shall, subject to the availability of appropriations, award grants, from allotments under subsection (c), to States (and to philanthropic organization,<sup>1</sup> as appropriate under paragraph (3)) having applications approved under subsection (d), to enable the State (or philanthropic organization) to pay the Federal share of the costs of carrying out the activities and services described in subsection (f).
+&emsp;From amounts appropriated under subsection (a), the Secretary shall, subject to the availability of appropriations, award grants, from allotments under subsection (c), to States (and to philanthropic organization,<sup>1</sup> asappropriate under paragraph (3)) having applications approved under subsection (d), to enable the State (or philanthropic organization) to pay the Federal share of the costs of carrying out the activities and services described in subsection (f).
 
 #### (2) Federal share; non-Federal share
 
@@ -166,7 +166,7 @@ A State receiving a payment under this section may elect to make a subgrant to o
 
 #### (A) Organizational disclosures
 
-&emsp;&emsp;In the case of a State that has chosen to make a payment to an eligible not-for-profit holder in the State in accordance with subsection (e), the holder shall clearly and prominently indicate the name of the holder and the nature of the holder's work in connection with any of the activities carried out, or any information or services provided, with such funds.
+&emsp;&emsp;In the case of a State that has chosen to make a payment to an eligible not-for-profit holder in the State in accordance with subsection (e), the holder shall clearly and prominently indicate the name of the holderand the nature of the holder's work in connection with any of the activities carried out, or any information or services provided, with such funds.
 
 #### (B) Informational disclosures
 
@@ -248,7 +248,7 @@ In this section:
 
 #### References in Text
 
-The date of the enactment of this Act, referred to in subsec. (e)(1), probably means the date of enactment of Pub. L. 110–84, which enacted this section and was approved Sept. 27, 2007.
+The date of the enactment of this Act, referred to in subsec. (e)(1), probably means the date of enactment ofPub. L. 110–84, which enacted this section and was approved Sept. 27, 2007.
 
 Section 1070a–1 of this title, referred to in subsec. (f)(1)(F)(i)(II), was omitted from the Code upon the expiration of Secretary's authority to make grants at the end of award year 2010–2011.
 
@@ -296,7 +296,7 @@ Another prior section 1145b, Pub. L. 89–329, title XII, §1202, formerly §120
 
 Section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. L. 99–498, title XII, §1205, Oct. 17, 1986, 100 Stat. 1577, related to financial responsibility of foreign students.
 
-Another prior section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. L. 94–482, title I, §183, Oct. 12, 1976,90 Stat. 2167, related to availability of appropriations, prior to repeal by Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, eff. Oct. 1, 1980.
+Another prior section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. L. 94–482, title I, §183, Oct. 12, 1976, 90 Stat. 2167, related to availability of appropriations, prior to repeal by Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, eff. Oct. 1, 1980.
 
 Section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 102–325, title XII, §1204, July 23, 1992, 106 Stat. 794; amended Pub. L. 103–208, §2(j)(54), Dec. 20, 1993, 107 Stat. 2485, related to disclosures of foreign gifts.
 
@@ -304,7 +304,7 @@ Another prior section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. 
 
 Section 1145d–1, Pub. L. 89–329, title XII, §1210, as added Pub. L. 100–50, §21(b), June 3, 1987, 101 Stat. 360, related to application of peer review process.
 
-Section 1145e, Pub. L. 89–329, title XII, §1211, formerly §1210, as added Pub. L. 99–498, title XII, §1207, Oct. 17, 1986, 100 Stat. 1579; renumbered §1211, Pub. L. 100–50, §21(b), June 3, 1987, 101 Stat. 360, related to aggregate limit of authorization of appropriations.
+Section 1145e, Pub. L. 89–329, title XII, §1211, formerly §1210, as added Pub. L. 99–498, title XII, §1207, Oct. 17, 1986, 100 Stat. 1579; renumbered §1211, Pub. L. 100–50,§21(b), June 3, 1987, 101 Stat. 360, related to aggregate limit of authorization of appropriations.
 
 Section 1145f, Pub. L. 89–329, title XII, §1212, formerly §1211, as added Pub. L. 100–418, title VI, §6231, Aug. 23, 1988, 102 Stat. 1518; renumbered §1212 and amended Pub. L. 103–208, §2(j)(55), (56), Dec. 20, 1993, 107 Stat. 2485, related to technology transfer centers.
 

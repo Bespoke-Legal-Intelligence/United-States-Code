@@ -14,7 +14,7 @@
 
 &emsp;(4) payments received for loss or damage to property of the fund.
 
-(d) The fund shall be reimbursed, or credited with advance payments, from amounts available to the Department or from other sources, forsupplies and services at rates that will equal the expenses of operation, including accrual of annual leave and the depreciation of plant and equipment. Amounts the Secretary decides are in excess of the needs of the fund shall be deposited at the end of each fiscal year in the Treasury as miscellaneous receipts.
+(d) The fund shall be reimbursed, or credited with advance payments, from amounts available to the Department or from other sources, for supplies and services at rates that will equal the expenses of operation, including accrual of annual leave and the depreciation of plant and equipment. Amounts the Secretary decides are in excess of the needs of the fund shall be deposited at the end of each fiscal year in the Treasury as miscellaneous receipts.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 881; Pub. L. 98–369, div. A, title IV, §442, July 18, 1984, 98 Stat. 816.)
 

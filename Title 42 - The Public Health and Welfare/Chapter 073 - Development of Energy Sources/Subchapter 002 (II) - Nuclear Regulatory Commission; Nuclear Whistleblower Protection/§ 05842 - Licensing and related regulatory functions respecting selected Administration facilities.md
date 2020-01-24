@@ -46,5 +46,5 @@ Pub. L. 96–295, title III, §305(a), June 30, 1980, 94 Stat. 790, provided tha
 
 #### Study of Extension of Licensing and Regulatory Authority of Commission; Report to Congress
 
-Pub. L. 95–601, §12, Nov. 6, 1978, 92 Stat. 2953, directed Commission, in cooperation with Department of Energy, to conduct a study of extending the Commission's licensing or regulatory authority to include categories of existing and future Federal radioactive waste storage and disposal activities not presently subject tosuch authority, and on or before Mar. 1, 1979, to submit a report to Congress containing results of study, which report was to include a complete listing and inventory of all radioactive waste storage and disposal activities being conducted or planned by Federal agencies.
+Pub. L. 95–601, §12, Nov. 6, 1978, 92 Stat. 2953, directed Commission, in cooperation with Department of Energy, to conduct a study of extending the Commission's licensing or regulatory authority to include categories of existing and future Federal radioactive waste storage and disposal activities not presently subject to such authority, and on or before Mar. 1, 1979, to submit a report to Congress containing results of study, which report was to include a complete listing and inventory of all radioactive waste storage and disposal activities being conducted or planned by Federal agencies.
 

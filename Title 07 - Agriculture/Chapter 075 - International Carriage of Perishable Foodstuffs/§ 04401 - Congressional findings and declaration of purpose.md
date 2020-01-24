@@ -14,7 +14,7 @@ Congress hereby finds and declares that—
 
 #### References in Text
 
-This chapter, referred to in pars. (3) and (4), was in the original "this Act", meaning Pub. L. 97–325, Oct. 15, 1982, 96 Stat. 1603, known as the International Carriage of Perishable Foodstuffs Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in pars. (3) and (4), was in the original "this Act", meaning Pub. L. 97–325, Oct. 15,1982, 96 Stat. 1603, known as the International Carriage of Perishable Foodstuffs Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 

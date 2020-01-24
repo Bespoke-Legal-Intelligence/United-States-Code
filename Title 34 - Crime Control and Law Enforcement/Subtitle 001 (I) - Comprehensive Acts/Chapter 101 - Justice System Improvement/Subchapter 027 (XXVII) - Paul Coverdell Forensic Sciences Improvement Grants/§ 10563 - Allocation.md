@@ -16,7 +16,7 @@
 
 #### (4) Proportional reduction
 
-&emsp;If the amounts available to carry out this subchapter in each fiscal year are insufficient to pay in full the total payment that any State is otherwise eligible to receive under paragraph (3), then the Attorney General shall reduce payments under paragraph (1) for such payment period to the extent of such insufficiency. Reductions under the preceding sentence shall be allocated among the States (other than States whose payment is determined under paragraph (3)) in the same proportions as amounts would be allocated under paragraph (1) without regard to paragraph (3).
+&emsp;If the amounts available to carry out this subchapter in each fiscal year are insufficient to pay in full the total payment that any State is otherwise eligible to receive under paragraph (3), then the Attorney General shall reduce payments under paragraph (1) for such payment period to the extent of such insufficiency. Reductions under the preceding sentence shall be allocated among the States\(other than States whose payment is determined under paragraph (3)) in the same proportions as amounts would be allocated under paragraph (1) without regard to paragraph (3).
 
 #### (b) State defined
 

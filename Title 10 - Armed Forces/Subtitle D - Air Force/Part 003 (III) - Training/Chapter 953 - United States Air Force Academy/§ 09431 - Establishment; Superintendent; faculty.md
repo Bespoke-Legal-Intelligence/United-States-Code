@@ -98,7 +98,7 @@ Pub. L. 88–390, title VI, §608, Aug. 1, 1964, 78 Stat. 364, provided that: "N
 
 #### Appropriations for Air Force Academy
 
-Act Apr. 1, 1954, ch. 127, 68 Stat. 47, which established the Air Force Academy, provided by section 9 of suchact, as amended by act Aug. 3, 1956, ch. 939, title IV, §413(b), 70 Stat. 1018, and by Pub. L. 85–241, title V, §508, Aug. 30, 1957, 71 Stat. 559; Pub. L. 85–685, title III, §309, Aug. 20, 1958, 72 Stat. 659; Pub. L. 87–57, title III, §304, June 27, 1961, 75 Stat. 108; Pub. L. 90–408, title III, §304, July 21, 1968, 82 Stat. 385, that there was authorized to be appropriated not to exceed the sum of $141,978,000 to carry out the provisions of that Act, of which not to exceed $26,000,000 was to be the amount so appropriated for any such period, not to exceed $1,858,000 might be utilized for the purpose of section 4 of this Act \[set out below\].
+Act Apr. 1, 1954, ch. 127, 68 Stat. 47, which established the Air Force Academy, provided by section 9 of such act, as amended by act Aug. 3, 1956, ch. 939, title IV, §413(b), 70 Stat. 1018, and by Pub. L. 85–241, title V, §508, Aug. 30, 1957, 71 Stat. 559; Pub. L. 85–685, title III, §309, Aug. 20, 1958, 72 Stat. 659; Pub. L. 87–57, title III, §304, June 27, 1961, 75 Stat. 108; Pub. L. 90–408, title III, §304, July 21, 1968, 82 Stat. 385, that there was authorized to be appropriated not to exceed the sum of $141,978,000 to carry out the provisions of that Act, of which not to exceed $26,000,000 was to be the amount so appropriated for any such period, not to exceed $1,858,000 might be utilized for the purpose of section 4 of this Act \[set out below\].
 
 #### Temporary Buildings and Facilities
 

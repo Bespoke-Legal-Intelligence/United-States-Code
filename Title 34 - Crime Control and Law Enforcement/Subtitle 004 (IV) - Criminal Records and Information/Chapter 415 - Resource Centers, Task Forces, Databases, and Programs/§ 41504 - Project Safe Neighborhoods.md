@@ -12,5 +12,5 @@ There are authorized to be appropriated to carry out this section $9,000,000 for
 
 #### Codification
 
-Section was formerly classified as a note under section 509 of Title 28, Judiciary and Judicial Procedure,prior to editorial reclassification and renumbering as this section.
+Section was formerly classified as a note under section 509 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
 

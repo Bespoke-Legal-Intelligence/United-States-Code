@@ -36,7 +36,7 @@ Sections 10221(a), 10221(c), and 10225 of this title shall apply with respect to
 
 If a State requires by law compliance with the core requirements, then for the period such law is in effect in such State such State shall be rebuttably presumed to satisfy such requirements.
 
-(Pub. L. 93–415, title II, §299A, formerly §262, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 95–115, §6(c), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §16, Dec. 8, 1980, 94 Stat. 2761; Pub. L. 98–473, title II, §641, Oct. 12, 1984, 98 Stat. 2122; renumbered §292, Pub. L. 100–690, title VII, §7266(3), Nov. 18, 1988, 102 Stat. 4449; renumbered §299A, Pub. L. 102–586, §2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006; Pub. L. 107–273, div. C, title II, §12214, Nov. 2, 2002, 116 Stat. 1892; Pub. L. 115–385, title II, §209, Dec. 21, 2018, 132 Stat. 5144.)
+(Pub. L. 93–415, title II, §299A, formerly §262, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 95–115, §6(c), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §16, Dec. 8, 1980, 94 Stat. 2761; Pub. L. 98–473, title II, §641, Oct. 12, 1984, 98 Stat. 2122; renumbered §292, Pub. L. 100–690, title VII, §7266(3), Nov. 18, 1988, 102 Stat. 4449; renumbered §299A, Pub. L. 102–586, §2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006; Pub. L. 107–273, div. C, title II, §12214, Nov. 2, 2002, 116Stat. 1892; Pub. L. 115–385, title II, §209, Dec. 21, 2018, 132 Stat. 5144.)
 
 #### References in Text
 

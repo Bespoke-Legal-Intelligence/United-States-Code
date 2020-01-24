@@ -64,7 +64,7 @@ The Secretary shall establish uniform baseline measures in order to properly eva
 
 #### (g) Preference
 
-In making grants under this section, the Secretary shall give preference to eligible entities that demonstrate in their applications plans to utilize patient navigator services to overcome significant barriers in order to improve health care outcomes in their respective communities.
+In making grants under this section, the Secretary shall give preference to eligible entitiesthat demonstrate in their applications plans to utilize patient navigator services to overcome significant barriers in order to improve health care outcomes in their respective communities.
 
 #### (h) Duplication of services
 

@@ -70,7 +70,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 (3) The Director shall—
 
-&emsp;(A) serve as an effective and visible advocate on behalf of older individuals who reside in long-term care facilities, within the Department of Health and Human Services and with other departments, agencies, and instrumentalities of the Federal Government regarding all Federal policies affecting such individuals;
+&emsp;(A) serve as an effective and visible advocate on behalf of older individuals who reside in long-term care facilities, within the Department of Health and Human Services and withother departments, agencies, and instrumentalities of the Federal Government regarding all Federal policies affecting such individuals;
 
 &emsp;(B) review and make recommendations to the Assistant Secretary regarding—
 
@@ -140,9 +140,9 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;&emsp;(ix) promoting collaborative efforts and diminishing duplicative efforts in the development and carrying out of elder justice programs at the Federal, State and local levels; and
 
-&emsp;(B) to assist States and other eligible entities under subchapter XI to develop strategic plans to better coordinate elder justice activities, research, and training.
+&emsp;(B) to assist States and other eligible entities under subchapter XI to develop strategicplans to better coordinate elder justice activities, research, and training.
 
-(3) The Secretary, acting through the Assistant Secretary, may issue such regulations asmay be necessary to carry out this subsection and section 3058aa–1 of this title.
+(3) The Secretary, acting through the Assistant Secretary, may issue such regulations as may be necessary to carry out this subsection and section 3058aa–1 of this title.
 
 #### (f) Mental health services
 

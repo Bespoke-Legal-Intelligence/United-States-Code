@@ -150,7 +150,7 @@ Criteria and Requirements.—The Secretaries shall—
 
 &emsp;"(1) establish criteria and requirements to implement the program; and
 
-&emsp;"(2) when promulgating regulations to implement the program under paragraph (1), consult with Statesthat have implemented State programs that provide assistance to—
+&emsp;"(2) when promulgating regulations to implement the program under paragraph (1), consult with States that have implemented State programs that provide assistance to—
 
 &emsp;&emsp;"(A) livestock producers to undertake proactive activities to reduce the risk of livestock loss due to predation by wolves; or
 

@@ -18,7 +18,7 @@ As part of the annual presentation materials for foreign assistance submitted to
 
 Amounts appropriated to carry out this part shall be available for economic programs only and may not be used for military or paramilitary purposes.
 
-(Pub. L. 87–195, pt. II, §531, as added Pub. L. 99–83, title II, §201(a), Aug. 8, 1985, 99 Stat. 210; amended Pub. L. 101–513, title V, §562(d)(8), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 105–277, div. A,§101(d) \[title V, §533(a)(5)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–180.)
+(Pub. L. 87–195, pt. II, §531, as added Pub. L. 99–83, title II, §201(a), Aug. 8, 1985, 99 Stat. 210; amended Pub. L. 101–513, title V, §562(d)(8), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 105–277, div. A, §101(d) \[title V, §533(a)(5)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–180.)
 
 #### References to Subchapter I Deemed To Include This and Certain Other Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
 
@@ -98,7 +98,7 @@ Annual Reports on Economic Conditions.—In order to assist the Congress in exam
 
 #### References to Security Supporting Assistance as References to Assistance Under Part IV of Subchapter II of This Chapter
 
-Pub. L. 95–384, §10(b)(6), Sept. 26, 1978, 92 Stat. 735, provided that: "After September 30, 1978, any referencein any law to security supporting assistance shall be deemed to be a reference to assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[this part\]."
+Pub. L. 95–384, §10(b)(6), Sept. 26, 1978, 92 Stat. 735, provided that: "After September 30, 1978, any reference in any law to security supporting assistance shall be deemed to be a reference to assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[this part\]."
 
 #### Security Supporting Assistance Program for Egypt
 

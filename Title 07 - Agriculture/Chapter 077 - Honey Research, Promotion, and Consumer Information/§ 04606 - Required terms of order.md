@@ -8,7 +8,7 @@ Any order issued by the Secretary under this chapter shall contain the terms and
 
 (1) Such order shall provide for the establishment and appointment by the Secretary of a National Honey Nominations Committee which shall consist of not more than one member from each State, from nominations submitted by each State association. If a State association does not submit a nomination, the Secretary may provide for nominations from that State to be made in a different manner, except that if a State which is not one of the top twenty honey-producing States in the United States (as determined by the Secretary) does not submit a nomination, such State shall not be represented on the Committee.
 
-(2) Members of the Committee shall serve for three-year terms with no member serving morethan two consecutive three-year terms, except that the term of appointments to the Committee may be staggered periodically, as determined by the Secretary.
+(2) Members of the Committee shall serve for three-year terms with no member serving more than two consecutive three-year terms, except that the term of appointments to the Committee may be staggered periodically, as determined by the Secretary.
 
 (3) The Committee shall select its Chairman by a majority vote.
 
@@ -192,7 +192,7 @@ Nonmembers.—As a condition of certification under this paragraph, an organizat
 
 (7)
 
-Minimum percentage of honey producers.—Notwithstanding any other provision ofthis subsection, at least 50 percent of the members of the Honey Board shall be honey producers.
+Minimum percentage of honey producers.—Notwithstanding any other provision of this subsection, at least 50 percent of the members of the Honey Board shall be honey producers.
 
 (8) Members of the Honey Board shall serve for three-year terms with no member serving more than two consecutive three-year terms except that appointments to the Honey Board may be staggered periodically, as determined by the Secretary, to maintain continuity of the Honey Board with respect to all members and with respect to members representing particular groups..<sup>1</sup>
 
@@ -246,7 +246,7 @@ Requirements.—In conducting referenda under subparagraph (B), and in exercisin
 
 Honey board referendum.—If 1 or more orders are approved pursuant to paragraph (C)—
 
-&emsp;&emsp;(i) the Secretary shall not be required to conduct a continuation referendum on the order in existence on the date of enactment of this paragraph; and
+&emsp;&emsp;(i) the Secretary shall not be required to conduct a continuation referendum on theorder in existence on the date of enactment of this paragraph; and
 
 &emsp;&emsp;(ii) that order shall be terminated pursuant to the provisions of the order.
 
@@ -342,7 +342,7 @@ The Honey Board shall develop and submit to the Secretary, for approval, plans f
 
 #### (j) Books and records; reports
 
-The Honey Board shall maintain books and records and prepare and submit to the Secretarysuch reports from time to time as may be required for appropriate accounting with respect to the receipt and disbursement of funds entrusted to it and cause a complete audit report to be submitted to the Secretary at the end of each fiscal year.
+The Honey Board shall maintain books and records and prepare and submit to the Secretary such reports from time to time as may be required for appropriate accounting with respect to the receipt and disbursement of funds entrusted to it and cause a complete audit report to be submitted to the Secretary at the end of each fiscal year.
 
 #### (k) Honey Board; property interests
 
@@ -412,7 +412,7 @@ Subsec. (g). Pub. L. 105–185, §605(f)(5), substituted "by the Honey Board" fo
 
 Subsec. (h). Pub. L. 105–185, §605(f)(6), substituted "by the Honey Board under" for "through assessments authorized by".
 
-<b>1990</b>—Subsec. (c)(2). Pub. L. 101–624, §1983(1)(B), (C), in concluding provisions, substituted "submit nominations for an alternate" for "nominate an alternate oralternates" and inserted at end "However, no producer-packer who, during any three of the preceding five years, purchased for resale more honey than such producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in subparagraph (A) or as an alternate to such producer."
+<b>1990</b>—Subsec. (c)(2). Pub. L. 101–624, §1983(1)(B), (C), in concluding provisions, substituted "submit nominations for an alternate" for "nominate an alternate or alternates" and inserted at end "However, no producer-packer who, during any three of the preceding five years, purchased for resale more honey than such producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in subparagraph (A) or as an alternate to such producer."
 
 Subsec. (c)(2)(C). Pub. L. 101–624, §1983(1)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: "two members who are importers appointed from nominations submitted by the Committee from recommendations made by industry organizations representing importer interests;".
 

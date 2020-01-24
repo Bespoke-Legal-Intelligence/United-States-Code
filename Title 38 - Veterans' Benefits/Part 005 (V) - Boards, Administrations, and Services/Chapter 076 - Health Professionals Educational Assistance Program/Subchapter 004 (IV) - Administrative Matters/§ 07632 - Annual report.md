@@ -24,7 +24,7 @@ Not later than March 1 of each year, the Secretary shall submit to Congress a re
 
 Par. (4). Pub. L. 115–182, §303(b)(1)(E)(ii), substituted "per participant in the Education Debt Reduction Program, and per participant in the Specialty Education Loan Repayment Program" for "and per participant in the Education Debt Reduction Program".
 
-<b>1998</b>—Par. (1). Pub. L. 105–368, §805(5)(A), substituted ", the Tuition Reimbursement Program, the Employee Incentive Scholarship Program, and the Education Debt Reduction Program" for "and the Tuition Reimbursement Program" and inserted "(if any)" after "number of students".
+<b>1998</b>—Par. (1). Pub. L. 105–368, §805(5)(A), substituted ", the Tuition Reimbursement Program, the EmployeeIncentive Scholarship Program, and the Education Debt Reduction Program" for "and the Tuition Reimbursement Program" and inserted "(if any)" after "number of students".
 
 Par. (2). Pub. L. 105–368, §805(5)(B), inserted "(if any)" after "education institutions".
 

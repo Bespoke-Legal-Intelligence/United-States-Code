@@ -366,7 +366,7 @@ Centers for Surface Transportation Excellence.—
 
 &emsp;(1)
 
-In general.—The Secretary shall make grants under this section to establish andmaintain centers for surface transportation excellence.
+In general.—The Secretary shall make grants under this section to establish and maintain centers for surface transportation excellence.
 
 &emsp;(2)
 
@@ -408,7 +408,7 @@ A prior section 504, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(4). Pub. L. 114–94 substituted "104(b)(2)" for "104(b)(3)" and "surface transportation block grant program" for "surface transportation program".
+<b>2015</b>—Subsec. (a)(4). Pub. L. 114–94 substituted "104(b)(2)" for "104(b)(3)" and "surface transportationblock grant program" for "surface transportation program".
 
 Subsec. (d)(4)(B), (C). Pub. L. 114–95 substituted "section 8101 of the Elementary and Secondary Education Act of 1965" for "section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)".
 
@@ -462,7 +462,7 @@ Pub. L. 109–59, title V, §5504, Aug. 10, 2005, 119 Stat. 1822, provided that:
 
 "(a)
 
-Establishment.—The Secretary \[of Transportation\] shall establish a Center for Transportation Advancement and Regional Development (referred to inthis section as the 'Center') to assist, through training, education, and research, in the comprehensive development of small metropolitan and rural regional transportation systems that are responsive to the needs of businesses and local communities.
+Establishment.—The Secretary \[of Transportation\] shall establish a Center for Transportation Advancement and Regional Development (referred to in this section as the 'Center') to assist, through training, education, and research, in the comprehensive development of small metropolitan and rural regional transportation systems that are responsive to the needs of businesses and local communities.
 
 "(b)
 

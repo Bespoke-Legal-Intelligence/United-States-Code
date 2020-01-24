@@ -1,6 +1,6 @@
 ### §7601. Establishment of program; purpose
 
-(a) There is hereby established a program to be known as the Department of Veterans AffairsHealth Professionals Educational Assistance Program (hereinafter in this chapter referred to as the "Educational Assistance Program"). The program consists of—
+(a) There is hereby established a program to be known as the Department of Veterans Affairs Health Professionals Educational Assistance Program (hereinafter in this chapter referred to as the "Educational Assistance Program"). The program consists of—
 
 &emsp;(1) the scholarship program provided for in subchapter II of this chapter;
 

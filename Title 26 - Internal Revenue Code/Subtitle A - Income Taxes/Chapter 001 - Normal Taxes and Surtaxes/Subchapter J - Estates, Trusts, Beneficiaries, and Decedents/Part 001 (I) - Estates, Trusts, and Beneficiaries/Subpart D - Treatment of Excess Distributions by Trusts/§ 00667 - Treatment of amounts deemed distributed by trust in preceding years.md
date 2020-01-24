@@ -86,7 +86,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 #### (i) Limitation on credit
 
-&emsp;&emsp;&emsp;For purposes of determining under subparagraph (A) the amount treated as acredit for any computation year, the limitations under subpart A of part III of subchapter N shall be applied separately with respect to amounts added under subsection (b)(1)(C) to the taxable income of the beneficiary for such computation year. For purposes of computing the increase in tax under subsection (b)(1)(D) for any computation year for which the beneficiary did not choose the benefits of subpart A of part III of subchapter N, the beneficiary shall be treated as having chosen such benefits for such computation year.
+&emsp;&emsp;&emsp;For purposes of determining under subparagraph (A) the amount treated as a credit for any computation year, the limitations under subpart A of part III of subchapter N shall be applied separately with respect to amounts added under subsection (b)(1)(C) to the taxable income of the beneficiary for such computation year. For purposes of computing the increase in tax under subsection (b)(1)(D) for any computation year for which the beneficiary did not choose the benefits of subpart A of part III of subchapter N, the beneficiary shall be treated as having chosen such benefits for such computation year.
 
 #### (ii) Retention of character
 
@@ -124,7 +124,7 @@ Subsec. (e). Pub. L. 95–600, §701(r)(1), added subsec. (e).
 
 <b>1969</b>—Subsec. (a). Pub. L. 91–172 incorporated existing provisions of first sentence in provisions designated as subsec. (a), included distributions made under section 669 of this title, and struck out provisions for credit of taxes imposed on the trust against tax of beneficiary. See subsec. (b) of this section.
 
-Subsec. (b). Pub. L. 91–172 incorporated provision of first sentence for credit of taxes imposed on the trust against tax of beneficiary, and provided for interest free credit and method of computation of its amount. The second sentence had provided that the amount of taxes which may not be refunded or credited to the trust shall be an amount equal to the excess of (1) the taxes imposed on the trust for any preceding taxable year (computed without regard to the accumulation distribution for the taxable year) over (2) the amount of taxes for such preceding taxable year imposed on the undistributed portion of distributable net income of the trust for such preceding taxable year after the application of this subpart on account of the accumulation distribution determined for such taxable year.
+Subsec. (b). Pub. L. 91–172 incorporated provision of first sentence for credit of taxes imposed on the trust against tax of beneficiary, and provided for interest free credit and method of computation of its amount. The second sentence had provided that the amount of taxes which may not be refunded or credited to thetrust shall be an amount equal to the excess of (1) the taxes imposed on the trust for any preceding taxable year (computed without regard to the accumulation distribution for the taxable year) over (2) the amount of taxes for such preceding taxable year imposed on the undistributed portion of distributable net income of the trust for such preceding taxable year after the application of this subpart on account of the accumulation distribution determined for such taxable year.
 
 #### Effective Date of 1986 Amendment
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title VII, §701(h), Oct. 4, 1976, 90 Stat. 1580, provided that: "The amendments made by subsections (a), (b), (c), (d), and (f) of this section \[amending this section and sections 665, 666, 1302, and 6401 ofthis title and repealing sections 668 and 669 of this title\] shall apply to distributions made in taxable years beginning after December 31, 1975. The amendments made by subsection (e) of this section \[enacting section 644 of this title and amending section 641 of this title\] shall apply to transfers in trust made after May 21, 1976."
+Pub. L. 94–455, title VII, §701(h), Oct. 4, 1976, 90 Stat. 1580, provided that: "The amendments made by subsections (a), (b), (c), (d), and (f) of this section \[amending this section and sections 665, 666, 1302, and 6401 of this title and repealing sections 668 and 669 of this title\] shall apply to distributions made in taxable years beginning after December 31, 1975. The amendments made by subsection (e) of this section \[enacting section 644 of this title and amending section 641 of this title\] shall apply to transfers in trust made after May 21, 1976."
 
 #### Effective Date of 1969 Amendment
 

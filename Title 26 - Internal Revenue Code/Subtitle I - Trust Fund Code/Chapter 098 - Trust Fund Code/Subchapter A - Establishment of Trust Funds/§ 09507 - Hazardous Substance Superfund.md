@@ -40,7 +40,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 &emsp;&emsp;&emsp;(iii) section 111(m) of CERCLA (as so in effect), or
 
-&emsp;&emsp;(B) hereafter authorized by a law which does not authorize the expenditure out ofthe Superfund for a general purpose not covered by subparagraph (A) (as so in effect).
+&emsp;&emsp;(B) hereafter authorized by a law which does not authorize the expenditure out of the Superfund for a general purpose not covered by subparagraph (A) (as so in effect).
 
 #### (2) Exception for certain transfers, etc., of hazardous substances
 
@@ -132,7 +132,7 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 "(2)
 
-Superfund treated as continuation of old trust fund.—The Hazardous Substance Superfund established by the amendments made by this section shall be treated for all purposes of law as a continuation of the Hazardous Substance Response Trust Fund established by section 221 of the Hazardous Substance Response Revenue Act of 1980 \[former 42 U.S.C. 9631\]. Any reference in any law to the Hazardous Substance Response Trust Fund established by such section 221 shall be deemed to include (wherever appropriate) a reference to the Hazardous Substance Superfund established by the amendments made by this section."
+Superfund treated as continuation of old trust fund.—The Hazardous Substance Superfund established by the amendments made by this sectionshall be treated for all purposes of law as a continuation of the Hazardous Substance Response Trust Fund established by section 221 of the Hazardous Substance Response Revenue Act of 1980 \[former 42 U.S.C. 9631\]. Any reference in any law to the Hazardous Substance Response Trust Fund established by such section 221 shall be deemed to include (wherever appropriate) a reference to the Hazardous Substance Superfund established by the amendments made by this section."
 
 #### Authorization of Appropriations
 

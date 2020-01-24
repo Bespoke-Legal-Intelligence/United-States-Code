@@ -104,7 +104,7 @@ If the President reports under subsection (b)(1) or (2) that—
 
 (ii) The effective period of any action under this section, including any extensions thereof, may not, in the aggregate, exceed 8 years.
 
-(2) Action of a type described in subsection (a)(3)(A), (B), or (C) may be taken under subsection (a)(1), under section 2252(d)(1)(G) of thistitle, or under section 2252(d)(2)(D) of this title only to the extent the cumulative impact of such action does not exceed the amount necessary to prevent or remedy the serious injury.
+(2) Action of a type described in subsection (a)(3)(A), (B), or (C) may be taken under subsection (a)(1), under section 2252(d)(1)(G) of this title, or under section 2252(d)(2)(D) of this title only to the extent the cumulative impact of such action does not exceed the amount necessary to prevent or remedy the serious injury.
 
 (3) No action may be taken under this section which would increase a rate of duty to (or impose a rate) which is more than 50 percent ad valorem above the rate (if any) existing at the time the action is taken.
 
@@ -120,7 +120,7 @@ If the President reports under subsection (b)(1) or (2) that—
 
 > shall be treated as an increase in duty.
 
-(B) No proclamation providing for a suspension referred to in subparagraph (A) with respect to any article may be made by the President, nor may any such suspension be recommended by the Commission under section 2252(e) of this title, unless the Commission, in addition to making an affirmative determination under section 2252(b)(1) of this title, determines in the course of its investigation under section 2252(b) of this title that the serious injury, or threat thereof, substantially caused by imports to the domestic industry producing a like or directly competitive article results from, as the case may be—
+(B) No proclamation providing for a suspension referred to in subparagraph (A) with respect to any article may be made by the President, nor may any such suspension be recommended by the Commission under section 2252(e) of thistitle, unless the Commission, in addition to making an affirmative determination under section 2252(b)(1) of this title, determines in the course of its investigation under section 2252(b) of this title that the serious injury, or threat thereof, substantially caused by imports to the domestic industry producing a like or directly competitive article results from, as the case may be—
 
 &emsp;(i) the application of subheading 9802.00.60 or subheading 9802.00.80 of the Harmonized Tariff Schedule of the United States; or
 
@@ -182,7 +182,7 @@ Subsec. (e)(2). Pub. L. 103–465, §303(9), substituted "of a type described in
 
 Subsec. (e)(4), (5). Pub. L. 103–465, §302(b)(2), (3), amended pars. (4) and (5) generally. Prior to amendment, pars. (4) and (5) read as follows:
 
-"(4) Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the quantity or value of such article imported into the United States during the most recent period that is representative of imports of such article.
+"(4) Any action taken under this section proclaiming a quantitative restriction shall permit the importationof a quantity or value of the article which is not less than the quantity or value of such article imported into the United States during the most recent period that is representative of imports of such article.
 
 "(5) To the extent feasible, an effective period of more than 3 years for an action described in subsection (a)(3)(A), (B), or (C) of this section shall be phased down during the period in which the action is taken, with the first reduction taking effect no later than the close of the day which is 3 years after the day on which such action first takes effect."
 

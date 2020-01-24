@@ -2,7 +2,7 @@
 
 The Director of the Institute shall establish and support demonstration, education, and other programs for the detection, diagnosis, prevention, and treatment of cancer and for rehabilitation and counseling respecting cancer. Programs established and supported under this section shall include—
 
-&emsp;(1) locally initiated education and demonstration programs (and regional networks ofsuch programs) to transmit research results and to disseminate information respecting—
+&emsp;(1) locally initiated education and demonstration programs (and regional networks of such programs) to transmit research results and to disseminate information respecting—
 
 &emsp;&emsp;(A) the detection, diagnosis, prevention, and treatment of cancer,
 

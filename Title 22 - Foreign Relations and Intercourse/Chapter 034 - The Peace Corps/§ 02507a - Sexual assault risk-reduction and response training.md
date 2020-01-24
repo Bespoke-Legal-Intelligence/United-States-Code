@@ -6,7 +6,7 @@ As part of the training provided to all volunteers under section 2507(a) of this
 
 #### (b) Development and consultation with experts
 
-In developing the sexual assault risk-reduction and response training under subsection (a),the President shall consult with and incorporate, as appropriate, the recommendations and views of experts in the sexual assault field.
+In developing the sexual assault risk-reduction and response training under subsection (a), the President shall consult with and incorporate, as appropriate, the recommendations and views of experts in the sexual assault field.
 
 #### (c) Subsequent training
 
@@ -16,7 +16,7 @@ Once a volunteer has arrived in his or her country of service, the President sha
 
 #### (1) In general
 
-&emsp;Each applicant for enrollment as a volunteer shall be provided, with respect to each country in which the applicant may be invited to serve, with specific, aggregated, and easily accessible information regarding crimes against and risks to volunteers, including—
+&emsp;Each applicant for enrollment as a volunteer shall be provided, with respect to each countryin which the applicant may be invited to serve, with specific, aggregated, and easily accessible information regarding crimes against and risks to volunteers, including—
 
 &emsp;&emsp;(A) an overview of past crimes against volunteers in such country, including statistics regarding unreported crime collected through anonymous surveys;
 

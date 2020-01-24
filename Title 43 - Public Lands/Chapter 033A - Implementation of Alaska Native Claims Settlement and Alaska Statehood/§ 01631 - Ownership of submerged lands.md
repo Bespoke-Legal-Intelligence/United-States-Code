@@ -58,7 +58,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 #### Construction
 
-Pub. L. 100–395, title I, §102, Aug. 16, 1988, 102 Stat. 980, provided that: "Nothing in this Act \[amending this section and section 3192 of Title 16, Conservation, and enacting provisions set out as notes under this section\] shall amend or alter any land exchange agreement to which the United States is a party, or any statute, including but not limited to the Act of January 2, 1976 (89 Stat. 1151) and section 506(c) of the Alaska National Interest Lands Conservation Act (94 Stat. 2409; Public Law 96–487), that authorizes, ratifies or implements such an agreement."
+Pub. L. 100–395, title I, §102, Aug. 16, 1988, 102 Stat. 980, provided that: "Nothing in this Act \[amending thissection and section 3192 of Title 16, Conservation, and enacting provisions set out as notes under this section\] shall amend or alter any land exchange agreement to which the United States is a party, or any statute, including but not limited to the Act of January 2, 1976 (89 Stat. 1151) and section 506(c) of the Alaska National Interest Lands Conservation Act (94 Stat. 2409; Public Law 96–487), that authorizes, ratifies or implements such an agreement."
 
 #### Report to Congress
 
@@ -66,5 +66,5 @@ Pub. L. 100–395, title I, §103, Aug. 16, 1988, 102 Stat. 980, directed Secret
 
 #### Definitions
 
-For definition of the terms "land", "Federal land", "public lands", "conservation system unit", "AlaskaNative Claims Settlement Act", "Native Corporation", "Regional Corporation", "Village Corporation", "Urban Corporation", "Native Group", "Native land", "Secretary", "wilderness" and "National Wilderness Preservation System", "Alaska Statehood Act", "State", "Alaska Native" or "Native", "fish and wildlife", and "take" or "taking" as used in this chapter, including sections 1639 to 1641 of this title, as having the same meaning as they have in the Alaska Native Claims Settlement Act, section 1601 et seq. of this title, and the Alaska Statehood Act, Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions, see section 3102 of Title 16, Conservation.
+For definition of the terms "land", "Federal land", "public lands", "conservation system unit", "Alaska Native Claims Settlement Act", "Native Corporation", "Regional Corporation", "Village Corporation", "Urban Corporation", "Native Group", "Native land", "Secretary", "wilderness" and "National Wilderness Preservation System", "Alaska Statehood Act", "State", "Alaska Native" or "Native", "fish and wildlife", and "take" or "taking" as used in this chapter, including sections 1639 to 1641 of this title, as having the same meaning as they have in the Alaska Native Claims Settlement Act, section 1601 et seq. of this title, and the Alaska Statehood Act, Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions, see section 3102 of Title 16, Conservation.
 

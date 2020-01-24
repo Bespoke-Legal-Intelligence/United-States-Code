@@ -34,7 +34,7 @@ Duties.—The Attorney General shall—
 
 &emsp;&emsp;(D) products purchased by Federal agencies that are manufactured overseas and could be manufactured by prisoners participating in a prison work program without reducing job opportunities for other workers in the United States;
 
-&emsp;(4) on an annual basis, review, validate, and release publicly on the Department of Justice website the risk and needs assessment system, which review shall include—
+&emsp;(4) on an annual basis, review, validate, and release publicly on the Department of Justicewebsite the risk and needs assessment system, which review shall include—
 
 &emsp;&emsp;(A) any subsequent changes to the risk and needs assessment system made after the date of enactment of this subchapter;
 

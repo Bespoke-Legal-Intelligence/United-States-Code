@@ -12,7 +12,7 @@ In General.—The conveyance of a historic light station shall be made subject t
 
 &emsp;(4)(A) the eligible entity to which the historic light station is conveyed shall, at its own cost and expense, use and maintain the historic light station in accordance with this division, the Secretary of the Interior's Standards for the Treatment of Historic Properties contained in part 68 of title 36, Code of Federal Regulations, and other applicable laws; and
 
-&emsp;(B) any proposed changes to the historic light station shall be reviewed and approved by the Secretary in consultation with theState Historic Preservation Officer of the State in which the historic light station is located, for consistency with section 800.5(a)(2)(vii) of title 36, Code of Federal Regulations and the Secretary's Standards for Rehabilitation contained in section 67.7 of title 36, Code of Federal Regulations;
+&emsp;(B) any proposed changes to the historic light station shall be reviewed and approved by the Secretary in consultation with the State Historic Preservation Officer of the State in which the historic light station is located, for consistency with section 800.5(a)(2)(vii) of title 36, Code of Federal Regulations and the Secretary's Standards for Rehabilitation contained in section 67.7 of title 36, Code of Federal Regulations;
 
 &emsp;(5) the eligible entity to which the historic light station is conveyed shall make the historic light station available for education, park, recreation, cultural, or historic preservation purposes for the general public at reasonable times and under reasonable conditions;
 

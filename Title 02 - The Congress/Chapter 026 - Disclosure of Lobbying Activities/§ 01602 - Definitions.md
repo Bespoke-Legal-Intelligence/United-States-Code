@@ -100,7 +100,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(ix) required by subpoena, civil investigative demand, or otherwise compelled by statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;
 
-&emsp;&emsp;&emsp;(x) made in response to a notice in the Federal Register, Commerce Business Daily, or other similar publication soliciting communications from the public and directed to the agency official specificallydesignated in the notice to receive such communications;
+&emsp;&emsp;&emsp;(x) made in response to a notice in the Federal Register, Commerce Business Daily, or other similar publication soliciting communications from the public and directed to the agency official specifically designated in the notice to receive such communications;
 
 &emsp;&emsp;&emsp;(xi) not possible to report without disclosing information, the unauthorized disclosure of which is prohibited by law;
 
@@ -184,7 +184,7 @@ As used in this chapter:
 
 &emsp;&emsp;(B) a Government corporation (as defined in section 9101 of title 31);
 
-&emsp;&emsp;(C) an organization of State or local elected or appointed officials other than officialsof an entity described in clause (i), (ii), (iii), (iv), or (v) of subparagraph (A);
+&emsp;&emsp;(C) an organization of State or local elected or appointed officials other than officials of an entity described in clause (i), (ii), (iii), (iv), or (v) of subparagraph (A);
 
 &emsp;&emsp;(D) an Indian tribe (as defined in section 5304(e) of title 25; <sup>1</sup>
 

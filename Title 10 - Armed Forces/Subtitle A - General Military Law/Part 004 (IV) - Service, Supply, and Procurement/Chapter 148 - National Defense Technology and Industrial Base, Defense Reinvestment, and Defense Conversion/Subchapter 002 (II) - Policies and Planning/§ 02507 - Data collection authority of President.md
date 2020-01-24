@@ -10,7 +10,7 @@ Condition for Use of Authority.—The President shall issue regulations insuring
 
 (c)
 
-Penalty for Noncompliance.—Any person who willfully performs any act prohibited or willfully fails to perform any act required by the provisions of subsection (a), or any rule, regulation, or order thereunder, shall be fined under title 18 or imprisoned not more than one year, or both.
+Penalty for Noncompliance.—Any person who willfully performs any act prohibited or willfully fails to perform any act required by the provisions of subsection (a), or any rule, regulation, or order thereunder, shall be fined undertitle 18 or imprisoned not more than one year, or both.
 
 (d)
 

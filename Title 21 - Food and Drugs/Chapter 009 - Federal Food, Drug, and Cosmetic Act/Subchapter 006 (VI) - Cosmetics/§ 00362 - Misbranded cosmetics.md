@@ -14,7 +14,7 @@ A cosmetic shall be deemed to be misbranded—
 
 (f) If its packaging or labeling is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of title 15.
 
-(June 25, 1938, ch. 675, §602, 52 Stat. 1054; Pub. L. 86–618, title I, §102(c)(2), July 12, 1960, 74 Stat. 398; Pub. L. 91–601, §6(f), formerly §7(f), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 102–571, title I, §107(12), Oct. 29, 1992, 106 Stat. 4499.)
+(June 25, 1938, ch. 675, §602, 52 Stat. 1054; Pub. L. 86–618, title I, §102(c)(2), July 12, 1960, 74 Stat. 398; Pub. L. 91–601, §6(f), formerly §7(f), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub.L. 102–571, title I, §107(12), Oct. 29, 1992, 106 Stat. 4499.)
 
 #### Amendments
 

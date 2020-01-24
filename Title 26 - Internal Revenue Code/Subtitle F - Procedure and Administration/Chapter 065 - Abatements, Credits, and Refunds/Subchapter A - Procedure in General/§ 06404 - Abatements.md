@@ -20,7 +20,7 @@ The Secretary is authorized to abate the unpaid portion of the assessment of any
 
 #### (d) Assessments attributable to certain mathematical errors by Internal Revenue Service
 
-In the case of an assessment of any tax imposed by chapter 1 attributable in whole or inpart to a mathematical error described in section 6213(g)(2)(A), if the return was prepared by an officer or employee of the Internal Revenue Service acting in his official capacity to provide assistance to taxpayers in the preparation of income tax returns, the Secretary is authorized to abate the assessment of all or any part of any interest on such deficiency for any period ending on or before the 30th day following the date of notice and demand by the Secretary for payment of the deficiency.
+In the case of an assessment of any tax imposed by chapter 1 attributable in whole or in part to a mathematical error described in section 6213(g)(2)(A), if the return was prepared by an officer or employee of the Internal Revenue Service acting in his official capacity to provide assistance to taxpayers in the preparation of income tax returns, the Secretary is authorized to abate the assessment of all or any part of any interest on such deficiency for any period ending on or before the 30th day following the date of notice and demand by the Secretary for payment of the deficiency.
 
 #### (e) Abatement of interest attributable to unreasonable errors and delays by Internal Revenue Service
 
@@ -68,7 +68,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;&emsp;&emsp;(ii) the due date of the return without regard to extensions,
 
-> &emsp;&emsp;the Secretary shall suspend the imposition of any interest, penalty, addition to tax, or additional amount with respect to any failure relating to the return which is computed by reference to the period of time the failure continues to exist and which is properly allocable to the suspension period.
+> &emsp;&emsp;the Secretary shall suspend the imposition of any interest, penalty, addition to tax, oradditional amount with respect to any failure relating to the return which is computed by reference to the period of time the failure continues to exist and which is properly allocable to the suspension period.
 
 #### (B) Separate application
 
@@ -104,7 +104,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 #### (1) In general
 
-&emsp;The Tax Court shall have jurisdiction over any action brought by a taxpayer who meetsthe requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary's failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought—
+&emsp;The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary's failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought—
 
 &emsp;&emsp;(A) at any time after the earlier of—
 
@@ -264,7 +264,7 @@ Amendment by Pub. L. 107–134 applicable to disasters and terroristic or milita
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub.L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Pub. L. 105–206, title III, §3305(b), July 22, 1998, 112 Stat. 743, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[July 22, 1998\]."
 

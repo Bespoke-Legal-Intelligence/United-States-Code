@@ -6,7 +6,7 @@ In carrying out this chapter, the Administrator is authorized to—
 
 &emsp;(1) prescribe, in consultation with Federal, State, and regional authorities, such regulations as are necessary to carry out his functions under this chapter;
 
-&emsp;(2) consult with or exchange information with other Federal agencies undertaking research, development, demonstration projects,studies, or investigations relating to solid waste;
+&emsp;(2) consult with or exchange information with other Federal agencies undertaking research, development, demonstration projects, studies, or investigations relating to solid waste;
 
 &emsp;(3) provide technical and financial assistance to States or regional agencies in the development and implementation of solid waste plans and hazardous waste management programs;
 

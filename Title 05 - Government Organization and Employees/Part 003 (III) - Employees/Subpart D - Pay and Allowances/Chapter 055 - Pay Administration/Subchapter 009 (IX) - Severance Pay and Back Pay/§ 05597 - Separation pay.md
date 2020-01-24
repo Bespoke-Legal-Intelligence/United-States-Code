@@ -28,7 +28,7 @@
 
 &emsp;(2) shall be equal to the lesser of—
 
-&emsp;&emsp;(A) an amount equal to the amount the employee would be entitled to receive under section 5595(c) if the employee were entitled to payment under such section; or
+&emsp;&emsp;(A) an amount equal to the amount the employee would be entitled to receive undersection 5595(c) if the employee were entitled to payment under such section; or
 
 &emsp;&emsp;(B) $25,000;
 
@@ -46,7 +46,7 @@
 
 (2) If the employment is with an Executive agency, the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
-(3) If the employment is with an entity in the legislative branch, the head of the entity or theappointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+(3) If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 (4) If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
@@ -90,7 +90,7 @@ Subsec. (d)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1151(c)(1)\], a
 
 Subsec. (d)(5). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1151(c)(2)–(4)\], added par. (5).
 
-Subsec. (g)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1151(d)\], inserted ", or who commences work for an agency of the United States through a personal services contract with the United States," after "employment with the Government of the United States".
+Subsec. (g)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1151(d)\], inserted ", or who commences work for anagency of the United States through a personal services contract with the United States," after "employment with the Government of the United States".
 
 Subsec. (i). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1153(a)\], added subsec. (i).
 
@@ -142,7 +142,7 @@ Terms and Conditions.—The authority to provide voluntary separation incentive 
 
 &emsp;&emsp;"(B) by deeming such subsection to be amended by striking 'Code.' and inserting 'Code, or who, during the thirty-six month period preceding the date of separation, performed service for which a student loan repayment benefit was or is to be paid under section 5379 of title 5, United States Code.'
 
-&emsp;"(3) subsection (b)(1) of such section shall be applied by substituting 'Committee on Government Reform' \[now Committee on Oversight and Government Reform\] for 'Committee on Government Reform and Oversight';
+&emsp;"(3) subsection (b)(1) of such section shall be applied by substituting 'Committee on Government Reform' \[now Committee on Oversight and Reform\] for 'Committee on Government Reform and Oversight';
 
 &emsp;"(4)(A) subsection (b)(2)(A) of such section shall be applied by substituting 'eliminated (if any)' for 'eliminated';
 
@@ -184,7 +184,7 @@ First method.—The amount required under this subparagraph shall be determined 
 
 &emsp;&emsp;"(B)
 
-Second method.—The amount required under this subparagraph shall be equal to 45 percent of the final basic pay of each employee described in paragraph (2).
+Second method.—The amount required under this subparagraph shall be equal to 45 percentof the final basic pay of each employee described in paragraph (2).
 
 &emsp;"(2)
 
@@ -262,7 +262,7 @@ Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §663\], Sept. 30, 1996
 
 Definitions.—For the purposes of this section—
 
-&emsp;"(1) the term 'agency' means any Executive agency (as defined in section 105 of title 5, United StatesCode), other than an Executive agency (except an agency receiving such authority in the Department of Transportation Appropriations Act, 1997 \[probably means the Department of Transportation and Related Agencies Appropriations Act, 1997, Pub. L. 104–205, see Tables for classification\]) that is authorized by any other provision of this Act or any other Act to provide voluntary separation incentive payments during all, or any part of, fiscal year 1997; and
+&emsp;"(1) the term 'agency' means any Executive agency (as defined in section 105 of title 5, United States Code), other than an Executive agency (except an agency receiving such authority in the Department of Transportation Appropriations Act, 1997 \[probably means the Department of Transportation and Related Agencies Appropriations Act, 1997, Pub. L. 104–205, see Tables for classification\]) that is authorized by any other provision of this Act or any other Act to provide voluntary separation incentive payments during all, or any part of, fiscal year 1997; and
 
 &emsp;"(2) the term 'employee' means an employee (as defined by section 2105 of title 5, United States Code) who is employed by an agency, is serving under an appointment without time limitation, and has been currently employed for a continuous period of at least 3 years, but does not include—
 
@@ -286,7 +286,7 @@ Agency Strategic Plan.—
 
 &emsp;"(1)
 
-In general.—The head of each agency, prior to obligating any resources for voluntary separation incentive payments, shall submit to the House and Senate Committees on Appropriations and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform and Oversight \[now Committee on Oversight and Government Reform\] of the House of Representatives a strategic plan outlining the intended use of such incentive payments and a proposed organizational chart for the agency once such incentive payments have been completed.
+In general.—The head of each agency, prior to obligating any resources for voluntary separation incentive payments, shall submit to the House and Senate Committees on Appropriations and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform and Oversight \[now Committee on Oversight and Reform\] of the House of Representatives a strategic plan outlining the intended use of such incentive payments and a proposed organizational chart for the agency once such incentive payments have been completed.
 
 &emsp;"(2)
 
@@ -332,7 +332,7 @@ Additional Agency Contributions to the Retirement Fund.—
 
 &emsp;"(1)
 
-In general.—In addition to any other payments which it is required to make under subchapter III of chapter 83 of title 5, United States Code, an agency shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund an amount equal to 15 percent of the final basic pay of each employee of the agency who is covered under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, to whom a voluntary separation incentive has been paid under this section.
+In general.—In addition to any other payments which it is required to make under subchapter III of chapter 83 of title 5, United States Code, an agency shall remit to the Office of Personnel Management for deposit in the Treasury of the United Statesto the credit of the Civil Service Retirement and Disability Fund an amount equal to 15 percent of the final basic pay of each employee of the agency who is covered under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, to whom a voluntary separation incentive has been paid under this section.
 
 &emsp;"(2)
 
@@ -390,7 +390,7 @@ Pub. L. 103–226, §6, Mar. 30, 1994, 108 Stat. 117, provided that: "No later t
 
 &emsp;"(B) the title and the grade or pay level of the position filled by the employee to whom such waiver applied."
 
-\[Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.\]
+\[Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.\]
 
 #### Source of Payments
 

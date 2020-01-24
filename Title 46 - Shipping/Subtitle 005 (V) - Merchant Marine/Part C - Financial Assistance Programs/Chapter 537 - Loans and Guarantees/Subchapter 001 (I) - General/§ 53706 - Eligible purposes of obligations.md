@@ -4,7 +4,7 @@
 
 In General.—To be eligible for a guarantee under this chapter, an obligation must aid in any of the following:
 
-&emsp;(1)(A) Financing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, or reconditioning of a vessel (including an eligible export vessel) designed principally for research, or for commercial use—
+&emsp;(1)(A) Financing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, or reconditioning of a vessel designed principally for research, or for commercial use—
 
 &emsp;&emsp;(i) in the coastwise or intercoastal trade;
 
@@ -12,11 +12,9 @@ In General.—To be eligible for a guarantee under this chapter, an obligation m
 
 &emsp;&emsp;(iii) in foreign trade as defined in section 109(b) of this title;
 
-&emsp;&emsp;(iv) as an ocean thermal energy conversion facility or plantship;
+&emsp;&emsp;(iv) as an ocean thermal energy conversion facility or plantship; or
 
-&emsp;&emsp;(v) as a floating drydock in the construction, reconstruction, reconditioning, or repair of vessels; or
-
-&emsp;&emsp;(vi) as an eligible export vessel in worldwide trade.
+&emsp;&emsp;(v) as a floating drydock in the construction, reconstruction, reconditioning, or repair of vessels.
 
 &emsp;(B) A guarantee under subparagraph (A) may not be made more than one year after delivery of the vessel (or redelivery if the vessel was reconstructed or reconditioned) unless the proceeds of the obligation are used to finance the construction, reconstruction, or reconditioning of a vessel or of facilities or equipment related to marine operations.
 
@@ -60,19 +58,21 @@ Priorities for Certain Vessels.—
 
 Vessels.—In guaranteeing or making a commitment to guarantee an obligation under this chapter, the Administrator shall give priority to—
 
-&emsp;&emsp;(A) a vessel that is otherwise eligible for a guarantee and is constructed with assistance under subtitle D of the Maritime Security Act of 2003 (46 U.S.C. 53101 note); and
+&emsp;&emsp;(A) a vessel that is otherwise eligible for a guarantee and is constructed with assistance under subtitle D of the Maritime Security Act of 2003 (46 U.S.C. 53101 note);
 
 &emsp;&emsp;(B) after applying subparagraph (A), a vessel that is otherwise eligible for a guarantee and that the Secretary of Defense determines—
 
 &emsp;&emsp;&emsp;(i) is suitable for service as a naval auxiliary in time of war or national emergency; and
 
-&emsp;&emsp;&emsp;(ii) meets a shortfall in sealift capacity or capability.
+&emsp;&emsp;&emsp;(ii) meets a shortfall in sealift capacity or capability; and
+
+&emsp;&emsp;(C) after applying subparagraphs (A) and (B), Vessels of National Interest.
 
 &emsp;(2)
 
 Time for determination.—The Secretary of Defense shall determine whether a vessel satisfies paragraph (1)(B) not later than 30 days after receipt of a request from the Administrator for such a determination.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1606; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(A), (B), (b)(2), Jan. 6, 2006, 119 Stat. 3555, 3556; Pub. L. 109–479, title II, §209, Jan. 12, 2007, 120 Stat. 3617; Pub. L. 110–181, div. C, title XXXV, §3522(a)(2), (10)(B), (b), Jan. 28, 2008, 122 Stat. 596, 598.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1606; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(A), (B), (b)(2), Jan. 6, 2006, 119 Stat. 3555, 3556; Pub. L. 109–479, title II, §209, Jan. 12, 2007, 120 Stat. 3617; Pub. L. 110–181, div. C, title XXXV, §3522(a)(2), (10)(B), (b), Jan. 28, 2008, 122 Stat. 596, 598; Pub. L. 116–92, div. C, title XXXV, §3506(e), Dec. 20, 2019, 133 Stat. 1972.)
 
 Historical and Revision Notes
 
@@ -112,6 +112,12 @@ The Maritime Security Act of 2003, referred to in subsec. (c)(1)(A), is title XX
 
 #### Amendments
 
+<b>2019</b>—Subsec. (a)(1)(A). Pub. L. 116–92, §3506(e)(1)(A), struck out "(including an eligible export vessel)" after "reconditioning of a vessel" in introductory provisions.
+
+Subsec. (a)(1)(A)(vi). Pub. L. 116–92, §3506(e)(1)(B)–(D), struck out cl. (vi) which read as follows: "as an eligible export vessel in worldwide trade."
+
+Subsec. (c)(1)(C). Pub. L. 116–92, §3506(e)(2), added subpar. (C).
+
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (2)(A), (B), (b)(2). See 2006 Amendment note below.
 
 Subsec. (a)(3)(B)(iii). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), into this section by inserting "or Administrator" after "Secretary". See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
@@ -138,7 +144,7 @@ Priorities for Certain Vessels.—In guaranteeing or making a commitment to guar
 
 #### Prohibition of New Loans for Construction of Fishing Vessels Under Certain Conditions
 
-Pub. L. 104–297, title III, §302(b)(2), Oct. 11, 1996, 110 Stat. 3615, as amended by Pub. L. 105–277, div. C, title II, §212, Oct. 21, 1998, 112 Stat. 2681–635; Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884; Pub. L. 114–120, title III, §302(b), Feb. 8, 2016, 130 Stat. 52, provided that: "No loans may be provided or guaranteed by the Federal Government for the construction or rebuilding of a vessel intended for use as a fishing vessel (as defined in section 2101 of title 46, United States Code), if such vessel will be greater than 165 feet in registered length, of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons \[(\]as measured under chapter 143 of that title), or have an engine or engines capable of producing a total of more than 3,000 shaft horsepower, after such construction or rebuilding is completed. This prohibition shall not apply to vessels to be used in the menhaden fishery, in tuna purse seine fisheries outside the exclusive economic zone of the United States or the area of the South Pacific Regional Fisheries Treaty, in fisheries that are under the jurisdiction of the North Pacific Fishery Management Council and managed under a fishery management plan issued under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), or in the Pacific whiting fishery that is under the jurisdiction of the Pacific Fishery Management Council and managed under a fishery management plan issued under that Act. Any fishing vessel operated in fisheries under the jurisdiction of the North Pacific Fishery Management Council and managed under a fishery management plan issued under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), or in the Pacific whiting fishery under the jurisdiction of the Pacific Fishery Management Council and managed under a fishery management plan issued under that Act, and that is replaced by a vessel that is constructed or rebuilt with a loan or loan guarantee provided by the Federal Government may not be used to harvest fish in any fishery under the jurisdiction of any regional fishery management council, other than a fishery under the jurisdiction of the North Pacific Fishery Management Council or the Pacific Fishery Management Council."
+Pub. L. 104–297, title III, §302(b)(2), Oct. 11, 1996, 110 Stat. 3615, as amended by Pub. L. 105–277, div. C, title II, §212, Oct. 21, 1998, 112 Stat. 2681–635; Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884; Pub. L. 114–120, title III, §302(b), Feb. 8, 2016, 130 Stat. 52, provided that: "No loans may be provided or guaranteed by the Federal Government for the construction or rebuilding of a vessel intended for use as a fishing vessel (as defined in section 2101 of title 46, United States Code), if such vessel will be greater than 165 feet in registered length, of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons \[(\]as measured under chapter 143 of that title), or have an engine or engines capable of producing a total of more than 3,000 shaft horsepower, after such construction or rebuilding is completed. This prohibition shall not apply to vessels to be used in the menhadenfishery, in tuna purse seine fisheries outside the exclusive economic zone of the United States or the area of the South Pacific Regional Fisheries Treaty, in fisheries that are under the jurisdiction of the North Pacific Fishery Management Council and managed under a fishery management plan issued under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), or in the Pacific whiting fishery that is under the jurisdiction of the Pacific Fishery Management Council and managed under a fishery management plan issued under that Act. Any fishing vessel operated in fisheries under the jurisdiction of the North Pacific Fishery Management Council and managed under a fishery management plan issued under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), or in the Pacific whiting fishery under the jurisdiction of the Pacific Fishery Management Council and managed under a fishery management plan issued under that Act, and that is replaced by a vessel that is constructed or rebuilt with a loan or loan guarantee provided by the Federal Government may not be used to harvest fish in any fishery under the jurisdiction of any regional fishery management council, other than a fishery under the jurisdiction of the North Pacific Fishery Management Council or the Pacific Fishery Management Council."
 
 \[Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884, which directed the amendment of title II of division C of Public Law 105–277 by substituting "of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons as measured under chapter 143 of that title)" for "of more than 750 gross registered tons", was executed to section 302(b)(2) of Pub. L. 104–297, set out above, as amended by section 212 of Pub. L. 105–277, to reflect the probable intent of Congress.\]
 

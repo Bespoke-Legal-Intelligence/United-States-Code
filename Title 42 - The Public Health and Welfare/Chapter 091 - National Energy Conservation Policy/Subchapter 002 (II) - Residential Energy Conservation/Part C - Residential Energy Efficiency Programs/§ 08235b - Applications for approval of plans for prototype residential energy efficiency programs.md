@@ -6,7 +6,7 @@ Each application for the approval of a plan under section 8235a(a) of this title
 
 &emsp;(2) a description of the manner in which the provisions of the plan specified in section 8235a(a) of this title are to be met;
 
-&emsp;(3) a description of the contract to be entered into pursuant to section 8235a(a)(1) ofthis title and the manner in which the requirements of the contract contained in section 8235a(b) of this title are to be met;
+&emsp;(3) a description of the contract to be entered into pursuant to section 8235a(a)(1) of this title and the manner in which the requirements of the contract contained in section 8235a(b) of this title are to be met;
 
 &emsp;(4) the record of the public hearing conducted pursuant to section 8235c(a)(2) of this title; and
 

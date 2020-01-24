@@ -2,7 +2,7 @@
 
 #### (a) Bycatch reduction engineering program
 
-Not later than 1 year after January 12, 2007, the Secretary, in cooperation with the Councils and other affected interests, and based upon thebest scientific information available, shall establish a bycatch reduction program, including grants, to develop technological devices and other conservation engineering changes designed to minimize bycatch, seabird interactions, bycatch mortality, and post-release mortality in Federally managed fisheries. The program shall—
+Not later than 1 year after January 12, 2007, the Secretary, in cooperation with the Councils and other affected interests, and based upon the best scientific information available, shall establish a bycatch reduction program, including grants, to develop technological devices and other conservation engineering changes designed to minimize bycatch, seabird interactions, bycatch mortality, and post-release mortality in Federally managed fisheries. The program shall—
 
 &emsp;(1) be regionally based;
 

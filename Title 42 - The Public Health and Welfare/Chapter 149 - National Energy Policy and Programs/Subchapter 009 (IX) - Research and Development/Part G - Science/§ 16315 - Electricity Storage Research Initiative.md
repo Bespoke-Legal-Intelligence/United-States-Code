@@ -26,7 +26,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the Initiative, the Secretary shall organize activities among multidisciplinary teams to leverage, to the maximum extent practicable, expertise from the National Laboratories, institutions of higher education, and the private sector.
+&emsp;&emsp;In carrying out the Initiative, the Secretary shall organize activities among multidisciplinary teams to leverage, to themaximum extent practicable, expertise from the National Laboratories, institutions of higher education, and the private sector.
 
 #### (B) Goals
 
@@ -44,7 +44,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall carry out under the Initiative a program to support research neededto bridge scientific barriers to, and discover knowledge relevant to, multivalent ion materials in electric energy storage systems.
+&emsp;The Secretary shall carry out under the Initiative a program to support research needed to bridge scientific barriers to, and discover knowledge relevant to, multivalent ion materials in electric energy storage systems.
 
 #### (2) Activities
 
@@ -114,5 +114,5 @@
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–246 amended section generally. Prior to amendment, text read as follows: "The Secretary shall conduct a program of fundamental research on solid state lighting in support of the Next Generation Lighting Initiative carried out under section 16192 of this title."
+<b>2018</b>—Pub. L. 115–246 amended section generally. Prior to amendment, text read as follows: "The Secretary shall conduct a program of fundamental research on solid state lighting in support of the Next GenerationLighting Initiative carried out under section 16192 of this title."
 

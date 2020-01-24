@@ -56,7 +56,7 @@ Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–167, §8(d), Dec. 29, 1979, 93 Stat. 1278, provided that: "The amendments made by this section \[amending this section\] shall apply to returns for gifts made in calendar years ending after the date of the enactment of this Act \[Dec. 29, 1979\]."
+Pub. L. 96–167, §8(d), Dec. 29, 1979, 93 Stat. 1278, provided that: "The amendments made by this section\[amending this section\] shall apply to returns for gifts made in calendar years ending after the date of the enactment of this Act \[Dec. 29, 1979\]."
 
 #### Effective Date of 1976 Amendment
 

@@ -14,7 +14,7 @@ Membership.—(1) The Board shall consist of 5 members, to be appointed by the P
 
 &emsp;(B) at least 2 members shall be individuals with professional or business experience (including agriculture) in the private sector.
 
-(3) The term of each member of the Board shall be 5 years and shall begin when the term of the predecessor of that member ends. An individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, shall be appointed for the remainder of that term. When the term of office of a member ends, the member may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. The President may remove a member for inefficiency, neglect of duty, or malfeasance in office.
+(3) The term of each member of the Board shall be 5 years and shall begin when the term of the predecessor of that member ends. An individual appointed to fill a vacancy occurring before the expiration of the term for which thepredecessor of that individual was appointed, shall be appointed for the remainder of that term. When the term of office of a member ends, the member may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. The President may remove a member for inefficiency, neglect of duty, or malfeasance in office.
 
 (4) No individual may serve as a member of the Board for more than 2 terms. In the case of an individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, such individual may not be appointed for more than one additional term.
 
@@ -108,7 +108,7 @@ Exercise of Authorities.—Except as otherwise provided by law, an officer or em
 
 #### Construction
 
-Pub. L. 114–110, §17, Dec. 18, 2015, 129 Stat. 2238, provided that: "Nothing in this Act \[see Tables for classification\] may be construed to affect any suit commenced by or against the Surface TransportationBoard, or any proceeding or challenge pending before the Surface Transportation Board, before the date of the enactment of this Act \[Dec. 18, 2015\]."
+Pub. L. 114–110, §17, Dec. 18, 2015, 129 Stat. 2238, provided that: "Nothing in this Act \[see Tables for classification\] may be construed to affect any suit commenced by or against the Surface Transportation Board, or any proceeding or challenge pending before the Surface Transportation Board, before the date of the enactment of this Act \[Dec. 18, 2015\]."
 
 #### Abolition of Interstate Commerce Commission
 

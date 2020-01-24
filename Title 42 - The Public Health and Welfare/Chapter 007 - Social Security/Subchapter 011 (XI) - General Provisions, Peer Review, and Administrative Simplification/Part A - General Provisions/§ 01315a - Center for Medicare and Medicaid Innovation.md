@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is created within the Centers for Medicare \& Medicaid Services a Center for Medicare and Medicaid Innovation (in this section referred to as the "CMI") to carry out the duties described in this section. The purpose of the CMI is to test innovative payment and service delivery models to reduce program expenditures under the applicable subchapters while preserving or enhancing the quality ofcare furnished to individuals under such subchapters. In selecting such models, the Secretary shall give preference to models that also improve the coordination, quality, and efficiency of health care services furnished to applicable individuals defined in paragraph (4)(A).
+&emsp;There is created within the Centers for Medicare \& Medicaid Services a Center for Medicare and Medicaid Innovation (in this section referred to as the "CMI") to carry out the duties described in this section. The purpose of the CMI is to test innovative payment and service delivery models to reduce program expenditures under the applicable subchapters while preserving or enhancing the quality of care furnished to individuals under such subchapters. In selecting such models, the Secretary shall give preference to models that also improve the coordination, quality, and efficiency of health care services furnished to applicable individuals defined in paragraph (4)(A).
 
 #### (2) Deadline
 
@@ -12,7 +12,7 @@
 
 #### (3) Consultation
 
-&emsp;In carrying out the duties under this section, the CMI shall consult representatives of relevant Federal agencies, and clinical and analytical experts with expertise in medicine and health care management. The CMI shall use open door forums or other mechanisms to seek input from interested parties.
+&emsp;In carrying out the duties under this section, the CMI shall consult representatives ofrelevant Federal agencies, and clinical and analytical experts with expertise in medicine and health care management. The CMI shall use open door forums or other mechanisms to seek input from interested parties.
 
 #### (4) Definitions
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(xi) Allowing States to test and evaluate systems of all-payer payment reform for the medical care of residents of the State, including dual eligible individuals.
 
-&emsp;&emsp;&emsp;(xii) Aligning nationally recognized, evidence-based guidelines of cancer care with payment incentives under subchapter XVIII in the areas of treatment planning and follow-up care planning for applicable individuals described in clause (i) or (iii) of subsection (a)(4)(A) with cancer, including the identification of gaps in applicable quality measures.
+&emsp;&emsp;&emsp;(xii) Aligning nationally recognized, evidence-based guidelines of cancer care with payment incentives under subchapter XVIII in the areas of treatment planning and follow-up care planning for applicableindividuals described in clause (i) or (iii) of subsection (a)(4)(A) with cancer, including the identification of gaps in applicable quality measures.
 
 &emsp;&emsp;&emsp;(xiii) Improving post-acute care through continuing care hospitals that offer inpatient rehabilitation, long-term care hospitals, and home health or skilled nursing care during an inpatient stay and the 30 days immediately following discharge.
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;(xxv) Providing, for the adoption and use of certified EHR technology (as defined in section 1395w–4(o)(4) of this title) to improve the quality and coordination of care through the electronic documentation and exchange of health information, incentive payments to behavioral health providers (such as psychiatric hospitals (as defined in section 1395x(f) of this title), community mental health centers (as defined in section 1395x(ff)(3)(B) of this title), hospitals that participate in a State plan under subchapter XIX or a waiver of such plan, treatment facilities that participate in such a State plan or such a waiver, mental health or substance use disorder providers that participate in such a State plan or such a waiver, clinical psychologists (as defined in section 1395x(ii) of this title), nurse practitioners (as defined in section 1395x(aa)(5) of this title) with respect to the provision of psychiatric services, and clinical social workers (as defined in section 1395x(hh)(1) of this title)).
 
-&emsp;&emsp;&emsp;(xxvi) Supporting ways to familiarize individuals with the availability of coverageunder part B of subchapter XVIII for qualified psychologist services (as defined in section 1395x(ii) of this title).
+&emsp;&emsp;&emsp;(xxvi) Supporting ways to familiarize individuals with the availability of coverage under part B of subchapter XVIII for qualified psychologist services (as defined in section 1395x(ii) of this title).
 
 &emsp;&emsp;&emsp;(xxvii) Exploring ways to avoid unnecessary hospitalizations or emergency department visits for mental and behavioral health services (such as for treating depression) through use of a 24-hour, 7-day a week help line that may inform individuals about the availability of treatment options, including the availability of qualified psychologist services (as defined in section 1395x(ii) of this title).
 
@@ -196,7 +196,7 @@ Taking into account the evaluation under subsection (b)(4), the Secretary may, t
 
 #### (1) Waiver authority
 
-&emsp;The Secretary may waive such requirements of subchapters XI and XVIII and of sections 1396a(a)(1), 1396a(a)(13), 1396b(m)(2)(A)(iii), and 1396u–4 (other than subsections (b)(1)(A) and (c)(5) of such section) of this title as may be necessary solely for purposes of carrying out this section with respect to testing models described in subsection (b).
+&emsp;The Secretary may waive such requirements of subchapters XI and XVIII and of sections1396a(a)(1), 1396a(a)(13), 1396b(m)(2)(A)(iii), and 1396u–4 (other than subsections (b)(1)(A) and (c)(5) of such section) of this title as may be necessary solely for purposes of carrying out this section with respect to testing models described in subsection (b).
 
 #### (2) Limitations on review
 

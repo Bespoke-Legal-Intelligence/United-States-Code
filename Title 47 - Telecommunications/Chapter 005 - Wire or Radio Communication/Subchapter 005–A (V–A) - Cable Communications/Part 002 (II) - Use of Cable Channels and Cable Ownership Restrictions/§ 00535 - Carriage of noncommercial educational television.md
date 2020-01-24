@@ -12,7 +12,7 @@ In addition to the carriage requirements set forth in section 534 of this title,
 
 #### (2) Systems with 12 or fewer channels
 
-&emsp;(A) Notwithstanding paragraph (1), a cable operator of a cable system with 12 or fewerusable activated channels shall be required to carry the signal of one qualified local noncommercial educational television station; except that a cable operator of such a system shall comply with subsection (c) and may, in its discretion, carry the signals of other qualified noncommercial educational television stations.
+&emsp;(A) Notwithstanding paragraph (1), a cable operator of a cable system with 12 or fewer usable activated channels shall be required to carry the signal of one qualified local noncommercial educational television station; except that a cable operator of such a system shall comply with subsection (c) and may, in its discretion, carry the signals of other qualified noncommercial educational television stations.
 
 &emsp;(B) In the case of a cable system described in subparagraph (A) which operates beyond the presence of any qualified local noncommercial educational television station—
 
@@ -100,7 +100,7 @@ Signals carried in fulfillment of the carriage obligations of a cable operator u
 
 #### (3) Remedial actions; dismissal
 
-&emsp;Within 120 days after the date a complaint is filed under this subsection, the Commission shall determine whether the cable operator has complied with the requirements of this section. If the Commission determines that the cable operator has failed to comply with such requirements, the Commission shall state with particularity the basis for such findings and order the cable operator to take such remedial action as is necessary to meet such requirements. If the Commission determines that the cable operator has fully complied with such requirements, the Commission shall dismiss the complaint.
+&emsp;Within 120 days after the date a complaint is filed under this subsection, the Commission shall determine whether the cable operator has complied with the requirements of this section. If the Commission determines that the cable operator has failed to comply with such requirements, the Commission shall state with particularity the basis for such findingsand order the cable operator to take such remedial action as is necessary to meet such requirements. If the Commission determines that the cable operator has fully complied with such requirements, the Commission shall dismiss the complaint.
 
 #### (k) Identification of signals
 

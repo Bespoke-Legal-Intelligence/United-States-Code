@@ -18,9 +18,9 @@
 
 &emsp;&emsp;(ii) The term "minimum sustaining rate" means the production rate for each budget year that is necessary to keep production lines open while maintaining a base of responsive vendors and suppliers.
 
-(c) In the case of any weapon system for which procurement funds have not been previously requested and for which funds are first requested by the President in any fiscal year after theBudget for that fiscal year has been submitted to Congress, the same documentation requirements shall be applicable to that system in the same manner and to the same extent as if funds had been requested for that system in that budget.
+(c) In the case of any weapon system for which procurement funds have not been previously requested and for which funds are first requested by the President in any fiscal year after the Budget for that fiscal year has been submitted to Congress, the same documentation requirements shall be applicable to that system in the same manner and to the same extent as if funds had been requested for that system in that budget.
 
-(Added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 614, §139; amended Pub. L. 94–106, title VIII, §805, Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §511(5), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–86, title IX, §909(c), Dec. 1, 1981, 95 Stat. 1120; Pub. L. 97–258, §3(b)(1), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 98–525, title XIV, §1405(3), Oct. 19, 1984, 98 Stat. 2621; renumbered §2431 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(12), (g)(6), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title XIII, §1301(13), title XIV, §1484(f)(3), Nov. 5, 1990, 104 Stat. 1668, 1717; Pub. L. 103–355, title III, §3001, Oct. 13, 1994, 108 Stat. 3327; Pub. L. 104–106, div. D, title XLIII, §4321(b)(18), Feb. 10, 1996, 110 Stat. 673.)
+(Added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 614, §139; amended Pub. L. 94–106, title VIII, §805, Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §511(5), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–86, title IX, §909(c), Dec. 1, 1981, 95 Stat. 1120; Pub. L. 97–258, §3(b)(1), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 98–525, title XIV, §1405(3), Oct. 19, 1984, 98 Stat. 2621; renumbered §2431 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(12), (g)(6), Oct. 1, 1986, 100 Stat. 995, 1003,1004; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title XIII, §1301(13), title XIV, §1484(f)(3), Nov. 5, 1990, 104 Stat. 1668, 1717; Pub. L. 103–355, title III, §3001, Oct. 13, 1994, 108 Stat. 3327; Pub. L. 104–106, div. D, title XLIII, §4321(b)(18), Feb. 10, 1996, 110 Stat. 673.)
 
 #### Prior Provisions
 
@@ -90,7 +90,107 @@ Pub. L. 115–91, div. A, title XVI, §1676(b), Dec. 12, 2017, 131 Stat. 1772, a
 
 #### Development of Persistent Space-Based Sensor Architecture
 
-Pub. L. 115–91, div. A, title XVI, §1683, Dec. 12, 2017, 131 Stat. 1777, as amended by Pub. L. 115–232, div. A, title XVI, §1675(a)–(c), (d)(2), Aug. 13, 2018, 132 Stat. 2159, 2160, directed the Director of the Missile Defense Agency, in coordination with the Commander of the Air Force Space Command and the Commander of theUnited States Strategic Command, to develop a highly reliable and cost-effective persistent space-based sensor architecture capable of supporting the ballistic missile defense system, subject to the availability of appropriations, beginning fiscal year 2019, and to submit to the congressional defense committees and the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives, not later than one year after Dec. 12, 2017, a plan to carry out such development; and directed the Director to submit to such committees, not later than Jan. 31, 2019, a report on the options available to use other transactional authorities pursuant to section 2371 of this title to accelerate development and deployment of such architecture.
+Pub. L. 115–91, div. A, title XVI, §1683, Dec. 12, 2017, 131 Stat. 1777, as amended by Pub. L. 115–232, div. A, title XVI, §1675(a)–(c), (d)(2), Aug. 13, 2018, 132 Stat. 2159, 2160; Pub. L. 116–92, div. A, title XVI, §1683, Dec. 20, 2019, 133 Stat. 1782, provided that:
+
+"(a)
+
+In General.—Subject to the availability of appropriations, beginning fiscal year 2019, the Director of the Missile Defense Agency, in coordination with the Commander of the Air Force Space Command and the Commander of the United States Strategic Command, shall develop, using sound acquisition practices, a highly reliable and cost-effective persistent space-based sensor architecture capable of supporting the ballistic missile defense system.
+
+"(b)
+
+Testing and Deployment.—The Director shall ensure that the sensor architecture developed under subsection (a) is rigorously tested before final production decisions or operational deployment.
+
+"(c)
+
+Functions.—The sensor architecture developed under subsection (a) shall include one or more of the following functions:
+
+&emsp;"(1) Control of increased raid sizes.
+
+&emsp;"(2) Precision tracking of threat missiles.
+
+&emsp;"(3) Fire-control-quality tracks of evolving threat missiles.
+
+&emsp;"(4) Enabling of launch-on-remote and engage-on-remote capabilities.
+
+&emsp;"(5) Discrimination of warheads.
+
+&emsp;"(6) Effective kill assessment.
+
+&emsp;"(7) Enhanced shot doctrine.
+
+&emsp;"(8) Integration with the command, control, battle management, and communication program of the ballistic missile defense system.
+
+&emsp;"(9) Integration with all other elements of the current ballistic missile defense system, including the Terminal High Altitude Area Defense, Aegis Ballistic Missile Defense, Aegis Ashore, and Patriot Air and Missile Defense systems.
+
+&emsp;"(10) Such additional functions as determined by the Ballistic Missile Defense Review.
+
+"(d)
+
+Hypersonic and Ballistic Missile Tracking Space Sensor Payload.—
+
+&emsp;"(1)
+
+Development.—The Director of the Missile Defense Agency, in coordination with the Director of the Space Development Agency and the Secretary of the Air Force, as appropriate, shall—
+
+&emsp;&emsp;"(A) develop a hypersonic and ballistic missile tracking space sensor payload; and
+
+&emsp;&emsp;"(B) include such payload as a component of the sensor architecture developed under subsection (a).
+
+&emsp;"(2)
+
+Assignment of primary responsibility.—Not later than 30 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 \[Dec. 20, 2019\], the Secretary of Defense shall—
+
+&emsp;&emsp;"(A) assign the Director of the Missile Defense Agency with the principal responsibility for the development and deployment of a hypersonic and ballistic tracking space sensor payload; and
+
+&emsp;&emsp;"(B) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a certification of such assignment.
+
+"(e)
+
+Cost Estimates.—Whenever the Director develops a cost estimate for the sensor architecture required by subsection (a), the Director shall use—
+
+&emsp;"(1) the cost-estimating and assessment guide of the Comptroller General of the United States titled 'GAO Cost Estimating and Assessment Guide' (GAO–09–3SP), or a successor guide; or
+
+&emsp;"(2) the most current operating and support cost-estimating guide of the Office of Cost Assessment and Program Evaluation.
+
+"(f)
+
+Compatibility With Efforts of Defense Advanced Research Projects Agency.—The Director shall ensure that the sensor architecture developed under subsection (a) is compatible with efforts of the Defense Advanced Research Projects Agency relating to space-based sensors for missile defense.
+
+"(g)
+
+Report on Use of Other Authorities.—Not later than January 31, 2019, the Director shall submit to the appropriate congressional committees a report on the options available to the Director to use other transactional authorities pursuant to section 2371 of title 10, United States Code, to accelerate the development and deployment of the sensor architecture required by subsection (a).
+
+"(h)
+
+Plan.—Not later than one year after the date of the enactment of this Act \[Dec. 12, 2017\], the Director, in coordination with the Commander of the Air Force Space Command and the Commander of the United States Strategic Command, shall submit to the appropriate congressional committees a plan that includes—
+
+&emsp;"(1) how the Director will develop the sensor architecture under subsection (a), including with respect to the estimated costs (in accordance with subsection (e)) to develop, acquire, and deploy, and the lifecycle costs to operate and sustain, the sensor architecture;
+
+&emsp;"(2) an assessment of the maturity of critical technologies necessary to make operational such sensor architecture, and recommendations for any research and development activities to rapidly mature such technologies;
+
+&emsp;"(3) an assessment of what capabilities such sensor architecture can contribute that other sensor architectures do not contribute;
+
+&emsp;"(4) how the Director will leverage the use of national technical means, commercially available space and terrestrial capabilities, hosted payloads, small satellites, and other capabilities to carry out subsection (a); and
+
+&emsp;"(5) any other matters the Director determines appropriate.
+
+"(i)
+
+Updated Plan.—Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 \[Dec. 20, 2019\], the Secretary of Defense shall submit to the appropriate congressional committees an update to the plan under subsection (h), including with respect to the following:
+
+&emsp;"(1) How the Director of the Missile Defense Agency, the Director of the Defense Advanced Research Projects Agency, the Secretary of the Air Force, and the Director of the Space Development Agency, will each participate in the development of the sensor architecture under subsection (a) and the inclusion of the hypersonic and ballistic missile tracking space sensor payload as a component of such architecture pursuant to subsection (d), with respect to both prototype and operational capabilities, including how each such official will work together to avoid duplication of efforts.
+
+&emsp;"(2) How such payload will address the requirement of the United States Strategic Command for a hypersonic and ballistic missile tracking space sensing capability.
+
+&emsp;"(3) The estimated costs (in accordance with subsection (e)) to develop, acquire, and deploy, and the lifecycle costs to operate and sustain, the payload under subsection (d) and include such payload in the sensor architecture developed under subsection (a).
+
+"(j)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+&emsp;"(2) the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives."
 
 #### Boost Phase Ballistic Missile Defense
 
@@ -102,7 +202,61 @@ Pub. L. 115–91, div. A, title XVI, §1686, Dec. 12, 2017, 131 Stat. 1781, auth
 
 #### Plan for Development of Space-Based Ballistic Missile Intercept Layer
 
-Pub. L. 115–91, div. A, title XVI, §1688, Dec. 12, 2017, 131 Stat. 1783, as amended by Pub. L. 115–232, div. A, title XVI, §1680, Aug. 13, 2018, 132 Stat. 2161, directed the Director of the Missile Defense Agency to develop a space-based ballistic missile intercept layer to the ballistic missile defense system, subject to the availability of appropriations, and to submit to the congressional defense committees and the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives, not later than one year after Dec. 12, 2017, a 10-year plan to carry out such development.
+Pub. L. 115–91, div. A, title XVI, §1688, Dec. 12, 2017, 131 Stat. 1783, as amended by Pub. L. 115–232, div. A, title XVI, §1680, Aug. 13, 2018, 132 Stat. 2161; Pub. L. 116–92, div. A, title XVI, §1682, Dec. 20, 2019, 133 Stat. 1782, provided that:
+
+"(a)
+
+Development.—Subject to the availability of appropriations, the Director of the Missile Defense Agency shall develop a space-based ballistic missile intercept layer to the ballistic missile defense system that is—
+
+&emsp;"(1) regionally focused;
+
+&emsp;"(2) capable of providing boost-phase defense; and
+
+&emsp;"(3) achieves an operational capability at the earliest practicable date.
+
+"(b)
+
+Space-based Ballistic Missile Intercept Layer Plan.—Not later than one year after the date of the enactment of this Act \[Dec. 12, 2017\], the Director shall submit to the appropriate congressional committees a plan to carry out subsection (a) during the 10-year period following the date of the plan. Such plan shall include the following:
+
+&emsp;"(1) A concept definition phase consisting of multiple awarded contracts to identify feasible solutions consistent with architectural principles, performance goals, and price points established by the Director, such as contracts relating to—
+
+&emsp;&emsp;"(A) refined requirements;
+
+&emsp;&emsp;"(B) conceptual designs;
+
+&emsp;&emsp;"(C) technology readiness assessments;
+
+&emsp;&emsp;"(D) critical technical and operational issues;
+
+&emsp;&emsp;"(E) cost, schedule, performance estimates; and
+
+&emsp;&emsp;"(F) risk reduction plans.
+
+&emsp;"(2) A technology risk reduction phase consisting of up to three competitively awarded contracts focused on maturing, integrating, and characterizing key technologies, algorithms, components, and subsystems, such as contracts relating to—
+
+&emsp;&emsp;"(A) refined concepts and designs;
+
+&emsp;&emsp;"(B) engineering trade studies;
+
+&emsp;&emsp;"(C) medium-to-high fidelity digital representations of the space-based ballistic missile intercept weapon system; and
+
+&emsp;&emsp;"(D) a proposed integration and test sequence that could potentially lead to a live-fire boost phase intercept during fiscal year 2022, if the technology has reached sufficient maturity and is economically viable.
+
+&emsp;"(3) During the technology risk reduction phase, contractors will define proposed demonstrations to a preliminary design review level prior to a technology development phase down-select.
+
+&emsp;"(4) A technology development phase consisting of two competitively awarded contracts to mature the preferred space-based ballistic missile intercept weapon system concepts and to potentially conduct a live-fire boost phase intercept fly-off during fiscal year 2022, if the technology has reached sufficient maturity and is economically viable, with brassboard hardware and prototype software on a path to the operational goal.
+
+&emsp;"(5) A concurrent space-based ballistic missile intercept weapon system fire control test bed activity that incrementally incorporates modeling and simulation elements, real-world data, hardware, algorithms, and systems to evaluate with increasing confidence the performance of evolving designs and concepts of such weapon system from target detection to intercept.
+
+&emsp;"(6) Any other matters the Director determines appropriate.
+
+"(c)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+&emsp;"(2) the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives."
 
 #### Designation of Department of Defense Senior Official With Principal Responsibility for Directed Energy Weapons
 
@@ -110,7 +264,17 @@ Pub. L. 114–328, div. A, title II, §219, Dec. 23, 2016, 130 Stat. 2053, as am
 
 #### National Missile Defense Policy
 
-Pub. L. 114–328, div. A, title XVI, §1681(a), Dec. 23, 2016, 130 Stat. 2623, provided that: "It is the policy of the United States to maintain and improve an effective, robust layered missile defense system capable of defending the territory of the United States, allies, deployed forces, and capabilities against the developing and increasingly complex ballistic missile threat with funding subject to the annual authorization of appropriations and the annual appropriation of funds for National Missile Defense."
+Pub. L. 116–92, div. A, title XVI, §1681(b), Dec. 20, 2019, 133 Stat. 1781, provided that: "Not later than the date on which the President submits to Congress the annual budget request of the President for fiscal year 2021 pursuant to section 1105 of title 31, United States Code, the Secretary of Defense shall, as the Secretary considers appropriate, redesignate all strategies, policies, programs, and systems under the jurisdiction of the Secretary to reflect that missile defense programs of the United States defend against ballistic, cruise, and hypersonic missiles in all phases of flight."
+
+Pub. L. 114–328, div. A, title XVI, §1681(a), Dec. 23, 2016, 130 Stat. 2623, as amended by Pub. L. 116–92, div. A, title XVI, §1681(a), Dec. 20, 2019, 133 Stat. 1781, provided that: "It is the policy of the United States to—
+
+&emsp;"(1) maintain and improve, with funding subject to the annual authorization of appropriations and the annual appropriation of funds for National Missile Defense—
+
+&emsp;&emsp;"(A) an effective, layered missile defense system capable of defending the territory of the United States against the developing and increasingly complex missile threat posed by rogue states; and
+
+&emsp;&emsp;"(B) an effective regional missile defense system capable of defending the allies, partners, and deployed forces of the United States against increasingly complex missile threats; and
+
+&emsp;"(2) rely on nuclear deterrence to address more sophisticated and larger quantity near-peer intercontinental missile threats to the homeland of the United States."
 
 Pub. L. 106–38, §2, July 22, 1999, 113 Stat. 205, which provided that it was the policy of the United States to deploy as soon as technologically possible an effective National Missile Defense system capable of defending the territory of the United States against limited ballistic missile attack with funding subject to the annual authorization of appropriations and the annual appropriation of funds for National Missile Defense, was repealed by Pub. L. 114–328, div. A, title XVI, §1681(b), Dec. 23, 2016, 130 Stat. 2623.
 
@@ -158,7 +322,7 @@ In general.—The Director of the Missile Defense Agency is the technical author
 
 Detailees.—
 
-&emsp;"(A) In carrying out the technical authority under paragraph (1), the Director may seek to have staff detailed to the Missile Defense Agency from the Joint Functional Component Command for Integrated Missile Defense and the Joint Integrated Air and MissileDefense Organization in a number the Director determines necessary in accordance with subparagraph (B).
+&emsp;"(A) In carrying out the technical authority under paragraph (1), the Director may seek to have staff detailed to the Missile Defense Agency from the Joint Functional Component Command for Integrated Missile Defense and the Joint Integrated Air and Missile Defense Organization in a number the Director determines necessary in accordance with subparagraph (B).
 
 &emsp;"(B) In detailing staff under subparagraph (A) to carry out the technical authority under paragraph (1), the total number of staff, including detailees, of the Missile Defense Agency who carry out such authority may not exceed the number that is twice the number of such staff carrying out such authority as of January 1, 2016."
 
@@ -168,7 +332,55 @@ Pub. L. 114–328, div. A, title XVI, §1687, Dec. 23, 2016, 130 Stat. 2629, des
 
 #### Required Testing by Missile Defense Agency of Ground-Based Midcourse Defense Element of Ballistic Missile Defense System
 
-Pub. L. 114–328, div. A, title XVI, §1689, Dec. 23, 2016, 130 Stat. 2631, directed the Director of the Missile Defense Agency, subject to certain exceptions, to administer a flight test of the ground-based midcourse defense element of the ballistic missile defense system not less frequently than once each fiscal year.
+Pub. L. 114–328, div. A, title XVI, §1689, Dec. 23, 2016, 130 Stat. 2631, as amended by Pub. L. 116–92, div. A, title IX, §902(97), title XVI, §1684, Dec. 20, 2019, 133 Stat. 1555, 1783, provided that:
+
+"(a)
+
+Testing Required.—Except as provided in subsection (c), not less frequently than once each fiscal year, the Director of the Missile Defense Agency shall administer a flight test of the ground-based midcourse defense element of the ballistic missile defense system.
+
+"(b)
+
+Requirements.—The Director shall ensure that each test carried out under subsection (a) provides for one or more of the following:
+
+&emsp;"(1) The validation of technical improvements made to increase system performance and reliability.
+
+&emsp;"(2) The evaluation of the operational effectiveness of the ground-based midcourse defense element of the ballistic missile defense system.
+
+&emsp;"(3) The use of threat-representative targets and critical engagement conditions, including the use of threat-representative countermeasures.
+
+&emsp;"(4) The evaluation of new configurations of interceptors before they are fielded.
+
+&emsp;"(5) The satisfaction of the 'fly before buy' acquisition approach for new interceptor components or software.
+
+&emsp;"(6) The evaluation of the interoperability of the ground-based midcourse defense element with other elements of the ballistic missile defense systems.
+
+"(c)
+
+Exceptions.—The Director may forgo a test under subsection (a) in a fiscal year under one or more of the following conditions:
+
+&emsp;"(1) Such a test would jeopardize national security.
+
+&emsp;"(2) Insufficient time considerations between post-test analysis and subsequent pre-test design.
+
+&emsp;"(3) Insufficient funding.
+
+&emsp;"(4) An interceptor is unavailable.
+
+&emsp;"(5) A target is unavailable or is insufficiently representative of threats.
+
+&emsp;"(6) The test range or necessary test assets are unavailable.
+
+&emsp;"(7) Inclement weather.
+
+&emsp;"(8) Any other condition the Director considers appropriate.
+
+"(d)
+
+Certification.—Not later than 45 days after forgoing a test for a condition or conditions under subsection (c)(8), the Under Secretary of Defense for Research and Engineering shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a certification setting forth the condition or conditions that caused the test to be forgone under such subsection.
+
+"(e)
+
+Report.—Not later than 45 days after forgoing a test for any condition specified in subsection (c), the Director shall submit to the congressional defense committees a report setting forth the rationale for forgoing the test and a plan to restore an intercept flight test in the Integrated Master Test Plan of the Missile Defense Agency. In the case of a test forgone for a condition or conditions under subsection (c)(8), the report required by this subsection is in addition to the certification required by subsection (d)."
 
 #### Pilot Program on Loss of Unclassified, Controlled Technical Information
 
@@ -200,11 +412,73 @@ Data Protection Options.—In this section, the term 'data protection options' m
 
 #### Plan on Full Integration and Exploitation of Overhead Persistent Infrared Capability
 
-Pub. L. 114–92, div. A, title XVI, §1618, Nov. 25, 2015, 129 Stat. 1108, directed the Commander of the United States Strategic Command and the Director of Cost Assessment and Program Evaluation, in coordination with the Director of National Intelligence, to submit to the congressional defense committees and the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, not later than 180 days after Nov. 25, 2015, a plan for the integration of overhead persistent infrared capabilities, and directed the Secretary of Defense to include in the budget justification materials submitted to Congress for each fiscal year a determination of how such plan was being implemented.
+Pub. L. 114–92, div. A, title XVI, §1618, Nov. 25, 2015, 129 Stat. 1108, as amended by Pub. L. 116–92, div. A, title XVI, §1604, Dec. 20, 2019, 133 Stat. 1723, provided that:
+
+"(a)
+
+Plan.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Commander of the United States Strategic Command and the Director of Cost Assessment and Program Evaluation, in coordination with the Director of National Intelligence, shall jointly submit to the appropriate congressional committees a plan for the integration of overhead persistent infrared capabilities to support the missions specified in subsection (b)(1).
+
+"(b)
+
+Elements.—The plan under subsection (a) shall—
+
+&emsp;"(1) ensure that all overhead persistent infrared capabilities of the United States, including such capabilities that are planned to be developed, are integrated to allow for such capabilities to be exploited to support the requirements of the missions of the Department of Defense relating to—
+
+&emsp;&emsp;"(A) strategic and theater missile warning;
+
+&emsp;&emsp;"(B) ballistic and cruise missile defense, including with respect to missile tracking, fire control, and kill assessment;
+
+&emsp;&emsp;"(C) technical intelligence supporting missile warning;
+
+&emsp;&emsp;"(D) battlespace awareness;
+
+&emsp;&emsp;"(E) other technical intelligence;
+
+&emsp;&emsp;"(F) civil and environmental missions, including with respect to the collection of weather data; and
+
+&emsp;&emsp;"(G) battle damage assessments; and
+
+&emsp;"(2) establish clear benchmarks by which to establish acquisition plans, manning, and budget requirements.
+
+"(c)
+
+Annual Determination.—The Secretary of Defense shall include, together with, or not later than 30 days after, the budget justification materials submitted to Congress in support of the budget of the Department of Defense for each of fiscal years 2021 through 2028 (as submitted with the budget of the President under section 1105(a) of title 31, United States Code), a written determination of how the plan under subsection (a) is being implemented.
+
+"(d)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+&emsp;"(2) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate."
 
 #### Integration and Interoperability of Air and Missile Defense Capabilities of the United States
 
-Pub. L. 114–92, div. A, title XVI, §1675, Nov. 25, 2015, 129 Stat. 1131, directed the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Vice Chairman of the Joint Chiefs of Staff, acting through the Missile Defense Executive Board, to ensure the interoperability and integration of certain specified air and missile defense capabilities of the United States, including by carrying out operational testing.
+Pub. L. 114–92, div. A, title XVI, §1675, Nov. 25, 2015, 129 Stat. 1131, as amended by Pub. L. 116–92, div. A, title IX, §902(69), Dec. 20, 2019, 133 Stat. 1551, provided that:
+
+"(a)
+
+Interoperability of Missile Defense Systems.—The Vice Chairman of the Joint Chiefs of Staff and the chairman of the Missile Defense Executive Board (pursuant to section 1681(c) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 2162)), acting through the Missile Defense Executive Board,, \[sic\] shall ensure the interoperability and integration of the covered air and missile defense capabilities of the United States, including by carrying out operational testing.
+
+"(b)
+
+Annual Demonstration.—
+
+&emsp;"(1)
+
+Requirement.—Except as provided by paragraph (2), the Director of the Missile Defense Agency and the Secretary of the Army shall jointly ensure that not less than one intercept or flight test is carried out each year that demonstrates interoperability and integration among the covered air and missile defense capabilities of the United States.
+
+&emsp;"(2)
+
+Waiver.—The Director and the Secretary may waive the requirement in paragraph (1) with respect to an intercept or flight test carried out during the year covered by the waiver if the chairman of the Missile Defense Executive Board—
+
+&emsp;&emsp;"(A) determines that such waiver is necessary for such year; and
+
+&emsp;&emsp;"(B) submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] notification of such waiver, including an explanation for how such waiver will not negatively affect demonstrating the interoperability and integration among the covered air and missile defense capabilities of the United States.
+
+"(c)
+
+Definitions.—In this section, the term 'covered air and missile defense capabilities' means Patriot air and missile defense batteries and associated interceptors and systems, Aegis ships and associated ballistic missile interceptors (including Aegis Ashore capability), AN/TPY–2 radars, or terminal high altitude area defense batteries and interceptors."
 
 #### Boost Phase Defense System
 
@@ -224,7 +498,7 @@ Pub. L. 114–92, div. A, title XVI, §1684, Nov. 25, 2015, 129 Stat. 1140, dire
 
 #### Concept Development of Space-Based Missile Defense Layer
 
-Pub. L. 114–92, div. A, title XVI, §1685, Nov. 25, 2015, 129 Stat. 1142, as amended by Pub. L. 114–328, div. A, title XVI, §1683, Dec. 23, 2016, 130 Stat. 2624, directed the Director of the Missile Defense Agency, in coordination with the Secretary of the Air Force and the Director of the Defense Advanced Research Projects Agency, to commence, not later than 30 days after Nov. 25, 2015, the concept definition of a space-based ballistic missile intercept layer to the ballistic missile defense system, and directed the Director of the Missile Defense Agency to submit to the congressional defense committees, notlater than 1 year after Nov. 25, 2015, a plan for developing one or more programs for a space-based ballistic missile intercept layer, and to commence research and development of such programs not later than 60 days after the submittal of the plan.
+Pub. L. 114–92, div. A, title XVI, §1685, Nov. 25, 2015, 129 Stat. 1142, as amended by Pub. L. 114–328, div. A, title XVI, §1683, Dec. 23, 2016, 130 Stat. 2624, directed the Director of the Missile Defense Agency, in coordination with the Secretary of the Air Force and the Director of the Defense Advanced Research Projects Agency, tocommence, not later than 30 days after Nov. 25, 2015, the concept definition of a space-based ballistic missile intercept layer to the ballistic missile defense system, and directed the Director of the Missile Defense Agency to submit to the congressional defense committees, not later than 1 year after Nov. 25, 2015, a plan for developing one or more programs for a space-based ballistic missile intercept layer, and to commence research and development of such programs not later than 60 days after the submittal of the plan.
 
 #### Development of Requirements To Support Integrated Air and Missile Defense Capabilities
 
@@ -284,7 +558,7 @@ Pub. L. 109–364, div. A, title II, §223, Oct. 17, 2006, 120 Stat. 2130, set f
 
 #### Plans for Test and Evaluation of Operational Capability of the Ballistic Missile Defense System
 
-Pub. L. 109–163, div. A, title II, §234, Jan. 6, 2006, 119 Stat. 3174, as amended by Pub. L. 109–364, div. A, titleII, §225, Oct. 17, 2006, 120 Stat. 2130, directed the operational and test components of the Department of Defense to prepare a plan to test the operational capability of each block of the Ballistic Missile Defense System, and directed the Director of Operational Test and Evaluation to submit a report to the congressional defense committees.
+Pub. L. 109–163, div. A, title II, §234, Jan. 6, 2006, 119 Stat. 3174, as amended by Pub. L. 109–364, div. A, title II, §225, Oct. 17, 2006, 120 Stat. 2130, directed the operational and test components of the Department of Defense to prepare a plan to test the operational capability of each block of the Ballistic Missile Defense System, and directed the Director of Operational Test and Evaluation to submit a report to the congressional defense committees.
 
 #### Integration of Patriot Advanced Capability-3 and Medium Extended Air Defense System Into Ballistic Missile Defense System
 
@@ -328,7 +602,7 @@ Pub. L. 104–106, div. A, title II, subtitle C, Feb. 10, 1996, 110 Stat. 228–
 
 #### Compliance of Ballistic Missile Defense Systems and Components With ABM Treaty
 
-Pub. L. 103–337, div. A, title II, §231, Oct. 5, 1994, 108 Stat. 2699, prohibited the use of funds appropriated to the Department of Defense for the development or testing of anti-ballisitic missile systems or components except as consistent with the ABM Treaty, limited the use of funds appropriated for the Brilliant Eyes program until the Secretary of Defense submitted a report to Congress on the compliance of that program with the ABM Treaty, and directed the Secretary of Defense to review the Navy Upper Tier program to determine its compliance with the ABM Treaty.
+Pub. L. 103–337, div. A, title II, §231, Oct. 5, 1994, 108 Stat. 2699, prohibited the use of funds appropriated tothe Department of Defense for the development or testing of anti-ballisitic missile systems or components except as consistent with the ABM Treaty, limited the use of funds appropriated for the Brilliant Eyes program until the Secretary of Defense submitted a report to Congress on the compliance of that program with the ABM Treaty, and directed the Secretary of Defense to review the Navy Upper Tier program to determine its compliance with the ABM Treaty.
 
 Pub. L. 103–160, div. A, title II, §234, Nov. 30, 1993, 107 Stat. 1595, contained findings of Congress, required compliance review, and limited funding pending submission of report, prior to repeal by Pub. L. 104–106, div. A, title II, §253(6), Feb. 10, 1996, 110 Stat. 235.
 
@@ -378,7 +652,7 @@ Pub. L. 100–180, div. A, title II, §226, Dec. 4, 1987, 101 Stat. 1057, prohib
 
 #### Establishment of Federally Funded Research and Development Center To Support SDI Program
 
-Pub. L. 100–180, div. A, title II, §227, Dec. 4, 1987, 101 Stat. 1057, authorized the Secretary of Defense, using funds appropriated to the Department of Defense for the Strategic Defense Initiative program, to enter into a contract not to be awarded before Oct. 1, 1989, to provide for the establishment and operation of a federally funded research and development center (FFRDC) toprovide independent and objective technical support to the Strategic Defense Initiative program, and provided that no Federal funds could be provided to the new FFRDC after the end of the five-year period beginning on the date of the award of the first contract awarded.
+Pub. L. 100–180, div. A, title II, §227, Dec. 4, 1987, 101 Stat. 1057, authorized the Secretary of Defense, using funds appropriated to the Department of Defense for the Strategic Defense Initiative program, to enter into a contract not to be awarded before Oct. 1, 1989, to provide for the establishment and operation of a federally funded research and development center (FFRDC) to provide independent and objective technical support to the Strategic Defense Initiative program, and provided that no Federal funds could be provided to the new FFRDC after the end of the five-year period beginning on the date of the award of the first contract awarded.
 
 #### Limitation on Establishment of Federally Funded Research and Development Center for Strategic Defense Initiative Program
 
@@ -422,7 +696,7 @@ Pub. L. 99–190, §101(b) \[title VIII, §8097\], Dec. 19, 1985, 99 Stat. 1185,
 
 Pub. L. 99–145, title II, §208(a), (b), Nov. 8, 1985, 99 Stat. 610, prohibited the use of funds to test the miniature homing vehicle (MHV) anti-satellite warhead launched from an F–15 aircraft unless the President made a certification to Congress as provided in section 8100 of the Department of Defense Appropriations Act, 1985 (Pub. L. 98–473, title I, §101(h) \[title VIII, §8100\], formerly set out as a note below), and provided that no more than three such tests could be conducted before Oct. 1, 1986.
 
-Pub. L. 98–473, title I, §101(h) \[title VIII, §8100\], Oct. 12, 1984, 98 Stat. 1904, 1941, prohibited the use of funds to test the miniature homing vehicle (MHV) anti-satellite warhead launched from an F–15 aircraft unless the President made a certification to Congress that certain conditions had been satisfied, and provided that no more than three such tests could be conducted during fiscal year 1985.
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8100\], Oct. 12, 1984, 98 Stat. 1904, 1941, prohibited the use of fundsto test the miniature homing vehicle (MHV) anti-satellite warhead launched from an F–15 aircraft unless the President made a certification to Congress that certain conditions had been satisfied, and provided that no more than three such tests could be conducted during fiscal year 1985.
 
 Similar provisions were contained in the following prior authorization act:
 

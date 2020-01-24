@@ -208,7 +208,7 @@ In general.—The Federal share of the cost of a project assisted with a grant u
 
 &emsp;(2)
 
-Maximum federal involvement.—Federal assistance other than a grant under this section may be used to satisfy the non-Federal share of the cost of a project for which such a grant is made, except that the total Federal assistance provided for a project receiving a grant under this section may not exceed 80 percent of the total project cost.
+Maximum federal involvement.—Federal assistance other than a grant under this section may be used to satisfy the non-Federal share of the cost of a project for which such agrant is made, except that the total Federal assistance provided for a project receiving a grant under this section may not exceed 80 percent of the total project cost.
 
 &emsp;(3)
 

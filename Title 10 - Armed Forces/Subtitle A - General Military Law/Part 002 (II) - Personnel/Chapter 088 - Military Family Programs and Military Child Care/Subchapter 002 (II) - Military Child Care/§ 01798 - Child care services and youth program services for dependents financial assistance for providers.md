@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense may provide financial assistance to an eligible civilian provider of child care services or youth program services that furnishes such services for members of the armed forces and employees of the United States if the Secretary determines that providing such financial assistance—
+Authority.—The Secretary of Defense may provide financial assistance to an eligible civilian provider of child care services or youth program services that furnishes such services formembers of the armed forces, survivors of members of the armed forces who die in combat-related incidents in the line of duty, and employees of the United States if the Secretary determines that providing such financial assistance—
 
 &emsp;(1) is in the best interest of the Department of Defense;
 
@@ -40,13 +40,15 @@ Eligible Providers.—A provider of child care services or youth program service
 
 Funding.—To provide financial assistance under this subsection, the Secretary of Defense may use any funds appropriated to the Department of Defense for operation and maintenance.
 
-(Added Pub. L. 106–65, div. A, title V, §584(a)(1)(B), Oct. 5, 1999, 113 Stat. 634; amended Pub. L. 107–314, div. A, title X, §1041(a)(6), Dec. 2, 2002, 116 Stat. 2645.)
+(Added Pub. L. 106–65, div. A, title V, §584(a)(1)(B), Oct. 5, 1999, 113 Stat. 634; amended Pub. L. 107–314, div. A, title X, §1041(a)(6), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 116–92, div. A, title VI, §624, Dec. 20, 2019, 133 Stat. 1428.)
 
 #### Prior Provisions
 
 A prior section 1798 was renumbered section 1800 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–92 inserted ", survivors of members of the armed forces who die in combat-related incidents in the line of duty," after "armed forces" in introductory provisions.
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–314 struck out heading and text of subsec. (d). Text read as follows:
 
@@ -56,5 +58,5 @@ A prior section 1798 was renumbered section 1800 of this title.
 
 #### First Biennial Reports
 
-Pub. L. 106–65, div. A, title V, §584(b), Oct. 5, 1999, 113 Stat. 636, provided that the first biennial reports underformer sections 1798(d) and 1799(d) of this title were to be submitted not later than Mar. 31, 2002, and were to cover fiscal years 2000 and 2001.
+Pub. L. 106–65, div. A, title V, §584(b), Oct. 5, 1999, 113 Stat. 636, provided that the first biennial reports under former sections 1798(d) and 1799(d) of this title were to be submitted not later than Mar. 31, 2002, and were to cover fiscal years 2000 and 2001.
 

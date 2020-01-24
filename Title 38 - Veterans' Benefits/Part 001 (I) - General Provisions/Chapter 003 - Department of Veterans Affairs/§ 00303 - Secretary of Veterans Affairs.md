@@ -1,12 +1,52 @@
 ### §303. Secretary of Veterans Affairs
 
-There is a Secretary of Veterans Affairs, who is the head of the Department and is appointedby the President, by and with the advice and consent of the Senate. The Secretary is responsible for the proper execution and administration of all laws administered by the Department and for the control, direction, and management of the Department.
+There is a Secretary of Veterans Affairs, who is the head of the Department and is appointed by the President, by and with the advice and consent of the Senate. The Secretary is responsible for the proper execution and administration of all laws administered by the Department and for the control, direction, and management of the Department.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 379.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 210(a), (b)(1) of this title and in second and third sentences of section 2 of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §§2(a), 3(1).
+
+#### Secretary's Approval of Research Using Canines, Felines, or Non-Human Primates
+
+Pub. L. 116–94, div. F, title II, §249, Dec. 20, 2019, 133 Stat. 2806, provided that:
+
+"(a) None of the funds appropriated or otherwise made available by this Act \[div. F of Pub. L. 116–94, see Tables for classification\] may be used to conduct research commencing on or after October 1, 2019, that uses any canine, feline, or non-human primate unless the Secretary of Veterans Affairs approves such research specifically and in writing pursuant to subsection (b).
+
+"(b)(1) The Secretary of Veterans Affairs may approve the conduct of research commencing on or after October 1, 2019, using canines, felines, or non-human primates if the Secretary determines that—
+
+&emsp;"(A) the scientific objectives of the research can only be met by using such canines, felines, or non-human primates;
+
+&emsp;"(B) such scientific objectives are directly related to an illness or injury that is combat-related; and
+
+&emsp;"(C) the research is consistent with the revised Department of Veterans Affairs canine research policy document dated December 15, 2017, including any subsequent revisions to such document.
+
+"(2) The Secretary may not delegate the authority under this subsection.
+
+"(c) If the Secretary approves any new research pursuant to subsection (b), not later than 30 days before the commencement of such research, the Secretary shall submit to the Committees on Appropriations of the Senate and House of Representatives a report describing—
+
+&emsp;"(1) the nature of the research to be conducted using canines, felines, or non-human primates;
+
+&emsp;"(2) the date on which the Secretary approved the research;
+
+&emsp;"(3) the justification for the determination of the Secretary that the scientific objectives of such research could only be met using canines, felines, or non-human primates;
+
+&emsp;"(4) the frequency and duration of such research; and
+
+&emsp;"(5) the protocols in place to ensure the necessity, safety, and efficacy of the research; and
+
+"(d) Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], and biannually thereafter, the Secretary shall submit to such Committees a report describing—
+
+&emsp;"(1) any research being conducted by the Department of Veterans Affairs using canines, felines, or non-human primates as of the date of the submittal of the report;
+
+&emsp;"(2) the circumstances under which such research was conducted using canines, felines, or non-human primates;
+
+&emsp;"(3) the justification for using canines, felines, or non-human primates to conduct such research; and
+
+&emsp;"(4) the protocols in place to ensure the necessity, safety, and efficacy of such research.
+
+"(e) Not later than December 31, 2020, the Secretary shall submit to such Committees a plan under which the Secretary will eliminate or reduce the research conducted using canines, felines, or non-human primates by not later than five years after the date of the enactment of this Act."
 
 #### Plans for Use of Supplemental Appropriations Required
 
@@ -80,7 +120,7 @@ Assessment.—The Secretary of Veterans Affairs shall seek to enter into an agre
 
 Recommendations and Report.—With respect to such a center, an agreement under this section shall provide for the Academy (or other entity) to—
 
-&emsp;"(1) make recommendations regarding: (A) design of an organizational structure or structures, operational scope, staffing and resource needs, establishment of appropriate databases, the advantages of single or multiple sites, mechanisms for implementing recommendations on policy, and relationship to academic or scientific entities; (B) the role or roles thatrelevant Federal departments and agencies should have in the establishment and operation of any such center or centers; and (C) such other matters as it considers appropriate; and
+&emsp;"(1) make recommendations regarding: (A) design of an organizational structure or structures, operational scope, staffing and resource needs, establishment of appropriate databases, the advantages of single or multiple sites, mechanisms for implementing recommendations on policy, and relationship to academic or scientific entities; (B) the role or roles that relevant Federal departments and agencies should have in the establishment and operation of any such center or centers; and (C) such other matters as it considers appropriate; and
 
 &emsp;"(2) report to the Secretary, the Secretaries of Defense and Health and Human Services, and the Committees on Veterans' Affairs of the Senate and House of Representatives, not later than 1 year after the date of the enactment of this Act \[Nov. 11, 1998\], on its recommendations.
 
@@ -132,7 +172,7 @@ Budget Information.—In the documentation providing detailed information on the
 
 "(b)
 
-Report on Feasibility.—If the Secretary of Veterans Affairs or the Secretary of Labor determines that, with respect to any services or benefits referred to in subsection (a), it is not feasible to identify an estimated dollar amount to be obligated for furnishing such services or benefits only to veterans described in that subsection for any fiscal year, the Secretary of Veterans Affairs and the Secretary of Labor shall, with respect to an appropriation request for such fiscal year relating to such services or benefits, report to the Committees on Veterans' Affairs of the Senate and the House of Representatives the reasons for the infeasibility. The report shall be submitted contemporaneously with the budget submission for such fiscal year. The report shall specify (1) the information, systems, equipment, or personnel that would be required in order for it to be feasible for the Secretary of Veterans Affairs or the Secretary of Labor to identify such amount, and (2) the actions to be taken in order to ensure that it will be feasible to make such an estimate in connection with the submission of the budget request for the next fiscal year."
+Report on Feasibility.—If the Secretary of Veterans Affairs or the Secretary of Labor determinesthat, with respect to any services or benefits referred to in subsection (a), it is not feasible to identify an estimated dollar amount to be obligated for furnishing such services or benefits only to veterans described in that subsection for any fiscal year, the Secretary of Veterans Affairs and the Secretary of Labor shall, with respect to an appropriation request for such fiscal year relating to such services or benefits, report to the Committees on Veterans' Affairs of the Senate and the House of Representatives the reasons for the infeasibility. The report shall be submitted contemporaneously with the budget submission for such fiscal year. The report shall specify (1) the information, systems, equipment, or personnel that would be required in order for it to be feasible for the Secretary of Veterans Affairs or the Secretary of Labor to identify such amount, and (2) the actions to be taken in order to ensure that it will be feasible to make such an estimate in connection with the submission of the budget request for the next fiscal year."
 
 #### Information and Training Concerning AIDS Prevention
 

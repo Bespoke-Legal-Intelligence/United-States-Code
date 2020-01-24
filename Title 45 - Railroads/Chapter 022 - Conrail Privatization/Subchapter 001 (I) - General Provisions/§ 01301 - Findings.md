@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) the bankruptcy of the Penn Central and other railroads in the Northeast and Midwest resulted in a transportation emergency whichrequired the intervention of the Federal Government;
+&emsp;(1) the bankruptcy of the Penn Central and other railroads in the Northeast and Midwest resulted in a transportation emergency which required the intervention of the Federal Government;
 
 &emsp;(2) the United States Government created the Consolidated Rail Corporation, which provides essential rail service to the Northeast and Midwest;
 

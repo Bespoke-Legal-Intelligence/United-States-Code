@@ -2,7 +2,7 @@
 
 #### (a) Publication; list of trust estates; unauthorized disbursements; Federal Register
 
-Within one hundred and eighty days after October 19, 1984, the Secretary shall publish in the Federal Register a list of all trust estates from which unauthorized disbursements are known to have been made, including the amount of the unauthorized disbursement made from each such trust estate.
+Within one hundred and eighty days after October 19, 1984, the Secretary shall publish in the Federal Register a list of all trust estates from which unauthorized disbursements are known tohave been made, including the amount of the unauthorized disbursement made from each such trust estate.
 
 #### (b) Secretary to provide information to affected tribes, bands, or groups
 

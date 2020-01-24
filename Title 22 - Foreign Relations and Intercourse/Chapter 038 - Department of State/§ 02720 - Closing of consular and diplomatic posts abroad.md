@@ -20,7 +20,7 @@ Amounts made available to pay any expense related to the closing of a consular o
 
 The provisions of this section do not apply with respect to—
 
-&emsp;(1) any post closed because of a break or downgrading of diplomatic relations between the United States and the country in which the post is located; or
+&emsp;(1) any post closed because of a break or downgrading of diplomatic relations betweenthe United States and the country in which the post is located; or
 
 &emsp;(2) any post closed because there is a real and present threat to United States diplomatic or consular personnel in the city where the post is located, and a travel advisory warning against travel by United States citizens to that city has been issued by the Department of State.
 

@@ -20,7 +20,7 @@ The purposes of this section are as follows:
 
 #### (1) Development
 
-&emsp;The Secretary, acting through the Service, Indian tribes, and tribal organizations, shallencourage Indian tribes and tribal organizations to develop tribal plans, and urban Indian organizations to develop local plans, and for all such groups to participate in developing areawide plans for Indian Behavioral Health Services. The plans shall include, to the extent feasible, the following components:
+&emsp;The Secretary, acting through the Service, Indian tribes, and tribal organizations, shall encourage Indian tribes and tribal organizations to develop tribal plans, and urban Indian organizations to develop local plans, and for all such groups to participate in developing areawide plans for Indian Behavioral Health Services. The plans shall include, to the extent feasible, the following components:
 
 &emsp;&emsp;(A) An assessment of the scope of alcohol or other substance abuse, mental illness, and dysfunctional and self-destructive behavior, including suicide, child abuse, and family violence, among Indians, including—
 
@@ -136,7 +136,7 @@ The Secretary, acting through the Service, shall provide, to the extent feasible
 
 #### (2) Technical assistance
 
-&emsp;At the request of an Indian tribe, tribal organization, or urban Indian organization, the Bureau of Indian Affairs and the Service shall cooperate with and provide technical assistance to the Indian tribe, tribal organization, or urban Indian organization in the development and implementation of such plan.
+&emsp;At the request of an Indian tribe, tribal organization, or urban Indian organization, theBureau of Indian Affairs and the Service shall cooperate with and provide technical assistance to the Indian tribe, tribal organization, or urban Indian organization in the development and implementation of such plan.
 
 #### (3) Funding
 

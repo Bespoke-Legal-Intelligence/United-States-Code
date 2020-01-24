@@ -6,7 +6,7 @@ In any action under this title, other than an action brought for a violation of 
 
 &emsp;(2) any infringement of copyright commenced after first publication of the work and before the effective date of its registration, unless such registration is made within three months after the first publication of the work.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2583; Pub. L. 101–650, title VI, §606(c)(2), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 109–9, title I, §104(c), Apr. 27, 2005, 119 Stat. 222; Pub. L. 110–403, title I, §101(b)(1), Oct. 13, 2008, 122 Stat. 4258.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2583; Pub. L. 101–650, title VI, §606(c)(2), Dec. 1,1990, 104 Stat. 5131; Pub. L. 109–9, title I, §104(c), Apr. 27, 2005, 119 Stat. 222; Pub. L. 110–403, title I, §101(b)(1), Oct. 13, 2008, 122 Stat. 4258.)
 
 #### Historical and Revision Notes
 

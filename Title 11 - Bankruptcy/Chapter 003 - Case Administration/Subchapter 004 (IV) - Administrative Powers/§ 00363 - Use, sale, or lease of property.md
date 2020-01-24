@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(iii) by the court after notice and a hearing.
 
-(c)(1) If the business of the debtor is authorized to be operated under section 721, 1108, 1203, 1204, or 1304 of this title and unless the court orders otherwise, the trustee may enter into transactions, including the sale or lease of property of the estate, in the ordinary course of business, without notice or a hearing, and may use property of the estate in the ordinary course of business without notice or a hearing.
+(c)(1) If the business of the debtor is authorized to be operated under section 721, 1108, 1183, 1184, 1203, 1204, or 1304 of this title and unless the court orders otherwise, the trustee may enter into transactions, including the sale or lease of property of the estate, in the ordinary course of business, without notice or a hearing, and may use property of the estate in the ordinary course of business without notice or a hearing.
 
 (2) The trustee may not use, sell, or lease cash collateral under paragraph (1) of this subsection unless—
 
@@ -88,7 +88,7 @@
 
 &emsp;(2) the entity asserting an interest in property has the burden of proof on the issue of the validity, priority, or extent of such interest.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2572; Pub. L. 98–353, title III, §442, July 10, 1984, 98 Stat. 371; Pub. L. 99–554, title II, §257(k), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title I, §109, title II, §§214(b), 219(c), title V, §501(d)(8), Oct. 22, 1994, 108 Stat. 4113, 4126, 4129, 4144; Pub. L. 109–8, title II, §§204, 231(a), title XII, §1221(a), Apr. 20, 2005, 119 Stat. 49, 72, 195; Pub. L. 111–327, §2(a)(13), Dec. 22, 2010, 124 Stat. 3559.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2572; Pub. L. 98–353, title III, §442, July 10, 1984, 98 Stat. 371; Pub. L. 99–554, title II, §257(k), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title I, §109, title II, §§214(b), 219(c), title V, §501(d)(8), Oct. 22, 1994, 108 Stat. 4113, 4126, 4129, 4144; Pub. L. 109–8, title II, §§204, 231(a), title XII, §1221(a), Apr. 20, 2005, 119 Stat. 49, 72, 195; Pub. L. 111–327, §2(a)(13), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 116–54, §4(a)(6), Aug. 23, 2019, 133 Stat. 1086.)
 
 #### Historical and Revision Notes
 
@@ -122,7 +122,7 @@ At a sale free and clear of other interests, any holder of any interest in the p
 
 Subsection (g) permits the trustee to sell free and clear of any vested or contingent right in the nature of dower or curtesy.
 
-Subsection (h) permits sale of a co-owner's interest in property in which the debtor had an undivided ownership interest such as a joint tenancy, a tenancy in common, or a tenancy by the entirety. Such a sale is permissible only if partition is impracticable, if sale of the estate's interest would realize significantly less for the estate that sale of the property free of the interests of the co-owners, and if the benefit to the estate of such a sale outweighs any detriment to the co-owners. This subsection does not apply to a co-owner's interest in a public utility when a disruption of the utilities services could result.
+Subsection (h) permits sale of a co-owner's interest in property in which the debtor had an undivided ownership interest such as a joint tenancy, a tenancy in common, or a tenancy by the entirety. Such a sale is permissible only if partition is impracticable, if sale of the estate's interest would realize significantly less for theestate that sale of the property free of the interests of the co-owners, and if the benefit to the estate of such a sale outweighs any detriment to the co-owners. This subsection does not apply to a co-owner's interest in a public utility when a disruption of the utilities services could result.
 
 Subsection (i) provides protections for co-owners and spouses with dower, curtesy, or community property rights. It gives a right of first refusal to the co-owner or spouse at the price at which the sale is to be consummated.
 
@@ -141,6 +141,8 @@ Section 7A of the Clayton Act, referred to in subsec. (b)(2), is classified to s
 The Truth in Lending Act, referred to in subsec. (o), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c)(1). Pub. L. 116–54 inserted "1183, 1184," after "1108,".
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–327, §2(a)(13)(A), struck out "only" before dash at end of introductory provisions.
 
@@ -189,6 +191,10 @@ Subsec. (l). Pub. L. 98–353, §442(h), substituted "Subject to the provisions 
 Subsec. (n). Pub. L. 98–353, §442(i), substituted "avoid" for "void", "avoiding" for "voiding", and "In addition to any recovery under the preceding sentence, the court may grant judgment for punitive damages in favor of the estate and against any such party that entered into such an agreement in willful disregard of this subsection" for "The court may grant judgment in favor of the estate and against any such party that entered into such agreement in willful disregard of this subsection for punitive damages in addition to any recovery under the preceding sentence".
 
 Subsec. (o). Pub. L. 98–353, §442(j), added subsec. (o).
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under section 101 of this title.
 
 #### Effective Date of 2005 Amendment
 

@@ -208,7 +208,7 @@ In this section:
 
 #### (2) Activities outside the boundary of the Historical Park
 
-&emsp;The fact that an activity or use on land outside the boundary of the Historical Park can be seen or heard from within the boundary shall not preclude the activity or use outside the boundary of the Historical Park.
+&emsp;The fact that an activity or use on land outside the boundary of the Historical Park canbe seen or heard from within the boundary shall not preclude the activity or use outside the boundary of the Historical Park.
 
 #### (h) No cause of action
 

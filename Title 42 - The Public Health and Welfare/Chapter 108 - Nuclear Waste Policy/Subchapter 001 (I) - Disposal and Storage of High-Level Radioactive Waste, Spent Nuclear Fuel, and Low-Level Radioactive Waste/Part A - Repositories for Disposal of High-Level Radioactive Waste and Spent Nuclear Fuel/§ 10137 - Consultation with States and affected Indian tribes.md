@@ -38,7 +38,7 @@ Not later than 60 days after (1) the approval of a site for site characterizatio
 
 #### (d) On-site representative
 
-The Secretary shall offer to any State, Indian tribe or unit of local government within whose jurisdiction a site for a repository or monitored retrievable storage facility is located under this subchapter an opportunity to designate a representative to conduct on-site oversight activities at such site. Reasonable expenses of suchrepresentatives shall be paid out of the Waste Fund.
+The Secretary shall offer to any State, Indian tribe or unit of local government within whose jurisdiction a site for a repository or monitored retrievable storage facility is located under this subchapter an opportunity to designate a representative to conduct on-site oversight activities at such site. Reasonable expenses of such representatives shall be paid out of the Waste Fund.
 
 (Pub. L. 97–425, title I, §117, Jan. 7, 1983, 96 Stat. 2222; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5011(m), Dec. 22, 1987, 101 Stat. 1330–231; Pub. L. 104–66, title I, §1051(i), Dec. 21, 1995, 109 Stat. 716.)
 

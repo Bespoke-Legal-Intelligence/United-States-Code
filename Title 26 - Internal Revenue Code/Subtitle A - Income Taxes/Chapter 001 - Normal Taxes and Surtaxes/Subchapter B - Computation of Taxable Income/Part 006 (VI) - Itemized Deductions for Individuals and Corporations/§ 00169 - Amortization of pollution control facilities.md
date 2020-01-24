@@ -10,7 +10,7 @@ The election of the taxpayer to take the amortization deduction and to begin the
 
 #### (c) Termination of amortization deduction
 
-A taxpayer which has elected under subsection (b) to take the amortization deduction provided in subsection (a) may, at any time after making such election, discontinue the amortization deduction with respect to the remainder of the amortization period, such discontinuance to begin as of the beginning of any month specified by the taxpayer in a notice in writing filed with the Secretary before the beginning of such month. The depreciation deduction provided under section 167 shall be allowed, beginning with the first month as to which the amortization deduction does not apply, and the taxpayer shall not be entitled to any further amortization deduction under this section with respect to such pollution control facility.
+A taxpayer which has elected under subsection (b) to take the amortization deduction providedin subsection (a) may, at any time after making such election, discontinue the amortization deduction with respect to the remainder of the amortization period, such discontinuance to begin as of the beginning of any month specified by the taxpayer in a notice in writing filed with the Secretary before the beginning of such month. The depreciation deduction provided under section 167 shall be allowed, beginning with the first month as to which the amortization deduction does not apply, and the taxpayer shall not be entitled to any further amortization deduction under this section with respect to such pollution control facility.
 
 #### (d) Definitions and special rules
 
@@ -74,7 +74,7 @@ The Federal certifying authority shall not certify any property under subsection
 
 #### (2) Special rules
 
-&emsp;&emsp;(A) If a certified pollution control facility has a useful life (determined as of the first day of the first month for which a deduction is allowable under this section) in excess of 15 years, the amortizable basis of such facility shall be equal to an amount which bears the same ratio to the portion of the adjusted basis of such facility, which would be eligible for amortization but for the application of this subparagraph, as 15 bears to the number of years of useful life of such facility.
+&emsp;&emsp;(A) If a certified pollution control facility has a useful life (determined as of the firstday of the first month for which a deduction is allowable under this section) in excess of 15 years, the amortizable basis of such facility shall be equal to an amount which bears the same ratio to the portion of the adjusted basis of such facility, which would be eligible for amortization but for the application of this subparagraph, as 15 bears to the number of years of useful life of such facility.
 
 &emsp;&emsp;(B) The amortizable basis of a certified pollution control facility with respect to which an election under this section is in effect shall not be increased, for purposes of this section, for additions or improvements after the amortization period has begun.
 
@@ -146,5 +146,5 @@ Pub. L. 91–172, title VII, §704(c), Dec. 30, 1969, 83 Stat. 670, provided tha
 
 #### Transfer of Functions
 
-Functions vested in Secretary of the Interior and Secretary of Health, Education, and Welfare by subsec. (d)(1)(B), (3) of this section transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3, of 1970, §2(a)(9), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested in Secretary of the Interior and Secretary of Health, Education, and Welfare by subsec.\(d)(1)(B), (3) of this section transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3, of 1970, §2(a)(9), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
 

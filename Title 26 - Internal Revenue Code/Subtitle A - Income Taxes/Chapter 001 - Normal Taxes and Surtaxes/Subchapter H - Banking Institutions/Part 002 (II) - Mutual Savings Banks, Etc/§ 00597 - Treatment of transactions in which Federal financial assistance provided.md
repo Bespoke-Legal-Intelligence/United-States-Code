@@ -80,7 +80,7 @@ Subsection (a)(3).—
 
 &emsp;"(A)
 
-In general.—The amendments made by subsection (a)(3) \[amending this section and repealing provisions set out below\] shall apply to any amount received or accrued by the financial institution on or after May 10, 1989, except that such amendments shall not apply to transfers on or after such date pursuant to an acquisition to which the amendment made by subsection (a)(1) \[amending section 368 of this title\] does not apply.
+In general.—The amendments made by subsection (a)(3) \[amending this section and repealingprovisions set out below\] shall apply to any amount received or accrued by the financial institution on or after May 10, 1989, except that such amendments shall not apply to transfers on or after such date pursuant to an acquisition to which the amendment made by subsection (a)(1) \[amending section 368 of this title\] does not apply.
 
 &emsp;"(B)
 
@@ -108,7 +108,7 @@ Pub. L. 100–647, title IV, §4012(c)(3), Nov. 10, 1988, 102 Stat. 3660, as ame
 
 &emsp;"(B) after December 31, 1989, if such transfer is pursuant to an acquisition occurring after December 31, 1988, and before January 1, 1990.
 
-> In the case of any bank or any institution treated as a domestic building and loan association for purposes of section 597 of the 1986 Code by reason of the amendment made by subsection (b)(2)(B), the amendments made bythis subsection shall also apply to any transfer before January 1, 1989, to which the amendments made by subsection (b)(2) \[amending this section\] apply."
+> In the case of any bank or any institution treated as a domestic building and loan association for purposes of section 597 of the 1986 Code by reason of the amendment made by subsection (b)(2)(B), the amendments made by this subsection shall also apply to any transfer before January 1, 1989, to which the amendments made by subsection (b)(2) \[amending this section\] apply."
 
 #### Effective Date of Repeal
 

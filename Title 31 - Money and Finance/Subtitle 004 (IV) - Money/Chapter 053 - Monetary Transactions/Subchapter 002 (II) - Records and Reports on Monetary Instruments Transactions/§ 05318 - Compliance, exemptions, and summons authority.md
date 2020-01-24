@@ -32,7 +32,7 @@ Limitations on Summons Power.—
 
 &emsp;(1)
 
-Scope of power.—The Secretary of the Treasury may take any action described in paragraph (3) or (4) of subsection (a) only in connection with investigations for the purpose of civil enforcement of violations of this subchapter, section 21 of the Federal Deposit Insurance Act, section 411 <sup>1</sup> of the National Housing Act, or chapter 2 of Public Law 91–508 (12 U.S.C. 1951 et seq.) or any regulation under any such provision.
+Scope of power.—The Secretary of the Treasury may take any action described in paragraph (3) or (4) of subsection (a) only inconnection with investigations for the purpose of civil enforcement of violations of this subchapter, section 21 of the Federal Deposit Insurance Act, section 411 <sup>1</sup> of the National Housing Act, or chapter 2 of Public Law 91–508 (12 U.S.C. 1951 et seq.) or any regulation under any such provision.
 
 &emsp;(2)
 
@@ -116,7 +116,7 @@ In general.—If a financial institution or any director, officer, employee, or 
 
 &emsp;&emsp;&emsp;(i) neither the financial institution, director, officer, employee, or agent of such institution (whether or not any such person is still employed by the institution), nor any other current or former director, officer, or employee of, or contractor for, the financial institution or other reporting person, may notify any person involved in the transaction that the transaction has been reported; and
 
-&emsp;&emsp;&emsp;(ii) no current or former officer or employee of or contractor for the FederalGovernment or of or for any State, local, tribal, or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, other than as necessary to fulfill the official duties of such officer or employee.
+&emsp;&emsp;&emsp;(ii) no current or former officer or employee of or contractor for the Federal Government or of or for any State, local, tribal, or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, other than as necessary to fulfill the official duties of such officer or employee.
 
 &emsp;&emsp;(B)
 
@@ -192,7 +192,7 @@ Regulations.—The Secretary of the Treasury, after consultation with the approp
 
 Concentration accounts.—The Secretary may prescribe regulations under this subsection that govern maintenance of concentration accounts by financial institutions, in order to ensure that such accounts are not used to prevent association of the identity of an individual customer with the movement of funds of which the customer is the direct or beneficial owner, which regulations shall, at a minimum—
 
-&emsp;&emsp;(A) prohibit financial institutions from allowing clients to direct transactions thatmove their funds into, out of, or through the concentration accounts of the financial institution;
+&emsp;&emsp;(A) prohibit financial institutions from allowing clients to direct transactions that move their funds into, out of, or through the concentration accounts of the financial institution;
 
 &emsp;&emsp;(B) prohibit financial institutions and their employees from informing customers of the existence of, or the means of identifying, the concentration accounts of the institution; and
 
@@ -268,7 +268,7 @@ In general.—A financial institution described in subparagraphs (A) through (G)
 
 &emsp;(2)
 
-Prevention of indirect service to foreign shell banks.—A covered financial institution shall take reasonable steps to ensure that any correspondent account established, maintained, administered, or managed by that covered financial institution in the UnitedStates for a foreign bank is not being used by that foreign bank to indirectly provide banking services to another foreign bank that does not have a physical presence in any country. The Secretary of the Treasury shall, by regulation, delineate the reasonable steps necessary to comply with this paragraph.
+Prevention of indirect service to foreign shell banks.—A covered financial institution shall take reasonable steps to ensure that any correspondent account established, maintained, administered, or managed by that covered financial institution in the United States for a foreign bank is not being used by that foreign bank to indirectly provide banking services to another foreign bank that does not have a physical presence in any country. The Secretary of the Treasury shall, by regulation, delineate the reasonable steps necessary to comply with this paragraph.
 
 &emsp;(3)
 
@@ -288,7 +288,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;&emsp;(i) is maintained by a foreign bank;
 
-&emsp;&emsp;&emsp;(ii) is located at a fixed address (other than solely an electronic address) in a country in which the foreign bank is authorized to conduct banking activities, at which location the foreign bank—
+&emsp;&emsp;&emsp;(ii) is located at a fixed address (other than solely an electronic address) in acountry in which the foreign bank is authorized to conduct banking activities, at which location the foreign bank—
 
 &emsp;&emsp;&emsp;&emsp;(I) employs 1 or more individuals on a full-time basis; and
 
@@ -452,7 +452,7 @@ In general.—Subject to subparagraph (B), the regulations required by paragraph
 
 &emsp;&emsp;(B)
 
-Technological feasibility.—No regulations shall be prescribed under this subsection before the Secretary certifies to the Congress that the Financial Crimes Enforcement Network has the technological systems in place to effectively and efficiently receive, keep, exploit, protect the security of, and disseminate information from reports of cross-border electronic transmittals of funds to law enforcement and other entities engaged in efforts against money laundering and terrorist financing.
+Technological feasibility.—No regulations shall be prescribed under this subsection before the Secretary certifies to the Congress that the Financial Crimes Enforcement Network has the technological systems in place to effectively and efficientlyreceive, keep, exploit, protect the security of, and disseminate information from reports of cross-border electronic transmittals of funds to law enforcement and other entities engaged in efforts against money laundering and terrorist financing.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748; Pub. L. 109–177, title IV, §407, Mar. 9, 2006, 120 Stat. 245; Pub. L. 112–74, div. C, title I, §118, Dec. 23, 2011, 125 Stat. 891; Pub. L. 113–156, §2(a), Aug. 8, 2014, 128 Stat. 1829.)
 
@@ -532,7 +532,7 @@ Subsec. (f). Pub. L. 107–56, §365(c)(2)(B)(i), inserted "or nonfinancial trad
 
 Subsec. (g)(2). Pub. L. 107–56, §351(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "A financial institution, and a director, officer, employee, or agent of any financial institution, who voluntarily reports a suspicious transaction, or that reports a suspicious transaction pursuant to this section or any other authority, may not notify any person involved in the transaction that the transaction has been reported."
 
-Subsec. (g)(3). Pub. L. 107–56, §351(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Any financial institution that makes a disclosure of any possible violation of law or regulation or a disclosure pursuant to this subsection or any other authority, and any director, officer, employee, or agent of such institution, shall not be liable to any person under any law or regulation of the United States or any constitution, law, or regulation of any State or political subdivision thereof, for such disclosure or for any failure to notify the person involved in the transaction or any other person of such disclosure."
+Subsec. (g)(3). Pub. L. 107–56, §351(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Any financial institution that makes a disclosure of any possible violation of law or regulation or a disclosure pursuant tothis subsection or any other authority, and any director, officer, employee, or agent of such institution, shall not be liable to any person under any law or regulation of the United States or any constitution, law, or regulation of any State or political subdivision thereof, for such disclosure or for any failure to notify the person involved in the transaction or any other person of such disclosure."
 
 Subsec. (g)(4)(B). Pub. L. 107–56, §358(b), substituted ", supervisory agency, or United States intelligence agency for use in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism" for "or supervisory agency".
 
@@ -610,7 +610,7 @@ Pub. L. 107–56, title III, §312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided
 
 Pub. L. 107–56, title III, §313(b), Oct. 26, 2001, 115 Stat. 307, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 60-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\]."
 
-Pub. L. 107–56, title III, §352(b), Oct. 26, 2001, 115 Stat. 322, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect atthe end of the 180-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\]."
+Pub. L. 107–56, title III, §352(b), Oct. 26, 2001, 115 Stat. 322, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 180-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\]."
 
 Amendment by section 358(b) of Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of Title 12, Banks and Banking.
 
@@ -624,7 +624,7 @@ Secretary of the Treasury required to consult with State supervisory agencies in
 
 Pub. L. 107–56, title III, §312(b)(1), Oct. 26, 2001, 115 Stat. 305, provided that: "Not later than 180 days after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the appropriate Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act \[15 U.S.C. 6809\]) of the affected financial institutions, shall further delineate, by regulation, the due diligence policies, procedures, and controls required under section 5318(i)(1) of title 31, United States Code, as added by this section."
 
-Pub. L. 107–56, title III, §352(c), Oct. 26, 2001, 115 Stat. 322, provided that: "Before the end of the 180-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\] shall prescribe regulations that consider the extent to which the requirements imposed under this section \[amending this section and enacting provisions set out as a note above\] are commensurate with the size, location, and activities of the financial institutions to which such regulations apply."
+Pub. L. 107–56, title III, §352(c), Oct. 26, 2001, 115 Stat. 322, provided that: "Before the end of the 180-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\] shall prescribe regulations that consider the extent to which the requirements imposed under this section \[amending thissection and enacting provisions set out as a note above\] are commensurate with the size, location, and activities of the financial institutions to which such regulations apply."
 
 #### Grace Period
 

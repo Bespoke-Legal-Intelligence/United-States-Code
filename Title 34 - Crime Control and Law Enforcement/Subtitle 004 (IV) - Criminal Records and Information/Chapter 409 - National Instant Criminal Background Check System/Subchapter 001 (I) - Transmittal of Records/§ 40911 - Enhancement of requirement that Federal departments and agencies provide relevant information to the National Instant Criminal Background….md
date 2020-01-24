@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(A) the adjudication or commitment, respectively, has been set aside or expunged, or the person has otherwise been fully released or discharged from all mandatory treatment, supervision, or monitoring;
 
-&emsp;&emsp;(B) the person has been found by a court, board, commission, or other lawful authority to no longer suffer from the mental health condition that was the basis of the adjudication or commitment, respectively, or has otherwise been found to be rehabilitated through any procedure available under law; or
+&emsp;&emsp;(B) the person has been found by a court, board, commission, or other lawful authority to no longer suffer from the mentalhealth condition that was the basis of the adjudication or commitment, respectively, or has otherwise been found to be rehabilitated through any procedure available under law; or
 
 &emsp;&emsp;(C) the adjudication or commitment, respectively, is based solely on a medical finding of disability, without an opportunity for a hearing by a court, board, commission, or other lawful authority, and the person has not been adjudicated as a mental defective consistent with section 922(g)(4) of title 18, except that nothing in this section or any other provision of law shall prevent a Federal department or agency from providing to the Attorney General any record demonstrating that a person was adjudicated to be not guilty by reason of insanity, or based on lack of mental responsibility, or found incompetent to stand trial, in any criminal case or under the Uniform Code of Military Justice.
 
@@ -48,7 +48,7 @@
 
 #### (ii) Process
 
-&emsp;&emsp;&emsp;Each application for relief submitted under the program required by this subparagraph shall be processed not later than 365 days after the receipt of the application. If a Federal department or agency fails to resolve an application for relief within 365 days for any reason, including a lack of appropriated funds, the department or agency shall be deemed for all purposesto have denied such request for relief without cause. Judicial review of any petitions brought under this clause shall be de novo.
+&emsp;&emsp;&emsp;Each application for relief submitted under the program required by this subparagraph shall be processed not later than 365 days after the receipt of the application. If a Federal department or agency fails to resolve an application for relief within 365 days for any reason, including a lack of appropriated funds, the department or agency shall be deemed for all purposes to have denied such request for relief without cause. Judicial review of any petitions brought under this clause shall be de novo.
 
 #### (iii) Judicial review
 

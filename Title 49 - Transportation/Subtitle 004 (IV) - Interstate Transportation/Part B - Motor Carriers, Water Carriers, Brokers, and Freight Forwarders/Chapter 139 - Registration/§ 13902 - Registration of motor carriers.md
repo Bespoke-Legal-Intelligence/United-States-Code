@@ -368,7 +368,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Amendment by sections 32101(a), 32107(a), 32111, and 32915 of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
-Pub. L. 112–141, div. C, title II, §32921(c), July 6, 2012, 126 Stat. 828, provided that: "The amendments made bythis section \[amending this section and section 31144 of this title\] shall take effect 2 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\]."
+Pub. L. 112–141, div. C, title II, §32921(c), July 6, 2012, 126 Stat. 828, provided that: "The amendments made by this section \[amending this section and section 31144 of this title\] shall take effect 2 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\]."
 
 #### Effective Date
 
@@ -520,7 +520,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, as amended by 
 
 &emsp;&emsp;"(E) a policy under section 219(a) of that Act (49 U.S.C. 14901 note) that prohibits foreign motor carriers from operating in the United States that is found to have operated illegally in the United States.
 
-"(b) No vehicles owned or leased by a Mexican motor carrier and carrying hazardous materials in a placardable quantity may be permitted to operate beyond a United States municipality or commercial zone until the United States has completed an agreement with the Government of Mexico which ensures that drivers of such vehicles carrying such placardable quantities of hazardous materials meet substantially the same requirements as United States drivers carrying such materials.
+"(b) No vehicles owned or leased by a Mexican motor carrier and carrying hazardous materials in a placardable quantity may be permitted to operate beyond a United States municipality or commercial zone until the United States has completed an agreement with the Government of Mexico which ensures that drivers of such vehicles carrying such placardablequantities of hazardous materials meet substantially the same requirements as United States drivers carrying such materials.
 
 "(c) No vehicles owned or leased by a Mexican motor carrier may be permitted to operate beyond United States municipalities and commercial zones under conditional or permanent operating authority granted by the Federal Motor Carrier Safety Administration until—
 
@@ -572,7 +572,7 @@ The moratorium is modified only to authorize the Interstate Commerce Commission 
 
 This action applies only to international charter and tour operations, does not allow for point-to-point service within the United States, and does not authorize companies to conduct cross-border regular route service. This action preserves the status quo with respect to Mexican trucking companies and Mexican companies engaged in regular route service, and will maintain the moratorium on those operations through September 25, 1994, unless earlier revoked or modified.
 
-Accordingly, you are directed to notify the Congress today on my behalf that, effective 60 days hence, the moratorium will no longer be in effect for Mexican charter and tour bus companies subject to the above stated conditions. Because of this action, the Interstate Commerce Commission will then accept and process expeditiously all applications for operating authority from Mexican owned, controlled, or domiciled charter and tour bus firms. I should note that applications in Mexico by United States charter and tour bus firms will be similarly treated.
+Accordingly, you are directed to notify the Congress today on my behalf that, effective 60 days hence, the moratorium will no longer be in effect for Mexican charter and tour bus companies subject to the above stated conditions. Because of this action, the Interstate Commerce Commission will then accept and process expeditiously all applications for operating authority from Mexican owned, controlled, or domiciled charter and tour bus firms. I should note that applications inMexico by United States charter and tour bus firms will be similarly treated.
 
 You are hereby authorized and directed to publish this determination in the Federal Register.
 
@@ -632,7 +632,7 @@ The North American Free Trade Agreement (NAFTA) established a schedule for liber
 
 Pursuant to 49 U.S.C. 13902(c)(5), I have determined that expeditious action is required to implement these modifications to the moratorium. Effective today, the Department of Transportation will accept and expeditiously process applications, submitted by enterprises domiciled in the United States that are owned or controlled by persons of Mexico, to obtain operating authority to provide truck services for the transportation of international cargo between points in the United States or to provide bus services between points in the United States.
 
-Motor carriers domiciled in the United States that are owned or controlled by persons of Mexico will be subject to the same Federal and State regulations and procedures that apply to all other U.S. carriers. These include safety regulations, such as drug and alcohol testing; insurance requirements; taxes and fees; and all other applicable laws and regulations, including those administered by the U.S. Customs Service, the Immigration and Naturalization Service, and the Department of Labor.
+Motor carriers domiciled in the United States that are owned or controlled by persons of Mexico will be subject to the same Federal and State regulations andprocedures that apply to all other U.S. carriers. These include safety regulations, such as drug and alcohol testing; insurance requirements; taxes and fees; and all other applicable laws and regulations, including those administered by the U.S. Customs Service, the Immigration and Naturalization Service, and the Department of Labor.
 
 This memorandum shall be published in the Federal Register.
 

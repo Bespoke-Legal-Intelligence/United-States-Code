@@ -32,5 +32,5 @@ The Secretary of Commerce shall select the members of the Working Group, who sha
 
 #### Delegation of Functions
 
-Functions of President under subsec. (b) of this section assigned to Secretary of Commerce, see Ex. Ord.No. 13733, §1(a), July 22, 2016, 81 F.R. 49515, set out as a note under section 4421 of Title 19, Customs Duties.
+Functions of President under subsec. (b) of this section assigned to Secretary of Commerce, see Ex. Ord. No. 13733, §1(a), July 22, 2016, 81 F.R. 49515, set out as a note under section 4421 of Title 19, Customs Duties.
 

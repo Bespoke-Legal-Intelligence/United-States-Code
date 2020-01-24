@@ -6,7 +6,7 @@ The Administrator shall conduct a study of the extent to which the guidelines an
 
 #### (b) Report
 
-Not later than thirty-six months after November 8, 1984, the Administrator shall submit a report to the Congress setting forth the results of the study required under this section, together with any recommendations made by the Administrator on the basis of such study.
+Not later than thirty-six months after November 8, 1984, the Administrator shall submit a report to the Congress setting forth the results ofthe study required under this section, together with any recommendations made by the Administrator on the basis of such study.
 
 #### (c) Revisions of guidelines and criteria
 
@@ -70,7 +70,7 @@ Not later than thirty-six months after November 8, 1984, the Administrator shall
 
 #### Reinstatement of Regulatory Exemption
 
-Pub. L. 104–119, §3(b), Mar. 26, 1996, 110 Stat. 833, provided that: "It is the intent of section 4010(c)(2) of the Solid Waste Disposal Act \[42 U.S.C. 6949a(c)(2)\], as added by subsection (a), to immediately reinstate subpart E of part 258 of title 40, Code of Federal Regulations, as added by the final rule published at 56 Federal Register 50798 on October 9, 1991."
+Pub. L. 104–119, §3(b), Mar. 26, 1996, 110 Stat. 833, provided that: "It is the intent of section 4010(c)(2) of theSolid Waste Disposal Act \[42 U.S.C. 6949a(c)(2)\], as added by subsection (a), to immediately reinstate subpart E of part 258 of title 40, Code of Federal Regulations, as added by the final rule published at 56 Federal Register 50798 on October 9, 1991."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "no-migration".</i>
 

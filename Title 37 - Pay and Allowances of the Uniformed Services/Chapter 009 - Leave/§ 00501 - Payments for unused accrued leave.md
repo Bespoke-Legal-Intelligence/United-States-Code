@@ -164,7 +164,7 @@ Subsec. (g). Pub. L. 100–26, §8(e)(9), inserted "the term" before " 'accumul
 
 <b>1984</b>—Subsec. (e). Pub. L. 98–525, §606(a), designated existing provisions as par. (1) and added par. (2).
 
-<b>1980</b>—Subsec. (b)(3). Pub. L. 96–513, §516(14)(A), substituted "September 1, 1976" for "the first day of the second calendar month following the month in which the Department of Defense Appropriation Authorization Act, 1977, was enacted".
+<b>1980</b>—Subsec. (b)(3). Pub. L. 96–513, §516(14)(A), substituted "September 1, 1976" for "the first day of thesecond calendar month following the month in which the Department of Defense Appropriation Authorization Act, 1977, was enacted".
 
 Subsec. (d). Pub. L. 96–513, §516(14)(B), substituted "unused" for "unusued".
 

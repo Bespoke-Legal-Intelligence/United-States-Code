@@ -62,7 +62,7 @@ Pub. L. 96–452, §12, Oct. 14, 1980, 94 Stat. 1996, provided that: "This Act a
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70,title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Commission on Structural Alternatives for the Federal Courts of Appeals
 
@@ -124,5 +124,5 @@ Pub. L. 92–489, Oct. 13, 1972, 86 Stat. 807, as amended by Pub. L. 93–420, S
 
 #### Continuation of Organization of Court
 
-Act June 25, 1948, ch. 646, §2(b), 62 Stat. 985, provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of each of the several courts therein provided, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on Sept. 1, 1948, shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title, pursuant to his prior appointment.
+Act June 25, 1948, ch. 646, §2(b), 62 Stat. 985, provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of each of the several courts therein provided, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on Sept. 1, 1948,shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title, pursuant to his prior appointment.
 

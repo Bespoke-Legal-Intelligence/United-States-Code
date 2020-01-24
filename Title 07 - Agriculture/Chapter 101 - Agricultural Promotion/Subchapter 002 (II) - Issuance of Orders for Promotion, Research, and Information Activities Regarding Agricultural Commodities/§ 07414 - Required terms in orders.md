@@ -26,7 +26,7 @@ Each order shall contain the terms and conditions specified in this section.
 
 #### (D) Geographical representation
 
-&emsp;&emsp;To ensure fair and equitable representation of the agricultural commodity industry covered by an order, the composition of eachboard shall reflect the geographical distribution of the production of the agricultural commodity involved in the United States and the quantity or value of the agricultural commodity imported into the United States.
+&emsp;&emsp;To ensure fair and equitable representation of the agricultural commodity industry covered by an order, the composition of each board shall reflect the geographical distribution of the production of the agricultural commodity involved in the United States and the quantity or value of the agricultural commodity imported into the United States.
 
 #### (3) Reapportionment of board membership
 
@@ -146,7 +146,7 @@ A board may not engage in, and shall prohibit the employees and agents of the bo
 
 &emsp;Each order shall provide that, with the approval of the Secretary, the board established under the order may—
 
-&emsp;&emsp;(A) enter into contracts and agreements to carry out generic promotion, research, and information activities relating to the agricultural commodity covered by the order, including contracts and agreements with producer associations or other entities as considered appropriate by the Secretary; and
+&emsp;&emsp;(A) enter into contracts and agreements to carry out generic promotion, research, and information activities relating to the agricultural commodity covered by the order,including contracts and agreements with producer associations or other entities as considered appropriate by the Secretary; and
 
 &emsp;&emsp;(B) pay the cost of approved generic promotion, research, and information activities using assessments collected under section 7416 of this title, earnings obtained from assessments, and other income of the board.
 

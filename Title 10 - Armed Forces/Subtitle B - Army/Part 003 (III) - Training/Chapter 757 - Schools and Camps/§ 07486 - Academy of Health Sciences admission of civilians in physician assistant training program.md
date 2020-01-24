@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of the Army may, pursuant to an agreement entered intowith an accredited institution of higher education—
+In General.—The Secretary of the Army may, pursuant to an agreement entered into with an accredited institution of higher education—
 
 &emsp;(1) permit students of the institution to attend the didactic portion of the physician assistant training program conducted by the Army Medical Department at the Academy of Health Sciences at Fort Sam Houston, Texas; and
 

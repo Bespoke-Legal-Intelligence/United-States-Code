@@ -44,7 +44,7 @@ As used in this chapter—
 
 &emsp;&emsp;(5) any other substance in the concentration specified by the Attorney General, after consultation with the Secretary of State and the Secretary of Defense, that has been added to the table in part 2 of the Technical Annex to the Convention on the Marking of Plastic Explosives.
 
-&emsp;(q) "Plastic explosive" means an explosive material in flexible or elastic sheet form formulated with one or more high explosives which in their pure form has a vapor pressure less than 10−<sup>4</sup> Pa at a temperature of 25°C., is formulated with a binder material, and is as amixture malleable or flexible at normal room temperature.
+&emsp;(q) "Plastic explosive" means an explosive material in flexible or elastic sheet form formulated with one or more high explosives which in their pure form has a vapor pressure less than 10−<sup>4</sup> Pa at a temperature of 25°C., is formulated with a binder material, and is as a mixture malleable or flexible at normal room temperature.
 
 &emsp;(r) "Alien" means any person who is not a citizen or national of the United States.
 
@@ -60,7 +60,7 @@ Indian Tribe <sup>1</sup>.—The term "Indian tribe" has the meaning given the 
 
 For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-Section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a), referred to in subsec. (t), was classified to section 479a of Title 25, Indians, prior to editorial reclassification as section 5130 of Title 25.
+Section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a), referred to in subsec.\(t), was classified to section 479a of Title 25, Indians, prior to editorial reclassification as section 5130 of Title 25.
 
 #### Amendments
 
@@ -134,7 +134,7 @@ Purpose.—The purpose of this title \[amending this section, sections 842, 844,
 
 #### Marking, Rendering Inert, and Licensing of Explosive Materials
 
-Pub. L. 104–132, title VII, §732, Apr. 24, 1996, 110 Stat. 1303, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009,3009–21; Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1272, required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
+Pub. L. 104–132, title VII, §732, Apr. 24, 1996, 110 Stat. 1303, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1272, required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
 
 #### Congressional Declaration of Purpose
 

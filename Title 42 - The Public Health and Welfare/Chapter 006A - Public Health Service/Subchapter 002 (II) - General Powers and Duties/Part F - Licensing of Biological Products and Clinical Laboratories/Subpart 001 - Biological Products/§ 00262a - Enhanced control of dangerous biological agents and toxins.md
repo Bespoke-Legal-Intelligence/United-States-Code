@@ -244,7 +244,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (3) Other exemptions
 
-&emsp;This subsection may not be construed as altering the application of any exemptions to public disclosure under section 552 of title 5, except as to subsection <sup>2</sup> 552(b)(3) of such title, to any of the information specified in paragraph (1).
+&emsp;This subsection may not be construed as altering the application of any exemptions to public disclosure under section 552 of title 5, except as to subsection <sup>2</sup> 552(b)(3) of such title,to any of the information specified in paragraph (1).
 
 #### (4) Rule of construction
 
@@ -270,7 +270,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (1) In general
 
-&emsp;In addition to any other penalties that may apply under law, any person who violates anyprovision of regulations under subsection (b) or (c) shall be subject to the United States for a civil money penalty in an amount not exceeding $250,000 in the case of an individual and $500,000 in the case of any other person.
+&emsp;In addition to any other penalties that may apply under law, any person who violates any provision of regulations under subsection (b) or (c) shall be subject to the United States for a civil money penalty in an amount not exceeding $250,000 in the case of an individual and $500,000 in the case of any other person.
 
 #### (2) Applicability of certain provisions
 
@@ -282,7 +282,19 @@ Regulations under subsections (b) and (c) shall require the prompt notification 
 
 #### (k) Reports
 
-The Secretary shall report to the Congress annually on the number and nature of notifications received under subsection (e)(8) (relating to theft or loss) and subsection (j) (relating to releases).
+#### (1) In general
+
+&emsp;The Secretary shall report to the Congress annually on the number and nature of notifications received under subsection (e)(8) (relating to theft or loss) and subsection (j) (relating to releases).
+
+#### (2) Implementation of recommendations of the Federal Experts Security Advisory Panel and the fast track action committee on select agent regulations
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 1 year after June 24, 2019, the Secretary shall report to the congressional committees of jurisdiction on the implementation of recommendations of the Federal Experts Security Advisory Panel concerning the select agent program.
+
+#### (B) Continued updates
+
+&emsp;&emsp;The Secretary shall report to the congressional committees of jurisdiction annually following the submission of the report under subparagraph (A) until the recommendations described in such subparagraph are fully implemented, or a justification is provided for the delay in, or lack of, implementation.
 
 #### (l) Definitions
 
@@ -314,9 +326,9 @@ For purposes of this section:
 
 #### (m) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2007.
+For the purpose of carrying out this section, there are authorized to be appropriated suchsums as may be necessary for each of the fiscal years 2002 through 2007.
 
-(July 1, 1944, ch. 373, title III, §351A, as added Pub. L. 107–188, title II, §201(a), June 12, 2002, 116 Stat. 637; amended Pub. L. 107–296, title XVII, §1709(a), Nov. 25, 2002, 116 Stat. 2318.)
+(July 1, 1944, ch. 373, title III, §351A, as added Pub. L. 107–188, title II, §201(a), June 12, 2002, 116 Stat. 637; amended Pub. L. 107–296, title XVII, §1709(a), Nov. 25, 2002, 116 Stat. 2318; Pub. L. 116–22, title IV, §405, June 24, 2019, 133 Stat. 949.)
 
 #### References in Text
 
@@ -330,6 +342,8 @@ Section 6 of the Inspector General Act of 1978, referred to in subsec. (i)(2), i
 
 #### Amendments
 
+<b>2019</b>—Subsec. (k). Pub. L. 116–22 designated existing provisions as par. (1), inserted heading, and added par. (2).
+
 <b>2002</b>—Subsec. (e)(1). Pub. L. 107–296 substituted "collaboration with the Secretary of Homeland Security and" for "consultation with".
 
 #### Effective Date of 2002 Amendment
@@ -342,7 +356,7 @@ Pub. L. 107–188, title II, §203(b), June 12, 2002, 116 Stat. 647, provided th
 
 #### Regulations
 
-Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that: "Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, 42 U.S.C. 262 note\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[42 U.S.C. 262a\], as added by section 201 of this Act. Such regulations, includingthe list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\]."
+Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that: "Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, 42 U.S.C. 262 note\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[42 U.S.C. 262a\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\]."
 
 #### National Science Advisory Board for Biosecurity
 

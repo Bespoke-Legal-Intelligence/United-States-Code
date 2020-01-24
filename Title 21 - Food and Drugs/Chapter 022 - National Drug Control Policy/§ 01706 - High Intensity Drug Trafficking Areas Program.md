@@ -86,7 +86,7 @@ The Director shall ensure that not more than a total of 5 percent of Federal fun
 
 #### (1) Assistance authorized
 
-&emsp;The Director may authorize use of resources available for the Program to assist Federal, State, local, and tribal law enforcement agencies in investigations and activities related to terrorism and prevention of terrorism, especially but not exclusively with respect to such investigations and activities that are also related to drug trafficking.
+&emsp;The Director may authorize use of resources available for the Program to assist Federal, State, local, and tribal law enforcement agencies in investigations and activities related to terrorism and prevention of terrorism, especially but not exclusively with respect to suchinvestigations and activities that are also related to drug trafficking.
 
 #### (2) Limitation
 
@@ -204,7 +204,7 @@ The Director, in consultation with the Attorney General, shall ensure that any d
 
 &emsp;&emsp;(A) the number of methamphetamine manufacturing facilities discovered through HIDTA-funded initiatives in the previous fiscal year;
 
-&emsp;&emsp;(B) the amounts of methamphetamine or listed chemicals (as that term is defined in section 802(33) of this title <sup>1</sup> seized byHIDTA-funded initiatives in the area during the previous year; and
+&emsp;&emsp;(B) the amounts of methamphetamine or listed chemicals (as that term is defined in section 802(33) of this title) seized by HIDTA-funded initiatives in the area during the previous year; and
 
 &emsp;&emsp;(C) law enforcement intelligence and predictive data from the Drug Enforcement Administration showing patterns and trends in abuse, trafficking, and transportation in methamphetamine and listed chemicals.
 
@@ -224,7 +224,7 @@ There is authorized to be appropriated to the Office of National Drug Control Po
 
 &emsp;(4) $270,000,000 for fiscal year 2010;
 
-&emsp;(5) $280,000,000 for each of <sup>2</sup> fiscal year 2011; and
+&emsp;(5) $280,000,000 for each of <sup>1</sup> fiscal year 2011; and
 
 &emsp;(6) $280,000,000 for each of fiscal years 2018 through 2023.
 
@@ -262,13 +262,15 @@ The Director is authorized to use not more than $10,000,000 of the amounts other
 
 &emsp;(3) purchasing protective equipment, including overdose reversal drugs.
 
-(Pub. L. 105–277, div. C, title VII, §§707, 715, Oct. 21, 1998, 112 Stat. 2681–686, 2681–693; Pub. L. 109–469, title III, §§301, §302(c), title VI, §602, Dec. 29, 2006, 120 Stat. 3518, 3525, 3533; Pub. L. 115–271, title VIII, §§8202(a), 8202(b)(2), 8205, 8208, 8209, Oct. 24, 2018, 132 Stat. 4110, 4113, 4114.)
+(Pub. L. 105–277, div. C, title VII, §§707, 715, Oct. 21, 1998, 112 Stat. 2681–686, 2681–693; Pub. L. 109–469, title III, §§301, §302(c), title VI, §602, Dec. 29, 2006, 120 Stat. 3518, 3525, 3533; Pub. L. 115–271, title VIII, §§8202(a), 8202(b)(2), 8205, 8208, 8209, Oct. 24, 2018, 132 Stat. 4110, 4113, 4114; Pub. L. 116–74, §2(a)(7), Nov. 27, 2019, 133 Stat. 1157.)
 
 #### References in Text
 
 December 29, 2006, referred to in subsecs. (k)(1), (l), and (m) was in the original "the date of the enactment of this section", which was translated as meaning the date of enactment of Pub. L. 109–469, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (o)(2)(B). Pub. L. 116–74 substituted "802(33) of this title)" for "802(33) of this title".
 
 <b>2018</b>—Pub. L. 115–271, §8202(b)(2), repealed Pub. L. 105–277, §715. See 1998 Amendment note below.
 
@@ -372,7 +374,5 @@ Limitation on Administrative Costs.—Not more than 5 percent of the amount appr
 
 Pub. L. 106–58, title III, Sept. 29, 1999, 113 Stat. 448, provided in part: "That, hereafter, of the amount appropriated for fiscal year 2000 or any succeeding fiscal year for the High Intensity Drug Trafficking Areas Program, the funds to be obligated or expended during such fiscal year for programs addressing the treatment or prevention of drug use as part of the approved strategy for a designated High Intensity Drug Trafficking Area (HIDTA) shall not be less than the funds obligated or expended for such programs during fiscal year 1999 for each designated HIDTA without the prior approval of the Committees on Appropriations".
 
-<i><sup>1</sup></i><i> So in original. There probably should be a closing parenthesis.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 

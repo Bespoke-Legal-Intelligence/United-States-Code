@@ -16,7 +16,7 @@ This subtitle, referred to in subsec. (b), means subtitle A (§§411–417) of t
 
 #### Codification
 
-Section was enacted as part of the L–1 Visa (Intracompany Transferee) Reform Act of 2004, and also as part of the L–1 Visa and H–1B Visa Reform Act and the Consolidated Appropriations Act, 2005, and not as part of the Immigration and Nationality Act which comprises this chapter.
+Section was enacted as part of the L–1 Visa (Intracompany Transferee) Reform Act of 2004, and also aspart of the L–1 Visa and H–1B Visa Reform Act and the Consolidated Appropriations Act, 2005, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
 #### Effective Date
 

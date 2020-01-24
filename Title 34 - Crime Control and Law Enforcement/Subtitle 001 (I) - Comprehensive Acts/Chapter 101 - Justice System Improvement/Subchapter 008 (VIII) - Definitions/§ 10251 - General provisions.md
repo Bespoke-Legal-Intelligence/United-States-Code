@@ -26,7 +26,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(ii) any Trust Territory of the United States;
 
-&emsp;(4) "construction" means the erection, acquisition, renovation, repairs, remodeling, or expansion of new or existing buildings or other physical facilities, and the acquisition or installation of initial equipment therefor;
+&emsp;(4) "construction" means the erection, acquisition, renovation, repairs, remodeling, or expansion of new or existing buildings or otherphysical facilities, and the acquisition or installation of initial equipment therefor;
 
 &emsp;(5) "combination" as applied to States or units of local government means any grouping or joining together of such States or units for the purpose of preparing, developing, or implementing a criminal justice program, plan, or project;
 
@@ -72,7 +72,7 @@ As used in this chapter—
 
 &emsp;&emsp;(A) directed at the substance abuse problems of the prisoner; and
 
-&emsp;&emsp;(B) intended to develop the prisoner's cognitive, behavioral, social, vocational, and other skills so as to solve the prisoner's substance abuse and related problems;
+&emsp;&emsp;(B) intended to develop the prisoner's cognitive, behavioral, social, vocational, andother skills so as to solve the prisoner's substance abuse and related problems;
 
 &emsp;(26) the term "Indian Tribe" has the meaning given the term "Indian tribe" in section 5304(e) of title 25;
 
@@ -142,7 +142,7 @@ Subsec. (a)(3). Pub. L. 99–396, §7(2), substituted "and" for ", Guam, Americ
 
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–473, §609C(b)(1), struck out references to Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
-Subsec. (a)(3). Pub. L. 98–473, §609C(b)(2), inserted references to Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
+Subsec. (a)(3). Pub. L. 98–473, §609C(b)(2), inserted references to Guam, American Samoa, the Trust Territoryof the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
 Subsec. (a)(4). Pub. L. 98–473, §609C(b)(3), extended definition of "construction" to include renovation, repairs, and remodeling and struck out previous exclusion of such items from definition.
 

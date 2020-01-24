@@ -76,7 +76,7 @@ There is hereby imposed on each organization which is referred to in subsection 
 
 &emsp;&emsp;&emsp;A person shall cease to be treated as a substantial contributor with respect to any private foundation as of the close of any taxable year of such foundation if—
 
-&emsp;&emsp;&emsp;&emsp;(I) during the 10-year period ending at the close of such taxable year such person (and all related persons) have notmade any contribution to such private foundation,
+&emsp;&emsp;&emsp;&emsp;(I) during the 10-year period ending at the close of such taxable year such person (and all related persons) have not made any contribution to such private foundation,
 
 &emsp;&emsp;&emsp;&emsp;(II) at no time during such 10-year period was such person (or any related person) a foundation manager of such private foundation, and
 

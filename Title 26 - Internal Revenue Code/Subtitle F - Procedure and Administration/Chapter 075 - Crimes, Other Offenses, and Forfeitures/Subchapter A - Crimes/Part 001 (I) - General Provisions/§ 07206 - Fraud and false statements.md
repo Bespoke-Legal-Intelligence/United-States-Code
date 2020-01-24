@@ -8,7 +8,7 @@ Any person who—
 
 #### (2) Aid or assistance
 
-&emsp;Willfully aids or assists in, or procures, counsels, or advises the preparation or presentation under, or in connection with any matter arising under, the internal revenue laws, of a return, affidavit, claim, or other document, which is fraudulent or is false as to any material matter, whether or not such falsity or fraud is with the knowledge or consent of the person authorized or required to present such return, affidavit, claim, or document; or
+&emsp;Willfully aids or assists in, or procures, counsels, or advises the preparation or presentation under, or in connection with any matter arising under, the internal revenue laws, of a return, affidavit, claim, or other document, which is fraudulent or is false as to any material matter, whether or not such falsity orfraud is with the knowledge or consent of the person authorized or required to present such return, affidavit, claim, or document; or
 
 #### (3) Fraudulent bonds, permits, and entries
 
@@ -16,7 +16,7 @@ Any person who—
 
 #### (4) Removal or concealment with intent to defraud
 
-&emsp;Removes, deposits, or conceals, or is concerned in removing, depositing, or concealing, any goods or commodities for or in respectwhereof any tax is or shall be imposed, or any property upon which levy is authorized by section 6331, with intent to evade or defeat the assessment or collection of any tax imposed by this title; or
+&emsp;Removes, deposits, or conceals, or is concerned in removing, depositing, or concealing, any goods or commodities for or in respect whereof any tax is or shall be imposed, or any property upon which levy is authorized by section 6331, with intent to evade or defeat the assessment or collection of any tax imposed by this title; or
 
 #### (5) Compromises and closing agreements
 

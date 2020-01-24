@@ -1,6 +1,6 @@
 ### §103104. Recovery of costs associated with special use permits
 
-Notwithstanding any other provision of law, the Service may recover all costs of providing necessary services associated with special usepermits. The reimbursements shall be credited to the appropriation current at that time.
+Notwithstanding any other provision of law, the Service may recover all costs of providing necessary services associated with special use permits. The reimbursements shall be credited to the appropriation current at that time.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3165.)
 

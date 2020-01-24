@@ -10,6 +10,7 @@
 | [941e.](%C2%A7%2000941e%20-%20Establishment%20of%20offices.md) | Establishment of offices. |
 | [941f.](%C2%A7%2000941f%20-%20Reports.md) | Reports. |
 | [941g.](%C2%A7%2000941g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [941h.](%C2%A7%2000941h%20-%20Great%20Lakes%20monitoring%2C%20assessment%2C%20science%2C%20and%20research.md) | Great Lakes monitoring, assessment, science, and research. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,3 +27,4 @@
 - [&sect; 00941e - Establishment of offices](%C2%A7%2000941e%20-%20Establishment%20of%20offices.md)
 - [&sect; 00941f - Reports](%C2%A7%2000941f%20-%20Reports.md)
 - [&sect; 00941g - Authorization of appropriations](%C2%A7%2000941g%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00941h - Great Lakes monitoring, assessment, science, and research](%C2%A7%2000941h%20-%20Great%20Lakes%20monitoring%2C%20assessment%2C%20science%2C%20and%20research.md)

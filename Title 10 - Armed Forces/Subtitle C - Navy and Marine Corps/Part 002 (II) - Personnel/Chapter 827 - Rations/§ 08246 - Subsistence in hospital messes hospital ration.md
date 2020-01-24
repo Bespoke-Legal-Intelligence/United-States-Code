@@ -2,7 +2,7 @@
 
 (a) Enlisted members of the naval service on duty in hospitals and enlisted members of the naval service, including retired members and members of the Fleet Reserve and the Fleet Marine Corps Reserve, when sick in hospitals, may be subsisted in hospital messes. When subsistence is furnished under this subsection, the appropriation chargeable with the maintenance of the hospital mess shall be credited at the rate prescribed by the Secretary of the Navy as the value of the hospital ration.
 
-(b) Under such regulations as the Secretary prescribes, officers in the Nurse Corps may besubsisted in hospital messes. Each officer so subsisted shall pay for her subsistence at the rate fixed by the regulations.
+(b) Under such regulations as the Secretary prescribes, officers in the Nurse Corps may be subsisted in hospital messes. Each officer so subsisted shall pay for her subsistence at the rate fixed by the regulations.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 380, §6086; renumbered §8246, Pub. L. 115–232, div. A, title VIII, §807(b)(8), Aug. 13, 2018, 132 Stat. 1835.)
 

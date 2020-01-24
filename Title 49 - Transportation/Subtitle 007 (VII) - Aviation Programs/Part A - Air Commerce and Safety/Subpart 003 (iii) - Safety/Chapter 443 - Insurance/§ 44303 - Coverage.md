@@ -60,7 +60,7 @@ In this section, before clause (1), the words "persons, property, or interest" a
 
 #### Codification
 
-The text of section 201(b)(2) of Pub. L. 107–42, which was transferred and redesignated so as to appear assubsec. (b) of this section and amended by Pub. L. 107–296, was based on Pub. L. 107–42, title II, §201(b)(2), Sept. 22, 2001, 115 Stat. 235, formerly included in a note set out under section 40101 of this title.
+The text of section 201(b)(2) of Pub. L. 107–42, which was transferred and redesignated so as to appear as subsec. (b) of this section and amended by Pub. L. 107–296, was based on Pub. L. 107–42, title II, §201(b)(2), Sept. 22, 2001, 115 Stat. 235, formerly included in a note set out under section 40101 of this title.
 
 #### Amendments
 
@@ -180,5 +180,5 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Extension of Limitation of Air Carrier Liability
 
-Pub. L. 109–289, div. B, title II, §21002(b), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 48, providedthat subsec. (b) of this section would be applied by substituting "September 30, 2007" for "December 31, 2006".
+Pub. L. 109–289, div. B, title II, §21002(b), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 48, provided that subsec. (b) of this section would be applied by substituting "September 30, 2007" for "December 31, 2006".
 

@@ -104,7 +104,7 @@ Objectives.—In carrying out this paragraph, the Secretary shall carry out rese
 
 &emsp;&emsp;&emsp;(ii) to improve the safety and security of highway infrastructure;
 
-&emsp;&emsp;&emsp;(iii) to increase the reliability of lifecycle performance predictions used in infrastructure design, construction, and management;
+&emsp;&emsp;&emsp;(iii) to increase the reliability of lifecycle performance predictions used ininfrastructure design, construction, and management;
 
 &emsp;&emsp;&emsp;(iv) to improve the ability of transportation agencies to deliver projects that meet expectations for timeliness, quality, and cost;
 
@@ -398,7 +398,7 @@ Implementation.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall promote, facilitate, and carry out the program established under paragraph (1) to distribute the products, technologies, tools, methods,or other findings that result from highway research and development activities, including research and development activities carried out under this chapter.
+In general.—The Secretary shall promote, facilitate, and carry out the program established under paragraph (1) to distribute the products, technologies, tools, methods, or other findings that result from highway research and development activities, including research and development activities carried out under this chapter.
 
 &emsp;&emsp;(B)
 
@@ -496,7 +496,7 @@ Criteria.—The Secretary shall develop criteria for selection of an eligible en
 
 &emsp;&emsp;&emsp;(v) collect, disseminate, and use real-time traffic, transit, parking, and other transportation-related information to improve mobility, reduce congestion, and provide for more efficient and accessible transportation;
 
-&emsp;&emsp;&emsp;(vi) monitor transportation assets to improve infrastructure management, reducemaintenance costs, prioritize investment decisions, and ensure a state of good repair;
+&emsp;&emsp;&emsp;(vi) monitor transportation assets to improve infrastructure management, reduce maintenance costs, prioritize investment decisions, and ensure a state of good repair;
 
 &emsp;&emsp;&emsp;(vii) deliver economic benefits by reducing delays, improving system performance, and providing for the efficient and reliable movement of goods and services; or
 
@@ -652,7 +652,7 @@ Grant flexibility.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—If, by August 1 of each fiscal year, the Secretary determines that there are not enough grant applications that meet the requirements described in subparagraph (C) to carry out this section for a fiscal year, the Secretary shall transfer to the programs specified in clause (ii)—
+In general.—If, by August 1 of each fiscal year, the Secretary determines that there are not enough grant applicationsthat meet the requirements described in subparagraph (C) to carry out this section for a fiscal year, the Secretary shall transfer to the programs specified in clause (ii)—
 
 &emsp;&emsp;&emsp;&emsp;(I) any of the funds reserved for the fiscal year under subparagraph (I) that the Secretary has not yet awarded under this paragraph; and
 

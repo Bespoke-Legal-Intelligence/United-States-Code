@@ -86,7 +86,7 @@ For purposes of subsection (f), the term "representatives of the domestic indust
 
 &emsp;(3) any safeguard investigation described in subsection (d)(2) or (d)(3).
 
-(Pub. L. 93–618, title II, §224, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2513(a), Aug. 13, 1981, 95 Stat. 889; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239; Pub. L. 111–5, div. B, title I, §1811(a), Feb. 17, 2009, 123 Stat. 373; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §224, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2513(a), Aug. 13,1981, 95 Stat. 889; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239; Pub. L. 111–5, div. B, title I, §1811(a), Feb. 17, 2009, 123 Stat. 373; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
@@ -134,7 +134,7 @@ Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 22
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this sectionbe applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
+Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
 
 #### Effective Date of 1988 Amendment
 

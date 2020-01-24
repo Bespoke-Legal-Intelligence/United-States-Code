@@ -82,7 +82,7 @@ The Secretary shall make the application described in subsection (d) publicly av
 
 #### (1) Modified risk products
 
-&emsp;Except as provided in paragraph (2), the Secretary shall, with respect to an application submitted under this section, issue an order that a modified risk product may be commercially marketed only if the Secretary determines that the applicant has demonstrated that such product, as it is actually used by consumers, will—
+&emsp;Except as provided in paragraph (2), the Secretary shall, with respect to an application submitted under this section, issue an orderthat a modified risk product may be commercially marketed only if the Secretary determines that the applicant has demonstrated that such product, as it is actually used by consumers, will—
 
 &emsp;&emsp;(A) significantly reduce harm and the risk of tobacco-related disease to individual tobacco users; and
 
@@ -168,7 +168,7 @@ The Secretary shall make the application described in subsection (d) publicly av
 
 #### (B) Quantitative comparisons
 
-&emsp;&emsp;The Secretary may also require, for purposes of subparagraph (A), that the percent (or fraction) of change and identity of thereference tobacco product and a quantitative comparison of the amount of the substance claimed to be reduced shall be stated in immediate proximity to the most prominent claim.
+&emsp;&emsp;The Secretary may also require, for purposes of subparagraph (A), that the percent (or fraction) of change and identity of the reference tobacco product and a quantitative comparison of the amount of the substance claimed to be reduced shall be stated in immediate proximity to the most prominent claim.
 
 #### (3) Label disclosure
 

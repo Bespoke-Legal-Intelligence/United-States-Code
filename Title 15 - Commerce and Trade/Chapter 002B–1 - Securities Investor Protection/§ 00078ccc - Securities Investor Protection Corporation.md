@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(i) persons whose principal business, in the determination of SIPC, taking into account business of affiliated entities, is conducted outside the United States and its territories and possessions;
 
-&emsp;&emsp;&emsp;(ii) persons whose business as a broker or dealer consists exclusively of (I) the distribution of shares of registered open endinvestment companies or unit investment trusts, (II) the sale of variable annuities, (III) the business of insurance, or (IV) the business of rendering investment advisory services to one or more registered investment companies or insurance company separate accounts; and
+&emsp;&emsp;&emsp;(ii) persons whose business as a broker or dealer consists exclusively of (I) the distribution of shares of registered open end investment companies or unit investment trusts, (II) the sale of variable annuities, (III) the business of insurance, or (IV) the business of rendering investment advisory services to one or more registered investment companies or insurance company separate accounts; and
 
 &emsp;&emsp;&emsp;(iii) persons who are registered as a broker or dealer pursuant to section 78o(b)(11)(A) of this title.
 
@@ -62,7 +62,7 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 &emsp;(7) subject to the provisions of subsection (c), to elect or appoint such officers, attorneys, employees, and agents as may be required, to determine their qualifications, to define their duties, to fix their salaries, require bonds for them and fix the penalty thereof;
 
-&emsp;(8) to enter into contracts, to execute instruments, to incur liabilities, and to do any and all other acts and things as may be necessary or incidental to the conduct of its business and the exercise of all other rights and powers granted to SIPC by this chapter; and
+&emsp;(8) to enter into contracts, to execute instruments, to incur liabilities, and to do any and all other acts and things as may be necessaryor incidental to the conduct of its business and the exercise of all other rights and powers granted to SIPC by this chapter; and
 
 &emsp;(9) by bylaw, to establish its fiscal year.
 
@@ -84,7 +84,7 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 &emsp;&emsp;&emsp;(i) three such directors shall be selected from among persons who are associated with, and representative of different aspects of, the securities industry, not all of whom shall be from the same geographical area of the United States, and
 
-&emsp;&emsp;&emsp;(ii) two such directors shall be selected from the general public from among persons who are not associated with a broker or dealer or associated with a member of anational securities exchange, within the meaning of section 78c(a)(18) or section 78c(a)(21), respectively, of this title, or similarly associated with any self-regulatory organization or other securities industry group, and who have not had any such association during the two years preceding appointment.
+&emsp;&emsp;&emsp;(ii) two such directors shall be selected from the general public from among persons who are not associated with a broker or dealer or associated with a member of a national securities exchange, within the meaning of section 78c(a)(18) or section 78c(a)(21), respectively, of this title, or similarly associated with any self-regulatory organization or other securities industry group, and who have not had any such association during the two years preceding appointment.
 
 #### (3) Chairman and Vice Chairman
 
@@ -128,7 +128,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 #### (A) Filing of proposed rule changes
 
-&emsp;&emsp;The Board of Directors of SIPC shall file with the Commission, in accordance with such rules as the Commission may prescribe, a copy of any proposed rule or any proposed amendment to or repeal of any rule of SIPC (hereinafter in this subsection collectively referred to as a "proposed rule change"), accompanied by a concise general statement of the basis and purpose of such proposed rule change. The Commission shall, upon the filing of any proposed rule change, publish notice thereof, together with the terms of substance of such proposed rule change or a description of the subjects and issues involved. The Commission shall give interested persons an opportunity to submit written data, views, and arguments with respect to such proposed rule change. No proposed rule change shall take effect unless approved by the Commission or otherwise permitted in accordance with the provisions of this paragraph.
+&emsp;&emsp;The Board of Directors of SIPC shall file with the Commission, in accordance with such rules as the Commission may prescribe, a copy of any proposed rule or any proposed amendment to or repeal of any rule of SIPC (hereinafter in this subsection collectively referred to as a "proposed rule change"), accompanied by a concise general statement of the basis and purpose of such proposed rule change. The Commission shall, upon the filing of any proposed rule change, publish notice thereof, together with the terms of substance of such proposed rule change or a description of the subjects and issues involved. The Commission shall give interested persons an opportunity to submit written data, views, and arguments with respect to such proposed rule change. No proposed rule change shall take effect unless approved by the Commission or otherwise permitted inaccordance with the provisions of this paragraph.
 
 #### (B) Action by the Commission
 
@@ -180,7 +180,7 @@ Subsec. (c)(2)(C)(ii). Pub. L. 95–283, §4(a), substituted "a broker or dealer
 
 Subsec. (c)(5). Pub. L. 95–283, §4(b), substituted "Compensation" for "Compensation, etc." in heading, and in text struck out provisions relating to determinations of dollar volume of trading on exchanges.
 
-Subsec. (e). Pub. L. 95–283, §5, inserted "and rules" after "Bylaws" in heading, and in text substituted provisions relating to procedures applicable to proposed changes in the bylaws and rules of SIPC and required action by the Commission with respect to any SIPC bylaw or rule, for provisions relating to procedures applicable to adoption of initial bylaws and rules of SIPC and any alteration, supplement, repeal, or addition, effective date of any such bylaw or rule, and required action by the Commission with respect to any SIPC bylaw or rule.
+Subsec. (e). Pub. L. 95–283, §5, inserted "and rules" after "Bylaws" in heading, and in text substituted provisions relating to procedures applicable to proposed changes in the bylaws and rules of SIPC and requiredaction by the Commission with respect to any SIPC bylaw or rule, for provisions relating to procedures applicable to adoption of initial bylaws and rules of SIPC and any alteration, supplement, repeal, or addition, effective date of any such bylaw or rule, and required action by the Commission with respect to any SIPC bylaw or rule.
 
 Subsec. (f). Pub. L. 95–283, §2(b), struck out subsec. (f) which set forth qualifications for other members of SIPC.
 

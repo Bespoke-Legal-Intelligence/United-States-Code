@@ -66,7 +66,7 @@ Pub. L. 115–428, §2, Jan. 9, 2019, 132 Stat. 5509, provided that:
 
 &emsp;"(4) Lack of access to financial services that address gender-specific constraints impedes women's economic inclusion. Roughly 1,000,000,000 women around the world are currently left out of the formal financial system, which causes many women to rely on informal means of saving and borrowing that are riskier and less reliable.
 
-&emsp;"(5) Among other consequences, this lack of access hampers the success of women entrepreneurs, including women who are seeking to run or grow small and medium-sized enterprises. The International Finance Corporation has estimated that 70 percent of women-owned small and medium-sized enterprises in the formal sector are unserved or underserved in terms of access to financial services, resulting in a financing gap of $300,000,000,000 for women-owned small businesses.
+&emsp;"(5) Among other consequences, this lack of access hampers the success of women entrepreneurs, including women who are seeking to run or grow small and medium-sized enterprises. The International Finance Corporation has estimated that 70 percent of women-owned small and medium-sized enterprises in the formal sector are unserved or underserved in terms of access to financial services, resulting in a financinggap of $300,000,000,000 for women-owned small businesses.
 
 &emsp;"(6) Women's economic empowerment is inextricably linked to a myriad of other women's human rights that are essential to their ability to thrive as economic actors across the lifecycle, including—
 
@@ -94,7 +94,7 @@ Pub. L. 115–428, §2, Jan. 9, 2019, 132 Stat. 5509, provided that:
 
 &emsp;"(10) United States support for microenterprise and microfinance development programs, which seek to reduce poverty in low-income countries by giving small loans to small-scale entrepreneurs without collateral, have been a useful mechanism to help families weather economic shocks, but many microcredit borrowers largely remain in poverty.
 
-&emsp;"(11) The vast majority of microcredit borrowers are women who would like to move up the economicladder, but are held back by binding constraints that create a missing middle – large numbers of microenterprises, a handful of large firms or conglomerates, and very few small and medium-sized enterprises in between, which are critical to driving economic growth in developing countries.
+&emsp;"(11) The vast majority of microcredit borrowers are women who would like to move up the economic ladder, but are held back by binding constraints that create a missing middle – large numbers of microenterprises, a handful of large firms or conglomerates, and very few small and medium-sized enterprises in between, which are critical to driving economic growth in developing countries.
 
 &emsp;"(12) According to the World Bank, small and medium-sized enterprises create 4 out of 5 new positions in emerging markets, but approximately 50 percent of formal small and medium-sized enterprises lack access to formal credit. The financing gap is even larger when micro and informal enterprises are taken into account. Overall, approximately 70 percent of all micro, small, and medium-sized enterprises in emerging markets lack access to credit."
 

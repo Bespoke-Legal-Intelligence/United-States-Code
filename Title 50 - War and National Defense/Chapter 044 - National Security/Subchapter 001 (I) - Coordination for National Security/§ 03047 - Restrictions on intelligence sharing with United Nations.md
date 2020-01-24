@@ -4,7 +4,7 @@
 
 (1) No United States intelligence information may be provided to the United Nations or any organization affiliated with the United Nations, or to any officials or employees thereof, unless the President certifies to the appropriate committees of Congress that the Director of National Intelligence, in consultation with the Secretary of State and the Secretary of Defense, has established and implemented procedures, and has worked with the United Nations to ensure implementation of procedures, for protecting from unauthorized disclosure United States intelligence sources and methods connected to such information.
 
-(2) Paragraph (1) may be waived upon written certification by the President to the appropriate committees of Congress that providing such information to the United Nations or an organization affiliated with the United Nations, or to any officials or employees thereof, is in the national security interests of the United States.
+(2) Paragraph (1) may be waived upon written certification by the President to the appropriate committees of Congress that providing such information to the United Nations or an organization affiliated with the United Nations, or toany officials or employees thereof, is in the national security interests of the United States.
 
 #### (b) Delegation of duties
 
@@ -22,13 +22,15 @@ Nothing in this section shall be construed to—
 
 As used in this section, the term "appropriate committees of Congress" means the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate and the Committee on Foreign Relations and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(July 26, 1947, ch. 343, title I, §112, formerly §110, as added Pub. L. 104–293, title III, §308(a), Oct. 11, 1996, 110 Stat. 3466; renumbered §112, Pub. L. 105–107, title III, §303(b), Nov. 20, 1997, 111 Stat. 2252; amended Pub. L. 107–306, title VIII, §811(b)(1)(C), Nov. 27, 2002, 116 Stat. 2422; Pub. L. 108–177, title III, §§361(b), 377(a), Dec. 13, 2003, 117 Stat. 2625, 2630; Pub. L. 108–458, title I, §§1071(a)(1)(K), (L), 1072(a)(4), Dec. 17, 2004, 118 Stat. 3689, 3692; Pub. L. 111–259, title III, §347(b), Oct. 7, 2010, 124 Stat. 2698.)
+(July 26, 1947, ch. 343, title I, §112, formerly §110, as added Pub. L. 104–293, title III, §308(a), Oct. 11, 1996, 110 Stat. 3466; renumbered §112, Pub. L. 105–107, title III, §303(b), Nov. 20, 1997, 111 Stat. 2252; amended Pub. L. 107–306, title VIII, §811(b)(1)(C), Nov. 27, 2002, 116 Stat. 2422; Pub. L. 108–177, title III, §§361(b), 377(a), Dec. 13, 2003, 117 Stat. 2625, 2630; Pub. L. 108–458, title I, §§1071(a)(1)(K), (L), 1072(a)(4), Dec. 17, 2004, 118 Stat. 3689, 3692; Pub. L. 111–259, title III, §347(b), Oct. 7, 2010, 124 Stat. 2698; Pub. L. 116–92, div. E, title LXVII, §6742(b)(5), Dec. 20, 2019, 133 Stat. 2240.)
 
 #### Codification
 
 Section was formerly classified to section 404g of this title prior to editorial reclassification and renumbering as this section, and to section 404d–1 of this title prior to renumbering by Pub. L. 105–107. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c)(1). Pub. L. 116–92 substituted "section 3024(i)" for "section 3025(c)(7)".
 
 <b>2010</b>—Subsecs. (b) to (e). Pub. L. 111–259 redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows:
 
@@ -40,7 +42,7 @@ Section was formerly classified to section 404g of this title prior to editorial
 
 <b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(K), substituted "Director of National Intelligence" for "Director of Central Intelligence".
 
-Subsec. (d)(1). Pub. L. 108–458, §1072(a)(4), which directed amendment of par. (1) by substituting "section 403–1(i)" for "section 403–3(c)(6)", was executed by making the substitution for "section 403–3(c)(7)" to reflect the probable intent of Congress and the amendment by Pub. L. 108–177, §377(a). See 2003 Amendment note below.
+Subsec. (d)(1). Pub. L. 108–458, §1072(a)(4), which directed amendment of par. (1) by substituting "section 403–1(i)" for "section 403–3(c)(6)", could not be executed because the words "section 403–3(c)(6)" did not appear after the amendment by Pub. L. 108–177, §377(a). See 2003 Amendment note below.
 
 Pub. L. 108–458, §1071(a)(1)(L), substituted "Director of National Intelligence" for "Director of Central Intelligence".
 

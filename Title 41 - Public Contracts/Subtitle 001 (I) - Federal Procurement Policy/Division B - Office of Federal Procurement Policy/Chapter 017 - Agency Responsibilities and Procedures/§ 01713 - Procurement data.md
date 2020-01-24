@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Qualified hubzone small business concern.—The term "qualified HUBZone small business concern" has the meaning given that term in section 3(p) of the Small Business Act (15 U.S.C. 632(p)).
+Qualified hubzone small business concern.—The term "qualified HUBZone small business concern" has the meaning given that term in section 31(b) of the Small Business Act.
 
 &emsp;(2)
 
@@ -21,10 +21,6 @@ Small business concern owned and controlled by women.—The term "small business
 Reporting.—Each Federal agency shall report to the Office of Federal Procurement Policy the number of qualified HUBZone small business concerns, the number of small businesses owned and controlled by women, and the number of small business concerns owned and controlled by socially and economically disadvantaged individuals, by gender, that are first time recipients of contracts from the agency. The Office shall take appropriate action to ascertain, for each fiscal year, the number of those small businesses that have newly entered the Federal market.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3719; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(F)(ii), Dec. 12, 2017, 131 Stat. 1796.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(F)(ii), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, provided that, effective Jan. 1, 2020, subsection (a) of this section is amended by striking "section 3(p) of the Small Business Act (15 U.S.C. 632(p))" and inserting "section 31(b) of the Small Business Act". See 2017 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -49,6 +45,8 @@ Pub. L. 100–533, title V, §502, Oct. 25, 1988, 102 Stat. 2697; Pub. L. 105–
 In subsection (b), the words "socially and economically disadvantaged individuals" are substituted for "socially and economically disadvantaged businesses" for consistency with the term set out in subsection (a).
 
 #### References in Text
+
+Section 31(b) of the Small Business Act, referred to in subsec. (a)(1), is classified to section 657a(b) of Title 15, Commerce and Trade.
 
 Section 204 of the Women's Business Ownership Act of 1988, referred to in subsec. (a)(3), is section 204 of Pub. L. 100–533, which is set out as a note under section 637 of Title 15, Commerce and Trade.
 

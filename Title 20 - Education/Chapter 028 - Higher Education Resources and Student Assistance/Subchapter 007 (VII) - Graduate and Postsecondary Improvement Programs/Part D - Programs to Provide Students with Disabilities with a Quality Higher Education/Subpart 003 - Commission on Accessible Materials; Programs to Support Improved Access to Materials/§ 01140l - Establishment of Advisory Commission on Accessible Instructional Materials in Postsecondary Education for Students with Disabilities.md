@@ -80,7 +80,7 @@
 
 &emsp;&emsp;The Commission shall conduct a comprehensive study to—
 
-&emsp;&emsp;&emsp;(i) assess the barriers and systemic issues that may affect, and technical solutions available that may improve, the timely delivery and quality of accessible instructional materials for postsecondarystudents with print disabilities, as well as the effective use of such materials by faculty and staff; and
+&emsp;&emsp;&emsp;(i) assess the barriers and systemic issues that may affect, and technical solutions available that may improve, the timely delivery and quality of accessible instructional materials for postsecondary students with print disabilities, as well as the effective use of such materials by faculty and staff; and
 
 &emsp;&emsp;&emsp;(ii) make recommendations related to the development of a comprehensive approach to improve the opportunities for postsecondary students with print disabilities to access instructional materials in specialized formats in a timeframe comparable to the availability of instructional materials for postsecondary nondisabled students.
 

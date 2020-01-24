@@ -1,6 +1,6 @@
 ### §1151. Benefits for persons disabled by treatment or vocational rehabilitation
 
-(a) Compensation under this chapter and dependency and indemnity compensation under chapter 13 of this title shall be awarded for a qualifying additional disability or a qualifying death of a veteran in the same manner as if such additional disability or death were service-connected. For purposes of this section, a disability or death is a qualifying additional disability or qualifying death if the disability or death was not the result of the veteran's willful misconduct and—
+(a) Compensation under this chapter and dependency and indemnity compensation underchapter 13 of this title shall be awarded for a qualifying additional disability or a qualifying death of a veteran in the same manner as if such additional disability or death were service-connected. For purposes of this section, a disability or death is a qualifying additional disability or qualifying death if the disability or death was not the result of the veteran's willful misconduct and—
 
 &emsp;(1) the disability or death was caused by hospital care, medical or surgical treatment, or examination furnished the veteran under any law administered by the Secretary, either by a Department employee or in a Department facility as defined in section 1701(3)(A) of this title, and the proximate cause of the disability or death was—
 
@@ -52,7 +52,7 @@ Pub. L. 102–83, §4(a)(1), substituted "administered by the Secretary" for "ad
 
 <b>1969</b>—Pub. L. 91–24 substituted ", on or after December 1, 1962," for "hereafter" wherever appearing.
 
-<b>1962</b>—Pub. L. 87–825 provided that where an individual is awarded a judgment under section 1346(b) of title 28, enters a settlement or compromise under section 2672 or 2677 of such title by reason of a disability, aggravation, or death treated pursuant to this section as if service-connected, then no benefits shall be paid such individual for any month beginning after such judgment, settlement or compromise becomes final until the aggregate amount of benefits equals the total amount included in such judgment, settlement, or compromise, and struck out provisions which required that no benefits were to be awarded unless application was made therefor within two years after an injury or aggravation was suffered, or a death occurred.
+<b>1962</b>—Pub. L. 87–825 provided that where an individual is awarded a judgment under section 1346(b) of title 28, enters a settlement or compromise under section 2672 or 2677 of such title by reason of a disability, aggravation, or death treated pursuant to this section as if service-connected, then no benefits shall be paid such individual for any month beginning after such judgment, settlement or compromise becomes final until the aggregate amount of benefits equals the totalamount included in such judgment, settlement, or compromise, and struck out provisions which required that no benefits were to be awarded unless application was made therefor within two years after an injury or aggravation was suffered, or a death occurred.
 
 #### Effective Date of 2004 Amendment
 
@@ -66,7 +66,7 @@ Pub. L. 104–204, title IV, §422(b), (c), Sept. 26, 1996, 110 Stat. 2927, prov
 
 "(2) Section 1151 of title 38, United States Code (as amended by subsection (a)), shall govern all administrative and judicial determinations of eligibility for benefits under such section that are made with respect to claims filed on or after the effective date set forth in paragraph (1) \[Oct. 1, 1996\], including those based on original applications and applications seeking to reopen, revise, reconsider, or otherwise readjudicate on any basis claims for benefits under such section 1151 or any provision of law that is a predecessor of such section.
 
-"(c) Nothwithstanding \[sic\] subsection (b)(1), section 421(d) \[set out as a note under section 1801 of this title\], or any other provision of this Act \[see Tables for classification\], section 421 \[enacting sections 1801 to 1806 of this title, amending section 5312 of this title, and enacting provisions set out as notes under section 1801 ofthis title\] and this section \[amending this section\] shall not take effect until October 1, 1997, unless legislation other than this Act is enacted to provide for an earlier effective date."
+"(c) Nothwithstanding \[sic\] subsection (b)(1), section 421(d) \[set out as a note under section 1801 of this title\], or any other provision of this Act \[see Tables for classification\], section 421 \[enacting sections 1801 to 1806 of this title, amending section 5312 of this title, and enacting provisions set out as notes under section 1801 of this title\] and this section \[amending this section\] shall not take effect until October 1, 1997, unless legislation other than this Act is enacted to provide for an earlier effective date."
 
 #### Effective Date of 1976 Amendment
 

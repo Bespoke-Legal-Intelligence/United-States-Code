@@ -80,13 +80,13 @@ Subsec. (b). Pub. L. 100–17, §114(e)(3)(A), inserted heading.
 
 Subsec. (b)(1). Pub. L. 100–17, §114(e)(3)(B), (D), inserted heading and aligned par. (1) with par. (2) as amended.
 
-Subsec. (b)(2). Pub. L. 100–17, §114(a), amended par. (2) generally, revising and restating as subpars. (A) to (F)provisions formerly contained in an undivided paragraph.
+Subsec. (b)(2). Pub. L. 100–17, §114(a), amended par. (2) generally, revising and restating as subpars. (A) to (F) provisions formerly contained in an undivided paragraph.
 
 Subsec. (b)(3). Pub. L. 100–17, §114(c), amended par. (3) generally, revising and restating as subpars. (A) to (D) provisions formerly contained in an undivided paragraph.
 
 Subsec. (b)(4). Pub. L. 100–17, §114(e)(3)(C), (D), inserted heading and aligned par. (4) with par. (2) as amended.
 
-Subsec. (c). Pub. L. 100–17, §114(b), (e)(4), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, substituted "Subject to section 149(d) of the Federal-Aid Highway Act of 1987, such amount" for "Such amount" in par. (1), added par. (2), and aligned par. (1) with par. (2).
+Subsec. (c). Pub. L. 100–17, §114(b), (e)(4), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, substituted "Subject to section 149(d) of the Federal-Aid Highway Act of 1987, suchamount" for "Such amount" in par. (1), added par. (2), and aligned par. (1) with par. (2).
 
 Subsec. (f). Pub. L. 100–17, §115, inserted "and the Commonwealth of Puerto Rico" after "the State of Alaska".
 

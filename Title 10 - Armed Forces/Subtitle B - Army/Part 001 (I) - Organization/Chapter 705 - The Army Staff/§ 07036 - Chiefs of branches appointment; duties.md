@@ -36,7 +36,7 @@
 
 (3) The Surgeon General, acting under the authority, direction, and control of the Secretary of the Army, shall recruit, organize, train, and equip, medical personnel of the Army.
 
-(g) For each office to be filled under subsection (b), the Secretary shall select a board of five general officers, including the incumbent, if any, of the office, and at least two officers, if available, in a grade above major general who have had extensive service in the branch concerned. The Secretary shall give the board a list of the officers to be considered and shall specifythe number of officers, not less than three, to be recommended. The list shall include—
+(g) For each office to be filled under subsection (b), the Secretary shall select a board of five general officers, including the incumbent, if any, of the office, and at least two officers, if available, in a grade above major general who have had extensive service in the branch concerned. The Secretary shall give the board a list of the officers to be considered and shall specify the number of officers, not less than three, to be recommended. The list shall include—
 
 &emsp;(1) the name of each officer of the Regular Army who is appointed in, or assigned to, that branch, and whose regular grade is colonel;
 
@@ -134,7 +134,7 @@ Sections 3306 and 3307 of this title, referred to in subsec. (g), were repealed 
 
 Subsec. (b). Pub. L. 115–232, §809(a), substituted "section 7037" for "section 3037" in concluding provisions.
 
-<b>2016</b>—Subsec. (b). Pub. L. 114–328, §502(k)(2), which directed amendment of second sentence of concludingprovisions by striking ", and while so serving, has the grade of lieutenant general", was executed by striking out "and, while so serving, has the grade of lieutenant general" after "Army Medical Department" to reflect the probable intent of Congress.
+<b>2016</b>—Subsec. (b). Pub. L. 114–328, §502(k)(2), which directed amendment of second sentence of concluding provisions by striking ", and while so serving, has the grade of lieutenant general", was executed by striking out "and, while so serving, has the grade of lieutenant general" after "Army Medical Department" to reflect the probable intent of Congress.
 
 Pub. L. 114–328, §502(k)(1), struck out first sentence of concluding provisions which read as follows: "Each officer covered by the preceding sentence, except the Surgeon General, shall be appointed in the regular grade of major general."
 

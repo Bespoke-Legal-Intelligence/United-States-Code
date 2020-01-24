@@ -32,7 +32,7 @@ June 30, 1949, ch. 288, title III, §303B(a), (b), as added Pub. L. 98–369, ti
 
 #### Use of Lowest Price Technically Acceptable Source Selection Process
 
-Pub. L. 115–232, div. A, title VIII, §880, Aug. 13, 2018, 132 Stat. 1909, provided that:
+Pub. L. 115–232, div. A, title VIII, §880, Aug. 13, 2018, 132 Stat. 1909, as amended by Pub. L. 116–92, div. A, title VIII, §806(a)(2), Dec. 20, 2019, 133 Stat. 1485, provided that:
 
 "(a)
 
@@ -66,10 +66,6 @@ Avoidance of Use of Lowest Price Technically Acceptable Source Selection Criteri
 
 "(d)
 
-Report Requirement.—Not later than one year after the date of the enactment of this Act, and annually thereafter for two years, the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the number of instances in which lowest price technically acceptable source selection criteria is used for a contract exceeding $5,000,000, including an explanation of how the situations listed in subsection (b) were considered in making a determination to use lowest price technically acceptable source selection criteria.
-
-"(e)
-
 Definitions.—In this section:
 
 &emsp;"(1)
@@ -82,7 +78,7 @@ Contingency operation.—The term 'contingency operation' has the meaning given 
 
 &emsp;"(3)
 
-Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate."
+Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate."
 
 #### Congressional Statement of Purpose
 

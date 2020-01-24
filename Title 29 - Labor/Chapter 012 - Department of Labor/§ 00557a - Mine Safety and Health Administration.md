@@ -12,5 +12,5 @@ The Federal Mine Safety and Health Act of 1977, referred to in text, is Pub. L. 
 
 #### Effective Date
 
-Section effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under section 801 of Title 30, Mineral Lands and Mining.
+Section effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–164, set out as an Effective Dateof 1977 Amendment note under section 801 of Title 30, Mineral Lands and Mining.
 

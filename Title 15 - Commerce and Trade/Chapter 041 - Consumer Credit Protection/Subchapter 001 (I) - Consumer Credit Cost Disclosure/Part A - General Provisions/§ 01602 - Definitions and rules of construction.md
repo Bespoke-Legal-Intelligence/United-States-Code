@@ -70,7 +70,7 @@ In general.—The term "high-cost mortgage", and a mortgage referred to in this 
 
 &emsp;&emsp;&emsp;(i) in the case of a credit transaction secured—
 
-&emsp;&emsp;&emsp;&emsp;(I) by a first mortgage on the consumer's principal dwelling, the annual percentage rate at consummation of the transaction will exceed by more than 6.5 percentage points (8.5 percentage points, if the dwelling is personal property and the transaction is for less than $50,000) the average prime offer rate, as defined in section 1639c(b)(2)(B) of this title, for a comparable transaction; or
+&emsp;&emsp;&emsp;&emsp;(I) by a first mortgage on the consumer's principal dwelling, the annual percentage rate at consummation of the transaction will exceed by more than 6.5 percentage points (8.5 percentage points, if the dwelling is personal property and the transaction is for less than $50,000)the average prime offer rate, as defined in section 1639c(b)(2)(B) of this title, for a comparable transaction; or
 
 &emsp;&emsp;&emsp;&emsp;(II) by a subordinate or junior mortgage on the consumer's principal dwelling, the annual percentage rate at consummation of the transaction will exceed by more than 8.5 percentage points the average prime offer rate, as defined in section 1639c(b)(2)(B) of this title, for a comparable transaction;
 
@@ -272,7 +272,7 @@ Subsec. (dd)(2)(C). Pub. L. 115–174, §107(2), added subpar. (C) and struck ou
 
 Subsec. (ee). Pub. L. 115–174, §107(1), redesignated subsec. (dd) as (ee).
 
-<b>2010</b>—Pub. L. 111–203, §1100A(2), which directed substitution of "Bureau" for "Board" wherever appearing,was executed by making the substitution wherever appearing in subsecs. (g), (z), and (bb)(2)(A), (C), (4)(D), but not in subsec. (c), to reflect the probable intent of Congress.
+<b>2010</b>—Pub. L. 111–203, §1100A(2), which directed substitution of "Bureau" for "Board" wherever appearing, was executed by making the substitution wherever appearing in subsecs. (g), (z), and (bb)(2)(A), (C), (4)(D), but not in subsec. (c), to reflect the probable intent of Congress.
 
 Subsecs. (b) to (z). Pub. L. 111–203, §1100(A)(1), added subsec. (b) and redesignated former subsecs. (b) to (z) as (c) to (aa), respectively.
 
@@ -346,7 +346,7 @@ Subsecs. (x), (y). Pub. L. 96–221, §603(b), redesignated former subsecs. (s) 
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 1100A(1), (2) of Pub. L. 111–203 effective on the designated transfer date, see section1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by section 1100A(1), (2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 Amendment by sections 1401 and 1431 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 

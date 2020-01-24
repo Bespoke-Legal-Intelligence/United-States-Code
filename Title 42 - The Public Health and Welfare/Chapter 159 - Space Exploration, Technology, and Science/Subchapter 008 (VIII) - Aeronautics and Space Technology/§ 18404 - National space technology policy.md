@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President or the President's designee, in consultation with appropriate Federal agencies, shall develop a national policy to guide the space technology development programs of the United States through 2020. The policy shall include national goals for technology development and shall describe the role and responsibilities of each Federal agency that will carry out the policy. In developing the policy, the President or the President's designee shall utilize external studies that have been conducted on the state ofUnited States technology development and have suggested policies to ensure continued competitiveness.
+The President or the President's designee, in consultation with appropriate Federal agencies, shall develop a national policy to guide the space technology development programs of the United States through 2020. The policy shall include national goals for technology development and shall describe the role and responsibilities of each Federal agency that will carry out the policy. In developing the policy, the President or the President's designee shall utilize external studies that have been conducted on the state of United States technology development and have suggested policies to ensure continued competitiveness.
 
 #### (b) Content
 
@@ -14,7 +14,7 @@ The President or the President's designee, in consultation with appropriate Fede
 
 &emsp;&emsp;(C) the facilities and personnel needed to carry out the technology development program; and
 
-&emsp;&emsp;(D) the budget assumptions on which the policy is based, which for fiscal years 2011, 2012, and 2013 shall be the authorized level for NASA's technology program authorized by this chapter.
+&emsp;&emsp;(D) the budget assumptions on which the policy is based, which for fiscal years 2011,2012, and 2013 shall be the authorized level for NASA's technology program authorized by this chapter.
 
 &emsp;(2) The policy shall be based on the premise that the Federal Government has an established interest in conducting research and development programs that help preserve the role of the United States as a global leader in space technologies and their application.
 

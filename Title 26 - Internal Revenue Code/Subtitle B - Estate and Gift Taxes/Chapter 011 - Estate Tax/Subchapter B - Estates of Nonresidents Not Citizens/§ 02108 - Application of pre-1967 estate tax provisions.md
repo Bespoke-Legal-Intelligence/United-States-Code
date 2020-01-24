@@ -14,7 +14,7 @@ Whenever the President finds that—
 
 #### (b) Alleviation of more burdensome tax
 
-Whenever the President finds that the laws of any foreign country with respect to which the President has made a proclamation under subsection (a) have been modified so that the tax on the transfer of estates of decedents who were citizens of the United States and not residents of such foreign country is no longer more burdensome than the tax imposed by this subchapter on the transfer of estates of decedentswho were residents of such foreign country, he shall proclaim that the tax on the transfer of the estate of every decedent who was a resident of such foreign country at the time of his death shall, in the case of decedents dying after the date of such proclamation, be determined under this subchapter without regard to subsection (a).
+Whenever the President finds that the laws of any foreign country with respect to which the President has made a proclamation under subsection (a) have been modified so that the tax on the transfer of estates of decedents who were citizens of the United States and not residents of such foreign country is no longer more burdensome than the tax imposed by this subchapter on the transfer of estates of decedents who were residents of such foreign country, he shall proclaim that the tax on the transfer of the estate of every decedent who was a resident of such foreign country at the time of his death shall, in the case of decedents dying after the date of such proclamation, be determined under this subchapter without regard to subsection (a).
 
 #### (c) Notification of Congress required
 
@@ -38,5 +38,5 @@ Amendment by section 1902(a)(6) of Pub. L. 94–455 applicable in the case of es
 
 #### Effective Date
 
-Section applicable with respect to estates of decedents dying after Nov. 13, 1966, see section 108(i) of Pub. L. 89–809, set out as an Effective Date of 1966 Amendment note under section 2101 of this title.
+Section applicable with respect to estates of decedents dying after Nov. 13, 1966, see section 108(i) of Pub.L. 89–809, set out as an Effective Date of 1966 Amendment note under section 2101 of this title.
 

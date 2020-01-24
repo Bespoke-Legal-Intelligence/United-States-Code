@@ -36,7 +36,7 @@ Section is comprised of section 2 of Pub. L. 104–55. Subsec. (d) of section 2 
 
 Pub. L. 105–277, div. A, §101(g) \[title III, §343\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–473, provided that:
 
-"(a) None of the funds made available by this Act or subsequent Acts may be used by the Coast Guard to issue, implement, or enforce a regulation or to establish an interpretation or guideline under the Edible Oil Regulatory Reform Act (Public Law 104–55) \[see Short Title of 1995 Amendment note set out under section 2701 of this title\], or the amendments made by that Act, that does not recognize and provide for, with respect to fats, oils, and greases (as described in that Act, or the amendments made by that Act) differences in—
+"(a) None of the funds made available by this Act or subsequent Acts may be used by the Coast Guard toissue, implement, or enforce a regulation or to establish an interpretation or guideline under the Edible Oil Regulatory Reform Act (Public Law 104–55) \[see Short Title of 1995 Amendment note set out under section 2701 of this title\], or the amendments made by that Act, that does not recognize and provide for, with respect to fats, oils, and greases (as described in that Act, or the amendments made by that Act) differences in—
 
 &emsp;"(1) physical, chemical, biological and other relevant properties; and
 

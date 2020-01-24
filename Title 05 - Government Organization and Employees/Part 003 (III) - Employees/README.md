@@ -96,6 +96,7 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>91.</b>](Subpart%20H%20-%20Access%20to%20Criminal%20History%20Record%20Information/Chapter%20091%20-%20Access%20to%20Criminal%20History%20Records%20for%20National%20Security%20and%20Other%20Purposes/README.md) | <b>Access to Criminal History Records for National Security and Other Purposes</b> | <b>9101</b> |
+| [<b>92.</b>](Subpart%20H%20-%20Access%20to%20Criminal%20History%20Record%20Information/Chapter%20092%20-%20Prohibition%20on%20Criminal%20History%20Inquiries%20Prior%20to%20Conditional%20Offer/README.md) | <b>Prohibition on criminal </b><b><sup>2</sup></b> <b>history </b><b><sup>2</sup></b> <b>inquiries </b><b><sup>2</sup></b> <b>prior </b><b><sup>2</sup></b> <b>to conditional </b><b><sup>2</sup></b> <b>offer </b><b><sup>2</sup></b> | <b>9201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -104,11 +105,6 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>95.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20095%20-%20Personnel%20Flexibilities%20Relating%20to%20the%20Internal%20Revenue%20Service/README.md) | <b>Personnel flexibilities </b><b><sup>2</sup></b> <b>relating </b><b><sup>2</sup></b> <b>to the Internal Revenue Service</b> | <b>9501</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
 | [<b>96.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20096%20-%20Personnel%20Flexibilities%20Relating%20to%20Land%20Management%20Agencies/README.md) | <b>Personnel flexibilities </b><b><sup>2</sup></b> <b>relating </b><b><sup>2</sup></b> <b>to land </b><b><sup>2</sup></b> <b>management </b><b><sup>2</sup></b> <b>agencies </b><b><sup>2</sup></b> | <b>9601</b> |
 | [<b>97.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20097%20-%20Department%20of%20Homeland%20Security/README.md) | <b>Department of Homeland Security</b> | <b>9701</b> |
 | [<b>98.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20098%20-%20National%20Aeronautics%20and%20Space%20Administration/README.md) | <b>National Aeronautics and Space Administration</b> | <b>9801</b> |
@@ -127,6 +123,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title XI, §1122(c), Dec. 20, 2019, 133 Stat. 1608, added item for chapter 92.
 
 <b>2015</b>—Pub. L. 114–113, div. M, title III, §306(a)(2), Dec. 18, 2015, 129 Stat. 2916, added items for subpart J and chapter 110.
 

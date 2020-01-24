@@ -18,7 +18,7 @@
 
 #### (3) Reference
 
-&emsp;Any reference to the Assistant Secretary for Cybersecurity and Communications in anylaw, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Assistant Director for Cybersecurity.
+&emsp;Any reference to the Assistant Secretary for Cybersecurity and Communications in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Assistant Director for Cybersecurity.
 
 #### (b) Functions
 

@@ -6,7 +6,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(1) the home (including the land that appertains thereto);
 
-&emsp;(2)(A) household goods, personal effects, and an automobile, to the extent that their total value does not exceed such amount as the Commissioner of Social Security determines to be reasonable; and
+&emsp;(2)(A) household goods, personal effects, and an automobile, to the extent that their totalvalue does not exceed such amount as the Commissioner of Social Security determines to be reasonable; and
 
 &emsp;(B) the value of any burial space or agreement (including any interest accumulated thereon) representing the purchase of a burial space (subject to such limits as to size or value as the Commissioner of Social Security may by regulation prescribe) held for the purpose of providing a place for the burial of the individual, his spouse, or any other member of his immediate family;
 
@@ -44,7 +44,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(15) for the 9-month period beginning after the month in which received, any grant, scholarship, fellowship, or gift (or portion of a gift) used to pay the cost of tuition and fees at any educational (including technical or vocational education) institution;
 
-&emsp;(16) for the month of receipt and every month thereafter, any annuity paid by a State to the individual (or such spouse) on the basis of the individual's being a veteran (as defined in section 101 of title 38), and blind, disabled, or aged; and
+&emsp;(16) for the month of receipt and every month thereafter, any annuity paid by a State to the individual (or such spouse) on the basis of the individual's being a veteran (as definedin section 101 of title 38), and blind, disabled, or aged; and
 
 &emsp;(17) any amount received by such individual (or such spouse) which is excluded from income under section 1382a(b)(26) of this title (relating to compensation for participation in a clinical trial involving research and testing of treatments for a rare disease or condition).
 
@@ -144,7 +144,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 (3) If the Commissioner of Social Security finds that any part of the amount excluded under paragraph (1) was used for purposes other than those for which it was set aside in cases where the inclusion of any portion of the amount would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title, the Commissioner shall reduce any future benefits payable to the eligible individual (or to such individual and his spouse) by an amount equal to such part.
 
-(4) The Commissioner of Social Security may provide by regulations that whenever an amountset aside to meet burial and related expenses is excluded under paragraph (1) in determining the resources of an individual, any interest earned or accrued on such amount (and left to accumulate), and any appreciation in the value of prepaid burial arrangements for which such amount was set aside, shall also be excluded (to such extent and subject to such conditions or limitations as such regulations may prescribe) in determining the resources (and the income) of such individual.
+(4) The Commissioner of Social Security may provide by regulations that whenever an amount set aside to meet burial and related expenses is excluded under paragraph (1) in determining the resources of an individual, any interest earned or accrued on such amount (and left to accumulate), and any appreciation in the value of prepaid burial arrangements for which such amount was set aside, shall also be excluded (to such extent and subject to such conditions or limitations as such regulations may prescribe) in determining the resources (and the income) of such individual.
 
 #### (e) Trusts
 
@@ -374,7 +374,7 @@ Pub. L. 96–611, §5(c), Dec. 28, 1980, 94 Stat. 3568, provided that: "The amen
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–171, §9(b), Nov. 12, 1977, 91 Stat. 1356, provided that: "The amendment made by this section\[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 1, 1976, the amendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\]."
+Pub. L. 95–171, §9(b), Nov. 12, 1977, 91 Stat. 1356, provided that: "The amendment made by this section \[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 1, 1976, the amendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\]."
 
 #### Effective Date
 

@@ -48,7 +48,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §303(b), 63 Stat. 814.
 
-The words "Secretaries concerned" are substituted for the words "Secretaries of the uniformed services" to conform to other subsections of the source statute.The words "outside the United States, or in Hawaii or Alaska" are substituted for the words "outside the continental United States or in Alaska" to conform to the definition of United States in section 101(1) of this revised title and to retain the coverage of the source statute.
+The words "Secretaries concerned" are substituted for the words "Secretaries of the uniformed services" to conform to other subsections of the source statute. The words "outside the United States, or in Hawaii or Alaska" are substituted for the words "outside the continental United States or in Alaska" to conform to the definition of United States in section 101(1) of this revised title and to retain the coverage of the source statute.
 
 #### Amendments
 

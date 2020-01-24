@@ -96,7 +96,7 @@ In this section:
 
 &emsp;&emsp;(B) Federal budgetary constraints preclude any significant expansion, and may force a reduction of, current levels of technical support; and
 
-&emsp;&emsp;(C) farmers and ranchers have a history of cooperatively working together to addresscommon needs in the promotion of their products and in the drainage of wet areas through drainage districts.
+&emsp;&emsp;(C) farmers and ranchers have a history of cooperatively working together to address common needs in the promotion of their products and in the drainage of wet areas through drainage districts.
 
 #### (2) Establishment of grazing demonstration
 
@@ -158,7 +158,7 @@ Subsec. (e). Pub. L. 115–334, §2404(2), substituted "2023" for "2018".
 
 <b>2008</b>—Subsec. (e). Pub. L. 110–246, §2601, substituted "2012" for "2007".
 
-<b>2002</b>—Pub. L. 107–171 amended section catchline and text generally. Prior to amendment, section required the Secretary to establish conservation farm option pilot programs for producers of wheat, feed grains, cotton, and rice.
+<b>2002</b>—Pub. L. 107–171 amended section catchline and text generally. Prior to amendment, section requiredthe Secretary to establish conservation farm option pilot programs for producers of wheat, feed grains, cotton, and rice.
 
 #### Effective Date of 2008 Amendment
 

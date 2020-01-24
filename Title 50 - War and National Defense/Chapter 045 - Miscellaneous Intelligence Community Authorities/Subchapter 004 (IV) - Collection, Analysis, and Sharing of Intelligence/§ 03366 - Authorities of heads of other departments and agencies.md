@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, the head of any department or agency
 
 #### References in Text
 
-Subsection (a), referred to in text, is subsec. (a) of section 402 of Pub. L. 111–259, title IV, Oct. 7, 2010, 124Stat. 2708, which amended section 403–1 of this title prior to editorial reclassification and renumbering as section 3024 of this title.
+Subsection (a), referred to in text, is subsec. (a) of section 402 of Pub. L. 111–259, title IV, Oct. 7, 2010, 124 Stat. 2708, which amended section 403–1 of this title prior to editorial reclassification and renumbering as section 3024 of this title.
 
 #### Codification
 

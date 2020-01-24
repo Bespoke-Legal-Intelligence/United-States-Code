@@ -34,7 +34,7 @@ Inclusions.—The term "Indian tribe" includes an Alaska Native village, as defi
 
 &emsp;&emsp;(B) petroleum.
 
-&emsp;(8) The term "release" means any spilling, leaking, emitting, discharging, escaping, leaching, or disposing from an underground storage tank into ground water, surface water or subsurface soils.
+&emsp;(8) The term "release" means any spilling, leaking, emitting, discharging, escaping,leaching, or disposing from an underground storage tank into ground water, surface water or subsurface soils.
 
 &emsp;(9)
 

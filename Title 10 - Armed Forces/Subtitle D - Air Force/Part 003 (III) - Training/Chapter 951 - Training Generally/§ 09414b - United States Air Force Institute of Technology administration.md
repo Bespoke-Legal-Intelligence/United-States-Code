@@ -2,23 +2,23 @@
 
 (a)
 
-Commandant.—
+Director and Chancellor.—
 
 &emsp;(1)
 
-Selection.—The Commandant of the United States Air Force Institute of Technology shall be selected by the Secretary of the Air Force.
+Selection.—The Director and Chancellor of the United States Air Force Institute of Technology shall be selected by the Secretary of the Air Force.
 
 &emsp;(2)
 
-Eligibility.—The Commandant shall be one of the following:
+Eligibility.—The Director and Chancellor shall be one of the following:
 
 &emsp;&emsp;(A) An officer of the Air Force on active duty in a grade not below the grade of colonel who possesses such qualifications as the Secretary considers appropriate and is assigned or detailed to such position.
 
-&emsp;&emsp;(B) A member of the Senior Executive Service or a civilian individual, including an individual who was retired from the Air Force in a grade not below brigadier general, who has the qualifications appropriate for the position of Commandant and is selected by the Secretary as the best qualified from among candidates for the position in accordance with a process and criteria determined by the Secretary.
+&emsp;&emsp;(B) A member of the Senior Executive Service or a civilian individual, including an individual who was retired from the Air Force in a grade not below brigadier general, who has the qualifications appropriate for the position of Director and Chancellor and is selected by the Secretary as the best qualified from among candidates for the position in accordance with a process and criteria determined by the Secretary.
 
 &emsp;(3)
 
-Term for civilian commandant.—An individual selected for the position of Commandant under paragraph (2)(B) shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years.
+Term for civilian director and chancellor.—An individual selected for the position of Director and Chancellor under paragraph (2)(B) shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years.
 
 (b)
 
@@ -36,7 +36,7 @@ Term.—An individual appointed to the position of Provost and Academic Dean sha
 
 Compensation.—The individual serving as Provost and Academic Dean is entitled to such compensation for such service as the Secretary shall prescribe for purposes of this section, but not more than the rate of compensation authorized for level IV of the Executive Schedule.
 
-(Added Pub. L. 112–81, div. A, title V, §554(a), Dec. 31, 2011, 125 Stat. 1414, §9314b; renumbered §9414b, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
+(Added Pub. L. 112–81, div. A, title V, §554(a), Dec. 31, 2011, 125 Stat. 1414, §9314b; renumbered §9414b, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832; amended Pub. L. 116–92, div. A, title V, §556(a), Dec. 20, 2019, 133 Stat. 1392.)
 
 #### References in Text
 
@@ -44,7 +44,27 @@ Level IV of the Executive Schedule, referred to in subsec. (b)(3), is set out in
 
 #### Amendments
 
+<b>2019</b>—Subsec. (a). Pub. L. 116–92, §556(a)(1), (2), substituted "
+
+Director and Chancellor" for "
+
+Commandant" in heading and "Director and Chancellor" for "Commandant" wherever appearing in text.
+
+Subsec. (a)(3). Pub. L. 116–92, §556(a)(3), which directed substitution of "
+
+Director and Chancellor" for "
+
+Commandant" in heading, was executed by substituting "
+
+director and chancellor" for "
+
+commandant" to reflect the probable intent of Congress and conform the style of paragraph headings to that used in this title.
+
 <b>2018</b>—Pub. L. 115–232 renumbered section 9314b of this title as this section.
+
+#### Change of Name
+
+Pub. L. 116–92, div. A, title V, §556(c), Dec. 20, 2019, 133 Stat. 1392, provided that: "Any reference in any law, regulation, map, document, paper, or other record of the United States to the Commandant of the United States Air Force Institute of Technology shall be deemed to be a reference to the Director and Chancellor of the United States Air Force Institute of Technology."
 
 #### Effective Date of 2018 Amendment
 

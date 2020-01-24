@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (B) Qualified natural gas supply contract
 
-&emsp;&emsp;For purposes of this paragraph, the term "qualified natural gas supply contract" means any contract to acquire natural gas for resale by a utility owned by a governmental unit if the amount of gas permitted to be acquired under the contract by the utility during any year does not exceed the sum of—
+&emsp;&emsp;For purposes of this paragraph, the term "qualified natural gas supply contract" means any contract to acquire natural gas for resale by a utility owned by a governmental unit if the amount of gas permitted to be acquired under the contract by theutility during any year does not exceed the sum of—
 
 &emsp;&emsp;&emsp;(i) the annual average amount during the testing period of natural gas purchased (other than for resale) by customers of such utility who are located within the service area of such utility, and
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (G) Intentional acts
 
-&emsp;&emsp;Subparagraph (A) shall cease to apply to any issue if the utility owned by the governmental unit engages in any intentional actto render the volume of natural gas acquired by such prepayment to be in excess of the sum of—
+&emsp;&emsp;Subparagraph (A) shall cease to apply to any issue if the utility owned by the governmental unit engages in any intentional act to render the volume of natural gas acquired by such prepayment to be in excess of the sum of—
 
 &emsp;&emsp;&emsp;(i) the amount of natural gas needed (other than for resale) by customers of such utility who are located within the service area of such utility, and
 
@@ -338,7 +338,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (III) Redemption of bonds at earliest call date
 
-&emsp;&emsp;&emsp;&emsp;The requirement of this subclause is met if the amount of the available construction proceeds of the issue which is not spent for the governmental purposes of the issue as of the earliest date on which bonds may be redeemed is used to redeem bonds on such date.
+&emsp;&emsp;&emsp;&emsp;The requirement of this subclause is met if the amount of the available construction proceeds of the issue which isnot spent for the governmental purposes of the issue as of the earliest date on which bonds may be redeemed is used to redeem bonds on such date.
 
 #### (ix) Election to terminate 1½ percent penalty before end of temporary period
 
@@ -386,7 +386,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (II) Determination of construction portion of issue
 
-&emsp;&emsp;&emsp;&emsp;For purposes of clause (v), any portion of an issue which is used to refund anyissue (or portion thereof) shall be treated as a separate issue.
+&emsp;&emsp;&emsp;&emsp;For purposes of clause (v), any portion of an issue which is used to refund any issue (or portion thereof) shall be treated as a separate issue.
 
 #### (III) Coordination with rebate requirement on refunding bonds
 
@@ -470,7 +470,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (vii) Increase in exception for bonds financing public school capital expenditures
 
-&emsp;&emsp;&emsp;Each of the $5,000,000 amounts in the preceding provisions of this subparagraph shall be increased by the lesser of $10,000,000 or so much of the aggregate face amount of the bonds as are attributable to financing the construction (within the meaning of subparagraph (C)(iv)) of public school facilities.
+&emsp;&emsp;&emsp;Each of the $5,000,000 amounts in the preceding provisions of this subparagraph shall be increased by the lesser of $10,000,000 or so much of the aggregate faceamount of the bonds as are attributable to financing the construction (within the meaning of subparagraph (C)(iv)) of public school facilities.
 
 #### (5) Exemption from gross income of sum rebated
 
@@ -604,7 +604,7 @@ Subsec. (f)(4)(B)(iii)(I). Pub. L. 100–647, §1013(a)(16)(A), substituted "pro
 
 Subsec. (f)(4)(B)(iii)(III). Pub. L. 100–647, §6177(a), substituted "the earlier of the date 6 months after such date of issuance." for "the earliest of the maturity date of the issue, the date 6 months after such date of issuance,".
 
-Subsec. (f)(4)(C). Pub. L. 100–647, §1013(a)(17)(A), in heading substituted "governmental units issuing $5,000,000 or less of bonds" for "small governmental units", designated existing provision as cl. (i), inserted heading "In general", redesignated existing cls. (i) to (iv) as subcls. (I) to (IV) and realigned their margins, struck out last sentence providing that cl. (iv) not take into account any bond which is not outstanding at thetime of a later issue or which is redeemed, other than in an advance refunding, from the net proceeds of the later issue, and added cls. (ii) to (vi).
+Subsec. (f)(4)(C). Pub. L. 100–647, §1013(a)(17)(A), in heading substituted "governmental units issuing $5,000,000 or less of bonds" for "small governmental units", designated existing provision as cl. (i), inserted heading "In general", redesignated existing cls. (i) to (iv) as subcls. (I) to (IV) and realigned their margins, struck out last sentence providing that cl. (iv) not take into account any bond which is not outstanding at the time of a later issue or which is redeemed, other than in an advance refunding, from the net proceeds of the later issue, and added cls. (ii) to (vi).
 
 Subsec. (f)(4)(C)(i)(IV). Pub. L. 100–647, §1013(a)(17)(B), struck out "(and all subordinate entities thereof)" after "such unit".
 
@@ -628,7 +628,7 @@ Amendment by Pub. L. 109–58 applicable to obligations issued after Aug. 8, 200
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–16, title IV, §421(b), June 7, 2001, 115 Stat. 65, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued in calendar years beginning after December 31, 2001."
+Pub. L. 107–16, title IV, §421(b), June 7, 2001, 115 Stat. 65, provided that: "The amendment made by subsection\(a) \[amending this section\] shall apply to obligations issued in calendar years beginning after December 31, 2001."
 
 #### Effective Date of 1997 Amendment
 
@@ -686,7 +686,7 @@ Pub. L. 100–647, title VI, §6183(b), Nov. 10, 1988, 102 Stat. 3730, provided 
 
 #### Effective Date
 
-Subpart applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 ofPub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Subpart applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 #### Extension of Period To Elect To Terminate Percent Penalty for Bonds Issued Before November 5, 1990
 

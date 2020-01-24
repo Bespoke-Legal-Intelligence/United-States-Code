@@ -92,7 +92,7 @@ Commemorative Works
 
 &nbsp;
 
-Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–315, Dec. 2, 2002, 116 Stat. 2763; Pub. L. 108–7, div. F, title I, §142, Feb. 20, 2003, 117 Stat. 244; Pub. L. 111–169, §1, May 24, 2010, 124 Stat. 1192; Pub. L. 113–291, div. B, title XXX, §3094, Dec. 19, 2014, 128 Stat. 3880.
+Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–315, Dec. 2, 2002, 116 Stat. 2763; Pub. L. 108–7, div. F, title I, §142, Feb. 20, 2003, 117 Stat. 244; Pub. L. 111–169, §1, May 24, 2010, 124 Stat. 1192; Pub. L. 113–291, div. B, title XXX, §3094, Dec. 19, 2014, 128 Stat. 3880; Pub. L. 116–9, title II, §2406, Mar. 12, 2019, 133 Stat. 748.
 
 African-Americans Civil War Union Memorial.—Pub. L. 102–412, Oct. 14, 1992, 106 Stat. 2104.
 
@@ -140,7 +140,7 @@ National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L.
 
 Peace Corps Memorial.—Pub. L. 113–78, §1, Jan. 24, 2014, 128 Stat. 647.
 
-Second Division Memorial.—Act Mar. 3, 1931, ch. 451, 46 Stat. 1515; Pub. L. 115–91, div. A, title III, §352, Dec. 12, 2017, 131 Stat. 1367; Pub. L. 115–141, div. G, title I, §121(a)(1) \[S. 1460, div. B, title VII, §7130\], Mar. 23, 2018, 132 Stat. 661.
+Second Division Memorial.—Act Mar. 3, 1931, ch. 451, 46 Stat. 1515; Pub. L. 115–91, div. A, title III, §352, Dec. 12, 2017, 131 Stat. 1367; Pub. L. 115–141, div. G, title I, §121(a)(1) \[div. B, title VII, §7130\], Mar. 23, 2018, 132 Stat. 661, 1225A–3.
 
 Thomas Paine Memorial.—Pub. L. 102–407, Oct. 13, 1992, 106 Stat. 1991; Pub. L. 102–459, Oct. 23, 1992, 106 Stat. 2268; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §142\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171.
 
@@ -152,7 +152,7 @@ Victims of Communism Memorial.—Pub. L. 103–199, title IX, §905, Dec. 17, 19
 
 Vietnam Women's Memorial.—Pub. L. 100–660, Nov. 15, 1988, 102 Stat. 3922; Pub. L. 101–187, Nov. 28, 1989, 103 Stat. 1350.
 
-Women in Military Service for America Memorial.—Pub. L. 99–500, §101(h) \[title I, §117\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §117\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–590, title IX, §§901, 902, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 99–610, Nov. 6, 1986, 100 Stat. 3477; Pub. L. 103–321, §1(a)(2), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 103–337, div. B, title XXVIII, §2855, Oct. 5, 1994, 108 Stat. 3073.
+Women in Military Service for America Memorial.—Pub. L. 99–500, §101(h) \[title I, §117\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §117\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–590, title IX, §§901, 902, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 99–610, Nov. 6, 1986, 100 Stat. 3477; Pub. L. 103–321, §1(a)(2), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 103–337, div. B, title XXVIII, §2855, Oct. 5, 1994, 108 Stat. 3073; Pub. L. 116–92, div. B, title XXVIII, §2834(e)(3)(B), Dec. 20, 2019, 133 Stat. 1894.
 
 World War II Memorial.—Pub. L. 103–32, May 25, 1993, 107 Stat. 90; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–58, title VI, §652, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–117, title VI, §601(b), Nov. 30, 1999, 113 Stat. 1578; Pub. L. 107–11, May 28, 2001, 115 Stat. 19.
 

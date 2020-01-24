@@ -32,7 +32,7 @@
 
 &emsp;(15) Prosthetic devices, as determined by the Secretary of Defense to be necessary because of significant conditions resulting from trauma, congenital anomalies, or disease.
 
-&emsp;(16) Except as provided by subsection (g), a hearing aid, but only for a dependent of a member of the uniformed services on active duty and only if the dependent has a profound hearing loss, as determined under standards prescribed in regulations by the Secretary of Defense in consultation with the administering Secretaries.
+&emsp;(16) Except as provided by subsection (g), a hearing aid, but only for a dependent of amember of the uniformed services on active duty and only if the dependent has a profound hearing loss, as determined under standards prescribed in regulations by the Secretary of Defense in consultation with the administering Secretaries.
 
 &emsp;(17) Any rehabilitative therapy to improve, restore, or maintain function, or to minimize or prevent deterioration of function, of a patient when prescribed by a physician.
 
@@ -134,7 +134,7 @@
 
 &emsp;(E) such other diseases or conditions the Secretary determines appropriate.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept.30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, §701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, §702, Nov. 18, 1997, 111 Stat. 1807; Pub. L. 107–107, div. A, title VII, §§702, 703(a), 704, Dec. 28, 2001, 115 Stat. 1161, 1162; Pub. L. 108–375, div. A, title VII, §715, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 114–328, div. A, title VII, §§713, 714(a), Dec. 23, 2016, 130 Stat. 2220; Pub. L. 115–91, div. A, title VII, §739(c), Dec. 12, 2017, 131 Stat. 1447.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, §701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, §702, Nov. 18, 1997, 111 Stat. 1807; Pub. L. 107–107, div. A, title VII, §§702, 703(a), 704, Dec. 28, 2001, 115 Stat. 1161, 1162; Pub. L. 108–375, div. A, title VII, §715, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 114–328, div. A, title VII, §§713, 714(a), Dec. 23, 2016, 130 Stat. 2220; Pub. L. 115–91, div. A, title VII, §739(c), Dec. 12, 2017, 131 Stat. 1447.)
 
 Historical and Revision Notes
 
@@ -246,7 +246,7 @@ Subsec. (a)(13), (14). Pub. L. 98–525, §633(a)(2), redesignated cls. (13) and
 
 Subsec. (b)(3). Pub. L. 98–525, §1401(e)(3), added par. (3).
 
-<b>1966</b>—Pub. L. 89–614 authorized an improved health benefits program for dependents of active duty members of the uniformed services in facilities of such services, expanding health care to be provided to include: hospitalization, outpatient care, and drugs in clauses (1) to (3) of subsec. (a) (hospitalization being limited by former subsec. (b) to treatment of nervous or mental disturbances or chronic diseases or for elective medical and surgical treatment to one year period in special cases); treatment of mental and surgical conditions in clause (4) minus acute condition restriction of former subsec. (a)(2); treatment of nervous, mental, and chronic conditions in clause (5) formerly restricted as stated above; clause (6) reenactment of former subsec. (a)(3); physical, including eye, examinations in clause (7) reenacting former subsec. (a)(4) immunization provisions; clause (8) reenactment of former subsec. (a)(5); diagnostic tests and services, including laboratory and X-ray examinations (diagnosis being covered in former subsec. (a)(1)); dental care provisions in clauses (10) to (12) (provided in former subsec. (d)) as (1) emergency care to relieve pain and suffering, but not including permanent restorative work or dental prosthesis, (2) care as a necessary adjunct to medical or surgical treatment, and care outside the United States, and in remote areas inside the United States, where adequate civilian facilities are unavailable; ambulance service and home calls in clause 13 (covering former subsec. (c)(2), (3)); durable equipment on loan basis in clause\(14); and to exclude in subsec. (b)(1) (incorporating last sentence of former subsec. (b)) custodial care; subsec. (b)(2)(A) reenactment of former subsec. (e)(1); and permitted in subsec. (b)(2)(B) artificial limbs and eyes to be provided.
+<b>1966</b>—Pub. L. 89–614 authorized an improved health benefits program for dependents of active duty members of the uniformed services in facilities of such services, expanding health care to be provided to include: hospitalization, outpatient care, and drugs in clauses (1) to (3) of subsec. (a) (hospitalization being limited by former subsec. (b) to treatment of nervous or mental disturbances or chronic diseases or for elective medical and surgical treatment to one year period in special cases); treatment of mental and surgical conditions in clause (4) minus acute condition restriction of former subsec. (a)(2); treatment of nervous, mental, and chronic conditions in clause (5) formerly restricted as stated above; clause (6) reenactment of former subsec. (a)(3); physical, including eye, examinations in clause (7) reenacting former subsec. (a)(4) immunization provisions; clause (8) reenactment of former subsec. (a)(5); diagnostic tests and services, including laboratory and X-ray examinations (diagnosis being covered in former subsec. (a)(1)); dental care provisions in clauses (10) to (12) (provided in former subsec. (d)) as (1) emergency care to relieve pain and suffering, but not including permanent restorative work or dental prosthesis, (2) care as a necessary adjunct to medical or surgical treatment, and care outside the United States, and in remote areas inside the United States, where adequate civilian facilities are unavailable; ambulance service and home calls in clause 13 (covering former subsec. (c)(2), (3)); durable equipment on loan basis in clause (14); and to exclude in subsec. (b)(1) (incorporating last sentence of former subsec. (b)) custodial care; subsec. (b)(2)(A) reenactment of former subsec. (e)(1); and permitted in subsec. (b)(2)(B) artificial limbs and eyes to be provided.
 
 #### Effective Date of 2016 Amendment
 
@@ -261,6 +261,72 @@ Amendment by section 1401(e)(3) of Pub. L. 98–525 effective Oct. 1, 1985, see 
 #### Effective Date of 1966 Amendment
 
 For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
+
+#### Lead Level Screening and Testing for Children
+
+Pub. L. 116–92, div. A, title VII, §703, Dec. 20, 2019, 133 Stat. 1437, provided that:
+
+"(a)
+
+Comprehensive Screening, Testing, and Reporting Guidelines.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall establish clinical practice guidelines for health care providers employed by the Department of Defense on screening, testing, and reporting of blood lead levels in children.
+
+&emsp;"(2)
+
+Use of cdc recommendations.—Guidelines established under paragraph (1) shall reflect recommendations made by the Centers for Disease Control and Prevention with respect to the screening, testing, and reporting of blood lead levels in children.
+
+&emsp;"(3)
+
+Dissemination of guidelines.—Not later than one year after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary shall disseminate the clinical practice guidelines established under paragraph (1) to health care providers of the Department of Defense.
+
+"(b)
+
+Care Provided in Accordance With CDC Guidance.—The Secretary shall ensure that any care provided by the Department of Defense to a child for an elevated blood lead level shall be carried out in accordance with applicable guidance issued by the Centers for Disease Control and Prevention.
+
+"(c)
+
+Sharing of Results of Testing.—
+
+&emsp;"(1)
+
+In general.—With respect to a child who receives from the Department of Defense a test for an elevated blood lead level—
+
+&emsp;&emsp;"(A) the Secretary shall provide the results of the test to the parent or guardian of the child; and
+
+&emsp;&emsp;"(B) notwithstanding any requirements for the confidentiality of health information under the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) \[see Tables for classification\], if the results of the test show an abnormal blood lead level or elevated blood lead level, the Secretary shall provide those results and the address at which the child resides to—
+
+&emsp;&emsp;&emsp;"(i) the relevant health department of the State in which the child resides if the child resides in the United States; or
+
+&emsp;&emsp;&emsp;"(ii) if the child resides outside the United States—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the Centers for Disease Control and Prevention;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the appropriate authority of the country in which the child resides; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the primary provider of health care for the child for follow-up.
+
+&emsp;"(2)
+
+State defined.—In this subsection, the term 'State' means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+
+"(d)
+
+Report.—Not later than January 1, 2021, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report detailing, with respect to the period beginning on the date of the enactment of this Act and ending on the date of the report, the following:
+
+&emsp;"(1) The number of children who were tested by the Department of Defense for the level of lead in the blood of the child, and of such number, the number who were found to have an elevated blood lead level.
+
+&emsp;"(2) The number of children who were screened by the Department of Defense for an elevated risk of lead exposure.
+
+"(e)
+
+Comptroller General Report.—Not later than January 1, 2022, the Comptroller General of the United States shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the effectiveness of screening and testing for lead exposure and elevated blood lead levels under chapter 55 of title 10, United States Code.
+
+"(f)
+
+Definitions.—In this section, the terms 'abnormal blood lead level' and 'elevated blood lead level' have the meanings given those terms by the Centers for Disease Control and Prevention."
 
 #### Study, Plan, and Pilot for the Mental Health Care Needs of Dependent Children of Members of the Armed Forces
 
@@ -336,57 +402,7 @@ Reports.—
 
 #### Program for Mental Health Awareness for Dependents and Pilot Project on Post Traumatic Stress Disorder
 
-Pub. L. 109–163, div. A, title VII, §721, Jan. 6, 2006, 119 Stat. 3346, provided that:
-
-"(a)
-
-Program on Mental Health Awareness.—
-
-&emsp;"(1)
-
-Requirement.—Not later than one year after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall develop a program to improve awareness of the availability of mental health services for, and warning signs about mental health problems in, dependents of members of the Armed Forces whose sponsor served or will serve in a combat theater during the previous or next 60 days.
-
-&emsp;"(2)
-
-Matters covered.—The program developed under paragraph (1) shall be designed to—
-
-&emsp;&emsp;"(A) increase awareness of mental health services available to dependents of members of the Armed Forces on active duty;
-
-&emsp;&emsp;"(B) increase awareness of mental health services available to dependents of Reservists and National Guard members whose sponsors have been activated; and
-
-&emsp;&emsp;"(C) increase awareness of mental health issues that may arise in dependents referred to in subparagraphs (A) and (B) whose sponsor is deployed to a combat theater.
-
-&emsp;"(3)
-
-Coordination.—The Secretary may permit the Department of Defense to coordinate the program developed under paragraph (1) with an accredited college, university, hospital-based, or community-based mental health center or engage mental health professionals to develop programs to help implement this section.
-
-&emsp;"(4)
-
-Availability in other languages.—The Secretary shall evaluate whether the effectiveness of the program developed under paragraph (1) would be improved by providing materials in languages other than English and take action accordingly\[.\]
-
-&emsp;"(5)
-
-Report.—Not later than one year after implementation of the program developed under paragraph (1), the Secretary shall submit to Congress a report on the effectiveness of the program, including the extent to which the program is used by low-English-proficient individuals.
-
-"(b)
-
-Pilot Project on Post Traumatic Stress Disorder.—
-
-&emsp;"(1)
-
-Requirement.—The Secretary of Defense shall carry out a pilot project to evaluate the efficacy of various approaches to improving the capability of the military and civilian health care systems to provide early diagnosis and treatment of post traumatic stress disorder (PTSD) and other mental health conditions.
-
-&emsp;"(2)
-
-Internet-based diagnosis and treatment.—The pilot project shall be designed to evaluate—
-
-&emsp;&emsp;"(A) Internet-based automated tools available to military and civilian health care providers for the early diagnosis and treatment of post traumatic stress disorder, and for tracking patients who suffer from post traumatic stress disorder; and
-
-&emsp;&emsp;"(B) Internet-based tools available to family members of members of the Armed Forces in order to assist such family members in the identification of the emergence of post traumatic stress disorder.
-
-&emsp;"(3)
-
-Report.—Not later than June 1, 2006, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot project. The report shall include a description of the pilot project, including the location of the pilot project and the scope and objectives of the pilot project."
+Pub. L. 109–163, div. A, title VII, §721, Jan. 6, 2006, 119 Stat. 3346, directed the Secretary of Defense, no later than one year after Jan. 6, 2006, to develop a program to increase awareness of mental health services for, and warning signs about mental health problems in, dependents of service members who have served or will serve in combat theaters and directed the Secretary to carry out a pilot project to evaluate internet-based early diagnosis and treatment of post traumatic stress disorder and other mental health conditions and report to Congress no later than June 1, 2006.
 
 #### Provision of Domiciliary and Custodial Care for Certain CHAMPUS Beneficiaries
 

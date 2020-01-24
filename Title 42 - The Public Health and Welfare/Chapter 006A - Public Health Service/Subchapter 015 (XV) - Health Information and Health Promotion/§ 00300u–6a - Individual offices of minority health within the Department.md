@@ -10,7 +10,7 @@ The agencies referred to in subsection (a) are the Centers for Disease Control a
 
 #### (c) Director; appointment
 
-Each Office of Minority Health established in an agency listed in subsection (a) <sup>2</sup> shall be headed by a director, with documented experienceand expertise in minority health services research and health disparities elimination.
+Each Office of Minority Health established in an agency listed in subsection (a) <sup>2</sup> shall be headed by a director, with documented experience and expertise in minority health services research and health disparities elimination.
 
 #### (d) References
 

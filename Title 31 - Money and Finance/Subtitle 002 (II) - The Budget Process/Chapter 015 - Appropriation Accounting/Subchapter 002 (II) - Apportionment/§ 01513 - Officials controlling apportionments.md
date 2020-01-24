@@ -68,7 +68,7 @@ In subsection (b)(1), the words "(except the Commission)" are added because the 
 
 In subsection (b)(2), the words "head of the executive agency" are substituted for "agency" as being more precise and because of section 102 of the revised title.
 
-In subsection (c), the words "In addition to the apportionment required by section 665 of this title" are omitted as unnecessary because of the restatement. Thewords "By the first day" are substituted for "on or before the beginning", and the words "of the United States Government" are added, for clarity. The words "major organizational unit" are substituted for "office or bureau" for consistency in the revised section. The word "changed" is substituted for "increased or diminished" to eliminate unnecessary words.
+In subsection (c), the words "In addition to the apportionment required by section 665 of this title" are omitted as unnecessary because of the restatement. The words "By the first day" are substituted for "on or before the beginning", and the words "of the United States Government" are added, for clarity. The words "major organizational unit" are substituted for "office or bureau" for consistency in the revised section. The word "changed" is substituted for "increased or diminished" to eliminate unnecessary words.
 
 In subsection (e), the words "initiation and operation" are substituted for "initiation, operation, and administration" to eliminate unnecessary words.
 

@@ -6,7 +6,7 @@
 
 #### (A) Sediment from Federal water resources projects
 
-&emsp;&emsp;For sediment obtained through or used in the construction, operation, or maintenance of an authorized Federal water resources project, including a project authorized for flood control, the Secretary shall develop, at Federal expense, regional sediment management plans and carry out projects at locations identified in plans developed under this section, or identified jointly by the non-Federal interest and the Secretary, for use inthe construction, repair, modification, or rehabilitation of projects associated with Federal water resources projects for purposes listed in paragraph (3).
+&emsp;&emsp;For sediment obtained through or used in the construction, operation, or maintenance of an authorized Federal water resources project, including a project authorized for flood control, the Secretary shall develop, at Federal expense, regional sediment management plans and carry out projects at locations identified in plans developed under this section, or identified jointly by the non-Federal interest and the Secretary, for use in the construction, repair, modification, or rehabilitation of projects associated with Federal water resources projects for purposes listed in paragraph (3).
 
 #### (B) Sediment from other Federal sources and non-Federal sources
 
@@ -304,7 +304,7 @@ In general.—Projects carried out under this section shall be subject to the co
 
 &emsp;"(2)
 
-Additional costs.—Notwithstanding paragraph (1), if the cost of transporting and depositing dredged material for a project carried out under this section exceeds the cost of carrying out those activities pursuant to any other water resources project in accordance, if applicable, with the Federal standard (as defined in section 335.7 of title 33, Code of Federal Regulations), the Secretary may not require the non-Federal interest to bear the additional cost of such activities.
+Additional costs.—Notwithstanding paragraph (1), if the cost of transporting and depositingdredged material for a project carried out under this section exceeds the cost of carrying out those activities pursuant to any other water resources project in accordance, if applicable, with the Federal standard (as defined in section 335.7 of title 33, Code of Federal Regulations), the Secretary may not require the non-Federal interest to bear the additional cost of such activities.
 
 "(f)
 

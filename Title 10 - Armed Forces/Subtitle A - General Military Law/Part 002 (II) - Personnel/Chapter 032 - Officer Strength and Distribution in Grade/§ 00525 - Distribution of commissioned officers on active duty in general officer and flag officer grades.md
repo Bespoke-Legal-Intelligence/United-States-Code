@@ -52,7 +52,7 @@
 
 (B) The number of officers that may be serving on active duty in the grades of general and admiral by reason of appointments made under the authority of paragraph (1) may not exceed 5.
 
-(4) Upon the termination of the appointment of an officer in the grade of lieutenant general or vice admiral or general or admiral that was made in connection with an increase under paragraph (1) in the number of officers that may be serving on active duty in that armed force inthat grade, the reduction made under paragraph (2) in the number of appointments permitted in such grade in another armed force by reason of that increase shall no longer be in effect.
+(4) Upon the termination of the appointment of an officer in the grade of lieutenant general or vice admiral or general or admiral that was made in connection with an increase under paragraph (1) in the number of officers that may be serving on active duty in that armed force in that grade, the reduction made under paragraph (2) in the number of appointments permitted in such grade in another armed force by reason of that increase shall no longer be in effect.
 
 (d) An officer continuing to hold the grade of general or admiral under section 601(b)(5) of this title after relief from the position of Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, or Commandant of the Marine Corps shall not be counted for purposes of this section.
 
@@ -68,7 +68,7 @@
 
 (2) Not later than 30 days after authorizing a number of reserve component general or flag officers in excess of the number specified in paragraph (1), the Secretary of Defense shall notify the Committees on Armed Services of the Senate and the House of Representatives of such authorization, and shall include with such notice a statement of the reason for such authorization.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, §202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, §511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, §405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, §405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, §403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, §404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title IV, §§404(a), (b), 405(b), Dec. 2, 2002, 116 Stat. 2525, 2526; Pub. L. 108–136, div. A, title V, §504(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title V, §503(a), Jan. 6, 2006, 119 Stat. 3226; Pub. L. 109–364, div. A, title V, §507(b), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §§501(b), 543(d), Jan. 28, 2008, 122 Stat. 94, 115; Pub. L. 110–417, \[div. A\], title V, §§503(d), 504(b), Oct. 14, 2008, 122 Stat. 4433, 4434; Pub. L. 111–84, div. A, title V, §502(b)–(d), Oct. 28, 2009, 123 Stat. 2273–2275; Pub. L. 111–383, div. A, title X, §1075(b)(12), (d)(2), Jan. 7, 2011, 124 Stat. 4369, 4372; Pub. L. 112–81, div. A, title V, §§502(a)(1), (b)(2), 511(a)(3), Dec. 31, 2011, 125 Stat. 1386, 1387, 1391; Pub. L. 114–328, div. A, title V, §503(a), Dec. 23, 2016, 130 Stat. 2107.)
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, §202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, §511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, §405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, §405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, §403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, §404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, §1\[\[div. A\], title V, §507(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title IV, §§404(a), (b), 405(b), Dec. 2, 2002, 116 Stat. 2525, 2526; Pub. L. 108–136, div. A, title V, §504(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title V, §503(a), Jan. 6, 2006, 119 Stat. 3226; Pub. L. 109–364, div. A, title V, §507(b), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §§501(b), 543(d), Jan. 28, 2008, 122 Stat. 94, 115; Pub. L. 110–417, \[div. A\], title V, §§503(d), 504(b), Oct. 14, 2008, 122 Stat. 4433, 4434; Pub. L. 111–84, div. A, title V, §502(b)–(d), Oct. 28, 2009, 123 Stat. 2273–2275; Pub. L. 111–383, div. A, title X, §1075(b)(12), (d)(2), Jan. 7, 2011, 124 Stat. 4369, 4372; Pub. L. 112–81, div. A, title V, §§502(a)(1), (b)(2), 511(a)(3), Dec. 31, 2011, 125 Stat. 1386, 1387, 1391; Pub. L. 114–328, div. A, title V, §503(a), Dec. 23, 2016, 130 Stat. 2107.)
 
 #### Amendments
 
@@ -98,7 +98,7 @@ Subsec. (c)(1)(A). Pub. L. 111–84, §502(c)(1)(A), amended subpar. (A) general
 
 Subsec. (c)(1)(B). Pub. L. 111–84, §502(c)(1)(B), substituted "this section" for "subsection (b)(2)".
 
-Subsec. (c)(3)(A). Pub. L. 111–84, §502(c)(2), substituted "15" for "the number equal to 10 percent of the totalnumber of officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps under subsection (b)".
+Subsec. (c)(3)(A). Pub. L. 111–84, §502(c)(2), substituted "15" for "the number equal to 10 percent of the total number of officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps under subsection (b)".
 
 Subsec. (c)(3)(B). Pub. L. 111–84, §502(c)(3), as amended by Pub. L. 111–383, §1075(d)(2), substituted "5" for "the number equal to 15 percent of the total number of general officers and flag officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps".
 
@@ -198,7 +198,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §507(i)\], Oct. 30, 2000, 114 Sta
 
 "(2) An officer serving in a reserve component chief position on the date of the enactment of this Act \[Oct. 30, 2000\] may be reappointed to that position under the amendments made by subsection (a) through (e), if eligible and otherwise qualified in accordance with those amendments. If such an officer is so reappointed, the appointment may be made for the remainder of the officer's original term or for a full new term, as specified at the time of the appointment.
 
-"(3) An officer serving on the date of the enactment of this Act \[Oct. 30, 2000\] in a reserve component chief position may continue to serve in that position in accordance with the provisions of law in effect immediately before the amendments made by this section\[amending this section and sections 3038, 5143, 5144, 8038, and 10506 of this title and repealing section 12505 of this title\] until a successor is appointed under paragraph (1) (or that officer is reappointed under paragraph (1)).
+"(3) An officer serving on the date of the enactment of this Act \[Oct. 30, 2000\] in a reserve component chief position may continue to serve in that position in accordance with the provisions of law in effect immediately before the amendments made by this section \[amending this section and sections 3038, 5143, 5144, 8038, and 10506 of this title and repealing section 12505 of this title\] until a successor is appointed under paragraph (1) (or that officer is reappointed under paragraph (1)).
 
 "(4) The amendments made by subsection (g) \[amending this section\] shall be implemented so that each increase authorized by those amendments in the number of officers in the grades of lieutenant general and vice admiral is implemented on a case-by-case basis with an initial appointment made after the date of the enactment of this Act \[Oct. 30, 2000\], as specified in paragraph (1), to a reserve component chief position.
 
@@ -211,6 +211,44 @@ Pub. L. 100–180, div. A, title V, §511(b), Dec. 4, 1987, 101 Stat. 1088, prov
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Availability on the Internet of Certain Information About Officers Serving in General or Flag Officer Grades
+
+Pub. L. 116–92, div. A, title V, §510A, Dec. 20, 2019, 133 Stat. 1347, provided that:
+
+"(a)
+
+Availability Required.—
+
+&emsp;"(1)
+
+In general.—The Secretary of each military department shall make available on an internet website of such department available to the public information specified in paragraph (2) on each officer in a general or flag officer grade under the jurisdiction of such Secretary, including any such officer on the reserve active-status list.
+
+&emsp;"(2)
+
+Information.—The information on an officer specified by this paragraph to be made available pursuant to paragraph (1) is the information as follows:
+
+&emsp;&emsp;"(A) The officer's name.
+
+&emsp;&emsp;"(B) The officer's current grade, duty position, command or organization, and location of assignment.
+
+&emsp;&emsp;"(C) A summary list of the officer's past duty assignments while serving in a general or flag officer grade.
+
+"(b)
+
+Additional Public Notice on Certain Officers.—Whenever an officer in a grade of O–7 or above is assigned to a new billet or reassigned from a current billet, the Secretary of the military department having jurisdiction of such officer shall make available on an internet website of such department available to the public a notice of such assignment or reassignment.
+
+"(c)
+
+Limitation on Withholding of Certain Information or Notice.—
+
+&emsp;"(1)
+
+Limitation.—The Secretary of a military department may not withhold the information or noticespecified in subsections (a) and (b) from public availability pursuant to subsection (a), unless and until the Secretary notifies the Committees on Armed Services of the Senate and House of Representatives in writing of the information or notice that will be so withheld, together with justification for withholding the information or notice from public availability.
+
+&emsp;"(2)
+
+Limited duration of withholding.—The Secretary concerned may withhold from the public under paragraph (1) information or notice on an officer only on the basis of individual risk or national security, and may continue to withhold such information or notice only for so long as the basis for withholding remains in force."
 
 #### Reduction in Number of General and Flag Officers on Active Duty and Authorized Strength After December 31, 2022, of Such General and Flag Officers
 
@@ -380,7 +418,7 @@ Pub. L. 107–314, div. A, title IV, §404(c), Dec. 2, 2002, 116 Stat. 2525, pro
 
 &emsp;"(A) Revision of the limitations on general and flag officer grade authorizations and distribution in grade prescribed by sections 525, 526, and 12004 of title 10, United States Code.
 
-&emsp;"(B) Statutory designation of the positions and grades of any additional general and flag officers in the commands specified in chapter 1006 of title 10,United States Code, and the reserve component offices specified in sections 3038, 5143, 5144, and 8038 \[now 7038, 8083, 8084, and 9038\] of such title.
+&emsp;"(B) Statutory designation of the positions and grades of any additional general and flag officers in the commands specified in chapter 1006 of title 10, United States Code, and the reserve component offices specified in sections 3038, 5143, 5144, and 8038 \[now 7038, 8083, 8084, and 9038\] of such title.
 
 "(2) The provisions of subsection (b) through (e) of section 1213 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2694) shall apply to the report under paragraph (1) in the same manner as they applied to the report required by subsection (a) of that section."
 

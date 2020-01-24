@@ -6,7 +6,7 @@ Section 1461 of this title, section 1461–1 of this title, and section 1461–1
 
 #### (b) Application to functions transferred to Department of State
 
-Section 1461 of this title, section 1461–1 of this title, and section 1461–1a of this title shall apply only to public diplomacy programs of the Director of the United States Information Agency as carried out prior to any transfer of functions pursuant to this chapter to the same extent that such programs were covered by these provisions prior to such transfer.
+Section 1461 of this title, section 1461–1 of this title, and section 1461–1a of this title shall apply only to public diplomacy programs of the Director of the United States Information Agency ascarried out prior to any transfer of functions pursuant to this chapter to the same extent that such programs were covered by these provisions prior to such transfer.
 
 #### (c) Limitation on use of funds
 
@@ -32,7 +32,7 @@ The Department of State's Congressional Presentation Document for fiscal year 20
 
 &emsp;(1) the aggregated amounts that the Department will spend on such public diplomacy programs and on costs of personnel for such programs, and a detailed description of the goals and purposes for which such funds shall be expended; and
 
-&emsp;(2) the amount of funds allocated to and the positions authorized for such public diplomacyprograms, including bureaus to be created upon the transfer of functions from USIA to the Department.
+&emsp;(2) the amount of funds allocated to and the positions authorized for such public diplomacy programs, including bureaus to be created upon the transfer of functions from USIA to the Department.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XIII, §1333, Oct. 21, 1998, 112 Stat. 2681–785; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–434.)
 

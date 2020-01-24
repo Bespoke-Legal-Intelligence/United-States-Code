@@ -128,7 +128,7 @@ Bird-Detecting Radar Systems.—The Administrator of the Federal Aviation Admini
 
 &emsp;(2) within 180 days after such research is concluded, issue a final report on the use of avian radar systems in the national airspace system.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222; Pub. L. 106–181, title I,§127, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(2), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§145, 149(b), 159(c), Dec. 12, 2003, 117 Stat. 2504, 2505, 2511; Pub. L. 109–115, div. A, title I, §176(b), Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title I, §§111(c)(2)(A)(ii), 138, Feb. 14, 2012, 126 Stat. 18, 25; Pub. L. 115–254, div. B, title I, §184(b), title V, §539(n), Oct. 5, 2018, 132 Stat. 3234, 3371.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222; Pub. L. 106–181, title I, §127, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(2), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§145, 149(b), 159(c), Dec. 12, 2003, 117 Stat. 2504, 2505, 2511; Pub. L. 109–115, div. A, title I, §176(b), Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title I, §§111(c)(2)(A)(ii), 138, Feb. 14, 2012, 126 Stat. 18, 25; Pub. L. 115–254, div. B, title I, §184(b), title V, §539(n), Oct. 5, 2018, 132 Stat. 3234, 3371.)
 
 Historical and Revision Notes
 
@@ -263,7 +263,7 @@ Subsec. (g). Pub. L. 104–264, §144(b), added subsec. (g).
 
 &emsp;"(A) after the grant agreement is executed and is for airport development or airport planning carried out after the grant agreement is executed; or
 
-&emsp;"(B) after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatibility program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements;".
+&emsp;"(B) after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatibility program (including project formulation costs) and isconsistent with all applicable statutory and administrative requirements;".
 
 Subsec. (e)(6). Pub. L. 103–305 added par. (6).
 
@@ -305,7 +305,7 @@ Pub. L. 108–7, div. I, title III, §367, Feb. 20, 2003, 117 Stat. 423, provide
 
 #### Letters of Intent; Duration of Authority and Approval by Congress
 
-Pub. L. 102–388, title III, §320, Oct. 6, 1992, 106 Stat. 1546, provided that: "The authority conferred by section 513(d) of the Airport and Airway Improvement Act of 1982, as amended \[see subsec. (e) of this section\], to issue letters of intent shall remain in effect subsequent to September 30, 1992. Letters of intent may be issued under such subsection to applicants determined to be qualified under such Act \[substantially repealed byPub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by first section thereof as this subchapter\]: <i>Provided</i>, That, notwithstanding any other provision of law, all such letters of intent in excess of $10,000,000 shall be submitted for approval to the Committees on Appropriations of the Senate and the House of Representatives; the Committee on Commerce, Science, and Transportation of the Senate; and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives." Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 102–388, title III, §320, Oct. 6, 1992, 106 Stat. 1546, provided that: "The authority conferred by section 513(d) of the Airport and Airway Improvement Act of 1982, as amended \[see subsec. (e) of this section\], to issue letters of intent shall remain in effect subsequent to September 30, 1992. Letters of intent may be issued under such subsection to applicants determined to be qualified under such Act \[substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by first section thereof as this subchapter\]: <i>Provided</i>, That, notwithstanding any other provision of law, all such letters of intent in excess of $10,000,000 shall be submitted for approval to the Committees on Appropriations of the Senate and the House of Representatives; the Committee on Commerce, Science, and Transportation of the Senate; and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives." Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 102–143, title III, §320, Oct. 28, 1991, 105 Stat. 942.
 

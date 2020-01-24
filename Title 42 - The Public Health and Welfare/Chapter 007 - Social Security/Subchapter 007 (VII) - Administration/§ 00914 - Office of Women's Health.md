@@ -14,7 +14,7 @@ The Director of the Office shall—
 
 &emsp;(3) identify projects in women's health that should be conducted or supported by the bureaus of the Administration;
 
-&emsp;(4) consult with health professionals, nongovernmental organizations, consumer organizations, women's health professionals, and other individuals and groups, as appropriate,on Administration policy with regard to women; and
+&emsp;(4) consult with health professionals, nongovernmental organizations, consumer organizations, women's health professionals, and other individuals and groups, as appropriate, on Administration policy with regard to women; and
 
 &emsp;(5) serve as a member of the Department of Health and Human Services Coordinating Committee on Women's Health (established under section 237a(b)(4) of this title).
 

@@ -26,7 +26,7 @@ Use of Personnel Performing Full-Time National Guard Duty.—(1) Under regulatio
 
 &emsp;(iii) The performance of the activities will not result in a significant increase in the cost of training.
 
-&emsp;(iv) In the case of drug interdiction and counter-drug activities performed by a unit organized to serve as a unit, the activities will support valid unit training requirements.
+&emsp;(iv) In the case of drug interdiction and counter-drug activities performed by a unitorganized to serve as a unit, the activities will support valid unit training requirements.
 
 (3) A unit or member of the National Guard of a State may be used, pursuant to a State drug interdiction and counter-drug activities plan approved by the Secretary of Defense under this section, to provide services or other assistance (other than air transportation) to an organization eligible to receive services under section 508 of this title if—
 

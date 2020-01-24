@@ -10,5 +10,5 @@ Within the boundaries of the seashore, the Secretary may acquire lands, waters, 
 
 #### Additions to Seashore
 
-Pub. L. 100–564, §§1, 3, Oct. 31, 1988, 102 Stat. 2831, authorized and directed the Secretary of the Interior to acquire certain lands depicted on a map entitled "Additions to Canaveral National Seashore", required the Secretary to file the map with certain Congressional committees, and authorized appropriations necessary to carry out such acquisitions.
+Pub. L. 100–564, §§1, 3, Oct. 31, 1988, 102 Stat. 2831, authorized and directed the Secretary of the Interior toacquire certain lands depicted on a map entitled "Additions to Canaveral National Seashore", required the Secretary to file the map with certain Congressional committees, and authorized appropriations necessary to carry out such acquisitions.
 

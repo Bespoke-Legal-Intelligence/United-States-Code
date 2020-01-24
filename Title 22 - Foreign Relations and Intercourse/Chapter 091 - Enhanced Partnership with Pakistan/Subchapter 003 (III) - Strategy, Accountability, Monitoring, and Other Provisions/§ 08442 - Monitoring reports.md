@@ -42,7 +42,7 @@ Not later than 180 days after the submission of the Pakistan Assistance Strategy
 
 &emsp;(12) a detailed description of Pakistan's efforts to prevent proliferation of nuclear-related material and expertise;
 
-&emsp;(13) an assessment of whether assistance provided to Pakistan has directly or indirectly aided the expansion of Pakistan's nuclearweapons program, whether by the diversion of United States assistance or the reallocation of Pakistan's financial resources that would otherwise be spent for programs and activities unrelated to its nuclear weapons program;
+&emsp;(13) an assessment of whether assistance provided to Pakistan has directly or indirectly aided the expansion of Pakistan's nuclear weapons program, whether by the diversion of United States assistance or the reallocation of Pakistan's financial resources that would otherwise be spent for programs and activities unrelated to its nuclear weapons program;
 
 &emsp;(14) a detailed description of the extent to which funds obligated and expended pursuant to section 8422(b) of this title meet the requirements of such section; and
 

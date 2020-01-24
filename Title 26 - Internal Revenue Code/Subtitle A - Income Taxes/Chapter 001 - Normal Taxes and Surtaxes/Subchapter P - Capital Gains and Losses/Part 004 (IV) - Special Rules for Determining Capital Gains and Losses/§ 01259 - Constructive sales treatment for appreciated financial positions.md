@@ -168,7 +168,7 @@ Subsec. (d)(1). Pub. L. 105–206, §6010(a)(2), inserted "(including cash)" aft
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
+Amendment by Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997,Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
 
 #### Effective Date of 1998 Amendment
 

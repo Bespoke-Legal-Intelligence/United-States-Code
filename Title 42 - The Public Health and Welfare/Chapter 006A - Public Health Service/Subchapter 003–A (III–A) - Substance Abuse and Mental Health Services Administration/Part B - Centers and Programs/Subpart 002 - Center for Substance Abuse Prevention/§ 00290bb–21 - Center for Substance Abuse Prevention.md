@@ -8,7 +8,7 @@ There is established in the Administration a Center for Substance Abuse Preventi
 
 The Director of the Prevention Center shall—
 
-&emsp;(1) sponsor regional workshops on the prevention of drug and alcohol abuse through thereduction of risk and the promotion of resiliency;
+&emsp;(1) sponsor regional workshops on the prevention of drug and alcohol abuse through the reduction of risk and the promotion of resiliency;
 
 &emsp;(2) coordinate the findings of research sponsored by agencies of the Service on the prevention of drug and alcohol abuse;
 
@@ -18,7 +18,7 @@ The Director of the Prevention Center shall—
 
 &emsp;(5) in cooperation with the Secretary of Education, assure the widespread dissemination of prevention materials among States, political subdivisions, and school systems;
 
-&emsp;(6) support clinical training programs for health professionals who provide substance use and misuse prevention and treatment services and other health professionals involved in illicit drug use education and prevention;
+&emsp;(6) support clinical training programs for health professionals who provide substanceuse and misuse prevention and treatment services and other health professionals involved in illicit drug use education and prevention;
 
 &emsp;(7) in cooperation with the Director of the Centers for Disease Control and Prevention, develop and disseminate educational materials to increase awareness for individuals at greatest risk for substance use disorders to prevent the transmission of communicable diseases, such as HIV, hepatitis, tuberculosis, and other communicable diseases;
 
@@ -74,7 +74,7 @@ Subsec. (b)(1). Pub. L. 114–255, §6007(b)(3)(A), inserted "through the reduct
 
 Subsec. (b)(3). Pub. L. 114–255, §6007(b)(3)(C), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(4). Pub. L. 114–255, §6007(b)(3)(B), (D), redesignated par. (3) as (4) and substituted "educational information on the effects of drugs abused by individuals, including drugs that are emerging as abused drugs" for "literature on the adverse effects of cocainefree base (known as 'crack')". Former par. (4) redesignated (5).
+Subsec. (b)(4). Pub. L. 114–255, §6007(b)(3)(B), (D), redesignated par. (3) as (4) and substituted "educational information on the effects of drugs abused by individuals, including drugs that are emerging as abused drugs" for "literature on the adverse effects of cocaine free base (known as 'crack')". Former par. (4) redesignated (5).
 
 Subsec. (b)(5). Pub. L. 114–255, §6007(b)(3)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 

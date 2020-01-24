@@ -16,7 +16,7 @@
 
 (b) Whoever, otherwise than as provided by law for the proper discharge of official duties, directly or indirectly—
 
-&emsp;(1) demands, seeks, receives, accepts, or agrees to receive or accept any compensation for any representational services, as agent or attorney or otherwise, rendered or to be rendered either personally or by another, at a time when such person is an officer or employee of the District of Columbia, in relation to any proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest,or other particular matter in which the District of Columbia is a party or has a direct and substantial interest, before any department, agency, court, officer, or commission; or
+&emsp;(1) demands, seeks, receives, accepts, or agrees to receive or accept any compensation for any representational services, as agent or attorney or otherwise, rendered or to be rendered either personally or by another, at a time when such person is an officer or employee of the District of Columbia, in relation to any proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter in which the District of Columbia is a party or has a direct and substantial interest, before any department, agency, court, officer, or commission; or
 
 &emsp;(2) knowingly gives, promises, or offers any compensation for any such representational services rendered or to be rendered at a time when the person to whom the compensation is given, promised, or offered, is or was an officer or employee of the District of Columbia;
 
@@ -80,7 +80,7 @@ Subsec. (a)(1). Pub. L. 99–646, §47(a)(1), substituted "(1) demands, seeks, r
 
 Subsec. (a)(2). Pub. L. 99–646, §47(a)(2), redesignated former subsec. (b) as par. (2) and substituted "knowingly gives" for "Whoever, knowingly, otherwise than as provided by law for the proper discharge of official duties, directly or indirectly gives" and "employee;" for "employee—".
 
-Subsecs. (b), (c). Pub. L. 99–646, §47(a)(3), (4), redesignated former subsec. (c) as (b) and substituted "parties—" for "parties", "such employee" for "he","otherwise; or" for "otherwise, or", and "in which such employee is serving except that paragraph (2) of this subsection" for "in which he is serving: <i>Provided</i>, That clause (2)". Former subsec. (b) redesignated (a)(2).
+Subsecs. (b), (c). Pub. L. 99–646, §47(a)(3), (4), redesignated former subsec. (c) as (b) and substituted "parties—" for "parties", "such employee" for "he", "otherwise; or" for "otherwise, or", and "in which such employee is serving except that paragraph (2) of this subsection" for "in which he is serving: <i>Provided</i>, That clause (2)". Former subsec. (b) redesignated (a)(2).
 
 <b>1970</b>—Subsec. (a)(1). Pub. L. 91–405, §204(d)(2), included references to Delegate from District of Columbia and Delegate Elect from District of Columbia.
 

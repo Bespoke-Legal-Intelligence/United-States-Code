@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In the case of a controlled foreign corporation (as defined in section 957) which for thetaxable year is an export trade corporation, the subpart F income (determined without regard to this subpart) of such corporation for such year shall be reduced by an amount equal to so much of the export trade income (as defined in section 971(b)) of such corporation for such year as constitutes foreign base company income (as defined in section 954), but only to the extent that such amount does not exceed whichever of the following amounts is the lesser:
+&emsp;In the case of a controlled foreign corporation (as defined in section 957) which for the taxable year is an export trade corporation, the subpart F income (determined without regard to this subpart) of such corporation for such year shall be reduced by an amount equal to so much of the export trade income (as defined in section 971(b)) of such corporation for such year as constitutes foreign base company income (as defined in section 954), but only to the extent that such amount does not exceed whichever of the following amounts is the lesser:
 
 &emsp;&emsp;(A) an amount equal to 1½ times so much of the export promotion expenses (as defined in section 971(d)) of such corporation for such year as is properly allocable to the export trade income which constitutes foreign base company income of such corporation for such year, or
 
@@ -104,7 +104,7 @@ In general.—If a corporation (hereinafter in this section called 'parent') own
 
 &emsp;"(2)
 
-Definition of untaxed subpart f income.—For purposes of this section, the term 'untaxed subpart F income' means with respect to an export trade corporation the amount by which—
+Definition of untaxed subpart f income.—For purposes of this section, the term 'untaxed subpart Fincome' means with respect to an export trade corporation the amount by which—
 
 &emsp;&emsp;"(A) the sum of the amount by which the subpart F income of such corporation was reduced for the taxable year and all prior taxable years under section 970(a) and the amounts not included in subpart F income (determined without regard to subpart G of subchapter N of chapter 1) for all prior taxable years by reason of the application of section 972, exceeds
 

@@ -24,7 +24,7 @@ The filing of an application for rehearing under subsection (a) shall not, unles
 
 #### (3) Court action
 
-&emsp;If the Court finds that such order or action is inconsistent with the Federal law governing such permit and would prevent the construction, expansion, or operation of the facility subject to section 717b of this title or section717f of this title, the Court shall remand the proceeding to the agency to take appropriate action consistent with the order of the Court. If the Court remands the order or action to the Federal or State agency, the Court shall set a reasonable schedule and deadline for the agency to act on remand.
+&emsp;If the Court finds that such order or action is inconsistent with the Federal law governing such permit and would prevent the construction, expansion, or operation of the facility subject to section 717b of this title or section 717f of this title, the Court shall remand the proceeding to the agency to take appropriate action consistent with the order of the Court. If the Court remands the order or action to the Federal or State agency, the Court shall set a reasonable schedule and deadline for the agency to act on remand.
 
 #### (4) Commission action
 

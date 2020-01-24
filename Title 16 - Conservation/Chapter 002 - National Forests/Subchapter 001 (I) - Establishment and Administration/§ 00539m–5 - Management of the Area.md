@@ -50,7 +50,7 @@
 
 #### (B) Court challenge
 
-&emsp;&emsp;Any person may bring a civil action in the United States District Court for the District of New Mexico to challenge a determination by the Secretary concerning whether a use constitutes a new use or a modified use.
+&emsp;&emsp;Any person may bring a civil action in the United States District Court for the District of New Mexico to challenge a determinationby the Secretary concerning whether a use constitutes a new use or a modified use.
 
 #### (b) Emergencies and emergency closure orders
 

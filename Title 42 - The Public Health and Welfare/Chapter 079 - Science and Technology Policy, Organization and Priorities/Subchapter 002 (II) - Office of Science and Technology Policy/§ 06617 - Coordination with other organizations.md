@@ -14,7 +14,7 @@ In exercising his functions under this chapter, the Director shall—
 
 #### (b) Information from Executive departments, agencies, and instrumentalities
 
-Each department, agency, and instrumentality of the Executive Branch of the Government, including any independent agency, is authorized to furnish the Director such information as the Director deems necessary to carry out his functions under this chapter.
+Each department, agency, and instrumentality of the Executive Branch of the Government, including any independent agency, is authorizedto furnish the Director such information as the Director deems necessary to carry out his functions under this chapter.
 
 #### (c) Assistance from Administrator of National Aeronautics and Space Administration
 

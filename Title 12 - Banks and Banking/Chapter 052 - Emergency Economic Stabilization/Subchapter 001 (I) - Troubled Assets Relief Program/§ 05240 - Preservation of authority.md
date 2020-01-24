@@ -1,6 +1,6 @@
 ### §5240. Preservation of authority
 
-With the exception of section 5236 of this title, nothing in this chapter may be construed tolimit the authority of the Secretary or the Board under any other provision of law.
+With the exception of section 5236 of this title, nothing in this chapter may be construed to limit the authority of the Secretary or the Board under any other provision of law.
 
 (Pub. L. 110–343, div. A, title I, §135, Oct. 3, 2008, 122 Stat. 3799.)
 

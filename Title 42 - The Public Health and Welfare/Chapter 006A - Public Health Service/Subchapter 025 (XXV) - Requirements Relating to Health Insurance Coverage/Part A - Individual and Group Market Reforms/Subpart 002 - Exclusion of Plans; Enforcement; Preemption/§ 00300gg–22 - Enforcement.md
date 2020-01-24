@@ -74,7 +74,7 @@
 
 #### (i) Filing of action for review
 
-&emsp;&emsp;&emsp;Any entity against whom an order imposing a civil money penalty has been entered after an agency hearing under this paragraph may obtain review by the United States district court for any district in which such entity is located or the United States District Court for the District of Columbia by filing a notice of appeal in such court within 30 days from the date of such order, and simultaneouslysending a copy of such notice by registered mail to the Secretary.
+&emsp;&emsp;&emsp;Any entity against whom an order imposing a civil money penalty has been entered after an agency hearing under this paragraph may obtain review by the United States district court for any district in which such entity is located or the United States District Court for the District of Columbia by filing a notice of appeal in such court within 30 days from the date of such order, and simultaneously sending a copy of such notice by registered mail to the Secretary.
 
 #### (ii) Certification of administrative record
 
@@ -100,7 +100,7 @@
 
 #### (G) Payment of penalties
 
-&emsp;&emsp;Except as otherwise provided, penalties collected under this paragraph shall be paid to the Secretary (or other officer) imposing the penalty and shall be available without appropriation and until expended for the purpose of enforcing the provisions with respect to which the penalty was imposed.
+&emsp;&emsp;Except as otherwise provided, penalties collected under this paragraph shall be paidto the Secretary (or other officer) imposing the penalty and shall be available without appropriation and until expended for the purpose of enforcing the provisions with respect to which the penalty was imposed.
 
 #### (3) Enforcement authority relating to genetic discrimination
 

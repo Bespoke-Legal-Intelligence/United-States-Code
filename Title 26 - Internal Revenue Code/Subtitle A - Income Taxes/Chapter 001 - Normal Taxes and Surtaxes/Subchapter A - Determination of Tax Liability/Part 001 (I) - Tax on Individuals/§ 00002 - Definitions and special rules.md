@@ -22,7 +22,7 @@
 
 #### (3) Special rule where deceased spouse was in missing status
 
-&emsp;If an individual was in a missing status (within the meaning of section 6013(f)(3)) as a result of service in a combat zone (as determined for purposes of section 112) and if such individual remains in such status until the date referred to in subparagraph (A) or (B), then, for purposes of paragraph (1)(A), the date on which such individual died shall be treated as the earlier of the date determined under subparagraph (A) or the date determined under subparagraph (B):
+&emsp;If an individual was in a missing status (within the meaning of section 6013(f)(3)) as a result of service in a combat zone (as determined for purposes of section 112) and if such individual remains in such status until the date referred to in subparagraph (A) or (B), then, for purposes of paragraph (1)(A), the dateon which such individual died shall be treated as the earlier of the date determined under subparagraph (A) or the date determined under subparagraph (B):
 
 &emsp;&emsp;(A) the date on which the determination is made under section 556 of title 37 of the United States Code or under section 5566 of title 5 of such Code (whichever is applicable) that such individual died while in such missing status, or
 
@@ -106,7 +106,7 @@ Subsec. (b)(3)(B)(i), (ii). Pub. L. 108–311, §202(b)(2), amended cls. (i) and
 
 &emsp;"(i) December 31, 1982, in the case of service in the combat zone designated for purposes of the Vietnam conflict, or
 
-&emsp;"(ii) 2 years after the date designated under section 112 as the date of termination of combatant activities in that zone, in the case of any combat zone other than that referred to in clause (i)."
+&emsp;"(ii) 2 years after the date designated under section 112 as the date of termination of combatant activitiesin that zone, in the case of any combat zone other than that referred to in clause (i)."
 
 Subsec. (c). Pub. L. 99–514, §1301(j)(10), substituted "section 7703(b)" for "section 143(b)".
 

@@ -98,7 +98,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;(B) Any amounts that would be eligible for exclusion under section 1382b(a)(7) of title 42.
 
-&emsp;&emsp;(C) Any amounts received by any member of the family as disability compensationunder chapter 11 of title 38 or dependency and indemnity compensation under chapter 13 of such title.
+&emsp;&emsp;(C) Any amounts received by any member of the family as disability compensation under chapter 11 of title 38 or dependency and indemnity compensation under chapter 13 of such title.
 
 #### (10) Indian
 
@@ -142,7 +142,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (14) Low-income family
 
-&emsp;The term "low-income family" means a family whose income does not exceed 80 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may, for purposes of this paragraph, establish income ceilings higher or lower than 80 percent of the median for the area on the basis of the findings of the Secretary or the agency that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes.
+&emsp;The term "low-income family" means a family whose income does not exceed 80 percent ofthe median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may, for purposes of this paragraph, establish income ceilings higher or lower than 80 percent of the median for the area on the basis of the findings of the Secretary or the agency that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes.
 
 #### (15) Median income
 
@@ -226,7 +226,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The Indian Gaming Regulatory Act, referred to in par. (8)(B), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Indian Gaming Regulatory Act, referred to in par. (8)(B), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467,which is classified principally to chapter 29 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in par. (13)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

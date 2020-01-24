@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary or Administrator shall charge and collect from the obligor fees the Secretary or Administrator considers reasonable for—
+In General.—The Secretary or Administrator shall charge and collect from the obligor fees the Secretary or Administrator considers reasonable for processing the application and monitoring the loan guarantee, including for—
 
 &emsp;(1) investigating an application for a guarantee;
 
@@ -10,9 +10,11 @@ In General.—The Secretary or Administrator shall charge and collect from the o
 
 &emsp;(3) issuing a commitment;
 
-&emsp;(4) providing services related to an escrow fund under section 53715 of this title; and
+&emsp;(4) providing services related to an escrow fund under section 53715 of this title or a deposit fund under section 53716 of this title;
 
-&emsp;(5) inspecting property during construction, reconstruction, or reconditioning.
+&emsp;(5) inspecting property during construction, reconstruction, or reconditioning; and
+
+&emsp;(6) monitoring and providing services related to the obligor's compliance with any terms related to the obligations, the guarantee, or maintenance of the Secretary or Administrator's security interests under this chapter.
 
 (b)
 
@@ -20,15 +22,23 @@ Total Fee Limitation.—The total fees under subsection (a) may not exceed 0.5 p
 
 (c)
 
-Fees for Independent Analysis.—The Secretary or Administrator may charge and collect fees to cover the costs of independent analysis under section 53708(d) of this title. Notwithstanding section 3302 of title 31, any fee collected under this subsection shall—
+Fees for Independent Analysis.—
 
-&emsp;(1) be credited as an offsetting collection to the account that finances the administration of the loan guarantee program;
+&emsp;(1)
 
-&emsp;(2) be available for expenditure only to pay the costs of activities and services for which the fee is imposed; and
+In general.—The Secretary or Administrator may charge and collect fees to cover the costs of independent analysis under section 53703(c) of this title. Notwithstanding section 3302 of title 31, any fee collected under this subsection shall—
 
-&emsp;(3) remain available until expended.
+&emsp;&emsp;(A) be credited as an offsetting collection to the account that finances the administration of the loan guarantee program;
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1612; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
+&emsp;&emsp;(B) be available for expenditure only to pay the costs of activities and services for which the fee is imposed; and
+
+&emsp;&emsp;(C) remain available until expended.
+
+&emsp;(2)
+
+Fee limitation inapplicable.—Fees collected under this subsection are not subject to the limitation of subsection (b).
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1612; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598; Pub. L. 116–92, div. C, title XXXV, §3506(h), Dec. 20, 2019, 133 Stat. 1973.)
 
 Historical and Revision Notes
 
@@ -55,6 +65,16 @@ June 29, 1936, ch. 858, title XI, §1104A(f)(1), (4) \[§1104A formerly §1104\]
 46 App.:1274(f)(4).
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–92, §3506(h)(1)(A), substituted "reasonable for processing the application and monitoring the loan guarantee, including for—" for "reasonable for—" in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 116–92, §3506(h)(1)(B), substituted "or a deposit fund under section 53716 of this title;" for "; and".
+
+Subsec. (a)(6). Pub. L. 116–92, §3506(h)(1)(C), (D), added par. (6).
+
+Subsec. (c). Pub. L. 116–92, §3506(h)(2)(B)–(D), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1) and realigned margins, and added par. (2).
+
+Pub. L. 116–92, §3506(h)(2)(A), which directed amendment of par. (1) of subsec. (c) by substituting "under section 53703(c) of this title" for "under section 53708(d) of this title", was executed by making the substitution in introductory provisions of subsec. (c) to reflect the probable intent of Congress and the subsequent designation of the provisions of subsec. (c) as subsec. (c)(1). See above.
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D). See 2006 Amendment note below.
 

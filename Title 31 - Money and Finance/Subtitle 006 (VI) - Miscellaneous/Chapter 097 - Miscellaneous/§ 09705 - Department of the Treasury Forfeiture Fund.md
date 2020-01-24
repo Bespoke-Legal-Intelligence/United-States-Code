@@ -82,7 +82,7 @@ In General.—There is established in the Treasury of the United States a fund t
 
 &emsp;&emsp;(F) payment for equipment for any vessel, vehicle, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the vessel, vehicle, or aircraft will be used in joint law enforcement operations with a Department of the Treasury law enforcement organization;
 
-&emsp;&emsp;(G) reimbursement of private persons for expenses incurred by such persons in cooperating with a Department of the Treasury law enforcement organization in investigations and undercover law enforcement operations; and
+&emsp;&emsp;(G) reimbursement of private persons for expenses incurred by such persons in cooperating with a Department of the Treasury lawenforcement organization in investigations and undercover law enforcement operations; and
 
 &emsp;&emsp;(H) payment for training foreign law enforcement personnel with respect to seizure or forfeiture activities of the Department of the Treasury.
 
@@ -154,7 +154,7 @@ Reports to Congress.—The Secretary shall transmit to the Congress, not later t
 
 &emsp;&emsp;&emsp;(i) under any law enforced or administered by the United States Customs Service or the United States Coast Guard, in the case of fiscal year 1993; and
 
-&emsp;&emsp;&emsp;(ii) under any law enforced or administered by the Department of the Treasury law enforcement organizations or the United States Coast Guard, in the case of fiscal years beginning after 1993; and
+&emsp;&emsp;&emsp;(ii) under any law enforced or administered by the Department of the Treasurylaw enforcement organizations or the United States Coast Guard, in the case of fiscal years beginning after 1993; and
 
 &emsp;&emsp;(B) the estimated total value of all such property transferred to any State or local law enforcement agency; and
 
@@ -206,7 +206,7 @@ Appropriations.—
 
 &emsp;(B) After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994, and on September 30 of each fiscal year thereafter, shall be available to the Secretary, without fiscal year limitation, for transfers pursuant to subparagraph (A)(ii) <sup>1</sup> and for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
 
-&emsp;(C) Any obligation or expenditure in excess of $500,000 with respect to an unobligated balance described in subparagraph (B) may not be made by the Secretary unless the Appropriations Committees of both Houses of Congress are notified at least 15 days in advance of such obligation or expenditure.
+&emsp;(C) Any obligation or expenditure in excess of $500,000 with respect to an unobligated balance described in subparagraph (B) may not bemade by the Secretary unless the Appropriations Committees of both Houses of Congress are notified at least 15 days in advance of such obligation or expenditure.
 
 (h)
 
@@ -230,7 +230,7 @@ Retention or Transfer of Property.—
 
 &emsp;&emsp;(C) is made to a country which, if applicable, has been certified under section 481(h) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291(h)).<sup>1</sup>
 
-&emsp;(3) Nothing in this section shall affect the authority of the Secretary under section 981 oftitle 18 or section 616 of the Tariff Act of 1930 (19 U.S.C. 1616a).
+&emsp;(3) Nothing in this section shall affect the authority of the Secretary under section 981 of title 18 or section 616 of the Tariff Act of 1930 (19 U.S.C. 1616a).
 
 (i)
 
@@ -298,7 +298,7 @@ Secretary.—The term "Secretary" means the Secretary of the Treasury.
 
 Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (d)(2)(A), (h)(1), and (j)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. Section 5872(b)(2) of the Internal Revenue Code of 1986, referred to in subsec. (o)(1), is classified to section 5872(b)(2) of Title 26.
 
-The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84Stat. 1114, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
+The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
 
 Section 630 of the Tariff Act of 1930, referred to in subsec. (a)(2)(E), is classified to section 1630 of Title 19, Customs Duties.
 

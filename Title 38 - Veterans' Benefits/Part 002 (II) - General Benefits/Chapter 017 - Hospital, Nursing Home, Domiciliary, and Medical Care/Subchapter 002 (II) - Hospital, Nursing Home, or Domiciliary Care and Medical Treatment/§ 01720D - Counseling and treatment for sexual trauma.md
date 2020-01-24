@@ -1,6 +1,6 @@
 ### §1720D. Counseling and treatment for sexual trauma
 
-(a)(1) The Secretary shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require suchcounseling and care and services to overcome psychological trauma, which in the judgment of a mental health professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the veteran was serving on active duty, active duty for training, or inactive duty training.
+(a)(1) The Secretary shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services to overcome psychological trauma, which in the judgment of a mental health professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the veteran was serving on active duty, active duty for training, or inactive duty training.
 
 (2)(A) In operating the program required by paragraph (1), the Secretary may, in consultation with the Secretary of Defense, provide counseling and care and services to members of the Armed Forces (including members of the National Guard and Reserves) to overcome psychological trauma described in that paragraph that was suffered by the member while serving on active duty, active duty for training, or inactive duty training.
 
@@ -38,7 +38,7 @@
 
 &emsp;(A) all mental health professionals described in such paragraph have been trained in a consistent manner; and
 
-&emsp;(B) training described in such paragraph includes principles of evidence-based treatment and care for sexual trauma and post-traumatic stress disorder.
+&emsp;(B) training described in such paragraph includes principles of evidence-based treatmentand care for sexual trauma and post-traumatic stress disorder.
 
 (e) Each year, the Secretary shall submit to Congress an annual report on the counseling, care, and services provided pursuant to this section. Each report shall include data for the year covered by the report with respect to each of the following:
 
@@ -114,7 +114,7 @@ Subsec. (a)(2). Pub. L. 103–452, §101(a), added par. (2) and struck out forme
 
 Subsec. (a)(3). Pub. L. 103–452, §101(b)(2), substituted "December 31, 1998," for "December 31, 1994,".
 
-Subsec. (b). Pub. L. 103–452, §101(c), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "In providing services to a veteran under subsection (a), the period for which counseling is provided may not exceed one year from the date of the commencement of the furnishing of such counseling to the veteran. However, the Secretary may authorize a longer period in any case if, in the judgment of the Secretary, a longer period of counseling is required."
+Subsec. (b). Pub. L. 103–452, §101(c), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "In providing services to a veteran under subsection (a), the period for which counseling isprovided may not exceed one year from the date of the commencement of the furnishing of such counseling to the veteran. However, the Secretary may authorize a longer period in any case if, in the judgment of the Secretary, a longer period of counseling is required."
 
 Subsec. (b)(1). Pub. L. 103–452, §101(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Secretary shall give priority to the establishment and operation of the program to provide counseling under subsection (a). In the case of a veteran eligible for such counseling who requires other care or services under this chapter for trauma described in subsection (a)(1), the Secretary shall ensure that the veteran is furnished counseling under this section in a way that is coordinated with the furnishing of such other care and services under this chapter."
 
@@ -138,7 +138,7 @@ Pub. L. 113–146, title IV, §402(d), Aug. 7, 2014, 128 Stat. 1790, provided th
 
 Pub. L. 103–452, title I, §101(g)(2)–(5), Nov. 2, 1994, 108 Stat. 4785, provided that:
 
-"(2) In providing information on counseling available to veterans as required under section 1720D(c)(1) of title38, United States Code (as amended by paragraph (1)), the Secretary of Veterans Affairs shall ensure that the Department of Veterans Affairs personnel who provide assistance under such section are trained in the provision to persons who have experienced sexual trauma of information about the care and services relating to sexual trauma that are available to veterans in the communities in which such veterans reside, including care and services available under programs of the Department (including the care and services available under section 1720D of such title) and from non-Department agencies or organizations.
+"(2) In providing information on counseling available to veterans as required under section 1720D(c)(1) of title 38, United States Code (as amended by paragraph (1)), the Secretary of Veterans Affairs shall ensure that the Department of Veterans Affairs personnel who provide assistance under such section are trained in the provision to persons who have experienced sexual trauma of information about the care and services relating to sexual trauma that are available to veterans in the communities in which such veterans reside, including care and services available under programs of the Department (including the care and services available under section 1720D of such title) and from non-Department agencies or organizations.
 
 "(3) The telephone assistance service shall be operated in a manner that protects the confidentiality of persons who place calls to the system.
 

@@ -76,7 +76,7 @@ Alternative Formula.—For the payment period beginning October 1, 1994, the amo
 
 &emsp;&emsp;(B) the sum of the products determined under subparagraph (A) for all States; and
 
-&emsp;(6) $1,166,666,667 were allocated among the States on the basis of urbanized population by allocating to each State an amount bearing the same ratio to the total amount to be allocated under this paragraph as the urbanized population of the State bears to the urbanized population of all States. In this paragraph, the term "urbanized population" means the population of an area consisting of a central city or cities of at least 50,000 inhabitants and the surrounding closely settled area for the city or cities considered as an urbanized area as published by the Bureau of the Census for 1990 in the publication General Population Characteristics for Urbanized Areas.
+&emsp;(6) $1,166,666,667 were allocated among the States on the basis of urbanized population byallocating to each State an amount bearing the same ratio to the total amount to be allocated under this paragraph as the urbanized population of the State bears to the urbanized population of all States. In this paragraph, the term "urbanized population" means the population of an area consisting of a central city or cities of at least 50,000 inhabitants and the surrounding closely settled area for the city or cities considered as an urbanized area as published by the Bureau of the Census for 1990 in the publication General Population Characteristics for Urbanized Areas.
 
 (d)
 

@@ -18,7 +18,7 @@
 
 #### (B) Outdoor recreation equipment
 
-&emsp;&emsp;The Secretary may establish and collect fees for the provision of outdoor recreationequipment and services for activities described in paragraph (1) at public recreation areas located at lakes and reservoirs operated by the Corps of Engineers.
+&emsp;&emsp;The Secretary may establish and collect fees for the provision of outdoor recreation equipment and services for activities described in paragraph (1) at public recreation areas located at lakes and reservoirs operated by the Corps of Engineers.
 
 #### (C) Use of fees
 

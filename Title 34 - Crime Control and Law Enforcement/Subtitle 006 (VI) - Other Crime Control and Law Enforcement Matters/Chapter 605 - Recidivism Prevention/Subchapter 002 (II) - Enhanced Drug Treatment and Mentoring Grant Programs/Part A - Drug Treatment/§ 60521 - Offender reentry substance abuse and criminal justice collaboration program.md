@@ -6,7 +6,7 @@ The Attorney General may make competitive grants to States, units of local gover
 
 &emsp;(1) improving the provision of drug treatment to offenders in prisons, jails, and juvenile facilities; and
 
-&emsp;(2) reducing the use of alcohol and other drugs by long-term substance abusers duringthe period in which each such long-term substance abuser is in prison, jail, or a juvenile facility, and through the completion of parole or court supervision of such long-term substance abuser.
+&emsp;(2) reducing the use of alcohol and other drugs by long-term substance abusers during the period in which each such long-term substance abuser is in prison, jail, or a juvenile facility, and through the completion of parole or court supervision of such long-term substance abuser.
 
 #### (b) Use of grant funds
 

@@ -214,7 +214,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 &emsp;"(2) require the owner, operator or master, or other person in charge of a cruise vessel subject to this title to maintain and produce a logbook detailing the times, types, volumes or flow rates and locations of any discharges of sewage or graywater under this title.
 
-"(d) The inspection regime shall incorporate a plan for sampling and testing cruise vessel discharges to ensure that any discharges of sewage or graywater are in compliance with this title, the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], as amended, and any other applicable laws and regulations, and may require the owner, operator or master, or other person incharge of a cruise vessel subject to this title to conduct such samples or tests, and to produce any records of such sampling or testing at the request of the Secretary or Administrator.
+"(d) The inspection regime shall incorporate a plan for sampling and testing cruise vessel discharges to ensure that any discharges of sewage or graywater are in compliance with this title, the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], as amended, and any other applicable laws and regulations, and may require the owner, operator or master, or other person in charge of a cruise vessel subject to this title to conduct such samples or tests, and to produce any records of such sampling or testing at the request of the Secretary or Administrator.
 
 #### "SEC. 1407. CRUISE VESSEL EFFLUENT STANDARDS.
 
@@ -286,7 +286,7 @@ Collection.—If any person fails to pay an assessment of a civil penalty—
 
 &emsp;&emsp;"(A) after the assessment has become final, or
 
-&emsp;&emsp;"(B) after a court in an action brought under subsection (6) has entered a final judgment in favor of the Administrator or Secretary, as the case may be, the Administrator or Secretary shall request the Attorney General to bring a civil action in an appropriate district court to recover the amount assessed (plus interest at currently prevailing rates from the date of the final order or the date of the final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review. Anyperson who fails to pay on a timely basis the amount of an assessment of a civil penalty as described in the first sentence of this subparagraph shall be required to pay, in addition to such amount and interest, attorneys fees and costs for collection proceedings and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. Such nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of such person's penalties and nonpayment penalties which are unpaid as of the beginning of such quarter.
+&emsp;&emsp;"(B) after a court in an action brought under subsection (6) has entered a final judgment in favor of the Administrator or Secretary, as the case may be, the Administrator or Secretary shall request the Attorney General to bring a civil action in an appropriate district court to recover the amount assessed (plus interest at currently prevailing rates from the date of the final order or the date of the final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review. Any person who fails to pay on a timely basis the amount of an assessment of a civil penalty as described in the first sentence of this subparagraph shall be required to pay, in addition to such amount and interest, attorneys fees and costs for collection proceedings and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. Such nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of such person's penalties and nonpayment penalties which are unpaid as of the beginning of such quarter.
 
 &emsp;"(8)
 
@@ -332,7 +332,7 @@ False statements.—Any person who knowingly makes any false statement, represen
 
 Awards.—
 
-&emsp;"(1) The Secretary, the Administrator, or the court, when assessing any fines or civil penalties, as the case may be, may pay from any fines or civil penalties collected under this section an amount not to exceed one-half of the penalty or fine collected, to any individual who furnishes information which leads to the payment of the penalty or fine. If several individuals provide such information, the amount shall be divided equitably among such individuals. No officer or employee of the United States, the State of Alaska or any federally recognized Tribe who furnishes information or renders service in the performance of his or her official duties shall be eligible for payment under this subsection.
+&emsp;"(1) The Secretary, the Administrator, or the court, when assessing any fines or civil penalties, as the case may be, may pay from any fines or civil penalties collected under this section an amount not to exceed one-half of the penalty or fine collected, toany individual who furnishes information which leads to the payment of the penalty or fine. If several individuals provide such information, the amount shall be divided equitably among such individuals. No officer or employee of the United States, the State of Alaska or any federally recognized Tribe who furnishes information or renders service in the performance of his or her official duties shall be eligible for payment under this subsection.
 
 &emsp;"(2) The Secretary, Administrator or the court, when assessing any fines or civil penalties, as the case may be, may pay, from any fines or civil penalties collected under this section, to the State of Alaska or to any federally recognized Tribe providing information or investigative assistance which leads to payment of the penalty or fine, an amount which reflects the level of information or investigative assistance provided. Should the State of Alaska or a federally recognized Tribe and an individual under paragraph (1) of this section be eligible for an award, the Secretary, the Administrator, or the court, as the case may be, shall divide the amount equitably.
 
@@ -358,7 +358,7 @@ Civil Actions.—The Administrator is authorized to commence a civil action for 
 
 #### "SEC. 1410. DESIGNATION OF CRUISE VESSEL NO-DISCHARGE ZONES.
 
-"If the State of Alaska determines that the protection and enhancement of the quality of some or all of the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve require greater environmental protection, the State of Alaska may petition the Administrator to prohibit the discharge of graywater and sewage from cruise vessels operating in such waters.The establishment of such a prohibition shall be achieved in the same manner as the petitioning process and prohibition of the discharge of sewage pursuant to section 312(f) of the Federal Water Pollution Control Act \[33 U.S.C. 1322(f)\], as amended, and the regulations promulgated thereunder.
+"If the State of Alaska determines that the protection and enhancement of the quality of some or all of the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve require greater environmental protection, the State of Alaska may petition the Administrator to prohibit the discharge of graywater and sewage from cruise vessels operating in such waters. The establishment of such a prohibition shall be achieved in the same manner as the petitioning process and prohibition of the discharge of sewage pursuant to section 312(f) of the Federal Water Pollution Control Act \[33 U.S.C. 1322(f)\], as amended, and the regulations promulgated thereunder.
 
 #### "SEC. 1411. SAVINGS CLAUSE.
 
@@ -388,7 +388,7 @@ Administrator.—The term 'Administrator' means the Administrator of the United 
 
 &emsp;"(2)
 
-Cruise vessel.—The term 'cruise vessel' means a passenger vessel as defined in section 2101(22) of title 46, United States Code. The term 'cruise vessel' does not include a vessel of the United States operated by the Federal Government or a vessel owned and operated by the government of a State.
+Cruise vessel.—The term 'cruise vessel' means a passenger vessel as defined in section 2101(22) \[now 2101(31)\] of title 46, United States Code. The term 'cruise vessel' does not include a vessel of the United States operated by the Federal Government or a vessel owned and operated by the government of a State.
 
 &emsp;"(3)
 
@@ -416,7 +416,7 @@ Sewage.—The term 'sewage' means human body wastes and the wastes from toilets 
 
 &emsp;"(9)
 
-Treated sewage.—The term 'treated sewage' means sewage meeting all applicable effluent limitation standards and processing requirements of the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], as amended\[,\] and of this title, and regulations promulgated under either.
+Treated sewage.—The term 'treated sewage' means sewage meeting all applicable effluent limitation standards and processing requirements of the Federal Water Pollution Control Act \[33 U.S.C. 1251 etseq.\], as amended\[,\] and of this title, and regulations promulgated under either.
 
 &emsp;"(10)
 

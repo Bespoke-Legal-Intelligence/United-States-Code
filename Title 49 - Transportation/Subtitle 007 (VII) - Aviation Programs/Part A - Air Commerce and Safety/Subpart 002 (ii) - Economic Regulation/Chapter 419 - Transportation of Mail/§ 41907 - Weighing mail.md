@@ -26,7 +26,7 @@ Aug. 23, 1958, Pub. L. 85–726, §406(f), 72 Stat. 764.
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
-The text of 49 App.:1376(f) (2d sentence) is omitted as surplus because of 39:chs. 4 and 10. The words "upon request of the Board" are omitted as surplus because theSecretary of Transportation makes the determination. The words "therefor in like manner" are omitted as surplus.
+The text of 49 App.:1376(f) (2d sentence) is omitted as surplus because of 39:chs. 4 and 10. The words "upon request of the Board" are omitted as surplus because the Secretary of Transportation makes the determination. The words "therefor in like manner" are omitted as surplus.
 
 #### Prior Provisions
 

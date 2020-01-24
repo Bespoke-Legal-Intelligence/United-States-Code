@@ -6,7 +6,7 @@
 | :--- | ---: |
 | [101\.](Subchapter%20001%20%28I%29%20-%20Subtitle%20Definitions/%C2%A7%2000101%20-%20Administrator.md) | Administrator. |
 | [102\.](Subchapter%20001%20%28I%29%20-%20Subtitle%20Definitions/%C2%A7%2000102%20-%20Commercial%20component.md) | Commercial component. |
-| [103\.](Subchapter%20001%20%28I%29%20-%20Subtitle%20Definitions/%C2%A7%2000103%20-%20Commercial%20item.md) | Commercial item. |
+| [103\.](Subchapter%20001%20%28I%29%20-%20Subtitle%20Definitions/%C2%A7%2000103%20-%20Commercial%20product.md) | Commercial product. |
 | [103a.](Subchapter%20001%20%28I%29%20-%20Subtitle%20Definitions/%C2%A7%2000103a%20-%20Commercial%20service.md) | Commercial service. |
 | [104\.](Subchapter%20001%20%28I%29%20-%20Subtitle%20Definitions/%C2%A7%2000104%20-%20Commercially%20available%20off-the-shelf%20item.md) | Commercially available off-the-shelf item. |
 | [105\.](Subchapter%20001%20%28I%29%20-%20Subtitle%20Definitions/%C2%A7%2000105%20-%20Component.md) | Component. |
@@ -44,10 +44,6 @@
 | [153\.](Subchapter%20003%20%28III%29%20-%20Division%20C%20Definitions/%C2%A7%2000153%20-%20Simplified%20acquisition%20threshold%20for%20contract%20in%20support%20of%20humanitarian%20or%20peacekeeping%20operation.md) | Simplified acquisition threshold for contract in support of humanitarian or peacekeeping operation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(a)(3), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this analysis is amended by striking item 103 and inserting new item 103 "Commercial product". See 2018 Amendment note below.</i>
 
 #### Amendments
 

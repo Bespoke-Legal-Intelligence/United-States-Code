@@ -22,7 +22,7 @@ Public Participation.—
 
 &emsp;(1)
 
-In general.—A Commission and applicable State and local development districts shallencourage and assist, to the maximum extent practicable, public participation in the development, revision, and implementation of all plans and programs under this subtitle.
+In general.—A Commission and applicable State and local development districts shall encourage and assist, to the maximum extent practicable, public participation in the development, revision, and implementation of all plans and programs under this subtitle.
 
 &emsp;(2)
 

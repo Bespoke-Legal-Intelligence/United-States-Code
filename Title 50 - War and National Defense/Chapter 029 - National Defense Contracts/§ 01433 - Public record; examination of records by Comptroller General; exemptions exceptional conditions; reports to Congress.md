@@ -22,7 +22,7 @@ Functions with respect to purchases authorized to be made outside the limits of 
 
 #### Foreign Contractors
 
-Secretaries of Defense, Army, Navy, or Air Force, or their designees, to determine, prior to exercising the authority provided in the amendment by Pub. L. 89–607 to exempt certain contracts with foreign contractors from the requirement of an examination-of-records clause, that all reasonable efforts have been made to include such examination-of-records clause, as required by par. 11 of Part I of Ex. Ord. No. 10789, and that alternate sources of supply are not reasonably available, see par. 11 of Part I of Ex. Ord. No. 10789, eff. Nov. 14, 1958, 23 F.R. 8897, as amended, set out under section 1431 of this title.
+Secretaries of Defense, Army, Navy, or Air Force, or their designees, to determine, prior to exercising theauthority provided in the amendment by Pub. L. 89–607 to exempt certain contracts with foreign contractors from the requirement of an examination-of-records clause, that all reasonable efforts have been made to include such examination-of-records clause, as required by par. 11 of Part I of Ex. Ord. No. 10789, and that alternate sources of supply are not reasonably available, see par. 11 of Part I of Ex. Ord. No. 10789, eff. Nov. 14, 1958, 23 F.R. 8897, as amended, set out under section 1431 of this title.
 
 #### Nonapplicability of the National Emergencies Act
 

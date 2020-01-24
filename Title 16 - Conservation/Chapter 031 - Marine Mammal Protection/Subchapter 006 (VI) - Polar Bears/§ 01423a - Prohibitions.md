@@ -18,7 +18,7 @@ It is unlawful for any person who is subject to the jurisdiction of the United S
 
 #### (b) Exceptions
 
-For the purpose of forensic testing or any other law enforcement purpose, the Secretary, and Federal law enforcement officials, and any State or local law enforcement official authorized by the Secretary, may import a polar bear or any part or product of a polar bear.
+For the purpose of forensic testing or any other law enforcement purpose, the Secretary,and Federal law enforcement officials, and any State or local law enforcement official authorized by the Secretary, may import a polar bear or any part or product of a polar bear.
 
 (Pub. L. 92–522, title V, §502, as added Pub. L. 109–479, title IX, §902(a), Jan. 12, 2007, 120 Stat. 3661.)
 

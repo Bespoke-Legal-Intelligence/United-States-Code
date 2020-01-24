@@ -42,7 +42,7 @@ Section was enacted as part of the Admiral James W. Nance and Meg Donovan Foreig
 
 #### Amendments
 
-<b>2017</b>—Subsec. (b)(1)(C). Pub. L. 115–32 inserted before period at end ", except that no employees of the Department of State may, in their official capacity, solicit funds to pay expenses for a United States pavilion or other major exhibit at any international expositionor world's fair registered by the Bureau of International Expositions".
+<b>2017</b>—Subsec. (b)(1)(C). Pub. L. 115–32 inserted before period at end ", except that no employees of the Department of State may, in their official capacity, solicit funds to pay expenses for a United States pavilion or other major exhibit at any international exposition or world's fair registered by the Bureau of International Expositions".
 
 #### Definitions
 

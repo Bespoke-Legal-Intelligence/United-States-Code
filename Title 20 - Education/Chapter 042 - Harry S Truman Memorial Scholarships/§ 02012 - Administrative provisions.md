@@ -4,7 +4,7 @@
 
 In order to carry out the provisions of this chapter, the Foundation is authorized to—
 
-&emsp;(1) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Secretary be compensated at a rate to exceed the rate provided for employees in grade 15 of the General Schedule set forth in section 5332 of title 5;
+&emsp;(1) appoint and fix the compensation of such personnel as may be necessary to carry outthe provisions of this chapter, except that in no case shall employees other than the Executive Secretary be compensated at a rate to exceed the rate provided for employees in grade 15 of the General Schedule set forth in section 5332 of title 5;
 
 &emsp;(2) procure temporary and intermittent services of experts and consultants as are necessary to the extent authorized by section 3109 of title 5, but at rates not to exceed the rate specified at the time of such service for grade GS–18 in section 5332 of such title;
 

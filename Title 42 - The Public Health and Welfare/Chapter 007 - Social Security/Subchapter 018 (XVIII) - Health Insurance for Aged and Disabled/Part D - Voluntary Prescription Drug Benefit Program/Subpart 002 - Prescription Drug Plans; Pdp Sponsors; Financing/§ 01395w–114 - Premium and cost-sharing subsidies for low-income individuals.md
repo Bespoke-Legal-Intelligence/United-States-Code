@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) may provide that part D eligible individuals not described in subclause (I) who are determined for purposes of the State plan under subchapter XIX to be eligible for medical assistance under clause (i), (iii), or (iv) of section 1396a(a)(10)(E) of this title are treated as being determined to be subsidy eligible individuals described in paragraph (1).
 
-&emsp;&emsp;&nbsp;Insofar as the Secretary determines that the eligibility requirements under the State plan for medical assistance referred to in subclause (II) are substantially thesame as the requirements for being treated as a subsidy eligible individual described in paragraph (1), the Secretary shall provide for the treatment described in such subclause.
+&emsp;&emsp;&nbsp;Insofar as the Secretary determines that the eligibility requirements under the State plan for medical assistance referred to in subclause (II) are substantially the same as the requirements for being treated as a subsidy eligible individual described in paragraph (1), the Secretary shall provide for the treatment described in such subclause.
 
 #### (vi) Special rule for widows and widowers
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;For purposes of applying this section—
 
-&emsp;&emsp;&emsp;(i) in the case of a part D eligible individual who is not treated as a subsidy eligible individual under subparagraph (B)(v), income shall be determined in the manner described in section 1396d(p)(1)(B) of this title, without regard to the application of section 1396a(r)(2) of this title and except that support and maintenance furnished in kind shall not be counted as income; and
+&emsp;&emsp;&emsp;(i) in the case of a part D eligible individual who is not treated as a subsidy eligible individual under subparagraph (B)(v), income shall be determined in the manner described in section 1396d(p)(1)(B) of this title, without regard to the application ofsection 1396a(r)(2) of this title and except that support and maintenance furnished in kind shall not be counted as income; and
 
 &emsp;&emsp;&emsp;(ii) the term "poverty line" has the meaning given such term in section 9902(2) of this title, including any revision required by such section.
 

@@ -36,7 +36,7 @@
 
 #### (2) Reservation and allocation
 
-&emsp;The Secretary shall, to the greatest extent practicable, reserve and allocate the proportion of each State's loan funds made available under subchapter II that is equal to that State's target participation rate for use by the socially disadvantaged farmers or ranchers in that State. The Secretary shall, to the extent practicable, distribute the total so derived on a county by county basis according to the number of socially disadvantaged farmers or ranchers in the county. Any funds reserved and allocated under this paragraph but not used within a State shall, to the extent necessary to satisfy pending applications under this chapter, be available for use by socially disadvantaged farmers and ranchers in other States, as determined by the Secretary, and any remaining funds shall be reallocated within the State.
+&emsp;The Secretary shall, to the greatest extent practicable, reserve and allocate the proportion of each State's loan funds made available under subchapter II that is equal to that State's target participation rate for use by the socially disadvantaged farmers or ranchers in that State. The Secretary shall, to the extent practicable, distribute the total so derived on a county by county basis according to the number of socially disadvantaged farmers or ranchers in the county. Any funds reserved and allocated under this paragraph but notused within a State shall, to the extent necessary to satisfy pending applications under this chapter, be available for use by socially disadvantaged farmers and ranchers in other States, as determined by the Secretary, and any remaining funds shall be reallocated within the State.
 
 #### (d) Report
 
@@ -56,7 +56,7 @@ The Secretary shall prepare and submit, to the Committee on Agriculture of the H
 
 Not later than 180 days after April 4, 1996, the Secretary shall ensure that the implementation of this section is consistent with the holding of the Supreme Court in Adarand Constructors, Inc. v. Federico Pena, Secretary of Transportation, 115 S. Ct. 2097 (1995).
 
-(Pub. L. 87–128, title III, §355, as added Pub. L. 100–233, title VI, §617, Jan. 6, 1988, 101 Stat. 1682;amended Pub. L. 101–624, title XVIII, §1817, title XXV, §2501(f), Nov. 28, 1990, 104 Stat. 3829, 4065; Pub. L. 102–554, §21(a), (b), Oct. 28, 1992, 106 Stat. 4161; Pub. L. 104–127, title VI, §647, Apr. 4, 1996, 110 Stat. 1104; Pub. L. 107–171, title V, §5315, May 13, 2002, 116 Stat. 348.)
+(Pub. L. 87–128, title III, §355, as added Pub. L. 100–233, title VI, §617, Jan. 6, 1988, 101 Stat. 1682; amended Pub. L. 101–624, title XVIII, §1817, title XXV, §2501(f), Nov. 28, 1990, 104 Stat. 3829, 4065; Pub. L. 102–554, §21(a), (b), Oct. 28, 1992, 106 Stat. 4161; Pub. L. 104–127, title VI, §647, Apr. 4, 1996, 110 Stat. 1104; Pub. L. 107–171, title V, §5315, May 13, 2002, 116 Stat. 348.)
 
 #### References in Text
 

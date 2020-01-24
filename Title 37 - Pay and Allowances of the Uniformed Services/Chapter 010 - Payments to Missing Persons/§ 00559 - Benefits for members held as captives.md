@@ -118,7 +118,7 @@ Payment to Surviving Spouse of Deceased Former Member.—In the case of a person
 
 Amount of Back Pay.—(1) The amount of back pay payable to or for a person described in subsection (a) is the amount equal to the difference between—
 
-&emsp;"(A) the total amount of basic pay that would have been paid to that person for service in the Navy or the Marine Corps for the back-pay computation period if the person had been promoted to the grade to which selected to be promoted; and
+&emsp;"(A) the total amount of basic pay that would have been paid to that person for service in the Navy orthe Marine Corps for the back-pay computation period if the person had been promoted to the grade to which selected to be promoted; and
 
 &emsp;"(B) the total amount of basic pay that was actually paid to or for that person for such service for the back-pay computation period.
 

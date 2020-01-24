@@ -110,7 +110,7 @@ The Secretary of Homeland Security shall provide to the Center the administrativ
 
 #### (1) Initial report
 
-&emsp;Not later than 180 days after December 17, 2004, the President shall transmit to Congress a report regarding the implementation of this section, including a description of the staffing and resource needs of the Center.
+&emsp;Not later than 180 days after December 17, 2004, the President shall transmit to Congressa report regarding the implementation of this section, including a description of the staffing and resource needs of the Center.
 
 #### (2) Follow-up report
 

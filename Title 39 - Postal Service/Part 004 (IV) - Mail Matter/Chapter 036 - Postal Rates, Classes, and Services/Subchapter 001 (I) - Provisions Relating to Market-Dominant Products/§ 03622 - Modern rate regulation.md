@@ -174,7 +174,7 @@ Limitation.—Nothing in this subsection shall require that a work share discoun
 
 &emsp;(4)
 
-Report.—Whenever the Postal Service establishes a workshare discount rate, thePostal Service shall, at the time it publishes the workshare discount rate, submit to the Postal Regulatory Commission a detailed report that—
+Report.—Whenever the Postal Service establishes a workshare discount rate, the Postal Service shall, at the time it publishes the workshare discount rate, submit to the Postal Regulatory Commission a detailed report that—
 
 &emsp;&emsp;(A) explains the Postal Service's reasons for establishing the rate;
 

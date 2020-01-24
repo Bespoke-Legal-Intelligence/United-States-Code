@@ -70,7 +70,7 @@ In sections 539m to 539m–12 of this title:
 
 #### (A) In general
 
-&emsp;&emsp;The term "modified use" means an existing use that, at any time after February 20,2003, is modified or reconfigured but not significantly expanded.
+&emsp;&emsp;The term "modified use" means an existing use that, at any time after February 20, 2003, is modified or reconfigured but not significantly expanded.
 
 #### (B) Inclusions
 
@@ -114,7 +114,7 @@ In sections 539m to 539m–12 of this title:
 
 #### (12) Settlement Agreement
 
-&emsp;The term "Settlement Agreement" means the Agreement of Compromise and Settlement dated April 4, 2000, among the United States, the Pueblo, and the Sandia Peak Tram Company.
+&emsp;The term "Settlement Agreement" means the Agreement of Compromise and Settlementdated April 4, 2000, among the United States, the Pueblo, and the Sandia Peak Tram Company.
 
 #### (13) Special use permit
 

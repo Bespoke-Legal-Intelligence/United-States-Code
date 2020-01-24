@@ -12,7 +12,7 @@
 
 #### (3) Limitation
 
-&emsp;The Secretary may not enter into any agreement by which the Secretary sells such helium other than to a private party with whom the Secretary has an agreement for recovery and disposal of helium.
+&emsp;The Secretary may not enter into any agreement by which the Secretary sells such heliumother than to a private party with whom the Secretary has an agreement for recovery and disposal of helium.
 
 #### (4) Regulations
 
@@ -20,7 +20,7 @@
 
 #### (5) Existing rights
 
-&emsp;An agreement under paragraph (1) shall be subject to any rights of any affected Federaloil and gas lessee that may be in existence prior to the date of the agreement.
+&emsp;An agreement under paragraph (1) shall be subject to any rights of any affected Federal oil and gas lessee that may be in existence prior to the date of the agreement.
 
 #### (6) Terms and conditions
 

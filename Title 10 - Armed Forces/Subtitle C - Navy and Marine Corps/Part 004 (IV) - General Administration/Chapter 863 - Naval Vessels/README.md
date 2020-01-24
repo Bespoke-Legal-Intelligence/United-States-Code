@@ -9,6 +9,7 @@
 | [8667\.](%C2%A7%2008667%20-%20Changing%20category%20or%20type%20limitations.md) | Changing category or type: limitations. |
 | [8669\.](%C2%A7%2008669%20-%20Contracts%20applicability%20of%20chapter%2065%20of%20title%2041.md) | Contracts: applicability of chapter 65 of title 41. |
 | [8669a.](%C2%A7%2008669a%20-%20Construction%20of%20combatant%20and%20escort%20vessels%20and%20assignment%20of%20vessel%20projects.md) | Construction of combatant and escort vessels and assignment of vessel projects. |
+| [8669b.](%C2%A7%2008669b%20-%20Senior%20Technical%20Authority%20for%20each%20naval%20vessel%20class.md) | Senior Technical Authority for each naval vessel class. |
 | [8670\.](%C2%A7%2008670%20-%20Contracts%20for%20nuclear%20ships%20sales%20of%20naval%20shipyard%20articles%20and%20services%20to%20private%20shipyards.md) | Contracts for nuclear ships: sales of naval shipyard articles and services to private shipyards. |
 | [8671\.](%C2%A7%2008671%20-%20Determination%20of%20vessel%20delivery%20dates.md) | Determination of vessel delivery dates. |
 | [8673\.](%C2%A7%2008673%20-%20Model%20Basin%3B%20investigation%20of%20hull%20designs.md) | Model basin; investigation of hull designs. |
@@ -33,10 +34,13 @@
 | [8689\.](%C2%A7%2008689%20-%20Requirements%20for%20availability%20of%20funds%20relating%20to%20advanced%20naval%20nuclear%20fuel%20systems%20based%20on%20low-enriched%20uranium.md) | Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium. |
 | [8690\.](%C2%A7%2008690%20-%20Limitation%20on%20length%20of%20overseas%20forward%20deployment%20of%20naval%20vessels.md) | Limitation on length of overseas forward deployment of naval vessels. |
 | [8691\.](%C2%A7%2008691%20-%20Nuclear-powered%20aircraft%20carriers%20dismantlement%20and%20disposal.md) | Nuclear-powered aircraft carriers: dismantlement and disposal. |
+| [8692\.](%C2%A7%2008692%20-%20Ford-class%20aircraft%20carriers%20cost%20limitation%20baselines.md) | Ford-class aircraft carriers: cost limitation baselines. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title I, §121(b), title X, §1034(b), Dec. 20, 2019, 133 Stat. 1234, 1583, added items 8669b and 8692.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 633 of this title as this chapter and items 7291 to 7294, 7297, 7299 to 7301, and 7303 to 7321 as 8661 to 8664, 8667, 8669 to 8671, and 8673 to 8691, respectively.
 
@@ -106,6 +110,7 @@ Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7
 - [&sect; 08667 - Changing category or type limitations](%C2%A7%2008667%20-%20Changing%20category%20or%20type%20limitations.md)
 - [&sect; 08669 - Contracts applicability of chapter 65 of title 41](%C2%A7%2008669%20-%20Contracts%20applicability%20of%20chapter%2065%20of%20title%2041.md)
 - [&sect; 08669a - Construction of combatant and escort vessels and assignment of vessel projects](%C2%A7%2008669a%20-%20Construction%20of%20combatant%20and%20escort%20vessels%20and%20assignment%20of%20vessel%20projects.md)
+- [&sect; 08669b - Senior Technical Authority for each naval vessel class](%C2%A7%2008669b%20-%20Senior%20Technical%20Authority%20for%20each%20naval%20vessel%20class.md)
 - [&sect; 08670 - Contracts for nuclear ships sales of naval shipyard articles and services to private shipyards](%C2%A7%2008670%20-%20Contracts%20for%20nuclear%20ships%20sales%20of%20naval%20shipyard%20articles%20and%20services%20to%20private%20shipyards.md)
 - [&sect; 08671 - Determination of vessel delivery dates](%C2%A7%2008671%20-%20Determination%20of%20vessel%20delivery%20dates.md)
 - [&sect; 08673 - Model Basin; investigation of hull designs](%C2%A7%2008673%20-%20Model%20Basin%3B%20investigation%20of%20hull%20designs.md)
@@ -130,3 +135,4 @@ Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7
 - [&sect; 08689 - Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium](%C2%A7%2008689%20-%20Requirements%20for%20availability%20of%20funds%20relating%20to%20advanced%20naval%20nuclear%20fuel%20systems%20based%20on%20low-enriched%20uranium.md)
 - [&sect; 08690 - Limitation on length of overseas forward deployment of naval vessels](%C2%A7%2008690%20-%20Limitation%20on%20length%20of%20overseas%20forward%20deployment%20of%20naval%20vessels.md)
 - [&sect; 08691 - Nuclear-powered aircraft carriers dismantlement and disposal](%C2%A7%2008691%20-%20Nuclear-powered%20aircraft%20carriers%20dismantlement%20and%20disposal.md)
+- [&sect; 08692 - Ford-class aircraft carriers cost limitation baselines](%C2%A7%2008692%20-%20Ford-class%20aircraft%20carriers%20cost%20limitation%20baselines.md)

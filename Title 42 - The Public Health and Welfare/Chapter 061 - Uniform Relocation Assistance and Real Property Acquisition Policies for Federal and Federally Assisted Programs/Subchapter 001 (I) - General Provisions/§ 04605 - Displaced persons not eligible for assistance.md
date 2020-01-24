@@ -24,7 +24,7 @@ Except as provided in subsection (c), a displaced person shall not be eligible t
 
 #### (c) Exceptional and extremely unusual hardship
 
-If a displacing agency determines by clear and convincing evidence that a determination of the ineligibility of a displaced person under subsection (a) would result in exceptional and extremely unusual hardship to an individual who is the displaced person's spouse, parent, or child and who is a citizen of the United States or an alien lawfully admitted for permanent residence in the United States, the displacing agency shall provide relocation payments and other assistance to the displaced person under this chapter if the displaced person would be eligible for the assistance but for subsection (a).
+If a displacing agency determines by clear and convincing evidence that a determination of the ineligibility of a displaced person under subsection (a) would result in exceptional and extremely unusual hardship to an individual who is the displaced person's spouse, parent, or child and who is a citizen of the United States or analien lawfully admitted for permanent residence in the United States, the displacing agency shall provide relocation payments and other assistance to the displaced person under this chapter if the displaced person would be eligible for the assistance but for subsection (a).
 
 #### (d) Limitation on statutory construction
 
@@ -34,5 +34,5 @@ Nothing in this section affects any right available to a displaced person under 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (c), was in the original "this Act", meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform RelocationAssistance and Real Property Acquisition Policies Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (c), was in the original "this Act", meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 

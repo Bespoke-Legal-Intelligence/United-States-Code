@@ -34,7 +34,7 @@
 
 (d)(1) The rate of basic pay fixed under this section by an agency head may not be less than the rate of basic pay (including any comparability payments) which would then otherwise be payable for the position involved if this section had never been enacted.
 
-(2) Basic pay may not be fixed under this section at a rate greater than the rate payable for level I of the Executive Schedule, except upon written approval of the President.
+(2) Basic pay may not be fixed under this section at a rate greater than the rate payable forlevel I of the Executive Schedule, except upon written approval of the President.
 
 (e) The authority to fix the rate of basic pay under this section for a position shall terminate—
 
@@ -50,7 +50,7 @@
 
 &emsp;(1) the number of positions, in the aggregate and by agency, for which higher rates of pay were authorized or paid under this section during any part of the period covered by such report; and
 
-&emsp;(2) the name of each employee to whom a higher rate of pay was paid under this sectionduring any portion of the period covered by such report, the rate on <sup>1</sup> rates paid under this section during such period, the dates between which each such higher rate was paid, and the rate or rates that would have been paid but for this section.
+&emsp;(2) the name of each employee to whom a higher rate of pay was paid under this section during any portion of the period covered by such report, the rate on <sup>1</sup> rates paid under this section during such period, the dates between which each such higher rate was paid, and the rate or rates that would have been paid but for this section.
 
 (i)(1) For the purpose of this subsection, the term "position" means the work, consisting of the duties and responsibilities, assignable to an employee, except that such term does not include any position under subsection (a)(2)(A)–(E).
 
@@ -80,7 +80,7 @@ Subsec. (i). Pub. L. 102–378, §2(34)(B), added subsec. (i).
 
 #### Change of Name
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

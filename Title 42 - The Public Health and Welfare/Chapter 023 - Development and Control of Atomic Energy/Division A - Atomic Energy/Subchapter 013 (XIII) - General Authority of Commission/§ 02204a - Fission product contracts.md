@@ -6,7 +6,7 @@ Without regard to sections 1341, 1342, and 1349–1351 and subchapter II of chap
 
 #### (b) Cancellation
 
-Any contract entered into by the Commission pursuant to this section shall be subject to termination by the Commission upon payment of cancellation costs as provided in such contract, and any appropriation presently or hereafter made available to the Commission shall be available for payment of such costs which may arise from termination as the contract may provide.
+Any contract entered into by the Commission pursuant to this section shall be subject to termination by the Commission upon payment of cancellation costs as provided in such contract,and any appropriation presently or hereafter made available to the Commission shall be available for payment of such costs which may arise from termination as the contract may provide.
 
 #### (c) Submission to Energy Committees
 

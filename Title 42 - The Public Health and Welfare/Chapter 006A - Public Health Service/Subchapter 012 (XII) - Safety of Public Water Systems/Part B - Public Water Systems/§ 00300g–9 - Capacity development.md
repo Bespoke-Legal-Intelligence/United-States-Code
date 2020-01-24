@@ -38,7 +38,7 @@ A State shall receive only 80 percent of the allotment that the State is otherwi
 
 &emsp;&emsp;(A) the methods or criteria that the State will use to identify and prioritize the public water systems most in need of improving technical, managerial, and financial capacity;
 
-&emsp;&emsp;(B) a description of the institutional, regulatory, financial, tax, or legal factors at theFederal, State, or local level that encourage or impair capacity development;
+&emsp;&emsp;(B) a description of the institutional, regulatory, financial, tax, or legal factors at the Federal, State, or local level that encourage or impair capacity development;
 
 &emsp;&emsp;(C) a description of how the State will use the authorities and resources of this subchapter or other means to—
 
@@ -60,7 +60,7 @@ A State shall receive only 80 percent of the allotment that the State is otherwi
 
 #### (3) Report
 
-&emsp;Not later than 2 years after the date on which a State first adopts a capacity development strategy under this subsection, and every 3 years thereafter, the head of the State agency that has primary responsibility to carry out this subchapter in the State shall submit to the Governor a report that shall also be available to the public on the efficacy of the strategy and progress made toward improving the technical, managerial, and financial capacity of public water systems in the State, including efforts of the State to encourage development by public water systems of asset management plans and to assist public water systems in training relevant and appropriate persons in implementing such asset management plans.
+&emsp;Not later than 2 years after the date on which a State first adopts a capacity development strategy under this subsection, andevery 3 years thereafter, the head of the State agency that has primary responsibility to carry out this subchapter in the State shall submit to the Governor a report that shall also be available to the public on the efficacy of the strategy and progress made toward improving the technical, managerial, and financial capacity of public water systems in the State, including efforts of the State to encourage development by public water systems of asset management plans and to assist public water systems in training relevant and appropriate persons in implementing such asset management plans.
 
 #### (4) Review
 
@@ -106,7 +106,7 @@ Based on information obtained under subsection (c)(3), the Administrator shall, 
 
 #### (1) Grant program
 
-&emsp;The Administrator is authorized to make grants to institutions of higher learning to establish and operate small public water systemtechnology assistance centers in the United States.
+&emsp;The Administrator is authorized to make grants to institutions of higher learning to establish and operate small public water system technology assistance centers in the United States.
 
 #### (2) Responsibilities of the centers
 

@@ -30,7 +30,7 @@ If the Commissioner is required to make a notification described in subsection (
 
 #### (d) Review
 
-Notwithstanding section 405 of this title or any other provision of law, any determinationregarding the withholding of past-due benefits under this section shall only be subject to adjudication and review by the Director under section 8461 of title 5.
+Notwithstanding section 405 of this title or any other provision of law, any determination regarding the withholding of past-due benefits under this section shall only be subject to adjudication and review by the Director under section 8461 of title 5.
 
 #### (e) Disability annuity overpayment defined
 

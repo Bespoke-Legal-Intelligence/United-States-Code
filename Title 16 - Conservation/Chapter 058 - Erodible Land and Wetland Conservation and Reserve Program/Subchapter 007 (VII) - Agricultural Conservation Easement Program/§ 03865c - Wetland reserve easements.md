@@ -178,7 +178,7 @@ The Secretary shall provide assistance to owners of eligible land to restore, pr
 
 #### (ii) Easements valued at more than $500,000
 
-&emsp;&emsp;&emsp;For wetland reserve easements valued at more than $500,000, the Secretary may provide payments in at least 5, but not more than 10 annual payments, except that, if the Secretary determines it would further the purposes of the program, the Secretary may make a lump-sum payment for such an easement.
+&emsp;&emsp;&emsp;For wetland reserve easements valued at more than $500,000, the Secretary may provide payments in at least 5, but not more than 10 annual payments, except that, ifthe Secretary determines it would further the purposes of the program, the Secretary may make a lump-sum payment for such an easement.
 
 #### (c) Easement restoration
 

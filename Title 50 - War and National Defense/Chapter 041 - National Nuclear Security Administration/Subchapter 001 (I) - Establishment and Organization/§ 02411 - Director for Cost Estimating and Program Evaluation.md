@@ -8,7 +8,7 @@
 
 #### (b) Duties
 
-(1) The Director shall be the principal advisor to the Administrator, the Deputy Secretary of Energy, and the Secretary of Energy with respect to cost estimation and program evaluation for the Administration.
+(1) The Director shall be the principal advisor to the Administrator, the Deputy Secretary of Energy, and the Secretary of Energy with respect to cost estimation and program evaluation for the Administration. The Director shall report directly to the Administrator.
 
 (2) The Administrator may not delegate responsibility for receiving or acting on communications from the Director with respect to cost estimation and program evaluation for the Administration.
 
@@ -44,7 +44,7 @@
 
 &emsp;(C) Advising the Administrator on policies and procedures for analyses of alternatives for major atomic energy defense acquisition programs.
 
-&emsp;(D) As part of the planning, programming, and budgeting process of the Administration under sections 2451 and 2452 of this title, analyzing the planning phase of that process, advising on programmatic and fiscal year guidance, and managing the program review phase of that process.
+&emsp;(D) As part of the planning, programming, and budgeting process of the Administrationunder sections 2451 and 2452 of this title, analyzing the planning phase of that process, advising on programmatic and fiscal year guidance, and managing the program review phase of that process.
 
 &emsp;(E) Developing and managing the submittal of the Selected Acquisition Reports and independent cost estimates on nuclear weapons systems undergoing major life extension under section 2537 of this title.
 
@@ -96,7 +96,7 @@ In this section:
 
 &emsp;The term "performance baseline", with respect to a major atomic energy defense acquisition program, means the key parameters with respect to performance, scope, cost, and schedule for the project budget of the program.
 
-(Pub. L. 106–65, div. C, title XXXII, §3221, as added Pub. L. 113–66, div. C, title XXXI, §3112(a)(1), Dec. 26, 2013, 127 Stat. 1050; amended Pub. L. 113–291, div. C, title XXXI, §3117, Dec. 19, 2014, 128 Stat. 3889; Pub. L. 115–232, div. C, title XXXI, §3113(a), Aug. 13, 2018, 132 Stat. 2290.)
+(Pub. L. 106–65, div. C, title XXXII, §3221, as added Pub. L. 113–66, div. C, title XXXI, §3112(a)(1), Dec. 26, 2013, 127 Stat. 1050; amended Pub. L. 113–291, div. C, title XXXI, §3117, Dec. 19, 2014, 128 Stat. 3889; Pub. L. 115–232, div. C, title XXXI, §3113(a), Aug. 13, 2018, 132 Stat. 2290; Pub. L. 116–92, div. C, title XXXI, §3113(a), Dec. 20, 2019, 133 Stat. 1950.)
 
 #### Amendment of Section
 
@@ -121,6 +121,8 @@ In this section:
 <i>See 2018 Amendment notes below.</i>
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(1). Pub. L. 116–92 inserted "The Director shall report directly to the Administrator." at end.
 
 <b>2018</b>—Subsecs. (h), (i). Pub. L. 115–232, §3113(a)(1), (2), added subsec. (h) and redesignated former subsec. (h) as (i).
 

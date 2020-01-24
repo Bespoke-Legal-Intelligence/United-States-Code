@@ -16,7 +16,7 @@ Priorities in Selecting and Scheduling Projects.—When selecting and scheduling
 
 &emsp;(4) Trip-time requirements of this section must be achieved to the extent compatible with the priorities referred to in paragraphs (1)–(3) of this subsection.
 
-&emsp;(5) Improvements that will pay for the investment by achieving lower operating ormaintenance costs should be carried out before other improvements.
+&emsp;(5) Improvements that will pay for the investment by achieving lower operating or maintenance costs should be carried out before other improvements.
 
 &emsp;(6) Construction operations should be scheduled so that the fewest possible passengers are inconvenienced, transportation is maintained, and the on-time performance of Northeast Corridor commuter rail passenger and rail freight transportation is optimized.
 
@@ -44,7 +44,7 @@ Agreements for Off-Corridor Routing of Rail Freight Transportation.—(1) Amtrak
 
 (2) Amtrak shall apply to the Surface Transportation Board for approval of the agreement and all related agreements accompanying the application as soon as the agreement is made. If the Board finds that approval is necessary to carry out this chapter, the Board shall approve the application and related agreements not later than 90 days after receiving the application.
 
-(3) If an agreement is not made under paragraph (1) of this subsection, Amtrak, with the consent of the other parties, may apply to the Surface Transportation Board. Not later than 90 days after the application, the Board shall decide on the terms of an agreement if it decides that doing so is necessary to carry out this chapter. The decision of the Board is binding on the other parties.
+(3) If an agreement is not made under paragraph (1) of this subsection, Amtrak, with the consent of the other parties, may apply to the Surface Transportation Board. Not later than 90 days after the application, the Board shall decide on the terms of an agreement if it decidesthat doing so is necessary to carry out this chapter. The decision of the Board is binding on the other parties.
 
 (h)
 
@@ -258,7 +258,7 @@ In subsection (j)(2), the words "including the provision of service use of track
 
 In subsection (j)(3), the words "other parties" are substituted for "involved rail freight carriers" to eliminate unnecessary words. The words "conditions and" are omitted as surplus.
 
-In subsection (k)(1), before clause (A), the words "take all steps necessary to" are omitted as surplus. In clause (A), the words "all", "implementation of", and"under this subchapter" are omitted as surplus. Clause (B) is substituted for 45:854(c)(2) to eliminate surplus and obsolete words.
+In subsection (k)(1), before clause (A), the words "take all steps necessary to" are omitted as surplus. In clause (A), the words "all", "implementation of", and "under this subchapter" are omitted as surplus. Clause (B) is substituted for 45:854(c)(2) to eliminate surplus and obsolete words.
 
 #### References in Text
 

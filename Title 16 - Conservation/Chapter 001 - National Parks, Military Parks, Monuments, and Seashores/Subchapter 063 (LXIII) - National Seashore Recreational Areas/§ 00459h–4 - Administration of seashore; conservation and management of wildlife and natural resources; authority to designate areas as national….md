@@ -28,7 +28,7 @@ The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467), referred to in s
 
 #### Codification
 
-Subsec. (a) is comprised of the first, second, and third sentences of subsec. (a) of section 5 of Pub. L. 91–660. The fourth sentence of subsec. (a) repealed sections 450gg to 450gg–3 of this title and provisions formerly set out as a note under section 450gg of this title.
+Subsec. (a) is comprised of the first, second, and third sentences of subsec. (a) of section 5 of Pub. L. 91–660.The fourth sentence of subsec. (a) repealed sections 450gg to 450gg–3 of this title and provisions formerly set out as a note under section 450gg of this title.
 
 #### Amendments
 

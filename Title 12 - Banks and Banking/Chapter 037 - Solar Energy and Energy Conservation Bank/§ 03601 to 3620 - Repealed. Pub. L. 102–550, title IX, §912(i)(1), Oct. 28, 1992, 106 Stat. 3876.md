@@ -4,7 +4,7 @@ Section 3601, Pub. L. 96–294, title V, §503, June 30, 1980, 94 Stat. 719, pro
 
 Section 3602, Pub. L. 96–294, title V, §504, June 30, 1980, 94 Stat. 719; Pub. L. 98–181, title I \[title IV, §463(a)\], Nov. 30, 1983, 97 Stat. 1233, provided definitions for this chapter.
 
-Section 3603, Pub. L. 96–294, title V, §505, June 30, 1980, 94 Stat. 722; Pub. L. 100–122, §2(a), Sept. 30, 1987, 101Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327, established Solar Energy and Energy Conservation Bank.
+Section 3603, Pub. L. 96–294, title V, §505, June 30, 1980, 94 Stat. 722; Pub. L. 100–122, §2(a), Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327, established Solar Energy and Energy Conservation Bank.
 
 Section 3604, Pub. L. 96–294, title V, §506, June 30, 1980, 94 Stat. 723; Pub. L. 100–242, title V, §570(e), Feb. 5, 1988, 101 Stat. 1950, provided for a Board of Directors for Bank.
 
@@ -42,7 +42,7 @@ Section 3620, Pub. L. 96–294, title V, §522, June 30, 1980, 94 Stat. 737; Pub
 
 #### Short Title
 
-Pub. L. 96–294, title V, §501, June 30, 1980, 94 Stat. 719, provided that: "This title \[enacting this chapter and sections 6347, 8235 to 8235i, and 8281 to 8286b of Title 42, The Public Health and Welfare, amending sections 1451, 1454, 1717, 1723g, and 1723h of this title and sections 6862 to 6872, 8211, 8213, 8214, 8216, 8217, and 8221 of Title 42, repealing section 1723f of this title, and enacting provisions set out as notes under this section and sections 8211 and 8235 of Title 42\] may be cited as the 'Solar Energy and Energy Conservation Act of 1980'."
+Pub. L. 96–294, title V, §501, June 30, 1980, 94 Stat. 719, provided that: "This title \[enacting this chapter and sections 6347, 8235 to 8235i, and 8281 to 8286b of Title 42, The Public Health and Welfare, amending sections 1451,1454, 1717, 1723g, and 1723h of this title and sections 6862 to 6872, 8211, 8213, 8214, 8216, 8217, and 8221 of Title 42, repealing section 1723f of this title, and enacting provisions set out as notes under this section and sections 8211 and 8235 of Title 42\] may be cited as the 'Solar Energy and Energy Conservation Act of 1980'."
 
 Pub. L. 96–294, title V, §502, June 30, 1980, 94 Stat. 719, provided that subtitle A (§§502–534) of title V of Pub. L. 96–294 was to be cited as the "Solar Energy and Energy Conservation Bank Act", prior to repeal by Pub. L. 102–550, title IX, §912(i)(1), Oct. 28, 1992, 106 Stat. 3876.
 

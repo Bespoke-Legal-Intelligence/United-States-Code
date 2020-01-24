@@ -34,7 +34,7 @@ Annuitant.—The term "annuitant" means—
 
 &emsp;(3)
 
-Member of the uniformed services.—The term "member of the uniformed services" means a member of the uniformed services, other than a retired member of the uniformed services, who is—
+Member of the uniformed services.—The term "member of the uniformed services"means a member of the uniformed services, other than a retired member of the uniformed services, who is—
 
 &emsp;&emsp;(A) on active duty or full-time National Guard duty for a period of more than 30 days; or
 

@@ -118,7 +118,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (i) Claim deemed to be clean
 
-&emsp;&emsp;&emsp;A claim is deemed to be a clean claim if the PDP sponsor involved does not providenotice to the claimant of any deficiency in the claim—
+&emsp;&emsp;&emsp;A claim is deemed to be a clean claim if the PDP sponsor involved does not provide notice to the claimant of any deficiency in the claim—
 
 &emsp;&emsp;&emsp;&emsp;(I) with respect to claims submitted electronically, within 10 days after the date on which the claim is received; and
 
@@ -253,10 +253,6 @@ The fact that a PDP sponsor is licensed in accordance with subsection (a)(1) or 
 The provisions of sections 1395w–24(g) and 1395w–26(b)(3) of this title shall apply with respect to PDP sponsors and prescription drug plans under this part in the same manner as such sections apply to MA organizations and MA plans under part C.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–12, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2099; amended Pub. L. 110–275, title I, §§171(a), 172(a)(1), 173(a), 181, July 15, 2008, 122 Stat. 2578, 2580–2582; Pub. L. 115–271, title II, §2008(a), Oct. 24, 2018, 132 Stat. 3931.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 2008(a) of Pub. L. 115–271 applicable with respect to plan years beginning on or after Jan. 1, 2020. See 2018 Amendment note below.</i>
 
 #### Amendments
 

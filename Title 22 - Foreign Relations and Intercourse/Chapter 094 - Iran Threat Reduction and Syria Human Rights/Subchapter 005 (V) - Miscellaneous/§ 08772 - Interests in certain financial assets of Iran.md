@@ -6,13 +6,13 @@
 
 &emsp;Subject to paragraph (2), notwithstanding any other provision of law, including any provision of law relating to sovereign immunity, and preempting any inconsistent provision of State law, a financial asset that is—
 
-&emsp;&emsp;(A) held in the United States for a foreign securities intermediary doing business in the United States;
+&emsp;&emsp;(A) held by or for a foreign securities intermediary doing business in the United States;
 
-&emsp;&emsp;(B) a blocked asset (whether or not subsequently unblocked) that is property described in subsection (b); and
+&emsp;&emsp;(B) a blocked asset (whether or not subsequently unblocked), or an asset that would be blocked if the asset were located in the United States, that is property described in subsection (b); and
 
 &emsp;&emsp;(C) equal in value to a financial asset of Iran, including an asset of the central bank or monetary authority of the Government of Iran or any agency or instrumentality of that Government, that such foreign securities intermediary or a related intermediary holds abroad,
 
-> &emsp;shall be subject to execution or attachment in aid of execution in order to satisfy any judgment to the extent of any compensatory damages awarded against Iran for damages for personal injury or death caused by an act of torture, extrajudicial killing, aircraft sabotage, or hostage-taking, or the provision of material support or resources for such an act.
+> &emsp;shall be subject to execution or attachment in aid of execution, or to an order directing that the asset be brought to the State in which the court is located and subsequently to execution or attachment in aid of execution, in order tosatisfy any judgment to the extent of any compensatory damages awarded against Iran for damages for personal injury or death caused by an act of torture, extrajudicial killing, aircraft sabotage, or hostage-taking, or the provision of material support or resources for such an act, without regard to concerns relating to international comity.
 
 #### (2) Court determination required
 
@@ -26,7 +26,11 @@
 
 #### (b) Financial assets described
 
-The financial assets described in this section are the financial assets that are identified in and the subject of proceedings in the United States District Court for the Southern District of New York in Peterson et al. v. Islamic Republic of Iran et al., Case No. 10 Civ. 4518 (BSJ) (GWG), that were restrained by restraining notices and levies secured by the plaintiffs in those proceedings, as modified by court order dated June 27, 2008, and extended by court orders dated June 23, 2009, May 10, 2010, and June 11, 2010, so long as such assets remain restrained by court order.
+The financial assets described in this section are the financial assets that are—
+
+&emsp;(1) identified in and the subject of proceedings in the United States District Court for the Southern District of New York in Peterson et al. v. Islamic Republic of Iran et al., Case No. 10 Civ. 4518 (BSJ) (GWG), that were restrained by restraining notices and levies secured by the plaintiffs in those proceedings, as modified by court order dated June 27, 2008, and extended by court orders dated June 23, 2009, May 10, 2010, and June 11, 2010, so long as such assets remain restrained by court order; and
+
+&emsp;(2) identified in and the subject of proceedings in the United States District Court for the Southern District of New York in Peterson et al. v. Islamic Republic of Iran et al., Case No. 13 Civ. 9195 (LAP).
 
 #### (c) Rules of construction
 
@@ -78,11 +82,11 @@ In this section:
 
 &emsp;The term "United States" includes all territory and waters, continental, or insular, subject to the jurisdiction of the United States.
 
-(Pub. L. 112–158, title V, §502, Aug. 10, 2012, 126 Stat. 1258.)
+(Pub. L. 112–158, title V, §502, Aug. 10, 2012, 126 Stat. 1258; Pub. L. 116–92, div. A, title XII, §1226, Dec. 20, 2019, 133 Stat. 1645.)
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(2), is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, known as the Iran Threat Reduction and Syria Human Rights Act of 2012, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
+This Act, referred to in subsec. (a)(2), is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, known as the IranThreat Reduction and Syria Human Rights Act of 2012, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
 The International Emergency Economic Powers Act, referred to in subsec. (d)(1)(B)(i), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
@@ -93,4 +97,14 @@ Section 201(d) of the Terrorism Risk Insurance Act of 2002, referred to in subse
 #### Codification
 
 Section is comprised of section 502 of Pub. L. 112–158. Subsec. (e) of section 502 of Pub. L. 112–158 amended section 1610 of Title 28, Judiciary and Judicial Procedure, and amended section 201 of Pub. L. 107–297, set out as a note under section 1610 of Title 28.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (a)(1). Pub. L. 116–92, §1226(1)(C), inserted ", or to an order directing that the asset be brought to the State in which the court is located and subsequently to execution or attachment in aid of execution," after "in aid of execution" and ", without regard to concerns relating to international comity" after "resources for such an act" in concluding provisions.
+
+Subsec. (a)(1)(A). Pub. L. 116–92, §1226(1)(A), which directed substitution of "by or" for "in the United States" in subpar. (A), was executed by making the substitution for "in the United States" the first time appearing in subpar. (A), to reflect the probable intent of Congress.
+
+Subsec. (a)(1)(B). Pub. L. 116–92, §1226(1)(B), inserted ", or an asset that would be blocked if the asset were located in the United States," after "unblocked)".
+
+Subsec. (b). Pub. L. 116–92, §1226(2), substituted "that are—" and par. (1) designation for "that are" and "court order; and" for "court order." and added par. (2).
 

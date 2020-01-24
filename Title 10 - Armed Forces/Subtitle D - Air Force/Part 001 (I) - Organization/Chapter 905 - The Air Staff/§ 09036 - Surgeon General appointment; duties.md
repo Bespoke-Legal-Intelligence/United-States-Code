@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment.—The Surgeon General of the Air Force shall be appointed by the President, by and with the advice and consent of the Senate from officers of the Air Force who are in the Air Force medical department.
+Appointment.—The Surgeon General of the Air Force shall be appointed by the President,by and with the advice and consent of the Senate from officers of the Air Force who are in the Air Force medical department.
 
 (b)
 

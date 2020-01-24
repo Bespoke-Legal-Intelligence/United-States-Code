@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General shall provide an increase in the amount provided to a State underthe covered formula grants under this chapter for a 2-year period.
+The Attorney General shall provide an increase in the amount provided to a State under the covered formula grants under this chapter for a 2-year period.
 
 #### (b) Limit
 

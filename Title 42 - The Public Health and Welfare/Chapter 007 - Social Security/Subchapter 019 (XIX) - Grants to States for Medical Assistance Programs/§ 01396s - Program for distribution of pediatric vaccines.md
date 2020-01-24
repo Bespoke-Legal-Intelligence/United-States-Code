@@ -60,7 +60,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) The term "insured" means, with respect to a child—
 
-&emsp;&emsp;&emsp;&emsp;(I) for purposes of subparagraph (A)(ii), that the child is enrolled under, and entitled to benefits under, a health insurance policy or plan, including a group health plan, a prepaid health plan, or an employee welfare benefit plan under theEmployee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\]; and
+&emsp;&emsp;&emsp;&emsp;(I) for purposes of subparagraph (A)(ii), that the child is enrolled under, and entitled to benefits under, a health insurance policy or plan, including a group health plan, a prepaid health plan, or an employee welfare benefit plan under the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\]; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for purposes of subparagraph (A)(iii)(II) with respect to a pediatric vaccine, that the child is entitled to benefits under such a health insurance policy or plan, but such benefits are not available with respect to the cost of the pediatric vaccine.
 
@@ -78,7 +78,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) submits to the State an executed provider agreement described in paragraph (2); and
 
-&emsp;&emsp;(C) has not been found, by the Secretary or the State, to have violated such agreement or other applicable requirements established by the Secretary or the State consistent with this section.
+&emsp;&emsp;(C) has not been found, by the Secretary or the State, to have violated such agreement or other applicable requirements establishedby the Secretary or the State consistent with this section.
 
 #### (2) Provider agreement
 
@@ -164,7 +164,7 @@ The Secretary shall use, for the purpose of the purchase, delivery, and administ
 
 #### (f) Requirement of State maintenance of immunization laws
 
-In the case of a State that had in effect as of May 1, 1993, a law that requires some or allhealth insurance policies or plans to provide some coverage with respect to a pediatric vaccine, a State program under this section does not comply with the requirements of this section unless the State certifies to the Secretary that the State has not modified or repealed such law in a manner that reduces the amount of coverage so required.
+In the case of a State that had in effect as of May 1, 1993, a law that requires some or all health insurance policies or plans to provide some coverage with respect to a pediatric vaccine, a State program under this section does not comply with the requirements of this section unless the State certifies to the Secretary that the State has not modified or repealed such law in a manner that reduces the amount of coverage so required.
 
 #### (g) Termination
 

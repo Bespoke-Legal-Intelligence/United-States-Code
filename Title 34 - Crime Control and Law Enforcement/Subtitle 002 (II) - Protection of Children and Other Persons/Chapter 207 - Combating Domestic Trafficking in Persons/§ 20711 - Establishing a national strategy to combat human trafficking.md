@@ -48,7 +48,7 @@ Not later than 60 days after December 21, 2018, the Attorney General shall desig
 
 &emsp;(1) coordinating, promoting, and supporting the work of the Department of Justice relating to human trafficking, including investigation, prosecution, training, outreach, victim support, grant-making, and policy activities;
 
-&emsp;(2) in consultation with survivors of human trafficking, or anti-human trafficking organizations, producing and disseminating, including making publicly available when appropriate, replication guides and training materials for law enforcement officers, prosecutors, judges, emergency responders, individuals working in victim services, adult and child protective services, social services, and public safety, medical personnel, mental health personnel, financial services personnel, and any other individuals whose work may bring them in contact with human trafficking regarding how to—
+&emsp;(2) in consultation with survivors of human trafficking, or anti-human trafficking organizations, producing and disseminating, including making publicly available when appropriate, replication guides and training materials for law enforcement officers, prosecutors, judges, emergency responders, individuals working in victim services, adult and child protective services, social services, and publicsafety, medical personnel, mental health personnel, financial services personnel, and any other individuals whose work may bring them in contact with human trafficking regarding how to—
 
 &emsp;&emsp;(A) identify signs of human trafficking;
 

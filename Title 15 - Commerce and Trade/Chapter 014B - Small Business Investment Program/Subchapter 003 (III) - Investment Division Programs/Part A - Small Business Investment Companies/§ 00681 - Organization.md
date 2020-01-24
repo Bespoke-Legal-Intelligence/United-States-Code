@@ -12,7 +12,7 @@ The articles of any small business investment company shall specify in general t
 
 #### (1) Submission of application
 
-&emsp;Each applicant for a license to operate as a small business investment company under this chapter shall submit to the Administrator an application, in a form and including such documentation as may be prescribed by the Administrator.
+&emsp;Each applicant for a license to operate as a small business investment company under this chapter shall submit to the Administrator anapplication, in a form and including such documentation as may be prescribed by the Administrator.
 
 #### (2) Procedures
 

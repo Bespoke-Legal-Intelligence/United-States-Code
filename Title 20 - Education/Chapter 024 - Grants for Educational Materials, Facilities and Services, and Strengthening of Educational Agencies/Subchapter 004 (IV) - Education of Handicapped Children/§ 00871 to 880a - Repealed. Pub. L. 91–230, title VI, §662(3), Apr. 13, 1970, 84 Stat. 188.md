@@ -24,7 +24,7 @@ Section 878, Pub. L. 89–10, title VI, §611, formerly §608, as added Pub. L. 
 
 Section 879, Pub. L. 89–10, title VI, §612, formerly §609, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1208; renumbered §612, Pub. L. 90–247, title I, §151(3), Jan. 2, 1968, 81 Stat. 800, provided for a bureau for education and training of the handicapped.
 
-Section 880, Pub. L. 89–10, title VI, §613, formerly §610, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1208; renumbered §613, Pub. L. 90–247, title I, §151(3), Jan. 2, 1968, 81 Stat. 800, provided for labor standards requirement (prevailing wage rates).
+Section 880, Pub. L. 89–10, title VI, §613, formerly §610, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966,80 Stat. 1208; renumbered §613, Pub. L. 90–247, title I, §151(3), Jan. 2, 1968, 81 Stat. 800, provided for labor standards requirement (prevailing wage rates).
 
 Section 880a, Pub. L. 89–10, title VI, §614, formerly §602, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1204; renumbered §614, Pub. L. 90–247, title I, §152(a), Jan. 2, 1968, 81 Stat. 803, defined "handicapped children".
 

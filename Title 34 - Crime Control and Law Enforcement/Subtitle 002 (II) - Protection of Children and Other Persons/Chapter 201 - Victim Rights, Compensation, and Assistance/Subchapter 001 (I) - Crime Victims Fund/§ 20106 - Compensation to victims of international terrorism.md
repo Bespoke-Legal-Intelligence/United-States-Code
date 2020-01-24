@@ -24,7 +24,7 @@ In this section:
 
 #### (B) Incompetent, incapacitated, or deceased victims
 
-&emsp;&emsp;In the case of a victim who is less than 18 years of age, incompetent, incapacitated, or deceased, a family member or legal guardian of the victim may receive the compensation under this section on behalf of the victim.
+&emsp;&emsp;In the case of a victim who is less than 18 years of age, incompetent, incapacitated, ordeceased, a family member or legal guardian of the victim may receive the compensation under this section on behalf of the victim.
 
 #### (C) Exception
 

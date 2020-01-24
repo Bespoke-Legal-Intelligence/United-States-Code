@@ -22,13 +22,13 @@ The Congress finds the following:
 
 &emsp;&emsp;(E) demonstrates management practices and techniques that may be useful to other areas of the public lands and elsewhere.
 
-&emsp;(6) There exists near the conservation area a facility, the World Center for Birds of Prey operated by The Peregrine Fund, Inc., where research, public education, recovery, and reestablishment operations exist for endangered raptor species. There also exists at Boise State University a raptor study program which attracts national and international graduate and undergraduate students.
+&emsp;(6) There exists near the conservation area a facility, the World Center for Birds of Prey operated by The Peregrine Fund, Inc., where research, public education, recovery, and reestablishment operations exist for endangeredraptor species. There also exists at Boise State University a raptor study program which attracts national and international graduate and undergraduate students.
 
 &emsp;(7) The Bureau of Land Management and Boise State University, together with other State, Federal, and private entities, have formed the Raptor Research and Technical Assistance Center to be housed at Boise State University, which provides a unique adjunct to the conservation area for raptor management, recovery, research, and public visitation, interpretation, and education.
 
 &emsp;(8) Consistent with requirements of sections 1712 and 1732 of title 43, the Secretary has developed a comprehensive management plan and, based on such plan, has implemented a management program for the public lands included in the conservation area established by this subchapter.
 
-&emsp;(9) Additional authority and guidance must be provided to assure that essential raptorhabitat remains in public ownership, to facilitate sound and effective planning and management, to provide for effective public interpretation and education, to ensure continued study of the relationship of humans and these raptors, to preserve the unique and irreplaceable habitat of the conservation area, and to conserve and properly manage the other natural resources of the area in concert with maintenance of this habitat.
+&emsp;(9) Additional authority and guidance must be provided to assure that essential raptor habitat remains in public ownership, to facilitate sound and effective planning and management, to provide for effective public interpretation and education, to ensure continued study of the relationship of humans and these raptors, to preserve the unique and irreplaceable habitat of the conservation area, and to conserve and properly manage the other natural resources of the area in concert with maintenance of this habitat.
 
 &emsp;(10) An ongoing research program funded by the Bureau of Land Management and the National Guard is intended to provide information to be used in connection with future decisionmaking concerning management of all uses, including continued military use, of public lands within the Snake River Birds of Prey Area.
 
@@ -44,5 +44,5 @@ Pub. L. 111–11, title II, §2301(b), Mar. 30, 2009, 123 Stat. 1101, provided t
 
 #### Short Title of 2017 Amendment
 
-Section 1 of H.R. 2104, One Hundred Fifteenth Congress, as introduced on Apr. 20, 2017, which was enacted into law by Pub. L. 115–31, div. G, title IV, §431(a)(1), May 5, 2017, 131 Stat. 502, provided that: "This Act \[enacting provisions set out as a note under section 460iii–4 of this title\] may be cited as the 'Morley Nelson Snake River Birds of Prey National Conservation Area Boundary Modification Act of 2017'."
+Pub. L. 115–31, div. G, title IV, §431(a)(1) \[§1\], May 5, 2017, 131 Stat. 502, 842A–3, provided that: "This Act \[enacting provisions set out as a note under section 460iii–4 of this title\] may be cited as the 'Morley Nelson Snake River Birds of Prey National Conservation Area Boundary Modification Act of 2017'."
 

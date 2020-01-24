@@ -22,7 +22,7 @@ In this subchapter:
 
 #### (4) Effective price
 
-&emsp;The term "effective price" means the price calculated by the Secretary under section 8754 <sup>1</sup> of this title for peanuts to determine whether counter-cyclical payments are required to be made under that section for a crop year.
+&emsp;The term "effective price" means the price calculated by the Secretary under section8754 <sup>1</sup> of this title for peanuts to determine whether counter-cyclical payments are required to be made under that section for a crop year.
 
 #### (5) Payment acres
 

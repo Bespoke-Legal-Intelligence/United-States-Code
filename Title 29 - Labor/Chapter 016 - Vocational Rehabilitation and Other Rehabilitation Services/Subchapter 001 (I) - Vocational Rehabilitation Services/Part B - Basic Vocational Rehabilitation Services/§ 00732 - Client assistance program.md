@@ -8,7 +8,7 @@ From funds appropriated under subsection (h), the Secretary shall, in accordance
 
 No State may receive payments from its allotment under this chapter in any fiscal year unless the State has in effect a client assistance program which—
 
-&emsp;(1) has the authority to pursue legal, administrative, and other appropriate remedies to ensure the protection of rights of individuals with disabilities who are receiving treatments, services, or rehabilitation under this chapter within the State; and
+&emsp;(1) has the authority to pursue legal, administrative, and other appropriate remedies to ensure the protection of rights of individualswith disabilities who are receiving treatments, services, or rehabilitation under this chapter within the State; and
 
 &emsp;(2) meets the requirements of designation under subsection (c).
 
@@ -62,7 +62,7 @@ The agency designated under subsection (c) of this section may not bring any cla
 
 (F) For any fiscal year for which the amount appropriated under subsection (h) equals or exceeds $14,000,000, the Secretary may reserve not less than 1.8 percent and not more than 2.2 percent of such amount to provide a grant for training and technical assistance for the programs established under this section. Such training and technical assistance shall be coordinated with activities provided under section 794e(c)(1)(A) of this title.
 
-(2) The amount of an allotment to a State for a fiscal year which the Secretary determines will not be required by the State during the period for which it is available for the purpose for which allotted shall be available for reallotment by the Secretary at appropriate times to other States with respect to which such a determination has not been made, in proportion to the original allotments of such States for such fiscal year, but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use during such period, and the total of such reduction shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any such amount so reallotted to a State for a fiscal year shall be deemed to be a part of its allotment for such fiscal year.
+(2) The amount of an allotment to a State for a fiscal year which the Secretary determines will not be required by the State during the period for which it is available for the purpose for which allotted shall be available for reallotment by the Secretary at appropriate times to other States with respect to which such a determination has not been made, in proportion to theoriginal allotments of such States for such fiscal year, but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use during such period, and the total of such reduction shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any such amount so reallotted to a State for a fiscal year shall be deemed to be a part of its allotment for such fiscal year.
 
 (3) Except as specifically prohibited by or as otherwise provided in State law, the Secretary shall pay to the agency designated under subsection (c) the amount specified in the application approved under subsection (f).
 

@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 1 year after the date on which the transfer of functions specified under section 251 of this title takes effect, the Assistant Secretary of the Bureau of Border Security shall design and implement a managerial rotation program under which employees of such bureau holding positions involving supervisory or managerial responsibility and classified, in accordance with chapter 51 of title 5, as a GS–14 or above, shall—
+&emsp;&emsp;Not later than 1 year after the date on which the transfer of functions specified under section 251 of this title takes effect, the Assistant Secretary of the Bureau of Border Security shall design and implement a managerial rotation program under which employees of such bureau holding positionsinvolving supervisory or managerial responsibility and classified, in accordance with chapter 51 of title 5, as a GS–14 or above, shall—
 
 &emsp;&emsp;&emsp;(i) gain some experience in all the major functions performed by such bureau; and
 

@@ -76,7 +76,7 @@
 
 #### legislative statements
 
-Section 1112 of the House amendment represents a compromise between the House bill and Senate amendment with respect to the factors constituting cause for conversion of a case to chapter 7 or dismissal. The House amendment combines two separate factors contained in section 1112(b)(1) and section 1112(b)(2) of the Senate amendment. Section 1112(b)(1) of the House amendment permits the court to convert a case to a case under chapter 7 or to dismiss the case if there is both a continuing loss to or diminution of the estate and the absence of a reasonable likelihood of rehabilitation; requiring both factors to be present simultaneously represents a compromise from the House bill which eliminated both factors from the list of causes enumerated.
+Section 1112 of the House amendment represents a compromise between the House bill and Senate amendment with respect to the factors constituting cause for conversion of a case to chapter 7 or dismissal. The House amendment combines two separate factors contained in section 1112(b)(1) and section 1112(b)(2) of the Senate amendment. Section 1112(b)(1) of the Houseamendment permits the court to convert a case to a case under chapter 7 or to dismiss the case if there is both a continuing loss to or diminution of the estate and the absence of a reasonable likelihood of rehabilitation; requiring both factors to be present simultaneously represents a compromise from the House bill which eliminated both factors from the list of causes enumerated.
 
 Sections 1112(c) and 1112(d) of the House amendment is derived from the House bill which differs from the Senate amendment only as a matter of style.
 
@@ -88,7 +88,7 @@ Subsection (b) gives wide discretion to the court to make an appropriate disposi
 
 Subsection (c) prohibits the court from converting a case concerning a farmer or an eleemosynary institution to a liquidation case unless the debtor consents.
 
-Subsection (d) prohibits conversion of a reorganization case to a chapter 13 case unless the debtor requestsconversion and his discharge has not been granted or has been revoked.
+Subsection (d) prohibits conversion of a reorganization case to a chapter 13 case unless the debtor requests conversion and his discharge has not been granted or has been revoked.
 
 Subsection (e) reinforces section 109 by prohibiting conversion of a chapter 11 case to a case under another chapter proceedings under which the debtor is not permitted to proceed.
 

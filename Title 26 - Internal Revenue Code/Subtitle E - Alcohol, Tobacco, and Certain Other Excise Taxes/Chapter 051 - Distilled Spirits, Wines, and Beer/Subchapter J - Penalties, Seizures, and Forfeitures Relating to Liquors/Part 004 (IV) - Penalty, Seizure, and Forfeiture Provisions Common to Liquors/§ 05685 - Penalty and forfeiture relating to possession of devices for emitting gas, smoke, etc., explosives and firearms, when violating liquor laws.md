@@ -10,7 +10,7 @@ Whoever, when violating any such law, has in his possession or in his control a 
 
 #### (c) Forfeiture of firearms, devices, etc.
 
-Every such firearm or device for emitting gas, smoke, or fumes, and every such explosive, machine gun, shotgun, or rifle, in the possession or control of any person when violating any suchlaw, shall be seized and shall be forfeited and disposed of in the manner provided by section 5872.
+Every such firearm or device for emitting gas, smoke, or fumes, and every such explosive, machine gun, shotgun, or rifle, in the possession or control of any person when violating any such law, shall be seized and shall be forfeited and disposed of in the manner provided by section 5872.
 
 #### (d) Definition of machine gun
 

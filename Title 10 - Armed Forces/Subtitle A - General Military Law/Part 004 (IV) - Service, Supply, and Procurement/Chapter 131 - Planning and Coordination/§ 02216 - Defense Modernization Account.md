@@ -8,13 +8,13 @@ Establishment.—There is established in the Treasury an account to be known as 
 
 Funds Available for Account.—The Defense Modernization Account shall consist of the following:
 
-&emsp;(1) Amounts appropriated to the Defense Modernization Account for the costs of projects described in subsection (d)(1), and amounts reimbursed to the Defense Modernization Account under subsection (c)(1)(B)(iii) out of savings derived from such projects.
+&emsp;(1) Amounts appropriated to the Defense Modernization Account for the costs of projects described in subsection (d)(1), and amounts reimbursed to the Defense Modernization Account under subsection (c)(1)(B)(ii) out of savings derived from such projects.
 
 &emsp;(2) Amounts transferred to the Defense Modernization Account under subsection (c).
 
 (c)
 
-Transfers to Account.—(1)(A) Upon a determination by the Secretary of a military department, or the Secretary of Defense with respect to Defense-wide appropriations accounts, of the availability and source of funds described in subparagraph (B), the Secretary concerned may transfer to the Defense Modernization Account during any fiscal year any amount of funds available to the Secretary described in that subparagraph. Such funds may be transferred to that account only after the Secretary concerned notifies the congressional defense committees in writing of the amount and source of the proposed transfer.
+Transfers to Account.—(1)(A) Upon a determination by the Secretary of a military department, or the Secretary of Defense with respect to Defense-wide appropriations accounts, of the availability and source of funds describedin subparagraph (B), the Secretary concerned may transfer to the Defense Modernization Account during any fiscal year any amount of funds available to the Secretary described in that subparagraph. Such funds may be transferred to that account only after the Secretary concerned notifies the congressional defense committees in writing of the amount and source of the proposed transfer.
 
 (B) This subsection applies to the following funds that have been appropriated for fiscal years after fiscal year 2016 and are available to the Secretary concerned:
 
@@ -104,7 +104,7 @@ Expiration of Authority and Account.—(1) The authority under subsection (c) to
 
 (2) Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.
 
-(Added Pub. L. 104–106, div. A, title IX, §912(a)(1), Feb. 10, 1996, 110 Stat. 407; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §§1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, 117 Stat. 1586, 1587, 1611; Pub. L. 109–364, div. A, title X, §1071(a)(16), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 113–66, div. A, title X, §1084(a)(2), Dec. 26, 2013, 127 Stat. 871; Pub. L. 114–328, div. A, title VIII, §804, Dec. 23, 2016, 130 Stat. 2250.)
+(Added Pub. L. 104–106, div. A, title IX, §912(a)(1), Feb. 10, 1996, 110 Stat. 407; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §§1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, 117 Stat. 1586, 1587, 1611; Pub. L. 109–364, div. A, title X, §1071(a)(16), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 113–66, div. A, title X, §1084(a)(2), Dec. 26, 2013, 127 Stat. 871; Pub. L. 114–328, div. A, title VIII, §804, Dec. 23, 2016, 130 Stat. 2250; Pub. L. 116–92, div. A, title XVII, §1731(a)(30), Dec. 20, 2019, 133 Stat. 1814.)
 
 #### Codification
 
@@ -115,6 +115,8 @@ Another section 2216 was renumbered section 2216a of this title and subsequently
 A prior section 2216, added Pub. L. 99–661, div. A, title XIII, §1307(a)(1), Nov. 14, 1986, 100 Stat. 3980, related to annual reports on budgeting for inflation, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1301(8), Nov. 5, 1990, 104 Stat. 1668.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(1). Pub. L. 116–92 substituted "subsection (c)(1)(B)(ii)" for "subsection (c)(1)(B)(iii)".
 
 <b>2016</b>—Subsec. (b)(1). Pub. L. 114–328, §804(a), struck out "commencing" before "projects described".
 
@@ -198,7 +200,7 @@ Subsec. (k). Pub. L. 108–136, §1008(f)(1), added subsec. (k).
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

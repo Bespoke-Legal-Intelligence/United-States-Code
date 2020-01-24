@@ -11,7 +11,8 @@
 | [223a.](%C2%A7%2000223a%20-%20Ballistic%20missile%20defense%20programs%20procurement.md) | Ballistic missile defense programs: procurement. |
 | [224\.](%C2%A7%2000224%20-%20Ballistic%20missile%20defense%20programs%20display%20of%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation.md) | Ballistic missile defense programs: display of amounts for research, development, test, and evaluation. |
 | [225\.](%C2%A7%2000225%20-%20Acquisition%20accountability%20reports%20on%20the%20ballistic%20missile%20defense%20system.md) | Acquisition accountability reports on the ballistic missile defense system. |
-| \[226 to 228. | Repealed.\] |
+| [226\.](%C2%A7%2000226%20-%20Special%20operations%20forces%20display%20of%20service-common%20and%20other%20support%20and%20enabling%20capabilities.md) | Special operations forces: display of service-common and other support and enabling capabilities. |
+| \[227, 228. | Repealed.\] |
 | [229\.](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md) | Programs for combating terrorism: display of budget information. |
 | \[230. | Repealed.\] |
 | [231\.](%C2%A7%2000231%20-%20Budgeting%20for%20construction%20of%20naval%20vessels%20annual%20plan%20and%20certification.md) | Budgeting for construction of naval vessels: annual plan and certification. |
@@ -30,7 +31,9 @@
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §813(a)(1)(B), title X, §1061(b), title XVI, §§1624(b)(2), 1677(b)(2), Aug.13, 2018, 132 Stat. 1851, 1970, 2120, 2161, added items 222b, 222c, and 239b and struck out item 231a "Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification".
+<b>2019</b>—Pub. L. 116–92, div. A, title X, §1007(b), Dec. 20, 2019, 133 Stat. 1575, added item 226.
+
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §813(a)(1)(B), title X, §1061(b), title XVI, §§1624(b)(2), 1677(b)(2), Aug. 13, 2018, 132 Stat. 1851, 1970, 2120, 2161, added items 222b, 222c, and 239b and struck out item 231a "Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification".
 
 <b>2017</b>—Pub. L. 115–91, div. A, title XVI, §1676(a)(2), Dec. 12, 2017, 131 Stat. 1772, added item 239a.
 
@@ -92,7 +95,7 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 - [&sect; 00223a - Ballistic missile defense programs procurement](%C2%A7%2000223a%20-%20Ballistic%20missile%20defense%20programs%20procurement.md)
 - [&sect; 00224 - Ballistic missile defense programs display of amounts for research, development, test, and evaluation](%C2%A7%2000224%20-%20Ballistic%20missile%20defense%20programs%20display%20of%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation.md)
 - [&sect; 00225 - Acquisition accountability reports on the ballistic missile defense system](%C2%A7%2000225%20-%20Acquisition%20accountability%20reports%20on%20the%20ballistic%20missile%20defense%20system.md)
-- [&sect; 00226 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(3)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000226%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%283%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
+- [&sect; 00226 - Special operations forces display of service-common and other support and enabling capabilities](%C2%A7%2000226%20-%20Special%20operations%20forces%20display%20of%20service-common%20and%20other%20support%20and%20enabling%20capabilities.md)
 - [&sect; 00227 - Repealed. Pub. L. 104&#8211;106, div. A, title X, &sect;1061(f)(1), Feb. 10, 1996, 110 Stat. 443](%C2%A7%2000227%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%28f%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20443.md)
 - [&sect; 00228 - Repealed. Pub. L. 114&#8211;92, div. A, title X, &sect;1073(a)(1), Nov. 25, 2015, 129 Stat. 995](%C2%A7%2000228%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9392%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71073%28a%29%281%29%2C%20Nov.%2025%2C%202015%2C%20129%20Stat.%20995.md)
 - [&sect; 00229 - Programs for combating terrorism display of budget information](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md)

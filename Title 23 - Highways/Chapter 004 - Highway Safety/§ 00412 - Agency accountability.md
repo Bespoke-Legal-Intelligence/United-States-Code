@@ -30,7 +30,7 @@ Components.—Reviews under this subsection shall include—
 
 (b)
 
-Recommendations Before Submission.—In order to provide guidance to State highway safety agencies on matters that should be addressed in the goals and initiatives of the State highway safety program before the program is submitted for review, the Secretary shall provide data-based recommendations to each State at least 90 days before the date on which the program is to be submitted for approval.
+Recommendations Before Submission.—In order to provide guidance to State highway safety agencies on matters that should be addressed in the goals and initiatives of the State highwaysafety program before the program is submitted for review, the Secretary shall provide data-based recommendations to each State at least 90 days before the date on which the program is to be submitted for approval.
 
 (c)
 
@@ -82,7 +82,7 @@ The date of enactment of this section, referred to in subsec. (d), is the date o
 
 <b>2015</b>—Subsec. (f). Pub. L. 114–94 added subsec. (f).
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §31107(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "At least once every 3 years the Secretaryshall conduct a review of each State highway safety program. The review shall include a management evaluation of all grant programs funded under this chapter. The Secretary shall provide review-based recommendations on how each State could improve the management and oversight of its grant activities and may provide a management and oversight plan for such grant programs."
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §31107(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "At least once every 3 years the Secretary shall conduct a review of each State highway safety program. The review shall include a management evaluation of all grant programs funded under this chapter. The Secretary shall provide review-based recommendations on how each State could improve the management and oversight of its grant activities and may provide a management and oversight plan for such grant programs."
 
 Subsec. (f). Pub. L. 112–141, §31107(2), struck out subsec. (f) which related to GAO review.
 

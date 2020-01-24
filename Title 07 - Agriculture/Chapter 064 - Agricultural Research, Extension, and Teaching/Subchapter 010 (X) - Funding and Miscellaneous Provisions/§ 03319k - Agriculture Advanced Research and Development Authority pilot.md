@@ -196,7 +196,7 @@ In this section:
 
 #### (8) Milestone-based payments allowed
 
-&emsp;In awarding contracts and grants and entering into cooperative agreements or other transactions under paragraph (4)(E), the Secretary may—
+&emsp;In awarding contracts and grants and entering into cooperative agreements or othertransactions under paragraph (4)(E), the Secretary may—
 
 &emsp;&emsp;(A) use milestone-based awards and payments; and
 

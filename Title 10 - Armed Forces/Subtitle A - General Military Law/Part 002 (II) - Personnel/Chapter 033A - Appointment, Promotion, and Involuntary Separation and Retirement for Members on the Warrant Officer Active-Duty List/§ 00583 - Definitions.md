@@ -30,7 +30,7 @@ In this chapter:
 
 #### References in Text
 
-Section 41a of title 14, referred to in par. (4), was redesignated section 2012 of title 14 by Pub. L. 115–282,title I, §112(b), Dec. 4, 2018, 132 Stat. 4216, and references to section 41a of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 41a of title 14, referred to in par. (4), was redesignated section 2102 of title 14 by Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216, and references to section 41a of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 #### Amendments
 

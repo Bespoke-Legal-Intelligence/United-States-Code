@@ -160,7 +160,7 @@ Subsec. (e)(1). Pub. L. 114–94, §10001(b)(4), substituted "those paragraphs,"
 
 Subsec. (b)(1)(A). Pub. L. 113–159, §1103(2), substituted "for each fiscal year ending before October 1, 2014, and for the period beginning on October 1, 2014, and ending on May 31, 2015," for "for each fiscal year through 2014,".
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §34002(1), substituted "fiscal year through 2014," for "of fiscal years 2006 through 2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012," in introductory provisions.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §34002(1), substituted "fiscal year through 2014," for "of fiscal years2006 through 2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012," in introductory provisions.
 
 Pub. L. 112–140, §§1(c), 203(b)(1), temporarily substituted "ending on July 6, 2012," for "ending on June 30, 2012," in introductory provisions. See Termination Date of 2012 Amendment note below.
 
@@ -212,7 +212,7 @@ Pub. L. 109–37, §8(b), amended heading and text of par. (4) generally, substi
 
 Pub. L. 109–35, §8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 42 weeks of fiscal year 2005 for similar provisions relating to use of funds for first 292 days of fiscal year 2005.
 
-Pub. L. 109–20, §8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 292 days of fiscal year 2005 for similar provisions relating to use of funds for first 9 months of fiscal year 2005.
+Pub. L. 109–20, §8(b), amended heading and text of par. (4) generally, substituting provisions relating touse of funds for first 292 days of fiscal year 2005 for similar provisions relating to use of funds for first 9 months of fiscal year 2005.
 
 Pub. L. 109–14, §8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 9 months of fiscal year 2005 for similar provisions relating to use of funds for fiscal year 2004.
 
@@ -324,7 +324,7 @@ Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 10102 of Pub. 
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, andprovisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1984 Amendment
 

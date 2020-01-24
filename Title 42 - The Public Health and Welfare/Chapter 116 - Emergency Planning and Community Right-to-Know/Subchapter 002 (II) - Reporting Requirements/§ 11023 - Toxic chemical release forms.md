@@ -24,11 +24,15 @@ The owner or operator of a facility subject to the requirements of this section 
 
 #### (2) Discretionary application to additional facilities
 
-&emsp;The Administrator, on his own motion or at the request of a Governor of a State (with regard to facilities located in that State), may apply the requirements of this section to the owners and operators of any particular facility that manufactures, processes, or otherwise uses a toxic chemical listed under subsection (c) if the Administrator determines that such action is warranted on the basis of toxicity of the toxic chemical, proximity to other facilities that release the toxic chemical or to population centers, the history of releases of such chemical at such facility, or such other factors as the Administrator deems appropriate.
+&emsp;The Administrator, on his own motion or at the request of a Governor of a State (with regard to facilities located in that State), may apply the requirements of this section to the owners and operators of any particular facility that manufactures, processes, or otherwiseuses a toxic chemical listed under subsection (c) if the Administrator determines that such action is warranted on the basis of toxicity of the toxic chemical, proximity to other facilities that release the toxic chemical or to population centers, the history of releases of such chemical at such facility, or such other factors as the Administrator deems appropriate.
 
 #### (c) Toxic chemicals covered
 
-The toxic chemicals subject to the requirements of this section are those chemicals on the list in Committee Print Number 99–169 of the Senate Committee on Environment and Public Works, titled "Toxic Chemicals Subject to Section 313 of the Emergency Planning and Community Right-To-Know Act of 1986" \[42 U.S.C. 11023\] (including any revised version of the list as may be made pursuant to subsection (d) or (e)).
+The toxic chemicals subject to the requirements of this section are—
+
+&emsp;(1) the chemicals on the list in Committee Print Number 99–169 of the Senate Committee on Environment and Public Works, titled "Toxic Chemicals Subject to Section 313 of the Emergency Planning and Community Right-To-Know Act of 1986" \[42 U.S.C. 11023\] (including any revised version of the list as may be made pursuant to subsection (d) or (e)); and
+
+&emsp;(2) the chemicals included on such list under subsections (b)(1), (c)(1), and (d)(3) of section 8921 of title 15.
 
 #### (d) Revisions by Administrator
 
@@ -176,7 +180,7 @@ The release forms required under this section are intended to provide informatio
 
 &emsp;&emsp;(B) The extent to which the information is (i) readily available to potential users from other sources, such as State reporting programs, and (ii) provided to the Administrator under another Federal law or through a State program.
 
-&emsp;&emsp;(C) The extent to which the modification would impose additional and unreasonable burdens on facilities subject to the reporting requirements under this section.
+&emsp;&emsp;(C) The extent to which the modification would impose additional and unreasonableburdens on facilities subject to the reporting requirements under this section.
 
 #### (4) 5-year review
 
@@ -188,7 +192,7 @@ The release forms required under this section are intended to provide informatio
 
 #### (6) Judicial review
 
-&emsp;In any judicial review of a rulemaking which establishes a modification under this subsection, a court may hold unlawful and setaside agency action, findings, and conclusions found to be unsupported by substantial evidence.
+&emsp;In any judicial review of a rulemaking which establishes a modification under this subsection, a court may hold unlawful and set aside agency action, findings, and conclusions found to be unsupported by substantial evidence.
 
 #### (7) Applicability
 
@@ -236,7 +240,7 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 &emsp;(B) Any information acquired under this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator or any officer, employee, or representative has access under this section if made public would divulge information entitled to protection under section 1905 of title 18, such information or part shall be considered confidential in accordance with the purposes of that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this section.
 
-&emsp;(C) The Administrator may promulgate regulations prescribing procedures for collecting mass balance information under this paragraph.
+&emsp;(C) The Administrator may promulgate regulations prescribing procedures for collectingmass balance information under this paragraph.
 
 &emsp;(D) For purposes of collecting mass balance information under subparagraph (A), the Administrator may require the submission of information by a State or facility.
 
@@ -244,7 +248,11 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 &emsp;For purposes of this subsection, the term "mass balance" means an accumulation of the annual quantities of chemicals transported to a facility, produced at a facility, consumed at a facility, used at a facility, accumulated at a facility, released from a facility, and transported from a facility as a waste or as a commercial product or byproduct or component of a commercial product or byproduct.
 
-(Pub. L. 99–499, title III, §313, Oct. 17, 1986, 100 Stat. 1741.)
+(Pub. L. 99–499, title III, §313, Oct. 17, 1986, 100 Stat. 1741; Pub. L. 116–92, div. F, title LXXIII, §7321(f), Dec. 20, 2019, 133 Stat. 2281.)
+
+#### Amendments
+
+<b>2019</b>—Subsec. (c). Pub. L. 116–92 substituted "are—" and "(1) the chemicals" for "are those chemicals", and added par. (2).
 
 #### Expediting Community Right-to-Know Initiatives
 

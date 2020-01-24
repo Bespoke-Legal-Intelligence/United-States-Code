@@ -4,7 +4,7 @@
 
 Congress makes the following findings:
 
-&emsp;(1) The National Science Foundation Innovation Corps (referred to in this section as the "I-Corps") was established to foster a national innovation ecosystem by encouraging institutions, scientists, engineers, and entrepreneursto identify and explore the innovation and commercial potential of National Science Foundation-funded research well beyond the laboratory.
+&emsp;(1) The National Science Foundation Innovation Corps (referred to in this section as the "I-Corps") was established to foster a national innovation ecosystem by encouraging institutions, scientists, engineers, and entrepreneurs to identify and explore the innovation and commercial potential of National Science Foundation-funded research well beyond the laboratory.
 
 &emsp;(2) Through I-Corps, the Foundation invests in entrepreneurship and commercialization education, training, and mentoring that can ultimately lead to the practical deployment of technologies, products, processes, and services that improve the Nation's competitiveness, promote economic growth, and benefit society.
 
@@ -22,7 +22,7 @@ It is the sense of Congress that—
 
 &emsp;(2) I-Corps is a useful tool in promoting the commercialization of federally funded research by training researchers funded by the Foundation in entrepreneurship and commercialization;
 
-&emsp;(3) I-Corps should continue to build a network of entrepreneurs, educators, mentors, and institutions and support specialized education and training;
+&emsp;(3) I-Corps should continue to build a network of entrepreneurs, educators, mentors,and institutions and support specialized education and training;
 
 &emsp;(4) researchers other than those funded by the Foundation may also benefit from the education and training described in paragraph (3); and
 

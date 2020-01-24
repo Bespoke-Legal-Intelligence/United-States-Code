@@ -20,7 +20,7 @@
 
 (6) For purposes of this section, the terms "retirement" and "retire" include removal from office under section 377(d) of title 28 on the sole ground of mental or physical disability.
 
-(7) In the case of a bankruptcy judge or magistrate judge who receives a distribution from the Thrift Savings Plan and who later receives an annuity under section 377 of title 28, that annuity shall be offset by an amount equal to the amount of the distribution which represents the Government's contribution to that person's Thrift Savings Account, without regard to earnings attributable to that amount. Where such an offset would exceed 50 percent of the annuity to be received in the first year, the offset may be divided equally over the first 2 years in which that person receives the annuity.
+(7) In the case of a bankruptcy judge or magistrate judge who receives a distribution from the Thrift Savings Plan and who later receives an annuity under section 377 of title 28, that annuity shall be offset by an amount equal to the amount of the distribution which represents the Government's contribution to that person's Thrift Savings Account, without regard to earnings attributable to that amount. Where such an offset would exceed 50 percent of the annuity tobe received in the first year, the offset may be divided equally over the first 2 years in which that person receives the annuity.
 
 (8) Notwithstanding paragraph (4), if any bankruptcy judge or magistrate judge retires under circumstances making such bankruptcy judge or magistrate judge eligible to make an election under subsection (b) of section 8433, and such bankruptcy judge's or magistrate judge's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
@@ -52,7 +52,7 @@ Subsec. (b)(8). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(
 
 Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(b)(2)(B)\]\], which directed that par. (8) be amended by striking out "unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b)", was executed by striking out "unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under such subsection (b)" before period at end, to reflect the probable intent of Congress.
 
-<b>1994</b>—Subsec. (b)(4)(B). Pub. L. 103–226, §9(f)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Section 8433(c) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title28 or section 2(c) of the Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988; except that the period described in paragraph (3) of section 8433(c) commences on or after the date on which payment of the bankruptcy judge's or magistrate's annuity under section 377 of title 28 commences."
+<b>1994</b>—Subsec. (b)(4)(B). Pub. L. 103–226, §9(f)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Section 8433(c) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988; except that the period described in paragraph (3) of section 8433(c) commences on or after the date on which payment of the bankruptcy judge's or magistrate's annuity under section 377 of title 28 commences."
 
 Subsec. (b)(4)(C). Pub. L. 103–226, §9(f)(2), substituted "Section 8433(b)" for "Section 8433(d)".
 
@@ -78,7 +78,7 @@ Words "magistrate judge", "magistrate judges", and "magistrate judge's" substitu
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under suchamendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendment
 

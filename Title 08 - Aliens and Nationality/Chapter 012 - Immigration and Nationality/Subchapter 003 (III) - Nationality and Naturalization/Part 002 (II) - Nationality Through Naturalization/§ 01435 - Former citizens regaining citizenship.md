@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-Any person formerly a citizen of the United States who (1) prior to September 22, 1922, lost United States citizenship by marriage to analien, or by the loss of United States citizenship of such person's spouse, or (2) on or after September 22, 1922, lost United States citizenship by marriage to an alien ineligible to citizenship, may if no other nationality was acquired by an affirmative act of such person other than by marriage be naturalized upon compliance with all requirements of this subchapter, except—
+Any person formerly a citizen of the United States who (1) prior to September 22, 1922, lost United States citizenship by marriage to an alien, or by the loss of United States citizenship of such person's spouse, or (2) on or after September 22, 1922, lost United States citizenship by marriage to an alien ineligible to citizenship, may if no other nationality was acquired by an affirmative act of such person other than by marriage be naturalized upon compliance with all requirements of this subchapter, except—
 
 &emsp;(1) no period of residence or specified period of physical presence within the United States or within the State or district of the Service in the United States where the application is filed shall be required; and
 

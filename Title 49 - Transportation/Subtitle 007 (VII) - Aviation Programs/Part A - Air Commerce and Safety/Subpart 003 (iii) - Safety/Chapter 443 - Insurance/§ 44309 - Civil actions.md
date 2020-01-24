@@ -26,11 +26,11 @@ Procedure.—To the extent applicable, the procedure in an action brought under 
 
 Venue and Joinder.—(1) A civil action under subsection (a) of this section may be brought in the judicial district for the District of Columbia or in the judicial district in which the plaintiff or the agent of the plaintiff resides if the plaintiff resides in the United States. If the plaintiff does not reside in the United States, the action may be brought in the judicial district for the District of Columbia or in the judicial district in which the Attorney General agrees to accept service.
 
-(2) An interested person may be joined as a party to a civil action brought under subsection\(a) of this section initially or on motion of either party to the action.
+(2) An interested person may be joined as a party to a civil action brought under subsection (a) of this section initially or on motion of either party to the action.
 
 (c)
 
-Time Requirements.—(1) Except as provided under paragraph (2), an insurance claim made under this chapter against the United States shall be forever barred unless it is presented in writing to the Secretary of Transportation within two years after the date on which the loss event occurred. Any civil action arising out of the denial of such a claim shall be filed by not later than six months after the date of the mailing, by certified or registered mail, of notice of final denial of the claim by the Secretary.
+Time Requirements.—(1) Except as provided under paragraph (2), an insurance claimmade under this chapter against the United States shall be forever barred unless it is presented in writing to the Secretary of Transportation within two years after the date on which the loss event occurred. Any civil action arising out of the denial of such a claim shall be filed by not later than six months after the date of the mailing, by certified or registered mail, of notice of final denial of the claim by the Secretary.
 
 (2)(A) For claims based on liability to persons with whom the insured has no privity of contract, an insurance claim made under the authority of this chapter against the United States shall be forever barred unless it is presented in writing to the Secretary of Transportation by not later than the earlier of—
 

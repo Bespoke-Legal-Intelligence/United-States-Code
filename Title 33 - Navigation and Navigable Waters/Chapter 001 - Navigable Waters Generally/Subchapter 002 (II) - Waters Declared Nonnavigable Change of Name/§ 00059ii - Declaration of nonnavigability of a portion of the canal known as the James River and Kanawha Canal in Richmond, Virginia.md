@@ -2,7 +2,7 @@
 
 #### (a) Canal declared nonnavigable
 
-The portion of the canal known as the James River and Kanawha Canal in Richmond, Virginia, located between the Great Ship Lock on the east and the limits of the City of Richmond on the west is hereby declared to be a nonnavigable waterway of the United States for purposes of subtitle II of title 46.
+The portion of the canal known as the James River and Kanawha Canal in Richmond, Virginia, located between the Great Ship Lock on the east and the limits of the City of Richmondon the west is hereby declared to be a nonnavigable waterway of the United States for purposes of subtitle II of title 46.
 
 #### (b) Ensuring public safety
 

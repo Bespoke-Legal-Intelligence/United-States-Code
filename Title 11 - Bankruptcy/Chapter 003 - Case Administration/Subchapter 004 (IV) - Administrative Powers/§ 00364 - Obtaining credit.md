@@ -1,6 +1,6 @@
 ### §364. Obtaining credit
 
-(a) If the trustee is authorized to operate the business of the debtor under section 721, 1108, 1203, 1204, or 1304 of this title, unless the court orders otherwise, the trustee may obtain unsecured credit and incur unsecured debt in the ordinary course of business allowable under section 503(b)(1) of this title as an administrative expense.
+(a) If the trustee is authorized to operate the business of the debtor under section 721, 1108, 1183, 1184, 1203, 1204, or 1304 of this title, unless the court orders otherwise, the trustee may obtain unsecured credit and incur unsecured debt in the ordinary course of business allowable under section 503(b)(1) of this title as an administrative expense.
 
 (b) The court, after notice and a hearing, may authorize the trustee to obtain unsecured credit or to incur unsecured debt other than under subsection (a) of this section, allowable under section 503(b)(1) of this title as an administrative expense.
 
@@ -22,9 +22,9 @@
 
 (e) The reversal or modification on appeal of an authorization under this section to obtain credit or incur debt, or of a grant under this section of a priority or a lien, does not affect the validity of any debt so incurred, or any priority or lien so granted, to an entity that extended such credit in good faith, whether or not such entity knew of the pendency of the appeal, unless such authorization and the incurring of such debt, or the granting of such priority or lien, were stayed pending appeal.
 
-(f) Except with respect to an entity that is an underwriter as defined in section 1145(b) of this title, section 5 of the Securities Act of 1933, the Trust Indenture Act of 1939, and any State or local law requiring registration for offer or sale of a security or registration or licensing of anissuer of, underwriter of, or broker or dealer in, a security does not apply to the offer or sale under this section of a security that is not an equity security.
+(f) Except with respect to an entity that is an underwriter as defined in section 1145(b) of this title, section 5 of the Securities Act of 1933, the Trust Indenture Act of 1939, and any State or local law requiring registration for offer or sale of a security or registration or licensing of an issuer of, underwriter of, or broker or dealer in, a security does not apply to the offer or sale under this section of a security that is not an equity security.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2574; Pub. L. 99–554, title II, §257(l), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title V, §501(d)(9), Oct. 22, 1994, 108 Stat. 4144.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2574; Pub. L. 99–554, title II, §257(l), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title V, §501(d)(9), Oct. 22, 1994, 108 Stat. 4144; Pub. L. 116–54, §4(a)(7), Aug. 23, 2019, 133 Stat. 1086.)
 
 #### Historical and Revision Notes
 
@@ -38,7 +38,7 @@ This section is derived from provisions in current law governing certificates of
 
 Subsection (a) authorizes the obtaining of unsecured credit and the incurring of unsecured debt in the ordinary course of business if the business of the debtor is authorized to be operated under section 721, 1108, or 1304. The debts so incurred are allowable as administrative expenses under section 503(b)(1). The court may limit the estate's ability to incur debt under this subsection.
 
-Subsection (b) permits the court to authorize the trustee to obtain unsecured credit and incur unsecured debts other than in the ordinary course of business, such as in order to wind up a liquidation case, or to obtain a substantial loan in an operating case. Debt incurred under this subsection is allowable as an administrative expense under section 503(b)(1).
+Subsection (b) permits the court to authorize the trustee to obtain unsecured credit and incur unsecureddebts other than in the ordinary course of business, such as in order to wind up a liquidation case, or to obtain a substantial loan in an operating case. Debt incurred under this subsection is allowable as an administrative expense under section 503(b)(1).
 
 Subsection (c) is closer to the concept of certificates of indebtedness in current law. It authorizes the obtaining of credit and the incurring of debt with some special priority, if the trustee is unable to obtain unsecured credit under subsection (a) or (b). The various priorities are (1) with priority over any or all administrative expenses: (2) secured by a lien on unencumbered property of the estate; or (3) secured by a junior lien on encumbered property. The priorities granted under this subsection do not interfere with existing property rights.
 
@@ -56,11 +56,17 @@ The Trust Indenture Act of 1939, referred to in subsec. (f), is title III of act
 
 #### Amendments
 
+<b>2019</b>—Subsec. (a). Pub. L. 116–54 inserted "1183, 1184," after "1108,".
+
 <b>1994</b>—Subsec. (a). Pub. L. 103–394, §501(d)(9)(A), substituted "1203, 1204, or 1304" for "1304, 1203, or 1204".
 
 Subsec. (f). Pub. L. 103–394, §501(d)(9)(B), struck out "(15 U.S.C. 77e)" after "Act of 1933" and "(15 U.S.C. 77aaa et seq.)" after "Act of 1939".
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–554 inserted reference to sections 1203 and 1204 of this title.
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

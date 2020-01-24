@@ -6,7 +6,7 @@
 
 (ii) For purposes of this subparagraph and section 5110 of this title, the earlier of the following dates shall be treated as the date of the receipt of the survivor's application for benefits described in clause (i):
 
-&emsp;(I) The date on which the survivor of a veteran (or the representative of such a survivor)notifies the Secretary of the death of the veteran through a death certificate or other relevant evidence that establishes entitlement to survivors' benefits identified in clause (i).
+&emsp;(I) The date on which the survivor of a veteran (or the representative of such a survivor) notifies the Secretary of the death of the veteran through a death certificate or other relevant evidence that establishes entitlement to survivors' benefits identified in clause (i).
 
 &emsp;(II) The head of any other department or agency of the Federal Government notifies the Secretary of the death of the veteran.
 
@@ -146,7 +146,7 @@ Elements.—The plan required by subsection (a) shall include, at a minimum, the
 
 &emsp;&emsp;"(B) any retraining of existing employees that may be required to carry out such system or to process such claims.
 
-&emsp;"(9) Identification of the costs to the Department of Veterans Affairs of the training identified under paragraph (8) and any additional training staff and any additional training facilities that will be required to provide such training.
+&emsp;"(9) Identification of the costs to the Department of Veterans Affairs of the training identified underparagraph (8) and any additional training staff and any additional training facilities that will be required to provide such training.
 
 &emsp;"(10) A description of the modifications to the information technology systems of the Administration and the Board that the Administration and the Board require to carry out the new appeals system, including cost estimates and a timeline for making the modifications.
 
@@ -174,7 +174,7 @@ Elements.—The plan required by subsection (a) shall include, at a minimum, the
 
 &emsp;"(15) A timeline, including interim milestones, for promulgating such regulations as may be necessary to carry out the new appeals system and a comparison with historical averages for time required to promulgate regulations of similar complexity and scope.
 
-&emsp;"(16) An outline of the circumstances under which claimants with pending appeals of decisions on legacyclaims would be authorized to have their appeals reviewed under the new appeals system.
+&emsp;"(16) An outline of the circumstances under which claimants with pending appeals of decisions on legacy claims would be authorized to have their appeals reviewed under the new appeals system.
 
 &emsp;"(17) A delineation of the key goals and milestones for reducing the number of pending appeals that are not processed under the new appeals system, including the expected number of appeals, remands, and hearing requests at the Administration and the Board each year, beginning with the one year period beginning on the date of the enactment of this Act \[Aug. 23, 2017\], until there are no longer any appeals pending before the Administration or the Board for a decision on a legacy claim.
 
@@ -378,7 +378,7 @@ Requirements.—The Secretary shall—
 
 &emsp;&emsp;"(F)
 
-Hearings.—Notwithstanding section 7107 of title 38, United States Code, the Secretary may not provide hearings with respect to fully developed appeals under the program. If a claimant requests to hold a hearing pursuant to such section 7107, such request shall be deemed to be an election to revert to the standard appeals process pursuant to paragraph (2)(D).
+Hearings.—Notwithstanding section 7107 of title 38, United States Code, the Secretary may notprovide hearings with respect to fully developed appeals under the program. If a claimant requests to hold a hearing pursuant to such section 7107, such request shall be deemed to be an election to revert to the standard appeals process pursuant to paragraph (2)(D).
 
 &emsp;"(4)
 
@@ -580,7 +580,7 @@ In general.—The Secretary of Veterans Affairs shall carry out a pilot program 
 
 &emsp;"(2)
 
-Duration of pilot program.—The pilot program under this subsection shall be carried out during the one-year period beginning on the date that is 60 days after the date of the enactment of this Act \[Oct. 10, 2008\].
+Duration of pilot program.—The pilot program under this subsection shall be carried out during the one-year period beginning on the date that is60 days after the date of the enactment of this Act \[Oct. 10, 2008\].
 
 &emsp;"(3)
 
@@ -620,7 +620,7 @@ Duration of pilot program.—The pilot program under this subsection shall be ca
 
 &emsp;"(3)
 
-Program locations.—The pilot program under this subsection shall be carried out at four regionaloffices of the Department selected by the Secretary for purposes of such pilot program.
+Program locations.—The pilot program under this subsection shall be carried out at four regional offices of the Department selected by the Secretary for purposes of such pilot program.
 
 &emsp;"(4)
 
@@ -742,7 +742,7 @@ Information Technology.—The plan developed under subsection (a)(2) shall inclu
 
 &emsp;&emsp;&emsp;"(i) provides the capability to such members, veterans, and dependents to view applications for benefits submitted online; and
 
-&emsp;&emsp;&emsp;"(ii) complies with the provisions of subchapter III of chapter 35 of title 44, United States Code,section 552a of title 5, United States Code, and other relevant security policies and guidelines.
+&emsp;&emsp;&emsp;"(ii) complies with the provisions of subchapter III of chapter 35 of title 44, United States Code, section 552a of title 5, United States Code, and other relevant security policies and guidelines.
 
 &emsp;"(4) The use of electronic examination templates in conjunction with the schedule for rating disabilities under section 1155 of title 38, United States Code.
 
@@ -806,7 +806,7 @@ Licensure of Contract Physicians.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding any law regarding the licensure of physicians, a physician described in paragraph (2) may conduct an examination pursuant to a contract entered into under subsection (b) at any location in any State, the District of Columbia, or a Commonwealth, territory, or possession of the United States, so long as the examination is within the scope of the authorized duties under such contract.
+In general.—Notwithstanding any law regarding the licensure of physicians, a physician describedin paragraph (2) may conduct an examination pursuant to a contract entered into under subsection (b) at any location in any State, the District of Columbia, or a Commonwealth, territory, or possession of the United States, so long as the examination is within the scope of the authorized duties under such contract.
 
 &emsp;"(2)
 

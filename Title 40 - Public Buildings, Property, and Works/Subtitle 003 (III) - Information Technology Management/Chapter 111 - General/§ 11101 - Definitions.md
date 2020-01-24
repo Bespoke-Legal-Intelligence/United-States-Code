@@ -4,7 +4,7 @@ In this subtitle, the following definitions apply:
 
 &emsp;(1)
 
-Commercial item.—The term "commercial item" has the meaning given that term in section 103 of title 41.
+Commercial product.—The term "commercial product" has the meaning given that term in section 103 of title 41.
 
 &emsp;(2)
 
@@ -37,10 +37,6 @@ Information technology.—The term "information technology"—
 &emsp;&emsp;(C) does not include any equipment acquired by a federal contractor incidental to a federal contract.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1235; Pub. L. 108–199, div. F, title V, §535(b), Jan. 23, 2004, 118 Stat. 345; Pub. L. 111–350, §5(l)(24), Jan. 4, 2011, 124 Stat. 3852; Pub. L. 115–232, div. A, title VIII, §836(g)(7)(A), Aug. 13, 2018, 132 Stat. 1874.)
-
-#### Amendment of Paragraph (1)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(g)(7)(A), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (1) of this section is amended by striking "Commercial item.—The term 'commercial item' has" and inserting "Commercial product.—The term 'commercial product' has". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -84,7 +80,7 @@ Ex. Ord. No. 13011, July 16, 1996, 61 F.R. 37657, as amended by Ex. Ord. No. 132
 
 Ex. Ord. No. 13103, Sept. 30, 1998, 63 F.R. 53273, provided:
 
-The United States Government is the world's largest purchaser of computer-related services and equipment, purchasing more than $20 billion annually. At a time when a critical component in discussions with our international trading partners concerns their efforts to combat piracy of computer software and other intellectual property, it is incumbent on the United States to ensure that its own practices as a purchaser and user of computer software are beyond reproach. Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+The United States Government is the world's largest purchaser of computer-related services and equipment, purchasing more than $20 billion annually. At a time when a critical component in discussions with ourinternational trading partners concerns their efforts to combat piracy of computer software and other intellectual property, it is incumbent on the United States to ensure that its own practices as a purchaser and user of computer software are beyond reproach. Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. It shall be the policy of the United States Government that each executive agency shall work diligently to prevent and combat computer software piracy in order to give effect to copyrights associated with computer software by observing the relevant provisions of international agreements in effect in the United States, including applicable provisions of the World Trade Organization Agreement on Trade-Related Aspects of Intellectual Property Rights, the Berne Convention for the Protection of Literary and Artistic Works, and relevant provisions of Federal law, including the Copyright Act.
 

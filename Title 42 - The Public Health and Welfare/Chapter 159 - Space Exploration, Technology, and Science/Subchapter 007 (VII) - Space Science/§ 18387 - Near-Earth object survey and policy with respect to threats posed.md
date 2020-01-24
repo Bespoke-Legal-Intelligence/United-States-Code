@@ -6,7 +6,7 @@ Congress reaffirms the policy set forth in section 20102(g) of title 51 relating
 
 #### (b) Implementation
 
-The Director of the OSTP shall implement, before September 30, 2012, a policy for notifying Federal agencies and relevant emergency response institutions of an impending near-Earth object threat if near-term public safety is at risk, and assign a Federal agency or agencies to be responsible for protecting the United States and working with the international community on such threats.
+The Director of the OSTP shall implement, before September 30, 2012, a policy for notifying Federal agencies and relevant emergency response institutions of an impending near-Earth object threat if near-term public safety is at risk, and assign a Federal agency or agencies to be responsible for protecting the United Statesand working with the international community on such threats.
 
 (Pub. L. 111–267, title VIII, §808, Oct. 11, 2010, 124 Stat. 2834.)
 

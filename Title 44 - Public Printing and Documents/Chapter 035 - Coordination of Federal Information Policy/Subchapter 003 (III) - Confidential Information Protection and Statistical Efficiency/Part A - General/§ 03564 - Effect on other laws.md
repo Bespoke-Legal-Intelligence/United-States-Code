@@ -62,5 +62,5 @@ Section 6103 of the Internal Revenue Code of 1986, referred to in subsec. (h), i
 
 #### Effective Date
 
-Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Date of 2019 Amendment note under section 306 of Title 5, Government Organization and Employees.
+Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Dateof 2019 Amendment note under section 306 of Title 5, Government Organization and Employees.
 

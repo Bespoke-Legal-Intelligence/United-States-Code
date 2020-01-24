@@ -2,7 +2,7 @@
 
 #### (a) Earnings and profits
 
-Except as provided in section 312(k)(4), for purposes of this subpart, the earnings and profits of any foreign corporation, and the deficit in earnings and profits of any foreign corporation, for any taxable year shall be determined according to rules substantially similar to those applicable to domestic corporations, under regulations prescribed by the Secretary. In determining such earnings and profits, or the deficit in such earnings and profits, the amount of any illegal bribe, kickback, or other payment (within the meaning of section 162(c)) shall not be taken into account to decrease such earnings and profits or to increase such deficit. The payments referred to in the preceding sentence are payments which would be unlawful under the Foreign Corrupt Practices Act of 1977 if the payor were a United States person.
+Except as provided in section 312(k)(4), for purposes of this subpart, the earnings and profits of any foreign corporation, and the deficit in earnings and profits of any foreign corporation, for any taxable year shall be determined according to rules substantially similar to those applicable to domestic corporations, under regulations prescribed by the Secretary. In determining such earnings and profits, or the deficit in such earnings and profits, the amount of any illegal bribe, kickback, or other payment (within the meaning of section 162(c)) shall not be taken into account to decrease such earnings and profits or to increase such deficit. The payments referred to in the preceding sentence are paymentswhich would be unlawful under the Foreign Corrupt Practices Act of 1977 if the payor were a United States person.
 
 #### (b) Blocked foreign income
 
@@ -68,7 +68,7 @@ Under regulations prescribed by the Secretary, no part of the earnings and profi
 
 &emsp;&emsp;&emsp;(i) the foreign-source portion of such dividend shall be treated for purposes of section 951(a)(1)(A) as subpart F income of the selling controlled foreign corporation for such taxable year,
 
-&emsp;&emsp;&emsp;(ii) a United States shareholder with respect to the selling controlled foreign corporation shall include in gross income for the taxable year of the shareholder with or within which such taxable year of the controlled foreign corporation ends an amount equal to the shareholder's pro rata share (determined in the same manner as under section 951(a)(2)) of the amount treated as subpart F income under clause (i), and
+&emsp;&emsp;&emsp;(ii) a United States shareholder with respect to the selling controlled foreign corporation shall include in gross income for the taxable year of the shareholder with or within which such taxable year of the controlled foreign corporation ends an amount equal to the shareholder's pro rata share (determined in the same manner asunder section 951(a)(2)) of the amount treated as subpart F income under clause (i), and
 
 &emsp;&emsp;&emsp;(iii) the deduction under section 245A(a) shall be allowable to the United States shareholder with respect to the subpart F income included in gross income under clause (ii) in the same manner as if such subpart F income were a dividend received by the shareholder from the selling controlled foreign corporation.
 

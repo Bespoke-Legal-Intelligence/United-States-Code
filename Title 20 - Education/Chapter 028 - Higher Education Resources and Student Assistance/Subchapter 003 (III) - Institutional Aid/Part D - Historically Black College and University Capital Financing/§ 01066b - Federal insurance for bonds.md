@@ -54,7 +54,7 @@ Any insurance agreement described in subsection (a) of this section shall provid
 
 &emsp;(2) The Federal liability for delinquencies and default for bonds guaranteed under this part shall only become effective upon the exhaustion of all the funds held in the escrow account described in subsection (b)(8).
 
-&emsp;(3) The Secretary shall create a letter of credit authorizing the Department of theTreasury to disburse funds to the designated bonding authority or its assignee.
+&emsp;(3) The Secretary shall create a letter of credit authorizing the Department of the Treasury to disburse funds to the designated bonding authority or its assignee.
 
 &emsp;(4) The letter of credit shall be drawn upon in the amount determined by paragraph (5) of this subsection upon the certification of the designated bonding authority to the Secretary or the Secretary's designee that there is a delinquency on 1 or more loans and there are insufficient funds available from loan repayments and the escrow account to make a scheduled payment of principal and interest on the bonds.
 
@@ -74,7 +74,7 @@ Subject to subsection (c)(1) the full faith and credit of the United States is p
 
 Notwithstanding any other provision of law, a qualified bond guaranteed under this part may be sold to any party that offers terms that the Secretary determines are in the best interest of the eligible institution.
 
-(Pub. L. 89–329, title III, §343, formerly title VII, §723, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 743; amended Pub. L. 103–382, title III, §360C, Oct. 20, 1994, 108 Stat. 3972; renumbered title III, §343, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(5), 306(b), Oct. 7, 1998, 112 Stat. 1636, 1637, 1646; Pub. L. 110–315, title III, §§314(b), 320(2), Aug. 14, 2008, 122 Stat. 3181, 3187.)
+(Pub. L. 89–329, title III, §343, formerly title VII, §723, as added Pub. L. 102–325, title VII, §704,July 23, 1992, 106 Stat. 743; amended Pub. L. 103–382, title III, §360C, Oct. 20, 1994, 108 Stat. 3972; renumbered title III, §343, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(5), 306(b), Oct. 7, 1998, 112 Stat. 1636, 1637, 1646; Pub. L. 110–315, title III, §§314(b), 320(2), Aug. 14, 2008, 122 Stat. 3181, 3187.)
 
 #### References in Text
 

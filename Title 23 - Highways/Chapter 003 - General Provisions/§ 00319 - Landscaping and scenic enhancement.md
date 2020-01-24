@@ -10,7 +10,7 @@ Planting of Wildflowers.—
 
 &emsp;(1)
 
-General rule.—The Secretary shall require the planting of native wildflower seeds or seedlings, or both, as part of any landscaping project under this section. At least ¼ of 1 percent of the funds expended for such landscaping project shall be used for such plantings.
+General rule.—The Secretary shall require the planting of native wildflower seeds or seedlings, or both, as part of any landscaping project under this section. At least ¼ of 1 percent of the funds expended for suchlandscaping project shall be used for such plantings.
 
 &emsp;(2)
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 90–495 effective August 23, 1968, see section 37 of Pub. 
 
 #### Continuing Availability of Appropriated Funds for Appropriation, Obligation, and Expenditure
 
-Pub. L. 94–280, title I, §136(b), May 5, 1976, 90 Stat. 443, provided that: "All sums authorized to be appropriated to carry out section 319(b) of title 23, United States Code \[former subsec. (b) of this section\], as in effect immediately before the date of enactment of this section\[May 5, 1976\] shall continue to be available for appropriation, obligation, and expenditure in accordance with such section 319(b) \[former subsec. (b) of this section\], notwithstanding the amendment made by the subsection (a) of this section \[to this section\]."
+Pub. L. 94–280, title I, §136(b), May 5, 1976, 90 Stat. 443, provided that all sums authorized to be appropriated to carry out this section as in effect immediately before May 5, 1976, would continue to be available for appropriation, obligation, and expenditure in accordance with former subsec. (b) of this section.
 
 #### National Scenic Highway System Study and User Access Study for Parks and Recreation Areas
 

@@ -2,7 +2,7 @@
 
 In this chapter:
 
-&emsp;(1) The term "adversely affecting" includes reducing, restricting, suspending, revoking,denying, or failing to renew clinical privileges or membership in a health care entity.
+&emsp;(1) The term "adversely affecting" includes reducing, restricting, suspending, revoking, denying, or failing to renew clinical privileges or membership in a health care entity.
 
 &emsp;(2) The term "Board of Medical Examiners" includes a body comparable to such a Board (as determined by the State) with responsibility for the licensing of physicians and also includes a subdivision of such a Board or body.
 

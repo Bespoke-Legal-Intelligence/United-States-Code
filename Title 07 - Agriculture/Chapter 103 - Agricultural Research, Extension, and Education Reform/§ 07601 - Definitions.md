@@ -4,7 +4,7 @@ In this Act:
 
 #### (1) 1862 Institution
 
-&emsp;The term "1862 Institution" means a college or university eligible to receive funds underthe Act of July 2, 1862 (12 Stat. 503, chapter 130; 7 U.S.C. 301 et seq.).
+&emsp;The term "1862 Institution" means a college or university eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503, chapter 130; 7 U.S.C. 301 et seq.).
 
 #### (2) 1890 Institution
 
@@ -52,7 +52,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Short Title
 

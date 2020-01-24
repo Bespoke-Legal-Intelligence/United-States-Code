@@ -20,7 +20,7 @@ Not later than 180 days after October 24, 1992, the Secretary of the Interior, w
 
 #### (c) Failure to adopt statutory or regulatory procedure
 
-If an Affected State has not placed in effect, by statute or by regulation, a substantial program promoting the permitting, drilling and production of coalbed methane wells (including pooling arrangements) within that State within 3 years after becoming an Affected State, the Secretary of the Interior, with the participation of the Secretary of Energy, shall administer this section and shall promulgate such regulations as are necessary to carry out this section in that State.
+If an Affected State has not placed in effect, by statute or by regulation, a substantial program promoting the permitting, drilling and production of coalbed methane wells (including pooling arrangements) within that State within 3 years after becoming an Affected State, the Secretary of the Interior, with the participation of the Secretary of Energy, shall administer thissection and shall promulgate such regulations as are necessary to carry out this section in that State.
 
 #### (d) Implementation by Secretary of the Interior
 
@@ -78,7 +78,7 @@ No entity may drill any well for the production of coalbed methane gas from a co
 
 #### (j) Authorization to stimulate coal seam
 
-(1) No operator of a coalbed methane well may stimulate a coal seam without the written consent of each entity which, at the time that the coalbed methane operator applies for a drilling permit, is operating a coal mine, or has by virtue of his property rights in the coal the ability to operate a coal mine, located within a horizontal or vertical distance from the point of stimulation as established by the Secretary ofthe Interior pursuant to paragraph (3) of this subsection. In seeking the coal operator's consent, a coalbed methane well operator shall provide the coal operator with necessary information about such stimulation, including relevant information to ensure compliance with coal mine safety laws and rules.
+(1) No operator of a coalbed methane well may stimulate a coal seam without the written consent of each entity which, at the time that the coalbed methane operator applies for a drilling permit, is operating a coal mine, or has by virtue of his property rights in the coal the ability to operate a coal mine, located within a horizontal or vertical distance from the point of stimulation as established by the Secretary of the Interior pursuant to paragraph (3) of this subsection. In seeking the coal operator's consent, a coalbed methane well operator shall provide the coal operator with necessary information about such stimulation, including relevant information to ensure compliance with coal mine safety laws and rules.
 
 (2) In the absence of a written consent pursuant to paragraph (1) and at the request of a coalbed methane operator, the Secretary of the Interior shall make a determination regarding stimulation of a coal seam. Such request shall include an affidavit which shall—
 
@@ -118,7 +118,7 @@ No entity may drill any well for the production of coalbed methane gas from a co
 
 &emsp;(B) The proposed activity could instead be moved to a mined-out area, below the coal outcrop or to some other feasible area.
 
-&emsp;(C) The unit operator agrees to a drilling moratorium of not more than two years inorder to permit completion of coal mining operations.
+&emsp;(C) The unit operator agrees to a drilling moratorium of not more than two years in order to permit completion of coal mining operations.
 
 &emsp;(D) The practicality of locating the proposed spacing unit or well on a uniform pattern with other spacing units or wells.
 

@@ -16,7 +16,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(A) any officer or employee of a creditor while, in the name of the creditor, collecting debts for such creditor;
 
-&emsp;&emsp;(B) any person while acting as a debt collector for another person, both of whom are related by common ownership or affiliatedby corporate control, if the person acting as a debt collector does so only for persons to whom it is so related or affiliated and if the principal business of such person is not the collection of debts;
+&emsp;&emsp;(B) any person while acting as a debt collector for another person, both of whom are related by common ownership or affiliated by corporate control, if the person acting as a debt collector does so only for persons to whom it is so related or affiliated and if the principal business of such person is not the collection of debts;
 
 &emsp;&emsp;(C) any officer or employee of the United States or any State to the extent that collecting or attempting to collect any debt is in the performance of his official duties;
 
@@ -24,7 +24,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(E) any nonprofit organization which, at the request of consumers, performs bona fide consumer credit counseling and assists consumers in the liquidation of their debts by receiving payments from such consumers and distributing such amounts to creditors; and
 
-&emsp;&emsp;(F) any person collecting or attempting to collect any debt owed or due or asserted to be owed or due another to the extent such activity (i) is incidental to a bona fide fiduciary obligation or a bona fide escrow arrangement; (ii) concerns a debt which was originated by such person; (iii) concerns a debt which was not in default at the time it was obtained by such person; or (iv) concerns a debt obtained by such person as a secured party in a commercial credit transaction involving the creditor.
+&emsp;&emsp;(F) any person collecting or attempting to collect any debt owed or due or asserted tobe owed or due another to the extent such activity (i) is incidental to a bona fide fiduciary obligation or a bona fide escrow arrangement; (ii) concerns a debt which was originated by such person; (iii) concerns a debt which was not in default at the time it was obtained by such person; or (iv) concerns a debt obtained by such person as a secured party in a commercial credit transaction involving the creditor.
 
 &emsp;(7) The term "location information" means a consumer's place of abode and his telephone number at such place, or his place of employment.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Periodic Assessment.—Each fiscal year, the Secretary of Defense shall prepare selected assessments of the capability of the national technology and industrial base to attain the national security objectives set forth in section 2501(a) of this title. The Secretary of Defense shall prepare such assessments in consultation with the Secretary of Commerce and the Secretary of Energy.
+Periodic Assessment.—Each fiscal year, the Secretary of Defense shall prepare selectedassessments of the capability of the national technology and industrial base to attain the national security objectives set forth in section 2501(a) of this title. The Secretary of Defense shall prepare such assessments in consultation with the Secretary of Commerce and the Secretary of Energy.
 
 (b)
 
@@ -26,7 +26,7 @@ Assessment of Extent of Dependency on Foreign Source Items.—Each assessment un
 
 &emsp;(1) identify cases that pose an unacceptable risk of foreign dependency, as determined by the Secretary; and
 
-&emsp;(2) present actions being taken or proposed to be taken to remedy the risk posed by thecases identified under paragraph (1), including efforts to develop a domestic source for the item in question.
+&emsp;(2) present actions being taken or proposed to be taken to remedy the risk posed by the cases identified under paragraph (1), including efforts to develop a domestic source for the item in question.
 
 (d)
 

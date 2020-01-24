@@ -92,7 +92,7 @@ Resumption of Monthly Annuity.—
 
 &emsp;(1)
 
-General rule.—Subject to paragraph (2), an eligible person who makes an election described in subsection (b)(1) shall be entitled to receive the eligible person's monthly covered retired pay calculated in accordance with paragraph (2) after the eligible person attains the eligible person's retirement age.
+General rule.—Subject to paragraph (2), an eligible person who makes an election described in subsection (b)(1) shall be entitled to receive the eligible person's monthly coveredretired pay calculated in accordance with paragraph (2) after the eligible person attains the eligible person's retirement age.
 
 &emsp;(2)
 

@@ -36,5 +36,5 @@ There are authorized to be appropriated such sums as may be necessary to impleme
 
 #### Amendments
 
-<b>2014</b>—Subsec. (f). Pub. L. 113–235 struck out subsec. (f). Text read as follows: "The Secretary of State shall submit a report on a quarterly basis to the appropriatecommittees of Congress on the status of the committees established under subsection (a) of this section."
+<b>2014</b>—Subsec. (f). Pub. L. 113–235 struck out subsec. (f). Text read as follows: "The Secretary of State shall submit a report on a quarterly basis to the appropriate committees of Congress on the status of the committees established under subsection (a) of this section."
 

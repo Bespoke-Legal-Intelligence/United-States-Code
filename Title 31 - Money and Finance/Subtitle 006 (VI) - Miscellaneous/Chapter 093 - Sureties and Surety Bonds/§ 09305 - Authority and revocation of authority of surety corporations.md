@@ -58,7 +58,7 @@ Subsection (b) is substituted for 6:8(2d sentence) for clarity and consistency a
 
 In subsection (c), the words "A surety corporation authorized under subsection (b) of this section to provide surety bonds" are substituted for "Every such company" for clarity. The words "as is required by section 8 of this title" are omitted as unnecessary because of the restatement.
 
-In subsection (d)(1), the word "shall" is substituted for "shall have the power, and it shall be his duty, to"to eliminate unnecessary words. The words "under sections 6 to 13 of this title" are omitted as unnecessary because of the restatement. The words "conducting its business" are omitted as surplus. In clause (3), the words "that . . . be given at any time" are omitted as surplus. The words "from the person required to provide a surety bond" are substituted for "by any principal" for clarity.
+In subsection (d)(1), the word "shall" is substituted for "shall have the power, and it shall be his duty, to" to eliminate unnecessary words. The words "under sections 6 to 13 of this title" are omitted as unnecessary because of the restatement. The words "conducting its business" are omitted as surplus. In clause (3), the words "that . . . be given at any time" are omitted as surplus. The words "from the person required to provide a surety bond" are substituted for "by any principal" for clarity.
 
 Subsection (e) is substituted for 6:11 to eliminate unnecessary words, for clarity and consistency, and because of the restatement.
 

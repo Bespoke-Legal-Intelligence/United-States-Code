@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 &emsp;(7) if it has been intentionally subjected to radiation, unless the use of the radiation was in conformity with a regulation or exemption in effect pursuant to section 348 of this title; or
 
-&emsp;(8) if any valuable constituent has been in whole or in part omitted or abstracted therefrom; or if any substance has been substituted, wholly or in part therefor; or if damage or inferiority has been concealed in any manner; or if any substance has been added thereto or mixed or packed therewith so as to increase its bulk or weight, or reduce its quality or strength, or make it appear better or of greater value than it is.
+&emsp;(8) if any valuable constituent has been in whole or in part omitted or abstracted therefrom; or if any substance has been substituted, wholly or in part therefor; or if damage or inferiority has been concealed in any manner; orif any substance has been added thereto or mixed or packed therewith so as to increase its bulk or weight, or reduce its quality or strength, or make it appear better or of greater value than it is.
 
 (b) The term "capable of use as human food" shall apply to any egg or egg product, unless it is denatured, or otherwise identified, as required by regulations prescribed by the Secretary to deter its use as human food.
 
@@ -106,7 +106,7 @@ For purposes of this chapter—
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
 
-The Fair Packaging and Labeling Act, referred to in subsec. (h), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296,which is classified generally to chapter 39 (§1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
+The Fair Packaging and Labeling Act, referred to in subsec. (h), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, which is classified generally to chapter 39 (§1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (i) and (u), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 

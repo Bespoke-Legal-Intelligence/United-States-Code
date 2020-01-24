@@ -52,7 +52,7 @@ The Attorney General may obtain the assistance of other Federal agencies in carr
 
 #### (1) In general
 
-&emsp;Each Federal agency that has responsibility under subsection (c)(2) for implementing this chapter may make grants or award contracts to effectuate the purposes of this section, subject to the availability of appropriations. Such grants and contracts may be awarded to individuals, institutions not organized for profit and no part of the net earnings of which inures to the benefit of any private shareholder or individual (including educational institutions), and associations representing individuals who have rights or duties under this chapter. Contracts may be awarded to entities organized for profit, but such entities may not be the recipients or <sup>1</sup> grants described in this paragraph.
+&emsp;Each Federal agency that has responsibility under subsection (c)(2) for implementing this chapter may make grants or award contracts to effectuate the purposes of this section, subject to the availability of appropriations. Such grants and contracts may be awarded to individuals, institutions not organized for profitand no part of the net earnings of which inures to the benefit of any private shareholder or individual (including educational institutions), and associations representing individuals who have rights or duties under this chapter. Contracts may be awarded to entities organized for profit, but such entities may not be the recipients or <sup>1</sup> grants described in this paragraph.
 
 #### (2) Dissemination of information
 
@@ -66,7 +66,7 @@ An employer, public accommodation, or other entity covered under this chapter sh
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (c)(1), (3), (d), and (e), was in the original "this Act", meaningPub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (c)(1), (3), (d), and (e), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 Title IV, referred to in subsec. (c)(2)(D), (3), means title IV of Pub. L. 101–336, July 26, 1990, 104 Stat. 366, which enacted section 225 of Title 47, Telecommunications, and amended sections 152, 221, and 611 of Title 47.
 

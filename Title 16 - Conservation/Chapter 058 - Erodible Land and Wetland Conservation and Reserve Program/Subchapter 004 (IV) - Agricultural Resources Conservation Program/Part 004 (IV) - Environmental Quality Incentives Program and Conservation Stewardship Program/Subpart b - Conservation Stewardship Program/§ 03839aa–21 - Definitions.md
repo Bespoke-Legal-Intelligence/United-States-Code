@@ -158,7 +158,7 @@ RCPP contracts.—
 
 &emsp;&emsp;"(i)
 
-Treatment of acreage.—In the case of an agreement described in subparagraph (A)(ii), the Secretary may provide an amount of funding that is equivalent to the value of any acres covered by the agreement.
+Treatment of acreage.—In the case of an agreement described in subparagraph (A)(ii), theSecretary may provide an amount of funding that is equivalent to the value of any acres covered by the agreement.
 
 &emsp;&emsp;"(ii)
 

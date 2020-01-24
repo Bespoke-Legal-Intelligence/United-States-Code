@@ -62,7 +62,7 @@ Each year, the Administrator shall submit to Congress and make publicly availabl
 
 #### (h) Partnerships
 
-Grants awarded under this program may include projects that are carried out by an eligibleentity in cooperation with a private entity, including a farmer, farmer cooperative, or manufacturer of water technologies.
+Grants awarded under this program may include projects that are carried out by an eligible entity in cooperation with a private entity, including a farmer, farmer cooperative, or manufacturer of water technologies.
 
 #### (i) Authorization of appropriations
 

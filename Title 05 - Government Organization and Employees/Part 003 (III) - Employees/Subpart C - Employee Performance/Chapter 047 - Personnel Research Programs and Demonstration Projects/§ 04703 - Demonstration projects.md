@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(I) a specific description of any aspect of the project for which there is a lack of specific authority; and
 
-&emsp;&emsp;(J) a specific citation to any provision of law, rule, or regulation which, if not waived under this section, would prohibit the conducting of the project, or any part of the project as proposed;
+&emsp;&emsp;(J) a specific citation to any provision of law, rule, or regulation which, if not waivedunder this section, would prohibit the conducting of the project, or any part of the project as proposed;
 
 &emsp;(2) publish the plan in the Federal Register;
 
@@ -113,6 +113,10 @@
 <b>2018</b>—Subsec. (d)(2). Pub. L. 115–232, §1106(1), added par. (2) and struck out former par. (2) which read as follows: "Not more than 10 active demonstration projects may be in effect at any time."
 
 Subsec. (j). Pub. L. 115–232, §1106(2), added subsec. (j).
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

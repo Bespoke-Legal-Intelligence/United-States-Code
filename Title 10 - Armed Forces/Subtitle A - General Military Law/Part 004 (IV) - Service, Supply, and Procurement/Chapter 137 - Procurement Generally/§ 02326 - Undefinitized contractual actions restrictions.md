@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The head of an agency may not enter into an undefinitized contractual action unless the request to the head of the agency for authorization of the contractual action includes a description of the anticipated effect on requirements of the military department concerned if a delay is incurred for purposes of determining contractual terms, specifications, and price before performance is begun under the contractual action.
+In General.—The head of an agency may not enter into an undefinitized contractual action unless the request to the head of the agency for authorization of the contractual action includes a description of the anticipated effect onrequirements of the military department concerned if a delay is incurred for purposes of determining contractual terms, specifications, and price before performance is begun under the contractual action.
 
 (b)
 
@@ -62,7 +62,7 @@ Allowable Profit.—(1) The head of an agency shall ensure that the profit allow
 
 (g)
 
-Time Limit.—No undefinitized contractual action may extend beyond 90 days without a written determination by the Secretary of the military department concerned, the head of the Defense Agency concerned, the commander of the combatant command concerned, or the Under Secretary of Defense for Acquisition, Technology, and Logistics (as applicable) that it is in the best interests of the military department, the Defense Agency, the combatant command, or the Department of Defense, respectively, to continue the action.
+Time Limit.—No undefinitized contractual action may extend beyond 90 days without a written determination by the Secretary of the military department concerned, the head of the Defense Agency concerned, the commander of the combatant command concerned, or the Under Secretary of Defense for Acquisition and Sustainment (as applicable) that it is in the best interests of the military department, the Defense Agency, the combatant command, or the Department of Defense, respectively, to continue the action.
 
 (h)
 
@@ -88,7 +88,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "qualifying proposal" means a proposal that contains sufficient information to enable the Department of Defense to conduct a meaningful audit of the information contained in the proposal.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §908(d)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–140, and Pub. L. 99–591, §101(c) \[title X, §908(d)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–140; Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(6), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 102–25, title VII, §701(d)(5), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §1505, Oct. 13, 1994, 108 Stat. 3298; Pub. L. 105–85, div. A, title VIII, §803(a), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 114–328, div. A, titleVIII, §811, Dec. 23, 2016, 130 Stat. 2268; Pub. L. 115–91, div. A, title VIII, §815(a), (b), Dec. 12, 2017, 131 Stat. 1462.)
+(Added Pub. L. 99–500, §101(c) \[title X, §908(d)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–140, and Pub. L. 99–591, §101(c) \[title X, §908(d)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–140; Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(6), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 102–25, title VII, §701(d)(5), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §1505, Oct. 13, 1994, 108 Stat. 3298; Pub. L. 105–85, div. A, title VIII, §803(a), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 114–328, div. A, title VIII, §811, Dec. 23, 2016, 130 Stat. 2268; Pub. L. 115–91, div. A, title VIII, §815(a), (b), Dec. 12, 2017, 131 Stat. 1462; Pub. L. 116–92, div. A, title IX, §902(50), Dec. 20, 2019, 133 Stat. 1548.)
 
 #### Codification
 
@@ -101,6 +101,8 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 A prior section 2326 was renumbered section 2346 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (g). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
 <b>2017</b>—Subsec. (b)(3). Pub. L. 115–91, §815(b), substituted "subsection (h)" for "subsection (g)".
 

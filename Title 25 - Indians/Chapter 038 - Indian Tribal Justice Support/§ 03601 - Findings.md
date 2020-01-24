@@ -6,7 +6,7 @@ The Congress finds and declares that—
 
 &emsp;(2) the United States has a trust responsibility to each tribal government that includes the protection of the sovereignty of each tribal government;
 
-&emsp;(3) Congress, through statutes, treaties, and the exercise of administrative authorities, has recognized the self-determination, self-reliance, and inherent sovereignty of Indian tribes;
+&emsp;(3) Congress, through statutes, treaties, and the exercise of administrative authorities, hasrecognized the self-determination, self-reliance, and inherent sovereignty of Indian tribes;
 
 &emsp;(4) Indian tribes possess the inherent authority to establish their own form of government, including tribal justice systems;
 

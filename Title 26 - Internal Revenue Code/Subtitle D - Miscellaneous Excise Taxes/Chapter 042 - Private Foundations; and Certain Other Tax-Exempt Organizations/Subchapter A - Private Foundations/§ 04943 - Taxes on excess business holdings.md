@@ -348,7 +348,7 @@ Subsec. (d)(4). Pub. L. 98–369, §314(c)(1), added par. (4).
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–596, §2(a)(1)(D), substituted "taxable period" for "correction period".
 
-Subsec. (d)(2). Pub. L. 96–596, §2(a)(2)(C), substituted provision ending the taxable period on the earlier of the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (a) of this section under section 6212 of this title in respect to such holdings or the date on which the tax imposed by subsec. (a) of this section in respect to such holdings is assessed for provision ending the taxable period on the date of mailing the notice of deficiency with respect to a tax imposed by subsec. (a) of this section under section 6212 of this title in respect to such holdings.
+Subsec. (d)(2). Pub. L. 96–596, §2(a)(2)(C), substituted provision ending the taxable period on the earlier ofthe date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (a) of this section under section 6212 of this title in respect to such holdings or the date on which the tax imposed by subsec. (a) of this section in respect to such holdings is assessed for provision ending the taxable period on the date of mailing the notice of deficiency with respect to a tax imposed by subsec. (a) of this section under section 6212 of this title in respect to such holdings.
 
 Subsec. (d)(3), (4). Pub. L. 96–596, §2(a)(3)(C), (4)(B), redesignated par. (4) as (3), and in subpar. (A) of par. (3) as so redesignated, substituted "section 4942(j)(4)" for "section 4942(j)(5)", and struck out par. (3), which defined correction period, with respect to excess business holdings of a private foundation in a business enterprise, as the period ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b) of this section under section 6212 of this title, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to permit orderly disposition of such excess business holdings.
 
@@ -382,7 +382,7 @@ Pub. L. 98–369, div. A, title III, §308(b), July 18, 1984, 98 Stat. 785, prov
 
 Pub. L. 98–369, div. A, title III, §309(b), July 18, 1984, 98 Stat. 785, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendment made by section 101(b) of the Tax Reform Act of 1969 \[section 101(b) of Pub. L. 91–172 which enacted this section\]."
 
-Pub. L. 98–369, div. A, title III, §310(b), July 18, 1984, 98 Stat. 786, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply toacquisitions after the date of the enactment of this Act \[July 18, 1984\]."
+Pub. L. 98–369, div. A, title III, §310(b), July 18, 1984, 98 Stat. 786, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to acquisitions after the date of the enactment of this Act \[July 18, 1984\]."
 
 Pub. L. 98–369, div. A, title III, §314(c)(2), July 18, 1984, 98 Stat. 788, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\]."
 

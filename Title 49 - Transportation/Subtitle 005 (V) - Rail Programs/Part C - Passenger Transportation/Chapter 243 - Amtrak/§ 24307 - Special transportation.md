@@ -102,7 +102,7 @@ In General.—Amtrak, in consultation with station owners and other railroads op
 
 Accessibility Improvements and Barrier Removal for People With Disabilities.—There are authorized to be appropriated to the Secretary \[of Transportation\] for the use of Amtrak such sums as may be necessary to improve the accessibility of facilities, including rail platforms, and services."
 
-Pub. L. 110–432, div. B, title II, §220, Oct. 16, 2008, 122 Stat. 4931, provided that: "Using the funds authorized by section 103 of this division \[122 Stat. 4909\], the Federal Railroad Administration shall monitor and conduct periodic reviews of Amtrak's compliance with applicable sections of the Americans with Disabilities Actof 1990 \[42 U.S.C. 12101 et seq.\] and the Rehabilitation Act of 1974 \[probably means Rehabilitation Act of 1973, 29 U.S.C. 701 et seq.\] to ensure that Amtrak's services and facilities are accessible to individuals with disabilities to the extent required by law."
+Pub. L. 110–432, div. B, title II, §220, Oct. 16, 2008, 122 Stat. 4931, provided that: "Using the funds authorized by section 103 of this division \[122 Stat. 4909\], the Federal Railroad Administration shall monitor and conduct periodic reviews of Amtrak's compliance with applicable sections of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\] and the Rehabilitation Act of 1974 \[probably means Rehabilitation Act of 1973, 29 U.S.C. 701 et seq.\] to ensure that Amtrak's services and facilities are accessible to individuals with disabilities to the extent required by law."
 
 Pub. L. 105–134, title IV, §406(a), Dec. 2, 1997, 111 Stat. 2586, provided that:
 

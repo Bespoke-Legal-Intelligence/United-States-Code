@@ -20,13 +20,13 @@
 
 #### (2) Support and facilitation
 
-&emsp;State rules, regulations, and policies under this subchapter shall support and facilitate local educational agency and school-level systemic reform designed to enable all children to meet the challenging State academic standards.
+&emsp;State rules, regulations, and policies under this subchapter shall support and facilitatelocal educational agency and school-level systemic reform designed to enable all children to meet the challenging State academic standards.
 
 #### (b) Committee of practitioners
 
 #### (1) In general
 
-&emsp;Each State educational agency that receives funds under this subchapter shall create aState committee of practitioners to advise the State in carrying out its responsibilities under this subchapter.
+&emsp;Each State educational agency that receives funds under this subchapter shall create a State committee of practitioners to advise the State in carrying out its responsibilities under this subchapter.
 
 #### (2) Membership
 

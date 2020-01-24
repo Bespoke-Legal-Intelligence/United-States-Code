@@ -14,13 +14,13 @@ For purposes of this title,<sup>1</sup> the following definitions shall apply:
 
 #### References in Text
 
-This title, referred to in text, probably should read "this Act", meaning Pub. L. 113–89, Mar. 21, 2014, 128 Stat. 1020, known as the Homeowner Flood Insurance Affordability Act of 2014, which does not contain titles. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 4001 of this title and Tables.
+This title, referred to in text, probably should read "this Act", meaning Pub. L. 113–89, Mar. 21, 2014, 128Stat. 1020, known as the Homeowner Flood Insurance Affordability Act of 2014, which does not contain titles. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 4001 of this title and Tables.
 
 The National Flood Insurance Act of 1968, referred to in par. (2), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Codification
 
-Section was enacted as part of the Homeowner Flood Insurance Affordability Act of 2014, and not as part ofthe National Flood Insurance Act of 1968 which comprises this chapter.
+Section was enacted as part of the Homeowner Flood Insurance Affordability Act of 2014, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

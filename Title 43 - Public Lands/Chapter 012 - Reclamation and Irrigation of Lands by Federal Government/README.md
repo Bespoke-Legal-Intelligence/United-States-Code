@@ -108,9 +108,7 @@
 | 390h–32. | Rancho California Water District project, California. |
 | 390h–33. | Elsinore Valley Municipal Water District projects, California. |
 | 390h–34. | North Bay Water Reuse Program. |
-| 390h–35. | Prado Basin natural treatment system project. |
-| 390h–36. | Lower Chino Dairy Area desalination demonstration and reclamation project. |
-| 390h–37. | Oxnard, California, water reclamation, reuse, and treatment project. |
+| 390h–35 to 390h–37. Omitted. |  |
 | 390h–38. | Yucaipa Valley regional water supply renewal project. |
 | 390h–39. | City of Corona Water Utility, California, water recycling and reuse project. |
 
@@ -390,6 +388,9 @@
 | [503\.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000503%20-%20Unusual%20or%20emergency%20conditions%20defined.md) | "Unusual or emergency conditions" defined. |
 | [504\.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000504%20-%20Rehabilitation%20and%20betterment%20of%20Federal%20reclamation%20projects%2C%20including%20small%20reclamation%20projects%3B%20return%20of%20costs%3B%20interest%E2%80%A6.md) | Rehabilitation and betterment of Federal reclamation projects, including small reclamation projects; return of costs; interest; definitions; performance of work. |
 | [505\.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000505%20-%20Drainage%20facilities%20and%20minor%20construction%20in%20irrigation%20works%3B%20contracts%20with%20repayment%20organizations%3B%20limitation%20on%20costs%3B%20submission%20of%E2%80%A6.md) | Drainage facilities and minor construction in irrigation works; contracts with repayment organizations; limitation on costs; submission of contract to Congress. |
+| [505a.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000505a%20-%20Definitions.md) | Definitions. |
+| 505a–1. | Asset Management Report enhancements for reserved works. |
+| 505a–2. | Asset Management Report enhancements for transferred works. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

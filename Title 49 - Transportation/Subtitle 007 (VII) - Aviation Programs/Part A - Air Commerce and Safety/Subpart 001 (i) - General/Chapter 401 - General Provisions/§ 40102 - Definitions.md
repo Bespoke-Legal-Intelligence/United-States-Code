@@ -64,7 +64,7 @@ General Definitions.—In this part—
 
 &emsp;(18) "conditional sales contract" means a contract—
 
-&emsp;&emsp;(A) for the sale of an aircraft, aircraft engine, propeller, appliance, or spare part, under which the buyer takes possession of the property but title to the property vests in the buyer at a later time on—
+&emsp;&emsp;(A) for the sale of an aircraft, aircraft engine, propeller, appliance, or spare part,under which the buyer takes possession of the property but title to the property vests in the buyer at a later time on—
 
 &emsp;&emsp;&emsp;(i) paying any part of the purchase price;
 
@@ -394,7 +394,7 @@ Subsection (a)(12) is added for clarity to distinguish between cargo (which incl
 
 In subsection (a)(13), the word "provide" is substituted for "engage in" for consistency in the revised title.
 
-In subsection (a)(14), the words "including inclusive tour charter trips" are omitted as obsolete. The words"authorized under this part" are substituted for "rendered pursuant to authority conferred under this chapter under regulations prescribed by the Board" to eliminate unnecessary words.
+In subsection (a)(14), the words "including inclusive tour charter trips" are omitted as obsolete. The words "authorized under this part" are substituted for "rendered pursuant to authority conferred under this chapter under regulations prescribed by the Board" to eliminate unnecessary words.
 
 In subsection (a)(15)(A), the words "or of one of its possessions" are omitted as being included in the definition of "United States" in this subsection.
 

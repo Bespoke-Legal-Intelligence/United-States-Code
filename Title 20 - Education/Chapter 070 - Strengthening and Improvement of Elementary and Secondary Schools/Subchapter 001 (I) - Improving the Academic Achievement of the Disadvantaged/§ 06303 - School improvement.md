@@ -2,7 +2,7 @@
 
 #### (a) State reservations
 
-To carry out subsection (b) and the State educational agency's statewide system of technicalassistance and support for local educational agencies, each State shall reserve the greater of—
+To carry out subsection (b) and the State educational agency's statewide system of technical assistance and support for local educational agencies, each State shall reserve the greater of—
 
 &emsp;(1) 7 percent of the amount the State receives under subpart 2 of part A; or
 

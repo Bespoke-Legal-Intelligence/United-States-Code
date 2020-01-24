@@ -40,11 +40,11 @@ Deadline.—The plan required under paragraph (1) shall provide for the safe int
 
 &emsp;(4)
 
-Report to congress.—Not later than February 14, 2013,<sup>1</sup> the Secretary shall submit to Congress a copy of the plan required under paragraph (1).
+Report to congress.—Not later than February 14, 2013,<sup>1</sup> the Secretary shall submitto Congress a copy of the plan required under paragraph (1).
 
 &emsp;(5)
 
-Roadmap.—Not later than February 14, 2013,<sup>1</sup> the Secretary shall approve and makeavailable in print and on the Administration's internet website a 5-year roadmap for the introduction of civil unmanned aircraft systems into the national airspace system, as coordinated by the Unmanned Aircraft Program Office of the Administration. The Secretary shall update, in coordination with the Administrator of the National Aeronautics and Space Administration (NASA) and relevant stakeholders, including those in industry and academia, the roadmap annually. The roadmap shall include, at a minimum—
+Roadmap.—Not later than February 14, 2013,<sup>1</sup> the Secretary shall approve and make available in print and on the Administration's internet website a 5-year roadmap for the introduction of civil unmanned aircraft systems into the national airspace system, as coordinated by the Unmanned Aircraft Program Office of the Administration. The Secretary shall update, in coordination with the Administrator of the National Aeronautics and Space Administration (NASA) and relevant stakeholders, including those in industry and academia, the roadmap annually. The roadmap shall include, at a minimum—
 
 &emsp;&emsp;(A) cost estimates, planned schedules, and performance benchmarks, including specific tasks, milestones, and timelines, for unmanned aircraft systems integration into the national airspace system, including an identification of—
 
@@ -124,11 +124,11 @@ Pub. L. 115–254, div. B, title III, §351, Oct. 5, 2018, 132 Stat. 3301, provi
 
 "(a)
 
-Authority.—The Secretary of Transportation may establish a pilot program to enable enhanced drone operations as required in the October 25, 2017 Presidential Memorandum entitled 'Unmanned Aircraft Systems Integration Pilot Program' and described in 82 Federal Register 50301 \[set out below\].
+Authority.—The Secretary of Transportation may establish a pilot program to enable enhanceddrone operations as required in the October 25, 2017 Presidential Memorandum entitled 'Unmanned Aircraft Systems Integration Pilot Program' and described in 82 Federal Register 50301 \[set out below\].
 
 "(b)
 
-Applications.—The Secretary shall accept applications from State, local, and Tribal governments, inpartnership with unmanned aircraft system operators and other private-sector stakeholders, to test and evaluate the integration of civil and public UAS operations into the low-altitude national airspace system.
+Applications.—The Secretary shall accept applications from State, local, and Tribal governments, in partnership with unmanned aircraft system operators and other private-sector stakeholders, to test and evaluate the integration of civil and public UAS operations into the low-altitude national airspace system.
 
 "(c)
 
@@ -470,7 +470,7 @@ Pub. L. 115–254, div. B, title III, §380, Oct. 5, 2018, 132 Stat. 3319, provi
 
 "(a)
 
-Regulations.—Notwithstanding the repeals under sections 341, 348 \[probably should be "346"\], 347, and 383 of this Act \[repealing the provisions listed insubsec. (b)(1) to (4) below\], all orders, determinations, rules, regulations, permits, grants, and contracts, which have been issued under any law described under subsection (b) of this section before the effective date of this Act \[probably means Oct. 5, 2018, the date of enactment of Pub. L. 115–254\] shall continue in effect until modified or revoked by the Secretary of Transportation, acting through the Administrator of the Federal Aviation Administration, as applicable, by a court of competent jurisdiction, or by operation of law other than this Act \[see Tables for classification\].
+Regulations.—Notwithstanding the repeals under sections 341, 348 \[probably should be "346"\], 347, and 383 of this Act \[repealing the provisions listed in subsec. (b)(1) to (4) below\], all orders, determinations, rules, regulations, permits, grants, and contracts, which have been issued under any law described under subsection (b) of this section before the effective date of this Act \[probably means Oct. 5, 2018, the date of enactment of Pub. L. 115–254\] shall continue in effect until modified or revoked by the Secretary of Transportation, acting through the Administrator of the Federal Aviation Administration, as applicable, by a court of competent jurisdiction, or by operation of law other than this Act \[see Tables for classification\].
 
 "(b)
 
@@ -858,7 +858,7 @@ Failure to meet certification deadline.—If the Administrator cannot provide a 
 
 "(e)
 
-Exemptions.—In addition to the operations described in this section, the Administrator may authorize, exempt, or otherwise allow other unmanned aircraft systems operations under \[former\] section 333 of the FAA Modernization and Reform Act of 2012 (\[former\] 49 U.S.C. 40101 note) that are conducted beyond the visual line of sight of the individual operating the unmanned aircraft system or during the day or at night.
+Exemptions.—In addition to the operations described in this section, the Administrator may authorize, exempt, or otherwise allow other unmanned aircraft systems operations under \[former\] section 333 ofthe FAA Modernization and Reform Act of 2012 (\[former\] 49 U.S.C. 40101 note) that are conducted beyond the visual line of sight of the individual operating the unmanned aircraft system or during the day or at night.
 
 #### "SEC. 2211. UNMANNED AIRCRAFT SYSTEMS RESEARCH AND DEVELOPMENT ROADMAP.
 
@@ -956,7 +956,7 @@ Termination.—The requirement to submit a report under subparagraph (A) shall t
 
 "(c)
 
-UAS Executive Committee Defined.—In this section, the term 'UAS Executive Committee' means the National Aeronautics and Space and \[sic\] Administration and the Department of Defense–Federal Aviation Administration executive committee described in section 1036(b) of the Duncan Hunter National DefenseAuthorization Act for Fiscal Year 2009 \[Pub. L. 110–417; 122 Stat. 4597\] and established by the Secretary of Defense and the Administrator of the Federal Aviation Administration."
+UAS Executive Committee Defined.—In this section, the term 'UAS Executive Committee' means the National Aeronautics and Space and \[sic\] Administration and the Department of Defense–Federal Aviation Administration executive committee described in section 1036(b) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 \[Pub. L. 110–417; 122 Stat. 4597\] and established by the Secretary of Defense and the Administrator of the Federal Aviation Administration."
 
 #### Unmanned Aircraft Systems
 
@@ -1134,7 +1134,7 @@ Section 1. <i>UAS Policies and Procedures for Federal Government Use</i>. The Fe
 
 (iii) make available to the public, on an annual basis, a general summary of the agency's UAS operations during the previous fiscal year, to include a brief description of types or categories of missions flown, and the number of times the agency provided assistance to other agencies, or to State, local, tribal, or territorial governments.
 
-(e) <i>Reports</i>. Within 180 days of the date of this memorandum, agencies shall provide the President with a status report on the implementation of this section.Within 1 year of the date of this memorandum, agencies shall publish information on how to access their publicly available policies and procedures implementing this section.
+(e) <i>Reports</i>. Within 180 days of the date of this memorandum, agencies shall provide the President with astatus report on the implementation of this section. Within 1 year of the date of this memorandum, agencies shall publish information on how to access their publicly available policies and procedures implementing this section.
 
 Sec. 2. <i>Multi-stakeholder Engagement Process</i>. In addition to the Federal uses of UAS described in section 1 of this memorandum, the combination of greater operational flexibility, lower capital requirements, and lower operating costs could allow UAS to be a transformative technology in the commercial and private sectors for fields as diverse as urban infrastructure management, farming, and disaster response. Although these opportunities will enhance American economic competitiveness, our Nation must be mindful of the potential implications for privacy, civil rights, and civil liberties. The Federal Government is committed to promoting the responsible use of this technology in a way that does not diminish rights and freedoms.
 

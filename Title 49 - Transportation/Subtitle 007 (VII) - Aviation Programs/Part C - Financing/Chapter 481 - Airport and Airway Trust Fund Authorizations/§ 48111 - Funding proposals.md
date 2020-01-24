@@ -18,7 +18,7 @@ Implementing bill.—The term "implementing bill" means only a bill of the Senat
 
 &emsp;(2)
 
-Funding proposal.—The term "funding proposal" means a proposal to provide interim or permanent funding for operations of the Federal Aviation Administration.
+Funding proposal.—The term "funding proposal" means a proposal to provide interimor permanent funding for operations of the Federal Aviation Administration.
 
 (d)
 

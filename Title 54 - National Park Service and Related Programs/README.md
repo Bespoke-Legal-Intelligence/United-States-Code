@@ -120,7 +120,7 @@
 | :--- | :---: | ---: |
 | [<b>3081.</b>](Subtitle%20003%20%28III%29%20-%20National%20Preservation%20Programs/Division%20B%20-%20Organizations%20and%20Programs/Subdivision%20001%20-%20Administered%20by%20National%20Park%20Service/Chapter%203081%20-%20American%20Battlefield%20Protection%20Program/README.md) | <b>American Battlefield Protection Program</b> | <b>308101</b> |
 | [<b>3083.</b>](Subtitle%20003%20%28III%29%20-%20National%20Preservation%20Programs/Division%20B%20-%20Organizations%20and%20Programs/Subdivision%20001%20-%20Administered%20by%20National%20Park%20Service/Chapter%203083%20-%20National%20Underground%20Railroad%20Network%20to%20Freedom/README.md) | <b>National Underground Railroad Network to Freedom</b> | <b>308301</b> |
-| <b>3084 </b><b><sup>2</sup></b> | <b>U.S. Civil Rights Network</b> | <b>308401</b> |
+| <b>3084 </b><b><sup>2</sup></b> | <b>African American Civil Rights Network</b> | <b>308401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -161,6 +161,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–9, title II, §2407(b), Mar. 12, 2019, 133 Stat. 750, substituted "African American Civil Rights Network" for "U.S. Civil Rights Network" in item for chapter 3084.
 
 <b>2018</b>—Pub. L. 115–104, §3(b), Jan. 8, 2018, 131 Stat. 2261, added item for chapter 3084.
 

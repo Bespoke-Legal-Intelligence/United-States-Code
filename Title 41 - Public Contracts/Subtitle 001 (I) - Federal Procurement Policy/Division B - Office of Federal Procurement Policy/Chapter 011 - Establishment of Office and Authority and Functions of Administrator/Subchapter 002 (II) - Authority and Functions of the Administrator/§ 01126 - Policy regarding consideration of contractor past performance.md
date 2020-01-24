@@ -18,7 +18,7 @@ Guidance.—The Administrator shall prescribe for executive agencies guidance re
 
 (b)
 
-Information Not Available.—If there is no information on past contract performance of an offeror or the information on past contract performance is not available, the offeror may not be evaluated favorably or unfavorably on the factor of past contract performance.
+Information Not Available.—If there is no information on past contract performance of an offeror or the information on past contractperformance is not available, the offeror may not be evaluated favorably or unfavorably on the factor of past contract performance.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3689.)
 
@@ -52,7 +52,7 @@ Strategy Required.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Federal Acquisition Regulatory Council shall developa strategy for ensuring that timely, accurate, and complete information on contractor performance is included in past performance databases used by executive agencies for making source selection decisions.
+In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Federal Acquisition Regulatory Council shall develop a strategy for ensuring that timely, accurate, and complete information on contractor performance is included in past performance databases used by executive agencies for making source selection decisions.
 
 &emsp;"(2)
 

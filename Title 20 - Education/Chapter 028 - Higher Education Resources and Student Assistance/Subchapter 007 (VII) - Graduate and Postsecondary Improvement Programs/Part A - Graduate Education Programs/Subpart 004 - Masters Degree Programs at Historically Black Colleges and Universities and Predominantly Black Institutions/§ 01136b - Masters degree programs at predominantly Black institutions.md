@@ -38,7 +38,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of this section, the term "qualified masters degree program" means a masters degree program that provides a program of instruction in mathematics, engineering, the physical or natural sciences, computer science, information technology, nursing, allied health, or other scientific disciplines in which African Americans are underrepresented and has students enrolled in such program of instruction at the time of application for a grant under this section.
+&emsp;&emsp;For the purposes of this section, the term "qualified masters degree program" means a masters degree program that provides a program of instruction in mathematics, engineering, the physical or natural sciences, computer science, information technology,nursing, allied health, or other scientific disciplines in which African Americans are underrepresented and has students enrolled in such program of instruction at the time of application for a grant under this section.
 
 #### (B) Enrollment exception
 
@@ -102,7 +102,7 @@ Subject to subsection (g), of the amount appropriated to carry out this section 
 
 &emsp;(1) the first $2,500,000 (or any lesser amount appropriated) shall be available only for the purposes of making minimum grants under subsection (a)(3) to eligible institutions listed in subparagraphs (A) through (E) of subsection (b)(1), except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced;
 
-&emsp;(2) after the application of paragraph (1), an amount shall be available for the purpose of making minimum grants under subsection\(a)(3) to eligible institutions described in subsection (b)(1) that do not receive a grant under paragraph (1), if any, except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced; and
+&emsp;(2) after the application of paragraph (1), an amount shall be available for the purpose of making minimum grants under subsection (a)(3) to eligible institutions described in subsection (b)(1) that do not receive a grant under paragraph (1), if any, except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced; and
 
 &emsp;(3) any amount in excess of $2,500,000 shall be made available to each of the eligible institutions identified in subparagraphs (A) through (E) of subsection (b)(1), pursuant to a formula developed by the Secretary that uses the following elements:
 

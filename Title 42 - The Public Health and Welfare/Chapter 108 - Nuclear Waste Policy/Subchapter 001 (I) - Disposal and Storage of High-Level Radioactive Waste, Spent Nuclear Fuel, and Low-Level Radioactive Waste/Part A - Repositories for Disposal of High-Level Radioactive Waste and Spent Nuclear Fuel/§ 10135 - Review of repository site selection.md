@@ -22,7 +22,7 @@ If any notice of disapproval of a repository site designation has been submitted
 
 (2)(A) Not later than the first day of session following the day on which any notice of disapproval of a repository site selection is submitted to the Congress under section 10136 or 10138 of this title, a resolution of repository siting approval shall be introduced (by request) in the Senate by the chairman of the committee to which such notice of disapproval is referred, or by a Member or Members of the Senate designated by such chairman.
 
-(B) Upon introduction, a resolution of repository siting approval shall be referred to the appropriate committee or committees of the Senate by the President of the Senate, and all suchresolutions with respect to the same repository site shall be referred to the same committee or committees. Upon the expiration of 60 calendar days of continuous session after the introduction of the first resolution of repository siting approval with respect to any site, each committee to which such resolution was referred shall make its recommendations to the Senate.
+(B) Upon introduction, a resolution of repository siting approval shall be referred to the appropriate committee or committees of the Senate by the President of the Senate, and all such resolutions with respect to the same repository site shall be referred to the same committee or committees. Upon the expiration of 60 calendar days of continuous session after the introduction of the first resolution of repository siting approval with respect to any site, each committee to which such resolution was referred shall make its recommendations to the Senate.
 
 (3) If any committee to which is referred a resolution of siting approval introduced under paragraph (2)(A), or, in the absence of such a resolution, any other resolution of siting approval introduced with respect to the site involved, has not reported such resolution at the end of 60 days of continuous session of Congress after introduction of such resolution, such committee shall be deemed to be discharged from further consideration of such resolution, and such resolution shall be placed on the appropriate calendar of the Senate.
 
@@ -64,7 +64,7 @@ If any notice of disapproval of a repository site designation has been submitted
 
 &emsp;(B) With respect to the resolution of the House with respect to such site—
 
-&emsp;&emsp;(i) the procedure with respect to that or other resolutions of the House with respect to such site shall be the same as if no resolution from the Senate with respect to such site had been received; but
+&emsp;&emsp;(i) the procedure with respect to that or other resolutions of the House with respectto such site shall be the same as if no resolution from the Senate with respect to such site had been received; but
 
 &emsp;&emsp;(ii) on any vote on final passage of a resolution of the House with respect to such site, a resolution from the Senate with respect to such site where the text is identical shall be automatically substituted for the resolution of the House.
 

@@ -48,11 +48,11 @@
 
 &emsp;(16) harmonize, to the maximum extent possible, all Federal activities in support of tourism and recreation with the needs of the general public and the States, territories, local governments, and the tourism and recreation industry, and to give leadership to all concerned with tourism, recreation, and national heritage preservation in the United States.
 
-(Pub. L. 87–63, title I, §101, formerly §1, June 29, 1961, 75 Stat. 129; renumbered and amended Pub. L. 97–63, §2(a), Oct. 16, 1981, 95 Stat. 1011; Pub. L. 102–372, §5, Sept. 30, 1992, 106 Stat. 1175.)
+(Pub. L. 87–63, title I, §101, formerly §1, June 29, 1961, 75 Stat. 129; renumbered and amended Pub.L. 97–63, §2(a), Oct. 16, 1981, 95 Stat. 1011; Pub. L. 102–372, §5, Sept. 30, 1992, 106 Stat. 1175.)
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b)(1). Pub. L. 102–372, §5(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "optimize the contribution of the tourism andrecreation industries to economic prosperity, full employment, and the international balance of payments of the United States;".
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–372, §5(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "optimize the contribution of the tourism and recreation industries to economic prosperity, full employment, and the international balance of payments of the United States;".
 
 Subsec. (b)(2) to (16). Pub. L. 102–372, §5(2), (3), added pars. (2) to (5) and redesignated former pars. (2) to (12) as (6) to (16), respectively.
 
@@ -61,6 +61,10 @@ Subsec. (b)(2) to (16). Pub. L. 102–372, §5(2), (3), added pars. (2) to (5) a
 #### Effective Date of 1981 Amendment
 
 Pub. L. 97–63, §6, Oct. 16, 1981, 95 Stat. 1018, provided that: "The amendments made by this Act \[see Short Title of 1981 Amendment note below\] shall take effect October 1, 1981."
+
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–94, div. I, title VIII, §801, Dec. 20, 2019, 133 Stat. 3028, provided that: "This title \[amending section 2131 of this title and section 1187 of Title 8, Aliens and Nationality\] may be cited as the 'Brand USA Extension Act'."
 
 #### Short Title of 2014 Amendment
 
@@ -126,7 +130,7 @@ Pub. L. 91–477, §6, Oct. 21, 1970, 84 Stat. 1073, provided that:
 
 "(4) One representative of the Department of Transportation designated by the Secretary of Transportation.
 
-"(5) Eleven individuals appointed by the President from private life who are informed about and concerned with the improvement, development, and promotion of United States tourism resources and opportunities or who are otherwise experienced in tourism research, promotion, or planning. The President shall designate one of the individuals appointed by him to serve as Chairman of the Commission.
+"(5) Eleven individuals appointed by the President from private life who are informed about and concerned with the improvement, development, and promotion ofUnited States tourism resources and opportunities or who are otherwise experienced in tourism research, promotion, or planning. The President shall designate one of the individuals appointed by him to serve as Chairman of the Commission.
 
 "(b) \[<i>Study and investigation; report to President and Congress; recommendations; termination</i>\]. The Commission shall make a full and complete study and investigation for the purpose of—
 
@@ -184,7 +188,7 @@ This plan should also identify other appropriate measures that will enhance and 
 
 (c) Within 180 days of the date of this order, and periodically thereafter, the Secretaries of State and Homeland Security shall jointly submit through the Assistant to the President for Homeland Security and Counterterrorism a report to the President describing the progress on achieving the goals set forth in this section (as well as areas of concern or barriers to achieving those goals) to ensure the country remains secure while increasing travel and tourism to the United States.
 
-(d) The Secretary of Commerce shall establish and maintain a publicly available website that provides updated metrics from across the Federal Government to assist industry and travelers in understanding the current status of the industry and its relevance to theeconomy, statistics on visa processes in key travel and tourism markets, and entry times into the United States.
+(d) The Secretary of Commerce shall establish and maintain a publicly available website that provides updated metrics from across the Federal Government to assist industry and travelers in understanding the current status of the industry and its relevance to the economy, statistics on visa processes in key travel and tourism markets, and entry times into the United States.
 
 Sec. 3. <i>Task Force on Travel and Competitiveness</i>. (a) A Task Force on Travel and Competitiveness (Task Force) is hereby established to develop the National Travel and Tourism Strategy described in this section. The Secretaries of Commerce and the Interior shall serve as Co-Chairs of the Task Force. The Task Force shall also include the heads of the following executive departments and agencies (agencies), or senior level officials designated by them:
 

@@ -132,7 +132,7 @@ Pars. (36) to (39). Pub. L. 96–463, §3, added pars. (36) to (39).
 
 Par. (10). Pub. L. 95–609, §7(b)(2), substituted "management" for "disposal".
 
-Par. (29)(C). Pub. L. 95–609, §7(b)(3), substituted "the collection, source separation, storage, transportation, transfer, processing, treatment or disposal" for "the treatment".
+Par. (29)(C). Pub. L. 95–609, §7(b)(3), substituted "the collection, source separation, storage, transportation,transfer, processing, treatment or disposal" for "the treatment".
 
 #### Change of Name
 

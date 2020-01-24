@@ -106,7 +106,7 @@ Postal service fund.—Except as provided under paragraph (2), amounts collected
 
 &emsp;(2)
 
-Treasury.—Amounts collected under subsection (c)(1)(A) and any punitive damages collected under subsection (c)(1)(C) shall be deposited into the Treasury of the United States.
+Treasury.—Amounts collected under subsection (c)(1)(A) and any punitive damagescollected under subsection (c)(1)(C) shall be deposited into the Treasury of the United States.
 
 (Added Pub. L. 109–435, title X, §1008(b), Dec. 20, 2006, 120 Stat. 3259.)
 

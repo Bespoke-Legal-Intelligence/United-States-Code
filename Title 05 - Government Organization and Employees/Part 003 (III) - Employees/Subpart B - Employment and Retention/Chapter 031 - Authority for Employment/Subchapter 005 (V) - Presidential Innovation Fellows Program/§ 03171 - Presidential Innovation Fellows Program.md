@@ -82,7 +82,7 @@ Sec. 5. <i>Selection, Appointment, and Assignment of Fellows</i>. (a) The Direct
 
 (b) Prior to the selection of Fellows, the Director will consult with agencies and executive branch departments, regarding potential projects and how best to meet those needs. Following such consultation, the Director shall select and appoint individuals to serve as Fellows.
 
-(c) The Fellows shall serve under short-term, time-limited appointments. As a general matter, they shallbe appointed for no less than 6 months and no longer than 2 years in the Program. The Director shall facilitate the process of placing Fellows at requesting agencies and executive branch departments.
+(c) The Fellows shall serve under short-term, time-limited appointments. As a general matter, they shall be appointed for no less than 6 months and no longer than 2 years in the Program. The Director shall facilitate the process of placing Fellows at requesting agencies and executive branch departments.
 
 Sec. 6. <i>Responsibilities of Agencies</i>. Each executive branch department or agency, as defined in section 105 of title 5, United States Code, is encouraged to work with the Director and Advisory Board to attempt to maximize the Program's benefits to the department or agency and the Federal Government, including by identifying initiatives that will have a meaningful effect on the people served and that will benefit from involvement by one or more Fellows. Departments and agencies also are encouraged to ensure that each Fellow will work closely with responsible senior officials for the duration of the assignment.
 

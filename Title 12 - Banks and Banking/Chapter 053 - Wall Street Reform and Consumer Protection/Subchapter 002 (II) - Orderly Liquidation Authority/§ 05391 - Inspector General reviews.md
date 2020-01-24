@@ -6,7 +6,7 @@
 
 #### (1) Scope
 
-&emsp;The Inspector General of the Corporation shall conduct, supervise, and coordinate auditsand investigations of the liquidation of any covered financial company by the Corporation as receiver under this subchapter, including collecting and summarizing—
+&emsp;The Inspector General of the Corporation shall conduct, supervise, and coordinate audits and investigations of the liquidation of any covered financial company by the Corporation as receiver under this subchapter, including collecting and summarizing—
 
 &emsp;&emsp;(A) a description of actions taken by the Corporation as receiver;
 
@@ -58,7 +58,7 @@
 
 #### (3) Reports and testimony
 
-&emsp;The Inspector General of the Department of the Treasury shall include in the semiannual reports required by section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.), a summary of the findings and assessments under paragraph (1), and shall appear before the appropriate committees of Congress, if requested, to present each such report.
+&emsp;The Inspector General of the Department of the Treasury shall include in the semiannualreports required by section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.), a summary of the findings and assessments under paragraph (1), and shall appear before the appropriate committees of Congress, if requested, to present each such report.
 
 #### (4) Termination of responsibilities
 

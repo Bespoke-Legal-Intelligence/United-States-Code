@@ -6,7 +6,7 @@ For the purposes of this chapter:
 
 (2) The term "creditor", with reference to any given extension of credit, refers to any person making that extension of credit, or to any person claiming by, under, or through any person making that extension of credit.
 
-(3) The term "debtor", with reference to any given extension of credit, refers to any person to whom that extension of credit is made, or to any person who guarantees the repayment of that extension of credit, or in any manner undertakes to indemnify the creditor against loss resulting from the failure of any person to whomthat extension of credit is made to repay the same.
+(3) The term "debtor", with reference to any given extension of credit, refers to any person to whom that extension of credit is made, or to any person who guarantees the repayment of that extension of credit, or in any manner undertakes to indemnify the creditor against loss resulting from the failure of any person to whom that extension of credit is made to repay the same.
 
 (4) The repayment of any extension of credit includes the repayment, satisfaction, or discharge in whole or in part of any debt or claim, acknowledged or disputed, valid or invalid, resulting from or in connection with that extension of credit.
 

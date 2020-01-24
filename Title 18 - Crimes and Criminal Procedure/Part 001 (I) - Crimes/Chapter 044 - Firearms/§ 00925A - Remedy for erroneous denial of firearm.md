@@ -12,5 +12,5 @@ Any person denied a firearm pursuant to subsection (s) or (t) of section 922—
 
 #### References in Text
 
-Section 103 of the Brady Handgun Violence Prevention Act, referred to in par. (1), is section 103 of Pub. L. 103–159, which is classified to section 40901 of Title 34, Crime Control and Law Enforcement.
+Section 103 of the Brady Handgun Violence Prevention Act, referred to in par. (1), is section 103 of Pub. L.103–159, which is classified to section 40901 of Title 34, Crime Control and Law Enforcement.
 

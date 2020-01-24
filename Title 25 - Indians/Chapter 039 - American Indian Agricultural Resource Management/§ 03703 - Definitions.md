@@ -2,7 +2,7 @@
 
 For the purposes of this chapter:
 
-&emsp;(1) The term "Indian agricultural lands" means Indian land, including farmland and rangeland, but excluding Indian forest land,that is used for the production of agricultural products, and Indian lands occupied by industries that support the agricultural community, regardless of whether a formal inspection and land classification has been conducted.
+&emsp;(1) The term "Indian agricultural lands" means Indian land, including farmland and rangeland, but excluding Indian forest land, that is used for the production of agricultural products, and Indian lands occupied by industries that support the agricultural community, regardless of whether a formal inspection and land classification has been conducted.
 
 &emsp;(2) The term "agricultural product" means—
 
@@ -38,7 +38,7 @@ For the purposes of this chapter:
 
 &emsp;(10) The term "Indian tribe" means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-&emsp;(11) The term "integrated resource management plan" means the plan developed pursuant to the process used by tribal governments to assess available resources and to provide identified holistic management objectives that include quality of life, production goals and landscape descriptions of all designated resources that may include (but not be limited to) water, fish, wildlife, forestry, agriculture, minerals, and recreation, as well as community and municipal resources, and may include any previously adopted tribal codes and plans related to such resources.
+&emsp;(11) The term "integrated resource management plan" means the plan developed pursuant to the process used by tribal governments to assess available resources and to provide identified holistic management objectives that include quality of life, production goals and landscape descriptions of all designated resources that may include (but not be limited to) water, fish, wildlife, forestry, agriculture,minerals, and recreation, as well as community and municipal resources, and may include any previously adopted tribal codes and plans related to such resources.
 
 &emsp;(12) The term "land management activity" means all activities, accomplished in support of the management of Indian agricultural lands, including (but not limited to)—
 
@@ -68,5 +68,5 @@ For the purposes of this chapter:
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in par. (10), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat.688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (10), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

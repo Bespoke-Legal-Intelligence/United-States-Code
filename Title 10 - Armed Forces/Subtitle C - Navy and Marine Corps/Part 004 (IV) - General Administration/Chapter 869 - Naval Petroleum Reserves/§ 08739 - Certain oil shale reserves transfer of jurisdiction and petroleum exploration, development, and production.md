@@ -18,7 +18,7 @@ Authority To Lease.—(1) Beginning on November 18, 1997, or as soon thereafter 
 
 (c)
 
-Management.—The Secretary of the Interior, acting through the Director of the Bureau of Land Management, shall manage the lands transferred under subsection (a) in accordance with the Federal Land Policy and ManagementAct of 1976 (43 U.S.C. 1701 et seq.) and other laws applicable to the public lands.
+Management.—The Secretary of the Interior, acting through the Director of the Bureau of Land Management, shall manage the lands transferred under subsection (a) in accordance with the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) and other laws applicable to the public lands.
 
 (d)
 

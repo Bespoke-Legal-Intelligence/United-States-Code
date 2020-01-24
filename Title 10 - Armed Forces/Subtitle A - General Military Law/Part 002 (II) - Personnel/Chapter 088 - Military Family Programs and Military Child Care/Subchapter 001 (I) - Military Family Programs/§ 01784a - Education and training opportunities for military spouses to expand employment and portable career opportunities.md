@@ -12,7 +12,9 @@ Programs and Tuition Assistance.—(1) The Secretary of Defense may establish pr
 
 (b)
 
-Eligible Spouses.—Assistance under this section is limited to a spouse of a member of the armed forces who is serving on active duty.
+Eligible Spouses.—(1) Assistance under this section is limited to a spouse of a member of the armed forces who is serving on active duty.
+
+(2) A spouse who is eligible for a program under this section and begins a course of education or training for a degree, license, or credential described in subsection (a) may not become ineligible to complete such course of education or training solely because the member to whom the spouse is married is promoted to a higher grade.
 
 (c)
 
@@ -30,7 +32,15 @@ Portable Career Opportunities Defined.—In this section, the term "portable car
 
 Regulations.—The Secretary of Defense shall prescribe regulations to govern the availability and use of assistance under this section. The Secretary shall ensure that programs established under this section do not result in inequitable treatment for spouses of members of the armed forces who are also members, since they are excluded from participation in the programs under subsection (c)(2).
 
-(Added Pub. L. 110–417, \[div. A\], title V, §582(a), Oct. 14, 2008, 122 Stat. 4473.)
+(Added Pub. L. 110–417, \[div. A\], title V, §582(a), Oct. 14, 2008, 122 Stat. 4473; amended Pub. L. 116–92, div. A, title V, §576, Dec. 20, 2019, 133 Stat. 1406.)
+
+#### Amendments
+
+<b>2019</b>—Subsec. (b). Pub. L. 116–92 designated existing provisions as par. (1) and added par. (2).
+
+#### First Expansion of the My Career Advancement Account Program for Military Spouses
+
+Pub. L. 116–92, div. A, title V, §580F, Dec. 20, 2019, 133 Stat. 1410, provided that: "The Secretary of Defense shall modify the My Career Advancement Account program of the Department of Defense to ensure that military spouses participating in the program may receive financial assistance for the pursuit of a license, certification, or Associate's degree in any career field or occupation."
 
 #### Improvement of My Career Advancement Account Program for Military Spouses
 
@@ -46,7 +56,7 @@ Comptroller General Report.—Not later than 180 days after the date of the enac
 
 &emsp;"(1) Mechanisms to increase awareness of the My Career Advancement Account program of the Department of Defense among military spouses who are eligible to participate in the program.
 
-&emsp;"(2) Mechanisms to increase participation in the My Career Advancement Account program among military spouses who are eligible to participate in the program.
+&emsp;"(2) Mechanisms to increase participation in the My Career Advancement Account program amongmilitary spouses who are eligible to participate in the program.
 
 "(c)
 

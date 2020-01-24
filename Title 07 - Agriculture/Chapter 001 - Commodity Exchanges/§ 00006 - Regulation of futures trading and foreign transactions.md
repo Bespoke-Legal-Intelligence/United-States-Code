@@ -30,7 +30,7 @@ Unless exempted by the Commission pursuant to subsection (c) or by subsection (e
 
 &emsp;&emsp;&emsp;(ii) the foreign board of trade (or the foreign futures authority that oversees the foreign board of trade)—
 
-&emsp;&emsp;&emsp;&emsp;(I) adopts position limits (including related hedge exemption provisions) forthe agreement, contract, or transaction that are comparable to the position limits (including related hedge exemption provisions) adopted by the registered entity for the 1 or more contracts against which the agreement, contract, or transaction traded on the foreign board of trade settles;
+&emsp;&emsp;&emsp;&emsp;(I) adopts position limits (including related hedge exemption provisions) for the agreement, contract, or transaction that are comparable to the position limits (including related hedge exemption provisions) adopted by the registered entity for the 1 or more contracts against which the agreement, contract, or transaction traded on the foreign board of trade settles;
 
 &emsp;&emsp;&emsp;&emsp;(II) has the authority to require or direct market participants to limit, reduce, or liquidate any position the foreign board of trade (or the foreign futures authority that oversees the foreign board of trade) determines to be necessary to prevent or reduce the threat of price manipulation, excessive speculation as described in section 6a of this title, price distortion, or disruption of delivery or the cash settlement process;
 

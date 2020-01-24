@@ -28,7 +28,7 @@ For purposes of this subtitle, the term "redeemable ground rent" means only a gr
 
 &emsp;(1) there is a lease of land which is assignable by the lessee without the consent of the lessor and which (together with periods for which the lease may be renewed at the option of the lessee) is for a term in excess of 15 years,
 
-&emsp;(2) the leaseholder has a present or future right to terminate, and to acquire the entire interest of the lessor in the land, by payment of a determined or determinable amount, which right exists by virtue of State or local law and not because of any private agreement or privately created condition, and
+&emsp;(2) the leaseholder has a present or future right to terminate, and to acquire the entireinterest of the lessor in the land, by payment of a determined or determinable amount, which right exists by virtue of State or local law and not because of any private agreement or privately created condition, and
 
 &emsp;(3) the lessor's interest in the land is primarily a security interest to protect the rental payments to which the lessor is entitled under the lease.
 

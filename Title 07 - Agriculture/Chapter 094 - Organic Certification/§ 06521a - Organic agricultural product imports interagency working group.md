@@ -44,7 +44,7 @@ On an annual basis, the working group shall submit to Congress and make publicly
 
 &emsp;A report—
 
-&emsp;&emsp;(A) identifying existing barriers to cooperation between the agencies involved in agricultural product import inspection, trade data collection and organization, and organically produced agricultural product trade enforcement, including—
+&emsp;&emsp;(A) identifying existing barriers to cooperation between the agencies involved inagricultural product import inspection, trade data collection and organization, and organically produced agricultural product trade enforcement, including—
 
 &emsp;&emsp;&emsp;(i) U.S. Customs and Border Protection;
 

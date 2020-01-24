@@ -4,7 +4,7 @@ The Secretary shall—
 
 &emsp;(1) initiate and conduct a federal applications study for wind energy systems, cooperatively with appropriate Federal agencies to determine the potential for the use of wind systems at specific Federal facilities; and this study shall—
 
-&emsp;&emsp;(A) include an analysis which determines those sites at which wind energy systems are economically competitive with the marginalcosts of new conventional energy sources in the areas;
+&emsp;&emsp;(A) include an analysis which determines those sites at which wind energy systems are economically competitive with the marginal costs of new conventional energy sources in the areas;
 
 &emsp;&emsp;(B) identify potential sites and uses of wind energy systems at the following agencies as well as any others which the Secretary deems necessary:
 
@@ -24,7 +24,7 @@ The Secretary shall—
 
 &emsp;(2) study the effects, at varying levels of market penetration, of the widespread utilization of wind energy systems on the existing electrical utility system;
 
-&emsp;(3) determine the necessity for, and make recommendations to the Committee on Energy and Natural Resources of the Senate and the Committee on Science and Technology of the House of Representatives within eighteen months after September 8, 1980, on, the need for any additional incentives for either users or manufacturers, in each of the potential markets for wind energy systems, to accelerate the widespread utilization of wind energy technologies;
+&emsp;(3) determine the necessity for, and make recommendations to the Committee on Energy and Natural Resources of the Senate and theCommittee on Science and Technology of the House of Representatives within eighteen months after September 8, 1980, on, the need for any additional incentives for either users or manufacturers, in each of the potential markets for wind energy systems, to accelerate the widespread utilization of wind energy technologies;
 
 &emsp;(4) evaluate the actual performance of wind energy systems in various applications, including but not limited to residential, agricultural, large and small scale irrigation pumping, industrial, commercial, remote nonnetwork utility, and other applications, and report thereon to the Congress within two years after September 8, 1980; and
 

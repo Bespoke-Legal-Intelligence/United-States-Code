@@ -6,7 +6,7 @@ Establishment of Major Force Program.—The Secretary of Defense shall establish
 
 (b)
 
-Budget Assessment.—(1) Not later than 30 days after the date on which the President submits to Congress the budget for each of fiscal years 2017 through 2021, the Secretary of Defense shall submit to the congressional defense committees a report on the budget for national security space programs of the Department of Defense. The Secretary may include the report in the defense budget materials if the Secretarysubmits such materials to Congress by such date.
+Budget Assessment.—(1) Not later than 30 days after the date on which the President submits to Congress the budget for each of fiscal years 2017 through 2021, the Secretary of Defense shall submit to the congressional defense committees a report on the budget for national security space programs of the Department of Defense. The Secretary may include the report in the defense budget materials if the Secretary submits such materials to Congress by such date.
 
 (2) Each report on the budget for national security space programs of the Department of Defense under paragraph (1) shall include the following:
 

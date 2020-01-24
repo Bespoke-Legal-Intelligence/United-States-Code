@@ -40,7 +40,7 @@
 
 #### (4) Techniques
 
-&emsp;Evaluations conducted under this subsection shall utilize appropriate and rigorous methodology and research designs, including the use of control groups chosen by scientific random assignment methodologies. The Secretary shall conduct at least 1 multisite control group evaluation under this subsection by the end of fiscal year 2019, and thereafter shall ensure that such an analysis is included in the independent evaluation described in paragraph (1)(B) that is conducted at least once every 4 years.
+&emsp;Evaluations conducted under this subsection shall utilize appropriate and rigorous methodology and research designs, including theuse of control groups chosen by scientific random assignment methodologies. The Secretary shall conduct at least 1 multisite control group evaluation under this subsection by the end of fiscal year 2019, and thereafter shall ensure that such an analysis is included in the independent evaluation described in paragraph (1)(B) that is conducted at least once every 4 years.
 
 #### (5) Reports
 
@@ -177,6 +177,10 @@ Of the amount made available pursuant to section 3172(a)(2)(A) of this title for
 #### References in Text
 
 This Act, referred to in subsec. (b)(4)(A), (J), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

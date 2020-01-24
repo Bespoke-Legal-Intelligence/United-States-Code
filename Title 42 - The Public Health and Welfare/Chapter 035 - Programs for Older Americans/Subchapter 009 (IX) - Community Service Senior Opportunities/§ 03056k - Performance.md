@@ -20,7 +20,7 @@
 
 #### (i) First 2 years
 
-&emsp;&emsp;&emsp;Each grantee shall reach agreement with the Secretary on levels of performance for each measure described in subparagraph (A)(i),<sup>1</sup> for each of the first 2 program years covered by the grant agreement. In reaching the agreement, the grantee and the Secretary shall take into account the expected levels proposed by the grantee and the factors described in subparagraph (D). The levels agreed to shall be considered to be the expected levels of performance for the grantee for such program years.
+&emsp;&emsp;&emsp;Each grantee shall reach agreement with the Secretary on levels of performance for each measure described in subparagraph (A)(i),<sup>1</sup> for each of the first 2 programyears covered by the grant agreement. In reaching the agreement, the grantee and the Secretary shall take into account the expected levels proposed by the grantee and the factors described in subparagraph (D). The levels agreed to shall be considered to be the expected levels of performance for the grantee for such program years.
 
 #### (ii) Third and fourth year
 
@@ -38,7 +38,7 @@
 
 #### (E) Adjustments based on economic conditions and individuals served during the program year
 
-&emsp;&emsp;The Secretary shall, in accordance with the objective statistical model developedpursuant to subparagraph (D)(ii), adjust the expected levels of performance for a program year for grantees, to reflect the actual economic conditions and characteristics of participants in the corresponding projects during such program year.
+&emsp;&emsp;The Secretary shall, in accordance with the objective statistical model developed pursuant to subparagraph (D)(ii), adjust the expected levels of performance for a program year for grantees, to reflect the actual economic conditions and characteristics of participants in the corresponding projects during such program year.
 
 #### (3) Limitation
 
@@ -86,7 +86,7 @@ The Secretary shall annually evaluate, and publish and make available for public
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 120 days after the end of each program year, the Secretary shall determine if a national grantee awarded a grant under section 3056(b) of this title in accordance with section 3056l of this title has met the expected levels of performance established under subsection (a)(2)(B) (including any adjustments to such levels made in accordance with subsection (a)(2)(E)) for the core indicators of performance described in subsection (b)(1).
+&emsp;&emsp;Not later than 120 days after the end of each program year, the Secretary shall determine if a national grantee awarded a grant under section 3056(b) of this title in accordance with section 3056l of this title has met the expected levels of performance established under subsection (a)(2)(B) (including any adjustments to such levels made in accordance with subsection (a)(2)(E)) for thecore indicators of performance described in subsection (b)(1).
 
 #### (B) Technical assistance and corrective action plan
 

@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(2) to (5). Pub. L. 107–275, §2(b)(3)(A), redesignated pars. (3) to (5) as (2) to (4), respectively, substituted "paragraph (2)" for "paragraph 4" in par. (4), and struck out former par. (2) which read as follows: "The manner and place of filing such claim shall be in accordance with regulations issued jointly by the Commissioner of Social Security and the Secretary of Labor, which regulations shall provide, among other things, that such claims may be filed in district offices of the Social Security Administration and thereafter transferred to the jurisdiction of the Department of Labor for further consideration."
+<b>2002</b>—Subsec. (a)(2) to (5). Pub. L. 107–275, §2(b)(3)(A), redesignated pars. (3) to (5) as (2) to (4), respectively, substituted "paragraph (2)" for "paragraph 4" in par. (4), and struck out former par. (2) which read as follows: "The manner and place of filing such claim shallbe in accordance with regulations issued jointly by the Commissioner of Social Security and the Secretary of Labor, which regulations shall provide, among other things, that such claims may be filed in district offices of the Social Security Administration and thereafter transferred to the jurisdiction of the Department of Labor for further consideration."
 
 Subsec. (b). Pub. L. 107–275, §2(b)(3)(B), struck out ", after consultation with the Commissioner of Social Security," after "Secretary of Labor".
 

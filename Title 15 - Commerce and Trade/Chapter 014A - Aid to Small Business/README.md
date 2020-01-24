@@ -28,8 +28,9 @@
 | [636g.](%C2%A7%2000636g%20-%20Development%20and%20implementation%20of%20major%20disaster%20response%20plan.md) | Development and implementation of major disaster response plan. |
 | [636h.](%C2%A7%2000636h%20-%20Disaster%20planning%20responsibilities.md) | Disaster planning responsibilities. |
 | [636i.](%C2%A7%2000636i%20-%20Small%20business%20bonding%20threshold.md) | Small business bonding threshold. |
-| [636j.](%C2%A7%2000636j%20-%20Expedited%20disaster%20assistance%20loan%20program.md) | Expedited disaster assistance loan program. |
+| [636j.](%C2%A7%2000636j%20-%20Repealed.%20Pub.%20L.%20116%E2%80%936%2C%20div.%20D%2C%20title%20V%2C%20%C2%A7532%2C%20Feb.%2015%2C%202019%2C%20133%20Stat.%20180.md) | Repealed. |
 | [636k.](%C2%A7%2000636k%20-%20Reports%20on%20disaster%20assistance.md) | Reports on disaster assistance. |
+| 636<i>l.</i> | Semiannual report. |
 | [637\.](%C2%A7%2000637%20-%20Additional%20powers.md) | Additional powers. |
 | [637a.](%C2%A7%2000637a%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93409%2C%20%C2%A73%28b%29%2C%20May%202%2C%201966%2C%2080%20Stat.%20133.md) | Repealed. |
 | [637b.](%C2%A7%2000637b%20-%20Availability%20of%20information.md) | Availability of information. |
@@ -122,8 +123,9 @@
 - [&sect; 00636g - Development and implementation of major disaster response plan](%C2%A7%2000636g%20-%20Development%20and%20implementation%20of%20major%20disaster%20response%20plan.md)
 - [&sect; 00636h - Disaster planning responsibilities](%C2%A7%2000636h%20-%20Disaster%20planning%20responsibilities.md)
 - [&sect; 00636i - Small business bonding threshold](%C2%A7%2000636i%20-%20Small%20business%20bonding%20threshold.md)
-- [&sect; 00636j - Expedited disaster assistance loan program](%C2%A7%2000636j%20-%20Expedited%20disaster%20assistance%20loan%20program.md)
+- [&sect; 00636j - Repealed. Pub. L. 116&#8211;6, div. D, title V, &sect;532, Feb. 15, 2019, 133 Stat. 180](%C2%A7%2000636j%20-%20Repealed.%20Pub.%20L.%20116%E2%80%936%2C%20div.%20D%2C%20title%20V%2C%20%C2%A7532%2C%20Feb.%2015%2C%202019%2C%20133%20Stat.%20180.md)
 - [&sect; 00636k - Reports on disaster assistance](%C2%A7%2000636k%20-%20Reports%20on%20disaster%20assistance.md)
+- [&sect; 00636l - Semiannual report](%C2%A7%2000636l%20-%20Semiannual%20report.md)
 - [&sect; 00637 - Additional powers](%C2%A7%2000637%20-%20Additional%20powers.md)
 - [&sect; 00637a - Repealed. Pub. L. 89&#8211;409, &sect;3(b), May 2, 1966, 80 Stat. 133](%C2%A7%2000637a%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93409%2C%20%C2%A73%28b%29%2C%20May%202%2C%201966%2C%2080%20Stat.%20133.md)
 - [&sect; 00637b - Availability of information](%C2%A7%2000637b%20-%20Availability%20of%20information.md)

@@ -12,7 +12,7 @@ In this section:
 
 &emsp;The term "eligible entity" means—
 
-&emsp;&emsp;(A) any public power district, public utility district, or similar entity, or any electric cooperative described in section 501(c)(12) or 1381(a)(2) of title 26, that borrowed and repaid, prepaid, or is paying an electric loanmade or guaranteed by the Rural Utilities Service (or any predecessor agency);
+&emsp;&emsp;(A) any public power district, public utility district, or similar entity, or any electric cooperative described in section 501(c)(12) or 1381(a)(2) of title 26, that borrowed and repaid, prepaid, or is paying an electric loan made or guaranteed by the Rural Utilities Service (or any predecessor agency);
 
 &emsp;&emsp;(B) any entity primarily owned or controlled by 1 or more entities described in subparagraph (A); or
 
@@ -60,7 +60,7 @@ In this section:
 
 #### (C) Existing energy efficiency programs
 
-&emsp;&emsp;An eligible entity that, at any time before the date that is 60 days after February 7, 2014, has established an energy efficiency program for qualified consumers may use an existing list of energy efficiency measures, implementation plan, or measurement and verification system of that program to satisfy the requirements of subparagraph (A) if the Secretary determines the list, plan, or systems are consistent with the purposes of this section.
+&emsp;&emsp;An eligible entity that, at any time before the date that is 60 days after February 7, 2014, has established an energy efficiencyprogram for qualified consumers may use an existing list of energy efficiency measures, implementation plan, or measurement and verification system of that program to satisfy the requirements of subparagraph (A) if the Secretary determines the list, plan, or systems are consistent with the purposes of this section.
 
 #### (3) No interest
 

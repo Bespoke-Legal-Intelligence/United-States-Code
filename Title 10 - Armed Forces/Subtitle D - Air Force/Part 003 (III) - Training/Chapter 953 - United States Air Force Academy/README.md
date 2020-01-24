@@ -53,7 +53,7 @@ Pub. L. 109–364, div. A, title V, §532(d)(3), Oct. 17, 2006, 120 Stat. 2206, 
 
 <b>2004</b>—Pub. L. 108–375, div. A, title V, §545(c)(2), Oct. 28, 2004, 118 Stat. 1909, added item 9360.
 
-Pub. L. 108–375, div. A, title V, §544(c)(2), Oct. 28, 2004, 118 Stat. 1907, as amended by Pub. L. 109–364, div. A, title X, §1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, added item 9359.
+Pub. L. 108–375, div. A, title V, §544(c)(2), Oct. 28, 2004, 118 Stat. 1907, as amended by Pub. L. 109–364, div. A,title X, §1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, added item 9359.
 
 <b>1999</b>—Pub. L. 106–65, div. A, title V, §532(a)(4)(F), div. B, title XXVIII, §2871(c)(2), Oct. 5, 1999, 113 Stat. 604, 877, added items 9333a and 9356.
 

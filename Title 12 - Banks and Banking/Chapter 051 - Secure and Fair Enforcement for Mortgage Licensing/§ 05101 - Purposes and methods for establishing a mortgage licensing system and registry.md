@@ -18,7 +18,7 @@ In order to increase uniformity, reduce regulatory burden, enhance consumer prot
 
 &emsp;(8) Establishes a means by which residential mortgage loan originators would, to the greatest extent possible, be required to act in the best interests of the consumer.
 
-&emsp;(9) Facilitates responsible behavior in the subprime mortgage market place and providescomprehensive training and examination requirements related to subprime mortgage lending.
+&emsp;(9) Facilitates responsible behavior in the subprime mortgage market place and provides comprehensive training and examination requirements related to subprime mortgage lending.
 
 &emsp;(10) Facilitates the collection and disbursement of consumer complaints on behalf of State and Federal mortgage regulators.
 

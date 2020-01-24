@@ -20,7 +20,7 @@
 
 (4) If a Member, officer, or employee, after exercising reasonable diligence to obtain the information necessary to comply with this rule, unknowingly accepts a gift described in paragraph (1) such Member, officer, or employee shall, upon learning of the nature of the gift and its source, return the gift or, if it is not possible to return the gift, reimburse the donor for the value of the gift.
 
-(5)(A) Notwithstanding the provisions of this subsection, a Member, officer, or employee of the Senate may participate in a program, the principal objective of which is educational, sponsored by a foreign government or a foreign educational or charitable organization involving travel to a foreign country paid for by that foreign government or organization if such participation is not in violation of any law and if the select <sup>3</sup> Committee on Ethics has determined that participation in such program by Members, officers, or employees of the Senate is in the interests of the Senate and the United States.
+(5)(A) Notwithstanding the provisions of this subsection, a Member, officer, or employee of the Senate may participate in a program, the principal objective of which is educational, sponsored by a foreign government or a foreign educational or charitable organization involvingtravel to a foreign country paid for by that foreign government or organization if such participation is not in violation of any law and if the select <sup>3</sup> Committee on Ethics has determined that participation in such program by Members, officers, or employees of the Senate is in the interests of the Senate and the United States.
 
 (B) Any Member who accepts an invitation to participate in any such program shall notify the Select Committee in writing of his acceptance. A Member shall also notify the Select Committee in writing whenever he has permitted any officer or employee whom he supervises to participate in any such program. The chairman of the Select Committee shall place in the Congressional Record a list of all individuals,<sup>4</sup> participating, the supervisors of such individuals where applicable; <sup>5</sup> and the nature and itinerary of such program.
 
@@ -60,7 +60,7 @@ Subsec. (a)(4). Pub. L. 102–90, §314(c)(1), (2), redesignated par. (7) as (4)
 
 Subsec. (a)(5) to (8). Pub. L. 102–90, §314(c)(2), redesignated pars. (5) to (8) as (2) to (5), respectively.
 
-<b>1990</b>—Subsec. (a)(5)(D). Pub. L. 101–280, §8(1)(A), struck out subpar. (D) which read as follows: "from an individual who is a foreign national if that individual is not acting; directly or indirectly, on behalf of a foreign corporation, partnership or business enterprise, a foreign trade, cultural, educational or other association, a foreign political party or a foreign government."
+<b>1990</b>—Subsec. (a)(5)(D). Pub. L. 101–280, §8(1)(A), struck out subpar. (D) which read as follows: "from an individual who is a foreign national if that individualis not acting; directly or indirectly, on behalf of a foreign corporation, partnership or business enterprise, a foreign trade, cultural, educational or other association, a foreign political party or a foreign government."
 
 Subsec. (a)(6)(A) to (C). Pub. L. 101–280, §8(1)(B), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 

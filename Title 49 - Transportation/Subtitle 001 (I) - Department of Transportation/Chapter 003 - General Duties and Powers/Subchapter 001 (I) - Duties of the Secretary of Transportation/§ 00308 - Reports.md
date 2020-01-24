@@ -122,7 +122,7 @@ Deadline.—Each report described in subsection (a) shall be made available on t
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reporting provisions contained in subsecs. (a) and (b) of this section and, as subsequently amended, subsec. (e) of this section, are listed, respectively, as the 11th item on page 133, the last item on page 132, and the 5th item on page 138), see section 3003 of Pub. L. 104–66, as amended, setout as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reporting provisions contained in subsecs. (a) and (b) of this section and, as subsequently amended, subsec. (e) of this section, are listed, respectively, as the 11th item on page 133, the last item on page 132, and the 5th item on page 138), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Annual Report on Safety Enforcement Activities of Federal Aviation Administration
 

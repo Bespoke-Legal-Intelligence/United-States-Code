@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation shall establish a marketing incentive program for eligible places that receive subsidized service by an air carrier under section 41733. Under the program, the sponsor of the airport serving such an eligible place may receive a grant of not more than $50,000 in a fiscal year todevelop and implement a marketing plan to increase passenger boardings and the level of passenger usage of its airport facilities.
+In General.—The Secretary of Transportation shall establish a marketing incentive program for eligible places that receive subsidized service by an air carrier under section 41733. Under the program, the sponsor of the airport serving such an eligible place may receive a grant of not more than $50,000 in a fiscal year to develop and implement a marketing plan to increase passenger boardings and the level of passenger usage of its airport facilities.
 
 (b)
 
@@ -10,7 +10,7 @@ Matching Requirement; Success Bonuses—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraphs (2) and (3), not less than 25 percent of the publicly financed costs associated with a marketing plan to be developed and implemented under this section shall come from non-Federal sources. For purposes of this section—
+In general.—Except as provided in paragraphs (2) and (3), not less than 25 percent of the publicly financed costs associated with a marketing plan to be developed and implemented under this section shall come fromnon-Federal sources. For purposes of this section—
 
 &emsp;&emsp;(A) the non-Federal portion of the publicly financed costs may be derived from contributions in kind; and
 

@@ -24,7 +24,7 @@ Section 410 of the Agricultural Credit Act of 1987, referred to in subsec. (a), 
 
 #### Prior Provisions
 
-A prior section 2011, Pub. L. 92–181, title I, §1.3, Dec. 10, 1971, 85 Stat. 583; Pub. L. 100–233, title VIII, §802(a),Jan. 6, 1988, 101 Stat. 1710, related to establishment, title, and branches of Federal land banks prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
+A prior section 2011, Pub. L. 92–181, title I, §1.3, Dec. 10, 1971, 85 Stat. 583; Pub. L. 100–233, title VIII, §802(a), Jan. 6, 1988, 101 Stat. 1710, related to establishment, title, and branches of Federal land banks prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 #### Amendments
 
@@ -182,7 +182,7 @@ Development of merger plans.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Not later than 100 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), the arbitrator shall develop and submit for certification tothe Farm Credit Administration a plan specifying the terms and conditions of the merger of the two banks required under this paragraph, such that the terms and conditions are fair and equitable to the two banks, their affiliated associations, the stockholders or farmer-borrowers of the associations, and the other institutions of the Farm Credit System, and are designed to protect or enhance the safety and soundness of the Farm Credit System. In devising the plan, the arbitrator shall, to the extent practicable, achieve the following objectives:
+In general.—Not later than 100 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), the arbitrator shall develop and submit for certification to the Farm Credit Administration a plan specifying the terms and conditions of the merger of the two banks required under this paragraph, such that the terms and conditions are fair and equitable to the two banks, their affiliated associations, the stockholders or farmer-borrowers of the associations, and the other institutions of the Farm Credit System, and are designed to protect or enhance the safety and soundness of the Farm Credit System. In devising the plan, the arbitrator shall, to the extent practicable, achieve the following objectives:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) Implementation of the preferences expressed by the affected and interested parties in submissions under clause (ii).
 
@@ -232,7 +232,7 @@ Content of plan; agricultural credit associations.—If the arbitrator determine
 
 &emsp;&emsp;&emsp;"(v)
 
-Consultation with insurance corporation.—The arbitrator shall consult with the Farm Credit System Insurance Corporation regarding the valuation of the assets and liabilities under the plan of merger, the capitalization of the FarmCredit System institutions resulting under the plan, and any other matters relevant to the assistance to be provided by the Insurance Corporation to facilitate the merger under subparagraph (H).
+Consultation with insurance corporation.—The arbitrator shall consult with the Farm Credit System Insurance Corporation regarding the valuation of the assets and liabilities under the plan of merger, the capitalization of the Farm Credit System institutions resulting under the plan, and any other matters relevant to the assistance to be provided by the Insurance Corporation to facilitate the merger under subparagraph (H).
 
 &emsp;&emsp;"(E)
 
@@ -242,7 +242,7 @@ Certification of plan.—Not later than 30 days after the receipt of the plan de
 
 &emsp;&emsp;&emsp;"(ii) recommend to the arbitrator revisions to the plan that, if incorporated into the plan, will allow the Farm Credit Administration to certify,
 
-&nbsp;&nbsp;that the resulting bank and any resulting associations are proposed to be organized in such a fashion that they will, on implementation of the plan, operate in compliance with applicable laws and regulations. The arbitrator and the Farm Credit Administration shall work cooperatively to ensure the expeditious issuance of the certification. If the Farm Credit Administration recommends to the arbitrator revisions to the plan that, if incorporated into the plan, will allow the Farm Credit Administration to certify the plan, the arbitrator shall, not later than 15 days after receipt of the recommended revisions, incorporate the revisions into the plan as the arbitrator deems appropriate to secure the certification.
+&nbsp;&nbsp;that the resulting bank and any resulting associations are proposed to be organized in such a fashion that they will, on implementation of the plan, operate in compliance with applicable laws and regulations. The arbitrator and the Farm Credit Administration shall work cooperatively to ensure the expeditious issuance of the certification. If the Farm Credit Administration recommends to the arbitrator revisions to the plan that, if incorporated into the plan, will allow the Farm Credit Administration to certify the plan, the arbitrator shall, not later than 15 days after receipt of the recommended revisions, incorporate the revisions into the plan asthe arbitrator deems appropriate to secure the certification.
 
 &emsp;&emsp;"(F)
 
@@ -318,7 +318,7 @@ Safety and soundness.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Except as provided in clause (ii), if at any time prior to the completion of the merger required under this subsection the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is being operated in an unsafe or unsound manner (as determined in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)), the Farm Credit Administration, after consultation with the respective boards of directors of the affected banks and taking into consideration the purposes of this subsection, may require the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank, subject to such terms and conditions as the Farm Credit Administration may prescribe. The Farm Credit System Insurance Corporation shall expend amounts in the Farm Credit Insurance Fund to the extent necessary to facilitate the merger prescribed under this subparagraph, including the provision of assistance as provided in section 5.61(a)(2)(A)(iii) of the Farm Credit Act of 1971 (12 U.S.C. 2277a–10(a)(2)(A)(iii)), on such terms and conditions as the Corporation deems appropriate.
+In general.—Except as provided in clause (ii), if at any time prior to the completion of the merger required under this subsection the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is beingoperated in an unsafe or unsound manner (as determined in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)), the Farm Credit Administration, after consultation with the respective boards of directors of the affected banks and taking into consideration the purposes of this subsection, may require the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank, subject to such terms and conditions as the Farm Credit Administration may prescribe. The Farm Credit System Insurance Corporation shall expend amounts in the Farm Credit Insurance Fund to the extent necessary to facilitate the merger prescribed under this subparagraph, including the provision of assistance as provided in section 5.61(a)(2)(A)(iii) of the Farm Credit Act of 1971 (12 U.S.C. 2277a–10(a)(2)(A)(iii)), on such terms and conditions as the Corporation deems appropriate.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -378,5 +378,5 @@ Procedures.—Notwithstanding the United States Arbitration Act (9 U.S.C. 1 et s
 
 &emsp;&emsp;&emsp;"(iii)
 
-Expedited review.—Any such proceeding before the court shall be assigned for hearing and completed at the earliest possible date, and shall be expedited in every way. The court shall render its final decision relative to any challenge as soon as possible in accordance with the United States Arbitration Act (9 U.S.C. 1 et seq.), or not later than 30 days from the date the challenge is brought, whichever is sooner, unless the court determines that a longer period of time is required to satisfy the requirements of the Constitution."
+Expedited review.—Any such proceeding before the court shall be assigned for hearing and completed at the earliest possible date, and shall be expedited in every way. The court shall render its final decision relative to any challenge as soonas possible in accordance with the United States Arbitration Act (9 U.S.C. 1 et seq.), or not later than 30 days from the date the challenge is brought, whichever is sooner, unless the court determines that a longer period of time is required to satisfy the requirements of the Constitution."
 

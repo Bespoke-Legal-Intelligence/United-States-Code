@@ -14,9 +14,9 @@
 
 (d) Under regulations prescribed under section 1444(a) of this title, a person may, before or after the first day for which retired or retainer pay is granted, provided for allocating, during the period of the surviving spouse's eligibility, a part of the annuity under subsection (a)(3) for payment to those of his surviving children who are not children of that spouse.
 
-(e) Whenever there is an increase in retired and retainer pay under section 1401a of this title, each annuity that is payable under this subchapter on the day before the effective date of that increase to a spouse or child of a member who died on or before March 20, 1974, shall be increased by the same percentage as the percentage of that increase, effective on the effective date of that increase.
+(e) Whenever there is an increase in retired and retainer pay under section 1401a of thistitle, each annuity that is payable under this subchapter on the day before the effective date of that increase to a spouse or child of a member who died on or before March 20, 1974, shall be increased by the same percentage as the percentage of that increase, effective on the effective date of that increase.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 109; Pub. L. 87–381, §3, Oct. 4, 1961, 75 Stat. 811; Pub. L. 90–485,§1(3), Aug. 13, 1968, 82 Stat. 751; Pub. L. 95–397, title I, §101(a), Sept. 30, 1978, 92 Stat. 843; Pub. L. 96–513, title V, §511(56), Dec. 12, 1980, 94 Stat. 2925.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 109; Pub. L. 87–381, §3, Oct. 4, 1961, 75 Stat. 811; Pub. L. 90–485, §1(3), Aug. 13, 1968, 82 Stat. 751; Pub. L. 95–397, title I, §101(a), Sept. 30, 1978, 92 Stat. 843; Pub. L. 96–513, title V, §511(56), Dec. 12, 1980, 94 Stat. 2925.)
 
 Historical and Revision Notes
 

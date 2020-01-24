@@ -46,7 +46,7 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;Grants funded under subsection (a)(3) may be used for—
 
-&emsp;&emsp;&emsp;(i) the development of training modules and policies that address the overlap ofchild abuse, domestic violence, dating violence, sexual assault, and stalking and elder abuse, as well as childhood exposure to domestic and sexual violence;
+&emsp;&emsp;&emsp;(i) the development of training modules and policies that address the overlap of child abuse, domestic violence, dating violence, sexual assault, and stalking and elder abuse, as well as childhood exposure to domestic and sexual violence;
 
 &emsp;&emsp;&emsp;(ii) the development, expansion, and implementation of sexual assault forensic medical examination or sexual assault nurse examiner programs;
 
@@ -102,7 +102,7 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;&emsp;(iv) with respect to an application for a grant under which the grantee will have contact with patients, a plan, developed in collaboration with local victim service providers, to respond appropriately to and make correct referrals for individuals who disclose that they are victims of domestic violence, dating violence, sexual assault, stalking, or other types of violence, and documentation provided by the grantee of an ongoing collaborative relationship with a local victim service provider; and
 
-&emsp;&emsp;&emsp;(v) with respect to an application for a grant proposing to fund a program described in subsection (b)(2)(C)(ii), a certification that any sexual assault forensic medical examination and sexual assaultnurse examiner programs supported with such grant funds will adhere to the guidelines set forth by the Attorney General.
+&emsp;&emsp;&emsp;(v) with respect to an application for a grant proposing to fund a program described in subsection (b)(2)(C)(ii), a certification that any sexual assault forensic medical examination and sexual assault nurse examiner programs supported with such grant funds will adhere to the guidelines set forth by the Attorney General.
 
 #### (d) Eligible entities
 

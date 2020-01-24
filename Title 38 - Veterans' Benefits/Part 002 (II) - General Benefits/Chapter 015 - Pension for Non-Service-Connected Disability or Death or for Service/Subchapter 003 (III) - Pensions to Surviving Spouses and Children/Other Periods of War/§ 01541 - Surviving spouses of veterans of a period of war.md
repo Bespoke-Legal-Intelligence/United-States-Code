@@ -1,6 +1,6 @@
 ### §1541. Surviving spouses of veterans of a period of war
 
-(a) The Secretary shall pay to the surviving spouse of each veteran of a period of war who met the service requirements prescribed in section 1521(j) of this title, or who at the time of death was receiving (or entitled to receive) compensation or retirement pay for a service-connected disability, pension at the rate prescribed by this section, as increased from time to time under section 5312 of this title.
+(a) The Secretary shall pay to the surviving spouse of each veteran of a period of war whomet the service requirements prescribed in section 1521(j) of this title, or who at the time of death was receiving (or entitled to receive) compensation or retirement pay for a service-connected disability, pension at the rate prescribed by this section, as increased from time to time under section 5312 of this title.
 
 (b) If no child of the veteran is in the custody of the surviving spouse, pension shall be paid to the surviving spouse at the annual rate of $7,933, reduced by the amount of the surviving spouse's annual income.
 
@@ -94,7 +94,7 @@ Subsec. (a). Pub. L. 94–169, §101(2)(B), substituted "surviving spouse" for "
 
 Subsec. (b). Pub. L. 94–169, §103(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of pension from $108 to $117, substituted $900 to $1500 for $900 to $2100, $1500 to $2700 for $2100 to $3000 the minimum and maximum income ranges for which the pension rates will be reduced by 4 and 5 cents per dollar, respectively, inserted income range of $2700 to $3300 for which the pension rate will be reduced by 6 cents, and increased from $3000 to $3300 the maximum income in excess of which no pension will be paid.
 
-Subsec. (c). Pub. L. 94–169, §103(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30,1976, pension rate from $128 to $139, substituted $1100 to $1800 for $1100 to $2100, $1800 to $2700 for $2100 to $3000, $2700 to $3500 for $3000 to $4200 the minimum and maximum income ranges for which the pension rates will be reduced by 2, 3 and 4 cents per dollar, respectively, inserted income range of $3500 to $4500 for which the rate will be reduced by 5 cents, and increased the maximum income from $4200 to $4500 in excess of which no pension will be paid.
+Subsec. (c). Pub. L. 94–169, §103(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, pension rate from $128 to $139, substituted $1100 to $1800 for $1100 to $2100, $1800 to $2700 for $2100 to $3000, $2700 to $3500 for $3000 to $4200 the minimum and maximum income ranges for which the pension rates will be reduced by 2, 3 and 4 cents per dollar, respectively, inserted income range of $3500 to $4500 for which the rate will be reduced by 5 cents, and increased the maximum income from $4200 to $4500 in excess of which no pension will be paid.
 
 Subsec. (d). Pub. L. 94–169, §103(2), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, "surviving spouse" for "widow" and "$22" for "$20".
 
@@ -118,7 +118,7 @@ Subsec. (d). Pub. L. 93–177, §2, substituted "$18" for "$17".
 
 <b>1971</b>—Subsec. (b). Pub. L. 92–198, §1(c), substituted formula for computing monthly pension rates of widow without child by providing for a maximum monthly pension for each group within designated income category and for computing each individual's monthly pension by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out income and pension rates, and raised the maximum income from $2,300 to $2,600.
 
-Subsec. (c). Pub. L. 92–198, §1(d), substituted formula for computing monthly pension rates of widow with one child by providing for a maximum monthly pension for each group with designated annual income category and for computing each individual's monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out income and pension rates, and further providing that whenever the monthly rate payable is less than the amount payable to the child under section 542 of this title, the widow would be paid at the child's rate, and raised the maximum income from $3,500 to $3,800.
+Subsec. (c). Pub. L. 92–198, §1(d), substituted formula for computing monthly pension rates of widow with one child by providing for a maximum monthly pension for each group with designated annual income category and for computing each individual's monthly benefitrate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out income and pension rates, and further providing that whenever the monthly rate payable is less than the amount payable to the child under section 542 of this title, the widow would be paid at the child's rate, and raised the maximum income from $3,500 to $3,800.
 
 Subsec. (d). Pub. L. 92–198, §1(e), substituted "$17" for "$16".
 

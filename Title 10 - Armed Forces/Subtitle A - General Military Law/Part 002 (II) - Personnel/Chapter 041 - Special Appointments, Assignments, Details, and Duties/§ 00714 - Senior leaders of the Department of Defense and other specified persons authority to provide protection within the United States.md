@@ -94,7 +94,7 @@ Exceptions.—Subparagraph (A) does not apply to determinations made with respec
 
 (c)
 
-Definitions.—In this section, the terms "qualified members of the armed forces" and"qualified civilian employees of the Department of Defense" refer collectively to members or employees who are assigned to investigative, law enforcement, or security duties of any of the following:
+Definitions.—In this section, the terms "qualified members of the armed forces" and "qualified civilian employees of the Department of Defense" refer collectively to members or employees who are assigned to investigative, law enforcement, or security duties of any of the following:
 
 &emsp;(1) The Army Criminal Investigation Command.
 

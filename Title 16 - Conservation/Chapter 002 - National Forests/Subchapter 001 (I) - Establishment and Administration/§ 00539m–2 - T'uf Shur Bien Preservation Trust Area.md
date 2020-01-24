@@ -44,7 +44,7 @@ The T'uf Shur Bien Preservation Trust Area is established within the Cibola Nati
 
 #### (2) Public availability
 
-&emsp;The map and legal description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Washington, District of Columbia.
+&emsp;The map and legal description shall be on file and available for public inspection in theOffice of the Chief of the Forest Service, Washington, District of Columbia.
 
 #### (3) Effect
 

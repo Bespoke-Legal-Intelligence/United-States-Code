@@ -12,7 +12,7 @@ The Secretary shall direct each guaranty agency with which the Secretary has an 
 
 #### (2) Activities
 
-&emsp;Each guaranty agency shall undertake such activities as are necessary to promote access to postsecondary education for students through providing information on collegeplanning, career preparation, and paying for college. The guaranty agency shall publicize such information and coordinate such activities with other entities that either provide or distribute such information in the States for which such guaranty agency serves as the designated guarantor.
+&emsp;Each guaranty agency shall undertake such activities as are necessary to promote access to postsecondary education for students through providing information on college planning, career preparation, and paying for college. The guaranty agency shall publicize such information and coordinate such activities with other entities that either provide or distribute such information in the States for which such guaranty agency serves as the designated guarantor.
 
 #### (3) Funding
 

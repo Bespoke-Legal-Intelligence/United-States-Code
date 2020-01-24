@@ -34,7 +34,7 @@ Notwithstanding any other provision of law, a civil action may not lie or be mai
 
 #### (2) Supplemental materials
 
-&emsp;In its review of a certification under subsection (a), the court may examine the courtorder, certification, written request, or directive described in subsection (a) and any relevant court order, certification, written request, or directive submitted pursuant to subsection (d).
+&emsp;In its review of a certification under subsection (a), the court may examine the court order, certification, written request, or directive described in subsection (a) and any relevant court order, certification, written request, or directive submitted pursuant to subsection (d).
 
 #### (c) Limitations on disclosure
 

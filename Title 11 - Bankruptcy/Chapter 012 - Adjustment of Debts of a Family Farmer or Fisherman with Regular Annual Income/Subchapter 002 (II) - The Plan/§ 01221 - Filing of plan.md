@@ -26,5 +26,5 @@ Application of Amendment Made by Section 2.—The amendment made by section 2 \[
 
 #### Effective Dates
 
-Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter noteunder section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 

@@ -24,7 +24,7 @@ Pub. L. 114–113, div. O, title VII, §709(b), Dec. 18, 2015, 129 Stat. 3030, p
 
 "(1)
 
-In general.—The Making Home Affordable initiative of the Secretary of the Treasury, as authorizedunder the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5201 et seq.), shall terminate on December 31, 2016.
+In general.—The Making Home Affordable initiative of the Secretary of the Treasury, as authorized under the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5201 et seq.), shall terminate on December 31, 2016.
 
 "(2)
 

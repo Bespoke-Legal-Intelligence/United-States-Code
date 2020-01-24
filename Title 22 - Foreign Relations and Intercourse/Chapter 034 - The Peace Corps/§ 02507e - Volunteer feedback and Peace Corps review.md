@@ -10,13 +10,13 @@ The President shall establish performance plans with performance elements and st
 
 #### (c) Annual volunteer surveys
 
-Annually through September 30, 2023, the President shall conduct a confidential survey of volunteers regarding the effectiveness of Peace Corps programs and staff and the safety of volunteers. The results shall be provided in aggregate form without identifying information to the Committee on Foreign Relations and the Committee on Appropriations of the Senate andthe Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives. Results from the annual volunteer survey shall be considered in reviewing the performance of Peace Corps representatives under subsection (b). The President shall publish, on a publicly available website of the Peace Corps, a report summarizing the results of each survey related to volunteer satisfaction in each country in which volunteers serve, and the early termination rate of volunteers serving in each such country. The information published shall be posted in an easily accessible place near the description of the appropriate country and shall be written in an easily understood manner.
+Annually through September 30, 2023, the President shall conduct a confidential survey of volunteers regarding the effectiveness of Peace Corps programs and staff and the safety of volunteers. The results shall be provided in aggregate form without identifying information to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives. Results from the annual volunteer survey shall be considered in reviewing the performance of Peace Corps representatives under subsection (b). The President shall publish, on a publicly available website of the Peace Corps, a report summarizing the results of each survey related to volunteer satisfaction in each country in which volunteers serve, and the early termination rate of volunteers serving in each such country. The information published shall be posted in an easily accessible place near the description of the appropriate country and shall be written in an easily understood manner.
 
 #### (d) Peace Corps Inspector General
 
 The Inspector General of the Peace Corps shall—
 
-&emsp;(1) submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives—
+&emsp;(1) submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on ForeignAffairs and the Committee on Appropriations of the House of Representatives—
 
 &emsp;&emsp;(A) a report, not later than one year after November 21, 2011, and biennially through September 30, 2018, on reports received from volunteers relating to misconduct, mismanagement, or policy violations of Peace Corps staff, any breaches of the confidentiality of volunteers, and any actions taken to assure the safety of volunteers who provide such reports;
 

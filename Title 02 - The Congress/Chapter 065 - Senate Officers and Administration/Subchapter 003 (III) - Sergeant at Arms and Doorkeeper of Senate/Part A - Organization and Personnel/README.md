@@ -5,7 +5,7 @@ Part A—Organization and Personnel
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 06591 - Compensation of Sergeant at Arms and Doorkeeper of Senate](%C2%A7%2006591%20-%20Compensation%20of%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate.md)
+- [&sect; 06591 - Repealed. Pub. L. 116&#8211;94, div. E, title II, &sect;212(a)(3)(H), Dec. 20, 2019, 133 Stat. 2776](%C2%A7%2006591%20-%20Repealed.%20Pub.%20L.%20116%E2%80%9394%2C%20div.%20E%2C%20title%20II%2C%20%C2%A7212%28a%29%283%29%28H%29%2C%20Dec.%2020%2C%202019%2C%20133%20Stat.%202776.md)
 - [&sect; 06592 - Limitation on compensation of Sergeant at Arms and Doorkeeper of Senate](%C2%A7%2006592%20-%20Limitation%20on%20compensation%20of%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate.md)
 - [&sect; 06593 - Deputy Sergeant at Arms and Doorkeeper to act on death, resignation, disability, or absence of Sergeant at Arms and Doorkeeper of Senate](%C2%A7%2006593%20-%20Deputy%20Sergeant%20at%20Arms%20and%20Doorkeeper%20to%20act%20on%20death%2C%20resignation%2C%20disability%2C%20or%20absence%20of%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate.md)
 - [&sect; 06594 - Compensation of Deputy Sergeant at Arms and Doorkeeper of Senate](%C2%A7%2006594%20-%20Compensation%20of%20Deputy%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate.md)

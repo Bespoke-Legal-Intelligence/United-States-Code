@@ -62,7 +62,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 ### <b>RULES GOVERNING SECTION 2255 PROCEEDINGS FOR THE UNITED STATES DISTRICT COURTS</b>
 
-#### <i>(Effective Feb. 1, 1977, as amended to Jan. 14, 2019)</i>
+#### <i>(Effective Feb. 1, 1977, as amended to Jan. 24, 2020)</i>
 
 Rule
 
@@ -398,9 +398,9 @@ Records of Prior Proceedings. If the answer refers to briefs or transcripts of t
 
 (d)
 
-Reply. The moving party may submit a reply to the respondent's answer or other pleading within a time fixed by the judge.
+Reply. The moving party may file a reply to the respondent's answer or other pleading. The judge must set the time to file unless the time is already set by local rule.
 
-> (As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
+> (As amended Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Advisory Committee Note
 
@@ -431,6 +431,14 @@ Finally, revised Rule 5(d) adopts the practice in some jurisdictions giving the 
 <i>Changes Made After Publication and Comments</i>. Rule 5(a) was modified to read that the government is not required to "respond" to the motion unless the court so orders; the term "respond" was used because it leaves open the possibility that the government's first response (as it is in some districts) is in the form of a pre-answer motion to dismiss the petition. The Note has been changed to reflect the fact that although the rule itself does not reflect that particular motion, it is used in some districts and refers the reader to Rule 4.
 
 Finally, the Committee changed the Note to address the use of the term "traverse," a point raised by one of the commentators on the proposed rule.
+
+#### Committee Notes on Rules—2019 Amendment
+
+The moving party has a right to file a reply. Subsection (d), added in 2004, removed the discretion of the court to determine whether or not to allow the moving party to file a reply in a case under §2255. The current amendment was prompted by decisions holding that courts nevertheless retained the authority to bar a reply.
+
+As amended, the first sentence of subsection (d) makes it even clearer that the moving party has a right to file a reply to the respondent's answer or pleading. It retains the word "may," which is used throughout the federal rules to mean "is permitted to" or "has a right to." No change in meaning is intended by the substitution of "file" for "submit."
+
+As amended, the second sentence of the rule retains the court's discretion to decide when the reply must be filed (but not whether it may be filed). To avoid uncertainty, the amended rule requires the court to set a time for filing if that time is not already set by local rule. Adding a reference to the time for the filing of any reply to the order requiring the government to file an answer or other pleading provides notice of that deadline to both parties.
 
 ### Rule 6. Discovery
 
@@ -596,7 +604,7 @@ In <i>Aiken v. United States</i>, 191 F.Supp. 43, 50 (M.D.N.Car. 1961), aff'd 29
 
 There have been holdings by some courts that a delay in filing a §2255 motion operates to increase the burden of proof which the movant must meet to obtain relief. The reasons for this, as expressed in <i>United States v. Bostic</i>, 206 F.Supp. 855 (D.C.Cir. 1962), are equitable in nature.
 
-&emsp;Obviously, the burden of proof on a motion to vacate a sentence under 28 U.S.C. §2255 is on the moving party. . . . The burden is particularly heavy if the issue is one of fact and a long time has elapsed since the trial of the case. While neither the statute of limitations nor laches can bar the assertion of a constitutional right, nevertheless, the passage of time may make it impracticable to retry a case if the motion is granted and a new trial is ordered. No doubt, at times such a motion is a product of an afterthought. Long delay may raise a question of good faith.
+&emsp;Obviously, the burden of proof on a motion to vacate a sentence under 28 U.S.C. §2255 is on the moving party. . . . The burden is particularly heavy if the issue is one of fact and a long time has elapsed since the trial of the case. While neither the statute of limitations nor laches can bar the assertion of a constitutional right, nevertheless, the passage of timemay make it impracticable to retry a case if the motion is granted and a new trial is ordered. No doubt, at times such a motion is a product of an afterthought. Long delay may raise a question of good faith.
 
 #### 206 F.Supp. at 856–857
 
@@ -678,7 +686,7 @@ Certificate of Appealability. The district court must issue or deny a certificat
 
 (b)
 
-Time to Appeal. Federal Rule of Appellate Procedure 4(a) governs the time to appeal an order entered under these rules. A timely notice of appeal must be filed even if the district court issues a certificate of appealability. These rules do not extend the time to appeal the original judgment of conviction.
+Time to Appeal. Federal Rule of Appellate Procedure 4(a) governs the time to appeal an order entered under these rules. A timely noticeof appeal must be filed even if the district court issues a certificate of appealability. These rules do not extend the time to appeal the original judgment of conviction.
 
 > (As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 26, 2004, eff. Dec. 1, 2004; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
@@ -688,7 +696,7 @@ Rule 11 is intended to make clear that, although a §2255 action is a continuati
 
 #### 1979 Amendment
 
-Prior to the promulgation of the Rules Governing Section 2255 Proceedings, the courts consistently held that the time for appeal in a section 2255 case is as provided in Fed.R.App.P. 4(a), that is, 60 days when the government is a party, rather than as provided in appellate rule 4(b), which says that the time is 10 days in criminal cases. This result has often been explained on the ground that rule 4(a) has to do with civil cases and that "proceedings under section 2255 are civil in nature." E.g., <i>Rothman v. United States</i>, 508 F.2d 648 (3d Cir. 1975). Because the new section 2255 rules are based upon the premise "that a motion under §2255 is a further step in the movant's criminal case rather than a separate civil action," see Advisory Committee Note to rule 1, the question has arisen whether the new ruleshave the effect of shortening the time for appeal to that provided in appellate rule 4(b). A sentence has been added to rule 11 in order to make it clear that this is not the case.
+Prior to the promulgation of the Rules Governing Section 2255 Proceedings, the courts consistently held that the time for appeal in a section 2255 case is as provided in Fed.R.App.P. 4(a), that is, 60 days when the government is a party, rather than as provided in appellate rule 4(b), which says that the time is 10 days in criminal cases. This result has often been explained on the ground that rule 4(a) has to do with civil cases and that "proceedings under section 2255 are civil in nature." E.g., <i>Rothman v. United States</i>, 508 F.2d 648 (3d Cir. 1975). Because the new section 2255 rules are based upon the premise "that a motion under §2255 is a further step in the movant's criminal case rather than a separate civil action," see Advisory Committee Note to rule 1, the question has arisen whether the new rules have the effect of shortening the time for appeal to that provided in appellate rule 4(b). A sentence has been added to rule 11 in order to make it clear that this is not the case.
 
 Even though section 2255 proceedings are a further step in the criminal case, the added sentence correctly states current law. In <i>United States v. Hayman</i>, 342 U.S. 205 (1952), the Supreme Court noted that such appeals "are governed by the civil rules applicable to appeals from final judgments in habeas corpus actions." In support, the Court cited <i>Mercado v. United States</i>, 183 F.2d 486 (1st Cir. 1950), a case rejecting the argument that because §2255 proceedings are criminal in nature the time for appeal is only 10 days. The <i>Mercado</i> court concluded that the situation was governed by that part of 28 U.S.C. §2255 which reads: "An appeal may be taken to the court of appeals from the order entered on the motion as from a final judgment on application for a writ of habeas corpus." Thus, because appellate rule 4(a) is applicable in habeas cases, it likewise governs in §2255 cases even though they are criminal in nature.
 

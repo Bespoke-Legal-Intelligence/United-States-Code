@@ -16,7 +16,7 @@ Hazardous fuels reduction projects, as defined in section 6511(2) of this title 
 
 &emsp;A project referred to in subsection (a) is a project to carry out forest restoration treatments that—
 
-&emsp;&emsp;(A) maximizes the retention of old-growth and large trees, as appropriate for the forest type, to the extent that the trees promote stands that are resilient to insects and disease, and reduce the risk or extent of, or increase the resilience to, wildfires;
+&emsp;&emsp;(A) maximizes the retention of old-growth and large trees, as appropriate for the foresttype, to the extent that the trees promote stands that are resilient to insects and disease, and reduce the risk or extent of, or increase the resilience to, wildfires;
 
 &emsp;&emsp;(B) considers the best available scientific information to maintain or restore the ecological integrity, including maintaining or restoring structure, function, composition, and connectivity; and
 
@@ -96,7 +96,7 @@ The Secretary shall conduct public notice and scoping for any project or action 
 
 #### (2) Submission
 
-&emsp;Not later than 1 year after March 23, 2018, and each year thereafter, the Secretary shallsubmit the reports required under paragraph (1) to—
+&emsp;Not later than 1 year after March 23, 2018, and each year thereafter, the Secretary shall submit the reports required under paragraph (1) to—
 
 &emsp;&emsp;(A) the Committee on Agriculture, Nutrition, and Forestry of the Senate;
 

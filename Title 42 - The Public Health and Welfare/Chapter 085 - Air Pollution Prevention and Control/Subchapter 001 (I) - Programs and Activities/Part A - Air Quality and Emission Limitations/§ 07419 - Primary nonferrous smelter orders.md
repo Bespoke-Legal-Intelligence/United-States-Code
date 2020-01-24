@@ -54,7 +54,7 @@ A primary nonferrous smelter order under this section may be issued to a primary
 
 (3) In order to obtain information for purposes of a waiver under paragraph (2), the Administrator may, on his own motion, conduct an investigation and use the authority of section 7621 of this title.
 
-(4) In the case of any smelter which on August 7, 1977, uses continuous emission reduction technology and supplemental controls and which receives an initial primary nonferrous smelter order under this section, no additional continuous emission reduction technology shall be required as a condition of such order unless the Administrator determines, at any time, after notice and public hearing, that such additional continuous emission reduction technology isadequately demonstrated to be reasonably available for the primary nonferrous smelter industry.
+(4) In the case of any smelter which on August 7, 1977, uses continuous emission reduction technology and supplemental controls and which receives an initial primary nonferrous smelter order under this section, no additional continuous emission reduction technology shall be required as a condition of such order unless the Administrator determines, at any time, after notice and public hearing, that such additional continuous emission reduction technology is adequately demonstrated to be reasonably available for the primary nonferrous smelter industry.
 
 #### (e) Termination of orders
 

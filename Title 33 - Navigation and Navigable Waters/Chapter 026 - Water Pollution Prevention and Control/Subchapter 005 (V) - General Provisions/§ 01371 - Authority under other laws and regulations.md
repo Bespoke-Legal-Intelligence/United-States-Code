@@ -16,7 +16,7 @@ Discharges of pollutants into the navigable waters subject to the Rivers and Har
 
 &emsp;(A) authorize any Federal agency authorized to license or permit the conduct of any activity which may result in the discharge of a pollutant into the navigable waters to review any effluent limitation or other requirement established pursuant to this chapter or the adequacy of any certification under section 1341 of this title; or
 
-&emsp;(B) authorize any such agency to impose, as a condition precedent to the issuance of anylicense or permit, any effluent limitation other than any such limitation established pursuant to this chapter.
+&emsp;(B) authorize any such agency to impose, as a condition precedent to the issuance of any license or permit, any effluent limitation other than any such limitation established pursuant to this chapter.
 
 #### (d) Consideration of international water pollution control agreements
 

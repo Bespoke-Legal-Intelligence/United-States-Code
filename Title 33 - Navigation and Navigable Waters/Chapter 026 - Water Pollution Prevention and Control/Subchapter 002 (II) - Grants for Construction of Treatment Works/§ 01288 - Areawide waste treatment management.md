@@ -34,7 +34,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 &emsp;&emsp;(i) implement the waste treatment management requirements of section 1281(c) of this title,
 
-&emsp;&emsp;(ii) regulate the location, modification, and construction of any facilities withinsuch area which may result in any discharge in such area, and
+&emsp;&emsp;(ii) regulate the location, modification, and construction of any facilities within such area which may result in any discharge in such area, and
 
 &emsp;&emsp;(iii) assure that any industrial or commercial wastes discharged into any treatment works in such area meet applicable pretreatment requirements;
 
@@ -138,7 +138,7 @@ The Administrator is authorized, upon request of the Governor or the designated 
 
 #### (j) Agricultural cost sharing
 
-(1) The Secretary of Agriculture, with the concurrence of the Administrator, and acting through the Soil Conservation Service and such other agencies of the Department of Agriculture as the Secretary may designate, is authorized and directed to establish and administer a program to enter into contracts, subject to such amounts as are provided in advance by appropriation acts, of not less than five years nor more than ten years with owners and operators having control of rural land for the purpose of installing and maintaining measures incorporating best management practices to control nonpoint source pollution for improved water quality in those States or areas for which the Administrator has approved a plan under subsection (b) of this section where the practices to which the contracts apply are certified by the management agency designated under subsection (c)(1) of this section to be consistent with such plans and will result in improved water quality. Such contracts may be entered into during the period ending not later than September 31, 1988. Under such contracts the land owner or operator shall agree—
+(1) The Secretary of Agriculture, with the concurrence of the Administrator, and acting through the Soil Conservation Service and such other agencies of the Department of Agriculture as the Secretary may designate, is authorized and directed to establish and administer a program to enter into contracts, subject to such amounts as are provided in advance by appropriation acts, of not less than five years nor more than ten years with owners and operatorshaving control of rural land for the purpose of installing and maintaining measures incorporating best management practices to control nonpoint source pollution for improved water quality in those States or areas for which the Administrator has approved a plan under subsection (b) of this section where the practices to which the contracts apply are certified by the management agency designated under subsection (c)(1) of this section to be consistent with such plans and will result in improved water quality. Such contracts may be entered into during the period ending not later than September 31, 1988. Under such contracts the land owner or operator shall agree—
 
 &emsp;(i) to effectuate a plan approved by a soil conservation district, where one exists, under this section for his farm, ranch, or other land substantially in accordance with the schedule outlined therein unless any requirement thereof is waived or modified by the Secretary;
 
@@ -164,7 +164,7 @@ The Administrator is authorized, upon request of the Governor or the designated 
 
 (8) This program shall not be used to authorize or finance projects that would otherwise be eligible for assistance under the terms of Public Law 83–566 \[16 U.S.C. 1001 et seq.\].
 
-(9) There are hereby authorized to be appropriated to the Secretary of Agriculture $200,000,000 for fiscal year 1979, $400,000,000 for fiscal year 1980, $100,000,000 for fiscal year 1981, $100,000,000 for fiscal year 1982, and such sums as may be necessary for fiscal years 1983 through 1990, to carry out this subsection. The program authorized under this subsection shall be in addition to, and not in substitution of, other programs in such area authorized by this or any other public law.
+(9) There are hereby authorized to be appropriated to the Secretary of Agriculture $200,000,000 for fiscal year 1979, $400,000,000 for fiscal year 1980, $100,000,000 for fiscal year 1981, $100,000,000 for fiscal year 1982, and such sums as may be necessary for fiscal years 1983 through 1990, to carry out this subsection. The programauthorized under this subsection shall be in addition to, and not in substitution of, other programs in such area authorized by this or any other public law.
 
 (June 30, 1948, ch. 758, title II, §208, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 839; amended Pub. L. 95–217, §§4(e), 31, 32, 33(a), 34, 35, Dec. 27, 1977, 91 Stat. 1566, 1576–1579; Pub. L. 96–483, §1(d), (e), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §101(d), (e), Feb. 4, 1987, 101 Stat. 9.)
 

@@ -14,7 +14,7 @@ It shall be unlawful—
 
 &emsp;&emsp;(C) willfully to deceive or attempt to deceive the other person by any means whatsoever in regard to any order or contract or the disposition or execution of any order or contract, or in regard to any act of agency performed, with respect to any order or contract for or, in the case of paragraph (2), with the other person; or
 
-&emsp;&emsp;(D)(i) to bucket an order if the order is either represented by the person as an order to be executed, or is required to be executed, on or subject to the rules of a designated contract market; or
+&emsp;&emsp;(D)(i) to bucket an order if the order is either represented by the person as an order tobe executed, or is required to be executed, on or subject to the rules of a designated contract market; or
 
 &emsp;&emsp;(ii) to fill an order by offset against the order or orders of any other person, or willfully and knowingly and without the prior consent of the other person to become the buyer in respect to any selling order of the other person, or become the seller in respect to any buying order of the other person, if the order is either represented by the person as an order to be executed, or is required to be executed, on or subject to the rules of a designated contract market unless the order is executed in accordance with the rules of the designated contract market.
 
@@ -64,7 +64,7 @@ Subsec. (e). Pub. L. 111–203, §741(b)(1)(C), added subsec. (e).
 
 <b>1974</b>—Pub. L. 93–463 substituted "a commodity" for "cotton" in provisions following subpar. (D) and inserted requirement that execution of buying and selling orders for commodities held simultaneously by the same merchant or broker be carried out in accordance with such rules and regulations as the Commission may promulgate regarding the manner of the execution of such transactions.
 
-<b>1968</b>—Pub. L. 90–258 relocated cl. (1) designation in first par. to follow "unlawful" rather than to precede "any contract of sale", provided in such cl. (1) for orders to make or making of contracts of sale "made, or to be made on or subject to the rules of any contract market, for or on behalf of any other person" and in cl. (2) "for any person, in or in connection with any order to make, or the making of," any contract of sale of any commodity for future delivery for or on behalf of any "other" person; and inserted "other" before "person" in subpar. (A) and in subpars. (B) and (C) where appearing for first time, respectively.
+<b>1968</b>—Pub. L. 90–258 relocated cl. (1) designation in first par. to follow "unlawful" rather than to precede "any contract of sale", provided in such cl. (1) for orders to make or making of contracts of sale "made, or to be made on or subject to the rules of any contractmarket, for or on behalf of any other person" and in cl. (2) "for any person, in or in connection with any order to make, or the making of," any contract of sale of any commodity for future delivery for or on behalf of any "other" person; and inserted "other" before "person" in subpar. (A) and in subpars. (B) and (C) where appearing for first time, respectively.
 
 #### Effective Date of 2010 Amendment
 

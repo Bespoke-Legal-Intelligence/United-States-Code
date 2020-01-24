@@ -68,7 +68,7 @@ Coordination with state.—The Secretary, after coordinating with the State, sha
 
 Modifications to Final Rule.—The Secretary shall undertake a public process to consider, consistent with management requirements at the National Seashore, the following changes to the Final Rule:
 
-&emsp;"(1) Opening beaches at the National Seashore that are closed to night driving restrictions, by openingbeach segments each morning on a rolling basis as daily management reviews are completed.
+&emsp;"(1) Opening beaches at the National Seashore that are closed to night driving restrictions, by opening beach segments each morning on a rolling basis as daily management reviews are completed.
 
 &emsp;"(2) Extending seasonal off-road vehicle routes for additional periods in the Fall and Spring if off-road vehicle use would not create resource management problems at the National Seashore.
 

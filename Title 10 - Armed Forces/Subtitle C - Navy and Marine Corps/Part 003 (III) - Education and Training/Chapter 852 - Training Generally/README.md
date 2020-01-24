@@ -13,6 +13,34 @@
 
 <b>1998</b>—Pub. L. 105–261, div. A, title V, §522(b)(2), Oct. 17, 1998, 112 Stat. 2013, added item 6932.
 
+#### Prohibition on Gender-Segregated Training at Marine Corps Recruit Depots
+
+Pub. L. 116–92, div. A, title V, §565, Dec. 20, 2019, 133 Stat. 1395, provided that:
+
+"(a)
+
+Parris Island.—
+
+&emsp;"(1)
+
+Prohibition.—Subject to paragraph (2), training at the Marine Corps Recruit Depot, Parris Island, South Carolina, may not be segregated based on gender.
+
+&emsp;"(2)
+
+Deadline.—The Commandant of the Marine Corps shall carry out this subsection not later than five years after the date of the enactment of this Act \[Dec. 20, 2019\].
+
+"(b)
+
+San Diego.—
+
+&emsp;"(1)
+
+Prohibition.—Subject to paragraph (2), training at the Marine Corps Recruit Depot, San Diego, California, may not be segregated based on gender.
+
+&emsp;"(2)
+
+Deadline.—The Commandant of the Marine Corps shall carry out this subsection not later than eight years after the date of the enactment of this Act."
+
 #### Annual Certifications Related to Ready, Relevant Learning Initiative of the Navy
 
 Pub. L. 115–91, div. A, title V, §545, Dec. 12, 2017, 131 Stat. 1396, provided that:
@@ -25,7 +53,7 @@ Annual Certifications Required.—Not later than March 1, 2018, and each year th
 
 Elements.—Each certification under subsection (a) shall include the following:
 
-&emsp;"(1) A certification by the Commander of the United States Fleet Forces Command that the block learning and modernized delivery methods of the Ready, Relevant Learning initiative to be implemented during the fiscal year beginning in which such certification is submitted will meet or exceed the existing training delivery approach for all associated training requirements.
+&emsp;"(1) A certification by the Commander of the United States Fleet Forces Command that the block learning and modernized delivery methods of theReady, Relevant Learning initiative to be implemented during the fiscal year beginning in which such certification is submitted will meet or exceed the existing training delivery approach for all associated training requirements.
 
 &emsp;"(2) A certification by the Secretary of the Navy that the content re-engineering necessary to meet all training objectives and transition from the traditional training curriculum to the modernized delivery format to be implemented during such fiscal year will be complete prior to such transition, including full functionality of all required course software and hardware.
 

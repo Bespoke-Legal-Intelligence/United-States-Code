@@ -100,7 +100,7 @@ Pub. L. 100–203, title X, §10242(d), Dec. 22, 1987, 101 Stat. 1330–423, pro
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions ofthe Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date
 
@@ -116,7 +116,7 @@ Pub. L. 98–369, div. A, title II, §217(i), July 18, 1984, 98 Stat. 764, as am
 
 "(1)
 
-In general.—A mutual life insurance company may elect to treat all individual noncancellable (or guaranteed renewable) accident and health insurance contracts as though they were cancellable for purposesof section 816 of subchapter L of chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
+In general.—A mutual life insurance company may elect to treat all individual noncancellable (or guaranteed renewable) accident and health insurance contracts as though they were cancellable for purposes of section 816 of subchapter L of chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
 "(2)
 

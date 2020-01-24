@@ -26,7 +26,7 @@ The President may waive the prohibitions of section 2799aa of this title with re
 
 &emsp;(B) Facilitating military-to-military contact, training (including part V of subchapter II of this chapter) and humanitarian and civic assistance projects.
 
-&emsp;(C) Peacekeeping and other multilateral operations (including part VI of subchapter II of this chapter relating to peacekeeping) or anyprovision of law available for providing assistance for peacekeeping purposes, except that lethal military equipment provided under this subparagraph shall be provided on a lease or loan basis only and shall be returned upon completion of the operation for which it was provided.
+&emsp;(C) Peacekeeping and other multilateral operations (including part VI of subchapter II of this chapter relating to peacekeeping) or any provision of law available for providing assistance for peacekeeping purposes, except that lethal military equipment provided under this subparagraph shall be provided on a lease or loan basis only and shall be returned upon completion of the operation for which it was provided.
 
 &emsp;(D) Antiterrorism assistance (including part VIII of subchapter II of this chapter relating to antiterrorism assistance) or any provision of law available for antiterrorism assistance purposes.
 

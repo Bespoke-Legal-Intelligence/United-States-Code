@@ -144,7 +144,7 @@
 
 #### (G) Application to commonwealths and territories
 
-&emsp;&emsp;The provisions of subparagraph (G) of section 1397dd(n)(3) of this title shall apply withrespect to payment under this paragraph in the same manner as such provisions apply to payment under such section.
+&emsp;&emsp;The provisions of subparagraph (G) of section 1397dd(n)(3) of this title shall apply with respect to payment under this paragraph in the same manner as such provisions apply to payment under such section.
 
 #### (H) Application to States that implement a Medicaid expansion for children after fiscal year 2008
 
@@ -206,7 +206,7 @@
 
 #### (H) Premium assistance subsidies
 
-&emsp;&emsp;The State is implementing the option of providing premium assistance subsidiesunder subsection (c)(10) or section 1396e–1 of this title.
+&emsp;&emsp;The State is implementing the option of providing premium assistance subsidies under subsection (c)(10) or section 1396e–1 of this title.
 
 #### (b) Enhanced FMAP
 
@@ -252,7 +252,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (iv) Payment error rate measurement (PERM) expenditures
 
-&emsp;&emsp;&emsp;Expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable tothe State child health plan in accordance with the Improper Payments Information Act of 2002 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations).
+&emsp;&emsp;&emsp;Expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the Improper Payments Information Act of 2002 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations).
 
 #### (3) Waiver for purchase of family coverage
 
@@ -282,7 +282,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (B) Other Federal governmental programs
 
-&emsp;&emsp;Except as provided in subparagraph (A) or (B) of subsection (a)(1) or any other provision of law, no payment shall be made to a State under this section for expenditures for child health assistance provided for a targeted low-income child under its plan to the extent that payment has been made or can reasonably be expected to be made promptly (as determined in accordance with regulations) under any other federally operated or financed health care insurance program, other than an insurance program operated or financed by the Indian Health Service, as identified by the Secretary. For purposes of this paragraph, rules similar to the rules for overpayments under section 1396b(d)(2) of this title shall apply.
+&emsp;&emsp;Except as provided in subparagraph (A) or (B) of subsection (a)(1) or any other provision of law, no payment shall be made to aState under this section for expenditures for child health assistance provided for a targeted low-income child under its plan to the extent that payment has been made or can reasonably be expected to be made promptly (as determined in accordance with regulations) under any other federally operated or financed health care insurance program, other than an insurance program operated or financed by the Indian Health Service, as identified by the Secretary. For purposes of this paragraph, rules similar to the rules for overpayments under section 1396b(d)(2) of this title shall apply.
 
 #### (7) Limitation on payment for abortions
 
@@ -312,7 +312,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (A) In general
 
-&emsp;&emsp;No payment may be made under this section with respect to an individual who has,or is, declared to be a citizen or national of the United States for purposes of establishing eligibility under this subchapter unless the State meets the requirements of section 1396a(a)(46)(B) of this title with respect to the individual.
+&emsp;&emsp;No payment may be made under this section with respect to an individual who has, or is, declared to be a citizen or national of the United States for purposes of establishing eligibility under this subchapter unless the State meets the requirements of section 1396a(a)(46)(B) of this title with respect to the individual.
 
 #### (B) Enhanced payments
 
@@ -342,7 +342,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 &emsp;&emsp;&emsp;&emsp;(I) benefits provided under a health flexible spending arrangement (as defined in section 106(c)(2) of the Internal Revenue Code of 1986); or
 
-&emsp;&emsp;&emsp;&emsp;(II) a high deductible health plan (as defined in section 223(c)(2) of such Code), without regard to whether the plan is purchased in conjunction with a health savings account (as defined under section 223(d) of such Code).
+&emsp;&emsp;&emsp;&emsp;(II) a high deductible health plan (as defined in section 223(c)(2) of such Code), without regard to whether the plan ispurchased in conjunction with a health savings account (as defined under section 223(d) of such Code).
 
 #### (C) Premium assistance subsidy
 
@@ -400,7 +400,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A State may establish an employer-family premium assistance purchasing pool for employers with less than 250 employees who have at least 1 employee who is a pregnant woman eligible for assistance under the State child health plan (including through the application of an option described in section 1397ll(f) of this title) or a member of a family with at least 1 targeted low-income child and to provide a premium assistance subsidy under this paragraph for enrollment in coverage made available through such pool.
+&emsp;&emsp;&emsp;A State may establish an employer-family premium assistance purchasing pool for employers with less than 250 employees who have at least 1 employee who is a pregnant woman eligible for assistanceunder the State child health plan (including through the application of an option described in section 1397ll(f) of this title) or a member of a family with at least 1 targeted low-income child and to provide a premium assistance subsidy under this paragraph for enrollment in coverage made available through such pool.
 
 #### (ii) Access to choice of coverage
 
@@ -426,7 +426,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (L) Application to qualified employer-sponsored benchmark coverage
 
-&emsp;&emsp;If a group health plan or health insurance coverage offered through an employer is certified by an actuary as health benefits coverage that is equivalent to the benefits coverage in a benchmark benefit package described in section 1397cc(b) of this title orbenchmark-equivalent coverage that meets the requirements of section 1397cc(a)(2) of this title, the State may provide premium assistance subsidies for enrollment of targeted low-income children in such group health plan or health insurance coverage in the same manner as such subsidies are provided under this paragraph for enrollment in qualified employer-sponsored coverage, but without regard to the requirement to provide supplemental coverage for benefits and cost-sharing protection provided under the State child health plan under subparagraph (E).
+&emsp;&emsp;If a group health plan or health insurance coverage offered through an employer is certified by an actuary as health benefits coverage that is equivalent to the benefits coverage in a benchmark benefit package described in section 1397cc(b) of this title or benchmark-equivalent coverage that meets the requirements of section 1397cc(a)(2) of this title, the State may provide premium assistance subsidies for enrollment of targeted low-income children in such group health plan or health insurance coverage in the same manner as such subsidies are provided under this paragraph for enrollment in qualified employer-sponsored coverage, but without regard to the requirement to provide supplemental coverage for benefits and cost-sharing protection provided under the State child health plan under subparagraph (E).
 
 #### (M) Coordination with medicaid
 
@@ -534,7 +534,7 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 #### References in Text
 
-Sections 108 and 115 of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (a)(3)(E)(ii)(I)(bb), (H), are sections 108 and 115, respectively, of title I of Pub. L. 111–3, Feb. 4, 2009, 123 Stat. 25, 35. Section 108 is not classified to the Code. Section 115 is set out as a note under section 1396d of this title.
+Sections 108 and 115 of the Children's Health Insurance Program Reauthorization Act of 2009, referred toin subsec. (a)(3)(E)(ii)(I)(bb), (H), are sections 108 and 115, respectively, of title I of Pub. L. 111–3, Feb. 4, 2009, 123 Stat. 25, 35. Section 108 is not classified to the Code. Section 115 is set out as a note under section 1396d of this title.
 
 The Improper Payments Information Act of 2002, referred to in subsec. (c)(2)(C)(iv), (11), is Pub. L. 107–300, Nov. 26, 2002, 116 Stat. 2350, which is set out as a note under section 3321 of Title 31, Money and Finance.
 
@@ -650,7 +650,7 @@ Subsec. (g)(2). Pub. L. 108–127 substituted "184" for "185" the first place ap
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a)\], added subsec. heading, par. (1) heading, introductory provisions, and subpars. (A) and (B), struck out former subsec. heading and introductory provisions, redesignated former pars. (1) and (2) as subpars. (C) and (D), respectively, of par. (1) and realigned margins, redesignated subpars. (A) to (D) of former par. (2) as cls. (i) to (iv), respectively, of subpar. (D) of par. (1) and realigned margins, and added par. (2). Prior to amendment, introductory provisions read as follows: "Subject to the succeeding provisions of this section, the Secretary shall pay to each State with a plan approved under this subchapter, from its allotment under section 1397dd of this title (taking into account any adjustment under section 1397dd(d) of this title), an amount for each quarter equal to the enhanced FMAP of expenditures in the quarter—".
 
-Subsec. (c)(2)(A). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(4)(A)\], substituted "the amount of payment that may be made under subsection (a) for a fiscal year for expenditures for items described in paragraph (1)(D) ofsuch subsection shall not exceed 10 percent of the total amount of expenditures for which payment is made under subparagraphs (A), (C), and (D) of paragraph (1) of such subsection." for "payment shall not be made under subsection (a) for expenditures for items described in subsection (a) (other than paragraph (1)) for a fiscal year to the extent the total of such expenditures (for which payment is made under such subsection) exceeds 10 percent of the sum of—
+Subsec. (c)(2)(A). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(4)(A)\], substituted "the amount of payment that may be made under subsection (a) for a fiscal year for expenditures for items described in paragraph (1)(D) of such subsection shall not exceed 10 percent of the total amount of expenditures for which payment is made under subparagraphs (A), (C), and (D) of paragraph (1) of such subsection." for "payment shall not be made under subsection (a) for expenditures for items described in subsection (a) (other than paragraph (1)) for a fiscal year to the extent the total of such expenditures (for which payment is made under such subsection) exceeds 10 percent of the sum of—
 
 &emsp;"(i) the total of such expenditures for such fiscal year, and
 
@@ -684,7 +684,7 @@ Except as otherwise provided, amendment by Pub. L. 111–3 effective Apr. 1, 200
 
 Amendment by section 211(c) of Pub. L. 111–3 effective Jan. 1, 2010, see section 211(d)(1)(A) of Pub. L. 111–3, set out as a note under section 1396a of this title.
 
-Pub. L. 111–3, title III, §301(a)(2)(B), Feb. 4, 2009, 123 Stat. 61, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall not apply to coverage the purchase of which has been approved by the Secretary \[of Health and Human Services\] under section 2105(c)(3) of the Social Security Act \[42 U.S.C. 1397ee(c)(3)\] prior to the date of enactment of this Act \[Feb. 4, 2009\]."
+Pub. L. 111–3, title III, §301(a)(2)(B), Feb. 4, 2009, 123 Stat. 61, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall not apply to coverage the purchase of which has been approved by the Secretary \[of Health and Human Services\] under section 2105(c)(3) of the Social Security Act \[42 U.S.C.1397ee(c)(3)\] prior to the date of enactment of this Act \[Feb. 4, 2009\]."
 
 #### Termination Date of 2007 Amendment
 
@@ -722,7 +722,7 @@ Pub. L. 111–3, title VI, §601(b)–(g), Feb. 4, 2009, 123 Stat. 96–98, as a
 
 "(b)
 
-Final Rule Required To Be in Effect for All States.—Notwithstanding parts 431 and 457 of title 42, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Feb. 4, 2009\]), the Secretary shall not calculate or publish any national or State-specific error rate based on the application of the payment error rate measurement (in this section referred to as 'PERM') requirements to CHIP until after the date that is 6 months after the date on which a new final rule (in this section referred to as the 'new final rule') promulgated after the date of the enactment of this Act \[Feb. 4, 2009\] and implementing such requirements in accordance with the requirements of subsection (c) is in effect for all States. Any calculation of a national error rate or a State specific error rate after such new final rule in effect for all States may only be inclusive of errors, as defined in such new final rule or in guidance issued within a reasonable time frame after the effective date for such new final rule that includesdetailed guidance for the specific methodology for error determinations. The Secretary is not required under this subsection to calculate or publish a national or a State-specific error rate for fiscal year 2009 or fiscal year 2010.
+Final Rule Required To Be in Effect for All States.—Notwithstanding parts 431 and 457 of title 42, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Feb. 4, 2009\]), the Secretary shall not calculate or publish any national or State-specific error rate based on the application of the payment error rate measurement (in this section referred to as 'PERM') requirements to CHIP until after the date that is 6 months after the date on which a new final rule (in this section referred to as the 'new final rule') promulgated after the date of the enactment of this Act \[Feb. 4, 2009\] and implementing such requirements in accordance with the requirements of subsection (c) is in effect for all States. Any calculation of a national error rate or a State specific error rate after such new final rule in effect for all States may only be inclusive of errors, as defined in such new final rule or in guidance issued within a reasonable time frame after the effective date for such new final rule that includes detailed guidance for the specific methodology for error determinations. The Secretary is not required under this subsection to calculate or publish a national or a State-specific error rate for fiscal year 2009 or fiscal year 2010.
 
 "(c)
 
@@ -764,7 +764,7 @@ State option to apply meqc data.—For purposes of satisfying the requirements o
 
 "(f)
 
-Identification of Improved State-Specific Sample Sizes.—The Secretary shall establish State-specific sample sizes for application of the PERM requirements with respect to State child health plans for fiscal years beginning with the first fiscal year that begins on or after the date on which the new final rule is in effect for all States, on the basis of such information as the Secretary determines appropriate. In establishing such sample sizes, the Secretary shall, to the greatest extent practicable—
+Identification of Improved State-Specific Sample Sizes.—The Secretary shall establish State-specificsample sizes for application of the PERM requirements with respect to State child health plans for fiscal years beginning with the first fiscal year that begins on or after the date on which the new final rule is in effect for all States, on the basis of such information as the Secretary determines appropriate. In establishing such sample sizes, the Secretary shall, to the greatest extent practicable—
 
 &emsp;"(1) minimize the administrative cost burden on States under Medicaid and CHIP; and
 

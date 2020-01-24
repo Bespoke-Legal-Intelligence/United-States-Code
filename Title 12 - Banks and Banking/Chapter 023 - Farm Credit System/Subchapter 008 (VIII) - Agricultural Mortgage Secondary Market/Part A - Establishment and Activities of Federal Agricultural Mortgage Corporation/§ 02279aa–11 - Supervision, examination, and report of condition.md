@@ -26,7 +26,7 @@
 
 #### (3) Office of Secondary Market Oversight
 
-&emsp;(A) Not later than 180 days after December 13, 1991, the Farm Credit AdministrationBoard shall establish within the Farm Credit Administration the Office of Secondary Market Oversight.
+&emsp;(A) Not later than 180 days after December 13, 1991, the Farm Credit Administration Board shall establish within the Farm Credit Administration the Office of Secondary Market Oversight.
 
 &emsp;(B) The Farm Credit Administration Board shall carry out the authority set forth in this section through the Office of Secondary Market Oversight.
 
@@ -84,7 +84,7 @@ The Farm Credit Administration Board shall ensure that—
 
 &emsp;"(A) provide for the examination of the condition of the Corporation and its affiliates; and
 
-&emsp;"(B) provide for the general supervision of the safe and sound performance of the powers, functions, and duties vested in the Corporation and its affiliates by this subchapter, including through the use of the enforcement powers of the Farm Credit Administration under part C of subchapter V of this chapter."
+&emsp;"(B) provide for the general supervision of the safe and sound performance of the powers, functions, andduties vested in the Corporation and its affiliates by this subchapter, including through the use of the enforcement powers of the Farm Credit Administration under part C of subchapter V of this chapter."
 
 Subsec. (a)(3). Pub. L. 102–237, §503(a)(2), added par. (3).
 

@@ -12,7 +12,7 @@ Notwithstanding the provisions of any other law, the President, upon the request
 
 #### (b) Reimbursement from United Nations; waiver of reimbursement
 
-Whenever personnel or assistance is made available pursuant to the authority contained in subsection (a)(1) and (2) of this section, the President shall require reimbursement from the United Nations for the expense thereby incurred by the United States: <i>Provided</i>, That in exceptional circumstances, or when the President finds it to be in the national interest, he may waive, in whole or in part, the requirement of such reimbursement: <i>Provided further</i>, That when any such reimbursement is made, it shall be credited, at the option of the appropriate department of the Department of Defense, eitherto the appropriation, fund, or account utilized in incurring the obligation, or to an appropriate appropriation, fund, or account currently available for the purposes for which expenditures were made.
+Whenever personnel or assistance is made available pursuant to the authority contained in subsection (a)(1) and (2) of this section, the President shall require reimbursement from the United Nations for the expense thereby incurred by the United States: <i>Provided</i>, That in exceptional circumstances, or when the President finds it to be in the national interest, he may waive, in whole or in part, the requirement of such reimbursement: <i>Provided further</i>, That when any such reimbursement is made, it shall be credited, at the option of the appropriate department of the Department of Defense, either to the appropriation, fund, or account utilized in incurring the obligation, or to an appropriate appropriation, fund, or account currently available for the purposes for which expenditures were made.
 
 #### (c) Additional appropriation authorizations
 
@@ -20,7 +20,7 @@ In addition to the authorization of appropriations to the Department of State co
 
 #### (d) Disclosure of information
 
-Nothing in this subchapter shall authorize the disclosure of any information or knowledge in any case in which such disclosure is prohibited by any other law of the United States.
+Nothing in this subchapter shall authorize the disclosure of any information or knowledge inany case in which such disclosure is prohibited by any other law of the United States.
 
 (Dec. 20, 1945, ch. 583, §7, as added Oct. 10, 1949, ch. 660, §5, 63 Stat. 735; amended Aug. 10, 1949, ch. 412, §12(a), 63 Stat. 591.)
 

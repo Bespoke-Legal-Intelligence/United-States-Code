@@ -92,7 +92,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 #### (3) Property in short supply
 
-&emsp;If the President determines that the supply of any property described in paragraph (1) is insufficient to meet the requirements of the domestic economy, he may by Executive order designate the property as in short supply. Any property so designated shall be treated as property not described in paragraph (1) during the period beginning with the date specified in the Executive order and ending with the date specified in an Executive order setting forth the President's determination that the property is no longer in short supply.
+&emsp;If the President determines that the supply of any property described in paragraph (1) isinsufficient to meet the requirements of the domestic economy, he may by Executive order designate the property as in short supply. Any property so designated shall be treated as property not described in paragraph (1) during the period beginning with the date specified in the Executive order and ending with the date specified in an Executive order setting forth the President's determination that the property is no longer in short supply.
 
 #### (d) Producer's loans
 

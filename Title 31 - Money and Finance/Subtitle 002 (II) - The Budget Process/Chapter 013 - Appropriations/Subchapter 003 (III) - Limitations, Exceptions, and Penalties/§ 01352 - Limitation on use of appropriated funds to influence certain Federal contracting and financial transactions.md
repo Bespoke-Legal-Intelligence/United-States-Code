@@ -34,7 +34,7 @@
 
 &emsp;(B) upon receipt by such person of a Federal contract, grant, loan, or cooperative agreement or of a commitment providing for the United States to insure or guarantee a loan, unless such person previously filed a declaration with respect to such contract, grant, loan, cooperative agreement or commitment pursuant to clause (A); and
 
-&emsp;(C) at the end of each calendar quarter in which there occurs any event that materially affects the accuracy of the information contained in any declaration previously filed by such person in connection with such Federal contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
+&emsp;(C) at the end of each calendar quarter in which there occurs any event that materiallyaffects the accuracy of the information contained in any declaration previously filed by such person in connection with such Federal contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
 
 (5) Any person who requests or receives from a person referred to in paragraph (1) of this subsection a subcontract under a Federal contract, a subgrant or contract under a Federal grant, a contract or subcontract to carry out any purpose for which a particular Federal loan is made, or a contract under a Federal cooperative agreement shall be required to file with the person referred to in such paragraph a written declaration referred to in clause (A) of such paragraph.
 
@@ -210,7 +210,7 @@ Pub. L. 101–121, title III, §319(b), Oct. 23, 1989, 103 Stat. 756, provided t
 
 #### Notification of Compliance Date; Guidance for Agency Implementation
 
-Pub. L. 101–121, title III, §319(c), Oct. 23, 1989, 103 Stat. 756, provided that: "The Director of the Office of Management and Budget shall notify the head of each agency that section 1352 of title 31, United States Code (as added by subsection (a)), is to be complied with commencing 60 days after the date of the enactment of this Act \[Oct. 23, 1989\]. Not later than 60 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall issue the guidance required by subsection (b)(7) \[now (b)(6)\] of such section."
+Pub. L. 101–121, title III, §319(c), Oct. 23, 1989, 103 Stat. 756, required the Director of the Office of Management and Budget to notify the head of each agency that this section was to be complied with commencing 60 days after Oct. 23, 1989, and required the Director, not later than 60 days after Oct. 23, 1989, to issue the guidance required under this section.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

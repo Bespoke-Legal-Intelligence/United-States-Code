@@ -14,7 +14,7 @@ General.—(1) Each certificate issued under section 41102 of this title is effe
 
 &emsp;(A) amend, modify, or suspend any part of a certificate if the Secretary finds the public convenience and necessity require amendment, modification, or suspension; and
 
-&emsp;(B) revoke any part of a certificate if the Secretary finds that the holder of the certificate intentionally does not comply with thischapter, sections 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, and 41731–41742, chapter 419, subchapter II of chapter 421, and section 46301(b) of this title, a regulation or order of the Secretary under any of those provisions, or a term of its certificate.
+&emsp;(B) revoke any part of a certificate if the Secretary finds that the holder of the certificate intentionally does not comply with this chapter, sections 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, and 41731–41742, chapter 419, subchapter II of chapter 421, and section 46301(b) of this title, a regulation or order of the Secretary under any of those provisions, or a term of its certificate.
 
 (3) The Secretary may revoke a certificate under paragraph (2)(B) of this subsection only if the holder of the certificate does not comply, within a reasonable time the Secretary specifies, with an order to the holder requiring compliance.
 
@@ -174,7 +174,7 @@ In subsection (a)(4), the word "provide" is substituted for "engage in" for cons
 
 In subsection (b), the words "to the extent of such service" are omitted as surplus. The word "provided" is substituted for "performed" for consistency in the revised title.
 
-In subsection (c)(1), the word "place" is substituted for "point" for consistency in the revised title. In clause (A), the cross-reference is to section 41734(a) of the revised title for clarity because 49 App.:1371(j) is obsolete. The comparable provision is 49 App.:1389(b)(2), restated as section 41734(a). The words "provided by that carrier" are omitted as surplus. In clause (B), the word "immediately" is added for clarity.
+In subsection (c)(1), the word "place" is substituted for "point" for consistency in the revised title. In clause (A), the cross-reference is to section 41734(a) ofthe revised title for clarity because 49 App.:1371(j) is obsolete. The comparable provision is 49 App.:1389(b)(2), restated as section 41734(a). The words "provided by that carrier" are omitted as surplus. In clause (B), the word "immediately" is added for clarity.
 
 In subsection (d)(2), the words "alter" and "the procedures prescribed in" are omitted as surplus.
 

@@ -16,7 +16,7 @@ The determination of the Commission under subsection (a) shall give equal weight
 
 &emsp;(2) investments by the licensee over the term of the existing license (including any terms under annual licenses) that—
 
-&emsp;&emsp;(A) resulted in redevelopment, new construction, new capacity, efficiency, modernization, rehabilitation or replacement of major equipment, safety improvements, or environmental, recreation, or other protection, mitigation, or enhancement measuresconducted over the term of the existing license; and
+&emsp;&emsp;(A) resulted in redevelopment, new construction, new capacity, efficiency, modernization, rehabilitation or replacement of major equipment, safety improvements, or environmental, recreation, or other protection, mitigation, or enhancement measures conducted over the term of the existing license; and
 
 &emsp;&emsp;(B) were not expressly considered by the Commission as contributing to the length of the existing license term in any order establishing or extending the existing license term.
 

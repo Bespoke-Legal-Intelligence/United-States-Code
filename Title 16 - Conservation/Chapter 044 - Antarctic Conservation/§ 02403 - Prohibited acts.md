@@ -18,7 +18,7 @@ It is unlawful for any person—
 
 &emsp;(7) to damage, remove, or destroy a historic site or monument;
 
-&emsp;(8) to refuse permission to any authorized officer or employee of the United States to board a vessel, vehicle, or aircraft of the United States, or subject to the jurisdiction of the United States, for the purpose of conducting any search or inspection in connectionwith the enforcement of this chapter or any regulation promulgated or permit issued under this chapter;
+&emsp;(8) to refuse permission to any authorized officer or employee of the United States to board a vessel, vehicle, or aircraft of the United States, or subject to the jurisdiction of the United States, for the purpose of conducting any search or inspection in connection with the enforcement of this chapter or any regulation promulgated or permit issued under this chapter;
 
 &emsp;(9) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any authorized officer or employee of the United States in the conduct of any search or inspection described in paragraph (8);
 

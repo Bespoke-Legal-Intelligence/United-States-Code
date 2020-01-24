@@ -20,7 +20,7 @@ Congress finds that—
 
 &emsp;(8) there is a need to ensure that services, supports, and other assistance are provided in a culturally competent manner, that ensures that individuals from racial and ethnic minority backgrounds are fully included in all activities provided under this subchapter;
 
-&emsp;(9) family members, friends, and members of the community can play an important role in enhancing the lives of individuals with developmental disabilities, especially when the family members, friends, and community members are provided with the necessary community services, individualized supports, and other forms of assistance;
+&emsp;(9) family members, friends, and members of the community can play an important role inenhancing the lives of individuals with developmental disabilities, especially when the family members, friends, and community members are provided with the necessary community services, individualized supports, and other forms of assistance;
 
 &emsp;(10) current research indicates that 88 percent of individuals with developmental disabilities live with their families or in their own households;
 
@@ -278,7 +278,7 @@ Sec. 2. <i>Composition of Committee</i>. (a) The Committee shall be composed of 
 
 (13) The Chairperson of the National Council on Disability; and
 
-(14) No more than 21 other members who shall be appointed to the Committee by the President. These citizen members shall consist of individuals who represent a broad spectrum of perspectives, experience, and expertise on intellectual disabilities; persons with intellectual disabilities and members of families with a child or adult with intellectual disabilities; and persons employed in either the public or the private sector. Except as the President may from time to time otherwise direct, appointees under this paragraph shall serve for two-year terms, except that an appointment made to fill a vacancy occurring before the expiration of a term shall be made for the balance of the unexpired term.
+(14) No more than 21 other members who shall be appointed to the Committee by the President. These citizen members shall consist of individuals who representa broad spectrum of perspectives, experience, and expertise on intellectual disabilities; persons with intellectual disabilities and members of families with a child or adult with intellectual disabilities; and persons employed in either the public or the private sector. Except as the President may from time to time otherwise direct, appointees under this paragraph shall serve for two-year terms, except that an appointment made to fill a vacancy occurring before the expiration of a term shall be made for the balance of the unexpired term.
 
 (b) The President shall designate the Chair of the Committee from the 21 citizen members. The Chair shall preside over meetings of the Committee and represent the Committee on appropriate occasions.
 
@@ -300,7 +300,7 @@ Sec. 3. <i>Functions of the Committee</i>. (a) Consistent with subsection (c) of
 
 (F) increasing access to assistive and universally designed technologies.
 
-(b) The Committee shall provide an annual report to the President through the Secretary of Health andHuman Services. Such additional reports may be made as the President may direct or as the Committee may deem appropriate.
+(b) The Committee shall provide an annual report to the President through the Secretary of Health and Human Services. Such additional reports may be made as the President may direct or as the Committee may deem appropriate.
 
 (c) The members shall advise the President and carry out their advisory role consistent with the requirements of the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
 
@@ -322,9 +322,11 @@ Sec. 6. <i>General</i>. (a) Nothing in this order shall be construed as subjecti
 
 #### Extension of Term of President's Committee for People with Intellectual Disabilities
 
-Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of the President's Committee for People with Intellectual Disabilities (formerly President's Committee on Mental Retardation) were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 

@@ -40,7 +40,7 @@
 
 (d) Notwithstanding any other provision of this subchapter, guaranteed benefits payable by the corporation pursuant to its discretionary authority under this section shall continue to be paid at the level guaranteed under section 1322 of this title, without regard to any limitation on payment under subparagraph (C) of subsection (c)(4).
 
-(e)(1) Except as provided in paragraphs (2), (3), and (4), the amendments to this chapter made by the Multiemployer Pension Plan Amendments Act of 1980 shall take effect on September 26, 1980.
+(e)(1) Except as provided in paragraphs (2), (3), and (4), the amendments to this chapter madeby the Multiemployer Pension Plan Amendments Act of 1980 shall take effect on September 26, 1980.
 
 (2)(A) Except as provided in this paragraph, part 1 of subtitle E, relating to withdrawal liability, takes effect on September 26, 1980.
 
@@ -168,9 +168,7 @@ Subsecs. (d), (e). Pub. L. 95–214, §1(b), added subsecs. (d) and (e).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
-Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by SenateResolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1989 Amendment
 

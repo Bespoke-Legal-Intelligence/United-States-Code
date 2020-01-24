@@ -118,7 +118,7 @@
 
 &emsp;(C) take any other actions necessary to carry out the purpose of this section.
 
-(h) The Attorney General may bring a civil action in any district court of the United States against any employee who knowingly solicits or accepts a gift from a foreign government not consented to by this section or who fails to deposit or report such gift as required by this section. The court in which such action is brought may assess a penalty against such employee in any amount not to exceed the retail value of the gift improperly solicited or received plus $5,000.
+(h) The Attorney General may bring a civil action in any district court of the United States against any employee who knowingly solicits or accepts a gift from a foreign government not consented to by this section or who fails to deposit or report such gift as required by this section. The court in which such action is brought may assess a penalty against such employee inany amount not to exceed the retail value of the gift improperly solicited or received plus $5,000.
 
 (i) The President shall direct all Chiefs of a United States Diplomatic Mission to inform their host governments that it is a general policy of the United States Government to prohibit United States Government employees from receiving gifts or decorations of more than minimal value.
 
@@ -212,7 +212,7 @@ Subsec. (d). Pub. L. 95–426, §712(b)(2), substituted "official use, for forwa
 
 Subsec. (e). Pub. L. 95–426, §712(c), designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), gifts" for "Gifts", "(A)" and "(B)" for "(1)" and "(2)", respectively, and added par. (2).
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–105 in par. (1) inserted provisions expanding definition of "employee" to include an officer or employee of the United States Postal Service or Postal Rate Commission, certain experts and consultants, the Vice President, and any Delegate to Congress, in par. (2) incorporated existing provisions into subpars. (A) and (C) and added subpar. (B), in par. (3) substituted reference to tangible or intangible present for reference to present, in par. (4) inserted reference to award, and added pars. (5) and (6).
+<b>1977</b>—Subsec. (a). Pub. L. 95–105 in par. (1) inserted provisions expanding definition of "employee" to include an officer or employee of the United States Postal Service or Postal Rate Commission, certain experts and consultants, the Vice President, and any Delegate to Congress, in par. (2) incorporated existing provisions into subpars. (A) and (C) and added subpar. (B), in par. (3) substituted reference to tangible or intangiblepresent for reference to present, in par. (4) inserted reference to award, and added pars. (5) and (6).
 
 Subsec. (b). Pub. L. 95–105 designated existing provisions as par. (1) and added par. (2).
 

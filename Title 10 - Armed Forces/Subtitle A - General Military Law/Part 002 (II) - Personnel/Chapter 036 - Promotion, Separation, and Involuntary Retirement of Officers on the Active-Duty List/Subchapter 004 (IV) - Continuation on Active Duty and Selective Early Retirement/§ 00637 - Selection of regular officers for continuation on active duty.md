@@ -2,9 +2,9 @@
 
 (a)(1) An officer subject to discharge or retirement in accordance with section 632 of this title may, subject to the needs of the service, be continued on active duty if he is selected for continuation on active duty by a selection board convened under section 611(b) of this title.
 
-(2) An officer who holds the regular grade of captain in the Army, Air Force, or Marine Corps, or the regular grade of lieutenant in the Navy, and who is subject to discharge or retirement in accordance with section 632 of this title may not be continued on active duty under this subsection for a period which extends beyond the last day of the month in which he completes 20 years of active commissioned service unless he is promoted to the regular grade of major or lieutenant commander, respectively.
+(2) An officer who holds the regular grade of captain in the Army, Air Force, or Marine Corps, or the regular grade of lieutenant in theNavy, and who is subject to discharge or retirement in accordance with section 632 of this title may not be continued on active duty under this subsection for a period which extends beyond the last day of the month in which he completes 20 years of active commissioned service unless he is promoted to the regular grade of major or lieutenant commander, respectively.
 
-(3) An officer who holds the regular grade of major or lieutenant commander who is subject to discharge or retirement in accordance with section 632 of this title may not be continued on active duty under this subsection for a periodwhich extends beyond the last day of the month in which he completes 24 years of active commissioned service unless he is promoted to the regular grade of lieutenant colonel or commander, respectively.
+(3) An officer who holds the regular grade of major or lieutenant commander who is subject to discharge or retirement in accordance with section 632 of this title may not be continued on active duty under this subsection for a period which extends beyond the last day of the month in which he completes 24 years of active commissioned service unless he is promoted to the regular grade of lieutenant colonel or commander, respectively.
 
 (4) An officer who is selected for continuation on active duty under this subsection but declines to continue on active duty shall be discharged, retired, or retained on active duty, as appropriate, in accordance with section 632 of this title.
 
@@ -56,7 +56,7 @@ Pub. L. 97–22, §4(e)(2), inserted provision that an officer subject to retire
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub
 
 #### Effective Date
 
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this subchapter effective onDec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this subchapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 

@@ -20,7 +20,7 @@ Certification Determination.—Not later than 20 days after the date the Secreta
 
 &emsp;&emsp;&emsp;(ii) requisitioned or purchased under chapter 563 of this title; or
 
-&emsp;&emsp;&emsp;(iii) owned, chartered, or controlled by the United States Government and used by the Government for a war, armed conflict, national emergency, or maritime mobilization need (including for training purposes or testing for readiness and suitability for mission performance); and
+&emsp;&emsp;&emsp;(iii) owned, chartered, or controlled by the United States Government and used bythe Government for a war, armed conflict, national emergency, or maritime mobilization need (including for training purposes or testing for readiness and suitability for mission performance); and
 
 &emsp;&emsp;(B) during the period of that employment, possessed a valid license, certificate of registry, or merchant mariner's document issued under chapter 71 or 73 of this title; and
 
@@ -28,7 +28,7 @@ Certification Determination.—Not later than 20 days after the date the Secreta
 
 (d)
 
-Equivalence to Military Selective Service Act Certificate.—For purposes of reemployment rights and benefits provided by this section, a certification under subsection (c) shall beconsidered to be the equivalent of a certificate described in section 9(a) of the Military Selective Service Act (50 U.S.C. 3808(a)).
+Equivalence to Military Selective Service Act Certificate.—For purposes of reemployment rights and benefits provided by this section, a certification under subsection (c) shall be considered to be the equivalent of a certificate described in section 9(a) of the Military Selective Service Act (50 U.S.C. 3808(a)).
 
 (Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1585; Pub. L. 115–91, div. C, title XXXV, §3502(b)(4), Dec. 12, 2017, 131 Stat. 1910; Pub. L. 115–232, div. C, title XXXV, §3546(m), Aug. 13, 2018, 132 Stat. 2327.)
 

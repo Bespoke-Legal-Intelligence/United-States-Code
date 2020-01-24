@@ -16,7 +16,7 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
 
 (7) Operate under the direction of its board of directors.
 
-(8) Elect by its board of directors a president, any vice presidents, a secretary, a treasurer, andprovide for such other officers, employees, and agents as may be necessary, including joint employees as provided in this chapter, define their duties and require surety bonds or make other provisions against losses occasioned by employees.
+(8) Elect by its board of directors a president, any vice presidents, a secretary, a treasurer, and provide for such other officers, employees, and agents as may be necessary, including joint employees as provided in this chapter, define their duties and require surety bonds or make other provisions against losses occasioned by employees.
 
 (9) Prescribe by its board of directors its bylaws not inconsistent with law providing for the classes of its stock and the manner in which its stock shall be issued, transferred, and retired; its officers, employees, or agents elected or provided for; its property acquired, held, and transferred; its loans made; its general business conducted; and the privileges granted it by law exercised and enjoyed.
 
@@ -54,7 +54,7 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
 
 (16) Exercise by its board of directors or authorized officers, employees, or agents all such incidental powers as may be necessary or expedient to carry on the business of the bank.
 
-(17) As may be authorized by the board of directors, maintain credit balances and pay or receive fees or interest thereon, for the purpose of assisting in the transfer of funds to or from parties to transactions that may be financed under section 2128(b) of this title: <i>Provided, however</i>,That nothing herein shall authorize the banks for cooperatives to engage in the business of accepting domestic deposits.
+(17) As may be authorized by the board of directors, maintain credit balances and pay or receive fees or interest thereon, for the purpose of assisting in the transfer of funds to or from parties to transactions that may be financed under section 2128(b) of this title: <i>Provided, however</i>, That nothing herein shall authorize the banks for cooperatives to engage in the business of accepting domestic deposits.
 
 (18) As may be authorized by its board of directors, agree with other Farm Credit System institutions to share loan or other losses, whether to protect against capital impairment or for any other purpose.
 

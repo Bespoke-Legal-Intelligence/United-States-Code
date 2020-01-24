@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(i) worked or volunteered onsite in rescue, recovery, debris cleanup, or related support services in lower Manhattan (south of Canal St.), the Staten Island Landfill, or the barge loading piers, for at least 4 hours during the period beginning on September 11, 2001, and ending on September 14, 2001, for at least 24 hours during the period beginning on September 11, 2001, and ending on September 30, 2001, or for at least 80 hours during the period beginning on September 11, 2001, and ending on July 31, 2002;
 
-&emsp;&emsp;&emsp;(ii)(I) was a member of the Police Department of New York City (whether active or retired) or a member of the Port Authority Police of the Port Authority of New York and New Jersey (whether active or retired) who participated onsite in rescue, recovery, debris cleanup, or related services in lower Manhattan (south of Canal St.), including Ground Zero, the Staten Island Landfill, or the barge loading piers, for at least 4 hours during the period beginning September 11, 2001, and ending on September 14, 2001;
+&emsp;&emsp;&emsp;(ii)(I) was a member of the Police Department of New York City (whether active or retired) or a member of the Port Authority Police of the Port Authority of New York and New Jersey (whether active or retired) who participated onsite in rescue, recovery, debris cleanup, or related services in lower Manhattan (south ofCanal St.), including Ground Zero, the Staten Island Landfill, or the barge loading piers, for at least 4 hours during the period beginning September 11, 2001, and ending on September 14, 2001;
 
 &emsp;&emsp;&emsp;(II) participated onsite in rescue, recovery, debris cleanup, or related services at Ground Zero, the Staten Island Landfill, or the barge loading piers, for at least one day during the period beginning on September 11, 2001, and ending on July 31, 2002;
 
@@ -104,7 +104,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The total number of individuals not described in paragraph (1)(A) or (2)(A)(ii) who may be enrolled under paragraph (3)(A)(ii) shall not exceed 25,000 at any time, of which no more than 2,500 may be individuals enrolled based on modified eligibility criteria established under paragraph (1)(C).
+&emsp;&emsp;The total number of individuals not described in paragraph (1)(A) or (2)(A)(ii) who may be enrolled under paragraph (3)(A)(ii) shall not exceed 75,000 at any time, of whichno more than 2,500 may be individuals enrolled based on modified eligibility criteria established under paragraph (1)(C).
 
 #### (B) Process
 
@@ -126,15 +126,21 @@
 
 #### (1) In general
 
-&emsp;In the case of an enrolled WTC responder (other than one described in subsection (a)(2)(A)(ii)), the WTC Program shall provide for monitoring benefits that include monitoring consistent with protocols approved by the WTC Program Administrator and including clinical examinations and long-term health monitoring and analysis. In the case of an enrolled WTC responder who is an active memberof the Fire Department of New York City, the responder shall receive such benefits as part of the individual's periodic company medical exams.
+&emsp;In the case of an enrolled WTC responder (other than one described in subsection (a)(2)(A)(ii)), the WTC Program shall provide for monitoring benefits that include monitoring consistent with protocols approved by the WTC Program Administrator and including clinical examinations and long-term health monitoring and analysis. In the case of an enrolled WTC responder who is an active member of the Fire Department of New York City, the responder shall receive such benefits as part of the individual's periodic company medical exams.
 
 #### (2) Provision of monitoring benefits
 
 &emsp;The monitoring benefits under paragraph (1) shall be provided through the Clinical Center of Excellence for the type of individual involved or, in the case of an individual residing outside the New York metropolitan area, under an arrangement under section 300mm–23 of this title.
 
-(July 1, 1944, ch. 373, title XXXIII, §3311, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3635; amended Pub. L. 114–113, div. O, title III, §302(d), Dec. 18, 2015, 129 Stat. 2999.)
+(July 1, 1944, ch. 373, title XXXIII, §3311, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3635; amended Pub. L. 114–113, div. O, title III, §302(d), Dec. 18, 2015, 129 Stat. 2999; Pub. L. 116–59, div. B, title VI, §1602(a), Sept. 27, 2019, 133 Stat. 1107.)
 
 #### Amendments
 
+<b>2019</b>—Subsec. (a)(4)(A). Pub. L. 116–59 substituted "75,000" for "25,000".
+
 <b>2015</b>—Subsec. (a)(4)(B)(i)(II). Pub. L. 114–113 struck out "through the end of fiscal year 2020" after "who are enrolled".
+
+#### Rule of Construction
+
+Pub. L. 116–59, div. B, title VI, §1602(c), Sept. 27, 2019, 133 Stat. 1107, provided that: "Nothing in this section \[amending this section and section 300mm–31 of this title\], or the amendments made by this section, shall alter the annual limitations on amounts appropriated to the World Trade Center Health Program Fund under section 3351(a)(2) of the Public Health Service Act (42 U.S.C. 300mm–61(a)(2))."
 

@@ -62,11 +62,11 @@ Subsec. (b)(5). Pub. L. 115–118, §205(a)(5)(B)(ii), made technical amendment 
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–96, div. A, §1002, Dec. 22, 2017, 131 Stat. 2045, which temporarily extended the effective date of the amendments made by section 403(b) of Pub. L. 110–261 to Jan. 19, 2018, was repealed by its own terms upon the enactment, on Jan. 19, 2018, of section 201(a) of Pub. L. 115–118, which amended the dates specified in section 403(b) of Pub. L. 110–261, and by Pub. L. 115–120, div. B, §2002, Jan. 22, 2018, 132 Stat. 31, which was effective on Jan. 22, 2018.
+Pub. L. 115–96, div. A, §1002, Dec. 22, 2017, 131 Stat. 2045, which temporarily extended the effective date of the amendments made by section 403(b) of Pub. L. 110–261 to Jan. 19, 2018, was repealed by its own termsupon the enactment, on Jan. 19, 2018, of section 201(a) of Pub. L. 115–118, which amended the dates specified in section 403(b) of Pub. L. 110–261, and by Pub. L. 115–120, div. B, §2002, Jan. 22, 2018, 132 Stat. 31, which was effective on Jan. 22, 2018.
 
 #### Effective Date of Repeal
 
 Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective Dec. 31, 2023.
 
-\[Pub. L. 115–118, title II, §201(c), Jan. 19, 2018, 132 Stat. 19, provided that: "The amendments made to the FISAAmendments Act of 2008 (Public Law 110–261) by this section \[amending sections 1881 to 1881g of this title and provisions set out as notes under section 1801 of this title and section 2511 of Title 18, Crimes and Criminal Procedure\] shall take effect on December 31, 2017."\]
+\[Pub. L. 115–118, title II, §201(c), Jan. 19, 2018, 132 Stat. 19, provided that: "The amendments made to the FISA Amendments Act of 2008 (Public Law 110–261) by this section \[amending sections 1881 to 1881g of this title and provisions set out as notes under section 1801 of this title and section 2511 of Title 18, Crimes and Criminal Procedure\] shall take effect on December 31, 2017."\]
 

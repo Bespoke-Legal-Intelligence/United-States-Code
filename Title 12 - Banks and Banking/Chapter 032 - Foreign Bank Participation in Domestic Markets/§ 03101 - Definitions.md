@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 &emsp;(6) "Federal branch" means a branch of a foreign bank established and operating under section 3102 of this title;
 
-&emsp;(7) "foreign bank" means any company organized under the laws of a foreign country, a territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands, which engages in the business of banking, or any subsidiary or affiliate, organized undersuch laws, of any such company. For the purposes of this chapter the term "foreign bank" includes, without limitation, foreign commercial banks, foreign merchant banks and other foreign institutions that engage in banking activities usual in connection with the business of banking in the countries where such foreign institutions are organized or operating;
+&emsp;(7) "foreign bank" means any company organized under the laws of a foreign country, a territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands, which engages in the business of banking, or any subsidiary or affiliate, organized under such laws, of any such company. For the purposes of this chapter the term "foreign bank" includes, without limitation, foreign commercial banks, foreign merchant banks and other foreign institutions that engage in banking activities usual in connection with the business of banking in the countries where such foreign institutions are organized or operating;
 
 &emsp;(8) "foreign country" means any country other than the United States, and includes any colony, dependency, or possession of any such country;
 

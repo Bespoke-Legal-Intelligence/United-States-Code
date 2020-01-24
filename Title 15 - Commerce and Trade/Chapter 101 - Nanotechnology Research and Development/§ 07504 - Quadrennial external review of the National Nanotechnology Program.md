@@ -28,7 +28,7 @@ The Director of the National Nanotechnology Coordination Office shall enter into
 
 &emsp;(12) an analysis of the relative position of the United States compared to other nations with respect to nanotechnology research and development, including the identification of any critical research areas where the United States should be the world leader to best achieve the goals of the Program; and
 
-&emsp;(13) an analysis of the current impact of nanotechnology on the United States economy and recommendations for increasing its future impact.
+&emsp;(13) an analysis of the current impact of nanotechnology on the United States economyand recommendations for increasing its future impact.
 
 #### (b) Study on molecular self-assembly
 

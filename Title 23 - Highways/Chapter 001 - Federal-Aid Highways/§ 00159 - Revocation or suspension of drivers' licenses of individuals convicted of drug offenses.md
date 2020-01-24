@@ -56,7 +56,7 @@ Drug offense.—The term "drug offense" means any criminal offense which proscri
 
 Convicted.—The term "convicted" includes adjudicated under juvenile proceedings.
 
-(Added Pub. L. 102–143, title III, §333(a), Oct. 28, 1991, 105 Stat. 944; amended Pub. L. 102–388, title III, §327(a), Oct. 6, 1992, 106 Stat. 1547; Pub. L. 105–178, title I, §1103(l)(3)(E), June 9, 1998, 112 Stat. 126; Pub. L. 112–141, div. A, title I, §1404(g), July 6, 2012, 126 Stat. 558.)
+(Added Pub. L. 102–143, title III, §333(a), Oct. 28, 1991, 105 Stat. 944; amended Pub. L. 102–388, titleIII, §327(a), Oct. 6, 1992, 106 Stat. 1547; Pub. L. 105–178, title I, §1103(l)(3)(E), June 9, 1998, 112 Stat. 126; Pub. L. 112–141, div. A, title I, §1404(g), July 6, 2012, 126 Stat. 558.)
 
 #### References in Text
 
@@ -68,7 +68,7 @@ The Controlled Substances Act, referred to in subsecs. (a)(3)(A)(i)(I) and (c)(2
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1), (2). Pub. L. 112–141, §1404(g)(1), designated par. (2) as (1), struck out "(including any amounts withheld under paragraph (1))" after "10 percent", added par. (2), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "For each fiscal year the Secretary shall withhold 5percent of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of section 104(b) on the first day of each fiscal year which begins after the second calendar year following the effective date of this section if the State does not meet the requirements of paragraph (3) on such date."
+<b>2012</b>—Subsec. (a)(1), (2). Pub. L. 112–141, §1404(g)(1), designated par. (2) as (1), struck out "(including any amounts withheld under paragraph (1))" after "10 percent", added par. (2), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "For each fiscal year the Secretary shall withhold 5 percent of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of section 104(b) on the first day of each fiscal year which begins after the second calendar year following the effective date of this section if the State does not meet the requirements of paragraph (3) on such date."
 
 Subsec. (b). Pub. L. 112–141, §1404(g)(2), added subsec. (b) and struck out former subsec. (b) which related to period of availability of withheld funds and effects of compliance and noncompliance.
 
@@ -104,13 +104,5 @@ Pub. L. 102–143, title III, §333(e), Oct. 28, 1991, 105 Stat. 947, provided t
 
 #### Study on State Compliance With Requirements for Revocation and Suspension of Drivers' Licenses
 
-Pub. L. 102–240, title I, §1094, Dec. 18, 1991, 105 Stat. 2025, provided that:
-
-"(a)
-
-Study.—The Secretary shall conduct a study of State efforts to comply with the provisions of section 333 of the Department of Transportation and Related Agencies Appropriations Acts, 1991 and 1992 \[section 333 of Pub. L. 102–143 (1992 Act) enacted this section and provisions set out as a note above and repealed section 333 of Pub. L. 101–516 (1991 Act) which amended section 104 of this title and enacted provisions set out as a note thereunder\], relating to revocation and suspension of drivers' licenses.
-
-"(b)
-
-Report.—Not later than December 31, 1992, the Secretary shall transmit to Congress a report on the results of the study conducted under this section."
+Pub. L. 102–240, title I, §1094, Dec. 18, 1991, 105 Stat. 2025, provided that the Secretary would conduct a study of State efforts to comply with the provisions of this section relating to revocation and suspension of drivers' licenses, and would transmit to Congress a report on the results of the study by Dec. 31, 1992.
 

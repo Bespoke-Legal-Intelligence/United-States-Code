@@ -39,7 +39,7 @@
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(a)(2), title XVI, §1631(c)(1), Aug. 13, 2018, 132 Stat. 1983, 2123, struck out item 130g "Authorities concerning military cyber operations" and made technical correction to and struck out items 130j "Notification requirements for sensitive military cyber operations" and 130k "Notification requirements for cyber weapons".
+<b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(a)(2), title XVI, §1631(c)(1), Aug. 13, 2018, 132 Stat. 1983, 2123, struckout item 130g "Authorities concerning military cyber operations" and made technical correction to and struck out items 130j "Notification requirements for sensitive military cyber operations" and 130k "Notification requirements for cyber weapons".
 
 <b>2017</b>—Pub. L. 115–91, div. A, title XVI, §1631(b), Dec. 12, 2017, 131 Stat. 1738, added items 130j and 130k.
 

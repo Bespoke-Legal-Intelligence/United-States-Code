@@ -22,7 +22,7 @@
 
 #### (1) First year students
 
-&emsp;The first installment of the proceeds of any loan made, insured, or guaranteed under this part that is made to a student borrower who is entering the first year of a program of undergraduate education, and who has not previously obtained a loan under this part, shall not (regardless of the amount of such loan or the duration of the period of enrollment) be presented by the institution to the student for endorsement until 30 days after the borrower begins a course of study, but may be delivered to the eligible institution prior to the end of that 30-day period. An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the three most recent fiscal years for which data are available is less than 10 percent shall be exempt from the requirements of this paragraph. Notwithstanding section 422(d) of the Higher Education Amendments of 1998, the second sentence of this paragraph shall be effective beginning on February 8, 2006.
+&emsp;The first installment of the proceeds of any loan made, insured, or guaranteed under this part that is made to a student borrower who is entering the first year of a program of undergraduate education, and who has not previously obtained a loan under this part, shall not (regardless of the amount of such loan orthe duration of the period of enrollment) be presented by the institution to the student for endorsement until 30 days after the borrower begins a course of study, but may be delivered to the eligible institution prior to the end of that 30-day period. An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the three most recent fiscal years for which data are available is less than 10 percent shall be exempt from the requirements of this paragraph. Notwithstanding section 422(d) of the Higher Education Amendments of 1998, the second sentence of this paragraph shall be effective beginning on February 8, 2006.
 
 #### (2) Other students
 
@@ -68,7 +68,7 @@ An eligible lender shall not sell or transfer a promissory note for any loan mad
 
 &emsp;(2) the first disbursement of such loan has been made.
 
-(Pub. L. 89–329, title IV, §428G, as added Pub. L. 101–239, title II, §2004(a), Dec. 19, 1989, 103 Stat.2115; amended Pub. L. 101–508, title III, §3003(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 102–325, title IV, §421, July 23, 1992, 106 Stat. 534; Pub. L. 103–66, title IV, §4109(b), Aug. 10, 1993, 107 Stat. 369; Pub. L. 103–208, §2(c)(41), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §422(a)–(c), Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §8010, Feb. 8, 2006, 120 Stat. 164; Pub. L. 110–315, title IV, §427, Aug. 14, 2008, 122 Stat. 3235; Pub. L. 111–39, title IV, §402(f)(4), July 1, 2009, 123 Stat. 1943.)
+(Pub. L. 89–329, title IV, §428G, as added Pub. L. 101–239, title II, §2004(a), Dec. 19, 1989, 103 Stat. 2115; amended Pub. L. 101–508, title III, §3003(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 102–325, title IV, §421, July 23, 1992, 106 Stat. 534; Pub. L. 103–66, title IV, §4109(b), Aug. 10, 1993, 107 Stat. 369; Pub. L. 103–208, §2(c)(41), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §422(a)–(c), Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §8010, Feb. 8, 2006, 120 Stat. 164; Pub. L. 110–315, title IV, §427, Aug. 14, 2008, 122 Stat. 3235; Pub. L. 111–39, title IV, §402(f)(4), July 1, 2009, 123 Stat. 1943.)
 
 #### References in Text
 
@@ -136,7 +136,7 @@ Pub. L. 105–244, title IV, §422(d), Oct. 7, 1998, 112 Stat. 1696, provided th
 
 #### Effective Date of 1993 Amendments
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) ofPub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 Amendment by Pub. L. 103–66 effective with respect to loans for which the first disbursement is made on or after Oct. 1, 1993, see section 4109(c) of Pub. L. 103–66, set out as a note under section 1078–2 of this title.
 

@@ -66,7 +66,7 @@ Jurisdiction.—There is jurisdiction over the offenses in subsection (a) in the
 
 &emsp;&emsp;&emsp;(iv) any property of any legal entity organized under the laws of the United States, including any of its States, districts, commonwealths, territories, or possessions;
 
-&emsp;(3) the offense is committed on board a vessel flying the flag of the United States or an aircraft which is registered under the laws of the United States at the time the offense is committed;
+&emsp;(3) the offense is committed on board a vessel flying the flag of the United States or anaircraft which is registered under the laws of the United States at the time the offense is committed;
 
 &emsp;(4) the offense is committed on board an aircraft which is operated by the United States; or
 
@@ -176,7 +176,7 @@ Subsec. (e)(13), (14). Pub. L. 108–458, §6604(b), as amended by Pub. L. 109�
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–177, title IV, §408, Mar. 9, 2006, 120 Stat. 245, provided that the amendment by Pub. L. 109–177 to section 6604 of Pub. L. 108–458 (amending this section)is effective on the date of enactment of Pub. L. 108–458 (Dec. 17, 2004).
+Pub. L. 109–177, title IV, §408, Mar. 9, 2006, 120 Stat. 245, provided that the amendment by Pub. L. 109–177 to section 6604 of Pub. L. 108–458 (amending this section) is effective on the date of enactment of Pub. L. 108–458 (Dec. 17, 2004).
 
 #### Effective Date
 

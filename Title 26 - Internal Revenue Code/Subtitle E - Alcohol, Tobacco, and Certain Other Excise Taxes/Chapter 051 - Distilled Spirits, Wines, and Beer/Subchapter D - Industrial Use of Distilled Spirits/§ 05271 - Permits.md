@@ -20,7 +20,7 @@ No person shall—
 
 Any application submitted under this section may be disapproved and the permit denied if the Secretary, after notice and opportunity for hearing, finds that—
 
-&emsp;(1) in case of an application to withdraw and use distilled spirits free of tax, the applicant isnot authorized by law or regulations issued pursuant thereto to withdraw or use such distilled spirits; or
+&emsp;(1) in case of an application to withdraw and use distilled spirits free of tax, the applicant is not authorized by law or regulations issued pursuant thereto to withdraw or use such distilled spirits; or
 
 &emsp;(2) the applicant (including, in the case of a corporation, any officer, director, or principal stockholder, and, in the case of a partnership, a partner) is, by reason of his business experience, financial standing, or trade connections, not likely to maintain operations in compliance with this chapter; or
 

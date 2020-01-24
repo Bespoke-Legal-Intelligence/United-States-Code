@@ -15,6 +15,7 @@ Part A—Drugs and Devices
 - [&sect; 00354 - Veterinary feed directive drugs](%C2%A7%2000354%20-%20Veterinary%20feed%20directive%20drugs.md)
 - [&sect; 00355 - New drugs](%C2%A7%2000355%20-%20New%20drugs.md)
 - [&sect; 00355&#8211;1 - Risk evaluation and mitigation strategies](%C2%A7%2000355%E2%80%931%20-%20Risk%20evaluation%20and%20mitigation%20strategies.md)
+- [&sect; 00355&#8211;2 - Actions for delays of generic drugs and biosimilar biological products](%C2%A7%2000355%E2%80%932%20-%20Actions%20for%20delays%20of%20generic%20drugs%20and%20biosimilar%20biological%20products.md)
 - [&sect; 00355a - Pediatric studies of drugs](%C2%A7%2000355a%20-%20Pediatric%20studies%20of%20drugs.md)
 - [&sect; 00355b - Adverse-event reporting](%C2%A7%2000355b%20-%20Adverse-event%20reporting.md)
 - [&sect; 00355c - Research into pediatric uses for drugs and biological products](%C2%A7%2000355c%20-%20Research%20into%20pediatric%20uses%20for%20drugs%20and%20biological%20products.md)

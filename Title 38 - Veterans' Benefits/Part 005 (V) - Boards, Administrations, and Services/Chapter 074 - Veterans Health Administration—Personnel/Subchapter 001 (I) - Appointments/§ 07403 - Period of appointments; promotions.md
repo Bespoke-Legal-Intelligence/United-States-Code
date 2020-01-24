@@ -52,7 +52,7 @@
 
 (2) In using the authority provided by this subsection, the Secretary shall apply the principles of preference for the hiring of veterans and other persons established in subchapter I of chapter 33 of title 5.
 
-(h)(1) If the Secretary uses the authority provided in subsection (c) for the promotion and advancement of an occupational category of employees described in section 7401(3) of this title, as authorized by subsection (f)(1)(B), the Secretary shall do so through one or more systems prescribed by the Secretary. Each such system shall be planned, developed, and implemented in collaboration with, and with the participationof, exclusive employee representatives of such occupational category of employees.
+(h)(1) If the Secretary uses the authority provided in subsection (c) for the promotion and advancement of an occupational category of employees described in section 7401(3) of this title, as authorized by subsection (f)(1)(B), the Secretary shall do so through one or more systems prescribed by the Secretary. Each such system shall be planned, developed, and implemented in collaboration with, and with the participation of, exclusive employee representatives of such occupational category of employees.
 
 (2)(A) Before prescribing a system of promotion and advancement of an occupational category of employees under paragraph (1), the Secretary shall provide to exclusive employee representatives of such occupational category of employees a written description of the proposed system.
 
@@ -96,11 +96,11 @@
 
 &emsp;(ii) a description of any recommendations of exclusive employee representatives with respect to the modification and a statement whether or not the modification was revised in light of such recommendations.
 
-(8) In the case of employees who are not within a unit with respect to which a labor organization is accorded exclusive recognition, the Secretary may develop procedures for input from representatives under this subsection from any appropriate organization that represents a substantial percentage of such employees or, if none, in such other manner as the Secretary considers appropriate, consistent with the purposes of this subsection.
+(8) In the case of employees who are not within a unit with respect to which a labor organization is accorded exclusive recognition, the Secretary may develop procedures for input from representatives under this subsection from any appropriate organization that represents a substantial percentage of such employees or, if none, in such other manner as the Secretaryconsiders appropriate, consistent with the purposes of this subsection.
 
 (9) In this subsection, the term "congressional veterans' affairs committees" means the Committees on Veterans' Affairs of the Senate and the House of Representatives.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 224; amended Pub. L. 102–405, titleIII, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(b), 302(c), Dec. 6, 2003, 117 Stat. 2055, 2058; Pub. L. 111–163, title VI, §601(b), May 5, 2010, 124 Stat. 1168.)
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 224; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(b), 302(c), Dec. 6, 2003, 117 Stat. 2055, 2058; Pub. L. 111–163, title VI, §601(b), May 5, 2010, 124 Stat. 1168.)
 
 #### Prior Provisions
 

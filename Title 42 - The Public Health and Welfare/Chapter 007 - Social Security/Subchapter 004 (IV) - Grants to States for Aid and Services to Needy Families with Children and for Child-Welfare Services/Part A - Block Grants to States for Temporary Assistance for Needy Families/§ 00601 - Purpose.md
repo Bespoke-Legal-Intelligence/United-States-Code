@@ -218,7 +218,7 @@ Pub. L. 104–193, title I, §101, Aug. 22, 1996, 110 Stat. 2110, provided that:
 
 &emsp;"(8) The negative consequences of an out-of-wedlock birth on the mother, the child, the family, and society are well documented as follows:
 
-&emsp;&emsp;"(A) Young women 17 and under who give birth outside of marriage are more likely to go on publicassistance and to spend more years on welfare once enrolled. These combined effects of 'younger and longer' increase total AFDC costs per household by 25 percent to 30 percent for 17-year-olds.
+&emsp;&emsp;"(A) Young women 17 and under who give birth outside of marriage are more likely to go on public assistance and to spend more years on welfare once enrolled. These combined effects of 'younger and longer' increase total AFDC costs per household by 25 percent to 30 percent for 17-year-olds.
 
 &emsp;&emsp;"(B) Children born out-of-wedlock have a substantially higher risk of being born at a very low or moderately low birth weight.
 

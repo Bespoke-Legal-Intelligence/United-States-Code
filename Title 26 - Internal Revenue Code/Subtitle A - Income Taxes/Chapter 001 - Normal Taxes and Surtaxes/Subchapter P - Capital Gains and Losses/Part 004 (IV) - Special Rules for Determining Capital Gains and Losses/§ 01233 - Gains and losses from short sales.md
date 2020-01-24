@@ -16,7 +16,7 @@ If gain or loss from a short sale is considered as gain or loss from the sale or
 
 #### (c) Certain options to sell
 
-Subsection (b) shall not include an option to sell property at a fixed price acquired on the same day on which the property identified as intended to be used in exercising such option is acquired and which, if exercised, is exercised through the sale of the property so identified. If the option is not exercised, the cost of the option shall be added to the basis of the property with which the option is identified. This subsection shall apply only to options acquired after August 16, 1954.
+Subsection (b) shall not include an option to sell property at a fixed price acquired on thesame day on which the property identified as intended to be used in exercising such option is acquired and which, if exercised, is exercised through the sale of the property so identified. If the option is not exercised, the cost of the option shall be added to the basis of the property with which the option is identified. This subsection shall apply only to options acquired after August 16, 1954.
 
 #### (d) Long-term losses
 
@@ -94,7 +94,7 @@ This section shall not apply in the case of a hedging transaction in commodity f
 
 &emsp;&emsp;(B) such deficiency may be assessed before the date applicable under subparagraph (A) notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 327; Aug. 12, 1955, ch. 871, §1, 69 Stat. 717; Pub. L. 85–866, title I, §52(a), (b), Sept. 2, 1958, 72 Stat. 1643, 1644; Pub. L. 94–455, title XIV, §1402(b)(1)(T), (2), title XIX,§1901(a)(137), Oct. 4, 1976, 90 Stat. 1732, 1787; Pub. L. 97–34, title V, §501(c), Aug. 13, 1981, 95 Stat. 326; Pub. L. 98–369, div. A, title X, §1001(b)(17), (e), July 18, 1984, 98 Stat. 1012; Pub. L. 105–34, title X, §1003(b)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 106–554, §1(a)(7) \[title IV, §401(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649; Pub. L. 107–147, title IV, §412(d)(3)(A), Mar. 9, 2002, 116 Stat. 54.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 327; Aug. 12, 1955, ch. 871, §1, 69 Stat. 717; Pub. L. 85–866, title I, §52(a), (b), Sept. 2, 1958, 72 Stat. 1643, 1644; Pub. L. 94–455, title XIV, §1402(b)(1)(T), (2), title XIX, §1901(a)(137), Oct. 4, 1976, 90 Stat. 1732, 1787; Pub. L. 97–34, title V, §501(c), Aug. 13, 1981, 95 Stat. 326; Pub. L. 98–369, div. A, title X, §1001(b)(17), (e), July 18, 1984, 98 Stat. 1012; Pub. L. 105–34, title X, §1003(b)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 106–554, §1(a)(7) \[title IV, §401(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649; Pub. L. 107–147, title IV, §412(d)(3)(A), Mar. 9, 2002, 116 Stat. 54.)
 
 #### Amendments
 

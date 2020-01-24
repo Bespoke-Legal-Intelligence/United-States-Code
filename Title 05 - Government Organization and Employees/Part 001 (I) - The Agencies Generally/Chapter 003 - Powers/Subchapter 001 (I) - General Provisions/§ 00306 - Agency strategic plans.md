@@ -1,6 +1,6 @@
 ### §306. Agency strategic plans
 
-(a) Not later than the first Monday in February of any year following the year in which the term of the President commences under section 101 of title 3, the head of each agency shall make available on the public website of the agency a strategic plan and notify the President and Congress of its availability. Such plan shall contain—
+(a) Not later than the first Monday in February of any year following the year in which the term of the President commences under section 101 of title 3, the head of each agency shall make available on the public website of the agency a strategic plan and notify the Presidentand Congress of its availability. Such plan shall contain—
 
 &emsp;(1) a comprehensive mission statement covering the major functions and operations of the agency;
 
@@ -18,9 +18,23 @@
 
 &emsp;(6) a description of how the performance goals provided in the plan required by section 1115(a) of title 31, including the agency priority goals required by section 1120(b) of title 31, if applicable, contribute to the general goals and objectives in the strategic plan;
 
-&emsp;(7) an identification of those key factors external to the agency and beyond its control that could significantly affect the achievement of the general goals and objectives; and
+&emsp;(7) an identification of those key factors external to the agency and beyond its control that could significantly affect the achievement of the general goals and objectives;
 
-&emsp;(8) a description of the program evaluations used in establishing or revising general goals and objectives, with a schedule for future program evaluations to be conducted.
+&emsp;(8) a description of the program evaluations used in establishing or revising general goals and objectives, with a schedule for future program evaluations to be conducted, and citations to relevant provisions of the plans required under section 312; and
+
+&emsp;(9) an assessment of the coverage, quality, methods, effectiveness, and independence of the statistics, evaluation, research, and analysis efforts of the agency, including—
+
+&emsp;&emsp;(A) a list of the activities and operations of the agency that are currently being evaluated and analyzed;
+
+&emsp;&emsp;(B) the extent to which the evaluations, research, and analysis efforts and related activities of the agency support the needs of various divisions within the agency;
+
+&emsp;&emsp;(C) the extent to which the evaluation research and analysis efforts and related activities of the agency address an appropriate balance between needs related to organizational learning, ongoing program management, performance management, strategic management, interagency and private sector coordination, internal and external oversight, and accountability;
+
+&emsp;&emsp;(D) the extent to which the agency uses methods and combinations of methods that are appropriate to agency divisions and the corresponding research questions being addressed, including an appropriate combination of formative and summative evaluation research and analysis approaches;
+
+&emsp;&emsp;(E) the extent to which evaluation and research capacity is present within the agency to include personnel and agency processes for planning and implementing evaluation activities, disseminating best practices and findings, and incorporating employee views and feedback; and
+
+&emsp;&emsp;(F) the extent to which the agency has the capacity to assist agency staff and program offices to develop the capacity to use evaluation research and analysis approaches and data in the day-to-day operations.
 
 (b) The strategic plan shall cover a period of not less than 4 years following the fiscal year in which the plan is submitted. As needed, the head of the agency may make adjustments to the strategic plan to reflect significant changes in the environment in which the agency is operating, with appropriate notification of Congress.
 
@@ -33,32 +47,6 @@
 (f) For purposes of this section the term "agency" means an Executive agency defined under section 105, but does not include the Central Intelligence Agency, the Government Accountability Office, the United States Postal Service, and the Postal Regulatory Commission.
 
 (Added Pub. L. 111–352, §2, Jan. 4, 2011, 124 Stat. 3866; amended Pub. L. 115–435, title I, §101(c), Jan. 14, 2019, 132 Stat. 5533.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 115–435, title I, §101(c), title IV, §403, Jan. 14, 2019, 132 Stat. 5533, 5557, provided that, effective 180 days after Jan. 14, 2019, subsection (a) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (7), by striking "; and" at the end and inserting a semicolon;</i>
-
-<i>(2) in paragraph (8), by striking the period at the end and inserting ", and citations to relevant provisions of the plans required under section 312; and" after "to be conducted"; and</i>
-
-<i>(3) by adding at the end the following new paragraph:</i>
-
-&emsp;<i>"(9) an assessment of the coverage, quality, methods, effectiveness, and independence of the statistics, evaluation, research, and analysis efforts of the agency, including—</i>
-
-&emsp;&emsp;<i>"(A) a list of the activities and operations of the agency that are currently being evaluated and analyzed;</i>
-
-&emsp;&emsp;<i>"(B) the extent to which the evaluations, research, and analysis efforts and related activities of the agency support the needs of various divisions within the agency;</i>
-
-&emsp;&emsp;<i>"(C) the extent to which the evaluation research and analysis efforts and related activities of the agency address an appropriate balance between needs related to organizational learning, ongoing program management, performance management, strategic management, interagency and private sector coordination, internal and external oversight, and accountability;</i>
-
-&emsp;&emsp;<i>"(D) the extent to which the agency uses methods and combinations of methods that are appropriate to agency divisions and the corresponding research questions being addressed, including an appropriate combination of formative and summative evaluation research and analysis approaches;</i>
-
-&emsp;&emsp;<i>"(E) the extent to which evaluation and research capacity is present within the agency to include personnel and agency processes for planning and implementing evaluation activities, disseminating best practices and findings, and incorporating employee views and feedback; and</i>
-
-&emsp;&emsp;<i>"(F) the extent to which the agency has the capacity to assist agency staff and program offices to develop the capacity to use evaluation research and analysis approaches and data in the day-to-day operations."</i>
-
-<i>See 2019 Amendment notes below.</i>
 
 #### Prior Provisions
 

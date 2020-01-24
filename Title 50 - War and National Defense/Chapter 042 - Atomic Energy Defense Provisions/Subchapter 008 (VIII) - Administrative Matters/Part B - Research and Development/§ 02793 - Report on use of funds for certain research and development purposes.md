@@ -20,7 +20,7 @@ Section was formerly classified to section 7257b of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 113–66 substituted "Report" for "Limitation" in section catchline, struck out subsec. (b) heading "Annual report", redesignated pars. (1) to (3) of subsec. (b) as subsecs. (a) to (c), respectively, inserted subsec. headings, and struck out former subsec. (a), which related to limitation on use of certain funds.
+<b>2013</b>—Pub. L. 113–66 substituted "Report" for "Limitation" in section catchline, struck out subsec. (b)heading "Annual report", redesignated pars. (1) to (3) of subsec. (b) as subsecs. (a) to (c), respectively, inserted subsec. headings, and struck out former subsec. (a), which related to limitation on use of certain funds.
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–136, §3141(k)(7)(B)(iv), inserted "of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201)" after "section 3101".
 

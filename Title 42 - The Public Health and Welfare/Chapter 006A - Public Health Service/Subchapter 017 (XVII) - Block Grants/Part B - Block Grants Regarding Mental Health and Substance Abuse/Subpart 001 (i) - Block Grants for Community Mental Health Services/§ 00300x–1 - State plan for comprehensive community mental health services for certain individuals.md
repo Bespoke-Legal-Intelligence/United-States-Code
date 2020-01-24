@@ -26,7 +26,7 @@ In accordance with subsection (a), a State shall submit to the Secretary a plan 
 
 &emsp;&emsp;&emsp;(ii) provide for an organized community-based system of care for individuals with mental illness, and describe available services and resources in a comprehensive system of care, including services for individuals with co-occurring disorders;
 
-&emsp;&emsp;&emsp;(iii) include a description of the manner in which the State and local entities will coordinate services to maximize the efficiency, effectiveness, quality, and cost-effectiveness of services and programs to produce the best possible outcomes (including health services, rehabilitation services, employment services, housing services, educational services, substanceuse disorder services, legal services, law enforcement services, social services, child welfare services, medical and dental care services, and other support services to be provided with Federal, State, and local public and private resources) with other agencies to enable individuals receiving services to function outside of inpatient or residential institutions, to the maximum extent of their capabilities, including services to be provided by local school systems under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\];
+&emsp;&emsp;&emsp;(iii) include a description of the manner in which the State and local entities will coordinate services to maximize the efficiency, effectiveness, quality, and cost-effectiveness of services and programs to produce the best possible outcomes (including health services, rehabilitation services, employment services, housing services, educational services, substance use disorder services, legal services, law enforcement services, social services, child welfare services, medical and dental care services, and other support services to be provided with Federal, State, and local public and private resources) with other agencies to enable individuals receiving services to function outside of inpatient or residential institutions, to the maximum extent of their capabilities, including services to be provided by local school systems under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\];
 
 &emsp;&emsp;&emsp;(iv) include a description of how the State promotes evidence-based practices, including those evidence-based programs that address the needs of individuals with early serious mental illness regardless of the age of the individual at onset, provide comprehensive individualized treatment, or integrate mental and physical health services;
 
@@ -54,7 +54,7 @@ In accordance with subsection (a), a State shall submit to the Secretary a plan 
 
 #### (D) Targeted services to rural and homeless populations
 
-&emsp;&emsp;The plan shall describe the State's outreach to and services for individuals who are homeless and how community-based services will be provided to individuals residing in rural areas.
+&emsp;&emsp;The plan shall describe the State's outreach to and services for individuals who arehomeless and how community-based services will be provided to individuals residing in rural areas.
 
 #### (E) Management services
 
@@ -110,7 +110,7 @@ Section 300x–1a, act July 1, 1944, ch. 373, title XIX, §1912A, as added and a
 
 Another prior section 300x–1a, act July 1, 1944, ch. 373, title XIX, §1913, as added Oct. 19, 1984, Pub. L. 98–509, title I, §102(a), 98 Stat. 2353, was transferred to section 300x–1b of this title.
 
-Section 300x–1b, act July 1, 1944, ch. 373, title XIX, §1913, as added Oct. 19, 1984, Pub. L. 98–509, title I, §102(a), 98 Stat. 2353; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2022(d), 102 Stat. 4197; Aug. 16, 1989, Pub. L. 101–93, §2(b), 103 Stat. 605, related to allotments to States and Indian tribes or tribal organizations for alcohol, drug abuse, and mental health services.
+Section 300x–1b, act July 1, 1944, ch. 373, title XIX, §1913, as added Oct. 19, 1984, Pub. L. 98–509, title I,§102(a), 98 Stat. 2353; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2022(d), 102 Stat. 4197; Aug. 16, 1989, Pub. L. 101–93, §2(b), 103 Stat. 605, related to allotments to States and Indian tribes or tribal organizations for alcohol, drug abuse, and mental health services.
 
 #### Amendments
 

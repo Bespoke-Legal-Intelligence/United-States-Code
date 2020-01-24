@@ -48,7 +48,7 @@ If, after—
 
 #### (d) Availability of Fund if operation of program is carried out through facilities of Federal Government
 
-In the event the Administrator makes a determination in accordance with the provisions of section 4071 of this title that operation of the flood insurance program, in whole or in part,should be carried out through the facilities of the Federal Government, the fund shall be available for all purposes incident thereto, including—
+In the event the Administrator makes a determination in accordance with the provisions of section 4071 of this title that operation of the flood insurance program, in whole or in part, should be carried out through the facilities of the Federal Government, the fund shall be available for all purposes incident thereto, including—
 
 &emsp;(1) cost incurred in the adjustment and payment of any claims for losses, and
 

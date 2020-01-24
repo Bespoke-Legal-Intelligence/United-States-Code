@@ -22,7 +22,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;&emsp;(III) representatives of public agencies concerned with delinquency prevention or treatment, such as welfare, social services, child and adolescent mental health, education, child and adolescent substance abuse, special education, services for youth with disabilities, recreation, and youth services;
 
-&emsp;&emsp;&emsp;&emsp;(IV) representatives of private nonprofit organizations, including persons with a special focus on preserving and strengthening families, parent groups and parent self-help groups, youth development, delinquency prevention and treatment, neglected or dependent children, the quality of juvenile justice, education, and social services for children;
+&emsp;&emsp;&emsp;&emsp;(IV) representatives of private nonprofit organizations, including persons with a special focus on preserving andstrengthening families, parent groups and parent self-help groups, youth development, delinquency prevention and treatment, neglected or dependent children, the quality of juvenile justice, education, and social services for children;
 
 &emsp;&emsp;&emsp;&emsp;(V) volunteers who work with delinquent youth or youth at risk of delinquency;
 
@@ -30,7 +30,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;&emsp;(VII) persons with special experience and competence in addressing problems related to school violence and vandalism and alternatives to suspension and expulsion;
 
-&emsp;&emsp;&emsp;&emsp;(VIII) persons, licensed or certified by the applicable State, with expertise and competence in preventing and addressing mental health and substance abuse needsin delinquent youth and youth at risk of delinquency;
+&emsp;&emsp;&emsp;&emsp;(VIII) persons, licensed or certified by the applicable State, with expertise and competence in preventing and addressing mental health and substance abuse needs in delinquent youth and youth at risk of delinquency;
 
 &emsp;&emsp;&emsp;&emsp;(IX) representatives of victim or witness advocacy groups, including at least one individual with expertise in addressing the challenges of sexual abuse and exploitation and trauma, particularly the needs of youth who experience disproportionate levels of sexual abuse, exploitation, and trauma before entering the juvenile justice system; and
 
@@ -136,7 +136,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;&emsp;(I) the instruction that juveniles receive outside school is closely aligned with the instruction provided in school; and
 
-&emsp;&emsp;&emsp;&emsp;(II) information regarding any learning problems identified in such alternativelearning situations are communicated to the schools;
+&emsp;&emsp;&emsp;&emsp;(II) information regarding any learning problems identified in such alternative learning situations are communicated to the schools;
 
 &emsp;&emsp;(F) programs to expand the use of probation officers—
 
@@ -372,7 +372,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(28) provide for the coordinated use of funds provided under this subchapter with other Federal and State funds directed at juvenile delinquency prevention and intervention programs;
 
-&emsp;(29) describe the policies, procedures, and training in effect for the staff of juvenile State correctional facilities to eliminate the use of dangerous practices, unreasonable restraints, and unreasonable isolation, including by developing effective behavior management techniques;
+&emsp;(29) describe the policies, procedures, and training in effect for the staff of juvenile State correctional facilities to eliminate the use ofdangerous practices, unreasonable restraints, and unreasonable isolation, including by developing effective behavior management techniques;
 
 &emsp;(30) describe—
 
@@ -440,7 +440,7 @@ The State agency designated under subsection (a)(1), after receiving and conside
 
 #### (d) Nonsubmission or nonqualification of plan; expenditure of allotted funds; availability of reallocated funds
 
-In the event that any State chooses not to submit a plan, fails to submit a plan, or submits a plan or any modification thereof, which the Administrator, after reasonable notice and opportunity for hearing, in accordance with sections 10222 and 10223 of this title and 3785 of title 42 <sup>3</sup>, determines does not meet the requirements of this section, the Administrator shall endeavor to make that State's allocation under the provisions of section 11132(a) of this title, excluding funds the Administrator shall make available to satisfy the requirement specified in section 11132(d) of this title, available to local public and private nonprofit agencies within such State for use in carrying out activities of the kinds described in the core requirements. The Administrator shall make funds which remain available after disbursements are made by the Administrator under the preceding sentence, and any other unobligated funds, available on an equitable basis and to those States that have achieved full compliance with the core requirements.
+In the event that any State chooses not to submit a plan, fails to submit a plan, or submits a plan or any modification thereof, which the Administrator, after reasonable notice and opportunity for hearing, in accordance with sections 10222 and 10223 of this title and 3785 of title 42 <sup>3</sup>, determines does not meet the requirements of this section, the Administrator shall endeavor to make that State's allocation under the provisions of section 11132(a) of this title, excluding funds the Administrator shall make available to satisfy the requirement specified in section 11132(d) of this title, available to local public and private nonprofit agencies within such State for use in carrying out activities of the kinds described in the core requirements. The Administrator shall make funds which remain available after disbursements are made by the Administrator under the preceding sentence, and any other unobligated funds, available on an equitable basis and to those States that haveachieved full compliance with the core requirements.
 
 #### (e) Administrative and supervisory board membership requirements
 
@@ -512,7 +512,7 @@ Subsec. (a)(1). Pub. L. 115–385, §205(1)(B), substituted "as designated by th
 
 Subsec. (a)(3)(A)(i). Pub. L. 115–385, §205(1)(C)(i)(I), inserted "adolescent development," after "concerning".
 
-Subsec. (a)(3)(A)(ii)(III). Pub. L. 115–385, §205(1)(C)(i)(II)(aa), substituted "child and adolescent mental health, education, child and adolescent substance abuse, special education, services for youth with disabilities" for "mental health, education, special education".
+Subsec. (a)(3)(A)(ii)(III). Pub. L. 115–385, §205(1)(C)(i)(II)(aa), substituted "child and adolescentmental health, education, child and adolescent substance abuse, special education, services for youth with disabilities" for "mental health, education, special education".
 
 Subsec. (a)(3)(A)(ii)(V). Pub. L. 115–385, §205(1)(C)(i)(II)(bb), substituted "delinquent youth or youth at risk of delinquency" for "delinquents or potential delinquents".
 
@@ -592,7 +592,7 @@ Subsec. (a)(16). Pub. L. 115–385, §205(1)(N), (P), redesignated par. (15) as 
 
 Subsec. (a)(17) to (20). Pub. L. 115–385, §205(1)(N), redesignated pars. (16) to (19) as (17) to (20), respectively. Former par. (20) redesignated (21).
 
-Subsec. (a)(21). Pub. L. 115–385, §205(1)(N), (Q), redesignated par. (20) as (21) and substituted "local, tribal," for "local," in two places. Former par. (21) redesignated (22).
+Subsec. (a)(21). Pub. L. 115–385, §205(1)(N), (Q), redesignated par. (20) as (21) and substituted "local, tribal,"for "local," in two places. Former par. (21) redesignated (22).
 
 Subsec. (a)(22). Pub. L. 115–385, §205(1)(L), (N), redesignated par. (21) as (22) and struck out former par. (22) which read as follows: "address juvenile delinquency prevention efforts and system improvement efforts designed to reduce, without establishing or requiring numerical standards or quotas, the disproportionate number of juvenile members of minority groups, who come into contact with the juvenile justice system;".
 
@@ -606,7 +606,7 @@ Subsec. (a)(26). Pub. L. 115–385, §205(1)(S), inserted "and in accordance wit
 
 Subsec. (a)(27). Pub. L. 115–385, §205(1)(L), (M), redesignated par. (28) as (27) and struck out former par. (27) which read as follows: "establish policies and systems to incorporate relevant child protective services records into juvenile justice records for purposes of establishing and implementing treatment plans for juvenile offenders; and".
 
-Subsec. (a)(28) to (33). Pub. L. 115–385, §205(1)(T), (U), added pars. (28) to (33). Former subpar. (28) redesignated (27).
+Subsec. (a)(28) to (33). Pub. L. 115–385, §205(1)(T), (U), added pars. (28) to (33). Former par. (28) redesignated (27).
 
 Subsec. (c). Pub. L. 115–385, §205(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) set out consequences for States that failed to comply with certain statutory requirements in subsec. (a) of this section in any fiscal year beginning after Sept. 30, 2001.
 
@@ -746,7 +746,7 @@ Subsec. (a)(17), (18). Pub. L. 107–273, §12209(1)(S), redesignated pars. (18)
 
 Subsec. (a)(19). Pub. L. 107–273, §12209(1)(S), redesignated par. (20) as (19). Former par. (19) redesignated (18).
 
-Pub. L. 107–273, §12209(1)(N), amended par. (19) generally. Prior to amendment, par. (19) read as follows: "provide that fair and equitable arrangements shall be made to protect the interests of employees affected byassistance under this chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such protective arrangements shall, to the maximum extent feasible, include, without being limited to, such provisions as may be necessary for—
+Pub. L. 107–273, §12209(1)(N), amended par. (19) generally. Prior to amendment, par. (19) read as follows: "provide that fair and equitable arrangements shall be made to protect the interests of employees affected by assistance under this chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such protective arrangements shall, to the maximum extent feasible, include, without being limited to, such provisions as may be necessary for—
 
 &emsp;"(A) the preservation of rights, privileges, and benefits (including continuation of pension rights and benefits) under existing collective-bargaining agreements or otherwise;
 
@@ -824,7 +824,7 @@ Subsec. (a)(1). Pub. L. 102–586, §2(f)(3)(A)(i)(II), made technical amendment
 
 Subsec. (a)(3). Pub. L. 102–586, §2(f)(3)(A)(i)(III), amended par. (3) generally, revising and restating as subpars. (A) to (E) provisions formerly appearing in text containing unindented subpars. (A) to (F).
 
-Subsec. (a)(8). Pub. L. 102–586, §2(f)(3)(A)(i)(IV), designated existing provisions as subpar. (A), redesignatedformer cls. (A) to (C) as (i) to (iii), respectively, inserted "(including educational needs)" after "delinquency prevention needs" in two places in cl. (i), and added subpars. (B) to (D).
+Subsec. (a)(8). Pub. L. 102–586, §2(f)(3)(A)(i)(IV), designated existing provisions as subpar. (A), redesignated former cls. (A) to (C) as (i) to (iii), respectively, inserted "(including educational needs)" after "delinquency prevention needs" in two places in cl. (i), and added subpars. (B) to (D).
 
 Subsec. (a)(9). Pub. L. 102–586, §2(f)(3)(A)(i)(V), inserted "recreation," after "special education,".
 
@@ -874,7 +874,7 @@ Subsec. (a)(1). Pub. L. 98–473, §626(a)(1), substituted "agency described in 
 
 Subsec. (a)(2). Pub. L. 98–473, §626(a)(2), struck out "(hereafter referred to in this part as the 'State criminal justice council')" before "has or will have authority".
 
-Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following "representatives of private organizations" as cl. (i) and inserted ", including those with a special focus on maintaining and strengthening the family unit", designated provisions following "which utilize" as cl. (ii) and inserted "representatives of organizations which", added cl. (iii), designated provisions following "business groups" as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted "family, school violence and vandalism, and learning disabilities," for "school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,".
+Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following "representatives of private organizations" as cl. (i) and inserted ", including those with a special focus on maintaining and strengthening the family unit", designated provisions following "which utilize"as cl. (ii) and inserted "representatives of organizations which", added cl. (iii), designated provisions following "business groups" as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted "family, school violence and vandalism, and learning disabilities," for "school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,".
 
 Subsec. (a)(3)(F). Pub. L. 98–473, §626(a)(3)(B)(i), substituted "agency designated under paragraph (1)" for "criminal justice council" in three places.
 
@@ -886,7 +886,7 @@ Subsec. (a)(9). Pub. L. 98–473, §626(a)(4), inserted "special education,".
 
 Subsec. (a)(10). Pub. L. 98–473, §626(a)(5)(A), in provisions preceding subpar. (A), substituted "programs for juveniles, including those processed in the criminal justice system," for "programs for juveniles" and "provide for effective rehabilitation, and facilitate the coordination of services between the juvenile justice and criminal justice systems" for "and provide for effective rehabilitation".
 
-Subsec. (a)(10)(E). Pub. L. 98–473, §626(a)(5)(B), inserted ", including programs to counsel delinquentyouth and other youth regarding the opportunities which education provides".
+Subsec. (a)(10)(E). Pub. L. 98–473, §626(a)(5)(B), inserted ", including programs to counsel delinquent youth and other youth regarding the opportunities which education provides".
 
 Subsec. (a)(10)(F). Pub. L. 98–473, §626(a)(5)(C), inserted "and their families".
 
@@ -940,7 +940,7 @@ Subsec. (a)(3)(F). Pub. L. 96–509, §§11(a)(5), (6), 19(g)(4), substituted in
 
 Subsec. (a)(8). Pub. L. 96–509, §11(a)(7), provided that State juvenile justice plan requirements conform to State criminal justice application requirements and required a State concentration of effort to coordinate State juvenile delinquency programs and policy.
 
-Subsec. (a)(10). Pub. L. 96–509, §11(a)(8)(A)–(C), in provisions preceding subpar. (A), clarified that the advanced techniques described in this paragraph are to be used to provide community-based alternatives to "secure" juvenile detention and correctional facilities and that advanced techniques can be used for the purpose of providing programs for juveniles who have committed serious crimes, particularly programs designed to improve sentencing procedures, provide resources necessary for informed dispositions, and provide for effective rehabilitation.
+Subsec. (a)(10). Pub. L. 96–509, §11(a)(8)(A)–(C), in provisions preceding subpar. (A), clarified that the advanced techniques described in this paragraph are to be used to provide community-based alternatives to "secure" juvenile detention and correctional facilities and that advanced techniques can be used for the purpose of providing programs for juveniles who have committedserious crimes, particularly programs designed to improve sentencing procedures, provide resources necessary for informed dispositions, and provide for effective rehabilitation.
 
 Subsec. (a)(10)(A). Pub. L. 96–509, §11(a)(9), inserted provisions for inclusion of education and special education programs among community-based programs and services.
 

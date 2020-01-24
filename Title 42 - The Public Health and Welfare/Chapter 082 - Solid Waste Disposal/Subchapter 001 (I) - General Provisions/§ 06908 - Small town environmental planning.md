@@ -6,7 +6,7 @@ The Administrator of the Environmental Protection Agency (hereafter referred to 
 
 #### (b) Small Town Environmental Planning Task Force
 
-(1) The Administrator shall establish a Small Town Environmental Planning Task Forcewhich shall be composed of representatives of small towns from different areas of the United States, Federal and State governmental agencies, and public interest groups. The Administrator shall terminate the Task Force not later than 2 years after the establishment of the Task Force.
+(1) The Administrator shall establish a Small Town Environmental Planning Task Force which shall be composed of representatives of small towns from different areas of the United States, Federal and State governmental agencies, and public interest groups. The Administrator shall terminate the Task Force not later than 2 years after the establishment of the Task Force.
 
 (2) The Task Force shall—
 

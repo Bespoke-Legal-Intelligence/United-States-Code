@@ -48,7 +48,7 @@ Development of long-range plans and tips.—To accomplish the objectives in subs
 
 &emsp;(2)
 
-Contents.—The plans and TIPs for each metropolitan area shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercitybus facilities and commuter vanpool providers) that will function as an intermodal transportation system for the metropolitan planning area and as an integral part of an intermodal transportation system for the State and the United States.
+Contents.—The plans and TIPs for each metropolitan area shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers) that will function as an intermodal transportation system for the metropolitan planning area and as an integral part of an intermodal transportation system for the State and the United States.
 
 &emsp;(3)
 
@@ -146,7 +146,7 @@ Existing metropolitan planning areas in nonattainment.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding paragraph (2), except as provided in subparagraph (B), in the case of an urbanized area designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.) as of the date of enactment of the SAFETEA–LU, theboundaries of the metropolitan planning area in existence as of such date of enactment shall be retained.
+In general.—Notwithstanding paragraph (2), except as provided in subparagraph (B), in the case of an urbanized area designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.) as of the date of enactment of the SAFETEA–LU, the boundaries of the metropolitan planning area in existence as of such date of enactment shall be retained.
 
 &emsp;&emsp;(B)
 
@@ -342,7 +342,7 @@ Mitigation activities.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A long-range transportation plan shall include a discussion of types of potential environmental mitigation activities and potential areas to carry out these activities, including activitiesthat may have the greatest potential to restore and maintain the environmental functions affected by the plan.
+In general.—A long-range transportation plan shall include a discussion of types of potential environmental mitigation activities and potential areas to carry out these activities, including activities that may have the greatest potential to restore and maintain the environmental functions affected by the plan.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -392,7 +392,7 @@ Optional scenario development.—
 
 &emsp;&emsp;(A)
 
-In general.—A metropolitan planning organization may, while fitting the needs and complexity of its community, voluntarily elect to develop multiple scenarios for consideration as part of the development of the metropolitan transportation plan, in accordance with subparagraph (B).
+In general.—A metropolitan planning organization may, while fitting the needsand complexity of its community, voluntarily elect to develop multiple scenarios for consideration as part of the development of the metropolitan transportation plan, in accordance with subparagraph (B).
 
 &emsp;&emsp;(B)
 
@@ -552,7 +552,7 @@ Consistency with long-range transportation plan.—Each project shall be consist
 
 &emsp;&emsp;(D)
 
-Requirement of anticipated full funding.—The program shall include aproject, or an identified phase of a project, only if full funding can reasonably be anticipated to be available for the project or the identified phase within the time period contemplated for completion of the project or the identified phase.
+Requirement of anticipated full funding.—The program shall include a project, or an identified phase of a project, only if full funding can reasonably be anticipated to be available for the project or the identified phase within the time period contemplated for completion of the project or the identified phase.
 
 &emsp;(4)
 
@@ -654,7 +654,7 @@ Congestion management plan.—A metropolitan planning organization serving a tra
 
 &emsp;&emsp;(D)
 
-Participation.—In developing the plan under subparagraph (C), a metropolitan planning organization shall consult with employers, private and non-profit providers ofpublic transportation, transportation management organizations, and organizations that provide job access reverse commute projects or job-related services to low-income individuals.
+Participation.—In developing the plan under subparagraph (C), a metropolitan planning organization shall consult with employers, private and non-profit providers of public transportation, transportation management organizations, and organizations that provide job access reverse commute projects or job-related services to low-income individuals.
 
 &emsp;(4)
 
@@ -702,7 +702,7 @@ Restoration of withheld funds.—The withheld funds shall be restored to the met
 
 &emsp;&emsp;(D)
 
-Review of certification.—In making certification determinations under this paragraph, the Secretary shall provide for public involvement appropriate to the metropolitan area under review.
+Review of certification.—In making certification determinations under this paragraph, the Secretary shall provide forpublic involvement appropriate to the metropolitan area under review.
 
 (l)
 
@@ -892,7 +892,7 @@ This amends 49:5303(c)(5)(A) to correct an erroneous cross-reference.
 
 #### References in Text
 
-The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsecs. (d)(2) and\(l)(2), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways.
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsecs. (d)(2) and (l)(2), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways.
 
 The Clean Air Act, referred to in subsecs. (e)(4)(A), (5)(D), (g)(1), (i)(3), (m)(2), and (n)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
@@ -962,7 +962,7 @@ Subsec. (c)(3). Pub. L. 105–178, §3004(b)(3), as amended by Pub. L. 105–206
 
 Subsec. (c)(4)(A). Pub. L. 105–178, §3004(b)(4), as added by Pub. L. 105–206, §9009(b)(1)(E), directed an amendment identical to that made by Pub. L. 105–102, §2(4)(B). See 1997 Amendment note below.
 
-Subsec. (c)(5)(A). Pub. L. 105–178, §3004(b)(5)(A), formerly §3004(b)(4)(A), as renumbered and amended byPub. L. 105–206, §9009(b)(1)(C), (D), substituted "general purpose local government that together represent" for "general local government representing".
+Subsec. (c)(5)(A). Pub. L. 105–178, §3004(b)(5)(A), formerly §3004(b)(4)(A), as renumbered and amended by Pub. L. 105–206, §9009(b)(1)(C), (D), substituted "general purpose local government that together represent" for "general local government representing".
 
 Subsec. (c)(5)(B). Pub. L. 105–178, §3004(b)(5)(B), formerly §3004(b)(4)(B), as renumbered by Pub. L. 105–206, §9009(b)(1)(D), substituted "or cities, as defined by the Bureau of the Census)" for "as defined by the Secretary of Commerce)".
 

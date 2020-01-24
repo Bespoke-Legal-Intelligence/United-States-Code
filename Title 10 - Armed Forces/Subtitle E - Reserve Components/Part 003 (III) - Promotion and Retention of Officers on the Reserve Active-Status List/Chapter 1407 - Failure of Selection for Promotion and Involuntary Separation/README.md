@@ -26,7 +26,7 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–181, div. A, title V, §503(c)(3), title XVIII, §1825(a)(2), Jan. 28, 2008, 122 Stat. 95, 502, substituted "six years" for "five years" in item 14503 and "officers in grade of major general or rear admiral and above" for "major generals and rear admirals" in item 14511.
+<b>2008</b>—Pub. L. 110–181, div. A, title V, §503(c)(3), title XVIII, §1825(a)(2), Jan. 28, 2008, 122 Stat. 95, 502, substituted "six years" for "five years" in item 14503 and "officers in grade of major general or rear admiral andabove" for "major generals and rear admirals" in item 14511.
 
 <b>2006</b>—Pub. L. 109–364, div. A, title V, §503(f), Oct. 17, 2006, 120 Stat. 2178, struck out "reserve" before "brigadier" in item 14510 and substituted "62" for "60" in items 14509 and 14510, "64" for "62" in item 14511, and "66" for "64" in item 14512.
 

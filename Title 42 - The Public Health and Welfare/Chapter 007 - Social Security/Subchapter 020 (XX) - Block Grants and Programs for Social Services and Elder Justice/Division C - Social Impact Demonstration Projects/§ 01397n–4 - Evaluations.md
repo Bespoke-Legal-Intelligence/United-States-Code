@@ -20,7 +20,7 @@ The evaluation used to determine whether a State or local government will receiv
 
 &emsp;&emsp;(A) not later than 2 years after a project has been approved by the Secretary and biannually thereafter until the project is concluded, submit to the head of the relevant agency and the Federal Interagency Council on Social Impact Partnerships a written report summarizing the progress that has been made in achieving each outcome specified in the agreement; and
 
-&emsp;&emsp;(B) before the scheduled time of the first outcome payment and before the scheduled time of each subsequent payment, submit to the head of the relevant agency and the Federal Interagency Council on Social Impact Partnerships a written report that includes the results of the evaluation conducted to determine whether an outcome payment should be made along with information on the unique factors that contributed to achieving or failing to achieve the outcome, the challenges faced in attempting toachieve the outcome, and information on the improved future delivery of this or similar interventions.
+&emsp;&emsp;(B) before the scheduled time of the first outcome payment and before the scheduled time of each subsequent payment, submit to the head of the relevant agency and the Federal Interagency Council on Social Impact Partnerships a written report that includes the results of the evaluation conducted to determine whether an outcome payment should be made along with information on the unique factors that contributed to achieving or failing to achieve the outcome, the challenges faced in attempting to achieve the outcome, and information on the improved future delivery of this or similar interventions.
 
 #### (2) Submission to the Secretary and Congress
 

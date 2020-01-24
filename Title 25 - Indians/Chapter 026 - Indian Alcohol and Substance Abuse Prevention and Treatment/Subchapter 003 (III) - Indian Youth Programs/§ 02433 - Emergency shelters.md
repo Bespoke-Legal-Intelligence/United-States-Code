@@ -14,7 +14,7 @@ A Tribal Action Plan adopted pursuant to section 2412 of this title may make suc
 
 In the case of any State that exercises criminal jurisdiction over any part of Indian country under section 1162 of title 18 or section 1321 of this title, such State is urged to require its law enforcement officers to—
 
-&emsp;(1) place any Indian youth arrested for any offense related to alcohol or substance abuse in a temporary emergency shelter described insubsection (d) or a community-based alcohol or substance abuse treatment facility in lieu of incarceration to the extent such facilities are available, and
+&emsp;(1) place any Indian youth arrested for any offense related to alcohol or substance abuse in a temporary emergency shelter described in subsection (d) or a community-based alcohol or substance abuse treatment facility in lieu of incarceration to the extent such facilities are available, and
 
 &emsp;(2) observe the standards promulgated under subsection (d).
 
@@ -42,7 +42,7 @@ The Assistant Secretary of Indian Affairs shall, as part of the development of t
 
 &emsp;(B) to require a lease of tribal facilities to the United States to qualify for financial assistance for the facilities under this chapter or any other Act.
 
-(Pub. L. 99–570, title IV, §4213, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, §2207, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 101–272, Apr. 18, 1990, 104 Stat. 137; Pub. L. 102–573, title VII, §703(5), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(c), July 29, 2010, 124 Stat. 2290.)
+(Pub. L. 99–570, title IV, §4213, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, §2207, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 101–272, Apr. 18, 1990, 104 Stat. 137; Pub. L. 102–573, title VII,§703(5), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(c), July 29, 2010, 124 Stat. 2290.)
 
 #### References in Text
 
@@ -74,7 +74,7 @@ Subsec. (e)(4), (5). Pub. L. 101–272, §1(3), added pars. (4) and (5).
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–690, §2207(a), inserted provisions which permitted half-way houses to be used as either intake facilities or aftercare facilities, and authorized Indian Health Service, Bureau of Indian Affairs, and tribes to use resources to staff and operate such facilities.
 
-Subsec. (e). Pub. L. 100–690, §2207(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "For the planning and design, construction, and renovation of emergency shelters or half-way houses to provide emergency care for Indian youth, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1987, 1988, and 1989. For the operation of emergency shelters or half-way houses there is authorized to be appropriated $3,000,000 for each of the fiscal years 1987, 1988, and 1989. The Secretary of theInterior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting pursuant to the Indian Self-Determination Act."
+Subsec. (e). Pub. L. 100–690, §2207(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "For the planning and design, construction, and renovation of emergency shelters or half-way houses to provide emergency care for Indian youth, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1987, 1988, and 1989. For the operation of emergency shelters or half-way houses there is authorized to be appropriated $3,000,000 for each of the fiscal years 1987, 1988, and 1989. The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting pursuant to the Indian Self-Determination Act."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "half-way".</i>
 

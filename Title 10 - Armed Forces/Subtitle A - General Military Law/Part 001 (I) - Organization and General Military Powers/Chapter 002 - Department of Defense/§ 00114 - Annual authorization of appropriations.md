@@ -148,7 +148,7 @@ Subsec. (c)(5). Pub. L. 97–295, §1(3), added par. (5).
 
 Subsec. (f)(1). Pub. L. 97–214 substituted ", any activity to which section 2807 of this title applies, any activity to which chapter 133 of this title applies, and advances to the Secretary of Transportation for the construction of defense access roads under section 210 of title 23" for "but excludes any activity to which section 2673 or 2674, or chapter 133, of this title apply, or to which section 406(a) of Public Law 85–241 (42 U.S.C. 1594i) applies" and inserted provision that "military construction" does not include any activity to which section 2821 or 2854 of this title applies.
 
-Subsec. (g). Pub. L. 97–252, §1103, limited size of Special Defense Acquisition Fund to $600,000,000 in fiscalyear 1983, striking out such sum as a limit in any fiscal year thereafter, and limited size of Fund to $900,000,000 in fiscal year 1984 or any fiscal year thereafter.
+Subsec. (g). Pub. L. 97–252, §1103, limited size of Special Defense Acquisition Fund to $600,000,000 in fiscal year 1983, striking out such sum as a limit in any fiscal year thereafter, and limited size of Fund to $900,000,000 in fiscal year 1984 or any fiscal year thereafter.
 
 Subsec. (h). Pub. L. 97–252, §1105, added subsec. (h).
 
@@ -162,7 +162,7 @@ Subsec. (c)(3)(D)(iii)(I). Pub. L. 97–22 struck out "and active military servi
 
 Subsec. (c)(4). Pub. L. 97–86, §903, added par. (4).
 
-Subsec. (e)(3), (4). Pub. L. 97–86, §302, struck out pars. (3) and (4) which required the Secretary to include in each report a projection of the combat readiness of specified military units proposed to be maintained during the next fiscal year.
+Subsec. (e)(3), (4). Pub. L. 97–86, §302, struck out pars. (3) and (4) which required the Secretary to include in each report a projection of the combat readiness ofspecified military units proposed to be maintained during the next fiscal year.
 
 Subsec. (g). Pub. L. 97–113 added subsec. (g).
 
@@ -230,7 +230,7 @@ The following general provisions, which had been repeated as fiscal year provisi
 
 "
 
-Sec. 8005. \[Authorized use of appropriated funds for expenses in connection with administration of occupied areas; payment of rewards for information leading to discovery of missing naval property or recovery thereof; payment of deficiency judgments and interests thereon arising out of condemnation proceedings; leasing of buildings and facilities; payments under contracts for maintenance of tools and facilities for twelve months; maintenance of defense access roads; purchase of milk for enlisted personnel; payments under leases for real or personal property, including maintenance; purchase of right-hand-drive vehicles not to exceed$12,000 per vehicle; payment of unusual cost overruns incident to ship overhaul, maintenance, and repair; payments from annual appropriations to industrial fund activities and/or under contract for changes in scope of ship overhaul, maintenance, and repair after expiration of such appropriations; and payments for depot maintenance contracts for twelve months; and was repealed and (except for section 8005(e)) restated in sections 2242(2), 2252, 2253(a)(2), 2389(b), 2410a, 2661(b), and 7313 of this title by Pub. L. 100–370, §1(e)(1), (h)(1), (2), (l)(3), (n)(1), (p)(3), July 19, 1988, 102 Stat. 844, 847, 849–851. Section 8005(c) was not restated in view of section 2676(e) \[now 2664(e)\] of this title.\]
+Sec. 8005. \[Authorized use of appropriated funds for expenses in connection with administration of occupied areas; payment of rewards for information leading to discovery of missing naval property or recovery thereof; payment of deficiency judgments and interests thereon arising out of condemnation proceedings; leasing of buildings and facilities; payments under contracts for maintenance of tools and facilities for twelve months; maintenance of defense access roads; purchase of milk for enlisted personnel; payments under leases for real or personal property, including maintenance; purchase of right-hand-drive vehicles not to exceed $12,000 per vehicle; payment of unusual cost overruns incident to ship overhaul, maintenance, and repair; payments from annual appropriations to industrial fund activities and/or under contract for changes in scope of ship overhaul, maintenance, and repair after expiration of such appropriations; and payments for depot maintenance contracts for twelve months; and was repealed and (except for section 8005(e)) restated in sections 2242(2), 2252, 2253(a)(2), 2389(b), 2410a, 2661(b), and 7313 of this title by Pub. L. 100–370, §1(e)(1), (h)(1), (2), (l)(3), (n)(1), (p)(3), July 19, 1988, 102 Stat. 844, 847, 849–851. Section 8005(c) was not restated in view of section 2676(e) \[now 2664(e)\] of this title.\]
 
 "
 
@@ -414,11 +414,11 @@ Pub. L. 101–510, div. A, title XIV, §1409, Nov. 5, 1990, 104 Stat. 1681.
 
 #### Budget Act Limitation
 
-Pub. L. 99–661, div. A, title XIII, §1304(b), Nov. 14, 1986, 100 Stat. 3979, provided that: "New spending authority (as defined in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\]) provided by theamendment made by subsection (a) \[amending this section\] shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts."
+Pub. L. 99–661, div. A, title XIII, §1304(b), Nov. 14, 1986, 100 Stat. 3979, provided that: "New spending authority (as defined in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\]) provided by the amendment made by subsection (a) \[amending this section\] shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts."
 
 #### Limitation on Source of Funds for Nicaraguan Democratic Resistance
 
-Pub. L. 99–661, div. A, title XIII, §1351, Nov. 14, 1986, 100 Stat. 3995, as amended by Pub. L. 104–106, div. A, title X, §1063(a), Feb. 10, 1996, 110 Stat. 444, provided that: "Notwithstanding title II of the Military Construction Appropriations Act, 1987 \[Pub. L. 99–500, §101(k) \[title II\], Oct. 18, 1986, 100 Stat. 1783–287, 1783–295, and Pub. L. 99–591, §101(k) \[title II\], Oct. 30, 1986, 100 Stat. 3341–287, 3341–295\], or any other provision of law, funds appropriated or otherwise made available to the Department of Defense for any fiscal year for operation and maintenance may not be used to provide assistance for the democratic resistance forces in Nicaragua. If funds appropriated or otherwise made available to the Department of Defense for any fiscal year are authorized by law to be used for such assistance, funds for such purpose may only be derived from amounts appropriated or otherwise made available to the Department for procurement (other than ammunition)."
+Pub. L. 99–661, div. A, title XIII, §1351, Nov. 14, 1986, 100 Stat. 3995, as amended by Pub. L. 104–106, div. A, title X, §1063(a), Feb. 10, 1996, 110 Stat. 444, provided that: "Notwithstanding title II of the Military Construction Appropriations Act, 1987 \[Pub. L. 99–500, §101(k) \[title II\], Oct. 18, 1986, 100 Stat. 1783–287, 1783–295, and Pub. L. 99–591, §101(k) \[title II\], Oct. 30, 1986, 100 Stat. 3341–287, 3341–295\], or any other provision of law, funds appropriated or otherwise made available to the Department of Defense for any fiscal year for operation and maintenance may not be used to provideassistance for the democratic resistance forces in Nicaragua. If funds appropriated or otherwise made available to the Department of Defense for any fiscal year are authorized by law to be used for such assistance, funds for such purpose may only be derived from amounts appropriated or otherwise made available to the Department for procurement (other than ammunition)."
 
 #### Use of Appropriated Funds To Support Revenue Generating Activities in Large Metropolitan Areas Prohibited
 

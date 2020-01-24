@@ -18,7 +18,7 @@ Any person appointed pursuant to this section shall be paid the compensation whi
 
 Section was formerly classified to section 75a–1 of this title prior to editorial reclassification and renumbering as this section.
 
-Amendment by Pub. L. 109–289 is based on section 103(b)(2) of title I of H.R. 5521, as passed by the House of Representatives on June 7, 2006, which was enacted into law by section 20702(b) of Pub. L. 109–289, as added by Pub. L. 110–5.
+Amendment by Pub. L. 109–289 is based on section 103(b)(2) of title I of H.R. 5521, as passed by the Houseof Representatives on June 7, 2006, which was enacted into law by section 20702(b) of Pub. L. 109–289, as added by Pub. L. 110–5.
 
 #### Amendments
 

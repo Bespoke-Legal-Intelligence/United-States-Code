@@ -10,7 +10,7 @@ Any person making application and paying the required fee may obtain such certif
 
 Based on section 127 of title 15, U.S.C., 1940 ed., Commerce and Trade, and title 28, U.S.C., 1940 ed., §673 (R.S. §892; Mar. 19, 1920, ch. 104, §7, 41 Stat. 535; Mar. 4, 1925, ch. 535, §2, 43 Stat. 1269).
 
-For purposes of uniformity, words "written or printed," at the beginning of the section, were omitted. Similar sections in this chapter do not contain such words.
+For purposes of uniformity, words "written or printed," at the beginning of the section, were omitted.Similar sections in this chapter do not contain such words.
 
 Words "or in his name attested by a chief of division duly designated by the commissioner," after "Commissioner of Patents," were omitted as unnecessary.
 

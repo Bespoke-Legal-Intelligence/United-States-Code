@@ -40,7 +40,7 @@ The Corporation, in consultation with the Secretary of Education, may make allot
 
 &emsp;&emsp;(B) the recruitment, training and professional development, supervision, and placement of service-learning coordinators who may be participants in a program under division C or receive a national service educational award under division D, who may be participants in a project under section 5001 of this title, or who may participate in a Youthbuild program under section 3226 of title 29,
 
-> &emsp;who will identify the community partners described in paragraph (2)(B) and assist in the design and implementation of a program described in paragraph (2);
+> &emsp;who will identify the community partners described in paragraph (2)(B) and assist in thedesign and implementation of a program described in paragraph (2);
 
 &emsp;(4) implementing, operating, or expanding school-based service-learning programs to utilize adult volunteers in service-learning to improve the education of students, through distribution by State educational agencies, territories, and Indian tribes of Federal funds made available under this part to—
 

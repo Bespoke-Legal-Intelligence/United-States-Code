@@ -16,7 +16,7 @@ The Administrator shall submit to the Congress by October 1, 1978, a report on t
 
 #### (d) Legislative recommendations on program requiring coordination between water supply and wastewater control plans as condition for construction grants; public hearing
 
-The Administrator, in cooperation with the States, including water pollution control agencies, and other water pollution control planning agencies, and water supply and water resources agencies of the States and the United States shall submit to Congress, within two years of December 27, 1977, a report with recommendations for legislation on a program to require coordination between water supply and wastewater control plans as a condition to grants for construction of treatment works under this chapter. No such report shall be submitted except after opportunity for public hearings on such proposed report.
+The Administrator, in cooperation with the States, including water pollution control agencies, and other water pollution control planning agencies, and water supply and water resourcesagencies of the States and the United States shall submit to Congress, within two years of December 27, 1977, a report with recommendations for legislation on a program to require coordination between water supply and wastewater control plans as a condition to grants for construction of treatment works under this chapter. No such report shall be submitted except after opportunity for public hearings on such proposed report.
 
 #### (e) State revolving fund report
 
@@ -80,7 +80,7 @@ Pub. L. 100–4, title V, §518, Feb. 4, 1987, 101 Stat. 86, directed Administra
 
 Pub. L. 100–4, title V, §519, Feb. 4, 1987, 101 Stat. 87, directed Administrator to conduct a study of pretreatment of toxic pollutants and report results of such study to specified Congressional committees not later than 4 years after Feb. 4, 1987.
 
-Pub. L. 100–4, title V, §520, Feb. 4, 1987, 101 Stat. 87, directed Administrator, in conjunction with State and local agencies, to conduct studies of water pollution problems in aquifers and report result of such studies to Congress not later than 2 years after Feb. 4, 1987.
+Pub. L. 100–4, title V, §520, Feb. 4, 1987, 101 Stat. 87, directed Administrator, in conjunction with State and local agencies, to conduct studies of water pollutionproblems in aquifers and report result of such studies to Congress not later than 2 years after Feb. 4, 1987.
 
 Pub. L. 100–4, title V, §522, Feb. 4, 1987, 101 Stat. 88, directed Administrator to conduct a study on sulfide corrosion in collection and treatment systems and report results of such study to specified Congressional committees not later than 1 year after Feb. 4, 1987.
 

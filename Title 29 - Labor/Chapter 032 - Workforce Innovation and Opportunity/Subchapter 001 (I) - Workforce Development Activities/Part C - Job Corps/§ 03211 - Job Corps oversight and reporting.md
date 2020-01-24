@@ -30,7 +30,7 @@ Every 5 years after July 22, 2014, the Secretary shall provide for a third-party
 
 #### (c) Criteria for Job Corps center closures
 
-By not later than December 1, 2014, the Secretary shall establish written criteria that the Secretary shall use to determine when a Job Corps center supported under this part is to be closed and how to carry out such closure, and shall submit such criteria to the applicable committees.
+By not later than December 1, 2014, the Secretary shall establish written criteria that theSecretary shall use to determine when a Job Corps center supported under this part is to be closed and how to carry out such closure, and shall submit such criteria to the applicable committees.
 
 #### (d) Definition of applicable committees
 
@@ -45,6 +45,10 @@ In this section, the term "applicable committees" means—
 &emsp;(4) the Subcommittee on Labor, Health and Human Services, Education, and Related Agencies of the Committee of Appropriations of the Senate.
 
 (Pub. L. 113–128, title I, §161, July 22, 2014, 128 Stat. 1558.)
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

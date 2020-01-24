@@ -16,7 +16,7 @@ The Secretary shall require the entity awarded a contract under this section to 
 
 The outcomes database shall make relevant scientific information not containing individually identifiable information available to the public in the form of summaries and data sets to encourage medical research and to provide information to transplant programs, physicians, patients, entities awarded a contract under section 274k of this title <sup>1</sup> donor registries, and cord blood banks.
 
-(July 1, 1944, ch. 373, title III, §379A, as added Pub. L. 105–196, §3, July 16, 1998, 112 Stat. 635;amended Pub. L. 109–129, §3(b), Dec. 20, 2005, 119 Stat. 2561.)
+(July 1, 1944, ch. 373, title III, §379A, as added Pub. L. 105–196, §3, July 16, 1998, 112 Stat. 635; amended Pub. L. 109–129, §3(b), Dec. 20, 2005, 119 Stat. 2561.)
 
 #### Prior Provisions
 

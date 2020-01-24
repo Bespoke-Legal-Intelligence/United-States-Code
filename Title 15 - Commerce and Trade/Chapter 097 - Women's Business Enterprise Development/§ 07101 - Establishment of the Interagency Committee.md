@@ -110,7 +110,7 @@ For the purposes of this Order, the following definitions shall apply:
 
 1–601. "Women-owned business" means a business that is at least 51 percent owned by a woman or women who also control and operate it. "Control" in this context means exercising the power to make policy decisions. "Operate" in this context means being actively involved in the day-to-day management.
 
-1–602. "Women's business enterprise" means a woman-owned business or businesses or the efforts of a woman or women to establish, maintain or develop such a business or businesses.
+1–602. "Women's business enterprise" means a woman-owned business or businesses or the efforts of awoman or women to establish, maintain or develop such a business or businesses.
 
 1–603. Nothing in subsections 1–601 or 1–602 of this Section (1–6) should be construed to prohibit the use of other definitions of a woman-owned business or women's business enterprise by departments and agencies of the Executive Branch where other definitions are deemed reasonable and useful for any purpose not inconsistent with the purposes of this Order. Wherever feasible, departments and agencies should use the definition of a woman-owned business in subsection 1–601 above for monitoring performance with respect to women's business enterprise in order to assure comparability of data throughout the Federal Government.
 

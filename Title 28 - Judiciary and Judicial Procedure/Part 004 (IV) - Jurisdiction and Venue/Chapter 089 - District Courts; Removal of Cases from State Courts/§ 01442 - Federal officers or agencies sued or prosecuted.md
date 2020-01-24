@@ -10,7 +10,7 @@
 
 &emsp;(4) Any officer of either House of Congress, for or relating to any act in the discharge of his official duty under an order of such House.
 
-(b) A personal action commenced in any State court by an alien against any citizen of a Statewho is, or at the time the alleged action accrued was, a civil officer of the United States and is a nonresident of such State, wherein jurisdiction is obtained by the State court by personal service of process, may be removed by the defendant to the district court of the United States for the district and division in which the defendant was served with process.
+(b) A personal action commenced in any State court by an alien against any citizen of a State who is, or at the time the alleged action accrued was, a civil officer of the United States and is a nonresident of such State, wherein jurisdiction is obtained by the State court by personal service of process, may be removed by the defendant to the district court of the United States for the district and division in which the defendant was served with process.
 
 (c) Solely for purposes of determining the propriety of removal under subsection (a), a law enforcement officer, who is the defendant in a criminal prosecution, shall be deemed to have been acting under the color of his office if the officer—
 

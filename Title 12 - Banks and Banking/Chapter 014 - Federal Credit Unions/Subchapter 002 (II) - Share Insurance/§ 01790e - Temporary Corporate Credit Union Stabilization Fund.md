@@ -6,7 +6,7 @@ There is hereby created in the Treasury of the United States a fund to be known 
 
 #### (b) Expenditures from Stabilization Fund
 
-Money in the Stabilization Fund shall be available upon requisition by the Board, without fiscal year limitation, for making payments for the purposes described in section 1783(a) of this title, subject to the following additional limitations:
+Money in the Stabilization Fund shall be available upon requisition by the Board, withoutfiscal year limitation, for making payments for the purposes described in section 1783(a) of this title, subject to the following additional limitations:
 
 &emsp;(1) All payments other than administrative payments shall be connected to the conservatorship, liquidation, or threatened conservatorship or liquidation, of a corporate credit union.
 

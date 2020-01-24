@@ -6,7 +6,7 @@ Establishment.—The Secretary shall develop and carry out a comprehensive progr
 
 (b)
 
-Staff Education.—In carrying out the comprehensive program under this section, the Secretary shall provide for mandatory training for appropriate staff and contractors (including all medical personnel) of the Department who interact with veterans. This training shall cover information appropriate to the duties being performed by such staff and contractors. The training shall include information on—
+Staff Education.—In carrying out the comprehensive program under this section, the Secretary shall provide for mandatory training for appropriate staff and contractors (including all medical personnel) of the Department whointeract with veterans. This training shall cover information appropriate to the duties being performed by such staff and contractors. The training shall include information on—
 
 &emsp;(1) recognizing risk factors for suicide;
 
@@ -90,7 +90,7 @@ Peer Support Counseling Program.—(1) In carrying out the comprehensive program
 
 (D) In carrying out this paragraph, the Secretary shall coordinate with such community organizations, State and local governments, institutions of higher education, chambers of commerce, local business organizations, organizations that provide legal assistance, and other organizations as the Secretary considers appropriate.
 
-(E) In carrying out this paragraph, the Secretary shall provide adequate training for peer support counselors, including training carried out under the national program of training required by section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (38 U.S.C. 1712A note).
+(E) In carrying out this paragraph, the Secretary shall provide adequate training for peer support counselors, including training carriedout under the national program of training required by section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (38 U.S.C. 1712A note).
 
 (k)
 

@@ -20,7 +20,7 @@ If a judgment is entered for the United States in a civil forfeiture proceeding 
 
 &emsp;(4) the compromise of claims;
 
-> shall apply to any forfeiture ordered, and to any case in which forfeiture is alleged to be authorized, under this section, unless such provisions are inconsistent with the purposes, policy, and provisions of this subchapter. The duties and powers imposed upon the Commissioner of U.S. Customs and Border Protection or other personsunder such provisions shall, with respect to this subchapter, be performed by officers or other persons designated for such purpose by the Secretary.
+> shall apply to any forfeiture ordered, and to any case in which forfeiture is alleged to be authorized, under this section, unless such provisions are inconsistent with the purposes, policy, and provisions of this subchapter. The duties and powers imposed upon the Commissioner of U.S. Customs and Border Protection or other persons under such provisions shall, with respect to this subchapter, be performed by officers or other persons designated for such purpose by the Secretary.
 
 #### (d) Bond or other security; disposal of seized fish
 
@@ -46,7 +46,7 @@ For purposes of this section, it shall be a rebuttable presumption that all fish
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

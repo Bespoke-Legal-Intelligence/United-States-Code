@@ -75,7 +75,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;&emsp;"(A) the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives.
 
 &emsp;"(2)
 
@@ -195,7 +195,7 @@ Sec. 2. <i>Contract Clause</i>. Except in contracts exempted in accordance with 
 
 "3. In the event that the contractor does not comply with any of the requirements set forth in paragraphs (1) or (2) above, this contract may be cancelled, terminated, or suspended in whole or in part, and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in or adopted pursuant to Executive Order \[number as provided by the Federal Register \[13496\]\] of \[insert new date \[Jan. 30, 2009\]\]. Such other sanctions or remedies may be imposed as are provided in Executive Order \[number as provided by the Federal Register \[13496\]\] of \[insert new date \[Jan. 30, 2009\]\], or by rule, regulation, or order of the Secretary of Labor, or as are otherwise provided by law.
 
-"4. The contractor will include the provisions of paragraphs (1) through (3) above in every subcontract entered into in connection with this contract (unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to section 3 of Executive Order \[number as provided by the Federal Register \[13496\]\] of \[insert new date \[Jan. 30, 2009\]\]) so that such provisions will be binding upon each subcontractor. The contractor will take such action with respect to any such subcontract as may be directed by the Secretary of Labor as a means of enforcing such provisions, including the imposition of sanctions for non-compliance: Provided, however, that if the contractor becomes involved in litigation with a subcontractor, or is threatened with such involvement, as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States."
+"4. The contractor will include the provisions of paragraphs (1) through (3) above in every subcontract entered into in connection with this contract (unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to section 3 of Executive Order \[number as provided by the Federal Register \[13496\]\] of \[insert new date \[Jan. 30, 2009\]\]) so that suchprovisions will be binding upon each subcontractor. The contractor will take such action with respect to any such subcontract as may be directed by the Secretary of Labor as a means of enforcing such provisions, including the imposition of sanctions for non-compliance: Provided, however, that if the contractor becomes involved in litigation with a subcontractor, or is threatened with such involvement, as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States."
 
 Sec. 3. <i>Administration</i>.
 
@@ -239,7 +239,7 @@ Sec. 10. <i>Sufficiency of Remedies</i>. If the Secretary finds that the authori
 
 Sec. 11. <i>Delegation</i>. The Secretary may, in accordance with law, delegate any function or duty of the Secretary under this order to any officer in the Department of Labor or to any other officer in the executive branch of the Government, with the consent of the head of the department or agency in which that officer serves.
 
-Sec. 12. <i>Implementation</i>. To the extent permitted by law, the Federal Acquisition Regulatory Council (FAR Council) shall take whatever action is required to implement in the Federal Acquisition Regulation (FAR) the provisions of this order and any related rules, regulations, or orders issued by the Secretary under this order and shall amend the FAR to require each solicitation of offers for a contract to include a provision that implements section 2 of this order.
+Sec. 12. <i>Implementation</i>. To the extent permitted by law, the Federal Acquisition Regulatory Council (FAR Council) shall take whatever action is required to implement in the Federal Acquisition Regulation (FAR) the provisions of this order and any related rules, regulations, or orders issued by the Secretary under thisorder and shall amend the FAR to require each solicitation of offers for a contract to include a provision that implements section 2 of this order.
 
 Sec. 13. <i>Revocation of Prior Order and Actions</i>. Executive Order 13201 of February 17, 2001, is revoked. The heads of executive departments and agencies shall, to the extent permitted by law, revoke expeditiously any orders, rules, regulations, guidelines, or policies implementing or enforcing Executive Order 13201.
 
@@ -305,7 +305,7 @@ Sec. 5. This order does not require an executive agency to use a project labor a
 
 Sec. 6. Within 120 days of the date of this order, the Federal Acquisition Regulatory Council (FAR Council), to the extent permitted by law, shall take whatever action is required to amend the Federal Acquisition Regulation to implement the provisions of this order.
 
-Sec. 7. The Director of OMB, in consultation with the Secretary of Labor and with other officials as appropriate, shall provide the President within 180 days of this order, recommendations about whether broader use of project labor agreements, with respect to both construction projects undertaken under Federal contracts and construction projects receiving Federal financial assistance, would help to promote the economical, efficient, and timely completion of such projects.
+Sec. 7. The Director of OMB, in consultation with the Secretary of Labor and with other officials as appropriate, shall provide the President within 180 days of this order, recommendations about whether broader use of project labor agreements, with respect to bothconstruction projects undertaken under Federal contracts and construction projects receiving Federal financial assistance, would help to promote the economical, efficient, and timely completion of such projects.
 
 Sec. 8. <i>Revocation of Prior Orders, Rules, and Regulations</i>. Executive Order 13202 of February 17, 2001, and Executive Order 13208 of April 6, 2001, are revoked. The heads of executive agencies shall, to the extent permitted by law, revoke expeditiously any orders, rules, or regulations implementing Executive Orders 13202 and 13208.
 

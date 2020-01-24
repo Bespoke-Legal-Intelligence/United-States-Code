@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) if the initial contract interest rate remained fixed for less than 5 years, be limited to a maximum increase or decrease of 1 percentage point; or
 
-&emsp;&emsp;(B) if the initial contract interest rate remained fixed for 5 years or more, be limited to a maximum increase or decrease of such percentage point or points as the Secretary may prescribe;
+&emsp;&emsp;(B) if the initial contract interest rate remained fixed for 5 years or more, be limited to a maximum increase or decrease of suchpercentage point or points as the Secretary may prescribe;
 
 &emsp;(4) in the case of any single annual interest rate adjustment after the initial contract interest rate adjustment, be limited to a maximum increase or decrease of such percentage points as the Secretary may prescribe; and
 

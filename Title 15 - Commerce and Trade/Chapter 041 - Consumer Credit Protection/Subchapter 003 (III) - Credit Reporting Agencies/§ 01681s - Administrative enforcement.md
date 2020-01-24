@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(i) any national bank or State savings association, and any Federal branch or Federal agency of a foreign bank;
 
-&emsp;&emsp;&emsp;(ii) any member bank of the Federal Reserve System (other than a national bank), a branch or agency of a foreign bank (other than a Federal branch, Federal agency, or insured State branch of a foreign bank), a commercial lending company owned or controlled by a foreign bank, andany organization operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\]; and
+&emsp;&emsp;&emsp;(ii) any member bank of the Federal Reserve System (other than a national bank), a branch or agency of a foreign bank (other than a Federal branch, Federal agency, or insured State branch of a foreign bank), a commercial lending company owned or controlled by a foreign bank, and any organization operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\]; and
 
 &emsp;&emsp;&emsp;(iii) any bank or Federal savings association insured by the Federal Deposit Insurance Corporation (other than a member of the Federal Reserve System) and any insured State branch of a foreign bank;
 
@@ -146,7 +146,7 @@ The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (
 
 Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(A)(ii), are classified to subchapters I (§601 et seq.) and II (§611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
 
-The Federal Credit Union Act, referred to in subsec. (b)(1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) ofTitle 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (b)(1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
 The Packers and Stockyards Act, 1921, referred to in subsec. (b)(1)(E), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 

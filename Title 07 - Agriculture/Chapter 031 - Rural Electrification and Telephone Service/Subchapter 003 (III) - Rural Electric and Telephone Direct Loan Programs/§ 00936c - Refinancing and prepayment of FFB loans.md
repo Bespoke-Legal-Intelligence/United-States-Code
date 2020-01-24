@@ -8,7 +8,7 @@ A borrower of a loan made by the Federal Financing Bank and guaranteed under sec
 
 #### (1) Determination of penalty
 
-&emsp;A penalty shall be assessed against a borrower that refinances or prepays a loan or loan advance, or any portion of a loan or advance, under this section. Except as provided in paragraph (2), the penalty shall be equal to the lesser of—
+&emsp;A penalty shall be assessed against a borrower that refinances or prepays a loan or loanadvance, or any portion of a loan or advance, under this section. Except as provided in paragraph (2), the penalty shall be equal to the lesser of—
 
 &emsp;&emsp;(A) the difference between the outstanding principal balance of the loan being refinanced and the present value of the loan discounted at a rate equal to the then current cost of funds to the Department of the Treasury for obligations of comparable maturity to the loan being refinanced or prepaid;
 

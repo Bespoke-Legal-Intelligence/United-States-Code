@@ -32,7 +32,7 @@ In this chapter:
 
 #### (7) Knowingly
 
-&emsp;The term "knowingly", with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+&emsp;The term "knowingly", with respect to conduct, a circumstance, or a result, means thata person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
 
 #### (8) Russian person
 

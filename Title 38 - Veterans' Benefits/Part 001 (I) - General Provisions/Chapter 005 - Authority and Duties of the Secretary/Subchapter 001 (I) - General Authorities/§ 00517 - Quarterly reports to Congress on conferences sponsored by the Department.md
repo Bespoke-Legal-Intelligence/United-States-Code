@@ -8,7 +8,7 @@ Quarterly Reports Required.—Not later than 30 days after the end of each fisca
 
 Matters Included.—Each report under subsection (a) shall include the following:
 
-&emsp;(1) An accounting of the final costs to the Department of each covered conference occurring during the fiscal quarter preceding the date on which the report is submitted, including the costs related to—
+&emsp;(1) An accounting of the final costs to the Department of each covered conference occurring during the fiscal quarter preceding thedate on which the report is submitted, including the costs related to—
 
 &emsp;&emsp;(A) transportation and parking;
 
@@ -32,7 +32,7 @@ Matters Included.—Each report under subsection (a) shall include the following
 
 (c)
 
-Covered Conference Defined.—In this section, the term "covered conference" means a conference, meeting, or other similar forum thatis sponsored or co-sponsored by the Department and is—
+Covered Conference Defined.—In this section, the term "covered conference" means a conference, meeting, or other similar forum that is sponsored or co-sponsored by the Department and is—
 
 &emsp;(1) attended by 50 or more individuals, including one or more employees of the Department; or
 

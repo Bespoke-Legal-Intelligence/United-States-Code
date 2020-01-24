@@ -30,7 +30,7 @@ In making grants under this section, the Secretary shall give priority to any ap
 
 &emsp;&emsp;(A) assurances that the applicant serves three or more separate Bureau-funded schools; and
 
-&emsp;&emsp;(B) assurances from the applicant that the tribal department of education to be funded under this section will provide coordinating services and technical assistance to all of such schools;
+&emsp;&emsp;(B) assurances from the applicant that the tribal department of education to be funded under this section will provide coordinatingservices and technical assistance to all of such schools;
 
 &emsp;(2) includes assurances that all education programs for which funds are provided by such a contract or grant will be monitored and audited, by or through the tribal department of education, to ensure that the programs meet the requirements of law; and
 

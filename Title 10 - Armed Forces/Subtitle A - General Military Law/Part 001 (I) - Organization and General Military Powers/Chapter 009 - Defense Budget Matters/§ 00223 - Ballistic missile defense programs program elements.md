@@ -112,7 +112,7 @@ Revised Budget Structure for Fiscal Year 2009.—The budget justification materi
 
 "(c)
 
-Availability of RDT\&E Funds for Fiscal Year 2009.—Upon approval by the Secretary of Defense, and consistent with the plan submitted under subsection (f), funds appropriated pursuant to an authorization of appropriations or otherwise made available for fiscal year 2009 for research, development, test, and evaluation for the Missile Defense Agency—
+Availability of RDT\&E Funds for Fiscal Year 2009.—Upon approval by the Secretary of Defense, and consistent with the plan submitted under subsection (f), funds appropriated pursuant to an authorization ofappropriations or otherwise made available for fiscal year 2009 for research, development, test, and evaluation for the Missile Defense Agency—
 
 &emsp;"(1) may be used for the fielding of ballistic missile defense capabilities approved previously by Congress; and
 
@@ -126,7 +126,7 @@ Availability of RDT\&E Funds for Fiscal Year 2009.—Upon approval by the Secret
 
 Full Funding Requirement Not Applicable to Use of Procurement Funds for Fiscal Years 2009
 
-and 2010.—In any case in which funds appropriated pursuant to an authorization of appropriations or otherwise made available for procurement for the Missile DefenseAgency for fiscal years 2009 and 2010 are used for the fielding of ballistic missile defense capabilities, the funds may be used for the fielding of those capabilities on an 'incremental' basis, notwithstanding any law or policy of the Department of Defense that would otherwise require a 'full funding' basis.
+and 2010.—In any case in which funds appropriated pursuant to an authorization of appropriations or otherwise made available for procurement for the Missile Defense Agency for fiscal years 2009 and 2010 are used for the fielding of ballistic missile defense capabilities, the funds may be used for the fielding of those capabilities on an 'incremental' basis, notwithstanding any law or policy of the Department of Defense that would otherwise require a 'full funding' basis.
 
 "(e)
 

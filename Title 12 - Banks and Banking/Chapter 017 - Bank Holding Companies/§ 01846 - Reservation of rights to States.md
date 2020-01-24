@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-No provision of this chapter shall be construed as preventing any State from exercising suchpowers and jurisdiction which it now has or may hereafter have with respect to companies, banks, bank holding companies, and subsidiaries thereof.
+No provision of this chapter shall be construed as preventing any State from exercising such powers and jurisdiction which it now has or may hereafter have with respect to companies, banks, bank holding companies, and subsidiaries thereof.
 
 #### (b) State taxation authority not affected
 

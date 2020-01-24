@@ -30,7 +30,7 @@ Expenses.—(1) Expenses incurred as a direct result of providing humanitarian d
 
 &emsp;(A) Travel, transportation, and subsistence expenses of Department of Defense personnel providing such assistance.
 
-&emsp;(B) The cost of any equipment, services, or supplies acquired for the purpose of carrying out or supporting humanitarian demining activities or stockpiled conventional munitions activities, including any nonlethal, individual, or small-team equipment or supplies for clearing landmines or other explosive remnants of war, or stockpiled conventional munitions, asapplicable, that are to be transferred or otherwise furnished to a foreign country in furtherance of the provision of assistance under this section.
+&emsp;(B) The cost of any equipment, services, or supplies acquired for the purpose of carrying out or supporting humanitarian demining activities or stockpiled conventional munitions activities, including any nonlethal, individual, or small-team equipment or supplies for clearing landmines or other explosive remnants of war, or stockpiled conventional munitions, as applicable, that are to be transferred or otherwise furnished to a foreign country in furtherance of the provision of assistance under this section.
 
 (3) The cost of equipment, services, and supplies provided in any fiscal year under this section may not exceed $15,000,000.
 
@@ -52,7 +52,7 @@ Annual Report.—The Secretary of Defense shall include in the annual report und
 
 Definitions.—In this section:
 
-&emsp;(1) The term "humanitarian demining assistance", as it relates to training and support, means detection and clearance of landmines, unexploded explosive ordnance, and other explosive remnants of war, and includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety, the detection and clearance of landmines, unexploded explosive ordnance, and other explosive remnants of war.
+&emsp;(1) The term "humanitarian demining assistance", as it relates to training and support, means detection and clearance of landmines, unexploded explosive ordnance, and other explosive remnants of war, and includes activities related to the furnishing of education,training, and technical assistance with respect to explosive safety, the detection and clearance of landmines, unexploded explosive ordnance, and other explosive remnants of war.
 
 &emsp;(2) The term "stockpiled conventional munitions assistance", as it relates to the support of humanitarian assistance efforts, means training and support in the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, small arms, and light weapons, including man-portable air-defense systems. Such term includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety and the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, small arms, and light weapons, including man-portable air-defense systems.
 
@@ -96,7 +96,7 @@ Subsec. (c)(1). Pub. L. 112–81, §1092(a)(3)(A), inserted "or stockpiled conve
 
 Subsec. (c)(2)(B). Pub. L. 112–81, §1092(a)(3)(B), inserted "or stockpiled conventional munitions activities" after "humanitarian demining activities" and inserted ", or stockpiled conventional munitions, as applicable," after "explosive remnants of war".
 
-Subsec. (d). Pub. L. 112–81, §1092(a)(4)(A), inserted "or stockpiled conventional munitions assistance" after"humanitarian demining assistance" wherever appearing.
+Subsec. (d). Pub. L. 112–81, §1092(a)(4)(A), inserted "or stockpiled conventional munitions assistance" after "humanitarian demining assistance" wherever appearing.
 
 Subsec. (d)(2). Pub. L. 112–81, §1092(a)(4)(B), inserted ", and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance" after "paragraph (1)".
 

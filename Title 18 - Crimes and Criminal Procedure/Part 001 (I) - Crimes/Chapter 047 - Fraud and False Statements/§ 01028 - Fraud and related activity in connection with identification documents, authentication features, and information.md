@@ -22,7 +22,7 @@
 
 (b) The punishment for an offense under subsection (a) of this section is—
 
-&emsp;(1) except as provided in paragraphs (3) and (4), a fine under this title or imprisonment fornot more than 15 years, or both, if the offense is—
+&emsp;(1) except as provided in paragraphs (3) and (4), a fine under this title or imprisonment for not more than 15 years, or both, if the offense is—
 
 &emsp;&emsp;(A) the production or transfer of an identification document, authentication feature, or false identification document that is or appears to be—
 
@@ -84,7 +84,7 @@
 
 &emsp;(5) the term "false authentication feature" means an authentication feature that—
 
-&emsp;&emsp;(A) is genuine in origin, but, without the authorization of the issuing authority, hasbeen tampered with or altered for purposes of deceit;
+&emsp;&emsp;(A) is genuine in origin, but, without the authorization of the issuing authority, has been tampered with or altered for purposes of deceit;
 
 &emsp;&emsp;(B) is genuine, but has been distributed, or is intended for distribution, without the authorization of the issuing authority and not in connection with a lawfully made identification document, document-making implement, or means of identification to which such authentication feature is intended to be affixed or embedded by the respective issuing authority; or
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;(A) means any governmental entity or agency that is authorized to issue identification documents, means of identification, or authentication features; and
 
-&emsp;&emsp;(B) includes the United States Government, a State, a political subdivision of a State, a sponsoring entity of an event designated by the President as a special event of national significance, a foreign government, a political subdivision of a foreign government, or an international government or quasi-governmental organization;
+&emsp;&emsp;(B) includes the United States Government, a State, a political subdivision of aState, a sponsoring entity of an event designated by the President as a special event of national significance, a foreign government, a political subdivision of a foreign government, or an international government or quasi-governmental organization;
 
 &emsp;(7) the term "means of identification" means any name or number that may be used, alone or in conjunction with any other information, to identify a specific individual, including any—
 

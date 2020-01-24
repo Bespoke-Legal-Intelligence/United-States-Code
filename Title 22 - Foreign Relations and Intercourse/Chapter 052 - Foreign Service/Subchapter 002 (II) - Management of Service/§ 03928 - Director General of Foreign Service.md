@@ -1,6 +1,6 @@
 ### §3928. Director General of Foreign Service
 
-The President shall appoint, by and with the advice and consent of the Senate, a DirectorGeneral of the Foreign Service, who shall be a current or former career member of the Foreign Service. The Director General should assist the Secretary of State in the management of the Service and perform such functions as the Secretary of State may prescribe.
+The President shall appoint, by and with the advice and consent of the Senate, a Director General of the Foreign Service, who shall be a current or former career member of the Foreign Service. The Director General should assist the Secretary of State in the management of the Service and perform such functions as the Secretary of State may prescribe.
 
 (Pub. L. 96–465, title I, §208, Oct. 17, 1980, 94 Stat. 2080; Pub. L. 103–236, title I, §163, Apr. 30, 1994, 108 Stat. 411.)
 

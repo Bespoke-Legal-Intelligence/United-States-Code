@@ -34,7 +34,7 @@ Deputy administrator.—
 
 &emsp;&emsp;(A)
 
-Appointment.—There is established in the Transportation Security Administration a Deputy Administrator, who shall assist the Administrator in the management of the Transportation Security Administration. The Deputy Administrator shall be appointed by the President.
+Appointment.—There is established in the Transportation Security Administrationa Deputy Administrator, who shall assist the Administrator in the management of the Transportation Security Administration. The Deputy Administrator shall be appointed by the President.
 
 &emsp;&emsp;(B)
 
@@ -82,7 +82,7 @@ Screening Operations.—The Administrator shall—
 
 &emsp;(3) train and test security screening personnel; and
 
-&emsp;(4) be responsible for hiring and training personnel to provide security screening at all airports in the United States where screening isrequired under section 44901, in consultation with the Secretary of Transportation and the heads of other appropriate Federal agencies and departments.
+&emsp;(4) be responsible for hiring and training personnel to provide security screening at all airports in the United States where screening is required under section 44901, in consultation with the Secretary of Transportation and the heads of other appropriate Federal agencies and departments.
 
 (f)
 
@@ -350,7 +350,7 @@ In general.—The Secretary of Homeland Security shall develop, prepare, impleme
 
 &emsp;&emsp;(A) a National Strategy for Transportation Security; and
 
-&emsp;&emsp;(B) transportation modal security plans addressing security risks, including threats,vulnerabilities, and consequences, for aviation, railroad, ferry, highway, maritime, pipeline, public transportation, over-the-road bus, and other transportation infrastructure assets.
+&emsp;&emsp;(B) transportation modal security plans addressing security risks, including threats, vulnerabilities, and consequences, for aviation, railroad, ferry, highway, maritime, pipeline, public transportation, over-the-road bus, and other transportation infrastructure assets.
 
 &emsp;(2)
 
@@ -722,7 +722,7 @@ The date of enactment of the TSA Modernization Act, referred to in subsecs. (b)(
 
 The Inspector General Act of 1978, referred to in subsec. (o), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Aviation and Transportation Security Act, referred to in subsec. (r)(1), is Pub. L. 107–71, Nov. 19, 2001, 115 Stat. 597. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 40101 of this title and Tables.
+The Aviation and Transportation Security Act, referred to in subsec. (r)(1), is Pub. L. 107–71, Nov. 19, 2001, 115 Stat. 597. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 101 of this title and Tables.
 
 The Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (s)(3)(B), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266. Section 1410 of the Act is classified to section 1139 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 101 of Title 6 and Tables.
 
@@ -778,7 +778,7 @@ Subsec. (s)(4)(A). Pub. L. 115–254, §1904(b)(1)(H)(ii)(IV)(bb), which directe
 
 Pub. L. 115–254, §1904(b)(1)(H)(ii)(IV)(aa), substituted "In general" for "Subsequent versions" in heading.
 
-Pub. L. 115–254, §1904(b)(1)(H)(ii)(II), (III), redesignated subpar. (B) as (A) and struck out former subpar. (A). Prior to amendment, text of subpar. (A) read as follows: "The Secretary of Homeland Security shall submit the National Strategy for Transportation Security,including the transportation modal security plans, developed under this subsection to the appropriate congressional committees not later than April 1, 2005."
+Pub. L. 115–254, §1904(b)(1)(H)(ii)(II), (III), redesignated subpar. (B) as (A) and struck out former subpar. (A). Prior to amendment, text of subpar. (A) read as follows: "The Secretary of Homeland Security shall submit the National Strategy for Transportation Security, including the transportation modal security plans, developed under this subsection to the appropriate congressional committees not later than April 1, 2005."
 
 Subsec. (s)(4)(B). Pub. L. 115–254, §1904(b)(1)(H)(ii)(III), redesignated subpar. (C) as (B). Former subpar. (B) redesignated (A).
 
@@ -978,7 +978,7 @@ In general.—The Administrator shall—
 
 &emsp;"(2)
 
-Recommendations.—The Administrator shall request ASAC's Security Technology Subcommittee,in consultation with representatives of the security manufacturers industry, to develop and submit to the Administrator recommendations for the third party testing and verification framework.
+Recommendations.—The Administrator shall request ASAC's Security Technology Subcommittee, in consultation with representatives of the security manufacturers industry, to develop and submit to the Administrator recommendations for the third party testing and verification framework.
 
 "(f)
 
@@ -998,7 +998,7 @@ Citizenship requirement.—An appropriate third party under subsection (a) shall
 
 &emsp;"(2)
 
-Waiver.—The Administrator may waive the requirement under paragraph (1)(B) if the entity is a United States subsidiary of a parent company that has implemented a foreign ownership, control, or influence mitigation plan that has been approved by the Defense Security Service of the Department of Defense before applying to provide third party testing. The Administrator may reject any application to provide third party testing under subsection (a) submitted by an entity that requires a waiver under this paragraph.
+Waiver.—The Administrator may waive the requirement under paragraph (1)(B) if the entity is a United States subsidiary of a parent company that has implemented a foreign ownership, control, or influence mitigation plan that has been approved by the Defense Security Service \[now Defense Counterintelligence and Security Agency\] of the Department of Defense before applying to provide third party testing. The Administrator may reject any application to provide third party testing under subsection (a) submitted by an entity that requires a waiver under this paragraph.
 
 &emsp;"(3)
 
@@ -1110,9 +1110,9 @@ Retesting and Evaluation.—Advanced transportation security screening technolog
 
 "(f)
 
-Rule of Construction.—Nothing in this section may be construed to affect the authority or responsibility of an officer of the Department, or an officer of any other Federal department or agency, with respect to research, development, testing, and evaluation of technologies, including such authorities or responsibilities of the Undersecretary for Science and Technology of the Department and Assistant Secretary of the Countering Weapons of Mass Destruction Office of the Department."
+Rule of Construction.—Nothing in this section may be construed to affect the authority or responsibility of an officer of the Department, or an officer of any other Federal department or agency, with respect to research, development, testing, and evaluation of technologies, including such authorities or responsibilities of the Undersecretary \[probably should be "Under Secretary"\] for Science and Technology of the Department and Assistant Secretary of the Countering Weapons of Mass Destruction Office of the Department."
 
-\[For definitions of terms used in section 1912 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I ofDiv. K of Pub. L. 115–254 note under section 101 of this title.\]
+\[For definitions of terms used in section 1912 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I of Div. K of Pub. L. 115–254 note under section 101 of this title.\]
 
 #### Public Area Security Working Group
 
@@ -1182,7 +1182,7 @@ Publication.—The Administrator may publish a public version of such report tha
 
 &emsp;"(3)
 
-Nonapplicability of faca.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under subsection (a) or any subcommittee thereof.
+Nonapplicability of faca.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under subsection (a) \[probably should be "paragraph (1)"\] or any subcommittee thereof.
 
 "(c)
 
@@ -1446,7 +1446,7 @@ Contents.—The information published under paragraph (1) shall include—
 
 "(b)
 
-Inspector General Review.—Not later than 180 days after the date of enactment of this Act, and every 2 years thereafter until all of the requirements under titles XIII \[6 U.S.C. 1111 et seq.\], XIV \[6 U.S.C. 1131 et seq.\], and XV \[6 U.S.C. 1151 et seq.\] of the Implementing Recommendations of the 9/11 Commission Act of 2007 (6 U.S.C. 1111 et seq.) and under this title \[see Tables for classification\] have been fully implemented, the Inspector General of the Department shall submit to the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a report that—
+Inspector General Review.—Not later than 180 days after the date of enactment of this Act, and every 2 years thereafter until all of the requirements undertitles XIII \[6 U.S.C. 1111 et seq.\], XIV \[6 U.S.C. 1131 et seq.\], and XV \[6 U.S.C. 1151 et seq.\] of the Implementing Recommendations of the 9/11 Commission Act of 2007 (6 U.S.C. 1111 et seq.) and under this title \[see Tables for classification\] have been fully implemented, the Inspector General of the Department shall submit to the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a report that—
 
 &emsp;"(1) identifies the requirements under such titles of that Act and under this title that have not been fully implemented;
 
@@ -1602,7 +1602,7 @@ Submission to congress.—Not later than 30 days after the date the evaluation u
 
 &emsp;"(4)
 
-Definitions.—In this subsection, the terms 'cybersecurity risk' and 'incident' have the meaningsgiven the terms in section 227 \[now section 2209\] of the Homeland Security Act of 2002 (6 U.S.C. 148) \[now 6 U.S.C. 659\]."
+Definitions.—In this subsection, the terms 'cybersecurity risk' and 'incident' have the meanings given the terms in section 227 \[now section 2209\] of the Homeland Security Act of 2002 (6 U.S.C. 148) \[now 6 U.S.C. 659\]."
 
 \[For definitions of terms used in section 1989 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I of Div. K of Pub. L. 115–254 note under section 101 of this title.\]
 
@@ -1642,7 +1642,7 @@ In general.—Except as provided in paragraph (2), the Secretary \[of Homeland S
 
 "(2)
 
-No report required if no changes in stakeholders.—The Secretary is not required to provide a semiannual report under paragraph (1) if no stakeholders have been added to or removed from the group of persons with whom transportation security information is shared under the plan since the end of the period covered by the last preceding semiannual report."
+No report required if no changes in stakeholders.—The Secretary is not required to provide a semiannual report under paragraph (1) if no stakeholders have been added to or removed from the group of persons with whom transportation security information is shared under the plan \[probably should be "Plan"\] since the end of the period covered by the last preceding semiannual report."
 
 #### Specialized Training
 

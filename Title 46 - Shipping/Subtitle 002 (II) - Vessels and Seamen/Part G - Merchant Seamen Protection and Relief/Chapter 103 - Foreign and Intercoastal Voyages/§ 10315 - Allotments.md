@@ -14,7 +14,7 @@
 
 (d) The owner, charterer, managing operator, agent, or master of a vessel seeking clearance from a port of the United States shall present the agreement at the office of clearance. Clearance may be granted to a vessel only if this section has been complied with.
 
-(e) This section applies to a foreign vessel when in waters of the United States. An owner, charterer, managing operator, agent, or master of a foreign vessel violating this section is liable to the Government for the same penalty as an owner, charterer, managing operator, agent, or master of a vessel of the United States for the same violation.
+(e) This section applies to a foreign vessel when in waters of the United States. An owner, charterer, managing operator, agent, or master of a foreign vessel violating this section is liable to the Government for the same penalty as anowner, charterer, managing operator, agent, or master of a vessel of the United States for the same violation.
 
 (f)
 

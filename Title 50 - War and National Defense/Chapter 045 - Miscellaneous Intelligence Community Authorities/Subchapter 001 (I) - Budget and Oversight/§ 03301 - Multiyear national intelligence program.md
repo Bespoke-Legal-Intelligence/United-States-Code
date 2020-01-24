@@ -20,7 +20,7 @@ The congressional committees referred to in subsection (a) are the following:
 
 &emsp;(2) The Committee on Armed Services, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(Pub. L. 101–510, div. A, title XIV, §1403, Nov. 5, 1990, 104 Stat. 1675; Pub. L. 104–106, div. A, titleXV, §1502(c)(4)(B), Feb. 10, 1996, 110 Stat. 507; Pub. L. 106–65, div. A, title X, §1067(10), Oct. 5, 1999, 113 Stat. 774; Pub. L. 111–259, title VIII, §805(a)–(d)(1), Oct. 7, 2010, 124 Stat. 2748.)
+(Pub. L. 101–510, div. A, title XIV, §1403, Nov. 5, 1990, 104 Stat. 1675; Pub. L. 104–106, div. A, title XV, §1502(c)(4)(B), Feb. 10, 1996, 110 Stat. 507; Pub. L. 106–65, div. A, title X, §1067(10), Oct. 5, 1999, 113 Stat. 774; Pub. L. 111–259, title VIII, §805(a)–(d)(1), Oct. 7, 2010, 124 Stat. 2748.)
 
 #### Codification
 
@@ -45,4 +45,8 @@ Subsec. (d). Pub. L. 104–106, §1502(c)(4)(B)(ii), added subsec. (d).
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–306, title IX, §901(a), Nov. 27, 2002, 116 Stat. 2432, provided that: "This title \[see Tables for classification\] may be cited as the 'Counterintelligence Enhancement Act of 2002'."
+
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–567, title VII, §701, Dec. 27, 2000, 114 Stat. 2856, provided that: "This title \[enacting subchapter III–A of this chapter\] may be cited as the 'Public Interest Declassification Act of 2000'."
 

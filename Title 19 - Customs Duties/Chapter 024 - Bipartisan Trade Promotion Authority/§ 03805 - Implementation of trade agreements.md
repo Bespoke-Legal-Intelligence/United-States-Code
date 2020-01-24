@@ -66,7 +66,7 @@
 
 #### (B) Procedural disapproval resolution
 
-&emsp;&emsp;(i) For purposes of this paragraph, the term "procedural disapproval resolution" means a resolution of either House of Congress, the sole matter after the resolving clause of which is as follows: "That the President has failed or refused to notify or consult in accordance with the Bipartisan Trade Promotion Authority Act of 2002 on negotiations with respect to \_\_\_\_\_\_\_\_\_\_\_\_ and, therefore, the trade authorities procedures under that Act shall not apply to any implementing bill submitted with respect to such trade agreement or agreements.", with the blank space being filled with a description of the trade agreement or agreements with respect to which the President is considered to have failed or refused to notify or consult.
+&emsp;&emsp;(i) For purposes of this paragraph, the term "procedural disapproval resolution" means a resolution of either House of Congress, the sole matter after the resolving clause of which is as follows: "That the President has failed or refused to notify or consult in accordance with the Bipartisan Trade Promotion Authority Act of 2002 onnegotiations with respect to \_\_\_\_\_\_\_\_\_\_\_\_ and, therefore, the trade authorities procedures under that Act shall not apply to any implementing bill submitted with respect to such trade agreement or agreements.", with the blank space being filled with a description of the trade agreement or agreements with respect to which the President is considered to have failed or refused to notify or consult.
 
 &emsp;&emsp;(ii) For purposes of clause (i), the President has "failed or refused to notify or consult in accordance with the Bipartisan Trade Promotion Authority Act of 2002" on negotiations with respect to a trade agreement or trade agreements if—
 
@@ -3206,7 +3206,7 @@ Effective Date.—This section and the amendments made by this section shall app
 
 #### United States–Korea Free Trade Agreement Implementation Act
 
-Pub. L. 112–41, Oct. 21, 2011, 125 Stat. 428, as amended by Pub. L. 114–27, title VIII, §§801(b), 802(b), June 29, 2015, 129 Stat. 414, 415; Pub. L. 114–125, title IX, §920(b), Feb. 24, 2016, 130 Stat. 281; Pub. L. 115–31, div. M, title I, §105(b), May 5, 2017, 131 Stat. 804; Pub. L. 115–123, div. C, title II, §30201(b), Feb. 9, 2018, 132 Stat. 126; Pub. L. 115–141, div. U, title I, §107(a), Mar. 23, 2018, 132 Stat. 1171; Pub. L. 115–334, title XII, §12606, Dec. 20, 2018, 132 Stat. 5006, provided that:
+Pub. L. 112–41, Oct. 21, 2011, 125 Stat. 428, as amended by Pub. L. 114–27, title VIII, §§801(b), 802(b), June 29, 2015, 129 Stat. 414, 415; Pub. L. 114–125, title IX, §920(b), Feb. 24, 2016, 130 Stat. 281; Pub. L. 115–31, div. M, title I, §105(b), May 5, 2017, 131 Stat. 804; Pub. L. 115–123, div. C, title II, §30201(b), Feb. 9, 2018, 132 Stat. 126; Pub. L. 115–141, div. U, title I, §107(a), Mar. 23, 2018, 132 Stat. 1171; Pub. L. 115–334, title XII, §12606, Dec. 20, 2018, 132 Stat. 5006; Pub. L. 116–37, title IV, §401(b), Aug. 2, 2019, 133 Stat. 1058, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -4697,7 +4697,7 @@ Clerical Amendment.—\[Amended analysis of subchapter B of chapter 61 of Title 
 
 #### "SEC. 503. RATE FOR MERCHANDISE PROCESSING FEES.
 
-"For the period beginning on December 1, 2015, and ending on May 26, 2027, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a)(9)) shall be applied and administered—
+"For the period beginning on December 1, 2015, and ending on September 30, 2029, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a)(9)) shall be applied and administered—
 
 &emsp;"(1) in subparagraph (A), by substituting '0.3464' for '0.21'; and
 

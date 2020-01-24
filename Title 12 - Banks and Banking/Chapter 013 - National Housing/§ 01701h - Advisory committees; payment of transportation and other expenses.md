@@ -20,7 +20,7 @@ Section was enacted as part of the Housing Act of 1949, and not as part of the N
 
 <b>1965</b>—Pub. L. 89–117 struck out provision that declared inapplicable the conflict-of-interest statutes in the case of members of advisory committees.
 
-<b>1954</b>—Act Aug. 2, 1954, permitted heads of constituent agencies of the Housing and Home Finance Agency toestablish advisory committees, inserted provisions relating to inapplicability of the conflict-of-interest statutes with respect to committee members serving without compensation, and inserted provisions relating to payment of expenses.
+<b>1954</b>—Act Aug. 2, 1954, permitted heads of constituent agencies of the Housing and Home Finance Agency to establish advisory committees, inserted provisions relating to inapplicability of the conflict-of-interest statutes with respect to committee members serving without compensation, and inserted provisions relating to payment of expenses.
 
 #### Termination of Advisory Committees
 

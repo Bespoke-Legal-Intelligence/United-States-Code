@@ -32,7 +32,7 @@ Another prior section 425 of Pub. L. 90–247 was renumbered section 423, and is
 
 <b>1994</b>—Pub. L. 103–437, which directed that section 417(a) of Pub. L. 90–247 be amended by substituting "Labor and Human Resources" for "Human Resources", could not be executed because this section, which was section 417 of Pub. L. 90–247, was renumbered section 425 and amended generally by Pub. L. 103–382.
 
-Pub. L. 103–382, §235, amended section generally, substituting single undesignated par. relating to biennialevaluation reports for former subsecs. (a) and (b) relating to annual evaluation reports and including requirement for information on contracts and grants for evaluations of programs.
+Pub. L. 103–382, §235, amended section generally, substituting single undesignated par. relating to biennial evaluation reports for former subsecs. (a) and (b) relating to annual evaluation reports and including requirement for information on contracts and grants for evaluations of programs.
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–511 substituted "December 31" for "November 1".
 
@@ -46,15 +46,13 @@ Pub. L. 103–382, §235, amended section generally, substituting single undesig
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -38,7 +38,7 @@ Requirements in addition to other rights of the government.—The requirements o
 
 (d)
 
-Factors To Be Considered in Prescribing Regulations.—The following factors shall beconsidered in prescribing regulations under subsection (a):
+Factors To Be Considered in Prescribing Regulations.—The following factors shall be considered in prescribing regulations under subsection (a):
 
 &emsp;(1) Whether the item or process to which the technical data pertains was developed—
 

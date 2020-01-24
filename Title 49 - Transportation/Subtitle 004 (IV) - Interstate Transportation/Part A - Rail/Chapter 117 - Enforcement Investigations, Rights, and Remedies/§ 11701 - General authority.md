@@ -56,7 +56,7 @@ Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 
 #### Rulemakings for Investigations of the Board's Initiative
 
-Pub. L. 114–110, §12(c), Dec. 18, 2015, 129 Stat. 2235, provided that: "Not later than 1 year after the date of theenactment of this Act \[Dec. 18, 2015\], the Board shall issue rules, after notice and comment rulemaking, for investigations commenced on its own initiative that—
+Pub. L. 114–110, §12(c), Dec. 18, 2015, 129 Stat. 2235, provided that: "Not later than 1 year after the date of the enactment of this Act \[Dec. 18, 2015\], the Board shall issue rules, after notice and comment rulemaking, for investigations commenced on its own initiative that—
 
 &emsp;"(1) comply with the requirements of section 11701(d) of title 49, United States Code, as added by subsection (b);
 

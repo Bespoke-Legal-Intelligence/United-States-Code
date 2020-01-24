@@ -56,7 +56,7 @@ The Director of the Office shall—
 
 (4) The Advisory Committee shall—
 
-&emsp;(A) advise the Director of the Office on appropriate research activities to be undertakenby the national research institutes with respect to—
+&emsp;(A) advise the Director of the Office on appropriate research activities to be undertaken by the national research institutes with respect to—
 
 &emsp;&emsp;(i) research on women's health;
 

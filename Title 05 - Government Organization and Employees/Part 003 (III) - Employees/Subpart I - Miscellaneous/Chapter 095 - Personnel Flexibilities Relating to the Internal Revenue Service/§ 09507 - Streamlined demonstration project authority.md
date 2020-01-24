@@ -24,7 +24,7 @@
 
 &emsp;(7) notwithstanding section 4703(d)(1)(B), based on an evaluation as provided in section 4703(h), the Office of Personnel Management and the Secretary of the Treasury, except as otherwise provided by this subsection, may waive the termination date of a demonstration project under section 4703(d).
 
-(c) At least 90 days before waiving the termination date under subsection (b)(7), the Office ofPersonnel Management shall publish in the Federal Register a notice of its intention to waive the termination date and shall inform in writing both Houses of Congress of its intention.
+(c) At least 90 days before waiving the termination date under subsection (b)(7), the Office of Personnel Management shall publish in the Federal Register a notice of its intention to waive the termination date and shall inform in writing both Houses of Congress of its intention.
 
 (Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 715.)
 

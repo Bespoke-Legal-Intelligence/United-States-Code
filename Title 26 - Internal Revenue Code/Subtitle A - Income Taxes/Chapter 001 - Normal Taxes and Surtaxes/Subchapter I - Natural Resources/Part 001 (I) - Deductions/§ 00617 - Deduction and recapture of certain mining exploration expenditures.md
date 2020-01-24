@@ -38,7 +38,7 @@
 
 #### (B) Time and scope
 
-&emsp;&emsp;The election provided by paragraph (1) for any taxable year may be made or changed not later than the time prescribed by law for filing the return (including extensions thereof) for such taxable year.
+&emsp;&emsp;The election provided by paragraph (1) for any taxable year may be made or changednot later than the time prescribed by law for filing the return (including extensions thereof) for such taxable year.
 
 #### (c) Recapture in case of bonus or royalty
 
@@ -118,7 +118,7 @@ For purposes of this section
 
 #### (1) Property distributed to partner
 
-&emsp;In the case of any property or mine received by the taxpayer in a distribution with respect to part or all of his interest in a partnership, the adjusted exploration expenditures with respect to such property or mine include the adjusted exploration expenditures (not otherwise included under subsection (f)(1)) with respect to such property or mine immediately prior to such distribution, but the adjusted exploration expenditures with respect to any such property or mine shall be reduced by the amount of gain to which section 751(b) applied realized by the partnership (as constituted after the distribution) on the distribution of such property or mine.
+&emsp;In the case of any property or mine received by the taxpayer in a distribution with respectto part or all of his interest in a partnership, the adjusted exploration expenditures with respect to such property or mine include the adjusted exploration expenditures (not otherwise included under subsection (f)(1)) with respect to such property or mine immediately prior to such distribution, but the adjusted exploration expenditures with respect to any such property or mine shall be reduced by the amount of gain to which section 751(b) applied realized by the partnership (as constituted after the distribution) on the distribution of such property or mine.
 
 #### (2) Property retained by partnership
 
@@ -140,7 +140,7 @@ In the case of any expenditures paid or incurred before the development stage fo
 
 &emsp;&emsp;<b>For election of 10-year amortization of expenditures allowable as a deduction under this section, see section 59(e).</b>
 
-(Added Pub. L. 89–570, §1(a), Sept. 12, 1966, 80 Stat. 759; amended Pub. L. 91–172, title V,§504(b), Dec. 30, 1969, 83 Stat. 632; Pub. L. 94–455, title XIX, §§1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1793, 1797, 1834; Pub. L. 97–248, title II, §201(d)(9)(D), formerly §201(c)(9)(D), §224(c)(8), Sept. 3, 1982, 96 Stat. 420, 489, renumbered §201(d)(9)(D), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, §§411(b)(2)(B), 413(b), Oct. 22, 1986, 100 Stat. 2226, 2228; Pub. L. 100–647, title I, §1007(g)(7), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §11801(a)(27), (c)(13), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
+(Added Pub. L. 89–570, §1(a), Sept. 12, 1966, 80 Stat. 759; amended Pub. L. 91–172, title V, §504(b), Dec. 30, 1969, 83 Stat. 632; Pub. L. 94–455, title XIX, §§1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1793, 1797, 1834; Pub. L. 97–248, title II, §201(d)(9)(D), formerly §201(c)(9)(D), §224(c)(8), Sept. 3, 1982, 96 Stat. 420, 489, renumbered §201(d)(9)(D), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, §§411(b)(2)(B), 413(b), Oct. 22, 1986, 100 Stat. 2226, 2228; Pub. L. 100–647, title I, §1007(g)(7), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §11801(a)(27), (c)(13), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
 
 #### Amendments
 

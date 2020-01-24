@@ -32,7 +32,7 @@
 
 (3) The rate of assessment may not exceed 0.50 percent of such market value unless—
 
-&emsp;(A) after the initial referendum required under section 4811(a) of this title, the DelegateBody recommends an increase in such rate above 0.50 percent; and
+&emsp;(A) after the initial referendum required under section 4811(a) of this title, the Delegate Body recommends an increase in such rate above 0.50 percent; and
 
 &emsp;(B) such increase is approved in a referendum conducted under section 4811(b) of this title.
 

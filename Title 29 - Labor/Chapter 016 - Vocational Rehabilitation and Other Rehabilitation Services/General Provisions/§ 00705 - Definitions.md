@@ -162,7 +162,7 @@ For the purposes of this chapter:
 
 #### (7) Customized employment
 
-&emsp;The term "customized employment" means competitive integrated employment, for an individual with a significant disability, that is based on an individualized determination of the strengths, needs, and interests of the individual with a significant disability, is designed to meet the specific abilities of the individualwith a significant disability and the business needs of the employer, and is carried out through flexible strategies, such as—
+&emsp;The term "customized employment" means competitive integrated employment, for an individual with a significant disability, that is based on an individualized determination of the strengths, needs, and interests of the individual with a significant disability, is designed to meet the specific abilities of the individual with a significant disability and the business needs of the employer, and is carried out through flexible strategies, such as—
 
 &emsp;&emsp;(A) job exploration by the individual;
 
@@ -242,7 +242,7 @@ For the purposes of this chapter:
 
 #### (B) Exception
 
-&emsp;&emsp;The term "Federal share" means the share specifically set forth in section 731(a)(3) of this title, except that with respect to payments pursuant to part B of subchapter I to any State that are used to meet the costs of construction of those rehabilitation facilities identified in section 723(b)(2) of this title in such State, the Federal share shall be the percentages determined in accordance with the provisions of section 731(a)(3) of this title applicable with respect to the State.
+&emsp;&emsp;The term "Federal share" means the share specifically set forth in section 731(a)(3) ofthis title, except that with respect to payments pursuant to part B of subchapter I to any State that are used to meet the costs of construction of those rehabilitation facilities identified in section 723(b)(2) of this title in such State, the Federal share shall be the percentages determined in accordance with the provisions of section 731(a)(3) of this title applicable with respect to the State.
 
 #### (C) Relationship to expenditures by a political subdivision
 
@@ -402,7 +402,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;For the purposes of sections 791, 793, and 794 of this title—
 
-&emsp;&emsp;&emsp;(i) for purposes of the application of subparagraph (B) to such sections, the term"impairment" does not include homosexuality or bisexuality; and
+&emsp;&emsp;&emsp;(i) for purposes of the application of subparagraph (B) to such sections, the term "impairment" does not include homosexuality or bisexuality; and
 
 &emsp;&emsp;&emsp;(ii) therefore the term "individual with a disability" does not include an individual on the basis of homosexuality or bisexuality.
 
@@ -730,7 +730,7 @@ Par. (36)(C). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(D)\], substi
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–325, §8, Sept. 25, 2008, 122 Stat. 3559, provided that: "This Act \[enacting sections 12103 and 12205a of Title 42, The Public Health and Welfare, amending this section, former section 706 of this title, and sections 12101, 12102, 12111 to 12114, 12201, and 12206 to 12213 of Title 42, and enacting provisions set out as notes under section 12101 of Title 42\] and the amendments made by this Act shall become effective on January 1, 2009."
+Pub. L. 110–325, §8, Sept. 25, 2008, 122 Stat. 3559, provided that: "This Act \[enacting sections 12103 and 12205a of Title 42, The Public Health and Welfare,amending this section, former section 706 of this title, and sections 12101, 12102, 12111 to 12114, 12201, and 12206 to 12213 of Title 42, and enacting provisions set out as notes under section 12101 of Title 42\] and the amendments made by this Act shall become effective on January 1, 2009."
 
 #### Effective Date of 1998 Amendment
 

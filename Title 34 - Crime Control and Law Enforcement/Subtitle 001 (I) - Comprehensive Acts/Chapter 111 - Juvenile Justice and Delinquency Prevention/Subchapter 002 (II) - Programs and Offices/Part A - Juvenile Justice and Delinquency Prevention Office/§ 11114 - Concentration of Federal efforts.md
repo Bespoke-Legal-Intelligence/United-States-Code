@@ -48,7 +48,7 @@ The Administrator is authorized to utilize the services and facilities of any ag
 
 All functions of the Administrator under this subchapter shall be coordinated as appropriate with the functions of the Secretary of Health and Human Services under subchapter III of this chapter.
 
-(Pub. L. 93–415, title II, §204, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 94–273, §§8(3), 12(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–115, §3(a)(3)(A), (b), Oct. 3, 1977, 91 Stat. 1048, 1049; Pub. L. 96–509, §§7, 19(d), Dec. 8, 1980, 94 Stat. 2752, 2763; Pub. L. 98–473, title II, §622, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 100–690, title VII, §7253, Nov. 18, 1988, 102 Stat. 4436; Pub. L. 102–586, §2(c), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 107–273, div. C, title II, §12205, Nov. 2, 2002, 116 Stat. 1872; Pub. L. 115–385, title II, §201, Dec. 21, 2018, 132 Stat. 5127.)
+(Pub. L. 93–415, title II, §204, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 94–273, §§8(3), 12(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–115, §3(a)(3)(A), (b), Oct. 3, 1977, 91 Stat. 1048, 1049; Pub. L. 96–509, §§7, 19(d), Dec. 8, 1980, 94 Stat. 2752, 2763; Pub. L. 98–473, title II, §622, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 100–690, title VII, §7253, Nov. 18, 1988, 102 Stat. 4436; Pub. L. 102–586, §2(c), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 107–273, div. C, title II, §12205,Nov. 2, 2002, 116 Stat. 1872; Pub. L. 115–385, title II, §201, Dec. 21, 2018, 132 Stat. 5127.)
 
 #### References in Text
 
@@ -60,7 +60,7 @@ Section was formerly classified to section 5614 of Title 42, The Public Health a
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(1). Pub. L. 115–385, §201(1)(A), substituted "a long-term plan to improve the juvenile justice system in the United States, taking into account scientific knowledge regarding adolescent developmentand behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents, and shall implement" for "a long-term plan, and implement" and "and research" for "research, and improvement of the juvenile justice system in the United States".
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–385, §201(1)(A), substituted "a long-term plan to improve the juvenile justice system in the United States, taking into account scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents, and shall implement" for "a long-term plan, and implement" and "and research" for "research, and improvement of the juvenile justice system in the United States".
 
 Subsec. (a)(2)(B). Pub. L. 115–385, §201(1)(B), substituted "Federal Register during the 30-day period ending on October 1 of each year." for "Federal Register—
 
@@ -112,7 +112,7 @@ Subsec. (c). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (f) as (
 
 Subsec. (d). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (g) as (d) and struck out former subsec. (d) which read as follows:
 
-"(1) The first annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to information required by subsection (b)(5) of this section, a detailed statement of criteria developed by theAdministrator for identifying the characteristics of juvenile delinquency, juvenile delinquency prevention, diversion of youths from the juvenile justice system, and the training, treatment, and rehabilitation of juvenile delinquents.
+"(1) The first annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to information required by subsection (b)(5) of this section, a detailed statement of criteria developed by the Administrator for identifying the characteristics of juvenile delinquency, juvenile delinquency prevention, diversion of youths from the juvenile justice system, and the training, treatment, and rehabilitation of juvenile delinquents.
 
 "(2) The second such annual report shall contain, in addition to information required by subsection (b)(5) of this section, an identification of Federal programs which are related to juvenile delinquency prevention or treatment, together with a statement of the moneys expended for each such program during the most recent complete fiscal year. Such identification shall be made by the Administrator through the use of criteria developed under paragraph (1)."
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 11101 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002,and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 11101 of this title.
 
 #### Effective Date of 1988 Amendment
 

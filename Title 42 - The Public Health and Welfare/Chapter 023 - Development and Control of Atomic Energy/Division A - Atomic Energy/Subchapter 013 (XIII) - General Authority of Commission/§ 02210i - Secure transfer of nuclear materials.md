@@ -1,6 +1,6 @@
 ### §2210i. Secure transfer of nuclear materials
 
-(a) The Commission shall establish a system to ensure that materials described in subsection (b), when transferred or received in the United States by any party pursuant to an import or export license issued pursuant to this chapter, are accompanied by a manifest describing the type and amount of materials being transferred or received. Each individual receiving or accompanying the transfer of such materials shall be subject to a security background check conducted by appropriate Federal entities.
+(a) The Commission shall establish a system to ensure that materials described in subsection (b), when transferred or received in the United States by any party pursuant to an import orexport license issued pursuant to this chapter, are accompanied by a manifest describing the type and amount of materials being transferred or received. Each individual receiving or accompanying the transfer of such materials shall be subject to a security background check conducted by appropriate Federal entities.
 
 (b) Except as otherwise provided by the Commission by regulation, the materials referred to in subsection (a) are byproduct materials, source materials, special nuclear materials, high-level radioactive waste, spent nuclear fuel, transuranic waste, and low-level radioactive waste (as defined in section 10101(16) of this title).
 
@@ -20,5 +20,5 @@ Pub. L. 109–58, title VI, §656(b), Aug. 8, 2005, 119 Stat. 814, provided that
 
 #### Effect on Other Law
 
-Pub. L. 109–58, title VI, §656(d), Aug. 8, 2005, 119 Stat. 814, provided that: "Nothing in this section \[enactingthis section and provisions set out as notes under this section\] or the amendment made by this section shall waive, modify, or affect the application of chapter 51 of title 49, United States Code, part A of subtitle V of title 49, United States Code, part B of subtitle VI of title 49, United States Code, and title 23, United States Code."
+Pub. L. 109–58, title VI, §656(d), Aug. 8, 2005, 119 Stat. 814, provided that: "Nothing in this section \[enacting this section and provisions set out as notes under this section\] or the amendment made by this section shall waive, modify, or affect the application of chapter 51 of title 49, United States Code, part A of subtitle V of title 49, United States Code, part B of subtitle VI of title 49, United States Code, and title 23, United States Code."
 

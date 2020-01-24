@@ -4,7 +4,7 @@ In support of the Tropical Forestry Action Plan and to specifically address trop
 
 &emsp;(1) support and actively participate in global and regional meetings that seek to reform such Plan;
 
-&emsp;(2) together with the United States Agency for International Development,<sup>1</sup> and otherFederal agencies, provide technical assistance to tropical countries for the formulation of national forestry sector development strategies; and
+&emsp;(2) together with the United States Agency for International Development,<sup>1</sup> and other Federal agencies, provide technical assistance to tropical countries for the formulation of national forestry sector development strategies; and
 
 &emsp;(3) cooperate with tropical countries on research, training, and technical programs aimed at implementing national forestry sector development strategies.
 

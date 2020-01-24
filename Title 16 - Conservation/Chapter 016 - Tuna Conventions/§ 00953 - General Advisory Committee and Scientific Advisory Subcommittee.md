@@ -4,7 +4,7 @@
 
 #### (1) Appointments; public participation; compensation
 
-&emsp;(A) The Secretary, in consultation with the Secretary of State, shall appoint a GeneralAdvisory Committee which shall consist of not more than 25 individuals who shall be representative of the various groups concerned with the fisheries covered by the Convention, including nongovernmental conservation organizations, providing to the maximum extent practicable an equitable balance among such groups. Members of the General Advisory Committee will be eligible to participate as members of the United States delegation to the Commission and its working groups to the extent the Commission rules and space for delegations allow.
+&emsp;(A) The Secretary, in consultation with the Secretary of State, shall appoint a General Advisory Committee which shall consist of not more than 25 individuals who shall be representative of the various groups concerned with the fisheries covered by the Convention, including nongovernmental conservation organizations, providing to the maximum extent practicable an equitable balance among such groups. Members of the General Advisory Committee will be eligible to participate as members of the United States delegation to the Commission and its working groups to the extent the Commission rules and space for delegations allow.
 
 &emsp;(B) The chair of the Pacific Fishery Management Council's Advisory Subpanel for Highly Migratory Fisheries and the chair of the Western Pacific Fishery Management Council's Advisory Committee shall be ex-officio members of the General Advisory Committee by virtue of their positions in those Councils.
 
@@ -80,7 +80,7 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(1)(E), is Pub. L.
 
 Subsec. (b). Pub. L. 114–81, §205(2), substituted "Scientific Advisory Subcommittee" for "Functions" in heading.
 
-Subsec. (b)(1). Pub. L. 114–81, §205(2), added par. (1) and struck out former par. (1) which read as follows: "The General Advisory Committee shall be invited to have representatives attend all nonexecutive meetings of the United States sections and shall be given full opportunity to examine and to be heard on all proposed programs of investigations, reports, recommendations, and regulations of the Commission. The General Advisory Committee may attend all meetings of the international commissions to which they are invited by such commissions."
+Subsec. (b)(1). Pub. L. 114–81, §205(2), added par. (1) and struck out former par. (1) which read as follows: "The General Advisory Committee shall be invited tohave representatives attend all nonexecutive meetings of the United States sections and shall be given full opportunity to examine and to be heard on all proposed programs of investigations, reports, recommendations, and regulations of the Commission. The General Advisory Committee may attend all meetings of the international commissions to which they are invited by such commissions."
 
 Subsec. (b)(3). Pub. L. 114–81, §205(3), substituted "General Advisory Committee" for "General Advisory Subcommittee".
 

@@ -10,7 +10,7 @@ Except as otherwise specified, a reference in a Federal law to a provision of th
 
 #### (c) Disability-related references
 
-Except as otherwise specified, a reference in a Federal law to a provision of the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.) shall be deemed to refer to the corresponding provision of such Act, as amended by this Act.
+Except as otherwise specified, a reference in a Federal law to a provision of the RehabilitationAct of 1973 (29 U.S.C. 701 et seq.) shall be deemed to refer to the corresponding provision of such Act, as amended by this Act.
 
 (Pub. L. 113–128, title V, §513, July 22, 2014, 128 Stat. 1722.)
 

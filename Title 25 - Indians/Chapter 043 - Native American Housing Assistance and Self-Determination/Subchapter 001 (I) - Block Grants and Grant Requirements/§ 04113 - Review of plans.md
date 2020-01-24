@@ -8,7 +8,7 @@
 
 #### (2) Notice
 
-&emsp;The Secretary shall notify each Indian tribe for which a plan is submitted and any tribally designated housing entity for the tribe whether the plan complies with such requirements not later than 60 days after receiving the plan.If the Secretary does not notify the Indian tribe, as required under this subsection and subsection (b), the plan shall be considered, for purposes of this chapter, to have been determined to comply with the requirements under section 4112 of this title and the tribe shall be considered to have been notified of compliance upon the expiration of such 60-day period.
+&emsp;The Secretary shall notify each Indian tribe for which a plan is submitted and any tribally designated housing entity for the tribe whether the plan complies with such requirements not later than 60 days after receiving the plan. If the Secretary does not notify the Indian tribe, as required under this subsection and subsection (b), the plan shall be considered, for purposes of this chapter, to have been determined to comply with the requirements under section 4112 of this title and the tribe shall be considered to have been notified of compliance upon the expiration of such 60-day period.
 
 #### (b) Notice of reasons for determination of noncompliance
 
@@ -38,7 +38,7 @@ Notwithstanding any other provision of this section, the Secretary—
 
 &emsp;(2) may not approve or disapprove an Indian housing plan based on the content of the particular benefits, activities, or results included pursuant to subsections (b)(4) <sup>2</sup> and (c)(7).<sup>3</sup>
 
-(Pub. L. 104–330, title I, §103, Oct. 26, 1996, 110 Stat. 4026; Pub. L. 105–276, title V, §595(e)(6), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 110–411, title I, §103, Oct. 14, 2008, 122 Stat. 4323.)
+(Pub. L. 104–330, title I, §103, Oct. 26, 1996, 110 Stat. 4026; Pub. L. 105–276, title V, §595(e)(6), Oct.21, 1998, 112 Stat. 2657; Pub. L. 110–411, title I, §103, Oct. 14, 2008, 122 Stat. 4323.)
 
 #### References in Text
 

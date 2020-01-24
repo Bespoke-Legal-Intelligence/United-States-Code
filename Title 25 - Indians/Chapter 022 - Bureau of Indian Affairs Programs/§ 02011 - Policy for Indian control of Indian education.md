@@ -26,7 +26,7 @@ It shall be the policy of the United States acting through the Secretary, in car
 
 #### (C) Explanation by Secretary
 
-&emsp;&emsp;The Secretary shall submit to any Member of Congress, within 18 days of the receipt of a written request by such Member, a written explanation of any decision made by the Secretary which is not consistent with the views of the interested parties described in subparagraph (B).
+&emsp;&emsp;The Secretary shall submit to any Member of Congress, within 18 days of the receipt of a written request by such Member, a written explanation of any decision made by theSecretary which is not consistent with the views of the interested parties described in subparagraph (B).
 
 (Pub. L. 95–561, title XI, §1131, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2043.)
 

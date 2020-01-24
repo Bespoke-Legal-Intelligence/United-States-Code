@@ -10,11 +10,13 @@
 | [2357\.](%C2%A7%2002357%20-%20Technology%20protection%20features%20activities.md) | Technology protection features activities. |
 | [2358\.](%C2%A7%2002358%20-%20Research%20and%20development%20projects.md) | Research and development projects. |
 | [2358a.](%C2%A7%2002358a%20-%20Authorities%20for%20certain%20positions%20at%20science%20and%20technology%20reinvention%20laboratories.md) | Authorities for certain positions at science and technology reinvention laboratories. |
+| [2358b.](%C2%A7%2002358b%20-%20Joint%20reserve%20detachment%20of%20the%20Defense%20Innovation%20Unit.md) | Joint reserve detachment of the Defense Innovation Unit. |
 | [2359\.](%C2%A7%2002359%20-%20Science%20and%20technology%20programs%20to%20be%20conducted%20so%20as%20to%20foster%20the%20transition%20of%20science%20and%20technology%20to%20higher%20levels%20of%20research%E2%80%A6.md) | Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation. |
 | [2359a.](%C2%A7%2002359a%20-%20Defense%20Research%20and%20Development%20Rapid%20Innovation%20Program.md) | Defense Research and Development Rapid Innovation Program. |
 | [2359b.](%C2%A7%2002359b%20-%20Defense%20Acquisition%20Challenge%20Program.md) | Defense Acquisition Challenge Program. |
 | [2360\.](%C2%A7%2002360%20-%20Research%20and%20development%20laboratories%20contracts%20for%20services%20of%20university%20students.md) | Research and development laboratories: contracts for services of university students. |
 | [2361\.](%C2%A7%2002361%20-%20Award%20of%20grants%20and%20contracts%20to%20colleges%20and%20universities%20requirement%20of%20competition.md) | Award of grants and contracts to colleges and universities: requirement of competition. |
+| [2361a.](%C2%A7%2002361a%20-%20Extramural%20acquisition%20innovation%20and%20research%20activities.md) | Extramural acquisition innovation and research activities. |
 | [2362\.](%C2%A7%2002362%20-%20Research%20and%20educational%20programs%20and%20activities%20historically%20black%20colleges%20and%20universities%20and%20minority-serving%20institutions%20of%20higher%E2%80%A6.md) | Research and educational programs and activities: historically black colleges and universities and minority-serving institutions of higher education. |
 | [2363\.](%C2%A7%2002363%20-%20Mechanisms%20to%20provide%20funds%20for%20defense%20laboratories%20for%20research%20and%20development%20of%20technologies%20for%20military%20missions.md) | Mechanisms to provide funds for defense laboratories for research and development of technologies for military missions. |
 | [2364\.](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities%20and%20technology%20domain%20awareness.md) | Coordination and communication of defense research activities and technology domain awareness. |
@@ -39,6 +41,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title II, §213(a)(2), title VIII, §835(a)(2), Dec. 20, 2019, 133 Stat. 1257, 1496, added items 2361a and 2358b.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title II, §§223(b), 224(a)(2), Aug. 13, 2018, 132 Stat. 1683, 1684, added items 2357 and 2359a.
 
@@ -102,7 +106,7 @@ Pub. L. 100–26, §3(1)(B), Apr. 21, 1987, 101 Stat. 273, made technical amendm
 
 <b>1986</b>—Pub. L. 99–661, div. A, title II, §234(c)(2), Nov. 14, 1986, 100 Stat. 3849, as amended by Pub. L. 100–26, §3(1)(B), Apr. 21, 1987, 101 Stat. 273, added item 2364.
 
-Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, 1783–144, 1783–146, and Pub. L. 99–591, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143, 3341–144, 3341–146; Pub. L. 99–661, div. A, title IX, formerly title IV, §§909(a)(2), 910(a)(2), 912(a)(2), Nov. 14, 1986, 100 Stat. 3849, 3922, 3924, 3926, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; as amended by Pub. L. 100–26, §5(3)(B), Apr. 21, 1987, 101 Stat. 274, amended analysis identically, adding items 2365, 2366, and 2367.
+Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, 1783–144, 1783–146, and Pub. L. 99–591, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143, 3341–144, 3341–146; Pub. L. 99–661, div. A, title IX, formerly title IV, §§909(a)(2), 910(a)(2), 912(a)(2), Nov. 14, 1986, 100 Stat. 3849, 3922, 3924, 3926, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; as amended by Pub. L. 100–26, §5(3)(B), Apr. 21, 1987, 101Stat. 274, amended analysis identically, adding items 2365, 2366, and 2367.
 
 <b>1985</b>—Pub. L. 99–145, title I, §123(a)(2), title XIV, §1457(b), Nov. 8, 1985, 99 Stat. 601, 763, added items 2362 and 2363.
 
@@ -130,11 +134,13 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 - [&sect; 02357 - Technology protection features activities](%C2%A7%2002357%20-%20Technology%20protection%20features%20activities.md)
 - [&sect; 02358 - Research and development projects](%C2%A7%2002358%20-%20Research%20and%20development%20projects.md)
 - [&sect; 02358a - Authorities for certain positions at science and technology reinvention laboratories](%C2%A7%2002358a%20-%20Authorities%20for%20certain%20positions%20at%20science%20and%20technology%20reinvention%20laboratories.md)
+- [&sect; 02358b - Joint reserve detachment of the Defense Innovation Unit](%C2%A7%2002358b%20-%20Joint%20reserve%20detachment%20of%20the%20Defense%20Innovation%20Unit.md)
 - [&sect; 02359 - Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research&#8230;](%C2%A7%2002359%20-%20Science%20and%20technology%20programs%20to%20be%20conducted%20so%20as%20to%20foster%20the%20transition%20of%20science%20and%20technology%20to%20higher%20levels%20of%20research%E2%80%A6.md)
 - [&sect; 02359a - Defense Research and Development Rapid Innovation Program](%C2%A7%2002359a%20-%20Defense%20Research%20and%20Development%20Rapid%20Innovation%20Program.md)
 - [&sect; 02359b - Defense Acquisition Challenge Program](%C2%A7%2002359b%20-%20Defense%20Acquisition%20Challenge%20Program.md)
 - [&sect; 02360 - Research and development laboratories contracts for services of university students](%C2%A7%2002360%20-%20Research%20and%20development%20laboratories%20contracts%20for%20services%20of%20university%20students.md)
 - [&sect; 02361 - Award of grants and contracts to colleges and universities requirement of competition](%C2%A7%2002361%20-%20Award%20of%20grants%20and%20contracts%20to%20colleges%20and%20universities%20requirement%20of%20competition.md)
+- [&sect; 02361a - Extramural acquisition innovation and research activities](%C2%A7%2002361a%20-%20Extramural%20acquisition%20innovation%20and%20research%20activities.md)
 - [&sect; 02362 - Research and educational programs and activities historically black colleges and universities and minority-serving institutions of higher&#8230;](%C2%A7%2002362%20-%20Research%20and%20educational%20programs%20and%20activities%20historically%20black%20colleges%20and%20universities%20and%20minority-serving%20institutions%20of%20higher%E2%80%A6.md)
 - [&sect; 02363 - Mechanisms to provide funds for defense laboratories for research and development of technologies for military missions](%C2%A7%2002363%20-%20Mechanisms%20to%20provide%20funds%20for%20defense%20laboratories%20for%20research%20and%20development%20of%20technologies%20for%20military%20missions.md)
 - [&sect; 02364 - Coordination and communication of defense research activities and technology domain awareness](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities%20and%20technology%20domain%20awareness.md)

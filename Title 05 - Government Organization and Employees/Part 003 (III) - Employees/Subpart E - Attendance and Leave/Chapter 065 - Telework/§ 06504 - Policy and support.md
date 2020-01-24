@@ -70,7 +70,7 @@ Telework Website.—The Office of Personnel Management shall—
 
 &emsp;&emsp;(C) guidance developed by the Office of Personnel Management; and
 
-&emsp;&emsp;(D) guidance submitted by the Federal Emergency Management Agency, and the General Services Administration to the Office of Personnel Management not later than10 business days after the date of submission.
+&emsp;&emsp;(D) guidance submitted by the Federal Emergency Management Agency, and the General Services Administration to the Office of Personnel Management not later than 10 business days after the date of submission.
 
 (f)
 

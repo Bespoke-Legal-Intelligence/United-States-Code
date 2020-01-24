@@ -28,7 +28,7 @@ As used in this section:
 
 &emsp;(C) the borrower-owner of a loan made or insured by the Secretary or the Administrator files a petition in bankruptcy that results in the conveyance of the homestead property to the Secretary or the Administrator, or agrees to voluntarily liquidate or convey such property in whole or in part.
 
-(2) The value of the homestead property shall be determined insofar as possible by an independent appraisal made within six months fromthe date of the borrower-owner's application to retain possession and occupancy of the homestead property.
+(2) The value of the homestead property shall be determined insofar as possible by an independent appraisal made within six months from the date of the borrower-owner's application to retain possession and occupancy of the homestead property.
 
 (3) The period of occupancy of homestead property under this subsection may not exceed five years, but in no case shall the Secretary or the Administrator grant a period of occupancy less than three years, subject to compliance with the requirements of subsection (c).
 
@@ -60,7 +60,7 @@ As used in this section:
 
 (4)(A) The period of occupancy allowed the prior owner of homestead property under this section shall be the period requested in writing by the prior owner, except that such period shall not exceed 5 years.
 
-(B) At any time during the period of occupancy of a borrower-owner who is a socially disadvantaged farmer or rancher (as defined in section 2003(e)(2) of this title), the borrower-owner or a member of the immediate family of the borrower-owner shall have a right of first refusal to reacquire the homestead property on such terms and conditions as the Secretary shall determine, except that the Secretary may not demand a payment for the homestead property that is in excess of the current market value of the homestead property as established by an independent appraisal. The independent appraisal shall be conducted by an appraiser selected by the borrower-owner or immediate family member, as the case may be, from a list of three appraisers approved by the county supervisor.
+(B) At any time during the period of occupancy of a borrower-owner who is a socially disadvantaged farmer or rancher (as defined in section 2003(e)(2) of this title), the borrower-owner or a member of the immediate family of the borrower-owner shall have a right of first refusal to reacquire the homestead property on such terms and conditions as the Secretary shall determine, except that the Secretary may not demand apayment for the homestead property that is in excess of the current market value of the homestead property as established by an independent appraisal. The independent appraisal shall be conducted by an appraiser selected by the borrower-owner or immediate family member, as the case may be, from a list of three appraisers approved by the county supervisor.
 
 (5) No rights of a borrower-owner under this section, and no agreement entered into between the borrower-owner and the Secretary for occupancy of the homestead property, shall be transferable or assignable by the borrower-owner or by operation of any law, except that in the case of death or incompetency of such borrower-owner, such rights and agreements shall be transferable to the spouse of the borrower-owner if the spouse agrees to comply with the terms and conditions thereof.
 
@@ -118,7 +118,7 @@ Subsecs. (c), (d), (g). Pub. L. 102–237, §501(g)(2), substituted "borrower-ow
 
 <b>1988</b>—Subsec. (a)(3). Pub. L. 100–233, §614(1), inserted ", including a reasonable number of farm outbuildings located on the adjoining land that are useful to the occupants of the homestead, and no more than 10 acres of adjoining land that is used to maintain the family of the individual".
 
-Subsec. (b)(1). Pub. L. 100–233, §614(2), added par. (1) and struck out former par. (1) which read as follows: "If the Secretary forecloses a loan made or insured under this chapter, the Administrator forecloses a farm program loan made under the Small Business Act (15 U.S.C. 631 et seq.), or a borrower of a loan made or insured by either agency declares bankruptcy or goes into voluntary liquidation to avoid foreclosure or bankruptcy, the Secretary or Administrator may upon application by the borrower, permit the borrower to retain possession and occupancy of any principal residence of the borrower, and a reasonable amount of adjoining land for the purpose of family maintenance."
+Subsec. (b)(1). Pub. L. 100–233, §614(2), added par. (1) and struck out former par. (1) which read as follows: "If the Secretary forecloses a loan made or insured under this chapter, the Administrator forecloses a farm program loan made under the Small Business Act (15 U.S.C. 631 et seq.), or a borrower of a loan made or insured by either agency declares bankruptcy or goes into voluntary liquidation to avoid foreclosure or bankruptcy, the Secretary or Administrator may uponapplication by the borrower, permit the borrower to retain possession and occupancy of any principal residence of the borrower, and a reasonable amount of adjoining land for the purpose of family maintenance."
 
 Subsec. (c). Pub. L. 100–233, §614(3), completely revised and restated subsec. (c), substituting pars. (1) to (6) for former pars. (1) to (8).
 

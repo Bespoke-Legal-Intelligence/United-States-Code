@@ -30,7 +30,7 @@
 
 &emsp;(3) may issue each report required under this section in other forms at the discretion of the Secretary of the Senate.
 
-(Pub. L. 88–454, §105(a), Aug. 20, 1964, 78 Stat. 550; Pub. L. 88–656, Oct. 13, 1964, 78 Stat. 1088; Pub. L. 94–303, title I, §118(b)(1), June 1, 1976, 90 Stat. 615; Pub. L. 102–392, title I, §6, Oct. 6, 1992, 106 Stat. 1707; Pub. L. 103–283, title I, §3(a), July 22, 1994, 108 Stat. 1426; Pub. L. 104–186, title II, §204(54), Aug. 20, 1996, 110 Stat. 1738; Pub. L. 106–554, §1(a)(2) \[title I, §1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–95; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–68, div. A, title I, §2, Oct. 1, 2009, 123 Stat. 2026.)
+(Pub. L. 88–454, §105(a), Aug. 20, 1964, 78 Stat. 550; Pub. L. 88–656, Oct. 13, 1964, 78 Stat. 1088; Pub. L. 94–303, title I, §118(b)(1), June 1, 1976, 90 Stat. 615; Pub. L. 102–392, title I, §6, Oct. 6, 1992, 106 Stat. 1707; Pub. L. 103–283, title I, §3(a), July 22, 1994, 108 Stat. 1426; Pub. L. 104–186, title II, §204(54),Aug. 20, 1996, 110 Stat. 1738; Pub. L. 106–554, §1(a)(2) \[title I, §1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–95; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–68, div. A, title I, §2, Oct. 1, 2009, 123 Stat. 2026.)
 
 #### References in Text
 

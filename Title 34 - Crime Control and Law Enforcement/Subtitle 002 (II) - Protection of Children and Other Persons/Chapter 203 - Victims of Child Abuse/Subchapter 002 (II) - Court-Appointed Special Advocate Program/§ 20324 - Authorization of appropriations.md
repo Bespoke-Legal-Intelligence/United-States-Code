@@ -58,7 +58,7 @@ Pub. L. 106–386, div. B, title III, §1302(d), Oct. 28, 2000, 114 Stat. 1511, 
 
 &emsp;"(1) annually compile and disseminate information (including through electronic publication) about the use of amounts expended and the projects funded under section 218(a) \[now 219(a)\] of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13014(a)) \[now 34 U.S.C. 20324(a)\], section 224(a) of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13024(a)) \[now 34 U.S.C. 20334(a)\], and section 1007(a)(7) \[1001(a)(7)\] of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3793(a)(7)) \[now 34 U.S.C. 10261(a)(7)\], including any evaluations of the projects and information to enable replication and adoption of the strategies identified in the projects; and
 
-&emsp;"(2) focus dissemination of the information described in paragraph (1) toward community-basedprograms, including domestic violence and sexual assault programs."
+&emsp;"(2) focus dissemination of the information described in paragraph (1) toward community-based programs, including domestic violence and sexual assault programs."
 
 \[For definitions of terms used in section 1302(d)(2) of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 10447 of this title.\]
 

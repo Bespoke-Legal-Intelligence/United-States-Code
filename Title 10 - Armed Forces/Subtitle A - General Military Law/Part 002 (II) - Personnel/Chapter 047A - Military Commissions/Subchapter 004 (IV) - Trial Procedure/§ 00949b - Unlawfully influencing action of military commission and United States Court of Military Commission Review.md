@@ -2,7 +2,7 @@
 
 (a)
 
-Military Commissions.—(1) No authority convening a military commission under this chapter may censure, reprimand, or admonish the military commission, or any member, military judge, or counsel thereof, with respect to the findings or sentence adjudged by the military commission, or with respect to any other exercises of its or their functions in the conduct of the proceedings.
+Military Commissions.—(1) No authority convening a military commission under thischapter may censure, reprimand, or admonish the military commission, or any member, military judge, or counsel thereof, with respect to the findings or sentence adjudged by the military commission, or with respect to any other exercises of its or their functions in the conduct of the proceedings.
 
 (2) No person may attempt to coerce or, by any unauthorized means, influence—
 
@@ -34,7 +34,7 @@ United States Court of Military Commission Review.—(1) No person may attempt t
 
 &emsp;(B) statements and instructions given in open proceedings by a judge on the United States Court of Military Commission Review, or counsel.
 
-(4) No appellate military judge on the United States Court of Military Commission Reviewmay be reassigned to other duties, except under circumstances as follows:
+(4) No appellate military judge on the United States Court of Military Commission Review may be reassigned to other duties, except under circumstances as follows:
 
 &emsp;(A) The appellate military judge voluntarily requests to be reassigned to other duties and the Secretary of Defense, or the designee of the Secretary, in consultation with the Judge Advocate General of the armed force of which the appellate military judge is a member, approves such reassignment.
 

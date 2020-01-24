@@ -6,5 +6,5 @@ The Secretary shall coordinate the program established by section 11801 of this 
 
 #### References in Text
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in text, is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which was classified principally tochapter 72 (§5601 et seq.) of this title, prior to editorial reclassification and renumbering as chapter 111 (§11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in text, is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which was classified principally to chapter 72 (§5601 et seq.) of this title, prior to editorial reclassification and renumbering as chapter 111 (§11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
 

@@ -34,7 +34,7 @@ The Secretary shall—
 
 #### (III) Administrative costs
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may provide not more than 5 percent of the funds made available for grants under subclause (I) to paythe administrative costs of the Pacific Region Educational Laboratory in Honolulu, Hawaii, regarding activities assisted under this clause.
+&emsp;&emsp;&emsp;&emsp;The Secretary may provide not more than 5 percent of the funds made available for grants under subclause (I) to pay the administrative costs of the Pacific Region Educational Laboratory in Honolulu, Hawaii, regarding activities assisted under this clause.
 
 #### (iii) Additional requirement
 
@@ -86,7 +86,7 @@ The Secretary shall—
 
 #### (III) Maximum percentage
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (I), the Secretary shall ensure that no State shall receive an allotment percentage for a fiscal year that is more than 130 percent of the allotment percentage of the State for the preceding fiscal year.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (I), the Secretary shall ensure that no State shall receive an allotment percentage for a fiscal yearthat is more than 130 percent of the allotment percentage of the State for the preceding fiscal year.
 
 #### (IV) Minimum funding
 
@@ -154,7 +154,7 @@ The Secretary shall—
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat.936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Effective Date
 

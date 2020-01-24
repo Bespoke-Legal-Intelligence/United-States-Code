@@ -34,7 +34,7 @@ The head of each Federal agency to which the President delegates authority under
 
 &emsp;(2) as appropriate and to the extent practicable, consult with the heads of other Federal agencies to develop a consistent and unified Federal priorities and allocations system.
 
-(Sept. 8, 1950, ch. 932, title I, §101, 64 Stat. 799; July 31, 1951, ch. 275, title I, §101(a), 65 Stat. 131; June 30, 1952, ch. 530, title I, §§101, 102, 66 Stat. 296, 297; June 30, 1953, ch. 171, §3, 67 Stat. 129; Pub. L. 94–163, title I, §104(a), Dec. 22, 1975, 89 Stat. 878; Pub. L. 102–99, §6, Aug. 17, 1991, 105 Stat. 490; Pub. L. 111–67, §4, Sept. 30, 2009, 123Stat. 2009; Pub. L. 113–172, §3, Sept. 26, 2014, 128 Stat. 1897.)
+(Sept. 8, 1950, ch. 932, title I, §101, 64 Stat. 799; July 31, 1951, ch. 275, title I, §101(a), 65 Stat. 131; June 30, 1952, ch. 530, title I, §§101, 102, 66 Stat. 296, 297; June 30, 1953, ch. 171, §3, 67 Stat. 129; Pub. L. 94–163, title I, §104(a), Dec. 22, 1975, 89 Stat. 878; Pub. L. 102–99, §6, Aug. 17, 1991, 105 Stat. 490; Pub. L. 111–67, §4, Sept. 30, 2009, 123 Stat. 2009; Pub. L. 113–172, §3, Sept. 26, 2014, 128 Stat. 1897.)
 
 #### Termination of Section
 

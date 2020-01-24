@@ -50,7 +50,7 @@ The Secretary shall furnish to each individual for whom payment has been made un
 
 #### (1) Electronic option beginning in 2016
 
-&emsp;Subject to paragraph (2), for statements described in subsection (a) that are furnished fora period in 2016 or a subsequent year, in the case that an individual described in subsection (a) elects, in accordance with such form, manner, and time specified by the Secretary, to receive such statement in an electronic format, such statement shall be furnished to such individual for each period subsequent to such election in such a format and shall not be mailed to the individual.
+&emsp;Subject to paragraph (2), for statements described in subsection (a) that are furnished for a period in 2016 or a subsequent year, in the case that an individual described in subsection (a) elects, in accordance with such form, manner, and time specified by the Secretary, to receive such statement in an electronic format, such statement shall be furnished to such individual for each period subsequent to such election in such a format and shall not be mailed to the individual.
 
 #### (2) Limitation on revocation option
 

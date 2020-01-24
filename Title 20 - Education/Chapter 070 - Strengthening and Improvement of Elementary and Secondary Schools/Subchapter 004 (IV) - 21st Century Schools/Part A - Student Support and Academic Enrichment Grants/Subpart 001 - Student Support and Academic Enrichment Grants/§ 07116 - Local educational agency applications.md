@@ -26,7 +26,7 @@ If a local educational agency desires to carry out the activities described in t
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2) and prior to receiving an allocation under this subpart,a local educational agency or consortium of such agencies shall conduct a comprehensive needs assessment of the local educational agency or agencies proposed to be served under this subpart in order to examine needs for improvement of—
+&emsp;Except as provided in paragraph (2) and prior to receiving an allocation under this subpart, a local educational agency or consortium of such agencies shall conduct a comprehensive needs assessment of the local educational agency or agencies proposed to be served under this subpart in order to examine needs for improvement of—
 
 &emsp;&emsp;(A) access to, and opportunities for, a well-rounded education for all students;
 

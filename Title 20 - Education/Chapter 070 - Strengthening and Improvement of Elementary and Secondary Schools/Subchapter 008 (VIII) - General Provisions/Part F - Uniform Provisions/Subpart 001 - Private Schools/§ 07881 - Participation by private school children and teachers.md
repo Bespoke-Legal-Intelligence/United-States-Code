@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this chapter, to the extent consistent with the numberof eligible children in areas served by a State educational agency, local educational agency, educational service agency, consortium of those agencies, or another entity receiving financial assistance under a program specified in subsection (b), who are enrolled in private elementary schools and secondary schools in areas served by such agency, consortium, or entity, the agency, consortium, or entity shall, after timely and meaningful consultation with appropriate private school officials provide to those children and their teachers or other educational personnel, on an equitable basis, special educational services or other benefits that address their needs under the program.
+&emsp;Except as otherwise provided in this chapter, to the extent consistent with the number of eligible children in areas served by a State educational agency, local educational agency, educational service agency, consortium of those agencies, or another entity receiving financial assistance under a program specified in subsection (b), who are enrolled in private elementary schools and secondary schools in areas served by such agency, consortium, or entity, the agency, consortium, or entity shall, after timely and meaningful consultation with appropriate private school officials provide to those children and their teachers or other educational personnel, on an equitable basis, special educational services or other benefits that address their needs under the program.
 
 #### (2) Secular, neutral, and nonideological services or benefits
 
@@ -148,7 +148,7 @@
 
 #### Prior Provisions
 
-A prior section 7881, Pub. L. 89–10, title IX, §9161, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3793; amended Pub. L. 105–220, title II, §251(b)(2)(E), Aug. 7, 1998, 112 Stat. 1080, defined terms, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
+A prior section 7881, Pub. L. 89–10, title IX, §9161, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3793; amended Pub. L. 105–220, title II, §251(b)(2)(E), Aug. 7, 1998, 112 Stat. 1080, defined terms, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
 
 #### Amendments
 

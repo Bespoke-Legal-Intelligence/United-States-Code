@@ -218,7 +218,7 @@ Pub. L. 91–172, title II, §212(b)(2), Dec. 30, 1969, 83 Stat. 571, provided t
 
 Amendment by section 514(b)(2) of Pub. L. 91–172 applicable to sales and other dispositions occurring after July 25, 1969, see section 514(c) of Pub. L. 91–172, set out as a note under section 1221 of this title.
 
-Amendment by section 516(b) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, seesection 516(d)(2) of Pub. L. 91–172, set out as a note under section 1001 of this title.
+Amendment by section 516(b) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 516(d)(2) of Pub. L. 91–172, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1964 Amendment
 

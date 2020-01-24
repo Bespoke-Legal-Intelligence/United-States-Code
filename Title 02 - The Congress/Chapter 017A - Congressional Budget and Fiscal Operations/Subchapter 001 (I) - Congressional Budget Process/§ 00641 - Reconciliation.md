@@ -50,7 +50,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 &emsp;&emsp;&emsp;(II) in the House of Representatives, 20 percent of the sum of the absolute value of the changes the committee was directed to make under paragraph (1) and the absolute value of the changes the committee was directed to make under paragraph (2); and
 
-&emsp;(B) if the total amount of the changes recommended by such committee is not less than the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection.
+&emsp;(B) if the total amount of the changes recommended by such committee is not less than the total of the amounts of the changes suchcommittee was directed to make under paragraphs (1) and (2) of such subsection.
 
 (2)(A) Upon the reporting to the Committee on the Budget of the Senate of a recommendation that shall be deemed to have complied with such directions solely by virtue of this subsection, the chairman of that committee may file with the Senate appropriately revised allocations under section 633(a) of this title and revised functional levels and aggregates to carry out this subsection.
 

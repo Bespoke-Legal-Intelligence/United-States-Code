@@ -28,7 +28,7 @@ Pub. L. 96–265 substituted "not less than 24 months" for "not less than 24 con
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–234, title I, §101(d), Dec. 13, 1989, 103 Stat. 1980, provided that: "The provisions of this section \[amending this section and sections 1395d, 1395e, 1395f, 1395k, 1395x, 1395cc, and 1395tt of this title, enacting provisions set out as notes under sections 1395e and 1395ww of this title, and amending provisions set out as notes under sections 1395e and 1395ww of this title\] shall take effect January 1, 1990, except that theamendments made by subsection (c) \[amending provisions set out as a note under section 1395ww of this title\] shall be effective as if included in the enactment of MCCA \[Pub. L. 100–360\]."
+Pub. L. 101–234, title I, §101(d), Dec. 13, 1989, 103 Stat. 1980, provided that: "The provisions of this section \[amending this section and sections 1395d, 1395e, 1395f, 1395k, 1395x, 1395cc, and 1395tt of this title, enacting provisions set out as notes under sections 1395e and 1395ww of this title, and amending provisions set out as notes under sections 1395e and 1395ww of this title\] shall take effect January 1, 1990, except that the amendments made by subsection (c) \[amending provisions set out as a note under section 1395ww of this title\] shall be effective as if included in the enactment of MCCA \[Pub. L. 100–360\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -128,7 +128,7 @@ Contents.—The guidance described in subsection (a) shall include, with respect
 
 #### Advisory Council To Study Coverage of Disabled Under This Subchapter
 
-Pub. L. 90–248, title I, §140, Jan. 2, 1968, 81 Stat. 854, directed Secretary of Health, Education, and Welfare to appoint an Advisory Council to study need for coverage of disabled under the health insurance programs of this subchapter, directed Council to submit a report on such study to Secretary by Jan. 1, 1969, and directed Secretary in turn to transmit such report to Congress, resulting in termination of Council's existence.
+Pub. L. 90–248, title I, §140, Jan. 2, 1968, 81 Stat. 854, directed Secretary of Health, Education, and Welfare to appoint an Advisory Council to study need for coverage of disabled under the health insurance programs of thissubchapter, directed Council to submit a report on such study to Secretary by Jan. 1, 1969, and directed Secretary in turn to transmit such report to Congress, resulting in termination of Council's existence.
 
 #### Reimbursement of Charges Under Part A for Services to Patients Admitted Prior to 1968 to Certain Hospitals
 

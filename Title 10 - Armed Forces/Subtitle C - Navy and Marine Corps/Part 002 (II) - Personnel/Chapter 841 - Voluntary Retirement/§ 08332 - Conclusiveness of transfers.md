@@ -34,7 +34,7 @@ June 25, 1938, ch. 690, §202 (provisos), 52 Stat. 1178.
 
 July 9, 1952, ch. 608, §803 (3d sentence), 66 Stat. 505.
 
-The words "when not on active duty, to retainer pay or retired pay" are substituted for the words "pay andallowances". The pay and allowances of a member on active duty are covered by the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.). When not on active duty a member of the Fleet Reserve receives retainer pay and a retired member receives retired pay without allowances, the provision for allowances for retired members having been repealed as pointed out in the note on the preceding section. In the last sentence the words "from the date of transfer" are added to make it clear that a correction is retroactive to that date. The Court of Claims has so held (<i>Dugan v. United States</i> (1943), 100 Ct. Cl. 7).
+The words "when not on active duty, to retainer pay or retired pay" are substituted for the words "pay and allowances". The pay and allowances of a member on active duty are covered by the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.). When not on active duty a member of the Fleet Reserve receives retainer pay and a retired member receives retired pay without allowances, the provision for allowances for retired members having been repealed as pointed out in the note on the preceding section. In the last sentence the words "from the date of transfer" are added to make it clear that a correction is retroactive to that date. The Court of Claims has so held (<i>Dugan v. United States</i> (1943), 100 Ct. Cl. 7).
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §523. Exceptions to discharge
 
-(a) A discharge under section 727, 1141, 1228(a), 1228(b), or 1328(b) of this title does not discharge an individual debtor from any debt—
+(a) A discharge under section 727, 1141, 1192 <sup>1</sup> 1228(a), 1228(b), or 1328(b) of this title does not discharge an individual debtor from any debt—
 
 &emsp;(1) for a tax or a customs duty—
 
@@ -30,13 +30,13 @@
 
 &emsp;&emsp;(C)(i) for purposes of subparagraph (A)—
 
-&emsp;&emsp;&emsp;(I) consumer debts owed to a single creditor and aggregating more than $500 <sup>1</sup> for luxury goods or services incurred by an individual debtor on or within 90 days before the order for relief under this title are presumed to be nondischargeable; and
+&emsp;&emsp;&emsp;(I) consumer debts owed to a single creditor and aggregating more than $500 <sup>2</sup> for luxury goods or services incurred by an individual debtor on or within 90 days before the order for relief under this title are presumed to be nondischargeable; and
 
-&emsp;&emsp;&emsp;(II) cash advances aggregating more than $750 <sup>1</sup> that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 70 days before the order for relief under this title, are presumed to be nondischargeable; and
+&emsp;&emsp;&emsp;(II) cash advances aggregating more than $750 <sup>2</sup> that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 70 days before the order for relief under this title, are presumed to be nondischargeable; and
 
 &emsp;&emsp;(ii) for purposes of this subparagraph—
 
-&emsp;&emsp;&emsp;(I) the terms "consumer", "credit", and "open end credit plan" have the same meanings as in section 103 of the Truth in Lending Act; and
+&emsp;&emsp;&emsp;(I) the terms "consumer", "credit", and "open end credit plan" have the samemeanings as in section 103 of the Truth in Lending Act; and
 
 &emsp;&emsp;&emsp;(II) the term "luxury goods or services" does not include goods or services reasonably necessary for the support or maintenance of the debtor or a dependent of the debtor;
 
@@ -84,7 +84,7 @@
 
 &emsp;(15) to a spouse, former spouse, or child of the debtor and not of the kind described in paragraph (5) that is incurred by the debtor in the course of a divorce or separation or in connection with a separation agreement, divorce decree or other order of a court of record, or a determination made in accordance with State or territorial law by a governmental unit;
 
-&emsp;(16) for a fee or assessment that becomes due and payable after the order for relief to a membership association with respect to the debtor's interest in a unit that has condominium ownership, in a share of a cooperative corporation, or a lot in a homeowners association, for as long as the debtor or the trustee has a legal, equitable, or possessory ownershipinterest in such unit, such corporation, or such lot, but nothing in this paragraph shall except from discharge the debt of a debtor for a membership association fee or assessment for a period arising before entry of the order for relief in a pending or subsequent bankruptcy case;
+&emsp;(16) for a fee or assessment that becomes due and payable after the order for relief to a membership association with respect to the debtor's interest in a unit that has condominium ownership, in a share of a cooperative corporation, or a lot in a homeowners association, for as long as the debtor or the trustee has a legal, equitable, or possessory ownership interest in such unit, such corporation, or such lot, but nothing in this paragraph shall except from discharge the debt of a debtor for a membership association fee or assessment for a period arising before entry of the order for relief in a pending or subsequent bankruptcy case;
 
 &emsp;(17) for a fee imposed on a prisoner by any court for the filing of a case, motion, complaint, or appeal, or for other costs and expenses assessed with respect to such filing, regardless of an assertion of poverty by the debtor under subsection (b) or (f)(2) of section 1915 of title 28 (or a similar non-Federal law), or the debtor's status as a prisoner, as defined in section 1915(h) of title 28 (or a similar non-Federal law);
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(A) a loan permitted under section 408(b)(1) of the Employee Retirement Income Security Act of 1974, or subject to section 72(p) of the Internal Revenue Code of 1986; or
 
-&emsp;&emsp;(B) a loan from a thrift savings plan permitted under subchapter III of chapter 84 of title 5, that satisfies the requirements of section 8433(g) of such title;
+&emsp;&emsp;(B) a loan from a thrift savings plan permitted under subchapter III of chapter 84 oftitle 5, that satisfies the requirements of section 8433(g) of such title;
 
 > &emsp;but nothing in this paragraph may be construed to provide that any loan made under a governmental plan under section 414(d), or a contract or account under section 403(b), of the Internal Revenue Code of 1986 constitutes a claim or a debt under this title; or
 
@@ -114,7 +114,7 @@
 
 > For purposes of this subsection, the term "return" means a return that satisfies the requirements of applicable nonbankruptcy law (including applicable filing requirements). Such term includes a return prepared pursuant to section 6020(a) of the Internal Revenue Code of 1986, or similar State or local law, or a written stipulation to a judgment or a final order entered by a nonbankruptcy tribunal, but does not include a return made pursuant to section 6020(b) of the Internal Revenue Code of 1986, or a similar State or local law.
 
-(b) Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A <sup>2</sup> of the Higher Education Act of 1965, or under section 733(g) <sup>2</sup> of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
+(b) Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A <sup>3</sup> of the Higher Education Act of 1965, or under section 733(g) <sup>3</sup> of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
 
 (c)(1) Except as provided in subsection (a)(3)(B) of this section, the debtor shall be discharged from a debt of a kind specified in paragraph (2), (4), or (6) of subsection (a) of this section, unless, on request of the creditor to whom such debt is owed, and after notice and a hearing, the court determines such debt to be excepted from discharge under paragraph (2), (4), or (6), as the case may be, of subsection (a) of this section.
 
@@ -124,7 +124,7 @@
 
 (e) Any institution-affiliated party of an insured depository institution shall be considered to be acting in a fiduciary capacity with respect to the purposes of subsection (a)(4) or (11).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat.1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, §971(a), Oct. 7, 1998, 112 Stat. 1837; Pub. L. 107–204, title VIII, §803, July 30, 2002, 116 Stat. 801; Pub. L. 109–8, title II, §§215, 220, 224(c), title III, §§301, 310, 314(a), title IV, §412, title VII, §714, title XII, §§1209, 1235, title XIV, §1404(a), title XV, §1502(a)(2), Apr. 20, 2005, 119 Stat. 54, 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216; Pub. L. 111–327, §2(a)(18), Dec. 22, 2010, 124 Stat. 3559.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, §971(a), Oct. 7, 1998, 112 Stat. 1837; Pub. L. 107–204, title VIII, §803, July 30, 2002, 116 Stat. 801; Pub. L. 109–8, title II, §§215, 220, 224(c), title III, §§301, 310, 314(a), title IV, §412, title VII, §714, title XII, §§1209, 1235, title XIV, §1404(a), title XV, §1502(a)(2), Apr. 20, 2005, 119 Stat. 54, 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216; Pub. L. 111–327, §2(a)(18), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 116–54, §4(a)(8), Aug. 23, 2019, 133 Stat. 1086.)
 
 #### Historical and Revision Notes
 
@@ -158,7 +158,7 @@ In the case of individuals in liquidation under chapter 7 or in reorganization u
 
 The House amendment also deletes the reduction rule contained in section 523(e) of the Senate amendment. Under that rule, the amount of an otherwise nondischargeable tax liability would be reduced by the amount which a governmental tax authority could have collected from the debtor's estate if it had filed a timely claim against the estate but which it did not collect because no such claim was filed. This provision is deleted in order not to effectively compel a tax authority to file claim against the estate in "no asset" cases, along with a dischargeability petition. In no-asset cases, therefore, if the tax authority is not potentially penalized by failing to file a claim, the debtor in such cases will have a better opportunity to choose the prepayment forum, bankruptcy court or the Tax Court, in which to litigate his personal liability for a nondischargeable tax.
 
-The House amendment also adopts the Senate amendment provision limiting the nondischargeability ofpunitive tax penalties, that is, penalties other than those which represent collection of a principal amount of tax liability through the form of a "penalty." Under the House amendment, tax penalties which are basically punitive in nature are to be nondischargeable only if the penalty is computed by reference to a related tax liability which is nondischargeable or, if the amount of the penalty is not computed by reference to a tax liability, the transaction or event giving rise to the penalty occurred during the 3-year period ending on the date of the petition.
+The House amendment also adopts the Senate amendment provision limiting the nondischargeability of punitive tax penalties, that is, penalties other than those which represent collection of a principal amount of tax liability through the form of a "penalty." Under the House amendment, tax penalties which are basically punitive in nature are to be nondischargeable only if the penalty is computed by reference to a related tax liability which is nondischargeable or, if the amount of the penalty is not computed by reference to a tax liability, the transaction or event giving rise to the penalty occurred during the 3-year period ending on the date of the petition.
 
 #### senate report no. 95–989
 
@@ -235,6 +235,8 @@ Section 439A of the Higher Education Act of 1965, referred to in subsec. (b), wa
 Section 733(g) of the Public Health Service Act, referred to in subsec. (b), was repealed by Pub. L. 95–598, title III, §327, Nov. 6, 1978, 92 Stat. 2679. A subsec. (g), containing similar provisions, was added to section 733 by Pub. L. 97–35, title XXVII, §2730, Aug. 13, 1981, 95 Stat. 919. Section 733 was subsequently omitted in the general revision of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See section 292f(g) of Title 42.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–54 inserted "1192" after "1141," in introductory provisions.
 
 <b>2010</b>—Subsec. (a)(2)(C)(ii)(II). Pub. L. 111–327, §2(a)(18)(A), substituted semicolon for period at end.
 
@@ -378,6 +380,10 @@ Subsec. (d). Pub. L. 98–353, §307(b), substituted "the court shall grant judg
 
 <b>1979</b>—Subsec. (a)(8). Pub. L. 96–56 substituted "for an educational loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or a nonprofit institution of higher education" for "to a governmental unit, or a nonprofit institution of higher education, for an educational loan" in the provisions preceding subpar. (A) and inserted "(exclusive of any applicable suspension of the repayment period)" after "before five years" in subpar. (A).
 
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under section 101 of this title.
+
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–8, title XIV, §1404(b), Apr. 20, 2005, 119 Stat. 215, provided that: "The amendment made by subsection (a) \[amending this section\] is effective beginning July 30, 2002."
@@ -390,7 +396,7 @@ Pub. L. 105–244, title IX, §971(b), Oct. 7, 1998, 112 Stat. 1837, provided th
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–193, title III, §374(c), Aug. 22, 1996, 110 Stat. 2256, provided that: "The amendments made bythis section \[amending this section and section 656 of Title 42, The Public Health and Welfare\] shall apply only with respect to cases commenced under title 11 of the United States Code after the date of the enactment of this Act \[Aug. 22, 1996\]."
+Pub. L. 104–193, title III, §374(c), Aug. 22, 1996, 110 Stat. 2256, provided that: "The amendments made by this section \[amending this section and section 656 of Title 42, The Public Health and Welfare\] shall apply only with respect to cases commenced under title 11 of the United States Code after the date of the enactment of this Act \[Aug. 22, 1996\]."
 
 For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42, The Public Health and Welfare.
 
@@ -458,7 +464,9 @@ By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec.
 
 By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (a)(2)(C), dollar amount "1,000" was adjusted to "1,075" each time it appeared.
 
-<i><sup>1</sup></i><i> See Adjustment of Dollar Amounts notes below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See Adjustment of Dollar Amounts notes below.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

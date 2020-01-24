@@ -68,7 +68,7 @@ Definition of comparable facility.—In this paragraph, the term "comparable fac
 
 &emsp;&emsp;(B)
 
-Limitation.—The total cost of a project funded under this section may notexceed the cost of repair or reconstruction of a comparable facility.
+Limitation.—The total cost of a project funded under this section may not exceed the cost of repair or reconstruction of a comparable facility.
 
 &emsp;(3)
 
@@ -80,9 +80,7 @@ Debris removal.—The costs of debris removal shall be an eligible expense under
 
 &emsp;&emsp;(C) projects eligible for assistance under this section located on tribal transportation facilities, Federal lands transportation facilities, or other federally owned roads that are open to public travel (as defined in subsection (e)(1)).
 
-&emsp;(4)
-
-Territories.—The total obligations for projects under this section for any fiscal year in the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall not exceed $20,000,000.
+&emsp;\[(4) Repealed. Pub. L. 116–94, div. H, title I, §127, Dec. 20, 2019, 133 Stat. 2953.\]
 
 &emsp;(5)
 
@@ -138,13 +136,15 @@ Treatment of Territories.—For purposes of this section, the Virgin Islands, Gu
 
 Protecting Public Safety and Maintaining Roadways.—The Secretary may use not more than 5 percent of amounts from the emergency fund authorized by this section to carry out projects that the Secretary determines are necessary to protect the public safety or to maintain or protect roadways that are included within the scope of an emergency declaration by the Governor of the State or by the President, in accordance with this section, and the Governor deems to be an ongoing concern in order to maintain vehicular traffic on the roadway.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 901; Pub. L. 86–342, title I, §107(a), Sept. 21, 1959, 73 Stat. 612; Pub. L. 89–574, §9(b), (c), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §27(a), Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §109(a), Dec. 31, 1970, 84 Stat. 1718; Pub. L. 92–361, Aug. 3, 1972, 86 Stat. 503; Pub. L. 94–280, title I, §119, May 5, 1976, 90 Stat. 437; Pub. L. 95–599, title I, §119, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 96–106, §19, Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–424, title I, §153(a), (c), (d), (h), Jan. 6, 1983, 96 Stat. 2132, 2133; Pub. L. 99–190, §101(e) \[title III, §334\], Dec. 19, 1985, 99 Stat. 1267, 1290; Pub. L. 99–272, title IV, §4103, Apr. 7, 1986, 100 Stat. 114; Pub. L. 100–17, title I, §§118(a)(1), (b)(1), (2), 133(b)(9), Apr. 2, 1987, 101 Stat. 156, 171; Pub. L. 100–707, §109(k), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 102–240, title I, §1022(b), Dec. 18, 1991, 105 Stat. 1951; Pub. L. 102–302, §101, June 22, 1992, 106 Stat. 252; Pub. L. 105–178, title I, §§1113(b), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 151, 193; Pub. L. 112–141, div. A, title I, §1107, July 6, 2012, 126 Stat. 437; Pub. L. 114–94, div. A, title I, §1107, Dec. 4, 2015, 129 Stat. 1337.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 901; Pub. L. 86–342, title I, §107(a), Sept. 21, 1959, 73 Stat. 612; Pub. L. 89–574, §9(b), (c), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §27(a), Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §109(a), Dec. 31, 1970, 84 Stat. 1718; Pub. L. 92–361, Aug. 3, 1972, 86 Stat. 503; Pub. L. 94–280, title I, §119, May 5, 1976, 90 Stat. 437; Pub. L. 95–599, title I, §119, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 96–106, §19, Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–424, title I, §153(a), (c), (d), (h), Jan. 6, 1983, 96 Stat. 2132, 2133; Pub. L. 99–190, §101(e) \[title III, §334\], Dec. 19, 1985, 99 Stat. 1267, 1290; Pub. L. 99–272, title IV, §4103, Apr. 7, 1986, 100 Stat. 114; Pub. L. 100–17, title I, §§118(a)(1), (b)(1), (2), 133(b)(9), Apr. 2, 1987, 101 Stat. 156, 171; Pub. L. 100–707, §109(k), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 102–240, title I, §1022(b), Dec. 18, 1991, 105 Stat. 1951; Pub. L. 102–302, §101, June 22, 1992, 106 Stat. 252; Pub. L. 105–178, title I, §§1113(b), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 151, 193; Pub. L. 112–141, div. A, title I, §1107, July 6, 2012, 126 Stat. 437; Pub. L. 114–94, div. A, title I, §1107, Dec. 4, 2015, 129 Stat. 1337; Pub. L. 116–94, div. H, title I, §127, Dec. 20, 2019, 133 Stat. 2953.)
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(1)(A), (3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For completeclassification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(1)(A), (3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (d)(4). Pub. L. 116–94 struck out par. (4). Text read as follows: "The total obligations for projects under this section for any fiscal year in the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall not exceed $20,000,000."
 
 <b>2015</b>—Subsec. (d)(3)(C). Pub. L. 114–94, §1107(a), added subpar. (C).
 
@@ -214,7 +214,7 @@ Subsec. (b). Pub. L. 94–280, §119(b), excepted from the requirement of a conc
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–495 permitted the use of the emergency fund for repair or construction caused by other than natural catastrophes.
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–574, §9(c), raised from $30,000,000 to $50,000,000 the upper limit on allowable annual appropriations to establish and replenish the fund,provided that, if, in any fiscal year the total of all expenditures under this section is less than $50,000,000, the unexpended balance of such amount shall remain available for expenditure during the next two succeeding fiscal years in addition to amount otherwise available, and provided that 60 per centum of the expenditures under this section are authorized to be appropriated from the Highway Trust Fund and the remaining 40 per centum of such expenditures are authorized to be appropriated only from any monies in the Treasury not otherwise appropriated.
+<b>1966</b>—Subsec. (a). Pub. L. 89–574, §9(c), raised from $30,000,000 to $50,000,000 the upper limit on allowable annual appropriations to establish and replenish the fund, provided that, if, in any fiscal year the total of all expenditures under this section is less than $50,000,000, the unexpended balance of such amount shall remain available for expenditure during the next two succeeding fiscal years in addition to amount otherwise available, and provided that 60 per centum of the expenditures under this section are authorized to be appropriated from the Highway Trust Fund and the remaining 40 per centum of such expenditures are authorized to be appropriated only from any monies in the Treasury not otherwise appropriated.
 
 Subsec. (c). Pub. L. 89–574, §9(b), added parkways, public lands highways, public lands development roads, and trails to the list of types of roads the repair or reconstruction of which may be paid for out of the emergency fund.
 

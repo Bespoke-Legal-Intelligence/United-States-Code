@@ -24,7 +24,7 @@ There is hereby authorized to be appropriated such sums as are necessary to enab
 
 Free and reduced price policy statement.—After the initial submission, a local educational agency shall not be required to submit a free and reduced price policy statement to a State educational agency under this chapter unless there is a substantive change in the free and reduced price policy of the local educational agency. A routine change in the policy of a local educational agency, such as an annual adjustment of the income eligibility guidelines for free and reduced price meals, shall not be sufficient cause for requiring the local educational agency to submit a policy statement.
 
-(2)(A) The Secretary shall make additional payments for breakfasts served to children qualifying for a free or reduced price meal at schools that are in severe need.
+(2)(A) The Secretary shall make additional payments for breakfasts served to childrenqualifying for a free or reduced price meal at schools that are in severe need.
 
 (B) The maximum payment for each such free breakfast shall be the higher of—
 
@@ -60,13 +60,13 @@ Funds apportioned and paid to any State for the purpose of this section shall be
 
 #### (e) Nutritional requirements; service free or at reduced price; compliance assistance
 
-(1)(A) Breakfasts served by schools participating in the school breakfast program under this section shall consist of a combination of foods and shall meet the minimum nutritional requirements prescribed by the Secretary on the basis of tested nutritional research, except that the minimum nutritional requirements shall be measured by not less than the weekly average of the nutrient content of school breakfasts. Such breakfasts shall be served free or at a reduced price to children in school under the same terms and conditions as are set forth with respect tothe service of lunches free or at a reduced price in section 1758 of this title.
+(1)(A) Breakfasts served by schools participating in the school breakfast program under this section shall consist of a combination of foods and shall meet the minimum nutritional requirements prescribed by the Secretary on the basis of tested nutritional research, except that the minimum nutritional requirements shall be measured by not less than the weekly average of the nutrient content of school breakfasts. Such breakfasts shall be served free or at a reduced price to children in school under the same terms and conditions as are set forth with respect to the service of lunches free or at a reduced price in section 1758 of this title.
 
 (B) The Secretary shall provide through State educational agencies technical assistance and training, including technical assistance and training in the preparation of foods high in complex carbohydrates and lower-fat versions of foods commonly used in the school breakfast program established under this section, to schools participating in the school breakfast program to assist the schools in complying with the nutritional requirements prescribed by the Secretary pursuant to subparagraph (A) and in providing appropriate meals to children with medically certified special dietary needs.
 
 (2) At the option of a local school food authority, a student in a school under the authority that participates in the school breakfast program under this chapter may be allowed to refuse not more than one item of a breakfast that the student does not intend to consume. A refusal of an offered food item shall not affect the full charge to the student for a breakfast meeting the requirements of this section or the amount of payments made under this chapter to a school for the breakfast.
 
-(Pub. L. 89–642, §4, Oct. 11, 1966, 80 Stat. 886; Pub. L. 90–302, §5, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §§6(d), 10, May 14, 1970, 84 Stat. 210, 214; Pub. L. 92–32, §§2–5, June 30, 1971, 85 Stat. 85; Pub. L. 92–433, §3, Sept. 26, 1972, 86 Stat. 724; Pub. L. 93–150, §4, Nov. 7, 1973, 87 Stat. 562; Pub. L. 94–105, §§2, 3, 15(b), 17(a), Oct. 7, 1975, 89 Stat. 511, 522, 525; Pub. L. 95–166, §12, Nov. 10, 1977, 91 Stat. 1337; Pub. L. 95–561, title XIV, §1408(b)(1), Nov. 1, 1978, 92 Stat. 2368; Pub. L. 95–627, §6(c), Nov. 10, 1978, 92 Stat. 3620; Pub. L. 97–35, title VIII, §§801(c), 817(d), 819(b), Aug. 13, 1981, 95 Stat. 522, 532, 533; Pub. L. 99–500, title III, §§330(a), 331, 372(b)(1), Oct. 18, 1986, 100 Stat. 1783–363, 1783–369, and Pub. L. 99–591, title III, §§330(a), 331, 372(b)(1), Oct. 30, 1986, 100 Stat. 3341–366, 3341–372; Pub. L. 99–661, div. D, title II, §§4210(a), 4211, title V, §4502(b)(1), Nov. 14, 1986, 100 Stat. 4074, 4080; Pub. L. 100–435, title II, §210, Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–147, title I, §121, title II, §212(a)(1), (2)(A), (b), title III, §322, Nov. 10, 1989, 103 Stat. 891, 912, 916; Pub. L. 103–448, title II, §201, Nov. 2, 1994, 108 Stat. 4734; Pub. L. 104–193, title VII, §§722–723(b)(1), Aug. 22, 1996, 110 Stat. 2301, 2302; Pub. L. 105–336, title I, §103(b)(2), title II, §201, Oct. 31, 1998, 112 Stat. 3146, 3158; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 108–265, title I, §108(c), title II, §201, June 30, 2004, 118 Stat. 746, 768.)
+(Pub. L. 89–642, §4, Oct. 11, 1966, 80 Stat. 886; Pub. L. 90–302, §5, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §§6(d), 10, May 14, 1970, 84 Stat. 210, 214; Pub. L. 92–32, §§2–5, June 30, 1971, 85 Stat. 85; Pub. L. 92–433, §3, Sept. 26, 1972, 86 Stat. 724;Pub. L. 93–150, §4, Nov. 7, 1973, 87 Stat. 562; Pub. L. 94–105, §§2, 3, 15(b), 17(a), Oct. 7, 1975, 89 Stat. 511, 522, 525; Pub. L. 95–166, §12, Nov. 10, 1977, 91 Stat. 1337; Pub. L. 95–561, title XIV, §1408(b)(1), Nov. 1, 1978, 92 Stat. 2368; Pub. L. 95–627, §6(c), Nov. 10, 1978, 92 Stat. 3620; Pub. L. 97–35, title VIII, §§801(c), 817(d), 819(b), Aug. 13, 1981, 95 Stat. 522, 532, 533; Pub. L. 99–500, title III, §§330(a), 331, 372(b)(1), Oct. 18, 1986, 100 Stat. 1783–363, 1783–369, and Pub. L. 99–591, title III, §§330(a), 331, 372(b)(1), Oct. 30, 1986, 100 Stat. 3341–366, 3341–372; Pub. L. 99–661, div. D, title II, §§4210(a), 4211, title V, §4502(b)(1), Nov. 14, 1986, 100 Stat. 4074, 4080; Pub. L. 100–435, title II, §210, Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–147, title I, §121, title II, §212(a)(1), (2)(A), (b), title III, §322, Nov. 10, 1989, 103 Stat. 891, 912, 916; Pub. L. 103–448, title II, §201, Nov. 2, 1994, 108 Stat. 4734; Pub. L. 104–193, title VII, §§722–723(b)(1), Aug. 22, 1996, 110 Stat. 2301, 2302; Pub. L. 105–336, title I, §103(b)(2), title II, §201, Oct. 31, 1998, 112 Stat. 3146, 3158; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 108–265, title I, §108(c), title II, §201, June 30, 2004, 118 Stat. 746, 768.)
 
 #### Codification
 
@@ -110,7 +110,7 @@ Subsec. (b)(3) to (5). Pub. L. 101–147, §212(a)(1), (2)(A), amended subsec. (
 
 Subsec. (d)(1)(B). Pub. L. 101–147, §322(1), substituted "reduced price" for "reduced-price".
 
-Subsec. (f). Pub. L. 101–147, §121(2), inserted "Expansion of program" as heading, designated existing provisions as par. (1), struck out at end "Within 4 months after October 7, 1975, the Secretary shall report to thecommittees of jurisdiction in the Congress his plans and those of the cooperating State agencies to bring about the needed expansion in the school breakfast program.", and added par. (2).
+Subsec. (f). Pub. L. 101–147, §121(2), inserted "Expansion of program" as heading, designated existing provisions as par. (1), struck out at end "Within 4 months after October 7, 1975, the Secretary shall report to the committees of jurisdiction in the Congress his plans and those of the cooperating State agencies to bring about the needed expansion in the school breakfast program.", and added par. (2).
 
 Subsec. (g). Pub. L. 101–147, §121(3), added subsec. (g).
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–147, title II, §212(a)(2)(B), Nov. 10, 1989, 103 Stat. 912, provided that: "The amendments made by subparagraph (A) \[amending this section\] shall take effect as if such amendments had been effective on July 1, 1989."
+Pub. L. 101–147, title II, §212(a)(2)(B), Nov. 10, 1989, 103 Stat. 912, provided that: "The amendments made bysubparagraph (A) \[amending this section\] shall take effect as if such amendments had been effective on July 1, 1989."
 
 #### Effective Date of 1988 Amendment
 
@@ -244,7 +244,7 @@ Pub. L. 92–153, §3, Nov. 5, 1971, 85 Stat. 420, provided that the Secretary o
 
 #### Transfer of Funds to Schools in Need of Additional Assistance in School Breakfast Program
 
-Pub. L. 92–153, §7, Nov. 5, 1971, 85 Stat. 420, provided that: "In addition to any other authority given to the Secretary he is hereby authorized to transfer fundsfrom section 32 of the Act of August 24, 1935 \[section 612c of Title 7, Agriculture\], for the purpose of assisting schools which demonstrate a need for additional funds in the school breakfast program."
+Pub. L. 92–153, §7, Nov. 5, 1971, 85 Stat. 420, provided that: "In addition to any other authority given to the Secretary he is hereby authorized to transfer funds from section 32 of the Act of August 24, 1935 \[section 612c of Title 7, Agriculture\], for the purpose of assisting schools which demonstrate a need for additional funds in the school breakfast program."
 
 #### Direct Distribution Programs for Diet of Needy Children Suffering From General and Continued Hunger; Additional Funds
 

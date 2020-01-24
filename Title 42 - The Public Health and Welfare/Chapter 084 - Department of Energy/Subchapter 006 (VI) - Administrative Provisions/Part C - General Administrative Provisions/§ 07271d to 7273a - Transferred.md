@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 7271d, Pub. L. 107–314, div. C, title XXXI, §3143, Dec. 2, 2002, 116 Stat. 2733, which related to requirements for specific funding requests for new or modified nuclear weapons, was renumbered section 4209 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(10), Nov. 24, 2003, 117 Stat. 1759, and is classified to section 2529 of Title 50, War and National Defense.
+Section 7271d, Pub. L. 107–314, div. C, title XXXI, §3143, Dec. 2, 2002, 116 Stat. 2733, which related to requirements for specific funding requests for new or modified nuclear weapons, was renumbered section 4209 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136,div. C, title XXXI, §3141(e)(10), Nov. 24, 2003, 117 Stat. 1759, and is classified to section 2529 of Title 50, War and National Defense.
 
 Section 7272, Pub. L. 96–540, title II, §210, Dec. 17, 1980, 94 Stat. 3202, which prohibited the use of funds for purposes related to the licensing of defense activities or facilities of the Department of Energy by the Nuclear Regulatory Commission, was renumbered section 4103 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(d)(4)(A)–(C)(ii), Nov. 24, 2003, 117 Stat. 1757, and is classified to section 2513 of Title 50, War and National Defense.
 

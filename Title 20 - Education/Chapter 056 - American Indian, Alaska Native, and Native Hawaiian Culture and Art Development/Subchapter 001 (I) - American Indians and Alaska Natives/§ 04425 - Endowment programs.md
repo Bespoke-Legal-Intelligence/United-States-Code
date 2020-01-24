@@ -14,7 +14,7 @@
 
 &emsp;(ii) for the reservation for the sole use of the Institute of any noncash, in-kind contributions of real or personal property, which property may at any time be converted to cash, which shall be deposited as a capital contribution into the trust fund referred to in subparagraph (A).
 
-(C) If at any time the Institute withdraws any capital contribution (as described in subparagraph (B)(i)) made by the Institute to the trustfund referred to in subparagraph (A) or puts any property (as described in subparagraph (B)(ii)) to a use which is not for the sole benefit of the Institute, an amount equal to the value of the Federal contribution shall be withdrawn from such trust fund and returned to the Treasury as miscellaneous receipts.
+(C) If at any time the Institute withdraws any capital contribution (as described in subparagraph (B)(i)) made by the Institute to the trust fund referred to in subparagraph (A) or puts any property (as described in subparagraph (B)(ii)) to a use which is not for the sole benefit of the Institute, an amount equal to the value of the Federal contribution shall be withdrawn from such trust fund and returned to the Treasury as miscellaneous receipts.
 
 (2) Interest deposited into the trust fund pursuant to paragraph (1)(B)(ii) may be periodically withdrawn and used, at the direction of the Board or its designee, to defray any expense associated with the operation of the Institute, including the expense of operations and maintenance, administration, academic and support personnel, community and student services programs, and technical assistance.
 

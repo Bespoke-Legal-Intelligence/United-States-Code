@@ -30,7 +30,7 @@
 
 &emsp;(F) the ability of the Secretary to fulfill contractual commitments of the Department under this chapter to accept spent nuclear fuel for disposal; and
 
-&emsp;(G) economic factors, including the impact on the costs likely to be imposed on ratepayers of the Nation's electric utilities for temporary at-reactor storage of spent nuclear fuel prior to final disposal in a repository, as well as the costs likely to be imposed on ratepayers of the Nation's electric utilities in building and operating such a facility.
+&emsp;(G) economic factors, including the impact on the costs likely to be imposed on ratepayers of the Nation's electric utilities fortemporary at-reactor storage of spent nuclear fuel prior to final disposal in a repository, as well as the costs likely to be imposed on ratepayers of the Nation's electric utilities in building and operating such a facility.
 
 (3) The report under this subsection, together with the recommendation of the MRS Commission, shall be transmitted to Congress on November 1, 1989.
 

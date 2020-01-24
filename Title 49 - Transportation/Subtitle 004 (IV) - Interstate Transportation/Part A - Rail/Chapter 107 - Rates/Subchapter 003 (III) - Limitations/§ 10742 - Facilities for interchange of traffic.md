@@ -1,6 +1,6 @@
 ### §10742. Facilities for interchange of traffic
 
-A rail carrier providing transportation subject to the jurisdiction of the Board under this part shall provide reasonable, proper, and equal facilities that are within its power to provide for the interchange of traffic between, and for the receiving, forwarding, and delivering of passengers and property to and from, its respective line and a connecting line of another rail carrier or of a water carrier providing transportation subject to chapter 137.
+A rail carrier providing transportation subject to the jurisdiction of the Board under this part shall provide reasonable, proper, and equal facilities that are within its power to provide for the interchange of traffic between, and for the receiving, forwarding, and delivering of passengers and property to and from, its respectiveline and a connecting line of another rail carrier or of a water carrier providing transportation subject to chapter 137.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 819.)
 

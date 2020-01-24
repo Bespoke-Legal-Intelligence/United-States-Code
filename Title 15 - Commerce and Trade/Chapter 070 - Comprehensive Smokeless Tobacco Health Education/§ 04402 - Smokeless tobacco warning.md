@@ -78,7 +78,7 @@ The Secretary may, by a rulemaking conducted under section 553 of title 5, adjus
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(4) and (d), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(4) and (d), is act June 25, 1938, ch. 675,52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 #### Amendments
 

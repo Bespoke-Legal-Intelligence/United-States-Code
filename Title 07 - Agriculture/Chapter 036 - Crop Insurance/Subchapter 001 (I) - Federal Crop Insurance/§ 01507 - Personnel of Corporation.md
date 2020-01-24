@@ -88,7 +88,7 @@ Subsec. (g). Pub. L. 115–334, §11105(a), inserted subsec. and par. (1) headin
 
 <b>2008</b>—Subsecs. (b) to (f). Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter" wherever appearing.
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–224, in cl. (2), substituted "actuarial services, services relating to lossadjustment and rating plans of insurance," for "actuarial, loss adjustment," and inserted "and to enable the Corporation to concentrate on regulating the provision of insurance under this chapter and evaluating new products and materials submitted under section 1508(h) or 1523 of this title" after "private sector".
+<b>2000</b>—Subsec. (c). Pub. L. 106–224, in cl. (2), substituted "actuarial services, services relating to loss adjustment and rating plans of insurance," for "actuarial, loss adjustment," and inserted "and to enable the Corporation to concentrate on regulating the provision of insurance under this chapter and evaluating new products and materials submitted under section 1508(h) or 1523 of this title" after "private sector".
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–354, §§105(1), 115(b)(1), substituted "as the Secretary may determine appropriate. However," for "as he may determine: <i>Provided</i>, That" and struck out ", and county crop insurance committeemen" before "may be appointed".
 

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Hazard tree
 
-&emsp;The term "hazard tree" means any tree or part thereof (whether located inside or outside a right-of-way) that has been designated, prior to tree failure, by a certified or licensed arborist or forester under the supervision of the Secretary concerned or the owner or operator of a transmission or distribution facility to be—
+&emsp;The term "hazard tree" means any tree or part thereof (whether located inside or outsidea right-of-way) that has been designated, prior to tree failure, by a certified or licensed arborist or forester under the supervision of the Secretary concerned or the owner or operator of a transmission or distribution facility to be—
 
 &emsp;&emsp;(A) dead, likely to die within the routine vegetation management cycle, or likely to fail within the routine vegetation management cycle; and
 
@@ -176,7 +176,7 @@ If vegetation or hazard trees have contacted or present an imminent danger of co
 
 #### (3) Authorized activities
 
-&emsp;The owner or operator of an electric transmission or distribution facility may conduct vegetation management activities that require approval of the Secretary concerned in accordance with a plan approved under subsection (c) or an agreement entered into under subsection (d) without the approval of the Secretary concerned if—
+&emsp;The owner or operator of an electric transmission or distribution facility may conduct vegetation management activities that require approval of the Secretary concerned in accordance with a plan approved under subsection (c) or an agreement entered into undersubsection (d) without the approval of the Secretary concerned if—
 
 &emsp;&emsp;(A) the owner or operator submitted a request to the Secretary concerned in accordance with the applicable schedule in a plan approved under subsection (c) or an agreement entered into under subsection (d);
 
@@ -438,7 +438,7 @@ Limitation.—Except as provided in clause (iii), the costs borne by a participa
 
 &emsp;&emsp;&emsp;"(iii)
 
-Failure to comply.—If the start or spread of a wildfire described in clause (i) is caused by the failure of the participant to comply with specific safety requirements expressly imposed by the Forest Service as a condition of conducting a vegetation management project under the pilot program or by this section, the participant shall bear the cost of damages to Forest Service resources and the fire suppression costs resulting from the wildfire.
+Failure to comply.—If the start or spread of a wildfire described in clause (i) is caused by the failure of the participant to comply with specific safety requirements expressly imposed bythe Forest Service as a condition of conducting a vegetation management project under the pilot program or by this section, the participant shall bear the cost of damages to Forest Service resources and the fire suppression costs resulting from the wildfire.
 
 &emsp;&emsp;"(C)
 

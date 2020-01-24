@@ -30,7 +30,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "covered project" means any activity in the United States that requires authorization or environmental review by aFederal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, or any other sector as determined by a majority vote of the Council that—
+&emsp;&emsp;The term "covered project" means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, or any other sector as determined by a majority vote of the Council that—
 
 &emsp;&emsp;&emsp;(i)(I) is subject to NEPA;
 
@@ -118,13 +118,13 @@ The National Environmental Policy Act of 1969 or NEPA, referred to in pars. (6)(
 
 #### Codification
 
-Section was enacted as part of the Fixing America's Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+Section was enacted as part of the Fixing America's Surface Transportation Act, also known as the FASTAct, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 
 #### Savings Clause
 
 Pub. L. 114–94, div. A, title XI, §11503(b), Dec. 4, 2015, 129 Stat. 1692, provided that: "Except as expressly provided in section 41003(f) \[42 U.S.C. 4370m–2(f)\] and subsection (o) of section 139 of title 23, United States Code, the requirements and other provisions of title 41 of this Act \[probably means title XLI of div. D of Pub. L. 114–94, 42 U.S.C. 4370m et seq.\] shall not apply to—
 
-&emsp;"(1) programs administered now and in the future by the Department of Transportation or its operating administrations under title 23, 46, or 49, United States Code, including direct loan and loan guarantee programs, or other Federal statutes or programs orprojects administered by an agency pursuant to their authority under title 49, United States Code; or
+&emsp;"(1) programs administered now and in the future by the Department of Transportation or its operating administrations under title 23, 46, or 49, United States Code, including direct loan and loan guarantee programs, or other Federal statutes or programs or projects administered by an agency pursuant to their authority under title 49, United States Code; or
 
 &emsp;"(2) any project subject to section 2045 of the Water Resources Development Act of 2007 (33 U.S.C. 2348)."
 
@@ -178,7 +178,7 @@ Sec. 2. <i>Policy</i>. It is the policy of the Federal Government to:
 
 (e) be good stewards of public funds, including those used to develop infrastructure projects, and avoid duplicative and wasteful processes;
 
-(f) conduct environmental reviews and authorization processes in a coordinated, consistent, predictable, and timely manner in order to give public and private investors the confidence necessary to make funding decisions for new infrastructure projects;
+(f) conduct environmental reviews and authorization processes in a coordinated, consistent, predictable, andtimely manner in order to give public and private investors the confidence necessary to make funding decisions for new infrastructure projects;
 
 (g) speak with a coordinated voice when conducting environmental reviews and making authorization decisions; and
 
@@ -236,7 +236,7 @@ Sec. 4. <i>Agency Performance Accountability</i>. Federal agencies should follow
 
 &emsp;(D) the Director of OMB will consider each agency's performance during budget formulation and determine whether appropriate penalties, including those authorized at 23 U.S.C. 139(h)(7) and 33 U.S.C. 2348(h)(5), must or should be imposed, to the extent required or permitted by law, for those that significantly fail to meet a permitting timetable milestone or in other situations deemed appropriate by the Director of OMB after considering the causes of any poor performance.
 
-(iii) <i>Best Practices</i>. Agencies shall implement the techniques and strategies the FPISC annually identifies as best practices pursuant to 42 U.S.C. 4370m–1(c)(2)(B), as appropriate. The performance accountability system shall track and score agencies on the incorporation and implementation of appropriate best practices for all infrastructure projects, includingthe implementation of such best practices at an agency's field level.
+(iii) <i>Best Practices</i>. Agencies shall implement the techniques and strategies the FPISC annually identifies as best practices pursuant to 42 U.S.C. 4370m–1(c)(2)(B), as appropriate. The performance accountability system shall track and score agencies on the incorporation and implementation of appropriate best practices for all infrastructure projects, including the implementation of such best practices at an agency's field level.
 
 Sec. 5. <i>Process Enhancements</i>. In furtherance of the policy described in section 2 of this order, Federal agencies shall follow a more unified environmental review and authorization process.
 

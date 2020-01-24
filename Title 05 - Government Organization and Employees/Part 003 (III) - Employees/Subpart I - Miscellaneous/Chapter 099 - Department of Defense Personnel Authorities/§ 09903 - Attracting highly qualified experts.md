@@ -8,7 +8,7 @@ In General.—The Secretary may carry out a program using the authority provided
 
 Authority.—Under the program, the Secretary may—
 
-&emsp;(1) appoint personnel from outside the civil service and uniformed services (as such terms are defined in section 2101) to positions in the Department of Defense without regard to any provision of this title governing the appointment of employees to positions in the Department of Defense;
+&emsp;(1) appoint personnel from outside the civil service and uniformed services (as such termsare defined in section 2101) to positions in the Department of Defense without regard to any provision of this title governing the appointment of employees to positions in the Department of Defense;
 
 &emsp;(2) prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1) at rates not in excess of the maximum rate of basic pay authorized for senior-level positions under section 5376, as increased by locality-based comparability payments under section 5304, notwithstanding any provision of this title governing the rates of pay or classification of employees in the executive branch; and
 
@@ -88,7 +88,7 @@ Requirement to Disclose Names of Senior Mentors.—The Secretary of Defense shal
 
 "(b)
 
-Senior Mentor Defined.—In this section, the term 'senior mentor' has the meaning provided in the memorandum from the Secretary of Defense relating to policy on senior mentors, dated April 1, 2010."
+Senior Mentor Defined.—In this section, the term 'senior mentor' has the meaning provided in thememorandum from the Secretary of Defense relating to policy on senior mentors, dated April 1, 2010."
 
 #### Requirements for Department of Defense Senior Mentors
 

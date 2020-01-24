@@ -46,7 +46,7 @@ Act Sept. 7, 1950, ch. 907, §14, 64 Stat. 780, provided: "This Act \[this chapt
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–81, title II, §201, Nov. 5, 2015, 129 Stat. 660, provided that: "This title \[amending sections 951 to 953,955, 957, 959, and 962 of this title and repealing chapter 16B of this title and provisions set out as a note under section 972 of this title\] may be cited as the 'Antigua Convention Implementing Act of 2015'."
+Pub. L. 114–81, title II, §201, Nov. 5, 2015, 129 Stat. 660, provided that: "This title \[amending sections 951 to 953, 955, 957, 959, and 962 of this title and repealing chapter 16B of this title and provisions set out as a note under section 972 of this title\] may be cited as the 'Antigua Convention Implementing Act of 2015'."
 
 #### Short Title
 

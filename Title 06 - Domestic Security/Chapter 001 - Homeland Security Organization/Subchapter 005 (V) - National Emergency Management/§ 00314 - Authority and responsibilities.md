@@ -150,7 +150,7 @@ Sec. 3. <i>Functions of Council</i>. (a) The Council shall:
 
 &emsp;(i) the achievements of the Council in implementing the policy set forth in section 1;
 
-&emsp;(ii) the best practices among Federal, State, local, and tribal governments and private organizations andindividuals for emergency preparedness planning with respect to individuals with disabilities; and
+&emsp;(ii) the best practices among Federal, State, local, and tribal governments and private organizations and individuals for emergency preparedness planning with respect to individuals with disabilities; and
 
 &emsp;(iii) recommendations of the Council for advancing the policy set forth in section 1.
 

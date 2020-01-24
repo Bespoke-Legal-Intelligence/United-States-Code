@@ -30,7 +30,7 @@ The items referred to in subsection (a) are:
 
 &emsp;&emsp;(A) The taxable year of the acquiring corporation to which the net operating loss carryovers of the distributor or transferor corporation are first carried shall be the first taxable year ending after the date of distribution or transfer.
 
-&emsp;&emsp;(B) In determining the net operating loss deduction, the portion of such deduction attributable to the net operating loss carryovers of the distributor or transferor corporation to the first taxable year of the acquiring corporation ending after the date of distribution or transfer shall be limited to an amount which bears the same ratio to the taxable income (determined without regard to a net operating loss deduction) of the acquiring corporation in such taxable year as the number of days in the taxable year after the date of distribution or transfer bears to the total number of days in the taxable year.
+&emsp;&emsp;(B) In determining the net operating loss deduction, the portion of such deduction attributable to the net operating loss carryovers of the distributor or transferor corporation to the first taxable year of the acquiring corporation ending after the date of distribution or transfer shall be limited to an amount which bears the same ratio to the taxable income (determined without regard to a net operating loss deduction) of the acquiring corporation in such taxable year as the number of days in the taxable year afterthe date of distribution or transfer bears to the total number of days in the taxable year.
 
 &emsp;&emsp;(C) For the purpose of determining the amount of the net operating loss carryovers under section 172(b)(2), a net operating loss for a taxable year (hereinafter in this subparagraph referred to as the "loss year") of a distributor or transferor corporation which ends on or before the end of a loss year of the acquiring corporation shall be considered to be a net operating loss for a year prior to such loss year of the acquiring corporation. For the same purpose, the taxable income for a "prior taxable year" (as the term is used in section 172(b)(2)) shall be computed as provided in such section; except that, if the date of distribution or transfer is on a day other than the last day of a taxable year of the acquiring corporation—
 
@@ -66,7 +66,7 @@ The items referred to in subsection (a) are:
 
 #### (4) Method of accounting
 
-&emsp;The acquiring corporation shall use the method of accounting used by the distributor or transferor corporation on the date of distribution or transfer unless different methods were used by several distributor or transferor corporations or by a distributor or transferor corporation and the acquiring corporation. Ifdifferent methods were used, the acquiring corporation shall use the method or combination of methods of computing taxable income adopted pursuant to regulations prescribed by the Secretary.
+&emsp;The acquiring corporation shall use the method of accounting used by the distributor or transferor corporation on the date of distribution or transfer unless different methods were used by several distributor or transferor corporations or by a distributor or transferor corporation and the acquiring corporation. If different methods were used, the acquiring corporation shall use the method or combination of methods of computing taxable income adopted pursuant to regulations prescribed by the Secretary.
 
 #### (5) Inventories
 
@@ -132,7 +132,7 @@ The items referred to in subsection (a) are:
 
 #### (20) Carryforward of disallowed business interest
 
-&emsp;The carryover of disallowed business interest described in section 163(j)(2) to taxable years ending after the date of distribution or transfer.
+&emsp;The carryover of disallowed business interest described in section 163(j)(2) to taxableyears ending after the date of distribution or transfer.
 
 #### \[(21) Repealed. Pub. L. 94–455, title XIX, §1901(b)(16), Oct. 4, 1976, 90 Stat. 1796\]
 
@@ -258,7 +258,7 @@ Subsec. (c)(25). Pub. L. 94–455, §1601(e), added par. (25).
 
 Subsec. (c)(6). Pub. L. 91–172, §521(f), substituted "subsections (b), (j) and (k) of section 167" for "paragraphs (2), (3) and (4) of section 167(b)" and inserted reference to adjusted basis in the hand of the distributor or transferor corporation.
 
-Subsec. (c)(10). Pub. L. 91–172, §504(c)(2), substituted "Treatment of certain mining exploration and development expenses of distributor or transferor corporation" for "Treatment of certain expenses deferred by the election of distributor or transferor corporation" in heading, limited deduction of expenses deferred under sections 615 and 616 of this title by the acquiring corporation as if it were the distributor or transferor corporation to pre-1970 exploration and development expenditures, and inserted provision that if distributor or transferor corporation, for any taxable year, was allowed the deduction in sections 615(a) or 617(a) of this title or made the election provided in section 615(b) of this title, acquiring corporation shall be deemed to have been allowed such deduction or deductions or to have made such election, as the case may be, for the purpose of applying the limitation provided in section 617 of this title.
+Subsec. (c)(10). Pub. L. 91–172, §504(c)(2), substituted "Treatment of certain mining exploration and development expenses of distributor or transferor corporation" for "Treatment of certain expenses deferred by the election of distributor or transferor corporation" in heading, limited deduction of expenses deferred under sections 615 and 616 of this title by the acquiring corporation as if it were the distributor or transferor corporation to pre-1970 exploration and development expenditures, and inserted provision that if distributor or transferor corporation, for any taxable year, was allowed the deduction in sections 615(a) or 617(a) of this title or made the election provided in section 615(b) of this title, acquiring corporation shall be deemed to have been allowed such deduction or deductions or tohave made such election, as the case may be, for the purpose of applying the limitation provided in section 617 of this title.
 
 <b>1968</b>—Subsec. (c)(22). Pub. L. 90–240 substituted successor insurance companies for successor life insurance companies as the business enterprise covered, substituted reference to insurance companies taxable under subchapter L for reference to life insurance companies as defined in section 801(a), and substituted reference to the purposes of this section and of subchapter L for reference to the purposes of this section and part I of subchapter L.
 
@@ -330,7 +330,7 @@ Amendment by section 331(d)(1)(B) of Pub. L. 97–34 applicable to taxable years
 
 #### Effective Date of 1980 Amendments
 
-Amendment by Pub. L. 96–589 applicable to bankruptcy cases or similar judicial proceeding commencingafter Dec. 31, 1980, with exception permitting the debtor to make the amendment applicable to such cases or proceeding commencing after Sept. 30, 1979, see section 7(c)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 applicable to bankruptcy cases or similar judicial proceeding commencing after Dec. 31, 1980, with exception permitting the debtor to make the amendment applicable to such cases or proceeding commencing after Sept. 30, 1979, see section 7(c)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 For effective date of amendment by Pub. L. 96–471, see section 6(a)(1) of Pub. L. 96–471, set out as an Effective Date note under section 453 of this title.
 
@@ -338,7 +338,7 @@ Amendment by Pub. L. 96–223 applicable to sales or uses after Sept. 30, 1980, 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of this title) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
+Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of thistitle) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
 
 #### Effective Date of 1977 Amendment
 
@@ -418,7 +418,7 @@ Form of statement, etc.—The statement required by subsection (a) shall be file
 
 &emsp;"(2)
 
-Treatment as amount shown on return.—The amount shown on a statement filed under subsection\(a) as the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act shall, for all purposes of the internal revenue laws, be treated as tax shown on the return. Notwithstanding the preceding sentence, that portion of the amount of increase in tax for any taxable year which is attributable to a decrease (by reason of the enactment of this Act) in the net operating loss for a succeeding taxable year shall not be treated as tax shown on the return.
+Treatment as amount shown on return.—The amount shown on a statement filed under subsection (a) as the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act shall, for all purposes of the internal revenue laws, be treated as tax shown on the return. Notwithstanding the preceding sentence, that portion of the amount of increase in tax for any taxable year which is attributable to a decrease (by reason of the enactment of this Act) in the net operating loss for a succeeding taxable year shall not be treated as tax shown on the return.
 
 &emsp;"(3)
 

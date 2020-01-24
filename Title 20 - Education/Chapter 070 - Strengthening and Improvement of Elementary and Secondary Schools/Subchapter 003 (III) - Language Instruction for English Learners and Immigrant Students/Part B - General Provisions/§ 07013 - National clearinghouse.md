@@ -32,7 +32,7 @@ Another prior section 3202 of Pub. L. 89–10 was classified to section 6892 of 
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–95, §3004(b)(1), designated existing provisions as subsec. (a) and substituted "English learners" for "limited English proficient children" in introductory provisions.
+<b>2015</b>—Pub. L. 114–95, §3004(b)(1), designated existing provisions as subsec. (a) and substituted "Englishlearners" for "limited English proficient children" in introductory provisions.
 
 Subsec. (a)(4)(A). Pub. L. 114–95, §3004(b)(2)(A), substituted "English learners, including English learners with a disability, that includes information on best practices on instructing and serving English learners" for "limited English proficient children".
 
@@ -44,5 +44,5 @@ Subsec. (b). Pub. L. 114–95, §3004(b)(3), added subsec. (b).
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 114–95, set out as a note under section 6301 of this title.
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 

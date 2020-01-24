@@ -2,7 +2,7 @@
 
 #### (a) Consultation
 
-The Attorney General shall consult with the Secretary of Health and Human Services and any other appropriate officials in carrying out this subchapter.
+The Attorney General shall consult with the Secretary of Health and Human Services andany other appropriate officials in carrying out this subchapter.
 
 #### (b) Use of components
 

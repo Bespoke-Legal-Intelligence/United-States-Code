@@ -16,7 +16,7 @@
 
 &emsp;(A) because of an incapacitating illness or injury which is not due to the employee's own misconduct is entitled to reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and to payments pursuant to subsection (a) of this section until that location is reached; or
 
-&emsp;(B) because of a personal emergency situation (such as serious illness, injury, or death of a member of the employee's family, or an emergency situation such as fire, flood, or act of God), may be allowed, with the approval ofan appropriate official of the agency concerned, reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and payments pursuant to subsection (a) of this section until that location is reached.
+&emsp;(B) because of a personal emergency situation (such as serious illness, injury, or death of a member of the employee's family, or an emergency situation such as fire, flood, or act of God), may be allowed, with the approval of an appropriate official of the agency concerned, reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and payments pursuant to subsection (a) of this section until that location is reached.
 
 (2)(A) Under regulations prescribed pursuant to section 5707 of this title, an employee who is described in subsection (a) of this section and who, with the approval of an appropriate official of the agency concerned, interrupts the travel assignment prior to its completion for a reason specified in subparagraph (A) or (B) of paragraph (1) of this subsection, may be allowed (subject to the limitation provided in subparagraph (B) of this paragraph)—
 
@@ -62,7 +62,7 @@ In subsection (a), the term "employee" is substituted for "civilian officers and
 
 In subsection (b), the words "Under regulations prescribed under section 5707 of this title" are substituted for "in accordance with regulations promulgated and approved under sections 835–842 of this title".
 
-In subsection (c), the words "Under regulations prescribed under section 5707 of this title" are substituted for "in accordance with regulations promulgated by the Director, Bureau of the Budget, pursuant to section 840 of this title."
+In subsection (c), the words "Under regulations prescribed under section 5707 of this title" are substitutedfor "in accordance with regulations promulgated by the Director, Bureau of the Budget, pursuant to section 840 of this title."
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -118,11 +118,15 @@ Authority of President under subsec. (a) of this section to establish maximum ra
 
 #### Retention of Travel Promotional Items
 
-Pub. L. 107–107, div. A, title XI, §1116, Dec. 28, 2001, 115 Stat. 1241, provided that:
+Pub. L. 107–107, div. A, title XI, §1116, Dec. 28, 2001, 115 Stat. 1241, as amended by Pub. L. 116–92, div. A, title VI, §606(c), Dec. 20, 2019, 133 Stat. 1425, provided that:
 
 "(a)
 
-Definition.—In this section, the term 'agency' has the meaning given that term under section 5701 of title 5, United States Code.
+Definitions.—In this section:
+
+&emsp;"(1) The term 'agency' has the meaning given that term under section 5701 of title 5, United States Code.
+
+&emsp;"(2) The term 'general public' includes the Federal Government or an agency.
 
 "(b)
 
@@ -154,7 +158,7 @@ Applicability.—This section shall apply with respect to promotional items rece
 
 #### Cost Savings for Official Travel
 
-Pub. L. 103–355, title VI, §6008, Oct. 13, 1994, 108 Stat. 3367, related to maximizing practicable cost savings forofficial travel through use of frequent traveler programs, prior to repeal by Pub. L. 107–107, div. A, title XI, §1116(e), Dec. 28, 2001, 115 Stat. 1241.
+Pub. L. 103–355, title VI, §6008, Oct. 13, 1994, 108 Stat. 3367, related to maximizing practicable cost savings for official travel through use of frequent traveler programs, prior to repeal by Pub. L. 107–107, div. A, title XI, §1116(e), Dec. 28, 2001, 115 Stat. 1241.
 
 #### Reports to Congress of Per Diem and Mileage Allowance Payments for Fiscal Years 1979
 

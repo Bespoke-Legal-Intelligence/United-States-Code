@@ -24,7 +24,7 @@ Sources.—The sources from which gifts and donations may be accepted under subs
 
 &emsp;(2) The government of a foreign country.
 
-&emsp;(3) A foundation or other charitable organization, including a foundation or charitableorganization this is organized or operates under the laws of a foreign country.
+&emsp;(3) A foundation or other charitable organization, including a foundation or charitable organization this is organized or operates under the laws of a foreign country.
 
 &emsp;(4) Any source in the private sector of the United States or a foreign country.
 
@@ -48,7 +48,7 @@ Crediting of Funds.—Funds accepted by the Secretary under section (a) shall be
 
 Gift or Donation Defined.—In this section, the term "gift or donation" means any gift or donation of funds, materials (including research materials), real or personal property, or services (including lecture services and faculty services).
 
-(Added Pub. L. 106–65, div. A, title IX, §915(a), Oct. 5, 1999, 113 Stat. 721; amended Pub. L. 107–314, div. A, title X, §1041(a)(17), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title IX, §931(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1580, 1581; Pub. L. 108–375, div. A, title X, §1084(f)(2), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 109–163, div. A, title IX, §903(a)(1), Jan. 6, 2006, 119 Stat. 3397; Pub. L. 112–239, div. B, title XXVIII, §2854(b)(2), Jan. 2, 2013, 126 Stat. 2162; Pub. L. 113–291, div. B, title XXVIII, §2861(b)(2), Dec. 19, 2014, 128 Stat. 3716.)
+(Added Pub. L. 106–65, div. A, title IX, §915(a), Oct. 5, 1999, 113 Stat. 721; amended Pub. L.107–314, div. A, title X, §1041(a)(17), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title IX, §931(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1580, 1581; Pub. L. 108–375, div. A, title X, §1084(f)(2), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 109–163, div. A, title IX, §903(a)(1), Jan. 6, 2006, 119 Stat. 3397; Pub. L. 112–239, div. B, title XXVIII, §2854(b)(2), Jan. 2, 2013, 126 Stat. 2162; Pub. L. 113–291, div. B, title XXVIII, §2861(b)(2), Dec. 19, 2014, 128 Stat. 3716.)
 
 #### Amendments
 

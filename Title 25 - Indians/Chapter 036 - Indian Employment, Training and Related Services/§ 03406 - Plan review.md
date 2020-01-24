@@ -42,7 +42,7 @@ In consultation with the Secretary, a participating Indian tribe may request tha
 
 #### (3) Failure to act on request
 
-&emsp;If the head of an affected agency does not make a decision under paragraph (1) by the deadline identified in that paragraph, the request shall be considered to be granted.
+&emsp;If the head of an affected agency does not make a decision under paragraph (1) by thedeadline identified in that paragraph, the request shall be considered to be granted.
 
 #### (f) Secretarial review
 
@@ -84,7 +84,7 @@ Not later than 10 days after the date on which the dispute is resolved under thi
 
 #### Amendments
 
-<b>2017</b>—Pub. L. 115–93 amended section generally. Prior to amendment, text read as follows: "Upon receipt of the plan from a tribal government, the Secretary of the Interior shall consult with the Secretary of each Federal agency providing funds to be used to implement the plan, and with the tribal government submitting the plan. The parties so consulting shall identify any waivers of statutory requirements or of Federal agency regulations, policies, or procedures necessary to enable the tribal government to implement its plan. Notwithstanding any other provision of law, the Secretary of the affected agency shall have the authority to waiveany statutory requirement, regulation, policy, or procedure promulgated by that agency that has been so identified by such tribal government or agency, unless the Secretary of the affected agency determines that such a waiver is inconsistent with the purposes of this chapter or those provisions of the statute from which the program involved derives its authority which are specifically applicable to Indian programs."
+<b>2017</b>—Pub. L. 115–93 amended section generally. Prior to amendment, text read as follows: "Upon receipt of the plan from a tribal government, the Secretary of the Interior shall consult with the Secretary of each Federal agency providing funds to be used to implement the plan, and with the tribal government submitting the plan. The parties so consulting shall identify any waivers of statutory requirements or of Federal agency regulations, policies, or procedures necessary to enable the tribal government to implement its plan. Notwithstanding any other provision of law, the Secretary of the affected agency shall have the authority to waive any statutory requirement, regulation, policy, or procedure promulgated by that agency that has been so identified by such tribal government or agency, unless the Secretary of the affected agency determines that such a waiver is inconsistent with the purposes of this chapter or those provisions of the statute from which the program involved derives its authority which are specifically applicable to Indian programs."
 
 <b>2000</b>—Pub. L. 106–568 substituted "Federal agency" for "Federal department" and "Federal agency regulations" for "Federal departmental regulations", substituted "agency" for "department" wherever appearing, and inserted "statutory requirement," after "to waive any".
 

@@ -22,7 +22,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 (3) A special master's office shall be terminated if the judges of the United States Court of Federal Claims determine, upon advice of the chief special master, that the services performed by that office are no longer needed.
 
-(4) The appointment of any individual as a special master shall be for a term of 4 years, subject to termination under paragraphs (2) and (3). Individuals serving as special masters on December 19, 1989, shall serve for 4 years from the date of their original appointment, subject to termination under paragraphs (2) and (3). The chief special master in office on December 19, 1989, shall continue to serve as chief special master for the balance of the master's term, subject to termination under paragraphs (2) and (3).
+(4) The appointment of any individual as a special master shall be for a term of 4 years, subject to termination under paragraphs (2) and (3). Individuals serving as special masters on December 19, 1989, shall serve for 4 years from the date of their original appointment, subject to termination under paragraphs (2) and (3). Thechief special master in office on December 19, 1989, shall continue to serve as chief special master for the balance of the master's term, subject to termination under paragraphs (2) and (3).
 
 (5) The compensation of the special masters shall be determined by the judges of the United States Court of Federal Claims, upon advice of the chief special master. The salary of the chief special master shall be the annual rate of basic pay for level IV of the Executive Schedule, as prescribed by section 5315, title 5. The salaries of the other special masters shall not exceed the annual rate of basic pay of level V of the Executive Schedule, as prescribed by section 5316, title 5.
 
@@ -80,9 +80,9 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 > There may be no discovery in a proceeding on a petition other than the discovery required by the special master.
 
-(C) In conducting a proceeding on a petition a special master shall suspend the proceedings one time for 30 days on the motion of either party. After a motion for suspension is granted, further motions for suspension by either party may begranted by the special master, if the special master determines the suspension is reasonable and necessary, for an aggregate period not to exceed 150 days.
+(C) In conducting a proceeding on a petition a special master shall suspend the proceedings one time for 30 days on the motion of either party. After a motion for suspension is granted, further motions for suspension by either party may be granted by the special master, if the special master determines the suspension is reasonable and necessary, for an aggregate period not to exceed 150 days.
 
-(D) If, in reviewing proceedings on petitions for vaccine-related injuries or deaths associated with the administration of vaccines before October 1, 1988, the chief special master determines that the number of filings and resultant workload place an undue burden on the parties or the special master involved in such proceedings, the chief special master may, in the interest of justice, suspend proceedings on any petition for up to 30 months (but for not more than 6 months at a time) in addition to the suspension time under subparagraph (C).
+(D) If, in reviewing proceedings on petitions for vaccine-related injuries or deaths associated with the administration of vaccines before October 1, 1988, the chief special master determines that the number of filings and resultant workload place an undue burden on the parties or thespecial master involved in such proceedings, the chief special master may, in the interest of justice, suspend proceedings on any petition for up to 30 months (but for not more than 6 months at a time) in addition to the suspension time under subparagraph (C).
 
 (4)(A) Except as provided in subparagraph (B), information submitted to a special master or the court in a proceeding on a petition may not be disclosed to a person who is not a party to the proceeding without the express written consent of the person who submitted the information.
 
@@ -220,11 +220,11 @@ Amendment by Pub. L. 101–502 effective Sept. 30, 1990, see section 5(h) of Pub
 
 #### Effective Date of 1989 Amendment
 
-For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediatesuspension for 30 days of all pending cases, except that such suspension be excluded in determining the 240-day period prescribed in subsec. (d) of this section, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, except that such suspension be excluded in determining the 240-day period prescribed in subsec. (d) of this section, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, seesection 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Termination of Reporting Requirements
 

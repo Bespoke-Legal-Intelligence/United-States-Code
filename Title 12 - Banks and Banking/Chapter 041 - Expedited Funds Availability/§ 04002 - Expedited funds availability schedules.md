@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(i) is deposited in a receiving depository institution which is staffed by individuals employed by such institution;
 
-&emsp;&emsp;&emsp;(ii) is deposited with a special deposit slip which indicates it is a cashier's check, certified check, teller's check, or depository check, as the case may be; and
+&emsp;&emsp;&emsp;(ii) is deposited with a special deposit slip which indicates it is a cashier's check,certified check, teller's check, or depository check, as the case may be; and
 
 &emsp;&emsp;&emsp;(iii) is endorsed only by the person to whom it was issued.
 
@@ -80,7 +80,7 @@
 
 #### (4) Applicability
 
-&emsp;This subsection shall apply with respect to funds deposited by check in an account at a depository institution on or after September 1, 1990, except that the Board may, by regulation, make this subsection or any part of thissubsection applicable earlier than September 1, 1990.
+&emsp;This subsection shall apply with respect to funds deposited by check in an account at a depository institution on or after September 1, 1990, except that the Board may, by regulation, make this subsection or any part of this subsection applicable earlier than September 1, 1990.
 
 #### (c) Temporary schedule
 

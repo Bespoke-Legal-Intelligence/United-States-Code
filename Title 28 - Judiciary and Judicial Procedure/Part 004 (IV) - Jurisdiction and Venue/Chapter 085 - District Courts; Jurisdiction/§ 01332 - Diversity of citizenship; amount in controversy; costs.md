@@ -112,7 +112,7 @@
 
 &emsp;(IV) the claims have been consolidated or coordinated solely for pretrial proceedings.
 
-(C)(i) Any action(s) removed to Federal court pursuant to this subsection shall not thereafterbe transferred to any other court pursuant to section 1407, or the rules promulgated thereunder, unless a majority of the plaintiffs in the action request transfer pursuant to section 1407.
+(C)(i) Any action(s) removed to Federal court pursuant to this subsection shall not thereafter be transferred to any other court pursuant to section 1407, or the rules promulgated thereunder, unless a majority of the plaintiffs in the action request transfer pursuant to section 1407.
 
 (ii) This subparagraph will not apply—
 
@@ -335,7 +335,7 @@ Rule 23 of the Federal Rules of Civil Procedure, referred to in subsec. (d)(1)(B
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–63, §101(1), struck out concluding provisions which read as follows: "For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled."
+<b>2011</b>—Subsec. (a). Pub. L. 112–63, §101(1), struck out concluding provisions which read as follows: "For thepurposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled."
 
 Subsec. (a)(2). Pub. L. 112–63, §101(2), inserted before semicolon at end ", except that the district courts shall not have original jurisdiction under this subsection of an action between citizens of a State and citizens or subjects of a foreign state who are lawfully admitted for permanent residence in the United States and are domiciled in the same State".
 

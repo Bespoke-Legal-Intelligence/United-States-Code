@@ -10,7 +10,7 @@ Inquiries Involving More Than One Missing Person.—If it appears to the Secreta
 
 (c)
 
-Composition.—(1) A board appointed under this section to inquire into the whereabouts and status of a person shall consist of at least one individual described in paragraph (2) who has experience with and understanding of military operations or activities similar to the operation or activity in which the person disappeared.
+Composition.—(1) A board appointed under this section to inquire into the whereabouts andstatus of a person shall consist of at least one individual described in paragraph (2) who has experience with and understanding of military operations or activities similar to the operation or activity in which the person disappeared.
 
 (2) An individual referred to in paragraph (1) is the following:
 
@@ -20,7 +20,7 @@ Composition.—(1) A board appointed under this section to inquire into the wher
 
 (3) An individual may be appointed as a member of a board under this section only if the individual has a security clearance that affords the individual access to all information relating to the whereabouts and status of the missing persons covered by the inquiry.
 
-(4) A Secretary appointing a board under this subsection shall, for purposes of providing legal counsel to the board, assign to the board a judgeadvocate, or appoint to the board an attorney, who has expertise in the law relating to missing persons, the determination of death of such persons, and the rights of family members and dependents of such persons.
+(4) A Secretary appointing a board under this subsection shall, for purposes of providing legal counsel to the board, assign to the board a judge advocate, or appoint to the board an attorney, who has expertise in the law relating to missing persons, the determination of death of such persons, and the rights of family members and dependents of such persons.
 
 (d)
 
@@ -86,7 +86,7 @@ Report.—(1) A board appointed under this section shall submit to the Secretary
 
 &emsp;(B) the recommendation of the board under subsection (d) with respect to each person covered by the report; and
 
-&emsp;(C) disclosure of whether classified documents and information were reviewed by the board or were otherwise used by the board in forming recommendations under subparagraph (B).
+&emsp;(C) disclosure of whether classified documents and information were reviewed by theboard or were otherwise used by the board in forming recommendations under subparagraph (B).
 
 (2) A board shall submit a report under this subsection with respect to the inquiry carried out by the board not later than 30 days after the date of the appointment of the board to carry out the inquiry. The report may include a classified annex.
 

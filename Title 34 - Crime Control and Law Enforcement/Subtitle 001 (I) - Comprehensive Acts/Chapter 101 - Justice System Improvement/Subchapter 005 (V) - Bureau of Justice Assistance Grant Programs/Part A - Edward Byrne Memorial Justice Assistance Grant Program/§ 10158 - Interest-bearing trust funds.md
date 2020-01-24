@@ -20,7 +20,7 @@ A State or unit of local government shall establish a trust fund in which to dep
 
 #### (c) Repaid amounts
 
-Amounts received as repayments under this section shall be subject to section 10108 of thistitle as if such amounts had not been granted and repaid. Such amounts shall be deposited in the Treasury in a dedicated fund for use by the Attorney General to carry out this part. Such funds are hereby made available to carry out this part.
+Amounts received as repayments under this section shall be subject to section 10108 of this title as if such amounts had not been granted and repaid. Such amounts shall be deposited in the Treasury in a dedicated fund for use by the Attorney General to carry out this part. Such funds are hereby made available to carry out this part.
 
 (Pub. L. 90–351, title I, §507, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3100.)
 

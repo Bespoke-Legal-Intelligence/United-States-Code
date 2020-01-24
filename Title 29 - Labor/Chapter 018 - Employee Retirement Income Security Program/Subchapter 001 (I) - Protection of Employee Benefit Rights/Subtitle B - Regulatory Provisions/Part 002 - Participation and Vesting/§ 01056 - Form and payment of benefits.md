@@ -24,7 +24,7 @@ If—
 
 #### (c) Forfeiture of accrued benefits derived from employer contributions
 
-No pension plan may provide that any part of a participant's accrued benefit derived from employer contributions (whether or not otherwise nonforfeitable) is forfeitable solely because of withdrawal by such participant of any amount attributable to the benefit derived from contributions made by such participant. The preceding sentence shall not apply (1) to the accrued benefit of any participant unless, at thetime of such withdrawal, such participant has a nonforfeitable right to at least 50 percent of such accrued benefit, or (2) to the extent that an accrued benefit is permitted to be forfeited in accordance with section 1053(a)(3)(D)(iii) of this title.
+No pension plan may provide that any part of a participant's accrued benefit derived from employer contributions (whether or not otherwise nonforfeitable) is forfeitable solely because of withdrawal by such participant of any amount attributable to the benefit derived from contributions made by such participant. The preceding sentence shall not apply (1) to the accrued benefit of any participant unless, at the time of such withdrawal, such participant has a nonforfeitable right to at least 50 percent of such accrued benefit, or (2) to the extent that an accrued benefit is permitted to be forfeited in accordance with section 1053(a)(3)(D)(iii) of this title.
 
 #### (d) Assignment or alienation of plan benefits
 
@@ -52,7 +52,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(i) the name and the last known mailing address (if any) of the participant and the name and mailing address of each alternate payee covered by the order,
 
-&emsp;(ii) the amount or percentage of the participant's benefits to be paid by the plan to each such alternate payee, or the manner in which such amount or percentage is to be determined,
+&emsp;(ii) the amount or percentage of the participant's benefits to be paid by the plan to eachsuch alternate payee, or the manner in which such amount or percentage is to be determined,
 
 &emsp;(iii) the number of payments or period to which such order applies, and
 
@@ -186,7 +186,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;For purposes of paragraph (1), the term "prohibited payment" means—
 
-&emsp;&emsp;(A) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title), that occurs during the period referred to in paragraph (1),
+&emsp;&emsp;(A) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title), that occurs during the period referred to in paragraph (1),
 
 &emsp;&emsp;(B) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
@@ -292,7 +292,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;For purpose <sup>2</sup> of this paragraph, the term "prohibited payment" means—
 
-&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title) occurs during any period a limitation under subparagraph (A) or (B) is in effect,
+&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title) occurs during any period a limitation under subparagraph (A) or (B) is in effect,
 
 &emsp;&emsp;&emsp;(ii) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
@@ -390,7 +390,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (A) Operation of plan after period
 
-&emsp;&emsp;Unless the plan provides otherwise, payments and accruals will resume effective as of the day following the close of the period for which any limitation of payment or accrual of benefits under paragraph (3) or (4) applies.
+&emsp;&emsp;Unless the plan provides otherwise, payments and accruals will resume effective as of the day following the close of the periodfor which any limitation of payment or accrual of benefits under paragraph (3) or (4) applies.
 
 #### (B) Treatment of affected benefits
 
@@ -422,7 +422,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;This subsection shall not apply to a CSEC plan (as defined in section 1060(f) of this title).
 
-(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 108(a)(9), (10), formerly §107(a)(9), (10),title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(1), June 25, 2010, 124 Stat. 1299; Pub. L. 113–97, title I, §102(b)(3), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–159, title II, §2003(c)(2), Aug. 8, 2014, 128 Stat. 1850; Pub. L. 113–295, div. A, title II, §221(a)(57)(E)(ii), (F)(ii), (G)(ii), Dec. 19, 2014, 128 Stat. 4046, 4047.)
+(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 108(a)(9), (10), formerly §107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(1), June 25, 2010, 124 Stat. 1299; Pub. L. 113–97, title I, §102(b)(3), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–159, title II, §2003(c)(2), Aug. 8, 2014, 128 Stat. 1850; Pub. L. 113–295, div. A, title II, §221(a)(57)(E)(ii), (F)(ii), (G)(ii), Dec. 19, 2014, 128 Stat. 4046, 4047.)
 
 #### References in Text
 
@@ -508,7 +508,7 @@ Subsec. (d)(3)(N). Pub. L. 99–514, §1898(c)(4)(B), redesignated subpar. (L) a
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
-Amendment by Pub. L. 113–159 applicable to plan years beginning after Dec. 31, 2014, except as otherwiseprovided, see section 2003(c)(3) of Pub. L. 113–159, set out as a note under section 436 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 113–159 applicable to plan years beginning after Dec. 31, 2014, except as otherwise provided, see section 2003(c)(3) of Pub. L. 113–159, set out as a note under section 436 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

@@ -46,7 +46,7 @@ Subsec. (a)(4), (5). Pub. L. 107–107, §821(c)(1), substituted "milestone B" f
 
 <b>1996</b>—Subsec. (a)(5). Pub. L. 104–106, §4321(b)(13), substituted "this paragraph" for "the preceding sentence".
 
-Subsec. (c). Pub. L. 104–106, §1062(d), struck out "(1)" before "With respect to", redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively,and struck out former par. (2) which read as follows: "For each naval vessel program and military satellite program, the Secretary of Defense shall submit to Congress a report providing—
+Subsec. (c). Pub. L. 104–106, §1062(d), struck out "(1)" before "With respect to", redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: "For each naval vessel program and military satellite program, the Secretary of Defense shall submit to Congress a report providing—
 
 &emsp;"(A) an explanation of the rate and quantity prescribed for low-rate initial production and the considerations in establishing that rate and quantity;
 

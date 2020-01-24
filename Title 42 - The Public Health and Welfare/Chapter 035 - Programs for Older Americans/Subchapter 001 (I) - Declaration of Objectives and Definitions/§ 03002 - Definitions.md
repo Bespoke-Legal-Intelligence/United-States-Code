@@ -296,7 +296,7 @@ For the purposes of this chapter—
 
 &emsp;(46) The term "self-directed care" means an approach to providing services (including programs, benefits, supports, and technology) under this chapter intended to assist an individual with activities of daily living, in which—
 
-&emsp;&emsp;(A) such services (including the amount, duration, scope, provider, and location of such services) are planned, budgeted, and purchased under the direction and control of such individual;
+&emsp;&emsp;(A) such services (including the amount, duration, scope, provider, and location ofsuch services) are planned, budgeted, and purchased under the direction and control of such individual;
 
 &emsp;&emsp;(B) such individual is provided with such information and assistance as are necessary and appropriate to enable such individual to make informed decisions about the individual's care options;
 
@@ -352,7 +352,7 @@ The Family Violence Prevention and Services Act, referred to in par. (19), is ti
 
 The Alaska Native Claims Settlement Act, referred to in par. (27), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act of the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-Section 10447 of title 34, referred to in par. (49), was subsequently amended and no longer defines "sexual assault". However, it now refers to definitions in section 12291 of Title 34, Crime Control and Law Enforcement, which defines "sexual assault" in subsec. (a).
+Section 10447 of title 34, referred to in par. (49), was subsequently amended and no longer defines "sexualassault". However, it now refers to definitions in section 12291 of Title 34, Crime Control and Law Enforcement, which defines "sexual assault" in subsec. (a).
 
 #### Amendments
 
@@ -440,7 +440,7 @@ Par. (44). Pub. L. 106–501, §101(6), redesignated par. (44) as (41).
 
 Par. (3). Pub. L. 103–171, §2(1), substituted "Virgin Islands of the United States" for "Virgin Islands".
 
-<b>1992</b>—Par. (2). Pub. L. 102–375, §904(a)(2), which directed amendment of par. (2) by substituting "United States Virgin Islands" for "Virgin Islands", could not be executed because "Virgin Islands" did not appear in par. (2).
+<b>1992</b>—Par. (2). Pub. L. 102–375, §904(a)(2), which directed amendment of par. (2) by substituting "UnitedStates Virgin Islands" for "Virgin Islands", could not be executed because "Virgin Islands" did not appear in par. (2).
 
 Pub. L. 102–375, §102(b)(1)(A), substituted "Administration" for "Administration on Aging".
 

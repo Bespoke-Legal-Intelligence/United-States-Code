@@ -8,7 +8,7 @@
 
 (2) A spouse acquired after retirement is entitled to an annuity under this subsection (as provided in paragraph (1)) only upon electing this annuity instead of any other survivor benefit to which such spouse may be entitled under this subchapter or section 8424 or under another retirement system for Government employees.
 
-(b)(1) If an employee or Member dies after completing at least 18 months of civilian service creditable under section 8411 and is survived by a widow or widower, the widow or widower is entitled to—
+(b)(1) If an employee or Member dies after completing at least 18 months of civilian servicecreditable under section 8411 and is survived by a widow or widower, the widow or widower is entitled to—
 
 &emsp;(A) an amount equal to the sum of—
 
@@ -74,7 +74,7 @@
 
 &emsp;(1) the death of the individual was accidental; or
 
-&emsp;(2) the surviving spouse of the individual had been previously married to such individual and subsequently divorced, and the aggregate time married is at least 9 months.
+&emsp;(2) the surviving spouse of the individual had been previously married to such individualand subsequently divorced, and the aggregate time married is at least 9 months.
 
 (f)(1) Subject to paragraph (4), a survivor who is entitled to an annuity under subsection (a) shall also be entitled to a supplementary annuity under this subsection.
 

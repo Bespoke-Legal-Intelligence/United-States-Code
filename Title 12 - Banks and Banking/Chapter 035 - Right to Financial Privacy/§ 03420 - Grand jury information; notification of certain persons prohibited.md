@@ -1,6 +1,6 @@
 ### §3420. Grand jury information; notification of certain persons prohibited
 
-(a) Financial records about a customer obtained from a financial institution pursuant to a subpena issued under the authority of a Federal grand jury—
+(a) Financial records about a customer obtained from a financial institution pursuant to asubpena issued under the authority of a Federal grand jury—
 
 &emsp;(1) shall be returned and actually presented to the grand jury unless the volume of such records makes such return and actual presentation impractical in which case the grand jury shall be provided with a description of the contents of the records.; <sup>1</sup>
 

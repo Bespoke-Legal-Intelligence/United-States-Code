@@ -48,7 +48,7 @@ For purposes of this part, the term "life insurance gross income" means the sum 
 
 #### (B) Exception for indemnity reinsurance
 
-&emsp;&emsp;Subparagraph (A) shall not apply to amounts of premiums or other considerationreturned to another life insurance company in respect of indemnity reinsurance.
+&emsp;&emsp;Subparagraph (A) shall not apply to amounts of premiums or other consideration returned to another life insurance company in respect of indemnity reinsurance.
 
 (Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 721.)
 

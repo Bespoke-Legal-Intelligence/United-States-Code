@@ -18,7 +18,7 @@ Audits.—The Secretary shall make regular financial and performance audits, as 
 
 (c)
 
-Information.—The Surface Transportation Board shall provide the Secretary with information the Secretary requests to assist in carrying out this chapter. The Board shall provide the information not later than 30 days after receiving a request from the Secretary.
+Information.—The Surface Transportation Board shall provide the Secretary with information the Secretary requests to assist in carryingout this chapter. The Board shall provide the information not later than 30 days after receiving a request from the Secretary.
 
 (d)
 

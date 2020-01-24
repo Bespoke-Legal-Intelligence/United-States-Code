@@ -279,7 +279,7 @@ Conforming Amendment.—\[Amended section 1395t of Title 42, The Public Health a
 
 #### Imposition of Annual Fee on Medical Device Manufacturers and Importers
 
-Pub. L. 111–148, title IX, §9009, Mar. 23, 2010, 124 Stat. 862, as amended by Pub. L. 111–148, title X, §10904(a), Mar. 23, 2010, 124 Stat. 1016, provided for the imposition of an annual fee on medical device manufacturers and importers in calendar years beginning after 2010, prior to repeal by Pub. L. 111–152, title I, §1405(d), Mar. 30, 2010, 124 Stat. 1065. See section 4191 of this title.
+Pub. L. 111–148, title IX, §9009, Mar. 23, 2010, 124 Stat. 862, as amended by Pub. L. 111–148, title X, §10904(a), Mar. 23, 2010, 124 Stat. 1016, provided for the imposition of an annual fee on medical device manufacturers and importers in calendar years beginning after 2010, prior to repeal by Pub. L. 111–152, title I, §1405(d), Mar. 30, 2010, 124 Stat. 1065.
 
 \[Pub. L. 111–152, title I, §1405(d), Mar. 30, 2010, 124 Stat. 1065, provided that the repeal of section 9009 of Pub. L. 111–148, formerly set out above, is effective as of Mar. 23, 2010.\]
 
@@ -507,6 +507,8 @@ Effective Date.—This section shall apply to calendar years—
 &emsp;"(2) beginning after December 31, 2017, and ending before January 1, 2019, and
 
 &emsp;"(3) beginning after December 31, 2019."
+
+<i>\[Pub. L. 116–94, div. N, title I, §502, Dec. 20, 2019, 133 Stat. 3119, provided that, applicable to calendar years beginning after Dec. 31, 2020, section 9010 of Pub. L. 111–148, set out above, is repealed.\]</i>
 
 \[Pub. L. 115–120, div. D, §4003(c), Jan. 22, 2018, 132 Stat. 39, provided that: "The amendments made by this section \[amending section 9010 of Pub. L. 111–148, set out above\] shall apply to calendar years beginning after December 31, 2018."\]
 

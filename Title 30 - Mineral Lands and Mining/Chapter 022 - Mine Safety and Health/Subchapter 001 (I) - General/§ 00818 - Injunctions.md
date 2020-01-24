@@ -2,7 +2,7 @@
 
 #### (a) Civil action by Secretary
 
-(1) The Secretary may institute a civil action for relief, including a permanent or temporary injunction, restraining order, or any other appropriate order in the district court of the United States for the district in which a coal or other mine is located or in which the operator of such mine has his principal office, whenever such operator or his agent—
+(1) The Secretary may institute a civil action for relief, including a permanent or temporary injunction, restraining order, or any other appropriate order in the district court of the United States for the district in which a coal or other mine is located or in which the operator ofsuch mine has his principal office, whenever such operator or his agent—
 
 &emsp;(A) violates or fails or refuses to comply with any order or decision issued under this chapter, or fails or refuses to comply with any order or decision, including a civil penalty assessment order, that is issued under this chapter,
 
@@ -26,7 +26,7 @@ In any action brought under subsection (a), the court shall have jurisdiction to
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1)(A), (B), (E), (F), (2) and (b), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For completeclassification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1)(A), (B), (E), (F), (2) and (b), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (b), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

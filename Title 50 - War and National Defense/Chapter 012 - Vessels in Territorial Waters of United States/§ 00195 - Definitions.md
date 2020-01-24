@@ -20,7 +20,7 @@ Presidential Proclamation 5928 of December 27, 1988, referred to in par. (2), is
 
 #### Codification
 
-Section was formerly classified to section 40 of this title. In the original this section defined "UnitedStates" as used in act June 15, 1917. Other provisions of that act were contained in sections 31 to 42 of this title and certain sections of former Title 18, Criminal Code and Criminal Procedure. The definition of "United States" as used in present provisions derived from those former sections is covered by section 5 of Title 18, Crimes and Criminal Procedure.
+Section was formerly classified to section 40 of this title. In the original this section defined "United States" as used in act June 15, 1917. Other provisions of that act were contained in sections 31 to 42 of this title and certain sections of former Title 18, Criminal Code and Criminal Procedure. The definition of "United States" as used in present provisions derived from those former sections is covered by section 5 of Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
 

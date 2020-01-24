@@ -34,7 +34,7 @@
 
 #### (II) Family-owned corporation
 
-&emsp;&emsp;&emsp;&emsp;For purposes of this clause, except as provided in regulations, the term "family-owned corporation" means any corporation which is described in clause (i) of section 447(d)(2)(C) <sup>1</sup> throughout the 8-year period beginning on the date which is 5 years before the date of the recapitalization. For purposes of the preceding sentence, stock shall not be treated asowned by a family member during any period described in section 355(d)(6)(B).
+&emsp;&emsp;&emsp;&emsp;For purposes of this clause, except as provided in regulations, the term "family-owned corporation" means any corporation which is described in clause (i) of section 447(d)(2)(C) <sup>1</sup> throughout the 8-year period beginning on the date which is 5 years before the date of the recapitalization. For purposes of the preceding sentence, stock shall not be treated as owned by a family member during any period described in section 355(d)(6)(B).
 
 #### (III) Extension of statute of limitations
 
@@ -42,7 +42,7 @@
 
 #### (3) Cross references
 
-&emsp;&emsp;<b>(A) For treatment of the exchange if any property is received which is not permitted to be received under this subsection (including nonqualified preferred stock and an excess principal amount of securities received over securities surrendered, but not including property to which paragraph (2)(B) applies), see section 356.</b>
+&emsp;&emsp;<b>(A) For treatment of the exchange if any property is received which is not permitted to be received</b><b>under this subsection (including nonqualified preferred stock and an excess principal amount of securities received over securities surrendered, but not including property to which paragraph (2)(B) applies), see section 356.</b>
 
 &emsp;&emsp;<b>(B) For treatment of accrued interest in the case of an exchange described in paragraph (2)(B), see section 61.</b>
 
@@ -122,7 +122,7 @@ Pub. L. 94–253, §2, Mar. 31, 1976, 90 Stat. 297, provided that: "The amendmen
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Abolition of United States Railway Association and Transfer of Functions
 

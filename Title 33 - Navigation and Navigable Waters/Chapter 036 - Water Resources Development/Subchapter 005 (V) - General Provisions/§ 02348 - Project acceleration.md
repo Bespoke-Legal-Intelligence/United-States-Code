@@ -74,7 +74,7 @@ In this section:
 
 #### (2) Coordinated review
 
-&emsp;The coordinated environmental review process described in paragraph (1) shall require that any review, analysis, opinion, statement, permit, license, or other approval or decision issued or made by a Federal, State, or local governmental agency or an Indian tribe for a project study described in subsection (b) be conducted, to the maximum extent practicable, concurrently with any other applicable governmental agency or Indian tribe.
+&emsp;The coordinated environmental review process described in paragraph (1) shall requirethat any review, analysis, opinion, statement, permit, license, or other approval or decision issued or made by a Federal, State, or local governmental agency or an Indian tribe for a project study described in subsection (b) be conducted, to the maximum extent practicable, concurrently with any other applicable governmental agency or Indian tribe.
 
 #### (3) Timing
 
@@ -92,7 +92,7 @@ In this section:
 
 &emsp;&emsp;A project sponsor that is a State or local governmental entity may—
 
-&emsp;&emsp;&emsp;(i) with the concurrence of the Secretary, serve as a joint lead agency with the Federal lead agency for purposes ofpreparing any environmental document under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
+&emsp;&emsp;&emsp;(i) with the concurrence of the Secretary, serve as a joint lead agency with the Federal lead agency for purposes of preparing any environmental document under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
 
 &emsp;&emsp;&emsp;(ii) prepare any environmental review process document under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) required in support of any action or approval by the Secretary if—
 
@@ -336,7 +336,7 @@ In this section:
 
 #### (A) Reporting requirements
 
-&emsp;&emsp;Not later than 1 year after June 10, 2014, the Secretary shall establish and maintain an electronic database and, in coordination with other Federal and State agencies, issue reporting requirements to make publicly available the status and progress with respect to compliance with applicable requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et. seq.) and any other Federal, State, or local approval or action required for a project study for which this section is applicable.
+&emsp;&emsp;Not later than 1 year after June 10, 2014, the Secretary shall establish and maintainan electronic database and, in coordination with other Federal and State agencies, issue reporting requirements to make publicly available the status and progress with respect to compliance with applicable requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et. seq.) and any other Federal, State, or local approval or action required for a project study for which this section is applicable.
 
 #### (B) Project study transparency
 
@@ -352,7 +352,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Federal lead agency shall make information available to the cooperating agencies and participating agencies as early as practicable in the environmental review process regarding the environmental and socioeconomic resources located within theproject area and the general locations of the alternatives under consideration.
+&emsp;&emsp;The Federal lead agency shall make information available to the cooperating agencies and participating agencies as early as practicable in the environmental review process regarding the environmental and socioeconomic resources located within the project area and the general locations of the alternatives under consideration.
 
 #### (B) Data sources
 
@@ -470,7 +470,7 @@ In this section:
 
 #### (3) Memorandum of agency agreement
 
-&emsp;If requested at any time by a State or project sponsor, the Federal lead agency, in consultation with other Federal agencies with relevant jurisdiction in the environmental review process, may establish memoranda of agreement with the project sponsor, Indian tribe, State and local governments, and other appropriate entities to carry out the early coordination activities, including providing technical assistance in identifying potential impacts and mitigation issues in an integrated fashion.
+&emsp;If requested at any time by a State or project sponsor, the Federal lead agency, in consultation with other Federal agencies with relevant jurisdiction in the environmental review process, may establish memoranda ofagreement with the project sponsor, Indian tribe, State and local governments, and other appropriate entities to carry out the early coordination activities, including providing technical assistance in identifying potential impacts and mitigation issues in an integrated fashion.
 
 #### (j) Limitations
 
@@ -494,7 +494,7 @@ Nothing in this section preempts or interferes with—
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, a claim arising under Federal law seeking judicial review of a permit, license, orother approval issued by a Federal agency for a project study shall be barred unless the claim is filed not later than 3 years after publication of a notice in the Federal Register announcing that the permit, license, or other approval is final pursuant to the law under which the agency action is taken, unless a shorter time is specified in the Federal law that allows judicial review.
+&emsp;&emsp;Notwithstanding any other provision of law, a claim arising under Federal law seeking judicial review of a permit, license, or other approval issued by a Federal agency for a project study shall be barred unless the claim is filed not later than 3 years after publication of a notice in the Federal Register announcing that the permit, license, or other approval is final pursuant to the law under which the agency action is taken, unless a shorter time is specified in the Federal law that allows judicial review.
 
 #### (B) Applicability
 
@@ -556,7 +556,7 @@ The Secretary shall establish a program to measure and report on progress made t
 
 #### (o) Implementation guidance
 
-The Secretary shall prepare, in consultation with the Council on Environmental Quality and other Federal agencies with jurisdiction over actions or resources that may be impacted by a project, guidance documents that describe the coordinated environmental review processes that the Secretary intends to use to implement this section for the planning of projects, in accordance with the civil works program of the Corps of Engineers and all applicable law.
+The Secretary shall prepare, in consultation with the Council on Environmental Quality and other Federal agencies with jurisdiction over actions or resources that may be impacted by a project, guidance documents that describe the coordinated environmental review processes that the Secretary intends to use to implementthis section for the planning of projects, in accordance with the civil works program of the Corps of Engineers and all applicable law.
 
 (Pub. L. 110–114, title II, §2045, Nov. 8, 2007, 121 Stat. 1103; Pub. L. 113–121, title I, §1005(a)(1), June 10, 2014, 128 Stat. 1199.)
 

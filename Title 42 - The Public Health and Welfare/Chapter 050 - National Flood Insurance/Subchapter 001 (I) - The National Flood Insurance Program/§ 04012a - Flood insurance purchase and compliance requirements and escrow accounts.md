@@ -2,7 +2,7 @@
 
 #### (a) Amount and term of coverage
 
-After the expiration of sixty days following December 31, 1973, no Federal officer or agency shall approve any financial assistance for acquisition or construction purposes for use in any area that has been identified by the Administrator as an area having special flood hazards and in which the sale of flood insurance has been made available under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\], unless the building or mobile home and any personal property to which such financial assistance relates is covered by flood insurance in an amount at least equal to its development or project cost (less estimated land cost) or to the maximum limit of coverage made available with respect to the particular type of property under the National Flood Insurance Act of 1968, whichever is less: <i>Provided</i>, That if the financial assistance provided is in the form of a loan or an insurance or guaranty of a loan, the amount of flood insurance required need not exceed the outstanding principal balance of the loan and need not be required beyond the term of the loan. The requirement of maintaining flood insurance shall apply during the life of the property, regardless of transfer of ownership of such property.
+After the expiration of sixty days following December 31, 1973, no Federal officer or agency shall approve any financial assistance for acquisition or construction purposes for use in any area that has been identified by the Administrator as an area having special flood hazards and in which the sale of flood insurance has been made available under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\], unless the building or mobile home and any personal property to which such financial assistance relates is covered by flood insurance in an amount at least equal to its development or project cost (less estimated land cost) or to the maximum limit of coverage made available with respect to the particular type of property under the National Flood Insurance Act of 1968, whichever is less: <i>Provided</i>, That if the financial assistance provided is in the form of a loan or an insuranceor guaranty of a loan, the amount of flood insurance required need not exceed the outstanding principal balance of the loan and need not be required beyond the term of the loan. The requirement of maintaining flood insurance shall apply during the life of the property, regardless of transfer of ownership of such property.
 
 #### (b) Requirement for mortgage loans
 
@@ -182,11 +182,11 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 &emsp;&emsp;(A) terminate any insurance purchased by the lender or servicer under paragraph (2); and
 
-&emsp;&emsp;(B) refund to the borrower all premiums paid by the borrower for any insurance purchased by the lender or servicer under paragraph (2) during any period during which the borrower's flood insurance coverage and the insurance coverage purchased by the lender or servicer were each in effect, and any related fees charged to the borrower with respect to the insurance purchased by the lender or servicer during such period.
+&emsp;&emsp;(B) refund to the borrower all premiums paid by the borrower for any insurance purchased by the lender or servicer under paragraph (2) during any period during which the borrower's flood insurance coverage and the insurance coverage purchased by the lenderor servicer were each in effect, and any related fees charged to the borrower with respect to the insurance purchased by the lender or servicer during such period.
 
 #### (4) Sufficiency of demonstration
 
-&emsp;For purposes of confirming a borrower's existing flood insurance coverage, a lender or servicer for a loan shall accept from the borrower an insurance policy declarations page that includes the existing flood insurance policy number and the identity of, and contactinformation for, the insurance company or agent.
+&emsp;For purposes of confirming a borrower's existing flood insurance coverage, a lender or servicer for a loan shall accept from the borrower an insurance policy declarations page that includes the existing flood insurance policy number and the identity of, and contact information for, the insurance company or agent.
 
 #### (5) Review of determination regarding required purchase
 
@@ -328,7 +328,7 @@ Subsec. (b)(1). Pub. L. 112–141, §100239(a)(1), substituted "; and" for peri
 
 Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
-Subsec. (b)(2). Pub. L. 112–141, §100239(a)(2), substituted "paragraph (1)(A)" for "paragraph (1)" in two places and inserted "Each Federal agency lender shall accept private flood insurance as satisfaction of theflood insurance coverage requirement under the preceding sentence if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such sentence." after first sentence.
+Subsec. (b)(2). Pub. L. 112–141, §100239(a)(2), substituted "paragraph (1)(A)" for "paragraph (1)" in two places and inserted "Each Federal agency lender shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under the preceding sentence if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such sentence." after first sentence.
 
 Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
@@ -400,7 +400,7 @@ Definitions.—In this subparagraph—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) is not subject to the requirement to escrow premiums and fees for flood insurance under section 102(d)(1) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(d)(1)) as in effect on July 5, 2012; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(cc) would, if the loan had been originated, refinanced, increased, extended, or renewed on or after January 1, 2016, be subject to the requirements under section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973, as amended; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(cc) would, if the loan had been originated, refinanced, increased, extended, or renewed on or after January 1, 2016, be subject to the requirements under section 102(d)(1)(A) of theFlood Disaster Protection Act of 1973, as amended; and
 
 &emsp;&emsp;&emsp;"(III) the term 'section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973, as amended' means section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(d)(1)(A)), as amended by—
 
@@ -410,7 +410,7 @@ Definitions.—In this subparagraph—
 
 &emsp;&emsp;"(ii)
 
-Option to escrow flood insurance payments.—Each Federal entity for lending regulation\(after consultation and coordination with the Federal Financial Institutions Examination Council) shall, by regulation, direct that each regulated lending institution or servicer of an outstanding loan shall offer and make available to a borrower the option to have the borrower's payment of premiums and fees for flood insurance under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), including the escrow of such payments, be treated in the same manner provided under section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973, as amended."
+Option to escrow flood insurance payments.—Each Federal entity for lending regulation (after consultation and coordination with the Federal Financial Institutions Examination Council) shall, by regulation, direct that each regulated lending institution or servicer of an outstanding loan shall offer and make available to a borrower the option to have the borrower's payment of premiums and fees for flood insurance under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), including the escrow of such payments, be treated in the same manner provided under section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973, as amended."
 
 #### Effective Date of 2012 Amendment
 

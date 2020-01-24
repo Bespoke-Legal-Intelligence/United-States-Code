@@ -34,7 +34,7 @@ Requirement for declaring articles or things valuable.—The Secretary shall not
 
 Wholly owned government corporation.—The term "wholly owned Government corporation"—
 
-&emsp;&emsp;(A) means any corporation, regardless of the law under which it is incorporated, thecapital of which is entirely owned by the Government; and
+&emsp;&emsp;(A) means any corporation, regardless of the law under which it is incorporated, the capital of which is entirely owned by the Government; and
 
 &emsp;&emsp;(B) includes the authorized officers, employees, and agents of the corporation.
 

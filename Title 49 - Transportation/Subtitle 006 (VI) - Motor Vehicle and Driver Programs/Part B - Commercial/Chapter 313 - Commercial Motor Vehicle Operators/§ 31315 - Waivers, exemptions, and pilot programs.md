@@ -130,7 +130,7 @@ Web Site.—The Secretary shall ensure that the Federal Motor Carrier Safety Adm
 
 Limitations on Municipality and Commercial Zone Exemptions and Waivers.—(1) The Secretary may not—
 
-&emsp;(A) exempt a person or commercial motor vehicle from a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality; or
+&emsp;(A) exempt a person or commercial motor vehicle from a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirelyin a municipality or commercial zone of a municipality; or
 
 &emsp;(B) waive application to a person or commercial motor vehicle of a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality.
 
@@ -204,7 +204,7 @@ Subsecs. (e), (f). Pub. L. 112–141, §32913(d), added subsecs. (e) and (f).
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

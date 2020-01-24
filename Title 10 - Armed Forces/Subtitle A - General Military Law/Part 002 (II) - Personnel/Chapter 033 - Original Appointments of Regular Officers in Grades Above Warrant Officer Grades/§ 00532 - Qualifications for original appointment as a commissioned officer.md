@@ -10,7 +10,7 @@
 
 &emsp;(4) has such other special qualifications as the Secretary of the military department concerned may prescribe by regulation.
 
-(b)(1) Original appointments in the Regular Army in the Medical Corps or Dental Corps, and original appointments in the Regular Air Force with a view to designation of an officer as a medical or dental officer, may be made in the grades of first lieutenant through colonel. Original appointments in the Regular Navy in the Medical Corps or Dental Corps may be made in the grades of lieutenant (junior grade) through captain. Such appointments may be made only from persons who are qualified doctors of medicine, osteopathy, or dentistry.
+(b)(1) Original appointments in the Regular Army in the Medical Corps or Dental Corps, andoriginal appointments in the Regular Air Force with a view to designation of an officer as a medical or dental officer, may be made in the grades of first lieutenant through colonel. Original appointments in the Regular Navy in the Medical Corps or Dental Corps may be made in the grades of lieutenant (junior grade) through captain. Such appointments may be made only from persons who are qualified doctors of medicine, osteopathy, or dentistry.
 
 (2) To be eligible for an original appointment as a medical officer, a doctor of osteopathy must—
 
@@ -66,7 +66,7 @@ Subsec. (f). Pub. L. 108–375, §501(a)(3)(A), added subsec. (f).
 
 Pub. L. 115–232, div. A, title V, §501(c), Aug. 13, 2018, 132 Stat. 1739, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 13, 2018\], and shall apply with respect to original appointments of regular commissioned officers of the Armed Forces made on or after that date."
 
-Amendment by section 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination ofamendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by section 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -78,5 +78,5 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 #### Appointment of Citizens of Northern Mariana Islands as Commissioned Officers
 
-Pub. L. 98–94, title X, §1006, Sept. 24, 1983, 97 Stat. 661, provided that a citizen of the Northern Mariana Islands who indicates in writing to a commissioned officer of the Armed Forces of the United States an intent to become a citizen, and not a national, of the United States, and who is otherwise qualified for military service under applicable laws and regulations, may be appointed as an officer in the Armed Forces of the United States, may be appointed or enrolled in the Senior Reserve Officers' Training Corps program of any of the Armed Forces under chapter 103 of title 10, United States Code, and may be selected to be a participant in the Armed Forces Health Professions Scholarship program under chapter 105 of such title, and that this section shall expire upon the establishment of the Commonwealth of the Northern Mariana Islands. The Commonwealth was established as of 12:01 a.m., Nov. 4, 1986, see section 2(a), (b) of Proc. No. 5564, set out as a note under section 1801 of Title 48, Territories and Insular Possessions.
+Pub. L. 98–94, title X, §1006, Sept. 24, 1983, 97 Stat. 661, provided that a citizen of the Northern Mariana Islandswho indicates in writing to a commissioned officer of the Armed Forces of the United States an intent to become a citizen, and not a national, of the United States, and who is otherwise qualified for military service under applicable laws and regulations, may be appointed as an officer in the Armed Forces of the United States, may be appointed or enrolled in the Senior Reserve Officers' Training Corps program of any of the Armed Forces under chapter 103 of title 10, United States Code, and may be selected to be a participant in the Armed Forces Health Professions Scholarship program under chapter 105 of such title, and that this section shall expire upon the establishment of the Commonwealth of the Northern Mariana Islands. The Commonwealth was established as of 12:01 a.m., Nov. 4, 1986, see section 2(a), (b) of Proc. No. 5564, set out as a note under section 1801 of Title 48, Territories and Insular Possessions.
 

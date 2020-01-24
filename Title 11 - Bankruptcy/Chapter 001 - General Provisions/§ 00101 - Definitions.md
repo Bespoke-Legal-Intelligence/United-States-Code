@@ -80,7 +80,17 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) the date on which current income is determined by the court for purposes of this title if the debtor does not file the schedule of current income required by section 521(a)(1)(B)(ii); and
 
-&emsp;&emsp;(B) includes any amount paid by any entity other than the debtor (or in a joint case the debtor and the debtor's spouse), on a regular basis for the household expenses of the debtor or the debtor's dependents (and in a joint case the debtor's spouse if not otherwise a dependent), but excludes benefits received under the Social Security Act, payments to victims of war crimes or crimes against humanity on account of their status as victims of such crimes, and payments to victims of international terrorism (as defined in section 2331 of title 18) or domestic terrorism (as defined in section 2331 of title 18) on account of their status as victims of such terrorism.
+&emsp;&emsp;(B)(i) includes any amount paid by any entity other than the debtor (or in a joint case the debtor and the debtor's spouse), on a regular basis for the household expenses of the debtor or the debtor's dependents (and in a joint case the debtor's spouse if not otherwise a dependent); and
+
+&emsp;&emsp;(ii) excludes—
+
+&emsp;&emsp;&emsp;(I) benefits received under the Social Security Act (42 U.S.C. 301 et seq.);
+
+&emsp;&emsp;&emsp;(II) payments to victims of war crimes or crimes against humanity on account of their status as victims of such crimes;
+
+&emsp;&emsp;&emsp;(III) payments to victims of international terrorism or domestic terrorism, as those terms are defined in section 2331 of title 18, on account of their status as victims of such terrorism; and
+
+&emsp;&emsp;&emsp;(IV) any monthly compensation, pension, pay, annuity, or allowance paid under title 10, 37, or 38 in connection with a disability, combat-related injury or disability, or death of a member of the uniformed services, except that any retired pay excluded under this subclause shall include retired pay paid under chapter 61 of title 10 only to the extent that such retired pay exceeds the amount of retired pay to which the debtor would otherwise be entitled if retired under any provision of title 10 other than chapter 61 of that title.
 
 &emsp;(11) The term "custodian" means—
 
@@ -128,7 +138,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) a governmental unit;
 
-&emsp;&emsp;(B) in the nature of alimony, maintenance, or support (including assistance provided by a governmental unit) of such spouse, former spouse, or child of the debtor or such child's parent, without regard to whether such debt is expressly so designated;
+&emsp;&emsp;(B) in the nature of alimony, maintenance, or support (including assistance provided by a governmental unit) of such spouse, formerspouse, or child of the debtor or such child's parent, without regard to whether such debt is expressly so designated;
 
 &emsp;&emsp;(C) established or subject to establishment before, on, or after the date of the order for relief in a case under this title, by reason of applicable provisions of—
 
@@ -154,7 +164,7 @@ In this title the following definitions shall apply:
 
 &emsp;(18) The term "family farmer" means—
 
-&emsp;&emsp;(A) individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $3,237,000 <sup>1</sup> and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual's or such individual and spouse's gross income for—
+&emsp;&emsp;(A) individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $10,000,000 and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual's or such individual and spouse's gross income for—
 
 &emsp;&emsp;&emsp;(i) the taxable year preceding; or
 
@@ -166,7 +176,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) more than 80 percent of the value of its assets consists of assets related to the farming operation;
 
-&emsp;&emsp;&emsp;(ii) its aggregate debts do not exceed $3,237,000 <sup>1</sup> and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
+&emsp;&emsp;&emsp;(ii) its aggregate debts do not exceed $10,000,000 and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
 
 &emsp;&emsp;&emsp;(iii) if such corporation issues stock, such stock is not publicly traded.
 
@@ -194,11 +204,11 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(III) if such corporation issues stock, such stock is not publicly traded.
 
-&emsp;(19B) The term "family fisherman with regular annual income" means a family fisherman whose annual income is sufficiently stable and regular to enable such family fisherman to make payments under a plan under chapter 12 of this title.
+&emsp;(19B) The term "family fisherman with regular annual income" means a family fisherman whose annual income is sufficiently stable and regular to enable such family fisherman tomake payments under a plan under chapter 12 of this title.
 
 &emsp;(20) The term "farmer" means (except when such term appears in the term "family farmer") person that received more than 80 percent of such person's gross income during the taxable year of such person immediately preceding the taxable year of such person during which the case under this title concerning such person was commenced from a farming operation owned or operated by such person.
 
-&emsp;(21) The term "farming operation" includes farming, tillage of the soil, dairy farming, ranching, production or raising of crops, poultry, or livestock, and production of poultry orlivestock products in an unmanufactured state.
+&emsp;(21) The term "farming operation" includes farming, tillage of the soil, dairy farming, ranching, production or raising of crops, poultry, or livestock, and production of poultry or livestock products in an unmanufactured state.
 
 &emsp;(21A) The term "farmout agreement" means a written agreement in which—
 
@@ -240,7 +250,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;(C) any option to enter into an agreement or transaction referred to in subparagraph (A) or (B);
 
-&emsp;&emsp;(D) a master agreement that provides for an agreement or transaction referred to in subparagraph (A), (B), or (C), together with all supplements to any such master agreement, without regard to whether such master agreement provides for an agreement or transaction that is not a forward contract under this paragraph, except that such master agreement shall be considered to be a forward contract under this paragraph onlywith respect to each agreement or transaction under such master agreement that is referred to in subparagraph (A), (B), or (C); or
+&emsp;&emsp;(D) a master agreement that provides for an agreement or transaction referred to in subparagraph (A), (B), or (C), together with all supplements to any such master agreement, without regard to whether such master agreement provides for an agreement or transaction that is not a forward contract under this paragraph, except that such master agreement shall be considered to be a forward contract under this paragraph only with respect to each agreement or transaction under such master agreement that is referred to in subparagraph (A), (B), or (C); or
 
 &emsp;&emsp;(E) any security agreement or arrangement, or other credit enhancement related to any agreement or transaction referred to in subparagraph (A), (B), (C), or (D), including any guarantee or reimbursement obligation by or to a forward contract merchant or financial participant in connection with any agreement or transaction referred to in any such subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562.
 
@@ -554,17 +564,27 @@ In this title the following definitions shall apply:
 
 &emsp;(51B) The term "single asset real estate" means real property constituting a single property or project, other than residential real property with fewer than 4 residential units, which generates substantially all of the gross income of a debtor who is not a family farmer and on which no substantial business is being conducted by a debtor other than the business of operating the real property and activities incidental thereto.
 
-&emsp;(51C) The term "small business case" means a case filed under chapter 11 of this title in which the debtor is a small business debtor.
+&emsp;(51C) The term "small business case" means a case filed under chapter 11 of this title in which the debtor is a small business debtor and has not elected that subchapter V of chapter 11 of this title shall apply.
 
 &emsp;(51D) The term "small business debtor"—
 
-&emsp;&emsp;(A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning or operating real property or activities incidental thereto) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $2,000,000 <sup>1</sup> (excluding debts owed to 1 or more affiliates or insiders) for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and
+&emsp;&emsp;(A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning single asset real estate) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $2,000,000 <sup>1</sup> (excluding debts owed to 1 or more affiliates or insiders) not less than 50 percent of which arose from the commercial or business activities of the debtor; and
 
-&emsp;&emsp;(B) does not include any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 <sup>1</sup> (excluding debt owed to 1 or more affiliates or insiders).
+&emsp;&emsp;(B) does not include—
+
+&emsp;&emsp;&emsp;(i) any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 <sup>1</sup> (excluding debt owed to 1 or more affiliates or insiders);
+
+&emsp;&emsp;&emsp;(ii) any debtor that is a corporation subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m, 78o(d)); or
+
+&emsp;&emsp;&emsp;(iii) any corporation that—
+
+&emsp;&emsp;&emsp;&emsp;(I) is subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m, 78o(d)); and
+
+&emsp;&emsp;&emsp;&emsp;(II) is an affiliate of a debtor.
 
 &emsp;(52) The term "State" includes the District of Columbia and Puerto Rico, except for the purpose of defining who may be a debtor under chapter 9 of this title.
 
-&emsp;(53) The term "statutory lien" means lien arising solely by force of a statute on specified circumstances or conditions, or lien of distress for rent, whether or not statutory, but does not include security interest or judicial lien, whether or not such interest or lien is provided by or is dependent on a statute andwhether or not such interest or lien is made fully effective by statute.
+&emsp;(53) The term "statutory lien" means lien arising solely by force of a statute on specified circumstances or conditions, or lien of distress for rent, whether or not statutory, but does not include security interest or judicial lien, whether or not such interest or lien is provided by or is dependent on a statute and whether or not such interest or lien is made fully effective by statute.
 
 &emsp;(53A) The term "stockbroker" means person—
 
@@ -620,7 +640,7 @@ In this title the following definitions shall apply:
 
 &emsp;(53C) The term "swap participant" means an entity that, at any time before the filing of the petition, has an outstanding swap agreement with the debtor.
 
-&emsp;(56A) <sup>4</sup> The term "term overriding royalty" means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized.
+&emsp;(56A) <sup>4</sup> The term "term overriding royalty" means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the valuethereof, for a term limited by time, quantity, or value realized.
 
 &emsp;(53D) The term "timeshare plan" means and shall include that interest purchased in any arrangement, plan, scheme, or similar device, but not including exchange programs, whether by membership, agreement, tenancy in common, sale, lease, deed, rental agreement, license, right to use agreement, or by any other means, whereby a purchaser, in exchange for consideration, receives a right to use accommodations, facilities, or recreational sites, whether improved or unimproved, for a specific period of time less than a full year during any given year, but not necessarily for consecutive years, and which extends for a period of more than three years. A "timeshare interest" is that interest purchased in a timeshare plan which grants the purchaser the right to use and occupy accommodations, facilities, or recreational sites, whether improved or unimproved, pursuant to a timeshare plan.
 
@@ -642,7 +662,7 @@ In this title the following definitions shall apply:
 
 &emsp;(55) The term "United States", when used in a geographical sense, includes all locations where the judicial jurisdiction of the United States extends, including territories and possessions of the United States.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394; Pub. L. 109–8, title I, §102(b), (k), title II, §§211, 226(a), 231(b), title III, §306(c), title IV, §§401(a), 414, 432(a), title VIII, §802(b), title IX, §907(a)(1), (b), (c), title X, §§1004, 1005, 1007(a), title XI, §1101(a), (b), title XII, §1201, Apr. 20, 2005, 119 Stat. 32, 35, 50, 66, 73, 80, 104, 107, 110, 145, 170, 175, 186, 187, 189, 192; Pub. L. 109–390, §5(a)(1), Dec. 12, 2006, 120 Stat. 2695; Pub. L. 111–327, §2(a)(1), Dec. 22, 2010, 124 Stat. 3557.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394; Pub. L. 109–8, title I, §102(b), (k), title II, §§211, 226(a), 231(b), title III, §306(c), title IV, §§401(a), 414, 432(a), title VIII, §802(b), title IX, §907(a)(1), (b), (c), title X, §§1004, 1005, 1007(a), title XI, §1101(a), (b), title XII, §1201, Apr. 20, 2005, 119 Stat. 32, 35, 50, 66, 73, 80, 104, 107, 110, 145, 170, 175, 186, 187, 189, 192; Pub. L. 109–390, §5(a)(1), Dec. 12, 2006, 120 Stat. 2695; Pub. L. 111–327, §2(a)(1), Dec. 22, 2010, 124 Stat. 3557; Pub. L. 116–51, §2, Aug. 23, 2019, 133 Stat. 1075; Pub. L. 116–52, §2, Aug. 23, 2019, 133 Stat. 1076; amended Pub. L. 116–54, §4(a)(1), Aug. 23, 2019, 133 Stat. 1085; Pub. L. 116–92, div. A, title XVII, §1736, Dec. 20, 2019, 133 Stat. 1819.)
 
 #### Historical and Revision Notes
 
@@ -662,11 +682,11 @@ Section 101(6) defines "community claim" as provided by the Senate amendment in 
 
 Section 101(7) of the House amendment contains a definition of consumer debt identical to the definition in the House bill and Senate amendment. A consumer debt does not include a debt to any extent the debt is secured by real property.
 
-Section 101(9) of the Senate amendment contained a definition of "court." The House amendment deletes the provision as unnecessary in light of the pervasive jurisdiction of a bankruptcy court under all chapters of title 11 as indicated in title II of the House amendment to H.R. 8200.
+Section 101(9) of the Senate amendment contained a definition of "court." The House amendment deletesthe provision as unnecessary in light of the pervasive jurisdiction of a bankruptcy court under all chapters of title 11 as indicated in title II of the House amendment to H.R. 8200.
 
 Section 101(11) defines "debt" to mean liability on a claim, as was contained in the House-passed version of H.R. 8200. The Senate amendment contained language indicating that "debt" does not include a policy loan made by a life insurance company to the debtor. That language is deleted in the House amendment as unnecessary since a life insurance company clearly has no right to have a policy loan repaid by the debtor, although such company does have a right of offset with respect to such policy loan. Clearly, then, a "debt" does not include a policy loan made by a life insurance company. Inclusion of the language contained in the Senate amendment would have required elaboration of other legal relationships not arising by a liability on a claim. Further the language would have required clarification that interest on a policy loan made by a life insurance company is a debt, and that the insurance company does have right to payment to that interest.
 
-Section 101(14) adopts the definition of "entity" contained in the Senate-passed version of H.R. 8200. Since the Senate amendment to H.R. 8200 deleted the U.S. trustee, a corresponding definitional change is made in chapter 15 of the House amendment for U.S. trustees under the pilot program. Adoption by the House amendment of a pilot program for U.S. trustees underchapter 15 requires insertion of "United States trustee" in many sections. Several provisions in chapter 15 of the House amendment that relate to the U.S. trustee were not contained in the Senate amendment in the nature of a substitute.
+Section 101(14) adopts the definition of "entity" contained in the Senate-passed version of H.R. 8200. Since the Senate amendment to H.R. 8200 deleted the U.S. trustee, a corresponding definitional change is made in chapter 15 of the House amendment for U.S. trustees under the pilot program. Adoption by the House amendment of a pilot program for U.S. trustees under chapter 15 requires insertion of "United States trustee" in many sections. Several provisions in chapter 15 of the House amendment that relate to the U.S. trustee were not contained in the Senate amendment in the nature of a substitute.
 
 Section 101(17) defines "farmer," as in the Senate amendment with an income limitation percentage of 80 percent instead of 75 percent.
 
@@ -768,7 +788,7 @@ Paragraph (40) defines "transfer." It is derived and adapted, with stylistic cha
 
 #### References in Text
 
-The Social Security Act, referred to in par. (10A)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (10A)(B)(ii)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Internal Revenue Code of 1986, referred to in pars. (12A)(B) and (41)(C), is classified generally to Title 26, Internal Revenue Code.
 
@@ -784,13 +804,29 @@ The Securities Exchange Act of 1934, referred to in pars. (47)(A)(i), (48), (48A
 
 The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
-The Gramm-Leach-Bliley Act, referred to in par. (53B)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. For complete classification of this Act to the Code, seeShort Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+The Gramm-Leach-Bliley Act, referred to in par. (53B)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 The Legal Certainty for Bank Products Act of 2000, referred to in par. (53B)(B), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, §1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
 
 The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
+#### Codification
+
+Pub. L. 116–52, effective Aug. 23, 2019, and Pub. L. 116–92, effective Dec. 20, 2019, made similar amendments, striking out subpar. (B) of par. (10A) and enacting almost identical subpars. (B). The text of par. (10A)(B) is based on the text enacted by Pub. L. 116–52.
+
 #### Amendments
+
+<b>2019</b>—Par. (10A)(B). Pub. L. 116–92 added subpar. (B) almost identical to that added by Pub. L. 116–52 and struck out former subpar. (B). See Codification note above.
+
+Pub. L. 116–52 added subpar. (B) and struck out former subpar. (B) which read as follows: "includes any amount paid by any entity other than the debtor (or in a joint case the debtor and the debtor's spouse), on a regular basis for the household expenses of the debtor or the debtor's dependents (and in a joint case the debtor's spouse if not otherwise a dependent), but excludes benefits received under the Social Security Act, payments to victims of war crimes or crimes against humanity on account of their status as victims of such crimes, and payments to victims of international terrorism (as defined in section 2331 of title 18) or domestic terrorism (as defined in section 2331 of title 18) on account of their status as victims of such terrorism." See Codification note above.
+
+Par. (18). Pub. L. 116–51 substituted "$10,000,000" for "$3,237,000" in two places.
+
+Par. (51C). Pub. L. 116–54, §4(a)(1)(A), inserted "and has not elected that subchapter V of chapter 11 of this title shall apply" after "is a small business debtor".
+
+Par. (51D)(A). Pub. L. 116–54, §4(a)(1)(B)(i), substituted "single asset real estate" for "or operating real property or activities incidental thereto" and "not less than 50 percent of which arose from the commercial or business activities of the debtor; and" for "for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and".
+
+Par. (51D)(B). Pub. L. 116–54, §4(a)(1)(B)(ii), substituted "does not include—" for "does not include", inserted cl. (i) designation before "any member", and added cls. (ii) and (iii).
 
 <b>2010</b>—Par. (13A)(A). Pub. L. 111–327, §2(a)(1)(A)(i), inserted "if used as the principal residence by the debtor" after "a residential structure".
 
@@ -1090,7 +1126,7 @@ Pars. (4) to (23). Pub. L. 101–647, §2522(e)(3), redesignated pars. (3) to (2
 
 Par. (24). Pub. L. 101–647, §2522(e)(3), redesignated par. (23) as (24). Former par. (24) redesignated (25).
 
-Pub. L. 101–311, §201(1), inserted "as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade," after "transfer of commodity," and ", including, but not limited to, a repurchase transaction, reverse repurchase transaction, consignment,lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any combination thereof or option thereon" after "entered into".
+Pub. L. 101–311, §201(1), inserted "as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade," after "transfer of commodity," and ", including, but not limited to, a repurchase transaction, reverse repurchase transaction, consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any combination thereof or option thereon" after "entered into".
 
 Par. (25). Pub. L. 101–647, §2522(e)(3), redesignated par. (24) as (25). Former par. (25) redesignated (26).
 
@@ -1252,6 +1288,10 @@ Pars. (37) to (39). Pub. L. 97–222, §1(a)(1), redesignated pars. (36) to (38)
 
 Pars. (40), (41). Pub. L. 97–222, §1(a)(1), (d), redesignated former par. (39) as (40) and restructured its provisions by dividing the former introductory provisions into subpars. (A) and (B) and by redesignating former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (B). Former par. (40) redesignated (41).
 
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–54, §5, Aug. 23, 2019, 133 Stat. 1087, provided that: "This Act \[see Short Title of 2019 Amendment note set out under this section\] and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act \[Aug. 23, 2019\]."
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–390, §7, Dec. 12, 2006, 120 Stat. 2700, provided that: "The amendments made by this Act \[see Short Title of 2006 Amendment note set out under this section\] shall not apply to any cases commenced under title 11, United States Code, or appointments made under any Federal or State law, before the date of the enactment of this Act \[Dec. 12, 2006\]."
@@ -1310,7 +1350,7 @@ Pub. L. 100–597, §12, Nov. 3, 1988, 102 Stat. 3030, provided that:
 
 "(a)
 
-Effective Date.—Except as provided in subsection (b), this Act and the amendments made by thisAct \[enacting sections 927 to 929 of this title, amending this section and sections 109, 901, 902, 922, 926, and 943 of this title, and renumbering section 927 of this title as 930\] shall take effect on the date of the enactment of this Act \[Nov. 3, 1988\].
+Effective Date.—Except as provided in subsection (b), this Act and the amendments made by this Act \[enacting sections 927 to 929 of this title, amending this section and sections 109, 901, 902, 922, 926, and 943 of this title, and renumbering section 927 of this title as 930\] shall take effect on the date of the enactment of this Act \[Nov. 3, 1988\].
 
 "(b)
 
@@ -1344,9 +1384,19 @@ Pub. L. 98–353, title III, §552, formerly §553, July 10, 1984, 98 Stat. 392,
 
 "(c) The amendments made by subtitle J \[enacting section 1113 of this title\], shall become effective as provided in section 541(c) \[set out as an Effective Date note under section 1113 of this title\]."
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–54, §1, Aug. 23, 2019, 133 Stat. 1079, provided that: "This Act \[enacting subchapter V of chapter 11 of this title, amending this section, sections 103, 322, 326, 347, 363, 364, 523, 524, 547, 557, 1102, and 1146 of this title, and sections 586, 589b, 1409, and 1930 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] may be cited as the 'Small Business Reorganization Act of 2019'."
+
+Pub. L. 116–53, §1, Aug. 23, 2019, 133 Stat. 1078, provided that: "This Act \[amending provisions set out as a note under section 707 of this title\] may be cited as the 'National Guard and Reservists Debt Relief Extension Act of 2019'."
+
+Pub. L. 116–52, §1, Aug. 23, 2019, 133 Stat. 1076, provided that: "This Act \[amending this section\] may be cited as the 'Honoring American Veterans in Extreme Need Act of 2019' or the 'HAVEN Act'."
+
+Pub. L. 116–51, §1, Aug. 23, 2019, 133 Stat. 1075, provided that: "This Act \[amending this section\] may be cited as the 'Family Farmer Relief Act of 2019'."
+
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–107, §1, Dec. 18, 2015, 129 Stat. 2223, provided that: "This Act \[amending provisions set out as a note under section 707 of this title\] may be cited as the 'National Guard and Reservist Debt Relief Extension Act of 2015'."
+Pub. L. 114–107, §1, Dec. 18, 2015, 129 Stat. 2223, provided that: "This Act \[amending provisions set out asa note under section 707 of this title\] may be cited as the 'National Guard and Reservist Debt Relief Extension Act of 2015'."
 
 #### Short Title of 2011 Amendment
 
@@ -1444,7 +1494,7 @@ By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in par. (3
 
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in par. (3), dollar amount "164,250" was adjusted to "175,750"; in par. (18)(A), (B)(ii), dollar amount "3,544,525" was adjusted to "3,792,650" each time it appeared; in par. (19A)(A)(i), (B)(ii)(II), dollar amount "1,642,500" was adjusted to "1,757,475" each time it appeared; and, in par. (51D)(A), (B), dollar amount "2,190,000" was adjusted to "2,343,300" each time it appeared.
 
-By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in par. (3), dollar amount "150,000" was adjusted to "164,250"; in par. (18), dollar amount "3,237,000" was adjusted to "3,544,525" each time it appeared; in par. (19A), dollar amount "1,500,000" was adjusted to "1,642,500" each time it appeared; and, in par. (51D), dollar amount "2,000,000" was adjusted to "2,190,000" each time it appeared.
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in par. (3), dollar amount "150,000" was adjusted to "164,250"; in par. (18), dollar amount "3,237,000" was adjusted to "3,544,525" each time it appeared; in par. (19A), dollar amount "1,500,000" was adjusted to "1,642,500" each time it appeared; and, in par. (51D), dollar amount "2,000,000" was adjusted to "2,190,000" each time it appeared. In par. (18), Pub. L. 116–51 subsequently substituted "10,000,000" for "3,237,000" both places it appeared, see 2019 Amendment note above.
 
 <i><sup>1</sup></i><i> See Adjustment of Dollar Amounts notes below.</i>
 

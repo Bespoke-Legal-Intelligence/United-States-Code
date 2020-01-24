@@ -52,7 +52,7 @@ Section 3758, Pub. L. 90–351, title I, §510, June 19, 1968, 82 Stat. 206; Pub
 
 Section 3759, Pub. L. 90–351, title I, §511, June 19, 1968, 82 Stat. 206; Pub. L. 90–351, title I, §511, June 19, 1968, 82 Stat. 206; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 212, provided for judicial review.
 
-Section 3760, Pub. L. 90–351, title I, §512, June 19, 1968, 82 Stat. 207; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 213,authorized Administration to carry out programs provided for under this chapter during fiscal year ending June 30, 1974, and two succeeding fiscal years, prior to repeal by Pub. L. 94–503, title I, §123, Oct. 15, 1976, 90 Stat. 2419.
+Section 3760, Pub. L. 90–351, title I, §512, June 19, 1968, 82 Stat. 207; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 213, authorized Administration to carry out programs provided for under this chapter during fiscal year ending June 30, 1974, and two succeeding fiscal years, prior to repeal by Pub. L. 94–503, title I, §123, Oct. 15, 1976, 90 Stat. 2419.
 
 Section 3761, Pub. L. 90–351, title I, §513, June 19, 1968, 82 Stat. 207; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 213, provided for coordination of law enforcement assistance and related Federal programs.
 

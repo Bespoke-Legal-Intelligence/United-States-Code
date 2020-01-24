@@ -32,7 +32,7 @@ In the case of any experimental, pilot, or demonstration project which, in the j
 
 (2) Notwithstanding section 602(a)(1) of this title, a demonstration project conducted under this subsection may be conducted in one or more political subdivisions of the State.
 
-(3) An agreement under this subsection shall be entered into between the Secretary and the State agency designated under section 602(a)(3) of this title. Such agreement shall provide for the payment of aid under the applicable State plan under part A of subchapter IV as though section 607 of this title had been modified to reflect the definition of unemployment used in the demonstration project but shall also provide that such project shall otherwise be carried out in accordance with all of the requirements andconditions of section 607 of this title (and, except as provided in paragraph (2), any related requirements and conditions under part A of subchapter IV).
+(3) An agreement under this subsection shall be entered into between the Secretary and the State agency designated under section 602(a)(3) of this title. Such agreement shall provide for the payment of aid under the applicable State plan under part A of subchapter IV as though section 607 of this title had been modified to reflect the definition of unemployment used in the demonstration project but shall also provide that such project shall otherwise be carried out in accordance with all of the requirements and conditions of section 607 of this title (and, except as provided in paragraph (2), any related requirements and conditions under part A of subchapter IV).
 
 (4) A demonstration project under this subsection may be commenced any time after September 30, 1990, and shall be conducted for such period of time as the agreement with the Secretary may provide; except that, in no event may a demonstration project under this section be conducted after September 30, 1995.
 
@@ -90,7 +90,7 @@ An application by the chief executive officer of a State for an extension of a w
 
 &emsp;(3) Not later than 45 days after the date a notification is made in accordance with paragraph (2), the Secretary shall inform the State of proposed changes in the terms and conditions of the waiver project. A failure to provide such information shall be deemed to be an approval of the application.
 
-&emsp;(4) During the 30-day period that begins on the date information described in paragraph (3) is provided to a State, the Secretary shall negotiate revised terms and conditions of the waiver project with the State.
+&emsp;(4) During the 30-day period that begins on the date information described in paragraph\(3) is provided to a State, the Secretary shall negotiate revised terms and conditions of the waiver project with the State.
 
 &emsp;(5)(A) Not later than 120 days after the date an application for an extension of the waiver project is submitted to the Secretary (or such later date agreed to by the chief executive officer of the State), the Secretary shall—
 
@@ -232,7 +232,7 @@ Demonstration Projects To Test the Effect of Early Childhood Development Program
 
 "(b)
 
-State Demonstration Projects To Encourage Innovative Education and Training Programs forChildren.—In order to encourage States to develop innovative education and training programs for children receiving aid under State plans approved under section 402 of the Social Security Act \[42 U.S.C. 602\], any State may establish and conduct one or more demonstration projects, targeted to such children, designed to test financial incentives and interdisciplinary approaches to reducing school dropouts, encouraging skill development, and avoiding welfare dependence; and the Secretary may make grants to States to assist in financing such projects. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary shall prescribe, and no such project shall be conducted for a period of less than one year or more than 5 years.
+State Demonstration Projects To Encourage Innovative Education and Training Programs for Children.—In order to encourage States to develop innovative education and training programs for children receiving aid under State plans approved under section 402 of the Social Security Act \[42 U.S.C. 602\], any State may establish and conduct one or more demonstration projects, targeted to such children, designed to test financial incentives and interdisciplinary approaches to reducing school dropouts, encouraging skill development, and avoiding welfare dependence; and the Secretary may make grants to States to assist in financing such projects. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary shall prescribe, and no suchproject shall be conducted for a period of less than one year or more than 5 years.
 
 "(c)
 

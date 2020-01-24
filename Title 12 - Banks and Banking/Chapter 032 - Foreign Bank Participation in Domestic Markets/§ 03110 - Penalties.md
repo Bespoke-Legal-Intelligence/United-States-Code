@@ -8,7 +8,7 @@
 
 #### (2) Assessment procedures
 
-&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board orthe Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), (H), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section), and any such assessments shall be subject to the provisions of such section.
+&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board or the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), (H), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section), and any such assessments shall be subject to the provisions of such section.
 
 #### (3) Hearing procedure
 
@@ -58,7 +58,7 @@ The resignation, termination of employment or participation, or separation of an
 
 #### (3) Third tier
 
-&emsp;Notwithstanding paragraph (2), if any company knowingly or with reckless disregard for the accuracy of any information or report described in paragraph (2) submits or publishes any false or misleading report or information, the Board or the Comptroller of the Currency may, in the Board's or Comptroller's discretion, assess a penalty of not more than $1,000,000 or 1 percent of total assets of such foreign bank, or such office or subsidiary of a foreign bank, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected.
+&emsp;Notwithstanding paragraph (2), if any company knowingly or with reckless disregard forthe accuracy of any information or report described in paragraph (2) submits or publishes any false or misleading report or information, the Board or the Comptroller of the Currency may, in the Board's or Comptroller's discretion, assess a penalty of not more than $1,000,000 or 1 percent of total assets of such foreign bank, or such office or subsidiary of a foreign bank, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected.
 
 #### (4) Assessment of penalties
 

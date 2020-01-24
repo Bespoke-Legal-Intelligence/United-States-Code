@@ -18,17 +18,19 @@ Authority.—Subject to subsection (b), the Secretary of Defense may authorize t
 
 (b)
 
-Termination of Authority for Certain Categories of Transportation.—The provisions of paragraphs (3), (4), (5), and (6) of subsection (a) shall apply only to military transportation services provided before October 1, 2019.
+Termination of Authority for Certain Categories of Transportation.—The provisions of paragraphs (3), (4), (5), and (6) of subsection (a) shall apply only to military transportation services provided before October 1, 2024.
 
 (c)
 
 Definition.—In this section, the term "Department of Defense reimbursement rate" means the amount charged a component of the Department of Defense by another component of the Department of Defense.
 
-(Added Pub. L. 102–88, title V, §501(a), Aug. 14, 1991, 105 Stat. 435; amended Pub. L. 108–136, div. A, title X, §1006(a), (b)(1), Nov. 24, 2003, 117 Stat. 1585; Pub. L. 111–84, div. A, title III, §351(a), Oct. 28, 2009, 123 Stat. 2262; Pub. L. 111–383, div. A, title X, §1075(b)(40), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 113–66, div. A, title X, §1073(a), (b), Dec. 26, 2013, 127 Stat. 869; Pub. L. 113–291, div. A, title X, §§1044(a)–(c)(1), 1071(f)(22), (g)(4), Dec. 19, 2014, 128 Stat. 3493, 3494, 3511; Pub. L. 115–91, div. A, title X, §1081(f), Dec. 12, 2017, 131 Stat. 1601.)
+(Added Pub. L. 102–88, title V, §501(a), Aug. 14, 1991, 105 Stat. 435; amended Pub. L. 108–136, div. A, title X, §1006(a), (b)(1), Nov. 24, 2003, 117 Stat. 1585; Pub. L. 111–84, div. A, title III, §351(a), Oct. 28, 2009, 123 Stat. 2262; Pub. L. 111–383, div. A, title X, §1075(b)(40), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 113–66, div. A, title X, §1073(a), (b), Dec. 26, 2013, 127 Stat. 869; Pub. L. 113–291, div. A, title X, §§1044(a)–(c)(1), 1071(f)(22), (g)(4), Dec. 19, 2014, 128 Stat. 3493, 3494, 3511; Pub. L. 115–91, div. A, title X, §1081(f), Dec. 12, 2017, 131 Stat. 1601; Pub. L. 116–92, div. A, title III, §373, Dec. 20, 2019, 133 Stat. 1332.)
 
 #### Amendments
 
-<b>2017</b>—Subsec. (a)(3). Pub. L. 115–91, §1081(f), which directed substitution of "September 30" for "October 28"in the amendment made by Pub. L. 113–291, §1044(a)(2)(A), was executed by making the substitution the second place appearing in the quoted language to be stricken by that amendment, to reflect the probable intent of Congress. See 2014 Amendment note below.
+<b>2019</b>—Subsec. (b). Pub. L. 116–92 substituted "October 1, 2024" for "October 1, 2019".
+
+<b>2017</b>—Subsec. (a)(3). Pub. L. 115–91, §1081(f), which directed substitution of "September 30" for "October 28" in the amendment made by Pub. L. 113–291, §1044(a)(2)(A), was executed by making the substitution the second place appearing in the quoted language to be stricken by that amendment, to reflect the probable intent of Congress. See 2014 Amendment note below.
 
 <b>2014</b>—Pub. L. 113–291, §1044(c)(1), amended section catchline generally, substituting "Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate" for "Transportation services provided to certain other agencies: use of Department of Defense reimbursement rate".
 

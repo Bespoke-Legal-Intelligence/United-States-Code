@@ -180,7 +180,7 @@ Nov. 28, 1990, Pub. L. 101–641, §7(b) (last sentence), 104 Stat. 4657.
 
 Oct. 28, 1986, Pub. L. 99–579, §2(c), 100 Stat. 3310.
 
-In subsection (a)(1), before clause (A), the words "Not later than 90 days after October 20, 1972" are omitted as executed. In clause (B), the words "if the transferor knows that the mileage registered by the odometer is incorrect" are substituted for "if the odometer reading is known to the transferor to be different from the number of miles the vehicle has actually traveled" to eliminate unnecessary words.
+In subsection (a)(1), before clause (A), the words "Not later than 90 days after October 20, 1972" are omitted as executed. In clause (B), the words "if the transferor knows that the mileage registered by the odometer is incorrect" are substituted for "if the odometer reading is known to the transferor to be different from thenumber of miles the vehicle has actually traveled" to eliminate unnecessary words.
 
 In subsection (b)(2)(A), before clause (i), the words "Under regulations prescribed by the Secretary" are substituted for "prescribed by rule by the Secretary" for consistency in the revised title and because "rule" is synonymous with "regulation". The words "to a transferor" are added for clarity. The words "before February 1, 1989" are omitted as expired. The words "in the possession of" are substituted for "physically held by", and the words "when the transferor transfers ownership of the vehicle" are substituted for "at the time of a transfer of such motor vehicle", for clarity and consistency. The words "the transferor may" are substituted for "nothing in this subsection shall be construed to prohibit" for clarity and to eliminate unnecessary words. Clause (i) is substituted for "in a form" and clause (ii) is substituted for "in accordance with paragraph (2)(A)(i)" for clarity and consistency. In clause (iii), the words "consistent with the purposes of this Act and the need to facilitate enforcement thereof" are omitted as surplus. In clauses (iv), (v), (viii), and (ix), the amendment made by section 7(a) of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) is restated as amending section 408(d)(1)(C) of the Motor Vehicle and Cost Savings Act (15 U.S.C. 1988(d)(1)(C)) instead of section 408(d)(2)(C) of that Act to reflect the probable intent of Congress. There is no section 408(d)(2)(C) in that Act. Clause (vii) is substituted for "and under reasonable conditions" for clarity and consistency.
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Regulations
 
-Pub. L. 103–272, §4(q), July 5, 1994, 108 Stat. 1371, provided that: "The revision of regulations, referred to insection 32705(b)(2)(A) of title 49, United States Code, as enacted by section 1 of this Act, that is required by section 7 of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) \[former 15 U.S.C. 1988(d)(1)(C), 1988 note\] shall be prescribed not later than May 28, 1991."
+Pub. L. 103–272, §4(q), July 5, 1994, 108 Stat. 1371, provided that: "The revision of regulations, referred to in section 32705(b)(2)(A) of title 49, United States Code, as enacted by section 1 of this Act, that is required by section 7 of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) \[former 15 U.S.C. 1988(d)(1)(C), 1988 note\] shall be prescribed not later than May 28, 1991."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

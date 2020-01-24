@@ -112,7 +112,7 @@ Certain functions of Clerk of House of Representatives transferred to Director o
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### International Security Assistance Act of 1978 Not To Affect Authorizations of Appropriations and Limitations of Authority Applicable to Fiscal Year 1978
 

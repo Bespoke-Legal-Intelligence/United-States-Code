@@ -34,7 +34,7 @@ In this section:
 
 &emsp;&emsp;(C) the 15-year period beginning on the date the security clearance was granted in the case of a Confidential Clearance.
 
-&emsp;(6) The term "personnel security investigation" means any investigation required for the purpose of determining the eligibility of any military, civilian, or government contractor personnel to access classified information.
+&emsp;(6) The term "personnel security investigation" means any investigation required for thepurpose of determining the eligibility of any military, civilian, or government contractor personnel to access classified information.
 
 &emsp;(7) The term "periodic reinvestigations" means investigations conducted for the purpose of updating a previously completed background investigation—
 
@@ -76,7 +76,7 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 &emsp;(7) not later than 180 days after July 7, 2014, and consistent with subsection (j)—
 
-&emsp;&emsp;(A) developing policies and procedures that permit, to the extent practicable, individuals alleging reprisal for having made a protected disclosure (provided the individual does not disclose classified information or other information contrary to law) to appeal any action affecting an employee's access toclassified information and to retain their government employment status while such challenge is pending; and
+&emsp;&emsp;(A) developing policies and procedures that permit, to the extent practicable, individuals alleging reprisal for having made a protected disclosure (provided the individual does not disclose classified information or other information contrary to law) to appeal any action affecting an employee's access to classified information and to retain their government employment status while such challenge is pending; and
 
 &emsp;&emsp;(B) developing and implementing uniform and consistent policies and procedures to ensure proper protections during the process for denying, suspending, or revoking a security clearance or access to classified information following a protected disclosure, including the ability to appeal such a denial, suspension, or revocation, except that there shall be no appeal of an agency's suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts no longer than 1 year or the head of the agency or a designee of the head of the agency certifies that a longer suspension is needed before a final decision on denial or revocation to prevent imminent harm to the national security.
 
@@ -144,7 +144,7 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 #### (g) Reduction in length of personnel security clearance process
 
-(1) The head of the entity selected pursuant to subsection (b) shall, within 90 days of selection under that subsection, develop, in consultation with the appropriate committees of Congress and each authorized adjudicative agency, a plan to reduce the length of the personnel security clearance process.
+(1) The head of the entity selected pursuant to subsection (b) shall, within 90 days of selectionunder that subsection, develop, in consultation with the appropriate committees of Congress and each authorized adjudicative agency, a plan to reduce the length of the personnel security clearance process.
 
 (2)(A) To the extent practical the plan under paragraph (1) shall require that each authorized adjudicative agency make a determination on at least 90 percent of all applications for a personnel security clearance within an average of 60 days after the date of receipt of the completed application for a security clearance by an authorized investigative agency. Such 60-day average period shall include—
 
@@ -184,7 +184,7 @@ There is authorized to be appropriated such sums as may be necessary for fiscal 
 
 &emsp;Agency personnel with authority over personnel security clearance or access determinations shall not take or fail to take, or threaten to take or fail to take, any action with respect to any employee's security clearance or access determination in retaliation for—
 
-&emsp;&emsp;(A) any lawful disclosure of information to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose) or the head of the employing agency (or employee designated by the head of that agency forsuch purpose) by an employee that the employee reasonably believes evidences—
+&emsp;&emsp;(A) any lawful disclosure of information to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose) or the head of the employing agency (or employee designated by the head of that agency for such purpose) by an employee that the employee reasonably believes evidences—
 
 &emsp;&emsp;&emsp;(i) a violation of any Federal law, rule, or regulation; or
 
@@ -214,7 +214,7 @@ There is authorized to be appropriated such sums as may be necessary for fiscal 
 
 #### (2) Rule of construction
 
-&emsp;Consistent with the protection of sources and methods, nothing in paragraph (1) shall be construed to authorize the withholding of information from Congress or the taking of any personnel action against an employee who lawfully discloses information to Congress.
+&emsp;Consistent with the protection of sources and methods, nothing in paragraph (1) shall be construed to authorize the withholding of information from Congress or the taking of anypersonnel action against an employee who lawfully discloses information to Congress.
 
 #### (3) Disclosures
 
@@ -254,7 +254,7 @@ There is authorized to be appropriated such sums as may be necessary for fiscal 
 
 #### (A) Appeal
 
-&emsp;&emsp;Within 60 days after receiving notice of an adverse final agency determination under aproceeding under paragraph (4), an employee or former employee may appeal that determination in accordance with the procedures established under subparagraph (B).
+&emsp;&emsp;Within 60 days after receiving notice of an adverse final agency determination under a proceeding under paragraph (4), an employee or former employee may appeal that determination in accordance with the procedures established under subparagraph (B).
 
 #### (B) Policies and procedures
 
@@ -286,7 +286,7 @@ There is authorized to be appropriated such sums as may be necessary for fiscal 
 
 Executive Order 12968, referred to in subsec. (a)(3), (9)(A), is set out as a note under section 3161 of this title.
 
-Executive Order 12958, referred to in subsec. (a)(4)(A), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
+Executive Order 12958, referred to in subsec. (a)(4)(A), which was formerly set out as a note under section 435\(now section 3161) of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 Executive Order 10865, referred to in subsec. (a)(9)(A), is set out as a note under section 3161 of this title.
 
@@ -316,7 +316,7 @@ Subsec. (j). Pub. L. 113–126, §602(b), added subsec. (j).
 
 #### Change of Name
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Construction
 

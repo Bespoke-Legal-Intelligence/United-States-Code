@@ -6,7 +6,7 @@ The Commissioner of Social Security shall, subject to subsection (b), prescribe 
 
 #### (b) Verification requirement
 
-The requirements prescribed by the Commissioner of Social Security under subsection (a) shall preclude any determination of entitlement to benefits under this subchapter solely on the basis of declarations by the individual concerning qualifications or other material facts, and shall provide for verification of material information from independent or collateral sources, and the procurement of additional information as necessary in order to ensure that the benefits are provided only to qualified individuals (or their representative payees) in correct amounts.
+The requirements prescribed by the Commissioner of Social Security under subsection (a) shall preclude any determination of entitlement to benefits under this subchapter solely on the basis of declarations by the individual concerning qualifications or other material facts, andshall provide for verification of material information from independent or collateral sources, and the procurement of additional information as necessary in order to ensure that the benefits are provided only to qualified individuals (or their representative payees) in correct amounts.
 
 (Aug. 14, 1935, ch. 531, title VIII, §806, as added Pub. L. 106–169, title II, §251(a), Dec. 14, 1999, 113 Stat. 1846.)
 

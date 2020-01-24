@@ -8,7 +8,7 @@ Congress finds that—
 
 &emsp;(2) since 1966, the number of women working outside the home has increased by 92 percent and the number of two earner families has increased by over 50 percent;
 
-&emsp;(3) 61 percent of the children born today will live in a single-parent family before reaching the age of 20, with one out of every three single female heads of households living on income below the Federal poverty level;
+&emsp;(3) 61 percent of the children born today will live in a single-parent family before reachingthe age of 20, with one out of every three single female heads of households living on income below the Federal poverty level;
 
 &emsp;(4) one out of every four children under the age of 6 in the United States currently lives below the Federal poverty level;
 

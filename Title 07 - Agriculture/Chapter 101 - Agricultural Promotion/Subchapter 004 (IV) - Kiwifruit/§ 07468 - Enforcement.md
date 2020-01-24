@@ -32,7 +32,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 &emsp;Any person against whom a violation is found and a civil penalty assessed or cease-and-desist order issued under subsection (c) may obtain review of the penalty or cease-and-desist order in the district court of the United States for the district in which the person resides or carries on business, or the United States District Court for the District of Columbia, by—
 
-&emsp;&emsp;(A) filing a notice of appeal in the court not later than 30 days after the date onwhich the penalty is assessed or cease-and-desist order issued; and
+&emsp;&emsp;(A) filing a notice of appeal in the court not later than 30 days after the date on which the penalty is assessed or cease-and-desist order issued; and
 
 &emsp;&emsp;(B) simultaneously sending a copy of the notice by certified mail to the Secretary.
 

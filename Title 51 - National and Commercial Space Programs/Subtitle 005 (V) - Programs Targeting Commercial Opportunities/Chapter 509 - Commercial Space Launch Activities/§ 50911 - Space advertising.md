@@ -34,7 +34,7 @@ Commercial Space Advertising.—Nothing in this section shall apply to nonobtrus
 
 Pub. L. 106–391, title III, §322(c), Oct. 30, 2000, 114 Stat. 1598, provided that:
 
-"(1) The President is requested to negotiate with foreign launching nations for the purpose of reaching oneor more agreements that prohibit the use of outer space for obtrusive space advertising purposes.
+"(1) The President is requested to negotiate with foreign launching nations for the purpose of reaching one or more agreements that prohibit the use of outer space for obtrusive space advertising purposes.
 
 "(2) It is the sense of the Congress that the President should take such action as is appropriate and feasible to enforce the terms of any agreement to prohibit the use of outer space for obtrusive space advertising purposes.
 

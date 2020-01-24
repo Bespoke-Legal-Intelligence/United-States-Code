@@ -16,7 +16,7 @@ Prohibition of Retaliatory Personnel Actions.—(1) No person may take (or threa
 
 &emsp;&emsp;(i) a Member of Congress;
 
-&emsp;&emsp;(ii) an Inspector General (as defined in subsection (i)) or any other Inspector General appointed under the Inspector General Act of 1978;
+&emsp;&emsp;(ii) an Inspector General (as defined in subsection (j)) or any other Inspector General appointed under the Inspector General Act of 1978;
 
 &emsp;&emsp;(iii) a member of a Department of Defense audit, inspection, investigation, or law enforcement organization;
 
@@ -156,7 +156,7 @@ Correction of Records When Prohibited Action Taken.—(1) A board for the correc
 
 &emsp;&emsp;(iii) the member is not represented by outside counsel chosen by the member; and
 
-&emsp;(B) may examine witnesses through deposition, serve interrogatories, and request the production of evidence, including evidence contained in the investigatory record of the Inspector General but not included in the report submitted under subsection (e)(1).
+&emsp;(B) may examine witnesses through deposition, serve interrogatories, and request theproduction of evidence, including evidence contained in the investigatory record of the Inspector General but not included in the report submitted under subsection (e)(1).
 
 (4) The Secretary concerned shall issue a final decision with respect to an application described in paragraph (1) within 180 days after the application is filed. If the Secretary fails to issue such a final decision within that time, the member or former member shall be deemed to have exhausted the member's or former member's administrative remedies under section 1552 of this title.
 
@@ -188,7 +188,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "unlawful discrimination" means discrimination on the basis of race, color, religion, sex, or national origin.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §591(a), Oct. 28, 2004, 118 Stat. 1933; Pub. L. 110–181, div. A, title X, §1063(a)(8), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title V, §523, Dec. 31, 2011, 125 Stat. 1401; Pub. L. 113–66, div. A, title XVII, §§1714, 1715, Dec. 26, 2013, 127 Stat. 964–966; Pub. L. 114–328, div. A, title V, §§531(a)–(d), 532(a), (b), Dec. 23, 2016, 130 Stat. 2118–2120; Pub. L. 115–91, div. A, title X, §1081(c)(2)(C), Dec. 12, 2017, 131 Stat. 1599.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §591(a), Oct. 28, 2004, 118 Stat. 1933; Pub. L. 110–181, div. A, title X, §1063(a)(8), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title V, §523, Dec. 31, 2011, 125 Stat. 1401; Pub. L. 113–66, div. A, title XVII, §§1714, 1715, Dec. 26, 2013, 127 Stat. 964–966; Pub. L. 114–328, div. A, title V, §§531(a)–(d), 532(a), (b), Dec. 23, 2016, 130 Stat. 2118–2120; Pub. L. 115–91, div. A, title X, §1081(c)(2)(C), Dec. 12, 2017, 131 Stat. 1599; Pub. L. 116–92, div. A, title XVII, §1731(a)(21), Dec. 20, 2019, 133 Stat. 1813.)
 
 Historical and Revision Notes
 
@@ -211,6 +211,8 @@ The words "prevented", "directly or indirectly", "concerning any subject", "or M
 The Inspector General Act of 1978, referred to in subsecs. (b)(1)(B)(ii) and (f)(2)(B), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(1)(B)(ii). Pub. L. 116–92 substituted "subsection (j)" for "subsection (i)".
 
 <b>2017</b>—Subsec. (c)(2)(A). Pub. L. 115–91 substituted "section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice)" for "sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice)".
 
@@ -256,7 +258,7 @@ Subsec. (c)(1). Pub. L. 113–66, §1714(b)(1), substituted "paragraph (4)" for 
 
 Subsec. (c)(2)(A). Pub. L. 113–66, §1715, substituted "rape, sexual assault, or other sexual misconduct in violation of sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice), sexual harassment, or" for "sexual harassment or".
 
-Subsec. (c)(3) to (6). Pub. L. 113–66, §1714(b)(2)–(5), added par. (3), redesignated former pars. (3) to (5) as (4) to (6), respectively, in par. (5), substituted "paragraph (4)(A)" for "paragraph (3)(A)", "paragraph (4)(D)" for "paragraph (3)(D)", and "one year" for "60 days", and in par. (6), substituted "one or both of the following:" and subpars. (A) and (B) for "outside the immediate chain of command of both the member submitting theallegation and the individual or individuals alleged to have taken the retaliatory action."
+Subsec. (c)(3) to (6). Pub. L. 113–66, §1714(b)(2)–(5), added par. (3), redesignated former pars. (3) to (5) as (4) to (6), respectively, in par. (5), substituted "paragraph (4)(A)" for "paragraph (3)(A)", "paragraph (4)(D)" for "paragraph (3)(D)", and "one year" for "60 days", and in par. (6), substituted "one or both of the following:" and subpars. (A) and (B) for "outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action."
 
 Subsec. (d). Pub. L. 113–66, §1714(c), substituted "subparagraph (A), (B), or (C) of subsection (c)(2)" for "subparagraph (A) or (B) of subsection (c)(2)".
 
@@ -300,7 +302,7 @@ Subsec. (c)(1). Pub. L. 105–261, §933(a)(1)(A), added par. (1) and struck out
 
 Subsec. (c)(2)(B). Pub. L. 105–261, §933(b), substituted "Gross mismanagement" for "Mismanagement".
 
-Subsec. (c)(3) to (5). Pub. L. 105–261, §933(a)(1)(B), added pars. (3) to (5) and struck out former par. (3) which read as follows: "The Inspector General is not required to make an investigation under paragraph (1) in the case of an allegation made more than 60 days after the date on which the member becomes aware of the personnel action that is the subject of the allegation."
+Subsec. (c)(3) to (5). Pub. L. 105–261, §933(a)(1)(B), added pars. (3) to (5) and struck out former par. (3) which read as follows: "The Inspector General is not required to make an investigation under paragraph (1) inthe case of an allegation made more than 60 days after the date on which the member becomes aware of the personnel action that is the subject of the allegation."
 
 Subsec. (d). Pub. L. 105–261, §933(a)(2), inserted "receiving the allegation" after ", the Inspector General" and "In the case of an allegation received by the Inspector General of the Department of Defense, the Inspector General may delegate that responsibility to the Inspector General of the armed force concerned." at end.
 
@@ -320,7 +322,7 @@ Subsec. (j). Pub. L. 105–261, §933(f)(1), redesignated subsec. (j) as (i).
 
 Subsec. (j)(2). Pub. L. 105–261, §933(e), substituted "means the following:" for "means—" in introductory provisions, added subpars. (A) to (F), redesignated former subpar. (B) as (G) and substituted "An officer" for "an officer" in that subpar., and struck out former subpar. (A) which read as follows: "an Inspector General appointed under the Inspector General Act of 1978; and".
 
-<b>1994</b>—Pub. L. 103–337, §531(g)(1), substituted "Protected communications" for "Communicating with aMember of Congress or Inspector General" in section catchline.
+<b>1994</b>—Pub. L. 103–337, §531(g)(1), substituted "Protected communications" for "Communicating with a Member of Congress or Inspector General" in section catchline.
 
 Subsec. (b). Pub. L. 103–337, §531(a), inserted "(1)" before "No person may take", substituted "or preparing—" for "or preparing a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted.", added subpars. (A) and (B), inserted "(2)" before "Any action prohibited", and substituted "paragraph (1)" for "the preceding sentence".
 

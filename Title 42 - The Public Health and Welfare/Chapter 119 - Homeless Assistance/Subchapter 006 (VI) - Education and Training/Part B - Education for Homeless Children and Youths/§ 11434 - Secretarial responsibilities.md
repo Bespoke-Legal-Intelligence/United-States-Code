@@ -68,7 +68,7 @@ Not later than 4 years after December 10, 2015, the Secretary shall prepare and 
 
 #### References in Text
 
-That Act, referred to in subsec. (g)(1), is Pub. L. 114–95, Dec. 10, 2015, 129 Stat. 1802, known as The EveryStudent Succeeds Act. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 6301 of this title and Tables.
+That Act, referred to in subsec. (g)(1), is Pub. L. 114–95, Dec. 10, 2015, 129 Stat. 1802, known as The Every Student Succeeds Act. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 
@@ -95,6 +95,10 @@ Subsec. (g). Pub. L. 114–95, §9104(5), added subsec. (g) and struck out forme
 Subsec. (h)(1)(A). Pub. L. 114–95, §9104(6), substituted "primary nighttime residence" for "location" and inserted before semicolon at end "in all areas served by local educational agencies".
 
 Subsec. (i). Pub. L. 114–95, §9104(7), substituted "December 10, 2015" for "January 8, 2002".
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 

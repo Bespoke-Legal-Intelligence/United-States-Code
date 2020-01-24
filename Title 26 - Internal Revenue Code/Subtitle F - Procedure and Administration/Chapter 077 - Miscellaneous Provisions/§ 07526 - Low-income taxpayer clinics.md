@@ -76,7 +76,23 @@ For purposes of this section—
 
 > &emsp;Indirect expenses, including general overhead of the institution sponsoring the clinic, shall not be counted as matching funds.
 
-(Added Pub. L. 105–206, title III, §3601(a), July 22, 1998, 112 Stat. 774.)
+#### (6) Provision of information regarding qualified low-income taxpayer clinics
+
+&emsp;Notwithstanding any other provision of law, officers and employees of the Department of the Treasury may—
+
+&emsp;&emsp;(A) advise taxpayers of the availability of, and eligibility requirements for receiving, advice and assistance from one or more specific qualified low-income taxpayer clinics receiving funding under this section, and
+
+&emsp;&emsp;(B) provide information regarding the location of, and contact information for, such clinics.
+
+(Added Pub. L. 105–206, title III, §3601(a), July 22, 1998, 112 Stat. 774; amended Pub. L. 116–25, title I, §1402(a), July 1, 2019, 133 Stat. 997.)
+
+#### Amendments
+
+<b>2019</b>—Subsec. (c)(6). Pub. L. 116–25 added par. (6).
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–25, title I, §1402(b), July 1, 2019, 133 Stat. 997, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 1, 2019\]."
 
 #### Effective Date
 

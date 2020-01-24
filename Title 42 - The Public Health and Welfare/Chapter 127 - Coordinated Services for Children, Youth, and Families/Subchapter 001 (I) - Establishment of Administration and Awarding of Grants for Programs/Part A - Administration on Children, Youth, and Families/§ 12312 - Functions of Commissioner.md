@@ -70,7 +70,7 @@ In executing the duties and functions of the Administration under this subchapte
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a noteunder section 8332 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

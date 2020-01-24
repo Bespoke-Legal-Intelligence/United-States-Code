@@ -26,13 +26,13 @@ Beer may be removed from one brewery to another brewery belonging to the same br
 
 #### (2) Transfer of liability for tax
 
-&emsp;For purposes of paragraph (1)(C), such relief from liability shall be effective from the timeof removal from the transferor's bonded premises, or from the time of divestment of interest, whichever is later.
+&emsp;For purposes of paragraph (1)(C), such relief from liability shall be effective from the time of removal from the transferor's bonded premises, or from the time of divestment of interest, whichever is later.
 
 #### (3) Termination
 
-&emsp;This subsection shall not apply to any calendar quarter beginning after December 31, 2019.
+&emsp;This subsection shall not apply to any calendar quarter beginning after December 31, 2020.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 115–97, title I, §13803(a), Dec. 22, 2017, 131 Stat. 2172.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 115–97, title I, §13803(a), Dec. 22, 2017, 131 Stat. 2172; Pub. L. 116–94, div. Q, title I, §144(c)(1), Dec. 20, 2019, 133 Stat. 3235.)
 
 #### Prior Provisions
 
@@ -40,9 +40,15 @@ A prior section 5414, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 
 #### Amendments
 
+<b>2019</b>—Subsec. (b)(3). Pub. L. 116–94 substituted "December 31, 2020" for "December 31, 2019".
+
 <b>2017</b>—Pub. L. 115–97 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–94, div. Q, title I, §144(c)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: "The amendment made bythis subsection \[amending this section\] shall apply to calendar quarters beginning after December 31, 2019."
 
 #### Effective Date of 2017 Amendment
 

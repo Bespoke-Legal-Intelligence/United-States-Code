@@ -74,7 +74,7 @@ Functions and Duties; Annual Report.—(1) The Council shall advise the Secretar
 
 &emsp;(C) any other aspects of the Council's work as they may consider appropriate.
 
-> The Council may prepare other reports or develop policy statements as the Council considers appropriate. An annual report shall be submitted for each fiscal year and shall be submittedto the Secretary and Chairman within 90 days after the end of the fiscal year. Other such reports and statements may be submitted as the Council considers appropriate.
+> The Council may prepare other reports or develop policy statements as the Council considers appropriate. An annual report shall be submitted for each fiscal year and shall be submitted to the Secretary and Chairman within 90 days after the end of the fiscal year. Other such reports and statements may be submitted as the Council considers appropriate.
 
 (Added Pub. L. 104–88, title II, §201(a), Dec. 29, 1995, 109 Stat. 937, §726; amended Pub. L. 104–287, §5(7), Oct. 11, 1996, 110 Stat. 3389; renumbered §1325, Pub. L. 114–110, §3(a)(6), Dec. 18, 2015, 129 Stat. 2229.)
 

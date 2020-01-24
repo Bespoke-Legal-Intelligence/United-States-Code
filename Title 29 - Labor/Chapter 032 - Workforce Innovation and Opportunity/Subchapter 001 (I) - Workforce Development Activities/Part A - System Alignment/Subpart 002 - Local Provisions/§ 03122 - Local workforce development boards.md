@@ -28,7 +28,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 &emsp;&emsp;&emsp;(ii) shall include a representative, who shall be a member of a labor organization or a training director, from a joint labor-management apprenticeship program, or if no such joint program exists in the area, such a representative of an apprenticeship program in the area, if such a program exists;
 
-&emsp;&emsp;&emsp;(iii) may include representatives of community-based organizations that havedemonstrated experience and expertise in addressing the employment needs of individuals with barriers to employment, including organizations that serve veterans or that provide or support competitive integrated employment for individuals with disabilities; and
+&emsp;&emsp;&emsp;(iii) may include representatives of community-based organizations that have demonstrated experience and expertise in addressing the employment needs of individuals with barriers to employment, including organizations that serve veterans or that provide or support competitive integrated employment for individuals with disabilities; and
 
 &emsp;&emsp;&emsp;(iv) may include representatives of organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of eligible youth, including representatives of organizations that serve out-of-school youth;
 
@@ -148,7 +148,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 #### (A) State board
 
-&emsp;&emsp;Notwithstanding subsection (b) and paragraphs (1) and (2), if a State described in section 3121(d) of this title indicates in the State plan that the State will be treated as a single State local area, for purposes of the application of this Act or the provisions authorizing a core program, the State board shall carry out any of the functions of a local board under this Act or the provisions authorizing a core program, including the functions described in subsection (d).
+&emsp;&emsp;Notwithstanding subsection (b) and paragraphs (1) and (2), if a State described in section 3121(d) of this title indicates in theState plan that the State will be treated as a single State local area, for purposes of the application of this Act or the provisions authorizing a core program, the State board shall carry out any of the functions of a local board under this Act or the provisions authorizing a core program, including the functions described in subsection (d).
 
 #### (B) References
 
@@ -206,7 +206,7 @@ Consistent with section 3123 of this title, the functions of the local board sha
 
 &emsp;The local board shall lead efforts in the local area to—
 
-&emsp;&emsp;(A) identify and promote proven and promising strategies and initiatives for meeting the needs of employers, and workers and jobseekers (including individuals with barriers to employment) in the local workforce development system, including providing physical and programmatic accessibility, in accordance with section 3248 of this title, if applicable, and applicable provisions of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), to the one-stop delivery system; and
+&emsp;&emsp;(A) identify and promote proven and promising strategies and initiatives for meeting the needs of employers, and workers and jobseekers (including individuals with barriers to employment) in the local workforce development system, including providing physical and programmatic accessibility, in accordance with section 3248 of this title, if applicable, and applicable provisions of theAmericans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), to the one-stop delivery system; and
 
 &emsp;&emsp;(B) identify and disseminate information on proven and promising practices carried out in other local areas for meeting such needs.
 
@@ -278,7 +278,7 @@ Consistent with section 3123 of this title, the functions of the local board sha
 
 &emsp;&emsp;&emsp;(i) consistent with section 3322 of this title—
 
-&emsp;&emsp;&emsp;&emsp;(I) reviewing the applications to provide adult education and literacy activities under subchapter II for the local area, submitted under such section to the eligible agency by eligible providers, to determine whether such applications are consistent with the local plan; and
+&emsp;&emsp;&emsp;&emsp;(I) reviewing the applications to provide adult education and literacy activities under subchapter II for the localarea, submitted under such section to the eligible agency by eligible providers, to determine whether such applications are consistent with the local plan; and
 
 &emsp;&emsp;&emsp;&emsp;(II) making recommendations to the eligible agency to promote alignment with such plan; and
 
@@ -424,7 +424,7 @@ The Wagner-Peyser Act, referred to in subsec. (b)(2)(D)(ii), is act June 6, 1933
 
 The Rehabilitation Act of 1973, referred to in subsecs. (b)(2)(D)(iii) and (d)(11)(A), (B)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsecs. (b)(4)(A)(iii) and (d)(6)(A), (13), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsecs. (b)(4)(A)(iii) and (d)(6)(A), (13), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42,The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Amendments
 

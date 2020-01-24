@@ -18,7 +18,7 @@
 
 (c) A member of an armed force who first became a member of a uniformed service before September 8, 1980, and who—
 
-&emsp;(1) was retired for physical disability under section 1201 or 1204 of this title or any other law or whose name is on the temporary disability retired list;
+&emsp;(1) was retired for physical disability under section 1201 or 1204 of this title or any otherlaw or whose name is on the temporary disability retired list;
 
 &emsp;(2) incurs, while on active duty after retirement or after his name was placed on that list, a physical disability that is in addition to or that aggravates the physical disability for which he was retired or for which his name was placed on the temporary disability retired list; and
 
@@ -164,7 +164,7 @@ Pub. L. 102–484, div. A, title VI, §642(c), Oct. 23, 1992, 106 Stat. 2425, pr
 
 Pub. L. 98–525, title VI, §655, Oct. 19, 1984, 98 Stat. 2552, provided that:
 
-"(a) Notwithstanding the second sentence of footnote 1 of the table contained in section 1402(a) of title 10,United States Code (relating to recomputation of retired pay to reflect later active duty), in the case of a member of the Armed Forces who—
+"(a) Notwithstanding the second sentence of footnote 1 of the table contained in section 1402(a) of title 10, United States Code (relating to recomputation of retired pay to reflect later active duty), in the case of a member of the Armed Forces who—
 
 &emsp;"(1) was voluntarily called or ordered to active duty during the period beginning on October 1, 1963, and ending on September 30, 1971;
 

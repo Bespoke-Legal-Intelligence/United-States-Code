@@ -2,7 +2,7 @@
 
 #### (a) Profits; damages and costs; attorney fees
 
-When a violation of any right of the registrant of a mark registered in the Patent and Trademark Office, a violation under section 1125(a) or (d) of this title, or a willful violation under section 1125(c) of this title, shall have been established in any civil action arising under this chapter, the plaintiff shall be entitled, subject to the provisions of sections 1111 and 1114 of this title, and subject to the principles of equity, to recover (1) defendant's profits, (2) any damages sustained by the plaintiff, and (3) the costs of the action. The court shall assess such profits and damages or cause the same to be assessed under its direction. In assessing profits the plaintiff shall be required to prove defendant's sales only; defendant must prove all elements of cost or deduction claimed. In assessing damages the court may enter judgment, according to the circumstances of the case, for any sum above the amount found as actual damages, not exceeding three times such amount. If the court shall find that the amount of the recovery based on profits is either inadequate or excessive the court may in its discretion enter judgment forsuch sum as the court shall find to be just, according to the circumstances of the case. Such sum in either of the above circumstances shall constitute compensation and not a penalty. The court in exceptional cases may award reasonable attorney fees to the prevailing party.
+When a violation of any right of the registrant of a mark registered in the Patent and Trademark Office, a violation under section 1125(a) or (d) of this title, or a willful violation under section 1125(c) of this title, shall have been established in any civil action arising under this chapter, the plaintiff shall be entitled, subject to the provisions of sections 1111 and 1114 of this title, and subject to the principles of equity, to recover (1) defendant's profits, (2) any damages sustained by the plaintiff, and (3) the costs of the action. The court shall assess such profits and damages or cause the same to be assessed under its direction. In assessing profits the plaintiff shall be required to prove defendant's sales only; defendant must prove all elements of cost or deduction claimed. In assessing damages the court may enter judgment, according to the circumstances of the case, for any sum above the amount found as actual damages, not exceeding three times such amount. If the court shall find that the amount of the recovery based on profits is either inadequate or excessive the court may in its discretion enter judgment for such sum as the court shall find to be just, according to the circumstances of the case. Such sum in either of the above circumstances shall constitute compensation and not a penalty. The court in exceptional cases may award reasonable attorney fees to the prevailing party.
 
 #### (b) Treble damages for use of counterfeit mark
 
@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 107–273, §13207(b)(11), substituted "section 220506 of t
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title III, §3003(a)(2)\], inserted ", (c), or (d)" after "section 1125(a)" in first sentence.
 
-Pub. L. 106–43 substituted "a violation under section 1125(a) of this title, or a willful violation under section1125(c) of this title," for "or a violation under section 1125(a) of this title," in first sentence.
+Pub. L. 106–43 substituted "a violation under section 1125(a) of this title, or a willful violation under section 1125(c) of this title," for "or a violation under section 1125(a) of this title," in first sentence.
 
 Subsec. (d). Pub. L. 106–113, §1000(a)(9) \[title III, §3003(b)\], added subsec. (d).
 
@@ -106,5 +106,5 @@ Discretion of Courts in Determining Terms of Imprisonment.—Nothing in this tit
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certainexceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 

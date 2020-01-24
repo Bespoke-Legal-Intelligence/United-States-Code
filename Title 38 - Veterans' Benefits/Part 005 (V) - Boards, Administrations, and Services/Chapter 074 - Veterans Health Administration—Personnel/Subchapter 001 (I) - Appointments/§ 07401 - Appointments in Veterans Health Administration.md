@@ -126,9 +126,9 @@ Pub. L. 114–256, §4(b), (c), Dec. 14, 2016, 130 Stat. 1347, 1348, provided th
 
 "(b)
 
-Requirements.—With respect to appointing hearing aid specialists under sections 7401 and 7402 of title 38, United States Code, as amended by subsection (a), and providing services furnished by such specialists, the Secretary \[of Veterans Affairs\] shall ensure that—
+Requirements.—With respect to appointing hearing aid specialists under sections 7401 and 7402 of title 38, United States Code, as amended by subsection\(a), and providing services furnished by such specialists, the Secretary \[of Veterans Affairs\] shall ensure that—
 
-&emsp;"(1) a hearing aid specialist may only perform hearing services consistent with the hearing aid specialist's State license related to the practice of fitting and dispensing hearing aids without excluding otherqualified professionals, including audiologists, from rendering services in overlapping practice areas;
+&emsp;"(1) a hearing aid specialist may only perform hearing services consistent with the hearing aid specialist's State license related to the practice of fitting and dispensing hearing aids without excluding other qualified professionals, including audiologists, from rendering services in overlapping practice areas;
 
 &emsp;"(2) services provided to veterans by hearing aid specialists shall be provided as part of the non-medical treatment plan developed by an audiologist; and
 

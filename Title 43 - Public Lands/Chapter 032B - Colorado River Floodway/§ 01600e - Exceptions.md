@@ -8,7 +8,7 @@ Notwithstanding section 1600d of this title, the appropriate Federal officer, af
 
 &emsp;(c) the maintenance, replacement, reconstruction, repair, and expansion, of publicly or tribally owned or operated roads, structures (including bridges), or facilities: <i>Provided</i>, That, no such expansion shall be permitted unless—
 
-&emsp;&emsp;(1) the expansion is designed and built in accordance with the procedures and standards established in section 650.101 of title 23, Code of Federal Regulations, and the following as they may be amended from time to time; and
+&emsp;&emsp;(1) the expansion is designed and built in accordance with the procedures and standards established in section 650.101 of title 23,Code of Federal Regulations, and the following as they may be amended from time to time; and
 
 &emsp;&emsp;(2) the boundaries of the Floodway are adjusted to account for changes in flows caused, directly or indirectly, by the expansion;
 
@@ -50,7 +50,7 @@ The Disaster Relief Act of 1974, referred to in subsec. (e)(5), is Pub. L. 93–
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

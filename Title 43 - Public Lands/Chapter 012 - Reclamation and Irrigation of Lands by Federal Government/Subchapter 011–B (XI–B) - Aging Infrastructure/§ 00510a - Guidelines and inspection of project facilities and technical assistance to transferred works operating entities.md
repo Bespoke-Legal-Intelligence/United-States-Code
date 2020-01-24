@@ -44,7 +44,7 @@ The Secretary shall use the data collected through the conduct of the inspection
 
 #### (2) Costs
 
-&emsp;The Secretary is authorized to provide, on a non-reimbursable basis, up to 50 percent of the cost of such technical assistance, with the balance of such costs being advanced by the transferred works operating entity or other non-Federal source. The non-Federal 50 percent minimum cost share for such technical assistance may be in the form of in-lieu contributions of resources by the transferred works operating entity or other non-Federal source.
+&emsp;The Secretary is authorized to provide, on a non-reimbursable basis, up to 50 percent of the cost of such technical assistance, with the balance of such costs being advanced by the transferred works operating entity or othernon-Federal source. The non-Federal 50 percent minimum cost share for such technical assistance may be in the form of in-lieu contributions of resources by the transferred works operating entity or other non-Federal source.
 
 (Pub. L. 111–11, title IX, §9602, Mar. 30, 2009, 123 Stat. 1347.)
 

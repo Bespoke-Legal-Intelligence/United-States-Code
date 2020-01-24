@@ -8,7 +8,7 @@ It shall be unlawful for any of the following persons to serve or act in the cap
 
 &emsp;(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, bank, transfer agent, credit rating agency, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or
 
-&emsp;(3) a company any affiliated person of which is ineligible, by reason of paragraph (1) or (2)of this subsection, to serve or act in the foregoing capacities.
+&emsp;(3) a company any affiliated person of which is ineligible, by reason of paragraph (1) or (2) of this subsection, to serve or act in the foregoing capacities.
 
 > For the purposes of paragraphs (1) to (3) of this subsection, the term "investment adviser" shall include an investment adviser as defined in subchapter II of this chapter.
 
@@ -148,7 +148,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (5) Authority to enter order requiring accounting and disgorgement
 
-&emsp;In any cease-and-desist proceeding under subsection (f)(1), the Commission may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
+&emsp;In any cease-and-desist proceeding under subsection (f)(1), the Commission may enteran order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
 
 #### (g) Corporate or other trustees performing functions of investment advisers
 
@@ -160,7 +160,7 @@ For the purposes of this section, the term "investment adviser" includes a corpo
 
 The Commodity Exchange Act, referred to in subsecs. (a)(1), (2) and (b)(2), (3), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-The Securities Act of 1933, referred to in subsecs. (b)(2), (3) and (d)(1)(A)(i), is act May 27, 1933, ch. 38, titleI, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsecs. (b)(2), (3) and (d)(1)(A)(i), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 The Securities Exchange Act of 1934, referred to in subsecs. (b)(2), (3) and (d)(1)(A)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 

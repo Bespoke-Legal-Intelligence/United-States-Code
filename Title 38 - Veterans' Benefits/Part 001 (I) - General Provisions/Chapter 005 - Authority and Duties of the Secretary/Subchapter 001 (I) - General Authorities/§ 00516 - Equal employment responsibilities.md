@@ -50,7 +50,7 @@
 
 &emsp;(C) shall include copies of such complaints, with the information described in subparagraph (A) redacted.
 
-(4) Not later than April 1 each year, the Assistant Secretary shall submit to the committees referred to in paragraph (1)(A) a report on the complaints covered by paragraph (1) during the preceding year, including the number of such complaints filed during that year and the status and resolution of the investigation of such complaints.
+(4) Not later than April 1 each year, the Assistant Secretary shall submit to the committees referred to in paragraph (1)(A) a report onthe complaints covered by paragraph (1) during the preceding year, including the number of such complaints filed during that year and the status and resolution of the investigation of such complaints.
 
 (f) The Secretary shall ensure that an employee of the Department who seeks counseling relating to employment discrimination may elect to receive such counseling from an employee of the Department who carries out equal employment opportunity counseling functions on a full-time basis rather than from an employee of the Department who carries out such functions on a part-time basis.
 
@@ -68,31 +68,11 @@
 
 #### Effective Date
 
-Pub. L. 105–114, title I, §101(c), Nov. 21, 1997, 111 Stat. 2280, provided that: "Section 516 of title 38, United States Code, as added by subsection (a), shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\]. Subsection (e) of that section shall takeeffect with respect to the first quarter of calendar year 1998."
+Pub. L. 105–114, title I, §101(c), Nov. 21, 1997, 111 Stat. 2280, provided that: "Section 516 of title 38, United States Code, as added by subsection (a), shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\]. Subsection (e) of that section shall take effect with respect to the first quarter of calendar year 1998."
 
 #### Reports on Implementation and Operation of Equal Employment Opportunity System
 
-Pub. L. 105–114, title I, §101(b), Nov. 21, 1997, 111 Stat. 2279, provided that:
-
-"(1) The Secretary of Veterans Affairs shall submit to Congress reports on the implementation and operation of the equal employment opportunity system within the Department of Veterans Affairs. The first such report shall be submitted not later than April 1, 1998, and subsequent reports shall be submitted not later than January 1, 1999, and January 1, 2000.
-
-"(2) The first report under paragraph (1) shall set forth the actions taken by the Secretary to implement section 516 of title 38, United States Code, as added by subsection (a), and other actions taken by the Secretary in relation to the equal employment opportunity system within the Department of Veterans Affairs.
-
-"(3) The subsequent reports under paragraph (1) shall set forth, for each equal employment opportunity field office of the Department and for the Department as a whole, the following:
-
-&emsp;"(A) Any information to supplement the information submitted in the report under paragraph (2) that the Secretary considers appropriate.
-
-&emsp;"(B) The number of requests for counseling relating to employment discrimination received during the one-year period ending on the date of the report concerned.
-
-&emsp;"(C) The number of employment discrimination complaints received during such period.
-
-&emsp;"(D) The status of each complaint described in subparagraph (C), including whether or not the complaint was resolved and, if resolved, whether the employee concerned sought review of the resolution by the Equal Employment Opportunity Commission or by Federal court.
-
-&emsp;"(E) The number of employment discrimination complaints that were settled during such period, including—
-
-&emsp;&emsp;"(i) the type of such complaints; and
-
-&emsp;&emsp;"(ii) the terms of settlement (including any settlement amount) of each such complaint."
+Pub. L. 105–114, title I, §101(b), Nov. 21, 1997, 111 Stat. 2279, required the Secretary of Veterans Affairs to submit to Congress reports on the implementation and operation of the equal employment opportunity system within the Department of Veterans Affairs setting forth detailed information for each equal employment opportunity field office of the Department, with the first report due not later than Apr. 1, 1998, and subsequent reports due not later than Jan. 1, 1999, and Jan. 1, 2000.
 
 #### Assessment and Review of Employment Discrimination Complaint Resolution System
 

@@ -16,7 +16,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(6) an entity that is directed and controlled by a foreign government or governments; or
 
-&emsp;&emsp;(7) an entity not substantially composed of United States persons that is engaged in the international proliferation of weapons of mass destruction.
+&emsp;&emsp;(7) an entity not substantially composed of United States persons that is engaged in theinternational proliferation of weapons of mass destruction.
 
 &emsp;(b) "Agent of a foreign power" means—
 
@@ -80,7 +80,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(1) the acquisition by an electronic, mechanical, or other surveillance device of the contents of any wire or radio communication sent by or intended to be received by a particular, known United States person who is in the United States, if the contents are acquired by intentionally targeting that United States person, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes;
 
-&emsp;&emsp;(2) the acquisition by an electronic, mechanical, or other surveillance device of the contents of any wire communication to orfrom a person in the United States, without the consent of any party thereto, if such acquisition occurs in the United States, but does not include the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18;
+&emsp;&emsp;(2) the acquisition by an electronic, mechanical, or other surveillance device of the contents of any wire communication to or from a person in the United States, without the consent of any party thereto, if such acquisition occurs in the United States, but does not include the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18;
 
 &emsp;&emsp;(3) the intentional acquisition by an electronic, mechanical, or other surveillance device of the contents of any radio communication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes, and if both the sender and all intended recipients are located within the United States; or
 
@@ -122,7 +122,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(4) any weapon that is designed, intended, or has the capability to release radiation or radioactivity causing death, illness, or serious bodily injury to a significant number of persons.
 
-(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III,§314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742; Pub. L. 109–177, title V, §506(a)(5), Mar. 9, 2006, 120 Stat. 248; Pub. L. 110–261, title I, §110(a), July 10, 2008, 122 Stat. 2465; Pub. L. 111–259, title VIII, §801(1), Oct. 7, 2010, 124 Stat. 2746; Pub. L. 114–23, title VII, §§702, 703, June 2, 2015, 129 Stat. 300.)
+(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III, §314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742; Pub. L. 109–177, title V, §506(a)(5), Mar. 9, 2006, 120 Stat. 248; Pub. L. 110–261, title I, §110(a), July 10, 2008, 122 Stat. 2465; Pub. L. 111–259, title VIII, §801(1), Oct. 7, 2010, 124 Stat. 2746; Pub. L. 114–23, title VII, §§702, 703, June 2, 2015, 129 Stat. 300.)
 
 #### Amendment of Section
 
@@ -162,11 +162,11 @@ Pub. L. 110–261, title IV, §402, July 10, 2008, 122 Stat. 2473, provided that
 
 #### Termination Date of 2004 Amendment
 
-Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, as amended by Pub. L. 109–177, title I, §103, Mar. 9, 2006, 120 Stat. 195; Pub. L. 111–118, div. B, §1004(b), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(b), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, §2(b), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(b), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, §705(b), June 2, 2015, 129 Stat. 300, provided that:
+Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, as amended by Pub. L. 109–177, title I, §103, Mar. 9, 2006, 120 Stat. 195; Pub. L. 111–118, div. B, §1004(b), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(b), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, §2(b), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(b), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, §705(b), June 2, 2015, 129 Stat. 300; Pub. L. 116–69, div. B, title VII, §1703(b), Nov. 21, 2019, 133 Stat. 1143, provided that:
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall cease to have effect on December 15, 2019.
+In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall cease to have effect on March 15, 2020.
 
 "(2)
 
@@ -192,11 +192,11 @@ Pub. L. 114–23, §1(a), June 2, 2015, 129 Stat. 268, provided that: "This Act 
 
 #### Short Title of 2012 Amendment
 
-Pub. L. 112–238, §1, Dec. 30, 2012, 126 Stat. 1631, provided that: "This Act \[amending sections 1881 to 1881g of this title and provisions set out as notes under this section, section 1881 of this title, and section 2511 of Title 18, Crimes and Criminal Procedure\] may be citedas the 'FISA Amendments Act Reauthorization Act of 2012'."
+Pub. L. 112–238, §1, Dec. 30, 2012, 126 Stat. 1631, provided that: "This Act \[amending sections 1881 to 1881g of this title and provisions set out as notes under this section, section 1881 of this title, and section 2511 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'FISA Amendments Act Reauthorization Act of 2012'."
 
 #### Short Title of 2011 Amendment
 
-Pub. L. 112–14, §1, May 26, 2011, 125 Stat. 216, provided that: "This Act \[amending sections 1805, 1861, and 1862 of this title and provisions set out as notes under this section and section 1805 of this title\] may be cited as the 'PATRIOT Sunsets Extension Act of 2011'."
+Pub. L. 112–14, §1, May 26, 2011, 125 Stat. 216, provided that: "This Act \[amending sections 1805, 1861, and 1862of this title and provisions set out as notes under this section and section 1805 of this title\] may be cited as the 'PATRIOT Sunsets Extension Act of 2011'."
 
 Pub. L. 112–3, §1, Feb. 25, 2011, 125 Stat. 5, provided that: "This Act \[amending sections 1805, 1861, and 1862 of this title and provisions set out as notes under this section and section 1805 of this title\] may be cited as the 'FISA Sunsets Extension Act of 2011'."
 
@@ -272,7 +272,7 @@ Reporting requirements.—
 
 &emsp;&emsp;"(A)
 
-Continued applicability.—Notwithstanding any other provision of this Act, any amendment made by this Act, the Protect America Act of 2007 (Public Law 110–55) \[see Short Title of 2007 Amendment note above\], or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 4 of the Protect America Act of 2007 \[121 Stat. 555\] shall continue to apply until the date that the certification described in subparagraph (B) is submitted.
+Continued applicability.—Notwithstanding any other provision of this Act, any amendment made by this Act, the Protect America Act of 2007\(Public Law 110–55) \[see Short Title of 2007 Amendment note above\], or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 4 of the Protect America Act of 2007 \[121 Stat. 555\] shall continue to apply until the date that the certification described in subparagraph (B) is submitted.
 
 &emsp;&emsp;"(B)
 
@@ -352,7 +352,7 @@ Certification.—The certification described in this subparagraph is a certifica
 
 &emsp;&emsp;&emsp;"(iii) that states that there will be no further acquisitions carried out under title VII of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881 et seq.\], as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017, after the date of such certification; and
 
-&emsp;&emsp;&emsp;"(iv) that states that the information required to be included in a review, assessment, or report under section 601 of such Act \[50 U.S.C. 1871\], asamended by section 101(c), or section 702(m) or 707 of such Act, as added by section 101(a) and amended by the FISA Amendments Reauthorization Act of 2017, relating to any acquisition conducted under title VII of such Act, as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017, has been included in a review, assessment, or report under such section 601, 702(l) \[now 702(m)\], or 707.
+&emsp;&emsp;&emsp;"(iv) that states that the information required to be included in a review, assessment, or report under section 601 of such Act \[50 U.S.C. 1871\], as amended by section 101(c), or section 702(m) or 707 of such Act, as added by section 101(a) and amended by the FISA Amendments Reauthorization Act of 2017, relating to any acquisition conducted under title VII of such Act, as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017, has been included in a review, assessment, or report under such section 601, 702(l) \[now 702(m)\], or 707.
 
 &emsp;"(5)
 

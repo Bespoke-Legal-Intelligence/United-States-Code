@@ -8,7 +8,7 @@
 
 &emsp;(3) any rights or duties that matured or penalties that were incurred prior to such date.
 
-(b) For the purpose of this section, the words "any national emergency in effect" means a general declaration of emergency made by the President.
+(b) For the purpose of this section, the words "any national emergency in effect" means ageneral declaration of emergency made by the President.
 
 (Pub. L. 94–412, title I, §101, Sept. 14, 1976, 90 Stat. 1255.)
 

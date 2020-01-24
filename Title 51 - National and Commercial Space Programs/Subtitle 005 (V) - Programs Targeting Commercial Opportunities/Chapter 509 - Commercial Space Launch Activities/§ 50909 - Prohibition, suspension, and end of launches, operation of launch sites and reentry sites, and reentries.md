@@ -6,7 +6,7 @@ General Authority.—The Secretary of Transportation may prohibit, suspend, or e
 
 (b)
 
-Effective Periods of Orders.—An order under this section takes effect immediately andremains in effect during a review under section 50912 of this title.
+Effective Periods of Orders.—An order under this section takes effect immediately and remains in effect during a review under section 50912 of this title.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1334, §70108 of title 49; Pub. L. 105–303, title I, §102(a)(8), Oct. 28, 1998, 112 Stat. 2848; renumbered §70108 then §50909 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(I), (5)(L), Dec. 18, 2010, 124 Stat. 3440–3442.)
 
@@ -36,7 +36,7 @@ Oct. 30, 1984, Pub. L. 98–575, §11, 98 Stat. 3059.
 
 Subsec. (b). Pub. L. 111–314, §4(d)(5)(L), substituted "section 50912" for "section 70110".
 
-<b>1998</b>—Pub. L. 105–303, §102(a)(8)(A), substituted "Prohibition, suspension, and end of launches, operation of launch sites and reentry sites, and reentries" for "Prohibition, suspension, and end of launches and operation of launch sites" in section catchline.
+<b>1998</b>—Pub. L. 105–303, §102(a)(8)(A), substituted "Prohibition, suspension, and end of launches, operation oflaunch sites and reentry sites, and reentries" for "Prohibition, suspension, and end of launches and operation of launch sites" in section catchline.
 
 Subsec. (a). Pub. L. 105–303, §102(a)(8)(B), inserted "or reentry site, or reentry of a reentry vehicle," after "operation of a launch site" and "or reentry" after "launch or operation".
 

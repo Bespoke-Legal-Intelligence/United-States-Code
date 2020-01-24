@@ -40,7 +40,7 @@ Within ninety days following the expiration of the three year period following J
 
 #### (g) Authorization of appropriations
 
-For the purpose of carrying out the provisions of this section, there is authorized to be appropriated the sum of $35,000,000 for the fiscal year ending June 30, 1974; $35,000,000 for each of the four succeeding fiscal years; and thereafter, such sums as may be necessary, all of such sums to remain available until expended.
+For the purpose of carrying out the provisions of this section, there is authorized to be appropriated the sum of $35,000,000 for the fiscal year ending June 30, 1974; $35,000,000 for each of the four succeeding fiscal years; and thereafter,such sums as may be necessary, all of such sums to remain available until expended.
 
 (Pub. L. 93–638, title II, §204, Jan. 4, 1975, 88 Stat. 2214; Pub. L. 96–88, title III, §301, title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 

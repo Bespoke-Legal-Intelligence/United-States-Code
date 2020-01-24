@@ -26,7 +26,7 @@ Section 8 of Reorganization Plan Numbered 2 of 1977, referred to in text, is set
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–323, title VII, §702(b), Dec. 16, 2016, 130 Stat. 1940, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 2016. Any lapse in powers, authorities, or responsibilities of the United States Advisory Commission on Public Diplomacy from the period beginning on October 1, 2016, and ending on the date of the enactment of this Act \[Dec. 16, 2016\], shall be deemed to have not so lapsed."
+Pub. L. 114–323, title VII, §702(b), Dec. 16, 2016, 130 Stat. 1940, provided that: "The amendment made bysubsection (a) \[amending this section\] shall take effect as of October 1, 2016. Any lapse in powers, authorities, or responsibilities of the United States Advisory Commission on Public Diplomacy from the period beginning on October 1, 2016, and ending on the date of the enactment of this Act \[Dec. 16, 2016\], shall be deemed to have not so lapsed."
 
 #### Effective Date of 2013 Amendment
 

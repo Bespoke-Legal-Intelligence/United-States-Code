@@ -126,7 +126,7 @@ Exceptions.—An individual who has not completed the training required by this 
 
 &emsp;(4)
 
-Remedial training.—No individual employed as a security screener may perform ascreening function after that individual has failed an operational test related to that function until that individual has successfully completed the remedial training specified in the security program.
+Remedial training.—No individual employed as a security screener may perform a screening function after that individual has failed an operational test related to that function until that individual has successfully completed the remedial training specified in the security program.
 
 &emsp;(5)
 
@@ -262,7 +262,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §316(c); added Aug. 5, 1974, Pub
 
 In subsection (a), before clause (1), the words "Not later than 270 days after November 16, 1990" are omitted as obsolete. The words "contracting for" are substituted for "contracting of" for clarity and consistency in the revised title.
 
-In subsection (c)(1)(A), the words "individuals employed" are substituted for "personnel employed by him . . . and for other personnel, including State, local, and private law enforcement personnel, whose services may be utilized" for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (c)(1)(A), the words "individuals employed" are substituted for "personnel employed by him . . . and for other personnel, including State, local, and private law enforcement personnel, whose servicesmay be utilized" for clarity and consistency in the revised title and with other titles of the United States Code.
 
 In subsection (c)(1)(B), the words "individuals eligible" are substituted for "personnel whose services are utilized to enforce any such transportation security program, including State, local, and private law enforcement personnel . . . for personnel eligible" for clarity and consistency in the revised title and with other titles of the Code.
 
@@ -350,13 +350,13 @@ Required Action.—The Assistant Secretary of Homeland Security (Transportation 
 
 "(b)
 
-Human Factors Study.—In carrying out this section, the Assistant Secretary shall provide, not laterthan 180 days after the date of the enactment of this Act \[Dec. 17, 2004\], to the appropriate congressional committees a report on the results of any human factors study conducted by the Department of Homeland Security to better understand problems in screener performance and to improve screener performance."
+Human Factors Study.—In carrying out this section, the Assistant Secretary shall provide, not later than 180 days after the date of the enactment of this Act \[Dec. 17, 2004\], to the appropriate congressional committees a report on the results of any human factors study conducted by the Department of Homeland Security to better understand problems in screener performance and to improve screener performance."
 
 \[For definitions of "airport" and "appropriate congressional committees" used in section 4015 of Pub. L. 108–458, set out above, see section 4081 of Pub. L. 108–458, set out as a note under section 44901 of this title.\]
 
 #### Screener Personnel
 
-Pub. L. 107–71, title I, §111(d), Nov. 19, 2001, 115 Stat. 620, as amended by Pub. L. 112–171, §1(a), Aug. 16, 2012, 126 Stat. 1306, provided that:
+Pub. L. 107–71, title I, §111(d), Nov. 19, 2001, 115 Stat. 620, as amended by Pub. L. 112–171, §1(a), Aug. 16, 2012, 126 Stat. 1306; Pub. L. 116–92, div. F, title LXXVI, §7606, Dec. 20, 2019, 133 Stat. 2309, provided that:
 
 "(1)
 
@@ -364,7 +364,15 @@ General authority.—Except as provided in paragraph (2), and notwithstanding an
 
 "(2)
 
-Uniformed services employment and reemployment rights act.—In carrying out the functions authorized under paragraph (1), the Under Secretary shall be subject to the provisions set forth in chapter 43 of title 38, United States Code."
+Exceptions.—
+
+&emsp;"(A)
+
+Reemployment.—In carrying out the functions authorized under paragraph (1), the Under Secretary shall be subject to the provisions set forth in chapter 43 of title 38, United States Code.
+
+&emsp;"(B)
+
+Leave.—The provisions of subchapter V of chapter 63 of title 5, United States Code, shall apply to any individual appointed under paragraph (1) as if such individual were an employee (within the meaning of subparagraph (A) of section 6381(1) of such title)."
 
 \[Pub. L. 112–171, §1(b), Aug. 16, 2012, 126 Stat. 1306, provided that: "The amendments made by subsection (a) \[amending section 111(d) of Pub. L. 107–71, set out above\] shall take effect on the date that is 270 days after the date of the enactment of this Act \[Aug. 16, 2012\]."\]
 

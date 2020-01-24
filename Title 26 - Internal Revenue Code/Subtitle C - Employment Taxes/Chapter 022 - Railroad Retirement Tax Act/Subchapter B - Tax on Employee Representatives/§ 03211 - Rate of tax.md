@@ -28,7 +28,7 @@ Subsec. (c). Pub. L. 107–90, §204(b), added subsec. (c).
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508 substituted "applicable" for "following" before "percentage of the" and provision defining the term "applicable percentage" for provision specifying that in the case of compensation received during 1985 the rate of tax was 14.10 percent, for 1986 or 1987 the rate was 14.30 percent, for 1988 or 1989 the rate was 15.02 percent, and for 1990 or thereafter the rate was 15.30 percent.
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–76, §223, substituted provisions imposing a two tiered tax on each employeerepresentative equal to the percentage of the compensation received during any calendar year by such employee representative for services rendered as is set out in accompanying tables, for provisions that had imposed on each employee representative a tax equal to 12.75 percent plus the sum of the rates of tax imposed with respect to wages by sections 3101(a), 3101(b), 3111(a), and 3111(b) of so much of the compensation paid in any calendar month to such employee representative for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable "wage" as defined in section 3121 for any month.
+<b>1983</b>—Subsec. (a). Pub. L. 98–76, §223, substituted provisions imposing a two tiered tax on each employee representative equal to the percentage of the compensation received during any calendar year by such employee representative for services rendered as is set out in accompanying tables, for provisions that had imposed on each employee representative a tax equal to 12.75 percent plus the sum of the rates of tax imposed with respect to wages by sections 3101(a), 3101(b), 3111(a), and 3111(b) of so much of the compensation paid in any calendar month to such employee representative for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable "wage" as defined in section 3121 for any month.
 
 Pub. L. 98–76, §211(c), substituted "12.75 percent" for "11.75 percent".
 
@@ -42,7 +42,7 @@ Pub. L. 98–76, §211(c), substituted "12.75 percent" for "11.75 percent".
 
 <b>1970</b>—Subsec. (b). Pub. L. 91–215 substituted the rate of excise tax imposed on every employer under section 3221(c) of this title for a flat 2-cents per man hour tax as the rate for additional taxes imposed on the income of employee representatives for each man hour of compensation paid.
 
-<b>1966</b>—Pub. L. 89–700 substituted "rendered after September 30, 1965" for "rendered after December 31, 1964", and "(i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965" for "$400 for any calendar month before the calendar month next following the month in which this provision was amended in 1963, or $450 for any calendar month after the month in which this provision was so amended and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after the month in which this provision was so amended".
+<b>1966</b>—Pub. L. 89–700 substituted "rendered after September 30, 1965" for "rendered after December 31, 1964", and "(i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965" for "$400 for any calendar month before the calendar month next following the month in which this provision was amended in 1963, or $450 for any calendar month after the month in which this provision was soamended and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after the month in which this provision was so amended".
 
 Pub. L. 89–699, §301(b), (d), designated existing provisions as subsec. (a), and substituted "14 percent" for "13½ percent" in subd. (3), "14½ percent" for "14 percent" in subd. (4), and "15 percent" for "14½ percent" in subd. (5).
 
@@ -104,7 +104,7 @@ Amendment by section 111(c)(2) of Pub. L. 89–97 applicable to calendar year 19
 
 #### Effective Date of 1959 Amendment
 
-Amendment by Pub. L. 86–28 effective, except as otherwise provided, first day of calendar month next following May 1959, see section 202 of Pub. L. 86–28, set out as a note under section 3201 of this title.
+Amendment by Pub. L. 86–28 effective, except as otherwise provided, first day of calendar month nextfollowing May 1959, see section 202 of Pub. L. 86–28, set out as a note under section 3201 of this title.
 
 #### Effective Date of 1954 Amendment
 

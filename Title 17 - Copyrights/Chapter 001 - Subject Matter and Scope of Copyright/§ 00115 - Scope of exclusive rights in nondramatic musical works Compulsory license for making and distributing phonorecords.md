@@ -40,7 +40,7 @@ Procedures To Obtain a Compulsory License.—
 
 &emsp;(1)
 
-Phonorecords other than digital phonorecord deliveries.—A person who seeks to obtain a compulsory license under subsection (a) to make and distribute phonorecords of a musical work other than by means of digital phonorecord delivery shall, before, or not later than 30 calendar days after, making, and before distributing, any phonorecord of the work, serve notice of intention to do so on the copyright owner. If the registration or other public records of the Copyright Office do not identify the copyright owner and include an address at which notice can be served, it shall be sufficient to file the notice of intention with the Copyright Office. The notice shall comply, in form, content, and manner of service, with requirements that the Register of Copyrights shall prescribe by regulation.
+Phonorecords other than digital phonorecord deliveries.—A person who seeksto obtain a compulsory license under subsection (a) to make and distribute phonorecords of a musical work other than by means of digital phonorecord delivery shall, before, or not later than 30 calendar days after, making, and before distributing, any phonorecord of the work, serve notice of intention to do so on the copyright owner. If the registration or other public records of the Copyright Office do not identify the copyright owner and include an address at which notice can be served, it shall be sufficient to file the notice of intention with the Copyright Office. The notice shall comply, in form, content, and manner of service, with requirements that the Register of Copyrights shall prescribe by regulation.
 
 &emsp;(2)
 
@@ -100,7 +100,7 @@ Royalty for digital phonorecord deliveries.—For every digital phonorecord deli
 
 &emsp;&emsp;(D)
 
-Authority to negotiate.—Notwithstanding any provision of the antitrust laws, any copyright owners of nondramatic musical works and any persons entitled to obtain a compulsory license under subsection (a) may negotiate and agree upon the terms and rates of royalty payments under this section and the proportionate division of fees paid among copyright owners, and may designatecommon agents on a nonexclusive basis to negotiate, agree to, pay or receive such royalty payments. Such authority to negotiate the terms and rates of royalty payments includes, but is not limited to, the authority to negotiate the year during which the royalty rates prescribed under this subparagraph, subparagraphs (E) and (F), paragraph (2)(A), and chapter 8 shall next be determined.
+Authority to negotiate.—Notwithstanding any provision of the antitrust laws, any copyright owners of nondramatic musical works and any persons entitled to obtain a compulsory license under subsection (a) may negotiate and agree upon the terms and rates of royalty payments under this section and the proportionate division of fees paid among copyright owners, and may designate common agents on a nonexclusive basis to negotiate, agree to, pay or receive such royalty payments. Such authority to negotiate the terms and rates of royalty payments includes, but is not limited to, the authorityto negotiate the year during which the royalty rates prescribed under this subparagraph, subparagraphs (E) and (F), paragraph (2)(A), and chapter 8 shall next be determined.
 
 &emsp;&emsp;(E)
 
@@ -148,7 +148,7 @@ In general.—A digital phonorecord delivery of a sound recording is actionable 
 
 &emsp;&emsp;&emsp;&emsp;(I) the digital phonorecord delivery has been authorized by the sound recording copyright owner; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the entity making the digital phonorecord delivery has obtained a compulsory license under subsection (a) or has otherwise been authorized by the musical work copyright owner, or by a record company pursuant to an individual download license, to make and distribute phonorecords of each musical work embodied in the sound recording by means of digital phonorecord delivery.
+&emsp;&emsp;&emsp;&emsp;(II) the entity making the digital phonorecord delivery has obtained a compulsory license under subsection (a) or has otherwise been authorized by the musical work copyright owner, or by arecord company pursuant to an individual download license, to make and distribute phonorecords of each musical work embodied in the sound recording by means of digital phonorecord delivery.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -198,7 +198,7 @@ Blanket license for digital uses.—
 
 &emsp;&emsp;(A)
 
-In general.—A digital music provider that qualifies for a compulsory license under subsection (a) may, by complying with the terms and conditions of this subsection, obtain a blanket license from copyright owners through the mechanical licensing collective to make and distribute digital phonorecord deliveries of musical works through one or more covered activities.
+In general.—A digital music provider that qualifies for a compulsory license under subsection (a) may, by complying with theterms and conditions of this subsection, obtain a blanket license from copyright owners through the mechanical licensing collective to make and distribute digital phonorecord deliveries of musical works through one or more covered activities.
 
 &emsp;&emsp;(B)
 
@@ -318,9 +318,9 @@ In general.—The mechanical licensing collective is authorized to perform the f
 
 &emsp;&emsp;&emsp;&emsp;(VI) Administer collections of the administrative assessment from digital music providers and significant nonblanket licensees, including receipt of notices of nonblanket activity.
 
-&emsp;&emsp;&emsp;&emsp;(VII) Invest in relevant resources, and arrange for services of outside vendorsand others, to support the activities of the mechanical licensing collective.
+&emsp;&emsp;&emsp;&emsp;(VII) Invest in relevant resources, and arrange for services of outside vendors and others, to support the activities of the mechanical licensing collective.
 
-&emsp;&emsp;&emsp;&emsp;(VIII) Engage in legal and other efforts to enforce rights and obligations under this subsection, including by filing bankruptcy proofs of claims for amounts owed under licenses, and acting in coordination with the digital licensee coordinator.
+&emsp;&emsp;&emsp;&emsp;(VIII) Engage in legal and other efforts to enforce rights and obligations under this subsection, including by filing bankruptcy proofs of claims for amountsowed under licenses, and acting in coordination with the digital licensee coordinator.
 
 &emsp;&emsp;&emsp;&emsp;(IX) Initiate and participate in proceedings before the Copyright Royalty Judges to establish the administrative assessment under this subsection.
 
@@ -578,7 +578,7 @@ Collection and distribution of royalties.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Upon receiving reports of usage and payments of royalties fromdigital music providers for covered activities, the mechanical licensing collective shall—
+In general.—Upon receiving reports of usage and payments of royalties from digital music providers for covered activities, the mechanical licensing collective shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) engage in efforts to—
 
@@ -636,9 +636,9 @@ Distribution procedures.—After the expiration of the prescribed holding period
 
 &emsp;&emsp;&emsp;&emsp;(II) Copyright owners' payment shares for unclaimed accrued royalties for particular reporting periods shall be determined in a transparent and equitable manner based on data indicating the relative market shares of such copyright owners as reflected in reports of usage provided by digital music providers for covered activities for the periods in question, including, in addition to usage data provided to the mechanical licensing collective, usage data provided to copyright owners under voluntary licenses and individual download licenses for covered activities, to the extent such information is available to the mechanical licensing collective. In furtherance of the determination of equitable market shares under this subparagraph—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the mechanical licensing collective may require copyright owners seeking distributions of unclaimed accrued royalties to provide, or direct the provision of, information concerning the usage of musical works undervoluntary licenses and individual download licenses for covered activities; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the mechanical licensing collective may require copyright owners seeking distributions of unclaimed accrued royalties to provide, or direct the provision of, information concerning the usage of musical works under voluntary licenses and individual download licenses for covered activities; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the mechanical licensing collective shall take appropriate steps to safeguard the confidentiality and security of usage, financial, and other sensitive data used to compute market shares in accordance with the confidentiality provisions prescribed by the Register of Copyrights under paragraph (12)(C).
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the mechanical licensing collective shall take appropriate steps tosafeguard the confidentiality and security of usage, financial, and other sensitive data used to compute market shares in accordance with the confidentiality provisions prescribed by the Register of Copyrights under paragraph (12)(C).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -736,7 +736,7 @@ Data to be reported.—In reporting usage of musical works to the mechanical lic
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) provide identifying information for the sound recording, including sound recording name, featured artist, and, to the extent acquired by the digital music provider in connection with its use of sound recordings of musical works to engage in covered activities, including pursuant to subparagraph (B), sound recording copyright owner, producer, international standard recording code, and other information commonly used in the industry to identify sound recordings and match them to the musical works the sound recordings embody;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) to the extent acquired by the digital music provider in the metadata provided by sound recording copyright owners or other licensors of sound recordings in connection with the use of sound recordings of musical works to engage in covered activities, including pursuant to subparagraph (B), provide information concerning authorship and ownership of the applicable rights in the musical work embodied in thesound recording (including each songwriter, publisher name, and respective ownership share) and the international standard musical work code; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) to the extent acquired by the digital music provider in the metadata provided by sound recording copyright owners or other licensors of sound recordings in connection with the use of sound recordings of musical works to engage in covered activities, including pursuant to subparagraph (B), provide information concerning authorship and ownership of the applicable rights in the musical work embodied in the sound recording (including each songwriter, publisher name, and respective ownership share) and the international standard musical work code; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) provide the number of digital phonorecord deliveries of the sound recording, including limited downloads and interactive streams;
 
@@ -786,7 +786,7 @@ Verification process.—The mechanical licensing collective may conduct an audit
 
 &emsp;&emsp;&emsp;&emsp;(V) The qualified auditor shall determine the accuracy of royalty payments, including whether an underpayment or overpayment of royalties was made by the digital music provider to the mechanical licensing collective, except that, before providing a final audit report to the mechanical licensing collective, the qualified auditor shall provide a tentative draft of the report to the digital music provider and allow the digital music provider a reasonable opportunity to respond to the findings, including by clarifying issues and correcting factual errors.
 
-&emsp;&emsp;&emsp;&emsp;(VI) The mechanical licensing collective shall pay the cost of the audit, unless the qualified auditor determines that there was an underpayment by the digital music provider of not less than 10 percent, in which case the digital music provider shall bear the reasonable costs of the audit, in addition to paying the amount of any underpayment to the mechanical licensing collective. In case of an overpayment by the digital music provider, the mechanical licensing collective shall provide a credit to the account of the digital music provider.
+&emsp;&emsp;&emsp;&emsp;(VI) The mechanical licensing collective shall pay the cost of the audit, unless the qualified auditor determines that there was an underpayment by the digital music provider of not less than 10 percent, in which case the digital music provider shall bear the reasonable costsof the audit, in addition to paying the amount of any underpayment to the mechanical licensing collective. In case of an overpayment by the digital music provider, the mechanical licensing collective shall provide a credit to the account of the digital music provider.
 
 &emsp;&emsp;&emsp;&emsp;(VII) A digital music provider may not assert section 507 or any other Federal or State statute of limitations, doctrine of laches or estoppel, or similar provision as a defense to a legal action arising from an audit under this subparagraph if such legal action is commenced not more than 6 years after the commencement of the audit that is the basis for such action.
 
@@ -854,7 +854,7 @@ Initial designation.—The Register of Copyrights shall initially designate the 
 
 &emsp;&emsp;&emsp;(ii)
 
-Periodic review of designation.—Following the initial designation of the digital licensee coordinator, the Register of Copyrights shall, every 5 years, beginning with the fifth full calendar year to commence after the initial designation, determine whether the existing designation should be continued, or a different entity meeting the criteria described in clauses (i) through (iii) of subparagraph (A) should be designated, in accordance with the same procedure described for the mechanical licensing collective in paragraph (3)(B)(ii).
+Periodic review of designation.—Following the initial designation of the digital licensee coordinator, the Register of Copyrights shall, every 5 years, beginning with the fifth full calendar year tocommence after the initial designation, determine whether the existing designation should be continued, or a different entity meeting the criteria described in clauses (i) through (iii) of subparagraph (A) should be designated, in accordance with the same procedure described for the mechanical licensing collective in paragraph (3)(B)(ii).
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -992,7 +992,7 @@ Administrative assessment to cover collective total costs.—The administrative 
 
 Separate proceeding before copyright royalty judges.—The amount and terms of the administrative assessment shall be determined and established in a separate and independent proceeding before the Copyright Royalty Judges, according to the procedures described in clauses (iii) and (iv). The administrative assessment determined in such proceeding shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) be wholly independent of royalty rates and terms applicable to digital music providers, which shall not be taken into consideration in any mannerin establishing the administrative assessment;
+&emsp;&emsp;&emsp;&emsp;(I) be wholly independent of royalty rates and terms applicable to digital music providers, which shall not be taken into consideration in any manner in establishing the administrative assessment;
 
 &emsp;&emsp;&emsp;&emsp;(II) be established by the Copyright Royalty Judges in an amount that is calculated to defray the reasonable collective total costs;
 
@@ -1032,7 +1032,7 @@ Adjustment of administrative assessment.—The administrative assessment may be 
 
 &emsp;&emsp;&emsp;(v)
 
-Adoption of voluntary agreements.—In lieu of reaching their own determination based on evaluation of relevant data, the Copyright Royalty Judgesshall approve and adopt a negotiated agreement to establish the amount and terms of the administrative assessment that has been agreed to by the mechanical licensing collective and the digital licensee coordinator (or if none has been designated, interested digital music providers and significant nonblanket licensees representing more than half of the market for uses of musical works in covered activities), except that the Copyright Royalty Judges shall have the discretion to reject any such agreement for good cause shown. An administrative assessment adopted under this clause shall apply to all digital music providers and significant nonblanket licensees engaged in covered activities during the period the administrative assessment is in effect.
+Adoption of voluntary agreements.—In lieu of reaching their own determination based on evaluation of relevant data, the Copyright Royalty Judges shall approve and adopt a negotiated agreement to establish the amount and terms of the administrative assessment that has been agreed to by the mechanicallicensing collective and the digital licensee coordinator (or if none has been designated, interested digital music providers and significant nonblanket licensees representing more than half of the market for uses of musical works in covered activities), except that the Copyright Royalty Judges shall have the discretion to reject any such agreement for good cause shown. An administrative assessment adopted under this clause shall apply to all digital music providers and significant nonblanket licensees engaged in covered activities during the period the administrative assessment is in effect.
 
 &emsp;&emsp;&emsp;(vi)
 
@@ -1088,7 +1088,7 @@ Substitution of blanket license.—On the license availability date, a blanket l
 
 &emsp;&emsp;(B)
 
-Expiration of existing licenses.—Except to the extent provided in subparagraph (A), on and after the license availability date, licenses other than individual download licenses obtained under this section for covered activities prior to the license availability date shall no longer continue in effect.
+Expiration of existing licenses.—Except to the extent provided in subparagraph (A), on and after the license availability date, licenses other than individualdownload licenses obtained under this section for covered activities prior to the license availability date shall no longer continue in effect.
 
 &emsp;&emsp;(C)
 
@@ -1130,7 +1130,7 @@ Requirements for limitation on liability.—The following requirements shall app
 
 &emsp;&emsp;&emsp;(iv) If the copyright owner is not identified or located by the end of the calendar month in which the digital music provider first makes use of the work, the digital music provider shall accrue and hold royalties calculated under the applicable statutory rate in accordance with usage of the work, from initial use of the work until the accrued royalties can be paid to the copyright owner or are required to be transferred to the mechanical licensing collective, as follows:
 
-&emsp;&emsp;&emsp;&emsp;(I) Accrued royalties shall be maintained by the digital music provider inaccordance with generally accepted accounting principles.
+&emsp;&emsp;&emsp;&emsp;(I) Accrued royalties shall be maintained by the digital music provider in accordance with generally accepted accounting principles.
 
 &emsp;&emsp;&emsp;&emsp;(II) If a copyright owner of an unmatched musical work (or share thereof) is identified and located by or to the digital music provider before the license availability date, the digital music provider shall—
 
@@ -1250,7 +1250,7 @@ Blanket license.—The term "blanket license" means a compulsory license describ
 
 Collective total costs.—The term "collective total costs"—
 
-&emsp;&emsp;(A) means the total costs of establishing, maintaining, and operating the mechanical licensing collective to fulfill its statutory functions, including—
+&emsp;&emsp;(A) means the total costs of establishing, maintaining, and operating the mechanicallicensing collective to fulfill its statutory functions, including—
 
 &emsp;&emsp;&emsp;(i) startup costs;
 
@@ -1340,7 +1340,7 @@ Notice of license.—The term "notice of license" means a notice from a digital 
 
 &emsp;(23)
 
-Notice of nonblanket activity.—The term "notice of nonblanket activity" means a notice from a significant nonblanket licensee provided under subsection (d)(6)(A) for purposes of notifying the mechanical licensing collective that the licensee has been engaging in covered activities.
+Notice of nonblanket activity.—The term "notice of nonblanket activity" means anotice from a significant nonblanket licensee provided under subsection (d)(6)(A) for purposes of notifying the mechanical licensing collective that the licensee has been engaging in covered activities.
 
 &emsp;(24)
 
@@ -1420,7 +1420,7 @@ Voluntary license.—The term "voluntary license" means a license for use of a m
 
 The provisions of section 1(e) and 101(e) of the present law \[sections 1(e) and 101(e) of former title 17\], establishing a system of compulsory licensing for the making and distribution of phonorecords of copyrighted music, are retained with a number of modifications and clarifications in section 115 of the bill. Under these provisions, which represented a compromise of the most controversial issue of the 1909 act, a musical composition that has been reproduced in phonorecords with the permission of the copyright owner may generally be reproduced in phonorecords by another person, if that person notifies the copyright owner and pays a specified royalty.
 
-The fundamental question of whether to retain the compulsory license or to do away with it altogether was a major issue during earlier stages of the program for general revision of the copyright law. At the hearings it was apparent that the argument on this point had shifted, and the real issue was not whether to retain the compulsory license but how much the royalty rate under it should be. The arguments for and against retention of the compulsory license are outlined at pages 66–67 of this Committee's 1967 report (H. Rept.No. 83, 90th Cong., 1st Sess.). The Committee's conclusion on this point remains the same as in 1967: "that a compulsory licensing system is still warranted as a condition for the rights of reproducing and distributing phonorecords of copyrighted music," but "that the present system is unfair and unnecessarily burdensome on copyright owners, and that the present statutory rate is too low."
+The fundamental question of whether to retain the compulsory license or to do away with it altogether was a major issue during earlier stages of the program for general revision of the copyright law. At the hearings it was apparent that the argument on this point had shifted, and the real issue was not whether to retain the compulsory license but how much the royalty rate under it should be. The arguments for and against retention of the compulsory license are outlined at pages 66–67 of this Committee's 1967 report (H. Rept. No. 83, 90th Cong., 1st Sess.). The Committee's conclusion on this point remains the same as in 1967: "that a compulsory licensing system is still warranted as acondition for the rights of reproducing and distributing phonorecords of copyrighted music," but "that the present system is unfair and unnecessarily burdensome on copyright owners, and that the present statutory rate is too low."
 
 <b>Availability and Scope of Compulsory License.</b> Subsection (a) of section 115 deals with three doubtful questions under the present law: (1) the nature of the original recording that will make the work available to others for recording under a compulsory license; (2) the nature of the sound recording that can be made under a compulsory license; and (3) the extent to which someone acting under a compulsory license can depart from the work as written or recorded without violating the copyright owner's right to make an "arrangement" or other derivative work. The first two of these questions are answered in clause (1) of section 115(a), and the third is the subject of clause (2).
 
@@ -1442,7 +1442,7 @@ Clause (2) \[formerly clause (3)\] of section 115(b) \[cl. (2) of subsec. (b) of
 
 <b>Royalty Payable Under Compulsory License.</b> <b><i>Identification of Copyright Owner</i></b>.—Under the present law a copyright owner is obliged to file a "notice of use" in the Copyright Office, stating that the initial recording of the copyrighted work has been made or licensed, in order to recover against an unauthorized record manufacturer. This requirement has resulted in a technical loss of rights in some cases, and serves little or no purpose where the registration and assignment records of the Copyright Office already show the facts of ownership. Section 115(c)(1) therefore drops any formal "notice of use" requirements and merely provides that, "to be entitled to receive royalties under a compulsory license, the copyright owner must be identified in the registration or other public records of the Copyright Office." On the other hand, since proper identification is an important precondition of recovery, the bill further provides that "the owner is entitled to royalties for phonorecords manufactured and distributed after being so identified, but is not entitled to recover for any phonorecords previously made and distributed."
 
-<i>Basis of Royalty</i>.—Under the present statute the specified royalty is payable "on each such part manufactured," regardless of how many "parts" (i.e., records) are sold. This basis for calculating the royalty has been revised in section 115(c)(2) to provide that "the royalty under a compulsory license shall be payable for every phonorecord made and distributed in accordance with the license." This basis is more compatible with thegeneral practice in negotiated licenses today. It is unjustified to require a compulsory licensee to pay license fees on records which merely go into inventory, which may later be destroyed, and from which the record producer gains no economic benefit.
+<i>Basis of Royalty</i>.—Under the present statute the specified royalty is payable "on each such part manufactured," regardless of how many "parts" (i.e., records) are sold. This basis for calculating the royalty has been revised in section 115(c)(2) to provide that "the royalty under a compulsory license shall be payable for every phonorecord made and distributed in accordance with the license." This basis is more compatible with the general practice in negotiated licenses today. It is unjustified to require a compulsory licensee to pay license fees on records which merely go into inventory, which may later be destroyed, and from which the record producer gains no economic benefit.
 
 It is intended that the Register of Copyrights will prescribe regulations insuring that copyright owners will receive full and prompt payment for all phonorecords made and distributed. Section 115(c)(2) states that "a phonorecord is considered 'distributed' if the person exercising the compulsory license has voluntarily and permanently parted with its possession." For this purpose, the concept of "distribution" comprises any act by which the person exercising the compulsory license voluntarily relinquishes possession of a phonorecord (considered as a fungible unit), regardless of whether the distribution is to the public, passes title, constitutes a gift, or is sold, rented, leased, or loaned, unless it is actually returned and the transaction cancelled. Neither involuntary relinquishment, as through theft or fire, nor the destruction of unwanted records, would constitute "distribution."
 
@@ -1474,7 +1474,7 @@ Subsec. (a)(2). Pub. L. 115–264, §102(a)(1)(C), inserted heading.
 
 Subsec. (b). Pub. L. 115–264, §102(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows:
 
-"(1) Any person who wishes to obtain a compulsory license under this section shall, before or within thirty days after making, and before distributing any phonorecords of the work, serve notice of intention to do so on the copyright owner. If the registration or other public records of the Copyright Office do not identify the copyright owner and include an address at which notice can be served, it shall be sufficient to file the notice of intention in the Copyright Office. The notice shall comply, in form, content, and manner of service, with requirements that the Register of Copyrights shall prescribe by regulation.
+"(1) Any person who wishes to obtain a compulsory license under this section shall, before or within thirtydays after making, and before distributing any phonorecords of the work, serve notice of intention to do so on the copyright owner. If the registration or other public records of the Copyright Office do not identify the copyright owner and include an address at which notice can be served, it shall be sufficient to file the notice of intention in the Copyright Office. The notice shall comply, in form, content, and manner of service, with requirements that the Register of Copyrights shall prescribe by regulation.
 
 "(2) Failure to serve or file the notice required by clause (1) forecloses the possibility of a compulsory license and, in the absence of a negotiated license, renders the making and distribution of phonorecords actionable as acts of infringement under section 501 and fully subject to the remedies provided by sections 502 through 506 and 509."
 
@@ -1532,7 +1532,7 @@ Subsec. (d). Pub. L. 104–39, §4(4), as renumbered by Pub. L. 105–80, §10, 
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–264, title I, §102(c), Oct. 11, 2018, 132 Stat. 3722, provided that: "The amendments made by subsection (a)(3) \[amending this section\] and section 103(g)(2) \[amending section 801 of this title\] shall applyto any proceeding before the Copyright Royalty Judges that is commenced on or after the date of the enactment of this Act \[Oct. 11, 2018\]."
+Pub. L. 115–264, title I, §102(c), Oct. 11, 2018, 132 Stat. 3722, provided that: "The amendments made by subsection (a)(3) \[amending this section\] and section 103(g)(2) \[amending section 801 of this title\] shall apply to any proceeding before the Copyright Royalty Judges that is commenced on or after the date of the enactment of this Act \[Oct. 11, 2018\]."
 
 #### Effective Date of 2006 Amendment
 

@@ -76,7 +76,7 @@ Another prior section 411 of Pub. L. 89–73 was classified to section 3035 of t
 
 <b>2016</b>—Subsec. (a)(13), (14). Pub. L. 114–144, §5(a)(1), added par. (13) and redesignated former par. (13) as (14).
 
-Subsec. (b). Pub. L. 114–144, §5(a)(2), substituted "carry out—" for "carry out this section such sums asmay be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011." and added pars. (1) and (2).
+Subsec. (b). Pub. L. 114–144, §5(a)(2), substituted "carry out—" for "carry out this section such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011." and added pars. (1) and (2).
 
 <b>2006</b>—Subsec. (a)(9) to (13). Pub. L. 109–365, §402(1), added pars. (9) to (12) and redesignated former par. (9) as (13).
 

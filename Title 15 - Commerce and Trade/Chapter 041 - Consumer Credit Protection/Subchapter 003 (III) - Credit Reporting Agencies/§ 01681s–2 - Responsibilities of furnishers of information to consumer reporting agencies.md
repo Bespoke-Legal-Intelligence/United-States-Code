@@ -174,7 +174,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Bureau, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration, shall prescribe regulations that shall identify the circumstances under which a furnisher shall be required to reinvestigate a dispute concerning the accuracy of information contained in a consumer report on the consumer, based on a direct request of a consumer.
+&emsp;&emsp;The Bureau, in consultation with the Federal Trade Commission, the Federal bankingagencies, and the National Credit Union Administration, shall prescribe regulations that shall identify the circumstances under which a furnisher shall be required to reinvestigate a dispute concerning the accuracy of information contained in a consumer report on the consumer, based on a direct request of a consumer.
 
 #### (B) Considerations
 
@@ -238,7 +238,7 @@
 
 #### (G) Exclusion of credit repair organizations
 
-&emsp;&emsp;This paragraph shall not apply if the notice of the dispute is submitted by, is prepared on behalf of the consumer by, or is submitted on a form supplied to the consumer by, a credit repair organization, as defined in section 1679a(3) of this title, or anentity that would be a credit repair organization, but for section 1679a(3)(B)(i) of this title.
+&emsp;&emsp;This paragraph shall not apply if the notice of the dispute is submitted by, is prepared on behalf of the consumer by, or is submitted on a form supplied to the consumer by, a credit repair organization, as defined in section 1679a(3) of this title, or an entity that would be a credit repair organization, but for section 1679a(3)(B)(i) of this title.
 
 #### (9) Duty to provide notice of status as medical information furnisher
 

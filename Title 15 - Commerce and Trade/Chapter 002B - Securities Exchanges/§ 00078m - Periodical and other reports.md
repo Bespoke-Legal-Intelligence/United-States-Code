@@ -40,7 +40,7 @@ Every issuer of a security registered pursuant to section 78l of this title shal
 
 (6) Where an issuer which has a class of securities registered pursuant to section 78l of this title or an issuer which is required to file reports pursuant to section 78o(d) of this title holds 50 per centum or less of the voting power with respect to a domestic or foreign firm, the provisions of paragraph (2) require only that the issuer proceed in good faith to use its influence, to the extent reasonable under the issuer's circumstances, to cause such domestic or foreign firm to devise and maintain a system of internal accounting controls consistent with paragraph (2). Such circumstances include the relative degree of the issuer's ownership of the domestic or foreign firm and the laws and practices governing the business operations of the country in which such firm is located. An issuer which demonstrates good faith efforts to use such influence shall be conclusively presumed to have complied with the requirements of paragraph (2).
 
-(7) For the purpose of paragraph (2) of this subsection, the terms "reasonable assurances" and"reasonable detail" mean such level of detail and degree of assurance as would satisfy prudent officials in the conduct of their own affairs.
+(7) For the purpose of paragraph (2) of this subsection, the terms "reasonable assurances" and "reasonable detail" mean such level of detail and degree of assurance as would satisfy prudent officials in the conduct of their own affairs.
 
 #### (c) Alternative reports
 
@@ -66,7 +66,7 @@ If in the judgment of the Commission any report required under subsection (a) is
 
 (4) In determining, for purposes of this subsection, any percentage of a class of any security, such class shall be deemed to consist of the amount of the outstanding securities of such class, exclusive of any securities of such class held by or for the account of the issuer or a subsidiary of the issuer.
 
-(5) The Commission, by rule or regulation or by order, may permit any person to file in lieu of the statement required by paragraph (1) of this subsection or the rules and regulations thereunder, a notice stating the name of such person, the number of shares of any equity securities subject to paragraph (1) which are owned by him, the date of their acquisition and such other information as the Commission may specify, if it appears to the Commission that such securities were acquired by such person in the ordinary course of his business and were not acquired for the purpose of and do not have the effect of changing or influencing the control of the issuer nor in connection with or as a participant in any transaction having such purpose or effect.
+(5) The Commission, by rule or regulation or by order, may permit any person to file in lieu of the statement required by paragraph (1) of this subsection or the rules and regulations thereunder, a notice stating the name of such person, the number of shares of any equity securities subject to paragraph (1) which are ownedby him, the date of their acquisition and such other information as the Commission may specify, if it appears to the Commission that such securities were acquired by such person in the ordinary course of his business and were not acquired for the purpose of and do not have the effect of changing or influencing the control of the issuer nor in connection with or as a participant in any transaction having such purpose or effect.
 
 (6) The provisions of this subsection shall not apply to—
 
@@ -76,7 +76,7 @@ If in the judgment of the Commission any report required under subsection (a) is
 
 &emsp;(C) any acquisition of an equity security by the issuer of such security;
 
-&emsp;(D) any acquisition or proposed acquisition of a security which the Commission, by rules or regulations or by order, shall exempt from the provisions of this subsection as not entered into for the purpose of, and not havingthe effect of, changing or influencing the control of the issuer or otherwise as not comprehended within the purposes of this subsection.
+&emsp;(D) any acquisition or proposed acquisition of a security which the Commission, by rules or regulations or by order, shall exempt from the provisions of this subsection as not entered into for the purpose of, and not having the effect of, changing or influencing the control of the issuer or otherwise as not comprehended within the purposes of this subsection.
 
 #### (e) Purchase of securities by issuer
 
@@ -110,7 +110,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 &emsp;(B) the aggregate fair market value or cost or amortized cost of exempted securities (in aggregate or by class) held on the last day of the reporting period by such accounts;
 
-&emsp;(C) the number of shares of each equity security of a class described in subsection (d)(1)held on the last day of the reporting period by such accounts with respect to which the institutional investment manager possesses sole or shared authority to exercise the voting rights evidenced by such securities;
+&emsp;(C) the number of shares of each equity security of a class described in subsection (d)(1) held on the last day of the reporting period by such accounts with respect to which the institutional investment manager possesses sole or shared authority to exercise the voting rights evidenced by such securities;
 
 &emsp;(D) the aggregate purchases and aggregate sales during the reporting period of each security (other than an exempted security) effected by or for such accounts; and
 
@@ -198,7 +198,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 #### (6) Exemptions
 
-&emsp;The Commission, by rule, regulation, or order, consistent with the purposes of thischapter, may exempt any person or class of persons or any transaction or class of transactions, either conditionally or upon specified terms and conditions or for stated periods, from the operation of this subsection, and the rules and regulations thereunder.
+&emsp;The Commission, by rule, regulation, or order, consistent with the purposes of this chapter, may exempt any person or class of persons or any transaction or class of transactions, either conditionally or upon specified terms and conditions or for stated periods, from the operation of this subsection, and the rules and regulations thereunder.
 
 #### (7) Authority of Commission to limit disclosure of information
 
@@ -244,7 +244,7 @@ Not later than 180 days after July 30, 2002, the Commission shall issue final ru
 
 #### (3) Rule of construction for certain loans
 
-&emsp;Paragraph (1) does not apply to any loan made or maintained by an insured depositoryinstitution (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)), if the loan is subject to the insider lending restrictions of section 375b of title 12.
+&emsp;Paragraph (1) does not apply to any loan made or maintained by an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)), if the loan is subject to the insider lending restrictions of section 375b of title 12.
 
 #### (l) Real time issuer disclosures
 
@@ -512,7 +512,7 @@ Confidentiality agreement.—Before the security-based swap data repository may 
 
 #### (o) Beneficial ownership
 
-For purposes of this section and section 78p of this title, a person shall be deemed to acquire beneficial ownership of an equity security based on the purchase or sale of a security-based swap,only to the extent that the Commission, by rule, determines after consultation with the prudential regulators and the Secretary of the Treasury, that the purchase or sale of the security-based swap, or class of security-based swap, provides incidents of ownership comparable to direct ownership of the equity security, and that it is necessary to achieve the purposes of this section that the purchase or sale of the security-based swaps, or class of security-based swap, be deemed the acquisition of beneficial ownership of the equity security.
+For purposes of this section and section 78p of this title, a person shall be deemed to acquire beneficial ownership of an equity security based on the purchase or sale of a security-based swap, only to the extent that the Commission, by rule, determines after consultation with the prudential regulators and the Secretary of the Treasury, that the purchase or sale of the security-based swap, or class of security-based swap, provides incidents of ownership comparable to direct ownership of the equity security, and that it is necessary to achieve the purposes of this section that the purchase or sale of the security-based swaps, or class of security-based swap, be deemed the acquisition of beneficial ownership of the equity security.
 
 #### (p) Disclosures relating to conflict minerals originating in the Democratic Republic of the Congo
 
@@ -712,7 +712,7 @@ For purposes of this section and section 78p of this title, a person shall be de
 
 &emsp;Upon receiving a report under paragraph (4) that includes a disclosure of an activity described in paragraph (1) (other than an activity described in subparagraph (D)(iii) of that paragraph), the President shall—
 
-&emsp;&emsp;(A) initiate an investigation into the possible imposition of sanctions under the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note), section 8513 or 8514a of title 22, an Executive order specified in clause (i) or (ii) of paragraph (1)(D), or any other provision of law relating to the imposition of sanctions with respect to Iran, as applicable; and
+&emsp;&emsp;(A) initiate an investigation into the possible imposition of sanctions under the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note), section 8513 or 8514a of title 22, an Executive order specified inclause (i) or (ii) of paragraph (1)(D), or any other provision of law relating to the imposition of sanctions with respect to Iran, as applicable; and
 
 &emsp;&emsp;(B) not later than 180 days after initiating such an investigation, make a determination with respect to whether sanctions should be imposed with respect to the issuer or the affiliate of the issuer (as the case may be).
 
@@ -720,7 +720,7 @@ For purposes of this section and section 78p of this title, a person shall be de
 
 &emsp;The provisions of this subsection shall terminate on the date that is 30 days after the date on which the President makes the certification described in section 8551(a) of title 22.
 
-(June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395; Pub. L. 107–204, title I, §109(i), formerly §109(h), title IV, §§401(a), 402(a), 409, July 30, 2002, 116 Stat. 771, 785, 787, 791, renumbered §109(i), Pub. L. 111–203, title IX, §982(h)(3), July 21, 2010, 124 Stat. 1930; Pub. L. 111–203, title VII, §§763(i), 766(b), (c), (e), title IX, §§929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§1502(b), 1504, July 21, 2010, 124 Stat. 1779, 1799, 1866, 1870, 1933, 1952, 2213, 2220; Pub. L. 112–106, title I, §102(b)(2), Apr. 5, 2012, 126 Stat. 309; Pub. L.112–158, title II, §219(a), Aug. 10, 2012, 126 Stat. 1235; Pub. L. 114–94, div. G, title LXXXVI, §86001(c), Dec. 4, 2015, 129 Stat. 1798.)
+(June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395; Pub. L. 107–204, title I, §109(i), formerly §109(h), title IV, §§401(a), 402(a), 409, July 30, 2002, 116 Stat. 771, 785, 787, 791, renumbered §109(i), Pub. L. 111–203, title IX, §982(h)(3), July 21, 2010, 124 Stat. 1930; Pub. L. 111–203, title VII, §§763(i), 766(b), (c), (e), title IX, §§929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§1502(b), 1504, July 21, 2010, 124 Stat. 1779, 1799, 1866, 1870, 1933, 1952, 2213, 2220; Pub. L. 112–106, title I, §102(b)(2), Apr. 5, 2012, 126 Stat. 309; Pub. L. 112–158, title II, §219(a), Aug. 10, 2012, 126 Stat. 1235; Pub. L. 114–94, div. G, title LXXXVI, §86001(c), Dec. 4, 2015, 129 Stat. 1798.)
 
 #### References in Text
 
@@ -950,7 +950,7 @@ Updates.—The Secretary of State shall update the map required under subparagra
 
 &emsp;&emsp;"(D)
 
-Publication in federal register.—The Secretary of State shall add minerals to the list of minerals in the definition of conflict minerals under section 1502 \[amending this section and enacting this note\], as appropriate. The Secretary shall publish in the Federal Register notice of intent to declare a mineral as a conflict mineral included in such definition not later than one year before such declaration.
+Publication in federal register.—The Secretary of State shall add minerals to the list ofminerals in the definition of conflict minerals under section 1502 \[amending this section and enacting this note\], as appropriate. The Secretary shall publish in the Federal Register notice of intent to declare a mineral as a conflict mineral included in such definition not later than one year before such declaration.
 
 "(d)
 
@@ -1045,6 +1045,10 @@ In General.—The Securities and Exchange Commission shall consult and coordinat
 Definitions.—For purposes of subsection (a), the terms 'insured depository institution', 'depository institution holding company', and 'appropriate Federal banking agency' have the same meaning as given in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]."
 
 #### Adjustment of Registration Fee Rate
+
+By order dated Aug. 23, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $129.80 per $1,000,000, effective Oct. 1, 2019, see 84 F.R. 45601.
+
+By order dated Aug. 24, 2018, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $121.20 per $1,000,000, effective Oct. 1, 2018, see 83 F.R. 44101.
 
 By order dated Aug. 24, 2017, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $124.50 per $1,000,000, effective Oct. 1, 2017, see 82 F.R. 41080.
 

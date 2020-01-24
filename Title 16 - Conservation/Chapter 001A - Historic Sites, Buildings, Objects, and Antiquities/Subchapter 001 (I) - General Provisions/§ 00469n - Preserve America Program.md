@@ -8,7 +8,7 @@ The purpose of this section is to authorize the Preserve America Program, includ
 
 &emsp;(2) the recognition programs administered by the Advisory Council on Historic Preservation; and
 
-&emsp;(3) the related efforts of Federal agencies, working in partnership with State, tribal, and local governments and the private sector, to support and promote the preservation of historic resources.
+&emsp;(3) the related efforts of Federal agencies, working in partnership with State, tribal, and local governments and the private sector, tosupport and promote the preservation of historic resources.
 
 #### (b) to (f) Repealed. Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272
 

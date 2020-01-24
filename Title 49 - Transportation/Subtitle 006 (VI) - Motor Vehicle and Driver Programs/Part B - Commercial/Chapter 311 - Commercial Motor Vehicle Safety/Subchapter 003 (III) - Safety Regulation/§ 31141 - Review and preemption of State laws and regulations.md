@@ -28,7 +28,7 @@ Regulations with same effect.—If the Secretary decides a State law or regulati
 
 &emsp;(3)
 
-Less stringent regulations.—If the Secretary decides a State law or regulation is less stringent than a regulation prescribed by the Secretary under section 31136 of this title, the State law or regulation may not be enforced.
+Less stringent regulations.—If the Secretary decides a State law or regulation is less stringent than a regulation prescribed by the Secretary under section 31136 of this title,the State law or regulation may not be enforced.
 
 &emsp;(4)
 

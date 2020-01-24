@@ -10,7 +10,7 @@ An officer of the commissioned corps who is promoted to a higher grade—
 
 #### (b) Oath of office
 
-An officer who subscribed to the oath of office required by section 3331 of title 5 shall not be required to renew such oath or to take a new oath upon promotion to a higher grade, if the service of the officer after the taking of such oath is continuous.
+An officer who subscribed to the oath of office required by section 3331 of title 5 shall not be required to renew such oath or to take a new oathupon promotion to a higher grade, if the service of the officer after the taking of such oath is continuous.
 
 (Pub. L. 107–372, title II, §231, Dec. 19, 2002, 116 Stat. 3087.)
 

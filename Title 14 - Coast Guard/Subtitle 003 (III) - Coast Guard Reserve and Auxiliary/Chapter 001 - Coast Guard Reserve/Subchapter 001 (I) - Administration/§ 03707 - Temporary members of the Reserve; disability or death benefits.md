@@ -50,7 +50,7 @@ Subsec. (e)(1)(A). Pub. L. 97–295, §2(21)(B), inserted "(42 U.S.C. 401 et seq
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a noteunder section 401 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1981 Amendment
 

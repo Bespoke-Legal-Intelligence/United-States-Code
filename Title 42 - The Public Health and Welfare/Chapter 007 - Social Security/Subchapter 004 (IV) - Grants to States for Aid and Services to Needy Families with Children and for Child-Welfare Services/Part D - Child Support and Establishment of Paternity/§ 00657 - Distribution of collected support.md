@@ -110,7 +110,7 @@ As used in subsection (a):
 
 #### (2) Federal share
 
-&emsp;The term "Federal share" means that portion of the amount collected resulting fromthe application of the Federal medical assistance percentage in effect for the fiscal year in which the amount is distributed.
+&emsp;The term "Federal share" means that portion of the amount collected resulting from the application of the Federal medical assistance percentage in effect for the fiscal year in which the amount is distributed.
 
 #### (3) Federal medical assistance percentage
 
@@ -140,7 +140,7 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 &emsp;(2) shall be paid to the public agency responsible for supervising the placement of the child to the extent that the amounts collected exceed the foster care maintenance payments made with respect to the child during such period but not the amounts required by a court or administrative order to be paid as support on behalf of the child during such period; and the responsible agency may use the payments in the manner it determines will serve the best interests of the child, including setting such payments aside for the child's future needs or making all or a part thereof available to the person responsible for meeting the child's day-to-day needs; and
 
-&emsp;(3) shall be retained by the State, if any portion of the amounts collected remains after making the payments required under paragraphs (1) and (2), to the extent that such portion is necessary to reimburse the State (with appropriate reimbursement to the Federal Government to the extent of its participation in the financing) for any past foster care maintenance payments (or payments of assistance under the State program funded under part A) which were made with respect to the child (and with respect to which past collections have not previously been retained);
+&emsp;(3) shall be retained by the State, if any portion of the amounts collected remains aftermaking the payments required under paragraphs (1) and (2), to the extent that such portion is necessary to reimburse the State (with appropriate reimbursement to the Federal Government to the extent of its participation in the financing) for any past foster care maintenance payments (or payments of assistance under the State program funded under part A) which were made with respect to the child (and with respect to which past collections have not previously been retained);
 
 > and any balance shall be paid to the State agency responsible for supervising the placement of the child, for use by such agency in accordance with paragraph (2).
 
@@ -242,7 +242,7 @@ Subsec. (d). Pub. L. 98–378, §11(a)(1), added subsec. (d).
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–35, §2332(e)(1), substituted in provision preceding par. (1) "as support" for "as child support".
 
-Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding par. (1) "whom support payments" for "whom child support payments" and in pars. (1) and\(2) "amounts of support payments" for "amounts of child support payments" in two places and "amounts of support so" for "amounts of child support so".
+Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding par. (1) "whom support payments" for "whom child support payments" and in pars. (1) and (2) "amounts of support payments" for "amounts of child support payments" in two places and "amounts of support so" for "amounts of child support so".
 
 <b>1977</b>—Subsec. (c). Pub. L. 95–171, §11(a)–(c), in par. (1), substituted "amounts of child support payments which represent monthly support payments" for "such support payments" and inserted ", which represent monthly support payments," after "amounts so collected"; in par. (2), substituted "amounts of child support payments which represent monthly support payments" for "such support payments" and inserted ", which represents monthly support payments," after "amount so collected"; changed to a comma the period at end of par. (2); and inserted provision for distribution of child support proceeds.
 

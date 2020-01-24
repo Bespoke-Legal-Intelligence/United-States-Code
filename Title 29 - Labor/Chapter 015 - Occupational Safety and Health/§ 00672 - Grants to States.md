@@ -14,7 +14,7 @@ The Secretary is authorized, during the fiscal year ending June 30, 1971, and th
 
 &emsp;&emsp;(B) increasing the expertise and enforcement capabilities of their personnel engaged in occupational safety and health programs; or
 
-&emsp;&emsp;(C) otherwise improving the administration and enforcement of State occupational safety and health laws, including standards thereunder, consistent with the objectives of this chapter.
+&emsp;&emsp;(C) otherwise improving the administration and enforcement of State occupationalsafety and health laws, including standards thereunder, consistent with the objectives of this chapter.
 
 #### (b) Experimental and demonstration projects
 

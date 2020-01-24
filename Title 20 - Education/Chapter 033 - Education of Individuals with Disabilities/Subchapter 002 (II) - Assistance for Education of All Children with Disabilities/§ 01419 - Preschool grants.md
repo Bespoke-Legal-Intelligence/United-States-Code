@@ -24,7 +24,7 @@ A State shall be eligible for a grant under this section if such State—
 
 #### (2) Increase in funds
 
-&emsp;If the amount available for allocations to States under paragraph (1) for a fiscal year isequal to or greater than the amount allocated to the States under this section for the preceding fiscal year, those allocations shall be calculated as follows:
+&emsp;If the amount available for allocations to States under paragraph (1) for a fiscal year is equal to or greater than the amount allocated to the States under this section for the preceding fiscal year, those allocations shall be calculated as follows:
 
 #### (A) Allocation
 
@@ -118,7 +118,7 @@ A State shall be eligible for a grant under this section if such State—
 
 #### (1) In general
 
-&emsp;For the purpose of administering this section (including the coordination of activitiesunder this subchapter with, and providing technical assistance to, other programs that provide services to children with disabilities) a State may use not more than 20 percent of the maximum amount the State may reserve under subsection (d) for any fiscal year.
+&emsp;For the purpose of administering this section (including the coordination of activities under this subchapter with, and providing technical assistance to, other programs that provide services to children with disabilities) a State may use not more than 20 percent of the maximum amount the State may reserve under subsection (d) for any fiscal year.
 
 #### (2) Administration of subchapter III
 
@@ -136,7 +136,7 @@ Each State shall use any funds the State reserves under subsection (d) and does 
 
 &emsp;(4) to supplement other funds used to develop and implement a statewide coordinated services system designed to improve results for children and families, including children with disabilities and their families, but not more than 1 percent of the amount received by the State under this section for a fiscal year;
 
-&emsp;(5) to provide early intervention services (which shall include an educational component that promotes school readiness and incorporates preliteracy, language, and numeracy skills) in accordance with subchapter III to children with disabilities who are eligible for services under this section and who previously received services under subchapter III until such children enter, or are eligible under State law to enter, kindergarten; or
+&emsp;(5) to provide early intervention services (which shall include an educational component that promotes school readiness and incorporates preliteracy, language, and numeracy skills) in accordance with subchapter III tochildren with disabilities who are eligible for services under this section and who previously received services under subchapter III until such children enter, or are eligible under State law to enter, kindergarten; or
 
 &emsp;(6) at the State's discretion, to continue service coordination or case management for families who receive services under subchapter III.
 
@@ -194,7 +194,7 @@ Section 1423, Pub. L. 91–230, title VI, §623, Apr. 13, 1970, 84 Stat. 183; Pu
 
 Section 1424, Pub. L. 91–230, title VI, §624, Apr. 13, 1970, 84 Stat. 183; Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1366; Pub. L. 99–457, title III, §304, Oct. 8, 1986, 100 Stat. 1162; Pub. L. 100–630, title I, §103(e), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, §304, title IX, §901(b)(107)–(110), Oct. 30, 1990, 104 Stat. 1122, 1147; Pub. L. 102–119, §25(a)(10), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to programs for children with severe disabilities.
 
-Section 1424a, Pub. L. 91–230, title VI, §625, as added Pub. L. 93–380, title VI, §616, Aug. 21, 1974, 88 Stat. 584; amended Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1367; Pub. L. 99–457, title III, §305, Oct. 8, 1986, 100 Stat. 1162; Pub. L. 100–630, title I, §103(f), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, §305, title IX, §901(b)(111)–(118), Oct. 30, 1990, 104 Stat. 1123, 1147; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–421, title II, §201(a), Oct. 16, 1992, 106 Stat. 2164, related to programs of postsecondary, vocational, technical, continuing, or adult education for individuals with disabilities.
+Section 1424a, Pub. L. 91–230, title VI, §625, as added Pub. L. 93–380, title VI, §616, Aug. 21, 1974, 88 Stat. 584; amended Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1367; Pub. L. 99–457, title III, §305, Oct. 8, 1986, 100 Stat. 1162; Pub. L. 100–630, title I, §103(f), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, §305, title IX, §901(b)(111)–(118), Oct. 30, 1990, 104 Stat. 1123, 1147; Pub.L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–421, title II, §201(a), Oct. 16, 1992, 106 Stat. 2164, related to programs of postsecondary, vocational, technical, continuing, or adult education for individuals with disabilities.
 
 Section 1425, Pub. L. 91–230, title VI, §626, formerly §625, Apr. 13, 1970, 84 Stat. 183, renumbered §626, Pub. L. 93–380, title VI, §616, Aug. 21, 1974, 88 Stat. 584; amended Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1367; Pub. L. 99–457, title III, §306, Oct. 8, 1986, 100 Stat. 1163; Pub. L. 100–630, title I, §103(g), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title III, §306, title IX, §901(b)(119)–(127), Oct. 30, 1990, 104 Stat. 1124, 1147, 1148; Pub. L. 102–119, §25(a)(11), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to secondary education and transitional services for youth with disabilities.
 

@@ -28,7 +28,7 @@ Of the total authorized number of officers on the lineal list of the commissione
 
 #### (c) Preservation of grade and pay, etc.
 
-No officer may be reduced in grade or pay or separated from the commissioned corps as the result of a computation made to determine theauthorized number of officers in the various grades.
+No officer may be reduced in grade or pay or separated from the commissioned corps as the result of a computation made to determine the authorized number of officers in the various grades.
 
 #### (d) Filling of vacancies; additional numbers
 

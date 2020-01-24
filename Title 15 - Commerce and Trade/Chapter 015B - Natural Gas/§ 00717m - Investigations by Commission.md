@@ -6,7 +6,7 @@ The Commission may investigate any facts, conditions, practices, or matters whic
 
 #### (b) Determination of adequacy of gas reserves
 
-The Commission may, after hearing, determine the adequacy or inadequacy of the gas reserves held or controlled by any natural-gascompany, or by anyone on its behalf, including its owned or leased properties or royalty contracts; and may also, after hearing, determine the propriety and reasonableness of the inclusion in operating expenses, capital, or surplus of all delay rentals or other forms of rental or compensation for unoperated lands and leases. For the purpose of such determinations, the Commission may require any natural-gas company to file with the Commission true copies of all its lease and royalty agreements with respect to such gas reserves.
+The Commission may, after hearing, determine the adequacy or inadequacy of the gas reserves held or controlled by any natural-gas company, or by anyone on its behalf, including its owned or leased properties or royalty contracts; and may also, after hearing, determine the propriety and reasonableness of the inclusion in operating expenses, capital, or surplus of all delay rentals or other forms of rental or compensation for unoperated lands and leases. For the purpose of such determinations, the Commission may require any natural-gas company to file with the Commission true copies of all its lease and royalty agreements with respect to such gas reserves.
 
 #### (c) Administration of oaths and affirmations; subpena of witnesses, etc.
 
@@ -14,7 +14,7 @@ For the purpose of any investigation or any other proceeding under this chapter,
 
 #### (d) Jurisdiction of courts of United States
 
-In case of contumacy by, or refusal to obey a subpena issued to, any person, the Commission may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, contracts, agreements, and other records. Such court may issue an order requiring such person to appear before the Commission or member or officer designated by the Commission, there to produce records, if so ordered, or to give testimony touching the matter under investigation or in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found or may be doing business. Any person who willfully shall fail or refuse to attend and testify or to answer any lawful inquiry or to produce books, papers, correspondence, memoranda, contracts, agreements, or other records, if in his or its power so to do, in obedience to the subpena of the Commission, shall be guilty of a misdemeanor and upon conviction shall be subject to a fine of not more than $1,000 or to imprisonment for a term of not more than one year, or both.
+In case of contumacy by, or refusal to obey a subpena issued to, any person, the Commission may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, contracts, agreements, and other records. Such court may issue an order requiring such person to appear before the Commission or member or officer designated by the Commission, there to produce records, if so ordered, or to give testimony touching the matter under investigation or in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found or may be doing business. Any person who willfully shall fail or refuse to attend and testify or to answer any lawful inquiry or to produce books, papers, correspondence, memoranda, contracts, agreements, or other records, if in his or itspower so to do, in obedience to the subpena of the Commission, shall be guilty of a misdemeanor and upon conviction shall be subject to a fine of not more than $1,000 or to imprisonment for a term of not more than one year, or both.
 
 #### (e) Testimony of witnesses
 
@@ -40,17 +40,5 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 #### Study and Report on Natural Gas Pipeline and Storage Facilities in New England
 
-Pub. L. 107–355, §26, Dec. 17, 2002, 116 Stat. 3012, provided that:
-
-"(a)
-
-Study.—The Federal Energy Regulatory Commission, in consultation with the Department of Energy, shall conduct a study on the natural gas pipeline transmission network in New England and natural gas storage facilities associated with that network.
-
-"(b)
-
-Consideration.—In carrying out the study, the Commission shall consider the ability of natural gas pipeline and storage facilities in New England to meet current and projected demand by gas-fired power generation plants and other consumers.
-
-"(c)
-
-Report.—Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2002\], the Federal Energy Regulatory Commission shall prepare and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report containing the results of the study conducted under subsection (a), including recommendations for addressing potential natural gas transmission and storage capacity problems in New England."
+Pub. L. 107–355, §26, Dec. 17, 2002, 116 Stat. 3012, required the Federal Energy Regulatory Commission, in consultation with the Department of Energy, to conduct a study on the natural gas pipeline transmission network in New England and natural gas storage facilities associated with that network, and submit a report on the results to Congress by not later than 1 year after Dec. 17, 2002.
 

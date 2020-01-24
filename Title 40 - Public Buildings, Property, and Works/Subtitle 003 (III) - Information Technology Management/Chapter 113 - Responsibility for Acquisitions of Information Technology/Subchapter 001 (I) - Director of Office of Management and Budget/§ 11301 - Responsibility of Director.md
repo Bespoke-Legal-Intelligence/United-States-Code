@@ -92,7 +92,7 @@ Use of funds.—An IT working capital fund established under paragraph (1) may o
 
 &emsp;&emsp;"(C) to assist and support covered agency efforts to provide adequate, risk-based, and cost-effective information technology capabilities that address evolving threats to information security;
 
-&emsp;&emsp;"(D) to reimburse funds transferred to the covered agency from the Fund with the approval of theChief Information Officer, in consultation with the Chief Financial Officer, of the covered agency; and
+&emsp;&emsp;"(D) to reimburse funds transferred to the covered agency from the Fund with the approval of the Chief Information Officer, in consultation with the Chief Financial Officer, of the covered agency; and
 
 &emsp;&emsp;"(E) for a program, project, or activity or to increase funds for any program, project, or activity that has not been denied or restricted by Congress.
 
@@ -164,7 +164,7 @@ Use of funds.—The Administrator shall, in accordance with recommendations from
 
 &emsp;&emsp;"(A) to transfer such amounts, to remain available until expended, to the head of an agency for the acquisition of products and services, or the development of such products and services when more efficient and cost effective, to improve, retire, or replace existing Federal information technology systems to enhance cybersecurity and privacy and improve long-term efficiency and effectiveness;
 
-&emsp;&emsp;"(B) to transfer such amounts, to remain available until expended, to the head of an agency for the operation and procurement of information technology products and services, or the development of such products and services when more efficient and cost effective, and acquisition vehicles for use by agencies to improve Governmentwide efficiency and cybersecurity in accordance with the requirements of the agencies;
+&emsp;&emsp;"(B) to transfer such amounts, to remain available until expended, to the head of an agency for the operation and procurement of information technology products and services, or the development ofsuch products and services when more efficient and cost effective, and acquisition vehicles for use by agencies to improve Governmentwide efficiency and cybersecurity in accordance with the requirements of the agencies;
 
 &emsp;&emsp;"(C) to provide services or work performed in support of—
 
@@ -220,7 +220,7 @@ In general.—The Administrator, in consultation with the Director, shall establ
 
 &emsp;&emsp;&emsp;"(ii)
 
-Review and approval.—Before making any changes to the established amounts andterms of repayment, the Administrator shall conduct a review and obtain approval from the Director.
+Review and approval.—Before making any changes to the established amounts and terms of repayment, the Administrator shall conduct a review and obtain approval from the Director.
 
 &emsp;&emsp;"(C)
 
@@ -278,7 +278,7 @@ Technology Modernization Board.—
 
 &emsp;"(1)
 
-Establishment.—There is established a Technology Modernization Board to evaluate proposals submitted by agencies for funding authorized under the Fund.
+Establishment.—There is established a Technology Modernization Board to evaluate proposalssubmitted by agencies for funding authorized under the Fund.
 
 &emsp;"(2)
 

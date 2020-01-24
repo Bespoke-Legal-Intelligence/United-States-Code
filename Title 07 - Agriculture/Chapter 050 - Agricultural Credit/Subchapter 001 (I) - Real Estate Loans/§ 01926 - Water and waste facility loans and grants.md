@@ -82,7 +82,7 @@ Documentation.—With respect to grants made under this subparagraph, the Secret
 
 &emsp;&emsp;&emsp;(II)
 
-Matching.—Notwithstanding any other provisions in this subsection, the Secretary may fund up to 100 percent of the eligible costs of grants provided underthis subparagraph, as determined by the Secretary.
+Matching.—Notwithstanding any other provisions in this subsection, the Secretary may fund up to 100 percent of the eligible costs of grants provided under this subparagraph, as determined by the Secretary.
 
 &emsp;&emsp;(iii)
 
@@ -92,7 +92,7 @@ Funding.—The Secretary may use not more than 4 percent of the total amount of 
 
 Relationship to other authority.—The funds and authorities provided under this subparagraph are in addition to any other funds or authorities the Secretary may have to carry out activities described in clause (i).
 
-(3) No grant shall be made under paragraph (2) of this subsection in connection with any project unless the Secretary determines that the project (i) will serve a rural area which, if such project is carried out, is not likely to decline in population below that for which the project was designed, (ii) is designed and constructed so that adequate capacity will or can be made available to serve the present population of the area to the extent feasible and to serve the reasonably foreseeable growth needs of the area, and (iii) is necessary for an orderly community development consistent with a comprehensive community water, waste disposal, or other development plan of the rural area.
+(3) No grant shall be made under paragraph (2) of this subsection in connection with anyproject unless the Secretary determines that the project (i) will serve a rural area which, if such project is carried out, is not likely to decline in population below that for which the project was designed, (ii) is designed and constructed so that adequate capacity will or can be made available to serve the present population of the area to the extent feasible and to serve the reasonably foreseeable growth needs of the area, and (iii) is necessary for an orderly community development consistent with a comprehensive community water, waste disposal, or other development plan of the rural area.
 
 (4)(A) The term "development cost" means the cost of construction of a facility and the land, easements, and rights-of-way, and water rights necessary to the construction and operation of the facility.
 
@@ -126,7 +126,7 @@ Conformity with federal and state water pollution control standards.—No Federa
 
 (D) Of the sums authorized to be appropriated to carry out the provisions of this chapter, not more than $1,000,000 per year may be expended to carry out the provisions of this paragraph.
 
-(13) In the making of loans and grants for community waste disposal and water facilities under paragraphs (1) and (2) of this subsection the Secretary shall accord highest priority to the application of any municipality or other public agency (including an Indian tribe on a Federal or State reservation or other federally recognized Indian tribal group) in a rural community having a population not in excess of five thousand five hundred and which, in the case of water facility loans, has a community water supply system, where the Secretary determines that due to unanticipated diminution or deterioration of its water supply, immediate action is needed, or in the case of waste disposal, has a community waste disposal system, where the Secretary determines that due to unanticipated occurrences the system is not adequate to the needs of the community. The Secretary shall utilize the SoilConservation Service in rendering technical assistance to applicants under this paragraph to the extent he deems appropriate.
+(13) In the making of loans and grants for community waste disposal and water facilities under paragraphs (1) and (2) of this subsection the Secretary shall accord highest priority to the application of any municipality or other public agency (including an Indian tribe on a Federal or State reservation or other federally recognized Indian tribal group) in a rural community having a population not in excess of five thousand five hundred and which, in the case of water facility loans, has a community water supply system, where the Secretary determines that due to unanticipated diminution or deterioration of its water supply, immediate action is needed, or in the case of waste disposal, has a community waste disposal system, where the Secretary determines that due to unanticipated occurrences the system is not adequate to the needs of the community. The Secretary shall utilize the Soil Conservation Service in rendering technical assistance to applicants under this paragraph to the extent he deems appropriate.
 
 (14)
 
@@ -138,7 +138,7 @@ In general.—The Secretary may make grants to private nonprofit organizations f
 
 &emsp;&emsp;(i) identify, and evaluate alternative solutions to, problems relating to the obtaining, storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas;
 
-&emsp;&emsp;(ii) prepare applications to receive financial assistance for any purpose specified in paragraph (2) of this subsection from any public or private source;
+&emsp;&emsp;(ii) prepare applications to receive financial assistance for any purpose specified inparagraph (2) of this subsection from any public or private source;
 
 &emsp;&emsp;(iii) improve the operation and maintenance practices at any existing works for the storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas;
 
@@ -308,7 +308,7 @@ Tribal college and university essential community facilities.—
 
 &emsp;(A)
 
-In general.—The Secretary may make grants to an entity that is a Tribal College or University (as defined in section 1059c of title 20) to provide the Federal share of the cost ofdeveloping specific Tribal College or University essential community facilities in rural areas.
+In general.—The Secretary may make grants to an entity that is a Tribal College or University (as defined in section 1059c of title 20) to provide the Federal share of the cost of developing specific Tribal College or University essential community facilities in rural areas.
 
 &emsp;(B)
 
@@ -368,7 +368,7 @@ This chapter, referred to in subsec. (a)(2)(C)(iii), (12)(D), (18), was in the o
 
 The Public Health Service Act, referred to in subsec. (a)(9), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XIV of the Act, known as the Safe Drinking Water Act, is classified principally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of these Acts to the Code, see Short Title note and Short Title of 1974 Amendments note set out under section 201 of Title 42 and Tables.
 
-Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), referred to in subsec. (a)(12)(A), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), referred to in subsec. (a)(12)(A), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "FirstMorrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), referred to in subsec. (a)(12)(A), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
@@ -456,7 +456,7 @@ Subsec. (a)(21). Pub. L. 106–472, §305(a), added par. (21).
 
 Subsec. (a)(5). Pub. L. 104–127, §758, added par. (5).
 
-Subsec. (a)(7). Pub. L. 104–127, §741(a)(2), added par. (7) and struck out former par. (7) which read as follows: "As used in this chapter, the terms 'rural' and 'rural area' shall not include any area in any city or town which has a population in excess of ten thousand inhabitants, except that (A) for the purpose of loans for essential community facilities under subsection (a)(1) of this section, the terms 'rural' and 'rural area' may include any area in any city or town that has a population not in excess of twenty thousand inhabitants; and (B) for purposes of loans and grants for private business enterprises under sections 1924(b), 1932 and 1942(b), (c), and (d) of this title the terms 'rural' and 'rural area' may include all territory of a State that is not within the outer boundary of any city having a population of fifty thousand or more and its immediately adjacent urbanized and urbanizing areas with a population density of more than one hundred persons per square mile, as determined by the Secretary of Agriculture according to the latest decennial census of the United States: <i>Provided</i>, That special consideration for such loans and grants shall be given to areas other than cities having a population of more than twenty-five thousand."
+Subsec. (a)(7). Pub. L. 104–127, §741(a)(2), added par. (7) and struck out former par. (7) which read as follows: "As used in this chapter, the terms 'rural' and 'rural area' shall not include any area in any city or townwhich has a population in excess of ten thousand inhabitants, except that (A) for the purpose of loans for essential community facilities under subsection (a)(1) of this section, the terms 'rural' and 'rural area' may include any area in any city or town that has a population not in excess of twenty thousand inhabitants; and (B) for purposes of loans and grants for private business enterprises under sections 1924(b), 1932 and 1942(b), (c), and (d) of this title the terms 'rural' and 'rural area' may include all territory of a State that is not within the outer boundary of any city having a population of fifty thousand or more and its immediately adjacent urbanized and urbanizing areas with a population density of more than one hundred persons per square mile, as determined by the Secretary of Agriculture according to the latest decennial census of the United States: <i>Provided</i>, That special consideration for such loans and grants shall be given to areas other than cities having a population of more than twenty-five thousand."
 
 Subsec. (a)(9), (10). Pub. L. 104–127, §741(a)(3), added pars. (9) and (10) and struck out former pars. (9) and (10) which read as follows:
 
@@ -500,9 +500,9 @@ Subsec. (a)(21). Pub. L. 102–237, §701(a)(2), struck out par. (21) which was 
 
 Subsec. (a)(2). Pub. L. 101–624, §2321, struck out ": <i>Provided</i>, That for fiscal years commencing after September 30, 1981, such grants may not exceed $154,900,000 in any fiscal year" after "in rural areas".
 
-Subsec. (a)(3). Pub. L. 101–624, §2316(b), struck out "and not inconsistent with any planned development provided in any State, multijurisdictional, county, or municipal plan approved by competent authority for the area in which the rural community is located, and the Secretary shall require the submission of all applications for financial assistance under this section to the multijurisdictional substate areawide general purpose planning and development agency that has been officially designated as a clearinghouse agency under Office of Management and Budget Circular A–95 and to the county or municipal government having jurisdiction over the area in which the proposed project is to be located for review and comment within a designated period of time not to exceed 30 days concerning among other considerations, the effect of the project upon theareawide goals and plans of such agency or government. No loan under this section shall be made that is inconsistent with any multijurisdictional planning and development district areawide plan of such agency. The Secretary is authorized to reimburse such agency or government for the cost of making the required review. Until October 1, 1973, the Secretary may make grants prior to the completion of the comprehensive plan, if the preparation of such plan has been undertaken for the area" after "of the rural area".
+Subsec. (a)(3). Pub. L. 101–624, §2316(b), struck out "and not inconsistent with any planned development provided in any State, multijurisdictional, county, or municipal plan approved by competent authority for the area in which the rural community is located, and the Secretary shall require the submission of all applications for financial assistance under this section to the multijurisdictional substate areawide general purpose planning and development agency that has been officially designated as a clearinghouse agency under Office of Management and Budget Circular A–95 and to the county or municipal government having jurisdiction over the area in which the proposed project is to be located for review and comment within a designated period of time not to exceed 30 days concerning among other considerations, the effect of the project upon the areawide goals and plans of such agency or government. No loan under this section shall be made that is inconsistent with any multijurisdictional planning and development district areawide plan of such agency. The Secretary is authorized to reimburse such agency or government for the cost of making the required review. Until October 1, 1973, the Secretary may make grants prior to the completion of the comprehensive plan, if the preparation of such plan has been undertaken for the area" after "of the rural area".
 
-Subsec. (a)(11). Pub. L. 101–624, §§2341, 2342, amended par. (11) generally. Prior to amendment, par. (11) read as follows: "The Secretary may make grants, not to exceed $15,000,000 annually, to public bodies or such other agencies as the Secretary may select to provide rural development technical assistance, rural community leadership development, and community and areawide rural development planning."
+Subsec. (a)(11). Pub. L. 101–624, §§2341, 2342, amended par. (11) generally. Prior to amendment, par. (11) read as follows: "The Secretary may make grants, not to exceed $15,000,000 annually, to public bodies or such other agencies as the Secretary may select to provide rural development technical assistance, rural communityleadership development, and community and areawide rural development planning."
 
 Subsec. (a)(20). Pub. L. 101–624, §2329, added par. (20).
 
@@ -564,7 +564,7 @@ Pub. L. 115–334, title VI, §6701(a)(2), Dec. 20, 2018, 132 Stat. 4778, provid
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by section 7511(c)(3) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 
@@ -638,11 +638,11 @@ Effect on State Allotments of Funds.—This section shall not be taken into cons
 
 #### Rural Wastewater Treatment Circuit Rider Program
 
-Pub. L. 101–624, title XXIII, §2324, Nov. 28, 1990, 104 Stat. 4013, directed Secretary to establish nationalrural wastewater circuit rider grant program that was to be modeled after existing National Rural Water Association Rural Water Circuit Rider Program that received funding from Farmers Home Administration and authorized $4,000,000 for each fiscal year to carry out such program, prior to repeal by Pub. L. 104–127, title VII, §703, Apr. 4, 1996, 110 Stat. 1108.
+Pub. L. 101–624, title XXIII, §2324, Nov. 28, 1990, 104 Stat. 4013, directed Secretary to establish national rural wastewater circuit rider grant program that was to be modeled after existing National Rural Water Association Rural Water Circuit Rider Program that received funding from Farmers Home Administration and authorized $4,000,000 for each fiscal year to carry out such program, prior to repeal by Pub. L. 104–127, title VII, §703, Apr. 4, 1996, 110 Stat. 1108.
 
 #### Interest Rate Restructuring for Certain Borrowers
 
-Pub. L. 100–233, title VI, §615(b)(2), Jan. 6, 1988, 101 Stat. 1682, provided that: "Effective July 29, 1987, the interest rate charged on any loan of $2,000,000 or more made on such date under section 306 \[7 U.S.C. 1926\] to any nonprofit corporation shall be the interest rate quoted to such nonprofit corporation by the Farmers Home Administration on June 22, 1987, in the request for obligation of funds made with respect to the loan."
+Pub. L. 100–233, title VI, §615(b)(2), Jan. 6, 1988, 101 Stat. 1682, provided that: "Effective July 29, 1987, the interest rate charged on any loan of $2,000,000 or more made on such date under section 306 \[7 U.S.C. 1926\] to any nonprofit corporation shall be the interest rate quoted to such nonprofit corporation by the FarmersHome Administration on June 22, 1987, in the request for obligation of funds made with respect to the loan."
 
 #### Lease of Certain Acquired Property
 

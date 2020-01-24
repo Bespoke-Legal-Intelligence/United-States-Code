@@ -214,7 +214,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 &emsp;The study shall—
 
-&emsp;&emsp;(A) determine the current status and trends of living resources, including grasses, benthos, phytoplankton, zooplankton, fish, and shellfish;
+&emsp;&emsp;(A) determine the current status and trends of living resources, including grasses,benthos, phytoplankton, zooplankton, fish, and shellfish;
 
 &emsp;&emsp;(B) establish to the extent practicable the rates of recovery of the living resources in response to improved water quality condition;
 
@@ -486,7 +486,7 @@ Report.—Not later than 18 months after the date of enactment of this Act \[Aug
 
 Ex. Ord. No. 13508, May 12, 2009, 74 F.R. 23099, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America and in furtherance of the purposes of the Clean Water Act of 1972, as amended (33 U.S.C. 1251 <i>et seq</i>.), and other laws, and to protect and restore the health, heritage, natural resources, and social and economic value of the Nation's largest estuarine ecosystem and the natural sustainability of its watershed, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica and in furtherance of the purposes of the Clean Water Act of 1972, as amended (33 U.S.C. 1251 <i>et seq</i>.), and other laws, and to protect and restore the health, heritage, natural resources, and social and economic value of the Nation's largest estuarine ecosystem and the natural sustainability of its watershed, it is hereby ordered as follows:
 
 #### PART 1—Preamble
 
@@ -578,7 +578,7 @@ Sec. 502. The Administrator of the EPA shall, within 1 year of the date of this 
 
 #### PART 6—Protect Chesapeake Bay as the Climate Changes
 
-Sec. 601. The Secretaries of Commerce and the Interior shall, to the extent permitted by law, organize andconduct research and scientific assessments to support development of the strategy to adapt to climate change impacts on the Chesapeake Bay watershed as required in section 202 of this order and to evaluate the impacts of climate change on the Chesapeake Bay in future years. Such research should include assessment of:
+Sec. 601. The Secretaries of Commerce and the Interior shall, to the extent permitted by law, organize and conduct research and scientific assessments to support development of the strategy to adapt to climate change impacts on the Chesapeake Bay watershed as required in section 202 of this order and to evaluate the impacts of climate change on the Chesapeake Bay in future years. Such research should include assessment of:
 
 (a) the impact of sea level rise on the aquatic ecosystem of the Chesapeake Bay, including nutrient and sediment load contributions from stream banks and shorelines;
 

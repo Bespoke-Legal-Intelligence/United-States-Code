@@ -300,7 +300,7 @@ Notwithstanding subsections (a) through (h) and (l), a person subject to or desc
 
 &emsp;(1) may be a service provider; and
 
-&emsp;(2) may be subject to requests from, or requirements imposed by, the Bureau regarding information in order to carry out the responsibilities and functions of the Bureau and in accordance with section 5512, 5562, or 5563 of this title.
+&emsp;(2) may be subject to requests from, or requirements imposed by, the Bureau regarding information in order to carry out the responsibilities and functions of the Bureau and inaccordance with section 5512, 5562, or 5563 of this title.
 
 #### (o) No authority to impose usury limit
 

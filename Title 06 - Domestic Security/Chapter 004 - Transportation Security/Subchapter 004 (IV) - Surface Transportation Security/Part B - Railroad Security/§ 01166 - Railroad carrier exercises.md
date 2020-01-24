@@ -46,11 +46,13 @@ The Secretary shall ensure that the program—
 
 &emsp;(4) allows for proper advanced notification of communities and local governments in which exercises are held, as appropriate; and
 
-&emsp;(5) assists State, local, and tribal governments and railroad carriers in designing, implementing, and evaluating additional exercises that conform to the requirements of paragraph (1).
+&emsp;(5) assists State, local, and tribal governments and railroad carriers in designing, implementing, and evaluating additional exercises that conform to the requirements of paragraph (1) <sup>1</sup>.
 
 #### (d) National Exercise Program
 
 The Secretary shall ensure that the exercise program developed under subsection (c) is a component of the National Exercise Program established under section 748 of this title.
 
 (Pub. L. 110–53, title XV, §1516, Aug. 3, 2007, 121 Stat. 438.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be "(2)".</i>
 

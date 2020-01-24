@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, in order to complement the domestic 
 
 &emsp;(4) carry out the farm price and income stabilization purposes of the Agricultural Adjustment Act of 1938 \[7 U.S.C. 1281 et seq.\], the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], and the Commodity Credit Corporation Charter Act \[15 U.S.C. 714 et seq.\],
 
-> shall be made available by the Secretary, without charge or credit for such commodities, for use by eligible recipient agencies for food assistance.
+> shall be made available by the Secretary, without charge or credit for such commodities, foruse by eligible recipient agencies for food assistance.
 
 #### (b) Repealed. Pub. L. 99–198, title XV, §1565(a)(2), Dec. 23, 1985, 99 Stat. 1591
 
@@ -76,7 +76,7 @@ Subsec. (d). Pub. L. 100–77, §811(a), inserted "a variety of commodities and 
 
 Subsecs. (c) to (e). Pub. L. 99–198, §1564(a), added subsecs. (c) to (e).
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–92, §2(3), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Notwithstanding any other provision of law, commodities acquired by the Commodity Credit Corporation that are in excess of quantities needed for the fiscal year to carry out a payment-in-kind acreage diversion program, maintain U.S. share of world markets, and meet international market development and food aid commitments, shall be made available by the Secretary of Agriculture (hereinafter in this chapter referred to as the 'Secretary') without charge or credit in such fiscal year for use by eligible recipient agencies. Upon request, commodities provided by the CCC shall be provided in a form suitable for individual household or institutional use."
+<b>1983</b>—Subsec. (a). Pub. L. 98–92, §2(3), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Notwithstanding any other provision of law, commodities acquired by the Commodity Credit Corporation that are in excess of quantities needed for the fiscal year to carry out a payment-in-kind acreage diversion program, maintain U.S. share of world markets, and meet international market development andfood aid commitments, shall be made available by the Secretary of Agriculture (hereinafter in this chapter referred to as the 'Secretary') without charge or credit in such fiscal year for use by eligible recipient agencies. Upon request, commodities provided by the CCC shall be provided in a form suitable for individual household or institutional use."
 
 Subsec. (b). Pub. L. 98–92, §2(4), substituted "may be used" for "shall be used" and directed the substitution of "October 1, 1985" for "December 1, 1983", which was executed by making the substitution for "December 31, 1983" to reflect the probable intent of Congress.
 

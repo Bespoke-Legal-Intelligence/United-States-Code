@@ -12,7 +12,7 @@
 
 &emsp;(B) shall not have begun the twelfth grade.
 
-(b)(1) An unforeseen vacancy occurring in a page position during an academic year may be filled, except that no appointment may be madeunder this paragraph for service to begin on or after October 1 with respect to the first semester or on or after March 1 with respect to the second semester.
+(b)(1) An unforeseen vacancy occurring in a page position during an academic year may be filled, except that no appointment may be made under this paragraph for service to begin on or after October 1 with respect to the first semester or on or after March 1 with respect to the second semester.
 
 (2) An individual who has served as a congressional page at any time during each of any three semesters or terms, as the case may be, shall not be eligible to serve as a page.
 

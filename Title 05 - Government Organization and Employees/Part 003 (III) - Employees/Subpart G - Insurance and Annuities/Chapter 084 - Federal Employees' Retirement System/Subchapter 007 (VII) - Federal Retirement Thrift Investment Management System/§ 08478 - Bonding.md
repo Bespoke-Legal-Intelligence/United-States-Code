@@ -10,7 +10,7 @@
 
 &emsp;(iii) is subject to supervision or examination by Federal or State authority; and
 
-&emsp;(iv) has at all times a combined capital and surplus in excess of such minimum amount (not less than $1,000,000) as the Secretary of Labor prescribes in regulations.
+&emsp;(iv) has at all times a combined capital and surplus in excess of such minimum amount\(not less than $1,000,000) as the Secretary of Labor prescribes in regulations.
 
 (B) If—
 

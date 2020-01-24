@@ -18,7 +18,7 @@ Except as otherwise provided in this section and section 1114 of this title:
 
 &emsp;&emsp;(ii) the fair market value of the assets of the plan determined on January 1, 1975.
 
-&emsp;(B) Subparagraph (A) of this paragraph shall not apply to any plan which on any date after December 31, 1974; and before January 1, 1985, did not hold employer securities or employer real property (or both) the aggregate fair market value of which determined on such date exceeded 10 percent of the greater of
+&emsp;(B) Subparagraph (A) of this paragraph shall not apply to any plan which on any date after December 31, 1974; and before January 1, 1985, did not hold employer securities or employer real property (or both) the aggregate fair market value of which determined on such date exceeded 10 percent of the greater of <sup>1</sup>
 
 &emsp;&emsp;(i) the fair market value of the assets of the plan, determined on such date, or
 
@@ -66,7 +66,7 @@ Cross References.—
 
 #### (c) Election
 
-(1) A plan which makes the election, under paragraph (3) shall be treated as satisfying the requirement of subsection (a)(3) if and only if employer securities held on any date after December 31, 1974 and before January 1, 1985 have a fair market value, determined as of December31, 1974, not in excess of 10 percent of the lesser of—
+(1) A plan which makes the election, under paragraph (3) shall be treated as satisfying therequirement of subsection (a)(3) if and only if employer securities held on any date after December 31, 1974 and before January 1, 1985 have a fair market value, determined as of December 31, 1974, not in excess of 10 percent of the lesser of—
 
 &emsp;(A) the fair market value of the assets of the plan determined on such date (disregarding any portion of the fair market value of employer securities which is attributable to appreciation of such securities after December 31, 1974) but not less than the fair market value of plan assets on January 1, 1975, or
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) which meets such other requirements as the Secretary of the Treasury may prescribe by regulation.
 
-&emsp;(7) A corporation is an affiliate of an employer if it is a member of any controlled group of corporations (as defined in section 1563(a) of title 26, except that "applicable percentage" shall be substituted for "80 percent" wherever the latter percentage appears in such section) of which the employer who maintains the plan is a member. For purposes of the preceding sentence, the term "applicable percentage" means 50 percent, or such lower percentage as the Secretary may prescribe by regulation. A person other than a corporation shall be treated as an affiliate of an employer to the extent provided in regulations of the Secretary. An employer which is a person other than a corporation shall be treated as affiliated with another person to the extent provided by regulations of the Secretary. Regulations under this paragraph shall be prescribed only after consultation and coordination with the Secretary of the Treasury.
+&emsp;(7) A corporation is an affiliate of an employer if it is a member of any controlled group of corporations (as defined in section 1563(a) of title 26, except that "applicable percentage" shall be substituted for "80 percent" wherever the latter percentage appears in such section) of which the employer who maintainsthe plan is a member. For purposes of the preceding sentence, the term "applicable percentage" means 50 percent, or such lower percentage as the Secretary may prescribe by regulation. A person other than a corporation shall be treated as an affiliate of an employer to the extent provided in regulations of the Secretary. An employer which is a person other than a corporation shall be treated as affiliated with another person to the extent provided by regulations of the Secretary. Regulations under this paragraph shall be prescribed only after consultation and coordination with the Secretary of the Treasury.
 
 &emsp;(8) The Secretary may prescribe regulations specifying the extent to which conversions, splits, the exercise of rights, and similar transactions are not treated as acquisitions.
 
@@ -184,7 +184,7 @@ Subsec. (f)(3). Pub. L. 101–239, §7881(l)(3)(B), struck out par. (3) which re
 
 <b>1987</b>—Subsec. (d)(3)(C). Pub. L. 100–203, §9345(a)(1), added subpar. (C).
 
-Subsec. (d)(5). Pub. L. 100–203, §9345(b)(1), inserted at end "After December 17, 1987, in the case of a plan other than an eligible individual account plan, stockshall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1)."
+Subsec. (d)(5). Pub. L. 100–203, §9345(b)(1), inserted at end "After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1)."
 
 Subsec. (d)(9). Pub. L. 100–203, §9345(a)(2), added par. (9).
 
@@ -227,4 +227,6 @@ Pub. L. 100–203, title IX, §9345(a)(3), Dec. 22, 1987, 101 Stat. 1330–373, 
 #### Regulations
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this part call for the promulgation of regulations, see sections 1031 and 1114 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
 

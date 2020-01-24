@@ -34,7 +34,7 @@ Cost-sharing Requirements.—The cost-sharing requirements under TRICARE Select 
 
 &emsp;(B) Beneficiaries described in this subparagraph are beneficiaries who are eligible to enroll in the TRICARE program by reason of being a member or former member of the uniformed services who originally enlists or is appointed in the uniformed services before January 1, 2018, or by reason of being a dependent of such a member.
 
-&emsp;(3) With respect to beneficiaries in the reserve and young adult category, the cost-sharing requirements shall be calculated pursuant to subsection (d)(1) as if the beneficiary were in the active-duty family member category or the retired category, as applicable, except thatthe premiums calculated pursuant to section 1076d, 1076e, or 1110b of this title, as the case may be, shall apply instead of any enrollment fee required under this section.
+&emsp;(3) With respect to beneficiaries in the reserve and young adult category, the cost-sharing requirements shall be calculated pursuant to subsection (d)(1) as if the beneficiary were in the active-duty family member category or the retired category, as applicable, except that the premiums calculated pursuant to section 1076d, 1076e, or 1110b of this title, as the case may be, shall apply instead of any enrollment fee required under this section.
 
 (d)
 
@@ -52,7 +52,7 @@ Cost-sharing Amounts for Certain Beneficiaries.—(1) Beneficiaries described in
 | <b>Outpatient visit civilian network</b> | $15 primary care | $25 primary care |
 |  | $25 specialty care | $40 specialty care |
 |  |  |  |
-|  | Out of network: 20% | 25% of <sup>1</sup> out of network |
+|  | Out of network: 20% | 25% out of network |
 |  |  |  |
 | <b>ER visit civilian network</b> | $40 network | $80 network |
 |  | 20% out of network | 25% out of network |
@@ -74,8 +74,6 @@ Cost-sharing Amounts for Certain Beneficiaries.—(1) Beneficiaries described in
 | <b>Inpatient skilled nursing/rehab civilian</b> | $25 per day network | $50 per day network |
 |  | $50 per day out of network | Lesser of $300 per day or 20% of billed charges out of network |
 
-<sup>1</sup> So in original.
-
 (2) Each dollar amount expressed as a fixed dollar amount in the table set forth in paragraph (1), and the amounts specified under paragraphs (1) and (2) of subsection (e), shall be annually indexed to the amount by which retired pay is increased under section 1401a of this title, rounded to the next lower multiple of $1. The remaining amount above such multiple of $1 shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over under this clause for a year is $1 or more.
 
 (3) Enrollment fees, deductible amounts, and catastrophic caps under this section are on a calendar-year basis.
@@ -90,7 +88,7 @@ Exceptions to Certain Cost-sharing Amounts for Certain Beneficiaries Eligible Pr
 
 (3) The enrollment fee established pursuant to paragraph (1) and the catastrophic cap adjusted under paragraph (2) for beneficiaries described in subsection (c)(2)(B) in the retired category shall not apply with respect to the following beneficiaries:
 
-&emsp;(A) Retired members and the family members of such members covered by paragraph (1)of section 1086(c) of this title by reason of being retired under chapter 61 of this title or being a dependent of such a member.
+&emsp;(A) Retired members and the family members of such members covered by paragraph (1) of section 1086(c) of this title by reason of being retired under chapter 61 of this title or being a dependent of such a member.
 
 &emsp;(B) Survivors covered by paragraph (2) of such section 1086(c).
 
@@ -128,7 +126,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "out-of-network" means, with respect to health care services, such services provided by TRICARE-authorized civilian providers who have not entered into a contract under this chapter with a contractor under the TRICARE program.
 
-(Added Pub. L. 114–328, div. A, title VII, §701(a)(1), Dec. 23, 2016, 130 Stat. 2180; amended Pub. L. 115–91, div. A, title VII, §739(b)(1), Dec. 12, 2017, 131 Stat. 1446.)
+(Added Pub. L. 114–328, div. A, title VII, §701(a)(1), Dec. 23, 2016, 130 Stat. 2180; amended Pub. L. 115–91, div. A, title VII, §739(b)(1), Dec. 12, 2017, 131 Stat. 1446; Pub. L. 116–92, div. A, title XVII, §1731(a)(23), Dec. 20, 2019, 133 Stat. 1813.)
 
 #### Prior Provisions
 
@@ -137,6 +135,8 @@ A prior section 1075, added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat
 Another prior section 1075, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to post card requests for absentee ballots, and for printing and transmission thereof, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (d)(1). Pub. L. 116–92 substituted "25% out of network" for "25% of out of network" in third column of table row relating to Outpatient visit civilian network.
 
 <b>2017</b>—Subsec. (d)(1). Pub. L. 115–91, §739(b)(1)(B), substituted "Ground ambulance civilian network" for "Ambulance civilian network" in first column of table.
 

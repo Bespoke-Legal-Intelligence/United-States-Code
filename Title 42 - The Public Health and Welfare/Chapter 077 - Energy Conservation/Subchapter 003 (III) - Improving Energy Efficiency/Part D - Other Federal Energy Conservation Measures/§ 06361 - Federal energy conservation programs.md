@@ -80,7 +80,7 @@ Responsibilities of the Administrator of General Services
 
 1–205. The Administrator shall take into consideration the advice of the Environmental Protection Agency under the Clean Air Act, as amended \[42 U.S.C. 7401 et seq.\] in performing his responsibilities under this Order.
 
-1–206. The Administrator shall, in consultation with the Secretary of Transportation, report annually to the President on the performance of the agencies in implementing the policies and actions contained in this Order. The report shall include (a) an assessment of each agency's performance, including the reasonableness of its goals and the adequacy of its effort, (b) acomparison of private sector and State and local government ridesharing efforts with those of the Federal government, and (c) recommendations for additional actions necessary to remove barriers or to provide additional incentives to encourage more ridesharing by personnel at Federal facilities.
+1–206. The Administrator shall, in consultation with the Secretary of Transportation, report annually to the President on the performance of the agencies in implementing the policies and actions contained in this Order. The report shall include (a) an assessment of each agency's performance, including the reasonableness of its goals and the adequacy of its effort, (b) a comparison of private sector and State and local government ridesharing efforts with those of the Federal government, and (c) recommendations for additional actions necessary to remove barriers or to provide additional incentives to encourage more ridesharing by personnel at Federal facilities.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

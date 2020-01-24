@@ -8,7 +8,7 @@ The Secretary of Energy may transfer funds authorized to be appropriated to the 
 
 #### (1) Transfers permitted
 
-&emsp;Subject to paragraph (2), the Secretary of Energy may transfer funds authorized to be appropriated to the Department of Energy pursuant to a DOE national security authorization to any other DOE national security authorization. Amounts of authorizations so transferred may be merged with and be available for the same purposes and for the same period as the authorization to which the amounts are transferred.
+&emsp;Subject to paragraph (2), the Secretary of Energy may transfer funds authorized to beappropriated to the Department of Energy pursuant to a DOE national security authorization to any other DOE national security authorization. Amounts of authorizations so transferred may be merged with and be available for the same purposes and for the same period as the authorization to which the amounts are transferred.
 
 #### (2) Maximum amounts
 

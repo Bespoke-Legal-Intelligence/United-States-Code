@@ -22,7 +22,7 @@
 
 #### (3) Certain orders entered under section 6213(a)
 
-&emsp;An order of the Tax Court which is entered under authority of section 6213(a) and which resolves a proceeding to restrain assessment or collection shall be treated as a decision of the Tax Court for purposes of this section and shall be subject to the same review by the United States Court of Appeals as a similar order of a district court.
+&emsp;An order of the Tax Court which is entered under authority of section 6213(a) and whichresolves a proceeding to restrain assessment or collection shall be treated as a decision of the Tax Court for purposes of this section and shall be subject to the same review by the United States Court of Appeals as a similar order of a district court.
 
 #### (b) Venue
 
@@ -132,7 +132,7 @@ Subsec. (b)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate"
 
 <b>1969</b>—Subsec. (c). Pub. L. 91–172 substituted "section 2072 of title 28" for "section 2074 of title 28" in par. (2) and struck out provision for the applicability of rules adopted under authority of section 1141(c)(2) of the Internal Revenue Act of 1939 until such time as rules prescribed by the Supreme Court under section 2072 of title 28 become effective and, in par. (4), substituted "notice of appeal" for "petition".
 
-<b>1966</b>—Subsec. (b)(1). Pub. L. 89–713 substituted provisions requiring that appeals from Tax Court decisions be made to the Court of Appeals for the circuit in which the taxpayer resides, in the case of a taxpayer other than a corporation, and, in the case of appeals by corporations, to the Court of Appeals for the circuit in which the corporation has its principal place of business or principal office or agency for provisions prescribing review by the Court of Appeals for the circuitin which was located the office to which was made the return of the tax in respect of which the liability arose, and inserted provision for the time of determining legal residence, place of business, or principal office or agency.
+<b>1966</b>—Subsec. (b)(1). Pub. L. 89–713 substituted provisions requiring that appeals from Tax Court decisions be made to the Court of Appeals for the circuit in which the taxpayer resides, in the case of a taxpayer other than a corporation, and, in the case of appeals by corporations, to the Court of Appeals for the circuit in which the corporation has its principal place of business or principal office or agency for provisions prescribing review by the Court of Appeals for the circuit in which was located the office to which was made the return of the tax in respect of which the liability arose, and inserted provision for the time of determining legal residence, place of business, or principal office or agency.
 
 #### Effective Date of 2015 Amendment
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 98–369 applicable to transfers or exchanges after Dec. 31
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under section 702 of this title.
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of theTreasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under section 702 of this title.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 

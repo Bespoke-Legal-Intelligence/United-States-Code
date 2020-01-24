@@ -12,7 +12,7 @@ The purposes of this chapter are—
 
 &emsp;&emsp;(C) the greater use of innovative and effective community-based approaches to attacking the causes and effects of poverty and of community breakdown;
 
-&emsp;&emsp;(D) the maximum participation of residents of the low-income communities andmembers of the groups served by programs assisted through the block grants made under this chapter to empower such residents and members to respond to the unique problems and needs within their communities; and
+&emsp;&emsp;(D) the maximum participation of residents of the low-income communities and members of the groups served by programs assisted through the block grants made under this chapter to empower such residents and members to respond to the unique problems and needs within their communities; and
 
 &emsp;&emsp;(E) the broadening of the resource base of programs directed to the elimination of poverty so as to secure a more active role in the provision of services for—
 

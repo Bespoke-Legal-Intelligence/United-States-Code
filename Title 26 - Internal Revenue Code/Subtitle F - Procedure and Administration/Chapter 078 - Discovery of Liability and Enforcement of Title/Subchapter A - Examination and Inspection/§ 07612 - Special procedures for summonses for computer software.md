@@ -34,7 +34,7 @@ For purposes of this title—
 
 &emsp;&emsp;(C) any communications between the owner of the tax-related computer software source code and the taxpayer or related persons; or
 
-&emsp;&emsp;(D) any tax-related computer software source code which is required to be provided or made available pursuant to any other provision of this title.
+&emsp;&emsp;(D) any tax-related computer software source code which is required to be providedor made available pursuant to any other provision of this title.
 
 #### (3) Cooperation required
 
@@ -60,7 +60,7 @@ For purposes of this title—
 
 &emsp;Notwithstanding any other provision of this section, and in addition to any protections ordered pursuant to paragraph (1), in the case of software that comes into the possession or control of the Secretary in the course of any examination with respect to any taxpayer—
 
-&emsp;&emsp;(A) the software may be used only in connection with the examination of such taxpayer's return, any appeal by the taxpayer to the Internal Revenue Service Office of Appeals, any judicial proceeding (and any appeals therefrom), and any inquiry into any offense connected with the administration or enforcement of the internal revenue laws;
+&emsp;&emsp;(A) the software may be used only in connection with the examination of such taxpayer's return, any appeal by the taxpayer to the Internal Revenue Service Independent Office of Appeals, any judicial proceeding (and any appeals therefrom), and any inquiry into any offense connected with the administration or enforcement of the internal revenue laws;
 
 &emsp;&emsp;(B) the Secretary shall provide, in advance, to the taxpayer and the owner of the software a written list of the names of all individuals who will analyze or otherwise have access to the software;
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 &emsp;The term "computer software executable code" means—
 
-&emsp;&emsp;(A) any object code, machine code, or other code readable by a computer when loaded into its memory and used directly by such computer to execute instructions; and
+&emsp;&emsp;(A) any object code, machine code, or other code readable by a computer whenloaded into its memory and used directly by such computer to execute instructions; and
 
 &emsp;&emsp;(B) any related user manuals.
 
@@ -124,11 +124,15 @@ For purposes of this section—
 
 &emsp;The term "tax-related computer software source code" means the computer source code for any computer software program intended for accounting, tax return preparation or compliance, or tax planning.
 
-(Added Pub. L. 105–206, title III, §3413(a), July 22, 1998, 112 Stat. 751.)
+(Added Pub. L. 105–206, title III, §3413(a), July 22, 1998, 112 Stat. 751; amended Pub. L. 116–25, title I, §1001(b)(1)(J), July 1, 2019, 133 Stat. 985.)
 
 #### Prior Provisions
 
 A prior section 7612 was renumbered section 7613 of this title.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (c)(2)(A). Pub. L. 116–25 substituted "Internal Revenue Service Independent Office of Appeals" for "Internal Revenue Service Office of Appeals".
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 (a)(1)(A) A married employee or Member (or former employee or Member) may withdraw all or part of a Thrift Savings Fund account under subsection (b)(2), (3), or (4) of section 8433 of this title or change a withdrawal election only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B). A married employee or Member (or former employee or Member) may make a withdrawal from a Thrift Savings Fund account under subsection (c)(1) of section 8433 of this title only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B).
 
-(B) An employee or Member (or former employee or Member) may make an election orchange referred to in subparagraph (A) if the employee or Member and the employee's or Member's spouse (or the former employee or Member and the former employee's or Member's spouse) jointly waive, by written election, any right which the spouse may have to a survivor annuity with respect to such employee or Member (or former employee or Member) under section 8434 of this title or subsection (b).
+(B) An employee or Member (or former employee or Member) may make an election or change referred to in subparagraph (A) if the employee or Member and the employee's or Member's spouse (or the former employee or Member and the former employee's or Member's spouse) jointly waive, by written election, any right which the spouse may have to a survivor annuity with respect to such employee or Member (or former employee or Member) under section 8434 of this title or subsection (b).
 
 (2) Paragraph (1) shall not apply to an election or change of election by an employee or Member (or former employee or Member) who establishes to the satisfaction of the Executive Director (at the time of the election or change and in accordance with regulations prescribed by the Executive Director)—
 
@@ -22,7 +22,7 @@
 
 (2) A court decree, order, or agreement referred to in paragraph (1) is, with respect to an employee or Member (or former employee or Member), a court decree of divorce, annulment, or legal separation issued in the case of such employee or Member (or former employee or Member) and any former spouse of the employee or Member (or former employee or Member) or any court order or court-approved property settlement agreement incident to such decree if—
 
-&emsp;(A) the decree, order, or agreement expressly relates to any portion of the balance in the employee's or Member's (or former employee's or Member's) account; and
+&emsp;(A) the decree, order, or agreement expressly relates to any portion of the balance in theemployee's or Member's (or former employee's or Member's) account; and
 
 &emsp;(B) notice of the decree, order, or agreement was received by the Executive Director before—
 
@@ -54,7 +54,7 @@
 
 (5) Subsections (c) and (d) of section 8445 of this title shall apply to an entitlement of a former spouse to a survivor annuity under this subsection.
 
-(6) For the purposes of this section, a court decree, order, or agreement or an election referredto in subsection (a) of this section shall not be effective, in the case of a former spouse, to the extent that the election is inconsistent with any joint waiver previously executed with respect to such former spouse under subsection (a)(2) or (b)(2).
+(6) For the purposes of this section, a court decree, order, or agreement or an election referred to in subsection (a) of this section shall not be effective, in the case of a former spouse, to the extent that the election is inconsistent with any joint waiver previously executed with respect to such former spouse under subsection (a)(2) or (b)(2).
 
 (7) Any payment under this subsection to any individual bars recovery by any other individual.
 
@@ -80,7 +80,7 @@
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(1)\]\], substituted "may withdraw all or part of a Thrift Savings Fund account under subsection (b)(2), (3), or (4) of section 8433 of this title or change a withdrawal election" for "may make an election under subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2) of such section" and inserted at end "A married employee or Member (or former employee or Member) may make a withdrawal from a Thrift Savings Fund account under subsection (c)(1) of section 8433 of this title only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B)."
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(1)\]\], substituted "may withdrawall or part of a Thrift Savings Fund account under subsection (b)(2), (3), or (4) of section 8433 of this title or change a withdrawal election" for "may make an election under subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2) of such section" and inserted at end "A married employee or Member (or former employee or Member) may make a withdrawal from a Thrift Savings Fund account under subsection (c)(1) of section 8433 of this title only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B)."
 
 Subsec. (c)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(2)(A)\]\], substituted "An election or change of election" for "An election, change of election, or modification of the commencement date of a deferred annuity" and "or transfer" for "modification, or transfer".
 
@@ -118,7 +118,7 @@ Pub. L. 103–226, §9(d)(2), redesignated subsec. (c) as (b) and struck out for
 
 "(b)(1) Except as provided in paragraph (2), a transfer may be made by an employee or Member (or former employee or Member) under section 8433(d) of this title only after the Executive Director notifies any current spouse and each former spouse of the employee or Member (or former employee or Member), if any, that the transfer is to be made.
 
-"(2) Paragraph (1) may be waived with respect to a spouse or former spouse if the employee or Member (orformer employee or Member) establishes to the satisfaction of the Executive Director that the whereabouts of such spouse or former spouse cannot be determined."
+"(2) Paragraph (1) may be waived with respect to a spouse or former spouse if the employee or Member (or former employee or Member) establishes to the satisfaction of the Executive Director that the whereabouts of such spouse or former spouse cannot be determined."
 
 Subsec. (c). Pub. L. 103–226, §9(d)(3), (5), redesignated subsec. (d) as (c) and, in par. (1), struck out "and a transfer may not be made under section 8433(d) of this title" after "effective under this subchapter". Former subsec. (c) redesignated (b).
 

@@ -2,11 +2,11 @@
 
 #### (a) Rules and regulations
 
-The Administrator is authorized to prescribe such policies, standards, criteria, procedures,rules, and regulations as he may deem to be necessary or appropriate to perform functions now or hereafter vested in him.
+The Administrator is authorized to prescribe such policies, standards, criteria, procedures, rules, and regulations as he may deem to be necessary or appropriate to perform functions now or hereafter vested in him.
 
 #### (b) Policy planning and evaluation
 
-The Administrator shall engage in such policy planning, and perform such program evaluation analyses and other studies, as may be necessary to promote the efficient and coordinated administration of the Administration and properly assess progress toward the achievement of its missions.
+The Administrator shall engage in such policy planning, and perform such program evaluation analyses and other studies, as may be necessaryto promote the efficient and coordinated administration of the Administration and properly assess progress toward the achievement of its missions.
 
 #### (c) Delegation of functions
 

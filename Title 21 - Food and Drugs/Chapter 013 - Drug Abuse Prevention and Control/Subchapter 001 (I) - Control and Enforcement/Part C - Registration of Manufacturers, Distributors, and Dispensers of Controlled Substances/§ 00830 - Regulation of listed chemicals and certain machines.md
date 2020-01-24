@@ -4,7 +4,7 @@
 
 (1) Each regulated person who engages in a regulated transaction involving a listed chemical, a tableting machine, or an encapsulating machine shall keep a record of the transaction for two years after the date of the transaction.
 
-(2) A record under this subsection shall be retrievable and shall include the date of the regulated transaction, the identity of each party to the regulated transaction, a statement of the quantity and form of the listed chemical, a description of the tableting machine or encapsulating machine, and a description of the method of transfer. Such record shall be available for inspection and copying by the Attorney General.
+(2) A record under this subsection shall be retrievable and shall include the date of the regulated transaction, the identity of each party to the regulated transaction, a statement of thequantity and form of the listed chemical, a description of the tableting machine or encapsulating machine, and a description of the method of transfer. Such record shall be available for inspection and copying by the Attorney General.
 
 (3) It is the duty of each regulated person who engages in a regulated transaction to identify each other party to the transaction. It is the duty of such other party to present proof of identity to the regulated person. The Attorney General shall specify by regulation the types of documents and other evidence that constitute proof of identity for purposes of this paragraph.
 
@@ -118,7 +118,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) signs the written logbook and enters in the logbook his or her name, address, and the date and time of the sale, or for transactions involving an electronic logbook, the purchaser provides a signature using one of the following means:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) Signing a device presented by the seller that captures signatures in an electronic format. Such device shall display the notice described in clause (v). Any device used shall preserve each signature in a manner that clearly links that signature to the other electronically-captured logbook information relating to the prospective purchaser providing that signature.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) Signing a device presented by the seller that captures signatures in an electronic format. Such device shall display the notice described in clause (v). Any device used shall preserve each signature in a manner that clearly links that signature tothe other electronically-captured logbook information relating to the prospective purchaser providing that signature.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) Signing a bound paper book. Such bound paper book shall include, for such purchaser, either (aaa) a printed sticker affixed to the bound paper book at the time of sale which either displays the name of each product sold, the quantity sold, the name and address of the purchaser, and the date and time of the sale, or a unique identifier which can be linked to that electronic information, or (bbb) a unique identifier which can be linked to that information and which is written into the book by the seller at the time of sale. The purchaser shall sign adjacent to the printed sticker or written unique identifier related to that sale. Such bound paper book shall display the notice described in clause (v).
 
@@ -184,7 +184,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 #### (v) Publication of list of self-certified persons
 
-&emsp;&emsp;&emsp;The Attorney General shall develop and make available a list of all persons whoare currently self-certified in accordance with this section. This list shall be made publicly available on the website of the Drug Enforcement Administration in an electronically downloadable format.
+&emsp;&emsp;&emsp;The Attorney General shall develop and make available a list of all persons who are currently self-certified in accordance with this section. This list shall be made publicly available on the website of the Drug Enforcement Administration in an electronically downloadable format.
 
 #### (C) Privacy protections
 

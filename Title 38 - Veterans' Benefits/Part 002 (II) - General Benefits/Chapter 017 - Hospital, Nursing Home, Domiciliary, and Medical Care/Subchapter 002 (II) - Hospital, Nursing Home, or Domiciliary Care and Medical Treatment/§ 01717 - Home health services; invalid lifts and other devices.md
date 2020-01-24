@@ -80,7 +80,7 @@ Subsecs. (b), (c). Pub. L. 100–322, §101(d)(1)(A), redesignated subsecs. (a) 
 
 <b>1968</b>—Pub. L. 90–493 substituted "Invalid lifts and other devices" for "Invalid lifts and other devices for pensioners" in section catchline, and inserted provisions authorizing the Administrator to furnish lifts and other devices to any veteran who is receiving compensation under subsections 314(l)–(p) (or the comparable rates provided pursuant to section 334) of this title.
 
-<b>1967</b>—Subsec. (b). Pub. L. 90–77 substituted "to any veteran in receipt of pension under chapter 15 of this title based on need of regular aid and attendance" for"to any veteran who is eligible to receive an invalid lift under subsection (a) of this section, or who would be so eligible, but for the fact that he has such a lift".
+<b>1967</b>—Subsec. (b). Pub. L. 90–77 substituted "to any veteran in receipt of pension under chapter 15 of this title based on need of regular aid and attendance" for "to any veteran who is eligible to receive an invalid lift under subsection (a) of this section, or who would be so eligible, but for the fact that he has such a lift".
 
 <b>1964</b>—Pub. L. 88–450 inserted "and other devices" in section catchline, designated existing provisions of section as subsec. (a), and added subsec. (b).
 

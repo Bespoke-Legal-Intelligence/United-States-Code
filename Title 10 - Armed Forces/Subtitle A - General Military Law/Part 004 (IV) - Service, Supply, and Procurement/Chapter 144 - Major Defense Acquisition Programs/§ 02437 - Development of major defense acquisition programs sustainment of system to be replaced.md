@@ -36,7 +36,7 @@ Exceptions.—Subsection (a) shall not apply to a major defense acquisition prog
 
 &emsp;(3) the mission has been consolidated with another mission in such a manner that another existing system can adequately meet the mission requirements; or
 
-&emsp;(4) the duration of time until the new system assumes the majority of responsibility for the existing system's mission is sufficiently short so that mission availability, capability, interoperability, and force protection requirements are maintained.
+&emsp;(4) the duration of time until the new system assumes the majority of responsibility for theexisting system's mission is sufficiently short so that mission availability, capability, interoperability, and force protection requirements are maintained.
 
 (d)
 

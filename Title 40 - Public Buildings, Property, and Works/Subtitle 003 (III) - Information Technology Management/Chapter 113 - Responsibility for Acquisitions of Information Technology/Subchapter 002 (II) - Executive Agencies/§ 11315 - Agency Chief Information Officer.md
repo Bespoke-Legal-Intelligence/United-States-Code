@@ -106,7 +106,7 @@ Sec. 6. <i>Strengthening Cybersecurity</i>. Consistent with the purposes of Exec
 
 (a) the CIO, as the principal advisor to the agency head for the management of IT resources, works closely with an integrated team of senior executives with expertise in IT, security, budgeting, acquisition, law, privacy, and human resources to implement appropriate risk management measures; and
 
-(b) the agency prioritizes procurement of shared IT services, including modern email and other cloud-based services, where possible and to the extent permitted by law.
+(b) the agency prioritizes procurement of shared IT services, including modern email and other cloud-basedservices, where possible and to the extent permitted by law.
 
 Sec. 7. <i>Knowledge and Skill Standards for IT Personnel</i>. The head of each covered agency shall take all necessary and appropriate action to ensure that:
 

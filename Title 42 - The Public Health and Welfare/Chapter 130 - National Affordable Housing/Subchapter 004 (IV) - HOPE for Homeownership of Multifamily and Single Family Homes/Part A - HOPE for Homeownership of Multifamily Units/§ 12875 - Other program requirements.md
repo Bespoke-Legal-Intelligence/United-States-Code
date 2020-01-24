@@ -2,7 +2,7 @@
 
 #### (a) Preferences
 
-In selecting eligible families for homeownership, the recipient shall give a first preference to otherwise qualified current tenants and a second preference to otherwise qualified eligible families who have completed participation in an economic self-sufficiency program specified by the Secretary.
+In selecting eligible families for homeownership, the recipient shall give a first preferenceto otherwise qualified current tenants and a second preference to otherwise qualified eligible families who have completed participation in an economic self-sufficiency program specified by the Secretary.
 
 #### (b) Cost limitations
 
@@ -22,7 +22,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 #### (B) Right to purchase
 
-&emsp;&emsp;Where a resident management corporation, resident council, or cooperative has jurisdiction over the unit, the corporation, council, or cooperative shall have the right to purchase the ownership interest in, orshares representing, the unit from the homeowner for the amount specified in a firm contract between the homeowner and a prospective buyer. If such an entity does not have jurisdiction over the unit or elects not to purchase and if the prospective buyer is not a low-income family, the public housing agency or the implementation grant recipient shall have the right to purchase the ownership interest in, or shares representing, the unit for the same amount.
+&emsp;&emsp;Where a resident management corporation, resident council, or cooperative has jurisdiction over the unit, the corporation, council, or cooperative shall have the right to purchase the ownership interest in, or shares representing, the unit from the homeowner for the amount specified in a firm contract between the homeowner and a prospective buyer. If such an entity does not have jurisdiction over the unit or elects not to purchase and if the prospective buyer is not a low-income family, the public housing agency or the implementation grant recipient shall have the right to purchase the ownership interest in, or shares representing, the unit for the same amount.
 
 #### (C) Promissory note required
 
@@ -54,7 +54,7 @@ The requirements under this part regarding quality standards, resale, or transfe
 
 #### (f) Dollar limitation on economic development activities
 
-Not more than an aggregate of $250,000 from amounts made available under sections 12872 and 12873 of this title may be used for economic development activities under sections 12872(b)(6) and 12873(b)(9) <sup>1</sup> of this title for any project.
+Not more than an aggregate of $250,000 from amounts made available under sections 12872and 12873 of this title may be used for economic development activities under sections 12872(b)(6) and 12873(b)(9) <sup>1</sup> of this title for any project.
 
 #### (g) Timely homeownership
 
@@ -68,7 +68,7 @@ Recipients shall transfer ownership of the property to tenants within a specifie
 
 #### (2) Access by Secretary
 
-&emsp;The Secretary shall have access for the purpose of audit and examination to any books,documents, papers, and records of the recipient that are pertinent to assistance received under this part.
+&emsp;The Secretary shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this part.
 
 #### (3) Access by Comptroller General
 

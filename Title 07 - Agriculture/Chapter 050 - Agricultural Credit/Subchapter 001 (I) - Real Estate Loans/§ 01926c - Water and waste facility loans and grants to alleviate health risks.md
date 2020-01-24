@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall make or insure loans and make grants to individuals who reside in a community described in subsection (a)(1) for the purpose of extending water supply and waste disposal systems, connecting the systems to the residences of the individuals, or installing plumbing and fixtures within the residences of the individuals to facilitate the use of the water supply and waste disposal systems. Such loans shall be at a rate of interest no greater than the Federal Financing Bank rate on loans of a similar term at the time such loans are made. The repayment of such loans shall be amortized over the expected life of the water supply or waste disposal system to which the residence of the borrower will be connected.
+&emsp;The Secretary shall make or insure loans and make grants to individuals who reside in a community described in subsection (a)(1) for the purpose of extending water supply and waste disposal systems, connecting the systems to the residences of the individuals, or installing plumbing and fixtures within the residences of the individuals to facilitate the use of the water supply and waste disposal systems. Such loans shall be at a rate of interestno greater than the Federal Financing Bank rate on loans of a similar term at the time such loans are made. The repayment of such loans shall be amortized over the expected life of the water supply or waste disposal system to which the residence of the borrower will be connected.
 
 #### (2) Manner in which loans and grants are to be made
 

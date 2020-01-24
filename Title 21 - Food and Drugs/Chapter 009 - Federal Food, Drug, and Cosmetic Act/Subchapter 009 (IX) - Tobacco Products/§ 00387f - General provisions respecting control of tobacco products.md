@@ -40,7 +40,7 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 &emsp;&emsp;&emsp;(i) prohibit the sale of any tobacco product in face-to-face transactions by a specific category of retail outlets; or
 
-&emsp;&emsp;&emsp;(ii) establish a minimum age of sale of tobacco products to any person older than 18 years of age.
+&emsp;&emsp;&emsp;(ii) establish a minimum age of sale of tobacco products to any person older than 21 years of age.
 
 #### (B) Matchbooks
 
@@ -60,6 +60,10 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 &emsp;&emsp;Nothing in this paragraph limits the authority of the Secretary to take additional actions under the other paragraphs of this subsection.
 
+#### (5) Minimum age of sale
+
+&emsp;It shall be unlawful for any retailer to sell a tobacco product to any person younger than 21 years of age.
+
 #### (e) Good manufacturing practice requirements
 
 #### (1) Methods, facilities, and controls to conform
@@ -76,9 +80,9 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 &emsp;&emsp;&emsp;(ii) before promulgating any regulation under subparagraph (A), afford opportunity for an oral hearing;
 
-&emsp;&emsp;&emsp;(iii) provide the Tobacco Products Scientific Advisory Committee a reasonable time to make its recommendation with respect to proposed regulations under subparagraph (A);
+&emsp;&emsp;&emsp;(iii) provide the Tobacco Products Scientific Advisory Committee a reasonabletime to make its recommendation with respect to proposed regulations under subparagraph (A);
 
-&emsp;&emsp;&emsp;(iv) in establishing the effective date of a regulation promulgated under this subsection, take into account the differences in the manner in which the different typesof tobacco products have historically been produced, the financial resources of the different tobacco product manufacturers, and the state of their existing manufacturing facilities, and shall provide for a reasonable period of time for such manufacturers to conform to good manufacturing practices; and
+&emsp;&emsp;&emsp;(iv) in establishing the effective date of a regulation promulgated under this subsection, take into account the differences in the manner in which the different types of tobacco products have historically been produced, the financial resources of the different tobacco product manufacturers, and the state of their existing manufacturing facilities, and shall provide for a reasonable period of time for such manufacturers to conform to good manufacturing practices; and
 
 &emsp;&emsp;&emsp;(v) not require any small tobacco product manufacturer to comply with a regulation under subparagraph (A) for at least 4 years following the effective date established by the Secretary for such regulation.
 
@@ -128,11 +132,33 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 The Secretary may enter into contracts for research, testing, and demonstrations respecting tobacco products and may obtain tobacco products for research, testing, and demonstration purposes.
 
-(June 25, 1938, ch. 675, §906, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1795.)
+(June 25, 1938, ch. 675, §906, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1795; amended Pub. L. 116–94, div. N, title I, §603(a), Dec. 20, 2019, 133 Stat. 3123.)
 
 #### Prior Provisions
 
 A prior section 906 of act June 25, 1938, was renumbered section 1006 and is classified to section 396 of this title.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (d)(3)(A)(ii). Pub. L. 116–94, §603(a)(1), substituted "21 years" for "18 years".
+
+Subsec. (d)(5). Pub. L. 116–94, §603(a)(2), added par. (5).
+
+#### Regulations
+
+Pub. L. 116–94, div. N, title I, §603(b), Dec. 20, 2019, 133 Stat. 3123, provided that:
+
+"(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[Dec. 20, 2019\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall publish in the Federal Register a final rule to update the regulations issued under chapter IX of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387 et seq.) as appropriate, only to carry out the amendments made by subsection (a) \[amending this section\], including to update all references to persons younger than 18 years of age in subpart B of part 1140 of title 21, Code of Federal Regulations, and to update the relevant age verification requirements under such part 1140 to require age verification for individuals under the age of 30. Such final rule shall—
+
+&emsp;"(A) take full effect not later than 90 days after the date on which such final rule is published; and
+
+&emsp;"(B) be deemed to be in compliance with all applicable provisions of chapter 5 of title 5, United States Code\[,\] and all other provisions of law relating to rulemaking procedures.
+
+"(2)
+
+Other regulations.—Prior to making amendments to part 1140 of title 21, Code of Federal Regulations\[,\] other than the amendments described in paragraph (1), the Secretary shall promulgate a proposed rule in accordance with chapter 5 of title 5, United States Code."
 
 #### Modification of Deadlines for Secretarial Action
 

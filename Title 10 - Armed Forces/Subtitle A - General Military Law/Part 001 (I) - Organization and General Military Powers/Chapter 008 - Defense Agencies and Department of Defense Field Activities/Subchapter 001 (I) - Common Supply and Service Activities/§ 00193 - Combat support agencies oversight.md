@@ -30,7 +30,7 @@ Review of National Security Agency and National Geospatial-Intelligence Agency.�
 
 (e)
 
-Combat Support Capabilities of DIA, NSA, and NGA.—The Secretary of Defense, in consultation with the Director of National Intelligence, shall develop and implement, as they may determine to be necessary, policies and programs to correct such deficiencies as the Chairman of the Joint Chiefs of Staff and other officials of the Department of Defense may identify in the capabilities of the Defense Intelligence Agency, the National Security Agency, and the National Geospatial-Intelligence Agency to accomplish assigned missions in support of military combat operations.
+Combat Support Capabilities of DIA, NSA, and NGA.—The Secretary of Defense, in consultation with the Director of National Intelligence, shall develop and implement, as they may determine to be necessary, policies and programs to correct such deficiencies as the Chairman of the Joint Chiefs of Staff and other officials of the Department of Defense may identify in the capabilities of the Defense Intelligence Agency, the National Security Agency, and theNational Geospatial-Intelligence Agency to accomplish assigned missions in support of military combat operations.
 
 (f)
 
@@ -46,7 +46,7 @@ Definition of Combat Support Agency.—In this section, the term "combat support
 
 &emsp;(5) Any other Defense Agency designated as a combat support agency by the Secretary of Defense.
 
-(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 104–201, div. A, title XI, §1112(c), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 105–85, div. A, title X, §1073(a)(5), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, §921(d)(3), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 109–364, div. A, title IX, §907, Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–181, div. A, title IX, §931(a)(2), (3), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(1), (2), Oct. 14,2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–66, div. A, title X, §1082, Dec. 26, 2013, 127 Stat. 871.)
+(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 104–201, div. A, title XI, §1112(c), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 105–85, div. A, title X, §1073(a)(5), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, §921(d)(3), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 109–364, div. A, title IX, §907, Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–181, div. A, title IX, §931(a)(2), (3), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(1), (2), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–66, div. A, title X, §1082, Dec. 26, 2013, 127 Stat. 871.)
 
 #### Amendments
 
@@ -112,7 +112,7 @@ Elements.—The framework required by subsection (a) shall include the following
 
 &emsp;&emsp;"(B) reconciles jointly used definitions.
 
-&emsp;"(2) A reevaluation of the intelligence components of the Department, including the Joint Intelligence Centers and Joint Intelligence Operations Centers within the combatant commands, in order to determine which components should be formally designated as part of the intelligence community and any components not so designated conform to relevant tradecraft standards.
+&emsp;"(2) A reevaluation of the intelligence components of the Department, including the Joint Intelligence Centers and Joint Intelligence Operations Centers within the combatant commands, in order to determine which components should be formally designated as part of the intelligence community andany components not so designated conform to relevant tradecraft standards.
 
 &emsp;"(3) A repeatable process of the Department for evaluating the addition, transfer, or elimination of defense intelligence missions, roles, and functions, currently or to be performed by elements described in subsection (a)(1) that includes—
 

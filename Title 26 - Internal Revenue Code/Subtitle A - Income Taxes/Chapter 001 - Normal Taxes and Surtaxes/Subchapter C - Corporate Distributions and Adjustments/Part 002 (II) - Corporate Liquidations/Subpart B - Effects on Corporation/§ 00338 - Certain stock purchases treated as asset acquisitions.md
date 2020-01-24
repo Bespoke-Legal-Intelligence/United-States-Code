@@ -32,7 +32,7 @@ For purposes of this subtitle, if a purchasing corporation makes an election und
 
 &emsp;&emsp;For purposes of subparagraph (A), the basis amount determined under this subparagraph shall be an amount equal to the grossed-up basis determined under subparagraph (A) of paragraph (1) multiplied by a fraction—
 
-&emsp;&emsp;&emsp;(i) the numerator of which is the percentage of stock (by value) in the targetcorporation attributable to the purchasing corporation's nonrecently purchased stock, and
+&emsp;&emsp;&emsp;(i) the numerator of which is the percentage of stock (by value) in the target corporation attributable to the purchasing corporation's nonrecently purchased stock, and
 
 &emsp;&emsp;&emsp;(ii) the denominator of which is 100 percent minus the percentage referred to in clause (i).
 
@@ -46,7 +46,7 @@ For purposes of this subtitle, if a purchasing corporation makes an election und
 
 #### (5) Allocation among assets
 
-&emsp;The amount determined under paragraphs (1) and (2) shall be allocated among the assets of the target corporation under regulations prescribed by the Secretary.
+&emsp;The amount determined under paragraphs (1) and (2) shall be allocated among the assetsof the target corporation under regulations prescribed by the Secretary.
 
 #### (6) Definitions of recently purchased stock and nonrecently purchased stock
 
@@ -210,7 +210,7 @@ For purposes of this section—
 
 #### (9) Target not treated as member of affiliated group
 
-&emsp;Except as otherwise provided in paragraph (10) or in regulations prescribed under thisparagraph, the target corporation shall not be treated as a member of an affiliated group with respect to the sale described in subsection (a)(1).
+&emsp;Except as otherwise provided in paragraph (10) or in regulations prescribed under this paragraph, the target corporation shall not be treated as a member of an affiliated group with respect to the sale described in subsection (a)(1).
 
 #### (10) Elective recognition of gain or loss by target corporation, together with nonrecognition of gain or loss on stock sold by selling consolidated group
 
@@ -222,7 +222,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the target corporation recognizes gain or loss with respect to the transaction as if it sold all of its assets in a single transaction,
 
-> &emsp;&emsp;then the target corporation shall be treated as a member of the selling consolidated group with respect to such sale, and (to the extent provided in regulations) no gain or loss will be recognized on stock sold or exchanged in the transaction by members of the selling consolidated group.
+> &emsp;&emsp;then the target corporation shall be treated as a member of the selling consolidatedgroup with respect to such sale, and (to the extent provided in regulations) no gain or loss will be recognized on stock sold or exchanged in the transaction by members of the selling consolidated group.
 
 #### (B) Selling consolidated group
 
@@ -294,7 +294,7 @@ Subsec. (h)(6)(B)(i). Pub. L. 115–141, §401(d)(1)(D)(vii), substituted "or a 
 
 Subsec. (h)(7). Pub. L. 100–647, §1006(e)(20), struck out par. (7) which read as follows: "
 
-Additional percentage must be attributable to purchase, etc.—For purposes of subsection (c)(1), any increase in the maximum percentage of stock taken into account over the percentage of stock (by value) of the target corporation held by the purchasing corporation on the acquisition date shall be taken into account only to the extent such increase is attributable to—
+Additional percentagemust be attributable to purchase, etc.—For purposes of subsection (c)(1), any increase in the maximum percentage of stock taken into account over the percentage of stock (by value) of the target corporation held by the purchasing corporation on the acquisition date shall be taken into account only to the extent such increase is attributable to—
 
 &emsp;"(A) purchase, or
 

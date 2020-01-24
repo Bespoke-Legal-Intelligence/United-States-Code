@@ -4,7 +4,7 @@
 
 (1) Not more than an amount equal to 10 percent of any grant made by the Secretary under this part may be used for administrative purposes in carrying out duties under this part, except that not more than one-half of such amount may be used by any State for such purposes, and a State may provide in the plan adopted pursuant to subsection (b) for recipients of grants of less than $350,000 to use up to an additional 5 percent of such grant for administration if the State has determined that such recipient requires such additional amount to implement effectively the administrative requirements established by the Secretary pursuant to this part.
 
-(2) The Secretary shall establish energy audit procedures and techniques which (i) meet standards established by the Secretary after consultation with the State Energy Advisory Board established under section 6325(g) of this title, (ii) establish priorities for selection of weatherization measures based on their cost and contribution to energy efficiency, (iii) measure the energy requirement of individual dwellings and therate of return of the total conservation investment in a dwelling, and (iv) account for interaction among energy efficiency measures.
+(2) The Secretary shall establish energy audit procedures and techniques which (i) meet standards established by the Secretary after consultation with the State Energy Advisory Board established under section 6325(g) of this title, (ii) establish priorities for selection of weatherization measures based on their cost and contribution to energy efficiency, (iii) measure the energy requirement of individual dwellings and the rate of return of the total conservation investment in a dwelling, and (iv) account for interaction among energy efficiency measures.
 
 #### (b) Allocation, termination or discontinuance by Secretary
 
@@ -132,7 +132,7 @@ Subsec. (c)(3). Pub. L. 106–469, §601(b)(4), in introductory provisions, subs
 
 Subsec. (c)(4). Pub. L. 106–469, §601(b)(5), struck out par. (4), which required the Secretary, upon State application, to establish a separate average per dwelling unit limitation for dwelling units in the State.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–440, §7(d), substituted "(1) Except as provided in paragraph (2), an average" for "An average", inserted before period at end ", and a State may provide in the plan adopted pursuant to subsection (b) for recipients of grants of less than$350,000 to use up to an additional 5 percent of such grant for administration if the State has determined that such recipient requires such additional amount to implement effectively the administrative requirements established by the Secretary pursuant to this part", and added par. (2).
+<b>1990</b>—Subsec. (a). Pub. L. 101–440, §7(d), substituted "(1) Except as provided in paragraph (2), an average" for "An average", inserted before period at end ", and a State may provide in the plan adopted pursuant to subsection (b) for recipients of grants of less than $350,000 to use up to an additional 5 percent of such grant for administration if the State has determined that such recipient requires such additional amount to implement effectively the administrative requirements established by the Secretary pursuant to this part", and added par. (2).
 
 Subsec. (c)(1). Pub. L. 101–440, §7(e)(1), substituted "Except as provided in paragraphs (3) and (4), the expenditure" for "The expenditure".
 

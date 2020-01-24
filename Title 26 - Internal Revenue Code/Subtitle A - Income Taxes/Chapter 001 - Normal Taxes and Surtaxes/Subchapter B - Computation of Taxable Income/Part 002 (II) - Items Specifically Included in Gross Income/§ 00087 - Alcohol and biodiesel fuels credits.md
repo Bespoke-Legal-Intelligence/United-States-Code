@@ -16,7 +16,7 @@ Gross income includes—
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to fuel produced, and sold or used, after Dec. 31, 2004, in taxableyears ending after such date, see section 302(d) of Pub. L. 108–357, set out as a note under section 38 of this title.
+Amendment by Pub. L. 108–357 applicable to fuel produced, and sold or used, after Dec. 31, 2004, in taxable years ending after such date, see section 302(d) of Pub. L. 108–357, set out as a note under section 38 of this title.
 
 #### Effective Date of 1984 Amendment
 

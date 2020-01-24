@@ -19,7 +19,7 @@ The timetable with respect to this subchapter for any budget year is as follows:
 
 #### (b) Submission and availability of reports
 
-Each report required by this section shall be submitted, in the case of CBO, to the House of Representatives, the Senate and OMB and, in the case of OMB, to the House of Representatives, the Senate, and the President on the day it is issued. On the following day a notice of the report shall be printed in the Federal Register.
+Each report required by this section shall be submitted, in the case of CBO, to the House ofRepresentatives, the Senate and OMB and, in the case of OMB, to the House of Representatives, the Senate, and the President on the day it is issued. On the following day a notice of the report shall be printed in the Federal Register.
 
 #### (c) Sequestration preview reports
 
@@ -93,7 +93,7 @@ On the dates specified in subsection (a), OMB and CBO shall issue a sequestratio
 
 #### (4) Explanation of differences
 
-&emsp;The OMB report shall explain any differences between OMB and CBO estimates of the amount of any net deficit change calculated under section 902(b) of this title, any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable <sup>1</sup> resources for any budget account to be reduced if such difference is greater than $5,000,000.
+&emsp;The OMB report shall explain any differences between OMB and CBO estimates ofthe amount of any net deficit change calculated under section 902(b) of this title, any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable <sup>1</sup> resources for any budget account to be reduced if such difference is greater than $5,000,000.
 
 #### (5) Presidential order
 
@@ -287,7 +287,7 @@ Order Rescinded.—(1) Upon the issuance of a new final order by the President u
 
 Adjusted Reduction.—
 
-&emsp;"(1) Before the close of the fifteenth calendar day beginning after the date of enactment of this Act \[Dec. 19, 1989\], the Director of OMB shall issue a revised report using the exact budget baseline set forth in the report of October 16, 1989 \[set out below\], and following the requirements, specifications, definitions, and calculations required by the Balanced Budget and Emergency Deficit Control Act of 1985 \[Pub. L. 99–177, title II, see Short Title note set out under 2 U.S.C. 900\] for the final report issued under section 251(c)(2) \[former 2 U.S.C. 901(c)(2)\] for fiscal year 1990, except that the aggregate outlay reduction to be achieved shall be an amount equal to $16.1 billion multiplied by 130 divided by 365. Calculations made to carry out the preceding sentence shall take into account the reductions and cancellations achieved by paragraphs (2) and (3) and shall not be affected by subsection (d).
+&emsp;"(1) Before the close of the fifteenth calendar day beginning after the date of enactment of this Act\[Dec. 19, 1989\], the Director of OMB shall issue a revised report using the exact budget baseline set forth in the report of October 16, 1989 \[set out below\], and following the requirements, specifications, definitions, and calculations required by the Balanced Budget and Emergency Deficit Control Act of 1985 \[Pub. L. 99–177, title II, see Short Title note set out under 2 U.S.C. 900\] for the final report issued under section 251(c)(2) \[former 2 U.S.C. 901(c)(2)\] for fiscal year 1990, except that the aggregate outlay reduction to be achieved shall be an amount equal to $16.1 billion multiplied by 130 divided by 365. Calculations made to carry out the preceding sentence shall take into account the reductions and cancellations achieved by paragraphs (2) and (3) and shall not be affected by subsection (d).
 
 &emsp;"(2) Notwithstanding any provision of law other than this paragraph, the reductions and cancellations in the student loan programs described in section 256(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 906(c)\] achieved by the order issued by the President on October 16, 1989, shall remain in effect through December 31, 1989, and no reductions or cancellations in such programs shall be made by the order issued under paragraph (4).
 

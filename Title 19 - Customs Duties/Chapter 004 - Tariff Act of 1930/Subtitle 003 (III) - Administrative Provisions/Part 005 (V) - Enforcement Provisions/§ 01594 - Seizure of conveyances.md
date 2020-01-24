@@ -36,7 +36,7 @@ If any merchandise the importation of which is prohibited is found to be, or to 
 
 &emsp;(2) concealed in or on such a conveyance, but not in the cargo;
 
-> the conveyance may be seized, and after investigation, forfeited unless it is established that neither the owner or operator, master, pilot, nor any other employee responsible for maintaining and insuring the accuracy of the cargo manifest knew, or by the exercise of the highest degree of care and diligence could have known, that such merchandise was on board.
+> the conveyance may be seized, and after investigation, forfeited unless it is established that neither the owner or operator, master, pilot, nor any other employee responsible for maintaining and insuring the accuracy of the cargo manifest knew, or by the exercise of the highest degree ofcare and diligence could have known, that such merchandise was on board.
 
 #### (d) Definitions
 

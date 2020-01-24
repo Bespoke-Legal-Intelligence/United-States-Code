@@ -8,7 +8,7 @@ Generally.—Except as otherwise expressly provided by Act of Congress, any civi
 
 Removal Based on Diversity of Citizenship.—(1) In determining whether a civil action is removable on the basis of the jurisdiction under section 1332(a) of this title, the citizenship of defendants sued under fictitious names shall be disregarded.
 
-(2) A civil action otherwise removable solely on the basis of the jurisdiction under section1332(a) of this title may not be removed if any of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.
+(2) A civil action otherwise removable solely on the basis of the jurisdiction under section 1332(a) of this title may not be removed if any of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.
 
 (c)
 
@@ -50,7 +50,7 @@ Multiparty, Multiforum Jurisdiction.—(1) Notwithstanding the provisions of sub
 
 Derivative Removal Jurisdiction.—The court to which a civil action is removed under this section is not precluded from hearing and determining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
 
-(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 94–583, §6, Oct. 21, 1976, 90 Stat. 2898; Pub. L. 99–336, §3(a), June 19, 1986, 100 Stat. 637; Pub. L. 100–702, title X, §1016(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, §312, Dec. 1, 1990, 104 Stat. 5114; Pub. L. 102–198, §4, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 107–273, div. C, title I, §11020(b)(3), Nov. 2, 2002, 116 Stat. 1827; Pub. L. 112–63, title I, §103(a), Dec. 7, 2011, 125 Stat. 759.)
+(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 94–583, §6, Oct. 21, 1976, 90 Stat. 2898; Pub. L. 99–336, §3(a), June 19, 1986, 100 Stat. 637; Pub. L. 100–702, title X, §1016(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, §312, Dec. 1, 1990, 104 Stat.5114; Pub. L. 102–198, §4, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 107–273, div. C, title I, §11020(b)(3), Nov. 2, 2002, 116 Stat. 1827; Pub. L. 112–63, title I, §103(a), Dec. 7, 2011, 125 Stat. 759.)
 
 #### Historical and Revision Notes
 

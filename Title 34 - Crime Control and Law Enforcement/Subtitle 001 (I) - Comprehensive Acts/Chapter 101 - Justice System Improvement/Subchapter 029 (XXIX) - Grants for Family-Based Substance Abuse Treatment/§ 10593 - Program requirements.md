@@ -16,7 +16,7 @@ A program for which a grant is made under section 10591(1) of this title shall c
 
 &emsp;(6) The program shall ensure that a determination is made as to whether a nonviolent drug offender has completed the substance abuse treatment program.
 
-&emsp;(7) The program shall include the implementation of a system of graduated sanctions (including incentives) that are applied based on the accountability of the nonviolent parent drug offender involved throughout the course of that program to encourage compliance with that program.
+&emsp;(7) The program shall include the implementation of a system of graduated sanctions (including incentives) that are applied based on the accountability of the nonviolent parentdrug offender involved throughout the course of that program to encourage compliance with that program.
 
 &emsp;(8) The program shall develop and implement a reentry plan for each participant.
 
@@ -32,7 +32,7 @@ A program for which a grant is made under section 10591(2) of this title shall c
 
 #### (c) Priority considerations
 
-The Attorney General shall give priority consideration to grant applications for grants under section 10591 of this title that are submitted bya nonprofit organization that demonstrates a relationship with State and local criminal justice agencies, including—
+The Attorney General shall give priority consideration to grant applications for grants under section 10591 of this title that are submitted by a nonprofit organization that demonstrates a relationship with State and local criminal justice agencies, including—
 
 &emsp;(1) within the judiciary and prosecutorial agencies; or
 

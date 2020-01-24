@@ -8,7 +8,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(2) Repealed. Pub. L. 101–157, §3(c)(1), Nov. 17, 1989, 103 Stat. 939.
 
-&emsp;(3) any employee employed by an establishment which is an amusement or recreationalestablishment, organized camp, or religious or non-profit educational conference center, if (A) it does not operate for more than seven months in any calendar year, or (B) during the preceding calendar year, its average receipts for any six months of such year were not more than 331/3 per centum of its average receipts for the other six months of such year, except that the exemption from sections 206 and 207 of this title provided by this paragraph does not apply with respect to any employee of a private entity engaged in providing services or facilities (other than, in the case of the exemption from section 206 of this title, a private entity engaged in providing services and facilities directly related to skiing) in a national park or a national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture; or
+&emsp;(3) any employee employed by an establishment which is an amusement or recreational establishment, organized camp, or religious or non-profit educational conference center, if (A) it does not operate for more than seven months in any calendar year, or (B) during the preceding calendar year, its average receipts for any six months of such year were not more than 331/3 per centum of its average receipts for the other six months of such year, except that the exemption from sections 206 and 207 of this title provided by this paragraph does not apply with respect to any employee of a private entity engaged in providing services or facilities (other than, in the case of the exemption from section 206 of this title, a private entity engaged in providing services and facilities directly related to skiing) in a national park or a national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture; or
 
 &emsp;(4) Repealed. Pub. L. 101–157, §3(c)(1), Nov. 17, 1989, 103 Stat. 939.
 
@@ -54,7 +54,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 The provisions of section 207 of this title shall not apply with respect to—
 
-&emsp;(1) any employee with respect to whom the Secretary of Transportation has power to establish qualifications and maximum hours ofservice pursuant to the provisions of section 31502 of title 49; or
+&emsp;(1) any employee with respect to whom the Secretary of Transportation has power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49; or
 
 &emsp;(2) any employee of an employer engaged in the operation of a rail carrier subject to part A of subtitle IV of title 49; or
 
@@ -112,9 +112,9 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(27) any employee employed by an establishment which is a motion picture theater; or
 
-&emsp;(28) any employee employed in planting or tending trees, cruising, surveying, or felling timber, or in preparing or transporting logs or other forestry products to the mill, processingplant, railroad, or other transportation terminal, if the number of employees employed by his employer in such forestry or lumbering operations does not exceed eight;
+&emsp;(28) any employee employed in planting or tending trees, cruising, surveying, or felling timber, or in preparing or transporting logs or other forestry products to the mill, processing plant, railroad, or other transportation terminal, if the number of employees employed by his employer in such forestry or lumbering operations does not exceed eight;
 
-&emsp;(29) any employee of an amusement or recreational establishment located in a national park or national forest or on land in the National Wildlife Refuge System if such employee (A) is an employee of a private entity engaged in providing services or facilities in a national park or national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture, and (B) receives compensation for employment in excess of fifty-six hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed; or
+&emsp;(29) any employee of an amusement or recreational establishment located in a national park or national forest or on land in the National Wildlife Refuge System if such employee (A) is an employee of a private entity engaged in providing services or facilities in a national park or national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior orthe Secretary of Agriculture, and (B) receives compensation for employment in excess of fifty-six hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed; or
 
 &emsp;(30) a criminal investigator who is paid availability pay under section 5545a of title 5.
 
@@ -168,7 +168,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(iii) the on-off switch of the scrap paper balers and paper box compactors is maintained in an off position when the scrap paper balers and paper box compactors are not in operation; and
 
-&emsp;(iv) the employer of 16- and 17-year-old employees provides notice, and posts a notice, on the scrap paper balers and paper box compactors stating that—
+&emsp;(iv) the employer of 16- and 17-year-old employees provides notice, and posts a notice, onthe scrap paper balers and paper box compactors stating that—
 
 &emsp;&emsp;(I) the scrap paper balers and paper box compactors meet the applicable standard described in clause (i);
 
@@ -300,7 +300,7 @@ The provisions of section 207 of this title shall not apply for a period or peri
 
 The provisions of section 207 of this title shall not apply for a period or periods of not more than fourteen workweeks in the aggregate in any period of fifty-two consecutive weeks to any employee who—
 
-&emsp;(1) is engaged in the ginning of cotton for market in any place of employment located ina county where cotton is grown in commercial quantities; and
+&emsp;(1) is engaged in the ginning of cotton for market in any place of employment located in a county where cotton is grown in commercial quantities; and
 
 &emsp;(2) receives for any such employment during such workweeks—
 
@@ -428,7 +428,7 @@ Subsec. (b)(21). Pub. L. 93–259, §7(b)(4), added par. (21).
 
 Subsec. (b)(22). Pub. L. 93–259, §9(b)(2), added par. (22).
 
-Subsec. (b)(23). Pub. L. 93–259, §10(b)(1), added par. (23), effective May 1, 1974. Pub. L. 93–259, §10(b)(2), substituted "forty-four hours" for "forty-eight hours" effective one year after May 1, 1974. Pub. L. 93–259,§10(b)(3), repealed par. (23) effective two years after May 1, 1974.
+Subsec. (b)(23). Pub. L. 93–259, §10(b)(1), added par. (23), effective May 1, 1974. Pub. L. 93–259, §10(b)(2), substituted "forty-four hours" for "forty-eight hours" effective one year after May 1, 1974. Pub. L. 93–259, §10(b)(3), repealed par. (23) effective two years after May 1, 1974.
 
 Subsec. (b)(24). Pub. L. 93–259, §17, added par. (24).
 
@@ -498,7 +498,7 @@ Subsec. (b)(10). Pub. L. 89–601, §§209(b), 212(a), repealed par. (10) which 
 
 Subsec. (b)(12) to (19). Pub. L. 89–601, §§203(c)(B), 204(b), 206(b)(2), 210(b), added pars. (12) to (19).
 
-Subsec. (c). Pub. L. 89–601, §203(d), inserted provision making section 212 of this title relating to child labor applicable to an employee below the age of sixteen employed in agriculture in an occupation that the Secretary of Labor finds and declares to be particularly hazardous for the employment of children below the age of sixteen, except where such employee is employed by his parent or by a person standing in the place of his parent on a farm owned or operated by such parent or person.
+Subsec. (c). Pub. L. 89–601, §203(d), inserted provision making section 212 of this title relating to child laborapplicable to an employee below the age of sixteen employed in agriculture in an occupation that the Secretary of Labor finds and declares to be particularly hazardous for the employment of children below the age of sixteen, except where such employee is employed by his parent or by a person standing in the place of his parent on a farm owned or operated by such parent or person.
 
 Subsec. (f). Pub. L. 89–601, §213, inserted reference to Eniwetok Atoll, Kwajalein Atoll, and Johnston Island.
 
@@ -674,7 +674,7 @@ Pub. L. 93–259, §23(c), Apr. 8, 1974, 88 Stat. 69, provided in part for amend
 
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 
-Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602 of Pub. L. 89–601, set out as a note under section 203 of this title.
+Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602of Pub. L. 89–601, set out as a note under section 203 of this title.
 
 #### Study of Agricultural Handling and Processing Exemptions and Rates of Pay in Exempt Food Service Enterprises
 

@@ -4,7 +4,7 @@
 
 #### (1) Rate of tax
 
-&emsp;Except as provided in section 5314, articles of merchandise of Puerto Rican manufacture coming into the United States and withdrawnfor consumption or sale shall be subject to a tax equal to the internal revenue tax imposed in the United States upon the like articles of merchandise of domestic manufacture.
+&emsp;Except as provided in section 5314, articles of merchandise of Puerto Rican manufacture coming into the United States and withdrawn for consumption or sale shall be subject to a tax equal to the internal revenue tax imposed in the United States upon the like articles of merchandise of domestic manufacture.
 
 #### (2) Payment of tax
 

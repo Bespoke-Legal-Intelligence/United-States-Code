@@ -2,7 +2,7 @@
 
 #### (a) Establishment of accounts
 
-The Secretary shall maintain in the fund, in addition to any account which he maintains under section 9006(a), a separate account for the national committee of each major party and minor party. The Secretary shall deposit in each such account an amount equal to the amount which each such committee may receive under subsection (b). Such deposits shall be drawn from amounts designated by individuals under section 6096 and shall be made before any transfer is made to any account for any eligible candidate under section 9006(a).
+The Secretary shall maintain in the fund, in addition to any account which he maintainsunder section 9006(a), a separate account for the national committee of each major party and minor party. The Secretary shall deposit in each such account an amount equal to the amount which each such committee may receive under subsection (b). Such deposits shall be drawn from amounts designated by individuals under section 6096 and shall be made before any transfer is made to any account for any eligible candidate under section 9006(a).
 
 #### (b) Entitlement to payments from the fund
 
@@ -54,7 +54,7 @@ No part of any payment made under subsection (b) shall be used to defray the exp
 
 #### (e) Availability of payments
 
-The national committee of a major party or minor party may receive payments under subsection (b)(3) beginning on July 1 of the calendaryear immediately preceding the calendar year in which a presidential nominating convention of the political party involved is held.
+The national committee of a major party or minor party may receive payments under subsection (b)(3) beginning on July 1 of the calendar year immediately preceding the calendar year in which a presidential nominating convention of the political party involved is held.
 
 #### (f) Transfer to the fund
 

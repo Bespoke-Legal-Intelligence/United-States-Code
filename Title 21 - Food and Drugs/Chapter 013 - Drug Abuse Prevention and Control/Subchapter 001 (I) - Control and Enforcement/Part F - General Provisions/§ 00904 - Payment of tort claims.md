@@ -12,7 +12,7 @@ Notwithstanding section 2680(k) of title 28, the Attorney General, in carrying o
 
 Subsec. (c). Pub. L. 96–132, §13, added subsec. (c).
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–137 substituted "September 30, 1977, $188,000,000 for the fiscal year ending September 30, 1978, and $215,000,000 for the fiscal year ending September 30, 1979," for "June 30, 1977," and struck out "(other than its expenses incurred in connection with carrying out section 803(a) of this title)".
+<b>1977</b>—Subsec. (a). Pub. L. 95–137 substituted "September 30, 1977, $188,000,000 for the fiscal year ending September 30, 1978, and $215,000,000 for the fiscal year ending September 30, 1979," for "June 30, 1977," and struckout "(other than its expenses incurred in connection with carrying out section 803(a) of this title)".
 
 <b>1974</b>—Pub. L. 93–481 designated existing provisions as subsec. (a), substituted authorization of appropriations for fiscal years ending June 30, 1975, June 30, 1976, and June 30, 1977, for authorization of appropriations for fiscal years ending June 30, 1972, June 30, 1973, and June 30, 1974, and added subsec. (b).
 

@@ -28,7 +28,7 @@
 
 #### (B) Notice upon expiration of effective period
 
-&emsp;&emsp;At such time as the election of a consumer pursuant to paragraph (1)(B) is no longer effective, a person may not use informationthat the person receives in the manner described in paragraph (1) to make any solicitation for marketing purposes to the consumer, unless the consumer receives a notice and an opportunity, using a simple method, to extend the opt-out for another period of at least 5 years, pursuant to the procedures described in paragraph (1).
+&emsp;&emsp;At such time as the election of a consumer pursuant to paragraph (1)(B) is no longer effective, a person may not use information that the person receives in the manner described in paragraph (1) to make any solicitation for marketing purposes to the consumer, unless the consumer receives a notice and an opportunity, using a simple method, to extend the opt-out for another period of at least 5 years, pursuant to the procedures described in paragraph (1).
 
 #### (4) Scope
 

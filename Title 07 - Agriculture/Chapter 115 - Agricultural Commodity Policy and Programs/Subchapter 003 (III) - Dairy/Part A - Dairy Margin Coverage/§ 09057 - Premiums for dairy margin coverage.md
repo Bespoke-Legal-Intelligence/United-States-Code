@@ -14,7 +14,7 @@ For purposes of participating in dairy margin coverage, a participating dairy op
 
 #### (1) In general
 
-&emsp;For the first 5,000,000 pounds of milk marketings included in the production history of aparticipating dairy operation, the premium per hundredweight for each coverage level is specified in the table contained in paragraph (2).
+&emsp;For the first 5,000,000 pounds of milk marketings included in the production history of a participating dairy operation, the premium per hundredweight for each coverage level is specified in the table contained in paragraph (2).
 
 #### (2) Producer premiums
 

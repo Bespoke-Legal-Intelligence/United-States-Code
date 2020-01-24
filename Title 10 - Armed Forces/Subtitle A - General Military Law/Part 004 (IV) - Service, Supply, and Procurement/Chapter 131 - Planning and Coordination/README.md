@@ -36,11 +36,13 @@
 | [2228\.](%C2%A7%2002228%20-%20Office%20of%20Corrosion%20Policy%20and%20Oversight.md) | Office of Corrosion Policy and Oversight. |
 | [2229\.](%C2%A7%2002229%20-%20Strategic%20policy%20on%20prepositioning%20of%20materiel%20and%20equipment.md) | Strategic policy on prepositioning of materiel and equipment. |
 | [2229a.](%C2%A7%2002229a%20-%20Annual%20report%20on%20prepositioned%20materiel%20and%20equipment.md) | Annual report on prepositioned materiel and equipment. |
-| [2229b.](%C2%A7%2002229b%20-%20Comptroller%20General%20assessment%20of%20acquisition%20programs%20and%20initiatives.md) | Comptroller General assessment of acquisition programs and related initiatives.<sup>1</sup> |
+| [2229b.](%C2%A7%2002229b%20-%20Comptroller%20General%20assessment%20of%20acquisition%20programs%20and%20initiatives.md) | Comptroller General assessment of acquisition programs and initiatives. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title XVII, §1731(a)(33), Dec. 20, 2019, 133 Stat. 1814, substituted "Comptroller General assessment of acquisition programs and initiatives" for "Comptroller General assessment of acquisition programs and related initiatives" in item 2229b.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §833(b), Aug. 13, 2018, 132 Stat. 1859, added item 2229b.
 
@@ -66,7 +68,7 @@ Pub. L. 111–383, div. A, title VIII, §805(a)(2), Jan. 7, 2011, 124 Stat. 4259
 
 <b>2001</b>—Pub. L. 107–107, div. A, title X, §1009(b)(3)(B), Dec. 28, 2001, 115 Stat. 1209, substituted "Annual" for "Biennial" in item 2222.
 
-<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(2), title X, §§1006(a)(2), 1008(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, 1654A–247, 1654A–250, added items 2225, 2226, and 2227.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(2), title X, §§1006(a)(2), 1008(a)(2)\], Oct. 30, 2000, 114 Stat.1654, 1654A–214, 1654A–247, 1654A–250, added items 2225, 2226, and 2227.
 
 <b>1999</b>—Pub. L. 106–65, div. A, title X, §1043(b), Oct. 5, 1999, 113 Stat. 761, added item 2224.
 
@@ -133,8 +135,6 @@ Matters covered.—Such plan shall include, at a minimum, detailed descriptions 
 "(e)
 
 Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of this section and a copy of the strategic management plan required by subsection (d)."
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

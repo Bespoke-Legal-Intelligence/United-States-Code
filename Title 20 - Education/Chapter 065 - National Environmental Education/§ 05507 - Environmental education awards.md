@@ -22,7 +22,7 @@ Recipients of education awards provided for in subsection (b) shall be nominated
 
 #### (d) President's Environmental Youth Awards
 
-The Administrator may provide for the "President's Environmental Youth Awards" to be given to young people in grades kindergartenthrough twelfth for an outstanding project to promote local environmental awareness.
+The Administrator may provide for the "President's Environmental Youth Awards" to be given to young people in grades kindergarten through twelfth for an outstanding project to promote local environmental awareness.
 
 #### (e) Cash awards for elementary and secondary education teachers and local educational agencies
 

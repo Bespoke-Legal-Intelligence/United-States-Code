@@ -16,7 +16,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 &emsp;&emsp;(C) by not later than March 15 of each year (beginning with 2010), submit a report to Congress containing the results of such reviews and MACPAC's recommendations concerning such policies; and
 
-&emsp;&emsp;(D) by not later than June 15 of each year (beginning with 2010), submit a report toCongress containing an examination of issues affecting Medicaid and CHIP, including the implications of changes in health care delivery in the United States and in the market for health care services on such programs.
+&emsp;&emsp;(D) by not later than June 15 of each year (beginning with 2010), submit a report to Congress containing an examination of issues affecting Medicaid and CHIP, including the implications of changes in health care delivery in the United States and in the market for health care services on such programs.
 
 #### (2) Specific topics to be reviewed
 
@@ -146,7 +146,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (13) Coordinate and consult with the Federal Coordinated Health Care Office
 
-&emsp;MACPAC shall coordinate and consult with the Federal Coordinated Health Care Office established under section 2081 <sup>1</sup> of the PatientProtection and Affordable Care Act before making any recommendations regarding dual eligible individuals.
+&emsp;MACPAC shall coordinate and consult with the Federal Coordinated Health Care Office established under section 2081 <sup>1</sup> of the Patient Protection and Affordable Care Act before making any recommendations regarding dual eligible individuals.
 
 #### (14) Programmatic oversight vested in the Secretary
 
@@ -184,7 +184,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (B) Vacancies
 
-&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy in MACPAC shall be filled in the manner in which the original appointment was made.
+&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the termfor which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy in MACPAC shall be filled in the manner in which the original appointment was made.
 
 #### (4) Compensation
 
@@ -256,7 +256,7 @@ Subject to such review as the Comptroller General of the United States deems nec
 
 #### (B) Transfer of funds
 
-&emsp;&emsp;Notwithstanding section 1397dd(a)(13) of this title, from the amounts appropriated in such section for fiscal year 2010, $2,000,000 is hereby transferred and made available in such fiscal year to MACPAC to carry out the provisions of this section.
+&emsp;&emsp;Notwithstanding section 1397dd(a)(13) of this title, from the amounts appropriated insuch section for fiscal year 2010, $2,000,000 is hereby transferred and made available in such fiscal year to MACPAC to carry out the provisions of this section.
 
 #### (4) Availability
 
@@ -292,7 +292,7 @@ Subsec. (b)(1)(C). Pub. L. 111–148, §2801(a)(1)(A)(iv), substituted "March 15
 
 Subsec. (b)(1)(D). Pub. L. 111–148, §2801(a)(1)(A)(v), substituted "June 15" for "June 1".
 
-Subsec. (b)(2)(A)(i). Pub. L. 111–148, §2801(a)(1)(B)(i)(I), inserted "the efficient provision of" after "expenditures for" and substituted "payments to medical, dental, and health professionals, hospitals, residential andlong-term care providers, providers of home and community based services, Federally-qualified health centers and rural health clinics, managed care entities, and providers of other covered items and services" for "hospital, skilled nursing facility, physician, Federally-qualified health center, rural health center, and other fees".
+Subsec. (b)(2)(A)(i). Pub. L. 111–148, §2801(a)(1)(B)(i)(I), inserted "the efficient provision of" after "expenditures for" and substituted "payments to medical, dental, and health professionals, hospitals, residential and long-term care providers, providers of home and community based services, Federally-qualified health centers and rural health clinics, managed care entities, and providers of other covered items and services" for "hospital, skilled nursing facility, physician, Federally-qualified health center, rural health center, and other fees".
 
 Subsec. (b)(2)(A)(iii). Pub. L. 111–148, §2801(a)(1)(B)(i)(II), inserted "(including how such factors and methodologies enable such beneficiaries to obtain the services for which they are eligible, affect provider supply, and affect providers that serve a disproportionate share of low-income and other vulnerable populations)" after "CHIP beneficiaries".
 
@@ -322,7 +322,7 @@ Pub. L. 111–3, §3, Feb. 4, 2009, 123 Stat. 10, provided that:
 
 "(a)
 
-General Effective Date.—Unless otherwise provided in this Act \[enacting this section and sections 247d–9, 1320b–9a, 1396e–1, 1396w–2, and 1397kk to 1397mm of this title and section 657p of Title 15, Commerce and Trade, transferring former section 1396 of this title to section 1396–1 of this title, amending sections 300gg, 1308, 1320b–9, 1320b–9a, 1396a, 1396b, 1396r–1, 1396r–4, 1396u–7, 1397bb to 1397ee, and 1397gg to 1397jj of this title, section 1514 of Title 19, Customs Duties, sections 5701 to 5703, 5712, 5713, 5721 to 5723, 5741, 6103, and 9801 of Title 26, Internal Revenue Code, and sections 1022, 1132, and 1181 of Title 29, Labor, enacting provisions set out as notes under this section and sections 1305, 1396a, 1396b, 1396d, 1396u–7, 1396u–8, 1396w–2, 1397bb to 1397ee, 1397gg, and 1397hh of this title, section 1514 of Title 19, sections 5701 to 5703, 5711, 5712, 6103, and 6655 of Title 26, and section 1181 of Title 29, amending provisions set out as a note under section 1397gg of this title, and repealing provisions set out as notes under sections 1397aa and 1397ee of this title\], subject to subsections (b) through (d), this Act (and the amendments made by this Act) shall take effect on April 1, 2009, and shall apply to child health assistance and medical assistance provided on or after that date.
+General Effective Date.—Unless otherwise provided in this Act \[enacting this section and sections 247d–9, 1320b–9a, 1396e–1, 1396w–2, and 1397kk to 1397mm of this title and section 657p of Title 15, Commerce and Trade, transferring former section 1396 of this title to section 1396–1 of this title, amending sections 300gg, 1308, 1320b–9, 1320b–9a, 1396a, 1396b, 1396r–1, 1396r–4, 1396u–7, 1397bb to 1397ee, and 1397gg to 1397jj of this title, section 1514 of Title 19, Customs Duties, sections 5701 to 5703, 5712, 5713, 5721 to 5723, 5741, 6103, and 9801 of Title 26, Internal Revenue Code, and sections 1022, 1132, and 1181 of Title 29, Labor, enacting provisions set out as notes under this section and sections 1305, 1396a, 1396b, 1396d, 1396u–7, 1396u–8, 1396w–2, 1397bb to 1397ee, 1397gg, and 1397hh of this title, section 1514 of Title 19, sections 5701 to 5703, 5711, 5712, 6103, and 6655 of Title 26, and section 1181 of Title 29, amending provisions set out as a note under section 1397gg of this title, and repealing provisions set out as notes under sections 1397aa and 1397ee of this title\], subject to subsections (b)through (d), this Act (and the amendments made by this Act) shall take effect on April 1, 2009, and shall apply to child health assistance and medical assistance provided on or after that date.
 
 "(b)
 
@@ -346,7 +346,7 @@ Reliance on Law.—With respect to amendments made by this Act (other than title
 
 #### Purpose
 
-Pub. L. 111–3, §2, Feb. 4, 2009, 123 Stat. 10, provided that: "It is the purpose of this Act \[see Effective Date note above\] to provide dependable and stable funding for children's health insurance under titles XXI and XIX of the Social Security Act \[42 U.S.C. 1397aa et seq.,1396 et seq.\] in order to enroll all six million uninsured children who are eligible, but not enrolled, for coverage today through such titles."
+Pub. L. 111–3, §2, Feb. 4, 2009, 123 Stat. 10, provided that: "It is the purpose of this Act \[see Effective Date note above\] to provide dependable and stable funding for children's health insurance under titles XXI and XIX of the Social Security Act \[42 U.S.C. 1397aa et seq., 1396 et seq.\] in order to enroll all six million uninsured children who are eligible, but not enrolled, for coverage today through such titles."
 
 #### Model of Interstate Coordinated Enrollment and Coverage Process
 
@@ -378,7 +378,7 @@ Pub. L. 111–3, title V, §506(c), Feb. 4, 2009, 123 Stat. 95, provided that: "
 
 #### No Federal Funding for Illegal Aliens; Disallowance for Unauthorized Expenditures
 
-Pub. L. 111–3, title VI, §605, Feb. 4, 2009, 123 Stat. 100, as amended by Pub. L. 111–148, title II, §2102(a)(2), Mar. 23, 2010, 124 Stat. 288, provided that: "Nothing in this Act \[see Effective Date note above\] allows Federal payment for individuals who are not lawfully residing in the United States. Titles XI, XIX, and XXI of the Social Security Act \[42 U.S.C. 1301 et seq., 1396 et seq., 1397aa et seq.\] provide for the disallowance of Federal financial participation for erroneous expenditures under Medicaid and under CHIP, respectively."
+Pub. L. 111–3, title VI, §605, Feb. 4, 2009, 123 Stat. 100, as amended by Pub. L. 111–148, title II, §2102(a)(2), Mar. 23, 2010, 124 Stat. 288, provided that: "Nothing in this Act \[see Effective Date note above\] allows Federal payment for individuals who are not lawfully residing in the United States. Titles XI, XIX, and XXI of the SocialSecurity Act \[42 U.S.C. 1301 et seq., 1396 et seq., 1397aa et seq.\] provide for the disallowance of Federal financial participation for erroneous expenditures under Medicaid and under CHIP, respectively."
 
 #### Definitions
 

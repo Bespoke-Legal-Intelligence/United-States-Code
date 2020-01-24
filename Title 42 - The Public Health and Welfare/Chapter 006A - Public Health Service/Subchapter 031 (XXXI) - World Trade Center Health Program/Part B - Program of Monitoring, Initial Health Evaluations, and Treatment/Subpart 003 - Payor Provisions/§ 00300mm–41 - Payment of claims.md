@@ -100,7 +100,7 @@ For the purposes of this section, a WTC-related health condition shall be treate
 
 &emsp;(2) with respect to the condition the individual has filed and had established a claim under a workers' compensation law or plan of the United States or a State, or other work-related injury or illness benefit plan of the employer of such individual.
 
-(July 1, 1944, ch. 373, title XXXIII, §3331, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011,124 Stat. 3653; amended Pub. L. 114–113, div. O, title III, §302(g), Dec. 18, 2015, 129 Stat. 3000.)
+(July 1, 1944, ch. 373, title XXXIII, §3331, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3653; amended Pub. L. 114–113, div. O, title III, §302(g), Dec. 18, 2015, 129 Stat. 3000.)
 
 #### References in Text
 

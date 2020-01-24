@@ -68,7 +68,7 @@
 
 #### (II) Limitation on distributions
 
-&emsp;&emsp;&emsp;&emsp;The requirement of subparagraph (A)(vi) is met only if, as determined under regulations of the Secretary, the amounts distributed with respect to an emergency do not exceed the amounts necessary to satisfy such emergency plus amounts necessary to pay taxes reasonably anticipated as a result of the distribution, after taking into account the extent to which such hardship is or may be relieved through reimbursement or compensation by insurance or otherwise or by liquidation of the participant's assets (to the extent the liquidation of such assets would not itself cause severe financial hardship).
+&emsp;&emsp;&emsp;&emsp;The requirement of subparagraph (A)(vi) is met only if, as determinedunder regulations of the Secretary, the amounts distributed with respect to an emergency do not exceed the amounts necessary to satisfy such emergency plus amounts necessary to pay taxes reasonably anticipated as a result of the distribution, after taking into account the extent to which such hardship is or may be relieved through reimbursement or compensation by insurance or otherwise or by liquidation of the participant's assets (to the extent the liquidation of such assets would not itself cause severe financial hardship).
 
 #### (C) Disabled
 
@@ -256,7 +256,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) relating to changes in the ownership and control of a corporation or assets of a corporation for purposes of subsection (a)(2)(A)(v),
 
-&emsp;(3) exempting arrangements from the application of subsection (b) if such arrangementswill not result in an improper deferral of United States tax and will not result in assets being effectively beyond the reach of creditors,
+&emsp;(3) exempting arrangements from the application of subsection (b) if such arrangements will not result in an improper deferral of United States tax and will not result in assets being effectively beyond the reach of creditors,
 
 &emsp;(4) defining financial health for purposes of subsection (b)(2), and
 
@@ -352,7 +352,7 @@ Pub. L. 108–357, title VIII, §885(e), Oct. 22, 2004, 118 Stat. 1640, provided
 
 #### Guidance Relating to Termination of Certain Existing Arrangements
 
-Pub. L. 108–357, title VIII, §885(f), Oct. 22, 2004, 118 Stat. 1641, as amended by Pub. L. 109–135, title IV,§403(hh)(4), Dec. 21, 2005, 119 Stat. 2632, provided that: "Not later than 60 days after the date of the enactment of this Act \[Oct. 22, 2004\], the Secretary of the Treasury shall issue guidance providing a limited period during which a nonqualified deferred compensation plan adopted before January 1, 2005, may, without violating the requirements of paragraphs (2), (3), and (4) of section 409A(a) of the Internal Revenue Code of 1986 (as added by this section), be amended—
+Pub. L. 108–357, title VIII, §885(f), Oct. 22, 2004, 118 Stat. 1641, as amended by Pub. L. 109–135, title IV, §403(hh)(4), Dec. 21, 2005, 119 Stat. 2632, provided that: "Not later than 60 days after the date of the enactment of this Act \[Oct. 22, 2004\], the Secretary of the Treasury shall issue guidance providing a limited period during which a nonqualified deferred compensation plan adopted before January 1, 2005, may, without violating the requirements of paragraphs (2), (3), and (4) of section 409A(a) of the Internal Revenue Code of 1986 (as added by this section), be amended—
 
 &emsp;"(1) to provide that a participant may terminate participation in the plan, or cancel an outstanding deferral election with regard to amounts deferred after December 31, 2004, but only if amounts subject to the termination or cancellation are includible in income of the participant as earned (or, if later, when no longer subject to substantial risk of forfeiture), and
 

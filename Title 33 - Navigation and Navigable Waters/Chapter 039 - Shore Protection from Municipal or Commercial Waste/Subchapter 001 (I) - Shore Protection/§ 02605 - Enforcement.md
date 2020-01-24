@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary of Transportation shall enforce this chapter under section 89 <sup>1</sup> of title 14. TheSecretary may authorize other officers or employees of the United States Government to enforce this chapter under that section.
+The Secretary of Transportation shall enforce this chapter under section 89 <sup>1</sup> of title 14. The Secretary may authorize other officers or employees of the United States Government to enforce this chapter under that section.
 
 #### (b) Periodic examinations
 

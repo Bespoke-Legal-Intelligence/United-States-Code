@@ -10,7 +10,7 @@ In this chapter (other than subchapter III):
 
 #### (A) In general
 
-&emsp;&emsp;The term "base acres", with respect to a covered commodity on a farm, means the number of acres established under section 7911 of this title as in effect on September 30, 2007, subject to any adjustment under section 8711 of this title.
+&emsp;&emsp;The term "base acres", with respect to a covered commodity on a farm, means the number of acres established under section 7911 of this title as in effect on September 30,2007, subject to any adjustment under section 8711 of this title.
 
 #### (B) Peanuts
 

@@ -30,7 +30,7 @@ Subsec. (c). Pub. L. 111–148 struck out subsec. (c), which authorized appropri
 
 #### Permanent Programs Under the Direct Care Program of the Indian Health Service
 
-Pub. L. 108–447, div. E, title II, Dec. 8, 2004, 118 Stat. 3087, provided in part that: "Notwithstanding any other provision of law, the Tulsa and Oklahoma City Clinicdemonstration projects shall be permanent programs under the direct care program of the Indian Health Service; shall be treated as service units and operating units in the allocation of resources and coordination of care; shall continue to meet the requirements applicable to an Urban Indian organization under this title \[title II of div. E of Pub. L. 108–447, see Tables for classification\]; and shall not be subject to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) \[now 25 U.S.C. 5301 et seq.\]."
+Pub. L. 108–447, div. E, title II, Dec. 8, 2004, 118 Stat. 3087, provided in part that: "Notwithstanding any other provision of law, the Tulsa and Oklahoma City Clinic demonstration projects shall be permanent programs under the direct care program of the Indian Health Service; shall be treated as service units and operating units in the allocation of resources and coordination of care; shall continue to meet the requirements applicable to an Urban Indian organization under this title \[title II of div. E of Pub. L. 108–447, see Tables for classification\]; and shall not be subject to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) \[now 25 U.S.C. 5301 et seq.\]."
 
 #### Extension of Terms of Projects
 

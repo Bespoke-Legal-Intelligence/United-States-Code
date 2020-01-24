@@ -26,7 +26,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (1) Reports
 
-&emsp;The Secretary of the Treasury shall be the trustee of the Agricultural Disaster ReliefTrust Fund and shall submit an annual report to Congress each year on the financial condition and the results of the operations of such Trust Fund during the preceding fiscal year and on its expected condition and operations during the 4 fiscal years succeeding such fiscal year. Such report shall be printed as a House document of the session of Congress to which the report is made.
+&emsp;The Secretary of the Treasury shall be the trustee of the Agricultural Disaster Relief Trust Fund and shall submit an annual report to Congress each year on the financial condition and the results of the operations of such Trust Fund during the preceding fiscal year and on its expected condition and operations during the 4 fiscal years succeeding such fiscal year. Such report shall be printed as a House document of the session of Congress to which the report is made.
 
 #### (2) Investment
 
@@ -48,7 +48,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (d) Expenditures from Trust Fund
 
-Amounts in the Agricultural Disaster Relief Trust Fund shall be available for the purposes of making expenditures to meet those obligations of the United States incurred under section 2497 of this title or section 1531 of title 7 (as such sections are in effect on the date of the enactment of the Food, Conservation, and Energy Act of 2008).
+Amounts in the Agricultural Disaster Relief Trust Fund shall be available for the purposes ofmaking expenditures to meet those obligations of the United States incurred under section 2497 of this title or section 1531 of title 7 (as such sections are in effect on the date of the enactment of the Food, Conservation, and Energy Act of 2008).
 
 #### (e) Authority to borrow
 

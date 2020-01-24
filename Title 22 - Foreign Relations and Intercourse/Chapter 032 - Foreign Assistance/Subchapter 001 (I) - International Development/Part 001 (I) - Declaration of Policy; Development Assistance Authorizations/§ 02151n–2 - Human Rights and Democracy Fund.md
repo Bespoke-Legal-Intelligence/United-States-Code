@@ -44,7 +44,7 @@ Section was enacted as part of the Freedom Investment Act of 2002, and also as p
 
 #### Purposes
 
-Pub. L. 107–228, div. A, title VI, §662, Sept. 30, 2002, 116 Stat. 1405, provided that: "The purposes of this subtitle \[subtitle E (§§661–665) of title VI of div. A of Pub. L. 107–228, see Short Title of 2002 Amendments note set out under section 2151 of this title\] are the following:
+Pub. L. 107–228, div. A, title VI, §662, Sept. 30, 2002, 116 Stat. 1405, provided that: "The purposes of this subtitle \[subtitle E (§§661–665) of title VI of div. A of Pub. L.107–228, see Short Title of 2002 Amendments note set out under section 2151 of this title\] are the following:
 
 &emsp;"(1) To underscore that promoting and protecting human rights is in the national interests of the United States and is consistent with American values and beliefs.
 

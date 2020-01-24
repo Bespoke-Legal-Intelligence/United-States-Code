@@ -22,7 +22,7 @@ The Secretary shall collect a special assessment from domestic utilities. The to
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to the Fund, for the period encompassing 15 years afterOctober 24, 1992, such sums as are necessary to ensure that the amount required under subsection (a) is deposited for each fiscal year.
+There are authorized to be appropriated to the Fund, for the period encompassing 15 years after October 24, 1992, such sums as are necessary to ensure that the amount required under subsection (a) is deposited for each fiscal year.
 
 #### (e) Termination of assessments
 

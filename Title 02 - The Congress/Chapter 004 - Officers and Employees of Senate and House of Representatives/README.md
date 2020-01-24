@@ -44,7 +44,9 @@
 | 61f–7 to 61g. | Transferred. |
 | 61g–1 to 61g–3. | Omitted. |
 | 61g–4 to 61g–8. | Transferred. |
-| 61h to 61h–3. | Omitted. |
+| 61h, 61h–1. | Omitted. |
+| 61h–2 | Repealed. |
+| 61h–3 | Omitted. |
 | 61h–4 to 61h–7. | Transferred. |
 | 61i to 61j–1. | Omitted. |
 | 61j–2 to 62. | Transferred. |
@@ -236,7 +238,8 @@
 - [&sect; 00061g&#8211;7 - Transferred](%C2%A7%2000061g%E2%80%937%20-%20Transferred.md)
 - [&sect; 00061g&#8211;8 - Transferred](%C2%A7%2000061g%E2%80%938%20-%20Transferred.md)
 - [&sect; 00061h, 61h&#8211;1 - Omitted](%C2%A7%2000061h%2C%2061h%E2%80%931%20-%20Omitted.md)
-- [&sect; 00061h&#8211;2, 61h&#8211;3 - Omitted](%C2%A7%2000061h%E2%80%932%2C%2061h%E2%80%933%20-%20Omitted.md)
+- [&sect; 00061h&#8211;2 - Repealed. Pub. L. 116&#8211;94, div. E, title II, &sect;212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775](%C2%A7%2000061h%E2%80%932%20-%20Repealed.%20Pub.%20L.%20116%E2%80%9394%2C%20div.%20E%2C%20title%20II%2C%20%C2%A7212%28a%29%283%29%28A%29%2C%20Dec.%2020%2C%202019%2C%20133%20Stat.%202775.md)
+- [&sect; 00061h&#8211;3 - Omitted](%C2%A7%2000061h%E2%80%933%20-%20Omitted.md)
 - [&sect; 00061h&#8211;4 - Transferred](%C2%A7%2000061h%E2%80%934%20-%20Transferred.md)
 - [&sect; 00061h&#8211;5 - Transferred](%C2%A7%2000061h%E2%80%935%20-%20Transferred.md)
 - [&sect; 00061h&#8211;6 - Transferred](%C2%A7%2000061h%E2%80%936%20-%20Transferred.md)

@@ -4,7 +4,7 @@
 
 #### (1) Terms of affidavit
 
-&emsp;No affidavit of support may be accepted by the Attorney General or by any consular officer to establish that an alien is not excludable as a public charge under section 1182(a)(4) ofthis title unless such affidavit is executed by a sponsor of the alien as a contract—
+&emsp;No affidavit of support may be accepted by the Attorney General or by any consular officer to establish that an alien is not excludable as a public charge under section 1182(a)(4) of this title unless such affidavit is executed by a sponsor of the alien as a contract—
 
 &emsp;&emsp;(A) in which the sponsor agrees to provide support to maintain the sponsored alien at an annual income that is not less than 125 percent of the Federal poverty line during the period in which the affidavit is enforceable;
 
@@ -68,7 +68,7 @@
 
 #### (c) Remedies
 
-Remedies available to enforce an affidavit of support under this section include any or all of the remedies described in section 3201, 3203, 3204, or 3205 of title 28, as well as an order for specific performance and payment of legal fees and other costs of collection, and include corresponding remedies available under State law. A Federal agency may seek to collect amounts owed under this section in accordance with the provisions of subchapter II of chapter 37 of title 31.
+Remedies available to enforce an affidavit of support under this section include any or all of the remedies described in section 3201, 3203, 3204, or 3205 of title 28, as well as an order for specific performance and payment of legal fees and other costs of collection, and include correspondingremedies available under State law. A Federal agency may seek to collect amounts owed under this section in accordance with the provisions of subchapter II of chapter 37 of title 31.
 
 #### (d) Notification of change of address
 
@@ -146,7 +146,7 @@ An action to enforce an affidavit of support executed under subsection (a) may b
 
 #### (i) Method of demonstration
 
-&emsp;&emsp;&emsp;For purposes of this section, a demonstration of the means to maintain income shall include provision of a certified copy of the individual's Federal income tax return for the individual's 3 most recent taxable years and a written statement, executed under oath or as permitted under penalty of perjury under section 1746 of title 28, that the copies are certified copies of such returns.
+&emsp;&emsp;&emsp;For purposes of this section, a demonstration of the means to maintain income shall include provision of a certified copy of the individual's Federal incometax return for the individual's 3 most recent taxable years and a written statement, executed under oath or as permitted under penalty of perjury under section 1746 of title 28, that the copies are certified copies of such returns.
 
 #### (ii) Flexibility
 
@@ -214,7 +214,7 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 Promulgation of form.—Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General, in consultation with the heads of other appropriate agencies, shall promulgate a standard form for an affidavit of support consistent with the provisions of section 213A of the Immigration and Nationality Act \[this section\], as amended by subsection (a)."
 
-Pub. L. 104–193, title IV, §423(c), Aug. 22, 1996, 110 Stat. 2273, provided that subsec. (a) of this section was applicable to affidavits of support executed on or aftera date specified by Attorney General, which date was to be not earlier than 60 days (and not later than 90 days) after date Attorney General formulated form for such affidavits under subsec. (b) of this section, prior to repeal by Pub. L. 104–208, div. C, title V, §551(b)(2), Sept. 30, 1996, 104 Stat. 3009–679.
+Pub. L. 104–193, title IV, §423(c), Aug. 22, 1996, 110 Stat. 2273, provided that subsec. (a) of this section was applicable to affidavits of support executed on or after a date specified by Attorney General, which date was to be not earlier than 60 days (and not later than 90 days) after date Attorney General formulated form for such affidavits under subsec. (b) of this section, prior to repeal by Pub. L. 104–208, div. C, title V, §551(b)(2), Sept. 30, 1996, 104 Stat. 3009–679.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

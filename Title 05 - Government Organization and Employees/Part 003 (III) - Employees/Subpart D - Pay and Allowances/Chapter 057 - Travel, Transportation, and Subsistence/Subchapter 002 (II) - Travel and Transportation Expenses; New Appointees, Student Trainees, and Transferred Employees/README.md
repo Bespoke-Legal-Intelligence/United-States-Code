@@ -10,7 +10,7 @@
 - [&sect; 05723 - Travel and transportation expenses of new appointees and student trainees](%C2%A7%2005723%20-%20Travel%20and%20transportation%20expenses%20of%20new%20appointees%20and%20student%20trainees.md)
 - [&sect; 05724 - Travel and transportation expenses of employees transferred; advancement of funds; reimbursement on commuted basis](%C2%A7%2005724%20-%20Travel%20and%20transportation%20expenses%20of%20employees%20transferred%3B%20advancement%20of%20funds%3B%20reimbursement%20on%20commuted%20basis.md)
 - [&sect; 05724a - Relocation expenses of employees transferred or reemployed](%C2%A7%2005724a%20-%20Relocation%20expenses%20of%20employees%20transferred%20or%20reemployed.md)
-- [&sect; 05724b - Taxes on reimbursements for travel, transportation, and relocation expenses of employees transferred](%C2%A7%2005724b%20-%20Taxes%20on%20reimbursements%20for%20travel%2C%20transportation%2C%20and%20relocation%20expenses%20of%20employees%20transferred.md)
+- [&sect; 05724b - Taxes on reimbursements for travel, transportation, and relocation expenses](%C2%A7%2005724b%20-%20Taxes%20on%20reimbursements%20for%20travel%2C%20transportation%2C%20and%20relocation%20expenses.md)
 - [&sect; 05724c - Relocation services](%C2%A7%2005724c%20-%20Relocation%20services.md)
 - [&sect; 05724d - Transportation and moving expenses for immediate family of certain deceased Federal employees](%C2%A7%2005724d%20-%20Transportation%20and%20moving%20expenses%20for%20immediate%20family%20of%20certain%20deceased%20Federal%20employees.md)
 - [&sect; 05725 - Transportation expenses; employees assigned to danger areas](%C2%A7%2005725%20-%20Transportation%20expenses%3B%20employees%20assigned%20to%20danger%20areas.md)

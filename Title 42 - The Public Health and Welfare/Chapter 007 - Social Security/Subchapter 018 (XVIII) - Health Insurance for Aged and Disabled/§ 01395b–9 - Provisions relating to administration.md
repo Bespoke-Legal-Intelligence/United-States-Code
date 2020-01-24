@@ -32,7 +32,7 @@
 
 #### (2) Eligibility
 
-&emsp;To be eligible for employment under paragraph (1) an individual shall be required tohave demonstrated, by their education and experience (either in the public or private sector), superior expertise in at least one of the following areas:
+&emsp;To be eligible for employment under paragraph (1) an individual shall be required to have demonstrated, by their education and experience (either in the public or private sector), superior expertise in at least one of the following areas:
 
 &emsp;&emsp;(A) The review, negotiation, and administration of health care contracts.
 

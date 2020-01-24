@@ -8,7 +8,7 @@
 
 &emsp;(3) upon the expiration of 30 days from the date of issuance of the mandate of the Supreme Court, if that Court directs that the decision of the Court of Appeals for Veterans Claims be affirmed or the appeal dismissed.
 
-(b)(1) If the Supreme Court directs that the decision of the Court of Appeals for Veterans Claims be modified or reversed, the decision of the Court of Appeals for Veterans Claims rendered in accordance with the mandate of the Supreme Court shall become final upon the expiration of 30 days from the time it was rendered, unless within such 30 days either the Secretary or the petitioner has instituted proceedings to have such decision corrected to accord with the mandate, in which event the decision of the Court of Appeals for Veterans Claims shall become final when so corrected.
+(b)(1) If the Supreme Court directs that the decision of the Court of Appeals for Veterans Claims be modified or reversed, the decision of the Court of Appeals for Veterans Claims rendered in accordance with the mandate of the Supreme Court shall become final upon the expiration of 30 days from the time it was rendered,unless within such 30 days either the Secretary or the petitioner has instituted proceedings to have such decision corrected to accord with the mandate, in which event the decision of the Court of Appeals for Veterans Claims shall become final when so corrected.
 
 (2) If the decision of the Court of Appeals for Veterans Claims is modified or reversed by the United States Court of Appeals for the Federal Circuit and if—
 

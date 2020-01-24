@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(B) resided in the United States.
 
-&emsp;(9)(A) The parent of a person described in subparagraph (B), if the Secretary determines that there is available space at the gravesite where the person described in subparagraph (B) is interred.
+&emsp;(9)(A) The parent of a person described in subparagraph (B), if the Secretary determinesthat there is available space at the gravesite where the person described in subparagraph (B) is interred.
 
 &emsp;(B) A person described in this subparagraph is a person described in paragraph (1) who—
 
@@ -60,7 +60,7 @@
 
 &emsp;(3) The term "training-related injury" means an injury incurred by a member of the Armed Forces while performing authorized training activities in preparation for a combat mission.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII,§701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, §331(a), title IV, §404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865; Pub. L. 108–183, title II, §212(b), title V, §502(a), Dec. 16, 2003, 117 Stat. 2658, 2667; Pub. L. 111–275, title V, §502(b), Oct. 13, 2010, 124 Stat. 2882; Pub. L. 115–141, div. J, title II, §251(a), Mar. 23, 2018, 132 Stat. 824; Pub. L. 115–407, title II, §202(b), Dec. 31, 2018, 132 Stat. 5373.)
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, §331(a), title IV, §404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865; Pub. L. 108–183, title II, §212(b), title V, §502(a), Dec. 16, 2003, 117 Stat. 2658, 2667; Pub. L. 111–275, title V, §502(b), Oct. 13, 2010, 124 Stat. 2882; Pub. L. 115–141, div. J, title II, §251(a), Mar. 23, 2018, 132 Stat. 824; Pub. L. 115–407, title II, §202(b), Dec. 31, 2018, 132 Stat. 5373.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 111–275 applicable with respect to the death, on or after
 
 #### Effective Date of 2003 Amendment
 
-Amendment by section 212(b) of Pub. L. 108–183 applicable with respect to deaths occurring on or after Dec. 16, 2003, see section 212(c) of Pub. L. 108–183, set out as a note under section 107 of this title.
+Amendment by section 212(b) of Pub. L. 108–183 applicable with respect to deaths occurring on or after Dec.16, 2003, see section 212(c) of Pub. L. 108–183, set out as a note under section 107 of this title.
 
 Pub. L. 108–183, title V, §502(b), Dec. 16, 2003, 117 Stat. 2667, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to deaths occurring on or after January 1, 2000."
 

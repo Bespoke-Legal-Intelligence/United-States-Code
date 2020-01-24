@@ -14,7 +14,7 @@
 
 (B) A majority of votes cast at a meeting at which a quorum is present shall determine a motion or election.
 
-(6) A member of the Board shall serve without compensation, but shall be reimbursed by the Board from assessments collected under section4809 of this title for reasonable expenses incurred in performing duties as a member of the Board.
+(6) A member of the Board shall serve without compensation, but shall be reimbursed by the Board from assessments collected under section 4809 of this title for reasonable expenses incurred in performing duties as a member of the Board.
 
 (b)(1) The Board shall—
 

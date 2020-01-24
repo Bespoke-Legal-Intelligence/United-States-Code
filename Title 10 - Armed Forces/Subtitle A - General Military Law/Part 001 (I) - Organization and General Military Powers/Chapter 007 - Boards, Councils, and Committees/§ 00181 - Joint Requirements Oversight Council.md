@@ -60,17 +60,19 @@ In general.—The following officials of the Department of Defense shall serve a
 
 &emsp;&emsp;(A) The Under Secretary of Defense for Policy.
 
-&emsp;&emsp;(B) The Under Secretary of Defense for Intelligence.
+&emsp;&emsp;(B) The Under Secretary of Defense for Intelligence and Security.
 
-&emsp;&emsp;(C) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+&emsp;&emsp;(C) The Under Secretary of Defense for Acquisition and Sustainment.
 
-&emsp;&emsp;(D) The Under Secretary of Defense (Comptroller).
+&emsp;&emsp;(D) the <sup>1</sup> Under Secretary of Defense for Research and Engineering.
 
-&emsp;&emsp;(E) The Director of Cost Assessment and Program Evaluation.
+&emsp;&emsp;(E) The Under Secretary of Defense (Comptroller).
 
-&emsp;&emsp;(F) The Director of Operational Test and Evaluation.
+&emsp;&emsp;(F) The Director of Cost Assessment and Program Evaluation.
 
-&emsp;&emsp;(G) The commander of a combatant command when matters related to the area of responsibility or functions of that command are under consideration by the Council.
+&emsp;&emsp;(G) The Director of Operational Test and Evaluation.
+
+&emsp;&emsp;(H) The commander of a combatant command when matters related to the area of responsibility or functions of that command are under consideration by the Council.
 
 &emsp;(2)
 
@@ -98,15 +100,21 @@ Definitions.—In this section:
 
 &emsp;(1) The term "joint military capabilities" means the collective capabilities across the joint force, including both joint and force-specific capabilities, that are available to conduct military operations.
 
-&emsp;(2) The term "performance requirement" means a performance attribute of a particular system considered critical or essential to thedevelopment of an effective military capability.
+&emsp;(2) The term "performance requirement" means a performance attribute of a particular system considered critical or essential to the development of an effective military capability.
 
 &emsp;(3) The term "joint performance requirement" means a performance requirement that is critical or essential to ensure interoperability or fulfill a capability gap of more than one armed force, Defense Agency, or other entity of the Department of Defense, or impacts the joint force in other ways such as logistics.
 
 &emsp;(4) The term "oversight information" means information and materials comprising analysis and justification that are prepared to support a recommendation that is made to, and approved by, the Secretary of Defense.
 
-(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §§101(d)(1), 105(a), title II, §201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, §841, title X, §1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369; Pub. L. 112–239, div. A, title IX, §951(b), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(d)(1), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title IX, §925(a), Dec. 23, 2016, 130 Stat. 2359; Pub. L. 115–91, div. A, title X, §1081(a)(15), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, §831(b)(1), Aug. 13, 2018, 132 Stat. 1857.)
+(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §§101(d)(1), 105(a), title II, §201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, §841, title X, §1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369; Pub. L. 112–239, div. A, title IX, §951(b), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(d)(1), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title IX, §925(a), Dec. 23, 2016, 130 Stat. 2359; Pub. L. 115–91, div. A, title X, §1081(a)(15), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, §831(b)(1), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title IX, §902(7), title XVI, §1621(e)(1)(A)(v), Dec. 20, 2019, 133 Stat. 1543, 1733.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (d)(1)(B). Pub. L. 116–92, §1621(e)(1)(A)(v), substituted "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence".
+
+Subsec. (d)(1)(C). Pub. L. 116–92, §902(7)(A), substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
+Subsec. (d)(1)(D) to (H). Pub. L. 116–92, §902(7)(B), (C), added subpar. (D) and redesignated former subpars. (D) to (G) as (E) to (H), respectively.
 
 <b>2018</b>—Subsec. (b)(3) to (7). Pub. L. 115–232 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which related to development of recommendations for program cost and fielding targets pursuant to section 2448a of this title.
 
@@ -174,7 +182,7 @@ Pub. L. 104–106, div. A, title IX, §905(b), Feb. 10, 1996, 110 Stat. 404, pro
 
 #### Input From Commanders of Combatant Commands
 
-Pub. L. 111–23, title I, §105(b), May 22, 2009, 123 Stat. 1718, provided that: "The Joint Requirements Oversight Council in the Department of Defense shall seek and consider input from the commanders of combatant commands, in accordance with section 181(d) of title 10,United States Code (as amended by subsection (a)). Such input may include, but is not limited to, an assessment of the following:
+Pub. L. 111–23, title I, §105(b), May 22, 2009, 123 Stat. 1718, provided that: "The Joint Requirements Oversight Council in the Department of Defense shall seek and consider input from the commanders of combatant commands, in accordance with section 181(d) of title 10, United States Code (as amended by subsection (a)). Such input may include, but is not limited to, an assessment of the following:
 
 &emsp;"(1) Any current or projected missions or threats in the theater of operations of the commander of a combatant command that would inform the assessment of a new joint military requirement.
 
@@ -209,4 +217,6 @@ Pub. L. 110–181, div. A, title IX, §942(f), Jan. 28, 2008, 122 Stat. 288, pro
 #### Reports on Joint Requirements Oversight Council Reform Initiative
 
 Pub. L. 106–398, §1 \[\[div. A\], title IX, §916\], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, as amended by Pub. L. 107–107, div. A, title IX, §923, Dec. 28, 2001, 115 Stat. 1199, directed the Chairman of the Joints Chiefs of Staff to submit reports to committees of Congress not later than Mar. 1, 2001, Sept. 1, 2001, Mar. 1, 2002, and Mar. 1, 2003, on the progress made on the initiative of the Chairman to reform and refocus the Joint Requirements Oversight Council.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

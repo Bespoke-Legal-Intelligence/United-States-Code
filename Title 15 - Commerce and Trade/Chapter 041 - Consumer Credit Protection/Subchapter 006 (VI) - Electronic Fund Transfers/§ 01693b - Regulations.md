@@ -50,7 +50,7 @@ Regulations prescribed hereunder may contain such classifications, differentiati
 
 #### (B) Exemption generally
 
-&emsp;&emsp;The disclosures, protections, responsibilities, and remedies established under thissubchapter, and any regulation prescribed or order issued by the Bureau in accordance with this subchapter, shall not apply to any electronic benefit transfer system established under State or local law or administered by a State or local government.
+&emsp;&emsp;The disclosures, protections, responsibilities, and remedies established under this subchapter, and any regulation prescribed or order issued by the Bureau in accordance with this subchapter, shall not apply to any electronic benefit transfer system established under State or local law or administered by a State or local government.
 
 #### (C) Exception for direct deposit into recipient's account
 
@@ -136,7 +136,7 @@ On the screen.—The notice required under clauses (i) and (ii)"
 
 <b>2010</b>—Pub. L. 111–203, §1084(1), substituted "Bureau" for "Board" wherever appearing in subsecs. (b) to (d).
 
-Subsec. (a). Pub. L. 111–203, §1084(3)(A), substituted "Prescription by the Bureau and the Board" for "Prescription by Board" in heading that had been suppliededitorially and substituted initial pars. (1) and (2), relating to the Bureau's prescription of rules and authority of the Board, for first sentence of former introductory provisions which read as follows: "The Board shall prescribe regulations to carry out the purposes of this subchapter." Second sentence of former introductory provisions was redesignated as concluding provisions of par. (2) to reflect the probable intent of Congress.
+Subsec. (a). Pub. L. 111–203, §1084(3)(A), substituted "Prescription by the Bureau and the Board" for "Prescription by Board" in heading that had been supplied editorially and substituted initial pars. (1) and (2), relating to the Bureau's prescription of rules and authority of the Board, for first sentence of former introductory provisions which read as follows: "The Board shall prescribe regulations to carry out the purposes of this subchapter." Second sentence of former introductory provisions was redesignated as concluding provisions of par. (2) to reflect the probable intent of Congress.
 
 Subsec. (c). Pub. L. 111–203, §1073(a)(2), inserted "or remittance transfers" after "electronic fund transfers".
 
@@ -144,7 +144,7 @@ Subsec. (e). Pub. L. 111–203, §1084(3)(B), added subsec. (e).
 
 <b>1999</b>—Subsec. (d)(3). Pub. L. 106–102 added par. (3).
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–193, §907, which directed the amendment of subsec. (d), was not executed because of similar amendment by Pub. L. 104–193, §891. See below. Section 907 of Pub. L. 104–193 provided that subsec. (d) was to be amended by inserting subsec. (d) heading, by designating existing provisions as par. (1) and inserting heading, and by adding a new par. (2) reading as follows:
+<b>1996</b>—Subsec. (d). Pub. L. 104–193, §907, which directed the amendment of subsec. (d), was not executed because of similar amendment by Pub. L. 104–193, §891. See below. Section 907 of Pub. L. 104–193 provided that subsec. (d) was to be amended by inserting subsec. (d)heading, by designating existing provisions as par. (1) and inserting heading, and by adding a new par. (2) reading as follows:
 
 "(2)
 

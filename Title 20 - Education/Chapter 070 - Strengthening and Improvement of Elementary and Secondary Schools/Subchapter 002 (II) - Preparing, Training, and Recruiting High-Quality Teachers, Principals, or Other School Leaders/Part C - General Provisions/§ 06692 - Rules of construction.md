@@ -38,7 +38,7 @@ Section 6711, Pub. L. 89–10, title II, §2341, as added Pub. L. 107–110, tit
 
 Section 6712, Pub. L. 89–10, title II, §2342, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1662, set forth purpose of subpart 3 of part C of former subchapter II of this chapter.
 
-Section 6713, Pub. L. 89–10, title II, §2343, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1662, related to authority to award grants or enter into contracts.
+Section 6713, Pub. L. 89–10, title II, §2343, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1662,related to authority to award grants or enter into contracts.
 
 Section 6714, Pub. L. 89–10, title II, §2344, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1663, related to We the People program.
 

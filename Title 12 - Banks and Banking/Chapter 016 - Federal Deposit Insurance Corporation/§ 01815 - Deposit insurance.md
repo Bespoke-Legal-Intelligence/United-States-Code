@@ -48,11 +48,11 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (c) Protection to Deposit Insurance Fund; surety bond, pledge of assets, etc.; injunction
 
-(1) Before any branch of a foreign bank becomes an insured branch, the bank shall deliver to the Corporation or as the Corporation may direct a surety bond, a pledge of assets, or both, in such amounts and of such types as the Corporation may require or approve, for the purpose set forth in paragraph (4) of this subsection.
+(1) Before any branch of a foreign bank becomes an insured branch, the bank shall deliverto the Corporation or as the Corporation may direct a surety bond, a pledge of assets, or both, in such amounts and of such types as the Corporation may require or approve, for the purpose set forth in paragraph (4) of this subsection.
 
 (2) After any branch of a foreign bank becomes an insured branch, the bank shall maintain on deposit with the Corporation, or as the Corporation may direct, surety bonds or assets or both, in such amounts and of such types as shall be determined from time to time in accordance with such regulations as the Board of Directors may prescribe. Such regulations may impose differing requirements on the basis of any factors which in the judgment of the Board of Directors are reasonably related to the purpose set forth in paragraph (4).
 
-(3) The Corporation may require of any given bank larger deposits of bonds and assets than required under paragraph (2) of this subsection if, in the judgment of the Corporation, the situation of that bank or any branch thereof is or becomes such that the deposits of bonds and assets otherwise required under this section would not adequately fulfill the purpose set forth in paragraph (4). The imposition of any such additionalrequirements may be without notice or opportunity for hearing, but the Corporation shall afford an opportunity to any such bank to apply for a reduction or removal of any such additional requirements so imposed.
+(3) The Corporation may require of any given bank larger deposits of bonds and assets than required under paragraph (2) of this subsection if, in the judgment of the Corporation, the situation of that bank or any branch thereof is or becomes such that the deposits of bonds and assets otherwise required under this section would not adequately fulfill the purpose set forth in paragraph (4). The imposition of any such additional requirements may be without notice or opportunity for hearing, but the Corporation shall afford an opportunity to any such bank to apply for a reduction or removal of any such additional requirements so imposed.
 
 (4) The purpose of the surety bonds and pledges of assets required under this subsection is to provide protection to the Deposit Insurance Fund against the risks entailed in insuring the domestic deposits of a foreign bank whose activities, assets, and personnel are in large part outside the jurisdiction of the United States. In the implementation of its authority under this subsection, however, the Corporation shall endeavor to avoid imposing requirements on such banks which would unnecessarily place them at a competitive disadvantage in relation to domestically incorporated banks.
 
@@ -106,7 +106,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (B) Procedures; immediate payment
 
-&emsp;&emsp;The Corporation, after consultation with the appropriate Federal banking agency and the appropriate State chartering agency, shall—
+&emsp;&emsp;The Corporation, after consultation with the appropriate Federal banking agency andthe appropriate State chartering agency, shall—
 
 &emsp;&emsp;&emsp;(i) on a case-by-case basis, establish the procedures and schedule under which any insured depository institution shall reimburse the Corporation for such institution's liability under paragraph (1) in connection with any commonly controlled insured depository institution; or
 
@@ -184,7 +184,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Corporation may, in its discretion, exempt any limited partnership and any affiliate of any limited partnership (other than any insured depository institution which is a majority owned subsidiary of such partnership) from the provisions of this subsection if such limited partnership or affiliate has filed a registration statement with the Securities and Exchange Commission on or before April 10, 1989, indicating that as of the date of such filing such partnership intended to acquire 1 or more insured depository institutions.
+&emsp;&emsp;&emsp;The Corporation may, in its discretion, exempt any limited partnership and any affiliate of any limited partnership (other than any insured depository institution which is a majority owned subsidiary of such partnership) from the provisions ofthis subsection if such limited partnership or affiliate has filed a registration statement with the Securities and Exchange Commission on or before April 10, 1989, indicating that as of the date of such filing such partnership intended to acquire 1 or more insured depository institutions.
 
 #### (ii) Review and notice
 
@@ -246,7 +246,7 @@ Subsec. (e)(5)(A). Pub. L. 109–173, §8(a)(6)(A), substituted "Deposit Insuran
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(E)(i). See 1996 Amendment note below.
 
-Subsec. (e)(6) to (9). Pub. L. 109–173, §8(a)(6)(B), (C), redesignated pars. (7) to (9) as (6) to (8), respectively, and struck out heading and text of former par. (6). Text read as follows: "During the 5-year period beginning on August 9, 1989—
+Subsec. (e)(6) to (9). Pub. L. 109–173, §8(a)(6)(B), (C), redesignated pars. (7) to (9) as (6) to (8), respectively,and struck out heading and text of former par. (6). Text read as follows: "During the 5-year period beginning on August 9, 1989—
 
 &emsp;"(A) no Savings Association Insurance Fund member shall have any liability to the Corporation under this subsection arising out of assistance provided by the Corporation or any loss incurred by the Corporation as a result of the default of a Bank Insurance Fund member which was acquired by such Savings Association Insurance Fund member or any affiliate of such member before August 9, 1989; and
 
@@ -306,7 +306,7 @@ Subsec. (a). Pub. L. 102–242, §115(a), added subsec. (a) consisting of pars. 
 
 Subsec. (d)(3). Pub. L. 102–242, §501(a), amended par. (3) generally, substituting present provisions consisting of subpars. (A) to (J) for provisions related to optional conversion through merger, which consisted of subpars. (A) to (G).
 
-Subsec. (d)(3)(B)(i). Pub. L. 102–242, §302(e)(1), as amended by Pub. L. 102–558, §303(b)(6)(B), substituted "deposits" for "average assessment base" and "shall be treated as deposits which are insured by the Savings Association Insurance Fund." for "shall—
+Subsec. (d)(3)(B)(i). Pub. L. 102–242, §302(e)(1), as amended by Pub. L. 102–558, §303(b)(6)(B), substituted "deposits" for "average assessment base" and "shall betreated as deposits which are insured by the Savings Association Insurance Fund." for "shall—
 
 &emsp;"(I) be subject to assessment at the assessment rate applicable under section 1817 of this title for Savings Association Insurance Fund members;
 
@@ -324,7 +324,7 @@ Subsec. (d)(3)(B)(ii). Pub. L. 102–242, §302(e)(2), as added by Pub. L. 102�
 
 <b>1989</b>—Pub. L. 101–73, §201(a), substituted references to insured depository institutions for references to insured banks wherever appearing.
 
-Subsec. (a). Pub. L. 101–73, §206(a)(1)–(4), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, and substituted "Any" for"Subject to the provisions of this chapter, any", inserted "and State savings association" after "any State nonmember bank" and after "such State nonmember bank", "or savings association" after "such bank", and "or savings association, and in the case of an application by a State savings association, the Corporation shall notify the Director of the Office of Thrift Supervision of the Corporation's approval of such application" after "books of the bank", and added pars. (2) to (7).
+Subsec. (a). Pub. L. 101–73, §206(a)(1)–(4), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, and substituted "Any" for "Subject to the provisions of this chapter, any", inserted "and State savings association" after "any State nonmember bank" and after "such State nonmember bank", "or savings association" after "such bank", and "or savings association, and in the case of an application by a State savings association, the Corporation shall notify the Director of the Office of Thrift Supervision of the Corporation's approval of such application" after "books of the bank", and added pars. (2) to (7).
 
 Subsec. (b)(4). Pub. L. 101–73, §206(a)(5), inserted "and fitness" after "character".
 
@@ -394,7 +394,7 @@ Pub. L. 101–73, title II, §206(b), Aug. 9, 1989, 103 Stat. 205, provided that
 
 #### Definition of "Commercial Firm"
 
-Pub. L. 111–203, title VI, §602, July 21, 2010, 124 Stat. 1596, provided that: "For purposes of this title \[see Short Title note set out under section 1811 of this title\], a company is a 'commercial firm' if the annual gross revenues derived by the company and all of its affiliates from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))) and, if applicable, fromthe ownership or control of one or more insured depository institutions, represent less than 15 percent of the consolidated annual gross revenues of the company."
+Pub. L. 111–203, title VI, §602, July 21, 2010, 124 Stat. 1596, provided that: "For purposes of this title \[see Short Title note set out under section 1811 of this title\], a company is a 'commercial firm' if the annual gross revenues derived by the company and all of its affiliates from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))) and, if applicable, from the ownership or control of one or more insured depository institutions, represent less than 15 percent of the consolidated annual gross revenues of the company."
 
 \[For definitions of terms used in section 602 of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 

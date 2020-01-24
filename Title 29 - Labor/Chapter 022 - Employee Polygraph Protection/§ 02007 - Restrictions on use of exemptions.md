@@ -94,7 +94,7 @@ The exemptions provided under subsections (d), (e), and (f) of section 2006 of t
 
 &emsp;The examiner—
 
-&emsp;&emsp;(A) has a valid and current license granted by licensing and regulatory authorities inthe State in which the test is to be conducted, if so required by the State; and
+&emsp;&emsp;(A) has a valid and current license granted by licensing and regulatory authorities in the State in which the test is to be conducted, if so required by the State; and
 
 &emsp;&emsp;(B) maintains a minimum of a $50,000 bond or an equivalent amount of professional liability coverage.
 

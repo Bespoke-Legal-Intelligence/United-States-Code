@@ -1,6 +1,6 @@
 ### §428p–2. Administration of Fort Donelson National Battlefield
 
-The Secretary of the Interior shall administer the Fort Donelson National Battlefield in accordance with sections 428p to 428p–2 of this title and the laws generally applicable to units of the National Park System, including the Act of August 25, 1916 (commonly known as the National Park Service Organic Act; 16 U.S.C. 1 et seq.),<sup>1</sup>and the Act of August 21, 1935 (commonly known as the Historic Sites, Buildings, and Antiquities Act; 16 U.S.C. 461 et seq.).<sup>1</sup>
+The Secretary of the Interior shall administer the Fort Donelson National Battlefield in accordance with sections 428p to 428p–2 of this title and the laws generally applicable to units of the National Park System, including the Act of August 25, 1916 (commonly known as the National Park Service Organic Act; 16 U.S.C. 1 et seq.),<sup>1</sup> and the Act of August 21, 1935 (commonly known as the Historic Sites, Buildings, and Antiquities Act; 16 U.S.C. 461 et seq.).<sup>1</sup>
 
 (Pub. L. 108–367, §4, Oct. 25, 2004, 118 Stat. 1744.)
 

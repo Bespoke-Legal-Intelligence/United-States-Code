@@ -24,7 +24,7 @@ Conditions for Transfer.—The Secretary of Defense may transfer personal proper
 
 &emsp;(5) the recipient, on an annual basis, and with the authorization of the relevant local governing body or authority, certifies that it has adopted publicly available protocols for the appropriate use of controlled property, the supervision of such use, and the evaluation of the effectiveness of such use, including auditing and accountability policies; and
 
-&emsp;(6) after the completion of the assessment required by section 1051(e) of the National Defense Authorization Act for Fiscal Year 2016, the recipient, on an annual basis, certifies that it provides annual training to relevant personnel on the maintenance, sustainment, and appropriate use of controlled property.
+&emsp;(6) after the completion of the assessment required by section 1051(e) of the National Defense Authorization Act for Fiscal Year 2016, the recipient, on an annual basis, certifiesthat it provides annual training to relevant personnel on the maintenance, sustainment, and appropriate use of controlled property.
 
 (c)
 
@@ -32,7 +32,7 @@ Consideration.—Subject to subsection (b)(4), the Secretary may transfer person
 
 (d)
 
-Preference for Certain Transfers.—In considering applications for the transfer of personal property under this section, the Secretary shall give a preference to those applications indicating that the transferred property will beused in the counterdrug, counterterrorism, or border security activities of the recipient agency.
+Preference for Certain Transfers.—In considering applications for the transfer of personal property under this section, the Secretary shall give a preference to those applications indicating that the transferred property will be used in the counterdrug, counterterrorism, or border security activities of the recipient agency.
 
 (e)
 

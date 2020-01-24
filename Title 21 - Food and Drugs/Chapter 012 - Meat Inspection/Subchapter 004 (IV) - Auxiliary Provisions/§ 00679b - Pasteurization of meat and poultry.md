@@ -2,7 +2,7 @@
 
 #### (1) In general
 
-Effective beginning not later than 30 days after May 13, 2002, the Secretary of Agricultureshall conduct an education program regarding the availability and safety of processes and treatments that eliminate or substantially reduce the level of pathogens on meat, meat food products, poultry, and poultry products.
+Effective beginning not later than 30 days after May 13, 2002, the Secretary of Agriculture shall conduct an education program regarding the availability and safety of processes and treatments that eliminate or substantially reduce the level of pathogens on meat, meat food products, poultry, and poultry products.
 
 #### (2) Authorization of appropriations
 

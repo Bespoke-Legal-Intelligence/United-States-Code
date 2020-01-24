@@ -224,7 +224,7 @@ The Secretary shall carry out this section to encourage and assist socially disa
 
 #### (A) In general
 
-&emsp;&emsp;To be eligible to receive a grant or enter into a cooperative agreement under this subsection, the recipient of the grant or participant in the cooperative agreement shall be acollaborative State, Tribal, local, or regionally-based network or partnership of public or private entities.
+&emsp;&emsp;To be eligible to receive a grant or enter into a cooperative agreement under this subsection, the recipient of the grant or participant in the cooperative agreement shall be a collaborative State, Tribal, local, or regionally-based network or partnership of public or private entities.
 
 #### (B) Inclusions
 
@@ -328,7 +328,7 @@ The Secretary shall carry out this section to encourage and assist socially disa
 
 #### (B) Curriculum
 
-&emsp;&emsp;In promoting the development of curricula, educational programs and workshops, or training and technical assistance initiatives under subparagraph (A), the Secretary shall, to the maximum extent practicable, include content tailored to specific audiences of beginning farmers and ranchers, based on crop diversity or regional diversity.
+&emsp;&emsp;In promoting the development of curricula, educational programs and workshops, ortraining and technical assistance initiatives under subparagraph (A), the Secretary shall, to the maximum extent practicable, include content tailored to specific audiences of beginning farmers and ranchers, based on crop diversity or regional diversity.
 
 #### (C) Composition
 

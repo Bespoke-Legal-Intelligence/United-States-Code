@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purposes of voting for any Federal office (as defined in section 30101 of title 52) or a State or local office, a person who is absent from a State in compliance with military or naval orders shall not, solely by reason of that absence—
+For the purposes of voting for any Federal office (as defined in section 30101 of title 52) or a State or local office, a person who is absent from a State in compliance with military ornaval orders shall not, solely by reason of that absence—
 
 &emsp;(1) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;
 
@@ -12,31 +12,19 @@ For the purposes of voting for any Federal office (as defined in section 30101 o
 
 #### (b) Spouses
 
-For the purposes of voting for any Federal office (as defined in section 30101 of title 52) or a State or local office, a person who is absent from a State because the person is accompanying the person's spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—
+For the purposes of voting for any Federal office (as defined in section 30101 of title 52) or a State or local office—
 
-&emsp;(1) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;
+&emsp;(1) a person who is absent from a State because the person is accompanying the person's spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—
 
-&emsp;(2) be deemed to have acquired a residence or domicile in any other State; or
+&emsp;&emsp;(A) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;
 
-&emsp;(3) be deemed to have become a resident in or a resident of any other State.
+&emsp;&emsp;(B) be deemed to have acquired a residence or domicile in any other State; or
+
+&emsp;&emsp;(C) be deemed to have become a resident in or a resident of any other State; and
+
+&emsp;(2) the spouse of a servicemember may elect to use the same residence as the servicemember regardless of the date on which the marriage of the spouse and the servicemember occurred.
 
 (Oct. 17, 1940, ch. 888, title VII, §705, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2865; amended Pub. L. 111–97, §2(a), Nov. 11, 2009, 123 Stat. 3007; Pub. L. 115–407, title III, §303(a), Dec. 31, 2018, 132 Stat. 5373.)
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 115–407, title III, §303, Dec. 31, 2018, 132 Stat. 5373, provided that, effective on the date that is 90 days after December 31, 2018, subsection (b) of this section is amended by substituting "State or local office—" for "State or local office, a person who is absent from a State because the person is accompanying the person's spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—" in introductory provisions, striking paragraphs (1) to (3), and inserting the following new paragraphs:</i>
-
-&emsp;<i>(1) a person who is absent from a State because the person is accompanying the person's spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—</i>
-
-&emsp;&emsp;<i>(A) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;</i>
-
-&emsp;&emsp;<i>(B) be deemed to have acquired a residence or domicile in any other State; or</i>
-
-&emsp;&emsp;<i>(C) be deemed to have become a resident in or a resident of any other State; and</i>
-
-&emsp;<i>(2) the spouse of a servicemember may elect to use the same residence as the servicemember regardless of the date on which the marriage of the spouse and the servicemember occurred.</i>
-
-<i>See 2018 Amendment note below.</i>
 
 #### Codification
 

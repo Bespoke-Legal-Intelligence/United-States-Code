@@ -60,7 +60,7 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 #### (4) Amount excluded to be not less than veterans' disability compensation
 
-&emsp;In the case of any individual described in paragraph (2), the amounts excludable undersubsection (a)(4) for any period with respect to any individual shall not be less than the maximum amount which such individual, on application therefor, would be entitled to receive as disability compensation from the Veterans' Administration.
+&emsp;In the case of any individual described in paragraph (2), the amounts excludable under subsection (a)(4) for any period with respect to any individual shall not be less than the maximum amount which such individual, on application therefor, would be entitled to receive as disability compensation from the Veterans' Administration.
 
 #### (c) Application of prior law in certain cases
 
@@ -120,13 +120,13 @@ Subsecs. (b), (c). Pub. L. 94–455, §505(b), added subsec. (b), redesignated f
 
 #### Change of Name
 
-Reference to Veterans' Administration deemed to refer to Department of Veterans Affairs pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
+Reference to Veterans' Administration deemed to refer to Department of Veterans Affairs pursuant tosection 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
 
 Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 FR 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 FR 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 FR 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes under section 311 of Title 15, Commerce and Trade.
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–134, title I, §113(c), Jan. 23, 2002, 115 Stat. 2435, provided that: "The amendments made by thissection \[amending this section and section 692 of this title\] shall apply to taxable years ending on or after September 11, 2001."
+Pub. L. 107–134, title I, §113(c), Jan. 23, 2002, 115 Stat. 2435, provided that: "The amendments made by this section \[amending this section and section 692 of this title\] shall apply to taxable years ending on or after September 11, 2001."
 
 #### Effective Date of 1996 Amendment
 

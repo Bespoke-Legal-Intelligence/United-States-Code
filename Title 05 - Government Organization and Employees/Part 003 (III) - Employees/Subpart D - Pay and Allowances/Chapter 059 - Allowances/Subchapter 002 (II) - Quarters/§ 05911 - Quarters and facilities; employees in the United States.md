@@ -100,7 +100,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L. 99–145, formerly set out in aMilitary Family Policy and Programs note under section 113 of Title 10, Armed Forces.
+Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L. 99–145, formerly set out in a Military Family Policy and Programs note under section 113 of Title 10, Armed Forces.
 
 #### Delegation of Functions
 
@@ -108,7 +108,7 @@ Authority of President under subsec. (f) of this section to issue regulations pr
 
 #### Pilot Program To Establish Government Lodging Program
 
-Pub. L. 113–291, div. A, title IX, §914, Dec. 19, 2014, 128 Stat. 3474, as amended by Pub. L. 115–91, div. A, title X, §1051(t)(2), Dec. 12, 2017, 131 Stat. 1566, provided that:
+Pub. L. 113–291, div. A, title IX, §914, Dec. 19, 2014, 128 Stat. 3474, as amended by Pub. L. 115–91, div. A, title X, §1051(t)(2), Dec. 12, 2017, 131 Stat. 1566; Pub. L. 116–92, div. A, title VI, §642, Dec. 20, 2019, 133 Stat. 1431, provided that:
 
 "(a)
 
@@ -116,7 +116,7 @@ Authority.—Notwithstanding the provisions of section 5911 of title 5, United S
 
 "(b)
 
-Program Duration.—The authority to establish and execute a Government lodging program under this section expires on December 31, 2019.
+Program Duration.—The authority to establish and execute a Government lodging program under this section expires on December 31, 2020.
 
 "(c)
 

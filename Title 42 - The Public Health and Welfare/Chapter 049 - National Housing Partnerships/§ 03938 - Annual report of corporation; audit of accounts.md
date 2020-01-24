@@ -4,7 +4,7 @@
 
 (2) The report shall contain a description of the activities undertaken under section 3936(a)(4) of this title, and shall specify, as a percentage of equity and in dollars, the extent of the corporation's and the partnership's investment in housing for the benefit of families and individuals of low or moderate income, the extent of the corporation's and the partnership's investment in other housing, and the extent of the corporation's and the partnership's activities which are undertaken under section 3936(a)(4) of this title.
 
-(b) The accounts of the corporation and of the partnership shall be audited annually in accordance with generally accepted auditing standardsby independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States.
+(b) The accounts of the corporation and of the partnership shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States.
 
 (Pub. L. 90–448, title IX, §908, Aug. 1, 1968, 82 Stat. 550; Pub. L. 98–479, title I, §104(c)(3), Oct. 17, 1984, 98 Stat. 2225.)
 

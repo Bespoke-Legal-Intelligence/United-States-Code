@@ -28,7 +28,7 @@ When so provided by regulations promulgated by the Secretary in connection with 
 
 #### References in Text
 
-Section 1271(c), referred to in subsec. (b)(1), was repealed and section 1271(d) was redesignated section1271(c) by Pub. L. 115–141, div. U, title IV, §401(c)(1)(A)(i), Mar. 23, 2018, 132 Stat. 1205.
+Section 1271(c), referred to in subsec. (b)(1), was repealed and section 1271(d) redesignated section 1271(c) by Pub. L. 115–141, div. U, title IV, §401(c)(1)(A)(i), Mar. 23, 2018, 132 Stat. 1205.
 
 #### Amendments
 

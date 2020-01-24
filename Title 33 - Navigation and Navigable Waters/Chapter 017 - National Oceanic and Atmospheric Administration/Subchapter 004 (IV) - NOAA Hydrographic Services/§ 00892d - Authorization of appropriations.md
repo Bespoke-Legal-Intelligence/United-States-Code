@@ -4,7 +4,7 @@
 
 There are authorized to be appropriated to the Administrator the following:
 
-&emsp;(1) To carry out nautical mapping and charting functions under sections 892b and 892c ofthis title, except for conducting hydrographic surveys, $70,814,000 for each of fiscal years 2019 through 2023.
+&emsp;(1) To carry out nautical mapping and charting functions under sections 892b and 892c of this title, except for conducting hydrographic surveys, $70,814,000 for each of fiscal years 2019 through 2023.
 
 &emsp;(2) To contract for hydrographic surveys under section 892b(b)(1) of this title, including the leasing or time chartering of vessels, $25,000,000 for each of fiscal years 2019 through 2023.
 
@@ -12,7 +12,7 @@ There are authorized to be appropriated to the Administrator the following:
 
 &emsp;(4) To carry out geodetic functions under this subchapter, $26,800,000 for each of fiscal years 2019 through 2023.
 
-&emsp;(5) To carry out tide and current measurement functions under this subchapter, $30,564,000 for each of fiscal years 2019 through 2023.
+&emsp;(5) To carry out tide and current measurement functions under this subchapter,$30,564,000 for each of fiscal years 2019 through 2023.
 
 &emsp;(6) To acquire a replacement hydrographic survey vessel capable of staying at sea continuously for at least 30 days $75,000,000.
 

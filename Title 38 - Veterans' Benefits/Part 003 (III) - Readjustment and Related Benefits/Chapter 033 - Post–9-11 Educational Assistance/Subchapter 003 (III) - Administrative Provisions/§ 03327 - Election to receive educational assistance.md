@@ -68,7 +68,7 @@ Educational Assistance Program.—
 
 &emsp;(1)
 
-In general.—In the event educational assistance to which an individual making anelection under subsection (a) would be entitled under chapter 30 of this title, or chapter 107, 1606, or 1607 of title 10, as applicable, is not authorized to be available to the individual under the provisions of this chapter, the individual shall remain entitled to such educational assistance in accordance with the provisions of the applicable chapter.
+In general.—In the event educational assistance to which an individual making an election under subsection (a) would be entitled under chapter 30 of this title, or chapter 107, 1606, or 1607 of title 10, as applicable, is not authorized to be available to the individual under the provisions of this chapter, the individual shall remain entitled to such educational assistance in accordance with the provisions of the applicable chapter.
 
 &emsp;(2)
 

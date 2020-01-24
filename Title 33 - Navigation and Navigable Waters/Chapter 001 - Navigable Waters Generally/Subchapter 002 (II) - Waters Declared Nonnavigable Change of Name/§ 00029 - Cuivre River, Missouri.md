@@ -1,6 +1,6 @@
 ### §29. Cuivre River, Missouri
 
-Cuivre River, in the counties of Lincoln and Saint Charles, in the State of Missouri, being the dividing line, is declared not to be a navigable stream, and shall be so treated by the Secretary of the Army and all other authorities.
+Cuivre River, in the counties of Lincoln and Saint Charles, in the State of Missouri, beingthe dividing line, is declared not to be a navigable stream, and shall be so treated by the Secretary of the Army and all other authorities.
 
 (Mar. 23, 1900, ch. 88, 31 Stat. 50; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

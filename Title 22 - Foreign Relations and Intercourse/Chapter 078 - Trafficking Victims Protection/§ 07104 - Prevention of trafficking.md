@@ -28,7 +28,7 @@ The President shall establish and carry out international initiatives to enhance
 
 #### (i) ESEA terms
 
-&emsp;&emsp;&emsp;The terms "elementary school", "local educational agency", "other staff", and"secondary school" have the meanings given the terms in section 7801 of title 20.
+&emsp;&emsp;&emsp;The terms "elementary school", "local educational agency", "other staff", and "secondary school" have the meanings given the terms in section 7801 of title 20.
 
 #### (ii) High-intensity child sex trafficking area
 
@@ -36,7 +36,7 @@ The President shall establish and carry out international initiatives to enhance
 
 #### (iii) Labor trafficking
 
-&emsp;&emsp;&emsp;The term "labor trafficking" means conduct described in section 7102(9)(B) of this title.
+&emsp;&emsp;&emsp;The term "labor trafficking" means conduct described in section 7102(9)(B) <sup>1</sup> of this title.
 
 #### (iv) School staff
 
@@ -44,7 +44,7 @@ The President shall establish and carry out international initiatives to enhance
 
 #### (v) Sex trafficking
 
-&emsp;&emsp;&emsp;The term "sex trafficking" means the conduct described in section 7102(9)(A) of this title.
+&emsp;&emsp;&emsp;The term "sex trafficking" means the conduct described in section 7102(9)(A) <sup>1</sup> of this title.
 
 #### (B) In general
 
@@ -100,7 +100,7 @@ The President shall establish and carry out programs that support the production
 
 #### (f) Consultation requirement
 
-The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives andprograms described in subsections (a) through (e).
+The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives and programs described in subsections (a) through (e).
 
 #### (g) Termination of certain grants, contracts and cooperative agreements
 
@@ -244,6 +244,8 @@ The Secretary of State shall establish and implement a multi-year, multi-sectora
 
 #### References in Text
 
+Section 7102(9) of this title, referred to in subsec. (b)(2)(A)(iii), (v), was redesignated section 7102(11) of this title by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503.
+
 Title XVII of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (k)(1)(A)(ii), is title XVII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2092. For complete classification of title XVII to the Code, see Tables.
 
 #### Amendments
@@ -282,6 +284,10 @@ Subsec. (g). Pub. L. 108–193, §3(b), added subsec. (g).
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2013 Amendment
 
 Requirements of amendment by Pub. L. 112–239 applicable to grants, contracts, and cooperative agreements entered into on or after the date that is 270 days after Jan. 2, 2013, and to task and delivery orders awarded on or after Jan. 2, 2013, pursuant to contracts entered before, on, or after such date, see section 7104d(c)(1)(B) of this title.
@@ -289,4 +295,6 @@ Requirements of amendment by Pub. L. 112–239 applicable to grants, contracts, 
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see section 5 of Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended, set out as a note under section 7103 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

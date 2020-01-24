@@ -66,7 +66,7 @@ Termination of Applicability of Procedures When Missing Person Is Accounted for.
 
 Secretary Concerned.—In this chapter, the term "Secretary concerned" includes, in the case of a civilian officer or employee of the Department of Defense or an employee of a contractor of the Department of Defense, the Secretary of the military department or head of the element of the Department of Defense employing the officer or employee or contracting with the contractor, as the case may be.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 336; amended Pub. L. 104–201, div. A, title V, §578(a)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(1), Nov. 18, 1997, 111 Stat. 1766; Pub. L. 106–65, div. A, title X, §1066(a)(13), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–314, div. A, title V, §551, Dec. 2, 2002, 116 Stat. 2551; Pub. L. 108–375, div. A, title V, §582(a), Oct. 28, 2004, 118 Stat. 1928; Pub. L. 111–383, div. A, title IX, §901(g), Jan. 7, 2011, 124 Stat. 4322; Pub. L. 113–66, div. A, title V, §581(a), Dec. 26, 2013, 127 Stat. 773; Pub. L. 113–291, div. A, title IX, §916(a), Dec. 19, 2014, 128 Stat. 3476; Pub. L. 114–328, div. A, title IX, §953(a), Dec. 23, 2016, 130 Stat. 2376.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 336; amended Pub. L. 104–201, div. A, title V, §578(a)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(1), Nov. 18, 1997, 111 Stat. 1766; Pub. L. 106–65, div. A, title X, §1066(a)(13), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–314, div. A, title V, §551, Dec. 2, 2002, 116 Stat. 2551; Pub. L. 108–375, div. A, title V, §582(a), Oct. 28, 2004, 118 Stat. 1928; Pub. L. 111–383, div. A, title IX, §901(g), Jan. 7, 2011, 124 Stat. 4322; Pub. L. 113–66, div. A, title V, §581(a), Dec. 26, 2013, 127 Stat. 773; Pub. L.113–291, div. A, title IX, §916(a), Dec. 19, 2014, 128 Stat. 3476; Pub. L. 114–328, div. A, title IX, §953(a), Dec. 23, 2016, 130 Stat. 2376.)
 
 #### Amendments
 
@@ -150,7 +150,7 @@ Pub. L. 106–65, div. A, title V, §576, Oct. 5, 1999, 113 Stat. 624, as amende
 
 "(a)
 
-Recovery of Remains.—(1) The Secretary of Defense shall make every reasonable effort to search for, recover, and identify the remains of United States servicemen lost in the Pacific theater of operations during World War II (including in New Guinea) while engaged in flight operations.
+Recovery of Remains.—(1) The Secretary of Defense shall make every reasonable effort to search for, recover, and identify the remains of United States servicemen lost in the Pacific theater of operations duringWorld War II (including in New Guinea) while engaged in flight operations.
 
 "(2) In order to provide high priority to carrying out paragraph (1), the Secretary of Defense shall consider increasing the number of personnel assigned to the Central Identification Laboratory, Hawaii.
 

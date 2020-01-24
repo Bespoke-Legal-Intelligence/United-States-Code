@@ -4,7 +4,7 @@
 
 General.—Section 30112(a) of this title does not apply to an imported motor vehicle if—
 
-&emsp;(1) the vehicle is imported for personal use, and not for resale, by an individual (except an individual described in sections 30143 and 30144 of this title);
+&emsp;(1) the vehicle is imported for personal use, and not for resale, by an individual (except anindividual described in sections 30143 and 30144 of this title);
 
 &emsp;(2) the vehicle is imported after January 31, 1990; and
 

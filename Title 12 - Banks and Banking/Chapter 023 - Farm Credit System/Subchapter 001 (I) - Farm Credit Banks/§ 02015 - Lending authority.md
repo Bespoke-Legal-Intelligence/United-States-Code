@@ -8,7 +8,7 @@
 
 #### (2) Financial assistance
 
-&emsp;The Farm Credit Banks may provide and extend financial assistance to, and discount for, or purchase from, a Federal land bank association any note, draft, or other obligation with the endorsement or guarantee of the association, the proceeds of which have been advanced to persons eligible and for purposes of financing by the association, as authorized under section 2279b(a) of this title.
+&emsp;The Farm Credit Banks may provide and extend financial assistance to, and discount for,or purchase from, a Federal land bank association any note, draft, or other obligation with the endorsement or guarantee of the association, the proceeds of which have been advanced to persons eligible and for purposes of financing by the association, as authorized under section 2279b(a) of this title.
 
 #### (b) Intermediate credit
 
@@ -78,7 +78,7 @@ A prior section 2015, Pub. L. 92–181, title I, §1.7, Dec. 10, 1971, 85 Stat. 
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–399, §401(e), inserted in heading "and related assistance" and amended text generally. Prior to amendment, text read as follows: "The Farm Credit Banks are authorized to make or participate with other lenders in long-term real estate mortgage loans in rural areas, as defined by the Farm Credit Administration, or to producers or harvesters of aquatic products, and make continuing commitments to make such loans under specified circumstances, for a term of not less than 5 nor more than 40 years."
+<b>1988</b>—Subsec. (a). Pub. L. 100–399, §401(e), inserted in heading "and related assistance" and amended textgenerally. Prior to amendment, text read as follows: "The Farm Credit Banks are authorized to make or participate with other lenders in long-term real estate mortgage loans in rural areas, as defined by the Farm Credit Administration, or to producers or harvesters of aquatic products, and make continuing commitments to make such loans under specified circumstances, for a term of not less than 5 nor more than 40 years."
 
 Subsec. (b)(2). Pub. L. 100–399, §401(f)(1), struck out provision that banks may own and lease or lease with an option to purchase to persons eligible for assistance under this subchapter, equipment needed in the operations of such persons.
 

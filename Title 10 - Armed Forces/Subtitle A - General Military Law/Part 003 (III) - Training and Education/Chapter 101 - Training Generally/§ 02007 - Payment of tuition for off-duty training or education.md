@@ -116,7 +116,7 @@ Subsec. (b)(2)(C). Pub. L. 110–181, §521(b)(2)(C), substituted "Secretary con
 
 Subsec. (c). Pub. L. 110–181, §521(c)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) consisted of pars. (1) to (3) which authorized Secretary of the Army, subject to certain limitations, to pay the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer.
 
-Subsec. (d). Pub. L. 110–181, §521(c)(2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "Subsection (c)(3) may not be construed to prohibit the Secretary of a military department from exercising any authority that the Secretary may have to pay charges of an educational institution in the case of—
+Subsec. (d). Pub. L. 110–181, §521(c)(2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "Subsection (c)(3) may not beconstrued to prohibit the Secretary of a military department from exercising any authority that the Secretary may have to pay charges of an educational institution in the case of—
 
 &emsp;"(1) a warrant officer on active duty or full-time National Guard duty;
 
@@ -187,6 +187,22 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 #### Savings Provision
 
 For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
+
+#### Information on Institutions of Higher Education Participating in the Department of Defense Tuition Assistance Program
+
+Pub. L. 116–92, div. A, title V, §560, Dec. 20, 2019, 133 Stat. 1393, provided that:
+
+"(a)
+
+List of Participating Institutions.—The Secretary of Defense shall make available, on a publicly accessible website of the Department of Defense, a list that identifies—
+
+&emsp;"(1) each institution of higher education that receives funds under the Department of Defense Tuition Assistance Program; and
+
+&emsp;"(2) the amount of such funds received by the institution.
+
+"(b)
+
+Annual Updates.—The Secretary of Defense shall update the list described in subsection (a) not less frequently than once annually."
 
 #### Tuition Payments Contingent Upon Agreement by Officer To Remain in Ready Reserve for At Least Four Years
 

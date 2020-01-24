@@ -42,7 +42,7 @@ Air Ambulance Providers.—Each air ambulance provider shall include the hotline
 
 #### References in Text
 
-Section 425, referred to in subsec. (e), is probably a reference to section 425 of Pub. L. 115–254 but should bea reference to section 424 of Pub. L. 115–254, which is set out as a note below and relates to the establishment of an Aviation Consumer Advocate. There is no section 425 of this title, and section 425 of Pub. L. 115–254, which is set out as a note preceding section 42301 of this title, relates to prohibition of denial of boarding for certain revenue passengers.
+Section 425, referred to in subsec. (e), is probably a reference to section 425 of Pub. L. 115–254 but should be a reference to section 424 of Pub. L. 115–254, which is set out as a note below and relates to the establishment of an Aviation Consumer Advocate. There is no section 425 of this title, and section 425 of Pub. L. 115–254, which is set out as a note preceding section 42301 of this title, relates to prohibition of denial of boarding for certain revenue passengers.
 
 #### Amendments
 

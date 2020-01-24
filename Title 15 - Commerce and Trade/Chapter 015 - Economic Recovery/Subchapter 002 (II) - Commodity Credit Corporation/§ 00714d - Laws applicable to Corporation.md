@@ -1,6 +1,6 @@
 ### §714d. Laws applicable to Corporation
 
-The Federal statutes applicable to Commodity Credit Corporation, a Delaware corporation, shall be applicable to the Corporation. Commodity Credit Corporation, a Delaware corporation, shall cease to be an agency of the United States as provided in section 713(a) of this title.
+The Federal statutes applicable to Commodity Credit Corporation, a Delaware corporation,shall be applicable to the Corporation. Commodity Credit Corporation, a Delaware corporation, shall cease to be an agency of the United States as provided in section 713(a) of this title.
 
 (June 29, 1948, ch. 704, §6, 62 Stat. 1072.)
 

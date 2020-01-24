@@ -62,7 +62,7 @@ In this section:
 
 #### (B) Subagreements
 
-&emsp;&emsp;Nothing in this subsection prevents a State department of agriculture from using funds received under paragraph (4) to enter into subagreements with political subdivisions of the State that have legal responsibilities relating to agricultural plant pest and disease surveillance.
+&emsp;&emsp;Nothing in this subsection prevents a State department of agriculture from usingfunds received under paragraph (4) to enter into subagreements with political subdivisions of the State that have legal responsibilities relating to agricultural plant pest and disease surveillance.
 
 #### (C) Non-Federal share
 

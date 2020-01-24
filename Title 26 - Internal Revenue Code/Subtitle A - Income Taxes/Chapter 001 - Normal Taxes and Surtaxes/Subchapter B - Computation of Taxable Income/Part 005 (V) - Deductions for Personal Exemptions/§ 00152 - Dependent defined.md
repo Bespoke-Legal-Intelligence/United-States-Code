@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (C) No parent claiming qualifying child
 
-&emsp;&emsp;If the parents of an individual may claim such individual as a qualifying child but no parent so claims the individual, such individual may be claimed as the qualifying child of another taxpayer but only if the adjusted gross income of such taxpayer is higher than the highest adjusted gross income of any parent of the individual.
+&emsp;&emsp;If the parents of an individual may claim such individual as a qualifying child but noparent so claims the individual, such individual may be claimed as the qualifying child of another taxpayer but only if the adjusted gross income of such taxpayer is higher than the highest adjusted gross income of any parent of the individual.
 
 #### (d) Qualifying relative
 
@@ -180,7 +180,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of an individual legally separated from the individual's spouse under a decree of divorce or of separate maintenance, the payee spouse and the payor spouse are not members of the same household at the time such payment is made, and
 
-&emsp;&emsp;&emsp;(iii) there is no liability to make any such payment for any period after the death of the payee spouse and there is no liability to make any payment (in cash or property) as a substitute for such payments after the death of the payee spouse.
+&emsp;&emsp;&emsp;(iii) there is no liability to make any such payment for any period after the death of the payee spouse and there is noliability to make any payment (in cash or property) as a substitute for such payments after the death of the payee spouse.
 
 #### (e) Special rule for divorced parents, etc.
 
@@ -280,7 +280,7 @@ For purposes of this section—
 
 #### (3) Determination of household status
 
-&emsp;An individual shall not be treated as a member of the taxpayer's household if at any time during the taxable year of the taxpayer the relationship between such individual and the taxpayer is in violation of local law.
+&emsp;An individual shall not be treated as a member of the taxpayer's household if at any timeduring the taxable year of the taxpayer the relationship between such individual and the taxpayer is in violation of local law.
 
 #### (4) Brother and sister
 
@@ -418,7 +418,7 @@ Amendment by Pub. L. 110–351 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provisions of the Working Families Tax ReliefAct of 2004, Pub. L. 108–311, to which such amendment relates, see section 404(d) of Pub. L. 109–135, set out as a note under section 21 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Working Families Tax Relief Act of 2004, Pub. L. 108–311, to which such amendment relates, see section 404(d) of Pub. L. 109–135, set out as a note under section 21 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -440,7 +440,7 @@ Amendment by section 482(b)(2) of Pub. L. 98–369 applicable to taxable years b
 
 Amendment by section 1901(a)(24), (b)(7)(B), (8)(A) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Pub. L. 94–455, title XXI, §2139(b), Oct. 4, 1976, 90 Stat. 1932, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 4, 1976\]."
+Pub. L. 94–455, title XXI, §2139(b), Oct. 4, 1976, 90 Stat. 1932, provided that: "The amendment made by this section \[amending this section\] shall apply to taxableyears beginning after the date of the enactment of this Act \[Oct. 4, 1976\]."
 
 #### Effective Date of 1972 Amendment
 

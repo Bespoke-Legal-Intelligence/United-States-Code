@@ -27,7 +27,7 @@
 | [2325\.](Subchapter%20001%20%28I%29%20-%20Career%20and%20Technical%20Education%20Assistance%20to%20the%20States/Part%20A%20-%20Allotment%20and%20Allocation/%C2%A7%2002325%20-%20Assistance%20for%20the%20outlying%20areas.md) | Assistance for outlying areas. |
 | [2326\.](Subchapter%20001%20%28I%29%20-%20Career%20and%20Technical%20Education%20Assistance%20to%20the%20States/Part%20A%20-%20Allotment%20and%20Allocation/%C2%A7%2002326%20-%20Native%20American%20programs.md) | Native American programs. |
 | [2327\.](Subchapter%20001%20%28I%29%20-%20Career%20and%20Technical%20Education%20Assistance%20to%20the%20States/Part%20A%20-%20Allotment%20and%20Allocation/%C2%A7%2002327%20-%20Tribally%20controlled%20postsecondary%20career%20and%20technical%20institutions.md) | Tribally controlled postsecondary career and technical institutions. |
-| [2328\.](Subchapter%20001%20%28I%29%20-%20Career%20and%20Technical%20Education%20Assistance%20to%20the%20States/Part%20A%20-%20Allotment%20and%20Allocation/%C2%A7%2002328%20-%20Occupational%20and%20employment%20information.md) | Occupational and employment information. |
+| [2328\.](Subchapter%20001%20%28I%29%20-%20Career%20and%20Technical%20Education%20Assistance%20to%20the%20States/Part%20A%20-%20Allotment%20and%20Allocation/%C2%A7%2002328%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93224%2C%20title%20I%2C%20%C2%A7117%2C%20July%2031%2C%202018%2C%20132%20Stat.%201599.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -49,39 +49,26 @@
 | [2351\.](Subchapter%20001%20%28I%29%20-%20Career%20and%20Technical%20Education%20Assistance%20to%20the%20States/Part%20C%20-%20Local%20Provisions/%C2%A7%2002351%20-%20Distribution%20of%20funds%20to%20secondary%20education%20programs.md) | Distribution of funds to secondary education programs. |
 | [2352\.](Subchapter%20001%20%28I%29%20-%20Career%20and%20Technical%20Education%20Assistance%20to%20the%20States/Part%20C%20-%20Local%20Provisions/%C2%A7%2002352%20-%20Distribution%20of%20funds%20for%20postsecondary%20education%20programs.md) | Distribution of funds for postsecondary education programs. |
 | [2353\.](Subchapter%20001%20%28I%29%20-%20Career%20and%20Technical%20Education%20Assistance%20to%20the%20States/Part%20C%20-%20Local%20Provisions/%C2%A7%2002353%20-%20Special%20rules%20for%20career%20and%20technical%20education.md) | Special rules for career and technical education. |
-| [2354\.](Subchapter%20001%20%28I%29%20-%20Career%20and%20Technical%20Education%20Assistance%20to%20the%20States/Part%20C%20-%20Local%20Provisions/%C2%A7%2002354%20-%20Local%20plan%20for%20career%20and%20technical%20education%20programs.md) | Local plan for career and technical education programs. |
+| [2354\.](Subchapter%20001%20%28I%29%20-%20Career%20and%20Technical%20Education%20Assistance%20to%20the%20States/Part%20C%20-%20Local%20Provisions/%C2%A7%2002354%20-%20Local%20application%20for%20career%20and%20technical%20education%20programs.md) | Local application for career and technical education programs. |
 | [2355\.](Subchapter%20001%20%28I%29%20-%20Career%20and%20Technical%20Education%20Assistance%20to%20the%20States/Part%20C%20-%20Local%20Provisions/%C2%A7%2002355%20-%20Local%20uses%20of%20funds.md) | Local uses of funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER II—TECH PREP EDUCATION
-
-|  |  |
-| :--- | ---: |
-| [2371\.](Subchapter%20002%20%28II%29%20-%20Tech%20Prep%20Education/%C2%A7%2002371%20-%20State%20allotment%20and%20application.md) | State allotment and application. |
-| [2372\.](Subchapter%20002%20%28II%29%20-%20Tech%20Prep%20Education/%C2%A7%2002372%20-%20Consolidation%20of%20funds.md) | Consolidation of funds. |
-| [2373\.](Subchapter%20002%20%28II%29%20-%20Tech%20Prep%20Education/%C2%A7%2002373%20-%20Tech%20prep%20program.md) | Tech prep program. |
-| [2374\.](Subchapter%20002%20%28II%29%20-%20Tech%20Prep%20Education/%C2%A7%2002374%20-%20Consortium%20applications.md) | Consortium applications. |
-| [2375\.](Subchapter%20002%20%28II%29%20-%20Tech%20Prep%20Education/%C2%A7%2002375%20-%20Report.md) | Report. |
-| [2376\.](Subchapter%20002%20%28II%29%20-%20Tech%20Prep%20Education/%C2%A7%2002376%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### SUBCHAPTER III—GENERAL PROVISIONS
+#### SUBCHAPTER II—GENERAL PROVISIONS
 
 #### Part A—Federal Administrative Provisions
 
 |  |  |
 | :--- | ---: |
-| [2391\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002391%20-%20Fiscal%20requirements.md) | Fiscal requirements. |
-| [2392\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002392%20-%20Authority%20to%20make%20payments.md) | Authority to make payments. |
-| [2393\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002393%20-%20Construction.md) | Construction. |
-| [2394\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002394%20-%20Voluntary%20selection%20and%20participation.md) | Voluntary selection and participation. |
-| [2395\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002395%20-%20Limitation%20for%20certain%20students.md) | Limitation for certain students. |
-| [2396\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002396%20-%20Federal%20laws%20guaranteeing%20civil%20rights.md) | Federal laws guaranteeing civil rights. |
-| [2397\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002397%20-%20Participation%20of%20private%20school%20personnel%20and%20children.md) | Participation of private school personnel and children. |
-| [2398\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002398%20-%20Limitation%20on%20Federal%20regulations.md) | Limitation on Federal regulations. |
-| [2399\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002399%20-%20Study%20on%20programs%20of%20study%20aligned%20to%20high-skill%2C%20high-wage%20occupations.md) | Study on programs of study aligned to high-skill, high-wage occupations. |
+| [2391\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002391%20-%20Fiscal%20requirements.md) | Fiscal requirements. |
+| [2392\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002392%20-%20Authority%20to%20make%20payments.md) | Authority to make payments. |
+| [2393\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002393%20-%20Construction.md) | Construction. |
+| [2394\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002394%20-%20Voluntary%20selection%20and%20participation.md) | Voluntary selection and participation. |
+| [2395\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002395%20-%20Limitation%20for%20certain%20students.md) | Limitation for certain students. |
+| [2396\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002396%20-%20Federal%20laws%20guaranteeing%20civil%20rights.md) | Federal laws guaranteeing civil rights. |
+| [2397\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002397%20-%20Participation%20of%20private%20school%20personnel%20and%20children.md) | Participation of private school personnel and children. |
+| [2398\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002398%20-%20Limitation%20on%20Federal%20regulations.md) | Limitation on Federal regulations. |
+| [2399\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/Part%20A%20-%20Federal%20Administrative%20Provisions/%C2%A7%2002399%20-%20Study%20on%20programs%20of%20study%20aligned%20to%20high-skill%2C%20high-wage%20occupations.md) | Study on programs of study aligned to high-skill, high-wage occupations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -89,10 +76,10 @@
 
 |  |  |
 | :--- | ---: |
-| [2411\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/Part%20B%20-%20State%20Administrative%20Provisions/%C2%A7%2002411%20-%20Joint%20funding.md) | Joint funding. |
-| [2412\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/Part%20B%20-%20State%20Administrative%20Provisions/%C2%A7%2002412%20-%20Prohibition%20on%20use%20of%20funds%20to%20induce%20out-of-State%20relocation%20of%20businesses.md) | Prohibition on use of funds to induce out-of-State relocation of businesses. |
-| [2413\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/Part%20B%20-%20State%20Administrative%20Provisions/%C2%A7%2002413%20-%20State%20administrative%20costs.md) | State administrative costs. |
-| [2414\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/Part%20B%20-%20State%20Administrative%20Provisions/%C2%A7%2002414%20-%20Student%20assistance%20and%20other%20Federal%20programs.md) | Student assistance and other Federal programs. |
+| [2411\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/Part%20B%20-%20State%20Administrative%20Provisions/%C2%A7%2002411%20-%20Joint%20funding.md) | Joint funding. |
+| [2412\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/Part%20B%20-%20State%20Administrative%20Provisions/%C2%A7%2002412%20-%20Prohibition%20on%20use%20of%20funds%20to%20induce%20out-of-State%20relocation%20of%20businesses.md) | Prohibition on use of funds to induce out-of-State relocation of businesses. |
+| [2413\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/Part%20B%20-%20State%20Administrative%20Provisions/%C2%A7%2002413%20-%20State%20administrative%20costs.md) | State administrative costs. |
+| [2414\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/Part%20B%20-%20State%20Administrative%20Provisions/%C2%A7%2002414%20-%20Student%20assistance%20and%20other%20Federal%20programs.md) | Student assistance and other Federal programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -115,5 +102,4 @@ The Carl D. Perkins Career and Technical Education Act of 2006, comprising this 
 - [&sect; 02307 - Authorization of appropriations](%C2%A7%2002307%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 02308 - Interdepartmental Task Force on Vocational Education and Related Programs](%C2%A7%2002308%20-%20Interdepartmental%20Task%20Force%20on%20Vocational%20Education%20and%20Related%20Programs.md)
 - [Subchapter 001 (I) - Career and Technical Education Assistance to the States](Subchapter%20001%20%28I%29%20-%20Career%20and%20Technical%20Education%20Assistance%20to%20the%20States/README.md)
-- [Subchapter 002 (II) - Tech Prep Education](Subchapter%20002%20%28II%29%20-%20Tech%20Prep%20Education/README.md)
-- [Subchapter 003 (III) - General Provisions](Subchapter%20003%20%28III%29%20-%20General%20Provisions/README.md)
+- [Subchapter 002 (II) - General Provisions](Subchapter%20002%20%28II%29%20-%20General%20Provisions/README.md)

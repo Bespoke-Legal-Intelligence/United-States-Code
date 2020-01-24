@@ -46,7 +46,7 @@ When used in this chapter, except where the context requires otherwise—
 
 &emsp;(v) the term "export elevator" means any grain elevator, warehouse, or other storage or handling facility in the United States as determined by the Secretary, from which grain is shipped from the United States to an area outside thereof;
 
-&emsp;(w) the term "export port location" means a commonly recognized port of export in theUnited States or Canada, as determined by the Secretary, from which grain produced in the United States is shipped to any place outside the United States;
+&emsp;(w) the term "export port location" means a commonly recognized port of export in the United States or Canada, as determined by the Secretary, from which grain produced in the United States is shipped to any place outside the United States;
 
 &emsp;(x) the term "official weighing" means the determination and certification by official inspection personnel of the quantity of a lot of grain under standards provided for in this chapter, based on the actual performance of weighing or the physical supervision thereof, including the physical inspection and testing for accuracy of the weights and scales and the physical inspection of the premises at which the weighing is performed and the monitoring of the discharge of grain into the elevator or conveyance (the terms "officially weigh" and "officially weighed" shall be construed accordingly);
 

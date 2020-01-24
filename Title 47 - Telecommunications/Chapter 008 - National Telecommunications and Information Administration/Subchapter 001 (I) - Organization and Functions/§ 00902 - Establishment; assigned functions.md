@@ -4,7 +4,7 @@
 
 #### (1) Administration
 
-&emsp;There shall be within the Department of Commerce an administration to be known asthe National Telecommunications and Information Administration.
+&emsp;There shall be within the Department of Commerce an administration to be known as the National Telecommunications and Information Administration.
 
 #### (2) Head of administration
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(iii) providing advice and assistance to the Secretary of State on international telecommunications policies to strengthen the position and serve the best interests of the United States in support of the Secretary of State's responsibility for the conduct of foreign affairs.
 
-&emsp;&emsp;(H) The authority to provide for the coordination of the telecommunications activities of the executive branch and assist in the formulation of policies and standards for those activities, including (but not limited to) considerations of interoperability, privacy, security, spectrum use, and emergency readiness.
+&emsp;&emsp;(H) The authority to provide for the coordination of the telecommunications activities of the executive branch and assist inthe formulation of policies and standards for those activities, including (but not limited to) considerations of interoperability, privacy, security, spectrum use, and emergency readiness.
 
 &emsp;&emsp;(I) The authority to develop and set forth telecommunications policies pertaining to the Nation's economic and technological advancement and to the regulation of the telecommunications industry.
 
@@ -122,7 +122,7 @@ Executive Order 11556, referred to in subsec. (b)(2)(S), which was formerly set 
 
 #### Pilot Program for Digital and Wireless Networks for Online Educational Programs of Study
 
-Pub. L. 110–161, div. B, title V, §536, Dec. 26, 2007, 121 Stat. 1932, as amended by Pub. L. 110–315, title IX,§941(k)(2)(N), Aug. 14, 2008, 122 Stat. 3468, provided that: "This section may be cited as the 'ED 1.0 Act'.
+Pub. L. 110–161, div. B, title V, §536, Dec. 26, 2007, 121 Stat. 1932, as amended by Pub. L. 110–315, title IX, §941(k)(2)(N), Aug. 14, 2008, 122 Stat. 3468, provided that: "This section may be cited as the 'ED 1.0 Act'.
 
 &emsp;"(a) In this section:
 

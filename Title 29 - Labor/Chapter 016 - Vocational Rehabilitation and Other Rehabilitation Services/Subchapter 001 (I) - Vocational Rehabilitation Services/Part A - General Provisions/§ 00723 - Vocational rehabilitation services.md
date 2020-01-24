@@ -30,7 +30,7 @@ Vocational rehabilitation services provided under this subchapter are any servic
 
 &emsp;(7) maintenance for additional costs incurred while participating in an assessment for determining eligibility and vocational rehabilitation needs or while receiving services under an individualized plan for employment;
 
-&emsp;(8) transportation, including adequate training in the use of public transportation vehicles and systems, that is provided in connection with the provision of any other service described in this section and needed by the individual to achieve an employment outcome;
+&emsp;(8) transportation, including adequate training in the use of public transportation vehicles and systems, that is provided in connectionwith the provision of any other service described in this section and needed by the individual to achieve an employment outcome;
 
 &emsp;(9) on-the-job or other related personal assistance services provided while an individual is receiving other services described in this section;
 
@@ -98,7 +98,7 @@ Vocational rehabilitation services provided for the benefit of groups of individ
 
 The Social Security Act, referred to in subsec. (b)(7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Assistive Technology Act of 1998, referred to in subsec. (b)(8), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§3001 et seq.) of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Assistive Technology Act of 1998, referred to in subsec. (b)(8), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 #### Prior Provisions
 

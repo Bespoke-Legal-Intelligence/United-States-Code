@@ -108,7 +108,7 @@ Subsec. (b). Pub. L. 113–295, §221(a)(99)(B)(ii), substituted "1.45 percent o
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–216, §§101(a)(2), 315(b), substituted "(as defined in section 3121(a) and (t))" for "(as defined in section 3121(a))" in provisions preceding par. (1), substituted "1974 through 1977" for "1974 through 2010" in par. (1), substituted "wages paid during the calendar year 1978, the rate shall be 5.05 percent" for "wages paid after December 31, 2010, the rate shall be 5.95 percent" in par. (2), and added pars. (3) to (7).
 
-Subsec. (b). Pub. L. 95–216, §§101(b)(2), 315(b), substituted "(as defined in section 3121(a) and (t))" for "(as defined in section 3121(a))" in provisions preceding par. (1), substituted "wages paid during the calendar year 1978, the rate shall be 1.00 percent" for "wages paid during the calendar years 1978 through 1980, the rate shall be 1.10 percent", in par. (2), substituted "wages paid during the calendar years 1979 and 1980, the rate shall be 1.05 percent" for wages paid during the calendar years 1981 through 1985, the rate shall be 1.35 percent" in par. (3), substituted "wages paid during the calendar years 1981 through 1984, the rate shall be 1.30 percent" for "wages paid after December 31, 1985, the rate shall be 1.50 percent" in par. (4), and added pars. (5) and (6).
+Subsec. (b). Pub. L. 95–216, §§101(b)(2), 315(b), substituted "(as defined in section 3121(a) and (t))" for "(as defined in section 3121(a))" in provisions preceding par. (1), substituted "wages paid during the calendar year 1978, the rate shall be 1.00 percent" for "wages paid during the calendar years 1978 through 1980, the rate shall be 1.10 percent", in par. (2), substituted "wages paid during the calendar years 1979 and 1980, the rate shall be 1.05 percent" for wages paid during the calendar years 1981 through 1985, the rate shall be 1.35 percent" in par. (3), substituted "wages paid during the calendaryears 1981 through 1984, the rate shall be 1.30 percent" for "wages paid after December 31, 1985, the rate shall be 1.50 percent" in par. (4), and added pars. (5) and (6).
 
 Subsec. (c). Pub. L. 95–216, §317(b)(2), added subsec. (c).
 
@@ -152,7 +152,7 @@ Subsec. (b)(4). Pub. L. 92–603, §135(b)(3), substituted "1981, 1982, 1983, 19
 
 Subsec. (b)(5). Pub. L. 92–603, §135(b)(3), substituted "1985, the rate shall be 1.45 percent" for "1992, the rate shall be 1.2 percent".
 
-<b>1971</b>—Subsec. (a)(4). Pub. L. 92–5 substituted "with respect to wages paid during the calendar years 1973, 1974,and 1975, the rate shall be 5.0 percent; and" for "with respect to wages paid after December 31, 1972, the rate shall be 5.0 percent".
+<b>1971</b>—Subsec. (a)(4). Pub. L. 92–5 substituted "with respect to wages paid during the calendar years 1973, 1974, and 1975, the rate shall be 5.0 percent; and" for "with respect to wages paid after December 31, 1972, the rate shall be 5.0 percent".
 
 Subsec. (a)(5). Pub. L. 92–5 added par. (5).
 
@@ -244,7 +244,7 @@ Amendment by Pub. L. 87–64 applicable with respect to remuneration paid after 
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–840 applicable with respect to remuneration paid after Dec. 31, 1958, see section 401(d) of Pub. L. 85–840, set out as a note under section 1401 of this title.
+Amendment by Pub. L. 85–840 applicable with respect to remuneration paid after Dec. 31, 1958, see section401(d) of Pub. L. 85–840, set out as a note under section 1401 of this title.
 
 #### Effective Date of 1956 Amendment
 

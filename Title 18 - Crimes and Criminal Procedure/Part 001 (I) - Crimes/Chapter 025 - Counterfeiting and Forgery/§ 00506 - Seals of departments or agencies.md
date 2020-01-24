@@ -18,7 +18,7 @@
 
 &emsp;(3) with fraudulent intent, possessed, sold, offered for sale, furnished, offered to furnish, given away, offered to give away, transported, offered to transport, imported, or offered to import,
 
-> with the intent or effect of facilitating an alien's application for, or receipt of, a Federal benefit to which the alien is not entitled, the penalties which may be imposed for each offense under subsection (a) shall be two times the maximum fine, and 3 times the maximum term ofimprisonment, or both, that would otherwise be imposed for an offense under subsection (a).
+> with the intent or effect of facilitating an alien's application for, or receipt of, a Federal benefit to which the alien is not entitled, the penalties which may be imposed for each offense under subsection (a) shall be two times the maximum fine, and 3 times the maximum term of imprisonment, or both, that would otherwise be imposed for an offense under subsection (a).
 
 (c) For purposes of this section—
 

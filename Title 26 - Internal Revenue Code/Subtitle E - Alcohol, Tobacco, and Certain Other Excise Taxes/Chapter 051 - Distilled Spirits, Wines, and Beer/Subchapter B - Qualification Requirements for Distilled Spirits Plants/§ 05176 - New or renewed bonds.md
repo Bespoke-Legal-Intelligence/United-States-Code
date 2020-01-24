@@ -2,7 +2,7 @@
 
 #### (a) General
 
-New bonds shall be required under sections 5173 and 5175 in case of insolvency or removal of any surety, and may, at the discretion of the Secretary, be required in any other contingency affecting the validity or impairing the efficiency of such bond.
+New bonds shall be required under sections 5173 and 5175 in case of insolvency or removal ofany surety, and may, at the discretion of the Secretary, be required in any other contingency affecting the validity or impairing the efficiency of such bond.
 
 #### (b) Bonds
 

@@ -6,7 +6,7 @@ The Department of State shall maintain procedures to ensure that the members and
 
 #### (b) Parking
 
-The Department of State shall also make available adequate parking for members andstaff of the congressional committees of jurisdiction in order to facilitate attendance of meetings at the Department of State.
+The Department of State shall also make available adequate parking for members and staff of the congressional committees of jurisdiction in order to facilitate attendance of meetings at the Department of State.
 
 (Pub. L. 103–236, title I, §129, Apr. 30, 1994, 108 Stat. 394.)
 

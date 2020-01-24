@@ -2,7 +2,7 @@
 
 The Director of the program, in carrying out the program, shall—
 
-&emsp;(1) cooperate with institutions of higher education and other educational marine and ocean science organizations, and shall make available undersea research facilities, equipment, technologies, information, and expertise to support undersea research efforts by these organizations;
+&emsp;(1) cooperate with institutions of higher education and other educational marine andocean science organizations, and shall make available undersea research facilities, equipment, technologies, information, and expertise to support undersea research efforts by these organizations;
 
 &emsp;(2) enter into partnerships, as appropriate and using existing authorities, with the private sector to achieve the goals of the program and to promote technological advancement of the marine industry; and
 

@@ -36,7 +36,7 @@
 
 #### (3) Coordination with subsection (b)
 
-&emsp;A corporation which is treated as a domestic corporation under subsection (b) shall not betreated as a surrogate foreign corporation for purposes of paragraph (2)(A).
+&emsp;A corporation which is treated as a domestic corporation under subsection (b) shall not be treated as a surrogate foreign corporation for purposes of paragraph (2)(A).
 
 #### (b) Inverted corporations treated as domestic corporations
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The statutory period for the assessment of any deficiency attributable to the inversion gain of any taxpayer for any pre-inversion year shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of the acquisition described in subsection (a)(2)(B)(i) to which such gain relates and such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
+&emsp;&emsp;The statutory period for the assessment of any deficiency attributable to the inversiongain of any taxpayer for any pre-inversion year shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of the acquisition described in subsection (a)(2)(B)(i) to which such gain relates and such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
 #### (B) Pre-inversion year
 

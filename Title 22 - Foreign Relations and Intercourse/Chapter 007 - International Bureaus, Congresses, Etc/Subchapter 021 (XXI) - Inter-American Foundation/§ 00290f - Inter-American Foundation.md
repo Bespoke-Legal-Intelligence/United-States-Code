@@ -20,11 +20,11 @@ The future of freedom, security, and economic development in the Western Hemisph
 
 #### (c) Programs and projects to achieve purposes
 
-The Foundation shall carry out the purposes set forth in subsection (b) of this section primarily through and with private organizations, individuals, and international organizations by undertaking or sponsoring appropriate research and by planning, initiating, assisting, financing, administering, and executing programs andprojects designed to promote the achievement of such purposes.
+The Foundation shall carry out the purposes set forth in subsection (b) of this section primarily through and with private organizations, individuals, and international organizations by undertaking or sponsoring appropriate research and by planning, initiating, assisting, financing, administering, and executing programs and projects designed to promote the achievement of such purposes.
 
 #### (d) Coordination of activities with national and international agencies
 
-In carrying out its functions under this section, the Foundation shall, to the maximum extent possible, coordinate its undertakings with the developmental activities in the Western Hemisphere of the various organs of the Organization of American States, the United States Government, international organizations, and other entities engaged in promoting social and economic development of Latin America.
+In carrying out its functions under this section, the Foundation shall, to the maximum extent possible, coordinate its undertakings with the developmental activities in the Western Hemisphere of the various organs of the Organization of American States, the United States Government, international organizations, andother entities engaged in promoting social and economic development of Latin America.
 
 #### (e) Powers and functions
 
@@ -74,11 +74,11 @@ The Board may prescribe, amend, and repeal bylaws, rules, and regulations govern
 
 #### (k) Authority of the Board to appoint committees
 
-In furtherance and not in limitation of the powers conferred upon it, the Board may appointsuch committees for the carrying out of the work of the Foundation as the Board finds to be for the best interests of the Foundation, each committee to consist of two or more members of the Board, which committees, together with officers and agents duly authorized by the Board and to the extent provided by the Board, shall have and may exercise the powers of the Board in the management of the business and affairs of the Foundation.
+In furtherance and not in limitation of the powers conferred upon it, the Board may appoint such committees for the carrying out of the work of the Foundation as the Board finds to be for the best interests of the Foundation, each committee to consist of two or more members of the Board, which committees, together with officers and agents duly authorized by the Board and to the extent provided by the Board, shall have and may exercise the powers of the Board in the management of the business and affairs of the Foundation.
 
 #### (l) President of Foundation: appointment and compensation; employment of experts and consultants
 
-(1) The chief executive officer of the Foundation shall be a President who shall be appointed by the Board of Directors on such terms as the Board may determine. The President shall receive compensation at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
+(1) The chief executive officer of the Foundation shall be a President who shall be appointedby the Board of Directors on such terms as the Board may determine. The President shall receive compensation at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
 
 (2) Experts and consultants, or organizations thereof, may be employed as authorized by section 3109 of title 5.
 
@@ -128,11 +128,11 @@ Funds made available to the Foundation may be used for the expenses described in
 
 Funds made available to the Foundation may be used for printing and binding without regard to section 501 of title 44.
 
-(Pub. L. 91–175, pt. IV, §401, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. IV, §406(2)–(5), Feb. 7, 1972, 86 Stat. 34; Pub. L. 95–105, title V, §508, Aug. 17, 1977, 91 Stat. 859; Pub. L. 97–241, title V, §501, Aug. 24, 1982, 96 Stat. 297; Pub. L. 98–164, title X, §1001, Nov. 22, 1983, 97 Stat. 1051; Pub. L. 99–83, title VII, §708, Aug. 8, 1985, 99 Stat. 243; Pub. L.99–529, title II, §202(e), title IV, §403(a), Oct. 24, 1986, 100 Stat. 3012, 3019; Pub. L. 101–246, title VI, §601, Feb. 16, 1990, 104 Stat. 73; Pub. L. 102–138, title I, §173(a), (b)(1), (c), (d), Oct. 28, 1991, 105 Stat. 679, 680; Pub. L. 110–38, §1, June 21, 2007, 121 Stat. 230.)
+(Pub. L. 91–175, pt. IV, §401, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. IV, §406(2)–(5), Feb. 7, 1972, 86 Stat. 34; Pub. L. 95–105, title V, §508, Aug. 17, 1977, 91 Stat. 859; Pub. L. 97–241, title V, §501, Aug. 24, 1982, 96 Stat. 297; Pub. L. 98–164, title X, §1001, Nov. 22, 1983, 97 Stat. 1051; Pub. L. 99–83, title VII, §708, Aug. 8, 1985, 99 Stat. 243; Pub. L. 99–529, title II, §202(e), title IV, §403(a), Oct. 24, 1986, 100 Stat. 3012, 3019; Pub. L. 101–246, title VI, §601, Feb. 16, 1990, 104 Stat. 73; Pub. L. 102–138, title I, §173(a), (b)(1), (c), (d), Oct. 28, 1991, 105 Stat. 679, 680; Pub. L. 110–38, §1, June 21, 2007, 121 Stat. 230.)
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (s)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (s)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as anote under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 

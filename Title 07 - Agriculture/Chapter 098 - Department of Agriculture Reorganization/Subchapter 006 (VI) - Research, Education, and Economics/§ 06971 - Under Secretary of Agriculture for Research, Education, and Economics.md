@@ -168,7 +168,7 @@ The Under Secretary shall—
 
 #### (6) Organization
 
-&emsp;The Under Secretary shall integrate leadership functions of the national program staff of the research agencies into the Office of theChief Scientist in such form as is required to ensure that administrative duplication does not occur.
+&emsp;The Under Secretary shall integrate leadership functions of the national program staff of the research agencies into the Office of the Chief Scientist in such form as is required to ensure that administrative duplication does not occur.
 
 #### (f) National Institute of Food and Agriculture
 
@@ -208,7 +208,7 @@ The Under Secretary shall—
 
 &emsp;&emsp;&emsp;(x) The program providing distance education grants for insular areas established under section 1490 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3362).
 
-&emsp;&emsp;&emsp;(xi) The program providing resident instruction grants for insular areas established under section 1491 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3363).
+&emsp;&emsp;&emsp;(xi) The program providing resident instruction grants for insular areas established under section 1491 of the NationalAgricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3363).
 
 &emsp;&emsp;&emsp;(xii) Each research and development and related program established under Public Law 87–788 (commonly known as the "McIntire-Stennis Cooperative Forestry Act") (16 U.S.C. 582a et seq.).
 
@@ -384,7 +384,7 @@ The Hatch Act of 1887, referred to in subsec. (f)(1)(C)(iv), is act Mar. 2, 1887
 
 The National Agricultural Research, Extension, and Teaching Policy Act of 1977, referred to in subsec. (f)(1)(C)(vi), is title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Subtitle E of the Act is classified generally to subchapter V (§3191 et seq.) of chapter 64 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-Public Law 87–788, referred to in subsec. (f)(1)(C)(xii), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the "McIntire-Stennis Act of 1962" and also as the "McIntire-Stennis Cooperative Forestry Act", which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
+Public Law 87–788, referred to in subsec. (f)(1)(C)(xii), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the "McIntire-Stennis Act of 1962" and also as the "McIntire-Stennis Cooperative Forestry Act",which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
 The Renewable Resources Extension Act of 1978, referred to in subsec. (f)(1)(C)(xiii), is Pub. L. 95–306, June 30, 1978, 92 Stat. 349, which is classified generally to subchapter III (§1671 et seq.) of chapter 36 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1978 Amendments note set out under section 1600 of Title 16 and Tables.
 

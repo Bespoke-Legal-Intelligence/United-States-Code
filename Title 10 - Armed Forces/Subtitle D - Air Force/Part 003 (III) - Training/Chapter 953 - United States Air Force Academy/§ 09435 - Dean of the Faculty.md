@@ -38,7 +38,7 @@ The word "regular" is deleted \[in sections 9335 and 9336\] to make clear that a
 
 <b>2017</b>—Subsec. (b). Pub. L. 115–91 substituted "appointed as Dean of the Faculty" for "so appointed".
 
-<b>2016</b>—Subsec. (b). Pub. L. 114–328 struck out first and third sentences which read "While serving as Dean of the Faculty, an officer on active duty who holds agrade lower than brigadier general (or the equivalent) shall hold the grade of brigadier general (or the equivalent), if appointed to that grade by the President, by and with the advice and consent of the Senate." and "An officer so appointed is counted for purposes of the applicable limitation in section 526(a) of this title on general officers on active duty.", respectively.
+<b>2016</b>—Subsec. (b). Pub. L. 114–328 struck out first and third sentences which read "While serving as Dean of the Faculty, an officer on active duty who holds a grade lower than brigadier general (or the equivalent) shall hold the grade of brigadier general (or the equivalent), if appointed to that grade by the President, by and with the advice and consent of the Senate." and "An officer so appointed is counted for purposes of the applicable limitation in section 526(a) of this title on general officers on active duty.", respectively.
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–375 inserted ", except that a person may not be appointed or assigned as Dean unless that person holds the highest academic degree in that person's academic field" after "Secretary of the Air Force".
 

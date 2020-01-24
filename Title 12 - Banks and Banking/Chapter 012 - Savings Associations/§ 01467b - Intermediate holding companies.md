@@ -30,7 +30,7 @@ For purposes of this section:
 
 #### (B) Other activities
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the Board shall require a grandfathered unitary savings and loan holding company to establish an intermediate holding company if the Board makes a determination that the establishment of such intermediate holding company is necessary—
+&emsp;&emsp;Notwithstanding subparagraph (A), the Board shall require a grandfathered unitarysavings and loan holding company to establish an intermediate holding company if the Board makes a determination that the establishment of such intermediate holding company is necessary—
 
 &emsp;&emsp;&emsp;(i) to appropriately supervise activities that are determined to be financial activities; or
 
@@ -62,7 +62,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;In addition to any other authority of the Board, the Board may enforce compliance with the provisions of this subsection that are applicable to any company described in paragraph (1)(A) that controls an intermediate holding company under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], and a company described in paragraph\(1)(A) shall be subject to such section (solely for purposes of this subparagraph) in the same manner and to the same extent as if the company described in paragraph (1)(A) were a savings and loan holding company.
+&emsp;&emsp;In addition to any other authority of the Board, the Board may enforce compliance with the provisions of this subsection that are applicable to any company described in paragraph (1)(A) that controls an intermediate holding company under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], and a company described in paragraph (1)(A) shall be subject to such section (solely for purposes of this subparagraph) in the same manner and to the same extent as if the company described in paragraph (1)(A) were a savings and loan holding company.
 
 #### (B) Application of other Act
 

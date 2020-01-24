@@ -56,7 +56,7 @@ For purposes of this subchapter, the term "unrealized receivables" includes, to 
 
 &emsp;(2) services rendered, or to be rendered.
 
-> For purposes of this section and sections 731, 732, and 741 (but not for purposes of section 736), such term also includes mining property (as defined in section 617(f)(2)), stock in a DISC (as described in section 992(a)), section 1245 property (as defined in section 1245(a)(3)), stock in certain foreign corporations (as described in section 1248), section 1250 property (as defined in section 1250(c)), farm land (as defined in section 1252(a)), franchises, trademarks, or trade names (referred to in section 1253(a)), and an oil, gas, or geothermal property (described in section 1254) but only to the extent of the amount which would be treated as gain to which section 617(d)(1), 995(c), 1245(a), 1248(a), 1250(a), 1252(a), 1253(a), or 1254(a) would apply if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership at its fair market value. For purposes of this section and sections 731, 732, and 741 (but not for purposes of section 736), such term also includes any market discount bond (as defined in section 1278) and any short-term obligation (as defined in section 1283) but only to the extent of the amount which would be treated as ordinary income if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership.
+> For purposes of this section and sections 731, 732, and 741 (but not for purposes of section 736), such term also includes mining property (as defined in section 617(f)(2)), stock in a DISC (as described in section 992(a)), section 1245 property (as defined in section 1245(a)(3)), stock in certain foreign corporations (as described in section 1248), section 1250 property (as defined in section 1250(c)), farm land (as defined in section 1252(a)),franchises, trademarks, or trade names (referred to in section 1253(a)), and an oil, gas, or geothermal property (described in section 1254) but only to the extent of the amount which would be treated as gain to which section 617(d)(1), 995(c), 1245(a), 1248(a), 1250(a), 1252(a), 1253(a), or 1254(a) would apply if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership at its fair market value. For purposes of this section and sections 731, 732, and 741 (but not for purposes of section 736), such term also includes any market discount bond (as defined in section 1278) and any short-term obligation (as defined in section 1283) but only to the extent of the amount which would be treated as ordinary income if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership.
 
 #### (d) Inventory items
 
@@ -198,7 +198,7 @@ Amendment by section 205(b) of Pub. L. 94–455 effective for taxable years endi
 
 Amendment by section 1042(c)(2) of Pub. L. 94–455 applicable to transfers beginning after Oct. 9, 1975, and to sales, exchanges and distributions taking place after that date, see section 1042(e)(1) of Pub. L. 94–455, set out as a note under section 367 of this title.
 
-Amendment by section 1101(d)(2) of Pub. L. 94–455 applicable to sales, exchanges, or other dispositions after Dec. 31, 1975, in taxable years ending after such date, see section 1101(g)(4) of Pub. L. 94–455, set out as a note under section 995 of this title.
+Amendment by section 1101(d)(2) of Pub. L. 94–455 applicable to sales, exchanges, or other dispositions afterDec. 31, 1975, in taxable years ending after such date, see section 1101(g)(4) of Pub. L. 94–455, set out as a note under section 995 of this title.
 
 Amendment by section 1901(a)(93) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -218,7 +218,7 @@ Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in
 
 #### Effective Date of 1962 Amendment
 
-Amendment by section 13(f)(1) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, seesection 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
+Amendment by section 13(f)(1) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, see section 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
 
 Amendment by section 14(b)(2) of Pub. L. 87–834 applicable with respect to taxable years beginning after Dec. 31, 1962, see section 14(c) of Pub. L. 87–834, set out as a note under section 312 of this title.
 

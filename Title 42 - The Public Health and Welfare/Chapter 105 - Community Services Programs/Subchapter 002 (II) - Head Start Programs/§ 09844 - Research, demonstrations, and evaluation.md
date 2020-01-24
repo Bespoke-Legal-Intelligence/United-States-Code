@@ -44,7 +44,7 @@ In carrying out activities under this section, the Secretary shall—
 
 &emsp;(2) whenever feasible and appropriate, obtain the views of persons participating in and served by programs and projects assisted under this subchapter with respect to activities under this section; and
 
-&emsp;(3) establish, to the extent appropriate, working relationships with the faculties of institutions of higher education, as defined insection 1001 of title 20, located in the area in which any evaluation under this section is being conducted, unless there is no such institution of higher education willing and able to participate in such evaluation.
+&emsp;(3) establish, to the extent appropriate, working relationships with the faculties of institutions of higher education, as defined in section 1001 of title 20, located in the area in which any evaluation under this section is being conducted, unless there is no such institution of higher education willing and able to participate in such evaluation.
 
 #### (d) Specific objectives
 
@@ -192,7 +192,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (2) Report
 
-&emsp;The Secretary shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than September 30, 2010, a report containing the results of the study, including information on—
+&emsp;The Secretary shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions ofthe Senate, not later than September 30, 2010, a report containing the results of the study, including information on—
 
 &emsp;&emsp;(A) the demographics of limited English proficient children from birth through age 5, including the number of such children receiving Head Start services and Early Head Start services, and the geographic distribution of children described in this subparagraph;
 
@@ -306,7 +306,7 @@ The Secretary shall—
 
 #### (2) Publication of plan
 
-&emsp;Not later than 1 year after December 12, 2007, the Secretary shall publish in the Federal Register a notice about how the Secretaryplans to implement the activities identified in paragraph (1) and shall provide a period for public comment. To the extent practicable, the Secretary shall consider comments received before implementing any of the activities identified in paragraph (1).
+&emsp;Not later than 1 year after December 12, 2007, the Secretary shall publish in the Federal Register a notice about how the Secretary plans to implement the activities identified in paragraph (1) and shall provide a period for public comment. To the extent practicable, the Secretary shall consider comments received before implementing any of the activities identified in paragraph (1).
 
 #### (3) Report
 
@@ -405,10 +405,6 @@ Subsecs. (g), (h). Pub. L. 105–285, §116(2), added subsecs. (g) and (h).
 Subsecs. (d) to (f). Pub. L. 101–501, §117(a)(2), added subsecs. (d) to (f).
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–558 added subsec. (c).
-
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1998 Amendment
 

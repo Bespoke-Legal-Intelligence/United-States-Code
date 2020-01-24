@@ -8,7 +8,7 @@
 
 (b)(1) To further assure the effective care and treatment of United States veterans in the Veterans Memorial Medical Center, there is authorized to be appropriated for each fiscal year during the period beginning on October 1, 1981, and ending on September 30, 1990, the sum of $1,000,000 to be used by the Secretary for making grants to the Veterans Memorial Medical Center for the purpose of assisting the Republic of the Philippines in the replacement and upgrading of equipment and in rehabilitating the physical plant and facilities of such center.
 
-(2) Grants under this subsection shall be made on such terms and conditions as prescribed by the Secretary. Such terms and conditions may include a requirement of prior approval by the Secretary of the uses of the funds provided by such grants.
+(2) Grants under this subsection shall be made on such terms and conditions as prescribed by the Secretary. Such terms and conditions mayinclude a requirement of prior approval by the Secretary of the uses of the funds provided by such grants.
 
 (3) Funds for such grants may be provided only from appropriations made to the Department for the specific purpose of making such grants.
 

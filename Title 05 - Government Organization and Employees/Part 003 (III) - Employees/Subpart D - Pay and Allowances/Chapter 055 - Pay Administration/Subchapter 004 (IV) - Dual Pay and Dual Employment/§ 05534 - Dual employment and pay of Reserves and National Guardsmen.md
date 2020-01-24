@@ -1,6 +1,6 @@
 ### §5534. Dual employment and pay of Reserves and National Guardsmen
 
-A Reserve of the armed forces or member of the National Guard may accept a civilian office or position under the Government of the United States or the government of the District of Columbia, and he is entitled to receive the pay of that office or position in addition to pay and allowances as a Reserve or member of the National Guard.
+A Reserve of the armed forces or member of the National Guard may accept a civilian office or position under the Government of the UnitedStates or the government of the District of Columbia, and he is entitled to receive the pay of that office or position in addition to pay and allowances as a Reserve or member of the National Guard.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 484.)
 

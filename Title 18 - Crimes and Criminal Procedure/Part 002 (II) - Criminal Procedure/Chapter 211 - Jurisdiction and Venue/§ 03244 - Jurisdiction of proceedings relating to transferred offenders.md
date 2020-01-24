@@ -2,7 +2,7 @@
 
 When a treaty is in effect between the United States and a foreign country providing for the transfer of convicted offenders—
 
-&emsp;(1) the country in which the offender was convicted shall have exclusive jurisdiction andcompetence over proceedings seeking to challenge, modify, or set aside convictions or sentences handed down by a court of such country;
+&emsp;(1) the country in which the offender was convicted shall have exclusive jurisdiction and competence over proceedings seeking to challenge, modify, or set aside convictions or sentences handed down by a court of such country;
 
 &emsp;(2) all proceedings instituted by or on behalf of an offender transferred from the United States to a foreign country seeking to challenge, modify, or set aside the conviction or sentence upon which the transfer was based shall be brought in the court which would have jurisdiction and competence if the offender had not been transferred;
 

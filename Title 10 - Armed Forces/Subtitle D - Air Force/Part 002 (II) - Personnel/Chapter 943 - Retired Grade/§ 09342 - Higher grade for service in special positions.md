@@ -1,6 +1,6 @@
 ### §9342. Higher grade for service in special positions
 
-Upon retirement, any permanent professor of the United States Air Force Academy whose grade is below brigadier general, and whose service as such a professor has been long and distinguished, may, in the discretion of the President, be retired in the grade of brigadier general.
+Upon retirement, any permanent professor of the United States Air Force Academy whosegrade is below brigadier general, and whose service as such a professor has been long and distinguished, may, in the discretion of the President, be retired in the grade of brigadier general.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 554, §8962; Pub. L. 85–861, §1(197), Sept. 2, 1958, 72 Stat. 1541; Pub. L. 89–288, §6, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 96–343, §13(b)(1), (2), Sept. 8, 1980, 94 Stat. 1131; Pub. L. 96–513, title V, §504(20), Dec. 12, 1980, 94 Stat. 2917; Pub. L. 104–106, div. A, title V, §502(c), (d)(1), Feb. 10, 1996, 110 Stat. 293; renumbered §9342, Pub. L. 115–232, div. A, title VIII, §806(b)(14), Aug. 13, 2018, 132 Stat. 1833.)
 
@@ -80,7 +80,7 @@ Pub. L. 96–343, §13(b)(1), substituted "Air Force who has" for "Regular Air F
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1980 Amendment
 

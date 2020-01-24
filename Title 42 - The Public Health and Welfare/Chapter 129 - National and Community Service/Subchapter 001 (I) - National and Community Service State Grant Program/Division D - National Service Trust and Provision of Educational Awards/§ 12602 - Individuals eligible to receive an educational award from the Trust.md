@@ -157,7 +157,7 @@ Pub. L. 111–13, title I, §1711, Apr. 21, 2009, 123 Stat. 1550, provided that:
 
 "(a)
 
-Study.—In order to reduce administrative burdens and lower costs for national service programs carried out under the national service laws, the Corporation shall conduct a study to determine the feasibility and effectiveness of implementing a data matching system under which the statements of an individual declaring that such individual is in compliance with therequirements of section 146(a)(3) of the National and Community Service Act of 1990 (42 U.S.C. 12602(a)(3)) shall be verified by the Corporation by comparing information provided by the individual with information relevant to such a declaration in the possession of other Federal agencies. Such study shall—
+Study.—In order to reduce administrative burdens and lower costs for national service programs carried out under the national service laws, the Corporation shall conduct a study to determine the feasibility and effectiveness of implementing a data matching system under which the statements of an individual declaring that such individual is in compliance with the requirements of section 146(a)(3) of the National and Community Service Act of 1990 (42 U.S.C. 12602(a)(3)) shall be verified by the Corporation by comparing information provided by the individual with information relevant to such a declaration in the possession of other Federal agencies. Such study shall—
 
 &emsp;"(1) review the feasibility of—
 

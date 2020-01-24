@@ -162,7 +162,7 @@ Transportation facilities included in the inventory.—For purposes of identifyi
 
 &emsp;&emsp;&emsp;(v) are public roads or bridges within the exterior boundary of Indian reservations, Alaska Native villages, and other recognized Indian communities (including communities in former Indian reservations in the State of Oklahoma) in which the majority of residents are American Indians or Alaska Natives;
 
-&emsp;&emsp;&emsp;(vi) are public roads within or providing access to an Indian reservation or Indian trust land or restricted Indian land that is not subject to fee title alienation without the approval of the Federal Government, or Indian or Alaska Native villages, groups, or communities in which Indians and Alaska Natives reside, whom the Secretary of the Interior has determined are eligible for services generally available to Indians under Federal laws specifically applicable to Indians; or
+&emsp;&emsp;&emsp;(vi) are public roads within or providing access to an Indian reservation or Indiantrust land or restricted Indian land that is not subject to fee title alienation without the approval of the Federal Government, or Indian or Alaska Native villages, groups, or communities in which Indians and Alaska Natives reside, whom the Secretary of the Interior has determined are eligible for services generally available to Indians under Federal laws specifically applicable to Indians; or
 
 &emsp;&emsp;&emsp;(vii) are primary access routes proposed by tribal governments, including roads between villages, roads to landfills, roads to drinking water sources, roads to natural resources identified for economic development, and roads that provide access to intermodal terminals, such as airports, harbors, or boat landings.
 
@@ -238,7 +238,7 @@ Tribal supplemental funding.—
 
 &emsp;&emsp;&emsp;(i)
 
-Tribal supplemental funding amount.—Of funds made available for each fiscal year for the tribal transportation program, the Secretary shall set aside the following amount for a tribal supplemental program:
+Tribal supplemental funding amount.—Of funds made available for eachfiscal year for the tribal transportation program, the Secretary shall set aside the following amount for a tribal supplemental program:
 
 &emsp;&emsp;&emsp;&emsp;(I) If the amount made available for the tribal transportation program is less than or equal to $275,000,000, 30 percent of such amount.
 
@@ -308,7 +308,7 @@ Contracts and agreements with indian tribes.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with <sup>1</sup> Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>1</sup>
+In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribaltransportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with <sup>1</sup> Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>1</sup>
 
 &emsp;&emsp;(B)
 
@@ -320,7 +320,7 @@ Contracts and agreements with indian tribes.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available to an Indian tribal government under this chapter for a tribal transportation facility program or project shall be made available,on the request of the Indian tribal government, to the Indian tribal government for use in carrying out, in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> contracts and agreements for the planning, research, design, engineering, construction, and maintenance relating to the program or project.
+In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available to an Indian tribal government under this chapter for a tribal transportation facility program or project shall be made available, on the request of the Indian tribal government, to the Indian tribal government for use in carrying out, in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> contracts and agreements for the planning, research, design, engineering, construction, and maintenance relating to the program or project.
 
 &emsp;&emsp;(B)
 
@@ -360,7 +360,7 @@ Powers.—An Indian tribal government receiving funding under subparagraph (A) f
 
 &emsp;&emsp;(I)
 
-Dispute resolution.—In the event of a disagreement between the Secretary or the Secretary of the Interior and an Indian tribe over whether a particular function, duty, or power may be lawfully transferred to the Indian tribe under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> the Indian tribe shall have the right to pursue all alternative dispute resolution and appeal procedures authorized by that Act, including regulations issued to carry out the Act.
+Dispute resolution.—In the event of a disagreement between the Secretary or the Secretary of the Interior and an Indian tribe over whether a particular function, duty, or power may be lawfully transferred to the Indian tribe under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> the Indian tribe shall have theright to pursue all alternative dispute resolution and appeal procedures authorized by that Act, including regulations issued to carry out the Act.
 
 &emsp;&emsp;(J)
 
@@ -444,7 +444,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 #### Prior Provisions
 
-A prior section 202, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 94–280, title I, §133, May 5, 1976, 90 Stat. 441; Pub. L. 97–424, title I, §126(a), Jan. 6, 1983, 96 Stat. 2113; Pub. L. 102–240, title I, §1032(a), Dec. 18, 1991, 105 Stat. 1974; Pub. L. 105–178, title I, §§1115(b), (e)(2), (f)(2), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 154, 158, 193; Pub. L. 105–206, title IX, §9002(i), July 22, 1998, 112 Stat. 836; Pub. L. 109–59, title I, §1119(c)–(g), Aug. 10, 2005, 119 Stat. 1182–1185, related to allocations, prior to repeal by Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473.
+A prior section 202, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 94–280, title I, §133, May 5, 1976, 90 Stat. 441; Pub. L. 97–424, title I, §126(a), Jan. 6, 1983, 96 Stat. 2113; Pub. L. 102–240, title I, §1032(a), Dec. 18, 1991, 105 Stat. 1974; Pub. L. 105–178, title I, §§1115(b), (e)(2), (f)(2), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 154, 158, 193; Pub. L. 105–206, title IX, §9002(i), July 22, 1998, 112 Stat.836; Pub. L. 109–59, title I, §1119(c)–(g), Aug. 10, 2005, 119 Stat. 1182–1185, related to allocations, prior to repeal by Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473.
 
 #### Amendments
 
@@ -466,7 +466,7 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 #### Tribal High Priority Projects Program
 
-Pub. L. 112–141, div. A, title I, §1123, July 6, 2012, 126 Stat. 497, as amended by Pub. L. 113–159, title I, §1001(b)(2), Aug. 8, 2014, 128 Stat. 1840; Pub. L. 114–21, title I, §1001(b)(2), May 29, 2015, 129 Stat. 219; Pub. L. 114–41, title I, §1001(b)(2), July 31, 2015, 129 Stat. 444; Pub. L. 114–73, title I, §1001(b)(2), Oct. 29, 2015, 129 Stat.569; Pub. L. 114–87, title I, §1001(b)(2), Nov. 20, 2015, 129 Stat. 678, provided that:
+Pub. L. 112–141, div. A, title I, §1123, July 6, 2012, 126 Stat. 497, as amended by Pub. L. 113–159, title I, §1001(b)(2), Aug. 8, 2014, 128 Stat. 1840; Pub. L. 114–21, title I, §1001(b)(2), May 29, 2015, 129 Stat. 219; Pub. L. 114–41, title I, §1001(b)(2), July 31, 2015, 129 Stat. 444; Pub. L. 114–73, title I, §1001(b)(2), Oct. 29, 2015, 129 Stat. 569; Pub. L. 114–87, title I, §1001(b)(2), Nov. 20, 2015, 129 Stat. 678, provided that:
 
 "(a)
 
@@ -736,7 +736,7 @@ Supplementary funding.—For each fiscal year, the Secretary shall ensure that f
 
 "(4)
 
-Use of unallocated funds.—Any portion of the funds made available to a State under this subsection that is not made available to counties within 1 year after the funds are made available to the State shall be apportioned among the States in accordance with section 104(b) of title 23, United States Code.
+Use of unallocated funds.—Any portion of the funds made available to a State under this subsection that is not made available to counties within 1 yearafter the funds are made available to the State shall be apportioned among the States in accordance with section 104(b) of title 23, United States Code.
 
 "(5)
 

@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 #### (1) Antitrust laws
 
-&emsp;The term "antitrust laws" has the meaning given to such term in subsection (a) of section 12 of title 15, except that such term includes section 45 of title 15 to the extent that such section 45 applies to unfair methods of competition.
+&emsp;The term "antitrust laws" has the meaning given to such term in subsection (a) of section 12 of title 15, except that such term includessection 45 of title 15 to the extent that such section 45 applies to unfair methods of competition.
 
 #### (2) Plan of action
 
@@ -36,7 +36,7 @@ For purposes of this chapter—
 
 #### (e) Rules; promulgation by Presidential designees; consultation by Attorney General with Chairman of Federal Trade Commission; approval of Attorney General; procedures; incorporation of standards and procedures for development of agreements and plans of action
 
-(1) The individual or individuals referred to in subsection (c)(2) shall, after approval of the Attorney General, after consultation by the Attorney General with the Chairman of the Federal Trade Commission, promulgate rules, in accordance with section 553 of title 5, incorporating standards and procedures by which voluntaryagreements and plans of action may be developed and carried out.
+(1) The individual or individuals referred to in subsection (c)(2) shall, after approval of the Attorney General, after consultation by the Attorney General with the Chairman of the Federal Trade Commission, promulgate rules, in accordance with section 553 of title 5, incorporating standards and procedures by which voluntary agreements and plans of action may be developed and carried out.
 
 (2) In addition to the requirements of section 553 of title 5—
 
@@ -104,7 +104,7 @@ The rules promulgated under subsection (e) with respect to the carrying out of v
 
 &emsp;(1) for the maintenance, by participants in any voluntary agreement or plan of action, of documents, minutes of meetings, transcripts, records, and other data related to the carrying out of any voluntary agreement or plan of action;
 
-&emsp;(2) that participants in any voluntary agreement or plan of action agree, in writing, to make available to the individual designated by the President in subsection (c)(2) to administer the voluntary agreement or plan of action, the Attorney General and the Chairman of the Federal Trade Commission for inspection and copying at reasonable times and uponreasonable notice any item maintained pursuant to paragraph (1);
+&emsp;(2) that participants in any voluntary agreement or plan of action agree, in writing, to make available to the individual designated by the President in subsection (c)(2) to administer the voluntary agreement or plan of action, the Attorney General and the Chairman of the Federal Trade Commission for inspection and copying at reasonable times and upon reasonable notice any item maintained pursuant to paragraph (1);
 
 &emsp;(3) that any item made available to the individual designated by the President in subsection (c)(2) to administer the voluntary agreement or plan of action, the Attorney General, or the Chairman of the Federal Trade Commission pursuant to paragraph (2) shall be available from such individual, the Attorney General, or the Chairman of the Federal Trade Commission, as the case may be, for public inspection and copying, subject to paragraph (1), (3), or (4) of section 552(b) of title 5;
 
@@ -170,7 +170,7 @@ The Attorney General and the Federal Trade Commission shall each make surveys fo
 
 #### (l) Annual report to Congress and President by Presidential designees; contents
 
-The individual or individuals designated by the President in subsection (c)(2) shall submit to the Congress and the President at least once every year reports describing each voluntary agreement or plan of action in effect and its contribution to achievement of the purpose of subsection (c)(1).
+The individual or individuals designated by the President in subsection (c)(2) shall submit tothe Congress and the President at least once every year reports describing each voluntary agreement or plan of action in effect and its contribution to achievement of the purpose of subsection (c)(1).
 
 #### (m) Jurisdiction to enjoin statutory exemption or suspension and order for production of transcripts, etc.; procedures
 

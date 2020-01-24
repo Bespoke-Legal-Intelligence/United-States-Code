@@ -144,7 +144,7 @@ Maintenance of Effort.—The Chief of the National Guard Bureau shall ensure tha
 
 "(e)
 
-Coordination Among Programs.—In carrying out the pilot program under subsection (a), the Chief of the National Guard Bureau shall consult with the Secretary of Health and Human Services for the purpose ofensuring that the provision of services under the pilot program are not redundant with the services of programs of such Secretary.
+Coordination Among Programs.—In carrying out the pilot program under subsection (a), the Chief of the National Guard Bureau shall consult with the Secretary of Health and Human Services for the purpose of ensuring that the provision of services under the pilot program are not redundant with the services of programs of such Secretary.
 
 "(f)
 

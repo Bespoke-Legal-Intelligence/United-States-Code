@@ -112,7 +112,7 @@
 
 (2) Interest accrues annually on the outstanding portion of any amount that may be deposited under subsection (c), (d)(1), (j), (k), or (l) of this section, and is compounded annually, until the portion is deposited. Such interest is computed from the mid-point of each service period included in the computation, or from the date refund was paid. The deposit may be made in one or more installments. Interest may not be charged for a period of separation from the service which began before October 1, 1956.
 
-(3) The rate of interest is 4 percent a year through December 31, 1947, and 3 percent a year beginning January 1, 1948, through December 31, 1984. Thereafter, the rate of interest for any calendar year shall be equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 8348(c), (d), and (e) of this title, as determined by the Secretary.
+(3) The rate of interest is 4 percent a year through December 31, 1947, and 3 percent a year beginning January 1, 1948, through December 31, 1984. Thereafter, the rate of interest for any calendar year shall be equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal yearunder section 8348(c), (d), and (e) of this title, as determined by the Secretary.
 
 (f) Under such regulations as the Office of Personnel Management may prescribe, amounts deducted under subsection (a) or (k) of this section and deposited under subsections (c) and (d)(1) of this section shall be entered on individual retirement records.
 
@@ -132,7 +132,7 @@
 
 (h) For the purpose of survivor annuities, deposits authorized by subsections (c), (d)(1), (j), and (k) of this section may also be made by a survivor of an employee or Member.
 
-(i)(1) The Director of the Administrative Office of the United States Courts shall pay to the Fund the amount which an employee may deposit under subsection (c) of this section forservice creditable under section 8332(b)(12) of this title if such creditable service immediately precedes service as an employee subject to this subchapter with a break in service of no more than ninety working days. The Director shall pay such amount from any appropriation available to him as a necessary expense of the appropriation concerned.
+(i)(1) The Director of the Administrative Office of the United States Courts shall pay to the Fund the amount which an employee may deposit under subsection (c) of this section for service creditable under section 8332(b)(12) of this title if such creditable service immediately precedes service as an employee subject to this subchapter with a break in service of no more than ninety working days. The Director shall pay such amount from any appropriation available to him as a necessary expense of the appropriation concerned.
 
 (2) The amount the Director pays in accordance with paragraph (1) of this subsection shall be reduced by the amount of any refund to the employee under section 376 of title 28. Except to the extent of such reduction, the amount the Director pays to the Fund shall satisfy the deposit requirement of subsection (c) of this section.
 
@@ -338,7 +338,7 @@ Subsec. (c). Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(1)(B)\], in tabl
 
 Pub. L. 106–346, in tables relating to an employee, a Member or employee for Congressional employee service, a law enforcement officer for law enforcement service and firefighter for firefighter service, a bankruptcy judge, a judge of the United States Court of Appeals for the Armed Forces for service as a judge of that court, a United States magistrate judge, a Court of Federal Claims judge, a member of the Capitol Police, and a nuclear materials courier, substituted item relating to service period after December 31, 2000, for former items relating to service periods January 1, 2001, to December 31, 2002, and after December 31, 2002.
 
-<b>1999</b>—Subsec. (c). Pub. L. 106–65, in table relating to nuclear materials courier, substituted "October 16, 1998" for "the day before the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999" and "October 17, 1998" for "The date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999".
+<b>1999</b>—Subsec. (c). Pub. L. 106–65, in table relating to nuclear materials courier, substituted "October 16,1998" for "the day before the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999" and "October 17, 1998" for "The date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999".
 
 <b>1998</b>—Subsec. (a)(1). Pub. L. 105–261, §3154(c)(1), substituted "member of the Capitol Police, or nuclear materials courier," for "or member of the Capitol Police,".
 
@@ -354,7 +354,7 @@ Pub. L. 105–33, §7001(a)(3)(B)(vii), in table relating to a United States mag
 
 Pub. L. 105–33, §7001(a)(3)(B)(vi), in table relating to a judge of the United States Court of Appeals for the Armed Forces for service as a judge of that court, substituted items relating to service periods on and after the date of enactment of the Department of Defense Authorization Act, 1984, to after December 31, 2002, for former item relating to service period on and after the date of the enactment of the Department of Defense Authorization Act, 1984.
 
-Pub. L. 105–33, §7001(a)(3)(B)(v), in table relating to a bankruptcy judge, substituted items relating to service periods January 1, 1984, to after December 31, 2002, forformer item relating to service period after December 31, 1983.
+Pub. L. 105–33, §7001(a)(3)(B)(v), in table relating to a bankruptcy judge, substituted items relating to service periods January 1, 1984, to after December 31, 2002, for former item relating to service period after December 31, 1983.
 
 Pub. L. 105–33, §7001(a)(3)(B)(iv), in table relating to a law enforcement officer for law enforcement service and firefighter for firefighter service, substituted items relating to service periods January 1, 1975, to after December 31, 2002, for former item relating to service period after December 31, 1974.
 
@@ -456,7 +456,7 @@ Subsec. (g)(4). Pub. L. 98–129 substituted "October 29, 1983," for "January 1,
 
 Subsec. (j)(2)(A). Pub. L. 98–94, §1257, substituted "October 1, 1983" for "October 1, 1982".
 
-<b>1982</b>—Subsec. (e). Pub. L. 97–253, §303(a)(1), redesignated existing provisions as par. (2), inserted provisionthat interest accrues annually on the outstanding portion of any amount that may be deposited under subsec. (c), (d), or (j) of this section, and is compounded annually until the portion is deposited, substituted "Such interest" for "Interest under subsection (c) or (d) of this section", struck out ", to the date of deposit or commencing date of annuity, whichever is earlier" after "date refund was paid", and struck out provision that the interest was computed at the rate of four percent a year to Dec. 31, 1947, and 3 percent thereafter compounded annually, and added pars. (1) and (3).
+<b>1982</b>—Subsec. (e). Pub. L. 97–253, §303(a)(1), redesignated existing provisions as par. (2), inserted provision that interest accrues annually on the outstanding portion of any amount that may be deposited under subsec. (c), (d), or (j) of this section, and is compounded annually until the portion is deposited, substituted "Such interest" for "Interest under subsection (c) or (d) of this section", struck out ", to the date of deposit or commencing date of annuity, whichever is earlier" after "date refund was paid", and struck out provision that the interest was computed at the rate of four percent a year to Dec. 31, 1947, and 3 percent thereafter compounded annually, and added pars. (1) and (3).
 
 Subsec. (e)(3). Pub. L. 97–346, §3(c), substituted "the preceding fiscal year" for "the preceding calendar year" and "during such fiscal year" for "during such calendar year".
 
@@ -508,7 +508,7 @@ Pub. L. 111–84, div. A, title XIX, §1902(b), Oct. 28, 2009, 123 Stat. 2615, p
 
 #### Effective Date of 2007 Amendment; Transition Rules
 
-Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
+Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay periodbeginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -586,7 +586,7 @@ Pub. L. 100–238, title I, §108(b)(3), Jan. 8, 1988, 101 Stat. 1748, provided 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–53 effective Oct. 1, 1987, and applicable to bankruptcy judges and United States magistrate judges in office on that date and to individuals subsequently appointed to such positions to whom this chapter otherwise applies, see section 3 of Pub. L. 100–53, as amended, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 100–53 effective Oct. 1, 1987, and applicable to bankruptcy judges and United States magistrate judges in office on that date and to individuals subsequently appointed to such positions to whomthis chapter otherwise applies, see section 3 of Pub. L. 100–53, as amended, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1986 Amendment
 

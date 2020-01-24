@@ -12,7 +12,7 @@ It is the sense of Congress that the United States should use all appropriate di
 
 #### (1) In general
 
-&emsp;The Secretary of State shall submit reports to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives, in accordance with this paragraph, on the status of contributions of assistance from donor states to Afghanistan. The first report shall be submittednot later than 60 days after December 4, 2002, the second report shall be submitted 90 days thereafter, and subsequent reports shall be submitted every 180 days thereafter through December 31, 2004.
+&emsp;The Secretary of State shall submit reports to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives, in accordance with this paragraph, on the status of contributions of assistance from donor states to Afghanistan. The first report shall be submitted not later than 60 days after December 4, 2002, the second report shall be submitted 90 days thereafter, and subsequent reports shall be submitted every 180 days thereafter through December 31, 2004.
 
 #### (2) Further requirements
 

@@ -40,7 +40,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §305(b) (1st–3d, last sentenc
 
 Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §306(h); added Nov. 3, 1973, Pub. L. 93–146, §7, 87 Stat. 551.
 
-In subsection (a), the words "and to better accomplish the purposes of this chapter" and "modify its services to" are omitted as surplus. The words "a department, agency, or instrumentality of the United States Government" are substituted for "Federal departments and agencies" for consistency in the revised title and with other titles of the United States Code. The words "consistent with the provisions of existing law" are omitted as surplus.
+In subsection (a), the words "and to better accomplish the purposes of this chapter" and "modify itsservices to" are omitted as surplus. The words "a department, agency, or instrumentality of the United States Government" are substituted for "Federal departments and agencies" for consistency in the revised title and with other titles of the United States Code. The words "consistent with the provisions of existing law" are omitted as surplus.
 
 In subsection (b)(1), before clause (A), the words "A person primarily providing auto-ferry transportation and any other person not a rail carrier may provide" are substituted for "except that nothing contained in this chapter shall prevent any other person, other than a railroad (except that for purposes of this section a person primarily engaged in auto-ferry service shall not be deemed to be a railroad), from providing such" to eliminate unnecessary words. The text of 45:545(b) (2d sentence words after "the public") is omitted as obsolete.
 

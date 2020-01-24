@@ -620,6 +620,7 @@
 | [1098e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098e%20-%20Income-based%20repayment.md) | Income-based repayment. |
 | [1098f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098f%20-%20Deferral%20of%20loan%20repayment%20following%20active%20duty.md) | Deferral of loan repayment following active duty. |
 | [1098g.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098g%20-%20Exemption%20from%20State%20disclosure%20requirements.md) | Exemption from State disclosure requirements. |
+| [1098h.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098h%20-%20Procedure%20and%20requirements%20for%20requesting%20tax%20return%20information%20from%20the%20Internal%20Revenue%20Service.md) | Procedure and requirements for requesting tax return information from the Internal Revenue Service. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

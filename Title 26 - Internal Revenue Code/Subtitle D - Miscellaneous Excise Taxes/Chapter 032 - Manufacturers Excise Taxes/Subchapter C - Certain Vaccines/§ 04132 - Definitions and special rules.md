@@ -166,7 +166,7 @@ Pub. L. 109–432, div. A, title IV, §408(c), Dec. 20, 2006, 120 Stat. 2962, pr
 
 "(1)
 
-Sales, etc.—The amendments made by this section \[amending this section\] shall apply to sales and uses on or after the first day of the first month which begins more than 4 weeks after the date of the enactment of this Act \[Dec. 20, 2006\].
+Sales, etc.—The amendments made by this section \[amending this section\] shall apply to sales anduses on or after the first day of the first month which begins more than 4 weeks after the date of the enactment of this Act \[Dec. 20, 2006\].
 
 "(2)
 

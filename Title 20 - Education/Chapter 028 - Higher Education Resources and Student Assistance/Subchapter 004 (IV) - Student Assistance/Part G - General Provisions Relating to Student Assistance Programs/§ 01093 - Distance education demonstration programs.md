@@ -42,7 +42,7 @@ It is the purpose of this section—
 
 #### (D) Requirement
 
-&emsp;&emsp;Notwithstanding any other provision of this paragraph, Western Governors University shall be considered eligible to participate in the demonstration program authorized under this section. In addition to thewaivers described in paragraph (2), the Secretary may waive the provisions of subchapter I and this part and part H of this subchapter for such university that the Secretary determines to be appropriate because of the unique characteristics of such university. In carrying out the preceding sentence, the Secretary shall ensure that adequate program integrity and accountability measures apply to such university's participation in the demonstration program authorized under this section.
+&emsp;&emsp;Notwithstanding any other provision of this paragraph, Western Governors University shall be considered eligible to participate in the demonstration program authorized under this section. In addition to the waivers described in paragraph (2), the Secretary may waive the provisions of subchapter I and this part and part H of this subchapter for such university that the Secretary determines to be appropriate because of the unique characteristics of such university. In carrying out the preceding sentence, the Secretary shall ensure that adequate program integrity and accountability measures apply to such university's participation in the demonstration program authorized under this section.
 
 #### (c) Application
 
@@ -136,7 +136,7 @@ In conducting the demonstration program authorized under this section, the Secre
 
 #### (h) "Distance education" defined
 
-For the purpose of this section, the term "distance education" means an educational process that is characterized by the separation, in time or place, between instructor and student. Such term may include courses offered principally through the use of—
+For the purpose of this section, the term "distance education" means an educational process that is characterized by the separation, in timeor place, between instructor and student. Such term may include courses offered principally through the use of—
 
 &emsp;(1) television, audio, or computer transmission, such as open broadcast, closed circuit, cable, microwave, or satellite transmission;
 

@@ -38,7 +38,7 @@ Pub. L. 91–177, §1, Dec. 30, 1969, 83 Stat. 827, provided: "That this Act \[e
 
 #### Short Title of 1967 Amendment
 
-Pub. L. 90–222, §1, Dec. 23, 1967, 81 Stat. 672, provided: "That this Act \[enacting sections 2702, 2703, 2723 to 2729, 2737 to 2749, 2763 to 2768, 2795 to 2797, 2808 to 2812, 2823 to 2826, 2832 to 2837, 2862 to 2864, 2906a, 2906b, 2906c, 2931 to 2933, 2946, 2971, 2972 to 2980, 2992, 2992a, 2992b, 2993, 2993a, 2993b, 2994, 2994a, 2994b, 2994c, and 2994d of this title, amending sections 2711 to 2721, 2781, 2790, 2791, 2841, 2851, 2861, 2901, 2902, 2906, 2907, 2921 to 2925, 2941 to 2944, 2949 to 2951, 2961 to 2963, 2966, 2981, and 2991 of this title and section 105 of Title 3, The President, omitting sections 2722, 2732 to 2736, 2761, 2762, 2782 to 2789, 2792 to 2794, 2821, 2822, 2831, and 2991a to 2991e of this title, redesignating section 2946 as section 2855 of this title, and enacting provisions set out as notes under section 2702 of this title\] may be cited as the 'Economic Opportunity Amendments of 1967'."
+Pub. L. 90–222, §1, Dec. 23, 1967, 81 Stat. 672, provided: "That this Act \[enacting sections 2702, 2703, 2723 to 2729, 2737 to 2749, 2763 to 2768, 2795 to 2797, 2808 to 2812, 2823 to 2826, 2832 to 2837, 2862 to 2864, 2906a, 2906b, 2906c, 2931 to 2933, 2946, 2971, 2972 to 2980, 2992, 2992a, 2992b, 2993, 2993a, 2993b, 2994, 2994a, 2994b, 2994c, and 2994d of this title, amending sections 2711 to 2721, 2781, 2790, 2791, 2841, 2851, 2861, 2901, 2902, 2906, 2907, 2921 to 2925, 2941 to 2944, 2949 to 2951, 2961 to 2963, 2966, 2981, and 2991 of this title and section 105 of Title 3, The President, omitting sections 2722, 2732 to 2736, 2761, 2762, 2782 to 2789, 2792 to 2794, 2821, 2822, 2831, and 2991a to 2991e of this title, redesignating section 2946 as section 2855 of this title, and enacting provisions set out as notes under section 2702of this title\] may be cited as the 'Economic Opportunity Amendments of 1967'."
 
 #### Short Title of 1966 Amendment
 
@@ -46,7 +46,7 @@ Pub. L. 89–794, §1, Nov. 8, 1966, 80 Stat. 1451, provided: "That this Act \[e
 
 #### Short Title of 1965 Amendment
 
-Pub. L. 89–253, §1, Oct. 9, 1965, 79 Stat. 973, provided: "That this Act \[amending sections 2713, 2714, 2716, 2720,2734, 2735, 2754, 2761, 2782, 2785, 2788, 2789, 2802, 2805, 2807, 2822, 2831, 2851, 2854, 2861, 2871, 2881, 2922, 2923, 2943, 2945, 2965, and 2966 of this title and section 425 of Title 20, Education, and enacted sections 2806a, 2950, and 2967 of this title\] may be cited as the 'Economic Opportunity Amendments of 1965'."
+Pub. L. 89–253, §1, Oct. 9, 1965, 79 Stat. 973, provided: "That this Act \[amending sections 2713, 2714, 2716, 2720, 2734, 2735, 2754, 2761, 2782, 2785, 2788, 2789, 2802, 2805, 2807, 2822, 2831, 2851, 2854, 2861, 2871, 2881, 2922, 2923, 2943, 2945, 2965, and 2966 of this title and section 425 of Title 20, Education, and enacted sections 2806a, 2950, and 2967 of this title\] may be cited as the 'Economic Opportunity Amendments of 1965'."
 
 #### Short Title
 

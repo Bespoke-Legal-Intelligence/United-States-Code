@@ -34,7 +34,7 @@ The Secretary may carry out this section in a manner that recognizes the differe
 
 #### (2) Waivers
 
-&emsp;If the Secretary establishes a matching requirement under paragraph (1), the Secretary shall retain an option to waive the requirement for an eligible institution for any fiscalyear if the Secretary determines that the institution will be unlikely to meet the matching requirement for the fiscal year.
+&emsp;If the Secretary establishes a matching requirement under paragraph (1), the Secretary shall retain an option to waive the requirement for an eligible institution for any fiscal year if the Secretary determines that the institution will be unlikely to meet the matching requirement for the fiscal year.
 
 #### (f) Authorization of appropriations
 

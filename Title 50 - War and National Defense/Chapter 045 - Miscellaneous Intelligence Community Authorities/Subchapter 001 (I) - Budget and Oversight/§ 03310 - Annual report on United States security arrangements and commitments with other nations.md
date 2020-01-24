@@ -10,7 +10,7 @@ The President shall include in each such report the following:
 
 &emsp;(1) A description of—
 
-&emsp;&emsp;(A) each security arrangement with, or commitment to, other nations, whether based upon (i) a formal document (including a mutual defense treaty, a pre-positioning arrangement or agreement, or an access agreement), or (ii) an expressed policy; and
+&emsp;&emsp;(A) each security arrangement with, or commitment to, other nations, whether based upon (i) a formal document (including a mutual defense treaty, a pre-positioningarrangement or agreement, or an access agreement), or (ii) an expressed policy; and
 
 &emsp;&emsp;(B) the historical origins of each such arrangement or commitment.
 

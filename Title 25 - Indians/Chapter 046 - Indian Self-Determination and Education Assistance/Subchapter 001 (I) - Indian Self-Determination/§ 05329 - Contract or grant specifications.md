@@ -122,7 +122,7 @@ Joint use agreements.—Upon the request of the Contractor, the Secretary and th
 
 &emsp;&emsp;"(D)
 
-Acquisition of property.—The Contractor is granted the authority to acquire such excess property as the Contractor may determine to be appropriate in the judgment of the Contractor to support the programs, services, functions, and activities operated pursuant to this Contract.
+Acquisition of property.—The Contractor is granted the authority to acquiresuch excess property as the Contractor may determine to be appropriate in the judgment of the Contractor to support the programs, services, functions, and activities operated pursuant to this Contract.
 
 &emsp;&emsp;"(E)
 
@@ -168,7 +168,7 @@ Third-party mediation defined.—For the purposes of this Contract, the term 'th
 
 &emsp;&emsp;"(B)
 
-Alternative procedures.—In addition to, or as an alternative to, remedies and procedures prescribed by section 110 of the Indian Self-Determination and EducationAssistance Act (25 U.S.C. 450m–1),<sup>1</sup> the parties to this Contract may jointly—
+Alternative procedures.—In addition to, or as an alternative to, remedies and procedures prescribed by section 110 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450m–1),<sup>1</sup> the parties to this Contract may jointly—
 
 &emsp;&emsp;&emsp;"(i) submit disputes under this Contract to third-party mediation;
 
@@ -268,7 +268,7 @@ Construction of contract.—Nothing in this Contract may be construed to termina
 
 &emsp;"(2)
 
-Good faith.—To the extent that health programs are included in this Contract, and within available funds, the Secretary shall actin good faith in cooperating with the Contractor to achieve the goals set forth in the Indian Health Care Improvement Act (25 U.S.C. 1601 et seq.).
+Good faith.—To the extent that health programs are included in this Contract, and within available funds, the Secretary shall act in good faith in cooperating with the Contractor to achieve the goals set forth in the Indian Health Care Improvement Act (25 U.S.C. 1601 et seq.).
 
 &emsp;"(3)
 
@@ -318,7 +318,7 @@ Annual funding agreement.—
 
 In general.—The annual funding agreement under this Contract shall only contain—
 
-&emsp;&emsp;&emsp;"(i) terms that identify the programs, services, functions, and activities to be performed or administered, the general budget category assigned, the funds to be provided, and the time and method of payment; and
+&emsp;&emsp;&emsp;"(i) terms that identify the programs, services, functions, and activities to beperformed or administered, the general budget category assigned, the funds to be provided, and the time and method of payment; and
 
 &emsp;&emsp;&emsp;"(ii) such other provisions, including a brief description of the programs, services, functions, and activities to be performed (including those supported by financial resources other than those provided by the Secretary), to which the parties agree.
 

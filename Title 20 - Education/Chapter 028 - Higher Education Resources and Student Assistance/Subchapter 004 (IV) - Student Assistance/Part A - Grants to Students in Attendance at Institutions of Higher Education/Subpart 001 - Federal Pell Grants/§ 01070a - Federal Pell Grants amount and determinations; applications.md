@@ -2,7 +2,7 @@
 
 #### (a) Program authority and method of distribution
 
-(1) For each fiscal year through fiscal year 2017, the Secretary shall pay to each eligible institution such sums as may be necessary to pay to each eligible student (defined in accordance with section 1091 of this title) for each academic year during which that student is in attendance at an institution of higher education, as an undergraduate, a Federal Pell Grant in the amount for which that student is eligible, as determined pursuant to subsection (b). Not less than 85 percent of such sums shall be advanced to eligible institutions prior to the start of each payment period and shall be based upon an amount requested by the institution as needed to pay eligible students until such time as the Secretary determines and publishes in the Federal Register with an opportunity for comment, an alternative payment system that provides paymentsto institutions in an accurate and timely manner, except that this sentence shall not be construed to limit the authority of the Secretary to place an institution on a reimbursement system of payment.
+(1) For each fiscal year through fiscal year 2017, the Secretary shall pay to each eligible institution such sums as may be necessary to pay to each eligible student (defined in accordance with section 1091 of this title) for each academic year during which that student is in attendance at an institution of higher education, as an undergraduate, a Federal Pell Grant in the amount for which that student is eligible, as determined pursuant to subsection (b). Not less than 85 percent of such sums shall be advanced to eligible institutions prior to the start of each payment period and shall be based upon an amount requested by the institution as needed to pay eligible students until such time as the Secretary determines and publishes in the Federal Register with an opportunity for comment, an alternative payment system that provides payments to institutions in an accurate and timely manner, except that this sentence shall not be construed to limit the authority of the Secretary to place an institution on a reimbursement system of payment.
 
 (2) Nothing in this section shall be interpreted to prohibit the Secretary from paying directly to students, in advance of the beginning of the academic term, an amount for which they are eligible, in cases where the eligible institution elects not to participate in the disbursement system required by paragraph (1).
 
@@ -20,7 +20,7 @@
 
 &emsp;(iii) an amount equal to the amount determined to be the expected family contribution with respect to that student for that year.
 
-(B) In any case where a student attends an institution of higher education on less than a full-time basis (including a student who attends an institution of higher education on less than a half-time basis) during any academic year, the amount of the Federal Pell Grant to which that student is entitled shall be reduced in proportion to the degree to which that student is not so attending on a full-time basis, in accordance with a schedule of reductions established by the Secretary for the purposes of this division, computed in accordance with this subpart. Such schedule of reductions shall be established by regulation and published in the Federal Register in accordance with section 1089 of this title.
+(B) In any case where a student attends an institution of higher education on less than a full-time basis (including a student who attends an institution of higher education on less than a half-time basis) during any academic year, the amount of the Federal Pell Grant to which that student is entitled shall be reduced in proportion to the degree to which that student is not so attending on a full-time basis, in accordance with a schedule of reductions established by the Secretary for the purposes of this division, computed in accordance with this subpart. Suchschedule of reductions shall be established by regulation and published in the Federal Register in accordance with section 1089 of this title.
 
 (3) No Federal Pell Grant under this subpart shall exceed the difference between the expected family contribution for a student and the cost of attendance (as defined in section 1087ll of this title) at the institution at which that student is in attendance. If, with respect to any student, it is determined that the amount of a Federal Pell Grant plus the amount of the expected family contribution for that student exceeds the cost of attendance for that year, the amount of the Federal Pell Grant shall be reduced until the combination of expected family contribution and the amount of the Federal Pell Grant does not exceed the cost of attendance at such institution.
 
@@ -64,9 +64,9 @@ In general.—There are authorized to be appropriated, and there are appropriate
 
 &emsp;&emsp;&emsp;(IX) $1,370,000,000 for fiscal year 2019;
 
-&emsp;&emsp;&emsp;(X) $1,430,000,000 for fiscal year 2020; and
+&emsp;&emsp;&emsp;(X) $1,455,000,000 for fiscal year 2020; and
 
-&emsp;&emsp;&emsp;(XI) $1,145,000,000 for fiscal year 2021 and each succeeding fiscal year.
+&emsp;&emsp;&emsp;(XI) $1,170,000,000 for fiscal year 2021 and each succeeding fiscal year.
 
 &emsp;(B)
 
@@ -146,7 +146,7 @@ Availability of funds.—The amounts made available by subparagraph (A) for any 
 
 (1) The period during which a student may receive Federal Pell Grants shall be the period required for the completion of the first undergraduate baccalaureate course of study being pursued by that student at the institution at which the student is in attendance except that any period during which the student is enrolled in a noncredit or remedial course of study as defined in paragraph (2) shall not be counted for the purpose of this paragraph.
 
-(2) Nothing in this section shall exclude from eligibility courses of study which are noncredit or remedial in nature (including courses in English language instruction) which are determined by the institution to be necessary to help the student be prepared for the pursuit of a firstundergraduate baccalaureate degree or certificate or, in the case of courses in English language instruction, to be necessary to enable the student to utilize already existing knowledge, training, or skills. Nothing in this section shall exclude from eligibility programs of study abroad that are approved for credit by the home institution at which the student is enrolled.
+(2) Nothing in this section shall exclude from eligibility courses of study which are noncredit or remedial in nature (including courses in English language instruction) which are determined by the institution to be necessary to help the student be prepared for the pursuit of a first undergraduate baccalaureate degree or certificate or, in the case of courses in English language instruction, to be necessary to enable the student to utilize already existing knowledge, training, or skills. Nothing in this section shall exclude from eligibility programs of study abroad that are approved for credit by the home institution at which the student is enrolled.
 
 (3) No student is entitled to receive Pell Grant payments concurrently from more than one institution or from the Secretary and an institution.
 
@@ -210,7 +210,7 @@ Any institution of higher education which enters into an agreement with the Secr
 
 &emsp;No institution may be subject to the terms of this subsection unless the institution has had the opportunity to appeal the institution's default rate determination under regulations issued by the Secretary for the loan program authorized under part B or D, as applicable. This subsection shall not apply to an institution that was not participating in the loan program authorized under part B or D on October 7, 1998, unless the institution subsequently participates in the loan programs.
 
-(Pub. L. 89–329, title IV, §401, formerly §411, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1309; amended Pub. L. 100–50, §3(a), June 3, 1987, 101 Stat. 337; renumbered §401 and amended Pub. L. 102–325, title IV, §§401(a)–(h), 402(a)(3), July 23, 1992, 106 Stat. 479–482; Pub. L. 103–208, §2(b)(1)–(5), (k)(1), Dec. 20, 1993, 107 Stat. 2458, 2485; Pub. L. 103–322, title II, §20411(a), Sept. 13, 1994, 108 Stat. 1828; Pub. L. 105–244, title IV, §401(a)–(f), (g)(3), (4), Oct. 7, 1998, 112 Stat. 1650–1652; Pub. L. 110–84, title I, §§101(a), 102, Sept. 27, 2007, 121 Stat. 784; Pub. L. 110–315, title I, §103(b)(3), title IV, §401(a)(1), (b), (c)(1), Aug. 14, 2008, 122 Stat. 3088, 3188, 3189; Pub. L. 111–5, div. A, title VIII, §806, Feb. 17, 2009, 123 Stat. 190; Pub. L. 111–39, title IV, §401(a)(2), (3), July 1, 2009, 123 Stat. 1938; Pub. L. 111–152, title II, §2101(a), (b)(1), Mar. 30, 2010, 124 Stat. 1071, 1073; Pub. L. 112–10, div. B, title VIII, §1860(a), Apr. 15, 2011, 125 Stat. 169; Pub. L. 112–25, title V, §501, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–74, div. F, title III, §309(a), (f), Dec. 23, 2011, 125 Stat. 1100, 1103; Pub. L. 113–235, div. G, title III, §309(b), Dec. 16, 2014, 128 Stat. 2506; Pub. L. 114–113, div. H, title III, §313(2), Dec. 18, 2015, 129 Stat. 2639; Pub. L. 115–31, div. H, title III, §310, May 5, 2017, 131 Stat. 552; Pub. L. 115–141, div. H, title III, §310, Mar. 23, 2018, 132 Stat. 750; Pub. L. 115–245, div. B, title III, §311, Sept. 28, 2018, 132 Stat. 3106.)
+(Pub. L. 89–329, title IV, §401, formerly §411, as added Pub. L. 99–498, title IV, §401(a), Oct. 17,1986, 100 Stat. 1309; amended Pub. L. 100–50, §3(a), June 3, 1987, 101 Stat. 337; renumbered §401 and amended Pub. L. 102–325, title IV, §§401(a)–(h), 402(a)(3), July 23, 1992, 106 Stat. 479–482; Pub. L. 103–208, §2(b)(1)–(5), (k)(1), Dec. 20, 1993, 107 Stat. 2458, 2485; Pub. L. 103–322, title II, §20411(a), Sept. 13, 1994, 108 Stat. 1828; Pub. L. 105–244, title IV, §401(a)–(f), (g)(3), (4), Oct. 7, 1998, 112 Stat. 1650–1652; Pub. L. 110–84, title I, §§101(a), 102, Sept. 27, 2007, 121 Stat. 784; Pub. L. 110–315, title I, §103(b)(3), title IV, §401(a)(1), (b), (c)(1), Aug. 14, 2008, 122 Stat. 3088, 3188, 3189; Pub. L. 111–5, div. A, title VIII, §806, Feb. 17, 2009, 123 Stat. 190; Pub. L. 111–39, title IV, §401(a)(2), (3), July 1, 2009, 123 Stat. 1938; Pub. L. 111–152, title II, §2101(a), (b)(1), Mar. 30, 2010, 124 Stat. 1071, 1073; Pub. L. 112–10, div. B, title VIII, §1860(a), Apr. 15, 2011, 125 Stat. 169; Pub. L. 112–25, title V, §501, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–74, div. F, title III, §309(a), (f), Dec. 23, 2011, 125 Stat. 1100, 1103; Pub. L. 113–235, div. G, title III, §309(b), Dec. 16, 2014, 128 Stat. 2506; Pub. L. 114–113, div. H, title III, §313(2), Dec. 18, 2015, 129 Stat. 2639; Pub. L. 115–31, div. H, title III, §310, May 5, 2017, 131 Stat. 552; Pub. L. 115–141, div. H, title III, §310, Mar. 23, 2018, 132 Stat. 750; Pub. L. 115–245, div. B, title III, §311, Sept. 28, 2018, 132 Stat. 3106; Pub. L. 116–91, §7, Dec. 19, 2019, 133 Stat. 1196.)
 
 #### Codification
 
@@ -225,6 +225,10 @@ A prior section 401 of Pub. L. 89–329 was renumbered section 400 by section 40
 Another prior section 401 of Pub. L. 89–329, title IV, as added and amended Pub. L. 92–318, title I, §131(b)(1), title X, §1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, §125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, §401, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, which stated purpose of program of grants to students in attendance at institutions of higher education, was classified to section 1070 of this title, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(7)(A)(iv)(X). Pub. L. 116–91, §7(1), substituted "$1,455,000,000" for "$1,430,000,000".
+
+Subsec. (b)(7)(A)(iv)(XI). Pub. L. 116–91, §7(2), substituted "$1,170,000,000" for "$1,145,000,000".
 
 <b>2018</b>—Subsec. (b)(7)(A)(iv)(VIII). Pub. L. 115–141 substituted "$1,334,000,000" for "$1,382,000,000".
 
@@ -276,7 +280,7 @@ Subsec. (c)(5). Pub. L. 112–74, §309(a)(2), substituted "12" for "18" in two 
 
 Subsec. (b)(4). Pub. L. 111–152, §2101(b)(1)(A), substituted "maximum amount of a Federal Pell Grant award determined under paragraph (2)(A)" for "maximum basic grant level specified in the appropriate appropriation Act" and substituted "such Federal Pell Grant amount" for "such level" wherever appearing.
 
-Subsec. (b)(6). Pub. L. 111–152, §2101(b)(1)(B), substituted "the maximum amount of a Federal Pell Grant award determined under paragraph (2)(A), for which a student is eligible during such award year" for "the grant level specified in the appropriate Appropriation Act for this subpart for such year".
+Subsec. (b)(6). Pub. L. 111–152, §2101(b)(1)(B), substituted "the maximum amount of a Federal Pell Grantaward determined under paragraph (2)(A), for which a student is eligible during such award year" for "the grant level specified in the appropriate Appropriation Act for this subpart for such year".
 
 Subsec. (b)(8)(A). Pub. L. 111–152, §2101(a)(2)(A)(i), struck out ", to carry out subparagraph (B) of this paragraph" after "are appropriated" in introductory provisions.
 
@@ -550,7 +554,7 @@ Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of 
 
 Pub. L. 99–498, title IV, §401(b)(3), (4), Oct. 17, 1986, 100 Stat. 1353, provided that:
 
-"(3) Section 411(c) of the Act \[20 U.S.C. 1070a(c)\] as amended by this section shall apply only to individuals who receive a Pell Grant for the first time for a period of enrollment beginning on or after July 1, 1987.
+"(3) Section 411(c) of the Act \[20 U.S.C. 1070a(c)\] as amended by this section shall apply only to individualswho receive a Pell Grant for the first time for a period of enrollment beginning on or after July 1, 1987.
 
 "(4) Section 411(f) of the Act \[20 U.S.C. 1070a(f)\] as amended by this section shall apply to the awarding of Pell Grants for periods of enrollment beginning on or after July 1, 1987."
 
@@ -561,6 +565,8 @@ Pub. L. 99–498, title XIII, §1306, Oct. 17, 1986, 100 Stat. 1582, directed Se
 #### Maximum Pell Grants
 
 Provisions limiting the maximum Pell grant that a student may receive were contained in the following appropriation acts:
+
+Pub. L. 116–94, div. A, title III, Dec. 20, 2019, 133 Stat. 2591.
 
 Pub. L. 115–245, div. B, title III, Sept. 28, 2018, 132 Stat. 3101.
 

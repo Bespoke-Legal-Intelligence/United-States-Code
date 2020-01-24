@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (3) Hedge
 
-&emsp;The term "hedge" means any position which manages the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expected to become a hedge within 60 days after the acquisition of the position.
+&emsp;The term "hedge" means any position which manages the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expectedto become a hedge within 60 days after the acquisition of the position.
 
 #### (4) Special rules for certain receivables
 
@@ -314,7 +314,7 @@ In general.—The amendments made by subsection (b) \[amending this section\] sh
 
 year spread of adjustments.—In the case of a taxpayer who elects under subsection (e) or (f) of section 475 of the Internal Revenue Code of 1986 (as added by this section) to change its method of accounting for the taxable year which includes the date of the enactment of this Act—
 
-&emsp;&emsp;"(i) any identification required under such subsection with respect to securities and commoditiesheld on the date of the enactment of this Act shall be treated as timely made if made on or before the 30th day after such date of enactment, and
+&emsp;&emsp;"(i) any identification required under such subsection with respect to securities and commodities held on the date of the enactment of this Act shall be treated as timely made if made on or before the 30th day after such date of enactment, and
 
 &emsp;&emsp;"(ii) the net amount of the adjustments required to be taken into account by the taxpayer under section 481 of such Code shall be taken into account ratably over the 4-taxable year period beginning with such first taxable year."
 

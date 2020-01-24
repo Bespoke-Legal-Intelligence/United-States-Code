@@ -24,7 +24,7 @@ Officers Considered But Not Selected; Material Error.—(1) In the case of an of
 
 (c)
 
-Report.—Each special selection board convened under this section shall submit to the Secretary of the military department concerneda written report, signed by each member of the board, containing the name of each officer it recommends for promotion and certifying that the board has considered carefully the record of each officer whose name was referred to it.
+Report.—Each special selection board convened under this section shall submit to the Secretary of the military department concerned a written report, signed by each member of the board, containing the name of each officer it recommends for promotion and certifying that the board has considered carefully the record of each officer whose name was referred to it.
 
 (d)
 

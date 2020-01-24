@@ -30,11 +30,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 3 years after the date on which funds are made available, the Secretary shall complete a general managementplan for the Park that, among other things, defines the role and responsibility of the Secretary with regard to the interpretation and the preservation of the site.
+&emsp;&emsp;Not later than 3 years after the date on which funds are made available, the Secretary shall complete a general management plan for the Park that, among other things, defines the role and responsibility of the Secretary with regard to the interpretation and the preservation of the site.
 
 #### (B) Consultation
 
-&emsp;&emsp;The Secretary shall consult with and solicit advice and recommendations from State, county, local, and civic organizations and leaders, and other interested parties in the preparation of the management plan.
+&emsp;&emsp;The Secretary shall consult with and solicit advice and recommendations fromState, county, local, and civic organizations and leaders, and other interested parties in the preparation of the management plan.
 
 #### (C) Inclusions
 

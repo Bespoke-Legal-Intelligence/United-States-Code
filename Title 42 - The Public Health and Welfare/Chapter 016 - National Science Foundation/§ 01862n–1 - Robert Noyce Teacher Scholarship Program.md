@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(A) in the case of an applicant that is submitting an application on behalf of a consortium of institutions of higher education, a description of the participating institutions of higher education and the roles and responsibilities of each such institution;
 
-&emsp;&emsp;(B) a description of the program that the applicant intends to operate, including the number of scholarships and summer internships or the size and number of stipends the applicant intends to award, the type of activities proposed for the recruitment of students to the program, and the selection process that will be used in awarding the scholarships or stipends;
+&emsp;&emsp;(B) a description of the program that the applicant intends to operate, including the number of scholarships and summer internships or the size and number of stipends theapplicant intends to award, the type of activities proposed for the recruitment of students to the program, and the selection process that will be used in awarding the scholarships or stipends;
 
 &emsp;&emsp;(C) evidence that the applicant has the capability to administer the program in accordance with the provisions of this section, which may include a description of any existing programs at the applicant eligible entity (and participating institutions of higher education of the consortium, if applicable) that are targeted to the education of mathematics and science teachers and the number of teachers graduated annually from such programs;
 
@@ -208,7 +208,7 @@ As a condition of acceptance of a scholarship or stipend under this section, a r
 
 #### (C) Repayments
 
-&emsp;&emsp;The loans described under subparagraphs (A) and (B) shall be payable to the Federal Government, consistent with the provisions of part B or D of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq., 1087a et seq.\], and shall be subject to repayment in accordance with terms and conditions specified by the Director (in consultation with the Secretary of Education) in regulations promulgated to carry out this paragraph.
+&emsp;&emsp;The loans described under subparagraphs (A) and (B) shall be payable to the FederalGovernment, consistent with the provisions of part B or D of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq., 1087a et seq.\], and shall be subject to repayment in accordance with terms and conditions specified by the Director (in consultation with the Secretary of Education) in regulations promulgated to carry out this paragraph.
 
 #### (3) Exceptions
 
@@ -278,7 +278,7 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 <b>2017</b>—Subsec. (i)(5). Pub. L. 115–91, §1649C(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "the term 'mathematics and science teacher' means a science, computer science, technology, engineering, or mathematics teacher at the elementary school or secondary school level;".
 
-Subsec. (i)(7). Pub. L. 115–91, §1649C(2), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "the term 'science, technology, engineering, or mathematics professional' means a person who holds a baccalaureate, master's, or doctoral degree in science, technology, engineering, or mathematics, and is working in or had a career in such field or a related area; and".
+Subsec. (i)(7). Pub. L. 115–91, §1649C(2), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "the term 'science, technology, engineering, ormathematics professional' means a person who holds a baccalaureate, master's, or doctoral degree in science, technology, engineering, or mathematics, and is working in or had a career in such field or a related area; and".
 
 <b>2015</b>—Subsec. (i)(5). Pub. L. 114–59 inserted "computer science," after "means a science,".
 

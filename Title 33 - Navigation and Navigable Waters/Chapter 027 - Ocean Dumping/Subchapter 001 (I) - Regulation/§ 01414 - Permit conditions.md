@@ -6,7 +6,7 @@ Permits issued under this subchapter shall designate and include (1) the type of
 
 #### (b) Permit processing fees; reporting requirements
 
-The Administrator or the Secretary, as the case may be, may prescribe such processing fees for permits and such reporting requirements for actions taken pursuant to permits issued by him under this subchapter as he deems appropriate.
+The Administrator or the Secretary, as the case may be, may prescribe such processing feesfor permits and such reporting requirements for actions taken pursuant to permits issued by him under this subchapter as he deems appropriate.
 
 #### (c) General permits
 

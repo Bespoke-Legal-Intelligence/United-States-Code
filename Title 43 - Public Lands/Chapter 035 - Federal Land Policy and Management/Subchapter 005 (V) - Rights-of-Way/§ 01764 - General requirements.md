@@ -2,11 +2,11 @@
 
 #### (a) Boundary specifications; criteria; temporary use of additional lands
 
-The Secretary concerned shall specify the boundaries of each right-of-way as precisely as is practical. Each right-of-way shall be limited to the ground which the Secretary concerned determines (1) will be occupied by facilities which constitute the project for which the right-of-way is granted, issued, or renewed, (2) to be necessary for the operation or maintenance of the project, (3) to be necessary to protect the public safety, and (4) will do no unnecessary damage to the environment. The Secretary concerned may authorize the temporary use of such additional lands as he determines to be reasonably necessary for the construction, operation, maintenance, or termination of the project or a portion thereof, or for access thereto.
+The Secretary concerned shall specify the boundaries of each right-of-way as precisely as is practical. Each right-of-way shall be limited to the ground which the Secretary concerned determines (1) will be occupied by facilities whichconstitute the project for which the right-of-way is granted, issued, or renewed, (2) to be necessary for the operation or maintenance of the project, (3) to be necessary to protect the public safety, and (4) will do no unnecessary damage to the environment. The Secretary concerned may authorize the temporary use of such additional lands as he determines to be reasonably necessary for the construction, operation, maintenance, or termination of the project or a portion thereof, or for access thereto.
 
 #### (b) Terms and conditions of right-of-way or permit
 
-Each right-of-way or permit granted, issued, or renewed pursuant to this section shall be limited to a reasonable term in light of all circumstances concerning the project. In determining the duration of a right-of-way the Secretary concerned shall, among other things, take into consideration the cost of the facility, its usefullife, and any public purpose it serves. The right-of-way shall specify whether it is or is not renewable and the terms and conditions applicable to the renewal.
+Each right-of-way or permit granted, issued, or renewed pursuant to this section shall be limited to a reasonable term in light of all circumstances concerning the project. In determining the duration of a right-of-way the Secretary concerned shall, among other things, take into consideration the cost of the facility, its useful life, and any public purpose it serves. The right-of-way shall specify whether it is or is not renewable and the terms and conditions applicable to the renewal.
 
 #### (c) Applicability of regulations or stipulations
 

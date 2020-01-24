@@ -1,6 +1,6 @@
 ### §5113. Tolerances and testing of coins
 
-(a) The Secretary of the Treasury may prescribe reasonable manufacturing tolerances for specifications in section 5112 of this title (except for specifications that are limits) for the dollar, half dollar, quarter dollar, and dime coins. The weight of the 5-cent coin may vary not more than 0.194 gram. The weight of the one-cent coin may vary not more than 0.13 gram. Any gold coin issued under section 5112 of this title shall contain the full weight of gold stated on the coin.
+(a) The Secretary of the Treasury may prescribe reasonable manufacturing tolerances for specifications in section 5112 of this title (except for specifications that are limits) for the dollar, half dollar, quarter dollar, and dime coins. The weight of the 5-cent coin may vary not more than 0.194 gram. The weight of the one-cent coin may vary not more than 0.13 gram. Any gold coin issued under section 5112 of this title shallcontain the full weight of gold stated on the coin.
 
 (b) The Secretary shall keep a record of the kind, number, and weight of each group of coins minted and test a number of the coins separately to determine if the coins conform to the weight specified in section 5112(a) of this title. If the coins tested do not conform, the Secretary—
 

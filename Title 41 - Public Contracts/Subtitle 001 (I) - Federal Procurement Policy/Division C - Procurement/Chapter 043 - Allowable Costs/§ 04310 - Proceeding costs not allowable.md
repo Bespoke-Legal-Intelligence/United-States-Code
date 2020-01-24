@@ -26,7 +26,7 @@ Proceeding.—The term "proceeding" includes an investigation.
 
 (b)
 
-In General.—Except as otherwise provided in this section, costs incurred by a contractor, subcontractor, or personal services contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government, by a State, or by a contractor, subcontractor, or personal services contractor or grantee employee submitting a complaint under section 4712 of this title are not allowable as reimbursable costs under a covered contract, subcontract, or personal services contract if the proceeding—
+In General.—Except as otherwise provided in this section, costs incurred by a contractor, subcontractor, or personal services contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government, by a State, or by a contractor, subcontractor, or personal services contractor orgrantee employee submitting a complaint under section 4712 of this title are not allowable as reimbursable costs under a covered contract, subcontract, or personal services contract if the proceeding—
 
 &emsp;(1) relates to a violation of, or failure to comply with, a Federal or State statute or regulation or to any other activity described in section 4712(a)(1) of this title; and
 
@@ -36,7 +36,7 @@ In General.—Except as otherwise provided in this section, costs incurred by a 
 
 Covered Dispositions.—A disposition referred to in subsection (b)(2) is any of the following:
 
-&emsp;(1) In a criminal proceeding, a conviction (including a conviction pursuant to a plea ofnolo contendere) by reason of the violation or failure referred to in subsection (b).
+&emsp;(1) In a criminal proceeding, a conviction (including a conviction pursuant to a plea of nolo contendere) by reason of the violation or failure referred to in subsection (b).
 
 &emsp;(2) In a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor, subcontractor, or personal services contractor liability on the basis of the violation or failure referred to in subsection (b).
 
@@ -132,7 +132,7 @@ June 30, 1949, ch. 288, title III, §306(k), as added Pub. L. 100–700, §8(a)(
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–261, §1(b)(2)(A)(i), (ii), inserted ", subcontractor, or personal services contractor" after "contractor" and ", subcontract, or personal services contract" after "contract" wherever appearing.
+<b>2016</b>—Pub. L. 114–261, §1(b)(2)(A)(i), (ii), inserted ", subcontractor, or personal services contractor" after"contractor" and ", subcontract, or personal services contract" after "contract" wherever appearing.
 
 Subsec. (b)(1). Pub. L. 114–261, §1(b)(2)(A)(iii), inserted "or to any other activity described in section 4712(a)(1) of this title" after "statute or regulation".
 

@@ -10,5 +10,5 @@ Section is from the Legislative Branch Appropriations Act, 2017, which is div. I
 
 #### Effective Date
 
-Section applicable with respect to fiscal year 2017 and each succeeding fiscal year, see section 1001(c) of Pub.L. 115–31, set out as an Effective Date of 2017 Amendment note under section 1906 of this title.
+Section applicable with respect to fiscal year 2017 and each succeeding fiscal year, see section 1001(c) of Pub. L. 115–31, set out as an Effective Date of 2017 Amendment note under section 1906 of this title.
 

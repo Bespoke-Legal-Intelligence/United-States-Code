@@ -22,7 +22,7 @@
 
 #### (1) Approval required
 
-&emsp;Except as provided in paragraph (4), a Federal department or agency may not carry out a mentor-protege program for small business concerns unless—
+&emsp;Except as provided in paragraph (4), a Federal department or agency may not carry outa mentor-protege program for small business concerns unless—
 
 &emsp;&emsp;(A) the head of the department or agency submits a plan to the Administrator for the program; and
 

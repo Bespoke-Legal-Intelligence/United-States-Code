@@ -60,7 +60,7 @@ Prerequisites to merger.—
 
 &emsp;&emsp;"(A)
 
-Submission to fca.—On completion of the plan of merger pursuant to paragraph (1)(C), the special committee shall submit the proposed plan,together with all information that is to be distributed to the stockholders concerning such plan, to the Farm Credit Administration for approval.
+Submission to fca.—On completion of the plan of merger pursuant to paragraph (1)(C), the special committee shall submit the proposed plan, together with all information that is to be distributed to the stockholders concerning such plan, to the Farm Credit Administration for approval.
 
 &emsp;&emsp;"(B)
 

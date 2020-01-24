@@ -108,7 +108,7 @@ The Commission shall appraise United States Government activities intended to un
 
 Subsec. (c). Pub. L. 112–239, §1280(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) described the Commission's duties and responsibilities, including formulation and appraisal of policies and programs and submission of reports.
 
-Subsec. (d). Pub. L. 112–239, §1280(c), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Boardor the United States National Commission for UNESCO."
+Subsec. (d). Pub. L. 112–239, §1280(c), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO."
 
 <b>2001</b>—Pub. L. 107–77 reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
 
@@ -121,6 +121,10 @@ Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a), (c)(1)\], amended 
 <b>1990</b>—Pub. L. 101–246 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to redesignation of United States Advisory Commission on International Communication, Cultural and Educational Affairs as United States Advisory Commission on Public Diplomacy, appointment of members, appointment of staff director and staff personnel, date of section entering into force as being Jan. 20, 1989, and repeal of prohibition limiting membership of individuals from same political party.
 
 <b>1987</b>—Pub. L. 100–204 amended section generally, revising and restating as subsecs. (a) to (d) provisions of former subsecs. (a) and (b).
+
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date
 
@@ -156,7 +160,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(e)\], Nov. 29,
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payableunder specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Continued Service of Commission Members
 

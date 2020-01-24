@@ -16,7 +16,7 @@ A prior section 280b–3, act July 1, 1944, ch. 373, title III, §393, as added 
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b). Pub. L. 115–377 substituted "$11,750,000 for each of fiscal years 2020 through 2024"for "$6,564,000 for each of fiscal years 2015 through 2019".
+<b>2018</b>—Subsec. (b). Pub. L. 115–377 substituted "$11,750,000 for each of fiscal years 2020 through 2024" for "$6,564,000 for each of fiscal years 2015 through 2019".
 
 <b>2014</b>—Pub. L. 113–196 substituted "Authorization of appropriations" for "Authorizations of appropriations" in section catchline; designated existing provisions as subsec. (a), inserted heading, and struck out second period at end; and added subsec. (b).
 

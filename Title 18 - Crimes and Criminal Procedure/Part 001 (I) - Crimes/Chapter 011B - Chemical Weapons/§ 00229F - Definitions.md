@@ -54,7 +54,7 @@ Protective purposes.—Any purpose directly related to protection against toxic 
 
 &emsp;&emsp;(C)
 
-Unrelated military purposes.—Any military purpose of the United States that is not connected with the use of a chemical weapon or that is not dependent on the useof the toxic or poisonous properties of the chemical weapon to cause death or other harm.
+Unrelated military purposes.—Any military purpose of the United States that is not connected with the use of a chemical weapon or that is not dependent on the use of the toxic or poisonous properties of the chemical weapon to cause death or other harm.
 
 &emsp;&emsp;(D)
 

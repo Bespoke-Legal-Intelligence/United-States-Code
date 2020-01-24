@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From amounts reserved under section 6621(2) of this title, the Secretary may award grants, contracts, or cooperative agreements, on a competitive basis, to eligible entities for the purposes of promoting literacy programs that support the development of literacy skills in low-income communities, including—
+From amounts reserved under section 6621(2) of this title, the Secretary may award grants,contracts, or cooperative agreements, on a competitive basis, to eligible entities for the purposes of promoting literacy programs that support the development of literacy skills in low-income communities, including—
 
 &emsp;(1) developing and enhancing effective school library programs, which may include providing professional development for school librarians, books, and up-to-date materials to high-need schools;
 

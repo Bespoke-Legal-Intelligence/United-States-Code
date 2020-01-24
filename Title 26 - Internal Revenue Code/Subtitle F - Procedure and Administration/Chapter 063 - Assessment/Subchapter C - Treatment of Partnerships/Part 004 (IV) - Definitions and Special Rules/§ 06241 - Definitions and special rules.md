@@ -54,7 +54,7 @@ For purposes of this subchapter—
 
 #### (8) Extension to entities filing partnership return
 
-&emsp;If a partnership return is filed by an entity for a taxable year but it is determined that the entity is not a partnership (or that there is no entity) for such year, then, to the extent provided in regulations, the provisions of this subchapter are hereby extended in respect of such year to such entity and its items and to persons holding an interest in such entity.
+&emsp;If a partnership return is filed by an entity for a taxable year but it is determined that the entity is not a partnership (or that there is no entity) for such year, then, to the extent provided in regulations, the provisions of thissubchapter are hereby extended in respect of such year to such entity and its items and to persons holding an interest in such entity.
 
 #### (9) Coordination with other chapters
 
@@ -82,7 +82,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of partnership-related items which involve special enforcement matters,the Secretary may prescribe regulations pursuant to which—
+&emsp;&emsp;In the case of partnership-related items which involve special enforcement matters, the Secretary may prescribe regulations pursuant to which—
 
 &emsp;&emsp;&emsp;(i) this subchapter (or any portion thereof) does not apply to such items, and
 

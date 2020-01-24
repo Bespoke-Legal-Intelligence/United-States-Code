@@ -34,7 +34,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(vi) law enforcement protocols or procedures to screen all individuals arrested for prostitution, whether adult or minor, for victimization by sex trafficking and by other crimes, such as sexual assault and domestic violence; and
 
-&emsp;&emsp;(D) provides assurance that a minor victim of sex trafficking shall not be required to collaborate with law enforcement to have access to residential care or services provided with a grant under this section.
+&emsp;&emsp;(D) provides assurance that a minor victim of sex trafficking shall not be required to collaborate with law enforcement to haveaccess to residential care or services provided with a grant under this section.
 
 #### (4) Minor victim of sex trafficking
 
@@ -226,5 +226,5 @@ Pub. L. 115–393, title III, §301(e)(2), Dec. 21, 2018, 132 Stat. 5272, provid
 
 #### Effective and Termination Dates of 2013 Amendment
 
-Pub. L. 113–4, title XII, §1241(b), Mar. 7, 2013, 127 Stat. 153, which provided that the amendment made to this section by section 1241(a) of Pub. L. 113–4 would be effective during the 4-year period beginning on Mar. 7, 2013, was repealed by Pub. L. 115–393, title III, §301(e)(1)(B), Dec. 21, 2018, 132 Stat. 5272.
+Pub. L. 113–4, title XII, §1241(b), Mar. 7, 2013, 127 Stat. 153, which provided that the amendment made to thissection by section 1241(a) of Pub. L. 113–4 would be effective during the 4-year period beginning on Mar. 7, 2013, was repealed by Pub. L. 115–393, title III, §301(e)(1)(B), Dec. 21, 2018, 132 Stat. 5272.
 

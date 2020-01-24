@@ -24,7 +24,7 @@ An application for a charter for a council shall be made by filing with the Secr
 
 &emsp;(B) the proposed rate or rates that will be imposed by the council on receivers and, if subject to assessment, importers during its first year of operation;
 
-&emsp;(C) the maximum amount an assessment rate for any period may be raised above therate applicable for the immediately preceding period; and
+&emsp;(C) the maximum amount an assessment rate for any period may be raised above the rate applicable for the immediately preceding period; and
 
 &emsp;(D) the maximum rate or rates that can be imposed by a council on receivers or importers during the operation of the council;
 
@@ -72,7 +72,7 @@ The Secretary may not approve a proposed charter filed under subsection (a) of t
 
 #### (f) Nominations
 
-(1) Within thirty days after a council is established under subsection (e) of this section, the Secretary shall solicit from the sectors represented on the council nominations for members of the council. If the harvesters and receivers represented on the council are engaged in business in two or more regions of the United States, the nominations made under this paragraph, and the appointments to the council made under paragraph (3) of this subsection,must, to the extent practicable, result in equitable representation for the constituent regions.
+(1) Within thirty days after a council is established under subsection (e) of this section, the Secretary shall solicit from the sectors represented on the council nominations for members of the council. If the harvesters and receivers represented on the council are engaged in business in two or more regions of the United States, the nominations made under this paragraph, and the appointments to the council made under paragraph (3) of this subsection, must, to the extent practicable, result in equitable representation for the constituent regions.
 
 (2) No person is eligible for nomination or appointment as a member of a council unless such person is knowledgeable and experienced with regard to the activities of, and is or has been actively engaged in the business of, the sector which such person will represent on the council.
 

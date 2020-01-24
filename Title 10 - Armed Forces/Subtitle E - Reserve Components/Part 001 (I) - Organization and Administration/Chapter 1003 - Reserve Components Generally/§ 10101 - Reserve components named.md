@@ -160,7 +160,7 @@ In general.—The Under Secretary of Defense for Personnel and Readiness shall e
 
 &emsp;&emsp;"(B)
 
-Partnerships and access.—The office may enter into partnerships with other public entities, including the Department of Health and Human Services, Substance Abuse and Mental Health Services Administration and the Department of Veterans Affairs, for access to necessary substance abuse, mental health treatment, and other quality of life services from local State-licensed service providers. Service and State-based programs may provide access to curriculum, training, and support for services to members and families from all components.
+Partnerships and access.—The office may enter into partnerships with other public entities, including the Department of Health and Human Services, Substance Abuse and Mental Health Services Administration and the Department of Veterans Affairs, for access to necessary substance abuse, mental health treatment, and other qualityof life services from local State-licensed service providers. Service and State-based programs may provide access to curriculum, training, and support for services to members and families from all components.
 
 &emsp;"(2)
 
@@ -318,37 +318,7 @@ Eligible Individuals Defined.—For the purposes of this section, the term 'elig
 
 #### Pilot Program on Enhanced Quality of Life for Members of the Army Reserve and Their Families
 
-Pub. L. 109–163, div. A, title V, §520, Jan. 6, 2006, 119 Stat. 3238, provided that:
-
-"(a)
-
-Pilot Program Required.—
-
-&emsp;"(1)
-
-In general.—The Secretary of the Army shall carry out a pilot program to assess the feasibility and advisability of using a coalition of military and civilian community personnel in order to enhance the quality of life for members of the Army Reserve and their families.
-
-&emsp;"(2)
-
-Locations.—The Secretary shall carry out the pilot program in areas of the United States in which members of the Army Reserve and their families are concentrated. The Secretary shall select one area in two States for purposes of the pilot program.
-
-"(b)
-
-Participating Personnel.—A coalition of personnel under the pilot program shall include—
-
-&emsp;"(1) military personnel; and
-
-&emsp;"(2) appropriate members of the civilian community, such as clinicians and teachers, who volunteer for participation in the coalition.
-
-"(c)
-
-Report.—Not later than April 1, 2007, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the pilot program carried out under this section. The report shall include—
-
-&emsp;"(1) a description of the pilot program;
-
-&emsp;"(2) an assessment of the benefits of using a coalition of military and civilian community personnel in order to enhance the quality of life for members of the Army Reserve and their families; and
-
-&emsp;"(3) such recommendations for legislative or administrative action as the Secretary considers appropriate in light of the pilot program."
+Pub. L. 109–163, div. A, title V, §520, Jan. 6, 2006, 119 Stat. 3238, directed the Secretary of the Army to carry out a pilot program in two States to assess the feasibility and advisability of using a coalition of military and civilian community personnel to enhance the quality of life for members of the Army Reserve and their families and, not later than Apr. 1, 2007, submit to the appropriate Senate and House committees a report on the pilot program with appropriate assessments and recommendations.
 
 #### Annual Review
 
@@ -364,7 +334,7 @@ Pub. L. 108–375, div. A, title V, §513(h), Oct. 28, 2004, 118 Stat. 1882, as 
 
 #### Pay of Administration, Training, and Supply Maintenance Technicians for Army Reserve Contingent Upon Reserve Status
 
-Pub. L. 104–61, title VIII, §8016, Dec. 1, 1995, 109 Stat. 654, provided that none of the funds appropriated forDepartment of Defense during and after fiscal year 1996 were to be obligated for pay of any individual who was initially employed after Dec. 1, 1995, as technician in administration and training of Army Reserve and maintenance and repair of supplies issued to Army Reserve unless such individual was also military member of Army Reserve troop program unit that he or she was employed to support, prior to repeal by Pub. L. 105–85, div. A, title V, §522(e), Nov. 18, 1997, 111 Stat. 1735.
+Pub. L. 104–61, title VIII, §8016, Dec. 1, 1995, 109 Stat. 654, provided that none of the funds appropriated for Department of Defense during and after fiscal year 1996 were to be obligated for pay of any individual who was initially employed after Dec. 1, 1995, as technician in administration and training of Army Reserve and maintenance and repair of supplies issued to Army Reserve unless such individual was also military member of Army Reserve troop program unit that he or she was employed to support, prior to repeal by Pub. L. 105–85, div. A, title V, §522(e), Nov. 18, 1997, 111 Stat. 1735.
 
 Similar provisions were contained in the following prior appropriation acts:
 

@@ -68,7 +68,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–171 applicable with respect to determinations of premiums for calendar year 2002 and for any succeeding calendar year, and to certified statements with respect to such premiums, see section 5403(b) of Pub. L. 107–171, set out as a note under section 2020 of this title.
+Amendment by Pub. L. 107–171 applicable with respect to determinations of premiums for calendar year2002 and for any succeeding calendar year, and to certified statements with respect to such premiums, see section 5403(b) of Pub. L. 107–171, set out as a note under section 2020 of this title.
 
 #### Effective Date of 1988 Amendment
 

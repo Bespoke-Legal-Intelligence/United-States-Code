@@ -118,7 +118,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) any person who is described in subparagraph (A), (B), or (C) with respect to an organization described in section 509(a)(3) and organized and operated exclusively for the benefit of, to perform the functions of, or to carry out the purposes of the applicable tax-exempt organization,
 
-&emsp;&emsp;(E) which involves a donor advised fund (as defined in section 4966(d)(2)), any person who is described in paragraph (7) with respect to such donor advised fund (as so defined), and
+&emsp;&emsp;(E) which involves a donor advised fund (as defined in section 4966(d)(2)), any person whois described in paragraph (7) with respect to such donor advised fund (as so defined), and
 
 &emsp;&emsp;(F) which involves a sponsoring organization (as defined in section 4966(d)(1)), any person who is described in paragraph (8) with respect to such sponsoring organization (as so defined).
 

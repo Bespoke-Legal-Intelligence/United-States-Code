@@ -24,5 +24,5 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 #### Authorization of Appropriations for Additional Land Acquisition
 
-Pub. L. 102–202, §1, Dec. 10, 1991, 105 Stat. 1634, provided that: "There are authorized to be appropriated upto $20,000,000 for acqusition \[sic\] of lands and interests in lands for purposes of the Monocacy National Battlefield, Maryland; such sums shall be in addition to other funds available for such purposes."
+Pub. L. 102–202, §1, Dec. 10, 1991, 105 Stat. 1634, provided that: "There are authorized to be appropriated up to $20,000,000 for acqusition \[sic\] of lands and interests in lands for purposes of the Monocacy National Battlefield, Maryland; such sums shall be in addition to other funds available for such purposes."
 

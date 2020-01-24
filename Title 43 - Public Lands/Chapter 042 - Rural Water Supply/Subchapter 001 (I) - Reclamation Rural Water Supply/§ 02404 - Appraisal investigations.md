@@ -124,7 +124,7 @@ In conducting an appraisal investigation under subsection (a)(2), the Secretary 
 
 &emsp;(2) consult with the heads of appropriate Federal agencies to—
 
-&emsp;&emsp;(A) ensure that the proposed rural water supply project does not duplicate a project carried out under the authority of the agency head; and
+&emsp;&emsp;(A) ensure that the proposed rural water supply project does not duplicate a projectcarried out under the authority of the agency head; and
 
 &emsp;&emsp;(B) if a duplicate project is being carried out, identify the authority under which the duplicate project is being carried out; and
 

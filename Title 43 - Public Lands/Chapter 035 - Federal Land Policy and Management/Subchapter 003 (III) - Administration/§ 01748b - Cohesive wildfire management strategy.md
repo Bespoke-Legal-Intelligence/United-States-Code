@@ -30,7 +30,7 @@ At least once during each five-year period beginning on the date of the submissi
 
 #### Codification
 
-Section was enacted as part of the Federal Land Assistance, Management, and Enhancement Act of 2009, also known as the FLAME Act of 2009, and also as partof the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+Section was enacted as part of the Federal Land Assistance, Management, and Enhancement Act of 2009, also known as the FLAME Act of 2009, and also as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 
 #### Ex. Ord. No. 13855. Promoting Active Management of America's Forests, Rangelands, and Other Federal Lands To Improve Conditions and Reduce Wildfire Risk
 

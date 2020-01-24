@@ -34,7 +34,7 @@ Mar. 3, 1881, ch. 134 (words after last semicolon of 1st par. under "General Exp
 
 Dec. 24, 1890, J. Res. 7 (last sentence), 26 Stat. 1113.
 
-In subsection (a), the words "whose grade is above first lieutenant" are substituted for the words "from among the captains or officers of higher grade". Thewords "in the discretion of" and "from time to time, from the Corps of Engineers, by the President, for this duty" are omitted as surplusage. 10:189 (last sentence) is omitted as obsolete.
+In subsection (a), the words "whose grade is above first lieutenant" are substituted for the words "from among the captains or officers of higher grade". The words "in the discretion of" and "from time to time, from the Corps of Engineers, by the President, for this duty" are omitted as surplusage. 10:189 (last sentence) is omitted as obsolete.
 
 In subsections (a) and (b), the words "assigned to" are substituted for the word "of", since, under section 3063 of this title, officers are assigned to, rather than commissioned in, the Corps of Engineers.
 

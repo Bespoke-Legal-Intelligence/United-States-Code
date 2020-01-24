@@ -30,11 +30,11 @@ Grade and Rank.—The Chairman, while so serving, holds the grade of general or,
 
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–328, §921(b)(1)(A), substituted "four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war." for "two years, beginning on October 1 of odd-numbered years. Subject to paragraph (3), an officer serving as Chairman may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments."
 
-Subsec. (a)(3). Pub. L. 114–328, §921(b)(1)(B), added par. (3) and struck out former par. (3) which read as follows: "An officer may not serve as Chairman or Vice Chairman of the Joint Chiefs of Staff if the combined period of service of such officer in such positions exceeds six years. However, the President may extend to eight years the combined period of service an officer may serve in such positions if he determines such action is in the national interest. The limitations of this paragraph do not apply in time of war."
+Subsec. (a)(3). Pub. L. 114–328, §921(b)(1)(B), added par. (3) and struck out former par. (3) which read as follows: "An officer may not serve as Chairman or Vice Chairman of the Joint Chiefs of Staff if the combined period of service of such officer in such positions exceeds six years. However, the President may extend to eight years the combined period of service an officer mayserve in such positions if he determines such action is in the national interest. The limitations of this paragraph do not apply in time of war."
 
 <b>1987</b>—Pub. L. 100–180 substituted "grade and rank" for "rank" in section catchline.
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–328, div. A, title IX, §921(b)(2), Dec. 23, 2016, 130 Stat. 2351, provided that: "The amendmentsmade by paragraph (1) \[amending this section\] shall take effect on January 1, 2019, and shall apply to individuals appointed as Chairman of the Joint Chiefs of Staff on or after that date."
+Pub. L. 114–328, div. A, title IX, §921(b)(2), Dec. 23, 2016, 130 Stat. 2351, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 2019, and shall apply to individuals appointed as Chairman of the Joint Chiefs of Staff on or after that date."
 

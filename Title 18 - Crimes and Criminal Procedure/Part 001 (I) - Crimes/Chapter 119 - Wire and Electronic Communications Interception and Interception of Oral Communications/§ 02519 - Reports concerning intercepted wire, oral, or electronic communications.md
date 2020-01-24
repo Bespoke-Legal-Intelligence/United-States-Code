@@ -34,7 +34,7 @@
 
 (3) In June of each year the Director of the Administrative Office of the United States Courts shall transmit to the Congress a full and complete report concerning the number of applications for orders authorizing or approving the interception of wire, oral, or electronic communications pursuant to this chapter and the number of orders and extensions granted or denied pursuant to this chapter during the preceding calendar year. Such report shall include a summary and analysis of the data required to be filed with the Administrative Office by subsections (1) and (2) of this section. The Director of the Administrative Office of the United States Courts is authorized to issue binding regulations dealing with the content and form of the reports required to be filed by subsections (1) and (2) of this section.
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 222; amended Pub. L. 95–511, titleII, §201(h), Oct. 25, 1978, 92 Stat. 1798; Pub. L. 99–508, title I, §§101(c)(1)(A), 106(d)(4), Oct. 21, 1986, 100 Stat. 1851, 1857; Pub. L. 106–197, §2(a), May 2, 2000, 114 Stat. 247; Pub. L. 111–174, §6, May 27, 2010, 124 Stat. 1217.)
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 222; amended Pub. L. 95–511, title II, §201(h), Oct. 25, 1978, 92 Stat. 1798; Pub. L. 99–508, title I, §§101(c)(1)(A), 106(d)(4), Oct. 21, 1986, 100 Stat. 1851, 1857; Pub. L. 106–197, §2(a), May 2, 2000, 114 Stat. 247; Pub. L. 111–174, §6, May 27, 2010, 124 Stat. 1217.)
 
 #### Amendments
 

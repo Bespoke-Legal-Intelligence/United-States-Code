@@ -10,7 +10,7 @@
 | [8296\.](%C2%A7%2008296%20-%20Navy%20and%20Marine%20Corps%20Medal.md) | Navy and Marine Corps Medal. |
 | [8297\.](%C2%A7%2008297%20-%20Additional%20awards.md) | Additional awards. |
 | [8298\.](%C2%A7%2008298%20-%20Limitations%20of%20time.md) | Limitations of time. |
-| [8299\.](%C2%A7%2008299%20-%20Limitation%20of%20honorable%20service.md) | Limitation of honorable service. |
+| \[8299. | Repealed.\] |
 | [8300\.](%C2%A7%2008300%20-%20Posthumous%20awards.md) | Posthumous awards. |
 | [8301\.](%C2%A7%2008301%20-%20Delegation%20of%20power%20to%20award.md) | Delegation of power to award. |
 | [8302\.](%C2%A7%2008302%20-%20Regulations.md) | Regulations. |
@@ -28,6 +28,8 @@
 A prior chapter 837, consisting of sections 8351 to 8396, related to appointments as reserved officers in the Air Force, prior to repeal, except for sections 8351 and 8352 (now sections 12212 and 12214 of this title), by Pub. L. 103–337, div. A, title XVI, §1629(c)(1), Oct. 5, 1994, 108 Stat. 2963.
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title V, §582(b)(2)(B), Dec. 20, 2019, 133 Stat. 1412, struck out item 8299 "Limitation of honorable service".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 567 as this chapter and items 6241 to 6258 as 8291 to 8308, respectively.
 
@@ -56,7 +58,7 @@ For extension of time for the award of decorations, or devices in lieu of decora
 - [&sect; 08296 - Navy and Marine Corps Medal](%C2%A7%2008296%20-%20Navy%20and%20Marine%20Corps%20Medal.md)
 - [&sect; 08297 - Additional awards](%C2%A7%2008297%20-%20Additional%20awards.md)
 - [&sect; 08298 - Limitations of time](%C2%A7%2008298%20-%20Limitations%20of%20time.md)
-- [&sect; 08299 - Limitation of honorable service](%C2%A7%2008299%20-%20Limitation%20of%20honorable%20service.md)
+- [&sect; 08299 - Repealed. Pub. L. 116&#8211;92, div. A, title V, &sect;582(b)(2)(A), Dec. 20, 2019, 133 Stat. 1412](%C2%A7%2008299%20-%20Repealed.%20Pub.%20L.%20116%E2%80%9392%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7582%28b%29%282%29%28A%29%2C%20Dec.%2020%2C%202019%2C%20133%20Stat.%201412.md)
 - [&sect; 08300 - Posthumous awards](%C2%A7%2008300%20-%20Posthumous%20awards.md)
 - [&sect; 08301 - Delegation of power to award](%C2%A7%2008301%20-%20Delegation%20of%20power%20to%20award.md)
 - [&sect; 08302 - Regulations](%C2%A7%2008302%20-%20Regulations.md)

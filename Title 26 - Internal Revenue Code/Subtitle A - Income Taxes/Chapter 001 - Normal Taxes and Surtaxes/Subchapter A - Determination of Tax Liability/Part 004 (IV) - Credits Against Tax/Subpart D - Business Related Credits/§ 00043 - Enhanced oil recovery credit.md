@@ -128,7 +128,7 @@ For purposes of this section—
 
 &emsp;An election under paragraph (1) (or revocation thereof) shall be made in such manner as the Secretary may by regulations prescribe.
 
-(Added Pub. L. 101–508, title XI, §11511(a), Nov. 5, 1990, 104 Stat. 1388–483; amended Pub. L. 106–554, §1(a)(7) \[title III, §317(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–357, title VII, §707(a), (b), Oct. 22, 2004, 118 Stat. 1550; Pub. L. 109–58, title XIII, §1322(a)(3)(B), Aug. 8, 2005, 119 Stat. 1011; Pub. L. 109–135, title IV, §412(i), Dec. 21, 2005, 119 Stat. 2637.)
+(Added Pub. L. 101–508, title XI, §11511(a), Nov. 5, 1990, 104 Stat. 1388–483; amended Pub. L. 106–554, §1(a)(7) \[title III, §317(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–357, title VII, §707(a),\(b), Oct. 22, 2004, 118 Stat. 1550; Pub. L. 109–58, title XIII, §1322(a)(3)(B), Aug. 8, 2005, 119 Stat. 1011; Pub. L. 109–135, title IV, §412(i), Dec. 21, 2005, 119 Stat. 2637.)
 
 #### Inflation Adjusted Items for Certain Tax Years
 
@@ -166,7 +166,7 @@ Subsec. (c)(5). Pub. L. 108–357, §707(b), added par. (5).
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 fortaxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
+Amendment by Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -191,6 +191,8 @@ Special rule for significant expansion of projects.—For purposes of section 43
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2019</b>—Internal Revenue Notice 2019–36.
 
 <b>2018</b>—Internal Revenue Notice 2018–49.
 

@@ -10,7 +10,7 @@ Third. Any State which may take and claim the benefit of the provisions of this 
 
 Fourth. An annual report shall be made regarding the progress of each college, recording any improvements and experiments made, with their cost and results, and such other matters, including State industrial and economical statistics, as may be supposed useful; one copy of which shall be transmitted by mail, by each, to all the other colleges which may be endowed under the provisions of this subchapter, and also one copy to the Secretary of the Interior.
 
-Fifth. When lands shall be selected from those which have been raised to double the minimum price, in consequence of railroad grants, they shall be computed to the States at the maximum price, and the number of acres proportionally diminished.
+Fifth. When lands shall be selected from those which have been raised to double the minimum price, in consequence of railroad grants, theyshall be computed to the States at the maximum price, and the number of acres proportionally diminished.
 
 Sixth. No State while in a condition of rebellion or insurrection against the Government of the United States shall be entitled to the benefit of the provisions of this subchapter.
 

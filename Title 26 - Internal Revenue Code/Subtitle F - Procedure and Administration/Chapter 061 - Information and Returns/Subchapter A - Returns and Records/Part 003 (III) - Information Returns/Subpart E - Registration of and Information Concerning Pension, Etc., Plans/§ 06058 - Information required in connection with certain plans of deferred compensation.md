@@ -64,7 +64,7 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) ofPub. L. 98–369, set out as a note under section 62 of this title.
+Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -73,6 +73,42 @@ Pub. L. 95–600, title I, §157(k)(3), Nov. 6, 1978, 92 Stat. 2809, provided th
 #### Effective Date
 
 Section effective Sept. 2, 1974, except that the requirements of subsec. (a) shall apply only with respect to plan years beginning after Sept. 2, 1974, see section 1034 of Pub. L. 93–406, set out as a note under section 6057 of this title.
+
+#### Combined Annual Report for Group of Plans
+
+Pub. L. 116–94, div. O, title II, §202(a)–(c), (e), Dec. 20, 2019, 133 Stat. 3162, 3163, provided that:
+
+"(a)
+
+In General.—The Secretary of the Treasury and the Secretary of Labor shall, in cooperation, modify the returns required under section 6058 of the Internal Revenue Code of 1986 and the reports required by section 104 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1024) so that all members of a group of plans described in subsection (c) may file a single aggregated annual return or report satisfying the requirements of both such sections.
+
+"(b)
+
+Administrative Requirements.—In developing the consolidated return or report under subsection (a), the Secretary of the Treasury and the Secretary of Labor may require such return or report to include any information regarding each plan in the group as such Secretaries determine is necessary or appropriate for the enforcement and administration of the Internal Revenue Code of 1986 and the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] and shall require such information as will enable a participant in a plan to identify any aggregated return or report filed with respect to the plan.
+
+"(c)
+
+Plans Described.—A group of plans is described in this subsection if all plans in the group—
+
+&emsp;"(1) are individual account plans or defined contribution plans (as defined in section 3(34) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(34)) or in section 414(i) of the Internal Revenue Code of 1986);
+
+&emsp;"(2) have—
+
+&emsp;&emsp;"(A) the same trustee (as described in section 403(a) of such Act (29 U.S.C. 1103(a)));
+
+&emsp;&emsp;"(B) the same one or more named fiduciaries (as described in section 402(a) of such Act (29 U.S.C. 1102(a)));
+
+&emsp;&emsp;"(C) the same administrator (as defined in section 3(16)(A) of such Act (29 U.S.C. 1002(16)(A))) and plan administrator (as defined in section 414(g) of the Internal Revenue Code of 1986); and
+
+&emsp;&emsp;"(D) plan years beginning on the same date; and
+
+&emsp;"(3) provide the same investments or investment options to participants and beneficiaries.
+
+> A plan not subject to title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] shall be treated as meeting the requirements of paragraph (2) as part of a group of plans if the same person that performs each of the functions described in such paragraph, as applicable, for all other plans in such group performs each of such functions for such plan.
+
+"(e)
+
+Effective Date.—The modification required by subsection (a) shall be implemented not later than January 1, 2022, and shall apply to returns and reports for plan years beginning after December 31, 2021."
 
 #### Reporting Simplification
 

@@ -44,7 +44,7 @@ Decisions on Preemption.—(1) A person (including a State, political subdivisio
 
 (2) After consulting with States, political subdivisions of States, and Indian tribes, the Secretary shall prescribe regulations for carrying out paragraph (1) of this subsection.
 
-(3) Subsection (a) of this section does not prevent a State, political subdivision of a State, or Indian tribe, or another person directly affected by a requirement, from seeking a decision on preemption from a court of competent jurisdiction instead of applying to the Secretary under paragraph (1) of this subsection.
+(3) Subsection (a) of this section does not prevent a State, political subdivision of a State, orIndian tribe, or another person directly affected by a requirement, from seeking a decision on preemption from a court of competent jurisdiction instead of applying to the Secretary under paragraph (1) of this subsection.
 
 (e)
 

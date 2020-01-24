@@ -22,7 +22,7 @@ The President, by and with the advice and consent of the Senate, shall appoint a
 
 #### (f) Representation by President or Secretary of State
 
-Nothing contained in this section shall preclude the President or the Secretary of State, at the direction of the President, from representing the United States at any meeting or session of any organ or agency of the United Nations.
+Nothing contained in this section shall preclude the President or the Secretary of State, atthe direction of the President, from representing the United States at any meeting or session of any organ or agency of the United Nations.
 
 #### (g) Compensation
 
@@ -75,6 +75,76 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 #### Short Title
 
 Act Dec. 20, 1945, ch. 583, §1, 59 Stat. 619, provided that: "This Act \[enacting this subchapter\] may be cited as the 'United Nations Participation Act of 1945'."
+
+#### Preventing Child Marriage in Displaced Populations
+
+Pub. L. 116–94, div. J, title IV, Dec. 20, 2019, 133 Stat. 3058, provided that:
+
+#### "SEC. 401. SHORT TITLE.
+
+"This title may be cited as the 'Preventing Child Marriage in Displaced Populations Act'.
+
+#### "SEC. 402. FINDINGS.
+
+"Congress finds the following:
+
+&emsp;"(1) According to United Nations Children's Fund (UNICEF), 12,000,000 girls marry before the age of 18 every year.
+
+&emsp;"(2) Early marriage denies children, especially girls, their right to make vital decisions about their well-being, including relating to their health, family, and career. Child brides are less likely to finish their education, and are at higher risk for abuse, contracting HIV, and dying while pregnant or giving birth.
+
+&emsp;"(3) Child marriage also imposes substantial economic costs to developing countries, impeding development and prosperity gains.
+
+&emsp;"(4) Displaced populations are particularly vulnerable to child marriage, in communities where poverty, instability, and displacement put pressure on families to marry children, particularly young girls, off at a young age.
+
+&emsp;"(5) One United Nations (UN) study found that child marriage rates were 4 times higher among displaced Syrian refugees than among Syrians before the crisis. This indicates that displacement, instability, and poverty are driving child marriages.
+
+&emsp;"(6) United Nations agencies, including UNICEF and the United Nations High Commissioner for Refugees (UNHCR), have acknowledged the dangers of child marriage and taken steps to address its risk in the populations they serve.
+
+&emsp;"(7) The UN Joint Program on Child Marriage supports this work by building the resilience of populations to indirectly prevent child marriage and by generating new data and evidence on the prevalence of child marriage in humanitarian and fragile settings. For example, in Uganda, the UN Joint Program on Child Marriage helped 27,000 adolescent girls strengthen critical skills through school clubs and Go Back to School campaigns, as well as life skills and financial literacy training.
+
+&emsp;"(8) After the UN Joint Program on Child Marriage identified Yemen as one of its focus countries, 65,000 people, of whom 45,000 are adolescents, were reached with awareness-raising activities on the harms of child marriage in 2018 alone. As a result, local council representatives, elders, and community leaders from 6 districts signed a pledge to support advocacy efforts to end child marriage.
+
+#### "SEC. 403. PREVENTING CHILD MARRIAGE IN DISPLACED POPULATIONS.
+
+"(a)
+
+In General.—The President shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to call for an adoption of an agreed upon definition of 'child marriage' across United Nations agencies.
+
+"(b)
+
+Strategy.—The President shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to call for the development of a comprehensive strategy to address child marriage in refugee settlements administered by the United Nations. The strategy should include the following elements:
+
+&emsp;"(1) A mandate to regularly collect and report data related to the number of known or suspected child marriages taking place inside each such settlement.
+
+&emsp;"(2) Protocols for United Nations personnel regarding prevention and monitoring of child marriages inside each such settlement.
+
+&emsp;"(3) A description of United Nations programs administered at such settlements that include—
+
+&emsp;&emsp;"(A) physical, mental, and emotional rehabilitation and support to children who have extricated themselves from child marriage; and
+
+&emsp;&emsp;"(B) alternatives to child marriage, such as education initiatives.
+
+&emsp;"(4) Protocols regarding how United Nations personnel should—
+
+&emsp;&emsp;"(A) report adults participating in illegal child marriages in each such settlement; and
+
+&emsp;&emsp;"(B) monitor the prosecution of such adults by the authorities of the country in which the settlement at issue is located.
+
+"(c)
+
+Research.—The President shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to advocate for the United Nations and its appropriate agencies to include, as appropriate, in all of its research regarding child marriage, the relationship between child marriage and violence against girls, including young children and infants.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Child marriage.—The term 'child marriage' means a formal marriage or informal union involving at least one person younger than age 18.
+
+&emsp;"(2)
+
+Illegal child marriage.—The term 'illegal child marriage' means a child marriage that is illegal under the laws of the country in which the child marriage occurs."
 
 #### Restriction on Funding for the Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization
 
@@ -204,7 +274,7 @@ Human Rights Reporting.—In coordination with the ombudsman described in subsec
 
 &emsp;"(1) the present formula for determining the troop reimbursement rate paid to troop- and police-contributing countries for United Nations peacekeeping operations should be clearly explained and made available to the public on the United Nations Department of Peacekeeping Operations website;
 
-&emsp;"(2) regular audits of the nationally-determined pay and benefits given to personnel from troop- and police-contributing countries participating in United Nations peacekeeping operations should be conducted to help inform the reimbursement rate referred to in paragraph (1); and
+&emsp;"(2) regular audits of the nationally-determined pay and benefits given to personnel from troop- andpolice-contributing countries participating in United Nations peacekeeping operations should be conducted to help inform the reimbursement rate referred to in paragraph (1); and
 
 &emsp;"(3) the survey mechanism developed by the United Nations Secretary General's Senior Advisory Group on Peacekeeping Operations for collecting troop- and police-contributing country data on common and extraordinary expenses associated with deploying personnel to peacekeeping operations should be coordinated with the audits described in paragraph (2) to ensure proper oversight and accountability.
 
@@ -264,7 +334,7 @@ Pub. L. 114–323, title III, §310, Dec. 16, 2016, 130 Stat. 1924, as amended b
 
 "(a)
 
-Sense of Congress.—The Secretary \[of State\] shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to urge each future candidate for the position of the United Nations Secretary General to circulate to the Member States of the General Assembly a description of his or her priorities and objectives for leading the organization and ensuring that it upholds the principles outlined by the United Nations Charter, including specific recommendations to improve strategic planning and enact far-reaching management, performance, and accountability reforms.
+Sense of Congress.—The Secretary \[of State\] shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to urge each future candidate for the position of the United Nations Secretary General to circulate to the Member States of the General Assembly a description of his or her priorities and objectives for leading the organization and ensuring that it upholds the principles outlined by the United Nations Charter, including specific recommendations to improve strategic planningand enact far-reaching management, performance, and accountability reforms.
 
 "(b)
 
@@ -324,13 +394,13 @@ Pub. L. 98–164, title I, §115, Nov. 22, 1983, 97 Stat. 1021, as amended by Pu
 
 &emsp;"(2) the United Nations Charter stipulates that members may be suspended by the General Assembly only 'upon the recommendation of the Security Council'; and
 
-&emsp;"(3) any move by the General Assembly that would illegally deny Israel its credentials in the Assemblywould be a direct violation of these provisions of the Charter.
+&emsp;"(3) any move by the General Assembly that would illegally deny Israel its credentials in the Assembly would be a direct violation of these provisions of the Charter.
 
 "(b) If Israel is illegally expelled, suspended, denied its credentials, or in any other manner denied its right to participate in any principal or subsidiary organ or in any specialized, technical, or other agency of the United Nations, the United States shall suspend its participation in any such organ or agency until the illegal action is reversed. The United States shall reduce its annual assessed contribution to the United Nations or such specialized agency by 8.34 percent for each month in which United States participation is suspended pursuant to this section. Nothing in this section may be construed to diminish or to affect United States participation in the United Nations Security Council or the Safeguards Program of the International Atomic Energy Agency."
 
 #### International Year of the Child
 
-Pub. L. 95–561, title XV, §§1501–1507, Nov. 1, 1978, 92 Stat. 2373–2375, described the purpose of the International Year of the Child (designated as 1979 by the United Nations General Assembly) as promotion of lasting improvements in the well-being of children, provided for the establishment of a National Commission on the International Year of the Child, and for the Commission's membership, functions, coordination and administration, and waiver of certain provisions of law relating to advertising, competitive bidding, and printing, authorized appropriations, and terminated the life of the Commission thirty days after the submission of its final report, which was to be submitted not later than Mar. 31, 1980, but which life was in no case to be extended beyond Apr. 30, 1980.
+Pub. L. 95–561, title XV, §§1501–1507, Nov. 1, 1978, 92 Stat. 2373–2375, described the purpose of the International Year of the Child (designated as 1979 by the United Nations General Assembly) as promotion of lasting improvements in the well-being of children, provided for the establishment of a National Commission on the International Year of the Child, and for theCommission's membership, functions, coordination and administration, and waiver of certain provisions of law relating to advertising, competitive bidding, and printing, authorized appropriations, and terminated the life of the Commission thirty days after the submission of its final report, which was to be submitted not later than Mar. 31, 1980, but which life was in no case to be extended beyond Apr. 30, 1980.
 
 Pub. L. 97–35, title V, §511(b)(1), Aug. 13, 1981, 95 Stat. 443, provided that: "No funds are authorized to be appropriated to carry out part A of title XV of the Education Amendments of 1978 \[sections 1501 to 1507 of Pub. L. 95–561, see note above\] for fiscal year 1982, 1983, or 1984."
 
@@ -384,7 +454,7 @@ Joint Res. Aug. 4, 1947, ch. 482, 61 Stat. 756, provided that:
 
 "Whereas the General Assembly on December 14, 1946, resolved 'that the permanent headquarters of the United Nations shall be established in New York City in the area bounded by First Avenue, East Forty-eighth Street, the East River, and East Forty-second Street'; and
 
-"Whereas the General Assembly resolved on December 14, 1946, 'That the Secretary-General be authorized to negotiate and conclude with the appropriate authorities of the United States of America an agreement concerning the arrangements required as a result of the establishment of the permanent headquarters of the United Nations in the city of New York' and to be guided in these negotiations by the provisions of a preliminary draft agreement which had been negotiated by theSecretary-General and the Secretary of State of the United States; and
+"Whereas the General Assembly resolved on December 14, 1946, 'That the Secretary-General be authorized to negotiate and conclude with the appropriate authorities of the United States of America an agreement concerning the arrangements required as a result of the establishment of the permanent headquarters of the United Nations in the city of New York' and to be guided in these negotiations by the provisions of a preliminary draft agreement which had been negotiated by the Secretary-General and the Secretary of State of the United States; and
 
 "Whereas the General Assembly resolved on December 14, 1946, that pending the coming into force of the agreement referred to above 'the Secretary-General be authorized to negotiate and conclude arrangements with the appropriate authorities of the United States of America to determine on a provisional basis the privileges, immunities, and facilities needed in connection with the temporary headquarters of the United Nations.'; and
 
@@ -392,7 +462,7 @@ Joint Res. Aug. 4, 1947, ch. 482, 61 Stat. 756, provided that:
 
 "Whereas the aforesaid agreement provides that it shall be brought into effect by an exchange of notes between the United States and the Secretary-General of the United Nations: Therefore be it
 
-<i>"Resolved by the Senate and House of Representatives of the United States of America in Congress assembled</i>, That the President is hereby authorized to bring into effect on the part of the United States the agreement between the United States of America and the United Nations regarding the headquarters of the United Nations, signed at Lake Success, New York, on June 26, 1947 (hereinafter referred to as the 'agreement'), with such changes therein not contrary to the general tenor thereof and not imposing any additional obligations on the United States as the President may deem necessary and appropriate, and at his discretion, after consultation with the appropriate State and local authorities, to enter into such supplemental agreements with the United Nations as may be necessary to fulfill the purposes of the said agreement: <i>Provided</i>, That any supplemental agreement entered into pursuant to section 5 of the agreement incorporated herein shall be submitted to the Congress for approval. The agreement follows:
+<i>"Resolved by the Senate and House of Representatives of the United States of America in Congress assembled</i>, That the President is hereby authorized to bring into effect on the part of the United States the agreement between the United States of America and the United Nationsregarding the headquarters of the United Nations, signed at Lake Success, New York, on June 26, 1947 (hereinafter referred to as the 'agreement'), with such changes therein not contrary to the general tenor thereof and not imposing any additional obligations on the United States as the President may deem necessary and appropriate, and at his discretion, after consultation with the appropriate State and local authorities, to enter into such supplemental agreements with the United Nations as may be necessary to fulfill the purposes of the said agreement: <i>Provided</i>, That any supplemental agreement entered into pursuant to section 5 of the agreement incorporated herein shall be submitted to the Congress for approval. The agreement follows:
 
 #### "AGREEMENT BETWEEN THE UNITED NATIONS AND THE UNITED STATES OF AMERICA REGARDING THE HEADQUARTERS OF THE UNITED NATIONS
 
@@ -462,7 +532,7 @@ The appropriate American authorities shall take whatever action may be necessary
 
 #### section 5
 
-In the event that the United Nations should find it necessary and desirable to establish and operate anaerodrome, the conditions for the location, use and operation of such an aerodrome and the conditions under which there shall be entry into and exit therefrom shall be the subject of a supplemental agreement.
+In the event that the United Nations should find it necessary and desirable to establish and operate an aerodrome, the conditions for the location, use and operation of such an aerodrome and the conditions under which there shall be entry into and exit therefrom shall be the subject of a supplemental agreement.
 
 #### section 6
 
@@ -512,7 +582,7 @@ The provisions of Section 11 shall be applicable irrespective of the relations e
 
 (1) No proceedings shall be instituted under such laws or regulations to require any such person to leave the United States except with the prior approval of the Secretary of State of the United States. Such approval shall be given only after consultation with the appropriate Member in the case of a representative of a Member (or a member of his family) or with the Secretary-General or the principal executive officer of the appropriate specialized agency in the case of any other person referred to in Section 11;
 
-(2) A representative of the Member concerned, the Secretary-General, or the principal executive officer of the appropriate specialized agency, as the case may be,shall have the right to appear in any such proceedings on behalf of the person against whom they are instituted;
+(2) A representative of the Member concerned, the Secretary-General, or the principal executive officer of the appropriate specialized agency, as the case may be, shall have the right to appear in any such proceedings on behalf of the person against whom they are instituted;
 
 (3) Persons who are entitled to diplomatic privileges and immunities under Section 15 or under the General Convention shall not be required to leave the United States otherwise than in accordance with the customary procedure applicable to diplomatic envoys accredited to the United States.
 
@@ -522,7 +592,7 @@ The provisions of Section 11 shall be applicable irrespective of the relations e
 
 (e) The Secretary-General shall, at the request of the appropriate American authorities, enter into discussions with such authorities, with a view to making arrangements for registering the arrival and departure of persons who have been granted visas valid only for transit to and from the headquarters district and sojourn therein and in its immediate vicinity.
 
-(f) The United Nations shall, subject to the foregoing provisions of this section, have the exclusive right to authorize or prohibit entry of persons and property into the headquarters district and to prescribe the conditions under which persons may remain or reside there.
+(f) The United Nations shall, subject to the foregoing provisions of this section, have the exclusive right toauthorize or prohibit entry of persons and property into the headquarters district and to prescribe the conditions under which persons may remain or reside there.
 
 #### section 14
 
@@ -652,7 +722,7 @@ Sec. 2. For the purpose of carrying out the obligations of the United States und
 
 (c) After the institution of any such condemnation proceedings, possession of the property may be taken at any time the President, or such officer as he may designate, determines is necessary, and the court shall enter such orders as may be necessary to effect entry and occupancy of the property.
 
-(d) The President of the United States, or any officer or governmental agency duly authorized by the President, may, in the name of the United States, transfer or convey possession of and title to any interest in any property acquired or held by the United States, pursuant to paragraph (a) above, to the United Nations on the terms provided in the agreement or in any supplemental agreement, and shall execute and deliver such conveyances and other instruments and perform such other acts in connection therewith as may be necessary to carry out the provisions of the agreement.
+(d) The President of the United States, or any officer or governmental agency duly authorized by the President, may, in the name of the United States, transferor convey possession of and title to any interest in any property acquired or held by the United States, pursuant to paragraph (a) above, to the United Nations on the terms provided in the agreement or in any supplemental agreement, and shall execute and deliver such conveyances and other instruments and perform such other acts in connection therewith as may be necessary to carry out the provisions of the agreement.
 
 (e) There are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be required to enable the United States to carry out the undertakings hereby authorized: <i>Provided</i>, That any money appropriated under this authorization shall be spent only on a basis of reimbursement by the United Nations in accordance with section 3 of the agreement, and that the money thus reimbursed shall be deposited and covered into the Treasury of the United States as miscellaneous receipts.
 
@@ -720,7 +790,7 @@ By virtue of the authority vested in me by the United Nations Participation Act 
 
 4\. The Deputy Representative of the United States to the United Nations shall be the Deputy Chief of Mission, who shall act as Chief of Mission in the absence of the Representative of the United States to the United Nations.
 
-5\. This order supersedes Executive Order No. 9844 of April 28, 1947, entitled "Designating the United States Mission to the United Nations and Providing for Its Direction and Administration."
+5\. This order supersedes Executive Order No. 9844 of April 28, 1947, entitled "Designating the United StatesMission to the United Nations and Providing for Its Direction and Administration."
 
 #### Ex. Ord. No. 10422. Loyalty Procedures for Employees
 
@@ -760,7 +830,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 (e) Performing or attempting to perform his duties, or otherwise acting, while an employee of the United States Government during a previous period, so as to serve the interests of another government in preference to the interests of the United States.
 
-(f) Knowing membership with the specific intent of furthering the aims of, or adherence to and active participation in, any foreign or domestic organization, association, movement, group or combination of persons, which unlawfully advocates or practices the commission of acts of force or violence to prevent others from exercising their rights under the Constitution or laws of the United States, or of any State, or which seeks to overthrow the Government of the United States or any State or subdivision thereof by unlawful means.
+(f) Knowing membership with the specific intent of furthering the aims of, or adherence to and active participation in, any foreign or domestic organization, association, movement, group or combination of persons, which unlawfully advocates or practices the commission of acts of force or violence to prevent others from exercising their rights under the Constitution or laws of the United States, or of any State, or which seeks tooverthrow the Government of the United States or any State or subdivision thereof by unlawful means.
 
 #### part iii—other international organizations
 

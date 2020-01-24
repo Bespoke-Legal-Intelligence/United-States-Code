@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of the Army may provide financial assistance to a State to support activities carried out by the Army National Guard of the State in the performance of duties that the Secretary has assigned, with the consent of the Chief of the National Guard Bureau, to the Army National Guard of the State. The Secretary shall determine the amount of the assistance that is appropriate for the purpose.
+Authority.—The Secretary of the Army may provide financial assistance to a State tosupport activities carried out by the Army National Guard of the State in the performance of duties that the Secretary has assigned, with the consent of the Chief of the National Guard Bureau, to the Army National Guard of the State. The Secretary shall determine the amount of the assistance that is appropriate for the purpose.
 
 (b)
 

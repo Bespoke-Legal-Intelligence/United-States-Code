@@ -132,7 +132,7 @@ Rule for computation.—Computation of a member's retired pay for purposes of th
 
 Rule for designation of new insurable interest beneficiary following death of original beneficiary.—The Secretary of Defense shall prescribe in regulations premiums which a participant making an election under section 1448(b)(1)(G) of this title shall be required to pay for participating in the Plan pursuant to that election. The total amount of the premiums to be paid by a participant under the regulations shall be equal to the sum of the following:
 
-&emsp;&emsp;(A) The total additional amount by which the retired pay of the participant would have been reduced before the effective date of the election if the original beneficiary (i) had not died and had been covered under the Plan through the date of the election, and (ii) had been the same number of years younger than the participant (if any) as the new beneficiary designated under the election.
+&emsp;&emsp;(A) The total additional amount by which the retired pay of the participant would have been reduced before the effective date of the election if the original beneficiary (i) had not died and had been covered under the Plan through the date of the election, and (ii) had been the same number of years younger than the participant (if any) as thenew beneficiary designated under the election.
 
 &emsp;&emsp;(B) Interest on the amounts by which the retired pay of the participant would have been so reduced, computed from the dates on which the retired pay would have been so reduced at such rate or rates and according to such methodology as the Secretary of Defense determines reasonable.
 
@@ -272,7 +272,7 @@ Years and Age 70.—Effective October 1, 2008, no reduction may be made under th
 
 #### References in Text
 
-Section 631(b) of Public Law 104–106 (110 Stat. 364), referred to in subsec. (h)(2)(A), was set out as a noteunder section 1401a of this title prior to repeal by Pub. L. 104–201, div. A, title VI, §631(b), Sept. 23, 1996, 110 Stat. 2549.
+Section 631(b) of Public Law 104–106 (110 Stat. 364), referred to in subsec. (h)(2)(A), was set out as a note under section 1401a of this title prior to repeal by Pub. L. 104–201, div. A, title VI, §631(b), Sept. 23, 1996, 110 Stat. 2549.
 
 #### Amendments
 
@@ -372,7 +372,7 @@ Subsec. (g)(4). Pub. L. 97–22, §11(a)(5), substituted "this section" for "sec
 
 <b>1980</b>—Subsecs. (g), (h). Pub. L. 96–402, added subsecs. (g) and (h).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–397, §205(a), substituted pars. (1) and (2) for "by an amount equal to 2½ percent of the first $300 of the base amount plus 10 percent of the remainder of the base amount" after "shall be reduced each month".
+<b>1978</b>—Subsec. (a). Pub. L. 95–397, §205(a), substituted pars. (1) and (2) for "by an amount equal to 2½ percent of the first $300 of the base amount plus 10 percent ofthe remainder of the base amount" after "shall be reduced each month".
 
 Subsec. (c). Pub. L. 95–397, §205(b), substituted pars. (1) and (2) for "by 10 percent plus 5 percent for each full 5 years the individual designated is younger than that person. However, the total reduction may not exceed 40 percent. The reduction in retired or retainer pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person receiving retired or retainer pay changes his election under section 1450(f)", and inserted provision following par. (2) that the total reduction under clause (1) may not exceed 40 percent, and that the reduction in retired or retainer pay shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person changes his election under section 1450(f) of this title.
 

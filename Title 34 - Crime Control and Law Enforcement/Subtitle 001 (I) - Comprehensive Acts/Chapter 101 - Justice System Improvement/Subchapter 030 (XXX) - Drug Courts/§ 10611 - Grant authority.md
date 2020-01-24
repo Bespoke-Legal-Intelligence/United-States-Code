@@ -72,7 +72,7 @@ Economic sanctions imposed on an offender pursuant to this section shall not be 
 
 &emsp;&emsp;(N) Anger management classes.
 
-(Pub. L. 90–351, title I, §2951, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116Stat. 1794; amended Pub. L. 109–162, title XI, §1143, Jan. 5, 2006, 119 Stat. 3111; Pub. L. 109–177, title VII, §751, Mar. 9, 2006, 120 Stat. 273; Pub. L. 114–255, div. B, title XIV, §14007(1), Dec. 13, 2016, 130 Stat. 1296.)
+(Pub. L. 90–351, title I, §2951, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1794; amended Pub. L. 109–162, title XI, §1143, Jan. 5, 2006, 119 Stat. 3111; Pub. L. 109–177, title VII, §751, Mar. 9, 2006, 120 Stat. 273; Pub. L. 114–255, div. B, title XIV, §14007(1), Dec. 13, 2016, 130 Stat. 1296.)
 
 #### Codification
 

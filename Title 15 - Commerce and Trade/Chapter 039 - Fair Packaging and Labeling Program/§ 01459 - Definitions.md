@@ -14,7 +14,7 @@ For the purpose of this chapter—
 
 &emsp;(5) any commodity subject to the provisions of the Federal Seed Act \[7 U.S.C. 1551 et seq.\].
 
-(b) The term "package" means any container or wrapping in which any consumer commodityis enclosed for use in the delivery or display of that consumer commodity to retail purchasers, but does not include—
+(b) The term "package" means any container or wrapping in which any consumer commodity is enclosed for use in the delivery or display of that consumer commodity to retail purchasers, but does not include—
 
 &emsp;(1) shipping containers or wrappings used solely for the transportation of any consumer commodity in bulk or in quantity to manufacturers, packers, or processors, or to wholesale or retail distributors thereof;
 

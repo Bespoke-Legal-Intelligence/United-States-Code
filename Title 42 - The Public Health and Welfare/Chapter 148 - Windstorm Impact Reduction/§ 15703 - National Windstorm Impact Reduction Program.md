@@ -56,7 +56,7 @@ There is established the National Windstorm Impact Reduction Program, the purpos
 
 #### (1) In general
 
-&emsp;The Program shall consist of three primary mitigation components: improved understanding of windstorms, windstorm impact assessment, and windstorm impact reduction. The components shall be implemented through activities such as data collection and analysis, risk assessment, outreach, technology transfer, and research and development. To the extent practicable, research activities authorized under this chapter shall be peer-reviewed, and the components shall be designed to be complementary to, and avoid duplication of,other public and private hazard reduction efforts.
+&emsp;The Program shall consist of three primary mitigation components: improved understanding of windstorms, windstorm impact assessment, and windstorm impact reduction. The components shall be implemented through activities such as data collection and analysis, risk assessment, outreach, technology transfer, and research and development. To the extent practicable, research activities authorized under this chapter shall be peer-reviewed, and the components shall be designed to be complementary to, and avoid duplication of, other public and private hazard reduction efforts.
 
 #### (2) Understanding of windstorms
 

@@ -18,7 +18,7 @@ The Secretary may not make a grant or enter into a contract under this chapter w
 
 &emsp;(3) with respect to providing health services to any population of Native Hawaiians, a substantial portion of which has a limited ability to speak the English language—
 
-&emsp;&emsp;(A) has developed and has the ability to carry out a reasonable plan to provide health services under the grant or contract through individuals who are able to communicate with the population involved in the language and cultural context that is most appropriate; and
+&emsp;&emsp;(A) has developed and has the ability to carry out a reasonable plan to provide health services under the grant or contractthrough individuals who are able to communicate with the population involved in the language and cultural context that is most appropriate; and
 
 &emsp;&emsp;(B) has designated at least one individual, fluent in both English and the appropriate language, to assist in carrying out the plan;
 

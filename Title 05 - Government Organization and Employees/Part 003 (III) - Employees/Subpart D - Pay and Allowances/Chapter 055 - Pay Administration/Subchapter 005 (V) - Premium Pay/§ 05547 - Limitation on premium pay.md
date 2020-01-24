@@ -170,7 +170,7 @@ Treatment of Additional Pay.—If subsection (b) results in the payment of addit
 
 &emsp;"(1) be considered to be basic pay of the covered employee for any purpose; or
 
-&emsp;"(2) be used in computing a lump-sum payment to the covered employee for accumulated and accruedannual leave under section 5551 or section 5552 of title 5, United States Code.
+&emsp;"(2) be used in computing a lump-sum payment to the covered employee for accumulated and accrued annual leave under section 5551 or section 5552 of title 5, United States Code.
 
 "(d)
 

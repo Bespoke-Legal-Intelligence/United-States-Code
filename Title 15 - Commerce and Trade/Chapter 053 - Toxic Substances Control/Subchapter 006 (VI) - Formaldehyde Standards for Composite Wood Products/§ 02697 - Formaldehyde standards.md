@@ -316,7 +316,7 @@ The formaldehyde emission standard referred to in subsection (b)(1) shall not ap
 
 #### (1) In general
 
-&emsp;Not later than January 1, 2013, the Administrator shall promulgate regulations to implement the standards required under subsection (b) in a manner that ensures compliance with the emission standards described in subsection (b)(2).
+&emsp;Not later than January 1, 2013, the Administrator shall promulgate regulations to implement the standards required under subsection\(b) in a manner that ensures compliance with the emission standards described in subsection (b)(2).
 
 #### (2) Inclusions
 

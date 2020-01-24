@@ -60,7 +60,7 @@ Joint capability development.—In matters relating to joint capability developm
 
 &emsp;&emsp;(F) assessing joint military capabilities and identifying, approving, and prioritizing gaps in such capabilities to meet national defense strategies, pursuant to section 181 of this title; and
 
-&emsp;&emsp;(G) recommending to the Secretary appropriate trade-offs among life-cycle cost, schedule, performance, and procurement quantity objectives in the acquisition of materiel and equipment to support the strategic and contingency plans required by this paragraph in the most effective and efficient manner.
+&emsp;&emsp;(G) recommending to the Secretary appropriate trade-offs among life-cycle cost,schedule, performance, and procurement quantity objectives in the acquisition of materiel and equipment to support the strategic and contingency plans required by this paragraph in the most effective and efficient manner.
 
 &emsp;(6)
 
@@ -134,9 +134,9 @@ Risk assessment.—(A) The Chairman shall prepare each year an assessment of the
 
 &emsp;&emsp;(ii) Identify and define the military strategic risks to United States interests and military risks in executing the National Military Strategy (or update).
 
-&emsp;&emsp;(iii) Identify and define levels of risk, including an identification of what constitutes "significant" risk in the judgment of the Chairman.
+&emsp;&emsp;(iii) Identify and define levels of risk, including an identification of what constitutes"significant" risk in the judgment of the Chairman.
 
-&emsp;&emsp;(iv)(I) Identify and assess risk in the National Military Strategy (or update) by category and level and the ways in which riskmight manifest itself, including how risk is projected to increase, decrease, or remain stable over time; and
+&emsp;&emsp;(iv)(I) Identify and assess risk in the National Military Strategy (or update) by category and level and the ways in which risk might manifest itself, including how risk is projected to increase, decrease, or remain stable over time; and
 
 &emsp;&emsp;(II) for each category of risk, assess the extent to which current or future risk increases, decreases, or is stable as a result of budgetary priorities, tradeoffs, or fiscal constraints or limitations as currently estimated and applied in the current future-years defense program under section 221 of this title.
 

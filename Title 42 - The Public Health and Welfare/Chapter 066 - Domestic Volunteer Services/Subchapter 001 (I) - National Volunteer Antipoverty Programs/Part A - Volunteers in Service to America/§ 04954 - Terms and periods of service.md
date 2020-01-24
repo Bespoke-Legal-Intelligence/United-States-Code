@@ -10,7 +10,7 @@ Volunteers serving under this part shall be required to make a full-time persona
 
 (2) Volunteers serving under this part may be enrolled for periods of service of less than 1 year if the Director determines, on an individual basis, that a period of service of less than 1 year is necessary to meet a critical scarce skill need.
 
-(3) Volunteers serving under this part may be reenrolled for periods of service in a manner to be determined by the Director. No volunteershall serve for more than a total of 5 years under this part.
+(3) Volunteers serving under this part may be reenrolled for periods of service in a manner to be determined by the Director. No volunteer shall serve for more than a total of 5 years under this part.
 
 #### (c) Oath or affirmation
 

@@ -205,7 +205,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) In general
 
-&emsp;The order shall provide that the Board shall review budgets submitted by the Executive Committee, on a fiscal year basis, of anticipated expenses and disbursements by the Board, including probable costs of administration and promotion, research, consumer information, education, industry information, and producer information projects. On approval by the Board, the Board shall submit the budget to the Secretary for the approval of the Secretary.
+&emsp;The order shall provide that the Board shall review budgets submitted by the ExecutiveCommittee, on a fiscal year basis, of anticipated expenses and disbursements by the Board, including probable costs of administration and promotion, research, consumer information, education, industry information, and producer information projects. On approval by the Board, the Board shall submit the budget to the Secretary for the approval of the Secretary.
 
 #### (2) Limitation
 
@@ -303,7 +303,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (A) In general
 
-&emsp;&emsp;The order shall provide that each person making payment to a producer, feeder, or handler of wool for wool purchased from the producer, feeder, or handler shall, in the manner prescribed by the order, collect an assessment on each pound of greasy wool sold.
+&emsp;&emsp;The order shall provide that each person making payment to a producer, feeder, orhandler of wool for wool purchased from the producer, feeder, or handler shall, in the manner prescribed by the order, collect an assessment on each pound of greasy wool sold.
 
 #### (B) Processing
 
@@ -453,7 +453,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) In general
 
-&emsp;The order shall require that each person making payment to a producer, feeder, or handler for sheep or sheep products, each importer and exporter of sheep or sheep products, and each person marketing sheep products of theperson's own production to maintain, and make available for inspection, such books and records as may be required by the order and file reports at the time, in the manner, and having the content prescribed by the order.
+&emsp;The order shall require that each person making payment to a producer, feeder, or handler for sheep or sheep products, each importer and exporter of sheep or sheep products, and each person marketing sheep products of the person's own production to maintain, and make available for inspection, such books and records as may be required by the order and file reports at the time, in the manner, and having the content prescribed by the order.
 
 #### (2) Use of information
 
@@ -495,7 +495,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (E) Penalty
 
-&emsp;&emsp;Any person who willfully violates this paragraph, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if the person is an officer or employee of the Board or the Department, shall be removed from office.
+&emsp;&emsp;Any person who willfully violates this paragraph, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, andif the person is an officer or employee of the Board or the Department, shall be removed from office.
 
 #### (n) Other terms and conditions
 

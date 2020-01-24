@@ -40,7 +40,7 @@ In the case of any franchise in effect on the effective date of this subchapter,
 
 #### (e) Technical standards
 
-Within one year after October 5, 1992, the Commission shall prescribe regulations which establish minimum technical standards relating to cable systems' technical operation and signal quality. The Commission shall update such standards periodically to reflect improvements in technology. No State or franchising authority may prohibit, condition, or restrict a cable system's use of any type of subscriber equipment or any transmission technology.
+Within one year after October 5, 1992, the Commission shall prescribe regulations which establish minimum technical standards relating to cable systems' technical operation and signalquality. The Commission shall update such standards periodically to reflect improvements in technology. No State or franchising authority may prohibit, condition, or restrict a cable system's use of any type of subscriber equipment or any transmission technology.
 
 #### (f) Limitation on regulatory powers of Federal agencies, States, or franchising authorities; exceptions
 
@@ -54,7 +54,7 @@ Within one year after October 5, 1992, the Commission shall prescribe regulation
 
 #### (g) Access to emergency information
 
-Notwithstanding any such rule, regulation, or order, each cable operator shall comply with such standards as the Commission shall prescribe to ensure that viewers of video programming on cable systems are afforded the same emergency information as is afforded by theemergency broadcasting system pursuant to Commission regulations in subpart G of part 73, title 47, Code of Federal Regulations.
+Notwithstanding any such rule, regulation, or order, each cable operator shall comply with such standards as the Commission shall prescribe to ensure that viewers of video programming on cable systems are afforded the same emergency information as is afforded by the emergency broadcasting system pursuant to Commission regulations in subpart G of part 73, title 47, Code of Federal Regulations.
 
 #### (h) Notice of changes in and comments on services
 

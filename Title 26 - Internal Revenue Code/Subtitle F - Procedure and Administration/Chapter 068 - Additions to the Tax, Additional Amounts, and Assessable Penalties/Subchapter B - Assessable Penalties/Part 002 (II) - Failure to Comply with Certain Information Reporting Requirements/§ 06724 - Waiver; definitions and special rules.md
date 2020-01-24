@@ -10,7 +10,7 @@ Any penalty imposed by this part shall be paid on notice and demand by the Secre
 
 #### (c) Special rule for failure to meet magnetic media requirements
 
-No penalty shall be imposed under section 6721 solely by reason of any failure to comply with the requirements of the regulations prescribed under section 6011(e)(2), except to the extent that such a failure occurs with respect to more than 250 information returns (more than 100 information returns in the case of a partnership having more than 100 partners) or with respect to a return described in section 6011(e)(4).
+No penalty shall be imposed under section 6721 solely by reason of any failure to comply with the requirements of the regulations prescribed under section 6011(e)(2), except to the extent that such a failure occurs with respect to more than the applicable number (determined under section 6011(e)(5) with respect to the calendar year to which such returns relate) of information returns or with respect to a return described in section 6011(e)(4).
 
 #### (d) Definitions
 
@@ -216,7 +216,7 @@ If any partnership return under section 6031(a) is required under section 6011(e
 
 No penalty shall be imposed under section 6721 or 6722 solely by reason of failing to provide the TIN of an individual on a return or statement required by section 6050S(a)(1) if the eligible educational institution required to make such return contemporaneously makes a true and accurate certification under penalty of perjury (and in such form and manner as may be prescribed by the Secretary) that it has complied with standards promulgated by the Secretary for obtaining such individual's TIN.
 
-(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2734; amended Pub. L. 100–418, title I, §1941(b)(2)(M), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1006(h)(3)(A), 1015(a), title III, §3001(b)(1), (2), Nov. 10, 1988, 102 Stat. 3410, 3568, 3614; Pub. L. 101–239, title VII, §§7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, 103 Stat. 2391, 2407, 2412; Pub. L. 101–508, title XI, §§11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, 104 Stat. 1388–432, 1388–465; Pub. L. 102–486, title XIX, §1933(b), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–66, title XIII, §13252(b), Aug. 10, 1993, 107 Stat. 532; Pub. L. 103–322, title II, §20415(b)(1), (2), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–188, title I, §§1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, 110 Stat. 1764, 1817, 1853, 1868, 1869, 1881, 1908; Pub. L. 104–191, title III, §323(b), Aug. 21, 1996, 110 Stat. 2062; Pub. L. 105–34, title II, §201(c)(2), title XII, §§1213(b), 1223(b), title XVI, §1602(d)(2)(A), Aug. 5, 1997, 111 Stat. 805, 1001, 1019, 1094; Pub. L. 105–206, title VI, §§6004(a)(3), 6010(o)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, 112 Stat. 792, 816, 819; Pub. L. 106–554, §1(a)(7) \[title III, §319(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–210, div. A, title II, §202(c)(2), Aug. 6, 2002, 116 Stat. 962; Pub. L. 108–357, title VIII, §§805(b), 853(d)(2)(L), (M), Oct. 22, 2004, 118 Stat. 1574, 1613; Pub. L. 109–280, title VIII, §844(d)(2), title XII, §1211(b)(1), Aug. 17, 2006, 120 Stat. 1012, 1073; Pub. L. 109–432, div. A, title IV, §403(c)(1), (2), Dec. 20, 2006, 120 Stat. 2955; Pub. L. 110–172, §11(b)(2), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–289, div. C, title III, §3091(b), July 30, 2008, 122 Stat. 2910; Pub. L. 110–343, div. B, title IV, §403(c)(2), (d)(2), Oct. 3, 2008, 122 Stat. 3858, 3860; Pub. L. 111–147, title V, §§501(c)(6), (7), 522(b), Mar. 18, 2010, 124 Stat. 106, 113; Pub. L. 111–148, title I, §§1502(b), 1514(b), title X, §10108(j)(3)(E), (F), Mar. 23, 2010, 124 Stat. 251, 257, 915; Pub. L. 113–295, div. A, title II, §220(x), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 114–27, title VIII, §805(a), June 29, 2015, 129 Stat. 416; Pub. L. 114–41, title II, §2004(b)(2), July 31, 2015, 129 Stat. 456; Pub. L. 115–97, title I, §§11051(b)(2)(C), 13520(c)(1), Dec. 22, 2017, 131 Stat. 2089, 2150; Pub. L. 115–141, div. U, title II, §206(o), title IV, §401(a)(315)–(320), Mar. 23, 2018, 132 Stat. 1182, 1199.)
+(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2734; amended Pub. L. 100–418, title I, §1941(b)(2)(M), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1006(h)(3)(A), 1015(a), title III, §3001(b)(1), (2), Nov. 10, 1988, 102 Stat. 3410, 3568, 3614; Pub. L. 101–239, title VII,§§7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, 103 Stat. 2391, 2407, 2412; Pub. L. 101–508, title XI, §§11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, 104 Stat. 1388–432, 1388–465; Pub. L. 102–486, title XIX, §1933(b), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–66, title XIII, §13252(b), Aug. 10, 1993, 107 Stat. 532; Pub. L. 103–322, title II, §20415(b)(1), (2), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–188, title I, §§1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, 110 Stat. 1764, 1817, 1853, 1868, 1869, 1881, 1908; Pub. L. 104–191, title III, §323(b), Aug. 21, 1996, 110 Stat. 2062; Pub. L. 105–34, title II, §201(c)(2), title XII, §§1213(b), 1223(b), title XVI, §1602(d)(2)(A), Aug. 5, 1997, 111 Stat. 805, 1001, 1019, 1094; Pub. L. 105–206, title VI, §§6004(a)(3), 6010(o)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, 112 Stat. 792, 816, 819; Pub. L. 106–554, §1(a)(7) \[title III, §319(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–210, div. A, title II, §202(c)(2), Aug. 6, 2002, 116 Stat. 962; Pub. L. 108–357, title VIII, §§805(b), 853(d)(2)(L), (M), Oct. 22, 2004, 118 Stat. 1574, 1613; Pub. L. 109–280, title VIII, §844(d)(2), title XII, §1211(b)(1), Aug. 17, 2006, 120 Stat. 1012, 1073; Pub. L. 109–432, div. A, title IV, §403(c)(1), (2), Dec. 20, 2006, 120 Stat. 2955; Pub. L. 110–172, §11(b)(2), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–289, div. C, title III, §3091(b), July 30, 2008, 122 Stat. 2910; Pub. L. 110–343, div. B, title IV, §403(c)(2), (d)(2), Oct. 3, 2008, 122 Stat. 3858, 3860; Pub. L. 111–147, title V, §§501(c)(6), (7), 522(b), Mar. 18, 2010, 124 Stat. 106, 113; Pub. L. 111–148, title I, §§1502(b), 1514(b), title X, §10108(j)(3)(E), (F), Mar. 23, 2010, 124 Stat. 251, 257, 915; Pub. L. 113–295, div. A, title II, §220(x), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 114–27, title VIII, §805(a), June 29, 2015, 129 Stat. 416; Pub. L. 114–41, title II, §2004(b)(2), July 31, 2015, 129 Stat. 456; Pub. L. 115–97, title I, §§11051(b)(2)(C), 13520(c)(1), Dec. 22, 2017, 131 Stat. 2089, 2150; Pub. L. 115–141, div. U, title II, §206(o), title IV, §401(a)(315)–(320), Mar. 23, 2018, 132 Stat. 1182, 1199; Pub. L. 116–25, title II, §2301(d), July 1, 2019, 133 Stat. 1013.)
 
 #### Codification
 
@@ -225,6 +225,8 @@ Section 1211(b)(1) of Pub. L. 109–280, which directed the amendment of section
 Amendments to subsec. (d)(2) of this section by section 1901(c)(1) of Pub. L. 104–188 were executed before amendments by sections 1116(b)(2)(B) and 1455(a)(2) of Pub. L. 104–188, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c). Pub. L. 116–25 substituted "the applicable number (determined under section 6011(e)(5) with respect to the calendar year to which such returns relate) of information returns" for "250 information returns (more than 100 information returns in the case of a partnership having more than 100 partners)".
 
 <b>2018</b>—Subsec. (d)(1). Pub. L. 115–141, §401(a)(317), realigned margin of concluding provisions.
 
@@ -502,7 +504,7 @@ Pub. L. 104–188, §1704(j)(3), substituted "section 6109(h)" for "section 6109
 
 Subsec. (d)(2)(K). Pub. L. 103–322, §20415(b)(2), amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: "section 6050I(e) (relating to returns relating to cash received in trade or business),".
 
-<b>1993</b>—Subsec. (d)(1)(B)(viii) to (xiv). Pub. L. 103–66, §13252(b)(1), which directed amendment of subsec.\(d)(1)(B) by adding a new cl. (viii) after cl. (vii) and redesignating the following cls. accordingly, was executed by adding cl. (viii) and redesignating former cls. (viii), (ix), (x), (xi), (xii) (relating to section 4101(d)), and (xii) (relating to subpar. (C) of section 338(h)(10)) as (ix), (x), (xi), (xii), (xiii), and (xiv), respectively, to reflect the probable intent of Congress.
+<b>1993</b>—Subsec. (d)(1)(B)(viii) to (xiv). Pub. L. 103–66, §13252(b)(1), which directed amendment of subsec. (d)(1)(B) by adding a new cl. (viii) after cl. (vii) and redesignating the following cls. accordingly, was executed by adding cl. (viii) and redesignating former cls. (viii), (ix), (x), (xi), (xii) (relating to section 4101(d)), and (xii) (relating to subpar. (C) of section 338(h)(10)) as (ix), (x), (xi), (xii), (xiii), and (xiv), respectively, to reflect the probable intent of Congress.
 
 Subsec. (d)(2)(P) to (T). Pub. L. 103–66, §13252(b)(2), added subpar. (P) and redesignated former subpars. (P) through (S) as (Q) through (T), respectively.
 
@@ -582,7 +584,7 @@ Amendment by Pub. L. 110–172 effective as if included in the provisions of the
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–432 applicable to calendar years beginning after Dec. 20, 2006, see section 403(d) ofPub. L. 109–432, set out as a note under section 6039 of this title.
+Amendment by Pub. L. 109–432 applicable to calendar years beginning after Dec. 20, 2006, see section 403(d) of Pub. L. 109–432, set out as a note under section 6039 of this title.
 
 Amendment by section 844(d)(2) of Pub. L. 109–280 applicable to contracts issued after Dec. 31, 1996, but only with respect to taxable years beginning after Dec. 31, 2009, and to charges made after Dec. 31, 2009, see section 844(g)(1), (3) of Pub. L. 109–280, set out as a note under section 72 of this title.
 
@@ -600,7 +602,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 201(c)(2) of Pub. L. 105–34 applicable to expenses paid after Dec. 31, 1997 (in taxable years ending after such date), for education furnished in academic periods beginning after such date, see section 201(f) of Pub. L. 105–34, set out as an Effective Date note under section 25A of this title.
+Amendment by section 201(c)(2) of Pub. L. 105–34 applicable to expenses paid after Dec. 31, 1997 (in taxableyears ending after such date), for education furnished in academic periods beginning after such date, see section 201(f) of Pub. L. 105–34, set out as an Effective Date note under section 25A of this title.
 
 Amendment by section 1213(b) of Pub. L. 105–34 applicable to leases entered into after Aug. 5, 1997, see section 1213(e) of Pub. L. 105–34, set out as an Effective Date note under section 110 of this title.
 
@@ -680,7 +682,7 @@ Interest.—The amount of interest payable under subparagraph (A) shall be deter
 
 Registration procedures required to be specified.—Not later than the 30th day after the date of the enactment of this Act \[Nov. 10, 1988\], the Secretary of the Treasury or the Secretary's delegate shall prescribe the procedures for complying with the requirements of section 4093(c)(3) of the 1986 Code (as added by this section)."
 
-Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
+Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, seesection 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
 
 #### Effective Date
 

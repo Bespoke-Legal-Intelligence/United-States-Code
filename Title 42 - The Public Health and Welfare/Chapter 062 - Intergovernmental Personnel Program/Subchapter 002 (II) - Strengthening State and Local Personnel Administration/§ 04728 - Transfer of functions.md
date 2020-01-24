@@ -22,7 +22,7 @@ There are hereby transferred to the Office all functions, powers, and duties of�
 
 &emsp;&emsp;(D) sections 302(a)(5)(A), 602(a)(5)(A), 705(a)(3)(A), 1202(a)(5)(A), 1352(a)(5)(A), 1382(a)(5)(A), and 1396a(a)(4)(A) of this title; and
 
-&emsp;(4) any other department, agency, office, or officer (other than the President) under any other provision of law or regulation applicable to a program of grant-in-aid that specifically requires the establishment and maintenance of personnel standards on a merit basis with respect to the program;
+&emsp;(4) any other department, agency, office, or officer (other than the President) under anyother provision of law or regulation applicable to a program of grant-in-aid that specifically requires the establishment and maintenance of personnel standards on a merit basis with respect to the program;
 
 > insofar as the functions, powers, and duties relate to the prescription of personnel standards on a merit basis.
 
@@ -82,13 +82,13 @@ Effective one year after October 13, 1978, all statutory personnel requirements 
 
 &emsp;(4) chapter 15 of title 5, relating to political activities of certain State and local employees.
 
-(Pub. L. 91–648, title II, §208, Jan. 5, 1971, 84 Stat. 1915; Pub. L. 95–454, §602(a)(2), (3), Oct. 13, 1978, 92 Stat. 1188, 1189; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 110–234, title IV, §4002(b)(1)(C), (2)(CC), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(C), (2)(CC), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
+(Pub. L. 91–648, title II, §208, Jan. 5, 1971, 84 Stat. 1915; Pub. L. 95–454, §602(a)(2), (3), Oct. 13, 1978, 92 Stat. 1188, 1189; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 110–234, title IV, §4002(b)(1)(C), (2)(CC), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246,§4(a), title IV, §4002(b)(1)(C), (2)(CC), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 
 Section 10(e)(2) of the Food and Nutrition Act of 2008 of 1964 (7 U.S.C. 2019(e)(2)), referred to in subsec. (a)(1), was a reference to section 10(e)(2) of the Food Stamp Act of 1964 prior to the amendment by Pub. L. 110–246 which substituted "Food and Nutrition Act of 2008" for "Food Stamp Act". See 2008 Amendment note below. Section 10 of the Food Stamp Act of 1964, which was classified to section 2019 of Title 7, Agriculture, was amended generally by Pub. L. 95–113, §1301, Sept. 29, 1977, 91 Stat. 969, and the provisions formerly contained in section 2019(e)(2) were covered by section 2020(e)(6) of Title 7.
 
-Act of June 6, 1933, as amended, referred to in subsec. (a)(2)(A), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, known as the "Wagner-Peyser Act", which is classified generally to chapter 4B (§49 et seq.) of Title29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+Act of June 6, 1933, as amended, referred to in subsec. (a)(2)(A), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, known as the "Wagner-Peyser Act", which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 Sections 2674(a)(6) and 2684(a)(6) of this title, referred to in subsec. (a)(3)(A), was in the original a reference to sections 134(a)(6) and 204(a)(6) of the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963. Section 134 of the Act was renumbered "133" and amended by Pub. L. 94–103, and is classified to section 6063 of this title. Provisions relating to personnel standards on a merit basis appeared in section 6063(b)(7) of this title, and were subsequently deleted in a general amendment of subsec. (b). Title II of the Act was amended generally by Pub. L. 94–63, and provisions relating to personnel standards on a merit basis appeared in section 237(a)(1)(D) of the Act, which was classified to section 2689t(a)(1)(D) of this title. Section 2689t was repealed by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560.
 

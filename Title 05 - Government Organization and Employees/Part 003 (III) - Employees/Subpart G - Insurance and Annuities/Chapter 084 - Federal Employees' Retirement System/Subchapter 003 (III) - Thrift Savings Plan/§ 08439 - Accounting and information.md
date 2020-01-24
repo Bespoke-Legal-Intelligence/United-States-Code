@@ -30,7 +30,7 @@
 
 &emsp;(B) a summary description of the investment options under section 8438 of this title covering, and an evaluation of, each such option the 5-year period preceding the date as of which such evaluation is made.
 
-(2) Information under this subsection shall be provided on a regular basis, and in a manner designed to facilitate informed decisionmakingwith respect to elections under sections 8432 and 8438 of this title. Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.
+(2) Information under this subsection shall be provided on a regular basis, and in a manner designed to facilitate informed decisionmaking with respect to elections under sections 8432 and 8438 of this title. Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.
 
 (d)(1) Each employee, Member, former employee, or former Member who elects to invest in any investment fund or option under this chapter, other than the Government Securities Investment Fund, shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in any such fund or option is made at the employee's, Member's, former employee's, or former Member's risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
 
@@ -94,7 +94,7 @@ Reporting of Fees and Other Information.—
 
 &emsp;"(1)
 
-In general.—The Board shall include in the periodic statements provided to participants undersection 8439(c) of title 5, United States Code, the amount of the investment management fees, administrative expenses, and any other fees or expenses paid with respect to each investment fund and option under the Thrift Savings Plan. Any such statement shall also provide a statement notifying participants as to how they may access the annual report described in subsection (a), as well as any other information concerning the Thrift Savings Plan that might be useful.
+In general.—The Board shall include in the periodic statements provided to participants under section 8439(c) of title 5, United States Code, the amount of the investment management fees, administrative expenses, and any other fees or expenses paid with respect to each investment fund and option under the Thrift Savings Plan. Any such statement shall also provide a statement notifying participants as to how they may access the annual report described in subsection (a), as well as any other information concerning the Thrift Savings Plan that might be useful.
 
 &emsp;"(2)
 

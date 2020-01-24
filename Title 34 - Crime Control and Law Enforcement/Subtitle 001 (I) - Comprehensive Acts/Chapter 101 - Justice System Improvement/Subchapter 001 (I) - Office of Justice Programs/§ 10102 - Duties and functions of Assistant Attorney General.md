@@ -10,7 +10,7 @@ The Assistant Attorney General shall—
 
 &emsp;(3) provide information to the President, the Congress, the judiciary, State and local governments, and the general public relating to criminal justice;
 
-&emsp;(4) maintain liaison with public and private educational and research institutions, State and local governments, and governments of other nations relating to criminal justice;
+&emsp;(4) maintain liaison with public and private educational and research institutions, Stateand local governments, and governments of other nations relating to criminal justice;
 
 &emsp;(5) coordinate and provide staff support to coordinate the activities of the Office and the Bureau of Justice Assistance, the National Institute of Justice, the Bureau of Justice Statistics, the Office for Victims of Crime, and the Office of Juvenile Justice and Delinquency Prevention; and
 

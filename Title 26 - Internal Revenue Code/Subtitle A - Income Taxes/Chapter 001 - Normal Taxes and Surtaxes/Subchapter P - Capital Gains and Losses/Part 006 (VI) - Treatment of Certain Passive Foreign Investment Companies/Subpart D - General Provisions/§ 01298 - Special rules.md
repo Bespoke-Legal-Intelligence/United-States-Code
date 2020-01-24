@@ -32,7 +32,7 @@ For purposes of this part—
 
 #### (5) Successive application
 
-&emsp;Stock considered to be owned by a person by reason of the application of paragraph (2), (3), or (4) shall, for purposes of applying such paragraphs, be considered as actually owned by such person.
+&emsp;Stock considered to be owned by a person by reason of the application of paragraph (2), (3),or (4) shall, for purposes of applying such paragraphs, be considered as actually owned by such person.
 
 #### (b) Other special rules
 
@@ -136,7 +136,7 @@ For purposes of this part—
 
 #### (B) Present value
 
-&emsp;&emsp;For purposes of subparagraph (A), the present value of payments described in subparagraph (A) shall be determined in themanner provided in regulations prescribed by the Secretary—
+&emsp;&emsp;For purposes of subparagraph (A), the present value of payments described in subparagraph (A) shall be determined in the manner provided in regulations prescribed by the Secretary—
 
 &emsp;&emsp;&emsp;(i) as of the beginning of the lease term, and
 
@@ -286,5 +286,5 @@ Section applicable to taxable years of foreign corporations beginning after Dec.
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 401(d)(1)(D)(viii)(III) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by section 401(d)(1)(D)(viii)(III) of Pub. L. 115–141 be construed toaffect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 

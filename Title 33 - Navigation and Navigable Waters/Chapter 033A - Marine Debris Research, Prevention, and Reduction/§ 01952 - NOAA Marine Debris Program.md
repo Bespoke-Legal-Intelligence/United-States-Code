@@ -18,7 +18,7 @@ The Administrator, acting through the Program and subject to the availability of
 
 &emsp;&emsp;(B) the development of effective nonregulatory measures and incentives to cooperatively reduce the volume of lost and discarded fishing gear and to aid in gear recovery;
 
-&emsp;(4) undertake outreach and education activities for the public and other stakeholders onsources of marine debris, threats associated with marine debris, and approaches to identifying, determining sources of, assessing, preventing, reducing, and removing marine debris and its adverse impacts on the United States economy, the marine environment, and navigation safety, including outreach and education activities through public-private initiatives;
+&emsp;(4) undertake outreach and education activities for the public and other stakeholders on sources of marine debris, threats associated with marine debris, and approaches to identifying, determining sources of, assessing, preventing, reducing, and removing marine debris and its adverse impacts on the United States economy, the marine environment, and navigation safety, including outreach and education activities through public-private initiatives;
 
 &emsp;(5) develop, in consultation with the Interagency Committee, interagency plans for the timely response to events determined by the Administrator to be severe marine debris events, including plans to—
 

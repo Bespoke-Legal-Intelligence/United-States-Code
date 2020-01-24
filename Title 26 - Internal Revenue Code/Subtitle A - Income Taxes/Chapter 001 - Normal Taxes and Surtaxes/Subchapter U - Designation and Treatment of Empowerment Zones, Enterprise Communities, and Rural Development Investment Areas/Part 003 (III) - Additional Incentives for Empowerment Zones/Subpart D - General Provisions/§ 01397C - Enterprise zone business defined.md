@@ -10,7 +10,7 @@ For purposes of this part, the term "enterprise zone business" means—
 
 #### (b) Qualified business entity
 
-For purposes of this section, the term "qualified business entity" means, with respect to anytaxable year, any corporation or partnership if for such year—
+For purposes of this section, the term "qualified business entity" means, with respect to any taxable year, any corporation or partnership if for such year—
 
 &emsp;(1) every trade or business of such entity is the active conduct of a qualified business within an empowerment zone,
 

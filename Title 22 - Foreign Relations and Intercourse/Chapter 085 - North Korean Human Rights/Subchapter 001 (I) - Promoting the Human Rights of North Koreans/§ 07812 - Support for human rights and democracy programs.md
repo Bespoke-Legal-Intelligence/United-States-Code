@@ -14,7 +14,7 @@ The President is authorized to provide grants to private, nonprofit organization
 
 &emsp;Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
 
-(Pub. L. 108–333, title I, §102, Oct. 18, 2004, 118 Stat. 1290; Pub. L. 110–346, §5, Oct. 7, 2008, 122 Stat. 3941; Pub. L. 112–172, §4, Aug. 16, 2012, 126Stat. 1308; Pub. L. 115–198, §7(a), July 20, 2018, 132 Stat. 1523.)
+(Pub. L. 108–333, title I, §102, Oct. 18, 2004, 118 Stat. 1290; Pub. L. 110–346, §5, Oct. 7, 2008, 122 Stat. 3941; Pub. L. 112–172, §4, Aug. 16, 2012, 126 Stat. 1308; Pub. L. 115–198, §7(a), July 20, 2018, 132 Stat. 1523.)
 
 #### Amendments
 

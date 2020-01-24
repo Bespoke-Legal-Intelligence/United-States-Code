@@ -16,7 +16,7 @@ Subject to subsection (c), any consumer reporting agency may furnish a consumer 
 
 &emsp;&emsp;(C) intends to use the information in connection with the underwriting of insurance involving the consumer; or
 
-&emsp;&emsp;(D) intends to use the information in connection with a determination of the consumer's eligibility for a license or other benefit granted by a governmental instrumentality required by law to consider an applicant's financial responsibility or status; or
+&emsp;&emsp;(D) intends to use the information in connection with a determination of the consumer's eligibility for a license or other benefitgranted by a governmental instrumentality required by law to consider an applicant's financial responsibility or status; or
 
 &emsp;&emsp;(E) intends to use the information, as a potential investor or servicer, or current insurer, in connection with a valuation of, or an assessment of the credit or prepayment risks associated with, an existing credit obligation; or
 
@@ -74,9 +74,9 @@ Subject to subsection (c), any consumer reporting agency may furnish a consumer 
 
 #### (C) Scope
 
-&emsp;&emsp;Subparagraph (B) shall apply to a person procuring a consumer report on a consumerin connection with the consumer's application for employment only if—
+&emsp;&emsp;Subparagraph (B) shall apply to a person procuring a consumer report on a consumer in connection with the consumer's application for employment only if—
 
-&emsp;&emsp;&emsp;(i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49, or a position subject to safety regulation by a State transportation agency; and
+&emsp;&emsp;&emsp;(i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 oftitle 49, or a position subject to safety regulation by a State transportation agency; and
 
 &emsp;&emsp;&emsp;(ii) as of the time at which the person procures the report or causes the report to be procured the only interaction between the consumer and the person in connection with that employment application has been by mail, telephone, computer, or other similar means.
 
@@ -284,9 +284,9 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 #### (3) Actions authorized by Federal law, insurance activities and regulatory determinations
 
-&emsp;Section 1681a(d)(3) of this title shall not be construed so as to treat information or anycommunication of information as a consumer report if the information or communication is disclosed—
+&emsp;Section 1681a(d)(3) of this title shall not be construed so as to treat information or any communication of information as a consumer report if the information or communication is disclosed—
 
-&emsp;&emsp;(A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and Health Information Regulation issued by the National Association of Insurance Commissioners (as in effect on January 1, 2003);
+&emsp;&emsp;(A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and HealthInformation Regulation issued by the National Association of Insurance Commissioners (as in effect on January 1, 2003);
 
 &emsp;&emsp;(B) for any purpose permitted without authorization under the Standards for Individually Identifiable Health Information promulgated by the Department of Health and Human Services pursuant to the Health Insurance Portability and Accountability Act of 1996, or referred to under section 1179 of such Act,<sup>1</sup> or described in section 6802(e) of this title; or
 
@@ -424,11 +424,11 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1681e of this title\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory PaperworkReduction Act of 1996 \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208\], as of the date of the enactment of such Act \[Sept. 30, 1996\]."
+Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1681e of this title\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208\], as of the date of the enactment of such Act \[Sept. 30, 1996\]."
 
 #### Effective Date of 1996 Amendments
 
-Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance,see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
 For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42, The Public Health and Welfare.
 

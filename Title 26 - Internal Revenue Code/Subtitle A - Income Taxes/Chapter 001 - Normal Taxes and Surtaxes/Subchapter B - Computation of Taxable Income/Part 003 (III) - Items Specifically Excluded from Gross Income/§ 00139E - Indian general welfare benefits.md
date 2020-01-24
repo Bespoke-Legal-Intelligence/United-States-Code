@@ -130,7 +130,7 @@ Pub. L. 113–168, §4, Sept. 26, 2014, 128 Stat. 1885, as amended by Pub. L. 11
 
 "(a)
 
-Temporary Suspension of Examinations.—The Secretary of the Treasury shall suspend all audits and examinations of Indian tribal governments and members of Indian tribes (or any spouse or dependent of such a member), to the extent such an audit or examination relates to the exclusion of a payment or benefit from an Indian tribal government under the general welfare exclusion, until the education and training prescribed by section 3(b)(2) of this Act \[section 3(b)(2) of Pub. L. 113–168, set out as a note above\] is completed. The running of any period of limitations under section 6501 of the Internal Revenue Code of 1986 with respect to Indian tribal governments and members of Indian tribes shall be suspended during the period during which audits and examinations are suspended under the preceding sentence.
+Temporary Suspension of Examinations.—The Secretary of the Treasury shall suspend all audits and examinations of Indian tribal governments and members of Indian tribes (or any spouse or dependent of such a member), to the extent such an audit or examination relates to the exclusion of a payment or benefit from an Indian tribal government under the general welfare exclusion, until the education and training prescribed by section 3(b)(2) of this Act \[section 3(b)(2) of Pub. L. 113–168, set out as a note above\] is completed.The running of any period of limitations under section 6501 of the Internal Revenue Code of 1986 with respect to Indian tribal governments and members of Indian tribes shall be suspended during the period during which audits and examinations are suspended under the preceding sentence.
 
 "(b)
 

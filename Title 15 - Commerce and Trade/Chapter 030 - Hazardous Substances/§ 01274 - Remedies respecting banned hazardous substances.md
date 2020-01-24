@@ -44,7 +44,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 (2) If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (e) of this section) that any toy or other article intended for use by children that is not a banned hazardous substance contains a defect which creates a substantial risk of injury to children (because of the pattern of defect, the number of defective toys or such articles distributed in commerce, the severity of the risk, or otherwise) and that action under this paragraph is in the public interest, the Commission may order the manufacturer, distributor, or dealer to take whichever of the following actions the person to whom the order is directed elects:
 
-&emsp;(A) If repairs to or changes in the toy or article can be made so that it will not contain adefect which creates a substantial risk of injury to children, to make such repairs or changes.
+&emsp;(A) If repairs to or changes in the toy or article can be made so that it will not contain a defect which creates a substantial risk of injury to children, to make such repairs or changes.
 
 &emsp;(B) To replace such toy or article with a like or equivalent toy or article which does not contain a defect which creates a substantial risk of injury to children.
 
@@ -60,7 +60,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 #### (e) Hearing; representative of class
 
-An order under subsection (a), (b), or (c) may be issued only after an opportunity for a hearing in accordance with section 554 of title 5, except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative).
+An order under subsection (a), (b), or (c) may be issued only after an opportunity for a hearing in accordance with section 554 of title 5, except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through a single representativedesignated by such class (or by the Commission if such class fails to designate such a representative).
 
 #### (f) "Manufacturer" defined
 
@@ -98,7 +98,7 @@ Subsec. (f). Pub. L. 98–491, §2(a)(1), redesignated subsec. (e) as (f).
 
 <b>1983</b>—Subsec. (e). Pub. L. 97–414 added subsec. (e).
 
-<b>1981</b>—Pub. L. 97–35 revised section generally and substituted provisions authorizing the Commission to require the manufacturers, distributors, or dealers as the case may be to notify the public that the article or substance was a banned hazardous one, and to repair, replace or refund the purchase price, when the Commission determines after providing the manufacturer, distributor, or dealer an opportunity for a hearing thatbanned hazardous substances were sold for provisions requiring the manufacturer, distributor or dealer to repurchase the banned hazardous article or substance.
+<b>1981</b>—Pub. L. 97–35 revised section generally and substituted provisions authorizing the Commission to require the manufacturers, distributors, or dealers as the case may be to notify the public that the article or substance was a banned hazardous one, and to repair, replace or refund the purchase price, when the Commission determines after providing the manufacturer, distributor, or dealer an opportunity for a hearing that banned hazardous substances were sold for provisions requiring the manufacturer, distributor or dealer to repurchase the banned hazardous article or substance.
 
 #### Effective Date of 1988 Amendment
 

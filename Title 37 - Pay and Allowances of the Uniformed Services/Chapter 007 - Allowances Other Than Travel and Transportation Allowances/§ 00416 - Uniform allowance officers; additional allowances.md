@@ -4,7 +4,7 @@
 
 (b) Subsection (a) does not apply to a tour of active duty if—
 
-&emsp;(1) the officer, during that tour or within a period of two years before entering on thattour, received, under any law, an initial uniform reimbursement or allowance of more than $400; or
+&emsp;(1) the officer, during that tour or within a period of two years before entering on that tour, received, under any law, an initial uniform reimbursement or allowance of more than $400; or
 
 &emsp;(2) the officer enters on that tour within two years after completing a period of active duty of more than 90 days' duration.
 

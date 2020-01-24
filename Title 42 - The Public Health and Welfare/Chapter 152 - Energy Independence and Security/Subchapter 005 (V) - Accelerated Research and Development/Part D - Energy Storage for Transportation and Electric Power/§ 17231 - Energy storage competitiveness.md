@@ -66,7 +66,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Council shall consist of not less than 15 individualsappointed by the Secretary, based on recommendations of the National Academy of Sciences.
+&emsp;&emsp;Subject to subparagraph (B), the Council shall consist of not less than 15 individuals appointed by the Secretary, based on recommendations of the National Academy of Sciences.
 
 #### (B) Energy storage industry
 
@@ -118,7 +118,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (2) Nanoscience centers
 
-&emsp;The Secretary, in cooperation with the Council, shall coordinate the activities of the nanoscience centers of the Department to help the energy storage research centers of the Department maintain a globally competitive posture in energy storage systems for electric drive vehicles, stationary applications, and electricity transmission and distribution.
+&emsp;The Secretary, in cooperation with the Council, shall coordinate the activities of thenanoscience centers of the Department to help the energy storage research centers of the Department maintain a globally competitive posture in energy storage systems for electric drive vehicles, stationary applications, and electricity transmission and distribution.
 
 #### (3) Funding
 

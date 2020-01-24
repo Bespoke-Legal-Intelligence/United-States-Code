@@ -2,7 +2,7 @@
 
 #### (a) Issuance of amended order
 
-To implement the amendments made to this chapter by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998 (other than subsection (m) of that section), the Secretary shall issue an amended order under section 4603 of this title that reflects those amendments.
+To implement the amendments made to this chapter by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998 (other than subsection (m) of that section), the Secretary shall issue an amended orderunder section 4603 of this title that reflects those amendments.
 
 #### (b) Proposal of amended order
 
@@ -18,7 +18,7 @@ Not later than 240 days after publication of the proposed order, the Secretary s
 
 #### (A) In general
 
-&emsp;&emsp;On issuance of an order under section 4605 of this title reflecting the amendments madeby section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998, the Secretary shall conduct a referendum under this section for the sole purpose of determining whether the order as amended shall become effective.
+&emsp;&emsp;On issuance of an order under section 4605 of this title reflecting the amendments made by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998, the Secretary shall conduct a referendum under this section for the sole purpose of determining whether the order as amended shall become effective.
 
 #### (B) Individual provisions
 

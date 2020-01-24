@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00661 - Declaration of purpose; cooperation of agencies; surveys and investigations; donations](%C2%A7%2000661%20-%20Declaration%20of%20purpose%3B%20cooperation%20of%20agencies%3B%20surveys%20and%20investigations%3B%20donations.md)
+- [&sect; 00661 - Short title; authorization](%C2%A7%2000661%20-%20Short%20title%3B%20authorization.md)
 - [&sect; 00662 - Impounding, diverting, or controlling of waters](%C2%A7%2000662%20-%20Impounding%2C%20diverting%2C%20or%20controlling%20of%20waters.md)
 - [&sect; 00663 - Impoundment or diversion of waters](%C2%A7%2000663%20-%20Impoundment%20or%20diversion%20of%20waters.md)
 - [&sect; 00664 - Administration; rules and regulations; availability of lands to State agencies](%C2%A7%2000664%20-%20Administration%3B%20rules%20and%20regulations%3B%20availability%20of%20lands%20to%20State%20agencies.md)
@@ -15,6 +15,7 @@
 - [&sect; 00666a - Penalties](%C2%A7%2000666a%20-%20Penalties.md)
 - [&sect; 00666b - Definitions](%C2%A7%2000666b%20-%20Definitions.md)
 - [&sect; 00666c - Applicability to Tennessee Valley Authority](%C2%A7%2000666c%20-%20Applicability%20to%20Tennessee%20Valley%20Authority.md)
+- [&sect; 00666c&#8211;1 - Protection of water, oceans, coasts, and wildlife from invasive species](%C2%A7%2000666c%E2%80%931%20-%20Protection%20of%20water%2C%20oceans%2C%20coasts%2C%20and%20wildlife%20from%20invasive%20species.md)
 - [&sect; 00666d - Skagit National Wildlife Refuge; exchange of lands](%C2%A7%2000666d%20-%20Skagit%20National%20Wildlife%20Refuge%3B%20exchange%20of%20lands.md)
 - [&sect; 00666e - Administration of acquired lands](%C2%A7%2000666e%20-%20Administration%20of%20acquired%20lands.md)
 - [&sect; 00666f - Wildlife conservation and agricultural, industrial, recreational, and related uses for certain Federal lands; transfer of lands to&#8230;](%C2%A7%2000666f%20-%20Wildlife%20conservation%20and%20agricultural%2C%20industrial%2C%20recreational%2C%20and%20related%20uses%20for%20certain%20Federal%20lands%3B%20transfer%20of%20lands%20to%E2%80%A6.md)

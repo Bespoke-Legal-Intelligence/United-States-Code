@@ -26,7 +26,7 @@
 
 (d)(1) In a case described in subsection (b)(6) to which subsection (b)(6) applies, the trustee shall—
 
-&emsp;(A)(i) provide written notice to the holder of the claim described in subsection (b)(6) of such claim and of the right of such holder to use the services of the State child support enforcement agency established under sections 464 and 466 of the Social Security Act for the State in which such holder resides, for assistance in collecting child support during and after the case under this title; and
+&emsp;(A)(i) provide written notice to the holder of the claim described in subsection (b)(6) of such claim and of the right of such holder to use the services of the State child support enforcement agency established under sections 464 and 466 of the Social Security Act for theState in which such holder resides, for assistance in collecting child support during and after the case under this title; and
 
 &emsp;(ii) include in the notice provided under clause (i) the address and telephone number of such State child support enforcement agency;
 
@@ -96,7 +96,7 @@ Subsec. (d). Pub. L. 109–8, §219(d)(2), added subsec. (d).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–554, §228(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "If the court has appointed an individual under subsection (d) of this section to serve as standing trustee in cases under this chapter and if such individual qualifies under section 322 of this title, then such individual shall serve as trustee in the case. Otherwise, the court shall appoint a person to serve as trustee in the case."
 
-Subsec. (d). Pub. L. 99–554, §228(2), struck out subsec. (d) which read as follows: "If the number of cases underthis chapter commenced in a particular judicial district so warrant, the court may appoint one or more individuals to serve as standing trustee for such district in cases under this chapter."
+Subsec. (d). Pub. L. 99–554, §228(2), struck out subsec. (d) which read as follows: "If the number of cases under this chapter commenced in a particular judicial district so warrant, the court may appoint one or more individuals to serve as standing trustee for such district in cases under this chapter."
 
 Subsec. (e). Pub. L. 99–554, §283(w), which directed the amendment of par. (1) by substituting "set for such individual" for "fix" could not be executed in view of the repeal of subsec. (e) by section 228(2) of Pub. L. 99–554. See 1984 Amendment note below.
 

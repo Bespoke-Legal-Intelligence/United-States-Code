@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment, Designation, and Stationing.—The Administrator of the Transportation Security Administration shall establish the position of Foreign Security Liaison Officer for each airport outside the United States at which the Administrator decides an Officer is necessary for air transportation security. In coordination with the Secretary of State, the Administrator shall designate an Officer for each of those airports. In coordination with the Secretary of State, the Administrator shall designate an Officer for each of those airportswhere extraordinary security measures are in place. The Secretary of State shall give high priority to stationing those Officers.
+Establishment, Designation, and Stationing.—The Administrator of the Transportation Security Administration shall establish the position of Foreign Security Liaison Officer for each airport outside the United States at which the Administrator decides an Officer is necessary for air transportation security. In coordination with the Secretary of State, the Administrator shall designate an Officer for each of those airports. In coordination with the Secretary of State, the Administrator shall designate an Officer for each of those airports where extraordinary security measures are in place. The Secretary of State shall give high priority to stationing those Officers.
 
 (b)
 
@@ -14,7 +14,7 @@ Duties and Powers.—An Officer reports directly to the Administrator of the Tra
 
 (c)
 
-Coordination of Activities.—The activities of each Officer shall be coordinated with the chief of the diplomatic mission of the United States to which the Officer is assigned. Activities of an Officer under this section shall be consistent with the duties and powers of the Secretary of State and the chief of mission to a foreign country under section 103 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4802) and section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927).
+Coordination of Activities.—The activities of each Officer shall be coordinated with the chief of the diplomatic mission of the United States to which the Officer is assigned. Activities of an Officer under this section shall be consistent with the duties and powers of the Secretary of State and the chief of mission to a foreign country under section 103 of the OmnibusDiplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4802) and section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927).
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1217; Pub. L. 107–71, title I, §101(f)(4), (5), (7), (9), Nov. 19, 2001, 115 Stat. 603; Pub. L. 115–254, div. K, title I, §1991(d)(25), Oct. 5, 2018, 132 Stat. 3638.)
 

@@ -30,7 +30,7 @@ Definitions.—In this subsection—
 
 Pub. L. 109–241, §901(l)(2), renumbered section 70117 of this title, as added by Pub. L. 108–293, §802(a)(2), as this section.
 
-Subsec. (a). Pub. L. 109–304, §15(33)(C), which directed amendment identical to that made by Pub. L. 109–241, §901(l)(3), was repealed by Pub. L. 110–181. See Amendment note and Construction of 2006 Amendment note below.
+Subsec. (a). Pub. L. 109–304, §15(33)(C), which directed amendment identical to that made by Pub. L. 109–241,§901(l)(3), was repealed by Pub. L. 110–181. See Amendment note and Construction of 2006 Amendment note below.
 
 Pub. L. 109–241, §901(l)(3), substituted "section 70119" for "section 70120".
 

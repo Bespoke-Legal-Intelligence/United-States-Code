@@ -74,7 +74,7 @@ Sec. 3. <i>Preliminary Procedure</i>. (a) The Committee shall receive, on behalf
 
 (c) Each recommendation respecting the award of the Medal to an individual which is transmitted to the President by the Committee shall be accompanied by a draft of a citation describing the contributions which are being recognized by the award.
 
-Sec. 4. <i>Time of Awards and Recommendations</i>. (a) Unless otherwise directed by the President, announcement of the award of the Medal shall be made during the lastsixty days of each calendar year and ceremonies for presentation of the Medal shall be held during the first ninety days of the calendar year following the announcement of the award.
+Sec. 4. <i>Time of Awards and Recommendations</i>. (a) Unless otherwise directed by the President, announcement of the award of the Medal shall be made during the last sixty days of each calendar year and ceremonies for presentation of the Medal shall be held during the first ninety days of the calendar year following the announcement of the award.
 
 (b) Recommendations for awards of the Medals shall be submitted to the Committee, pursuant to Section 3(a) of this Order, by the first day of July of the year in which it is proposed that they be announced by the President. Recommendations of the Committee shall be delivered to the President by the fifteenth day of October of the year in which it is proposed that they be announced. Awards of the Medal may be based upon recommendations of the Committee or upon such other information and evidence as the President deems appropriate.
 
@@ -88,9 +88,11 @@ Sec. 6. <i>Prior Orders</i>. (a) Subject to the provisions of this Order, the Pr
 
 #### Extension of Term of President's Committee on the National Medal of Science
 
-Term of President's Committee on the National Medal of Science extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Committee on the National Medal of Science extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as anote under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Committee on the National Medal of Science were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 

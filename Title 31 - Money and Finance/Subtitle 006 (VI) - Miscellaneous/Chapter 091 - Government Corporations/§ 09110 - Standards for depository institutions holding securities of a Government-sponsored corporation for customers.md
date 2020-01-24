@@ -10,7 +10,7 @@
 
 (e) As used in this subsection—
 
-&emsp;(1) "depository institution" has the meaning stated in clauses (i) through (vi) of section 19(b)(1)(A) of the Federal Reserve Act and also includes a foreign bank, an agency or branch of a foreign bank, and a commercial lending company owned or controlled by a foreign bank (as such terms are defined in the International Banking Act of 1978).
+&emsp;(1) "depository institution" has the meaning stated in clauses (i) through (vi) of section19(b)(1)(A) of the Federal Reserve Act and also includes a foreign bank, an agency or branch of a foreign bank, and a commercial lending company owned or controlled by a foreign bank (as such terms are defined in the International Banking Act of 1978).
 
 &emsp;(2) "government securities broker" has the meaning prescribed in section 3(a)(43) of the Securities Exchange Act of 1934.
 

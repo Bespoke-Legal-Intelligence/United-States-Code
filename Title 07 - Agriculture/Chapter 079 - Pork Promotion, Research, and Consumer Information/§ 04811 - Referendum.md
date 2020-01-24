@@ -2,7 +2,7 @@
 
 #### (a) Continuation of order
 
-For the purpose of determining whether an order then <sup>1</sup> effect shall be continued during the period beginning not earlier than 24 monthsafter the issuance of the order and ending not later than 30 months after the issuance of the order, the Secretary shall conduct a referendum among persons who have been pork producers and importers during a representative period, as determined by the Secretary.
+For the purpose of determining whether an order then <sup>1</sup> effect shall be continued during the period beginning not earlier than 24 months after the issuance of the order and ending not later than 30 months after the issuance of the order, the Secretary shall conduct a referendum among persons who have been pork producers and importers during a representative period, as determined by the Secretary.
 
 #### (b) Factors determining continuation; termination of order
 

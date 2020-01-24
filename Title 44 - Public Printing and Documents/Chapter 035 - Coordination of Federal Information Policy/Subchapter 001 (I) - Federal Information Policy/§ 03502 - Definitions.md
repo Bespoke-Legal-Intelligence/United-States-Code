@@ -62,53 +62,41 @@ As used in this subchapter—
 
 &emsp;&emsp;(C) disclose such records to third parties, the Federal Government, or the public; or
 
-&emsp;&emsp;(D) report to third parties, the Federal Government, or the public regarding such records; and
+&emsp;&emsp;(D) report to third parties, the Federal Government, or the public regarding such records;
 
-&emsp;(14) the term "penalty" includes the imposition by an agency or court of a fine or other punishment; a judgment for monetary damages or equitable relief; or the revocation, suspension, reduction, or denial of a license, privilege, right, grant, or benefit.
+&emsp;(14) the term "penalty" includes the imposition by an agency or court of a fine or other punishment; a judgment for monetary damages or equitable relief; or the revocation, suspension, reduction, or denial of a license, privilege, right, grant, or benefit;
+
+&emsp;(15) the term "comprehensive data inventory" means the inventory created under section 3511(a), but does not include any underlying data asset listed on the inventory;
+
+&emsp;(16) the term "data" means recorded information, regardless of form or the media on which the data is recorded;
+
+&emsp;(17) the term "data asset" means a collection of data elements or data sets that may be grouped together;
+
+&emsp;(18) the term "machine-readable", when used with respect to data, means data in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost;
+
+&emsp;(19) the term "metadata" means structural or descriptive information about data such as content, format, source, rights, accuracy, provenance, frequency, periodicity, granularity, publisher or responsible party, contact information, method of collection, and other descriptions;
+
+&emsp;(20) the term "open Government data asset" means a public data asset that is—
+
+&emsp;&emsp;(A) machine-readable;
+
+&emsp;&emsp;(B) available (or could be made available) in an open format;
+
+&emsp;&emsp;(C) not encumbered by restrictions, other than intellectual property rights, including under titles 17 and 35, that would impede the use or reuse of such asset; and
+
+&emsp;&emsp;(D) based on an underlying open standard that is maintained by a standards organization;
+
+&emsp;(21) the term "open license" means a legal guarantee that a data asset is made available—
+
+&emsp;&emsp;(A) at no cost to the public; and
+
+&emsp;&emsp;(B) with no restrictions on copying, publishing, distributing, transmitting, citing, or adapting such asset;
+
+&emsp;(22) the term "public data asset" means a data asset, or part thereof, maintained by the Federal Government that has been, or may be, released to the public, including any data asset, or part thereof, subject to disclosure under section 552 of title 5; and
+
+&emsp;(23) the term "statistical laws" means subchapter III of this chapter and other laws pertaining to the protection of information collected for statistical purposes as designated by the Director.
 
 (Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 164; amended Pub. L. 104–106, div. E, title LVI, §5605(a), Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(A), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(l)(4), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(e), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 110–289, div. A, title II, §1216(e), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, §315, title X, §1100D(a), July 21, 2010, 124 Stat. 1524, 2111; Pub. L. 115–435, title II, §202(a), Jan. 14, 2019, 132 Stat. 5534.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–435, title II, §202(a), title IV, §403, Jan. 14, 2019, 132 Stat. 5534, 5557, provided that, effective 180 days after Jan. 14, 2019, this section is amended as follows:</i>
-
-<i>(1) in paragraph (13), by striking "; and" at the end and inserting a semicolon;</i>
-
-<i>(2) in paragraph (14), by striking the period at the end and inserting a semicolon; and</i>
-
-<i>(3) by adding at the end the following new paragraphs:</i>
-
-&emsp;<i>"(15) the term 'comprehensive data inventory' means the inventory created under section 3511(a), but does not include any underlying data asset listed on the inventory;</i>
-
-&emsp;<i>"(16) the term 'data' means recorded information, regardless of form or the media on which the data is recorded;</i>
-
-&emsp;<i>"(17) the term 'data asset' means a collection of data elements or data sets that may be grouped together;</i>
-
-&emsp;<i>"(18) the term 'machine-readable', when used with respect to data, means data in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost;</i>
-
-&emsp;<i>"(19) the term 'metadata' means structural or descriptive information about data such as content, format, source, rights, accuracy, provenance, frequency, periodicity, granularity, publisher or responsible party, contact information, method of collection, and other descriptions;</i>
-
-&emsp;<i>"(20) the term 'open Government data asset' means a public data asset that is—</i>
-
-&emsp;&emsp;<i>"(A) machine-readable;</i>
-
-&emsp;&emsp;<i>"(B) available (or could be made available) in an open format;</i>
-
-&emsp;&emsp;<i>"(C) not encumbered by restrictions, other than intellectual property rights, including under titles 17 and 35, that would impede the use or reuse of such asset; and</i>
-
-&emsp;&emsp;<i>"(D) based on an underlying open standard that is maintained by a standards organization;</i>
-
-&emsp;<i>"(21) the term 'open license' means a legal guarantee that a data asset is made available—</i>
-
-&emsp;&emsp;<i>"(A) at no cost to the public; and</i>
-
-&emsp;&emsp;<i>"(B) with no restrictions on copying, publishing, distributing, transmitting, citing, or adapting such asset;</i>
-
-&emsp;<i>"(22) the term 'public data asset' means a data asset, or part thereof, maintained by the Federal Government that has been, or may be, released to the public, including any data asset, or part thereof, subject to disclosure under section 552 of title 5; and</i>
-
-&emsp;<i>"(23) the term 'statistical laws' means subchapter III of this chapter and other laws pertaining to the protection of information collected for statistical purposes as designated by the Director."</i>
-
-<i>See 2019 Amendment note below.</i>
 
 #### Prior Provisions
 

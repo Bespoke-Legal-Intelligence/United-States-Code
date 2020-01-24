@@ -16,7 +16,7 @@ For purposes of this subtitle, in the case of a corporation—
 
 #### (2) Reduction in percentage depletion
 
-&emsp;In the case of iron ore and coal (including lignite), the amount allowable as a deduction under section 613 with respect to any property (as defined in section 614) shall be reduced by20 percent of the amount of the excess (if any) of—
+&emsp;In the case of iron ore and coal (including lignite), the amount allowable as a deduction under section 613 with respect to any property (as defined in section 614) shall be reduced by 20 percent of the amount of the excess (if any) of—
 
 &emsp;&emsp;(A) the amount of the deduction allowable under section 613 for the taxable year (determined without regard to this paragraph), over
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;Unless the taxpayer (under regulations prescribed by the Secretary) establishes otherwise, the amount determined under clause (i) shall be an amount which bears the same ratio to the aggregate amount allowable (determined without regard to this section and section 265(b)) to the taxpayer as a deduction for interest for the taxable year as—
 
-&emsp;&emsp;&emsp;&emsp;(I) the taxpayer's average adjusted basis (within the meaning of section1016) of obligations described in clause (i), bears to
+&emsp;&emsp;&emsp;&emsp;(I) the taxpayer's average adjusted basis (within the meaning of section 1016) of obligations described in clause (i), bears to
 
 &emsp;&emsp;&emsp;&emsp;(II) such average adjusted basis for all assets of the taxpayer.
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 &emsp;The terms "section 1245 property" and "section 1250 property" have the meanings given such terms by sections 1245(a)(3) and 1250(c), respectively.
 
-(Added Pub. L. 97–248, title II, §204(a), Sept. 3, 1982, 96 Stat. 423; amended Pub. L. 97–354, §5(a)(27), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title III, §306(a)(2), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §68(a), (b), title VII, §712(a)(1)(A), (2)–(4), July 18, 1984, 98 Stat. 588, 946; Pub. L. 99–514, title II, §201(d)(5), title IV, §§411(a), (b)(2)(C)(ii), 412(b)(1), title IX, §§901(b)(4), (d)(4)(C), 902(c), title XVIII, §§1804(k)(1), (3)(A), 1854(c)(1), 1876(b)(1), Oct. 22, 1986, 100 Stat. 2140, 2225, 2227, 2378, 2380, 2382, 2809, 2878, 2898; Pub. L. 100–418, title I, §1941(b)(5), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1009(b)(4), (5), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 101–508, title XI, §11801(c)(12)(B), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§1602(b)(1), 1616(b)(5), Aug. 20, 1996, 110 Stat. 1833, 1856; Pub. L. 110–172, §11(g)(6), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 111–5, div. B, title I, §1501(b), Feb. 17, 2009, 123 Stat. 353.)
+(Added Pub. L. 97–248, title II, §204(a), Sept. 3, 1982, 96 Stat. 423; amended Pub. L. 97–354,§5(a)(27), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title III, §306(a)(2), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §68(a), (b), title VII, §712(a)(1)(A), (2)–(4), July 18, 1984, 98 Stat. 588, 946; Pub. L. 99–514, title II, §201(d)(5), title IV, §§411(a), (b)(2)(C)(ii), 412(b)(1), title IX, §§901(b)(4), (d)(4)(C), 902(c), title XVIII, §§1804(k)(1), (3)(A), 1854(c)(1), 1876(b)(1), Oct. 22, 1986, 100 Stat. 2140, 2225, 2227, 2378, 2380, 2382, 2809, 2878, 2898; Pub. L. 100–418, title I, §1941(b)(5), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1009(b)(4), (5), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 101–508, title XI, §11801(c)(12)(B), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§1602(b)(1), 1616(b)(5), Aug. 20, 1996, 110 Stat. 1833, 1856; Pub. L. 110–172, §11(g)(6), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 111–5, div. B, title I, §1501(b), Feb. 17, 2009, 123 Stat. 353.)
 
 #### References in Text
 
@@ -264,7 +264,7 @@ In general.—Except as provided in this subsection, the amendments made by this
 
 "(2) 1250
 
-gain.—The amendments made by this section to section 291(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and the amendment made by subsection (c)(2) of this section \[amending section 57 of this title\], shall apply to sales or other dispositionsafter December 31, 1984, in taxable years ending after such date.
+gain.—The amendments made by this section to section 291(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and the amendment made by subsection (c)(2) of this section \[amending section 57 of this title\], shall apply to sales or other dispositions after December 31, 1984, in taxable years ending after such date.
 
 "(3)
 
@@ -282,7 +282,7 @@ Amendment by Pub. L. 97–448 effective as if included in the provisions of the 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
+Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) ofPub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
 #### Effective Date
 

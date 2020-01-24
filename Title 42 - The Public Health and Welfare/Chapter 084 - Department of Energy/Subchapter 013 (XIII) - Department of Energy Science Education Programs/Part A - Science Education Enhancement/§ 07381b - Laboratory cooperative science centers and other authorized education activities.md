@@ -20,7 +20,7 @@ The Secretary is authorized to:
 
 &emsp;(8) Provide paid administrative leave for employees of the Department or Department research and development facilities who volunteer to interact with schools, colleges, universities, teachers, or students for the purpose of science, mathematics, and engineering education.
 
-&emsp;(9) Establish a talent pool of volunteer scientists, mathematicians, and engineers whohave retired from the Department or Department research and development facilities to serve at schools and school districts for the purpose of (A) assisting teachers, with activities such as experiments, lectures, or the preparation of materials; (B) serving as counselors to students on science, mathematics, and engineering; and (C) otherwise assisting science, mathematics, and engineering classes. The Secretary, acting through Department research and development facilities, shall, wherever possible, identify and match schools and school districts with retired scientists, mathematicians, and engineers.
+&emsp;(9) Establish a talent pool of volunteer scientists, mathematicians, and engineers who have retired from the Department or Department research and development facilities to serve at schools and school districts for the purpose of (A) assisting teachers, with activities such as experiments, lectures, or the preparation of materials; (B) serving as counselors to students on science, mathematics, and engineering; and (C) otherwise assisting science, mathematics, and engineering classes. The Secretary, acting through Department research and development facilities, shall, wherever possible, identify and match schools and school districts with retired scientists, mathematicians, and engineers.
 
 &emsp;(10) Establish a Young Americans' Summer Science Camp Program to provide secondary school students with a hands-on science experience as well as exposure to working scientists and career counseling.
 
@@ -50,7 +50,7 @@ The Secretary is authorized to accept non-Federal funds to finance education act
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a)(14) to (17). Pub. L. 109–58, which directed amendment of this section by adding pars. (14) to (17) at the end, was executed by making the addition at the end of subsec. (a), to reflect the probable intent of Congress.
+<b>2005</b>—Subsec. (a)(14) to (17). Pub. L. 109–58, which directed amendment of this section by adding pars. (14)to (17) at the end, was executed by making the addition at the end of subsec. (a), to reflect the probable intent of Congress.
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–25, §704(d)(1), redesignated subpars. (J) to (M) as pars. (10) to (13), respectively.
 

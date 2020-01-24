@@ -12,7 +12,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;(5) obtaining necessary medical care for an illness, injury, or medical condition while abroad in a locality where there is no suitable person or facility to provide such care (without regard to those laws and regulations limiting or restricting the furnishing or payment of transportation and traveling expenses), as well as expenses for—
 
-&emsp;&emsp;(A) an attendant or attendants for a member of the Service or a family member whois too ill to travel unattended or for a family member who is too young to travel alone, and
+&emsp;&emsp;(A) an attendant or attendants for a member of the Service or a family member who is too ill to travel unattended or for a family member who is too young to travel alone, and
 
 &emsp;&emsp;(B) a family member incapable of caring for himself or herself if he or she remained at the post at which the member of the Service is serving;
 

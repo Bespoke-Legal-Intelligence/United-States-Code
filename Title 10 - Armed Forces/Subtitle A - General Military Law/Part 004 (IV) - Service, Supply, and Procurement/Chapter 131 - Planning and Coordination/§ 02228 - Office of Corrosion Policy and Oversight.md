@@ -4,7 +4,7 @@
 
 Office and Director.—(1) There is an Office of Corrosion Policy and Oversight within the Office of the Under Secretary of Defense for Acquisition and Sustainment.
 
-(2) The Office shall be headed by a Director of Corrosion Policy and Oversight, who shall be assigned to such position by the Under Secretary from among civilian employees of the Department of Defense with the qualifications described in paragraph (3). The Director is responsible in the Department of Defense to the Secretary of Defense (after the Under Secretary of Defense for Acquisition and Sustainment) for the prevention and mitigation of corrosion of the military equipment and infrastructure of the Department of Defense..<sup>1</sup>
+(2) The Office shall be headed by a Director of Corrosion Policy and Oversight, who shall be assigned to such position by the Under Secretary from among civilian employees of the Department of Defense with the qualifications described in paragraph (3). The Director is responsible in the Department of Defense to the Secretary of Defense (after the Under Secretary of Defense for Acquisition and Sustainment) for the prevention and mitigation of corrosion of the military equipment and infrastructure of the Department of Defense.
 
 (3) In order to qualify to be assigned to the position of Director, an individual shall—
 
@@ -12,7 +12,7 @@ Office and Director.—(1) There is an Office of Corrosion Policy and Oversight 
 
 &emsp;(B) have an understanding of Department of Defense budget formulation and execution, policy formulation, and planning and program requirements.
 
-(4) The Secretary of Defense shall designate the position of Director as a critical acquisition position under section 1733(b)(1)(C) of this title.
+(4) The Secretary of Defense shall designate the position of Director as a critical acquisition position under section 1731 of this title.
 
 (b)
 
@@ -56,7 +56,7 @@ Long-Term Strategy.—(1) The Secretary of Defense shall develop and implement a
 
 &emsp;(C) Implementation of programs, including supporting databases, to ensure that a focused and coordinated approach is taken throughout the Department of Defense to collect, review, validate, and distribute information on proven methods and products that are relevant to the prevention of corrosion of military equipment and infrastructure.
 
-&emsp;(D) Establishment of a coordinated research and development program for the prevention and mitigation of corrosion for new and existing military equipment and infrastructure that includes a plan to transition new corrosion prevention technologies into operationalsystems, including through the establishment of memoranda of agreement, joint funding agreements, public-private partnerships, university research and education centers, and other cooperative research agreements.
+&emsp;(D) Establishment of a coordinated research and development program for the prevention and mitigation of corrosion for new and existing military equipment and infrastructure that includes a plan to transition new corrosion prevention technologies into operational systems, including through the establishment of memoranda of agreement, joint funding agreements, public-private partnerships, university research and education centers, and other cooperative research agreements.
 
 (3) The strategy shall include, for the matters specified in paragraph (2), the following:
 
@@ -104,9 +104,13 @@ Definitions.—In this section:
 
 &emsp;(5) The term "defense budget materials", with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
-(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, §331, Jan. 7, 2011, 124 Stat. 4185; Pub. L. 112–239, div. A, title III, §341, Jan. 2, 2013, 126 Stat. 1699; Pub. L. 114–328, div. A, title IX, §954(a), (b), Dec. 23, 2016, 130 Stat. 2376, 2377; Pub. L. 115–232, div. A, title VIII, §811(a), Aug. 13, 2018, 132 Stat. 1845.)
+(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, §331, Jan. 7, 2011, 124 Stat. 4185; Pub. L. 112–239, div. A, title III, §341, Jan. 2, 2013, 126 Stat. 1699; Pub. L. 114–328, div. A, title IX, §954(a), (b), Dec. 23, 2016, 130 Stat. 2376, 2377; Pub. L. 115–232, div. A, title VIII, §811(a), Aug. 13, 2018, 132 Stat. 1845; Pub. L. 116–92, div. A, title VIII, §861(j)(13), title XVII, §1731(a)(32), Dec. 20, 2019, 133 Stat. 1520, 1814.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(2). Pub. L. 116–92, §1731(a)(32), struck out second period at end.
+
+Subsec. (a)(4). Pub. L. 116–92, §861(j)(13), substituted "under section 1731 of this title" for "under section 1733(b)(1)(C) of this title".
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–232, §811(a)(1), substituted "and Sustainment" for ", Technology, and Logistics".
 
@@ -265,6 +269,4 @@ Duties.—(1) The corrosion control and prevention executive of a military depar
 #### Deadline for Designation of Responsible Official or Organization; Interim Report; Deadline for Long-Term Strategy; GAO Review
 
 Pub. L. 107–314, div. A, title X, §1067(b)–(e), Dec. 2, 2002, 116 Stat. 2658, 2659, directed the Secretary of Defense to designate a responsible official or organization under subsec. (a) of this section not later than 90 days after Dec. 2, 2002, directed the Secretary to submit to Congress a report setting forth the long-term strategy required under subsec. (c) of this section not later than one year after Dec. 2, 2002, and required the Comptroller General to monitor the implementation of such long-term strategy and, not later than 18 months after Dec. 2, 2002, to submit to Congress an assessment of the extent to which that strategy had been implemented.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

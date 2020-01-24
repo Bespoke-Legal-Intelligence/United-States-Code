@@ -18,7 +18,7 @@ The Governor of a State shall establish a State workforce development board to c
 
 &emsp;&emsp;&emsp;(i) a majority shall be representatives of businesses in the State, who—
 
-&emsp;&emsp;&emsp;&emsp;(I) are owners of businesses, chief executives or operating officers of businesses, or other business executives or employers with optimum policymakingor hiring authority, and who, in addition, may be members of a local board described in section 3122(b)(2)(A)(i) of this title;
+&emsp;&emsp;&emsp;&emsp;(I) are owners of businesses, chief executives or operating officers of businesses, or other business executives or employers with optimum policymaking or hiring authority, and who, in addition, may be members of a local board described in section 3122(b)(2)(A)(i) of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) represent businesses (including small businesses), or organizations representing businesses described in this subclause, that provide employment opportunities that, at a minimum, include high-quality, work-relevant training and development in in-demand industry sectors or occupations in the State; and
 
@@ -144,7 +144,7 @@ The State board shall assist the Governor in—
 
 #### (2) References
 
-&emsp;A reference in this Act, or a core program provision that is not in this Act, to a State board shall be considered to include such an entity.
+&emsp;A reference in this Act, or a core program provision that is not in this Act, to a Stateboard shall be considered to include such an entity.
 
 #### (f) Conflict of interest
 

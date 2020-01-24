@@ -38,15 +38,17 @@ In this chapter:
 
 &emsp;&emsp;(H) The term "supplies".
 
-&emsp;&emsp;(I) The term "commercial item".
+&emsp;&emsp;(I) The term "commercial product".
 
-&emsp;&emsp;(J) The term "nondevelopmental item".
+&emsp;&emsp;(J) The term "commercial service".
 
-&emsp;&emsp;(K) The term "commercial component".
+&emsp;&emsp;(K) The term "nondevelopmental item".
 
-&emsp;&emsp;(L) The term "component".
+&emsp;&emsp;(L) The term "commercial component".
 
-&emsp;(4) The term "technical data" means recorded information (regardless of the form or method of the recording) of a scientific or technical nature (including computer software documentation) relating to supplies procured by an agency. Such term does not include computer software or financial, administrative, cost or pricing, or management data or other information incidental to contract administration.
+&emsp;&emsp;(M) The term "component".
+
+&emsp;(4) The term "technical data" means recorded information (regardless of the form ormethod of the recording) of a scientific or technical nature (including computer software documentation) relating to supplies procured by an agency. Such term does not include computer software or financial, administrative, cost or pricing, or management data or other information incidental to contract administration.
 
 &emsp;(5) The term "major system" means a combination of elements that will function together to produce the capabilities required to fulfill a mission need. The elements may include hardware, equipment, software or any combination thereof, but excludes construction or other improvements to real property. A system shall be considered a major system if (A) the conditions of section 2302d of this title are satisfied, or (B) the system is designated a "major system" by the head of the agency responsible for the system.
 
@@ -58,21 +60,7 @@ In this chapter:
 
 &emsp;(9) The term "nontraditional defense contractor", with respect to a procurement or with respect to a transaction authorized under section 2371(a) or 2371b of this title, means an entity that is not currently performing and has not performed, for at least the one-year period preceding the solicitation of sources by the Department of Defense for the procurement or transaction, any contract or subcontract for the Department of Defense that is subject to full coverage under the cost accounting standards prescribed pursuant to section 1502 of title 41 and the regulations implementing such section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 127; Pub. L. 85–568, title III, §301(b), July 29, 1958, 72 Stat. 432; Pub. L. 85–861, §1(43A), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 96–513, title V, §511(74), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–369, div. B, title VII, §2722(a), July 18, 1984, 98 Stat. 1186; Pub. L. 98–525, title XII, §1211, Oct. 19, 1984, 98 Stat. 2589; Pub. L. 98–577, title V, §504(b)(3), Oct. 30, 1984, 98 Stat. 3087; Pub. L. 99–661, div. A, title XIII, §1343(a)(13), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title VIII, §853(b)(1), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 102–25, title VII, §701(d)(1), Apr. 6, 1991, 105 Stat. 113; Pub. L. 102–190, div. A, title VIII, §805, Dec. 5, 1991, 105Stat. 1417; Pub. L. 103–355, title I, §1502, Oct. 13, 1994, 108 Stat. 3296; Pub. L. 104–106, div. D, title XLIII, §4321(b)(3), Feb. 10, 1996, 110 Stat. 672; Pub. L. 104–201, div. A, title VIII, §§805(a)(1), 807(a), Sept. 23, 1996, 110 Stat. 2605, 2606; Pub. L. 105–85, div. A, title VIII, §803(b), Nov. 18, 1997, 111 Stat. 1832; Pub. L. 107–217, §3(b)(2), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–350, §5(b)(8), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 111–383, div. A, title VIII, §866(g)(1), Jan. 7, 2011, 124 Stat. 4298; Pub. L. 113–291, div. A, title X, §1071(a)(2), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, §815(b), Nov. 25, 2015, 129 Stat. 896; Pub. L. 115–91, div. A, title II, §221, Dec. 12, 2017, 131 Stat. 1333; Pub. L. 115–232, div. A, title VIII, §836(c)(1), Aug. 13, 2018, 132 Stat. 1864.)
-
-#### Amendment of Paragraph (3)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(c)(1), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (3) of this section is amended as follows:</i>
-
-<i>(1) by redesignating subparagraphs (J), (K), and (L) as subparagraphs (K), (L), and (M); and</i>
-
-<i>(2) by striking subparagraph (I) and inserting the following new subparagraphs (I) and (J):</i>
-
-&emsp;&emsp;<i>(I) The term "commercial product".</i>
-
-&emsp;&emsp;<i>(J) The term "commercial service".</i>
-
-<i>See 2018 Amendment note below.</i>
+(Aug. 10, 1956, ch. 1041, 70A Stat. 127; Pub. L. 85–568, title III, §301(b), July 29, 1958, 72 Stat. 432; Pub. L. 85–861, §1(43A), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 96–513, title V, §511(74), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–369, div. B, title VII, §2722(a), July 18, 1984, 98 Stat. 1186; Pub. L. 98–525, title XII, §1211, Oct. 19, 1984, 98 Stat. 2589; Pub. L. 98–577, title V, §504(b)(3), Oct. 30, 1984, 98 Stat. 3087; Pub. L. 99–661, div. A, title XIII, §1343(a)(13), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title VIII, §853(b)(1), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 102–25, title VII, §701(d)(1), Apr. 6, 1991, 105 Stat. 113; Pub. L. 102–190, div. A, title VIII, §805, Dec. 5, 1991, 105 Stat. 1417; Pub. L. 103–355, title I, §1502, Oct. 13, 1994, 108 Stat. 3296; Pub. L. 104–106, div. D, title XLIII, §4321(b)(3), Feb. 10, 1996, 110 Stat. 672; Pub. L. 104–201, div. A, title VIII, §§805(a)(1), 807(a), Sept. 23, 1996, 110 Stat. 2605, 2606; Pub. L. 105–85, div. A, title VIII, §803(b), Nov. 18, 1997, 111 Stat. 1832; Pub. L. 107–217, §3(b)(2), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–350, §5(b)(8), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 111–383, div. A, title VIII, §866(g)(1), Jan. 7, 2011, 124 Stat. 4298; Pub. L. 113–291, div. A, title X, §1071(a)(2), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, §815(b), Nov. 25, 2015, 129 Stat. 896; Pub. L. 115–91, div. A, title II, §221, Dec. 12, 2017, 131 Stat. 1333; Pub. L. 115–232, div. A, title VIII, §836(c)(1), Aug. 13, 2018, 132 Stat. 1864.)
 
 Historical and Revision Notes<br>1956
 
@@ -252,7 +240,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–568, title III, §301(e), July 29, 1958, 72 Stat. 433, provided that: "This section \[amending this section, section 2303 of this title, section 22–1 of former Title 5, and sections 511 to 513 and 515 of Title 50, Warand National Defense, and enacting provisions set out as a note under section 2472 of Title 42, The Public Health and Welfare\] shall take effect ninety days after the date of the enactment of this Act \[July 29, 1958\], or on any earlier date on which the Administrator \[of the National Aeronautics and Space Administration\] shall determine, and announce by proclamation published in the Federal Register, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it by this Act."
+Pub. L. 85–568, title III, §301(e), July 29, 1958, 72 Stat. 433, provided that: "This section \[amending this section, section 2303 of this title, section 22–1 of former Title 5, and sections 511 to 513 and 515 of Title 50, War and National Defense, and enacting provisions set out as a note under section 2472 of Title 42, The Public Health and Welfare\] shall take effect ninety days after the date of the enactment of this Act \[July 29, 1958\], or on any earlier date on which the Administrator \[of the National Aeronautics and Space Administration\] shall determine, and announce by proclamation published in the Federal Register, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it by this Act."
 
 #### Short Title of 1986 Amendment
 
@@ -265,6 +253,240 @@ Pub. L. 99–145, title IX, §901, Nov. 8, 1985, 99 Stat. 682, provided that: "T
 #### Short Title of 1984 Amendment
 
 Pub. L. 98–525, title XII, §1201, Oct. 19, 1984, 98 Stat. 2588, provided that: "This title \[enacting sections 2303a, 2317 to 2323, 2384a, 2402 to 2405, and 2411 to 2416 of this title, amending sections 139a, 139b, 2302, 2305, 2311, 2384, and 2401 of this title, enacting provisions set out as notes under this section and sections 139, 139a, 2303a, 2305, 2318, 2319, 2322, 2323, 2384, 2384a, 2392, and 2402 of this title, amending provisions set out as notes under sections 2392, 2401, and 2452 of this title, and repealing provisions set out as notes under section 2304 of this title\] may be cited as the 'Defense Procurement Reform Act of 1984'."
+
+#### Requiring Defense Microelectronics Products and Services Meet Trusted Supply Chain and Operational Security Standards
+
+Pub. L. 116–92, div. A, title II, §224, Dec. 20, 2019, 133 Stat. 1266, provided that:
+
+"(a)
+
+Purchases.—To protect the United States from intellectual property theft and to ensure national security and public safety in the application of new generations of wireless network technology and microelectronics, beginning no later than January 1, 2023, the Secretary of Defense shall ensure that each microelectronics product or service that the Department of Defense purchases on or after such date meets the applicable trusted supply chain and operational security standards established pursuant to subsection (b), except in a case in which the Department seeks to purchase a microelectronics product or service but—
+
+&emsp;"(1) no such product or service is available for purchase that meets such standards; or
+
+&emsp;"(2) no such product or service is available for purchase that—
+
+&emsp;&emsp;"(A) meets such standards; and
+
+&emsp;&emsp;"(B) is available at a price that the Secretary does not consider prohibitively expensive.
+
+"(b)
+
+Trusted Supply Chain and Operational Security Standards.—
+
+&emsp;"(1)
+
+Standards required.—(A) Not later than January 1, 2021, the Secretary shall establish trusted supply chain and operational security standards for thepurchase of microelectronics products and services by the Department.
+
+&emsp;"(B) For purposes of this section, a trusted supply chain and operational security standard—
+
+&emsp;&emsp;"(i) is a standard that systematizes best practices relevant to—
+
+&emsp;&emsp;&emsp;"(I) manufacturing location;
+
+&emsp;&emsp;&emsp;"(II) company ownership;
+
+&emsp;&emsp;&emsp;"(III) workforce composition;
+
+&emsp;&emsp;&emsp;"(IV) access during manufacturing, suppliers' design, sourcing, manufacturing, packaging, and distribution processes;
+
+&emsp;&emsp;&emsp;"(V) reliability of the supply chain; and
+
+&emsp;&emsp;&emsp;"(VI) other matters germane to supply chain and operational security; and
+
+&emsp;&emsp;"(ii) is not a military standard (also known as 'MIL-STD') or a military specification (also known as 'MIL-SPEC') for microelectronics that—
+
+&emsp;&emsp;&emsp;"(I) specifies individual features for Department of Defense microelectronics; or
+
+&emsp;&emsp;&emsp;"(II) otherwise inhibits the acquisition by the Department of securely manufactured, commercially-available products.
+
+&emsp;"(2)
+
+Consultation required.—In developing standards under paragraph (1), the Secretary shall consult with the following:
+
+&emsp;&emsp;"(A) The Secretary of Homeland Security, the Secretary of State, the Secretary of Commerce, and the Director of the National Institute of Standards and Technology.
+
+&emsp;&emsp;"(B) Suppliers of microelectronics products and services from the United States and allies and partners of the United States.
+
+&emsp;&emsp;"(C) Representatives of major United States industry sectors that rely on a trusted supply chain and the operational security of microelectronics products and services.
+
+&emsp;&emsp;"(D) Representatives of the United States insurance industry.
+
+&emsp;"(3)
+
+Tiers of trust and levels of security authorized.—In carrying out paragraph (1), the Secretary may establish tiers and levels of trust and security within the supply chain and operational security standards for microelectronics products and services.
+
+&emsp;"(4)
+
+General applicability.—The standards established pursuant to paragraph (1) shall be, to the greatest extent practicable, generally applicable to the trusted supply chain and operational security needs and use cases of the United States Government and commercial industry, such that the standards could be widely adopted by government agencies, commercial industry, and allies and partners of the United States as the basis for procuring microelectronics products and services.
+
+&emsp;"(5)
+
+Annual review.—Not later than October 1 of each year, the Secretary shall, in consultation with persons and entities set forth under paragraph (2), review the standards established pursuant to paragraph (1) and issue updates or modifications as the Secretary considers necessary or appropriate.
+
+"(c)
+
+Ensuring Ability to Sell Commercially.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall, to the greatest extent practicable, ensure that suppliers of microelectronics products and services for the Department of Defense subject to subsection (a) are able and incentivized to sell products commercially and to governments of allies and partners of the United States that are produced on the same production lines as the microelectronics products supplied to the Department of Defense.
+
+&emsp;"(2)
+
+Effect of requirements and acquisitions.—The Secretary shall, to the greatest extent practicable, ensure that the requirements of the Department and the acquisition by the Department of microelectronics enable the success of a dual-use microelectronics industry.
+
+"(d)
+
+Maintaining Competition and Innovation.—The Secretary shall take such actions as the Secretary considers necessary and appropriate, within the Secretary's authorized activities to maintain the health of the defense industrial base, to ensure that—
+
+&emsp;"(1) providers of microelectronics products and services that meet the standards established under subsection (b) are exposed to competitive market pressures to achieve competitive pricing and sustained innovation; and
+
+&emsp;"(2) the industrial base of microelectronics products and services that meet the standards established under subsection (b) includes providers manufacturing in the United States or in countries that are allies or partners of the United States."
+
+#### Prohibition on Operation or Procurement of Foreign-Made Unmanned Aircraft Systems
+
+Pub. L. 116–92, div. A, title VIII, §848, Dec. 20, 2019, 133 Stat. 1508, provided that:
+
+"(a)
+
+Prohibition on Agency Operation or Procurement.—The Secretary of Defense may not operate or enter into or renew a contract for the procurement of—
+
+&emsp;"(1) a covered unmanned aircraft system that—
+
+&emsp;&emsp;"(A) is manufactured in a covered foreign country or by an entity domiciled in a covered foreign country;
+
+&emsp;&emsp;"(B) uses flight controllers, radios, data transmission devices, cameras, or gimbals manufactured in a covered foreign country or by an entity domiciled in a covered foreign country;
+
+&emsp;&emsp;"(C) uses a ground control system or operating software developed in a covered foreign country or by an entity domiciled in a covered foreign country; or
+
+&emsp;&emsp;"(D) uses network connectivity or data storage located in or administered by an entity domiciled in a covered foreign country; or
+
+&emsp;"(2) a system manufactured in a covered foreign country or by an entity domiciled in a covered foreign country for the detection or identification of covered unmanned aircraft systems.
+
+"(b)
+
+Exemption.—The Secretary of Defense is exempt from the restriction under subsection (a) if the operation or procurement is for the purposes of—
+
+&emsp;"(1) Counter-UAS surrogate testing and training; or
+
+&emsp;"(2) intelligence, electronic warfare, and information warfare operations, testing, analysis, and training.
+
+"(c)
+
+Waiver.—The Secretary of Defense may waive the restriction under subsection (a) on a case by case basis by certifying in writing to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that the operation or procurement is required in the national interest of the United States.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered foreign country.—The term 'covered foreign country' means the People's Republic of China.
+
+&emsp;"(2)
+
+Covered unmanned aircraft system.—The term 'covered unmanned aircraft system' means an unmanned aircraft system and any related services and equipment."
+
+#### Policies and Procedures for Contractors To Report Gross Violations of Internationally Recognized Human Rights
+
+Pub. L. 116–92, div. A, title VIII, §888, Dec. 20, 2019, 133 Stat. 1536, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall update Department of Defense policy and guidance and the Department of Defense Supplement to the Federal Acquisition Regulation to provide specific guidance to Department of Defense employees and contractors performing a Department of Defense contract that supports United States Armed Forces deployed outside of the United States on monitoring and reporting allegations of gross violations of internationally recognized human rights.
+
+"(b)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense, with the concurrence of the Secretary of State, shall submit to the appropriate congressional committees a report that describes—
+
+&emsp;"(1) the policies and procedures in place to obtain information about possible cases of gross violations of internationally recognized human rights from Department of Defense contractors described in subsection (a), including the methods for tracking cases; and
+
+&emsp;"(2) the resources needed to investigate reports made pursuant to subsection (a).
+
+"(c)
+
+Form of Report.—The report required by subsection (b) shall be submitted in unclassified form, but may include a classified annex.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—the term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+&emsp;&emsp;"(B) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+&emsp;"(2)
+
+Gross violations of internationally recognized human rights.—The term 'gross violations of internationally recognized human rights' has the meaning given such term in subsection (d)(1) of section 502B of the Foreign Assistance Act of 1961 (22 U.S.C. 2304)."
+
+#### Prohibition on Contracting With Persons That Have Business Operations With the Maduro Regime
+
+Pub. L. 116–92, div. A, title VIII, §890, Dec. 20, 2019, 133 Stat. 1538, provided that:
+
+"(a)
+
+Prohibition.—Except as provided under subsections (c), (d), and (e), the Department of Defense may not enter into a contract for the procurement of goods or services with any person that has business operations with an authority of the Government of Venezuela that is not recognized as the legitimate Government of Venezuela by the United States Government.
+
+"(b)
+
+Exceptions.—
+
+&emsp;"(1)
+
+In general.—The prohibition under subsection (a) does not apply to a contract that the Secretary of Defense and the Secretary of State jointly determine—
+
+&emsp;&emsp;"(A) is necessary—
+
+&emsp;&emsp;&emsp;"(i) for purposes of providing humanitarian assistance to the people of Venezuela;
+
+&emsp;&emsp;&emsp;"(ii) for purposes of providing disaster relief and other urgent life-saving measures; or
+
+&emsp;&emsp;&emsp;"(iii) to carry out noncombatant evacuations; or
+
+&emsp;&emsp;"(B) is vital to the national security interests of the United States.
+
+&emsp;"(2)
+
+Notification requirement.—The Secretary of Defense shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate of any contract entered into on the basis of an exception provided for under paragraph (1).
+
+"(c)
+
+Office of Foreign Assets Control Licenses.—The prohibition in subsection (a) shall not apply to a person that has a valid license to operate in Venezuela issued by the Office of Foreign Assets Control of the Department of the Treasury.
+
+"(d)
+
+American Diplomatic Mission in Venezuela.—The prohibition in subsection (a) shall not apply to contracts related to the operation and maintenance of the United States Government's consular offices and diplomatic posts in Venezuela.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Business operations.—The term 'business operations' means engaging in commerce in any form, including acquiring, developing, maintaining, owning, selling, possessing, leasing, or operating equipment, facilities, personnel, products, services, personal property, real property, or any other apparatus of business or commerce.
+
+&emsp;"(2)
+
+Government of venezuela.—The term 'Government of Venezuela' includes the government of any political subdivision of Venezuela, and any agency or instrumentality of the Government of Venezuela. For purposes of this paragraph, the term 'agency or instrumentality of the Government of Venezuela' means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, United States Code, with each reference in such section to 'a foreign state' deemed to be a reference to 'Venezuela'.
+
+&emsp;"(3)
+
+Person.—The term 'person' means—
+
+&emsp;&emsp;"(A) a natural person, corporation, company, business association, partnership, society, trust, or any other nongovernmental entity, organization, or group;
+
+&emsp;&emsp;"(B) any governmental entity or instrumentality of a government, including a multilateral development institution (as defined in section 1701(c)(3) of the International Financial Institutions Act (22 U.S.C. 262r(c)(3))); and
+
+&emsp;&emsp;"(C) any successor, subunit, parent entity, or subsidiary of, or any entity under common ownership or control with, any entity described in subparagraph (A) or (B).
+
+"(f)
+
+Applicability.—This section shall apply with respect to any contract entered into on or after the date of the enactment of this section \[Dec. 20, 2019\]."
 
 #### Armored Commercial Passenger-Carrying Vehicles
 
@@ -292,7 +514,7 @@ Pub. L. 115–232, div. A, title II, §226, Aug. 13, 2018, 132 Stat. 1685, provi
 
 "(a)
 
-Activities Required.—During calendar year 2019, the Secretary of the Army shall, in consultation with the Director of Operational Test and Evaluation, carry out a set of activities to identify and develop personal equipment to provide enhanced protection against injuries caused by blasts in combat and training.
+Activities Required.—During calendar year 2019, the Secretary of the Army shall, in consultationwith the Director of Operational Test and Evaluation, carry out a set of activities to identify and develop personal equipment to provide enhanced protection against injuries caused by blasts in combat and training.
 
 "(b)
 
@@ -404,7 +626,7 @@ Consultation.—To develop the pilot program under this section, the Undersecret
 
 "(d)
 
-Commencement and Duration.—The pilot program established under this section shall be established not later than April 1, 2019, and all activities under such pilot program shall terminate not later than December 31, 2020."
+Commencement and Duration.—The pilot program established under this section shall be establishednot later than April 1, 2019, and all activities under such pilot program shall terminate not later than December 31, 2020."
 
 #### Authority for Explosive Ordnance Disposal Units To Acquire New or Emerging Technologies and Capabilities
 
@@ -428,7 +650,7 @@ Capacity.—The Secretary of Defense, acting through the Executive Agent for Mil
 
 "(b)
 
-Military Working Dog Procurement.—The Secretary, acting through the Executive Agent, shall workto ensure that military working dogs are procured as efficiently as possible and at the best value to the Government, while maintaining the necessary level of quality and encouraging increased domestic breeding.
+Military Working Dog Procurement.—The Secretary, acting through the Executive Agent, shall work to ensure that military working dogs are procured as efficiently as possible and at the best value to the Government, while maintaining the necessary level of quality and encouraging increased domestic breeding.
 
 "(c)
 
@@ -512,7 +734,7 @@ Elements.—The process under subsection (a) shall include the following element
 
 "(c)
 
-Notification.—Not later than 90 days after establishing the process required by subsection (a), the Secretary shall provide a written notification to theCommittees on Armed Services of the Senate and House of Representatives that the process has been established. The notification also shall include the following:
+Notification.—Not later than 90 days after establishing the process required by subsection (a), the Secretary shall provide a written notification to the Committees on Armed Services of the Senate and House of Representatives that the process has been established. The notification also shall include the following:
 
 &emsp;"(1) Identification of the official designated under subsection (b)(1).
 
@@ -594,7 +816,7 @@ In general.—Selected activities shall include the following roles and responsi
 
 &emsp;"(2)
 
-Qualifications.—The Secretary shall establish qualifications for personnel filling the positions described in paragraph (1) prior to their selection. The qualifications may not include a positive education requirement and must be based on technical expertise or experience in delivery of software products, including agile concepts.
+Qualifications.—The Secretary shall establish qualifications for personnel filling the positions described in paragraph (1) prior to their selection. The qualifications may not include a positive educationrequirement and must be based on technical expertise or experience in delivery of software products, including agile concepts.
 
 &emsp;"(3)
 
@@ -960,7 +1182,7 @@ Pub. L. 114–328, div. A, title VIII, §814(a), Dec. 23, 2016, 130 Stat. 2271, 
 
 Limitation.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Defense Federal Acquisition Regulation Supplement shall be revised—
 
-&emsp;"(1) to prohibit the use by the Department of Defense of reverse auctions or lowest price technically acceptable contracting methods for the procurement of personal protective equipment or an aviation critical safety item (as defined in section 2319(g) of this title \[probably means section 2319(g) of title 10, United States Code\]) if the level of quality or failure of the equipment or item could result in combat casualties; and
+&emsp;"(1) to prohibit the use by the Department of Defense of reverse auctions or lowest price technicallyacceptable contracting methods for the procurement of personal protective equipment or an aviation critical safety item (as defined in section 2319(g) of this title \[probably means section 2319(g) of title 10, United States Code\]) if the level of quality or failure of the equipment or item could result in combat casualties; and
 
 &emsp;"(2) to establish a preference for the use of best value contracting methods for the procurement of such equipment or item."
 
@@ -1032,13 +1254,13 @@ In General.—The Secretary of Defense may carry out a pilot program under which
 
 Limitation on Key Performance Parameters.—Any acquisition program identified for the pilot program carried out under subsection (a) shall establish no more than three key performance parameters, each of which shall describe a program-specific performance attribute. Any key performance parameters for such a program that are required by statute shall be treated as key system attributes."
 
-#### Defense Pilot Program for Authority To Acquire Innovative Commercial Items, Technologies, and Services Using General Solicitation Competitive Procedures
+#### Defense Pilot Program for Authority To Acquire Innovative Commercial Products, Technologies, and Services Using General Solicitation Competitive Procedures
 
 Pub. L. 114–328, div. A, title VIII, §879, Dec. 23, 2016, 130 Stat. 2312, as amended by Pub. L. 115–232, div. A, title VIII, §836(f)(9), Aug. 13, 2018, 132 Stat. 1872, provided that:
 
 "(a)
 
-Authority.—The Secretary of Defense and the Secretaries of the military departments may carry out a pilot program, to be known as the 'defense commercial solutions opening pilot program', under which the Secretary may acquire innovative commercial items, technologies, and services through a competitive selection of proposals resulting from a general solicitation and the peer review of such proposals.
+Authority.—The Secretary of Defense and the Secretaries of the military departments may carry out a pilot program, to be known as the 'defense commercial solutions opening pilot program', under which the Secretary may acquire innovative commercial products, technologies, and services through a competitive selection of proposals resulting from a general solicitation and the peer review of such proposals.
 
 "(b)
 
@@ -1058,11 +1280,11 @@ Fixed-price requirement.—Contracts or agreements entered into under the progra
 
 &emsp;"(3)
 
-Treatment as commercial items.—Notwithstanding section 2376(1) of title 10, United States Code, items, technologies, and services acquired under the pilot program shall be treated as commercial items.
+Treatment as commercial products or commercial services.—Notwithstanding section 2376(1) of title 10, United States Code, items, technologies, and services acquired under the pilot program shall be treated as commercial products or commercial services.
 
 "(d)
 
-Guidance.—Not later than six months after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary shall issue guidance for the implementation of the pilot program under this section within the Department of Defense. Such guidance shall be issued in consultation with the Director of the Office of Management and Budget and shall be posted for access by the public.
+Guidance.—Not later than six months after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary shall issue guidance for the implementation of the pilot program under this section within the Department of Defense. Such guidance shall be issued inconsultation with the Director of the Office of Management and Budget and shall be posted for access by the public.
 
 "(e)
 
@@ -1076,9 +1298,9 @@ In general.—Not later than 45 days after the award of a contract for an amount
 
 Elements.—Notice of an award under paragraph (1) shall include the following:
 
-&emsp;&emsp;"(A) Description of the innovative commercial item, technology, or service acquired.
+&emsp;&emsp;"(A) Description of the innovative commercial products, technology, or service acquired.
 
-&emsp;&emsp;"(B) Description of the requirement, capability gap, or potential technological advancement with respect to which the innovative commercial item, technology, or service acquired provides a solution or a potential new capability.
+&emsp;&emsp;"(B) Description of the requirement, capability gap, or potential technological advancement with respect to which the innovative commercial products, technology, or service acquired provides a solution or a potential new capability.
 
 &emsp;&emsp;"(C) Amount of the contract awarded.
 
@@ -1095,16 +1317,6 @@ Definition.—In this section, the term 'innovative' means—
 "(g)
 
 Sunset.—The authority to enter into contracts under the pilot program shall expire on September 30, 2022."
-
-<i>\[Pub. L. 115–232, div. A, title VIII, §836(f)(9), (h), Aug. 13, 2018, 132 Stat. 1872, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 879 of Pub. L. 114–328, set out above, is amended:</i>
-
-<i>\[(1) in the section heading, by striking "Commercial Items" and inserting "Commercial Products";</i>
-
-<i>\[(2) in subsection (a), by striking "commercial items" and inserting "commercial products";</i>
-
-<i>\[(3) in subsection (c)(3), by striking "commercial items" and inserting "commercial products or commercial services" in heading and text; and</i>
-
-<i>\[(4) in subsection (e)(2)(A), (B), by striking "item" and inserting "products".\]</i>
 
 #### Pilot Program for Distribution Support and Services for Weapon Systems Contractors
 
@@ -1250,7 +1462,7 @@ Sunset.—The authority under this section expires at the close of September 30,
 
 #### Establishment of Panel on Department of Defense and AbilityOne Contracting Oversight, Accountability, and Integrity; Defense Acquisition University Training
 
-Pub. L. 114–328, div. A, title VIII, §898, Dec. 23, 2016, 130 Stat. 2327, provided that:
+Pub. L. 114–328, div. A, title VIII, §898, Dec. 23, 2016, 130 Stat. 2327, as amended by Pub. L. 116–92, div. A, title IX, §902(32), Dec. 20, 2019, 133 Stat. 1546, provided that:
 
 "(a)
 
@@ -1264,7 +1476,7 @@ In general.—The Secretary of Defense shall establish a panel to be known as th
 
 Composition.—The Panel shall be composed of the following:
 
-&emsp;&emsp;"(A) A representative of the Under Secretary of Defense for Acquisition, Technology, and Logistics, who shall be the chairman of the Panel.
+&emsp;&emsp;"(A) A representative of the Under Secretary of Defense for Acquisition and Sustainment, who shall be the chairman of the Panel.
 
 &emsp;&emsp;"(B) A representative from the AbilityOne Commission.
 
@@ -1286,7 +1498,7 @@ Composition.—The Panel shall be composed of the following:
 
 &emsp;&emsp;"(K) One or more representatives from the Department of Justice who are subject matter experts on Department of Defense contracts, Federal Prison Industries, and the requirements of the Javits-Wagner-O'Day Act \[see 41 U.S.C. 8501 et seq.\].
 
-&emsp;&emsp;"(L) Such other representatives as may be determined appropriate by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+&emsp;&emsp;"(L) Such other representatives as may be determined appropriate by the Under Secretary of Defense for Acquisition and Sustainment.
 
 "(b)
 
@@ -1336,11 +1548,11 @@ Panel Recommendations and Milestone Dates.—
 
 &emsp;"(1)
 
-Milestone dates for implementing recommendations.—After consulting with central nonprofit agencies and qualified nonprofit agencies, the Panel shall suggest milestone dates for the implementation of the recommendations made under subsection (c) and shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Government Reform of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, qualified nonprofit agencies, and central nonprofit agencies of such dates.
+Milestone dates for implementing recommendations.—After consulting with central nonprofit agencies and qualified nonprofit agencies, the Panel shall suggest milestone dates for the implementation of the recommendations made under subsection (c) and shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, qualified nonprofit agencies, and central nonprofit agencies of such dates.
 
 &emsp;"(2)
 
-Notification of implementation of recommendations.—After the establishment of milestone dates under paragraph (1), the Panel may review the activities, including contracts, of the AbilityOne Commission, the central nonprofit agencies, and the relevant qualified nonprofit agencies to determine if the recommendations made under subsection (c) are being substantially implemented in good faith by the AbilityOne Commission or such agencies. If the Panel determines that the AbilityOne Commission or any such agency is not implementing the recommendations, the Panel shall notify the Secretary of Defense, the congressional defense committees, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate.
+Notification of implementation of recommendations.—After the establishment of milestone dates under paragraph (1), the Panel may review the activities, including contracts, of the AbilityOne Commission, the central nonprofit agencies, and the relevant qualified nonprofit agencies to determine if the recommendations made under subsection (c) are being substantially implemented in good faith by the AbilityOne Commission or such agencies. If the Panel determines that the AbilityOne Commission or any such agency is not implementing the recommendations, the Panel shall notify the Secretary of Defense, the congressional defense committees, the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
 "(g)
 
@@ -1370,7 +1582,7 @@ Consultation on recommendations.—Before submitting the progress report require
 
 &emsp;"(2)
 
-Progress report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Panel shall submit to the Secretary of Defense, the Chairman of the AbilityOne Commission, the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a progress report on the activities of the Panel.
+Progress report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Panel shall submit to the Secretary of Defense, the Chairman of the AbilityOne Commission, the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a progress report on the activities of the Panel.
 
 "(i)
 
@@ -1382,7 +1594,7 @@ Consultation on report.—Before submitting the annual report required under par
 
 &emsp;"(2)
 
-Report.—Not later than September 30, 2017, and annually thereafter for the next three years, the Panel shall submit to the Secretary of Defense, the Chairman of the AbilityOne Commission, the congressional defense committees, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes—
+Report.—Not later than September 30, 2017, and annually thereafter for the next three years, the Panel shall submit to the Secretary of Defense, the Chairman of the AbilityOne Commission, the congressional defense committees, the Committee onOversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes—
 
 &emsp;&emsp;"(A) a summary of findings and recommendations for the year covered by the report;
 
@@ -1408,7 +1620,7 @@ Defense Acquisition University Training.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall establish a training program at the Defense AcquisitionUniversity established under section 1746 of title 10, United States Code. Such training shall include—
+In general.—The Secretary of Defense shall establish a training program at the Defense Acquisition University established under section 1746 of title 10, United States Code. Such training shall include—
 
 &emsp;&emsp;"(A) information about—
 
@@ -1556,11 +1768,39 @@ Product or service of a covered african country.—The term 'product or service 
 
 #### Middle Tier of Acquisition for Rapid Prototyping and Rapid Fielding
 
-Pub. L. 114–92, div. A, title VIII, §804, Nov. 25, 2015, 129 Stat. 882, as amended by Pub. L. 114–328, div. A, title VIII, §§849(a), 864(b), 897, title X, §1081(c)(2), Dec. 23, 2016, 130 Stat. 2293, 2304, 2327, 2419; Pub. L. 115–91, div. A, title VIII, §866, Dec. 12, 2017, 131 Stat. 1495, provided that:
+Pub. L. 116–92, div. A, title VIII, §837, Dec. 20, 2019, 133 Stat. 1497, provided that:
 
 "(a)
 
-Guidance Required.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Under Secretary of Defense for Acquisition, Technology, and Logistics, in consultation with the Comptroller of the Department of Defense and the Vice Chairman of the Joint Chiefs of Staff, shall establish guidance for a 'middle tier' of acquisition programs that are intended to be completed in a period of two to five years.
+Report.—Not later than December 15, 2019, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes the guidance required under section 804(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note). The Under Secretary of Defense for Acquisition and Sustainment shall ensure such guidance includes the business case elements required by an acquisition program established pursuant to such guidance and the metrics required to assess the performance of such a program.
+
+"(b)
+
+Limitation.—
+
+&emsp;"(1)
+
+In general.—Beginning on December 15, 2019, if the Under Secretary of Defense for Acquisition and Sustainment has not submitted the report required under subsection (a), not more than 75 percent of the funds specified in paragraph (2) may be obligated or expended until the date on which the report required under subsection (a) has been submitted.
+
+&emsp;"(2)
+
+Funds specified.—The funds specified in this paragraph are the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2020 for the Department of Defense that remain unobligated as of December 15, 2019, for the following:
+
+&emsp;&emsp;"(A) The execution of any acquisition program established pursuant to the guidance required under such section 804(a).
+
+&emsp;&emsp;"(B) The operations of the Office of the Under Secretary of Defense for Research \& Engineering.
+
+&emsp;&emsp;"(C) The operations of the Office of the Under Secretary of Defense for Acquisition \& Sustainment.
+
+&emsp;&emsp;"(D) The operations of the Office of the Director of Cost Analysis and Program Evaluation.
+
+&emsp;&emsp;"(E) The operations of the offices of the service acquisition executives of the military departments."
+
+Pub. L. 114–92, div. A, title VIII, §804, Nov. 25, 2015, 129 Stat. 882, as amended by Pub. L. 114–328, div. A, title VIII, §§849(a), 864(b), 897, title X, §1081(c)(2), Dec. 23, 2016, 130 Stat. 2293, 2304, 2327, 2419; Pub. L. 115–91, div. A, title VIII, §866, Dec. 12, 2017, 131 Stat. 1495; Pub. L. 116–92, div. A, title IX, §902(33), Dec. 20, 2019, 133 Stat. 1546, provided that:
+
+"(a)
+
+Guidance Required.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Under Secretary of Defense for Acquisition and Sustainment, in consultation with the Comptroller of the Department of Defense and the Vice Chairman of the Joint Chiefs of Staff, shall establish guidance for a 'middle tier' of acquisition programs that are intended to be completed in a period of two to five years.
 
 "(b)
 
@@ -1636,7 +1876,7 @@ Department of defense rapid prototyping fund.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary of Defense shall establish a fund to be known as the 'Department of Defense Rapid Prototyping Fund' to provide funds, in addition to other funds that may be available, for acquisition programs under the rapid prototyping pathway established pursuant to this section and other purposes specified in law. The Fund shall be managed by a senior official of the Department of Defense designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics. The Fund shall consist of—
+In general.—The Secretary of Defense shall establish a fund to be known as the 'Department of Defense Rapid Prototyping Fund' to provide funds, in addition to other funds that may be available, for acquisition programs under the rapid prototyping pathway established pursuant to this section and other purposes specified in law. The Fund shall be managed by a senior official of the Department of Defense designated by the Deputy Secretary of Defense. The Fund shall consist of—
 
 &emsp;&emsp;&emsp;"(i) amounts appropriated to the Fund;
 
@@ -1654,7 +1894,7 @@ Congressional notice.—The senior official designated to manage the Fund shall 
 
 &emsp;"(2)
 
-Rapid prototyping funds for the military departments.—The Secretary of each military department may establish a military department-specific fund (and, in the case of the Secretary of the Navy, including the Marine Corps) to provide funds, in addition to other funds that may be available to the military department concerned, for acquisition programs under the rapid fielding and prototyping pathways established pursuant to this section. Each military department-specific fund shall consist of amounts appropriated or credited to the fund.
+Rapid prototyping funds for the military departments.—The Secretary of each military department may establish a military department-specific fund (and, in the case of the Secretary of the Navy, including the Marine Corps) to provide funds, in addition to other funds that may be available to the military department concerned, for acquisition programs under the rapid fielding and prototyping pathways established pursuant to this section. Each military department-specific fund shall consist of amounts appropriated or credited to the fund."
 
 \[Pub. L. 114–328, div. A, title X, §1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made by section 1081(c)(2) to section 804 of Pub. L. 114–92, set out above, is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.\]
 
@@ -1672,55 +1912,7 @@ Pub. L. 114–92, div. A, title VIII, §805, Nov. 25, 2015, 129 Stat. 885, as am
 
 #### Secretary of Defense Waiver of Acquisition Laws To Acquire Vital National Security Capabilities
 
-Pub. L. 114–92, div. A, title VIII, §806, Nov. 25, 2015, 129 Stat. 885, as amended by Pub. L. 114–328, div. A, title VIII, §819, Dec. 23, 2016, 130 Stat. 2273, provided that:
-
-"(a)
-
-Waiver Authority.—The Secretary of Defense is authorized to waive any provision of acquisition law or regulation described in subsection (c) for the purpose of acquiring a capability that would not otherwise be available to the Armed Forces of the United States, upon a determination that—
-
-&emsp;"(1) the acquisition of the capability is in the vital national security interest of the United States;
-
-&emsp;"(2) the application of the law or regulation to be waived would impede the acquisition of the capability in a manner that would undermine the national security of the United States; and
-
-&emsp;"(3) the underlying purpose of the law or regulation to be waived can be addressed in a different manner or at a different time.
-
-"(b)
-
-Designation of Responsible Official.—Whenever the Secretary of Defense makes a determination under subsection (a)(1) that the acquisition of a capability is in the vital national security interest of the United States, the Secretary shall designate a senior official of the Department of Defense who shall be personally responsible and accountable for the rapid and effective acquisition and deployment of the needed capability. The Secretary shall provide the designated official such authority as the Secretary determines necessary to achieve this objective, and may use the waiver authority in subsection (a) for this purpose.
-
-"(c)
-
-Acquisition Laws and Regulations.—
-
-&emsp;"(1)
-
-In general.—Upon a determination described in subsection (a), the Secretary of Defense is authorized to waive any provision of law or regulation addressing—
-
-&emsp;&emsp;"(A) the establishment of a requirement or specification for the capability to be acquired;
-
-&emsp;&emsp;"(B) research, development, test, and evaluation of the capability to be acquired;
-
-&emsp;&emsp;"(C) production, fielding, and sustainment of the capability to be acquired; or
-
-&emsp;&emsp;"(D) solicitation, selection of sources, and award of contracts for the capability to be acquired.
-
-&emsp;"(2)
-
-Limitations.—Nothing in this subsection authorizes the waiver of—
-
-&emsp;&emsp;"(A) the requirements of this section;
-
-&emsp;&emsp;"(B) any provision of law imposing civil or criminal penalties; or
-
-&emsp;&emsp;"(C) any provision of law governing the proper expenditure of appropriated funds.
-
-"(d)
-
-Notification Requirement.—Not later than 10 days after exercising the waiver authority under subsection (a), the Secretary of Defense shall provide a written notification to Congress providing the details of the waiver and the expected benefits it provides to the Department of Defense.
-
-"(e)
-
-Nondelegation.—The authority of the Secretary to waive provisions of laws and regulations under subsection (a) is nondelegable."
+Pub. L. 114–92, div. A, title VIII, §806, Nov. 25, 2015, 129 Stat. 885, as amended by Pub. L. 114–328, div. A, title VIII, §819, Dec. 23, 2016, 130 Stat. 2273, which authorizedthe Secretary of Defense to waive any provision of certain acquisition laws or regulations for the purpose of acquiring a capability that would not otherwise be available to the Armed Forces of the United States after national security interest determinations were made, was repealed by Pub. L. 116–92, div. A, title VIII, §809, Dec. 20, 2019, 133 Stat. 1487.
 
 #### Consideration of Potential Program Cost Increases and Schedule Delays Resulting From Oversight of Defense Acquisition Programs
 
@@ -1736,7 +1928,7 @@ Consideration of Private Sector Best Practices.—In considering potential cost 
 
 #### Prohibition on Contracting With the Enemy
 
-Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450, as amended by Pub. L. 115–232, div.A, title VIII, §872, title XII, §1251(b)(2), Aug. 13, 2018, 132 Stat. 1905, 2053, provided that:
+Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450, as amended by Pub. L. 115–232, div. A, title VIII, §872, title XII, §1251(b)(2), Aug. 13, 2018, 132 Stat. 1905, 2053; Pub. L. 116–92, div. A, title VIII, §822, Dec. 20, 2019, 133 Stat. 1490, provided that:
 
 #### "SEC. 841. PROHIBITION ON PROVIDING FUNDS TO THE ENEMY.
 
@@ -1800,7 +1992,7 @@ Treatment as void.—For purposes of this section:
 
 &emsp;&emsp;"(A) A contract, grant, or cooperative agreement that is void is unenforceable as contrary to public policy.
 
-&emsp;&emsp;"(B) A contract, grant, or cooperative agreement that is void in part is unenforceable as contrary to public policy with regard to a segregable task or effort under the contract, grant, or cooperative agreement.
+&emsp;&emsp;"(B) A contract, grant, or cooperative agreement that is void in part is unenforceable as contrary topublic policy with regard to a segregable task or effort under the contract, grant, or cooperative agreement.
 
 &emsp;"(4)
 
@@ -1820,7 +2012,7 @@ Annual Review; Protection of Classified Information.—
 
 &emsp;"(1)
 
-Annual review.—The Secretary of Defense, in conjunction with the Director of National Intelligence and in consultation with the Secretary of State shall, on an annual basis, review the lists of persons and entities previously covered by a notice under subsection (b) as having been identified as described by subsection (a) in order to determine whether or not such persons and entities continue towarrant identification as described by subsection (a). If a determination is made pursuant to such a review that a person or entity no longer warrants identification as described by subsection (a), the Secretary of Defense shall notify the head of the executive agency concerned (or the designee of such head) and the commander of the covered combatant command concerned (or the specified deputies of the commander) in writing of such determination.
+Annual review.—The Secretary of Defense, in conjunction with the Director of National Intelligence and in consultation with the Secretary of State shall, on an annual basis, review the lists of persons and entities previously covered by a notice under subsection (b) as having been identified as described by subsection (a) in order to determine whether or not such persons and entities continue to warrant identification as described by subsection (a). If a determination is made pursuant to such a review that a person or entity no longer warrants identification as described by subsection (a), the Secretary of Defense shall notify the head of the executive agency concerned (or the designee of such head) and the commander of the covered combatant command concerned (or the specified deputies of the commander) in writing of such determination.
 
 &emsp;"(2)
 
@@ -1916,7 +2108,7 @@ Use of superseded authorities in implementation of requirements.—In providing 
 
 "(n)
 
-Sunset.—The provisions of this section shall cease to be effective on December 31, 2021.
+Sunset.—The provisions of this section shall cease to be effective on December 31, 2023.
 
 #### "SEC. 842. ADDITIONAL ACCESS TO RECORDS.
 
@@ -2024,6 +2216,8 @@ Head of contracting activity.—The term 'head of contracting activity' has the 
 
 Uniform administrative requirements, cost principles, and audit requirements for federal awards.—The term 'Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards' means the guidance issued by the Office of Management and Budget in part 200 of chapter II of title 2 of the Code of Federal Regulations."
 
+\[Pub. L. 116–92, div. A, title VIII, §822, Dec. 20, 2019, 133 Stat. 1490, which directed amendment of section 841(n) of the National Defense Authorization Act for Fiscal Year 2015 by striking "December 31, 2021" and inserting "December 31, 2023", was executed to section 841(n) of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 (Pub. L. 113–291), set out above, to reflect the probable intent of Congress.\]
+
 Pub. L. 113–66, div. A, title VIII, §831, Dec. 26, 2013, 127 Stat. 810, related to prohibition on contracting with the enemy, prior to repeal by Pub. L. 113–291, div. A, title VIII, §841(m)(2), Dec. 19, 2014, 128 Stat. 3454, effective 270 days after Dec. 19, 2014.
 
 Pub. L. 112–81, div. A, title VIII, §841, Dec. 31, 2011, 125 Stat. 1510, related to prohibition on contracting with the enemy in the United States Central Command theater of operations, prior to repeal by Pub. L. 113–291, div. A, title VIII, §841(m)(1), Dec. 19, 2014, 128 Stat. 3454, effective 270 days after Dec. 19, 2014.
@@ -2106,7 +2300,7 @@ Notification after use of procedures.—The Secretary of Defense shall notify th
 
 #### Consideration of Corrosion Control in Preliminary Design Review
 
-Pub. L. 113–291, div. A, title VIII, §852, Dec. 19, 2014, 128 Stat. 3458, provided that: "The Under Secretary of Defense for Acquisition, Technology, and Logistics shall ensure that Department of Defense Instruction 5000.02 and other applicable guidance require full consideration, during preliminary design review for a product, of metals, materials, and technologies that effectively prevent or control corrosion over the life cycle of the product."
+Pub. L. 113–291, div. A, title VIII, §852, Dec. 19, 2014, 128 Stat. 3458, as amended by Pub. L. 116–92, div. A, title IX, §902(34), Dec. 20, 2019, 133 Stat. 1546, provided that: "The Under Secretary of Defense for Acquisition and Sustainment shall ensure that Department of Defense Instruction 5000.02 and other applicable guidance require full consideration, during preliminary design review for a product, of metals, materials, and technologies that effectively prevent or control corrosion over the life cycle of the product."
 
 #### Equipment Disposal
 
@@ -2126,7 +2320,7 @@ Pub. L. 112–239, div. A, title VIII, §804, Jan. 2, 2013, 126 Stat. 1826, whic
 
 #### Extension of Contractor Conflict of Interest Limitations
 
-Pub. L. 112–239, div. A, title VIII, §829, Jan. 2, 2013, 126 Stat. 1841, which related to extending existing guidance on personal conflicts of interest to certain contractor personnel, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(4), Aug. 13, 2018, 132 Stat. 1848.
+Pub. L. 112–239, div. A, title VIII, §829, Jan. 2, 2013, 126 Stat. 1841, which related to extending existing guidanceon personal conflicts of interest to certain contractor personnel, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(4), Aug. 13, 2018, 132 Stat. 1848.
 
 #### Responsibility Within Department of Defense for Operational Contract Support
 
@@ -2230,7 +2424,7 @@ Comprehensive Risk Assessments and Mitigation Plans for Contractor Performance i
 
 &emsp;"(1)
 
-In general.—Subject to paragraphs (2) and (3), not later than six months after the commencement or designation of a contingency operation outside the United States that includes or is expected to include combat operations, the head of each covered agency shall perform a comprehensive risk assessment and develop a risk mitigation plan for operational and political risks associated with contractor performance of critical functions in support of the operation for such covered agency.
+In general.—Subject to paragraphs (2) and (3), not later than six months after the commencement or designation of a contingency operation outside the United States that includes or is expected to include combat operations, the head of each covered agency shall perform a comprehensive risk assessment and develop a risk mitigation plan for operational and political risks associated with contractor performanceof critical functions in support of the operation for such covered agency.
 
 &emsp;"(2)
 
@@ -2316,11 +2510,11 @@ Interagency Procurement.—The requirements of this section shall apply to any a
 
 #### Inclusion of Data on Contractor Performance in Past Performance Databases for Source Selection Decisions
 
-Pub. L. 112–81, div. A, title VIII, §806, Dec. 31, 2011, 125 Stat. 1487, as amended by Pub. L. 112–239, div. A, title X, §1076(a)(11), Jan. 2, 2013, 126 Stat. 1948, provided that:
+Pub. L. 112–81, div. A, title VIII, §806, Dec. 31, 2011, 125 Stat. 1487, as amended by Pub. L. 112–239, div. A, title X, §1076(a)(11), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–92, div. A, title IX, §902(35), Dec. 20, 2019, 133 Stat. 1547, provided that:
 
 "(a)
 
-Strategy on Inclusion Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall develop a strategy for ensuring that timely, accurate, and complete information on contractor performance is included in past performance databases used for making source selection decisions.
+Strategy on Inclusion Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Under Secretary of Defense for Acquisition and Sustainment shall develop a strategy for ensuring that timely, accurate, and complete information on contractor performance is included in past performance databases used for making source selection decisions.
 
 "(b)
 
@@ -2334,7 +2528,7 @@ Elements.—The strategy required by subsection (a) shall, at a minimum—
 
 "(c)
 
-Contractor Comments.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall revise the Defense Supplement to the Federal Acquisition Regulation to require the following:
+Contractor Comments.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Under Secretary of Defense for Acquisitionand Sustainment shall revise the Defense Supplement to the Federal Acquisition Regulation to require the following:
 
 &emsp;"(1) That affected contractors are provided, in a timely manner, information on contractor performance to be included in past performance databases in accordance with subsection (a).
 
@@ -2348,11 +2542,11 @@ Construction.—Nothing in this section shall be construed to prohibit a contrac
 
 "(e)
 
-Comptroller General Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 31, 2011\], the Comptroller General of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions taken by the Under Secretary of Defense for Acquisition, Technology, and Logistics pursuant to this section, including an assessment of the extent to which such actions have achieved the objectives of this section."
+Comptroller General Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 31, 2011\], the Comptroller General of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions taken by the Under Secretary of Defense for Acquisition and Sustainment pursuant to this section, including an assessment of the extent to which such actions have achieved the objectives of this section."
 
 #### Detection and Avoidance of Counterfeit Electronic Parts
 
-Pub. L. 112–81, div. A, title VIII, §818(a)–(g), Dec. 31, 2011, 125 Stat. 1493–1496, as amended by Pub. L. 112–239, div. A, title VIII, §833, Jan. 2, 2013, 126 Stat. 1844; Pub. L. 113–291, div. A, title VIII, §817, Dec. 19, 2014, 128 Stat. 3432; Pub. L. 114–92, div. A, title VIII, §885, Nov. 25, 2015, 129 Stat. 948; Pub. L. 114–328, div. A, title VIII, §815,Dec. 23, 2016, 130 Stat. 2271; Pub. L. 115–232, div. A, title VIII, §812(b)(5), Aug. 13, 2018, 132 Stat. 1848, provided that:
+Pub. L. 112–81, div. A, title VIII, §818(a)–(g), Dec. 31, 2011, 125 Stat. 1493–1496, as amended by Pub. L. 112–239, div. A, title VIII, §833, Jan. 2, 2013, 126 Stat. 1844; Pub. L. 113–291, div. A, title VIII, §817, Dec. 19, 2014, 128 Stat. 3432; Pub. L. 114–92, div. A, title VIII, §885, Nov. 25, 2015, 129 Stat. 948; Pub. L. 114–328, div. A, title VIII, §815, Dec. 23, 2016, 130 Stat. 2271; Pub. L. 115–232, div. A, title VIII, §812(b)(5), Aug. 13, 2018, 132 Stat. 1848, provided that:
 
 "(a)
 
@@ -2420,7 +2614,7 @@ Suppliers meeting anticounterfeiting requirements.—The revised regulations iss
 
 &emsp;"(4)
 
-Reporting requirement.—The revised regulations issued pursuant to paragraph (1) shall require that any Department contractor or subcontractor who becomes aware, or has reason to suspect, that any end item, component, part, or material contained in supplies purchased by the Department, or purchased by a contractor or subcontractor for delivery to, or on behalf of, the Department, contains counterfeit electronic parts or suspect counterfeit electronic parts report in writing within 60 days to appropriateGovernment authorities and the Government-Industry Data Exchange Program (or a similar program designated by the Secretary).
+Reporting requirement.—The revised regulations issued pursuant to paragraph (1) shall require that any Department contractor or subcontractor who becomes aware, or has reason to suspect, that any end item, component, part, or material contained in supplies purchased by the Department, or purchased by a contractor or subcontractor for delivery to, or on behalf of, the Department, contains counterfeit electronic parts or suspect counterfeit electronic parts report in writing within 60 days to appropriate Government authorities and the Government-Industry Data Exchange Program (or a similar program designated by the Secretary).
 
 &emsp;"(5)
 
@@ -2476,11 +2670,11 @@ Definitions.—In subsections (a) through (e) of this section:
 
 #### Reach-Back Contracting Authority for Operation Enduring Freedom and Operation New Dawn
 
-Pub. L. 112–81, div. A, title VIII, §843, Dec. 31, 2011, 125 Stat. 1514, provided that:
+Pub. L. 112–81, div. A, title VIII, §843, Dec. 31, 2011, 125 Stat. 1514, as amended by Pub. L. 116–92, div. A, title IX, §902(36), Dec. 20, 2019, 133 Stat. 1547, provided that:
 
 "(a)
 
-Authority To Designate Lead Contracting Activity.—The Under Secretary of Defense for Acquisition, Technology, and Logistics may designate a single contracting activity inside the United States to act as the lead contracting activity with authority for use of domestic capabilities in support of overseas contracting for Operation Enduring Freedom and Operation New Dawn. The contracting activity so designated shall be known as the 'lead reach-back contracting authority' for such operations.
+Authority To Designate Lead Contracting Activity.—The Under Secretary of Defense for Acquisition and Sustainment may designate a single contracting activity inside the United States to act as the lead contracting activity with authority for use of domestic capabilities in support of overseas contracting for Operation Enduring Freedom and Operation New Dawn. The contracting activity so designated shall be known as the 'lead reach-back contracting authority' for such operations.
 
 "(b)
 
@@ -2846,7 +3040,7 @@ Definitions.—In this section:
 
 &emsp;"(3) The term 'covered contract' means a contract that is subject to the cost accounting standards promulgated pursuant to section 1502 of title 41, United States Code, that could be affected if the data produced by a contractor business system has a significant deficiency.
 
-&emsp;"(4) The term 'significant deficiency', in the case of a contractor business system, means a shortcomingin the system that materially affects the ability of officials of the Department of Defense and the contractor to rely upon information produced by the system that is needed for management purposes.
+&emsp;"(4) The term 'significant deficiency', in the case of a contractor business system, means a shortcoming in the system that materially affects the ability of officials of the Department of Defense and the contractor to rely upon information produced by the system that is needed for management purposes.
 
 &emsp;"(5) The term 'approved purchasing system' has the meaning given the term in section 44.101 of the Federal Acquisition Regulation (or any similar regulation).
 
@@ -2956,7 +3150,7 @@ Award of Cash Bonuses.—As part of the program required by subsection (a), the 
 
 #### Trusted Defense Systems
 
-Pub. L. 110–417, \[div. A\], title II, §254, Oct. 14, 2008, 122 Stat. 4402, provided that:
+Pub. L. 110–417, \[div. A\], title II, §254, Oct. 14, 2008, 122 Stat. 4402, as amended by Pub. L. 116–92, div. A, title IX, §902(37), Dec. 20, 2019, 133 Stat. 1547, provided that:
 
 "(a)
 
@@ -2972,7 +3166,7 @@ Vulnerability Assessment Required.—The Secretary of Defense shall conduct an a
 
 "(b)
 
-Assessment of Methods for Verifying the Trust of Semiconductors Procured From Commercial Sources.—The Under Secretary of Defense for Acquisition, Technology, and Logistics, in consultation with appropriate elements of the Department of Defense, the intelligence community, private industry, and academia, shall conduct an assessment of various methods of verifying the trust of semiconductors procured by the Department of Defense from commercial sources for use in mission-critical components of potentially vulnerable defense systems. The assessment shall include the following:
+Assessment of Methods for Verifying the Trust of Semiconductors Procured From Commercial Sources.—The Under Secretary of Defense for Acquisition and Sustainment, in consultation with appropriate elements of the Department of Defense, the intelligence community, private industry, and academia, shall conduct an assessment of various methods of verifying the trust of semiconductors procured by the Department of Defense from commercial sources for use in mission-critical components of potentially vulnerable defense systems. The assessment shall include the following:
 
 &emsp;"(1) An identification of various methods of verifying the trust of semiconductors, including methods under development at the Defense Agencies, government laboratories, institutions of higher education, and in the private sector.
 
@@ -3016,7 +3210,7 @@ Requirements.—At a minimum, the strategy shall—
 
 "(d)
 
-Policies and Actions for Assuring Trust in Integrated Circuits.—Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall—
+Policies and Actions for Assuring Trust in Integrated Circuits.—Not later than 180 days after thedate of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall—
 
 &emsp;"(1) develop policy requiring that trust assurance be a high priority for covered acquisition programs in all phases of the electronic component supply chain and integrated circuit development and production process, including design and design tools, fabrication of the semiconductors, packaging, final assembly, and test;
 
@@ -3208,7 +3402,7 @@ Scope of Audits of Other Contracts.—Audits conducted pursuant to subsection (a
 
 "(i)
 
-Independent Conduct of Audit Functions.—All audit functions under this section, including audit planning and coordination, shall be performed by the relevant Inspectors General in an independent manner, without consultation with the Commission established pursuant to section 841 of this Act \[122 Stat. 230\]. All audit reports resulting from such audits shall be available to the Commission."
+Independent Conduct of Audit Functions.—All audit functions under this section, including audit planning and coordination, shall be performed by the relevant Inspectors General in an independent manner, without consultation with the Commission established pursuant to section 841 of this Act \[122 Stat. 230\]. Allaudit reports resulting from such audits shall be available to the Commission."
 
 #### Contracts in Iraq and Afghanistan and Private Security Contracts in Areas of Other Significant Military Operations
 
@@ -3302,7 +3496,7 @@ Matters Covered.—The memorandum of understanding required by subsection (a) sh
 
 &emsp;"(6) Responsibility for the collection and referral to the appropriate Government agency of any information relating to offenses under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice) or chapter 212 of title 18, United States Code (commonly referred to as the Military Extraterritorial Jurisdiction Act), including a clarification of responsibilities under section 802(a)(10) of title 10, United States Code (article 2(a) of the Uniform Code of Military Justice), as amended by section 552 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364).
 
-&emsp;"(7) Mechanisms for ensuring that contractors are required to report offenses described in paragraph (6) that are alleged to have been committed by or against contractor personnel to appropriate investigative authorities.
+&emsp;"(7) Mechanisms for ensuring that contractors are required to report offenses described in paragraph (6)that are alleged to have been committed by or against contractor personnel to appropriate investigative authorities.
 
 &emsp;"(8) Responsibility for providing victim and witness protection and assistance to contractor personnel in connection with alleged offenses described in paragraph (6).
 
@@ -3506,7 +3700,7 @@ Additional areas.—The Secretary may designate any additional area as an area c
 
 &emsp;"(5)
 
-Modification or elimination of designation.—The Secretary may modify or cease the designation of an area under this subsection as an area of combat operations or other significant military operations if the Secretary determines that combat operations orother significant military operations are no longer ongoing in such area.
+Modification or elimination of designation.—The Secretary may modify or cease the designation of an area under this subsection as an area of combat operations or other significant military operations if the Secretary determines that combat operations or other significant military operations are no longer ongoing in such area.
 
 "(g)
 
@@ -3590,7 +3784,7 @@ Matters relating to contracting.—The term 'matters relating to contracting', w
 
 &emsp;"(2)
 
-Contract in iraq or afghanistan.—The term 'contract in Iraq or Afghanistan' means a contract with the Department of Defense, the Department of State, or the United States Agency for International Development, a subcontract at any tier issued under such a contract, a task order or delivery order at any tier issued under such a contract, a grant, or a cooperative agreement (including a contract, subcontract, task order, delivery order, grant, or cooperative agreement issued by another Government agency for the Department of Defense, the Department of State, or the United States Agency for International Development), if the contract, subcontract, task order, delivery order, grant, or cooperative agreement involves worked \[sic\] performed in Iraq or Afghanistan for a period longer than 30 days.
+Contract in iraq or afghanistan.—The term 'contract in Iraq or Afghanistan' means a contract with the Department of Defense, the Department of State, or the United States Agency for International Development, a subcontract at any tier issued undersuch a contract, a task order or delivery order at any tier issued under such a contract, a grant, or a cooperative agreement (including a contract, subcontract, task order, delivery order, grant, or cooperative agreement issued by another Government agency for the Department of Defense, the Department of State, or the United States Agency for International Development), if the contract, subcontract, task order, delivery order, grant, or cooperative agreement involves worked \[sic\] performed in Iraq or Afghanistan for a period longer than 30 days.
 
 &emsp;"(3)
 
@@ -3700,7 +3894,7 @@ Pub. L. 110–181, div. A, title VIII, §890, Jan. 28, 2008, 122 Stat. 269, as a
 
 "(a)
 
-Prevention of Export Control Violations.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall prescribe regulations requiring any contractor under a contract with the Department of Defense to provide goods or technology that is subject to export controls under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] or the Export Administration Act of 1979 \[50 U.S.C. 4601 et seq.\] (as continued in effect under the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\]) to comply with those Acts and applicable regulations with respect to such goods and technology, including the International Traffic in Arms Regulations and the Export Administration Regulations. Regulations prescribed under this subsection shall include a contract clause enforcing such requirement.
+Prevention of Export Control Violations.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall prescribe regulations requiring any contractor under a contract with the Department of Defense to provide goods or technology that is subject to export controls under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] or the Export Administration Act of 1979 \[50 U.S.C. 4601 et seq.\] (as continued in effect under the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\]) to comply with those Acts and applicable regulations with respect to such goods andtechnology, including the International Traffic in Arms Regulations and the Export Administration Regulations. Regulations prescribed under this subsection shall include a contract clause enforcing such requirement.
 
 "(b)
 
@@ -3728,7 +3922,7 @@ Export administration regulations.—The term 'Export Administration Regulations
 
 &emsp;"(2)
 
-International traffic in arms regulations.—The term 'International Traffic in Arms Regulations'means those regulations contained in parts 120 through 130 of title 22, Code of Federal Regulations (or successor regulations)."
+International traffic in arms regulations.—The term 'International Traffic in Arms Regulations' means those regulations contained in parts 120 through 130 of title 22, Code of Federal Regulations (or successor regulations)."
 
 #### Quality Control in Procurement of Ship Critical Safety Items and Related Services
 
@@ -3806,7 +4000,7 @@ Criteria.—For purposes of paragraph (1) a major weapon system meets the criter
 
 &emsp;&emsp;"(F) an appropriately qualified program manager has entered into a performance agreement with the Milestone Decision Authority that establishes expected parameters for the cost, schedule, and performance of the acquisition program for the system, consistent with a business case for such acquisition program;
 
-&emsp;&emsp;"(G) the service acquisition executive and the program manager have developed a strategy to ensure stability in program management until, at a minimum, the delivery of the initial operational capability under the acquisition program for the system has occurred;
+&emsp;&emsp;"(G) the service acquisition executive and the program manager have developed a strategy to ensure stability in program management until, at aminimum, the delivery of the initial operational capability under the acquisition program for the system has occurred;
 
 &emsp;&emsp;"(H) the service acquisition executive, the relevant combatant commanders, and the program manager have agreed that no additional requirements that would be inconsistent with the agreed-upon program schedule will be added during the development phase of the acquisition program for the system; and
 
@@ -3958,7 +4152,7 @@ Determinations of Contractor Fault by Secretary of Defense.—
 
 In general.—In any case described by paragraph (2), the Secretary of Defense shall—
 
-&emsp;&emsp;"(A) provide for an expeditious independent investigation of the causes of the serious bodily injuryor death alleged to have been caused by the contractor as described in that paragraph; and
+&emsp;&emsp;"(A) provide for an expeditious independent investigation of the causes of the serious bodily injury or death alleged to have been caused by the contractor as described in that paragraph; and
 
 &emsp;&emsp;"(B) make a final determination, pursuant to procedures established by the Secretary for purposes of this subsection, whether the contractor, in the performance of a covered contract, caused such serious bodily injury or death through gross negligence or with reckless disregard for the safety of civilian or military personnel of the Government.
 
@@ -4150,7 +4344,7 @@ Matters covered.—The joint policy for contingency contracting required by para
 
 &emsp;&emsp;"(B) the assignment of a senior commissioned officer with appropriate acquisition experience and qualifications to act as head of contingency contracting during combat operations, post-conflict operations, and contingency operations, who shall report directly to the commander of the combatant command in whose area of responsibility the operations occur;
 
-&emsp;&emsp;"(C) an organizational approach to contingency contracting that is designed to ensure that each military department is prepared to conduct contingency contracting during combat operations and post-conflict operations;
+&emsp;&emsp;"(C) an organizational approach to contingency contracting that is designed to ensure that eachmilitary department is prepared to conduct contingency contracting during combat operations and post-conflict operations;
 
 &emsp;&emsp;"(D) a requirement to provide training (including training under a program to be created by the Defense Acquisition University) to contingency contracting personnel in—
 
@@ -4252,7 +4446,7 @@ Definitions.—In this section:
 
 &emsp;"(3) The term '600 series of the control list of the Export Administration Regulations' means the 600 series of the Commerce Control List contained in Supplement No. 1 to part 774 of subtitle B of title 15 of the Code of Federal Regulations."
 
-\[Pub. L. 112–81, div. A, title XII, §1243(c), Dec. 31, 2011, 125 Stat. 1646, provided that: "The amendments made by this section \[amending section 1211 of Pub. L. 109–163, set out above\] take effect on the date of the enactment of this Act \[Dec. 31, 2011\] and apply with respect to contracts and subcontracts of the Department of Defense entered into on or after the date of the enactment of this Act."\]
+\[Pub. L. 112–81, div. A, title XII, §1243(c), Dec. 31, 2011, 125 Stat. 1646, provided that: "The amendments made by this section \[amending section 1211 of Pub. L. 109–163, set out above\] take effect on the date of the enactment of this Act \[Dec. 31, 2011\] and apply with respect to contracts and subcontracts of the Departmentof Defense entered into on or after the date of the enactment of this Act."\]
 
 #### Development of Deployable Systems To Include Consideration of Force Protection in Asymmetric Threat Environments
 
@@ -4260,7 +4454,7 @@ Pub. L. 108–375, div. A, title I, §141, Oct. 28, 2004, 118 Stat. 1829, which 
 
 #### Internal Controls for Department of Defense Procurements Through GSA Client Support Centers
 
-Pub. L. 108–375, div. A, title VIII, §802, Oct. 28, 2004, 118 Stat. 2004, as amended by Pub. L. 109–313, §2(c)(2), Oct. 6, 2006, 120 Stat. 1735, provided that:
+Pub. L. 108–375, div. A, title VIII, §802, Oct. 28, 2004, 118 Stat. 2004, as amended by Pub. L. 109–313, §2(c)(2), Oct. 6, 2006, 120 Stat. 1735; Pub. L. 116–92, div. A, title IX, §902(38), Dec. 20, 2019, 133 Stat. 1547, provided that:
 
 "(a)
 
@@ -4298,9 +4492,9 @@ Limitations on Procurements Through GSA Client Support Centers.—(1) After Marc
 
 "(d)
 
-Exception From Applicability of Limitations.—(1) No limitation applies under subsection (c) with respect to the procurement of property and services from a particular GSA Client Support Center during any period that there is in effect a determination of the Under Secretary of Defense for Acquisition, Technology, and Logistics, made in writing, that it is necessary in the interest of the Department of Defense to continue to procure property and services through that GSA Client Support Center.
+Exception From Applicability of Limitations.—(1) No limitation applies under subsection (c) with respect to the procurement of property and services from a particular GSA Client Support Center during any period that there is in effect a determination of the Under Secretary of Defense for Acquisition and Sustainment, made in writing, that it is necessary in the interest of the Department of Defense to continue to procure property and services through that GSA Client Support Center.
 
-"(2) A written determination with respect to a GSA Client Support Center under paragraph (1) is in effect for the period, not in excess of one year, that the Under Secretary of Defense for Acquisition, Technology, and Logistics shall specify in the written determination. The Under Secretary may extend from time to time, for up to one year at a time, the period for which the written determination remains in effect.
+"(2) A written determination with respect to a GSA Client Support Center under paragraph (1) is in effect for the period, not in excess of one year, that the Under Secretary of Defense for Acquisition and Sustainment shall specify in the written determination. The Under Secretary may extend from time to time, for up to one year at a time, the period for which the written determination remains in effect.
 
 "(e)
 
@@ -4370,7 +4564,7 @@ Eligible contractor.—The term 'eligible contractor' means a business entity op
 
 &emsp;&emsp;"(B) pays not less than the minimum wage prescribed pursuant to section 6 of the Fair Labor Standards Act of 1938 (29 U.S.C. 206) to the employees who are severely disabled individuals; and
 
-&emsp;&emsp;"(C) provides for its employees health insurance and a retirement plan comparable to those providedfor employees by business entities of similar size in its industrial sector or geographic region.
+&emsp;&emsp;"(C) provides for its employees health insurance and a retirement plan comparable to those provided for employees by business entities of similar size in its industrial sector or geographic region.
 
 &emsp;"(2)
 
@@ -4424,7 +4618,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(B) with respect to which the Secretary of Health and Human Services makes a determination that sufficient and satisfactory clinical experience or research data (including data, if available, from preclinical and clinical trials) exists to support a reasonable conclusion that the product will qualify for such approval or licensing for use as such a countermeasure.
 
-&emsp;"(2) The term 'biomedical countermeasure' means a drug (as defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1))), device (as defined in section 201(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(h))), or biological product (as defined in section 351(i) of the Public Health Service Act (42 U.S.C. 262(i))) that is—
+&emsp;"(2) The term 'biomedical countermeasure' means a drug (as defined in section 201(g)(1) of the FederalFood, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1))), device (as defined in section 201(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(h))), or biological product (as defined in section 351(i) of the Public Health Service Act (42 U.S.C. 262(i))) that is—
 
 &emsp;&emsp;"(A) used to treat, identify, or prevent harm from any biological, chemical, radiological, or nuclear agent that may cause a military health emergency affecting the Armed Forces; or
 
@@ -4446,7 +4640,7 @@ Pub. L. 107–314, div. A, title III, §314, Dec. 2, 2002, 116 Stat. 2508, as am
 
 "(a)
 
-Tracking System.—The Secretary of Defense shall develop and implement an effective and efficient tracking system to identify the extent to which the Defense Logistics Agency procures environmentally preferable procurement items or procurement items madewith recovered material. The system shall provide for the separate tracking, to the maximum extent practicable, of the procurement of each category of procurement items that, as of the date of the enactment of this Act \[Dec. 2, 2002\], has been determined to be environmentally preferable or made with recovered material.
+Tracking System.—The Secretary of Defense shall develop and implement an effective and efficient tracking system to identify the extent to which the Defense Logistics Agency procures environmentally preferable procurement items or procurement items made with recovered material. The system shall provide for the separate tracking, to the maximum extent practicable, of the procurement of each category of procurement items that, as of the date of the enactment of this Act \[Dec. 2, 2002\], has been determined to be environmentally preferable or made with recovered material.
 
 "(b)
 
@@ -4654,15 +4848,17 @@ Testing Requirement.—(1) The process for demonstrating performance and evaluat
 
 "(f)
 
-Limitation.—In the case of supplies that are part of a major system for which a low-rate initial production quantity determination has been made pursuant to section 2400 of title 10, United States Code, the quantity of such supplies acquired using the procedures prescribed pursuant to this section may not exceed an amount consistent with complying with limitations on the quantity of articles approved for low-rate initial production for such system. Any such supplies shall be included in any relevant calculation of quantities for low-rate initial production for the system concerned.
+Limitation.—In the case of supplies that are part of a major system for which a low-rate initial production quantity determination has been made pursuant tosection 2400 of title 10, United States Code, the quantity of such supplies acquired using the procedures prescribed pursuant to this section may not exceed an amount consistent with complying with limitations on the quantity of articles approved for low-rate initial production for such system. Any such supplies shall be included in any relevant calculation of quantities for low-rate initial production for the system concerned.
 
 "(g)
 
 Associated Support Services Defined.—In this section, the term 'associated support services' means training, operation, maintenance, and support services needed in connection with the deployment of supplies to be acquired pursuant to the authority of this section. The term does not include functions that are inherently governmental or otherwise exempted from private sector performance."
 
-\[Pub. L. 115–245, div. A, title VIII, §8069, Sept. 28, 2018, 132 Stat. 3017, provided that: "Any notice that is required to be submitted to the Committees on Appropriations of the Senate and the House of Representatives under section 806(c)(4) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 \[Pub. L. 107–314\] (10 U.S.C. 2302 note) after the date of the enactment of this Act \[div. A of Pub. L. 115–245, approved Sept. 28, 2018\] shall be submitted pursuant to that requirement concurrently to the Subcommittees on Defense of the Committees on Appropriations of the Senate and the House of Representatives."\]
+\[Pub. L. 116–93, div. A, title VIII, §8071, Dec. 20, 2019, 133 Stat. 2353, provided that: "Any notice that is required to be submitted to the Committees on Appropriations of the Senate and the House of Representatives under section 806(c)(4) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 \[Pub. L. 107–314, set out above\] (10 U.S.C. 2302 note) after the date of the enactment of this Act \[div. A of Pub. L. 116–93, approved Dec. 20, 2019\] shall be submitted pursuant to that requirement concurrently to the Subcommittees on Defense of the Committees on Appropriations of the Senate and the House of Representatives."\]
 
-\[Similar provisions were contained in the following prior appropriation act:
+\[Similar provisions were contained in the following prior appropriation acts:
+
+\[Pub. L. 115–245, div. A, title VIII, §8069, Sept. 28, 2018, 132 Stat. 3017.
 
 \[Pub. L. 115–141, div. C, title VIII, §8070, Mar. 23, 2018, 132 Stat. 480.\]
 
@@ -4748,11 +4944,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'performance-based', with respect to a contract, a task order, or contracting, means that the contract, task order, or contracting, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.
 
-&emsp;"(2) The term 'commercial item' has the meaning given the term in section 4(12) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(12)) \[see 41 U.S.C. 103\].
-
-&emsp;"(3) The term 'Defense Agency' has the meaning given the term in section 101(a)(11) of title 10, United States Code."
-
-<i>\[Pub. L. 115–232, div. A, title VIII, §836(f)(2), (h), Aug. 13, 2018, 132 Stat. 1871, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 1 \[\[div. A\], title VIII, §821\] of Pub. L. 106–398, set out above, is amended in subsec. (e) by striking paragraph (2) and by redesignating paragraph (3) as paragraph (2).\]</i>
+&emsp;"(2) The term 'Defense Agency' has the meaning given the term in section 101(a)(11) of title 10, United States Code."
 
 #### Program To Increase Business Innovation in Defense Acquisition Programs
 
@@ -4918,7 +5110,7 @@ Elimination of Use of Class I Ozone-Depleting Substances.—(1) No Department of
 
 &emsp;"(I) whether the contract includes a specification or standard that requires the use of a class I ozone-depleting substance or can be met only through the use of such a substance; and
 
-&emsp;"(II) in the event of a determination that the contract includes such a specification or standard, whether the contract can be carried out through the use of an economically feasible substitute for the ozone-depleting substance or through the use of an economically feasible alternative technology for a technology involving the use of the ozone-depleting substance.
+&emsp;"(II) in the event of a determination that the contract includes such a specification or standard, whether the contract can be carried out through the use of an economically feasible substitute for the ozone-depleting substance or through the use of an economically feasible alternative technology for atechnology involving the use of the ozone-depleting substance.
 
 "(ii) A contract referred to in clause (i) is any contract in an amount in excess of $10,000,000 that—
 
@@ -4940,7 +5132,7 @@ Elimination of Use of Class I Ozone-Depleting Substances.—(1) No Department of
 
 &emsp;"(A) Beginning on October 1, 1993, and continuing for 8 calendar quarters thereafter, by submitting a report on the approvals granted or determinations made under such authority during the preceding quarter not later than 30 days after the end of such quarter.
 
-&emsp;"(B) Beginning on January 1, 1997, and continuing for 4 years thereafter, by submitting a report on theapprovals granted or determinations made under such authority during the preceding year not later than 30 days after the end of such year.
+&emsp;"(B) Beginning on January 1, 1997, and continuing for 4 years thereafter, by submitting a report on the approvals granted or determinations made under such authority during the preceding year not later than 30 days after the end of such year.
 
 "(5) The Secretary shall promptly transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives each report submitted to the Secretary under paragraph (4). The Secretary shall transmit the report in classified and unclassified forms.
 
@@ -5026,7 +5218,7 @@ Procedures relating to compliance with payment terms.—(A) Under procedures est
 
 "(b)
 
-Inapplicability to Certain Contracts.—Regulations prescribed under this section shall not apply to a contract for the acquisition of commercial items (as defined in section 103 of title 41, United States Code).
+Inapplicability to Certain Contracts.—Regulations prescribed under this section shall not apply to a contract for the acquisition of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41, United States Code).
 
 "(c)
 
@@ -5096,13 +5288,11 @@ GAO Report.—(1) The Comptroller General of the United States shall conduct an 
 
 Inspector General Report.—(1) The Inspector General of the Department of Defense shall submit to the Secretary of Defense a report on payment protections for subcontractors and suppliers under contracts entered into with the Department of Defense. The report shall include an assessment of the extent to which available judicial and administrative remedies, as well as suspension and debarment procedures, have been used (or recommended for use) by officials of the Department to deter false statements relating to (A) payment bonds provided by individuals pursuant to the Miller Act, and (B) certifications pertaining to payment requests by construction contractors pursuant to section 3903(b) of title 31, United States Code. The assessment shall cover actions taken during the period beginning on October 1, 1989, and ending on September 30, 1992.
 
-"(2) The report required by paragraph (1) shall be submitted to the Secretary of Defense not later thanMarch 1, 1993. The report may include recommendations by the Inspector General on ways to improve the effectiveness of existing methods of preventing false statements.
+"(2) The report required by paragraph (1) shall be submitted to the Secretary of Defense not later than March 1, 1993. The report may include recommendations by the Inspector General on ways to improve the effectiveness of existing methods of preventing false statements.
 
 "(g)
 
 Miller Act Defined.—For purposes of this section, the term 'Miller Act' means the Act of August 24, 1935 (40 U.S.C. 270a–270d) \[now 40 U.S.C. 3131, 3133\]."
-
-<i>\[Pub. L. 115–232, div. A, title VIII, §836(f)(1), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 806(b) of Pub. L. 102–190, set out above, is amended by striking "commercial items (as defined in section 103 of title 41, United States Code)" and inserting "commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41, United States Code)".\]</i>
 
 #### Advisory Panel on Streamlining and Codifying Acquisition Laws
 
@@ -5124,7 +5314,7 @@ Pub. L. 106–65, div. A, title VIII, §811(d)(2), (3), Oct. 5, 1999, 113 Stat. 
 
 Pub. L. 102–484, div. A, title VIII, §807(a), Oct. 23, 1992, 106 Stat. 2448, directed the Secretary of Defense, within 15 days after Oct. 23, 1992, to publish in the Department of Defense Supplement to the Federal Acquisition Regulation the Department of Defense policy for the pilot Mentor-Protege Program and the regulations, directives, and administrative guidance pertaining to such program as such policy, regulations, directives, and administrative guidance had existed on Dec. 6, 1991, and directed that proposed modifications to that policy and any amendments proposed in order to implement any of the amendments made by this section, amending Pub. L. 101–510, §831, set out below, were to be published in final form within 120 days after Oct. 23, 1992.
 
-Pub. L. 101–510, div. A, title VIII, §831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, §704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, §8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, §814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§801(h)(4), 807(b)(1), title X, §1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, §813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703; Pub. L. 104–106, div. A, title VIII, §824, Feb. 10, 1996, 110 Stat. 399; Pub. L. 104–201, div. A, title VIII, §802, Sept. 23, 1996, 110 Stat. 2604; Pub. L. 105–85, div. A, title VIII, §821(a), title X, §1073(c)(6), Nov. 18, 1997, 111 Stat. 1840, 1904; Pub. L. 106–65, div. A, title VIII, §811(a)–(d)(1), (e), Oct. 5, 1999, 113 Stat. 706, 707, 709; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §807\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, §812, Dec. 28, 2001, 115 Stat. 1181; Pub. L. 108–375, div. A, title VIII, §§841(a), (b), 842, Oct. 28, 2004, 118 Stat. 2018, 2019; Pub. L. 112–10, div. A, title VIII, §8016, Apr. 15, 2011, 125 Stat. 60; Pub. L. 112–81, div. A, title VIII, §867, title X, §1062(n), Dec. 31, 2011, 125 Stat. 1526, 1586; Pub. L. 112–239, div. A, title X, §1076(a)(17), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–291, div. A, title X, §1071(b)(16), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–92, div. A, title VIII, §861(a), Nov. 25, 2015, 129 Stat. 921; Pub. L. 114–328, div. A, title XVIII, §§1813(b), 1823, Dec. 23, 2016, 130 Stat. 2652, 2656; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(A), Dec. 12, 2017, 131 Stat. 1796; Pub. L. 115–232, div. A, title VIII, §812(a)(2)(C)(ii), Aug. 13, 2018, 132 Stat. 1846, provided that:
+Pub. L. 101–510, div. A, title VIII, §831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, §704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, §8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, §814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§801(h)(4), 807(b)(1), title X, §1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, §813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703; Pub. L. 104–106, div. A, title VIII, §824, Feb. 10, 1996, 110 Stat. 399; Pub. L. 104–201, div. A, title VIII, §802, Sept. 23, 1996, 110 Stat. 2604; Pub. L. 105–85, div. A, title VIII, §821(a), title X, §1073(c)(6), Nov. 18, 1997, 111 Stat. 1840, 1904; Pub. L. 106–65, div. A, title VIII, §811(a)–(d)(1), (e), Oct. 5, 1999, 113 Stat. 706, 707, 709; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §807\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, §812, Dec. 28, 2001, 115 Stat. 1181; Pub. L. 108–375, div. A, title VIII, §§841(a), (b), 842, Oct. 28, 2004, 118 Stat. 2018, 2019; Pub. L. 112–10, div. A, title VIII, §8016, Apr. 15, 2011, 125 Stat. 60; Pub. L. 112–81, div. A, title VIII, §867, title X, §1062(n), Dec. 31, 2011, 125Stat. 1526, 1586; Pub. L. 112–239, div. A, title X, §1076(a)(17), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–291, div. A, title X, §1071(b)(16), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–92, div. A, title VIII, §861(a), Nov. 25, 2015, 129 Stat. 921; Pub. L. 114–328, div. A, title XVIII, §§1813(b), 1823, Dec. 23, 2016, 130 Stat. 2652, 2656; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(A), Dec. 12, 2017, 131 Stat. 1796; Pub. L. 115–232, div. A, title VIII, §812(a)(2)(C)(ii), Aug. 13, 2018, 132 Stat. 1846; Pub. L. 116–92, div. A, title VIII, §872(a)(1), (2), (b), (c), Dec. 20, 2019, 133 Stat. 1526, provided that:
 
 "(a)
 
@@ -5184,7 +5374,7 @@ Mentor-Protege Agreement.—Before providing assistance to a protege firm under 
 
 &emsp;&emsp;"(D) the assistance the mentor firm will provide to the protege firm in understanding contract regulations of the Federal Government and the Department of Defense (including the Federal Acquisition Regulation and the Defense Federal Acquisition Regulation Supplement) after award of a subcontract under this section, if applicable.
 
-&emsp;"(2) A program participation term for any period of not more than three years, except that the term may be a period of up to five years if the Secretary of Defense determines in writing that unusual circumstances justify a program participation term in excess of three years.
+&emsp;"(2) A program participation term for any period of not more than two years, except that the term may be a period of up to five years if the Secretary of Defense determines in writing that unusual circumstances justify a program participation term in excess of two years.
 
 &emsp;"(3) Procedures for the protege firm to terminate the agreement voluntarily and for the mentor firm to terminate the agreement for cause.
 
@@ -5262,9 +5452,9 @@ Participation in Mentor-Protege Program not To Be a Condition for Award of a Con
 
 "(j)
 
-Expiration of Authority.—(1) No mentor-protege agreement may be entered into under subsection (e) after September 30, 2018.
+Expiration of Authority.—(1) No mentor-protege agreement may be entered into under subsection (e) after September 30, 2024.
 
-"(2) No reimbursement may be paid, and no credit toward the attainment of a subcontracting goal may be granted, under subsection (g) for any cost incurred after September 30, 2021.
+"(2) No reimbursement may be paid, and no credit toward the attainment of a subcontracting goal may be granted, under subsection (g) for any cost incurred after September 30, 2026.
 
 "(k)
 
@@ -5304,11 +5494,19 @@ Review of Report by the Office of Small Business Programs.—The Office of Small
 
 "(n)
 
+Establishment of Performance Goals and Periodic Reviews.—The Office of Small Business Programs of the Department of Defense shall—
+
+&emsp;"(1) establish performance goals consistent with the stated purpose of the Mentor-Protege Program and outcome-based metrics to measure progress in meeting those goals; and
+
+&emsp;"(2) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], not later than February 1, 2020, a report on progress made toward implementing these performance goals and metrics, based on periodic reviews of the procedures used to approve mentor-protege agreements.
+
+"(o)
+
 Definitions.—In this section:
 
 &emsp;"(1) The term 'small business concern' has the meaning given such term under section 3 of the Small Business Act (15 U.S.C. 632).
 
-&emsp;"(2) The term 'disadvantaged small business concern' means a firm that has less than half the size standard corresponding to its primary North American Industry Classification System code, is not owned or managed by individuals or entities that directly or indirectly have stock options or convertible securities in the mentor firm, and is—
+&emsp;"(2) The term 'disadvantaged small business concern' means a firm that is not more than the size standard corresponding to its primary North American Industry Classification System code, is not owned or managed by individuals or entities that directly or indirectly have stock options or convertible securities in the mentor firm, and is—
 
 &emsp;&emsp;"(A) a small business concern owned and controlled by socially and economically disadvantaged individuals;
 
@@ -5322,7 +5520,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(F) a small business concern owned and controlled by service–disabled veterans (as defined in section 8(d)(3) of the Small Business Act \[15 U.S.C. 637(d)(3)\]); and \[sic\]
 
-&emsp;&emsp;"(G) a qualified HUBZone small business concern (as defined in section 3(p) of the Small Business Act (15 U.S.C. 632(p))); or
+&emsp;&emsp;"(G) a qualified HUBZone small business concern (as defined in section 31(b) of the Small Business Act \[15 U.S.C. 657a(b)\]); or
 
 &emsp;&emsp;"(H) a small business concern that—
 
@@ -5352,7 +5550,9 @@ Definitions.—In this section:
 
 &emsp;"(9) The term 'affiliation', with respect to a relationship between a mentor firm and a protege firm, means a relationship described under section 121.103 of title 13, Code of Federal Regulations (or any successor regulation)."
 
-<i>\[Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(A), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, provided that, effective Jan. 1, 2020, section 831(n)(2)(G) of Pub. L. 101–510, set out above, is amended by striking "section 3(p) of the Small Business Act (15 U.S.C. 632(p))" and inserting "section 31(b) of the Small Business Act".\]</i>
+\[Pub. L. 116–92, div. A, title VIII, §872(a)(3), Dec. 20, 2019, 133 Stat. 1526, provided that: "The amendments made by this subsection \[amending section 831 of Pub. L. 101–510, set out above\] shall take effect on the date on which the Secretary of Defense submits to Congress the small business strategy required under section 2283 of title 10, United States Code. The Secretary of Defense shall notify the Law Revision Counsel of the House of Representatives of the submission of the strategy so that the Law Revision Counsel may execute the amendments made by this subsection." Per notification received by Law Revision Counsel, submission of small business strategy occurred Nov. 2, 2019.\]
+
+\[Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(A), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, which directed amendment of section 831(n)(2)(G) of Pub. L. 101–510, set out above, effective Jan. 1, 2020, by striking "section 3(p) of the Small Business Act (15 U.S.C. 632(p))" and inserting "section 31(b) of the Small Business Act", was executed to section 831(o)(2)(G) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–92, §872(b)(1), which redesignated subsec. (n) as (o) effective Dec. 20, 2019.\]
 
 \[Pub. L. 114–92, §861(a)(11)(B)(iii), which directed amendment of section 831(n)(2)(G) of Pub. L. 101–510, set out above, by substituting "Small Business Act (15 U.S.C. 632(p)); or" for "Small Business Act.", was executed by substituting "Small Business Act (15 U.S.C. 632(p))); or" for "Small Business Act)." to reflect the probable intent of Congress.\]
 

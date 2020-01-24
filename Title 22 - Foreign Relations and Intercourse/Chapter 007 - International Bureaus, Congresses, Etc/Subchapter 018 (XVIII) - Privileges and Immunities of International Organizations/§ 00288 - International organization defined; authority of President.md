@@ -26,7 +26,7 @@ In General.—The President shall ensure that the Government of the United State
 
 "(b)
 
-Representation by the Secretary.—The Secretary of Agriculture shall represent the Government of the United States as a member of the International Cotton Advisory Committee and shall delegate the primary responsibility to represent the Government of the United States to appropriately qualified individuals."
+Representation by the Secretary.—The Secretary of Agriculture shall represent the Governmentof the United States as a member of the International Cotton Advisory Committee and shall delegate the primary responsibility to represent the Government of the United States to appropriately qualified individuals."
 
 #### Administrative Supplies for International Organizations
 

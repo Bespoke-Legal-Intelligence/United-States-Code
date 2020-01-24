@@ -98,7 +98,7 @@ Except as provided in subsection (e), the assignment of volunteers under this se
 
 #### (g) Program or project submittal to Governor; commencement and termination of service
 
-Volunteers under this part shall not be assigned to work in a program or project in any community unless the application for such program or project contains evidence of local support and has been submitted to the Governor or other chief executive officer of the State concerned. In the event of a timely request in writing, supported by a statement of reasons, by the Governor or other chief executive officer of the State concerned, the Director shall terminate a program or project or the assignment of a volunteer to a program or project not later than 30 days after the date such request is received by the Director, or at such later date as is agreed upon by the Director and such Governor or other chief executive officer.
+Volunteers under this part shall not be assigned to work in a program or project in any community unless the application for such program or project contains evidence of local support and has been submitted to the Governor or other chief executive officer of the State concerned. In the event of a timely request in writing, supported by a statement of reasons, by the Governor or other chief executive officer of the State concerned, the Director shall terminate a program or project or the assignment of a volunteer to a program or project not later than 30days after the date such request is received by the Director, or at such later date as is agreed upon by the Director and such Governor or other chief executive officer.
 
 #### (h) Interagency agreements
 
@@ -162,7 +162,7 @@ Subsec. (c)(1)(C). Pub. L. 111–13, §2102(3)(A)(iii), inserted "State or local
 
 Subsec. (c)(1)(F). Pub. L. 111–13, §2102(3)(A)(iv), substituted "Community Service Act of 1990" for "Community Service Trust Act of 1993".
 
-Subsec. (c)(4). Pub. L. 111–13, §2102(3)(B), struck out par. (4) which read as follows: "Beginning in fiscal year 1991 and for each fiscal year thereafter, for the purpose of carrying out this subsection, the Director shall obligate not less than 1.5 percent of the amounts appropriated for each fiscal year under section 5081(a) of this title."
+Subsec. (c)(4). Pub. L. 111–13, §2102(3)(B), struck out par. (4) which read as follows: "Beginning in fiscal year1991 and for each fiscal year thereafter, for the purpose of carrying out this subsection, the Director shall obligate not less than 1.5 percent of the amounts appropriated for each fiscal year under section 5081(a) of this title."
 
 Subsec. (d). Pub. L. 111–13, §2102(4), struck out "private industry council established under the Job Training Partnership Act or" after "coordinated with an appropriate". See 1998 Amendment note below.
 
@@ -170,7 +170,7 @@ Subsec. (g). Pub. L. 111–13, §2102(5), struck out ", and such Governor or ot
 
 Subsec. (i). Pub. L. 111–13, §2102(6), added subsec. (i).
 
-<b>1998</b>—Subsec. (d). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(28)(A)\], which directed amendment of the secondsentence to read "private industry council established under the Job Training Partnership Act or", was not executed, to reflect the probable intent of Congress and subsequent amendment by Pub. L. 111–13, §2102(4).
+<b>1998</b>—Subsec. (d). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(28)(A)\], which directed amendment of the second sentence to read "private industry council established under the Job Training Partnership Act or", was not executed, to reflect the probable intent of Congress and subsequent amendment by Pub. L. 111–13, §2102(4).
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(36)(A)\], substituted "Whenever feasible, such efforts shall be coordinated with an appropriate private industry council established under the Job Training Partnership Act or local workforce investment board established under section 2832 of title 29." for "Whenever feasible, such efforts shall be coordinated with an appropriate private industry council under the Job Training Partnership Act."
 
@@ -238,7 +238,7 @@ Subsec. (f). Pub. L. 101–204, §101(b)(1), (d)(2)(C), redesignated subsec. (e)
 
 Subsec. (g). Pub. L. 101–204, §101(b)(1), redesignated former subsec. (f) as (g).
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–551 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationallyrecruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home communities or in nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program."
+<b>1986</b>—Subsec. (b). Pub. L. 99–551 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home communities or in nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program."
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–288, §4(a)(1), inserted "in the local communities in which the volunteers were recruited" and inserted ", including work" in provisions before par. (1).
 

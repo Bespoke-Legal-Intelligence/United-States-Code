@@ -121,7 +121,7 @@ For purposes of this section—
 
 #### (ii) Agreement to assume recapture liability
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply if the person acquiring such interest in the facilityagrees in writing to assume the recapture liability of the person disposing of such interest in effect immediately before such disposition. In the event of such an assumption, the person acquiring the interest in the facility shall be treated as the taxpayer for purposes of assessing any recapture liability (computed as if there had been no change in ownership).
+&emsp;&emsp;&emsp;Clause (i) shall not apply if the person acquiring such interest in the facility agrees in writing to assume the recapture liability of the person disposing of such interest in effect immediately before such disposition. In the event of such an assumption, the person acquiring the interest in the facility shall be treated as the taxpayer for purposes of assessing any recapture liability (computed as if there had been no change in ownership).
 
 #### (4) Special rules
 

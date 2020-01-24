@@ -2,7 +2,7 @@
 
 #### (a) Limitations
 
-No Bell operating company or any affiliate may engage in the provision of electronic publishing that is disseminated by means of such Bell operating company's or any of its affiliates' basic telephone service, except that nothing in this section shall prohibit a separated affiliate or electronic publishing joint venture operatedin accordance with this section from engaging in the provision of electronic publishing.
+No Bell operating company or any affiliate may engage in the provision of electronic publishing that is disseminated by means of such Bell operating company's or any of its affiliates' basic telephone service, except that nothing in this section shall prohibit a separated affiliate or electronic publishing joint venture operated in accordance with this section from engaging in the provision of electronic publishing.
 
 #### (b) Separated affiliate or electronic publishing joint venture requirements
 
@@ -58,7 +58,7 @@ A separated affiliate or electronic publishing joint venture shall be operated i
 
 #### (B) Teaming arrangements
 
-&emsp;&emsp;A Bell operating company may engage in nondiscriminatory teaming or business arrangements to engage in electronic publishing with any separated affiliate or with any other electronic publisher if (i) the Bell operating company only provides facilities, services, and basic telephone service information as authorized by this section, and (ii) the Bell operating company does not own such teaming or business arrangement.
+&emsp;&emsp;A Bell operating company may engage in nondiscriminatory teaming or business arrangements to engage in electronic publishing with any separated affiliate or with any other electronic publisher if (i) the Bell operating company only provides facilities, services, and basic telephone service information as authorized by this section, and (ii)the Bell operating company does not own such teaming or business arrangement.
 
 #### (C) Electronic publishing joint ventures
 

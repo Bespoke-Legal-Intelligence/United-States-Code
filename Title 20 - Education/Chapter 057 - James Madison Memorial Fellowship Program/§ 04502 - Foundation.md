@@ -14,7 +14,7 @@ In order to commemorate the bicentennial of the Constitution, there is establish
 
 &emsp;(C) Two members of the Federal judiciary shall be appointed by the President upon the recommendation of the Chief Justice of the United States.
 
-&emsp;(D) Six members, not more than three of whom shall be of the same political party, shall be appointed by the President with the advice and consent of the Senate, of whom one shall be a chief executive officer of a State, two shall be members of the general public, and three shall be members of the academic community, appointed upon the recommendation of the Librarian of Congress.
+&emsp;(D) Six members, not more than three of whom shall be of the same political party,shall be appointed by the President with the advice and consent of the Senate, of whom one shall be a chief executive officer of a State, two shall be members of the general public, and three shall be members of the academic community, appointed upon the recommendation of the Librarian of Congress.
 
 &emsp;(E) The Secretary of Education or his designate shall serve ex officio as a member of the Board, but shall not be eligible to serve as Chairman.
 
@@ -36,7 +36,7 @@ Members of the Board shall elect from the members of the Board a Chairman and su
 
 (2) Members of the Board and the President, Executive Secretary, and other personnel of the Foundation shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties at rates applicable to judges of the United States under section 456(a) of title 28.
 
-(Pub. L. 99–500, §101(b) \[title VIII, §803\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–76, and Pub. L. 99–591, §101(b) \[title VIII, §803\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–76; Pub. L. 101–208, §1, Dec. 7, 1989,103 Stat. 1836; Pub. L. 102–221, §1(1), Dec. 11, 1991, 105 Stat. 1676.)
+(Pub. L. 99–500, §101(b) \[title VIII, §803\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–76, and Pub. L. 99–591, §101(b) \[title VIII, §803\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–76; Pub. L. 101–208, §1, Dec. 7, 1989, 103 Stat. 1836; Pub. L. 102–221, §1(1), Dec. 11, 1991, 105 Stat. 1676.)
 
 #### Codification
 

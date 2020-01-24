@@ -30,6 +30,10 @@ June 30, 1949, ch. 288, §2, 63 Stat. 378; Sept. 1, 1954, ch. 1211, §1, 68 Stat
 
 #### Short Title of 2019 Amendment
 
+Pub. L. 116–75, §1, Nov. 27, 2019, 133 Stat. 1160, provided that: "This Act \[amending section 6121 of this title\] may be cited as the 'Reauthorizing Security for Supreme Court Justices Act of 2019'."
+
+Pub. L. 116–30, §1, July 25, 2019, 133 Stat. 1032, provided that: "This Act \[enacting section 3318 of this title and provisions set out as a note under section 3318 of this title\] may be cited as the 'Fairness For Breastfeeding Mothers Act of 2019'."
+
 Pub. L. 115–419, §1, Jan. 3, 2019, 132 Stat. 5442, provided that: "This Act \[amending sections 506 and 524 of this title\] may be cited as the 'Federal Personal Property Management Act of 2018'."
 
 #### Short Title of 2018 Amendment
@@ -72,7 +76,7 @@ Pub. L. 110–248, §1, June 26, 2008, 122 Stat. 2316, provided that: "This Act 
 
 Pub. L. 109–396, §1, Dec. 15, 2006, 120 Stat. 2711, provided that: "This Act \[enacting provisions set out as notes under sections 524 and 5102 of this title, provisions listed in a table of Commemorative Works set out under section 8903 of this title, and provisions set out as a note under section 225b of Title 24, Hospitals and Asylums\] may be cited as the 'Federal and District of Columbia Government Real Property Act of 2006'."
 
-Pub. L. 109–313, §1, Oct. 6, 2006, 120 Stat. 1734, provided that: "This Act \[amending sections 303, 321, 549, 573, 604, and 605 of this title, section 5316 of Title 5, Government Organization and Employees, section 2669 of Title 22, Foreign Relations and Intercourse, and section 433 of Title 41, Public Contracts, repealing section 322 of this title, enacting provisions set out as notes under sections 303 and 321 of this title and section 5316 of Title 5, and amending provisions set out as notes under section 2302 of Title 10, Armed Forces, and section 2107 of Title 44, Public Printing and Documents\] may be cited as the 'General Services Administration Modernization Act'."
+Pub. L. 109–313, §1, Oct. 6, 2006, 120 Stat. 1734, provided that: "This Act \[amending sections 303, 321, 549, 573, 604, and 605 of this title, section 5316 of Title 5, Government Organization and Employees, section 2669 of Title 22, Foreign Relations and Intercourse, and section 433 ofTitle 41, Public Contracts, repealing section 322 of this title, enacting provisions set out as notes under sections 303 and 321 of this title and section 5316 of Title 5, and amending provisions set out as notes under section 2302 of Title 10, Armed Forces, and section 2107 of Title 44, Public Printing and Documents\] may be cited as the 'General Services Administration Modernization Act'."
 
 #### Short Title of 2003 Amendment
 

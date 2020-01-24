@@ -12,7 +12,7 @@ Federally generated electric energy.—The term "federally generated electric en
 
 &emsp;(3)
 
-Non-federal person.—The term "non-federal person" means a corporation, cooperative, municipality, or other non-federal entity that generates electric energy through a facility other than a federally owned electric generating facility.
+Non-federal person.—The term "non-federal person" means a corporation, cooperative, municipality, or other non-federal entitythat generates electric energy through a facility other than a federally owned electric generating facility.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1288.)
 

@@ -42,7 +42,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall approve any application that meets the requirements of subsection (a) and section 10406 of this title. The Secretary shall not disapprove any application under this subsection unless the Secretary gives the applicant reasonable notice of the Secretary's intention to disapprove and a 6-month period providing an opportunity for correction of any deficiencies.
+&emsp;The Secretary shall approve any application that meets the requirements of subsection (a) and section 10406 of this title. The Secretary shall not disapprove any application underthis subsection unless the Secretary gives the applicant reasonable notice of the Secretary's intention to disapprove and a 6-month period providing an opportunity for correction of any deficiencies.
 
 #### (2) Correction of deficiencies
 

@@ -28,5 +28,5 @@ Pub. L. 94–265, title IV, §403(b), Apr. 13, 1976, 90 Stat. 360, provided in p
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–569 applicable with respect to seizure of vessels of the United States occurring onor after Oct. 26, 1972, except that reimbursements under this section may be made from the fund established by section 1979 of this title with respect to seizure of vessels occurring after Dec. 31, 1970 and before Oct. 26, 1972 if no reimbursement was made before Oct. 26, 1972, see section 6 of Pub. L. 92–569, set out as a note under section 1972 of this title.
+Amendment by Pub. L. 92–569 applicable with respect to seizure of vessels of the United States occurring on or after Oct. 26, 1972, except that reimbursements under this section may be made from the fund established by section 1979 of this title with respect to seizure of vessels occurring after Dec. 31, 1970 and before Oct. 26, 1972 if no reimbursement was made before Oct. 26, 1972, see section 6 of Pub. L. 92–569, set out as a note under section 1972 of this title.
 

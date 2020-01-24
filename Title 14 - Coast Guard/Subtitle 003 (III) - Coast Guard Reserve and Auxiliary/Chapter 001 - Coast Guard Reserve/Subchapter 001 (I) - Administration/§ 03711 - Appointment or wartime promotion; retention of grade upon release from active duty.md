@@ -2,7 +2,7 @@
 
 (a) A member of the Reserve on active duty, who is appointed or promoted under section 2104 or 2125 of this title, is entitled upon release from that duty to the highest grade satisfactorily held by reason of that appointment or promotion. The Secretary shall determine the highest grade satisfactorily held.
 
-(b) Unless otherwise entitled to a higher grade, a member recalled to active duty shall be recalled in the grade in which released under subsection (a).
+(b) Unless otherwise entitled to a higher grade, a member recalled to active duty shall berecalled in the grade in which released under subsection (a).
 
 (Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1006, §710; renumbered §3711 and amended Pub. L. 115–282, title I, §§118(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4233, 4240.)
 

@@ -30,7 +30,7 @@ For the purpose of this chapter—
 
 &emsp;(5)
 
-Insured depository institution.—The terms "depository institution" and "savings association" have the same meanings as in section 1813 of this title;
+Insured depository institution.—The terms "depository institution" and "savingsassociation" have the same meanings as in section 1813 of this title;
 
 &emsp;(6) the term "invest" includes any advance of funds to a bank service company, whether by the purchase of stock, the making of a loan, or otherwise, except a payment for rent earned, goods sold and delivered, or services rendered prior to the making of such payment;
 

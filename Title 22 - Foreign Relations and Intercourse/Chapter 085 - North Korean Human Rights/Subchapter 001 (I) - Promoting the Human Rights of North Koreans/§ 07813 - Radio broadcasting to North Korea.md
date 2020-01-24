@@ -24,3 +24,7 @@ Not later than 120 days after October 18, 2004, the Broadcasting Board of Govern
 
 Subsec. (a)(1). Pub. L. 115–198, §4(2), substituted "broadcasting, including news rebroadcasting," for "radio broadcasting", "increase such broadcasts, including news rebroadcasts," for "increase broadcasts", and "Voice of America; and" for "Voice of America."
 
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+

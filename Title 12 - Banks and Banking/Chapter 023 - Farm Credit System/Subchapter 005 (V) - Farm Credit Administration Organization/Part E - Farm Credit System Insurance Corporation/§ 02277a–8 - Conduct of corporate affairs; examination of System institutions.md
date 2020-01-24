@@ -40,7 +40,7 @@
 
 #### (3) Powers and report
 
-&emsp;Each examiner appointed under paragraph (2) shall make such examination of the affairsof the System institution as the Board may direct, and shall make a full and detailed report of the examination to the Corporation.
+&emsp;Each examiner appointed under paragraph (2) shall make such examination of the affairs of the System institution as the Board may direct, and shall make a full and detailed report of the examination to the Corporation.
 
 #### (4) Appointment of claim agents
 

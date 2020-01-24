@@ -80,7 +80,7 @@ Counseling for Members and Spouses.—(1) The Secretary concerned shall, upon re
 
 (c)
 
-Life Insurance.—In counseling a member of the armed forces, or spouse of a member of the armed forces, under this section regarding life insurance offered by a private sector source, a financial services counselor under subsection (b)(2)(A)(i), or another individual providing counseling on financial services under subsection (b)(2), shall furnish the member or spouse, as the case may be, with information on the availability of Servicemembers' Group Life Insurance under subchapter III of chapter 19 of title 38, including information on the amounts of coverage available and the procedures for electing coverage and the amount of coverage.
+Life Insurance.—In counseling a member of the armed forces, or spouse of a member of the armed forces, under this section regarding life insurance offered by a private sector source, a financial services counselor under subsection (b)(2)(A)(i), or another individual providing counseling on financial services under subsection (b)(2), shall furnish the member or spouse, as the case may be, with information on the availability of Servicemembers' Group LifeInsurance under subchapter III of chapter 19 of title 38, including information on the amounts of coverage available and the procedures for electing coverage and the amount of coverage.
 
 (d)
 
@@ -104,7 +104,7 @@ Financial Services Defined.—In this section, the term "financial services" inc
 
 &emsp;(4) Health insurance, budget management, Thrift Savings Plan (TSP), retirement lump sum payments (including rollover options and tax consequences), and Survivor Benefit Plan (SBP).
 
-(Added Pub. L. 109–163, div. A, title V, §578(a)(1), Jan. 6, 2006, 119 Stat. 3274; amended Pub. L.111–84, div. A, title X, §1073(a)(8), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 114–92, div. A, title VI, §661(b)–(e)(1), Nov. 25, 2015, 129 Stat. 857, 858.)
+(Added Pub. L. 109–163, div. A, title V, §578(a)(1), Jan. 6, 2006, 119 Stat. 3274; amended Pub. L. 111–84, div. A, title X, §1073(a)(8), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 114–92, div. A, title VI, §661(b)–(e)(1), Nov. 25, 2015, 129 Stat. 857, 858.)
 
 #### Amendments
 
@@ -135,6 +135,10 @@ Subsec. (e)(4). Pub. L. 114–92, §661(d), added par. (4).
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–163, div. A, title V, §578(b), Jan. 6, 2006, 119 Stat. 3276, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the first day of the first month that begins more than 120 days after the date of the enactment of this Act \[Jan. 6, 2006\]."
+
+#### Inclusion of Information on Free Credit Monitoring in Annual Financial Literacy Briefing
+
+Pub. L. 116–92, div. A, title V, §560A, Dec. 20, 2019, 133 Stat. 1393, provided that: "The Secretary of each military department shall ensure that the annual financial literacy education briefing provided to members of the Armed Forces includes information on the availability of free credit monitoring services pursuant to section 605A(k) of the Fair Credit Reporting Act (15 U.S.C. 1681c–1(k))."
 
 #### Implementations
 
@@ -188,7 +192,7 @@ Table of Contents.—\[Omitted\]
 
 &emsp;"(4) one securities product offered to service members, known as the 'mutual fund contractual plan', largely disappeared from the civilian market in the 1980s, due to excessive sales charges;
 
-&emsp;"(5) with respect to a mutual fund contractual plan, a 50 percent sales commission is assessed against the first year of contributions, despite an average commission on other securities products of less than 6 percent on each sale;
+&emsp;"(5) with respect to a mutual fund contractual plan, a 50 percent sales commission is assessed against thefirst year of contributions, despite an average commission on other securities products of less than 6 percent on each sale;
 
 &emsp;"(6) excessive sales charges allow abusive and misleading sales practices in connection with mutual fund contractual plan;
 
@@ -338,7 +342,7 @@ Disclosure.—A disclosure in accordance with this section is a written disclosu
 
 &emsp;"(3) states that the life insurance product that is the subject of the disclosure is not offered or provided by the Federal Government, and that the Federal Government has in no way sanctioned, recommended, or encouraged the sale of the life insurance product being offered;
 
-&emsp;"(4) fully discloses any terms and circumstances under which amounts accumulated in a savings fund or savings feature under the life insurance product that is the subject of the disclosure may be divertedto pay, or reduced to offset, premiums due for continuation of coverage under such product;
+&emsp;"(4) fully discloses any terms and circumstances under which amounts accumulated in a savings fund or savings feature under the life insurance product that is the subject of the disclosure may be diverted to pay, or reduced to offset, premiums due for continuation of coverage under such product;
 
 &emsp;"(5) states that no person has received any referral fee or incentive compensation in connection with the offer or sale of the life insurance product, unless such person is a licensed agent of the person engaged in the business of insurance that is issuing such product;
 

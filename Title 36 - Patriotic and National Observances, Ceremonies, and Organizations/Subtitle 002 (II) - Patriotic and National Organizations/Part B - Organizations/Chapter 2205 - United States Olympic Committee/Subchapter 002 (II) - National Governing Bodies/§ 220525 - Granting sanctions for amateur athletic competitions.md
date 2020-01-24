@@ -124,5 +124,5 @@ In subsection (b), the language before paragraph (1) is substituted for 36:392(b
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b)(4)(G). Pub. L. 115–126 added subpar. (G).
+<b>2018</b>—Subsec. (b)(4)(G). Pub. L. 115–126, which directed amendment of section 220525(b)(4), without specifying the title to be amended, by adding subpar. (G), was executed to this section, to reflect the probable intent of Congress.
 

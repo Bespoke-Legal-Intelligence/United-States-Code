@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A borrower who has 1 or more loans in 2 or more of the categories described in paragraph (2), and who has not yet entered repayment on1 or more of those loans in any of the categories, may consolidate all of the loans of the borrower that are described in paragraph (2) into a Federal Direct Consolidation Loan during the period described in paragraph (3).
+&emsp;A borrower who has 1 or more loans in 2 or more of the categories described in paragraph (2), and who has not yet entered repayment on 1 or more of those loans in any of the categories, may consolidate all of the loans of the borrower that are described in paragraph (2) into a Federal Direct Consolidation Loan during the period described in paragraph (3).
 
 #### (2) Categories of loans that may be consolidated
 

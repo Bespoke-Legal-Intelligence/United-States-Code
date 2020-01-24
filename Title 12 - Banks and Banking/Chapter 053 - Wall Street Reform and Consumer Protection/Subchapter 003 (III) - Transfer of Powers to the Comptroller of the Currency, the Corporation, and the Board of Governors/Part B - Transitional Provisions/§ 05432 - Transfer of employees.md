@@ -40,7 +40,7 @@ Each employee to be transferred under subsection (a)(1) shall—
 
 &emsp;(1) be transferred not later than 90 days after the transfer date; and
 
-&emsp;(2) receive notice of the position assignment of the employee not later than 120 days afterthe effective date of the transfer of the employee.
+&emsp;(2) receive notice of the position assignment of the employee not later than 120 days after the effective date of the transfer of the employee.
 
 #### (c) Transfer of functions
 
@@ -100,7 +100,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (1) 30-month protection
 
-&emsp;Except as provided in paragraph (2), during the 30-month period beginning on the date on which the employee was transferred under this part, a transferred employee shall be paid at a rate that is not less than the basic rate of pay, including any geographic differential, that the transferred employee received during the pay period immediately preceding the date on which the employee was transferred. Notwithstanding the preceding sentence, if the employee was receiving a higher rate of basic pay on a temporary basis (because of a temporary assignment, temporary promotion, or other temporary action) immediately before the transfer, the Agency may reduce the rate of basic pay on the date the rate would have been reduced but for the transfer, and the protected rate for the remainder of the 30-month period will be the reduced rate that would have applied but for the transfer.
+&emsp;Except as provided in paragraph (2), during the 30-month period beginning on the date on which the employee was transferred under thispart, a transferred employee shall be paid at a rate that is not less than the basic rate of pay, including any geographic differential, that the transferred employee received during the pay period immediately preceding the date on which the employee was transferred. Notwithstanding the preceding sentence, if the employee was receiving a higher rate of basic pay on a temporary basis (because of a temporary assignment, temporary promotion, or other temporary action) immediately before the transfer, the Agency may reduce the rate of basic pay on the date the rate would have been reduced but for the transfer, and the protected rate for the remainder of the 30-month period will be the reduced rate that would have applied but for the transfer.
 
 #### (2) Exceptions
 
@@ -180,7 +180,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An annuitant, as defined in section 8901 of title 5, who is enrolled in a life insurance plan administered by an agency from which employees are transferred under this title <sup>1</sup> on the day before the transfer date shall be eligible for coverage by a life insurance plan under sections 8706(b),8714a, 8714b, or 8714c of title 5, or by a life insurance plan established by the Office of the Comptroller of the Currency or the Corporation, as applicable, without regard to any regularly scheduled open season or any requirement of insurability.
+&emsp;&emsp;&emsp;An annuitant, as defined in section 8901 of title 5, who is enrolled in a life insurance plan administered by an agency from which employees are transferred under this title <sup>1</sup> on the day before the transfer date shall be eligible for coverage by a life insurance plan under sections 8706(b), 8714a, 8714b, or 8714c of title 5, or by a life insurance plan established by the Office of the Comptroller of the Currency or the Corporation, as applicable, without regard to any regularly scheduled open season or any requirement of insurability.
 
 #### (ii) Contribution of transferred employee
 
@@ -220,7 +220,7 @@ In administering the provisions of this section, the Comptroller of the Currency
 
 #### (1) In general
 
-&emsp;If the Comptroller of the Currency or the Chairperson of the Corporation determines, during the 2-year period beginning 1 year after the transfer date, that a reorganization of the staff of the Office of the Comptroller of the Currency or the Corporation, respectively, is required, the reorganization shall be deemed a "major reorganization" for purposes of affording affected employees retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5.
+&emsp;If the Comptroller of the Currency or the Chairperson of the Corporation determines,during the 2-year period beginning 1 year after the transfer date, that a reorganization of the staff of the Office of the Comptroller of the Currency or the Corporation, respectively, is required, the reorganization shall be deemed a "major reorganization" for purposes of affording affected employees retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5.
 
 #### (2) Service credit
 

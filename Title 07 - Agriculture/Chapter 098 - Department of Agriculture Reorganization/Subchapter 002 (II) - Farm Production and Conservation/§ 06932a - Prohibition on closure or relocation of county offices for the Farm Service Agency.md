@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) not later than 30 days after the Secretary proposes to close such office, the Secretary holds a public meeting regarding the proposed closure in the county in which such office is located; and
 
-&emsp;&emsp;(B) after the public meeting referred to in subparagraph (A), but not less than 90 days before the date on which the Secretary approves the closure of such office, the Secretary notifies the Committee on Agriculture and the Committee on Appropriations of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry and the Committee on Appropriations of the Senate, each Senator representing the State in which the office proposed to be closed is located, and the member of the House of Representatives who represents the Congressional district in which the office proposed to be closed is located of the proposed closure of such office.
+&emsp;&emsp;(B) after the public meeting referred to in subparagraph (A), but not less than 90 days before the date on which the Secretary approves the closure of such office, the Secretary notifies the Committee on Agriculture and the Committee on Appropriations of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry and the Committee on Appropriations of the Senate, each Senator representing the State in which the office proposed to be closed is located, and the member of the House of Representatives who represents theCongressional district in which the office proposed to be closed is located of the proposed closure of such office.
 
 (Pub. L. 110–234, title XIV, §14212, May 22, 2008, 122 Stat. 1465; Pub. L. 110–246, §4(a), title XIV, §14212, June 18, 2008, 122 Stat. 1664, 2227.)
 

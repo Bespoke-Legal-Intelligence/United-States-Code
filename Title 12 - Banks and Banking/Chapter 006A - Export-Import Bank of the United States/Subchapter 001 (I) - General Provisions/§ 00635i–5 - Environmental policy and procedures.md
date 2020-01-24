@@ -54,5 +54,5 @@ A prior section 11 of act July 31, 1945, ch. 341, was renumbered section 9 and i
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 applicable with respect to fiscal year 2016 and each fiscal year thereafter, seesection 54002(e) of Pub. L. 114–94, set out as a note under section 635 of this title.
+Amendment by Pub. L. 114–94 applicable with respect to fiscal year 2016 and each fiscal year thereafter, see section 54002(e) of Pub. L. 114–94, set out as a note under section 635 of this title.
 

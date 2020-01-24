@@ -110,7 +110,7 @@ In general.—Within 18 months after the date of the enactment of the Clean Air 
 
 Additional reporting requirements.—(A) The evaluation required under paragraph (1)(A) shall examine the extent to which the significant air quality standards and controls required under this Act are comparable to existing internationally-agreed norms.
 
-&emsp;"(B) The strategy required to be developed under paragraph (1)(B) shall include recommended options (such as the harmonization of standards and trade adjustment measures) for reducing or eliminating competitive disadvantages caused by differences in standards and controls between the United States and each of its major trading partners.
+&emsp;"(B) The strategy required to be developed under paragraph (1)(B) shall include recommended options\(such as the harmonization of standards and trade adjustment measures) for reducing or eliminating competitive disadvantages caused by differences in standards and controls between the United States and each of its major trading partners.
 
 &emsp;"(3)
 

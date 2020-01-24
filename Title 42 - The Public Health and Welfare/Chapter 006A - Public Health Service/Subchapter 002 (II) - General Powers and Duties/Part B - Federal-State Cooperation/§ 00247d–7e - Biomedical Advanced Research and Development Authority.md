@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Other transactions
 
-&emsp;The term "other transactions" means transactions, other than procurement contracts, grants, and cooperative agreements, such as the Secretary of Defense may enter into under section 2371 of title 10.
+&emsp;The term "other transactions" means transactions, other than procurement contracts, grants, and cooperative agreements.
 
 #### (4) Qualified countermeasure
 
@@ -68,7 +68,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than 6 months after December 19, 2006, the Secretary shall develop and make public a strategic plan to integrate biodefenseand emerging infectious disease requirements with the advanced research and development, strategic initiatives for innovation, and the procurement of qualified countermeasures and qualified pandemic or epidemic products. The Secretary shall carry out such activities as may be practicable to disseminate the information contained in such plan to persons who may have the capacity to substantially contribute to the activities described in such strategic plan. The Secretary shall update and incorporate such plan as part of the National Health Security Strategy described in section 300hh–1 of this title.
+&emsp;Not later than 6 months after December 19, 2006, the Secretary shall develop and make public a strategic plan to integrate biodefense and emerging infectious disease requirements with the advanced research and development, strategic initiatives for innovation, and the procurement of qualified countermeasures and qualified pandemic or epidemic products. The Secretary shall carry out such activities as may be practicable to disseminate the information contained in such plan to persons who may have the capacity to substantially contribute to the activities described in such strategic plan. The Secretary shall update and incorporate such plan as part of the National Health Security Strategy described in section 300hh–1 of this title.
 
 #### (2) Content
 
@@ -122,7 +122,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) convene such working groups on countermeasure and product advanced research and development as the Secretary may determine are necessary to carry out this section; and
 
-&emsp;&emsp;&emsp;(iii) carry out the activities described in section 405 of the Pandemic and All-Hazards Preparedness Act.
+&emsp;&emsp;&emsp;(iii) carry out the activities described in section 247d–7f of this title.
 
 #### (B) Support advanced research and development
 
@@ -152,7 +152,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) research on and development of research tools and other devices and technologies; and
 
-&emsp;&emsp;&emsp;(iii) research to promote strategic initiatives, such as rapid diagnostics, broad spectrum antimicrobials, vaccine-manufacturing technologies, dose-sparing technologies, efficacy-increasing technologies, and platform technologies.
+&emsp;&emsp;&emsp;(iii) research to promote strategic initiatives, such as rapid diagnostics, broad spectrum antimicrobials, vaccine-manufacturing technologies, dose-sparing technologies, efficacy-increasing technologies, platform technologies, technologies to administer countermeasures, and technologies to improve storage and transportation of countermeasures.
 
 #### (E) Medical countermeasures innovation partner
 
@@ -236,7 +236,17 @@ In this section:
 
 #### (ix) Sunset
 
-&emsp;&emsp;&emsp;This subparagraph shall have no force or effect after September 30, 2022.
+&emsp;&emsp;&emsp;This subparagraph shall have no force or effect after September 30, 2023.
+
+#### (F) Strategic initiatives
+
+&emsp;&emsp;The Secretary, acting through the Director of BARDA, may implement strategic initiatives, including by building on existing programs and by awarding contracts, grants, and cooperative agreements, or entering into other transactions, to support innovative candidate products in preclinical and clinical development that address priority, naturally occurring and man-made threats that, as determined by the Secretary, pose a significant level of risk to national security based on the characteristics of a chemical, biological, radiological or nuclear threat, or existing capabilities to respond to such a threat (including medical response and treatment capabilities and manufacturing infrastructure). Such initiatives shall accelerate and support the advanced research, development, and procurement of countermeasures and products, as applicable, to address areas including—
+
+&emsp;&emsp;&emsp;(i) chemical, biological, radiological, or nuclear threats, including emerging infectious diseases, for which insufficient approved, licensed, or authorized countermeasures exist, or for which such threat, or the result of an exposure to such threat, may become resistant to countermeasures or existing countermeasures may be rendered ineffective;
+
+&emsp;&emsp;&emsp;(ii) threats that consistently exist or continually circulate and have a significant potential to become a pandemic, such as pandemic influenza, which may include the advanced research and development, manufacturing, and appropriate stockpiling of qualified pandemic or epidemic products, and products, technologies, or processes to support the advanced research and development of such countermeasures (including multiuse platform technologies for diagnostics, vaccines, and therapeutics; virus seeds; clinical trial lots; novel virus strains; and antigen and adjuvant material); and
+
+&emsp;&emsp;&emsp;(iii) threats that may result primarily or secondarily from a chemical, biological, radiological, or nuclear agent, or emerging infectious diseases, and which may present increased treatment complications such as the occurrence of resistance to available countermeasures or potential countermeasures, including antimicrobial resistant pathogens.
 
 #### (5) Transaction authorities
 
@@ -244,17 +254,17 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall have the authority to enter into other transactions under this subsection in the same manner as the Secretary of Defense enters into such transactions under section 2371 of title 10.
+&emsp;&emsp;&emsp;The Secretary shall have the authority to enter into other transactions (as defined in subsection (a)(3)) under this subsection.
 
 #### (ii) Limitations on authority
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Subsections (b), (c), and (h) of section 845 <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 1994 (10 U.S.C. 2371 note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845.
+&emsp;&emsp;&emsp;&emsp;To the maximum extent practicable, competitive procedures shall be used when entering into transactions to carry out projects under this subsection.
 
 #### (II) Written determinations required
 
-&emsp;&emsp;&emsp;&emsp;The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $20,000,000 only upon a written determination by the senior procurement executive for the Department (as designated for purpose of section 1702(c) of title 41), that the use of such authority is essential to promoting the success of the project. The authority of the senior procurement executive under this subclause may not be delegated.
+&emsp;&emsp;&emsp;&emsp;The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $100,000,000 only upon a written determination by the Assistant Secretary for Financial Resources, that the use of such authority is essential to promoting the success of the project. The authority of the Assistant Secretary for Financial Resources under this subclause may not be delegated.
 
 #### (iii) Guidelines
 
@@ -276,7 +286,7 @@ In this section:
 
 #### (iv) Availability of data
 
-&emsp;&emsp;&emsp;The Secretary shall require that, as a condition of being awarded a contract,grant, cooperative agreement, or other transaction under subparagraph (B) or (D) of paragraph (4), a person make available to the Secretary on an ongoing basis, and submit upon request to the Secretary, all data related to or resulting from countermeasure and product advanced research and development carried out pursuant to this section.
+&emsp;&emsp;&emsp;The Secretary shall require that, as a condition of being awarded a contract, grant, cooperative agreement, or other transaction under subparagraph (B) or (D)of paragraph (4), a person make available to the Secretary on an ongoing basis, and submit upon request to the Secretary, all data related to or resulting from countermeasure and product advanced research and development carried out pursuant to this section.
 
 #### (C) Advance payments; advertising
 
@@ -300,7 +310,7 @@ In this section:
 
 #### (6) At-risk individuals
 
-&emsp;In carrying out the functions under this section, the Secretary may give priority to the advanced research and development of qualified countermeasures and qualified pandemic or epidemic products that are likely to be safe and effective with respect to children, pregnant women, elderly, and other at-risk individuals.
+&emsp;In carrying out the functions under this section, the Secretary may give priority to the advanced research and development of qualified countermeasures and qualified pandemic or epidemic products that are likely to be safe and effective with respect to children, pregnant women, older adults, and other at-risk individuals with relevant characteristics that warrant consideration during the process of researching and developing such countermeasures and products.
 
 #### (7) Personnel authorities
 
@@ -344,27 +354,43 @@ In this section:
 
 #### (2) Funding
 
-&emsp;To carry out the purposes of this section, there is authorized to be appropriated to the Fund $415,000,000 for each of fiscal years 2014 through 2018, such amounts to remain available until expended.
+&emsp;To carry out the purposes of this section, there is authorized to be appropriated to the Fund $611,700,000 for each of fiscal years 2019 through 2023, such amounts to remain available until expended.
 
 #### (e) Inapplicability of certain provisions
 
 #### (1) Disclosure
 
-#### (A) In general
+#### (A) Nondisclosure of information
 
-&emsp;&emsp;The Secretary shall withhold from disclosure under section 552 of title 5 specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c) that reveals significant and not otherwise publicly known vulnerabilities of existing medical or public health defenses against biological, chemical, nuclear, or radiological threats. Such information shall be deemed to be information described in section 552(b)(3) of title 5.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Information described in clause (ii) shall be deemed to be information described in section 552(b)(3) of title 5.
+
+#### (ii) Information described
+
+&emsp;&emsp;&emsp;The information described in this clause is information relevant to programs of the Department of Health and Human Services that could compromise national security and reveal significant and not otherwise publicly known vulnerabilities of existing medical or public health defenses against chemical, biological, radiological, or nuclear threats, and is comprised of—
+
+&emsp;&emsp;&emsp;&emsp;(I) specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c);
+
+&emsp;&emsp;&emsp;&emsp;(II) information pertaining to the location security, personnel, and research materials and methods of high-containment laboratories conducting research with select agents, toxins, or other agents with a material threat determination under section 247d–6b(c)(2) of this title; or
+
+&emsp;&emsp;&emsp;&emsp;(III) security and vulnerability assessments.
 
 #### (B) Review
 
 &emsp;&emsp;Information subject to nondisclosure under subparagraph (A) shall be reviewed by the Secretary every 5 years, or more frequently as determined necessary by the Secretary, to determine the relevance or necessity of continued nondisclosure.
 
-#### (C) Sunset
+#### (C) Reporting
 
-&emsp;&emsp;This paragraph shall cease to have force or effect on the date that is 12 years after December 19, 2006.
+&emsp;&emsp;One year after June 24, 2019, and annually thereafter, the Secretary shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives on the number of instances in which the Secretary has used the authority under this subsection to withhold information from disclosure, as well as the nature of any request under section 552 of title 5 that was denied using such authority.
+
+#### (D) Sunset
+
+&emsp;&emsp;This paragraph shall cease to have force or effect on the date that is 17 years after December 19, 2006.
 
 #### (2) Review
 
-&emsp;Notwithstanding section 14 of the Federal Advisory Committee Act, a working group of BARDA under this section and the National Biodefense Science Board under section 247d–7f of this title shall each terminate on the date that is 5 years after the date on which each such group or Board, as applicable, was established. Such 5-year period may be extended by the Secretary for one or more additional 5-year periods if the Secretary determines that any such extension is appropriate.
+&emsp;Notwithstanding section 14 of the Federal Advisory Committee Act, a working group of BARDA under this section and the National Biodefense Science Board under section 247d–7g of this title shall each terminate on the date that is 5 years after the date on which each such group or Board, as applicable, was established. Such 5-year period may be extended by the Secretary for one or more additional 5-year periods if the Secretary determines that any such extension is appropriate.
 
 #### (f) Independent evaluation
 
@@ -386,15 +412,11 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) meet the surge manufacturing capacity needs presented by novel and emerging threats, including chemical, biological, radiological, and nuclear agents.
 
-(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141.)
+(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961.)
 
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(6)(A)(ii), (B)(i) and (c)(2)(C), (4)(B)(iii), (C)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
-
-Section 405 of the Pandemic and All-Hazards Preparedness Act, referred to in subsec. (c)(4)(A)(iii), is section 405 of Pub. L. 109–417, which is set out as a note under section 247d–6a of this title.
-
-Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsec. (c)(5)(A)(ii)(I), is section 845 of Pub. L. 103–160, which was formerly set out as a note under section 2371 of Title 10, Armed Forces, prior to repeal by Pub. L. 114–92, div. A, title VIII, §815(c), Nov. 25, 2015, 129 Stat. 896. See section 2371b of Title 10.
 
 The Federal Tort Claims Act, referred to in subsec. (c)(5)(B)(ii), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
@@ -402,15 +424,39 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e)(2),
 
 #### Codification
 
-In subsec. (c)(5)(A)(ii)(II), "section 1702(c) of title 41" substituted for "section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
 In subsec. (c)(5)(C), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (c)(5)(F), "section 3304(a)(3) of title 41" substituted for "section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(3))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-Subsec. (c)(3). Pub. L. 114–255, §3082(b), inserted ", including the execution of procurement contracts, grants, and cooperative agreements pursuant to this section" before period at end.
+<b>2019</b>—Subsec. (a)(3). Pub. L. 116–22, §602(1), struck out ", such as the Secretary of Defense may enter into under section 2371 of title 10" before period at end.
+
+Subsec. (c)(4)(A)(iii). Pub. L. 116–22, §701(e)(2)(B), substituted "section 247d–7f of this title" for "section 405 of the Pandemic and All-Hazards Preparedness Act".
+
+Subsec. (c)(4)(D)(iii). Pub. L. 116–22, §601, substituted "platform technologies, technologies to administer countermeasures, and technologies to improve storage and transportation of countermeasures" for "and platform technologies".
+
+Subsec. (c)(4)(E)(ix). Pub. L. 116–22, §701(d), substituted "2023" for "2022".
+
+Subsec. (c)(4)(F). Pub. L. 116–22, §404(a), added subpar. (F).
+
+Subsec. (c)(5)(A)(i). Pub. L. 116–22, §602(2)(A), substituted "(as defined in subsection (a)(3)) under this subsection" for "under this subsection in the same manner as the Secretary of Defense enters into such transactions under section 2371 of title 10".
+
+Subsec. (c)(5)(A)(ii)(I). Pub. L. 116–22, §602(2)(B)(i), amended subcl. (I) generally. Prior to amendment, text read as follows: "Subsections (b), (c), and (h) of section 845 of the National Defense Authorization Act for Fiscal Year 1994 (10 U.S.C. 2371 note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845."
+
+Subsec. (c)(5)(A)(ii)(II). Pub. L. 116–22, §602(2)(B)(ii), substituted "$100,000,000" for "$20,000,000", "Assistant Secretary for Financial Resources" for "senior procurement executive for the Department (as designated for purpose of section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c)))", and "Assistant Secretary for Financial Resources under" for "senior procurement executive under".
+
+Subsec. (c)(6). Pub. L. 116–22, §303(b), substituted "older adults" for "elderly" and inserted "with relevant characteristics that warrant consideration during the process of researching and developing such countermeasures and products" before period at end.
+
+Subsec. (d)(2). Pub. L. 116–22, §504(b), substituted "$611,700,000 for each of fiscal years 2019 through 2023" for "$415,000,000 for each of fiscal years 2014 through 2018".
+
+Subsec. (e)(1)(A). Pub. L. 116–22, §701(f)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "The Secretary shall withhold from disclosure under section 552 of title 5 specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c) that reveals significant and not otherwise publicly known vulnerabilities of existing medical or public health defenses against biological, chemical, nuclear, or radiological threats. Such information shall be deemed to be information described in section 552(b)(3) of title 5."
+
+Subsec. (e)(1)(C). Pub. L. 116–22, §701(f)(3), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Subsec. (e)(1)(D). Pub. L. 116–22, §701(f)(2), (4), redesignated subpar. (C) as (D) and substituted "17" for "12".
+
+<b>2016</b>—Subsec. (c)(3). Pub. L. 114–255, §3082(b), inserted ", including the execution of procurement contracts, grants, and cooperative agreements pursuant to this section" before period at end.
 
 Subsec. (c)(4)(E). Pub. L. 114–255, §3084, added subpar. (E).
 
@@ -430,5 +476,139 @@ Subsec. (e)(1)(C). Pub. L. 113–5, §402(d), substituted "12 years" for "7 year
 
 Subsec. (f). Pub. L. 113–5, §402(f), added subsec. (f).
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Ex. Ord. No. 13887. Modernizing Influenza Vaccines in the United States to Promote National Security and Public Health
+
+Ex. Ord. No. 13887, Sept. 19, 2019, 84 F.R. 49935, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Findings</i>. (a) Influenza viruses are constantly changing as they circulate globally in humans and animals. Relatively minor changes in these viruses cause annual seasonal influenza outbreaks, which result in millions of illnesses, hundreds of thousands of hospitalizations, and tens of thousands of deaths each year in the United States. Periodically, new influenza A viruses emerge from animals, including birds and pigs, that can spread efficiently and have sustained transmission among humans. This situation is called an influenza pandemic (pandemic). Unlike seasonal influenza, a pandemic has the potential to spread rapidly around the globe, infect higher numbers of people, and cause high rates of illness and death in populations that lack prior immunity. While it is not possible to predict when or how frequently a pandemic may occur, there have been 4 pandemics in the last 100 years. The most devastating pandemic occurred in 1918–1919 and is estimated to have killed more than 50 million people worldwide, including 675,000 Americans.
+
+(b) Vaccination is the most effective defense against influenza. Despite recommendations by the Centers for Disease Control and Prevention (CDC) that nearly every American should receive the influenza vaccine annually, however, seasonal influenza vaccination levels in the United States have currently reached only about 45 percent of CDC goals.
+
+(c) All influenza vaccines presently in use have been developed for circulating or anticipated influenza viruses. These vaccines must be reformulated for each influenza season as well as in the event of a pandemic. Additional research is needed to develop influenza vaccines that provide more effective and longer-lasting protection against many or all influenza viruses.
+
+(d) The current domestic enterprise for manufacturing influenza vaccines has critical shortcomings. Most influenza vaccines are made in chicken eggs, using a 70-year-old process that requires months-long production timelines, limiting their utility for pandemic control; rely on a potentially vulnerable supply chain of eggs; require the use of vaccine viruses adapted for growth in eggs, which could introduce mutations of the influenza vaccine virus that may render the final product less effective; and are unsuitable for efficient and scalable continuous manufacturing platforms.
+
+(e) The seasonal influenza vaccine market rewards manufacturers that deliver vaccines in time for the influenza season, without consideration of the speed or scale of these manufacturers' production processes. This approach is insufficient to meet the response needs in the event of a pandemic, which can emerge rapidly and with little warning. Because the market does not sufficiently reward speed, and because a pandemic has the potential to overwhelm or compromise essential government functions, including defense and homeland security, the Government must take action to promote faster and more scalable manufacturing platforms.
+
+Sec. 2. <i>Policy</i>. It is the policy of the United States to modernize the domestic influenza vaccine enterprise to be highly responsive, flexible, scalable, and more effective at preventing the spread of influenza viruses. This is a public health and national security priority, as influenza has the potential to significantly harm the United States and our interests, including through large-scale illness and death, disruption to military operations, and damage to the economy. This order directs actions to reduce the United States' reliance on egg-based influenza vaccine production; to expand domestic capacity of alternative methods that allow more agile and rapid responses to emerging influenza viruses; to advance the development of new, broadly protective vaccine candidates that provide more effective and longer lasting immunities; and to support the promotion of increased influenza vaccine immunization across recommended populations.
+
+Sec. 3. <i>National Influenza Vaccine Task Force</i>. (a) There is hereby established a National Influenza Vaccine Task Force (Task Force). The Task Force shall identify actions to achieve the objectives identified in section 2 of this order and monitor and report on the implementation and results of those actions. The Task Force shall be co-chaired by the Secretary of Defense and the Secretary of Health and Human Services, or their designees.
+
+(b) In addition to the Co-Chairs, the Task Force shall consist of a senior official from the following executive branch departments, agencies, and offices:
+
+(i) the Department of Defense (DOD);
+
+(ii) the Department of Justice;
+
+(iii) the Department of Agriculture;
+
+(iv) the Department of Veterans Affairs (VA);
+
+(v) the Department of Homeland Security;
+
+(vi) the United States Food and Drug Administration;
+
+(vii) the Centers for Disease Control and Prevention;
+
+(viii) the National Institutes of Health (NIH);
+
+(ix) the Centers for Medicare and Medicaid Services (CMS); and
+
+(x) the Biomedical Advanced Research and Development Authority (BARDA).
+
+(c) The Co-Chairs may jointly invite additional Federal Government representatives, with the consent of the applicable executive department, agency, or office head, to attend meetings of the Task Force or to become members of the Task Force, as appropriate.
+
+(d) The staffs of the Department of State, the Office of Management and Budget (OMB), the National Security Council, the Council of Economic Advisers, the Domestic Policy Council, the National Economic Council, and the Office of Science and Technology Policy (OSTP) may attend and participate in any Task Force meetings or discussions.
+
+(e) The Task Force may consult with State, local, tribal, and territorial government officials and private sector representatives, as appropriate and consistent with applicable law.
+
+(f) Within 120 days of the date of this order \[Sept. 19, 2019\], the Task Force shall submit a report to the President, through the Assistant to the President for National Security Affairs, the Assistant to the President for Domestic Policy, the Director of the Office of Management and Budget, and the Director of the Office of Science and Technology Policy. The report shall include:
+
+(i) a 5-year national plan (Plan) to promote the use of more agile and scalable vaccine manufacturing technologies and to accelerate development of vaccines that protect against many or all influenza viruses;
+
+(ii) recommendations for encouraging non-profit, academic, and private-sector influenza vaccine innovation; and
+
+(iii) recommendations for increasing influenza vaccination among the populations recommended by the CDC and for improving public understanding of influenza risk and informed influenza vaccine decision-making.
+
+(g) Not later than June 1 of each of the 5 years following submission of the report described in subsection (f) of this section, the Task Force shall submit an update on implementation of the Plan and, as appropriate, new recommendations for achieving the policy objectives set forth in section 2 of this order.
+
+Sec. 4. <i>Agency Implementation</i>. The heads of executive departments and agencies shall also implement the policy objectives defined in section 2 of this order, consistent with existing authorities and appropriations, as follows:
+
+(a) The Secretary of HHS shall:
+
+(i) through the Assistant Secretary for Preparedness and Response and BARDA:
+
+&emsp;(A) estimate the cost of expanding and diversifying domestic vaccine-manufacturing capacity to use innovative, faster, and more scalable technologies, including cell-based and recombinant vaccine manufacturing, through cost-sharing agreements with the private sector, which shall include an agreed-upon pricing strategy during a pandemic;
+
+&emsp;(B) estimate the cost of expanding domestic production capacity of adjuvants in order to combine such adjuvants with both seasonal and pandemic influenza vaccines;
+
+&emsp;(C) estimate the cost of expanding domestic fill-and-finish capacity to rapidly fulfill antigen and adjuvant needs for pandemic response;
+
+&emsp;(D) estimate the cost of developing, evaluating, and implementing delivery systems to augment limited supplies of needles and syringes and to enable the rapid and large-scale administration of pandemic influenza vaccines;
+
+&emsp;(E) evaluate incentives for the development and production of vaccines by private manufacturers and public-private partnerships, including, in emergency situations, the transfer of technology to public-private partnerships—such as the HHS Centers for Innovation and Advanced Development and Manufacturing or other domestic manufacturing facilities—in advance of a pandemic, in order to be able to ensure adequate domestic pandemic manufacturing capacity and capability;
+
+&emsp;(F) support, in coordination with the DOD, NIH, and VA, a suite of clinical studies featuring different adjuvants to support development of improved vaccines and further expand vaccine supply by reducing the dose of antigen required; and
+
+&emsp;(G) update, in coordination with other relevant public health agencies, the research agenda to dramatically improve the effectiveness, efficiency, and reliability of influenza vaccine production;
+
+(ii) through the Director of NIH, provide to the Task Force estimated timelines for implementing NIH's strategic plan and research agenda for developing influenza vaccines that can protect individuals over many years against multiple types of influenza viruses;
+
+(iii) through the Commissioner of Food and Drugs:
+
+&emsp;(A) further implement vaccine production process improvements to reduce the time required for vaccine production (e.g., through the use of novel technologies for vaccine seed virus development and through implementation of improved potency and sterility assays);
+
+&emsp;(B) develop, in conjunction with the CDC, proposed alternatives for the timing of vaccine virus selection to account for potentially shorter timeframes associated with non-egg based manufacturing and to facilitate vaccines optimally matched to the circulating strains;
+
+&emsp;(C) further support the conduct, in collaboration with the DOD, BARDA, and CDC, of applied scientific research regarding developing cell lines and expression systems that markedly increase the yield of cell-based and recombinant influenza vaccine manufacturing processes; and
+
+&emsp;(D) assess, in coordination with BARDA and relevant vaccine manufacturers, the use and potential effects of using advanced manufacturing platforms for influenza vaccines;
+
+(iv) through the Director of the CDC:
+
+&emsp;(A) expand vaccine effectiveness studies to more rapidly evaluate the effectiveness of cell-based andrecombinant influenza vaccines relative to egg-based vaccines;
+
+&emsp;(B) explore options to expand the production capacity of cell-based vaccine candidates used by industry;
+
+&emsp;(C) develop a plan to expand domestic capacity for whole genome characterization of influenza viruses;
+
+&emsp;(D) increase influenza vaccine use through enhanced communication and by removing barriers to vaccination; and
+
+&emsp;(E) enhance communication to healthcare providers about the performance of influenza vaccines, in order to assist them in promoting the most effective vaccines for their patient populations; and
+
+(v) through the Administrator of CMS, examine the current legal, regulatory, and policy framework surrounding payment for influenza vaccines and assess adoption of domestically manufactured vaccines that have positive attributes for pandemic response (such as scalability and speed of manufacturing).
+
+(b) The Secretary of Defense shall:
+
+(i) provide OMB with a cost estimate for transitioning DOD's annual procurement of influenza vaccines to vaccines manufactured both domestically and through faster, more scalable, and innovative technologies;
+
+(ii) direct, in coordination with the VA, CDC, and other components of HHS, the conduct of epidemiological studies of vaccine effectiveness to improve knowledge of the clinical effect of the currently licensed influenza vaccines;
+
+(iii) use DOD's network of clinical research sites to evaluate the effectiveness of licensed influenza vaccines, including methods of boosting their effectiveness;
+
+(iv) identify opportunities to use DOD's vaccine research and development enterprise, in collaboration with HHS, to include both early discovery and design of influenza vaccines as well as later-stage evaluation of candidate influenza vaccines;
+
+(v) investigate, in collaboration with HHS, alternative correlates of immune protection that could facilitate development of next-generation influenza vaccines;
+
+(vi) direct the conduct of a study to assess the feasibility of using DOD's advanced manufacturing facility for manufacturing cell-based or recombinant influenza vaccines during a pandemic; and
+
+(vii) accelerate, in collaboration with HHS, research regarding rapidly scalable prophylactic influenza antibody approaches to complement a universal vaccine initiative and address gaps in current vaccine coverage.
+
+(c) The Secretary of VA shall provide OMB with a cost estimate for transitioning its annual procurement of influenza vaccines to vaccines manufactured both domestically and with faster, more scalable, and innovative technologies.
+
+Sec. 5. <i>Termination</i>. The Task Force shall terminate upon direction from the President or, with the approval of the President, upon direction from the Task Force Co-Chairs.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

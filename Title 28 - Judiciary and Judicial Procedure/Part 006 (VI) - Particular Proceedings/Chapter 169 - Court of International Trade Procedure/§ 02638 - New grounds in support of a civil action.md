@@ -16,5 +16,5 @@ Section 514 of the Tariff Act of 1930, referred to in par. (2), is classified to
 
 #### Prior Provisions
 
-A prior section 2638, acts June 25, 1948, ch. 646, 62 Stat. 982; June 2, 1970, Pub. L. 91–271, title I, §119, 84Stat. 281, related to decisions, findings of fact and conclusions of law, and effect of opinions, prior to the general revision of this chapter by Pub. L. 96–417. See section 2645 (a) and (c) of this title.
+A prior section 2638, acts June 25, 1948, ch. 646, 62 Stat. 982; June 2, 1970, Pub. L. 91–271, title I, §119, 84 Stat. 281, related to decisions, findings of fact and conclusions of law, and effect of opinions, prior to the general revision of this chapter by Pub. L. 96–417. See section 2645 (a) and (c) of this title.
 

@@ -4,7 +4,7 @@ The Director of the Office of Management and Budget shall direct appropriate rev
 
 &emsp;(1) interagency contracting actions, including data at the task or delivery-order level; and
 
-&emsp;(2) other transactions, including the initial award and any subsequent modifications awarded or orders issued (other than transactions that are reported through the Federal Assistance Awards Data System).
+&emsp;(2) other transactions, including the initial award and any subsequent modificationsawarded or orders issued (other than transactions that are reported through the Federal Assistance Awards Data System).
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3739.)
 

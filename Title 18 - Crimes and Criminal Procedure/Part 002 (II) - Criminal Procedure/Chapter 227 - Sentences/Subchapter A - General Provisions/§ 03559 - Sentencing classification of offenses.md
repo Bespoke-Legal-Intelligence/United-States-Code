@@ -46,7 +46,7 @@ Mandatory life imprisonment.—Notwithstanding any other provision of law, a per
 
 Definitions.—For purposes of this subsection—
 
-&emsp;&emsp;(A) the term "assault with intent to commit rape" means an offense that has as itselements engaging in physical contact with another person or using or brandishing a weapon against another person with intent to commit aggravated sexual abuse or sexual abuse (as described in sections 2241 and 2242);
+&emsp;&emsp;(A) the term "assault with intent to commit rape" means an offense that has as its elements engaging in physical contact with another person or using or brandishing a weapon against another person with intent to commit aggravated sexual abuse or sexual abuse (as described in sections 2241 and 2242);
 
 &emsp;&emsp;(B) the term "arson" means an offense that has as its elements maliciously damaging or destroying any building, inhabited structure, vehicle, vessel, or real property by means of fire or an explosive;
 
@@ -178,7 +178,7 @@ Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children.—A
 
 &emsp;(B) the term "domain name" has the meaning given that term is <sup>1</sup> section 45 of the Act entitled "An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes" approved July 5, 1946 (commonly referred to as the "Trademark Act of 1946") (15 U.S.C. 1127).
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1991; amended Pub. L. 100–185, §5,Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §7041, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title VII, §70001, Sept. 13, 1994, 108 Stat. 1982; Pub. L. 105–314, title V, §501, Oct. 30, 1998, 112 Stat. 2980; Pub. L. 105–386, §1(b), Nov. 13, 1998, 112 Stat. 3470; Pub. L. 108–21, title I, §106(a), Apr. 30, 2003, 117 Stat. 654; Pub. L. 108–482, title II, §204(a), Dec. 23, 2004, 118 Stat. 3917; Pub. L. 109–248, title II, §§202, 206(c), July 27, 2006, 120 Stat. 612, 614.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1991; amended Pub. L. 100–185, §5, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §7041, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title VII, §70001, Sept. 13, 1994, 108 Stat. 1982; Pub. L. 105–314, title V, §501, Oct. 30, 1998, 112 Stat. 2980; Pub. L. 105–386, §1(b), Nov. 13, 1998, 112 Stat. 3470; Pub. L. 108–21, title I, §106(a), Apr. 30, 2003, 117 Stat. 654; Pub. L. 108–482, title II, §204(a), Dec. 23, 2004, 118 Stat. 3917; Pub. L. 109–248, title II, §§202, 206(c), July 27, 2006, 120 Stat. 612, 614.)
 
 #### Amendments
 

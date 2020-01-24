@@ -116,9 +116,13 @@ Subsec. (c). Pub. L. 100–175, §155(f), added subsec. (c).
 
 <b>1984</b>—Pub. L. 98–459 designated existing provisions as subsec. (a), substituted "submit to the President and to the Congress" for "submit to the President for transmittal to the Congress", and added subsec. (b).
 
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 1992 Amendment
 
-Amendment by section 708(a)(2)(A) and (c)(2) of Pub. L. 102–375 inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as a note under section 3001 of this title.
+Amendment by section 708(a)(2)(A) and (c)(2) of Pub. L. 102–375 inapplicable with respect to fiscal year 1993,see section 4(b) of Pub. L. 103–171, set out as a note under section 3001 of this title.
 
 Amendment by section 708(a)(2)(A) and (c)(2) of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as a note under section 3001 of this title.
 

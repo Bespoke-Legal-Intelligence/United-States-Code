@@ -51,6 +51,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER III—EUROPEAN ENERGY SECURITY AND DIVERSIFICATION
+
+|  |  |
+| :--- | ---: |
+| [9561\.](Subchapter%20003%20%28III%29%20-%20European%20Energy%20Security%20and%20Diversification/%C2%A7%2009561%20-%20Definitions.md) | Definitions. |
+| [9562\.](Subchapter%20003%20%28III%29%20-%20European%20Energy%20Security%20and%20Diversification/%C2%A7%2009562%20-%20Statement%20of%20policy.md) | Statement of policy. |
+| [9563\.](Subchapter%20003%20%28III%29%20-%20European%20Energy%20Security%20and%20Diversification/%C2%A7%2009563%20-%20Prioritization%20of%20efforts%20and%20assistance%20for%20energy%20infrastructure%20projects%20in%20Europe%20and%20Eurasia.md) | Prioritization of efforts and assistance for energy infrastructure projects in Europe and Eurasia. |
+| [9564\.](Subchapter%20003%20%28III%29%20-%20European%20Energy%20Security%20and%20Diversification/%C2%A7%2009564%20-%20Progress%20reports.md) | Progress reports. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -58,3 +69,4 @@
 
 - [Subchapter 001 (I) - Sanctions and Other Measures with Respect to the Russian Federation](Subchapter%20001%20%28I%29%20-%20Sanctions%20and%20Other%20Measures%20with%20Respect%20to%20the%20Russian%20Federation/README.md)
 - [Subchapter 002 (II) - Countering Russian Influence in Europe and Eurasia](Subchapter%20002%20%28II%29%20-%20Countering%20Russian%20Influence%20in%20Europe%20and%20Eurasia/README.md)
+- [Subchapter 003 (III) - European Energy Security and Diversification](Subchapter%20003%20%28III%29%20-%20European%20Energy%20Security%20and%20Diversification/README.md)

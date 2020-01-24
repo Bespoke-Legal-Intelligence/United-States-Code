@@ -160,7 +160,7 @@ Pub. L. 115–91, div. A, title XVI, §1656, Dec. 12, 2017, 131 Stat. 1761, prov
 
 "(a)
 
-Certification.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall certify to the congressional defense committees whether the Secretary uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, to carry out—
+Certification.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], theSecretary of Defense shall certify to the congressional defense committees whether the Secretary uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, to carry out—
 
 &emsp;"(1) the nuclear deterrence mission of the Department of Defense, including with respect to nuclear command, control, and communications, integrated tactical warning and attack assessment, and continuity of government; or
 
@@ -232,7 +232,7 @@ Requirements.—Each security classification guide issued pursuant to subsection
 
 "(c)
 
-Annual Notifications.—On an annual basis during the three-year period beginning on the date of theenactment of this Act \[Dec. 12, 2017\], the Deputy Secretary of Defense, without delegation, shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the status of implementing subsection (a), including a description of any challenges to such implementation.
+Annual Notifications.—On an annual basis during the three-year period beginning on the date of the enactment of this Act \[Dec. 12, 2017\], the Deputy Secretary of Defense, without delegation, shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the status of implementing subsection (a), including a description of any challenges to such implementation.
 
 "(d)
 
@@ -286,7 +286,7 @@ Prioritization of Certain Supply Chain Risk Management Efforts.—
 
 &emsp;"(1)
 
-Instructions.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary shall issue a Department of Defense Instruction, or update such an Instruction, establishing the prioritization of supply chain risk management programs, including supply chain risk management threat assessment reporting, to ensure that acquisition and sustainment programs relating to covered programs receive the highest priority of such supply chain risk management programs and reporting.
+Instructions.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\],the Secretary shall issue a Department of Defense Instruction, or update such an Instruction, establishing the prioritization of supply chain risk management programs, including supply chain risk management threat assessment reporting, to ensure that acquisition and sustainment programs relating to covered programs receive the highest priority of such supply chain risk management programs and reporting.
 
 &emsp;"(2)
 

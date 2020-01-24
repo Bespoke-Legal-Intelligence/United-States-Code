@@ -14,7 +14,7 @@ community development fund" of title I of div. B of Pub. L. 110–329, known as 
 
 #### Codification
 
-Section was enacted as part of the Disaster Relief and Recovery Supplemental Appropriations Act, 2008, and also as part of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009, and not as part of the Housing and Community Development Act of 1974 which comprises this chapter.
+Section was enacted as part of the Disaster Relief and Recovery Supplemental Appropriations Act, 2008, and also as part of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009, and not as part of title I of the Housing and Community Development Act of 1974 which comprises this chapter.
 
 #### Similar Provisions
 

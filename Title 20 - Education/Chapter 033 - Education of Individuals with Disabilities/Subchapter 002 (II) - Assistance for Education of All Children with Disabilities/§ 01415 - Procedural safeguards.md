@@ -96,7 +96,7 @@ The procedures required by this section shall include the following:
 
 #### (II) Sufficiency
 
-&emsp;&emsp;&emsp;&emsp;A response filed by a local educational agency pursuant to subclause (I) shall not be construed to preclude such local educational agency from asserting thatthe parent's due process complaint notice was insufficient where appropriate.
+&emsp;&emsp;&emsp;&emsp;A response filed by a local educational agency pursuant to subclause (I) shall not be construed to preclude such local educational agency from asserting that the parent's due process complaint notice was insufficient where appropriate.
 
 #### (ii) Other party response
 
@@ -322,7 +322,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 #### (ii) Procedural issues
 
-&emsp;&emsp;&emsp;In matters alleging a procedural violation, a hearing officer may find that a child did not receive a free appropriate public education only if the procedural inadequacies—
+&emsp;&emsp;&emsp;In matters alleging a procedural violation, a hearing officer may find that achild did not receive a free appropriate public education only if the procedural inadequacies—
 
 &emsp;&emsp;&emsp;&emsp;(I) impeded the child's right to a free appropriate public education;
 
@@ -380,7 +380,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 #### (A) In general
 
-&emsp;&emsp;Any party aggrieved by the findings and decision made under subsection (f) or (k) who does not have the right to an appeal under subsection (g), and any party aggrieved by the findings and decision made under this subsection, shall have the right to bring a civil action with respect to the complaint presented pursuant to this section, which action may be brought in any Statecourt of competent jurisdiction or in a district court of the United States, without regard to the amount in controversy.
+&emsp;&emsp;Any party aggrieved by the findings and decision made under subsection (f) or (k) who does not have the right to an appeal under subsection (g), and any party aggrieved by the findings and decision made under this subsection, shall have the right to bring a civil action with respect to the complaint presented pursuant to this section, which action may be brought in any State court of competent jurisdiction or in a district court of the United States, without regard to the amount in controversy.
 
 #### (B) Limitation
 
@@ -412,7 +412,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 &emsp;&emsp;&emsp;&emsp;(II) to a prevailing party who is a State educational agency or local educational agency against the attorney of a parent who files a complaint or subsequent cause of action that is frivolous, unreasonable, or without foundation, or against the attorney of a parent who continued to litigate after the litigation clearly became frivolous, unreasonable, or without foundation; or
 
-&emsp;&emsp;&emsp;&emsp;(III) to a prevailing State educational agency or local educational agency against the attorney of a parent, or against the parent, if the parent's complaint or subsequent cause of action was presented for any improper purpose, such as to harass, to cause unnecessary delay, or to needlessly increase the cost of litigation.
+&emsp;&emsp;&emsp;&emsp;(III) to a prevailing State educational agency or local educational agencyagainst the attorney of a parent, or against the parent, if the parent's complaint or subsequent cause of action was presented for any improper purpose, such as to harass, to cause unnecessary delay, or to needlessly increase the cost of litigation.
 
 #### (ii) Rule of construction
 
@@ -552,7 +552,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (ii) Change of placement order
 
-&emsp;&emsp;&emsp;In making the determination under clause (i), the hearing officer may order a change in placement of a child with a disability. In such situations, the hearing officer may—
+&emsp;&emsp;&emsp;In making the determination under clause (i), the hearing officer may order achange in placement of a child with a disability. In such situations, the hearing officer may—
 
 &emsp;&emsp;&emsp;&emsp;(I) return a child with a disability to the placement from which the child was removed; or
 
@@ -664,7 +664,7 @@ Section 327 of the District of Columbia Appropriations Act, 2005, referred to in
 
 The Federal Rules of Civil Procedure, referred to in subsec. (i)(3)(D)(i)(I), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Controlled Substances Act, referred to in subsec. (k)(7)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21,Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (k)(7)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (l), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 

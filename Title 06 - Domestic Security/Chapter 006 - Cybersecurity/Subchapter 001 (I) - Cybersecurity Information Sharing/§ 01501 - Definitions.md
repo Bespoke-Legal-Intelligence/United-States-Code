@@ -118,7 +118,7 @@ In this subchapter:
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term "non-Federal entity" includes a government agency or department of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, and any other territory or possession of the United States.
+&emsp;&emsp;The term "non-Federal entity" includes a government agency or department of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the NorthernMariana Islands, and any other territory or possession of the United States.
 
 #### (C) Exclusion
 

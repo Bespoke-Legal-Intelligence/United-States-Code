@@ -28,7 +28,7 @@ For purposes of this chapter, other than subchapter IV, the term "institution of
 
 #### (c) List of accrediting agencies
 
-For purposes of this section and section 1002 of this title, the Secretary shall publish a list of nationally recognized accrediting agencies or associations that the Secretary determines, pursuant to subpart 2 of part H of subchapter IV, to be reliable authority as to the quality of the education or training offered.
+For purposes of this section and section 1002 of this title, the Secretary shall publish a list ofnationally recognized accrediting agencies or associations that the Secretary determines, pursuant to subpart 2 of part H of subchapter IV, to be reliable authority as to the quality of the education or training offered.
 
 (Pub. L. 89–329, title I, §101, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1585; amended Pub. L. 110–315, title I, §101(a), Aug. 14, 2008, 122 Stat. 3083; Pub. L. 112–74, div. F, title III, §309(c)(3), Dec. 23, 2011, 125 Stat. 1101.)
 
@@ -110,6 +110,10 @@ Pub. L. 94–482, title V, §532, Oct. 12, 1976, 90 Stat. 2241, provided that: "
 
 &emsp;"(2) that each amendment made by this Act (not subject to clause (1) of this section) providing for authorization of appropriations shall take effect July 1, 1976."
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–91, §1, Dec. 19, 2019, 133 Stat. 1189, provided that: "This Act \[enacting section 1098h of this title, amending sections 1067q, 1070a, 1087, 1087e, 1091, and 1098e of this title and section 6103 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 6103 of Title 26\] may be cited as the 'Fostering Undergraduate Talent by Unlocking Resources for Education Act' or the 'FUTURE Act'."
+
 #### Short Title of 2015 Amendment
 
 Pub. L. 114–105, §1, Dec. 18, 2015, 129 Stat. 2219, provided that: "This Act \[amending sections 1087aa, 1087cc–1, and 1087ff of this title and enacting provisions set out as notes under sections 1087aa and 1226a of this title\] may be cited as the 'Federal Perkins Loan Program Extension Act of 2015'."
@@ -164,7 +168,7 @@ Pub. L. 108–409, §1, Oct. 30, 2004, 118 Stat. 2299, provided that: "This Act 
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–420, §1, Nov. 1, 2000, 114 Stat. 1867, provided that: "This Act \[enacting section 1092d of this title, amending section 522 of Title 11, Bankruptcy, and enacting provisions set out as notes under section 1092d of this title and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'College Scholarship Fraud Prevention Act of 2000'."
+Pub. L. 106–420, §1, Nov. 1, 2000, 114 Stat. 1867, provided that: "This Act \[enacting section 1092d of thistitle, amending section 522 of Title 11, Bankruptcy, and enacting provisions set out as notes under section 1092d of this title and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'College Scholarship Fraud Prevention Act of 2000'."
 
 Pub. L. 106–386, div. B, title VI, §1601(a), Oct. 28, 2000, 114 Stat. 1537, provided that: "This section \[amending sections 1092 and 1232g of this title and section 14071 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 1092 of this title and section 14071 of Title 42\] may be cited as the 'Campus Sex Crimes Prevention Act'."
 
@@ -240,7 +244,7 @@ Pub. L. 97–35, title V, subtitle B, §531, Aug. 13, 1981, 95 Stat. 450, provid
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–374, §1, Oct. 3, 1980, 94 Stat. 1367, provided: "That this Act \[enacting sections 239a, 1001 to 1005, 1011 to 1015, 1016 to 1019, 1021, 1022, 1029, 1031 to 1034, 1041, 1042, 1047 to 1047j, 1051, 1057 to 1069c, 1070d–1a to 1070d–2, 1077a, 1078–2, 1083a, 1087–1a, 1087cc–1, 1087hh, 1087ii, 1088 to 1098, 1119b to 1119b–5, 1119c to 1119c–2, 1121 to 1127, 1130 to 1132, 1132a to 1132a–1, 1132b to 1132c, 1132d to 1132d–4, 1132e, 1132e–1, 1134d to 1134p, 1135 to 1135a–3, 1136 to 1136d, 1143, 1144a, 1145, 1146, 1221e–1b, 1221e–4, and 3063 to 3065 of this title, section 640c–2 of Title 25, Indians, and sections 2753 and 2756b of Title 42, The Public Health and Welfare, amending sections 1070 to 1070c–3, 1070d, 1070d–1, 1070e to 1077, 1078, 1078–1, 1079, 1080 to 1083, 1085 to 1087–1, 1087–2, 1087aa to 1087cc, 1087dd to1087gg, 1101 to 1104, 1119 to 1119a–1, 1133 to 1134c, 1135c–1, 1141, 1142, 1221e, 1226a, 1226c, and 1232 of this title, section 326a of Title 7, Agriculture, section 640c–1 of Title 25, sections 714 and 792 of Title 29, Labor, and sections 2751, 2752, and 2756 of Title 42, repealing sections 511 to 513, 1070c–4, 1070d–3, 1087–4, 1134q to 1134s, 1142a, 1142b, 1145, 1145a, 1145c, 1172 to 1174, 1176, 1177, and 1221d of this title and section 2754 of Title 42, enacting provisions set out as notes under sections 236, 1001, 1119b, and 1221–1 of this title and section 301 of Title 7, and amending provisions set out as notes under section 236 of this title and section 301 of Title 7\] may be cited as the 'Education Amendments of 1980'."
+Pub. L. 96–374, §1, Oct. 3, 1980, 94 Stat. 1367, provided: "That this Act \[enacting sections 239a, 1001 to 1005, 1011 to 1015, 1016 to 1019, 1021, 1022, 1029, 1031 to 1034, 1041, 1042, 1047 to 1047j, 1051, 1057 to 1069c, 1070d–1a to 1070d–2, 1077a, 1078–2, 1083a, 1087–1a, 1087cc–1, 1087hh, 1087ii, 1088 to 1098, 1119b to 1119b–5, 1119c to 1119c–2, 1121 to 1127, 1130 to 1132, 1132a to 1132a–1, 1132b to 1132c, 1132d to 1132d–4, 1132e, 1132e–1, 1134d to 1134p, 1135 to 1135a–3, 1136 to 1136d, 1143, 1144a, 1145, 1146, 1221e–1b, 1221e–4, and 3063 to 3065 of this title, section 640c–2 of Title 25, Indians, and sections 2753 and 2756b of Title 42, The Public Health and Welfare, amending sections 1070 to 1070c–3, 1070d, 1070d–1, 1070e to 1077, 1078, 1078–1, 1079, 1080 to 1083, 1085 to 1087–1, 1087–2, 1087aa to 1087cc, 1087dd to 1087gg, 1101 to 1104, 1119 to 1119a–1, 1133 to 1134c, 1135c–1, 1141, 1142, 1221e, 1226a, 1226c, and 1232 of this title, section 326a of Title 7, Agriculture, section 640c–1 of Title 25, sections 714 and 792 of Title 29, Labor, and sections 2751, 2752, and 2756 of Title 42, repealing sections 511 to 513, 1070c–4, 1070d–3, 1087–4, 1134q to 1134s, 1142a, 1142b, 1145, 1145a, 1145c, 1172 to 1174, 1176, 1177, and 1221d of this title and section 2754 of Title 42, enacting provisions set out as notes under sections 236, 1001, 1119b, and 1221–1 of this title and section 301 of Title 7, and amending provisions set out as notes under section 236 of this title and section 301 of Title 7\] may be cited as the 'Education Amendments of 1980'."
 
 #### Short Title of 1979 Amendment
 
@@ -264,7 +268,7 @@ Pub. L. 92–318, §1, June 23, 1972, 86 Stat. 235, provided: "That this Act \[e
 
 #### Short Title of 1968 Amendment
 
-Pub. L. 90–575, §1, Oct. 16, 1968, 82 Stat. 1014, provided: "That this Act \[enacting sections 451 to 455, 746, 1056, 1060, 1087, 1087a to 1087c, 1088 to 1088c, 1089, 1119a–1, 1129a, 1133 to 1133b, 1134 to 1134l, 1135, 1135a, 1135b, 1135c, 1136 to 1136b, 1145, 1146 to 1150 of this title, amending this section and sections 403, 421 to 425, 425 note, 426, 441 to 445, 462 to 464, 481 to 484, 511, 513, 562, 581, 584, 588, 591, 711, 713 to 718, 731, 732, 743, 751, 758, 961, 1005, 1006, 1021 to 1024, 1031, 1033, 1041, 1051, 1061, 1062, 1065 to 1068, 1071 to 1075, 1077, 1078, 1080, 1083 to 1086, 1091c, 1101, 1104, 1108 to 1111, 1113, 1114, 1115, 1118, 1119a, 1119b–2, 1121, 1124, 1125, 1141, 1142, 1143, 1144 and 1176 of this title, section 1464 of Title 12, Banks and Banking, and sections 2741, 2751 to 2756, and 2809 of Title 42, The Public Health and Welfare, repealing sections 733, 981 to 996 of this title, and section 2757 of Title 42, and enacting provisions set out as notes under this section and sections 423 to 425, 445, 462 to 464, 588, 713, 716 to 718, 743, 751, 981, 1006, 1022, 1024, 1051, 1056, 1060, 1067, 1071, 1077, 1078, 1083, 1088b, and 1109 of this title, and sections 2751, 2753, 2754, and 2809 of Title 42\] may be cited as the 'Higher Education Amendments of 1968'."
+Pub. L. 90–575, §1, Oct. 16, 1968, 82 Stat. 1014, provided: "That this Act \[enacting sections 451 to 455, 746, 1056, 1060, 1087, 1087a to 1087c, 1088 to 1088c, 1089, 1119a–1, 1129a, 1133 to 1133b, 1134 to 1134l, 1135, 1135a, 1135b, 1135c, 1136 to 1136b, 1145, 1146 to 1150 of this title, amending this section and sections 403, 421 to 425, 425 note, 426, 441 to 445, 462 to 464, 481 to 484, 511, 513, 562, 581, 584, 588, 591, 711, 713 to 718, 731, 732, 743, 751, 758, 961, 1005, 1006, 1021 to 1024, 1031, 1033, 1041, 1051, 1061, 1062, 1065 to 1068, 1071 to 1075, 1077, 1078, 1080, 1083 to 1086, 1091c, 1101, 1104, 1108to 1111, 1113, 1114, 1115, 1118, 1119a, 1119b–2, 1121, 1124, 1125, 1141, 1142, 1143, 1144 and 1176 of this title, section 1464 of Title 12, Banks and Banking, and sections 2741, 2751 to 2756, and 2809 of Title 42, The Public Health and Welfare, repealing sections 733, 981 to 996 of this title, and section 2757 of Title 42, and enacting provisions set out as notes under this section and sections 423 to 425, 445, 462 to 464, 588, 713, 716 to 718, 743, 751, 981, 1006, 1022, 1024, 1051, 1056, 1060, 1067, 1071, 1077, 1078, 1083, 1088b, and 1109 of this title, and sections 2751, 2753, 2754, and 2809 of Title 42\] may be cited as the 'Higher Education Amendments of 1968'."
 
 #### Short Title of 1966 Amendment
 
@@ -290,7 +294,7 @@ Pub. L. 109–81, Sept. 30, 2005, 119 Stat. 2048, as amended by Pub. L. 109–15
 
 "(a)
 
-Extension of Duration.—The authorization of appropriations for, and the duration of, each programauthorized under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) shall be extended through August 15, 2008.
+Extension of Duration.—The authorization of appropriations for, and the duration of, each program authorized under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) shall be extended through August 15, 2008.
 
 "(b)
 
@@ -322,7 +326,7 @@ Exception.—The programs described in subsection (a) for which the authorizatio
 
 \[Pub. L. 110–300, §1(b), July 31, 2008, 122 Stat. 2998, provided that: "Nothing in this section \[enacting provisions set out above and amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\], by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\], or by the Ensuring Continued Access to Student Loans Act of 2008 (Public Law 110–227) \[see Short Title of 2008 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
-\[Pub. L. 110–256, §1(b), June 30, 2008, 122 Stat. 2425, provided that: "Nothing in this section \[amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\], by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\], or by the Ensuring Continued Access to Student Loans Act of 2008 (Public Law 110–227) \[see Short Title of 2008 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
+\[Pub. L. 110–256, §1(b), June 30, 2008, 122 Stat. 2425, provided that: "Nothing in this section \[amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\], by the College Cost Reduction and Access Act (Public Law 110–84) \[see ShortTitle of 2007 Amendment note above\], or by the Ensuring Continued Access to Student Loans Act of 2008 (Public Law 110–227) \[see Short Title of 2008 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
 \[Pub. L. 110–238, §1(b), May 30, 2008, 122 Stat. 1558, provided that: "Nothing in this section \[amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\], by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\], or by the Ensuring Continued Access to Student Loans Act of 2008 (Public Law 110–227) \[see Short Title of 2008 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
@@ -330,7 +334,7 @@ Exception.—The programs described in subsection (a) for which the authorizatio
 
 \[Pub. L. 110–198, §3, Mar. 24, 2008, 122 Stat. 656, provided that: "Nothing in this Act \[see Short Title of 2008 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] or by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
-\[Pub. L. 110–109, §3, Oct. 31, 2007, 121 Stat. 1028, provided that: "Nothing in this Act \[see Short Title of 2007 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit orotherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] or by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
+\[Pub. L. 110–109, §3, Oct. 31, 2007, 121 Stat. 1028, provided that: "Nothing in this Act \[see Short Title of 2007 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] or by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
 \[Pub. L. 110–51, §3, July 31, 2007, 121 Stat. 263, provided that: "Nothing in this Act \[see Short Title of 2007 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
@@ -378,9 +382,95 @@ Pub. L. 92–318, §2, June 23, 1972, 86 Stat. 236, provided that:
 
 #### Rulemaking Requirements; Publication in Federal Register
 
-Pub. L. 90–575, title V, §505, Oct. 16, 1968, 82 Stat. 1063, provided for publication of rules and regulations inFederal Register, prior to repeal by Pub. L. 91–230, title IV, §401(e)(2), Apr. 13, 1970, 84 Stat. 173.
+Pub. L. 90–575, title V, §505, Oct. 16, 1968, 82 Stat. 1063, provided for publication of rules and regulations in Federal Register, prior to repeal by Pub. L. 91–230, title IV, §401(e)(2), Apr. 13, 1970, 84 Stat. 173.
 
 #### Presidential Recommendations by December 31, 1969, With Respect to Post-Secondary Education for All
 
 Pub. L. 90–575, title V, §508, Oct. 16, 1968, 82 Stat. 1063, authorized the President, on or before Dec. 31, 1969, to submit to the Congress proposals relative to the feasibility of making available a post-secondary education to all young Americans who qualify and seek it.
+
+#### Ex. Ord. No. 13864. Improving Free Inquiry, Transparency, and Accountability at Colleges and Universities
+
+Ex. Ord. No. 13864, Mar. 21, 2019, 84 F.R. 11401, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. The purpose of this order is to enhance the quality of postsecondary education by making it more affordable, more transparent, and more accountable. Institutions of higher education (institutions) should be accountable both for student outcomes and for student life on campus.
+
+In particular, my Administration seeks to promote free and open debate on college and university campuses. Free inquiry is an essential feature of our Nation's democracy, and it promotes learning, scientific discovery, and economic prosperity. We must encourage institutions to appropriately account for this bedrock principle in their administration of student life and to avoid creating environments that stifle competing perspectives, thereby potentially impeding beneficial research and undermining learning.
+
+The financial burden of higher education on students and their families is also a national problem that needs immediate attention. Over the past 30 years, college tuition and fees have grown at more than twice the rate of the Consumer Price Index. Rising student loan debt, coupled with low repayment rates, threatens the financial health of both individuals and families as well as of Federal student loan programs. In addition, too many programs of study fail to prepare students for success in today's job market.
+
+The Federal Government can take meaningful steps to address these problems. Selecting an institution and course of study are important decisions for prospective students and significantly affect long-term earnings. Institutions should be transparent about the average earnings and loan repayment rates of former students who received Federal student aid. Additionally, the Federal Government should make this information readily accessible to the public and to prospective students and their families, in particular.
+
+This order will promote greater access to critical information regarding the prices and outcomes of postsecondary education, thereby furthering the goals of the National Council for the American Worker established by Executive Order 13845 of July 19, 2018 (Establishing the President's National Council for the American Worker) \[29 U.S.C. 3101 note\]. Increased information disclosure will help ensure that individuals make educational choices suited to their needs, interests, and circumstances. Access to this information will also increase institutional accountability and encourage institutions to take into account likely future earnings when establishing the cost of their educational programs.
+
+Sec. 2. <i>Policy</i>. It is the policy of the Federal Government to:
+
+(a) encourage institutions to foster environments that promote open, intellectually engaging, and diverse debate, including through compliance with the First Amendment for public institutions and compliance with stated institutional policies regarding freedom of speech for private institutions;
+
+(b) help students (including workers seeking additional training) and their families understand, through better data and career counseling, that not all institutions, degrees, or fields of study provide similar returns on their investment, and consider that their educational decisions should account for the opportunity cost of enrolling in a program;
+
+(c) align the incentives of institutions with those of students and taxpayers to ensure that institutions share the financial risk associated with Federal student loan programs;
+
+(d) help borrowers avoid defaulting on their Federal student loans by educating them about risks, repayment obligations, and repayment options; and
+
+(e) supplement efforts by States and institutions by disseminating information to assist students in completing their degrees faster and at lower cost.
+
+Sec. 3. <i>Improving Free Inquiry on Campus</i>. (a) To advance the policy described in subsection 2(a) of this order, the heads of covered agencies shall, in coordination with the Director of the Office of Management and Budget, take appropriate steps, in a manner consistentwith applicable law, including the First Amendment, to ensure institutions that receive Federal research or education grants promote free inquiry, including through compliance with all applicable Federal laws, regulations, and policies.
+
+(b) "Covered agencies" for purposes of this section are the Departments of Defense, the Interior, Agriculture, Commerce, Labor, Health and Human Services, Transportation, Energy, and Education; the Environmental Protection Agency; the National Science Foundation; and the National Aeronautics and Space Administration.
+
+(c) "Federal research or education grants" for purposes of this section include all funding provided by a covered agency directly to an institution but do not include funding associated with Federal student aid programs that cover tuition, fees, or stipends.
+
+Sec. 4. <i>Improving Transparency and Accountability on Campus</i>. (a) To advance the policy described in subsections 2(b)–(e) of this order, the Secretary of Education (Secretary) shall, to the extent consistent with applicable law:
+
+(i) make available, by January 1, 2020, through the Office of Federal Student Aid, a secure and confidential website and mobile application that informs Federal student loan borrowers of how much they owe, how much their monthly payment will be when they enter repayment, available repayment options, how long each repayment option will take, and how to enroll in the repayment option that best serves their needs;
+
+(ii) expand and update annually the College Scorecard, or any successor, with the following program-level data for each certificate, degree, graduate, and professional program, for former students who received Federal student aid:
+
+&emsp;(A) estimated median earnings;
+
+&emsp;(B) median Stafford loan debt;
+
+&emsp;(C) median Graduate PLUS loan debt (if applicable);
+
+&emsp;(D) median Parent PLUS loan debt; and
+
+&emsp;(E) student loan default rate and repayment rate; and
+
+(iii) expand and update annually the College Scorecard, or any successor, with the following institution-level data, providing the aggregate for all certificate, degree, graduate, and professional programs, for former students who received Federal student aid:
+
+&emsp;(A) student loan default rate and repayment rate;
+
+&emsp;(B) Graduate PLUS default rate and repayment rate; and
+
+&emsp;(C) Parent PLUS default rate and repayment rate.
+
+(b) For the purpose of implementing subsection (a)(ii) of this section, the Secretary of the Treasury shall, upon the request of the Secretary, provide in a timely manner appropriate statistical studies and compilations regarding program-level earnings, consistent with section 6108(b) of title 26, United States Code, other applicable laws, and available data regarding programs attended by former students who received Federal student aid.
+
+Sec. 5. <i>Reporting Requirements</i>. (a) By January 1, 2020, the Secretary, in consultation with the Secretary of the Treasury, the Director of the Office of Management and Budget, and the Chairman of the Council of Economic Advisers, shall submit to the President, through the Assistant to the President for Domestic Policy and the Assistant to the President for Economic Policy, a report identifying and analyzing policy options for sharing the risk associated with Federal student loan debt among the Federal Government, institutions, and other entities.
+
+(b) By January 1, 2020, the Secretary, in consultation with the Secretary of the Treasury, shall submit to the President, through the Assistant to the President for Domestic Policy and the Assistant to the President for Economic Policy, policy recommendations for reforming the collections process for Federal student loans in default.
+
+(c) Beginning July 1, 2019, the Secretary shall provide an annual update on the Secretary's progress in implementing the policies set forth in subsections 2(b)–(e) of this order to the National Council for the American Worker at meetings of the Council.
+
+(d) Within 1 year of the date of this order \[Mar. 21, 2019\], the Secretary shall compile information about successful State and institutional efforts to promote students' timely and affordable completion of a postsecondary program of study. Based on that information, the Secretary shall publish a compilation of research results that addresses:
+
+(i) how some States and institutions have better facilitated successful transfer of credits and degree completion by transfer students;
+
+(ii) how States and institutions can increase access to dual enrollment programs; and
+
+(iii) other strategies for increasing student success, especially among students at high risk of not completing a postsecondary program of study.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -10,13 +10,13 @@ A State educational agency shall not award a subgrant from an allocation made un
 
 #### (c) Reallocation
 
-Whenever a State educational agency determines that an amount from an allocation made to an eligible entity under subsection (a) for a fiscal year will not be used by the entity for the purpose for which the allocation was made, the agency shall, in accordance with such rules as it determines to be appropriate, reallocate such amount, consistent with such subsection, to other eligible entities in the State that the agency determines will use the amount to carry out that purpose.
+Whenever a State educational agency determines that an amount from an allocation made to an eligible entity under subsection (a) for a fiscal year will not be used by the entity for thepurpose for which the allocation was made, the agency shall, in accordance with such rules as it determines to be appropriate, reallocate such amount, consistent with such subsection, to other eligible entities in the State that the agency determines will use the amount to carry out that purpose.
 
 #### (d) Required reservation
 
 A State educational agency receiving a grant under this subpart for a fiscal year—
 
-&emsp;(1) shall reserve not more than 15 percent of the agency's allotment under section 6821(c)(2) of this title to award subgrants to eligible entities in the State that have experienced a significant increase, as compared to the averageof the 2 preceding fiscal years, in the percentage or number of immigrant children and youth, who have enrolled, during the fiscal year for which the subgrant is made, in public and nonpublic elementary schools and secondary schools in the geographic areas under the jurisdiction of, or served by, such entities; and
+&emsp;(1) shall reserve not more than 15 percent of the agency's allotment under section 6821(c)(2) of this title to award subgrants to eligible entities in the State that have experienced a significant increase, as compared to the average of the 2 preceding fiscal years, in the percentage or number of immigrant children and youth, who have enrolled, during the fiscal year for which the subgrant is made, in public and nonpublic elementary schools and secondary schools in the geographic areas under the jurisdiction of, or served by, such entities; and
 
 &emsp;(2) in awarding subgrants under paragraph (1)—
 

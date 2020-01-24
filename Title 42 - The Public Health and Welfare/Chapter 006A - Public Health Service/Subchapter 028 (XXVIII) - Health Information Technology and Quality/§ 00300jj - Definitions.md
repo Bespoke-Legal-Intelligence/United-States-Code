@@ -54,7 +54,7 @@ In this subchapter:
 
 #### (12) Pharmacist
 
-&emsp;The term "pharmacist" has the meaning given such term in section 384(2) of title 21.
+&emsp;The term "pharmacist" has the meaning given such term in section 384(2) <sup>3</sup> of title 21.
 
 #### (13) Qualified electronic health record
 
@@ -72,7 +72,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(iv) to exchange electronic health information with, and integrate such information from other sources.
 
-#### (15) <sup>3</sup> State
+#### (15) <sup>4</sup> State
 
 &emsp;The term "State" means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
@@ -182,5 +182,7 @@ Application of Certain Regulatory Requirements.—A physician (as defined in sec
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 
-<i><sup>3</sup></i><i> So in original. There is no par. (14).</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "(a)(2)".</i>
+
+<i><sup>4</sup></i><i> So in original. There is no par. (14).</i>
 

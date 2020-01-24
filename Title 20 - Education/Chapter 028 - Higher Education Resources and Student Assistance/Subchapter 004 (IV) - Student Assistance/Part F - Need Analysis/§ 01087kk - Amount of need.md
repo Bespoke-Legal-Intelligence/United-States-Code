@@ -14,7 +14,7 @@ Except as otherwise provided therein, the amount of need of any student for fina
 
 <b>1998</b>—Pub. L. 105–244 substituted "or 2" for "or 4" in introductory provisions.
 
-<b>1992</b>—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: "Except as otherwise provided therein, the amount of need of any student for financial assistance under this subchapter (except subparts 1 and 3 of part A of this subchapter) is equal to the cost of attendance of such student minus the expected family contribution for such student."
+<b>1992</b>—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: "Except as otherwise provided therein, the amount of need of anystudent for financial assistance under this subchapter (except subparts 1 and 3 of part A of this subchapter) is equal to the cost of attendance of such student minus the expected family contribution for such student."
 
 #### Effective Date of 1998 Amendment
 
@@ -92,7 +92,7 @@ Consultation.—
 
 &emsp;"(1)
 
-In general.—The Advisory Committee shall consult with a broad range of interested parties in higher education, including parents and students, high school guidance counselors, financial aid and other campus administrators, appropriate State administrators, administrators of intervention and outreach programs, and appropriate officials from the Department of Education.
+In general.—The Advisory Committee shall consult with a broad range of interested parties in higher education, including parents and students,high school guidance counselors, financial aid and other campus administrators, appropriate State administrators, administrators of intervention and outreach programs, and appropriate officials from the Department of Education.
 
 &emsp;"(2)
 
@@ -120,7 +120,7 @@ Final report.—The Advisory Committee shall, not later than 1 year after the da
 
 "(f)
 
-Implementation.—The Secretary of Education shall consult with the Committee on Education and theWorkforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate and shall subsequently initiate a redesign of the form required by section 483 of the Higher Education Act of 1965 (20 U.S.C. 1090). Such redesign shall include the testing of alternative simplified versions of the free Federal form. The Secretary shall keep the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate fully and currently informed on the progress of these efforts.
+Implementation.—The Secretary of Education shall consult with the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate and shall subsequently initiate a redesign of the form required by section 483 of the Higher Education Act of 1965 (20 U.S.C. 1090). Such redesign shall include the testing of alternative simplified versions of the free Federal form. The Secretary shall keep the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate fully and currently informed on the progress of these efforts.
 
 "(g)
 

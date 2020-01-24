@@ -36,7 +36,7 @@ Any organization described in subsection (a)(1) which is denied exemption under 
 
 #### (e) Special rules
 
-For purposes of subsection (b)(1), a bond, debenture, note, or certificate or other evidence of indebtedness (hereinafter in this subsection referred to as "obligation") shall not be treated as a loan made without the receipt of adequate security if—
+For purposes of subsection (b)(1), a bond, debenture, note, or certificate or other evidence ofindebtedness (hereinafter in this subsection referred to as "obligation") shall not be treated as a loan made without the receipt of adequate security if—
 
 &emsp;(1) such obligation is acquired—
 

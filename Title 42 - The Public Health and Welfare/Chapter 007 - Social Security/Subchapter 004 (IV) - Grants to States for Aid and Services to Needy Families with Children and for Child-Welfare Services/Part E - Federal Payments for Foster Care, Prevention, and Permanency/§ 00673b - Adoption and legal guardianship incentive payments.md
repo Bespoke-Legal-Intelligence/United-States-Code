@@ -204,11 +204,11 @@ As used in this section:
 
 &emsp;&emsp;(A) that the State agency has determined that—
 
-&emsp;&emsp;&emsp;(i) the child has been removed from his or her home pursuant to a voluntary placement agreement or as a result of a judicial determination to the effect that continuation in the home would be contrary to the welfare of the child;
+&emsp;&emsp;&emsp;(i) the child has been removed from his or her home pursuant to a voluntary placement agreement or as a result of a judicialdetermination to the effect that continuation in the home would be contrary to the welfare of the child;
 
 &emsp;&emsp;&emsp;(ii) being returned home or adopted are not appropriate permanency options for the child;
 
-&emsp;&emsp;&emsp;(iii) the child demonstrates a strong attachment to the prospective legal guardian, and the prospective legal guardian hasa strong commitment to caring permanently for the child; and
+&emsp;&emsp;&emsp;(iii) the child demonstrates a strong attachment to the prospective legal guardian, and the prospective legal guardian has a strong commitment to caring permanently for the child; and
 
 &emsp;&emsp;&emsp;(iv) if the child has attained 14 years of age, the child has been consulted regarding the legal guardianship arrangement; or
 
@@ -298,7 +298,7 @@ Pub. L. 113–183, §202(c)(1), added subpars. (A) to (D) and struck out former 
 
 "(A) $4,000, multiplied by the amount (if any) by which the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;
 
-"(B) $4,000, multiplied by the amount (if any) by which the number of special needs adoptions that arenot older child adoptions in the State during the fiscal year exceeds the base number of special needs adoptions that are not older child adoptions for the State for the fiscal year; and
+"(B) $4,000, multiplied by the amount (if any) by which the number of special needs adoptions that are not older child adoptions in the State during the fiscal year exceeds the base number of special needs adoptions that are not older child adoptions for the State for the fiscal year; and
 
 "(C) $8,000, multiplied by the amount (if any) by which the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year."
 
@@ -382,7 +382,7 @@ Subsec. (g)(3)(A), (B). Pub. L. 108–145, §3(a)(4)(A), added subpars. (A) and 
 
 "(B) with respect to any subsequent fiscal year, the number of foster child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 1997 and ends with the fiscal year preceding such subsequent fiscal year."
 
-Subsec. (g)(4). Pub. L. 108–145, §3(a)(4)(B), inserted "that are not older child adoptions" after "adoptions" in heading, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (g)(4). Pub. L. 108–145, §3(a)(4)(B), inserted "that are not older child adoptions" after "adoptions"in heading, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
 
 "(A) with respect to fiscal year 1998, the average number of special needs adoptions in the State in fiscal years 1995, 1996, and 1997; and
 

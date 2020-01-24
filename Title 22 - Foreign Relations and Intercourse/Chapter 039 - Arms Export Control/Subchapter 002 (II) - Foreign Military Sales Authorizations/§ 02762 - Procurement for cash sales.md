@@ -24,7 +24,7 @@ The provisions of the Renegotiation Act of 1951 do not apply to procurement cont
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Renegotiation Act of 1951, referred to in subsec. (c), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
+The Renegotiation Act of 1951, referred to in subsec. (c), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended,which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 
 #### Amendments
 
@@ -62,6 +62,8 @@ For delegation of functions of the President under subsec. (a) of this section, 
 
 #### Requirement To Use Firm Fixed-Price Contracts for Foreign Military Sales
 
+Pub. L. 116–92, div. A, title VIII, §807(c), Dec. 20, 2019, 133 Stat. 1486, provided that: "The regulations prescribed pursuant to section 830(a) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 22 U.S.C. 2762 note) shall not take effect until December 31, 2020. The regulations as so prescribed shall take into account the findings of the review conducted under subsection (a)(1) \[133 Stat. 1485\]."
+
 Pub. L. 114–328, div. A, title VIII, §830, Dec. 23, 2016, 130 Stat. 2282, as amended by Pub. L. 115–91, div. A, title VIII, §812, Dec. 12, 2017, 131 Stat. 1461, provided that:
 
 "(a)
@@ -94,7 +96,7 @@ In general.—The Secretary of Defense shall establish a pilot program to reform
 
 &emsp;"(2)
 
-Determination of same or similar product.—The Secretary of Defense and the Secretary of Stateshall jointly determine whether a product is considered to be a similar product for the purposes of this pilot program.
+Determination of same or similar product.—The Secretary of Defense and the Secretary of State shall jointly determine whether a product is considered to be a similar product for the purposes of this pilot program.
 
 &emsp;"(3)
 

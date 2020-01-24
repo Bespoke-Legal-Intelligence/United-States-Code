@@ -80,7 +80,7 @@ Subsection (a) and the provisions relating to wages (pursuant to subsection (a))
 
 &emsp;In carrying out this subsection, a public housing agency may not—
 
-&emsp;&emsp;(A) substitute community service or participation in an economic self-sufficiencyprogram, as described in paragraph (1), for work performed by a public housing employee; or
+&emsp;&emsp;(A) substitute community service or participation in an economic self-sufficiency program, as described in paragraph (1), for work performed by a public housing employee; or
 
 &emsp;&emsp;(B) supplant a job at any location at which community work requirements are fulfilled.
 
@@ -128,7 +128,7 @@ Subsection (a) and the provisions relating to wages (pursuant to subsection (a))
 
 #### (B) Contents
 
-&emsp;&emsp;A public housing agency shall seek to include in a cooperation agreement under this paragraph requirements and provisions designed to target assistance under welfare and public assistance programs to families residing in public housing projects and families receiving tenant-based assistance under section 1437f of this title, which may includeproviding for economic self-sufficiency services within such housing, providing for services designed to meet the unique employment-related needs of residents of such housing and recipients of such assistance, providing for placement of workfare positions on-site in such housing, and such other elements as may be appropriate.
+&emsp;&emsp;A public housing agency shall seek to include in a cooperation agreement under this paragraph requirements and provisions designed to target assistance under welfare and public assistance programs to families residing in public housing projects and families receiving tenant-based assistance under section 1437f of this title, which may include providing for economic self-sufficiency services within such housing, providing for services designed to meet the unique employment-related needs of residents of such housing and recipients of such assistance, providing for placement of workfare positions on-site in such housing, and such other elements as may be appropriate.
 
 #### (C) Confidentiality
 

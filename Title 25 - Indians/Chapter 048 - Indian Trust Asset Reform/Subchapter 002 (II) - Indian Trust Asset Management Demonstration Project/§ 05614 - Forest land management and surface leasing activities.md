@@ -122,7 +122,7 @@ If an Indian tribe executes a surface leasing transaction or forest land managem
 
 #### References in Text
 
-The National Indian Forest Resources Management Act, referred to in subsec. (b)(2)(B)(i), is title III of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4532, which is classified generally to chapter 33 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The National Indian Forest Resources Management Act, referred to in subsec. (b)(2)(B)(i), is title III of Pub.L. 101–630, Nov. 28, 1990, 104 Stat. 4532, which is classified generally to chapter 33 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

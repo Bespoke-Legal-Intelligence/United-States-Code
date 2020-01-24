@@ -30,7 +30,7 @@ For purposes of this part:
 
 #### References in Text
 
-Section 11302 of this title, referred to in par. (2)(B)(ii), was amended by Pub. L. 111–22, div. B, §1003(a)(2), May 20, 2009, 123 Stat. 1664, and, as so amended, section 11302(a)(2) of this title no longer contains a subpar. (C).
+Section 11302 of this title, referred to in par. (2)(B)(ii), was amended by Pub. L. 111–22, div. B, §1003(a)(2), May20, 2009, 123 Stat. 1664, and, as so amended, section 11302(a)(2) of this title no longer contains a subpar. (C).
 
 #### Prior Provisions
 

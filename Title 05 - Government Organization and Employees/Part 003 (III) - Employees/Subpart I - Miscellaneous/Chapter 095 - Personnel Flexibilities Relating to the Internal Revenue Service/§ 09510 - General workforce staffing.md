@@ -30,7 +30,7 @@
 
 &emsp;(1) any employment priority established under direction of the President for the placement of surplus or displaced employees; or
 
-&emsp;(2) any obligation under a court order or decree relating to the employment practices ofthe Internal Revenue Service or the Department of the Treasury.
+&emsp;(2) any obligation under a court order or decree relating to the employment practices of the Internal Revenue Service or the Department of the Treasury.
 
 (Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 717; amended Pub. L. 114–137, §2(c), Mar. 18, 2016, 130 Stat. 312.)
 

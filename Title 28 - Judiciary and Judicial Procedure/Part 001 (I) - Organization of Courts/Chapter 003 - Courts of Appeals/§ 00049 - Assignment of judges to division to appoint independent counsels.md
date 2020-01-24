@@ -1,6 +1,6 @@
 ### §49. Assignment of judges to division to appoint independent counsels
 
-(a) Beginning with the two-year period commencing on the date of the enactment of thissection, three judges or justices shall be assigned for each successive two-year period to a division of the United States Court of Appeals for the District of Columbia to be the division of the court for the purpose of appointing independent counsels. The Clerk of the United States Court of Appeals for the District of Columbia Circuit shall serve as the clerk of such division of the court and shall provide such services as are needed by such division of the court.
+(a) Beginning with the two-year period commencing on the date of the enactment of this section, three judges or justices shall be assigned for each successive two-year period to a division of the United States Court of Appeals for the District of Columbia to be the division of the court for the purpose of appointing independent counsels. The Clerk of the United States Court of Appeals for the District of Columbia Circuit shall serve as the clerk of such division of the court and shall provide such services as are needed by such division of the court.
 
 (b) Except as provided under subsection (f) of this section, assignment to such division of the court shall not be a bar to other judicial assignments during the term of such division.
 

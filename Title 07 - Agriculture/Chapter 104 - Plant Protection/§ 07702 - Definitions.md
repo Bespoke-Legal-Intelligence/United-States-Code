@@ -40,7 +40,7 @@ In this chapter:
 
 #### (8) Means of conveyance
 
-&emsp;The term "means of conveyance" means any personal property used for or intended for use for the movement of any other personal property.
+&emsp;The term "means of conveyance" means any personal property used for or intended for usefor the movement of any other personal property.
 
 #### (9) Move and related terms
 

@@ -14,7 +14,7 @@ The Secretary of Defense may carry out a program, referred to as the "Department
 
 &emsp;(3) Prevent the proliferation of nuclear and chemical weapons, weapons components, and weapons-related materials, technology, and expertise.
 
-&emsp;(4) Prevent the proliferation of biological weapons, weapons components, and weapons-related materials, technology, and expertise, which may include activities that facilitate detection and reporting of highly pathogenic diseases or other diseases that are associated with or that could be used as an early warning mechanism for disease outbreaks that could affect the Armed Forces of the United States or allies of the United States, regardless of whether such diseases are caused by biological weapons.
+&emsp;(4) Prevent the proliferation of biological weapons, weapons components, and weapons-related materials, technology, and expertise, which may include activities that facilitate detection and reporting of highly pathogenic diseases or other diseases that are associatedwith or that could be used as an early warning mechanism for disease outbreaks that could affect the Armed Forces of the United States or allies of the United States, regardless of whether such diseases are caused by biological weapons.
 
 &emsp;(5) Prevent the proliferation of weapons of mass destruction-related materials, including materials, equipment, and technology that could be used for the design, development, production, or use of nuclear, chemical, and biological weapons and the means of delivery of such weapons.
 

@@ -8,7 +8,7 @@ Of the amounts appropriated to carry out this part for any fiscal year, the Corp
 
 #### (1) In general
 
-&emsp;After reserving an amount under subsection (a), the Corporation shall use the remainder ofthe funds appropriated to carry out this part for the fiscal year as follows:
+&emsp;After reserving an amount under subsection (a), the Corporation shall use the remainder of the funds appropriated to carry out this part for the fiscal year as follows:
 
 #### (A) Allotments based on school-age youth
 

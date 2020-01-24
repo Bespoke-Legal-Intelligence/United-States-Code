@@ -16,7 +16,7 @@ The Secretary, acting through the National Center for Injury Prevention and Cont
 
 &emsp;(6) education to increase awareness about drugs and alcohol used to facilitate rapes or sexual assaults; and
 
-&emsp;(7) other efforts to increase awareness of the facts about, or to help prevent, sexual assault, including efforts to increase awareness in underserved communities and awareness among individuals with disabilities (as defined in section 12102 of this title).
+&emsp;(7) other efforts to increase awareness of the facts about, or to help prevent, sexual assault,including efforts to increase awareness in underserved communities and awareness among individuals with disabilities (as defined in section 12102 of this title).
 
 #### (b) Collection and dissemination of information on sexual assault
 
@@ -50,7 +50,7 @@ The Secretary shall, through the National Resource Center on Sexual Assault esta
 
 &emsp;A State may not use more than 5 percent of the amount received by the State under this section for each fiscal year for administrative expenses.
 
-(July 1, 1944, ch. 373, title III, §393A, formerly §393B, as added Pub. L. 106–386, div. B, title IV, §1401(a), Oct. 28, 2000, 114 Stat. 1512; amended Pub. L. 109–162, title III, §302, Jan. 5, 2006, 119 Stat. 3004; renumbered §393C, Pub. L. 110–202, §2(1), Apr. 23, 2008, 122 Stat. 697; renumbered§393A, Pub. L. 110–206, §2(1), Apr. 28, 2008, 122 Stat. 714; Pub. L. 113–4, title III, §301, Mar. 7, 2013, 127 Stat. 84.)
+(July 1, 1944, ch. 373, title III, §393A, formerly §393B, as added Pub. L. 106–386, div. B, title IV, §1401(a), Oct. 28, 2000, 114 Stat. 1512; amended Pub. L. 109–162, title III, §302, Jan. 5, 2006, 119 Stat. 3004; renumbered §393C, Pub. L. 110–202, §2(1), Apr. 23, 2008, 122 Stat. 697; renumbered §393A, Pub. L. 110–206, §2(1), Apr. 28, 2008, 122 Stat. 714; Pub. L. 113–4, title III, §301, Mar. 7, 2013, 127 Stat. 84.)
 
 #### Codification
 

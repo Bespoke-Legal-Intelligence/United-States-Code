@@ -12,7 +12,7 @@
 
 &emsp;(A) A description of the actions, including identification of specific projects, necessary to maintain or achieve compliance with Federal, State, or local environmental laws, regulations, permits, orders, and agreements.
 
-&emsp;(B) A description of the actions, including identification of specific projects, to be taken at each Department of Energy facility in order to implement environmental restoration activities planned for each such facility.
+&emsp;(B) A description of the actions, including identification of specific projects, to be taken at each Department of Energy facility in orderto implement environmental restoration activities planned for each such facility.
 
 &emsp;(C) A description of research and development activities for the expeditious and efficient environmental restoration of such facilities.
 

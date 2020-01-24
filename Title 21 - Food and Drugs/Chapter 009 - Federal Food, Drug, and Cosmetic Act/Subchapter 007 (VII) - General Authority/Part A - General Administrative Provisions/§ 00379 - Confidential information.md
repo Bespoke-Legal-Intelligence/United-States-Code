@@ -2,7 +2,7 @@
 
 #### (a) Contractors
 
-The Secretary may provide any information which is exempt from disclosure pursuant to subsection (a) of section 552 of title 5 by reasonof subsection (b)(4) of such section to a person other than an officer or employee of the Department if the Secretary determines such other person requires the information in connection with an activity which is undertaken under contract with the Secretary, which relates to the administration of this chapter, and with respect to which the Secretary (or an officer or employee of the Department) is not prohibited from using such information. The Secretary shall require as a condition to the provision of information under this section that the person receiving it take such security precautions respecting the information as the Secretary may by regulation prescribe.
+The Secretary may provide any information which is exempt from disclosure pursuant to subsection (a) of section 552 of title 5 by reason of subsection (b)(4) of such section to a person other than an officer or employee of the Department if the Secretary determines such other person requires the information in connection with an activity which is undertaken under contract with the Secretary, which relates to the administration of this chapter, and with respect to which the Secretary (or an officer or employee of the Department) is not prohibited from using such information. The Secretary shall require as a condition to the provision of information under this section that the person receiving it take such security precautions respecting the information as the Secretary may by regulation prescribe.
 
 #### (b) Ability to receive and protect confidential information obtained from foreign governments
 
@@ -10,7 +10,7 @@ The Secretary may provide any information which is exempt from disclosure pursua
 
 &emsp;The Secretary shall not be required to disclose under section 552 of title 5 (commonly referred to as the "Freedom of Information Act"), or any other provision of law, any information relating to drugs obtained from a foreign government agency, if—
 
-&emsp;&emsp;(A) the information concerns the inspection of a facility, is part of an investigation, alerts the United States to the potential need for an investigation, or concerns a drug that has a reasonable probability of causing serious adverse health consequences or death to humans or animals;
+&emsp;&emsp;(A) the information concerns the inspection of a facility, is part of an investigation, alerts the United States to the potentialneed for an investigation, or concerns a drug that has a reasonable probability of causing serious adverse health consequences or death to humans or animals;
 
 &emsp;&emsp;(B) the information is provided or made available to the United States Government voluntarily on the condition that it not be released to the public; and
 

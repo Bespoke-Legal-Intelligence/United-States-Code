@@ -70,5 +70,5 @@ Pub. L. 95–600, title VII, §702(m)(2), Nov. 6, 1978, 92 Stat. 2935, provided 
 
 #### Effective Date
 
-Pub. L. 94–455, title XX, §2009(e)(2), Oct. 4, 1976, 90 Stat. 1896, provided that: "The amendments made by subsection (b) \[enacting this section and section 2046 of this title and amending sections 2041, 2055, 2056, and 2514 of this title\] shall apply with respect to transfers creating an interest in the person disclaiming made after December 31, 1976."
+Pub. L. 94–455, title XX, §2009(e)(2), Oct. 4, 1976, 90 Stat. 1896, provided that: "The amendments made by subsection (b) \[enacting this section and section 2046 of this title and amending sections 2041, 2055, 2056, and 2514 of this title\] shall apply with respect to transferscreating an interest in the person disclaiming made after December 31, 1976."
 

@@ -58,7 +58,7 @@ In the event of any overpayment under this section, such overpayment shall be re
 
 &emsp;(C)(i) to provide assistance to consular posts with a substantial backlog of visa applications; or
 
-&emsp;(ii) to provide assistance to meet the demand resulting from the passport and travel document requirements set forth in section7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note), including assistance related to the investigation of fraud in connection with an application for a passport.
+&emsp;(ii) to provide assistance to meet the demand resulting from the passport and travel document requirements set forth in section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note), including assistance related to the investigation of fraud in connection with an application for a passport.
 
 (2) The Secretary should prescribe procedures for the exercise of any authority under paragraph (1)(B), including criteria for any exercise of authority and procedures for a delegation of authority.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Report on Current Programs Under AACMS.— <sup>1</sup>
+Annual Report on Current Programs Under ACCMS.—
 
 &emsp;(1)
 
@@ -40,11 +40,11 @@ Elements on programs covered by multiyear budgeting.—In the case of a report u
 
 (b)
 
-Annual Report on New Programs Under AACMS.— <sup>1</sup>
+Annual Report on New Programs Under ACCMS.—
 
 &emsp;(1)
 
-In general.—Not later than February 1 each year, the Secretary shall submit to the congressional defense committees a report that, with respect to each new program beingmanaged under alternative compensatory control measures in the Department, provides—
+In general.—Not later than February 1 each year, the Secretary shall submit to the congressional defense committees a report that, with respect to each new program being managed under alternative compensatory control measures in the Department, provides—
 
 &emsp;&emsp;(A) notice of the designation of the program as a program being managed under alternative compensatory control measures in the Department; and
 
@@ -110,7 +110,9 @@ Notice and wait.—Except as provided in paragraph (2), a program to be managed 
 
 Exception.—If the Secretary determines that waiting for the regular notification process before initiating a program as described in paragraph (1) would cause exceptionally grave damage to the national security, the Secretary may begin a program to be managed under alternative compensatory control measures in the Department before such waiting period elapses. The Secretary shall notify the congressional defense committees within 10 days of initiating a program under this paragraph, including a justification for the determination of the Secretary that waiting for the regular notification process would cause exceptionally grave damage to the national security.
 
-(Added Pub. L. 114–328, div. A, title X, §1062(a), Dec. 23, 2016, 130 Stat. 2405.)
+(Added Pub. L. 114–328, div. A, title X, §1062(a), Dec. 23, 2016, 130 Stat. 2405; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(4), Dec. 20, 2019, 133 Stat. 1812.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be "ACCMS.—".</i>
+#### Amendments
+
+<b>2019</b>—Subsecs. (a), (b). Pub. L. 116–92 substituted "ACCMS" for "AACMS" in subsec. heading.
 

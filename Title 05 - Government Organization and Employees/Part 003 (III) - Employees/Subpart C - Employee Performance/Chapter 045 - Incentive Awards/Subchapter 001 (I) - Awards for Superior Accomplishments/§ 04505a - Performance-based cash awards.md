@@ -12,9 +12,9 @@
 
 (d) The preceding provisions of this section shall be applicable with respect to any employee to whom subchapter III of chapter 53 applies, and to any category of employees provided for under subsection (e).
 
-(e) At the request of the head of an Executive agency, the President may authorize the application of subsections (a) through (c) with respect to any category of employees within such agency who would not otherwise be covered by this section.
+(e) At the request of the head of an Executive agency, the President may authorize the application of subsections (a) through (c) with respect to any category of employees within suchagency who would not otherwise be covered by this section.
 
-(Added Pub. L. 101–509, title V, §529 \[title II, §207(a)\], Nov. 5, 1990, 104 Stat. 1427, 1457; amended Pub. L. 102–378, §2(19), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 108–411, title III, §301(c), Oct. 30,2004, 118 Stat. 2317; Pub. L. 115–73, title I, §107(a)(2)(A), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(A), Dec. 12, 2017, 131 Stat. 1617.)
+(Added Pub. L. 101–509, title V, §529 \[title II, §207(a)\], Nov. 5, 1990, 104 Stat. 1427, 1457; amended Pub. L. 102–378, §2(19), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 108–411, title III, §301(c), Oct. 30, 2004, 118 Stat. 2317; Pub. L. 115–73, title I, §107(a)(2)(A), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(A), Dec. 12, 2017, 131 Stat. 1617.)
 
 #### Amendments
 

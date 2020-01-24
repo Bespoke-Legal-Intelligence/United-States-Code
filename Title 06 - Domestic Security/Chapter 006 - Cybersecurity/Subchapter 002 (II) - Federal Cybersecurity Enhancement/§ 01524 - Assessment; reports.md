@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Intrusion assessments
 
-&emsp;The term "intrusion assessments" means actions taken under the intrusion assessment plan to identify and remove intruders in agency information systems.
+&emsp;The term "intrusion assessments" means actions taken under the intrusion assessmentplan to identify and remove intruders in agency information systems.
 
 #### (4) Intrusion assessment plan
 

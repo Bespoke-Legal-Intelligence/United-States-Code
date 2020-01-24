@@ -4,7 +4,7 @@
 
 (b)(1) The Secretary shall be responsible for the approval of courses of education offered by any agency of the Federal Government authorized under other laws to supervise such education. The Secretary may approve any course in any other educational institution in accordance with the provisions of this chapter and chapters 34 and 35 of this title.
 
-(2)(A) Subject to sections 3675(b)(1) and (b)(2), 3680A, 3684, and 3696 of this title, a program of education is deemed to be approved for purposes of this chapter if a State approving agency, or the Secretary when acting in the role of a State approving agency, determines that the program is one of the following programs:
+(2)(A) Subject to sections 3675(b)(1) and (b)(2), 3680A, 3684, and 3696 of this title, a program of education is deemed to be approved for purposes of this chapter if a State approving agency, or the Secretary when acting in the role of a Stateapproving agency, determines that the program is one of the following programs:
 
 &emsp;(i) Except as provided in subparagraph (C), an accredited standard college degree program offered at a public or not-for-profit proprietary educational institution that is accredited by an agency or association recognized for that purpose by the Secretary of Education.
 
@@ -48,7 +48,7 @@
 
 #### References in Text
 
-The Act of August 16, 1937, referred to in subsec. (b)(2)(A)(iii), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
+The Act of August 16, 1937, referred to in subsec. (b)(2)(A)(iii), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to chapter 4C (§50 et seq.)of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
 #### Amendments
 
@@ -118,5 +118,5 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(e) of Pub.
 
 #### Applicability
 
-Pub. L. 114–315, title IV, §409(f), Dec. 16, 2016, 130 Stat. 1560, provided that: "If after enrollment in a course ofeducation that is subject to disapproval by reason of an amendment made by this section \[amending this section and sections 3675, 3676, and 3679 of this title\], an individual pursues one or more courses of education at the same educational institution while remaining continuously enrolled (other than during regularly scheduled breaks between courses, semesters, or terms) at that institution, any course so pursued by the individual at that institution while so continuously enrolled shall not be subject to disapproval by reason of such amendment."
+Pub. L. 114–315, title IV, §409(f), Dec. 16, 2016, 130 Stat. 1560, provided that: "If after enrollment in a course of education that is subject to disapproval by reason of an amendment made by this section \[amending this section and sections 3675, 3676, and 3679 of this title\], an individual pursues one or more courses of education at the same educational institution while remaining continuously enrolled (other than during regularly scheduled breaks between courses, semesters, or terms) at that institution, any course so pursued by the individual at that institution while so continuously enrolled shall not be subject to disapproval by reason of such amendment."
 

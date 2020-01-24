@@ -10,7 +10,7 @@
 
 &emsp;The Commission shall transmit its report under paragraph (1) to the Trade Representative—
 
-&emsp;&emsp;(A) in the case of an interim report described in paragraph (1), within 30 calendardays after the Trade Representative requests the report; and
+&emsp;&emsp;(A) in the case of an interim report described in paragraph (1), within 30 calendar days after the Trade Representative requests the report; and
 
 &emsp;&emsp;(B) in the case of a report of the Appellate Body, within 21 calendar days after the Trade Representative requests the report.
 

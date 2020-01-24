@@ -136,7 +136,7 @@ Any information or documentary material filed with the Assistant Attorney Genera
 
 (1) Any action taken by the Federal Trade Commission or the Assistant Attorney General or any failure of the Federal Trade Commission or the Assistant Attorney General to take any action under this section shall not bar any proceeding or any action with respect to such acquisition at any time under any other section of this Act or any other provision of law.
 
-(2) Nothing contained in this section shall limit the authority of the Assistant Attorney General or the Federal Trade Commission to secure at any time from any person documentary material, oral testimony, or other information under the Antitrust Civil Process Act \[15 U.S.C. 1311 et seq.\], the Federal Trade Commission Act\[15 U.S.C. 41 et seq.\], or any other provision of law.
+(2) Nothing contained in this section shall limit the authority of the Assistant AttorneyGeneral or the Federal Trade Commission to secure at any time from any person documentary material, oral testimony, or other information under the Antitrust Civil Process Act \[15 U.S.C. 1311 et seq.\], the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], or any other provision of law.
 
 #### (j) Omitted
 
@@ -208,11 +208,11 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date
 
-Pub. L. 94–435, title II, §202, Sept. 30, 1976, 90 Stat. 1394, provided that: "The amendment made by section 201 of this Act \[enacting this section\] shall take effect 150 days after the date of enactment of this Act \[Sept. 30, 1976\], except that subsection (d) of section 7A of the Clayton Act \[subsec. (d) of this section\] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act."
+Pub. L. 94–435, title II, §202, Sept. 30, 1976, 90 Stat. 1394, provided that: "The amendment made by section 201 of this Act \[enacting this section\] shall take effect 150 days after the date of enactment of this Act \[Sept. 30, 1976\], except that subsection (d) of section 7A of theClayton Act \[subsec. (d) of this section\] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act."
 
 #### Assessment and Collection of Filing Fees
 
-Pub. L. 101–162, title VI, §605, Nov. 21, 1989, 103 Stat. 1031, as amended by Pub. L. 101–302, title II, May 25,1990, 104 Stat. 217; Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1847; Pub. L. 103–317, title I, Aug. 26, 1994, 108 Stat. 1739; Pub. L. 106–553, §1(a)(2) \[title VI, §630(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–109, provided that:
+Pub. L. 101–162, title VI, §605, Nov. 21, 1989, 103 Stat. 1031, as amended by Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 217; Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1847; Pub. L. 103–317, title I, Aug. 26, 1994, 108 Stat. 1739; Pub. L. 106–553, §1(a)(2) \[title VI, §630(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–109, provided that:
 
 "(a) Five working days after enactment of this Act \[Nov. 21, 1989\] and thereafter, the Federal Trade Commission shall assess and collect filing fees established in subsection (b) which shall be paid by persons acquiring voting securities or assets who are required to file premerger notifications by the \[sic\] section 7A of the Clayton Act (15 U.S.C. 18a) and the regulations promulgated thereunder. For purposes of said Act, no notification shall be considered filed until payment of the fee required by this section. Fees collected pursuant to this section shall be divided evenly between and credited to the appropriations, Federal Trade Commission, 'Salaries and Expenses' and Department of Justice, 'Salaries and Expenses, Antitrust Division': <i>Provided</i>, That fees in excess of $40,000,000 in fiscal year 1990 shall be deposited to the credit of the Treasury of the United States: <i>Provided further</i>, That fees made available to the Federal Trade Commission and the Antitrust Division herein shall remain available until expended.
 

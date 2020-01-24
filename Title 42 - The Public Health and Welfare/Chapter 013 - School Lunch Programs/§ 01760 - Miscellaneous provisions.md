@@ -226,7 +226,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary shall require that a school food authoritypurchase, to the maximum extent practicable, domestic commodities or products.
+&emsp;&emsp;Subject to subparagraph (B), the Secretary shall require that a school food authority purchase, to the maximum extent practicable, domestic commodities or products.
 
 #### (B) Limitations
 
@@ -242,7 +242,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 #### (4) Applicability to Puerto Rico
 
-&emsp;Paragraph (2)(A) shall apply to a school food authority in the Commonwealth of Puerto Rico with respect to domestic commodities or products that are produced in the Commonwealth of Puerto Rico in sufficient quantities to meet the needs of meals provided under the school lunch program under this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
+&emsp;Paragraph (2)(A) shall apply to a school food authority in the Commonwealth of PuertoRico with respect to domestic commodities or products that are produced in the Commonwealth of Puerto Rico in sufficient quantities to meet the needs of meals provided under the school lunch program under this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
 
 #### (o) Procurement contracts
 
@@ -306,7 +306,7 @@ In acquiring a good or service for programs under this chapter or the Child Nutr
 
 #### (B) Non-Federal sources
 
-&emsp;&emsp;For the purposes of subparagraph (A), non-Federal sources does not include revenuefrom the sale of foods sold in competition with meals served under the school lunch program authorized under this chapter or the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
+&emsp;&emsp;For the purposes of subparagraph (A), non-Federal sources does not include revenue from the sale of foods sold in competition with meals served under the school lunch program authorized under this chapter or the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
 
 #### (C) Other programs
 
@@ -450,7 +450,7 @@ Pub. L. 104–193, §705(e)(1), (2), redesignated par. (3) as (1) and struck out
 
 Subsec. (k)(2). Pub. L. 104–193, §705(e)(1), (2), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: "Notwithstanding chapter 5 of title 5, not later than 45 days after the publication of the proposed regulations permitting the use of food-based menu systems, the Secretary shall publish notice in the Federal Register of, and hold, a public meeting with—
 
-&emsp;"(A) representatives of affected parties, such as Federal, State, and local administrators, school foodservice administrators, other school food service personnel, parents, and teachers; and
+&emsp;"(A) representatives of affected parties, such as Federal, State, and local administrators, school food service administrators, other school food service personnel, parents, and teachers; and
 
 &emsp;"(B) organizations representing affected parties, such as public interest antihunger organizations, doctors specializing in pediatric nutrition, health and consumer groups, commodity groups, food manufacturers and vendors, and nutritionists involved with the implementation and operation of programs under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.);
 
@@ -550,7 +550,7 @@ Subsec. (d)(7). Pub. L. 95–166, §19(c), added par. (7).
 
 <b>1975</b>—Subsec. (d)(1). Pub. L. 94–105, §9(b), inserted reference to Trust Territory of the Pacific Islands.
 
-Subsec. (d)(3) to (7). Pub. L. 94–105, §9(a), (c), struck out par. (3) defining "Nonprofit private schools", redesignated pars. (4) to (7) as (3) to (6), respectively, and in par. (6), as so redesignated, expanded definition of "school" to include any public or licensed nonprofit private residential child care institution, including, but not limited to, orphanages and homes for the mentally retarded, and inserted provision defining "nonprofit" as any school or institution exempt under section 501(c)(3) of title 26.
+Subsec. (d)(3) to (7). Pub. L. 94–105, §9(a), (c), struck out par. (3) defining "Nonprofit private schools", redesignated pars. (4) to (7) as (3) to (6), respectively, and in par. (6), as so redesignated, expanded definition of "school" to include any public or licensed nonprofit private residential child care institution, including,but not limited to, orphanages and homes for the mentally retarded, and inserted provision defining "nonprofit" as any school or institution exempt under section 501(c)(3) of title 26.
 
 Subsec. (e). Pub. L. 94–105, §9(d), added subsec. (e).
 
@@ -563,10 +563,6 @@ Subsec. (d). Pub. L. 87–823 redefined "State" in par. (1) to recognize Hawaiia
 Pub. L. 87–688 inserted "American Samoa," after "Guam".
 
 <b>1952</b>—Subsec. (d)(1). Act July 12, 1952, included Guam within definition of State.
-
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2015 Amendment
 
@@ -666,5 +662,5 @@ Report.—Not later than 180 days after the date of the enactment of this Act, t
 
 #### Study of Cost Accounting Requirements
 
-Pub. L. 94–105, §21, Oct. 7, 1975, 89 Stat. 527, prohibited Secretary from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
+Pub. L. 94–105, §21, Oct. 7, 1975, 89 Stat. 527, prohibited Secretary from delaying or withholding or causing anyState to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
 

@@ -20,7 +20,7 @@
 
 <b>1994</b>—Pub. L. 103–337, div. A, title IX, §924(d)(2)(B), Oct. 5, 1994, 108 Stat. 2832, substituted "Court of Appeals for the Armed Forces" for "Court of Military Appeals" in item 1259.
 
-<b>1988</b>—Pub. L. 100–352, §§1, 2(c), 5(a), June 27, 1988, 102 Stat. 662, 663, struck out item 1252 "Direct appeals fromdecisions invalidating Acts of Congress", struck out "appeal;" after "certiorari;" in item 1254, and struck out "appeal;" after "State courts;" in item 1257 and after "of Puerto Rico;" in item 1258.
+<b>1988</b>—Pub. L. 100–352, §§1, 2(c), 5(a), June 27, 1988, 102 Stat. 662, 663, struck out item 1252 "Direct appeals from decisions invalidating Acts of Congress", struck out "appeal;" after "certiorari;" in item 1254, and struck out "appeal;" after "State courts;" in item 1257 and after "of Puerto Rico;" in item 1258.
 
 <b>1983</b>—Pub. L. 98–209, §10(a)(2), Dec. 6, 1983, 97 Stat. 1406, added item 1259.
 

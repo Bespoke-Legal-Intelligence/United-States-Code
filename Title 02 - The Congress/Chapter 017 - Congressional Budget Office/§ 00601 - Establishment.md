@@ -10,17 +10,13 @@
 
 (4) The Director may be removed by either House by resolution.
 
-(5)(A) The Director shall receive compensation at an annual rate of pay that is equal to the lower of—
-
-&emsp;(i) the highest annual rate of compensation of any officer of the Senate; or
-
-&emsp;(ii) the highest annual rate of compensation of any officer of the House of Representatives.
+(5)(A) The Director shall receive compensation at an annual rate of pay that is equal to the maximum rate of pay in effect under section 4575(f) of this title.
 
 (B) The Deputy Director shall receive compensation at an annual rate of pay that is $1,000 less than the annual rate of pay received by the Director, as determined under subparagraph (A).
 
 #### (b) Personnel
 
-The Director shall appoint and fix the compensation of such personnel as may be necessary to carry out the duties and functions of the Office. All personnel of the Office shall be appointed without regard to political affiliation and solely on the basis of their fitness to perform their duties. The Director may prescribe the duties and responsibilities of the personnel of the Office, and delegate to them authority to perform any of the duties, powers, and functions imposed on the Office or on the Director. For purposes of pay (other than pay of the Directorand Deputy Director) and employment benefits, rights, and privileges, all personnel of the Office shall be treated as if they were employees of the House of Representatives.
+The Director shall appoint and fix the compensation of such personnel as may be necessary to carry out the duties and functions of the Office. All personnel of the Office shall be appointed without regard to political affiliation and solely on the basis of their fitness to perform their duties. The Director may prescribe the duties and responsibilities of the personnel of the Office, and delegate to them authority to perform any of the duties, powers, and functions imposed on the Office or on the Director. For purposes of pay (other than pay of the Director and Deputy Director) and employment benefits, rights, and privileges, all personnel of the Office shall be treated as if they were employees of the House of Representatives.
 
 #### (c) Experts and consultants
 
@@ -42,7 +38,7 @@ For the purposes of revenue legislation which is income, estate and gift, excise
 
 There are authorized to be appropriated to the Office for each fiscal year such sums as may be necessary to enable it to carry out its duties and functions. Until sums are first appropriated pursuant to the preceding sentence, but for a period not exceeding 12 months following the effective date of this subsection, the expenses of the Office shall be paid from the contingent fund of the Senate, in accordance with section 6503 of this title, and upon vouchers approved by the Director.
 
-(Pub. L. 93–344, title II, §201, July 12, 1974, 88 Stat. 302; Pub. L. 99–177, title II, §273, Dec. 12, 1985, 99 Stat. 1098, renumbered §201(g) of Pub. L. 93–344, Pub. L. 101–508, title XIII, §13202(b), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 101–508, title XIII, §13202(a), (c), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 105–33, title X, §10102, Aug. 5, 1997, 111 Stat. 678; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §224\], Nov. 29, 1999, 113 Stat. 1536, 1501A–299; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 93–344, title II, §201, July 12, 1974, 88 Stat. 302; Pub. L. 99–177, title II, §273, Dec. 12, 1985, 99 Stat. 1098, renumbered §201(g) of Pub. L. 93–344, Pub. L. 101–508, title XIII, §13202(b), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 101–508, title XIII, §13202(a), (c), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 105–33, title X, §10102, Aug. 5, 1997, 111 Stat. 678; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §224\], Nov. 29, 1999, 113 Stat. 1536, 1501A–299; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 116–94, div. E, title II, §212(a)(3)(B), Dec. 20, 2019, 133 Stat. 2775.)
 
 #### References in Text
 
@@ -54,11 +50,17 @@ Pub. L. 101–508, §12302(b), transferred section 273 of Pub. L. 99–177, whic
 
 #### Amendments
 
+<b>2019</b>—Subsec. (a)(5)(A). Pub. L. 116–94 substituted "the maximum rate of pay in effect under section 4575(f) of this title." for "the lower of—
+
+&emsp;"(i) the highest annual rate of compensation of any officer of the Senate; or
+
+&emsp;"(ii) the highest annual rate of compensation of any officer of the House of Representatives."
+
 <b>2004</b>—Subsec. (e). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1999</b>—Subsec. (a)(5). Pub. L. 106–113 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule in section 5314 of title 5. The Deputy Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as so in effect, for level IV of the Executive Schedule in section 5315 of such title."
 
-<b>1997</b>—Subsec. (a)(3). Pub. L. 105–33, §10102(a), substituted "The term of office of the Director shall be 4 years and shall expire on January 3 of the year preceding each Presidential election." for "The term of office of the Director first appointed shall expire at noon onJanuary 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter."
+<b>1997</b>—Subsec. (a)(3). Pub. L. 105–33, §10102(a), substituted "The term of office of the Director shall be 4 years and shall expire on January 3 of the year preceding each Presidential election." for "The term of office of the Director first appointed shall expire at noon on January 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter."
 
 Subsec. (e). Pub. L. 105–33, §10102(b), inserted "and" before "the Library", struck out "and the Office of Technology Assessment," after "Library of Congress,", inserted "and" before "the Librarian", and struck out ", and the Technology Assessment Board" after "Librarian of Congress".
 
@@ -69,6 +71,10 @@ Subsecs. (f), (g). Pub. L. 105–33, §10102(c), redesignated subsec. (g), relat
 Subsec. (g). Pub. L. 101–508, §13202(a), redesignated subsec. (f), relating to authorization of appropriations, as (g).
 
 Pub. L. 101–508, §12302(b), (c), redesignated section 921 of this title as subsec. (g) of this section, inserted heading "Revenue estimates" and substituted "this Act" for "this title and the Congressional Budget and Impoundment Control Act of 1974".
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under section 282b of this title.
 
 #### Effective Date
 

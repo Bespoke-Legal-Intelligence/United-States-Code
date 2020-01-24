@@ -40,7 +40,7 @@ Contingency Program Management Matters Covered.—The joint policy for contingen
 
 Contingency Contracting Matters Covered.—(1) The joint policy for contingency contracting required by subsection (a) shall, at a minimum, provide for the following:
 
-&emsp;(A) The designation of a senior commissioned officer or civilian member of the senior executive service in each military department with the responsibility for administering the policy.
+&emsp;(A) The designation of a senior commissioned officer or civilian member of the seniorexecutive service in each military department with the responsibility for administering the policy.
 
 &emsp;(B) The assignment of a senior commissioned officer with appropriate acquisition experience and qualifications to act as head of contingency contracting during combat operations, post-conflict operations, and contingency operations, who shall report directly to the commander of the combatant command in whose area of responsibility the operations occur.
 

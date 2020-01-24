@@ -18,7 +18,7 @@
 
 #### (A) Book entries permitted
 
-&emsp;&emsp;For purposes of paragraph (1), a book entry bond shall be treated as in registered form if the right to the principal of, and stated interest on, such bond may be transferred only through a book entry consistent with regulations prescribed by the Secretary.
+&emsp;&emsp;For purposes of paragraph (1), a book entry bond shall be treated as in registered form ifthe right to the principal of, and stated interest on, such bond may be transferred only through a book entry consistent with regulations prescribed by the Secretary.
 
 #### (B) Nominees
 
@@ -366,7 +366,7 @@
 
 &emsp;The Secretary may prescribe regulations to prevent the avoidance of the rules of this subsection, including through the aggregation of projects within a single issue.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2646; amended Pub. L. 100–647, title I, §1013(a)(20)–(22), title V, §5051(a), Nov. 10, 1988, 102 Stat. 3542, 3676; Pub. L. 101–239, title VII, §7651(a), Dec. 19, 1989, 103 Stat. 2383; Pub. L. 104–188, title I, §1704(b)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 109–222, title V, §508(a), (b), (d)(1), (2), May 17, 2006, 120 Stat. 361, 362; Pub. L. 110–289, div. C, title I, §3023(a), (b), July 30, 2008, 122 Stat. 2894, 2895; Pub. L. 111–147, title V, §502(a)(2)(A), Mar. 18, 2010, 124 Stat. 107; Pub. L. 115–97, title I, §13532(a), (b)(1), Dec. 22, 2017, 131 Stat. 2154; Pub. L. 115–141, div. U, title IV, §401(a)(2)(A), Mar. 23, 2018, 132 Stat. 1184.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2646; amended Pub. L. 100–647, title I, §1013(a)(20)–(22), title V, §5051(a), Nov. 10, 1988, 102 Stat. 3542, 3676; Pub. L. 101–239, title VII, §7651(a), Dec. 19, 1989, 103 Stat. 2383; Pub. L.104–188, title I, §1704(b)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 109–222, title V, §508(a), (b), (d)(1), (2), May 17, 2006, 120 Stat. 361, 362; Pub. L. 110–289, div. C, title I, §3023(a), (b), July 30, 2008, 122 Stat. 2894, 2895; Pub. L. 111–147, title V, §502(a)(2)(A), Mar. 18, 2010, 124 Stat. 107; Pub. L. 115–97, title I, §13532(a), (b)(1), Dec. 22, 2017, 131 Stat. 2154; Pub. L. 115–141, div. U, title IV, §401(a)(2)(A), Mar. 23, 2018, 132 Stat. 1184.)
 
 #### References in Text
 
@@ -458,7 +458,7 @@ Bonds with respect to which preliminary offering materials mailed.—The amendme
 
 "(4)
 
-Certain other bonds.—In the case of a bond issued before January 1, 1991, with respect to which official action was taken (or a series of official actions were taken), or other comparable preliminary approval was given, before November 18, 1989, demonstrating an intent to issue such bonds in a maximum specified amount for such issue or with a maximum specified amount of net proceeds of such issue, the issuer may elect to apply section 149(g)(2) of the Internal Revenue Code of 1986 (as added by this section) by substituting '15 percent' for '10 percent' in subparagraph (A) and '50 percent' for '60 percent' in subparagraph (C).
+Certain other bonds.—In the case of a bond issued before January 1, 1991, with respect to which official action was taken (or a series of official actions were taken), or other comparable preliminary approvalwas given, before November 18, 1989, demonstrating an intent to issue such bonds in a maximum specified amount for such issue or with a maximum specified amount of net proceeds of such issue, the issuer may elect to apply section 149(g)(2) of the Internal Revenue Code of 1986 (as added by this section) by substituting '15 percent' for '10 percent' in subparagraph (A) and '50 percent' for '60 percent' in subparagraph (C).
 
 "(5)
 

@@ -34,7 +34,7 @@ A prior section 7299a was renumbered section 8669a of this title.
 
 A prior section 7300 was renumbered section 8670 of this title.
 
-Another prior section 7300, act Aug. 10, 1956, ch. 1041, 70A, Stat. 450, related to profit limitations on contracts for construction of naval vessels, prior to repeal by Pub. L. 97–86, title IX, §911(b)(1), Dec. 1, 1981, 95 Stat. 1122.
+Another prior section 7300, act Aug. 10, 1956, ch. 1041, 70A, Stat. 450, related to profit limitations on contractsfor construction of naval vessels, prior to repeal by Pub. L. 97–86, title IX, §911(b)(1), Dec. 1, 1981, 95 Stat. 1122.
 
 A prior section 7301 was renumbered section 8671 of this title.
 

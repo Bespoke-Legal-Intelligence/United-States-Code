@@ -44,7 +44,7 @@ Amounts received under a grant under subsection (c) shall be used to conduct act
 
 #### (1) In general
 
-&emsp;A plan described in this subsection is a plan that describes the activities to be carried out by a State or by the qualified State-designated entity within such State to facilitate and expand the electronic movement and use of health information among organizations according to nationally recognized standards and implementation specifications.
+&emsp;A plan described in this subsection is a plan that describes the activities to be carried outby a State or by the qualified State-designated entity within such State to facilitate and expand the electronic movement and use of health information among organizations according to nationally recognized standards and implementation specifications.
 
 #### (2) Required elements
 

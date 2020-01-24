@@ -20,7 +20,7 @@ Of the funds made available for the program under subsection (a), the Secretary 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), none of the funds made available for the program, including for a partnership agreement funded through an alternative funding arrangement or grant agreement under section 3871c(d) ofthis title, may be used to pay for the administrative expenses of eligible partners.
+&emsp;Except as provided in paragraph (2), none of the funds made available for the program, including for a partnership agreement funded through an alternative funding arrangement or grant agreement under section 3871c(d) of this title, may be used to pay for the administrative expenses of eligible partners.
 
 #### (2) Project development and outreach
 

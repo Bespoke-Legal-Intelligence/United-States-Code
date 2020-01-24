@@ -16,7 +16,7 @@ The authority of the Secretary to issue letters of credit and insurance under th
 
 #### (c) Religious activity prohibition
 
-No loan may be made under this part for any educational program, activity or service related to sectarian instruction or religious worship or provided by a school or department of divinityor to an institution in which a substantial portion of its functions is subsumed in a religious mission.
+No loan may be made under this part for any educational program, activity or service related to sectarian instruction or religious worship or provided by a school or department of divinity or to an institution in which a substantial portion of its functions is subsumed in a religious mission.
 
 #### (d) Discrimination prohibition
 

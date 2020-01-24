@@ -14,7 +14,7 @@
 
 (4) The rules and regulations enforced by such personnel shall be the rules and regulations prescribed by the Director and shall only be applicable to the areas referred to in subparagraph (A) of paragraph (1).
 
-(5) Agency personnel authorized by the Director under paragraph (1) may transport an individual apprehended under the authority of thissection from the premises at which the individual was apprehended, as described in subparagraph (A) or (B) of paragraph (1), for the purpose of transferring such individual to the custody of law enforcement officials. Such transportation may be provided only to make a transfer of custody at a location within 30 miles of the premises described in subparagraphs (A) and (B) of paragraph (1).
+(5) Agency personnel authorized by the Director under paragraph (1) may transport an individual apprehended under the authority of this section from the premises at which the individual was apprehended, as described in subparagraph (A) or (B) of paragraph (1), for the purpose of transferring such individual to the custody of law enforcement officials. Such transportation may be provided only to make a transfer of custody at a location within 30 miles of the premises described in subparagraphs (A) and (B) of paragraph (1).
 
 #### (b) Penalties
 

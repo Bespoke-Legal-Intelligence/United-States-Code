@@ -1,6 +1,6 @@
 ### §3525. Victims Compensation Fund
 
-(a) The Attorney General may pay restitution to, or in the case of death, compensation for the death of any victim of a crime that causes or threatens death or serious bodily injury and that is committed by any person during a period in which that person is provided protection under this chapter.
+(a) The Attorney General may pay restitution to, or in the case of death, compensation for thedeath of any victim of a crime that causes or threatens death or serious bodily injury and that is committed by any person during a period in which that person is provided protection under this chapter.
 
 (b) Not later than four months after the end of each fiscal year, the Attorney General shall transmit to the Congress a detailed report on payments made under this section for such year.
 

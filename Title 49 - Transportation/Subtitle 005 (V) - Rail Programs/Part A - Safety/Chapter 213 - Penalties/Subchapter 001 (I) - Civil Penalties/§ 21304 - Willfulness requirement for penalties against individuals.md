@@ -1,6 +1,6 @@
 ### §21304. Willfulness requirement for penalties against individuals
 
-A civil penalty under this subchapter may be imposed against an individual only for a willful violation. An individual is deemed not to have committed a willful violation if the individual was following the direct order of a railroad carrier official or supervisor under protest communicated to the official or supervisor. The individual is entitled to document the protest.
+A civil penalty under this subchapter may be imposed against an individual only for a willfulviolation. An individual is deemed not to have committed a willful violation if the individual was following the direct order of a railroad carrier official or supervisor under protest communicated to the official or supervisor. The individual is entitled to document the protest.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 893.)
 

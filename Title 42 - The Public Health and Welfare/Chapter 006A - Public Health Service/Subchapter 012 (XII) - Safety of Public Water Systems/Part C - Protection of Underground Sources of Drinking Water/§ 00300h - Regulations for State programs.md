@@ -8,7 +8,7 @@
 
 #### (b) Minimum requirements; restrictions
 
-(1) Regulations under subsection (a) for State underground injection programs shall containminimum requirements for effective programs to prevent underground injection which endangers drinking water sources within the meaning of subsection (d)(2). Such regulations shall require that a State program, in order to be approved under section 300h–1 of this title—
+(1) Regulations under subsection (a) for State underground injection programs shall contain minimum requirements for effective programs to prevent underground injection which endangers drinking water sources within the meaning of subsection (d)(2). Such regulations shall require that a State program, in order to be approved under section 300h–1 of this title—
 
 &emsp;(A) shall prohibit, effective on the date on which the applicable underground injection control program takes effect, any underground injection in such State which is not authorized by a permit issued by the State (except that the regulations may permit a State to authorize underground injection by rule);
 

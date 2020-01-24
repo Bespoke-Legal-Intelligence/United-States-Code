@@ -18,7 +18,7 @@ Compilation of Directory Information.—(1) The Secretary of Defense may collect
 
 (5) The Secretary of Defense shall prescribe regulations to carry out this subsection. Regulations prescribed under this subsection shall be submitted to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. Regulations prescribed by the Secretaries concerned to carry out this subsection shall be as uniform as practicable.
 
-(6) Nothing in this subsection shall be construed as requiring, or authorizing the Secretary of Defense to require, that any educational institution furnish directory information to the Secretary.
+(6) Nothing in this subsection shall be construed as requiring, or authorizing the Secretaryof Defense to require, that any educational institution furnish directory information to the Secretary.
 
 (c)
 
@@ -32,7 +32,7 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 (2) If a local educational agency denies a request by the Department of Defense for recruiting access, the Secretary of Defense, in cooperation with the Secretary of the military department concerned, shall designate an officer in a grade not below the grade of colonel or, in the case of the Navy, captain, or a senior executive of that military department to meet with representatives of that local educational agency in person, at the offices of that agency, for the purpose of arranging for recruiting access. The designated officer or senior executive shall seek to have that meeting within 120 days of the date of the denial of the request for recruiting access.
 
-(3) If, after a meeting under paragraph (2) with representatives of a local educational agency that has denied a request for recruiting access or (if the educational agency declines a request for the meeting) after the end of such 120-day period, the Secretary of Defense determines that the agency continues to deny recruiting access,the Secretary shall transmit to the chief executive of the State in which the agency is located a notification of the denial of recruiting access and a request for assistance in obtaining that access. The notification shall be transmitted within 60 days after the date of the determination. The Secretary shall provide to the Secretary of Education a copy of such notification and any other communication between the Secretary and that chief executive with respect to such access.
+(3) If, after a meeting under paragraph (2) with representatives of a local educational agency that has denied a request for recruiting access or (if the educational agency declines a request for the meeting) after the end of such 120-day period, the Secretary of Defense determines that the agency continues to deny recruiting access, the Secretary shall transmit to the chief executive of the State in which the agency is located a notification of the denial of recruiting access and a request for assistance in obtaining that access. The notification shall be transmitted within 60 days after the date of the determination. The Secretary shall provide to the Secretary of Education a copy of such notification and any other communication between the Secretary and that chief executive with respect to such access.
 
 (4) If a local educational agency continues to deny recruiting access one year after the date of the transmittal of a notification regarding that agency under paragraph (3), the Secretary—
 
@@ -120,6 +120,10 @@ Subsec. (a). Pub. L. 97–252, §1114(b)(1)(A), designated existing provisions a
 
 Subsec. (b). Pub. L. 97–252, §1114(b)(1)(B), added subsec. (b).
 
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
@@ -152,7 +156,7 @@ Elements.—Under a pilot program established under this section, an individual 
 
 "(c)
 
-Consultation.—In developing a pilot program for the Army or the Air Force under this section, the Secretary of the Army and the Secretary of the Air Force may consult with the Secretary of the Navy with respect to an existing, similar program carried out by the Secretary of the Navy.
+Consultation.—In developing a pilot program for the Army or the Air Force under this section, the Secretary of the Army and the Secretary of the Air Force may consult with the Secretary of the Navy withrespect to an existing, similar program carried out by the Secretary of the Navy.
 
 "(d)
 
@@ -208,7 +212,7 @@ Limitation on Number of Incentives.—The Secretary of a military department may
 
 "(e)
 
-Limitation on Number of Individuals Receiving Incentives.—The number of individuals who receiveone or more of the recruitment incentives provided under subsection (a) by the Secretary of a military department during a fiscal year for an Armed Force under the jurisdiction of the Secretary may not exceed 20 percent of the accession objective of that Armed Force for that fiscal year.
+Limitation on Number of Individuals Receiving Incentives.—The number of individuals who receive one or more of the recruitment incentives provided under subsection (a) by the Secretary of a military department during a fiscal year for an Armed Force under the jurisdiction of the Secretary may not exceed 20 percent of the accession objective of that Armed Force for that fiscal year.
 
 "(f)
 
@@ -225,6 +229,8 @@ Reporting Requirements.—If the Secretary of a military department provides an 
 "(h)
 
 Termination of Authority to Provide Incentives.—Notwithstanding subsection (f); the authority to provide recruitment incentives under this section expires on December 31, 2020."
+
+\[For termination, effective Dec. 30, 2021, of reporting requirements in section 522(g) of Pub. L. 114–92, set out above, see section 1702(a), (b), of Pub. L. 116–92, set out as a Termination of Reporting Requirements note under section 111 of this title.\]
 
 #### Policy on Military Recruitment and Enlistment of Graduates of Secondary Schools
 
@@ -262,7 +268,7 @@ Covered graduates.—Paragraph (1) applies with respect to \[a\] person who—
 
 "(b)
 
-Policy on Recruitment and Enlistment.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall prescribe a policy on recruitment and enlistment that incorporates the following:
+Policy on Recruitment and Enlistment.—Not later than 180 days after the date of the enactment ofthis Act \[Dec. 31, 2011\], the Secretary of Defense shall prescribe a policy on recruitment and enlistment that incorporates the following:
 
 &emsp;"(1) Means for identifying persons described in subsection (a)(2) who are qualified for recruitment and enlistment in the Armed Forces, which may include the use of a non-cognitive aptitude test, adaptive personality assessment, or other operational attrition screening tool to predict performance, behaviors, and attitudes of potential recruits that influence attrition and the ability to adapt to a regimented life in the Armed Forces.
 
@@ -390,7 +396,7 @@ In general.—The Secretary may not develop an incentive under this section, or 
 
 &emsp;"(2)
 
-Continuation of incentives.—Nothing in paragraph (1) shall be construed to prohibit or limit the continuing provision to an individual after the date specified in that paragraph of an incentive first provided the individual under this section before that date."
+Continuation of incentives.—Nothing in paragraph (1) shall be construed to prohibit or limit thecontinuing provision to an individual after the date specified in that paragraph of an incentive first provided the individual under this section before that date."
 
 #### Enhanced Screening Methods and Process Improvements for Recruitment of Home Schooled and National Guard Challenge Program GED Recipients
 
@@ -558,7 +564,7 @@ Specific Reforms.—As part of the reforms in military recruiting systems to be 
 
 &emsp;"(4) Require that the Secretary of each military department include as a measurement of recruiter performance the percentage of persons enlisted by a recruiter who complete initial combat training or basic training.
 
-&emsp;"(5) Assess trends in the number and use of waivers over the 1991–1997 period that were issued to permit applicants to enlist with medical or other conditions that would otherwise be disqualifying.
+&emsp;"(5) Assess trends in the number and use of waivers over the 1991–1997 period that were issued to permitapplicants to enlist with medical or other conditions that would otherwise be disqualifying.
 
 &emsp;"(6) Require the Secretary of each military department to implement policies and procedures (A) to ensure the prompt separation of recruits who are unable to successfully complete basic training, and (B) to remove those recruits from the training environment while separation proceedings are pending.
 

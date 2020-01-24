@@ -6,7 +6,7 @@ The Act entitled "An Act to express the intent of Congress with reference to the
 
 #### (b) Mandatory insurance licensing requirements
 
-No person shall engage in the business of insurance in a State as principal or agent unlesssuch person is licensed as required by the appropriate insurance regulator of such State in accordance with the relevant State insurance law, subject to subsections (c), (d), and (e).
+No person shall engage in the business of insurance in a State as principal or agent unless such person is licensed as required by the appropriate insurance regulator of such State in accordance with the relevant State insurance law, subject to subsections (c), (d), and (e).
 
 #### (c) Affiliations
 
@@ -34,7 +34,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (3), and except with respect to insurance sales, solicitation, and cross marketing activities, which shall be governed by paragraph (2), no State may, by statute, regulation, order, interpretation, or other action, prevent or restrict a depository institution or an affiliate thereof from engaging directly or indirectly, either by itself or in conjunction with an affiliate, or any other person, in any activity authorized or permitted under this Act and the amendments made by this Act.
+&emsp;Except as provided in paragraph (3), and except with respect to insurance sales, solicitation, and cross marketing activities, which shall be governed by paragraph (2), no State may, by statute, regulation, order, interpretation, or other action, prevent or restrict a depository institution or an affiliate thereof from engaging directly or indirectly, either by itself or in conjunction with an affiliate, or any other person, in any activity authorizedor permitted under this Act and the amendments made by this Act.
 
 #### (2) Insurance sales
 
@@ -72,7 +72,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;&emsp;(I) from engaging in any activity described in this clause that would not violate section 106 of the Bank Holding Company Act Amendments of 1970 \[12 U.S.C. 1971 et seq.\], as interpreted by the Board of Governors of the Federal Reserve System; or
 
-&emsp;&emsp;&emsp;&emsp;(II) from informing a customer or prospective customer that insurance is required in order to obtain a loan or credit, that loan or credit approval is contingent upon the procurement by the customer of acceptable insurance, or that insurance is available from the depository institution or an affiliate of the depository institution.
+&emsp;&emsp;&emsp;&emsp;(II) from informing a customer or prospective customer that insurance is required in order to obtain a loan or credit, that loan or credit approval is contingent upon the procurement by the customer of acceptable insurance, or thatinsurance is available from the depository institution or an affiliate of the depository institution.
 
 &emsp;&emsp;&emsp;(ix) Restrictions requiring, when an application by a consumer for a loan or other extension of credit from a depository institution is pending, and insurance is offered or sold to the consumer or is required in connection with the loan or extension of credit by the depository institution or any affiliate thereof, that a written disclosure be provided to the consumer or prospective customer indicating that the customer's choice of an insurance provider will not affect the credit decision or credit terms in any way, except that the depository institution may impose reasonable requirements concerning the creditworthiness of the insurer and scope of coverage chosen.
 
@@ -90,7 +90,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;(xii) Restrictions prohibiting, when a customer obtains insurance (other than credit insurance or flood insurance) and credit from a depository institution or an affiliate of such institution, or any person soliciting the purchase of or selling insurance on the premises thereof, inclusion of the expense of insurance premiums in the primary credit transaction without the express written consent of the customer.
 
-&emsp;&emsp;&emsp;(xiii) Restrictions requiring maintenance of separate and distinct books and records relating to insurance transactions, including all files relating to and reflecting consumer complaints, and requiring that suchinsurance books and records be made available to the appropriate State insurance regulator for inspection upon reasonable notice.
+&emsp;&emsp;&emsp;(xiii) Restrictions requiring maintenance of separate and distinct books and records relating to insurance transactions, including all files relating to and reflecting consumer complaints, and requiring that such insurance books and records be made available to the appropriate State insurance regulator for inspection upon reasonable notice.
 
 #### (C) Limitations
 
@@ -198,11 +198,15 @@ For purposes of this section, the following definitions shall apply:
 
 #### References in Text
 
-The McCarran-Ferguson Act, referred to in subsecs. (a) and (d)(3)(A), is act Mar. 9, 1945, ch. 20, 59 Stat. 33, which is classified generally to chapter 20 (§1011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1011 of this title and Tables.
+The McCarran-Ferguson Act, referred to in subsecs. (a) and (d)(3)(A), is act Mar. 9, 1945, ch. 20, 59 Stat. 33,which is classified generally to chapter 20 (§1011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1011 of this title and Tables.
 
 This Act, referred to in subsecs. (c)(1), (d)(1), (4)(D)(iii), (iv), (e), and (f)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (d)(2)(B)(viii)(I), is Pub. L. 91–607, title I, §106, Dec. 31, 1970, 84 Stat. 1766, as amended, which is classified generally to chapter 22 (§1971 et seq.) of Title 12, Banks and Banking.
+
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–94, div. I, title V, §501, Dec. 20, 2019, 133 Stat. 3026, provided that: "This title \[amending provisions set out as a note under this section\] may be cited as the 'Terrorism Risk Insurance Program Reauthorization Act of 2019'."
 
 #### Short Title of 2015 Amendment
 
@@ -236,7 +240,7 @@ Finding.—Congress finds that it is desirable to encourage the growth of nongov
 
 &emsp;"(2)
 
-Rule of construction.—Nothing in this Act \[see section 1(a) of Pub. L. 114–1, set out as a ShortTitle of 2015 Amendment note above\], any amendment made by this Act, or the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) \[see Short Title of 2002 Amendment note above\] shall prohibit insurers from developing risk-sharing mechanisms to voluntarily reinsure terrorism losses between and among themselves.
+Rule of construction.—Nothing in this Act \[see section 1(a) of Pub. L. 114–1, set out as a Short Title of 2015 Amendment note above\], any amendment made by this Act, or the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) \[see Short Title of 2002 Amendment note above\] shall prohibit insurers from developing risk-sharing mechanisms to voluntarily reinsure terrorism losses between and among themselves.
 
 "(b)
 
@@ -256,7 +260,7 @@ Membership.—The Advisory Committee shall be composed of 9 members who are dire
 
 #### Terrorism Insurance Program
 
-Pub. L. 107–297, title I, Nov. 26, 2002, 116 Stat. 2322, as amended by Pub. L. 109–144, §§2–8, Dec. 22, 2005, 119 Stat. 2660–2662; Pub. L. 110–160, §§2–5, Dec. 26, 2007, 121 Stat. 1839–1841, Pub. L. 114–1, title I, §§101–106, 107(e), 111, 112, Jan. 12, 2015, 129 Stat. 3–5, 8, 10, 12, provided that:
+Pub. L. 107–297, title I, Nov. 26, 2002, 116 Stat. 2322, as amended by Pub. L. 109–144, §§2–8, Dec. 22, 2005, 119 Stat. 2660–2662; Pub. L. 110–160, §§2–5, Dec. 26, 2007, 121 Stat. 1839–1841, Pub. L. 114–1, title I, §§101–106, 107(e), 111, 112, Jan. 12, 2015, 129 Stat. 3–5, 8, 10, 12; Pub. L. 116–94, div. I, title V, §502(a)–(c), Dec. 20, 2019, 133 Stat. 3026, 3027, provided that:
 
 #### "SEC. 101. CONGRESSIONAL FINDINGS AND PURPOSE.
 
@@ -274,7 +278,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(5) a decision by property and casualty insurers to deal with such uncertainties, either by terminating property and casualty coverage for losses arising from terrorist events, or by radically escalating premium coverage to compensate for risks of loss that are not readily predictable, could seriously hamper ongoing and planned construction, property acquisition, and other business projects, generate a dramatic increase in rents, and otherwise suppress economic activity; and
 
-&emsp;"(6) the United States Government should provide temporary financial compensation to insured parties, contributing to the stabilization of the United States economy in a time of national crisis, while the financial services industry develops the systems, mechanisms, products, and programs necessary to create a viable financial services market for private terrorism risk insurance.
+&emsp;"(6) the United States Government should provide temporary financial compensation to insured parties, contributing to the stabilization of the United Stateseconomy in a time of national crisis, while the financial services industry develops the systems, mechanisms, products, and programs necessary to create a viable financial services market for private terrorism risk insurance.
 
 "(b)
 
@@ -596,7 +600,7 @@ Report to congress.—Not later than 120 days after the date of enactment of the
 
 &emsp;"(3)
 
-Notice to congress.—The Secretary shall notify the Congress if estimated or actual aggregate insured losses exceed $100,000,000,000 during any calendar year. The Secretary shall provide an initial notice to Congress not later than 15 days after the dateof an act of terrorism, stating whether the Secretary estimates that aggregate insured losses will exceed $100,000,000,000.
+Notice to congress.—The Secretary shall notify the Congress if estimated or actual aggregate insured losses exceed $100,000,000,000 during any calendar year. The Secretary shall provide an initial notice to Congress not later than 15 days after the date of an act of terrorism, stating whether the Secretary estimates that aggregate insured losses will exceed $100,000,000,000.
 
 &emsp;"(4)
 
@@ -680,11 +684,11 @@ Timing of mandatory recoupment.—
 
 In general.—If the Secretary is required to collect terrorism loss risk-spreading premiums under subparagraph (C)—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) for any act of terrorism that occurs on or before December 31, 2017, the Secretary shall collect all required premiums by September 30, 2019;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) for any act of terrorism that occurs on or before December 31, 2022, the Secretary shall collect all required premiums by September 30, 2024;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) for any act of terrorism that occurs between January 1 and December 31, 2018, the Secretary shall collect 35 percent of any required premiums by September 30, 2019, and the remainder by September 30, 2024; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) for any act of terrorism that occurs between January 1 and December 31, 2023, the Secretary shall collect 35 percent of any required premiums by September 30, 2024, and the remainder by September 30, 2029; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) for any act of terrorism that occurs on or after January 1, 2019, the Secretary shall collect all required premiums by September 30, 2024.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) for any act of terrorism that occurs on or after January 1, 2024, the Secretary shall collect all required premiums by September 30, 2029.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -724,7 +728,7 @@ Adjustments.—In determining the method and manner of imposing terrorism loss r
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the economic impact on commercial centers of urban areas, including the effect on commercial rents and commercial insurance premiums, particularly rents and premiums charged to small businesses, and the availability of lease space and commercial insurance within urban areas;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the risk factors related to rural areas and smaller commercial centers, including thepotential exposure to loss and the likely magnitude of such loss, as well as any resulting cross-subsidization that might result; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the risk factors related to rural areas and smaller commercial centers, including the potential exposure to loss and the likely magnitude of such loss, as well as any resulting cross-subsidization that might result; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the various exposures to terrorism risk for different lines of insurance.
 
@@ -846,7 +850,7 @@ In general.—The Secretary shall annually compile information on the terrorism 
 
 &emsp;"(2)
 
-Access to information.—To the extent that such information is not otherwise available to the Secretary, the Secretary may require each insurer tosubmit to the NAIC terrorism risk insurance premium rates, as necessary to carry out paragraph (1), and the NAIC shall make such information available to the Secretary.
+Access to information.—To the extent that such information is not otherwise available to the Secretary, the Secretary may require each insurer to submit to the NAIC terrorism risk insurance premium rates, as necessary to carry out paragraph (1), and the NAIC shall make such information available to the Secretary.
 
 &emsp;"(3)
 
@@ -892,13 +896,15 @@ Reports.—Not later than June 30, 2016, and every other June 30 thereafter, the
 
 &emsp;&emsp;"(A) an analysis of the overall effectiveness of the Program;
 
-&emsp;&emsp;"(B) an evaluation of any changes or trends in the data collected under paragraph (1);
+&emsp;&emsp;"(B) an evaluation of the availability and affordability of terrorism risk insurance, which shall include an analysis of such availability and affordability specifically for places of worship;
 
-&emsp;&emsp;"(C) an evaluation of whether any aspects of the Program have the effect of discouraging or impeding insurers from providing commercial property casualty insurance coverage or coverage for acts of terrorism;
+&emsp;&emsp;"(C) an evaluation of any changes or trends in the data collected under paragraph (1);
 
-&emsp;&emsp;"(D) an evaluation of the impact of the Program on workers' compensation insurers; and
+&emsp;&emsp;"(D) an evaluation of whether any aspects of the Program have the effect of discouraging or impeding insurers from providing commercial property casualty insurance coverage or coverage for acts of terrorism;
 
-&emsp;&emsp;"(E) in the case of the data reported in paragraph (1)(B), an updated estimate of the total amount earned since January 1, 2003.
+&emsp;&emsp;"(E) an evaluation of the impact of the Program on workers' compensation insurers; and
+
+&emsp;&emsp;"(F) in the case of the data reported in paragraph (1)(B), an updated estimate of the total amount earned since January 1, 2003.
 
 &emsp;"(3)
 
@@ -998,7 +1004,7 @@ Substantive law.—The substantive law for decision in any such action described
 
 &emsp;"(4)
 
-Jurisdiction.—For each determination described in paragraph (1), not later than 90 days after the occurrence of an act of terrorism, the Judicial Panel on Multidistrict Litigation shall designate 1 district court or, if necessary, multiple district courts of the United States that shall have original and exclusive jurisdiction over all actions for any claim (including any claim for loss of property, personal injury, or death) relating to or arising out of an act of terrorism subject to this section. The Judicial Panel on Multidistrict Litigation shall select and assign the district court or courts based on the convenience of the parties and the just and efficient conduct of the proceedings. For purposes of personal jurisdiction, the district court or courts designated by the Judicial Panel on Multidistrict Litigation shall be deemed to sit in all judicial districts in the United States.
+Jurisdiction.—For each determination described in paragraph (1), not later than 90 days after the occurrence of an act of terrorism, the Judicial Panel on Multidistrict Litigation shall designate 1 district court or, if necessary, multiple district courts of the United States that shall have original and exclusive jurisdiction over all actions for any claim (including any claim for loss of property, personal injury, or death) relating to or arising out of anact of terrorism subject to this section. The Judicial Panel on Multidistrict Litigation shall select and assign the district court or courts based on the convenience of the parties and the just and efficient conduct of the proceedings. For purposes of personal jurisdiction, the district court or courts designated by the Judicial Panel on Multidistrict Litigation shall be deemed to sit in all judicial districts in the United States.
 
 &emsp;"(5)
 
@@ -1032,7 +1038,7 @@ Effective Period.—This section shall apply only to actions described in subsec
 
 "(a)
 
-Termination of Program.—The Program shall terminate on December 31, 2020.
+Termination of Program.—The Program shall terminate on December 31, 2027.
 
 "(b)
 

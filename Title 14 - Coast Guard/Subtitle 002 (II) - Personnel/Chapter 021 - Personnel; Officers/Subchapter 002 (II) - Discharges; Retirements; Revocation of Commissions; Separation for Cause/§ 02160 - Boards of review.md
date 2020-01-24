@@ -1,6 +1,6 @@
 ### §2160. Boards of review
 
-(a) Boards of review shall be convened at such times as the Secretary may prescribe, to review the records of cases of officers recommended by boards of inquiry for removal.
+(a) Boards of review shall be convened at such times as the Secretary may prescribe, to reviewthe records of cases of officers recommended by boards of inquiry for removal.
 
 (b) If, after reviewing the record of the case, a board of review determines that the officer has failed to establish that he should be retained, it shall send its recommendation to the Secretary for his action.
 

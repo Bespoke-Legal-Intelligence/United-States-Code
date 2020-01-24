@@ -6,7 +6,7 @@ The responsibilities of an eligible agency under this subchapter shall include�
 
 &emsp;(1) coordination of the development, submission, and implementation of the State plan, and the evaluation of the program, services, and activities assisted under this subchapter, including preparation for non-traditional fields;
 
-&emsp;(2) consultation with the Governor and appropriate agencies, groups, and individuals including parents, students, teachers, teacher and faculty preparation programs, representatives of businesses (including small businesses), labor organizations, eligible recipients, State and local officials, and local program administrators, involved in the planning, administration, evaluation, and coordination of programs funded under this subchapter;
+&emsp;(2) consultation with the Governor and appropriate agencies, groups, and individuals including teachers, faculty, specialized instructional support personnel, paraprofessionals, school leaders, authorized public chartering agencies and charter school leaders (consistent with State law), employers, representatives of business (including small businesses), labor organizations, eligible recipients, local program administrators, State and local officials, Indian Tribes or Tribal organizations present in the State, parents, students, and community organizations;
 
 &emsp;(3) convening and meeting as an eligible agency (consistent with State law and procedure for the conduct of such meetings) at such time as the eligible agency determines necessary to carry out the eligible agency's responsibilities under this subchapter, but not less than 4 times annually; and
 
@@ -22,10 +22,6 @@ Except with respect to the responsibilities set forth in subsection (a), the eli
 
 (Pub. L. 88–210, title I, §121, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 715; amended Pub. L. 113–128, title V, §512(e)(2), July 22, 2014, 128 Stat. 1706; Pub. L. 115–224, title I, §121, July 31, 2018, 132 Stat. 1599.)
 
-#### Amendment of Subsection (a)(2)
-
-<i>Pub. L. 115–224, §4, title I, §121, July 31, 2018, 132 Stat. 1564, 1599, amended subsection (a)(2) of this section, effective July 1, 2019. After July 1, 2019, subsection (a)(2) will read as follows: "(2) consultation with the Governor and appropriate agencies, groups, and individuals including teachers, faculty, specialized instructional support personnel, paraprofessionals, school leaders, authorized public chartering agencies and charter school leaders (consistent with State law), employers, representatives of business (including small businesses), labor organizations, eligible recipients, local program administrators, State and local officials, Indian Tribes or Tribal organizations present in the State, parents, students, and community organizations;". See 2018 Amendment note below.</i>
-
 #### Prior Provisions
 
 A prior section 2341, Pub. L. 88–210, title I, §121, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3102, related to State administration, prior to the general amendment of this chapter by Pub. L. 109–270.
@@ -36,7 +32,7 @@ Section 2341, Pub. L. 88–210, title II, §231, as added Pub. L. 101–392, tit
 
 Another prior section 2341, Pub. L. 88–210, title II, §251, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2455; amended Pub. L. 100–418, title VI, §6132, Aug. 23, 1988, 102 Stat. 1511, related to the uses of the portion of a State's allotment available for vocational education program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
 
-Section 2341a, Pub. L. 88–210, title II, §232, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 781; amended Pub. L. 103–208, §4, Dec. 20, 1993, 107 Stat. 2487; Pub. L. 103–382, title III, §351(a)(1), Oct. 20, 1994, 108 Stat. 3966; Pub. L. 104–193, title I, §110(i)(2), Aug. 22, 1996, 110 Stat. 2172, related to distribution of funds to postsecondary and adult programs. See section 2352 of this title.
+Section 2341a, Pub. L. 88–210, title II, §232, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 781; amended Pub. L. 103–208, §4, Dec. 20, 1993, 107 Stat. 2487; Pub. L. 103–382, title III, §351(a)(1), Oct. 20, 1994, 108 Stat. 3966; Pub. L. 104–193, title I, §110(i)(2), Aug. 22, 1996, 110 Stat. 2172, related to distribution of funds topostsecondary and adult programs. See section 2352 of this title.
 
 Section 2341b, Pub. L. 88–210, title II, §233, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 782, related to special rule for minimal allocations. See section 2353 of this title.
 

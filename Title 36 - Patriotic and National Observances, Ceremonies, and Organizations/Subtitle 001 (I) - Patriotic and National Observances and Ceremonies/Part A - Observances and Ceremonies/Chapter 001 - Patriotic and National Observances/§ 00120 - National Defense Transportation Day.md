@@ -4,7 +4,7 @@ The President is requested to issue each year a proclamation—
 
 &emsp;(1) designating the third Friday in May as National Defense Transportation Day; and
 
-&emsp;(2) urging the people of the United States, including labor, management, users, and investors, in all communities served by the various forms of transportation to observe National Defense Transportation Day by appropriate ceremonies that will give complete recognition to the importance to each community and its people of the transportation system of the United States and the maintenance of the facilities of the system in the most modern state of adequacy to serve the needs of the United States in times of peace and in national defense.
+&emsp;(2) urging the people of the United States, including labor, management, users, and investors, in all communities served by the various forms of transportation to observe National Defense Transportation Day by appropriate ceremonies that will give complete recognition to the importance to each community and its people of the transportation system of the United States and the maintenance of the facilities of the system in the mostmodern state of adequacy to serve the needs of the United States in times of peace and in national defense.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1258.)
 

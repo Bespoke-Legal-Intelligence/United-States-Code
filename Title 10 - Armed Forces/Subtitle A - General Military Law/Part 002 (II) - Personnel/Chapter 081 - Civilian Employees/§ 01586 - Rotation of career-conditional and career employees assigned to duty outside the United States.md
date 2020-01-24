@@ -16,7 +16,7 @@
 
 &emsp;(1) The employee shall be placed in the position which he held immediately before his assignment to duty outside the United States, if such position exists.
 
-&emsp;(2) If such position does not exist, or with his consent, the employee shall be placed in a vacant existing position, or in a new continuing position, for which he is qualified, available for the purposes of this section in the department concerned, in the same geographical area as, with rights and benefits equal to the rights and benefits of, and in a grade equal to the grade of, the position which he held immediately before his assignment to duty outside the United States.
+&emsp;(2) If such position does not exist, or with his consent, the employee shall be placed in a vacant existing position, or in a new continuing position, for which he is qualified, available for the purposes of this section in the department concerned, in the same geographical area as, with rights and benefits equal to the rights and benefits of, and in a grade equal tothe grade of, the position which he held immediately before his assignment to duty outside the United States.
 
 &emsp;(3) If the positions described in paragraph (1) and paragraph (2) do not exist, the employee shall be placed in an additional position which shall be established by the department concerned for a period not in excess of 90 days in order to carry out the purposes of this section. Such additional position shall be in the same geographical area as, with rights and benefits not less than the rights and benefits of, and in a grade not lower than the grade of, the position held by the employee immediately before his assignment to duty outside the United States.
 
@@ -24,7 +24,7 @@
 
 &emsp;(5) If, within the 90-day period referred to in paragraphs (3) and (4), the employee cannot be placed in a position under paragraph (4), he shall be reassigned or separated under the regulations prescribed by the Office of Personnel Management to carry out sections 3501–3503 of title 5.
 
-&emsp;(6) If there is a termination of or material change in the activity in which the former position of the employee (referred to in paragraph (1)) was located, he shall be placed, inthe manner provided by paragraphs (2), (3), and (4), as applicable, in a position in the department concerned in a geographical area other than the geographical area in which such former position was located.
+&emsp;(6) If there is a termination of or material change in the activity in which the former position of the employee (referred to in paragraph (1)) was located, he shall be placed, in the manner provided by paragraphs (2), (3), and (4), as applicable, in a position in the department concerned in a geographical area other than the geographical area in which such former position was located.
 
 (d) Each employee who is placed in a position under paragraph (1), (2), (3), (4), or (6) of subsection (c) shall be paid at a rate of basic pay which is not less than the rate of basic pay to which he would have been entitled if he had not been assigned to duty outside the United States.
 

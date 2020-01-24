@@ -92,7 +92,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classificationof this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -100,7 +100,7 @@ A prior section 211 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045;
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–96 added pars. (1) to (3), redesignated former par. (3) as (4), and struck outformer pars. (1) and (2) which related to participant's contributions and agency contributions, respectively.
+<b>2012</b>—Subsec. (a). Pub. L. 112–96 added pars. (1) to (3), redesignated former par. (3) as (4), and struck out former pars. (1) and (2) which related to participant's contributions and agency contributions, respectively.
 
 <b>1993</b>—Subsec. (c)(2)(B). Pub. L. 103–178 substituted "prior notification of a current spouse, if any, unless the participant establishes to the satisfaction of the Director, in accordance with regulations which the Director may prescribe, that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the current spouse" for "the requirement under section 2071(b)(4) of this title".
 

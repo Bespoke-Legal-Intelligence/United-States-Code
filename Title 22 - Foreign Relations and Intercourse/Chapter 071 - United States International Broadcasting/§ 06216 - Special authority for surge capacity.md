@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to the President such sums as may be necessary for the President to carry out this section, except that no such amount may be appropriated which, when added to amounts previously appropriated for such purpose but not yet obligated, would cause such amounts to exceed $25,000,000.
+&emsp;There are authorized to be appropriated to the President such sums as may be necessaryfor the President to carry out this section, except that no such amount may be appropriated which, when added to amounts previously appropriated for such purpose but not yet obligated, would cause such amounts to exceed $25,000,000.
 
 #### (2) Availability of funds
 
@@ -38,13 +38,17 @@ The annual report submitted to the President and Congress by the Broadcasting Bo
 
 (Pub. L. 103–236, title III, §316, as added Pub. L. 110–53, title XX, §2031(c), Aug. 3, 2007, 121 Stat. 516.)
 
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 #### Finding; Sense of Congress
 
 Pub. L. 110–53, title XX, §2031(a), (b), Aug. 3, 2007, 121 Stat. 515, provided that:
 
 "(a)
 
-Finding.—Congress finds that the report of the National Commission on Terrorist Attacks Upon the United States stated that 'Recognizing that Arab and Muslim audiences rely on satellite television and radio, the government has begun some promising initiatives in television and radio broadcasting to the Arab world, Iran, and Afghanistan. These efforts are beginning to reach large audiences. The Broadcasting Board of Governors has asked for much larger resources. It should get them.'.
+Finding.—Congress finds that the report of the National Commission on Terrorist Attacks Upon the United States stated that 'Recognizing that Arab and Muslim audiences rely on satellite television and radio, the government has begun some promising initiatives in television and radio broadcasting to the Arab world, Iran, and Afghanistan. These efforts are beginning to reach large audiences. The Broadcasting Board of Governors \[now United States Agency for Global Media\] has asked for much larger resources. It should get them.'.
 
 "(b)
 

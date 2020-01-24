@@ -30,7 +30,7 @@ On or before June 30, 2009, the President shall make determinations pursuant to 
 
 &emsp;(2) the reasons for such determinations.
 
-(Pub. L. 102–182, title II, §208, Dec. 4, 1991, 105 Stat. 1244; Pub. L. 107–210, div. C, title XXXI, §3104(a), Aug. 6, 2002, 116 Stat. 1034; Pub. L. 109–432, div. D, title VII, §7002, Dec. 20, 2006, 120 Stat. 3194; Pub. L. 110–42, §1, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, §2(a), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(a), Oct. 16, 2008, 122 Stat. 4976; Pub. L. 111–124, §2(a), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(a), (b), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–42, title V, §501(a), Oct. 21, 2011, 125 Stat. 494.)
+(Pub. L. 102–182, title II, §208, Dec. 4, 1991, 105 Stat. 1244; Pub. L. 107–210, div. C, title XXXI, §3104(a), Aug. 6, 2002, 116 Stat. 1034; Pub. L.109–432, div. D, title VII, §7002, Dec. 20, 2006, 120 Stat. 3194; Pub. L. 110–42, §1, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, §2(a), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(a), Oct. 16, 2008, 122 Stat. 4976; Pub. L. 111–124, §2(a), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(a), (b), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–42, title V, §501(a), Oct. 21, 2011, 125 Stat. 494.)
 
 #### Amendments
 

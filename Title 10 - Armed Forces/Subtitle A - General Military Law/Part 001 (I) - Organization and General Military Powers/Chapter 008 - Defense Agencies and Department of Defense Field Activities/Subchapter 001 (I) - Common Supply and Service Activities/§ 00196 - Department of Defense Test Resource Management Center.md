@@ -8,7 +8,7 @@ Establishment as Department of Defense Field Activity.—The Secretary of Defens
 
 Director and Deputy Director.—(1) At the head of the Center shall be a Director, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation.
 
-(2) There shall be a Deputy Director of the Center, selected by the Secretary from amongindividuals who have substantial experience in the field of test and evaluation. The Deputy Director shall act for, and exercise the powers of, the Director when the Director is disabled or the position of Director is vacant.
+(2) There shall be a Deputy Director of the Center, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation. The Deputy Director shall act for, and exercise the powers of, the Director when the Director is disabled or the position of Director is vacant.
 
 (c)
 
@@ -52,13 +52,13 @@ Strategic Plan for Department of Defense Test and Evaluation Resources.—(1) No
 
 (3) Upon completing a strategic plan under paragraph (1), the Director shall submit to the Secretary of Defense a report on that plan. The report shall include the plan and a description of the review on which the plan is based.
 
-(4) Not later than 60 days after the date on which the report is submitted under paragraph (3), the Secretary of Defense shall transmit to the Committee on Armed Services and Committee on Appropriations of the Senate and the Committee on Armed Services and Committee on Appropriations of the House of Representatives the report, together with any comments with respect to the report that the Secretary considers appropriate.
+(4) Not later than 60 days after the date on which the report is submitted under paragraph\(3), the Secretary of Defense shall transmit to the Committee on Armed Services and Committee on Appropriations of the Senate and the Committee on Armed Services and Committee on Appropriations of the House of Representatives the report, together with any comments with respect to the report that the Secretary considers appropriate.
 
 (e)
 
 Certification of Budgets.—(1) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require that the Secretary of each military department and the head of each Defense Agency with test and evaluation responsibilities transmit such Secretary's or Defense Agency head's proposed budget for test and evaluation activities, including modeling and simulation activities, for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year to the Director of the Center for review under paragraph (2) before submitting such proposed budget to the Under Secretary of Defense (Comptroller).
 
-(2)(A) The Director of the Center shall review each proposed budget transmitted under paragraph (1) and shall, not later than January 31 ofthe year preceding the fiscal year for which such budgets are proposed, submit to the Secretary of Defense a report containing the comments of the Director with respect to all such proposed budgets, together with the certification of the Director as to whether such proposed budgets are adequate.
+(2)(A) The Director of the Center shall review each proposed budget transmitted under paragraph (1) and shall, not later than January 31 of the year preceding the fiscal year for which such budgets are proposed, submit to the Secretary of Defense a report containing the comments of the Director with respect to all such proposed budgets, together with the certification of the Director as to whether such proposed budgets are adequate.
 
 (B) The Director shall also submit, together with such report and such certification, an additional certification as to whether such proposed budgets provide balanced support for such strategic plan.
 
@@ -118,7 +118,7 @@ Subsec. (e)(1). Pub. L. 113–291, §214(c), inserted "and for the period covere
 
 Subsecs. (f) to (i). Pub. L. 113–291, §214(d), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
-<b>2009</b>—Subsec. (c). Pub. L. 111–84 inserted par. (1) designation before "The Director", redesignated formerpar. (1) as subpar. (A) and former subpars. (A) and (B) as cl. (i) and (ii), respectively, of subpar. (A), added subpar. (B), redesignated former pars. (2) to (4) as subpars. (C) to (E), respectively, and added par. (2).
+<b>2009</b>—Subsec. (c). Pub. L. 111–84 inserted par. (1) designation before "The Director", redesignated former par. (1) as subpar. (A) and former subpars. (A) and (B) as cl. (i) and (ii), respectively, of subpar. (A), added subpar. (B), redesignated former pars. (2) to (4) as subpars. (C) to (E), respectively, and added par. (2).
 
 <b>2006</b>—Subsec. (b)(1). Pub. L. 109–163, §902(a), substituted "individuals who have substantial experience in the field of test and evaluation." for "commissioned officers of the armed forces on active duty or from among senior civilian officers and employees of the Department of Defense."
 

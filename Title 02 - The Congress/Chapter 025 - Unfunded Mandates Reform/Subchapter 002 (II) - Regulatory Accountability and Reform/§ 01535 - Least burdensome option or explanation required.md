@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (b), before promulgating any rule for which a written statement is required under section 1532 of this title, the agency shall identify and consider a reasonable number of regulatory alternatives and from those alternatives select the least costly, most cost-effective or least burdensome alternative that achieves the objectives of the rule, for—
+Except as provided in subsection (b), before promulgating any rule for which a written statement is required under section 1532 of this title, the agency shall identify and consider a reasonable number of regulatory alternatives and fromthose alternatives select the least costly, most cost-effective or least burdensome alternative that achieves the objectives of the rule, for—
 
 &emsp;(1) State, local, and tribal governments, in the case of a rule containing a Federal intergovernmental mandate; and
 

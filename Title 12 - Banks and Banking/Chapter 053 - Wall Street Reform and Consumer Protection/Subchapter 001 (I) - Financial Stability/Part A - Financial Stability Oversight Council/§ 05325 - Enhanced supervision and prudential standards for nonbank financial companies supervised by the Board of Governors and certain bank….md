@@ -138,10 +138,6 @@ The Council may make recommendations to the Board of Governors to require short-
 
 (Pub. L. 111–203, title I, §115, July 21, 2010, 124 Stat. 1403; Pub. L. 115–174, title IV, §401(c)(1)(A), May 24, 2018, 132 Stat. 1358.)
 
-#### Delayed Effective Date of Amendment
-
-<i>For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under section 5365 of this title.</i>
-
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–174 substituted "the applicable threshold" for "$50,000,000,000".

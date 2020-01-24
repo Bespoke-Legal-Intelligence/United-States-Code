@@ -22,7 +22,7 @@ Each alien who applies for a visa shall be registered in connection with his app
 
 #### (2) Nonimmigrant visas
 
-&emsp;A nonimmigrant visa shall be valid for such periods as shall be by regulations prescribed. In prescribing the period of validity of a nonimmigrant visa in the case of nationals of any foreign country who are eligible for such visas, the Secretary of State shall, insofar as practicable, accord to such nationals the same treatment upon a reciprocal basis as such foreign country accords to nationals of the United States who are within a similar class; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States.
+&emsp;A nonimmigrant visa shall be valid for such periods as shall be by regulations prescribed. In prescribing the period of validity of a nonimmigrant visa in the case of nationals of any foreign country who are eligible for such visas, the Secretary of State shall, insofar as practicable, accord to such nationals the same treatment upon a reciprocal basis as such foreign country accords to nationals of theUnited States who are within a similar class; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States.
 
 #### (3) Visa replacement
 
@@ -122,7 +122,7 @@ Pub. L. 102–232, title III, §302(e)(8), Dec. 12, 1991, 105 Stat. 1746, provid
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, seesection 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -212,7 +212,7 @@ Aliens Covered.—An alien is described in this subsection if the alien—
 
 &emsp;"(1)(A) is chargeable under section 202 of the Immigration and Nationality Act \[8 U.S.C. 1152\] to Hong Kong or China, and
 
-&emsp;"(B)(i) is residing in Hong Kong as of the date of the enactment of this Act \[Nov. 29, 1990\] and is issued an immigrant visa under paragraph (1), (2), (4), or (5) of section 203(a) of the Immigration and Nationality Act \[8 U.S.C. 1153(a)\] (as in effect on the date of the enactment of this Act) or under section 203(a) or 203(b)(1) of such Act (as in effect on and after October 1, 1991), or (ii) is the spouse or child (as defined insubsection (d)) of an alien described in clause (i), if accompanying or following to join the alien in coming to the United States; or
+&emsp;"(B)(i) is residing in Hong Kong as of the date of the enactment of this Act \[Nov. 29, 1990\] and is issued an immigrant visa under paragraph (1), (2), (4), or (5) of section 203(a) of the Immigration and Nationality Act \[8 U.S.C. 1153(a)\] (as in effect on the date of the enactment of this Act) or under section 203(a) or 203(b)(1) of such Act (as in effect on and after October 1, 1991), or (ii) is the spouse or child (as defined in subsection (d)) of an alien described in clause (i), if accompanying or following to join the alien in coming to the United States; or
 
 &emsp;"(2) is issued a visa under section 124 of this Act \[enacting provisions set out as a note under section 1153 of this title\].
 

@@ -40,7 +40,7 @@
 
 #### (c) Records
 
-A State educational agency that consolidates administrative funds under this section shall not be required to keep separate records, by individual program, to account for costs relatingto the administration of programs included in the consolidation under subsection (a).
+A State educational agency that consolidates administrative funds under this section shall not be required to keep separate records, by individual program, to account for costs relating to the administration of programs included in the consolidation under subsection (a).
 
 #### (d) Review
 

@@ -38,7 +38,7 @@ Joint Federal-industry corporations proposed for congressional authorization pur
 
 &emsp;(5) The estimated Federal share of the construction, operation, and maintenance cost over the life of each corporation shall be determined in order to facilitate a single congressional authorization of the full amount at the time of establishment of the corporation.
 
-&emsp;(6) The Federal share of the cost of each such corporation shall reflect (A) the technical and economic risk of the venture, (B) the probability of any financial return to the non-Federal participants arising from the venture, (C) the financial capability of the potential non-Federal participants, and (D) such otherfactors as the Secretary may set forth in proposing the corporation: <i>Provided</i>, That in no instance shall the Federal share exceed 90 per centum of the cost.
+&emsp;(6) The Federal share of the cost of each such corporation shall reflect (A) the technical and economic risk of the venture, (B) the probability of any financial return to the non-Federal participants arising from the venture, (C) the financial capability of the potential non-Federal participants, and (D) such other factors as the Secretary may set forth in proposing the corporation: <i>Provided</i>, That in no instance shall the Federal share exceed 90 per centum of the cost.
 
 &emsp;(7) No such corporation shall be established unless previously authorized by specific legislation enacted by the Congress.
 

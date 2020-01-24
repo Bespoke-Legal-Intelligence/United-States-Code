@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) transfers defense articles into Syria or into the territory of a specified country without the consent of the internationally recognized government of that country; or
 
-&emsp;&emsp;&emsp;&emsp;(III) brokers or otherwise assists in the transfer of defense articles into Syria orinto the territory of a specified country without the consent of the internationally recognized government of that country; or
+&emsp;&emsp;&emsp;&emsp;(III) brokers or otherwise assists in the transfer of defense articles into Syria or into the territory of a specified country without the consent of the internationally recognized government of that country; or
 
 &emsp;&emsp;(B) knowingly, on or after December 18, 2014, assists, sponsors, or provides financial, material, or technological support for, or goods or services to or in support of, an entity described in subparagraph (A) with respect to an activity described in clause (ii) of that subparagraph.
 
@@ -92,7 +92,7 @@ The sanctions the President may impose with respect to a foreign person under su
 
 #### (7) Prohibition on investment in equity or debt of sanctioned person
 
-&emsp;The President may, pursuant to such regulations as the President may prescribe, prohibitany United States person from transacting in, providing financing for, or otherwise dealing in—
+&emsp;The President may, pursuant to such regulations as the President may prescribe, prohibit any United States person from transacting in, providing financing for, or otherwise dealing in—
 
 &emsp;&emsp;(A) debt—
 
@@ -120,7 +120,7 @@ The sanctions the President may impose with respect to a foreign person under su
 
 #### (B) Good defined
 
-&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) <sup>1</sup> (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 16 of theExport Administration Act of 1979 (50 U.S.C. App. 2415) <sup>1</sup> (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
 #### (2) Additional exceptions
 
@@ -204,7 +204,7 @@ The sanctions the President may impose with respect to a foreign person under su
 
 &emsp;&emsp;&emsp;(i) the foreign person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
 
-&emsp;&emsp;&emsp;(ii) the President has received reliable assurances that the foreign person will not knowingly engage in activity subject to sanctions under subsection (a)(2) in the future.
+&emsp;&emsp;&emsp;(ii) the President has received reliable assurances that the foreign person will notknowingly engage in activity subject to sanctions under subsection (a)(2) in the future.
 
 #### (h) Implementation; penalties
 

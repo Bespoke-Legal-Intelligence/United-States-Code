@@ -68,7 +68,7 @@ Pub. L. 115–7, Feb. 28, 2017, 131 Stat. 13, provided that:
 
 #### "SEC. 3. SUPPORTING WOMEN'S INVOLVEMENT IN THE FIELDS OF AEROSPACE AND SPACE EXPLORATION.
 
-"The Administrator of the National Aeronautics and Space Administration shall encourage women and girls to study science, technology, engineering, and mathematics, pursue careers in aerospace, and further advance the Nation's space science and exploration efforts through support of the following initiatives:
+"The Administrator of the National Aeronautics and Space Administration shall encourage women and girlsto study science, technology, engineering, and mathematics, pursue careers in aerospace, and further advance the Nation's space science and exploration efforts through support of the following initiatives:
 
 &emsp;"(1) NASA GIRLS and NASA BOYS.
 

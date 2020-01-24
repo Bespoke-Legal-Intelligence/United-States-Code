@@ -110,5 +110,5 @@ Purpose.—The purpose of this section \[amending this section and section 2413 
 
 "(2)
 
-Constitutional authority.—Congress finds that this section is a necessary and proper exercise of its powers under the Constitution, article I, section 8, paragraphs 1, 12, 13, 14, 16, and 18, to provide for the common defense, raise and support armies, provide and maintain a navy, make rules for the government andregulation of the land and naval forces, and provide for organizing and governing such part of the militia as may be employed in the service of the United States."
+Constitutional authority.—Congress finds that this section is a necessary and proper exercise of its powers under the Constitution, article I, section 8, paragraphs 1, 12, 13, 14, 16, and 18, to provide for the common defense, raise and support armies, provide and maintain a navy, make rules for the government and regulation of the land and naval forces, and provide for organizing and governing such part of the militia as may be employed in the service of the United States."
 

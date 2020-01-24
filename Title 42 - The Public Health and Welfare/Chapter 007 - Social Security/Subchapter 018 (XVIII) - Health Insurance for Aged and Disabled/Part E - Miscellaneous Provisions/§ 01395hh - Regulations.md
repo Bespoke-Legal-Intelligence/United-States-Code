@@ -58,7 +58,7 @@
 
 &emsp;(i) a provider of services or supplier follows the written guidance (which may be transmitted electronically) provided by the Secretary or by a medicare contractor (as defined in section 1395zz(g) of this title) acting within the scope of the contractor's contract authority, with respect to the furnishing of items or services and submission of a claim for benefits for such items or services with respect to such provider or supplier;
 
-&emsp;(ii) the Secretary determines that the provider of services or supplier has accurately presented the circumstances relating to such items, services, and claim to the contractor in writing; and
+&emsp;(ii) the Secretary determines that the provider of services or supplier has accuratelypresented the circumstances relating to such items, services, and claim to the contractor in writing; and
 
 &emsp;(iii) the guidance was in error;
 
@@ -132,7 +132,7 @@ Pub. L. 115–271, title VI, §6095, Oct. 24, 2018, 132 Stat. 4003, provided tha
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 24, 2018\], the Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall post on the public website of the Centers for Medicare \& Medicaid Services all guidance published by the Department of Health and Human Services on or after January 1, 2016, relating to the prescribing of opioids and applicable to opioid prescriptions for individuals entitled to benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.) or enrolled under part B of such title of such Act (42 U.S.C. 1395j et seq.).
+In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 24, 2018\], the Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall post on the public website of the Centers for Medicare \& Medicaid Services all guidance published by the Department of Health and Human Services on or after January 1, 2016, relating to the prescribing of opioids and applicable toopioid prescriptions for individuals entitled to benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.) or enrolled under part B of such title of such Act (42 U.S.C. 1395j et seq.).
 
 "(b)
 

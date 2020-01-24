@@ -114,7 +114,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of any 100 percent dividend paid to an insurance company to which this part applies by any insurance company, the amount of the decrease in the deductions of the payee company by reason of the portion of such dividend attributable to prorated amounts shall be reduced (but not below zero) by the amount of the decrease in the deductions (or increase in income) of the payor company attributable to the application of this section or section 805(a)(4)(A) to such amounts.
+&emsp;&emsp;&emsp;In the case of any 100 percent dividend paid to an insurance company to whichthis part applies by any insurance company, the amount of the decrease in the deductions of the payee company by reason of the portion of such dividend attributable to prorated amounts shall be reduced (but not below zero) by the amount of the decrease in the deductions (or increase in income) of the payor company attributable to the application of this section or section 805(a)(4)(A) to such amounts.
 
 #### (ii) Portion of dividend attributable to prorated amounts
 
@@ -126,7 +126,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 #### (6) Expenses incurred
 
-&emsp;The term "expenses incurred" means all expenses shown on the annual statement approved by the National Association of Insurance Commissioners, and shall be computed as follows: To all expenses paid during the taxable year, add expenses unpaid at the end of the taxable year and deduct expenses unpaid at the end of the preceding taxable year. For purposes of this subchapter, the term "expenses unpaid" shall not include any unpaid loss adjustment expenses shown on the annual statement, but such unpaid loss adjustmentexpenses shall be included in unpaid losses. For the purpose of computing the taxable income subject to the tax imposed by section 831, there shall be deducted from expenses incurred (as defined in this paragraph) all expenses incurred which are not allowed as deductions by subsection (c).
+&emsp;The term "expenses incurred" means all expenses shown on the annual statement approved by the National Association of Insurance Commissioners, and shall be computed as follows: To all expenses paid during the taxable year, add expenses unpaid at the end of the taxable year and deduct expenses unpaid at the end of the preceding taxable year. For purposes of this subchapter, the term "expenses unpaid" shall not include any unpaid loss adjustment expenses shown on the annual statement, but such unpaid loss adjustment expenses shall be included in unpaid losses. For the purpose of computing the taxable income subject to the tax imposed by section 831, there shall be deducted from expenses incurred (as defined in this paragraph) all expenses incurred which are not allowed as deductions by subsection (c).
 
 #### (7) Special rules for applying paragraph (4)
 
@@ -270,7 +270,7 @@ In the case of a company which writes mortgage guaranty insurance—
 
 &emsp;&emsp;(B) an amount representing the aggregate of amounts so set aside in such reserve for the 8 preceding taxable years to the extent such amounts were not deducted under this paragraph in such preceding taxable years,
 
-> &emsp;except that the deduction allowable for the taxable year under this paragraph shall notexceed the taxable income for the taxable year computed without regard to this paragraph or to any carryback of a net operating loss. For purposes of this paragraph, the amount required by State law or regulation to be so set aside in any taxable year shall not exceed 50 percent of premiums earned on insurance contracts (as defined in subsection (b)(4)) with respect to mortgage guaranty insurance for such year. For purposes of this subsection, all amounts shall be taken into account on a first-in-time basis. The computation and deduction under this section of losses incurred (including losses resulting from adverse economic cycles) shall not be affected by the provisions of this subsection. For purposes of this subsection, the terms "preceding taxable years" and "preceding taxable year" shall not include taxable years which began before January 1, 1967.
+> &emsp;except that the deduction allowable for the taxable year under this paragraph shall not exceed the taxable income for the taxable year computed without regard to this paragraph or to any carryback of a net operating loss. For purposes of this paragraph, the amount required by State law or regulation to be so set aside in any taxable year shall not exceed 50 percent of premiums earned on insurance contracts (as defined in subsection (b)(4)) with respect to mortgage guaranty insurance for such year. For purposes of this subsection, all amounts shall be taken into account on a first-in-time basis. The computation and deduction under this section of losses incurred (including losses resulting from adverse economic cycles) shall not be affected by the provisions of this subsection. For purposes of this subsection, the terms "preceding taxable years" and "preceding taxable year" shall not include taxable years which began before January 1, 1967.
 
 #### (2) Purchase of bonds
 
@@ -300,7 +300,7 @@ In the case of a company which writes mortgage guaranty insurance—
 
 #### (6) Lease guaranty insurance; insurance of State and local obligations
 
-&emsp;The provisions of this subsection shall also apply in all respects to a company which writes lease guaranty insurance or insurance on obligations the interest on which is excludable from gross income under section 103. In applying this subsection to such a company, any reference to mortgage guaranty insurance contained in this section shall be deemed to be a reference also to lease guaranty insurance and to insurance on obligations the interest on which is excludable from gross income under section 103; and in the case of insurance on obligations the interest on which is excludable from gross income under section 103, the references in paragraph (1) to "losses resulting from adverse economic cycles" include losses from declining revenues related to such obligations (as well as losses resulting from adverse economic cycles), and the time specified in subparagraph (A) of paragraph (5) shall be the twentieth preceding taxable year.
+&emsp;The provisions of this subsection shall also apply in all respects to a company which writes lease guaranty insurance or insurance on obligations the interest on which is excludable from gross income under section 103. In applying this subsection to such a company, any reference to mortgage guaranty insurancecontained in this section shall be deemed to be a reference also to lease guaranty insurance and to insurance on obligations the interest on which is excludable from gross income under section 103; and in the case of insurance on obligations the interest on which is excludable from gross income under section 103, the references in paragraph (1) to "losses resulting from adverse economic cycles" include losses from declining revenues related to such obligations (as well as losses resulting from adverse economic cycles), and the time specified in subparagraph (A) of paragraph (5) shall be the twentieth preceding taxable year.
 
 #### (f) Interinsurers
 
@@ -358,7 +358,7 @@ Subsec. (b)(5)(A). Pub. L. 101–508, §11305(a), amended subpar. (A) generally.
 
 Subsec. (b)(7)(A). Pub. L. 101–508, §11303(b)(2), substituted "such contracts into account" for "such amounts into account".
 
-Pub. L. 101–508, §11303(b)(1), which directed the substitution of "insurance contracts described in section 816(b)(1)(B)" for "amounts included in unearned premiums under the 2nd sentence of such subparagraph", was executed by making the substitution for "amounts included in unearned premiums under the 2nd sentence of such paragraph". See 1996 Amendment note above.
+Pub. L. 101–508, §11303(b)(1), which directed the substitution of "insurance contracts described in section816(b)(1)(B)" for "amounts included in unearned premiums under the 2nd sentence of such subparagraph", was executed by making the substitution for "amounts included in unearned premiums under the 2nd sentence of such paragraph". See 1996 Amendment note above.
 
 <b>1988</b>—Subsec. (b)(5)(B)(ii)(II). Pub. L. 100–647, §1010(d)(2), inserted "(directly or indirectly)" after "attributable".
 
@@ -448,7 +448,7 @@ Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment b
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending after such date, with special provisions relating to changes in contracts to be treated as new contracts, see section 1084(d) of Pub. L. 105–34, set out as a note under section 101 of this title.
+Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending after such date, with special provisions relating to changes in contracts to be treated as new contracts, see section1084(d) of Pub. L. 105–34, set out as a note under section 101 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -562,7 +562,7 @@ Pub. L. 99–514, title X, §1022(b), Oct. 22, 1986, 100 Stat. 2399, provided th
 
 Amendment by section 1023(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1023(e) of Pub. L. 99–514, set out as an Effective Date note under section 846 of this title.
 
-Amendment by section 1024(c)(1)–(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
+Amendment by section 1024(c)(1)–(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31,1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -634,7 +634,7 @@ Capital contributions.—There shall not be included in the gross income of any 
 
 &emsp;&emsp;&emsp;"(ii) is a condition precedent to receiving benefits of membership.
 
-&nbsp;&nbsp;Such initial payment shall be included in the gross income of such arrangement or association for such taxable year if it is reasonable to expect that such payment will be deductible pursuant to paragraph (2) by any member of such arrangement or association.
+&nbsp;&nbsp;Such initial payment shall be included in the gross income of such arrangement or association for such taxable year if it is reasonable to expect that such payment will be deductible pursuant to paragraph\(2) by any member of such arrangement or association.
 
 &emsp;&emsp;"(B)
 

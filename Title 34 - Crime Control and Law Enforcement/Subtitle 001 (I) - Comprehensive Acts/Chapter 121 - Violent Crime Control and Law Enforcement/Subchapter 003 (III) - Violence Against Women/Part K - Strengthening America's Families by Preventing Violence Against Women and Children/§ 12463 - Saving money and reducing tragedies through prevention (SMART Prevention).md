@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-The Attorney General, in consultation with the Secretary of Health and Human Services and the Secretary of Education, is authorized to award grants for the purpose of preventing domestic violence, dating violence, sexual assault, and stalking by taking a comprehensive approach that focuses on youth, children exposed to violence, and men as leaders and influencers of social norms.
+The Attorney General, in consultation with the Secretary of Health and Human Services and the Secretary of Education, is authorized toaward grants for the purpose of preventing domestic violence, dating violence, sexual assault, and stalking by taking a comprehensive approach that focuses on youth, children exposed to violence, and men as leaders and influencers of social norms.
 
 #### (b) Use of funds
 
@@ -38,7 +38,7 @@ To be eligible to receive a grant under this section, an entity shall be—
 
 &emsp;(1) a victim service provider, community-based organization, tribe or tribal organization, or other non-profit, nongovernmental organization that has a history of effective work preventing domestic violence, dating violence, sexual assault, or stalking and expertise in the specific area for which they are applying for funds; or
 
-&emsp;(2) a partnership between a victim service provider, community-based organization, tribe or tribal organization, or other non-profit, nongovernmental organization that has a history of effective work preventing domesticviolence, dating violence, sexual assault, or stalking and at least one of the following that has expertise in serving children exposed to domestic violence, dating violence, sexual assault, or stalking, youth domestic violence, dating violence, sexual assault, or stalking prevention, or engaging men to prevent domestic violence, dating violence, sexual assault, or stalking:
+&emsp;(2) a partnership between a victim service provider, community-based organization, tribe or tribal organization, or other non-profit, nongovernmental organization that has a history of effective work preventing domestic violence, dating violence, sexual assault, or stalking and at least one of the following that has expertise in serving children exposed to domestic violence, dating violence, sexual assault, or stalking, youth domestic violence, dating violence, sexual assault, or stalking prevention, or engaging men to prevent domestic violence, dating violence, sexual assault, or stalking:
 
 &emsp;&emsp;(A) A public, charter, tribal, or nationally accredited private middle or high school, a school administered by the Department of Defense under section 2164 of title 10 or section 921 of title 20, a group of schools, or a school district.
 

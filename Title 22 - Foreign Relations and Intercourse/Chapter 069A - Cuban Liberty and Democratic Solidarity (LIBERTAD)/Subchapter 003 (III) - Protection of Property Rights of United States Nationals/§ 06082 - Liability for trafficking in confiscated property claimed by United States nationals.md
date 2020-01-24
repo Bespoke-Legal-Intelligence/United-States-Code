@@ -66,7 +66,7 @@
 
 &emsp;(A) In the case of a United States national who was eligible to file a claim with the Foreign Claims Settlement Commission under title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\] but did not so file the claim, that United States national may not bring an action on that claim under this section.
 
-&emsp;(B) In the case of any action brought under this section by a United States national whose underlying claim in the action was timely filed with the Foreign Claims Settlement Commission under title V of the International Claims Settlement Act of 1949 but was denied by the Commission, the court shall accept the findings of the Commission on the claim as conclusive in the action under this section.
+&emsp;(B) In the case of any action brought under this section by a United States national whose underlying claim in the action was timely filed with the Foreign Claims Settlement Commission under title V of the International Claims Settlement Act of 1949 but was deniedby the Commission, the court shall accept the findings of the Commission on the claim as conclusive in the action under this section.
 
 &emsp;(C) A United States national, other than a United States national bringing an action under this section on a claim certified under title V of the International Claims Settlement Act of 1949, may not bring an action on a claim under this section before the end of the 2-year period beginning on March 12, 1996.
 
@@ -112,7 +112,7 @@ In an action brought under this section, any judgment against an agency or instr
 
 &emsp;Subject to paragraph (2)—
 
-&emsp;&emsp;(A) any United States national that brings an action under this section may not bring any other civil action or proceeding underthe common law, Federal law, or the law of any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States, that seeks monetary or nonmonetary compensation by reason of the same subject matter; and
+&emsp;&emsp;(A) any United States national that brings an action under this section may not bring any other civil action or proceeding under the common law, Federal law, or the law of any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States, that seeks monetary or nonmonetary compensation by reason of the same subject matter; and
 
 &emsp;&emsp;(B) any person who brings, under the common law or any provision of law other than this section, a civil action or proceeding for monetary or nonmonetary compensation arising out of a claim for which an action would otherwise be cognizable under this section may not bring an action under this section on that claim.
 
@@ -122,7 +122,7 @@ In an action brought under this section, any judgment against an agency or instr
 
 &emsp;&emsp;(i) if the recovery in the action is equal to or greater than the amount of the certified claim, the United States national may not receive payment on the claim under any agreement entered into between the United States and Cuba settling claims covered by such title, and such national shall be deemed to have discharged the United States from any further responsibility to represent the United States national with respect to that claim;
 
-&emsp;&emsp;(ii) if the recovery in the action is less than the amount of the certified claim, the United States national may receive payment under a claims agreement described in clause (i) but only to the extent of the difference between the amount of the recovery and the amount of the certified claim; and
+&emsp;&emsp;(ii) if the recovery in the action is less than the amount of the certified claim, the United States national may receive paymentunder a claims agreement described in clause (i) but only to the extent of the difference between the amount of the recovery and the amount of the certified claim; and
 
 &emsp;&emsp;(iii) if there is no recovery in the action, the United States national may receive payment on the certified claim under a claims agreement described in clause (i) to the same extent as any certified claimant who does not bring an action under this section.
 

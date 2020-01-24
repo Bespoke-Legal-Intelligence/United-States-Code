@@ -156,7 +156,7 @@ Denial of License if Contrary to National Security Interest.—A license describ
 
 Identification of Countries Known or Suspected To Have a Program To Develop Offensive Biological Weapons.—(1) The Secretary of Defense shall determine, for the purposes of this section, those countries that are known or suspected to have a program to develop offensive biological weapons. Upon making such determination, the Secretary shall provide to the Secretary of Commerce a list of those countries.
 
-"(2) The Secretary of Defense shall update the list under paragraph (1) on a regular basis. Whenever a country is added to or deleted from such list, the Secretary shall notify the Secretary of Commerce.
+"(2) The Secretary of Defense shall update the list under paragraph (1) on a regular basis. Whenever acountry is added to or deleted from such list, the Secretary shall notify the Secretary of Commerce.
 
 "(3) Determination under this subsection of countries that are known or suspected to have a program to develop offensive biological weapons shall be made in consultation with the Secretary of State and the intelligence community.
 

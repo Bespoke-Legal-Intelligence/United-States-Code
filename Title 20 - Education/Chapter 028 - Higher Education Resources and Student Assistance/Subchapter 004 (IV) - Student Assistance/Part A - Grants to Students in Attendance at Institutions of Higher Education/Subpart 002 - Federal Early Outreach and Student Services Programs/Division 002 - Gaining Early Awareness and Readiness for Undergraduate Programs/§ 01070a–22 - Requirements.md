@@ -32,7 +32,7 @@ An eligible entity described in section 1070a–21(c)(2) of this title shall des
 
 &emsp;The Secretary shall require that eligible entities described in section 1070a–21(c)(2) of this title—
 
-&emsp;&emsp;(A) provide services under this division to at least one grade level of students, beginning not later than 7th grade, in a participating school that has a 7th grade and in which at least 50 percent of the students enrolled are eligible for free or reduced-price lunch under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] (or, if an eligible entity determines that it would promote the effectiveness of a program, an entire grade level of students, beginning not later than the 7th grade, who reside in publichousing as defined in section 1437a(b)(1) of title 42);
+&emsp;&emsp;(A) provide services under this division to at least one grade level of students, beginning not later than 7th grade, in a participating school that has a 7th grade and in which at least 50 percent of the students enrolled are eligible for free or reduced-price lunch under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] (or, if an eligible entity determines that it would promote the effectiveness of a program, an entire grade level of students, beginning not later than the 7th grade, who reside in public housing as defined in section 1437a(b)(1) of title 42);
 
 &emsp;&emsp;(B) ensure that the services are provided through the 12th grade to students in the participating grade level and provide the option of continued services through the student's first year of attendance at an institution of higher education to the extent the provision of such services was described in the eligible entity's application for assistance under this division; and
 
@@ -54,7 +54,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(1)(
 
 #### Prior Provisions
 
-A prior section 1070a–22, Pub. L. 89–329, title IV, §404B, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 492; amended Pub. L. 103–208, §2(b)(13), (14), Dec. 20, 1993, 107 Stat. 2459, related to State eligibility and State plan, prior to the general amendment of this division by Pub. L. 105–244.
+A prior section 1070a–22, Pub. L. 89–329, title IV, §404B, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 492; amended Pub. L. 103–208, §2(b)(13),\(14), Dec. 20, 1993, 107 Stat. 2459, related to State eligibility and State plan, prior to the general amendment of this division by Pub. L. 105–244.
 
 #### Amendments
 

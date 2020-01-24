@@ -1,6 +1,6 @@
 ### §8343. Additional annuities; voluntary contributions
 
-(a) Under regulations prescribed by the Office of Personnel Management, an employee or Member may voluntarily contribute additional sums in multiples of $25, but the total may not exceed 10 percent of his basic pay for creditable service after July 31, 1920. The voluntary contribution account in each case is the sum of unrefunded contributions, plus interest at 3 percent a year through December 31, 1984, and thereafter at the rate computed under section 8334(e) of this title, compounded annually to—
+(a) Under regulations prescribed by the Office of Personnel Management, an employee or Member may voluntarily contribute additional sums in multiples of $25, but the total may not exceed 10 percent of his basic pay for creditable service after July 31, 1920. The voluntary contribution account in each case is the sum of unrefunded contributions, plus interest at 3 percent a yearthrough December 31, 1984, and thereafter at the rate computed under section 8334(e) of this title, compounded annually to—
 
 &emsp;(1) the date of payment under subsection (d) of this section, separation, or transfer to a position in which he does not continue subject to this subchapter, whichever is earliest; or
 

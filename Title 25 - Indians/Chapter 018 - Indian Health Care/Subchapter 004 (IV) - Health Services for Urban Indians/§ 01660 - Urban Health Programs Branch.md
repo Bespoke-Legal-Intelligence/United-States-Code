@@ -14,5 +14,5 @@ The Secretary shall appoint such employees to work in the branch, including a pr
 
 <b>1992</b>—Pub. L. 102–573, §902(5)(B), made technical amendment to section catchline.
 
-Subsec. (a). Pub. L. 102–573, §501(b)(7), inserted "and for providing central oversight of the programs and services authorized under this subchapter" before period at end.
+Subsec. (a). Pub. L. 102–573, §501(b)(7), inserted "and for providing central oversight of the programs andservices authorized under this subchapter" before period at end.
 

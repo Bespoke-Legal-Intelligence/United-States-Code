@@ -44,7 +44,7 @@ Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, except wher
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–234, §7, Feb. 21, 1978, 92 Stat. 36, provided that: "The amendments made by this Act \[enacting section 224 of this title, amending this section and sections 503 and 504 of this title, repealing sections 510 of this title, and enacting provisions set out as a noteunder section 609 of this title\] shall take effect on the thirtieth day after the date of enactment of this Act \[Feb. 21, 1978\]; except that the provisions of sections 503(b) and 510 of the Communications Act of 1934 \[sections 503(b) and 510 of this title\], as in effect on such date of enactment, shall continue to constitute the applicable law with the respect to any act or omission which occurs prior to such thirtieth day."
+Pub. L. 95–234, §7, Feb. 21, 1978, 92 Stat. 36, provided that: "The amendments made by this Act \[enacting section 224 of this title, amending this section and sections 503 and 504 of this title, repealing sections 510 of this title, and enacting provisions set out as a note under section 609 of this title\] shall take effect on the thirtieth day after the date of enactment of this Act \[Feb. 21, 1978\]; except that the provisions of sections 503(b) and 510 of the Communications Act of 1934 \[sections 503(b) and 510 of this title\], as in effect on such date of enactment, shall continue to constitute the applicable law with the respect to any act or omission which occurs prior to such thirtieth day."
 
 #### Applicability of Consent Decrees and Other Law
 
@@ -148,7 +148,7 @@ State.—The term 'State' means any of the several States, the District of Colum
 
 &emsp;"(5)
 
-Tax or fee.—The terms 'tax' and 'fee' mean any local sales tax, local use tax, local intangible tax, local income tax, business license tax, utility tax, privilege tax, gross receipts tax, excise tax, franchise fees, local telecommunications tax, or any other tax, license, or fee that is imposed for the privilege of doing business, regulating, or raising revenue for a local taxing jurisdiction.
+Tax or fee.—The terms 'tax' and 'fee' mean any local sales tax, local use tax, local intangible tax, local income tax, business license tax, utility tax, privilege tax, gross receipts tax, excise tax, franchise fees, local telecommunications tax, or any other tax,license, or fee that is imposed for the privilege of doing business, regulating, or raising revenue for a local taxing jurisdiction.
 
 "(c)
 

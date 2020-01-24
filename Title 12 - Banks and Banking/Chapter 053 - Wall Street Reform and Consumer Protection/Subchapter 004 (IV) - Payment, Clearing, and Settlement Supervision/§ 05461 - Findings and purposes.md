@@ -4,7 +4,7 @@
 
 Congress finds the following:
 
-&emsp;(1) The proper functioning of the financial markets is dependent upon safe and efficient arrangements for the clearing and settlement of payment, securities, and other financial transactions.
+&emsp;(1) The proper functioning of the financial markets is dependent upon safe and efficient arrangements for the clearing and settlementof payment, securities, and other financial transactions.
 
 &emsp;(2) Financial market utilities that conduct or support multilateral payment, clearing, or settlement activities may reduce risks for their participants and the broader financial system, but such utilities may also concentrate and create new risks and thus must be well designed and operated in a safe and sound manner.
 

@@ -232,7 +232,7 @@ The plan shall define the powers and duties of the Board, which shall include th
 
 &emsp;The plan shall require the Board to—
 
-&emsp;&emsp;(A) maintain such books and records (which shall be available to the Secretary for inspection and audit) as the Secretary may prescribe;
+&emsp;&emsp;(A) maintain such books and records (which shall be available to the Secretaryfor inspection and audit) as the Secretary may prescribe;
 
 &emsp;&emsp;(B) prepare and submit to the Secretary, from time to time, such reports as the Secretary may prescribe; and
 
@@ -270,7 +270,7 @@ The Board shall not engage in any action to, nor shall any funds received by the
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this chapter, all information obtained from books,records, or reports required to be maintained under paragraph (1) shall be kept confidential, and shall not be disclosed to the public by any person.
+&emsp;&emsp;Except as otherwise provided in this chapter, all information obtained from books, records, or reports required to be maintained under paragraph (1) shall be kept confidential, and shall not be disclosed to the public by any person.
 
 #### (B) Disclosure
 

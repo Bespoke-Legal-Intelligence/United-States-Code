@@ -114,7 +114,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (1) By State
 
-&emsp;Each State receiving a grant under subsection (a) shall submit to the Secretary anannual report evaluating the effectiveness of activities funded with grants awarded under such subsection. Such report shall, at a minimum, include the impact of the activities funded on patient safety and on the availability and price of medical liability insurance.
+&emsp;Each State receiving a grant under subsection (a) shall submit to the Secretary an annual report evaluating the effectiveness of activities funded with grants awarded under such subsection. Such report shall, at a minimum, include the impact of the activities funded on patient safety and on the availability and price of medical liability insurance.
 
 #### (2) By Secretary
 
@@ -246,7 +246,7 @@ Nothing in this section shall be construed as limiting states' <sup>1</sup> aut
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (h)(1), (2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (h)(1), (2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. TitlesXVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §8306. Medal of honor: duplicate medal
 
-A person awarded a medal of honor shall, upon written application of that person, be issued, without charge, one duplicate medal of honor with ribbons and appurtenances. Such duplicate medal of honor shall be marked, in such manneras the Secretary of the Navy may determine, as a duplicate or for display purposes only.
+A person awarded a medal of honor shall, upon written application of that person, be issued, without charge, one duplicate medal of honor with ribbons and appurtenances. Such duplicate medal of honor shall be marked, in such manner as the Secretary of the Navy may determine, as a duplicate or for display purposes only.
 
 (Added Pub. L. 107–107, div. A, title V, §553(b)(1)(A), Dec. 28, 2001, 115 Stat. 1116, §6256; renumbered §8306, Pub. L. 115–232, div. A, title VIII, §807(b)(13), Aug. 13, 2018, 132 Stat. 1836.)
 

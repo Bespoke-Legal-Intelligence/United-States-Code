@@ -104,7 +104,7 @@ By virtue of the authority vested in me by section 301 of Title 3 of the United 
 
 #### Part I—General
 
-Section 101. (a) As used in this order, the terms "agency", "employee", "Government", and "training", have meanings given to those terms, respectively, by section 4101 of Title 5, United States Code.
+Section 101. (a) As used in this order, the terms "agency", "employee", "Government", and "training",have meanings given to those terms, respectively, by section 4101 of Title 5, United States Code.
 
 (b) "Interagency training" means training provided by one agency for other agencies or shared by two or more agencies.
 
@@ -194,7 +194,7 @@ Ex. Ord. No. 11451, Jan. 19, 1969, 34 F.R. 921, as amended by Ex. Ord. No. 12107
 
 #### Executive Order No. 12136
 
-Ex. Ord. No. 12136, May 15, 1979, 44 F.R. 28771, which continued the President's Commission on Personnel Interchange and renamed it the President's Commission on Executive Exchange, was revoked by Ex. Ord. No. 12493, Dec. 5, 1984, 49 F.R. 47819, formerly set out below.
+Ex. Ord. No. 12136, May 15, 1979, 44 F.R. 28771, which continued the President's Commission on PersonnelInterchange and renamed it the President's Commission on Executive Exchange, was revoked by Ex. Ord. No. 12493, Dec. 5, 1984, 49 F.R. 47819, formerly set out below.
 
 #### Executive Order No. 12493
 
@@ -204,7 +204,7 @@ Ex. Ord. No. 12493, Dec. 5, 1984, 49 F.R. 47819, as amended by Ex. Ord. No. 1251
 
 Ex. Ord. No. 12574, Nov. 20, 1986, 51 F.R. 42199, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States ofAmerica, including the Executive Exchange Program Voluntary Services Act of 1986 (5 U.S.C. 4103 note, 100 Stat. 964), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including the Executive Exchange Program Voluntary Services Act of 1986 (5 U.S.C. 4103 note, 100 Stat. 964), it is hereby ordered as follows:
 
 Section 1. <i>Establishment of the Program</i>. Effective October 1, 1986, there is established, within the Executive Exchange Program of the President's Commission on Executive Exchange, an experimental program under which Executive agencies of the government may accept voluntary services for the United States from private sector participants in the Executive Exchange Program.
 

@@ -4,7 +4,7 @@
 
 (2) A covered late-deposit charge for purposes of paragraph (1) is a charge (including an overdraft charge or a minimum balance or average balance charge) that is levied by a financial institution and that results from an administrative or mechanical error on the part of the Government that causes the pay of the person concerned to be deposited late or in an incorrect manner or amount.
 
-(b) Reimbursements under this section shall be made from appropriations available for thepay and allowances of members of the armed force concerned.
+(b) Reimbursements under this section shall be made from appropriations available for the pay and allowances of members of the armed force concerned.
 
 (c) The Secretaries concerned shall prescribe regulations to carry out this section, including regulations for the manner in which reimbursement under this section is to be made.
 
@@ -20,7 +20,7 @@
 
 <b>2000</b>—Pub. L. 106–398 substituted "Financial institution charges incurred because of Government error in direct deposit of pay: reimbursement" for "Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay" in section catchline.
 
-<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'financial institution' has the meaning given the term 'financial organization' in section 3332(a) of title 31."
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261 amended par. (1) generally. Prior to amendment, par. (1) read as follows:"The term 'financial institution' has the meaning given the term 'financial organization' in section 3332(a) of title 31."
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–106 substituted "chapter 1223" for "chapter 67".
 

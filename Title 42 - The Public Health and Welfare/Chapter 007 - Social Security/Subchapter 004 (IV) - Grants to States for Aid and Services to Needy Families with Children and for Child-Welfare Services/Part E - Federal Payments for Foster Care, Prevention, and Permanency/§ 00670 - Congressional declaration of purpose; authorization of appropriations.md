@@ -6,7 +6,7 @@ For the purpose of enabling each State to provide, in appropriate cases, foster 
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–123 substituted "June 1, 1995), adoption assistance for children with special needs, kinship guardianship assistance, and prevention services or programs specified in section 671(e)(1) of this title, there are authorized to be appropriated for each fiscal year such sums" for "June 1, 1995) and adoption assistance for children with special needs, there are authorized to be appropriated for each fiscal year (commencing with the fiscal year which begins October 1, 1980) such sums".
+<b>2018</b>—Pub. L. 115–123 substituted "June 1, 1995), adoption assistance for children with special needs, kinshipguardianship assistance, and prevention services or programs specified in section 671(e)(1) of this title, there are authorized to be appropriated for each fiscal year such sums" for "June 1, 1995) and adoption assistance for children with special needs, there are authorized to be appropriated for each fiscal year (commencing with the fiscal year which begins October 1, 1980) such sums".
 
 <b>1996</b>—Pub. L. 104–193 substituted "would have been eligible" for "would be eligible" and inserted "(as such plan was in effect on June 1, 1995)" after "part A".
 
@@ -42,7 +42,7 @@ Pub. L. 106–314, Oct. 17, 2000, 114 Stat. 1266, provided that:
 
 &emsp;"(2) The Adoption and Safe Families Act of 1997 (Public Law 105–89; 111 Stat. 2115) \[see Short Title of 1997 Amendment note set out under section 1305 of this title\] establishes explicitly for the first time in Federal law that a child's health and safety must be the paramount consideration when any decision is made regarding a child in the Nation's child welfare system.
 
-&emsp;"(3) The Adoption and Safe Families Act of 1997 promotes stability and permanence for abused and neglected children by requiring timely decisionmaking in proceedings to determine whether children can safely return to their families or whether theyshould be moved into safe and stable adoptive homes or other permanent family arrangements outside the foster care system.
+&emsp;"(3) The Adoption and Safe Families Act of 1997 promotes stability and permanence for abused and neglected children by requiring timely decisionmaking in proceedings to determine whether children can safely return to their families or whether they should be moved into safe and stable adoptive homes or other permanent family arrangements outside the foster care system.
 
 &emsp;"(4) To avoid unnecessary and lengthy stays in the foster care system, the Adoption and Safe Families Act of 1997 specifically requires, among other things, that States move to terminate the parental rights of the parents of those children who have been in foster care for 15 of the last 22 months.
 
@@ -226,7 +226,7 @@ No credit for pre-award expenditures.—Only State court or local court expendit
 
 &emsp;"(2)
 
-Notification to state or appropriate child welfare agency.—No application for a grant authorized under this section may be approved unless the State court or local court submitting the application demonstrates to the satisfaction of the AttorneyGeneral that the court has provided the State, in the case of a State court, or the appropriate child welfare agency, in the case of a local court, with notice of the contents and submission of the application.
+Notification to state or appropriate child welfare agency.—No application for a grant authorized under this section may be approved unless the State court or local court submitting the application demonstrates to the satisfaction of the Attorney General that the court has provided the State, in the case of a State court, or the appropriate child welfare agency, in the case of a local court, with notice of the contents and submission of the application.
 
 &emsp;"(3)
 

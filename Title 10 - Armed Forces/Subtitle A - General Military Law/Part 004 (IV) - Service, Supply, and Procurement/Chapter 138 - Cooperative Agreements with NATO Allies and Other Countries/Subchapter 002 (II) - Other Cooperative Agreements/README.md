@@ -15,10 +15,13 @@
 | [2350k.](%C2%A7%2002350k%20-%20Relocation%20within%20host%20nation%20of%20elements%20of%20armed%20forces%20overseas.md) | Relocation within host nation of elements of armed forces overseas. |
 | 2350<i>l.</i> | Cooperative agreements for reciprocal use of test facilities: foreign countries and international organizations. |
 | \[2350m. | Renumbered.\] |
+| [2350n.](%C2%A7%2002350n%20-%20North%20Atlantic%20Treaty%20Organization%20Joint%20Force%20Command.md) | North Atlantic Treaty Organization Joint Force Command. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title XII, §1249(b), Dec. 20, 2019, 133 Stat. 1664, added item 2350n.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title XII, §1241(o)(7), Dec. 23, 2016, 130 Stat. 2512, struck out item 2350m "Participation in multinational military centers of excellence".
 
@@ -56,3 +59,4 @@ Pub. L. 101–510, div. A, title XIV, §1451(b)(2), Nov. 5, 1990, 104 Stat. 1693
 - [&sect; 02350k - Relocation within host nation of elements of armed forces overseas](%C2%A7%2002350k%20-%20Relocation%20within%20host%20nation%20of%20elements%20of%20armed%20forces%20overseas.md)
 - [&sect; 02350l - Cooperative agreements for reciprocal use of test facilities foreign countries and international organizations](%C2%A7%2002350l%20-%20Cooperative%20agreements%20for%20reciprocal%20use%20of%20test%20facilities%20foreign%20countries%20and%20international%20organizations.md)
 - [&sect; 02350m - Renumbered &sect;344](%C2%A7%2002350m%20-%20Renumbered%20%C2%A7344.md)
+- [&sect; 02350n - North Atlantic Treaty Organization Joint Force Command](%C2%A7%2002350n%20-%20North%20Atlantic%20Treaty%20Organization%20Joint%20Force%20Command.md)

@@ -62,7 +62,7 @@ This section applies to a servicemember who—
 
 This section does not—
 
-&emsp;(1) require a suspension of professional liability insurance protection for any personwho is not a person referred to in subsection (a) and who is covered by the same professional liability insurance as a person referred to in such subsection; or
+&emsp;(1) require a suspension of professional liability insurance protection for any person who is not a person referred to in subsection (a) and who is covered by the same professional liability insurance as a person referred to in such subsection; or
 
 &emsp;(2) relieve any person of the obligation to pay premiums for the coverage not required to be suspended.
 
@@ -90,7 +90,7 @@ In the case of a civil or administrative action for which a stay could have been
 
 If a servicemember whose professional liability insurance coverage is suspended under subsection (b) dies during the period of the suspension—
 
-&emsp;(1) the requirement for the grant or continuance of a stay in any civil or administrative action against such servicemember under subsection (f)(1) shall terminate on the date of the death of such servicemember; and
+&emsp;(1) the requirement for the grant or continuance of a stay in any civil or administrativeaction against such servicemember under subsection (f)(1) shall terminate on the date of the death of such servicemember; and
 
 &emsp;(2) the carrier of the professional liability insurance so suspended shall be liable for any claim for damages for professional negligence or other professional liability of the deceased servicemember in the same manner and to the same extent as such carrier would be liable if the servicemember had died while covered by such insurance but before the claim was filed.
 

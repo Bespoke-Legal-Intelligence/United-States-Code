@@ -96,7 +96,7 @@ Same remedy as if united states.—The remedy against the United States provided
 
 &emsp;(2)
 
-Exclusiveness of remedy.—The remedy referred to in paragraph (1) shall be exclusive of any other civil action or proceeding for thepurpose of determining liability arising from any such act or omission without regard to when the act or omission occurred.
+Exclusiveness of remedy.—The remedy referred to in paragraph (1) shall be exclusive of any other civil action or proceeding for the purpose of determining liability arising from any such act or omission without regard to when the act or omission occurred.
 
 &emsp;(3)
 

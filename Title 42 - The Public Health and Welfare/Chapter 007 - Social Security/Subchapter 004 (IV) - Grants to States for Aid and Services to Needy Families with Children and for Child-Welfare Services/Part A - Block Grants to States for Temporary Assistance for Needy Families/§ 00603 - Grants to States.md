@@ -84,7 +84,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Of the amounts made available under subparagraph (D) for a fiscal year, the Secretary may not award more than $75,000,000 on a competitive basis to States, territories, Indian tribes and tribal organizations, and public and nonprofit community entities, including religious organizations,for activities promoting responsible fatherhood.
+&emsp;&emsp;&emsp;Of the amounts made available under subparagraph (D) for a fiscal year, the Secretary may not award more than $75,000,000 on a competitive basis to States, territories, Indian tribes and tribal organizations, and public and nonprofit community entities, including religious organizations, for activities promoting responsible fatherhood.
 
 #### (ii) Activities promoting responsible fatherhood
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) Activities to promote responsible parenting through activities such as counseling, mentoring, and mediation, disseminating information about good parenting practices, skills-based parenting education, encouraging child support payments, and other methods.
 
-&emsp;&emsp;&emsp;&emsp;(III) Activities to foster economic stability by helping fathers improve their economic status by providing activities such as work first services, job search, job training, subsidized employment, job retention, job enhancement, and encouraging education, including career-advancing education, dissemination of employment materials, coordination with existing employment services such as welfare-to-work programs, referrals to local employment training initiatives, and other methods.
+&emsp;&emsp;&emsp;&emsp;(III) Activities to foster economic stability by helping fathers improve theireconomic status by providing activities such as work first services, job search, job training, subsidized employment, job retention, job enhancement, and encouraging education, including career-advancing education, dissemination of employment materials, coordination with existing employment services such as welfare-to-work programs, referrals to local employment training initiatives, and other methods.
 
 &emsp;&emsp;&emsp;&emsp;(IV) Activities to promote responsible fatherhood that are conducted through a contract with a nationally recognized, nonprofit fatherhood promotion organization, such as the development, promotion, and distribution of a media campaign to encourage the appropriate involvement of parents in the life of any child and specifically the issue of responsible fatherhood, and the development of a national clearinghouse to assist States and communities in efforts to promote and support marriage and responsible fatherhood.
 
@@ -282,7 +282,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) if the Governor of the State desires to have an agency other than a private industry council administer the funds provided under this subparagraph for the benefit of 1 or more service delivery areas in the State, contains an application to the Secretary of Labor for a waiver of clause (vii)(I) with respect to the area or areas in order to permit an alternate agency designated by the Governor to so administer the funds; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ff) describes how the State will ensure that a private industry council to which information is disclosed pursuant to section 603(a)(5)(K) <sup>3</sup> or 654A(f)(5) of this title has procedures for safeguarding the information and for ensuring that the information is usedsolely for the purpose described in that section.
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) describes how the State will ensure that a private industry council to which information is disclosed pursuant to section 603(a)(5)(K) <sup>3</sup> or 654A(f)(5) of this title has procedures for safeguarding the information and for ensuring that the information is used solely for the purpose described in that section.
 
 &emsp;&emsp;&emsp;&emsp;(II) The State has provided to the Secretary of Labor an estimate of the amount that the State intends to expend during the period permitted under subparagraph (C)(vii) of this paragraph for the expenditure of funds under the grant (excluding expenditures described in section 609(a)(7)(B)(iv) of this title (other than subclause (III) thereof)) pursuant to this paragraph.
 
@@ -422,7 +422,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) 25 percent of the sum of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount specified in subparagraph (H) for the fiscal year, minus the total of the amounts reserved pursuant to subparagraphs (E), (F), and (G) for the fiscal year; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount specified in subparagraph (H) for the fiscal year, minus thetotal of the amounts reserved pursuant to subparagraphs (E), (F), and (G) for the fiscal year; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) any amount reserved pursuant to subparagraph (E) for the immediately preceding fiscal year that has not been obligated; and
 
@@ -678,7 +678,7 @@
 
 #### (2) Deposits into fund
 
-&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2018 such sums as are necessary for payment to the Fund in a total amount not to exceed $608,000,000.
+&emsp;Out of any money in the Treasury of the United States not otherwise appropriated,there are appropriated for fiscal year 2018 such sums as are necessary for payment to the Fund in a total amount not to exceed $608,000,000.
 
 #### (3) Grants
 
@@ -724,7 +724,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (3), if the Secretary makes a payment to a State underthis subsection in a fiscal year, then the State shall remit to the Secretary, within 1 year after the end of the first subsequent period of 3 consecutive months for which the State is not a needy State, an amount equal to the amount (if any) by which—
+&emsp;&emsp;Notwithstanding paragraph (3), if the Secretary makes a payment to a State under this subsection in a fiscal year, then the State shall remit to the Secretary, within 1 year after the end of the first subsequent period of 3 consecutive months for which the State is not a needy State, an amount equal to the amount (if any) by which—
 
 &emsp;&emsp;&emsp;(i) the total amount paid to the State under paragraph (3) of this subsection in the fiscal year; exceeds
 
@@ -802,7 +802,7 @@
 
 &emsp;The Secretary shall annually report to the Congress on the status of the Fund.
 
-(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, title VI, §§616, 617, Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–40, §3(a), (c)–(e), June 30, 2003, 117 Stat. 836, 837; Pub. L. 108–89, title I, §101(b)(1), (2), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–210, §2(b), Mar. 31, 2004, 118 Stat. 564; Pub. L. 108–262, §2(b), June 30, 2004, 118 Stat. 696; Pub. L. 108–308, §2(b)(1), (2), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–4, §2(b), Mar. 25, 2005, 119 Stat. 17; Pub. L. 109–19, §2(b), July 1, 2005, 119 Stat. 344; Pub. L. 109–68, §2(b)(2)(A), (B), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–161, §2(b), Dec. 30, 2005, 119 Stat. 2958; Pub. L. 109–171, title VII, §§7101(b)(1), (2), 7103(a), Feb. 8, 2006, 120 Stat. 135, 138; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat.1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–275, title III, §301(b), July 15, 2008, 122 Stat. 2594; Pub. L. 111–5, div. B, title II, §§2101(a), 2102(b), Feb. 17, 2009, 123 Stat. 446, 449; Pub. L. 111–242, §131(b)(1), (2), Sept. 30, 2010, 124 Stat. 2612; Pub. L. 111–291, title VIII, §811(b)–(d), Dec. 8, 2010, 124 Stat. 3159; Pub. L. 112–96, title IV, §4002(a), (b), Feb. 22, 2012, 126 Stat. 194, 195; Pub. L. 112–275, §9(a), Jan. 14, 2013, 126 Stat. 2465; Pub. L. 113–128, title V, §512(dd)(1), July 22, 2014, 128 Stat. 1717; Pub. L. 115–31, div. M, title I, §102(a)(1), (2), (b), (c)(2), May 5, 2017, 131 Stat. 800, 803.)
+(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, title VI, §§616, 617, Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–40, §3(a), (c)–(e), June 30, 2003, 117 Stat. 836, 837; Pub. L. 108–89, title I, §101(b)(1), (2), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–210, §2(b), Mar. 31, 2004, 118 Stat. 564; Pub. L. 108–262, §2(b), June 30, 2004, 118 Stat. 696; Pub. L. 108–308, §2(b)(1), (2), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–4, §2(b), Mar. 25, 2005, 119 Stat. 17; Pub. L. 109–19, §2(b), July 1, 2005, 119 Stat. 344; Pub. L. 109–68, §2(b)(2)(A), (B), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–161, §2(b), Dec. 30, 2005, 119 Stat. 2958; Pub. L. 109–171, title VII, §§7101(b)(1), (2), 7103(a), Feb. 8, 2006, 120 Stat. 135, 138; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–275, title III, §301(b), July 15, 2008, 122 Stat. 2594; Pub. L. 111–5, div. B, title II, §§2101(a), 2102(b), Feb. 17, 2009, 123 Stat. 446, 449; Pub. L. 111–242, §131(b)(1), (2), Sept. 30, 2010, 124 Stat. 2612; Pub. L. 111–291, title VIII, §811(b)–(d), Dec. 8, 2010, 124 Stat. 3159; Pub. L. 112–96, title IV, §4002(a), (b), Feb. 22, 2012, 126 Stat. 194, 195; Pub. L. 112–275, §9(a), Jan. 14, 2013, 126 Stat. 2465; Pub. L. 113–128, title V, §512(dd)(1), July 22, 2014, 128 Stat. 1717; Pub. L. 115–31, div. M, title I, §102(a)(1), (2), (b), (c)(2), May 5, 2017, 131 Stat. 800, 803.)
 
 #### References in Text
 
@@ -912,7 +912,7 @@ Subsec. (b)(3)(C)(ii). Pub. L. 108–308, §2(b)(2), substituted "2005" for "200
 
 <b>2003</b>—Subsec. (a)(1)(A). Pub. L. 108–40, §3(a)(1), substituted "2002, and 2003" for "and 2002".
 
-Subsec. (a)(1)(B) to (E). Pub. L. 108–40, §3(a)(2), added subpars. (B) and (C) and struck out former subpars. (B) to (E) which related to, in subpar. (B), definition of "State family assistance grant", in subpar. (C), definition of "total amount required to be paid to the State under former section 603 of this title", in subpar. (D), information to be used in determining amounts ofgrants for fiscal years 1992 to 1995, and, in subpar. (E), appropriations for fiscal years 1996 to 2002.
+Subsec. (a)(1)(B) to (E). Pub. L. 108–40, §3(a)(2), added subpars. (B) and (C) and struck out former subpars. (B) to (E) which related to, in subpar. (B), definition of "State family assistance grant", in subpar. (C), definition of "total amount required to be paid to the State under former section 603 of this title", in subpar. (D), information to be used in determining amounts of grants for fiscal years 1992 to 1995, and, in subpar. (E), appropriations for fiscal years 1996 to 2002.
 
 Subsec. (a)(2)(C)(ii). Pub. L. 108–40, §3(c)(1), substituted "2002, and 2003" for "and 2002".
 
@@ -1048,7 +1048,7 @@ If fewer than 5 eligible States.—If there are fewer than 5 eligible States for
 
 Subsec. (a)(2)(C)(i)(I)(aa). Pub. L. 105–33, §5502(b)(3)(A)(i), substituted "illegitimacy ratio of the State for" for "number of out-of-wedlock births that occurred in the State during" and "illegitimacy ratio of the State for" for "number of such births that occurred during".
 
-Pub. L. 105–33, §5502(a)(2), inserted at end "In the case of a State that is not a territory specified in subparagraph (B), the comparative magnitude of the decrease for the State shall be determined without regard to the magnitude of the corresponding decrease for any such territory."
+Pub. L. 105–33, §5502(a)(2), inserted at end "In the case of a State that is not a territory specified in subparagraph (B), the comparative magnitude of the decrease for the State shall be determined without regard to themagnitude of the corresponding decrease for any such territory."
 
 Subsec. (a)(2)(C)(i)(I)(bb). Pub. L. 105–33, §5502(c)(1)(A), substituted "the calendar year for which the most recent data are available" for "the fiscal year" and "calendar year 1995" for "fiscal year 1995".
 
@@ -1112,7 +1112,7 @@ Amendment by section 4002(b)(1)(A), (B), (2)(V) of Pub. L. 110–246 effective O
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–171, title VII, §7701, Feb. 8, 2006, 120 Stat. 155, provided that: "Except as otherwise provided inthis title \[amending this section and sections 607, 608, 609, 611, 618, 622, 629f, 629h, 652, 653, 654, 655, 657, 664, 666, 671 to 673, 674, 1383, and 1383b of this title and section 6402 of Title 26, Internal Revenue Code, repealing section 1675c of Title 19, Customs Duties, enacting provisions set out as notes under sections 607, 608, 652, 654, 655, 657, 664, 666, and 1383 of this title and section 1675c of Title 19, and amending provisions set out as a note under section 1169 of Title 29, Labor\], this title and the amendments made by this title shall take effect as if enacted on October 1, 2005."
+Pub. L. 109–171, title VII, §7701, Feb. 8, 2006, 120 Stat. 155, provided that: "Except as otherwise provided in this title \[amending this section and sections 607, 608, 609, 611, 618, 622, 629f, 629h, 652, 653, 654, 655, 657, 664, 666, 671 to 673, 674, 1383, and 1383b of this title and section 6402 of Title 26, Internal Revenue Code, repealing section 1675c of Title 19, Customs Duties, enacting provisions set out as notes under sections 607, 608, 652, 654, 655, 657, 664, 666, and 1383 of this title and section 1675c of Title 19, and amending provisions set out as a note under section 1169 of Title 29, Labor\], this title and the amendments made by this title shall take effect as if enacted on October 1, 2005."
 
 #### Effective Date of 2003 Amendment
 
@@ -1136,7 +1136,7 @@ Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(e)\], Nov. 29, 1999,
 
 #### Effective Date of 1998 Amendments
 
-Pub. L. 105–306, §6(b), Oct. 28, 1998, 112 Stat. 2928, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 5001 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\]."
+Pub. L. 105–306, §6(b), Oct. 28, 1998, 112 Stat. 2928, provided that: "The amendment made by subsection (a)\[amending this section\] shall take effect as if included in the enactment of section 5001 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\]."
 
 Amendment by section 101(f) \[title VIII, §405(d)(30)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(22)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 

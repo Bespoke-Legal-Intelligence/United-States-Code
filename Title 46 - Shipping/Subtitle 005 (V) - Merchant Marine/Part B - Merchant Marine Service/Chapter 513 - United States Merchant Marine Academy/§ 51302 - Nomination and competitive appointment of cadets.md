@@ -62,7 +62,7 @@ Remaining unfilled positions.—If positions remain unfilled after the appointme
 
 Congressional Notification in Advance of Appointments.—When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570; Pub. L. 111–383, div. C, title XXXV, §3503, Jan. 7, 2011, 124 Stat. 4518; Pub. L. 114–328, div. A, title V, §566(d), Dec. 23, 2016, 130 Stat. 2139.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570; Pub. L. 111–383, div. C, title XXXV, §3503, Jan. 7,2011, 124 Stat. 4518; Pub. L. 114–328, div. A, title V, §566(d), Dec. 23, 2016, 130 Stat. 2139.)
 
 Historical and Revision Notes
 

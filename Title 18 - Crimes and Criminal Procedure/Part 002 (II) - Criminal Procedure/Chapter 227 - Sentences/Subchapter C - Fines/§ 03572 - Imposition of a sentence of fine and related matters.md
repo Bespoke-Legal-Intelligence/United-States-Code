@@ -68,7 +68,7 @@ Delinquency.—A fine or payment of restitution is delinquent if a payment is mo
 
 (i)
 
-Default.—A fine or payment of restitution is in default if a payment is delinquent for morethan 90 days. Notwithstanding any installment schedule, when a fine or payment of restitution is in default, the entire amount of the fine or restitution is due within 30 days after notification of the default, subject to the provisions of section 3613A.
+Default.—A fine or payment of restitution is in default if a payment is delinquent for more than 90 days. Notwithstanding any installment schedule, when a fine or payment of restitution is in default, the entire amount of the fine or restitution is due within 30 days after notification of the default, subject to the provisions of section 3613A.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1995; amended Pub. L. 100–185, §7, Dec. 11, 1987, 101 Stat. 1280; Pub. L. 101–647, title XXXV, §3587, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 103–322, title II, §20403(a), Sept. 13, 1994, 108 Stat. 1825; Pub. L. 104–132, title II, §207(b), Apr. 24, 1996, 110 Stat. 1236.)
 

@@ -114,7 +114,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding the treaty requirements in section 101(a)(15)(E) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(E)), during the transition period, the Secretary of Homeland Security may, upon the applicationof an alien, classify an alien as a CNMI-only nonimmigrant under section 101(a)(15)(E)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(E)(ii)) if the alien—
+&emsp;Notwithstanding the treaty requirements in section 101(a)(15)(E) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(E)), during the transition period, the Secretary ofHomeland Security may, upon the application of an alien, classify an alien as a CNMI-only nonimmigrant under section 101(a)(15)(E)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(E)(ii)) if the alien—
 
 &emsp;&emsp;(A) has been admitted to the Commonwealth in long-term investor status under the immigration laws of the Commonwealth before the transition program effective date;
 
@@ -222,7 +222,7 @@ By governor.—Not later than 60 days before the end of each calendar year, the 
 
 &emsp;&emsp;&emsp;(ii)
 
-By gao.—Not later than December 31, 2019, and biennially thereafter, the Comptroller General of the United States shall submit a report to the Chair and Ranking Member of the Committee on Energy and Natural Resources of the Senate, the Chair and Ranking Member of the Committee onNatural Resources of the House of Representatives, the Chair and Ranking Member of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chair and Ranking Member of the Committee on Education and the Workforce of the House of Representatives that identifies the ratio between United States workers and other workers in the Commonwealth's workforce during each of the previous 5 calendar years.
+By gao.—Not later than December 31, 2019, and biennially thereafter, the Comptroller General of the United States shall submit a report to the Chair and Ranking Member of the Committee on Energy and Natural Resources of the Senate, the Chairand Ranking Member of the Committee on Natural Resources of the House of Representatives, the Chair and Ranking Member of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chair and Ranking Member of the Committee on Education and the Workforce of the House of Representatives that identifies the ratio between United States workers and other workers in the Commonwealth's workforce during each of the previous 5 calendar years.
 
 &emsp;&emsp;(D)
 
@@ -288,6 +288,26 @@ Defined term.—In this clause, the term "legitimate business" means a real, act
 
 Construction occupations.—A permit for Construction and Extraction Occupations (as defined by the Department of Labor as Standard Occupational Classification Group 47–0000) may not be issued for any worker other than a worker described in paragraph (7)(B).
 
+&emsp;&emsp;(E)
+
+Typhoon recovery.—
+
+&emsp;&emsp;&emsp;(i)
+
+Permits for construction workers.—Notwithstanding any numerical cap set forth in subparagraph (B) for each of fiscal years 2020, 2021, and 2022, the Secretary of Homeland Security shall increase by 3,000, for each such fiscal year, the total number of permits available under this subsection for Construction and Extraction Occupations (as defined by the Department of Labor as Standard Occupational Classification Group 47–0000).
+
+&emsp;&emsp;&emsp;(ii)
+
+Permit requirements.—The Secretary may only issue a permit made available under clause (i) to a prospectiveemployer if the permit is for an alien who—
+
+&emsp;&emsp;&emsp;&emsp;(I) is a national of a country designated eligible to participate in the program under section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(ii)(b)) during calendar year 2018; and
+
+&emsp;&emsp;&emsp;&emsp;(II) is performing service or labor pursuant to a contract or subcontract for construction, repairs, renovations, or facility services directly connected to, or associated with recovery from a presidentially declared major disaster or emergency (as those terms are defined in section 5122 of title 42), or for preparation for a future disaster or emergency.
+
+&emsp;&emsp;&emsp;(iii)
+
+Exception for construction workers.—Subparagraph (D)(v) shall not apply to a permit made available under clause (i) for any fiscal year described in such clause.
+
 &emsp;(4) The Secretary of Homeland Security shall set the conditions for admission of such an alien under the transition program, and the Secretary of State shall authorize the issuance of nonimmigrant visas for such an alien. Such a visa shall not be valid for admission to the United States, as defined in section 101(a)(38) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(38)), except admission to the Commonwealth or to Guam for the purpose of transit only. An alien admitted to the Commonwealth on the basis of such a visa shall be permitted to engage in employment only as authorized pursuant to the transition program.
 
 &emsp;(5) Such an alien shall be permitted to transfer between employers in the Commonwealth during the period of such alien's authorized stay therein, without permission of the employee's current or prior employer, within the alien's occupational category or another occupational category the Secretary of Homeland Security has found requires alien workers to supplement the resident workforce. Approval of a petition filed by the new employer with a start date within the same fiscal year as the current permit shall not count against the numerical limitation for that period.
@@ -350,9 +370,83 @@ Long-term workers.—An alien who was admitted to the Commonwealth as a Commonwe
 
 &emsp;The Secretary of Homeland Security may execute any administratively final order of exclusion, deportation or removal issued under authority of the immigration laws of the United States before, on, or after the transition period effective date, or under authority of the immigration laws of the Commonwealth before the transition period effective date, upon any subject of such order found in the Commonwealth on or after the transition period effective date, regardless whether the alien has previously been removed from the United States or the Commonwealth pursuant to such order.
 
+#### (6) Special provision regarding long-term residents of the Commonwealth
+
+#### (A) CNMI Resident status
+
+&emsp;&emsp;An alien described in subparagraph (B) may, upon the application of the alien, be admitted in CNMI Resident status to the Commonwealth subject to the following rules:
+
+&emsp;&emsp;&emsp;(i) The alien shall be treated as an alien lawfully admitted to the Commonwealth only, including permitting entry to and exit from the Commonwealth, until the earlier of the date on which—
+
+&emsp;&emsp;&emsp;&emsp;(I) the alien ceases to reside in the Commonwealth; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the alien's status is adjusted under section 245 of the Immigration and Nationality Act (8 U.S.C. 1255) to that of an alien lawfully admitted for permanent residence in accordance with all applicable eligibility requirements.
+
+&emsp;&emsp;&emsp;(ii) The Secretary of Homeland Security—
+
+&emsp;&emsp;&emsp;&emsp;(I) shall establish a process for such alien to apply for CNMI Resident status during the 180-day period beginning on a date determined by the Secretary but not later than the first day of the sixth month after June 25, 2019; and
+
+&emsp;&emsp;&emsp;&emsp;(II) may, in the Secretary's discretion, authorize deferred action or parole, as appropriate, with work authorization, for such alien beginning on June 25, 2019, and continuing through the end of such 180-day period or the date of adjudication of the alien's application for CNMI Resident status, whichever is later.
+
+&emsp;&emsp;&emsp;(iii) Nothing in this subparagraph may be construed to provide any alien granted status under this subparagraph with public assistance to which the alien is not otherwise entitled.
+
+&emsp;&emsp;&emsp;(iv) An alien granted status under this paragraph—
+
+&emsp;&emsp;&emsp;&emsp;(I) is subject to all grounds of deportability under section 237 of the Immigration and Nationality Act (8 U.S.C. 1227);
+
+&emsp;&emsp;&emsp;&emsp;(II) is subject to all grounds of inadmissibility under section 212 of the Immigration and Nationality Act (8 U.S.C. 1182) if seeking admission to the United States at a port of entry in the Commonwealth;
+
+&emsp;&emsp;&emsp;&emsp;(III) is inadmissible to the United States at any port of entry outside the Commonwealth, except that the Secretary of Homeland Security may in the Secretary's discretion authorize admission of such alien at a port of entry in Guam for the purpose of direct transit to the Commonwealth, which admission shall be considered an admission to the Commonwealth;
+
+&emsp;&emsp;&emsp;&emsp;(IV) automatically shall lose such status if the alien travels from the Commonwealth to any other place in the United States, except that the Secretary of Homeland Security may in the Secretary's discretion establish procedures for the advance approval on a case-by-case basis of such travel for a temporary and legitimate purpose, and the Secretary may in the Secretary's discretion authorize the direct transit of aliens with CNMI Resident status through Guam to a foreign place;
+
+&emsp;&emsp;&emsp;&emsp;(V) shall be authorized to work in the Commonwealth incident to status; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) shall be issued appropriate travel documentation and evidence of work authorization by the Secretary.
+
+#### (B) Aliens described
+
+&emsp;&emsp;An alien is described in this subparagraph if the alien—
+
+&emsp;&emsp;&emsp;(i) was lawfully present on June 25, 2019, or on December 31, 2018, in the Commonwealth under the immigration laws of the United States, including pursuant to a grant of parole under section 212(d)(5) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(5)) or deferred action;
+
+&emsp;&emsp;&emsp;(ii) is admissible as an immigrant to the United States under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), except that no immigrant visa is required;
+
+&emsp;&emsp;&emsp;(iii) resided continuously and lawfully in the Commonwealth from November 28, 2009, through June 25, 2019;
+
+&emsp;&emsp;&emsp;(iv) is not a citizen of the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau; and
+
+&emsp;&emsp;&emsp;(v) in addition—
+
+&emsp;&emsp;&emsp;&emsp;(I) was born in the Northern Mariana Islands between January 1, 1974, and January 9, 1978;
+
+&emsp;&emsp;&emsp;&emsp;(II) was, on November 27, 2009, a permanent resident of the Commonwealth (as defined in section 4303 of title 3 of the Northern Mariana Islands Commonwealth Code, in effect on May 8, 2008);
+
+&emsp;&emsp;&emsp;&emsp;(III) is the spouse or child (as defined in section 101(b)(1) of the Immigration and Nationality Act (8 U.S.C. 1101(b)(1))) of an alien described in subclause (I) or (II);
+
+&emsp;&emsp;&emsp;&emsp;(IV) was, on November 27, 2011, a spouse, child, or parent of a United States citizen, notwithstanding the age of the United States citizen, and continues to have such family relationship with the citizen on the date of the application described in subparagraph (A); or
+
+&emsp;&emsp;&emsp;&emsp;(V) had a grant of parole under section 212(d)(5) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(5)) on December 31, 2018, under the former parole program for certain in-home caregivers administered by United States Citizenship and Immigration Services.
+
+#### (C) Authority of Attorney General
+
+&emsp;&emsp;Beginning on the first day of the 180-day period established by the Secretary of Homeland Security under subparagraph (A)(ii)(I), the Attorney General may accept and adjudicate an application for CNMI Resident status under this paragraph by an alien who is in removal proceedings before the Attorney General if the alien—
+
+&emsp;&emsp;&emsp;(i) makes an initial application to the Attorney General within such 180-day period; or
+
+&emsp;&emsp;&emsp;(ii) applied to the Secretary of Homeland Security during such 180-period <sup>3</sup> and before being placed in removal proceedings, and the Secretary denied the application.
+
+#### (D) Judicial review
+
+&emsp;&emsp;Notwithstanding any other law, no court shall have jurisdiction to review any decision of the Secretary of Homeland Security or the Attorney General on an application under this paragraph or any other action or determination of the Secretary of Homeland Security or the Attorney General to implement, administer, or enforce this paragraph.
+
+#### (E) Procedure
+
+&emsp;&emsp;The requirements of chapter 5 of title 5 (commonly referred to as the Administrative Procedure Act), or any other law relating to rulemaking, information collection or publication in the Federal Register shall not apply to any action to implement, administer or enforce this paragraph.
+
 #### (f) Effect on other laws
 
-The provisions of this section and of the immigration laws, as defined in section 101(a)(17) ofthe Immigration and Nationality Act (8 U.S.C. 1101(a)(17)), shall, on the transition program effective date, supersede and replace all laws, provisions, or programs of the Commonwealth relating to the admission of aliens and the removal of aliens from the Commonwealth.
+The provisions of this section and of the immigration laws, as defined in section 101(a)(17) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(17)), shall, on the transition program effective date, supersede and replace all laws, provisions, or programs of the Commonwealth relating to the admission of aliens and the removal of aliens from the Commonwealth.
 
 #### (g) Accrual of time for purposes of section 212(a)(9)(B) of the Immigration and Nationality Act
 
@@ -404,17 +498,17 @@ In this section:
 
 &emsp;&emsp;(B) an alien who has been lawfully admitted for permanent residence; or
 
-&emsp;&emsp;(C) a citizen of the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau (known collectively as the "Freely Associated States") who has been lawfully admitted to the United States pursuant to—
+&emsp;&emsp;(C) a citizen of the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau (known collectively as the "Freely Associated States")who has been lawfully admitted to the United States pursuant to—
 
-&emsp;&emsp;&emsp;(i) section 141 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia (48 U.S.C. 1921 note); <sup>3</sup> or
+&emsp;&emsp;&emsp;(i) section 141 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia (48 U.S.C. 1921 note); <sup>4</sup> or
 
 &emsp;&emsp;&emsp;(ii) section 141 of the Compact of Free Association between the United States and the Government of Palau (48 U.S.C. 1931 note).
 
-(Pub. L. 94–241, §6, as added Pub. L. 110–229, title VII, §702(a), May 8, 2008, 122 Stat. 854; amended Pub. L. 113–235, §10, Dec. 16, 2014, 128 Stat. 2134; Pub. L. 115–53, §2, Aug. 22, 2017, 131 Stat. 1091; Pub. L. 115–91, div. A, title X, §1049(a), Dec. 12, 2017, 131 Stat. 1558; Pub. L. 115–218, §3(a), July 24, 2018, 132 Stat. 1547; Pub. L. 115–232, div. A, title X, §1045(a), Aug. 13, 2018, 132 Stat. 1959.)
+(Pub. L. 94–241, §6, as added Pub. L. 110–229, title VII, §702(a), May 8, 2008, 122 Stat. 854; amended Pub. L. 113–235, §10, Dec. 16, 2014, 128 Stat. 2134; Pub. L. 115–53, §2, Aug. 22, 2017, 131 Stat. 1091; Pub. L. 115–91, div. A, title X, §1049(a), Dec. 12, 2017, 131 Stat. 1558; Pub. L. 115–218, §3(a), July 24, 2018, 132 Stat. 1547; Pub. L. 115–232, div. A, title X, §1045(a), Aug. 13, 2018, 132 Stat. 1959; Pub. L. 116–24, §2, June 25, 2019, 133 Stat. 977; Pub. L. 116–94, div. P, title IX, §902, Dec. 20, 2019, 133 Stat. 3197.)
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsecs. (d)(3)(A) and (e)(3), (4), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsecs. (d)(3)(A) and (e)(3), (4), (6)(B)(ii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 The Consolidated Natural Resources Act of 2008, referred to in subsec. (e)(1)(B), (3), is Pub. L. 110–229, May 8, 2008, 122 Stat. 754. Section 702(i) of the Act is set out as a note under this section. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 1 of Title 16, Conservation, and Tables.
 
@@ -424,11 +518,15 @@ Section 141 of the Compact of Free Association between the United States and the
 
 #### Amendments
 
+<b>2019</b>—Subsec. (d)(3)(E). Pub. L. 116–94 added subpar. (E).
+
+Subsec. (e)(6). Pub. L. 116–24 added par. (6).
+
 <b>2018</b>—Subsec. (a)(2). Pub. L. 115–218, §3(a)(1)(A), substituted "2029" for "2019".
 
 Subsec. (a)(6). Pub. L. 115–218, §3(a)(1)(B), amended par. (6) generally. Prior to amendment, text read as follows: "In addition to fees charged pursuant to section 286(m) of the Immigration and Nationality Act (8 U.S.C. 1356(m)) to recover the full costs of providing adjudication services, the Secretary of Homeland Security shall charge an annual supplemental fee of $200 per nonimmigrant worker to each prospective employer who is issued a permit under subsection (d) of this section during the transition period. Such supplemental fee shall be paid into the Treasury of the Commonwealth government for the purpose of funding ongoing vocational educational curricula and program development by Commonwealth educational entities."
 
-Subsec. (b)(1)(B). Pub. L. 115–232, §1045(a)(1), amended subpar. (B) generally. Prior to amendment, text read asfollows: "In the case of such an alien who seeks admission under section 101(a)(15)(H)(ii)(b) of such Act, such alien, if otherwise qualified, may, before October 1, 2023, be admitted under such section for a period of up to 3 years to perform service or labor on Guam or the Commonwealth pursuant to any agreement entered into by a prime contractor or subcontractor calling for services or labor required for performance of a contact or subcontract for construction, repairs, renovations, or facility services that is directly connected to, or associated with, the military realignment occurring on Guam and the Commonwealth, notwithstanding the requirement of such section that the service or labor be temporary."
+Subsec. (b)(1)(B). Pub. L. 115–232, §1045(a)(1), amended subpar. (B) generally. Prior to amendment, text read as follows: "In the case of such an alien who seeks admission under section 101(a)(15)(H)(ii)(b) of such Act, such alien, if otherwise qualified, may, before October 1, 2023, be admitted under such section for a period of up to 3 years to perform service or labor on Guam or the Commonwealth pursuant to any agreement entered into by a prime contractor or subcontractor calling for services or labor required for performance of a contact or subcontract for construction, repairs, renovations, or facility services that is directly connected to, or associated with, the military realignment occurring on Guam and the Commonwealth, notwithstanding the requirement of such section that the service or labor be temporary."
 
 Subsec. (b)(2). Pub. L. 115–232, §1045(a)(2), amended par. (2) generally. Prior to amendment, par. (2) provided numerical limitation on number of aliens that could be admitted for any fiscal year and directed that par. (1)(B) would not apply with respect to performance of services or labor at a location other than Guam or the Commonwealth.
 
@@ -466,6 +564,10 @@ Subsec. (d)(2). Pub. L. 113–235, §10(2)(A), substituted " 'ending on Decembe
 
 Subsec. (d)(5), (6). Pub. L. 113–235, §10(2)(B), (C), redesignated par. (6) as (5), and struck out former par. (5), which related to ascertaining current and anticipated labor needs of the Commonwealth, determination whether an extension of up to 5 years of provisions of subsection is necessary, publication of notice of such extension, and factors in determining whether alien workers are necessary to ensure adequate number of workers.
 
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–232, div. A, title X, §1045(b), Aug. 13, 2018, 132 Stat. 1959, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 13, 2018\]."
@@ -502,7 +604,7 @@ Pub. L. 110–229, title VII, §705, May 8, 2008, 122 Stat. 867, as amended by P
 
 "(a)
 
-In General.—Except as specifically provided in this section or otherwise in this subtitle \[subtitle A (§§701–705) of title VII of Pub. L. 110–229, enacting this section and sections 1807 and 1808 of this title, amending section 1804 of this title and sections 1101, 1158, 1182, 1184, and 1225 of Title 8, Immigration and Nationality, enacting provisions set out as notes under this section, section 1801 of this title, and section 1182 of Title 8, and amending provisions set out as notes under section 1801 of this title\], this subtitle and the amendments made by this subtitle shall take effect on the date of enactment of this Act \[May 8, 2008\].
+In General.—Except as specifically provided in this section or otherwise in this subtitle \[subtitle A (§§701–705) of title VII of Pub. L. 110–229, enacting this section and sections 1807 and 1808 of this title, amending section 1804 of this title and sections 1101, 1158, 1182, 1184, and 1225 of Title 8, Aliens and Nationality, enacting provisions set out as notes under this section, section 1801 of this title, and section 1182 of Title 8, and amending provisions set out as notes under section 1801 of this title\], this subtitle and the amendments made by this subtitle shall take effect on the date of enactment of this Act \[May 8, 2008\].
 
 "(b)
 
@@ -510,7 +612,7 @@ Amendments to the Immigration and Nationality Act.—The amendments to the Immig
 
 "(c)
 
-Construction.—Nothing in this subtitle or the amendments made by this subtitle shall be construed to make any residence or presence in the Commonwealth before the transition program effective date described in section 6 of Public Law 94–241 \[48 U.S.C. 1806\] (as added by section 702(a)) residence or presence in the United States, except that—
+Construction.—Nothing in this subtitle or the amendments made by this subtitle shall be construed to make any residence or presence in the Commonwealth before the transition program effective date described in section 6 of Public Law 94–241 \[48 U.S.C. 1806\]\(as added by section 702(a)) residence or presence in the United States, except that—
 
 &emsp;"(1) for the purpose of determining whether an alien lawfully admitted for permanent residence (as defined in section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20))\[)\] has abandoned or lost such status by reason of absence from the United States, such alien's presence in the Commonwealth, before, on or after November 28, 2009, shall be considered to be presence in the United States; and
 
@@ -552,7 +654,7 @@ Pub. L. 115–218, §2, July 24, 2018, 132 Stat. 1547, provided that: "The purpo
 
 #### Outreach and Training
 
-Pub. L. 115–218, §3(d), July 24, 2018, 132 Stat. 1554, provided that: "Not later than 120 days after the date onwhich the Secretary of Labor publishes an interim final rule in the Federal Register in accordance with subsection (b)(2) \[set out as a Rulemaking note above\], the Secretary shall conduct outreach and training in the Commonwealth of the Northern Mariana Islands for employers and workers on the foreign labor certification process set forth in section 6 of the Joint Resolution entitled 'A Joint Resolution to approve the "Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America", and for other purposes' \[48 U.S.C. 1806\], as amended by subsection (b) \[probably should be "(a)"\], including the minimum wage requirement set forth in subsection (d)(2)(C) of such section."
+Pub. L. 115–218, §3(d), July 24, 2018, 132 Stat. 1554, provided that: "Not later than 120 days after the date on which the Secretary of Labor publishes an interim final rule in the Federal Register in accordance with subsection (b)(2) \[set out as a Rulemaking note above\], the Secretary shall conduct outreach and training in the Commonwealth of the Northern Mariana Islands for employers and workers on the foreign labor certification process set forth in section 6 of the Joint Resolution entitled 'A Joint Resolution to approve the "Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America", and for other purposes' \[48 U.S.C. 1806\], as amended by subsection (b) \[probably should be "(a)"\], including the minimum wage requirement set forth in subsection (d)(2)(C) of such section."
 
 #### Congressional Intent
 
@@ -582,7 +684,7 @@ Immigration and Growth.—In recognition of the need to ensure uniform adherence
 
 "(b)
 
-Avoiding Adverse Effects.—In recognition of the Commonwealth's unique economic circumstances, history, and geographical location, it is the intent of the Congress that the Commonwealth be given as much flexibility as possible in maintaining existing businesses and other revenue sources, and developing new economic opportunities, consistent with the mandates of this subtitle. This subtitle, and the amendments made by this subtitle, should be implemented wherever possible to expand tourism and economic development in the Commonwealth, including aiding prospective tourists in gaining access to the Commonwealth's memorials, beaches, parks, dive sites, and other points of interest."
+Avoiding Adverse Effects.—In recognition of the Commonwealth's unique economic circumstances,history, and geographical location, it is the intent of the Congress that the Commonwealth be given as much flexibility as possible in maintaining existing businesses and other revenue sources, and developing new economic opportunities, consistent with the mandates of this subtitle. This subtitle, and the amendments made by this subtitle, should be implemented wherever possible to expand tourism and economic development in the Commonwealth, including aiding prospective tourists in gaining access to the Commonwealth's memorials, beaches, parks, dive sites, and other points of interest."
 
 #### Reports
 
@@ -612,7 +714,7 @@ Pub. L. 110–229, title VII, §702(i), May 8, 2008, 122 Stat. 866, provided tha
 
 &emsp;"(2) administer its nonrefoulement protection program—
 
-&emsp;&emsp;"(A) according to the terms and procedures set forth in the Memorandum of Agreement entered into between the Commonwealth of the Northern Mariana Islands and the United States Department of Interior, Office of Insular Affairs, executed on September 12, 2003 (which terms and procedures, including but not limited to funding by the Secretary of the Interior and performance by the Secretary of Homeland Security of the duties of 'Protection Consultant' to the Commonwealth, shall have effect on and after the date of enactment of this Act \[May 8, 2008\]), as well as CNMI Public Law 13–61 and theImmigration Regulations Establishing a Procedural Mechanism for Persons Requesting Protection from Refoulement; and
+&emsp;&emsp;"(A) according to the terms and procedures set forth in the Memorandum of Agreement entered into between the Commonwealth of the Northern Mariana Islands and the United States Department of Interior, Office of Insular Affairs, executed on September 12, 2003 (which terms and procedures, including but not limited to funding by the Secretary of the Interior and performance by the Secretary of Homeland Security of the duties of 'Protection Consultant' to the Commonwealth, shall have effect on and after the date of enactment of this Act \[May 8, 2008\]), as well as CNMI Public Law 13–61 and the Immigration Regulations Establishing a Procedural Mechanism for Persons Requesting Protection from Refoulement; and
 
 &emsp;&emsp;"(B) so as not to remove or otherwise effect the involuntary return of any alien whom the Protection Consultant has determined to be eligible for protection from persecution or torture."
 
@@ -620,5 +722,7 @@ Pub. L. 110–229, title VII, §702(i), May 8, 2008, 122 Stat. 866, provided tha
 
 <i><sup>2</sup></i><i> So in original. Probably should be "contract".</i>
 
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "180-day period".</i>
+
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 

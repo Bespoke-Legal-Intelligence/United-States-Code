@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-(1) There is hereby established the Black Canyon of the Gunnison National Park in the State of Colorado as generally depicted on the mapidentified in section 410fff–1 of this title. The Black Canyon of the Gunnison National Monument is hereby abolished as such, the lands and interests therein are incorporated within and made part of the new Black Canyon of the Gunnison National Park, and any funds available for purposes of the monument shall be available for purposes of the park.<sup>1</sup>
+(1) There is hereby established the Black Canyon of the Gunnison National Park in the State of Colorado as generally depicted on the map identified in section 410fff–1 of this title. The Black Canyon of the Gunnison National Monument is hereby abolished as such, the lands and interests therein are incorporated within and made part of the new Black Canyon of the Gunnison National Park, and any funds available for purposes of the monument shall be available for purposes of the park.<sup>1</sup>
 
 (2) The boundary of the Park is revised to include the addition of approximately 2,530 acres, as generally depicted on the map entitled "Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications" and dated April 2, 2003.
 
@@ -20,7 +20,7 @@ Subject to valid existing rights, all Federal lands within the park <sup>1</sup
 
 #### (e) Grazing
 
-(1)(A) Consistent with the requirements of this subsection, including the limitation in paragraph (3), the Secretary shall allow the grazing of livestock within the park <sup>1</sup> to continue where authorized under permits or leases in existence as of October 21, 1999. Grazing shall be at no more than the current level, and subject to applicable laws and National Park Service regulations.
+(1)(A) Consistent with the requirements of this subsection, including the limitation in paragraph (3), the Secretary shall allow the grazing of livestock within the park <sup>1</sup> to continue where authorized under permits or leases in existence as of October 21, 1999. Grazing shall be at nomore than the current level, and subject to applicable laws and National Park Service regulations.
 
 (B) Nothing in this subsection shall be construed as extending grazing privileges for any party or their assignee in any area of the park <sup>1</sup> where, prior to October 21, 1999, such use was scheduled to expire according to the terms of a settlement by the United States Claims Court affecting property incorporated into the boundary of the Black Canyon of the Gunnison National Monument.
 
@@ -74,7 +74,7 @@ Pub. L. 108–128, §2(b), Nov. 17, 2003, 117 Stat. 1355, provided that: "On the
 
 #### Access to Water Delivery Facilities
 
-Pub. L. 108–128, §5, Nov. 17, 2003, 117 Stat. 1357, provided that: "The Commissioner of Reclamation shall retain administrative jurisdiction over the Crystal Dam Access Road and land, facilities, and roads of the Bureau of Reclamation in the East Portal area, including the Gunnison Tunnel, and the Crystal Dam area, as depicted on the map entitled 'Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications', and dated April 2, 2003, for the maintenance, repair, construction, replacement, and operation of any facilities relating to the delivery of water and power under the jurisdiction of the Bureau of Reclamation."
+Pub. L. 108–128, §5, Nov. 17, 2003, 117 Stat. 1357, provided that: "The Commissioner of Reclamation shall retain administrative jurisdiction over the Crystal Dam Access Road and land, facilities, and roads of theBureau of Reclamation in the East Portal area, including the Gunnison Tunnel, and the Crystal Dam area, as depicted on the map entitled 'Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications', and dated April 2, 2003, for the maintenance, repair, construction, replacement, and operation of any facilities relating to the delivery of water and power under the jurisdiction of the Bureau of Reclamation."
 
 <i><sup>1</sup></i><i> So in original. The word "park" probably should be capitalized.</i>
 

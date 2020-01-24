@@ -14,7 +14,7 @@ For the purpose of this subchapter, the term "law enforcement officer" means—
 
 &emsp;(6) a pretrial services officer (referred to in section 3153 of title 18).
 
-(Added Pub. L. 101–509, title V, §529 \[title IV, §408(a)\], Nov. 5, 1990, 104 Stat. 1427, 1467; amended Pub. L. 102–141, title VI, §627, Oct. 28, 1991, 105 Stat. 874; Pub. L. 102–378, §2(21), Oct. 2, 1992, 106 Stat. 1348.)
+(Added Pub. L. 101–509, title V, §529 \[title IV, §408(a)\], Nov. 5, 1990, 104 Stat. 1427, 1467; amended Pub. L. 102–141, title VI, §627, Oct. 28, 1991, 105Stat. 874; Pub. L. 102–378, §2(21), Oct. 2, 1992, 106 Stat. 1348.)
 
 #### Amendments
 

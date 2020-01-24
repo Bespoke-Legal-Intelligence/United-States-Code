@@ -4,7 +4,7 @@
 
 The Assistant Secretary, acting through the Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging, shall establish and carry out a program for—
 
-&emsp;(1) assisting eligible entities in prioritizing, on a continuing basis, the needs of the service population of the entities relating to elder rights;
+&emsp;(1) assisting eligible entities in prioritizing, on a continuing basis, the needs of the servicepopulation of the entities relating to elder rights;
 
 &emsp;(2) making grants to eligible entities to carry out vulnerable elder rights protection activities that the entities determine to be priorities; and
 

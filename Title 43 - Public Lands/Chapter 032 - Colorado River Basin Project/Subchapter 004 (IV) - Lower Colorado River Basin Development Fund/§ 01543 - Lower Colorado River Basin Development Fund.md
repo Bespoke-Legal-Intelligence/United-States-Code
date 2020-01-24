@@ -52,7 +52,7 @@ Except as provided in subsection (f), revenues credited to the development fund 
 
 &emsp;&emsp;&emsp;(i) to make deposits totaling $66,000,000, adjusted to reflect changes since January 1, 2004, in the construction cost indices applicable to the types of construction involved in construction of the New Mexico Unit, into the New Mexico Unit Fund as provided by section 212(i) of the Arizona Water Settlements Act in 10 equal annual payments beginning in 2012;
 
-&emsp;&emsp;&emsp;(ii) upon satisfaction of the conditions set forth in subsections (j) and (k) of section 212, to pay certain of the costs associated with construction of the New Mexico Unit, in addition to any amounts that may be expended from the New Mexico Unit Fund, in a minimum amount of $34,000,000 and a maximum amount of $62,000,000, as provided in section 212 of the Arizona Water Settlements Act, as adjusted to reflect changes since January 1, 2004, in the construction cost indices applicable to the types of construction involved in construction of the New Mexico Unit;
+&emsp;&emsp;&emsp;(ii) upon satisfaction of the conditions set forth in subsections (j) and (k) of section 212, to pay certain of the costs associated with construction of the New Mexico Unit, in addition to any amounts that may be expended from the New Mexico Unit Fund, in a minimum amount of $34,000,000and a maximum amount of $62,000,000, as provided in section 212 of the Arizona Water Settlements Act, as adjusted to reflect changes since January 1, 2004, in the construction cost indices applicable to the types of construction involved in construction of the New Mexico Unit;
 
 &emsp;&emsp;&emsp;(iii) to pay the costs associated with the construction of distribution systems required to implement the provisions of—
 
@@ -94,7 +94,7 @@ Except as provided in subsection (f), revenues credited to the development fund 
 
 &emsp;&emsp;(C) to reimburse the general fund of the Treasury for fixed operation, maintenance, and replacement charges previously paid under paragraph (2)(A);
 
-&emsp;&emsp;(D) to reimburse the general fund of the Treasury for costs previously paid undersubparagraphs (B) through (E) of paragraph (2);
+&emsp;&emsp;(D) to reimburse the general fund of the Treasury for costs previously paid under subparagraphs (B) through (E) of paragraph (2);
 
 &emsp;&emsp;(E) to pay to the general fund of the Treasury the annual installment on any debt relating to the Central Arizona Project under section 485h(d) of this title, made nonreimbursable under section 106(b) of the Arizona Water Settlements Act;
 

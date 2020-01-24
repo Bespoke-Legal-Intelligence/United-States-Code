@@ -32,3 +32,7 @@ In this section, the term "broadcasting" means the distribution of media content
 
 (Pub. L. 113–272, §8, Dec. 18, 2014, 128 Stat. 2964.)
 
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+

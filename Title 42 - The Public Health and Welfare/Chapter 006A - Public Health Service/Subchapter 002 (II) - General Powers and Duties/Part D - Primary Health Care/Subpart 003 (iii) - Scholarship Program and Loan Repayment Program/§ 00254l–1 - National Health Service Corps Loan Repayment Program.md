@@ -48,7 +48,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(A) The Secretary shall distribute to health professions schools materials providing information on the Loan Repayment Program and shall encourage the schools to disseminate the materials to the students of the schools.
 
-&emsp;(B)(i) In the case of any health professional whose period of obligated service under theLoan Repayment Program is nearing completion, the Secretary shall encourage the individual to remain in a health professional shortage area and to continue providing primary health services.
+&emsp;(B)(i) In the case of any health professional whose period of obligated service under the Loan Repayment Program is nearing completion, the Secretary shall encourage the individual to remain in a health professional shortage area and to continue providing primary health services.
 
 &emsp;(ii) During the period in which a health professional is planning and making the transition to private practice from obligated service under the Loan Repayment Program, the Secretary may provide assistance to the professional regarding such transition if the professional is remaining in a health professional shortage area and is continuing to provide primary health services.
 
@@ -94,7 +94,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&emsp;(iii) in the case of an individual described in subsection (b)(1)(C), while enrolled in such course of study or training, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study or training); and
 
-&emsp;&emsp;&emsp;(iv) to serve for a time period (hereinafter in this subpart referred to as the "period of obligated service") equal to 2 years or such longer period as the individual may agree to, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which such individual is assigned by the Secretary as a member of the Corps or released under section 254n of this title;
+&emsp;&emsp;&emsp;(iv) to serve for a time period (hereinafter in this subpart referred to as the "period of obligated service") equal to 2 years or such longer period as the individual may agree to, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which such individual is assigned by the Secretary as a memberof the Corps or released under section 254n of this title;
 
 &emsp;(2) a provision permitting the Secretary to extend for such longer additional periods, as the individual may agree to, the period of obligated service agreed to by the individual under paragraph (1)(B)(iv), including extensions resulting in an aggregate period of obligated service in excess of 4 years;
 
@@ -164,7 +164,7 @@ A prior section 338B of act July 1, 1944, was renumbered section 338C by section
 
 Subsec. (a)(2). Pub. L. 107–251, §310(1)(B), struck out "(including mental health professionals)" before period at end.
 
-Subsec. (b)(1)(A). Pub. L. 107–251, §310(2), added subpar. (A) and struck out former subpar. (A) which read as follows: "must have a degree in medicine, osteopathic medicine, dentistry, or other health profession, or be certified as a nurse midwife, nurse practioner, or physician assistant;".
+Subsec. (b)(1)(A). Pub. L. 107–251, §310(2), added subpar. (A) and struck out former subpar. (A) which readas follows: "must have a degree in medicine, osteopathic medicine, dentistry, or other health profession, or be certified as a nurse midwife, nurse practioner, or physician assistant;".
 
 Subsec. (e)(1). Pub. L. 107–251, §310(3), struck out par. (1) designation and heading.
 
@@ -264,7 +264,7 @@ Pub. L. 101–597, title II, §202(g)(2), Nov. 16, 1990, 104 Stat. 3026, provide
 
 #### Regulations
 
-Pub. L. 100–177, title II, §205, Dec. 1, 1987, 101 Stat. 1003, provided that: "Not later than 180 days after theeffective date of the amendments made by this title \[Dec. 21, 1987\], the Secretary of Health and Human Services shall issue regulations for the loan repayment programs established by the amendments \[enacting this section and sections 254q and 254q–1 of this title, amending sections 242a, 254d, 254g, 254h–1, and 254o of this title, and repealing former section 254q of this title\]."
+Pub. L. 100–177, title II, §205, Dec. 1, 1987, 101 Stat. 1003, provided that: "Not later than 180 days after the effective date of the amendments made by this title \[Dec. 21, 1987\], the Secretary of Health and Human Services shall issue regulations for the loan repayment programs established by the amendments \[enacting this section and sections 254q and 254q–1 of this title, amending sections 242a, 254d, 254g, 254h–1, and 254o of this title, and repealing former section 254q of this title\]."
 
 #### Clarification on Current Eligibility for Loan Repayment Programs
 

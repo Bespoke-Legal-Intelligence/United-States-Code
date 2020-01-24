@@ -28,7 +28,7 @@ In this section:
 
 #### (2) Renewable energy
 
-&emsp;The term "renewable energy" means electric energy generated from solar, wind, biomass, landfill gas, ocean (including tidal, wave, current, and thermal), geothermal, municipal solid waste, or new hydroelectric generation capacity achieved from increased efficiency or additions of new capacity at an existing hydroelectric project.
+&emsp;The term "renewable energy" means electric energy generated from solar, wind, biomass,landfill gas, ocean (including tidal, wave, current, and thermal), geothermal, municipal solid waste, or new hydroelectric generation capacity achieved from increased efficiency or additions of new capacity at an existing hydroelectric project.
 
 #### (c) Calculation
 

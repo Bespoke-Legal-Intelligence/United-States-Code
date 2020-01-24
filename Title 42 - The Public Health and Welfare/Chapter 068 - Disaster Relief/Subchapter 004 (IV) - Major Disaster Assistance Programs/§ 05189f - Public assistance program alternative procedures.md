@@ -52,7 +52,7 @@ The alternative procedures adopted under this section shall include the followin
 
 &emsp;&emsp;&emsp;(ii) other activities to improve future Public Assistance operations or planning;
 
-&emsp;&emsp;(E) in determining eligible costs under section 5172 of this title, the Administrator shall make available, at an applicant's request and where the Administrator or the certified cost estimate prepared by the applicant's professionally licensed engineers has estimated an eligible Federal share for a project of at least $5,000,000, an independent expert panel to validate the estimated eligible cost consistent with applicable regulations and policies implementing this section;
+&emsp;&emsp;(E) in determining eligible costs under section 5172 of this title, the Administrator shall make available, at an applicant's request and where the Administrator or thecertified cost estimate prepared by the applicant's professionally licensed engineers has estimated an eligible Federal share for a project of at least $5,000,000, an independent expert panel to validate the estimated eligible cost consistent with applicable regulations and policies implementing this section;
 
 &emsp;&emsp;(F) in determining eligible costs under section 5172 of this title, the Administrator shall, at the applicant's request, consider properly conducted and certified cost estimates prepared by professionally licensed engineers (mutually agreed upon by the Administrator and the applicant), to the extent that such estimates comply with applicable regulations, policy, and guidance; and
 

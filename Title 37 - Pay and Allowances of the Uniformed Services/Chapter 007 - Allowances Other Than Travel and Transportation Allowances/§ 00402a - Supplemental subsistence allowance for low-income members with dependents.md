@@ -48,7 +48,7 @@ Reapplication.—Upon the termination of the effective period of the supplementa
 
 (f)
 
-Eligibility for Other Federal Assistance.—(1) A child or spouse of a member of thearmed forces receiving the supplemental subsistence allowance under this section who, except on account of the receipt of such allowance, would be eligible to receive a benefit described in paragraph (2) shall be considered to be eligible for that benefit notwithstanding the receipt of such allowance.
+Eligibility for Other Federal Assistance.—(1) A child or spouse of a member of the armed forces receiving the supplemental subsistence allowance under this section who, except on account of the receipt of such allowance, would be eligible to receive a benefit described in paragraph (2) shall be considered to be eligible for that benefit notwithstanding the receipt of such allowance.
 
 (2) The benefits referred to in paragraph (1) are as follows:
 
@@ -116,7 +116,7 @@ Subsec. (h)(3). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(T), substituted "su
 
 <b>2006</b>—Subsec. (b)(3)(B). Pub. L. 109–364, §1071(c)(6), substituted "title" for "section".
 
-Subsec. (f). Pub. L. 109–163, §608(b), as amended by Pub. L. 109–364, §1071(e)(4), substituted "Secretary ofHomeland Security, with respect to the Coast Guard" for "Secretary of Transportation" and struck out at end "No report is required under this subsection after March 1, 2006."
+Subsec. (f). Pub. L. 109–163, §608(b), as amended by Pub. L. 109–364, §1071(e)(4), substituted "Secretary of Homeland Security, with respect to the Coast Guard" for "Secretary of Transportation" and struck out at end "No report is required under this subsection after March 1, 2006."
 
 Subsec. (i). Pub. L. 109–163, §608(a), struck out heading and text of subsec. (i). Text read as follows: "No supplemental subsistence allowance may be provided under this section after September 30, 2006."
 

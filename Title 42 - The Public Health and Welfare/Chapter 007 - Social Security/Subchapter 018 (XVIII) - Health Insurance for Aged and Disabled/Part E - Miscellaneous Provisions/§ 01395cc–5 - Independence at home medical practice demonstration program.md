@@ -52,7 +52,7 @@
 
 #### (B) Physician
 
-&emsp;&emsp;The term "physician" includes, except as the Secretary may otherwise provide, any individual who furnishes services for which payment may be made as physicians' services and has the medical training or experience to fulfill the physician's role described in subparagraph (A)(i).
+&emsp;&emsp;The term "physician" includes, except as the Secretary may otherwise provide, anyindividual who furnishes services for which payment may be made as physicians' services and has the medical training or experience to fulfill the physician's role described in subparagraph (A)(i).
 
 #### (2) Participation of nurse practitioners and physician assistants
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(B) is not enrolled in a Medicare Advantage plan under part C or a PACE program under section 1395eee of this title;
 
-&emsp;&emsp;(C) has 2 or more chronic illnesses, such as congestive heart failure, diabetes, other dementias designated by the Secretary, chronic obstructive pulmonary disease, ischemic heart disease, stroke, Alzheimer's Diseaseand neurodegenerative diseases, and other diseases and conditions designated by the Secretary which result in high costs under this subchapter;
+&emsp;&emsp;(C) has 2 or more chronic illnesses, such as congestive heart failure, diabetes, other dementias designated by the Secretary, chronic obstructive pulmonary disease, ischemic heart disease, stroke, Alzheimer's Disease and neurodegenerative diseases, and other diseases and conditions designated by the Secretary which result in high costs under this subchapter;
 
 &emsp;&emsp;(D) within the past 12 months has had a nonelective hospital admission;
 
@@ -162,7 +162,7 @@ The Secretary shall conduct an independent evaluation of the demonstration progr
 
 #### (h) Funding
 
-For purposes of administering and carrying out the demonstration program, other than for payments for items and services furnished under this subchapter and incentive payments under subsection (c), in addition to funds otherwise appropriated, there shall be transferred to the Secretary for the Center for Medicare \& Medicaid Services Program Management Account from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in proportions determined appropriate by the Secretary) $5,000,000 for each of fiscal years 2010 through 2015. Amounts transferred under this subsectionfor a fiscal year shall be available until expended.
+For purposes of administering and carrying out the demonstration program, other than for payments for items and services furnished under this subchapter and incentive payments under subsection (c), in addition to funds otherwise appropriated, there shall be transferred to the Secretary for the Center for Medicare \& Medicaid Services Program Management Account from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in proportions determined appropriate by the Secretary) $5,000,000 for each of fiscal years 2010 through 2015. Amounts transferred under this subsection for a fiscal year shall be available until expended.
 
 #### (i) Termination
 

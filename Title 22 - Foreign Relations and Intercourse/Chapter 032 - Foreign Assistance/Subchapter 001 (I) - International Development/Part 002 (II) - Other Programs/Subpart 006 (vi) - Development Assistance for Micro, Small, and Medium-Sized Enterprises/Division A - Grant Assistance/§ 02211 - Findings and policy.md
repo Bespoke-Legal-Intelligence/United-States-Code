@@ -66,7 +66,7 @@ Pub. L. 108–484, §7, Dec. 23, 2004, 118 Stat. 3930, provided that: "It is the
 
 &emsp;"(2) should include in the report required by section 258 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2214\] (as added by section 6 of this Act) a description of all matching assistance (as described in paragraph (1)) provided for the prior year by recipients of microenterprise development assistance under such title;
 
-&emsp;"(3) should ensure that recipients of microenterprise development assistance under such title do notexpend an unreasonably large percentage of such assistance on administrative costs;
+&emsp;"(3) should ensure that recipients of microenterprise development assistance under such title do not expend an unreasonably large percentage of such assistance on administrative costs;
 
 &emsp;"(4) should not use recipients of microenterprise development assistance under such title to carry out critical management functions of the Agency, including functions such as strategy development or overall management of programs in a country; and
 

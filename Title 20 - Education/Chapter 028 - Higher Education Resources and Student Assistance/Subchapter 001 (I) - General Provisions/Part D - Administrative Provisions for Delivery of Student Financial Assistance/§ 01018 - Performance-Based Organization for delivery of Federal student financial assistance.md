@@ -66,7 +66,7 @@
 
 #### (4) Independence
 
-&emsp;Subject to paragraph (1), in carrying out its functions, the PBO shall exercise independentcontrol of its budget allocations and expenditures, personnel decisions and processes, procurements, and other administrative and management functions.
+&emsp;Subject to paragraph (1), in carrying out its functions, the PBO shall exercise independent control of its budget allocations and expenditures, personnel decisions and processes, procurements, and other administrative and management functions.
 
 #### (5) Audits and review
 
@@ -184,7 +184,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Chief Operating Officer is authorized to be paid at an annual rate of basic pay not to exceed the maximum rate of basic pay for the Senior Executive Service under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(B) of such title. The compensation of the Chief Operating Officer shall be considered for purposes of section 207(c)(2)(A) of title 18 to be the equivalent of that described under clause (ii) of section 207(c)(2)(A) of such title.
+&emsp;&emsp;The Chief Operating Officer is authorized to be paid at an annual rate of basic pay not to exceed the maximum rate of basic pay for the Senior Executive Service under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(B) of such title. The compensation of the Chief Operating Officer shall be considered for purposes of section 207(c)(2)(A) of title 18 to bethe equivalent of that described under clause (ii) of section 207(c)(2)(A) of such title.
 
 #### (B) Bonus
 
@@ -258,7 +258,7 @@
 
 #### (3) Excepted service
 
-&emsp;The Chief Operating Officer may appoint, without regard to the provisions of title 5 governing appointments in the competitive service, technical and professional employees to administer the functions of the PBO. These employees may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+&emsp;The Chief Operating Officer may appoint, without regard to the provisions of title 5 governing appointments in the competitive service, technical and professional employees to administer the functions of the PBO. These employees may be paid without regard to theprovisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
 #### (h) Establishment of fair and equitable system for measuring staff performance
 

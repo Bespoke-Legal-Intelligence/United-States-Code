@@ -30,7 +30,7 @@ Definitions.—As used in this section, the following terms mean the following:
 
 &emsp;&emsp;(B) is located in an establishment making no direct or indirect charge for admission;
 
-&emsp;&emsp;(C) is accompanied by a list which is comprised of the titles of all the musical worksavailable for performance on it, and is affixed to the phonorecord player or posted in the establishment in a prominent position where it can be readily examined by the public; and
+&emsp;&emsp;(C) is accompanied by a list which is comprised of the titles of all the musical works available for performance on it, and is affixed to the phonorecord player or posted in the establishment in a prominent position where it can be readily examined by the public; and
 
 &emsp;&emsp;(D) affords a choice of works available for performance and permits the choice to be made by the patrons of the establishment in which it is located.
 

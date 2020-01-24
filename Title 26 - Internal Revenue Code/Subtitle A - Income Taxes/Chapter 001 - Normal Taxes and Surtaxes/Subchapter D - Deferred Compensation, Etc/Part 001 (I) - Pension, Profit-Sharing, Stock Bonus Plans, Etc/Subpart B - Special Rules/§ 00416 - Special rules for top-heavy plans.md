@@ -360,7 +360,7 @@ Subsec. (g)(4)(E). Pub. L. 107–16, §613(c)(2), in heading substituted "last y
 
 Subsec. (g)(4)(H). Pub. L. 107–16, §613(d), added subpar. (H).
 
-Subsec. (i)(1)(A). Pub. L. 107–16, §613(a)(1)(D), in concluding provisions, substituted "in the case of plan years beginning after December 31, 2002, the $130,000 amount in clause (i) shall be adjusted at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase under this sentence which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000." for "For purposes of clause (ii), if 2 employees have the same interest in the employer, the employee having greater annual compensation from the employer shall be treated as having a larger interest."
+Subsec. (i)(1)(A). Pub. L. 107–16, §613(a)(1)(D), in concluding provisions, substituted "in the case of plan years beginning after December 31, 2002, the $130,000 amount in clause (i) shall be adjusted at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase under this sentence which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000." for "For purposes of clause (ii), if 2 employees have the same interest in the employer, the employee having greater annualcompensation from the employer shall be treated as having a larger interest."
 
 Pub. L. 107–16, §613(a)(1)(A), struck out "or any of the 4 preceding plan years" after "plan year" in introductory provisions.
 

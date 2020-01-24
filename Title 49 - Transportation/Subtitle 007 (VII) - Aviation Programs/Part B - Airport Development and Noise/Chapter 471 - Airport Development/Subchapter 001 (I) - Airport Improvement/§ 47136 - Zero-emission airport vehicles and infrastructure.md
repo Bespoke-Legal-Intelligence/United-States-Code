@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation may establish a pilot program under which the sponsors of public-use airports may use funds made available under this chapter or section 48103 for use at such airports to carry out—
+In General.—The Secretary of Transportation may establish a pilot program under which the sponsors of public-use airports mayuse funds made available under this chapter or section 48103 for use at such airports to carry out—
 
 &emsp;(1) activities associated with the acquisition, by purchase or lease, and operation of eligible zero-emission vehicles and equipment, including removable power sources for such vehicles; and
 

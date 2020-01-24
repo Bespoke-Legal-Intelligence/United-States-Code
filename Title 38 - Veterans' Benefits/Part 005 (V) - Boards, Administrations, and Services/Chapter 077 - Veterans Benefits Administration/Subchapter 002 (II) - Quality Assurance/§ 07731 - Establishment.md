@@ -2,7 +2,7 @@
 
 (a) The Secretary shall carry out a quality assurance program in the Veterans Benefits Administration. The program may be carried out through a single quality assurance division in the Administration or through separate quality assurance entities for each of the principal organizational elements (known as "services") of the Administration.
 
-(b) The Secretary shall ensure that any quality assurance entity established and operated under subsection (a) is established and operated so as to meet generally applicable governmentalstandards for independence and internal controls for the performance of quality reviews of Government performance and results.
+(b) The Secretary shall ensure that any quality assurance entity established and operated under subsection (a) is established and operated so as to meet generally applicable governmental standards for independence and internal controls for the performance of quality reviews of Government performance and results.
 
 (c)(1) The Secretary shall enter into a contract with an independent third-party entity to conduct, during the three-year period beginning on the date of the enactment of the Veterans' Benefits Improvement Act of 2008, an assessment of the quality assurance program carried out under subsection (a).
 
@@ -22,7 +22,7 @@
 
 (4)(A) Beginning on the date that is six months after the date of the enactment of the Veterans' Benefits Improvement Act of 2008, the Secretary shall—
 
-&emsp;(i) for each claim for disability compensation under laws administered by the Secretary submitted to the Secretary on or after such date, retain, monitor, and store in an accessible format the data described in subparagraph (B); and
+&emsp;(i) for each claim for disability compensation under laws administered by the Secretarysubmitted to the Secretary on or after such date, retain, monitor, and store in an accessible format the data described in subparagraph (B); and
 
 &emsp;(ii) develop a demographic baseline for the data retained, monitored, and stored under subparagraph (A).
 

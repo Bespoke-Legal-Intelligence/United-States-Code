@@ -126,7 +126,7 @@ Pub. L. 98–502, §1(b), Oct. 19, 1984, 98 Stat. 2327, provided that: "It is th
 
 #### Tennessee Valley Authority Audits Unaffected by Single Audit Requirements
 
-Pub. L. 98–502, §2(b), Oct. 19, 1984, 98 Stat. 2334, provided that: "The provisions of this Act \[enacting this chapter and provisions set out as notes under this section\] shall not diminish or otherwise affect the authority of the Tennessee Valley Authority to conduct itsown audits of any matter involving funds disbursed by the Tennessee Valley Authority."
+Pub. L. 98–502, §2(b), Oct. 19, 1984, 98 Stat. 2334, provided that: "The provisions of this Act \[enacting this chapter and provisions set out as notes under this section\] shall not diminish or otherwise affect the authority of the Tennessee Valley Authority to conduct its own audits of any matter involving funds disbursed by the Tennessee Valley Authority."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -34,12 +34,16 @@
 | [7524\.](%C2%A7%2007524%20-%20Annual%20notice%20of%20tax%20delinquency.md) | Annual notice of tax delinquency. |
 | [7525\.](%C2%A7%2007525%20-%20Confidentiality%20privileges%20relating%20to%20taxpayer%20communications.md) | Confidentiality privileges relating to taxpayer communications. |
 | [7526\.](%C2%A7%2007526%20-%20Low-income%20taxpayer%20clinics.md) | Low-income taxpayer clinics. |
+| [7526A.](%C2%A7%2007526A%20-%20Return%20preparation%20programs%20for%20applicable%20taxpayers.md) | Return preparation programs for applicable taxpayers. |
 | [7527\.](%C2%A7%2007527%20-%20Advance%20payment%20of%20credit%20for%20health%20insurance%20costs%20of%20eligible%20individuals.md) | Advance payment of credit for health insurance costs of eligible individuals. |
 | [7528\.](%C2%A7%2007528%20-%20Internal%20Revenue%20Service%20user%20fees.md) | Internal Revenue Service user fees. |
+| [7529\.](%C2%A7%2007529%20-%20Notification%20of%20suspected%20identity%20theft.md) | Notification of suspected identity theft. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–25, title I, §1401(b), title II, §2007(c), July 1, 2019, 133 Stat. 997, 1006, added items 7526A and 7529.
 
 <b>2003</b>—Pub. L. 108–121, title I, §104(b)(3), Nov. 11, 2003, 117 Stat. 1338, inserted "or contingency operation" after "combat zone" in item 7508.
 
@@ -119,5 +123,7 @@ Pub. L. 85–321, §3(a), Feb. 11, 1958, 72 Stat. 6, added item 7512.
 - [&sect; 07524 - Annual notice of tax delinquency](%C2%A7%2007524%20-%20Annual%20notice%20of%20tax%20delinquency.md)
 - [&sect; 07525 - Confidentiality privileges relating to taxpayer communications](%C2%A7%2007525%20-%20Confidentiality%20privileges%20relating%20to%20taxpayer%20communications.md)
 - [&sect; 07526 - Low-income taxpayer clinics](%C2%A7%2007526%20-%20Low-income%20taxpayer%20clinics.md)
+- [&sect; 07526A - Return preparation programs for applicable taxpayers](%C2%A7%2007526A%20-%20Return%20preparation%20programs%20for%20applicable%20taxpayers.md)
 - [&sect; 07527 - Advance payment of credit for health insurance costs of eligible individuals](%C2%A7%2007527%20-%20Advance%20payment%20of%20credit%20for%20health%20insurance%20costs%20of%20eligible%20individuals.md)
 - [&sect; 07528 - Internal Revenue Service user fees](%C2%A7%2007528%20-%20Internal%20Revenue%20Service%20user%20fees.md)
+- [&sect; 07529 - Notification of suspected identity theft](%C2%A7%2007529%20-%20Notification%20of%20suspected%20identity%20theft.md)

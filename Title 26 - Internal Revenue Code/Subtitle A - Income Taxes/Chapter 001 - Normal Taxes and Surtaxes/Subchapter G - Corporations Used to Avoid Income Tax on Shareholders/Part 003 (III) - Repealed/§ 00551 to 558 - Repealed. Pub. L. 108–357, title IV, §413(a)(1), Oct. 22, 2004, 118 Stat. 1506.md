@@ -10,7 +10,7 @@ Section 554, acts Aug. 16, 1954, ch. 736, 68A Stat. 196; Pub. L. 88–272, title
 
 Section 555, act Aug. 16, 1954, ch. 736, 68A Stat. 196, related to determination of gross income of foreign personal holding companies.
 
-Section 556, acts Aug. 16, 1954, ch. 736, 68A Stat. 196; Pub. L. 85–866, title I, §33(a), (b)(1), (c)(1), Sept. 2, 1958, 72 Stat. 1632; Pub. L. 87–403, §3(e), Feb. 2, 1962, 76 Stat. 7; Pub. L. 88–272, title II, §§207(b)(6), 209(c)(2), Feb. 26, 1964, 78 Stat. 42, 46; Pub. L. 91–172, title II, §201(a)(2)(B), Dec. 30, 1969, 83 Stat. 558; Pub. L. 94–455, title XIX, §§1901(a)(80), (b)(32)(G), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1778, 1800, 1834; Pub. L. 97–448, title I, §102(m)(2), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 101–508, title XI, §11802(d)(1), Nov. 5, 1990, 104 Stat. 1388–529, related to undistributed foreign personal holding company income.
+Section 556, acts Aug. 16, 1954, ch. 736, 68A Stat. 196; Pub. L. 85–866, title I, §33(a), (b)(1), (c)(1), Sept. 2, 1958, 72 Stat. 1632; Pub. L. 87–403, §3(e), Feb. 2, 1962, 76 Stat. 7; Pub. L. 88–272, title II, §§207(b)(6), 209(c)(2), Feb. 26, 1964, 78 Stat. 42, 46; Pub. L. 91–172, title II, §201(a)(2)(B),Dec. 30, 1969, 83 Stat. 558; Pub. L. 94–455, title XIX, §§1901(a)(80), (b)(32)(G), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1778, 1800, 1834; Pub. L. 97–448, title I, §102(m)(2), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 101–508, title XI, §11802(d)(1), Nov. 5, 1990, 104 Stat. 1388–529, related to undistributed foreign personal holding company income.
 
 Section 557, act Aug. 16, 1954, ch. 736, 68A Stat. 198, related to inapplicability of section 443(b) of this title in the computation of income.
 

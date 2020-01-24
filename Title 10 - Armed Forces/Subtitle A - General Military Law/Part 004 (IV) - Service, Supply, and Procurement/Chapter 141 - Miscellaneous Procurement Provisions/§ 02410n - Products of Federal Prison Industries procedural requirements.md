@@ -66,7 +66,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) interchange meetings or pre-solicitation conferences with potential offerors.
 
-(Added Pub. L. 107–107, div. A, title VIII, §811(a)(1), Dec. 28, 2001, 115 Stat. 1180; amended Pub. L. 107–314, div. A, title VIII, §819(a)(1), Dec. 2, 2002, 116 Stat. 2612; Pub. L. 109–163, div. A, title X, §1056(c)(4), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 110–181, div. A, title VIII, §827(a)(1), Jan. 28, 2008, 122 Stat. 228.)
+(Added Pub. L. 107–107, div. A, title VIII, §811(a)(1), Dec. 28, 2001, 115 Stat. 1180; amended Pub. L. 107–314, div. A, title VIII, §819(a)(1), Dec. 2, 2002, 116 Stat. 2612; Pub. L. 109–163, div. A, title X, §1056(c)(4), Jan. 6, 2006, 119 Stat. 3439; Pub. L.110–181, div. A, title VIII, §827(a)(1), Jan. 28, 2008, 122 Stat. 228.)
 
 #### Amendments
 

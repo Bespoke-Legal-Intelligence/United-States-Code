@@ -12,7 +12,7 @@
 
 &emsp;(4) a written decision and specific reasons therefor at the earliest practicable date.
 
-(c) An agency may provide, by regulation, for a hearing which may be in lieu of or in addition to the opportunity to answer provided under subsection (b)(2) of this section.
+(c) An agency may provide, by regulation, for a hearing which may be in lieu of or in additionto the opportunity to answer provided under subsection (b)(2) of this section.
 
 (d) An employee against whom an action is taken under this section is entitled to appeal to the Merit Systems Protection Board under section 7701 of this title.
 

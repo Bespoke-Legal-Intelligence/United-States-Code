@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(ii) the sum of the outstanding balance on the loan to be refinanced and the closing costs (including discounts) actually paid by the veteran, as specified by the Secretary in regulations; and
 
-&emsp;(8) in the case of a loan to refinance a loan (other than a loan or installment sales contract described in clause (7) of this subsection or a loan made for a purpose specified in subsection (a)(8) of this section), the amount of the loan to be guaranteed or made does not exceed 100 percent of the reasonable value of thedwelling or farm residence securing the loan, as determined pursuant to section 3731 of this title.
+&emsp;(8) in the case of a loan to refinance a loan (other than a loan or installment sales contract described in clause (7) of this subsection or a loan made for a purpose specified in subsection (a)(8) of this section), the amount of the loan to be guaranteed or made does not exceed 100 percent of the reasonable value of the dwelling or farm residence securing the loan, as determined pursuant to section 3731 of this title.
 
 \[(c) Repealed. Pub. L. 100–198, §3(a)(2), Dec. 21, 1987, 101 Stat. 1315.\]
 
@@ -80,7 +80,7 @@
 
 &emsp;(B) an amount that bears the same relation to the cost of the energy efficiency improvements as the guaranty referred to in subparagraph (A) bears to the amount of the loan minus the cost of such improvements.
 
-(4) The amount of the veteran's entitlement, calculated in accordance with section 3703(a)(1)(B) of this title, shall not be affected by the amount of the guaranty referred to in paragraph (3)(B).
+(4) The amount of the veteran's entitlement, calculated in accordance with subparagraph (B) or (C) of section 3703(a)(1) of this title, shall not be affected by the amount of the guaranty referred to in paragraph (3)(B).
 
 (5) The Secretary shall take appropriate actions to notify eligible veterans, participating lenders, and interested realtors of the availability of loan guarantees under this subsection and the procedures and requirements that apply to the obtaining of such guarantees.
 
@@ -184,7 +184,7 @@
 
 (3) When applying the term "value of the property" to a loan guaranteed under subsection (a)(12), such term means the appraised value of the stock or membership entitling the purchaser to the permanent occupancy of the dwelling unit in the development, project, or structure of the cooperative housing corporation.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, §1810; Pub. L. 90–301, §§1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, §3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, §3, Dec. 31, 1974, 88 Stat. 1864;Pub. L. 94–324, §7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, §205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, §402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, §415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered §3710 and amended Pub. L. 102–83, §§4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677; Pub. L. 104–110, title I, §101(e), Feb. 13, 1996, 110 Stat. 768; Pub. L. 109–461, title V, §501, Dec. 22, 2006, 120 Stat. 3431; Pub. L. 110–389, title V, §504(b), Oct. 10, 2008, 122 Stat. 4176.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, §1810; Pub. L. 90–301, §§1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, §3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, §3, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, §205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, §402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, §415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered §3710 and amended Pub. L. 102–83, §§4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677; Pub. L. 104–110, title I, §101(e), Feb. 13, 1996, 110 Stat. 768; Pub. L. 109–461, title V, §501, Dec. 22, 2006, 120 Stat. 3431; Pub. L. 110–389, title V, §504(b), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 116–23, §6(a)(3), June 25, 2019, 133 Stat. 973.)
 
 #### References in Text
 
@@ -197,6 +197,8 @@ Section 216(b)(1) of the Internal Revenue Code of 1986, referred to in subsec. (
 Another section 11(b) of Pub. L. 100–198 amended section 1831 \[now 3731\] of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (d)(4). Pub. L. 116–23 substituted "subparagraph (B) or (C) of section 3703(a)(1) of this title" for "section 3703(a)(1)(B) of this title".
 
 <b>2008</b>—Subsec. (b)(8). Pub. L. 110–389 substituted "100 percent" for "90 percent".
 
@@ -262,7 +264,7 @@ Subsec. (e)(1)(E). Pub. L. 100–198, §7(a)(3), substituted "by more than 10 ye
 
 Subsec. (e)(1)(F). Pub. L. 100–198, §7(a)(4), added cl. (F).
 
-Subsec. (g)(3). Pub. L. 100–198, §13, inserted at end "If the procedures described in clause (C) of this paragraph include standards for evaluating residual income, the Administrator shall, in establishing such standards,give appropriate consideration to State statistics (in States as to which the Administrator determines that such statistics are reliable) pertinent to residual income and the cost of living in the State in question rather than in a larger region."
+Subsec. (g)(3). Pub. L. 100–198, §13, inserted at end "If the procedures described in clause (C) of this paragraph include standards for evaluating residual income, the Administrator shall, in establishing such standards, give appropriate consideration to State statistics (in States as to which the Administrator determines that such statistics are reliable) pertinent to residual income and the cost of living in the State in question rather than in a larger region."
 
 Subsec. (h). Pub. L. 100–198, §7(c), added subsec. (h).
 
@@ -305,6 +307,10 @@ Subsec. (d). Pub. L. 91–506, §3(2), added subsec. (d).
 <b>1968</b>—Subsec. (b). Pub. L. 90–301, §2(a), substituted "loan to be paid" for "price paid or to be paid" in par. (5) of first sentence and inserted sentence at end relating to notification of veteran concerned of determination of reasonable value of any property, construction, repairs, or alterations.
 
 Subsec. (c). Pub. L. 90–301, §1(a), increased limitation on amount of guaranty entitlement from $7,500 to $12,500.
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–23 applicable with respect to a loan guaranteed under this section on or after Jan. 1, 2020, see section 6(d) of Pub. L. 116–23, set out as a note under section 3703 of this title.
 
 #### Effective Date of 1987 Amendment
 

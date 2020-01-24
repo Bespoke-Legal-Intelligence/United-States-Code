@@ -88,7 +88,7 @@ In this chapter:
 
 #### (B) Separate lines of business or divisions
 
-&emsp;&emsp;If an entity operates through separate lines of business or divisions and holds itself out to the recipient throughout the message as that particular line of business or division rather than as the entity of which such line of business or division is a part, then the line of business or the division shall be treated as the sender of such message for purposes of this chapter.
+&emsp;&emsp;If an entity operates through separate lines of business or divisions and holds itselfout to the recipient throughout the message as that particular line of business or division rather than as the entity of which such line of business or division is a part, then the line of business or the division shall be treated as the sender of such message for purposes of this chapter.
 
 #### (17) Transactional or relationship message
 

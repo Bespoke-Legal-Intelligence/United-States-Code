@@ -58,7 +58,7 @@ Memorandum of the President of the United States, Apr. 18, 1990, 55 F.R. 15207, 
 
 Memorandum for the Director of the Office of Thrift Supervision
 
-By the authority vested in me as President of the United States by the Constitution and laws of theUnited States, including section 301 of title 3 of the United States Code, I hereby delegate to the Director of the Office of Thrift Supervision my authority to ratify actions taken on behalf of, or in the name of, the Office of Thrift Supervision or its Director before April 9, 1990.
+By the authority vested in me as President of the United States by the Constitution and laws of the United States, including section 301 of title 3 of the United States Code, I hereby delegate to the Director of the Office of Thrift Supervision my authority to ratify actions taken on behalf of, or in the name of, the Office of Thrift Supervision or its Director before April 9, 1990.
 
 This memorandum shall be published in the Federal Register.
 

@@ -46,7 +46,7 @@ Subsec. (b)(1). Pub. L. 95–393, §8(b)(2), substituted "to which ambassadors, 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–393 effective at the end of the ninety-day period beginning on Sept. 30, 1978, seesection 9 of Pub. L. 95–393, set out as an Effective Date note under section 254a of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 95–393 effective at the end of the ninety-day period beginning on Sept. 30, 1978, see section 9 of Pub. L. 95–393, set out as an Effective Date note under section 254a of Title 22, Foreign Relations and Intercourse.
 
 #### Statutes Governing Writs of Error To Apply to Appeals
 

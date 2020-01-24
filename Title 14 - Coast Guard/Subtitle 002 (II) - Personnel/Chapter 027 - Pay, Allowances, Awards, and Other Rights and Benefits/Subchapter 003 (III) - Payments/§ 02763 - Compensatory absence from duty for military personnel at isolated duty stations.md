@@ -8,7 +8,7 @@ The Secretary may grant compensatory absence from duty to military personnel of 
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 511 of this title as this section.
 
-<b>2002</b>—Pub. L. 107–295 substituted "Compensatory absence from duty for military personnel at isolated duty stations" for "Compensatory absence of military personnel at isolated aids to navigation" in section catchline and amended text generally. Prior to amendment, text read as follows: "The Secretary, under regulationsprescribed by him, may grant compensatory absence from duty to military personnel of the Coast Guard serving in lightships and at lighthouses and other isolated aids to navigation of the Coast Guard when conditions of duty result in confinement because of isolations or in long periods of continuous duty."
+<b>2002</b>—Pub. L. 107–295 substituted "Compensatory absence from duty for military personnel at isolated duty stations" for "Compensatory absence of military personnel at isolated aids to navigation" in section catchline and amended text generally. Prior to amendment, text read as follows: "The Secretary, under regulations prescribed by him, may grant compensatory absence from duty to military personnel of the Coast Guard serving in lightships and at lighthouses and other isolated aids to navigation of the Coast Guard when conditions of duty result in confinement because of isolations or in long periods of continuous duty."
 
 <b>1976</b>—Pub. L. 94–546 substituted "Secretary" for "head of the department in which the Coast Guard is operating".
 

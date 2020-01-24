@@ -10,7 +10,7 @@
 
 &emsp;(ii) such agency provides the Secretary with reasonable assurances that there will be available to such agency such additional funds as may be necessary to complete the project with respect to which such loan is requested.
 
-(B) Any loan to a public agency shall have such security, have such maturity date, be repayable in such installments, and be subject tosuch other terms and conditions (including provision for recovery in case of default) as the Secretary determines to be necessary to carry out the purposes of this part while adequately protecting the financial interests of the United States.
+(B) Any loan to a public agency shall have such security, have such maturity date, be repayable in such installments, and be subject to such other terms and conditions (including provision for recovery in case of default) as the Secretary determines to be necessary to carry out the purposes of this part while adequately protecting the financial interests of the United States.
 
 (3) In making loans to public agencies under this part, the Secretary shall give due regard to achieving an equitable geographical distribution of such loans.
 
@@ -18,7 +18,7 @@
 
 (1) The Secretary shall from time to time, but with due regard to the financial interests of the United States, sell loans referred to in subsection (a)(1) either on the private market or to the Federal National Mortgage Association in accordance with section 1717 of title 12.
 
-(2) Any loan so sold shall be sold for an amount which is equal (or approximately equal) to the amount of the unpaid principal of such loan as of the time of sale.
+(2) Any loan so sold shall be sold for an amount which is equal (or approximately equal)to the amount of the unpaid principal of such loan as of the time of sale.
 
 #### (c) Agreements
 

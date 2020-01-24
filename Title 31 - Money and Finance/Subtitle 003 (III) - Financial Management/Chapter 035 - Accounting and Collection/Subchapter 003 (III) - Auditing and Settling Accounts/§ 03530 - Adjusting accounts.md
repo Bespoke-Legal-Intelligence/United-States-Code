@@ -1,6 +1,6 @@
 ### §3530. Adjusting accounts
 
-(a) An appropriation or fund currently available for the expense of an accountable function shall be charged with an amount necessary to adjust an account of an accountable official or agent when—
+(a) An appropriation or fund currently available for the expense of an accountable functionshall be charged with an amount necessary to adjust an account of an accountable official or agent when—
 
 &emsp;(1) necessary to adjust the account for a loss to the United States Government resulting from the fault or negligence of the official or agent; and
 

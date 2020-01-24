@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each plaintiff seeking to serve as a representative party on behalf of a class shall provide a sworn certification, which shall bepersonally signed by such plaintiff and filed with the complaint, that—
+&emsp;&emsp;Each plaintiff seeking to serve as a representative party on behalf of a class shall provide a sworn certification, which shall be personally signed by such plaintiff and filed with the complaint, that—
 
 &emsp;&emsp;&emsp;(i) states that the plaintiff has reviewed the complaint and authorized its filing;
 
@@ -80,7 +80,7 @@
 
 #### (iv) Discovery
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, discovery relating to whether a member or members of the purported plaintiff class is the most adequate plaintiff may be conducted by a plaintiff only if the plaintifffirst demonstrates a reasonable basis for a finding that the presumptively most adequate plaintiff is incapable of adequately representing the class.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, discovery relating to whether a member or members of the purported plaintiff class is the most adequate plaintiff may be conducted by a plaintiff only if the plaintiff first demonstrates a reasonable basis for a finding that the presumptively most adequate plaintiff is incapable of adequately representing the class.
 
 #### (v) Selection of lead counsel
 
@@ -206,7 +206,7 @@
 
 #### (1) Mandatory review by court
 
-&emsp;In any private action arising under this chapter, upon final adjudication of the action, the court shall include in the record specific findings regarding compliance by each party and each attorney representing any party with each requirement of Rule 11(b) of the Federal Rules of Civil Procedure as to any complaint, responsive pleading, or dispositive motion.
+&emsp;In any private action arising under this chapter, upon final adjudication of the action,the court shall include in the record specific findings regarding compliance by each party and each attorney representing any party with each requirement of Rule 11(b) of the Federal Rules of Civil Procedure as to any complaint, responsive pleading, or dispositive motion.
 
 #### (2) Mandatory sanctions
 
@@ -272,7 +272,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (ii) Recovery by and costs of covered person
 
-&emsp;&emsp;&emsp;In any case in which a contractual relationship permits, a covered person that prevails in any private action may recover the attorney's fees and costs of that covered person in connection with the action.
+&emsp;&emsp;&emsp;In any case in which a contractual relationship permits, a covered person thatprevails in any private action may recover the attorney's fees and costs of that covered person in connection with the action.
 
 #### (3) Determination of responsibility
 
@@ -282,7 +282,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 &emsp;&emsp;&emsp;(i) whether such person violated the securities laws;
 
-&emsp;&emsp;&emsp;(ii) the percentage of responsibility of such person, measured as a percentage ofthe total fault of all persons who caused or contributed to the loss incurred by the plaintiff; and
+&emsp;&emsp;&emsp;(ii) the percentage of responsibility of such person, measured as a percentage of the total fault of all persons who caused or contributed to the loss incurred by the plaintiff; and
 
 &emsp;&emsp;&emsp;(iii) whether such person knowingly committed a violation of the securities laws.
 
@@ -348,7 +348,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (A) In general
 
-&emsp;&emsp;A covered person who settles any private action at any time before final verdict or judgment shall be discharged from all claims for contribution brought by other persons. Upon entry of the settlement by the court, the court shall enter a bar order constituting the final discharge of all obligations to the plaintiff of the settling covered person arising out of the action. The order shall bar all future claims for contribution arising out of the action—
+&emsp;&emsp;A covered person who settles any private action at any time before final verdict or judgment shall be discharged from all claims for contribution brought by other persons. Upon entry of the settlement by the court,the court shall enter a bar order constituting the final discharge of all obligations to the plaintiff of the settling covered person arising out of the action. The order shall bar all future claims for contribution arising out of the action—
 
 &emsp;&emsp;&emsp;(i) by any person against the settling covered person; and
 
@@ -432,7 +432,7 @@ This section not to affect or apply to any private action arising under this cha
 
 #### Construction
 
-Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
+Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission,by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "if,".</i>
 

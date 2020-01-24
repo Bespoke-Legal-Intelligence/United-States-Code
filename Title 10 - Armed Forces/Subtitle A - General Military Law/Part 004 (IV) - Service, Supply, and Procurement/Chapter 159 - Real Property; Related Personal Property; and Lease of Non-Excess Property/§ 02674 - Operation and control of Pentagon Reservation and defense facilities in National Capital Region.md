@@ -2,7 +2,7 @@
 
 (a)
 
-Pentagon Reservation.—The Secretary of Defense has jurisdiction, custody, and control over, and responsibility for, the operation, maintenance, and management of the Pentagon Reservation.
+Pentagon Reservation.—The Secretary of Defense has jurisdiction, custody, and controlover, and responsibility for, the operation, maintenance, and management of the Pentagon Reservation.
 
 (b)
 
@@ -60,7 +60,7 @@ Definitions.— In this section:
 
 &emsp;(2) The term "National Capital Region" means the geographic area located within the boundaries of (A) the District of Columbia, (B) Montgomery and Prince Georges Counties in the State of Maryland, (C) Arlington, Fairfax, Loudoun, and Prince William Counties and the City of Alexandria in the Commonwealth of Virginia, and (D) all cities and other units of government within the geographic areas of such District, Counties, and City.
 
-&emsp;(3) The term "Pentagon" means that area of land (consisting of approximately 227 acres) and improvements thereon, including parking areas, located in Arlington County, Virginia,containing the Pentagon Office Building and its supporting facilities.
+&emsp;(3) The term "Pentagon" means that area of land (consisting of approximately 227 acres)and improvements thereon, including parking areas, located in Arlington County, Virginia, containing the Pentagon Office Building and its supporting facilities.
 
 &emsp;(4) The term "Mark Center Campus" means that area of land (consisting of approximately 16 acres) and improvements thereon, including parking areas, located in Alexandria, Virginia, and known on the day before the date of the enactment of this paragraph as the Fort Belvoir Mark Center Campus.
 

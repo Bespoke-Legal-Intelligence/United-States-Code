@@ -44,7 +44,7 @@ Not later than 1 year after the date on which the initial report is required to 
 
 &emsp;&emsp;(C) recommendations for any program modifications to improve the effectiveness of the program, to address changed or emerging conditions; and
 
-&emsp;&emsp;(D) an assessment of the experience of recipients of covered grants, including the availability of clear and accurate information, the timeliness of reviews and awards, and the provision of technical assistance, and recommendations for improving that experience.
+&emsp;&emsp;(D) an assessment of the experience of recipients of covered grants, including the availability of clear and accurate information, the timeliness of reviews and awards,and the provision of technical assistance, and recommendations for improving that experience.
 
 #### (d) Grants program measurement study
 

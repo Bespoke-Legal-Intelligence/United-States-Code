@@ -71,7 +71,7 @@ Air National Guard.—During the period ending on December 31, 2019, under regul
 
 &emsp;"(1) An officer of the Air National Guard who fills a vacancy in a federally recognized unit of the Air National Guard may be transferred from the active Air National Guard to the inactive Air National Guard.
 
-&emsp;"(2) An officer of the Air National Guard transferred to the inactive Air National Guard pursuant to paragraph (1) may be transferred from the inactiveAir National Guard to the active Air National Guard to fill a vacancy in a federally recognized unit."
+&emsp;"(2) An officer of the Air National Guard transferred to the inactive Air National Guard pursuant to paragraph (1) may be transferred from the inactive Air National Guard to the active Air National Guard to fill a vacancy in a federally recognized unit."
 
 
 ---

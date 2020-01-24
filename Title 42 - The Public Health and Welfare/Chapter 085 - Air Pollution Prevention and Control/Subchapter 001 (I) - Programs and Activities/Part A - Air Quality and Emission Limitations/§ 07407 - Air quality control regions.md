@@ -124,7 +124,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, not later than 3 years after the date on which the Administrator promulgates the designations referred to in paragraph (6)(B) for a State, the State shall submit, for the entire State, the State implementation plan revisions to meet the requirements promulgated by the Administrator under section7492(e)(1) of this title (referred to in this paragraph as "regional haze requirements").
+&emsp;&emsp;Notwithstanding any other provision of law, not later than 3 years after the date on which the Administrator promulgates the designations referred to in paragraph (6)(B) for a State, the State shall submit, for the entire State, the State implementation plan revisions to meet the requirements promulgated by the Administrator under section 7492(e)(1) of this title (referred to in this paragraph as "regional haze requirements").
 
 #### (B) No preclusion of other provisions
 
@@ -132,7 +132,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 #### (e) Redesignation of air quality control regions
 
-(1) Except as otherwise provided in paragraph (2), the Governor of each State is authorized, with the approval of the Administrator, to redesignate from time to time the air quality control regions within such State for purposes of efficient and effective air quality management. Upon such redesignation, the list under subsection (d) shall be modified accordingly.
+(1) Except as otherwise provided in paragraph (2), the Governor of each State is authorized,with the approval of the Administrator, to redesignate from time to time the air quality control regions within such State for purposes of efficient and effective air quality management. Upon such redesignation, the list under subsection (d) shall be modified accordingly.
 
 (2) In the case of an air quality control region in a State, or part of such region, which the Administrator finds may significantly affect air pollution concentrations in another State, the Governor of the State in which such region, or part of a region, is located may redesignate from time to time the boundaries of so much of such air quality control region as is located within such State only with the approval of the Administrator and with the consent of all Governors of all States which the Administrator determines may be significantly affected.
 
@@ -192,11 +192,11 @@ Pub. L. 105–178, title VI, June 9, 1998, 112 Stat. 463, as amended by Pub. L. 
 
 &emsp;"(2) to ensure that the Governors have adequate time to consider implementation guidance from EPA on drawing area boundaries prior to submitting area designations respecting the July 1997 ozone national ambient air quality standards;
 
-&emsp;"(3) to ensure that the schedule for implementation of the July 1997 revisions of the ambient air quality standards for particulate matter and the schedule forthe Environmental Protection Agency's visibility regulations related to regional haze are consistent with the timetable for implementation of such particulate matter standards as set forth in the President's Implementation Memorandum dated July 16, 1997.
+&emsp;"(3) to ensure that the schedule for implementation of the July 1997 revisions of the ambient air quality standards for particulate matter and the schedule for the Environmental Protection Agency's visibility regulations related to regional haze are consistent with the timetable for implementation of such particulate matter standards as set forth in the President's Implementation Memorandum dated July 16, 1997.
 
 #### "SEC. 6102. PARTICULATE MATTER MONITORING PROGRAM.
 
-"(a) Through grants under section 103 of the Clean Air Act \[42 U.S.C. 7403\] the Administrator of the Environmental Protection Agency shall use appropriated funds no later than fiscal year 2000 to fund 100 percent of the cost of the establishment, purchase, operation and maintenance of a PM<sub>2.5</sub> monitoring network necessary to implement the national ambient air quality standards for PM<sub>2.5</sub> under section 109 of the Clean Air Act \[42 U.S.C. 7409\]. This implementation shall not result in a diversion or reprogramming of funds from other Federal, State or local Clean Air Act activities. Any funds previously diverted or reprogrammed from section 105 Clean Air Act \[42 U.S.C. 7405\] grants for PM<sub>2.5</sub> monitors must be restored to State or local air programs in fiscal year 1999.
+"(a) Through grants under section 103 of the Clean Air Act \[42 U.S.C. 7403\] the Administrator of the Environmental Protection Agency shall use appropriated funds no later than fiscal year 2000 to fund 100 percent of the cost of the establishment, purchase, operation and maintenance of a PM<sub>2.5</sub> monitoring network necessary to implement the national ambient air quality standards for PM<sub>2.5</sub> under section 109 of the Clean Air Act \[42 U.S.C. 7409\]. This implementation shall not result in a diversion or reprogramming of funds from other Federal, State or local Clean Air Act activities.Any funds previously diverted or reprogrammed from section 105 Clean Air Act \[42 U.S.C. 7405\] grants for PM<sub>2.5</sub> monitors must be restored to State or local air programs in fiscal year 1999.
 
 "(b) EPA and the States, consistent with their respective authorities under the Clean Air Act \[42 U.S.C. 7401 et seq.\], shall ensure that the national network (designated in subsection (a)) which consists of the PM<sub>2.5</sub> monitors necessary to implement the national ambient air quality standards is established by December 31, 1999.
 

@@ -1,6 +1,6 @@
 ### §418. Clothing allowance: enlisted members
 
-(a) The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may prescribe the quantity and kind of clothing to be furnished annually to an enlisted member of the armed forces or the National Guard, and may prescribe the amount of a cash allowance to be paid to such a member if clothing is not so furnished to him.
+(a) The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may prescribe the quantity and kindof clothing to be furnished annually to an enlisted member of the armed forces or the National Guard, and may prescribe the amount of a cash allowance to be paid to such a member if clothing is not so furnished to him.
 
 (b) In determining the quantity and kind of clothing or allowances to be furnished pursuant to regulations prescribed under this section to persons employed as National Guard technicians under section 709 of title 32, the Secretary of Defense shall take into account the requirement under subsection (b) of such section for such persons to wear a uniform.
 
@@ -22,7 +22,7 @@
 
 (4) This subsection does not apply to the furnishing of athletic footwear to members of the Army, the Navy, the Air Force, or the Marine Corps upon their initial entry into the armed forces, or prohibit the provision of a cash allowance to such members for such purpose, if the Secretary of Defense determines that compliance with paragraph (2) would result in a sole source contract for procurement of athletic footwear for the purpose stated in paragraph (1) because there would be only a sole certified source of supply for such footwear.
 
-(5) The Secretary of Defense shall ensure that all procurements of athletic footwear to whichthis subsection applies are made using firm fixed price contracts.
+(5) The Secretary of Defense shall ensure that all procurements of athletic footwear to which this subsection applies are made using firm fixed price contracts.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478; Pub. L. 104–106, div. A, title X, §1038(c), Feb. 10, 1996, 110 Stat. 432; Pub. L. 104–201, div. A, title VI, §654, Sept. 23, 1996, 110 Stat. 2583; Pub. L. 106–398, §1 \[\[div. A\], title VI, §611\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. A, title VIII, §817, Dec. 23, 2016, 130 Stat. 2272; Pub. L. 115–91, div. A, title VI, §633, Dec. 12, 2017, 131 Stat. 1431.)
 

@@ -50,7 +50,7 @@ This section may be cited as the "Architect of the Capitol Human Resources Act".
 
 &emsp;&emsp;(B) submit the plan to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, the Joint Committee on the Library, and the Committees on Appropriations of the Senate and the House of Representatives not later than 12 months after July 22, 1994; and
 
-&emsp;&emsp;(C) implement the plan not later than 90 days after the plan is submitted to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of theSenate, the Joint Committee on the Library, and the Committees on Appropriations of the Senate and the House of Representatives, as specified in subparagraph (B).
+&emsp;&emsp;(C) implement the plan not later than 90 days after the plan is submitted to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, the Joint Committee on the Library, and the Committees on Appropriations of the Senate and the House of Representatives, as specified in subparagraph (B).
 
 #### (2) Evaluation and reporting
 
@@ -78,9 +78,7 @@ Pub. L. 104–1, title V, §504(c)(1), Jan. 23, 1995, 109 Stat. 41, provided in 
 
 #### Flexible Work Schedules
 
-Pub. L. 110–161, div. H, title I, §1302, Dec. 26, 2007, 121 Stat. 2242, as amended by Pub. L. 110–437, §505(a), Oct. 20, 2008, 122 Stat. 4998, provided that: "Notwithstanding section 6101 of title 5, United States Code, the Architect of the Capitol may establish and conduct a pilot program to test flexible work schedules within the Architect of the Capitol and Botanic Garden. Such pilot program shall be in accordance with chapter 61 of title 5, United States Code. This authority shall terminate effective September 30, 2010."
-
-\[Pub. L. 110–437, title V, §505(b), Oct. 20, 2008, 122 Stat. 4998, provided that: "The amendment made under subsection (a) \[amending section 1302 of Pub. L. 110–161, set out above\] shall take effect as though enacted as part of the Legislative Branch Appropriations Act, 2008 (Public Law 110–161; 121 Stat. 2218 et seq.)."\]
+Pub. L. 110–161, div. H, title I, §1302, Dec. 26, 2007, 121 Stat. 2242, as amended by Pub. L. 110–437, §505(a), Oct. 20, 2008, 122 Stat. 4998, provided authority, through Sept. 30, 2010, to the Architect of the Capitol to establish and conduct a pilot program to test flexible work schedules within the Architect of the Capitol and Botanic Garden in accordance with chapter 61 of Title 5, United States Code.
 
 #### Temporary Employees; Benefits
 
@@ -110,9 +108,9 @@ Pub. L. 107–68, title I, §133(a), Nov. 12, 2001, 115 Stat. 581, as amended by
 
 "(3) Nothing in this subsection may be construed to require the Architect of the Capitol to provide duplicative benefits for any employee.
 
-"(4) The Architect of the Capitol shall make employer contributions for benefits for employees of the Architect (including temporary employees) directly to any third party designated to receive such contributions on behalf of the employees under a collective bargaining agreement, participation agreement, or any other arrangement entered into by the Architect which provides for such contributions."
+"(4) The Architect of the Capitol shall make employer contributions for benefits for employees of the Architect (including temporary employees) directly to any third party designated to receive such contributions on behalf of the employees under a collective bargaining agreement, participation agreement, or anyother arrangement entered into by the Architect which provides for such contributions."
 
 #### Treatment of Separated Employees of Architect of Capitol
 
-Pub. L. 105–55, title III, §310, Oct. 7, 1997, 111 Stat. 1199, as amended by Pub. L. 105–275, title III, §308(b)–(d), Oct. 21, 1998, 112 Stat. 2452, 2453; Pub. L. 106–57, title III, §308, Sept. 29, 1999, 113 Stat. 427, provided early retirement benefits, voluntary separation incentive payments, competitive service treatment, and retraining,job placement, and counseling services to certain employees of the Office of the Architect of the Capitol.
+Pub. L. 105–55, title III, §310, Oct. 7, 1997, 111 Stat. 1199, as amended by Pub. L. 105–275, title III, §308(b)–(d), Oct. 21, 1998, 112 Stat. 2452, 2453; Pub. L. 106–57, title III, §308, Sept. 29, 1999, 113 Stat. 427, provided early retirement benefits, voluntary separation incentive payments, competitive service treatment, and retraining, job placement, and counseling services to certain employees of the Office of the Architect of the Capitol.
 

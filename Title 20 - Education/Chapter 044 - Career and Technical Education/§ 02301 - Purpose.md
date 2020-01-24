@@ -1,14 +1,14 @@
 ### §2301. Purpose
 
-The purpose of this chapter is to develop more fully the academic and career and technical skills of secondary education students and postsecondary education students who elect to enroll in career and technical education programs, by—
+The purpose of this chapter is to develop more fully the academic knowledge and technical and employability skills of secondary education students and postsecondary education students who elect to enroll in career and technical education programs and programs of study, by—
 
-&emsp;(1) building on the efforts of States and localities to develop challenging academic and technical standards and to assist students in meeting such standards, including preparation for high skill, high wage, or high demand occupations in current or emerging professions;
+&emsp;(1) building on the efforts of States and localities to develop challenging academic and technical standards and to assist students in meeting such standards, including preparation for high skill, high wage, or in-demand occupations in current or emerging professions;
 
 &emsp;(2) promoting the development of services and activities that integrate rigorous and challenging academic and career and technical instruction, and that link secondary education and postsecondary education for participating career and technical education students;
 
-&emsp;(3) increasing State and local flexibility in providing services and activities designed to develop, implement, and improve career and technical education, including tech prep education;
+&emsp;(3) increasing State and local flexibility in providing services and activities designed to develop, implement, and improve career and technical education;
 
-&emsp;(4) conducting and disseminating national research and disseminating information on best practices that improve career and technical education programs, services, and activities;
+&emsp;(4) conducting and disseminating national research and disseminating information on best practices that improve career and technical education programs and programs of study, services, and activities;
 
 &emsp;(5) providing technical assistance that—
 
@@ -16,41 +16,13 @@ The purpose of this chapter is to develop more fully the academic and career and
 
 &emsp;&emsp;(B) improves the quality of career and technical education teachers, faculty, administrators, and counselors;
 
-&emsp;(6) supporting partnerships among secondary schools, postsecondary institutions, baccalaureate degree granting institutions, area career and technical education schools, local workforce investment boards, business and industry, and intermediaries; and
+&emsp;(6) supporting partnerships among secondary schools, postsecondary institutions, baccalaureate degree granting institutions, area career and technical education schools, local workforce investment boards, business and industry, and intermediaries;
 
-&emsp;(7) providing individuals with opportunities throughout their lifetimes to develop, in conjunction with other education and training programs, the knowledge and skills needed to keep the United States competitive.
+&emsp;(7) providing individuals with opportunities throughout their lifetimes to develop, in conjunction with other education and training programs, the knowledge and skills needed to keep the United States competitive; and
+
+&emsp;(8) increasing the employment opportunities for populations who are chronically unemployed or underemployed, including individuals with disabilities, individuals from economically disadvantaged families, out-of-workforce individuals, youth who are in, or have aged out of, the foster care system, and homeless individuals.
 
 (Pub. L. 88–210, §2, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 684; amended Pub. L. 115–224, §6, July 31, 2018, 132 Stat. 1565.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–224, §§4, 6, July 31, 2018, 132 Stat. 1564, 1565, made amendments to this section, effective July 1, 2019. After July 1, 2019, this section will read as follows:</i>
-
-#### <i>§2301. Purpose</i>
-
-<i>The purpose of this chapter is to develop more fully the academic knowledge and technical and employability skills of secondary education students and postsecondary education students who elect to enroll in career and technical education programs and programs of study, by—</i>
-
-&emsp;<i>(1) building on the efforts of States and localities to develop challenging academic and technical standards and to assist students in meeting such standards, including preparation for high skill, high wage, or in-demand occupations in current or emerging professions;</i>
-
-&emsp;<i>(2) promoting the development of services and activities that integrate rigorous and challenging academic and career and technical instruction, and that link secondary education and postsecondary education for participating career and technical education students;</i>
-
-&emsp;<i>(3) increasing State and local flexibility in providing services and activities designed to develop, implement, and improve career and technical education;</i>
-
-&emsp;<i>(4) conducting and disseminating national research and disseminating information on best practices that improve career and technical education programs and programs of study, services, and activities;</i>
-
-&emsp;<i>(5) providing technical assistance that—</i>
-
-&emsp;&emsp;<i>(A) promotes leadership, initial preparation, and professional development at the State and local levels; and</i>
-
-&emsp;&emsp;<i>(B) improves the quality of career and technical education teachers, faculty, administrators, and counselors;</i>
-
-&emsp;<i>(6) supporting partnerships among secondary schools, postsecondary institutions, baccalaureate degree granting institutions, area career and technical education schools, local workforce investment boards, business and industry, and intermediaries;</i>
-
-&emsp;<i>(7) providing individuals with opportunities throughout their lifetimes to develop, in conjunction with other education and training programs, the knowledge and skills needed to keep the United States competitive; and</i>
-
-&emsp;<i>(8) increasing the employment opportunities for populations who are chronically unemployed or underemployed, including individuals with disabilities, individuals from economically disadvantaged families, out-of-workforce individuals, youth who are in, or have aged out of, the foster care system, and homeless individuals.</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 #### Prior Provisions
 

@@ -1062,7 +1062,7 @@ Report.—Each fiscal year the Director of the Office of Management and Budget s
 
 &emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Oversight and Government Reform of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives.
 
 &emsp;"(2)
 
@@ -1106,7 +1106,7 @@ Guidance by the Office of Management and Budget.—
 
 &emsp;"(1)
 
-In general.—Not later than 6 months after the date of enactment of the Improper Payments Elimination and Recovery Act of 2010 \[July 22, 2010\], the Director of the Office of Management and Budgetshall prescribe guidance for agencies to implement the requirements of this section. The guidance shall not include any exemptions to such requirements not specifically authorized by this section.
+In general.—Not later than 6 months after the date of enactment of the Improper Payments Elimination and Recovery Act of 2010 \[July 22, 2010\], theDirector of the Office of Management and Budget shall prescribe guidance for agencies to implement the requirements of this section. The guidance shall not include any exemptions to such requirements not specifically authorized by this section.
 
 &emsp;"(2)
 

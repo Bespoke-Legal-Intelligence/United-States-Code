@@ -4,5 +4,5 @@ Section, added Pub. L. 85–866, title II, §206(a), Sept. 2, 1958, 72 Stat. 168
 
 #### Effective Date of Repeal
 
-Repeal applicable to estates of decedents dying after Dec. 31, 1981, see section 422(f)(1) of Pub. L. 97–34, setout as an Effective Date of 1981 Amendment note under section 6166 of this title.
+Repeal applicable to estates of decedents dying after Dec. 31, 1981, see section 422(f)(1) of Pub. L. 97–34, set out as an Effective Date of 1981 Amendment note under section 6166 of this title.
 

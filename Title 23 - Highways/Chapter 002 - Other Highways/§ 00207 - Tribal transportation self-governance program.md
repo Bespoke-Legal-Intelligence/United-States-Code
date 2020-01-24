@@ -34,7 +34,7 @@ Contents.—A compact entered into under paragraph (1) shall set forth the gener
 
 &emsp;(3)
 
-Amendments.—A compact entered into with an Indian tribe under paragraph (1) maybe amended only by mutual agreement of the Indian tribe and the Secretary.
+Amendments.—A compact entered into with an Indian tribe under paragraph (1) may be amended only by mutual agreement of the Indian tribe and the Secretary.
 
 (d)
 
@@ -462,7 +462,7 @@ Committee.—
 
 &emsp;&emsp;(A)
 
-In general.—A negotiated rulemaking committee established pursuant to section 565 of title 5 to carry out this subsection shall have as its members only Federal and tribal government representatives, a majority of whom shall be nominated by and berepresentatives of Indian tribes with funding agreements under this title.
+In general.—A negotiated rulemaking committee established pursuant to section 565 of title 5 to carry out this subsection shall have as its members only Federal and tribal government representatives, a majority of whom shall be nominated by and be representatives of Indian tribes with funding agreements under this title.
 
 &emsp;&emsp;(B)
 

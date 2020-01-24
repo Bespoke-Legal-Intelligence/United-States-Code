@@ -30,7 +30,7 @@ Notification.—A person operating as a flight instructor, pilot school, or avia
 
 (d)
 
-Expedited Processing.—The Secretary of Homeland Security shall establish a process toensure that the waiting period under subsection (a) shall not exceed 5 days for an alien (as defined in section 101(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3))) who—
+Expedited Processing.—The Secretary of Homeland Security shall establish a process to ensure that the waiting period under subsection (a) shall not exceed 5 days for an alien (as defined in section 101(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3))) who—
 
 &emsp;(1) holds an airman's certification of a foreign country that is recognized by an agency of the United States, including a military agency, that permits an individual to operate a multi-engine aircraft that has a certificated takeoff weight of more than 12,500 pounds;
 
@@ -38,7 +38,7 @@ Expedited Processing.—The Secretary of Homeland Security shall establish a pro
 
 &emsp;(3) is an individual that has unescorted access to a secured area of an airport designated under section 44936(a)(1)(A)(ii); or
 
-&emsp;(4) is an individual that is part of a class of individuals that the Secretary has determined that providing aviation training to presents minimal risk to aviation or national security because of the aviation training already possessed by such class of individuals.
+&emsp;(4) is an individual that is part of a class of individuals that the Secretary has determinedthat providing aviation training to presents minimal risk to aviation or national security because of the aviation training already possessed by such class of individuals.
 
 (e)
 

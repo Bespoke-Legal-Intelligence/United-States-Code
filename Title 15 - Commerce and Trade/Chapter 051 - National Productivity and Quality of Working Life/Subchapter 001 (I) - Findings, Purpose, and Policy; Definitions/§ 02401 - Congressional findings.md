@@ -54,5 +54,5 @@ Ex. Ord. No. 12089, Oct. 23, 1978, 43 F.R. 49773, as amended by Ex. Ord. No. 121
 
 #### Executive Order No. 12332
 
-Ex. Ord. No. 12332, Nov. 10, 1981, 46 F.R. 55913, which established the National Productivity Advisory Committee, and provided for its membership, functions, etc. and was extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, was revoked by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12332, Nov. 10, 1981, 46 F.R. 55913, which established the National Productivity Advisory Committee, and provided for its membership, functions, etc. and was extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, was revoked by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set outas a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

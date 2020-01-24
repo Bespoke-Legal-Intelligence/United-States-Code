@@ -36,7 +36,7 @@ Not later than 180 days after the end of each fiscal year, the Administrator sha
 
 &emsp;(6) A description of funding provided to Indian Tribes under this chapter or for a juvenile delinquency or prevention program under the Tribal Law and Order Act of 2010 (Public Law 111–211; 124 Stat. 2261), including direct Federal grants and funding provided to Indian Tribes through a State or unit of local government.
 
-&emsp;(7) An analysis and evaluation of the internal controls at the Office of Juvenile Justice and Delinquency Prevention to determine if grantees are following the requirements of the Office of Juvenile Justice and Delinquency Prevention grant programs and what remedialaction the Office of Juvenile Justice and Delinquency Prevention has taken to recover any grant funds that are expended in violation of the grant programs, including instances—
+&emsp;(7) An analysis and evaluation of the internal controls at the Office of Juvenile Justice and Delinquency Prevention to determine if grantees are following the requirements of the Office of Juvenile Justice and Delinquency Prevention grant programs and what remedial action the Office of Juvenile Justice and Delinquency Prevention has taken to recover any grant funds that are expended in violation of the grant programs, including instances—
 
 &emsp;&emsp;(A) in which supporting documentation was not provided for cost reports;
 

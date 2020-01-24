@@ -1,6 +1,6 @@
 ### §1060. Assignment
 
-(a)(1) A registered mark or a mark for which an application to register has been filed shall be assignable with the good will of the business in which the mark is used, or with that part of the good will of the business connected with the use of and symbolized by the mark. Notwithstanding the preceding sentence, no application to register a mark under section 1051(b) of this title shall be assignable prior to the filing of anamendment under section 1051(c) of this title to bring the application into conformity with section 1051(a) of this title or the filing of the verified statement of use under section 1051(d) of this title, except for an assignment to a successor to the business of the applicant, or portion thereof, to which the mark pertains, if that business is ongoing and existing.
+(a)(1) A registered mark or a mark for which an application to register has been filed shall be assignable with the good will of the business in which the mark is used, or with that part of the good will of the business connected with the use of and symbolized by the mark. Notwithstanding the preceding sentence, no application to register a mark under section 1051(b) of this title shall be assignable prior to the filing of an amendment under section 1051(c) of this title to bring the application into conformity with section 1051(a) of this title or the filing of the verified statement of use under section 1051(d) of this title, except for an assignment to a successor to the business of the applicant, or portion thereof, to which the mark pertains, if that business is ongoing and existing.
 
 (2) In any assignment authorized by this section, it shall not be necessary to include the good will of the business connected with the use of and symbolized by any other mark used in the business or by the name or style under which the business is conducted.
 
@@ -20,7 +20,7 @@ Act Feb. 20, 1905, ch. 592, §10, 33 Stat. 727.
 
 #### Amendments
 
-<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–273 amended subsecs. (a) and (b) generally, in subsec. (a) substituting pars. (1) to (5) for substantially identical undesignated provisions, and in subsec. (b) adding provisions relating to service on Director if assignee does not designate name and address of a person resident in the United States on whom may be served notices or process.
+<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–273 amended subsecs. (a) and (b) generally, in subsec. (a) substituting pars. (1) to (5) for substantially identical undesignated provisions, and in subsec. (b) adding provisions relatingto service on Director if assignee does not designate name and address of a person resident in the United States on whom may be served notices or process.
 
 <b>1999</b>—Pub. L. 106–43, §6(a)(2), (3), which directed the amendment of this section by substituting "mark." for "mark," in the first sentence and striking out a second period at the end of the third sentence, could not be executed because "mark," and the second period did not appear subsequent to amendment by Pub. L. 105–330. See 1998 Amendment note below.
 
@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], subs
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1998 Amendment
 

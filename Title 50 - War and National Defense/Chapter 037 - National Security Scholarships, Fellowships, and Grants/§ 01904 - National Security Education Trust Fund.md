@@ -32,7 +32,7 @@ Any obligation acquired by the Fund (except special obligations issued exclusive
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–160, §375(b), struck out "(1)" before "Sums in the Fund", redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: "No amount may be appropriated to the Fund, or obligated from the Fund, unless authorized by law."
+<b>1993</b>—Subsec. (b). Pub. L. 103–160, §375(b), struck out "(1)" before "Sums in the Fund", redesignated formersubpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: "No amount may be appropriated to the Fund, or obligated from the Fund, unless authorized by law."
 
 Subsec. (e)(3). Pub. L. 103–160, §375(a), added par. (3).
 

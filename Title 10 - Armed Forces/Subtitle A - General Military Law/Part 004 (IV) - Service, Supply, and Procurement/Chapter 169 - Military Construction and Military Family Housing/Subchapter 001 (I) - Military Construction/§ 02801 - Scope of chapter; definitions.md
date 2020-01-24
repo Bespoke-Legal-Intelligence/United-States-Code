@@ -12,7 +12,7 @@
 
 &emsp;(3) The term "life-cycle cost-effective", with respect to a project, product, or measure, means that the sum of the present values of investment costs, capital costs, installation costs, energy costs, operating costs, maintenance costs, and replacement costs, as estimated for the lifetime of the project, product, or measure, does not exceed the base case (current or standard) for the practice, product, or measure.
 
-&emsp;(4) The term "military installation" means a base, camp, post, station, yard, center, or other activity under the jurisdiction of the Secretary of a military department or, in the case of an activity in a foreign country, underthe operational control of the Secretary of a military department or the Secretary of Defense, without regard to the duration of operational control.
+&emsp;(4) The term "military installation" means a base, camp, post, station, yard, center, or other activity under the jurisdiction of the Secretary of a military department or, in the case of an activity in a foreign country, under the operational control of the Secretary of a military department or the Secretary of Defense, without regard to the duration of operational control.
 
 &emsp;(5) The term "Secretary concerned" includes the Secretary of Defense with respect to matters concerning the Defense Agencies.
 
@@ -86,5 +86,5 @@ Deadlines.—The Secretary shall promulgate interim MRL standards not later than
 
 "(d)
 
-Report.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall issue a report to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on the integration and utilization of MRLs, including information on quantity, location, problems, and successes."
+Report.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall issue areport to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on the integration and utilization of MRLs, including information on quantity, location, problems, and successes."
 

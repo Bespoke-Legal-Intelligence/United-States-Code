@@ -44,7 +44,7 @@ In determining, for the purposes of this chapter, the price for which an article
 
 &emsp;For purposes of paragraph (1), if—
 
-&emsp;&emsp;(A) the manufacturer, producer, or importer of an article regularly sells (except for tax-free sales) only to a distributor which is a member of the same affiliatedgroup of corporations (as defined in section 1504(a)) as the manufacturer, producer, or importer,
+&emsp;&emsp;(A) the manufacturer, producer, or importer of an article regularly sells (except for tax-free sales) only to a distributor which is a member of the same affiliated group of corporations (as defined in section 1504(a)) as the manufacturer, producer, or importer,
 
 &emsp;&emsp;(B) the distributor regularly sells (except for tax-free sales) such article only to retailers, and
 
@@ -174,7 +174,7 @@ Subsec. (f)(4)(C). Pub. L. 87–770 substituted ", appears in a newspaper or ma
 
 <b>1960</b>—Subsec. (f). Pub. L. 86–781 added subsec. (f).
 
-<b>1958</b>—Subsec. (b). Pub. L. 85–859, §115, inserted provisions in par. (1) requiring, in the case of an article sold at retail, the computation to be on either the price for which the article is sold, or the highest price for which the articles are sold to wholesale distributors, in theordinary course of trade, by manufacturers or producers thereof, whichever is lower, and added pars. (2) and (3).
+<b>1958</b>—Subsec. (b). Pub. L. 85–859, §115, inserted provisions in par. (1) requiring, in the case of an article sold at retail, the computation to be on either the price for which the article is sold, or the highest price for which the articles are sold to wholesale distributors, in the ordinary course of trade, by manufacturers or producers thereof, whichever is lower, and added pars. (2) and (3).
 
 Subsec. (c). Pub. L. 85–859, §117(b), substituted "section 4217(b)" for "subsection (d)".
 

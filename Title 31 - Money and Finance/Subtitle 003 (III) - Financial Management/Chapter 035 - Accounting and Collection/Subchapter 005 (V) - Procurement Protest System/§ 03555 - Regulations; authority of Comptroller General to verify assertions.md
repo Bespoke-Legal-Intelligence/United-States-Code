@@ -22,7 +22,7 @@ Establishment and operation of system.—The Comptroller General shall establish
 
 &emsp;&emsp;(A) a person filing a protest under this subchapter may file the protest through electronic means; and
 
-&emsp;&emsp;(B) all documents and information required with respect to the protest may be disseminated and made available to the parties to the protest through electronic means.
+&emsp;&emsp;(B) all documents and information required with respect to the protest may bedisseminated and made available to the parties to the protest through electronic means.
 
 &emsp;(2)
 

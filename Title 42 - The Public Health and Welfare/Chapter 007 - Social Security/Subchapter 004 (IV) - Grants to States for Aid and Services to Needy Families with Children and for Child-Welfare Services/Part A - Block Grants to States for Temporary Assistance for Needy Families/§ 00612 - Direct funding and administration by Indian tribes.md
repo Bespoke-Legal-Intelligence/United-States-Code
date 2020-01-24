@@ -22,7 +22,7 @@
 
 #### (II) Disagreement with determination
 
-&emsp;&emsp;&emsp;&emsp;If an Indian tribe or tribal organization disagrees with State submitted datadescribed under subclause (I), the Indian tribe or tribal organization may submit to the Secretary such additional information as may be relevant to making the determination under clause (i) and the Secretary may consider such information before making such determination.
+&emsp;&emsp;&emsp;&emsp;If an Indian tribe or tribal organization disagrees with State submitted data described under subclause (I), the Indian tribe or tribal organization may submit to the Secretary such additional information as may be relevant to making the determination under clause (i) and the Secretary may consider such information before making such determination.
 
 #### (2) Grants for Indian tribes that received jobs funds
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(i) The Indian tribe has submitted to the Secretary of Labor a plan which describes how, consistent with section 603(a)(5) of this title, the Indian tribe will use any funds provided under this paragraph during the fiscal year. If the Indian tribe has a tribal family assistance plan, the plan referred to in the preceding sentence shall be in the form of an addendum to the tribal family assistance plan.
 
-&emsp;&emsp;&emsp;(ii) The Indian tribe is operating a program under a tribal family assistance plan approved by the Secretary of Health and Human Services, a program described in paragraph (2)(C), or an employment program funded through other sources under which substantial services are provided to recipients of assistance under a program funded under this part.
+&emsp;&emsp;&emsp;(ii) The Indian tribe is operating a program under a tribal family assistance planapproved by the Secretary of Health and Human Services, a program described in paragraph (2)(C), or an employment program funded through other sources under which substantial services are provided to recipients of assistance under a program funded under this part.
 
 &emsp;&emsp;&emsp;(iii) The Indian tribe has provided the Secretary of Labor with an estimate of the amount that the Indian tribe intends to expend during the fiscal year (excluding tribal expenditures described in section 609(a)(7)(B)(iv) (other than subclause (III) thereof) of this title) pursuant to this paragraph.
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(D) provides that a family receiving assistance under the plan may not receive duplicative assistance from other State or tribal programs funded under this part;
 
-&emsp;&emsp;(E) identifies the employment opportunities in or near the service area or areas ofthe Indian tribe and the manner in which the Indian tribe will cooperate and participate in enhancing such opportunities for recipients of assistance under the plan consistent with any applicable State standards; and
+&emsp;&emsp;(E) identifies the employment opportunities in or near the service area or areas of the Indian tribe and the manner in which the Indian tribe will cooperate and participate in enhancing such opportunities for recipients of assistance under the plan consistent with any applicable State standards; and
 
 &emsp;&emsp;(F) applies the fiscal accountability provisions of section 5(f)(1) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450c(f)(1)),<sup>1</sup> relating to the submission of a single-agency audit report required by chapter 75 of title 31.
 
@@ -210,7 +210,7 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, seesection 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

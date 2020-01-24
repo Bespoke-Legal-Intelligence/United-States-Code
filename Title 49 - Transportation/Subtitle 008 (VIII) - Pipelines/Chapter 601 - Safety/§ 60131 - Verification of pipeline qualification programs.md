@@ -10,7 +10,7 @@ Standards and Criteria.—
 
 &emsp;(1)
 
-Development.—Not later than 1 year after the date of enactment of this section, the Secretary shall ensure that the Department of Transportation has in place standards and criteria for qualification programs referred to in subsection (a).
+Development.—Not later than 1 year after the date of enactment of this section, the Secretary shall ensure that the Department ofTransportation has in place standards and criteria for qualification programs referred to in subsection (a).
 
 &emsp;(2)
 
@@ -48,7 +48,7 @@ In general.—The Secretary shall review the qualification program of each pipel
 
 &emsp;(2)
 
-Deadline for completion.—Reviews and verifications under this subsection shall becompleted not later than 3 years after the date of the enactment of this section.
+Deadline for completion.—Reviews and verifications under this subsection shall be completed not later than 3 years after the date of the enactment of this section.
 
 &emsp;(3)
 

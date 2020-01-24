@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;Funds obtained by, transferred to, or credited to the Financial Research Fund shall beimmediately available to the Office, and shall remain available until expended, to pay the expenses of the Office in carrying out the duties and responsibilities of the Office.
+&emsp;Funds obtained by, transferred to, or credited to the Financial Research Fund shall be immediately available to the Office, and shall remain available until expended, to pay the expenses of the Office in carrying out the duties and responsibilities of the Office.
 
 #### (2) Fees, assessments, and other funds not Government funds
 
@@ -47,10 +47,6 @@ During the 2-year period following July 21, 2010, the Board of Governors shall p
 Beginning 2 years after July 21, 2010, the Secretary shall establish, by regulation, and with the approval of the Council, an assessment schedule, including the assessment base and rates, applicable to bank holding companies with total consolidated assets of $$250,000,000,000 <sup>2</sup> or greater and nonbank financial companies supervised by the Board of Governors, that takes into account differences among such companies, based on the considerations for establishing the prudential standards under section 5325 of this title, to collect assessments equal to the total expenses of the Office.
 
 (Pub. L. 111–203, title I, §155, July 21, 2010, 124 Stat. 1418; Pub. L. 115–174, title IV, §401(c)(1)(D), May 24, 2018, 132 Stat. 1358.)
-
-#### Delayed Effective Date of Amendment
-
-<i>For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under section 5365 of this title.</i>
 
 #### Codification
 

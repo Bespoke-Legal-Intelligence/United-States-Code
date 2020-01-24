@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;A period of creditable coverage shall not be counted, with respect to enrollment of an individual under a group health plan, if, after such period and before the enrollment date, there was a 63-day period during all of which the individual was not covered under any creditable coverage.
+&emsp;&emsp;A period of creditable coverage shall not be counted, with respect to enrollment of anindividual under a group health plan, if, after such period and before the enrollment date, there was a 63-day period during all of which the individual was not covered under any creditable coverage.
 
 #### (B) Waiting period not treated as a break in coverage
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) on the request on behalf of an individual made not later than 24 months after the date of cessation of the coverage described in clause (i) or (ii), whichever is later.
 
-> &emsp;&emsp;The certification under clause (i) may be provided, to the extent practicable, at atime consistent with notices required under any applicable COBRA continuation provision.
+> &emsp;&emsp;The certification under clause (i) may be provided, to the extent practicable, at a time consistent with notices required under any applicable COBRA continuation provision.
 
 #### (B) Certification
 
@@ -220,7 +220,7 @@ For purposes of this section—
 
 #### (B) Dependent special enrollment period
 
-&emsp;&emsp;The dependent special enrollment period under this subparagraph shall be a period of not less than 30 days and shall begin on the later of—
+&emsp;&emsp;The dependent special enrollment period under this subparagraph shall be a period ofnot less than 30 days and shall begin on the later of—
 
 &emsp;&emsp;&emsp;(i) the date dependent coverage is made available, or
 
@@ -266,11 +266,11 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
 
-(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2073; amended Pub. L. 105–34, title XV, §1531(b)(1)(A), Aug. 5, 1997, 111 Stat. 1084; Pub. L. 111–3, title III, §311(a), Feb. 4, 2009, 123 Stat. 64; Pub. L. 111–5, div. B, title I, §1899D(a), Feb. 17, 2009, 123 Stat. 425; Pub. L. 111–344, title I, §114(a), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(1), Oct. 21, 2011, 125 Stat. 419.)
+(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2073; amended Pub. L. 105–34, title XV, §1531(b)(1)(A), Aug. 5, 1997, 111 Stat. 1084; Pub. L. 111–3, title III, §311(a), Feb. 4, 2009, 123Stat. 64; Pub. L. 111–5, div. B, title I, §1899D(a), Feb. 17, 2009, 123 Stat. 425; Pub. L. 111–344, title I, §114(a), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(1), Oct. 21, 2011, 125 Stat. 419.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (B)(i)(I), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.),respectively, of chapter 7 of Title 42. Sections 1928 and 2105 of the Act are classified to sections 1396s and 1397ee, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (B)(i)(I), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Sections 1928 and 2105 of the Act are classified to sections 1396s and 1397ee, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (f)(3)(B)(ii), is section 311(b)(1)(C) of Pub. L. 111–3, which is set out as a note under section 1181 of Title 29, Labor.
 
@@ -376,7 +376,7 @@ Transitional rule.—In the case of an individual who seeks to establish credita
 
 "(3)
 
-Special rule for collective bargaining agreements.—Except as provided in paragraph (2), in thecase of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Aug. 21, 1996\], the amendments made by this section shall not apply to plan years beginning before the later of—
+Special rule for collective bargaining agreements.—Except as provided in paragraph (2), in the case of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Aug. 21, 1996\], the amendments made by this section shall not apply to plan years beginning before the later of—
 
 &emsp;"(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act), or
 

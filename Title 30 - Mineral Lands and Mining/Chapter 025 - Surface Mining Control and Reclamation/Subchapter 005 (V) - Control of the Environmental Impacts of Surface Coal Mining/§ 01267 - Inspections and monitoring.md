@@ -12,7 +12,7 @@ For the purpose of developing or assisting in the development, administration, a
 
 &emsp;(2) for those surface coal mining and reclamation operations which remove or disturb strata that serve as aquifers which significantly insure the hydrologic balance of water use either on or off the mining site, the regulatory authority shall specify those—
 
-&emsp;&emsp;(A) monitoring sites to record the quantity and quality of surface drainage above and below the minesite as well as in the potential zone of influence;
+&emsp;&emsp;(A) monitoring sites to record the quantity and quality of surface drainage above andbelow the minesite as well as in the potential zone of influence;
 
 &emsp;&emsp;(B) monitoring sites to record level, amount, and samples of ground water and aquifers potentially affected by the mining and also directly below the lowermost (deepest) coal seam to be mined;
 

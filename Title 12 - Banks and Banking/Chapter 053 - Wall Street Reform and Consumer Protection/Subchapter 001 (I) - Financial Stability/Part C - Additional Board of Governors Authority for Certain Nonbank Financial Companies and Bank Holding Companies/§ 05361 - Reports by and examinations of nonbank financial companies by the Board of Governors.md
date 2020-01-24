@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(A) the nature of the operations and financial condition of the company and such subsidiary;
 
-&emsp;&emsp;(B) the financial, operational, and other risks of the company or such subsidiary that may pose a threat to the safety and soundness of such company or subsidiary or to the financial stability of the United States;
+&emsp;&emsp;(B) the financial, operational, and other risks of the company or such subsidiary thatmay pose a threat to the safety and soundness of such company or subsidiary or to the financial stability of the United States;
 
 &emsp;&emsp;(C) the systems for monitoring and controlling such risks; and
 

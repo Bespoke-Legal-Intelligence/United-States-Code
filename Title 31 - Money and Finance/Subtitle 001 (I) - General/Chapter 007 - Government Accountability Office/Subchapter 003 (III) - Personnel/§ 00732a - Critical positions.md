@@ -2,7 +2,7 @@
 
 (a) The Comptroller General may establish senior-level positions to meet critical scientific, technical or professional needs of the Government Accountability Office. An individual serving in such a position shall—
 
-&emsp;(1) be subject to the laws and regulations applicable to the General Accounting Office Senior Executive Service <sup>1</sup> under section 733 of this title, with respect to rates of basic pay, performance awards, ranks, carry over of annual leave, benefits, performance appraisals, removal or suspension, and reductions in force;
+&emsp;(1) be subject to the laws and regulations applicable to the General Accounting Office Senior Executive Service <sup>1</sup> under section 733 of this title, with respect to rates of basic pay, performance awards, ranks, carry over of annual leave, benefits, performance appraisals,removal or suspension, and reductions in force;
 
 &emsp;(2) have the same rights of appeal to the General Accounting Office Personnel Appeals Board <sup>1</sup> as are provided to the Office Senior Executive Service;
 

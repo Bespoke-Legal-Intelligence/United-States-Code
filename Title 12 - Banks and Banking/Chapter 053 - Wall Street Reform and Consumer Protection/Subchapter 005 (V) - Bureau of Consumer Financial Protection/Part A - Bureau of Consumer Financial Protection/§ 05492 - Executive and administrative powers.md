@@ -52,7 +52,7 @@ The Director of the Bureau may delegate to any duly authorized employee, represe
 
 #### (4) Recommendations and testimony
 
-&emsp;No officer or agency of the United States shall have any authority to require the Director or any other officer of the Bureau to submit legislative recommendations, or testimony or comments on legislation, to any officer or agency of the United States for approval, comments, or review prior to the submission of such recommendations, testimony,or comments to the Congress, if such recommendations, testimony, or comments to the Congress include a statement indicating that the views expressed therein are those of the Director or such officer, and do not necessarily reflect the views of the Board of Governors or the President.
+&emsp;No officer or agency of the United States shall have any authority to require the Director or any other officer of the Bureau to submit legislative recommendations, or testimony or comments on legislation, to any officer or agency of the United States for approval, comments, or review prior to the submission of such recommendations, testimony, or comments to the Congress, if such recommendations, testimony, or comments to the Congress include a statement indicating that the views expressed therein are those of the Director or such officer, and do not necessarily reflect the views of the Board of Governors or the President.
 
 #### (5) Clarification of autonomy of the Bureau in legal proceedings
 

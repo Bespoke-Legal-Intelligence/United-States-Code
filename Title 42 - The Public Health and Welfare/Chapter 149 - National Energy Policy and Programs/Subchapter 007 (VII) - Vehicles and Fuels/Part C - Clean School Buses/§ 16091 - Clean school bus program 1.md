@@ -110,7 +110,7 @@ In this section:
 
 #### (B) Eligibility for 25 percent grants
 
-&emsp;&emsp;The Administrator may award grants for replacement of school buses in the amount of up to one-fourth of the acquisition costs (including fueling infrastructure) for—
+&emsp;&emsp;The Administrator may award grants for replacement of school buses in the amountof up to one-fourth of the acquisition costs (including fueling infrastructure) for—
 
 &emsp;&emsp;&emsp;(i) clean school buses with engines manufactured in model year 2005 or 2006 that emit not more than—
 

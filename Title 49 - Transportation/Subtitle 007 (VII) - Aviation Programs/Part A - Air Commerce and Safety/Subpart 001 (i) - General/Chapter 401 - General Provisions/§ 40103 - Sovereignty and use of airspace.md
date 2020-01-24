@@ -38,7 +38,7 @@ Aircraft of Armed Forces of Foreign Countries.—Aircraft of the armed forces of
 
 (e)
 
-No Exclusive Rights at Certain Facilities.—A person does not have an exclusive right to use an air navigation facility on which Government money has been expended. However, providing services at an airport by only onefixed-based operator is not an exclusive right if—
+No Exclusive Rights at Certain Facilities.—A person does not have an exclusive right to use an air navigation facility on which Government money has been expended. However, providing services at an airport by only one fixed-based operator is not an exclusive right if—
 
 &emsp;(1) it is unreasonably costly, burdensome, or impractical for more than one fixed-based operator to provide the services; and
 
@@ -130,7 +130,7 @@ In subsection (a)(1), the word "has" is substituted for "is declared to possess 
 
 In subsection (a)(2), the words "of the United States" are omitted for consistency in the revised title and because of the definition of "navigable airspace" in section 40102(a) of the revised title. The words "or amending" are omitted as surplus.
 
-In subsection (b), the word "Administrator" in section 307(a), (c), and (d) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 749, 750) is retained on authority of 49:106(g).
+In subsection (b), the word "Administrator" in section 307(a), (c), and (d) of the Federal Aviation Act of1958 (Public Law 85–726, 72 Stat. 749, 750) is retained on authority of 49:106(g).
 
 In subsection (b)(1) and (3)(B), the word "rule" is omitted as being synonymous with "regulation".
 
@@ -178,7 +178,7 @@ Resiliency Recommendations.—Not later than 180 days after the date of enactmen
 
 #### Air Shows
 
-Pub. L. 115–254, div. B, title V, §512, Oct. 5, 2018, 132 Stat. 3356, provided that: "On an annual basis, the Administrator \[of the Federal Aviation Administration\] shall work with representatives of \[Federal Aviation\] Administration-approved air shows, the general aviation community, and stadiums and other large outdoorevents and venues to identify and resolve, to the maximum extent practicable, scheduling conflicts between Administration-approved air shows and large outdoor events and venues where—
+Pub. L. 115–254, div. B, title V, §512, Oct. 5, 2018, 132 Stat. 3356, provided that: "On an annual basis, the Administrator \[of the Federal Aviation Administration\] shall work with representatives of \[Federal Aviation\] Administration-approved air shows, the general aviation community, and stadiums and other large outdoor events and venues to identify and resolve, to the maximum extent practicable, scheduling conflicts between Administration-approved air shows and large outdoor events and venues where—
 
 &emsp;"(1) flight restrictions will be imposed pursuant to section 521 of title V of division F of Public Law 108–199 (118 Stat. 343) \[set out below\]; or
 

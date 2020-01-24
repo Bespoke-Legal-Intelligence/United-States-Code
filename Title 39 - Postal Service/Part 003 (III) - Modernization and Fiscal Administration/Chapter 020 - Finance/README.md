@@ -27,7 +27,7 @@
 
 #### Disposition of Savings Accruing to the United States Postal Service
 
-Pub. L. 108–18, §3, Apr. 23, 2003, 117 Stat. 627, which provided for disposition of savings accruing to the United States Postal Service, was repealed by Pub. L. 109–435, title VIII, §804(a), Dec. 20, 2006, 120 Stat. 3253.
+Pub. L. 108–18, §3, Apr. 23, 2003, 117 Stat. 627, which provided for disposition of savings accruing to theUnited States Postal Service, was repealed by Pub. L. 109–435, title VIII, §804(a), Dec. 20, 2006, 120 Stat. 3253.
 
 
 ---

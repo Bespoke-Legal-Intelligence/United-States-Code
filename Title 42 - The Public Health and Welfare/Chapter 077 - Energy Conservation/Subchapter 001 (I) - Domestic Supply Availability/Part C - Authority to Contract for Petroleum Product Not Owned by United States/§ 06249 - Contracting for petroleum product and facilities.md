@@ -46,7 +46,7 @@ A prior section 171 of Pub. L. 94–163 was renumbered section 191 and was class
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b)(2)(B). Pub. L. 106–469, §103(20)(A), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: "the Secretary notifies each House of the Congress of such determination and includes in such notification the same information required under section 6234(e) of this title with regard to storage and related facilities proposed to be included, or petroleum product proposed to be stored, in the Reserve."
+<b>2000</b>—Subsec. (b)(2)(B). Pub. L. 106–469, §103(20)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the Secretary notifies each House of the Congress of such determination and includes in such notification the same information required under section 6234(e) of this title with regard to storage and related facilities proposed to be included, or petroleum product proposed to be stored, in the Reserve."
 
 Subsec. (b)(3). Pub. L. 106–469, §103(20)(B), substituted "sale of petroleum products from" for "distribution of".
 

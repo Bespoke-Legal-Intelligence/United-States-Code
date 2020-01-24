@@ -28,7 +28,7 @@
 
 (3)(A) The Secretary may, when the needs of the Coast Guard require, authorize the consideration of officers in a grade above lieutenant (junior grade) for promotion to the next higher grade from below the promotion zone.
 
-(B) When selection from below the promotion zone is authorized, the Secretary shall establish the number of officers that may be recommended for promotion from below the promotion zone. That number may not exceed the number equal to 10 percent of the maximum number of officers that the board is authorized to recommend for promotion, except that the Secretary may authorize a greater number, not to exceed 15 percent of the total number of officers that the board is authorized to recommend for promotion, if the Secretary determines that the needs of the Coast Guard so require. If the maximum number determined under this subparagraph is less than one, the board may recommend one officer for promotion from below the promotion zone.
+(B) When selection from below the promotion zone is authorized, the Secretary shall establish the number of officers that may be recommended for promotion from below the promotion zone. That number may not exceed the number equal to 10 percent of the maximum number of officers that the board is authorized to recommend for promotion, except that theSecretary may authorize a greater number, not to exceed 15 percent of the total number of officers that the board is authorized to recommend for promotion, if the Secretary determines that the needs of the Coast Guard so require. If the maximum number determined under this subparagraph is less than one, the board may recommend one officer for promotion from below the promotion zone.
 
 (C) The number of officers recommended for promotion from below the promotion zone does not increase the maximum number of officers that the board is authorized to recommend for promotion under paragraph (2).
 
@@ -46,7 +46,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 780 of this title prior to the completerevision of former chapter 21 of this title by Pub. L. 96–322.
+Provisions similar to those in this section were contained in section 780 of this title prior to the complete revision of former chapter 21 of this title by Pub. L. 96–322.
 
 #### Amendments
 

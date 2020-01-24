@@ -62,7 +62,7 @@ A former subsec. (f) of this section was originally subsec. (e) of section 1362 
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–239, §7881(f)(12), struck out "to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title" after "the amount of such liability" and substituted "in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title" for "to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title upon all property and rights to property, whether real or personal, belonging to such person."
 
-Pub. L. 101–239, §7881(f)(3)(B), struck out at end "The preceding provisions of this subsection shall be appliedin a manner consistent with the provisions of section 1364(d) of this title relating to treatment of multiple controlled groups."
+Pub. L. 101–239, §7881(f)(3)(B), struck out at end "The preceding provisions of this subsection shall be applied in a manner consistent with the provisions of section 1364(d) of this title relating to treatment of multiple controlled groups."
 
 Subsec. (c). Pub. L. 101–239, §7891(a)(1), in pars. (1), (3), and (4), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
@@ -90,7 +90,7 @@ Subsec. (e). Pub. L. 99–272, §11016(a)(6)(B)(v), (c)(14), struck out ", with
 
 Amendment by section 7881(f)(3)(B), (10)(C), (12) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Pub. L. 101–239, title VII, §7894(g)(4)(B), Dec. 19, 1989, 103 Stat. 2451, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if originally included in section 3 of Public Law 97–258."
 

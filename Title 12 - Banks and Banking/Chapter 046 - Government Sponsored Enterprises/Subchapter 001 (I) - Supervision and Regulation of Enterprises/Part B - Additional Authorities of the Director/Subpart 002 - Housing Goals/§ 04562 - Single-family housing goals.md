@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director shall, by regulation, establish annual goals for the purchase by each enterpriseof the following types of mortgages for the following categories of families:
+The Director shall, by regulation, establish annual goals for the purchase by each enterprise of the following types of mortgages for the following categories of families:
 
 #### (1) Purchase-money mortgages
 
@@ -38,7 +38,7 @@ The Director shall require each enterprise to report the number of rental housin
 
 #### (3) Refinance goal
 
-&emsp;An enterprise shall be considered to be in compliance with the refinance goal under subsection (a)(2) for a year only if the percentage of the number of conventional, conforming, single-family, owner-occupied refinance mortgages purchased by the enterprise in such year that serve low-income families meets or exceeds the target for the year that is established under subsection (e).
+&emsp;An enterprise shall be considered to be in compliance with the refinance goal under subsection (a)(2) for a year only if the percentageof the number of conventional, conforming, single-family, owner-occupied refinance mortgages purchased by the enterprise in such year that serve low-income families meets or exceeds the target for the year that is established under subsection (e).
 
 #### (e) Annual targets
 
@@ -78,7 +78,7 @@ The Director shall require each enterprise to report the number of rental housin
 
 #### (3) Authority to adjust targets
 
-&emsp;The Director may, by regulation, adjust the percentage targets previously established byregulation pursuant to paragraph (2)(B) for any year, to reflect subsequent available data and market developments.
+&emsp;The Director may, by regulation, adjust the percentage targets previously established by regulation pursuant to paragraph (2)(B) for any year, to reflect subsequent available data and market developments.
 
 #### (4) HMDA information
 

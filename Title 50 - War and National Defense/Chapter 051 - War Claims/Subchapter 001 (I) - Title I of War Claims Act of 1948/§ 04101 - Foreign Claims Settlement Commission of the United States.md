@@ -32,7 +32,7 @@ Section was formerly classified to section 2001 of the former Appendix to this t
 
 #### Amendments
 
-<b>1980</b>—Subsec. (d). Pub. L. 96–209 struck out subsec. (d) which provided for terms of office of Chairman and members of Foreign Claims Settlement Commission of United States. See section 1622c(c) of Title 22, Foreign Relations and Intercourse.
+<b>1980</b>—Subsec. (d). Pub. L. 96–209 struck out subsec. (d) which provided for terms of office of Chairman andmembers of Foreign Claims Settlement Commission of United States. See section 1622c(c) of Title 22, Foreign Relations and Intercourse.
 
 <b>1962</b>—Subsecs. (b), (c)(1). Pub. L. 87–846, §102, made technical amendment to reference in original act which appears in text as reference to this subchapter.
 

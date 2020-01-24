@@ -10,7 +10,7 @@ Conveyances made in any one calendar year shall be limited as follows:
 
 &emsp;(i) For recreational purposes:
 
-&emsp;&emsp;(A) To any State or the State park agency or any other agency having jurisdiction over the State park system of such State designated by the Governor of that State as its sole representative for acceptance of lands under this provision, hereinafter referred to as the State, or to any political subdivision of such State, six thousand four hundred acres, and such additional acreage as may beneeded for small roadside parks and rest sites of not more than ten acres each.
+&emsp;&emsp;(A) To any State or the State park agency or any other agency having jurisdiction over the State park system of such State designated by the Governor of that State as its sole representative for acceptance of lands under this provision, hereinafter referred to as the State, or to any political subdivision of such State, six thousand four hundred acres, and such additional acreage as may be needed for small roadside parks and rest sites of not more than ten acres each.
 
 &emsp;&emsp;(B) To any nonprofit corporation or nonprofit association, six hundred and forty acres.
 

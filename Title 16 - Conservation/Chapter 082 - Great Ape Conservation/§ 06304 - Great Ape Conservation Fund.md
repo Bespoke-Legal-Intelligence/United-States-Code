@@ -18,7 +18,7 @@ There is established in the Multinational Species Conservation Fund a separate a
 
 #### (2) Administrative expenses
 
-&emsp;Of the amounts in the account available for each fiscal year, the Secretary may expend not more than 3 percent, or up to $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
+&emsp;Of the amounts in the account available for each fiscal year, the Secretary may expend not more than 3 percent, or up to $150,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
 #### (c) Investment of amounts
 
@@ -56,9 +56,11 @@ There is established in the Multinational Species Conservation Fund a separate a
 
 The Secretary may accept and use donations to provide assistance under section 6303 of this title. Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit into the Fund.
 
-(Pub. L. 106–411, §5, Nov. 1, 2000, 114 Stat. 1793; Pub. L. 109–363, title VII, §702, Oct. 17, 2006, 120 Stat. 2082.)
+(Pub. L. 106–411, §5, Nov. 1, 2000, 114 Stat. 1793; Pub. L. 109–363, title VII, §702, Oct. 17, 2006, 120 Stat. 2082; Pub. L. 116–9, title VII, §7001(c)(2)(C), Mar. 12, 2019, 133 Stat. 785.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(2). Pub. L. 116–9 substituted "$150,000" for "$100,000".
 
 <b>2006</b>—Subsec. (b)(2). Pub. L. 109–363 substituted "expend" for "expand" and "$100,000" for "$80,000".
 

@@ -98,7 +98,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (C) Tax-exempt use property subject to lease
 
-&emsp;&emsp;In the case of computer software which would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to computer software, the useful life under subparagraph (A) shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).
+&emsp;&emsp;In the case of computer software which would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to computer software, the useful life under subparagraph (A) shall not beless than 125 percent of the lease term (within the meaning of section 168(i)(3)).
 
 #### (2) Certain interests or rights acquired separately
 
@@ -250,7 +250,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "applicable musical property" means any musical composition (including any accompanying words), or any copyright with respect to a musical composition, which is property to which this subsection applies without regard to this paragraph.
+&emsp;&emsp;&emsp;The term "applicable musical property" means any musical composition (includingany accompanying words), or any copyright with respect to a musical composition, which is property to which this subsection applies without regard to this paragraph.
 
 #### (ii) Exceptions
 
@@ -316,7 +316,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;<b>(2) For amortization of goodwill and certain other intangibles, see section 197.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 51; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 87–834, §13(b), (c)(1), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 89–800, §2, Nov. 8, 1966, 80 Stat. 1513; Pub.L. 90–26, §§1, 2(b), June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), Dec. 30, 1969, 83 Stat. 625, 649, 653; Pub. L. 92–178, title I, §109(a), Dec. 10, 1971, 85 Stat. 508; Pub. L. 93–625, §3(c), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), Oct. 4, 1976, 90 Stat. 1530, 1768, 1834, 1918; Pub. L. 95–171, §4(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), Nov. 6, 1978, 92 Stat. 2826, 2857, 2901, 2902; Pub. L. 95–615, §7(a), Nov. 8, 1978, 92 Stat. 3098; Pub. L. 95–618, title III, §301(d)(3), (e)(1), Nov. 9, 1978, 92 Stat. 3200, 3201; Pub. L. 96–541, §§2(c), (d), 3, Dec. 17, 1980, 94 Stat. 3204, 3205; Pub. L. 96–613, §2(a), Dec. 28, 1980, 94 Stat. 3579; Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), Aug. 13, 1981, 95 Stat. 221, 222, 227, 239, 264; Pub. L. 97–424, title V, §541(a)(2), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 98–369, div. A, title X, §1064, July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2139, 2745, 2821; Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), Nov. 10, 1988, 102 Stat. 3356, 3357, 3370; Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), Dec. 19, 1989, 103 Stat. 2378, 2381; Pub. L. 101–508, title XI, §11812(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–534; Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), Aug. 10, 1993, 107 Stat. 466, 538, 539; Pub. L. 104–188, title I, §1604(a), Aug. 20, 1996, 110 Stat. 1836; Pub. L. 105–34, title X, §1086(a), Aug. 5, 1997, 111 Stat. 957; Pub. L. 108–357, title II, §242(a), (b), title VIII, §847(b)(1), (2), Oct. 22, 2004, 118 Stat. 1438, 1439, 1601; Pub. L. 109–58, title XIII, §1329(a), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 109–135, title IV, §412(r), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–222, title II, §207(a), title V, §503(a), May 17, 2006, 120 Stat. 350, 354; Pub. L. 110–140, title XV, §1502(a), Dec. 19, 2007, 121 Stat. 1800; Pub. L. 110–172, §11(a)(13), Dec. 29, 2007, 121 Stat. 2485.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 51; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 87–834, §13(b), (c)(1), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 89–800, §2, Nov. 8, 1966, 80 Stat. 1513; Pub. L. 90–26, §§1, 2(b), June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), Dec. 30, 1969, 83 Stat. 625, 649, 653; Pub. L. 92–178, title I, §109(a), Dec. 10, 1971, 85 Stat. 508; Pub. L. 93–625, §3(c), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), Oct. 4, 1976, 90 Stat. 1530, 1768, 1834, 1918; Pub. L. 95–171, §4(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), Nov. 6, 1978, 92 Stat. 2826, 2857, 2901, 2902; Pub. L. 95–615, §7(a), Nov. 8, 1978, 92 Stat. 3098; Pub. L. 95–618, title III, §301(d)(3), (e)(1), Nov. 9, 1978, 92 Stat. 3200, 3201; Pub. L. 96–541, §§2(c), (d), 3, Dec. 17, 1980, 94 Stat. 3204, 3205; Pub. L. 96–613, §2(a), Dec. 28, 1980, 94 Stat. 3579; Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), Aug. 13, 1981, 95 Stat. 221, 222, 227, 239, 264; Pub. L. 97–424, title V, §541(a)(2), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 98–369, div. A, title X, §1064, July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2139, 2745, 2821; Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), Nov. 10, 1988, 102 Stat. 3356, 3357, 3370; Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), Dec. 19, 1989, 103 Stat. 2378, 2381; Pub. L. 101–508, title XI, §11812(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–534; Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), Aug. 10, 1993, 107 Stat. 466, 538, 539; Pub. L. 104–188, title I, §1604(a), Aug. 20, 1996, 110 Stat. 1836; Pub. L. 105–34, title X, §1086(a), Aug. 5, 1997, 111 Stat. 957; Pub. L. 108–357, title II, §242(a), (b), title VIII, §847(b)(1), (2), Oct. 22, 2004, 118 Stat.1438, 1439, 1601; Pub. L. 109–58, title XIII, §1329(a), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 109–135, title IV, §412(r), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–222, title II, §207(a), title V, §503(a), May 17, 2006, 120 Stat. 350, 354; Pub. L. 110–140, title XV, §1502(a), Dec. 19, 2007, 121 Stat. 1800; Pub. L. 110–172, §11(a)(13), Dec. 29, 2007, 121 Stat. 2485.)
 
 #### References in Text
 
@@ -376,7 +376,7 @@ Subsec. (c). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (g) as (c) a
 
 > Paragraphs (2), (3), and (4) of subsection (b) shall not apply to any motion picture film, video tape, or sound recording."
 
-Subsec. (d). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (h) as (d) and struck out former subsec. (d) "Agreement as to useful life on which depreciation rate is based" which read as follows: "Where, under regulations prescribed by the Secretary, the taxpayer and the Secretary have, after August 16, 1954, entered into an agreement in writing specifically dealing with the useful life and rate of depreciation of any property, the rate so agreed upon shall be binding on both the taxpayer and the Secretary in the absence of facts or circumstances not taken into consideration in the adoption of such agreement. The responsibility of establishing the existence of such facts and circumstances shall rest with the party initiating the modification. Any change in the agreed rate and useful life specified inthe agreement shall not be effective for taxable years before the taxable year in which notice in writing by certified mail or registered mail is served by the party to the agreement initiating such change. This subsection shall not apply with respect to property to which section 168 applies."
+Subsec. (d). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (h) as (d) and struck out former subsec. (d) "Agreement as to useful life on which depreciation rate is based" which read as follows: "Where, under regulations prescribed by the Secretary, the taxpayer and the Secretary have, after August 16, 1954, entered into an agreement in writing specifically dealing with the useful life and rate of depreciation of any property, the rate so agreed upon shall be binding on both the taxpayer and the Secretary in the absence of facts or circumstances not taken into consideration in the adoption of such agreement. The responsibility of establishing the existence of such facts and circumstances shall rest with the party initiating the modification. Any change in the agreed rate and useful life specified in the agreement shall not be effective for taxable years before the taxable year in which notice in writing by certified mail or registered mail is served by the party to the agreement initiating such change. This subsection shall not apply with respect to property to which section 168 applies."
 
 Subsec. (e). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (r) as (e) and struck out former subsec. (e) which related to changes in method of depreciation from declining balance method and changes with respect to sections 1245 and 1250 property.
 
@@ -464,7 +464,7 @@ Pub. L. 95–600, §367, substituted "January 1, 1982" for "January 1, 1979" whe
 
 Subsec. (n). Pub. L. 95–600, §701(f)(4), in par. (1), substituted "occupied by a certified historic structure (or by any structure in a registered historic district) which is demolished or substantially altered after such date" for "occupied by a certified historic structure (as defined in section 191(d)(1)) which is demolished or substantially altered (other than by virtue of a certified rehabilitation as defined in section 191(d)(3) after such date", inserted "and" preceding subpar. (B), substituted "means" for "shall mean" in subpar. (B), and inserted provision that "The preceding sentence shall not apply if the last substantial alteration of the structure is a certified rehabilitation."; in par. (2), substituted heading "Exceptions" for "Exception", designated existing text as subpar. (A), and added subpar. (B); and added par. (3).
 
-Subsec. (o). Pub. L. 95–600, §701(f)(6), inserted in par. (1) "(other than property with respect to which an amortization deduction has been allowed to the taxpayer under section 191)" after "substantially rehabilitatedhistoric property" and substituted in par. (2) "section 191(d)(4)" for "section 191(d)(3)".
+Subsec. (o). Pub. L. 95–600, §701(f)(6), inserted in par. (1) "(other than property with respect to which an amortization deduction has been allowed to the taxpayer under section 191)" after "substantially rehabilitated historic property" and substituted in par. (2) "section 191(d)(4)" for "section 191(d)(3)".
 
 Subsec. (p). Pub. L. 95–618, §301(d)(3), added subsec. (p). Former subsec. (p) redesignated (r).
 
@@ -492,7 +492,7 @@ Subsec. (k)(1). Pub. L. 94–455, §§203(a)(1), 1906(b)(13)(A), substituted ref
 
 Subsec. (k)(2)(A). Pub. L. 94–455, §203(a)(2), substituted "$20,000" for "$15,000".
 
-Subsec. (k)(3)(B). Pub. L. 94–455, §§203(a)(3), 1906(b)(13)(A), substituted "the Leased Housing Program under section 8 of the United States Housing Act of 1937" for "the policies of the Housing and Urban Development Act of 1968" and struck out "or his delegate" after "Secretary".
+Subsec. (k)(3)(B). Pub. L. 94–455, §§203(a)(3), 1906(b)(13)(A), substituted "the Leased Housing Program under section 8 of the United States Housing Actof 1937" for "the policies of the Housing and Urban Development Act of 1968" and struck out "or his delegate" after "Secretary".
 
 Subsec. (k)(3)(D). Pub. L. 94–455, §203(a)(4), added subpar. (D).
 
@@ -570,7 +570,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 "(2)
 
-Binding contracts.—The amendment made by subsection (a) shall not apply to any property producedor acquired by the taxpayer pursuant to a written contract which was binding on September 13, 1995, and at all times thereafter before such production or acquisition.
+Binding contracts.—The amendment made by subsection (a) shall not apply to any property produced or acquired by the taxpayer pursuant to a written contract which was binding on September 13, 1995, and at all times thereafter before such production or acquisition.
 
 "(3)
 
@@ -646,7 +646,7 @@ Pub. L. 95–618, title III, §301(e)(2), Nov. 9, 1978, 92 Stat. 3201, provided 
 
 Amendment by section 1901(a)(27)(A) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Amendment by section 202(c)(3) of Pub. L. 94–455 applicable for taxable years ending after Dec. 31, 1975, seesection 202(d) of Pub. L. 94–455, set out as a note under section 1250 of this title.
+Amendment by section 202(c)(3) of Pub. L. 94–455 applicable for taxable years ending after Dec. 31, 1975, see section 202(d) of Pub. L. 94–455, set out as a note under section 1250 of this title.
 
 Pub. L. 94–455, title II, §203(b), Oct. 4, 1976, 90 Stat. 1531, as amended by Pub. L. 95–171, §4(b), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–615, §7(b), Nov. 8, 1978, 92 Stat. 3098, provided that: "The amendments made by paragraphs (1), (3), and (4) of subsection (a) \[amending this section\] shall apply to expenditures paid or incurred after December 31, 1975. The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall apply to expenditures incurred after December 31, 1975."
 

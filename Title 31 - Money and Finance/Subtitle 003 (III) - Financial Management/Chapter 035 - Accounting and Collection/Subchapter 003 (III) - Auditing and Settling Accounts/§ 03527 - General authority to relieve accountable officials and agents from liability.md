@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(iii) the loss or deficiency was not the result of fault or negligence by the official; or
 
-&emsp;(B) in the case of a payment described in section 3528(a)(4)(A) of this title, the Secretary of Defense or the Secretary of the appropriatemilitary department (or the Secretary of Homeland Security, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy), after taking a diligent collection action, finds that the criteria of section 3528(b)(1) of this title are satisfied.
+&emsp;(B) in the case of a payment described in section 3528(a)(4)(A) of this title, the Secretary of Defense or the Secretary of the appropriate military department (or the Secretary of Homeland Security, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy), after taking a diligent collection action, finds that the criteria of section 3528(b)(1) of this title are satisfied.
 
 (2) The finding of the Secretary involved is conclusive on the Comptroller General.
 

@@ -40,7 +40,7 @@ Pub. L. 103–73, title II, §201(a), Aug. 11, 1993, 107 Stat. 732, provided tha
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–421, §1, Oct. 16, 1992, 106 Stat. 2151, provided that: "This Act \[enacting sections 4304, 4305, 4357,4358, and 4359a of this title, amending this section and sections 1424a, 1431, 1441, 4303, 4331, 4332, 4351 to 4356, and 4360 of this title, repealing sections 4311, 4321, 4322, 4341 to 4344, 4357, and 4358 of this title, and enacting provisions set out as notes under this section and section 1424a of this title\] may be cited as the 'Education of the Deaf Act Amendments of 1992'."
+Pub. L. 102–421, §1, Oct. 16, 1992, 106 Stat. 2151, provided that: "This Act \[enacting sections 4304, 4305, 4357, 4358, and 4359a of this title, amending this section and sections 1424a, 1431, 1441, 4303, 4331, 4332, 4351 to 4356, and 4360 of this title, repealing sections 4311, 4321, 4322, 4341 to 4344, 4357, and 4358 of this title, and enacting provisions set out as notes under this section and section 1424a of this title\] may be cited as the 'Education of the Deaf Act Amendments of 1992'."
 
 #### Short Title
 

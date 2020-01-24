@@ -44,7 +44,7 @@ Pub. L. 108–136, div. A, title XIV, §1401, Nov. 24, 2003, 117 Stat. 1663, pro
 
 #### Short Title of 1996 Act
 
-Pub. L. 104–106, div. D, §4001, Feb. 10, 1996, 110 Stat. 642, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393, provided that: "This division \[div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification\] and division E \[§§5001–5703 of Pub. L. 104–106, repealed and reenacted, generally, as subtitle III (§11101 et seq.) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116Stat. 1062, 1304, see Tables for complete classification\] may be cited as the 'Clinger-Cohen Act of 1996'."
+Pub. L. 104–106, div. D, §4001, Feb. 10, 1996, 110 Stat. 642, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393, provided that: "This division \[div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification\] and division E \[§§5001–5703 of Pub. L. 104–106, repealed and reenacted, generally, as subtitle III (§11101 et seq.) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, see Tables for complete classification\] may be cited as the 'Clinger-Cohen Act of 1996'."
 
 #### Short Title of 1994 Act
 
@@ -52,7 +52,7 @@ Pub. L. 103–355, §1, Oct. 13, 1994, 108 Stat. 3243, provided that: "This Act 
 
 #### Short Title of 1988 Act
 
-Pub. L. 100–679, §1, Nov. 17, 1988, 102 Stat. 4055, provided that: "This Act \[see Tables for classification\] may be cited as the 'Office of Federal Procurement Policy Act Amendments of 1988'."
+Pub. L. 100–679, §1, Nov. 17, 1988, 102 Stat. 4055, provided that: "This Act \[see Tables for classification\]may be cited as the 'Office of Federal Procurement Policy Act Amendments of 1988'."
 
 Pub. L. 100–418, title VII, §7001, Aug. 23, 1988, 102 Stat. 1545, provided that: "This title \[see Tables for classification\] may be cited as the 'Buy American Act of 1988'."
 

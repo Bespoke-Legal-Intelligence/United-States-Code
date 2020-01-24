@@ -14,7 +14,7 @@ The President shall take appropriate actions to inform and assist covered employ
 
 &emsp;(1) ensure the ready availability, in paper and electronic format, of forms necessary for making claims;
 
-&emsp;(2) provide such covered employees and other potential claimants with information and other support necessary for making claims, including—
+&emsp;(2) provide such covered employees and other potential claimants with information andother support necessary for making claims, including—
 
 &emsp;&emsp;(A) medical protocols for medical testing and diagnosis to establish the existence of a covered beryllium illness, chronic silicosis, or cancer; and
 

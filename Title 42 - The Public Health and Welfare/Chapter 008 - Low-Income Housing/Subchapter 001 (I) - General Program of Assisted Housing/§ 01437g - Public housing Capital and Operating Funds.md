@@ -24,7 +24,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (A) Capital Fund
 
-&emsp;&emsp;For allocations of assistance from the Capital Fund, $3,000,000,000 for fiscal year 1999,and such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003.
+&emsp;&emsp;For allocations of assistance from the Capital Fund, $3,000,000,000 for fiscal year 1999, and such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003.
 
 #### (B) Operating Fund
 
@@ -158,7 +158,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (iv) Existing contracts
 
-&emsp;&emsp;&emsp;The term of a contract described in clause (i) that, as of December 26, 2007, is in repayment and has a term of not morethan 12 years, may be extended to a term of not more than 20 years to permit additional energy conservation improvements without requiring the reprocurement of energy performance contractors.
+&emsp;&emsp;&emsp;The term of a contract described in clause (i) that, as of December 26, 2007, is in repayment and has a term of not more than 12 years, may be extended to a term of not more than 20 years to permit additional energy conservation improvements without requiring the reprocurement of energy performance contractors.
 
 #### (D) Freeze of consumption levels
 
@@ -208,7 +208,7 @@ The formulas under subsections (d)(2) and (e)(2) shall be developed according to
 
 #### (B) Flexibility for Operating Fund amounts
 
-&emsp;&emsp;Of any amounts appropriated for fiscal year 2016 or any fiscal year thereafter that are allocated for fiscal year 2016 or any fiscal year thereafter from the Operating Fund for any public housing agency, the agency may use not more than 20 percent for activities that are eligible under subsection (d) for assistance with amounts from the Capital Fund, but only if the public housing plan under section 1437c–1 of this title for the agency provides for such use.
+&emsp;&emsp;Of any amounts appropriated for fiscal year 2016 or any fiscal year thereafter thatare allocated for fiscal year 2016 or any fiscal year thereafter from the Operating Fund for any public housing agency, the agency may use not more than 20 percent for activities that are eligible under subsection (d) for assistance with amounts from the Capital Fund, but only if the public housing plan under section 1437c–1 of this title for the agency provides for such use.
 
 #### (2) Full flexibility for small PHAs
 
@@ -222,7 +222,7 @@ The formulas under subsections (d)(2) and (e)(2) shall be developed according to
 
 #### (B) Exception regarding use of assistance
 
-&emsp;&emsp;A public housing agency may use amounts allocated for the agency from the Capital Fund or Operating Fund for the construction and operation of housing units that are available and affordable to low-income families in excess of the limitations on new construction set forth in subparagraph (A), but the formulas established under subsections (d)(2) and (e)(2) shall not provide additional funding for the specific purpose of allowingconstruction and operation of housing in excess of those limitations (except to the extent provided in subparagraph (C)).
+&emsp;&emsp;A public housing agency may use amounts allocated for the agency from the Capital Fund or Operating Fund for the construction and operation of housing units that are available and affordable to low-income families in excess of the limitations on new construction set forth in subparagraph (A), but the formulas established under subsections (d)(2) and (e)(2) shall not provide additional funding for the specific purpose of allowing construction and operation of housing in excess of those limitations (except to the extent provided in subparagraph (C)).
 
 #### (C) Exception regarding formulas
 
@@ -306,7 +306,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 #### (A) Prohibition of new assistance
 
-&emsp;&emsp;A public housing agency shall not be awarded assistance under this section for any month during any fiscal year in whichthe public housing agency has funds unobligated in violation of paragraph (1) or (2).
+&emsp;&emsp;A public housing agency shall not be awarded assistance under this section for any month during any fiscal year in which the public housing agency has funds unobligated in violation of paragraph (1) or (2).
 
 #### (B) Withholding of assistance
 
@@ -408,7 +408,7 @@ A public housing agency that receives income from nonrental sources (as determin
 
 The Secretary shall publish model guidelines for minimum heating requirements for public housing dwelling units operated by public housing agencies receiving assistance under this section.
 
-(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title I \[title II, §212\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title II, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503; Pub. L. 109–58, title I, §151, Aug. 8, 2005, 119 Stat. 648; Pub. L. 110–161, div. K, title II, §229, Dec. 26, 2007, 121 Stat. 2438; Pub. L. 110–289, div. B, title VIII, §2804, July 30, 2008, 122 Stat. 2866; Pub. L. 114–201, title I, §§109, 111, July 29, 2016, 130 Stat. 801, 803; Pub. L. 115–174, title II, §209(b), May 24, 2018, 132 Stat. 1315.)
+(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title I \[title II, §212\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, titleII, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503; Pub. L. 109–58, title I, §151, Aug. 8, 2005, 119 Stat. 648; Pub. L. 110–161, div. K, title II, §229, Dec. 26, 2007, 121 Stat. 2438; Pub. L. 110–289, div. B, title VIII, §2804, July 30, 2008, 122 Stat. 2866; Pub. L. 114–201, title I, §§109, 111, July 29, 2016, 130 Stat. 801, 803; Pub. L. 115–174, title II, §209(b), May 24, 2018, 132 Stat. 1315.)
 
 #### References in Text
 
@@ -582,7 +582,7 @@ Amendment by Pub. L. 95–557 effective Oct. 1, 1978, see section 206(h) of Pub.
 
 #### Effective Date
 
-Section effective on such date or dates as the Secretary of Housing and Urban Development shall prescribe, but not later than eighteen months after Aug. 22, 1974, except that all of the provisions of subsec. (c) shall become effective on the same date, see section201(b) of Pub. L. 93–383, set out as a note under section 1437 of this title.
+Section effective on such date or dates as the Secretary of Housing and Urban Development shall prescribe, but not later than eighteen months after Aug. 22, 1974, except that all of the provisions of subsec. (c) shall become effective on the same date, see section 201(b) of Pub. L. 93–383, set out as a note under section 1437 of this title.
 
 #### Regulations
 
@@ -592,9 +592,13 @@ Pub. L. 108–7, div. K, title II, Feb. 20, 2003, 117 Stat. 487, provided in par
 
 #### Capital Funds for Central Office Costs
 
-Pub. L. 115–141, div. L, title II, §217, Mar. 23, 2018, 132 Stat. 1033, provided that: "With respect to the use of amounts provided in this Act \[div. L of Pub. L. 115–141, 132 Stat. 971, see Tables for classification\] and in future Acts for the operation, capital improvement and management of public housing as authorized by sections 9(d) and 9(e) of the United States Housing Act of 1937 (42 U.S.C. 1437g(d) and (e)), the Secretary shall not impose any requirement or guideline relating to asset management that restricts or limits in any way the use of capital funds for central office costs pursuant to section 9(g)(1) or 9(g)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437g(g)(1), (2)): <i>Provided</i>, That a public housing agency may not use capital funds authorized under section 9(d) for activities that are eligible under section 9(e) for assistance with amounts from the operating fund in excess of the amounts permitted under section 9(g)(1) or 9(g)(2)."
+Pub. L. 116–94, div. H, title II, §214, Dec. 20, 2019, 133 Stat. 3004, provided that: "With respect to the use of amounts provided in this Act \[div. H of Pub. L. 116–94, 133 Stat. 3004, see Tables for classification\] and in future Acts for the operation, capital improvement and management of public housing as authorized by sections 9(d) and 9(e) of the United States Housing Act of 1937 (42 U.S.C. 1437g(d) and (e)), the Secretary shall not impose any requirement or guideline relating to asset management that restricts or limits in any way the use of capital funds for central office costs pursuant to section 9(g)(1) or 9(g)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437g(g)(1), (2)): <i>Provided</i>, That a public housing agency may not use capital funds authorized under section 9(d) for activities that are eligible under section 9(e) for assistance with amounts from the operating fund in excess of the amounts permitted under section 9(g)(1) or 9(g)(2)."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–6, div. G, title II, §216, Feb. 15, 2019, 133 Stat. 460.
+
+Pub. L. 115–141, div. L, title II, §217, Mar. 23, 2018, 132 Stat. 1033.
 
 Pub. L. 115–31, div. K, title II, §218, May 5, 2017, 131 Stat. 784.
 
@@ -634,7 +638,7 @@ Pub. L. 108–7, div. K, title II, Feb. 20, 2003, 117 Stat. 488.
 
 #### Funding of Covered Locally Developed Public Housing Units Prohibited
 
-Pub. L. 108–7, div. K, title II, §207, Feb. 20, 2003, 117 Stat. 502, provided that: "Notwithstanding any other provision of law, no funds in this Act or in any other Act in any fiscal year, including all future and prior fiscal years, may be used hereafter by the Secretary of Housing and Urban Development to provide any assistance or other funds for housing units defined in section 9(n) \[now 9(m)\] of the United States Housing Act of 1937 \[42 U.S.C. 1437g(m)\] (as in effect immediately before the enactment of this Act \[Feb. 20, 2003\]) as 'covered locally developed public housing units'. The States of New York and Massachusetts shall reimburse any funds already made available under any appropriations Act for these units to the Secretary of Housing and Urban Development for reallocation to public housing agencies: <i>Provided</i>, That, if either State fails to make such reimbursement within 12 months, the Secretary shall recapture such funds through reductions from the amounts allocated to each State under section 106 of the Housing and Community Development Act of 1974 \[42 U.S.C. 5306\]."
+Pub. L. 108–7, div. K, title II, §207, Feb. 20, 2003, 117 Stat. 502, provided that: "Notwithstanding any other provision of law, no funds in this Act or in any other Act in any fiscal year, including all future and prior fiscal years, may be used hereafter by the Secretary of Housing and Urban Development to provide any assistance or other funds for housing units defined in section 9(n) \[now 9(m)\] of the United States Housing Act of 1937 \[42 U.S.C. 1437g(m)\] (as in effect immediately before the enactment of this Act \[Feb. 20, 2003\]) as 'covered locally developed public housing units'. The States of NewYork and Massachusetts shall reimburse any funds already made available under any appropriations Act for these units to the Secretary of Housing and Urban Development for reallocation to public housing agencies: <i>Provided</i>, That, if either State fails to make such reimbursement within 12 months, the Secretary shall recapture such funds through reductions from the amounts allocated to each State under section 106 of the Housing and Community Development Act of 1974 \[42 U.S.C. 5306\]."
 
 #### Applicability of Penalties for Slow Expenditure of Capital Funds
 

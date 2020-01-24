@@ -34,13 +34,13 @@
 
 (C) Records from exempted operational files which have been disseminated to and referenced in files that are not exempted under paragraph (1) and which have been returned to exempted operational files for sole retention shall be subject to search and review.
 
-(5) The provisions of paragraph (1) may not be superseded except by a provision of law which isenacted after December 3, 1999, and which specifically cites and repeals or modifies its provisions.
+(5) The provisions of paragraph (1) may not be superseded except by a provision of law which is enacted after December 3, 1999, and which specifically cites and repeals or modifies its provisions.
 
 (6)(A) Except as provided in subparagraph (B), whenever any person who has requested agency records under section 552 of title 5 alleges that NGA has withheld records improperly because of failure to comply with any provision of this section, judicial review shall be available under the terms set forth in section 552(a)(4)(B) of title 5.
 
 (B) Judicial review shall not be available in the manner provided for under subparagraph (A) as follows:
 
-&emsp;(i) In any case in which information specifically authorized under criteria established by an Executive order to be kept secret in the interests of national defense or foreign relations is filed with, or produced for, the court by NGA, such information shall be examined ex parte, in camera by the court.
+&emsp;(i) In any case in which information specifically authorized under criteria established byan Executive order to be kept secret in the interests of national defense or foreign relations is filed with, or produced for, the court by NGA, such information shall be examined ex parte, in camera by the court.
 
 &emsp;(ii) The court shall, to the fullest extent practicable, determine the issues of fact based on sworn written submissions of the parties.
 

@@ -12,7 +12,7 @@ The Secretary shall discontinue the educational assistance allowance on behalf o
 
 &emsp;&emsp;(C) if a proposed change of program is involved, the change meets the requirements for approval under section 3691 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1197, §1724; Pub. L. 94–502, title III, §§307, 310(15), Oct. 15, 1976, 90 Stat. 2390, 2392; Pub. L. 95–202, title III,§305(b)(1), Nov. 23, 1977, 91 Stat. 1443; Pub. L. 96–466, title III, §328, Oct. 17, 1980, 94 Stat. 2197; Pub. L. 101–237, title IV, §§411(b), 412(b), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2085, 2092; renumbered §3524 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1197, §1724; Pub. L. 94–502, title III, §§307, 310(15), Oct. 15, 1976, 90 Stat. 2390, 2392; Pub. L. 95–202, title III, §305(b)(1), Nov. 23, 1977, 91 Stat. 1443; Pub. L. 96–466, title III, §328, Oct. 17, 1980, 94 Stat. 2197; Pub. L. 101–237, title IV, §§411(b), 412(b), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2085, 2092; renumbered §3524 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 
@@ -48,7 +48,7 @@ Amendment by Pub. L. 95–202 effective first day of first month beginning 60 da
 
 #### Effective Date of 1976 Amendment
 
-Amendment by sections 307 and 310(15) of Pub. L. 94–502 effective Dec. 1, 1976, and Oct. 15, 1976, respectively, see section 703(b), (c) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
+Amendment by sections 307 and 310(15) of Pub. L. 94–502 effective Dec. 1, 1976, and Oct. 15, 1976, respectively, see section 703(b), (c) of Pub. L. 94–502, set outas an Effective Date note under section 3693 of this title.
 
 #### Suspension of Implementation of 1976 Amendment
 

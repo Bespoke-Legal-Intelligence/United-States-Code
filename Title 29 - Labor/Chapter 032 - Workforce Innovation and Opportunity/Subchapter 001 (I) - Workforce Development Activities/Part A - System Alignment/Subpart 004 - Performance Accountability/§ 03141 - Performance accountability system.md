@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to establish performance accountability measures that apply across the core programs to assess the effectiveness of States and local areas (for core programs described in part B) in achieving positive outcomes for individuals served by those programs.
+The purpose of this section is to establish performance accountability measures that applyacross the core programs to assess the effectiveness of States and local areas (for core programs described in part B) in achieving positive outcomes for individuals served by those programs.
 
 #### (b) State performance accountability measures
 
@@ -90,7 +90,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (I) First 2 years
 
-&emsp;&emsp;&emsp;&emsp;The State shall reach agreement with the Secretary of Labor, in conjunction with the Secretary of Education on levels of performance for each indicator described in clause (iii) for each of the programs described in clause (ii) for each of the first 2 program years covered by the State plan. In reaching the agreement, the State and the Secretary of Labor in conjunction with the Secretary of Education shall take into account the levelsidentified in the State plan under clause (iii) and the factors described in clause (v). The levels agreed to shall be considered to be the State adjusted levels of performance for the State for such program years and shall be incorporated into the State plan prior to the approval of such plan.
+&emsp;&emsp;&emsp;&emsp;The State shall reach agreement with the Secretary of Labor, in conjunction with the Secretary of Education on levels of performance for each indicator described in clause (iii) for each of the programs described in clause (ii) for each of the first 2 program years covered by the State plan. In reaching the agreement, the State and the Secretary of Labor in conjunction with the Secretary of Education shall take into account the levels identified in the State plan under clause (iii) and the factors described in clause (v). The levels agreed to shall be considered to be the State adjusted levels of performance for the State for such program years and shall be incorporated into the State plan prior to the approval of such plan.
 
 #### (II) Third and fourth year
 
@@ -122,7 +122,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (viii) Statistical adjustment model
 
-&emsp;&emsp;&emsp;The Secretary of Labor and the Secretary of Education, after consultation with the representatives described in paragraph (4)(B), shall develop and disseminate an objective statistical model that will be used to make the adjustments in the State adjusted levels of performance for actual economic conditions and characteristics of participants under clauses (v) and (vii).
+&emsp;&emsp;&emsp;The Secretary of Labor and the Secretary of Education, after consultation with the representatives described in paragraph (4)(B), shall develop and disseminate an objective statistical model that will beused to make the adjustments in the State adjusted levels of performance for actual economic conditions and characteristics of participants under clauses (v) and (vii).
 
 #### (B) Levels of performance for additional indicators
 
@@ -202,7 +202,7 @@ The purpose of this section is to establish performance accountability measures 
 
 &emsp;&emsp;(A) the information specified in subparagraphs (A) through (L) of paragraph (2), for each of the programs described in subclauses (I) through (III) of subsection (b)(3)(A)(ii);
 
-&emsp;&emsp;(B) the percentage of the local area's allocation under sections 3163(b) and 3173(b) ofthis title that the local area spent on administrative costs; and
+&emsp;&emsp;(B) the percentage of the local area's allocation under sections 3163(b) and 3173(b) of this title that the local area spent on administrative costs; and
 
 &emsp;&emsp;(C) other information that facilitates comparisons of programs with programs in other local areas (or planning regions, as appropriate).
 
@@ -248,7 +248,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (1) In general
 
-&emsp;Using funds authorized under a core program and made available to carry out this section, the State, in coordination with local boards in the State and the State agencies responsible for the administration of the core programs, shall conduct ongoing evaluations of activities carried out in the State under such programs. The State, local boards, and State agencies shall conduct the evaluations in order to promote, establish, implement, and utilize methods for continuously improving core program activities in order to achieve high-level performance within, and high-level outcomes from, the workforce development system. The State shall coordinate the evaluations with the evaluations provided for by the Secretary of Labor and the Secretary of Education under section 3224 of this title, section 3332(c)(2)(D) of this title, and sections 12(a)(5), 14, and 107 of the Rehabilitation Act of 1973 (29 U.S.C. 709(a)(5), 711, 727) (applied with respect to programs carried out under title I of that Act (29 U.S.C. 720 et seq.)) and the investigations provided for by the Secretary of Labor under section 10(b) of the Wagner-Peyser Act (29 U.S.C. 49i(b)).
+&emsp;Using funds authorized under a core program and made available to carry out this section, the State, in coordination with local boards in the State and the State agencies responsiblefor the administration of the core programs, shall conduct ongoing evaluations of activities carried out in the State under such programs. The State, local boards, and State agencies shall conduct the evaluations in order to promote, establish, implement, and utilize methods for continuously improving core program activities in order to achieve high-level performance within, and high-level outcomes from, the workforce development system. The State shall coordinate the evaluations with the evaluations provided for by the Secretary of Labor and the Secretary of Education under section 3224 of this title, section 3332(c)(2)(D) of this title, and sections 12(a)(5), 14, and 107 of the Rehabilitation Act of 1973 (29 U.S.C. 709(a)(5), 711, 727) (applied with respect to programs carried out under title I of that Act (29 U.S.C. 720 et seq.)) and the investigations provided for by the Secretary of Labor under section 10(b) of the Wagner-Peyser Act (29 U.S.C. 49i(b)).
 
 #### (2) Design
 
@@ -300,7 +300,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (ii) Subsequent action
 
-&emsp;&emsp;&emsp;The local board and chief elected official for a local area may, not later than 30 days after receiving a decision from the Governor pursuant to clause (i), appeal such decision to the Secretary of Labor. In such case, the Secretary shall make a final decision not later than 30 days after the receipt of the appeal.
+&emsp;&emsp;&emsp;The local board and chief elected official for a local area may, not later than 30 days after receiving a decision from the Governor pursuant to clause (i), appeal such decision to the Secretary of Labor. In suchcase, the Secretary shall make a final decision not later than 30 days after the receipt of the appeal.
 
 #### (C) Effective date
 
@@ -341,6 +341,10 @@ This Act, referred to in subsec. (i)(3), is Pub. L. 113–128, July 22, 2014, 12
 <b>2015</b>—Subsec. (b)(2)(A)(iv). Pub. L. 114–18, §2(c)(1), substituted "clause (i)(VI)" for "clause (i)(IV)".
 
 Subsec. (g)(1). Pub. L. 114–18, §2(c)(2), struck out "for a program described in subsection (d)(2)(A)" after "part B".
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 

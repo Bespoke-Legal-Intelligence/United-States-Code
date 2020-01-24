@@ -34,7 +34,7 @@ Congress finds as follows:
 
 &emsp;(5) The Light Station is historically associated with the nearby world-famous Hearst Castle (Hearst San Simeon State Historical Monument), now administered by the State of California.
 
-&emsp;(6) The Light Station represents a model partnership where future management can be successfully accomplished among the Federal Government, the State of California, San LuisObispo County, local communities, and private groups.
+&emsp;(6) The Light Station represents a model partnership where future management can be successfully accomplished among the Federal Government, the State of California, San Luis Obispo County, local communities, and private groups.
 
 &emsp;(7) Piedras Blancas Historic Light Station Outstanding Natural Area would make a significant addition to the National Landscape Conservation System administered by the Department of the Interior's Bureau of Land Management.
 
@@ -84,7 +84,7 @@ Congress finds as follows:
 
 &emsp;&emsp;(C) an implementation plan for a continuing program of interpretation and public education about the Light Station and its importance to the surrounding community;
 
-&emsp;&emsp;(D) a proposal for minimal administrative and public facilities to be developed or improved at a level compatible with achieving the resources objectives for the Outstanding Natural Area as described in paragraph (1) and with other proposed management activities to accommodate visitors and researchers to the Outstanding Natural Area; and
+&emsp;&emsp;(D) a proposal for minimal administrative and public facilities to be developed or improved at a level compatible with achieving the resources objectives for the Outstanding Natural Area as described in paragraph (1)and with other proposed management activities to accommodate visitors and researchers to the Outstanding Natural Area; and
 
 &emsp;&emsp;(E) cultural resources management strategies for the Outstanding Natural Area, prepared in consultation with appropriate departments of the State of California, with emphasis on the preservation of the resources of the Outstanding Natural Area and the interpretive, education, and long-term scientific uses of the resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and division A of subtitle III of title 54 within the Outstanding Natural Area.
 
@@ -142,7 +142,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(3), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
-The Archaeological Resources Protection Act of 1979, referred to in subsec. (d)(3)(E), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
+The Archaeological Resources Protection Act of 1979, referred to in subsec. (d)(3)(E), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of Title 16, Conservation. Forcomplete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
 
 The American Indian Religious Freedom Act, referred to in subsec. (d)(10), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 

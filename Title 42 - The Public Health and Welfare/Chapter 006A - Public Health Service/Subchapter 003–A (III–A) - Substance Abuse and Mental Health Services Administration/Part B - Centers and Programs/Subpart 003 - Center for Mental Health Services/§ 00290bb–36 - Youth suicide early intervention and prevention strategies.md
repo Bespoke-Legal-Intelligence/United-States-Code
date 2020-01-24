@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use,shall award grants or cooperative agreements to eligible entities to—
+The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall award grants or cooperative agreements to eligible entities to—
 
 &emsp;(1) develop and implement State-sponsored statewide or tribal youth suicide early intervention and prevention strategies in schools, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, and other child and youth support organizations;
 
@@ -56,7 +56,7 @@ In providing assistance under a grant or cooperative agreement under this sectio
 
 &emsp;(9) ensure that information and awareness campaigns on youth suicide risk factors, and early intervention and prevention services, use effective communication mechanisms that are targeted to and reach youth, families, schools, educational institutions, and youth organizations;
 
-&emsp;(10) provide a timely response system to ensure that child-serving professionals and providers are properly trained in youth suicide early intervention and prevention strategiesand that child-serving professionals and providers involved in early intervention and prevention services are properly trained in effectively identifying youth who are at risk for suicide;
+&emsp;(10) provide a timely response system to ensure that child-serving professionals and providers are properly trained in youth suicide early intervention and prevention strategies and that child-serving professionals and providers involved in early intervention and prevention services are properly trained in effectively identifying youth who are at risk for suicide;
 
 &emsp;(11) provide continuous training activities for child care professionals and community care providers on the latest youth suicide early intervention and prevention services practices and strategies;
 
@@ -226,7 +226,7 @@ Pub. L. 108–355, §2, Oct. 21, 2004, 118 Stat. 1404, provided that: "Congress 
 
 &emsp;"(6) From 1980 to 1997, the rate of suicide among children ages 10 to 14 increased 109 percent.
 
-&emsp;"(7) According to the National Center of Health Statistics, suicide rates among Native Americans range from 1.5 to 3 times the national average for other groups, with young people ages 15 to 34 making up 64 percent of all suicides.
+&emsp;"(7) According to the National Center of Health Statistics, suicide rates among Native Americansrange from 1.5 to 3 times the national average for other groups, with young people ages 15 to 34 making up 64 percent of all suicides.
 
 &emsp;"(8) Congress has recognized that youth suicide is a public health tragedy linked to underlying mental health problems and that youth suicide early intervention and prevention activities are national priorities.
 

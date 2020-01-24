@@ -70,5 +70,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Criminal Background Checks
 
-Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2448, provided in part: "That during fiscal year 1998 and each fiscal year thereafter, none of the funds appropriated or otherwise made available to the Immigration and Naturalization Service shall be used to complete adjudication of an application for naturalization unless the Immigration and Naturalization Service has received confirmation from the Federal Bureau of Investigation that a full criminal background check has been completed, except for those exempted by regulation as of January 1, 1997".
+Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2448, provided in part: "That during fiscal year 1998 and each fiscal year thereafter, none of the funds appropriated orotherwise made available to the Immigration and Naturalization Service shall be used to complete adjudication of an application for naturalization unless the Immigration and Naturalization Service has received confirmation from the Federal Bureau of Investigation that a full criminal background check has been completed, except for those exempted by regulation as of January 1, 1997".
 

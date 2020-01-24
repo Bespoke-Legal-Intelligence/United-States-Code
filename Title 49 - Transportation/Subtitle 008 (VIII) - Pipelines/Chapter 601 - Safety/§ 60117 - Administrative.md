@@ -150,7 +150,7 @@ Emergency Order Authority.—
 
 &emsp;(1)
 
-In general.—If the Secretary determines that an unsafe condition or practice, or a combination of unsafe conditions and practices,constitutes or is causing an imminent hazard, the Secretary may issue an emergency order described in paragraph (3) imposing emergency restrictions, prohibitions, and safety measures on owners and operators of gas or hazardous liquid pipeline facilities without prior notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.
+In general.—If the Secretary determines that an unsafe condition or practice, or a combination of unsafe conditions and practices, constitutes or is causing an imminent hazard, the Secretary may issue an emergency order described in paragraph (3) imposing emergency restrictions, prohibitions, and safety measures on owners and operators of gas or hazardous liquid pipeline facilities without prior notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.
 
 &emsp;(2)
 
@@ -192,7 +192,7 @@ Opportunity for review.—Upon receipt of a petition for review from an entity s
 
 &emsp;(5)
 
-Expiration of effectiveness order.—If a petition for review of an emergency order is filed under paragraph (4) and an agency decision with respect to the petition is not issued on or before the last day of the 30-day period beginning on the date on which the petition is filed, the order shall cease to be effective on such day, unless the Secretary determines in writing on or before the last day of such period that the imminent hazard still exists.
+Expiration of effectiveness order.—If a petition for review of an emergency order is filed under paragraph (4) and an agency decision with respect to the petition is not issued on or before the last day of the 30-day period beginning on the date on which the petition is filed, the order shall cease to be effective onsuch day, unless the Secretary determines in writing on or before the last day of such period that the imminent hazard still exists.
 
 &emsp;(6)
 
@@ -430,7 +430,7 @@ The date of enactment of the PIPES Act of 2016 and such date of enactment, refer
 
 "(1)
 
-In general.—If the Secretary conducts facility design safety reviews in connection with a proposal toconstruct, expand, or operate a liquefied natural gas pipeline facility, the Secretary may require the person requesting such reviews to pay the associated staff costs relating to such reviews incurred by the Secretary in section 60301(d). The Secretary may assess such costs in any reasonable manner.
+In general.—If the Secretary conducts facility design safety reviews in connection with a proposal to construct, expand, or operate a liquefied natural gas pipeline facility, the Secretary may require the person requesting such reviews to pay the associated staff costs relating to such reviews incurred by the Secretary in section 60301(d). The Secretary may assess such costs in any reasonable manner.
 
 "(2)
 

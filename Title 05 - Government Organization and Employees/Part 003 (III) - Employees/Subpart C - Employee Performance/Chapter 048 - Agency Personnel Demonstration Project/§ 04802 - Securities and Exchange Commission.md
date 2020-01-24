@@ -48,7 +48,7 @@ Implementation report.—
 
 &emsp;"(A)
 
-In general.—Before implementing the plan developed under paragraph (1), the Securities and Exchange Commission shall submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] and the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] and the Committee on Financial Services of the House of Representatives, and the Office of Personnel Management on the details of the plan.
+In general.—Before implementing the plan developed under paragraph (1), the Securities and Exchange Commission shall submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] and the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Government Reform \[now Committee on Oversight and Reform\] and the Committee on Financial Services of the House of Representatives, and the Office of Personnel Management on the details of the plan.
 
 &emsp;"(B)
 

@@ -30,7 +30,7 @@ The amount of the credit allowable under subsection (a) shall be reduced by an a
 
 #### (B) Inflation adjustment
 
-&emsp;&emsp;In the case of any decedent dying in a calendar year after 2011, the dollar amount insubparagraph (A) shall be increased by an amount equal to—
+&emsp;&emsp;In the case of any decedent dying in a calendar year after 2011, the dollar amount in subparagraph (A) shall be increased by an amount equal to—
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
@@ -144,7 +144,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Conforming amendment relating to generation-skipping transfers.—The amendment made by subsection (b)(2) \[amending section 2631 of this title\] shall apply to generation-skipping transfers after December 31, 2010."
+Conforming amendment relating to generation-skipping transfers.—The amendment made bysubsection (b)(2) \[amending section 2631 of this title\] shall apply to generation-skipping transfers after December 31, 2010."
 
 #### Effective Date of 2001 Amendment
 

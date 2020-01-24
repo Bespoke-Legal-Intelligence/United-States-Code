@@ -200,7 +200,7 @@ Implementation of technology.—
 
 &emsp;&emsp;(A)
 
-In general.—In conjunction with ongoing efforts to improve security at UnitedStates ports, the Secretary may conduct pilot projects at United States ports to test the effectiveness and applicability of new port security projects, including—
+In general.—In conjunction with ongoing efforts to improve security at United States ports, the Secretary may conduct pilot projects at United States ports to test the effectiveness and applicability of new port security projects, including—
 
 &emsp;&emsp;&emsp;(i) testing of new detection and screening technologies;
 
@@ -218,7 +218,7 @@ National port security centers.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary may make grants or enter into cooperative agreements with eligible nonprofit institutions of higher learning to conduct investigations in collaboration with ports and the maritime transportation industry focused on enhancing security of the Nation's ports in accordance with this subsection through National Port Security Centers.
+In general.—The Secretary may make grants or enter into cooperative agreements with eligible nonprofit institutions of higherlearning to conduct investigations in collaboration with ports and the maritime transportation industry focused on enhancing security of the Nation's ports in accordance with this subsection through National Port Security Centers.
 
 &emsp;&emsp;(B)
 
@@ -284,7 +284,7 @@ Subsec. (c)(2)(C). Pub. L. 111–281, §828(b)(3), added subpar. (C).
 
 Subsec. (l). Pub. L. 111–281, §828(b)(4), substituted "2013" for "2011".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–347, §112(a), (e), substituted "for the allocation of funds based on risk" for"for making a fair and equitable allocation of funds" and "national economic, energy, and strategic defense concerns based upon the most current risk assessments available" for "national economic and strategic defense concerns".
+<b>2006</b>—Subsec. (a). Pub. L. 109–347, §112(a), (e), substituted "for the allocation of funds based on risk" for "for making a fair and equitable allocation of funds" and "national economic, energy, and strategic defense concerns based upon the most current risk assessments available" for "national economic and strategic defense concerns".
 
 Subsec. (b)(2). Pub. L. 109–347, §112(b)(1), inserted at end "Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121(j)(8)), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—" and subpars. (A) and (B).
 
@@ -296,7 +296,7 @@ Subsec. (i)(1). Pub. L. 109–347, §112(c)(2), substituted "Secretary shall req
 
 Subsecs. (j), (k). Pub. L. 109–347, §112(c)(1), redesignated subsecs. (f) and (g) as (j) and (k), respectively.
 
-Subsec. (l). Pub. L. 109–347, §112(d), amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: "There are authorized to be appropriated to the Secretary for each of fiscal years 2003 through 2008 such sums as are necessary to carry out subsections (a) through (g)."
+Subsec. (l). Pub. L. 109–347, §112(d), amended subsec. (l) generally. Prior to amendment, subsec. (l) read asfollows: "There are authorized to be appropriated to the Secretary for each of fiscal years 2003 through 2008 such sums as are necessary to carry out subsections (a) through (g)."
 
 Pub. L. 109–347, §112(c)(1), redesignated subsec. (h) as (l).
 

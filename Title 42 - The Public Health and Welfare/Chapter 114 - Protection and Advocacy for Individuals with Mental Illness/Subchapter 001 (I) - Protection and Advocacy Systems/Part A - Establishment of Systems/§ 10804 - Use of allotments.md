@@ -28,7 +28,7 @@ The definition of "individual with a mental illness" contained in section 10802(
 
 #### References in Text
 
-Section 10802(4)(B)(iii) of this title, referred to in subsec. (d), was redesignated section 10802(4)(B)(i)(III) of this title by Pub. L. 106–310, div. B, title XXXII, §3206(b)(1)(B)(i), (ii), Oct. 17, 2000, 114 Stat. 1194.
+Section 10802(4)(B)(iii) of this title, referred to in subsec. (d), was redesignated section 10802(4)(B)(i)(III) ofthis title by Pub. L. 106–310, div. B, title XXXII, §3206(b)(1)(B)(i), (ii), Oct. 17, 2000, 114 Stat. 1194.
 
 #### Amendments
 

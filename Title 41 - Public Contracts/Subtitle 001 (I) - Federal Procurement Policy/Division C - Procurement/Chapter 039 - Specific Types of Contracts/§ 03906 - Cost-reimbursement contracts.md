@@ -24,7 +24,7 @@ Annual Report.—
 
 &emsp;(1)
 
-In general.—The Director of the Office of Management and Budget shall submit an annual report to Congressional committeesidentified in subsection (e) on the use of cost-reimbursement contracts and task or delivery orders by all executive agencies.
+In general.—The Director of the Office of Management and Budget shall submit an annual report to Congressional committees identified in subsection (e) on the use of cost-reimbursement contracts and task or delivery orders by all executive agencies.
 
 &emsp;(2)
 
@@ -81,6 +81,10 @@ Pub. L. 110–417, \[div. A\], title VIII, §864(a), (b), (d), (e), (f)(2), (g),
 In subsection (b), the words "Not later than 270 days after the date of the enactment of this Act" are omitted because of section 6(f) of the bill. The words "shall address" are substituted for "shall be revised to address" to reflect the permanence of the provision.
 
 In subsection (d), the words "Subject to subsection (f)" are omitted as unnecessary.
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Amendment of Federal Acquisition Regulation
 

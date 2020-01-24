@@ -32,7 +32,7 @@ Section is comprised of pars. 4 and 5 of section 4 of act Dec. 23, 1913. For cla
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 amended fifth power by substituting "The president shall be the chief executive officer of the bank and shall be appointed by the Class B and Class C directors of the bank, with the approval of the Board of Governors of the Federal Reserve System, for a term of 5 years; and all other executive officers and all employees of the bank shall be directly responsible to the president." for "The president shall be the chief executive officer of the bank and shall be appointed by the board of directors, with the approval of the Board of Governors of the Federal Reserve System, for a term of five years; and all other executive officers and all employees of the bank shall be directly responsible to him."
+<b>2010</b>—Pub. L. 111–203 amended fifth power by substituting "The president shall be the chief executive officer of the bank and shall be appointed by the Class B and Class C directors of the bank, with the approval of the Board of Governors of the Federal Reserve System, for a term of 5 years; and all other executive officers and all employees of the bank shall be directly responsible to the president." for "The president shall be the chief executive officer of the bank and shall be appointed by the board of directors, with the approval of the Board of Governors of the Federal Reserve System, for a term of five years; and all other executive officersand all employees of the bank shall be directly responsible to him."
 
 <b>1994</b>—Pub. L. 103–325 amended eighth power by substituting "Secretary of the Treasury" for "Comptroller of the Currency".
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Maintenance of Documentation of Design and Construction.—Complete documentation of design and construction of each commemorativework located in the District of Columbia and its environs shall be provided to the Secretary of the Interior or Administrator of General Services, as appropriate, and shall be permanently maintained in the manner provided by law.
+Maintenance of Documentation of Design and Construction.—Complete documentation of design and construction of each commemorative work located in the District of Columbia and its environs shall be provided to the Secretary of the Interior or Administrator of General Services, as appropriate, and shall be permanently maintained in the manner provided by law.
 
 (b)
 

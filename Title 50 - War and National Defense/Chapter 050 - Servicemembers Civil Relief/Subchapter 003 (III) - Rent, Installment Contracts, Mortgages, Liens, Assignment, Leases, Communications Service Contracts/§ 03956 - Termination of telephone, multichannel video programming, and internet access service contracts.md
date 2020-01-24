@@ -4,7 +4,7 @@
 
 #### (1) Termination
 
-&emsp;A servicemember may terminate a contract described in subsection (b) at any time afterthe date the servicemember receives military orders to relocate for a period of not less than 90 days to a location that does not support the contract.
+&emsp;A servicemember may terminate a contract described in subsection (b) at any time after the date the servicemember receives military orders to relocate for a period of not less than 90 days to a location that does not support the contract.
 
 #### (2) Notice
 

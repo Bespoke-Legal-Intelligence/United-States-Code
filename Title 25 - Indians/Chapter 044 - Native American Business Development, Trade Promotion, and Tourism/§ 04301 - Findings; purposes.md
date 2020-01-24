@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(4) consistent with the principles of inherent tribal sovereignty and the special relationship between Indian tribes and the United States, Indian tribes retain the right to enter into contracts and agreements to trade freely, and seek enforcement of treaty and trade rights;
 
-&emsp;(5) Congress has carried out the responsibility of the United States for the protection and preservation of Indian tribes and the resources of Indian tribes through the endorsement of treaties, and the enactment of other laws, including laws that provide for the exercise of administrative authorities;
+&emsp;(5) Congress has carried out the responsibility of the United States for the protection andpreservation of Indian tribes and the resources of Indian tribes through the endorsement of treaties, and the enactment of other laws, including laws that provide for the exercise of administrative authorities;
 
 &emsp;(6) the United States has an obligation to guard and preserve the sovereignty of Indian tribes in order to foster strong tribal governments, Indian self-determination, and economic self-sufficiency among Indian tribes;
 

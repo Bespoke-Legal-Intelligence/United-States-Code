@@ -22,7 +22,7 @@
 
 #### (2) Under Secretary for Arms Control and International Security
 
-&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Arms Control and International Security, who shall assist the Secretary and the Deputy Secretary in matters related to international security policy, arms control, and nonproliferation. Subject to the direction of the President, the Under Secretary may attend and participate in meetings of the National Security Council in his role as Senior Advisor to the President and the Secretary of State on Arms Control and Nonproliferation Matters.
+&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Arms Control and International Security, who shall assist the Secretary and the Deputy Secretary in matters related to international security policy, arms control, and nonproliferation. Subject to the direction of the President, the Under Secretary may attend and participate in meetings of the National Security Council in his role as Senior Advisor to the Presidentand the Secretary of State on Arms Control and Nonproliferation Matters.
 
 #### (3) Under Secretary for Public Diplomacy
 
@@ -62,7 +62,33 @@
 
 &emsp;&emsp;(iv) Performing other responsibilities which serve to promote increased observance of internationally recognized human rights by all countries.
 
-#### (3) Nomination of Assistant Secretaries
+#### (3) Assistant Secretary for economic and business matters
+
+#### (A) In general
+
+&emsp;&emsp;Subject to the numerical limitation specified in paragraph (1), there is authorized to be established in the Department of State an Assistant Secretary of State who shall be responsible to the Secretary of State for matters pertaining to international economics and business matters in the conduct of foreign policy.
+
+#### (B) Matters contemplated
+
+&emsp;&emsp;The matters referred to in subparagraph (A) include the following:
+
+&emsp;&emsp;&emsp;(i) International trade and investment policy.
+
+&emsp;&emsp;&emsp;(ii) International finance, economic development, and debt policy.
+
+&emsp;&emsp;&emsp;(iii) Economic sanctions and combating terrorist financing.
+
+&emsp;&emsp;&emsp;(iv) International transportation policy.
+
+&emsp;&emsp;&emsp;(v) Support for United States businesses.
+
+&emsp;&emsp;&emsp;(vi) Economic policy analysis and private sector outreach.
+
+&emsp;&emsp;&emsp;(vii) International data privacy and innovation policies.
+
+&emsp;&emsp;&emsp;(viii) Such other related duties as the Secretary may from time to time designate.
+
+#### (4) Nomination of Assistant Secretaries
 
 &emsp;Whenever the President submits to the Senate a nomination of an individual for appointment to a position in the Department of State that is described in paragraph (1), the President shall designate the regional or functional bureau or bureaus of the Department of State with respect to which the individual shall have responsibility.
 
@@ -144,7 +170,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;&emsp;&emsp;&emsp;(VIII) Ensuring, through interagency and international coordination, that HIV/AIDS programs of the United States are coordinated with, and complementary to, the delivery of related global health, food security, development, and education.
 
-&emsp;&emsp;&emsp;&emsp;(IX) Directly approving all activities of the United States (including funding) relating to combatting HIV/AIDS in each of Botswana, Cote d'Ivoire, Ethiopia,Guyana, Haiti, Kenya, Mozambique, Namibia, Nigeria, Rwanda, South Africa, Tanzania, Uganda, Vietnam, Zambia, and other countries designated by the President, which other designated countries may include those countries in which the United States is implementing HIV/AIDS programs as of May 27, 2003, and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program. In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country.
+&emsp;&emsp;&emsp;&emsp;(IX) Directly approving all activities of the United States (including funding) relating to combatting HIV/AIDS in each of Botswana, Cote d'Ivoire, Ethiopia, Guyana, Haiti, Kenya, Mozambique, Namibia, Nigeria, Rwanda, South Africa, Tanzania, Uganda, Vietnam, Zambia, and other countries designated by the President, which other designated countries may include those countries in which the United States is implementing HIV/AIDS programs as of May 27, 2003, and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program. In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country.
 
 &emsp;&emsp;&emsp;&emsp;(X) Working with partner countries in which the HIV/AIDS epidemic is prevalent among injection drug users to establish, as a national priority, national HIV/AIDS prevention programs.
 
@@ -188,13 +214,13 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;The officer of the Department of State with primary responsibility for assisting the Secretary with respect to international narcotics and law enforcement, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) law enforcement or international narcotics policy.
 
-(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933; Pub. L. 112–166, §2(j), Aug. 10, 2012, 126 Stat. 1286.)
+(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933; Pub. L. 112–166, §2(j), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 116–94, div. J, title VII, §703, Dec. 20, 2019, 133 Stat. 3070.)
 
 #### References in Text
 
 This Act, referred to in subsecs. (a)(1) and (f)(2)(C)(iv), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, known as the State Department Basic Authorities Act of 1956. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
 
-The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, referred to in subsec. (f)(2)(B)(i), is Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which enacted chapter 83 and sections 262p–8 and 2151b–2 to 2151b–4 of this title, amended this section, sections 2151b and 2222 of this title, and section 242l of Title 42, The Public Health and Welfare, and enacted provisions set out as a note under section 7601 of thistitle. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
+The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, referred to in subsec. (f)(2)(B)(i), is Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which enacted chapter 83 and sections 262p–8 and 2151b–2 to 2151b–4 of this title, amended this section, sections 2151b and 2222 of this title, and section 242l of Title 42, The Public Health and Welfare, and enacted provisions set out as a note under section 7601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
 #### Codification
 
@@ -203,6 +229,8 @@ Section was formerly classified to section 2662 of this title.
 Section was also formerly classified to section 170f of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c)(3), (4). Pub. L. 116–94 added par. (3) and redesignated former par. (3) as (4).
 
 <b>2012</b>—Subsec. (c)(1). Pub. L. 112–166 struck out ", each of whom shall be appointed by the President, by and with the advice and consent of the Senate, and" after "Secretaries of State" and inserted at end "Each Assistant Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate, except that the appointments of the Assistant Secretary for Public Affairs and the Assistant Secretary for Administration shall not be subject to the advice and consent of the Senate."
 
@@ -269,6 +297,10 @@ Pub. L. 105–277, §2304, added subsec. (h).
 Subsec. (a)(2). Pub. L. 103–415 inserted "and the Deputy Secretary of State" after "Secretary".
 
 <b>1982</b>—Pub. L. 97–241 substituted "The Secretary" for "That the Secretary".
+
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 2012 Amendment
 
@@ -430,7 +462,7 @@ Limitation.—Amounts authorized to be appropriated for minority recruitment und
 
 "(b)
 
-Recruitment Activities at Academic Institutions.—The Secretary shall expand the recruitment efforts of the Department to include not less than 25 percent of the part B institutions (as defined under section 322 of the Higher Education Act of 1965 \[20 U.S.C. 1061\]) in the United States and not less than 25 percent of the Hispanic-serving institutions (as defined in section 502(a)(5) of such Act \[20 U.S.C. 1101a(a)(5)\]) in the United States.
+Recruitment Activities at Academic Institutions.—The Secretary shall expand the recruitment efforts of the Department to include not less than 25 percent of the part B institutions (as defined under section 322 of the Higher Education Act of 1965 \[20 U.S.C. 1061\]) in the United States and not less than 25 percent of theHispanic-serving institutions (as defined in section 502(a)(5) of such Act \[20 U.S.C. 1101a(a)(5)\]) in the United States.
 
 "(c)
 
@@ -464,7 +496,7 @@ Pub. L. 103–236, title I, §161(c), Apr. 30, 1994, 108 Stat. 404, provided tha
 
 #### References to Officials and Offices of Department of State Whose Authority Is vested in Secretary of State Deemed References to Secretary of State or Department of State
 
-Pub. L. 103–236, title I, §161(d), Apr. 30, 1994, 108 Stat. 404, provided that: "Except as specifically provided in this Act \[see Tables for classification\], or the amendments made by this Act, a reference in any other provision of law to an official or office of the Department ofState affected by the amendment made by subsection (a) \[amending this section\] (other than the Inspector General of the Department of State and the Chief Financial Officer of the Department of State) shall be deemed to be a reference to the Secretary of State or the Department of State, as may be appropriate."
+Pub. L. 103–236, title I, §161(d), Apr. 30, 1994, 108 Stat. 404, provided that: "Except as specifically provided in this Act \[see Tables for classification\], or the amendments made by this Act, a reference in any other provision of law to an official or office of the Department of State affected by the amendment made by subsection (a) \[amending this section\] (other than the Inspector General of the Department of State and the Chief Financial Officer of the Department of State) shall be deemed to be a reference to the Secretary of State or the Department of State, as may be appropriate."
 
 #### Office of Coordinator for Counterterrorism
 

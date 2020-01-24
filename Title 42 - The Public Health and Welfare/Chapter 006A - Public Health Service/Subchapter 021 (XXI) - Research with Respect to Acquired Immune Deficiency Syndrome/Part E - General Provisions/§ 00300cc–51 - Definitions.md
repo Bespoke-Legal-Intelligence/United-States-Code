@@ -6,7 +6,7 @@ For purposes of this subchapter:
 
 &emsp;(2) The term "treatment", with respect to the etiologic agent for acquired immune deficiency syndrome, includes primary and secondary prophylaxis.
 
-(July 1, 1944, ch. 373, title XXIII, §2361, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102Stat. 3078; amended Pub. L. 103–43, title XVIII, §1811(8), June 10, 1993, 107 Stat. 200.)
+(July 1, 1944, ch. 373, title XXIII, §2361, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3078; amended Pub. L. 103–43, title XVIII, §1811(8), June 10, 1993, 107 Stat. 200.)
 
 #### Amendments
 

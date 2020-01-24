@@ -76,7 +76,7 @@ Each State shall submit statistical reports as the Secretary may require with re
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall submit to the Committee on Finance of the Senate and theCommittee on Ways and Means of the House of Representatives periodic reports based on the provision of services and programs described in section 671(e)(1) of this title and the activities carried out under this subsection.
+&emsp;&emsp;The Secretary shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives periodic reports based on the provision of services and programs described in section 671(e)(1) of this title and the activities carried out under this subsection.
 
 #### (B) Public availability
 

@@ -38,7 +38,7 @@ Preemption.—
 
 &emsp;(1)
 
-Inconsistent laws.—Except as provided in subsection (f)(2), this section preempts any State or Federal law, rule, or regulation, including any State usury law, to the extent that such law, rule, or regulation is inconsistent with this section, except that this section shall not preempt any such law, rule, or regulation that provides protection to a covered member or a dependent of such a member in addition to the protection provided by this section.
+Inconsistent laws.—Except as provided in subsection (f)(2), this section preempts any State or Federal law, rule, or regulation, including any State usury law, to the extent that such law, rule, or regulation is inconsistent with this section, except that this sectionshall not preempt any such law, rule, or regulation that provides protection to a covered member or a dependent of such a member in addition to the protection provided by this section.
 
 &emsp;(2)
 
@@ -128,7 +128,7 @@ Administrative enforcement.—The provisions of this section (other than paragra
 
 (g)
 
-Servicemembers Civil Relief Act Protections Unaffected.—Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. 3937).
+Servicemembers Civil Relief Act Protections Unaffected.—Nothing in this section may be construed to limit or otherwise affectthe applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. 3937).
 
 (h)
 
@@ -180,7 +180,7 @@ Dependent.—The term "dependent", with respect to a covered member, means a per
 
 &emsp;(3)
 
-Interest.—The term "interest" includes all cost elements associated with the extension of credit, including fees, service charges, renewal charges, credit insurance premiums,any ancillary product sold with any extension of credit to a servicemember or the servicemember's dependent, as applicable, and any other charge or premium with respect to the extension of consumer credit.
+Interest.—The term "interest" includes all cost elements associated with the extension of credit, including fees, service charges, renewal charges, credit insurance premiums, any ancillary product sold with any extension of credit to a servicemember or the servicemember's dependent, as applicable, and any other charge or premium with respect to the extension of consumer credit.
 
 &emsp;(4)
 
@@ -272,5 +272,5 @@ Pub. L. 114–92, div. A, title V, §594(b)(3), Nov. 25, 2015, 129 Stat. 834, pr
 
 #### Interim Regulations
 
-Pub. L. 109–364, div. A, title VI, §670(d), Oct. 17, 2006, 120 Stat. 2269, provided that: "The Secretary of Defense may prescribe interim regulations as necessary to carry out such section \[this section\]. For the purpose of prescribing such interim regulations, the Secretary is excepted from compliance with the notice-and-comment requirements of section 553 of title 5, UnitedStates Code. All interim rules prescribed under the authority of this subsection that are not earlier superseded by final rules shall expire no later than 270 days after the effective date of section 987 of title 10, United States Code \[see Effective Date note above\], as added by this section."
+Pub. L. 109–364, div. A, title VI, §670(d), Oct. 17, 2006, 120 Stat. 2269, provided for the prescription of interim regulations to carry out this section, with interim rules not superseded by final rules expiring no later than 270 days after the effective date of this section (see Effective Date note above).
 

@@ -44,7 +44,7 @@ For purposes of this section, the term "insurance" means—
 
 #### (d) Rule of construction
 
-For purposes of this section, providing insurance (including reinsurance) outside the United States that insures, guarantees, or indemnifies insurance products provided in a State, or that indemnifies an insurance company with regard to insurance products provided in a State, shall be considered to be providing insurance as principal in that State.
+For purposes of this section, providing insurance (including reinsurance) outside the UnitedStates that insures, guarantees, or indemnifies insurance products provided in a State, or that indemnifies an insurance company with regard to insurance products provided in a State, shall be considered to be providing insurance as principal in that State.
 
 (Pub. L. 106–102, title III, §302, Nov. 12, 1999, 113 Stat. 1407.)
 

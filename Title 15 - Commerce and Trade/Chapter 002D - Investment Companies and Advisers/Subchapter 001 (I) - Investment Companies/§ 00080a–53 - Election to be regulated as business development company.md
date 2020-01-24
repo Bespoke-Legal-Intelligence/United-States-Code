@@ -76,7 +76,7 @@ Required revisions.—The revisions described in this paragraph are revisions to
 
 &emsp;&emsp;"(J) section 230.415 of title 17, Code of Federal Regulations to state that the registration for securities under section 230.415(a)(1)(x) of title 17, Code of Federal Regulations, includes securities registered on Form N–2 by a business development company that would otherwise meet the eligibility requirements of Form S–3;
 
-&emsp;&emsp;"(K) section 230.497 of title 17, Code of Federal Regulations, to include a process for a business development company to file a form of prospectus in the same manner as the process for filing a form of prospectus under section 230.424(b) of title 17, Code of Federal Regulations;
+&emsp;&emsp;"(K) section 230.497 of title 17, Code of Federal Regulations, to include a process for a business development company to file a form of prospectus inthe same manner as the process for filing a form of prospectus under section 230.424(b) of title 17, Code of Federal Regulations;
 
 &emsp;&emsp;"(L) sections 230.172 and 230.173 of title 17, Code of Federal Regulations, to remove the exclusion of an offering of a business development company from the application of those sections;
 

@@ -94,7 +94,7 @@ In issuing regulations under subsection (b), the Secretary shall consider—
 
 &emsp;(1) how discrete reviews in considering an application described in subsection (b)(1) can be conducted simultaneously, rather than sequentially, by any organizational units of the Forest Service that must approve the location or modification; and
 
-&emsp;(2) how to eliminate overlapping requirements among the organizational units of the Forest Service with respect to the location or modification of a communications facility on covered land administered by those organizational units.
+&emsp;(2) how to eliminate overlapping requirements among the organizational units of theForest Service with respect to the location or modification of a communications facility on covered land administered by those organizational units.
 
 #### (e) Communication of streamlined process to organizational units
 
@@ -114,9 +114,11 @@ The Secretary shall, with respect to the regulations issued under subsection (b)
 
 &emsp;Fees collected by the Forest Service under subsection (c)(3) shall be—
 
-&emsp;&emsp;(A) based on the costs described in subsection (c)(3); and
+&emsp;&emsp;(A) collected only to the extent provided in advance in appropriations Acts;
 
-&emsp;&emsp;(B) competitively neutral, technology neutral, and nondiscriminatory with respect to other users of the communications site.
+&emsp;&emsp;(B) based on the costs described in subsection (c)(3); and
+
+&emsp;&emsp;(C) competitively neutral, technology neutral, and nondiscriminatory with respect to other users of the communications site.
 
 #### (3) Deposit of fees
 
@@ -148,7 +150,7 @@ The Secretary shall, with respect to the regulations issued under subsection (b)
 
 &emsp;Nothing in this section, or the amendments made by this section, and no actions taken pursuant to this section, or the amendments made by this section, shall impact a decision or determination by any executive agency to sell, dispose of, declare excess or surplus, lease, reuse, or redevelop any Federal real property pursuant to title 40, the Federal Assets Sale and Transfer Act of 2016 (40 U.S.C. 1303 note; Public Law 114–287), or any other law governing real property activities of the Federal Government. No agreement entered into pursuant to this section, or the amendments made by this section, may obligate the Federal Government to hold, control, or otherwise retain or use real property that may otherwise be deemed as excess, surplus, or that could otherwise be sold, leased, or redeveloped.
 
-(Pub. L. 115–334, title VIII, §8705, Dec. 20, 2018, 132 Stat. 4878.)
+(Pub. L. 115–334, title VIII, §8705, Dec. 20, 2018, 132 Stat. 4878; Pub. L. 116–94, div. D, title IV, §416, Dec. 20, 2019, 133 Stat. 2746.)
 
 #### References in Text
 
@@ -158,7 +160,15 @@ Section 606 of the Repack Airwaves Yielding Better Access for Users of Modern Se
 
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 
+#### Amendments
+
+<b>2019</b>—Subsec. (f)(2). Pub. L. 116–94 added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Fees collected by the Forest Service under subsection (c)(3) shall be—
+
+&emsp;"(A) based on the costs described in subsection (c)(3); and
+
+&emsp;"(B) competitively neutral, technology neutral, and nondiscriminatory with respect to other users of the communications site."
+
 #### Definition of "Secretary"
 
-"Secretary" as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under section 9001 of Title 7, Agriculture.
+"Secretary" means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under section 9001 of Title 7, Agriculture.
 

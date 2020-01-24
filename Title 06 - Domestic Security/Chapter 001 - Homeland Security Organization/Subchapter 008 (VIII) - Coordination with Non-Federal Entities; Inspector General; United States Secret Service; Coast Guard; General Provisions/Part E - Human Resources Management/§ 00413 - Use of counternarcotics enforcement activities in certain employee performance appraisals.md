@@ -14,7 +14,7 @@ For purposes of this section—
 
 &emsp;(1) the term "National Drug Control Program Agency" means—
 
-&emsp;&emsp;(A) a National Drug Control Program Agency, as defined in section 1701(7) <sup>1</sup> of title 21 (as last in effect); and
+&emsp;&emsp;(A) a National Drug Control Program Agency <sup>1</sup>, as defined in section 1701(7) <sup>2</sup> of title 21 (as last in effect); and
 
 &emsp;&emsp;(B) any subdivision of the Department that has a significant counternarcotics responsibility, as determined by—
 
@@ -30,5 +30,7 @@ For purposes of this section—
 
 Section 1701(7) of title 21, referred to in subsec. (b)(1)(A), was redesignated section 1701(11) of title 21 by Pub. L. 115–271, title VIII, §8216(4), Oct. 24, 2018, 132 Stat. 4117.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "agency".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -1,12 +1,12 @@
 ### §390. Declaration of purpose
 
-The purpose of this subpart is to assist, through matching grants, in the planning and construction of public telecommunications facilities in order to achieve the following objectives: (1) extend delivery of public telecommunications services to as many citizens of the United States as possible by the most efficient and economical means, including the use of broadcast and nonbroadcast technologies; (2) increase public telecommunications services and facilities available to, operated by, and owned by minorities and women; and (3) strengthen the capability of existing public television and radio stations to provide public telecommunications services to the public.
+The purpose of this subpart is to assist, through matching grants, in the planning and construction of public telecommunications facilities in order to achieve the following objectives: (1) extend delivery of public telecommunications services to as many citizens of theUnited States as possible by the most efficient and economical means, including the use of broadcast and nonbroadcast technologies; (2) increase public telecommunications services and facilities available to, operated by, and owned by minorities and women; and (3) strengthen the capability of existing public television and radio stations to provide public telecommunications services to the public.
 
 (June 19, 1934, ch. 652, title III, §390, as added Pub. L. 87–447, May 1, 1962, 76 Stat. 64; amended Pub. L. 90–129, title I, §103(a), title II, §201(2), Nov. 7, 1967, 81 Stat. 365, 367; Pub. L. 94–309, §2(c), June 5, 1976, 90 Stat. 683; Pub. L. 95–567, title I, §101, Nov. 2, 1978, 92 Stat. 2405.)
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–567 expanded scope of section to authorize construction financing for telecommunicationsfacilities other than television and radio broadcasting, and assistance in the planning, as well as the construction, of such facilities, and substituted provisions relating to the objectives of this subpart for former provision relating to the demonstration of the use of telecommunication technologies for the distribution of information.
+<b>1978</b>—Pub. L. 95–567 expanded scope of section to authorize construction financing for telecommunications facilities other than television and radio broadcasting, and assistance in the planning, as well as the construction, of such facilities, and substituted provisions relating to the objectives of this subpart for former provision relating to the demonstration of the use of telecommunication technologies for the distribution of information.
 
 <b>1976</b>—Pub. L. 94–309 designated existing phrase relating to assistance in the construction of noncommercial educational broadcasting facilities as cl. (1) and added cl. (2).
 

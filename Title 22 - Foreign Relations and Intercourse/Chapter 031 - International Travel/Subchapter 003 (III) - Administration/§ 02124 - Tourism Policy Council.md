@@ -28,7 +28,7 @@ The Council shall consist of the following individuals:
 
 &emsp;(10) The Commissioner of the Immigration and Naturalization Service.
 
-&emsp;(11) Representatives of other Federal agencies which have affected interests at eachmeeting as deemed appropriate and invited by the Chairman.
+&emsp;(11) Representatives of other Federal agencies which have affected interests at each meeting as deemed appropriate and invited by the Chairman.
 
 #### (c) No additional compensation for Council members
 

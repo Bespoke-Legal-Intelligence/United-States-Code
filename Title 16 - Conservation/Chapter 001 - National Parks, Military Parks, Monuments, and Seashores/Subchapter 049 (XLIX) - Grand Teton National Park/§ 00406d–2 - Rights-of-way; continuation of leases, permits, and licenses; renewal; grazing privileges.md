@@ -42,7 +42,7 @@ Pub. L. 105–81, Nov. 13, 1997, 111 Stat. 1537, provided that:
 
 &emsp;"(7) in order to develop the best solution to protect open space immediately adjacent to Grand Teton National Park, the Park Service should conduct a study of open space in the region; and
 
-&emsp;"(8) the study should develop workable solutions that are fiscally responsible and acceptable to theNational Park Service, the public, local government, and landowners in the area.
+&emsp;"(8) the study should develop workable solutions that are fiscally responsible and acceptable to the National Park Service, the public, local government, and landowners in the area.
 
 #### "SEC. 2. STUDY OF GRAZING USE AND OPEN SPACE.
 

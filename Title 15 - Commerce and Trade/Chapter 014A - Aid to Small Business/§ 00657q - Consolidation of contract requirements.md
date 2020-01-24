@@ -92,5 +92,5 @@ Rule.—After the date described in subparagraph (C), contracting by the Departm
 
 "(C)
 
-Date.—The date described in this subparagraph is the date on which the Administrator determines theDepartment of Defense or a military department is in compliance with the Government-wide contracting goals under section 644 of this title."
+Date.—The date described in this subparagraph is the date on which the Administrator determines the Department of Defense or a military department is in compliance with the Government-wide contracting goals under section 644 of this title."
 

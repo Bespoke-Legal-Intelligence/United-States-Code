@@ -86,7 +86,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 &emsp;The U.S. Border Patrol shall—
 
-&emsp;&emsp;(A) serve as the law enforcement office of U.S. Customs and Border Protection withprimary responsibility for interdicting persons attempting to illegally enter or exit the United States or goods being illegally imported into or exported from the United States at a place other than a designated port of entry;
+&emsp;&emsp;(A) serve as the law enforcement office of U.S. Customs and Border Protection with primary responsibility for interdicting persons attempting to illegally enter or exit the United States or goods being illegally imported into or exported from the United States at a place other than a designated port of entry;
 
 &emsp;&emsp;(B) deter and prevent the illegal entry of terrorists, terrorist weapons, persons, and contraband; and
 
@@ -278,7 +278,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 &emsp;The Office of Professional Responsibility shall—
 
-&emsp;&emsp;(A) investigate criminal and administrative matters and misconduct by officers,agents, and other employees of U.S. Customs and Border Protection;
+&emsp;&emsp;(A) investigate criminal and administrative matters and misconduct by officers, agents, and other employees of U.S. Customs and Border Protection;
 
 &emsp;&emsp;(B) manage integrity-related programs and policies of U.S. Customs and Border Protection;
 
@@ -316,7 +316,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 &emsp;&emsp;(A) in the case of a search of information conducted on an electronic device by U.S. Customs and Border Protection personnel, the Commissioner to notify the individual subject to such search of the purpose and authority for such search, and how such individual may obtain information on reporting concerns about such search; and
 
-&emsp;&emsp;(B) in the case of information collected by U.S. Customs and Border Protection through a search of an electronic device, if such information is transmitted to another Federal agency for subject matter assistance, translation, or decryption, the Commissioner to notify the individual subject to such search of such transmission.
+&emsp;&emsp;(B) in the case of information collected by U.S. Customs and Border Protection through a search of an electronic device, if such information is transmitted to another Federal agency for subject matter assistance, translation, or decryption, the Commissioner tonotify the individual subject to such search of such transmission.
 
 #### (3) Exceptions
 
@@ -412,7 +412,7 @@ The Commissioner shall require all officers and agents of U.S. Customs and Borde
 
 &emsp;&emsp;(B) make information about such wait times available to the public in real time through the U.S. Customs and Border Protection website;
 
-&emsp;&emsp;(C) submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee onFinance of the Senate, for each of the five calendar years beginning in the calendar year that begins after February 24, 2016, a report that includes compilations of all such wait times and a ranking of such United States airports by wait times; and
+&emsp;&emsp;(C) submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate, for each of the five calendar years beginning in the calendar year that begins after February 24, 2016, a report that includes compilations of all such wait times and a ranking of such United States airports by wait times; and
 
 &emsp;&emsp;(D) provide adequate staffing at the U.S. Customs and Border Protection information center to ensure timely access for travelers attempting to submit comments or speak with a representative about their entry experiences.
 
@@ -481,6 +481,14 @@ Rules and regulations.—Notwithstanding paragraph (1), nothing in this title \[
 &emsp;"(B)
 
 Other actions.—Notwithstanding paragraph (1), nothing in this Act \[see Tables for classification\] may be construed as affecting in any manner any action, determination, policy, or decision pursuant to section 411 of the Homeland Security Act of 2002 as in existence on the day before the date of the enactment of this Act, and any such action, determination, policy, or decision shall continue to have full force and effect on and after such date."
+
+#### Use of Funds To Continue Detention Services Contracts
+
+Pub. L. 116–93, div. D, title II, §215, Dec. 20, 2019, 133 Stat. 2513, provided that:
+
+"(a) None of the funds provided under the heading 'U.S. Immigration and Customs Enforcement—Operations and Support' may be used to continue any contract for the provision of detention services if the two most recent overall performance evaluations received by the contracted facility are less than 'adequate' or the equivalent median score in any subsequent performance evaluation system.
+
+"(b) Beginning not later than January 1, 2021, the performance evaluations referenced in subsection (a) shall be conducted by the U.S. Immigration and Customs Enforcement Office of Professional Responsibility."
 
 #### Ports of Entry Threat and Operational Review
 
@@ -652,7 +660,7 @@ Pub. L. 114–68, Oct. 16, 2015, 129 Stat. 555, provided that:
 
 &emsp;"(3) An estimated 250,000 to 300,000 members of the Armed Forces separate from military service every year.
 
-&emsp;"(4) Recruiting efforts and expedited hiring procedures must be enhanced to ensure that individuals separating from military service are aware of, and partake in, opportunities to fill vacant Customs and Border Protection officer positions.
+&emsp;"(4) Recruiting efforts and expedited hiring procedures must be enhanced to ensure that individualsseparating from military service are aware of, and partake in, opportunities to fill vacant Customs and Border Protection officer positions.
 
 #### "SEC. 3. EXPEDITED HIRING OF APPROPRIATE SEPARATING SERVICE MEMBERS.
 

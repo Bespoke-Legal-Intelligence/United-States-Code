@@ -98,7 +98,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 #### (5) Suspension of permitting authority
 
-&emsp;If, 5 years after December 18, 2018, the Secretary, after consulting with State and tribal fishery managers, determines that lethal removal authority is no longer necessary to protect salmonid and other fish species from sealion predation, the Secretary shall suspend the issuance of permits under this subsection.
+&emsp;If, 5 years after December 18, 2018, the Secretary, after consulting with State and tribal fishery managers, determines that lethal removal authority is no longer necessary to protect salmonid and other fish species from sea lion predation, the Secretary shall suspend the issuance of permits under this subsection.
 
 #### (6) Eligible entity defined
 
@@ -168,7 +168,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 (2) Subject to the availability of appropriations, the Secretary may, not later than 18 months after the commencement of the study under this subsection, transmit a report on the results of the study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives.
 
-(3) The study conducted under this subsection may not be used by the Secretary as a reason fordelaying or deferring a determination or consideration under subsection (c) or (d).
+(3) The study conducted under this subsection may not be used by the Secretary as a reason for delaying or deferring a determination or consideration under subsection (c) or (d).
 
 #### (h) Gulf of Maine Task Force
 

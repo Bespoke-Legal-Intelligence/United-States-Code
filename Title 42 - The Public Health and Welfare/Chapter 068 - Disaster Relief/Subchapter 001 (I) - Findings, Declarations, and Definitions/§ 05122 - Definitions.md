@@ -58,7 +58,7 @@ In general.—The term "private nonprofit facility" means private nonprofit educ
 
 &emsp;(B)
 
-Additional facilities.—In addition to the facilities described in subparagraph (A), the term "private nonprofit facility" includes any private nonprofit facility that provides essential social services to the general public (including museums, zoos, performing arts facilities, community arts centers, community centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, food banks, broadcasting facilities, houses of worship, and facilities that provide health and safety services of a governmental nature), as defined by the President. No house of worship may be excluded fromthis definition because leadership or membership in the organization operating the house of worship is limited to persons who share a religious faith or practice.
+Additional facilities.—In addition to the facilities described in subparagraph (A), the term "private nonprofit facility" includes any private nonprofit facility that provides essential social services to the general public (including museums, zoos, performing arts facilities, community arts centers, communitycenters, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, food banks, broadcasting facilities, houses of worship, and facilities that provide health and safety services of a governmental nature), as defined by the President. No house of worship may be excluded from this definition because leadership or membership in the organization operating the house of worship is limited to persons who share a religious faith or practice.
 
 (12)
 

@@ -18,7 +18,7 @@
 
 #### (B) Considerations
 
-&emsp;In conducting an assessment under subparagraph (A), the Administrator shall take into consideration regional concentrations of coverage written by the National Flood Insurance Program, peak flood zones, and relevant mitigation measures.
+&emsp;In conducting an assessment under subparagraph (A), the Administrator shall take intoconsideration regional concentrations of coverage written by the National Flood Insurance Program, peak flood zones, and relevant mitigation measures.
 
 #### (2) Annual report of the Administrator of activities under the National Flood Insurance Program
 

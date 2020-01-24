@@ -24,13 +24,13 @@ Not later than twelve months after November 8, 1984, the Administrator shall pro
 
 &emsp;(ii) such used oil is not mixed by the generator with other types of hazardous wastes; and
 
-&emsp;(iii) the generator maintains such records relating to such used oil, including records of agreements or other arrangements for delivery of such used oil to any recycling facility referred to in clause (i)(I), as the Administrator deems necessary to protect human health and the environment.
+&emsp;(iii) the generator maintains such records relating to such used oil, including records ofagreements or other arrangements for delivery of such used oil to any recycling facility referred to in clause (i)(I), as the Administrator deems necessary to protect human health and the environment.
 
 (3) The regulations under this subsection regarding the transportation of used oil which is exempt from the standards promulgated under section <sup>1</sup> 6921(d), 6922, and 6923 of this title under paragraph (1) shall require the transporters of such used oil to deliver such used oil to a facility which has a valid permit under section 6925 of this title or which is deemed to have a valid permit under subsection (d) of this section. The Administrator shall also establish other standards for such transporters as may be necessary to protect human health and the environment.
 
 #### (d) Permits
 
-(1) The owner or operator of a facility which recycles used oil which is exempt under subsection (c)(1), shall be deemed to have a permit under this subsection for all such treatment or recycling (and any associated tank or container storage) if such owner and operator comply with standards promulgated by the Administrator under section 6924 of this title; except that theAdministrator may require such owners and operators to obtain an individual permit under section 6925(c) of this title if he determines that an individual permit is necessary to protect human health and the environment.
+(1) The owner or operator of a facility which recycles used oil which is exempt under subsection (c)(1), shall be deemed to have a permit under this subsection for all such treatment or recycling (and any associated tank or container storage) if such owner and operator comply with standards promulgated by the Administrator under section 6924 of this title; except that the Administrator may require such owners and operators to obtain an individual permit under section 6925(c) of this title if he determines that an individual permit is necessary to protect human health and the environment.
 
 (2) Notwithstanding any other provision of law, any generator who recycles used oil which is exempt under subsection (c)(1) shall not be required to obtain a permit under section 6925(c) of this title with respect to such used oil until the Administrator has promulgated standards under section 6924 of this title regarding the recycling of such used oil.
 

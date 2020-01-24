@@ -4,11 +4,11 @@
 
 #### (1) Premiums for eligible beneficiaries
 
-&emsp;There is hereby imposed a penalty on the failure of any assigned operator to pay any premium required to be paid under section 9704 with respect to any eligible beneficiary.
+&emsp;There is hereby imposed a penalty on the failure of any assigned operator to pay anypremium required to be paid under section 9704 with respect to any eligible beneficiary.
 
 #### (2) Contributions required under the mining laws
 
-&emsp;There is hereby imposed a penalty on the failure of any person to make a contribution required under section 402(h)(5)(B)(ii) of the Surface Mining Control and Reclamation Act of 1977 to a plan referred to in section 402(h)(2)(C) of such Act. For purposes of applying this section, each such required monthly contribution for the hours worked of any individual shall be treated as if it were a premiumrequired to be paid under section 9704 with respect to an eligible beneficiary.
+&emsp;There is hereby imposed a penalty on the failure of any person to make a contribution required under section 402(h)(5)(B)(ii) of the Surface Mining Control and Reclamation Act of 1977 to a plan referred to in section 402(h)(2)(C) of such Act. For purposes of applying this section, each such required monthly contribution for the hours worked of any individual shall be treated as if it were a premium required to be paid under section 9704 with respect to an eligible beneficiary.
 
 #### (b) Amount of penalty
 

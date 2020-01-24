@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(i) carry out Department of Homeland Security responsibilities and authorities relating to the SAFECOM Program; and
 
-&emsp;&emsp;&emsp;(ii) carry out section 321 <sup>1</sup> of this title.
+&emsp;&emsp;&emsp;(ii) carry out section 510 <sup>1</sup> of the Homeland Security Act of 2002, as added by subsection (d).
 
 #### (3) Authorization of appropriations
 
@@ -174,7 +174,7 @@ In this section:
 
 #### References in Text
 
-Section 321 of this title, referred to in subsec. (a)(2)(B)(ii), was in the original a reference to section 510 of the Homeland Security Act of 2002, as added by section 7303(d) of Pub. L. 108–458, which was repealed by Pub. L. 109–295, title VI, §611(5), Oct. 4, 2006, 120 Stat. 1395.
+Section 510 of the Homeland Security Act of 2002, as added by subsection (d), referred to in subsec. (a)(2)(B)(ii), means section 510 of Pub. L. 107–296, which was added by Pub. L. 108–458, title VII, §7303(d), Dec. 17, 2004, 118 Stat. 3844, and was classified to section 321 of this title, prior to repeal by Pub. L. 109–295, title VI, §611(5), Oct. 4, 2006, 120 Stat. 1395. See Prior Provisions note set out under section 321 of this title.
 
 #### Codification
 

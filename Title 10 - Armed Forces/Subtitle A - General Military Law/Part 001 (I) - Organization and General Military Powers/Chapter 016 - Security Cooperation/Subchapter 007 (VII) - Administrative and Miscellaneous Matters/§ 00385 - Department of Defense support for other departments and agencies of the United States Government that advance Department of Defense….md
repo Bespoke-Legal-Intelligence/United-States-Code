@@ -24,7 +24,7 @@ Notice and Wait.—If a determination is made to transfer funds in connection wi
 
 &emsp;&emsp;(A) a detailed description of the purpose and estimated cost of such program or activity;
 
-&emsp;&emsp;(B) a detailed description of the security cooperation objectives of the Department, including the theater campaign plan of the combatant command concerned, that will be advanced;
+&emsp;&emsp;(B) a detailed description of the security cooperation objectives of the Department, including the theater campaign plan of thecombatant command concerned, that will be advanced;
 
 &emsp;&emsp;(C) a justification why such program or activity will advance such objectives;
 

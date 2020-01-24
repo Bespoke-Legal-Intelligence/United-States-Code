@@ -1,6 +1,6 @@
 ### §1913. Courts of appeals
 
-The fees and costs to be charged and collected in each court of appeals shall be prescribed fromtime to time by the Judicial Conference of the United States. Such fees and costs shall be reasonable and uniform in all the circuits.
+The fees and costs to be charged and collected in each court of appeals shall be prescribed from time to time by the Judicial Conference of the United States. Such fees and costs shall be reasonable and uniform in all the circuits.
 
 (June 25, 1948, ch. 646, 62 Stat. 954.)
 

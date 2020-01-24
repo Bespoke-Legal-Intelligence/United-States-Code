@@ -8,7 +8,7 @@ A prior section 4711, act Aug. 10, 1956, ch. 1041, 70A Stat. 263, related to inq
 
 A prior section 4712 was renumbered section 7712 of this title.
 
-A prior section 4713, acts Aug. 10, 1956, ch. 1041, 70A Stat. 265; Dec. 12, 1980, Pub. L. 96–513, title V,§512(21)(A), (B), 94 Stat. 2930; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1301(b)(4)(B), 99 Stat. 736; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602, related to disposition of effects of deceased persons by Soldiers' and Airmen's Home, prior to repeal by Pub. L. 101–510, div. A, title XV, §§1533(a)(7)(A), 1541, Nov. 5, 1990, 104 Stat. 1734, 1736, effective one year after Nov. 5, 1990.
+A prior section 4713, acts Aug. 10, 1956, ch. 1041, 70A Stat. 265; Dec. 12, 1980, Pub. L. 96–513, title V, §512(21)(A), (B), 94 Stat. 2930; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1301(b)(4)(B), 99 Stat. 736; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602, related to disposition of effects of deceased persons by Soldiers' and Airmen's Home, prior to repeal by Pub. L. 101–510, div. A, title XV, §§1533(a)(7)(A), 1541, Nov. 5, 1990, 104 Stat. 1734, 1736, effective one year after Nov. 5, 1990.
 
 Prior sections 4714 and 4721 to 4727 were renumbered sections 7714 and 7721 to 7727 of this title, respectively.
 

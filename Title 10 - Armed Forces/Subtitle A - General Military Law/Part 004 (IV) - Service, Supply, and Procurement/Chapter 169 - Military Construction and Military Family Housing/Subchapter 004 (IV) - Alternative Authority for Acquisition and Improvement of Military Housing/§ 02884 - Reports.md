@@ -58,7 +58,7 @@ Annual Reports to Accompany Budget Materials.—The Secretary of Defense shall i
 
 (c)
 
-Annual Report on Privatization Projects.—The Secretary of Defense shall submit to the congressional defense committees a semi-annual report containing an evaluation of the status of oversight and accountability measures under section 2885 of this title for military housing privatization projects. To the extent each Secretary concerned has the right to attain the information described in this subsection, each report shall include, at a minimum, the following:
+Annual Report on Privatization Projects.—The Secretary of Defense shall submit to the congressional defense committees a semi-annual report containing an evaluation ofthe status of oversight and accountability measures under section 2885 of this title for military housing privatization projects. To the extent each Secretary concerned has the right to attain the information described in this subsection, each report shall include, at a minimum, the following:
 
 &emsp;(1) An assessment of the backlog of maintenance and repair at each military housing privatization project where a significant backlog exists, including an estimation of the cost of eliminating the maintenance and repair backlog.
 
@@ -72,9 +72,35 @@ Annual Report on Privatization Projects.—The Secretary of Defense shall submit
 
 &emsp;(6) An assessment of cost assessed to members of the armed forces for utilities compared to utility rates in the local area.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, §2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, §2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, §2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724; Pub. L. 111–383, div. A, title X, §1075(h)(6), div. B, title XXVIII, §2803(g), Jan. 7, 2011, 124 Stat. 4377, 4459; Pub. L. 112–239, div. B, title XXVIII, §2803(b), Jan. 2, 2013, 126 Stat. 2148; Pub. L. 113–66, div. B, title XXVIII, §2806, Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. A, title X, §1071(f)(26), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. B, title XXVIII, §2801(d)(3), Dec. 12, 2017, 131 Stat. 1844.)
+&emsp;(7) An assessment of the condition of housing units based on the average age of those units and the estimated time until recapitalization.
+
+&emsp;(8) An assessment of tenant complaints.
+
+&emsp;(9) An assessment of maintenance response times and completion of maintenance requests.
+
+&emsp;(10) An assessment of the dispute resolution process, which shall include a specific analysis of each denied tenant request to withhold rent payments and each instance in which the dispute resolution process resulted in a favorable outcome for the landlord.
+
+&emsp;(11) An assessment of overall customer service for tenants.
+
+&emsp;(12) A description of the results of any no-notice housing inspections conducted.
+
+&emsp;(13) The results of any resident surveys conducted.
+
+&emsp;(14) With regard to issues of lead-based paint in housing units, a summary of data relating to the presence of lead-based paint in such housing units, including the following by military department:
+
+&emsp;&emsp;(A) The total number of housing units containing lead-based paint.
+
+&emsp;&emsp;(B) A description of the reasons for the failure to inspect any housing unit that contains lead-based paint.
+
+&emsp;&emsp;(C) A description of all abatement or mitigation efforts completed or underway in housing units containing lead-based paint.
+
+&emsp;&emsp;(D) A certification as to whether military housing under the jurisdiction of the Secretary concerned complies with requirements relating to lead-based paint, lead-based paint activities, and lead-based paint hazards, as described in section 408 of the Toxic Substances Control Act (15 U.S.C. 2688).
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, §2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, §2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, §2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724; Pub. L. 111–383, div. A, title X, §1075(h)(6), div. B, title XXVIII, §2803(g), Jan. 7, 2011, 124 Stat. 4377, 4459; Pub. L. 112–239, div. B, title XXVIII, §2803(b), Jan. 2, 2013, 126 Stat. 2148; Pub. L. 113–66, div. B, title XXVIII, §2806, Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. A, title X, §1071(f)(26), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. B, title XXVIII, §2801(d)(3), Dec. 12, 2017, 131 Stat. 1844; Pub. L. 116–92, div. B, title XXX, §3016(d), Dec. 20, 2019, 133 Stat. 1929.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c)(7) to (14). Pub. L. 116–92 added pars. (7) to (14).
 
 <b>2017</b>—Subsec. (a)(4). Pub. L. 115–91 added par. (4) and struck out former par. (4) which read as follows: "The report shall be submitted not later than 30 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title."
 

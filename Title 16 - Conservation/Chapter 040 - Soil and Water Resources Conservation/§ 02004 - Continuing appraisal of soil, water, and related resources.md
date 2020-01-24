@@ -28,7 +28,7 @@ The appraisal shall be made in cooperation with conservation districts, State an
 
 #### (d) Evaluation of appraisal
 
-In conducting the appraisal described in subsection (a), the Secretary shall concurrently solicit and evaluate recommendations for improving the appraisal, including the content, scope,process, participation in, and other elements of the appraisal, as determined by the Secretary.
+In conducting the appraisal described in subsection (a), the Secretary shall concurrently solicit and evaluate recommendations for improving the appraisal, including the content, scope, process, participation in, and other elements of the appraisal, as determined by the Secretary.
 
 #### (e) Completion dates
 

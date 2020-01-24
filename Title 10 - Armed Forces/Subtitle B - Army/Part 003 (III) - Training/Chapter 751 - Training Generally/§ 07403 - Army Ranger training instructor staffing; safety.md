@@ -10,7 +10,7 @@ Levels of Personnel Assigned.—(1) The Secretary of the Army shall ensure that 
 
 Training Safety Cells.—(1) The Secretary of the Army shall establish and maintain an organizational entity known as a "safety cell" as part of the organizational elements of the Army responsible for conducting each of the three major phases of the Ranger Course. The safety cell in each different geographic area of Ranger Course training shall be comprised of personnel who have sufficient continuity and experience in that geographic area of such training to be knowledgeable of the local conditions year-round, including conditions of terrain, weather, water, and climate and other conditions and the potential effect on those conditions on Ranger student training and safety.
 
-(2) Members of each safety cell shall be assigned in sufficient numbers to serve as advisersto the officers in charge of the major phase of Ranger training and shall assist those officers in making informed daily "go" and "no-go" decisions regarding training in light of all relevant conditions, including conditions of terrain, weather, water, and climate and other conditions.
+(2) Members of each safety cell shall be assigned in sufficient numbers to serve as advisers to the officers in charge of the major phase of Ranger training and shall assist those officers in making informed daily "go" and "no-go" decisions regarding training in light of all relevant conditions, including conditions of terrain, weather, water, and climate and other conditions.
 
 (Added Pub. L. 104–106, div. A, title V, §562(a)(1), Feb. 10, 1996, 110 Stat. 323, §4303; renumbered §7403, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
@@ -24,21 +24,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Accomplishment of Required Manning Levels; GAO Assessment
 
-Pub. L. 104–106, div. A, title V, §562(b), (c), Feb. 10, 1996, 110 Stat. 324, provided that:
-
-"(b)
-
-Accomplishment of Required Manning Levels.—(1) If, as of the date of the enactment of this Act \[Feb. 10, 1996\], the number of officers, and the number of enlisted members, permanently assigned to the Army Ranger Training Brigade are not each at (or above) the requirement specified in subsection (a) of section 4303 \[now 7403\] of title 10, United States Code, as added by subsection (a), the Secretary of the Army shall—
-
-&emsp;"(A) take such steps as necessary to accomplish that requirement within 12 months after such date of enactment; and
-
-&emsp;"(B) submit to Congress, not later than 90 days after such date of enactment, a plan to achieve and maintain that requirement.
-
-"(2) The requirement specified in subsection (a) of section 4303 \[now 7403\] of title 10, United States Code, as added by subsection (a), shall expire two years after the date (on or after the date of the enactment of this Act) on which the required manning levels referred to in paragraph (1) are first attained.
-
-"(c)
-
-GAO Assessment.—(1) Not later than one year after the date of the enactment of this Act \[Feb. 10, 1996\], the Comptroller General shall submit to Congress a report providing a preliminary assessment of the implementation and effectiveness of all corrective actions taken by the Army as a result of the February 1995 accident at the Florida Ranger Training Camp, including an evaluation of the implementation of the required manning levels established by subsection (a) of section 4303 \[now 7403\] of title 10, United States Code, as added by subsection (a).
-
-"(2) At the end of the two-year period specified in subsection (b)(2), the Comptroller General shall submit to Congress a report providing a final assessment of the matters covered in the preliminary report under paragraph (1). The report shall include the Comptroller General's recommendation as to the need to continue required statutory manning levels as specified in subsection (a) of section 4303 \[now 7403\] of title 10, United States Code, as added by subsection (a)."
+Pub. L. 104–106, div. A, title V, §562(b), (c), Feb. 10, 1996, 110 Stat. 324, provided that if on Feb. 10, 1996, the number of officers, and the number of enlisted members, permanently assigned to the Army Ranger Training Brigade were not each at (or above) the requirement specified in this section, the Secretary of the Army was to take such steps as necessary to accomplish that requirement within 12 months and submit to Congress within 90 days a plan to achieve and maintain that requirement, and the Comptroller General was to submit to Congress by one year after Feb. 10, 1996, a preliminary assessment of the implementation and effectiveness of all corrective actions taken by the Army as a result of the February 1995 accident at the Florida Ranger Training Camp, including an evaluation of the implementation of the required manning levels established by this section, with a final assessment due 2 years after the required manning levels referred to in paragraph (1) are first attained.
 

@@ -10,7 +10,7 @@ If a health care business commences a case under chapter 7, 9, or 11, and the tr
 
 &emsp;(2) If, after providing the notification under paragraph (1), patient records are not claimed during the 365-day period described under that paragraph, the trustee shall mail, by certified mail, at the end of such 365-day period a written request to each appropriate Federal agency to request permission from that agency to deposit the patient records with that agency, except that no Federal agency is required to accept patient records under this paragraph.
 
-&emsp;(3) If, following the 365-day period described in paragraph (2) and after providing the notification under paragraph (1), patient records are not claimed by a patient or insurance provider, or request is not granted by a Federalagency to deposit such records with that agency, the trustee shall destroy those records by—
+&emsp;(3) If, following the 365-day period described in paragraph (2) and after providing the notification under paragraph (1), patient records are not claimed by a patient or insurance provider, or request is not granted by a Federal agency to deposit such records with that agency, the trustee shall destroy those records by—
 
 &emsp;&emsp;(A) if the records are written, shredding or burning the records; or
 

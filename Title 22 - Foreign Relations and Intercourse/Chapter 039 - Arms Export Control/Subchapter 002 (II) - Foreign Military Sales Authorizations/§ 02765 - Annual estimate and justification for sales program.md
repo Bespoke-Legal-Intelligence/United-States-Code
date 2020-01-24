@@ -2,7 +2,7 @@
 
 #### (a) Report to Congress; contents
 
-Except as provided in subsection (d) <sup>1</sup> of this section, no later than February 1 of each year, the President shall transmit to the appropriatecongressional committees, as a part of the annual presentation materials for security assistance programs proposed for the next fiscal year, a report which sets forth—
+Except as provided in subsection (d) <sup>1</sup> of this section, no later than February 1 of each year, the President shall transmit to the appropriate congressional committees, as a part of the annual presentation materials for security assistance programs proposed for the next fiscal year, a report which sets forth—
 
 &emsp;(1) an arms sales proposal covering all sales and licensed commercial exports under this chapter, as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title, of major weapons or weapons-related defense equipment for $7,000,000 or more, or of any other weapons or weapons-related defense equipment for $25,000,000 or more, which are considered eligible for approval during the current calendar year, together with an indication of which sales and licensed commercial exports are deemed most likely actually to result in the issuance of a letter of offer or of an export license during such year;
 

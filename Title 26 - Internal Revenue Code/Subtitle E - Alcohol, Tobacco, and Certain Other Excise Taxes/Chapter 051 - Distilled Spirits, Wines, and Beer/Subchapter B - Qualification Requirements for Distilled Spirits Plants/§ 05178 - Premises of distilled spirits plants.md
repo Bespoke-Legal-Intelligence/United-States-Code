@@ -78,7 +78,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 62
 
 <b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–39, §807(a)(18), substituted "section 5171(c)" for "section 5171(a)".
 
-Subsec. (a)(2). Pub. L. 96–39, §805(b)(1), substituted in heading "operations" for "facilities" and in subpar. (A) "produce" for "provided facilities which may be usedfor the production of" and struck out in subpar. (B) "closed at all points where potable or readily recoverable spirits are present and the distilling apparatus" after "shall be continuous and".
+Subsec. (a)(2). Pub. L. 96–39, §805(b)(1), substituted in heading "operations" for "facilities" and in subpar. (A) "produce" for "provided facilities which may be used for the production of" and struck out in subpar. (B) "closed at all points where potable or readily recoverable spirits are present and the distilling apparatus" after "shall be continuous and".
 
 Subsec. (a)(3). Pub. L. 96–39, §805(b)(1), substituted in heading "Warehousing operations" for "Bonded warehousing facilities" and in subpar. (A) "the application" for "his application" and "warehouse bulk distilled spirits" for "establish warehousing facilities" and struck out subpar. (C) which related to facilities for the storage on bonded premises of distilled spirits in casks, packages, cases, or similar portable approved containers and subpar. (D), which related to the establishment of a portion of the premises established under subpar. (C) as an export storage facility for the storage of distilled spirits returned to bonded premises under section 5215(b).
 

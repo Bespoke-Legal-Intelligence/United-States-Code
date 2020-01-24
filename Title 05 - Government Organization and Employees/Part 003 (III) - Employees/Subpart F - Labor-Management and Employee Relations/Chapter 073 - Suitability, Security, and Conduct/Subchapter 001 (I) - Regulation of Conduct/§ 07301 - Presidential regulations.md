@@ -346,7 +346,7 @@ Sec. 4. <i>Drug Testing Procedures</i>. (a) Sixty days prior to the implementati
 
 (d) The Secretary of Health and Human Services is authorized to promulgate scientific and technical guidelines for drug testing programs, and agencies shall conduct their drug testing programs in accordance with these guidelines once promulgated.
 
-Sec. 5. <i>Personnel Actions</i>. (a) Agencies shall, in addition to any appropriate personnel actions, refer any employee who is found to use illegal drugs to an Employee Assistance Program for assessment, counseling,and referral for treatment or rehabilitation as appropriate.
+Sec. 5. <i>Personnel Actions</i>. (a) Agencies shall, in addition to any appropriate personnel actions, refer any employee who is found to use illegal drugs to an Employee Assistance Program for assessment, counseling, and referral for treatment or rehabilitation as appropriate.
 
 (b) Agencies shall initiate action to discipline any employee who is found to use illegal drugs, <i>provided that</i> such action is not required for an employee who:
 
@@ -396,7 +396,7 @@ Sec. 7. <i>Definitions</i>.(a) This Order applies to all agencies of the Executi
 
 (d) For purposes of this Order, the term "employee in a sensitive position" refers to:
 
-(1) An employee in a position that an agency head designates Special Sensitive, Critical-Sensitive, or Noncritical-Sensitive under Chapter 731 of the Federal Personnel Manual or an employee in a position that an agency head designates as sensitive in accordance with Executive Order No. 10450, as amended \[5 U.S.C. 7311 note\];
+(1) An employee in a position that an agency head designates Special Sensitive, Critical-Sensitive, orNoncritical-Sensitive under Chapter 731 of the Federal Personnel Manual or an employee in a position that an agency head designates as sensitive in accordance with Executive Order No. 10450, as amended \[5 U.S.C. 7311 note\];
 
 (2) An employee who has been granted access to classified information or may be granted access to classified information pursuant to a determination of trustworthiness by an agency head under Section 4 of \[former\] Executive Order No. 12356;
 
@@ -470,7 +470,7 @@ Sec. 201. <i>The Office of Government Ethics</i>. The Office of Government Ethic
 
 (c) Promulgating, with the concurrence of the Attorney General, regulations interpreting the provisions of the post-employment statute, section 207 of title 18, United States Code; the general conflict-of-interest statute, section 208 of title 18, United States Code; and the statute prohibiting supplementation of salaries, section 209 of title 18, United States Code.
 
-(d) Promulgating, in consultation with the Attorney General and the Office of Personnel Management, regulations establishing a system of nonpublic (confidential) financial disclosure by executive branch employees to complement the system of public disclosure under the Ethics in Government Act of 1978 \[Pub. L. 95–521, see Tables for classification\]. Such regulations shall include criteria to guide agencies in determining which employees shall submit these reports.
+(d) Promulgating, in consultation with the Attorney General and the Office of Personnel Management, regulations establishing a system of nonpublic (confidential) financial disclosure by executive branch employees to complement the system of public disclosure under the Ethics in Government Act of 1978 \[Pub. L.95–521, see Tables for classification\]. Such regulations shall include criteria to guide agencies in determining which employees shall submit these reports.
 
 (e) Ensuring that any implementing regulations issued by agencies under this order are consistent with and promulgated in accordance with this order.
 
@@ -542,7 +542,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. It is the policy of the executive branch to establish a smoke-free environment for Federal employees and members of the public visiting or using Federal facilities. The smoking of tobacco products is thus prohibited in all interior space owned, rented, or leased by the executive branch of the Federal Government, and in any outdoor areas under executive branch control in front of air intake ducts.
 
-Sec. 2. <i>Exceptions</i>. The general policy established by this order is subject to the following exceptions: (a) The order does not apply in designated smoking areas that are enclosed and exhausted directly to the outside and away from air intake ducts, and are maintained under negative pressure (with respect to surrounding spaces) sufficient to contain tobacco smoke within the designated area. Agency officials shall not require workers to enter such areas during business hours while smoking is ongoing.
+Sec. 2. <i>Exceptions</i>. The general policy established by this order is subject to the following exceptions: (a)The order does not apply in designated smoking areas that are enclosed and exhausted directly to the outside and away from air intake ducts, and are maintained under negative pressure (with respect to surrounding spaces) sufficient to contain tobacco smoke within the designated area. Agency officials shall not require workers to enter such areas during business hours while smoking is ongoing.
 
 (b) The order does not extend to any residential accommodation for persons voluntarily or involuntarily residing, on a temporary or long-term basis, in a building owned, leased, or rented by the Federal Government.
 
@@ -558,7 +558,7 @@ Sec. 4. <i>Smoking Cessation Programs</i>. The heads of agencies are encouraged 
 
 Sec. 5. <i>Responsibility for Implementation</i>. The heads of agencies are responsible for implementing and ensuring compliance with the provisions of this order. "Agency" as used in this order means an Executive agency, as defined in 5 U.S.C. 105, and includes any employing unit or authority of the Federal Government, other than those of the legislative and judicial branches. Independent agencies are encouraged to comply with the provisions of this order.
 
-Sec. 6. <i>Phase-In of Implementation</i>. Implementation of the policy set forth in this order shall be achieved nolater than 1 year after the date of this order. This 1 year phase-in period is designed to establish a fixed but reasonable time for implementing this policy. Agency heads are directed during this period to inform all employees and visitors to executive branch facilities about the requirements of this order, inform their employees of the health risks of exposure to environmental tobacco smoke, and undertake related activities as necessary.
+Sec. 6. <i>Phase-In of Implementation</i>. Implementation of the policy set forth in this order shall be achieved no later than 1 year after the date of this order. This 1 year phase-in period is designed to establish a fixed but reasonable time for implementing this policy. Agency heads are directed during this period to inform all employees and visitors to executive branch facilities about the requirements of this order, inform their employees of the health risks of exposure to environmental tobacco smoke, and undertake related activities as necessary.
 
 Sec. 7. <i>Consistency with Other Laws</i>. The provisions of this order shall be implemented consistent with applicable law, including the Federal Service Labor-Management Relations Act (5 U.S.C. 7101 <i>et seq</i>.) and the National Labor Relations Act (29 U.S.C. 151 <i>et seq</i>.)\[.\] Provisions of existing collective bargaining agreements shall be honored and agencies shall consult with employee labor representatives about the implementation of this order. Nothing herein shall be construed to impair or alter the powers and duties of Federal agencies established under law. Nothing herein shall be construed to replace any agency policy currently in effect, if such policy is legally established, in writing, and consistent with the terms of this order. Agencies shall review their current policy to confirm that agency policy comports with this order, and policy found not in compliance shall be revised to comply with the terms of this order.
 
@@ -816,7 +816,7 @@ Sec. 5. <i>Enforcement</i>. (a) The contractual, fiduciary, and ethical commitme
 
 (1) upon receiving information regarding the possible breach of any commitment in a signed pledge, to request any appropriate Federal investigative authority to conduct such investigations as may be appropriate; and
 
-(2) upon determining that there is a reasonable basis to believe that a breach of a commitment has occurred or will occur or continue, if not enjoined, to commence a civil action on behalf of the United States against the former officer or employee in any United States District Court with jurisdiction to consider the matter.
+(2) upon determining that there is a reasonable basis to believe that a breach of a commitment has occurredor will occur or continue, if not enjoined, to commence a civil action on behalf of the United States against the former officer or employee in any United States District Court with jurisdiction to consider the matter.
 
 (d) In such civil action, the Attorney General or his or her designee is authorized to request any and all relief authorized by law, including but not limited to:
 

@@ -16,7 +16,7 @@ The Secretary is authorized and required to make the inquiries, determinations, 
 
 #### (B) Check or money order not duly paid
 
-&emsp;&emsp;In any case in which a check or money order received under authority of section 6311 as payment for stamps is not duly paid,the unpaid amount may be immediately assessed as if it were a tax imposed by this title, due at the time of such receipt, from the person who tendered such check or money order.
+&emsp;&emsp;In any case in which a check or money order received under authority of section 6311 as payment for stamps is not duly paid, the unpaid amount may be immediately assessed as if it were a tax imposed by this title, due at the time of such receipt, from the person who tendered such check or money order.
 
 #### (3) Erroneous income tax prepayment credits
 
@@ -58,7 +58,7 @@ In any court proceeding, if a taxpayer asserts a reasonable dispute with respect
 
 &emsp;&emsp;<b>For special rules applicable to deficiencies of income, estate, gift, and certain excise taxes, see subchapter B.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 767; Pub. L. 89–44, title VIII, §809(d)(4)(A), June 21, 1965, 79 Stat. 168; Pub. L. 91–53, §2(b), Aug. 7, 1969, 83 Stat. 92; Pub. L. 91–172, title I, §101(j)(38), Dec. 30, 1969, 83 Stat. 530; Pub. L. 91–258, title II, §207(d)(1), (2), May 21, 1970, 84 Stat. 248; Pub. L. 93–406, title II, §1016(a)(8), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–12, title II, §204(b)(2), Mar. 29, 1975, 89 Stat. 31; Pub. L. 94–455, title XII, §1206(c)(2), title XIII, §1307(d)(2)(D), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1704, 1727, 1834; Pub. L. 97–424, title V, §515(b)(6)(E), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–76, title II, §231(b)(2)(A), Aug. 12, 1983, 97 Stat. 429; Pub. L. 98–369, div. A, title IV, §§412(b)(5), 474(r)(32), July 18, 1984, 98 Stat. 792, 845; Pub. L. 100–203, title X, §10301(b)(3), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1015(r)(1), title VII, §7106(c)(2), Nov. 10, 1988, 102 Stat. 3572, 3773; Pub. L. 104–168, title VI, §602(a), July 30, 1996, 110 Stat. 1463; Pub. L. 111–237, §3(a), Aug. 16, 2010, 124 Stat. 2497; Pub. L. 115–141, div. U, title II, §203(b), Mar. 23, 2018, 132 Stat. 1176.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 767; Pub. L. 89–44, title VIII, §809(d)(4)(A), June 21, 1965, 79 Stat. 168; Pub. L. 91–53, §2(b), Aug. 7, 1969, 83 Stat. 92; Pub. L. 91–172, title I, §101(j)(38), Dec. 30, 1969, 83 Stat. 530; Pub. L. 91–258, title II, §207(d)(1), (2), May 21, 1970, 84 Stat. 248; Pub. L. 93–406, title II, §1016(a)(8), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–12, title II, §204(b)(2), Mar. 29, 1975, 89 Stat. 31; Pub. L. 94–455, title XII, §1206(c)(2), title XIII, §1307(d)(2)(D), title XIX, §1906(b)(13)(A), Oct. 4,1976, 90 Stat. 1704, 1727, 1834; Pub. L. 97–424, title V, §515(b)(6)(E), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–76, title II, §231(b)(2)(A), Aug. 12, 1983, 97 Stat. 429; Pub. L. 98–369, div. A, title IV, §§412(b)(5), 474(r)(32), July 18, 1984, 98 Stat. 792, 845; Pub. L. 100–203, title X, §10301(b)(3), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1015(r)(1), title VII, §7106(c)(2), Nov. 10, 1988, 102 Stat. 3572, 3773; Pub. L. 104–168, title VI, §602(a), July 30, 1996, 110 Stat. 1463; Pub. L. 111–237, §3(a), Aug. 16, 2010, 124 Stat. 2497; Pub. L. 115–141, div. U, title II, §203(b), Mar. 23, 2018, 132 Stat. 1176.)
 
 #### Amendments
 
@@ -142,7 +142,7 @@ Amendment by section 1307(d)(2)(D) of Pub. L. 94–455 effective on and after Oc
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–12 applicable to taxable years beginning after Dec. 31, 1974, see section 209(b) of Pub. L. 94–12, as amended, set out as a note under section 32 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years beginning after Dec. 31, 1974, see section 209(b) ofPub. L. 94–12, as amended, set out as a note under section 32 of this title.
 
 #### Effective Date of 1974 Amendment
 

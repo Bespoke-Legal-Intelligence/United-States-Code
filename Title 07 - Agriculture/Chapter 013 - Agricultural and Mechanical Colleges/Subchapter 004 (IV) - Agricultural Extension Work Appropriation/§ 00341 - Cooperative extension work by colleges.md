@@ -26,7 +26,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Short Title
 
-Act May 8, 1914, ch. 79, §11, as added by Pub. L. 105–185, §3(a), June 23, 1998, 112 Stat. 525, provided that: "This Act \[enacting this subchapter\] may be cited as the 'Smith-Lever Act'."
+Act May 8, 1914, ch. 79, §11, as added by Pub. L. 105–185, §3(a), June 23, 1998, 112 Stat. 525, provided that:"This Act \[enacting this subchapter\] may be cited as the 'Smith-Lever Act'."
 
 Act May 8, 1914, as amended, is also popularly known as the "Agricultural Extension Work Act".
 

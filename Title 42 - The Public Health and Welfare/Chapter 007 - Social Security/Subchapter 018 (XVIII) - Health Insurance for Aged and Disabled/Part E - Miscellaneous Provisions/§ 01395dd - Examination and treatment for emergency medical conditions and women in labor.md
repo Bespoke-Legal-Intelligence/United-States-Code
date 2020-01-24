@@ -36,7 +36,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 &emsp;&emsp;(B) the transfer is an appropriate transfer (within the meaning of paragraph (2)) to that facility.
 
-> &emsp;A certification described in clause (ii) or (iii) of subparagraph (A) shall include a summaryof the risks and benefits upon which the certification is based.
+> &emsp;A certification described in clause (ii) or (iii) of subparagraph (A) shall include a summary of the risks and benefits upon which the certification is based.
 
 #### (2) Appropriate transfer
 
@@ -88,7 +88,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 #### (3) Consultation with quality improvement organizations
 
-&emsp;In considering allegations of violations of the requirements of this section in imposing sanctions under paragraph (1) or in terminating a hospital's participation under this subchapter, the Secretary shall request the appropriate quality improvement organization\(with a contract under part B of subchapter XI) to assess whether the individual involved had an emergency medical condition which had not been stabilized, and provide a report on its findings. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall request such a review before effecting a sanction under paragraph (1) and shall provide a period of at least 60 days for such review. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall also request such a review before making a compliance determination as part of the process of terminating a hospital's participation under this subchapter for violations related to the appropriateness of a medical screening examination, stabilizing treatment, or an appropriate transfer as required by this section, and shall provide a period of 5 days for such review. The Secretary shall provide a copy of the organization's report to the hospital or physician consistent with confidentiality requirements imposed on the organization under such part B.
+&emsp;In considering allegations of violations of the requirements of this section in imposing sanctions under paragraph (1) or in terminating a hospital's participation under this subchapter, the Secretary shall request the appropriate quality improvement organization (with a contract under part B of subchapter XI) to assess whether the individual involved had an emergency medical condition which had not been stabilized, and provide a report on its findings. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall request such a review before effecting a sanction under paragraph (1) and shall provide a period of at least 60 days for such review. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall also request such a review before making a compliance determination as part of the process of terminating a hospital's participation under this subchapter for violations related to the appropriateness of a medical screening examination, stabilizing treatment, or an appropriate transfer as required by this section, and shall provide a period of 5 days for such review. The Secretary shall provide a copy of the organization's report to the hospital or physician consistent with confidentiality requirements imposed on the organization under such part B.
 
 #### (4) Notice upon closing an investigation
 
@@ -140,7 +140,7 @@ A participating hospital may not delay provision of an appropriate medical scree
 
 A participating hospital may not penalize or take adverse action against a qualified medical person described in subsection (c)(1)(A)(iii) or a physician because the person or physician refuses to authorize the transfer of an individual with an emergency medical condition that has not been stabilized or against any hospital employee because the employee reports a violation of a requirement of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1867, as added Pub. L. 99–272, title IX, §9121(b), Apr. 7, 1986, 100 Stat. 164; amended Pub. L. 99–509, title IX, §9307(c)(4), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 99–514, title XVIII, §1895(b)(4), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4009(a)(1), formerly §4009(a)(1), (2), Dec. 22, 1987, 101 Stat. 1330–56, 1330–57; Pub. L. 100–360, title IV, §411(b)(8)(A)(i), July 1, 1988, 102 Stat. 772; Pub. L. 100–485, title VI, §608(d)(18)(E), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xiv), 6211(a)–(h), Dec. 19, 1989, 103 Stat. 2154, 2245–2248; Pub. L. 101–508, title IV, §§4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3),formerly 4027(a)(1)(A), (2), (3), (k)(3), Nov. 5, 1990, 104 Stat. 1388–44, 1388–117, 1388–124, renumbered and amended Pub. L. 103–432, title I, §160(d)(4), (5)(A), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(14), title IX, §944(b), (c)(1), Dec. 8, 2003, 117 Stat. 2355, 2423; Pub. L. 112–40, title II, §261(a)(3)(A), (E), Oct. 21, 2011, 125 Stat. 423.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1867, as added Pub. L. 99–272, title IX, §9121(b), Apr. 7, 1986, 100 Stat. 164; amended Pub. L. 99–509, title IX, §9307(c)(4), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 99–514, title XVIII, §1895(b)(4), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4009(a)(1), formerly §4009(a)(1), (2), Dec. 22, 1987, 101 Stat. 1330–56, 1330–57; Pub. L. 100–360, title IV, §411(b)(8)(A)(i), July 1, 1988, 102 Stat. 772; Pub. L. 100–485, title VI, §608(d)(18)(E), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xiv), 6211(a)–(h), Dec. 19, 1989, 103 Stat. 2154, 2245–2248; Pub. L. 101–508, title IV, §§4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3), formerly 4027(a)(1)(A), (2), (3), (k)(3), Nov. 5, 1990, 104 Stat. 1388–44, 1388–117, 1388–124, renumbered and amended Pub. L. 103–432, title I, §160(d)(4), (5)(A), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(14), title IX, §944(b), (c)(1), Dec. 8, 2003, 117 Stat. 2355, 2423; Pub. L. 112–40, title II, §261(a)(3)(A), (E), Oct. 21, 2011, 125 Stat. 423.)
 
 #### Prior Provisions
 
@@ -282,7 +282,7 @@ Amendment by Pub. L. 105–33 applicable to services furnished on or after Oct. 
 
 Amendment by section 4008(b)(1)–(3)(A) of Pub. L. 101–508 applicable to actions occurring on or after the first day of the sixth month beginning after Nov. 5, 1990, see section 4008(b)(4) of Pub. L. 101–508, set out as a note under section 1395cc of this title.
 
-Amendment by section 4207(a)(1)(A) of Pub. L. 101–508 effective on the first day of the first month beginningmore than 60 days after Nov. 5, 1990, see section 4207(a)(1)(C) of Pub. L. 101–508, as amended, set out as a note under section 1320c–3 of this title.
+Amendment by section 4207(a)(1)(A) of Pub. L. 101–508 effective on the first day of the first month beginning more than 60 days after Nov. 5, 1990, see section 4207(a)(1)(C) of Pub. L. 101–508, as amended, set out as a note under section 1320c–3 of this title.
 
 Pub. L. 101–508, title IV, §4207(a)(4), formerly §4027(a)(4), Nov. 5, 1990, 104 Stat. 1388–118, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (5)(B), Oct. 31, 1994, 108 Stat. 4444, provided that: "The amendments made by paragraphs (2) and (3) \[amending this section\] shall apply to actions occurring on or after the first day of the sixth month beginning after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
@@ -302,7 +302,7 @@ Pub. L. 100–203, title IV, §4009(a)(2), formerly §4009(a)(3), Dec. 22, 1987,
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514,set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 #### Effective Date
 

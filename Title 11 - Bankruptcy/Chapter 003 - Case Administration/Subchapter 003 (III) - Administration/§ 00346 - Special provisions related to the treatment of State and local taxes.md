@@ -6,7 +6,7 @@
 
 (c) With respect to a partnership or any entity treated as a partnership under a State or local law imposing a tax on or measured by income that is a debtor in a case under this title, any gain or loss resulting from a distribution of property from such partnership, or any distributive share of any income, gain, loss, deduction, or credit of a partner or member that is distributed, or considered distributed, from such partnership, after the commencement of the case, is gain, loss, income, deduction, or credit, as the case may be, of the partner or member, and if such partner or member is a debtor in a case under this title, shall be subject to tax in accordance with subsection (a) or (b).
 
-(d) For purposes of any State or local law imposing a tax on or measured by income, the taxable period of a debtor in a case under this title shall terminate only if and to the extent that the taxable period of such debtor terminates under the Internal Revenue Code of 1986.
+(d) For purposes of any State or local law imposing a tax on or measured by income, the taxable period of a debtor in a case under this title shall terminate only if and to the extent thatthe taxable period of such debtor terminates under the Internal Revenue Code of 1986.
 
 (e) The estate in any case described in subsection (a) shall use the same accounting method as the debtor used immediately before the commencement of the case, if such method of accounting complies with applicable nonbankruptcy tax law.
 
@@ -46,7 +46,7 @@ Special tax provisions: State and local rules. This section provides special tax
 
 Withholding rules: Both the House bill and Senate amendment provide that the trustee is required to comply with the normal withholding rules applicable to the payment of wages and other payments. The House amendment retains this rule for State and local taxes only. The treatment of withholding of Federal taxes will be considered in the next Congress.
 
-Section 726 of the Senate amendment provides that the rule requiring pro rata payment of all expenses within a priority category does not apply to the payment of amounts withheld by a bankruptcy trustee. The purpose of this rule was to insure that the trustee pay the full amount of the withheld taxes to the appropriate governmental tax authority. The House amendment deletes this rule as unnecessary because the existing practice conforms essentially to that rule. If the trustee fails to pay over in full amounts that he withheld, it is a violation of his trustee's duties which would permit the taxing authority to sue the trustee on his bond.
+Section 726 of the Senate amendment provides that the rule requiring pro rata payment of all expenses within a priority category does not apply to the payment of amounts withheld by a bankruptcy trustee. The purpose of this rule was to insure that the trustee pay the full amount of the withheld taxes to the appropriate governmental tax authority. The House amendment deletes this rule as unnecessary because the existing practice conforms essentially to that rule. If the trustee fails to pay over in full amounts that he withheld, it is a violation of his trustee's duties whichwould permit the taxing authority to sue the trustee on his bond.
 
 When taxes considered "incurred": The Senate amendment contained rules of general application dealing with when a tax is "incurred" for purposes of the various tax collection rules affecting the debtor and the estate. The House amendment adopts the substance of these rules and transfers them to section 507 of title 11.
 
@@ -76,7 +76,7 @@ Subsection (g)(1)(A) indicates that neither gain nor loss is recognized on the t
 
 Subsection (g)(2) provides that any of the three kinds of transferees specified in paragraph (1) take the property with the same character, holding period, and basis in the hands of the transferor at the time of such transfer. The transferor's basis may be adjusted under section 346(j)(5) even if the discharge of indebtedness occurs after the transfer of property. Of course, no adjustment will occur if the transfer is from the debtor to the estate or if the transfer is from an entity that is not discharged.
 
-Subsection (h) provides that the creation of the estate of an individual under chapter 7 or 11 of title 11 asa separate taxable entity does not affect the number of taxable years for purposes of computing loss carryovers or carrybacks. The section applies with respect to carryovers or carrybacks of the debtor transferred into the estate under section 346(i)(1) of title 11 or back to the debtor under section 346(i)(2) of title 11.
+Subsection (h) provides that the creation of the estate of an individual under chapter 7 or 11 of title 11 as a separate taxable entity does not affect the number of taxable years for purposes of computing loss carryovers or carrybacks. The section applies with respect to carryovers or carrybacks of the debtor transferred into the estate under section 346(i)(1) of title 11 or back to the debtor under section 346(i)(2) of title 11.
 
 Subsection (i)(1) states a general rule that an estate that is a separate taxable entity nevertheless succeeds to all tax attributes of the debtor. The six enumerated attributes are illustrative and not exhaustive.
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

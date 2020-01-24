@@ -40,7 +40,7 @@ Pub. L. 89–92, §1, July 27, 1965, 79 Stat. 282, provided: "This Act \[enactin
 
 #### Separability
 
-Pub. L. 89–92, §13, formerly §12, as added by Pub. L. 91–222, §2, Apr. 1, 1970, 84 Stat. 90, and renumbered Pub. L. 98–474, §5(a), Oct. 12, 1984, 98 Stat. 2203, provided that: "If any provision of this Act \[this chapter\] or the application thereof to any person or circumstances is heldinvalid, the other provisions of this Act \[this chapter\] and the application of such provisions to other persons or circumstances shall not be affected thereby."
+Pub. L. 89–92, §13, formerly §12, as added by Pub. L. 91–222, §2, Apr. 1, 1970, 84 Stat. 90, and renumbered Pub. L. 98–474, §5(a), Oct. 12, 1984, 98 Stat. 2203, provided that: "If any provision of this Act \[this chapter\] or the application thereof to any person or circumstances is held invalid, the other provisions of this Act \[this chapter\] and the application of such provisions to other persons or circumstances shall not be affected thereby."
 
 #### Congressional Statement of Purpose
 

@@ -32,7 +32,7 @@ Except as provided in this section, a risk retention group is exempt from any St
 
 &emsp;&emsp;(I) provide the following notice, in 10-point type, in any insurance policy issued by such group:
 
-"notice
+&nbsp;&nbsp;&nbsp;"notice
 
 "This policy is issued by your risk retention group. Your risk retention group may not be subject to all of the insurance laws and regulations of your State. State insurance insolvency guaranty funds are not available for your risk retention group."
 
@@ -142,5 +142,5 @@ Subsecs. (d) to (h). Pub. L. 99–563, §§5(b)(2), 7, 8(a), added subsecs. (d) 
 
 #### Special Rule Regarding Feasibility Study
 
-The provisions of subsec. (d) of this section, relating to the submission of a feasibility study, not applicable with respect to any line or classification of liability insurance which was defined in this chapter before Oct. 27, 1986, and was offered before such date by any risk retention group chartered and operating for not less than 3 years before such date, see section 11(b) of Pub. L. 99–563, set out as an Effective Date of 1986 Amendment; Applicability note under section 3901 of this title.
+The provisions of subsec. (d) of this section, relating to the submission of a feasibility study, not applicablewith respect to any line or classification of liability insurance which was defined in this chapter before Oct. 27, 1986, and was offered before such date by any risk retention group chartered and operating for not less than 3 years before such date, see section 11(b) of Pub. L. 99–563, set out as an Effective Date of 1986 Amendment; Applicability note under section 3901 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The President is authorized to transfer excess defense articles under this section to countriesfor which receipt of such articles was justified pursuant to the annual congressional presentation documents for military assistance programs, or for programs under part VIII of subchapter I of this chapter, submitted under section 2394 of this title, or for which receipt of such articles was separately justified to the Congress, for the fiscal year in which the transfer is authorized.
+The President is authorized to transfer excess defense articles under this section to countries for which receipt of such articles was justified pursuant to the annual congressional presentation documents for military assistance programs, or for programs under part VIII of subchapter I of this chapter, submitted under section 2394 of this title, or for which receipt of such articles was separately justified to the Congress, for the fiscal year in which the transfer is authorized.
 
 #### (b) Limitations on transfers
 
@@ -40,7 +40,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), funds available to the Department of Defense may not be expended for crating, packing, handling, and transportation of excess defense articles transferred under the authority of this section.
+&emsp;Except as provided in paragraph (2), funds available to the Department of Defense maynot be expended for crating, packing, handling, and transportation of excess defense articles transferred under the authority of this section.
 
 #### (2) Exception
 
@@ -68,7 +68,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 &emsp;&emsp;(B) an assessment of the impact of the transfer on the military readiness of the United States;
 
-&emsp;&emsp;(C) an assessment of the impact of the transfer on the national technology and industrial base and, particularly, the impact on opportunities of entities in the national technology and industrial base to sell new orused equipment to the countries to which such articles are to be transferred; and
+&emsp;&emsp;(C) an assessment of the impact of the transfer on the national technology and industrial base and, particularly, the impact on opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are to be transferred; and
 
 &emsp;&emsp;(D) a statement describing the current value of such article and the value of such article at acquisition.
 

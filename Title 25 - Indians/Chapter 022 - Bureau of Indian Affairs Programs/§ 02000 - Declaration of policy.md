@@ -118,5 +118,5 @@ Assistance.—The Secretary is authorized to enter into agreements with other or
 
 "(g)
 
-Report.—Not later than July 31 of each year, the Secretary of the Interior shall submit a report to the Committee on Indian Affairs of the Senate and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives on the progress of the Department of the Interior in the development of the demonstration schools."
+Report.—Not later than July 31 of each year, the Secretary of the Interior shall submit a report to the Committee on Indian Affairs of the Senate and the Committee on Education and Labor of the House of Representatives on the progress of the Department of the Interior in the development of the demonstration schools."
 

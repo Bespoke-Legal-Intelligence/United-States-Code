@@ -94,7 +94,7 @@ In carrying out subsection (b), the Director of NIH shall—
 
 #### (e) Research on pediatric rare diseases or conditions
 
-In making awards under subsection (d)(2) for pediatric research consortia, the Director of NIH shall ensure that an appropriate number of such awards are awarded to such consortia that agree to—
+In making awards under subsection (d)(2) for pediatric research consortia, the Director of NIHshall ensure that an appropriate number of such awards are awarded to such consortia that agree to—
 
 &emsp;(1) consider pediatric rare diseases or conditions, or those related to birth defects; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Prohibitions affecting unregistered securities not issued under indenture
 
-In the case of any security which is not registered under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and to which this subsection is applicable notwithstanding the provisions of section 77ddd of this title, unless such security has been or is to be issued under an indenture and an application for qualification is effective as to such indenture, it shall be unlawful for any person, directly or indirectly—
+In the case of any security which is not registered under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and to which this subsection is applicable notwithstanding the provisions of section 77ddd of this title, unless such security has been or is to be issued under an indenture and an application for qualification is effectiveas to such indenture, it shall be unlawful for any person, directly or indirectly—
 
 &emsp;(1) to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to sell such security through the use or medium of any prospectus or otherwise; or
 
@@ -10,7 +10,7 @@ In the case of any security which is not registered under the Securities Act of 
 
 #### (b) Prohibitions affecting unregistered securities issued under indenture
 
-In the case of any security which is not registered under the Securities Act of 1933 \[15U.S.C. 77a et seq.\], but which has been or is to be issued under an indenture as to which an application for qualification is effective, it shall be unlawful for any person, directly or indirectly—
+In the case of any security which is not registered under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], but which has been or is to be issued under an indenture as to which an application for qualification is effective, it shall be unlawful for any person, directly or indirectly—
 
 &emsp;(1) to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to carry or transmit any prospectus relating to any such security, unless such prospectus, to the extent the Commission may prescribe by rules and regulations as necessary and appropriate in the public interest or for the protection of investors, includes or is accompanied by a written statement that contains the information specified in subsection (c) of section 77eee of this title; or
 

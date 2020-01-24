@@ -2,7 +2,7 @@
 
 The purposes of the corporation are—
 
-&emsp;(1) to promote the qualities of truth, loyalty, helpfulness, friendliness, courtesy, purity,kindness, obedience, cheerfulness, thriftiness, and kindred virtues among girls, as a preparation for their responsibilities in the home and for service to the community;
+&emsp;(1) to promote the qualities of truth, loyalty, helpfulness, friendliness, courtesy, purity, kindness, obedience, cheerfulness, thriftiness, and kindred virtues among girls, as a preparation for their responsibilities in the home and for service to the community;
 
 &emsp;(2) to direct and coordinate the Girl Scout movement in the United States and territories and possessions of the United States; and
 

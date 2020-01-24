@@ -10,7 +10,7 @@ Purpose.—The purpose of this section is to—
 
 (b)
 
-Account Structure.—Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary of Transportation, in consultationwith Amtrak, shall define an account structure and improvements to accounting methodologies, as necessary, to support, at a minimum, the Northeast Corridor and the National Network.
+Account Structure.—Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary of Transportation, in consultation with Amtrak, shall define an account structure and improvements to accounting methodologies, as necessary, to support, at a minimum, the Northeast Corridor and the National Network.
 
 (c)
 
@@ -98,7 +98,7 @@ In general.—If Amtrak determines that a transfer between the accounts defined 
 
 &emsp;(2)
 
-Report.—Not later than 5 days after the Amtrak Board of Directors receives notification from Amtrak under paragraph (1)(A), the Board shall transmit to the Secretary, the Committee on Transportation and Infrastructure and the Committee on Appropriations ofthe House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate, a report that includes—
+Report.—Not later than 5 days after the Amtrak Board of Directors receives notification from Amtrak under paragraph (1)(A), the Board shall transmit to the Secretary, the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate, a report that includes—
 
 &emsp;&emsp;(A) the amount of the transfer; and
 

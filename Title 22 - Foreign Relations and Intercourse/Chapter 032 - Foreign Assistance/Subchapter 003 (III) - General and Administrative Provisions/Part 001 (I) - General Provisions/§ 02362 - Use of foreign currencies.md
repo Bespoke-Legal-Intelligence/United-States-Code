@@ -2,7 +2,7 @@
 
 #### (a) Currencies received in payment for nonmilitary assistance; foreign obligations
 
-Except as otherwise provided in this chapter or other Acts, foreign currencies received either\(1) as a result of the furnishing of nonmilitary assistance under the Mutual Security Act of 1954, as amended, or any Act repealed thereby, and unobligated on September 3, 1961, or (2) on or after September 4, 1961, as a result of the furnishing of nonmilitary assistance under the Mutual Security Act of 1954, as amended, or any Act repealed thereby, or (3) as a result of the furnishing of assistance under subchapter I of this chapter, which are in excess of amounts reserved under authority of section 2455(d) of this title or any other Act relating to educational and cultural exchanges, may be sold by the Secretary of the Treasury to agencies of the United States Government for payment of their obligations outside the United States, and the United States dollars received as reimbursement shall be deposited into miscellaneous receipts of the Treasury. Foreign currencies so received which are in excess of the amounts so reserved and of the requirements of the United States Government in payment of its obligations outside the United States, as such requirements may be determined from time to time by the President, shall be available for the authorized purposes of subchapter I of this chapter in such amounts as may be specified from time to time in appropriation Acts.
+Except as otherwise provided in this chapter or other Acts, foreign currencies received either (1) as a result of the furnishing of nonmilitary assistance under the Mutual Security Act of 1954, as amended, or any Act repealed thereby, and unobligated on September 3, 1961, or (2) on or after September 4, 1961, as a result of the furnishing of nonmilitary assistance under the Mutual Security Act of 1954, as amended, or any Act repealed thereby, or (3) as a result of the furnishing of assistance under subchapter I of this chapter, which are in excess of amounts reserved under authority of section 2455(d) of this title or any other Act relating to educational and cultural exchanges, may be sold by the Secretary of the Treasury to agencies of the United States Government for payment of their obligations outside the United States, and the United States dollars received as reimbursement shall be deposited into miscellaneous receipts of the Treasury. Foreign currencies so received which are in excess of the amounts so reserved and of the requirements of the United States Government in payment of its obligations outside the United States, as such requirements may be determined from time to time by the President, shall be available for the authorized purposes of subchapter I of this chapter in such amounts as may be specified from time to time in appropriation Acts.
 
 #### (b) United States operations abroad; excess foreign currencies
 
@@ -26,7 +26,7 @@ In furnishing assistance under this chapter to the government of any country in 
 
 This chapter, referred to in subsecs. (a), (b), and (d), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Mutual Security Act of 1954, referred to in subsec. (a), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101 to 103, ch. II, §§201 to 205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201 to 205(a) to (i), (k) to (n), ch. III, §301, ch. IV, §401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, §228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796,1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
+The Mutual Security Act of 1954, referred to in subsec. (a), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101 to 103, ch. II, §§201 to 205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201 to 205(a) to (i), (k) to (n), ch. III, §301, ch. IV, §401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, §228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
 
 The Food for Peace Act, as amended, referred to in subsec. (d), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
@@ -60,7 +60,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Separate Accounts for Local Currencies and Cash Transfers
 
-Pub. L. 115–141, div. K, title VII, §7026, Mar. 23, 2018, 132 Stat. 877, provided that:
+Pub. L. 116–94, div. G, title VII, §7026, Dec. 20, 2019, 133 Stat. 2859, provided that:
 
 "(a)
 
@@ -100,10 +100,6 @@ Programming accountability.—USAID shall take all necessary steps to ensure tha
 
 Termination of assistance programs.—Upon termination of assistance to a country under chapter 1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), any unencumbered balances of funds which remain in a separate account established pursuant to subsection (a) shall be disposed of for such purposes as may be agreed to by the government of that country and the United States Government.
 
-&emsp;"(5)
-
-Report.—The USAID Administrator shall report as part of the congressional budget justification submitted to the Committees on Appropriations on the use of local currencies for the administrative requirements of the United States Government as authorized in subsection (a)(2)(B), and such report shall include the amount of local currency (and United States dollar equivalent) used or to be used for such purpose in each applicable country.
-
 "(b)
 
 Separate Accounts for Cash Transfers.—
@@ -125,6 +121,10 @@ Notification.—At least 15 days prior to obligating any such cash transfer or n
 Exemption.—Nonproject sector assistance funds may be exempt from the requirements of paragraph (1) only through the regular notification procedures of the Committees on Appropriations."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–6, div. F, title VII, §7026, Feb. 15, 2019, 133 Stat. 312.
+
+Pub. L. 115–141, div. K, title VII, §7026, Mar. 23, 2018, 132 Stat. 877.
 
 Pub. L. 115–31, div. J, title VII, §7026, May 5, 2017, 131 Stat. 633.
 

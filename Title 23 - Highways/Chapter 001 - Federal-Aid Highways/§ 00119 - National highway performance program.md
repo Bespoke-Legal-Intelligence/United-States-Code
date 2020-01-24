@@ -100,7 +100,15 @@ Plan contents.—A State asset management plan shall, at a minimum, be in a form
 
 &emsp;(5)
 
-Requirement for plan.—Notwithstanding section 120, with respect to the second fiscal year beginning after the date of establishment of the process established in paragraph (8) or any subsequent fiscal year, if the Secretary determines that a State has not developed and implemented a State asset management plan consistent with this section, the Federal share payable on account of any project or activity carried out by the State in that fiscal year under this section shall be 65 percent.
+Requirement for plan.—
+
+&emsp;&emsp;(A)
+
+In general.—Notwithstanding section 120, each fiscal year, if the Secretary determines that a State has not developed and implemented a State asset management plan consistent with this section, the Federal share payable on account of any project or activity for which funds are obligated by the State in that fiscal year under this section shall be 65 percent.
+
+&emsp;&emsp;(B)
+
+Determination.—The Secretary shall make the determination under subparagraph (A) for a fiscal year not later than the day before the beginning of such fiscal year.
 
 &emsp;(6)
 
@@ -134,7 +142,7 @@ Performance achievement.—A State that does not achieve or make significant pro
 
 &emsp;(8)
 
-Process.—Not later than 18 months after the date of enactment of the MAP–21, the Secretary shall, by regulation and in consultation with State departments of transportation, establish the process to develop the State asset management plan described in paragraph (1).
+Process.—Not later than 18 months after the date of enactment of the MAP–21, the Secretary shall, by regulation and in consultationwith State departments of transportation, establish the process to develop the State asset management plan described in paragraph (1).
 
 (f)
 
@@ -206,11 +214,11 @@ Terms and conditions.—The following terms and conditions apply to natural habi
 
 &emsp;(4)
 
-Preference.—At the discretion of the project sponsor, preference shall be given, tothe maximum extent practicable, to mitigating an environmental impact through the use of a mitigation bank, in-lieu fee, or other third-party mitigation arrangement, if the use of credits from the mitigation bank or in-lieu fee, or the other third-party mitigation arrangement for the project, is approved by the applicable Federal agency.
+Preference.—At the discretion of the project sponsor, preference shall be given, to the maximum extent practicable, to mitigating an environmental impact through the use of a mitigation bank, in-lieu fee, or other third-party mitigation arrangement, if the use of credits from the mitigation bank or in-lieu fee, or the other third-party mitigation arrangement for the project, is approved by the applicable Federal agency.
 
 (h)
 
-TIFIA Program.—Upon Secretarial approval of credit assistance under chapter 6, the Secretary, at the request of a State, may allow the State to use funds apportioned under section 104(b)(1) to pay subsidy and administrative costs necessary to provide an eligible entity Federal credit assistance under chapter 6 with respect to a project eligible for assistance under this section.
+TIFIA Program.—Upon Secretarial approval of credit assistance under chapter 6, theSecretary, at the request of a State, may allow the State to use funds apportioned under section 104(b)(1) to pay subsidy and administrative costs necessary to provide an eligible entity Federal credit assistance under chapter 6 with respect to a project eligible for assistance under this section.
 
 (i)
 
@@ -240,7 +248,7 @@ Consideration.—The asset management plan of a State may include consideration 
 
 Risk reduction.—A State may use funds apportioned under this section for projects intended to reduce the risk of failure of critical infrastructure in the State.
 
-(Added Pub. L. 95–599, title I, §116(a), Nov. 6, 1978, 92 Stat. 2698; amended Pub. L. 96–106, §18, Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–134, §§6, 7, Dec. 29, 1981, 95 Stat. 1701; Pub. L. 97–424, title I, §116(a)(1), (2), (b), (c), Jan. 6, 1983, 96 Stat. 2109; Pub. L. 98–229, §8(b), Mar. 9, 1984, 98 Stat. 56; Pub. L. 99–190, §101(e) \[title III, §327\], Dec. 19, 1985, 99 Stat. 1267, 1289; Pub. L. 100–17, title I, §116(a)–(c)(1), Apr. 2, 1987, 101 Stat. 154, 155; Pub. L. 100–202, §101(l) \[title III, §347(b)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 102–240, title I, §1009(a), (b), (e)(1), (3)–(5), Dec. 18, 1991, 105 Stat. 1933, 1934; Pub. L. 105–178, title I, §1107(a), (d), June 9, 1998, 112 Stat. 137; Pub. L. 105–206, title IX, §9002(f), July 22, 1998, 112 Stat. 836; Pub. L. 112–141, div. A, title I, §1106(a), July 6, 2012, 126 Stat. 432; Pub. L. 114–94, div. A, title I, §§1106, 1406(a), 1407(a), 1446(a)(1), Dec. 4, 2015, 129 Stat. 1337, 1410, 1437.)
+(Added Pub. L. 95–599, title I, §116(a), Nov. 6, 1978, 92 Stat. 2698; amended Pub. L. 96–106, §18, Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–134, §§6, 7, Dec. 29, 1981, 95 Stat. 1701; Pub. L. 97–424, title I, §116(a)(1), (2), (b), (c), Jan. 6, 1983, 96 Stat. 2109; Pub. L. 98–229, §8(b), Mar. 9, 1984, 98 Stat. 56; Pub. L. 99–190, §101(e) \[title III, §327\], Dec. 19, 1985, 99 Stat. 1267, 1289; Pub. L. 100–17, title I, §116(a)–(c)(1), Apr. 2, 1987, 101 Stat. 154, 155; Pub. L. 100–202, §101(l) \[title III, §347(b)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 102–240, title I, §1009(a), (b), (e)(1), (3)–(5), Dec. 18, 1991, 105 Stat. 1933, 1934; Pub. L. 105–178, title I, §1107(a), (d), June 9, 1998, 112 Stat. 137; Pub. L. 105–206, title IX, §9002(f), July 22, 1998, 112 Stat. 836; Pub. L. 112–141, div. A, title I, §1106(a), July 6, 2012, 126 Stat. 432; Pub. L. 114–94, div. A, title I, §§1106, 1406(a), 1407(a), 1446(a)(1), Dec. 4, 2015, 129 Stat. 1337, 1410, 1437; Pub. L. 116–94, div. H, title I, §129A, Dec. 20, 2019, 133 Stat. 2953.)
 
 #### References in Text
 
@@ -253,6 +261,8 @@ Section 144 (as in effect the day before enactment of MAP–21), referred to in 
 A prior section 119, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 899, related to administration of Federal aid for highways in Alaska, prior to repeal by Pub. L. 86–70, §21(d)(3), June 25, 1959, 73 Stat. 145, effective July 1, 1959.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (e)(5). Pub. L. 116–94 amended par. (5) generally. Prior to amendment, text read as follows: "Notwithstanding section 120, with respect to the second fiscal year beginning after the date of establishment of the process established in paragraph (8) or any subsequent fiscal year, if the Secretary determines that a State has not developed and implemented a State asset management plan consistent with this section, the Federal share payable on account of any project or activity carried out by the State in that fiscal year under this section shall be 65 percent."
 
 <b>2015</b>—Subsec. (d)(1)(A). Pub. L. 114–94, §1446(a)(1), substituted "congestion reduction, system reliability," for "mobility,".
 
@@ -270,7 +280,7 @@ Subsecs. (h) to (j). Pub. L. 114–94, §1106, added subsecs. (h) to (j).
 
 Subsec. (b). Pub. L. 105–178, §1107(d)(1), as added by Pub. L. 105–206, §9002(f), substituted "104(b)(4)" for "104(b)(5)(B)" in first sentence and "104(b)(5)(A) (as in effect on the date before the date of enactment of the Transportation Equity Act for the 21st Century)" for "104(b)(5)(A)" in two places.
 
-Pub. L. 105–178, §1107(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: "Not later than one year after the date of issuance of initial guidelines under section 109(m) of this title each State shall have a program for the Interstate system in accordance with such guidelines. Each State shall certify on January 1st of each year that it has such a program and the Interstate system is maintained in accordance with that program. If a State fails to certify as required or if the Secretary determines a State is not adequately maintaining the Interstate system in accordance with such program then the next apportionment of funds to such State for the Interstate system shall be reduced by amounts equal to 10 per centum of the amount which would otherwise be apportioned to such State under section 104 of this title. If,within one year from the date the apportionment for a State is reduced under this subsection, the Secretary determines that such State is maintaining the Interstate system in accordance with the guidelines the apportionment of such State shall be increased by an amount equal to the reduction. If the Secretary does not make such a determination within such one year period the amount so withheld shall be reapportioned to all other eligible States."
+Pub. L. 105–178, §1107(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: "Not later than one year after the date of issuance of initial guidelines under section 109(m) of this title each State shall have a program for the Interstate system in accordance with such guidelines. Each State shall certify on January 1st of each year that it has such a program and the Interstate system is maintained in accordance with that program. If a State fails to certify as required or if the Secretary determines a State is not adequately maintaining the Interstate system in accordance with such program then the next apportionment of funds to such State for the Interstate system shall be reduced by amounts equal to 10 per centum of the amount which would otherwise be apportioned to such State under section 104 of this title. If, within one year from the date the apportionment for a State is reduced under this subsection, the Secretary determines that such State is maintaining the Interstate system in accordance with the guidelines the apportionment of such State shall be increased by an amount equal to the reduction. If the Secretary does not make such a determination within such one year period the amount so withheld shall be reapportioned to all other eligible States."
 
 Subsec. (c). Pub. L. 105–178, §1107(d)(2), as added by Pub. L. 105–206, §9002(f), substituted "104(b)(4)" for "104(b)(5)(B)" wherever appearing.
 

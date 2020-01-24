@@ -127,7 +127,7 @@ Pub. L. 103–337, §1626(1), as amended by Pub. L. 104–106, inserted "or who 
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted "Rear admiral (lower half)" for "Commodore" in table.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–557 struck out "(Navy) and Rear admiral (upper half) (Coast Guard)" after"Rear admiral" and "(Navy) and Rear admiral (lower half) (Coast Guard)" after "Commodore" in table.
+<b>1984</b>—Subsec. (a). Pub. L. 98–557 struck out "(Navy) and Rear admiral (upper half) (Coast Guard)" after "Rear admiral" and "(Navy) and Rear admiral (lower half) (Coast Guard)" after "Commodore" in table.
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–295 substituted "the" for "the the" after "uniformly among".
 

@@ -44,7 +44,7 @@ Under regulations prescribed by the Secretary—
 
 #### (E) Special rules
 
-&emsp;&emsp;Rules similar to the rules of this paragraph shall apply in cases where qualifiedprogress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), or 48C(b)(2).
+&emsp;&emsp;Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), or 48C(b)(2).
 
 #### (3) Carrybacks and carryovers adjusted
 
@@ -76,7 +76,7 @@ Under regulations prescribed by the Secretary—
 
 #### (C) Special rule
 
-&emsp;&emsp;Any increase in tax under paragraph (1) or (2) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
+&emsp;&emsp;Any increase in tax under paragraph (1) or (2) shall not be treated as tax imposed by this chapter for purposes of determining theamount of any credit allowable under this chapter.
 
 #### (b) Certain property not eligible
 
@@ -228,7 +228,7 @@ Amendment by Pub. L. 108–357 applicable with respect to expenditures paid or i
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to whichsuch amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 

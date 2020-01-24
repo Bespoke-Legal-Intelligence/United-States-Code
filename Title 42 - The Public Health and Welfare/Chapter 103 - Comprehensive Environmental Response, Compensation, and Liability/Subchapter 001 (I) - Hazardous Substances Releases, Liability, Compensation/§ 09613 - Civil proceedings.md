@@ -2,7 +2,7 @@
 
 #### (a) Review of regulations in Circuit Court of Appeals of the United States for the District of Columbia
 
-Review of any regulation promulgated under this chapter may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within ninety days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
+Review of any regulation promulgated under this chapter may be had upon application by anyinterested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within ninety days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
 
 #### (b) Jurisdiction; venue
 
@@ -48,7 +48,7 @@ In any action by the United States under this chapter, process may be served in 
 
 &emsp;&emsp;(B) The date on which regulations are promulgated under section 9651(c) of this title.
 
-> &emsp;With respect to any facility listed on the National Priorities List (NPL), any Federal facility identified under section 9620 of this title (relating to Federal facilities), or any vessel or facility at which a remedial action under this chapter is otherwise scheduled, an action for damages under this chapter must be commenced within 3 years after the completion of the remedial action (excluding operation and maintenance activities) in lieu of the dates referred to in subparagraph (A) or (B). In noevent may an action for damages under this chapter with respect to such a vessel or facility be commenced (i) prior to 60 days after the Federal or State natural resource trustee provides to the President and the potentially responsible party a notice of intent to file suit, or (ii) before selection of the remedial action if the President is diligently proceeding with a remedial investigation and feasibility study under section 9604(b) of this title or section 9620 of this title (relating to Federal facilities). The limitation in the preceding sentence on commencing an action before giving notice or before selection of the remedial action does not apply to actions filed on or before October 17, 1986.
+> &emsp;With respect to any facility listed on the National Priorities List (NPL), any Federal facility identified under section 9620 of this title (relating to Federal facilities), or any vessel or facility at which a remedial action under this chapter is otherwise scheduled, an action for damages under this chapter must be commenced within 3 years after the completion of the remedial action (excluding operation and maintenance activities) in lieu of the dates referred to in subparagraph (A) or (B). In no event may an action for damages under this chapter with respect to such a vessel or facility be commenced (i) prior to 60 days after the Federal or State natural resource trustee provides to the President and the potentially responsible party a notice of intent to file suit, or (ii) before selection of the remedial action if the President is diligently proceeding with a remedial investigation and feasibility study under section 9604(b) of this title or section 9620 of this title (relating to Federal facilities). The limitation in the preceding sentence on commencing an action before giving notice or before selection of the remedial action does not apply to actions filed on or before October 17, 1986.
 
 #### (2) Actions for recovery of costs
 
@@ -110,7 +110,7 @@ In any action commenced under this chapter or under the Solid Waste Disposal Act
 
 #### (2) Standard
 
-&emsp;In considering objections raised in any judicial action under this chapter, the court shall uphold the President's decision in selecting the response action unless the objecting party can demonstrate, on the administrative record, that the decision was arbitrary and capricious or otherwise not in accordance with law.
+&emsp;In considering objections raised in any judicial action under this chapter, the court shall uphold the President's decision in selecting the response action unless the objecting partycan demonstrate, on the administrative record, that the decision was arbitrary and capricious or otherwise not in accordance with law.
 
 #### (3) Remedy
 
@@ -166,7 +166,7 @@ Whenever any action is brought under this chapter in a court of the United State
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
-Subchapter II of this chapter, referred to in subsec. (c), was in the original "title II of this Act", meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response RevenueAct of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
+Subchapter II of this chapter, referred to in subsec. (c), was in the original "title II of this Act", meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

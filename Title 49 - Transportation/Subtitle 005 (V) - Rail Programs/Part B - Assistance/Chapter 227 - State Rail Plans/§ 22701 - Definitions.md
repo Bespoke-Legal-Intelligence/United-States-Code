@@ -26,7 +26,7 @@ Public benefit.—
 
 In general.—The term "public benefit"—
 
-&emsp;&emsp;&emsp;(i) means a benefit accrued to the public, including Amtrak, in the form of enhanced mobility of people or goods, environmental protection or enhancement, congestion mitigation, enhanced trade and economic development, improved air quality or land use, more efficient energy use, enhanced public safety or security, reduction of public expenditures due to improved transportation efficiency or infrastructure preservation, and any other positive community effects as defined by the Secretary; and
+&emsp;&emsp;&emsp;(i) means a benefit accrued to the public, including Amtrak, in the form of enhancedmobility of people or goods, environmental protection or enhancement, congestion mitigation, enhanced trade and economic development, improved air quality or land use, more efficient energy use, enhanced public safety or security, reduction of public expenditures due to improved transportation efficiency or infrastructure preservation, and any other positive community effects as defined by the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) shall be determined on a project-by-project basis, based upon an agreement between the parties.
 

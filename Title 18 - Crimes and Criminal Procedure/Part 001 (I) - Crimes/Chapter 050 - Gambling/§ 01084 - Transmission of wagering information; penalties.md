@@ -24,3 +24,7 @@ Subsec. (c). Pub. L. 100–690, §7024(b)(2), struck out ", Commonwealth of Pue
 
 Subsec. (e). Pub. L. 100–690, §7024(b)(1), added subsec. (e).
 
+#### Short Title
+
+This section is popularly known as the "Wire Act".
+

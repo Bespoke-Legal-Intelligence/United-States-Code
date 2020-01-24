@@ -252,7 +252,7 @@ Appropriate committees of congress defined.—In this subsection, the term 'appr
 
 &emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Financial Services, and the Committee on Oversight and Government Reform of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Financial Services, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives.
 
 "(d)
 

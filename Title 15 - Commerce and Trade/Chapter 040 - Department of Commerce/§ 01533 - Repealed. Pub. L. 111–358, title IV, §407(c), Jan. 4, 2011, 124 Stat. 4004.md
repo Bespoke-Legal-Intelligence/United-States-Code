@@ -1,6 +1,6 @@
 ### §1533. Repealed. Pub. L. 111–358, title IV, §407(c), Jan. 4, 2011, 124 Stat. 4004
 
-Section, Pub. L. 100–418, title V, §5163(d), Aug. 23, 1988, 102 Stat. 1451, established the Commerce, Science, and Technology Fellowship Program within the Department of Commerce.
+Section, Pub. L. 100–418, title V, §5163(d), Aug. 23, 1988, 102 Stat. 1451, established the Commerce, Science,and Technology Fellowship Program within the Department of Commerce.
 
 #### Codification
 

@@ -58,7 +58,7 @@ In this chapter—
 
 &emsp;(12) "obtrusive space advertising" means advertising in outer space that is capable of being recognized by a human being on the surface of the Earth without the aid of a telescope or other technological device.
 
-&emsp;(13) "payload" means an object that a person undertakes to place in outer space by means ofa launch vehicle or reentry vehicle, including components of the vehicle specifically designed or adapted for that object.
+&emsp;(13) "payload" means an object that a person undertakes to place in outer space by means of a launch vehicle or reentry vehicle, including components of the vehicle specifically designed or adapted for that object.
 
 &emsp;(14) except in section 50904(c), "permit" means an experimental permit issued under section 50906.
 

@@ -34,7 +34,7 @@
 
 &emsp;(B) One-third of the members shall be appointed by the Secretary from the general public and shall include leaders in fields of public policy, law, health policy, economics, and management.
 
-(4) Members of an advisory council who are officers or employees of the United States shall not receive any compensation for service on the advisory council. The other members of an advisory council shall receive, for each day (including traveltime) they are engaged in the performance of the functions of the advisory council, compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule.
+(4) Members of an advisory council who are officers or employees of the United States shall not receive any compensation for service on the advisory council. The other members of an advisory council shall receive, for each day (including traveltime) they are engaged in the performance of the functions of the advisory council, compensation at rates not to exceed the dailyequivalent of the annual rate in effect for grade GS–18 of the General Schedule.
 
 #### (c) Term of office; reappointment; vacancy
 
@@ -54,7 +54,7 @@ The Director of the national research institute for which an advisory council is
 
 #### (g) Comments and recommendations for inclusion in biennial report; additional reports
 
-Each advisory council may prepare, for inclusion in the biennial report made under section 284b <sup>1</sup> of this title, (1) comments respecting the activities of the advisory council in the fiscal years respecting which the report is prepared, (2) comments on the progress of the national research institute for which it was established in meeting its objectives, and (3) recommendations respecting the future directions and programand policy emphasis of the institute. Each advisory council may prepare such additional reports as it may determine appropriate.
+Each advisory council may prepare, for inclusion in the biennial report made under section 284b <sup>1</sup> of this title, (1) comments respecting the activities of the advisory council in the fiscal years respecting which the report is prepared, (2) comments on the progress of the national research institute for which it was established in meeting its objectives, and (3) recommendations respecting the future directions and program and policy emphasis of the institute. Each advisory council may prepare such additional reports as it may determine appropriate.
 
 #### (h) Advisory councils in existence; application of section to National Cancer Advisory Board and advisory council to National Heart, Lung, and Blood Institute
 
@@ -86,7 +86,7 @@ Each advisory council may prepare, for inclusion in the biennial report made und
 
 (B) This section applies to the advisory council to the National Heart, Lung, and Blood Institute, except that the advisory council shall meet at least four times each fiscal year.
 
-(July 1, 1944, ch. 373, title IV, §406, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 828; amended Pub. L. 100–607, title I, §117, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 101–381, title I, §102(1), Aug. 18, 1990, 104 Stat. 585; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title II, §210(a), title XX, §§2008(b)(1), 2010(b)(2), June 10, 1993, 107 Stat. 149, 210, 214; Pub. L. 105–245, title III, §309(b)(2)(C), Oct. 7, 1998, 112 Stat. 1853; Pub. L. 115–180, title I, §111, June 5, 2018, 132 Stat. 1386.)
+(July 1, 1944, ch. 373, title IV, §406, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 828; amendedPub. L. 100–607, title I, §117, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 101–381, title I, §102(1), Aug. 18, 1990, 104 Stat. 585; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title II, §210(a), title XX, §§2008(b)(1), 2010(b)(2), June 10, 1993, 107 Stat. 149, 210, 214; Pub. L. 105–245, title III, §309(b)(2)(C), Oct. 7, 1998, 112 Stat. 1853; Pub. L. 115–180, title I, §111, June 5, 2018, 132 Stat. 1386.)
 
 #### References in Text
 
@@ -124,7 +124,7 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

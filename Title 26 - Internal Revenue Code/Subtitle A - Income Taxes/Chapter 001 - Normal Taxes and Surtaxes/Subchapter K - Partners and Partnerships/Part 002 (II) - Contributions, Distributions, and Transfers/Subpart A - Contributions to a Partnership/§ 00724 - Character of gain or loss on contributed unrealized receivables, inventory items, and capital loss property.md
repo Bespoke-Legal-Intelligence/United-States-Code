@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (2) Inventory item
 
-&emsp;The term "inventory item" has the meaning given such term by section 751(d) (determinedby treating any reference to the partnership as referring to the partner and by applying section 1231 without regard to any holding period therein provided).
+&emsp;The term "inventory item" has the meaning given such term by section 751(d) (determined by treating any reference to the partnership as referring to the partner and by applying section 1231 without regard to any holding period therein provided).
 
 #### (3) Substituted basis property
 

@@ -32,7 +32,7 @@ Activities Within the Southern Sea Otter Military Readiness Areas.—
 
 &emsp;(1)
 
-Incidental takings under endangered species act of 1973.—Sections 4 and 9 of theEndangered Species Act of 1973 (16 U.S.C. 1533, 1538) shall not apply with respect to the incidental taking of any southern sea otter in the Southern Sea Otter Military Readiness Areas in the course of conducting a military readiness activity.
+Incidental takings under endangered species act of 1973.—Sections 4 and 9 of the Endangered Species Act of 1973 (16 U.S.C. 1533, 1538) shall not apply with respect to the incidental taking of any southern sea otter in the Southern Sea Otter Military Readiness Areas in the course of conducting a military readiness activity.
 
 &emsp;(2)
 

@@ -12,7 +12,7 @@
 
 &emsp;(1) Written comments about an application may be filed with the Board within 45 days after notice of the application is published under subsection (a) of this section. Copies of such comments shall be served on the Attorney General and the Secretary of Transportation, who may decide to intervene as a party to the proceeding. That decision must be made by the 15th day after the date of receipt of the written comments, and if the decision is to intervene, preliminary comments about the application must be sent to the Board by the end of the 15th day after the date of receipt of the written comments.
 
-&emsp;(2) The Board shall require that applications inconsistent with an application, notice ofwhich was published under subsection (a) of this section, and applications for inclusion in the transaction, be filed with it by the 90th day after publication of notice under that subsection.
+&emsp;(2) The Board shall require that applications inconsistent with an application, notice of which was published under subsection (a) of this section, and applications for inclusion in the transaction, be filed with it by the 90th day after publication of notice under that subsection.
 
 &emsp;(3) The Board must conclude evidentiary proceedings by the end of 1 year after the date of publication of notice under subsection (a) of this section. The Board must issue a final decision by the 90th day after the date on which it concludes the evidentiary proceedings.
 

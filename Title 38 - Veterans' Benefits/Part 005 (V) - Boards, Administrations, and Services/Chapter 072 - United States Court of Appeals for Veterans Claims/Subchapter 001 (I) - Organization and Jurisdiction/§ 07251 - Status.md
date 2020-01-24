@@ -22,7 +22,7 @@ Pub. L. 107–103, title VI, §603(c), (d), Dec. 27, 2001, 115 Stat. 999, provid
 
 "(c)
 
-Construction.—The repeal in subsection (a) \[repealing section 402 of Pub. L. 100–687, formerly set out as a note below\] may not be construed to confer uponthe United States Court of Appeals for Veterans Claims jurisdiction over any appeal or other matter not within the jurisdiction of the Court as provided in section 7266(a) of title 38, United States Code.
+Construction.—The repeal in subsection (a) \[repealing section 402 of Pub. L. 100–687, formerly set out as a note below\] may not be construed to confer upon the United States Court of Appeals for Veterans Claims jurisdiction over any appeal or other matter not within the jurisdiction of the Court as provided in section 7266(a) of title 38, United States Code.
 
 "(d)
 

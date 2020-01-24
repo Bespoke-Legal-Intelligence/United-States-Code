@@ -78,6 +78,7 @@
 | [11362\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20General%20Provisions/%C2%A7%2011362%20-%20Discharge%20coordination%20policy.md) | Discharge coordination policy. |
 | [11363\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20General%20Provisions/%C2%A7%2011363%20-%20Protection%20of%20personally%20identifying%20information%20by%20victim%20service%20providers.md) | Protection of personally identifying information by victim service providers. |
 | [11364\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20General%20Provisions/%C2%A7%2011364%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [11364a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20General%20Provisions/%C2%A7%2011364a%20-%20Availability%20of%20amounts%20recaptured%20from%20appropriated%20funds.md) | Availability of amounts recaptured from appropriated funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

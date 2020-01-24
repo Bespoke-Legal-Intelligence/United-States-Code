@@ -28,7 +28,7 @@ Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B), (C)\],
 
 Subsec. (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted "Director" for "Commissioner".
 
-<b>1998</b>—Pub. L. 105–330 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to period of renewal and time for renewal, notification of refusal of renewal, and applicants for renewal not domiciled in the United States.
+<b>1998</b>—Pub. L. 105–330 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to period of renewal andtime for renewal, notification of refusal of renewal, and applicants for renewal not domiciled in the United States.
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–667, §111(1), substituted "ten" for "twenty".
 

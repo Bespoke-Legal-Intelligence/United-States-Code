@@ -34,7 +34,7 @@ The Director, in his capacity as ex officio member of the Board, shall, except w
 
 <b>1994</b>—Subsec. (e)(2). Pub. L. 103–437 substituted "Science, Space, and Technology" for "Science and Technology".
 
-<b>1985</b>—Subsec. (e). Pub. L. 99–159 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "The Director shall not make any contract, grant, or other arrangement pursuant to section 1870(c) of this title without the prior approval of the Board, except that a grant, contract, or other arrangement involving a total commitment of less than $2,000,000, or less than $500,000 in any one year, or a commitment of such lesser amount or amounts and subject to such other conditions as the Board in its discretion may from time to time determine to be appropriate and publish in the Federal Register, may be made if such action is taken pursuant to the terms and conditions setforth by the Board, and if each such action is reported to the Board at the Board meeting next following such action."
+<b>1985</b>—Subsec. (e). Pub. L. 99–159 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "The Director shall not make any contract, grant, or other arrangement pursuant to section 1870(c) of this title without the prior approval of the Board, except that a grant, contract, or other arrangement involving a total commitment of less than $2,000,000, or less than $500,000 in any one year, or a commitment of such lesser amount or amounts and subject to such other conditions as the Board in its discretion may from time to time determine to be appropriate and publish in the Federal Register, may be made if such action is taken pursuant to the terms and conditions set forth by the Board, and if each such action is reported to the Board at the Board meeting next following such action."
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–407 inserted provision prescribing the annual rate of compensation of the Director, and struck out provision authorizing the Director to serve as a nonvoting ex officio member of the Board and as the chief executive officer of the Foundation.
 
@@ -48,7 +48,7 @@ Subsecs. (c) to (f). Pub. L. 90–407 added subsecs. (c) to (f).
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6,One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1968 Amendment
 

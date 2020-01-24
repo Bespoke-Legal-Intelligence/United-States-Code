@@ -46,7 +46,7 @@ Findings.—Congress finds the following:
 
 &emsp;&emsp;"(C) is bound by the legal obligations set forth in the European Convention on Human Rights.
 
-&emsp;"(3) States voluntarily commit themselves to respect obligations and responsibilities through the adoption of international agreements and treaties, which must be observed in good faith in order to maintain the stability of the international order. Human rights are an integral part of international law, and lie at the foundation of the international order. The protection of human rights, therefore, particularly in the case of a country that has incurred obligations to protect human rights under an international agreement to which it is a party, is not left exclusively to the internal affairs of that country.
+&emsp;"(3) States voluntarily commit themselves to respect obligations and responsibilities through theadoption of international agreements and treaties, which must be observed in good faith in order to maintain the stability of the international order. Human rights are an integral part of international law, and lie at the foundation of the international order. The protection of human rights, therefore, particularly in the case of a country that has incurred obligations to protect human rights under an international agreement to which it is a party, is not left exclusively to the internal affairs of that country.
 
 &emsp;"(4) Good governance and anti-corruption measures are instrumental in the protection of human rights and in achieving sustainable economic growth, which benefits both the people of the Russian Federation and the international community through the creation of open and transparent markets.
 
@@ -78,7 +78,7 @@ Findings.—Congress finds the following:
 
 "(b)
 
-Sense of Congress.—It is the sense of Congress that the United States should continue to strongly support, and provide assistance to, the efforts of the Russian people to establish a vibrant democratic political system that respects individual liberties and human rights, including by enhancing the provision of objective information through all relevant media, such as Radio Liberty and the internet. The Russian Government's suppression of dissent and political opposition, the limitations it has imposed on civil society and independent media, and the deterioration of economic and political freedom inside Russia are of profound concern to the United States Government and to the American people.
+Sense of Congress.—It is the sense of Congress that the United States should continue to strongly support, and provide assistance to, the efforts of the Russian people to establish a vibrant democratic political system that respects individual liberties and human rights, including by enhancing the provision of objective information through all relevant media, such as Radio Liberty and the internet. The Russian Government's suppression of dissent and political opposition, the limitations it has imposed on civil society andindependent media, and the deterioration of economic and political freedom inside Russia are of profound concern to the United States Government and to the American people.
 
 #### "SEC. 403. DEFINITIONS.
 
@@ -192,7 +192,7 @@ Ineligibility for Visas.—An alien is ineligible to receive a visa to enter the
 
 "(b)
 
-Current Visas Revoked.—The Secretary of State shall revoke, in accordance with section 221(i) of the Immigration and Nationality Act (8 U.S.C. 1201(i)), the visa or other documentation of any alien who would be ineligible to receive such a visa or documentation under subsection (a) of this section.
+Current Visas Revoked.—The Secretary of State shall revoke, in accordance with section 221(i) ofthe Immigration and Nationality Act (8 U.S.C. 1201(i)), the visa or other documentation of any alien who would be ineligible to receive such a visa or documentation under subsection (a) of this section.
 
 "(c)
 
@@ -420,7 +420,7 @@ Conditions.—The conditions referred to in subsection (a) are the following:
 
 &emsp;"(4) The cessation of all forms of harassment and repression against the independent media, independent trade unions, nongovernmental organizations, youth groups, religious organizations (including their leadership and members), and the political opposition in Belarus.
 
-&emsp;"(5) The prosecution of senior leadership of the Government of Belarus responsible for the administration of fraudulent elections and violations of human rights, including violations of human rightscommitted in connection with the presidential election of December 19, 2010.
+&emsp;"(5) The prosecution of senior leadership of the Government of Belarus responsible for the administration of fraudulent elections and violations of human rights, including violations of human rights committed in connection with the presidential election of December 19, 2010.
 
 &emsp;"(6) A full accounting of the embezzlement of state assets by senior leadership of the Government of Belarus, their family members, and other associates.
 
@@ -528,7 +528,7 @@ United states person.—The term 'United States person' means—
 
 "(a)
 
-Report.—Not later than 90 days after the date of the enactment of the Belarus Democracy and HumanRights Act of 2011 \[Pub. L. 112–82, approved Jan. 3, 2012\], and not later than 1 year thereafter, the President shall transmit to the appropriate congressional committees a report that describes, with respect to the preceding 12-month period, and to the extent practicable the following:
+Report.—Not later than 90 days after the date of the enactment of the Belarus Democracy and Human Rights Act of 2011 \[Pub. L. 112–82, approved Jan. 3, 2012\], and not later than 1 year thereafter, the President shall transmit to the appropriate congressional committees a report that describes, with respect to the preceding 12-month period, and to the extent practicable the following:
 
 &emsp;"(1) The sale or delivery or provision of weapons or weapons-related technologies or weapons-related training from the Republic of Belarus to any country, the government of which the Secretary of State has determined, for purposes of \[former\] section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) \[former 50 U.S.C. 4605(j)(1)\], has repeatedly provided support for acts of international terrorism.
 

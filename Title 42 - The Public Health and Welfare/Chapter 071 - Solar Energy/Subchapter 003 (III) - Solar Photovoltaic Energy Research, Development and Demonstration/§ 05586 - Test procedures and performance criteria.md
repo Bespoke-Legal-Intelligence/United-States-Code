@@ -12,9 +12,9 @@ Data obtained from the testing program under subsection (a) shall be evaluated a
 
 The Secretary shall determine, prescribe, and publish in the Federal Register, at a time which he determines to be feasible and justified—
 
-&emsp;(1) performance criteria for photovoltaic components and systems to be used in appropriate applications, and procedures whereby manufacturers of photovoltaic components and systems shall have their products testedin order to provide certification that such products conform to the performance criteria established under this paragraph; and
+&emsp;(1) performance criteria for photovoltaic components and systems to be used in appropriate applications, and procedures whereby manufacturers of photovoltaic components and systems shall have their products tested in order to provide certification that such products conform to the performance criteria established under this paragraph; and
 
-&emsp;(2) revised performance criteria for photovoltaic components and systems to be used in appropriate applications, and procedures whereby manufacturers of photovoltaic components and systems shall have their products tested in order to provide certification that such products conform to the performance criteria established under this paragraph. Such criteria may be annually revised by the Secretary, as he deems appropriate.
+&emsp;(2) revised performance criteria for photovoltaic components and systems to be used in appropriate applications, and procedures whereby manufacturers of photovoltaic components and systems shall have their products tested in order to provide certification that such products conform to the performance criteria established under this paragraph. Suchcriteria may be annually revised by the Secretary, as he deems appropriate.
 
 #### (d) Performance criteria applicable to photovoltaic component or system procured or installed by Federal Government or with Federal assistance
 

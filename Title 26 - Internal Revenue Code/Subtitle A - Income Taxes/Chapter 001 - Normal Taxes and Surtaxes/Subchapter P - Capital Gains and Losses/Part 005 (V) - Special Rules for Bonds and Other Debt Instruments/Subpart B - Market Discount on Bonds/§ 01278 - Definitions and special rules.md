@@ -46,7 +46,7 @@ For purposes of this part—
 
 #### (iii) Bonds acquired in certain reorganizations
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply to any bond issued pursuant to a plan of reorganization\(within the meaning of section 368(a)(1)) in exchange for another bond having market discount. Solely for purposes of section 1276, the preceding sentence shall not apply if such other bond was issued on or before July 18, 1984 (the date of the enactment of section 1276) and if the bond issued pursuant to such plan of reorganization has the same term and the same interest rate as such other bond had.
+&emsp;&emsp;&emsp;Clause (i) shall not apply to any bond issued pursuant to a plan of reorganization (within the meaning of section 368(a)(1)) in exchange for another bond having market discount. Solely for purposes of section 1276, the preceding sentence shall not apply if such other bond was issued on or before July 18, 1984 (the date of the enactment of section 1276) and if the bond issued pursuant to such plan of reorganization has the same term and the same interest rate as such other bond had.
 
 #### (iv) Treatment of certain transferred basis property
 
@@ -104,7 +104,7 @@ For purposes of this part—
 
 #### (3) Period to which election applies
 
-&emsp;An election under this subsection shall apply to the taxable year for which it is made and for all subsequent taxable years, unless the taxpayer secures the consent of the Secretary to the revocation of such election.
+&emsp;An election under this subsection shall apply to the taxable year for which it is madeand for all subsequent taxable years, unless the taxpayer secures the consent of the Secretary to the revocation of such election.
 
 #### (4) Basis adjustment
 

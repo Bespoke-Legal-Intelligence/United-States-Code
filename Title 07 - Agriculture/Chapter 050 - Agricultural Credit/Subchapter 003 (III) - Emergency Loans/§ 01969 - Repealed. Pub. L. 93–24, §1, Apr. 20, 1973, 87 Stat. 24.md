@@ -4,7 +4,7 @@ Section, Pub. L. 87–128, title III, §328, as added Pub. L. 92–385, §5, Aug
 
 #### Loans to Eligible Applicants in Areas Determined as Natural Disaster Areas After January 1, 1972, and Before December 27, 1972; Time for Acceptance of Applications
 
-Pub. L. 93–24, §8, Apr. 20, 1973, 87 Stat. 25, provided that: "Notwithstanding the repeal herein of section 5 ofPublic Law 92–385 \[this section\], and notwithstanding any other provision of law, the Secretary of Agriculture shall make loans in accordance with the provisions of section 5 of Public Law 92–385 \[this section\] to eligible applicants in natural disaster areas determined or designated by the Secretary of Agriculture where such determination or designation had been made after January 1, 1972 and prior to December 27, 1972. The authority to accept applications for such loans shall expire 18 days after the effective date of this Act \[Apr. 20, 1973\]."
+Pub. L. 93–24, §8, Apr. 20, 1973, 87 Stat. 25, provided that: "Notwithstanding the repeal herein of section 5 of Public Law 92–385 \[this section\], and notwithstanding any other provision of law, the Secretary of Agriculture shall make loans in accordance with the provisions of section 5 of Public Law 92–385 \[this section\] to eligible applicants in natural disaster areas determined or designated by the Secretary of Agriculture where such determination or designation had been made after January 1, 1972 and prior to December 27, 1972. The authority to accept applications for such loans shall expire 18 days after the effective date of this Act \[Apr. 20, 1973\]."
 
 #### Continuation of Secretary's Authority With Respect to Natural Disasters Occurring After December 26, 1972, and Prior to April 20, 1973
 

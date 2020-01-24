@@ -14,7 +14,7 @@ For the purpose of keeping to a minimum the cost to the United States, the Secre
 
 &emsp;(1) shall pay the United States contribution to the Asian Development Fund authorized by this section by letter of credit in four annual installments; and
 
-&emsp;(2) shall take the steps necessary to obtain a certification from the Bank that any undisbursed balances resulting from drawdowns on such letter of credit will not exceed at anytime the United States share of expected disbursement requirements for the following three-month period.
+&emsp;(2) shall take the steps necessary to obtain a certification from the Bank that any undisbursed balances resulting from drawdowns on such letter of credit will not exceed at any time the United States share of expected disbursement requirements for the following three-month period.
 
 (Pub. L. 89–369, §24, as added Pub. L. 96–259, title II, §201, June 3, 1980, 94 Stat. 430; amended Pub. L. 97–35, title XIII, §1352(b), Aug. 13, 1981, 95 Stat. 744.)
 

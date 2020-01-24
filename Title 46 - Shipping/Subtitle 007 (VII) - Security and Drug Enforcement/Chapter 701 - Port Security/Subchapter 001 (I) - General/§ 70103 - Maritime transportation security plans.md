@@ -136,9 +136,9 @@ Vessel and Facility Security Plans.—(1) Within 6 months after the prescription
 
 &emsp;(C) approve any plan that meets the requirements of this subsection; and
 
-&emsp;(D) subject to the availability of appropriations, periodically, but not less than one timeper year, conduct a risk-based, no notice facility inspection to verify the effectiveness of each such facility security plan.
+&emsp;(D) subject to the availability of appropriations, periodically, but not less than one time per year, conduct a risk-based, no notice facility inspection to verify the effectiveness of each such facility security plan.
 
-(5) A vessel or facility for which a plan is required to be submitted under this subsection may not operate after the end of the 12-month period beginning on the date of the prescription of interim final regulations on vessel and facility security plans, unless—
+(5) A vessel or facility for which a plan is required to be submitted under this subsection may not operate after the end of the 12-month period beginning on the date of the prescriptionof interim final regulations on vessel and facility security plans, unless—
 
 &emsp;(A) the plan has been approved by the Secretary; and
 
@@ -206,15 +206,11 @@ Especially hazardous cargo defined.—In this subsection, the term "especially h
 
 Nondisclosure of Port Security Plans.—Notwithstanding any other provision of law, information related to security plans, procedures, or programs for passenger vessels or passenger terminals authorized under this chapter is not required to be disclosed to the public.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2069; amended Pub. L. 108–458, title IV, §4072(a), Dec. 17, 2004, 118 Stat. 3730; Pub. L. 109–347, title I, §§101–103, 113(c), Oct. 13, 2006, 120 Stat. 1887, 1888, 1896; Pub. L. 111–83, title V, §561(b), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 111–281, title VIII, §§812(c), 826, Oct. 15, 2010, 124 Stat. 2997, 3004; Pub. L. 115–254, div. J,§§1805(d)(2), 1806, Oct. 5, 2018, 132 Stat. 3535, 3536; Pub. L. 115–282, title IV, §§402(c), 408(d), Dec. 4, 2018, 132 Stat. 4264, 4268.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 1805(d) of Pub. L. 115–254 applicable to assessments or security plans, or updates to such assessments or plans, submitted after the date that the cybersecurity risk assessment model is developed under section 1805(a) of Pub. L. 115–254, set out as a note under section 70112 of this title. See 2018 Amendment notes below.</i>
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2069; amended Pub. L. 108–458, title IV, §4072(a), Dec. 17, 2004, 118 Stat. 3730; Pub. L. 109–347, title I, §§101–103, 113(c), Oct. 13, 2006, 120 Stat. 1887, 1888, 1896; Pub. L. 111–83, title V, §561(b), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 111–281, title VIII, §§812(c), 826, Oct. 15, 2010, 124 Stat. 2997, 3004; Pub. L. 115–254, div. J, §§1805(d)(2), 1806, Oct. 5, 2018, 132 Stat. 3535, 3536; Pub. L. 115–282, title IV, §§402(c), 408(d), Dec. 4, 2018, 132 Stat. 4264, 4268.)
 
 #### Codification
 
-Section 1226(c) of Title 33, Navigation and Navigable Waters, which was transferred and redesignated as subsec. (f) of this section by Pub. L. 115–282, title IV, §§402(c)(1), 408(d)(1), Dec. 4, 2018, 132 Stat. 4264, 4268, was based on section 7(c) of Pub. L. 92–340, as added by Pub. L. 104–324, title III, §302, Oct. 19, 1996, 110 Stat. 3917.
+Section 1226(c) of Title 33, Navigation and Navigable Waters, which was transferred and redesignated as subsec. (f) of this section by Pub. L. 115–282, title IV,§§402(c)(1), 408(d)(1), Dec. 4, 2018, 132 Stat. 4264, 4268, was based on section 7(c) of Pub. L. 92–340, as added by Pub. L. 104–324, title III, §302, Oct. 19, 1996, 110 Stat. 3917.
 
 #### Amendments
 

@@ -16,7 +16,7 @@ The Secretary may cooperate with State foresters and equivalent State officials 
 
 #### (1) Establishment; purpose
 
-&emsp;The Secretary shall establish a Community and Private Land Fire Assistance program (in this subsection referred to as the "Program")—
+&emsp;The Secretary shall establish a Community and Private Land Fire Assistance program (inthis subsection referred to as the "Program")—
 
 &emsp;&emsp;(A) to focus the Federal role in promoting optimal firefighting efficiency at the Federal, State, and local levels;
 

@@ -44,7 +44,7 @@ A State shall not be eligible to receive a grant from an allotment under section
 
 &emsp;&emsp;&emsp;(i) provide a range of services organized to tailor responses to needs rather than a predetermined array of services;
 
-&emsp;&emsp;&emsp;(ii) are rooted in and part of the communities that such systems are designed to serve as measured by the degree to which public and private community leaders and young individuals participate in the planning of such systems; and
+&emsp;&emsp;&emsp;(ii) are rooted in and part of the communities that such systems are designed toserve as measured by the degree to which public and private community leaders and young individuals participate in the planning of such systems; and
 
 &emsp;&emsp;&emsp;(iii) demonstrate an ability to develop systematic collaboration among service providers on behalf of children, youth and families, including joint planning, joint financing, joint service delivery, common intake and assessment, and other arrangements that promote more effective service systems for such individuals.
 

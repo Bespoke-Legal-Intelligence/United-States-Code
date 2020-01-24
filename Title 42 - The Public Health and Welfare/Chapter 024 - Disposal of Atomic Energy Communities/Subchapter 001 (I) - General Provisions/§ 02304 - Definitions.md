@@ -20,7 +20,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (f) The term "municipal installation" includes, without limitation, schools, hospitals, police and fire protection systems, sewerage and refuse disposal plants, water supply and distribution installations, streets and roads, libraries, parks, playgrounds and recreational means, municipal government buildings, other properties suitable for municipal or comparable local public service purposes, and any fixtures, equivalent, or other property appropriate to the operation, maintenance or repair of the foregoing.
 
-(g) The term "occupant" means a person who, on the date on which the property in question is first offered for sale, is entitled to residential occupancy of the Government-owned house in question, or of a family dwelling unit in such house, in accordance with a lease or license agreement with the Commission or its property-management contractor.
+(g) The term "occupant" means a person who, on the date on which the property in question is first offered for sale, is entitled to residential occupancy of the Government-owned house in question, or of a family dwelling unit in such house, in accordance with a lease or licenseagreement with the Commission or its property-management contractor.
 
 (h) The term "offering date" means the date the property in question is offered for sale.
 
@@ -28,7 +28,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (j) The term "project-connected person" means any person who, on the first offering date, is regularly employed at the project area in one of the following capacities:
 
-&emsp;(1) An officer or employee of the Commission or any of its contractors or subcontractors, orof the United States or any agency thereof (including members of the Armed Forces), or of a State or political subdivision or agency thereof;
+&emsp;(1) An officer or employee of the Commission or any of its contractors or subcontractors, or of the United States or any agency thereof (including members of the Armed Forces), or of a State or political subdivision or agency thereof;
 
 &emsp;(2) An officer or employee employed at a school or hospital located in the project area;
 

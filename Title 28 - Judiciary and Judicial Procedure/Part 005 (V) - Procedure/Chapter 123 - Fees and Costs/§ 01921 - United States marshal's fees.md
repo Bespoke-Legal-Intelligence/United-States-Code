@@ -82,7 +82,7 @@ The Comprehensive Forfeiture Act of 1984, referred to in subsec. (c)(1), is chap
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–646, §39(b), Nov. 10, 1986, 100 Stat. 3600, provided that: "The amendments made by this section \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\]."
+Pub. L. 99–646, §39(b), Nov. 10, 1986, 100 Stat. 3600, provided that: "The amendments made by this section\[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\]."
 
 #### Effective Date of 1962 Amendment
 

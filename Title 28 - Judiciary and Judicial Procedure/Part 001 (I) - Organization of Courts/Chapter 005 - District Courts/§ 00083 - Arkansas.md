@@ -4,27 +4,19 @@ Arkansas is divided into two judicial districts to be known as the Eastern and W
 
 ### Eastern District
 
-(a) The Eastern District comprises five divisions.
+(a) The Eastern District comprises three divisions.
 
-&emsp;&emsp;(1) The Eastern Division comprises the counties of Cross, Lee, Monroe, Phillips, Saint Francis, and Woodruff.
+&emsp;&emsp;(1) The Central Division comprises the counties of Cleburne, Cleveland, Conway, Dallas, Drew, Faulkner, Grant, Jefferson, Lincoln, Lonoke, Perry, Pope, Prairie, Pulaski, Saline, Stone, Van Buren, White, and Yell.
 
-&emsp;&emsp;Court for the Eastern Division shall be held at Helena.
+&emsp;&emsp;Court for the Central Division shall be held at Little Rock.
 
-&emsp;&emsp;(2) The Western Division comprises the counties of Conway, Faulkner, Lonoke, Perry, Pope, Prairie, Pulaski, Saline, Van Buren, White, and Yell.
+&emsp;&emsp;(2) The Delta Division comprises the counties of Arkansas, Chicot, Crittenden, Desha, Lee, Monroe, Phillips, and St. Francis.
 
-&emsp;&emsp;Court for the Western Division shall be held at Little Rock.
+&emsp;&emsp;Court for the Delta Division shall be held at Helena.
 
-&emsp;&emsp;(3) The Pine Bluff Division comprises the counties of Arkansas, Chicot, Cleveland, Dallas, Desha, Drew, Grant, Jefferson, and Lincoln.
+&emsp;&emsp;(3) The Northern Division comprises the counties of Clay, Craighead, Cross, Fulton, Greene, Independence, Izard, Jackson, Lawrence, Mississippi, Poinsett, Randolph, Sharp, and Woodruff.
 
-&emsp;&emsp;Court for the Pine Bluff Division shall be held at Pine Bluff.
-
-&emsp;&emsp;(4) The Northern Division comprises the counties of Cleburne, Fulton, Independence, Izard, Jackson, Sharp, and Stone.
-
-&emsp;&emsp;Court for the Northern Division shall be held at Batesville.
-
-&emsp;&emsp;(5) The Jonesboro Division comprises the counties of Clay, Craighead, Crittenden, Greene, Lawrence, Mississippi, Poinsett, and Randolph.
-
-&emsp;&emsp;Court for the Jonesboro Division shall be held at Jonesboro.
+&emsp;&emsp;Court for the Northern Division shall be held at Jonesboro.
 
 ### Western District
 
@@ -54,7 +46,7 @@ Arkansas is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Hot Springs Division shall be held at Hot Springs.
 
-(June 25, 1948, ch. 646, 62 Stat. 874; Pub. L. 87–36, §5, May 19, 1961, 75 Stat. 84; Pub. L. 108–455, §3, Dec. 10, 2004, 118 Stat. 3628.)
+(June 25, 1948, ch. 646, 62 Stat. 874; Pub. L. 87–36, §5, May 19, 1961, 75 Stat. 84; Pub. L. 108–455, §3, Dec. 10, 2004, 118 Stat. 3628; Pub. L. 116–73, §2, Nov. 26, 2019, 133 Stat. 1154.)
 
 #### Historical and Revision Notes
 
@@ -72,7 +64,13 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
+<b>2019</b>—Subsec. (a). Pub. L. 116–73 amended subsec. (a) generally. Prior to amendment, subsec. (a) designated the Eastern, Western, Pine Bluff, Northern, and Jonesboro Divisions within the Eastern District.
+
 <b>2004</b>—Subsec. (b)(1). Pub. L. 108–455 inserted ", and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas" after "held at Texarkana".
 
 <b>1961</b>—Subsec. (a). Pub. L. 87–36 struck out from enumeration in par. (1) the parish of Desha and in par. (2) the parishes of Arkansas, Chicot, Cleveland, Dallas, Drew, Grant, Jefferson, and Lincoln, added par. (3) consisting of such parishes, and redesignated former par. (3) and (4) as (4) and (5), respectively.
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–73, §3, Nov. 26, 2019, 133 Stat. 1154, provided that: "This Act \[amending this section and enacting provisions set out as a note under section 1 of this title\] and the amendment made by this Act shall take effect on the date of enactment of this Act \[Nov. 26, 2019\]."
 

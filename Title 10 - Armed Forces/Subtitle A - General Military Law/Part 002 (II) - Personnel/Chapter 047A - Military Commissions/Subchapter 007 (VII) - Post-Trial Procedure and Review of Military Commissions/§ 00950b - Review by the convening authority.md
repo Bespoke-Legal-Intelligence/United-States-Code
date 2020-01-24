@@ -12,7 +12,7 @@ Submittal of Matters by Accused to Convening Authority.—(1) The accused may su
 
 (B) If the accused shows that additional time is required for the accused to make a submittal under paragraph (1), the convening authority may, for good cause, extend the applicable period under subparagraph (A) for not more than an additional 20 days.
 
-(3) The accused may waive the accused's right to make a submittal to the convening authority under paragraph (1). Such a waiver shall be made in writing, and may not be revoked. For the purposes of subsection (c)(2), the time within which the accused may make a submittal underthis subsection shall be deemed to have expired upon the submittal of a waiver under this paragraph to the convening authority.
+(3) The accused may waive the accused's right to make a submittal to the convening authority under paragraph (1). Such a waiver shall be made in writing, and may not be revoked. For the purposes of subsection (c)(2), the time within which the accused may make a submittal under this subsection shall be deemed to have expired upon the submittal of a waiver under this paragraph to the convening authority.
 
 (c)
 
@@ -52,7 +52,7 @@ Order of Revision or Rehearing.—(1) Subject to paragraphs (2) and (3), the con
 
 (3) A rehearing may be ordered by the convening authority if the convening authority disapproves the findings and sentence and states the reasons for disapproval of the findings. If the convening authority disapproves the finding and sentence and does not order a rehearing, the convening authority shall dismiss the charges. A rehearing as to the findings may not be ordered by the convening authority when there is a lack of sufficient evidence in the record to support the findings. A rehearing as to the sentence may be ordered by the convening authority if the convening authority disapproves the sentence.
 
-(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2599; amended Pub. L. 113–291, div. A, title X, §1071(f)(10), Dec. 19, 2014, 128 Stat. 3510.)
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2599; amended Pub. L.113–291, div. A, title X, §1071(f)(10), Dec. 19, 2014, 128 Stat. 3510.)
 
 #### Prior Provisions
 

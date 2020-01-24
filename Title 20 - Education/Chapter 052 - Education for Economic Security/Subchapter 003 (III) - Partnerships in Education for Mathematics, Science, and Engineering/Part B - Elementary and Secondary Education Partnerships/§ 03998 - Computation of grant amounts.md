@@ -4,7 +4,7 @@
 
 #### (1) Payment by State
 
-&emsp;The State shall pay to the extent of amounts received by it from the Secretary under this part, to each applicant having an application approved under section 3997 of this title, the Federal share of the cost of the program described in the application.
+&emsp;The State shall pay to the extent of amounts received by it from the Secretary under this part, to each applicant having an applicationapproved under section 3997 of this title, the Federal share of the cost of the program described in the application.
 
 #### (2) Amount
 

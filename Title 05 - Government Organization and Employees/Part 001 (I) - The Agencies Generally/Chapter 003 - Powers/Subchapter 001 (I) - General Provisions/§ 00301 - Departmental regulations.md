@@ -1,6 +1,6 @@
 ### §301. Departmental regulations
 
-The head of an Executive department or military department may prescribe regulations for the government of his department, the conduct of its employees, the distribution and performance of its business, and the custody, use, and preservation of its records, papers, and property. This section does not authorize withholding information from the public or limiting the availability of records to the public.
+The head of an Executive department or military department may prescribe regulations forthe government of his department, the conduct of its employees, the distribution and performance of its business, and the custody, use, and preservation of its records, papers, and property. This section does not authorize withholding information from the public or limiting the availability of records to the public.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 379.)
 
@@ -124,7 +124,7 @@ Procedures for assigning codes.—Not later than 3 months after the date on whic
 
 &emsp;"(2)
 
-Code assignments.—Not later than 1 year after the date after the procedures are established under paragraph (1)(E), the head of each Federal agencyshall complete assignment of the appropriate employment code to each position within the agency with information technology, cybersecurity, or other cyber-related functions.
+Code assignments.—Not later than 1 year after the date after the procedures are established under paragraph (1)(E), the head of each Federal agency shall complete assignment of the appropriate employment code to each position within the agency with information technology, cybersecurity, or other cyber-related functions.
 
 "(c)
 
@@ -406,7 +406,7 @@ State certification.—
 
 &emsp;&emsp;"(A)
 
-In general.—Each State shall certify to the Secretary of Health and Human Services that the State is in compliance with the requirements of this section.
+In general.—Each State shall certify to the Secretary of Health and Human Services that theState is in compliance with the requirements of this section.
 
 &emsp;&emsp;"(B)
 

@@ -80,11 +80,11 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 (B) The Cash Management Improvement Act of 1990 shall not apply to any payments or fees required under this subsection that are paid by a State before the date required by subparagraph (A)(i).
 
-(C) Notwithstanding subparagraph (A)(i), the Commissioner may make supplementary payments on behalf of a State with funds appropriated for payment of benefits under this subchapter, and subsequently to be reimbursed for such payments by the State at such times as the Commissioner and State may agree. Such authority may be exercised only if extraordinarycircumstances affecting a State's ability to make payment when required by subparagraph (A)(i) are determined by the Commissioner to exist.
+(C) Notwithstanding subparagraph (A)(i), the Commissioner may make supplementary payments on behalf of a State with funds appropriated for payment of benefits under this subchapter, and subsequently to be reimbursed for such payments by the State at such times as the Commissioner and State may agree. Such authority may be exercised only if extraordinary circumstances affecting a State's ability to make payment when required by subparagraph (A)(i) are determined by the Commissioner to exist.
 
 #### (e) State standards; establishment; annual public review; annual certification; payments to individuals
 
-(1) Each State shall establish or designate one or more State or local authorities which shall establish, maintain, and insure the enforcement of standards for any category of institutions, foster homes, or group living arrangements in which (as determined by the State) a significant number of recipients of supplemental security income benefits is residing or is likely to reside. Such standards shall be appropriate to the needs of such recipients and the character of the facilities involved, and shall govern such matters as admission policies, safety, sanitation, and protection of civil rights.
+(1) Each State shall establish or designate one or more State or local authorities which shallestablish, maintain, and insure the enforcement of standards for any category of institutions, foster homes, or group living arrangements in which (as determined by the State) a significant number of recipients of supplemental security income benefits is residing or is likely to reside. Such standards shall be appropriate to the needs of such recipients and the character of the facilities involved, and shall govern such matters as admission policies, safety, sanitation, and protection of civil rights.
 
 (2) Each State shall annually make available for public review a summary of the standards established pursuant to paragraph (1), and shall make available to any interested individual a copy of such standards, along with the procedures available in the State to insure the enforcement of such standards and a list of any waivers of such standards and any violations of such standards which have come to the attention of the authority responsible for their enforcement.
 
@@ -132,7 +132,7 @@ Pub. L. 105–33, §5102(b)(1)(A), amended par. (4) generally. Prior to amendmen
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–170, title IV, §410(b), Dec. 17, 1999, 113 Stat. 1917, as amended by Pub. L. 106–554, §1(a)(1) \[title V, §515\], Dec. 21, 2000, 114 Stat. 2763, 2763A–72, provided that: "The amendments made by subsection (a) \[amending this section and provisions set out as a note under section 1382 of this title\] shall apply to payments and fees arising under an agreement between a State and the Commissioner of Social Security under section 1616 of the Social Security Act (42 U.S.C. 1382e) or under section 212 of Public Law 93-66 (42 U.S.C. 1382 note) with respect to monthly benefits paid to individuals under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] for months after September 2001 (October 2001 in the case of a State with a fiscal year that coincides with the Federal fiscal year), without regard to whether the agreement has been modified to reflect such amendments or the Commissioner has promulgated regulations implementing such amendments."
+Pub. L. 106–170, title IV, §410(b), Dec. 17, 1999, 113 Stat. 1917, as amended by Pub. L. 106–554, §1(a)(1) \[title V, §515\], Dec. 21, 2000, 114 Stat. 2763, 2763A–72, provided that: "The amendments made by subsection (a) \[amending this section and provisions set out as a note under section 1382 of this title\] shall apply to payments and fees arising under an agreement between a State and the Commissioner of Social Security under section1616 of the Social Security Act (42 U.S.C. 1382e) or under section 212 of Public Law 93-66 (42 U.S.C. 1382 note) with respect to monthly benefits paid to individuals under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] for months after September 2001 (October 2001 in the case of a State with a fiscal year that coincides with the Federal fiscal year), without regard to whether the agreement has been modified to reflect such amendments or the Commissioner has promulgated regulations implementing such amendments."
 
 #### Effective Date of 1994 Amendment
 
@@ -180,11 +180,11 @@ Pub. L. 93–233, §8(d), Dec. 31, 1973, 87 Stat. 957, as added by Pub. L. 94–
 
 &emsp;"(1) the Secretary has found (under this subsection or subsection (c), as in effect in December 1980) that such State's supplementary payments in December 1980 were increased to include the bonus value of food stamps; and
 
-&emsp;"(2) such State continues without interruption to meet the requirements of section 1618 of such Act\[section 1382g of this title\] for each month after the month referred to in paragraph (1) and up to and including the month for which the Secretary is making the determination."
+&emsp;"(2) such State continues without interruption to meet the requirements of section 1618 of such Act \[section 1382g of this title\] for each month after the month referred to in paragraph (1) and up to and including the month for which the Secretary is making the determination."
 
 \[Pub. L. 97–18, §2, June 30, 1981, 95 Stat. 102, provided that the amendment of section 8(d) of Pub. L. 93–233, set out above, by Pub. L. 97–18 is effective for the period July 1, 1981, to Aug. 31, 1981.\]
 
-\[Pub. L. 97–35, title XXIII, §2342(b), Aug. 13, 1981, 95 Stat. 866, provided that the amendment of section 8(d) of Pub. L. 93–233, set out above, by section 2342(a) of Pub. L. 97–35 is effective July 1, 1981.\]
+\[Pub. L. 97–35, title XXIII, §2342(b), Aug. 13, 1981, 95 Stat. 866, provided that the amendment of section 8(d)of Pub. L. 93–233, set out above, by section 2342(a) of Pub. L. 97–35 is effective July 1, 1981.\]
 
 #### Adjusted Payment Level; Payment Level Modification
 
@@ -232,7 +232,7 @@ Pub. L. 92–603, title IV, §401, Oct. 30, 1972, 86 Stat. 1485, as amended by P
 
 &emsp;"(B) the bonus value of food stamps \[probably should be "benefits"\] in such State for January 1972 (as defined in paragraph (3) of this subsection).
 
-"(2) For purposes of paragraph (1), the term 'payment level modification' with respect to any State planmeans that amount by which a State which for January 1972 made money payments under such plan to individuals with no other income which were less than 100 per centum of its standard of need could have increased such money payments without increasing (if it reduced its standard of need under such plan so that such increased money payments equaled 100 per centum of such standard of need) the non-Federal share of expenditures as aid or assistance for quarters in calendar year 1972 under the plans of such State approved under titles I, X, XIV, and XVI of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\].
+"(2) For purposes of paragraph (1), the term 'payment level modification' with respect to any State plan means that amount by which a State which for January 1972 made money payments under such plan to individuals with no other income which were less than 100 per centum of its standard of need could have increased such money payments without increasing (if it reduced its standard of need under such plan so that such increased money payments equaled 100 per centum of such standard of need) the non-Federal share of expenditures as aid or assistance for quarters in calendar year1972 under the plans of such State approved under titles I, X, XIV, and XVI of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\].
 
 "(3) For purposes of paragraph (1), the term 'bonus value of benefits in a State for January 1972' (with respect to an individual) means—
 

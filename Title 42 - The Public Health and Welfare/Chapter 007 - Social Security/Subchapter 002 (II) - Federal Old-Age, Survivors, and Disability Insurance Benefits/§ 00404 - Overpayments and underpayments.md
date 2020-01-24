@@ -40,7 +40,7 @@
 
 (3)(A) In making for purposes of this subsection any determination of whether such adjustment or recovery would defeat the purpose of this subchapter, the Commissioner of Social Security shall require an individual to provide authorization for the Commissioner to obtain (subject to the cost reimbursement requirements of section 1115(a) of the Right to Financial Privacy Act \[12 U.S.C. 3415\]) from any financial institution (within the meaning of section 1101(1) of such Act \[12 U.S.C. 3401(1)\]) any financial record (within the meaning of section 1101(2) of such Act \[12 U.S.C. 3401(2)\]) held by the institution with respect to such individual whenever the Commissioner determines the record is needed in connection with a determination with respect to such adjustment or recovery.
 
-(B) Notwithstanding section 1104(a)(1) of the Right to Financial Privacy Act \[12 U.S.C. 3404(a)(1)\], an authorization provided by an individual pursuant this paragraph shall remain effective until the earlier of—
+(B) Notwithstanding section 1104(a)(1) of the Right to Financial Privacy Act \[12 U.S.C.3404(a)(1)\], an authorization provided by an individual pursuant this paragraph shall remain effective until the earlier of—
 
 &emsp;(i) the rendering of a final decision on whether adjustment or recovery would defeat the purpose of this subchapter; or
 
@@ -66,7 +66,7 @@ If an individual dies before any payment due him under this subchapter is comple
 
 &emsp;(1) to the person, if any, who is determined by the Commissioner of Social Security to be the surviving spouse of the deceased individual and who either (i) was living in the same household with the deceased at the time of his death or (ii) was, for the month in which the deceased individual died, entitled to a monthly benefit on the basis of the same wages and self-employment income as was the deceased individual;
 
-&emsp;(2) if there is no person who meets the requirements of paragraph (1), or if the person who meets such requirements dies before thepayment due him under this subchapter is completed, to the child or children, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
+&emsp;(2) if there is no person who meets the requirements of paragraph (1), or if the person who meets such requirements dies before the payment due him under this subchapter is completed, to the child or children, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
 
 &emsp;(3) if there is no person who meets the requirements of paragraph (1) or (2), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such parent, in equal parts to each such parent);
 
@@ -84,7 +84,7 @@ For payments which are adjusted by reason of payment of benefits under the suppl
 
 #### (f) Collection of delinquent amounts
 
-(1) With respect to any deliquent <sup>1</sup> amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, all as in effect immediately after April 26, 1996.
+(1) With respect to any deliquent <sup>2</sup> amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, all as in effect immediately after April 26, 1996.
 
 (2) For purposes of paragraph (1), the term "delinquent amount" means an amount—
 
@@ -144,7 +144,7 @@ Subsec. (a)(1). Pub. L. 90–248, §153(a), inserted last sentence which provide
 
 Subsec. (a)(2). Pub. L. 90–248, §152(a), incorporated in par. (2) part of existing provisions and broadened Secretary's authority to provide that in the case of underpayments, the Secretary is to pay the balance due the underpaid person but if he dies before receiving the full amount due him or before negotiating checks representing the correct payments, the balance due or the amount for which the checks were issued but not negotiated are to be paid under subsec. (d) of this section.
 
-Subsec. (b). Pub. L. 90–248, §152(b), authorized the Secretary to waive adjustment or recovery of overpayments from any person who is without fault, even where he is not the overpaid person and the latter is at fault, whereas heretofore a condition for waiver was that the overpaid person be without fault.
+Subsec. (b). Pub. L. 90–248, §152(b), authorized the Secretary to waive adjustment or recovery of overpayments from any person who is without fault, evenwhere he is not the overpaid person and the latter is at fault, whereas heretofore a condition for waiver was that the overpaid person be without fault.
 
 Subsec. (d). Pub. L. 90–248, §154(a), struck out, in text preceding par. (1), provision excepting subsec. (d) from subsec. (a) and provision that the total amount due at the time of death may not exceed the amount of the monthly insurance benefit to which an individual was entitled for the month preceding the month in which he died, added cl. (ii) in par. (1), added pars. (2) to (6), designated existing provisions as par. (7) and inserted therein references to pars. (1) to (6).
 
@@ -180,7 +180,7 @@ Amendment by section 203(c) of Pub. L. 106–169 applicable to debt outstanding 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–306, §8(c), Oct. 28, 1998, 112 Stat. 2930, provided that: "The amendments made by this section \[enacting section 1320b–17 of this title and amending this section and section 1383 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\]and shall apply to amounts incorrectly paid which remain outstanding on or after such date."
+Pub. L. 105–306, §8(c), Oct. 28, 1998, 112 Stat. 2930, provided that: "The amendments made by this section \[enacting section 1320b–17 of this title and amending this section and section 1383 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\] and shall apply to amounts incorrectly paid which remain outstanding on or after such date."
 
 #### Effective Date of 1994 Amendments
 
@@ -218,9 +218,9 @@ Pub. L. 114–74, title VIII, §845(c), Nov. 2, 2015, 129 Stat. 619, provided th
 
 &emsp;"(1) the number and total value of overpayments recovered or scheduled to be recovered by the Social Security Administration during the previous fiscal year of benefits under title II and title XVI \[probably means title II and title XVI of act Aug. 14, 1935, ch. 531, which are classified to 42 U.S.C. 401 et seq. and 42 U.S.C. 1381 et seq.\], respectively, including the terms and conditions of repayment of such overpayments; and
 
-&emsp;"(2) the number and total value of overpayments waived by the Social Security Administration during the previous fiscal year of benefits under title II and title XVI, respectively."
+&emsp;"(2) the number and total value of overpayments waived by the Social Security Administration duringthe previous fiscal year of benefits under title II and title XVI, respectively."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>1</sup></i><i> So in original. Probably should be "delinquent".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "delinquent".</i>
 

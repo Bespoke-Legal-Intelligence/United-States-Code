@@ -14,7 +14,7 @@ No State or political subdivision of a State may regulate in foreign commerce an
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), no State or political subdivision of a State may regulate the movement in interstate commerce of any article, means of conveyance, plant, biological control organism, plant pest, noxious weed, or plant product in order to control a plant pest or noxious weed, eradicate a plant pest or noxious weed, or prevent the introduction or dissemination of a biological control organism, plant pest, or noxious weed, if the Secretary has issued a regulation or order to prevent the dissemination of the biological control organism, plant pest, or noxious weed within the United States.
+&emsp;Except as provided in paragraph (2), no State or political subdivision of a State may regulate the movement in interstate commerce of any article, means of conveyance, plant, biological control organism, plant pest, noxious weed, or plant product in order to control a plant pest or noxious weed, eradicate a plant pest or noxious weed, or prevent the introduction or dissemination of a biological control organism, plant pest, or noxious weed, if theSecretary has issued a regulation or order to prevent the dissemination of the biological control organism, plant pest, or noxious weed within the United States.
 
 #### (2) Exceptions
 

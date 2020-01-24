@@ -86,7 +86,7 @@
 
 #### (4) Removal to bankruptcy court
 
-&emsp;Upon the issuance of a protective decree and appointment of a trustee, or a trustee and counsel, under this section, the court shall forthwith order the removal of the entire liquidation proceeding to the court of the UnitedStates in the same judicial district having jurisdiction over cases under title 11. The latter court shall thereupon have all of the jurisdiction, powers, and duties conferred by this chapter upon the court to which application for the issuance of the protective decree was made.
+&emsp;Upon the issuance of a protective decree and appointment of a trustee, or a trustee and counsel, under this section, the court shall forthwith order the removal of the entire liquidation proceeding to the court of the United States in the same judicial district having jurisdiction over cases under title 11. The latter court shall thereupon have all of the jurisdiction, powers, and duties conferred by this chapter upon the court to which application for the issuance of the protective decree was made.
 
 #### (5) Compensation for services and reimbursement of expenses
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(iv) it appears that such person has, by reason of any other direct or indirect relationship to, connection with, or interest in the debtor or such an underwriter, or for any other reason, an interest materially adverse to the interests of any class of creditors (including customers) or stockholders,
 
-> &emsp;&emsp;except that SIPC shall in all cases be deemed disinterested, and an employee of SIPC shall be deemed disinterested if such employee would, except for his association with SIPC, meet the standards set forth in this subparagraph.
+> &emsp;&emsp;except that SIPC shall in all cases be deemed disinterested, and an employee ofSIPC shall be deemed disinterested if such employee would, except for his association with SIPC, meet the standards set forth in this subparagraph.
 
 #### (B) Hearing
 
@@ -182,7 +182,7 @@ Subsec. (b)(5)(D). Pub. L. 95–598, §308(f)(2), (4), (5), redesignated subpar.
 
 Subsec. (b)(5)(E), (F). Pub. L. 95–598, §308(f)(5), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
-Subsec. (b). Pub. L. 95–283, §7(b), in par. (1) inserted "protective" after "of" in heading and substituted provisions relating to issuance of protective decrees, for provisions relating to specific findings necessary for issuance of a decree and uncontested, etc., applications, in par. (2) substituted "Jurisdiction and powers of court" for "Exclusive jurisdiction over debtor" in heading and substituted provisions setting forth jurisdiction and powers of court with respect to exclusivity of such jurisdiction, for provisions relating to exclusive jurisdiction over the debtor, in par. (3) inserted "and attorney" after "trustee" in heading and substituted provisions relating to appointment of trustee and attorney, for provisions relating to appointment of trustee, in par. (4) substituted "Reference to referee in bankruptcy" for "Debtor and filing date defined" in headingand substituted provisions relating to reference to referee in bankruptcy, for provisions defining terms "debtor" and "filing date", and added pars. (5) and (6).
+Subsec. (b). Pub. L. 95–283, §7(b), in par. (1) inserted "protective" after "of" in heading and substituted provisions relating to issuance of protective decrees, for provisions relating to specific findings necessary for issuance of a decree and uncontested, etc., applications, in par. (2) substituted "Jurisdiction and powers of court" for "Exclusive jurisdiction over debtor" in heading and substituted provisions setting forth jurisdiction and powers of court with respect to exclusivity of such jurisdiction, for provisions relating to exclusive jurisdiction over the debtor, in par. (3) inserted "and attorney" after "trustee" in heading and substituted provisions relating to appointment of trustee and attorney, for provisions relating to appointment of trustee, in par. (4) substituted "Reference to referee in bankruptcy" for "Debtor and filing date defined" in heading and substituted provisions relating to reference to referee in bankruptcy, for provisions defining terms "debtor" and "filing date", and added pars. (5) and (6).
 
 Subsec. (d). Pub. L. 95–283, §7(c), added subsec. (d).
 

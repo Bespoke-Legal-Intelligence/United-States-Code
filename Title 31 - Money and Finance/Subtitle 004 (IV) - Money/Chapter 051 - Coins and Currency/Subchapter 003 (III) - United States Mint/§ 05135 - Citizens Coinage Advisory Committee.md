@@ -30,7 +30,7 @@ Appointment.—The Advisory Committee shall consist of 11 members appointed by t
 
 &emsp;&emsp;&emsp;(iv) one of whom shall be appointed from among individuals who are specially qualified to serve on the Advisory Committee by virtue of their education, training, or experience in numismatics; and
 
-&emsp;&emsp;&emsp;(v) three of whom shall be appointed from among individuals who can represent the interests of the general public in the coinage of the United States.
+&emsp;&emsp;&emsp;(v) three of whom shall be appointed from among individuals who can representthe interests of the general public in the coinage of the United States.
 
 &emsp;&emsp;(B) Four persons appointed by the Secretary on the basis of the recommendations of the following officials who shall make the selection for such recommendation from among citizens who are specially qualified to serve on the Advisory Committee by virtue of their education, training, or experience:
 
@@ -140,7 +140,7 @@ Annual Report.—
 
 &emsp;(1)
 
-Required.—Not later than September 30 of each year, the Advisory Committee shall submit a report to the Secretary, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate. Should circumstances arise in which the Advisory Committee cannot meet the September 30 deadline in any year, the Secretary shall advise the Chairpersons of the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of the reasons for such delay and the date on which the submission of the report is anticipated.
+Required.—Not later than September 30 of each year, the Advisory Committee shall submit a report to the Secretary, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate. Should circumstances arise in which the Advisory Committee cannot meet the September 30 deadline in any year, the Secretary shall advise the Chairpersons of the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing,and Urban Affairs of the Senate of the reasons for such delay and the date on which the submission of the report is anticipated.
 
 &emsp;(2)
 

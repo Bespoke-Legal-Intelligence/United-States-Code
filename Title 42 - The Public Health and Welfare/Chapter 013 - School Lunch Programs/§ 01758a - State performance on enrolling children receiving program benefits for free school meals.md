@@ -10,9 +10,9 @@ The assessment of the Secretary of the performance of each State shall include�
 
 &emsp;(1) an estimate of the number of school-aged children, by State, who were members of a household receiving program benefits at any time in July, August, or September of the prior year;
 
-&emsp;(2) an estimate of the number of school-aged children, by State, who were directly certifiedas eligible for free lunches under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.), based on receipt of program benefits, as of October 1 of the prior year; and
+&emsp;(2) an estimate of the number of school-aged children, by State, who were directly certified as eligible for free lunches under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.), based on receipt of program benefits, as of October 1 of the prior year; and
 
-&emsp;(3) an estimate of the number of school-aged children, by State, who were members of a household receiving program benefits at any time in July, August, or September of the prior year who were not candidates for direct certification because on October 1 of the prior year the children attended a school operating under the special assistance provisions of section 11(a)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1759a(a)(1)) that is not operating in a base year.
+&emsp;(3) an estimate of the number of school-aged children, by State, who were members of a household receiving program benefits at any time in July, August, or September of theprior year who were not candidates for direct certification because on October 1 of the prior year the children attended a school operating under the special assistance provisions of section 11(a)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1759a(a)(1)) that is not operating in a base year.
 
 #### (c) Performance innovations
 
@@ -31,10 +31,6 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(2),
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Richard B. Russell National School Lunch Act which comprises this chapter.
-
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date
 

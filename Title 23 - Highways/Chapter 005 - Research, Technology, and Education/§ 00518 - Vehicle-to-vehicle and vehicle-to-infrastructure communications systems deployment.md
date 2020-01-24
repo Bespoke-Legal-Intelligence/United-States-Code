@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Not later than July 6, 2016, the Secretary shall make available to the publicon a Department of Transportation website a report that—
+In General.—Not later than July 6, 2016, the Secretary shall make available to the public on a Department of Transportation website a report that—
 
 &emsp;(1) assesses the status of dedicated short-range communications technology and applications developed through research and development;
 

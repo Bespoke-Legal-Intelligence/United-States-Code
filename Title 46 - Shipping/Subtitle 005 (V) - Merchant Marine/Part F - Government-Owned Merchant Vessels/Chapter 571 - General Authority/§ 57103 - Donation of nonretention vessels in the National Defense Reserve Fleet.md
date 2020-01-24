@@ -12,7 +12,7 @@ In General.—The Secretary of Transportation may convey the right, title, and i
 
 &emsp;(4) agrees to hold the Government harmless for any claims arising from exposure to asbestos, polychlorinated biphenyls, lead paint, or other hazardous substances after conveyance of the vessel, except for claims arising from use of the vessel by the Government;
 
-&emsp;(5) has a conveyance plan and a business plan that describes the intended use of thevessel, each of which has been submitted to and approved by the Secretary;
+&emsp;(5) has a conveyance plan and a business plan that describes the intended use of the vessel, each of which has been submitted to and approved by the Secretary;
 
 &emsp;(6) has provided proof, as determined by the Secretary, of resources sufficient to accomplish the transfer, necessary repairs and modifications, and initiation of the intended use of the vessel; and
 

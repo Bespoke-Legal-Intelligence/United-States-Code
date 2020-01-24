@@ -16,7 +16,7 @@ If the State elects to avail itself of the benefits of this chapter by preparing
 
 #### (c) Costs
 
-Administrative costs in the form of overhead or indirect costs for services provided by State central service activities outside of the State agency having primary jurisdiction over the wildlife resources of the State which may be charged against programs or projects supported by the fund established by section 669b of this title shall not exceed in any one fiscal year 3 per centum of the annual apportionment to the State.
+Administrative costs in the form of overhead or indirect costs for services provided by State central service activities outside of the State agency having primary jurisdiction over the wildlife resources of the State which may becharged against programs or projects supported by the fund established by section 669b of this title shall not exceed in any one fiscal year 3 per centum of the annual apportionment to the State.
 
 (Sept. 2, 1937, ch. 899, §6, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1099.)
 

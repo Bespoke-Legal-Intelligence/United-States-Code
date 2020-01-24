@@ -38,7 +38,7 @@
 
 (d) With respect to equipment first placed in service on or before October 22, 1994, for purposes of this section—
 
-&emsp;(1) the term "lease" includes any written agreement with respect to which the lessor and the debtor, as lessee, have expressed in theagreement or in a substantially contemporaneous writing that the agreement is to be treated as a lease for Federal income tax purposes; and
+&emsp;(1) the term "lease" includes any written agreement with respect to which the lessor and the debtor, as lessee, have expressed in the agreement or in a substantially contemporaneous writing that the agreement is to be treated as a lease for Federal income tax purposes; and
 
 &emsp;(2) the term "security interest" means a purchase-money equipment security interest.
 
@@ -70,7 +70,7 @@ The effect of this section will be the same if the debtor has granted the securi
 
 "(a) The right of a secured party with a purchase-money equipment security interest in, or of a lessor or conditional vendor of, whether as trustee or otherwise, aircraft, aircraft engines, propellers, appliances, or spare parts, as defined in section 40102(a) of title 49, or vessels of the United States, as defined in section 30101 of title 46, that are subject to a purchase-money equipment security interest granted by, leased to, or conditionally sold to, a debtor that is an air carrier operating under a certificate of convenience and necessity issued by the Secretary of Transportation, or a water carrier that holds a certificate of public convenience and necessity or permit issued by the Interstate Commerce Commission, as the case may be, to take possession of such equipment in compliance with the provisions of a purchase-money equipment security agreement, lease, or conditional sale contract, as the case may be, is not affected by section 362 or 363 of this title or by any power of the court to enjoin such taking of possession, unless—
 
-&emsp;"(1) before 60 days after the date of the order for relief under this chapter, the trustee, subject to the court's approval, agrees to perform all obligations of the debtor that become due on or after such date under such security agreement, lease, or conditional sale contract, as the case may be; and
+&emsp;"(1) before 60 days after the date of the order for relief under this chapter, the trustee, subject to thecourt's approval, agrees to perform all obligations of the debtor that become due on or after such date under such security agreement, lease, or conditional sale contract, as the case may be; and
 
 &emsp;"(2) any default, other than a default of a kind specified in section 365(b)(2) of this title, under such security agreement, lease, or conditional sale contract, as the case may be—
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, with this section, as am
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwiseprovided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
 #### Aircraft Equipment Settlement Leases
 

@@ -44,7 +44,7 @@ Agency information.—
 
 &emsp;&emsp;(C)
 
-Investment evaluation.—For each major information technology investment listed under subparagraph (A), the Chief Information Officer of the covered agency, in consultation with other appropriate agencyofficials, shall categorize the investment according to risk, in accordance with guidance issued by the Director.
+Investment evaluation.—For each major information technology investment listed under subparagraph (A), the Chief Information Officer of the covered agency, in consultation with other appropriate agency officials, shall categorize the investment according to risk, in accordance with guidance issued by the Director.
 
 &emsp;&emsp;(D)
 
@@ -86,7 +86,7 @@ Risk management.—For each major information technology investment listed under
 
 &emsp;&emsp;(C) in the case of a major information technology investment of the Department of Defense, the assessment required by subparagraph (A) may be accomplished in accordance with section 2445c of title 10, provided that the results of the review are provided to the Administrator of the Office of Electronic Government upon request and to the committees identified in subsection (B); and
 
-&emsp;&emsp;(D) for a covered agency other than the Department of Defense, if on the date that is one year after the date of completion of the review required under subsection (A), the investment is rated as high risk under paragraph (3)(C), the Director shall deny any request for additional development, modernization, or enhancement funding for the investment until the date on which the Chief Information Officer of the covered agency determines that the root causes of the high level of risk of the investment have been addressed, and there is sufficient capability to deliver the remaining planned increments within the planned cost and schedule.
+&emsp;&emsp;(D) for a covered agency other than the Department of Defense, if on the date that isone year after the date of completion of the review required under subsection (A), the investment is rated as high risk under paragraph (3)(C), the Director shall deny any request for additional development, modernization, or enhancement funding for the investment until the date on which the Chief Information Officer of the covered agency determines that the root causes of the high level of risk of the investment have been addressed, and there is sufficient capability to deliver the remaining planned increments within the planned cost and schedule.
 
 &emsp;(5)
 
@@ -155,6 +155,10 @@ Section 3542 of title 44, referred to in subsec. (c)(1)(C), was repealed by Pub.
 <b>2004</b>—Subsec. (b). Pub. L. 108–458, §8401(1), inserted "security," after "use,".
 
 Subsec. (c)(1). Pub. L. 108–458, §8401(2), inserted ", including information security risks," after "evaluating the risks" and "costs, benefits, and risks".
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Management of Software Licenses
 
@@ -234,7 +238,7 @@ GAO Report.—Not later than one year after the date on which the regulations re
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'executive agency' has the meaning given that term in section 4(1) of the Office of FederalProcurement Policy Act (former 41 U.S.C. 403(1)) \[now 41 U.S.C. 133\].
+&emsp;"(1) The term 'executive agency' has the meaning given that term in section 4(1) of the Office of Federal Procurement Policy Act (former 41 U.S.C. 403(1)) \[now 41 U.S.C. 133\].
 
 &emsp;"(2) The term 'information technology' has the meaning given that term in section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3)) \[now 40 U.S.C. 11101(6)\].
 

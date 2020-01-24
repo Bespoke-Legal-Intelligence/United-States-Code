@@ -156,7 +156,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;(B) with respect to each other State in such region in which it does not meet requirements, it demonstrates to the satisfaction of the Secretary that it has filed the necessary application to meet such requirements,
 
-> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as theSecretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
+> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as the Secretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
 
 #### (2) Selection of appropriate State
 
@@ -242,7 +242,7 @@ An MA regional plan shall include the following:
 
 #### (iii) Equal division among multiple plans in year in which plans are first available
 
-&emsp;&emsp;&emsp;In the case of an MA region in the first year in which any MA regional plan is offered, if more than one MA regional plan is offered in such year, the factor describedin this subparagraph for a plan shall (as specified by the Secretary) be equal to—
+&emsp;&emsp;&emsp;In the case of an MA region in the first year in which any MA regional plan is offered, if more than one MA regional plan is offered in such year, the factor described in this subparagraph for a plan shall (as specified by the Secretary) be equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) 1 divided by the number of such plans offered in such year; or
 
@@ -302,13 +302,13 @@ Subsec. (f)(1). Pub. L. 111–148, §3201(a)(2)(C)(i), (f)(2)(A), which directed
 
 Subsec. (f)(3)(A). Pub. L. 111–148, §3201(a)(2)(C)(ii), which directed substitution of "1395w–23(j)(1)(A)(i)" for "1395w–23(j)(1)(A)", was repealed by Pub. L. 111–152, §1102(a). See Effective Date of 2010 Amendment note below.
 
-Subsec. (i). Pub. L. 111–148, §3201(f)(2)(B), which directed addition of subsec. (i), was repealed by Pub. L. 111–152, §1102(a). As enacted, text read as follows: "For years beginning with 2014, the Secretary shall apply the performance bonuses under section 1395w–23(n) of this title (relating to bonuses for care coordination and management, quality performance, and new and low enrollment MA plans) to MA regional plans in a similar manner as such performance bonuses apply to MA plansunder such subsection." See Effective Date of 2010 Amendment note below.
+Subsec. (i). Pub. L. 111–148, §3201(f)(2)(B), which directed addition of subsec. (i), was repealed by Pub. L. 111–152, §1102(a). As enacted, text read as follows: "For years beginning with 2014, the Secretary shall apply the performance bonuses under section 1395w–23(n) of this title (relating to bonuses for care coordination and management, quality performance, and new and low enrollment MA plans) to MA regional plans in a similar manner as such performance bonuses apply to MA plans under such subsection." See Effective Date of 2010 Amendment note below.
 
 <b>2009</b>—Subsec. (e)(7). Pub. L. 111–8 struck out par. (7) which related to biennial GAO reports to be submitted by the Comptroller General to the Secretary and Congress.
 
 <b>2008</b>—Subsec. (e)(2)(A)(i). Pub. L. 110–275 substituted "2014" for "2013" and "$1" for "$1,790,000,000".
 
-<b>2007</b>—Subsec. (e)(2)(A)(i). Pub. L. 110–173, which directed substitution of "the Fund during 2013, $1,790,000,000." for "the Fund" and all that follows, was executed by making the substitution for "the Fund—
+<b>2007</b>—Subsec. (e)(2)(A)(i). Pub. L. 110–173, which directed substitution of "the Fund during 2013,$1,790,000,000." for "the Fund" and all that follows, was executed by making the substitution for "the Fund—
 
 &emsp;"(I) during 2012, $1,600,000,000; and
 

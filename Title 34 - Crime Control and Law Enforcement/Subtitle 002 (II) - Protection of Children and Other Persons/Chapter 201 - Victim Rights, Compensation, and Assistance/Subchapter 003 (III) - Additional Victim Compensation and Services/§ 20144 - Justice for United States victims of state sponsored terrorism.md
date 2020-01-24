@@ -24,7 +24,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (B) Administrative costs and use of Department of Justice personnel
 
-&emsp;&emsp;The Special Master may utilize, as necessary, no more than 5 full-time equivalent Department of Justice personnel to assist in carrying out the duties of the Special Master under this section. Any costs associated with the use of such personnel, and any other administrative costs of carrying out this section, shall be paid from the Fund.
+&emsp;&emsp;The Special Master may utilize, as necessary, no more than 5 full-time equivalent Department of Justice personnel to assist in carrying out the duties of the Special Master under this section, except that, during the 1-year period beginning on November 21, 2019, the Special Master may utilize an additional 5 full-time equivalent Department of Justice personnel. Any costs associated with the use of such personnel, and any other administrative costs of carrying out this section, shall be paid from the Fund.
 
 #### (C) Compensation of Special Master
 
@@ -34,7 +34,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days after the date of the initial appointment of the Special Master,the Special Master shall publish in the Federal Register and on a website maintained by the Department of Justice a notice specifying the procedures necessary for United States persons to apply and establish eligibility for payment, including procedures by which eligible United States persons may apply by and through their attorney. Such notice is not subject to the requirements of section 553 of title 5.
+&emsp;&emsp;Not later than 60 days after the date of the initial appointment of the Special Master, the Special Master shall publish in the Federal Register and on a website maintained by the Department of Justice a notice specifying the procedures necessary for United States persons to apply and establish eligibility for payment, including procedures by which eligible United States persons may apply by and through their attorney. Not later than 30 days after the date of enactment of the United States Victims of State Sponsored Terrorism Fund Clarification Act, the Special Master shall update, as necessary as a result of the enactment of such Act, such procedures and other guidance previously issued by the Special Master. Such notice and any updates to that notice or other guidance are not subject to the requirements of section 553 of title 5.
 
 #### (B) Information regarding other sources of compensation
 
@@ -76,7 +76,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 &emsp;&emsp;&emsp;(ii) arising from acts of international terrorism, for which the foreign state was determined not to be immune from the jurisdiction of the courts of the United States under section 1605A, or section 1605(a)(7) (as such section was in effect on January 27, 2008), of title 28;
 
-&emsp;&emsp;(B) the sum total of $10,000 per day for each day that a United States person was taken and held hostage from the United States embassy in Tehran, Iran, during the period beginning November 4, 1979, and ending January 20, 1981, if such person is identified as a member of the proposed class in case number 1:00-CV-03110 (EGS) of the United States District Court for the District of Columbia; or
+&emsp;&emsp;(B) the sum total of $10,000 per day for each day that a United States person was taken and held hostage from the United States embassy in Tehran, Iran, during the period beginning November 4, 1979, and ending January 20, 1981; or
 
 &emsp;&emsp;(C) damages for the spouses and children of the former hostages described in subparagraph (B), if such spouse or child is identified as a member of the proposed class in case number 1:00-CV-03110 (EGS) of the United States Court for the District of Columbia, in the following amounts:
 
@@ -94,9 +94,9 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 &emsp;&emsp;&emsp;&emsp;(I) a final judgment described in paragraph (2)(A) obtained before that date of publication; or
 
-&emsp;&emsp;&emsp;&emsp;(II) a claim described in paragraph (2)(B) or (2)(C).
+&emsp;&emsp;&emsp;&emsp;(II) a claim described in paragraph (2)(B) or (2)(C), except that any United States person with an eligible claim described in paragraph (2)(B) who did not have an eligible claim before November 21, 2019, shall have 90 days from November 21, 2019, to submit an application for payment.
 
-&emsp;&emsp;&emsp;(ii) Not later than 90 days after the date of obtaining a final judgment, with regard to a final judgment obtained on or after the date of that publication.
+&emsp;&emsp;&emsp;(ii) Not later than 90 days after the date of obtaining a final judgment, with regard to a final judgment obtained on or after the date of that publication, unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from November 21, 2019, to submit an application for payment.
 
 #### (B) Good cause
 
@@ -118,7 +118,13 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (i) Pro rata basis
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B) and subject to the limitations described in clause (ii), the Special Master shall carry out paragraph (1), by dividing all available funds on a pro rata basis, based on the amounts outstanding and unpaid on eligible claims, until all such amounts have been paid in full.
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B) and subject to the limitations described in clause (ii), the Special Master shall carry out paragraph (1), by—
+
+&emsp;&emsp;&emsp;&emsp;(I) dividing all available funds in half and allocating 50 percent of the available funds to non-9/11 related victims of state sponsored terrorism and the remaining 50 percent of the available funds to 9/11 related victims of state sponsored terrorism;
+
+&emsp;&emsp;&emsp;&emsp;(II) further dividing the funds allocated to non-9/11 related victims of state sponsored terrorism on a pro rata basis, based on the amounts outstanding and unpaid on eligible claims, until such amounts have been paid in full or the Fund is closed; and
+
+&emsp;&emsp;&emsp;&emsp;(III) further dividing the funds allocated to 9/11 related victims of state sponsored terrorism on a pro rata basis, based on the amounts outstanding and unpaid on eligible claims, until such amounts have been paid in full or the Fund is closed.
 
 #### (ii) Limitations
 
@@ -126,9 +132,11 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 &emsp;&emsp;&emsp;&emsp;(I) In the event that a United States person has an eligible claim that exceeds $20,000,000, the Special Master shall treat that claim as if it were for $20,000,000 for purposes of this section.
 
-&emsp;&emsp;&emsp;&emsp;(II) In the event that a United States person and the immediate family members of such person, have claims that if aggregated would exceed $35,000,000, the Special Master shall, for purposes of this section, reduce such claims on a pro rata basis such that in the aggregate such claims do not exceed $35,000,000.
+&emsp;&emsp;&emsp;&emsp;(II) In the event that a non-9/11 related victim of state sponsored terrorism and the immediate family members of such person have claims that if aggregated would exceed $35,000,000, the Special Master shall, for purposes of this section, reduce such claims on a pro rata basis such that in the aggregate such claims do not exceed $35,000,000.
 
-&emsp;&emsp;&emsp;&emsp;(III) In the event that a United States person, or the immediate family member of such person, has an eligible claim under this section and has received an award or an award determination under section 405 of the Air Transportation Safety and System Stabilization Act (49 U.S.C. 40101 note), the amount of compensation to which such person, or the immediate family member of such person, was determined to be entitled under section 405 of the Air Transportation Safety and System Stabilization Act (49 U.S.C. 40101 note) shall be considered controlling for the purposes of this section, notwithstanding any compensatory damages amounts such person, or immediate family member of such person, is deemed eligible for or entitled to pursuant to a final judgment described in subsection (c)(2)(A).
+&emsp;&emsp;&emsp;&emsp;(III) In the event that a 9/11 victim, 9/11 spouse, or 9/11 dependent and the immediate family members of such person (who are also 9/11 victims, 9/11 spouses,or 9/11 dependents) have claims that if aggregated would exceed $35,000,000, the Special Master shall, for purposes of this section, reduce such claims on a pro rata basis such that in the aggregate such claims do not exceed $35,000,000.
+
+&emsp;&emsp;&emsp;&emsp;(IV) In the event that a 9/11 family member and the family members of such person (who are also 9/11 family members) have claims that if aggregated would exceed $20,000,000, the Special Master shall, for purposes of this section, reduce such claims on a pro rata basis such that in the aggregate such claims do not exceed $20,000,000.
 
 #### (B) Minimum payments
 
@@ -138,7 +146,13 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (4) Additional payments
 
-&emsp;On January 1 of the second calendar year that begins after the date of the initial payments described in paragraph (1) if funds are available in the Fund, the Special Master shall authorize additional payments on a pro rata basis to those claimants with eligible claims under subsection (c)(2) and shall authorize additional payments for eligible claims annually thereafter if funds are available in the Fund.
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), on January 1 of the second calendar year that begins after the date of the initial payments described in paragraph (1) if funds are available in the Fund, the Special Master shall authorize additional payments on a pro rata basis to those claimants with eligible claims under subsection (c)(2) and shall authorize additional payments for eligible claims annually thereafter if funds are available in the Fund.
+
+#### (B) Third round payments
+
+&emsp;&emsp;The Special Master shall authorize third-round payments to satisfy eligible claims under this section not earlier than 90 days, and not later than 180 days, after November 21, 2019. The Special Master shall accept applications from eligible applicants (consistent with the deadlines for application submission prescribed in subsection (c)(3)) until the date that is 90 days after November 21, 2019.
 
 #### (5) Subrogation and retention of rights
 
@@ -164,11 +178,11 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (i) Criminal funds and property
 
-&emsp;&emsp;&emsp;All funds, and the net proceeds from the sale of property, forfeited or paid to the United States after December 18, 2015, as a criminal penalty or fine arising from a violation of any license, order, regulation, or prohibition issued under the International Emergency Economic Powers Act (50U.S.C. 1701 et seq.) or the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.),<sup>1</sup> or any related criminal conspiracy, scheme, or other Federal offense arising from the actions of, or doing business with or acting on behalf of, a state sponsor of terrorism.
+&emsp;&emsp;&emsp;All funds, and the net proceeds from the sale of property, forfeited or paid to the United States after December 18, 2015, as a criminal penalty or fine arising from a violation of any license, order, regulation, or prohibition issued under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.),<sup>1</sup> or any related criminal conspiracy, scheme, or other Federal offense arising from the actions of, or doing business with or acting on behalf of, a state sponsor of terrorism.
 
 #### (ii) Civil funds and property
 
-&emsp;&emsp;&emsp;One-half of all funds, and one-half of the net proceeds from the sale of property, forfeited or paid to the United States after December 18, 2015, as a civil penalty or fine arising from a violation of any license, order, regulation, or prohibition issued under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.),<sup>1</sup> or any related conspiracy, scheme, or other Federal offense arising from the actions of, or doing business with or acting on behalf of, a state sponsor of terrorism.
+&emsp;&emsp;&emsp;Seventy-five percent of all funds, and seventy-five percent of the net proceeds from the sale of property, forfeited or paid to the United States after December 18, 2015, as a civil penalty or fine arising from a violation of any license, order, regulation, or prohibition issued under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or the Trading withthe Enemy Act (50 U.S.C. App. 1 et seq.),<sup>1</sup> or any related conspiracy, scheme, or other Federal offense arising from the actions of, or doing business with or acting on behalf of, a state sponsor of terrorism.
 
 #### (B) Transfer into Fund of certain assigned assets of Iran and election to participate in Fund
 
@@ -204,7 +218,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (II) Exception
 
-&emsp;&emsp;&emsp;&emsp;(aa) In the event that an adverse final judgment is entered in the proceedingscaptioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y), prior to a final judgment being entered in the proceedings captioned In Re 650 Fifth Avenue \& Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), the Special Master shall release a portion of an eligible claimant's conditional payment to such eligible claimant if the Special Master anticipates that such claimant will receive less than the amount of the conditional payment from any proceeds from a final judgment that is entered in favor of the plaintiffs in In Re 650 Fifth Avenue \& Related Properties. Such portion shall not exceed the difference between the amount of the conditional payment and the amount the Special Master anticipates such claimant will receive from the proceeds of In Re 650 Fifth Avenue \& Related Properties.
+&emsp;&emsp;&emsp;&emsp;(aa) In the event that an adverse final judgment is entered in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y), prior to a final judgment being entered in the proceedings captioned In Re 650 Fifth Avenue \& Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), the Special Master shall release a portion of an eligible claimant's conditional payment to such eligible claimant if the Special Master anticipates that such claimant will receive less than the amount of the conditional payment from any proceeds from a final judgment that is entered in favor of the plaintiffs in In Re 650 Fifth Avenue \& Related Properties. Such portion shall not exceed the difference between the amount of the conditional payment and the amount theSpecial Master anticipates such claimant will receive from the proceeds of In Re 650 Fifth Avenue \& Related Properties.
 
 &emsp;&emsp;&emsp;&emsp;(bb) In the event that a final judgment is entered in favor of the plaintiffs in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y) and funds are distributed, the payments allocated to claimants who applied for a conditional payment under this subparagraph shall be considered void, and any funds previously allocated to such conditional payments shall be made available and distributed to all other eligible claimants pursuant to subsection (d).
 
@@ -224,17 +238,17 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (A) In general
 
-&emsp;&emsp;Amounts in the Fund may not be obligated on or after January 2, 2026.
+&emsp;&emsp;Amounts in the Fund may not be obligated on or after January 2, 2030.
 
 #### (B) Closing of Fund
 
-&emsp;&emsp;Effective on the day after all amounts authorized to be paid from the Fund under this section that were obligated before January 2, 2026 are expended, any unobligated balances in the Fund shall be transferred, as appropriate, to either the Department of the Treasury Forfeiture Fund established under section 9705 of title 31 or to the Department of Justice Assets Forfeiture Fund established under section 524(c)(1) of title 28.
+&emsp;&emsp;Effective on the day after all amounts authorized to be paid from the Fund under this section that were obligated before January 2, 2030 are expended, any unobligated balances in the Fund shall be transferred, as appropriate, to either the Department of the Treasury Forfeiture Fund established under section 9705 of title 31 or to the Department of Justice Assets Forfeiture Fund established under section 524(c)(1) of title 28.
 
 #### (f) Attorneys' fees and costs
 
 #### (1) In general
 
-&emsp;No attorney shall charge, receive, or collect, and the Special Master shall not approve, any payment of fees and costs that in the aggregate exceeds 25 percent of any payment made under this section.
+&emsp;No attorney representing a non-9/11 related victim of state sponsored terrorism shall charge, receive, or collect, and the Special Master shall not approve, any payment of fees and costs that in the aggregate exceeds 25 percent of any payment made under this section. After November 21, 2019, no attorney representing a 9/11 related victim of state sponsored terrorism shall charge, receive, or collect, and the Special Master shall not approve, any payment of fees and costs that in the aggregate exceeds 15 percent of any payment made under this section after November 21, 2019.
 
 #### (2) Penalty
 
@@ -312,7 +326,7 @@ In this section the following definitions apply:
 
 #### (6) Source other than this Fund
 
-&emsp;The term "source other than this Fund" means all collateral sources, including life insurance, pension funds, death benefit programs, payments by Federal, State, or local governments (including payments from the September 11th Victim Compensation Fund (49 U.S.C. 40101 note)), and court awarded compensation related to the act of international terrorism that gave rise to a claimant's final judgment. The term "entitled or scheduled to receive" in subsection (d)(3)(B)(i) includes any potential recovery where that person or their representative is a party to any civil or administrative action pending in any court or agency of competent jurisdiction in which the party seeks to enforce the judgment giving rise to the application to the Fund.
+&emsp;The term "source other than this Fund" means all collateral sources, including life insurance, pension funds, death benefit programs, payments by Federal, State, or local governments, and court awarded compensation related to the act of international terrorism that gave rise to a claimant's final judgment. The term "entitled or scheduled to receive" in subsection (d)(3)(B)(i) includes any potential recovery where that person or their representative is a party to any civil or administrative action pending in any court or agency of competent jurisdiction in which the party seeks to enforce the judgment giving rise to the application to the Fund.
 
 #### (7) State sponsor of terrorism
 
@@ -322,29 +336,105 @@ In this section the following definitions apply:
 
 &emsp;The term "United States person" means a natural person who has suffered an injury arising from the actions of a foreign state for which the foreign state has been determined not to be immune from the jurisdiction of the courts of the United States under section 1605A or section 1605(a)(7) (as such section was in effect on January 27, 2008) of title 28 or is eligible to make a claim under subsection (c)(2)(B) or subsection (c)(2)(C).
 
+#### (9) Non-9/11 related victim of state sponsored terrorism
+
+&emsp;The term "non-9/11 victim of state sponsored terrorism" means a United States person who has an eligible claim under subsection (c) that is unrelated to the acts of international terrorism carried out on September 11, 2001.
+
+#### (10) 9/11 related victim of state sponsored terrorism
+
+&emsp;The term "9/11 related victim of state sponsored terrorism" means a 9/11 victim, 9/11 spouse, 9/11 dependent, or 9/11 family member.
+
+#### (11) 9/11 dependent
+
+&emsp;The term "9/11 dependent" means a United States person who has an eligible claim under subsection (c) who at the time of a 9/11 victim's death was—
+
+&emsp;&emsp;(A) a dependent, as defined in section 104.3 of title 28, Code of Federal Regulations, or any successor thereto, of the 9/11 victim; or
+
+&emsp;&emsp;(B) the child of the 9/11 victim who has not, before November 21, 2019, received payment from the Fund.
+
+#### (12) 9/11 family member
+
+&emsp;The term "9/11 family member" means the immediate family member of an individual described in section 405(c) of the Air Transportation Safety and System Stabilization Act (49 U.S.C. 40101 note) who is not a 9/11 dependent or a 9/11 spouse.
+
+#### (13) 9/11 spouse
+
+&emsp;The term "9/11 spouse" means a United States person who has an eligible claim under subsection (c) who is a spouse, as defined in section 104.3 of title 28, Code of Federal Regulations, or any successor thereto, of an individual described in section 405(c) of the Air Transportation Safety and System Stabilization Act (49 U.S.C. 40101 note).
+
+#### (14) 9/11 victim
+
+&emsp;The term "9/11 victim" means a United States person who has an eligible claim under subsection (c) who is an individual described in section 405(c)(2) of the Air Transportation Safety and System Stabilization Act (49 U.S.C. 40101 note).
+
 #### (k) Severability
 
 The provisions of this section are severable. If any provision of this section, or any application thereof, is found unconstitutional, that finding shall not affect any provision or application of this section not so adjudicated.
 
-(Pub. L. 114–113, div. O, title IV, §404, Dec. 18, 2015, 129 Stat. 3007.)
+(Pub. L. 114–113, div. O, title IV, §404, Dec. 18, 2015, 129 Stat. 3007; Pub. L. 116–69, div. B, title VII, §1701(b)(1), Nov. 21, 2019, 133 Stat. 1140.)
 
 #### References in Text
 
-Section 1605(a)(7) of title 28 (as such section was in effect on January 27, 2008), referred to in subsecs. (c)(2)(A)(ii) and (j)(8), refers to subsec. (a)(7) of section 1605 of title 28 as it existed prior to being struck out by Pub. L. 110–181, §1083(b)(1)(A). See 2008 Amendment note under that section.
+The United States Victims of State Sponsored Terrorism Fund Clarification Act, referred to in subsec. (b)(2)(A), is Pub. L. 116–69, div. B, title VII, §1701, Nov. 21, 2019, 133 Stat. 1140, which amended this section and enacted notes under this section and section 10101 of this title. The date of enactment of the Act is Nov. 21, 2019.
 
-Section 405 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (d)(3)(A)(ii)(III), is section 405 of Pub. L. 107–42, which is set out in a note under section 40101 of Title 49, Transportation.
+Section 1605(a)(7) of title 28 (as such section was in effect on January 27, 2008), referred to in subsecs. (c)(2)(A)(ii) and (j)(8), refers to subsec. (a)(7) of section 1605 of title 28 as it existed prior to being struck out by Pub. L. 110–181, §1083(b)(1)(A). See 2008 Amendment note under that section.
 
 The International Emergency Economic Powers Act, referred to in subsec. (e)(2)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 The Trading with the Enemy Act, referred to in subsec. (e)(2)(A), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified generally to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
-The September 11th Victim Compensation Fund, referred to in subsec. (j)(6), probably means the September 11th Victim Compensation Fund of 2001, title IV of Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 237, which is set out in a note under section 40101 of Title 49, Transportation.
-
 Section 4605(j) of title 50, referred to in subsec. (j)(7), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former section 4605(j) of title 50 can be found in section 4813(c) of title 50, as enacted by Pub. L. 115–232.
+
+Section 405 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (j)(12) to (14), is section 405 of Pub. L. 107–42, which is set out in a note under section 40101 of Title 49, Transportation.
 
 #### Codification
 
 Section was formerly classified to section 10609 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (b)(1)(B). Pub. L. 116–69, §1701(b)(1)(A)(i), substituted "section, except that, during the 1-year period beginning on November 21, 2019, the Special Master may utilize an additional 5 full-time equivalent Department of Justice personnel." for "section."
+
+Subsec. (b)(2)(A). Pub. L. 116–69, §1701(b)(1)(A)(ii), substituted "Not later than 30 days after the date of enactment of the United States Victims of State Sponsored Terrorism Fund Clarification Act, the Special Master shall update, as necessary as a result of the enactment of such Act, such procedures and other guidance previously issued by the Special Master. Such notice and any updates to that notice or other guidance are" for "Such notice is".
+
+Subsec. (c)(2)(B). Pub. L. 116–69, §1701(b)(1)(B)(i), substituted "January 20, 1981" for "January 20, 1981, if such person is identified as a member of the proposed class in case number 1:00-CV-03110 (EGS) of the United States District Court for the District of Columbia".
+
+Subsec. (c)(3)(A)(i)(II). Pub. L. 116–69, §1701(b)(1)(B)(ii)(I), substituted for period at end ", except that any United States person with an eligible claim described in paragraph (2)(B) who did not have an eligible claim before November 21, 2019, shall have 90 days from November 21, 2019, to submit an application for payment."
+
+Subsec. (c)(3)(A)(ii). Pub. L. 116–69, §1701(b)(1)(B)(ii)(II), substituted for period at end ", unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from November 21, 2019, to submit an application for payment."
+
+Subsec. (d)(3)(A). Pub. L. 116–69, §1701(b)(1)(C)(i), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+
+"(i)
+
+Pro rata basis.—Except as provided in subparagraph (B) and subject to the limitations described in clause (ii), the Special Master shall carry out paragraph (1), by dividing all available funds on a pro rata basis, based on the amounts outstanding and unpaid on eligible claims, until all such amounts have been paid in full.
+
+"(ii)
+
+Limitations.—The limitations described in this clause are as follows:
+
+&emsp;"(I) In the event that a United States person has an eligible claim that exceeds $20,000,000, the Special Master shall treat that claim as if it were for $20,000,000 for purposes of this section.
+
+&emsp;"(II) In the event that a United States person and the immediate family members of such person, have claims that if aggregated would exceed $35,000,000, the Special Master shall, for purposes of this section, reduce such claims on a pro rata basis such that in the aggregate such claims do not exceed $35,000,000.
+
+&emsp;"(III) In the event that a United States person, or the immediate family member of such person, has an eligible claim under this section and has received an award or an award determination under section 405 of the Air Transportation Safety and System Stabilization Act (49 U.S.C. 40101 note), the amount of compensation to which such person, or the immediate family member of such person, was determined to be entitled under section 405 of the Air Transportation Safety and System Stabilization Act (49 U.S.C. 40101 note) shall be considered controlling for the purposes of this section, notwithstanding any compensatory damages amounts such person, or immediate family member of such person, is deemed eligible for or entitled to pursuant to a final judgment described in subsection (c)(2)(A)."
+
+Subsec. (d)(4). Pub. L. 116–69, §1701(b)(1)(C)(ii), designated existing provisions as subpar. (A), inserted heading, substituted "Except as provided in subparagraph (B), on" for "On", and added subpar. (B).
+
+Subsec. (e)(2)(A)(ii). Pub. L. 116–69, §1701(b)(1)(D)(i), substituted "Seventy-five percent" for "One-half" and "seventy-five percent" for "one-half".
+
+Subsec. (e)(6). Pub. L. 116–69, §1701(b)(1)(D)(ii), substituted "2030" for "2026" in subpars. (A) and (B).
+
+Subsec. (f)(1). Pub. L. 116–69, §1701(b)(1)(E), inserted "representing a non-9/11 related victim of state sponsored terrorism" after "No attorney" and "After November 21, 2019, no attorney representing a 9/11 related victim of state sponsored terrorism shall charge, receive, or collect, and the Special Master shall not approve, any payment of fees and costs that in the aggregate exceeds 15 percent of any payment made under this section after November 21, 2019." after "section."
+
+Subsec. (j)(6). Pub. L. 116–69, §1701(b)(1)(F)(i), struck out "(including payments from the September 11th Victim Compensation Fund (49 U.S.C. 40101 note))" after "local governments".
+
+Subsec. (j)(9) to (14). Pub. L. 116–69, §1701(b)(1)(F)(ii), added pars. (9) to (14).
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–69, div. B, title VII, §1701(d), Nov. 21, 2019, 133 Stat. 1143, provided that: "This section \[amending this section and enacting provisions set out as a note below\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Nov. 21, 2019\]."
+
+#### Construction of 2019 Amendment
+
+Pub. L. 116–69, div. B, title VII, §1701(c), Nov. 21, 2019, 133 Stat. 1143, provided that: "A determination by the Special Master before the date of enactment of theUnited States Victims of State Sponsored Terrorism Fund Clarification Act \[Nov. 21, 2019\] that an award or award determination under section 405 of the Air Transportation Safety and Stabilization Act \[Pub. L. 107–42\] (49 U.S.C. 40101 note) was controlling for purposes of the Fund (pursuant to subsection (d)(3)(A)(ii)(III) of the Justice for United States Victims of State Sponsored Terrorism Act (34 U.S.C. 20144(d)(3)(A)(ii)(III)), as such section was in effect on the day before the date of enactment of this Act \[Nov. 21, 2019\]) shall not prejudice a claim of a 9/11 victim, 9/11 spouse, or 9/11 dependent."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@
 
 (h) Notwithstanding subsection (g) and section 2149 of this title, the Commandant may by annual action retain on active duty from promotion year to promotion year any officer who would otherwise be retired under subsection (g) or section 2149 of this title. An officer so retained, unless retired under some other provision of law, shall be retired on June 30 of that promotion year in which no action is taken to further retain the officer under this subsection.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 186, §289; amended Pub. L. 94–546, §1(26), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 97–417, §2(8), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L.101–225, title II, §203(3), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 104–324, title II, §203, Oct. 19, 1996, 110 Stat. 3907; Pub. L. 107–295, title IV, §414, Nov. 25, 2002, 116 Stat. 2120; renumbered §2150 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 186, §289; amended Pub. L. 94–546, §1(26), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 97–417, §2(8), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–225, title II, §203(3), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 104–324, title II, §203, Oct. 19, 1996, 110 Stat. 3907; Pub. L. 107–295, title IV, §414, Nov. 25, 2002, 116 Stat. 2120; renumbered §2150 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 #### Amendments
 

@@ -30,7 +30,7 @@
 
 &emsp;(E) information regarding the quantity of drug expected to be distributed on an annual basis to meet the expected need; and
 
-&emsp;(F) a commitment that the applicant will conduct additional investigations to meet the requirements for the full demonstration of effectiveness under section 360b(d)(1)(E) of this title within 5 years.
+&emsp;(F) a commitment that the applicant will conduct additional investigations to meet therequirements for the full demonstration of effectiveness under section 360b(d)(1)(E) of this title within 5 years.
 
 (3)(A) A person may not file an application under paragraph (1) if—
 
@@ -84,7 +84,7 @@ A conditional approval under this section is effective for a 1-year period and i
 
 &emsp;&emsp;(C) any of the provisions of section 360b(e)(1)(A) through (B) or (D) through (F) of this title are applicable.
 
-&emsp;(3) If the Secretary determines before the end of the 1-year period or the 90-day extension, if granted, that a conditional approval should not be renewed, the Secretary shall issue an order refusing to renew the conditional approval, and such conditional approval shall be deemed withdrawn and no longer in effect. The Secretary shall thereafter provide an opportunity for an informal hearing to the applicant on the issue whether the conditional approval shall be reinstated.
+&emsp;(3) If the Secretary determines before the end of the 1-year period or the 90-day extension, if granted, that a conditional approvalshould not be renewed, the Secretary shall issue an order refusing to renew the conditional approval, and such conditional approval shall be deemed withdrawn and no longer in effect. The Secretary shall thereafter provide an opportunity for an informal hearing to the applicant on the issue whether the conditional approval shall be reinstated.
 
 &emsp;(4)(A) In the case of an application under subsection (a) with respect to a drug for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], conditional approval of such application shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
 
@@ -122,7 +122,7 @@ A conditionally approved new animal drug application may not be amended or suppl
 
 #### (h) Order of approval after conditional approval period termination
 
-180 days prior to the termination date established under subsection (d) of this section, anapplicant shall have submitted all the information necessary to support a complete new animal drug application in accordance with section 360b(b)(1) of this title or the conditional approval issued under this section is no longer in effect. Following review of this information, the Secretary shall either—
+180 days prior to the termination date established under subsection (d) of this section, an applicant shall have submitted all the information necessary to support a complete new animal drug application in accordance with section 360b(b)(1) of this title or the conditional approval issued under this section is no longer in effect. Following review of this information, the Secretary shall either—
 
 &emsp;(1) issue an order approving the application under section 360b(c) of this title if the Secretary finds that none of the grounds for denying approval specified in section 360b(d)(1) of this title applies, or
 

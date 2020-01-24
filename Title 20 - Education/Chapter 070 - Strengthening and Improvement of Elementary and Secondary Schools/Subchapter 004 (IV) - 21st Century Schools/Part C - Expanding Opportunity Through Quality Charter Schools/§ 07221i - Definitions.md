@@ -12,7 +12,7 @@ In this part:
 
 &emsp;&emsp;(A) in accordance with a specific State statute authorizing the granting of charters to schools, is exempt from significant State or local rules that inhibit the flexible operation and management of public schools, but not from any rules relating to the other requirements of this paragraph;
 
-&emsp;&emsp;(B) is created by a developer as a public school, or is adapted by a developer from anexisting public school, and is operated under public supervision and direction;
+&emsp;&emsp;(B) is created by a developer as a public school, or is adapted by a developer from an existing public school, and is operated under public supervision and direction;
 
 &emsp;&emsp;(C) operates in pursuit of a specific set of educational objectives determined by the school's developer and agreed to by the authorized public chartering agency;
 

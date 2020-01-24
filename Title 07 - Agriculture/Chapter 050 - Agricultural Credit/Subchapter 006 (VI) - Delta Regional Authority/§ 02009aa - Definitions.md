@@ -34,7 +34,7 @@ The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Cong
 
 <b>2018</b>—Par. (4). Pub. L. 115–334 added par. (4).
 
-<b>2000</b>—Par. (4). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(b)\], which directed amendment of "section 382A of 'The Delta Regional Authority Act of 2000' as incorporated in this Act" by adding par. (4), could not be executed because this section is not section 382A of such Act, but rather section 382A of the Consolidated Farm and Rural Development Act, as added by section 503 of the Delta Regional Authority Act of 2000. Corrected amendment was made by Pub. L. 115–334, effective as if included in Pub. L. 106–554. See 2018 Amendment note above and 2018 Effective Date of 2018 Amendment note below.
+<b>2000</b>—Par. (4). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(b)\], which directed amendment of "section 382A of 'The Delta Regional Authority Act of 2000' as incorporated in this Act" by adding par. (4), could not be executed as directed because this section is not section 382A of such Act, but rather section 382A of the Consolidated Farm and Rural Development Act, as added by section 503 of the Delta Regional Authority Act of 2000. Corrected amendment was made by Pub. L. 115–334, effective as if included in Pub. L. 106–554. See 2018Amendment note above and 2018 Effective Date of 2018 Amendment note below.
 
 #### Effective Date of 2018 Amendment
 
@@ -52,7 +52,7 @@ Findings.—Congress finds that—
 
 &emsp;"(2) the region suffers from a greater proportion of measurable poverty and unemployment than any other region of the United States;
 
-&emsp;"(3) the greatest hope for economic growth and revitalization in the region lies in the development oftransportation infrastructure, creation of jobs, expansion of businesses, and development of entrepreneurial local economies;
+&emsp;"(3) the greatest hope for economic growth and revitalization in the region lies in the development of transportation infrastructure, creation of jobs, expansion of businesses, and development of entrepreneurial local economies;
 
 &emsp;"(4) the economic progress of the region requires an adequate transportation and physical infrastructure, a skilled and trained workforce, and greater opportunities for enterprise development and entrepreneurship;
 

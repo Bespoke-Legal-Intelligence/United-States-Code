@@ -36,7 +36,7 @@ Exercise of Authority.—
 
 Comptroller General Access to Information.—(1) Each agreement entered into by an official referred to in subsection (a) to carry out a project under that subsection that provides for payments in a total amount in excess of $5,000,000 shall include a clause that provides for the Comptroller General, in the discretion of the Comptroller General, to examine the records of any party to the agreement or any entity that participates in the performance of the agreement.
 
-(2) The requirement in paragraph (1) shall not apply with respect to a party or entity, or a subordinate element of a party or entity, that hasnot entered into any other agreement that provides for audit access by a Government entity in the year prior to the date of the agreement.
+(2) The requirement in paragraph (1) shall not apply with respect to a party or entity, or a subordinate element of a party or entity, that has not entered into any other agreement that provides for audit access by a Government entity in the year prior to the date of the agreement.
 
 (3)(A) The right provided to the Comptroller General in a clause of an agreement under paragraph (1) is limited as provided in subparagraph (B) in the case of a party to the agreement, an entity that participates in the performance of the agreement, or a subordinate element of that party or entity if the only agreements or other transactions that the party, entity, or subordinate element entered into with Government entities in the year prior to the date of that agreement are cooperative agreements or transactions that were entered into under this section or section 2371 of this title.
 
@@ -54,13 +54,13 @@ Appropriate Use of Authority.—(1) The Secretary of Defense shall ensure that n
 
 &emsp;(B) All significant participants in the transaction other than the Federal Government are small businesses (including small businesses participating in a program described under section 9 of the Small Business Act (15 U.S.C. 638)) or nontraditional defense contractors.
 
-&emsp;(C) At least one third of the total cost of the prototype project is to be paid out of funds provided by sources other than other than <sup>1</sup> the Federal Government.
+&emsp;(C) At least one third of the total cost of the prototype project is to be paid out of funds provided by sources other than the Federal Government.
 
 &emsp;(D) The senior procurement executive for the agency determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract, or would provide an opportunity to expand the defense supply base in a manner that would not be practical or feasible under a contract.
 
 (2)(A) Except as provided in subparagraph (B), the amounts counted for the purposes of this subsection as being provided, or to be provided, by a party to a transaction with respect to a prototype project that is entered into under this section other than the Federal Government do not include costs that were incurred before the date on which the transaction becomes effective.
 
-(B) Costs that were incurred for a prototype project by a party after the beginning of negotiations resulting in a transaction (other than a contract, grant, or cooperative agreement) with respect to the project before the date on which the transaction becomes effective may be counted for purposes of this subsection as being provided, or to be provided, by the party to the transaction if and to the extent that the official responsible for entering into the transaction determines in writing that—
+(B) Costs that were incurred for a prototype project by a party after the beginning of negotiations resulting in a transaction (other than a contract, grant, or cooperative agreement) with respect to the project before the date on whichthe transaction becomes effective may be counted for purposes of this subsection as being provided, or to be provided, by the party to the transaction if and to the extent that the official responsible for entering into the transaction determines in writing that—
 
 &emsp;(i) the party incurred the costs in anticipation of entering into the transaction; and
 
@@ -86,7 +86,7 @@ Follow-on Production Contracts or Transactions.—(1) A transaction entered into
 
 (3) A follow-on production contract or transaction may be awarded, pursuant to this subsection, when the Department determines that an individual prototype or prototype subproject as part of a consortium is successfully completed by the participants.
 
-(4) Award of a follow-on production contract or transaction pursuant to the terms under this subsection is not contingent upon the successfulcompletion of all activities within a consortium as a condition for an award for follow-on production of a successfully completed prototype or prototype subproject within that consortium.
+(4) Award of a follow-on production contract or transaction pursuant to the terms under this subsection is not contingent upon the successful completion of all activities within a consortium as a condition for an award for follow-on production of a successfully completed prototype or prototype subproject within that consortium.
 
 (5) Contracts and transactions entered into pursuant to this subsection may be awarded using the authority in subsection (a), under the authority of chapter 137 of this title, or under such procedures, terms, and conditions as the Secretary of Defense may establish by regulation.
 
@@ -98,9 +98,11 @@ Authority To Provide Prototypes and Follow-on Production Items as Government-fur
 
 Applicability of Procurement Ethics Requirements.—An agreement entered into under the authority of this section shall be treated as a Federal agency procurement for the purposes of chapter 21 of title 41.
 
-(Added Pub. L. 114–92, div. A, title VIII, §815(a)(1), Nov. 25, 2015, 129 Stat. 893; amended Pub. L. 115–91, div. A, title II, §216, title VIII, §864, Dec. 12, 2017, 131 Stat. 1328, 1494; Pub. L. 115–232, div. A, title II, §211, Aug. 13, 2018, 132 Stat. 1674.)
+(Added Pub. L. 114–92, div. A, title VIII, §815(a)(1), Nov. 25, 2015, 129 Stat. 893; amended Pub. L. 115–91, div. A, title II, §216, title VIII, §864, Dec. 12, 2017, 131 Stat. 1328, 1494; Pub. L. 115–232, div. A, title II, §211, Aug. 13, 2018, 132 Stat. 1674; Pub. L. 116–92, div. A, title XVII, §1731(a)(46), Dec. 20, 2019, 133 Stat. 1814.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (d)(1)(C). Pub. L. 116–92 substituted "sources other than" for "sources other than other than".
 
 <b>2018</b>—Subsec. (a)(2)(A). Pub. L. 115–232, §211(1)(A), substituted "for a prototype project, and any follow-on production contract or transaction that is awarded pursuant to subsection (f)," for "(for a prototype project)" in introductory provisions.
 
@@ -108,7 +110,7 @@ Subsec. (a)(2)(B). Pub. L. 115–232, §211(1)(B)(i), substituted "for a prototy
 
 Subsec. (a)(2)(B)(i). Pub. L. 115–232, §211(1)(B)(ii), substituted "Under Secretary of Defense for Research and Engineering or the Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics" in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 115–232, §211(1)(C), substituted "Under Secretaries of Defense" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+Subsec. (a)(3). Pub. L. 115–232, §211(1)(C), which directed substitution of "Under Secretaries of Defense" for "Under Secretary of Defense for Acquisition, Technology, and Logistics" in par. (3) of subsec. (a)(2), was executed by making the substitution in par. (3) of subsec. (a), to reflect the probable intent of Congress.
 
 Subsec. (b)(2). Pub. L. 115–232, §211(2), inserted "the prototype" after "carry out".
 
@@ -129,6 +131,4 @@ Subsec. (f)(1). Pub. L. 115–91, §864(d), inserted at end "A transaction inclu
 #### Updated Guidance
 
 Pub. L. 114–92, div. A, title VIII, §815(e), Nov. 25, 2015, 129 Stat. 896, provided that: "Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall issue updated guidance to implement the amendments made by this section \[enacting this section, amending section 2302 of this title, amending provisions set out as a note under section 2358 of this title, and repealing provisions set out as a note under section 2371 of this title\]."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

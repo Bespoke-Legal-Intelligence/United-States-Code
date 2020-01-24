@@ -6,7 +6,7 @@ The Secretary of the Interior shall encourage States and local subdivisions ther
 
 #### References in Text
 
-The Federal Aid in Wildlife Restoration Act, as amended, referred to in text, is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Pittman-Robertson Wildlife Restoration Act, which is classified generallyto chapter 5B (§669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
+The Federal Aid in Wildlife Restoration Act, as amended, referred to in text, is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Pittman-Robertson Wildlife Restoration Act, which is classified generally to chapter 5B (§669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
 The Federal Aid in Fish Restoration Act, as amended, referred to in text, is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Dingell-Johnson Sport Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
 

@@ -106,7 +106,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;&emsp;(iii) provide—
 
-&emsp;&emsp;&emsp;&emsp;(I) high-quality mentoring and induction opportunities with ongoing support for beginning special education teachers; or
+&emsp;&emsp;&emsp;&emsp;(I) high-quality mentoring and induction opportunities with ongoing supportfor beginning special education teachers; or
 
 &emsp;&emsp;&emsp;&emsp;(II) inservice professional development to beginning and veteran special education teachers through the ongoing exchange of information and instructional strategies with faculty.
 
@@ -158,7 +158,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;(A) A proposal to prepare personnel in more than 1 low incidence disability, such as deafness and blindness.
 
-&emsp;&emsp;(B) A demonstration of an effective collaboration between an eligible entity and a local educational agency that promotes recruitment and subsequent retention of personnel who meet the applicable requirements described in section 1412(a)(14) of thistitle to serve children with low incidence disabilities.
+&emsp;&emsp;(B) A demonstration of an effective collaboration between an eligible entity and a local educational agency that promotes recruitment and subsequent retention of personnel who meet the applicable requirements described in section 1412(a)(14) of this title to serve children with low incidence disabilities.
 
 #### (5) Preparation in use of braille
 
@@ -182,7 +182,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 #### (1) In general
 
-&emsp;An eligible entity that wishes to receive a grant, or enter into a contract or cooperative agreement, under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;An eligible entity that wishes to receive a grant, or enter into a contract or cooperative agreement, under this section shall submit anapplication to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (2) Identified State needs
 

@@ -26,7 +26,7 @@ Subsection (a) applies on the condition that—
 
 &emsp;(1) any Indian owning any undivided interest, and in actual use and possession of such tract for at least three years preceding the tribal initiative, may purchase such tract by matching the tribal offer;
 
-&emsp;(2) if at any time within five years following the date of acquisition of such land by an individual pursuant to this section, such property is offered for sale or a petition is filed with the Secretary for removal of the property from trust or restricted status, the tribe shall have 180 days from the date it is notified of suchoffer or petition to acquire such property by paying to the owner the fair market value as determined by the Secretary; and
+&emsp;(2) if at any time within five years following the date of acquisition of such land by an individual pursuant to this section, such property is offered for sale or a petition is filed with the Secretary for removal of the property from trust or restricted status, the tribe shall have 180 days from the date it is notified of such offer or petition to acquire such property by paying to the owner the fair market value as determined by the Secretary; and
 
 &emsp;(3) the approval of the Secretary shall be required for a land sale initiated under this section, except that such approval shall not be required with respect to a land sale transaction initiated by an Indian tribe that has in effect a land consolidation plan that has been approved by the Secretary under section 2203 of this title.
 
@@ -86,7 +86,7 @@ Subsection (a) applies on the condition that—
 
 #### (E) Appraisal
 
-&emsp;&emsp;After the Secretary has determined that the subject parcel is a parcel of highly fractionated Indian land pursuant to subparagraph (C), the Secretary shall cause to bemade, in accordance with the provisions of this chapter for establishing fair market value, an appraisal of the fair market value of the subject parcel.
+&emsp;&emsp;After the Secretary has determined that the subject parcel is a parcel of highly fractionated Indian land pursuant to subparagraph (C), the Secretary shall cause to be made, in accordance with the provisions of this chapter for establishing fair market value, an appraisal of the fair market value of the subject parcel.
 
 #### (F) Notice to owners on completion of appraisal
 
@@ -122,7 +122,7 @@ Subsection (a) applies on the condition that—
 
 #### (I) Service by certified mail
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall use due diligence to provide all owners of interests in the subject parcel, as evidenced by the Secretary's records at the time of the determination under subparagraph (C), with actual notice of the partition proceedings by mailing a copy of the written notice described in clause (i) by certified mail, restricted delivery, to each such owner at the owner's last known address. For purposes of this subsection, owners shall be determined from the Secretary's land title records as of the date of the determination under subparagraph (C) or a date that is not more than 90 days prior to the date of mailing under this clause, whichever is later. In the event the written notice to an owner is returned undelivered, the Secretary shall attempt to obtain a current address for such owner by conducting a reasonable search (including a reasonable search of records maintained by local, State, Federal and tribal governments and agencies) and by inquiring with the Indian tribe with jurisdiction over the subject parcel, and, if different from that tribe, the Indian tribe of which the owner is a member, and, if successful in locating any such owner, send written notice by certified mail in accordance with this subclause.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall use due diligence to provide all owners of interests in the subject parcel, as evidenced by the Secretary's records at the time of the determination under subparagraph (C), with actual notice of the partition proceedings by mailing a copy of the written notice described in clause (i) by certified mail, restricted delivery, to each such owner at the owner's last known address. For purposes of this subsection, owners shall be determined from the Secretary's land title records as of the date of thedetermination under subparagraph (C) or a date that is not more than 90 days prior to the date of mailing under this clause, whichever is later. In the event the written notice to an owner is returned undelivered, the Secretary shall attempt to obtain a current address for such owner by conducting a reasonable search (including a reasonable search of records maintained by local, State, Federal and tribal governments and agencies) and by inquiring with the Indian tribe with jurisdiction over the subject parcel, and, if different from that tribe, the Indian tribe of which the owner is a member, and, if successful in locating any such owner, send written notice by certified mail in accordance with this subclause.
 
 #### (II) Notice by publication
 
@@ -150,7 +150,7 @@ Subsection (a) applies on the condition that—
 
 &emsp;&emsp;&emsp;Notice shall be given—
 
-&emsp;&emsp;&emsp;&emsp;(I) in accordance with subparagraph (H), where the new appraisal results in avalue of the land that is equal to or greater than that of the earlier appraisal; or
+&emsp;&emsp;&emsp;&emsp;(I) in accordance with subparagraph (H), where the new appraisal results in a value of the land that is equal to or greater than that of the earlier appraisal; or
 
 &emsp;&emsp;&emsp;&emsp;(II) in accordance with subparagraph (F)(ii), where the new appraisal results in a lower valuation of the land.
 
@@ -212,7 +212,7 @@ Subsection (a) applies on the condition that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) equal to or greater than 20 percent of the entire undivided ownership of the parcel;
 
-&emsp;&emsp;&emsp;&emsp;(III) within 3 days following the date of the auction or for receiving sealed bids,and in accordance with the regulations adopted to implement this section (if any), the owner delivers to the Secretary a written notice of intent to exercise the owner's rights under this clause; and
+&emsp;&emsp;&emsp;&emsp;(III) within 3 days following the date of the auction or for receiving sealed bids, and in accordance with the regulations adopted to implement this section (if any), the owner delivers to the Secretary a written notice of intent to exercise the owner's rights under this clause; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) such owner tenders the amount of the purchase price required under this clause—
 
@@ -250,7 +250,7 @@ Subsection (a) applies on the condition that—
 
 #### (A) In general
 
-&emsp;&emsp;If a partition is approved under this subsection and an owner of an interest in the parcel of land refuses to surrender possession in accordance with the partition decision, or refuses to execute any conveyance necessary to implement the partition, then any affected owner or the United States may—
+&emsp;&emsp;If a partition is approved under this subsection and an owner of an interest in theparcel of land refuses to surrender possession in accordance with the partition decision, or refuses to execute any conveyance necessary to implement the partition, then any affected owner or the United States may—
 
 &emsp;&emsp;&emsp;(i) commence a civil action in the United States district court for the district in which the parcel of land is located; and
 
@@ -326,7 +326,7 @@ Subsec. (b)(3). Pub. L. 106–462, §103(2)(C), added par. (3) and struck out fo
 
 <b>1984</b>—Pub. L. 98–608 amended section generally, substituting "the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of over 50 per centum of the undivided interests in such tract" for "of over 50 per centum of the owners or with the consent of the owners of over 50 per centum of undivided interests in such tract" before proviso.
 
-Par. (1). Pub. L. 98–608 redesignated par. (2) as (1) and inserted "for at least three years preceding the tribal initiative," before "may purchase such tract". Former par. (1), which provided that no such tract shall be acquired by any Indian or tribe over the objections of three or less owners owning 50 per centum or more of the total interest in such tract, was struck out.
+Par. (1). Pub. L. 98–608 redesignated par. (2) as (1) and inserted "for at least three years preceding the tribal initiative," before "may purchase such tract". Formerpar. (1), which provided that no such tract shall be acquired by any Indian or tribe over the objections of three or less owners owning 50 per centum or more of the total interest in such tract, was struck out.
 
 Par. (2). Pub. L. 98–608 added par. (2). Former par. (2) redesignated (1).
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) does not relate to the cargo of the vessel.
 
-(b) The officer of the port empowered to grant clearances shall require from the master of sucha vessel, as a condition of clearance, an oath that he does not have under his care or control, and will not receive or transport, any letter contrary to the provisions of this section.
+(b) The officer of the port empowered to grant clearances shall require from the master of such a vessel, as a condition of clearance, an oath that he does not have under his care or control, and will not receive or transport, any letter contrary to the provisions of this section.
 
 (c) Except as provided in section 1699 of title 18, the master of a vessel arriving at a port of the United States carrying letters not regularly in the mails shall deposit them in the post office at the port of arrival.
 

@@ -80,7 +80,7 @@ In reviewing applications:
 
 &emsp;&emsp;(A) Communities that have evidenced barriers to primary health care and mental health and substance use disorder prevention services for children and adolescents.
 
-&emsp;&emsp;(B) Communities with high per capita numbers of children and adolescents who are uninsured, underinsured, or enrolled in public health insurance programs.
+&emsp;&emsp;(B) Communities with high per capita numbers of children and adolescents who areuninsured, underinsured, or enrolled in public health insurance programs.
 
 &emsp;&emsp;(C) Populations of children and adolescents that have historically demonstrated difficulty in accessing health and mental health and substance use disorder prevention services.
 
@@ -124,7 +124,7 @@ The Secretary may—
 
 #### (B) No overlapping grant period
 
-&emsp;&emsp;No entity that has received funding under section 254b of this title for a grant periodshall be eligible for a grant under this section for with respect to <sup>1</sup> the same grant period.
+&emsp;&emsp;No entity that has received funding under section 254b of this title for a grant period shall be eligible for a grant under this section for with respect to <sup>1</sup> the same grant period.
 
 #### (g) Matching requirement
 

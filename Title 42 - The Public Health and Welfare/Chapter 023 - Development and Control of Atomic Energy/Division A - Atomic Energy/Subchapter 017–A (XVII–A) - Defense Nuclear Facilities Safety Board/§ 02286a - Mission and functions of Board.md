@@ -2,7 +2,7 @@
 
 #### (a) Mission
 
-The mission of the Board shall be to provide independent analysis, advice, and recommendations to the Secretary of Energy to inform the Secretary, in the role of the Secretary as operator and regulator of the defense nuclear facilities of the Department of Energy, in providing adequate protection of public health and safety at such defense nuclear facilities.
+The mission of the Board shall be to provide independent analysis, advice, and recommendations to the Secretary of Energy to inform the Secretary, in the role of the Secretary as operator and regulator of the defense nuclear facilities of the Department of Energy, in providing adequate protection of public health and safety at such defense nuclear facilities, including withrespect to the health and safety of employees and contractors at such facilities.
 
 #### (b) Functions
 
@@ -32,7 +32,7 @@ The Board shall perform the following functions:
 
 #### (4) Review of facility design and construction
 
-&emsp;The Board shall review the design of a new Department of Energy defense nuclear facilitybefore construction of such facility begins and shall recommend to the Secretary, within a reasonable time, such modifications of the design as the Board considers necessary to ensure adequate protection of public health and safety. During the construction of any such facility, the Board shall periodically review and monitor the construction and shall submit to the Secretary, within a reasonable time, such recommendations relating to the construction of that facility as the Board considers necessary to ensure adequate protection of public health and safety. An action of the Board, or a failure to act, under this paragraph may not delay or prevent the Secretary of Energy from carrying out the construction of such a facility.
+&emsp;The Board shall review the design of a new Department of Energy defense nuclear facility before construction of such facility begins and shall recommend to the Secretary, within a reasonable time, such modifications of the design as the Board considers necessary to ensure adequate protection of public health and safety. During the construction of any such facility, the Board shall periodically review and monitor the construction and shall submit to the Secretary, within a reasonable time, such recommendations relating to the construction of that facility as the Board considers necessary to ensure adequate protection of public health and safety. An action of the Board, or a failure to act, under this paragraph may not delay or prevent the Secretary of Energy from carrying out the construction of such a facility.
 
 #### (5) Recommendations
 
@@ -42,9 +42,11 @@ The Board shall perform the following functions:
 
 The functions of the Board under this subchapter do not include functions relating to the safety of atomic weapons. However, the Board shall have access to any information on atomic weapons that is within the Department of Energy and is necessary to carry out the functions of the Board.
 
-(Aug. 1, 1946, ch. 724, title I, §312, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2077; amended Pub. L. 102–190, div. C, title XXXII, §3202(b)(2), Dec. 5, 1991, 105 Stat. 1582; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 112–239, div. C, title XXXII, §3202(b)(1), Jan. 2, 2013, 126 Stat. 2218.)
+(Aug. 1, 1946, ch. 724, title I, §312, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2077; amended Pub. L. 102–190, div. C, title XXXII, §3202(b)(2), Dec. 5, 1991, 105 Stat. 1582; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 112–239, div. C, title XXXII, §3202(b)(1), Jan. 2, 2013, 126 Stat. 2218; Pub. L. 116–92, div. C, title XXXII, §3202(b), Dec. 20, 2019, 133 Stat. 1965.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–92 inserted ", including with respect to the health and safety of employees and contractors at such facilities" before period at end.
 
 <b>2013</b>—Pub. L. 112–239, §3202(b)(1)(A), substituted "Mission and functions" for "Functions" in section catchline.
 

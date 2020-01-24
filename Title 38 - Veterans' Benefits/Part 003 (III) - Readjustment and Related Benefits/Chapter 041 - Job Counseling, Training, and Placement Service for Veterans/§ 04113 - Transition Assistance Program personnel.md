@@ -18,7 +18,7 @@ Functions.—Contractors under subsection (a) shall provide to members of the Ar
 
 &emsp;(5) Such other services as the Secretary considers appropriate.
 
-(Added Pub. L. 108–183, title III, §309(a)(1), Dec. 16, 2003, 117 Stat. 2663; amended Pub. L. 109–233, title IV, §402(e)(2), June 15, 2006, 120 Stat. 411; Pub. L. 112–56, title II, §223(a)(1), Nov. 21, 2011, 125 Stat. 717.)
+(Added Pub. L. 108–183, title III, §309(a)(1), Dec. 16, 2003, 117 Stat. 2663; amended Pub. L. 109–233,title IV, §402(e)(2), June 15, 2006, 120 Stat. 411; Pub. L. 112–56, title II, §223(a)(1), Nov. 21, 2011, 125 Stat. 717.)
 
 #### Prior Provisions
 

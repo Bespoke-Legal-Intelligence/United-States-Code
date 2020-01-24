@@ -84,7 +84,7 @@ The Secretary, to the extent practicable, shall—
 
 &emsp;&emsp;(B) pre-Advanced Placement or pre-International Baccalaureate course development and professional development;
 
-&emsp;&emsp;(C) coordination and articulation between grade levels to prepare students to enroll and succeed in Advanced Placement or International Baccalaureate courses in mathematics, science, or critical foreign languages;
+&emsp;&emsp;(C) coordination and articulation between grade levels to prepare students to enroll and succeed in Advanced Placement or International Baccalaureate courses inmathematics, science, or critical foreign languages;
 
 &emsp;&emsp;(D) purchase of instructional materials;
 
@@ -165,10 +165,6 @@ Subsec. (j)(2)(B). Pub. L. 114–95, §9215(i)(3)(B), substituted "section 6311(
 <b>2011</b>—Subsec. (h)(1). Pub. L. 111–358, §1003(b)(1), substituted "50" for "100" and "100" for "200".
 
 Subsec. (l). Pub. L. 111–358, §1003(b)(2), added subsec. (l) and struck out former subsec. (l). Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section $75,000,000 for fiscal year 2008, and such sums as may be necessary for each of the 2 succeeding fiscal years."
-
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2015 Amendment
 

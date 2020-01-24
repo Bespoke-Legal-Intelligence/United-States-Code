@@ -60,7 +60,7 @@ Pub. L. 109–59, title IV, §4301, Aug. 10, 2005, 119 Stat. 1761, provided that
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–298, §1, Nov. 26, 2002, 116 Stat. 2342, provided that: "This Act \[amending sections 13102, 13506,14501, and 31138 of this title\] may be cited as the 'Real Interstate Driver Equity Act of 2002'."
+Pub. L. 107–298, §1, Nov. 26, 2002, 116 Stat. 2342, provided that: "This Act \[amending sections 13102, 13506, 14501, and 31138 of this title\] may be cited as the 'Real Interstate Driver Equity Act of 2002'."
 
 #### Short Title of 1986 Amendment
 

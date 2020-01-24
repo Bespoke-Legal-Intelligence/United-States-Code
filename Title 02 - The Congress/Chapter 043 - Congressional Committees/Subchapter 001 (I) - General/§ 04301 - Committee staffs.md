@@ -2,7 +2,7 @@
 
 #### (a) Appointment of professional members; number; qualifications; termination of employment
 
-Each standing committee of the Senate (other than the Committee on Appropriations) is authorized to appoint, by majority vote of the committee, not more than six professional staff members in addition to the clerical staffs. Such professional staff members shall be assigned to the chairman and the ranking minority member of such committee as the committee may deem advisable, except that whenever a majority of the minority members of such committee so request, two of such professional staff members may be selected for appointment by majority vote of the minority members and the committee shall appoint any staff members so selected. A staff member or members appointed pursuant to a request by the minority members of the committee shall be assigned to such committee business as such minority members deem advisable. Services of professional staff members appointed by majority vote of the committee may be terminated by a majority vote of the committee and services of professional staff members appointed pursuant to a request by the minority members of the committee shall be terminated by the committee when a majority of such minority members so request. Professional staff members authorized by this subsection shall be appointed on a permanent basis, without regard to political affiliation, and solely on the basis offitness to perform the duties of their respective positions. Such professional staff members shall not engage in any work other than committee business and no other duties may be assigned to them.
+Each standing committee of the Senate (other than the Committee on Appropriations) is authorized to appoint, by majority vote of the committee, not more than six professional staff members in addition to the clerical staffs. Such professional staff members shall be assigned to the chairman and the ranking minority member of such committee as the committee may deem advisable, except that whenever a majority of the minority members of such committee so request, two of such professional staff members may be selected for appointment by majority vote of the minority members and the committee shall appoint any staff members so selected. A staff member or members appointed pursuant to a request by the minority members of the committee shall be assigned to such committee business as such minority members deem advisable. Services of professional staff members appointed by majority vote of the committee may be terminated by a majority vote of the committee and services of professional staff members appointed pursuant to a request by the minority members of the committee shall be terminated by the committee when a majority of such minority members so request. Professional staff members authorized by this subsection shall be appointed on a permanent basis, without regard to political affiliation, and solely on the basis of fitness to perform the duties of their respective positions. Such professional staff members shall not engage in any work other than committee business and no other duties may be assigned to them.
 
 #### (b) Professional members for Committee on Appropriations; examinations of executive agencies' operation
 
@@ -28,7 +28,7 @@ In any case in which a request for the appointment of a minority staff member un
 
 &emsp;(1) the person appointed pursuant to such a request under subsection (a) may serve in addition to any other professional staff members authorized by such subsection and may be paid from the contingent fund of the Senate until such time as such a vacancy occurs, at which time such person shall be considered to have been appointed to such vacancy; and
 
-&emsp;(2) the person appointed pursuant to such a request under subsection (c) may serve in addition to any other clerical staff members authorized by such subsection and may be paid, until otherwise provided, from the contingent fund of the Senate.
+&emsp;(2) the person appointed pursuant to such a request under subsection (c) may serve in addition to any other clerical staff members authorized by such subsection and may be paid,until otherwise provided, from the contingent fund of the Senate.
 
 #### (h) Salary rates, assignment of facilities, and accessibility of committee records for minority staff appointees
 
@@ -190,7 +190,7 @@ Pub. L. 104–53, title I, §105, Nov. 19, 1995, 109 Stat. 521, provided that:
 
 #### Staff Members; Reduction in Number; Selection for Minority Members
 
-Pub. L. 91–510, title III, §301(d), Oct. 26, 1970, 84 Stat. 1177, provided that: "Nothing in the amendments made by subsections (a) and (b) of this section \[amending this section\] shall be construed—
+Pub. L. 91–510, title III, §301(d), Oct. 26, 1970, 84 Stat. 1177, provided that: "Nothing in the amendments madeby subsections (a) and (b) of this section \[amending this section\] shall be construed—
 
 &emsp;"(1) to require a reduction in—
 
@@ -202,7 +202,7 @@ Pub. L. 91–510, title III, §301(d), Oct. 26, 1970, 84 Stat. 1177, provided th
 
 #### Professional Staffs; Increase in Number
 
-Pub. L. 91–510, title III, §301(e), Oct. 26, 1970, 84 Stat. 1177, provided that: "The additional professional staff members authorized to be employed by a committee by the amendment made by subsection (a) of this section \[amending this section\] shall be in addition to anyother additional staff members authorized, prior to January 1, 1971, to be employed by any such committee."
+Pub. L. 91–510, title III, §301(e), Oct. 26, 1970, 84 Stat. 1177, provided that: "The additional professional staff members authorized to be employed by a committee by the amendment made by subsection (a) of this section \[amending this section\] shall be in addition to any other additional staff members authorized, prior to January 1, 1971, to be employed by any such committee."
 
 #### Increases in Compensation
 
@@ -252,7 +252,7 @@ Sec. 3. (a) The Office is authorized, and shall have the responsibility, to deve
 
 &emsp;"(2) to establish and operate a central repository in the United States Capitol for the safeguarding of classified information for which the Office is responsible; which shall include the classified records, transcripts, and materials of all closed sessions of the Senate; and
 
-&emsp;"(3) to administer and maintain oaths of secrecy under paragraph (2) of rule XXIX of the Standing Rules of the Senate and to establish such procedures as may be necessary to implement the provisions of such paragraph.
+&emsp;"(3) to administer and maintain oaths of secrecy under paragraph (2) of rule XXIX of the StandingRules of the Senate and to establish such procedures as may be necessary to implement the provisions of such paragraph.
 
 "
 
@@ -268,5 +268,5 @@ S. Res. 229, One Hundredth Congress, June 5, 1987, established within the Office
 
 #### Authorization of Appropriations
 
-Act Aug. 2, 1946, ch. 753, title II, §244, 60 Stat. 839, provided in part: "All necessary funds required to carryout the provisions of this Act \[see Tables for classification\], by the Secretary of the Senate and the Clerk of the House, are hereby authorized to be appropriated."
+Act Aug. 2, 1946, ch. 753, title II, §244, 60 Stat. 839, provided in part: "All necessary funds required to carry out the provisions of this Act \[see Tables for classification\], by the Secretary of the Senate and the Clerk of the House, are hereby authorized to be appropriated."
 

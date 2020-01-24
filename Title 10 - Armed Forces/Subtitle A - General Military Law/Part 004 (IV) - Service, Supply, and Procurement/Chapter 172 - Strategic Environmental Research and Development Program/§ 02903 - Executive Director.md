@@ -10,7 +10,7 @@
 
 (2) The Executive Director, with the concurrence of the Council and without regard to the provisions of chapter 51 of title 5 and subchapter III of chapter 53 of such title, may establish the rates of basic pay for professional, scientific, and technical employees appointed pursuant to paragraph (1).
 
-(Added Pub. L. 101–510, div. A, title XVIII, §1801(a)(1), Nov. 5, 1990, 104 Stat. 1755; amended Pub. L. 102–25, title VII, §701(h)(2), Apr. 6, 1991, 105 Stat. 115; Pub. L. 103–160, div. A, title II, §265(b), Nov. 30, 1993, 107 Stat. 1611; Pub. L. 104–106, div. A, title II, §203(d), (e)(1), Feb. 10, 1996, 110 Stat. 218.)
+(Added Pub. L. 101–510, div. A, title XVIII, §1801(a)(1), Nov. 5, 1990, 104 Stat. 1755; amendedPub. L. 102–25, title VII, §701(h)(2), Apr. 6, 1991, 105 Stat. 115; Pub. L. 103–160, div. A, title II, §265(b), Nov. 30, 1993, 107 Stat. 1611; Pub. L. 104–106, div. A, title II, §203(d), (e)(1), Feb. 10, 1996, 110 Stat. 218.)
 
 #### Amendments
 

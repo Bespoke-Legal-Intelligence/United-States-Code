@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as provided in subsections (b) and (c) and in sections 6306, 7651, 7652, 7654, and 7810, the gross amount of all taxes and revenues received under the provisions of this title, and collections of whatever nature received or collected by authority of any internal revenue law, shall be paid daily into the Treasury of the UnitedStates under instructions of the Secretary as internal revenue collections, by the officer or employee receiving or collecting the same, without any abatement or deduction on account of salary, compensation, fees, costs, charges, expenses, or claims of any description. A certificate of such payment, stating the name of the depositor and the specific account on which the deposit was made, signed by the Treasurer of the United States, designated depositary, or proper officer of a deposit bank, shall be transmitted to the Secretary.
+Except as provided in subsections (b) and (c) and in sections 6306, 7651, 7652, 7654, and 7810, the gross amount of all taxes and revenues received under the provisions of this title, and collections of whatever nature received or collected by authority of any internal revenue law, shall be paid daily into the Treasury of the United States under instructions of the Secretary as internal revenue collections, by the officer or employee receiving or collecting the same, without any abatement or deduction on account of salary, compensation, fees, costs, charges, expenses, or claims of any description. A certificate of such payment, stating the name of the depositor and the specific account on which the deposit was made, signed by the Treasurer of the United States, designated depositary, or proper officer of a deposit bank, shall be transmitted to the Secretary.
 
 #### (b) Deposit funds
 
@@ -34,7 +34,7 @@ Moneys received in payment for—
 
 &emsp;(2) work or services performed (including materials supplied) pursuant to section 7516 (relating to the supplying of training and training aids on request);
 
-&emsp;(3) other work or services performed for a State or a department or agency of the Federal Government (subject to all provisions of law and regulations governing disclosure of information) in supplying copies of, or data from, returns, statements, or other documents filed under authority of this title or records maintained in connection with the administration and enforcement of this title; and
+&emsp;(3) other work or services performed for a State or a department or agency of the Federal Government (subject to all provisions of law and regulations governing disclosure of information) in supplying copies of, or data from, returns, statements, or other documents filed under authority of this title or recordsmaintained in connection with the administration and enforcement of this title; and
 
 &emsp;(4) work or services performed (including materials supplied) pursuant to section 6110 (relating to public inspection of written determinations),
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 100–690 applicable to information first provided more tha
 
 #### Effective Date of 1976 Amendments
 
-Pub. L. 94–528, §2(e), Oct. 17, 1976, 90 Stat. 2484, provided that: "The amendments made by this section\[amending this section and provisions set out as notes under sections 6334, 6851, and 7609 of this title\] shall take effect on the date of the enactment of the Tax Reform Act of 1976 \[Oct. 4, 1976\]."
+Pub. L. 94–528, §2(e), Oct. 17, 1976, 90 Stat. 2484, provided that: "The amendments made by this section \[amending this section and provisions set out as notes under sections 6334, 6851, and 7609 of this title\] shall take effect on the date of the enactment of the Tax Reform Act of 1976 \[Oct. 4, 1976\]."
 
 Amendment by section 1202(h)(5) of Pub. L. 94–455 effective Jan. 1, 1977, see section 1202(i) of Pub. L. 94–455, set out as a note under section 6103 of this title.
 

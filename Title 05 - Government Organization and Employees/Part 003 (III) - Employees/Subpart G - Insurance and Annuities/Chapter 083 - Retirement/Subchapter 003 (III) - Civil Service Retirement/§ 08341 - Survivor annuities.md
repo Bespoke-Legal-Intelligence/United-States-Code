@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(C) such unmarried dependent child between 18 and 22 years of age who is a student regularly pursuing a full-time course of study or training in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution.
 
-> &emsp;For the purpose of this paragraph and subsection (e) of this section, a child whose 22nd birthday occurs before July 1 or after August 31 of a calendar year, and while he is regularly pursuing such a course of study or training, is deemed to have become 22 years of age on the first day of July after that birthday. A child who is a student is deemed not to have ceased to be a student during an interim between school years if the interim is not more than 5 months and if he shows to the satisfaction of the Office of Personnel Management that he has a bona fide intention of continuing to pursue a course of study or training in the same or different school during the school semester (or other period into which the school year is divided) immediately after the interim.
+> &emsp;For the purpose of this paragraph and subsection (e) of this section, a child whose 22nd birthday occurs before July 1 or after August 31 of a calendar year, and while he is regularly pursuing such a course of study or training, isdeemed to have become 22 years of age on the first day of July after that birthday. A child who is a student is deemed not to have ceased to be a student during an interim between school years if the interim is not more than 5 months and if he shows to the satisfaction of the Office of Personnel Management that he has a bona fide intention of continuing to pursue a course of study or training in the same or different school during the school semester (or other period into which the school year is divided) immediately after the interim.
 
 (b)(1) Except as provided in paragraph (2) of this subsection, if an employee or Member dies after having retired under this subchapter and is survived by a widow or widower, the widow or widower is entitled to an annuity equal to 55 percent (or 50 percent if retired before October 11, 1962) of an annuity computed under section 8339(a)–(i), (n), (p), (q), (r), and (s) as may apply with respect to the annuitant, or of such portion thereof as may have been designated for this purpose under section 8339(j)(1) of this title, unless the right to a survivor annuity was waived under such section 8339(j)(1) or, in the case of remarriage, the employee or Member did not file an election under section 8339(j)(5)(C) or section 8339(k)(2) of this title, as the case may be.
 
@@ -36,7 +36,7 @@
 
 > dies and is survived by a widow or widower, the widow or widower is entitled to an annuity in an amount which would have been paid had the annuitant been married to the widow or widower at the time of retirement.
 
-(3) A spouse acquired after retirement is entitled to a survivor annuity under this subsectiononly upon electing this annuity instead of any other survivor benefit to which he may be entitled under this subchapter or another retirement system for Government employees. The annuity of the widow or widower under this subsection commences on the day after the annuitant dies. This annuity and the right thereto terminate on the last day of the month before the widow or widower—
+(3) A spouse acquired after retirement is entitled to a survivor annuity under this subsection only upon electing this annuity instead of any other survivor benefit to which he may be entitled under this subchapter or another retirement system for Government employees. The annuity of the widow or widower under this subsection commences on the day after the annuitant dies. This annuity and the right thereto terminate on the last day of the month before the widow or widower—
 
 &emsp;(A) dies; or
 
@@ -170,7 +170,7 @@
 
 (7) As used in this subsection, "court" means any court of any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court.
 
-(i) The requirement in subsections (a)(1)(A) and (a)(2)(A) of this section that the surviving spouse of an employee or Member have been married to such employee or Member for at least 9 months immediately before the employee or Member's death in order to qualify as thewidow or widower of such employee or Member shall be deemed satisfied in any case in which the employee or Member dies within the applicable 9-month period, if—
+(i) The requirement in subsections (a)(1)(A) and (a)(2)(A) of this section that the surviving spouse of an employee or Member have been married to such employee or Member for at least 9 months immediately before the employee or Member's death in order to qualify as the widow or widower of such employee or Member shall be deemed satisfied in any case in which the employee or Member dies within the applicable 9-month period, if—
 
 &emsp;(1) the death of the employee or Member was accidental; or
 
@@ -432,7 +432,7 @@ Pub. L. 98–615, §4, Nov. 8, 1984, 98 Stat. 3204, as amended by Pub. L. 99–2
 
 "(C) Any election by an employee or Member described in subparagraph (B) to provide a survivor annuity for that individual's spouse by a marriage described in such subparagraph shall be effective if made in accordance with the applicable provisions of section 8339(j)(1) or 8339(k)(2) of title 5, United States Code, as the case may be, as in effect on May 6, 1985.
 
-"(5)(A) Paragraphs (3), (4), and (5)(B) of section 8339(j) of title 5, United States Code (as added by section 2(3)(A) of this Act), shall apply in the case of a former spouse of an employee or Member whose marriage to such employee or Member terminated before May 7, 1985, if such employee or Member retires on or after such date. The paragraphs referred to in the preceding sentence shall so apply only insofar as they relate to an election to provide a survivor annuity for a former spouse.
+"(5)(A) Paragraphs (3), (4), and (5)(B) of section 8339(j) of title 5, United States Code (as added by section2(3)(A) of this Act), shall apply in the case of a former spouse of an employee or Member whose marriage to such employee or Member terminated before May 7, 1985, if such employee or Member retires on or after such date. The paragraphs referred to in the preceding sentence shall so apply only insofar as they relate to an election to provide a survivor annuity for a former spouse.
 
 "(B)(i) The requirement described in clause (ii) shall not apply to an election made by an employee or Member under section 8339(j)(3) of title 5, United States Code (as amended by section 2(3)(A) of this Act), in order to provide a survivor annuity under section 8341(h) of such title (as amended by section 2(4)(G) of this Act) in the case of a former spouse referred to in subparagraph (A) if the election meets the requirements of clause (iii).
 
@@ -484,7 +484,7 @@ Pub. L. 98–615, §4, Nov. 8, 1984, 98 Stat. 3204, as amended by Pub. L. 99–2
 
 > and shall not be subject to reduction under section 8341(h)(2) of such title, as amended by this Act.
 
-"(c) Notwithstanding subsection (a)(1) of this section, an employee or Member who retired before the one hundred and eightieth day after the date of enactment of this Act \[Nov. 8, 1984\] and who is married to a spouse acquired after retirement for whom such employee or Member was unable to provide a survivor annuity because—
+"(c) Notwithstanding subsection (a)(1) of this section, an employee or Member who retired before the one hundred and eightieth day after the date of enactment of this Act \[Nov. 8, 1984\] and who is married to a spouse acquired after retirement for whom such employee orMember was unable to provide a survivor annuity because—
 
 &emsp;"(1) the employee or Member was married at the time of retirement and elected not to provide a survivor annuity for the employee or Member's spouse at the time of retirement, or
 
@@ -562,7 +562,7 @@ Section 2 of Pub. L. 92–243 provided that: "The amendment made by the first se
 
 Section 2 of Pub. L. 91–189 provided that: "The provisions of section 8341(e) of title 5, United States Code, as amended by section 206(b) of Public Law 91–93 (83 Stat. 140), shall be effective as of October 20, 1969."
 
-Amendment by Pub. L. 91–93 inapplicable in cases of persons retired or otherwise separated prior to Oct. 20, 1969, their rights and of their survivors continued as ifsuch amendment had not been enacted, see section 207(a) of Pub. L. 91–93 set out as a note under section 8331 of this title.
+Amendment by Pub. L. 91–93 inapplicable in cases of persons retired or otherwise separated prior to Oct. 20, 1969, their rights and of their survivors continued as if such amendment had not been enacted, see section 207(a) of Pub. L. 91–93 set out as a note under section 8331 of this title.
 
 #### Effective Date of 1969 Amendment; Recomputation and Reduction of Survivor Annuities
 

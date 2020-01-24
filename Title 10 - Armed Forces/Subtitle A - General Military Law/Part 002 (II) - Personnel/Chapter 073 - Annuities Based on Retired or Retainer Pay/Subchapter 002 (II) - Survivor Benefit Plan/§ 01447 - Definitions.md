@@ -60,7 +60,7 @@ Widow.—The term "widow" means the surviving wife of a person who, if not marri
 
 &emsp;(8)
 
-Widower.—The term "widower" means the surviving husband of a person who, if not married to the person at the time she became eligible for retired pay—
+Widower.—The term "widower" means the surviving husband of a person who, if notmarried to the person at the time she became eligible for retired pay—
 
 &emsp;&emsp;(A) was married to her for at least one year immediately before her death; or
 
@@ -220,7 +220,7 @@ Pub. L. 94–496, §3, Oct. 14, 1976, 90 Stat. 2376, provided that: "This Act \[
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–189, div. A, title XIV, §1401, Nov. 29, 1989, 103 Stat. 1577, provided that: "This title \[enacting subchapter III of this chapter, amending this section and sections 1331 \[now 12731\], 1448 to 1452, and 1454 of this title and section 3101 \[now 5301\] of Title 38, Veterans' Benefits, and enacting provisions set out as notes undersections 1448, 1451, 1452, 1456, and 12731 of this title\] may be cited as the 'Military Survivor Benefits Improvement Act of 1989'."
+Pub. L. 101–189, div. A, title XIV, §1401, Nov. 29, 1989, 103 Stat. 1577, provided that: "This title \[enacting subchapter III of this chapter, amending this section and sections 1331 \[now 12731\], 1448 to 1452, and 1454 of this title and section 3101 \[now 5301\] of Title 38, Veterans' Benefits, and enacting provisions set out as notes under sections 1448, 1451, 1452, 1456, and 12731 of this title\] may be cited as the 'Military Survivor Benefits Improvement Act of 1989'."
 
 #### Short Title of 1985 Amendment
 

@@ -34,7 +34,7 @@ In this part, the term "eligible individual" means an individual—
 
 &emsp;In the case of health insurance coverage offered in the individual market in a State in which the State is not implementing an acceptable alternative mechanism under section 300gg–44 of this title, the health insurance issuer may elect to limit the coverage offered under subsection (a) so long as it offers at least two different policy forms of health insurance coverage both of which—
 
-&emsp;&emsp;(A) are designed for, made generally available to, and actively marketed to, and enrollboth eligible and other individuals by the issuer; and
+&emsp;&emsp;(A) are designed for, made generally available to, and actively marketed to, and enroll both eligible and other individuals by the issuer; and
 
 &emsp;&emsp;(B) meet the requirement of paragraph (2) or (3), as elected by the issuer.
 
@@ -48,7 +48,7 @@ In this part, the term "eligible individual" means an individual—
 
 #### (A) In general
 
-&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policy form (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
+&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policyform (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
 
 #### (B) Lower-level of coverage described
 
@@ -104,7 +104,7 @@ In this part, the term "eligible individual" means an individual—
 
 #### (2) 180-day suspension upon denial of coverage
 
-&emsp;An issuer upon denying individual health insurance coverage in any service area in accordance with paragraph (1) may not offer such coverage in the individual market withinsuch service area for a period of 180 days after the date such coverage is denied or until the issuer has demonstrated, if required under applicable State law, to the applicable State authority that the issuer has sufficient financial reserves to underwrite additional coverage, whichever is later. A State may provide for the application of this paragraph on a service-area-specific basis.
+&emsp;An issuer upon denying individual health insurance coverage in any service area in accordance with paragraph (1) may not offer such coverage in the individual market within such service area for a period of 180 days after the date such coverage is denied or until the issuer has demonstrated, if required under applicable State law, to the applicable State authority that the issuer has sufficient financial reserves to underwrite additional coverage, whichever is later. A State may provide for the application of this paragraph on a service-area-specific basis.
 
 #### (e) <sup>2</sup> Market requirements
 

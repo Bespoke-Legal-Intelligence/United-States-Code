@@ -104,7 +104,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (B) Notice
 
-&emsp;&emsp;Not later than 15 days before the date on which the Secretary uses the authority under subparagraph (A), the Secretary shall submit a notice of the use of that authority to—
+&emsp;&emsp;Not later than 15 days before the date on which the Secretary uses the authorityunder subparagraph (A), the Secretary shall submit a notice of the use of that authority to—
 
 &emsp;&emsp;&emsp;(i) the Committee on Appropriations of the House of Representatives;
 
@@ -124,7 +124,7 @@ The Secretary shall develop long-term cost projections for loan program authoriz
 
 #### (d) Low-income, limited-resource borrowers
 
-(1) Notwithstanding any other provision of law, not less than 25 per centum of the loans for farm ownership purposes under subchapter I of this chapter, and not less than 25 per centum of the loans for farm operating purposes under subchapter II of this chapter, authorized to be insured, or made to be sold and insured, from theAgricultural Credit Insurance Fund during each fiscal year shall be for low-income, limited-resource borrowers.
+(1) Notwithstanding any other provision of law, not less than 25 per centum of the loans for farm ownership purposes under subchapter I of this chapter, and not less than 25 per centum of the loans for farm operating purposes under subchapter II of this chapter, authorized to be insured, or made to be sold and insured, from the Agricultural Credit Insurance Fund during each fiscal year shall be for low-income, limited-resource borrowers.
 
 (2) The Secretary shall provide notification to farm borrowers under this chapter, as soon as practicable after April 10, 1984, and in the normal course of loan making and loan servicing operations, of the provisions of this chapter relating to low-income, limited-resource borrowers and the procedures by which persons may apply for loans under the low-income, limited-resource borrower program.
 
@@ -160,7 +160,7 @@ Subsec. (b)(1)(A). Pub. L. 110–246, §5303(2), in introductory provisions, sub
 
 Subsec. (b)(2)(A)(i). Pub. L. 110–246, §5302(b)(1)(A), in subcl. (I), substituted "an amount that is not less than 75 percent of the total amount" for "70 percent" and, in subcl. (II), inserted "; joint financing arrangements" at end of heading and, in text, substituted "an amount not less than 2/3 of the amount" for "60 percent" and inserted "and joint financing arrangements under section 1927(a)(3)(D) of this title" after "section 1935 of this title".
 
-Subsec. (b)(2)(A)(ii)(III). Pub. L. 110–246, §5302(b)(1)(B), substituted "2008 through 2012, an amount that is not less than 50 percent of the total amount" for "2003 through 2007, 35 percent".
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 110–246, §5302(b)(1)(B), substituted "2008 through 2012, an amount that is notless than 50 percent of the total amount" for "2003 through 2007, 35 percent".
 
 Subsec. (b)(2)(B)(i). Pub. L. 110–246, §5302(b)(2), substituted "an amount that is not less than 40 percent of the total amount" for "25 percent".
 
@@ -186,7 +186,7 @@ Subsec. (b)(3)(C). Pub. L. 102–237, §701(h)(1)(F), substituted "this chapter"
 
 Pub. L. 101–508, §1202(a), amended subsec. (b) generally, substituting present provisions for provisions relating to maximum amounts for loans under the Agricultural Credit Insurance Fund and the Rural Development Insurance Fund for fiscal years 1986 through 1988.
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–198, §1317(a), amended subsec. (b) generally, substituting provisions setting maximum amounts for loans under the Agricultural Credit Insurance Fund and the Rural Development Insurance Fund for each of fiscal years ending September30, 1986, through September 30, 1988, for provisions setting such amounts for each of fiscal years 1980, 1981, and 1982.
+<b>1985</b>—Subsec. (b). Pub. L. 99–198, §1317(a), amended subsec. (b) generally, substituting provisions setting maximum amounts for loans under the Agricultural Credit Insurance Fund and the Rural Development Insurance Fund for each of fiscal years ending September 30, 1986, through September 30, 1988, for provisions setting such amounts for each of fiscal years 1980, 1981, and 1982.
 
 Subsecs. (d), (e). Pub. L. 99–198, §1317, struck out subsec. (d) which authorized special amounts for fiscal year 1982, redesignated subsec. (e) as (d), and in par. (1) substituted "25 per centum" for "20 per centum" wherever appearing and "each fiscal year" for "fiscal year 1984".
 

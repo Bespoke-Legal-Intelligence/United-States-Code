@@ -96,7 +96,7 @@ On an annual basis, the Advisory Board shall review—
 
 &emsp;&emsp;(B) review the activity in accordance with such process.
 
-(Pub. L. 105–185, title I, §103, June 23, 1998, 112 Stat. 527; Pub. L. 110–234, title VII, §§7129(c)(3), 7301, 7511(c)(30), May 22, 2008, 122 Stat. 1227, 1242, 1270; Pub. L. 110–246, §4(a), title VII, §§7129(c)(3), 7301, 7511(c)(30), June 18, 2008, 122 Stat. 1664, 1988, 2003, 2031; Pub. L. 113–79, title VII, §7301, Feb. 7, 2014, 128 Stat. 887.)
+(Pub. L. 105–185, title I, §103, June 23, 1998, 112 Stat. 527; Pub. L. 110–234, title VII, §§7129(c)(3),7301, 7511(c)(30), May 22, 2008, 122 Stat. 1227, 1242, 1270; Pub. L. 110–246, §4(a), title VII, §§7129(c)(3), 7301, 7511(c)(30), June 18, 2008, 122 Stat. 1664, 1988, 2003, 2031; Pub. L. 113–79, title VII, §7301, Feb. 7, 2014, 128 Stat. 887.)
 
 #### Codification
 

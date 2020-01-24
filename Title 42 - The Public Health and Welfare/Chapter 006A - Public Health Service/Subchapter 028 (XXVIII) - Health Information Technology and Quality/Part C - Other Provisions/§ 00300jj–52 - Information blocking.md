@@ -74,7 +74,7 @@
 
 #### (C) Procedure
 
-&emsp;&emsp;The provisions of section 1320a–7a of this title (other than subsections (a) and (b) of such section) shall apply to a civil money penalty applied under this paragraph in the same manner as such provisions apply to a civil money penalty or proceeding under such section 1320a–7a(a) of this title.
+&emsp;&emsp;The provisions of section 1320a–7a of this title (other than subsections (a) and (b) ofsuch section) shall apply to a civil money penalty applied under this paragraph in the same manner as such provisions apply to a civil money penalty or proceeding under such section 1320a–7a(a) of this title.
 
 #### (D) Recovered penalty funds
 
@@ -96,7 +96,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Office of the Inspector General, if such Office determines that a consultation regarding the health privacy and security rules promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note)will resolve an information blocking claim, may refer such instances of information blocking to the Office for Civil Rights of the Department of Health and Human Services for resolution.
+&emsp;&emsp;The Office of the Inspector General, if such Office determines that a consultation regarding the health privacy and security rules promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note) will resolve an information blocking claim, may refer such instances of information blocking to the Office for Civil Rights of the Department of Health and Human Services for resolution.
 
 #### (B) Limitation on liability
 

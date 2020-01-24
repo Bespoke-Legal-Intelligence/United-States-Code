@@ -6,7 +6,7 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277, which directed the substitution of "renovate, recondition, improve, and maintain" for "recondition and maintain,", was executed by making the substitution for language which did not include a comma after "maintain" to reflect the probable intent of Congress.
+<b>1998</b>—Pub. L. 105–277, which directed the substitution of "renovate, recondition, improve, and maintain" for"recondition and maintain,", was executed by making the substitution for language which did not include a comma after "maintain" to reflect the probable intent of Congress.
 
 #### Authorization for Lease of Forest Service Sites
 
@@ -258,7 +258,7 @@ Effect on lease agreement.—Paragraph (1) shall not affect the authority of the
 
 #### Forest Service Facility Realignment and Enhancement
 
-Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 111–8, div. E, title IV, §422, Mar. 11, 2009, 123 Stat. 748; Pub. L. 112–74, div. E, title IV, §421, Dec. 23, 2011, 125 Stat. 1045; Pub. L. 115–141, div. G, title IV, §423, Mar. 23, 2018, 132 Stat. 692; Pub. L. 115–334, title VIII, §8504, Dec. 20, 2018, 132 Stat. 4847, provided that:
+Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 111–8, div. E, title IV, §422, Mar. 11, 2009, 123 Stat. 748; Pub. L. 112–74, div. E, title IV, §421, Dec. 23, 2011, 125 Stat. 1045; Pub. L. 115–141, div. G, title IV, §423, Mar. 23, 2018, 132 Stat. 692; Pub. L. 115–334, title VIII, §8504, Dec. 20, 2018, 132 Stat. 4847; Pub. L. 116–6, div. E, title IV, §422, Feb. 15, 2019, 133 Stat. 263, provided that:
 
 #### "SEC. 501. SHORT TITLE.
 
@@ -378,7 +378,7 @@ Notice of use of authority.—At least once a year, the Secretary shall submit t
 
 "(f)
 
-Duration of Authority.—The authority of the Secretary to initiate the conveyance of an administrative site under this title expires on September 30, 2023.
+Duration of Authority.—The authority of the Secretary to initiate the conveyance of an administrative site under this title expires on September 30, 2019.
 
 "(g)
 
@@ -424,7 +424,7 @@ Sale.—Consideration for an administrative site conveyed by sale under this tit
 
 &emsp;&emsp;"(B)
 
-Exchange.—If the administrative site is conveyed by exchange, the consideration shall be provided in the form of a conveyance to the Secretaryof land or improvements that are equal in market value to the conveyed administrative site. If the market values are not equal, the market values may be equalized by—
+Exchange.—If the administrative site is conveyed by exchange, the consideration shall be provided in the form of a conveyance to the Secretary of land or improvements that are equal in market value to the conveyed administrative site. If the market values are not equal, the market values may be equalized by—
 
 &emsp;&emsp;&emsp;"(i) the Secretary making a cash payment to the person or entity acquiring the administrative site; or
 
@@ -502,7 +502,9 @@ Use.—Amounts deposited under paragraph (1) shall be available to the Secretary
 
 Brokerage Services.—The Secretary may use the proceeds from the conveyance of an administrative site under this title to pay reasonable commissions or fees for brokerage services obtained in connection with the conveyance if the Secretary determines that the services are in the public interest. The Secretary shall provide public notice of any brokerage services contract entered into in connection with a conveyance under this title."
 
-\[Pub. L. 115–334, title VIII, §8504, Dec. 20, 2018, 132 Stat. 4847, which directed amendment of section 503(f) of Pub. L. 109–54, set out above, by substituting "2023" for "2016", was executed by making the substitution for "2018" to reflect the probable intent of Congress and the intervening amendment by Pub. L. 115–141.\]
+\[Pub. L. 116–94, div. D, title IV, §420, Dec. 20, 2019, 133 Stat. 2747, provided that: "Section 503(f) of Public Law 109–54 (16 U.S.C. 580d note) \[set out above\] shall be applied by substituting 'September 30, 2020' for 'September 30, 2019'."\]
+
+\[Pub. L. 115–334, title VIII, §8504, Dec. 20, 2018, 132 Stat. 4847, which directed amendment of section 503(f) of Pub. L. 109–54, set out above, by substituting "2023" for "2016", could not be executed because of the intervening amendment by Pub. L. 115–141.\]
 
 #### Conveyance of Excess Forest Service Structures
 

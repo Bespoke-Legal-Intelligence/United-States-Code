@@ -12,7 +12,7 @@ Equal opportunity in employment shall be afforded by each entity specified in su
 
 Any entity specified in subsection (a) shall establish, maintain, and execute a positive continuing program of specific practices designed to ensure equal opportunity in every aspect of its employment policies and practices. Under the terms of its program, each such entity shall—
 
-&emsp;(1) define the responsibility of each level of management to ensure a positive application and vigorous enforcement of its policy of equal opportunity, and establish a procedure to review and control managerial and supervisory performance;
+&emsp;(1) define the responsibility of each level of management to ensure a positive applicationand vigorous enforcement of its policy of equal opportunity, and establish a procedure to review and control managerial and supervisory performance;
 
 &emsp;(2) inform its employees and recognized employee organizations of the equal employment opportunity policy and program and enlist their cooperation;
 
@@ -20,7 +20,7 @@ Any entity specified in subsection (a) shall establish, maintain, and execute a 
 
 &emsp;(4) conduct a continuing program to exclude every form of prejudice or discrimination based on race, color, religion, national origin, age, or sex, from its personnel policies and practices and working conditions; and
 
-&emsp;(5) conduct a continuing review of job structure and employment practices and adopt positive recruitment, training, job design, and other measures needed to ensure genuineequality of opportunity to participate fully in all its organizational units, occupations, and levels of responsibility.
+&emsp;(5) conduct a continuing review of job structure and employment practices and adopt positive recruitment, training, job design, and other measures needed to ensure genuine equality of opportunity to participate fully in all its organizational units, occupations, and levels of responsibility.
 
 #### (d) Revision of rules; required provisions; annual statistical report; notice and comment on amendments
 
@@ -80,7 +80,7 @@ Any entity specified in subsection (a) shall establish, maintain, and execute a 
 
 (1) On an annual basis, the Commission shall certify each entity described in subsection (a) as in compliance with this section if, on the basis of information in the possession of the Commission, including the report filed pursuant to subsection (d)(3), such entity was in compliance, during the annual period involved, with the requirements of subsections (b), (c), and (d).
 
-(2) The Commission shall, periodically but not less frequently than every five years, investigate the employment practices of each entity described in subsection (a), in the aggregate, as well as in individual job categories, and determine whether such entity is in compliance with the requirements of subsections (b), (c), and (d), including whether such entity's employment practices deny or abridge women and minorities equal employment opportunities. As part of such investigation, the Commission shall review whether the entity's reports filed pursuant to subsection (d)(3) accurately reflect employee responsibilities in the reported job classifications.
+(2) The Commission shall, periodically but not less frequently than every five years, investigate the employment practices of each entity described in subsection (a), in the aggregate, aswell as in individual job categories, and determine whether such entity is in compliance with the requirements of subsections (b), (c), and (d), including whether such entity's employment practices deny or abridge women and minorities equal employment opportunities. As part of such investigation, the Commission shall review whether the entity's reports filed pursuant to subsection (d)(3) accurately reflect employee responsibilities in the reported job classifications.
 
 #### (f) Substantial failure to comply; penalties; notice to public and franchising authorities
 

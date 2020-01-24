@@ -144,7 +144,7 @@ The Servicemembers Civil Relief Act, referred to in subsec. (e)(1), is act Oct. 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (e)(1). Pub. L. 108–189, §2(b)(2)(A), which directed substitution of "provided by the Servicemembers Civil Relief Act, including the benefits provided by section 702 of such Act but excluding the benefits provided by sections 104, 105, and 106, title IV, and title V (other than sections 501 and 510) of such Act" for " 'provided by the Soldiers' and Sailors' Civil Relief Act of 1940' and all that follows through 'of such Act' " was executed by making the substitution for "provided by the Soldiers' and Sailors' Civil Relief Act of 1940, including the benefits provided by section 701 of such Act but excluding the benefits provided by sections 104, 105,106, 400 through 408, 501 through 512, and 514 of such Act" to reflect the probable intent of Congress.
+<b>2003</b>—Subsec. (e)(1). Pub. L. 108–189, §2(b)(2)(A), which directed substitution of "provided by the Servicemembers Civil Relief Act, including the benefits provided by section 702 of such Act but excluding the benefits provided by sections 104, 105, and 106, title IV, and title V (other than sections 501 and 510) of such Act" for " 'provided by the Soldiers' and Sailors' Civil Relief Act of 1940' and all that follows through 'of such Act' " was executed by making the substitution for "provided by the Soldiers' and Sailors' Civil Relief Act of 1940, including the benefits provided by section 701 of such Act but excluding the benefits provided by sections 104, 105, 106, 400 through 408, 501 through 512, and 514 of such Act" to reflect the probable intent of Congress.
 
 Subsec. (e)(2)(A). Pub. L. 108–189, §2(b)(2)(B), substituted "servicemember" for "person in the military service".
 
@@ -196,7 +196,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Section 1. The functions vested in the President by that part of section 803(a) of the Act to be codified at 5 U.S.C. 5569 are delegated to the Secretary of State.
 
-Sec. 2. The functions vested in the President by that part of section 803(a) of the Act to be codified at 5 U.S.C. 5570 are delegated to the Secretary of State, to be exercised in consultation with the Secretary of Labor.
+Sec. 2. The functions vested in the President by that part of section 803(a) of the Act to be codified at 5U.S.C. 5570 are delegated to the Secretary of State, to be exercised in consultation with the Secretary of Labor.
 
 Sec. 3. The functions vested in the President by section 806(a) (to be codified at 37 U.S.C. 559), section 806(c) (to be codified at 10 U.S.C. 1095 \[now 10 U.S.C. 1095a\]), and section 806(d) (to be codified at 10 U.S.C. 2181–2185) are delegated to the Secretary of Defense.
 

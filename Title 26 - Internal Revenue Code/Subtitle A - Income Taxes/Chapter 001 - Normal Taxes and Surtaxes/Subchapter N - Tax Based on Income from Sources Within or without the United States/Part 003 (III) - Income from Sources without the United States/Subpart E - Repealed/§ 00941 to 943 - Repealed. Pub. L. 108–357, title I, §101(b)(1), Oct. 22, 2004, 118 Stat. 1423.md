@@ -6,7 +6,7 @@ A prior section 941, acts Aug. 16, 1954, ch. 736, 68A Stat. 293; Oct. 4, 1976, P
 
 Section 942, added Pub. L. 106–519, §3(b), Nov. 15, 2000, 114 Stat. 2426, defined "foreign trading gross receipts" and set forth economic process requirements.
 
-A prior section 942, act Aug. 16, 1954, ch. 736, 68A Stat. 294, disallowed foreign tax credit authorized by section901 to any corporation organized under the China Trade Act, prior to repeal by Pub. L. 94–455, title X, §1053(c), (e), Oct. 4, 1976, 90 Stat. 1649, effective with respect to taxable years beginning after Dec. 31, 1977.
+A prior section 942, act Aug. 16, 1954, ch. 736, 68A Stat. 294, disallowed foreign tax credit authorized by section 901 to any corporation organized under the China Trade Act, prior to repeal by Pub. L. 94–455, title X, §1053(c), (e), Oct. 4, 1976, 90 Stat. 1649, effective with respect to taxable years beginning after Dec. 31, 1977.
 
 Section 943, added Pub. L. 106–519, §3(b), Nov. 15, 2000, 114 Stat. 2428; amended Pub. L. 107–147, title IV, §417(14), Mar. 9, 2002, 116 Stat. 56, set forth other definitions and special rules for purposes of this subpart.
 

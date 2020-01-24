@@ -1,6 +1,6 @@
 ### §222. Giving suggestions or information with intent to cause inaccurate enumeration of population
 
-Whoever, either directly or indirectly, offers or renders to any officer or employee of the Department of Commerce or bureau or agency thereof engaged in making an enumeration of population under subchapter II, IV, or V of chapter 5 of this title, any suggestion, advice, information or assistance of any kind, with the intent or purpose of causing an inaccurate enumeration of population to be made, shall be fined not more than $1,000 or imprisoned not more than one year, or both.
+Whoever, either directly or indirectly, offers or renders to any officer or employee of the Department of Commerce or bureau or agency thereof engaged in making an enumeration of population under subchapter II, IV, or V of chapter 5 of this title, any suggestion, advice, information or assistance of any kind, with the intent or purpose of causing an inaccurate enumeration of population to be made, shall befined not more than $1,000 or imprisoned not more than one year, or both.
 
 (Aug. 31, 1954, ch. 1158, 68 Stat. 1023; Pub. L. 85–207, §16, Aug. 28, 1957, 71 Stat. 484.)
 
@@ -14,7 +14,7 @@ Section 122 of title 13, U.S.C., 1952 ed., made section 209 of such title applic
 
 Reference to "any officer or employee" was substituted for "any supervisor, supervisor's clerk, enumerator, interpreter, special agent, or other officer or employee", as the latter enumeration of the types of employees is unnecessary and redundant; and "Department of Commerce or bureau or agency thereof" was substituted for "Census Office", to conform with 1950 Reorganization Plan No. 5, §§1, 2, effective May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
 
-Subsection (b) of section 1442 of title 42, U.S.C., 1952 ed., The Public Health and Welfare (which section hasbeen transferred in its entirety to this revised title), made section 209 of title 13, U.S.C., 1952 ed., applicable to the censuses of housing (subchapter II of chapter 5 of this revised title). However, the particular provisions of such section 209 that have been carried into this revised section, could not, by their terms, be relevant to housing censuses, hence no reference is made in this section to such censuses.
+Subsection (b) of section 1442 of title 42, U.S.C., 1952 ed., The Public Health and Welfare (which section has been transferred in its entirety to this revised title), made section 209 of title 13, U.S.C., 1952 ed., applicable to the censuses of housing (subchapter II of chapter 5 of this revised title). However, the particular provisions of such section 209 that have been carried into this revised section, could not, by their terms, be relevant to housing censuses, hence no reference is made in this section to such censuses.
 
 Words in section 209 of title 13, U.S.C., 1952 ed., "either as to the number of persons resident in any district or community, or in any other respect", were omitted from the revised section as unnecessary and superfluous.
 

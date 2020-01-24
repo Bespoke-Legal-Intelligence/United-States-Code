@@ -54,6 +54,10 @@ In any case in which an initial tax is imposed by subsection (a) on a prohibited
 
 &emsp;An individual for whose benefit a health savings account (within the meaning of section 223(d)) is established shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be a health savings account by reason of the application of section 223(e)(2) to such account.
 
+#### (7) Special rule for provision of pharmacy benefit services
+
+&emsp;Any party to an arrangement which satisfies the requirements of section 408(h) of the Employee Retirement Income Security Act of 1974 shall be exempt from the tax imposed by this section with respect to such arrangement.
+
 #### (d) Exemptions
 
 Except as provided in subsection (f)(6), the prohibitions provided in subsection (c) shall not apply to—
@@ -88,7 +92,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(A) the employer maintaining the plan, or
 
-&emsp;&emsp;(B) a disqualified person which is wholly owned (directly or indirectly) by the employer establishing the plan, or by any person which is a disqualified person with respect to the plan, but only if the total premiums and annuity considerations written by such insurers for life insurance, health insurance, or annuities for all plans (and theiremployers) with respect to which such insurers are disqualified persons (not including premiums or annuity considerations written by the employer maintaining the plan) do not exceed 5 percent of the total premiums and annuity considerations written for all lines of insurance in that year by such insurers (not including premiums or annuity considerations written by the employer maintaining the plan);
+&emsp;&emsp;(B) a disqualified person which is wholly owned (directly or indirectly) by the employer establishing the plan, or by any person which is a disqualified person with respect to the plan, but only if the total premiums and annuity considerations written by such insurers for life insurance, health insurance, or annuities for all plans (and their employers) with respect to which such insurers are disqualified persons (not including premiums or annuity considerations written by the employer maintaining the plan) do not exceed 5 percent of the total premiums and annuity considerations written for all lines of insurance in that year by such insurers (not including premiums or annuity considerations written by the employer maintaining the plan);
 
 &emsp;(6) the provision of any ancillary service by a bank or similar financial institution supervised by the United States or a State, if such service is provided at not more than reasonable compensation, if such bank or other institution is a fiduciary of such plan, and if—
 
@@ -138,7 +142,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(F) the stock is sold in a single transaction for cash not later than 120 days after the S corporation election is made;
 
-&emsp;(17) any transaction in connection with the provision of investment advice described insubsection (e)(3)(B) to a participant or beneficiary in a plan that permits such participant or beneficiary to direct the investment of plan assets in an individual account, if—
+&emsp;(17) any transaction in connection with the provision of investment advice described in subsection (e)(3)(B) to a participant or beneficiary in a plan that permits such participant or beneficiary to direct the investment of plan assets in an individual account, if—
 
 &emsp;&emsp;(A) the transaction is—
 
@@ -188,7 +192,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(B) at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm's length <sup>2</sup> foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm's-length foreign exchange transactions involving unrelated parties,
 
-&emsp;&emsp;(C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more than 3 percent from the interbank bid and asked rates for transactions ofcomparable size and maturity at the time of the transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
+&emsp;&emsp;(C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time of the transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
 
 &emsp;&emsp;(D) the bank or broker-dealer (or any affiliate of either) does not have investment discretion, or provide investment advice, with respect to the transaction,<sup>1</sup>
 
@@ -324,7 +328,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 #### (B) Disqualified person
 
-&emsp;&emsp;In the case of any trust to which this section applies by reason of subparagraph (A),the term "disqualified person" includes any person who is a disqualified person with respect to any plan to which such trust is permitted to make payments under section 4223 of the Employee Retirement Income Security Act of 1974.
+&emsp;&emsp;In the case of any trust to which this section applies by reason of subparagraph (A), the term "disqualified person" includes any person who is a disqualified person with respect to any plan to which such trust is permitted to make payments under section 4223 of the Employee Retirement Income Security Act of 1974.
 
 #### (f) Other definitions and special rules
 
@@ -400,7 +404,7 @@ For purposes of this section—
 
 #### (7) S corporation repayment of loans for qualifying employer securities
 
-&emsp;A plan shall not be treated as violating the requirements of section 401 or 409 or subsection (e)(7), or as engaging in a prohibitedtransaction for purposes of subsection (d)(3), merely by reason of any distribution (as described in section 1368(a)) with respect to S corporation stock that constitutes qualifying employer securities, which in accordance with the plan provisions is used to make payments on a loan described in subsection (d)(3) the proceeds of which were used to acquire such qualifying employer securities (whether or not allocated to participants). The preceding sentence shall not apply in the case of a distribution which is paid with respect to any employer security which is allocated to a participant unless the plan provides that employer securities with a fair market value of not less than the amount of such distribution are allocated to such participant for the year which (but for the preceding sentence) such distribution would have been allocated to such participant.
+&emsp;A plan shall not be treated as violating the requirements of section 401 or 409 or subsection (e)(7), or as engaging in a prohibited transaction for purposes of subsection (d)(3), merely by reason of any distribution (as described in section 1368(a)) with respect to S corporation stock that constitutes qualifying employer securities, which in accordance with the plan provisions is used to make payments on a loan described in subsection (d)(3) the proceeds of which were used to acquire such qualifying employer securities (whether or not allocated to participants). The preceding sentence shall not apply in the case of a distribution which is paid with respect to any employer security which is allocated to a participant unless the plan provides that employer securities with a fair market value of not less than the amount of such distribution are allocated to such participant for the year which (but for the preceding sentence) such distribution would have been allocated to such participant.
 
 #### (8) Provision of investment advice to participant and beneficiaries
 
@@ -428,7 +432,7 @@ For purposes of this section—
 
 #### (ii) Computer model
 
-&emsp;&emsp;&emsp;The requirements of this clause are met if the investment advice provided under the investment advice program is provided pursuant to a computer model that—
+&emsp;&emsp;&emsp;The requirements of this clause are met if the investment advice provided underthe investment advice program is provided pursuant to a computer model that—
 
 &emsp;&emsp;&emsp;&emsp;(I) applies generally accepted investment theories that take into account the historic returns of different asset classes over defined periods of time,
 
@@ -462,7 +466,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) any transaction described in subsection (d)(17)(A)(ii) occurs solely at the direction of the participant or beneficiary.
 
-&emsp;&emsp;&nbsp;Nothing in the preceding sentence shall preclude the participant or beneficiary from requesting investment advice other than that described in clause (i), but only if such request has not been solicited byany person connected with carrying out the arrangement.
+&emsp;&emsp;&nbsp;Nothing in the preceding sentence shall preclude the participant or beneficiary from requesting investment advice other than that described in clause (i), but only if such request has not been solicited by any person connected with carrying out the arrangement.
 
 #### (D) Express authorization by separate fiduciary
 
@@ -626,7 +630,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;The term "correct" means, with respect to a transaction—
 
-&emsp;&emsp;&emsp;&emsp;(I) to undo the transaction to the extent possible and in any case to make good to the plan or affected account any losses resulting from the transaction, and
+&emsp;&emsp;&emsp;&emsp;(I) to undo the transaction to the extent possible and in any case to makegood to the plan or affected account any losses resulting from the transaction, and
 
 &emsp;&emsp;&emsp;&emsp;(II) to restore to the plan or affected account any profits made through the use of assets of the plan.
 
@@ -650,7 +654,7 @@ Before sending a notice of deficiency with respect to the tax imposed by subsect
 
 &emsp;&emsp;<b>For provisions concerning coordination procedures between Secretary of Labor and Secretary of the Treasury with respect to application of tax imposed by this section and for authority to waive imposition of the tax imposed by subsection (b), see section 3003 of the Employee Retirement Income Security Act of 1974.</b>
 
-(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title VI, §§612(a), 656(b), June 7, 2001, 115 Stat. 100, 134; Pub. L. 107–22, §1(b)(1)(D), (3)(D), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(f), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–357, title II, §§233(c),240(a), Oct. 22, 2004, 118 Stat. 1434, 1437; Pub. L. 109–135, title IV, §413(a)(2), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 109–280, title VI, §§601(b)(1), (2), 611(a)(2), (c)(2), (d)(2), (e)(2), (g)(2), 612(b), Aug. 17, 2006, 120 Stat. 958, 959, 967, 969–971, 974, 976; Pub. L. 110–458, title I, §106(a)(2), (b)(2), (c), Dec. 23, 2008, 122 Stat. 5106; Pub. L. 115–141, div. U, title IV, §401(a)(190), (229)–(234), Mar. 23, 2018, 132 Stat. 1193, 1195.)
+(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title VI, §§612(a), 656(b), June 7, 2001, 115 Stat. 100, 134; Pub. L. 107–22, §1(b)(1)(D), (3)(D), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(f), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–357, title II, §§233(c), 240(a), Oct. 22, 2004, 118 Stat. 1434, 1437; Pub. L. 109–135, title IV, §413(a)(2), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 109–280, title VI, §§601(b)(1), (2), 611(a)(2), (c)(2), (d)(2), (e)(2), (g)(2), 612(b), Aug. 17, 2006, 120 Stat. 958, 959, 967, 969–971, 974, 976; Pub. L. 110–458, title I, §106(a)(2), (b)(2), (c), Dec. 23, 2008, 122 Stat. 5106; Pub. L. 115–141, div. U, title IV, §401(a)(190), (229)–(234), Mar. 23, 2018, 132 Stat. 1193, 1195; Pub. L. 116–94, div. P, title XIII, §1302(b), Dec. 20, 2019, 133 Stat. 3205.)
 
 #### References in Text
 
@@ -665,6 +669,8 @@ The Investment Advisers Act of 1940, referred to in subsec. (f)(8)(J)(i)(I), is 
 The Securities Exchange Act of 1934, referred to in subsec. (f)(8)(J)(i)(IV), (10)(A)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Section 6 of the Act is classified to section 78f of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c)(7). Pub. L. 116–94 added par. (7).
 
 <b>2018</b>—Subsec. (d)(3). Pub. L. 115–141, §401(a)(229), substituted "a leveraged" for "an leveraged" in introductory provisions.
 
@@ -824,7 +830,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title VI, §601(b)(4), Aug. 17, 2006, 120 Stat. 966, as amended by Pub. L. 110–458, title I, §106(a)(3), Dec. 23, 2008, 122 Stat. 5106, provided that:"Except as provided in this subsection \[amending this section and enacting provisions set out as notes under this section\], the amendments made by this subsection shall apply with respect to advice referred to in section 4975(e)(3)(B) of the Internal Revenue Code of 1986 provided after December 31, 2006."
+Pub. L. 109–280, title VI, §601(b)(4), Aug. 17, 2006, 120 Stat. 966, as amended by Pub. L. 110–458, title I, §106(a)(3), Dec. 23, 2008, 122 Stat. 5106, provided that: "Except as provided in this subsection \[amending this section and enacting provisions set out as notes under this section\], the amendments made by this subsection shall apply with respect to advice referred to in section 4975(e)(3)(B) of the Internal Revenue Code of 1986 provided after December 31, 2006."
 
 Pub. L. 109–280, title VI, §611(h), Aug. 17, 2006, 120 Stat. 975, provided that:
 
@@ -862,7 +868,7 @@ Amendment by section 656(b) of Pub. L. 107–16 applicable to plan years beginni
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 213(b) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 213(f) of Pub. L. 105–34, set out as a note under section 26 of this title.
+Amendment by section 213(b) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, seesection 213(f) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
 Pub. L. 105–34, title X, §1074(b), Aug. 5, 1997, 111 Stat. 949, provided that: "The amendment made by this section \[amending this section\] shall apply to prohibited transactions occurring after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
@@ -932,7 +938,7 @@ Pub. L. 93–406, title II, §2003(c), Sept. 2, 1974, 88 Stat. 978, as amended b
 
 &emsp;"(A) a loan of money or other extension of credit between a plan and a disqualified person under a binding contract in effect on July 1, 1974 (or pursuant to renewals of such a contract), until June 30, 1984, if such loan or other extension of credit remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be, and if the execution of the contract, the making of the loan, or the extension of credit was not, at the time of such execution, making, or extension, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law);
 
-&emsp;"(B) a lease of joint use of property involving the plan and a disqualified person pursuant to a binding contract in effect on July 1, 1974 (or pursuant to renewals of such a contract), until June 30, 1984, if such lease or joint use remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be and if the execution of the contract was not, at the time of such execution, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law;
+&emsp;"(B) a lease of joint use of property involving the plan and a disqualified person pursuant to a binding contract in effect on July 1, 1974 (or pursuant to renewals of such a contract), until June 30, 1984, if such lease or joint use remains at least as favorable to theplan as an arm's-length transaction with an unrelated party would be and if the execution of the contract was not, at the time of such execution, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law;
 
 &emsp;"(C) the sale, exchange, or other disposition of property described in subparagraph (B) between a plan and a disqualified person before June 30, 1984, if—
 
@@ -949,6 +955,10 @@ Pub. L. 93–406, title II, §2003(c), Sept. 2, 1974, 88 Stat. 978, as amended b
 #### Regulations
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
+
+#### Applicability of Amendments by Pub. L. 116–94
+
+Pub. L. 116–94, div. P, title XIII, §1302(c), Dec. 20, 2019, 133 Stat. 3205, provided that: "With respect to a group health plan subject to subsection (h) of section 408 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1108) (as amended by subsection (a)) and subsection (c) of section 4975 of the Internal Revenue Code of 1986 (as amended by subsection (b)), beginning at the end of the fifth plan year of such group health plan that begins after the date of enactment of this Act \[Dec. 20, 2019\], such subsection (h) of such section 408 and such subsection (c) of such \[sic\] shall have no force or effect."
 
 #### Determination of Feasibility of Application of Computer Model Investment Advice Programs for Individual Retirement and Similar Plans
 
@@ -970,7 +980,7 @@ Solicitation of information.—As soon as practicable after the date of the enac
 
 "(B)
 
-Determination of feasibility.—The Secretary of Labor, in consultation with the Secretary of theTreasury, shall, on the basis of information received under subparagraph (A), determine whether there is any computer model investment advice program which may be utilized by a plan described in subparagraph (A)(i) to provide investment advice to the account beneficiary of the plan which—
+Determination of feasibility.—The Secretary of Labor, in consultation with the Secretary of the Treasury, shall, on the basis of information received under subparagraph (A), determine whether there is any computer model investment advice program which may be utilized by a plan described in subparagraph (A)(i) to provide investment advice to the account beneficiary of the plan which—
 
 &emsp;"(i) utilizes relevant information about the account beneficiary, which may include age, life expectancy, retirement age, risk tolerance, other assets or sources of income, and preferences as to certain types of investments,
 
@@ -1020,7 +1030,7 @@ In general.—If the Secretary of Labor initially makes a determination describe
 
 &emsp;"(ii)
 
-Requests for determination.—Any person may request the Secretary of Labor to make a determination under this subparagraph with respect to any computer model investment advice program, and the Secretary of Labor shall make a determination with respect to such request within 90 days. If the Secretary of Labor makes a determination that such program is not described in subparagraph (B), the Secretary shall, within 10 days of such determination, notify the Committee on Ways and Means and the Committee on Education and the Workforce of the House of Representatives and the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate of such determination and the reasons for such determination.
+Requests for determination.—Any person may request the Secretary of Labor to make a determination under this subparagraph with respect to any computer model investment advice program, and the Secretary of Labor shall make a determination with respect to such request within 90 days. If the Secretary of Labor makes a determination that such program is not described in subparagraph (B), the Secretary shall, within 10 days of such determination, notify the Committee on Ways and Means and the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives and the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate of such determination and the reasons for such determination.
 
 "(E)
 

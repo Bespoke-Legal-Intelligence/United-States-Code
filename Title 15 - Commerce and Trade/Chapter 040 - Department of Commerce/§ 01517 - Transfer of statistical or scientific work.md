@@ -22,7 +22,7 @@ Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerc
 
 Pub. L. 98–166, title I, §101, Nov. 28, 1983, 97 Stat. 1076, provided that: "No funds made available by this Act, or any other Act, may be used—
 
-&emsp;"(1) by the Source Evaluation Board for Civil Space Remote Sensing as established by the Secretary ofCommerce to develop or issue a request for proposal to transfer the ownership or lease the use of any meteorological satellite (METSAT) or associated ground system to any private entity; or
+&emsp;"(1) by the Source Evaluation Board for Civil Space Remote Sensing as established by the Secretary of Commerce to develop or issue a request for proposal to transfer the ownership or lease the use of any meteorological satellite (METSAT) or associated ground system to any private entity; or
 
 &emsp;"(2) by the National Oceanic and Atmospheric Administration to transfer the ownership of any meteorological satellite (METSAT) or associated ground system to any private entity."
 

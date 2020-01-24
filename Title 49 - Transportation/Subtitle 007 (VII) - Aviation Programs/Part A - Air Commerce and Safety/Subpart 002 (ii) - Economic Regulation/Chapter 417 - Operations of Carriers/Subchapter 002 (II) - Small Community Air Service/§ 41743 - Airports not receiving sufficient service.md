@@ -60,7 +60,7 @@ Priorities.—The Secretary shall give priority to communities or consortia of c
 
 &emsp;&emsp;(B) the community or consortium will provide a portion of the cost of the activity to be assisted under the program from local sources other than airport revenues;
 
-&emsp;&emsp;(C) the community or consortium has established, or will establish, a public-privatepartnership to facilitate air carrier service to the public;
+&emsp;&emsp;(C) the community or consortium has established, or will establish, a public-private partnership to facilitate air carrier service to the public;
 
 &emsp;&emsp;(D) the assistance will provide material benefits to a broad segment of the travelling public, including business, educational institutions, and other enterprises, whose access to the national air transportation system is limited;
 

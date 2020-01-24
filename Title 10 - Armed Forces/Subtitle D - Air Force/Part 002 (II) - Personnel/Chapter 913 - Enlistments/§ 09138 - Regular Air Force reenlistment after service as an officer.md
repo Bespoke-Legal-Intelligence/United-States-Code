@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 July 14, 1939, ch. 267, §1 (less last proviso); restated May 29, 1954, ch. 249, §19(b) (less last proviso), 68 Stat. 166.
 
-The words "former" and "as an enlisted member" are inserted for clarity. The words "credit for service" are substituted for the words "of service". The words "in his grade" are substituted for the words "in the appropriate enlisted grade". The words "he applies" are substituted for the words "application \* \* \* shall be made". The words "Hereafter" and "while on active duty" are omitted as surplusage.
+The words "former" and "as an enlisted member" are inserted for clarity. The words "credit for service" aresubstituted for the words "of service". The words "in his grade" are substituted for the words "in the appropriate enlisted grade". The words "he applies" are substituted for the words "application \* \* \* shall be made". The words "Hereafter" and "while on active duty" are omitted as surplusage.
 
 #### Amendments
 

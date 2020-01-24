@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Director of the National Science Foundation (hereinafter in this section referred to as the "Director") is authorized to establish an endowed, nongovernmental, nonprofit foundation (hereinafter in this section referred to as the "Foundation") in consultation with the Directorof the National Institute of Standards and Technology.
+The Director of the National Science Foundation (hereinafter in this section referred to as the "Director") is authorized to establish an endowed, nongovernmental, nonprofit foundation (hereinafter in this section referred to as the "Foundation") in consultation with the Director of the National Institute of Standards and Technology.
 
 #### (b) Purposes
 

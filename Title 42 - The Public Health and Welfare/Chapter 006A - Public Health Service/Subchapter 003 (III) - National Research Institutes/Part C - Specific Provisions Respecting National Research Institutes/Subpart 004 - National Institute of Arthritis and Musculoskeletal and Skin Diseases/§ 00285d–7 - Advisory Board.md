@@ -24,7 +24,7 @@ The Advisory Board shall be composed of twenty appointed members and nonvoting, 
 
 #### (c) Compensation
 
-Members of the Advisory Board who are officers or employees of the Federal Government shall serve as members of the Advisory Board without compensation in addition to that received in their regular public employment. Other members of the Advisory Board shall receive compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule for each day (including traveltime) they are engaged in the performance of their duties as members of the Advisory Board.
+Members of the Advisory Board who are officers or employees of the Federal Governmentshall serve as members of the Advisory Board without compensation in addition to that received in their regular public employment. Other members of the Advisory Board shall receive compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule for each day (including traveltime) they are engaged in the performance of their duties as members of the Advisory Board.
 
 #### (d) Term of office; vacancy
 
@@ -60,7 +60,7 @@ In carrying out its functions, the Advisory Board may establish subcommittees, c
 
 The National Arthritis Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a). The Secretary shall make appointments to the Advisory Board established under subsection (a) before the expiration of 90 days after November 20, 1985. The member of the Board in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d), to the Advisory Board established under subsection (a).
 
-(July 1, 1944, ch. 373, title IV, §442, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 852; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(7),Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title VII, §701(d), title XX, §2008(b)(7), June 10, 1993, 107 Stat. 162, 211; Pub. L. 109–482, title I, §104(b)(1)(I), Jan. 15, 2007, 120 Stat. 3693.)
+(July 1, 1944, ch. 373, title IV, §442, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 852; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(7), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title VII, §701(d), title XX, §2008(b)(7), June 10, 1993, 107 Stat. 162, 211; Pub. L. 109–482, title I, §104(b)(1)(I), Jan. 15, 2007, 120 Stat. 3693.)
 
 #### Amendments
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the Presidentor an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

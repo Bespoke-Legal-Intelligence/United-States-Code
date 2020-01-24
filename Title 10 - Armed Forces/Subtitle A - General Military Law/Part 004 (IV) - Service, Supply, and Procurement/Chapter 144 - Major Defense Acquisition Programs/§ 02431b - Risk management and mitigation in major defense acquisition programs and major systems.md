@@ -4,7 +4,7 @@
 
 Requirement.—The Secretary of Defense shall ensure that the initial acquisition strategy (required under section 2431a of this title) approved by the milestone decision authority and any subsequent revisions include the following:
 
-&emsp;(1) A comprehensive approach for managing and mitigating risk (including technical, cost, and schedule risk) during each of the following periods or when determined appropriate by the milestone decision authority:
+&emsp;(1) A comprehensive approach for managing and mitigating risk (including technical, cost,and schedule risk) during each of the following periods or when determined appropriate by the milestone decision authority:
 
 &emsp;&emsp;(A) The period preceding engineering manufacturing development, or its equivalent.
 
@@ -12,7 +12,7 @@ Requirement.—The Secretary of Defense shall ensure that the initial acquisitio
 
 &emsp;&emsp;(C) The period preceding full-rate production.
 
-&emsp;(2) An identification of the major sources of risk in each of the periods listed in paragraph\(1) to improve programmatic decisionmaking and appropriately minimize and manage program concurrency.
+&emsp;(2) An identification of the major sources of risk in each of the periods listed in paragraph (1) to improve programmatic decisionmaking and appropriately minimize and manage program concurrency.
 
 (b)
 

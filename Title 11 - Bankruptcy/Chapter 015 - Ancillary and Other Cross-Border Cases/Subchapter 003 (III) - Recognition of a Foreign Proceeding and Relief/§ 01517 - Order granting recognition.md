@@ -16,7 +16,7 @@
 
 (c) A petition for recognition of a foreign proceeding shall be decided upon at the earliest possible time. Entry of an order recognizing a foreign proceeding constitutes recognition under this chapter.
 
-(d) The provisions of this subchapter do not prevent modification or termination of recognition if it is shown that the grounds for granting it were fully or partially lacking or have ceased to exist, but in considering such action the court shall give due weight to possible prejudice to parties that have relied upon the order granting recognition. A case under this chapter maybe closed in the manner prescribed under section 350.
+(d) The provisions of this subchapter do not prevent modification or termination of recognition if it is shown that the grounds for granting it were fully or partially lacking or have ceased to exist, but in considering such action the court shall give due weight to possible prejudice to parties that have relied upon the order granting recognition. A case under this chapter may be closed in the manner prescribed under section 350.
 
 (Added Pub. L. 109–8, title VIII, §801(a), Apr. 20, 2005, 119 Stat. 139.)
 

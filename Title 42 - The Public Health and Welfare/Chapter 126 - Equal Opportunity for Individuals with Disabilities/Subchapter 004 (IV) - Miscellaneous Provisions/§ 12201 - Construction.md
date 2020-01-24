@@ -12,7 +12,7 @@ Nothing in this chapter shall be construed to invalidate or limit the remedies, 
 
 Subchapters I through III of this chapter and title IV of this Act shall not be construed to prohibit or restrict—
 
-&emsp;(1) an insurer, hospital or medical service company, health maintenance organization, orany agent, or entity that administers benefit plans, or similar organizations from underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or
+&emsp;(1) an insurer, hospital or medical service company, health maintenance organization, or any agent, or entity that administers benefit plans, or similar organizations from underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or
 
 &emsp;(2) a person or organization covered by this chapter from establishing, sponsoring, observing or administering the terms of a bona fide benefit plan that are based on underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or
 

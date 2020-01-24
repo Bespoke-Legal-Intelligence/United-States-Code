@@ -66,7 +66,7 @@ In this section:
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term "qualified Outer Continental Shelf revenues" includes bonus bids, rents, royalties (including payments for royalty taken in kind and sold), net profit share payments, and related late-payment interestfrom natural gas and oil leases issued under this subchapter.
+&emsp;&emsp;The term "qualified Outer Continental Shelf revenues" includes bonus bids, rents, royalties (including payments for royalty taken in kind and sold), net profit share payments, and related late-payment interest from natural gas and oil leases issued under this subchapter.
 
 #### (C) Exclusion
 
@@ -152,7 +152,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) and except as provided in subparagraph (C), in a case in which any amount allocated to a producingState or coastal political subdivision under paragraph (4) or (5) is not disbursed because the producing State does not have in effect a plan that has been approved by the Secretary under subsection (c), the Secretary shall allocate the undisbursed amount equally among all other producing States.
+&emsp;&emsp;Subject to subparagraph (B) and except as provided in subparagraph (C), in a case in which any amount allocated to a producing State or coastal political subdivision under paragraph (4) or (5) is not disbursed because the producing State does not have in effect a plan that has been approved by the Secretary under subsection (c), the Secretary shall allocate the undisbursed amount equally among all other producing States.
 
 #### (B) Retention of allocation
 
@@ -160,7 +160,7 @@ In this section:
 
 #### (C) Waiver
 
-&emsp;&emsp;The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable share in escrow if the Secretary determines that the producing State is making a good faith effort to develop and submit, or update, a plan in accordance with subsection (c).
+&emsp;&emsp;The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable share in escrow if the Secretary determines that the producing State is making a good faitheffort to develop and submit, or update, a plan in accordance with subsection (c).
 
 #### (c) Coastal impact assistance plan
 
@@ -256,7 +256,7 @@ In this section:
 
 #### (A) Additional information
 
-&emsp;&emsp;If the Secretary approves a project for funding under this subsection that is included in a plan previously approved under subsection (c), not later than 90 days after the date of the funding approval, the producing State or coastal political subdivision shall submit to the Secretary any additional information that the Secretary determines to be necessary to ensure that the project is in compliance with subsection (d).
+&emsp;&emsp;If the Secretary approves a project for funding under this subsection that is included in a plan previously approved undersubsection (c), not later than 90 days after the date of the funding approval, the producing State or coastal political subdivision shall submit to the Secretary any additional information that the Secretary determines to be necessary to ensure that the project is in compliance with subsection (d).
 
 #### (B) Amendment to plan
 

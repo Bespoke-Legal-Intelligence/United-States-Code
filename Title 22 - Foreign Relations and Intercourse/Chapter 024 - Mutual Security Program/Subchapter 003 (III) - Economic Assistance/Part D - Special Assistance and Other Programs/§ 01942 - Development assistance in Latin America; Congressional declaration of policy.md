@@ -56,7 +56,7 @@ Pub. L. 93–189, §36, Dec. 17, 1973, 87 Stat. 734, as amended by Pub. L. 97–
 
 "(b) Any transfer or utilization under this section shall be in such proportions as may be agreed to between the United States and the Inter-American Development Bank.
 
-"(c) Any transfer under subsection (a)(1) shall be in the amounts, and in available currencies, determined in consultation with the Inter-American Foundation, to be required for its program purposes.
+"(c) Any transfer under subsection (a)(1) shall be in the amounts, and in available currencies, determinedin consultation with the Inter-American Foundation, to be required for its program purposes.
 
 "(d) The revision of the Social Progress Trust Fund Agreement pursuant to this section shall provide that the President or his delegate shall specify, from time to time, after consultation with the Inter-American Development Bank, the particular currencies to be used in making the transfer or utilization described in this section.
 

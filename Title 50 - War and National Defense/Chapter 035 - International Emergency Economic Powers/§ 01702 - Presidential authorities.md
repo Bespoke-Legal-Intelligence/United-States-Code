@@ -20,7 +20,7 @@
 
 (2) In exercising the authorities granted by paragraph (1), the President may require any person to keep a full record of, and to furnish under oath, in the form of reports or otherwise, complete information relative to any act or transaction referred to in paragraph (1) either before, during, or after the completion thereof, or relative to any interest in foreign property, or relative to any property in which any foreign country or any national thereof has or has had any interest, or as may be otherwise necessary to enforce the provisions of such paragraph. In any case in which a report by a person could be required under this paragraph, the President may require the production of any books of account, records, contracts, letters, memoranda, or other papers, in the custody or control of such person.
 
-(3) Compliance with any regulation, instruction, or direction issued under this chapter shall to the extent thereof be a full acquittance and discharge for all purposes of the obligation of the person making the same. No person shall be held liable in any court for or with respect to anything done or omitted in good faith in connection with the administration of, or pursuant to and in reliance on, this chapter, or any regulation, instruction, or direction issued under this chapter.
+(3) Compliance with any regulation, instruction, or direction issued under this chapter shallto the extent thereof be a full acquittance and discharge for all purposes of the obligation of the person making the same. No person shall be held liable in any court for or with respect to anything done or omitted in good faith in connection with the administration of, or pursuant to and in reliance on, this chapter, or any regulation, instruction, or direction issued under this chapter.
 
 #### (b) Exceptions to grant of authority
 
@@ -74,7 +74,7 @@ Pub. L. 103–236, title V, §525(c)(2), (3), Apr. 30, 1994, 108 Stat. 475, prov
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–418, title II, §2502(b)(2), Aug. 23, 1988, 102 Stat. 1372, provided that: "The amendments made byparagraph (1) \[amending this section\] apply to actions taken by the President under section 203 of the International Emergency Economic Powers Act \[this section\] before the date of the enactment of this Act \[Aug. 23, 1988\] which are in effect on such date of enactment, and to actions taken under such section on or after such date of enactment."
+Pub. L. 100–418, title II, §2502(b)(2), Aug. 23, 1988, 102 Stat. 1372, provided that: "The amendments made by paragraph (1) \[amending this section\] apply to actions taken by the President under section 203 of the International Emergency Economic Powers Act \[this section\] before the date of the enactment of this Act \[Aug. 23, 1988\] which are in effect on such date of enactment,and to actions taken under such section on or after such date of enactment."
 
 #### Ex. Ord. No. 13290. Confiscating and Vesting Certain Iraqi Property
 

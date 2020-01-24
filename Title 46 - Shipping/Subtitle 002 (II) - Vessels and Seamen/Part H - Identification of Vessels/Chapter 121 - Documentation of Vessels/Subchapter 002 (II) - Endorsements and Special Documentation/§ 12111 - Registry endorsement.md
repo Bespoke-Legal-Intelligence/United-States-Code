@@ -26,7 +26,7 @@ In general.—Subject to subparagraph (B), a trust qualifies under this paragrap
 
 &emsp;&emsp;&emsp;(i) each trustee is a citizen of the United States; and
 
-&emsp;&emsp;&emsp;(ii) the application for documentation of the vessel includes the affidavit of each trustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen of the United States, or involving any other person that is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25percent of the aggregate power to influence or limit the exercise of the authority of the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States.
+&emsp;&emsp;&emsp;(ii) the application for documentation of the vessel includes the affidavit of each trustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen of the United States, or involving any other person that is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25 percent of the aggregate power to influence or limit the exercise of the authority of the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States.
 
 &emsp;&emsp;(B)
 
@@ -50,7 +50,7 @@ In general.—Only a vessel for which a certificate of documentation with a regi
 
 &emsp;&emsp;(A) the setting, relocation, or recovery of the anchors or other mooring equipment of a mobile offshore drilling unit that is located over the outer Continental Shelf (as defined in section 2(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1331(a))); or
 
-&emsp;&emsp;(B) the transportation of merchandise or personnel to or from a point in the United States from or to a mobile offshore drilling unit located over the outer Continental Shelf that is not attached to the seabed.
+&emsp;&emsp;(B) the transportation of merchandise or personnel to or from a point in the UnitedStates from or to a mobile offshore drilling unit located over the outer Continental Shelf that is not attached to the seabed.
 
 &emsp;(2)
 

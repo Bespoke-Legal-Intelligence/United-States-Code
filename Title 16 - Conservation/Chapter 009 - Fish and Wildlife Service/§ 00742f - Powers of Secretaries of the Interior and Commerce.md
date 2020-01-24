@@ -34,7 +34,7 @@ Disbursal.—Any gift, devise, or bequest made for the benefit of a particular n
 
 &emsp;&emsp;(ii)
 
-Matching.—Subject to the availability of appropriations and the requirements ofthe National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a particular national wildlife refuge or complex of geographically related refuges. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
+Matching.—Subject to the availability of appropriations and the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a particular national wildlife refuge or complex of geographically related refuges. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
 
 (3) For the purpose of Federal income, estate, and gift taxes, property, or proceeds therefrom, or interests therein, accepted under this subsection shall be considered as a gift or bequest to the United States.
 
@@ -52,7 +52,7 @@ Matching.—Subject to the availability of appropriations and the requirements o
 
 (6)
 
-Senior volunteer corps.—The Secretary of the Interior may establish a Senior Volunteer Corps, consisting of volunteers over the age of 50. To assist in the recruitment and retention of the volunteers, the Secretary may provide for additional incidental expenses to members of the Corps beyond the incidental expenses otherwise provided to volunteers under this subsection. The members of the Corps shall be subject to the other provisions of this subsection.
+Senior volunteer corps.—The Secretary of the Interior may establish a Senior Volunteer Corps, consisting of volunteers over the age of 50. To assist in the recruitment and retention of the volunteers, the Secretary may provide for additional incidental expenses to members ofthe Corps beyond the incidental expenses otherwise provided to volunteers under this subsection. The members of the Corps shall be subject to the other provisions of this subsection.
 
 #### (d) Community partnership enhancement
 
@@ -90,7 +90,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (i) Matching
 
-&emsp;&emsp;&emsp;Subject to the availability of appropriations and the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match non-Federal fundsdonated under a cooperative agreement under this paragraph. With respect to each project or program, the amount of funds provided by the Secretary may not exceed the amount of the non-Federal funds donated through the project or program.
+&emsp;&emsp;&emsp;Subject to the availability of appropriations and the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match non-Federal funds donated under a cooperative agreement under this paragraph. With respect to each project or program, the amount of funds provided by the Secretary may not exceed the amount of the non-Federal funds donated through the project or program.
 
 #### (ii) Use of Federal funds
 
@@ -118,7 +118,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (2) Refuge programs
 
-&emsp;Based on the guidance developed under paragraph (1), the Secretary of the Interior may develop or enhance refuge education programs as appropriate, based on the resources of individual refuges and the opportunities available for such programs in State, local, and private schools. In developing and implementing each program, the Secretary should cooperate with State and local education authorities, and may cooperate with partner organizations in accordance with subsection (d).
+&emsp;Based on the guidance developed under paragraph (1), the Secretary of the Interior maydevelop or enhance refuge education programs as appropriate, based on the resources of individual refuges and the opportunities available for such programs in State, local, and private schools. In developing and implementing each program, the Secretary should cooperate with State and local education authorities, and may cooperate with partner organizations in accordance with subsection (d).
 
 #### (f) Report
 
@@ -154,7 +154,7 @@ Pub. L. 111–357, §2(a), amended subsec. (f) generally. Prior to amendment, te
 
 Subsec. (g). Pub. L. 111–357, §4(a)(1), redesignated subsec. (f) as (g).
 
-<b>2004</b>—Subsec. (d)(2)(A). Pub. L. 108–327, §4, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Secretary of the Interior may enter into a cooperativeagreement (within the meaning of chapter 63 of title 31) with any partner organization, academic institution, or State or local government agency to carry out 1 or more projects or programs for a refuge or complex of geographically related refuges in accordance with this subsection."
+<b>2004</b>—Subsec. (d)(2)(A). Pub. L. 108–327, §4, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Secretary of the Interior may enter into a cooperative agreement (within the meaning of chapter 63 of title 31) with any partner organization, academic institution, or State or local government agency to carry out 1 or more projects or programs for a refuge or complex of geographically related refuges in accordance with this subsection."
 
 Subsec. (f). Pub. L. 108–327, §2, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 1999 through 2004."
 
@@ -194,7 +194,7 @@ Findings.—Congress finds that—
 
 &emsp;"(2) the National Wildlife Refuge System Improvement Act of 1997 (Public Law 105–57; 111 Stat. 1252) \[see Tables for classification\] significantly improved the law governing the System, although the financial resources for implementing this law and managing the System remain limited;
 
-&emsp;"(3) by encouraging volunteer programs and donations, and facilitating non-Federal partnerships with refuges, Federal funding for the refuges can be supplemented and the System can fully benefit from the amendments made by the National Wildlife Refuge System Improvement Act of 1997; and
+&emsp;"(3) by encouraging volunteer programs and donations, and facilitating non-Federal partnerships withrefuges, Federal funding for the refuges can be supplemented and the System can fully benefit from the amendments made by the National Wildlife Refuge System Improvement Act of 1997; and
 
 &emsp;"(4) by encouraging refuge educational programs, public awareness of the resources of the System and public participation in the conservation of those resources can be promoted.
 

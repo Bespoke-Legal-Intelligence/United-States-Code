@@ -22,7 +22,7 @@ In conducting such study, the Secretary shall consider at least the following fa
 
 &emsp;(7) the effect of such a requirement on availability of credit in the housing industry;
 
-&emsp;(8) the extent to which the imposition of mandatory Federal requirements would temporarily reduce the number of residentialdwellings available for sale and the resulting effect of such mandatory actions on the price of those remaining dwelling units eligible for sale; and
+&emsp;(8) the extent to which the imposition of mandatory Federal requirements would temporarily reduce the number of residential dwellings available for sale and the resulting effect of such mandatory actions on the price of those remaining dwelling units eligible for sale; and
 
 &emsp;(9) the possible uncertainty, during the period of developing the standards, as to what standards might be imposed and any resulting effect on major housing rehabilitation efforts and voluntary efforts for energy conservation.
 

@@ -46,7 +46,7 @@ Section was formerly classified to section 290bb–1a of this title prior to ren
 
 #### Prior Provisions
 
-A prior section 290aa–5, act July 1, 1944, ch. 373, title V, §507, formerly §506, as added Apr. 26, 1983, Pub. L. 98–24, §2(b)(7), 97 Stat. 178; amended Nov. 20, 1985, Pub. L. 99–158, §3(c), 99 Stat. 879; renumbered §507 and amended Oct. 27, 1986, Pub. L. 99–570, title IV, §§4004(a), 4007, 100 Stat. 3207–109, 3207–115, which related to peer review of biomedical and behavioral research and development grants, was renumbered section 504 of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290aa–3 of this title.
+A prior section 290aa–5, act July 1, 1944, ch. 373, title V, §507, formerly §506, as added Apr. 26, 1983, Pub. L.98–24, §2(b)(7), 97 Stat. 178; amended Nov. 20, 1985, Pub. L. 99–158, §3(c), 99 Stat. 879; renumbered §507 and amended Oct. 27, 1986, Pub. L. 99–570, title IV, §§4004(a), 4007, 100 Stat. 3207–109, 3207–115, which related to peer review of biomedical and behavioral research and development grants, was renumbered section 504 of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290aa–3 of this title.
 
 A prior section 506 of act July 1, 1944, which was classified to section 224 of this title, was successively renumbered by subsequent acts, and transferred, see section 238c of this title.
 

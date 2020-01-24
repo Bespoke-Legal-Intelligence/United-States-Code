@@ -58,7 +58,7 @@
 
 #### (ii) Guidelines
 
-&emsp;&emsp;&emsp;In developing the program under this subsection, the designated officer shall develop guidelines for the accreditation andcertification processes established under this subsection.
+&emsp;&emsp;&emsp;In developing the program under this subsection, the designated officer shall develop guidelines for the accreditation and certification processes established under this subsection.
 
 #### (B) Standards
 

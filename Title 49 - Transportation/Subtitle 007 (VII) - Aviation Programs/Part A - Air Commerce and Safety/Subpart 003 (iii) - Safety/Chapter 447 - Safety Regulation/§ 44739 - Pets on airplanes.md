@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—It shall be unlawful for any person to place a live animal in an overhead storage compartment of an aircraft operatedunder part 121 of title 14, Code of Federal Regulations.
+Prohibition.—It shall be unlawful for any person to place a live animal in an overhead storage compartment of an aircraft operated under part 121 of title 14, Code of Federal Regulations.
 
 (b)
 

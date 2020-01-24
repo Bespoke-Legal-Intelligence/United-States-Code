@@ -18,7 +18,7 @@ All national security functions and activities performed immediately before Oct.
 
 #### Executive Order No. 12344 To Remain in Force
 
-Except as otherwise specified in section 2406 of this title and notwithstanding any other provision of title XXXII of Pub. L. 106–65 (see Short Title note set out under section 2401 of this title), the provisions of Executive Order No. 12344 (set out below) to remain in full force and effect until changed by law, see section 2406 of this title.
+Except as otherwise specified in section 2406 of this title and notwithstanding any other provision of titleXXXII of Pub. L. 106–65 (see Short Title note set out under section 2401 of this title), the provisions of Executive Order No. 12344 (set out below) to remain in full force and effect until changed by law, see section 2406 of this title.
 
 #### Ex. Ord. No. 12344. Naval Nuclear Propulsion Program
 
@@ -52,7 +52,7 @@ Sec. 7. Within the Department of the Navy, the Secretary of the Navy shall assig
 
 (a) research, development, design, procurement, specification, construction, inspection, installation, certification, testing, overhaul, refueling, operating practices and procedures, maintenance, supply support, and ultimate disposition, of naval nuclear propulsion plants, including components thereof, and any special maintenance and service facilities related thereto; and
 
-(b) training programs, including Nuclear Power Schools of the Navy, and assistance and concurrence inthe selection, training, qualification, and assignment of personnel reporting to the director and of Government personnel who supervise, operate, or maintain naval nuclear propulsion plants.
+(b) training programs, including Nuclear Power Schools of the Navy, and assistance and concurrence in the selection, training, qualification, and assignment of personnel reporting to the director and of Government personnel who supervise, operate, or maintain naval nuclear propulsion plants.
 
 Sec. 8. Within the Department of the Navy, the Secretary of the Navy shall assign to the director responsibility within the Navy for:
 

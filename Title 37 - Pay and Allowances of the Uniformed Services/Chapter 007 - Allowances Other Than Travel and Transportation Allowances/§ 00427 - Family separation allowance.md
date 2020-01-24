@@ -30,7 +30,7 @@ Effect of Election to Serve Unaccompanied Tour of Duty.—(1) Except as provided
 
 (d)
 
-Entitlement While Spouse Entitled to Basic Pay.—(1) A member married to another member of the uniformed services becomes entitled, regardless of any other dependency status, to an allowance under subsection (a) by virtue ofduty prescribed in subparagraph (A), (B), or (C) of paragraph (1) of such subsection if the members were residing together immediately before being separated by reasons of execution of military orders.
+Entitlement While Spouse Entitled to Basic Pay.—(1) A member married to another member of the uniformed services becomes entitled, regardless of any other dependency status, to an allowance under subsection (a) by virtue of duty prescribed in subparagraph (A), (B), or (C) of paragraph (1) of such subsection if the members were residing together immediately before being separated by reasons of execution of military orders.
 
 (2) If a married couple, both of whom are members of the uniformed services, with dependents are simultaneously assigned to duties described in subparagraph (A), (B), or (C) of subsection (a)(1) and the members resided together with their dependents immediately before their assignments, the Secretary concerned shall pay each of the members the full amount of the monthly allowance specified in such subsection until one of the members is no longer assigned to duties described in such subparagraphs. Upon expiration of the additional allowance, paragraph (1) shall continue to apply to the remaining member so long as the member is assigned to duties described in subparagraph (A), (B), or (C) of such subsection.
 
@@ -48,7 +48,7 @@ Entitlement While Spouse Entitled to Basic Pay.—(1) A member married to anothe
 
 <b>2004</b>—Subsec. (a)(1). Pub. L. 108–375, §623(b)(2)(A), substituted "$250" for "$100".
 
-Subsec. (e). Pub. L. 108–375, §623(b)(2)(B), struck out heading and text of subsec. (e). Text read as follows: "For the period beginning on October 1, 2003, and ending on December 31, 2005, the monthly allowance authorized by subsection (a)(1) shall be increased to $250."
+Subsec. (e). Pub. L. 108–375, §623(b)(2)(B), struck out heading and text of subsec. (e). Text read as follows:"For the period beginning on October 1, 2003, and ending on December 31, 2005, the monthly allowance authorized by subsection (a)(1) shall be increased to $250."
 
 Pub. L. 108–375, §623(b)(1), substituted "December 31, 2005" for "December 31, 2004".
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 108–11 effective Oct. 1, 2002, and applicable with respec
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title VI, §607(b), Dec. 28, 2001, 115 Stat. 1135, provided that: "Paragraph (2) of section 427(c) of title 37, United States Code, as added by subsection (a)(3), shall apply with respect to pay periods beginning on or after January 1, 2002, for a member of the uniformed services covered by such paragraph regardless of the date on which the member first made the election to serve an unaccompanied tour of duty."
+Pub. L. 107–107, div. A, title VI, §607(b), Dec. 28, 2001, 115 Stat. 1135, provided that: "Paragraph (2) of section427(c) of title 37, United States Code, as added by subsection (a)(3), shall apply with respect to pay periods beginning on or after January 1, 2002, for a member of the uniformed services covered by such paragraph regardless of the date on which the member first made the election to serve an unaccompanied tour of duty."
 
 #### Effective Date of 1997 Amendment
 

@@ -64,7 +64,7 @@
 
 &emsp;The Bureau shall, to the fullest extent possible, use—
 
-&emsp;&emsp;(A) reports pertaining to persons described in subsection (a)(1) that have been providedor required to have been provided to a Federal or State agency; and
+&emsp;&emsp;(A) reports pertaining to persons described in subsection (a)(1) that have been provided or required to have been provided to a Federal or State agency; and
 
 &emsp;&emsp;(B) information that has been reported publicly.
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;(i) the other agency may not, during the pendency of that action, institute a civil action under such provision of law against any defendant named in the complaint in such pending action for any violation alleged in the complaint; and
 
-&emsp;&emsp;&emsp;(ii) the Bureau or the Federal Trade Commission may intervene as a party in any such action brought by the other agency, and, upon intervening—
+&emsp;&emsp;&emsp;(ii) the Bureau or the Federal Trade Commission may intervene as a party inany such action brought by the other agency, and, upon intervening—
 
 &emsp;&emsp;&emsp;&emsp;(I) be heard on all matters arising in such enforcement action; and
 
@@ -136,7 +136,7 @@ Notwithstanding any other provision of Federal law and except as provided in sec
 
 #### (e) Service providers
 
-A service provider to a person described in subsection (a)(1) shall be subject to the authority of the Bureau under this section, to the same extent as if such service provider were engagedin a service relationship with a bank, and the Bureau were an appropriate Federal banking agency under section 1867(c) of this title. In conducting any examination or requiring any report from a service provider subject to this subsection, the Bureau shall coordinate with the appropriate prudential regulator, as applicable.
+A service provider to a person described in subsection (a)(1) shall be subject to the authority of the Bureau under this section, to the same extent as if such service provider were engaged in a service relationship with a bank, and the Bureau were an appropriate Federal banking agency under section 1867(c) of this title. In conducting any examination or requiring any report from a service provider subject to this subsection, the Bureau shall coordinate with the appropriate prudential regulator, as applicable.
 
 #### (f) Preservation of Farm Credit Administration authority
 

@@ -166,7 +166,7 @@ Costs to be considered.—In establishing a benefit-to-cost ratio under this sec
 
 &emsp;(3)
 
-Other criteria to be considered.—In establishing a benefit-to-cost ratio under this section with respect to an air traffic control tower, the Secretary shall add a 10 percentage point margin of error to the benefit-to-cost ratio determination to acknowledge and account for the direct and indirect economic and other benefits that are not included in the criteria the Secretary used in calculating that ratio.
+Other criteria to be considered.—In establishing a benefit-to-cost ratio under this section with respect to an air traffic controltower, the Secretary shall add a 10 percentage point margin of error to the benefit-to-cost ratio determination to acknowledge and account for the direct and indirect economic and other benefits that are not included in the criteria the Secretary used in calculating that ratio.
 
 &emsp;(4)
 
@@ -336,7 +336,7 @@ In general.—If the Administrator of the Federal Aviation Administration has no
 
 "(2)
 
-Requests for additional authority.—The Administrator shall respond not later than 60 days after the date the Administrator receives a formal request from an airport and air traffic control contractor for additional authority to expand contract tower operational hours and staff to accommodate flight traffic outside of current tower operational hours.
+Requests for additional authority.—The Administrator shall respond not later than 60 days afterthe date the Administrator receives a formal request from an airport and air traffic control contractor for additional authority to expand contract tower operational hours and staff to accommodate flight traffic outside of current tower operational hours.
 
 "(3)
 

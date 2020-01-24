@@ -8,7 +8,7 @@
 
 > The prohibition on payment of annuity or retired pay applies—
 
-&emsp;(A) with respect to the offenses named by subsection (b) of this section, to the periodafter the date of the conviction or after September 1, 1954, whichever is later; and
+&emsp;(A) with respect to the offenses named by subsection (b) of this section, to the period after the date of the conviction or after September 1, 1954, whichever is later; and
 
 &emsp;(B) with respect to the offenses named by subsection (c) of this section, to the period after the date of conviction or after September 26, 1961, whichever is later.
 
@@ -52,7 +52,7 @@
 
 &emsp;(1) An offense within the purview of—
 
-&emsp;&emsp;(A) section 2272 (violation of specific sections) or 2273 (violation of sections generally of chapter 23 of title 42) of title 42 insofar as the offense is committed with intent to injure the United States or with intent to secure an advantage to a foreign nation;
+&emsp;&emsp;(A) section 2272 (violation of specific sections) or 2273 (violation of sections generallyof chapter 23 of title 42) of title 42 insofar as the offense is committed with intent to injure the United States or with intent to secure an advantage to a foreign nation;
 
 &emsp;&emsp;(B) section 2274 (communication of restricted data), 2275 (receipt of restricted data), or 2276 (tampering with restricted data) of title 42; or
 
@@ -118,7 +118,7 @@ Subsec. (d). Pub. L. 103–359 added subsec. (d).
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note) \[amendments effective Jan. 1, 2019\], see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of Title 10, Armed Forces.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section5542 of that Act (10 U.S.C. 801 note) \[amendments effective Jan. 1, 2019\], see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of Title 10, Armed Forces.
 
 #### Effective Date of 1994 Amendment
 

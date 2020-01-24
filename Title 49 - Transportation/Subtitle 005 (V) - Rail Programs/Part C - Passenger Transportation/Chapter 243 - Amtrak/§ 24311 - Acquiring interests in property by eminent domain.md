@@ -40,7 +40,7 @@ Civil Actions.—(1) A civil action to acquire an interest in property by eminen
 
 (c)
 
-Authority To Condemn Rail Carrier Property Interests.—(1) If Amtrak and a rail carrier cannot agree on a sale to Amtrak of an interest in property of a rail carrier necessary for intercity rail passenger transportation, Amtrak may apply to the Surface Transportation Board for an order establishing the need of Amtrak for the interest and requiring the carrier to convey the interest on reasonable terms, including just compensation. The need of Amtrak is deemed to be established, and the Board, after holding an expedited proceeding and not later than 120 days after receiving the application, shall order the interest conveyed unless the Board decides that—
+Authority To Condemn Rail Carrier Property Interests.—(1) If Amtrak and a rail carrier cannot agree on a sale to Amtrak of aninterest in property of a rail carrier necessary for intercity rail passenger transportation, Amtrak may apply to the Surface Transportation Board for an order establishing the need of Amtrak for the interest and requiring the carrier to convey the interest on reasonable terms, including just compensation. The need of Amtrak is deemed to be established, and the Board, after holding an expedited proceeding and not later than 120 days after receiving the application, shall order the interest conveyed unless the Board decides that—
 
 &emsp;(A) conveyance would impair significantly the ability of the carrier to carry out its obligations as a common carrier; and
 

@@ -12,7 +12,7 @@ As used in this chapter—
 
 &emsp;(5) "State" means a State, territory, possession, Puerto Rico, or the District of Columbia;
 
-&emsp;(6) "United States" includes the several States, territories, and possessions of the United States, Puerto Rico, and the District of Columbia;
+&emsp;(6) "United States" includes the several States, territories, and possessions of theUnited States, Puerto Rico, and the District of Columbia;
 
 &emsp;(7) "vending facility" means automatic vending machines, cafeterias, snack bars, cart services, shelters, counters, and such other appropriate auxiliary equipment as the Secretary may by regulation prescribe as being necessary for the sale of the articles or services described in section 107a(a)(5) of this title and which may be operated by blind licensees; and
 

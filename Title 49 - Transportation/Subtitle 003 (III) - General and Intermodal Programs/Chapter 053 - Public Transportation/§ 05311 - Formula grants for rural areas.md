@@ -166,7 +166,7 @@ In general.—16.85 percent of the amount described in subparagraph (A) shall be
 
 &emsp;&emsp;&emsp;(ii)
 
-Land area.—Subject to clause (v), each State shall receive an amount that is equal to 29.68 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the United States, as shownby the most recent decennial census of population.
+Land area.—Subject to clause (v), each State shall receive an amount that is equal to 29.68 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the United States, as shown by the most recent decennial census of population.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -462,7 +462,7 @@ Pub. L. 114–87, §1201(2), substituted "and $4,439,891 for the period beginnin
 
 Pub. L. 114–73, §1201(2), substituted "and $3,483,607 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $1,980,874 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
 
-Pub. L. 114–41, §1201(2), substituted "for each fiscal year ending before October 1, 2015, and $1,980,874 for theperiod beginning on October 1, 2015, and ending on October 29, 2015," for "for each fiscal year ending before October 1, 2014, and $20,821,918 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+Pub. L. 114–41, §1201(2), substituted "for each fiscal year ending before October 1, 2015, and $1,980,874 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "for each fiscal year ending before October 1, 2014, and $20,821,918 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
 
 Pub. L. 114–21, §1201(2), substituted "and $20,821,918 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $16,643,836 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
 
@@ -528,7 +528,7 @@ Subsec. (g). Pub. L. 109–59, §3013(f), substituted "Government" for "Governme
 
 "(1) In this subsection, 'amounts of the Government or revenues' do not include amounts received under a service agreement with a State or local social service agency or a private social service organization.
 
-"(2) A grant of the Government for a capital project under this section may not be more than 80 percent of the net cost of the project, as determined by the Secretary of Transportation. A grant to pay a subsidy for operating expenses may not be more than 50 percent of the net cost of the operating expense project. At least 50 percent of the remainder shall be provided in cash from sources other than amounts of the Government orrevenues from providing mass transportation. Transit system amounts that make up the remainder shall be from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital."
+"(2) A grant of the Government for a capital project under this section may not be more than 80 percent of the net cost of the project, as determined by the Secretary of Transportation. A grant to pay a subsidy for operating expenses may not be more than 50 percent of the net cost of the operating expense project. At least 50 percent of the remainder shall be provided in cash from sources other than amounts of the Government or revenues from providing mass transportation. Transit system amounts that make up the remainder shall be from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital."
 
 Subsec. (h). Pub. L. 109–59, §3013(g), redesignated subsec. (i) as (h) and struck out heading and text of former subsec. (h). Text read as follows: "An amount made available under this section may be used for operating assistance."
 

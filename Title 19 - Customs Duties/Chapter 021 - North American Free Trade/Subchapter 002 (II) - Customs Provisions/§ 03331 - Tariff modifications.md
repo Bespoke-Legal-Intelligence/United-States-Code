@@ -16,7 +16,7 @@
 
 #### (2) Effect on Mexican GSP status
 
-&emsp;Notwithstanding section 502(f)(2) of the Trade Act of 1974 \[19 U.S.C. 2462(f)(2)\], the President shall terminate the designation ofMexico as a beneficiary developing country for purposes of title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] on the date of entry into force of the Agreement between the United States and Mexico.
+&emsp;Notwithstanding section 502(f)(2) of the Trade Act of 1974 \[19 U.S.C. 2462(f)(2)\], the President shall terminate the designation of Mexico as a beneficiary developing country for purposes of title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] on the date of entry into force of the Agreement between the United States and Mexico.
 
 #### (b) Other tariff modifications
 

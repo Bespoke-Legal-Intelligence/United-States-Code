@@ -1,6 +1,6 @@
 ### §548. Salaries
 
-Subject to sections 5315 through 5317 of title 5, the Attorney General shall fix the annual salaries of United States attorneys, assistant United States attorneys, and attorneys appointed under section 543 of this title at rates of compensation not in excess of the rate of basic compensation provided for Executive Level IV of the ExecutiveSchedule set forth in section 5315 of title 5, United States Code.
+Subject to sections 5315 through 5317 of title 5, the Attorney General shall fix the annual salaries of United States attorneys, assistant United States attorneys, and attorneys appointed under section 543 of this title at rates of compensation not in excess of the rate of basic compensation provided for Executive Level IV of the Executive Schedule set forth in section 5315 of title 5, United States Code.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 98–473, title II, §1701(a) Oct. 12, 1984, 98 Stat. 2184.)
 
@@ -72,5 +72,5 @@ Act Mar. 2, 1955, ch. 9, §2(b), 69 Stat. 10, provided that: "The salaries of Un
 
 #### Salary Limitations
 
-Acts Aug. 5, 1953, ch. 328, title II, §202, 67 Stat. 375; July 2, 1954, ch. 456, title II, §202, 68 Stat. 421, whichprescribed salary limitations, were repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 657.
+Acts Aug. 5, 1953, ch. 328, title II, §202, 67 Stat. 375; July 2, 1954, ch. 456, title II, §202, 68 Stat. 421, which prescribed salary limitations, were repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 657.
 

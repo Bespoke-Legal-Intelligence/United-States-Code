@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From 40 percent of the amount appropriated for each fiscal year under section 7714(d) ofthis title, the Secretary shall make payments in accordance with this subsection to each local educational agency that receives a basic support payment under section 7703(b) of this title for that fiscal year.
+&emsp;From 40 percent of the amount appropriated for each fiscal year under section 7714(d) of this title, the Secretary shall make payments in accordance with this subsection to each local educational agency that receives a basic support payment under section 7703(b) of this title for that fiscal year.
 
 #### (2) Additional requirements
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(A) The Secretary shall first give priority to applications for emergency grants from local educational agencies that meet the requirements of paragraph (3)(A) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
-&emsp;&emsp;(B) The Secretary shall next give priority to applications for emergency grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
+&emsp;&emsp;(B) The Secretary shall next give priority to applications for emergency grants from local educational agencies that meet the requirements of subparagraph (C) or (D) ofparagraph (3) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
 &emsp;&emsp;(C) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of paragraph (3)(B) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;A local educational agency is eligible to receive an emergency grant under paragraph (2)(A) if—
 
-&emsp;&emsp;&emsp;(i) the agency (or in the case of a local educational agency that does not have theauthority to tax or issue bonds, the agency's fiscal agent)—
+&emsp;&emsp;&emsp;(i) the agency (or in the case of a local educational agency that does not have the authority to tax or issue bonds, the agency's fiscal agent)—
 
 &emsp;&emsp;&emsp;&emsp;(I) has no practical capacity to issue bonds;
 
@@ -188,7 +188,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a project for a school facility for which the agency does not have full title or other interest;
 
-&emsp;&emsp;&emsp;&emsp;(II) stadiums or other school facilities that are primarily used for athletic contests, exhibitions, or other events for which admission is charged to the general public; or
+&emsp;&emsp;&emsp;&emsp;(II) stadiums or other school facilities that are primarily used for athletic contests, exhibitions, or other events forwhich admission is charged to the general public; or
 
 &emsp;&emsp;&emsp;&emsp;(III) the acquisition of real property.
 
@@ -206,7 +206,7 @@
 
 #### (vi) Carry-over of certain applications
 
-&emsp;&emsp;&emsp;A local educational agency that applies for an emergency grant or a modernizationgrant under this subsection for a fiscal year and does not receive the grant for the fiscal year shall have the application for the grant considered for the following fiscal year, subject to the priority requirements of paragraph (2) and the award criteria requirements of paragraph (4).
+&emsp;&emsp;&emsp;A local educational agency that applies for an emergency grant or a modernization grant under this subsection for a fiscal year and does not receive the grant for the fiscal year shall have the application for the grant considered for the following fiscal year, subject to the priority requirements of paragraph (2) and the award criteria requirements of paragraph (4).
 
 #### (B) Emergency grants; prohibition on use of funds
 
@@ -254,7 +254,7 @@ Subsec. (a)(2). Pub. L. 114–95, §7001(d)(7), made technical amendment to refe
 
 Subsec. (a)(3)(A)(i)(I). Pub. L. 114–95, §7007(1)(A)(i), redesignated subcl. (II) relating to 20 percent of the amount appropriated as (I).
 
-Subsec. (a)(3)(A)(i)(II). Pub. L. 114–95, §7007(1)(A)(ii), made technical amendment to reference in original act which appears in text as reference to section 7708(a) of this title.
+Subsec. (a)(3)(A)(i)(II). Pub. L. 114–95, §7007(1)(A)(ii), made technical amendment to reference in original actwhich appears in text as reference to section 7708(a) of this title.
 
 Pub. L. 114–95, §7007(1)(A)(i), redesignated subcl. (II) relating to 20 percent of the amount appropriated as (I).
 

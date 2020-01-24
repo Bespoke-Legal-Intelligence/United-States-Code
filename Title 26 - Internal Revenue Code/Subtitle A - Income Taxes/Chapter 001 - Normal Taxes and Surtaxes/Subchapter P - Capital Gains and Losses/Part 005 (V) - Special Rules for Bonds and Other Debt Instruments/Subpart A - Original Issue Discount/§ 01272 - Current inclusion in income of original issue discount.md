@@ -134,7 +134,7 @@ This section shall not apply to any holder—
 
 #### (2) Basis adjustment
 
-&emsp;The basis of any debt instrument in the hands of the holder thereof shall be increased by the amount included in his gross income pursuant to this section.
+&emsp;The basis of any debt instrument in the hands of the holder thereof shall be increasedby the amount included in his gross income pursuant to this section.
 
 (Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 533; amended Pub. L. 99–514, title VI, §672, Oct. 22, 1986, 100 Stat. 2318; Pub. L. 105–34, title X, §1004(a), Aug. 5, 1997, 111 Stat. 911; Pub. L. 115–141, div. U, title IV, §401(c)(1)(B), (F), (3)(A), Mar. 23, 2018, 132 Stat. 1205, 1206.)
 

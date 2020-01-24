@@ -10,7 +10,7 @@ It shall be unlawful for any person who is related to a business development com
 
 &emsp;(3) knowingly to borrow money or other property from such business development company or from any company controlled by such business development company (unless the borrower is controlled by the lender), except as permitted in section 80a–21(b) or section 80a–61 of this title; or
 
-&emsp;(4) knowingly to effect any transaction in which such business development company or a company controlled by such business development company is a joint or a joint and several participant with such person in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such business development company or controlled company on a basis less advantageous than that of such person, except that nothing contained in this paragraph shall be deemed to preclude any person from acting as manager of any underwriting syndicate or other group in which such business development company or controlled company is a participant and receiving compensation therefor.
+&emsp;(4) knowingly to effect any transaction in which such business development company ora company controlled by such business development company is a joint or a joint and several participant with such person in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such business development company or controlled company on a basis less advantageous than that of such person, except that nothing contained in this paragraph shall be deemed to preclude any person from acting as manager of any underwriting syndicate or other group in which such business development company or controlled company is a participant and receiving compensation therefor.
 
 #### (b) Controlling or closely affiliated persons
 
@@ -108,7 +108,7 @@ It shall be unlawful for any person described in subsection (l)—
 
 &emsp;&emsp;(C) 1 per centum of the purchase or sale price of such securities if the sale is otherwise effected,
 
-> unless the Commission, by rules and regulations or order in the public interest and consistentwith the protection of investors, permits a larger commission.
+> unless the Commission, by rules and regulations or order in the public interest and consistent with the protection of investors, permits a larger commission.
 
 #### (l) Persons subject to brokerage commission restrictions
 

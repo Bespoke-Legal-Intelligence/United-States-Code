@@ -34,7 +34,7 @@ Reimbursable agreement.—In the absence of an appropriation under this subsecti
 
 #### References in Text
 
-Section 6 of the Inspector General Act of 1978, referred to in subsec. (c), is section 6 of Pub. L. 95–452,which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 6 of the Inspector General Act of 1978, referred to in subsec. (c), is section 6 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

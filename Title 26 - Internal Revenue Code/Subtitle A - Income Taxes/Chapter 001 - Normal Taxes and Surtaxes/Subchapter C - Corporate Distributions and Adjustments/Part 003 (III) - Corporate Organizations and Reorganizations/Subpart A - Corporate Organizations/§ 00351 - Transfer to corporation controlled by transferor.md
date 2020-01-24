@@ -108,7 +108,7 @@ If—
 
 &emsp;&emsp;&emsp;(ii) the issuer or a related person is required to redeem or purchase such stock,
 
-&emsp;&emsp;&emsp;(iii) the issuer or a related person has the right to redeem or purchase the stock and, as of the issue date, it is more likelythan not that such right will be exercised, or
+&emsp;&emsp;&emsp;(iii) the issuer or a related person has the right to redeem or purchase the stock and, as of the issue date, it is more likely than not that such right will be exercised, or
 
 &emsp;&emsp;&emsp;(iv) the dividend rate on such stock varies in whole or in part (directly or indirectly) with reference to interest rates, commodity prices, or other similar indices.
 
@@ -176,7 +176,7 @@ If—
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–206, §6010(c)(3)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "In determining control for purposes of this section—
 
-&emsp;"(1) the fact that any corporate transferor distributes part or all of the stock in the corporation whichit receives in the exchange to its shareholders shall not be taken into account, and
+&emsp;"(1) the fact that any corporate transferor distributes part or all of the stock in the corporation which it receives in the exchange to its shareholders shall not be taken into account, and
 
 &emsp;"(2) if the requirements of section 355 are met with respect to such distribution, the shareholders shall be treated as in control of such corporation immediately after the exchange if the shareholders own (immediately after the distribution) stock possessing—
 
@@ -186,7 +186,7 @@ If—
 
 Subsec. (c)(2). Pub. L. 105–277 inserted ", or the fact that the corporation whose stock was distributed issues additional stock," after "dispose of part or all of the distributed stock".
 
-Subsec. (g)(1)(A) to (C). Pub. L. 105–206, §6010(e)(1), inserted "and" at end of subpar. (A), added subpar. (B), and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (g)(1)(A) to (C). Pub. L. 105–206, §6010(e)(1), inserted "and" at end of subpar. (A), added subpar. (B),and struck out former subpars. (B) and (C) which read as follows:
 
 "(B) subsection (b) shall apply to such transferor, and
 

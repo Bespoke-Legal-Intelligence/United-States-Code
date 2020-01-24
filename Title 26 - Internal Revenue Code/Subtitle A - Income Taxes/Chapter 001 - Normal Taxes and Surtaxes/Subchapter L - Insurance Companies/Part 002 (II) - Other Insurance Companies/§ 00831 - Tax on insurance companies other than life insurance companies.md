@@ -74,7 +74,7 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 &emsp;&emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) in determining whether any company is described in clause (i) of subparagraph (A), such company shall be treatedas receiving during the taxable year amounts described in such clause (i) which are received during such year by all other companies which are members of the same controlled group as the insurance company for which the determination is being made, and
+&emsp;&emsp;&emsp;&emsp;(I) in determining whether any company is described in clause (i) of subparagraph (A), such company shall be treated as receiving during the taxable year amounts described in such clause (i) which are received during such year by all other companies which are members of the same controlled group as the insurance company for which the determination is being made, and
 
 &emsp;&emsp;&emsp;&emsp;(II) in determining the attribution of premiums to any policyholder under subparagraph (B)(i), all policyholders which are related (within the meaning of section 267(b) or 707(b)) or are members of the same controlled group shall be treated as one policyholder.
 
@@ -208,7 +208,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title X, §1024(e), Oct. 22, 1986, 100 Stat. 2409, provided that: "The amendments made by this section \[amending this section and sections 501, 832, 834, 835, 841, 842, 844, 891, 1201, 1504, and 1563 of this title, redesignating former sections 822 and 826 of this title as sections 834 and 835 of this title, respectively, and repealing sections 821, 823, 824, and 825 of this title\] (and the provisions of subsection (d) \[set out below\]) shall apply to taxable years beginning after December 31, 1986."
+Pub. L. 99–514, title X, §1024(e), Oct. 22, 1986, 100 Stat. 2409, provided that: "The amendments made by thissection \[amending this section and sections 501, 832, 834, 835, 841, 842, 844, 891, 1201, 1504, and 1563 of this title, redesignating former sections 822 and 826 of this title as sections 834 and 835 of this title, respectively, and repealing sections 821, 823, 824, and 825 of this title\] (and the provisions of subsection (d) \[set out below\]) shall apply to taxable years beginning after December 31, 1986."
 
 #### Effective Date of 1976 Amendment
 
@@ -228,7 +228,7 @@ Pub. L. 99–514, title X, §1024(d), Oct. 22, 1986, 100 Stat. 2408, as amended 
 
 "(1)
 
-Treatment of amounts in protection against loss account.—In the case of any insurance company which had a protection against loss account for its last taxable year beginning before January 1, 1987, there shall be included in the gross income of such company for any taxable year beginning after December 31, 1986, the amount which would have been included in gross income for such taxable year under section 824 of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]). For purposes of the preceding sentence, no addition to such account shall be made for any taxable year beginning after December 31, 1986. In the caseof a company taxable under section 831(b) of the Internal Revenue Code of 1986 (as amended by subsection (a)), any amount included in gross income under this paragraph shall be treated as gross investment income.
+Treatment of amounts in protection against loss account.—In the case of any insurance company which had a protection against loss account for its last taxable year beginning before January 1, 1987, there shall be included in the gross income of such company for any taxable year beginning after December 31, 1986, the amount which would have been included in gross income for such taxable year under section 824 of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]). For purposes of the preceding sentence, no addition to such account shall be made for any taxable year beginning after December 31, 1986. In the case of a company taxable under section 831(b) of the Internal Revenue Code of 1986 (as amended by subsection (a)), any amount included in gross income under this paragraph shall be treated as gross investment income.
 
 "(2)
 

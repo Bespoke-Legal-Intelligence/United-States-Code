@@ -20,7 +20,7 @@ Specifications.—The Administrator may—
 
 &emsp;(3)
 
-Special rules for new aircraft and appliances.—Except as provided in paragraph (4), if the holder of a type certificate agrees to permit another person to use the certificate to manufacture a new aircraft, aircraft engine, propeller, or appliance, the holder shall provide the other person with written evidence, in a form acceptable to the Administrator, of that agreement. Such other person may manufacture a new aircraft, aircraft engine, propeller, or appliance based on a type certificate only if such other person is the holder of the type certificate or has permission from the holder.
+Special rules for new aircraft and appliances.—Except as provided in paragraph (4), if the holder of a type certificate agrees to permit another person to use the certificate to manufacture a new aircraft, aircraft engine,propeller, or appliance, the holder shall provide the other person with written evidence, in a form acceptable to the Administrator, of that agreement. Such other person may manufacture a new aircraft, aircraft engine, propeller, or appliance based on a type certificate only if such other person is the holder of the type certificate or has permission from the holder.
 
 &emsp;(4)
 
@@ -88,7 +88,7 @@ Requirement.—If the holder of a supplemental type certificate agrees to permit
 
 (c)
 
-Production Certificates.—The Administrator shall issue a production certificate authorizing the production of a duplicate of an aircraft, aircraft engine, propeller, or appliance for which a type certificate has been issued when the Administrator finds the duplicate will conform to the certificate. On receiving an application, the Administrator shall inspect, and may require testing of, a duplicate to ensure that it conforms to the requirements of the certificate. The Administrator may include in a production certificate terms required in the interest of safety.
+Production Certificates.—The Administrator shall issue a production certificate authorizing the production of a duplicate of an aircraft, aircraft engine, propeller, or appliance for which a type certificate has been issued when the Administrator finds the duplicate will conform to the certificate. On receiving an application, the Administrator shall inspect, and may require testing of, a duplicate to ensure that it conforms to the requirements of the certificate. The Administrator may include in a productioncertificate terms required in the interest of safety.
 
 (d)
 
@@ -208,7 +208,7 @@ Subsec. (a)(5). Pub. L. 112–95, §302, added par. (5).
 
 Subsec. (e). Pub. L. 112–95, §303(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to design organization certificates.
 
-<b>2005</b>—Subsec. (a)(1) to (3). Pub. L. 109–59, §4405(1)–(3), (5), (6), inserted par. headings, realigned margins, andsubstituted "Except as provided in paragraph (4), if" for "If" in par. (3).
+<b>2005</b>—Subsec. (a)(1) to (3). Pub. L. 109–59, §4405(1)–(3), (5), (6), inserted par. headings, realigned margins, and substituted "Except as provided in paragraph (4), if" for "If" in par. (3).
 
 Subsec. (a)(4). Pub. L. 109–59, §4405(4), added par. (4).
 
@@ -328,7 +328,7 @@ Part 23.—The term 'part 23' means part 23 of title 14, Code of Federal Regulat
 
 &emsp;"(3)
 
-Part 23 reorganization aviation rulemaking committee.—The term 'Part 23 Reorganization Aviation Rulemaking Committee' means the aviation rulemaking committee established by the FederalAviation Administration in August 2011 to consider the reorganization of the regulations under part 23.
+Part 23 reorganization aviation rulemaking committee.—The term 'Part 23 Reorganization Aviation Rulemaking Committee' means the aviation rulemaking committee established by the Federal Aviation Administration in August 2011 to consider the reorganization of the regulations under part 23.
 
 &emsp;"(4)
 

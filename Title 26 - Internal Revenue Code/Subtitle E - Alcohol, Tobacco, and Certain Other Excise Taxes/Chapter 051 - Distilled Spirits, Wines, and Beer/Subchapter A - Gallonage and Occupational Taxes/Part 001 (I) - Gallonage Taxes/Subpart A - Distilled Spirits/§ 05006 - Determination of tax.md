@@ -22,7 +22,7 @@
 
 #### (3) Application of subsection
 
-&emsp;The provisions of this subsection shall apply to distilled spirits which are filled into casks or packages, as authorized by law, after entry and deposit on bonded premises, whether by recasking, filling from storage tanks, consolidation of packages, or otherwise; and the quantity filled into such casks or packages shall be deemed to be the original quantity for the purpose of this subsection, in the case of loss from such casks or packages.
+&emsp;The provisions of this subsection shall apply to distilled spirits which are filled into casks or packages, as authorized by law, after entryand deposit on bonded premises, whether by recasking, filling from storage tanks, consolidation of packages, or otherwise; and the quantity filled into such casks or packages shall be deemed to be the original quantity for the purpose of this subsection, in the case of loss from such casks or packages.
 
 #### (c) Distilled spirits not bonded
 
@@ -46,7 +46,7 @@ Distilled spirits smuggled or brought into the United States unlawfully shall, f
 
 #### Prior Provisions
 
-A prior section 5006, acts Aug. 16, 1954, ch. 736, 68A Stat. 599; Sept. 2, 1958, Pub. L. 85–859, title II, §206(a),72 Stat. 1431, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5006, acts Aug. 16, 1954, ch. 736, 68A Stat. 599; Sept. 2, 1958, Pub. L. 85–859, title II, §206(a), 72 Stat. 1431, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 Provisions similar to those comprising subsecs. (a)(2)(A), (3) of this section were contained in prior sections 5007(e)(1) and 5232(a), act Aug. 16, 1954, ch. 736, 68A Stat. 600, 643, prior to the general revision of this chapter by Pub. L. 85–859.
 

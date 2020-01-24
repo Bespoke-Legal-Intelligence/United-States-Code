@@ -166,7 +166,7 @@ Pub. L. 111–259, title III, §322(b), Oct. 7, 2010, 124 Stat. 2673, provided t
 
 "(1)
 
-Certain duties.—Not later than 60 days after the date of the enactment of this Act \[Oct. 7, 2010\], the Director of National Intelligence shall designate a chair and other members to serve on the board establishedunder subsection (f) of such section 506D of the National Security Act of 1947 \[50 U.S.C. 3100(f)\] (as added by subsection (a)).
+Certain duties.—Not later than 60 days after the date of the enactment of this Act \[Oct. 7, 2010\], the Director of National Intelligence shall designate a chair and other members to serve on the board established under subsection (f) of such section 506D of the National Security Act of 1947 \[50 U.S.C. 3100(f)\] (as added by subsection (a)).
 
 "(2)
 

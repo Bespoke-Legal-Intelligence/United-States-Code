@@ -12,7 +12,7 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 
 <b>2018</b>—Pub. L. 115–271, §8202(b)(2), repealed Pub. L. 105–277, §715. See 1998 Amendment note below.
 
-Pub. L. 115–271, §8202(b)(1), substituted "$18,400,000 for each of fiscal years 2018 through 2023" for "such sums as may be necessary for each of fiscal years 2006 through 2010".
+Pub. L. 115–271, §8202(b)(1), substituted "$18,400,000 for each of fiscal years 2018 through 2023" for "such sumsas may be necessary for each of fiscal years 2006 through 2010".
 
 Pub. L. 115–271, §8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
 

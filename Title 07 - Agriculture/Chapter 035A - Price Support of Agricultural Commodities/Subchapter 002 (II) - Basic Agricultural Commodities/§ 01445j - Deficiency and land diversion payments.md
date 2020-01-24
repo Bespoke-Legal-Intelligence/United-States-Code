@@ -106,7 +106,7 @@ Subsec. (c)(2). Pub. L. 102–237, §109(3), added par. (2) and struck out forme
 
 Subsec. (c)(3), (4). Pub. L. 102–237, §109(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-<b>1990</b>—Pub. L. 101–624, §1121(a), amended section generally, substituting provisions relating to deficiency andland diversion payments for the 1991 through 1995 crops of wheat, feed grains, upland cotton, and rice for provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice.
+<b>1990</b>—Pub. L. 101–624, §1121(a), amended section generally, substituting provisions relating to deficiency and land diversion payments for the 1991 through 1995 cropsof wheat, feed grains, upland cotton, and rice for provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice.
 
 Pub. L. 101–624, §1121(c), amended Pub. L. 99–198. See 1985 Amendment note below.
 

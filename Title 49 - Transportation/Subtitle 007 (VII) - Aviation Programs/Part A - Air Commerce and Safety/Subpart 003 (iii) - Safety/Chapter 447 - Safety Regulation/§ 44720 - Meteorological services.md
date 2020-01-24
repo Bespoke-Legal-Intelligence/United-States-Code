@@ -16,7 +16,7 @@ Promoting Safety and Efficiency.—To promote safety and efficiency in air navig
 
 &emsp;(4) maintain and coordinate international exchanges of meteorological information required for the safety and efficiency of air navigation;
 
-&emsp;(5) in cooperation with other departments, agencies, and instrumentalities of the United States Government, meteorological services of foreign countries, and persons engaged in air commerce, participate in developing an international basic meteorological reporting network, including the establishment, operation, and maintenance of reporting stations on the high seas, in polar regions, and in foreign countries;
+&emsp;(5) in cooperation with other departments, agencies, and instrumentalities of the United States Government, meteorological services offoreign countries, and persons engaged in air commerce, participate in developing an international basic meteorological reporting network, including the establishment, operation, and maintenance of reporting stations on the high seas, in polar regions, and in foreign countries;
 
 &emsp;(6) coordinate meteorological requirements in the United States to maintain standard observations, to promote efficient use of facilities, and to avoid duplication of services unless the duplication tends to promote the safety and efficiency of air navigation; and
 

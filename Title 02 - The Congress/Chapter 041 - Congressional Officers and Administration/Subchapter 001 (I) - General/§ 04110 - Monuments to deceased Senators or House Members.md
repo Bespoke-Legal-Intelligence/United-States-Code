@@ -1,6 +1,6 @@
 ### §4110. Monuments to deceased Senators or House Members
 
-Whenever any deceased Senator or Member of the House of Representatives shall be actually interred in the Congressional Cemetery, so-called, it shall be the duty of the Sergeant at Arms of the Senate, in the case of a Senator, and of the Sergeant at Arms of the House of Representatives, in the case of a Member of the House, to have a monument erected, of granite,with suitable inscriptions, and the cost of the same shall be a charge upon and paid out either from the contingent funds of the Senate or of the House of Representatives, to whichever the deceased may have belonged, and any existing omissions of monuments or inscriptions, as aforesaid, are directed and authorized to be supplied in like manner.
+Whenever any deceased Senator or Member of the House of Representatives shall be actually interred in the Congressional Cemetery, so-called, it shall be the duty of the Sergeant at Arms of the Senate, in the case of a Senator, and of the Sergeant at Arms of the House of Representatives, in the case of a Member of the House, to have a monument erected, of granite, with suitable inscriptions, and the cost of the same shall be a charge upon and paid out either from the contingent funds of the Senate or of the House of Representatives, to whichever the deceased may have belonged, and any existing omissions of monuments or inscriptions, as aforesaid, are directed and authorized to be supplied in like manner.
 
 (May 23, 1876, ch. 103, 19 Stat. 54.)
 
@@ -14,7 +14,7 @@ Pub. L. 105–275, title II, §209, Oct. 21, 1998, 112 Stat. 2448, provided that
 
 "(a)
 
-Grant for Care and Maintenance of Congressional Cemetery.—In order to assist in the perpetual care and maintenance of the historic Congressional Cemetery, the Architect of the Capitol shall make a grant to the National Trust for Historic Preservation (hereafter in this section referred to as the 'National Trust') in accordance with an agreement entered into by the Architect of the Capitol with the National Trust and the Association for the Preservation of Historic Congressional Cemetery (hereafter in this section referred to as the 'Association') which contains the terms and conditions described in subsection (b) and such other provisions as the Architect may deem necessary or desirable for the implementation of this section or for the protection of the interests of the Federal Government.
+Grant for Care and Maintenance of Congressional Cemetery.—In order to assist in the perpetual care and maintenance of the historic CongressionalCemetery, the Architect of the Capitol shall make a grant to the National Trust for Historic Preservation (hereafter in this section referred to as the 'National Trust') in accordance with an agreement entered into by the Architect of the Capitol with the National Trust and the Association for the Preservation of Historic Congressional Cemetery (hereafter in this section referred to as the 'Association') which contains the terms and conditions described in subsection (b) and such other provisions as the Architect may deem necessary or desirable for the implementation of this section or for the protection of the interests of the Federal Government.
 
 "(b)
 

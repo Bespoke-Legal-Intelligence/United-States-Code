@@ -20,7 +20,7 @@ There is hereby established the Office of the Special Inspector General for the 
 
 #### (c) Duties
 
-(1) It shall be the duty of the Special Inspector General to conduct, supervise, and coordinate audits and investigations of the purchase, management, and sale of assets by the Secretary of the Treasury under any program established by the Secretary under section 5211 of this title, and the management by the Secretary of any program established under section 5212 of this title, including by collecting and summarizing the following information:
+(1) It shall be the duty of the Special Inspector General to conduct, supervise, and coordinate audits and investigations of the purchase, management, and sale of assets by the Secretary of the Treasury under any program established bythe Secretary under section 5211 of this title, and the management by the Secretary of any program established under section 5212 of this title, including by collecting and summarizing the following information:
 
 &emsp;(A) A description of the categories of troubled assets purchased or otherwise procured by the Secretary.
 

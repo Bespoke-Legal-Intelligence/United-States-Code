@@ -8,7 +8,7 @@
 
 #### (2) State branch or agency
 
-&emsp;Subject to the provisions of this chapter and with the prior written approval by the Board and the appropriate State bank supervisor of an application, a foreign bank may establish and operate a State branch or agency in any State outside the home State of such foreign bank to the extent that such establishment and operation would be permitted under section 1828(d)(4) or 1831u of this title if the foreign bank were a State bank whose home State is the same State as the home State of the foreign bank.
+&emsp;Subject to the provisions of this chapter and with the prior written approval by the Board and the appropriate State bank supervisor of an application, a foreign bank may establishand operate a State branch or agency in any State outside the home State of such foreign bank to the extent that such establishment and operation would be permitted under section 1828(d)(4) or 1831u of this title if the foreign bank were a State bank whose home State is the same State as the home State of the foreign bank.
 
 #### (3) Criteria for determination
 
@@ -26,7 +26,7 @@
 
 #### (4) Operation
 
-&emsp;Subsections (c) and (d)(2) of section 1831u of this title shall apply with respect to each branch and agency of a foreign bank which is established and operated pursuant to an application approved under this subsection in the same manner and to the same extent such provisions of such section apply to a domestic branch of a national or State bank (as suchterms are defined in section 1813 of this title) which resulted from a merger transaction under such section 1831u of this title.
+&emsp;Subsections (c) and (d)(2) of section 1831u of this title shall apply with respect to each branch and agency of a foreign bank which is established and operated pursuant to an application approved under this subsection in the same manner and to the same extent such provisions of such section apply to a domestic branch of a national or State bank (as such terms are defined in section 1813 of this title) which resulted from a merger transaction under such section 1831u of this title.
 
 #### (5) Exclusive authority for additional branches
 
@@ -64,7 +64,7 @@
 
 #### (B) Exception for branch that receives only deposits permissible for an Edge Act corporation
 
-&emsp;&emsp;Paragraph (1) shall not apply to any branch that receives only such deposits as are permissible for a corporation organized under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\] to receive.
+&emsp;&emsp;Paragraph (1) shall not apply to any branch that receives only such deposits as are permissible for a corporation organizedunder section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\] to receive.
 
 #### (9) Home State of domestic bank defined
 

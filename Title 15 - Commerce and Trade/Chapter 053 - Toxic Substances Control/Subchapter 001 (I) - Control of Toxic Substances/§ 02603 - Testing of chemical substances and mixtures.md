@@ -36,7 +36,7 @@ Additional testing authority.—In addition to the authority provided under para
 
 &emsp;(B) require the development of new information for the purposes of prioritizing a chemical substance under section 2605(b) of this title only if the Administrator determines that such information is necessary to establish the priority of the substance, subject to the limitations that—
 
-&emsp;&emsp;(i) not later than 90 days after the date of receipt of information regarding a chemical substance complying with a rule, order, or consent agreement under this subparagraph, the Administrator shall designate the chemical substance as a high-priority substance or a low-priority substance; and
+&emsp;&emsp;(i) not later than 90 days after the date of receipt of information regarding a chemical substance complying with a rule, order, orconsent agreement under this subparagraph, the Administrator shall designate the chemical substance as a high-priority substance or a low-priority substance; and
 
 &emsp;&emsp;(ii) information required by the Administrator under this subparagraph shall not be required for the purposes of establishing or implementing a minimum information requirement of broader applicability.
 
@@ -84,7 +84,7 @@ Tiered testing.—When requiring the development of new information under this s
 
 (2) If, upon receipt of an application under paragraph (1), the Administrator determines that—
 
-&emsp;(A) the chemical substance or mixture with respect to which such application was submitted is equivalent to a chemical substance or mixture for which information has been submitted to the Administrator in accordancewith a rule, order, or consent agreement under subsection (a) or for which information is being developed pursuant to such a rule, order, or consent agreement, and
+&emsp;(A) the chemical substance or mixture with respect to which such application was submitted is equivalent to a chemical substance or mixture for which information has been submitted to the Administrator in accordance with a rule, order, or consent agreement under subsection (a) or for which information is being developed pursuant to such a rule, order, or consent agreement, and
 
 &emsp;(B) submission of information by the applicant on such substance or mixture would be duplicative of information which has been submitted to the Administrator in accordance with such rule, order, or consent agreement or which is being developed pursuant to such rule, order, or consent agreement,
 
@@ -170,7 +170,7 @@ Upon the receipt of any information pursuant to a rule, order, or consent agreem
 
 &emsp;(x) One member appointed by the Commissioner of Food and Drugs from employees of the Food and Drug Administration.
 
-(B)(i) An appointed member may designate an individual to serve on the committee on themember's behalf. Such a designation may be made only with the approval of the applicable appointing authority and only if the individual is from the entity from which the member was appointed.
+(B)(i) An appointed member may designate an individual to serve on the committee on the member's behalf. Such a designation may be made only with the approval of the applicable appointing authority and only if the individual is from the entity from which the member was appointed.
 
 (ii) No individual may serve as a member of the committee for more than four years in the aggregate. If any member of the committee leaves the entity from which the member was appointed, such member may not continue as a member of the committee, and the member's position shall be considered to be vacant. A vacancy in the committee shall be filled in the same manner in which the original appointment was made.
 
@@ -270,7 +270,7 @@ A person intending to manufacture or process a chemical substance for which noti
 
 &emsp;&emsp;This paragraph authorizes, but does not require, the Administrator to review the means by which a person conducted testing described in subparagraph (A).
 
-(Pub. L. 94–469, title I, §4, Oct. 11, 1976, 90 Stat. 2006; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§4, 19(d), June 22, 2016, 130 Stat. 449, 505.)
+(Pub. L. 94–469, title I, §4, Oct. 11, 1976, 90 Stat. 2006; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L.114–182, title I, §§4, 19(d), June 22, 2016, 130 Stat. 449, 505.)
 
 #### References in Text
 

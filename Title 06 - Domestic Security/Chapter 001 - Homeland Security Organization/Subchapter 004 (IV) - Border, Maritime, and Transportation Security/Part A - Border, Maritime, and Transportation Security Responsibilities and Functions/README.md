@@ -13,3 +13,4 @@ Pub. L. 114–125, title VIII, §802(g)(1)(B)(ii)(I), Feb. 24, 2016, 130 Stat. 2
 - [&sect; 00202 - Border, maritime, and transportation responsibilities](%C2%A7%2000202%20-%20Border%2C%20maritime%2C%20and%20transportation%20responsibilities.md)
 - [&sect; 00203 - Functions transferred](%C2%A7%2000203%20-%20Functions%20transferred.md)
 - [&sect; 00204 - Surface Transportation Security Advisory Committee](%C2%A7%2000204%20-%20Surface%20Transportation%20Security%20Advisory%20Committee.md)
+- [&sect; 00205 - Ombudsman for immigration detention](%C2%A7%2000205%20-%20Ombudsman%20for%20immigration%20detention.md)

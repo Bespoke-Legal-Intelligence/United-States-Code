@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Department of Energy a separately organized agency to beknown as the National Nuclear Security Administration (in this chapter referred to as the "Administration").
+There is established within the Department of Energy a separately organized agency to be known as the National Nuclear Security Administration (in this chapter referred to as the "Administration").
 
 #### (b) Mission
 
@@ -90,7 +90,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The terms 'Secretary' and 'Secretary of Energy' mean the Secretary of Energy, acting after consideration of the recommendations of the Administrator for Nuclear Security.
 
-&emsp;"(2) The term 'nuclear weapons complex' means the national security laboratories and nuclear weapons production facilities (as such terms are defined in section 3281 of the National Nuclear Security Administration Act (50 U.S.C. 2471)) and the facilities of the Naval Nuclear Propulsion Program provided for under the Naval Nuclear Propulsion Executive Order\(as such term is defined in section 3216 of such Act (50 U.S.C. 2406))."
+&emsp;"(2) The term 'nuclear weapons complex' means the national security laboratories and nuclear weapons production facilities (as such terms are defined in section 3281 of the National Nuclear Security Administration Act (50 U.S.C. 2471)) and the facilities of the Naval Nuclear Propulsion Program provided for under the Naval Nuclear Propulsion Executive Order (as such term is defined in section 3216 of such Act (50 U.S.C. 2406))."
 
 #### Study and Report Related to Improving Mission Effectiveness, Partnerships, and Technology Transfer at National Security Laboratories and Nuclear Weapons Production Facilities
 
@@ -106,7 +106,7 @@ Study and Report Required.—The Secretary of Energy shall direct the Secretary 
 
 &emsp;"(3) The advantages and disadvantages of making changes in—
 
-&emsp;&emsp;"(A) the indemnification requirements for patents or other intellectual property licensed from a national security laboratory or nuclear weapons production facility;
+&emsp;&emsp;"(A) the indemnification requirements for patents or other intellectual property licensed from anational security laboratory or nuclear weapons production facility;
 
 &emsp;&emsp;"(B) the royalty and fee schedules and types of compensation that may be used for patents or other intellectual property licensed to a small business concern from a national security laboratory or nuclear weapons production facility;
 

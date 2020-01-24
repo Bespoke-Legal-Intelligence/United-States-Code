@@ -62,7 +62,7 @@ There is established a commission to be known as the National Prison Rape Elimin
 
 #### (1) In general
 
-&emsp;The Commission shall carry out a comprehensive legal and factual study of thepenalogical, physical, mental, medical, social, and economic impacts of prison rape in the United States on—
+&emsp;The Commission shall carry out a comprehensive legal and factual study of the penalogical, physical, mental, medical, social, and economic impacts of prison rape in the United States on—
 
 &emsp;&emsp;(A) Federal, State, and local governments; and
 

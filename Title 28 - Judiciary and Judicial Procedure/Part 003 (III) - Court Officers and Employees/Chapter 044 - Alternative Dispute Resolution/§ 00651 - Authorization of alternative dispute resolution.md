@@ -50,7 +50,7 @@ Pub. L. 105–315, §2, Oct. 30, 1998, 112 Stat. 2993, provided that: "Congress 
 
 &emsp;"(1) alternative dispute resolution, when supported by the bench and bar, and utilizing properly trained neutrals in a program adequately administered by the court, has the potential to provide a variety of benefits, including greater satisfaction of the parties, innovative methods of resolving disputes, and greater efficiency in achieving settlements;
 
-&emsp;"(2) certain forms of alternative dispute resolution, including mediation, early neutral evaluation, minitrials, and voluntary arbitration, may have potential to reduce the large backlog of cases now pending in some Federal courts throughout the United States, thereby allowing the courts to process their remaining cases more efficiently; and
+&emsp;"(2) certain forms of alternative dispute resolution, including mediation, early neutral evaluation, minitrials, and voluntary arbitration, may have potential to reduce the large backlog of cases now pending in some Federal courts throughout the United States,thereby allowing the courts to process their remaining cases more efficiently; and
 
 &emsp;"(3) the continued growth of Federal appellate court-annexed mediation programs suggests that this form of alternative dispute resolution can be equally effective in resolving disputes in the Federal trial courts; therefore, the district courts should consider including mediation in their local alternative dispute resolution programs."
 

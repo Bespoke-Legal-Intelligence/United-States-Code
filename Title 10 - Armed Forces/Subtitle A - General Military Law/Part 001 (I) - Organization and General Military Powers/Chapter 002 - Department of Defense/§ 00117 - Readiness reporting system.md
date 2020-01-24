@@ -22,7 +22,7 @@ Readiness Reporting System Characteristics.—In establishing and maintaining th
 
 &emsp;(4) that the reporting system include resources information, force posture, and mission centric capability assessments, as well as predicted changes to these attributes;
 
-&emsp;(5) that information in the readiness reporting system is continually updated, with (A) any change in the overall readiness status of a unit, or element of a unit, that is required to be reported as part of the readiness reporting system being reported within 24 hours of the event necessitating the change in readiness status, and (B) any change in the overall readiness status of an element of the training establishment or an element of defense infrastructure that is required to be reported as part of the readiness reporting system being reported within 72 hours of the event necessitating the change in readiness status; and
+&emsp;(5) that information in the readiness reporting system is continually updated, with (A) any change in the overall readiness status of a unit, or element of a unit, that is required tobe reported as part of the readiness reporting system being reported within 24 hours of the event necessitating the change in readiness status, and (B) any change in the overall readiness status of an element of the training establishment or an element of defense infrastructure that is required to be reported as part of the readiness reporting system being reported within 72 hours of the event necessitating the change in readiness status; and
 
 &emsp;(6) that sufficient resources are provided to establish and maintain the system so as to allow reporting of changes in readiness status as required by this section.
 
@@ -44,41 +44,17 @@ Capabilities.—The readiness reporting system shall measure such factors relati
 
 (d)
 
-Semi-annual and Monthly Joint Readiness Reviews.—(1) The Chairman of the Joint Chiefs of Staff shall—
-
-&emsp;(A) on a semi-annual basis, conduct a joint readiness review, which includes a validation of readiness data currency and accuracy; and
-
-&emsp;(B) on a monthly basis, review any changes that have been reported in readiness since the previous joint readiness review.
-
-(2) The Chairman shall incorporate into both the joint readiness review required under paragraph (1)(A) and the monthly review required under paragraph (1)(B) the current information derived from the readiness reporting system and shall assess the capability of the armed forces to execute their wartime missions based upon their posture at the time the review is conducted. The Chairman shall submit to the Secretary of Defense the results of each review under paragraph (1), including the deficiencies in readiness identified during that review.
-
-(e)
-
-Submission to Congressional Committees.—The Secretary shall semi-annually submit to the congressional defense committees a report in writing containing the results of the most recent joint readiness review under subsection (d)(1)(A), including the current information derived from the readiness reporting system. Each such report shall be submitted in unclassified form and may, as the Secretary determines necessary, also be submitted in classified form.
-
-(f)
-
-Quarterly Report on Monthly Changes in Current State of Readiness of Units.—For each quarter that begins after the date of the enactment of this subsection and ends on or before September 30, 2023, the Secretary shall submit to the congressional defense committees a report on each monthly upgrade or downgrade of the current state of readiness of a unit that was issued by the commander of a unit during the previous quarter, together with the rationale of the commander for the issuance of such upgrade or downgrade.
-
-(g)
-
-Annual Report on Operational Contract Support.—The Secretary shall each year submit to the congressional defense committees a report in writing containing the results of the most recent annual measurement of the capability of operational contract support to support current and anticipated wartime missions of the armed forces. Each such report shall be submitted in unclassified form, but may include a classified annex.
-
-(h)
-
 Regulations.—The Secretary shall prescribe regulations to carry out this section. In those regulations, the Secretary shall prescribe the established information technology system for Department of Defense reporting, specifically authorize exceptions to a single-system architecture, and identify the organizations, units, and entities that are subject to reporting in the readiness reporting system, what organization resources are subject to such reporting, and the elements of the training establishment and of defense infrastructure that are subject to such reporting.
 
-(Added Pub. L. 105–261, div. A, title III, §373(a)(1), Oct. 17, 1998, 112 Stat. 1990; amended Pub. L. 106–65, div. A, title III, §361(d)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 575, 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §371\], Oct. 30, 2000, 114 Stat. 1654, 1654A–80; Pub. L. 108–136, div. A, title X, §1031(a)(1), Nov. 24, 2003, 117 Stat. 1595; Pub. L. 112–239, div. A, title VIII, §845(a), Jan. 2, 2013, 126 Stat. 1848; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–91, div. A, title III, §331(b), Dec. 12, 2017, 131 Stat. 1354; Pub. L. 115–232, div. A, title III, §331(a)–(g)(1), Aug. 13, 2018, 132 Stat. 1723, 1724.)
-
-#### References in Text
-
-The date of the enactment of this subsection, referred to in subsec. (f), is the date of enactment of Pub. L. 115–232, which was approved Aug. 13, 2018.
+(Added Pub. L. 105–261, div. A, title III, §373(a)(1), Oct. 17, 1998, 112 Stat. 1990; amended Pub. L. 106–65, div. A, title III, §361(d)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 575, 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §371\], Oct. 30, 2000, 114 Stat. 1654, 1654A–80; Pub. L. 108–136, div. A, title X, §1031(a)(1), Nov. 24, 2003, 117 Stat. 1595; Pub. L. 112–239, div. A, title VIII, §845(a), Jan. 2, 2013, 126 Stat. 1848; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–91, div. A, title III, §331(b), Dec. 12, 2017, 131 Stat. 1354; Pub. L. 115–232, div. A, title III, §331(a)–(g)(1), Aug. 13, 2018, 132 Stat. 1723, 1724; Pub. L. 116–92, div. A, title III, §361(a), Dec. 20, 2019, 133 Stat. 1325.)
 
 #### Prior Provisions
 
 A prior section 117, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 1287, §133a; renumbered §117 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(d)(3), Oct. 1, 1986, 100 Stat. 994, 1002, required annual report on North Atlantic Treaty Organization readiness, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1301(1), Nov. 5, 1990, 104 Stat. 1668.
 
 #### Amendments
+
+<b>2019</b>—Subsecs. (d) to (h). Pub. L. 116–92 redesignated subsec. (h) as (d) and struck out former subsecs. (d) to (g) which related to semi-annual and monthly joint readiness reviews, semi-annual report to congressional committees on most recent joint readiness review, quarterly report on monthly changes in current state of readiness, and annual report on operational contract support, respectively.
 
 <b>2018</b>—Pub. L. 115–232, §331(g)(1), struck out ": establishment; reporting to congressional committees" after "system" in section catchline.
 
@@ -134,13 +110,37 @@ Subsec. (c)(2), (3), (5). Pub. L. 106–65, §361(d)(1)(B), substituted "an annu
 
 Subsec. (e). Pub. L. 106–65, §1067(1), substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
-#### Termination of Reporting Requirements
+#### Requirement To Include Foreign Language Proficiency in Readiness Reporting Systems of Department of Defense
 
-For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this section requiring submittal of quarterly report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+Pub. L. 116–92, div. A, title III, §366, Dec. 20, 2019, 133 Stat. 1328, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense and the Secretary of each military department shall include in the Global Readiness and Force Management Enterprise, for the appropriate billets with relevant foreign language requirements, measures of foreign language proficiency as a mandatory element of unit readiness reporting, to include the Defense Readiness Reporting Systems-Strategic (DRRS-S) and all other subordinate systems that report readiness data."
+
+#### Metrics for Assessment of Readiness of Cyber Mission Forces
+
+Pub. L. 116–92, div. A, title XVI, §1634(b), (c), Dec. 20, 2019, 133 Stat. 1747, provided that:
+
+"(b)
+
+Metrics.—
+
+&emsp;"(1)
+
+Establishment required.—The Secretary of Defense shall establish metrics for the assessment of the readiness of the Cyber Mission Forces of the Department of Defense.
+
+&emsp;"(2)
+
+Briefings required.—Not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\] and quarterly thereafter until completion of the establishment of the metrics under paragraph (1), the Secretary shall provide a briefing to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on such metrics, including progress as required pursuant to subsection (c).
+
+"(c)
+
+Modification of Readiness Reporting System.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary shall take such actions as the Secretary considers appropriate to ensure that the comprehensive readiness reporting system established pursuant to section 117(a) of title 10, United States Code, covers matters relating to the readiness of the Cyber Mission Forces—
+
+&emsp;"(1) using the metrics established pursuant to subsection (b)(1); and
+
+&emsp;"(2) in a manner that is consistent with sections 117 and 482 of such title."
 
 #### Limitation on Availability of Funds for Service-Specific Defense Readiness Reporting Systems
 
-Pub. L. 115–232, div. A, title III, §358, Aug. 13, 2018, 132 Stat. 1732, provided that:
+Pub. L. 115–232, div. A, title III, §358, Aug. 13, 2018, 132 Stat. 1732, as amended by Pub. L. 116–92, div. A, title III, §362, Dec. 20, 2019, 133 Stat. 1327, provided that:
 
 "(a)
 
@@ -152,7 +152,7 @@ Plan.—Not later than February 1, 2019, the Under Secretary for Personnel and R
 
 "(c)
 
-Transition.—The military services shall complete the transition to DRRS-S not later than October 1, 2019. The Secretary of Defense shall notify the congressional defense committees upon the complete transition of the services.
+Transition.—The military services shall complete the transition to DRRS-S not later than October 1, 2020. The Secretary of Defense shall notify the congressional defense committees upon the complete transition of the services.
 
 "(d)
 
@@ -184,7 +184,7 @@ Pub. L. 112–239, div. A, title XVI, §1601(a), Jan. 2, 2013, 126 Stat. 2062, p
 
 Pub. L. 112–239, div. A, title XVI, §1601(b), Jan. 2, 2013, 126 Stat. 2062, provided that: "The Department of Defense Strategic Readiness Fund established by section 872(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 117 note) \[formerly set out below\] is hereby closed."
 
-Pub. L. 110–181, div. A, title VIII, subtitle G, Jan. 28, 2008, 122 Stat. 260, which required Secretary of Defense to establish Defense Materiel Readiness Board to provide independent assessments of materiel readiness, materiel readiness shortfalls, and materiel readiness plans to Secretary of Defense and Congress; provided for designation of critical materiel readiness shortfalls; established Department of Defense Strategic Readiness Fund; and required Secretary of military departmentto notify Congress with respect to determination that use of a multiyear procurement contract would address a critical material readiness shortfall, was repealed by Pub. L. 112–239, div. A, title XVI, §1601(c), Jan. 2, 2013, 126 Stat. 2062.
+Pub. L. 110–181, div. A, title VIII, subtitle G, Jan. 28, 2008, 122 Stat. 260, which required Secretary of Defense to establish Defense Materiel Readiness Board to provide independent assessments of materiel readiness, materiel readiness shortfalls, and materiel readiness plans to Secretary of Defense and Congress; provided for designation of critical materiel readiness shortfalls; established Department of Defense Strategic Readiness Fund; and required Secretary of military department to notify Congress with respect to determination that use of a multiyear procurement contract would address a critical material readiness shortfall, was repealed by Pub. L. 112–239, div. A, title XVI, §1601(c), Jan. 2, 2013, 126 Stat. 2062.
 
 #### Implementation
 

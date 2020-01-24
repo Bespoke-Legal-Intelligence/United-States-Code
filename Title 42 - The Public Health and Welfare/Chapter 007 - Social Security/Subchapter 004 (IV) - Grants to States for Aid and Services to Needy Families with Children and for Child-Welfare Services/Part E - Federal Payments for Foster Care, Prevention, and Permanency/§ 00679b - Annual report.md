@@ -42,7 +42,7 @@ The Secretary, in consultation with Governors, State legislatures, State and loc
 
 #### (b) Consultation on other issues
 
-The Secretary shall consult with States and organizations with an interest in child welfare,including organizations that provide adoption and foster care services, and shall take into account requests from Members of Congress, in selecting other issues to be analyzed and reported on under this section using data available to the Secretary, including data reported by States through the Adoption and Foster Care Analysis and Reporting System and to the National Youth in Transition Database.
+The Secretary shall consult with States and organizations with an interest in child welfare, including organizations that provide adoption and foster care services, and shall take into account requests from Members of Congress, in selecting other issues to be analyzed and reported on under this section using data available to the Secretary, including data reported by States through the Adoption and Foster Care Analysis and Reporting System and to the National Youth in Transition Database.
 
 (Aug. 14, 1935, ch. 531, title IV, §479A, as added Pub. L. 105–89, title II, §203(a), Nov. 19, 1997, 111 Stat. 2126; amended Pub. L. 109–288, §7(c)(2), Sept. 28, 2006, 120 Stat. 1249; Pub. L. 112–34, title I, §106(d), Sept. 30, 2011, 125 Stat. 377; Pub. L. 113–183, title I, §115, Sept. 29, 2014, 128 Stat. 1930; Pub. L. 115–123, div. E, title VII, §50744, Feb. 9, 2018, 132 Stat. 260.)
 

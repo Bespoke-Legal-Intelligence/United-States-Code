@@ -28,7 +28,7 @@
 
 #### (1) Selection
 
-&emsp;The Director of the Office of Management and Budget shall designate from among the departments and agencies that use the DTS Network—
+&emsp;The Director of the Office of Management and Budget shall designate from among thedepartments and agencies that use the DTS Network—
 
 &emsp;&emsp;(A) four departments and agencies to each appoint one voting member of the Governance Board from the personnel of such departments and agencies; and
 
@@ -44,7 +44,7 @@
 
 #### (B) Nonvoting members
 
-&emsp;&emsp;The nonvoting members shall consist of the members appointed by departments andagencies designated under paragraph (1)(B) and shall act in an advisory capacity.
+&emsp;&emsp;The nonvoting members shall consist of the members appointed by departments and agencies designated under paragraph (1)(B) and shall act in an advisory capacity.
 
 #### (c) Chair duties and authorities
 

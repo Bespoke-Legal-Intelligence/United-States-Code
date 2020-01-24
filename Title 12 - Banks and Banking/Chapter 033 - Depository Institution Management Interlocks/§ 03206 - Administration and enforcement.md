@@ -4,7 +4,7 @@ This chapter shall be administered and enforced by—
 
 &emsp;(1) the Comptroller of the Currency with respect to national banks and Federal savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation),
 
-&emsp;(2) the Board of Governors of the Federal Reserve System with respect to State banks which are members of the Federal Reserve System, bank holding companies, and savings and loan holding companies,
+&emsp;(2) the Board of Governors of the Federal Reserve System with respect to State bankswhich are members of the Federal Reserve System, bank holding companies, and savings and loan holding companies,
 
 &emsp;(3) the Board of Directors of the Federal Deposit Insurance Corporation with respect to State banks which are not members of the Federal Reserve System but the deposits of which are insured by the Federal Deposit Insurance Corporation and State savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation),
 

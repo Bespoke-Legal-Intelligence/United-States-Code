@@ -18,7 +18,7 @@ Section 554(b) is new and permits a party in interest to request the court to or
 
 #### senate report no. 95–989
 
-Under this section the court may authorize the trustee to abandon any property of the estate that is burdensome to the estate or that is of inconsequential value to the estate. Abandonment may be to any party with a possessory interest in the property abandoned. In order to aid administration of the case, subsection (b) deems the court to have authorized abandonment of any property that is scheduled under section 521(1) and that is not administered before the case is closed. That property is deemed abandoned to the debtor. Subsection (c) specifies that if property is neither abandoned nor administered it remains property of the estate.
+Under this section the court may authorize the trustee to abandon any property of the estate that is burdensome to the estate or that is of inconsequential value to the estate. Abandonment may be to any party with a possessory interest in the property abandoned. In order to aid administration of the case, subsection (b) deems the court to have authorized abandonment of any property that is scheduled under section 521(1) and that is not administered before the case is closed. Thatproperty is deemed abandoned to the debtor. Subsection (c) specifies that if property is neither abandoned nor administered it remains property of the estate.
 
 #### Amendments
 

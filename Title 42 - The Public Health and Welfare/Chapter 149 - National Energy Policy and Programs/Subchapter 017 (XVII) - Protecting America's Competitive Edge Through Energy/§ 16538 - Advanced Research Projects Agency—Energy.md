@@ -72,7 +72,7 @@ The responsibilities of the Director shall include—
 
 &emsp;(2) developing funding criteria and assessing the success of programs through the establishment of technical milestones;
 
-&emsp;(3) administering the Fund through awards to institutions of higher education, companies, research foundations, trade and industry research collaborations, or consortia of such entities, which may include federally-funded research and development centers, to achievethe goals described in subsection (c) through targeted acceleration of—
+&emsp;(3) administering the Fund through awards to institutions of higher education, companies, research foundations, trade and industry research collaborations, or consortia of such entities, which may include federally-funded research and development centers, to achieve the goals described in subsection (c) through targeted acceleration of—
 
 &emsp;&emsp;(A) novel early-stage energy research with possible technology applications;
 
@@ -164,7 +164,7 @@ In carrying out this section, the Director may provide awards in the form of gra
 
 #### (C) Private recruiting firms
 
-&emsp;&emsp;The Secretary, or the Director serving as an agent of the Secretary, may contract with private recruiting firms for the hiringof qualified technical staff to carry out this section.
+&emsp;&emsp;The Secretary, or the Director serving as an agent of the Secretary, may contract with private recruiting firms for the hiring of qualified technical staff to carry out this section.
 
 #### (D) Additional staff
 

@@ -2,7 +2,7 @@
 
 #### (a) Report to Congress
 
-The Secretary shall conduct the following studies, and shall make a report or reports of the results of such studies to the Congress on or before January 1, 1970, and from time to time thereafter as he may find necessary, together with such recommendations for legislation as he may deem appropriate:
+The Secretary shall conduct the following studies, and shall make a report or reports ofthe results of such studies to the Congress on or before January 1, 1970, and from time to time thereafter as he may find necessary, together with such recommendations for legislation as he may deem appropriate:
 
 (1) A study of present State and Federal control of health hazards from electronic product radiation and other types of ionizing radiation, which study shall include, but not be limited to—
 
@@ -24,7 +24,7 @@ The Secretary shall conduct the following studies, and shall make a report or re
 
 #### (b) Participation of other Federal agencies
 
-In carrying out these studies, the Secretary shall invite the participation of other Federal departments and agencies having related responsibilities and interests, State governments—particularly those of States which regulate radioactive materials under section 274 of the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2021\], and interested professional, labor, and industrialorganizations. Upon request from congressional committees interested in these studies, the Secretary shall keep these committees currently informed as to the progress of the studies and shall permit the committees to send observers to meetings of the study groups.
+In carrying out these studies, the Secretary shall invite the participation of other Federal departments and agencies having related responsibilities and interests, State governments—particularly those of States which regulate radioactive materials under section 274 of the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2021\], and interested professional, labor, and industrial organizations. Upon request from congressional committees interested in these studies, the Secretary shall keep these committees currently informed as to the progress of the studies and shall permit the committees to send observers to meetings of the study groups.
 
 #### (c) Organization of studies and participation
 

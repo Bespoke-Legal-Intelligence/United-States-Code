@@ -86,7 +86,7 @@
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–435, title II, §206, Dec. 20, 2006, 120 Stat. 3217, added chapter heading and analysis and struck out former chapter heading "POSTAL RATES, CLASSES, AND SERVICES" and analysis consisting of items for subchapters I to V and items 3601 to 3604, 3621 to 3629, 3641 and 3642, 3661 to 3663, and 3681 to 3685.
+<b>2006</b>—Pub. L. 109–435, title II, §206, Dec. 20, 2006, 120 Stat. 3217, added chapter heading and analysis andstruck out former chapter heading "POSTAL RATES, CLASSES, AND SERVICES" and analysis consisting of items for subchapters I to V and items 3601 to 3604, 3621 to 3629, 3641 and 3642, 3661 to 3663, and 3681 to 3685.
 
 <b>1998</b>—Pub. L. 105–277, div. A, §101(h) \[title VI, §648(b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, added item 3663.
 

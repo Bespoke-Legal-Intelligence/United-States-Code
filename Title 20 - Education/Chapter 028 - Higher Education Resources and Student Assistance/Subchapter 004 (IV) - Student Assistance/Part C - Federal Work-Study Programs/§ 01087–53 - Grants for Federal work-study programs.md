@@ -42,7 +42,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;&emsp;&emsp;(ii) not more than 10 percent of the students compensated through the institution's grant under this part during the academic year are employed in positions for which the Federal share exceeds 75 percent; and
 
-&emsp;&emsp;(B) the Federal share may exceed 75 percent if the Secretary determines, pursuantto regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;
+&emsp;&emsp;(B) the Federal share may exceed 75 percent if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;
 
 &emsp;(6) include provisions to make employment under such work-study program reasonably available (to the extent of available funds) to all eligible students in the institution in need thereof;
 
@@ -128,7 +128,7 @@ As part of its agreement agreement <sup>2</sup> described in subsection (b) of 
 
 &emsp;The Federal share of the compensation of work-study students compensated under this subsection may exceed 75 percent.
 
-(Pub. L. 89–329, title IV, §443, as added Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1432; amended Pub. L. 100–50, §11(b), (c), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §§441(a)(2), 443, July 23, 1992, 106 Stat. 563, 564; Pub. L. 103–208, §2(d)(3)–(5), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §443, Oct. 7, 1998, 112 Stat. 1712; Pub. L. 110–315, title IV, §443, Aug. 14, 2008, 122 Stat. 3258; Pub. L. 111–39, title IV, §403, July 1, 2009, 123 Stat. 1945.)
+(Pub. L. 89–329, title IV, §443, as added Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1432; amended Pub. L. 100–50, §11(b), (c), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §§441(a)(2), 443, July 23, 1992, 106 Stat. 563, 564;Pub. L. 103–208, §2(d)(3)–(5), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §443, Oct. 7, 1998, 112 Stat. 1712; Pub. L. 110–315, title IV, §443, Aug. 14, 2008, 122 Stat. 3258; Pub. L. 111–39, title IV, §403, July 1, 2009, 123 Stat. 1945.)
 
 #### References in Text
 

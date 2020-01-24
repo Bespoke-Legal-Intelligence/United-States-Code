@@ -12,7 +12,7 @@ For purposes of this title—
 
 #### (A) In general
 
-&emsp;&emsp;If at the time of original issue there was an intention to call a debt instrument before maturity, any gain realized on the sale or exchange thereof which does not exceed an amount equal to—
+&emsp;&emsp;If at the time of original issue there was an intention to call a debt instrument beforematurity, any gain realized on the sale or exchange thereof which does not exceed an amount equal to—
 
 &emsp;&emsp;&emsp;(i) the original issue discount, reduced by
 
@@ -36,7 +36,7 @@ For purposes of this title—
 
 #### (B) Short-term Government obligation
 
-&emsp;&emsp;For purposes of this paragraph, the term "short-term Government obligation" meansany obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia, which has a fixed maturity date not more than 1 year from the date of issue. Such term does not include any tax-exempt obligation.
+&emsp;&emsp;For purposes of this paragraph, the term "short-term Government obligation" means any obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia, which has a fixed maturity date not more than 1 year from the date of issue. Such term does not include any tax-exempt obligation.
 
 #### (C) Acquisition discount
 
@@ -106,7 +106,7 @@ For purposes of this title—
 
 This section and sections 1272 and 1286 shall not require the inclusion of any amount previously includible in gross income.
 
-(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 531; amended Pub. L. 99–514, title XVIII, §1803(a)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2791, 2792; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 105–34, title X, §1003(c)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 113–295, div. A, title II, §221(a)(86), Dec. 19, 2014, 128 Stat. 4049; Pub. L. 115–141, div. U, title IV, §401(c)(1)(A), (D), (E), Mar. 23, 2018, 132 Stat. 1205.)
+(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 531; amended Pub. L. 99–514, title XVIII, §1803(a)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2791, 2792; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 105–34, title X, §1003(c)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 113–295, div. A, title II, §221(a)(86),Dec. 19, 2014, 128 Stat. 4049; Pub. L. 115–141, div. U, title IV, §401(c)(1)(A), (D), (E), Mar. 23, 2018, 132 Stat. 1205.)
 
 #### References in Text
 
@@ -534,7 +534,7 @@ Treatment of Original Issue Discount on Tax-Exempt Obligations.—Section 1288 o
 
 "(g)
 
-Repeal of Capital Asset Requirement.—Section 1272 of such Code (as added by section 41) shall notapply to any obligation issued on or before December 31, 1984, which is not a capital asset in the hands of the taxpayer.
+Repeal of Capital Asset Requirement.—Section 1272 of such Code (as added by section 41) shall not apply to any obligation issued on or before December 31, 1984, which is not a capital asset in the hands of the taxpayer.
 
 "(h)
 

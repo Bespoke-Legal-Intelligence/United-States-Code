@@ -40,7 +40,7 @@ Subsec. (d). Pub. L. 100–301, §4(a), added subsec. (d).
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–301, §1(a), Apr. 29, 1988, 102 Stat. 443, provided that: "This Act \[enacting sections 698m–1 to698m–4 of this title, amending this section and sections 698h and 698j to 698m of this title, and enacting provisions set out below\] may be cited as the 'Big Cypress National Preserve Addition Act'."
+Pub. L. 100–301, §1(a), Apr. 29, 1988, 102 Stat. 443, provided that: "This Act \[enacting sections 698m–1 to 698m–4 of this title, amending this section and sections 698h and 698j to 698m of this title, and enacting provisions set out below\] may be cited as the 'Big Cypress National Preserve Addition Act'."
 
 #### Findings and Purpose
 

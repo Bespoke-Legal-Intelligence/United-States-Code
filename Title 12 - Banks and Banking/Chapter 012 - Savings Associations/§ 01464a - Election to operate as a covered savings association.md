@@ -2,7 +2,7 @@
 
 #### (a) Definition
 
-In this section, the term "covered savings association" means a Federal savings associationthat makes an election that is approved under subsection (b).
+In this section, the term "covered savings association" means a Federal savings association that makes an election that is approved under subsection (b).
 
 #### (b) Election
 

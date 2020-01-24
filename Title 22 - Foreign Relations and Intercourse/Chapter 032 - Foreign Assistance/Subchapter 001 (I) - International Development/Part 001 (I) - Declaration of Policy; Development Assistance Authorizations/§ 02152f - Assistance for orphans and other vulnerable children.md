@@ -166,7 +166,7 @@ Pub. L. 109–95, §2, Nov. 8, 2005, 119 Stat. 2111, provided that: "Congress ma
 
 &emsp;"(14) Although section 403(b) of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (22 U.S.C. 7673(b)) establishes the requirement that not less than 10 percent of amounts appropriated for HIV/AIDS assistance for each of fiscal years 2006 through 2008 shall be expended for assistance for orphans and other vulnerable children affected by HIV/AIDS, there is an urgent need to provide assistance to such children prior to 2006.
 
-&emsp;"(15) Numerous United States and indigenous private voluntary organizations, including faith-based organizations, provide assistance to orphans and other vulnerable children in developing countries. Many of these organizations have submitted applications for grants to the Administrator of the United States Agency for International Development to provide increased levels of assistance for orphans and other vulnerable children in developing countries.
+&emsp;"(15) Numerous United States and indigenous private voluntary organizations, including faith-based organizations, provide assistance to orphans and other vulnerable children in developing countries. Many of these organizations have submitted applications for grants to the Administrator of the UnitedStates Agency for International Development to provide increased levels of assistance for orphans and other vulnerable children in developing countries.
 
 &emsp;"(16) Increasing the amount of assistance that is provided by the Administrator of the United States Agency for International Development through United States and indigenous private voluntary organizations, including faith-based organizations, will provide greater protection for orphans and other vulnerable children in developing countries.
 
@@ -176,7 +176,7 @@ Pub. L. 109–95, §2, Nov. 8, 2005, 119 Stat. 2111, provided that: "Congress ma
 
 &emsp;&emsp;"(A) ensures that Federal agencies and the private sector coordinate efforts to prevent and eliminate duplication of efforts and waste in the provision of such assistance; and
 
-&emsp;&emsp;"(B) to the maximum extent possible, focuses on community-based programs that allow orphans andother vulnerable children to remain connected to the traditions and rituals of their families and communities."
+&emsp;&emsp;"(B) to the maximum extent possible, focuses on community-based programs that allow orphans and other vulnerable children to remain connected to the traditions and rituals of their families and communities."
 
 #### Strategy of the United States
 

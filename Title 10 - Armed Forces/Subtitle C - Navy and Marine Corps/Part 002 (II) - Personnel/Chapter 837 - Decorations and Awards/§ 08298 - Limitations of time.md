@@ -4,11 +4,11 @@
 
 &emsp;(1) the award is made within five years after the date of the act or service justifying the award; and
 
-&emsp;(2) a statement setting forth the act or distinguished service and recommending officialrecognition of it was made by his superior through official channels within three years from the date of that act or service.
+&emsp;(2) a statement setting forth the act or distinguished service and recommending official recognition of it was made by his superior through official channels within three years from the date of that act or service.
 
 (b) If the Secretary of the Navy determines that—
 
-&emsp;(1) a statement setting forth the act or distinguished service and recommending official recognition of it was made by the person's superior through official channels within three years from the date of that act or service and was supported by sufficient evidence within that time; and
+&emsp;(1) a statement setting forth the act or distinguished service and recommending officialrecognition of it was made by the person's superior through official channels within three years from the date of that act or service and was supported by sufficient evidence within that time; and
 
 &emsp;(2) no award was made, because the statement was lost or through inadvertence the recommendation was not acted on;
 

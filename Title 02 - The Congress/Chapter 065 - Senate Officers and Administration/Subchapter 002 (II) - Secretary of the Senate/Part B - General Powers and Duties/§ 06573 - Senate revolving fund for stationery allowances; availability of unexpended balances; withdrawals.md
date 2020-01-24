@@ -10,7 +10,7 @@ Section was formerly classified to section 46a–1 of this title prior to editor
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–55, which directed the amendment of section 1101 of Pub. L. 85–58 by inserting at end "Disbursements from the fund shall be made upon vouchers approved by the Secretary of the Senate, or his designee.", was executed by making the insertion at the end of this section which is second par. under heading "
+<b>1997</b>—Pub. L. 105–55, which directed the amendment of section 1101 of Pub. L. 85–58 by inserting at end "Disbursements from the fund shall be made upon vouchers approved by the Secretary of the Senate, or his designee.", was executed by making the insertion at the end of this section which is second par. under heading"
 
 contingent expenses of the senate" to reflect the probable intent of Congress.
 

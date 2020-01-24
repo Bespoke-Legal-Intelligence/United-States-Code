@@ -26,7 +26,7 @@ Sec. 1451. Congress finds that—
 
 &emsp;"(1) nutrition and health considerations are important to United States agricultural policy;
 
-&emsp;"(2) section 1405 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3121) designates the Department of Agriculture as the lead agency of the Federal Government for human nutrition research (except with respect to the biomedical aspects of human nutrition concerned with diagnosis or treatment of disease);
+&emsp;"(2) section 1405 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3121) designates the Department of Agriculture as the lead agency of the Federal Government for human nutrition research (except with respect to thebiomedical aspects of human nutrition concerned with diagnosis or treatment of disease);
 
 &emsp;"(3) section 1423 of such Act (7 U.S.C. 3173) requires the Secretary of Agriculture to establish research into food and human nutrition as a separate and distinct mission of the Department of Agriculture;
 

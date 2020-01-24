@@ -26,7 +26,7 @@
 
 #### (A) Advice
 
-&emsp;&emsp;The Board shall provide advice to the Director of NIH and the Council of Councils established under section 282(l) of this title (inthis section referred to as the "Council") in carrying out this section.
+&emsp;&emsp;The Board shall provide advice to the Director of NIH and the Council of Councils established under section 282(l) of this title (in this section referred to as the "Council") in carrying out this section.
 
 #### (B) Determination of merit
 
@@ -240,7 +240,7 @@ Subsec. (f)(1). Pub. L. 112–74, §221(b)(1)(B)(v), substituted "Director of NI
 
 Pub. L. 112–74, §221(b)(1)(B)(iv), struck out comma after "Director of the Center".
 
-Subsec. (f)(2). Pub. L. 112–74, §221(b)(1)(B)(ii), substituted "Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases," for "Director of the Center orthe Director of the National Institute of Allergy and Infectious Diseases".
+Subsec. (f)(2). Pub. L. 112–74, §221(b)(1)(B)(ii), substituted "Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases," for "Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases".
 
 Subsec. (g). Pub. L. 112–74, §221(b)(1)(B)(vii), substituted "after consultation with the Council" for "after consultation with the Advisory Council".
 

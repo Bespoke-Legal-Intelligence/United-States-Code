@@ -16,7 +16,7 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 #### Repeals
 
-Section 706 of Pub. L. 87–195, cited as a credit to this section was repealed by section 401 of Pub. L. 87–565, pt. IV, Aug. 1, 1962, 76 Stat. 263, except insofar as section 706 affected this section.
+Section 706 of Pub. L. 87–195, cited as a credit to this section was repealed by section 401 of Pub. L. 87–565, pt.IV, Aug. 1, 1962, 76 Stat. 263, except insofar as section 706 affected this section.
 
 #### Delegation of Functions
 

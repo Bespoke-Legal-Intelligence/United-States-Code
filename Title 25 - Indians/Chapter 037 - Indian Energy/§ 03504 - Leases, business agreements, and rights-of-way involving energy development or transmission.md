@@ -142,7 +142,7 @@ Disapproval.—The Secretary shall disapprove a tribal energy resource agreement
 
 &emsp;&emsp;&emsp;&emsp;(aa) carried out a contract or compact under title I or IV of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.) for a period of not less than 3 consecutive years ending on the date on which the Indian tribe submits the application without material audit exception (or without any material audit exceptions that were not corrected within the 3-year period) relating to the management of tribal land or natural resources; or
 
-&emsp;&emsp;&emsp;&emsp;(bb) substantial experience in the administration, review, or evaluation of energy resource leases or agreements or has otherwise substantially participatedin the administration, management, or development of energy resources located on the tribal land of the Indian tribe; and
+&emsp;&emsp;&emsp;&emsp;(bb) substantial experience in the administration, review, or evaluation of energy resource leases or agreements or has otherwise substantially participated in the administration, management, or development of energy resources located on the tribal land of the Indian tribe; and
 
 &emsp;&emsp;&emsp;(XIII) at the option of the Indian tribe, identify which functions, if any, authorizing any operational or development activities pursuant to a lease, right-of-way, or business agreement approved by the Indian tribe, that the Indian tribe intends to conduct.
 
@@ -346,7 +346,7 @@ Nothing in this section affects the application of—
 
 #### (1) In general
 
-&emsp;Not later than 90 days after the date on which an Indian tribe submits an applicationfor certification of a tribal energy development organization in accordance with regulations promulgated under section 103(b) of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017, the Secretary shall approve or disapprove the application.
+&emsp;Not later than 90 days after the date on which an Indian tribe submits an application for certification of a tribal energy development organization in accordance with regulations promulgated under section 103(b) of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017, the Secretary shall approve or disapprove the application.
 
 #### (2) Requirements
 
@@ -456,7 +456,7 @@ Subsec. (e)(2)(B)(iii). Pub. L. 115–325, §103(a)(4)(B)(ii)(II)(bb), (cc), red
 
 "(XV) specify the financial assistance, if any, to be provided by the Secretary to the Indian tribe to assist in implementation of the tribal energy resource agreement, including environmental review of individual projects; and".
 
-Pub. L. 115–325, §103(a)(4)(B)(ii)(II)(aa), substituted "does not include provisions that, with respect to any lease, business agreement, or right-of-way to which the tribal energy resource agreement applies" for "includes provisions that, with respect to a lease, business agreement, or right-of-way under this section" in introductory provisions.
+Pub. L. 115–325, §103(a)(4)(B)(ii)(II)(aa), substituted "does not include provisions that, with respect to any lease, business agreement, or right-of-way to which the tribal energy resource agreement applies" for "includesprovisions that, with respect to a lease, business agreement, or right-of-way under this section" in introductory provisions.
 
 Subsec. (e)(2)(B)(iii)(XI)(bb). Pub. L. 115–325, §103(a)(4)(B)(ii)(II)(dd), substituted "Federal environmental laws;" for "Federal or tribal environmental laws."
 
@@ -540,7 +540,7 @@ Pub. L. 115–325, title I, §103(b), Dec. 18, 2018, 132 Stat. 4454, provided th
 
 &emsp;&emsp;"(B) identify the amounts that the Secretary would have otherwise expended to operate or carry out each program, function, service, and activity (or any portion of a program, function, service, or activity) identified pursuant to subparagraph (A); and
 
-&emsp;&emsp;"(C) provide to the Indian tribe a list of the programs, functions, services, and activities (or any portions of programs, functions, services, or activities) identified pursuant \[to\] subparagraph (A) and the amounts associated with each program, function, service, and activity (or any portion of a program, function, service, or activity) identified pursuant to subparagraph (B); and
+&emsp;&emsp;"(C) provide to the Indian tribe a list of the programs, functions, services, and activities (or any portions of programs, functions, services, or activities) identified pursuant \[to\] subparagraph (A) andthe amounts associated with each program, function, service, and activity (or any portion of a program, function, service, or activity) identified pursuant to subparagraph (B); and
 
 &emsp;"(3) section 2604(h) of the Energy Policy Act of 1992 (25 U.S.C. 3504(h)), including the process to be followed by, and any applicable criteria and documentation required for, an Indian tribe to request and obtain the certification described in that section."
 

@@ -42,7 +42,7 @@ Pub. L. 111–84, div. A, title III, §328, Oct. 28, 2009, 123 Stat. 2255, which
 
 #### Report on Inventory and Control of Military Equipment
 
-Pub. L. 106–65, div. A, title III, §363, Oct. 5, 1999, 113 Stat. 576, provided that not later than Aug. 31, 2000, the Secretary of Defense was to submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the inventory and control ofthe military equipment of the Department of Defense as of the end of fiscal year 1999, and that not later than Nov. 30, 2000, the Inspector General of the Department of Defense was to review the report and submit comments to the committees.
+Pub. L. 106–65, div. A, title III, §363, Oct. 5, 1999, 113 Stat. 576, provided that not later than Aug. 31, 2000, the Secretary of Defense was to submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the inventory and control of the military equipment of the Department of Defense as of the end of fiscal year 1999, and that not later than Nov. 30, 2000, the Inspector General of the Department of Defense was to review the report and submit comments to the committees.
 
 #### Best Commercial Inventory Practices for Management of Secondary Supply Items
 

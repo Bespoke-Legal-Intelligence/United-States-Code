@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;Notwithstanding any other provision of law, the President may reduce the amount owed tothe United States (or any agency of the United States) that is outstanding as of January 14, 2019, as a result of any credits extended under title I of the Food for Peace Act (7 U.S.C. 1701 et seq.) to a country eligible for benefits from the Facility.
+&emsp;Notwithstanding any other provision of law, the President may reduce the amount owed to the United States (or any agency of the United States) that is outstanding as of January 14, 2019, as a result of any credits extended under title I of the Food for Peace Act (7 U.S.C. 1701 et seq.) to a country eligible for benefits from the Facility.
 
 #### (2) Authorization of appropriations
 

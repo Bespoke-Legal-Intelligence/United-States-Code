@@ -80,7 +80,7 @@ Prior sections 300ff–89 and 300ff–90 were omitted in the general amendment o
 
 Section 300ff–89, act July 1, 1944, ch. 373, title XXVI, §2689, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 628, related to injunctions regarding violations of former subpart II of this part.
 
-Section 300ff–90, act July 1, 1944, ch. 373, title XXVI, §2690, as added Pub. L. 101–381, title IV, §411(a), Aug. 18,1990, 104 Stat. 628, related to applicability of former subpart II of this part.
+Section 300ff–90, act July 1, 1944, ch. 373, title XXVI, §2690, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 628, related to applicability of former subpart II of this part.
 
 #### Amendments
 
@@ -90,5 +90,5 @@ Section 300ff–90, act July 1, 1944, ch. 373, title XXVI, §2690, as added Pub.
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effectiveSept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

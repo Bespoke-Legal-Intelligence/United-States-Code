@@ -8,7 +8,7 @@
 
 #### (2) Criteria and consideration
 
-&emsp;The Quality Assurance Program authorized by this section shall be based on criteria that include demonstrated institutional performance, as determined by the Secretary, and shall take into consideration current quality assurance goals, as determined by the Secretary. The selection criteria shall ensure the participation of a diverse group of institutions of higher education with respect to size, mission, and geographical distribution.
+&emsp;The Quality Assurance Program authorized by this section shall be based on criteria that include demonstrated institutional performance, as determined by the Secretary, and shall take into consideration current quality assurance goals, as determined by the Secretary. The selection criteria shall ensure theparticipation of a diverse group of institutions of higher education with respect to size, mission, and geographical distribution.
 
 #### (3) Waiver
 
@@ -72,7 +72,7 @@ For purposes of this section, the term "current award year" means the award year
 
 Subsec. (b)(4). Pub. L. 111–39, §407(b)(9)(B), added par. (4).
 
-<b>2008</b>—Subsec. (a)(5). Pub. L. 110–315, §103(b)(13), substituted "authorizing committees" for "Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives".
+<b>2008</b>—Subsec. (a)(5). Pub. L. 110–315, §103(b)(13), substituted "authorizing committees" for "Committee on Labor and Human Resources of the Senate and theCommittee on Education and the Workforce of the House of Representatives".
 
 Subsec. (b)(1). Pub. L. 110–315, §494(1), amended par. (1) generally. Prior to amendment, text read as follows: "The Secretary may continue any experimental sites in existence on October 7, 1998. Any activities approved by the Secretary prior to October 7, 1998, that are inconsistent with this section shall be discontinued not later than June 30, 1999."
 

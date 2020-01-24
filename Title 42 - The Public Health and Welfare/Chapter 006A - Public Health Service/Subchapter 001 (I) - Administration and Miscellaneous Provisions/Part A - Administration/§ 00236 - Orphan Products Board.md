@@ -2,11 +2,11 @@
 
 #### (a) Establishment; composition; chairman
 
-There is established in the Department of Health and Human Services a board for the development of drugs (including biologics) and devices (including diagnostic products) for rare diseases or conditions to be known as the Orphan Products Board. The Board shall be comprised of the Assistant Secretary for Health of the Department of Health and Human Services and representatives, selected by the Secretary, of the Food and Drug Administration, the National Institutes of Health, the Centers for Disease Control and Prevention, and any other Federal department or agency which the Secretary determines has activities relating to drugs and devices for rare diseases or conditions. The Assistant Secretary for Health shall chair the Board.
+There is established in the Department of Health and Human Services a board for the development of drugs (including biologics) and devices (including diagnostic products) for rarediseases or conditions to be known as the Orphan Products Board. The Board shall be comprised of the Assistant Secretary for Health of the Department of Health and Human Services and representatives, selected by the Secretary, of the Food and Drug Administration, the National Institutes of Health, the Centers for Disease Control and Prevention, and any other Federal department or agency which the Secretary determines has activities relating to drugs and devices for rare diseases or conditions. The Assistant Secretary for Health shall chair the Board.
 
 #### (b) Function
 
-The function of the Board shall be to promote the development of drugs and devices for rare diseases or conditions and the coordination among Federal, other public, and private agencies in carrying out their respective functionsrelating to the development of such articles for such diseases or conditions.
+The function of the Board shall be to promote the development of drugs and devices for rare diseases or conditions and the coordination among Federal, other public, and private agencies in carrying out their respective functions relating to the development of such articles for such diseases or conditions.
 
 #### (c) Duties with respect to drugs for rare diseases or conditions
 
@@ -56,7 +56,7 @@ Section 44H of title 26, referred to in subsec. (e), was renumbered section 28 o
 
 #### Prior Provisions
 
-A prior section 236, act July 1, 1944, ch. 373, title II, §227, formerly title III, §310B, as added Oct. 30, 1970, Pub. L. 91–515, title II, §280, 84 Stat. 1307; renumbered §227 and amended July 23, 1974, Pub. L. 93–353, title I, §102(f), 88 Stat. 362, related to an annual report by Secretary on activities related to health facilities and services and expenditure of funds, prior to repeal by Pub. L. 97–35, title XXI, §2193(b)(4), Aug. 13, 1981, 95 Stat. 827.
+A prior section 236, act July 1, 1944, ch. 373, title II, §227, formerly title III, §310B, as added Oct. 30, 1970, Pub. L. 91–515, title II, §280, 84 Stat. 1307; renumbered §227 and amended July 23, 1974, Pub. L. 93–353, title I, §102(f), 88 Stat. 362, related to an annual report by Secretary on activities related to health facilities and services and expenditure of funds, prior to repeal byPub. L. 97–35, title XXI, §2193(b)(4), Aug. 13, 1981, 95 Stat. 827.
 
 #### Amendments
 

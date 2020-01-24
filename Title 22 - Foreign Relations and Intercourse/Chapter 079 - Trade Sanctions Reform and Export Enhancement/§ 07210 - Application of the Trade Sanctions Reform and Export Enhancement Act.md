@@ -30,5 +30,5 @@ The Foreign Narcotics Kingpin Designation Act, referred to in par. (4), is title
 
 #### Codification
 
-Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or USA PATRIOT Act, and not as part of the Trade Sanctions Reform and Export Enhancement Act of 2000 which comprises this chapter.
+Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate ToolsRequired to Intercept and Obstruct Terrorism Act of 2001 or USA PATRIOT Act, and not as part of the Trade Sanctions Reform and Export Enhancement Act of 2000 which comprises this chapter.
 

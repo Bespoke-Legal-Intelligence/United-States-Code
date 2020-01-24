@@ -1,0 +1,20 @@
+### §3355f. Funding
+
+#### (a) Authorization of appropriations
+
+There is hereby authorized to be appropriated to carry out the provisions of this subchapter amounts as follows:
+
+&emsp;(1) For fiscal year 2001, $650,000.
+
+&emsp;(2) For each fiscal year after fiscal year 2001, such sums as may be necessary for such fiscal year.
+
+#### (b) Funding requests
+
+The President shall include in the budget submitted to Congress for each fiscal year undersection 1105 of title 31 a request for amounts for the activities of the Board under this subchapter during such fiscal year.
+
+(Pub. L. 106–567, title VII, §708, Dec. 27, 2000, 114 Stat. 2863.)
+
+#### Codification
+
+Section was formerly set out in a note under section 3161 of this title.
+

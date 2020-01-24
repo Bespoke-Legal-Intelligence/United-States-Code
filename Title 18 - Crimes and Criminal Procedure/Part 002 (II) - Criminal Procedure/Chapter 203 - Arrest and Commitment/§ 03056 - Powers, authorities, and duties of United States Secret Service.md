@@ -22,7 +22,7 @@
 
 (b) Under the direction of the Secretary of Homeland Security, the Secret Service is authorized to detect and arrest any person who violates—
 
-&emsp;(1) section 508, 509, 510, 871, or 879 of this title or, with respect to the Federal Deposit Insurance Corporation, Federal land banks, and Federal land bank associations, section 213, 216,<sup>1</sup> 433, 493, 657, 709, 1006, 1007, 1011, 1013, 1014, 1907, or 1909 of this title;
+&emsp;(1) section 508, 509, 510, 871, or 879 of this title or, with respect to the Federal Deposit Insurance Corporation, Federal land banks, and Federal land bank associations, section 213,216,<sup>1</sup> 433, 493, 657, 709, 1006, 1007, 1011, 1013, 1014, 1907, or 1909 of this title;
 
 &emsp;(2) any of the laws of the United States relating to coins, obligations, and securities of the United States and of foreign governments; or
 
@@ -68,7 +68,7 @@ Section consolidates said section 148 of title 18, U.S.C., 1940 ed., and said se
 
 Said section 148 of title 12, U.S.C., 1940 ed., Banks and Banking, was concerned with offenses relating to counterfeiting and passing, etc., of transportation requests and to the unlawful possession or making of plates, stones, etc., used in making such requests, which were defined in sections 146 and 147 of said title 18, now sections 508 and 509 of this title.
 
-Said sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banks and Banking, were concerned with various offenses as defined in sections 981–985, 987 of said title 12, relating to Federal land banks, joint-stock land banks and national farm loan associations, and as defined in section 264 of said title 12 relating to the Federal Deposit Insurance Corporation. All of the provisions of said sections 981–985, 987 of said title 12, and the criminal provisions of said section 264 of said title 12, were transferred to this title where they were, in some instances, consolidated with similar provisions from other sections. Such provisions are now incorporated in sections 218, 221, 433, 493, 657, 709, 1006, 1007, 1011, 1013, 1014, 1907, and 1909 of this title. In most instances, these sections, as the result of the consolidations, relate to other organizations as well as those mentioned above, but, by enumerating the Federal Deposit Insurance Corporation, Federal land banks, joint-stock land banks, and national farm loan associations in this section, the powers of the Secret Service are not broadened beyond what they were in said sections 264(x) and 986 of said title 12.
+Said sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banks and Banking, were concerned with various offenses as defined in sections 981–985, 987 of said title 12,relating to Federal land banks, joint-stock land banks and national farm loan associations, and as defined in section 264 of said title 12 relating to the Federal Deposit Insurance Corporation. All of the provisions of said sections 981–985, 987 of said title 12, and the criminal provisions of said section 264 of said title 12, were transferred to this title where they were, in some instances, consolidated with similar provisions from other sections. Such provisions are now incorporated in sections 218, 221, 433, 493, 657, 709, 1006, 1007, 1011, 1013, 1014, 1907, and 1909 of this title. In most instances, these sections, as the result of the consolidations, relate to other organizations as well as those mentioned above, but, by enumerating the Federal Deposit Insurance Corporation, Federal land banks, joint-stock land banks, and national farm loan associations in this section, the powers of the Secret Service are not broadened beyond what they were in said sections 264(x) and 986 of said title 12.
 
 In this section, the wording of said section 148 of title 18, U.S.C., 1940 ed., and section 986 of title 12, U.S.C., 1940 ed., Banks and Banking reading "The Secretary of the Treasury is hereby authorized to direct and use the Secret Service Division of the Treasury Department" was adopted, rather than the wording of said section 264(x) of said title 12, which read "The Secret Service Division of the Treasury Department is authorized."
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 86–168 effective Dec. 31, 1959, see section 104(k) of Pub
 
 #### Transfer of Functions
 
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Use of Funds for United States Secret Service Protection
 
@@ -218,7 +218,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[De
 
 #### Telecommunications Support to United States Secret Service by White House Communications Agency
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8100\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–108, as amended by Pub. L. 106–92, §2, Nov. 9, 1999, 113 Stat. 1309, provided that: "Beginning in fiscal year 1997 and thereafter, and notwithstanding any other provision of law, fixed and mobile telecommunications support shall be provided by the White House Communications Agency (WHCA) to the United States Secret Service (USSS), without reimbursement, in connection with the Secret Service's duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President at the White House Security Complex in the Washington, D.C. Metropolitan Area and Camp David, Maryland. For these purposes, the White House Security Complex includes the White House, the White House grounds, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Building, the Blair House, the Treasury Building, and the Vice President's Residence at the Naval Observatory."
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8100\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–108, asamended by Pub. L. 106–92, §2, Nov. 9, 1999, 113 Stat. 1309, provided that: "Beginning in fiscal year 1997 and thereafter, and notwithstanding any other provision of law, fixed and mobile telecommunications support shall be provided by the White House Communications Agency (WHCA) to the United States Secret Service (USSS), without reimbursement, in connection with the Secret Service's duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President at the White House Security Complex in the Washington, D.C. Metropolitan Area and Camp David, Maryland. For these purposes, the White House Security Complex includes the White House, the White House grounds, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Building, the Blair House, the Treasury Building, and the Vice President's Residence at the Naval Observatory."
 
 #### Off-Set of Costs of Protecting Former Presidents and Spouses
 
@@ -320,11 +320,11 @@ Sec. 8. No funds may be expended or obligated for the purpose of carrying out th
 
 "
 
-Sec. 9. The Director, the Secretary of Defense, and the Commandant of the Coast Guard shall each transmit a detailed semi-annual report of expenditures made pursuant to this Act during the six-month period immediately preceding such report by the Secret Service, the Department of Defense, and the Coast Guard, respectively, to the Committees on Appropriations, Committees on the Judiciary, and Committees on Government Operations \[now Committee on Oversight and Government Reform of the House of Representatives and Committee on Homeland Security and Governmental Affairs of the Senate\] of the House of Representatives and the Senate, respectively, on March 31 and September 30, of each year.
+Sec. 9. The Director, the Secretary of Defense, and the Commandant of the Coast Guard shall each transmit a detailed semi-annual report of expenditures made pursuant to this Act during the six-month period immediately preceding such report by the Secret Service, the Department of Defense, and the Coast Guard, respectively, to the Committees on Appropriations, Committees on the Judiciary, and Committees on Government Operations \[now Committee on Oversight and Reform of the House of Representatives and Committee on Homeland Security and Governmental Affairs of the Senate\] of the House of Representatives and the Senate, respectively, on March 31 and September 30, of each year.
 
 "
 
-Sec. 10. Expenditures made pursuant to this Act shall be subject to audit by the Comptroller General and his authorized representatives, who shall have access to all records relating to such expenditures. The Comptroller General shall transmit a report of the results of any such audit to the Committees on Appropriations, Committees on the Judiciary, and Committees on Government Operations \[now Committee on Oversight and Government Reform of the House of Representatives and Committee on Homeland Security and Governmental Affairs of the Senate\] of the House of Representatives and the Senate, respectively.
+Sec. 10. Expenditures made pursuant to this Act shall be subject to audit by the Comptroller General and his authorized representatives, who shall have access to all records relating to such expenditures. The Comptroller General shall transmit a report of the results of any such audit to the Committees on Appropriations, Committees on the Judiciary, and Committees on Government Operations \[now Committee on Oversight and Reform of the House of Representatives and Committee on Homeland Security and Governmental Affairs of the Senate\] of the House of Representatives and the Senate, respectively.
 
 "
 
@@ -342,7 +342,7 @@ Pub. L. 90–331, June 6, 1968, 82 Stat. 170, as amended by Pub. L. 94–408, §
 
 #### Extension of Protection of President's Widow and Children
 
-Pub. L. 90–145, Nov. 17, 1967, 81 Stat. 466, extended until Mar. 1, 1969, the authority vested in the United States Secret Service by section 3056 of this title, as it existed prior to the amendment in 1968 by Pub. L. 90–608, to protect the widow and minor children of a former President who were receiving such protection on Nov. 17, 1967.
+Pub. L. 90–145, Nov. 17, 1967, 81 Stat. 466, extended until Mar. 1, 1969, the authority vested in the UnitedStates Secret Service by section 3056 of this title, as it existed prior to the amendment in 1968 by Pub. L. 90–608, to protect the widow and minor children of a former President who were receiving such protection on Nov. 17, 1967.
 
 #### Applicability of Reorg. Plan No. 26 of 1950
 

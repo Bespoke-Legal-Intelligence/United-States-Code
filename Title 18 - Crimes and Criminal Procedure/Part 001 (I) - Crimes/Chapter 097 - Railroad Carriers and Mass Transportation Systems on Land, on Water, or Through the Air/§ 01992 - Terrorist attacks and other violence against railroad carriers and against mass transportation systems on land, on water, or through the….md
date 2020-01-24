@@ -6,7 +6,7 @@ General Prohibitions.—Whoever, in a circumstance described in subsection (c), 
 
 &emsp;(1) wrecks, derails, sets fire to, or disables railroad on-track equipment or a mass transportation vehicle;
 
-&emsp;(2) places any biological agent or toxin, destructive substance, or destructive device in, upon, or near railroad on-track equipment or amass transportation vehicle with intent to endanger the safety of any person, or with a reckless disregard for the safety of human life;
+&emsp;(2) places any biological agent or toxin, destructive substance, or destructive device in, upon, or near railroad on-track equipment or a mass transportation vehicle with intent to endanger the safety of any person, or with a reckless disregard for the safety of human life;
 
 &emsp;(3) places or releases a hazardous material or a biological agent or toxin on or near any property described in subparagraph (A) or (B) of paragraph (4), with intent to endanger the safety of any person, or with reckless disregard for the safety of human life;
 

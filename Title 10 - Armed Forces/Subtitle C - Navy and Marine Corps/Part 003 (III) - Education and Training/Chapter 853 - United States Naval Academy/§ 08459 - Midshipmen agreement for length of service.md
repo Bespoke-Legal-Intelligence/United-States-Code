@@ -20,7 +20,7 @@
 
 &emsp;(5) That the midshipman—
 
-&emsp;&emsp;(A) will not seek release from the midshipman's commissioned service obligation to obtain employment as a professional athlete following graduation until the midshipman completes a period of at least two consecutive years of commissioned service; and
+&emsp;&emsp;(A) will not seek release from the midshipman's commissioned service obligation or seek or accept approval for off-duty employment while completing the midshipman's commissioned service obligation to obtain employment as a professional athlete following graduation until the midshipman completes a period of at least two consecutive years of commissioned service; and
 
 &emsp;&emsp;(B) understands that the appointment alternative described in paragraph (3) will not be used to allow the midshipman to obtain such employment until at least the end of that two-year period.
 
@@ -46,7 +46,7 @@
 
 (f) A midshipman or former midshipman who does not fulfill the terms of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 432, §6959; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(19), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(b), 542(c), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(b), Nov. 8, 1985, 99 Stat. 624; Pub. L. 101–189, div. A, title V, §511(c), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 104–106, div. A, title V, §531(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title V, §515(b)(1)(S), title VI, §687(c)(10), Jan. 6, 2006, 119 Stat. 3233, 3335; Pub. L. 111–84, div. A, title X, §1073(a)(29), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title V, §554(b), Jan. 7, 2011, 124 Stat. 4221; Pub. L. 115–91, div. A, title V, §543(b), title VI, §618(a)(1)(L), Dec. 12, 2017, 131 Stat. 1395, 1426; renumbered §8459, Pub. L. 115–232, div. A, title VIII, §807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 432, §6959; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(19), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(b), 542(c), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(b), Nov. 8, 1985, 99 Stat. 624; Pub. L. 101–189, div. A, title V, §511(c), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 104–106, div. A, title V, §531(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title V, §515(b)(1)(S), title VI, §687(c)(10), Jan. 6, 2006, 119 Stat. 3233, 3335; Pub. L. 111–84, div. A, title X, §1073(a)(29), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title V, §554(b), Jan. 7, 2011, 124 Stat. 4221; Pub. L. 115–91, div. A, title V, §543(b), title VI, §618(a)(1)(L), Dec. 12, 2017, 131 Stat. 1395, 1426; renumbered §8459, Pub. L. 115–232, div. A, title VIII, §807(c)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–92, div. A, title V, §554(b), Dec. 20, 2019, 133 Stat. 1388.)
 
 Historical and Revision Notes
 
@@ -65,6 +65,8 @@ June 30, 1950, ch. 421, §3, 64 Stat. 304.
 The words "Hereafter" and "appointed to the United States Naval Academy" are omitted as surplusage. The words "an agreement that \* \* \* he will" are substituted for the words "articles \* \* \* by which he shall engage". The word "separated" is substituted for the words "discharged by competent authority". The words "if tendered an appointment", "upon graduation from the United States Naval Academy", and "consecutive" are omitted as surplusage. The words "if he is permitted to resign" are substituted for the words "in the event of the acceptance of his resignation", since a resignation is effective only if accepted. The first 43 words of clause (3) are substituted for 34 U.S.C. 1048 (last 30 words of clause (3)). The last sentence is substituted for the words "with the consent of his parents or guardian if he be a minor, and if any he have."
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(5)(A). Pub. L. 116–92 inserted "or seek or accept approval for off-duty employment while completing the midshipman's commissioned service obligation" before "to obtain employment".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6959 of this title as this section.
 
@@ -112,7 +114,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2017 Amendment
 
-Revised cadet and midshipman service agreements under this section and sections 7448 and 9448 of this title applicable to cadets and midshipmen who are attending the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on Dec. 12, 2017, and to persons who begin attendance at such military service academies on or after that date, see section 543(d) of Pub. L. 115–91, set out as a note under section 7448 of this title.
+Revised cadet and midshipman service agreements under this section and sections 7448 and 9448 of thistitle applicable to cadets and midshipmen who are attending the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on Dec. 12, 2017, and to persons who begin attendance at such military service academies on or after that date, see section 543(d) of Pub. L. 115–91, set out as a note under section 7448 of this title.
 
 #### Effective Date of 1996 Amendment
 

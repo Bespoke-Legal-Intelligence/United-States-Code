@@ -18,7 +18,7 @@ Upon the appointment of the Corporation under section 5382 of this title, the Co
 
 The Corporation, as receiver—
 
-&emsp;(1) shall consult with the primary financial regulatory agency or agencies of the covered financial company and its covered subsidiaries for purposes of ensuring an orderly liquidation of the covered financial company;
+&emsp;(1) shall consult with the primary financial regulatory agency or agencies of the covered financial company and its covered subsidiariesfor purposes of ensuring an orderly liquidation of the covered financial company;
 
 &emsp;(2) may consult with, or under subsection (a)(1)(B)(v) or (a)(1)(L) of section 5390 of this title, acquire the services of, any outside experts, as appropriate to inform and aid the Corporation in the orderly liquidation process;
 

@@ -48,7 +48,7 @@ At the time the Secretary enters into a contract, the Secretary shall provide an
 
 #### (A) Fiscal year 1996
 
-&emsp;&emsp;At the option of the owner or producer, 50 percent of the contract payment for fiscal year 1996 shall be made not later than 30 days after the date on which the contract is entered into and approved by the Secretary and the owner or producer.
+&emsp;&emsp;At the option of the owner or producer, 50 percent of the contract payment for fiscalyear 1996 shall be made not later than 30 days after the date on which the contract is entered into and approved by the Secretary and the owner or producer.
 
 #### (B) Subsequent fiscal years
 

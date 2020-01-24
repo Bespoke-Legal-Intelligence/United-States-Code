@@ -20,7 +20,7 @@ Exceptions.—The Federal Government shall not be required to acquire space tran
 
 &emsp;(6) it is more cost effective to transport a payload in conjunction with a test or demonstration of a space transportation vehicle owned by the Federal Government; or
 
-&emsp;(7) a payload can make use of the available cargo space on a space shuttle mission as a secondary payload, and such payload is consistent with the requirements of research, development, demonstration, scientific, commercial, and educational programs authorized by the Administrator.
+&emsp;(7) a payload can make use of the available cargo space on a space shuttle mission as asecondary payload, and such payload is consistent with the requirements of research, development, demonstration, scientific, commercial, and educational programs authorized by the Administrator.
 
 (c)
 

@@ -12,7 +12,7 @@ There are authorized to be appropriated to carry out the purposes of sections 75
 
 <b>1996</b>—Pub. L. 104–297 amended section generally. Prior to amendment, section authorized appropriations to carry out sections 757a to 757g of this title of not to exceed $8,152,500 for fiscal year 1989 and $8,000,000 for each of fiscal years 1990 to 1995, and limited the obligation of funds in any one State to not more than $1,250,000.
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–627, §401(1), (2), redesignated par. (7) as (1) and struck out former par. (1)which authorized appropriations of $11,000,000 for fiscal year 1980.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–627, §401(1), (2), redesignated par. (7) as (1) and struck out former par. (1) which authorized appropriations of $11,000,000 for fiscal year 1980.
 
 Subsec. (a)(2). Pub. L. 101–627, §401(1), (3), added par. (2) and struck out former par. (2) which authorized appropriations of $13,000,000 for fiscal year 1981.
 

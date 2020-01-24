@@ -40,7 +40,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (A) Agreement required
 
-&emsp;&emsp;A Bell operating company meets the requirements of this paragraph if, within the State for which the authorization is sought—
+&emsp;&emsp;A Bell operating company meets the requirements of this paragraph if, within theState for which the authorization is sought—
 
 &emsp;&emsp;&emsp;(i)(I) such company is providing access and interconnection pursuant to one or more agreements described in paragraph (1)(A), or
 
@@ -56,7 +56,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 &emsp;&emsp;&emsp;(ii) Nondiscriminatory access to network elements in accordance with the requirements of sections 251(c)(3) and 252(d)(1) of this title.
 
-&emsp;&emsp;&emsp;(iii) Nondiscriminatory access to the poles, ducts, conduits, and rights-of-way owned or controlled by the Bell operatingcompany at just and reasonable rates in accordance with the requirements of section 224 of this title.
+&emsp;&emsp;&emsp;(iii) Nondiscriminatory access to the poles, ducts, conduits, and rights-of-way owned or controlled by the Bell operating company at just and reasonable rates in accordance with the requirements of section 224 of this title.
 
 &emsp;&emsp;&emsp;(iv) Local loop transmission from the central office to the customer's premises, unbundled from local switching or other services.
 

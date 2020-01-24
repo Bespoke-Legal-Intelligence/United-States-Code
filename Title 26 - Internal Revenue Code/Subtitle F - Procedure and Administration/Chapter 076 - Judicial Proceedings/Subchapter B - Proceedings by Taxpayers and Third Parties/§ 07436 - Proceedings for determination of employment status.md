@@ -28,7 +28,7 @@ If, in connection with an audit of any person, there is an actual controversy in
 
 #### (1) In general
 
-&emsp;At the option of the petitioner, concurred in by the Tax Court or a division thereof before the hearing of the case, proceedings under this section may (notwithstanding the provisions of section 7453) be conducted subject to the rules of evidence, practice, and procedure applicable under section 7463 if the amount of employment taxes placed in dispute is $50,000 or less for each calendar quarter involved.
+&emsp;At the option of the petitioner, concurred in by the Tax Court or a division thereof beforethe hearing of the case, proceedings under this section may (notwithstanding the provisions of section 7453) be conducted subject to the rules of evidence, practice, and procedure applicable under section 7463 if the amount of employment taxes placed in dispute is $50,000 or less for each calendar quarter involved.
 
 #### (2) Finality of decisions
 

@@ -16,7 +16,7 @@ Appropriated funds available to an intelligence agency may be obligated or expen
 
 &emsp;&emsp;(C) the Director of National Intelligence, the Secretary of Defense, or the Attorney General, as appropriate, has notified the appropriate congressional committees of the intent to make such funds available for such activity;
 
-&emsp;(4) nothing in this subsection prohibits obligation or expenditure of funds available to anintelligence agency in accordance with sections 1535 and 1536 of title 31.
+&emsp;(4) nothing in this subsection prohibits obligation or expenditure of funds available to an intelligence agency in accordance with sections 1535 and 1536 of title 31.
 
 #### (b) Activities denied funding by Congress
 
@@ -50,13 +50,15 @@ As used in this section—
 
 &emsp;&emsp;(B) although the funds were not formally requested, the Congress both specifically authorized the appropriation of the funds for the activity and appropriated the funds for the activity.
 
-(July 26, 1947, ch. 343, title V, §504, formerly §502, as added Pub. L. 99–169, title IV, §401(a), Dec. 4, 1985, 99 Stat. 1004; renumbered §504 and amended Pub. L. 102–88, title VI, §§602(a)(1), (c)(1), 603, Aug. 14, 1991, 105 Stat. 441, 444; Pub. L. 107–306, title III, §353(b)(3)(D), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(Z), (AA), (5), Dec. 17, 2004, 118 Stat. 3689, 3690; Pub. L. 111–259, title III, §362, Oct. 7, 2010, 124 Stat. 2701.)
+(July 26, 1947, ch. 343, title V, §504, formerly §502, as added Pub. L. 99–169, title IV, §401(a), Dec. 4, 1985, 99 Stat. 1004; renumbered §504 and amended Pub. L. 102–88, title VI, §§602(a)(1), (c)(1), 603, Aug. 14, 1991, 105 Stat. 441, 444; Pub. L. 107–306, title III, §353(b)(3)(D), Nov. 27, 2002, 116Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(Z), (AA), (5), Dec. 17, 2004, 118 Stat. 3689, 3690; Pub. L. 111–259, title III, §362, Oct. 7, 2010, 124 Stat. 2701; Pub. L. 116–92, div. E, title LXVII, §6742(b)(13), Dec. 20, 2019, 133 Stat. 2240.)
 
 #### Codification
 
 Section was formerly classified to section 414 of this title prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(3)(B). Pub. L. 116–92 realigned margin.
 
 <b>2010</b>—Subsec. (a)(3)(B). Pub. L. 111–259 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the need for funds for such activity is based on unforseen requirements; and".
 

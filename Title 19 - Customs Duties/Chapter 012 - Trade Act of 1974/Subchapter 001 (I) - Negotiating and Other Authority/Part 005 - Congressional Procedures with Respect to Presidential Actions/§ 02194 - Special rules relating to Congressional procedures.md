@@ -12,7 +12,7 @@ For purposes of sections 2253(c) and 2437(c)(2) of this title, the 90-day period
 
 &emsp;(2) any Saturday and Sunday, not excluded under paragraph (1), when either House is not in session.
 
-(Pub. L. 93–618, title I, §154, Jan. 3, 1975, 88 Stat. 2008; Pub. L. 96–39, title IX, §902(a)(2), July 26, 1979, 93 Stat. 300; Pub. L. 101–382, title I, §132(c)(6), Aug. 20, 1990, 104 Stat. 647; Pub. L. 103–465, title II, §261(d)(1)(A)(iii), Dec. 8, 1994, 108 Stat. 4909; Pub. L. 106–36, title I, §1001(a)(5), June 25, 1999, 113 Stat. 130.)
+(Pub. L. 93–618, title I, §154, Jan. 3, 1975, 88 Stat. 2008; Pub. L. 96–39, title IX, §902(a)(2), July 26, 1979, 93 Stat. 300; Pub. L. 101–382, title I, §132(c)(6), Aug. 20, 1990, 104 Stat. 647; Pub. L. 103–465, title II, §261(d)(1)(A)(iii), Dec. 8, 1994, 108Stat. 4909; Pub. L. 106–36, title I, §1001(a)(5), June 25, 1999, 113 Stat. 130.)
 
 #### Amendments
 

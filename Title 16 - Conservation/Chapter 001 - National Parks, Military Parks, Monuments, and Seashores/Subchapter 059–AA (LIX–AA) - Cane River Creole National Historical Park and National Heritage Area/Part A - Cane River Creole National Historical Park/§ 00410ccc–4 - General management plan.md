@@ -6,7 +6,7 @@ Within 3 years after the date funds are made available therefor and in consultat
 
 &emsp;(2) programs and management actions that the National Park Service will undertake cooperatively with the heritage area commission,<sup>2</sup> including preservation treatments for important sites, structures, objects, and research materials. Planning shall address educational media, roadway signing, and brochures that could be coordinated with the Commission pursuant to section 410ccc–23 of this title; and
 
-&emsp;(3) preservation and use plans for any sites and structures that are identified for National Park Service involvement through cooperative agreements.
+&emsp;(3) preservation and use plans for any sites and structures that are identified for NationalPark Service involvement through cooperative agreements.
 
 (Pub. L. 103–449, title III, §306, Nov. 2, 1994, 108 Stat. 4760.)
 

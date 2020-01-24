@@ -134,7 +134,7 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 &emsp;(2) social security number in the same manner as social security numbers are verified for students under section 1091(p) of this title.
 
-(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(o), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L.102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075.)
+(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(o), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075.)
 
 #### Prior Provisions
 
@@ -208,7 +208,7 @@ Subsec. (e). Pub. L. 102–325, §418(b)(3), redesignated subsec. (d) as (e).
 
 Subsec. (b)(3). Pub. L. 100–50, §10(p)(2), amended first sentence generally, substituting "for any academic year in excess of (A) the student's estimated cost of attendance, minus (B) other financial aid" for "which would cause the combined loans of the parent and the student for any academic year to exceed the student's estimated cost of attendance minus such student's estimated financial assistance".
 
-Subsec. (c)(1). Pub. L. 100–50, §10(o)(2)(B), struck out "pursuant to sections 1077(a)(2)(C)(i), (viii), and (ix) and1078(b)(1)(M)(i), (viii), and (ix) of this title" after "subject to deferral" and inserted in lieu cls. (A) and (B).
+Subsec. (c)(1). Pub. L. 100–50, §10(o)(2)(B), struck out "pursuant to sections 1077(a)(2)(C)(i), (viii), and (ix) and 1078(b)(1)(M)(i), (viii), and (ix) of this title" after "subject to deferral" and inserted in lieu cls. (A) and (B).
 
 Subsec. (c)(2). Pub. L. 100–50, §10(o)(1), (2)(C), (q), in introductory provisions, struck out "and interest" after first reference to "principal", and substituted "pursuant to paragraph (1) of this subsection" for "under sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title", and, in subpar. (A), inserted "monthly or" before "quarterly".
 

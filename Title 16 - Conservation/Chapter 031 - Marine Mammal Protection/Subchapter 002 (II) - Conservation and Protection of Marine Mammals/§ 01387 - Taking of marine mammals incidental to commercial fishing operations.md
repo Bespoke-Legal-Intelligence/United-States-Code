@@ -252,7 +252,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (E) Subparagraph (D) shall not apply for any period beyond two years during which a final stock assessment for such stock has not been published due to review of a proceeding on such stock assessment by a Federal court. Immediately upon final action by such court, the Secretary shall proceed under subparagraph (C).
 
-(11) Take reduction plans developed under this section for a species or stock listed as a threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) shall be consistent with any recovery plandeveloped for such species or stock under section 4 of such Act \[16 U.S.C. 1533\].
+(11) Take reduction plans developed under this section for a species or stock listed as a threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) shall be consistent with any recovery plan developed for such species or stock under section 4 of such Act \[16 U.S.C. 1533\].
 
 #### (g) Emergency regulations
 
@@ -284,7 +284,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(A) shall be published in the Federal Register, together with an explanation thereof;
 
-&emsp;(B) shall remain in effect for not more than 180 days or until the end of the applicable commercial fishing season, whichever is earlier; and
+&emsp;(B) shall remain in effect for not more than 180 days or until the end of the applicablecommercial fishing season, whichever is earlier; and
 
 &emsp;(C) may be terminated by the Secretary at an earlier date by publication in the Federal Register of a notice of termination, if the Secretary determines that the reasons for emergency regulations no longer exist.
 

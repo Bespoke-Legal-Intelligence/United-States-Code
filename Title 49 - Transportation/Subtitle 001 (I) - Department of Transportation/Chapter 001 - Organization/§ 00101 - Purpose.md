@@ -54,15 +54,13 @@ In subsection (b)(6), the words "transportation objectives" are substituted for 
 
 <b>1991</b>—Subsec. (b)(4). Pub. L. 102–240 inserted ", through research and development or otherwise" after "advances in transportation".
 
-#### Short Title of 2019 Amendment
+#### Short Title of 2018 Amendment
 
 Pub. L. 115–420, §1, Jan. 3, 2019, 132 Stat. 5444, provided that: "This Act \[amending sections 310, 22901, 22902, 22904, 22905, 22907, 22908, 24102, 24103, 24319, 24711, 24905, 24910, 24911, and 26106 of this title, section 402 of Title 23, Highways, and section 51314 of Title 46, Shipping, renumbering sections 24401 to 24408 of this title as sections 22901 to 22908 of this title, enacting provisions set out as a note under section 24319 of this title, and amending provisions set out as notes under sections 22905, 22907, and 26106 of this title\] may be cited as the 'Department of Transportation Reports Harmonization Act'."
 
-#### Short Title of 2018 Amendment
-
 Pub. L. 115–282, title V, §514(a), Dec. 4, 2018, 132 Stat. 4276, provided that: "This section \[enacting section 312 of this title\] may be cited as the 'National Timing Resilience and Security Act of 2018'."
 
-Pub. L. 115–271, title VIII, §8101, Oct. 24, 2018, 132 Stat. 4103, provided that: "This subtitle \[subtitle I\(§§8101–8109) of title VIII of Pub. L. 115–271, enacting provisions set out as notes under sections 322, 329, 20140, and 31306 of this title and section 7301 of Title 5, Government Organization and Employees\] may be cited as the 'Fighting Opioid Abuse in Transportation Act'."
+Pub. L. 115–271, title VIII, §8101, Oct. 24, 2018, 132 Stat. 4103, provided that: "This subtitle \[subtitle I (§§8101–8109) of title VIII of Pub. L. 115–271, enacting provisions set out as notes under sections 322, 329, 20140,and 31306 of this title and section 7301 of Title 5, Government Organization and Employees\] may be cited as the 'Fighting Opioid Abuse in Transportation Act'."
 
 Pub. L. 115–254, div. K, title I, §1901(a), Oct. 5, 2018, 132 Stat. 3542, provided that: "This title \[see Tables for classification\] may be cited as the 'TSA Modernization Act'."
 
@@ -156,7 +154,7 @@ Section 1. This order is issued consistent with the following findings and princ
 
 (e) Federally assisted community transportation services should be seamless, comprehensive, and accessible to those who rely on them for their lives and livelihoods. For persons with mobility limitations related to advanced age, persons with disabilities, and persons struggling for self-sufficiency, transportation within and between our communities should be as available and affordable as possible.
 
-(f) The development, implementation, and maintenance of responsive, comprehensive, coordinated community transportation systems is essential for personswith disabilities, persons with low incomes, and older adults who rely on such transportation to fully participate in their communities.
+(f) The development, implementation, and maintenance of responsive, comprehensive, coordinated community transportation systems is essential for persons with disabilities, persons with low incomes, and older adults who rely on such transportation to fully participate in their communities.
 
 Sec. 2. <i>Definitions</i>. (a) As used in this order, the term "agency" means an executive department or agency of the Federal Government.
 

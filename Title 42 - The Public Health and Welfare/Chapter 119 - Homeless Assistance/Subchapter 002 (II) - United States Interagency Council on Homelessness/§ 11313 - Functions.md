@@ -48,7 +48,7 @@ The Council shall—
 
 In carrying out subsection (a), the Council may—
 
-&emsp;(1) arrange national, regional, State, and local conferences for the purpose of developing and coordinating effective programs and activities to assist homeless individuals and pay for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made; <sup>2</sup>
+&emsp;(1) arrange national, regional, State, and local conferences for the purpose of developingand coordinating effective programs and activities to assist homeless individuals and pay for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made; <sup>2</sup>
 
 &emsp;(2) publish a newsletter concerning Federal, State, and local programs that are effectively meeting the needs of homeless individuals.
 
@@ -142,7 +142,7 @@ In General.—The Secretary of Housing and Urban Development and the Secretary o
 
 &emsp;&emsp;"(E) The cost to the Department of Housing and Urban Development of administering the programs and activities relating to veterans.
 
-&emsp;&emsp;"(F) Any other information that the Secretary of Housing and Urban Development and the Secretaryof Veterans Affairs consider relevant in assessing the programs and activities of the Department of Housing and Urban Development relating to veterans.
+&emsp;&emsp;"(F) Any other information that the Secretary of Housing and Urban Development and the Secretary of Veterans Affairs consider relevant in assessing the programs and activities of the Department of Housing and Urban Development relating to veterans.
 
 "(b)
 

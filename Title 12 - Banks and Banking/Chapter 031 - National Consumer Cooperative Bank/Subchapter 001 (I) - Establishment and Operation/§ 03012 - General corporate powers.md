@@ -18,7 +18,7 @@ The Bank shall have the power to make and service loans, commitments for credit,
 
 &emsp;(8) obtain insurance against loss in connection with property and other assets;
 
-&emsp;(9) modify or consent to the modification with respect to the rate of interest, time of payment of any installment of principal or interest, security, or any other term of any contract or agreement to which it is a party or has an interest pursuant to this chapter;
+&emsp;(9) modify or consent to the modification with respect to the rate of interest, time ofpayment of any installment of principal or interest, security, or any other term of any contract or agreement to which it is a party or has an interest pursuant to this chapter;
 
 &emsp;(10) utilize and act through any Federal, State, or local public agency or instrumentality, or private agency or organization, with the consent of the agency or organization concerned, and contract with such agency, instrumentality, or organization for furnishing or receiving technical services and benefits of research, services, funds or facilities; and make advance, progress, or other payments with respect to such contracts without regard to section 3324(a) and (b) of title 31;
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—A common carrier, marine terminal operator, or ocean freight forwarder, either alone or in conjunction with any otherperson, directly or indirectly, may not knowingly disclose, offer, solicit, or receive any information concerning the nature, kind, quantity, destination, consignee, or routing of any property tendered or delivered to a common carrier, without the consent of the shipper or consignee, if the information—
+Prohibition.—A common carrier, marine terminal operator, or ocean freight forwarder, either alone or in conjunction with any other person, directly or indirectly, may not knowingly disclose, offer, solicit, or receive any information concerning the nature, kind, quantity, destination, consignee, or routing of any property tendered or delivered to a common carrier, without the consent of the shipper or consignee, if the information—
 
 &emsp;(1) may be used to the detriment or prejudice of the shipper, the consignee, or any common carrier; or
 

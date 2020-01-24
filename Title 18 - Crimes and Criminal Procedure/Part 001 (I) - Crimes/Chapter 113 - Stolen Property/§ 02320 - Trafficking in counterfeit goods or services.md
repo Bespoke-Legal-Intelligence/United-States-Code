@@ -6,7 +6,7 @@ Offenses.—Whoever intentionally—
 
 &emsp;(1) traffics in goods or services and knowingly uses a counterfeit mark on or in connection with such goods or services,
 
-&emsp;(2) traffics in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive,
+&emsp;(2) traffics in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark hasbeen applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive,
 
 &emsp;(3) traffics in goods or services knowing that such good or service is a counterfeit military good or service the use, malfunction, or failure of which is likely to cause serious bodily injury or death, the disclosure of classified information, impairment of combat operations, or other significant harm to a combat operation, a member of the Armed Forces, or to national security, or
 
@@ -84,7 +84,7 @@ Definitions.—For the purposes of this section—
 
 &emsp;&emsp;(B) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of the Lanham Act are made available by reason of section 220506 of title 36;
 
-> &emsp;but such term does not include any mark or designation used in connection with goods or services, or a mark or designation applied to labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature used in connection with such goods or services, of which the manufacturer or producer was, at the time of the manufacture or production in question, authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;
+> &emsp;but such term does not include any mark or designation used in connection with goods or services, or a mark or designation applied tolabels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature used in connection with such goods or services, of which the manufacturer or producer was, at the time of the manufacture or production in question, authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;
 
 &emsp;(2) the term "financial gain" includes the receipt, or expected receipt, of anything of value;
 

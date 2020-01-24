@@ -52,7 +52,7 @@
 
 (d) In order to carry out this section, the President shall—
 
-&emsp;(1) direct such agent as he considers appropriate to prepare and submit to him annually, after considering such views and recommendations as may be submitted under subsection (e) (but not later than 13 months before the start of the calendar year for purposes of which it is prepared), a report that—
+&emsp;(1) direct such agent as he considers appropriate to prepare and submit to him annually, after considering such views and recommendations as may be submitted under subsection\(e) (but not later than 13 months before the start of the calendar year for purposes of which it is prepared), a report that—
 
 &emsp;&emsp;(A) compares the rates of pay under the General Schedule (disregarding any described in section 5302(8)(C)) <sup>1</sup> with the rates of pay generally paid to non-Federal workers for the same levels of work within each pay locality, as determined on the basis of appropriate surveys that shall be conducted by the Bureau of Labor Statistics;
 
@@ -104,7 +104,7 @@
 
 (2)(A) The establishment or modification of any such boundaries shall be effected by regulations which, notwithstanding subsection (a)(2) of section 553, shall be promulgated in accordance with the notice and comment requirements of such section.
 
-(B) Judicial review of any regulation under this subsection shall be limited to whether or not it was promulgated in accordance with the requirements referred to in subparagraph (A).
+(B) Judicial review of any regulation under this subsection shall be limited to whether ornot it was promulgated in accordance with the requirements referred to in subparagraph (A).
 
 (g)(1) Except as provided in paragraph (2), comparability payments may not be paid at a rate which, when added to the rate of basic pay otherwise payable to the employee involved, would cause the total to exceed the rate of basic pay payable for level IV of the Executive Schedule.
 
@@ -166,7 +166,7 @@
 
 (i) The Office of Personnel Management may prescribe regulations, consistent with the provisions of this section, governing the payment of comparability payments to employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, §302(a)(1), Oct. 30, 2004, 118 Stat. 2318; Pub. L. 110–372, §2(a), Oct. 8, 2008, 122 Stat. 4043; Pub. L. 111–84, div. A, title XIX, §1912(a), Oct. 28, 2009, 123 Stat. 2619.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub.L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, §302(a)(1), Oct. 30, 2004, 118 Stat. 2318; Pub. L. 110–372, §2(a), Oct. 8, 2008, 122 Stat. 4043; Pub. L. 111–84, div. A, title XIX, §1912(a), Oct. 28, 2009, 123 Stat. 2619.)
 
 Historical and Revision Notes
 
@@ -368,7 +368,7 @@ Statutory authority.—The authority referred to under paragraph (1), \[sic\] is
 
 "(c)
 
-Temporary Adjustment.—Regulations issued under subsection (a) or (b) may provide that statutory limitations on the amount of such special rates may be temporarily raised to a higher level during the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012, at which time any special rate of pay in excess of the applicable limitation shall be converted to a retained rate under section 5363 of title 5, United States Code.
+Temporary Adjustment.—Regulations issued under subsection (a) or (b) may provide that statutory limitations on the amount of such special rates may betemporarily raised to a higher level during the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012, at which time any special rate of pay in excess of the applicable limitation shall be converted to a retained rate under section 5363 of title 5, United States Code.
 
 #### "SEC. 1914. TRANSITION SCHEDULE FOR LOCALITY-BASED COMPARABILITY PAYMENTS.
 
@@ -448,7 +448,7 @@ Definition.—In this subsection, the term 'covered employee' means—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) was employed by the Transportation Security Administration of the Department of Homeland Security and was eligible to be paid an allowance based on section 5941 of title 5, United States Code; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) was eligible to be paid under any other authority a cost-of-living allowance that is equivalent to the cost-of-living allowance under section 5941 of title 5, United States Code; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) was eligible to be paid under any other authority a cost-of-living allowance that isequivalent to the cost-of-living allowance under section 5941 of title 5, United States Code; or
 
 &emsp;&emsp;&emsp;"(ii) on or after the date of enactment of this Act \[Oct. 28, 2009\]—
 
@@ -584,9 +584,9 @@ In General.—The Director of the Office of Personnel Management shall prescribe
 
 &emsp;"(1) rules for special rate employees described under section 1913;
 
-&emsp;"(2) rules for adjusting rates of basic pay for employees in pay systems administered by the Office of Personnel Management when such employees are notentitled to locality-based comparability payments under section 5304 of title 5, United States Code, without regard to otherwise applicable statutory pay limitations during the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012; and
+&emsp;"(2) rules for adjusting rates of basic pay for employees in pay systems administered by the Office of Personnel Management when such employees are not entitled to locality-based comparability payments under section 5304 of title 5, United States Code, without regard to otherwise applicable statutory pay limitations during the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012; and
 
-&emsp;"(3) rules governing establishment and adjustment of saved or retained rates for any employee whose rate of pay exceeds applicable pay limitations on the first day of the first pay period beginning on or after January 1, 2012.
+&emsp;"(3) rules governing establishment and adjustment of saved or retained rates for any employee whose rate of pay exceeds applicable pay limitations on thefirst day of the first pay period beginning on or after January 1, 2012.
 
 "(b)
 
@@ -650,13 +650,13 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §637\], Dec. 21, 2000, 114 Stat. 2763,
 
 "(2) Any comparisons and recommendations so made shall, if included in the pay agent's report under section 5304(d)(1) of title 5, United States Code, for any year (or the pay agent's supplementary report, in accordance with subsection (d)(1)(C)(i)(II)), be considered and acted on as the pay agent's comparisons and recommendations under such section 5304(d)(1) for the area and the year involved.
 
-"(f)(1) No later than March 1, 2001, the President's pay agent shall submit to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, and the Committees on Appropriations of the House of Representatives and of the Senate, a report on the use of pay comparison data, as described in subsection (b)(2) or (3) (as appropriate), for purposes of comparability payments.
+"(f)(1) No later than March 1, 2001, the President's pay agent shall submit to the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, and the Committees on Appropriations of the House of Representatives and of the Senate, a report on the use of pay comparison data, as described in subsection (b)(2) or (3) (as appropriate), for purposes of comparability payments.
 
 "(2) The report shall include the cost of obtaining such data, the rationale underlying the decisions reached based on such data, and the relative advantages and disadvantages of using such data (including whether the effort involved in analyzing and integrating such data is commensurate with the benefits derived from their use). The report may include specific recommendations regarding the continued use of such data.
 
 "(g)(1) No later than May 1, 2001, the President's pay agent shall prepare and submit to the committees specified in subsection (f)(1) a report relating to the ongoing efforts of the Office of Personnel Management, the Office of Management and Budget, and the Bureau of Labor Statistics to revise the methodology currently being used by the Bureau of Labor Statistics in performing its surveys under section 5304 of title 5, United States Code.
 
-"(2) The report shall include a detailed accounting of any concerns the pay agent may have regarding the current methodology, the specific projects the pay agent has directed any of those agencies to undertake in order to address those concerns, and a time line for the anticipated completion of those projects and for implementation of the revised methodology.
+"(2) The report shall include a detailed accounting of any concerns the pay agent may have regarding thecurrent methodology, the specific projects the pay agent has directed any of those agencies to undertake in order to address those concerns, and a time line for the anticipated completion of those projects and for implementation of the revised methodology.
 
 "(3) The report shall also include recommendations as to how those ongoing efforts might be expedited, including any additional resources which, in the opinion of the pay agent, are needed in order to expedite completion of the activities described in the preceding provisions of this subsection, and the reasons why those additional resources are needed."
 

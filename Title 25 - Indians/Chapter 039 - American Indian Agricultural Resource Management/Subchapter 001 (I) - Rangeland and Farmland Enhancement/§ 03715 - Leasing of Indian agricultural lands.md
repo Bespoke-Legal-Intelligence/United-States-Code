@@ -38,5 +38,5 @@ When authorized by an appropriate tribal resolution establishing a general polic
 
 <b>1994</b>—Subsec. (b)(5). Pub. L. 103–435, §12(a)(1), added par. (5).
 
-Subsec. (c)(1). Pub. L. 103–435, §12(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Nothing in this section shall be construed as limiting or altering the authority or right of an individual allottee in the legal or beneficial use of his or her own land or to enter into an agricultural lease of the surface interest of his or her allotment under any other provision of law."
+Subsec. (c)(1). Pub. L. 103–435, §12(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Nothing in this section shall be construed as limiting or altering the authority or right of an individual allottee in the legal or beneficial use of his orher own land or to enter into an agricultural lease of the surface interest of his or her allotment under any other provision of law."
 

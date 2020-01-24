@@ -26,7 +26,7 @@ If any person to whom any payment is to be made pursuant to this subchapter is d
 
 #### (e) Partial payment; extinguishment of rights
 
-Payment on account of any award pursuant to this subchapter shall not, unless such paymentis for the full amount of the award, extinguish any rights against any foreign government for the unpaid balance of the award.
+Payment on account of any award pursuant to this subchapter shall not, unless such payment is for the full amount of the award, extinguish any rights against any foreign government for the unpaid balance of the award.
 
 #### (f) Losses occurring in Commonwealth of the Philippines
 

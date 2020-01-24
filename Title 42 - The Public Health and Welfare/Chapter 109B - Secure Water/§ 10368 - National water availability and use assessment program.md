@@ -28,7 +28,7 @@ The Secretary, in coordination with the Advisory Committee and State and local w
 
 &emsp;&emsp;(C) the integration of any dataset maintained by any other Federal or State agency into the dataset maintained by the Secretary; and
 
-&emsp;&emsp;(D) a focus on the scientific integration of any data relating to water use, water flow, or water quality to generate relevant information relating to the impact of human activity on water and ecological resources.
+&emsp;&emsp;(D) a focus on the scientific integration of any data relating to water use, water flow,or water quality to generate relevant information relating to the impact of human activity on water and ecological resources.
 
 #### (2) Water availability
 

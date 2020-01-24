@@ -68,7 +68,7 @@ Payment.—A secured loan under this section—
 
 &emsp;&emsp;&emsp;&emsp;(IV) other dedicated revenue sources that also secure the senior project obligations; or
 
-&emsp;&emsp;&emsp;&emsp;(V) in the case of a secured loan for a project capitalizing a rural projects fund, any other dedicated revenue sources available to a State infrastructure bank, including repayments from loans made by the bank for rural infrastructure projects; and
+&emsp;&emsp;&emsp;&emsp;(V) in the case of a secured loan for a project capitalizing a rural projects fund, any other dedicated revenuesources available to a State infrastructure bank, including repayments from loans made by the bank for rural infrastructure projects; and
 
 &emsp;&emsp;&emsp;(ii) include a rate covenant, coverage requirement, or similar security feature supporting the project obligations; and
 
@@ -266,7 +266,7 @@ Terms.—In establishing the streamlined application process required by this su
 
 &emsp;&emsp;(C) repayment of the loan commences not later than 5 years after disbursement.
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 245, §183; renumbered §603 andamended Pub. L. 109–59, title I, §§1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 614; Pub. L. 114–94, div. A, title II, §2001(c), Dec. 4, 2015, 129 Stat. 1442.)
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 245, §183; renumbered §603 and amended Pub. L. 109–59, title I, §§1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 614; Pub. L. 114–94, div. A, title II, §2001(c), Dec. 4, 2015, 129 Stat. 1442.)
 
 #### References in Text
 

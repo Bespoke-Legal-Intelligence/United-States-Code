@@ -58,7 +58,7 @@ The Secretary shall—
 
 &emsp;(4) ensure that deployment planning takes into account—
 
-&emsp;&emsp;(A) any deployment exemptions that may be granted by the Secretary based on the unique requirements of an agency and an individual's functional role in such agency; and
+&emsp;&emsp;(A) any deployment exemptions that may be granted by the Secretary based on theunique requirements of an agency and an individual's functional role in such agency; and
 
 &emsp;&emsp;(B) the nature of the urgent or emergency public health care need.
 

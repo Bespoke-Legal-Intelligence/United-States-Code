@@ -46,7 +46,7 @@ The Commission, by rule or regulation, upon its own motion, or by order upon app
 
 The Commission, by rule, may prohibit, or impose conditions or limitations on the use of, agreements that require customers or clients of any investment adviser to arbitrate any future dispute between them arising under the Federal securities laws, the rules and regulations thereunder, or the rules of a self-regulatory organization if it finds that such prohibition, imposition of conditions, or limitations are in the public interest and for the protection of investors.
 
-(Aug. 22, 1940, ch. 686, title II, §205, 54 Stat. 852; Pub. L. 86–750, §7, Sept. 13, 1960, 74 Stat. 887;Pub. L. 91–547, §25, Dec. 14, 1970, 84 Stat. 1432; Pub. L. 96–477, title II, §203, Oct. 21, 1980, 94 Stat. 2290; Pub. L. 100–181, title VII, §703, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 104–290, title II, §210, Oct. 11, 1996, 110 Stat. 3436; Pub. L. 111–203, title IV, §418, title IX, §§921(b), 928, July 21, 2010, 124 Stat. 1579, 1841, 1852; Pub. L. 115–141, div. S, title VIII, §802(b)(1), Mar. 23, 2018, 132 Stat. 1140.)
+(Aug. 22, 1940, ch. 686, title II, §205, 54 Stat. 852; Pub. L. 86–750, §7, Sept. 13, 1960, 74 Stat. 887; Pub. L. 91–547, §25, Dec. 14, 1970, 84 Stat. 1432; Pub. L. 96–477, title II, §203, Oct. 21, 1980, 94 Stat. 2290; Pub. L. 100–181, title VII, §703, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 104–290, title II, §210, Oct. 11, 1996, 110 Stat. 3436; Pub. L. 111–203, title IV, §418, title IX, §§921(b), 928, July 21, 2010, 124 Stat. 1579, 1841, 1852; Pub. L. 115–141, div. S, title VIII, §802(b)(1), Mar. 23, 2018, 132 Stat. 1140.)
 
 #### Amendments
 

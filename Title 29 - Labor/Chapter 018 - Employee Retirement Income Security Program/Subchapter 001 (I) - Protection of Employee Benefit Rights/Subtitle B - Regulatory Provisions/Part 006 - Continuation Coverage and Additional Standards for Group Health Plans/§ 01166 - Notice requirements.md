@@ -56,13 +56,13 @@ Amendment by Pub. L. 104–191 effective Jan. 1, 1997, regardless of whether qua
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 6703(c) of Pub. L. 101–239 applicable to plan years beginning on or after Dec. 19, 1989, regardless of whether the qualifying event occurred before, on, or after such date, see section 6703(d) of Pub. L. 101–239, set out as a note under section 1162 of this title.
+Amendment by section 6703(c) of Pub. L. 101–239 applicable to plan years beginning on or after Dec. 19, 1989,regardless of whether the qualifying event occurred before, on, or after such date, see section 6703(d) of Pub. L. 101–239, set out as a note under section 1162 of this title.
 
 Amendment by section 7891(d)(1)(A) of Pub. L. 101–239 applicable with respect to plan years beginning on or after Jan. 1, 1990, see section 7891(d)(1)(C) of Pub. L. 101–239, set out as a note under section 4980B of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–514 applicable only with respect to qualifying events occurring after Oct. 22, 1986,see section 1895(d)(6)(D) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 99–514 applicable only with respect to qualifying events occurring after Oct. 22, 1986, see section 1895(d)(6)(D) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 99–509 effective, except as otherwise provided, as if included in title X of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 9501(e) of Pub. L. 99–509, set out as a note under section 162 of Title 26.
 

@@ -28,7 +28,7 @@ The Secretary of Education and the Secretary of Health and Human Services shall 
 
 #### (2) Final regulations
 
-&emsp;Not later than 18 months after July 22, 2014, the Secretaries described in paragraph (1), as appropriate, shall develop and publish in the Federal Register final regulations relating to the transition to, and implementation of, this Act (including the amendments made by this Act).
+&emsp;Not later than 18 months after July 22, 2014, the Secretaries described in paragraph (1), as appropriate, shall develop and publish in the Federal Register final regulations relating tothe transition to, and implementation of, this Act (including the amendments made by this Act).
 
 #### (g) Expenditure of funds during transition
 

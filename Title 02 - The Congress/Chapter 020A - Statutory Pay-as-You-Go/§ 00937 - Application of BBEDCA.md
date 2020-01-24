@@ -28,7 +28,7 @@ Section 275 of BBEDCA, referred to in par. (1), is section 275 of the Balanced B
 
 As amended by this title, referred to in par. (1), means as amended by title I of Pub. L. 111–139.
 
-"This title", appearing in quotes in par. (2), refers to the references to "this title" in the original in sections 905, 906, 907, and 922 of this title. "This title" appears untranslated in sections 906(h)(1), (j)(1), (3) and922(a)(2), (3) of this title and translated as "this chapter" following "subchapter I of" in section 922(d) of this title. Those references to "this title" mean title II of Pub. L. 99–177, known as the Balanced Budget and Emergency Deficit Control Act of 1985. See References in Text notes set out under section 906 and 922 of this title.
+"This title", appearing in quotes in par. (2), refers to the references to "this title" in the original in sections 905, 906, 907, and 922 of this title. "This title" appears untranslated in sections 906(h)(1), (j)(1), (3) and 922(a)(2), (3) of this title and translated as "this chapter" following "subchapter I of" in section 922(d) of this title. Those references to "this title" mean title II of Pub. L. 99–177, known as the Balanced Budget and Emergency Deficit Control Act of 1985. See References in Text notes set out under section 906 and 922 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

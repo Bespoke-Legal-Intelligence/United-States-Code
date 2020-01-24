@@ -20,7 +20,7 @@
 
 (d) For any month in which an individual fails to complete 120 hours of training, the entitlement otherwise chargeable under subsection (c) of this section shall be reduced in the same proportion as the monthly benefit payment payable is reduced under subsection (b) of this section.
 
-(Added Pub. L. 99–576, title III, §310(b)(2), Oct. 28, 1986, 100 Stat. 3271, §1633; amended Pub. L. 101–237, title IV, §423(a)(7), Dec. 18, 1989, 103 Stat. 2091; renumbered §3233, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 99–576, title III, §310(b)(2), Oct. 28, 1986, 100 Stat. 3271, §1633; amended Pub. L.101–237, title IV, §423(a)(7), Dec. 18, 1989, 103 Stat. 2091; renumbered §3233, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 

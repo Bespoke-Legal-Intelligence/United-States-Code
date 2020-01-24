@@ -22,7 +22,7 @@
 
 #### (4) Deferred payment of amount exceeding 30 percent
 
-&emsp;If the total amount of the contribution required under paragraph (1) of this subsection exceeds 30 percent of the cost of the project assigned to flood control, the non-Federal interests may pay the amount of the excess to the Secretary over a 15-year period (or such shorter period as may be agreed to by the Secretary and the non-Federal interests) beginning on the date construction of the project or separable element is completed, at an interest rate determined pursuant to section 2216 of this title. The preceding sentence does not modifythe requirement of paragraph (1)(A) of this subsection.
+&emsp;If the total amount of the contribution required under paragraph (1) of this subsection exceeds 30 percent of the cost of the project assigned to flood control, the non-Federal interests may pay the amount of the excess to the Secretary over a 15-year period (or such shorter period as may be agreed to by the Secretary and the non-Federal interests) beginning on the date construction of the project or separable element is completed, at an interest rate determined pursuant to section 2216 of this title. The preceding sentence does not modify the requirement of paragraph (1)(A) of this subsection.
 
 #### (b) Nonstructural flood control projects
 
@@ -86,7 +86,7 @@ The non-Federal share of the cost assigned to other project purposes shall be as
 
 #### (2) Exceptions
 
-&emsp;This section shall not apply to the Yazoo Basin, Mississippi, Demonstration ErosionControl Program, authorized by Public Law 98–8, or to the Harlan, Kentucky, or Barbourville, Kentucky, elements of the project authorized by section 202 of Public Law 96–367.
+&emsp;This section shall not apply to the Yazoo Basin, Mississippi, Demonstration Erosion Control Program, authorized by Public Law 98–8, or to the Harlan, Kentucky, or Barbourville, Kentucky, elements of the project authorized by section 202 of Public Law 96–367.
 
 #### (f) "Separable element" defined
 

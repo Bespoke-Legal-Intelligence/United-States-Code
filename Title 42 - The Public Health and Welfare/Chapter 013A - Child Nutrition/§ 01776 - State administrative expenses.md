@@ -34,7 +34,7 @@
 
 (3) The Secretary shall allocate to each State for its administrative costs incurred under the program authorized by section 17 of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1766\] in any fiscal year an amount, based upon funds expended under that program in the second preceding fiscal year, equal to (A) 20 percent of the first $50,000, (B) 10 percent of the next $100,000, (C) 5 percent of the next $250,000, and (D) 2½ percent of any remaining funds. If an agency in the State other than the State educational agency administers such program, the State shall ensure that an amount equal to no less than the funds due the State under this paragraph is provided to such agency for costs incurred by such agency in administering the program, except as provided in paragraph (5). The Secretary may adjust any State's allocation to reflect changes in the size of its program.
 
-(4) The remaining funds appropriated under this section shall be allocated among the States by the Secretary in amounts the Secretary determines necessary for the improvement in the States of the administration of the programs authorized under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] and this chapter, except for section 1786 of this title, including, but not limited to, improved program integrity and the quality of meals served to children.
+(4) The remaining funds appropriated under this section shall be allocated among the States by the Secretary in amounts the Secretary determines necessary for the improvement in theStates of the administration of the programs authorized under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] and this chapter, except for section 1786 of this title, including, but not limited to, improved program integrity and the quality of meals served to children.
 
 (5)(A) Not more than 25 percent of the amounts made available to each State under this section for the fiscal year 1991 and 20 percent of the amounts made available to each State under this section for the fiscal year 1992 and for each succeeding fiscal year may remain available for obligation or expenditure in the fiscal year succeeding the fiscal year for which such amounts were appropriated.
 
@@ -68,7 +68,7 @@ Funds paid to a State under subsection (a) of this section may be used to pay sa
 
 #### (c) Fund adjustment; State administered programs
 
-If any State agency agrees to assume responsibility for the administration of food service programs in nonprofit private schools or child care institutions that were previously administered by the Secretary, an appropriate adjustment shall be made in the administrative fundspaid under this section to the State not later than the succeeding fiscal year.
+If any State agency agrees to assume responsibility for the administration of food service programs in nonprofit private schools or child care institutions that were previously administered by the Secretary, an appropriate adjustment shall be made in the administrative funds paid under this section to the State not later than the succeeding fiscal year.
 
 #### (d) Unused funds; availability for obligation and expenditure, and reallocation to other States
 
@@ -84,7 +84,7 @@ Notwithstanding any other provision of law, funds made available to each State u
 
 #### (A) In general
 
-&emsp;&emsp;After submitting the initial plan, a State shall be required to submit to the Secretary for approval only a substantive change in the plan.
+&emsp;&emsp;After submitting the initial plan, a State shall be required to submit to the Secretaryfor approval only a substantive change in the plan.
 
 #### (B) Plan contents
 
@@ -164,7 +164,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (iii) Required participation
 
-&emsp;&emsp;&emsp;In accordance with procedures established by the Secretary, each local educational agency or school food authority shall ensure that an individual conducting or overseeing administrative procedures described in clause (i) receives training at least annually, unless determined otherwise by the Secretary.
+&emsp;&emsp;&emsp;In accordance with procedures established by the Secretary, each local educational agency or school food authority shall ensure that an individual conductingor overseeing administrative procedures described in clause (i) receives training at least annually, unless determined otherwise by the Secretary.
 
 #### (B) Training and certification of all local food service personnel
 
@@ -264,7 +264,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the availability of funds made available under paragraph (4) to carry out this paragraph, the Secretary shall, on a competitive basis, provide funds to States to be used to provide grants to local educational agencies, school food authorities, and schools to defray the cost of purchasing or upgrading technology and information management systems for use in programs authorized by this chapter (other than section 1786 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
+&emsp;&emsp;Subject to the availability of funds made available under paragraph (4) to carry out this paragraph, the Secretary shall, on a competitive basis, provide funds to States tobe used to provide grants to local educational agencies, school food authorities, and schools to defray the cost of purchasing or upgrading technology and information management systems for use in programs authorized by this chapter (other than section 1786 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 
 #### (B) Infrastructure development plan
 
@@ -308,7 +308,7 @@ Subsec. (j). Pub. L. 111–296, §422, substituted "October 1, 2015" for "Octobe
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–265, §202(a)(1), inserted heading.
 
-Subsec. (a)(1). Pub. L. 108–265, §202(a)(1), (2)(A), inserted par. heading, designated first and second sentences as subpars. (A) and (C), respectively, insertedsubpar. (A) and (C) headings, in subpar. (A) substituted "Except as provided in subparagraph (B), each" for "Each", added subpar. (B), and struck out at end "There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section."
+Subsec. (a)(1). Pub. L. 108–265, §202(a)(1), (2)(A), inserted par. heading, designated first and second sentences as subpars. (A) and (C), respectively, inserted subpar. (A) and (C) headings, in subpar. (A) substituted "Except as provided in subparagraph (B), each" for "Each", added subpar. (B), and struck out at end "There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section."
 
 Subsec. (a)(2). Pub. L. 108–265, §202(a)(2)(B), inserted par. heading, designated existing provisions as subpars. (A) and (B)(i), inserted headings, in subpar. (A) substituted "Subject to subparagraph (B), the" for "The", in subpar. (B)(i) substituted "this paragraph" for "this subsection" and "$200,000 (as adjusted under clause (ii)" for "$100,000", and added subpar. (B)(ii).
 
@@ -326,7 +326,7 @@ Pub. L. 108–265, §126(c)(2), redesignated subsec. (g) as (j).
 
 <b>1999</b>—Subsecs. (a), (f). Pub. L. 106–78 substituted "Richard B. Russell National School Lunch Act" for "National School Lunch Act" wherever appearing.
 
-<b>1998</b>—Subsec. (a)(5)(B). Pub. L. 105–336, §202(a), amended subpar. (B) generally, substituting present provisions for provisions which related to return of unexpended funds to Secretary and reallocation of such funds to provide annual grants to public entities and private nonprofit organizations participating in projects under former section 1766b of this title.
+<b>1998</b>—Subsec. (a)(5)(B). Pub. L. 105–336, §202(a), amended subpar. (B) generally, substituting present provisions for provisions which related to return of unexpended funds to Secretary and reallocation of such funds to provide annual grants to public entities andprivate nonprofit organizations participating in projects under former section 1766b of this title.
 
 Subsec. (a)(6). Pub. L. 105–336, §202(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "Funds available to States under this subsection and under section 13(k)(1) of the National School Lunch Act shall be used for the costs of administration of the programs for which the allocations are made, except that States may transfer up to 10 percent of any of the amounts allocated among such programs."
 
@@ -380,7 +380,7 @@ Subsec. (e). Pub. L. 97–35, §814(b), substituted provisions relating to gener
 
 Subsec. (i). Pub. L. 96–499, §201(b)(2), substituted "September 30, 1984" for "September 30, 1980".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–627 generally revised and restructured subsection and, among other changes, inserted formula for determining State allocations for administrative costs incurred under the program authorized by section 17 of the National School LunchAct, authorized the State to transfer up to ten percent of any amounts allocated for administrative costs of the programs for which such funds were allocated, and authorized retention by the Secretary for the Secretary's use in administering certain programs, allocations for such programs, under this section and section 13(k)(1) of the National School Lunch Act.
+<b>1978</b>—Subsec. (a). Pub. L. 95–627 generally revised and restructured subsection and, among other changes, inserted formula for determining State allocations for administrative costs incurred under the program authorized by section 17 of the National School Lunch Act, authorized the State to transfer up to ten percent of any amounts allocated for administrative costs of the programs for which such funds were allocated, and authorized retention by the Secretary for the Secretary's use in administering certain programs, allocations for such programs, under this section and section 13(k)(1) of the National School Lunch Act.
 
 <b>1977</b>—Subsecs. (a) to (i). Pub. L. 95–166 added subsecs. (a) to (i) and struck out prior provisions authorizing the Secretary to utilize appropriated funds for advances to State educational agencies for use for administrative expenses, advancing the fund only in necessary amounts and for administration of certain activities, and authorizing appropriation of necessary sums, now incorporated in subsec. (i) of this section.
 

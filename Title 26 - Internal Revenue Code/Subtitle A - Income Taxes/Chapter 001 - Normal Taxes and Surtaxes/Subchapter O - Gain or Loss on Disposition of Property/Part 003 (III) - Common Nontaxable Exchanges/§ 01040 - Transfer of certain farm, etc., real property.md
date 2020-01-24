@@ -38,7 +38,7 @@ Basis of property acquired in transfer described in subsection (a
 
 Subsec. (c). Pub. L. 97–448, §104(b)(3)(B), substituted references to "transfer", "a transfer", and "the transfer" for references to "exchange", "an exchange", and "the exchange", respectively, wherever appearing in heading and text.
 
-<b>1981</b>—Pub. L. 97–34 substituted "Transfer of certain farm, etc., real property" for "Use of farm, etc., real property to satisfy pecuniary bequest" in section catchline.
+<b>1981</b>—Pub. L. 97–34 substituted "Transfer of certain farm, etc., real property" for "Use of farm, etc., realproperty to satisfy pecuniary bequest" in section catchline.
 
 Subsec. (a). Pub. L. 97–34 revised subsec. (a) generally, substituting "transfers to a qualified heir (within the meaning of section 2032A(e)(1)) any property" for "satisfies the right of a qualified heir (within the meaning of section 2032A(e)(1)) to receive a pecuniary bequest with property" and "such transfer" for "such exchange" before "shall be recognized".
 
@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 97–34 substituted "shall apply where the trustee of a tru
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) ofPub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
+Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
 
 #### Effective Date of 2001 Amendment
 

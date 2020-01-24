@@ -50,6 +50,748 @@ Amendment by Pub. L. 87–793 effective on first day of first pay period which b
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in the Interior Department and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or the Interior Department which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Prize Competitions
+
+Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided that:
+
+"(1)
+
+Definitions.—In this subsection:
+
+&emsp;"(A)
+
+Non-federal funds.—The term 'non-Federal funds' means funds provided by—
+
+&emsp;&emsp;"(i) a State;
+
+&emsp;&emsp;"(ii) a territory of the United States;
+
+&emsp;&emsp;"(iii) 1 or more units of local or tribal government;
+
+&emsp;&emsp;"(iv) a private for-profit entity;
+
+&emsp;&emsp;"(v) a nonprofit organization; or
+
+&emsp;&emsp;"(vi) a private individual.
+
+&emsp;"(B)
+
+Secretary.—The term 'Secretary' means the Secretary \[of the Interior\], acting through the Director of the United States Fish and Wildlife Service.
+
+&emsp;"(C)
+
+Wildlife.—The term 'wildlife' has the meaning given the term in section 8 of the Fish and Wildlife Coordination Act (16 U.S.C. 666b).
+
+"(2)
+
+Theodore roosevelt genius prize for prevention of wildlife poaching and trafficking.—
+
+&emsp;"(A)
+
+Definitions.—In this paragraph:
+
+&emsp;&emsp;"(i)
+
+Board.—The term 'Board' means the Prevention of Wildlife Poaching and Trafficking Technology Advisory Board established by subparagraph (C)(i).
+
+&emsp;&emsp;"(ii)
+
+Prize competition.—The term 'prize competition' means the Theodore Roosevelt Genius Prize for the prevention of wildlife poaching and trafficking established under subparagraph (B).
+
+&emsp;"(B)
+
+Authority.—Not later than 180 days after the date of enactment of this Act \[Mar. 12, 2019\], the Secretary shall establish under section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) a prize competition, to be known as the 'Theodore Roosevelt Genius Prize for the prevention of wildlife poaching and trafficking'—
+
+&emsp;&emsp;"(i) to encourage technological innovation with the potential to advance the mission of the United States Fish and Wildlife Service with respect to the prevention of wildlife poaching and trafficking; and
+
+&emsp;&emsp;"(ii) to award 1 or more prizes annually for a technological advancement that prevents wildlife poaching and trafficking.
+
+&emsp;"(C)
+
+Advisory board.—
+
+&emsp;&emsp;"(i)
+
+Establishment.—There is established an advisory board, to be known as the 'Prevention of Wildlife Poaching and Trafficking Technology Advisory Board'.
+
+&emsp;&emsp;"(ii)
+
+Composition.—The Board shall be composed of not fewer than 9 members appointed by the Secretary, who shall provide expertise in—
+
+&emsp;&emsp;&emsp;"(I) wildlife trafficking and trade;
+
+&emsp;&emsp;&emsp;"(II) wildlife conservation and management;
+
+&emsp;&emsp;&emsp;"(III) biology;
+
+&emsp;&emsp;&emsp;"(IV) technology development;
+
+&emsp;&emsp;&emsp;"(V) engineering;
+
+&emsp;&emsp;&emsp;"(VI) economics;
+
+&emsp;&emsp;&emsp;"(VII) business development and management; and
+
+&emsp;&emsp;&emsp;"(VIII) any other discipline, as the Secretary determines to be necessary to achieve the purposes of this paragraph.
+
+&emsp;&emsp;"(iii)
+
+Duties.—Subject to clause (iv), with respect to the prize competition, the Board shall—
+
+&emsp;&emsp;&emsp;"(I) select a topic;
+
+&emsp;&emsp;&emsp;"(II) issue a problem statement;
+
+&emsp;&emsp;&emsp;"(III) advise the Secretary regarding any opportunity for technological innovation to prevent wildlife poaching and trafficking; and
+
+&emsp;&emsp;&emsp;"(IV) advise winners of the prize competition regarding opportunities to pilot and implement winning technologies in relevant fields, including in partnership with conservation organizations, Federal or State agencies, federally recognized Indian tribes, private entities, and research institutions with expertise or interest relating to the prevention of wildlife poaching and trafficking.
+
+&emsp;&emsp;"(iv)
+
+Consultation.—In selecting a topic and issuing a problem statement for the prize competition under subclauses (I) and (II) of clause (iii), respectively, the Board shall consult widely with Federal and non-Federal stakeholders, including—
+
+&emsp;&emsp;&emsp;"(I) 1 or more Federal agencies with jurisdiction over the prevention of wildlife poaching and trafficking;
+
+&emsp;&emsp;&emsp;"(II) 1 or more State agencies with jurisdiction over the prevention of wildlife poaching and trafficking;
+
+&emsp;&emsp;&emsp;"(III) 1 or more State, regional, or local wildlife organizations, the mission of which relates to the prevention of wildlife poaching and trafficking; and
+
+&emsp;&emsp;&emsp;"(IV) 1 or more wildlife conservation groups, technology companies, research institutions, institutions of higher education, industry associations, or individual stakeholders with an interest in the prevention of wildlife poaching and trafficking.
+
+&emsp;&emsp;"(v)
+
+Requirements.—The Board shall comply with all requirements under paragraph (7)(A).
+
+&emsp;"(D)
+
+Agreement with national fish and wildlife foundation.—
+
+&emsp;&emsp;"(i)
+
+In general.—The Secretary shall offer to enter into an agreement under which the National Fish and Wildlife Foundation shall administer the prize competition.
+
+&emsp;&emsp;"(ii)
+
+Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (7)(B).
+
+&emsp;"(E)
+
+Judges.—
+
+&emsp;&emsp;"(i)
+
+Appointment.—The Secretary shall appoint not fewer than 3 judges who shall, except as provided in clause (ii), select the 1 or more annual winners of the prize competition.
+
+&emsp;&emsp;"(ii)
+
+Determination by secretary.—The judges appointed under clause (i) shall not select any annual winner of the prize competition if the Secretary makes a determination that, in any fiscal year, none of the technological advancements entered into the prize competition merits an award.
+
+&emsp;"(F)
+
+Report to congress.—Not later than 60 days after the date on which a cash prize is awarded under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Natural Resources of the House of Representatives a report on the prize competition that includes—
+
+&emsp;&emsp;"(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
+
+&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (7)(B); and
+
+&emsp;&emsp;"(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
+
+&emsp;"(G)
+
+Termination of authority.—The Board and all authority provided under this paragraph shall terminate on December 31, 2023.
+
+"(3)
+
+Theodore roosevelt genius prize for promotion of wildlife conservation.—
+
+&emsp;"(A)
+
+Definitions.—In this paragraph:
+
+&emsp;&emsp;"(i)
+
+Board.—The term 'Board' means the Promotion of Wildlife Conservation Technology Advisory Board established by subparagraph (C)(i).
+
+&emsp;&emsp;"(ii)
+
+Prize competition.—The term 'prize competition' means the Theodore Roosevelt Genius Prize for the promotion of wildlife conservation established under subparagraph (B).
+
+&emsp;"(B)
+
+Authority.—Not later than 180 days after the date of enactment of this Act \[Mar. 12, 2019\], the Secretary shall establish under section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) a prize competition, to be known as the 'Theodore Roosevelt Genius Prize for the promotion of wildlife conservation'—
+
+&emsp;&emsp;"(i) to encourage technological innovation with the potential to advance the mission of the United States Fish and Wildlife Service with respect to the promotion of wildlife conservation; and
+
+&emsp;&emsp;"(ii) to award 1 or more prizes annually for a technological advancement that promotes wildlife conservation.
+
+&emsp;"(C)
+
+Advisory board.—
+
+&emsp;&emsp;"(i)
+
+Establishment.—There is established an advisory board, to be known as the 'Promotion of Wildlife Conservation Technology Advisory Board'.
+
+&emsp;&emsp;"(ii)
+
+Composition.—The Board shall be composed of not fewer than 9 members appointed by the Secretary, who shall provide expertise in—
+
+&emsp;&emsp;&emsp;"(I) wildlife conservation and management;
+
+&emsp;&emsp;&emsp;"(II) biology;
+
+&emsp;&emsp;&emsp;"(III) technology development;
+
+&emsp;&emsp;&emsp;"(IV) engineering;
+
+&emsp;&emsp;&emsp;"(V) economics;
+
+&emsp;&emsp;&emsp;"(VI) business development and management; and
+
+&emsp;&emsp;&emsp;"(VII) any other discipline, as the Secretary determines to be necessary to achieve the purposes of this paragraph.
+
+&emsp;&emsp;"(iii)
+
+Duties.—Subject to clause (iv), with respect to the prize competition, the Board shall—
+
+&emsp;&emsp;&emsp;"(I) select a topic;
+
+&emsp;&emsp;&emsp;"(II) issue a problem statement;
+
+&emsp;&emsp;&emsp;"(III) advise the Secretary regarding any opportunity for technological innovation to promote wildlife conservation; and
+
+&emsp;&emsp;&emsp;"(IV) advise winners of the prize competition regarding opportunities to pilot and implement winning technologies in relevant fields, including in partnership with conservation organizations, Federal or State agencies, federally recognized Indian tribes, private entities, and research institutions with expertise or interest relating to the promotion of wildlife conservation.
+
+&emsp;&emsp;"(iv)
+
+Consultation.—In selecting a topic and issuing a problem statement for the prize competition under subclauses (I) and (II) of clause (iii), respectively, the Board shall consult widely with Federal and non-Federal stakeholders, including—
+
+&emsp;&emsp;&emsp;"(I) 1 or more Federal agencies with jurisdiction over the promotion of wildlife conservation;
+
+&emsp;&emsp;&emsp;"(II) 1 or more State agencies with jurisdiction over the promotion of wildlife conservation;
+
+&emsp;&emsp;&emsp;"(III) 1 or more State, regional, or local wildlife organizations, the mission of which relates to the promotion of wildlife conservation; and
+
+&emsp;&emsp;&emsp;"(IV) 1 or more wildlife conservation groups, technology companies, research institutions, institutions of higher education, industry associations, or individual stakeholders with an interest in the promotion of wildlife conservation.
+
+&emsp;&emsp;"(v)
+
+Requirements.—The Board shall comply with all requirements under paragraph (7)(A).
+
+&emsp;"(D)
+
+Agreement with national fish and wildlife foundation.—
+
+&emsp;&emsp;"(i)
+
+In general.—The Secretary shall offer to enter into an agreement under which the National Fish and Wildlife Foundation shall administer the prize competition.
+
+&emsp;&emsp;"(ii)
+
+Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (7)(B).
+
+&emsp;"(E)
+
+Judges.—
+
+&emsp;&emsp;"(i)
+
+Appointment.—The Secretary shall appoint not fewer than 3 judges who shall, except as provided in clause (ii), select the 1 or more annual winners of the prize competition.
+
+&emsp;&emsp;"(ii)
+
+Determination by secretary.—The judges appointed under clause (i) shall not select any annual winner of the prize competition if the Secretary makes a determination that, in any fiscal year, none of the technological advancements entered into the prize competition merits an award.
+
+&emsp;"(F)
+
+Report to congress.—Not later than 60 days after the date on which a cash prize is awarded under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Natural Resources of the House of Representatives a report on the prize competition that includes—
+
+&emsp;&emsp;"(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
+
+&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (7)(B); and
+
+&emsp;&emsp;"(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
+
+&emsp;"(G)
+
+Termination of authority.—The Board and all authority provided under this paragraph shall terminate on December 31, 2023.
+
+"(4)
+
+Theodore roosevelt genius prize for management of invasive species.—
+
+&emsp;"(A)
+
+Definitions.—In this paragraph:
+
+&emsp;&emsp;"(i)
+
+Board.—The term 'Board' means the Management of Invasive Species Technology Advisory Board established by subparagraph (C)(i).
+
+&emsp;&emsp;"(ii)
+
+Prize competition.—The term 'prize competition' means the Theodore Roosevelt Genius Prize for the management of invasive species established under subparagraph (B).
+
+&emsp;"(B)
+
+Authority.—Not later than 180 days after the date of enactment of this Act \[Mar. 12, 2019\], the Secretary shall establish under section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) a prize competition, to be known as the 'Theodore Roosevelt Genius Prize for the management of invasive species'—
+
+&emsp;&emsp;"(i) to encourage technological innovation with the potential to advance the mission of the United States Fish and Wildlife Service with respect to the management of invasive species; and
+
+&emsp;&emsp;"(ii) to award 1 or more prizes annually for a technological advancement that manages invasive species.
+
+&emsp;"(C)
+
+Advisory board.—
+
+&emsp;&emsp;"(i)
+
+Establishment.—There is established an advisory board, to be known as the 'Management of Invasive Species Technology Advisory Board'.
+
+&emsp;&emsp;"(ii)
+
+Composition.—The Board shall be composed of not fewer than 9 members appointed by the Secretary, who shall provide expertise in—
+
+&emsp;&emsp;&emsp;"(I) invasive species;
+
+&emsp;&emsp;&emsp;"(II) biology;
+
+&emsp;&emsp;&emsp;"(III) technology development;
+
+&emsp;&emsp;&emsp;"(IV) engineering;
+
+&emsp;&emsp;&emsp;"(V) economics;
+
+&emsp;&emsp;&emsp;"(VI) business development and management; and
+
+&emsp;&emsp;&emsp;"(VII) any other discipline, as the Secretary determines to be necessary to achieve the purposes of this paragraph.
+
+&emsp;&emsp;"(iii)
+
+Duties.—Subject to clause (iv), with respect to the prize competition, the Board shall—
+
+&emsp;&emsp;&emsp;"(I) select a topic;
+
+&emsp;&emsp;&emsp;"(II) issue a problem statement;
+
+&emsp;&emsp;&emsp;"(III) advise the Secretary regarding any opportunity for technological innovation to manage invasive species; and
+
+&emsp;&emsp;&emsp;"(IV) advise winners of the prize competition regarding opportunities to pilot and implement winning technologies in relevant fields, including in partnership with conservation organizations, Federal or State agencies, federally recognized Indian tribes, private entities, and research institutions with expertise or interest relating to the management of invasive species.
+
+&emsp;&emsp;"(iv)
+
+Consultation.—In selecting a topic and issuing a problem statement for the prize competition under subclauses (I) and (II) of clause (iii), respectively, the Board shall consult widely with Federal and non-Federal stakeholders, including—
+
+&emsp;&emsp;&emsp;"(I) 1 or more Federal agencies with jurisdiction over the management of invasive species;
+
+&emsp;&emsp;&emsp;"(II) 1 or more State agencies with jurisdiction over the management of invasive species;
+
+&emsp;&emsp;&emsp;"(III) 1 or more State, regional, or local wildlife organizations, the mission of which relates to the management of invasive species; and
+
+&emsp;&emsp;&emsp;"(IV) 1 or more wildlife conservation groups, technology companies, research institutions, institutions of higher education, industry associations, or individual stakeholders with an interest in the management of invasive species.
+
+&emsp;&emsp;"(v)
+
+Requirements.—The Board shall comply with all requirements under paragraph (7)(A).
+
+&emsp;"(D)
+
+Agreement with national fish and wildlife foundation.—
+
+&emsp;&emsp;"(i)
+
+In general.—The Secretary shall offer to enter into an agreement under which the National Fish and Wildlife Foundation shall administer the prize competition.
+
+&emsp;&emsp;"(ii)
+
+Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (7)(B).
+
+&emsp;"(E)
+
+Judges.—
+
+&emsp;&emsp;"(i)
+
+Appointment.—The Secretary shall appoint not fewer than 3 judges who shall, except as provided in clause (ii), select the 1 or more annual winners of the prize competition.
+
+&emsp;&emsp;"(ii)
+
+Determination by secretary.—The judges appointed under clause (i) shall not select any annual winner of the prize competition if the Secretary makes a determination that, in any fiscal year, none of the technological advancements entered into the prize competition merits an award.
+
+&emsp;"(F)
+
+Report to congress.—Not later than 60 days after the date on which a cash prize is awarded under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Natural Resources of the House of Representatives a report on the prize competition that includes—
+
+&emsp;&emsp;"(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
+
+&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (7)(B); and
+
+&emsp;&emsp;"(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
+
+&emsp;"(G)
+
+Termination of authority.—The Board and all authority provided under this paragraph shall terminate on December 31, 2023.
+
+"(5)
+
+Theodore roosevelt genius prize for protection of endangered species.—
+
+&emsp;"(A)
+
+Definitions.—In this paragraph:
+
+&emsp;&emsp;"(i)
+
+Board.—The term 'Board' means the Protection of Endangered Species Technology Advisory Board established by subparagraph (C)(i).
+
+&emsp;&emsp;"(ii)
+
+Prize competition.—The term 'prize competition' means the Theodore Roosevelt Genius Prize for the protection of endangered species established under subparagraph (B).
+
+&emsp;"(B)
+
+Authority.—Not later than 180 days after the date of enactment of this Act \[Mar. 12, 2019\], the Secretary shall establish under section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) a prize competition, to be known as the 'Theodore Roosevelt Genius Prize for the protection of endangered species'—
+
+&emsp;&emsp;"(i) to encourage technological innovation with the potential to advance the mission of the United States Fish and Wildlife Service with respect to the protection of endangered species; and
+
+&emsp;&emsp;"(ii) to award 1 or more prizes annually for a technological advancement that protects endangered species.
+
+&emsp;"(C)
+
+Advisory board.—
+
+&emsp;&emsp;"(i)
+
+Establishment.—There is established an advisory board, to be known as the 'Protection of Endangered Species Technology Advisory Board'.
+
+&emsp;&emsp;"(ii)
+
+Composition.—The Board shall be composed of not fewer than 9 members appointed by the Secretary, who shall provide expertise in—
+
+&emsp;&emsp;&emsp;"(I) endangered species;
+
+&emsp;&emsp;&emsp;"(II) biology;
+
+&emsp;&emsp;&emsp;"(III) technology development;
+
+&emsp;&emsp;&emsp;"(IV) engineering;
+
+&emsp;&emsp;&emsp;"(V) economics;
+
+&emsp;&emsp;&emsp;"(VI) business development and management; and
+
+&emsp;&emsp;&emsp;"(VII) any other discipline, as the Secretary determines to be necessary to achieve the purposes of this paragraph.
+
+&emsp;&emsp;"(iii)
+
+Duties.—Subject to clause (iv), with respect to the prize competition, the Board shall—
+
+&emsp;&emsp;&emsp;"(I) select a topic;
+
+&emsp;&emsp;&emsp;"(II) issue a problem statement;
+
+&emsp;&emsp;&emsp;"(III) advise the Secretary regarding any opportunity for technological innovation to protect endangered species; and
+
+&emsp;&emsp;&emsp;"(IV) advise winners of the prize competition regarding opportunities to pilot and implement winning technologies in relevant fields, including in partnership with conservation organizations, Federal or State agencies, federally recognized Indian tribes, private entities, and research institutions with expertise or interest relating to the protection of endangered species.
+
+&emsp;&emsp;"(iv)
+
+Consultation.—In selecting a topic and issuing a problem statement for the prize competition under subclauses (I) and (II) of clause (iii), respectively, the Board shall consult widely with Federal and non-Federal stakeholders, including—
+
+&emsp;&emsp;&emsp;"(I) 1 or more Federal agencies with jurisdiction over the protection of endangered species;
+
+&emsp;&emsp;&emsp;"(II) 1 or more State agencies with jurisdiction over the protection of endangered species;
+
+&emsp;&emsp;&emsp;"(III) 1 or more State, regional, or local wildlife organizations, the mission of which relates to the protection of endangered species; and
+
+&emsp;&emsp;&emsp;"(IV) 1 or more wildlife conservation groups, technology companies, research institutions, institutions of higher education, industry associations, or individual stakeholders with an interest in the protection of endangered species.
+
+&emsp;&emsp;"(v)
+
+Requirements.—The Board shall comply with all requirements under paragraph (7)(A).
+
+&emsp;"(D)
+
+Agreement with national fish and wildlife foundation.—
+
+&emsp;&emsp;"(i)
+
+In general.—The Secretary shall offer to enter into an agreement under which the National Fish and Wildlife Foundation shall administer the prize competition.
+
+&emsp;&emsp;"(ii)
+
+Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (7)(B).
+
+&emsp;"(E)
+
+Judges.—
+
+&emsp;&emsp;"(i)
+
+Appointment.—The Secretary shall appoint not fewer than 3 judges who shall, except as provided in clause (ii), select the 1 or more annual winners of the prize competition.
+
+&emsp;&emsp;"(ii)
+
+Determination by secretary.—The judges appointed under clause (i) shall not select any annual winner of the prize competition if the Secretary makes a determination that, in any fiscal year, none of the technological advancements entered into the prize competition merits an award.
+
+&emsp;"(F)
+
+Report to congress.—Not later than 60 days after the date on which a cash prize is awarded under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Natural Resources of the House of Representatives a report on the prize competition that includes—
+
+&emsp;&emsp;"(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
+
+&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (7)(B); and
+
+&emsp;&emsp;"(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
+
+&emsp;"(G)
+
+Termination of authority.—The Board and all authority provided under this paragraph shall terminate on December 31, 2023.
+
+"(6)
+
+Theodore roosevelt genius prize for nonlethal management of human-wildlife conflicts.—
+
+&emsp;"(A)
+
+Definitions.—In this paragraph:
+
+&emsp;&emsp;"(i)
+
+Board.—The term 'Board' means the Nonlethal Management of Human-Wildlife Conflicts Technology Advisory Board established by subparagraph (C)(i).
+
+&emsp;&emsp;"(ii)
+
+Prize competition.—The term 'prize competition' means the Theodore Roosevelt Genius Prize for the nonlethal management of human-wildlife conflicts established under subparagraph (B).
+
+&emsp;"(B)
+
+Authority.—Not later than 180 days after the date of enactment of this Act \[Mar. 12, 2019\], the Secretary shall establish under section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) a prize competition, to be known as the 'Theodore Roosevelt Genius Prize for the nonlethal management of human-wildlife conflicts'—
+
+&emsp;&emsp;"(i) to encourage technological innovation with the potential to advance the mission of the United States Fish and Wildlife Service with respect to the nonlethal management of human-wildlife conflicts; and
+
+&emsp;&emsp;"(ii) to award 1 or more prizes annually for a technological advancement that promotes the nonlethal management of human-wildlife conflicts.
+
+&emsp;"(C)
+
+Advisory board.—
+
+&emsp;&emsp;"(i)
+
+Establishment.—There is established an advisory board, to be known as the 'Nonlethal Management of Human-Wildlife Conflicts Technology Advisory Board'.
+
+&emsp;&emsp;"(ii)
+
+Composition.—The Board shall be composed of not fewer than 9 members appointed by the Secretary, who shall provide expertise in—
+
+&emsp;&emsp;&emsp;"(I) nonlethal wildlife management;
+
+&emsp;&emsp;&emsp;"(II) social aspects of human-wildlife conflict management;
+
+&emsp;&emsp;&emsp;"(III) biology;
+
+&emsp;&emsp;&emsp;"(IV) technology development;
+
+&emsp;&emsp;&emsp;"(V) engineering;
+
+&emsp;&emsp;&emsp;"(VI) economics;
+
+&emsp;&emsp;&emsp;"(VII) business development and management; and
+
+&emsp;&emsp;&emsp;"(VIII) any other discipline, as the Secretary determines to be necessary to achieve the purposes of this paragraph.
+
+&emsp;&emsp;"(iii)
+
+Duties.—Subject to clause (iv), with respect to the prize competition, the Board shall—
+
+&emsp;&emsp;&emsp;"(I) select a topic;
+
+&emsp;&emsp;&emsp;"(II) issue a problem statement;
+
+&emsp;&emsp;&emsp;"(III) advise the Secretary regarding any opportunity for technological innovation to promote the nonlethal management of human-wildlife conflicts; and
+
+&emsp;&emsp;&emsp;"(IV) advise winners of the prize competition regarding opportunities to pilot and implement winning technologies in relevant fields, including in partnership with conservation organizations, Federal or State agencies, federally recognizedIndian tribes, private entities, and research institutions with expertise or interest relating to the nonlethal management of human-wildlife conflicts.
+
+&emsp;&emsp;"(iv)
+
+Consultation.—In selecting a topic and issuing a problem statement for the prize competition under subclauses (I) and (II) of subparagraph (C), respectively, the Board shall consult widely with Federal and non-Federal stakeholders, including—
+
+&emsp;&emsp;&emsp;"(I) 1 or more Federal agencies with jurisdiction over the management of native wildlife species at risk due to conflict with human activities;
+
+&emsp;&emsp;&emsp;"(II) 1 or more State agencies with jurisdiction over the management of native wildlife species at risk due to conflict with human activities;
+
+&emsp;&emsp;&emsp;"(III) 1 or more State, regional, or local wildlife organizations, the mission of which relates to the management of native wildlife species at risk due to conflict with human activities; and
+
+&emsp;&emsp;&emsp;"(IV) 1 or more wildlife conservation groups, technology companies, research institutions, institutions of higher education, industry associations, or individual stakeholders with an interest in the management of native wildlife species at risk due to conflict with human activities.
+
+&emsp;&emsp;"(v)
+
+Requirements.—The Board shall comply with all requirements under paragraph (7)(A).
+
+&emsp;"(D)
+
+Agreement with national fish and wildlife foundation.—
+
+&emsp;&emsp;"(i)
+
+In general.—The Secretary shall offer to enter into an agreement under which the National Fish and Wildlife Foundation shall administer the prize competition.
+
+&emsp;&emsp;"(ii)
+
+Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (7)(B).
+
+&emsp;"(E)
+
+Judges.—
+
+&emsp;&emsp;"(i)
+
+Appointment.—The Secretary shall appoint not fewer than 3 judges who shall, except as provided in clause (ii), select the 1 or more annual winners of the prize competition.
+
+&emsp;&emsp;"(ii)
+
+Determination by secretary.—The judges appointed under clause (i) shall not select any annual winner of the prize competition if the Secretary makes a determination that, in any fiscal year, none of the technological advancements entered into the prize competition merits an award.
+
+&emsp;"(F)
+
+Report to congress.—Not later than 60 days after the date on which a cash prize is awarded under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Natural Resources of the House of Representatives a report on the prize competition that includes—
+
+&emsp;&emsp;"(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
+
+&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (7)(B); and
+
+&emsp;&emsp;"(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
+
+&emsp;"(G)
+
+Termination of authority.—The Board and all authority provided under this paragraph shall terminate on December 31, 2023.
+
+"(7)
+
+Administration of prize competitions.—
+
+&emsp;"(A)
+
+Additional requirements for advisory boards.—An advisory board established under paragraph (2)(C)(i), (3)(C)(i), (4)(C)(i), (5)(C)(i), or (6)(C)(i) (referred to in this paragraph as a 'Board') shall comply with the following requirements:
+
+&emsp;&emsp;"(i)
+
+Term; vacancies.—
+
+&emsp;&emsp;&emsp;"(I)
+
+Term.—A member of the Board shall serve for a term of 5 years.
+
+&emsp;&emsp;&emsp;"(II)
+
+Vacancies.—A vacancy on the Board—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) shall not affect the powers of the Board; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) shall be filled in the same manner as the original appointment was made.
+
+&emsp;&emsp;"(ii)
+
+Initial meeting.—Not later than 30 days after the date on which all members of the Board have been appointed, the Board shall hold the initial meeting of the Board.
+
+&emsp;&emsp;"(iii)
+
+Meetings.—
+
+&emsp;&emsp;&emsp;"(I)
+
+In general.—The Board shall meet at the call of the Chairperson.
+
+&emsp;&emsp;&emsp;"(II)
+
+Remote participation.—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa)
+
+In general.—Any member of the Board may participate in a meeting of the Board through the use of—
+
+&emsp;&emsp;&emsp;"(AA) teleconferencing; or
+
+&emsp;&emsp;&emsp;"(BB) any other remote business telecommunications method that allows each participating member to simultaneously hear each other participating member during the meeting.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb)
+
+Presence.—A member of the Board who participates in a meeting remotely under item (aa) shall be considered to be present at the meeting.
+
+&emsp;&emsp;"(iv)
+
+Quorum.—A majority of the members of the Board shall constitute a quorum, but a lesser number of members may hold a meeting.
+
+&emsp;&emsp;"(v)
+
+Chairperson and vice chairperson.—The Board shall select a Chairperson and Vice Chairperson from among the members of the Board.
+
+&emsp;&emsp;"(vi)
+
+Administrative cost reduction.—The Board shall, to the maximum extent practicable, minimize the administrative costs of the Board, including by encouraging the remote participation described in clause (iii)(II)(aa) to reduce travel costs.
+
+&emsp;"(B)
+
+Agreements with national fish and wildlife foundation.—Any agreement entered into under paragraph (2)(D)(i), (3)(D)(i), (4)(D)(i), (5)(D)(i), or (6)(D)(i) shall comply with the following requirements:
+
+&emsp;&emsp;"(i)
+
+Duties.—An agreement shall provide that the National Fish and Wildlife Foundation shall—
+
+&emsp;&emsp;&emsp;"(I) advertise the prize competition;
+
+&emsp;&emsp;&emsp;"(II) solicit prize competition participants;
+
+&emsp;&emsp;&emsp;"(III) administer funds relating to the prize competition;
+
+&emsp;&emsp;&emsp;"(IV) receive Federal funds—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) to administer the prize competition; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) to award a cash prize;
+
+&emsp;&emsp;&emsp;"(V) carry out activities to generate contributions of non-Federal funds to offset, in whole or in part—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) the administrative costs of the prize competition; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) the costs of a cash prize;
+
+&emsp;&emsp;&emsp;"(VI) in consultation with, and subject to final approval by, the Secretary, develop criteria for the selection of prize competition winners;
+
+&emsp;&emsp;&emsp;"(VII) provide advice and consultation to the Secretary on the selection of judges under paragraphs (2)(E), (3)(E), (4)(E), (5)(E), and (6)(E) based on criteria developed in consultation with, and subject to the final approval of, the Secretary;
+
+&emsp;&emsp;&emsp;"(VIII) announce 1 or more annual winners of the prize competition;
+
+&emsp;&emsp;&emsp;"(IX) subject to clause (ii), award 1 cash prize annually; and
+
+&emsp;&emsp;&emsp;"(X) protect against unauthorized use or disclosure by the National Fish and Wildlife Foundation of any trade secret or confidential business information of a prize competition participant.
+
+&emsp;&emsp;"(ii)
+
+Additional cash prizes.—An agreement shall provide that the National Fish and Wildlife Foundation may award more than 1 cash prize annually if the initial cash prize referred to in clause (i)(IX) and any additional cash prize are awarded using only non-Federal funds.
+
+&emsp;&emsp;"(iii)
+
+Solicitation of funds.—An agreement shall provide that the National Fish and Wildlife Foundation—
+
+&emsp;&emsp;&emsp;"(I) may request and accept Federal funds and non-Federal funds for a cash prize;
+
+&emsp;&emsp;&emsp;"(II) may accept a contribution for a cash prize in exchange for the right to name the prize; and
+
+&emsp;&emsp;&emsp;"(III) shall not give special consideration to any Federal agency or non-Federal entity in exchange for a donation for a cash prize awarded under this subsection.
+
+&emsp;"(C)
+
+Award amounts.—
+
+&emsp;&emsp;"(i)
+
+In general.—The amount of the initial cash prize referred to in subparagraph (B)(i)(IX) shall be $100,000.
+
+&emsp;&emsp;"(ii)
+
+Additional cash prizes.—On notification by the National Fish and Wildlife Foundation that non-Federal funds are available for an additional cash prize, the Secretary shall determine the amount of the additional cash prize."
+
 #### Fees for Training by National Conservation Training Center
 
 Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185, as amended by Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1547, provided in part: "That hereafter, pursuant to 31 U.S.C. 9701, the Secretary shall charge reasonable fees for the full costs of providing training by the National Conservation Training Center, to be credited to this account, notwithstanding 31 U.S.C. 3302, for the full costs of providing such training, to remain available until expended."

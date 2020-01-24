@@ -14,7 +14,7 @@ On the demand of any internal revenue officer or agent, every proprietor of a di
 
 #### (d) Authority to break up grounds or walls
 
-It shall be lawful for any internal revenue officer, and any person acting in his aid, to break up the ground on any part of a distilled spirits plant or any other premises where distilled spirits operations are carried on, or any ground adjoining or near to such plant or premises, or anywall or partition thereof, or belonging thereto, or other place, to search for any pipe, cock, private conveyance, or utensil; and, upon finding any such pipe or conveyance leading therefrom or thereto, to break up any ground, house, wall, or other place through or into which such pipe or other conveyance leads, and to break or cut away such pipe or other conveyance, and turn any cock, or to examine whether such pipe or other conveyance conveys or conceals any distilled spirits, mash, wort, or beer, or other liquor, from the sight or view of the officer, so as to prevent or hinder him from taking a true account thereof.
+It shall be lawful for any internal revenue officer, and any person acting in his aid, to break up the ground on any part of a distilled spirits plant or any other premises where distilled spirits operations are carried on, or any ground adjoining or near to such plant or premises, or any wall or partition thereof, or belonging thereto, or other place, to search for any pipe, cock, private conveyance, or utensil; and, upon finding any such pipe or conveyance leading therefrom or thereto, to break up any ground, house, wall, or other place through or into which such pipe or other conveyance leads, and to break or cut away such pipe or other conveyance, and turn any cock, or to examine whether such pipe or other conveyance conveys or conceals any distilled spirits, mash, wort, or beer, or other liquor, from the sight or view of the officer, so as to prevent or hinder him from taking a true account thereof.
 
 #### (e) Penalty
 
@@ -40,7 +40,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 636, 65
 
 #### Amendments
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–39, §807(a)(22)(A), substituted "where distilled spirits operations are carried on" for "where distilled spirits are produced or rectified".
+<b>1979</b>—Subsec. (b). Pub. L. 96–39, §807(a)(22)(A), substituted "where distilled spirits operations are carriedon" for "where distilled spirits are produced or rectified".
 
 Subsec. (c). Pub. L. 96–39, §807(a)(22)(B), substituted "on such premises" for "not under the control of the internal revenue officer in charge".
 

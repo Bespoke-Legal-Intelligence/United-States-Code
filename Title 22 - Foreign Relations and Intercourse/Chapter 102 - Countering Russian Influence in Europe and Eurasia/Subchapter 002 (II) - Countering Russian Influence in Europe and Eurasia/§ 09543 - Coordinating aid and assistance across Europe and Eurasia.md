@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated for the Countering Russian Influence Fund $250,000,000 for fiscal years 2018 and 2019.
+There are authorized to be appropriated for the Countering Russian Influence Fund $250,000,000 for fiscal years 2020, 2021, 2022, and 2023.
 
 #### (b) Use of funds
 
@@ -27,6 +27,8 @@ Amounts in the Countering Russian Influence Fund shall be used to effectively im
 &emsp;(5) To build the capacity of civil society, media, and other nongovernmental organizations countering the influence and propaganda of the Russian Federation to combat corruption, prioritize access to truthful information, and operate freely in all regions in the countries described in paragraph (1).
 
 &emsp;(6) To assist the Secretary of State in executing the functions specified in section 1287(b) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 22 U.S.C. 2656 note) for the purposes of recognizing, understanding, exposing, and countering propaganda and disinformation efforts by foreign governments, in coordination with the relevant regional Assistant Secretary or Assistant Secretaries of the Department of State.
+
+&emsp;(7) To assist United States agencies that operate under the foreign policy guidance of the Secretary of State in providing assistance under section 9563 of this title.
 
 #### (c) Revision of activities for which amounts may be used
 
@@ -74,7 +76,7 @@ The Secretary of State may modify the goals described in subsection (b) if, not 
 
 &emsp;&emsp;(B) the governments of countries that are members of the North Atlantic Treaty Organization or the European Union; and
 
-&emsp;&emsp;(C) international organizations and quasi-governmental funding entities that carryout programs and activities that seek to accomplish the goals described in subsection (b).
+&emsp;&emsp;(C) international organizations and quasi-governmental funding entities that carry out programs and activities that seek to accomplish the goals described in subsection (b).
 
 #### (2) Report by Secretary of State
 
@@ -98,5 +100,15 @@ Nothing in this section shall be construed to apply to or limit United States fo
 
 In order to ensure that the United States Government is properly focused on combating corruption, improving rule of law, and building the capacity of civil society, media, and other nongovernmental organizations in countries described in subsection (b)(1), the Secretary of State shall establish a pilot program for Foreign Service officer positions focused on governance and anticorruption activities in such countries.
 
-(Pub. L. 115–44, title II, §254, Aug. 2, 2017, 131 Stat. 928.)
+(Pub. L. 115–44, title II, §254, Aug. 2, 2017, 131 Stat. 928; Pub. L. 116–94, div. P, title XX, §2004(d)(2), Dec. 20, 2019, 133 Stat. 3225.)
+
+#### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–94, §2004(d)(2)(A), substituted "fiscal years 2020, 2021, 2022, and 2023" for "fiscal years 2018 and 2019".
+
+Subsec. (b)(7). Pub. L. 116–94, §2004(d)(2)(B), added par. (7).
+
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 

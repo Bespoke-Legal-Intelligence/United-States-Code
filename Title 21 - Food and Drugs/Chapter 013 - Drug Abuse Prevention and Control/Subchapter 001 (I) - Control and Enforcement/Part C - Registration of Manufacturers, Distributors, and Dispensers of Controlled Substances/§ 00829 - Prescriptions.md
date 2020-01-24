@@ -132,5 +132,5 @@ Stakeholder Input.—In developing the programs and materials required under sub
 
 #### Effect of Scheduling on Prescriptions
 
-Pub. L. 101–647, title XIX, §1902(c), Nov. 29, 1990, 104 Stat. 4852, provided that: "Any prescription for anabolic steroids subject to refill on or after the date of enactment of the amendments made by this section \[Nov. 29, 1990\] may be refilled without restriction under section 309(a) of the Controlled Substances Act (21 U.S.C. 829(a))."
+Pub. L. 101–647, title XIX, §1902(c), Nov. 29, 1990, 104 Stat. 4852, provided that any prescription for anabolic steroids subject to refill on or after Nov. 29, 1990, could be refilled without restriction under subsec. (a) of this section.
 

@@ -12,7 +12,7 @@ The Secretary shall carry out a Nuclear Energy Systems Support Program to suppor
 
 #### (1) In general
 
-&emsp;The Secretary shall carry out a Generation IV Nuclear Energy Systems Initiative to develop an overall technology plan for and to support research and development necessary to make an informed technical decision about the most promising candidates for eventual commercial application.
+&emsp;The Secretary shall carry out a Generation IV Nuclear Energy Systems Initiative to develop an overall technology plan for and to support research and development necessary to make an informed technical decision aboutthe most promising candidates for eventual commercial application.
 
 #### (2) Administration
 

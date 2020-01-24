@@ -22,9 +22,9 @@
 
 (iv) Relief may not be ordered under subparagraph (A) if the employer demonstrates by clear and convincing evidence that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
 
-(3)(A) Not later than 120 days after the date of conclusion of any hearing under paragraph (2),the Secretary shall issue a final order providing the relief prescribed by this paragraph or denying the complaint. At any time before issuance of a final order, a proceeding under this subsection may be terminated on the basis of a settlement agreement entered into by the Secretary, the complainant, and the person alleged to have committed the violation.
+(3)(A) Not later than 120 days after the date of conclusion of any hearing under paragraph (2), the Secretary shall issue a final order providing the relief prescribed by this paragraph or denying the complaint. At any time before issuance of a final order, a proceeding under this subsection may be terminated on the basis of a settlement agreement entered into by the Secretary, the complainant, and the person alleged to have committed the violation.
 
-(B) If, in response to a complaint filed under paragraph (1), the Secretary determines that a violation of subsection (a) has occurred, the Secretary shall order the person who committed such violation—
+(B) If, in response to a complaint filed under paragraph (1), the Secretary determines that aviolation of subsection (a) has occurred, the Secretary shall order the person who committed such violation—
 
 &emsp;(i) to take affirmative action to abate the violation;
 

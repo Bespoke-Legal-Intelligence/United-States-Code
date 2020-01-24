@@ -1,6 +1,6 @@
 ### §1984. Taxation
 
-All property subject to a lien held by the United States or the title to which is acquired or held by the Secretary under this chapter other than property used for administrative purposes shall be subject to taxation by State, territory, district, and local political subdivisions in the same manner and to the same extent as other property is taxed: <i>Provided, however</i>, That no tax shall be imposed or collected on or with respect to any instrument if the tax is based on—
+All property subject to a lien held by the United States or the title to which is acquiredor held by the Secretary under this chapter other than property used for administrative purposes shall be subject to taxation by State, territory, district, and local political subdivisions in the same manner and to the same extent as other property is taxed: <i>Provided, however</i>, That no tax shall be imposed or collected on or with respect to any instrument if the tax is based on—
 
 &emsp;(1) the value of any notes or mortgages or other lien instruments held by or transferred to the Secretary;
 

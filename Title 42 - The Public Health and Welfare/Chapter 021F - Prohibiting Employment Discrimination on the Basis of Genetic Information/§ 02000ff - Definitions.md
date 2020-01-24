@@ -74,7 +74,7 @@ In this chapter:
 
 #### (5) Genetic monitoring
 
-&emsp;The term "genetic monitoring" means the periodic examination of employees to evaluateacquired modifications to their genetic material, such as chromosomal damage or evidence of increased occurrence of mutations, that may have developed in the course of employment due to exposure to toxic substances in the workplace, in order to identify, evaluate, and respond to the effects of or control adverse environmental exposures in the workplace.
+&emsp;The term "genetic monitoring" means the periodic examination of employees to evaluate acquired modifications to their genetic material, such as chromosomal damage or evidence of increased occurrence of mutations, that may have developed in the course of employment due to exposure to toxic substances in the workplace, in order to identify, evaluate, and respond to the effects of or control adverse environmental exposures in the workplace.
 
 #### (6) Genetic services
 
@@ -124,5 +124,5 @@ Pub. L. 110–233, §2, May 21, 2008, 122 Stat. 881, as amended by Pub. L. 111�
 
 &emsp;"(5) Federal law addressing genetic discrimination in health insurance and employment is incomplete in both the scope and depth of its protections. Moreover, while many States have enacted some type of genetic non-discrimination law, these laws vary widely with respect to their approach, application, and level of protection. Congress has collected substantial evidence that the American public and the medical community find the existing patchwork of State and Federal laws to be confusing and inadequate to protect them from discrimination. Therefore Federal legislation establishing a national and uniform basic standard is necessary to fully protect the public from discrimination and allay their concerns about the potential for discrimination, thereby allowing individuals to take advantage of genetic testing, technologies, research, and new therapies."
 
-\[For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.\]
+\[For meaning of references to an intellectual disability and to individuals with intellectual disabilities inprovisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.\]
 

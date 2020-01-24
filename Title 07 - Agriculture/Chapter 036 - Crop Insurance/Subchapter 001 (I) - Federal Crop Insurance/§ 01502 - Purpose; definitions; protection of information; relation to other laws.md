@@ -18,7 +18,7 @@ As used in this subchapter:
 
 #### (3) Beginning farmer or rancher
 
-&emsp;The term "beginning farmer or rancher" means a farmer or rancher who has not actively operated and managed a farm or ranchwith a bona fide insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than 5 crop years, as determined by the Secretary.
+&emsp;The term "beginning farmer or rancher" means a farmer or rancher who has not actively operated and managed a farm or ranch with a bona fide insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than 5 crop years, as determined by the Secretary.
 
 #### (4) Board
 

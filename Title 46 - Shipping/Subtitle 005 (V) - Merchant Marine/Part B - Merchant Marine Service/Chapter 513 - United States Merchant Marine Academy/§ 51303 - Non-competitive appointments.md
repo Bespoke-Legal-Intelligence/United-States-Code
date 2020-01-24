@@ -1,8 +1,14 @@
 ### §51303. Non-competitive appointments
 
-The Secretary of Transportation may appoint each year without competition as cadets at the United States Merchant Marine Academy not more than 50 qualified individuals with qualities the Secretary considers to be of special value to the Academy. In making these appointments, the Secretary shall try to achieve a national demographic balance at the Academy.
+(a)
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1572; Pub. L. 114–328, div. C, title XXXV, §3516(a), Dec. 23, 2016, 130 Stat. 2789.)
+In General.—The Secretary of Transportation may appoint each year without competition as cadets at the United States Merchant Marine Academy not more than 50 qualified individuals with qualities the Secretary considers to be of special value to the Academy. In making these appointments, the Secretary shall try to achieve a national demographic balance at the Academy.
+
+(b)
+
+Appointment of Candidates Selected for Preparatory School Sponsorship.—The Secretary of Transportation may appoint each year as cadets at the United States Merchant Marine Academy not more than 40 qualified individuals sponsored by the Academy to attend preparatory school during the academic year prior to entrance in the Academy, and who have successfully met the terms and conditions of sponsorship set by the Academy.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1572; Pub. L. 114–328, div. C, title XXXV, §3516(a), Dec. 23, 2016, 130 Stat. 2789; Pub. L. 116–92, div. C, title XXXV, §3504, Dec. 20, 2019, 133 Stat. 1970.)
 
 Historical and Revision Notes
 
@@ -21,6 +27,8 @@ Historical and Revision Notes
 June 29, 1936, ch. 858, title XIII, §1303(b)(3)(D), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 1999.
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 <b>2016</b>—Pub. L. 114–328 substituted "50" for "40".
 

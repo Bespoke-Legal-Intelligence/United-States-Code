@@ -10,7 +10,7 @@ The Governor of a State desiring to receive a grant under this subchapter shall 
 
 &emsp;The lead agency shall—
 
-&emsp;&emsp;(A) administer, directly or through other governmental or nongovernmental agencies, the financial assistance received under this subchapter by the State;
+&emsp;&emsp;(A) administer, directly or through other governmental or nongovernmental agencies,the financial assistance received under this subchapter by the State;
 
 &emsp;&emsp;(B) develop the State plan to be submitted to the Secretary under section 9858c(a) of this title;
 

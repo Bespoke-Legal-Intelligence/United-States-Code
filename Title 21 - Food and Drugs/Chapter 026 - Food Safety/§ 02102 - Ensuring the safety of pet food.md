@@ -28,5 +28,5 @@ This chapter, referred to in subsec. (a), was in the original "this title", mean
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–234 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck outformer par. (1) which read as follows: "ingredient standards and definitions with respect to pet food;".
+<b>2018</b>—Subsec. (a). Pub. L. 115–234 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: "ingredient standards and definitions with respect to pet food;".
 

@@ -30,7 +30,7 @@ For purposes of this section—
 
 The deduction allowed by subsection (a) for any taxable year shall not exceed $15,000.
 
-(Added Pub. L. 94–455, title XXI, §2122(a), Oct. 4, 1976, 90 Stat. 1914; amended Pub. L. 98–369, div. A, title X, §1062(a)(1), (b), July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §244, Oct. 22, 1986, 100 Stat. 2183; Pub. L. 101–508, title XI, §§11611(c), 11801(a)(14), Nov. 5, 1990, 104 Stat. 1388–503, 1388–520.)
+(Added Pub. L. 94–455, title XXI, §2122(a), Oct. 4, 1976, 90 Stat. 1914; amended Pub. L. 98–369, div.A, title X, §1062(a)(1), (b), July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §244, Oct. 22, 1986, 100 Stat. 2183; Pub. L. 101–508, title XI, §§11611(c), 11801(a)(14), Nov. 5, 1990, 104 Stat. 1388–503, 1388–520.)
 
 #### Amendments
 

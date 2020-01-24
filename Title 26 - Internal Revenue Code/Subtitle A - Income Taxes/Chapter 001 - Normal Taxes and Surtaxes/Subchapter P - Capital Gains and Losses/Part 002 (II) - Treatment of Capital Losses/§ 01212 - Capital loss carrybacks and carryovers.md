@@ -74,7 +74,7 @@
 
 &emsp;If a taxpayer other than a corporation has a net capital loss for any taxable year—
 
-&emsp;&emsp;(A) the excess of the net short-term capital loss over the net long-term capital gain for such year shall be a short-term capital loss in the succeeding taxable year, and
+&emsp;&emsp;(A) the excess of the net short-term capital loss over the net long-term capital gainfor such year shall be a short-term capital loss in the succeeding taxable year, and
 
 &emsp;&emsp;(B) the excess of the net long-term capital loss over the net short-term capital gain for such year shall be a long-term capital loss in the succeeding taxable year.
 
@@ -188,7 +188,7 @@ Subsec. (a)(3), (4). Pub. L. 111–325, §101(a), added par. (3) and redesignate
 
 <b>2004</b>—Subsec. (a)(3). Pub. L. 108–357 reenacted heading without change and amended text of par. (3) generally. Prior to amendment, par. (3) provided that a net capital loss of a corporation would not be carried back under par. (1)(A) to a taxable year for which it was a foreign personal holding company (as defined in section 552), for which it was a regulated investment company (as defined in section 851), for which it was a real estate investment trust (as defined in section 856), or for which an election made by it under section 1247 was applicable (relating to election by foreign investment companies to distribute income currently).
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 substituted "Treatment of amounts allowed under section 1211(b)(1)or (2)" for "Special rule" as heading and amended text generally. Prior to amendment, text read as follows: "For purposes of determining the excess referred to in subparagraph (A) or (B) of paragraph (1), an amount equal to the amount allowed for the taxable year under paragraph (1) or (2) of section 1211(b) shall be treated as a short-term capital gain in such year."
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 substituted "Treatment of amounts allowed under section 1211(b)(1) or (2)" for "Special rule" as heading and amended text generally. Prior to amendment, text read as follows: "For purposes of determining the excess referred to in subparagraph (A) or (B) of paragraph (1), an amount equal to the amount allowed for the taxable year under paragraph (1) or (2) of section 1211(b) shall be treated as a short-term capital gain in such year."
 
 <b>1986</b>—Subsec. (b)(2). Pub. L. 99–514, §301(b)(11), amended par. (2) generally. Prior to amendment, par. (2), special rules, read as follows:
 
@@ -266,7 +266,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

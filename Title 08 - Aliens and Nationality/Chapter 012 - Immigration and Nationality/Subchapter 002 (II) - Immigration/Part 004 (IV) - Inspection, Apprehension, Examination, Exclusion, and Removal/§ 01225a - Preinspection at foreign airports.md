@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 108–458, §7206(a), inserted "and immigration security in
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Exchange of Terrorist Information and Increased Preinspection at Foreign Airports
 
@@ -78,7 +78,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 &emsp;"(4) the Federal Government should work with other countries to ensure effective inspection regimes at all airports;
 
-&emsp;"(5) the Federal Government should work with other countries to improve passport standards and provide foreign assistance to countries that need help making the transition to the global standard for identification; and
+&emsp;"(5) the Federal Government should work with other countries to improve passport standards and provide foreign assistance to countries that need helpmaking the transition to the global standard for identification; and
 
 &emsp;"(6) the Department of Homeland Security, in coordination with the Department of State and other Federal agencies, should implement the initiatives called for in this subsection."
 

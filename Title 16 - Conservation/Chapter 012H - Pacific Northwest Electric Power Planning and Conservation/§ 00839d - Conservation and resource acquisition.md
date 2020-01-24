@@ -6,13 +6,13 @@
 
 &emsp;(A) loans and grants to consumers for insulation or weatherization, increased system efficiency, and waste energy recovery by direct application,
 
-&emsp;(B) technical and financial assistance to, and other cooperation with, the Administrator's customers and governmental authorities to encourage maximum cost-effective voluntaryconservation and the attainment of any cost-effective conservation objectives adopted by individual States or subdivisions thereof,
+&emsp;(B) technical and financial assistance to, and other cooperation with, the Administrator's customers and governmental authorities to encourage maximum cost-effective voluntary conservation and the attainment of any cost-effective conservation objectives adopted by individual States or subdivisions thereof,
 
 &emsp;(C) aiding the Administrator's customers and governmental authorities in implementing model conservation standards adopted pursuant to section 839b(f) of this title, and
 
 &emsp;(D) conducting demonstration projects to determine the cost effectiveness of conservation measures and direct application of renewable energy resources.
 
-(2) In addition to acquiring electric power pursuant to section 839c(c) of this title, or on a short-term basis pursuant to section 11(b)(6)(i) of the Federal Columbia River Transmission System Act \[16 U.S.C. 838i(b)(6)(i)\], the Administrator shall acquire, in accordance with this section, sufficient resources—
+(2) In addition to acquiring electric power pursuant to section 839c(c) of this title, or on a short-term basis pursuant to section 11(b)(6)(i)of the Federal Columbia River Transmission System Act \[16 U.S.C. 838i(b)(6)(i)\], the Administrator shall acquire, in accordance with this section, sufficient resources—
 
 &emsp;(A) to meet his contractual obligations that remain after taking into account planned savings from measures provided for in paragraph (1) of this subsection, and
 
@@ -104,7 +104,7 @@ The Administrator is authorized to acquire a resource, other than a major resour
 
 (3) Any agreement under paragraph (1) of this subsection shall provide the Administrator an option to acquire any such resource, including a renewable resource, and shall include such other provisions, as the Administrator deems appropriate, for the Administrator's recovery from such sponsors or any assignee of the sponsors, if such sponsor or assignee continues development of the resource, of any advances made by the Administrator pursuant to such agreement.
 
-(4) The Administrator shall not reimburse any expense incurred by the sponsors (except necessary expenses involved in the liquidation ofthe resource) after the date of a final denial of application for State siting approval or after the date the Administrator determines that the resource to be inconsistent with the plan or the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title.
+(4) The Administrator shall not reimburse any expense incurred by the sponsors (except necessary expenses involved in the liquidation of the resource) after the date of a final denial of application for State siting approval or after the date the Administrator determines that the resource to be inconsistent with the plan or the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title.
 
 #### (g) Environmental impact statements
 
@@ -146,11 +146,11 @@ Contracts for the acquisition of resources and for billing credits for major res
 
 &emsp;(3) insure that the Administrator exercises effective oversight, inspection, audit, and review of all aspects of such construction and operation.
 
-> Such contracts shall contain provisions assuring that the Administrator has the authority to approve all costs of, and proposals for, major modifications in construction, scheduling or operations and to assure that the Administrator isprovided with such current information as he deems necessary to evaluate such construction and operation.
+> Such contracts shall contain provisions assuring that the Administrator has the authority to approve all costs of, and proposals for, major modifications in construction, scheduling or operations and to assure that the Administrator is provided with such current information as he deems necessary to evaluate such construction and operation.
 
 #### (j) Obligations not to be considered general obligations of United States or secured by full faith and credit of United States
 
-(1) All contractual and other obligations required to be carried out by the Administrator pursuant to this chapter shall be secured solely by the Administrator's revenues received from the sale of electric power and other services. Such obligations are not, nor shall they be construed to be, general obligations of the United States, nor are such obligations intended to be or are they secured by the full faith and credit of the United States.
+(1) All contractual and other obligations required to be carried out by the Administrator pursuant to this chapter shall be secured solely by the Administrator's revenues received fromthe sale of electric power and other services. Such obligations are not, nor shall they be construed to be, general obligations of the United States, nor are such obligations intended to be or are they secured by the full faith and credit of the United States.
 
 (2) All contracts entered into by the Administrator for the acquisition of resources pursuant to this chapter shall require that, in the sale of any obligations, all offerings and promotional material for the sale of such obligations shall include the language contained in the second sentence of paragraph (1) of this subsection. The Administrator shall monitor and enforce such requirement.
 

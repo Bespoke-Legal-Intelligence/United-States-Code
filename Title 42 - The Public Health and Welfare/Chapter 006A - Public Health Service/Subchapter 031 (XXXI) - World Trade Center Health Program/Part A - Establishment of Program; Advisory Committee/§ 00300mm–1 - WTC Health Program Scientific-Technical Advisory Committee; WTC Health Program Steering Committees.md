@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) representatives of labor organizations representing firefighters, police, other New York City employees, and recovery and cleanup workers who responded to the September 11, 2001, terrorist attacks; and
 
-&emsp;&emsp;&emsp;&emsp;(III) 3 representatives of New York City, 1 of whom will be selected by the police commissioner of New York City, 1 by the health commissioner of New YorkCity, and 1 by the mayor of New York City.
+&emsp;&emsp;&emsp;&emsp;(III) 3 representatives of New York City, 1 of whom will be selected by the police commissioner of New York City, 1 by the health commissioner of New York City, and 1 by the mayor of New York City.
 
 #### (ii) Initial membership
 

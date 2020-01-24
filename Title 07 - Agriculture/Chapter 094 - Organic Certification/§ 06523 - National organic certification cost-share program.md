@@ -52,7 +52,7 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 Subsec. (d). Pub. L. 115–334, §10105(b), added subsec. (d) and struck out former subsec. (d) which related to funding to carry out this section for fiscal years 2013 to 2018.
 
-<b>2014</b>—Subsec. (d)(1). Pub. L. 113–79 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $22,000,000 for the period of fiscal years 2008 through 2012."
+<b>2014</b>—Subsec. (d)(1). Pub. L. 113–79 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "Of the funds of the Commodity CreditCorporation, the Secretary shall make available to carry out this section $22,000,000 for the period of fiscal years 2008 through 2012."
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–240, §701(g)(3)(A), substituted "The Secretary of Agriculture (acting through the Agricultural Marketing Service) shall" for "Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acting through the Agricultural Marketing Service) shall use $22,000,000 for fiscal year 2008, to remain available until expended, to".
 

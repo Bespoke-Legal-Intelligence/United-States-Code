@@ -1,6 +1,6 @@
 ### §2462. Compliance with Federal Acquisition Regulation
 
-The Administrator shall establish procedures to ensure that the mission and programs of theAdministration are executed in full compliance with all applicable provisions of the Federal Acquisition Regulation issued pursuant to section 1303(a)(1) of title 41.
+The Administrator shall establish procedures to ensure that the mission and programs of the Administration are executed in full compliance with all applicable provisions of the Federal Acquisition Regulation issued pursuant to section 1303(a)(1) of title 41.
 
 (Pub. L. 106–65, div. C, title XXXII, §3262, Oct. 5, 1999, 113 Stat. 967; Pub. L. 113–66, div. C, title XXXI, §3145(g), Dec. 26, 2013, 127 Stat. 1071.)
 

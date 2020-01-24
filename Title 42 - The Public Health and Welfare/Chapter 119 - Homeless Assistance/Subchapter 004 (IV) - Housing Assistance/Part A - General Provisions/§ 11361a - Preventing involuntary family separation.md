@@ -16,7 +16,7 @@ Notwithstanding the requirement under subsection (a), project sponsors of transi
 
 #### Codification
 
-Section 1103 of Pub. L. 111–22, which directed amendment of subtitle A of the McKinney-Vento HomelessAssistance Act by adding this section after section 403 (as so redesignated by section 1101(2) of Pub. L. 111–22), was executed by adding this section following section 403 (42 U.S.C. 11361) of subtitle A of title IV of Pub. L. 100–77 (this part), to reflect the probable intent of Congress.
+Section 1103 of Pub. L. 111–22, which directed amendment of subtitle A of the McKinney-Vento Homeless Assistance Act by adding this section after section 403 (as so redesignated by section 1101(2) of Pub. L. 111–22), was executed by adding this section following section 403 (42 U.S.C. 11361) of subtitle A of title IV of Pub. L. 100–77 (this part), to reflect the probable intent of Congress.
 
 #### Effective Date
 

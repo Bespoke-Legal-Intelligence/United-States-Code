@@ -2,7 +2,7 @@
 
 #### (a) Authority to establish and modify
 
-Notwithstanding any other provision of law, the Secretary may establish reasonable filing and service fees and reasonable charges, and commissions with respect to applications and other documents relating to the public lands and may change and abolish such fees, charges, and commissions.
+Notwithstanding any other provision of law, the Secretary may establish reasonable filing and service fees and reasonable charges, and commissions with respect to applications and other documents relating to the public landsand may change and abolish such fees, charges, and commissions.
 
 #### (b) Deposits for payments to reimburse reasonable costs of United States
 
@@ -10,7 +10,7 @@ The Secretary is authorized to require a deposit of any payments intended to rei
 
 #### (c) Refunds
 
-In any case where it shall appear to the satisfaction of the Secretary that any person hasmade a payment under any statute relating to the sale, lease, use, or other disposition of public lands which is not required or is in excess of the amount required by applicable law and the regulations issued by the Secretary, the Secretary, upon application or otherwise, may cause a refund to be made from applicable funds.
+In any case where it shall appear to the satisfaction of the Secretary that any person has made a payment under any statute relating to the sale, lease, use, or other disposition of public lands which is not required or is in excess of the amount required by applicable law and the regulations issued by the Secretary, the Secretary, upon application or otherwise, may cause a refund to be made from applicable funds.
 
 (Pub. L. 94–579, title III, §304, Oct. 21, 1976, 90 Stat. 2765.)
 

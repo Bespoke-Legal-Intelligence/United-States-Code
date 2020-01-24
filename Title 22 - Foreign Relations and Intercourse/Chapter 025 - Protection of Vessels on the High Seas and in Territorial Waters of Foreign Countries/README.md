@@ -17,6 +17,102 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Statement of Policy and Sense of Congress on, and Strategy To Fulfill Obligations Under, Mutual Defense Treaty With the Republic of the Philippines
+
+Pub. L. 116–92, div. A, title XII, §1258, Dec. 20, 2019, 133 Stat. 1674, provided that:
+
+"(a)
+
+Statement of Policy.—It is the policy of the United States that—
+
+&emsp;"(1) while the United States has long adopted an approach that takes no position on the ultimate disposition of the disputed sovereignty claims in the South China Sea, disputing states should—
+
+&emsp;&emsp;"(A) resolve their disputes peacefully without the threat or use of force; and
+
+&emsp;&emsp;"(B) ensure that their maritime claims are consistent with international law; and
+
+&emsp;"(2) an armed attack on the armed forces, public vessels, or aircraft of the Republic of the Philippines in the Pacific, including the South China Sea, would trigger the mutual defense obligations of the United States under Article IV of the Mutual Defense Treaty 'to meet common dangers in accordance with its constitutional processes'.
+
+"(b)
+
+Sense of Congress.—It is the sense of Congress that the Secretary of State and the Secretary of Defense should—
+
+&emsp;"(1) affirm the commitment of the United States to the Mutual Defense Treaty;
+
+&emsp;"(2) preserve and strengthen the military alliance of the United States with the Republic of the Philippines;
+
+&emsp;"(3) prioritize efforts to develop a shared understanding of alliance commitments and defense planning; and
+
+&emsp;"(4) provide appropriate support to the Republic of the Philippines to strengthen the self-defense capabilities of the Republic of the Philippines, particularly in the maritime domain.
+
+"(c)
+
+Strategy Required.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense, in consultation with the Secretary of State, shall submit to the appropriate committees of Congress a report that sets forth the strategy of the Department of Defense for achieving the objectives described in subsection (b).
+
+&emsp;"(2)
+
+Elements of strategy.—The strategy required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A description of the national security interests and objectives of the United States furthered by the Mutual Defense Treaty.
+
+&emsp;&emsp;"(B) A description of the regional security environment, including—
+
+&emsp;&emsp;&emsp;"(i) an assessment of threats to both the United States and the Republic of the Philippines national security interests in the region and the role of the Department in addressing such threats;
+
+&emsp;&emsp;&emsp;"(ii) a description of the strategic security challenges that are detrimental to regional peace and global stability, including challenges posed by the People's Republic of China, violent extremist organizations, and natural disasters; and
+
+&emsp;&emsp;&emsp;"(iii) a description of each violent extremist organization that presents a threat to the Republic of the Philippines, including, with respect to each such organization—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the primary objectives of the organization;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) an assessment of—
+
+&emsp;&emsp;&emsp;"(aa) the capacity and capability of the organization;
+
+&emsp;&emsp;&emsp;"(bb) the transnational threat posed by the organization;
+
+&emsp;&emsp;&emsp;"(cc) recent trends in the capability and influence of the organization;
+
+&emsp;&emsp;&emsp;"(dd) the potential for the organization to reconstitute, expand, or otherwise pose a significant transnational threat; and
+
+&emsp;&emsp;&emsp;"(ee) the conditions that contribute to efforts of the organization to reconstitute, expand, or pose such a threat; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) a description of the metrics used to assess the capability and influence of the organization.
+
+&emsp;&emsp;"(C) A description of Department objectives with the Republic of the Philippines, including—
+
+&emsp;&emsp;&emsp;"(i) the benchmarks for assessing progress towards such objectives; and
+
+&emsp;&emsp;&emsp;"(ii) the Department strategy to achieve such objectives, including through—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) defense cooperation;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) use of security cooperation authorities; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) other support or activities in the Republic of the Philippines.
+
+&emsp;&emsp;"(D) An identification of all current and planned Department resources, programs, and activities to support the strategy required by paragraph (1), including a review of the necessity of an ongoing named operation and the criteria used to determine such necessity.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+&emsp;&emsp;"(B) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+&emsp;"(2)
+
+Mutual defense treaty.—The term 'Mutual Defense Treaty' means the Mutual Defense Treaty between the Republic of the Philippines and the United States of America, done at Washington August 30, 1951."
+
 #### Freedom of Navigation and Overflight; Promotion of International Law
 
 Pub. L. 115–409, title II, §213, Dec. 31, 2018, 132 Stat. 5401, provided that:

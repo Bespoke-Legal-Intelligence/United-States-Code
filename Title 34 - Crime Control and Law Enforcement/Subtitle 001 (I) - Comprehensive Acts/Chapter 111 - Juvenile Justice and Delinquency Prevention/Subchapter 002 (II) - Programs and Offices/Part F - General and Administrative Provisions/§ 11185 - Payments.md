@@ -22,7 +22,7 @@ Section was formerly classified to section 5675 of Title 42, The Public Health a
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–273 struck out subsec. (d) which read as follows: "If the Administrator determines, on the basis of information available to the Administrator during any fiscal year, that a portion of the funds granted to an applicant under part C of this subchapter for such fiscal year will not be required by the applicant or will become available by virtue of the application of the provisions of section 3783 of this title, as amended from time to time, that portion shall be available for reallocation in an equitable manner to States which comply with the requirements in paragraphs (12)(A) and (13) of section 5633(a) of this title, under section 5665(b)(6) of this title."
+<b>2002</b>—Subsec. (d). Pub. L. 107–273 struck out subsec. (d) which read as follows: "If the Administrator determines, on the basis of information available to the Administrator during any fiscal year, that a portion of the funds granted to an applicant under part C of this subchapter for such fiscal year will not be required by the applicant or will become available by virtue of the application of the provisions of section 3783 of this title, as amended from time to time, that portion shall be available for reallocation in an equitable manner toStates which comply with the requirements in paragraphs (12)(A) and (13) of section 5633(a) of this title, under section 5665(b)(6) of this title."
 
 #### Effective Date of 2002 Amendment
 

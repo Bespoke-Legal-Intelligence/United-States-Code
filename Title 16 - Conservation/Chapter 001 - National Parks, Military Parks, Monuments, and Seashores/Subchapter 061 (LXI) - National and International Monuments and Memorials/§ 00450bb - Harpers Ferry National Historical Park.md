@@ -6,7 +6,7 @@ To carry out the purposes of sections 450bb to 450bb–2 of this title, the Secr
 
 #### (b) Bradley and Ruth Nash Addition
 
-The Secretary is authorized to acquire, by donation only, approximately 27 acres of land or interests in land that are outside the boundary of the Harpers Ferry National Historical Park and generally depicted on the map entitled "Proposed Bradley and Ruth Nash Addition—Harpers Ferry National Historical Park", numbered 385–80056, and dated April 1, 1989.
+The Secretary is authorized to acquire, by donation only, approximately 27 acres of land orinterests in land that are outside the boundary of the Harpers Ferry National Historical Park and generally depicted on the map entitled "Proposed Bradley and Ruth Nash Addition—Harpers Ferry National Historical Park", numbered 385–80056, and dated April 1, 1989.
 
 #### (c) Boundary expansion
 
@@ -50,7 +50,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 <b>1980</b>—Pub. L. 96–199 substituted " 'Boundary Map, Harpers Ferry National Historical Park', numbered 385–80,021A and dated April 1979" for " 'Boundary Map, Harpers Ferry National Historical Park', numbered 385–40,000D and dated April 1974" and "two thousand four hundred and seventy-five acres" for "two thousand acres".
 
-<b>1974</b>—Pub. L. 93–466 inserted reference to updated map, prohibited the Secretary from exercising anypower of condemnation on lands in which a less than fee interest has been previously acquired, authorized the acquisition of land with appropriated funds and by exchange, authorized an increase in total area from 1500 to 2000 acres, and authorized the Secretary to make minor boundary changes by publication of a revised description in the Federal Register, after advising the Committees on Interior and Insular Affairs.
+<b>1974</b>—Pub. L. 93–466 inserted reference to updated map, prohibited the Secretary from exercising any power of condemnation on lands in which a less than fee interest has been previously acquired, authorized the acquisition of land with appropriated funds and by exchange, authorized an increase in total area from 1500 to 2000 acres, and authorized the Secretary to make minor boundary changes by publication of a revised description in the Federal Register, after advising the Committees on Interior and Insular Affairs.
 
 #### Short Title of 2004 Amendment
 

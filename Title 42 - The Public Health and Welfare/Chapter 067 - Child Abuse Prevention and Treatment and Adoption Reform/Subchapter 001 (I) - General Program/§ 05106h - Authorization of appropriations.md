@@ -14,7 +14,7 @@
 
 #### (B) Demonstration projects
 
-&emsp;&emsp;Of the amounts made available for a fiscal year under subparagraph (A), the Secretaryshall make available not more than 40 percent of such amounts to carry out section 5105 of this title.
+&emsp;&emsp;Of the amounts made available for a fiscal year under subparagraph (A), the Secretary shall make available not more than 40 percent of such amounts to carry out section 5105 of this title.
 
 #### (b) Availability of funds without fiscal year limitation
 

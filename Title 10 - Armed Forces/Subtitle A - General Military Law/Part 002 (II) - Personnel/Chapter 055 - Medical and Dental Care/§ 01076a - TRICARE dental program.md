@@ -6,7 +6,7 @@ Establishment of Dental Plans.—The Secretary of Defense may establish, and in 
 
 &emsp;(1)
 
-Plan for selected reserve and individual ready reserve.—A dental insurance planfor members of the Selected Reserve of the Ready Reserve and for members of the Individual Ready Reserve described in subsection 10144(b) of this title. During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall not terminate earlier than 180 days after the date on which the member is separated.
+Plan for selected reserve and individual ready reserve.—A dental insurance plan for members of the Selected Reserve of the Ready Reserve and for members of the Individual Ready Reserve described in subsection 10144(b) of this title. During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall not terminate earlier than 180 days after the date on which the member is separated.
 
 &emsp;(2)
 
@@ -78,7 +78,7 @@ Copayments Under Premium Sharing Plans.—(1) Except as provided pursuant to par
 
 (f)
 
-Transfer of Members.—If a member whose dependents are enrolled in the plan established under subsection (a)(3) is transferred to a duty station where dental care is provided to themember's eligible dependents under a program other than that plan, the member may discontinue participation under the plan. If the member is later transferred to a duty station where dental care is not provided to such member's eligible dependents except under the plan established under subsection (a)(3), the member may re-enroll the dependents in that plan.
+Transfer of Members.—If a member whose dependents are enrolled in the plan established under subsection (a)(3) is transferred to a duty station where dental care is provided to the member's eligible dependents under a program other than that plan, the member may discontinue participation under the plan. If the member is later transferred to a duty station where dental care is not provided to such member's eligible dependents except under the plan established under subsection (a)(3), the member may re-enroll the dependents in that plan.
 
 (g)
 
@@ -122,7 +122,7 @@ Eligible Dependent Defined.—(1) In this section, the term "eligible dependent"
 
 &emsp;&emsp;(ii) The date on which such dependent attains 23 years of age.
 
-(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, §713, Jan. 6, 2006, 119 Stat. 3343; Pub. L. 110–417, \[div. A\], title VII, §735(b), Oct. 14, 2008, 122 Stat. 4514; Pub. L. 111–84, div. A, title VII, §704, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 111–383, div. A, title VII, §703, Jan. 7, 2011, 124 Stat. 4245; Pub. L. 112–239, div. A, title VII, §701(b), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 115–232, div. A, title VII, §713(b), Aug. 13, 2018, 132 Stat. 1811.)
+(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, §713, Jan. 6, 2006, 119 Stat. 3343; Pub. L.110–417, \[div. A\], title VII, §735(b), Oct. 14, 2008, 122 Stat. 4514; Pub. L. 111–84, div. A, title VII, §704, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 111–383, div. A, title VII, §703, Jan. 7, 2011, 124 Stat. 4245; Pub. L. 112–239, div. A, title VII, §701(b), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 115–232, div. A, title VII, §713(b), Aug. 13, 2018, 132 Stat. 1811.)
 
 #### Applicability of Amendment
 
@@ -142,7 +142,7 @@ A prior section 1076a, added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 19
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 112–239 inserted at end "During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall not terminate earlier than 180 days after the date on which the member is separated."
 
-<b>2011</b>—Subsec. (k)(2). Pub. L. 111–383 amended par. (2) generally. Prior to amendment, par. (2) read as follows:"Such term includes any such dependent of a member who dies while on active duty for a period of more than 30 days or a member of the Ready Reserve if, on the date of the death of the member, the dependent—
+<b>2011</b>—Subsec. (k)(2). Pub. L. 111–383 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Such term includes any such dependent of a member who dies while on active duty for a period of more than 30 days or a member of the Ready Reserve if, on the date of the death of the member, the dependent—
 
 &emsp;"(A) is enrolled in a dental benefits plan established under subsection (a); or
 

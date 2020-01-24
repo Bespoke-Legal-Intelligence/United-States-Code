@@ -22,7 +22,7 @@ This section shall take effect with respect to the preparation and submission of
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–330 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "The Future Years Homeland Security Program under subsection (a) of this section shall be structured, and include the same type of informationand level of detail, as the Future Years Defense Program submitted to Congress by the Department of Defense under section 221 of title 10."
+<b>2004</b>—Subsec. (b). Pub. L. 108–330 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "The Future Years Homeland Security Program under subsection (a) of this section shall be structured, and include the same type of information and level of detail, as the Future Years Defense Program submitted to Congress by the Department of Defense under section 221 of title 10."
 
 #### Administrative Provisions
 

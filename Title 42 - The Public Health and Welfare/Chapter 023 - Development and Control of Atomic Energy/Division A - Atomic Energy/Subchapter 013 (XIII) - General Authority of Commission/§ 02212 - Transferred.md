@@ -6,5 +6,5 @@ Section, Pub. L. 101–510, div. C, title XXXI, §3141, Nov. 5, 1990, 104 Stat. 
 
 #### Prior Provisions
 
-A prior section 2212, Pub. L. 98–525, title XVI, §1631, Oct. 19, 1984, 98 Stat. 2646, related to contractor liability for injury or loss of property arising out of atomic weapons testing programs, prior to repeal by Pub. L. 101–426, §13, as added Pub. L. 101–510, div. C, title XXXI, §3140, Nov. 5, 1990, 104 Stat. 1837.
+A prior section 2212, Pub. L. 98–525, title XVI, §1631, Oct. 19, 1984, 98 Stat. 2646, related to contractor liability for injury or loss of property arising out of atomic weapons testing programs, prior to repeal by Pub. L.101–426, §13, as added Pub. L. 101–510, div. C, title XXXI, §3140, Nov. 5, 1990, 104 Stat. 1837.
 

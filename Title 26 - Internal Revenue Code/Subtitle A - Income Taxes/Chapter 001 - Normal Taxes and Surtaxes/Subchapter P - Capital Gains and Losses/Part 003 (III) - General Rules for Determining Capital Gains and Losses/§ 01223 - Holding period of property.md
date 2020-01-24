@@ -54,7 +54,7 @@ Cross reference.—
 
 &emsp;&emsp;<b>For special holding period provision relating to certain partnership distributions, see section 735(b).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 323; Pub. L. 87–834, §14(b)(3), Oct. 16, 1962, 76 Stat. 1041; Pub. L. 91–614, title I, §101(g), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 94–455, title XIV, §1402(b)(1)(Q), (2), title XIX, §1906(b) (13)(A), Oct. 4, 1976, 90 Stat. 1732, 1834; Pub. L. 95–600, title VII, §702(c)(5), Nov. 6, 1978, 92 Stat. 2927; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–448, title I, §§104(b)(3)(C), 105(c)(4), Jan. 12, 1983, 96 Stat. 2382, 2385; Pub. L. 98–369, div. A, title I, §54(c), title V, §541(b)(1), title X, §1001(b)(14), (e), July 18, 1984, 98 Stat. 569, 890, 1011, 1012; Pub. L.100–647, title I, §1006(e)(17), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–194, title V, §502(b)(1), Nov. 30, 1989, 103 Stat. 1754; Pub. L. 105–34, title III, §§312(d)(9), 313(b)(2), Aug. 5, 1997, 111 Stat. 840, 842; Pub. L. 105–206, title V, §5001(a)(5), title VI, §6005(d)(4), July 22, 1998, 112 Stat. 788, 805; Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(2), title IV, §401(h)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603, 2763A–650; Pub. L. 108–357, title IV, §413(c)(21), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 109–135, title IV, §402(a)(2), Dec. 21, 2005, 119 Stat. 2610; Pub. L. 113–295, div. A, title II, §221(a)(80), Dec. 19, 2014, 128 Stat. 4049; Pub. L. 115–141, div. U, title IV, §401(d)(4)(B)(vi), Mar. 23, 2018, 132 Stat. 1209.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 323; Pub. L. 87–834, §14(b)(3), Oct. 16, 1962, 76 Stat. 1041; Pub. L. 91–614, title I, §101(g), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 94–455, title XIV, §1402(b)(1)(Q), (2), title XIX, §1906(b) (13)(A), Oct. 4, 1976, 90 Stat. 1732, 1834; Pub. L. 95–600, title VII, §702(c)(5), Nov. 6, 1978, 92 Stat. 2927; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–448, title I, §§104(b)(3)(C), 105(c)(4), Jan. 12, 1983, 96 Stat. 2382, 2385; Pub. L. 98–369, div. A, title I, §54(c), title V, §541(b)(1), title X, §1001(b)(14), (e), July 18, 1984, 98 Stat. 569, 890, 1011, 1012; Pub. L. 100–647, title I, §1006(e)(17), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–194, title V, §502(b)(1), Nov. 30, 1989, 103 Stat. 1754; Pub. L. 105–34, title III, §§312(d)(9), 313(b)(2), Aug. 5, 1997, 111 Stat. 840, 842; Pub. L. 105–206, title V, §5001(a)(5), title VI, §6005(d)(4), July 22, 1998, 112 Stat. 788, 805; Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(2), title IV, §401(h)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603, 2763A–650; Pub. L. 108–357, title IV, §413(c)(21), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 109–135, title IV, §402(a)(2), Dec. 21, 2005, 119 Stat. 2610; Pub. L. 113–295, div. A, title II, §221(a)(80), Dec. 19, 2014, 128 Stat. 4049; Pub. L. 115–141, div. U, title IV, §401(d)(4)(B)(vi), Mar. 23, 2018, 132 Stat. 1209.)
 
 #### Amendments
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 2000 Amendment
 
-Amendment by section 1(a)(7) \[title I, §116(b)(2)\] of Pub. L. 106–554 applicable to qualified empowermentzone assets acquired after Dec. 21, 2000, see section 1(a)(7) \[title I, §116(c)\] of Pub. L. 106–554, set out as a note under section 1016 of this title.
+Amendment by section 1(a)(7) \[title I, §116(b)(2)\] of Pub. L. 106–554 applicable to qualified empowerment zone assets acquired after Dec. 21, 2000, see section 1(a)(7) \[title I, §116(c)\] of Pub. L. 106–554, set out as a note under section 1016 of this title.
 
 Amendment by section 1(a)(7) \[title IV, §401(h)(1)\] of Pub. L. 106–554 effective Dec. 21, 2000, see section 1(a)(7) \[title IV, §401(j)\] of Pub. L. 106–554, set out as a note under section 1032 of this title.
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 87–834 applicable with respect to taxable years beginning
 
 #### Repeals
 
-Pub. L. 95–600, §702(c)(5), cited as a credit to this section, and the amendments made thereby, were repealed by Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resulting in the text of this section reading as it read prior to enactment of section 702(c)(5). See Effective Date of 1980 Amendment and Revival of Prior Law note set out above.
+Pub. L. 95–600, §702(c)(5), cited as a credit to this section, and the amendments made thereby, were repealedby Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resulting in the text of this section reading as it read prior to enactment of section 702(c)(5). See Effective Date of 1980 Amendment and Revival of Prior Law note set out above.
 
 #### Savings Provision
 

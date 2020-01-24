@@ -38,7 +38,7 @@ Alternate federal cochairman.—The alternate to the Federal Cochairman shall pe
 
 (e)
 
-Executive Director.—The Commission has an executive director. The executive director is responsible for carrying out the administrative functions of the Commission, for directing the Commission staff, and for other duties the Commission may assign.
+Executive Director.—The Commission has an executive director. The executive director isresponsible for carrying out the administrative functions of the Commission, for directing the Commission staff, and for other duties the Commission may assign.
 
 (f)
 

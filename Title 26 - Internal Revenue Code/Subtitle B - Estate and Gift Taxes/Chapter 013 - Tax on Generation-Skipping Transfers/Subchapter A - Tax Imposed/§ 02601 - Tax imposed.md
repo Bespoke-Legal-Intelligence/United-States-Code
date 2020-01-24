@@ -34,7 +34,7 @@ Exceptions.—The amendments made by this subtitle shall not apply to—
 
 &emsp;&emsp;"(C) any generation-skipping transfer—
 
-&emsp;&emsp;&emsp;"(i) under a trust to the extent such trust consists of property included in the gross estate of a decedent (other than property transferred by thedecedent during his life after the date of the enactment of this Act \[Oct. 22, 1986\]), or reinvestments thereof, or
+&emsp;&emsp;&emsp;"(i) under a trust to the extent such trust consists of property included in the gross estate of a decedent (other than property transferred by the decedent during his life after the date of the enactment of this Act \[Oct. 22, 1986\]), or reinvestments thereof, or
 
 &emsp;&emsp;&emsp;"(ii) which is a direct skip which occurs by reason of the death of any decedent;
 
@@ -70,7 +70,7 @@ Coordination with taxable terminations and taxable distributions.—For purposes
 
 &emsp;"(4)
 
-Definitions.—Terms used in this section shall have the same respective meanings as when used in chapter 13 of the Internal Revenue Code of 1986; except that section 2612(c)(2) of such Code shall not apply in determining whether an individual is a grandchild of the transferor.
+Definitions.—Terms used in this section shall have the same respective meanings as when used inchapter 13 of the Internal Revenue Code of 1986; except that section 2612(c)(2) of such Code shall not apply in determining whether an individual is a grandchild of the transferor.
 
 "(c)
 

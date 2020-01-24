@@ -90,7 +90,7 @@ For purposes of this section:
 
 &emsp;&emsp;(ii) processing governmental papers, such as visas and work orders;
 
-&emsp;&emsp;(iii) providing police protection, mail pick-up and delivery, or scheduling inspections associated with contract performance or inspections related to transit of goods across country;
+&emsp;&emsp;(iii) providing police protection, mail pick-up and delivery, or scheduling inspectionsassociated with contract performance or inspections related to transit of goods across country;
 
 &emsp;&emsp;(iv) providing phone service, power and water supply, loading and unloading cargo, or protecting perishable products or commodities from deterioration; or
 
@@ -160,7 +160,7 @@ Treatment.—An international organization providing commercial communications s
 
 &emsp;"(2)
 
-Limitation on effect of treatment.—The requirement for a certification under paragraph (1), and any certification made under such paragraph, shall not be construed to affect the administration by the Federal Communications Commission of the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] in authorizing the provision of services to, from, or within the United States over space segment of the international satellite organizations, or the privatized affiliates or successors thereof.
+Limitation on effect of treatment.—The requirement for a certification under paragraph (1), and any certification made under such paragraph, shall not be construed to affect the administration by the Federal Communications Commission of the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] in authorizing the provision of services to, from, or within theUnited States over space segment of the international satellite organizations, or the privatized affiliates or successors thereof.
 
 "(c)
 
@@ -270,7 +270,7 @@ Additional information.—In consultation with the private sector participants a
 
 "(b)
 
-Definition.—For purposes of this section, the term 'Convention' means the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions adopted on November 21, 1997, and signed on December 17, 1997, by the United States and 32 other nations."
+Definition.—For purposes of this section, the term 'Convention' means the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions adopted on November 21, 1997,and signed on December 17, 1997, by the United States and 32 other nations."
 
 #### International Agreements Concerning Acts Prohibited With Respect to Issuers and Domestic Concerns; Report to Congress
 

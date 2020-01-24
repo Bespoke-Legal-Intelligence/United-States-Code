@@ -20,7 +20,7 @@
 
 (3)(A) Except as provided in subparagraph (C), the annual premium rate payable to the corporation by all plans for basic benefits guaranteed under this subchapter is—
 
-&emsp;(i) in the case of a single-employer plan, an amount for each individual who is a participant in such plan during the plan year equal to the sum of the additional premium (if any) determined under subparagraph (E) and—
+&emsp;(i) in the case of a single-employer plan other than a CSEC plan (as defined in section 1060(f)(1) of this title) an amount for each individual who is a participant in such plan during the plan year equal to the sum of the additional premium (if any) determined under subparagraph (E) and—
 
 &emsp;&emsp;(I) for plan years beginning after December 31, 2005, and before January 1, 2013, $30;
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(VII) for plan years beginning after December 31, 2017, and before January 1, 2019, $74; and
 
-&emsp;&emsp;(VIII) for plan years beginning after December 31, 2018, $80.
+&emsp;&emsp;(VIII) for plan years beginning after December 31, 2018, $80.<sup>3</sup>
 
 &emsp;(ii) in the case of a multiemployer plan, for the plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, an amount for each individual who is a participant in such plan for such plan year equal to the sum of—
 
@@ -56,9 +56,15 @@
 
 &emsp;(iv) in the case of a multiemployer plan, for plan years beginning after December 31, 2005, and before January 1, 2013, $8.00 for each individual who is a participant in such plan during the applicable plan year,
 
-&emsp;(v) in the case of a multiemployer plan, for plan years beginning after December 31, 2012, and before January 1, 2015, $12.00 for each individual who is a participant in such plan during the applicable plan year, or
+&emsp;(v) in the case of a multiemployer plan, for plan years beginning after December 31, 2012, and before January 1, 2015, $12.00 for each individual who is a participant in such plan during the applicable plan year,
 
-&emsp;(vi) in the case of a multiemployer plan, for plan years beginning after December 31, 2014, $26 for each individual who is a participant in such plan during the applicable plan year.
+&emsp;(vi) in the case of a multiemployer plan, for plan years beginning after December 31, 2014, $26 for each individual who is a participant in such plan during the applicable plan year, or
+
+&emsp;(vii) in the case of a CSEC plan (as defined in section 1060(f)(1) of this title), for plan years beginning after December 31, 2018, for each individual who is a participant in such plan during the plan year an amount equal to the sum of—
+
+&emsp;&emsp;(I) the additional premium (if any) determined under subparagraph (E), and
+
+&emsp;&emsp;(II) $19.
 
 (B) The corporation may prescribe by regulation the extent to which the rate described in subparagraph (A)(i) applies more than once for any plan year to an individual participating in more than one plan maintained by the same employer, and the corporation may prescribe regulations under which the rate described in clause (iii) or (iv) of subparagraph (A) will not apply to the same participant in any multiemployer plan more than once for any plan year.
 
@@ -84,19 +90,25 @@
 
 &emsp;(I) shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year;
 
-&emsp;(II) in the case of plan years beginning in a calendar year after 2012 and before 2016, shall not exceed $400 <sup>3</sup> and
+&emsp;(II) in the case of plan years beginning in a calendar year after 2012 and before 2016, shall not exceed $400 <sup>4</sup> and
 
 &emsp;(III) in the case of plan years beginning in a calendar year after 2015, shall not exceed $500.
 
 (ii) The amount determined under this clause for any plan year shall be an amount equal to the applicable dollar amount under paragraph (8) for each $1,000 (or fraction thereof) of unfunded vested benefits under the plan as of the close of the preceding plan year.
 
-(iii) For purposes of clause (ii), the term "unfunded vested benefits" means, for a plan year, the excess (if any) of—
+(iii) Except as provided in clause (v), for purposes of clause (ii), the term "unfunded vested benefits" means, for a plan year, the excess (if any) of—
 
 &emsp;(I) the funding target of the plan as determined under section 1083(d) of this title for the plan year by only taking into account vested benefits and by using the interest rate described in clause (iv), over
 
 &emsp;(II) the fair market value of plan assets for the plan year which are held by the plan on the valuation date.
 
 (iv) The interest rate used in valuing benefits for purposes of subclause (I) of clause (iii) shall be equal to the first, second, or third segment rate for the month preceding the month in which the plan year begins, which would be determined under section 1083(h)(2)(C) of this title (notwithstanding any regulations issued by the corporation, determined by not taking into account any adjustment under clause (iv) thereof) if section 1083(h)(2)(D) of this title were applied by using the monthly yields for the month preceding the month in which the plan year begins on investment grade corporate bonds with varying maturities and in the top 3 quality levels rather than the average of such yields for a 24-month period.
+
+(v) For purposes of clause (ii), in the case of a CSEC plan (as defined in section 1060(f)(1) of this title), the term "unfunded vested benefits" means, for plan years beginning after December 31, 2018, the excess (if any) of—
+
+&emsp;(I) the funding liability of the plan as determined under section 1085a(j)(5)(C) of this title for the plan year by only taking into account vested benefits, over
+
+&emsp;(II) the fair market value of plan assets for the plan year which are held by the plan on the valuation date.
 
 (F) For each plan year beginning in a calendar year after 2006 and before 2013, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
 
@@ -218,7 +230,7 @@
 
 > If the corporation uses two or more of the rate bases described in this subparagraph, the premium rates shall be designed to produce approximately equal amounts of aggregate premium revenue from each of the rate bases used.
 
-(D) For purposes of this paragraph, the corporation shall by regulation define the terms "value of assets" and "present value of the benefits of the plan which are guaranteed" in a manner consistent with the purposes of this subchapter and the provisions of this section.
+(D) For purposes of this paragraph, the corporation shall by regulation define the terms "value of assets" and "present value of the benefits <sup>5</sup> of the plan which are guaranteed" in amanner consistent with the purposes of this subchapter and the provisions of this section.
 
 (7)
 
@@ -266,7 +278,7 @@ Applicable dollar amount for variable rate premium.—For purposes of paragraph 
 
 &emsp;(A)
 
-In general.—Except as provided in subparagraphs (B) and (C), the applicable dollar amount shall be—
+In general.—Except as provided in subparagraphs (B), (C), and (E), the applicable dollar amount shall be—
 
 &emsp;&emsp;(i) $9 for plan years beginning in a calendar year before 2015;
 
@@ -330,11 +342,15 @@ Base year.—For purposes of subparagraph (B), the base year is—
 
 &emsp;&emsp;(vii) 2017, in the case of plan years beginning after calendar year 2019.
 
+&emsp;(E)
+
+CSEC plans.—In the case of a CSEC plan (as defined in section 1060(f)(1) of this title), the applicable dollar amount shall be $9.
+
 #### (b) Revised schedule; Congressional procedures applicable
 
 (1) In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E)) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
 
-(2) The succeeding paragraphs of this subsection are enacted by Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described in paragraph (3). They shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in thesame manner and to the same extent as in the case of any rule of that House.
+(2) The succeeding paragraphs of this subsection are enacted by Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described in paragraph (3). They shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any rule of that House.
 
 (3) For the purpose of the succeeding paragraphs of this subsection, "resolution" means only a joint resolution, the matter after the resolving clause of which is as follows: "The proposed revised schedule transmitted to Congress by the Pension Benefit Guaranty Corporation on \_\_\_\_ is hereby approved.", the blank space therein being filled with the date on which the corporation's message proposing the rate was delivered.
 
@@ -354,7 +370,7 @@ Base year.—For purposes of subparagraph (B), the base year is—
 
 &emsp;&emsp;(i) with respect to each plan year beginning before January 1, 1978, an amount equal to $1 for each individual who was a participant in such plan during the plan year,
 
-&emsp;&emsp;(ii) with respect to each plan year beginning after December 31, 1977, and before January 1, 1986, an amount equal to $2.60 for each individual who was a participant in such plan during the plan year, and <sup>4</sup>
+&emsp;&emsp;(ii) with respect to each plan year beginning after December 31, 1977, and before January 1, 1986, an amount equal to $2.60 for each individual who was a participant in such plan during the plan year, and <sup>6</sup>
 
 &emsp;&emsp;(iii) with respect to each plan year beginning after December 31, 1985, and before January 1, 1988, an amount equal to $8.50 for each individual who was a participant in such plan during the plan year, and
 
@@ -372,13 +388,25 @@ Base year.—For purposes of subparagraph (B), the base year is—
 
 &emsp;&emsp;(ii) the denominator of which is 12.
 
-(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928; Pub. L. 110–458, title I, §104(a), Dec. 23, 2008, 122 Stat. 5104; Pub. L. 112–141, div. D, title II, §§40211(b)(3)(C), 40221, 40222, July 6, 2012, 126 Stat. 849–852; Pub. L. 113–67, div. A, title VII, §703(a)–(d), Dec. 26, 2013, 127 Stat. 1190, 1191; Pub.L. 113–235, div. O, title I, §131(a), Dec. 16, 2014, 128 Stat. 2796; Pub. L. 114–74, title V, §501(a)–(b)(2), Nov. 2, 2015, 129 Stat. 591, 592.)
+(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928; Pub. L. 110–458, title I, §104(a), Dec. 23, 2008, 122 Stat. 5104; Pub. L. 112–141, div. D, title II, §§40211(b)(3)(C), 40221, 40222, July 6, 2012, 126 Stat. 849–852; Pub. L. 113–67, div. A, title VII, §703(a)–(d), Dec. 26, 2013, 127 Stat. 1190, 1191; Pub. L. 113–235, div. O, title I, §131(a), Dec. 16, 2014, 128 Stat. 2796; Pub. L. 114–74, title V, §501(a)–(b)(2), Nov. 2, 2015, 129 Stat. 591, 592; Pub. L. 116–94, div. O, title II, §206, Dec. 20, 2019, 133 Stat. 3174.)
 
 #### References in Text
 
 The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of Pub. L. 96–364 falls, such enactment being approved Sept. 26, 1980.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(3)(A)(i). Pub. L. 116–94, §206(a)(1), substituted "plan other than a CSEC plan (as defined in section 1060(f)(1) of this title)" for "plan," in introductory provisions.
+
+Subsec. (a)(3)(A)(vii). Pub. L. 116–94, §206(a)(2)–(4), added cl. (vii).
+
+Subsec. (a)(3)(E). Pub. L. 116–94, §206(b)(1)(B), substituted "Except as provided in clause (v), for purposes" for "For purposes" in introductory provisions.
+
+Subsec. (a)(3)(E)(v). Pub. L. 116–94, §206(b)(1)(A), added cl. (v).
+
+Subsec. (a)(8)(A). Pub. L. 116–94, §206(b)(2)(B), substituted "(B), (C), and (E)" for "(B) and (C)" in introductory provisions.
+
+Subsec. (a)(8)(E). Pub. L. 116–94, §206(b)(2)(A), added subpar. (E).
 
 <b>2015</b>—Subsec. (a)(3)(A)(i)(VI) to (VIII). Pub. L. 114–74, §501(a)(1), added subcls. (VI) to (VIII).
 
@@ -526,7 +554,7 @@ Subsec. (b)(3). Pub. L. 99–272, §11005(c)(3), substituted "joint" for "concur
 
 Subsec. (c)(1)(A). Pub. L. 99–272, §11005(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "in the case of each plan which was not a multiemployer plan in a plan year, an amount equal to $1 for each individual who was a participant in such plan during the plan year, and".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–364, §105(a), substituted provisions setting forth authority of corporation to prescribe schedules of premium rates and bases for the application of such rates and provisions respecting contents, coverages, alternate schedules, etc., of schedules and application bases, for provisions setting forth authority of corporation to prescribe insurance premium rates and coverage schedules for the application of such rates and provisions respecting contents, coverages, rates, etc., of schedules and premium rates.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §105(a), substituted provisions setting forth authority of corporation toprescribe schedules of premium rates and bases for the application of such rates and provisions respecting contents, coverages, alternate schedules, etc., of schedules and application bases, for provisions setting forth authority of corporation to prescribe insurance premium rates and coverage schedules for the application of such rates and provisions respecting contents, coverages, rates, etc., of schedules and premium rates.
 
 Subsec. (b). Pub. L. 96–364, §105(b), in par. (1) substituted "(C), (D), or (E)" for "(B) or (C)", "revised schedule" for "revised coverage schedule", and "Human Resources" for "Public Welfare", in par. (3) substituted "revised schedule" for "revised coverage schedule", and in par. (4) substituted "Human Resources" for "Public Welfare".
 
@@ -535,8 +563,6 @@ Subsec. (c). Pub. L. 96–364, §105(c), added subsec. (c).
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2015 Amendment
 
@@ -562,7 +588,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 Pub. L. 109–280, title IV, §401(a)(2), Aug. 17, 2006, 120 Stat. 922, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to plan years beginning after 2007."
 
-Pub. L. 109–280, title IV, §401(b)(2)(B), Aug. 17, 2006, 120 Stat. 922, provided that: "The amendment made bythis paragraph \[amending this section\] shall take effect as if included in the provision of the Deficit Reduction Act of 2005 \[Pub. L. 109–171\] to which it relates."
+Pub. L. 109–280, title IV, §401(b)(2)(B), Aug. 17, 2006, 120 Stat. 922, provided that: "The amendment made by this paragraph \[amending this section\] shall take effect as if included in the provision of the Deficit Reduction Act of 2005 \[Pub. L. 109–171\] to which it relates."
 
 Pub. L. 109–280, title IV, §405(b), Aug. 17, 2006, 120 Stat. 929, provided that: "The amendment made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2006."
 
@@ -632,7 +658,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to plan years beginning after Dec. 31, 1987, see section 9331(f)(1) of Pub. L. 100–203, set out as a note under section 1305 of this title.
+Amendment by Pub. L. 100–203 applicable to plan years beginning after Dec. 31, 1987, see section 9331(f)(1)of Pub. L. 100–203, set out as a note under section 1305 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -692,7 +718,11 @@ Pub. L. 96–364, title IV, §412(a), Sept. 26, 1980, 94 Stat. 1309, directed Pe
 
 <i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
+<i><sup>3</sup></i><i> So in original. The period probably should be a comma.</i>
 
-<i><sup>4</sup></i><i> So in original. The word "and" probably should not appear.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be preceded by "basic".</i>
+
+<i><sup>6</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

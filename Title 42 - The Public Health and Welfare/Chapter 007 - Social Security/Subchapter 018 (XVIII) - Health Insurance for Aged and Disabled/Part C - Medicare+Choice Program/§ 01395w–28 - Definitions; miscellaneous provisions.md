@@ -142,7 +142,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;(A) is described in section 501(c)(8) of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Act;
 
-&emsp;&emsp;(B) is affiliated with, carries out the tenets of, and shares a religious bond with, a church or convention or association of churches or an affiliated group of churches;
+&emsp;&emsp;(B) is affiliated with, carries out the tenets of, and shares a religious bond with, achurch or convention or association of churches or an affiliated group of churches;
 
 &emsp;&emsp;(C) offers, in addition to a Medicare+Choice religious fraternal benefit society plan, health coverage to individuals not entitled to benefits under this subchapter who are members of such church, convention, or group; and
 
@@ -278,13 +278,13 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than April 1, 2020, the Secretary shall establish procedures, to the extent feasible as determined by the Secretary, unifying grievances and appeals procedures under sections 1395w–22(f), 1395w–22(g), 1396a(a)(3), 1396a(a)(5), and 1396u–2(b)(4) of this title for items and services provided by specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) under this subchapter and subchapter XIX. With respect to items and services described in the preceding sentence, procedures established under this clause shall apply in place of otherwise applicable grievances and appeals procedures. The Secretary shall solicit comment in developing such procedures from States, plans, beneficiaries andtheir representatives, and other relevant stakeholders.
+&emsp;&emsp;&emsp;Not later than April 1, 2020, the Secretary shall establish procedures, to the extent feasible as determined by the Secretary, unifying grievances and appeals procedures under sections 1395w–22(f), 1395w–22(g), 1396a(a)(3), 1396a(a)(5), and 1396u–2(b)(4) of this title for items and services provided by specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) under this subchapter and subchapter XIX. With respect to items and services described in the preceding sentence, procedures established under this clause shall apply in place of otherwise applicable grievances and appeals procedures. The Secretary shall solicit comment in developing such procedures from States, plans, beneficiaries and their representatives, and other relevant stakeholders.
 
 #### (ii) Procedures
 
 &emsp;&emsp;&emsp;The procedures established under clause (i) shall be included in the plan contract under paragraph (3)(D) and shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) adopt the provisions for the enrollee that are most protective for the enrollee and, to the extent feasible as determined by the Secretary, are compatible with unified timeframes and consolidated access to external review under an integrated process;
+&emsp;&emsp;&emsp;&emsp;(I) adopt the provisions for the enrollee that are most protective for the enrolleeand, to the extent feasible as determined by the Secretary, are compatible with unified timeframes and consolidated access to external review under an integrated process;
 
 &emsp;&emsp;&emsp;&emsp;(II) take into account differences in State plans under subchapter XIX to the extent necessary;
 
@@ -324,11 +324,11 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;&emsp;&emsp;(II) The specialized MA plan must meet the requirements of a fully integrated plan described in section 1395w–23(a)(1)(B)(iv)(II) of this title (other than the requirement that the plan have similar average levels of frailty, as determined by the Secretary, as the PACE program), or enter into a capitated contract with the State Medicaid agency to provide long-term services and supports or behavioral health services, or both.
 
-&emsp;&emsp;&emsp;&emsp;(III) In the case of a specialized MA plan that is offered by a parent organization that is also the parent organization of a Medicaid managed care organization providing long term services and supports or behavioral services under a contract under section 1396b(m) of this title, the parent organization must assume clinical and financial responsibility for benefits provided under this subchapter and subchapter XIX with respect to any individual who is enrolled in both thespecialized MA plan and the Medicaid managed care organization.
+&emsp;&emsp;&emsp;&emsp;(III) In the case of a specialized MA plan that is offered by a parent organization that is also the parent organization of a Medicaid managed care organization providing long term services and supports or behavioral services under a contract under section 1396b(m) of this title, the parent organization must assume clinical and financial responsibility for benefits provided under this subchapter and subchapter XIX with respect to any individual who is enrolled in both the specialized MA plan and the Medicaid managed care organization.
 
 #### (ii) Suspension of enrollment for failure to meet requirements during initial period
 
-&emsp;&emsp;&emsp;During the period of plan years 2021 through 2025, if the Secretary determines that a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(ii) has failed to comply with clause (i), the Secretary may provide for the application against the Medicare Advantage organization offering the plan of the remedy described in section 1395w–27(g)(2)(B) of this title in the same manner as the Secretary may apply such remedy, and in accordance with the same procedures as would apply, in the case of an MA organization determined by the Secretary to have engaged in conduct described in section 1395w–27(g)(1) of this title. If the Secretary applies such remedy to a Medicare Advantage organization under the preceding sentence, the organization shall submit to the Secretary (at a time, and in a form and manner, specified by the Secretary) information describing how the plan will come into compliance with clause (i).
+&emsp;&emsp;&emsp;During the period of plan years 2021 through 2025, if the Secretary determines that a specialized MA plan for specialneeds individuals described in subsection (b)(6)(B)(ii) has failed to comply with clause (i), the Secretary may provide for the application against the Medicare Advantage organization offering the plan of the remedy described in section 1395w–27(g)(2)(B) of this title in the same manner as the Secretary may apply such remedy, and in accordance with the same procedures as would apply, in the case of an MA organization determined by the Secretary to have engaged in conduct described in section 1395w–27(g)(1) of this title. If the Secretary applies such remedy to a Medicare Advantage organization under the preceding sentence, the organization shall submit to the Secretary (at a time, and in a form and manner, specified by the Secretary) information describing how the plan will come into compliance with clause (i).
 
 #### (E) Study and report to Congress
 
@@ -370,7 +370,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (C) Requirement
 
-&emsp;&emsp;In establishing and updating the list under subparagraph (A), the panel shall take intoaccount the availability of varied benefits, cost-sharing, and supplemental benefits under the model described in paragraph (2) of section 1395w–28(h) of this title, including the expansion under paragraph (1) of such section.
+&emsp;&emsp;In establishing and updating the list under subparagraph (A), the panel shall take into account the availability of varied benefits, cost-sharing, and supplemental benefits under the model described in paragraph (2) of section 1395w–28(h) of this title, including the expansion under paragraph (1) of such section.
 
 #### (g) Special rules for senior housing facility plans
 
@@ -434,7 +434,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (D) HIPAA compliant information only
 
-&emsp;&emsp;For purposes of this subsection, communications may only occur if the communications are permitted under the Federal regulations (concerning the privacy of individually identifiable health information) promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996.
+&emsp;&emsp;For purposes of this subsection, communications may only occur if the communications are permitted under the Federal regulations (concerning the privacy of individually identifiable health information) promulgated under section 264(c) of the HealthInsurance Portability and Accountability Act of 1996.
 
 #### (2) Quarterly reports
 
@@ -526,7 +526,7 @@ Subsec. (c)(5). Pub. L. 108–173, §221(d)(2), added par. (5).
 
 Subsec. (f). Pub. L. 108–173, §231(c), added subsec. (f).
 
-<b>1999</b>—Subsec. (e)(2). Pub. L. 106–113 substituted "section 1395w–21(a)(2) of this title" for "section 1395w–21(a)(2)(A) of this title" in introductory provisions.
+<b>1999</b>—Subsec. (e)(2). Pub. L. 106–113 substituted "section 1395w–21(a)(2) of this title" for "section1395w–21(a)(2)(A) of this title" in introductory provisions.
 
 #### Change of Name
 

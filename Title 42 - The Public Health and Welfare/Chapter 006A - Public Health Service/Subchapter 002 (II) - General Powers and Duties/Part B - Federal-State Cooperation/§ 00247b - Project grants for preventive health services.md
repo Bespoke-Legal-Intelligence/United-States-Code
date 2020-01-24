@@ -12,7 +12,7 @@ No grant may be made under section (a) <sup>1</sup> unless an application there
 
 &emsp;(2) with respect to each such program (A) the amount of Federal, State, and other funds obligated by the applicant in its latest annual accounting period for the provision of such program, (B) a description of the services provided by the applicant in such program in such period, (C) the amount of Federal funds needed by the applicant to continue providing such services in such program, and (D) if the applicant proposes changes in the provision of the services in such program, the priorities of such proposed changes, reasons for such changes, and the amount of Federal funds needed by the applicant to make such changes;
 
-&emsp;(3) assurances satisfactory to the Secretary that the program which will be provided withfunds under a grant under subsection (a) will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) <sup>1</sup> of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 <sup>1</sup> of this title;
+&emsp;(3) assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) <sup>1</sup> of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 <sup>1</sup> of this title;
 
 &emsp;(4) assurances satisfactory to the Secretary that the applicant will provide for such fiscal control and fund accounting procedures as the Secretary by regulation prescribes to assure the proper disbursement of and accounting for funds received under grants under subsection (a);
 
@@ -64,7 +64,7 @@ The Secretary, at the request of a recipient of a grant under subsection (a), ma
 
 #### (h) Reports
 
-The Secretary shall include, as part of the report required by section 300u–4 of this title, a report on the extent of the problems presented bythe diseases and conditions referred to in subsection (j); on the amount of funds obligated under grants under subsection (a) in the preceding fiscal year for each of the programs listed in subsection (j); and on the effectiveness of the activities assisted under grants under subsection (a) in controlling such diseases and conditions.
+The Secretary shall include, as part of the report required by section 300u–4 of this title, a report on the extent of the problems presented by the diseases and conditions referred to in subsection (j); on the amount of funds obligated under grants under subsection (a) in the preceding fiscal year for each of the programs listed in subsection (j); and on the effectiveness of the activities assisted under grants under subsection (a) in controlling such diseases and conditions.
 
 #### (i) Technical assistance
 
@@ -188,7 +188,7 @@ Subsec. (j)(2). Pub. L. 105–392, §303(2), substituted "1997" for "1990".
 
 Subsec. (k)(2). Pub. L. 103–183, §301(b)(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "The Secretary may make grants to States, political subdivisions of States, and other public and nonprofit private entities for—
 
-&emsp;"(A) research into the prevention, control, and elimination of tuberculosis, especially research concerning strains of tuberculosis resistant to drugs and research concerning cases of tuberculosis that affect certain populations;
+&emsp;"(A) research into the prevention, control, and elimination of tuberculosis, especially research concerning strains of tuberculosis resistant to drugs andresearch concerning cases of tuberculosis that affect certain populations;
 
 &emsp;"(B) demonstration projects for the prevention, control, and elimination of tuberculosis;
 

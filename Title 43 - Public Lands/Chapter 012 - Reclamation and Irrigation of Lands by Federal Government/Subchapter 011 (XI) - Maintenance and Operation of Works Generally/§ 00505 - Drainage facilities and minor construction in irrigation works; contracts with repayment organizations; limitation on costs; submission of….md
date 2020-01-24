@@ -8,5 +8,5 @@ Funds appropriated for the construction of irrigation works authorized to be und
 
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
-Act of August 11, 1939, referred to in text, is classified generally to subchapter II (§590y et seq.) of chapter 3Cof Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+Act of August 11, 1939, referred to in text, is classified generally to subchapter II (§590y et seq.) of chapter 3C of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 

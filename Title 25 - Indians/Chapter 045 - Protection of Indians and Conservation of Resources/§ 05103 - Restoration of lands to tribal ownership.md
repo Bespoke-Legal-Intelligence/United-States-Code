@@ -10,7 +10,7 @@ The Secretary of the Interior, if he shall find it to be in the public interest,
 
 (3) Water reservoirs, charcos, water holes, springs, wells, or any other form of water development by the United States or the Papago Indians shall not be used for mining purposes under the terms of this Act, except under permit from the Secretary of the Interior approved by the Papago Indian Council: <i>Provided</i>, That nothing herein shall be construed as interfering with or affecting the validity of the water rights of the Indians of this reservation: <i>Provided further</i>, That the appropriation of living water heretofore or hereafter affected, by the Papago Indians is recognized and validated subject to all the laws applicable thereto.
 
-(4) Nothing herein contained shall restrict the granting or use of permits for easements or rights-of-way; or ingress or egress over the lands for all proper and lawful purposes.
+(4) Nothing herein contained shall restrict the granting or use of permits for easements orrights-of-way; or ingress or egress over the lands for all proper and lawful purposes.
 
 (June 18, 1934, ch. 576, §3, 48 Stat. 984; Aug. 28, 1937, ch. 866, 50 Stat. 862; May 27, 1955, ch. 106, §1, 69 Stat. 67.)
 

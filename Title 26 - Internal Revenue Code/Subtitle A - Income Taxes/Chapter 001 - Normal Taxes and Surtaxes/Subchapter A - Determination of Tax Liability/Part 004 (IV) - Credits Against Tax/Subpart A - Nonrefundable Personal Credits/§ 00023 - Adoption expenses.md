@@ -56,7 +56,7 @@
 
 #### (2) Limitation
 
-&emsp;No credit may be carried forward under this subsection to any taxable year following thefifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.
+&emsp;No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.
 
 #### (d) Definitions
 
@@ -134,7 +134,7 @@ In the case of a taxable year beginning after December 31, 2002, each of the dol
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out this section and section 137, including regulations which treat unmarried individuals who pay or incur qualified adoption expenses with respect to the same child as 1 taxpayer for purposes of applying the dollar amounts in subsections (a)(3) and (b)(1) of this section and in section 137(b)(1).
 
-(Added Pub. L. 104–188, title I, §1807(a), Aug. 20, 1996, 110 Stat. 1899, §23; amended Pub. L. 105–34, title XVI, §1601(h)(2)(A), (B), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–206, title VI, §§6008(d)(6), 6018(f)(1), July 22, 1998, 112 Stat. 812, 823; Pub. L. 107–16, title II, §§201(b)(2)(E), 202(a)(1), (b)(1)(A), (2)(A), (c), (d)(1), (e)(1), (f)(1), (2)(A), June 7, 2001, 115 Stat. 46–49; Pub. L. 107–147, title IV, §§411(c)(1)(A)–(E), 418(a)(1), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 109–58, title XIII, §1335(b)(1), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(A), (4), Dec. 21, 2005, 119 Stat. 2612, 2615; Pub. L. 110–343, div. B, title I, §106(e)(2)(A), Oct. 3, 2008, 122 Stat. 3817; renumbered §36C, amended, and renumbered §23, Pub. L. 111–148, title X, §10909(a)(1), (b)(1), (2)(I), (c), Mar. 23, 2010, 124 Stat. 1021, 1022, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(A), Jan. 2, 2013, 126 Stat. 2321; Pub. L. 115–97, title I, §11002(d)(1)(A), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div.U, title IV, §401(d)(4)(B)(i), Mar. 23, 2018, 132 Stat. 1209.)
+(Added Pub. L. 104–188, title I, §1807(a), Aug. 20, 1996, 110 Stat. 1899, §23; amended Pub. L. 105–34, title XVI, §1601(h)(2)(A), (B), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–206, title VI, §§6008(d)(6), 6018(f)(1), July 22, 1998, 112 Stat. 812, 823; Pub. L. 107–16, title II, §§201(b)(2)(E), 202(a)(1), (b)(1)(A), (2)(A), (c), (d)(1), (e)(1), (f)(1), (2)(A), June 7, 2001, 115 Stat. 46–49; Pub. L. 107–147, title IV, §§411(c)(1)(A)–(E), 418(a)(1), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 109–58, title XIII, §1335(b)(1), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(A), (4), Dec. 21, 2005, 119 Stat. 2612, 2615; Pub. L. 110–343, div. B, title I, §106(e)(2)(A), Oct. 3, 2008, 122 Stat. 3817; renumbered §36C, amended, and renumbered §23, Pub. L. 111–148, title X, §10909(a)(1), (b)(1), (2)(I), (c), Mar. 23, 2010, 124 Stat. 1021, 1022, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(A), Jan. 2, 2013, 126 Stat. 2321; Pub. L. 115–97, title I, §11002(d)(1)(A), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(d)(4)(B)(i), Mar. 23, 2018, 132 Stat. 1209.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–240, title I, §104(d), Jan. 2, 2013, 126 Stat. 2323, provided that: "The amendments made by this section \[amending this section and sections 24, 25, 25A, 25B, 25D, 26, 30, 30B, 30D, 55, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2011."
+Pub. L. 112–240, title I, §104(d), Jan. 2, 2013, 126 Stat. 2323, provided that: "The amendments made by thissection \[amending this section and sections 24, 25, 25A, 25B, 25D, 26, 30, 30B, 30D, 55, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2011."
 
 #### Effective and Termination Dates of 2010 Amendment
 
@@ -328,7 +328,7 @@ Pub. L. 105–34, title XVI, §1601(j), Aug. 5, 1997, 111 Stat. 1093, provided t
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section, sections 30A, 52, 55, 137, 401, 403, 404, 408, 414, 512, 529, 593, 641, 679, 860L, 956, 1361, 1374, 4001, 4041, 4092, 4261, 6039D, 6048, 6050R, 6501, 6693, 7701, and 9503 of this title, section 1055 of Title 29, Labor, and provisions set out as notes under sections 529 and 4091 of this title\] shall take effect as if included in the provisions of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188\] to which they relate.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection, sections 30A, 52, 55, 137, 401, 403, 404, 408, 414, 512, 529, 593, 641, 679, 860L, 956, 1361, 1374, 4001, 4041, 4092, 4261, 6039D, 6048, 6050R, 6501, 6693, 7701, and 9503 of this title, section 1055 of Title 29, Labor, and provisions set out as notes under sections 529 and 4091 of this title\] shall take effect as if included in the provisions of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188\] to which they relate.
 
 "(2)
 

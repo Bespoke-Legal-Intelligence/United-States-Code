@@ -80,7 +80,7 @@ As used in this chapter (unless the context clearly requires otherwise):
 
 #### (20) Promotion
 
-&emsp;The term "promotion" means any action (including paid advertising) to advance the image and desirability of sheep or sheep products to improve the competitive position, and stimulate sales, of sheep products in the domestic and international marketplace.
+&emsp;The term "promotion" means any action (including paid advertising) to advance theimage and desirability of sheep or sheep products to improve the competitive position, and stimulate sales, of sheep products in the domestic and international marketplace.
 
 #### (21) Pulled wool
 

@@ -2,7 +2,7 @@
 
 Section 961, Pub. L. 93–203, title VI, §601, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2005, set out Congressional statement of purpose for a countercyclical public service employment program.
 
-A prior section 961, Pub. L. 93–203, title VI, 601, as added Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1845; amended Pub. L. 94–444, §2, Oct. 1, 1976, 90 Stat. 1476; Pub. L. 95–44, §2(b), June 15, 1977, 91 Stat. 220, authorized appropriations for emergency job programs, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 961, Pub. L. 93–203, title VI, 601, as added Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat.1845; amended Pub. L. 94–444, §2, Oct. 1, 1976, 90 Stat. 1476; Pub. L. 95–44, §2(b), June 15, 1977, 91 Stat. 220, authorized appropriations for emergency job programs, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 962, Pub. L. 93–203, title VI, §602, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2006, related to reports on appropriations submitted by President to Congress.
 

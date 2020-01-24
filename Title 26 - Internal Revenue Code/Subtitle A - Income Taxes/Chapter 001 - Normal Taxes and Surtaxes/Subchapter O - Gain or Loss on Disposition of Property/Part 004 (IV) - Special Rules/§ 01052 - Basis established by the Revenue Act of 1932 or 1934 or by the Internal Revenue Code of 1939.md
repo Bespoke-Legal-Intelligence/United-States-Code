@@ -6,7 +6,7 @@ If the property was acquired, after February 28, 1913, in any taxable year begin
 
 #### (b) Revenue Act of 1934
 
-If the property was acquired, after February 28, 1913, in any taxable year beginning before January 1, 1936, and the basis thereof, for purposes of the Revenue Act of 1934, was prescribed by section 113(a)(6), (7), or (8) of such Act (48 Stat. 706), then for purposes of this subtitle the basis shall be the same as the basis therein prescribed in the Revenue Act of 1934.
+If the property was acquired, after February 28, 1913, in any taxable year beginning beforeJanuary 1, 1936, and the basis thereof, for purposes of the Revenue Act of 1934, was prescribed by section 113(a)(6), (7), or (8) of such Act (48 Stat. 706), then for purposes of this subtitle the basis shall be the same as the basis therein prescribed in the Revenue Act of 1934.
 
 #### (c) Internal Revenue Code of 1939
 
@@ -22,5 +22,5 @@ Revenue Act of 1934, referred to in section catchline and subsec. (b), is act Ma
 
 The Internal Revenue Code of 1939, referred to in section catchline and subsec. (c), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. For Table comparisons of the 1939 Code to the 1986 Code, see table I preceding section 1 of this title.
 
-Section 113 of the Internal Revenue Code of 1939, referred to in subsec. (c), was classified to section 113 of former Title 26, Internal Revenue Code. Section 113 was repealed by section 7851(a)(1)(A) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not thenapplicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
+Section 113 of the Internal Revenue Code of 1939, referred to in subsec. (c), was classified to section 113 of former Title 26, Internal Revenue Code. Section 113 was repealed by section 7851(a)(1)(A) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 

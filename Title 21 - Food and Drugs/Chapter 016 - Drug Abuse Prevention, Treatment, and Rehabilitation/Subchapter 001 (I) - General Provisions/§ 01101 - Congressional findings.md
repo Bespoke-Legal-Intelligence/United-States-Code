@@ -20,7 +20,7 @@ The Congress makes the following findings:
 
 &emsp;(9) The increasing rate of drug abuse constitutes a serious and continuing threat to national health and welfare, requiring an immediate and effective response on the part of the Federal Government.
 
-&emsp;(10) Although the Congress observed a significant apparent reduction in the rate of increase of drug abuse during the three-year period subsequent to March 21, 1972, and in certain areas of the country apparent temporary reductions in its incidence, the increase and spread of heroin consumption since 1974, and the continuing abuse of other dangerous drugs, clearly indicate the need for effective, ongoing, and highly visible Federal leadership in the formation and execution of a comprehensive, coordinated drug abuse policy.
+&emsp;(10) Although the Congress observed a significant apparent reduction in the rate of increase of drug abuse during the three-year period subsequent to March 21, 1972, and in certain areas of the country apparent temporary reductions in its incidence, the increase and spread of heroin consumption since 1974, and the continuing abuse of other dangerous drugs,clearly indicate the need for effective, ongoing, and highly visible Federal leadership in the formation and execution of a comprehensive, coordinated drug abuse policy.
 
 &emsp;(11) Shifts in the usage of various drugs and in the Nation's demographic composition require a Federal strategy to adjust the focus of drug abuse programs to meet new needs and priorities on a cost-effective basis.
 
@@ -40,7 +40,7 @@ The Congress makes the following findings:
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–181, §1(a), Jan. 2, 1980, 93 Stat. 1309, provided that: "This Act \[enacting sections 1111 to 1117 and 1181 of this title, amending this section, sections 1102, 1162, 1164, 1176, 1177, 1180, and 1191 to 1193 of this title, and sections 218, 300l–2, 300m–3, and 3733 of Title 42, ThePublic Health and Welfare, omitting sections 1118 to 1120 and 1131 to 1133 of this title, enacting provisions set out as notes under this section and section 1193 of this title, and amending provisions set out as a note below\] may be cited as the 'Drug Abuse Prevention, Treatment, and Rehabilitation Amendments of 1979'."
+Pub. L. 96–181, §1(a), Jan. 2, 1980, 93 Stat. 1309, provided that: "This Act \[enacting sections 1111 to 1117 and 1181 of this title, amending this section, sections 1102, 1162, 1164, 1176, 1177, 1180, and 1191 to 1193 of this title, and sections 218, 300l–2, 300m–3, and 3733 of Title 42, The Public Health and Welfare, omitting sections 1118 to 1120 and 1131 to 1133 of this title, enacting provisions set out as notes under this section and section 1193 of this title, and amending provisions set out as a note below\] may be cited as the 'Drug Abuse Prevention, Treatment, and Rehabilitation Amendments of 1979'."
 
 #### Short Title of 1978 Amendment
 

@@ -44,7 +44,7 @@ Level IV of the Executive Schedule, referred to in subsec. (a), is set out in se
 
 Section 206 of the Bank Conservation Act, referred to in subsec. (a)(1), is classified to section 206 of Title 12, Banks and Banking.
 
-Sections 2B(b) and 21A(e)(4) of the Federal Home Loan Bank Act, referred to in subsec. (a)(1), were classified to former sections 1422b(b) and 1441a(e)(4), respectively, of Title 12, Banks and Banking. Section 1422b of Title 12 was repealed by Pub. L. 110–289, div. A, title II, §1204(1), July 30, 2008, 122 Stat. 2786. Section 1441a of Title 12 was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
+Sections 2B(b) and 21A(e)(4) of the Federal Home Loan Bank Act, referred to in subsec. (a)(1), were classified to former sections 1422b(b) and 1441a(e)(4), respectively, of Title 12, Banks and Banking. Section 1422b of Title 12 was repealed by Pub. L. 110–289, div. A, title II, §1204(1), July 30, 2008, 122 Stat. 2786. Section 1441a ofTitle 12 was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
 
 Section 2A(i) of the Home Owners' Loan Act, referred to in subsec. (a)(1), probably should be a reference to section 3(g) of the Home Owners' Loan Act, act June 13, 1933, ch. 64, as amended by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 278, which was classified to section 1462a(g) of Title 12, Banks and Banking, prior to repeal by Pub. L. 111–203, title III, §369(3)(B), July 21, 2010, 124 Stat. 1558.
 

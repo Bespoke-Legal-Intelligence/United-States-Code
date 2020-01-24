@@ -8,7 +8,7 @@
 
 &emsp;(3) Providing assistance may not cause an increase in amounts required for the operation of the Coast Guard.
 
-(b) An individual (or the estate of that individual) who is authorized by the Coast Guard to provide a service under a program established under subsection (a) and who is acting within the scope of that individual's duties is not liable for injury to, or loss of, property or personal injury or death that may be caused incident to providing the service.
+(b) An individual (or the estate of that individual) who is authorized by the Coast Guard toprovide a service under a program established under subsection (a) and who is acting within the scope of that individual's duties is not liable for injury to, or loss of, property or personal injury or death that may be caused incident to providing the service.
 
 (Added Pub. L. 97–295, §2(6)(A), Oct. 12, 1982, 96 Stat. 1301, §147a; renumbered §708, Pub. L. 115–282, title I, §106(b), Dec. 4, 2018, 132 Stat. 4203.)
 

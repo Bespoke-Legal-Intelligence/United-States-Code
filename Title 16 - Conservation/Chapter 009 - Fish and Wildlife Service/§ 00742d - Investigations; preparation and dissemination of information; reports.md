@@ -6,7 +6,7 @@
 
 &emsp;(2) The availability and abundance and the biological requirements of the fish and wildlife resources;
 
-&emsp;(3) The competitive economic position of the various fish and fishery products with respect to each other, and with respect to competitive domestic and foreign-produced commodities;
+&emsp;(3) The competitive economic position of the various fish and fishery products with respectto each other, and with respect to competitive domestic and foreign-produced commodities;
 
 &emsp;(4) The collection and dissemination of statistics on commercial and sport fishing;
 

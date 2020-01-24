@@ -24,7 +24,7 @@ For purposes of this subpart:
 
 &emsp;(4) The term "final dosage form" means, with respect to a prescription drug product, a finished dosage form which is approved for administration to a patient without substantial further manufacturing (such as capsules, tablets, or lyophilized products before reconstitution).
 
-&emsp;(5) The term "prescription drug establishment" means a foreign or domestic place of business which is at one general physical location consisting of one or more buildings all of which are within five miles of each other and at which one or more prescription drug products are manufactured in final dosage form.For purposes of this paragraph, the term "manufactured" does not include packaging.
+&emsp;(5) The term "prescription drug establishment" means a foreign or domestic place of business which is at one general physical location consisting of one or more buildings all of which are within five miles of each other and at which one or more prescription drug products are manufactured in final dosage form. For purposes of this paragraph, the term "manufactured" does not include packaging.
 
 &emsp;(6) The term "process for the review of human drug applications" means the following activities of the Secretary with respect to the review of human drug applications and supplements:
 
@@ -120,7 +120,7 @@ Par. (6)(F). Pub. L. 107–188, §503(3), added subpar. (F).
 
 Par. (8). Pub. L. 107–188, §503(4), struck out designations of subpars. (A) and (B) and text of subpar. (B) and concluding provisions, substituting definition of "adjustment factor" as the Consumer Price Index for definition of Index as the lower of the Consumer Price Index or the total of discretionary budget authority provided for programs in the domestic category for the immediately preceding fiscal year divided by such budget authority for fiscal year 1997.
 
-<b>1997</b>—Par. (1). Pub. L. 105–115, §102(1), in closing provisions, struck out "and" before "does not include an application" and substituted "September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, and does not include an application or supplement submitted by a State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as described in subparagraph (D), of a large volume biological product intended for single dose injection for intravenous use or infusion" for "September 1, 1992" before period at end.
+<b>1997</b>—Par. (1). Pub. L. 105–115, §102(1), in closing provisions, struck out "and" before "does not include an application" and substituted "September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, and does not include an application or supplement submitted bya State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as described in subparagraph (D), of a large volume biological product intended for single dose injection for intravenous use or infusion" for "September 1, 1992" before period at end.
 
 Par. (1)(B) to (D). Pub. L. 105–115, §125(b)(2)(M), inserted "or" at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: "initial certification or initial approval of an antibiotic drug under section 357 of this title, or".
 
@@ -222,7 +222,7 @@ Performance Report.—Beginning with fiscal year 2003, not later than 60 days af
 
 "(c)
 
-Fiscal Report.—Beginning with fiscal year 2003, not later than 120 days after the end of each fiscal year during which fees are collected under the part described in subsection (b), the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made."
+Fiscal Report.—Beginning with fiscal year 2003, not later than 120 days after the end of each fiscal yearduring which fees are collected under the part described in subsection (b), the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made."
 
 #### Congressional Findings Concerning Fees Relating to Drugs
 
@@ -250,7 +250,7 @@ Pub. L. 107–188, title V, §502, June 12, 2002, 116 Stat. 687, provided that: 
 
 &emsp;&emsp;&emsp;"(iii) developing principles for improving first-cycle reviews; and
 
-&emsp;"(4) the fees authorized by amendments made in this subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 356b and 379h of this title\] will be dedicated towards expediting the drug development process and the process for the review of human drug applications as set forth in the goals identified for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the chairman of the Committee on Energy and Commerce of the House of Representatives and the chairman ofthe Committee on Health, Education, Labor and Pensions of the Senate, as set forth in the Congressional Record."
+&emsp;"(4) the fees authorized by amendments made in this subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 356b and 379h of this title\] will be dedicated towards expediting the drug development process and the process for the review of human drug applications as set forth in the goals identified for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the chairman of the Committee on Energy and Commerce of the House of Representatives and the chairman of the Committee on Health, Education, Labor and Pensions of the Senate, as set forth in the Congressional Record."
 
 Pub. L. 105–115, title I, §101, Nov. 21, 1997, 111 Stat. 2298, provided that: "Congress finds that—
 
@@ -268,7 +268,7 @@ Pub. L. 105–115, title I, §101, Nov. 21, 1997, 111 Stat. 2298, provided that:
 
 Pub. L. 102–571, title I, §102, Oct. 29, 1992, 106 Stat. 4491, provided that: "The Congress finds that—
 
-&emsp;"(1) prompt approval of safe and effective new drugs is critical to the improvement of the public health so that patients may enjoy the benefits provided by these therapies to treat and prevent illness and disease;
+&emsp;"(1) prompt approval of safe and effective new drugs is critical to the improvement of the public health sothat patients may enjoy the benefits provided by these therapies to treat and prevent illness and disease;
 
 &emsp;"(2) the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for review of human drug applications; and
 

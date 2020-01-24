@@ -50,7 +50,7 @@ In approving applications for educational opportunity centers under this section
 
 &emsp;(3) require an assurance that individuals participating in the project proposed in the application do not have access to services from another project funded under this section or under section 1070a–12 of this title.
 
-(Pub. L. 89–329, title IV, §402F, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 490; amended Pub. L. 110–315, title IV, §403(f), Aug. 14, 2008, 122 Stat. 3203.)
+(Pub. L. 89–329, title IV, §402F, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat.490; amended Pub. L. 110–315, title IV, §403(f), Aug. 14, 2008, 122 Stat. 3203.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; judicial circuit; terms of court
 
-There is established for and within the Northern Mariana Islands a court of record to be known as the District Court for the Northern Mariana Islands. The Northern Mariana Islandsshall constitute a part of the same judicial circuit of the United States as Guam. Terms of court shall be held on Saipan and at such other places and at such times as the court may designate by rule or order.
+There is established for and within the Northern Mariana Islands a court of record to be known as the District Court for the Northern Mariana Islands. The Northern Mariana Islands shall constitute a part of the same judicial circuit of the United States as Guam. Terms of court shall be held on Saipan and at such other places and at such times as the court may designate by rule or order.
 
 #### (b) Appointment, tenure, removal, compensation, etc., of District Court judge; appointment of United States attorney and United States marshal
 
@@ -16,7 +16,7 @@ There is established for and within the Northern Mariana Islands a court of reco
 
 #### (c) Applicability of Federal rules and statutory requirements
 
-Where appropriate, and except as otherwise provided in articles IV and V of the Covenant approved by the Act of March 24, 1976 (90 Stat. 263), the provisions of part II of title 18 and of titles <sup>1</sup> 28, the rules of practice and procedure heretofore or hereafter promulgated and made effective by the Congress or the Supreme Court of the United States pursuant to titles 11, 18, and 28 shall apply to the District Court for the Northern Mariana Islands and appeals therefrom; except that the terms "Attorney for the government" and "United States attorney", as used in the Federal Rules of Criminal Procedure, shall, when applicable to cases arising under the laws of the Northern Mariana Islands, include the Attorney General of the Northern Mariana Islands or such other person or persons as may be authorized by the laws of the Northern Mariana Islands to act therein.
+Where appropriate, and except as otherwise provided in articles IV and V of the Covenantapproved by the Act of March 24, 1976 (90 Stat. 263), the provisions of part II of title 18 and of titles <sup>1</sup> 28, the rules of practice and procedure heretofore or hereafter promulgated and made effective by the Congress or the Supreme Court of the United States pursuant to titles 11, 18, and 28 shall apply to the District Court for the Northern Mariana Islands and appeals therefrom; except that the terms "Attorney for the government" and "United States attorney", as used in the Federal Rules of Criminal Procedure, shall, when applicable to cases arising under the laws of the Northern Mariana Islands, include the Attorney General of the Northern Mariana Islands or such other person or persons as may be authorized by the laws of the Northern Mariana Islands to act therein.
 
 (Pub. L. 95–157, §1, Nov. 8, 1977, 91 Stat. 1265; Pub. L. 98–454, title IX, §901, Oct. 5, 1984, 98 Stat. 1744.)
 

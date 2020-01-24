@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 103–182, §633(3), substituted "chapter 98 of the Harmoni
 
 Subsec. (d). Pub. L. 95–410, §204, substituted "publication in the Federal Register" for "publication in the weekly Treasury Decisions".
 
-<b>1975</b>—Subsec. (d). Pub. L. 93–618, as amended by Pub. L. 96–39, inserted "or the imposition of countervailing duties under section 1303 of this title" after "antidumping duties".
+<b>1975</b>—Subsec. (d). Pub. L. 93–618, as amended by Pub. L. 96–39, inserted "or the imposition of countervailingduties under section 1303 of this title" after "antidumping duties".
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–271 substituted reference to the appropriate customs officer for reference to the collector.
 

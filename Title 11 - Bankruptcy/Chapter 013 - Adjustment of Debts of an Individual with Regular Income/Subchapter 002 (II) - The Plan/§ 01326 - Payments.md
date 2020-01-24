@@ -60,7 +60,7 @@ Subsection (a) requires that before or at the time of each payment any outstandi
 
 "(a)(1) Unless the court orders otherwise, the debtor shall commence making the payments proposed by a plan within 30 days after the plan is filed.
 
-"(2) A payment made under this subsection shall be retained by the trustee until confirmation or denial ofconfirmation of a plan. If a plan is confirmed, the trustee shall distribute any such payment in accordance with the plan as soon as practicable. If a plan is not confirmed, the trustee shall return any such payment to the debtor, after deducting any unpaid claim allowed under section 503(b) of this title."
+"(2) A payment made under this subsection shall be retained by the trustee until confirmation or denial of confirmation of a plan. If a plan is confirmed, the trustee shall distribute any such payment in accordance with the plan as soon as practicable. If a plan is not confirmed, the trustee shall return any such payment to the debtor, after deducting any unpaid claim allowed under section 503(b) of this title."
 
 Subsec. (b)(1). Pub. L. 109–8, §1502(a)(10), substituted "507(a)(2)" for "507(a)(1)".
 

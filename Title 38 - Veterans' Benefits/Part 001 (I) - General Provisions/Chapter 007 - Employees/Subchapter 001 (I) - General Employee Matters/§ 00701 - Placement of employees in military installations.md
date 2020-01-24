@@ -34,7 +34,7 @@ Definition of Qualified Former Employee.—For purposes of this section, the ter
 
 #### Promotional Opportunities for Technical Experts at Department of Veterans Affairs
 
-Pub. L. 115–46, title II, §205, Aug. 12, 2017, 131 Stat. 963, provided that: "Not later than one year after the date of the enactment of this Act \[Aug. 12, 2017\], the Secretary of Veterans Affairs shall establish a promotional track system for employees of the Department of Veterans Affairs that the Secretary determines are technical experts pursuant to regulations prescribed by the Secretary for purposes of carrying out this section. Such system shall—
+Pub. L. 115–46, title II, §205, Aug. 12, 2017, 131 Stat. 963, provided that: "Not later than one year after thedate of the enactment of this Act \[Aug. 12, 2017\], the Secretary of Veterans Affairs shall establish a promotional track system for employees of the Department of Veterans Affairs that the Secretary determines are technical experts pursuant to regulations prescribed by the Secretary for purposes of carrying out this section. Such system shall—
 
 &emsp;"(1) provide any such employee the opportunity to advance within the Department without being required to transition to a management position; and
 

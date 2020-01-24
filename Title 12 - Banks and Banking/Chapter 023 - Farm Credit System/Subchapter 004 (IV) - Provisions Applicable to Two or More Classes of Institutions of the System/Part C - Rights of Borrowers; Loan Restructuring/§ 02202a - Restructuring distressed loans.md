@@ -152,7 +152,7 @@ If two or more restructuring alternatives are available to a qualified lender un
 
 #### (1) Establishment
 
-&emsp;Each bank board of directors shall develop a policy within 60 days after January 6, 1988,that is consistent with this section, to govern the restructuring of distressed loans. Such policy shall constitute the restructuring policy of each qualified lender within the district.
+&emsp;Each bank board of directors shall develop a policy within 60 days after January 6, 1988, that is consistent with this section, to govern the restructuring of distressed loans. Such policy shall constitute the restructuring policy of each qualified lender within the district.
 
 #### (2) Contents of policy
 

@@ -60,7 +60,7 @@ The database or similar resource described in subsection (c) shall—
 
 #### (e) Certification required
 
-Before providing confirmation of fraud protection data to a permitted entity, the Commissioner shall ensure that the Commissioner has a certification from the permitted entity that is dated not more than 2 years before the date onwhich that confirmation is provided that includes the following declarations:
+Before providing confirmation of fraud protection data to a permitted entity, the Commissioner shall ensure that the Commissioner has a certification from the permitted entity that is dated not more than 2 years before the date on which that confirmation is provided that includes the following declarations:
 
 &emsp;(1) The entity is a permitted entity.
 
@@ -106,7 +106,7 @@ Before providing confirmation of fraud protection data to a permitted entity, th
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, including the matter preceding paragraph (1) of section 505(a) of the Gramm-Leach-Bliley Act (15 U.S.C. 6805(a)), any violation of this section and any certification made under this section shall be enforced in accordance with paragraphs (1) through (7) of such section 505(a) by the agencies described in those paragraphs.
+&emsp;&emsp;Notwithstanding any other provision of law, including the matter preceding paragraph (1) of section 505(a) of the Gramm-Leach-Bliley Act (15 U.S.C. 6805(a)), any violation of this section and any certification made under this section shall be enforced in accordance with paragraphs (1) through (7)of such section 505(a) by the agencies described in those paragraphs.
 
 #### (B) Relevant information
 
@@ -140,7 +140,7 @@ Before providing confirmation of fraud protection data to a permitted entity, th
 
 #### References in Text
 
-The Gramm-Leach-Bliley Act, referred to in subsec. (e)(3), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338.Title V of the Act is classified principally to chapter 94 (§6801 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+The Gramm-Leach-Bliley Act, referred to in subsec. (e)(3), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Title V of the Act is classified principally to chapter 94 (§6801 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 #### Codification
 

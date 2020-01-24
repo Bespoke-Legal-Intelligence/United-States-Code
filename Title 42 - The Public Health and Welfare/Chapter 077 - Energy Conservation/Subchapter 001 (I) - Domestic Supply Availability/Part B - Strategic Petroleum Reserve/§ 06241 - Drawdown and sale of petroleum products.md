@@ -8,7 +8,7 @@ The Secretary may drawdown and sell petroleum products in the Reserve only in ac
 
 #### (d) Presidential finding prerequisite to drawdown and sale
 
-(1) Drawdown and sale of petroleum products from the Strategic Petroleum Reserve may not be made unless the President has found drawdown and sale are required by a severe energy supply interruption or by obligations of the United States under the international energy program.
+(1) Drawdown and sale of petroleum products from the Strategic Petroleum Reserve may notbe made unless the President has found drawdown and sale are required by a severe energy supply interruption or by obligations of the United States under the international energy program.
 
 (2) For purposes of this section, in addition to the circumstances set forth in section 6202(8) of this title, a severe energy supply interruption shall be deemed to exist if the President determines that—
 
@@ -74,7 +74,7 @@ Report.—A detailed description submitted under clause (i) may be included as p
 
 &emsp;(B) action taken under this subsection would assist directly and significantly in preventing or reducing the adverse impact of such shortage;
 
-&emsp;(C) the Secretary has found that action taken under this subsection will not impairthe ability of the United States to carry out obligations of the United States under the international energy program; and
+&emsp;(C) the Secretary has found that action taken under this subsection will not impair the ability of the United States to carry out obligations of the United States under the international energy program; and
 
 &emsp;(D) the Secretary of Defense has found that action taken under this subsection will not impair national security,
 
@@ -160,7 +160,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 #### (B) Portion of quantity of previous imports
 
-&emsp;&emsp;The Secretary may limit the quantity of a petroleum product that the State of Hawaii may purchase through a binding offer at any offering to 1/12 of the total quantity of imports of the petroleum product brought into the State during the previous year (or otherperiod determined by the Secretary to be representative).
+&emsp;&emsp;The Secretary may limit the quantity of a petroleum product that the State of Hawaii may purchase through a binding offer at any offering to 1/12 of the total quantity of imports of the petroleum product brought into the State during the previous year (or other period determined by the Secretary to be representative).
 
 #### (C) Percentage of offering
 
@@ -182,7 +182,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 #### (C) Downward adjustment
 
-&emsp;&emsp;The Secretary shall adjust downward to the next whole number increment of a full tanker load if the quantity to be sold is less than 50 percent of a full tanker load more than a whole number increment of a full tanker load.
+&emsp;&emsp;The Secretary shall adjust downward to the next whole number increment of a fulltanker load if the quantity to be sold is less than 50 percent of a full tanker load more than a whole number increment of a full tanker load.
 
 #### (5) Delivery to other locations
 
@@ -242,7 +242,7 @@ Subsec. (e). Pub. L. 106–469, §103(15)(E), amended subsec. (e) generally. Pri
 
 Subsec. (f). Pub. L. 106–469, §103(15)(C), struck out subsec. (f) which read as follows: "The Secretary may permit any importer or refiner who owns any petroleum products stored in the Industrial Petroleum Reserve pursuant to section 6236 of this title to remove or otherwise dispose of such products upon such terms and conditions as the Secretary may prescribe."
 
-Subsec. (g)(1). Pub. L. 106–469, §103(15)(F)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Secretary shall conduct a continuing evaluation of the Distribution Plan. In the conduct of such evaluation, the Secretary is authorized to carry out test drawdown and distribution of crude oil from the Reserve. If any such test drawdown includes the sale or exchange of crude oil, then the aggregate quantity of crude oil withdrawn from the Reserve may not exceed 5,000,000 barrels during any such test drawdown or distribution."
+Subsec. (g)(1). Pub. L. 106–469, §103(15)(F)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Secretary shall conduct a continuing evaluation of the Distribution Plan. In the conduct of such evaluation, the Secretary is authorized to carry out test drawdown and distribution of crude oil from the Reserve. If any such test drawdown includes the sale or exchange of crude oil, then the aggregate quantity of crude oil withdrawn from the Reserve may notexceed 5,000,000 barrels during any such test drawdown or distribution."
 
 Subsec. (g)(2). Pub. L. 106–469, §103(15)(F)(ii), struck out par. (2) which read as follows: "The Secretary shall carry out such drawdown and distribution in accordance with the Distribution Plan and implementing regulations and contract provisions, modified as the Secretary considers appropriate taking into consideration the artificialities of a test and the absence of a severe energy supply interruption. To meet the requirements of subsections (d) and (e) of section 6239 of this title, the Secretary shall transmit any such modification of the Plan, along with explanatory and supporting material, to both Houses of the Congress no later than 15 calendar days prior to the offering of any crude oil for sale under this subsection."
 
@@ -311,6 +311,8 @@ Administrative procedure.—Regulations issued to carry out the amendment made b
 #### Strategic Petroleum Reserve Drawdown and Sale
 
 Provisions related to drawdown and sale from the Strategic Petroleum Reserve were contained in the following acts:
+
+Pub. L. 116–94, div. C, title III, Dec. 20, 2019, 133 Stat. 2671.
 
 Pub. L. 115–270, title III, §3009, Oct. 23, 2018, 132 Stat. 3870.
 

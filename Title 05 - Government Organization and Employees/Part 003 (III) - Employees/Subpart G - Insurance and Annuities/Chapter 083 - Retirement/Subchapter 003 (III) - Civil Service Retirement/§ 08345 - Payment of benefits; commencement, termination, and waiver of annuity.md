@@ -28,7 +28,7 @@
 
 \[(f) Repealed. Pub. L. 99–251, title III, §305(a), Feb. 27, 1986, 100 Stat. 26.\]
 
-(g) The Office shall prescribe regulations to provide that the amount of any monthly annuity payable under this section accruing for any month and which is computed with regard to service that includes any service referred to in section 8332(b)(6) performed by an individual prior to January 1, 1969, shall be reduced by the portion of any benefits under any State retirement system to which such individual is entitled (or on proper application would be entitled) for such month which is attributable to such service performed by such individual before such date.
+(g) The Office shall prescribe regulations to provide that the amount of any monthly annuity payable under this section accruing for any month and which is computed with regard to service that includes any service referred to in section 8332(b)(6) performed by an individual prior to January 1, 1969, shall be reduced by the portion of any benefits under any State retirement system to which such individual is entitled (or on proper application would be entitled) for such month which is attributable to suchservice performed by such individual before such date.
 
 (h) An individual entitled to an annuity from the Fund may make allotments or assignments of amounts from his annuity for such purposes as the Office of Personnel Management in its sole discretion considers appropriate.
 
@@ -42,7 +42,7 @@
 
 &emsp;(B) any court order or other similar process in the nature of garnishment for the enforcement of a judgment rendered against such employee, Member, or annuitant, for physically, sexually, or emotionally abusing a child.
 
-> In the event that the Office is served with more than 1 decree, order, or other legal process withrespect to the same moneys due or payable to any individual, such moneys shall be available to satisfy such processes on a first-come, first-served basis, with any such process being satisfied out of such moneys as remain after the satisfaction of all such processes which have been previously served.
+> In the event that the Office is served with more than 1 decree, order, or other legal process with respect to the same moneys due or payable to any individual, such moneys shall be available to satisfy such processes on a first-come, first-served basis, with any such process being satisfied out of such moneys as remain after the satisfaction of all such processes which have been previously served.
 
 (2) Paragraph (1) shall only apply to payments made by the Office under this subchapter after the date of receipt in the Office of written notice of such decree, order, other legal process, or agreement, and such additional information and documentation as the Office may prescribe.
 
@@ -166,7 +166,7 @@ Section 1705(b) of Pub. L. 97–35 provided that: "The amendment made by subsect
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-Section 2 of Pub. L. 95–366 provided that: "The amendments made by the first section of this Act \[amending this section and section 8346 of this title\] shall only apply to payments made from the Civil Service Retirement and Disability Fund after the date of the enactment of this Act \[Sept. 15, 1978\]."
+Section 2 of Pub. L. 95–366 provided that: "The amendments made by the first section of this Act\[amending this section and section 8346 of this title\] shall only apply to payments made from the Civil Service Retirement and Disability Fund after the date of the enactment of this Act \[Sept. 15, 1978\]."
 
 #### Effective Date of 1975 Amendment
 
@@ -190,7 +190,7 @@ Savings Provision.—An annuity payable from the Civil Service Retirement and Di
 
 "(c)
 
-Ratification of Erroneous Payments.—Any individual to whom an overpayment of an annuity has been made from the Civil Service Retirement and Disability Fund before the date of enactment of this Act \[Feb. 27, 1986\] shall be deemed to have been entitled tothat overpayment if and to the extent that such overpayment resulted from the manner in which the Office of Personnel Management has administered section 8345(f) of title 5, United States Code.
+Ratification of Erroneous Payments.—Any individual to whom an overpayment of an annuity has been made from the Civil Service Retirement and Disability Fund before the date of enactment of this Act \[Feb. 27, 1986\] shall be deemed to have been entitled to that overpayment if and to the extent that such overpayment resulted from the manner in which the Office of Personnel Management has administered section 8345(f) of title 5, United States Code.
 
 "(d)
 

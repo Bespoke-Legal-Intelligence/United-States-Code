@@ -44,7 +44,7 @@ Subsec. (a)(2). Pub. L. 111–39, §407(b)(12)(B), substituted "The Secretary sh
 
 Subsec. (a)(2). Pub. L. 110–315, §494D(a)(2), struck out ", as amended by the Higher Education Amendments of 1998" before "through such mechanisms".
 
-Subsec. (b)(1). Pub. L. 110–315, §494D(b), struck out "as amended by the Higher Education Amendments of 1998" before "and shall submit", substituted "The Secretary" for "To the extent possible, the Secretary", and inserted "with demonstrated expertise or experience in the relevant subjects under negotiation," after "select individuals".
+Subsec. (b)(1). Pub. L. 110–315, §494D(b), struck out "as amended by the Higher Education Amendments of 1998" before "and shall submit", substituted "The Secretary" for "To the extent possible, the Secretary",and inserted "with demonstrated expertise or experience in the relevant subjects under negotiation," after "select individuals".
 
 <b>1998</b>—Subsec. (a)(1). Pub. L. 105–244, §490D(a)(1)(C), substituted "The Secretary shall obtain the advice of and recommendations from" for "Such meetings shall include".
 

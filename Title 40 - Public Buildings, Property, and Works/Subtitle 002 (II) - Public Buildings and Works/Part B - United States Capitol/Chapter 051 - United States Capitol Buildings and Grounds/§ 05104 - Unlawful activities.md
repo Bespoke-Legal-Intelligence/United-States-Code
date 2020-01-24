@@ -148,7 +148,7 @@ July 31, 1946, ch. 707, §6, 60 Stat. 718; Pub. L. 87–571, Aug. 6, 1962, 76 St
 
 40:193g.
 
-In subsection (a)(3), the words "section 841(d) of title 18" are substituted for "section 121(1) of title 50" because of the enactment of 18:ch. 39 and the repeal of the provisions classified to 50:121(1) by sections 1102 and 1106(a) of the Organized Crime Control Act of 1970 (Public Law 91–452, 84 Stat. 952, 960). The plural form "explosives" is used because that is the term defined in 18:841(d).
+In subsection (a)(3), the words "section 841(d) of title 18" are substituted for "section 121(1) of title 50" because of the enactment of 18:ch. 39 and the repeal of theprovisions classified to 50:121(1) by sections 1102 and 1106(a) of the Organized Crime Control Act of 1970 (Public Law 91–452, 84 Stat. 952, 960). The plural form "explosives" is used because that is the term defined in 18:841(d).
 
 In subsection (a)(4), the words "section 921(3) of title 18" are substituted for "section 901(3) of title 15" because of the enactment of 18:ch. 44 and the repeal of the provisions classified to 15:901(3) by sections 902 and 906 of the Omnibus Crime Control and Safe Streets Act of 1968 (Public Law 90–351, 82 Stat. 226, 234).
 

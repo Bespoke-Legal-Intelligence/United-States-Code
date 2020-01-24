@@ -22,7 +22,7 @@
 
 &emsp;&emsp;Not later than 90 days after the date on which each Annual Report is submitted under section 6412(b) of this title, the President shall—
 
-&emsp;&emsp;&emsp;(i) review the status of religious freedom in each foreign country to determine whether the government of that country has engaged in or tolerated particularlysevere violations of religious freedom in each such country during the preceding 12 months or longer;
+&emsp;&emsp;&emsp;(i) review the status of religious freedom in each foreign country to determine whether the government of that country has engaged in or tolerated particularly severe violations of religious freedom in each such country during the preceding 12 months or longer;
 
 &emsp;&emsp;&emsp;(ii) designate each country the government of which has engaged in or tolerated violations described in clause (i) as a country of particular concern for religious freedom; and
 
@@ -138,7 +138,7 @@ Subsec. (b)(3). Pub. L. 114–281, §302(1)(B), amended par. (3) generally. Prio
 
 Subsec. (b)(4). Pub. L. 114–281, §302(1)(C), added par. (4).
 
-Subsec. (c)(5). Pub. L. 114–281, §302(2), substituted "the President shall designate the specific sanction or sanctions that the President determines satisfy the requirements under this subsection and include a description of the impact of such sanction or sanctions on each country." for "the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection."
+Subsec. (c)(5). Pub. L. 114–281, §302(2), substituted "the President shall designate the specific sanction orsanctions that the President determines satisfy the requirements under this subsection and include a description of the impact of such sanction or sanctions on each country." for "the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection."
 
 <b>1999</b>—Subsec. (c)(1). Pub. L. 106–55, §2(a)(1), substituted "(4), and (5)" for "and (4)" in introductory provisions.
 

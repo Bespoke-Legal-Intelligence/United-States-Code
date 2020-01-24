@@ -158,7 +158,7 @@
 
 &emsp;If the Secretary determines, for 2 consecutive years, that a State needs assistance under subsection (d)(2)(A)(ii) in implementing the requirements of this subchapter, the Secretary shall take 1 or more of the following actions:
 
-&emsp;&emsp;(A) Advise the State of available sources of technical assistance that may help the State address the areas in which the State needs assistance, which may include assistance from the Office of Special Education Programs, other offices of the Department of Education, other Federal agencies, technical assistance providers approved by the Secretary, and other federally funded nonprofitagencies, and require the State to work with appropriate entities. Such technical assistance may include—
+&emsp;&emsp;(A) Advise the State of available sources of technical assistance that may help the State address the areas in which the State needs assistance, which may include assistance from the Office of Special Education Programs, other offices of the Department of Education, other Federal agencies, technical assistance providers approved by the Secretary, and other federally funded nonprofit agencies, and require the State to work with appropriate entities. Such technical assistance may include—
 
 &emsp;&emsp;&emsp;(i) the provision of advice by experts to address the areas in which the State needs assistance, including explicit plans for addressing the area for concern within a specified period of time;
 
@@ -182,7 +182,7 @@
 
 &emsp;&emsp;&emsp;(i) Require the State to prepare a corrective action plan or improvement plan if the Secretary determines that the State should be able to correct the problem within 1 year.
 
-&emsp;&emsp;&emsp;(ii) Require the State to enter into a compliance agreement under section 457 of the General Education Provisions Act \[20 U.S.C. 1234f\], if the Secretary has reason to believe that the State cannot correct the problem within 1 year.
+&emsp;&emsp;&emsp;(ii) Require the State to enter into a compliance agreement under section 457 of the General Education Provisions Act \[20U.S.C. 1234f\], if the Secretary has reason to believe that the State cannot correct the problem within 1 year.
 
 &emsp;&emsp;&emsp;(iii) For each year of the determination, withhold not less than 20 percent and not more than 50 percent of the State's funds under section 1411(e) of this title, until the Secretary determines the State has sufficiently addressed the areas in which the State needs intervention.
 
@@ -252,7 +252,7 @@
 
 #### (C) Standard of review
 
-&emsp;&emsp;The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive, but the court, for good cause shown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary's previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall be conclusive if supported by substantial evidence.
+&emsp;&emsp;The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive, but the court, for good causeshown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary's previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall be conclusive if supported by substantial evidence.
 
 #### (f) State enforcement
 
@@ -289,4 +289,8 @@ The General Education Provisions Act, referred to in subsec. (g), is title IV of
 A prior section 1416, Pub. L. 91–230, title VI, §616, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 99, related to withholding of payments and judicial review, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1416, Pub. L. 91–230, title VI, §616, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 789; amended Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, §102(f), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101–476, title IX, §901(b)(76), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to withholding of payments, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

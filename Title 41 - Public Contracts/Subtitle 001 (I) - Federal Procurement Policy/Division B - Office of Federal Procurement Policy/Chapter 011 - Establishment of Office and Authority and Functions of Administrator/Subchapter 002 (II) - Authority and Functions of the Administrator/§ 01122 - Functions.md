@@ -26,9 +26,9 @@ In General.—The functions of the Administrator include—
 
 &emsp;(10) providing for a Government-wide award to recognize and promote excellence in officers and employees of the Federal Government serving in procurement-related positions;
 
-&emsp;(11) developing policies, in consultation with the Administrator of the Small Business Administration, that ensure that small businesses, qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act (15 U.S.C. 632(p))), small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women are provided with the maximum practicable opportunities to participate in procurements that are conducted for amounts below the simplified acquisition threshold;
+&emsp;(11) developing policies, in consultation with the Administrator of the Small Business Administration, that ensure that small businesses, qualified HUBZone small business concerns (as defined in section 31(b) of the Small Business Act), small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women are provided with the maximum practicable opportunities to participate in procurements that are conducted for amounts below the simplified acquisition threshold;
 
-&emsp;(12) developing policies that will promote achievement of goals for participation by small businesses, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act (15 U.S.C. 632(p))), small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women; and
+&emsp;(12) developing policies that will promote achievement of goals for participation by small businesses, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns (as defined in section 31(b) of the Small Business Act), small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women; and
 
 &emsp;(13) completing action, as appropriate, on the recommendations of the Commission on Government Procurement.
 
@@ -63,10 +63,6 @@ Within office.—The Administrator may make and authorize delegations within the
 To another executive agency.—The Administrator may delegate, and authorize successive redelegations of, an authority, function, or power of the Administrator under this division (other than the authority to provide overall direction of Federal procurement policy and to prescribe policies and regulations to carry out the policy) to another executive agency with the consent of the head of the executive agency or at the direction of the President.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3685; Pub. L. 112–81, div. A, title VIII, §864(b)(3), Dec. 31, 2011, 125 Stat. 1524; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(F)(i), Dec. 12, 2017, 131 Stat. 1796.)
-
-#### Amendment of Paragraphs (11) and (12)
-
-<i>Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(F)(i), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, provided that, effective Jan. 1, 2020, this section is amended by striking "section 3(p) of the Small Business Act (15 U.S.C. 632(p))" each place it appears and inserting "section 31(b) of the Small Business Act". See 2017 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -108,15 +104,27 @@ Pub. L. 93–400, §12, Aug. 30, 1974, 88 Stat. 799; Pub. L. 96–83, §8, Oct. 
 
 In clause (12), the words "small business concerns owned and controlled by service-disabled veterans" are added to conform to section 15(g)(1) of the Small Business Act (15:644(g)(1)).
 
+#### References in Text
+
+Section 31(b) of the Small Business Act, referred to in subsec. (a)(11), (12), is classified to section 657a(b) of Title 15, Commerce and Trade.
+
 #### Amendments
 
-<b>2017</b>—Pars. (11), (12). Pub. L. 115–91, §1701(a)(4)(F)(i), substituted "section 31(b) of the Small Business Act" for "section 3(p) of the Small Business Act (15 U.S.C. 632(p))".
+<b>2017</b>—Subsec. (a)(11), (12). Pub. L. 115–91, §1701(a)(4)(F)(i), substituted "section 31(b) of the Small Business Act" for "section 3(p) of the Small Business Act (15 U.S.C. 632(p))".
 
 <b>2011</b>—Subsec. (a)(5). Pub. L. 112–81 amended par. (5) generally. Prior to amendment, par. (5) related to the purposes of the activities of the Federal Acquisition Institute.
 
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 657a of Title 15, Commerce and Trade.
+
+#### Revision to the Federal Procurement Data System
+
+Pub. L. 116–92, div. A, title VIII, §806(b), Dec. 20, 2019, 133 Stat. 1485, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Administrator of General Services, in coordination with the Administrator for Federal Procurement Policy, shall direct appropriate revisions to the Federal procurement data system established pursuant to section 1122(a)(4) of title 41, United States Code (or any successor system), to facilitate the collection of complete, timely, and reliable data on the source selection processes used by Federal agencies for the contract actions being reported in the system. The Administrator of General Services shall ensure that data are collected—
+
+&emsp;"(1) at a minimum, on the usage of the lowest price technically acceptable contracting methods and best value contracting methods process; and
+
+&emsp;"(2) on all applicable contracting actions, including task orders or delivery orders issued under indefinite delivery-indefinite quantity contracts."
 
 #### Procurement Administrative Lead Time Definition and Plan
 
@@ -154,7 +162,7 @@ Use of Existing Procurement Data System.—In developing the plan for measuring 
 
 #### Pilot Program To Inventory Cost and Size of Service Contracts
 
-Pub. L. 110–161, div. D, title VII, §748, Dec. 26, 2007, 121 Stat. 2035, provided that: "No later than 180 days afterenactment of this Act \[Dec. 26, 2007\], the Office of Management and Budget shall establish a pilot program to develop and implement an inventory to track the cost and size (in contractor manpower equivalents) of service contracts, particularly with respect to contracts that have been performed poorly by a contractor because of excessive costs or inferior quality, as determined by a contracting officer within the last five years, involve inherently governmental functions, or were undertaken without competition. The pilot program shall be established in at least three Cabinet-level departments, based on varying levels of annual contracting for services, as reported by the Federal Procurement Data System's Federal Procurement Report for fiscal year 2005, including at least one Cabinet-level department that contracts out annually for $10,000,000,000 or more in services, at least one Cabinet-level department that contracts out annually for between $5,000,000,000 and $9,000,000,000 in services, and at least one Cabinet-level department that contracts out annually for under $5,000,000,000 in services."
+Pub. L. 110–161, div. D, title VII, §748, Dec. 26, 2007, 121 Stat. 2035, provided that: "No later than 180 days after enactment of this Act \[Dec. 26, 2007\], the Office of Management and Budget shall establish a pilot program to develop and implement an inventory to track the cost and size (in contractor manpower equivalents) of service contracts, particularly with respect to contracts that have been performed poorly by a contractor because of excessive costs or inferior quality, as determined by a contracting officer within the last five years, involve inherently governmental functions, or were undertaken without competition. The pilot program shall be established in at least three Cabinet-level departments, based on varying levels of annual contracting for services, as reported by the Federal Procurement Data System's Federal Procurement Report for fiscal year 2005, including at least one Cabinet-level department that contracts out annually for $10,000,000,000 or more in services, at least one Cabinet-level department that contracts out annually for between $5,000,000,000 and $9,000,000,000 in services, and at least one Cabinet-level department that contracts out annually for under $5,000,000,000 in services."
 
 #### Reporting of Bundled Contract Opportunities
 

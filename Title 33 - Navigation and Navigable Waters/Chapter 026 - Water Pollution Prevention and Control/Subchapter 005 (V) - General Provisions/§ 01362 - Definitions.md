@@ -30,7 +30,7 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (14) The term "point source" means any discernible, confined and discrete conveyance, including but not limited to any pipe, ditch, channel, tunnel, conduit, well, discrete fissure, container, rolling stock, concentrated animal feeding operation, or vessel or other floating craft, from which pollutants are or may be discharged. This term does not include agricultural stormwater discharges and return flows from irrigated agriculture.
 
-(15) The term "biological monitoring" shall mean the determination of the effects on aquatic life, including accumulation of pollutants in tissue, in receiving waters due to the discharge of pollutants (A) by techniques and procedures, including sampling of organisms representative of appropriate levels of the food chain appropriate to the volume and the physical, chemical, and biological characteristics of the effluent, and (B) at appropriate frequencies and locations.
+(15) The term "biological monitoring" shall mean the determination of the effects on aquatic life, including accumulation of pollutants in tissue, in receiving waters due to the discharge of pollutants (A) by techniques and procedures, including sampling of organisms representativeof appropriate levels of the food chain appropriate to the volume and the physical, chemical, and biological characteristics of the effluent, and (B) at appropriate frequencies and locations.
 
 (16) The term "discharge" when used without qualification includes a discharge of a pollutant, and a discharge of pollutants.
 
@@ -120,7 +120,7 @@ Treatment works.—The term "treatment works" has the meaning given the term in 
 
 Green infrastructure.—The term "green infrastructure" means the range of measures that use plant or soil systems, permeable pavement or other permeable surfaces or substrates, stormwater harvest and reuse, or landscaping to store, infiltrate, or evapotranspirate stormwater and reduce flows to sewer systems or to surface waters.
 
-(June 30, 1948, ch. 758, title V, §502, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 886; amended Pub. L. 95–217, §33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, §3202(a), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, §325(c)(3), Feb. 10, 1996, 110 Stat. 259;Pub. L. 106–284, §5, Oct. 10, 2000, 114 Stat. 875; Pub. L. 109–58, title III, §323, Aug. 8, 2005, 119 Stat. 694; Pub. L. 110–288, §3, July 29, 2008, 122 Stat. 2650; Pub. L. 113–121, title V, §5012(b), June 10, 2014, 128 Stat. 1328; Pub. L. 115–436, §5(a), Jan. 14, 2019, 132 Stat. 5561.)
+(June 30, 1948, ch. 758, title V, §502, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 886; amended Pub. L. 95–217, §33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, §3202(a), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, §325(c)(3), Feb. 10, 1996, 110 Stat. 259; Pub. L. 106–284, §5, Oct. 10, 2000, 114 Stat. 875; Pub. L. 109–58, title III, §323, Aug. 8, 2005, 119 Stat. 694; Pub. L. 110–288, §3, July 29, 2008, 122 Stat. 2650; Pub. L. 113–121, title V, §5012(b), June 10, 2014, 128 Stat. 1328; Pub. L. 115–436, §5(a), Jan. 14, 2019, 132 Stat. 5561.)
 
 #### Amendments
 
@@ -154,7 +154,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Territorial Sea and Contiguous Zone of United States
 
-For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
+For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219,respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
 #### Definition of "Point Source"
 

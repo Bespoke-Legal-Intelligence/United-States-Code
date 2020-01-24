@@ -46,7 +46,7 @@ A prior section 3121, Pub. L. 89–136, §2, Aug. 26, 1965, 79 Stat. 552; Pub. L
 
 #### Effective Date
 
-Pub. L. 105–393, title I, §105, Nov. 13, 1998, 112 Stat. 3618, provided that: "This title \[see Short Title of 1998 Amendment note set out below\] and the amendments made by this title shall take effect on a date determined by the Secretary of Commerce, but not later than 90 days after the date of enactment of this Act \[Nov. 13, 1998\]." \[Effective Feb. 11, 1999, see 64 F.R. 9222.\]
+Pub. L. 105–393, title I, §105, Nov. 13, 1998, 112 Stat. 3618, provided that: "This title \[see Short Title of 1998Amendment note set out below\] and the amendments made by this title shall take effect on a date determined by the Secretary of Commerce, but not later than 90 days after the date of enactment of this Act \[Nov. 13, 1998\]." \[Effective Feb. 11, 1999, see 64 F.R. 9222.\]
 
 #### Short Title of 2004 Amendment
 
@@ -60,7 +60,7 @@ Pub. L. 105–393, title I, §101, Nov. 13, 1998, 112 Stat. 3597, provided that:
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: "This Act \[enacting sections 3137, 3144, 3173, and 3246h of this title, amending this section and sections 3131, 3132, 3135, 3141, 3142, 3151a, 3152, 3153, 3161, 3171, 3172, 3188a, 3214, 3241, 3243, 3245, 3246a to 3246c, and 3246e to 3246g of this title, repealing section 3246d of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 3162 of this title\] may be cited as the'Public Works and Economic Development Act Amendments of 1976'."
+Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: "This Act \[enacting sections 3137, 3144, 3173, and 3246h of this title, amending this section and sections 3131, 3132, 3135, 3141, 3142, 3151a, 3152, 3153, 3161, 3171, 3172, 3188a, 3214, 3241, 3243, 3245, 3246a to 3246c, and 3246e to 3246g of this title, repealing section 3246d of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 3162 of this title\] may be cited as the 'Public Works and Economic Development Act Amendments of 1976'."
 
 #### Short Title of 1975 Amendments
 
@@ -292,7 +292,7 @@ Review by Federal Cochairperson.—
 
 &emsp;"(1)
 
-In general.—Upon receiving a work plan under this section, the Secretary, acting through the Federal Cochairperson, shall publish the work plan in the Federal Register, with notice and an opportunity for public comment. The period for public review andcomment shall be the 30-day period beginning on the date of publication of that notice.
+In general.—Upon receiving a work plan under this section, the Secretary, acting through the Federal Cochairperson, shall publish the work plan in the Federal Register, with notice and an opportunity for public comment. The period for public review and comment shall be the 30-day period beginning on the date of publication of that notice.
 
 &emsp;"(2)
 
@@ -368,7 +368,7 @@ In general.—The Federal Cochairperson of the Commission may, without regard to
 
 &emsp;"(2)
 
-Compensation.—The Federal Cochairperson of the Commission may fix the compensation of personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
+Compensation.—The Federal Cochairperson of the Commission may fix the compensation of personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United StatesCode, relating to classification of positions and General Schedule pay rates.
 
 "(d)
 
@@ -650,5 +650,5 @@ Sec. 4. <i>(a) "Agency" means an executive agency as defined in 5 U.S.C. 105.</i
 
 (b) The "Southwest Border" or "Southwest Border region" is defined as including the areas up to 150 miles north of the United States-Mexican border in the States of Arizona, New Mexico, Texas, and California.
 
-Sec. 5. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceableat law by a party against the United States, its agencies, its officers, or any person.
+Sec. 5. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 

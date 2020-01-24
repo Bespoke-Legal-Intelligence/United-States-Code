@@ -2,7 +2,7 @@
 
 (a) The Administrator may authorize term appointments within the Administration under subchapter I of chapter 33, for a period of not less than 1 year and not more than 6 years.
 
-(b) Notwithstanding chapter 33 or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, the Administrator may convert an employee serving under a term appointment to a permanent appointment in thecompetitive service within the Administration without further competition if—
+(b) Notwithstanding chapter 33 or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, the Administrator may convert an employee serving under a term appointment to a permanent appointment in the competitive service within the Administration without further competition if—
 
 &emsp;(1) such individual was appointed under open, competitive examination under subchapter I of chapter 33 to the term position;
 

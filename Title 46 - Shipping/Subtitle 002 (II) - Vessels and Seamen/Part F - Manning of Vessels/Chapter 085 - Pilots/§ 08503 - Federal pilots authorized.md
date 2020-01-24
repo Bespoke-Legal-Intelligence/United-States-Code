@@ -18,7 +18,7 @@
 
 (c) For the Saint Lawrence Seaway, the Secretary may not delegate the authority under this section to an agency except the Saint Lawrence Seaway Development Corporation.
 
-(d) A person violating this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty ofnot more than $25,000. Each day of a continuing violation is a separate violation. The vessel also is liable in rem for the penalty.
+(d) A person violating this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of not more than $25,000. Each day of a continuing violation is a separate violation. The vessel also is liable in rem for the penalty.
 
 (e) A person that knowingly violates this section or a regulation prescribed under this section commits a class D felony.
 

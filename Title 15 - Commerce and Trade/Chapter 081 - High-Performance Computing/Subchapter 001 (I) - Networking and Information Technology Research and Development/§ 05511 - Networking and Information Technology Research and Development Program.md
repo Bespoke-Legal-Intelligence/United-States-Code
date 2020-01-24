@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(xii) such other agencies and departments as the President or the Director considers appropriate;
 
-&emsp;(D) describe the levels of Federal funding for the fiscal year during which such report is submitted, the levels for the previous fiscalyear, and the levels proposed for the fiscal year with respect to which the budget submission applies, for each Program Component Area and research area supported in accordance with section 5512 of this title;
+&emsp;(D) describe the levels of Federal funding for the fiscal year during which such report is submitted, the levels for the previous fiscal year, and the levels proposed for the fiscal year with respect to which the budget submission applies, for each Program Component Area and research area supported in accordance with section 5512 of this title;
 
 &emsp;(E) describe the levels of Federal funding for each participating agency, and for each Program Component Area, for the fiscal year during which such report is submitted, the levels for the previous fiscal year, and the levels proposed for the fiscal year with respect to which the budget submission applies;
 
@@ -296,7 +296,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### Delegation of Functions
 
-President's Council of Advisors on Science and Technology to serve as the advisory committee identified in section 5511(b) and former section 5513(b) of this title and to be known as the President's Innovation and Technology Advisory Committee when so serving, see section 2(a)(iii) of Ex. Ord. No. 13539, set out as a note under section 6601 of Title 42, The Public Health and Welfare.
+President's Council of Advisors on Science and Technology to serve as the advisory committee identified in section 5511(b) of this title and to be known as the President's Innovation and Technology Advisory Committee when so serving, see section 3(a)(iii) of Ex. Ord. No. 13895, set out as a note under section 6601 of Title 42, The Public Health and Welfare.
 
 #### Ex. Ord. No. 13035. President's Information Technology Advisory Committee
 

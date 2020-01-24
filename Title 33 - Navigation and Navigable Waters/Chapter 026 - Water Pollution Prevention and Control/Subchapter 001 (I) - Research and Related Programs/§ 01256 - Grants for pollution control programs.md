@@ -6,7 +6,7 @@ There are hereby authorized to be appropriated the following sums, to remain ava
 
 &emsp;(1) $60,000,000 for the fiscal year ending June 30, 1973; and
 
-&emsp;(2) $75,000,000 for the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975, $100,000,000 per fiscal year for the fiscal years 1977, 1978, 1979, and 1980, $75,000,000 per fiscal year for the fiscal years 1981 and 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $75,000,000 per fiscal year for each of the fiscal years 1986 through 1990;
+&emsp;(2) $75,000,000 for the fiscal year ending June 30, 1974, and the fiscal year ending June 30,1975, $100,000,000 per fiscal year for the fiscal years 1977, 1978, 1979, and 1980, $75,000,000 per fiscal year for the fiscal years 1981 and 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $75,000,000 per fiscal year for each of the fiscal years 1986 through 1990;
 
 > for grants to States and to interstate agencies to assist them in administering programs for the prevention, reduction, and elimination of pollution, including enforcement directly or through appropriate State law enforcement officers or agencies.
 
@@ -58,7 +58,7 @@ Any sums allotted under subsection (b) in any fiscal year which are not paid sha
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a)(2). Pub. L. 100–4 inserted ", such sums as may be necessary for fiscal years 1983 through1985, and $75,000,000 per fiscal year for each of the fiscal years 1986 through 1990" after "1982".
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–4 inserted ", such sums as may be necessary for fiscal years 1983 through 1985, and $75,000,000 per fiscal year for each of the fiscal years 1986 through 1990" after "1982".
 
 <b>1980</b>—Subsec. (a)(2). Pub. L. 96–483 inserted authorization of the sum of $75,000,000 per fiscal year for fiscal years 1981 and 1982.
 

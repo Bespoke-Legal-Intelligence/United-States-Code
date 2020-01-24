@@ -8,9 +8,9 @@
 
 &emsp;(A) utilizing the definition of average pay contained in section 8331(4) of title 5, the annuity of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who was appointed to a law enforcement position, as defined in section 8331(20) of title 5, prior to January 1, 1984, and would have been eligible to retire pursuant to section 8336(c) of that title, after attaining 50 years of age and completing 20 years as a law enforcement officer had the employee remained in the civil service shall be computed in the same manner as that of a law enforcement officer pursuant to section 8339(d) of that title, except as provided in paragraph (3); and
 
-&emsp;(B) the annuity of a Foreign Service criminal investigator/inspector of such office, who was appointed to a law enforcement position as defined in section 8401(17) of that title on or after January 1, 1984, and who would have been eligible to retire pursuant to section 8412(d) of that title, after attaining 50 years of age and completing 20 years of service as such a law enforcement officer, had the employee remained in the civil service, shall be computed in the same manner as that of a law enforcement officer pursuant to section 8415(e) of that title.
+&emsp;(B) the annuity of a Foreign Service criminal investigator/inspector of such office, who was appointed to a law enforcement positionas defined in section 8401(17) of that title on or after January 1, 1984, and who would have been eligible to retire pursuant to section 8412(d) of that title, after attaining 50 years of age and completing 20 years of service as such a law enforcement officer, had the employee remained in the civil service, shall be computed in the same manner as that of a law enforcement officer pursuant to section 8415(e) of that title.
 
-(3) The annuity of a Foreign Service investigator/inspector of the Office of the Inspector General, Agency for International Development, appointed to a law enforcement position prior to January 1, 1984, who exercised election rights under section 4071i of this title, shall be computed as follows: for the period prior to electionthe annuity shall be computed in accordance with section 8339(d) of title 5; for the period following election the annuity shall be computed in accordance with section 8415(e) of that title.
+(3) The annuity of a Foreign Service investigator/inspector of the Office of the Inspector General, Agency for International Development, appointed to a law enforcement position prior to January 1, 1984, who exercised election rights under section 4071i of this title, shall be computed as follows: for the period prior to election the annuity shall be computed in accordance with section 8339(d) of title 5; for the period following election the annuity shall be computed in accordance with section 8415(e) of that title.
 
 (4) All service in a law enforcement position, as defined in section 8331(20) or 8401(17) of that title, as applicable, in any agency or combination of agencies shall be included in the computation of time for purposes of this paragraph.
 
@@ -52,11 +52,11 @@
 
 (B) At the time of retirement, a married participant or former participant and his or her spouse may jointly elect in writing to waive a survivor annuity for that spouse under this section (or under section 4054(b) of this title if the spouse later qualifies as a former spouse under section 4044(6) of this title), or to reduce such survivor annuity under this section (or section 4054(b) of this title) by designating a portion of the annuity of the participant as the base for the survivor benefit. In the event the marriage is dissolved following an election for such a reduced annuity and the spouse qualifies as a former spouse, the base used in calculating any annuity of the former spouse under section 4054(b) of this title may not exceed the portion of the participant's annuity designated under this subparagraph.
 
-(C) If a participant or former participant has a former spouse, the participant and such former spouse may jointly elect by spousal agreement under section 4060(b)(1) of this title to waive a survivor annuity under section 4054(b) of this title for that former spouse if the election is made (i) before the end of the 24-month period after the divorce or annulment involving that former spouse becomes final or (ii) at the time of retirement, whichever occurs first.
+(C) If a participant or former participant has a former spouse, the participant and such former spouse may jointly elect by spousalagreement under section 4060(b)(1) of this title to waive a survivor annuity under section 4054(b) of this title for that former spouse if the election is made (i) before the end of the 24-month period after the divorce or annulment involving that former spouse becomes final or (ii) at the time of retirement, whichever occurs first.
 
 (D) The Secretary of State may prescribe regulations under which a participant or former participant may make an election under subparagraph (B) or (C) without the participant's spouse or former spouse if the participant establishes to the satisfaction of the Secretary of State that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the spouse or former spouse.
 
-(2) The annuity of a participant or former participant providing a survivor benefit under thissection (or section 4054(b) of this title), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 2½ percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 4054(a)(5) of this title.
+(2) The annuity of a participant or former participant providing a survivor benefit under this section (or section 4054(b) of this title), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 2½ percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 4054(a)(5) of this title.
 
 (3)(A) If a former participant entitled to receive a reduced annuity under this subsection dies and is survived by a spouse, a survivor annuity shall be paid to the surviving spouse equal to 55 percent of the full amount of the participant's annuity computed under subsection (a), or 55 percent of any lesser amount elected as the base for the survivor benefit under paragraph (1)(B).
 
@@ -98,11 +98,11 @@ At the time of retirement an unmarried participant who does not have a former sp
 
 #### (g) Marriage after retirement
 
-A participant or former participant who was unmarried at retirement and who later marries may, within one year after such marriage, irrevocably elect in writing to receive a reduced annuity and to provide a survivor annuity for the spouse (if such spouse qualifies as a surviving spouse under section 4044(13) of this title). Receipt by the Secretary of State of notice of an election under this subsection voids prospectively any election previously made under subsection (f). The reduction in annuity required by an election under this subsection shall be computed and the amount of the survivor annuity shall be determined in accordance with subsections (b)(2) and (3). The annuity reduction or recomputation shall be effective the first day of the month beginning one year after the date of marriage.
+A participant or former participant who was unmarried at retirement and who later marries may, within one year after such marriage, irrevocably elect in writing to receive a reduced annuity and to provide a survivor annuity for the spouse (if such spouse qualifies as a survivingspouse under section 4044(13) of this title). Receipt by the Secretary of State of notice of an election under this subsection voids prospectively any election previously made under subsection (f). The reduction in annuity required by an election under this subsection shall be computed and the amount of the survivor annuity shall be determined in accordance with subsections (b)(2) and (3). The annuity reduction or recomputation shall be effective the first day of the month beginning one year after the date of marriage.
 
 #### (h) Election of benefits
 
-A surviving spouse or surviving former spouse of any participant or former participant shall not become entitled to a survivor annuity or to the restoration of a survivor annuity payablefrom the Fund under this part unless the survivor elects to receive it instead of any other survivor annuity to which he or she may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than that participant.
+A surviving spouse or surviving former spouse of any participant or former participant shall not become entitled to a survivor annuity or to the restoration of a survivor annuity payable from the Fund under this part unless the survivor elects to receive it instead of any other survivor annuity to which he or she may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than that participant.
 
 #### (i) Reversion to retired status
 
@@ -158,7 +158,7 @@ The retirement, disability, or survivor annuity payable to any person based on t
 
 &emsp;(i) the additional cost to the System which is associated with providing a survivor annuity under subsection (b) of this section and results from such election taking into account (I) the difference (for the period between the date on which the annuity of the former participant commences and the date of the election) between the amount paid to such former participant under this part and the amount which would have been paid if such election had been made at the time the participant or former participant applied for the annuity, and (II) the costs associated with providing the later election; and
 
-&emsp;(ii) interest on the additional cost determined under clause (i)(I) of this subparagraphcomputed using the interest rate specified or determined under section 4045(d)(3) of this title for the calendar year in which the amount to be deposited is determined.
+&emsp;(ii) interest on the additional cost determined under clause (i)(I) of this subparagraph computed using the interest rate specified or determined under section 4045(d)(3) of this title for the calendar year in which the amount to be deposited is determined.
 
 (3) An election by a participant under this subsection voids prospectively any election previously made in the case of such participant under subsection (b).
 
@@ -228,7 +228,7 @@ Pub. L. 107–228, div. A, title III, §322(c)(1), Sept. 30, 2002, 116 Stat. 138
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under section 4044 of this title.
+Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect tocertain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under section 4044 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -236,7 +236,7 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 
 #### Effective Date of 1986 Amendments
 
-Pub. L. 99–556, title IV, §408, Oct. 27, 1986, 100 Stat. 3139, provided that: "This title and the amendments made by this title \[enacting section 4069 of this title and amending this section and sections 4064, 4071c,4071d, and 4071j of this title\] shall take effect on January 1, 1987. The amendment made by section 403 \[amending section 4064 of this title\] shall apply to any individual in a reemployed status on or after January 1, 1987."
+Pub. L. 99–556, title IV, §408, Oct. 27, 1986, 100 Stat. 3139, provided that: "This title and the amendments made by this title \[enacting section 4069 of this title and amending this section and sections 4064, 4071c, 4071d, and 4071j of this title\] shall take effect on January 1, 1987. The amendment made by section 403 \[amending section 4064 of this title\] shall apply to any individual in a reemployed status on or after January 1, 1987."
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 

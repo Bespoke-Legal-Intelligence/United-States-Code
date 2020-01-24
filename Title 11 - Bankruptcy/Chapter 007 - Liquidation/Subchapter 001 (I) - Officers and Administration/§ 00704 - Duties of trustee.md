@@ -84,7 +84,7 @@ Section 704(8) of the Senate amendment is deleted in the House amendment. Truste
 
 #### senate report no. 95–989
 
-The essential duties of the trustee are enumerated in this section. Others, or elaborations on these, may beprescribed by the Rules of Bankruptcy Procedure to the extent not inconsistent with those prescribed by this section. The duties are derived from section 47a of the Bankruptcy Act \[section 75(a) of former title 11\].
+The essential duties of the trustee are enumerated in this section. Others, or elaborations on these, may be prescribed by the Rules of Bankruptcy Procedure to the extent not inconsistent with those prescribed by this section. The duties are derived from section 47a of the Bankruptcy Act \[section 75(a) of former title 11\].
 
 The trustee's principal duty is to collect and reduce to money the property of the estate for which he serves, and to close up the estate as expeditiously as is compatible with the best interests of parties in interest. He must be accountable for all property received, and must investigate the financial affairs of the debtor. If a purpose would be served (such as if there are assets that will be distributed), the trustee is required to examine proofs of claims and object to the allowance of any claim that is improper. If advisable, the trustee must oppose the discharge of the debtor, which is for the benefit of general unsecured creditors whom the trustee represents.
 

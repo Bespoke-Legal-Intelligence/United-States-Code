@@ -92,11 +92,11 @@ The notice described in subsection (a) shall require a State or local government
 
 &emsp;(19) The evaluation design.
 
-&emsp;(20) The metrics that will be used in the evaluation to determine whether the outcomeshave been achieved as a result of the intervention and how the metrics will be measured.
+&emsp;(20) The metrics that will be used in the evaluation to determine whether the outcomes have been achieved as a result of the intervention and how the metrics will be measured.
 
 &emsp;(21) An explanation of how the metrics used in the evaluation to determine whether the outcomes achieved as a result of the intervention are independent, objective indicators of impact and are not subject to manipulation by the service provider, intermediary, or investor.
 
-&emsp;(22) A summary explaining the independence of the evaluator from the other entities involved in the project and the evaluator's experience in conducting rigorous evaluations of program effectiveness including, where available, well-implemented randomized controlled trials on the intervention or similar interventions.
+&emsp;(22) A summary explaining the independence of the evaluator from the other entities involved in the project and the evaluator's experience in conducting rigorous evaluations of program effectiveness including, where available, well-implemented randomized controlledtrials on the intervention or similar interventions.
 
 &emsp;(23) The capacity of the service provider to deliver the intervention to the number of participants the State or local government proposes to serve in the project.
 

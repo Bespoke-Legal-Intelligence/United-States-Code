@@ -134,7 +134,7 @@ For purposes of this section, the term "negligence" includes any failure to make
 
 &emsp;&emsp;&emsp;&emsp;(I) it is established that the taxpayer determined such price in accordance with a specific pricing method set forth in the regulations prescribed under section 482 and that the taxpayer's use of such method was reasonable,
 
-&emsp;&emsp;&emsp;&emsp;(II) the taxpayer has documentation (which was in existence as of the time offiling the return) which sets forth the determination of such price in accordance with such a method and which establishes that the use of such method was reasonable, and
+&emsp;&emsp;&emsp;&emsp;(II) the taxpayer has documentation (which was in existence as of the time of filing the return) which sets forth the determination of such price in accordance with such a method and which establishes that the use of such method was reasonable, and
 
 &emsp;&emsp;&emsp;&emsp;(III) the taxpayer provides such documentation to the Secretary within 30 days of a request for such documentation.
 
@@ -210,7 +210,7 @@ For purposes of this section, the term "negligence" includes any failure to make
 
 #### (1) In general
 
-&emsp;In the case of any portion of an underpayment which is attributable to one or more nondisclosed noneconomic substance transactions, subsection (a) shall be applied withrespect to such portion by substituting "40 percent" for "20 percent".
+&emsp;In the case of any portion of an underpayment which is attributable to one or more nondisclosed noneconomic substance transactions, subsection (a) shall be applied with respect to such portion by substituting "40 percent" for "20 percent".
 
 #### (2) Nondisclosed noneconomic substance transactions
 

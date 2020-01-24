@@ -28,7 +28,7 @@
 
 &emsp;(H) maintain books and records, prepare and submit to the Secretary such reports from time to time as may be necessary for appropriate accounting with respect to the receipt and disbursement of funds entrusted to it, and cause a complete audit report to be submitted to the Secretary at the end of each fiscal year;
 
-&emsp;(I) reimburse the Secretary for the expenses incurred for the conduct of the referendum to establish the council or any subsequent referendum to terminate the council that fails; and
+&emsp;(I) reimburse the Secretary for the expenses incurred for the conduct of the referendum toestablish the council or any subsequent referendum to terminate the council that fails; and
 
 &emsp;(J) prepare and submit to the Secretary from time to time such reports or proposals as the council determines appropriate to further the purposes of this chapter.
 

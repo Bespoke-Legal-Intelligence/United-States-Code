@@ -98,7 +98,7 @@ The Council shall meet at the call of the Chairperson.
 
 Not later than 1 year after March 23, 2010, the Chairperson, in consultation with the Council, shall develop and make public a national prevention, health promotion and public health strategy, and shall review and revise such strategy periodically. Such strategy shall—
 
-&emsp;(1) set specific goals and objectives for improving the health of the United Statesthrough federally-supported prevention, health promotion, and public health programs, consistent with ongoing goal setting efforts conducted by specific agencies;
+&emsp;(1) set specific goals and objectives for improving the health of the United States through federally-supported prevention, health promotion, and public health programs, consistent with ongoing goal setting efforts conducted by specific agencies;
 
 &emsp;(2) establish specific and measurable actions and timelines to carry out the strategy, and determine accountability for meeting those timelines, within and across Federal departments and agencies; and
 
@@ -186,7 +186,7 @@ Sec. 3. <i>Purposes and Duties</i>. The Council shall:
 
 (c) provide recommendations to the President and the Congress concerning the most pressing health issues confronting the United States and changes in Federal policy to achieve national wellness, health promotion, and public health goals, including the reduction of tobacco use, sedentary behavior, and poor nutrition;
 
-(d) consider and propose evidence-based models, policies, and innovative approaches for the promotion oftransformative models of prevention, integrative health, and public health on individual and community levels across the United States;
+(d) consider and propose evidence-based models, policies, and innovative approaches for the promotion of transformative models of prevention, integrative health, and public health on individual and community levels across the United States;
 
 (e) establish processes for continual public input, including input from State, regional, and local leadership communities and other relevant stakeholders, including Indian tribes and tribal organizations;
 

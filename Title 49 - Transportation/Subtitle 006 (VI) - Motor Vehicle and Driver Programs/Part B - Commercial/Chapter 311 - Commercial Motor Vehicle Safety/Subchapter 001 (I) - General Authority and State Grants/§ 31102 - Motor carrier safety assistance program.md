@@ -22,7 +22,7 @@ State Plans.—
 
 &emsp;(1)
 
-In general.—In carrying out the program, the Secretary shall prescribe procedures for a State to submit a multiple-year plan, and annual updates thereto, under which the State agrees to assume responsibility for improving motor carrier safety by adopting and enforcing State regulations, standards, and orders that are compatible with the regulations, standards, and orders of the Federal Government on commercial motor vehicle safety and hazardous materials transportation safety.
+In general.—In carrying out the program, the Secretary shall prescribe procedures for a State to submit a multiple-year plan, and annual updates thereto, under which theState agrees to assume responsibility for improving motor carrier safety by adopting and enforcing State regulations, standards, and orders that are compatible with the regulations, standards, and orders of the Federal Government on commercial motor vehicle safety and hazardous materials transportation safety.
 
 &emsp;(2)
 
@@ -78,7 +78,7 @@ Contents.—The Secretary shall approve a State plan if the Secretary determines
 
 &emsp;&emsp;(T) provides that the State will include in the training manuals for the licensing examination to drive noncommercial motor vehicles and commercial motor vehicles information on best practices for driving safely in the vicinity of noncommercial and commercial motor vehicles;
 
-&emsp;&emsp;(U) provides that the State will enforce the registration requirements of sections 13902 and 31134 by prohibiting the operation of any vehicle discovered to be operated by a motor carrier without a registration issued under those sections or to be operated beyond the scope of the motor carrier's registration;
+&emsp;&emsp;(U) provides that the State will enforce the registration requirements of sections13902 and 31134 by prohibiting the operation of any vehicle discovered to be operated by a motor carrier without a registration issued under those sections or to be operated beyond the scope of the motor carrier's registration;
 
 &emsp;&emsp;(V) provides that the State will conduct comprehensive and highly visible traffic enforcement and commercial motor vehicle safety inspection programs in high-risk locations and corridors;
 
@@ -144,7 +144,7 @@ Adjusted baseline after fiscal year 2017.—At the request of a State, the Secre
 
 &emsp;(3)
 
-Waivers.—At the request of a State, the Secretary may waive or modify the requirements of this subsection for a total of 1 fiscal year if the Secretary determines that the waiver or modification is reasonable, based on circumstances described by the State, to ensure the continuation of commercial motor vehicle enforcement activities in the State.
+Waivers.—At the request of a State, the Secretary may waive or modify the requirements of this subsection for a total of 1 fiscal year if the Secretary determines that the waiver or modification is reasonable, based oncircumstances described by the State, to ensure the continuation of commercial motor vehicle enforcement activities in the State.
 
 &emsp;(4)
 
@@ -174,7 +174,7 @@ Use of Grants To Enforce Other Laws.—When approved as part of a State's plan u
 
 &emsp;&emsp;(A) the number of motor carrier safety activities, including roadside safety inspections, conducted in the State is maintained at a level at least equal to the average level of such activities conducted in the State in fiscal years 2004 and 2005; and
 
-&emsp;&emsp;(B) the State does not use more than 10 percent of the basic amount the State receives under a grant awarded under section 31104(a)(1) for enforcement activities relating to noncommercial motor vehicles necessary to promote the safe operation of commercial motor vehicles unless the Secretarydetermines that a higher percentage will result in significant increases in commercial motor vehicle safety.
+&emsp;&emsp;(B) the State does not use more than 10 percent of the basic amount the State receives under a grant awarded under section 31104(a)(1) for enforcement activities relating to noncommercial motor vehicles necessary to promote the safe operation of commercial motor vehicles unless the Secretary determines that a higher percentage will result in significant increases in commercial motor vehicle safety.
 
 (i)
 
@@ -222,7 +222,7 @@ Disapproval.—If, after notice and an opportunity to be heard, the Secretary fi
 
 &emsp;&emsp;(B)
 
-Noncompliance withholding.—In lieu of withdrawing approval of a State plan under subparagraph (A), the Secretary may, after providing notice to the State and an opportunity to be heard, withhold funding from the State to which the State would otherwise be entitled under this section for the period of the State's noncompliance. In exercising this option, the Secretary may withhold—
+Noncompliance withholding.—In lieu of withdrawing approval of a State plan under subparagraph (A), the Secretary may, after providing notice to the State and an opportunity to be heard, withhold fundingfrom the State to which the State would otherwise be entitled under this section for the period of the State's noncompliance. In exercising this option, the Secretary may withhold—
 
 &emsp;&emsp;&emsp;(i) up to 5 percent of funds during the fiscal year that the Secretary notifies the State of its noncompliance;
 
@@ -664,7 +664,7 @@ Deadline.—If a State does not request a waiver or modification under this subs
 
 &emsp;"(4)
 
-Maintenance of effort described.—The maintenance of effort calculated under this section isthe amount required under section 31102(f) of title 49, United States Code, as amended by this subtitle.
+Maintenance of effort described.—The maintenance of effort calculated under this section is the amount required under section 31102(f) of title 49, United States Code, as amended by this subtitle.
 
 "(c)
 

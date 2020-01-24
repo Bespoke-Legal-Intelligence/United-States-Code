@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Every person who is a manufacturer or importer of a device intended for human use shall establish and maintain such records, make such reports, and provide such information, as the Secretary may by regulation reasonably require to assure that such device is not adulterated or misbranded and to otherwise assure its safety and effectiveness. Regulations prescribed under the preceding sentence—
+Every person who is a manufacturer or importer of a device intended for human use shall establish and maintain such records, make such reports, and provide such information, as theSecretary may by regulation reasonably require to assure that such device is not adulterated or misbranded and to otherwise assure its safety and effectiveness. Regulations prescribed under the preceding sentence—
 
 &emsp;(1) shall require a device manufacturer or importer to report to the Secretary whenever the manufacturer or importer receives or otherwise becomes aware of information that reasonably suggests that one of its marketed devices—
 
@@ -56,7 +56,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 #### (b) User reports
 
-(1)(A) Whenever a device user facility receives or otherwise becomes aware of information that reasonably suggests that a device has or may have caused or contributed to the death of a patient of the facility, the facility shall, as soon as practicable but not later than 10 working days after becoming aware of the information, report the information to the Secretary and, if the identity of the manufacturer is known, to the manufacturer of the device. In the case of deaths, the Secretary may by regulation prescribe a shorter period for the reporting of such information.
+(1)(A) Whenever a device user facility receives or otherwise becomes aware of information that reasonably suggests that a device has or may have caused or contributed to the death of a patient of the facility, the facility shall, as soon as practicable but not later than 10 working days after becoming aware of the information, report the information to the Secretary and, if the identity of the manufacturer is known, to the manufacturer of the device. In the case ofdeaths, the Secretary may by regulation prescribe a shorter period for the reporting of such information.
 
 (B) Whenever a device user facility receives or otherwise becomes aware of—
 
@@ -94,7 +94,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 &emsp;(C) a physician who is not required to make such a report,
 
-> shall be admissible into evidence or otherwise used in any civil action involving private partiesunless the facility, individual, or physician who made the report had knowledge of the falsity of the information contained in the report.
+> shall be admissible into evidence or otherwise used in any civil action involving private parties unless the facility, individual, or physician who made the report had knowledge of the falsity of the information contained in the report.
 
 (4) A report made under paragraph (1) does not affect any obligation of a manufacturer who receives the report to file a report as required under subsection (a).
 
@@ -198,7 +198,7 @@ Not later than December 31, 2012, the Secretary shall issue proposed regulations
 
 #### (1) In general
 
-&emsp;In order to provide timely and reliable information on the safety and effectiveness of devices approved under section 360e of this title, cleared under section 360(k) of this title, or classified under section 360c(f)(2) of this title, including responses to adverse events and malfunctions, and to advance the objectives of part 803 of title 21, Code of Federal Regulations (or successor regulations), and advance the objectives of, and evaluate innovative new methods of compliance with, this section and section 360l of this title, the Secretary shall, within one year of August 18, 2017, initiate one or more pilot projects for voluntary participation by a manufacturer or manufacturers of a device or device type, or continue existing projects, in accordance with paragraph (3), that—
+&emsp;In order to provide timely and reliable information on the safety and effectiveness of devices approved under section 360e of this title, cleared under section 360(k) of this title, or classified under section 360c(f)(2) of this title, including responses to adverse events and malfunctions, and to advance the objectives of part 803 of title 21, Code of Federal Regulations (or successor regulations), and advance the objectives of, and evaluate innovative new methods of compliance with, this section andsection 360l of this title, the Secretary shall, within one year of August 18, 2017, initiate one or more pilot projects for voluntary participation by a manufacturer or manufacturers of a device or device type, or continue existing projects, in accordance with paragraph (3), that—
 
 &emsp;&emsp;(A) are designed to efficiently generate reliable and timely safety and active surveillance data for use by the Secretary or manufacturers of the devices that are involved in the pilot project;
 
@@ -288,7 +288,7 @@ Not later than December 31, 2012, the Secretary shall issue proposed regulations
 
 #### (8) Other projects required to comply
 
-&emsp;Paragraphs (1)(B), (4)(A)(i), (4)(A)(ii), (5), (6), and (7) shall apply with respect to any pilot project undertaken in coordination with the comprehensive system described in paragraph (1)(C) that relates to the use of real world evidence for devices in the same manner and to the same extent as such paragraphs apply withrespect to pilot projects conducted under this subsection.
+&emsp;Paragraphs (1)(B), (4)(A)(i), (4)(A)(ii), (5), (6), and (7) shall apply with respect to any pilot project undertaken in coordination with the comprehensive system described in paragraph (1)(C) that relates to the use of real world evidence for devices in the same manner and to the same extent as such paragraphs apply with respect to pilot projects conducted under this subsection.
 
 #### (9) Report to Congress
 
@@ -424,7 +424,7 @@ Pub. L. 101–629, §3(b)(3), Nov. 28, 1990, 104 Stat. 4514, as amended by Pub. 
 
 #### Regulations
 
-Pub. L. 101–629, §2(b), Nov. 28, 1990, 104 Stat. 4512, provided that: "The Secretary of Health and Human Services shall promulgate regulations to implement section 519(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a) (including a definition of the summary required by paragraph (1)(C) of such section) not later than 12 months after the date of enactment of this Act \[Nov. 28, 1990\]. In promulgating the regulations, the Secretary shall minimize the administrative burdens on device user facilities consistent with the need to assure adequate information."
+Pub. L. 101–629, §2(b), Nov. 28, 1990, 104 Stat. 4512, provided that: "The Secretary of Health and Human Services shall promulgate regulations to implement section519(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a) (including a definition of the summary required by paragraph (1)(C) of such section) not later than 12 months after the date of enactment of this Act \[Nov. 28, 1990\]. In promulgating the regulations, the Secretary shall minimize the administrative burdens on device user facilities consistent with the need to assure adequate information."
 
 Pub. L. 101–629, §3(c), Nov. 28, 1990, 104 Stat. 4514, as amended by Pub. L. 102–300, §2(a)(2), (3), June 16, 1992, 106 Stat. 238, provided that:
 
@@ -454,7 +454,7 @@ Pub. L. 101–629, §3(c), Nov. 28, 1990, 104 Stat. 4514, as amended by Pub. L. 
 
 #### Information Concerning Reporting Requirements for Device User Facilities
 
-Pub. L. 101–629, §2(d), Nov. 28, 1990, 104 Stat. 4513, directed Secretary of Health and Human Services, during the 18-month period beginning on Nov. 28, 1990, to inform device user facilities (as defined in 21 U.S.C.360i(b)(5)(A)) and manufacturers and distributors of devices respecting the requirements of 21 U.S.C. 360i(b), and, to the extent practicable, provide persons subject to such requirements assistance in the form of publications regarding such requirements.
+Pub. L. 101–629, §2(d), Nov. 28, 1990, 104 Stat. 4513, directed Secretary of Health and Human Services, during the 18-month period beginning on Nov. 28, 1990, to inform device user facilities (as defined in 21 U.S.C. 360i(b)(5)(A)) and manufacturers and distributors of devices respecting the requirements of 21 U.S.C. 360i(b), and, to the extent practicable, provide persons subject to such requirements assistance in the form of publications regarding such requirements.
 
 #### Study of Reporting Requirements; Compliance by Device User Facilities; Actions by Manufacturers; Cost Effectiveness; Recommendations
 

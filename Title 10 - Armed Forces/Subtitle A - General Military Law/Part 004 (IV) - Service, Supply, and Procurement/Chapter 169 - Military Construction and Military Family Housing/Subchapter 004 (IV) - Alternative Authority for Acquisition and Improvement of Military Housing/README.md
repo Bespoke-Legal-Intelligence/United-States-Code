@@ -5,6 +5,7 @@
 | [2871\.](%C2%A7%2002871%20-%20Definitions.md) | Definitions. |
 | [2872\.](%C2%A7%2002872%20-%20General%20authority.md) | General authority. |
 | [2872a.](%C2%A7%2002872a%20-%20Utilities%20and%20services.md) | Utilities and services. |
+| [2872b.](%C2%A7%2002872b%20-%20Treatment%20of%20breach%20of%20contract.md) | Treatment of breach of contract. |
 | [2873\.](%C2%A7%2002873%20-%20Direct%20loans%20and%20loan%20guarantees.md) | Direct loans and loan guarantees. |
 | [2874\.](%C2%A7%2002874%20-%20Leasing%20of%20housing.md) | Leasing of housing. |
 | [2875\.](%C2%A7%2002875%20-%20Investments.md) | Investments. |
@@ -20,11 +21,13 @@
 | [2883a.](%C2%A7%2002883a%20-%20Funds%20for%20housing%20allowances%20of%20members%20of%20the%20armed%20forces%20assigned%20to%20certain%20military%20family%20housing%20units.md) | Funds for housing allowances of members of the armed forces assigned to certain military family housing units. |
 | [2884\.](%C2%A7%2002884%20-%20Reports.md) | Reports. |
 | [2885\.](%C2%A7%2002885%20-%20Oversight%20and%20accountability%20for%20privatization%20projects.md) | Oversight and accountability for privatization projects. |
-| [2886\.](%C2%A7%2002886%20-%20Prohibiting%20collection%20of%20amounts%20in%20addition%20to%20rent%20from%20members%20assigned%20to%20units.md) | Prohibiting collection of amounts in addition to rent from members assigned to units. |
+| \[2886. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. B, title XXX, §§3014(d)(2), 3033(b), Dec. 20, 2019, 133 Stat. 1926, 1936, added item 2872b and struck out item 2886 "Prohibiting collection of amounts in addition to rent from members assigned to units".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(c)(5), Aug. 13, 2018, 132 Stat. 1985, made technical amendment to directory language of Pub. L. 115–91, §2817(a)(2), effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted. See 2017 Amendment note below.
 
@@ -52,6 +55,7 @@ Pub. L. 115–91, div. A, title VI, §602(b), Dec. 12, 2017, 131 Stat. 1418, add
 - [&sect; 02871 - Definitions](%C2%A7%2002871%20-%20Definitions.md)
 - [&sect; 02872 - General authority](%C2%A7%2002872%20-%20General%20authority.md)
 - [&sect; 02872a - Utilities and services](%C2%A7%2002872a%20-%20Utilities%20and%20services.md)
+- [&sect; 02872b - Treatment of breach of contract](%C2%A7%2002872b%20-%20Treatment%20of%20breach%20of%20contract.md)
 - [&sect; 02873 - Direct loans and loan guarantees](%C2%A7%2002873%20-%20Direct%20loans%20and%20loan%20guarantees.md)
 - [&sect; 02874 - Leasing of housing](%C2%A7%2002874%20-%20Leasing%20of%20housing.md)
 - [&sect; 02875 - Investments](%C2%A7%2002875%20-%20Investments.md)
@@ -67,4 +71,4 @@ Pub. L. 115–91, div. A, title VI, §602(b), Dec. 12, 2017, 131 Stat. 1418, add
 - [&sect; 02883a - Funds for housing allowances of members of the armed forces assigned to certain military family housing units](%C2%A7%2002883a%20-%20Funds%20for%20housing%20allowances%20of%20members%20of%20the%20armed%20forces%20assigned%20to%20certain%20military%20family%20housing%20units.md)
 - [&sect; 02884 - Reports](%C2%A7%2002884%20-%20Reports.md)
 - [&sect; 02885 - Oversight and accountability for privatization projects](%C2%A7%2002885%20-%20Oversight%20and%20accountability%20for%20privatization%20projects.md)
-- [&sect; 02886 - Prohibiting collection of amounts in addition to rent from members assigned to units](%C2%A7%2002886%20-%20Prohibiting%20collection%20of%20amounts%20in%20addition%20to%20rent%20from%20members%20assigned%20to%20units.md)
+- [&sect; 02886 - Repealed. Pub. L. 116&#8211;92, div. B, title XXX, &sect;3014(d)(1), Dec. 20, 2019, 133 Stat. 1926](%C2%A7%2002886%20-%20Repealed.%20Pub.%20L.%20116%E2%80%9392%2C%20div.%20B%2C%20title%20XXX%2C%20%C2%A73014%28d%29%281%29%2C%20Dec.%2020%2C%202019%2C%20133%20Stat.%201926.md)

@@ -256,7 +256,7 @@ Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1980 Amendment
 
-Amendments by Pub. L. 96–605 and 96–613 applicable to years ending after Nov. 30, 1980, except in the case of a plan in existence on Nov. 30, 1980, where amendments applicable to plan years beginning after Nov. 30, 1980, see section 201(c) of Pub. L. 96–605 and section 5(c) of Pub. L. 96–613, set out as a note under section 414 of this title.
+Amendments by Pub. L. 96–605 and 96–613 applicable to years ending after Nov. 30, 1980, except in the case of a plan in existence on Nov. 30, 1980, where amendments applicable to plan years beginning after Nov. 30, 1980,see section 201(c) of Pub. L. 96–605 and section 5(c) of Pub. L. 96–613, set out as a note under section 414 of this title.
 
 Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
@@ -266,7 +266,7 @@ Pub. L. 95–600, title III, §366(b), Nov. 6, 1978, 92 Stat. 2857, as amended b
 
 Pub. L. 95–600, title VII, §701(c)(3), Nov. 6, 1978, 92 Stat. 2900, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(A) The amendments made by paragraphs (1) and (2)(A) \[amending this section and provisions set out as a note under this section\] shall take effect as if included in section 105(d) of the Internal Revenue Code of1986 \[formerly I.R.C. 1954\] as such section was amended by section 505(a) of the Tax Reform Act of 1976.
+"(A) The amendments made by paragraphs (1) and (2)(A) \[amending this section and provisions set out as a note under this section\] shall take effect as if included in section 105(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as such section was amended by section 505(a) of the Tax Reform Act of 1976.
 
 "(B) The amendments made by paragraph (2)(B) \[amending provisions set out as notes under this section\] shall take effect as if included in section 301 of the Tax Reduction and Simplification Act of 1977 \[Pub. L. 95–30, title III, §301, May 23, 1977, 91 Stat. 152\]."
 
@@ -324,5 +324,5 @@ Pub. L. 94–455, title V, §505(d), Oct. 4, 1976, 90 Stat. 1568, as amended by 
 
 &emsp;"(2) on December 31, 1975, or December 31, 1976, was entitled to exclude any amount with respect to such retirement disability from gross income under section 105(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\],
 
-> for purposes of section 72 the annuity starting date shall not be deemed to occur before the beginning of the taxable year in which the taxpayer attains age 65, or before the beginning of an earlier taxable year for which the taxpayer makes an irrevocable election not to seek the benefits of such section 105(d) for such year and all subsequent years."
+> for purposes of section 72 the annuity starting date shall not be deemed to occur before the beginning of the taxable year in which the taxpayer attains age 65,or before the beginning of an earlier taxable year for which the taxpayer makes an irrevocable election not to seek the benefits of such section 105(d) for such year and all subsequent years."
 

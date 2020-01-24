@@ -50,7 +50,7 @@
 
 &emsp;(6) A reasonable period of delay when the defendant is joined for trial with a codefendant as to whom the time for trial has not run and no motion for severance has been granted.
 
-&emsp;(7)(A) Any period of delay resulting from a continuance granted by any judge on his ownmotion or at the request of the defendant or his counsel or at the request of the attorney for the Government, if the judge granted such continuance on the basis of his findings that the ends of justice served by taking such action outweigh the best interest of the public and the defendant in a speedy trial. No such period of delay resulting from a continuance granted by the court in accordance with this paragraph shall be excludable under this subsection unless the court sets forth, in the record of the case, either orally or in writing, its reasons for finding that the ends of justice served by the granting of such continuance outweigh the best interests of the public and the defendant in a speedy trial.
+&emsp;(7)(A) Any period of delay resulting from a continuance granted by any judge on his own motion or at the request of the defendant or his counsel or at the request of the attorney for the Government, if the judge granted such continuance on the basis of his findings that the ends of justice served by taking such action outweigh the best interest of the public and the defendant in a speedy trial. No such period of delay resulting from a continuance granted by the court in accordance with this paragraph shall be excludable under this subsection unless the court sets forth, in the record of the case, either orally or in writing, its reasons for finding that the ends of justice served by the granting of such continuance outweigh the best interests of the public and the defendant in a speedy trial.
 
 &emsp;(B) The factors, among others, which a judge shall consider in determining whether to grant a continuance under subparagraph (A) of this paragraph in any case are as follows:
 
@@ -68,7 +68,7 @@
 
 (i) If trial did not commence within the time limitation specified in section 3161 because the defendant had entered a plea of guilty or nolo contendere subsequently withdrawn to any or all charges in an indictment or information, the defendant shall be deemed indicted with respect to all charges therein contained within the meaning of section 3161, on the day the order permitting withdrawal of the plea becomes final.
 
-(j)(1) If the attorney for the Government knows that a person charged with an offense is serving a term of imprisonment in any penal institution, he shall promptly—
+(j)(1) If the attorney for the Government knows that a person charged with an offense isserving a term of imprisonment in any penal institution, he shall promptly—
 
 &emsp;(A) undertake to obtain the presence of the prisoner for trial; or
 

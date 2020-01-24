@@ -20,7 +20,7 @@ Destructive substance.—The term "destructive substance" means an explosive sub
 
 In flight.—The term "in flight" means—
 
-&emsp;&emsp;(A) any time from the moment at which all the external doors of an aircraft are closed following embarkation until the moment when any such door is opened for disembarkation; and
+&emsp;&emsp;(A) any time from the moment at which all the external doors of an aircraft areclosed following embarkation until the moment when any such door is opened for disembarkation; and
 
 &emsp;&emsp;(B) in the case of a forced landing, until competent authorities take over the responsibility for the aircraft and the persons and property on board.
 

@@ -88,7 +88,7 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (b)
 
-Establishment of Committee.—(1) The Secretary of Defense shall, in consultation with the Secretaries of the military departments, establish a Pharmacy and Therapeutics Committee for the purpose of developing the uniform formulary of pharmaceutical agents required by subsection (a), reviewing such formulary on a periodic basis, and making additional recommendations regarding the formulary as the committee determines necessary and appropriate. The committee shall include representatives of pharmacies of the uniformed services facilities and representatives of providers in facilities of the uniformed services. Committee members shall have expertise in treating the medical needs of the populations served through such entities and in the range of pharmaceutical and biological medicines available for treating such populations. The committee shall function under procedures established by the Secretary under the regulations prescribed under subsection (h).<sup>1</sup>
+Establishment of Committee.—(1) The Secretary of Defense shall, in consultation with the Secretaries of the military departments, establish a Pharmacy and Therapeutics Committee for the purpose of developing the uniform formulary of pharmaceutical agents required by subsection (a), reviewing such formulary on a periodic basis, and making additional recommendations regarding the formulary as the committee determines necessary and appropriate. The committee shall include representatives of pharmacies of the uniformed services facilities and representatives of providers in facilities of the uniformed services. Committee members shall have expertise in treating the medical needs of the populations served through such entities and in the range of pharmaceutical and biological medicines available for treating such populations. The committee shall function under procedures established by the Secretary under the regulations prescribed under subsection (j).
 
 (2) The committee shall meet at least quarterly and shall, during meetings, consider for inclusion on the uniform formulary under the standards established in subsection (a) any drugs newly approved by the Food and Drug Administration.
 
@@ -146,6 +146,10 @@ Sharing of Information With State Prescription Drug Monitoring Programs.—(1) T
 
 (h)
 
+Labeling.—The Secretary of Defense shall ensure that drugs made available through the facilities of the armed forces under the jurisdiction of the Secretary include labels and other labeling that are in compliance with the requirements of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.).
+
+(i)
+
 Definitions.—In this section:
 
 &emsp;(1) The term "eligible covered beneficiary" means a covered beneficiary for whom eligibility to receive pharmacy benefits through the means described in subsection (a)(2)(E) is established under this chapter or another provision of law.
@@ -156,21 +160,25 @@ Definitions.—In this section:
 
 &emsp;(4) The term "prescription drug" means a drug that is subject to section 503(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(b)).
 
-(i)
+(j)
 
 Regulations.—The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.
 
-(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, §714, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 110–181, div. A, title VII, §703(a), Jan. 28, 2008, 122 Stat. 188; Pub. L. 111–84, div. A, title X, §1073(a)(10), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §§702, 712(a), Jan. 2, 2013, 126 Stat. 1798, 1802; Pub. L. 113–291, div. A, title VII, §702(a)–(c)(1), Dec. 19, 2014, 128 Stat. 3410; Pub. L. 114–92, div. A, title VII, §§702, 715(f), Nov. 25, 2015, 129 Stat. 860, 867; Pub. L. 115–91, div. A, title VII, §§702(a), (b)(1), 714, title X, §1081(a)(24), Dec. 12, 2017, 131 Stat. 1433, 1434, 1438, 1595; Pub. L. 115–232, div. A, title VII, §715(a), Aug. 13, 2018, 132 Stat. 1813.)
+(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, §714, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 110–181, div. A, title VII, §703(a), Jan. 28, 2008, 122 Stat. 188; Pub. L. 111–84, div. A, title X, §1073(a)(10), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §§702, 712(a), Jan. 2, 2013, 126 Stat. 1798, 1802; Pub. L. 113–291, div. A, title VII, §702(a)–(c)(1), Dec. 19, 2014, 128 Stat. 3410; Pub. L. 114–92, div. A, title VII, §§702, 715(f), Nov. 25, 2015, 129 Stat. 860, 867; Pub. L. 115–91, div. A, title VII, §§702(a), (b)(1), 714, title X, §1081(a)(24), Dec. 12, 2017, 131 Stat. 1433, 1434, 1438, 1595; Pub. L. 115–232, div. A, title VII, §715(a), Aug. 13, 2018, 132 Stat. 1813; Pub. L. 116–92, div. A, title VII, §713(a), (b), Dec. 20, 2019, 133 Stat. 1446.)
 
 #### References in Text
 
 Section 715 of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (a)(2)(A), is section 715 of Pub. L. 114–92, which is set out as a note under this section.
 
-Subsection (h), referred to in subsec. (b), was redesignated subsec. (i) of this section by Pub. L. 115–232, div. A, title VII, §715(a)(1), Aug. 13, 2018, 132 Stat. 1813.
-
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (g)(3)(C), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of Title 42, The Public Health and Welfare, and Tables.
 
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (h), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(1). Pub. L. 116–92, §713(b), substituted "under subsection (j)" for "under subsection (h)".
+
+Subsecs. (h) to (j). Pub. L. 116–92, §713(a), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
 <b>2018</b>—Subsecs. (g) to (i). Pub. L. 115–232 added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
@@ -196,7 +204,7 @@ Subsec. (a)(6)(C)(i). Pub. L. 114–92, §702(b)(1), substituted "Beginning Octo
 
 Subsec. (a)(6)(C)(ii). Pub. L. 114–92, §702(b)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: "If the amount of the increase otherwise provided for a year by clause (i) is less than $1, the increase shall not be made for such year, but shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over under this clause for a year is $1 or more."
 
-<b>2014</b>—Subsec. (a)(5). Pub. L. 113–291, §702(a), substituted "the national mail-order pharmacy program" for "at least one of the means described in paragraph (2)(E)" and "shall include cost-sharing by the eligible covered beneficiary as specified in paragraph (6)." for "may include cost sharing by the eligible covered beneficiary in addition to any such cost sharing applicable to agents on the uniform formulary."
+<b>2014</b>—Subsec. (a)(5). Pub. L. 113–291, §702(a), substituted "the national mail-order pharmacy program" for "at least one of the means described in paragraph\(2)(E)" and "shall include cost-sharing by the eligible covered beneficiary as specified in paragraph (6)." for "may include cost sharing by the eligible covered beneficiary in addition to any such cost sharing applicable to agents on the uniform formulary."
 
 Subsec. (a)(6)(A)(i)(I). Pub. L. 113–291, §702(b)(1)(A), substituted "$8" for "$5".
 
@@ -274,13 +282,17 @@ Pub. L. 115–91, div. A, title VII, §702(b)(3), Dec. 12, 2017, 131 Stat. 1434,
 
 &emsp;"(B) not later than one year after prescribing such interim final rule and considering public comments with respect to such interim final rule, by prescribing a final rule."
 
-Pub. L. 110–181, div. A, title VII, §703(b), Jan. 28, 2008, 122 Stat. 188, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(3), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–84, div. A, title X, §1073(c)(12), Oct. 28, 2009, 123 Stat. 2475, provided that: "The Secretary of Defense shall, after consultation with the other administering Secretaries under chapter 55 of title 10, United StatesCode, modify the regulations under subsection (h) \[now subsection (i)\] of section 1074g of title 10, United States Code (as redesignated by subsection (a)(1) of this section), to implement the requirements of subsection (f) of section 1074g of title 10, United States Code (as inserted by subsection (a)(2) of this section). The Secretary shall so modify such regulations not later than December 31, 2007."
+Pub. L. 110–181, div. A, title VII, §703(b), Jan. 28, 2008, 122 Stat. 188, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(3), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–84, div. A, title X, §1073(c)(12), Oct. 28, 2009, 123 Stat. 2475, provided that: "The Secretary of Defense shall, after consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, modify the regulations under subsection (h) \[now subsection (j)\] of section 1074g of title 10, United States Code (as redesignated by subsection (a)(1) of this section), to implement the requirements of subsection (f) of section 1074g of title 10, United States Code (as inserted by subsection (a)(2) of this section). The Secretary shall so modify such regulations not later than December 31, 2007."
 
 \[Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(12) to section 1061(b)(3) of Pub. L. 110–417, included in the credit set out above, is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.\]
 
 #### Termination of Advisory Panels
 
 Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Implementation
+
+Pub. L. 116–92, div. A, title VII, §713(c), Dec. 20, 2019, 133 Stat. 1446, provided that: "Beginning not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall implement subsection (h) of section 1074g of title 10, United States Code, as added by subsection (a)."
 
 #### Reimbursement by Department of Defense to Entities Carrying Out State Vaccination Programs for Costs of Vaccines Provided to Covered Beneficiaries
 
@@ -382,7 +394,7 @@ Selection.—The Secretaries shall select for inclusion on the joint uniform for
 
 "(c)
 
-Report.—Not later than July 1, 2016, the Secretaries shall jointly submit to the appropriate congressional committees a report on the joint uniform formulary established under subsection (a), including alist of the pharmaceutical agents selected for inclusion on the formulary.
+Report.—Not later than July 1, 2016, the Secretaries shall jointly submit to the appropriate congressional committees a report on the joint uniform formulary established under subsection (a), including a list of the pharmaceutical agents selected for inclusion on the formulary.
 
 "(d)
 
@@ -398,7 +410,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(B) the Committees on Veterans' Affairs of the House of Representatives and the Senate.
 
-&emsp;"(2) The term 'pharmaceutical agent' has the meaning given that term in section 1074g(g) \[now 1074g(h)\] of title 10, United States Code.
+&emsp;"(2) The term 'pharmaceutical agent' has the meaning given that term in section 1074g(g) \[now 1074g(i)\] of title 10, United States Code.
 
 "(f)
 
@@ -532,7 +544,7 @@ Nonparticipation.—
 
 &emsp;"(1)
 
-Opt out.—The Secretary shall give TRICARE for Life beneficiaries who have been covered by the pilot program under subsection (a) for a period of one year an opportunity to opt out of continuing to participate in the program.
+Opt out.—The Secretary shall give TRICARE for Life beneficiaries who have been covered by the pilot program under subsection (a) for a period of oneyear an opportunity to opt out of continuing to participate in the program.
 
 &emsp;"(2)
 
@@ -672,7 +684,7 @@ Continuation of Demonstration Project.—If the Secretary recommends in the repo
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'drug' means a drug, including a biological product, within the meaning of section 1074g(f)(2) \[now 1074g(h)(2)\] of title 10, United States Code.
+&emsp;"(1) The term 'drug' means a drug, including a biological product, within the meaning of section 1074g(f)(2) \[now 1074g(i)(2)\] of title 10, United States Code.
 
 &emsp;"(2) The term 'OTC drug' has the meaning indicated for such term in subsection (b)(1)(A).
 
@@ -707,6 +719,4 @@ Pub. L. 106–65, div. A, title VII, §701(c), Oct. 5, 1999, 113 Stat. 680, dire
 #### Study for Design of Pharmacy Benefit for Certain Covered Beneficiaries
 
 Pub. L. 106–65, div. A, title VII, §701(d), Oct. 5, 1999, 113 Stat. 680, required the Secretary of Defense to prepare and submit to Congress, by Apr. 15, 2001, a study on a design for a comprehensive pharmacy benefit for covered beneficiaries under chapter 55 of title 10, who are entitled to benefits under part A, and enrolled under part B, of title XVIII of the Social Security Act, and to provide an estimate of the costs of implementing and operating such design, prior to repeal by Pub. L. 107–107, div. A, title VII, §723, Dec. 28, 2001, 115 Stat. 1168.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

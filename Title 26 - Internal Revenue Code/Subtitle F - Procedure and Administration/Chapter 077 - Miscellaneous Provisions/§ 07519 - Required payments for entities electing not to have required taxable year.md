@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (B) S corporations
 
-&emsp;&emsp;In the case of an S corporation, net income shall be the amount (not below zero) determined by taking into account the aggregate amount of the S corporation's items described in section 1366(a) (other than credits and tax-exempt income). If the S corporation was a C corporation for the base year, its taxable income for such year shall be treated as its net income for such year (andsuch corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3)).
+&emsp;&emsp;In the case of an S corporation, net income shall be the amount (not below zero) determined by taking into account the aggregate amount of the S corporation's items described in section 1366(a) (other than credits and tax-exempt income). If the S corporation was a C corporation for the base year, its taxable income for such year shall be treated as its net income for such year (and such corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3)).
 
 #### (C) Certain limitations disregarded
 
@@ -169,7 +169,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any failure by any person to pay on the date prescribed therefor any amount required by this section, there shall be imposed on such person a penalty of 10 percent of the underpayment. For purposes of the preceding sentence, the term "underpayment" means the excess of the amount of the payment required under this section over the amount (if any) of such payment paid on or before the date prescribed therefor. No penalty shall be imposed under this subparagraph on any failure which is shown to be due to reasonable cause and not willful neglect.
+&emsp;&emsp;In the case of any failure by any person to pay on the date prescribed therefor any amount required by this section, there shall be imposed on such person a penalty of 10 percent of the underpayment. For purposes of the preceding sentence, the term "underpayment" means the excess of the amount of the payment required under this section over the amount (if any) of such paymentpaid on or before the date prescribed therefor. No penalty shall be imposed under this subparagraph on any failure which is shown to be due to reasonable cause and not willful neglect.
 
 #### (B) Negligence and fraud penalties made applicable
 

@@ -42,7 +42,7 @@ The national sea grant college program shall consist of the financial assistance
 
 #### (d) Director of National Sea Grant College Program
 
-(1) The Secretary shall appoint, as the Director of the National Sea Grant College Program,a qualified individual who has appropriate administrative experience and knowledge or expertise in fields related to ocean, coastal, and Great Lakes resources. The Director shall be appointed and compensated, without regard to the provisions of title 5 governing appointments in the competitive service, at a rate payable under section 5376 of title 5.
+(1) The Secretary shall appoint, as the Director of the National Sea Grant College Program, a qualified individual who has appropriate administrative experience and knowledge or expertise in fields related to ocean, coastal, and Great Lakes resources. The Director shall be appointed and compensated, without regard to the provisions of title 5 governing appointments in the competitive service, at a rate payable under section 5376 of title 5.
 
 (2) Subject to the supervision of the Secretary, the Director shall administer the national sea grant college program and oversee the operation of the national sea grant office. In addition to any other duty prescribed by law or assigned by the Secretary, the Director shall—
 
@@ -118,7 +118,7 @@ Subsec. (d)(3)(B)(iv). Pub. L. 107–299, §3(c), added cl. (iv).
 
 <b>1998</b>—Pub. L. 105–160 amended section catchline and text generally. Prior to amendment text consisted of subsecs. (a) to (d) relating to maintenance within the Administration of the National Sea Grant College Program, appointment and compensation of a Director of the program, duties of the Director, and powers of the Secretary to carry out the provisions of this subchapter.
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–186, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary shall maintain, within the Administration, a program to be known as the national sea grant college program. The national sea grant college program shall consist of the financial assistance and other activities provided for in this subchapter. The Secretary shall establish long-range planning guidelines and priorities for, and adequately evaluate, this program."
+<b>1991</b>—Subsec. (a). Pub. L. 102–186, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary shall maintain, within the Administration, a program to be known as the national sea grant college program. The national sea grant college program shall consist of the financial assistance and other activities provided for in this subchapter.The Secretary shall establish long-range planning guidelines and priorities for, and adequately evaluate, this program."
 
 Subsec. (c)(3). Pub. L. 102–186, §4(b)(1)(A), substituted "section 1124" for "sections 1124 and 1125".
 
@@ -168,17 +168,7 @@ Subsec. (i)(4)(A) to (C). Pub. L. 93–73, §1(5), substituted "Secretary" for "
 
 #### Review of Evaluation and Rating Process
 
-Pub. L. 107–299, §3(b)(2), Nov. 26, 2002, 116 Stat. 2346, provided that:
-
-"(A) After 3 years after the date of the enactment of this Act \[Nov. 26, 2002\], the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, shall contract with the National Academy of Sciences—
-
-&emsp;"(i) to review the effectiveness of the evaluation and rating system under the amendment made by paragraph (1) \[amending this section\] in determining the relative performance of programs of sea grant colleges and sea grant institutes;
-
-&emsp;"(ii) to evaluate whether the sea grant programs have improved as a result of the evaluation process; and
-
-&emsp;"(iii) to make appropriate recommendations to improve the overall effectiveness of the evaluation process.
-
-"(B) The National Academy of Sciences shall submit a report to the Congress on the findings and recommendations of the panel under subparagraph (A) by not later than 4 years after the date of the enactment of this Act \[Nov. 26, 2002\]."
+Pub. L. 107–299, §3(b)(2), Nov. 26, 2002, 116 Stat. 2346, provided that after 3 years after Nov. 26, 2002, the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, was to contract with the National Academy of Sciences to review the effectiveness of the evaluation and rating system under this section in determining the relative performance of programs of sea grant colleges and sea grant institutes and provided that the National Academy of Sciences would submit a report to the Congress on the findings and recommendations of the panel not later than 4 years after Nov. 26, 2002.
 
 #### Notice of Reorganization
 

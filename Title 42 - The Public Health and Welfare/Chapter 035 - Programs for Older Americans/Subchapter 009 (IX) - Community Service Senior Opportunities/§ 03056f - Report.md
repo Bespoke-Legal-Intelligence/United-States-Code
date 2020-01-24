@@ -1,6 +1,6 @@
 ### §3056f. Report
 
-To carry out the Secretary's responsibilities for reporting in section 3056a(g) of this title, the Secretary shall require the State agency for each State that receives funds under this subchapter to prepare and submit a report at the beginning of each fiscal year on such State's compliance with section 3056e(b) of this title. Such report shall include the names and geographic location of all projects assisted under this subchapter and carried out in the State and the amount allocated to each such project under section 3056d of this title.
+To carry out the Secretary's responsibilities for reporting in section 3056a(g) of this title, theSecretary shall require the State agency for each State that receives funds under this subchapter to prepare and submit a report at the beginning of each fiscal year on such State's compliance with section 3056e(b) of this title. Such report shall include the names and geographic location of all projects assisted under this subchapter and carried out in the State and the amount allocated to each such project under section 3056d of this title.
 
 (Pub. L. 89–73, title V, §508, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2579.)
 

@@ -6,7 +6,7 @@ The President shall establish and maintain a process to allow volunteers to repo
 
 #### (b) Guidance
 
-The President shall provide additional training to officers and employees of the Peace Corps who have access to information reported by volunteers under subsection (a) in order to protect against the inappropriate disclosures of such information and ensure the safety of such volunteers.
+The President shall provide additional training to officers and employees of the Peace Corpswho have access to information reported by volunteers under subsection (a) in order to protect against the inappropriate disclosures of such information and ensure the safety of such volunteers.
 
 #### (c) Penalty
 

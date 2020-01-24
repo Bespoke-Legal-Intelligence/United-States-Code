@@ -68,7 +68,7 @@ Pay of Air Carrier Employees.—(1) In this subsection—
 
 &emsp;(A) the State or political subdivision of the State that is the residence of the employee.
 
-&emsp;(B) the State or political subdivision of the State in which the employee earns more than50 percent of the pay received by the employee from the carrier.
+&emsp;(B) the State or political subdivision of the State in which the employee earns more than 50 percent of the pay received by the employee from the carrier.
 
 (3) Compensation paid by an air carrier to an employee described in subsection (a) in connection with such employee's authorized leave or other authorized absence from regular duties on the carrier's aircraft in order to perform services on behalf of the employee's airline union shall be subject to the income tax laws of only the following:
 
@@ -136,7 +136,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1112; added Dec. 23, 1970, Pub.
 
 49 App.:1512(a).
 
-Subsection (a) is made applicable to subsections (b) and (e) of this section to avoid having to repeat the term being defined. In subsection (a), the words "Commonwealth of Puerto Rico, the Virgin Islands, Guam" are omitted as surplus because of the definition of "territory or possession of the United States" in section 40102(a) of the revised title. The word "authority" is substituted for "agencies" for consistency in the revised title and with other titles of the United States Code.
+Subsection (a) is made applicable to subsections (b) and (e) of this section to avoid having to repeat the term being defined. In subsection (a), the words "Commonwealth of Puerto Rico, the Virgin Islands, Guam" are omitted as surplus because of the definition of "territory or possession of the United States" in section40102(a) of the revised title. The word "authority" is substituted for "agencies" for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b), before clause (1), reference to 49 App.:1513(f), restated as subsection (c) of this section, is added for clarity. The words "directly or indirectly" are omitted as surplus. The text of 49 App.:1513(a) (words after "subsection (e) and") is omitted as surplus.
 

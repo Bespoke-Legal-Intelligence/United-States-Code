@@ -38,7 +38,7 @@
 
 #### (B) Treatment when annuitant returns to service
 
-&emsp;&emsp;If an annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 2111 of this title, or reinstated or reappointed, in the case of a recovereddisability annuitant, or if any annuitant is reemployed as provided for under sections 2112 and 2113 of this title, the pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the fund.
+&emsp;&emsp;If an annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 2111 of this title, or reinstated or reappointed, in the case of a recovered disability annuitant, or if any annuitant is reemployed as provided for under sections 2112 and 2113 of this title, the pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the fund.
 
 #### (6) Disability annuitant
 
@@ -96,7 +96,7 @@
 
 #### (B) Election of spouse annuity
 
-&emsp;&emsp;Subject to paragraph (4)(B), the participant may elect in writing within one yearafter receipt of notice of the death or remarriage of the former spouse to continue the reduction in order to provide a higher survivor annuity under section 2031(b)(3) of this title for any spouse of the participant.
+&emsp;&emsp;Subject to paragraph (4)(B), the participant may elect in writing within two years after receipt of notice of the death or remarriage of the former spouse to continue the reduction in order to provide a higher survivor annuity under section 2031(b)(3) of this title for any spouse of the participant.
 
 #### (c) Optional additional survivor annuities for other former spouse or surviving spouse
 
@@ -150,13 +150,15 @@
 
 &emsp;Section 2131 of this title does not apply to an annuity under this subsection, unless authorized under regulations prescribed by the Director.
 
-(Pub. L. 88–643, title II, §222, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3212; amended Pub. L. 103–178, title II, §202(a)(5), Dec. 3, 1993, 107 Stat. 2026.)
+(Pub. L. 88–643, title II, §222, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3212; amended Pub. L. 103–178, title II, §202(a)(5), Dec. 3, 1993, 107 Stat. 2026; Pub. L. 116–92, div. E, title LXII, §6202(b), Dec. 20, 2019, 133 Stat. 2186.)
 
 #### Prior Provisions
 
 A prior section 222 of Pub. L. 88–643, as added Pub. L. 97–269, title VI, §606, Sept. 27, 1982, 96 Stat. 1148; amended Pub. L. 99–335, title V, §501(2), (3), June 6, 1986, 100 Stat. 622; Pub. L. 102–88, title III, §305(a)(2), Aug. 14, 1991, 105 Stat. 432, related to computation of annuities for former spouses and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(5)(B). Pub. L. 116–92 substituted "two years" for "one year".
 
 <b>1993</b>—Subsec. (a)(7). Pub. L. 103–178, §202(a)(5)(A), substituted "any survivor annuity" for "any other annuity".
 
@@ -294,7 +296,7 @@ Definition of terms.—For purposes of clause (i):
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
 
-Apportionment.—The term 'apportionment' means a portion of a retired participant'sannuity payable to a former wife or husband either by the retired participant or the Government in accordance with the terms of a court order.
+Apportionment.—The term 'apportionment' means a portion of a retired participant's annuity payable to a former wife or husband either by the retired participant or the Government in accordance with the terms of a court order.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
@@ -342,7 +344,7 @@ Disability annuities.—Notwithstanding subparagraph (A)(i)(II), in the case of 
 
 &emsp;&emsp;"(C)
 
-Election of benefits.—A former wife or husband of a participant or retired participant shall not become entitled under this subsection to an annuity or to the restoration of an annuity unless the former wife or husband elects to receive it instead of any survivor annuity to which the former wife or husband may be entitled under the Central Intelligence Agency Retirement and Disability System or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
+Election of benefits.—A former wife or husband of a participant or retired participant shall not become entitled under this subsection to an annuity or to the restoration of an annuity unless the former wife or husband elects to receive it instead of any survivor annuity to which the former wife orhusband may be entitled under the Central Intelligence Agency Retirement and Disability System or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
 
 &emsp;&emsp;"(D)
 

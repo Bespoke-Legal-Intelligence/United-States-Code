@@ -12,11 +12,11 @@
 
 #### (b) Amendment
 
-A benefits agreement entered into under subsection (a) may be amended only by the mutualconsent of the parties to the agreement and terminated only in accordance with section 10173c of this title.
+A benefits agreement entered into under subsection (a) may be amended only by the mutual consent of the parties to the agreement and terminated only in accordance with section 10173c of this title.
 
 #### (c) Agreement with Nevada
 
-The Secretary shall offer to enter into a benefits agreement with the Governor of Nevada. Any benefits agreement with a State under this subsection shall be negotiated in consultation with any affected units of local government in such State.
+The Secretary shall offer to enter into a benefits agreement with the Governor of Nevada.Any benefits agreement with a State under this subsection shall be negotiated in consultation with any affected units of local government in such State.
 
 #### (d) Monitored retrievable storage
 

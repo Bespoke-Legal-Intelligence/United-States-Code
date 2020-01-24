@@ -14,7 +14,7 @@ Each such application shall be submitted in such form and manner as the Secretar
 
 &emsp;(1) information to determine the eligibility of the local educational agency for a payment and the amount of such payment; and
 
-&emsp;(2) where applicable, an assurance that such agency is in compliance with section 7704 ofthis title (relating to children residing on Indian lands).
+&emsp;(2) where applicable, an assurance that such agency is in compliance with section 7704 of this title (relating to children residing on Indian lands).
 
 #### (c) Deadline for submission
 

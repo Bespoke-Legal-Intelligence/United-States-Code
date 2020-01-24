@@ -4,7 +4,7 @@
 
 #### (1) Remote work assignment
 
-&emsp;At the request of a covered employee who files a claim alleging a violation of part A ofsubchapter II by the covered employee's employing office, during the pendency of any of the procedures available under this subchapter for consideration of the claim, the employing office may permit the covered employee to carry out the employee's responsibilities from a remote location (referred to in this section as "permitting a remote work assignment") where such relocation would have the effect of materially reducing interactions between the covered employee and any person alleged to have committed the violation, instead of from a location of the employing office.
+&emsp;At the request of a covered employee who files a claim alleging a violation of part A of subchapter II by the covered employee's employing office, during the pendency of any of the procedures available under this subchapter for consideration of the claim, the employing office may permit the covered employee to carry out the employee's responsibilities from a remote location (referred to in this section as "permitting a remote work assignment") where such relocation would have the effect of materially reducing interactions between the covered employee and any person alleged to have committed the violation, instead of from a location of the employing office.
 
 #### (2) Exception for work assignments required to be carried out onsite
 

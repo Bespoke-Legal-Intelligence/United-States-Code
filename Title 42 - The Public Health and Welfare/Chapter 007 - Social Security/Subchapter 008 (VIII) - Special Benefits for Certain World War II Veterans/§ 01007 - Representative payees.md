@@ -138,7 +138,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), if the Commissioner of Social Security makes a determination described in the first sentence of subsection (a) with respect to any qualified individual's benefit and determines that direct payment of the benefit to the qualified individual would cause substantial harm to the qualified individual, the Commissioner of Social Security may defer (in the case of initialentitlement) or suspend (in the case of existing entitlement) direct payment of the benefit to the qualified individual, until such time as the selection of a representative payee is made pursuant to this section.
+&emsp;Subject to paragraph (2), if the Commissioner of Social Security makes a determination described in the first sentence of subsection (a) with respect to any qualified individual's benefit and determines that direct payment of the benefit to the qualified individual would cause substantial harm to the qualified individual, the Commissioner of Social Security may defer (in the case of initial entitlement) or suspend (in the case of existing entitlement) direct payment of the benefit to the qualified individual, until such time as the selection of a representative payee is made pursuant to this section.
 
 #### (2) Time limitation
 
@@ -188,7 +188,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 &emsp;&emsp;(A) Paragraph (1) shall not apply in any case where the other person to whom such payment is made is the spouse of the individual entitled to such payment.
 
-&emsp;&emsp;(B) The Commissioner of Social Security shall establish and implement procedures as necessary for the Commissioner to determine the eligibility of such parties for the exemption provided in subparagraph (A). The Commissioner shall prescribe such regulations as may be necessary to determine eligibility for such exemption.
+&emsp;&emsp;(B) The Commissioner of Social Security shall establish and implement procedures asnecessary for the Commissioner to determine the eligibility of such parties for the exemption provided in subparagraph (A). The Commissioner shall prescribe such regulations as may be necessary to determine eligibility for such exemption.
 
 #### (4) Authority to redirect delivery of benefit payments when a representative payee fails to provide required accounting
 

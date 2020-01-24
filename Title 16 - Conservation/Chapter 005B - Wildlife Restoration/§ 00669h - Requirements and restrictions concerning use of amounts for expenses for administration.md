@@ -68,7 +68,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (B) Supervision of auditor
 
-&emsp;&emsp;The auditor selected under subparagraph (A) shall report to, and be supervised by, the Inspector General of the Department of theInterior, except that the auditor shall submit a copy of the biennial audit findings to the Secretary of the Interior at the time at which the findings are submitted to the Inspector General of the Department of the Interior.
+&emsp;&emsp;The auditor selected under subparagraph (A) shall report to, and be supervised by, the Inspector General of the Department of the Interior, except that the auditor shall submit a copy of the biennial audit findings to the Secretary of the Interior at the time at which the findings are submitted to the Inspector General of the Department of the Interior.
 
 #### (3) Report to Congress
 

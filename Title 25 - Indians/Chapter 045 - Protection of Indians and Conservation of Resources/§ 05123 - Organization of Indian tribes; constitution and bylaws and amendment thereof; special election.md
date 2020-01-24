@@ -58,7 +58,7 @@ Notwithstanding any other provision of this Act—
 
 #### References in Text
 
-Act of June 18, 1934 (25 U.S.C. 461 et seq., 48 Stat. 984) and this Act, referred to in subsecs. (f) and (h), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which was classified generally to subchapter V (§461 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+Act of June 18, 1934 (25 U.S.C. 461 et seq., 48 Stat. 984) and this Act, referred to in subsecs. (f) and (h), is actJune 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which was classified generally to subchapter V (§461 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 #### Codification
 

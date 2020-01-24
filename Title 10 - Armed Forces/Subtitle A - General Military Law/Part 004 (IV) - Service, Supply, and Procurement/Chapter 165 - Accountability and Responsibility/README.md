@@ -60,7 +60,7 @@ Pub. L. 104–106, div. B, title XXVIII, §2821(b), Feb. 10, 1996, 110 Stat. 556
 
 Pub. L. 99–167, title VIII, §802(d)(2), Dec. 3, 1985, 99 Stat. 987, substituted "assigned to military housing" for "for damage to housing and related equipment and furnishings" in item 2775.
 
-<b>1984</b>—Pub. L. 98–407, title VIII, §801(a)(2), Aug. 28, 1984, 98 Stat. 1518, substituted "members for damage to housing and related equipment and furnishings" for "member for damages to family housing, equipment, and furnishings" in item 2775.
+<b>1984</b>—Pub. L. 98–407, title VIII, §801(a)(2), Aug. 28, 1984, 98 Stat. 1518, substituted "members for damage tohousing and related equipment and furnishings" for "member for damages to family housing, equipment, and furnishings" in item 2775.
 
 <b>1982</b>—Pub. L. 97–258, §2(b)(7)(A), (8)(A), Sept. 13, 1982, 96 Stat. 1054, substituted "Designation, powers, and accountability of deputy disbursing officials" for "Accountability for public money: disbursing officers; agent officers" in item 2773 and added items 2776, 2777, 2778, and 2779.
 

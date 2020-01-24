@@ -2,7 +2,7 @@
 
 &emsp;&emsp;<b>For provisions requiring recordkeeping by wholesale liquor dealers, see section 5121, and by retail liquor dealers, see section 5122.</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1356, §5181; amended Pub. L. 96–39, title VIII, §807(a)(20), July 26, 1979, 93 Stat. 283; renumbered §5182, Pub. L. 96–223, title II, §232(e)(1), Apr. 2, 1980, 94 Stat. 278; Pub. L. 109–59, title XI, §11125(b)(16), Aug. 10, 2005, 119 Stat. 1956; Pub. L. 115–141, div. U, title IV, §401(a)(243), Mar. 23, 2018, 132 Stat. 1195.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1356, §5181; amended Pub. L. 96–39, title VIII, §807(a)(20), July 26, 1979, 93 Stat. 283; renumbered §5182, Pub. L. 96–223, title II, §232(e)(1), Apr. 2, 1980, 94 Stat. 278; Pub. L. 109–59, title XI, §11125(b)(16), Aug. 10, 2005, 119 Stat. 1956;Pub. L. 115–141, div. U, title IV, §401(a)(243), Mar. 23, 2018, 132 Stat. 1195.)
 
 #### Prior Provisions
 

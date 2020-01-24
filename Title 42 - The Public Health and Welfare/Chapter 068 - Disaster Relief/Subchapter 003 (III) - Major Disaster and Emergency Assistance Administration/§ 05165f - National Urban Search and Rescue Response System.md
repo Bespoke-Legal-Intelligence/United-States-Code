@@ -140,7 +140,7 @@ The Administrator shall maintain such management teams and other technical teams
 
 #### (3) Reimbursement for State or local benefits
 
-&emsp;Subject to such terms and conditions as the Administrator may impose by regulation, if aSystem member or dependent elects to receive benefits from a State or local government under paragraph (2)(A), the Administrator shall reimburse the State or local government for the value of the benefits.
+&emsp;Subject to such terms and conditions as the Administrator may impose by regulation, if a System member or dependent elects to receive benefits from a State or local government under paragraph (2)(A), the Administrator shall reimburse the State or local government for the value of the benefits.
 
 #### (4) Public safety officer claims
 
@@ -188,13 +188,21 @@ The Administrator may incur all necessary obligations consistent with this secti
 
 Not later than 180 days after December 16, 2016, the Administrator shall submit to the appropriate congressional committees (as defined in section 101 of title 6) a report on the development of a plan, including implementation steps and timeframes, to finance, maintain, and replace System equipment.
 
-(Pub. L. 93–288, title III, §327, as added Pub. L. 114–326, §2(a), Dec. 16, 2016, 130 Stat. 1968.)
+#### (p) Federal employees
+
+Nothing in this section shall be construed to mean that a task force may not include Federal employees. In the case of a Federal employee detailed to a task force, the sponsoring agency shall enter into an agreement with the relevant employing Federal agency.
+
+(Pub. L. 93–288, title III, §327, as added Pub. L. 114–326, §2(a), Dec. 16, 2016, 130 Stat. 1968; amended Pub. L. 116–48, §1, Aug. 22, 2019, 133 Stat. 1071.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (f)(3), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (h)(4), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part L of title I of the Act was classified generally to part A (§3796 et seq.) of subchapter XII of chapter 46 of this title, prior to editorial reclassification and renumbering as subchapter XI (§10281 et seq.) of chapter 101 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of Title 34 and Tables.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (p). Pub. L. 116–48 added subsec. (p).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

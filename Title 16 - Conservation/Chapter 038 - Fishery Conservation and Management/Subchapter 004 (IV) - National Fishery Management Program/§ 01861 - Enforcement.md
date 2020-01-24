@@ -2,7 +2,7 @@
 
 #### (a) Responsibility
 
-The provisions of this chapter shall be enforced by the Secretary and the Secretary of the department in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, including all elements of the Department of Defense, and of any State agency, in the performance of such duties.
+The provisions of this chapter shall be enforced by the Secretary and the Secretary of thedepartment in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, including all elements of the Department of Defense, and of any State agency, in the performance of such duties.
 
 #### (b) Powers of authorized officers
 
@@ -20,7 +20,7 @@ The provisions of this chapter shall be enforced by the Secretary and the Secret
 
 &emsp;&emsp;(v) seize any other evidence related to any violation of any provision of this chapter; and
 
-&emsp;&emsp;(vi) access, directly or indirectly, for enforcement purposes any data or informationrequired to be provided under this subchapter or regulations under this subchapter, including data from vessel monitoring systems, satellite-based maritime distress and safety systems, or any similar system, subject to the confidentiality provisions of section 1881a of this title;
+&emsp;&emsp;(vi) access, directly or indirectly, for enforcement purposes any data or information required to be provided under this subchapter or regulations under this subchapter, including data from vessel monitoring systems, satellite-based maritime distress and safety systems, or any similar system, subject to the confidentiality provisions of section 1881a of this title;
 
 &emsp;(B) execute any warrant or other process issued by any court of competent jurisdiction; and
 
@@ -52,7 +52,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 &emsp;(B) a reward of not less than 20 percent of the penalty collected or $20,000, whichever is the lesser amount, to any person who furnishes information which leads to an arrest, conviction, civil penalty assessment, or forfeiture of property for any violation of any provision of this chapter or any other marine resource law enforced by the Secretary;
 
-&emsp;(C) any expenses directly related to investigations and civil or criminal enforcement proceedings, including any necessary expenses for equipment, training, travel, witnesses, and contracting services directly related to such investigations or proceedings;
+&emsp;(C) any expenses directly related to investigations and civil or criminal enforcement proceedings, including any necessary expensesfor equipment, training, travel, witnesses, and contracting services directly related to such investigations or proceedings;
 
 &emsp;(D) any valid liens or mortgages against any property that has been forfeited;
 
@@ -126,7 +126,7 @@ The Secretary, in consultation with the Governors of the Pacific Insular Areas a
 
 #### (4) Allocation of funds
 
-&emsp;The Secretary shall include in each joint enforcement agreement an allocation of funds to assist in management of the agreement. The allocation shall be fairly distributed among all eligible States participating in cooperative enforcement agreements under this subsection, based upon consideration of Federal marine enforcement needs, the specific marine conservation enforcement needs of each participating eligible State, and the capacity of the State to undertake the marine enforcement mission and assist with enforcement needs. The agreement may provide for amounts to be withheld by the Secretary for the cost of any technical or other assistance provided to the State by the Secretary under the agreement.
+&emsp;The Secretary shall include in each joint enforcement agreement an allocation of funds to assist in management of the agreement. Theallocation shall be fairly distributed among all eligible States participating in cooperative enforcement agreements under this subsection, based upon consideration of Federal marine enforcement needs, the specific marine conservation enforcement needs of each participating eligible State, and the capacity of the State to undertake the marine enforcement mission and assist with enforcement needs. The agreement may provide for amounts to be withheld by the Secretary for the cost of any technical or other assistance provided to the State by the Secretary under the agreement.
 
 #### (i) Improved data sharing
 
@@ -142,7 +142,7 @@ The Secretary, in consultation with the Governors of the Pacific Insular Areas a
 
 &emsp;The Secretary shall promptly enter into an agreement with a State under section 1881a(b)(1)(B) of this title if—
 
-&emsp;&emsp;(A) the Attorney General or highest ranking legal officer of the State provides a written opinion or certification that State lawallows the State to maintain the confidentiality of information required by Federal law to be kept confidential; or
+&emsp;&emsp;(A) the Attorney General or highest ranking legal officer of the State provides a written opinion or certification that State law allows the State to maintain the confidentiality of information required by Federal law to be kept confidential; or
 
 &emsp;&emsp;(B) the Secretary is provided other reasonable assurance that the State can and will protect the identity or business of any person to which such information relates.
 
@@ -180,7 +180,7 @@ Pub. L. 104–297, §115(a)(1), which directed substitution of "Guam or any" for
 
 Subsec. (e)(1). Pub. L. 104–297, §115(b)(1), substituted "marine resource law" for "fishery resource law" in introductory provisions and in subpars. (A) and (B).
 
-Subsec. (e)(1)(B). Pub. L. 104–297, §115(b)(2), inserted "of not less than 20 percent of the penalty collected or $20,000, whichever is the lesser amount," after "reward".
+Subsec. (e)(1)(B). Pub. L. 104–297, §115(b)(2), inserted "of not less than 20 percent of the penalty collected or$20,000, whichever is the lesser amount," after "reward".
 
 Subsec. (e)(1)(E). Pub. L. 104–297, §115(b)(3), added subpar. (E) and struck out former subpar. (E) which read as follows: "claims of parties in interest to property disposed of under section 1612(b) of title 19 or under other provisions of the customs laws, as made applicable by section 1860(c) of this title to seizures made by the Secretary under this chapter, in amounts determined by the Secretary to be applicable to such claims at the time of seizure; and".
 

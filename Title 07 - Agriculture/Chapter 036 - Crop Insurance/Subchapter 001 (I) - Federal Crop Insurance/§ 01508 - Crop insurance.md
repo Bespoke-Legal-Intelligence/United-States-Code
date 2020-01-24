@@ -36,7 +36,7 @@
 
 #### (II) Reversal or modification
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in clause (i), the determination may not be reversed or modified as the result of a subsequent administrative review.
+&emsp;&emsp;&emsp;&emsp;Except as provided in clause (i), the determination may not be reversed ormodified as the result of a subsequent administrative review.
 
 #### (iii) Judicial review
 
@@ -276,7 +276,7 @@
 
 #### (B) Need
 
-&emsp;&emsp;For purposes of considering need under subparagraph (A)(ii), the Secretary may take into account the most efficient andcost-effective use of resources, the availability of personnel, fairness to local producers, the needs and convenience of local producers, and the availability of private insurance carriers.
+&emsp;&emsp;For purposes of considering need under subparagraph (A)(ii), the Secretary may take into account the most efficient and cost-effective use of resources, the availability of personnel, fairness to local producers, the needs and convenience of local producers, and the availability of private insurance carriers.
 
 #### (C) Delivery of coverage
 
@@ -338,11 +338,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Corporation shall waive the amounts required under this paragraph forlimited resource farmers and beginning farmers or ranchers, as defined by the Corporation, and veteran farmers or ranchers.
+&emsp;&emsp;&emsp;The Corporation shall waive the amounts required under this paragraph for limited resource farmers and beginning farmers or ranchers, as defined by the Corporation, and veteran farmers or ranchers.
 
 #### (ii) Coordination
 
-&emsp;&emsp;&emsp;The Corporation shall coordinate with other agencies of the Department that provide programs or services to farmers and ranchers described in clause (i) to make available coverage under the waiver under that clause and to share eligibility information to reduce paperwork and avoid duplication.
+&emsp;&emsp;&emsp;The Corporation shall coordinate with other agencies of the Department that provide programs or services to farmers and ranchers described in clause (i) to makeavailable coverage under the waiver under that clause and to share eligibility information to reduce paperwork and avoid duplication.
 
 #### (6) Participation requirement
 
@@ -564,7 +564,7 @@
 
 #### (9) Limitations on additional coverage
 
-&emsp;The Board may limit the availability of additional coverage under this subsection in anycounty or area, or on any farm, on the basis of the insurance risk involved. The Board shall not offer additional coverage equal to less than 50 percent of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage.
+&emsp;The Board may limit the availability of additional coverage under this subsection in any county or area, or on any farm, on the basis of the insurance risk involved. The Board shall not offer additional coverage equal to less than 50 percent of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage.
 
 #### (10) Administrative fee
 
@@ -636,9 +636,9 @@
 
 &emsp;&emsp;&emsp;(ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
-&emsp;&emsp;(D) In the case of additional coverage equal to or greater than 65 percent, but less than 75 percent, of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policyor plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
+&emsp;&emsp;(D) In the case of additional coverage equal to or greater than 65 percent, but less than 75 percent, of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
 
-&emsp;&emsp;&emsp;(i) 59 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
+&emsp;&emsp;&emsp;(i) 59 percent of the amount of the premium established under subsection\(d)(2)(B)(i) for the coverage level selected; and
 
 &emsp;&emsp;&emsp;(ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
@@ -706,7 +706,7 @@
 
 &emsp;&emsp;(A) In the case of additional area coverage equal to or greater than 70 percent, but less than 75 percent, of the recorded county yield indemnified at not greater than 100 percent of the expected market price, the amount shall be equal to the sum of—
 
-&emsp;&emsp;&emsp;(i) 59 percent of the amount of the premium established under subsection\(d)(2)(B)(i) for the coverage level selected; and
+&emsp;&emsp;&emsp;(i) 59 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
 
 &emsp;&emsp;&emsp;(ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
@@ -768,7 +768,7 @@
 
 #### (B) Established dates
 
-&emsp;&emsp;Except as provided in subparagraph (C), the Corporation shall establish, for an insurance policy for each insurable crop that isplanted in the spring, a sales closing date that is 30 days earlier than the corresponding sales closing date that was established for the 1994 crop year.
+&emsp;&emsp;Except as provided in subparagraph (C), the Corporation shall establish, for an insurance policy for each insurable crop that is planted in the spring, a sales closing date that is 30 days earlier than the corresponding sales closing date that was established for the 1994 crop year.
 
 #### (C) Exception
 
@@ -1000,7 +1000,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A proposal submitted to the Board under this subsection (including any informationgenerated from the proposal) shall be considered to be confidential commercial or financial information for the purposes of section 552(b)(4) of title 5.
+&emsp;&emsp;&emsp;A proposal submitted to the Board under this subsection (including any information generated from the proposal) shall be considered to be confidential commercial orfinancial information for the purposes of section 552(b)(4) of title 5.
 
 #### (ii) Standard of confidentiality
 
@@ -1074,7 +1074,7 @@
 
 #### (B) Transitional schedule
 
-&emsp;&emsp;Effective only during the 2001 reinsurance year, in the case of a policy or plan of insurance developed and approved under this subsection or section 1522 of this title, or conducted under section 1523 of this title (otherthan a policy or plan of insurance applicable to livestock), and first approved by the Board after June 20, 2000, the payment by the Corporation of a portion of the premium of the policy may not exceed the dollar amount that would otherwise be authorized under subsection (e) (consistent with subsection (c)(5), as in effect on the day before June 20, 2000).
+&emsp;&emsp;Effective only during the 2001 reinsurance year, in the case of a policy or plan of insurance developed and approved under this subsection or section 1522 of this title, or conducted under section 1523 of this title (other than a policy or plan of insurance applicableto livestock), and first approved by the Board after June 20, 2000, the payment by the Corporation of a portion of the premium of the policy may not exceed the dollar amount that would otherwise be authorized under subsection (e) (consistent with subsection (c)(5), as in effect on the day before June 20, 2000).
 
 #### (6) Additional prevented planting policy coverage
 
@@ -1934,6 +1934,10 @@ Administration of program of Federal Crop Insurance Corporation transferred to S
 
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
 
+#### Crop Insurance Coverage for Hemp
+
+Pub. L. 116–20, title I, §107, June 6, 2019, 133 Stat. 875, provided that: "Beginning not later than the 2020 reinsurance year, the Federal Crop Insurance Corporation shall offer coverage under the wholefarm revenue protection insurance policy (or a successor policy or plan of insurance) for hemp (as defined in section 297A of the Agricultural Marketing Act of 1946 (7 U.S.C. 1639o)): <i>Provided</i>, That such amount is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
+
 #### Consideration of Losses in Fiscal Year 2014 and Subsequent Fiscal Years
 
 Pub. L. 113–235, div. A, title VII, §733, Dec. 16, 2014, 128 Stat. 2168, provided that: "For the 2014 fiscal year and each fiscal year thereafter, losses under section 1501 of Public Law 113–79 \[enacting section 9081 of this title\] shall not be considered the same loss for the purposes of 7 U.S.C. 7333(i)(3) and 7 U.S.C. 1508(n)."
@@ -2014,7 +2018,7 @@ Eligible Producers.—Subsection (a) shall apply to a producer who—
 
 &emsp;"(3) had a reasonable expectation of planting a crop on the prevented planting acreage for the 1994 crop year; and
 
-&emsp;"(4) participates in a conserving use program established for the 1994 crop of wheat, feed grains, uplandcotton, or rice established under section 107B(c)(1)(E), 105B(c)(1)(E), 103B(c)(1)(D), or 101B(c)(1)(D), respectively, of the Agricultural Act of 1949 (\[former\] 7 U.S.C. 1445b–3a(c)(1)(E), 1444f(c)(1)(E), 1444–2(c)(1)(D), or 1441–2(c)(1)(D)).
+&emsp;"(4) participates in a conserving use program established for the 1994 crop of wheat, feed grains, upland cotton, or rice established under section 107B(c)(1)(E), 105B(c)(1)(E), 103B(c)(1)(D), or 101B(c)(1)(D), respectively, of the Agricultural Act of 1949 (\[former\] 7 U.S.C. 1445b–3a(c)(1)(E), 1444f(c)(1)(E), 1444–2(c)(1)(D), or 1441–2(c)(1)(D)).
 
 "(c)
 

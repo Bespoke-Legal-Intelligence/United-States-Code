@@ -74,11 +74,11 @@ The objectives of the VfP Program should include—
 
 #### (1) In general
 
-&emsp;The Administrator of the United States Agency for International Development shallmake available the amounts appropriated pursuant to section 8304 of this title to the VfP Office to pursue the objectives described in subsection (b) by carrying out the functions described in subsection (a).
+&emsp;The Administrator of the United States Agency for International Development shall make available the amounts appropriated pursuant to section 8304 of this title to the VfP Office to pursue the objectives described in subsection (b) by carrying out the functions described in subsection (a).
 
 #### (2) Use of funds
 
-&emsp;Amounts made available under paragraph (1) may be used by the VfP Office to provide personnel and other resources to develop, manage, and expand the VfP Program, under the supervision of the United States Agency for International Development.
+&emsp;Amounts made available under paragraph (1) may be used by the VfP Office to provide personnel and other resources to develop, manage, and expand the VfP Program, under thesupervision of the United States Agency for International Development.
 
 #### (e) Coordination
 

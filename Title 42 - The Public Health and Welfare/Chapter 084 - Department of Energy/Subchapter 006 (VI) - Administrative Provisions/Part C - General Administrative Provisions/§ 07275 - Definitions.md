@@ -10,7 +10,7 @@ As used in sections 7275 to 7276c of this title:
 
 &emsp;(4) The term "long-term firm power service contract" means any contract for the sale by Western Area Power Administration of firm capacity, with or without energy, which is to be delivered over a period of more than one year.
 
-&emsp;(5) The terms "customer" or "customers" means any entity or entities purchasing firm capacity with or without energy, from the Western Area Power Administration under a long-term firm power service contract. Such terms include parent-type entities and their distribution or user members.
+&emsp;(5) The terms "customer" or "customers" means any entity or entities purchasing firmcapacity with or without energy, from the Western Area Power Administration under a long-term firm power service contract. Such terms include parent-type entities and their distribution or user members.
 
 &emsp;(6) For any customer, the term "applicable integrated resource plan" means the integrated resource plan approved by the Administrator under sections 7275 to 7276c of this title for that customer.
 

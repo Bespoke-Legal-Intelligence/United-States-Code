@@ -58,7 +58,7 @@ In general.—The Secretary shall establish a public transportation safety certi
 
 &emsp;(2)
 
-Interim provisions.—Not later than 90 days after the date of enactment of the Federal Public Transportation Act of 2012, theSecretary shall establish interim provisions for the certification and training of the personnel described in paragraph (1), which shall be in effect until the effective date of the final rule issued by the Secretary to implement this subsection.
+Interim provisions.—Not later than 90 days after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall establish interim provisions for the certification and training of the personnel described in paragraph (1), which shall be in effect until the effective date of the final rule issued by the Secretary to implement this subsection.
 
 (d)
 
@@ -238,7 +238,7 @@ Issuance of certifications and denials.—The Secretary shall issue a certificat
 
 &emsp;&emsp;(C)
 
-Disapproval.—If the Secretary determines that a State safety oversight programdoes not meet the requirements of this subsection and denies certification, the Secretary shall transmit to the eligible State a written explanation and allow the eligible State to modify and resubmit the State safety oversight program for approval.
+Disapproval.—If the Secretary determines that a State safety oversight program does not meet the requirements of this subsection and denies certification, the Secretary shall transmit to the eligible State a written explanation and allow the eligible State to modify and resubmit the State safety oversight program for approval.
 
 &emsp;&emsp;(D)
 
@@ -276,7 +276,7 @@ Failure to correct.—If the Secretary determines in accordance with subparagrap
 
 &emsp;&emsp;&emsp;(i) withhold funds available under paragraph (6) in an amount determined by the Secretary;
 
-&emsp;&emsp;&emsp;(ii) beginning 1 year after the date of the determination, withhold not more than 5 percent of the amount required to be appropriated for use in a State or an urbanized area in the State under section 5307, until the State safety oversight program or modification has been certified; and
+&emsp;&emsp;&emsp;(ii) beginning 1 year after the date of the determination, withhold not more than 5percent of the amount required to be appropriated for use in a State or an urbanized area in the State under section 5307, until the State safety oversight program or modification has been certified; and
 
 &emsp;&emsp;&emsp;(iii) use any other authorities authorized under this chapter considered necessary and appropriate.
 

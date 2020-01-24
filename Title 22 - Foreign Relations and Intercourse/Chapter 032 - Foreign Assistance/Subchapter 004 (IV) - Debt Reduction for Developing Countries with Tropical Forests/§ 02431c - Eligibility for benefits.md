@@ -10,7 +10,7 @@ To be eligible for benefits from the Facility under this subchapter, a country s
 
 &emsp;(3) whose government is not failing to cooperate on international narcotics control matters;
 
-&emsp;(4) whose government (including its military or other security forces) does not engage in a consistent pattern of gross violations of internationally recognized human rights;
+&emsp;(4) whose government (including its military or other security forces) does not engage in aconsistent pattern of gross violations of internationally recognized human rights;
 
 &emsp;(5) that has in effect, has received approval for, or is making significant progress toward—
 

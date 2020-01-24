@@ -6,7 +6,7 @@ Criminal Penalties.—
 
 &emsp;(1)
 
-Failure to file; submission of false or misleading information.—Any person who knowingly fails to file or knowingly submits false or misleading export information through the Shippers Export Declaration (SED) (or any successor document) or the Automated Export System (AES) shall be subject to a fine not to exceed $10,000 per violation or imprisonment for not more than 5 years, or both.
+Failure to file; submission of false or misleading information.—Any person who knowingly fails to file or knowingly submits false or misleading export information through the Shippers Export Declaration\(SED) (or any successor document) or the Automated Export System (AES) shall be subject to a fine not to exceed $10,000 per violation or imprisonment for not more than 5 years, or both.
 
 &emsp;(2)
 
@@ -86,7 +86,7 @@ Reference to Commissioner of Customs deemed to be reference to Commissioner of U
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of theSecretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

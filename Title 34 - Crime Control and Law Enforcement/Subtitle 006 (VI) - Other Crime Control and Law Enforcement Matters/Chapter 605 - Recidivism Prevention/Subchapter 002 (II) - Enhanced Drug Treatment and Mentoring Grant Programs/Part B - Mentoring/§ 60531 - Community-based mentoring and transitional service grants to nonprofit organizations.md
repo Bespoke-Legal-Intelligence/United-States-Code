@@ -16,7 +16,7 @@ A grant awarded under subsection (a) may be used for—
 
 &emsp;&emsp;(B) substance abuse treatment and services;
 
-&emsp;&emsp;(C) coordinated supervision and services for offenders, including physical health careand comprehensive housing and mental health care;
+&emsp;&emsp;(C) coordinated supervision and services for offenders, including physical health care and comprehensive housing and mental health care;
 
 &emsp;&emsp;(D) family services; and
 

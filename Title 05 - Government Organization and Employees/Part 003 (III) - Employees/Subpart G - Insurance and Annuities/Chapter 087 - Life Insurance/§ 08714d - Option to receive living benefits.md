@@ -6,7 +6,7 @@
 
 &emsp;(1) the full amount of insurance under section 8704(a) (or portion thereof designated for this purpose under subsection (d)(4)) which would otherwise be payable under this chapter (on the establishment of a valid claim)—
 
-&emsp;&emsp;(A) computed based on a date determined under regulations of the Office (but not later than 30 days after the date on which the individual's application for benefits under this section is approved or deemed approved under subsection (d)(3)); and
+&emsp;&emsp;(A) computed based on a date determined under regulations of the Office (but not laterthan 30 days after the date on which the individual's application for benefits under this section is approved or deemed approved under subsection (d)(3)); and
 
 &emsp;&emsp;(B) assuming continued coverage under this chapter at that time;
 

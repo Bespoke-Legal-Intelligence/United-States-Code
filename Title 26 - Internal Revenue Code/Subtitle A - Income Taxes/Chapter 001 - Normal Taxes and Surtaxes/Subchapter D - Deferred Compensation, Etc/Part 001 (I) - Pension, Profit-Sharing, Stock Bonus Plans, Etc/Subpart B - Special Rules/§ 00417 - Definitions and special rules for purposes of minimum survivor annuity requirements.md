@@ -44,7 +44,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each plan shall provide to each participant, within the applicable period with respect to such participant (and consistent with such regulations as the Secretary may prescribe), a written explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A).
+&emsp;&emsp;&emsp;Each plan shall provide to each participant, within the applicable period with respect to such participant (and consistent with such regulations as the Secretarymay prescribe), a written explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A).
 
 #### (ii) Applicable period
 
@@ -100,7 +100,7 @@
 
 #### (ii) Regulatory authority
 
-&emsp;&emsp;&emsp;The Secretary may by regulations limit the application of clause (i), except thatsuch regulations may not limit the period of time by which the annuity starting date precedes the provision of the written explanation other than by providing that the annuity starting date may not be earlier than termination of employment.
+&emsp;&emsp;&emsp;The Secretary may by regulations limit the application of clause (i), except that such regulations may not limit the period of time by which the annuity starting date precedes the provision of the written explanation other than by providing that the annuity starting date may not be earlier than termination of employment.
 
 #### (B) Waiver of 30-day period
 
@@ -174,7 +174,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (1) Plan may require distribution if present value not in excess of dollar limit
 
-&emsp;A plan may provide that the present value of a qualified joint and survivor annuity or a qualified preretirement survivor annuity will be immediately distributed if such value does not exceed the amount that can be distributed without the participant's consent under section 411(a)(11). No distribution may be madeunder the preceding sentence after the annuity starting date unless the participant and the spouse of the participant (or where the participant has died, the surviving spouse) consents in writing to such distribution.
+&emsp;A plan may provide that the present value of a qualified joint and survivor annuity or a qualified preretirement survivor annuity will be immediately distributed if such value does not exceed the amount that can be distributed without the participant's consent under section 411(a)(11). No distribution may be made under the preceding sentence after the annuity starting date unless the participant and the spouse of the participant (or where the participant has died, the surviving spouse) consents in writing to such distribution.
 
 #### (2) Plan may distribute benefit in excess of dollar limit only with consent
 
@@ -280,7 +280,7 @@ For purposes of this section and section 401(a)(11)—
 
 &emsp;"(i) section 430(h)(2)(D)"
 
-and "described in such section." for "described in such section," and struck out cls. (ii) and (iii) which applied section 430(h)(2)(G)(i)(II) of this title by substituting "section 417(e)(3)(A)(ii)(II)" for "section 412(b)(5)(B)(ii)(II)" and listed the applicable percentage under section 430(h)(2)(G) for plan years beginning in 2008 to 2011.
+and "described in such section." for "described in such section," and struck out cls. (ii) and (iii) whichapplied section 430(h)(2)(G)(i)(II) of this title by substituting "section 417(e)(3)(A)(ii)(II)" for "section 412(b)(5)(B)(ii)(II)" and listed the applicable percentage under section 430(h)(2)(G) for plan years beginning in 2008 to 2011.
 
 <b>2012</b>—Subsec. (e)(3)(C), (D). Pub. L. 112–141 substituted "section 430(h)(2)(C) (determined by not taking into account any adjustment under clause (iv) thereof)" for "section 430(h)(2)(C)".
 
@@ -330,7 +330,7 @@ Subsec. (c)(2). Pub. L. 99–514, §1898(b)(9)(A)(i), substituted "the portion o
 
 Subsec. (c)(3). Pub. L. 99–514, §1898(b)(9)(A)(ii), added par. (3).
 
-Subsec. (e)(3). Pub. L. 99–514, §1139(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "For purposes of paragraphs (1) and (2), the present value of a qualified joint and survivor annuity or a qualified preretirement survivor annuity shall be determined as of the date of the distribution and byusing an interest rate not greater than the interest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination."
+Subsec. (e)(3). Pub. L. 99–514, §1139(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "For purposes of paragraphs (1) and (2), the present value of a qualified joint and survivor annuity or a qualified preretirement survivor annuity shall be determined as of the date of the distribution and by using an interest rate not greater than the interest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination."
 
 Subsec. (f)(1). Pub. L. 99–514, §1898(b)(8)(A), substituted "such participant's accrued benefit" for "the accrued benefit derived from employer contributions".
 
@@ -356,7 +356,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title III, §302(c), Aug. 17, 2006, 120 Stat. 921, provided that: "The amendments made by this section \[amending this section and section 1055 of Title 29, Labor\] shall apply with respect to plan years beginning after December 31, 2007."
+Pub. L. 109–280, title III, §302(c), Aug. 17, 2006, 120 Stat. 921, provided that: "The amendments made by this section \[amending this section and section 1055 ofTitle 29, Labor\] shall apply with respect to plan years beginning after December 31, 2007."
 
 Pub. L. 109–280, title X, §1004(c), Aug. 17, 2006, 120 Stat. 1055, provided that:
 
@@ -412,11 +412,11 @@ Pub. L. 99–514, title XVIII, §1898(b)(4)(C), Oct. 22, 1986, 100 Stat. 2946, p
 
 "(ii) In the case of any loan which was made on or before August 18, 1985, and which is secured by a portion of the participant's accrued benefit, nothing in the amendments made by sections 103 and 203 of the Retirement Equity Act of 1984 \[sections 103 and 203 of Pub. L. 98–397, enacting this section and amending section 401 of this title and section 1055 of Title 29\] shall prevent any distribution required by reason of a failure to comply with the terms of such loan.
 
-"(iii) For purposes of this subparagraph, any loan which is revised, extended, renewed, or renegotiated after August 18, 1985, shall be treated as made after August 18, 1985.
+"(iii) For purposes of this subparagraph, any loan which is revised, extended, renewed, or renegotiated after August 18, 1985, shall be treated as made after August 18, 1985."
 
-Section 1898(b)(6)(C) of Pub. L. 99–514 provided that: "The amendments made by this paragraph \[amending this section and section 1055 of Title 29, Labor\] shall apply to plan years beginning after the date of the enactment of this Act \[Oct. 22, 1986\]."
+Pub. L. 99–514, title XVIII, §1898(b)(6)(C), Oct. 22, 1986, 100 Stat. 2948, provided that: "The amendments made by this paragraph \[amending this section and section 1055 of Title 29, Labor\] shall apply to plan years beginning after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
-Section 1898(b)(8)(C) of Pub. L. 99–514, as added by Pub. L. 101–239, title VII, §7862(d)(2), Dec. 19, 1989, 103 Stat. 2434, provided that: "The amendments made by this paragraph \[amending this section and section 1055 of Title 29, Labor\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\]."
+Pub. L. 99–514, title XVIII, §1898(b)(8)(C), as added by Pub. L. 101–239, title VII, §7862(d)(2), Dec. 19, 1989, 103 Stat. 2434, provided that: "The amendments made by this paragraph \[amending this section and section 1055 of Title 29, Labor\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
 Amendment by section 1898(b)(1)(A), (5)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of this title.
 

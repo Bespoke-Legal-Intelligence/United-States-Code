@@ -14,7 +14,7 @@
 
 #### (b) Exemption from provisions
 
-Notwithstanding paragraph (1)(C) of subsection (a), none of the following persons is an investment company within the meaning of this subchapter:
+Notwithstanding paragraph (1)(C) of subsection (a), none of the following persons is aninvestment company within the meaning of this subchapter:
 
 &emsp;(1) Any issuer primarily engaged, directly or through a wholly-owned subsidiary or subsidiaries, in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities.
 
@@ -50,7 +50,7 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 &emsp;&emsp;&emsp;(III) is entered into in response to a request from a counter party for a quotation, or is otherwise entered into and structured to accommodate the objectives of the counter party to such arrangement.
 
-&emsp;(3) Any bank or insurance company; any savings and loan association, building and loan association, cooperative bank, homestead association, or similar institution, or any receiver, conservator, liquidator, liquidating agent, or similar official or person thereof or therefor; or any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment of moneys contributed thereto by the bank in its capacity as a trustee, executor, administrator, or guardian, if—
+&emsp;(3) Any bank or insurance company; any savings and loan association, building and loan association, cooperative bank, homestead association, or similar institution, or any receiver, conservator, liquidator, liquidating agent, or similar official or person thereof or therefor; or any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment ofmoneys contributed thereto by the bank in its capacity as a trustee, executor, administrator, or guardian, if—
 
 &emsp;&emsp;(A) such fund is employed by the bank solely as an aid to the administration of trusts, estates, or other accounts created and maintained for a fiduciary purpose;
 
@@ -64,7 +64,7 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 &emsp;(4) Any person substantially all of whose business is confined to making small loans, industrial banking, or similar businesses.
 
-&emsp;(5) Any person who is not engaged in the business of issuing redeemable securities, face-amount certificates of the installment type or periodic payment plan certificates, and who is primarily engaged in one or more of the following businesses: (A) Purchasing or otherwise acquiring notes, drafts, acceptances, open accounts receivable, and other obligations representing part or all of the sales price of merchandise, insurance, and services; (B) making loans to manufacturers, wholesalers, and retailers of, and to prospective purchasers of, specified merchandise, insurance, and services;and (C) purchasing or otherwise acquiring mortgages and other liens on and interests in real estate.
+&emsp;(5) Any person who is not engaged in the business of issuing redeemable securities, face-amount certificates of the installment type or periodic payment plan certificates, and who is primarily engaged in one or more of the following businesses: (A) Purchasing or otherwise acquiring notes, drafts, acceptances, open accounts receivable, and other obligations representing part or all of the sales price of merchandise, insurance, and services; (B) making loans to manufacturers, wholesalers, and retailers of, and to prospective purchasers of, specified merchandise, insurance, and services; and (C) purchasing or otherwise acquiring mortgages and other liens on and interests in real estate.
 
 &emsp;(6) Any company primarily engaged, directly or through majority-owned subsidiaries, in one or more of the businesses described in paragraphs (3), (4), and (5) of this subsection, or in one or more of such businesses (from which not less than 25 per centum of such company's gross income during its last fiscal year was derived) together with an additional business or businesses other than investing, reinvesting, owning, holding, or trading in securities.
 
@@ -156,7 +156,7 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 &emsp;&emsp;(B) substantially all of the activities of which consist of—
 
-&emsp;&emsp;&emsp;(i) managing or holding assets contributed to such church plans or other assets which are permitted to be commingled with the assets of church plans under title 26; or
+&emsp;&emsp;&emsp;(i) managing or holding assets contributed to such church plans or other assets which are permitted to be commingledwith the assets of church plans under title 26; or
 
 &emsp;&emsp;&emsp;(ii) administering or providing benefits pursuant to church plans.
 
@@ -280,7 +280,7 @@ Taxable Years to Which Amendments Applicable.—The amendments made by this sect
 
 #### Regulations
 
-Pub. L. 104–290, title II, §209(d)(1), Oct. 11, 1996, 110 Stat. 3435, provided that: "Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules to implement the requirements of section 3(c)(1)(B) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)(1)(B)), as amended by this section."
+Pub. L. 104–290, title II, §209(d)(1), Oct. 11, 1996, 110 Stat. 3435, provided that: "Not later than 1 year afterthe date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules to implement the requirements of section 3(c)(1)(B) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)(1)(B)), as amended by this section."
 
 Pub. L. 104–290, title II, §209(d)(3), Oct. 11, 1996, 110 Stat. 3436, provided that: "Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules pursuant to its authority under section 6 of the Investment Company Act of 1940 \[15 U.S.C. 80a–6\] to permit the ownership of securities by knowledgeable employees of the issuer of the securities or an affiliated person without loss of the exception of the issuer under paragraph (1) or (7) of section 3(c) of that Act \[15 U.S.C. 80a–3(c)\] from treatment as an investment company under that Act \[15 U.S.C. 80a–1 et seq.\]."
 
@@ -296,7 +296,7 @@ Pub. L. 104–290, title V, §508(f), Oct. 11, 1996, 110 Stat. 3448, provided th
 
 "(1)
 
-Registration requirements.—Any security issued by or any interest or participation in any churchplan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and any offer, sale, or purchase thereof, shall be exempt from any law of a State that requires registration or qualification of securities.
+Registration requirements.—Any security issued by or any interest or participation in any church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and any offer, sale, or purchase thereof, shall be exempt from any law of a State that requires registration or qualification of securities.
 
 "(2)
 

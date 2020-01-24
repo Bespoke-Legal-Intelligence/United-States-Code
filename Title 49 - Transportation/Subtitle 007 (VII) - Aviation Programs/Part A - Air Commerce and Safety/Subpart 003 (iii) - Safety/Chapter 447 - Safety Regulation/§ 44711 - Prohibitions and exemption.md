@@ -50,7 +50,7 @@ Prohibition.—A person holding an operating certificate issued under title 14, 
 
 &emsp;(2)
 
-Written and oral communications.—For purposes of paragraph (1), an individual shall be considered to be acting as an agent or representative of a certificate holder in a matterbefore the Administration if the individual makes any written or oral communication on behalf of the certificate holder to the Administration (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as a flight standards inspector of the Administration.
+Written and oral communications.—For purposes of paragraph (1), an individual shall be considered to be acting as an agent or representative of a certificate holder in a matter before the Administration if the individual makes any written or oral communication on behalf of the certificate holder to the Administration (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as a flight standards inspector of the Administration.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1193; Pub. L. 103–429, §6(56), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 106–181, title V, §505(b), Apr. 5, 2000, 114 Stat. 136; Pub. L. 108–176, title II, §227(d), Dec. 12, 2003, 117 Stat. 2532; Pub. L. 112–95, title III, §§307(b), 342(a), Feb. 14, 2012, 126 Stat. 61, 79.)
 

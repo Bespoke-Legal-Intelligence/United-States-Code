@@ -44,7 +44,7 @@ In subsection (a), the words "After August 31, 1946", in section 33(b) of existi
 
 In subsections (a) and (b), the words ", or his designated representative," are substituted for the last 8 words of section 32(f) of existing title 37.
 
-In subsection (b), the words "Except as provided in subsection (a) of this section" are inserted for clarity.The words "the part of his absence that is more than the number of days' leave authorized by that section" are substituted for the words "such absence".
+In subsection (b), the words "Except as provided in subsection (a) of this section" are inserted for clarity. The words "the part of his absence that is more than the number of days' leave authorized by that section" are substituted for the words "such absence".
 
 #### Amendments
 
@@ -62,5 +62,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

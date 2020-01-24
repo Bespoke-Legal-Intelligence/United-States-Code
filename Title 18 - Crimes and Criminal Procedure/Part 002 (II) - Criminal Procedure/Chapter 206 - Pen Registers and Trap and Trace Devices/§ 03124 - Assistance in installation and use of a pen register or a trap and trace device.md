@@ -18,7 +18,7 @@ No Cause of Action Against a Provider Disclosing Information Under This Chapter.
 
 (e)
 
-Defense.—A good faith reliance on a court order under this chapter, a request pursuant to section 3125 of this title, a legislative authorization, a statutory authorization, or a good faith determination that the conduct complained of was permitted by an order from a foreign government that is subject to executive agreement that the Attorney General has determined and certified to Congress satisfies section 2523, is a complete defense against any civil or criminal action brought under this chapter or any other law.
+Defense.—A good faith reliance on a court order under this chapter, a request pursuant tosection 3125 of this title, a legislative authorization, a statutory authorization, or a good faith determination that the conduct complained of was permitted by an order from a foreign government that is subject to executive agreement that the Attorney General has determined and certified to Congress satisfies section 2523, is a complete defense against any civil or criminal action brought under this chapter or any other law.
 
 (f)
 

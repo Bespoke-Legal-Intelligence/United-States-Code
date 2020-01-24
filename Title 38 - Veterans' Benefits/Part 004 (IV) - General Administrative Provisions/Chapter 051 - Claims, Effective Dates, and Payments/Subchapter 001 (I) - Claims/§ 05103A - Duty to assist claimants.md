@@ -10,7 +10,7 @@ Duty To Assist.—(1) The Secretary shall make reasonable efforts to assist a cl
 
 (b)
 
-Assistance in Obtaining Private Records.—(1) As part of the assistance provided under subsection (a), the Secretary shall make reasonable efforts to obtain relevant private records that the claimant adequately identifies to the Secretary.
+Assistance in Obtaining Private Records.—(1) As part of the assistance providedunder subsection (a), the Secretary shall make reasonable efforts to obtain relevant private records that the claimant adequately identifies to the Secretary.
 
 (2)(A) Whenever the Secretary, after making such reasonable efforts, is unable to obtain all of the relevant records sought, the Secretary shall notify the claimant that the Secretary is unable to obtain records with respect to the claim. Such a notification shall—
 

@@ -32,7 +32,7 @@ The Secretary is authorized to investigate the handling, weighing, grading, and 
 
 (ii) Following the phase-in period referred to in clause (i)(III), subsequent revision of cleanliness requirements shall be conducted consistent with the schedule of the Secretary for reviewing grain standards.
 
-(C) If the Secretary determines to establish requirements for cleanliness characteristics underthis section, the Secretary shall ensure that such requirements are fully implemented not later than 6 years after November 28, 1990.
+(C) If the Secretary determines to establish requirements for cleanliness characteristics under this section, the Secretary shall ensure that such requirements are fully implemented not later than 6 years after November 28, 1990.
 
 #### (c) Grade determining factors related to physical soundness and purity; notice and opportunity for comment
 
@@ -110,7 +110,7 @@ End-Use Tests.—
 
 &emsp;"(1)
 
-Ongoing review.—The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to maintain an ongoing review to determine the end-use tests that areof economic value to buyers, and the availability and costs of such tests.
+Ongoing review.—The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to maintain an ongoing review to determine the end-use tests that are of economic value to buyers, and the availability and costs of such tests.
 
 &emsp;"(2)
 

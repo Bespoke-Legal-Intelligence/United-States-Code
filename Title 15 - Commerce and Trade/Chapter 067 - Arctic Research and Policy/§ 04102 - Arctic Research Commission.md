@@ -28,7 +28,7 @@ The President shall establish an Arctic Research Commission (hereafter referred 
 
 &emsp;(C) two shall be appointed for a term of four years.
 
-(3) Any vacancy occurring in the membership of the Commission shall be filled, after notice of the vacancy is published in the Federal Register, in the manner provided by the preceding provisions of this section, for the remainder of the unexpired term.
+(3) Any vacancy occurring in the membership of the Commission shall be filled, after notice ofthe vacancy is published in the Federal Register, in the manner provided by the preceding provisions of this section, for the remainder of the unexpired term.
 
 (4) A member may serve after the expiration of the member's term of office until the President appoints a successor.
 

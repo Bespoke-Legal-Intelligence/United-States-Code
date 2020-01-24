@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (2) Critical status
 
-&emsp;A multiemployer plan is in critical status for a plan year if, as determined by the planactuary under paragraph (3), the plan is described in 1 or more of the following subparagraphs as of the beginning of the plan year:
+&emsp;A multiemployer plan is in critical status for a plan year if, as determined by the plan actuary under paragraph (3), the plan is described in 1 or more of the following subparagraphs as of the beginning of the plan year:
 
 &emsp;&emsp;(A) A plan is described in this subparagraph if—
 

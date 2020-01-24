@@ -122,7 +122,7 @@ Entrance into project development phase.—A new fixed guideway capital project 
 
 &emsp;&emsp;&emsp;&emsp;(I) responds in writing to the applicant within 45 days whether the information provided is sufficient to enter into the project development phase, including, when necessary, a detailed description of any information deemed insufficient; and
 
-&emsp;&emsp;&emsp;&emsp;(II) provides concurrent notice to the Committee on Banking, Housing, andUrban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of whether the new fixed guideway capital project is entering the project development phase.
+&emsp;&emsp;&emsp;&emsp;(II) provides concurrent notice to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of whether the new fixed guideway capital project is entering the project development phase.
 
 &emsp;&emsp;(B)
 
@@ -474,7 +474,7 @@ Project advancement.—A project receiving a grant under this section that is pa
 
 &emsp;&emsp;&emsp;(i) in the case of a small start project, from the project development phase to the construction phase unless the Secretary determines that the program of interrelated projects meets the applicable requirements of this section and there is a reasonable likelihood that the program will continue to meet such requirements; or
 
-&emsp;&emsp;&emsp;(ii) in the case of a new fixed guideway capital project or a core capacity improvement project, from the project development phase to the engineering phase, orfrom the engineering phase to the construction phase, unless the Secretary determines that the program of interrelated projects meets the applicable requirements of this section and there is a reasonable likelihood that the program will continue to meet such requirements.
+&emsp;&emsp;&emsp;(ii) in the case of a new fixed guideway capital project or a core capacity improvement project, from the project development phase to the engineering phase, or from the engineering phase to the construction phase, unless the Secretary determines that the program of interrelated projects meets the applicable requirements of this section and there is a reasonable likelihood that the program will continue to meet such requirements.
 
 &emsp;&emsp;(B)
 
@@ -660,7 +660,7 @@ In general.—An early systems work agreement under this paragraph obligates bud
 
 &emsp;&emsp;&emsp;(ii)
 
-Contingent commitment.—An early systems work agreement may include a commitment, contingent on amounts to bespecified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law.
+Contingent commitment.—An early systems work agreement may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -754,7 +754,7 @@ Limitation on statutory construction.—Nothing in this section shall be constru
 
 &emsp;(6)
 
-Special rule for rolling stock costs.—In addition to amounts allowed pursuant toparagraph (1), a planned extension to a fixed guideway system may include the cost of rolling stock previously purchased if the applicant satisfies the Secretary that only amounts other than amounts provided by the Government were used and that the purchase was made for use on the extension. A refund or reduction of the remainder may be made only if a refund of a proportional amount of the grant of the Government is made at the same time.
+Special rule for rolling stock costs.—In addition to amounts allowed pursuant to paragraph (1), a planned extension to a fixed guideway system may include the cost of rolling stock previously purchased if the applicant satisfies the Secretary that only amounts other than amounts provided by the Government were used and that the purchase was made for use on the extension. A refund or reduction of the remainder may be made only if a refund of a proportional amount of the grant of the Government is made at the same time.
 
 &emsp;(7)
 
@@ -888,7 +888,7 @@ Government share.—The Government share shall not exceed 80 percent of the net 
 
 Non-government share.—The remainder of the net capital cost attributable to the public transportation costs of a project under this subsection shall be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356, 1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201; Pub. L. 108–88, §8(a), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 108–202, §9(a), Feb. 29, 2004, 118 Stat. 484; Pub. L. 108–224, §7(a), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §7(a), June 30, 2004, 118 Stat. 704; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–280, §7(a), July 30, 2004, 118 Stat. 882; Pub. L. 108–310, §8(a), Sept. 30, 2004, 118 Stat. 1154; Pub. L. 109–14, §7(a), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §7(a), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §7(a), July 20, 2005, 119 Stat. 386; Pub. L. 109–37, §7(a), July 22, 2005, 119 Stat. 401; Pub. L. 109–40, §7(a), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title III, §3011(a), Aug. 10, 2005, 119 Stat. 1573; Pub. L. 110–244, title II, §201(d), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §433, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2303, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §303, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §133, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §303, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §303, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20008(a), div. G, title III, §113003, July 6, 2012, 126 Stat. 656, 984; Pub. L. 114–94, div. A, title III, §3005(a), Dec. 4, 2015, 129 Stat. 1450.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356, 1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201; Pub. L. 108–88, §8(a), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 108–202, §9(a), Feb. 29, 2004, 118 Stat. 484; Pub. L. 108–224, §7(a), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §7(a), June 30, 2004, 118 Stat. 704; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–280, §7(a), July 30, 2004, 118 Stat. 882; Pub. L. 108–310, §8(a), Sept. 30, 2004, 118 Stat. 1154; Pub. L. 109–14, §7(a), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §7(a), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §7(a), July 20, 2005, 119 Stat. 386; Pub. L. 109–37, §7(a), July 22, 2005, 119 Stat. 401; Pub. L. 109–40, §7(a), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title III, §3011(a), Aug. 10, 2005, 119 Stat. 1573; Pub. L. 110–244, title II, §201(d), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §433, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2303, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §303, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §133, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §303, Mar. 30, 2012, 126Stat. 275; Pub. L. 112–140, title III, §303, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20008(a), div. G, title III, §113003, July 6, 2012, 126 Stat. 656, 984; Pub. L. 114–94, div. A, title III, §3005(a), Dec. 4, 2015, 129 Stat. 1450.)
 
 Historical and Revision Notes
 
@@ -1048,7 +1048,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(<i>l</i>); added Apr. 2, 1987,
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(n); added Oct. 6, 1992, Pub. L. 102–388, §502(d), 106 Stat. 1566.
 
-In subsection (a), before clause (1), the words "in accordance with the provisions of this chapter" are omitted as surplus. The words "and on such terms and conditions as the Secretary may prescribe" and 49 App.:1602(a)(1)(D) (3d sentence) are omitted as unnecessary because of section 5334(a) of the revised title and 49:322(a). The words "(directly, through the purchase of securities or equipment trust certificates, or otherwise)" and "and agencies thereof" are omitted as surplus. In clause (1), the word "detailed" is omitted as surplus. In clause (2), the words "capital projects" are substituted for "the acquisition, construction, reconstruction, and improvement of facilities and equipment for use, by operation or lease or otherwise, in mass transportation service" for clarity and consistency in this section. The words "Eligible facilities and equipment may include personal property such as buses and other rolling stock, and rail and bus facilities, and real" are omitted as surplus. The text of 49 App.:1602(a)(1)(B) (last sentence) is omitted as obsolete because former 49 App.:1604(a)(4) is executed and is not included in this restatement. In clause (3), the words "the capital costs of" are added for clarity and consistency in this section. The words "highway and" are omitted as surplus.
+In subsection (a), before clause (1), the words "in accordance with the provisions of this chapter" are omitted as surplus. The words "and on such terms and conditions as the Secretary may prescribe" and 49 App.:1602(a)(1)(D) (3d sentence) are omitted as unnecessary because of section 5334(a) of the revised title and 49:322(a). The words "(directly, through the purchase of securities or equipment trust certificates, or otherwise)" and "and agencies thereof" are omitted as surplus. In clause (1), the word "detailed" is omitted assurplus. In clause (2), the words "capital projects" are substituted for "the acquisition, construction, reconstruction, and improvement of facilities and equipment for use, by operation or lease or otherwise, in mass transportation service" for clarity and consistency in this section. The words "Eligible facilities and equipment may include personal property such as buses and other rolling stock, and rail and bus facilities, and real" are omitted as surplus. The text of 49 App.:1602(a)(1)(B) (last sentence) is omitted as obsolete because former 49 App.:1604(a)(4) is executed and is not included in this restatement. In clause (3), the words "the capital costs of" are added for clarity and consistency in this section. The words "highway and" are omitted as surplus.
 
 In subsection (b)(1), the word "finance" is omitted as surplus.
 
@@ -1116,7 +1116,7 @@ The date of enactment of the Federal Public Transportation Act of 2012, referred
 
 #### Codification
 
-Pub. L. 111–322, §2303(4)–(7), which directed amendment of subpars. (B) to (E) of subsec. (m) of this section without specifying the paragraph to be amended, was executed to subpars. (B) to (E) of par. (7) of subsec. (m), to reflect the probable intent of Congress. See 2010 Amendment notes below.
+Pub. L. 111–322, §2303(4)–(7), which directed amendment of subpars. (B) to (E) of subsec. (m) of this section without specifying the paragraph to be amended, wasexecuted to subpars. (B) to (E) of par. (7) of subsec. (m), to reflect the probable intent of Congress. See 2010 Amendment notes below.
 
 #### Amendments
 
@@ -1194,7 +1194,7 @@ Pub. L. 112–140, §§1(c), 303(2)(B), temporarily substituted "through 2011 an
 
 Pub. L. 112–102, §303(2)(B), substituted "2011 and $3,750,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012," for "2011 and $2,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,".
 
-Subsec. (m)(7)(A). Pub. L. 112–141, §113003(3)(A)(i), in introductory provisions, substituted "2012" for "2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012," and inserted "each fiscal year" before colon at end.
+Subsec. (m)(7)(A). Pub. L. 112–141, §113003(3)(A)(i), in introductory provisions, substituted "2012" for "2011and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012," and inserted "each fiscal year" before colon at end.
 
 Pub. L. 112–140, §§1(c), 303(3)(A)(i), temporarily substituted "2011 and $7,600,000 shall be available for the period beginning on October 1, 2011, and ending on July 6, 2012," for "2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012," and "shall be set aside:" for "shall be set aside for:" in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
 
@@ -1358,7 +1358,7 @@ Subsec. (m)(7)(D). Pub. L. 111–322, §2303(6), substituted "$14,863,000 shall 
 
 Pub. L. 111–147, §433(3)(D), inserted ", and not less than $8,750,000 shall be available for the period beginning October 1, 2010, and ending December 31, 2010," after "year".
 
-Subsec. (m)(7)(E). Pub. L. 111–322, §2303(7), substituted "$1,273,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011" for "$750,000 shall be available for the period beginning October 1, 2010, and ending December 31, 2010". See Codification note above.
+Subsec. (m)(7)(E). Pub. L. 111–322, §2303(7), substituted "$1,273,000 shall be available for the period beginningOctober 1, 2010 and ending March 4, 2011" for "$750,000 shall be available for the period beginning October 1, 2010, and ending December 31, 2010". See Codification note above.
 
 Pub. L. 111–147, §433(3)(E), inserted ", and $750,000 shall be available for the period beginning October 1, 2010, and ending December 31, 2010," after "year".
 
@@ -1476,7 +1476,7 @@ Subsec. (m)(2)(B)(iii). Pub. L. 108–310, §8(a)(2), added cl. (iii).
 
 Pub. L. 108–280, §7(a)(2)(B), struck out heading and text of cl. (iii). Text read as follows: "Of the amounts made available under paragraph (1)(B), $8,615,533 shall be available for the period beginning on October 1, 2003, and ending on July 31, 2004, for capital projects described in clause (i)."
 
-Pub. L. 108–263, §7(a)(2), inserted cl. (iii) and struck out heading and text of former cl. (iii). Prior to amendment, text read as follows: "Of the amounts made available under paragraph (1)(B), $7,753,980 shall be available for the period beginning on October 1, 2003, and ending on June 30, 2004, for capital projects described in clause (i)."
+Pub. L. 108–263, §7(a)(2), inserted cl. (iii) and struck out heading and text of former cl. (iii). Prior to amendment, text read as follows: "Of the amounts made available under paragraph (1)(B), $7,753,980 shall be available for the period beginning on October 1, 2003,and ending on June 30, 2004, for capital projects described in clause (i)."
 
 Pub. L. 108–224, §7(a)(2), amended heading and text of cl. (iii) generally. Prior to amendment, text read as follows: "Of the amounts made available under paragraph (1)(B), $6,066,667 shall be available for the period beginning on October 1, 2003, and ending on April 30, 2004, for capital projects described in clause (i)."
 
@@ -1560,7 +1560,7 @@ Subsec. (g)(2)(A), (B), (3)(A)(i). Pub. L. 105–178, §3009(f)(2), substituted 
 
 Subsec. (g)(4). Pub. L. 105–178, §3009(k)(2), as added by Pub. L. 105–206, §9009(g), substituted "5338(b) of this title for new fixed guideway systems and extensions to existing fixed guideway systems and the amount appropriated under section 5338(h)(5) or an amount equivalent to the last 2 fiscal years of funding authorized under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems" for "5338(a) of this title to carry out this section or an amount equivalent to the total authorizations under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems for fiscal years 2002 and 2003".
 
-Pub. L. 105–178, §3009(f)(2), (4), substituted "full funding" for "full financing" before "grant agreements" in two places and "an amount equivalent to the total authorizations under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems for fiscal years 2002 and 2003" for "50 percent of the uncommitted cash balance remaining in the Mass Transit Account of the Highway Trust Fund (including amounts received from taxes and interest earned that are more than amounts previously obligated)".
+Pub. L. 105–178, §3009(f)(2), (4), substituted "full funding" for "full financing" before "grant agreements" intwo places and "an amount equivalent to the total authorizations under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems for fiscal years 2002 and 2003" for "50 percent of the uncommitted cash balance remaining in the Mass Transit Account of the Highway Trust Fund (including amounts received from taxes and interest earned that are more than amounts previously obligated)".
 
 Subsec. (m). Pub. L. 105–178, §3009(k)(3), as added by Pub. L. 105–206, §9009(g), substituted "5338(b)" for "5338" in introductory provisions of par. (1), added par. (2) and struck out former par. (2) relating to limitation on amounts available for activities other than final design and construction, redesignated par. (4) as (3)(C), added pars. (3)(D) and (4), and struck out par. (5) relating to funding for ferry boat systems.
 
@@ -1598,7 +1598,7 @@ Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with te
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 ofPub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1996 Amendment
 
@@ -1664,7 +1664,7 @@ Fixed guideway bus rapid transit project.—The term 'fixed guideway bus rapid t
 
 &emsp;&emsp;&emsp;"(III) short headway bidirectional services for a substantial part of weekdays and weekend days; and
 
-&emsp;&emsp;&emsp;"(IV) any other features the Secretary may determine are necessary to produce high-quality public transportation services that emulate the services provided by rail fixed guideway public transportation systems.
+&emsp;&emsp;&emsp;"(IV) any other features the Secretary may determine are necessary to produce high-quality public transportation services that emulate theservices provided by rail fixed guideway public transportation systems.
 
 &emsp;"(G)
 
@@ -1782,7 +1782,7 @@ Project advancement.—An applicant that desires a grant under this subsection a
 
 &emsp;"(B) a schedule and finance plan for the construction and operation of the eligible project;
 
-&emsp;"(C) an analysis of the efficiencies of the proposed eligible project development and delivery methods and innovative financing arrangement for the eligible project, including any documents related to the—
+&emsp;"(C) an analysis of the efficiencies of the proposed eligible project development and delivery methodsand innovative financing arrangement for the eligible project, including any documents related to the—
 
 &emsp;&emsp;"(i) public-private partnership required under paragraph (3)(A)(iii); and
 
@@ -1854,7 +1854,7 @@ Terms.—A full funding grant agreement shall—
 
 &emsp;&emsp;&emsp;"(II) establish the maximum amount of Federal financial assistance for the eligible project;
 
-&emsp;&emsp;&emsp;"(III) include the period of time for completing construction of the eligible project, consistentwith the terms of the public-private partnership agreement, even if that period extends beyond the period of an authorization; and
+&emsp;&emsp;&emsp;"(III) include the period of time for completing construction of the eligible project, consistent with the terms of the public-private partnership agreement, even if that period extends beyond the period of an authorization; and
 
 &emsp;&emsp;&emsp;"(IV) make timely and efficient management of the eligible project easier according to the law of the United States.
 
@@ -2018,7 +2018,7 @@ Pub. L. 105–178, title III, §3010, June 9, 1998, 112 Stat. 357, as amended by
 
 #### Job Access and Reverse Commute Grants
 
-Pub. L. 105–178, title III, §3037, June 9, 1998, 112 Stat. 387, as amended by Pub. L. 105–206, title IX, §9009(w), July 22, 1998, 112 Stat. 862; Pub. L. 108–88, §8(l), Sept. 30, 2003, 117 Stat. 1124; Pub. L. 108–202, §9(l), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(l), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(l), June 30, 2004, 118 Stat. 707; Pub. L. 108–280, §7(l), July 30, 2004, 118 Stat. 884; Pub. L. 108–310, §8(l), Sept. 30, 2004, 118 Stat. 1157; Pub. L. 109–14, §7(k), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(k), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(k), July 20, 2005, 119 Stat. 388; Pub. L. 109–37, §7(k), July 22, 2005, 119 Stat. 403; Pub. L. 109–40, §7(k), July 28, 2005, 119 Stat. 420, which authorized the Secretary of Transportation to make access to jobs grants and reverse commute grants to assist qualified entities in financing eligible projects, was repealed by Pub. L. 109–59, title III, §3018(c), Aug. 10, 2005, 119 Stat. 1605, effective Oct. 1, 2005.
+Pub. L. 105–178, title III, §3037, June 9, 1998, 112 Stat. 387, as amended by Pub. L. 105–206, title IX, §9009(w), July 22, 1998, 112 Stat. 862; Pub. L. 108–88, §8(l), Sept. 30, 2003, 117 Stat. 1124; Pub. L. 108–202, §9(l), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(l), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(l), June 30, 2004, 118 Stat.707; Pub. L. 108–280, §7(l), July 30, 2004, 118 Stat. 884; Pub. L. 108–310, §8(l), Sept. 30, 2004, 118 Stat. 1157; Pub. L. 109–14, §7(k), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(k), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(k), July 20, 2005, 119 Stat. 388; Pub. L. 109–37, §7(k), July 22, 2005, 119 Stat. 403; Pub. L. 109–40, §7(k), July 28, 2005, 119 Stat. 420, which authorized the Secretary of Transportation to make access to jobs grants and reverse commute grants to assist qualified entities in financing eligible projects, was repealed by Pub. L. 109–59, title III, §3018(c), Aug. 10, 2005, 119 Stat. 1605, effective Oct. 1, 2005.
 
 #### Encouragement of Adversely Affected Industries To Compete for Contracts
 

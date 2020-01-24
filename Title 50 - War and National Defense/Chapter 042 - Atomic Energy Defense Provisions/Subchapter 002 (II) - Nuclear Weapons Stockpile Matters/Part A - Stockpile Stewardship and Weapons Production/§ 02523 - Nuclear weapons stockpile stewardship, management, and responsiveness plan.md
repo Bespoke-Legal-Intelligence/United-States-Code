@@ -2,7 +2,7 @@
 
 #### (a) Plan requirement
 
-The Administrator, in consultation with the Secretary of Defense and other appropriate officials of the departments and agencies of the Federal Government, shall develop and annually update a plan for sustaining the nuclear weapons stockpile. The plan shall cover, at a minimum, stockpile stewardship, stockpile management, stockpile responsiveness, stockpile surveillance, program direction, infrastructuremodernization, human capital, and nuclear test readiness. The plan shall be consistent with the programmatic and technical requirements of the most recent annual Nuclear Weapons Stockpile Memorandum.
+The Administrator, in consultation with the Secretary of Defense and other appropriate officials of the departments and agencies of the Federal Government, shall develop and annually update a plan for sustaining the nuclear weapons stockpile. The plan shall cover, at a minimum, stockpile stewardship, stockpile management, stockpile responsiveness, stockpile surveillance, program direction, infrastructure modernization, human capital, and nuclear test readiness. The plan shall be consistent with the programmatic and technical requirements of the most recent annual Nuclear Weapons Stockpile Memorandum.
 
 #### (b) Submissions to Congress
 
@@ -94,7 +94,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(C) an assessment of the science-based tools (including advanced simulation and computing capabilities) of each national security laboratory that exist at the time of the assessment compared with the science-based tools expected to exist during the period covered by the future-years nuclear security program; and
 
-&emsp;&emsp;(D) an assessment of the core scientific and technical competencies required to achieve the objectives of the stockpile stewardship program and other weapons activities and weapons-related activities of the Administration, including—
+&emsp;&emsp;(D) an assessment of the core scientific and technical competencies required toachieve the objectives of the stockpile stewardship program and other weapons activities and weapons-related activities of the Administration, including—
 
 &emsp;&emsp;&emsp;(i) the number of scientists, engineers, and technicians, by discipline, required to maintain such competencies; and
 
@@ -106,7 +106,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;&emsp;(i) the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 3043 of this title if such strategy has been submitted as of the date of the plan;
 
-&emsp;&emsp;&emsp;(ii) the most recent quadrennial defense review if such strategy has not been submitted as of the date of the plan; and
+&emsp;&emsp;&emsp;(ii) the most recent national defense strategy as of the date of the plan; and
 
 &emsp;&emsp;&emsp;(iii) the most recent Nuclear Posture Review as of the date of the plan;
 
@@ -132,7 +132,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(D) a list and description of the infrastructure and physical plants that are essential to carrying out an underground nuclear test at the Nevada National Security Site; and
 
-&emsp;&emsp;(E) an assessment of the readiness status of the skills and capabilities described insubparagraph (C) and the infrastructure and physical plants described in subparagraph (D).
+&emsp;&emsp;(E) an assessment of the readiness status of the skills and capabilities described in subparagraph (C) and the infrastructure and physical plants described in subparagraph (D).
 
 &emsp;(6) A strategy for the integrated management of plutonium for stockpile and stockpile stewardship needs over a 20-year period that includes the following:
 
@@ -158,7 +158,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(B) for each site and for the nuclear security enterprise, the methods used by the Administration to establish priorities among investments in physical and cybersecurity technologies; and
 
-&emsp;&emsp;(C) a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help carry out that plan.
+&emsp;&emsp;(C) a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budgetfor the Administration for each fiscal year during that five-fiscal-year period will help carry out that plan.
 
 &emsp;(8) An assessment of whether the programs described by the report can be executed with current and projected budgets and any associated risks.
 
@@ -170,7 +170,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;(A) An analysis of the plan, including—
 
-&emsp;&emsp;(i) whether the plan supports the requirements of the national security strategy of the United States or the most recent quadrennial defense review, as applicable under subsection (d)(4)(A), and the Nuclear Posture Review;
+&emsp;&emsp;(i) whether the plan supports the requirements of the national security strategy of the United States referred to in subsection (d)(4)(A)(i), the most recent the national defense strategy, and the most recent Nuclear Posture Review;
 
 &emsp;&emsp;(ii) whether the modernization and refurbishment measures described under subparagraph (A) of subsection (d)(4) and the schedule described under subparagraph (B) of such subsection are adequate to support such requirements; and
 
@@ -194,11 +194,11 @@ In this section:
 
 &emsp;(2) The term "future-years nuclear security program" means the program required by section 2453 of this title.
 
-&emsp;(3) The term "nuclear security budget materials", with respect to a fiscal year, means the materials submitted to Congress by the Administrator in support of the budget for that fiscal year.
+&emsp;(3) The term "national defense strategy" means the review of the defense programs and policies of the United States that is carried out every four years under section 113(g) of title 10.
 
-&emsp;(4) The term "quadrennial defense review" means the review of the defense programs and policies of the United States that is carried out every four years under section 118 <sup>1</sup> of title 10.
+&emsp;(4) The term "nuclear security budget materials", with respect to a fiscal year, means the materials submitted to Congress by the Administrator in support of the budget for that fiscal year.
 
-&emsp;(5) The term "weapons activities" means each activity within the budget category ofweapons activities in the budget of the Administration.
+&emsp;(5) The term "weapons activities" means each activity within the budget category of weapons activities in the budget of the Administration.
 
 &emsp;(6) The term "weapons-related activities" means each activity under the Department of Energy that involves nuclear weapons, nuclear weapons technology, or fissile or radioactive materials, including activities related to—
 
@@ -212,11 +212,7 @@ In this section:
 
 &emsp;&emsp;(E) nuclear incident response.
 
-(Pub. L. 107–314, div. D, title XLII, §4203, formerly Pub. L. 105–85, div. C, title XXXI, §3151, Nov. 18, 1997, 111 Stat. 2041; renumbered Pub. L. 107–314, div. D, title XLII, §4203, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(4), Nov. 24, 2003, 117 Stat. 1758; amended Pub. L. 108–375, div. C, title XXXI, §3115, Oct. 28, 2004, 118 Stat. 2162; Pub. L. 112–239, div. C, title XXXI, §3133(a)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §§3123, 3146(a)(2)(A), Dec. 26, 2013, 127 Stat. 1061, 1072; Pub. L. 113–291, div. C, title XXXI, §3142(c), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 114–92, div. C, title XXXI, §3112(c)(1), Nov. 25, 2015, 129 Stat. 1190; Pub. L. 115–91, div. C, title XXXI, §§3111(c), 3133(c)(1), 3134, 3135(a), Dec. 12, 2017, 131 Stat. 1882, 1896, 1898.)
-
-#### References in Text
-
-Section 118 of title 10, referred to in subsec. (f)(4), was repealed by Pub. L. 114–328, div. A, title IX, §941(b)(1), Dec. 23, 2016, 130 Stat. 2367. For provisions related to national defense strategy similar to those contained in former section 118 prior to repeal, see section 113(g) of Title 10, Armed Forces.
+(Pub. L. 107–314, div. D, title XLII, §4203, formerly Pub. L. 105–85, div. C, title XXXI, §3151, Nov. 18, 1997, 111 Stat. 2041; renumbered Pub. L. 107–314, div. D, title XLII, §4203, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(4), Nov. 24, 2003, 117 Stat. 1758; amended Pub. L. 108–375, div. C, title XXXI, §3115, Oct. 28, 2004, 118 Stat. 2162; Pub. L. 112–239, div. C, title XXXI, §3133(a)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §§3123, 3146(a)(2)(A), Dec. 26, 2013, 127 Stat. 1061, 1072; Pub. L. 113–291, div. C, title XXXI, §3142(c), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 114–92, div. C, title XXXI, §3112(c)(1), Nov. 25, 2015, 129 Stat. 1190; Pub. L. 115–91, div. C, title XXXI, §§3111(c), 3133(c)(1), 3134, 3135(a), Dec. 12, 2017, 131 Stat. 1882, 1896, 1898; Pub. L. 116–92, div. C, title XXXI, §3139(b)(2), Dec. 20, 2019, 133 Stat. 1962.)
 
 #### Codification
 
@@ -229,6 +225,12 @@ Provisions similar to those in this section were contained in the following prio
 Pub. L. 104–106, div. C, title XXXI, §3153, Feb. 10, 1996, 110 Stat. 624; repealed Pub. L. 105–85, div. C, title XXXI, §3152(c), Nov. 18, 1997, 111 Stat. 2042.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (d)(4)(A)(ii). Pub. L. 116–92, §3139(b)(2)(A), substituted "national defense strategy" for "quadrennial defense review if such strategy has not been submitted".
+
+Subsec. (e)(1)(A)(i). Pub. L. 116–92, §3139(b)(2)(B), substituted "referred to in subsection (d)(4)(A)(i), the most recent the national defense strategy, and the most recent" for "or the most recent quadrennial defense review, as applicable under subsection (d)(4)(A), and the".
+
+Subsec. (f)(3), (4). Pub. L. 116–92, §3139(b)(2)(C), added par. (3), redesignated former par. (3) as (4), and struck out former par. (4) which read as follows: "The term 'quadrennial defense review' means the review of the defense programs and policies of the United States that is carried out every four years under section 118 of title 10."
 
 <b>2017</b>—Subsec. (c)(6). Pub. L. 115–91, §3133(c)(1)(A)(ii), added par. (6). Former par. (6) redesignated (8).
 
@@ -347,6 +349,4 @@ By the authority vested in me as President by the Constitution and the laws of t
 The Secretary of Defense is authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

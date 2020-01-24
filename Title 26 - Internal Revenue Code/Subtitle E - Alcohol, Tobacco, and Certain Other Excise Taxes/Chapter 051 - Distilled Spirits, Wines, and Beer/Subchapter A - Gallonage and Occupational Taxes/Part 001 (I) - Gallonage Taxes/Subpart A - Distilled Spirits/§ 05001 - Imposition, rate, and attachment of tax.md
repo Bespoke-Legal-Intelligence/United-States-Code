@@ -42,7 +42,7 @@
 
 The tax shall attach to distilled spirits as soon as this substance is in existence as such, whether it be subsequently separated as pure or impure spirits, or be immediately, or at any subsequent time, transferred into any other substance, either in the process of original production or by any subsequent process.
 
-#### (c) Reduced rate for 2018 and 2019
+#### (c) Temporary reduced rate
 
 #### (1) In general
 
@@ -106,19 +106,23 @@ The tax shall attach to distilled spirits as soon as this substance is in existe
 
 #### (4) Termination
 
-&emsp;This subsection shall not apply to distilled spirits removed after December 31, 2019.
+&emsp;This subsection shall not apply to distilled spirits removed after December 31, 2020.
 
 #### (d) Cross reference
 
 &emsp;&emsp;<b>For provisions relating to the tax on shipments to the United States of taxable articles from Puerto Rico and the Virgin Islands, see section 7652.</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1314; amended Pub. L. 86–75, §3(a)(2), (3), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(4), (5), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(4), (5), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(3), (4), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(4), (5), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(4), (5), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(a), June 21, 1965, 79 Stat. 150; Pub. L. 96–39, title VIII, §§802, 805(d), July 26, 1979, 93 Stat. 273, 278; Pub. L. 98–369, div. A, title I, §27(a)(1), July 18, 1984, 98 Stat. 507; Pub. L. 101–508, title XI, §11201(a)(1), Nov. 5, 1990, 104 Stat. 1388–415; Pub. L. 103–465, title I, §136(a), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 115–97, title I, §13807(a), (c), Dec. 22, 2017, 131 Stat. 2176.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1314; amended Pub. L. 86–75, §3(a)(2), (3), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(4), (5), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(4), (5), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(3), (4), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(4), (5), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(4), (5), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(a), June 21, 1965, 79 Stat. 150; Pub. L. 96–39, title VIII, §§802, 805(d), July 26, 1979, 93 Stat. 273, 278; Pub. L. 98–369, div. A, title I, §27(a)(1), July 18, 1984, 98 Stat. 507; Pub. L. 101–508, title XI, §11201(a)(1), Nov. 5, 1990, 104 Stat. 1388–415; Pub. L. 103–465, title I, §136(a), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 115–97, title I, §13807(a), (c), Dec. 22, 2017, 131 Stat. 2176; Pub. L. 116–94, div. Q, title I, §144(g)(1), (2), Dec. 20, 2019, 133 Stat. 3235.)
 
 #### Prior Provisions
 
 A prior section 5001, acts Aug. 16, 1954, ch. 736, 68A Stat. 595; Mar. 30, 1955, ch. 18, §3(a)(4), (5), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(4), (5), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(2), (3), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(2), (3), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. See section 5061(d) of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c). Pub. L. 116–94, §144(g)(2), substituted "Temporary reduced rate" for "Reduced rate for 2018 and 2019" in heading.
+
+Subsec. (c)(4). Pub. L. 116–94, §144(g)(1), substituted "December 31, 2020" for "December 31, 2019".
 
 <b>2017</b>—Subsec. (c). Pub. L. 115–97, §13807(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -166,6 +170,10 @@ Subsec. (a)(3). Pub. L. 86–564, §202(a)(5), substituted "July 1, 1961" for "J
 
 Subsec. (a)(3). Pub. L. 86–75, §3(a)(3), substituted "July 1, 1960" for "July 1, 1959".
 
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–94, div. Q, title I, §144(g)(3), Dec. 20, 2019, 133 Stat. 3235, provided that: "The amendments made by this subsection \[amending this section\] shall apply to distilled spirits removed after December 31, 2019."
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–97, title I, §13807(d), Dec. 22, 2017, 131 Stat. 2177, provided that: "The amendments made by this section \[amending this section and section 7652 of this title\] shall apply to distilled spirits removed after December 31, 2017."
@@ -208,7 +216,7 @@ Pub. L. 85–859, §1(a), Sept. 2, 1958, 72 Stat. 1275, provided that: "This Act
 
 #### Savings Provision
 
-Pub. L. 85–859, title II, §210(b), Sept. 2, 1958, 72 Stat. 1435, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment of any provision of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, 7652, and 7655 of this title, and enacting provisions set out as notes under this section and sections 5006, 5025, 5064, 5175, 5304, and 5601 of this title\] shall not affect any act done or any right accruing or accrued, or any suit or proceeding had or commenced in any civil cause before such amendment; but all rights and liabilities under such code prior to such amendment shall continue, and may be enforced in the same manner, as if such amendment had not been made."
+Pub. L. 85–859, title II, §210(b), Sept. 2, 1958, 72 Stat. 1435, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment of any provision of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by this title \[enacting sections 5849, 5854,5855, and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, 7652, and 7655 of this title, and enacting provisions set out as notes under this section and sections 5006, 5025, 5064, 5175, 5304, and 5601 of this title\] shall not affect any act done or any right accruing or accrued, or any suit or proceeding had or commenced in any civil cause before such amendment; but all rights and liabilities under such code prior to such amendment shall continue, and may be enforced in the same manner, as if such amendment had not been made."
 
 #### References to Other Provisions of Law
 
@@ -376,7 +384,7 @@ Exception for certain small wholesale or retail dealers.—No tax shall be impos
 
 &emsp;"(A) the aggregate liquid volume of distilled spirits held by such dealer on such date does not exceed 500 wine gallons, and
 
-&emsp;"(B) such dealer submits to the Secretary (at the time and in the manner required by the Secretary)such information as the Secretary shall require for purposes of this paragraph.
+&emsp;"(B) such dealer submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this paragraph.
 
 "(3)
 

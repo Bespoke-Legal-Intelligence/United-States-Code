@@ -50,7 +50,7 @@ Circumstances.—The circumstances described in this section are that the offens
 
 &emsp;&emsp;&emsp;(ii) that is a felony crime of violence that has as an element the use or attempted use of physical force against the person of another;
 
-&emsp;&emsp;(C) any Federal or State felony offense that by its nature involves a substantial risk that physical force against the person of another may be used in the course of committing the offense; or
+&emsp;&emsp;(C) any Federal or State felony offense that by its nature involves a substantial riskthat physical force against the person of another may be used in the course of committing the offense; or
 
 &emsp;&emsp;(D) a conspiracy to commit an offense described in subparagraph (A), (B), or (C).
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) the prospective earning power of the loan applicant and the character and value of the security pledged provide a reasonable assurance of repayment of the loan to be guaranteed;
 
-&emsp;&emsp;(E) the loan to be guaranteed bears interest at a rate determined by the Secretary ofthe Treasury to be reasonable, taking into account the then-current average yield on outstanding obligations of the United States with remaining periods of maturity comparable to the maturity of the loan;
+&emsp;&emsp;(E) the loan to be guaranteed bears interest at a rate determined by the Secretary of the Treasury to be reasonable, taking into account the then-current average yield on outstanding obligations of the United States with remaining periods of maturity comparable to the maturity of the loan;
 
 &emsp;&emsp;(F) the loan agreement for the loan to be guaranteed provides that no provision of the loan agreement may be amended or waived without the consent of the fiscal agent of the United States for the guarantee; and
 

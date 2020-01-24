@@ -2,17 +2,17 @@
 
 (a)
 
-Requirements for Budget Display.—In the defense budget materials for any fiscal year after fiscal year 2017, the Secretary of Defense shall, with respect to advanced component development and prototype activities (within the research, development, test, and evaluation budget), set forth the amounts requested for each of the following:
+Requirements for Budget Display.—In the defense budget materials for any fiscal year, the Secretary of Defense shall, with respect to advanced component development and prototype activities (within the research, development, test, and evaluation budget), set forth the amounts requested for each of the following:
 
 &emsp;(1) Acquisition programs of record.
 
-&emsp;(2) Development, prototyping, and experimentation of weapon system components or other technologies, including those based on commercial items and technologies, separate from acquisition programs of record.
+&emsp;(2) Development, prototyping, and experimentation of weapon system components or other technologies, including those based on commercial products and technologies, separate from acquisition programs of record.
 
 &emsp;(3) Other budget line items as determined by the Secretary of Defense.
 
 (b)
 
-Additional Requirements.—For purposes of subsection (a)(2), the amounts requested fordevelopment, prototyping, and experimentation of weapon system components or other technologies shall be—
+Additional Requirements.—For purposes of subsection (a)(2), the amounts requested for development, prototyping, and experimentation of weapon system components or other technologies shall be—
 
 &emsp;(1) structured into either capability, weapon system component, or technology portfolios that reflect the priority areas for prototype projects; and
 
@@ -20,19 +20,13 @@ Additional Requirements.—For purposes of subsection (a)(2), the amounts reques
 
 (c)
 
-Definitions.—In this section, the terms "budget" and "defense budget materials" have the meaning given those terms in section 234 of this title.
+Definitions.—In this section, the terms "budget" and "defense budget materials" have the meaning given those terms in section 234 of this title and the term "commercial product" has the meaning given that term in section 103 of title 41.
 
-(Added Pub. L. 114–328, div. A, title VIII, §806(a)(1), Dec. 23, 2016, 130 Stat. 2256; amended Pub. L. 115–232, div. A, title VIII, §836(e)(8), Aug. 13, 2018, 132 Stat. 1870.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(e)(8), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(2), by striking "commercial items and technologies" and inserting "commercial products and technologies"; and</i>
-
-<i>(2) in subsection (c), by inserting before the period at the end the following: "and the term 'commercial product' has the meaning given that term in section 103 of title 41".</i>
+(Added Pub. L. 114–328, div. A, title VIII, §806(a)(1), Dec. 23, 2016, 130 Stat. 2256; amended Pub. L. 115–232, div. A, title VIII, §836(e)(8), Aug. 13, 2018, 132 Stat. 1870; Pub. L. 116–92, div. A, title XVII, §1731(a)(51), Dec. 20, 2019, 133 Stat. 1815.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–92 struck out "after fiscal year 2017" after "any fiscal year" in introductory provisions.
 
 <b>2018</b>—Subsec. (a)(2). Pub. L. 115–232, §836(e)(8)(A), substituted "commercial products and technologies" for "commercial items and technologies".
 

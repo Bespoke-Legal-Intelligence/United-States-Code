@@ -36,7 +36,7 @@
 
 #### (3) Limitation
 
-&emsp;No information shall be required to be furnished under this subsection with respect to any foreign business entity for any annual accounting period unless the Secretary has prescribed the furnishing of such information on or before the first day of such annual accounting period.
+&emsp;No information shall be required to be furnished under this subsection with respect toany foreign business entity for any annual accounting period unless the Secretary has prescribed the furnishing of such information on or before the first day of such annual accounting period.
 
 #### (4) Information required from certain shareholders in certain cases
 
@@ -88,7 +88,7 @@
 
 #### (d) Two or more persons required to furnish information with respect to same foreign corporation
 
-Where, but for this subsection, two or more United States persons would be required to furnish information under subsection (a) with respect to the same foreign business entity for the same period, the Secretary may by regulations provide that such information shall be required only from one person. To the extent practicable, the determination of which person shall furnish the information shall be made on the basis of actual ownership of stock.
+Where, but for this subsection, two or more United States persons would be required to furnish information under subsection (a) with respect to the same foreign business entity for the same period, the Secretary may by regulations provide that such information shall be required only from one person. To the extent practicable,the determination of which person shall furnish the information shall be made on the basis of actual ownership of stock.
 
 #### (e) Definitions
 
@@ -230,7 +230,7 @@ Subsec. (e). Pub. L. 87–834 designated existing provisions as par. (1) and add
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
+Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31,2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
 
 #### Effective Date of 1998 Amendment
 

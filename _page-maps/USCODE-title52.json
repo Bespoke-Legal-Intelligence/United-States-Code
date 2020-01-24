@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title52",
- "package": "USCODE-2018-title52",
+ "package": "USCODE-2019-title52",
  "pieces": [
   {
    "id": "52_",
@@ -3067,6 +3067,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2018-title52 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2019-title52 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 52 - Voting and Elections"
 }

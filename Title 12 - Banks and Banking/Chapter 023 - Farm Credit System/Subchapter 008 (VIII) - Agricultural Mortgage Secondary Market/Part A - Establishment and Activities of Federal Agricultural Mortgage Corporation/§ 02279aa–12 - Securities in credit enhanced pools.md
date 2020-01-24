@@ -4,7 +4,7 @@
 
 #### (1) Applicability of certain Federal securities laws
 
-&emsp;For purposes of section 77c(a)(2) of title 15, no security representing an interest in, or obligations backed by, a pool of qualified loans for which guarantees have been provided by the Corporation shall be deemed to be a security issued or guaranteed by a person controlled or supervised by, or acting as an instrumentality of, the Government of the United States. No such security shall be deemed to be a "government security" for purposes of the Securities Exchange Act of 1934\[15 U.S.C. 78a et seq.\] or for purposes of the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\].
+&emsp;For purposes of section 77c(a)(2) of title 15, no security representing an interest in, or obligations backed by, a pool of qualified loans for which guarantees have been provided by the Corporation shall be deemed to be a security issued or guaranteed by a person controlled or supervised by, or acting as an instrumentality of, the Government of the United States. No such security shall be deemed to be a "government security" for purposes of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] or for purposes of the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\].
 
 #### (2) No full faith and credit of the United States
 
@@ -46,7 +46,7 @@
 
 #### (d) State usury laws superseded
 
-A provision of the Constitution or law of any State shall not apply to an agricultural loan made by an originator or a certified facility in accordance with this subchapter for sale to the Corporation or to a certified facility for inclusion in a pool for which the Corporation has provided, or has committed to provide, a guarantee, if the loan, not later than 180 days after the date the loan was made, is sold to the Corporation or included in a pool for which the Corporation has provided a guarantee, if the provision—
+A provision of the Constitution or law of any State shall not apply to an agricultural loan made by an originator or a certified facility in accordance with this subchapter for sale to the Corporation or to a certified facility for inclusion in a pool for which the Corporation has provided, or has committed to provide, a guarantee, if the loan, not later than 180 days after the datethe loan was made, is sold to the Corporation or included in a pool for which the Corporation has provided a guarantee, if the provision—
 
 &emsp;(1) limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, or reserved by an agricultural lender or a certified facility; or
 

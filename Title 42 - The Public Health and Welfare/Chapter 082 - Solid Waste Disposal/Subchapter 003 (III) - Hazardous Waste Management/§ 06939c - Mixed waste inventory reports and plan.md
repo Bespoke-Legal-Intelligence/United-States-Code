@@ -56,7 +56,7 @@
 
 #### (5) Requests for additional information
 
-&emsp;Nothing in this subsection limits or restricts the authority of States or the Administratorto request additional information from the Secretary of Energy.
+&emsp;Nothing in this subsection limits or restricts the authority of States or the Administrator to request additional information from the Secretary of Energy.
 
 #### (b) Plan for development of treatment capacities and technologies
 
@@ -102,7 +102,7 @@
 
 #### (1) Schedule
 
-&emsp;Not later than 6 months after October 6, 1992, the Secretary of Energy shall publish inthe Federal Register a schedule for submitting the plans required under subsection (b).
+&emsp;Not later than 6 months after October 6, 1992, the Secretary of Energy shall publish in the Federal Register a schedule for submitting the plans required under subsection (b).
 
 #### (2) Progress reports
 

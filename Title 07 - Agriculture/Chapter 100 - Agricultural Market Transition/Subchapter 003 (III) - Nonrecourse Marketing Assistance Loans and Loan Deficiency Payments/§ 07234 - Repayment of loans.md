@@ -44,7 +44,7 @@ For purposes of this section and section 7236 of this title, the Secretary shall
 
 &emsp;&emsp;(A) the adjusted prevailing world market price is less than 115 percent of the loan rate for upland cotton established under section 7232 of this title, as determined by the Secretary; and
 
-&emsp;&emsp;(B) the Friday through Thursday average price quotation for the lowest-priced United States growth as quoted for Middling (M) 13/32-inch cotton delivered C.I.F. Northern Europe is greater than the Friday through Thursday average price of the 5 lowest-priced growths of upland cotton, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe (referred to in this section as the "Northern Europe price").
+&emsp;&emsp;(B) the Friday through Thursday average price quotation for the lowest-priced UnitedStates growth as quoted for Middling (M) 13/32-inch cotton delivered C.I.F. Northern Europe is greater than the Friday through Thursday average price of the 5 lowest-priced growths of upland cotton, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe (referred to in this section as the "Northern Europe price").
 
 #### (2) Further adjustment
 

@@ -10,7 +10,7 @@ The Secretary is authorized to prescribe regulations providing for the crediting
 
 #### (c) Offset of past-due support against overpayments
 
-The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligationfor past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person's future liability for an internal revenue tax.
+The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person's future liability for an internal revenue tax.
 
 #### (d) Collection of debts owed to Federal agencies
 
@@ -132,7 +132,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 &emsp;Upon receiving notice from any State that a named person owes a covered unemployment compensation debt to such State, the Secretary shall, under such conditions as may be prescribed by the Secretary—
 
-&emsp;&emsp;(A) reduce the amount of any overpayment payable to such person by the amount of such covered unemployment compensation debt;
+&emsp;&emsp;(A) reduce the amount of any overpayment payable to such person by the amount ofsuch covered unemployment compensation debt;
 
 &emsp;&emsp;(B) pay the amount by which such overpayment is reduced under subparagraph (A) to such State and notify such State of such person's name, taxpayer identification number, address, and the amount collected; and
 
@@ -198,7 +198,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (g) Review of reductions
 
-No court of the United States shall have jurisdiction to hear any action, whether legal or equitable, brought to restrain or review a reduction authorized by subsection (c), (d), (e), or (f). No such reduction shall be subject to review by the Secretary in an administrative proceeding. No action brought against the United States to recover the amount of any such reduction shall be considered to be a suit for refund of tax. This subsection does not preclude any legal, equitable, or administrative action against the Federal agency or State to which the amount of such reduction was paid or any such action against the Commissioner of Social Security which is otherwise available with respect to recoveries of overpayments of benefits under section 204 of the Social Security Act.
+No court of the United States shall have jurisdiction to hear any action, whether legal or equitable, brought to restrain or review a reduction authorized by subsection (c), (d), (e), or (f). No such reduction shall be subject to review bythe Secretary in an administrative proceeding. No action brought against the United States to recover the amount of any such reduction shall be considered to be a suit for refund of tax. This subsection does not preclude any legal, equitable, or administrative action against the Federal agency or State to which the amount of such reduction was paid or any such action against the Commissioner of Social Security which is otherwise available with respect to recoveries of overpayments of benefits under section 204 of the Social Security Act.
 
 #### (h) Federal agency
 
@@ -224,13 +224,31 @@ In the case of a disallowance of a claim for refund, the Secretary shall provide
 
 No credit or refund of an overpayment for a taxable year shall be made to a taxpayer before the 15th day of the second month following the close of such taxable year if a credit is allowed to such taxpayer under section 24 (by reason of subsection (d) thereof) or 32 for such taxable year.
 
-(Aug. 6, 1954, ch. 736, 68A Stat. 791; Pub. L. 94–455, title XIX, §1906(b)(13) (A), (K), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 97–35, title XXIII, §2331(c), Aug. 13, 1981, 95 Stat. 861; Pub. L. 98–369, div. B, title VI, §2653(b)(1), (2), July 18, 1984, 98 Stat. 1154, 1155; Pub. L. 98–378, §21(e), Aug. 16, 1984, 98 Stat. 1325; Pub. L. 100–647, title VI, §6276, Nov. 10, 1988, 102 Stat. 3753; Pub. L. 101–508, title V, §5129(c), Nov. 5, 1990, 104 Stat. 1388–288; Pub. L. 103–296, title I, §108(h)(7), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–134, title III, §31001(u)(2), Apr. 26, 1996, 110 Stat. 1321–375; Pub. L. 104–193, title I, §110(l)(7), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–206, title III, §§3505(a), 3711(a), (c), July 22, 1998, 112 Stat. 771, 779, 781; Pub. L. 109–171, title VII, §7301(d), Feb. 8, 2006, 120 Stat. 144; Pub. L. 110–328, §3(a), (d), Sept. 30, 2008, 122 Stat. 3570, 3573; Pub. L. 111–291, title VIII, §801(a), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 111–312, title V, §503(a), Dec. 17, 2010, 124 Stat. 3308; Pub. L. 114–113, div. Q, title II, §201(b), Dec. 18, 2015, 129 Stat. 3076; Pub. L. 115–141, div. U, title IV, §401(a)(285)–(287), Mar. 23, 2018, 132 Stat. 1198.)
+#### (n) Misdirected direct deposit refund
+
+Not later than the date which is 6 months after the date of the enactment of the Taxpayer First Act, the Secretary shall prescribe regulations to establish procedures to allow for—
+
+&emsp;(1) taxpayers to report instances in which a refund made by the Secretary by electronic funds transfer was not transferred to the account of the taxpayer;
+
+&emsp;(2) coordination with financial institutions for the purpose of—
+
+&emsp;&emsp;(A) identifying the accounts to which transfers described in paragraph (1) were made; and
+
+&emsp;&emsp;(B) recovery of the amounts so transferred; and
+
+&emsp;(3) the refund to be delivered to the correct account of the taxpayer.
+
+(Aug. 6, 1954, ch. 736, 68A Stat. 791; Pub. L. 94–455, title XIX, §1906(b)(13) (A), (K), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 97–35, title XXIII, §2331(c), Aug. 13, 1981, 95 Stat. 861; Pub. L. 98–369, div. B, title VI, §2653(b)(1), (2), July 18, 1984, 98 Stat. 1154, 1155; Pub. L. 98–378, §21(e), Aug. 16, 1984, 98 Stat. 1325; Pub. L. 100–647, title VI, §6276, Nov. 10, 1988, 102 Stat. 3753; Pub. L. 101–508, title V, §5129(c), Nov. 5, 1990, 104 Stat. 1388–288; Pub. L. 103–296, title I, §108(h)(7), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–134, title III, §31001(u)(2), Apr. 26, 1996, 110 Stat. 1321–375; Pub. L. 104–193, title I, §110(l)(7), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–206, title III, §§3505(a), 3711(a), (c), July 22, 1998, 112 Stat. 771, 779, 781; Pub. L. 109–171, title VII, §7301(d), Feb. 8, 2006, 120 Stat. 144; Pub. L. 110–328, §3(a), (d), Sept. 30, 2008, 122 Stat. 3570, 3573; Pub. L. 111–291, title VIII, §801(a), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 111–312, title V, §503(a), Dec. 17, 2010, 124 Stat. 3308; Pub. L. 114–113, div. Q, title II, §201(b), Dec. 18, 2015, 129 Stat. 3076; Pub. L. 115–141, div. U, title IV, §401(a)(285)–(287), Mar. 23, 2018, 132 Stat. 1198; Pub. L. 116–25, title I, §1407, July 1, 2019, 133 Stat. 1001.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (c), (d)(3)(D), and (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 204 and 464 of the Act are classified to sections 404 and 664, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
+The date of the enactment of the Taxpayer First Act, referred to in subsec. (n), is the date of enactment of Pub. L. 116–25, which was approved July 1, 2019.
+
 #### Amendments
+
+<b>2019</b>—Subsec. (n). Pub. L. 116–25 added subsec. (n).
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–141, §401(a)(285), substituted "(f), refund" for "(f) refund".
 
@@ -370,7 +388,7 @@ Amendment by Pub. L. 105–33 effective as if included in section 110 of the Per
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDCprogram, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1994 Amendment
 
@@ -432,5 +450,5 @@ Pub. L. 100–203, title IX, §9402(b), Dec. 22, 1987, 101 Stat. 1330–376, pro
 
 #### Study by General Accounting Office of Operation and Effectiveness of Amendments by Section 2653 of Pub. L. 98–369
 
-Pub. L. 100–203, title IX, §9402(c), Dec. 22, 1987, 101 Stat. 1330–376, required the Comptroller General of the United States, in consultation with the Secretary of the Treasury, to conduct a study of the operation and effectiveness of amendments by section 2653 of Pub. L. 98–369 on voluntary compliance with the income tax laws and, by Apr. 1, 1989, submit a report and recommendations to Congress.
+Pub. L. 100–203, title IX, §9402(c), Dec. 22, 1987, 101 Stat. 1330–376, required the Comptroller General of theUnited States, in consultation with the Secretary of the Treasury, to conduct a study of the operation and effectiveness of amendments by section 2653 of Pub. L. 98–369 on voluntary compliance with the income tax laws and, by Apr. 1, 1989, submit a report and recommendations to Congress.
 

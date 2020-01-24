@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(i) by substituting "$10,000,000" for "$1,000,000" in paragraph (1), and
 
-&emsp;&emsp;&emsp;(ii) in determining the aggregate face amount of such issue, by taking into account not only the amount described in paragraph (2), but also the aggregate amount of capital expenditures with respect to facilities described in subparagraph (B) paid or incurred during the 6-year period beginning 3 years before the date of such issue and ending 3 years after such date (and financed otherwise than out of the proceeds of outstanding tax-exempt issues to which paragraph (1) (or the corresponding provision of prior law) applied), as if the aggregate amount of such capital expenditures constituted the face amountof a prior outstanding issue described in paragraph (2).
+&emsp;&emsp;&emsp;(ii) in determining the aggregate face amount of such issue, by taking into account not only the amount described in paragraph (2), but also the aggregate amount of capital expenditures with respect to facilities described in subparagraph (B) paid or incurred during the 6-year period beginning 3 years before the date of such issue and ending 3 years after such date (and financed otherwise than out of the proceeds of outstanding tax-exempt issues to which paragraph (1) (or the corresponding provision of prior law) applied), as if the aggregate amount of such capital expenditures constituted the face amount of a prior outstanding issue described in paragraph (2).
 
 #### (B) Facilities taken into account
 
@@ -298,7 +298,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B)(i) the payment of the principal and interest on such issue is primarily secured by taxes of general applicability imposed by a general purpose governmental unit, or
 
-&emsp;&emsp;(ii) any increase in real property tax revenues (attributable to increases in assessed value) by reason of the carrying out of such purposes in such area is reserved exclusively for debt service on such issue (and similar issues) to the extent such increase does not exceed such debt service,
+&emsp;&emsp;(ii) any increase in real property tax revenues (attributable to increases in assessedvalue) by reason of the carrying out of such purposes in such area is reserved exclusively for debt service on such issue (and similar issues) to the extent such increase does not exceed such debt service,
 
 &emsp;&emsp;(C) each interest in real property located in such area—
 
@@ -414,7 +414,7 @@ A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, P
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(12)(C). Pub. L. 111–5 substituted dash for comma after "For purposes of this paragraph", designated remainder of first sentence and second sentence of existing provisions as cl. (i) and inserted heading, substituted "The term" for "the term", added cls. (ii) and (iii), and struck out former last sentence which read as follows: "For purposes of the 1st sentence ofthis subparagraph, the term 'manufacturing facility' includes facilities which are directly related and ancillary to a manufacturing facility (determined without regard to this sentence) if—
+<b>2009</b>—Subsec. (a)(12)(C). Pub. L. 111–5 substituted dash for comma after "For purposes of this paragraph", designated remainder of first sentence and second sentence of existing provisions as cl. (i) and inserted heading, substituted "The term" for "the term", added cls. (ii) and (iii), and struck out former last sentence which read as follows: "For purposes of the 1st sentence of this subparagraph, the term 'manufacturing facility' includes facilities which are directly related and ancillary to a manufacturing facility (determined without regard to this sentence) if—
 
 &emsp;"(i) such facilities are located on the same site as the manufacturing facility, and
 

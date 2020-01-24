@@ -30,7 +30,7 @@ A prior section 2611, Pub. L. 107–314, div. D, title XLIV, §4431, formerly Pu
 
 Pub. L. 113–66, §3146(a)(2)(E), struck out "(as defined in section 2286g of title 42)" after "defense nuclear facility".
 
-Subsec. (b)(2). Pub. L. 113–66, §3146(e)(11)(B), substituted "defense environmental cleanup activities" for "environmental restoration and other remediation and cleanup efforts".
+Subsec. (b)(2). Pub. L. 113–66, §3146(e)(11)(B), substituted "defense environmental cleanup activities" for"environmental restoration and other remediation and cleanup efforts".
 
 <b>2003</b>—Pub. L. 108–136, §3141(g)(12)(D), made technical amendment to section catchline.
 
@@ -40,7 +40,7 @@ Pub. L. 108–375, div. C, title XXXI, §3116, Oct. 28, 2004, 118 Stat. 2162, pr
 
 "(a)
 
-In General.—Notwithstanding the provisions of the Nuclear Waste Policy Act of 1982 \[42 U.S.C. 10101 et seq.\], the requirements of section 202 of the Energy Reorganization Act of 1974 \[42 U.S.C. 5842\], and other laws that define classes of radioactive waste, with respect tomaterial stored at a Department of Energy site at which activities are regulated by a covered State pursuant to approved closure plans or permits issued by the State, the term 'high-level radioactive waste' does not include radioactive waste resulting from the reprocessing of spent nuclear fuel that the Secretary of Energy (in this section referred to as the 'Secretary'), in consultation with the Nuclear Regulatory Commission (in this section referred to as the 'Commission'), determines—
+In General.—Notwithstanding the provisions of the Nuclear Waste Policy Act of 1982 \[42 U.S.C. 10101 et seq.\], the requirements of section 202 of the Energy Reorganization Act of 1974 \[42 U.S.C. 5842\], and other laws that define classes of radioactive waste, with respect to material stored at a Department of Energy site at which activities are regulated by a covered State pursuant to approved closure plans or permits issued by the State, the term 'high-level radioactive waste' does not include radioactive waste resulting from the reprocessing of spent nuclear fuel that the Secretary of Energy (in this section referred to as the 'Secretary'), in consultation with the Nuclear Regulatory Commission (in this section referred to as the 'Commission'), determines—
 
 &emsp;"(1) does not require permanent isolation in a deep geologic repository for spent fuel or high-level radioactive waste;
 

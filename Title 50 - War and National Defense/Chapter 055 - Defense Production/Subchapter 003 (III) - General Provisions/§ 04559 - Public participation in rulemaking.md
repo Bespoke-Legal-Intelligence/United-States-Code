@@ -26,7 +26,7 @@ Any regulation issued under this chapter shall not be subject to sections 551 th
 
 #### (c) Public comment on procurement regulations
 
-Any procurement policy, regulation, procedure, or form (including any amendment ormodification of any such policy, regulation, procedure, or form) issued under this chapter shall be subject to section 1707 of title 41.
+Any procurement policy, regulation, procedure, or form (including any amendment or modification of any such policy, regulation, procedure, or form) issued under this chapter shall be subject to section 1707 of title 41.
 
 (Sept. 8, 1950, ch. 932, title VII, §709, 64 Stat. 819; Pub. L. 102–558, title I, §136(a), Oct. 28, 1992, 106 Stat. 4216.)
 
@@ -46,7 +46,7 @@ In subsec. (c), "section 1707 of title 41" substituted for "section 22 of the Of
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–558 amended section generally. Prior to amendment, section read as follows: "The functions exercised under this chapter shall be excluded from the operation of the Administrative Procedure Act (60 Stat. 237) except as to the requirements of section 3 thereof. Any rule, regulation, or order, or amendment thereto, issued under authority of this chapter shall be accompanied by a statement that in the formulation thereof there has been consultation with industry representatives, including trade association representatives, and that consideration has been given to their recommendations, or that special circumstances have rendered such consultation impracticable or contrary to the interest of the national defense, but no such rule, regulation, or order shall be invalid by reason of any subsequent finding by judicial or other authority that such a statement is inaccurate."
+<b>1992</b>—Pub. L. 102–558 amended section generally. Prior to amendment, section read as follows: "The functions exercised under this chapter shall be excluded from the operation of the Administrative Procedure Act (60 Stat. 237) except as to the requirements of section 3 thereof. Any rule, regulation, or order, or amendment thereto, issued under authority of this chapter shall be accompanied by a statement that in the formulation thereof there has been consultation with industry representatives, including trade association representatives, and that consideration has been given to their recommendations, or that special circumstances have rendered such consultation impracticable or contrary tothe interest of the national defense, but no such rule, regulation, or order shall be invalid by reason of any subsequent finding by judicial or other authority that such a statement is inaccurate."
 
 #### Effective Date of 1992 Amendment
 

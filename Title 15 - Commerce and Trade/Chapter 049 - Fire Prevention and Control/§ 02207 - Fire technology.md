@@ -24,7 +24,7 @@ The Administrator shall conduct a continuing program of development, testing, an
 
 #### (b) Limitation on manufacture and sale of equipment
 
-The Administration shall not engage in the manufacture or sale of any equipment or device developed pursuant to this section, except to the extent that it deems it necessary to adequately develop, test, or evaluate such equipment or device.
+The Administration shall not engage in the manufacture or sale of any equipment or device developed pursuant to this section, except to theextent that it deems it necessary to adequately develop, test, or evaluate such equipment or device.
 
 #### (c) Management studies
 
@@ -32,7 +32,7 @@ The Administration shall not engage in the manufacture or sale of any equipment 
 
 (2) The Administrator is authorized to conduct, directly or through contracts or grants, studies of the operations and management aspects of fire service-based emergency medical services and coordination between emergency medical services and fire services. Such studies may include the optimum protocols for on-scene care, the allocation of resources, and the training requirements for fire service-based emergency medical services.
 
-(3) The Administrator is authorized to conduct, directly or through contracts or grants, research concerning the productivity and efficiency of fire service personnel, the job categories and skills required by fire services under varying conditions, the reduction of injuries to fire service personnel, the most effective fire prevention programs and activities, and techniques for accuracy measuring and analyzing the foregoing.
+(3) The Administrator is authorized to conduct, directly or through contracts or grants, research concerning the productivity and efficiency of fire service personnel, the job categories and skills required by fire services under varying conditions, the reduction of injuries to fire service personnel, the most effective fire prevention programs and activities, and techniques for accurately measuring and analyzing the foregoing.
 
 (4) The Administrator is authorized to conduct, directly or through contracts, grants, or other forms of assistance, development, testing and demonstration projects to the extent deemed necessary to introduce and to encourage the acceptance of new technology, standards, operating methods, command techniques, and management systems for utilization by the fire services.
 

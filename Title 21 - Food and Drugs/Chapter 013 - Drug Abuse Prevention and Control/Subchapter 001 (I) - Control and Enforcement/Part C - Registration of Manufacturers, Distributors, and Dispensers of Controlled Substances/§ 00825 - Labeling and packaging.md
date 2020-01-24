@@ -14,7 +14,7 @@ The Secretary shall prescribe regulations under section 353(b) of this title whi
 
 #### (d) Containers to be securely sealed
 
-It shall be unlawful to distribute controlled substances in schedule I or II, and narcotic drugs in schedule III or IV, unless the bottle orother container, stopper, covering, or wrapper thereof is securely sealed as required by regulations of the Attorney General.
+It shall be unlawful to distribute controlled substances in schedule I or II, and narcotic drugs in schedule III or IV, unless the bottle or other container, stopper, covering, or wrapper thereof is securely sealed as required by regulations of the Attorney General.
 
 #### (e) False labeling of anabolic steroids
 

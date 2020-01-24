@@ -90,7 +90,7 @@ The Secretary may carry out activities to promote safe motherhood, including—
 
 &emsp;&emsp;&emsp;(iv) other appropriate individuals or entities; and
 
-&emsp;&emsp;(B) provides for voluntary and confidential case reporting of pregnancy-associateddeaths and pregnancy-related deaths to the appropriate State or tribal health agency by family members of the deceased, and other appropriate individuals, for purposes of review by the applicable maternal mortality review committee; and
+&emsp;&emsp;(B) provides for voluntary and confidential case reporting of pregnancy-associated deaths and pregnancy-related deaths to the appropriate State or tribal health agency by family members of the deceased, and other appropriate individuals, for purposes of review by the applicable maternal mortality review committee; and
 
 &emsp;&emsp;(C) shall include—
 
@@ -156,7 +156,7 @@ In this section—
 
 &emsp;(1) the terms "Indian tribe" and "tribal organization" have the meanings given such terms in section 5304 of title 25;
 
-&emsp;(2) the term "pregnancy-associated death" means a death of a woman, by any cause, that occurs during, or within 1 year following, herpregnancy, regardless of the outcome, duration, or site of the pregnancy; and
+&emsp;(2) the term "pregnancy-associated death" means a death of a woman, by any cause, that occurs during, or within 1 year following, her pregnancy, regardless of the outcome, duration, or site of the pregnancy; and
 
 &emsp;(3) the term "pregnancy-related death" means a death of a woman that occurs during, or within 1 year following, her pregnancy, regardless of the outcome, duration, or site of the pregnancy—
 

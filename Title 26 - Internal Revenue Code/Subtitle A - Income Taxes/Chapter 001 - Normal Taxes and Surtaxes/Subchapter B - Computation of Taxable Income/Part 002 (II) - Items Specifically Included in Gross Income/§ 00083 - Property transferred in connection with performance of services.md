@@ -144,7 +144,7 @@ In the case of a transfer of property to which this section applies or a cancell
 
 #### (B) Limitation
 
-&emsp;&emsp;The term "qualified stock" shall not include any stock if the employee may sell such stock to, or otherwise receive cash in lieu of stock from, the corporation at the time that the rights of the employee in such stock first become transferable or not subject to a substantial risk of forfeiture.
+&emsp;&emsp;The term "qualified stock" shall not include any stock if the employee may sell such stock to, or otherwise receive cash inlieu of stock from, the corporation at the time that the rights of the employee in such stock first become transferable or not subject to a substantial risk of forfeiture.
 
 #### (C) Eligible corporation
 
@@ -290,7 +290,7 @@ The Securities Exchange Act of 1934, referred to in subsecs. (c)(3) and (i)(3)(B
 
 &emsp;"(4) before January 1, 1973, upon the exercise of an option granted pursuant to a binding written contract entered into before April 22, 1969, between a corporation and the transferor requiring the transferor to grant options to employees of such corporation (or a subsidiary of such corporation) to purchase a determinable number of shares of stock of such corporation, but only if the transferee was an employee of such corporation (or a subsidiary of such corporation) on or before April 22, 1969, or
 
-&emsp;"(5) in exchange for (or pursuant to the exercise of a conversion privilege contained in) property transferred before July 1, 1969, or for property to which this section does not apply (by reason of paragraphs (1), (2), (3), or (4)), if section 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies, or if gain or loss is not otherwise required to be recognized upon the exercise of such conversion privilege, and if the property received in such exchange is subject to restrictions and conditions substantially similar to those to which the property given in such exchange was subject."
+&emsp;"(5) in exchange for (or pursuant to the exercise of a conversion privilege contained in) property transferred before July 1, 1969, or for property to which this section does not apply (by reason of paragraphs (1), (2), (3), or (4)), if section 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies, or if gain or loss is not otherwise required to be recognized upon the exercise of such conversion privilege, and if the property received in such exchange is subject to restrictions and conditions substantiallysimilar to those to which the property given in such exchange was subject."
 
 <b>1986</b>—Subsec. (e)(5). Pub. L. 99–514 struck out "the cost of" before "group-life insurance".
 
@@ -382,7 +382,7 @@ Statute of limitations.—
 
 &emsp;"(A)
 
-Overpayments.—If refund or credit of any overpayment of tax resulting from the application of paragraph (1) is prevented on the date of the enactment of this Act \[Oct. 22, 1986\] (or at any time within 6 months after such date of enactment) by the operation of any law or rule of law, refund or credit of such overpayment (to the extent attributable to the application of paragraph (1)) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 6-month period.
+Overpayments.—If refund or credit of any overpayment of tax resulting from the application ofparagraph (1) is prevented on the date of the enactment of this Act \[Oct. 22, 1986\] (or at any time within 6 months after such date of enactment) by the operation of any law or rule of law, refund or credit of such overpayment (to the extent attributable to the application of paragraph (1)) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 6-month period.
 
 &emsp;"(B)
 

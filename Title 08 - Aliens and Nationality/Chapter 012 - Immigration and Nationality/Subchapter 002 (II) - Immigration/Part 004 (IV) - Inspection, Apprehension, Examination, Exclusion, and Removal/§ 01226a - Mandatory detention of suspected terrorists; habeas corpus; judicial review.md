@@ -28,7 +28,7 @@
 
 #### (6) Limitation on indefinite detention
 
-&emsp;An alien detained solely under paragraph (1) who has not been removed under section 1231(a)(1)(A) of this title, and whose removal is unlikely in the reasonably foreseeable future, may be detained for additional periods of up to six months only if the release of the alien will threaten the national security of the United States or the safety of the community or any person.
+&emsp;An alien detained solely under paragraph (1) who has not been removed under section1231(a)(1)(A) of this title, and whose removal is unlikely in the reasonably foreseeable future, may be detained for additional periods of up to six months only if the release of the alien will threaten the national security of the United States or the safety of the community or any person.
 
 #### (7) Review of certification
 

@@ -136,7 +136,7 @@ Subsec. (a)(3)(H). Pub. L. 114–95, §6003(c)(1)(B)(v)(I), substituted "student
 
 Subsec. (a)(3)(H)(i). Pub. L. 114–95, §6003(c)(1)(B)(v)(II), substituted "early childhood education programs" for "preschool programs".
 
-Subsec. (a)(3)(H)(ii). Pub. L. 114–95, §6003(c)(1)(B)(v)(III), added cl. (ii) and struck out former cl. (ii) which read as follows: "after-school programs;".
+Subsec. (a)(3)(H)(ii). Pub. L. 114–95, §6003(c)(1)(B)(v)(III), added cl. (ii) and struck outformer cl. (ii) which read as follows: "after-school programs;".
 
 Subsec. (a)(3)(H)(iii). Pub. L. 114–95, §6003(c)(1)(B)(v)(IV), substituted "career and technical education programs" for "vocational and adult education programs".
 

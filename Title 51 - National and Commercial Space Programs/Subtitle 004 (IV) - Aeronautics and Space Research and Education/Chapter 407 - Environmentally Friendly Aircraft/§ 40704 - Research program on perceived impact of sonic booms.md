@@ -2,11 +2,11 @@
 
 (a)
 
-Establishment.—The Administrator shall establish a cooperative research program with industry, including the conduct of flight demonstrations in a relevant environment, to collect data on the perceived impact of sonic booms. The data could enable the promulgation of appropriate standards for overland commercial supersonic flight operations.
+Establishment.—The Administrator shall establish a cooperative research program with industry, including the conduct of flight demonstrations in a relevant environment, to collect data on the perceived impact of sonicbooms. The data could enable the promulgation of appropriate standards for overland commercial supersonic flight operations.
 
 (b)
 
-Coordination.—The Administrator shall ensure that sonic boom research is coordinatedas appropriate with the Administrator of the Federal Aviation Administration, and as appropriate make use of the expertise of the Partnership for Air Transportation Noise and Emissions Reduction Center of Excellence sponsored by the Administration and the Federal Aviation Administration.
+Coordination.—The Administrator shall ensure that sonic boom research is coordinated as appropriate with the Administrator of the Federal Aviation Administration, and as appropriate make use of the expertise of the Partnership for Air Transportation Noise and Emissions Reduction Center of Excellence sponsored by the Administration and the Federal Aviation Administration.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3391.)
 

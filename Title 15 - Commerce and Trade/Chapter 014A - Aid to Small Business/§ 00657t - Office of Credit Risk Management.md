@@ -92,7 +92,7 @@ During any period during which a 7(a) lender is suspended or otherwise prohibite
 
 #### (2) Report to Congress
 
-&emsp;On December 1, 2018, and every December 1 thereafter, the Director shall submit to Congress a report containing the results of eachportfolio risk analysis conducted under paragraph (1) during the fiscal year preceding the submission of the report, which shall include—
+&emsp;On December 1, 2018, and every December 1 thereafter, the Director shall submit to Congress a report containing the results of each portfolio risk analysis conducted under paragraph (1) during the fiscal year preceding the submission of the report, which shall include—
 
 &emsp;&emsp;(A) an analysis of the overall program risk of loans guaranteed under section 7(a);
 

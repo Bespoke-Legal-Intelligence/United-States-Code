@@ -36,7 +36,7 @@ Treatment of Amounts Corresponding to the Value of Property Purchased With Nonap
 
 (d)
 
-OMB Review of Proposed Overseas Basing Settlements.—(1) The Secretary of Defense may not enter into an agreement of settlement with a host country regarding the release to the host country of improvements made by theUnited States to facilities at an installation located in the host country until 30 days after the date on which the Secretary submits the proposed settlement to the Director of the Office of Management and Budget. The prohibition set forth in the preceding sentence shall apply only to agreements of settlement for improvements having a value in excess of $10,000,000. The Director shall evaluate the overall equity of the proposed settlement. In evaluating the proposed settlement, the Director shall consider such factors as the extent of the United States capital investment in the improvements being released to the host country, the depreciation of the improvements, the condition of the improvements, and any applicable requirements for environmental remediation or restoration at the installation.
+OMB Review of Proposed Overseas Basing Settlements.—(1) The Secretary of Defense may not enter into an agreement of settlement with a host country regarding the release to the host country of improvements made by the United States to facilities at an installation located in the host country until 30 days after the date on which the Secretary submits the proposed settlement to the Director of the Office of Management and Budget. The prohibition set forth in the preceding sentence shall apply only to agreements of settlement for improvements having a value in excess of $10,000,000. The Director shall evaluate the overall equity of the proposed settlement. In evaluating the proposed settlement, the Director shall consider such factors as the extent of the United States capital investment in the improvements being released to the host country, the depreciation of the improvements, the condition of the improvements, and any applicable requirements for environmental remediation or restoration at the installation.
 
 (2) Each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on each proposed agreement of settlement that was not submitted by the Secretary to the Director of the Office of Management and Budget in the previous year under paragraph (1) because the fair market value of the improvements to be released pursuant to the proposed agreement did not exceed $10,000,000.
 
@@ -54,7 +54,7 @@ Congressional Oversight of Use of Payments-In-Kind for Construction or Operation
 
 &emsp;(A) A description of each activity to be covered by the payment-in-kind.
 
-&emsp;(B) A certification that the costs to be covered by the payment-in-kind are included in the budget of one or more of the military departments or that it will otherwise be necessary to provide for payment of such costs in a budget of one or more of the military departments in the current or the next fiscal year.
+&emsp;(B) A certification that the costs to be covered by the payment-in-kind are included inthe budget of one or more of the military departments or that it will otherwise be necessary to provide for payment of such costs in a budget of one or more of the military departments in the current or the next fiscal year.
 
 (3) When the Secretary of Defense submits a notification of a proposed agreement under paragraph (1) or (2), the Secretary may then enter into the agreement described in the notification only after the end of the 30-day period beginning on the date on which the notification is submitted or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
 
@@ -96,7 +96,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "fair market value of the improvements" means the value of improvements determined by the Secretary of Defense on the basis of their highest use.
 
-&emsp;(2) The term "improvements" includes new construction of facilities and all additions, improvements, modifications, or renovationsmade to existing facilities or to real property, without regard to whether they were carried out with appropriated or nonappropriated funds.
+&emsp;(2) The term "improvements" includes new construction of facilities and all additions, improvements, modifications, or renovations made to existing facilities or to real property, without regard to whether they were carried out with appropriated or nonappropriated funds.
 
 &emsp;(3) The term "nonappropriated funds" means funds received from—
 
@@ -124,7 +124,7 @@ Pub. L. 114–328, §2811(c), as amended by Pub. L. 115–91, §1081(d)(15), rep
 
 Subsec. (f). Pub. L. 114–92, §1081(b)(7), amended Pub. L. 113–291, §2803(a). See 2014 Amendment note below.
 
-<b>2014</b>—Subsec. (f). Pub. L. 113–291, §2803(a), as amended by Pub. L. 114–92, §1081(b)(7), which amended subsec. (f) generally by substituting provisions related to authorized use of payments-in-kind and in-kind contributions for provisions related to authorized use of payments-in-kind, was repealed by Pub. L. 114–328, §2811(c), as amended by Pub. L. 115–91, §1081(d)(15).
+<b>2014</b>—Subsec. (f). Pub. L. 113–291, §2803(a), as amended by Pub. L. 114–92, §1081(b)(7), which amended subsec. (f)generally by substituting provisions related to authorized use of payments-in-kind and in-kind contributions for provisions related to authorized use of payments-in-kind, was repealed by Pub. L. 114–328, §2811(c), as amended by Pub. L. 115–91, §1081(d)(15).
 
 <b>2013</b>—Pub. L. 113–66, §2807(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) which related to an annual status report of overseas base closures, realignments, and basing master plans and required elements of the report, respectively.
 

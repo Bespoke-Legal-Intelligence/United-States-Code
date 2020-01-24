@@ -26,17 +26,13 @@ Subject to subsection (b), the Council, acting through the Office of Financial R
 
 #### (2) Availability
 
-&emsp;Each bank holding company described in subsection (a) and nonbank financial company supervised by the Board of Governors, and any subsidiary thereof, shall provide to the Council, at the request of the Council, copies of all reports referred to in paragraph (1).
+&emsp;Each bank holding company described in subsection (a) and nonbank financial companysupervised by the Board of Governors, and any subsidiary thereof, shall provide to the Council, at the request of the Council, copies of all reports referred to in paragraph (1).
 
 #### (3) Confidentiality
 
 &emsp;The Council shall maintain the confidentiality of the reports obtained under subsection (a) and paragraph (1)(A) of this subsection.
 
 (Pub. L. 111–203, title I, §116, July 21, 2010, 124 Stat. 1406; Pub. L. 115–174, title IV, §401(c)(1)(B), May 24, 2018, 132 Stat. 1358.)
-
-#### Delayed Effective Date of Amendment
-
-<i>For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under section 5365 of this title.</i>
 
 #### Amendments
 

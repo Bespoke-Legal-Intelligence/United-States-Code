@@ -16,5 +16,5 @@ Pub. L. 104–204, title IV, §421(d), Sept. 26, 1996, 110 Stat. 2926, provided 
 
 #### Congressional Purpose
 
-Pub. L. 104–204, title IV, §421(a), Sept. 26, 1996, 110 Stat. 2923, provided that: "The purpose of this section \[enacting this chapter and amending section 5312 of this title\] is to provide for the special needs of certain children of Vietnam veterans who were born with thebirth defect spina bifida, possibly as the result of the exposure of one or both parents to herbicides during active service in the Republic of Vietnam during the Vietnam era, through the provision of health care and monetary benefits."
+Pub. L. 104–204, title IV, §421(a), Sept. 26, 1996, 110 Stat. 2923, provided that: "The purpose of this section \[enacting this chapter and amending section 5312 of this title\] is to provide for the special needs of certain children of Vietnam veterans who were born with the birth defect spina bifida, possibly as the result of the exposure of one or both parents to herbicides during active service in the Republic of Vietnam during the Vietnam era, through the provision of health care and monetary benefits."
 

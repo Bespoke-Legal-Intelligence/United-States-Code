@@ -204,7 +204,7 @@
 
 #### (5) Consultation
 
-&emsp;Each organization carrying out a program receiving assistance under this subsection shall consult with appropriate agencies that serve or assist individuals with disabilities, and the parents, family members, guardians, advocates, or authorized representatives of theindividuals, located in the jurisdiction served by the program.
+&emsp;Each organization carrying out a program receiving assistance under this subsection shall consult with appropriate agencies that serve or assist individuals with disabilities, and the parents, family members, guardians, advocates, or authorized representatives of the individuals, located in the jurisdiction served by the program.
 
 #### (6) Coordination
 
@@ -252,7 +252,7 @@ For the purpose of carrying out this section there are authorized to be appropri
 
 #### References in Text
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(5)(B)(viii), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Subtitle B of title I of the Act is classified generally to part B (§3151 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(5)(B)(viii), is Pub. L. 113–128,July 22, 2014, 128 Stat. 1425. Subtitle B of title I of the Act is classified generally to part B (§3151 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Prior Provisions
 

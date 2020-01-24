@@ -104,7 +104,7 @@ General Effective Date.—Except as provided in subsections (b) and (c), this Ac
 
 "(b)
 
-Effective Date for Energy Crisis Intervention Amendments.—The amendments made by section 502(a) \[amending section 8623 of this title and enacting provisions set out as a note under section 8623 of this title\] shall take effect on December 1, 1986, or 60 days after the date of the enactment of this Act \[Sept. 30, 1986\], whichever occurs later.
+Effective Date for Energy Crisis Intervention Amendments.—The amendments made by section 502(a) \[amending section 8623 of this title and enacting provisions set out as a note under section 8623 of thistitle\] shall take effect on December 1, 1986, or 60 days after the date of the enactment of this Act \[Sept. 30, 1986\], whichever occurs later.
 
 "(c)
 

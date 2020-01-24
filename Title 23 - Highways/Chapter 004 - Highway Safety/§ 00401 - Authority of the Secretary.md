@@ -194,15 +194,7 @@ Pub. L. 109–59, title II, §2001(b), Aug. 10, 2005, 119 Stat. 1520.
 
 #### Use of Uniformed Police Officers on Federal-Aid Highway Construction Projects
 
-Pub. L. 105–178, title I, §1213(c), June 9, 1998, 112 Stat. 200, provided that:
-
-"(1)
-
-Study.—In consultation with the States, State transportation departments, and law enforcement organizations, the Secretary shall conduct a study on the extent and effectiveness of use by States of uniformed police officers on Federal-aid highway construction projects.
-
-"(2)
-
-Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall submit to Congress a report on the results of the study, including any legislative and administrative recommendations of the Secretary."
+Pub. L. 105–178, title I, §1213(c), June 9, 1998, 112 Stat. 200, provided that the Secretary, in consultation with the States, State transportation departments, and law enforcement organizations, would conduct a study on the extent and effectiveness of use by States of uniformed police officers on Federal-aid highway construction projects, and would submit to Congress, not later than 2 years after June 9, 1998, a report on the results of the study, including any legislative and administrative recommendations.
 
 #### Radio and Microwave Technology for Motor Vehicle Safety Warning System
 
@@ -232,7 +224,7 @@ Pub. L. 109–59, title I, §1410, Aug. 10, 2005, 119 Stat. 1233, provided that:
 
 "(a)
 
-Grants.—The Secretary \[of Transportation\] shall make grants for fiscal years 2006 through 2009 toa national nonprofit foundation for the operation of the National Work Zone Safety Information Clearinghouse, authorized by section 358(b)(2) of Public Law 104–59 \[set out below\], created for the purpose of assembling and disseminating, by electronic and other means, information relating to improvement of roadway work zone safety.
+Grants.—The Secretary \[of Transportation\] shall make grants for fiscal years 2006 through 2009 to a national nonprofit foundation for the operation of the National Work Zone Safety Information Clearinghouse, authorized by section 358(b)(2) of Public Law 104–59 \[set out below\], created for the purpose of assembling and disseminating, by electronic and other means, information relating to improvement of roadway work zone safety.
 
 "(b)
 
@@ -302,7 +294,7 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 
 "(e) Such campaign is authorized to be conducted in cooperation with interested government and nongovernment authorities, agencies, organizations, institutions, businesses, and individuals, and shall utilize to the extent possible nongovernmental professional organizations equipped and experienced to conduct such campaign.
 
-"(f) The Secretary of Transportation shall engage such private firms or organizations as he determines necessary to conduct an on-going evaluation of the national campaign authorized by subsection (d) of this section to determine ways and means for encouraging the participation and cooperation of television and radio station licensees, for measuring audience reactions to on-going highway safety programming for evaluating the effectiveness of such programs in terms of the number of lives saved and the reduction in injuries, and for the purpose of developing new programs for the promotion of highway safety. Such evaluation shall include determinations of those programs designed to encourage the voluntary use of safety belts which are most effective and shall include recommendations for new methods and approaches which will result in greater voluntary utilization of safety belts by the public.
+"(f) The Secretary of Transportation shall engage such private firms or organizations as he determines necessary to conduct an on-going evaluation of the national campaign authorized by subsection (d) of this section to determine ways and means for encouraging the participation and cooperation of television and radio station licensees, for measuring audience reactions to on-going highway safety programming for evaluating the effectiveness of such programs in termsof the number of lives saved and the reduction in injuries, and for the purpose of developing new programs for the promotion of highway safety. Such evaluation shall include determinations of those programs designed to encourage the voluntary use of safety belts which are most effective and shall include recommendations for new methods and approaches which will result in greater voluntary utilization of safety belts by the public.
 
 "(g) The Secretary of Transportation shall submit a report to the Congress on July 1 of each year in which the campaign is in progress on the results of such evaluation and on the steps being taken by the Secretary of Transportation to implement the recommendations of such evaluation.
 
@@ -334,7 +326,7 @@ Pub. L. 93–87, title II, §225, Aug. 13, 1973, 87 Stat. 292, mandated a study 
 
 #### National Highway Traffic Safety Administration; Creation; Appointment of Administrator and Deputy Administrator; Duties; Retroactive Effect
 
-Pub. L. 89–564, title II, §201, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 89–670, §8(h), Oct. 15, 1966, 80 Stat. 943; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 224; Pub. L. 91–605, title II, §202(a), Dec. 31, 1970, 84 Stat. 1739, which provided for the creation of National Highway Traffic Safety Administration in the Department of Transportation, was repealed by Pub. L. 97–449, §7(b),Jan. 12, 1983, 96 Stat. 2444, and reenacted by section 1(b) of Pub. L. 97–449 as section 105 of Title 49, Transportation.
+Pub. L. 89–564, title II, §201, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 89–670, §8(h), Oct. 15, 1966, 80 Stat. 943; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 224; Pub. L. 91–605, title II, §202(a), Dec. 31, 1970, 84 Stat. 1739, which provided for the creation of National Highway Traffic Safety Administration in the Department of Transportation, was repealed by Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2444, and reenacted by section 1(b) of Pub. L. 97–449 as section 105 of Title 49, Transportation.
 
 #### Acting Administrator of National Highway Traffic Safety Administration
 

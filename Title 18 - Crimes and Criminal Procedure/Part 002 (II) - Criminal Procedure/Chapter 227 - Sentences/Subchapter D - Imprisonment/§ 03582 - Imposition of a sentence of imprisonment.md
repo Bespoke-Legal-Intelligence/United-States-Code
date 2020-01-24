@@ -48,7 +48,7 @@ Notification.—The Bureau of Prisons shall, subject to any applicable confident
 
 &emsp;&emsp;(A) in the case of a defendant diagnosed with a terminal illness—
 
-&emsp;&emsp;&emsp;(i) not later than 72 hours after the diagnosis notify the defendant's attorney, partner, and family members of the defendant's condition and inform the defendant's attorney, partner, and family members that they may prepare and submit onthe defendant's behalf a request for a sentence reduction pursuant to subsection (c)(1)(A);
+&emsp;&emsp;&emsp;(i) not later than 72 hours after the diagnosis notify the defendant's attorney, partner, and family members of the defendant's condition and inform the defendant's attorney, partner, and family members that they may prepare and submit on the defendant's behalf a request for a sentence reduction pursuant to subsection (c)(1)(A);
 
 &emsp;&emsp;&emsp;(ii) not later than 7 days after the date of the diagnosis, provide the defendant's partner and family members (including extended family) with an opportunity to visit the defendant in person;
 
@@ -100,7 +100,7 @@ Annual report.—Not later than 1 year after December 21, 2018, and once every y
 
 (e)
 
-Inclusion of an Order To Limit Criminal Association of Organized Crime and Drug Offenders.—The court, in imposing a sentence to a term of imprisonment upon a defendant convicted of a felony set forth in chapter 95 (racketeering) or 96 (racketeer influenced and corrupt organizations) of this title or in the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 801 et seq.), or at any time thereafter upon motion by the Director of the Bureau of Prisons or a United States attorney, may include as a part of the sentence an order that requires that the defendant not associate or communicate with a specified person, other than hisattorney, upon a showing of probable cause to believe that association or communication with such person is for the purpose of enabling the defendant to control, manage, direct, finance, or otherwise participate in an illegal enterprise.
+Inclusion of an Order To Limit Criminal Association of Organized Crime and Drug Offenders.—The court, in imposing a sentence to a term of imprisonment upon a defendant convicted of a felony set forth in chapter 95 (racketeering) or 96 (racketeer influenced and corrupt organizations) of this title or in the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 801 et seq.), or at any time thereafter upon motion by the Director of the Bureau of Prisons or a United States attorney, may include as a part of the sentence an order that requires that the defendant not associate or communicate with a specified person, other than his attorney, upon a showing of probable cause to believe that association or communication with such person is for the purpose of enabling the defendant to control, manage, direct, finance, or otherwise participate in an illegal enterprise.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1998; amended Pub. L. 100–690, title VII, §7107, Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–647, title XXXV, §3588, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 103–322, title VII, §70002, Sept. 13, 1994, 108 Stat. 1984; Pub. L. 104–294, title VI, §604(b)(3), Oct. 11, 1996, 110 Stat. 3506; Pub. L. 107–273, div. B, title III, §3006, Nov. 2, 2002, 116 Stat. 1806; Pub. L. 115–391, title VI, §603(b), Dec. 21, 2018, 132 Stat. 5239.)
 

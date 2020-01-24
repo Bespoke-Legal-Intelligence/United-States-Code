@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established for the House of Representatives a single allowance, to be known asthe "Members' Representational Allowance", which shall be available to support the conduct of the official and representational duties of a Member of the House of Representatives with respect to the district from which the Member is elected.
+There is established for the House of Representatives a single allowance, to be known as the "Members' Representational Allowance", which shall be available to support the conduct of the official and representational duties of a Member of the House of Representatives with respect to the district from which the Member is elected.
 
 #### (b) Merger
 

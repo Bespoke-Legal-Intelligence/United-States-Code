@@ -28,5 +28,5 @@ Use of prior year funds.—Notwithstanding the repeal of section 1240N of the Fo
 
 &emsp;&emsp;"(B)
 
-Other.—On exhaustion of funds made available under subparagraph (A), the Secretary \[of Agriculture\] may use funds made available to carry out the environmental quality incentives program under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3839aa et seq.)to continue to carry out contracts or agreements referred to in paragraph (1) using the provisions of law and regulation applicable to such contracts or agreements as in existence on the day before the date of enactment of the Agricultural Act of 2014."
+Other.—On exhaustion of funds made available under subparagraph (A), the Secretary \[of Agriculture\] may use funds made available to carry out the environmental quality incentives program under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3839aa et seq.) to continue to carry out contracts or agreements referred to in paragraph (1) using the provisions of law and regulation applicable to such contracts or agreements as in existence on the day before the date of enactment of the Agricultural Act of 2014."
 

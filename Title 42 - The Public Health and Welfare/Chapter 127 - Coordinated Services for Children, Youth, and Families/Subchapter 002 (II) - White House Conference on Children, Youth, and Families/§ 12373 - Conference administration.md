@@ -8,7 +8,7 @@ For purposes of carrying out this subchapter, the Secretary shall—
 
 &emsp;(2) furnish all reasonable assistance to State agencies administering programs related to children, youth and families, and to other appropriate organizations, to enable them to organize and conduct conferences in conjunction with the Conference;
 
-&emsp;(3) prepare and make available for public comment a proposed agenda for the Conference which reflects, to the greatest extentpossible, the major issues facing children, youth, and families consistent with subsection (a);
+&emsp;(3) prepare and make available for public comment a proposed agenda for the Conference which reflects, to the greatest extent possible, the major issues facing children, youth, and families consistent with subsection (a);
 
 &emsp;(4) prepare and make available background materials which the Secretary deems necessary for the use of delegates to the Conference; and
 

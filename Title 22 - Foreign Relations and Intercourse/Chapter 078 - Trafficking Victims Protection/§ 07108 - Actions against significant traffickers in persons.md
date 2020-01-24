@@ -50,7 +50,7 @@ Nothing in this section prohibits or otherwise limits the authorized law enforce
 
 #### (2) Promulgation of rules and regulations
 
-&emsp;The head of any agency, including the Secretary of Treasury, is authorized to take such actions as may be necessary to carry out any authority delegated by the President pursuant to paragraph (1), including promulgating rules and regulations.
+&emsp;The head of any agency, including the Secretary of Treasury, is authorized to take suchactions as may be necessary to carry out any authority delegated by the President pursuant to paragraph (1), including promulgating rules and regulations.
 
 #### (3) Opportunity for review
 

@@ -126,7 +126,7 @@ Each Federal agency responsible for administration of a program described in sub
 
 Subsections (a)(1) and (d) shall not apply with respect to aliens seeking medical assistance for the treatment of an emergency medical condition under section 1396b(v)(2) of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1137, as added Pub. L. 98–369, div. B, title VI, §2651(a), July 18, 1984, 98 Stat. 1147; amended Pub. L. 99–509, title IX, §9101, Oct. 21, 1986, 100 Stat. 1972; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–603, title I, §121(a)(1), Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–360, title IV, §411(k)(15)(A), July 1, 1988, 102 Stat. 799; Pub. L. 103–432, title II, §231, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–193, title I, §108(g)(8), title III, §313(c), Aug. 22, 1996, 110 Stat. 2168, 2212; Pub. L. 104–208, div. C, title V, §507(a), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 106–169, title IV, §401(p), Dec. 14, 1999, 113 Stat. 1859; Pub. L. 106–170, title IV, §405(a), (b), Dec. 17, 1999, 113 Stat. 1911; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 113–79, title IV, §4030(q), Feb. 7, 2014, 128 Stat. 815.)
+(Aug. 14, 1935, ch. 531, title XI, §1137, as added Pub. L. 98–369, div. B, title VI, §2651(a), July 18, 1984, 98 Stat. 1147; amended Pub. L. 99–509, title IX, §9101, Oct. 21, 1986, 100 Stat. 1972; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–603, title I, §121(a)(1), Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–360, title IV, §411(k)(15)(A), July 1, 1988, 102 Stat. 799; Pub. L. 103–432, title II, §231, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–193, title I, §108(g)(8), title III, §313(c), Aug. 22, 1996, 110 Stat. 2168, 2212; Pub. L. 104–208, div. C, title V, §507(a), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 106–169, title IV, §401(p), Dec. 14, 1999, 113 Stat. 1859; Pub. L. 106–170, title IV, §405(a), (b), Dec. 17, 1999, 113 Stat. 1911; Pub. L. 110–234, title IV,§4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 113–79, title IV, §4030(q), Feb. 7, 2014, 128 Stat. 815.)
 
 #### References in Text
 
@@ -194,7 +194,7 @@ Amendment by section 4002(b)(1)(A), (B), (2)(V) of Pub. L. 110–246 effective O
 
 #### Effective Date of 1999 Amendments
 
-Pub. L. 106–170, title IV, §405(c), Dec. 17, 1999, 113 Stat. 1911, provided that: "The amendments made by this section \[amending this section\] shall apply to wage reports required to be submitted on and after the date of the enactment of this Act \[Dec. 17, 1999\]."
+Pub. L. 106–170, title IV, §405(c), Dec. 17, 1999, 113 Stat. 1911, provided that: "The amendments made by thissection \[amending this section\] shall apply to wage reports required to be submitted on and after the date of the enactment of this Act \[Dec. 17, 1999\]."
 
 Amendment by section 401(p) of Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
 
@@ -300,7 +300,7 @@ Definitions.—In this paragraph:
 
 Pub. L. 98–369, div. B, title VI, §2651(l), July 18, 1984, 98 Stat. 1151, provided that:
 
-"(1) The amendments made by subsections (j) and (k) \[amending section 1383 of this title and section 6103 of Title 26, Internal Revenue Code\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].
+"(1) The amendments made by subsections (j) and (k) \[amending section 1383 of this title and section 6103 ofTitle 26, Internal Revenue Code\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].
 
 "(2) Except as otherwise specifically provided, the amendments made by subsections (a) through (i) \[enacting this section, amending sections 302, 503, 602, 1202, 1352, and 1396a of this title and section 2020 of Title 7, Agriculture, repealing section 611 of this title, and amending provisions set out as a note under section 1382 of this title\] shall become effective on April 1, 1985. In the case of any State which submits a plan describing a good faith effort by such State to come into compliance with the requirements of such subsections, the Secretary of Health and Human Services (or, in the case of the State unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture) may by waiver grant a delay in the effective date of such subsections, except that no such waiver may delay the effective date of section 1137(c) of the Social Security Act \[42 U.S.C. 1320b–7(c)\] (as added by subsection (a) of this section), or delay the effective date of any other provision of or added by this section beyond September 30, 1986."
 

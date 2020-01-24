@@ -62,7 +62,7 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 
 #### Effective Date of 1986 Amendments
 
-Pub. L. 99–646, §18(b), Nov. 10, 1986, 100 Stat. 3596, provided that: "The amendment made by this section\[amending this section\] shall take effect on the date of the taking effect of such redesignation \[section 3656 of this title renumbered section 3672 effective Nov. 1, 1987\]."
+Pub. L. 99–646, §18(b), Nov. 10, 1986, 100 Stat. 3596, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such redesignation \[section 3656 of this title renumbered section 3672 effective Nov. 1, 1987\]."
 
 Pub. L. 99–570, title I, §1861(b)(2), Oct. 27, 1986, 100 Stat. 3207–53, provided that: "The amendment made by this section \[probably should be "subsection", amending this section\] shall take effect on the date of the taking effect of such redesignation \[section 3656 of this title renumbered section 3672 effective Nov. 1, 1987\]."
 

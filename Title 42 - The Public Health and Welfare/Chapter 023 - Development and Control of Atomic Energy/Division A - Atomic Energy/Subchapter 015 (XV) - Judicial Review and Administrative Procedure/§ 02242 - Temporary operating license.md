@@ -10,7 +10,7 @@ With respect to any petition filed pursuant to subsection (a) of this section, t
 
 &emsp;(1) in all respects other than the conduct or completion of any required hearing, the requirements of law are met;
 
-&emsp;(2) in accordance with such requirements, there is reasonable assurance that operationof the facility during the period of the temporary operating license in accordance with its terms and conditions will provide adequate protection to the public health and safety and the environment during the period of temporary operation; and
+&emsp;(2) in accordance with such requirements, there is reasonable assurance that operation of the facility during the period of the temporary operating license in accordance with its terms and conditions will provide adequate protection to the public health and safety and the environment during the period of temporary operation; and
 
 &emsp;(3) denial of such temporary operating license will result in delay between the date on which construction of the facility is sufficiently completed, in the judgment of the Commission, to permit issuance of the temporary operating license, and the date when such facility would otherwise receive a final operating license pursuant to this chapter.
 
@@ -28,7 +28,7 @@ The Commission is authorized and directed to adopt such administrative remedies 
 
 The authority to issue new temporary operating licenses under this section shall expire on December 31, 1983.
 
-(Aug. 1, 1946, ch. 724, title I, §192, as added Pub. L. 92–307, June 2, 1972, 86 Stat. 191; amended Pub. L. 97–415, §11, Jan. 4, 1983, 96 Stat. 2071; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–437, §15(f)(8), Nov. 2, 1994, 108 Stat. 4593.)
+(Aug. 1, 1946, ch. 724, title I, §192, as added Pub. L. 92–307, June 2, 1972, 86 Stat. 191; amended Pub.L. 97–415, §11, Jan. 4, 1983, 96 Stat. 2071; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–437, §15(f)(8), Nov. 2, 1994, 108 Stat. 4593.)
 
 #### References in Text
 

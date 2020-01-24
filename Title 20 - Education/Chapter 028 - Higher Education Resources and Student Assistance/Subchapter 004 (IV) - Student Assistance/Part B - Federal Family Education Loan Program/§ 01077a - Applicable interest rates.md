@@ -30,7 +30,7 @@ If for any 12-month period beginning on or after January 1, 1981, the Secretary,
 
 #### (4) Availability of variable rates
 
-&emsp;(A) For any loan made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title and disbursed on or after July 1, 1987, or any loan made pursuant to such section prior to such date that is refinanced pursuant to section 1078–1(d) <sup>1</sup> or 1078–2(d) of this title, the applicable rate of interest during any 12-month period beginning on July 1 and ending on June 30 shall be determined under subparagraph (B), except that such rate shall not exceed 12 percent.
+&emsp;(A) For any loan made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title and disbursed on or after July 1, 1987, or any loan made pursuant to such section prior to such date that isrefinanced pursuant to section 1078–1(d) <sup>1</sup> or 1078–2(d) of this title, the applicable rate of interest during any 12-month period beginning on July 1 and ending on June 30 shall be determined under subparagraph (B), except that such rate shall not exceed 12 percent.
 
 &emsp;(B)(i) For any 12-month period beginning on July 1 and ending on or before June 30, 2001, the rate determined under this subparagraph is determined on the preceding June 1 and is equal to—
 
@@ -78,7 +78,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (a), (b), and (d) of this section, with respect to any loan (otherthan a loan made pursuant to sections 1078–1,<sup>1</sup> 1078–2 and 1078–3 of this title) for which the first disbursement is made on or after October 1, 1992, to any borrower who, on the date of entering into the note or other written evidence of the loan, has no outstanding balance of principal or interest on any loan made, insured, or guaranteed under section 1077, 1078, or 1078–8 of this title, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;Notwithstanding subsections (a), (b), and (d) of this section, with respect to any loan (other than a loan made pursuant to sections 1078–1,<sup>1</sup> 1078–2 and 1078–3 of this title) for which the first disbursement is made on or after October 1, 1992, to any borrower who, on the date of entering into the note or other written evidence of the loan, has no outstanding balance of principal or interest on any loan made, insured, or guaranteed under section 1077, 1078, or 1078–8 of this title, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -110,7 +110,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) General rule
 
-&emsp;Notwithstanding the provisions of subsection (f), but subject to subsection (h), with respect to any loan under section 1078 or 1078–8 of this title for which the first disbursement is made on or after July 1, 1995, the applicable rate of interest for interest which accrues—
+&emsp;Notwithstanding the provisions of subsection (f), but subject to subsection (h), withrespect to any loan under section 1078 or 1078–8 of this title for which the first disbursement is made on or after July 1, 1995, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;(A) prior to the beginning of the repayment period of the loan; or
 
@@ -278,7 +278,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (3) PLUS loans
 
-&emsp;Notwithstanding subsection (h), with respect to any loan under section 1078–2 of this titlefor which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall be determined under paragraph (1)—
+&emsp;Notwithstanding subsection (h), with respect to any loan under section 1078–2 of this title for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall be determined under paragraph (1)—
 
 &emsp;&emsp;(A) by substituting "3.1 percent" for "2.3 percent"; and
 
@@ -308,7 +308,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (3) Consolidation loans
 
-&emsp;With respect to any consolidation loan under section 1078–3 of this title for which the application is received by an eligible lender on or after July 1, 2006, and that was disbursed before July 1, 2010, the applicable rate of interest shall be at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
+&emsp;With respect to any consolidation loan under section 1078–3 of this title for which the application is received by an eligible lender on or after July 1, 2006, and that was disbursedbefore July 1, 2010, the applicable rate of interest shall be at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
 
 &emsp;&emsp;(A) the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of 1 percent; or
 

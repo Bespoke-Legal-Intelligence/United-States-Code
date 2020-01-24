@@ -16,7 +16,7 @@ Authority.—The Secretary of Defense is authorized to conduct or support a prog
 
 &emsp;(6) Military intelligence operations.
 
-&emsp;(7) Operations or activities that contribute to an international coalition operation that is determined by the Secretary to be in the national interest of the United States.
+&emsp;(7) Operations or activities that contribute to an existing international coalition operation that is determined by the Secretary to be in the national interest of the United States.
 
 (b)
 
@@ -28,7 +28,7 @@ Concurrence in conduct of programs.—The concurrence of the Secretary of State 
 
 &emsp;(2)
 
-Joint development and planning of programs.—The Secretary of Defense and the Secretary of State shall jointly develop and plan any program carried out pursuant to subsection (a). In developing and planning a program to build the capacity of the national security forces of a foreign country under subsection (a), the Secretary of Defense and Secretary of State should jointly consider political, social, economic, diplomatic, and historical factors, if any, of the foreign country that may impact the effectiveness of the program.
+Joint development and planning of programs.—The Secretary of Defense and theSecretary of State shall jointly develop and plan any program carried out pursuant to subsection (a). In developing and planning a program to build the capacity of the national security forces of a foreign country under subsection (a), the Secretary of Defense and Secretary of State should jointly consider political, social, economic, diplomatic, and historical factors, if any, of the foreign country that may impact the effectiveness of the program.
 
 &emsp;(3)
 
@@ -56,7 +56,7 @@ Required elements.—A program under subsection (a) shall include elements that 
 
 &emsp;(3)
 
-Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military.—In order tomeet the requirement in paragraph (2)(A) with respect to particular national security forces under a program under subsection (a), the Secretary of Defense shall certify, prior to the initiation of the program, that the Department of Defense or the Department of State is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, training that includes a comprehensive curriculum on the law of armed conflict, human rights and fundamental freedoms, and the rule of law, and that enhances the capacity to exercise responsible civilian control of the military, as applicable, to such national security forces.
+Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military.—In order to meet the requirement in paragraph (2)(A) with respect to particular national security forces under a program under subsection (a), the Secretary of Defense shall certify, prior to the initiation of the program, that the Department of Defense or the Department of State is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, training that includes a comprehensive curriculum on the law of armed conflict, human rights and fundamental freedoms, and the rule of law, and that enhances the capacity to exercise responsible civilian control of the military, as applicable, to such national security forces.
 
 &emsp;(4)
 
@@ -102,6 +102,12 @@ Notice and Wait on Activities Under Programs.—Not later than 15 days before in
 
 &emsp;(8) In the case of activities under a program that results in the provision of small-scale construction above $750,000, the location, project title, and cost of each small-scale construction project that will be carried out, a Department of Defense Form 1391 for each such project, and a masterplan of planned infrastructure investments at the location over the next 5 years.
 
+&emsp;(9) In the case of a program described in subsection (a), each of the following:
+
+&emsp;&emsp;(A) A description of whether assistance under the program could be provided pursuant to other authorities under this title, the Foreign Assistance Act of 1961, or any other train and equip authorities of the Department of Defense.
+
+&emsp;&emsp;(B) An identification of each such authority described in subparagraph (A).
+
 (f)
 
 Quarterly Monitoring Reports.—The Director of the Defense Security Cooperation Agency shall, on a quarterly basis, submit to the appropriate committees of Congress a report setting forth, for the preceding calendar quarter, the following:
@@ -118,7 +124,7 @@ Funding.—
 
 &emsp;(1)
 
-Sole source of funds.—Amounts for programs carried out pursuant to subsection (a) in a fiscal year, and for other purposes in connection with such programs as authorized bythis section, may be derived only from amounts authorized to be appropriated for such fiscal year for the Department of Defense for operation and maintenance, Defense-wide, and available for the Defense Security Cooperation Agency for such programs and purposes.
+Sole source of funds.—Amounts for programs carried out pursuant to subsection (a) in a fiscal year, and for other purposes in connection with such programs as authorized by this section, may be derived only from amounts authorized to be appropriated for such fiscal year for the Department of Defense for operation and maintenance, Defense-wide, and available for the Defense Security Cooperation Agency for such programs and purposes.
 
 &emsp;(2)
 
@@ -132,17 +138,21 @@ In general.—Amounts available in a fiscal year to carry out the authority in s
 
 Achievement of full operational capacity.—If, in accordance with subparagraph (A), equipment or training is delivered under a program under the authority in subsection (a) in the fiscal year after the fiscal year in which the program begins, amounts for defense articles, training, defense services, supplies (including consumables), and small-scale construction associated with such equipment or training and necessary to ensure that the recipient unit achieves full operational capability for such equipment or training may be used in the fiscal year in which the foreign country takes receipt of such equipment and in the next two fiscal years.
 
-(Added Pub. L. 114–328, div. A, title XII, §1241(d)(1), Dec. 23, 2016, 130 Stat. 2500; amended Pub. L. 115–91, div. A, title XII, §1204(b), Dec. 12, 2017, 131 Stat. 1643; Pub. L. 115–232, div. A, title XII, §§1201, 1203(c), Aug. 13, 2018, 132 Stat. 2016.)
+(Added Pub. L. 114–328, div. A, title XII, §1241(d)(1), Dec. 23, 2016, 130 Stat. 2500; amended Pub. L. 115–91, div. A, title XII, §1204(b), Dec. 12, 2017, 131 Stat. 1643; Pub. L. 115–232, div. A, title XII, §§1201, 1203(c), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 116–92, div. A, title XII, §1201, Dec. 20, 2019, 133 Stat. 1620.)
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (e)(5), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (e)(5), (9)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 #### Prior Provisions
 
 A prior section 333 was renumbered section 253 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(7). Pub. L. 116–92, §1201(a), inserted "existing" before "international coalition operation".
+
+Subsec. (e)(9). Pub. L. 116–92, §1201(b), added par. (9).
 
 <b>2018</b>—Subsec. (b)(2). Pub. L. 115–232, §1201, inserted at end "In developing and planning a program to build the capacity of the national security forces of a foreign country under subsection (a), the Secretary of Defense and Secretary of State should jointly consider political, social, economic, diplomatic, and historical factors, if any, of the foreign country that may impact the effectiveness of the program."
 
@@ -156,7 +166,7 @@ Subsec. (c)(2)(B). Pub. L. 115–91, §1204(b)(1)(B), substituted "Institutional
 
 Subsec. (c)(3). Pub. L. 115–91, §1204(b)(2), in heading, substituted "Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military" for "Human rights training" and in text, inserted "or the Department of State" after "Department of Defense" and substituted "training that includes a comprehensive curriculum on the law of armed conflict, human rights and fundamental freedoms, and the rule of law, and that enhances the capacity to exercise responsible civilian control of the military" for "human rights training that includes a comprehensive curriculum on human rights and the law of armed conflict".
 
-Subsec. (c)(4). Pub. L. 115–91, §1204(b)(3), substituted "that the Department of Defense or another department or agency is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, a program of institutional capacity building with appropriate institutions of such foreign country to enhance the capacity of such foreign country to organize, administer, employ, manage, maintain, sustain, or oversee the national security forces of such foreign country." for "that the Department is already undertaking, or will undertake as part of the program, a program of institutional capacity building with appropriate institutions of such foreign country that is complementary to the program with respect to such foreign country under subsection (a)." and struck out at end "The purpose of the program of institutional capacity building shall be to enhance the capacity of such foreign country to exercise responsible civilian control of the national security forces of such foreign country."
+Subsec. (c)(4). Pub. L. 115–91, §1204(b)(3), substituted "that the Department of Defense or another department or agency is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, a program of institutional capacity building with appropriate institutionsof such foreign country to enhance the capacity of such foreign country to organize, administer, employ, manage, maintain, sustain, or oversee the national security forces of such foreign country." for "that the Department is already undertaking, or will undertake as part of the program, a program of institutional capacity building with appropriate institutions of such foreign country that is complementary to the program with respect to such foreign country under subsection (a)." and struck out at end "The purpose of the program of institutional capacity building shall be to enhance the capacity of such foreign country to exercise responsible civilian control of the national security forces of such foreign country."
 
 #### Guidance
 
@@ -164,7 +174,7 @@ Pub. L. 114–328, div. A, title XII, §1241(d)(4), Dec. 23, 2016, 130 Stat. 250
 
 #### Training for Eastern European National Security Forces in the Course of Multilateral Exercises
 
-Pub. L. 114–92, div. A, title XII, §1251, Nov. 25, 2015, 129 Stat. 1070, as amended by Pub. L. 114–328, div. A, title XII, §1233, Dec. 23, 2016, 130 Stat. 2489; Pub. L. 115–91, div. A, title XII, §1205, Dec. 12, 2017, 131 Stat. 1643, provided that:
+Pub. L. 114–92, div. A, title XII, §1251, Nov. 25, 2015, 129 Stat. 1070, as amended by Pub. L. 114–328, div. A, title XII, §1233, Dec. 23, 2016, 130 Stat. 2489; Pub. L. 115–91, div. A, title XII, §1205, Dec. 12, 2017, 131 Stat. 1643; Pub. L. 116–92, div. A, title XII, §1247(a), Dec. 20, 2019, 133 Stat. 1662, provided that:
 
 "(a)
 
@@ -268,11 +278,11 @@ Incremental Expenses Defined.—In this section, the term 'incremental expenses'
 
 "(h)
 
-Termination of Authority.—The authority under this section shall terminate on December 31, 2020. Any activity under this section initiated before that date may be completed, but only using funds available for for \[sic\] the period beginning on October 1, 2015, and ending on December 31, 2020."
+Termination of Authority.—The authority under this section shall terminate on December 31, 2021. Any activity under this section initiated before that date may be completed, but only using funds available for the period beginning on October 1, 2015, and ending on December 31, 2021."
 
 #### Indo-Pacific Maritime Security Initiative
 
-Pub. L. 114–92, div. A, title XII, §1263, Nov. 25, 2015, 129 Stat. 1073, as amended by Pub. L. 114–328, div. A, title XII, §1289, Dec. 23, 2016, 130 Stat. 2555; Pub. L. 115–232, div. A, title XII, §1252, Aug. 13, 2018, 132 Stat. 2053, provided that:
+Pub. L. 114–92, div. A, title XII, §1263, Nov. 25, 2015, 129 Stat. 1073, as amended by Pub. L. 114–328, div. A, title XII, §1289, Dec. 23, 2016, 130 Stat. 2555; Pub. L. 115–232, div. A, title XII, §1252, Aug. 13, 2018, 132 Stat. 2053; Pub. L. 116–92, div. A, title XII, §§1251, 1252(a), Dec. 20, 2019, 133 Stat. 1666–1668, provided that:
 
 "(a)
 
@@ -308,6 +318,30 @@ Recipient Countries.—The foreign countries that may be provided assistance and
 
 &emsp;"(7) Sri Lanka.
 
+&emsp;"(8) The Federated States of Micronesia.
+
+&emsp;"(9) The Independent State of Samoa.
+
+&emsp;"(10) The Kingdom of Tonga.
+
+&emsp;"(11) Papua New Guinea.
+
+&emsp;"(12) The Republic of Fiji.
+
+&emsp;"(13) The Republic of Kiribati.
+
+&emsp;"(14) The Republic of the Marshall Islands.
+
+&emsp;"(15) The Republic of Nauru.
+
+&emsp;"(16) The Republic of Palau.
+
+&emsp;"(17) The Republic of Vanuatu.
+
+&emsp;"(18) The Solomon Islands.
+
+&emsp;"(19) Tuvalu.
+
 "(c)
 
 Types of Assistance and Training.—
@@ -320,7 +354,7 @@ Authorized elements of assistance.—Assistance provided under subsection (a)(1)
 
 Required elements of assistance and training.—Assistance and training provided under subsection (a) shall include elements that promote the following:
 
-&emsp;&emsp;"(A) Observance of and respect for human rights and fundamental freedoms.
+&emsp;&emsp;"(A) Observance of and respect for the law of armed conflict, the rule of law, and human rights and fundamental freedoms.
 
 &emsp;&emsp;"(B) Respect for legitimate civilian authority within the country to which the assistance is provided.
 
@@ -368,7 +402,7 @@ Notice to Congress on Assistance and Training.—
 
 In general.—Not later than 15 days before exercising the authority under subsection (a) or (e) with respect to a recipient foreign country, the Secretary of Defense shall submit to the appropriate committees of Congress a notification containing the following:
 
-&emsp;&emsp;"(A) The recipient foreign country.
+&emsp;&emsp;"(A) The recipient foreign country, the specific unit or units whose capacity to engage in activities under a program of assistance or training to be provided under subsection (a) will be built under the program, and the amount, type, and purpose of the support to be provided.
 
 &emsp;&emsp;"(B) A detailed justification of the program for the provision of the assistance or training concerned, and its relationship to United States security interests.
 
@@ -378,7 +412,19 @@ In general.—Not later than 15 days before exercising the authority under subse
 
 &emsp;&emsp;"(E) A description of the program objectives and an assessment framework to be used to develop capability and performance metrics associated with operational outcomes for the recipient force.
 
-&emsp;&emsp;"(F) Such other matters as the Secretary considers appropriate.
+&emsp;&emsp;"(F) Information, including the amount, type, and purpose, on assistance and training provided under subsection (a) during the three preceding fiscal years, if applicable.
+
+&emsp;&emsp;"(G) A description of the elements of the theater campaign plan of the geographic combatant command concerned and the interagency integrated country strategy that will be advanced by the assistance and training provided under subsection (a).
+
+&emsp;&emsp;"(H) A description of whether assistance and training provided under subsection (a) could be provided pursuant to—
+
+&emsp;&emsp;&emsp;"(i) section 333 of title 10, United States Code, or other security cooperation authorities of the Department of Defense; or
+
+&emsp;&emsp;&emsp;"(ii) security cooperation authorities of the Department of State.
+
+&emsp;&emsp;"(I) An identification of each such authority described in subparagraph (H).
+
+&emsp;&emsp;"(J) Such other matters as the Secretary considers appropriate.
 
 &emsp;"(2)
 
@@ -389,6 +435,44 @@ Appropriate committees of congress defined.—In this subsection, the term 'appr
 &emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
 
 "(h)
+
+Annual Monitoring Reports.—
+
+&emsp;"(1)
+
+In general.—Not later than March 1, 2020, and annually thereafter, the Secretary of Defense shall submit to the appropriate committees of Congress a report setting forth, for the preceding calendar year, the following:
+
+&emsp;&emsp;"(A) An assessment, by recipient foreign country, of—
+
+&emsp;&emsp;&emsp;"(i) the country's capabilities relating to maritime security and maritime domain awareness;
+
+&emsp;&emsp;&emsp;"(ii) the country's capability enhancement priorities, including how such priorities relate to the theater campaign strategy, country plan, and theater campaign plan relating to maritime security and maritime domain awareness;
+
+&emsp;&emsp;"(B) A discussion, by recipient foreign country, of—
+
+&emsp;&emsp;&emsp;"(i) priority capabilities that the Department of Defense plans to enhance under the authority under subsection (a) and priority capabilities the Department plans to enhance under separate United States security cooperation and security assistance authorities; and
+
+&emsp;&emsp;&emsp;"(ii) the anticipated timeline for assistance and training for each such capability.
+
+&emsp;&emsp;"(C) Information, by recipient foreign country, on the status of funds allocated for assistance and training provided under subsection (a), including funds allocated but not yet obligated or expended.
+
+&emsp;&emsp;"(D) Information, by recipient foreign country, on the delivery and use of assistance and training provided under subsection (a).
+
+&emsp;&emsp;"(E) Information, by recipient foreign country, on the timeliness of the provision of assistance and training under subsection (a) as compared to the timeliness of the provision of assistance and training previously provided to the foreign country under subsection (a).
+
+&emsp;&emsp;"(F) A description of the reasons the Department of Defense chose to utilize the authority for assistance and training under subsection (a) in the preceding calendar year.
+
+&emsp;&emsp;"(G) An explanation of any impediments to timely obligation or expenditure of funds allocated for assistance and training under subsection (a) or any significant delay in the delivery of such assistance and training.
+
+&emsp;"(2)
+
+Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' has the meaning given the term in subsection (g)(2).
+
+"(i)
+
+Limitation.—The provision of assistance and training pursuant to a program under subsection (a) shall be subject to the provisions of section 383 of title 10, United States Code.
+
+"(j)
 
 Expiration.—Assistance and training may not be provided under this section after December 31, 2025."
 

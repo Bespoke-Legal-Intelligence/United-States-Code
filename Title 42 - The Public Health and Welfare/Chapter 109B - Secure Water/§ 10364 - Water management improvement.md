@@ -30,7 +30,13 @@
 
 &emsp;To be eligible to receive a grant, or enter into an agreement with the Secretary under paragraph (1), an eligible applicant shall—
 
-&emsp;&emsp;(A) be located within the States and areas referred to in section 391 of title 43; and
+&emsp;&emsp;(A) be located within—
+
+&emsp;&emsp;&emsp;(i) the States and areas referred to in section 391 of title 43;
+
+&emsp;&emsp;&emsp;(ii) the State of Alaska; or
+
+&emsp;&emsp;&emsp;(iii) the State of Hawaii; and
 
 &emsp;&emsp;(B) submit to the Secretary an application that includes a proposal of the improvement or activity to be planned, designed, constructed, or implemented by the eligible applicant.
 
@@ -42,11 +48,29 @@
 
 #### (B) Agricultural operations
 
-&emsp;&emsp;In carrying out paragraph (1), the Secretary shall not provide a grant, or enter into an agreement, for an improvement to conserve irrigation water unless the eligible applicant agrees not—
+#### (i) In general
 
-&emsp;&emsp;&emsp;(i) to use any associated water savings to increase the total irrigated acreage of the eligible applicant; or
+&emsp;&emsp;&emsp;Except as provided in clause (ii), in carrying out paragraph (1), the Secretary shall not provide a grant, or enter into an agreement, for an improvement to conserve irrigation water unless the eligible applicant agrees not—
 
-&emsp;&emsp;&emsp;(ii) to otherwise increase the consumptive use of water in the operation of the eligible applicant, as determined pursuant to the law of the State in which the operation of the eligible applicant is located.
+&emsp;&emsp;&emsp;&emsp;(I) to use any associated water savings to increase the total irrigated acreage of the eligible applicant; or
+
+&emsp;&emsp;&emsp;&emsp;(II) to otherwise increase the consumptive use of water in the operation of the eligible applicant, as determined pursuant to the law of the State in which the operation of the eligible applicant is located.
+
+#### (ii) Indian tribes
+
+&emsp;&emsp;&emsp;In the case of an eligible applicant that is an Indian tribe, in carrying out paragraph (1), the Secretary shall not provide a grant, or enter into an agreement, for an improvement to conserve irrigation water unless the Indian tribe agrees not—
+
+&emsp;&emsp;&emsp;&emsp;(I) to use any associated water savings to increase the total irrigated acreage more than the water right of that Indian tribe, as determined by—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a court decree;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a settlement;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) a law; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) any combination of the authorities described in items (aa) through (cc); or
+
+&emsp;&emsp;&emsp;&emsp;(II) to otherwise increase the consumptive use of water more than the water right of the Indian tribe described in subclause (I).
 
 #### (C) Nonreimbursable funds
 
@@ -64,7 +88,7 @@
 
 #### (ii) Calculation of non-Federal share
 
-&emsp;&emsp;&emsp;In calculating the non-Federal share of the cost of an infrastructure improvement or activity proposed by an eligible applicant through an application submitted by the eligible applicant under paragraph (2), the Secretary shall—
+&emsp;&emsp;&emsp;In calculating the non-Federal share of the cost of an infrastructure improvementor activity proposed by an eligible applicant through an application submitted by the eligible applicant under paragraph (2), the Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) consider the value of any in-kind services that substantially contributes toward the completion of the improvement or activity, as determined by the Secretary; and
 
@@ -82,7 +106,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided under chapter 171 of title 28 (commonly known as the "FederalTort Claims Act"), the United States shall not be liable for monetary damages of any kind for any injury arising out of an act, omission, or occurrence that arises in relation to any facility created or improved under this section, the title of which is not held by the United States.
+&emsp;&emsp;&emsp;Except as provided under chapter 171 of title 28 (commonly known as the "Federal Tort Claims Act"), the United States shall not be liable for monetary damages of any kind for any injury arising out of an act, omission, or occurrence that arises in relation to any facility created or improved under this section, the title of which is not held by the United States.
 
 #### (ii) Tort Claims Act
 
@@ -120,15 +144,21 @@ This section shall not supersede any existing project-specific funding authority
 
 #### (e) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $480,000,000, to remain available until expended.
+There is authorized to be appropriated to carry out this section $530,000,000, to remain available until expended.
 
-(Pub. L. 111–11, title IX, §9504, Mar. 30, 2009, 123 Stat. 1334; Pub. L. 113–235, div. D, title II, §203, Dec. 16, 2014, 128 Stat. 2311; Pub. L. 114–113, div. D, title II, §206, Dec. 18, 2015, 129 Stat. 2407; Pub. L. 114–322, title III, §4009(d), Dec. 16, 2016, 130 Stat. 1870; Pub. L. 115–244, div. A, title II, §205(b), Sept. 21, 2018, 132 Stat. 2906.)
+(Pub. L. 111–11, title IX, §9504, Mar. 30, 2009, 123 Stat. 1334; Pub. L. 113–235, div. D, title II, §203, Dec. 16, 2014, 128 Stat. 2311; Pub. L. 114–113, div. D, title II, §206, Dec. 18, 2015, 129 Stat. 2407; Pub. L. 114–322, title III, §4009(d), Dec. 16, 2016, 130 Stat. 1870; Pub. L. 115–244, div. A, title II, §205(b), Sept. 21, 2018, 132 Stat. 2906; Pub. L. 116–9, title VIII, §8501, Mar. 12, 2019, 133 Stat. 826; Pub. L. 116–94, div. C, title II, §203, Dec. 20, 2019, 133 Stat. 2669.)
 
 #### References in Text
 
 The Endangered Species Act of 1973, referred to in subsec. (a)(1)(F), (G), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(2)(A). Pub. L. 116–9, §8501(1), substituted "within—" for "within", inserted cl. (i) designation before "the States", and added cls. (ii) and (iii).
+
+Subsec. (a)(3)(B). Pub. L. 116–9, §8501(2), designated existing provisions as cl. (i) and inserted heading, substituted "Except as provided in clause (ii), in carrying" for "In carrying" in introductory provisions, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and realigned margins, and added cl. (ii).
+
+Subsec. (e). Pub. L. 116–94 substituted "$530,000,000" for "$480,000,000".
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–244 substituted "$480,000,000" for "$450,000,000".
 

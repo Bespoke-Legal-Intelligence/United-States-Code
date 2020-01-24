@@ -54,19 +54,7 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 
 #### Design-Build Contracting
 
-Pub. L. 106–541, title II, §221, Dec. 11, 2000, 114 Stat. 2596, provided that:
-
-"(a)
-
-Pilot Program.—The Secretary \[of the Army\] may conduct a pilot program consisting of not more than 5 authorized projects to test the design-build method of project delivery on various authorized civil works projects of the Corps of Engineers, including levees, pumping plants, revetments, dikes, dredging, weirs, dams, retaining walls, generation facilities, mattress laying, recreation facilities, and other water resources facilities.
-
-"(b)
-
-Design-Build Defined.—In this section, the term 'design-build' means an agreement between the Federal Government and a contractor that provides for both the design and construction of a project by a single contract.
-
-"(c)
-
-Report.—Not later than 4 years after the date of enactment of this Act \[Dec. 11, 2000\], the Secretary shall transmit to Congress a report on the results of the pilot program."
+Pub. L. 106–541, title II, §221, Dec. 11, 2000, 114 Stat. 2596, provided that the Secretary of the Army could conduct a pilot program consisting of not more than 5 authorized projects to test the design-build method of project delivery on various authorized civil works projects of the Corps of Engineers, including levees, pumping plants, revetments, dikes, dredging, weirs, dams, retaining walls, generation facilities, mattress laying, recreation facilities, and other water resources facilities, and, not later than 4 years after Dec. 11, 2000, to transmit to Congress a report on the results of the pilot program.
 
 #### Review of Innovative Dredging Technologies
 
@@ -86,7 +74,7 @@ Selection of technology.—After completion of the review under paragraph (1), t
 
 &emsp;"(B)
 
-Agreement.—Not later than December 31, 2001, the Secretary shall enter into an agreement with a public or private entity to test the selected technology in the vicinity of Peoria Lakes, Illinois.
+Agreement.—Not later than December 31, 2001, the Secretary shall enter into an agreement with apublic or private entity to test the selected technology in the vicinity of Peoria Lakes, Illinois.
 
 "(3)
 

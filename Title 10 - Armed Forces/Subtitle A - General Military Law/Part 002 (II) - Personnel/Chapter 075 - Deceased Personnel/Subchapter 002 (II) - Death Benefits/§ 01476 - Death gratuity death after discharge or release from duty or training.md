@@ -60,7 +60,7 @@ Historical and Revision Notes
 
 Aug. 1, 1956, ch. 837, §§102(2) (last sentence, as applicable to death gratuity under §303(a)), 102(4)(D) (as applicable to §303(a)), 102(5)(D) (as applicable to §303(a)), 102(6)(A) (clause (3) of 2d sentence, as applicable to death gratuity under §303(a)), 102(6)(B)(ii) (as applicable to §303(a)), 303(a), (c), 70 Stat. 858, 859, 868, 869.
 
-In subsection (a), the words "Except as provided in section 1480 of this title" are inserted to reflect 38:1134(a). The words "to the survivor prescribed by section 1477 of this title" are inserted for clarity. The words "on or after January 1, 1957" are omitted as executed. The words in parentheses in clause (2) are inserted to reflect 38:1101(6)(A) (2d sentence). The words"active duty for training" are omitted as covered by the definition of "active duty" in section 101(22) of this title.
+In subsection (a), the words "Except as provided in section 1480 of this title" are inserted to reflect 38:1134(a). The words "to the survivor prescribed by section 1477 of this title" are inserted for clarity. The words "on or after January 1, 1957" are omitted as executed. The words in parentheses in clause (2) are inserted to reflect 38:1101(6)(A) (2d sentence). The words "active duty for training" are omitted as covered by the definition of "active duty" in section 101(22) of this title.
 
 In subsection (c), the word "criteria" is omitted as covered by the word "standards".
 

@@ -88,7 +88,7 @@ Continuation of exemptions.—An exemption granted by the Secretary under this s
 
 (h)
 
-Notice and Opportunity for Hearing.—The Secretary may act under subsections (d) and (f)(3)(B) of this section only after giving the air carrier notice and an opportunity for a hearing.
+Notice and Opportunity for Hearing.—The Secretary may act under subsections (d) and (f)(3)(B) of this section only after giving theair carrier notice and an opportunity for a hearing.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1104; Pub. L. 104–287, §5(65), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 115–254, div. B, title IV, §402, div. K, title I, §1991(c)(1), Oct. 5, 2018, 132 Stat. 3328, 3627.)
 
@@ -206,7 +206,7 @@ In subsection (f)(2), the words "by regulation" are omitted as surplus. The word
 
 In subsection (f)(3), the words "the State of" are omitted as surplus.
 
-In subsection (f)(3)(A), the words "under this subsection" are substituted for "from section 1371 of this title or any other requirement of this chapter", the words "2 places" are substituted for "points both ofwhich are", and the word "between" is substituted for "one of which is in . . . and the other in", to eliminate unnecessary words.
+In subsection (f)(3)(A), the words "under this subsection" are substituted for "from section 1371 of this title or any other requirement of this chapter", the words "2 places" are substituted for "points both of which are", and the word "between" is substituted for "one of which is in . . . and the other in", to eliminate unnecessary words.
 
 In subsection (f)(3)(B), the word "only" is added for clarity. The words "promulgated by the Board", "by such air carrier to points within such State", and "but not limited to" are omitted as surplus. The word "Alaska" is substituted for "such State" for clarity. The cross-reference is to section 41732(b)(1)(B) to correct an error in the source provisions. The cross-reference in 49 App.:1386(b)(6) to 49 App.:1389(c)(2) should have been to 49 App.:1389(f)(2). This error was not corrected when 49 App.:1389 was restated by section 202(b) of the Airport and Airway Safety and Capacity Expansion Act of 1987 (Public Law 100–223, 101 Stat. 1508). The comparable provision is 49 App.:1389(k)(1)(A)(ii), restated as section 41732(b)(1)(B).
 

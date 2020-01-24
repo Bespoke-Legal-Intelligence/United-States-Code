@@ -22,7 +22,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 (c)
 
-Administrative Costs.—Up to 2.5 percent of the amount authorized to be appropriated under subsection (b) is authorized to be appropriated for the period fiscal year 1995 through fiscal year 2000 to be available for administrative costs by the Secretary in furtherance of the purposes of the program. Such sums are to remain available until expended.
+Administrative Costs.—Up to 2.5 percent of the amount authorized to be appropriatedunder subsection (b) is authorized to be appropriated for the period fiscal year 1995 through fiscal year 2000 to be available for administrative costs by the Secretary in furtherance of the purposes of the program. Such sums are to remain available until expended.
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1861.)
 

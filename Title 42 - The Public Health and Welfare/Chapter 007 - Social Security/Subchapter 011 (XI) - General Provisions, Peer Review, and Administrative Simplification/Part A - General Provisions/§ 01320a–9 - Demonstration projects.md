@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(A) The establishment of a bill of rights for infants, children, and youth in foster care that is widely shared and clearly outlines protections for infants, children, and youth, such as assuring frequent visits with parents, siblings, and caseworkers, access to attorneys, and participation in age-appropriate extracurricular activities, and procedures for ensuring the protections are provided.
 
-&emsp;&emsp;(B) The development and implementation of a plan for meeting the health and mental health needs of infants, children, and youth in foster care that includes ensuring that the provision of health and mental health care is child-specific, comprehensive, appropriate, and consistent (through means such as ensuring the infant, child, or youth has a medical home, regular wellness medical visits, and addressing the issue of trauma, when appropriate).
+&emsp;&emsp;(B) The development and implementation of a plan for meeting the health and mental health needs of infants, children, and youth in foster care that includes ensuring that the provision of health and mental healthcare is child-specific, comprehensive, appropriate, and consistent (through means such as ensuring the infant, child, or youth has a medical home, regular wellness medical visits, and addressing the issue of trauma, when appropriate).
 
 &emsp;&emsp;(C) The inclusion in the State plan under section 671 of this title of an amendment implementing the option under subsection (a)(28) of that section to enter into kinship guardianship assistance agreements.
 
@@ -200,7 +200,7 @@ A prior section 1130 of act Aug. 14, 1935, was classified to section 1320b of th
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(2). Pub. L. 112–34, §201(1)(A), amended par. (2) generally. Prior to amendment, text read as follows: "The Secretary may authorize not more than 10 demonstration projects under paragraph (1) in each of fiscal years 1998 through 2003."
+<b>2011</b>—Subsec. (a)(2). Pub. L. 112–34, §201(1)(A), amended par. (2) generally. Prior to amendment, text read asfollows: "The Secretary may authorize not more than 10 demonstration projects under paragraph (1) in each of fiscal years 1998 through 2003."
 
 Subsec. (a)(3). Pub. L. 112–34, §201(1)(B), added par. (3) and struck out former par. (3) which related to certain types of proposals required to be considered.
 

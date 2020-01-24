@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Secretary may carry out a program to award cash prizes in recognition of breakthrough achievements in research, development, demonstration, and commercial application that have the potential for application to the performance of the mission of the Department.
+The Secretary may carry out a program to award cash prizes in recognition of breakthrough achievements in research, development,demonstration, and commercial application that have the potential for application to the performance of the mission of the Department.
 
 #### (b) Competition requirements
 
@@ -14,7 +14,7 @@ The Secretary, in cooperation with the Freedom Prize Foundation, shall support a
 
 #### (d) Relationship to other authority
 
-The program under subsection (a) may be carried out in conjunction with or in addition tothe exercise of any other authority of the Secretary to acquire, support, or stimulate research, development, demonstration, or commercial application projects.
+The program under subsection (a) may be carried out in conjunction with or in addition to the exercise of any other authority of the Secretary to acquire, support, or stimulate research, development, demonstration, or commercial application projects.
 
 #### (e) Authorization of appropriations
 
@@ -64,7 +64,7 @@ There are authorized to be appropriated—
 
 #### (E) Announcement of prizes
 
-&emsp;&emsp;The Secretary may not issue a notice required by subparagraph (B)(ii) until all the funds needed to pay out the announced amount of the prize have been appropriated or committed in writing by the administering entity. The Secretary may increase the amount of a prize after an initial announcement is made under subparagraph (B)(ii) if—
+&emsp;&emsp;The Secretary may not issue a notice required by subparagraph (B)(ii) until all the funds needed to pay out the announcedamount of the prize have been appropriated or committed in writing by the administering entity. The Secretary may increase the amount of a prize after an initial announcement is made under subparagraph (B)(ii) if—
 
 &emsp;&emsp;&emsp;(i) notice of the increase is provided in the same manner as the initial notice of the prize; and
 
@@ -122,7 +122,7 @@ There are authorized to be appropriated—
 
 &emsp;&emsp;For each prize competition under this subsection, the Secretary in consultation with the administering entity shall assemble a panel of qualified judges to select the winner or winners on the basis of the criteria established under subparagraph (C). Judges for each prize competition shall include individuals from outside the Department, including from the private sector. A judge, spouse, minor children, and members of the judge's household may not—
 
-&emsp;&emsp;&emsp;(i) have personal or financial interests in, or be an employee, officer, director, or agent of, any entity that is a registered participant in the prize competition for which he or she will serve as a judge; or
+&emsp;&emsp;&emsp;(i) have personal or financial interests in, or be an employee, officer, director, oragent of, any entity that is a registered participant in the prize competition for which he or she will serve as a judge; or
 
 &emsp;&emsp;&emsp;(ii) have a familial or financial relationship with an individual who is a registered participant in the prize competition for which he or she will serve as a judge.
 

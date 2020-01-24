@@ -16,7 +16,7 @@ Minimum Safety Standards.—Subject to section 30103(a) of this title, the Secre
 
 (b)
 
-Eliminating and Amending Existing Regulations.—The Secretary may not eliminate or amend an existing motor carrier safety regulation related only to the maintenance, equipment, loading, or operation (including routing)of vehicles carrying material found to be hazardous under section 5103 of this title until an equivalent or more stringent regulation has been prescribed under section 5103.
+Eliminating and Amending Existing Regulations.—The Secretary may not eliminate or amend an existing motor carrier safety regulation related only to the maintenance, equipment, loading, or operation (including routing) of vehicles carrying material found to be hazardous under section 5103 of this title until an equivalent or more stringent regulation has been prescribed under section 5103.
 
 (c)
 
@@ -146,7 +146,7 @@ Subsecs. (g), (h). Pub. L. 114–94, §5202(2), added subsecs. (g) and (h).
 
 <b>2005</b>—Subsec. (a)(3). Pub. L. 109–59 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the physical condition of operators of commercial motor vehicles is adequate to enable them to operate the vehicles safely; and".
 
-<b>1998</b>—Subsec. (e). Pub. L. 105–178 amended heading and text of subsec. (e) generally. Prior to amendment,subsec. (e) consisted of pars. (1) to (3) relating to waivers.
+<b>1998</b>—Subsec. (e). Pub. L. 105–178 amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) consisted of pars. (1) to (3) relating to waivers.
 
 <b>1996</b>—Subsec. (e)(2)(A), (J), (3). Pub. L. 104–287 substituted "November 28, 1995" for "the date of the enactment of this paragraph".
 
@@ -178,7 +178,7 @@ Vehicle Safety Technology Defined.—In this section, the term 'vehicle safety t
 
 "(c)
 
-Rule of Construction.—For purposes of this section, any windshield mounted technology with a short term exemption under part 381 of title 49, Code of Federal Regulations, on the date of enactment of this Act, shall be considered likely to achieve a level of safety that is equivalent to or greater than the level of safety that would be achieved absent an exemption under subsection (a)."
+Rule of Construction.—For purposes of this section, any windshield mounted technology with a short term exemption under part 381 of title 49, Code of Federal Regulations, on the date of enactment of this Act, shall be considered likely to achieve a level ofsafety that is equivalent to or greater than the level of safety that would be achieved absent an exemption under subsection (a)."
 
 #### Operators of Hi-Rail Vehicles
 
@@ -258,7 +258,7 @@ Rulemaking.—The Secretary of Transportation shall amend section 390.23(a)(1)(i
 
 "(d)
 
-Savings Provision.—Nothing in this section may be construed to modify the authority granted to the Federal Motor Carrier Safety Administration's Field Administrator under section 390.23(a) of title 49, Code ofFederal Regulations, to offer temporary exemptions from parts 390 through 399 of such title.
+Savings Provision.—Nothing in this section may be construed to modify the authority granted to the Federal Motor Carrier Safety Administration's Field Administrator under section 390.23(a) of title 49, Code of Federal Regulations, to offer temporary exemptions from parts 390 through 399 of such title.
 
 #### "SEC. 3. ENERGY INFORMATION ADMINISTRATION NOTIFICATION REQUIREMENT.
 
@@ -298,7 +298,7 @@ Commercial motor vehicle.—Except as otherwise specified, the term 'commercial 
 
 &emsp;"(4)
 
-Direct tire pressure monitoring system.—The term 'direct tire pressure monitoring system' means a tire pressure monitoring system that is capable of directly detecting when the air pressure level in any tire is significantly under-inflated and providing the driver a low tire pressure warning as to which specific tire is significantly under-inflated.
+Direct tire pressure monitoring system.—The term 'direct tire pressure monitoring system'means a tire pressure monitoring system that is capable of directly detecting when the air pressure level in any tire is significantly under-inflated and providing the driver a low tire pressure warning as to which specific tire is significantly under-inflated.
 
 &emsp;"(5)
 
@@ -426,7 +426,7 @@ Report.—The Secretary shall submit a report on the assessment to the Committee
 
 "(a)
 
-Research and Testing.—The Secretary shall conduct research and testing to determine the most prevalent causes of motorcoach fires and the best methods to prevent such fires and to mitigate the effect of such fires, both inside and outside the motorcoach. Such research and testing shall consider flammability of exterior components, smoke suppression, prevention of and resistance to wheel well fires, automatic fire suppression, passenger evacuation, causation and prevention of motorcoach fires, and improved fire extinguishers.
+Research and Testing.—The Secretary shall conduct research and testing to determine the most prevalent causes of motorcoach fires and the best methods to prevent such fires and to mitigate the effect of such fires, both inside and outside the motorcoach. Such research and testing shall consider flammability of exterior components, smoke suppression,prevention of and resistance to wheel well fires, automatic fire suppression, passenger evacuation, causation and prevention of motorcoach fires, and improved fire extinguishers.
 
 "(b)
 
@@ -696,7 +696,7 @@ Pub. L. 109–59, title IV, §4133, Aug. 10, 2005, 119 Stat. 1744, provided that
 
 #### Interstate Van Operations
 
-Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: "The Federal motor carrier safety regulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled."
+Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: "The Federal motor carrier safetyregulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled."
 
 #### Authority To Promulgate Safety Standards for Retrofitting
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the agency has actually accepted such property or services before such 7th day; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the contract (except in the case of a contract for the procurement of a brand-name commercial item for authorized resale) specifies a longer acceptance period, as determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed; or
+&emsp;&emsp;&emsp;&emsp;(II) the contract (except in the case of a contract for the procurement of a brand-name commercial product for authorized resale) specifies a longer acceptance period, as determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed; or
 
 &emsp;&emsp;(B) on the date of the invoice, if the agency has failed to annotate the invoice with the date of receipt at the time of actual receipt by the place or person designated by the agency to first receive such invoice.
 
@@ -48,10 +48,6 @@
 
 (Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2474; amended Pub. L. 100–496, §2(a)–(c)(1), Oct. 17, 1988, 102 Stat. 2455; Pub. L. 105–277, div. A, §101(c) \[title I, §162(a)\], Oct. 21, 1998, 112 Stat. 2681–121, 2681–148; Pub. L. 105–362, title XIII, §1301(c)(2)(A), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 115–232, div. A, title VIII, §836(g)(3), Aug. 13, 2018, 132 Stat. 1873.)
 
-#### Amendment of Subsection (a)(4)(A)(ii)(II)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(g)(3), (h), Aug. 13, 2018, 132 Stat. 1873, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(4)(A)(ii)(II) of this section is amended by striking "commercial item" and inserting "commercial product". See 2018 Amendment note below.</i>
-
 Historical and Revision Notes
 
 <i>Revised Section</i>
@@ -72,7 +68,7 @@ May 21, 1982, Pub. L. 97–177, §§6, 7(c), 96 Stat. 87, 88.
 
 In the chapter, the words "the head of" are added for clarity and consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(1), the word "Federal" is omitted as unnecessary and for consistency in the revised title and with other titles of the Code. The words "for this purpose" are omitted because of the restatement. The words "the purpose of" and "or more" are omitted as surplus.
+In subsection (a)(1), the word "Federal" is omitted as unnecessary and for consistency in the revised title andwith other titles of the Code. The words "for this purpose" are omitted because of the restatement. The words "the purpose of" and "or more" are omitted as surplus.
 
 In subsection (a)(5), the words "deemed to be" are substituted for "considered" for consistency in the revised title and with other titles of the Code.
 

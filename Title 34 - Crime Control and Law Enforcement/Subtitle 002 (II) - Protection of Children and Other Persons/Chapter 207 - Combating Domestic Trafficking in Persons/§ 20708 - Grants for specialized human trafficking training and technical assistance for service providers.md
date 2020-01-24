@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Act of trafficking
 
-&emsp;The term "act of trafficking" means an act or practice described in paragraph (9) of section 7102 of title 22.
+&emsp;The term "act of trafficking" means an act or practice described in paragraph (9) <sup>1</sup> of section 7102 of title 22.
 
 #### (2) Eligible entity
 
@@ -66,7 +66,7 @@ A grant awarded under this section shall be used to—
 
 #### (1) Administrative expenses
 
-&emsp;An eligible entity that receives a grant under this section may use not more than 5percent of the total amount of such grant for administrative expenses.
+&emsp;An eligible entity that receives a grant under this section may use not more than 5 percent of the total amount of such grant for administrative expenses.
 
 #### (2) Nonexclusivity
 
@@ -77,6 +77,10 @@ A grant awarded under this section shall be used to—
 There are authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2011 to carry out the provisions of this section.
 
 (Pub. L. 109–162, title I, §111, Jan. 5, 2006, 119 Stat. 2984; Pub. L. 113–4, title XII, §1212(b)(2)(D), Mar. 7, 2013, 127 Stat. 144; Pub. L. 115–392, §10(a), Dec. 21, 2018, 132 Stat. 5254.)
+
+#### References in Text
+
+Paragraph (9) of section 7102 of title 22, referred to in subsec. (a)(1), was redesignated par. (11) of section 7102 of title 22 by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 #### Codification
 
@@ -93,4 +97,6 @@ Subsec. (b). Pub. L. 115–392, §10(a)(3), added subsec. (b) and struck out for
 Subsec. (c)(4) to (8). Pub. L. 115–392, §10(a)(4), added pars. (4) to (8).
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 113–4 substituted "paragraph (9)" for "paragraph (8)".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

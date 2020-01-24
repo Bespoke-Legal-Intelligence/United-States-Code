@@ -16,7 +16,7 @@ Where the assessment of any tax imposed by this title has been made within the p
 
 #### (b) Date when levy is considered made
 
-The date on which a levy on property or rights to property is made shall be the date on which the notice of seizure provided in section 6335(a) is given.
+The date on which a levy on property or rights to property is made shall be the date on whichthe notice of seizure provided in section 6335(a) is given.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 806; Pub. L. 89–719, title I, §113(b), Nov. 2, 1966, 80 Stat. 1146; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title I, §1015(u)(1), Nov. 10, 1988, 102 Stat. 3573; Pub. L. 101–239, title VII, §7811(k)(2), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 101–508, title XI, §11317(a), Nov. 5, 1990, 104 Stat. 1388–458; Pub. L. 105–206, title III, §3461(a), July 22, 1998, 112 Stat. 764.)
 

@@ -84,7 +84,7 @@
 
 &emsp;(3) the remedial actions to be taken by the subcontractor in order to receive payment of the amounts withheld.
 
-(h) A prime contractor may not request payment from the agency of any amount withheld or retained in accordance with subsection (d) of this section until such time as the prime contractor has determined and certified to the agency that the subcontractor is entitled to the payment of such amount.
+(h) A prime contractor may not request payment from the agency of any amount withheldor retained in accordance with subsection (d) of this section until such time as the prime contractor has determined and certified to the agency that the subcontractor is entitled to the payment of such amount.
 
 (i) A dispute between a contractor and subcontractor relating to the amount or entitlement of a subcontractor to a payment or a late payment interest penalty under a clause included in the subcontract pursuant to subsection (b) or (c) of this section does not constitute a dispute to which the United States is a party. The United States may not be interpleaded in any judicial or administrative proceeding involving such a dispute.
 

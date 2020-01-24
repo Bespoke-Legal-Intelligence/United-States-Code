@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as otherwise provided in this chapter, the terms used in this chapter have the same meaning given such terms in section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)\].
+Except as otherwise provided in this chapter, the terms used in this chapter have the same meaning given such terms in section 101(a) ofthe Immigration and Nationality Act \[8 U.S.C. 1101(a)\].
 
 #### (b) Qualified alien
 
@@ -38,7 +38,7 @@ For purposes of this chapter, the term "qualified alien" includes—
 
 &emsp;&emsp;&emsp;(iii) suspension of deportation under section 244(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1254(a)(3)\] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).<sup>2</sup>
 
-&emsp;&emsp;&emsp;(iv) status as a spouse or child of a United States citizen pursuant to clause\(i) of section 204(a)(1)(A) of such Act \[8 U.S.C. 1154(a)(1)(A)(i)\], or classification pursuant to clause (i) of section 204(a)(1)(B) of such Act \[8 U.S.C. 1154(a)(1)(B)(i)\]; <sup>3</sup>
+&emsp;&emsp;&emsp;(iv) status as a spouse or child of a United States citizen pursuant to clause (i) of section 204(a)(1)(A) of such Act \[8 U.S.C. 1154(a)(1)(A)(i)\], or classification pursuant to clause (i) of section 204(a)(1)(B) of such Act \[8 U.S.C. 1154(a)(1)(B)(i)\]; <sup>3</sup>
 
 &emsp;&emsp;&emsp;(v) cancellation of removal pursuant to section 240A(b)(2) of such Act \[8 U.S.C. 1229b(b)(2)\];
 
@@ -86,7 +86,7 @@ Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act o
 
 Subsec. (b)(7). Pub. L. 105–33, §5302(c)(3), added par. (7).
 
-Subsec. (c). Pub. L. 105–33, §5571(b), inserted at end "After consultation with the Secretaries of Health and Human Services, Agriculture, and Housing and Urban Development, the Commissioner of Social Security, and with the heads of such Federal agencies administering benefits as the Attorney General considers appropriate, the Attorney General shall issue guidance (in the Attorney General's sole and unreviewable discretion) for purposes of this subsection and section1631(f) of this title, concerning the meaning of the terms 'battery' and 'extreme cruelty', and the standards and methods to be used for determining whether a substantial connection exists between battery or cruelty suffered and an individual's need for benefits under a specific Federal, State, or local program."
+Subsec. (c). Pub. L. 105–33, §5571(b), inserted at end "After consultation with the Secretaries of Health and Human Services, Agriculture, and Housing and Urban Development, the Commissioner of Social Security, and with the heads of such Federal agencies administering benefits as the Attorney General considers appropriate, the Attorney General shall issue guidance (in the Attorney General's sole and unreviewable discretion) for purposes of this subsection and section 1631(f) of this title, concerning the meaning of the terms 'battery' and 'extreme cruelty', and the standards and methods to be used for determining whether a substantial connection exists between battery or cruelty suffered and an individual's need for benefits under a specific Federal, State, or local program."
 
 Subsec. (c)(1)(A). Pub. L. 105–33, §5571(a), substituted "agency providing such benefits)" for "Attorney General, which opinion is not subject to review by any court)".
 

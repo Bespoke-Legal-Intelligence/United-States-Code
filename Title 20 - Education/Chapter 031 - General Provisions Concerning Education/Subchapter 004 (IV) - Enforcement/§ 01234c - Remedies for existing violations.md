@@ -12,7 +12,7 @@
 
 (b) Any action, or failure to take action, by the Secretary under this section shall not preclude the Secretary from seeking a recovery of funds under section 1234a of this title.
 
-(Pub. L. 90–247, title IV, §454, as added Pub. L. 95–561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2349; amended Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 354.)
+(Pub. L. 90–247, title IV, §454, as added Pub. L. 95–561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2349;amended Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 354.)
 
 #### Amendments
 

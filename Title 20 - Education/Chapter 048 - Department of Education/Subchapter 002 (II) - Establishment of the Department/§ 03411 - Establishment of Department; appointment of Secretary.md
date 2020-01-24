@@ -40,7 +40,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. At more than 52 million strong, including 4 million in Puerto Rico, Hispanics constitute the country's largest and fastest growing minority group. They have had a profound and positive impact on our country through, among other things, their community's strong commitment to family, faith, hard work, and service. Many Hispanics contribute to this Nation bilingually in the English and Spanish languages—a true asset for our country in an increasingly global, interdependent world.
 
-Hispanic students are the largest minority group in our Nation's schools, numbering more than 11 million in our public elementary and secondary school system, and constituting more than 22 percent of all pre-K-12 students. Hispanic students face educational challenges of crisis proportions. Fewer than half of all Hispanic children participate in early childhood education programs, and far too few Hispanic students graduate from high school; of those who do complete high school, many are not adequately prepared for college. Only 12 percent of adult Hispanics have a bachelor's degree, and just 3 percent have completed graduate or professional degree programs. At the same time, large numbers ofHispanic adults lack the education or literacy skills they need to advance their careers; they also are less likely than members of other groups to have taken job- or career-related courses, with the exception of basic education classes, such as English as a second language.
+Hispanic students are the largest minority group in our Nation's schools, numbering more than 11 million in our public elementary and secondary school system, and constituting more than 22 percent of all pre-K-12 students. Hispanic students face educational challenges of crisis proportions. Fewer than half of all Hispanic children participate in early childhood education programs, and far too few Hispanic students graduate from high school; of those who do complete high school, many are not adequately prepared for college. Only 12 percent of adult Hispanics have a bachelor's degree, and just 3 percent have completed graduate or professional degree programs. At the same time, large numbers of Hispanic adults lack the education or literacy skills they need to advance their careers; they also are less likely than members of other groups to have taken job- or career-related courses, with the exception of basic education classes, such as English as a second language.
 
 Our country was built on and continues to thrive on its diversity, and there is no doubt that the future of the United States is inextricably linked to the future of the Hispanic community. To reach the ambitious education goals we have set for our Nation, as well as to ensure equality of opportunity for all, we must provide the opportunities that will enable Hispanic students to raise their educational attainment at every level of the American education system. America's future competitiveness in our global economy will be substantially enhanced by improving educational outcomes for Hispanics.
 
@@ -48,7 +48,7 @@ Sec. 2. <i>White House Initiative on Educational Excellence for Hispanics.</i>
 
 (a) <i>Establishment</i>. There is established the White House Initiative on Educational Excellence for Hispanics (Initiative), to be housed in the Department of Education (Department). The mission of the Initiative shall be to help restore the United States to its role as the global leader in education and to strengthen the Nation by expanding educational opportunities and improving educational outcomes for Hispanics of all ages and by helping to ensure that all Hispanics receive a complete and competitive education that prepares them for college, a career, and productive and satisfying lives.
 
-(b) <i>Initiative Administration</i>. There shall be an Executive Director of the Initiative, to be appointed by the Secretary of Education (Secretary). The Initiative shall be advised by the Commission established under section 3 of this order and supported by the Working Group established under subsection (c) of this section. The Department shall provide the staff, resources, and assistance for the Initiative and the Working Group. To the extent permitted by law, departments, agencies, and offices represented on the Working Group shall provide resources, including personnel detailed to the Initiative, to assist the Department in meeting the objectives of this order.
+(b) <i>Initiative Administration</i>. There shall be an Executive Director of the Initiative, to be appointed by the Secretary of Education (Secretary). The Initiative shall be advised by the Commission established under section 3 of this order and supported by the Working Group established under subsection (c) of this section.The Department shall provide the staff, resources, and assistance for the Initiative and the Working Group. To the extent permitted by law, departments, agencies, and offices represented on the Working Group shall provide resources, including personnel detailed to the Initiative, to assist the Department in meeting the objectives of this order.
 
 (c) <i>Interagency Working Group.</i>
 
@@ -146,9 +146,11 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Advisory Commission on Educational Excellence for Hispanics
 
-Term of President's Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Advisory Commission on Educational Excellence for Hispanics were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
@@ -270,9 +272,11 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Advisory Commission on Educational Excellence for African Americans
 
-Term of President's Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Advisory Commission on Educational Excellence for African Americans were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
@@ -348,7 +352,7 @@ Section 1. <i>Task Force on Improving the Lives of Boys and Young Men of Color a
 
 Sec. 2. <i>Mission and Function of the Task Force</i>. (a) The Task Force shall, consistent with applicable law, work across executive departments and agencies to:
 
-(i) develop a comprehensive public Web site, to be maintained by the Department of Education as appropriate, that will assess, on an ongoing basis and in consultation with the Office of Management and Budget, including the Office of the Chief Statistician of theUnited States, as appropriate, critical indicators of life outcomes for boys and young men of color (and other ethnic, income, and relevant subgroups) in absolute and relative terms;
+(i) develop a comprehensive public Web site, to be maintained by the Department of Education as appropriate, that will assess, on an ongoing basis and in consultation with the Office of Management and Budget, including the Office of the Chief Statistician of the United States, as appropriate, critical indicators of life outcomes for boys and young men of color (and other ethnic, income, and relevant subgroups) in absolute and relative terms;
 
 (ii) assess the impact of Federal policies, regulations, and programs of general applicability on boys and young men of color, so as to develop proposals that will enhance positive outcomes and eliminate or reduce negative ones;
 

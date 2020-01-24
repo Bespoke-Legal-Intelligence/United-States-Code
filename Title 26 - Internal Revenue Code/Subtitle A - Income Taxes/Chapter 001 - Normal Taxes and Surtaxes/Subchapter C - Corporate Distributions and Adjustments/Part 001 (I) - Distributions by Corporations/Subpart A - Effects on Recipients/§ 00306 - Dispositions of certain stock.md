@@ -96,7 +96,7 @@ Subsection (a) shall not apply—
 
 #### (2) Exception where no earnings and profits
 
-&emsp;For purposes of this section, the term "section 306 stock" does not include any stock no part of the distribution of which would have been a dividend at the time of the distribution if money had been distributed in lieu of the stock.
+&emsp;For purposes of this section, the term "section 306 stock" does not include any stock no part of the distribution of which would have been a dividend at the time of the distributionif money had been distributed in lieu of the stock.
 
 #### (3) Certain stock acquired in section 351 exchange
 
@@ -176,7 +176,7 @@ Subsec. (f). Pub. L. 94–455, §1901(b)(3)(J), substituted "ordinary income" fo
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set outas an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1984 Amendment
 

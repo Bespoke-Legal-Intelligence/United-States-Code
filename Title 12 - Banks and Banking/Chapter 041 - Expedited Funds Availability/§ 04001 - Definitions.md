@@ -66,7 +66,7 @@ For purposes of this chapter—
 
 #### (13) Local originating depository institution
 
-&emsp;The term "local originating depository institution" means any originating depositoryinstitution which is located in the same check processing region as the receiving depository institution.
+&emsp;The term "local originating depository institution" means any originating depository institution which is located in the same check processing region as the receiving depository institution.
 
 #### (14) Noncash item
 

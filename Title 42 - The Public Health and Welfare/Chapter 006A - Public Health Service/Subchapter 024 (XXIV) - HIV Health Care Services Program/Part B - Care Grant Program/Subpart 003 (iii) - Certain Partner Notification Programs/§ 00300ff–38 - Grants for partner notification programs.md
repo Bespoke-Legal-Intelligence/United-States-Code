@@ -16,7 +16,7 @@ For purposes of subsection (a), the laws or regulations of a State are in accord
 
 &emsp;(3) The program under paragraph (1) is carried out in accordance with the following:
 
-&emsp;&emsp;(A) Partners are provided with an appropriate opportunity to learn that the partnershave been exposed to HIV/AIDS, subject to subparagraph (B).
+&emsp;&emsp;(A) Partners are provided with an appropriate opportunity to learn that the partners have been exposed to HIV/AIDS, subject to subparagraph (B).
 
 &emsp;&emsp;(B) The State does not inform partners of the identity of the infected individuals involved.
 

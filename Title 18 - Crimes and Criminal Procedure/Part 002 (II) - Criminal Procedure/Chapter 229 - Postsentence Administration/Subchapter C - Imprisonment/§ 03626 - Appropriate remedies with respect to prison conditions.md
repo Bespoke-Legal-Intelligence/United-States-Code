@@ -6,7 +6,7 @@ Requirements for Relief.—
 
 &emsp;(1)
 
-Prospective relief.—(A) Prospective relief in any civil action with respect to prisonconditions shall extend no further than necessary to correct the violation of the Federal right of a particular plaintiff or plaintiffs. The court shall not grant or approve any prospective relief unless the court finds that such relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the relief.
+Prospective relief.—(A) Prospective relief in any civil action with respect to prison conditions shall extend no further than necessary to correct the violation of the Federal right of a particular plaintiff or plaintiffs. The court shall not grant or approve any prospective relief unless the court finds that such relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the relief.
 
 &emsp;(B) The court shall not order any prospective relief that requires or permits a government official to exceed his or her authority under State or local law or otherwise violates State or local law, unless—
 
@@ -32,7 +32,7 @@ Prisoner release order.—(A) In any civil action with respect to prison conditi
 
 &emsp;(B) In any civil action in Federal court with respect to prison conditions, a prisoner release order shall be entered only by a three-judge court in accordance with section 2284 of title 28, if the requirements of subparagraph (E) have been met.
 
-&emsp;(C) A party seeking a prisoner release order in Federal court shall file with any request for such relief, a request for a three-judge court and materials sufficient to demonstrate that the requirements of subparagraph (A) have been met.
+&emsp;(C) A party seeking a prisoner release order in Federal court shall file with any request for such relief, a request for a three-judge courtand materials sufficient to demonstrate that the requirements of subparagraph (A) have been met.
 
 &emsp;(D) If the requirements under subparagraph (A) have been met, a Federal judge before whom a civil action with respect to prison conditions is pending who believes that a prison release order should be considered may sua sponte request the convening of a three-judge court to determine whether a prisoner release order should be entered.
 
@@ -228,7 +228,7 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 199
 
 #### Payment of Damage Award in Satisfaction of Pending Restitution Orders
 
-Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §807\], Apr. 26, 1996, 110 Stat. 1321, 1321–75, provided that: "Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State,or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner."
+Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §807\], Apr. 26, 1996, 110 Stat. 1321, 1321–75, provided that: "Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner."
 
 #### Notice to Crime Victims of Pending Damage Award
 

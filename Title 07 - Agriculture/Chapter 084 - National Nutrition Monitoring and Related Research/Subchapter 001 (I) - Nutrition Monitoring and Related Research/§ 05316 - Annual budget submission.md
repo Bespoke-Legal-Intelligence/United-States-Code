@@ -16,7 +16,7 @@ Nothing in this subchapter is intended to either—
 
 &emsp;(1) authorize the appropriation or require the expenditure of any funds in excess of the amount of funds that would be authorized or expended for the same purposes in the absence of the coordinated program; or
 
-&emsp;(2) limit the authority of any of the participating agencies to request and receive funds for such purposes (for use in the coordinated program) under other laws.
+&emsp;(2) limit the authority of any of the participating agencies to request and receive fundsfor such purposes (for use in the coordinated program) under other laws.
 
 (Pub. L. 101–445, title I, §106, Oct. 22, 1990, 104 Stat. 1040.)
 

@@ -144,6 +144,8 @@ Greater Farallones National Marine Sanctuary (former Gulf of the Farallones Nati
 
 Hawaiian Islands Humpback Whale National Marine Sanctuary.—15 C.F.R. part 922, subpart Q; Pub. L. 102–587, title II, subtitle C, §§2301–2308, Nov. 4, 1992, 106 Stat. 5055–5059; Pub. L. 104–283, §7, Oct. 11, 1996, 110 Stat. 3365.
 
+Mallows Bay-Potomac River National Marine Sanctuary.—84 F.R. 32586, July 8, 2019; 15 C.F.R. part 922, subpart S.
+
 MONITOR National Marine Sanctuary.—40 F.R. 5349, Feb. 5, 1975; 40 F.R. 21706, May 19, 1975; 15 C.F.R. part 922, subpart F.
 
 Monterey Bay National Marine Sanctuary.—57 F.R. 43310, Sept. 18, 1992; 15 C.F.R. part 922, subpart M; Pub. L. 100–627, title II, §205(a)(3), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–368, title I, §102, Sept. 23, 1992, 106 Stat. 1119; Pub. L. 102–587, title II, §2203, Nov. 4, 1992, 106 Stat. 5048.

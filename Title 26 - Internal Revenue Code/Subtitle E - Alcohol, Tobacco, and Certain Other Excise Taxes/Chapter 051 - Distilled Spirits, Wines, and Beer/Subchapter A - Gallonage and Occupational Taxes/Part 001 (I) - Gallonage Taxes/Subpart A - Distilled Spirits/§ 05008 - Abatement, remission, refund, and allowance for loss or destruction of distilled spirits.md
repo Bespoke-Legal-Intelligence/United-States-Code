@@ -42,7 +42,7 @@ The proprietor of the distilled spirits plant or other persons liable for the ta
 
 #### (1) In general
 
-&emsp;Whenever any distilled spirits on which tax has been determined or paid are returned to the bonded premises of a distilled spirits plant under section 5215(a), the Secretary shall abate or (without interest) credit or refund the tax imposed under section 5001(a)(1) (or the tax equal to such tax imposed under section 7652) on the spirits so returned.
+&emsp;Whenever any distilled spirits on which tax has been determined or paid are returned tothe bonded premises of a distilled spirits plant under section 5215(a), the Secretary shall abate or (without interest) credit or refund the tax imposed under section 5001(a)(1) (or the tax equal to such tax imposed under section 7652) on the spirits so returned.
 
 #### (2) Claim must be filed within 6 months of return of spirits
 
@@ -116,7 +116,7 @@ Subsec. (c)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate"
 
 Subsec. (d)(1). Pub. L. 94–455, §§1905(a)(2)(C), (D), 1906(b)(13)(A), struck out "on or after July 1, 1959," after "from bonded premises," and "or his delegate" after "Secretary" and inserted "or under section 7652" after "under section 5001(a)(1)".
 
-<b>1971</b>—Subsec. (b)(2). Pub. L. 91–659, §2(a), struck out condition that the distilled spirits can be destroyed only before bottling and permitted destruction after completion of bottling so long as the distilled spirits are on the bottling premises and added taxes imposed under subpart B of this Part as additional taxes which can be claimed for abatement, remission, credit or refund.
+<b>1971</b>—Subsec. (b)(2). Pub. L. 91–659, §2(a), struck out condition that the distilled spirits can be destroyed only before bottling and permitted destruction aftercompletion of bottling so long as the distilled spirits are on the bottling premises and added taxes imposed under subpart B of this Part as additional taxes which can be claimed for abatement, remission, credit or refund.
 
 Subsec. (c)(1)(A). Pub. L. 91–659, §1, added cl. (iii).
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 91–659 effective on first day of first calendar month whi
 
 Pub. L. 90–630, §4, Oct. 22, 1968, 82 Stat. 1329, provided that:
 
-"(a) For purposes of subsection (b), the effective date of this Act is the first day of the first calendar monthwhich begins more than 90 days after the date of the enactment of this Act \[Oct. 22, 1968\].
+"(a) For purposes of subsection (b), the effective date of this Act is the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Oct. 22, 1968\].
 
 "(b) The amendments made by the first section of this Act \[amending this section\] shall apply only to losses sustained on or after such effective date. The amendments made by section 2 \[amending section 5062 of this title and section 1313 of Title 19, Customs Duties\] shall apply only to articles exported on or after such effective date. The amendments made by section 3 \[amending section 5232 of this title\] shall apply only to withdrawals from customs custody on or after such effective date."
 

@@ -64,7 +64,7 @@ In this subchapter—
 
 &emsp;&emsp;(E) relocating after December 31, 1991, an air traffic control tower and any navigational aid (including radar) if the relocation is necessary to carry out a project approved by the Secretary under this subchapter or under section 40117.
 
-&emsp;&emsp;(F) constructing, reconstructing, repairing, or improving an airport, or purchasingcapital equipment for an airport, if necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), except constructing or purchasing capital equipment that would benefit primarily a revenue-producing area of the airport used by a nonaeronautical business.
+&emsp;&emsp;(F) constructing, reconstructing, repairing, or improving an airport, or purchasing capital equipment for an airport, if necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), except constructing or purchasing capital equipment that would benefit primarily a revenue-producing area of the airport used by a nonaeronautical business.
 
 &emsp;&emsp;(G) acquiring land for, or work necessary to construct, a pad suitable for deicing aircraft before takeoff at a commercial service airport, including constructing or reconstructing paved areas, drainage collection structures, treatment and discharge systems, appropriate lighting, paved access for deicing vehicles and aircraft, and including acquiring glycol recovery vehicles, but not including acquiring aircraft deicing fluids or constructing or reconstructing storage facilities for aircraft deicing equipment or fluids.
 
@@ -136,7 +136,7 @@ In this subchapter—
 
 &emsp;(15) "passenger boardings"—
 
-&emsp;&emsp;(A) means, unless the context indicates otherwise, revenue passenger boardings in the United States in the prior calendar year on an aircraft in service in air commerce, as the Secretary determines under regulations the Secretary prescribes; and
+&emsp;&emsp;(A) means, unless the context indicates otherwise, revenue passenger boardings in the United States in the prior calendar year on an aircraft in service in air commerce, asthe Secretary determines under regulations the Secretary prescribes; and
 
 &emsp;&emsp;(B) includes passengers who continue on an aircraft in international flight that stops at an airport in the 48 contiguous States, Alaska, or Hawaii for a nontraffic purpose.
 
@@ -198,7 +198,7 @@ In this subchapter—
 
 &emsp;&emsp;(B) the cost of a vehicle described in section 47119(a)(1)(B).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1248; Pub. L. 103–305, title I, §105, Aug. 23, 1994, 108Stat. 1572; Pub. L. 104–264, title I, §142(b)(1), Oct. 9, 1996, 110 Stat. 3221; Pub. L. 106–181, title I, §§121(c), 122, 123(b), 137(b), title V, §514(a), Apr. 5, 2000, 114 Stat. 74, 75, 85, 144; Pub. L. 107–71, title I, §119(a)(1), (5), Nov. 19, 2001, 115 Stat. 628, 629; Pub. L. 108–7, div. I, title III, §370(a), Feb. 20, 2003, 117 Stat. 424; Pub. L. 108–176, title I, §§141, 142, 159(b)(1), (d), title VIII, §801(a), Dec. 12, 2003, 117 Stat. 2503, 2510, 2511, 2586; Pub. L. 112–95, title I, §132, Feb. 14, 2012, 126 Stat. 21; Pub. L. 115–254, div. B, title I, §165, Oct. 5, 2018, 132 Stat. 3225.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1248; Pub. L. 103–305, title I, §105, Aug. 23, 1994, 108 Stat. 1572; Pub. L. 104–264, title I, §142(b)(1), Oct. 9, 1996, 110 Stat. 3221; Pub. L. 106–181, title I, §§121(c), 122, 123(b), 137(b), title V, §514(a), Apr. 5, 2000, 114 Stat. 74, 75, 85, 144; Pub. L. 107–71, title I, §119(a)(1), (5), Nov. 19, 2001, 115 Stat. 628, 629; Pub. L. 108–7, div. I, title III, §370(a), Feb. 20, 2003, 117 Stat. 424; Pub. L. 108–176, title I, §§141, 142, 159(b)(1), (d), title VIII, §801(a), Dec. 12, 2003, 117 Stat. 2503, 2510, 2511, 2586; Pub. L. 112–95, title I, §132, Feb. 14, 2012, 126 Stat. 21; Pub. L. 115–254, div. B, title I, §165, Oct. 5, 2018, 132 Stat. 3225.)
 
 Historical and Revision Notes
 

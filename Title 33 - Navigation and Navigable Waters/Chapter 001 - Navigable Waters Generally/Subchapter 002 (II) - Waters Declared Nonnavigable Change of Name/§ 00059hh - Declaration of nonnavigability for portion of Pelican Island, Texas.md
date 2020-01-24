@@ -24,7 +24,7 @@ The Secretary of the Army is authorized to convey to the City <sup>1</sup> of G
 
 #### (c) Disposition of spoil
 
-Costs of maintaining the Galveston Harbor and Channel will continue to be governed by the Local Cooperation Agreement (LCA) between the United States of America and the City <sup>1</sup> of Galveston dated October 18, 1973, as amended.Upon conveyance of the parcel, or any part of the parcel, described in subsection (a), the Department of the Army shall be compensated directly for the present value of the total costs to the Department for disposal of dredge material and site preparation pursuant to the LCA, if any,,<sup>2</sup> in excess of the present value of the total costs that would have been incurred if this conveyance had not been made.
+Costs of maintaining the Galveston Harbor and Channel will continue to be governed by the Local Cooperation Agreement (LCA) between the United States of America and the City <sup>1</sup> of Galveston dated October 18, 1973, as amended. Upon conveyance of the parcel, or any part of the parcel, described in subsection (a), the Department of the Army shall be compensated directly for the present value of the total costs to the Department for disposal of dredge material and site preparation pursuant to the LCA, if any,,<sup>2</sup> in excess of the present value of the total costs that would have been incurred if this conveyance had not been made.
 
 #### (d) Determination of fair market value
 

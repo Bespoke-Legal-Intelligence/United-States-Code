@@ -8,7 +8,7 @@
 
 #### (2) Powers
 
-&emsp;The conservator or receiver for an uninsured State member bank referred to in paragraph (1) shall exercise the same powers, functions, and duties, subject to the same limitations, as a conservator or receiver for a national bank.
+&emsp;The conservator or receiver for an uninsured State member bank referred to in paragraph\(1) shall exercise the same powers, functions, and duties, subject to the same limitations, as a conservator or receiver for a national bank.
 
 #### (b) Board authority
 

@@ -32,7 +32,7 @@ Notwithstanding the requirement of subsection (a)(2), a veteran shall be eligibl
 
 &emsp;(1) meets the requirements of paragraphs (1) and (3) of such subsection; and
 
-&emsp;(2) does not meet the requirement of subsection (a)(2) because the military income earned by such individual within the 6-month period prior to the individual's application for Job Corps prevents the individual from meeting such requirement.
+&emsp;(2) does not meet the requirement of subsection (a)(2) because the military income earned by such individual within the 6-month period prior to the individual's application for Job <sup>1</sup> Corps prevents the individual from meeting such requirement.
 
 (Pub. L. 113–128, title I, §144, July 22, 2014, 128 Stat. 1539; Pub. L. 114–22, title VI, §604, May 29, 2015, 129 Stat. 260.)
 
@@ -43,4 +43,6 @@ Notwithstanding the requirement of subsection (a)(2), a veteran shall be eligibl
 #### Effective Date
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

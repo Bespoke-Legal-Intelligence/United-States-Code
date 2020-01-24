@@ -8,7 +8,7 @@ Each laboratory or individual that performs, brokers, or otherwise arranges for 
 
 &emsp;(2) that is in excess of residue tolerances; or
 
-&emsp;(3) for which the chemical residue tolerance has been revoked or the chemical residue is otherwise not permitted by the Environmental Protection Agency.
+&emsp;(3) for which the chemical residue tolerance has been revoked or the chemical residue isotherwise not permitted by the Environmental Protection Agency.
 
 #### (b) Timing of report
 

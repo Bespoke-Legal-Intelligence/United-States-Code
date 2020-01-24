@@ -20,7 +20,7 @@
 
 &emsp;(B)(i) Except as provided in clauses (ii) and (iii), the Secretary shall award grants in each fiscal year to each institution of higher education described in paragraph (1)(B) that has an application approved under subsection (b) in an amount that bears the same ratio to the amount reserved pursuant to section 1161n–1(a)(2) of this title for such fiscal year as the number of unduplicated students placed in cooperative education jobs during the preceding fiscal year by such institution of higher education (other than cooperative education jobs under section 1161n–3 of this title and as determined by the Secretary) bears to the total number of all such students placed in such jobs during the preceding fiscal year by all such institutions.
 
-&emsp;(ii) No institution of higher education shall receive a grant pursuant to paragraph (1)(B) inany fiscal year in an amount that exceeds 25 percent of such institution's cooperative education program's personnel and operating budget for the preceding fiscal year.
+&emsp;(ii) No institution of higher education shall receive a grant pursuant to paragraph (1)(B) in any fiscal year in an amount that exceeds 25 percent of such institution's cooperative education program's personnel and operating budget for the preceding fiscal year.
 
 &emsp;(iii) The minimum annual grant amount that an institution of higher education is eligible to receive under paragraph (1)(B) is $1,000 and the maximum annual grant amount is $75,000.
 

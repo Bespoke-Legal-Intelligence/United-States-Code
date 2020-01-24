@@ -26,7 +26,7 @@ The Board of Directors shall administer the affairs of the Corporation fairly an
 
 #### (A) In general
 
-&emsp;&emsp;In addition to the examinations authorized under paragraph (2), any examiner appointed under paragraph (1) shall have power, on behalf of the Corporation, to make any special examination of any insured depository institution or nonbank financial company supervised by the Board of Governors or a bank holding company described in section 165(a) of the Financial Stability Act of 2010 \[12 U.S.C. 5365(a)\], whenever the Board of Directors determines that a special examination of any such depository institution is necessary to determine the condition of such depository institution for insurance purposes, or of such nonbank financial company supervised by the Board of Governors or bank holding company described in section 165(a) of the Financial Stability Act of 2010 \[12 U.S.C. 5365(a)\], for the purpose of implementing its authority to provide for orderly liquidation of any such company under title II <sup>1</sup> of that Act, provided that such authority may not be used with respect to any such company that is in a generally sound condition.
+&emsp;&emsp;In addition to the examinations authorized under paragraph (2), any examiner appointed under paragraph (1) shall have power, on behalf of the Corporation, to make any special examination of any insured depository institution or nonbank financial company supervised by the Board of Governors or a bank holding company described in section 165(a) of the Financial Stability Act of 2010 \[12 U.S.C. 5365(a)\], whenever the Board of Directors determines that a special examination of any such depository institution is necessary to determine the condition of such depository institution for insurance purposes, or of such nonbank financial company supervised by the Board of Governors or bank holding company described in section 165(a) of the Financial Stability Act of 2010 \[12 U.S.C. 5365(a)\], for the purpose of implementing its authority to provide for orderly liquidation of any such company under title II <sup>1</sup> of that Act, provided that such authoritymay not be used with respect to any such company that is in a generally sound condition.
 
 #### (B) Limitation
 
@@ -36,7 +36,7 @@ The Board of Directors shall administer the affairs of the Corporation fairly an
 
 #### (A) In general
 
-&emsp;&emsp;In making any examination under paragraph (2) or (3), any examiner appointedunder paragraph (1) shall have power, on behalf of the Corporation, to make such examinations of the affairs of any affiliate of any depository institution as may be necessary to disclose fully—
+&emsp;&emsp;In making any examination under paragraph (2) or (3), any examiner appointed under paragraph (1) shall have power, on behalf of the Corporation, to make such examinations of the affairs of any affiliate of any depository institution as may be necessary to disclose fully—
 
 &emsp;&emsp;&emsp;(i) the relationship between such depository institution and any such affiliate; and
 
@@ -246,7 +246,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 &emsp;&emsp;&emsp;(i) with written notice to the State bank supervisor of the bank's home State and subject to the terms of any applicable cooperative agreement with the State bank supervisor of such home State, examine such branch for the purpose of determining compliance with host State laws that are applicable pursuant to section 1831a(j) of this title, including those that govern community reinvestment, fair lending, and consumer protection; and
 
-&emsp;&emsp;&emsp;(ii) if expressly permitted under and subject to the terms of a cooperative agreement with the State bank supervisor of the bank's home State or if such out-of-State insured State bank has been determined to be in a troubled condition by either the State bank supervisor of the bank's home State or the bank's appropriate Federal banking agency, participate in the examination of the bank by the State bank supervisor of the bank's home State to ascertain that the activities of the branch in such host State are not conducted in an unsafe or unsound manner.
+&emsp;&emsp;&emsp;(ii) if expressly permitted under and subject to the terms of a cooperative agreement with the State bank supervisor of the bank's home State or if such out-of-State insured State bank has been determined to be in a troubled condition by either the State bank supervisor of the bank's home State or the bank's appropriate Federal banking agency, participate in the examination of the bank by the State bank supervisor of the bank's homeState to ascertain that the activities of the branch in such host State are not conducted in an unsafe or unsound manner.
 
 #### (B) Notice of determination
 
@@ -314,7 +314,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (1) Examinations
 
-&emsp;The appropriate Federal banking agency shall, during each scheduled on-site examination required by this section, determine whether the insured depository institution is complying with the requirements of the national flood insurance program.
+&emsp;The appropriate Federal banking agency shall, during each scheduled on-site examination required by this section, determine whether the insured depository institution iscomplying with the requirements of the national flood insurance program.
 
 #### (2) Report
 
@@ -598,7 +598,7 @@ Amendment by section 302(d) of Pub. L. 102–242 effective on earlier of 180 day
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–630 effective upon expiration of 120 days after Nov. 10, 1978, see section 2101 ofPub. L. 95–630, set out as an Effective Date note under section 375b of this title.
+Amendment by Pub. L. 95–630 effective upon expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
 
 #### Effective Date of 1970 Amendment
 

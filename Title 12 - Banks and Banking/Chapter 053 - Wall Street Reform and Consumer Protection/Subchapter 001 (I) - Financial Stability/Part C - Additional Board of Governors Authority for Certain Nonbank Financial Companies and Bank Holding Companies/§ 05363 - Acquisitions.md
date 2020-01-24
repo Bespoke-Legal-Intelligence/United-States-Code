@@ -16,7 +16,7 @@ For purposes of section 1842 of this title, a nonbank financial company supervis
 
 #### (3) Notice procedures
 
-&emsp;The notice procedures set forth in section 1843(j)(1) of this title, without regard to section 1843(j)(3) of this title, shall apply to an acquisition of any company (other than an insured depository institution) by a bank holding company with total consolidated assets equal to or greater than $250,000,000,000 or a nonbank financial company supervised by the Board of Governors, as described in paragraph (1), including any such company engaged in activities described in section 1843(k) of this title.
+&emsp;The notice procedures set forth in section 1843(j)(1) of this title, without regard to section 1843(j)(3) of this title, shall apply to an acquisition of any company (other than an insured depository institution) by a bank holding company with total consolidated assets equal to or greater than $250,000,000,000 or a nonbank financial company supervised by the Board of Governors, as described in paragraph\(1), including any such company engaged in activities described in section 1843(k) of this title.
 
 #### (4) Standards for review
 
@@ -27,10 +27,6 @@ For purposes of section 1842 of this title, a nonbank financial company supervis
 &emsp;Solely for purposes of section 18a(c)(8) of title 15, the transactions subject to the requirements of paragraph (1) shall be treated as if Board of Governors approval is not required.
 
 (Pub. L. 111–203, title I, §163, July 21, 2010, 124 Stat. 1422; Pub. L. 115–174, title IV, §401(c)(1)(E), May 24, 2018, 132 Stat. 1358.)
-
-#### Delayed Effective Date of Amendment
-
-<i>For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under section 5365 of this title.</i>
 
 #### Amendments
 

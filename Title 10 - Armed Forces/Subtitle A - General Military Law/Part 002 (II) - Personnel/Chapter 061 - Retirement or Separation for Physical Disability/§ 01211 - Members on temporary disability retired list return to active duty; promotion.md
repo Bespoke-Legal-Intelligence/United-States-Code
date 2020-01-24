@@ -18,9 +18,9 @@
 
 &emsp;(1) if he held an appointment in a commissioned grade in a regular component when his name was placed on the temporary disability retired list, be recalled to active duty and, as soon as practicable, may be reappointed by the President, by and with the advice and consent of the Senate, to his regular component in the grade permanently held by him when his name was placed on the temporary disability retired list, or in the next higher grade;
 
-&emsp;(2) if he held an appointment in the grade of warrant officer, W–1, in a regular component when his name was placed on the temporarydisability retired list, be recalled to active duty and, as soon as practicable, be reappointed by the Secretary concerned in his regular component in the grade permanently held by him when his name was placed on the temporary disability retired list, or may be appointed by the President, by and with the advice and consent of the Senate, to the grade of chief warrant officer, W–2;
+&emsp;(2) if he held an appointment in the grade of warrant officer, W–1, in a regular component when his name was placed on the temporary disability retired list, be recalled to active duty and, as soon as practicable, be reappointed by the Secretary concerned in his regular component in the grade permanently held by him when his name was placed on the temporary disability retired list, or may be appointed by the President, by and with the advice and consent of the Senate, to the grade of chief warrant officer, W–2;
 
-&emsp;(3) if he held a permanent enlisted grade in a regular component when his name was placed on the temporary disability retired list, be reenlisted in his regular component in the grade permanently held by him when his name was placed on the temporary disability retired list, or in the next higher enlisted grade;
+&emsp;(3) if he held a permanent enlisted grade in a regular component when his name was placed on the temporary disability retired list, be reenlisted in his regular component in thegrade permanently held by him when his name was placed on the temporary disability retired list, or in the next higher enlisted grade;
 
 &emsp;(4) if he was a member of the Fleet Reserve or the Fleet Marine Corps Reserve when his name was placed on the temporary disability retired list, resume his status in the Fleet Reserve or the Fleet Marine Corps Reserve in the grade held by him when his name was placed on the temporary disability retired list, or in the next higher enlisted grade; and
 
@@ -164,7 +164,7 @@ Subsection (a)(5) is substituted for 37:275(b) (proviso) (as applicable to Army 
 
 Subsection (a)(6) is inserted, since the words "reserve component" are defined by section 102(k) of the source statute to include members of the Army and the Air Force who have no component status.
 
-In subsection (b)(2), the words "by and with the advice and consent of the Senate" are added to make it clear that all appointments to the grade of commissioned warrant officer in the Navy, Marine Corps, and Coast Guard require Senate confirmation. Although these words do not appear in section 405 of the Career Compensation Act of 1949, there is no indication that an exception to the basic law relating to appointments in commissioned grades was intended.
+In subsection (b)(2), the words "by and with the advice and consent of the Senate" are added to make it clear that all appointments to the grade of commissioned warrant officer in the Navy, Marine Corps, and Coast Guard require Senate confirmation. Although these words do not appear in section 405 of the CareerCompensation Act of 1949, there is no indication that an exception to the basic law relating to appointments in commissioned grades was intended.
 
 Subsection (d)(3) is made applicable to members without component status, since the words "reserve component" are defined in section 102(k) of the source statute to include members of the Army and the Air Force who have no component status.
 

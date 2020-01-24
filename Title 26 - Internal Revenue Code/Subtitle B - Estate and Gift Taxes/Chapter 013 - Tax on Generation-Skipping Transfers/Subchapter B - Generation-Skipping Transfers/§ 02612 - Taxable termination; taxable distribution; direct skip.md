@@ -52,7 +52,7 @@ Subsec. (c)(2). Pub. L. 100–647, §1014(g)(7), in closing provisions, inserted
 
 Subsec. (c)(3). Pub. L. 100–647, §1014(g)(5)(B), added par. (3).
 
-<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions covering definition and application of "taxable termination", "taxable distribution", and "direct skip" for former provisions which indicated who the "deemed transferor" would be for purposes of this chapter and that, for purposes of determining the person deemed the transferor, a parent related to the grantor of a trust by blood or adoption was to be deemed more closely related than a parent related to a grantor by marriage.
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions covering definition and application of "taxable termination", "taxable distribution", and "direct skip" for former provisions which indicated who the "deemed transferor" would be for purposes ofthis chapter and that, for purposes of determining the person deemed the transferor, a parent related to the grantor of a trust by blood or adoption was to be deemed more closely related than a parent related to a grantor by marriage.
 
 #### Effective Date of 1997 Amendment
 

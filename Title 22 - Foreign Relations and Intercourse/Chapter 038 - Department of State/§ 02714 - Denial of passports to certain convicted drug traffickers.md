@@ -18,7 +18,7 @@
 
 #### (2) Certain misdemeanors
 
-&emsp;Subsection (a) also applies with respect to an individual convicted of a Federal drug offense, or a State drug offense, if the offense is <sup>1</sup> misdemeanor, but only if the Secretary of State determines that subsection (a) should apply with respect to that individual on account of that offense. This paragraph does not apply to an individual's first conviction for a misdemeanor which involves only possession of a controlled substance.
+&emsp;Subsection (a) also applies with respect to an individual convicted of a Federal drug offense, or a State drug offense, if the offense is <sup>1</sup> misdemeanor, but only if the Secretary of State determines that subsection (a) should apply with respect to that individual on account of that offense. This paragraph does not apply to an individual's first conviction for amisdemeanor which involves only possession of a controlled substance.
 
 #### (c) Period of ineligibility
 
@@ -60,7 +60,7 @@ As used in this section—
 
 #### References in Text
 
-The Controlled Substances Act, referred to in subsec. (e)(2)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Actto the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (e)(2)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Controlled Substances Import and Export Act, referred to in subsec. (e)(2)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 

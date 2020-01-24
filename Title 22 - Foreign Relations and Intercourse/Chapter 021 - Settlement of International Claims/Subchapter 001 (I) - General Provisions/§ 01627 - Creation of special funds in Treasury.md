@@ -2,7 +2,7 @@
 
 #### (a) Credits to, and payment from funds
 
-There are created in the Treasury of the United States (1) a special fund to be known as the Yugoslav Claims Fund; and (2) such other special funds as may, in the discretion of the Secretary of the Treasury, be required, each to be a claims fund to be known by the name of the foreign government which has entered into a settlement agreement with the Government of the United States as described in subsection (a)of section 1623 of this title. There shall be covered into the Treasury to the credit of the proper special fund all funds hereinafter specified. All payments authorized under section 1626 of this title shall be disbursed from the proper fund, as the case may be, and all amounts covered into the Treasury to the credit of the aforesaid funds are permanently appropriated for the making of the payments authorized by section 1626 of this title.
+There are created in the Treasury of the United States (1) a special fund to be known as the Yugoslav Claims Fund; and (2) such other special funds as may, in the discretion of the Secretary of the Treasury, be required, each to be a claims fund to be known by the name of the foreign government which has entered into a settlement agreement with the Government of the United States as described in subsection (a) of section 1623 of this title. There shall be covered into the Treasury to the credit of the proper special fund all funds hereinafter specified. All payments authorized under section 1626 of this title shall be disbursed from the proper fund, as the case may be, and all amounts covered into the Treasury to the credit of the aforesaid funds are permanently appropriated for the making of the payments authorized by section 1626 of this title.
 
 #### (b) Credits to Yugoslav Claims Fund; credits to other funds
 
@@ -28,7 +28,7 @@ The Secretary of the Treasury is authorized and directed out of the sums covered
 
 #### (d) Payment of balance to Yugoslav Government; certification of adjudication costs; finality of certification
 
-The Secretary of the Treasury, upon the concurrence of the Secretary of State, is authorized and directed, out of the sum covered into the Yugoslav Claims Fund pursuant to subsection (b) of this section, after completing the payments of such funds pursuant to subsection (c) of this section, to make payment of the balance of any sum remaining in such fund to the Government of the Federal People's Republic of Yugoslavia to the extent required under article 1(c) of the Yugoslav Claims Agreement of 1948. The Secretary of State shall certify to the Secretary of the Treasury the total cost of adjudication, not borne by the claimants, attributable to the Yugoslav Claims Agreement of 1948. Such certification shall be final and conclusive and shall not be subject to review by any other official, or department, agency, or establishment of the United States.
+The Secretary of the Treasury, upon the concurrence of the Secretary of State, is authorized and directed, out of the sum covered into the Yugoslav Claims Fund pursuant to subsection (b) of this section, after completing the payments of such funds pursuant to subsection (c) of this section, to make payment of the balanceof any sum remaining in such fund to the Government of the Federal People's Republic of Yugoslavia to the extent required under article 1(c) of the Yugoslav Claims Agreement of 1948. The Secretary of State shall certify to the Secretary of the Treasury the total cost of adjudication, not borne by the claimants, attributable to the Yugoslav Claims Agreement of 1948. Such certification shall be final and conclusive and shall not be subject to review by any other official, or department, agency, or establishment of the United States.
 
 #### (e) Payments; priorities
 
@@ -46,7 +46,7 @@ Except as provided in subsection (f), the Secretary of the Treasury is authorize
 
 &emsp;(A) Payment in the amount of $1,000 or the principal amount of the award, whichever is less.
 
-&emsp;(B) Thereafter, except as provided in paragraph (2), to the extent there remain unpaid principal balances on awards, payments from time to time on account of the unpaid principal balance of each remaining award which bear to such unpaid principal balance the same proportion as the total amount available for distribution at the time such payments aremade bears to the aggregate unpaid principal balance of all such awards.
+&emsp;(B) Thereafter, except as provided in paragraph (2), to the extent there remain unpaid principal balances on awards, payments from time to time on account of the unpaid principal balance of each remaining award which bear to such unpaid principal balance the same proportion as the total amount available for distribution at the time such payments are made bears to the aggregate unpaid principal balance of all such awards.
 
 &emsp;(C) Thereafter, payments from time to time on account of the unpaid balance of each award of interest which bear to such unpaid balance of interest the same proportion as the total amount available for distribution at the time such payments are made bears to the aggregate unpaid balance of interest of all such awards.
 

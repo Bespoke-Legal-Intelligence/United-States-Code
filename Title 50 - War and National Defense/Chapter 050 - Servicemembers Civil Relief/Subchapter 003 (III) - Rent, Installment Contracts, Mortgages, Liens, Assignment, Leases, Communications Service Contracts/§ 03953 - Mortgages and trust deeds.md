@@ -4,13 +4,13 @@
 
 This section applies only to an obligation on real or personal property owned by a servicemember that—
 
-&emsp;(1) originated before the period of the servicemember's military service and forwhich the servicemember is still obligated; and
+&emsp;(1) originated before the period of the servicemember's military service and for which the servicemember is still obligated; and
 
 &emsp;(2) is secured by a mortgage, trust deed, or other security in the nature of a mortgage.
 
 #### (b) Stay of proceedings and adjustment of obligation
 
-In an action filed during, or within one year after, a servicemember's period of military service to enforce an obligation described in subsection (a), the court may after a hearing and on its own motion and shall upon application by a servicemember when the servicemember's ability to comply with the obligation is materially affected by military service—
+In an action filed during, or within 90 days after, a servicemember's period of military service to enforce an obligation described in subsection (a), the court may after a hearing and on its own motion and shall upon application by a servicemember when the servicemember's ability to comply with the obligation is materially affected by military service—
 
 &emsp;(1) stay the proceedings for a period of time as justice and equity require, or
 
@@ -18,7 +18,7 @@ In an action filed during, or within one year after, a servicemember's period of
 
 #### (c) Sale or foreclosure
 
-A sale, foreclosure, or seizure of property for a breach of an obligation described in subsection (a) shall not be valid if made during, or within one year after, the period of the servicemember's military service except—
+A sale, foreclosure, or seizure of property for a breach of an obligation described in subsection (a) shall not be valid if made during, or within 90 days after, the period of the servicemember's military service except—
 
 &emsp;(1) upon a court order granted before such sale, foreclosure, or seizure with a return made and approved by the court; or
 
@@ -56,7 +56,7 @@ Pub. L. 112–154, §710(a), (b), substituted "within one year" for "within 9 mo
 
 Pub. L. 112–154, title VII, §710(c), Aug. 6, 2012, 126 Stat. 1208, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Aug. 6, 2012\]."
 
-Pub. L. 112–154, title VII, §710(d)(1), Aug. 6, 2012, 126 Stat. 1208, as amended by Pub. L. 113–286, §2(1), Dec. 18, 2014, 128 Stat. 3093; Pub. L. 114–142, §2(1), Mar. 31, 2016, 130 Stat. 326; Pub. L. 115–91, div. A, title V, §557(1), Dec. 12, 2017, 131 Stat. 1405, which provided that the amendments made by subsecs. (a) and (b) of section 710 of Pub. L. 112–154 (amending this section) would expire on Dec. 31, 2019, was repealed by Pub. L. 115–174, title III, §313, May 24, 2018, 132 Stat. 1356.
+Pub. L. 112–154, title VII, §710(d)(1), Aug. 6, 2012, 126 Stat. 1208, as amended by Pub. L. 113–286, §2(1), Dec. 18,2014, 128 Stat. 3093; Pub. L. 114–142, §2(1), Mar. 31, 2016, 130 Stat. 326; Pub. L. 115–91, div. A, title V, §557(1), Dec. 12, 2017, 131 Stat. 1405, which provided that the amendments made by subsecs. (a) and (b) of section 710 of Pub. L. 112–154 (amending this section) would expire on Dec. 31, 2019, was repealed by Pub. L. 115–174, title III, §313, May 24, 2018, 132 Stat. 1356.
 
 Pub. L. 112–154, title VII, §710(d)(3), Aug. 6, 2012, 126 Stat. 1208, as amended by Pub. L. 113–286, §2(2), Dec. 18, 2014, 128 Stat. 3093; Pub. L. 114–142, §2(2), Mar. 31, 2016, 130 Stat. 326; Pub. L. 115–91, div. A, title V, §557(2), Dec. 12, 2017, 131 Stat. 1405, which provided that, effective Jan. 1, 2020, the provisions of subsecs. (b) and (c) of this section, as in effect on July 29, 2008, would be revived, was repealed by Pub. L. 115–174, title III, §313, May 24, 2018, 132 Stat. 1356.
 

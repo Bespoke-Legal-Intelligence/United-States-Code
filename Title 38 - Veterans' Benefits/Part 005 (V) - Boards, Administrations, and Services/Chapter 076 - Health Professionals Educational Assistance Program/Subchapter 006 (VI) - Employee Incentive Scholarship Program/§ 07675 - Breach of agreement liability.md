@@ -12,7 +12,7 @@ Liability During Course of Education or Training.—(1) Except as provided in su
 
 &emsp;(B) The participant is dismissed from such educational institution for disciplinary reasons.
 
-&emsp;(C) The participant voluntarily terminates the course of education or training in such educational institution before the completion of such course of education or training.
+&emsp;(C) The participant voluntarily terminates the course of education or training in sucheducational institution before the completion of such course of education or training.
 
 &emsp;(D) The participant fails to become licensed to practice medicine, osteopathy, dentistry, podiatry, or optometry in a State, fails to become licensed as a registered nurse in a State, or fails to meet any applicable licensure requirement in the case of any other health-care personnel who provide either direct patient-care services or services incident to direct patient-care services, during a period of time determined under regulations prescribed by the Secretary.
 

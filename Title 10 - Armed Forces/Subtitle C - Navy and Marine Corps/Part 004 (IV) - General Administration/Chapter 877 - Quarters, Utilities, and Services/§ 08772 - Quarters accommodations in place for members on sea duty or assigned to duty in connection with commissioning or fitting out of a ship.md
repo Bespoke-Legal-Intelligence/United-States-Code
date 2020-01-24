@@ -100,7 +100,7 @@ Subsec. (e). Pub. L. 112–81, §602(c), added subsec. (e).
 
 Subsec. (b)(2). Pub. L. 105–85, §603(d)(2)(D)(ii), substituted "basic allowance for housing" for "basic allowance for quarters".
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–190, §607(a), amended subsec. to read as in effect on Sept. 30, 1991, in par. (3) struck out "$1,421,000 for fiscal year 1986 and" after "may not exceed" and substituted "1992" for "1991", and added par. (4).
+<b>1991</b>—Subsec. (b). Pub. L. 102–190, §607(a), amended subsec. to read as in effect on Sept. 30, 1991, in par. (3) struck out "$1,421,000 for fiscal year 1986 and" after"may not exceed" and substituted "1992" for "1991", and added par. (4).
 
 Subsec. (d). Pub. L. 102–190, §607(b), added subsec. (d).
 

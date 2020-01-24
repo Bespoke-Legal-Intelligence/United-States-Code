@@ -114,7 +114,7 @@ The Secretary shall establish a task force to—
 
 #### (j) Authorization of appropriations
 
-There is authorized to be appropriated for purposes of carrying out this section, to remainavailable until expended, not more than $10,000,000 for each of fiscal years 1994, 1995, and 1996.
+There is authorized to be appropriated for purposes of carrying out this section, to remain available until expended, not more than $10,000,000 for each of fiscal years 1994, 1995, and 1996.
 
 (Pub. L. 102–486, title I, §103, Oct. 24, 1992, 106 Stat. 2789.)
 

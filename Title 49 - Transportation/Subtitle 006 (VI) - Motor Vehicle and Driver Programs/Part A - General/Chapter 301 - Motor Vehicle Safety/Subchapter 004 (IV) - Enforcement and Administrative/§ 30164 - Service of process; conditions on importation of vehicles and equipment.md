@@ -10,7 +10,7 @@ Service.—An agent may be served at the agent's office or usual place of reside
 
 (c)
 
-Identifying Information.—A manufacturer (including an importer) offering a motor vehicle or motor vehicle equipment for import shall provide, upon request, such information that is necessary to identify and track the products as the Secretary, by rule, may specify, including—
+Identifying Information.—A manufacturer (including an importer) offering a motor vehicle or motor vehicle equipment for importshall provide, upon request, such information that is necessary to identify and track the products as the Secretary, by rule, may specify, including—
 
 &emsp;(1) the product by name and the manufacturer's address; and
 

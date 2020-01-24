@@ -32,13 +32,13 @@ Market Area Assessments.—(1) Not less frequently than every 4 years, the Secre
 
 (4)(A) The Secretary shall use the market area assessments established under paragraph (1) to—
 
-&emsp;(i) determine the capacity of the health care provider networks established under section 1703(h) <sup>1</sup> of this title;
+&emsp;(i) determine the capacity of the health care provider networks established under section 1703(h) of this title;
 
 &emsp;(ii) inform the Department budget, in accordance with subparagraph (B); and
 
 &emsp;(iii) inform and assess the appropriateness of the access standards established under section 1703B of this title and standards for quality under section 1703C of this title and to make recommendations for any changes to such standards.
 
-(B) The Secretary shall ensure that the Department budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) reflects the findings of the Secretary with respect to the most recent market area assessments under paragraph (1) and health care utilization data from the Department and non-Department entities or providers furnishing care and services to covered veterans as described in section 1703(b) <sup>1</sup> of this title.
+(B) The Secretary shall ensure that the Department budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) reflects the findings of the Secretary with respect to the most recent market area assessments under paragraph (1) and health care utilization data from the Department and non-Department entities or providers furnishing care and services to covered veterans as described in section 1703(b) of this title.
 
 (b)
 
@@ -56,7 +56,7 @@ Strategic Plan To Meet Health Care Demand.—(1) Not later than 1 year after the
 
 &emsp;(B) assess the market area assessments established under subsection (a);
 
-&emsp;(C) assess the needs of the Department based on identified services that provide management of conditions or disorders related to military service for which there is limited experience or access in the national market, theoverall health of veterans throughout their lifespan, or other services as the Secretary determines appropriate;
+&emsp;(C) assess the needs of the Department based on identified services that provide management of conditions or disorders related to military service for which there is limited experience or access in the national market, the overall health of veterans throughout their lifespan, or other services as the Secretary determines appropriate;
 
 &emsp;(D) consult with key stakeholders within the Department, the heads of other Federal agencies, and other relevant governmental and nongovernmental entities, including State, local, and tribal government officials, members of Congress, veterans service organizations, private sector representatives, academics, and other policy experts;
 
@@ -96,8 +96,6 @@ Appropriate Committees of Congress Defined.—In this section, the term "appropr
 
 The date of the enactment of the Caring for Our Veterans Act of 2018, referred to in subsecs. (a)(3)(B) and (b), is the date of enactment of Pub. L. 115–182, which was approved June 6, 2018.
 
-Section 1703 of this title, referred to in subsec. (a)(4)(A)(i), (B), probably means section 1703 of this title as amended by Pub. L. 115–182, title I, §101(a)(1), June 6, 2018, 132 Stat. 1395, which takes effect on the date specified in section 101(b) of Pub. L. 115–182. See Amendment of Section and Effective Date of 2018 Amendment notes set out under section 1703 of this title.
-
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–251, §211(a)(11)(A)(i), substituted "Secretary shall" for "Secretary of Veterans Affairs shall".
@@ -117,6 +115,4 @@ Subsec. (b)(2)(I). Pub. L. 115–251, §211(a)(11)(B), inserted "of this title" 
 Subsec. (c)(1). Pub. L. 115–251, §211(a)(11)(C)(i), substituted "a high-performing" for "such high performing".
 
 Subsec. (c)(3). Pub. L. 115–251, §211(a)(11)(C)(ii), inserted "such" before "a high-performing".
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

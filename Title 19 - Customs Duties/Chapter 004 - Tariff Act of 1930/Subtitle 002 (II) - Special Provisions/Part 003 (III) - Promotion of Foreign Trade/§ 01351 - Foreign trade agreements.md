@@ -2,11 +2,11 @@
 
 #### (a) Authority of President; modification and decrease of duties; altering import restrictions
 
-(1) For the purpose of expanding foreign markets for the products of the United States (as a means of assisting in establishing and maintaining a better relationship among various branches of American agriculture, industry, mining, and commerce) by regulating the admission of foreign goods into the United States in accordance with the characteristics and needs of various branches of American production so that foreign markets will be made available to those branches of American production which require and are capable of developing such outlets by affording corresponding market opportunities for foreign products in the United States, the President, whenever he finds as a fact thatany existing duties or other import restrictions of the United States or any foreign country are unduly burdening and restricting the foreign trade of the United States and that the purpose above declared will be promoted by the means hereinafter specified, is authorized from time to time—
+(1) For the purpose of expanding foreign markets for the products of the United States (as a means of assisting in establishing and maintaining a better relationship among various branches of American agriculture, industry, mining, and commerce) by regulating the admission of foreign goods into the United States in accordance with the characteristics and needs of various branches of American production so that foreign markets will be made available to those branches of American production which require and are capable of developing such outlets by affording corresponding market opportunities for foreign products in the United States, the President, whenever he finds as a fact that any existing duties or other import restrictions of the United States or any foreign country are unduly burdening and restricting the foreign trade of the United States and that the purpose above declared will be promoted by the means hereinafter specified, is authorized from time to time—
 
 &emsp;(A) To enter into foreign trade agreements with foreign governments or instrumentalities thereof: <i>Provided</i>, That the enactment of the Trade Agreements Extension Act of 1955 shall not be construed to determine or indicate the approval or disapproval by the Congress of the executive agreement known as the General Agreement on Tariffs and Trade.
 
-&emsp;(B) To proclaim such modifications of existing duties and other import restrictions, or such additional import restrictions, or such continuance, and for such minimum periods, of existing customs or excise treatment of any article covered by foreign trade agreements, as are required or appropriate to carry out any foreign trade agreement that the President has entered into hereunder.
+&emsp;(B) To proclaim such modifications of existing duties and other import restrictions, or such additional import restrictions, or such continuance, and for such minimum periods, of existing customs or excise treatment of any article covered by foreign trade agreements, as are required or appropriate to carry out anyforeign trade agreement that the President has entered into hereunder.
 
 (2) No proclamation pursuant to paragraph (1)(B) of this subsection shall be made—
 
@@ -42,7 +42,7 @@
 
 &emsp;(ii) One-half of 1 per centum ad valorem.
 
-> In the case of a specific rate (or of a combination of rates which includes a specific rate), the one-half of 1 per centum specified in clause (ii) of the preceding sentence shall be determined inthe same manner as the ad valorem equivalent of rates not stated wholly in ad valorem terms is determined for the purposes of paragraph (2)(D)(ii) of this subsection.
+> In the case of a specific rate (or of a combination of rates which includes a specific rate), the one-half of 1 per centum specified in clause (ii) of the preceding sentence shall be determined in the same manner as the ad valorem equivalent of rates not stated wholly in ad valorem terms is determined for the purposes of paragraph (2)(D)(ii) of this subsection.
 
 (4)(A) No proclamation pursuant to paragraph (1)(B) of this subsection shall be made, in order to carry out a foreign trade agreement entered into by the President on or after July 1, 1958, decreasing any rate of duty below the lowest of the following rates:
 
@@ -74,7 +74,7 @@ Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et s
 
 &emsp;(2) In order to carry out a foreign trade agreement entered into by the President on or after June 12, 1955, and before July 1, 1962, below the applicable alternative specified in subsection (a)(2)(C) or (D) or (4)(A) (subject to the applicable provisions of subsection (a)(3)(B), (C), and (D) and (4)(B) and (C)), each such alternative to be read for the purposes of this paragraph as relating to the rate of duty applicable to products of Cuba. With respect to products of Cuba, the limitation of subsection (a)(2)(D)(ii) or (4)(A)(iii) may be exceeded to such extent as may be required to maintain an absolute margin of preference to which such products are entitled.
 
-&emsp;(3) In order to carry out a foreign trade agreement entered into after June 30, 1962, andbefore July 1, 1967, below the lowest rate permissible by applying title II of the Trade Expansion Act of 1962 \[19 U.S.C. 1821 et seq.\] to the rate of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on July 1, 1962, with respect to such product.
+&emsp;(3) In order to carry out a foreign trade agreement entered into after June 30, 1962, and before July 1, 1967, below the lowest rate permissible by applying title II of the Trade Expansion Act of 1962 \[19 U.S.C. 1821 et seq.\] to the rate of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on July 1, 1962, with respect to such product.
 
 #### (c) Definitions
 
@@ -210,7 +210,7 @@ Act Aug. 7, 1953, ch. 348, title III, §§301–310, 67 Stat. 473–475, as amen
 
 #### Extension of Presidential Authority
 
-Authority of President to enter into trade agreements under this section extended until close of Dec. 31, 1962, see note under section 1352 of this title.
+For extensions of authority of President to enter into trade agreements under this section, up until close of Dec. 31, 1962, see notes under section 1352 of this title.
 
 #### Executive Order No. 9832
 

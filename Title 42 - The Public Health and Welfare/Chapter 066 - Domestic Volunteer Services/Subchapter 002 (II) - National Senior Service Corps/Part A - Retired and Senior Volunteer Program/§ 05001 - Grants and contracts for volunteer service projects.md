@@ -44,7 +44,7 @@ Notwithstanding any other provision of law, volunteer service under this part sh
 
 &emsp;(iv) ensure that—
 
-&emsp;&emsp;(I) the grants or contracts awarded under this section through the competitive process for a grant or contract cycle support an aggregate number of volunteer service years for a given geographic service area that isnot less than the aggregate number of volunteer service years supported under this section for such service area for the previous grant or contract cycle;
+&emsp;&emsp;(I) the grants or contracts awarded under this section through the competitive process for a grant or contract cycle support an aggregate number of volunteer service years for a given geographic service area that is not less than the aggregate number of volunteer service years supported under this section for such service area for the previous grant or contract cycle;
 
 &emsp;&emsp;(II) the grants or contracts awarded under this section through the competitive process for a grant or contract cycle maintain a similar program distribution, as compared to the program distribution for the previous grant or contract cycle; and
 
@@ -178,7 +178,7 @@ Pub. L. 94–135, title II, §205(c), Nov. 28, 1975, 89 Stat. 727, as amended by
 
 "(1) In order to provide maximum coordination between programs carried out under title III and title VII of the Older Americans Act of 1965 (42 U.S.C. 3021 et seq.; 42 U.S.C. 3045 et seq.) and National Senior Volunteer Corps \[now National Senior Service Corps\] programs carried out under title II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 5001 et seq.) \[42 U.S.C. 5000 et seq.\], in order to enhance the effectiveness of the support provided to such National Senior Volunteer Corps programs by the Corporation for National and Community Service, the Chief Executive Officer of the Corporation shall designate an aging resource specialist with respect to programs carried out in each State under title II of the Domestic Volunteer Service Act of 1973 \[this subchapter\].
 
-"(2)(A) Each aging resource specialist designated under paragraph (1) shall be qualified to serve in such capacity by appropriate experience and training, and shall be stationed in a State office of the Corporation.
+"(2)(A) Each aging resource specialist designated under paragraph (1) shall be qualified to serve in suchcapacity by appropriate experience and training, and shall be stationed in a State office of the Corporation.
 
 "(B) The primary responsibility of each aging resource specialist shall be—
 
@@ -188,7 +188,7 @@ Pub. L. 94–135, title II, §205(c), Nov. 28, 1975, 89 Stat. 727, as amended by
 
 "(3) For purposes of this subsection—
 
-&emsp;"(A) the term 'Corporation' means the Corporation for National and Community Service established bysection 191 of the National and Community Service Act of 1990 \[42 U.S.C. 12651\].\[;\]
+&emsp;"(A) the term 'Corporation' means the Corporation for National and Community Service established by section 191 of the National and Community Service Act of 1990 \[42 U.S.C. 12651\].\[;\]
 
 &emsp;"(B) the term 'primary responsibility' means the devotion of more than one-half of regular working hours to the performance of duties described in paragraph (2)(B); and
 

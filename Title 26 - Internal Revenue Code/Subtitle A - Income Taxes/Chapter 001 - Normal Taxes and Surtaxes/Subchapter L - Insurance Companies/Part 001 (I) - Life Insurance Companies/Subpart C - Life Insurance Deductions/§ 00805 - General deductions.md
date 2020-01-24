@@ -218,7 +218,7 @@ Subsec. (a)(4)(F). Pub. L. 105–34, §1084(b)(1)(C), added subpar. (F).
 
 <b>1996</b>—Subsec. (a)(4)(E). Pub. L. 104–188 substituted "243(b)(2)" for "243(b)(5)".
 
-<b>1987</b>—Subsec. (a)(4)(B). Pub. L. 100–203 substituted "shall be the percentage determined under section246(b)(3) of the life insurance company taxable income (and such limitation shall be applied as provided in section 246(b)(3))" for "shall be 80 percent of the life insurance company taxable income".
+<b>1987</b>—Subsec. (a)(4)(B). Pub. L. 100–203 substituted "shall be the percentage determined under section 246(b)(3) of the life insurance company taxable income (and such limitation shall be applied as provided in section 246(b)(3))" for "shall be 80 percent of the life insurance company taxable income".
 
 <b>1986</b>—Subsec. (a)(4)(B). Pub. L. 99–514, §611(a)(5), substituted "80 percent" for "85 percent" in introductory provisions.
 
@@ -272,5 +272,5 @@ Section applicable to taxable years beginning after Dec. 31, 1983, see section 2
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

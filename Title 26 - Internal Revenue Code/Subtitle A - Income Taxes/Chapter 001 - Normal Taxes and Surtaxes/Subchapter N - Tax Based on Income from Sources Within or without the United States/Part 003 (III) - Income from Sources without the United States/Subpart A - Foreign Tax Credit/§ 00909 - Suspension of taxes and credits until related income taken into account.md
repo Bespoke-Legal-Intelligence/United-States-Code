@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (e) Regulations
 
-The Secretary may issue such regulations or other guidance as is necessary or appropriate to carry out the purposes of this section, including regulations or other guidance which provides—
+The Secretary may issue such regulations or other guidance as is necessary or appropriate tocarry out the purposes of this section, including regulations or other guidance which provides—
 
 &emsp;(1) appropriate exceptions from the provisions of this section, and
 

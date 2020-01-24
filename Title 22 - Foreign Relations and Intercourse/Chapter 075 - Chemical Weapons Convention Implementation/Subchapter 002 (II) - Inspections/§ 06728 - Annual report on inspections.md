@@ -36,5 +36,5 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Delegation of Functions
 
-For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord.No. 13313, July 31, 2003, 68 F.R. 46074, set out as a note under section 301 of Title 3, The President.
+For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46074, set out as a note under section 301 of Title 3, The President.
 

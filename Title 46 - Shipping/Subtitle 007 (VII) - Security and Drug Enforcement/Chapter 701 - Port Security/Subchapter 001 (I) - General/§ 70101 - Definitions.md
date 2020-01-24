@@ -20,11 +20,11 @@ For the purpose of this chapter:
 
 &emsp;(7) The term "transportation security incident" means a security incident resulting in a significant loss of life, environmental damage, transportation system disruption, or economic disruption in a particular area. In this paragraph, the term "economic disruption" does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2068; amended Pub. L. 109–347, title I, §124, Oct. 13, 2006, 120 Stat. 1900; Pub. L. 115–254, div. J, §1805(b), Oct. 5, 2018, 132 Stat. 3534.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2068; amended Pub. L. 109–347, title I, §124, Oct. 13, 2006, 120 Stat. 1900; Pub. L.115–254, div. J, §1805(b), Oct. 5, 2018, 132 Stat. 3534.)
 
 #### References in Text
 
-Section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148), referred to in par. (2), was originally section 226 of title II of Pub. L. 107–296, as added Pub. L. 113–282,§3(a), Dec. 18, 2014, 128 Stat. 3066; renumbered §227 and amended Pub. L. 114–113, div. N, title II, §§203, 223(a)(3), Dec. 18, 2015, 129 Stat. 2957, 2963; Pub. L. 114–328, div. A, title XVIII, §1841(b), Dec. 23, 2016, 130 Stat. 2663, and was renumbered title XXII, §2209 of Pub. L. 107–296 by Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178, and transferred to section 659 of Title 6, Domestic Security.
+Section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148), referred to in par. (2), was originally section 226 of title II of Pub. L. 107–296, as added Pub. L. 113–282, §3(a), Dec. 18, 2014, 128 Stat. 3066; renumbered §227 and amended Pub. L. 114–113, div. N, title II, §§203, 223(a)(3), Dec. 18, 2015, 129 Stat. 2957, 2963; Pub. L. 114–328, div. A, title XVIII, §1841(b), Dec. 23, 2016, 130 Stat. 2663, and was renumbered title XXII, §2209 of Pub. L. 107–296 by Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178, and transferred to section 659 of Title 6, Domestic Security.
 
 #### Amendments
 
@@ -120,9 +120,9 @@ Matters to be included.—The study conducted under this subsection shall includ
 
 &emsp;&emsp;"(B) a review and analysis of appropriate roles and responsibilities of maritime stakeholders, including Federal, State, and local law enforcement and industry security personnel, responsible for waterside security of vessels carrying, and waterfront facilities handling, especially hazardous cargo, including—
 
-&emsp;&emsp;&emsp;"(i) the number of ports in which State and local law enforcement entities are providing any services to enforce Coast Guard-imposed security zones around vessels transiting to, through, or from United States ports or to conduct security patrols in United States ports;
+&emsp;&emsp;&emsp;"(i) the number of ports in which State and local law enforcement entities are providing any services to enforce Coast Guard-imposed securityzones around vessels transiting to, through, or from United States ports or to conduct security patrols in United States ports;
 
-&emsp;&emsp;&emsp;"(ii) the number of formal agreements entered into between the Coast Guard and State and locallaw enforcement entities to engage State and local law enforcement entities in the enforcement of Coast Guard-imposed security zones around vessels transiting to, through, or from United States ports or the conduct of port security patrols in United States ports, the duration of those agreements, and the aid that State and local entities are engaged to provide through such agreements;
+&emsp;&emsp;&emsp;"(ii) the number of formal agreements entered into between the Coast Guard and State and local law enforcement entities to engage State and local law enforcement entities in the enforcement of Coast Guard-imposed security zones around vessels transiting to, through, or from United States ports or the conduct of port security patrols in United States ports, the duration of those agreements, and the aid that State and local entities are engaged to provide through such agreements;
 
 &emsp;&emsp;&emsp;"(iii) the extent to which the Coast Guard has set national standards for training, equipment, and resources to ensure that State and local law enforcement entities engaged in enforcing Coast Guard-imposed security zones around vessels transiting to, through, or from United States ports or in conducting port security patrols in United States ports (or both) can deter to the maximum extent practicable a transportation security incident;
 
@@ -204,7 +204,7 @@ Watch Lists.—
 
 &emsp;"(1)
 
-In general.—As soon as practicable but not later than 180 days after the date of the enactment of this Act \[Dec. 17, 2004\], the Secretary of Homeland Security shall—
+In general.—As soon as practicable but not later than 180 days after the date of the enactment ofthis Act \[Dec. 17, 2004\], the Secretary of Homeland Security shall—
 
 &emsp;&emsp;"(A) implement a procedure under which the Department of Homeland Security compares information about passengers and crew who are to be carried aboard a cruise ship with a comprehensive, consolidated database containing information about known or suspected terrorists and their associates;
 
@@ -296,7 +296,7 @@ Pub. L. 107–295, title I, §101, Nov. 25, 2002, 116 Stat. 2066, provided that:
 
 &emsp;&emsp;"(D) to provide financial assistance to help the States and the private sector to increase physical security of United States ports;
 
-&emsp;&emsp;"(E) to invest in long-term technology to facilitate the private sector development of technology that will assist in the nonintrusive timely detection of crime or potential crime at United States ports;
+&emsp;&emsp;"(E) to invest in long-term technology to facilitate the private sector development of technologythat will assist in the nonintrusive timely detection of crime or potential crime at United States ports;
 
 &emsp;&emsp;"(F) to increase intelligence collection on cargo and intermodal movements to address areas of potential threat to safety and security; and
 
@@ -380,7 +380,7 @@ Pub. L. 107–295, title I, §111, Nov. 25, 2002, 116 Stat. 2092, provided that:
 
 #### Report on Foreign-flag Vessels
 
-Pub. L. 107–295, title I, §112, Nov. 25, 2002, 116 Stat. 2092, which required the Secretary of the department in which the Coast Guard is operating to provide an annual report regarding all nations whose flag vessels have entered United States ports in the previous year,a separate list of those nations whose registered flag vessels present certain irregularities, actions taken to improve transparency and security of vessel registration procedures in those nations, and recommendations for legislative or other actions to improve security of United States ports, was repealed by Pub. L. 111–207, §4(a)(2), July 27, 2010, 124 Stat. 2251.
+Pub. L. 107–295, title I, §112, Nov. 25, 2002, 116 Stat. 2092, which required the Secretary of the department inwhich the Coast Guard is operating to provide an annual report regarding all nations whose flag vessels have entered United States ports in the previous year, a separate list of those nations whose registered flag vessels present certain irregularities, actions taken to improve transparency and security of vessel registration procedures in those nations, and recommendations for legislative or other actions to improve security of United States ports, was repealed by Pub. L. 111–207, §4(a)(2), July 27, 2010, 124 Stat. 2251.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

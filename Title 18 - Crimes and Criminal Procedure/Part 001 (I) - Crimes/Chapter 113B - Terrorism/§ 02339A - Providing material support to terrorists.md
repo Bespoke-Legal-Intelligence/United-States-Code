@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 107–273, §4002(c)(1), repealed amendment by Pub. L. 104�
 
 Pub. L. 107–56, §810(c)(1), substituted "15 years" for "10 years".
 
-Pub. L. 107–56, §810(c)(2), which directed substitution of ", and, if the death of any person results, shall be imprisoned for any term of years or for life." for period, was executed by making the substitution for the period at end of the first sentence to reflect the probable intent of Congress and the intervening amendment by section 805(a)(1)(F) of Pub. L. 107–56. See below.
+Pub. L. 107–56, §810(c)(2), which directed substitution of ", and, if the death of any person results, shall be imprisoned for any term of years or for life." for period,was executed by making the substitution for the period at end of the first sentence to reflect the probable intent of Congress and the intervening amendment by section 805(a)(1)(F) of Pub. L. 107–56. See below.
 
 Pub. L. 107–56, §805(a)(1)(F), inserted at end "A violation of this section may be prosecuted in any Federal judicial district in which the underlying offense was committed, or in any other Federal judicial district as provided by law."
 
@@ -52,7 +52,7 @@ Pub. L. 104–132 amended section generally, reenacting section catchline withou
 
 Subsec. (a). Pub. L. 104–294, §601(s)(2), (3), inserted "930(c)," before "956,", "1992," before "2155,", "2332c," before "or 2340A of this title", and "or an escape" after "concealment".
 
-Subsec. (b). Pub. L. 104–294, §601(b)(2), which directed substitution of "2332" for "2331", "2332a" for "2339", "37" for "36", and "or an escape" for "of an escape"and which could not be executed after the general amendment by Pub. L. 104–132, was repealed by Pub. L. 107–273, §4002(c)(1). See above.
+Subsec. (b). Pub. L. 104–294, §601(b)(2), which directed substitution of "2332" for "2331", "2332a" for "2339", "37" for "36", and "or an escape" for "of an escape" and which could not be executed after the general amendment by Pub. L. 104–132, was repealed by Pub. L. 107–273, §4002(c)(1). See above.
 
 #### Effective Date of 2002 Amendment
 

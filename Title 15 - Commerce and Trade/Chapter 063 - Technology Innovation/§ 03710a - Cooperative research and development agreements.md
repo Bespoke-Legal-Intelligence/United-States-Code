@@ -52,7 +52,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 &emsp;(C) for scientific research and development consistent with the research and development missions and objectives of the laboratory.
 
-(6)(A) In the case of a laboratory that is part of the National Nuclear Security Administration, a designated official of that Administration may waive any license retained by the Government under paragraph (1)(A), (2), or (3)(D), in whole or in part and according to negotiated terms and conditions, if the designated officialfinds that the retention of the license by the Government would substantially inhibit the commercialization of an invention that would otherwise serve an important national security mission.
+(6)(A) In the case of a laboratory that is part of the National Nuclear Security Administration, a designated official of that Administration may waive any license retained by the Government under paragraph (1)(A), (2), or (3)(D), in whole or in part and according to negotiated terms and conditions, if the designated official finds that the retention of the license by the Government would substantially inhibit the commercialization of an invention that would otherwise serve an important national security mission.
 
 (B) The authority to grant a waiver under subparagraph (A) shall expire on the date that is five years after October 30, 2000. The expiration under the preceding sentence of authority to grant a waiver under subparagraph (A) shall not affect any waiver granted under that subparagraph before the expiration of such authority.
 

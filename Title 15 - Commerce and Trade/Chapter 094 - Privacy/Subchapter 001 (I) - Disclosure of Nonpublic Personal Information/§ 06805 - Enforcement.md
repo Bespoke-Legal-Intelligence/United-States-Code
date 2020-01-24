@@ -10,7 +10,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 &emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, organizations operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], and bank holding companies and their nonbank subsidiaries or affiliates (except brokers, dealers, persons providing insurance, investment companies, and investment advisers);
 
-&emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), insured State branches of foreign banks, and anysubsidiaries of such entities (except brokers, dealers, persons providing insurance, investment companies, and investment advisers); and
+&emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), insured State branches of foreign banks, and any subsidiaries of such entities (except brokers, dealers, persons providing insurance, investment companies, and investment advisers); and
 
 &emsp;&emsp;(D) savings associations the deposits of which are insured by the Federal Deposit Insurance Corporation, and any subsidiaries of such savings associations (except brokers, dealers, persons providing insurance, investment companies, and investment advisers).
 
@@ -40,7 +40,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 #### (c) Absence of State action
 
-If a State insurance authority fails to adopt regulations to carry out this subchapter, such State shall not be eligible to override, pursuant to section 1831x(g)(2)(B)(iii) of title 12, the insurance customer protection regulations prescribed by a Federal banking agency under section 1831x(a) of title 12.
+If a State insurance authority fails to adopt regulations to carry out this subchapter, suchState shall not be eligible to override, pursuant to section 1831x(g)(2)(B)(iii) of title 12, the insurance customer protection regulations prescribed by a Federal banking agency under section 1831x(a) of title 12.
 
 #### (d) Definitions
 
@@ -68,7 +68,7 @@ The Federal Trade Commission Act, referred to in subsec. (a)(7), is act Sept. 26
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1093(4)(A), substituted "Subject to subtitle B of the Consumer Financial Protection Act of 2010, this subchapter and the regulations prescribed thereunder shall be enforced by the Bureau of Consumer Financial Protection, the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:" for "This subchapter and the regulations prescribed thereunder shall be enforced by the Federal functional regulators,the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:".
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1093(4)(A), substituted "Subject to subtitle B of the Consumer Financial Protection Act of 2010, this subchapter and the regulations prescribed thereunder shall be enforced by the Bureau of Consumer Financial Protection, the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:" for "This subchapter and the regulations prescribed thereunder shall be enforced by the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:".
 
 Subsec. (a)(1). Pub. L. 111–203, §1093(4)(B)(i), inserted "by the appropriate Federal banking agency, as defined in section 1813(q) of title 12," before "in the case of—".
 

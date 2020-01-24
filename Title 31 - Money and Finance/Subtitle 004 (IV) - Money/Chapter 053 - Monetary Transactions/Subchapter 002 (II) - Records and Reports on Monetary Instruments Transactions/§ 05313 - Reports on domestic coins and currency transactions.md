@@ -2,7 +2,7 @@
 
 (a) When a domestic financial institution is involved in a transaction for the payment, receipt, or transfer of United States coins or currency (or other monetary instruments the Secretary of the Treasury prescribes), in an amount, denomination, or amount and denomination, or under circumstances the Secretary prescribes by regulation, the institution and any other participant in the transaction the Secretary may prescribe shall file a report on the transaction at the time and in the way the Secretary prescribes. A participant acting for another person shall make the report as the agent or bailee of the person and identify the person for whom the transaction is being made.
 
-(b) The Secretary may designate a domestic financial institution as an agent of the United States Government to receive a report under this section. However, the Secretary may designate a domestic financial institution that is not insured, chartered, examined, or registered as a domestic financial institution only if the institution consents. The Secretary may suspend or revoke a designation for a violation of this subchapter or a regulation under this subchapter (except a violation of section 5315 of this title or a regulation prescribed under section 5315), section 411 <sup>1</sup> of the National Housing Act (12 U.S.C. 1730d), or section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b).
+(b) The Secretary may designate a domestic financial institution as an agent of the UnitedStates Government to receive a report under this section. However, the Secretary may designate a domestic financial institution that is not insured, chartered, examined, or registered as a domestic financial institution only if the institution consents. The Secretary may suspend or revoke a designation for a violation of this subchapter or a regulation under this subchapter (except a violation of section 5315 of this title or a regulation prescribed under section 5315), section 411 <sup>1</sup> of the National Housing Act (12 U.S.C. 1730d), or section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b).
 
 (c)(1) A person (except a domestic financial institution designated under subsection (b) of this section) required to file a report under this section shall file the report—
 
@@ -92,7 +92,7 @@ Provisions Applicable to Mandatory and Discretionary Exemptions.—
 
 Limitation on liability of depository institutions.—No depository institution shall be subject to any penalty which may be imposed under this subchapter for the failure of the institution to file a report with respect to a transaction with a customer for whom an exemption has been granted under subsection (d) or (e) unless the institution—
 
-&emsp;&emsp;(A) knowingly files false or incomplete information to the Secretary with respect to the transaction or the customer engaging in the transaction; or
+&emsp;&emsp;(A) knowingly files false or incomplete information to the Secretary with respect tothe transaction or the customer engaging in the transaction; or
 
 &emsp;&emsp;(B) has reason to believe at the time the exemption is granted or the transaction is entered into that the customer or the transaction does not meet the criteria established for granting such exemption.
 
@@ -146,7 +146,7 @@ Oct. 26, 1970, Pub. L. 91–508, §§221–223, 84 Stat. 1122.
 
 31:1083(b).
 
-In subsection (a), the words "coins or" are added, and the words "prescribe" and "prescribes" are substituted for "specify" in 31:1081, and "require", for consistency. The words "other parties thereto or" in 31:1082 are omitted as surplus. The words "to the Secretary" in 31:1081 are omitted as unnecessary and for clarity. Thewords "in such detail" are omitted as surplus. The words "A participant acting for another person shall make the report as the agent or bailee of the person and identify the person for whom the transaction is being made" are substituted for 31:1082(last sentence) for clarity and to eliminate unnecessary words.
+In subsection (a), the words "coins or" are added, and the words "prescribe" and "prescribes" are substituted for "specify" in 31:1081, and "require", for consistency. The words "other parties thereto or" in 31:1082 are omitted as surplus. The words "to the Secretary" in 31:1081 are omitted as unnecessary and for clarity. The words "in such detail" are omitted as surplus. The words "A participant acting for another person shall make the report as the agent or bailee of the person and identify the person for whom the transaction is being made" are substituted for 31:1082(last sentence) for clarity and to eliminate unnecessary words.
 
 In subsection (b), the words "in his discretion" and "individually or by class" are omitted as surplus. The word "Government" is added for consistency. The words "or a regulation under this subchapter", are added because of the restatement. The words "(except a violation of section 5315 of this title or a regulation prescribed under section 5315)" are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter.
 
@@ -196,7 +196,7 @@ Study required.—The Secretary shall conduct a study of—
 
 &emsp;&emsp;"(A) the possible expansion of the statutory exemption system in effect under section 5313 of title 31, United States Code; and
 
-&emsp;&emsp;"(B) methods for improving financial institution utilization of the statutory exemption provisions as a way of reducing the submission of currency transaction reports that have little or no value for law enforcement purposes, including improvements in the systems in effect at financial institutions for regular review of the exemption procedures used at the institution and the training of personnel in its effective use.
+&emsp;&emsp;"(B) methods for improving financial institution utilization of the statutory exemption provisions as a way of reducing the submission of currency transaction reports that have little or no value for law enforcement purposes, including improvements in the systems in effect at financial institutions for regular review of the exemption procedures used atthe institution and the training of personnel in its effective use.
 
 &emsp;"(2)
 

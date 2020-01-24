@@ -6,7 +6,7 @@
 
 &emsp;(2) otherwise cooperate with the Secretary and with other State agencies in paying compensation under this subchapter.
 
-(b) The agreement shall provide that compensation will be paid by the State to a Federal employee in the same amount, on the same terms, and subject to the same conditions as the compensation which would be payable to him under the unemployment compensation law of the State if his Federal service and Federal wages assigned under section 8504 of this title to the State had been included as employment and wages under that State law.
+(b) The agreement shall provide that compensation will be paid by the State to a Federal employee in the same amount, on the same terms, and subject to the same conditions as thecompensation which would be payable to him under the unemployment compensation law of the State if his Federal service and Federal wages assigned under section 8504 of this title to the State had been included as employment and wages under that State law.
 
 \[(c) Repealed. Pub. L. 90–83, §1(86)(B), Sept. 11, 1967, 81 Stat. 218.\]
 

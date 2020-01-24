@@ -1,6 +1,6 @@
 ### §6302. General provisions
 
-(a) The days of leave provided by this subchapter are days on which an employee would otherwise work and receive pay and are exclusive of holidays and nonworkdays established byFederal statute, Executive order, or administrative order.
+(a) The days of leave provided by this subchapter are days on which an employee would otherwise work and receive pay and are exclusive of holidays and nonworkdays established by Federal statute, Executive order, or administrative order.
 
 (b) For the purpose of this subchapter an employee is deemed employed for a full biweekly pay period if he is employed during the days within that period, exclusive of holidays and nonworkdays established by Federal statute, Executive order, or administrative order, which fall within his basic administrative workweek.
 

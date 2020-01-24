@@ -12,7 +12,7 @@ In order to develop, operate, or maintain the Strategic Petroleum Reserve, the S
 
 &emsp;(3) construct, purchase, lease, or otherwise acquire storage and related facilities;
 
-&emsp;(4) use, lease, maintain, sell or otherwise dispose of land or interests in land, or of storageand related facilities acquired under this part, under such terms and conditions as the Secretary considers necessary or appropriate;
+&emsp;(4) use, lease, maintain, sell or otherwise dispose of land or interests in land, or of storage and related facilities acquired under this part, under such terms and conditions as the Secretary considers necessary or appropriate;
 
 &emsp;(5) acquire, subject to the provisions of section 6240 of this title, by purchase, exchange, or otherwise, petroleum products for storage in the Strategic Petroleum Reserve;
 
@@ -24,7 +24,7 @@ In order to develop, operate, or maintain the Strategic Petroleum Reserve, the S
 
 #### (g) Acquisition of property by negotiation as prerequisite to condemnation
 
-Before any condemnation proceedings are instituted, an effort shall be made to acquire the property involved by negotiation, unless, the effort to acquire such property by negotiation would, in the judgement of the Secretary be futile or so time-consuming as to unreasonably delay the development of the Strategic Petroleum Reserve, because of (1) reasonable doubt as to the identity of the owners, (2) the large number of persons with whom it would be necessary to negotiate, or (3) other reasons.
+Before any condemnation proceedings are instituted, an effort shall be made to acquire the property involved by negotiation, unless, the effort to acquire such property by negotiation would, in the judgement of the Secretary be futile or so time-consuming as to unreasonably delay the development of the Strategic Petroleum Reserve, because of (1) reasonable doubt asto the identity of the owners, (2) the large number of persons with whom it would be necessary to negotiate, or (3) other reasons.
 
 #### (h), (i) Repealed. Pub. L. 106–469, title I, §103(13)(D), Nov. 9, 2000, 114 Stat. 2031
 
@@ -98,7 +98,7 @@ Collection and Deposit of Sale Proceeds in Fund.—
 
 &emsp;"(1)
 
-Drawdown and sale.—Notwithstanding section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241), to the extent provided in advance in appropriation Acts, the Secretary of Energy shall draw down and sell crude oil from the Strategic Petroleum Reserve in amounts as authorized under subsection (e), except as provided in paragraph (2). Amounts received for a sale under this paragraph shall be deposited into the Fund during the fiscal year in which the sale occurs. Such amounts shall remain available in the Fund without fiscal year limitation.
+Drawdown and sale.—Notwithstanding section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241), to the extent provided in advance in appropriation Acts, the Secretary of Energy shall draw down and sell crude oil from the Strategic Petroleum Reserve in amounts as authorized under subsection (e), except as provided in paragraph (2). Amounts received for a sale under this paragraph shall be deposited into the Fund during the fiscal year in which thesale occurs. Such amounts shall remain available in the Fund without fiscal year limitation.
 
 &emsp;"(2)
 

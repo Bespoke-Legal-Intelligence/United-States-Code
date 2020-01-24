@@ -11,13 +11,15 @@
 | <b>B.</b> | <b>Coal</b> | <b>4121</b> |
 | <b>C.</b> | <b>Certain vaccines</b> | <b>4131</b> |
 | <b>D.</b> | <b>Recreational equipment</b> | <b>4161</b> |
-| <b>E.</b> | <b>Medical devices</b> | <b>4191</b> |
+| <b>\[E.</b> | <b>Repealed.\]</b> |  |
 | <b>F.</b> | <b>Special provisions applicable to manufacturers tax</b> | <b>4216</b> |
 | <b>G.</b> | <b>Exemptions, registration, etc</b> | <b>4221</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–94, div. N, title I, §501(c) Dec. 20, 2019, 133 Stat. 3119, struck out item for subchapter E "Medical devices".
 
 <b>2010</b>—Pub. L. 111–152, title I, §1405(a)(2), Mar. 30, 2010, 124 Stat. 1065, added item for subchapter E.
 
@@ -38,6 +40,6 @@
 - [Subchapter B - Coal](Subchapter%20B%20-%20Coal/README.md)
 - [Subchapter C - Certain Vaccines](Subchapter%20C%20-%20Certain%20Vaccines/README.md)
 - [Subchapter D - Recreational Equipment](Subchapter%20D%20-%20Recreational%20Equipment/README.md)
-- [Subchapter E - Medical Devices](Subchapter%20E%20-%20Medical%20Devices/README.md)
+- [Subchapter E - Repealed](Subchapter%20E%20-%20Repealed/README.md)
 - [Subchapter F - Special Provisions Applicable to Manufacturers Tax](Subchapter%20F%20-%20Special%20Provisions%20Applicable%20to%20Manufacturers%20Tax/README.md)
 - [Subchapter G - Exemptions, Registration, Etc](Subchapter%20G%20-%20Exemptions%2C%20Registration%2C%20Etc/README.md)

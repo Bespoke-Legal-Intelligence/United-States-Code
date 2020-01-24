@@ -70,7 +70,7 @@ Not later than 1 year after June 20, 2000, the Secretary shall publish for publi
 
 #### (1) Regulations
 
-&emsp;In the case of biological control organisms, the Secretary may publish, by regulation, a list of organisms whose movement in interstate commerce is not prohibited or restricted.Any listing may take into account distinctions between organisms such as indigenous, nonindigenous, newly introduced, or commercially raised.
+&emsp;In the case of biological control organisms, the Secretary may publish, by regulation, a list of organisms whose movement in interstate commerce is not prohibited or restricted. Any listing may take into account distinctions between organisms such as indigenous, nonindigenous, newly introduced, or commercially raised.
 
 #### (2) Petition to add or remove biological control organisms from the regulations
 

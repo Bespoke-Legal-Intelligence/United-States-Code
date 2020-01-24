@@ -18,7 +18,7 @@ The Board of Regents may establish—
 
 &emsp;(1) programs to serve Indian tribes and communities; and
 
-&emsp;(2) in cooperation with educational institutions, including tribally controlled colleges or universities (as defined in section 1801(a) oftitle 25), programs to enhance the opportunities for Indians in the areas of museum studies, management, and research.
+&emsp;(2) in cooperation with educational institutions, including tribally controlled colleges or universities (as defined in section 1801(a) of title 25), programs to enhance the opportunities for Indians in the areas of museum studies, management, and research.
 
 #### (c) Indian Museum Management Fellowships
 

@@ -22,7 +22,7 @@ Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted "3687" for "1787".
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted "3686" for "1786".
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–237 substituted "1786 (other than subsection (a)(2)) of this title and the period of such spouse's entitlement shall be charged with one month for each $404 which is paid to the spouse as an educational assistance allowance for such course" for "1786 of this title".
+<b>1989</b>—Subsec. (b). Pub. L. 101–237 substituted "1786 (other than subsection (a)(2)) of this title and the period of such spouse's entitlement shall be charged with one month for each $404 which is paid to the spouse asan educational assistance allowance for such course" for "1786 of this title".
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–502 substituted "spouse or surviving spouse" for "wife or widow".
 

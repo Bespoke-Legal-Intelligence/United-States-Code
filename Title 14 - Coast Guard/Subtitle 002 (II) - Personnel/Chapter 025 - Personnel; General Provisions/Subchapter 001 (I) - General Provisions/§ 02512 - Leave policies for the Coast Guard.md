@@ -22,5 +22,5 @@ Pub. L. 115–282, §114(b), renumbered section 431 of this title as this sectio
 
 #### Flexible Work Schedules
 
-Pub. L. 115–282, title III, §315(b), Dec. 4, 2018, 132 Stat. 4250, provided that: "Not later than 180 days after the date of enactment of this Act \[Dec. 4, 2018\], the Secretary of the department in which the Coast Guard is operating shall ensure that a flexible work schedule program under chapter 61 of title 5, United States Code, is in place for officers and enlisted members of the Coast Guard."
+Pub. L. 115–282, title III, §315(b), Dec. 4, 2018, 132 Stat. 4250, provided that: "Not later than 180 days after thedate of enactment of this Act \[Dec. 4, 2018\], the Secretary of the department in which the Coast Guard is operating shall ensure that a flexible work schedule program under chapter 61 of title 5, United States Code, is in place for officers and enlisted members of the Coast Guard."
 

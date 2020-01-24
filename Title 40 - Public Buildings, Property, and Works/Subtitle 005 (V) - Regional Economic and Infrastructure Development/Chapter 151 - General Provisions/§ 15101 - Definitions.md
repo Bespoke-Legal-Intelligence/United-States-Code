@@ -50,7 +50,7 @@ Nonprofit entity.—The term "nonprofit entity" means any organization described
 
 Region.—The term "region" means the area covered by a Commission as described in subchapter II of chapter 157.<sup>2</sup>
 
-(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1468, and Pub. L. 110–246,§4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2230.)
+(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1468, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2230.)
 
 #### References in Text
 

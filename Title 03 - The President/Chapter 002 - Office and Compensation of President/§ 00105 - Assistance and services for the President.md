@@ -16,7 +16,7 @@
 
 (2) The President may, under paragraph (1) of this subsection, appoint and fix the pay of not more than—
 
-&emsp;(A) 3 employees at rates not to exceed the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of section 5332 of title 5; and in addition
+&emsp;(A) 3 employees at rates not to exceed the maximum rate of basic pay then currentlypaid for GS–18 of the General Schedule of section 5332 of title 5; and in addition
 
 &emsp;(B) such number of other employees as he may determine to be appropriate at rates not to exceed the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of section 5332 of title 5.
 

@@ -282,7 +282,7 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 #### Investment of National Park Service Trust Funds
 
-Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2533, provided in part that: "In fiscal year 2016 and each fiscal year thereafter, any amounts deposited into the National Park Service trust fund accounts (31 U.S.C. 1321(a)(l7)–(18)) shall be invested by the Secretary of the Treasury in interest bearing obligations of the United States to the extent such amounts are not, in his judgment, required to meet current withdrawals: <i>Provided</i>, That interest earned by such investments shall be available for obligation without further appropriation, to the benefit of the project."
+Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2533, provided in part that: "In fiscal year 2016 and each fiscal year thereafter, any amounts deposited into the National Park Service trust fund accounts (31 U.S.C. 1321(a)(l7)–(18)) shall be invested by the Secretary of the Treasury in interest bearing obligations of the UnitedStates to the extent such amounts are not, in his judgment, required to meet current withdrawals: <i>Provided</i>, That interest earned by such investments shall be available for obligation without further appropriation, to the benefit of the project."
 
 #### Trust Funds for Individual Indians
 

@@ -116,7 +116,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 &emsp;Subject to subsections (c), (d), (f), and (g)—
 
-&emsp;&emsp;(A) for fiscal year 2019, the fees required under subsection (a) shall be established to generate a total revenue amount of $30,331,240; and
+&emsp;&emsp;(A) for fiscal year 2019, the fees required under subsection (a) shall be established togenerate a total revenue amount of $30,331,240; and
 
 &emsp;&emsp;(B) for each of fiscal years 2020 through 2023, the fees required under subsection (a) shall be established to generate a total revenue amount of $29,931,240.
 
@@ -238,7 +238,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 #### (1) Limitation
 
-&emsp;Fees may not be assessed under subsection (a) for a fiscal year beginning after fiscal year2003 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 2003 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
+&emsp;Fees may not be assessed under subsection (a) for a fiscal year beginning after fiscal year 2003 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 2003 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
 
 #### (2) Authority
 
@@ -302,7 +302,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 #### (ii) Workload-based fee accounting
 
-&emsp;&emsp;&emsp;In applying clause (i), the Secretary shall account for the reduction of workload-based fee revenue increases by excess collections under subsection (c)(3)(B), in such manner as needed to provide that no portion of any excess collections described in clause (i) is applied for purposes of reducing fee increases under both such subsection (c)(3)(B) and this paragraph.
+&emsp;&emsp;&emsp;In applying clause (i), the Secretary shall account for the reduction of workload-based fee revenue increases by excesscollections under subsection (c)(3)(B), in such manner as needed to provide that no portion of any excess collections described in clause (i) is applied for purposes of reducing fee increases under both such subsection (c)(3)(B) and this paragraph.
 
 #### (C) Rule of application
 
@@ -374,7 +374,7 @@ In general.—An establishment shall be assessed only one fee per fiscal year un
 
 "(ii)
 
-Certain manufacturers.—If a single establishment manufactures both animal drug products and prescription drug products, as defined in section 379g(3) of this title, such establishment shall be assessed both theanimal drug establishment fee and the prescription drug establishment fee, as set forth in section 379h(a)(2) of this title, within a single fiscal year."
+Certain manufacturers.—If a single establishment manufactures both animal drug products and prescription drug products, as defined in section 379g(3) of this title, such establishment shall be assessed both the animal drug establishment fee and the prescription drug establishment fee, as set forth in section 379h(a)(2) of this title, within a single fiscal year."
 
 <b>2013</b>—Pub. L. 113–14 amended section generally. Prior to amendment, section related to authority to assess and use animal drug fees.
 

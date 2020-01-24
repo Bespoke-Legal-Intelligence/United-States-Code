@@ -23,3 +23,6 @@
 - [&sect; 00503 - Unusual or emergency conditions defined](%C2%A7%2000503%20-%20Unusual%20or%20emergency%20conditions%20defined.md)
 - [&sect; 00504 - Rehabilitation and betterment of Federal reclamation projects, including small reclamation projects; return of costs; interest&#8230;](%C2%A7%2000504%20-%20Rehabilitation%20and%20betterment%20of%20Federal%20reclamation%20projects%2C%20including%20small%20reclamation%20projects%3B%20return%20of%20costs%3B%20interest%E2%80%A6.md)
 - [&sect; 00505 - Drainage facilities and minor construction in irrigation works; contracts with repayment organizations; limitation on costs; submission of&#8230;](%C2%A7%2000505%20-%20Drainage%20facilities%20and%20minor%20construction%20in%20irrigation%20works%3B%20contracts%20with%20repayment%20organizations%3B%20limitation%20on%20costs%3B%20submission%20of%E2%80%A6.md)
+- [&sect; 00505a - Definitions](%C2%A7%2000505a%20-%20Definitions.md)
+- [&sect; 00505a&#8211;1 - Asset Management Report enhancements for reserved works](%C2%A7%2000505a%E2%80%931%20-%20Asset%20Management%20Report%20enhancements%20for%20reserved%20works.md)
+- [&sect; 00505a&#8211;2 - Asset Management Report enhancements for transferred works](%C2%A7%2000505a%E2%80%932%20-%20Asset%20Management%20Report%20enhancements%20for%20transferred%20works.md)

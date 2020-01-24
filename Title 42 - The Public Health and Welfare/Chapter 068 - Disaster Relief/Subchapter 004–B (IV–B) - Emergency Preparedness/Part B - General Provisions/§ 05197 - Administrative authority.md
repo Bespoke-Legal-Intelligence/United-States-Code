@@ -42,7 +42,7 @@ The Administrator may prescribe such rules and regulations as may be necessary a
 
 (2) Until so satisfied, the Administrator shall either withhold the payment of any financial contribution to such State or person or limit payments to those programs or projects with respect to which there is substantial compliance with the regulations, terms, and conditions governing plans, programs, or projects hereunder.
 
-(3) As used in this subsection, the term "person" means the political subdivision of any State or combination or group thereof or any person, corporation, association, or other entity of any nature whatsoever, including instrumentalities of States and political subdivisions.
+(3) As used in this subsection, the term "person" means the political subdivision of anyState or combination or group thereof or any person, corporation, association, or other entity of any nature whatsoever, including instrumentalities of States and political subdivisions.
 
 (Pub. L. 93–288, title VI, §621, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3107; amended Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
@@ -60,7 +60,7 @@ Provisions similar to those in this section were contained in section 2253 of th
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

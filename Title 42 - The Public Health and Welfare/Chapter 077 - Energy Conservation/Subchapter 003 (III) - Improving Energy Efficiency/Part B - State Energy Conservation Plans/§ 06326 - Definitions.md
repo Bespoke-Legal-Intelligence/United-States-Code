@@ -30,7 +30,7 @@ As used in this part—
 
 &emsp;(6) The term "renewable-resource energy measure" means a measure which modifies any building or industrial plant, the construction of which has been completed prior to August 14, 1976, if such measure has been determined by means of an energy audit or by the Secretary, by rule under section 6325(e)(1) of this title, to—
 
-&emsp;&emsp;(A) involve changing, in whole or in part, the fuel or source of the energy used to meet the requirements of such building or plantfrom a depletable source of energy to a nondepletable source of energy; and
+&emsp;&emsp;(A) involve changing, in whole or in part, the fuel or source of the energy used to meet the requirements of such building or plant from a depletable source of energy to a nondepletable source of energy; and
 
 &emsp;&emsp;(B) be likely to reduce energy costs (as calculated on the basis of energy costs reasonably projected over time, as determined by the Secretary) in an amount sufficient to enable a person to recover the total cost of purchasing and installing such measure (without regard to any tax benefit or Federal financial assistance applicable thereto) within the period of—
 

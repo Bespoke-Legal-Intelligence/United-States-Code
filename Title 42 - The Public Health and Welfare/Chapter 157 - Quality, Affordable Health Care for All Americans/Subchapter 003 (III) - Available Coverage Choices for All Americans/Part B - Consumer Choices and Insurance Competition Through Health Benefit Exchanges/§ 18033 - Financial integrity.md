@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Payments made by, through, or in connection with an Exchange are subject to the False Claims Act (31 U.S.C. 3729 et seq.) if those payments include any Federal funds. Compliance with the requirements of this Act concerning eligibility for a health insurance issuer to participate in the Exchangeshall be a material condition of an issuer's entitlement to receive payments, including payments of premium tax credits and cost-sharing reductions, through the Exchange.
+&emsp;&emsp;Payments made by, through, or in connection with an Exchange are subject to the False Claims Act (31 U.S.C. 3729 et seq.) if those payments include any Federal funds. Compliance with the requirements of this Act concerning eligibility for a health insurance issuer to participate in the Exchange shall be a material condition of an issuer's entitlement to receive payments, including payments of premium tax credits and cost-sharing reductions, through the Exchange.
 
 #### (B) <sup>2</sup> Damages
 

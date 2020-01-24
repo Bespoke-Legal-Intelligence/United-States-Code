@@ -140,5 +140,5 @@ Section is comprised of section 604 of div. D of Pub. L. 108–199. Subsec. (b)(
 
 #### Amendments
 
-<b>2018</b>—Subsec. (c)(4)(B). Pub. L. 115–167 amended subpar. (B) generally. Prior to amendment, text read as follows: "Each member of the Board described in paragraph (3)(B) shall be appointed for a term of 3 years and may be reappointed for a term of an additional 2 years."
+<b>2018</b>—Subsec. (c)(4)(B). Pub. L. 115–167 amended subpar. (B) generally. Prior to amendment, text read asfollows: "Each member of the Board described in paragraph (3)(B) shall be appointed for a term of 3 years and may be reappointed for a term of an additional 2 years."
 

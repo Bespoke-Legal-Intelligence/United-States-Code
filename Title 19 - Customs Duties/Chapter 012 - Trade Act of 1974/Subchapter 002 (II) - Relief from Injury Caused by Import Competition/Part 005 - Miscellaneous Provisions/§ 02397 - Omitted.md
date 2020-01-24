@@ -10,7 +10,7 @@ Pub. L. 100–418, title I, §1430, Aug. 23, 1988, 102 Stat. 1256, as amended by
 
 "(a)
 
-In General.—Except as otherwise provided by this section, the amendments made by this part \[part3 (§§1421–1430) of subtitle D of title I of Pub. L. 100–418, enacting this section and sections 2318 and 2396 of this title, amending sections 2272, 2275, 2291 to 2293, 2295, 2296, 2311, 2317, 2341, and 2346 of this title, and amending provisions set out as a note preceding section 2271 of this title\] shall take effect on the date of enactment of this Act \[Aug. 23, 1988\].
+In General.—Except as otherwise provided by this section, the amendments made by this part \[part 3 (§§1421–1430) of subtitle D of title I of Pub. L. 100–418, enacting this section and sections 2318 and 2396 of this title, amending sections 2272, 2275, 2291 to 2293, 2295, 2296, 2311, 2317, 2341, and 2346 of this title, and amending provisions set out as a note preceding section 2271 of this title\] shall take effect on the date of enactment of this Act \[Aug. 23, 1988\].
 
 "(b)
 
@@ -38,7 +38,7 @@ Trust Fund.—The amendments made by section 1427 \[enacting section 2396 of thi
 
 "(d)
 
-Eligibility of Workers and Firms.—The amendments made by sections 1421(b) and 1424(b) \[amending sections 2272, 2296, and 2341 of this title\] shall take effect on the date that is 1 year after the first date on which the amendment made by section 1428(b) \[enacting this section\] applies with respect to any articles.
+Eligibility of Workers and Firms.—The amendments made by sections 1421(b) and 1424(b) \[amending sections 2272, 2296, and 2341 of this title\] shall take effect on the date that is 1 year after the first date onwhich the amendment made by section 1428(b) \[enacting this section\] applies with respect to any articles.
 
 "(e)
 

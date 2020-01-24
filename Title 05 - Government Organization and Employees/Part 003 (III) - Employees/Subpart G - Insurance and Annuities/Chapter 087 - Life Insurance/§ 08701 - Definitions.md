@@ -30,7 +30,7 @@
 
 &emsp;(C) an employee excluded by regulation of the Office of Personnel Management under section 8716(b) of this title.
 
-(b) Notwithstanding subsection (a) of this section, the employment of a teacher in the recess period between two school years in a position other than a teaching position in which he served immediately before the recess period does not qualify the individual as an employee for the purpose of this chapter. For the purpose of this subsection, "teacher" and "teaching position" have the meanings given them by section 901 of title 20.
+(b) Notwithstanding subsection (a) of this section, the employment of a teacher in the recess period between two school years in a positionother than a teaching position in which he served immediately before the recess period does not qualify the individual as an employee for the purpose of this chapter. For the purpose of this subsection, "teacher" and "teaching position" have the meanings given them by section 901 of title 20.
 
 (c) For the purpose of this chapter, "basic insurance amount" means, in the case of any employee under this chapter, an amount equal to the greater of—
 

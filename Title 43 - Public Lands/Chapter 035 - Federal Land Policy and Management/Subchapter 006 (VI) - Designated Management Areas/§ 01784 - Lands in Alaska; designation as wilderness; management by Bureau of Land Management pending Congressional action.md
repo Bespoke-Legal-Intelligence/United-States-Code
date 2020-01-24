@@ -46,7 +46,7 @@ Definitions.—For purposes of this section, the term—
 
 &emsp;"(1) 'ANCSA' means the Alaska Native Claims Settlement Act of 1971 (43 U.S.C. 1601 et seq.);
 
-&emsp;"(2) 'ANILCA' means the Alaska National Interest Lands Conservation Act (Public Law 96–487; 94 Stat. 2371 et seq. \[see Short Title note set out under section 3101 of Title 16, Conservation\]);
+&emsp;"(2) 'ANILCA' means the Alaska National Interest Lands Conservation Act (Public Law 96–487; 94 Stat.2371 et seq. \[see Short Title note set out under section 3101 of Title 16, Conservation\]);
 
 &emsp;"(3) 'conservation system unit' has the same meaning as in section 102(4) of ANILCA (16 U.S.C. 3102(4));
 
@@ -196,7 +196,7 @@ Access.—The Secretary shall allow the following:
 
 &emsp;&emsp;"(A) Private access for any purpose, including economic development, to lands within the boundaries of the Special Management Area which are owned by third parties or are held in trust by the Secretary for third parties pursuant to the Alaska Native Allotment Act (25 U.S.C. 336). Such rights may be subject to restrictions issued by the BLM to protect subsistence uses of the Special Management Area.
 
-&emsp;&emsp;"(B) Existing public access across the Special Management Area. Section 1110(a) of ANILCA \[16U.S.C. 3170(a)\] shall apply to the Special Management Area.
+&emsp;&emsp;"(B) Existing public access across the Special Management Area. Section 1110(a) of ANILCA \[16 U.S.C. 3170(a)\] shall apply to the Special Management Area.
 
 &emsp;"(4)
 

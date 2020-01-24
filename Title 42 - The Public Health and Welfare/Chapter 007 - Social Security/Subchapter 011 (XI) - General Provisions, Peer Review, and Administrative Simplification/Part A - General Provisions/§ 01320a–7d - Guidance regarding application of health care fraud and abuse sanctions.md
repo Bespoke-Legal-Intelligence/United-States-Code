@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(C) Whether an arrangement or proposed arrangement satisfies the criteria which the Secretary has established, or shall establish by regulation for activities which do not result in prohibited remuneration.
 
-&emsp;&emsp;(D) What constitutes an inducement to reduce or limit services to individuals entitled to benefits under subchapter XVIII or subchapter XIX within the meaning of section 1320a–7a(b) of this title.
+&emsp;&emsp;(D) What constitutes an inducement to reduce or limit services to individuals entitledto benefits under subchapter XVIII or subchapter XIX within the meaning of section 1320a–7a(b) of this title.
 
 &emsp;&emsp;(E) Whether any activity or proposed activity constitutes grounds for the imposition of a sanction under section 1320a–7, 1320a–7a, or 1320a–7b of this title.
 

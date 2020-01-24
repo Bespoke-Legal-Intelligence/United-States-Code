@@ -14,7 +14,7 @@ Notwithstanding any provision to the contrary in section 426 of this title or su
 
 &emsp;(3) has filed an application for benefits under this section;
 
-> shall, in accordance with the succeeding provisions of this section, be entitled to benefits under part A and eligible to enroll under part B of subchapter XVIII, subject to the deductible, premium, and coinsurance provisions of that subchapter.
+> shall, in accordance with the succeeding provisions of this section, be entitled to benefitsunder part A and eligible to enroll under part B of subchapter XVIII, subject to the deductible, premium, and coinsurance provisions of that subchapter.
 
 #### (b) Duration of period of entitlement
 
@@ -38,7 +38,7 @@ Notwithstanding the provisions of subsection (b)—
 
 &emsp;(2) in any case in which a kidney transplant fails (whether during or after the thirty-six-month period specified in subsection (b)(2)) and as a result the individual who received such transplant initiates or resumes a regular course of renal dialysis, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII shall begin with the month in which such course is initiated or resumed; and
 
-&emsp;(3) in any case in which a regular course of renal dialysis is resumed subsequent to thetermination of an earlier course, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII shall begin with the month in which such regular course of renal dialysis is resumed.
+&emsp;(3) in any case in which a regular course of renal dialysis is resumed subsequent to the termination of an earlier course, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII shall begin with the month in which such regular course of renal dialysis is resumed.
 
 (Aug. 14, 1935, ch. 531, title II, §226A, as added Pub. L. 95–292, §1(a), June 13, 1978, 92 Stat. 307; amended Pub. L. 97–248, title II, §278(b)(2)(C), Sept. 3, 1982, 96 Stat. 561; Pub. L. 97–448, title III, §309(b)(1), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 99–272, title XIII, §13205(b)(2)(B), Apr. 7, 1986, 100 Stat. 317; Pub. L. 103–296, title II, §201(a)(3)(D)(ii), Aug. 15, 1994, 108 Stat. 1497; Pub. L. 114–74, title VIII, §844(b), Nov. 2, 2015, 129 Stat. 617.)
 

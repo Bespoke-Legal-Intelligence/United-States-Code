@@ -2,7 +2,7 @@
 
 #### (a) Support activities
 
-The Secretary of Agriculture shall support the price of milk produced in the 48 contiguousStates through the purchase of cheese, butter, and nonfat dry milk produced from the milk.
+The Secretary of Agriculture shall support the price of milk produced in the 48 contiguous States through the purchase of cheese, butter, and nonfat dry milk produced from the milk.
 
 #### (b) Rate
 

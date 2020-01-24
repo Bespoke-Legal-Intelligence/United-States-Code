@@ -30,7 +30,7 @@ Except as provided in subsection (b), the Secretary of the Interior may use avai
 
 &emsp;&emsp;(B) administer grants under section 777e or 777m of this title;
 
-&emsp;(10) costs of travel outside the United States (except travel to Canada), by personnel whoadminister this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
+&emsp;(10) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
 
 &emsp;(11) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred; and
 
@@ -58,7 +58,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (1) In general
 
-&emsp;The Inspector General of the Department of the Interior shall procure the performance of biennial audits, in accordance with generally accepted accounting principles, of expenditures and obligations of amounts used by the Secretary of the Interior for expenses for administration incurred in implementation of this chapter.
+&emsp;The Inspector General of the Department of the Interior shall procure the performance of biennial audits, in accordance with generallyaccepted accounting principles, of expenditures and obligations of amounts used by the Secretary of the Interior for expenses for administration incurred in implementation of this chapter.
 
 #### (2) Auditor
 

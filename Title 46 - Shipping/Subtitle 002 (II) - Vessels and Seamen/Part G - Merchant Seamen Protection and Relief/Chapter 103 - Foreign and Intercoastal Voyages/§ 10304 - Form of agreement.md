@@ -14,7 +14,7 @@ It is agreed that any embezzlement, or willful or negligent destruction of any p
 
 If an individual holds himself or herself out as qualified for a duty which the individual proves incompetent to perform, the individual's wages shall be reduced in proportion to the incompetency.
 
-It also is agreed that if a seaman considers himself or herself to be aggrieved by any breach of this agreement or otherwise, the seaman shall present the complaint to the master or officer in charge of the vessel, in a quiet and orderly manner, who shall take steps that the case requires.
+It also is agreed that if a seaman considers himself or herself to be aggrieved by any breachof this agreement or otherwise, the seaman shall present the complaint to the master or officer in charge of the vessel, in a quiet and orderly manner, who shall take steps that the case requires.
 
 It also is agreed that (here any other stipulations may be inserted to which the parties agree, and that are not contrary to law).
 

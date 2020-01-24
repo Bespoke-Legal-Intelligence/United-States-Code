@@ -40,7 +40,7 @@ The Committee has the following responsibilities:
 
 &emsp;&emsp;(B) Options for integrating Federal agency budgets for countering such threats.
 
-&emsp;&emsp;(C) Means to ensure that Federal, State, and local governments have adequate capabilities to manage crises involving nuclear, radiological, biological, or chemical weapons or related materials or technologies, and tomanage the consequences of a use of such weapon or related materials or technologies, and that use of those capabilities is coordinated.
+&emsp;&emsp;(C) Means to ensure that Federal, State, and local governments have adequate capabilities to manage crises involving nuclear, radiological, biological, or chemical weapons or related materials or technologies, and to manage the consequences of a use of such weapon or related materials or technologies, and that use of those capabilities is coordinated.
 
 &emsp;&emsp;(D) Means to ensure appropriate cooperation on, and coordination of, the following:
 
@@ -62,7 +62,7 @@ The Committee has the following responsibilities:
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of this title.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of this title.
 
 #### Transfer of Functions
 

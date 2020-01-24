@@ -34,7 +34,7 @@ In this chapter:
 
 > &emsp;Such term includes a consortium of such companies or other business entities, as determined by the Secretary of Commerce.
 
-&emsp;(10) The term "manufacturing technology" means techniques and processes designed to improve manufacturing quality, productivity,and practices, including quality control, shop floor management, inventory management, and worker training, as well as manufacturing equipment and software.
+&emsp;(10) The term "manufacturing technology" means techniques and processes designed to improve manufacturing quality, productivity, and practices, including quality control, shop floor management, inventory management, and worker training, as well as manufacturing equipment and software.
 
 &emsp;(11) The term "Small Business Innovation Research Program" means the program established under the following provisions of section 9 of the Small Business Act (15 U.S.C. 638):
 
@@ -58,7 +58,7 @@ In this chapter:
 
 &emsp;(15) The term "integration" means the process of providing systems engineering and technical direction for a system for the purpose of achieving capabilities that satisfy program requirements.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661, §2491; amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, §1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered §2500 and amended Pub. L. 105–85, div. A, title III, §371(b)(3), title X, §1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903; Pub. L. 111–383, div. A, title VIII, §895(a), Jan. 7, 2011, 124 Stat. 4313; Pub. L. 114–328, div. A, title VIII, §881(b), Dec. 23, 2016, 130 Stat. 2316.)
+(Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661, §2491;amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, §1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered §2500 and amended Pub. L. 105–85, div. A, title III, §371(b)(3), title X, §1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903; Pub. L. 111–383, div. A, title VIII, §895(a), Jan. 7, 2011, 124 Stat. 4313; Pub. L. 114–328, div. A, title VIII, §881(b), Dec. 23, 2016, 130 Stat. 2316.)
 
 #### References in Text
 
@@ -116,7 +116,7 @@ Pub. L. 103–160, div. A, title XIII, §1301, Nov. 30, 1993, 107 Stat. 1783, pr
 
 #### Short Title
 
-Pub. L. 102–484, div. D, §4001, Oct. 23, 1992, 106 Stat. 2658, provided that: "This division \[div. D (§§4001–4501)of Pub. L. 102–484, see Tables for classification\] may be cited as the 'Defense Conversion, Reinvestment, and Transition Assistance Act of 1992'."
+Pub. L. 102–484, div. D, §4001, Oct. 23, 1992, 106 Stat. 2658, provided that: "This division \[div. D (§§4001–4501) of Pub. L. 102–484, see Tables for classification\] may be cited as the 'Defense Conversion, Reinvestment, and Transition Assistance Act of 1992'."
 
 #### Treatment of Interagency and State and Local Purchases When the Department of Defense Acts as Contract Intermediary for the General Services Administration
 

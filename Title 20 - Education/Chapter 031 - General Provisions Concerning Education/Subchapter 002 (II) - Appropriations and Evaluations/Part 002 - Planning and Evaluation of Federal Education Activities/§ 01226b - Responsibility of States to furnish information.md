@@ -22,7 +22,7 @@ Each report submitted under subsection (a) shall—
 
 #### (c) Delinquent or incomplete reports
 
-If the Secretary does not receive a report by the date required under subsection (a), or receives an incomplete report, the Secretary, not later than 30 days after such report is requiredto be submitted, shall take all reasonable measures to obtain the delinquent or incomplete information from the State educational agency.
+If the Secretary does not receive a report by the date required under subsection (a), or receives an incomplete report, the Secretary, not later than 30 days after such report is required to be submitted, shall take all reasonable measures to obtain the delinquent or incomplete information from the State educational agency.
 
 #### (d) Availability of information
 
@@ -63,6 +63,4 @@ Another prior section 424 of Pub. L. 90–247 was renumbered section 434, and wa
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

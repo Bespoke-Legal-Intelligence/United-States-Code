@@ -22,7 +22,7 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 &emsp;(8) collaborating with the Secretary of Agriculture and the Attorney General as provided in section 8401 of title 7;
 
-&emsp;(9) collaborating with the Secretary of Health and Human Services and the Attorney General in determining any new biological agents and toxins that shall be listed as "select agents" in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 262a of title 42;
+&emsp;(9) collaborating with the Secretary of Health and Human Services and the AttorneyGeneral in determining any new biological agents and toxins that shall be listed as "select agents" in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 262a of title 42;
 
 &emsp;(10) supporting United States leadership in science and technology;
 

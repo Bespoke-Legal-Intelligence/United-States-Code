@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may, directly or through awards to eligible entities, provide technicalassistance for developing, assisting, and coordinating parent training and information programs carried out by parent training and information centers receiving assistance under section 1471 of this title and community parent resource centers receiving assistance under section 1472 of this title.
+&emsp;The Secretary may, directly or through awards to eligible entities, provide technical assistance for developing, assisting, and coordinating parent training and information programs carried out by parent training and information centers receiving assistance under section 1471 of this title and community parent resource centers receiving assistance under section 1472 of this title.
 
 #### (2) Definition of eligible entity
 
@@ -44,7 +44,7 @@ Each eligible entity receiving an award under subsection (a) shall develop colla
 
 #### Prior Provisions
 
-A prior section 1473, Pub. L. 91–230, title VI, §673, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 139, related to personnel preparation to improve services and results for children with disabilities, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1473, Pub. L. 91–230, title VI, §673, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat.139, related to personnel preparation to improve services and results for children with disabilities, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1473, Pub. L. 91–230, title VI, §673, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1147; amended Pub. L. 101–476, title IX, §901(b)(164), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to general authority of Secretary to make grants to States for development of system to provide early intervention services for infants and toddlers with disabilities and their families, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 

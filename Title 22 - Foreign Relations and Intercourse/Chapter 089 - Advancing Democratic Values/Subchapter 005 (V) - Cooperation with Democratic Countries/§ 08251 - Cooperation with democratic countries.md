@@ -26,7 +26,7 @@ It is the sense of Congress that the United States should cooperate with other d
 
 #### (2) Detail of personnel
 
-&emsp;The Secretary is authorized to detail on a nonreimbursable basis any employee of the Department to any permanent secretariat of the Community of Democracies or to the government of any country that is a member of the Convening Group of the Community of Democracies.
+&emsp;The Secretary is authorized to detail on a nonreimbursable basis any employee of theDepartment to any permanent secretariat of the Community of Democracies or to the government of any country that is a member of the Convening Group of the Community of Democracies.
 
 #### (c) Establishment of an office for multilateral democracy promotion
 

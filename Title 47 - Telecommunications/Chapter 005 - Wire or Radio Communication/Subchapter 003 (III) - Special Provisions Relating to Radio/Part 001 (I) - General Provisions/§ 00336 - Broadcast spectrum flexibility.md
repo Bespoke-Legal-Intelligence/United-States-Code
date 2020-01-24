@@ -60,7 +60,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 #### (B) Retention of revenues
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the salaries and expenses account of the Commission shall retain as an offsetting collection such sums as may be necessary from such proceeds for the costs of developing andimplementing the program required by this section and regulating and supervising advanced television services. Such offsetting collections shall be available for obligation subject to the terms and conditions of the receiving appropriations account, and shall be deposited in such accounts on a quarterly basis.
+&emsp;&emsp;Notwithstanding subparagraph (A), the salaries and expenses account of the Commission shall retain as an offsetting collection such sums as may be necessary from such proceeds for the costs of developing and implementing the program required by this section and regulating and supervising advanced television services. Such offsetting collections shall be available for obligation subject to the terms and conditions of the receiving appropriations account, and shall be deposited in such accounts on a quarterly basis.
 
 #### (4) Report
 
@@ -122,7 +122,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 #### (4) Issuance of licenses for advanced television services to television translator stations and qualifying low-power television stations
 
-&emsp;The Commission is not required to issue any additional license for advanced televisionservices to the licensee of a class A television station under this subsection, or to any licensee of any television translator station, but shall accept a license application for such services proposing facilities that will not cause interference to the service area of any other broadcast facility applied for, protected, permitted, or authorized on the date of filing of the advanced television application. Such new license or the original license of the applicant shall be forfeited after the end of the digital television service transition period, as determined by the Commission. A licensee of a low-power television station or television translator station may, at the option of licensee, elect to convert to the provision of advanced television services on its analog channel, but shall not be required to convert to digital operation until the end of such transition period.
+&emsp;The Commission is not required to issue any additional license for advanced television services to the licensee of a class A television station under this subsection, or to any licensee of any television translator station, but shall accept a license application for such services proposing facilities that will not cause interference to the service area of any other broadcast facility applied for, protected, permitted, or authorized on the date of filing of the advanced television application. Such new license or the original license of the applicant shall be forfeited after the end of the digital television service transition period, as determined by the Commission. A licensee of a low-power television station or television translator station may, at the option of licensee, elect to convert to the provision of advanced television services on its analog channel, but shall not be required to convert to digital operation until the end of such transition period.
 
 #### (5) No preemption of section 337
 
@@ -250,7 +250,7 @@ Within 10 years after the date the Commission first issues additional licenses f
 
 (D) The Commission shall resolve any complaints of interference with television reception caused by any station providing digital data service authorized under this subsection within 60 days after the complaint is received by the Commission.
 
-(6) The Commission shall assess and collect from any low-power television station authorized to provide digital data service under this subsection an annual fee or other schedule or method of payment comparable to any fee imposed under the authority of this chapter on providers of similar services. Amounts received by the Commission under this paragraph may be retained by the Commission as an offsetting collection to the extent necessary to cover the costs of developing and implementing the pilot program authorized by this subsection, and regulating and supervising the provision of digitaldata service by low-power television stations under this subsection. Amounts received by the Commission under this paragraph in excess of any amount retained under the preceding sentence shall be deposited in the Treasury in accordance with chapter 33 of title 31.
+(6) The Commission shall assess and collect from any low-power television station authorized to provide digital data service under this subsection an annual fee or other schedule or method of payment comparable to any fee imposed under the authority of this chapter on providers of similar services. Amounts received by the Commission under this paragraph may be retained by the Commission as an offsetting collection to the extent necessary to cover the costs of developing and implementing the pilot program authorized by this subsection, and regulating and supervising the provision of digital data service by low-power television stations under this subsection. Amounts received by the Commission under this paragraph in excess of any amount retained under the preceding sentence shall be deposited in the Treasury in accordance with chapter 33 of title 31.
 
 (7) In this subsection, the term "digital data service" includes—
 
@@ -344,13 +344,13 @@ Relief Restricted.—Any paired digital allotment and assignment made under this
 
 #### Reports on Provision of Digital Data Service by Low-Power Television Stations
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title I, §143(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: "TheFederal Communications Commission shall submit a report to the Congress on June 30, 2001, and June 30, 2002, evaluating the utility of using low-power television stations to provide high-speed digital data service. The reports shall be based on the pilot projects authorized by section 336(h) of the Communications Act of 1934 (47 U.S.C. 336(h))."
+Pub. L. 106–554, §1(a)(4) \[div. B, title I, §143(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: "The Federal Communications Commission shall submit a report to the Congress on June 30, 2001, and June 30, 2002, evaluating the utility of using low-power television stations to provide high-speed digital data service. The reports shall be based on the pilot projects authorized by section 336(h) of the Communications Act of 1934 (47 U.S.C. 336(h))."
 
 #### Congressional Findings Regarding Low-Power Broadcasters
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–594, provided that: "Congress finds the following:
 
-&emsp;"(1) Since the creation of low-power television licenses by the Federal Communications Commission, a small number of license holders have operated their stations in a manner beneficial to the public good providing broadcasting to their communities that would not otherwise be available.
+&emsp;"(1) Since the creation of low-power television licenses by the Federal Communications Commission,a small number of license holders have operated their stations in a manner beneficial to the public good providing broadcasting to their communities that would not otherwise be available.
 
 &emsp;"(2) These low-power broadcasters have operated their stations in a manner consistent with the programming objectives and hours of operation of full-power broadcasters providing worthwhile services to their respective communities while under severe license limitations compared to their full-power counterparts.
 

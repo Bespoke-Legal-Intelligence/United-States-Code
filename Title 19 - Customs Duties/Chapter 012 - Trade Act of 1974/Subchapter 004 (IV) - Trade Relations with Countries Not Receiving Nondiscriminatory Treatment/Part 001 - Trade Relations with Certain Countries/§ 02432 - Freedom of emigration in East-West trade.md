@@ -2,7 +2,7 @@
 
 #### (a) Actions of nonmarket economy countries making them ineligible for normal trade relations, programs of credits, credit guarantees, or investment guarantees, or commercial agreements
 
-To assure the continued dedication of the United States to fundamental human rights, and notwithstanding any other provision of law, on or after January 3, 1975, products from any nonmarket economy country shall not be eligible to receive nondiscriminatory treatment (normal trade relations), such country shall not participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, directly or indirectly, and the President of the United States shall not conclude any commercial agreement with any such country, during the period beginning with the date on which the President determines that such country—
+To assure the continued dedication of the United States to fundamental human rights, and notwithstanding any other provision of law, on or after January 3, 1975, products from any nonmarket economy country shall not be eligible to receive nondiscriminatory treatment (normaltrade relations), such country shall not participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, directly or indirectly, and the President of the United States shall not conclude any commercial agreement with any such country, during the period beginning with the date on which the President determines that such country—
 
 &emsp;(1) denies its citizens the right or opportunity to emigrate;
 

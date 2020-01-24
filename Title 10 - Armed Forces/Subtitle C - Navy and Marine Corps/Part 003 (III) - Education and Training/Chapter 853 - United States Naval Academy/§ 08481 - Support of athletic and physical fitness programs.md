@@ -84,7 +84,7 @@ Section 8497, act Aug. 10, 1956, ch. 1041, 70A Stat. 525, provided that members 
 
 Section 8498, act Aug. 10, 1956, ch. 1041, 70A Stat. 525, related to organization during initial mobilization of units of Air National Guard of United States ordered into active Federal service. See section 12404 of this title.
 
-Section 8499, act Aug. 10, 1956, ch. 1041, 70A Stat. 525, related to application of laws governing Air Force tomembers of Air National Guard called into Federal service. See section 12405 of this title.
+Section 8499, act Aug. 10, 1956, ch. 1041, 70A Stat. 525, related to application of laws governing Air Force to members of Air National Guard called into Federal service. See section 12405 of this title.
 
 Section 8500, acts Aug. 10, 1956, ch. 1041, 70A Stat. 525; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(1), 102 Stat. 2059, authorized President to call Air National Guard units and members into Federal service. See section 12406 of this title.
 

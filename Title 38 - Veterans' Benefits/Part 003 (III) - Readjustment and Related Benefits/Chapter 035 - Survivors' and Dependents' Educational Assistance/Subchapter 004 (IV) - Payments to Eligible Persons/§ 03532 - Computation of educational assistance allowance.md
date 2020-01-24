@@ -4,7 +4,7 @@
 
 (2) The educational assistance allowance on behalf of an eligible person pursuing a program of education on less than a half-time basis shall be paid at the rate of the lesser of—
 
-&emsp;(A) the established charges for tuition and fees that the educational institution involved requires similarly circumstanced nonveterans enrolled in the same program to pay; or
+&emsp;(A) the established charges for tuition and fees that the educational institution involvedrequires similarly circumstanced nonveterans enrolled in the same program to pay; or
 
 &emsp;(B) $1,224 per month for a full-time course.
 
@@ -32,7 +32,7 @@
 
 (3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
 
-(g)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or nationaltest providing an opportunity for course credit at institutions of higher learning described in section 3501(a)(5) of this title is the amount of the fee charged for the test.
+(g)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or national test providing an opportunity for course credit at institutions of higher learning described in section 3501(a)(5) of this title is the amount of the fee charged for the test.
 
 (2) The number of months of entitlement charged in the case of any individual for a test described in paragraph (1) is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance, except for paragraph (1), such individual would otherwise be paid under this chapter.
 

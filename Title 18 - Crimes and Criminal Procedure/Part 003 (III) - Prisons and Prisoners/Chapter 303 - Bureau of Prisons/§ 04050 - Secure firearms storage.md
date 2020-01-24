@@ -10,7 +10,7 @@ Definitions.—In this section—
 
 (b)
 
-Secure Firearms Storage.—The Director of the Bureau of Prisons shall ensure that eachchief executive officer of a Federal penal or correctional institution—
+Secure Firearms Storage.—The Director of the Bureau of Prisons shall ensure that each chief executive officer of a Federal penal or correctional institution—
 
 &emsp;(1)(A) provides a secure storage area located outside of the secure perimeter of the institution for employees to store firearms; or
 

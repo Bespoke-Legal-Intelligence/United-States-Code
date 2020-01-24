@@ -46,7 +46,7 @@
 
 #### (3) Report
 
-&emsp;Not later than 18 months after March 23, 2010, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1), together with recommendations regarding—
+&emsp;Not later than 18 months after March 23, 2010, the Comptroller General shall submit to Congress a report on the study conductedunder paragraph (1), together with recommendations regarding—
 
 &emsp;&emsp;(A) the appropriate level of Federal funding that should be established for health care under the contract health services program described in paragraph (1);
 

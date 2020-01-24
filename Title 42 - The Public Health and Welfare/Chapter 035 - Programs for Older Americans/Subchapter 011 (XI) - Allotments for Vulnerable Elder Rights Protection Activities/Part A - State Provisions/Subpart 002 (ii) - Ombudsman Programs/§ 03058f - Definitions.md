@@ -26,7 +26,7 @@ As used in this subpart:
 
 &emsp;The term "resident" means an individual who resides in a long-term care facility.
 
-(Pub. L. 89–73, title VII, §711, as added Pub. L. 102–375, title VII, §702, Sept. 30, 1992, 106 Stat. 1275; amended Pub. L. 114–144, §8(b), Apr. 19, 2016, 130 Stat. 347.)
+(Pub. L. 89–73, title VII, §711, as added Pub. L. 102–375, title VII, §702, Sept. 30, 1992, 106 Stat.1275; amended Pub. L. 114–144, §8(b), Apr. 19, 2016, 130 Stat. 347.)
 
 #### Amendments
 

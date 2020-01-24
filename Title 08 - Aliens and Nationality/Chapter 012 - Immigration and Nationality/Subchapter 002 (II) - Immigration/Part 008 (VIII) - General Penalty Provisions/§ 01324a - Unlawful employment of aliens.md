@@ -40,7 +40,7 @@
 
 #### (B) Period
 
-&emsp;&emsp;The period described in this subparagraph is 3 years, or, if less, the period of time that the individual is authorized to be employed in the United States.
+&emsp;&emsp;The period described in this subparagraph is 3 years, or, if less, the period of time thatthe individual is authorized to be employed in the United States.
 
 #### (C) Liability
 
@@ -108,7 +108,7 @@ The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) are,
 
 #### (E) Authority to prohibit use of certain documents
 
-&emsp;&emsp;If the Attorney General finds, by regulation, that any document described in subparagraph (B), (C), or (D) as establishing employment authorization or identity does not reliably establish such authorization or identity or is being used fraudulently to an unacceptable degree, the Attorney General may prohibit or place conditions on its use for purposes of this subsection.
+&emsp;&emsp;If the Attorney General finds, by regulation, that any document described in subparagraph (B), (C), or (D) as establishing employment authorization or identity does not reliably establish such authorization or identity or is being used fraudulently to an unacceptable degree, the Attorney Generalmay prohibit or place conditions on its use for purposes of this subsection.
 
 #### (2) Individual attestation of employment authorization
 
@@ -186,7 +186,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (B) Using of counterfeit-resistant documents
 
-&emsp;&emsp;If the system requires that a document be presented to or examined by an employer, the document must be in a form which is resistant to counterfeiting and tampering.
+&emsp;&emsp;If the system requires that a document be presented to or examined by an employer,the document must be in a form which is resistant to counterfeiting and tampering.
 
 #### (C) Limited use of system
 
@@ -248,7 +248,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (E) General revenue funding of social security card changes
 
-&emsp;&emsp;Any costs incurred in developing and implementing any change described in subparagraph (D)(iii) for purposes of this subsectionshall not be paid for out of any trust fund established under the Social Security Act \[42 U.S.C. 301 et seq.\].
+&emsp;&emsp;Any costs incurred in developing and implementing any change described in subparagraph (D)(iii) for purposes of this subsection shall not be paid for out of any trust fund established under the Social Security Act \[42 U.S.C. 301 et seq.\].
 
 #### (4) Demonstration projects
 
@@ -322,7 +322,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (5) Order for civil money penalty for paperwork violations
 
-&emsp;With respect to a violation of subsection (a)(1)(B), the order under this subsection shall require the person or entity to pay a civil penalty in an amount of not less than $100 and not more than $1,000 for each individual with respect to whom such violation occurred. In determining the amount of the penalty, due consideration shall be given to the size of the business of the employer being charged, the good faith of the employer, the seriousness of the violation, whether or not the individual was an unauthorized alien, and the history of previous violations.
+&emsp;With respect to a violation of subsection (a)(1)(B), the order under this subsection shall require the person or entity to pay a civil penalty in an amount of not less than $100 and not more than $1,000 for each individual with respect to whom such violation occurred. In determining the amount of the penalty, due consideration shall be given to the size of the business of the employer being charged, the good faith of the employer, the seriousness of the violation, whether or not the individualwas an unauthorized alien, and the history of previous violations.
 
 #### (6) Order for prohibited indemnity bonds
 
@@ -374,11 +374,11 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;As used in this section, the term "unauthorized alien" means, with respect to the employment of an alien at a particular time, that the alien is not at that time either (A) an alien lawfully admitted for permanent residence, or (B) authorized to be so employed by this chapter or by the Attorney General.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §274A, as added Pub. L. 99–603, title I, §101(a)(1), Nov. 6, 1986, 100 Stat. 3360; amended Pub. L. 100–525,§2(a)(1), Oct. 24, 1988, 102 Stat. 2609; Pub. L. 101–649, title V, §§521(a), 538(a), Nov. 29, 1990, 104 Stat. 5053, 5056; Pub. L. 102–232, title III, §§306(b)(2), 309(b)(11), Dec. 12, 1991, 105 Stat. 1752, 1759; Pub. L. 103–416, title II, §§213, 219(z)(4), Oct. 25, 1994, 108 Stat. 4314, 4318; Pub. L. 104–208, div. C, title III, §379(a), title IV, §§411(a), 412(a)–(d), 416, Sept. 30, 1996, 110 Stat. 3009–649, 3009–666 to 3009–669; Pub. L. 108–390, §1(a), Oct. 30, 2004, 118 Stat. 2242.)
+(June 27, 1952, ch. 477, title II, ch. 8, §274A, as added Pub. L. 99–603, title I, §101(a)(1), Nov. 6, 1986, 100 Stat. 3360; amended Pub. L. 100–525, §2(a)(1), Oct. 24, 1988, 102 Stat. 2609; Pub. L. 101–649, title V, §§521(a), 538(a), Nov. 29, 1990, 104 Stat. 5053, 5056; Pub. L. 102–232, title III, §§306(b)(2), 309(b)(11), Dec. 12, 1991, 105 Stat. 1752, 1759; Pub. L. 103–416, title II, §§213, 219(z)(4), Oct. 25, 1994, 108 Stat. 4314, 4318; Pub. L. 104–208, div. C, title III, §379(a), title IV, §§411(a), 412(a)–(d), 416, Sept. 30, 1996, 110 Stat. 3009–649, 3009–666 to 3009–669; Pub. L. 108–390, §1(a), Oct. 30, 2004, 118 Stat. 2242.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(2), (5), (d)(2)(F), (G), and (h)(3), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsecs. (b)(2), (5), (d)(2)(F), (G), and (h)(3), was in the original, "this Act",meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (d)(3)(D)(iii), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -452,7 +452,7 @@ Subsec. (j)(2). Pub. L. 100–525, §2(a)(1)(H), substituted "this section" for 
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–390, §1(b), Oct. 30, 2004, 118 Stat. 2242, provided that: "The amendments made by subsection (a)\[amending this section\] shall take effect on the earlier of—
+Pub. L. 108–390, §1(b), Oct. 30, 2004, 118 Stat. 2242, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the earlier of—
 
 &emsp;"(1) the date on which final regulations implementing such amendments take effect; or
 
@@ -462,7 +462,7 @@ Pub. L. 108–390, §1(b), Oct. 30, 2004, 118 Stat. 2242, provided that: "The am
 
 Pub. L. 104–208, div. C, title III, §379(b), Sept. 30, 1996, 110 Stat. 3009–650, provided that: "The amendments made by subsection (a) \[amending this section and section 1324c of this title\] shall apply to orders issued on or after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
-Pub. L. 104–208, div. C, title IV, §411(b), Sept. 30, 1996, 110 Stat. 3009–666, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to failures occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\]."
+Pub. L. 104–208, div. C, title IV, §411(b), Sept. 30, 1996, 110 Stat. 3009–666, provided that: "The amendmentmade by subsection (a) \[amending this section\] shall apply to failures occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
 Pub. L. 104–208, div. C, title IV, §412(e), Sept. 30, 1996, 110 Stat. 3009–668, as amended by Pub. L. 105–54, §3(a), Oct. 6, 1997, 111 Stat. 1175; Pub. L. 108–156, §3(d), Dec. 3, 2003, 117 Stat. 1945, provided that:
 
@@ -548,7 +548,7 @@ References to section 274a.—Any reference in this subtitle to section 274A (or
 
 &emsp;"(4) I–9
 
-or similar form.—The term 'I–9 or similar form' means the form used for purposes of section274A(b)(1)(A) or such other form as the Secretary of Homeland Security determines to be appropriate.
+or similar form.—The term 'I–9 or similar form' means the form used for purposes of section 274A(b)(1)(A) or such other form as the Secretary of Homeland Security determines to be appropriate.
 
 &emsp;"(5)
 
@@ -864,7 +864,7 @@ Initial Response.—The confirmation system shall provide confirmation or a tent
 
 "(c)
 
-Secondary Verification Process in Case of Tentative Nonconfirmation.—In cases of tentative nonconfirmation, the Secretary of Homeland Security shall specify, in consultation with the Commissioner of Social Security and the Commissioner of the Immigration and Naturalization Service, an available secondary verification process to confirm the validity of information provided and to provide a final confirmation or nonconfirmation within 10 working days after the date of the tentative nonconfirmation. When final confirmation or nonconfirmation is provided, the confirmation system shall provide an appropriate code indicating such confirmation or nonconfirmation.
+Secondary Verification Process in Case of Tentative Nonconfirmation.—In cases of tentative nonconfirmation, the Secretary of Homeland Security shall specify, in consultation with the Commissioner ofSocial Security and the Commissioner of the Immigration and Naturalization Service, an available secondary verification process to confirm the validity of information provided and to provide a final confirmation or nonconfirmation within 10 working days after the date of the tentative nonconfirmation. When final confirmation or nonconfirmation is provided, the confirmation system shall provide an appropriate code indicating such confirmation or nonconfirmation.
 
 "(d)
 
@@ -927,6 +927,10 @@ Report on Expansion.—Not later than June 1, 2004, the Secretary of Homeland Se
 &emsp;"(1) evaluating whether the problems identified by the report submitted under subsection (a) have been substantially resolved; and
 
 &emsp;"(2) describing what actions the Secretary of Homeland Security shall take before undertaking the expansion of the E-Verify Program to all 50 States in accordance with section 401(c)(1), in order to resolve any outstanding problems raised in the report filed under subsection (a)."
+
+\[Pub. L. 116–94, div. I, title I, §101, Dec. 20, 2019, 133 Stat. 3019, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2020' for 'September 30, 2015'."\]
+
+\[Pub. L. 116–6, div. H, title I, §101, Feb. 15, 2019, 133 Stat. 475, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2019' for 'September 30, 2015'."\]
 
 \[Pub. L. 115–141, div. M, title II, §201, Mar. 23, 2018, 132 Stat. 1049, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2018' for 'September 30, 2015'."\]
 
@@ -998,7 +1002,7 @@ Pub. L. 99–603, title I, §101(e), Nov. 6, 1986, 100 Stat. 3373, provided that
 
 #### Reports on Unauthorized Alien Employment
 
-Pub. L. 99–603, title IV, §402, Nov. 6, 1986, 100 Stat. 3441, provided that: "The President shall transmit to Congress annual reports on the implementation of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\] (relating to unlawful employment ofaliens) during the first three years after its implementation. Each report shall include—
+Pub. L. 99–603, title IV, §402, Nov. 6, 1986, 100 Stat. 3441, provided that: "The President shall transmit to Congress annual reports on the implementation of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\] (relating to unlawful employment of aliens) during the first three years after its implementation. Each report shall include—
 
 &emsp;"(1) an analysis of the adequacy of the employment verification system provided under subsection (b) of that section;
 
@@ -1048,7 +1052,7 @@ Sec. 4. (a) Whenever the Secretary of Homeland Security or the Attorney General 
 
 (c) The scope of the debarment generally should be limited to those organizational units of a Federal contractor that the Secretary of Homeland Security or the Attorney General finds are not in compliance with the INA employment provisions.
 
-(d) The period of the debarment shall be for 1 year and may be extended for additional periods of 1 year if,using the procedures established pursuant to 8 U.S.C. 1324a(e), the Secretary of Homeland Security or the Attorney General determines that the organizational unit of the Federal contractor continues to be in violation of the INA employment provisions.
+(d) The period of the debarment shall be for 1 year and may be extended for additional periods of 1 year if, using the procedures established pursuant to 8 U.S.C. 1324a(e), the Secretary of Homeland Security or the Attorney General determines that the organizational unit of the Federal contractor continues to be in violation of the INA employment provisions.
 
 (e) The Administrator of General Services shall list a debarred contractor or an organizational unit thereof on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs and the contractor or an organizational unit thereof shall be ineligible to participate in any procurement or nonprocurement activities.
 

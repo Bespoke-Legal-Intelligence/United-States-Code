@@ -22,7 +22,7 @@ Subcontract.—
 
 &emsp;&emsp;(A)
 
-Definition.—In this paragraph, the term "subcontract" includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
+Definition.—In this paragraph, the term "subcontract" includes a transfer of commercial products or commercial services between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
 
 &emsp;&emsp;(B)
 
@@ -32,7 +32,7 @@ When standards are to be used.—Cost accounting standards prescribed under this
 
 Nonapplication of standards.—Subparagraph (B) does not apply to—
 
-&emsp;&emsp;&emsp;(i) a contract or subcontract for the acquisition of a commercial item;
+&emsp;&emsp;&emsp;(i) a contract or subcontract for the acquisition of a commercial product or commercial service;
 
 &emsp;&emsp;&emsp;(ii) a contract or subcontract where the price negotiated is based on a price set by law or regulation;
 
@@ -56,7 +56,7 @@ Waiver by head of executive agency.—
 
 In general.—The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract with a value of less than $100,000,000 if that official determines in writing that the segment of the contractor or subcontractor that will perform the work—
 
-&emsp;&emsp;&emsp;(i) is primarily engaged in the sale of commercial items; and
+&emsp;&emsp;&emsp;(i) is primarily engaged in the sale of commercial products or commercial services; and
 
 &emsp;&emsp;&emsp;(ii) would not otherwise be subject to the cost accounting standards under this section.
 
@@ -123,18 +123,6 @@ Implementing Regulations.—The Board shall prescribe regulations for the implem
 Nonapplicability of Certain Sections of Title 5.—Functions exercised under this chapter are not subject to sections 551, 553 to 559, and 701 to 706 of title 5.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3696; Pub. L. 114–328, div. A, title VIII, §820(a)(2), Dec. 23, 2016, 130 Stat. 2274; Pub. L. 115–232, div. A, title VIII, §836(b)(1), Aug. 13, 2018, 132 Stat. 1860.)
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(1), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (1)(A), by striking "commercial items" and inserting "commercial products or commercial services";</i>
-
-<i>(2) in paragraph (1)(C)(i), by striking "commercial item" and inserting "commercial product or commercial service"; and</i>
-
-<i>(3) in paragraph (3)(A)(i), by striking "commercial items" and inserting "commercial products or commercial services".</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -208,7 +196,7 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–328 effective on Oct. 1, 2018, see section 820(d) of Pub. L. 114–328, set out as an Effective Date note under section 190 of Title 10, Armed Forces.
+Amendment by Pub. L. 114–328 effective Oct. 1, 2018, see section 820(d) of Pub. L. 114–328, set out as a note under section 1501 of this title.
 
 #### Effective Date of Amendment by Pub. L. 106–65; Regulations; Implementation; Construction
 
@@ -240,7 +228,7 @@ Implementation of Requirements for Revision of Regulations.—(1) Final regulati
 
 "(g)
 
-Inapplicability of Standards to Certain Contracts.—The cost accounting standards issued pursuant to section 26(f) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 422(f)) \[now 41U.S.C. 1502(a), (b)\], as amended by this section, shall not apply during fiscal year 2000 with respect to a contract entered into under the authority provided in chapter 89 of title 5, United States Code (relating to health benefits for Federal employees).
+Inapplicability of Standards to Certain Contracts.—The cost accounting standards issued pursuant to section 26(f) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 422(f)) \[now 41 U.S.C. 1502(a), (b)\], as amended by this section, shall not apply during fiscal year 2000 with respect to a contract entered into under the authority provided in chapter 89 of title 5, United States Code (relating to health benefits for Federal employees).
 
 "(h)
 

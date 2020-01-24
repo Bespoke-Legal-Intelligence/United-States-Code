@@ -38,7 +38,7 @@ Assignment of space within judicial branch.—The Director may assign space made
 
 &emsp;(2)
 
-Vacating occupied space.—When the Chief Justice notifies the Architect that the judicial branch requires additional space in the Building and other improvements, the Architect shall accommodate those requirements within 90 days after the date of the notification, except that if the space was made available to the Administrator of General Services, it shall be vacated expeditiously by not later than a date the Chief Justice and the Administrator agree on.
+Vacating occupied space.—When the Chief Justice notifies the Architect that thejudicial branch requires additional space in the Building and other improvements, the Architect shall accommodate those requirements within 90 days after the date of the notification, except that if the space was made available to the Administrator of General Services, it shall be vacated expeditiously by not later than a date the Chief Justice and the Administrator agree on.
 
 &emsp;(3)
 
@@ -70,7 +70,7 @@ Rental rate.—Space subleased by the Architect under subsection (a)(3) is subje
 
 &emsp;(2)
 
-Limitation.—A sublease under subsection (a)(3) must be compatible with the dignity and functions of the judicial branch offices housed in the Building and must not unduly interferewith the activities and operations of the judicial branch agencies housed in the Building. Sections 5104(c) and 5108 of this title do not apply to any space in the Building and other improvements subleased to a non-Government tenant under subsection (a)(3).
+Limitation.—A sublease under subsection (a)(3) must be compatible with the dignity and functions of the judicial branch offices housed in the Building and must not unduly interfere with the activities and operations of the judicial branch agencies housed in the Building. Sections 5104(c) and 5108 of this title do not apply to any space in the Building and other improvements subleased to a non-Government tenant under subsection (a)(3).
 
 &emsp;(3)
 

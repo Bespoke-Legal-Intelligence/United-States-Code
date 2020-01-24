@@ -28,7 +28,7 @@
 
 &emsp;(A) remain in the service of the agency for a period specified in the agreement (not less than 3 years), unless involuntarily separated; and
 
-&emsp;(B) if separated involuntarily on account of misconduct, or voluntarily, before the end of the period specified in the agreement, repay to the Government the amount of any benefits received by such employee from that agency under this section.
+&emsp;(B) if separated involuntarily on account of misconduct, or voluntarily, before the end of the period specified in the agreement, repay to the Government the amount of any benefitsreceived by such employee from that agency under this section.
 
 (2) The payment agreed to under paragraph (1)(B) of this subsection may not be required of an employee who leaves the service of such employee's agency voluntarily to enter into the service of any other agency unless the head of the agency that authorized the benefits notifies the employee before the effective date of such employee's entrance into the service of the other agency that payment will be required under this subsection.
 
@@ -42,7 +42,7 @@
 
 (4) Any amount repaid by, or recovered from, an individual (or an estate) under this subsection shall be credited to the appropriation account from which the amount involved was originally paid. Any amount so credited shall be merged with other sums in such account and shall be available for the same purposes and period, and subject to the same limitations (if any), as the sums with which merged.
 
-(d) An employee receiving benefits under this section from an agency shall be ineligible forcontinued benefits under this section from such agency if the employee—
+(d) An employee receiving benefits under this section from an agency shall be ineligible for continued benefits under this section from such agency if the employee—
 
 &emsp;(1) separates from such agency; or
 
@@ -114,7 +114,7 @@ Pub. L. 110–315, title IX, §961, Aug. 14, 2008, 122 Stat. 3473, provided that
 
 &emsp;"(1) a public or private institution of higher education may provide an officer or employee of any branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, who is a current or former student of such institution, financial assistance for the purpose of repaying a student loan or providing forbearance of student loan repayment if—
 
-&emsp;&emsp;"(A) such repayment or forbearance is provided to such officer or employee in accordance with a written, published policy of the institution relating to repaying or providing forbearance, respectively, forstudents or former students who perform public service; and
+&emsp;&emsp;"(A) such repayment or forbearance is provided to such officer or employee in accordance with a written, published policy of the institution relating to repaying or providing forbearance, respectively, for students or former students who perform public service; and
 
 &emsp;&emsp;"(B) in the case of a former student of the institution of higher education, the policy described in subparagraph (A) was in effect at the institution of higher education on the day before the date such officer or employee graduated from or otherwise ceased being a student at such institution; and
 

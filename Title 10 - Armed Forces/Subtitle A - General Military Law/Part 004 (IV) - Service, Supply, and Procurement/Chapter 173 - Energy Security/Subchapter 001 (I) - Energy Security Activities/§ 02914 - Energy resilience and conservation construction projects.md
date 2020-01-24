@@ -16,7 +16,7 @@ Congressional Notification.—(1) When a decision is made to carry out a project
 
 (c)
 
-Annual Report.—Not later than 90 days after the end of each fiscal year (beginning with fiscal year 2017), the Secretary of Defense shall submit to the appropriate committees of Congress a report on the status of the planned and active projects carried out under this section (including completed projects), and shall include in the report with respect to each such project the following information:
+Annual Report.—Not later than 90 days after the end of each fiscal year (beginning with fiscal year 2017), the Secretary of Defense shall submit to the appropriate committees of Congress a report on the status of the planned and active projects carried out under this section (including completed projects), and shall includein the report with respect to each such project the following information:
 
 &emsp;(1) The title, location, a brief description of the scope of work, the original project cost estimate, and the current working cost estimate.
 

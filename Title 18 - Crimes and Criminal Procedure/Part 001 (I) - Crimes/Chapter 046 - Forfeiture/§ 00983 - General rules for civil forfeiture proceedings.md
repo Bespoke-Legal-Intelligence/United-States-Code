@@ -36,7 +36,7 @@ Notice; Claim; Complaint.—
 
 &emsp;(E) Each of the Federal seizing agencies conducting nonjudicial forfeitures under this section shall report periodically to the Committees on the Judiciary of the House of Representatives and the Senate the number of occasions when an extension of time is granted under subparagraph (B).
 
-&emsp;(F) If the Government does not send notice of a seizure of property in accordance with subparagraph (A) to the person from whom the property was seized, and no extension of time is granted, the Government shall return the property to that person without prejudice to the right of the Government to commence a forfeiture proceeding at a later time. The Government shall not be required to return contraband or other property that the person from whom the property was seized may not legally possess.
+&emsp;(F) If the Government does not send notice of a seizure of property in accordance with subparagraph (A) to the person from whom the property was seized, and no extension of timeis granted, the Government shall return the property to that person without prejudice to the right of the Government to commence a forfeiture proceeding at a later time. The Government shall not be required to return contraband or other property that the person from whom the property was seized may not legally possess.
 
 &emsp;(2)(A) Any person claiming property seized in a nonjudicial civil forfeiture proceeding under a civil forfeiture statute may file a claim with the appropriate official after the seizure.
 
@@ -88,7 +88,7 @@ Representation.—
 
 &emsp;&emsp;(ii) whether the claim appears to be made in good faith.
 
-&emsp;(2)(A) If a person with standing to contest the forfeiture of property in a judicial civil forfeiture proceeding under a civil forfeiture statute is financially unable to obtain representation by counsel, and the property subject to forfeiture is real property that is being used by the person as a primary residence, thecourt, at the request of the person, shall insure that the person is represented by an attorney for the Legal Services Corporation with respect to the claim.
+&emsp;(2)(A) If a person with standing to contest the forfeiture of property in a judicial civil forfeiture proceeding under a civil forfeiture statute is financially unable to obtain representation by counsel, and the property subject to forfeiture is real property that is being used by the person as a primary residence, the court, at the request of the person, shall insure that the person is represented by an attorney for the Legal Services Corporation with respect to the claim.
 
 &emsp;(B)(i) At appropriate times during a representation under subparagraph (A), the Legal Services Corporation shall submit a statement of reasonable attorney fees and costs to the court.
 
@@ -306,11 +306,11 @@ Restraining Orders; Protective Orders.—
 
 &emsp;(2) An order entered pursuant to paragraph (1)(B) shall be effective for not more than 90 days, unless extended by the court for good cause shown, or unless a complaint described in paragraph (1)(A) has been filed.
 
-&emsp;(3) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when a complaint has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought is subject to civil forfeiture and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 14 days afterthe date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
+&emsp;(3) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when a complaint has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought is subject to civil forfeiture and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 14 days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
 
 &emsp;(4) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
-(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561, §3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, §316(d), Oct. 26, 2001, 115 Stat. 310; Pub. L. 111–16, §3(1), May 7, 2009, 123 Stat. 1607; Pub. L. 114–122, title I, §105(b), Feb. 18, 2016, 130 Stat. 101.)
+(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561, §3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, §316(d), Oct. 26, 2001, 115 Stat. 310; Pub.L. 111–16, §3(1), May 7, 2009, 123 Stat. 1607; Pub. L. 114–122, title I, §105(b), Feb. 18, 2016, 130 Stat. 101.)
 
 #### References in Text
 

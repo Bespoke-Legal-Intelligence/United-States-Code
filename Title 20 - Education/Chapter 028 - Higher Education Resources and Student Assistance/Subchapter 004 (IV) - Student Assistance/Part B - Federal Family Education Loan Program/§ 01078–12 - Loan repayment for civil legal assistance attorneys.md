@@ -16,7 +16,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) a nonprofit organization that provides legal assistance with respect to civil matters to low-income individuals without a fee; or
 
-&emsp;&emsp;&emsp;(ii) a protection and advocacy system or client assistance program that provides legal assistance with respect to civil matters and receives funding under—
+&emsp;&emsp;&emsp;(ii) a protection and advocacy system or client assistance program that provideslegal assistance with respect to civil matters and receives funding under—
 
 &emsp;&emsp;&emsp;&emsp;(I) subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.);
 
@@ -104,7 +104,7 @@ From amounts appropriated under subsection (i) for a fiscal year, the Secretary 
 
 #### (A) Student loan payment amount
 
-&emsp;&emsp;Student loan repayments made by the Secretary under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed upon by theborrower and the Secretary in an agreement under paragraph (1), except that the amount paid by the Secretary under this section shall not exceed—
+&emsp;&emsp;Student loan repayments made by the Secretary under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed upon by the borrower and the Secretary in an agreement under paragraph (1), except that the amount paid by the Secretary under this section shall not exceed—
 
 &emsp;&emsp;&emsp;(i) $6,000 for any borrower in any calendar year; or
 
@@ -118,7 +118,7 @@ From amounts appropriated under subsection (i) for a fiscal year, the Secretary 
 
 #### (1) In general
 
-&emsp;On completion of the required period of service under an agreement under subsection (d), the borrower and the Secretary may, subject to paragraph (2), enter into an additional agreement in accordance with subsection (d).
+&emsp;On completion of the required period of service under an agreement under subsection (d),the borrower and the Secretary may, subject to paragraph (2), enter into an additional agreement in accordance with subsection (d).
 
 #### (2) Term
 

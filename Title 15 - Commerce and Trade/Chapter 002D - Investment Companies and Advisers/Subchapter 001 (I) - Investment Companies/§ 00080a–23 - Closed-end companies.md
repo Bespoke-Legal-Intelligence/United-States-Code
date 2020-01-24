@@ -16,7 +16,7 @@ No registered closed-end company shall purchase any securities of any class of w
 
 &emsp;(2) pursuant to tenders, after reasonable opportunity to submit tenders given to all holders of securities of the class to be purchased; or
 
-&emsp;(3) under such other circumstances as the Commission may permit by rules and regulations or orders for the protection of investors in order to insure that such purchases are made in a manner or on a basis which does not unfairly discriminate against any holders of the class or classes of securities to be purchased.
+&emsp;(3) under such other circumstances as the Commission may permit by rules and regulations or orders for the protection of investors in order to insure that such purchases aremade in a manner or on a basis which does not unfairly discriminate against any holders of the class or classes of securities to be purchased.
 
 (Aug. 22, 1940, ch. 686, title I, §23, 54 Stat. 825.)
 
@@ -30,7 +30,7 @@ Pub. L. 115–174, title V, §509, May 24, 2018, 132 Stat. 1364, provided that:
 
 "(a)
 
-Revision to Rules.—Not later than the end of the 1-year period beginning on the date of enactment of this Act \[May 24, 2018\], the Securities and Exchange Commission shall propose and, not later than 2 years after the date of enactment of this Act, the Securities and Exchange Commission shall finalize any rules, as appropriate, to allow any closed-end company, as defined in section 5(a)(2) of the Investment Company Act of 1940 (15 U.S.C. 80a–5), that is registered as an investment company under such Act \[15 U.S.C. 80a–1 et seq.\], and is listed on a national securities exchange or that makes periodic repurchase offers pursuant to section270.23c–3 of title 17, Code of Federal Regulations, to use the securities offering and proxy rules, subject to conditions the Commission determines appropriate, that are available to other issuers that are required to file reports under section 13 or section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m; 78o(d)). Any action that the Commission takes pursuant to this subsection shall consider the availability of information to investors, including what disclosures constitute adequate information to be designated as a 'well-known seasoned issuer'.
+Revision to Rules.—Not later than the end of the 1-year period beginning on the date of enactment of this Act \[May 24, 2018\], the Securities and Exchange Commission shall propose and, not later than 2 years after the date of enactment of this Act, the Securities and Exchange Commission shall finalize any rules, as appropriate, to allow any closed-end company, as defined in section 5(a)(2) of the Investment Company Act of 1940 (15 U.S.C. 80a–5), that is registered as an investment company under such Act \[15 U.S.C. 80a–1 et seq.\], and is listed on a national securities exchange or that makes periodic repurchase offers pursuant to section 270.23c–3 of title 17, Code of Federal Regulations, to use the securities offering and proxy rules, subject to conditions the Commission determines appropriate, that are available to other issuers that are required to file reports under section 13 or section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m; 78o(d)). Any action that the Commission takes pursuant to this subsection shall consider the availability of information to investors, including what disclosures constitute adequate information to be designated as a 'well-known seasoned issuer'.
 
 "(b)
 

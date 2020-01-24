@@ -8,5 +8,5 @@ A vacancy in the office of trustee during a case does not abate any pending acti
 
 #### senate report no. 95–989
 
-Section 325, derived from Bankruptcy Act section 46 \[section 74 of former title 11\] and Bankruptcy Rule221(b), specifies that a vacancy in the office of trustee during a case does not abate any pending action or proceeding. The successor trustee, when selected and qualified, is substituted as a party in any pending action or proceeding.
+Section 325, derived from Bankruptcy Act section 46 \[section 74 of former title 11\] and Bankruptcy Rule 221(b), specifies that a vacancy in the office of trustee during a case does not abate any pending action or proceeding. The successor trustee, when selected and qualified, is substituted as a party in any pending action or proceeding.
 

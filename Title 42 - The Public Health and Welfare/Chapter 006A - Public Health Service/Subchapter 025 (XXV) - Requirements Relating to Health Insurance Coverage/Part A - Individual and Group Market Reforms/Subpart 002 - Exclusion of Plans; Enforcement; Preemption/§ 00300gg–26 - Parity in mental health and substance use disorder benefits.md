@@ -8,7 +8,7 @@
 
 #### (A) No lifetime limit
 
-&emsp;&emsp;If the plan or coverage does not include an aggregate lifetime limit on substantially all medical and surgical benefits, the plan or coverage may not impose any aggregate lifetime limit on mental health or substance use disorder benefits.
+&emsp;&emsp;If the plan or coverage does not include an aggregate lifetime limit on substantially allmedical and surgical benefits, the plan or coverage may not impose any aggregate lifetime limit on mental health or substance use disorder benefits.
 
 #### (B) Lifetime limit
 
@@ -70,7 +70,7 @@
 
 #### (4) Availability of plan information
 
-&emsp;The criteria for medical necessity determinations made under the plan with respect to mental health or substance use disorder benefits (or the health insurance coverage offered in connection with the plan with respect to such benefits) shall be made available by the plan administrator (or the health insurance issuer offering such coverage) in accordance with regulations to any current or potential participant, beneficiary, or contracting provider upon request. The reason for any denial under the plan (or coverage) of reimbursement or payment for services with respect to mental health or substance use disorder benefits in the case of any participant or beneficiary shall, on request or as otherwise required, be made available by the plan administrator (or the health insurance issuer offering such coverage) to the participant or beneficiary in accordance with regulations.
+&emsp;The criteria for medical necessity determinations made under the plan with respect tomental health or substance use disorder benefits (or the health insurance coverage offered in connection with the plan with respect to such benefits) shall be made available by the plan administrator (or the health insurance issuer offering such coverage) in accordance with regulations to any current or potential participant, beneficiary, or contracting provider upon request. The reason for any denial under the plan (or coverage) of reimbursement or payment for services with respect to mental health or substance use disorder benefits in the case of any participant or beneficiary shall, on request or as otherwise required, be made available by the plan administrator (or the health insurance issuer offering such coverage) to the participant or beneficiary in accordance with regulations.
 
 #### (5) Out-of-network providers
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) network admission standards (such as credentialing); and
 
-&emsp;&emsp;&emsp;&emsp;(II) factors used in provider reimbursement methodologies (such as service type, geographic market, demand for services, and provider supply, practice size, training, experience, and licensure)as such factors apply to network adequacy;
+&emsp;&emsp;&emsp;&emsp;(II) factors used in provider reimbursement methodologies (such as service type, geographic market, demand for services, and provider supply, practice size, training, experience, and licensure) as such factors apply to network adequacy;
 
 &emsp;&emsp;&emsp;(iii) examples of sources of information that may serve as evidentiary standards for the purposes of making determinations regarding the development and application of nonquantitative treatment limitations;
 
@@ -210,7 +210,7 @@ Nothing in this section shall be construed—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A group health plan (or a health insurance issuer offering coverage in connectionwith a group health plan) that, based upon a certification described under subparagraph (C), qualifies for an exemption under this paragraph, and elects to implement the exemption, shall promptly notify the Secretary, the appropriate State agencies, and participants and beneficiaries in the plan of such election.
+&emsp;&emsp;&emsp;A group health plan (or a health insurance issuer offering coverage in connection with a group health plan) that, based upon a certification described under subparagraph (C), qualifies for an exemption under this paragraph, and elects to implement the exemption, shall promptly notify the Secretary, the appropriate State agencies, and participants and beneficiaries in the plan of such election.
 
 #### (ii) Requirement
 
@@ -290,7 +290,7 @@ Subsec. (b)(1). Pub. L. 110–343, §512(b)(7), substituted "mental health or su
 
 Subsec. (b)(2). Pub. L. 110–343, §512(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "in the case of a group health plan (or health insurance coverage offered in connection with such a plan) that provides mental health benefits, as affecting the terms and conditions (including cost sharing, limits on numbers of visits or days of coverage, and requirements relating to medical necessity) relating to the amount, duration, or scope of mental health benefits under the plan or coverage, except as specifically provided in subsection (a) of this section (in regard to parity in the imposition of aggregate lifetime limits and annual limits for mental health benefits)."
 
-Subsec. (c)(1). Pub. L. 110–343, §512(b)(3)(A), inserted "(as defined in section 300gg–91(e)(4) of this title, except that for purposes of this paragraph such term shall include employers with 1 employee in the case of an employer residing in a State that permits small groups to include a single individual)" before period at end.
+Subsec. (c)(1). Pub. L. 110–343, §512(b)(3)(A), inserted "(as defined in section 300gg–91(e)(4) of this title, exceptthat for purposes of this paragraph such term shall include employers with 1 employee in the case of an employer residing in a State that permits small groups to include a single individual)" before period at end.
 
 Subsec. (c)(2). Pub. L. 110–343, §512(b)(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "This section shall not apply with respect to a group health plan (or health insurance coverage offered in connection with a group health plan) if the application of this section to such plan (or to such coverage) results in an increase in the cost under the plan (or for such coverage) of at least 1 percent."
 
@@ -354,7 +354,7 @@ Pub. L. 114–255, div. B, title XIII, §13001(d), Dec. 13, 2016, 130 Stat. 1283
 
 "(1)
 
-In general.—In the case that the Secretary of Health and Human Services, the Secretary of Labor, or the Secretary of the Treasury determines that a group health plan or health insurance issuer offering group orindividual health insurance coverage has violated, at least 5 times, section 2726 of the Public Health Service Act (42 U.S.C. 300gg–26), section 712 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185a), or section 9812 of the Internal Revenue Code of 1986 \[26 U.S.C. 9812\], respectively, the appropriate Secretary shall audit plan documents for such health plan or issuer in the plan year following the Secretary's determination in order to help improve compliance with such section.
+In general.—In the case that the Secretary of Health and Human Services, the Secretary of Labor, or the Secretary of the Treasury determines that a group health plan or health insurance issuer offering group or individual health insurance coverage has violated, at least 5 times, section 2726 of the Public Health Service Act (42 U.S.C. 300gg–26), section 712 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185a), or section 9812 of the Internal Revenue Code of 1986 \[26 U.S.C. 9812\], respectively, the appropriate Secretary shall audit plan documents for such health plan or issuer in the plan year following the Secretary's determination in order to help improve compliance with such section.
 
 "(2)
 
@@ -368,7 +368,7 @@ Pub. L. 114–255, div. B, title XIII, §13007, Dec. 13, 2016, 130 Stat. 1287, p
 
 Pub. L. 110–343, div. C, title V, §512(f), Oct. 3, 2008, 122 Stat. 3892, provided that: "The Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury may ensure, through the execution or revision of an interagency memorandum of understanding among such Secretaries, that—
 
-&emsp;"(1) regulations, rulings, and interpretations issued by such Secretaries relating to the same matter over which two or more such Secretaries have responsibility under this section \[amending this section, section 9812 of Title 26, Internal Revenue Code, and section 1185a of Title 29, Labor, and enacting provisions set out as notes under this section\] (and the amendments made by this section) are administered so as to have the same effect at all times; and
+&emsp;"(1) regulations, rulings, and interpretations issued by such Secretaries relating to the same matter over which two or more such Secretaries have responsibility under this section \[amending this section, section9812 of Title 26, Internal Revenue Code, and section 1185a of Title 29, Labor, and enacting provisions set out as notes under this section\] (and the amendments made by this section) are administered so as to have the same effect at all times; and
 
 &emsp;"(2) coordination of policies relating to enforcing the same requirements through such Secretaries in order to have a coordinated enforcement strategy that avoids duplication of enforcement efforts and assigns priorities in enforcement."
 

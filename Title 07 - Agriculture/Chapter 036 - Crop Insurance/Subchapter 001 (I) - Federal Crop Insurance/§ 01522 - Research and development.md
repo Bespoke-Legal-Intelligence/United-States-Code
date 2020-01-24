@@ -20,7 +20,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (ii) Reasonable costs
 
-&emsp;&emsp;&emsp;For the purpose of reimbursing research and development and maintenance costs under this section, costs of the applicant shall be considered reasonable costs if the costs are based on—
+&emsp;&emsp;&emsp;For the purpose of reimbursing research and development and maintenance costsunder this section, costs of the applicant shall be considered reasonable costs if the costs are based on—
 
 &emsp;&emsp;&emsp;&emsp;(I) for any employees or contracted personnel, wage rates equal to not more than 2 times the hourly wage rate plus benefits, as provided by the Bureau of Labor Statistics for the year in which such costs are incurred, calculated using the formula applied to an applicant by the Corporation in reviewing proposed project budgets under this section on October 1, 2016; and
 
@@ -92,7 +92,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (F) Submission of policy
 
-&emsp;&emsp;If the Board approves an advanced payment under subparagraph (E), the Board shall establish a date by which the applicant shall present a submission in compliancewith section 1508(h) of this title (including the procedures implemented under that section) to the Board for approval.
+&emsp;&emsp;If the Board approves an advanced payment under subparagraph (E), the Boardshall establish a date by which the applicant shall present a submission in compliance with section 1508(h) of this title (including the procedures implemented under that section) to the Board for approval.
 
 #### (G) Final payment
 
@@ -182,7 +182,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (5) Treatment of payment
 
-&emsp;Payments made under this subsection for a policy shall be considered as payment in full by the Corporation for the research and development conducted with regard to the policy and any property rights to the policy.
+&emsp;Payments made under this subsection for a policy shall be considered as payment in fullby the Corporation for the research and development conducted with regard to the policy and any property rights to the policy.
 
 #### (6) Reimbursement amount
 

@@ -38,7 +38,7 @@ The notice provided under subsection (a) shall include—
 
 &emsp;(3) a suggestion for the beneficiary to talk to a physician regarding opioid use and pain management.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1804, as added Pub. L. 100–360, title II, §223(a), July 1, 1988, 102 Stat. 747; amended Pub. L. 103–432, title I, §171(j)(1), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 105–33, title IV, §4311(a)(1), Aug. 5, 1997, 111 Stat. 384; Pub. L. 108–173, title IX, §923(d)(1), Dec. 8, 2003, 117 Stat. 2394; Pub. L. 115–271, title VI, §6021(a), Oct. 24, 2018, 132 Stat. 3977.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1804, as added Pub. L. 100–360, title II, §223(a), July 1, 1988, 102Stat. 747; amended Pub. L. 103–432, title I, §171(j)(1), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 105–33, title IV, §4311(a)(1), Aug. 5, 1997, 111 Stat. 384; Pub. L. 108–173, title IX, §923(d)(1), Dec. 8, 2003, 117 Stat. 2394; Pub. L. 115–271, title VI, §6021(a), Oct. 24, 2018, 132 Stat. 3977.)
 
 #### Amendments
 
@@ -88,7 +88,7 @@ Pub. L. 101–508, title IV, §4361(b), Nov. 5, 1990, 104 Stat. 1388–141, prov
 
 #### Notice of Changes Under Repeal of Medicare Catastrophic Coverage
 
-Pub. L. 101–234, title II, §203(c), Dec. 13, 1989, 103 Stat. 1984, provided that: "The Secretary of Health and Human Services shall provide, in the notice of medicare benefits provided under section 1804 of the Social Security Act \[42 U.S.C. 1395b–2\] for 1990, for a description of the changes in benefits under title XVIII of suchAct \[42 U.S.C. 1395 et seq.\] made by the amendments made by this Act \[see Tables for classification\]."
+Pub. L. 101–234, title II, §203(c), Dec. 13, 1989, 103 Stat. 1984, provided that: "The Secretary of Health and Human Services shall provide, in the notice of medicare benefits provided under section 1804 of the Social Security Act \[42 U.S.C. 1395b–2\] for 1990, for a description of the changes in benefits under title XVIII of such Act \[42 U.S.C. 1395 et seq.\] made by the amendments made by this Act \[see Tables for classification\]."
 
 #### Benefits Counseling and Assistance Demonstration Project for Certain Medicare and Medicaid Beneficiaries
 

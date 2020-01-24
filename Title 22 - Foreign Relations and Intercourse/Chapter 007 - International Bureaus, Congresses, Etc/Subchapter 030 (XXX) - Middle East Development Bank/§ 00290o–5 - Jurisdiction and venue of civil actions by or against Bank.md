@@ -6,7 +6,7 @@ The United States district courts shall have original and exclusive jurisdiction
 
 #### (b) Venue
 
-For purposes of section 1391(b) of title 28, the Bank shall be deemed to be a resident of the judicial district in which the principal office ofthe Bank in the United States, or its agent appointed for the purpose of accepting service or notice of service, is located.
+For purposes of section 1391(b) of title 28, the Bank shall be deemed to be a resident of the judicial district in which the principal office of the Bank in the United States, or its agent appointed for the purpose of accepting service or notice of service, is located.
 
 (Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §707\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–180.)
 

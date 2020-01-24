@@ -22,7 +22,7 @@ The words "not in Federal service" are substituted for the words "Except in orga
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163 substituted "States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands" for "States and Territories, Puerto Rico, and the District of Columbia".
+<b>2006</b>—Pub. L. 109–163 substituted "States, the Commonwealth of Puerto Rico, the District of Columbia,Guam, and the Virgin Islands" for "States and Territories, Puerto Rico, and the District of Columbia".
 
 <b>2002</b>—Pub. L. 107–314 inserted at end "Punishments shall be as provided by the laws of the respective States and Territories, Puerto Rico, and the District of Columbia."
 

@@ -24,7 +24,7 @@
 
 &emsp;(3) the terms "specified unlawful activity" and "proceeds" shall have the meaning given those terms in section 1956 of this title.
 
-(Added Pub. L. 99–570, title I, §1352(a), Oct. 27, 1986, 100 Stat. 3207–21; amended Pub. L. 100–690,title VI, §§6182, 6184, 6469(a)(2), Nov. 18, 1988, 102 Stat. 4354, 4377; Pub. L. 102–550, title XV, §§1526(b), 1527(b), Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXIII, §330020, Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §413(c)(2), Sept. 23, 1994, 108 Stat. 2255; Pub. L. 109–177, title IV, §403(c)(2), Mar. 9, 2006, 120 Stat. 243; Pub. L. 111–21, §2(f)(2), May 20, 2009, 123 Stat. 1618; Pub. L. 112–186, §4(b)(2), Oct. 5, 2012, 126 Stat. 1429.)
+(Added Pub. L. 99–570, title I, §1352(a), Oct. 27, 1986, 100 Stat. 3207–21; amended Pub. L. 100–690, title VI, §§6182, 6184, 6469(a)(2), Nov. 18, 1988, 102 Stat. 4354, 4377; Pub. L. 102–550, title XV, §§1526(b), 1527(b), Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXIII, §330020, Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §413(c)(2), Sept. 23, 1994, 108 Stat. 2255; Pub. L. 109–177, title IV, §403(c)(2), Mar. 9, 2006, 120 Stat. 243; Pub. L. 111–21, §2(f)(2), May 20, 2009, 123 Stat. 1618; Pub. L. 112–186, §4(b)(2), Oct. 5, 2012, 126 Stat. 1429.)
 
 #### Amendments
 
@@ -32,7 +32,7 @@
 
 <b>2009</b>—Subsec. (f)(3). Pub. L. 111–21 added par. (3) and struck out former par. (3) which read as follows: "the term 'specified unlawful activity' has the meaning given that term in section 1956 of this title."
 
-<b>2006</b>—Subsec. (e). Pub. L. 109–177 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Violations of this section may be investigated by such components of the Department of Justice as the Attorney General may direct, and by such components of the Department of the Treasury as the Secretary of the Treasury may direct, as appropriate and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General."
+<b>2006</b>—Subsec. (e). Pub. L. 109–177 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Violations of this section may be investigated by such components of the Department of Justice as the Attorney General may direct, and by such components of the Department of the Treasury as the Secretary of the Treasury may direct, as appropriate and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by theSecretary of the Treasury, the Postal Service, and the Attorney General."
 
 <b>1994</b>—Subsec. (f)(1). Pub. L. 103–322, §330020, and Pub. L. 103–325, §413(c)(2), amended par. (1) identically, striking out second comma after "(as defined in section 1956 of this title)".
 

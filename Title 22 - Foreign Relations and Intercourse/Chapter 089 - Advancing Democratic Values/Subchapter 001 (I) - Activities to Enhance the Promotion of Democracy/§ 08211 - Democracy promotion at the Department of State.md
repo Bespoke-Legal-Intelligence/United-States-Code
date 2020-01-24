@@ -46,11 +46,11 @@
 
 &emsp;&emsp;(B) develop relations with, consult with, and provide assistance to nongovernmental organizations, individuals, and movements that are committed to the peaceful promotion of democracy and fundamental rights and freedoms, including fostering relationships with the United States Government and the governments of other democratic countries; and
 
-&emsp;&emsp;(C) assist officers and employees of regional bureaus of the Department to developstrategies and programs to promote peaceful change in nondemocratic countries and democratic transition countries.
+&emsp;&emsp;(C) assist officers and employees of regional bureaus of the Department to develop strategies and programs to promote peaceful change in nondemocratic countries and democratic transition countries.
 
 #### (3) Liaison
 
-&emsp;Within the Bureau of Democracy, Human Rights, and Labor, the Assistant Secretary shall identify officers or employees who have expertise in and shall be responsible for working with nongovernmental organizations, individuals, and movements that develop relations with, consult with, and provide assistance to nongovernmental organizations, individuals, and movements in foreign countries that are committed to the peaceful promotion of democracy and fundamental rights and freedoms.
+&emsp;Within the Bureau of Democracy, Human Rights, and Labor, the Assistant Secretary shall identify officers or employees who have expertise in and shall be responsible for working with nongovernmental organizations, individuals, and movements that develop relations with, consult with, and provide assistance to nongovernmental organizations, individuals, and movements in foreign countries that arecommitted to the peaceful promotion of democracy and fundamental rights and freedoms.
 
 #### (c) Actions by chiefs of mission
 

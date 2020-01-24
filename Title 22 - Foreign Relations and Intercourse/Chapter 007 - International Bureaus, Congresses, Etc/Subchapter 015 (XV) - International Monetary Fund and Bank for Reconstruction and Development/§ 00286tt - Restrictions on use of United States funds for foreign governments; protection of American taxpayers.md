@@ -12,7 +12,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(2)
 
-Opposition to loans unlikely to be repaid in full.—If any such evaluation indicatesthat the proposed loan is not likely to be repaid in full, the Secretary of the Treasury shall instruct the United States Executive Director at the Fund to use the voice and vote of the United States to oppose the proposal.
+Opposition to loans unlikely to be repaid in full.—If any such evaluation indicates that the proposed loan is not likely to be repaid in full, the Secretary of the Treasury shall instruct the United States Executive Director at the Fund to use the voice and vote of the United States to oppose the proposal.
 
 #### (b) Reports to Congress
 

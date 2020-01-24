@@ -86,5 +86,5 @@ Pub. L. 114–31, §2(a), July 20, 2015, 129 Stat. 428, provided that:
 
 &emsp;"(4) A general purpose veteran identification card made available to veterans would be useful to demonstrate the status of the veterans without having to carry and use official Department of Defense form DD–214 discharge papers.
 
-&emsp;"(5) On the day before the date of the enactment of this Act, the Department of Veterans Affairs had the infrastructure in place across the United States toproduce photographic identification cards and accept a small payment to cover the cost of these cards."
+&emsp;"(5) On the day before the date of the enactment of this Act, the Department of Veterans Affairs had the infrastructure in place across the United States to produce photographic identification cards and accept a small payment to cover the cost of these cards."
 

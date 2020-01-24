@@ -64,7 +64,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 #### Exceptions to Membership Requirements During Five-Year Period
 
-For exceptions to the membership requirements set forth in this section, which exceptions are applicablefor five-year period following Nov. 1, 1987, see section 235(b)(5) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
+For exceptions to the membership requirements set forth in this section, which exceptions are applicable for five-year period following Nov. 1, 1987, see section 235(b)(5) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
 <i><sup>1</sup></i><i> Section catchline editorially supplied.</i>
 

@@ -221,7 +221,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (A) In general
 
-&emsp;&emsp;If a plan falls within the definition of a CSEC plan under this subsection (without regard to this paragraph), such plan shall be a CSEC plan unless the plan sponsor elects not later than the close of the first plan year of the plan beginning after December 31, 2013, not to be treated as a CSEC plan. An election under the preceding sentence shall take effect for such plan year and, once made, may be revoked only with the consent of the Secretary of the Treasury.
+&emsp;&emsp;If a plan falls within the definition of a CSEC plan under this subsection (withoutregard to this paragraph), such plan shall be a CSEC plan unless the plan sponsor elects not later than the close of the first plan year of the plan beginning after December 31, 2013, not to be treated as a CSEC plan. An election under the preceding sentence shall take effect for such plan year and, once made, may be revoked only with the consent of the Secretary of the Treasury.
 
 #### (B) Special rule
 

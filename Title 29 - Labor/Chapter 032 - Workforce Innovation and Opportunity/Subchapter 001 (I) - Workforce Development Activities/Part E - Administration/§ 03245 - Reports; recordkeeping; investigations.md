@@ -12,7 +12,7 @@
 
 #### (3) Maintenance of standardized records
 
-&emsp;In order to allow for the preparation of the reports required under subsection (c), such recipients shall maintain standardized records for all individual participants and provide to the Secretary a sufficient number of such records to provide for an adequate analysis of the records.
+&emsp;In order to allow for the preparation of the reports required under subsection (c), such recipients shall maintain standardized records for all individual participants and provide tothe Secretary a sufficient number of such records to provide for an adequate analysis of the records.
 
 #### (4) Availability to the public
 
@@ -129,6 +129,10 @@ In requiring entities to maintain records of costs by cost category under this s
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (b)(3)(D), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

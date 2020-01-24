@@ -58,7 +58,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Labor shall dismiss a complaint filed under this subsection, and shall not conduct an investigation otherwise required under paragraph (2), unless the complainant makes a prima facie showing that any behavior described in paragraphs (1) through (4) of subsection (a) was a contributing factor in the unfavorable personnel action alleged in the complaint.
+&emsp;&emsp;The Secretary of Labor shall dismiss a complaint filed under this subsection, andshall not conduct an investigation otherwise required under paragraph (2), unless the complainant makes a prima facie showing that any behavior described in paragraphs (1) through (4) of subsection (a) was a contributing factor in the unfavorable personnel action alleged in the complaint.
 
 #### (B) Rebuttal evidence
 
@@ -66,7 +66,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (C) Evidentiary standards
 
-&emsp;&emsp;The Secretary of Labor may determine that a violation of subsection (a) has occurred only if the complainant demonstrates that any behavior described in paragraphs (1) through (4) of subsection (a) was a contributing factor in the unfavorable personnel action alleged in the complaint. Relief maynot be ordered under subparagraph (A) if the employer demonstrates by clear and convincing evidence that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
+&emsp;&emsp;The Secretary of Labor may determine that a violation of subsection (a) has occurred only if the complainant demonstrates that any behavior described in paragraphs (1) through (4) of subsection (a) was a contributing factor in the unfavorable personnel action alleged in the complaint. Relief may not be ordered under subparagraph (A) if the employer demonstrates by clear and convincing evidence that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
 
 #### (4) Issuance of final orders; review procedures
 
@@ -112,7 +112,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (E) Other appeals
 
-&emsp;&emsp;Unless the complainant brings an action under subparagraph (D), any person adversely affected or aggrieved by a final order issued under subparagraph (A) may file a petition for review of the order in the United States Court of Appeals for the circuit in which the violation with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation, not later than 60 days after the date of the issuance of the final order of the Secretary of Labor under subparagraph (A). Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order. An order of the Secretary of Labor with respect to which review could have been obtained under this subparagraph shall not be subject to judicial review in any criminal or other civil proceeding.
+&emsp;&emsp;Unless the complainant brings an action under subparagraph (D), any person adversely affected or aggrieved by a final order issued under subparagraph (A) may file a petition for review of the order in the United States Court of Appeals for the circuit in which the violation with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation, not later than 60 days after the date of the issuance of the final order of the Secretary of Labor under subparagraph (A). Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order. An order of the Secretary of Labor with respect to which reviewcould have been obtained under this subparagraph shall not be subject to judicial review in any criminal or other civil proceeding.
 
 #### (5) Failure to comply with order
 
@@ -122,7 +122,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (B) Civil actions to compel compliance
 
-&emsp;&emsp;A person on whose behalf an order was issued under paragraph (4) may commence a civil action against the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy orthe citizenship of the parties, to enforce such order.
+&emsp;&emsp;A person on whose behalf an order was issued under paragraph (4) may commence a civil action against the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
 
 #### (C) Award of costs authorized
 

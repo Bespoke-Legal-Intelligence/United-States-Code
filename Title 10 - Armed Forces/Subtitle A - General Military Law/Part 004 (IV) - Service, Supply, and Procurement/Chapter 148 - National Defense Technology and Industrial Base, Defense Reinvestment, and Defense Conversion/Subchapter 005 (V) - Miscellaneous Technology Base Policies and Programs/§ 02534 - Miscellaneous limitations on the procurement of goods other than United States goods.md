@@ -36,6 +36,10 @@ Valves and machine tools.—Items in the following categories:
 
 Ball bearings and roller bearings.—Ball bearings and roller bearings, in accordance with subpart 225.71 of part 225 of the Defense Federal Acquisition Regulation Supplement, as in effect on October 23, 1992, except ball bearings and roller bearings being procured for use in an end product manufactured by a manufacturer that does not satisfy the requirements of subsection (b) or in a component part manufactured by such a manufacturer.
 
+&emsp;(6)
+
+Components for auxiliary ships.—Subject to subsection (k),<sup>1</sup> large medium-speed diesel engines.
+
 (b)
 
 Manufacturer in the National Technology and Industrial Base.—
@@ -182,79 +186,77 @@ Inapplicability to Certain Contracts To Purchase Ball Bearings or Roller Bearing
 
 (2) Paragraph (1) does not apply to a purchase if such purchase would result in the total amount of purchases of ball bearings and roller bearings to satisfy requirements under Department of Defense contracts, using the authority provided in such paragraph, to exceed $200,000 during the fiscal year of such purchase.
 
-(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §805\], Oct. 30, 2000, 114 Stat. 1654, 1654A–207; Pub. L. 107–107, div. A, title VIII, §835(a), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1191, 1225; Pub. L. 108–136, div. A, title VIII, §828, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 111–350, §5(b)(40), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. A, title VIII, §813(a), Dec. 12, 2017, 131 Stat. 1461; Pub. L. 115–232, div. A, title VIII, §844(a), Aug. 13, 2018, 132 Stat. 1879.)
+(k) <sup>2</sup>
 
-#### Amendment of Section
+Limitation on Certain Procurements Application Process.—
 
-<i>Pub. L. 115–232, div. A, title VIII, §844, Aug. 13, 2018, 132 Stat. 1879, provided that, effective one year after Aug. 13, 2018, this section is amended by adding at the end the following new subsection:</i>
+&emsp;(1)
 
-<i>(k)</i>
+In general.—The Secretary of Defense shall administer a process to analyze and assess potential items for consideration to be required to be procured from a manufacturer that is part of the national technology and industrial base.
 
-<i>Limitation on Certain Procurements Application Process.—</i>
+&emsp;(2)
 
-&emsp;<i>(1)</i>
+Elements.—The application process required under paragraph (1) shall include the following elements:
 
-<i>In general.—The Secretary of Defense shall administer a process to analyze and assess potential items for consideration to be required to be procured from a manufacturer that is part of the national technology and industrial base.</i>
+&emsp;&emsp;(A) The Secretary shall designate an official within the Office of the Secretary of Defense responsible for administration of the limitation on certain procurements application process and associated policy.
 
-&emsp;<i>(2)</i>
+&emsp;&emsp;(B) A person or organization that meets the definition of national technology and industrial base under section 2500(1) of this title shall have the opportunity to apply for status as an item required to be procured from a manufacturer that is part of the national technology and industrial base. The application shall include, at a minimum, the following information:
 
-<i>Elements.—The application process required under paragraph (1) shall include the following elements:</i>
+&emsp;&emsp;&emsp;(i) Information demonstrating the applicant meets the criteria of a manufacturer in the national technology and industrial base under section 2500(1) of this title.
 
-&emsp;&emsp;<i>(A) The Secretary shall designate an official within the Office of the Secretary of Defense responsible for administration of the limitation on certain procurements application process and associated policy.</i>
+&emsp;&emsp;&emsp;(ii) For each item the applicant seeks to be required to be procured from a manufacturer that is part of the national technology and industrial base, the applicant shall include the following information:
 
-&emsp;&emsp;<i>(B) A person or organization that meets the definition of national technology and industrial base under section 2500(1) of this title shall have the opportunity to apply for status as an item required to be procured from a manufacturer that is part of the national technology and industrial base. The application shall include, at a minimum, the following information:</i>
+&emsp;&emsp;&emsp;&emsp;(I) The extent to which such item has commercial applications.
 
-&emsp;&emsp;&emsp;<i>(i) Information demonstrating the applicant meets the criteria of a manufacturer in the national technology and industrial base under section 2500(1) of this title.</i>
+&emsp;&emsp;&emsp;&emsp;(II) The number of such items to be procured by current programs of record.
 
-&emsp;&emsp;&emsp;<i>(ii) For each item the applicant seeks to be required to be procured from a manufacturer that is part of the national technology and industrial base, the applicant shall include the following information:</i>
+&emsp;&emsp;&emsp;&emsp;(III) The criticality of such item to a military unit's mission accomplishment.
 
-&emsp;&emsp;&emsp;&emsp;<i>(I) The extent to which such item has commercial applications.</i>
+&emsp;&emsp;&emsp;&emsp;(IV) The estimated cost and other considerations of reconstituting the manufacturing capability of such item, if not maintained in the national technology and industrial base.
 
-&emsp;&emsp;&emsp;&emsp;<i>(II) The number of such items to be procured by current programs of record.</i>
+&emsp;&emsp;&emsp;&emsp;(V) National security regulations or restrictions imposed on such item that may not be imposed on a non-national technology and industrial base competitor.
 
-&emsp;&emsp;&emsp;&emsp;<i>(III) The criticality of such item to a military unit's mission accomplishment.</i>
+&emsp;&emsp;&emsp;&emsp;(VI) Non-national security-related Federal, State, and local government regulations imposed on such item that may not be imposed on a non-national technology and industrial base competitor.
 
-&emsp;&emsp;&emsp;&emsp;<i>(IV) The estimated cost and other considerations of reconstituting the manufacturing capability of such item, if not maintained in the national technology and industrial base.</i>
+&emsp;&emsp;&emsp;&emsp;(VII) The extent to which such item is fielded in current programs of record.
 
-&emsp;&emsp;&emsp;&emsp;<i>(V) National security regulations or restrictions imposed on such item that may not be imposed on a non-national technology and industrial base competitor.</i>
+&emsp;&emsp;&emsp;&emsp;(VIII) The extent to which cost and pricing data for such item has been deemed fair and reasonable.
 
-&emsp;&emsp;&emsp;&emsp;<i>(VI) Non-national security-related Federal, State, and local government regulations imposed on such item that may not be imposed on a non-national technology and industrial base competitor.</i>
+&emsp;(3)
 
-&emsp;&emsp;&emsp;&emsp;<i>(VII) The extent to which such item is fielded in current programs of record.</i>
+Consideration of applications.—
 
-&emsp;&emsp;&emsp;&emsp;<i>(VIII) The extent to which cost and pricing data for such item has been deemed fair and reasonable.</i>
+&emsp;&emsp;(A)
 
-&emsp;<i>(3)</i>
+Responsibility of designated official.—The official designated pursuant toparagraph (2)(A) shall be responsible for providing complete applications submitted pursuant to this subsection to the appropriate component acquisition executive for consideration not later than 15 days after receipt of such application.
 
-<i>Consideration of applications.—</i>
+&emsp;&emsp;(B)
 
-&emsp;&emsp;<i>(A)</i>
+Review.—Not later than 120 days after receiving a complete application, the component acquisition executive shall review such application, make a determination, and return the application to the official designated pursuant to paragraph (2)(A).
 
-<i>Responsibility of designated official.—The official designated pursuant to paragraph (2)(A) shall be responsible for providing complete applications submitted pursuant to this subsection to the appropriate component acquisition executive for consideration not later than 15 days after receipt of such application.</i>
+&emsp;&emsp;(C)
 
-&emsp;&emsp;<i>(B)</i>
+Elements of determination.—The determination required under subparagraph (B) shall, for each item proposed pursuant to paragraph (2)(B)(ii)—
 
-<i>Review.—Not later than 120 days after receiving a complete application, the component acquisition executive shall review such application, make a determination, and return the application to the official designated pursuant to paragraph (2)(A).</i>
+&emsp;&emsp;&emsp;(i) recommend inclusion under this section;
 
-&emsp;&emsp;<i>(C)</i>
+&emsp;&emsp;&emsp;(ii) recommend inclusion under this section with further modifications; or
 
-<i>Elements of determination.—The determination required under subparagraph (B)</i><i>shall, for each item proposed pursuant to paragraph (2)(B)(ii)—</i>
+&emsp;&emsp;&emsp;(iii) not recommend inclusion under this section.
 
-&emsp;&emsp;&emsp;<i>(i) recommend inclusion under this section;</i>
+&emsp;&emsp;(D)
 
-&emsp;&emsp;&emsp;<i>(ii) recommend inclusion under this section with further modifications; or</i>
+Justification.—The determination required under subparagraph (B) shall also include the rationale and justification for the determination.
 
-&emsp;&emsp;&emsp;<i>(iii) not recommend inclusion under this section.</i>
+&emsp;(4)
 
-&emsp;&emsp;<i>(D)</i>
+Recommendations for legislation.—For applications recommended under subsection (3), the official designated pursuant to paragraph (2)(A) shall be responsible for preparing a legislative proposal for consideration by the Secretary.
 
-<i>Justification.—The determination required under subparagraph (B) shall also include the rationale and justification for the determination.</i>
+(k) <sup>2</sup>
 
-&emsp;<i>(4)</i>
+Implementation of Auxiliary Ship Component Limitation.—Subsection (a)(6) applies only with respect to contracts awarded by the Secretary of a military department for new construction of an auxiliary ship after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 using funds available for National Defense Sealift Fund programs or Shipbuilding and Conversion, Navy. For purposes of this subsection, the term "auxiliary ship" does not include an icebreaker or a special mission ship.
 
-<i>Recommendations for legislation.—For applications recommended under subsection (3), the official designated pursuant to paragraph (2)(A) shall be responsible for preparing a legislative proposal for consideration by the Secretary.</i>
-
-<i>See 2018 Amendment note below.</i>
+(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §805\], Oct. 30, 2000, 114 Stat. 1654, 1654A–207; Pub. L. 107–107, div. A, title VIII, §835(a), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1191, 1225; Pub. L. 108–136, div. A, title VIII, §828, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 111–350, §5(b)(40), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. A, title VIII, §813(a), Dec. 12, 2017, 131 Stat. 1461; Pub. L. 115–232, div. A, title VIII, §844(a), Aug. 13, 2018, 132 Stat. 1879; Pub. L. 116–92, div. A, title VIII, §853, Dec. 20, 2019, 133 Stat. 1511.)
 
 Historical and Revision Notes
 
@@ -272,9 +274,17 @@ Sept. 20, 1968, Pub. L. 90–500, §404, 82 Stat. 851.
 
 The words "of the United States under the provisions of this Act or the provisions of any other law" are omitted as surplus. The word "acquisition" is substituted for "purchase, lease, rental, or other acquisition" because it is inclusive. The words "this section" are substituted for "this prohibition" because of the restatement.
 
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (k), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
+
 #### Amendments
 
-<b>2018</b>—Subsec. (k). Pub. L. 115–232 added subsec. (k).
+<b>2019</b>—Subsec. (a)(6). Pub. L. 116–92, §853(a), added par. (6).
+
+Subsec. (k). Pub. L. 116–92, §853(b), added subsec. (k) related to implementation of auxiliary ship component limitation.
+
+<b>2018</b>—Subsec. (k). Pub. L. 115–232 added subsec. (k) related to limitation on certain procurements application process.
 
 <b>2017</b>—Subsec. (c)(5). Pub. L. 115–91 added par. (5).
 
@@ -368,7 +378,9 @@ Subsec. (d). Pub. L. 100–456, §822, added subsec. (d).
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–232, div. A, title VIII, §844(b), Aug. 13, 2018, 132 Stat. 1881, provided that: "This section \[amending this section\] and the amendments made by this section shall take effect one year after the date of the enactment of this Act \[Aug. 13, 2018\]."
+Pub. L. 115–232, div. A, title VIII, §844(b), Aug. 13, 2018, 132 Stat. 1881, as amended by Pub. L. 116–92, div. A, title XVII, §1731(b)(2), Dec. 20, 2019, 133 Stat. 1816, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect one year after the date of the enactment of this Act \[Aug. 13, 2018\]."
+
+\[Pub. L. 116–92, div. A, title XVII, §1731(b), Dec. 20, 2019, 133 Stat. 1816, provided that the amendment made by section 1731(b)(2) to section 844(b) of Pub. L. 115–232, set out above, is effective Aug. 13, 2018, and as if included in Pub. L. 115–232 as enacted.\]
 
 #### Effective Date of 2001 Amendment
 
@@ -441,4 +453,8 @@ Waiver Authority.—The Secretary of Defense may waive the limitation in subsect
 Effective Date.—(1) Subject to paragraph (2), subsection (b) applies to contracts in existence on the date of the enactment of this Act \[Nov. 24, 2003\] or entered into after such date.
 
 "(2) With respect to contracts in existence on the date of the enactment of this Act, the Secretary of Defense shall take such action as is necessary to ensure that such contracts are in compliance with subsection (b) not later than 24 months after such date."
+
+<i><sup>1</sup></i><i> So in original. Probably means the subsec. (k) enacted by Pub. L. 116–92, related to implementation of auxiliary ship component limitation. See 2019 Amendment note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (k) have been enacted.</i>
 

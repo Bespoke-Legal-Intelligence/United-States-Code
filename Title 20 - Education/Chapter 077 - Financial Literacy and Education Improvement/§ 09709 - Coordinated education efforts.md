@@ -28,7 +28,7 @@ For purposes of this section, the Secretary, working in conjunction with the Sec
 
 #### (2) Content
 
-&emsp;The report required by this subsection shall include a description of progress made in enhancing financial education with respect tostudent understanding of financial aid, including the programs and evaluations required by this section.
+&emsp;The report required by this subsection shall include a description of progress made in enhancing financial education with respect to student understanding of financial aid, including the programs and evaluations required by this section.
 
 #### (3) Appearance before Congress
 
@@ -43,10 +43,6 @@ The Financial Literacy and Education Improvement Act, referred to in subsec. (a)
 #### Codification
 
 Section was enacted as part of the Higher Education Opportunity Act, and also as part of the Private Student Loan Transparency and Improvement Act of 2008, and not as part of the Financial Literacy and Education Improvement Act which comprises this chapter.
-
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Definitions
 

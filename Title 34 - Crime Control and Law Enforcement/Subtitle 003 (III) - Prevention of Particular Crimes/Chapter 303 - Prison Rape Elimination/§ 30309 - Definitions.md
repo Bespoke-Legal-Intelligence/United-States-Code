@@ -64,7 +64,7 @@ In this chapter, the following definitions shall apply:
 
 #### (11) Sexual fondling
 
-&emsp;The term "sexual fondling" means the touching of the private body parts of another person (including the genitalia, anus, groin, breast, inner thigh, or buttocks) for the purpose of sexual gratification.
+&emsp;The term "sexual fondling" means the touching of the private body parts of anotherperson (including the genitalia, anus, groin, breast, inner thigh, or buttocks) for the purpose of sexual gratification.
 
 #### (12) Exclusions
 

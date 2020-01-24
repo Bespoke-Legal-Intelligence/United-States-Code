@@ -2,7 +2,7 @@
 
 #### (a) Authorization; purpose
 
-The Secretary is authorized and directed to conduct a comprehensive exploratory programdesigned to obtain sufficient data and information to evaluate the extent, location, and potential for developing the known recoverable coal resources within the coal lands subject to this chapter. This program shall be designed to obtain the resource information necessary for determining whether commercial quantities of coal are present and the geographical extent of the coal fields and for estimating the amount of such coal which is recoverable by deep mining operations and the amount of such coal which is recoverable by surface mining operations in order to provide a basis for—
+The Secretary is authorized and directed to conduct a comprehensive exploratory program designed to obtain sufficient data and information to evaluate the extent, location, and potential for developing the known recoverable coal resources within the coal lands subject to this chapter. This program shall be designed to obtain the resource information necessary for determining whether commercial quantities of coal are present and the geographical extent of the coal fields and for estimating the amount of such coal which is recoverable by deep mining operations and the amount of such coal which is recoverable by surface mining operations in order to provide a basis for—
 
 &emsp;(1) developing a comprehensive land use plan pursuant to section 2;
 
@@ -20,7 +20,7 @@ The Secretary, through the United States Geological Survey, is authorized to con
 
 #### (c) Exploratory drilling by party not under contract to United States; confidentiality of information prior to award of lease
 
-Nothing in this section shall limit any person from conducting exploratory geophysical surveys including seismic, geophysical, chemical surveys to the extent permitted by section 201(b) of this title. The information obtained from the exploratory drilling carried out by a person not under contract with the United States Government for such drilling prior to award of a lease shall be provided the confidentiality pursuant to subsection (d).
+Nothing in this section shall limit any person from conducting exploratory geophysical surveys including seismic, geophysical, chemicalsurveys to the extent permitted by section 201(b) of this title. The information obtained from the exploratory drilling carried out by a person not under contract with the United States Government for such drilling prior to award of a lease shall be provided the confidentiality pursuant to subsection (d).
 
 #### (d) Availability to public of all data, information, maps, surveys; confidentiality of information purchased from commercial sources not under contract to United States prior to award of lease
 

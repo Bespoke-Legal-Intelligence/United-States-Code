@@ -10,7 +10,7 @@ With respect to programs carried out through the Farm Service Agency (or other o
 
 #### (c) Mediation
 
-If a mediation program is available under title V of the Agricultural Credit Act of 1987 (7 U.S.C.5101 et seq.) as a part of the informal hearing process, the participant shall—
+If a mediation program is available under title V of the Agricultural Credit Act of 1987 (7 U.S.C. 5101 et seq.) as a part of the informal hearing process, the participant shall—
 
 &emsp;(1) be offered the right to choose such mediation; and
 

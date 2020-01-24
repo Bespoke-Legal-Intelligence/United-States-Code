@@ -46,7 +46,7 @@ Pub. L. 108–7, div. H, title I, §1208(b), Feb. 20, 2003, 117 Stat. 376, provi
 
 #### Effective Date of 1990 Amendments
 
-Amendment by Pub. L. 101–520 and 101–562 effective on date \[Nov. 6, 1991\] Architect of the Capitol acquires the property and improvements described in Pub. L.101–520, §205(a), and Pub. L. 101–562, §1, see section 205(e) of Pub. L. 101–520 and former section 2(d) of Pub. L. 101–562, set out as a Special Facilities Center; Acquisition note below.
+Amendment by Pub. L. 101–520 and 101–562 effective on date \[Nov. 6, 1991\] Architect of the Capitol acquires the property and improvements described in Pub. L. 101–520, §205(a), and Pub. L. 101–562, §1, see section 205(e) of Pub. L. 101–520 and former section 2(d) of Pub. L. 101–562, set out as a Special Facilities Center; Acquisition note below.
 
 #### Acquisition of Real Property for Library of Congress
 
@@ -76,7 +76,7 @@ Transfer Payment by Architect.—Notwithstanding the limitation on reimbursement
 
 #### "SEC. 3. ACCEPTANCE OF TRANSFERRED GIFTS OR TRUST FUNDS.
 
-"Gifts or trust funds given to the Library or the Library of Congress Trust Fund Board for the structural and mechanical work and refurbishment of Library buildings and grounds specified in section 1 shall be transferred to the Architect of the Capitol to be spent in accordance with the provisions of the first section of the Act of June 29, 1922 (2 U.S.C. 141).
+"Gifts or trust funds given to the Library or the Library of Congress Trust Fund Board for the structural and mechanical work and refurbishment of Librarybuildings and grounds specified in section 1 shall be transferred to the Architect of the Capitol to be spent in accordance with the provisions of the first section of the Act of June 29, 1922 (2 U.S.C. 141).
 
 #### "SEC. 4. FUND FOR TRANSFERRED FUNDS.
 
@@ -116,7 +116,7 @@ Pub. L. 102–451, §4, Oct. 23, 1992, 106 Stat. 2253, provided that: "No evenin
 
 Pub. L. 101–520, title II, §205, Nov. 5, 1990, 104 Stat. 2272, as amended by Pub. L. 102–451, §§1–3, Oct. 23, 1992, 106 Stat. 2253, provided that:
 
-"(a) The Architect of the Capitol may acquire on behalf of the United States Government by purchase, condemnation, transfer, or otherwise (1) all publicly or privately owned real property in lot 51 in square 869 in the District of Columbia, as that lot appears on the records in the office of the Surveyor of the District of Columbiaon August 1, 1990, extending to the outer face of the curbs of the square in which it is located and including all alleys or parts of alleys and streets within the lot lines and curb lines surrounding such real property, and (2) improvements to such real property. The property acquired under this section shall be known as the 'Library of Congress Special Facilities Center' (hereinafter in this section referred to as the 'Center').
+"(a) The Architect of the Capitol may acquire on behalf of the United States Government by purchase, condemnation, transfer, or otherwise (1) all publicly or privately owned real property in lot 51 in square 869 in the District of Columbia, as that lot appears on the records in the office of the Surveyor of the District of Columbia on August 1, 1990, extending to the outer face of the curbs of the square in which it is located and including all alleys or parts of alleys and streets within the lot lines and curb lines surrounding such real property, and (2) improvements to such real property. The property acquired under this section shall be known as the 'Library of Congress Special Facilities Center' (hereinafter in this section referred to as the 'Center').
 
 "(b) \[Amended section 141 of this title.\]
 
@@ -180,7 +180,7 @@ Pub. L. 91–214, §2, Mar. 16, 1970, 84 Stat. 69, provided that: "Nothing conta
 
 Pub. L. 89–260, Oct. 19, 1965, 79 Stat. 987, as amended by Pub. L. 91–214, §1, Mar. 16, 1970, 84 Stat. 69; Pub. L. 94–219, Feb. 27, 1976, 90 Stat. 194; Pub. L. 95–548, Oct. 30, 1978, 92 Stat. 2064, provided: "That (a) the Architect of the Capitol under the direction jointly of the House Office Building Commission, the Senate Office Building Commission, and the Joint Committee on the Library, after consultation with a committee designated by the American Institute of Architects, is authorized and directed to construct (including, but not limited to, the preparation of all necessary designs, plans, and specifications) in square 732 in the District of Columbia a third Library of Congress fireproof building, which shall be known as the Library of Congress James Madison Memorial Building. The design of such building shall include a Madison Memorial Hall and shall be in keeping with the prevailing architecture of the Federal buildings on Capitol Hill. The Madison Memorial Hall shall be developed in consultation with the James Madison Memorial Commission.
 
-"(b) In carrying out his authority under this joint resolution, the Architect of the Capitol, under the direction jointly of the House Office Building Commission, the Senate Office Building Commission, and the Joint Committee on the Library, is authorized (1) to provide for such equipment, such connections with the Capitol Power Plant and other utilities, such access facilities over or under public streets, such changes in the present Library of Congress buildings, such changes in or additions to the present tunnels, and such other appurtenant facilities, as may be necessary, and (2) todo such landscaping as may be necessary by reason of the construction authorized by this joint resolution.
+"(b) In carrying out his authority under this joint resolution, the Architect of the Capitol, under the direction jointly of the House Office Building Commission, the Senate Office Building Commission, and the Joint Committee on the Library, is authorized (1) to provide for such equipment, such connections with the Capitol Power Plant and other utilities, such access facilities over or under public streets, such changes in the present Library of Congress buildings, such changes in or additions to the present tunnels, and such other appurtenant facilities, as may be necessary, and (2) to do such landscaping as may be necessary by reason of the construction authorized by this joint resolution.
 
 "
 

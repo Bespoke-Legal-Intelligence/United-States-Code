@@ -34,7 +34,7 @@ For purposes of this section, the term "qualifying project works" means project 
 
 &emsp;(1) that are not part of a project licensed under this part or exempted from licensing under this subchapter or section 2705 of this title prior to November 9, 2000;
 
-&emsp;(2) for which a preliminary permit, a license application, or an application for an exemption from licensing has not been accepted forfiling by the Commission prior to November 9, 2000 (unless such application is withdrawn at the election of the applicant);
+&emsp;(2) for which a preliminary permit, a license application, or an application for an exemption from licensing has not been accepted for filing by the Commission prior to November 9, 2000 (unless such application is withdrawn at the election of the applicant);
 
 &emsp;(3) that are part of a project that has a power production capacity of 5,000 kilowatts or less;
 
@@ -56,7 +56,7 @@ With respect to projects located in whole or in part on a reservation, a conserv
 
 #### (e) Consultation with affected agencies
 
-The Commission shall consult with the Secretary of the Interior, the Secretary of Agriculture, and the Secretary of Commerce before certifying the State of Alaska's regulatory program.
+The Commission shall consult with the Secretary of the Interior, the Secretary of Agriculture, and the Secretary of Commerce beforecertifying the State of Alaska's regulatory program.
 
 #### (f) Application of Federal laws
 
@@ -88,7 +88,7 @@ If the State of Alaska determines that a recommendation under subsection (a)(3)(
 
 The Endangered Species Act, referred to in subsec. (a)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Fish and Wildlife Coordination Act, referred to in subsec. (a)(1), (3)(C), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (a)(1), (3)(C), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
 
 #### Amendments
 

@@ -40,7 +40,7 @@
 
 #### (2) Order to pay penalty
 
-&emsp;Notwithstanding any other provision of law, in any such review, the court shall have the power to order payment of the penalty imposed by the Director.
+&emsp;Notwithstanding any other provision of law, in any such review, the court shall have thepower to order payment of the penalty imposed by the Director.
 
 #### (d) Action to collect penalty
 

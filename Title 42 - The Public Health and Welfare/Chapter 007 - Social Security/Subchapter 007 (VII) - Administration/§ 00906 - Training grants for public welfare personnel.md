@@ -28,7 +28,7 @@ The amount of any allotment to a State under subsection (b) for any fiscal year 
 
 (3) The Secretary may, to the extent he finds such action to be necessary, prescribe requirements to assure that any individual will repay the amount of his fellowship or traineeship received under this subsection to the extent such individual fails to serve, for the period prescribed by the Secretary, with a State or political subdivision thereof, or with the Federal Government, in connection with administration of any State or local public assistance program. The Secretary may relieve any individual of his obligation to so repay, in whole or in part, whenever and to the extent that requirement of such repayment would, in his judgment, be inequitable or would be contrary to the purposes of any of the public welfare programs established by this chapter.
 
-(Aug. 14, 1935, ch. 531, title VII, §705, as added Aug. 1, 1956, ch. 836, title III, §332, 70 Stat. 851; amended Pub. L. 87–31, §3, May 8, 1961, 75 Stat. 77; Pub. L. 87–543, title I, §123 (a)–(c), July 25, 1962, 76 Stat. 192.)
+(Aug. 14, 1935, ch. 531, title VII, §705, as added Aug. 1, 1956, ch. 836, title III, §332, 70 Stat. 851;amended Pub. L. 87–31, §3, May 8, 1961, 75 Stat. 77; Pub. L. 87–543, title I, §123 (a)–(c), July 25, 1962, 76 Stat. 192.)
 
 #### Amendments
 
@@ -48,5 +48,5 @@ Pub. L. 87–543, title II, §202(b), July 25, 1962, 76 Stat. 208, provided that
 
 #### Effective Date of 1961 Amendment
 
-Pub. L. 87–31, §3(b), May 8, 1961, 75 Stat. 77, provided that the amendment made by that section is effectivewith respect to payments from allotments from appropriations made for fiscal years beginning after June 30, 1961.
+Pub. L. 87–31, §3(b), May 8, 1961, 75 Stat. 77, provided that the amendment made by that section is effective with respect to payments from allotments from appropriations made for fiscal years beginning after June 30, 1961.
 

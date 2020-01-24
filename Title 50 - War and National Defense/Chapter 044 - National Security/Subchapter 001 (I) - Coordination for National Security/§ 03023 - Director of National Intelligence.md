@@ -38,7 +38,7 @@ Another prior section 102 of act July 26, 1947, ch. 343, title I, 61 Stat. 497; 
 
 #### Effective Date
 
-For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
+For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President ofthe United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 
@@ -84,7 +84,7 @@ Ex. Ord. No. 10938, May 4, 1961, 26 F.R. 3951, which established the President's
 
 #### Executive Order No. 11460
 
-Ex. Ord. No. 11460, Mar. 20, 1969, 34 F.R. 5535, which established the President's Foreign Intelligence AdvisoryBoard, was revoked by Ex. Ord. No. 11984, May 4, 1977, 42 F.R. 23129, set out below.
+Ex. Ord. No. 11460, Mar. 20, 1969, 34 F.R. 5535, which established the President's Foreign Intelligence Advisory Board, was revoked by Ex. Ord. No. 11984, May 4, 1977, 42 F.R. 23129, set out below.
 
 #### Ex. Ord. No. 11984. Abolition of President's Foreign Intelligence Advisory Board
 

@@ -2,7 +2,7 @@
 
 The Office of Personnel Management may—
 
-&emsp;(1) prescribe the form in which each agency shall record the duties and responsibilities ofpositions and the places where these records shall be maintained;
+&emsp;(1) prescribe the form in which each agency shall record the duties and responsibilities of positions and the places where these records shall be maintained;
 
 &emsp;(2) examine these or other pertinent records of the agency; and
 

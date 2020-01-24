@@ -36,7 +36,7 @@ Each advisory board under this section shall consist of persons with appropriate
 
 #### (1) In general
 
-&emsp;The Secretary shall enter into appropriate arrangements with the National Academy of Sciences to conduct periodic reviews and assessments of—
+&emsp;The Secretary shall enter into appropriate arrangements with the National Academy ofSciences to conduct periodic reviews and assessments of—
 
 &emsp;&emsp;(A) the research, development, demonstration, and commercial application programs authorized by this Act and amendments made by this Act;
 
@@ -58,5 +58,5 @@ Each advisory board under this section shall consist of persons with appropriate
 
 The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-This Act, referred to in subsec. (e)(1)(A), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known asthe Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of this title and Tables.
+This Act, referred to in subsec. (e)(1)(A), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of this title and Tables.
 

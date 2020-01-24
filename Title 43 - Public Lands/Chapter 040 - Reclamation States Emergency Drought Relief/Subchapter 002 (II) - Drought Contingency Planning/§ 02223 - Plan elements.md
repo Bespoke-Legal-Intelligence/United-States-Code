@@ -10,7 +10,7 @@ Elements of the contingency plans prepared pursuant to section 2222 of this titl
 
 &emsp;(3) Water transfers to serve users inside or outside authorized Federal Reclamation project service areas in order to mitigate the effects of drought.
 
-&emsp;(4) Use of Federal Reclamation project facilities to store and convey nonproject water for agricultural, municipal and industrial, fish and wildlife, or other uses both inside and outside an authorized Federal Reclamation project service area.
+&emsp;(4) Use of Federal Reclamation project facilities to store and convey nonproject water for agricultural, municipal and industrial, fishand wildlife, or other uses both inside and outside an authorized Federal Reclamation project service area.
 
 &emsp;(5) Use of water from dead or inactive reservoir storage or increased use of ground water resources for temporary water supplies.
 
@@ -44,5 +44,5 @@ The contingency plans shall include provisions for periodic review to assure the
 
 The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Fish and Wildlife Coordination Act, referred to in subsec. (d), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 16 and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (d), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see section 661(a) of Title 16, Short Title note set out under section 661 of Title 16, and Tables.
 

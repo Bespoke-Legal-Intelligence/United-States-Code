@@ -10,7 +10,7 @@
 
 (c)(1) Each employing agency shall deposit into the Account amounts equal to the expenditures incurred under this chapter on account of Federal service performed by employees and former employees of that agency.
 
-(2) Deposits required by paragraph (1) shall be made during each calendar quarter and the amount of the deposit to be made by any employing agency during any quarter shall be based on a determination by the Secretary of Labor as to the amounts of payments, made prior to such quarter from the Account based on Federal service performed by employees of such agency after December 31, 1980, with respect to which deposit has not previously been made. The amount to be deposited by any employingagency during any calendar quarter shall be adjusted to take account of any overpayment or underpayment of deposit during any previous quarter for which adjustment has not already been made.
+(2) Deposits required by paragraph (1) shall be made during each calendar quarter and the amount of the deposit to be made by any employing agency during any quarter shall be based on a determination by the Secretary of Labor as to the amounts of payments, made prior to such quarter from the Account based on Federal service performed by employees of such agency after December 31, 1980, with respect to which deposit has not previously been made. The amount to be deposited by any employing agency during any calendar quarter shall be adjusted to take account of any overpayment or underpayment of deposit during any previous quarter for which adjustment has not already been made.
 
 (3) If any Federal agency does not deposit in the Federal Employees Compensation Account any amount before the date 30 days after the date on which the Secretary of Labor has notified such agency that it is required to so deposit such amount, the Secretary of Labor shall notify the Secretary of the Treasury of the failure to make such deposit and the Secretary of the Treasury shall transfer such amount to the Federal Employees Compensation Account from amounts otherwise appropriated to such Federal agency.
 
@@ -36,7 +36,7 @@
 
 (h) For purposes of this section, the term "Federal service" includes Federal service as defined in section 8521(a).
 
-(Added Pub. L. 96–499, title X, §1023(b), Dec. 5, 1980, 94 Stat. 2657; amended Pub. L. 97–362, title II, §202(a), Oct. 25, 1982, 96 Stat. 1732; Pub. L. 102–318, title V, §532(a), July 3, 1992, 106 Stat. 317.)
+(Added Pub. L. 96–499, title X, §1023(b), Dec. 5, 1980, 94 Stat. 2657; amended Pub. L. 97–362, title II, §202(a), Oct. 25, 1982, 96 Stat. 1732; Pub. L.102–318, title V, §532(a), July 3, 1992, 106 Stat. 317.)
 
 #### References in Text
 

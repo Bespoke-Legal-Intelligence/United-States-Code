@@ -26,7 +26,7 @@ The Secretary shall identify, and list in the report under section 1826h of this
 
 The Secretary, acting through the Secretary of State, shall—
 
-&emsp;(1) notify, as soon as possible, the President and nations that have been identified under subsection (a), and also notify other nations whose vessels engage in fishing activities orpractices described in subsection (a), about the provisions of this section and this Act;
+&emsp;(1) notify, as soon as possible, the President and nations that have been identified under subsection (a), and also notify other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of this section and this Act;
 
 &emsp;(2) initiate discussions as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, fishing activities or practices described in subsection (a), for the purpose of entering into bilateral and multilateral treaties with such countries to protect such species;
 

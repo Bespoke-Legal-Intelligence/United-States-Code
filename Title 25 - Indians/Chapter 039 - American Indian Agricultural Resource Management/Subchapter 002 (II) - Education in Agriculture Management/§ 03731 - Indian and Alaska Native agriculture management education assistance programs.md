@@ -24,7 +24,7 @@
 
 #### (b) Cooperative education program
 
-(1) The Secretary shall maintain, through the Bureau, a cooperative education program for thepurpose, among other things, of recruiting Indian and Alaska Native students who are enrolled in secondary schools, tribally controlled community colleges, and other postsecondary or graduate schools, for employment in professional agricultural or related positions with the Bureau or other Federal agency providing Indian agricultural or related services.
+(1) The Secretary shall maintain, through the Bureau, a cooperative education program for the purpose, among other things, of recruiting Indian and Alaska Native students who are enrolled in secondary schools, tribally controlled community colleges, and other postsecondary or graduate schools, for employment in professional agricultural or related positions with the Bureau or other Federal agency providing Indian agricultural or related services.
 
 (2) The cooperative educational program under paragraph (1) shall be modeled after, and shall have essentially the same features as, the program in effect on December 3, 1993, pursuant to chapter 308 of the Federal Personnel Manual of the Office of Personnel Management.
 

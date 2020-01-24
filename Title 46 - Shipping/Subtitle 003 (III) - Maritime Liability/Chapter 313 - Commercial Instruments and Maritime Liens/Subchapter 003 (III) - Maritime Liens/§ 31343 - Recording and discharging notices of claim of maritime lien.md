@@ -26,7 +26,7 @@
 
 (2) A declaration under this subsection filed by a person that is not an individual must be signed by the president, member, partner, trustee, or other individual authorized to execute the declaration on behalf of the person.
 
-(c)(1) On full and final discharge of the indebtedness that is the basis for a notice of claim of lien recorded under subsection (b) of this section, the person having the claim shall provide the Secretary with an acknowledged certificate of discharge of the indebtedness. The Secretary shall record the certificate.
+(c)(1) On full and final discharge of the indebtedness that is the basis for a notice of claim of lien recorded under subsection (b) of this section, the person having the claim shall providethe Secretary with an acknowledged certificate of discharge of the indebtedness. The Secretary shall record the certificate.
 
 (2) The district courts of the United States shall have jurisdiction over a civil action in Admiralty to declare that a vessel is not subject to a lien claimed under subsection (b) of this section, or that the vessel is not subject to the notice of claim of lien, or both, regardless of the amount in controversy or the citizenship of the parties. Venue in such an action shall be in the district where the vessel is found or where the claimant resides or where the notice of claim of lien is recorded. The court may award costs and attorneys fees to the prevailing party, unless the court finds that the position of the other party was substantially justified or other circumstances make an award of costs and attorneys fees unjust. The Secretary shall record any such declaratory order.
 

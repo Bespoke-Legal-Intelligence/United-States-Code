@@ -112,5 +112,9 @@ Review and inclusion of relevant information.—The Chair and Vice Chair of the 
 
 The date of enactment of this chapter, referred to in subsecs. (b)(1) and (c)(1)(A), is the date of enactment of Pub. L. 111–292, which was approved Dec. 9, 2010.
 
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

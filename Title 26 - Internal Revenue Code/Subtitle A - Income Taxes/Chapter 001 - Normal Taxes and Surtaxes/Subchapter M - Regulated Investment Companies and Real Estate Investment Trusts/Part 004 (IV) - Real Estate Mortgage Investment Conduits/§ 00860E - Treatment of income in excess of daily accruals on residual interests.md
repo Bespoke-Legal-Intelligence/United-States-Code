@@ -220,7 +220,7 @@ Pub. L. 104–188, title I, §1704(h)(2), Aug. 20, 1996, 110 Stat. 1881, provide
 
 Pub. L. 100–647, title I, §1006(t)(16)(D)(ii)–(iv), Nov. 10, 1988, 102 Stat. 3425, provided that:
 
-"(ii) The amendments made by subparagraphs (B) and (C) \[amending this section and section 26 of this title\] (except to the extent they relate to paragraph (6) of section 860E(e) of the 1986 Code as added by such amendments) shall apply to transfers after March 31, 1988; except that such amendments shall not apply to any transfer pursuant to a binding written contract in effect on such date.
+"(ii) The amendments made by subparagraphs (B) and (C) \[amending this section and section 26 of this title\] (except to the extent they relate to paragraph (6) of section 860E(e) of the 1986 Code as added by suchamendments) shall apply to transfers after March 31, 1988; except that such amendments shall not apply to any transfer pursuant to a binding written contract in effect on such date.
 
 "(iii) Except as provided in clause (iv), the amendments made by subparagraphs (B) and (C) (to the extent they relate to paragraph (6) of section 860E(e) of the 1986 Code as so added) shall apply to excess inclusions for periods after March 31, 1988 but only to the extent such inclusions are—
 

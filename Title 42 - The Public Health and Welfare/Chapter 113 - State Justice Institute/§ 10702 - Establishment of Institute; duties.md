@@ -38,7 +38,7 @@ The Institute, and any program assisted by the Institute, shall be eligible to b
 
 The Institute shall afford notice and reasonable opportunity for comment to interested parties prior to issuing rules, regulations, guidelines, and instructions under this chapter, and it shall publish in the Federal Register all rules, regulations, guidelines, and instructions.
 
-(Pub. L. 98–620, title II, §203, Nov. 8, 1984, 98 Stat. 3336; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095; Pub. L. 100–690, title VII, §7321(b)(1), Nov. 18, 1988, 102 Stat. 4466; Pub. L. 100–702, title VI, §601, Nov. 19, 1988, 102 Stat. 4652; Pub. L. 102–528, §3(1), Oct. 27, 1992, 106 Stat. 3462.)
+(Pub. L. 98–620, title II, §203, Nov. 8, 1984, 98 Stat. 3336; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–690, title VII, §7321(b)(1), Nov. 18, 1988, 102 Stat. 4466; Pub. L. 100–702, title VI, §601, Nov. 19, 1988, 102 Stat. 4652; Pub. L. 102–528, §3(1), Oct. 27, 1992, 106 Stat. 3462.)
 
 #### References in Text
 

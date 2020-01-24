@@ -60,7 +60,7 @@ For purposes of this section, the term "qualified debt instrument" means any deb
 
 &emsp;&emsp;(A) such amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting "calendar year 1988" for "calendar year 2016" in subparagraph (A)(ii) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendaryear in which the taxable year begins, by substituting "calendar year 1988" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;Any increase under the preceding sentence shall be rounded to the nearest multiple of $100 (or, if such increase is a multiple of $50, such increase shall be increased to the nearest multiple of $100).
 
@@ -124,7 +124,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Inflation Adjusted Items for Certain Years
 
-Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+Per Revenue Procedure 2018–57, after 2018, a separate Revenue Ruling relating to inflation-adjusted amounts under this section will not be published. Starting with 2019, see the table of Revenue Procedures set out under section 1 of this title. Provisions relating to inflation adjustment of items in this section for years before 2019 were contained in the following:
 
 <b>2018</b>—Revenue Ruling 2018–11.
 

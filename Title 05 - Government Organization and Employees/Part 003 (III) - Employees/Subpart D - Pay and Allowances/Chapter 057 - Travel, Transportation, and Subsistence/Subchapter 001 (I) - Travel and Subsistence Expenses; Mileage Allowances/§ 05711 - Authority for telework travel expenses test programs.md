@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(III) an optimal operating standard is developed and implemented for maximizing the use of the telework arrangement described under paragraph (2) while minimizing agency travel expenses and employee travel requirements.
 
-(5)(A) The test program under this subsection shall be designed to enhance cost savings orother efficiencies that accrue to the Government.
+(5)(A) The test program under this subsection shall be designed to enhance cost savings or other efficiencies that accrue to the Government.
 
 (B) The Director of the Patent and Trademark Office shall—
 
@@ -81,6 +81,10 @@
 #### Amendments
 
 <b>2018</b>—Subsec. (g). Pub. L. 115–232 substituted "on December 31, 2020" for "7 years after the date of the enactment of the Telework Enhancement Act of 2010".
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 

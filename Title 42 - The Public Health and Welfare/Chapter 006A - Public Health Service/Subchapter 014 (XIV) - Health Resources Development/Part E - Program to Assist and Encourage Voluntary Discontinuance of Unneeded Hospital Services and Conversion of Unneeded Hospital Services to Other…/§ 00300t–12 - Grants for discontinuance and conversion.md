@@ -24,7 +24,7 @@
 
 &emsp;(C) an estimate of the change in the applicant's costs which will result from such discontinuance and conversion; and
 
-&emsp;(D) reasonable assurance that all laborers and mechanics employed by contractors or subcontractors in the performance of work on a project will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40, and the Secretary of Labor shall have with respect to such labor standards the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 FR 3176; 5 U.S.C. Appendix) and section 3145 of title 40;
+&emsp;(D) reasonable assurance that all laborers and mechanics employed by contractors or subcontractors in the performance of work on a project will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40, and the Secretary of Labor shall have with respect to such labor standards the authority and functions set forth in Reorganization Plan Numbered 14 of1950 (15 FR 3176; 5 U.S.C. Appendix) and section 3145 of title 40;
 
 &emsp;(E) such other information as the Secretary may require.
 

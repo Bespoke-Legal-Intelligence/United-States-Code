@@ -210,7 +210,7 @@ Subsec. (c)(6)(C). Pub. L. 112–55, §191(c), inserted at end "A member appoint
 
 Subsec. (c)(7). Pub. L. 112–55, §191(d), substituted "Ten votes" for "Eight votes".
 
-<b>2000</b>—Subsec. (c)(6)(C), (D). Pub. L. 106–181 redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "The members to be appointed under paragraph (1)(D) of this subsection must be appointed before October 1, 1997. If the deadline is not met, the Secretary of Transportation and the Airports Authority are subject to the limitations of section 49108 of this title until all members referred to in paragraph (1)(D) are appointed."
+<b>2000</b>—Subsec. (c)(6)(C), (D). Pub. L. 106–181 redesignated subpar. (D) as (C) and struck out former subpar.\(C) which read as follows: "The members to be appointed under paragraph (1)(D) of this subsection must be appointed before October 1, 1997. If the deadline is not met, the Secretary of Transportation and the Airports Authority are subject to the limitations of section 49108 of this title until all members referred to in paragraph (1)(D) are appointed."
 
 <b>1998</b>—Subsec. (b)(1)(F). Pub. L. 105–225, §7(c)(1)(A), substituted "1986" for "1996".
 

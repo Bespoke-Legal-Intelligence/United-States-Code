@@ -36,7 +36,7 @@ The first 13 words are substituted for 10:600l(f) (1st sentence, as applicable t
 
 #### Public Health Service
 
-Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretaryof Defense" to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
+Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretary of Defense" to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
 
 #### National Oceanic and Atmospheric Administration
 

@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (2) Correct
 
-&emsp;The term "correct" means, with respect to an accumulated funding deficiency or CSECaccumulated funding deficiency, the contribution, to or under the plan, of the amount necessary to reduce such accumulated funding deficiency or CSEC accumulated funding deficiency as of the end of a plan year in which such deficiency arose to zero.
+&emsp;The term "correct" means, with respect to an accumulated funding deficiency or CSEC accumulated funding deficiency, the contribution, to or under the plan, of the amount necessary to reduce such accumulated funding deficiency or CSEC accumulated funding deficiency as of the end of a plan year in which such deficiency arose to zero.
 
 #### (3) Taxable period
 
@@ -120,7 +120,7 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 &emsp;Except as provided in this subsection—
 
-&emsp;&emsp;(A) no tax shall be imposed under this section for a taxable year with respect to a multiemployer plan if, for the plan yearsending with or within the taxable year, the plan is in critical status pursuant to section 432, and
+&emsp;&emsp;(A) no tax shall be imposed under this section for a taxable year with respect to a multiemployer plan if, for the plan years ending with or within the taxable year, the plan is in critical status pursuant to section 432, and
 
 &emsp;&emsp;(B) any tax imposed under this subsection for a taxable year with respect to a multiemployer plan if, for the plan years ending with or within the taxable year, the plan is in endangered status pursuant to section 432 shall be in addition to any other tax imposed by this section.
 
@@ -272,7 +272,7 @@ Initial tax.—For each taxable year of an employer who maintains a plan to whic
 
 "(b)
 
-Additional tax.—In any case in which an initial tax is imposed by subsection (a) on an accumulatedfunding deficiency and such accumulated funding deficiency is not corrected within the taxable period, there is hereby imposed a tax equal to 100 percent of such accumulated funding deficiency to the extent not corrected."
+Additional tax.—In any case in which an initial tax is imposed by subsection (a) on an accumulated funding deficiency and such accumulated funding deficiency is not corrected within the taxable period, there is hereby imposed a tax equal to 100 percent of such accumulated funding deficiency to the extent not corrected."
 
 Subsec. (c)(1). Pub. L. 109–280, §114(e)(2)(A), substituted "section 431" for "the last two sentences of section 412(a)".
 
@@ -354,7 +354,7 @@ For provisions that nothing in amendment by section 401(b)(44) of Pub. L. 115–
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractorplans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 

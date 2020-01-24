@@ -6,11 +6,11 @@ The President shall submit to the Congress, not later than 1 year after May 18, 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which enacted this chapter and sections 2466a and 2466b of this title and amended section 2463 of this title and sections 2193 and 2293 of Title 22, Foreign Relations and Intercourse. For complete classification of title I to the Code, see Short Title note set out under section 3701 of this title and Tables.
+This chapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which enacted this chapter and sections 2466a and 2466b of this title and amended section 2463 of this title and former section 2193 and section 2293 of Title 22, Foreign Relations and Intercourse. For complete classification of title I to the Code, see Short Title note set out under section 3701 of this title and Tables.
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to United States Trade Representative by section 1(b)of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
+Functions of President under this section delegated to United States Trade Representative by section 1(b) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
 
 #### Reports on Implementation and Potential Trade Agreements
 

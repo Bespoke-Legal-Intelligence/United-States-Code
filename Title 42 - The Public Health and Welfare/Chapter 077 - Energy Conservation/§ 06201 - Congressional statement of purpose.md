@@ -90,7 +90,7 @@ Pub. L. 100–12, §1, Mar. 17, 1987, 101 Stat. 103, provided that: "This Act \[
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–58, §1, July 2, 1985, 99 Stat. 102, provided that: "This Act \[enacting sections 6251, 6264, 6285, and 7277 of this title, amending sections 6239, 6240, 6241, 6247, and 6272 of this title, repealing section 6401 of this title, enacting provisions set out as notes under section 7277 of this title, and amending provisions set out as a note under section 4511 of Title 50, War and National Defense\] may be cited as the 'Energy and Conservation Amendments Act of 1985'."
+Pub. L. 99–58, §1, July 2, 1985, 99 Stat. 102, provided that: "This Act \[enacting sections 6251, 6264, 6285, and 7277 of this title, amending sections 6239, 6240, 6241, 6247, and 6272 of this title, repealing section 6401 of this title, enacting provisions set out as notes under section 7277 of this title, and amending provisions set out as a noteunder section 4511 of Title 50, War and National Defense\] may be cited as the 'Energy and Conservation Amendments Act of 1985'."
 
 #### Short Title of 1984 Amendment
 
@@ -194,7 +194,7 @@ No. 1 distillate.—The term 'No. 1 distillate' means fuel oil classified as No.
 
 &emsp;"(7)
 
-No. 2 dyed distillate.—The term 'No. 2 dyed distillate' means fuel oil classified as No. 2 distillate by the American Society for Testing and Materials that is indelibly dyed in accordance with regulations prescribed by the Secretary of the Treasury under section 4082(a)(2) of the Internal Revenue Code of 1986 \[26 U.S.C. 4082(a)(2)\].
+No. 2 dyed distillate.—The term 'No. 2 dyed distillate' means fuel oil classified as No. 2 distillateby the American Society for Testing and Materials that is indelibly dyed in accordance with regulations prescribed by the Secretary of the Treasury under section 4082(a)(2) of the Internal Revenue Code of 1986 \[26 U.S.C. 4082(a)(2)\].
 
 &emsp;"(8)
 
@@ -354,7 +354,7 @@ In general.—The Alliance shall provide to the Secretary a list of qualified no
 
 &emsp;&emsp;"(B)
 
-Requirement.—Except as provided in subsection (c)(1)(C), members of the Alliance shall be representatives of the oilheat fuel industry in a State, selected from a list of nominees submitted by the qualified State association in the State.
+Requirement.—Except as provided in subsection (c)(1)(C), members of the Alliance shall berepresentatives of the oilheat fuel industry in a State, selected from a list of nominees submitted by the qualified State association in the State.
 
 &emsp;"(2)
 
@@ -476,7 +476,7 @@ In general.—Research, development, and demonstration activities under paragrap
 
 &emsp;&emsp;&emsp;"(ii)
 
-Excluded activities.—Research, development, and demonstration activities under paragraph (1)(A)(ii) shall not include research, development, and demonstration of oilheat fuel utilization equipment with respect to which technically feasible and commercially feasible operations have been verified, except that funds maybe provided for improvements to existing equipment until the technical feasibility and commercial feasibility of the operation of those improvements have been verified.
+Excluded activities.—Research, development, and demonstration activities under paragraph (1)(A)(ii) shall not include research, development, and demonstration of oilheat fuel utilization equipment with respect to which technically feasible and commercially feasible operations have been verified, except that funds may be provided for improvements to existing equipment until the technical feasibility and commercial feasibility of the operation of those improvements have been verified.
 
 "(b)
 
@@ -872,7 +872,7 @@ In general.—In carrying out this paragraph, the Alliance shall, to the maximum
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the low-income home energy assistance program established under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621 et seq.);
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the Weatherization Assistance Program for Low-Income Persons established under part A of title IV of the Energy Conservation and Production Act (42 U.S.C. 6861 et seq.); or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the Weatherization Assistance Program for Low-Income Persons established under partA of title IV of the Energy Conservation and Production Act (42 U.S.C. 6861 et seq.); or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) other energy efficiency programs administered by the State or other parties in the State.
 
@@ -1138,7 +1138,7 @@ Section 1. (a) The Administrator of General Services is designated and empowered
 
 Sec. 2. The Secretary of Commerce is designated and empowered to perform without approval, ratification, or other action by the President, the functions vested in the President by section 103 of the Energy Policy and Conservation Act (89 Stat. 877, \[former\] 42 U.S.C. 6212). In performing each of these functions, the Secretary of Commerce shall consult with appropriate Executive agencies, as set forth in the provisions of section 5(a) of the Export Administration Act of 1969, as amended (\[former\] 50 U.S.C. App. 2404(a)).
 
-Sec. 3. The Administrator of the Office of Federal Procurement Policy, in the exercise of his statutory responsibility to provide overall direction of procurement policy (41 U.S.C. 405), shall, after consultation with the heads of appropriate agencies, including those responsible for developing energy conservation and efficiency standards, and to the extent he considers appropriate and with due regard to the program activities of the Executive agencies, provide policy guidance governing the application of energy conservation and efficiency standards in the Federal procurement process in accord with section 381(a)(1) of the Energy Policy and Conservation Act (89 Stat. 939, 42 U.S.C. 6361(a)(1)).
+Sec. 3. The Administrator of the Office of Federal Procurement Policy, in the exercise of his statutory responsibility to provide overall direction of procurement policy (41 U.S.C. 405), shall, after consultation with the heads of appropriate agencies, including those responsible for developing energy conservation and efficiency standards, and to the extent he considers appropriateand with due regard to the program activities of the Executive agencies, provide policy guidance governing the application of energy conservation and efficiency standards in the Federal procurement process in accord with section 381(a)(1) of the Energy Policy and Conservation Act (89 Stat. 939, 42 U.S.C. 6361(a)(1)).
 
 Sec. 4. (a) The Secretary of Energy, in consultation with the heads of appropriate agencies, is hereby authorized and directed to develop for the President's consideration, in accord with section 201 of the Energy Policy and Conservation Act (89 Stat. 890, 42 U.S.C. 6261), the energy conservation and rationing contingency plans prescribed under sections 202 and 203 of the Energy Policy and Conservation Act (89 Stat. 892, 42 U.S.C. 6262 and 6263).
 

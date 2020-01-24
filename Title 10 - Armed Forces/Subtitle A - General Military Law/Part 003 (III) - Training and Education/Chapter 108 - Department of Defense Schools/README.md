@@ -15,9 +15,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 116–92, div. E, title LIII, §5324(g), Dec. 20, 2019, 133 Stat. 2137, provided that, effective on the date on which the Secretary of Defense and the Director of National Intelligence jointly submit the joint certifications required under section 3334a(b)(1) of Title 50, War and National Defense, this analysis is amended by striking out item 2161. See 2019 Amendment note below.</i>
+
 #### Amendments
 
-Pub. L. 114–328, div. A, title XII, §1241(o)(5), Dec. 23, 2016, 130 Stat. 2512, struck out item 2166 "Western Hemisphere Institute for Security Cooperation".
+<b>2019</b>—Pub. L. 116–92, div. E, title LIII, §5324(g)(1), Dec. 20, 2019, 133 Stat. 2137, struck out item 2161 "Degree granting authority for National Intelligence University".
+
+<b>2016</b>—Pub. L. 114–328, div. A, title XII, §1241(o)(5), Dec. 23, 2016, 130 Stat. 2512, struck out item 2166 "Western Hemisphere Institute for Security Cooperation".
 
 <b>2013</b>—Pub. L. 112–239, div. A, title IX, §922(b)(2), Jan. 2, 2013, 126 Stat. 1879, substituted "National Intelligence University" for "National Defense Intelligence College" in item 2161.
 
@@ -63,7 +69,7 @@ Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8121\], Sept. 30, 1
 
 #### Regional Defense Counter-terrorism Fellowship Program
 
-Pub. L. 107–117, div. A, title VIII, §8125, Jan. 10, 2002, 115 Stat. 2275, provided that: "In addition to amountsprovided elsewhere in this Act \[see Tables for classification\], $17,900,000 is hereby appropriated for the Secretary of Defense, to remain available until expended, to establish a Regional Defense Counter-terrorism Fellowship Program: <i>Provided</i>, That funding provided herein may be used by the Secretary to fund foreign military officers to attend U.S. military educational institutions and selected regional centers for non-lethal training: <i>Provided further</i>, That United States Regional Commanders in Chief will be the nominative authority for candidates and schools for attendance with joint staff review and approval by the Secretary of Defense: <i>Provided further</i>, That the Secretary of Defense shall establish rules to govern the administration of this program."
+Pub. L. 107–117, div. A, title VIII, §8125, Jan. 10, 2002, 115 Stat. 2275, provided that: "In addition to amounts provided elsewhere in this Act \[see Tables for classification\], $17,900,000 is hereby appropriated for the Secretary of Defense, to remain available until expended, to establish a Regional Defense Counter-terrorism Fellowship Program: <i>Provided</i>, That funding provided herein may be used by the Secretary to fund foreign military officers to attend U.S. military educational institutions and selected regional centers for non-lethal training: <i>Provided further</i>, That United States Regional Commanders in Chief will be the nominative authority for candidates and schools for attendance with joint staff review and approval by the Secretary of Defense: <i>Provided further</i>, That the Secretary of Defense shall establish rules to govern the administration of this program."
 
 #### Attendance at Professional Military Education Schools by Military Personnel of the New Member Nations of NATO
 

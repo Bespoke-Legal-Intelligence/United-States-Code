@@ -6,7 +6,7 @@ The President shall use poverty measurement standards, such as those developed b
 
 #### (b) Ultimate beneficiaries of activities
 
-To the maximum extent possible, activities under this part that attempt to increase the institutional capabilities of private organizations or governments, or that attempt to stimulate scientific and technological research, shall be designed and monitored to ensure that the ultimate beneficiaries of these activities are the poor majority.
+To the maximum extent possible, activities under this part that attempt to increase the institutional capabilities of private organizations or governments, or that attempt to stimulatescientific and technological research, shall be designed and monitored to ensure that the ultimate beneficiaries of these activities are the poor majority.
 
 (Pub. L. 87–195, pt. I, §128, as added Pub. L. 97–377, title I, §101(b)(2), Dec. 21, 1982, 96 Stat. 1832; amended Pub. L. 99–83, title III, §312(a), Aug. 8, 1985, 99 Stat. 216.)
 
@@ -24,5 +24,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Report of Administrator of Agency for International Development to Congress by June 21, 1983, on Implementation of Section
 
-Pub. L. 97–377, title I, §101(b)(2), Dec. 21, 1982, 96 Stat. 1832, provided in part: "That within six months afterthe date of approval of this joint resolution \[Dec. 21, 1982\], the Administrator of the Agency for International Development shall report to Congress on the implementation of this provision \[this section\], the types of projects determined to meet these requirements, and the effect on the overall United States foreign assistance program."
+Pub. L. 97–377, title I, §101(b)(2), Dec. 21, 1982, 96 Stat. 1832, provided in part that within six months after Dec. 21, 1982, the Administrator of the Agency for International Development would report to Congress on the implementation of this section, the types of projects determined to meet these requirements, and the effect on the overall United States foreign assistance program.
 

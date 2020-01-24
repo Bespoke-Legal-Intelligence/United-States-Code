@@ -2,7 +2,7 @@
 
 #### (a) Sense of Congress
 
-It is the sense of the Congress that Federal agencies should review and evaluate planned regulations to ensure that the cost estimates provided by the Congressional Budget Office will be carefully considered as regulations are promulgated.
+It is the sense of the Congress that Federal agencies should review and evaluate planned regulations to ensure that the cost estimatesprovided by the Congressional Budget Office will be carefully considered as regulations are promulgated.
 
 #### (b) Statement of cost
 
@@ -20,7 +20,7 @@ At the request of the Director of the Congressional Budget Office, the Director 
 
 #### References in Text
 
-The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c), is Pub. L. 93–344,July 12, 1974, 88 Stat. 297, as amended. Part B of title IV of the Act is classified generally to part B (§658 et seq.) of subchapter II of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Part B of title IV of the Act is classified generally to part B (§658 et seq.) of subchapter II of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Effective Date
 

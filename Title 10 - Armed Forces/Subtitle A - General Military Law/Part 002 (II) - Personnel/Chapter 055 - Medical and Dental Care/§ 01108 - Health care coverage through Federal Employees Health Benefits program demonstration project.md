@@ -2,7 +2,7 @@
 
 (a)
 
-FEHBP Option Demonstration.—The Secretary of Defense, after consulting with the other administering Secretaries, shall enter into an agreement with the Office of Personnel Management to conduct a demonstration project (in this section referred to as the "demonstration project") under which eligible beneficiaries described in subsection (b) and residing within one of the areas covered by the demonstration project may enroll in health benefits plans offered through the Federal Employees HealthBenefits program under chapter 89 of title 5. The number of eligible beneficiaries and family members of such beneficiaries under subsection (b)(2) who may be enrolled in health benefits plans during the enrollment period under subsection (d)(2) may not exceed 66,000.
+FEHBP Option Demonstration.—The Secretary of Defense, after consulting with the other administering Secretaries, shall enter into an agreement with the Office of Personnel Management to conduct a demonstration project (in this section referred to as the "demonstration project") under which eligible beneficiaries described in subsection (b) and residing within one of the areas covered by the demonstration project may enroll in health benefits plans offered through the Federal Employees Health Benefits program under chapter 89 of title 5. The number of eligible beneficiaries and family members of such beneficiaries under subsection (b)(2) who may be enrolled in health benefits plans during the enrollment period under subsection (d)(2) may not exceed 66,000.
 
 (b)
 
@@ -70,7 +70,7 @@ Effect of Cancellation.—The cancellation by an eligible beneficiary of coverag
 
 Separate Risk Pools; Charges.—(1) The Director of the Office of Personnel Management shall require health benefits plans under chapter 89 of title 5 that participate in the demonstration project to maintain a separate risk pool for purposes of establishing premium rates for eligible beneficiaries who enroll in such a plan in accordance with this section.
 
-(2) The Director shall determine total subscription charges for self only or for family coverage for eligible beneficiaries who enroll in a health benefits plan under chapter 89 of title 5 in accordance with this section. The subscription charges shall include premium charges paid tothe plan and amounts described in section 8906(c) of title 5 for administrative expenses and contingency reserves.
+(2) The Director shall determine total subscription charges for self only or for family coverage for eligible beneficiaries who enroll in a health benefits plan under chapter 89 of title 5 in accordance with this section. The subscription charges shall include premium charges paid to the plan and amounts described in section 8906(c) of title 5 for administrative expenses and contingency reserves.
 
 (i)
 

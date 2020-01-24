@@ -10,7 +10,7 @@ Acquisition, Operation, and Maintenance of Airports.—
 
 &emsp;(1)
 
-Authorization.—The Secretary may plan, acquire, establish, construct, enlarge, improve, maintain, equip, operate, regulate, and protect airports in the continental United States in, or in close proximity to, System units, when the Secretary determines that theairports are necessary to the proper performance of the functions of the Department of the Interior.
+Authorization.—The Secretary may plan, acquire, establish, construct, enlarge, improve, maintain, equip, operate, regulate, and protect airports in the continental United States in, or in close proximity to, System units, when the Secretary determines that the airports are necessary to the proper performance of the functions of the Department of the Interior.
 
 &emsp;(2)
 

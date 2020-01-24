@@ -20,7 +20,7 @@
 
 #### (B) Amount carried to other 20 years
 
-&emsp;&emsp;The amount of the unused credit for the unused credit year shall be carried to each of the other 20 taxable years to the extent that such unused credit may not be taken into account under section 38(a) for a prior taxable year because of the limitations of subsections (b) and (c).
+&emsp;&emsp;The amount of the unused credit for the unused credit year shall be carried to each ofthe other 20 taxable years to the extent that such unused credit may not be taken into account under section 38(a) for a prior taxable year because of the limitations of subsections (b) and (c).
 
 #### (3) 5-year carryback for marginal oil and gas well production credit
 
@@ -186,7 +186,7 @@ Section applicable to taxable years beginning after Dec. 31, 1983, and to carryb
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 For provisions that nothing in amendment by section 11801(a)(2) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

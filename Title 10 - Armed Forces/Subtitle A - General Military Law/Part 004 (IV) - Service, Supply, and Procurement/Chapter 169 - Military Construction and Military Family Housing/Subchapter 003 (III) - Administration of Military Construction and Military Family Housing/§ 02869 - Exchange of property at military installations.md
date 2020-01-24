@@ -2,7 +2,7 @@
 
 (a)
 
-Exchange Authorized.—(1) The Secretary concerned may enter into an agreement to convey real property, including any improvements thereon, described in paragraph (2) to any person who agrees, in exchange for the real property, to transfer to the United States all right, title, and interest of the person in and to a parcel of real property, including any improvements thereon under the person's control, or to carry out a land acquisition, including the acquisition of all right, title, and interest or a lesser interest in real property under an agreement entered into under section 2684a of this title to limit encroachments and other constraints on military training, testing, and operations.
+Exchange Authorized.—(1) The Secretary concerned may enter into an agreement to convey real property, including any improvements thereon, described in paragraph (2) to any person who agrees, in exchange for the real property, to transfer to the United States all right,title, and interest of the person in and to a parcel of real property, including any improvements thereon under the person's control, or to carry out a land acquisition, including the acquisition of all right, title, and interest or a lesser interest in real property under an agreement entered into under section 2684a of this title to limit encroachments and other constraints on military training, testing, and operations.
 
 (2) Paragraph (1) applies with respect to real property under the jurisdiction of the Secretary concerned—
 
@@ -40,7 +40,7 @@ Advance Notice of Use of Authority.—(1) Notice of the proposed use of the conv
 
 &emsp;(B) the waiting period applicable to that notice under paragraph (3) expires.
 
-(3) If the notice submitted under paragraph (2) deals with the conveyance of real property located on a military installation that is closed or realigned under a base closure law or the conveyance of real property under an agreement entered into under section 2684a of this title, the Secretary concerned may enter into the agreement under subsection (a) for the conveyance of the property after the end of the 14-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title. In the case of other real property to be conveyed under subsection (a),the Secretary concerned may enter into the agreement only after the end of the 45-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title.
+(3) If the notice submitted under paragraph (2) deals with the conveyance of real property located on a military installation that is closed or realigned under a base closure law or the conveyance of real property under an agreement entered into under section 2684a of this title, the Secretary concerned may enter into the agreement under subsection (a) for the conveyance of the property after the end of the 14-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title. In the case of other real property to be conveyed under subsection (a), the Secretary concerned may enter into the agreement only after the end of the 45-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title.
 
 (e)
 
@@ -54,7 +54,7 @@ Description of Property.—The exact acreage and legal description of real prope
 
 Additional Terms and Conditions.—The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
 
-(Added Pub. L. 108–136, div. B, title XXVIII, §2805(a)(1), Nov. 24, 2003, 117 Stat. 1719; amended Pub. L. 109–364, div. B, title XXVIII, §2811(a)–(f)(1), Oct. 17, 2006, 120 Stat. 2471–2473; Pub. L. 111–84, div. B, title XXVIII, §2804(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2661, 2662; Pub. L. 112–81, div. B, title XXVIII, §2815(a), (b), Dec. 31, 2011, 125 Stat. 1688, 1689; Pub. L. 112–239, div. B, title XXVIII, §2811, Jan. 2, 2013, 126 Stat. 2150; Pub. L. 115–91, div. B, title XXVIII, §§2801(c)(6), 2815, 2816, Dec. 12, 2017, 131 Stat. 1844, 1850.)
+(Added Pub. L. 108–136, div. B, title XXVIII, §2805(a)(1), Nov. 24, 2003, 117 Stat. 1719; amended Pub. L. 109–364, div. B, title XXVIII, §2811(a)–(f)(1), Oct. 17, 2006, 120 Stat. 2471–2473;Pub. L. 111–84, div. B, title XXVIII, §2804(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2661, 2662; Pub. L. 112–81, div. B, title XXVIII, §2815(a), (b), Dec. 31, 2011, 125 Stat. 1688, 1689; Pub. L. 112–239, div. B, title XXVIII, §2811, Jan. 2, 2013, 126 Stat. 2150; Pub. L. 115–91, div. B, title XXVIII, §§2801(c)(6), 2815, 2816, Dec. 12, 2017, 131 Stat. 1844, 1850.)
 
 #### Amendments
 

@@ -54,7 +54,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) expenses for room and board, uniforms, transportation, and supplementary items and services (including extended day programs) which are required or provided by a public, private, or religious school in connection with such enrollment or attendance, and
 
-&emsp;&emsp;&emsp;(iii) expenses for the purchase of any computer technology or equipment or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary's family during any of the years the beneficiary is in school.
+&emsp;&emsp;&emsp;(iii) expenses for the purchase of any computer technology or equipment orInternet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary's family during any of the years the beneficiary is in school.
 
 > &emsp;&emsp;Clause (iii) shall not include expenses for computer software designed for sports, games, or hobbies unless the software is predominantly educational in nature.
 
@@ -218,7 +218,7 @@ The trustee of a Coverdell education savings account shall make such reports reg
 
 #### References in Text
 
-The date of the enactment of this section, referred to in subsec. (d)(4)(B)(iv), is the date of enactment of Pub.L. 105–34, which enacted this section and was approved Aug. 5, 1997.
+The date of the enactment of this section, referred to in subsec. (d)(4)(B)(iv), is the date of enactment of Pub. L. 105–34, which enacted this section and was approved Aug. 5, 1997.
 
 #### Amendments
 

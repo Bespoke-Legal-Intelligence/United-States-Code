@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) personal property,
 
-&emsp;&emsp;(B) other property (not including a building or its structural components) but only if such other property is tangible and has anadjusted basis in which there are reflected adjustments described in paragraph (2) for a period in which such property (or other property)—
+&emsp;&emsp;(B) other property (not including a building or its structural components) but only if such other property is tangible and has an adjusted basis in which there are reflected adjustments described in paragraph (2) for a period in which such property (or other property)—
 
 &emsp;&emsp;&emsp;(i) was used as an integral part of manufacturing, production, or extraction or of furnishing transportation, communications, electrical energy, gas, water, or sewage disposal services,
 
@@ -92,7 +92,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The second sentence of paragraph (3) shall not apply to a disposition of section 1245 property to an organization described in section 511(a)(2) or 511(b)(2) if, immediately after such disposition, such organization uses such property in an unrelated trade or business (as defined in section 513).
+&emsp;&emsp;The second sentence of paragraph (3) shall not apply to a disposition of section 1245property to an organization described in section 511(a)(2) or 511(b)(2) if, immediately after such disposition, such organization uses such property in an unrelated trade or business (as defined in section 513).
 
 #### (B) Later change in use
 
@@ -106,7 +106,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If a taxpayer disposes of more than 1 amortizable section 197 intangible (as defined in section 197(c)) in a transaction or a series of related transactions, all such amortizable197 intangibles shall be treated as 1 section 1245 property for purposes of this section.
+&emsp;&emsp;If a taxpayer disposes of more than 1 amortizable section 197 intangible (as defined in section 197(c)) in a transaction or a series of related transactions, all such amortizable 197 intangibles shall be treated as 1 section 1245 property for purposes of this section.
 
 #### (B) Exception
 
@@ -158,7 +158,7 @@ Subsec. (a)(4). Pub. L. 108–357, §886(b)(2), struck out par. (4) which relate
 
 <b>1997</b>—Subsec. (a)(2)(C), (3)(C). Pub. L. 105–34 inserted "179A," after "179,".
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–188 reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "For purposes of this section, the term 'section 1245 property' means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 (or subject to the allowance of amortization provided in)) and is either—".
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–188 reenacted heading without change and amended introductory provisionsgenerally. Prior to amendment, introductory provisions read as follows: "For purposes of this section, the term 'section 1245 property' means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 (or subject to the allowance of amortization provided in)) and is either—".
 
 <b>1995</b>—Subsec. (b)(5). Pub. L. 104–7 struck out "1071 and" before "1081 transactions" in heading and "section 1071 (relating to gain from sale or exchange to effectuate policies of FCC) or" before "section 1081" in text.
 
@@ -338,7 +338,7 @@ Amendment by section 212(d)(2)(F) of Pub. L. 97–34 applicable to expenditures 
 
 Amendment by Pub. L. 96–451 applicable with respect to additions to capital account made after Dec. 31, 1979, see section 301(d) of Pub. L. 96–451, set out as an Effective Date note under section 194 of this title.
 
-Amendment by Pub. L. 96–223 applicable to taxable years beginning after Dec. 31, 1979, see section 251(b) of Pub. L. 96–223, set out as an Effective Date note under section 193 of this title.
+Amendment by Pub. L. 96–223 applicable to taxable years beginning after Dec. 31, 1979, see section 251(b) ofPub. L. 96–223, set out as an Effective Date note under section 193 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -354,7 +354,7 @@ Amendment by section 1901(a)(140), (b)(3)(K), (11)(D) of Pub. L. 94–455 effect
 
 Amendment by section 1951(c)(2)(C) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976, see section 1951(d) of Pub. L. 94–455, set out as a note under section 72 of this title.
 
-Amendment by section 2122(b)(3) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976,see section 2122(c) of Pub. L. 94–455, as amended, set out as an Effective Date note under section 190 of this title.
+Amendment by section 2122(b)(3) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976, see section 2122(c) of Pub. L. 94–455, as amended, set out as an Effective Date note under section 190 of this title.
 
 Amendment by section 2124(a)(2) of Pub. L. 94–455 applicable with respect to additions to capital account made after June 14, 1976 and before June 15, 1981, see section 2124(a)(4) of Pub. L. 94–455, set out as an Effective Date note under section 642 of this title.
 

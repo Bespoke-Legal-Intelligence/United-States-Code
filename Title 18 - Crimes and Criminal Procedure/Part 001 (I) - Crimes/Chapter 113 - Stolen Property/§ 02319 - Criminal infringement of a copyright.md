@@ -102,5 +102,5 @@ Subsecs. (c) to (e). Pub. L. 105–147, §2(d)(3), added subsecs. (c) and (d) an
 
 &emsp;"(3) shall be fined not more than $25,000 or imprisoned for not more than one year, or both, in any other case."
 
-Subsec. (c). Pub. L. 102–561, §2, substituted " 'phonorecord' " for " 'sound recording', 'motion picture', 'audiovisual work', 'phonorecord'," in par. (1) and "120" for "118" in par. (2).
+Subsec. (c). Pub. L. 102–561, §2, substituted " 'phonorecord' " for " 'sound recording', 'motion picture','audiovisual work', 'phonorecord'," in par. (1) and "120" for "118" in par. (2).
 

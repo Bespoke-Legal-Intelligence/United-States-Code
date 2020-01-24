@@ -32,7 +32,7 @@
 
 #### (C) 24-month contracts
 
-&emsp;&emsp;Rental assistance contracts made available with assistance under this subchapter shall be for not more than 24 months, except that assistance to a family may be renewed.
+&emsp;&emsp;Rental assistance contracts made available with assistance under this subchaptershall be for not more than 24 months, except that assistance to a family may be renewed.
 
 #### (D) Use of section 1437f assistance
 
@@ -54,7 +54,7 @@ Participating jurisdictions shall have discretion to invest funds made available
 
 #### (c) Administrative costs
 
-In each fiscal year, each participating jurisdiction may use not more than 10 percent of the funds made available under this part to the jurisdiction for such year for any administrativeand planning costs of the jurisdiction in carrying out this part, including the costs of the salaries of persons engaged in administering and managing activities assisted with funds made available under this part.
+In each fiscal year, each participating jurisdiction may use not more than 10 percent of the funds made available under this part to the jurisdiction for such year for any administrative and planning costs of the jurisdiction in carrying out this part, including the costs of the salaries of persons engaged in administering and managing activities assisted with funds made available under this part.
 
 #### (d) Prohibited uses
 
@@ -100,7 +100,7 @@ The requirements of section 3545(d) of this title shall be satisfied by a certif
 
 #### (g) Limitation on operating assistance
 
-A participating jurisdiction may not use more than 5 percent of its allocation under this part for the payment of operating expenses for community housing development organizations.
+A participating jurisdiction may not use more than 5 percent of its allocation under this partfor the payment of operating expenses for community housing development organizations.
 
 (Pub. L. 101–625, title II, §212, Nov. 28, 1990, 104 Stat. 4097; Pub. L. 102–550, title II, §§203(a), 204–207(b), (d), title X, §1012(e), Oct. 28, 1992, 106 Stat. 3752–3754, 3905; Pub. L. 105–276, title V, §522(b)(5), Oct. 21, 1998, 112 Stat. 2565.)
 
@@ -122,7 +122,7 @@ Pub. L. 102–550, §205, inserted at end "For the purpose of this part, the ter
 
 Subsec. (a)(2). Pub. L. 102–550, §203(a)(1), struck out "under paragraph (3) of this subsection or" after "authorized" in concluding provisions.
 
-Subsec. (a)(3). Pub. L. 102–550, §204(b), added cl. (ii) of par. (3)(A) and struck out former cl. (ii) which read asfollows: "the tenant-based rental assistance is provided to persons from the waiting lists eligible for section 8 assistance in accordance with the applicable preferences."
+Subsec. (a)(3). Pub. L. 102–550, §204(b), added cl. (ii) of par. (3)(A) and struck out former cl. (ii) which read as follows: "the tenant-based rental assistance is provided to persons from the waiting lists eligible for section 8 assistance in accordance with the applicable preferences."
 
 Pub. L. 102–550, §204(a), added subpar. (E).
 

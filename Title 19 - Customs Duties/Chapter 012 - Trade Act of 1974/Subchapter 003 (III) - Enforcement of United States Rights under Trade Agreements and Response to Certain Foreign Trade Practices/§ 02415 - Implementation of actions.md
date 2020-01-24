@@ -2,7 +2,7 @@
 
 #### (a) Actions to be taken under section 2411
 
-(1) Except as provided in paragraph (2), the Trade Representative shall implement the action the Trade Representative determines under section 2414(a)(1)(B) of this title to take under section 2411 of this title, subject to the specific direction, if any, of the President regarding any such action, by no later than the date that is 30 days after the date on which such determination is made.
+(1) Except as provided in paragraph (2), the Trade Representative shall implement the action the Trade Representative determines under section 2414(a)(1)(B) of this title to take under section 2411 of this title, subject to the specific direction, if any, of the President regarding anysuch action, by no later than the date that is 30 days after the date on which such determination is made.
 
 (2)(A) Except as otherwise provided in this paragraph, the Trade Representative may delay, by not more than 180 days, the implementation of any action that is to be taken under section 2411 of this title—
 
@@ -36,7 +36,7 @@
 
 (B) By no later than the date that is 6 months after the date on which an advisory panel is established under paragraph (1)(A), the advisory panel shall submit to the Trade Representative and to the Congress a report on measures that the advisory panel recommends be taken by the United States to promote the competitiveness of the domestic industry affected by the export targeting that is the subject of the affirmative determination made under section 2414(a)(1)(A) of this title.
 
-(Pub. L. 93–618, title III, §305, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 299; amended Pub. L. 98–573, title III, §304(g), Oct. 30, 1984, 98 Stat. 3006; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1172; Pub. L.108–429, title II, §2201(c), Dec. 3, 2004, 118 Stat. 2599.)
+(Pub. L. 93–618, title III, §305, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 299; amended Pub. L. 98–573, title III, §304(g), Oct. 30, 1984, 98 Stat. 3006; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1172; Pub. L. 108–429, title II, §2201(c), Dec. 3, 2004, 118 Stat. 2599.)
 
 #### Amendments
 

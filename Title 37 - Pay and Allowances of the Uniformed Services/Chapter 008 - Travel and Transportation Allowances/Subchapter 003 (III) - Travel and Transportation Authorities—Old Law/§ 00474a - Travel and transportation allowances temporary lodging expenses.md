@@ -62,7 +62,7 @@ Subsec. (e). Pub. L. 110–417 substituted "$290 a day" for "$180 a day".
 
 Subsec. (e). Pub. L. 107–107, §632(b), substituted "$180" for "$110".
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(a)(2)\], added subsec. (a) and struck out former subsec. (a) which provided that a member of a uniformed service who was ordered to make certain changes ofpermanent station was to be paid or reimbursed for subsistence expenses actually incurred by the member and the member's dependents while occupying temporary quarters.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(a)(2)\], added subsec. (a) and struck out former subsec. (a) which provided that a member of a uniformed service who was ordered to make certain changes of permanent station was to be paid or reimbursed for subsistence expenses actually incurred by the member and the member's dependents while occupying temporary quarters.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(a)(2)\], added subsec. (b). Former subsec. (b) redesignated (d).
 
@@ -76,7 +76,7 @@ Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(a)(1), (c)(2)\
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–160, §621(a), substituted "10 days" for "four days" in second sentence and "five days" for "two days" in third sentence.
 
-Subsec. (d). Pub. L. 103–160, §621(b), struck out subsec. (d) which read as follows: "In the case of a member who is ordered to make a change of permanent station described in subsection (a)(1) during fiscal years 1993 through 1997, the Secretary concerned may extend the period for which subsistence expenses incurred incident to that change are paid or reimbursed to not more than 10 days if the new duty station is in a geographical area where there is a shortage of safe and affordable housing because of the arrival of members of the armed forces in the area as part of the withdrawal of members of the armed forces from duty stations outside the United States, the closure or realignment of military installations, or the restructuring or deactivation of military units. The existence of such a shortage of safe and affordable housing in an area shall be determined by the Secretary concerned."
+Subsec. (d). Pub. L. 103–160, §621(b), struck out subsec. (d) which read as follows: "In the case of a member who is ordered to make a change of permanent station described in subsection (a)(1) during fiscal years 1993 through 1997, the Secretary concerned may extend the period for which subsistence expenses incurred incident to that change are paid or reimbursed to not more than 10 days if the new duty station is in a geographical area where there is a shortage of safe and affordable housing because of the arrival of members of the armed forces in the area as part of the withdrawal of members of the armed forces from duty stations outside the UnitedStates, the closure or realignment of military installations, or the restructuring or deactivation of military units. The existence of such a shortage of safe and affordable housing in an area shall be determined by the Secretary concerned."
 
 <b>1992</b>—Subsec. (d). Pub. L. 102–484 added subsec. (d).
 

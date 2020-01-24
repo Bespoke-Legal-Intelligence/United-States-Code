@@ -24,7 +24,7 @@
 
 &emsp;A local educational agency shall be eligible to use the applicable funding in accordance with subsection (a) if—
 
-&emsp;&emsp;(A)(i)(I) the total number of students in average daily attendance at all of the schools served by the local educational agency is fewer than 600; or
+&emsp;&emsp;(A)(i)(I) the total number of students in average daily attendance at all of theschools served by the local educational agency is fewer than 600; or
 
 &emsp;&emsp;(II) each county in which a school served by the local educational agency is located has a total population density of fewer than 10 persons per square mile; and
 

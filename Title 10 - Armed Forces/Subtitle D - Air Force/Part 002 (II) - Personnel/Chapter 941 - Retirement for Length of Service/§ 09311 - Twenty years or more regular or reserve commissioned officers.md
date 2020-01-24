@@ -1,6 +1,6 @@
 ### §9311. Twenty years or more: regular or reserve commissioned officers
 
-(a) The Secretary of the Air Force may, upon the officer's request, retire a regular or reserve commissioned officer of the Air Force who has at least 20 years of service computed under section 9326 of this title, at least 10 years of which have been active service as a commissioned officer.
+(a) The Secretary of the Air Force may, upon the officer's request, retire a regular or reserve commissioned officer of the Air Force who has at least 20 years of service computed under section 9326 of this title, at least 10 years of whichhave been active service as a commissioned officer.
 
 (b)(1) The Secretary of Defense may authorize the Secretary of the Air Force, during the period specified in paragraph (2), to reduce the requirement under subsection (a) for at least 10 years of active service as a commissioned officer to a period (determined by the Secretary of the Air Force) of not less than eight years.
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Temporary Early Retirement Authority
 
-For provisions authorizing the Secretary of the Air Force, during the period beginning Oct. 23, 1992, andending Oct. 1, 1995, to apply this section to a regular or reserve commissioned officer with at least 15 but less than 20 years of service by substituting "at least 15 years" for "at least 20 years" in subsec. (a) of this section, see section 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
+For provisions authorizing the Secretary of the Air Force, during the period beginning Oct. 23, 1992, and ending Oct. 1, 1995, to apply this section to a regular or reserve commissioned officer with at least 15 but less than 20 years of service by substituting "at least 15 years" for "at least 20 years" in subsec. (a) of this section, see section 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
 

@@ -14,7 +14,7 @@ Sharing of Information.—The Secretary and the Secretary of Agriculture shall e
 
 (d)
 
-Publication of Data.—The Secretary shall publish data on incidents and complaints involving the loss, injury, or death of an animal during air transport in a manner comparable to other consumer complaint and incident data.
+Publication of Data.—The Secretary shall publish data on incidents and complaints involving the loss, injury, or death of an animal duringair transport in a manner comparable to other consumer complaint and incident data.
 
 (e)
 

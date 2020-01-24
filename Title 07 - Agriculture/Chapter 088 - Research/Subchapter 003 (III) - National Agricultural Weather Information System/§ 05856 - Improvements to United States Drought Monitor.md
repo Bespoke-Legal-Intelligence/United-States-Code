@@ -46,7 +46,7 @@ The Federal Crop Insurance Act, referred to in subsec. (b), is subtitle A of tit
 
 #### Codification
 
-Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of subtitle C of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of subtitle C oftitle XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
 #### Definition of "Secretary"
 

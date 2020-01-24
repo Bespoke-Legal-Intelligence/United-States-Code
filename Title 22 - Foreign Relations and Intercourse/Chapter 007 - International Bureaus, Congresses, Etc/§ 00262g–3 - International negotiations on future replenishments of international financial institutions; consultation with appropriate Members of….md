@@ -6,7 +6,7 @@ The Secretary of the Treasury or his designee shall consult with the Chairman an
 
 &emsp;(2) the Committee on Foreign Relations of the Senate, the Committee on Appropriations of the Senate, and the appropriate subcommittee of each such committee,
 
-> for the purpose of discussing the position of the executive branch and the views of the Congress with respect to any international negotiations being held to consider future replenishments or capital expansions of any multilateral development bank which may involve an increased contribution or subscription by the United States.Such consultation shall be made (A) not later than 30 days before the initiation of such international negotiations, (B) during the period in which such negotiations are being held, in a frequent and timely manner, and (C) before a session of such negotiations is held at which the United States representatives may agree to such a replenishment or capital expansion.
+> for the purpose of discussing the position of the executive branch and the views of the Congress with respect to any international negotiations being held to consider future replenishments or capital expansions of any multilateral development bank which may involve an increased contribution or subscription by the United States. Such consultation shall be made (A) not later than 30 days before the initiation of such international negotiations, (B) during the period in which such negotiations are being held, in a frequent and timely manner, and (C) before a session of such negotiations is held at which the United States representatives may agree to such a replenishment or capital expansion.
 
 (Pub. L. 95–118, title XII, §1201, as added Pub. L. 97–35, title XIII, §1361(b), Aug. 13, 1981, 95 Stat. 746.)
 

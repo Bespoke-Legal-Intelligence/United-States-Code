@@ -10,7 +10,7 @@ Congress finds the following:
 
 &emsp;(3) The National Forest System manages only 17 percent of the commercial timberland of the United States, with over half of the standing softwoods inventory located on that land. Dramatic changes in Federal agency policy during the early 1990's have significantly curtailed the management of this vast timber resource, causing abrupt shifts in the supply of timber from public to private ownership. As a result of these shifts in supply, some 60 percent of total wood production in the United States is now coming from private forest land in the southern United States.
 
-&emsp;(4) At the same time that pressures are building for the removal of even more land from commercial production, the Federal Government is significantly reducing its commitment to productivity-related research regarding forests and rangeland, which is critically needed by the private sector for the sustained management of remaining available timber and forage resources for the benefit of all species.
+&emsp;(4) At the same time that pressures are building for the removal of even more land from commercial production, the Federal Government is significantly reducing its commitment to productivity-related research regarding forests and rangeland, which is critically needed by the private sector for the sustained management of remaining available timberand forage resources for the benefit of all species.
 
 &emsp;(5) Uncertainty over the availability of the United States timber supply, increasing regulatory burdens, and the lack of Federal Government support for research is causing domestic wood and paper producers to move outside the United States to find reliable sources of wood supplies, which in turn results in a worsening of the United States trade balance, the loss of employment and infrastructure investments, and an increased risk of infestations of exotic pests and diseases from imported wood products.
 
@@ -40,7 +40,7 @@ The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to i
 
 "(1) Congress finds that scientific discoveries and technological advances must be made and applied to support the protection, management, and utilization of the Nation's renewable resources. It is the purpose of this subchapter to authorize the Secretary of Agriculture (hereinafter in this subchapter referred to as the 'Secretary') to implement a comprehensive program of forest and rangeland renewable resources research and dissemination of the findings of such research.
 
-"(2) Congress further finds that the forest and rangeland renewable resources of the world are threatenedby deforestation due to conversion to agriculture of lands better suited to other uses, over-grazing, over-harvesting, and other causes that pose a direct adverse threat to people, the global environment, and the world economy."
+"(2) Congress further finds that the forest and rangeland renewable resources of the world are threatened by deforestation due to conversion to agriculture of lands better suited to other uses, over-grazing, over-harvesting, and other causes that pose a direct adverse threat to people, the global environment, and the world economy."
 
 <b>1990</b>—Subsecs. (a), (c). Pub. L. 101–513 designated existing provisions of subsec. (a) as par. (1), added par. (2), and added subsec. (c).
 

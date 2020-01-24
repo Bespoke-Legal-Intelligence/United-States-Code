@@ -156,7 +156,7 @@ For purposes of this subchapter—
 
 #### (6) Other procedures for modification of imputed underpayment
 
-&emsp;The Secretary may by regulations or guidance provide for additional procedures to modify imputed underpayment amounts on thebasis of such other factors as the Secretary determines are necessary or appropriate to carry out the purposes of this subsection.
+&emsp;The Secretary may by regulations or guidance provide for additional procedures to modify imputed underpayment amounts on the basis of such other factors as the Secretary determines are necessary or appropriate to carry out the purposes of this subsection.
 
 #### (7) Year and day for submission to Secretary
 
@@ -220,7 +220,7 @@ Subsec. (c)(5) to (8). Pub. L. 114–113, §411(a)(2), added par. (5) and redesi
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under section 6031 of this title.
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub.L. 115–141, set out as a note under section 6031 of this title.
 
 #### Effective Date of 2015 Amendment
 

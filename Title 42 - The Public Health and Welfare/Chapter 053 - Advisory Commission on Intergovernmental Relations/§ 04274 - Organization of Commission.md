@@ -10,7 +10,7 @@ The President shall designate a Chairman and a Vice Chairman from among members 
 
 #### (c) Vacancies in membership
 
-Any vacancy in the membership of the Commission shall be filed in the same manner in which the original appointment was made; except that where the number of vacancies is fewer than the number of members specified in paragraphs (4), (5), (6), and (7) of section 4273(a)of this title, each panel of names submitted in accordance with the aforementioned paragraphs shall contain at least two names for each vacancy.
+Any vacancy in the membership of the Commission shall be filed in the same manner in which the original appointment was made; except that where the number of vacancies is fewer than the number of members specified in paragraphs (4), (5), (6), and (7) of section 4273(a) of this title, each panel of names submitted in accordance with the aforementioned paragraphs shall contain at least two names for each vacancy.
 
 #### (d) Termination of service in official position from which originally appointed
 

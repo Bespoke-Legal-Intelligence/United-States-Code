@@ -20,7 +20,7 @@ Corporate Organization.—The corporation shall be organized and operated—
 
 Corporate Board of Directors.—(1) The members of the board of directors of the corporation shall serve without compensation as members of the board, except for reasonable travel and other related expenses for attendance at meetings of the board.
 
-(2) The Secretary of the Air Force may authorize military and civilian personnel of theAir Force under section 1033 of this title to serve, in their official capacities, as members of the board of directors of the corporation, but such personnel shall not hold more than one-third of the directorships.
+(2) The Secretary of the Air Force may authorize military and civilian personnel of the Air Force under section 1033 of this title to serve, in their official capacities, as members of the board of directors of the corporation, but such personnel shall not hold more than one-third of the directorships.
 
 (d)
 

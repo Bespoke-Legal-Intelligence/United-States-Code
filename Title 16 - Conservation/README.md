@@ -147,6 +147,8 @@
 | [<b>95.</b>](Chapter%20095%20-%20Eliminate%2C%20Neutralize%2C%20and%20Disrupt%20Wildlife%20Trafficking/README.md) | <b>Eliminate, Neutralize, and Disrupt Wildlife Trafficking</b> | <b>7601</b> |
 | [<b>96.</b>](Chapter%20096%20-%20North%20Pacific%20Fisheries%20Convention/README.md) | <b>North Pacific Fisheries Convention</b> | <b>7701</b> |
 | [<b>97.</b>](Chapter%20097%20-%20Convention%20on%20the%20Conservation%20and%20Management%20of%20High%20Seas%20Fishery%20Resources%20in%20the%20South%20Pacific/README.md) | <b>Convention on the Conservation and Management of High Seas Fishery Resources in the South Pacific</b> | <b>7801</b> |
+| [<b>98.</b>](Chapter%20098%20-%20Sportsmen%27s%20Access%20to%20Federal%20Land/README.md) | <b>Sportsmen's Access to Federal Land</b> | <b>7901</b> |
+| [<b>99.</b>](Chapter%20099%20-%20Maritime%20Security%20and%20Fisheries%20Enforcement/README.md) | <b>Maritime Security and Fisheries Enforcement</b> | <b>8001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -299,3 +301,5 @@
 - [Chapter 095 - Eliminate, Neutralize, and Disrupt Wildlife Trafficking](Chapter%20095%20-%20Eliminate%2C%20Neutralize%2C%20and%20Disrupt%20Wildlife%20Trafficking/README.md)
 - [Chapter 096 - North Pacific Fisheries Convention](Chapter%20096%20-%20North%20Pacific%20Fisheries%20Convention/README.md)
 - [Chapter 097 - Convention on the Conservation and Management of High Seas Fishery Resources in the South Pacific](Chapter%20097%20-%20Convention%20on%20the%20Conservation%20and%20Management%20of%20High%20Seas%20Fishery%20Resources%20in%20the%20South%20Pacific/README.md)
+- [Chapter 098 - Sportsmen's Access to Federal Land](Chapter%20098%20-%20Sportsmen%27s%20Access%20to%20Federal%20Land/README.md)
+- [Chapter 099 - Maritime Security and Fisheries Enforcement](Chapter%20099%20-%20Maritime%20Security%20and%20Fisheries%20Enforcement/README.md)

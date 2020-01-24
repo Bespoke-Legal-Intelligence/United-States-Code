@@ -6,11 +6,11 @@ Authority.—
 
 &emsp;(1)
 
-Contracts and cooperative agreements.—The Secretary of the Army may enter into contracts and cooperative agreements with the Army West Point Athletic Association for the purpose of supporting the athletic programs of the Academy. Notwithstanding section 2304(k) of this title, the Secretary mayenter such contracts or cooperative agreements on a sole source basis pursuant to section 2304(c)(5) of this title. Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Academy.
+Contracts and cooperative agreements.—The Secretary of the Army may enter into contracts and cooperative agreements with the Army West Point Athletic Association for the purpose of supporting the athletic programs of the Academy. Notwithstanding section 2304(k) of this title, the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to section 2304(c)(5) of this title. Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Academy.
 
 &emsp;(2)
 
-Financial controls.—(A) Before entering into a contract or cooperative agreement under paragraph (1), the Secretary shall ensure that such contract or agreement includes appropriate financial controls to account for Academy and Association resources in accordance with accepted accounting principles.
+Financial controls.—(A) Before entering into a contract or cooperative agreement under paragraph (1), the Secretary shall ensure that such contract or agreement includes appropriate financial controls to account forAcademy and Association resources in accordance with accepted accounting principles.
 
 &emsp;(B) Any such contract or cooperative agreement shall contain a provision that allows the Secretary, at the Secretary's discretion, to review the financial accounts of the Association to determine whether the operations of the Association—
 
@@ -96,7 +96,7 @@ Conditions.—The authority provided in this section with respect to the Associa
 
 Association Defined.—In this section, the term "Association" means the Army West Point Athletic Association.
 
-(Added Pub. L. 114–92, div. A, title V, §557(a), Nov. 25, 2015, 129 Stat. 825, §4362; renumbered§7462, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 114–92, div. A, title V, §557(a), Nov. 25, 2015, 129 Stat. 825, §4362; renumbered §7462, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 #### References in Text
 

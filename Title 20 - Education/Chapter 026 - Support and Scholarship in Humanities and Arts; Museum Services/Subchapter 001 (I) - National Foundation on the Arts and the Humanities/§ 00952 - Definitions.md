@@ -10,7 +10,7 @@ As used in this subchapter—
 
 (d) The term "project" means programs organized to carry out the purposes of this subchapter, including programs to foster American artistic creativity, to commission works of art, to create opportunities for individuals to develop artistic talents when carried on as a part of a program otherwise included in this definition, and to develop and enhance the widest public knowledge and understanding of the arts, and includes, where appropriate, rental or purchase of facilities, purchase or rental of land, and acquisition of equipment. Such term also includes—
 
-&emsp;(1) the renovation of facilities if (A) the amount of the expenditure of Federal funds for such purpose in the case of any project does not exceed $250,000, or (B) two-thirds of the members of the National Council on the Arts or the National Council on the Humanities, as the case may be (who are present and voting) approve of the grant or contract involving an expenditure for such purpose; and
+&emsp;(1) the renovation of facilities if (A) the amount of the expenditure of Federal funds for such purpose in the case of any project does not exceed $250,000, or (B) two-thirds of themembers of the National Council on the Arts or the National Council on the Humanities, as the case may be (who are present and voting) approve of the grant or contract involving an expenditure for such purpose; and
 
 &emsp;(2) for purposes of sections 954(p), 956(c)(10), and 956(h) of this title only, the construction of facilities if (A) such construction is for demonstration purposes or under unusual circumstances where there is no other manner in which to accomplish an artistic or humanistic purpose, and (B) two-thirds of the members of the National Council on the Arts and the National Council on the Humanities, as the case may be, (who are present and voting) approve of the grant or contract involving an expenditure for such purpose.
 
@@ -44,7 +44,7 @@ As used in this subchapter—
 
 &emsp;(3) such project, production, workshop, or program, when taken as a whole, lacks serious literary, artistic, political, or scientific value.
 
-(Pub. L. 89–209, §3, Sept. 29, 1965, 79 Stat. 845; Pub. L. 90–348, §§1, 7, June 18, 1968, 82 Stat. 184, 187; Pub. L. 91–346, §3, July 20, 1970, 84 Stat. 443; Pub. L. 93–133, §2(a)(2), Oct. 19, 1973, 87 Stat. 462; Pub. L. 96–496, title I, §101, Dec. 4, 1980, 94 Stat.2583; renumbered title I, §3, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §3 and amended Pub. L. 99–194, title I, §§101(1), 103, Dec. 20, 1985, 99 Stat. 1332; Pub. L. 101–512, title III, §318 \[title I, §102\], Nov. 5, 1990, 104 Stat. 1960, 1962.)
+(Pub. L. 89–209, §3, Sept. 29, 1965, 79 Stat. 845; Pub. L. 90–348, §§1, 7, June 18, 1968, 82 Stat. 184, 187; Pub. L. 91–346, §3, July 20, 1970, 84 Stat. 443; Pub. L. 93–133, §2(a)(2), Oct. 19, 1973, 87 Stat. 462; Pub. L. 96–496, title I, §101, Dec. 4, 1980, 94 Stat. 2583; renumbered title I, §3, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §3 and amended Pub. L. 99–194, title I, §§101(1), 103, Dec. 20, 1985, 99 Stat. 1332; Pub. L. 101–512, title III, §318 \[title I, §102\], Nov. 5, 1990, 104 Stat. 1960, 1962.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Maintenance of records by recipients of grants or financial assistance
 
-Each recipient of a grant under this chapter or of financial assistance under section 1456a ofthis title, as in effect before November 5, 1990, shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition of the funds received under the grant and of the proceeds of such assistance, the total cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+Each recipient of a grant under this chapter or of financial assistance under section 1456a of this title, as in effect before November 5, 1990, shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition of the funds received under the grant and of the proceeds of such assistance, the total cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 #### (b) Access by Secretary and Comptroller General to records, books, etc., of recipients of grants or financial assistance for audit and examination
 
@@ -28,5 +28,5 @@ Subsec. (b)(1). Pub. L. 102–587, §2205(b)(19)(B), substituted "section 1456a 
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–370, §11(2), inserted "or of financial assistance under section 1456a of this title" after "grant under this chapter" and "and of the proceeds of such assistance" after "received under the grant".
 
-Subsec. (b). Pub. L. 94–370, §11(3), inserted provisions limiting duration of authority to 3 years after completion of project or repayment of loan and enlarged scope of access to include persons who entered into transactions relating to the grant of funds.
+Subsec. (b). Pub. L. 94–370, §11(3), inserted provisions limiting duration of authority to 3 years after completion of project or repayment of loan and enlarged scopeof access to include persons who entered into transactions relating to the grant of funds.
 

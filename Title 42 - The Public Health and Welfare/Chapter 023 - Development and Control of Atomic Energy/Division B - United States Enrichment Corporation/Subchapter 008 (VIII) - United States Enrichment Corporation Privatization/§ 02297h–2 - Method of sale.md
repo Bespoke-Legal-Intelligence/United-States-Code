@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Board of Directors of the Corporation, with the approval of the Secretary of the Treasury, shall transfer ownership of the assets and obligations of the Corporation to the privatecorporation established under section 2297h–3 of this title (which may be consummated through a merger or consolidation effected in accordance with, and having the effects provided under, the law of the State of incorporation of the private corporation, as if the Corporation were incorporated thereunder).
+The Board of Directors of the Corporation, with the approval of the Secretary of the Treasury, shall transfer ownership of the assets and obligations of the Corporation to the private corporation established under section 2297h–3 of this title (which may be consummated through a merger or consolidation effected in accordance with, and having the effects provided under, the law of the State of incorporation of the private corporation, as if the Corporation were incorporated thereunder).
 
 #### (b) Board determination
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) with respect to prevailing rate employees under paragraphs (B) and (C) of section 5342(a)(2) of this title, the boundaries of—
 
-&emsp;&emsp;&emsp;(i) individual local wage areas for prevailing rate employees under such paragraphs having regular wage schedules and rates (but such boundaries shall not extend beyond the immediate locality in which the particular prevailing rate employees are employed); and
+&emsp;&emsp;&emsp;(i) individual local wage areas for prevailing rate employees under such paragraphs having regular wage schedules and rates (but such boundaries shall not extendbeyond the immediate locality in which the particular prevailing rate employees are employed); and
 
 &emsp;&emsp;&emsp;(ii) wage areas for prevailing rate employees under such paragraphs having special wage schedules and rates;
 
@@ -150,25 +150,25 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Limitation on Pay Adjustments for Prevailing Rate Employees and Crews of Vessels
 
-Pub. L. 115–141, div. E, title VII, §737, Mar. 23, 2018, 132 Stat. 595, provided that:
+Pub. L. 116–93, div. C, title VII, §737, Dec. 20, 2019, 133 Stat. 2492, provided that:
 
-"(a)(1) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2018, by this or any other Act, may be used to pay any prevailing rate employee described in section 5342(a)(2)(A) of title 5, United States Code—
+"(a)(1) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2020, by this or any other Act, may be used to pay any prevailing rate employee described in section 5342(a)(2)(A) of title 5, United States Code—
 
-&emsp;"(A) during the period from the date of expiration of the limitation imposed by the comparable section for the previous fiscal years until the normal effective date of the applicable wage survey adjustmentthat is to take effect in fiscal year 2018, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section; and
+&emsp;"(A) during the period from the date of expiration of the limitation imposed by the comparable section for the previous fiscal years until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 2020, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section; and
 
-&emsp;"(B) during the period consisting of the remainder of fiscal year 2018, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under subparagraph (A) by more than the sum of—
+&emsp;"(B) during the period consisting of the remainder of fiscal year 2020, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under subparagraph (A) by more than the sum of—
 
-&emsp;&emsp;"(i) the percentage adjustment taking effect in fiscal year 2018 under section 5303 of title 5, United States Code, in the rates of pay under the General Schedule; and
+&emsp;&emsp;"(i) the percentage adjustment taking effect in fiscal year 2020 under section 5303 of title 5, United States Code, in the rates of pay under the General Schedule; and
 
-&emsp;&emsp;"(ii) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2018 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in the previous fiscal year under such section.
+&emsp;&emsp;"(ii) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2020 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in the previous fiscal year under such section.
 
 "(2) Notwithstanding any other provision of law, no prevailing rate employee described in subparagraph (B) or (C) of section 5342(a)(2) of title 5, United States Code, and no employee covered by section 5348 of such title, may be paid during the periods for which paragraph (1) is in effect at a rate that exceeds the rates that would be payable under paragraph (1) were paragraph (1) applicable to such employee.
 
-"(3) For the purposes of this subsection, the rates payable to an employee who is covered by this subsection and who is paid from a schedule not in existence on September 30, 2017, shall be determined under regulations prescribed by the Office of Personnel Management.
+"(3) For the purposes of this subsection, the rates payable to an employee who is covered by this subsection and who is paid from a schedule not in existence on September 30, 2019, shall be determined under regulations prescribed by the Office of Personnel Management.
 
-"(4) Notwithstanding any other provision of law, rates of premium pay for employees subject to this subsection may not be changed from the rates in effect on September 30, 2017, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this subsection.
+"(4) Notwithstanding any other provision of law, rates of premium pay for employees subject to this subsection may not be changed from the rates in effect on September 30, 2019, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this subsection.
 
-"(5) This subsection shall apply with respect to pay for service performed after September 30, 2017.
+"(5) This subsection shall apply with respect to pay for service performed after September 30, 2019.
 
 "(6) For the purpose of administering any provision of law (including any rule or regulation that provides premium pay, retirement, life insurance, or any other employee benefit) that requires any deduction or contribution, or that imposes any requirement or limitation on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this subsection shall be treated as the rate of salary or basic pay.
 
@@ -176,13 +176,17 @@ Pub. L. 115–141, div. E, title VII, §737, Mar. 23, 2018, 132 Stat. 595, provi
 
 "(8) The Office of Personnel Management may provide for exceptions to the limitations imposed by this subsection if the Office determines that such exceptions are necessary to ensure the recruitment or retention of qualified employees.
 
-"(b) Notwithstanding subsection (a), the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2018 under sections 5344 and 5348 of title 5, United States Code, shall be—
+"(b) Notwithstanding subsection (a), the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2020 under sections 5344 and 5348 of title 5, United States Code, shall be—
 
 &emsp;"(1) not less than the percentage received by employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under sections 5303 and 5304 of title 5, United States Code: <i>Provided</i>, That prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of title 5, United States Code, and prevailing rate employees described in section 5343(a)(5) of title 5, United States Code, shall be considered to be located in the pay locality designated as 'Rest of United States' pursuant to section 5304 of title 5, United States Code, for purposes of this subsection; and
 
-&emsp;"(2) effective as of the first day of the first applicable pay period beginning after September 30, 2017."
+&emsp;"(2) effective as of the first day of the first applicable pay period beginning after September 30, 2019."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 116–6, div. D, title VII, §737, Feb. 15, 2019, 133 Stat. 195.
+
+Pub. L. 115–141, div. E, title VII, §737, Mar. 23, 2018, 132 Stat. 595.
 
 Pub. L. 115–31, div. E, title VII, §737, May 5, 2017, 131 Stat. 385.
 
@@ -308,7 +312,7 @@ Pub. L. 92–392, §9(a), Aug. 19, 1972, 86 Stat. 573, provided that:
 
 "(1) Except as provided by this subsection, an employee's initial rate of pay on conversion to a wage schedule established pursuant to the amendments made by this Act \[see Effective Date note under section 5341 of this title\] shall be determined under conversion rules prescribed by the Civil Service Commission. Service by an employee in a grade of a wage schedule performed before the effective date of the conversion of the employee to a wage schedule established pursuant to the amendments made by this Act shall be counted toward not to exceed one step increase under the time in step provisions of section 5343(e)(2) of title 5, United States Code, as amended by the first section of this Act \[subsec. (e)(2) of this section\].
 
-"(2) In the case of any employee described in section 2105(c), 5102(c)(7), (8), or (14) of title 5, United States Code, who is in the service as such an employee immediately before the effective date, with respect to him, of the amendments made by this Act \[see Effective Date note under section 5341 of this title\], such amendments shall not be construed to decrease his rate of basic pay in effect immediately before the date \[see Effective Date note under section 5341 of this title\] on which such amendments become effective with respect to him. In addition, if an employee is receiving retained pay by virtue of law or agency policy immediately before the date on which the first wage schedule applicable to him under this Act is effective, he shall continue to retain that pay in accordance with the specific instructions under which the retained pay was granted until he leaves his position or until he becomes entitled to a higher rate."
+"(2) In the case of any employee described in section 2105(c), 5102(c)(7), (8), or (14) of title 5, United States Code, who is in the service as such an employee immediately before the effective date, with respect to him,of the amendments made by this Act \[see Effective Date note under section 5341 of this title\], such amendments shall not be construed to decrease his rate of basic pay in effect immediately before the date \[see Effective Date note under section 5341 of this title\] on which such amendments become effective with respect to him. In addition, if an employee is receiving retained pay by virtue of law or agency policy immediately before the date on which the first wage schedule applicable to him under this Act is effective, he shall continue to retain that pay in accordance with the specific instructions under which the retained pay was granted until he leaves his position or until he becomes entitled to a higher rate."
 
 #### Labor Contracts Pertaining to Wages, Terms and Conditions of Employment, and Other Employment Benefits
 
@@ -318,7 +322,7 @@ Pub. L. 92–392, §9(b), Aug. 19, 1972, 86 Stat. 574, provided that: "The amend
 
 &emsp;"(2) nullify, curtail, or otherwise impair in any way the right of any party to such contract to enter into negotiations after the date of enactment of this Act \[Aug. 19, 1972\] for the renewal, extension, modification, or improvement of the provisions of such contract or for the replacement of such contract with a new contract; or
 
-&emsp;"(3) nullify, change, or otherwise affect in any way after such date of enactment \[Aug. 19, 1972\] anyagreement, arrangement, or understanding in effect on such date \[Aug. 19, 1972\] with respect to the various items of subject matter of the negotiations on which any such contract in effect on such date \[Aug. 19, 1972\] is based or prevent the inclusion of such items of subject matter in connection with the renegotiation of any such contract, or the replacement of such contract with a new contract, after such date \[Aug. 19, 1972\]."
+&emsp;"(3) nullify, change, or otherwise affect in any way after such date of enactment \[Aug. 19, 1972\] any agreement, arrangement, or understanding in effect on such date \[Aug. 19, 1972\] with respect to the various items of subject matter of the negotiations on which any such contract in effect on such date \[Aug. 19, 1972\] is based or prevent the inclusion of such items of subject matter in connection with the renegotiation of any such contract, or the replacement of such contract with a new contract, after such date \[Aug. 19, 1972\]."
 
 #### Wage Survey
 

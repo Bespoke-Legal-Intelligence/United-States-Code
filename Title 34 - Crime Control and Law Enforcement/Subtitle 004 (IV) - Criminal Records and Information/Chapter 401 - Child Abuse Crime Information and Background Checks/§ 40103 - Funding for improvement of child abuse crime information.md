@@ -26,7 +26,7 @@ Effective 1 year after December 20, 1993, the Attorney General may reduce, by up
 
 #### References in Text
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Title I of the Act is classified principally to chapter 101 (§10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c), is Pub. L. 90–351, June 19,1968, 82 Stat. 197. Title I of the Act is classified principally to chapter 101 (§10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 #### Codification
 
@@ -38,7 +38,7 @@ Section was formerly classified to section 5119b of Title 42, The Public Health 
 
 <b>1998</b>—Subsec. (b)(2). Pub. L. 105–251 substituted "1999, 2000, 2001, and 2002" for "1994, 1995, 1996, and 1997".
 
-<b>1994</b>—Subsec. (b)(1)(E). Pub. L. 103–322, which directed the amendment of subsec. (b) by adding subpar. (E) atthe end, was executed by adding subpar. (E) at the end of par. (1) of subsec. (b) to reflect the probable intent of Congress.
+<b>1994</b>—Subsec. (b)(1)(E). Pub. L. 103–322, which directed the amendment of subsec. (b) by adding subpar. (E) at the end, was executed by adding subpar. (E) at the end of par. (1) of subsec. (b) to reflect the probable intent of Congress.
 
 #### Availability of Violent Crime Reduction Trust Fund To Fund Activities Authorized by the Brady Handgun Violence Prevention Act and the National Child Protection Act of 1993
 

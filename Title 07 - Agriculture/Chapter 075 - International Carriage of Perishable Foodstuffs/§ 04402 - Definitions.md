@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(1) The term "agreement" means the Agreement on the International Carriage of Perishable Foodstuffs and on the Special Equipment to be Used for Such Carriage, and the annexes and the appendices thereto, done at Geneva, September 1, 1970, under the auspices of the Economic Commission for Europe of the United Nations.
 
-&emsp;(2) The term "contracting party" means any country that is eligible under article 9 of theagreement and that has complied with the terms of such article.
+&emsp;(2) The term "contracting party" means any country that is eligible under article 9 of the agreement and that has complied with the terms of such article.
 
 &emsp;(3) The term "equipment" means the special transport equipment that complies with the definitions and standards set forth in annex 1 to the agreement, including, but not limited to, railway cars, trucks, trailers, semitrailers, and intermodal freight containers that are insulated only, or insulated and equipped with a refrigerating, mechanically refrigerating, or heating appliance.
 

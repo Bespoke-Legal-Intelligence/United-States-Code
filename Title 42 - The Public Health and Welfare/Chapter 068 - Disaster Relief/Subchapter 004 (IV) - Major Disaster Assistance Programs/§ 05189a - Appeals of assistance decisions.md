@@ -70,7 +70,7 @@ Eligible assistance.—The term 'eligible assistance' means assistance—
 
 &emsp;&emsp;"(A) under section 403, 406, or 407 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170b, 5172, 5173);
 
-&emsp;&emsp;"(B) for which the legitimate amount in dispute is not less than $1,000,000, which sum the Administrator shall adjust annually to reflect changes in the Consumer Price Index for all Urban Consumers published by the Department of Labor;
+&emsp;&emsp;"(B) for which the legitimate amount in dispute is not less than $1,000,000, which sum the Administrator shall adjust annually to reflect changes inthe Consumer Price Index for all Urban Consumers published by the Department of Labor;
 
 &emsp;&emsp;"(C) for which the applicant has a non-Federal share; and
 

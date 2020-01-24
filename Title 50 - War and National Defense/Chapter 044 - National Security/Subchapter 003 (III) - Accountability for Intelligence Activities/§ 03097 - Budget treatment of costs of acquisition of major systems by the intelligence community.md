@@ -8,7 +8,7 @@
 
 (B) For major system acquisitions requiring a service or capability from another acquisition or program to deliver the end-to-end functionality for the intelligence community end users, independent cost estimates shall include, to the maximum extent practicable, all estimated costs across all pertinent elements of the intelligence community. For collection programs, such cost estimates shall include the cost of new analyst training, new hardware and software for data exploitation and analysis, and any unique or additional costs for data processing, storing, and power, space, and cooling across the life cycle of the program. If such costs for processing, exploitation, dissemination, and storage are scheduled to be executed in other elements of the intelligence community, the independent cost estimate shall identify and annotate such costs for such other elements accordingly.
 
-(3)(A) In the case of a program of the intelligence community that qualifies as a major system, an independent cost estimate shall be prepared before the submission to Congress of the budget of the President for the first fiscal year in which appropriated funds are anticipated to be obligated for the development or procurement of such major system.
+(3)(A) In the case of a program of the intelligence community that qualifies as a majorsystem, an independent cost estimate shall be prepared before the submission to Congress of the budget of the President for the first fiscal year in which appropriated funds are anticipated to be obligated for the development or procurement of such major system.
 
 (B) In the case of a program of the intelligence community for which an independent cost estimate was not previously required to be prepared under this section, including a program for which development or procurement commenced before December 13, 2003, if the aggregate future costs of development or procurement (or any combination of such activities) of the program will exceed $500,000,000 (in current fiscal year dollars), the program shall qualify as a major system for purposes of this section, and an independent cost estimate for such major system shall be prepared before the submission to Congress of the budget of the President for the first fiscal year thereafter in which appropriated funds are anticipated to be obligated for such major system.
 
@@ -30,7 +30,7 @@
 
 #### (c) Utilization in budgets of President
 
-(1) If the budget of the President requests appropriations for any fiscal year for the development or procurement of a major system by theintelligence community, the President shall, subject to paragraph (2), request in such budget an amount of appropriations for the development or procurement, as the case may be, of the major system that is equivalent to the amount of appropriations identified in the most current independent cost estimate for the major system for obligation for each fiscal year for which appropriations are requested for the major system in such budget.
+(1) If the budget of the President requests appropriations for any fiscal year for the development or procurement of a major system by the intelligence community, the President shall, subject to paragraph (2), request in such budget an amount of appropriations for the development or procurement, as the case may be, of the major system that is equivalent to the amount of appropriations identified in the most current independent cost estimate for the major system for obligation for each fiscal year for which appropriations are requested for the major system in such budget.
 
 (2) If the amount of appropriations requested in the budget of the President for the development or procurement of a major system is less than the amount of appropriations identified in the most current independent cost estimate for the major system for obligation for each fiscal year for which appropriations are requested for the major system in such budget, the President shall include in the budget justification materials submitted to Congress in support of such budget—
 
@@ -56,7 +56,7 @@ In this section:
 
 &emsp;(B) In accordance with subsection (a)(2)(B), each independent cost estimate shall include all costs required across elements of the intelligence community to develop, acquire, procure, operate, and sustain the system to provide the end-to-end intelligence functionality of the system, including—
 
-&emsp;&emsp;(i) for collection programs, the cost of new analyst training, new hardware and software for data exploitation and analysis, and any unique or additional costs for data processing, storing, and power, space, and cooling across the life cycle of the program; and
+&emsp;&emsp;(i) for collection programs, the cost of new analyst training, new hardware and software for data exploitation and analysis, and anyunique or additional costs for data processing, storing, and power, space, and cooling across the life cycle of the program; and
 
 &emsp;&emsp;(ii) costs for processing, exploitation, dissemination, and storage scheduled to be executed in other elements of the intelligence community.
 
@@ -122,7 +122,7 @@ Pub. L. 108–177, title III, §312(d), Dec. 13, 2003, 117 Stat. 2609, provided 
 
 "(1)(A) For each major system for which funds have been authorized for a fiscal year before fiscal year 2005, or for which funds are sought in the budget of the President for fiscal year 2005, as submitted to Congress pursuant to section 1105(a) of title 31, United States Code, and for which no independent cost estimate has been provided to Congress, no contract, or option to contract, for the procurement or acquisition of such major system may be entered into, or option to contract be exercised, before the date of the enactment of an Act to authorize appropriations for fiscal year 2005 for intelligence and intelligence-related activities of the United States Government.
 
-"(B) Subparagraph (A) shall not affect any contract for procurement or acquisition that was entered into before the date of the enactment of this Act \[Dec. 13, 2003\].
+"(B) Subparagraph (A) shall not affect any contract for procurement or acquisition that was entered intobefore the date of the enactment of this Act \[Dec. 13, 2003\].
 
 "(2) Commencing as of the date of the submittal to Congress of the budget of the President for fiscal year 2006 pursuant to section 1105(a) of title 31, United States Code, no funds may be obligated or expended for the development or procurement of a major system until the President has complied with the requirements of section 506A of the National Security Act of 1947 (as added by subsection (b)) \[50 U.S.C. 3097\] with respect to such major system.
 

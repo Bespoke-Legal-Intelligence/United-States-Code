@@ -26,7 +26,7 @@ In General.—Except as provided in subsection (b), if the Secretary \[of the In
 
 Exception.—No subcontract amendment executed by the Secretary under the notice of June 18, 2003 (67 Fed. Reg. 36578), shall be considered to be a contract entered into by the Secretary for purposes of subsection (a)(1)."
 
-Pub. L. 108–451, title II, §215, Dec. 10, 2004, 118 Stat. 3535, provided that: "If the Secretary \[of the Interior\]does not publish a statement of findings under section 207(c) \[118 Stat. 3519\] by December 31, 2007 \[published Dec. 14, 2007, see 72 F.R. 71143\]—
+Pub. L. 108–451, title II, §215, Dec. 10, 2004, 118 Stat. 3535, provided that: "If the Secretary \[of the Interior\] does not publish a statement of findings under section 207(c) \[118 Stat. 3519\] by December 31, 2007 \[published Dec. 14, 2007, see 72 F.R. 71143\]—
 
 &emsp;"(1) except for section 213(i) \[118 Stat. 3532\], this title \[see Short Title of 2004 Amendment note below\] is repealed effective January 1, 2008, and any action taken by the Secretary and any contract entered under any provision of this title shall be void;
 
@@ -40,7 +40,7 @@ Pub. L. 108–451, title II, §215, Dec. 10, 2004, 118 Stat. 3535, provided that
 
 Pub. L. 108–451, §1(a), Dec. 10, 2004, 118 Stat. 3478, provided that: "This Act \[amending sections 1524 and 1543 of this title and enacting and repealing provisions set out as notes under this section and section 1543 of this title\] may be cited as the 'Arizona Water Settlements Act'."
 
-Pub. L. 108–451, title I, §101, Dec. 10, 2004, 118 Stat. 3486, provided that: "This title \[amending section 1543 of this title and enacting and repealing provisions set out as notes under this section and section 1543 of this title\] may be cited as the 'Central Arizona Project Settlement Act of 2004'."
+Pub. L. 108–451, title I, §101, Dec. 10, 2004, 118 Stat. 3486, provided that: "This title \[amending section 1543of this title and enacting and repealing provisions set out as notes under this section and section 1543 of this title\] may be cited as the 'Central Arizona Project Settlement Act of 2004'."
 
 Pub. L. 108–451, title II, §201, Dec. 10, 2004, 118 Stat. 3499, provided that: "This title \[amending section 1524 of this title and enacting and repealing provisions set out as notes under this section\] may be cited as the 'Gila River Indian Community Water Rights Settlement Act of 2004'."
 

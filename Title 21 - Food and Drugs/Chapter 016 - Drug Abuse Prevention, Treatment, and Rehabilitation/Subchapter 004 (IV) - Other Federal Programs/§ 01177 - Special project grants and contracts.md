@@ -18,7 +18,7 @@ There are authorized to be appropriated $25,000,000 for the fiscal year ending J
 
 (1) In carrying out this section, the Secretary shall require coordination of all applications for programs in a State and shall not give precedence to public agencies over private agencies, institutions, and organizations, or to State agencies over local agencies.
 
-(2) Each applicant within a State, upon filing its application with the Secretary for a grant or contract under this section, shall submit a copy of its application for review by the State agency (if any) responsible for the administration of drug abuse prevention activities. Such State agency shall be given not more than thirty days from the date of receipt of the application to submit to the Secretary, in writing, an evaluation of the project set forth in the application. Such evaluation shall include comments on the relationship of the project to other projects pending and approved and to any State comprehensive plan for treatment and prevention of drug abuse. The State shall furnish the applicant a copy of any such evaluation. A State if it so desires may, in writing, waive its rights under this paragraph.
+(2) Each applicant within a State, upon filing its application with the Secretary for a grant or contract under this section, shall submit a copy of its application for review by the State agency (if any) responsible for the administration of drug abuse prevention activities. Such State agency shall be given not more than thirty days from the date of receipt of the application to submit to the Secretary, in writing, an evaluation of the project set forth in the application. Such evaluation shall include comments on the relationship of the project to other projects pending and approved and to any State comprehensive plan for treatment and prevention ofdrug abuse. The State shall furnish the applicant a copy of any such evaluation. A State if it so desires may, in writing, waive its rights under this paragraph.
 
 (3) Approval of any application for a grant or contract under this section by the Secretary, including the earmarking of financial assistance for a program or project, may be granted only if the application substantially meets a set of criteria that—
 
@@ -32,7 +32,7 @@ There are authorized to be appropriated $25,000,000 for the fiscal year ending J
 
 #### (d) Programs and projects aimed at underserved groups; encouragement and special consideration given to applications
 
-The Secretary shall encourage the submission of and give special consideration to applications under this section to programs and projects aimed at underserved populations such as racial and ethnic minorities, Native Americans (including Native Hawaiians and Native American Pacific Islanders), youth, the elderly, women,handicapped individuals, and families of drug abusers.
+The Secretary shall encourage the submission of and give special consideration to applications under this section to programs and projects aimed at underserved populations such as racial and ethnic minorities, Native Americans (including Native Hawaiians and Native American Pacific Islanders), youth, the elderly, women, handicapped individuals, and families of drug abusers.
 
 #### (e) Payments; advances; reimbursement; installments
 

@@ -108,7 +108,7 @@
 
 #### (5) Consultation
 
-&emsp;For purposes of setting priorities under this subsection, the Secretary shall consult with eligible entities specified in paragraph (3). The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultation carried out under this paragraph.
+&emsp;For purposes of setting priorities under this subsection, the Secretary shall consult with eligible entities specified in paragraph (3). The Federal Advisory Committee Act (5 U.S.C.App.) shall not apply to consultation carried out under this paragraph.
 
 #### (6) Application
 
@@ -194,7 +194,7 @@
 
 #### (A) Secretary
 
-&emsp;&emsp;Of the funds made available under this section or section 8316 of this title to carry out the National Animal Health Laboratory Network under subsection (a) and the National Animal Disease Preparedness and Response Program under subsection (b), not more than 4 percent may be retained by the Secretary to pay administrative costs incurred by the Secretary.
+&emsp;&emsp;Of the funds made available under this section or section 8316 of this title to carry outthe National Animal Health Laboratory Network under subsection (a) and the National Animal Disease Preparedness and Response Program under subsection (b), not more than 4 percent may be retained by the Secretary to pay administrative costs incurred by the Secretary.
 
 #### (B) Eligible entities
 
@@ -230,7 +230,7 @@
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

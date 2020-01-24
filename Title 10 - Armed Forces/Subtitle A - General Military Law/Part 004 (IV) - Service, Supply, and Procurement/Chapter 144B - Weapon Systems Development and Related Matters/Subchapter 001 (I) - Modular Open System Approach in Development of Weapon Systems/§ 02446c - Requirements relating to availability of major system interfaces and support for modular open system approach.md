@@ -6,13 +6,19 @@ The Secretary of each military department shall—
 
 &emsp;(2) ensure that major system interfaces incorporate commercial standards and other widely supported consensus-based standards that are validated, published, and maintained by recognized standards organizations to the maximum extent practicable;
 
-&emsp;(3) ensure that sufficient systems engineering and development expertise and resources are available to support the use of a modular open system approach in requirements development and acquisition program planning;
+&emsp;(3) ensure that sufficient systems engineering and development expertise and resourcesare available to support the use of a modular open system approach in requirements development and acquisition program planning;
 
-&emsp;(4) ensure that necessary planning, programming, and budgeting resources are provided to specify, identify, develop, and sustain the modular open system approach, associated major system interfaces, systems integration, and any additional program activities necessary to sustain innovation and interoperability; and
+&emsp;(4) ensure that necessary planning, programming, and budgeting resources are provided to specify, identify, develop, and sustain the modular open system approach, associated major system interfaces, systems integration, and any additional program activities necessary to sustain innovation and interoperability;
 
-&emsp;(5) ensure that adequate training in the use of a modular open system approach is provided to members of the requirements and acquisition workforce.
+&emsp;(5) ensure that adequate training in the use of a modular open system approach is provided to members of the requirements and acquisition workforce; and
 
-(Added Pub. L. 114–328, div. A, title VIII, §805(a)(1), Dec. 23, 2016, 130 Stat. 2255.)
+&emsp;(6) issue guidance to implement the requirements of this section.
+
+(Added Pub. L. 114–328, div. A, title VIII, §805(a)(1), Dec. 23, 2016, 130 Stat. 2255; amended Pub. L. 116–92, div. A, title VIII, §840(b), Dec. 20, 2019, 133 Stat. 1499.)
+
+#### Amendments
+
+<b>2019</b>—Par. (6). Pub. L. 116–92 added par. (6).
 
 #### Effective Date
 

@@ -134,7 +134,7 @@ Collaboration.—The Secretary of Defense may carry out activities to prioritize
 
 "(b)
 
-Open Campus Program.—In carrying out subsection (a), the Secretary, acting through the Commander of the Air Force Research Laboratory, the Commander of the Army Research, Development and Engineering Command, and the Chief of Naval Research, or such other officials of the Department as the Secretary considers appropriate, may develop and implement an open campus program for the Departmentscience and technology reinvention laboratories which shall be modeled after the open campus program of the Army Research Laboratory."
+Open Campus Program.—In carrying out subsection (a), the Secretary, acting through the Commander of the Air Force Research Laboratory, the Commander of the Army Research, Development and Engineering Command, and the Chief of Naval Research, or such other officials of the Department as the Secretary considers appropriate, may develop and implement an open campus program for the Department science and technology reinvention laboratories which shall be modeled after the open campus program of the Army Research Laboratory."
 
 #### Specification of Certain Duties of the Defense Technical Information Center
 

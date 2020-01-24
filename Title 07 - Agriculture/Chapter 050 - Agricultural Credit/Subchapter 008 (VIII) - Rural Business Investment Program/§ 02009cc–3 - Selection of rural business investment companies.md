@@ -90,7 +90,7 @@ In reviewing and processing any application under this section, the Secretary—
 
 &emsp;&emsp;An applicant approved under subparagraph (A) shall be eligible for grants under section 2009cc–7 of this title in proportion to the private capital of the applicant, as determined by the Secretary.
 
-(Pub. L. 87–128, title III, §384D, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 391; amended Pub. L. 115–334, title VI, §6426(c), Dec. 20, 2018, 132 Stat. 4770.)
+(Pub. L. 87–128, title III, §384D, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 391;amended Pub. L. 115–334, title VI, §6426(c), Dec. 20, 2018, 132 Stat. 4770.)
 
 #### Amendments
 

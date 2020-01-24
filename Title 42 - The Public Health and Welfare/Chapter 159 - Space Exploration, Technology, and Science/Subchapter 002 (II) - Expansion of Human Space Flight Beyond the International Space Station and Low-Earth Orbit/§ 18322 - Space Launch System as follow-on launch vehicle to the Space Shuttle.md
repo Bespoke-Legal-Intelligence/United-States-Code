@@ -26,7 +26,7 @@ In general.—The Space Launch System developed pursuant to subsection (b) shall
 
 &emsp;&emsp;(C) The capability to lift the multipurpose crew vehicle.
 
-&emsp;&emsp;(D) The capability to serve as a backup system for supplying and supporting ISScargo requirements or crew delivery requirements not otherwise met by available commercial or partner-supplied vehicles.
+&emsp;&emsp;(D) The capability to serve as a backup system for supplying and supporting ISS cargo requirements or crew delivery requirements not otherwise met by available commercial or partner-supplied vehicles.
 
 &emsp;(2)
 

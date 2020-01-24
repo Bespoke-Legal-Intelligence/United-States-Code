@@ -56,7 +56,7 @@ Each Federal department and agency that has functions or responsibilities with r
 
 #### (e) Functions if Federal Council terminated
 
-If at any time after September 26, 1980, the functions of the Federal Council are by executive action terminated or transferred to an agency other than the Office of Science and Technology Policy, the coordinating group shall carry out its purpose under the direction of the Director. In that event, the recommendations ofthe coordinating group referred to in subsection (b)(6) and the reports required under subsection (c) shall be made to the Director.
+If at any time after September 26, 1980, the functions of the Federal Council are by executive action terminated or transferred to an agency other than the Office of Science and Technology Policy, the coordinating group shall carry out its purpose under the direction of the Director. In that event, the recommendations of the coordinating group referred to in subsection (b)(6) and the reports required under subsection (c) shall be made to the Director.
 
 (Pub. L. 96–362, §6, Sept. 26, 1980, 94 Stat. 1203; Pub. L. 99–198, title XVII, §1736, Dec. 23, 1985, 99 Stat. 1643.)
 

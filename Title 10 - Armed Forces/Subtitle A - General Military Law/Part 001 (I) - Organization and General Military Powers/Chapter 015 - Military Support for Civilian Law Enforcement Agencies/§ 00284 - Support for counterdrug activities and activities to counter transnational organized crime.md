@@ -28,7 +28,7 @@ Types of Support for Agencies of United States.—The purposes for which the Sec
 
 &emsp;&emsp;(B) upgrading such equipment to ensure the compatibility of that equipment with equipment used by the Department.
 
-&emsp;(3) The transportation of personnel of the United States and foreign countries (including per diem expenses associated with such transportation), and the transportation of supplies and equipment, for the purpose of facilitating counterdrug activities or activities to counter transnational organized crime within or outside the United States.
+&emsp;(3) The transportation of personnel of the United States and foreign countries (includingper diem expenses associated with such transportation), and the transportation of supplies and equipment, for the purpose of facilitating counterdrug activities or activities to counter transnational organized crime within or outside the United States.
 
 &emsp;(4) The establishment (including an unspecified minor military construction project) and operation of bases of operations or training facilities for the purpose of facilitating counterdrug activities or activities to counter transnational organized crime of the Department of Defense or any Federal, State, local, or tribal law enforcement agency within or outside the United States.
 
@@ -82,11 +82,11 @@ Contract Authority.—In carrying out subsection (a), the Secretary may acquire 
 
 (e)
 
-Limited Waiver of Prohibition.—Notwithstanding section 376 <sup>1</sup> of this title, the Secretary may provide support pursuant to subsection (a) in any case in which the Secretary determines that the provision of such support would adversely affect the military preparedness of the United States in the short term if the Secretary determines that the importance of providing such support outweighs such short-term adverse effect.
+Limited Waiver of Prohibition.—Notwithstanding section 276 of this title, the Secretary may provide support pursuant to subsection (a) in any case in which the Secretary determines that the provision of such support would adversely affect the military preparedness of the United States in the short term if the Secretary determines that the importance of providing such support outweighs such short-term adverse effect.
 
 (f)
 
-Conduct of Training or Operation To Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564) <sup>2</sup> for the purpose of aiding civilian law enforcement agencies.
+Conduct of Training or Operation To Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564)) for the purpose of aiding civilian law enforcement agencies.
 
 (g)
 
@@ -98,7 +98,7 @@ Additional authority.—The authority provided in this section for the support o
 
 &emsp;(2)
 
-Exception.—Support under this section shall be subject to the provisions of section 375 <sup>1</sup> and, except as provided in subsection (e), section 376 <sup>1</sup> of this title.
+Exception.—Support under this section shall be subject to the provisions of section 275 and, except as provided in subsection (e), section 276 of this title.
 
 (h)
 
@@ -132,7 +132,7 @@ In general.—Not less than 15 days before providing support for an activity und
 
 &emsp;&emsp;&emsp;&emsp;(V) Nonproliferation, Anti-Terrorism, Demining, and Related Programs;
 
-&emsp;&emsp;&emsp;&emsp;(VI) counterdrug activities authorized by section 1004 of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 374 note) <sup>1</sup> and section 1033 of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85); or
+&emsp;&emsp;&emsp;&emsp;(VI) counterdrug activities authorized by section 1033 of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85); or
 
 &emsp;&emsp;&emsp;&emsp;(VII) any other significant program, account, or activity for the provision of security assistance that the Secretary of Defense and the Secretary of State consider appropriate;
 
@@ -166,7 +166,7 @@ Definitions.—In this section:
 
 &emsp;(6) The term "transnational organized crime" means self-perpetuating associations of individuals who operate transnationally for the purpose of obtaining power, influence, monetary, or commercial gains, wholly or in part by illegal means, while protecting their activities through a pattern of corruption or violence or through a transnational organization structure and the exploitation of transnational commerce or communication mechanisms.
 
-(Added §384 and renumbered §284, Pub. L. 114–328, div. A, title X, §1011(a)(1), title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2381, 2497.)
+(Added §384 and renumbered §284, Pub. L. 114–328, div. A, title X, §1011(a)(1), title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2381, 2497; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(14), Dec. 20, 2019, 133 Stat. 1813.)
 
 #### References in Text
 
@@ -182,9 +182,15 @@ Section 1033 of the National Defense Authorization Act for Fiscal Year 1998, ref
 
 #### Amendments
 
+<b>2019</b>—Subsec. (e). Pub. L. 116–92, §1731(a)(14)(A), substituted "section 276" for "section 376".
+
+Subsec. (f). Pub. L. 116–92, §1731(a)(14)(B), inserted second closing parenthesis after "103 Stat. 1564)".
+
+Subsec. (g)(2). Pub. L. 116–92, §1731(a)(14)(C), substituted "section 275" for "section 375".
+
+Pub. L. 116–92, §1731(a)(14)(A), substituted "section 276" for "section 376".
+
+Subsec. (h)(1)(A)(vi)(VI). Pub. L. 116–92, §1731(a)(14)(D), struck out "section 1004 of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 374 note) and" after "authorized by".
+
 <b>2016</b>—Pub. L. 114–328, §1241(a)(2), renumbered section 384 of this title as this section.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Another closing parenthesis probably should appear.</i>
 

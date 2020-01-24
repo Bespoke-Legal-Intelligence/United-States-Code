@@ -12,7 +12,7 @@ Except as provided in section 1206 of this title—
 
 &emsp;(4) every dredge and floating plant engaged in or near a channel or fairway in operations likely to restrict or affect navigation of other vessels—
 
-> shall have a radiotelephone capable of operation from its navigational bridge or, in the case of a dredge, from its main control station and capable of transmitting and receiving on the frequency or frequencies within the 156–162 Mega-Hertz band using the classes of emissions designated by the Federal Communications Commission, after consultation with other cognizant agencies, for the exchange of navigational information.
+> shall have a radiotelephone capable of operation from its navigational bridge or, in the case of adredge, from its main control station and capable of transmitting and receiving on the frequency or frequencies within the 156–162 Mega-Hertz band using the classes of emissions designated by the Federal Communications Commission, after consultation with other cognizant agencies, for the exchange of navigational information.
 
 #### (b) Vessels upon navigable waters of United States inside high seas lines
 

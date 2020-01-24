@@ -56,7 +56,7 @@ The Director of the Institute shall collaborate with the Administrator of the Su
 
 #### Codification
 
-Section 290bb(b) of this title, which was transferred to subsec. (b) of this section and amended by Pub. L. 102–321, was based on act July 1, 1944, ch. 373, title V, §510, formerly Pub. L. 91–616, title V, §501(b), as added Pub. L. 94–371, §7, July 26, 1976, 90 Stat. 1038; amended Pub. L. 95–622, title II, §268(d), Nov. 9, 1978, 92 Stat. 3437; Pub. L. 96–180, §14(b), Jan. 2, 1980, 93 Stat. 1305; renumbered §510(b) of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(9), 97 Stat. 179; Oct. 19, 1984, Pub. L. 98–509, title II, §205(a)(1), 98 Stat. 2361.
+Section 290bb(b) of this title, which was transferred to subsec. (b) of this section and amended by Pub. L. 102–321, was based on act July 1, 1944, ch. 373, title V, §510, formerly Pub. L. 91–616, title V, §501(b), as addedPub. L. 94–371, §7, July 26, 1976, 90 Stat. 1038; amended Pub. L. 95–622, title II, §268(d), Nov. 9, 1978, 92 Stat. 3437; Pub. L. 96–180, §14(b), Jan. 2, 1980, 93 Stat. 1305; renumbered §510(b) of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(9), 97 Stat. 179; Oct. 19, 1984, Pub. L. 98–509, title II, §205(a)(1), 98 Stat. 2361.
 
 In subsec. (b)(9), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

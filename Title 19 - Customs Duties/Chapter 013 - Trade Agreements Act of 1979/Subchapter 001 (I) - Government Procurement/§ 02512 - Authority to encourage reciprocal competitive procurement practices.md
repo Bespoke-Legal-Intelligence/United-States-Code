@@ -46,7 +46,7 @@ Notwithstanding subsection (a), but in furtherance of the objective of encouragi
 
 #### (2) Recommendations for attaining reciprocity
 
-&emsp;The report required by paragraph (1) shall include an evaluation of alternative means to obtain equity and reciprocity in such product sectors, including (A) prohibiting the procurement of products of such countries by United States entities not covered by the Agreement, and (B) modifying the application of chapter 83 of title 41. The report shall include an analysis of the effect of such alternative means on the United States economy (including effects on employment, production, competition, costs and prices, technological development, export trade, balance of payments, inflation, and the Federal budget), and on successful negotiations on the expansion of the coverage of the Agreement pursuant to section 2514(a) and (b) of this title, other trade negotiating objectives, the relationship of the Federal Government to State and local governments, and such other factors as the President deems appropriate.
+&emsp;The report required by paragraph (1) shall include an evaluation of alternative means toobtain equity and reciprocity in such product sectors, including (A) prohibiting the procurement of products of such countries by United States entities not covered by the Agreement, and (B) modifying the application of chapter 83 of title 41. The report shall include an analysis of the effect of such alternative means on the United States economy (including effects on employment, production, competition, costs and prices, technological development, export trade, balance of payments, inflation, and the Federal budget), and on successful negotiations on the expansion of the coverage of the Agreement pursuant to section 2514(a) and (b) of this title, other trade negotiating objectives, the relationship of the Federal Government to State and local governments, and such other factors as the President deems appropriate.
 
 #### (3) Consultation
 
@@ -86,13 +86,13 @@ Subsec. (b). Pub. L. 103–465, §343(b)(2), inserted concluding provisions.
 
 Subsec. (b)(1). Pub. L. 103–465, §343(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "delay, for a period not to exceed two years, the prohibition of procurement, required pursuant to subsection (a)(1) of this section, of products of a foreign country or instrumentality which is not designated pursuant to section 2511(b) of this title, except that no such delay shall be granted with respect to the procurement of products of any major industrial country;".
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–182 substituted "are products covered under the Agreement for procurementby the United States" for "would otherwise be eligible products".
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–182 substituted "are products covered under the Agreement for procurement by the United States" for "would otherwise be eligible products".
 
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1994 Amendment
 
@@ -104,7 +104,7 @@ In General.—Except as provided in subsection (b), the amendments made by this 
 
 "(b)
 
-Section 342(g).—The amendments made by section 342(g) \[amending provisions set out as a note under section 903 of Title 7\] take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\]."
+Section 342(g).—The amendments made by section 342(g) \[amending provisions set out as a note undersection 903 of Title 7\] take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\]."
 
 #### Effective Date of 1993 Amendment
 

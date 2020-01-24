@@ -1,6 +1,6 @@
 ### §7037. Judge Advocate General, Deputy Judge Advocate General, and general officers of Judge Advocate General's Corps: appointment; duties
 
-(a) The President, by and with the advice and consent of the Senate, shall appoint the Judge Advocate General, the Deputy Judge Advocate General, and general officers of the Judge Advocate General's Corps, from officers of the Judge Advocate General's Corps, who are recommended by the Secretary of the Army. The term of office of the Judge Advocate Generaland the Deputy Judge Advocate General is four years.
+(a) The President, by and with the advice and consent of the Senate, shall appoint the Judge Advocate General, the Deputy Judge Advocate General, and general officers of the Judge Advocate General's Corps, from officers of the Judge Advocate General's Corps, who are recommended by the Secretary of the Army. The term of office of the Judge Advocate General and the Deputy Judge Advocate General is four years.
 
 (b) The Judge Advocate General shall be appointed from those officers who at the time of appointment are members of the bar of a Federal court or the highest court of a State, and who have had at least eight years of experience in legal duties as commissioned officers.
 
@@ -106,7 +106,7 @@ Subsec. (e). Pub. L. 108–375, §574(a)(2), added subsec. (e).
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1958 Amendment
 

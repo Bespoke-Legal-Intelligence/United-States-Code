@@ -14,7 +14,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 &emsp;&emsp;(B) effective on October 1, 1992, the Secretary shall require each such agency to carry out a local Family Self-Sufficiency program under this section, subject to the limitations in paragraph (4); and
 
-&emsp;&emsp;(C) effective on October 21, 1998, to the extent an agency is not required to carry outa program pursuant to subparagraph (B) of this paragraph and paragraph (4), may carry out a local Family Self-Sufficiency program under this section.
+&emsp;&emsp;(C) effective on October 21, 1998, to the extent an agency is not required to carry out a program pursuant to subparagraph (B) of this paragraph and paragraph (4), may carry out a local Family Self-Sufficiency program under this section.
 
 > &emsp;Each local program shall, subject to availability of supportive services, include an action plan under subsection (g) and shall provide comprehensive supportive services for families electing to participate in the program. In carrying out the self-sufficiency program under this section, the Secretary shall consult with the heads of other appropriate Federal agencies and provide for cooperative actions and funding agreements with such agencies. Each public housing agency administering an approved local program may employ a service coordinator to administer the local program.
 
@@ -46,7 +46,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, a public housing agency that receives incremental assistance under subsection (b) or (o) of section 1437f of this title or that makes available new public housing dwelling units shall not be required, after October 21, 1998, to provide assistance under a local Family Self-Sufficiency program under this section to any families not required to be assisted under subparagraph (B) of this paragraph.
+&emsp;&emsp;Notwithstanding any other provision of law, a public housing agency that receives incremental assistance under subsection (b) or (o) of section 1437f of this title or that makes available new public housing dwelling units shall not be required, after October 21, 1998, to provide assistance under a localFamily Self-Sufficiency program under this section to any families not required to be assisted under subparagraph (B) of this paragraph.
 
 #### (B) Continuation of existing obligations
 
@@ -66,7 +66,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (1) In general
 
-&emsp;Each public housing agency carrying out a local program under this section shall enter into a contract with each leaseholder receiving assistance under the certificate and voucher programs of the public housing agency under section 1437f of this title or residing in public housing administered by the agency, that elects to participate in the self-sufficiency program under this section. The contract shall set forth the provisions of the local program, shall establish specific interim and final goals by which compliance with and performance of the contract may be measured, and shall specify the resources and supportive services to be made available to the participating family pursuant to paragraph (2) and the responsibilities of the participating family. The contract shall provide that the public housing agency may terminate or withhold assistance under section 1437f of this title and services under paragraph (2) of this subsectionif the public housing agency determines, through an administrative grievance procedure in accordance with the requirements of section 1437d(k) of this title, that the family has failed to comply with the requirements of the contract without good cause (which may include a loss or reduction in access to supportive services, or a change in circumstances that makes the family or individual unsuitable for participation).
+&emsp;Each public housing agency carrying out a local program under this section shall enter into a contract with each leaseholder receiving assistance under the certificate and voucher programs of the public housing agency under section 1437f of this title or residing in public housing administered by the agency, that elects to participate in the self-sufficiency program under this section. The contract shall set forth the provisions of the local program, shall establish specific interim and final goals by which compliance with and performance of the contract may be measured, and shall specify the resources and supportive services to be made available to the participating family pursuant to paragraph (2) and the responsibilities of the participating family. The contract shall provide that the public housing agency may terminate or withhold assistance under section 1437f of this title and services under paragraph (2) of this subsection if the public housing agency determines, through an administrative grievance procedure in accordance with the requirements of section 1437d(k) of this title, that the family has failed to comply with the requirements of the contract without good cause (which may include a loss or reduction in access to supportive services, or a change in circumstances that makes the family or individual unsuitable for participation).
 
 #### (2) Supportive services
 
@@ -108,7 +108,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (2) Escrow savings accounts
 
-&emsp;For each participating family whose monthly adjusted income is less than 50 percent of the area median income, the difference between 30 percent of the adjusted income of the participating family and the amount of rent paid by a participating family shall be placed in an interest-bearing escrow account established by the public housing agency on behalf of the participating family. For families with incomes between 50 and 80 percent of the area median income, the Secretary shall provide for escrow of the difference between 30 percent of the family income and the amount paid by the family for rent as determined by the Secretary under paragraph (1). The Secretary shall not escrow any amounts for any family whose adjusted income exceeds 80 percent of the area median income. Amounts in the escrow account may be withdrawn by the participating family after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c), as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency.
+&emsp;For each participating family whose monthly adjusted income is less than 50 percent ofthe area median income, the difference between 30 percent of the adjusted income of the participating family and the amount of rent paid by a participating family shall be placed in an interest-bearing escrow account established by the public housing agency on behalf of the participating family. For families with incomes between 50 and 80 percent of the area median income, the Secretary shall provide for escrow of the difference between 30 percent of the family income and the amount paid by the family for rent as determined by the Secretary under paragraph (1). The Secretary shall not escrow any amounts for any family whose adjusted income exceeds 80 percent of the area median income. Amounts in the escrow account may be withdrawn by the participating family after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c), as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency.
 
 #### (3) Plan
 
@@ -146,7 +146,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 &emsp;&emsp;(B) a description of the number of eligible participating families who can reasonably be expected to receive supportive services under the program, based on available and anticipated Federal, State, local, and private resources;
 
-&emsp;&emsp;(C) a description of the services and activities under subsection (c)(2) to be provided to families receiving assistance under this section through the section 8 \[42 U.S.C. 1437f\] and public housing programs, which shall be provided by both public and private resources;
+&emsp;&emsp;(C) a description of the services and activities under subsection (c)(2) to be provided to families receiving assistance under this section through the section 8 \[42 U.S.C. 1437f\] and public housing programs, which shall beprovided by both public and private resources;
 
 &emsp;&emsp;(D) a description of the incentives pursuant to subsection (d) offered by the public housing agency to families to encourage participation in the program;
 
@@ -164,7 +164,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (1) Fees under section 1437f
 
-&emsp;The Secretary shall establish a fee under section 1437f(q) of this title for the costs incurred in administering the provision of certificate and voucher assistance under section 1437f of this title through the self-sufficiency program under this section. The fee shall be the fee in effect under such section on June 1, 1990, except that for purposes of the fee under this paragraph the applicable dollar amount for preliminary expenses under section 1437f(q)(2)(A)(i) <sup>1</sup> of this title shall, subject to approval in appropriations Acts, be $300. Upon the submission by the Comptroller General of the United States of the report required undersection 554(b) of the Cranston-Gonzalez National Affordable Housing Act, the Secretary shall revise the fee under this paragraph, taking into consideration the report of the Comptroller General.
+&emsp;The Secretary shall establish a fee under section 1437f(q) of this title for the costs incurred in administering the provision of certificate and voucher assistance under section 1437f of this title through the self-sufficiency program under this section. The fee shall be the fee in effect under such section on June 1, 1990, except that for purposes of the fee under this paragraph the applicable dollar amount for preliminary expenses under section 1437f(q)(2)(A)(i) <sup>1</sup> of this title shall, subject to approval in appropriations Acts, be $300. Upon the submission by the Comptroller General of the United States of the report required under section 554(b) of the Cranston-Gonzalez National Affordable Housing Act, the Secretary shall revise the fee under this paragraph, taking into consideration the report of the Comptroller General.
 
 #### (2) Performance funding system
 
@@ -190,7 +190,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (j) On-site facilities
 
-Each public housing agency carrying out a local program may, subject to the approval of the Secretary, make available and utilize common areas or unoccupied public housing units in public housing projects administered by the agency for the provision of supportive services under the local program. The use of the facilities of a public housing agency under this subsection shall not affect the amount of assistance provided to the agency under section 1437g of this title.
+Each public housing agency carrying out a local program may, subject to the approval of the Secretary, make available and utilize common areas or unoccupied public housing units in public housing projects administered by the agency for the provision of supportive services under the local program. The use of the facilities of a public housing agency under this subsection shall not affect the amount of assistanceprovided to the agency under section 1437g of this title.
 
 #### (k) Flexibility
 
@@ -342,7 +342,7 @@ As used in this section:
 
 #### <i>(1) Maximum rents</i>
 
-&emsp;<i>During the term of the contract of participation, the amount of rent paid by any participating family shall be calculated under the rental provisions of section 1437a of this title or section 1437f(o) of this title, as applicable.</i>
+&emsp;<i>During the term of the contract of participation, the amount of rent paid by any participat</i><i>ing family shall be calculated under the rental provisions of section 1437a of this title or section 1437f(o) of this title, as applicable.</i>
 
 #### <i>(2) Escrow savings accounts</i>
 
@@ -414,7 +414,7 @@ As used in this section:
 
 #### <i>(B) Additional award</i>
 
-&emsp;&emsp;<i>An eligible entity that meets performance standards set by the Secretary is eligible to re</i><i>ceive an additional award sufficient to cover the costs of filling an additional family self-sufficiency coordinator position if such entity has 75 or more participating families, and an additional coordinator for each additional 50 participating families, or such other ratio as may be established by the Secretary based on the award allocation evaluation under subparagraph (E).</i>
+&emsp;&emsp;<i>An eligible entity that meets performance standards set by the Secretary is eligible to receive an additional award sufficient to cover the costs of filling an additional family self-sufficiency coordinator position if such entity has 75 or more participating families, and an additional coordinator for each additional 50 participating families, or such other ratio as may be established by the Secretary based on the award allocation evaluation under subparagraph (E).</i>
 
 #### <i>(C) State and regional agencies</i>
 
@@ -456,7 +456,7 @@ As used in this section:
 
 #### <i>(5) Performance reporting</i>
 
-&emsp;<i>Programs under this section shall be required to report the number of families enrolled and graduated, the number of established escrow accounts and positive escrow balances, and any other information that the Secretary may require. Program performance shall be reviewed periodically as determined by the Secretary.</i>
+&emsp;<i>Programs under this section shall be required to report the number of families enrolled and graduated, the number of established escrow accounts and positive escrow balances, and any other information that the Secretary may require. Pro</i><i>gram performance shall be reviewed periodically as determined by the Secretary.</i>
 
 #### <i>(6) Incentives for innovation and high performance</i>
 
@@ -530,7 +530,7 @@ As used in this section:
 
 #### <i>(1) Eligible entity</i>
 
-&emsp;<i>The term "eligible entity" means an entity that meets the requirements under subsection (c)(2) to administer a Family Self-Sufficiency program under this section.</i>
+&emsp;<i>The term "eligible entity" means an entity that meets the requirements under subsection (c)(2) to</i><i>administer a Family Self-Sufficiency program under this section.</i>
 
 #### <i>(2) Eligible family</i>
 
@@ -588,7 +588,7 @@ Subsec. (e). Pub. L. 115–174, §306(a)(4), redesignated subsec. (d) as (e). Fo
 
 Subsec. (e)(1). Pub. L. 115–174, §306(a)(7)(A), substituted "shall be calculated under the rental provisions of section 1437a of this title or section 1437f(o) of this title, as applicable." for "whose monthly adjusted income does not exceed 50 percent of the area median income for occupancy in the public housing unit or dwelling unit assisted under section 1437f of this title may not be increased on the basis of any increase in the earned income of the family, unless the increase results in an income exceeding 50 percent of the area median income. The Secretary shall provide for increased rents for participating families whose incomes are between 50 and 80 percent of the area median income, so that any family whose income increases to 80 percent or more of the area median income pays 30 percent of the family's monthly adjusted income for rent. Upon completion of the contract of participation, if the participating family continues to qualify for and reside in a dwelling unit in public housing or housing assisted under section 1437f of this title, the rent charged the participating family shall be increased (if applicable) to 30 percent of the monthly adjusted income of the family."
 
-Subsec. (e)(2). Pub. L. 115–174, §306(a)(7)(B), substituted "For each participating family, an amount equal to any increase in the amount of rent paid by the family in accordance with the provisions of section 1437a or 1437f(o) of this title, as applicable, that is attributable to increases in earned income by the participating family, shall be placed in an interest-bearing escrow account established by the eligible entity on behalf of the participating family. Notwithstanding any other provision of law, an eligible entity may use funds it controls under section 1437f or 1437g of this title for purposes of making the escrow deposit for participating families assisted under, or residing in units assisted under, section 1437f or 1437g of this title, respectively, provided such funds are offset by the increase in the amount of rent paid by the participating family." for "For each participating family whose monthly adjusted income is less than 50 percent of the area median income, the difference between 30 percent of the adjusted income of the participating family and the amount of rent paid by a participating family shall be placed in an interest-bearing escrow account established by the public housing agency on behalf of the participating family.", "All Family Self-Sufficiency programs administered under this section shall include an escrow account." for "For families with incomes between 50 and 80 percent of the area median income, the Secretary shall provide for escrow of the difference between 30 percent of the family income and the amount paid by the family for rent as determined by the Secretary under paragraph (1).", "under subsection (d)" for "under subsection (c)", "An eligible entity" for "A public housing agency", and "as determined by such eligible entity" for "as determined by the public housing agency".
+Subsec. (e)(2). Pub. L. 115–174, §306(a)(7)(B), substituted "For each participating family, an amountequal to any increase in the amount of rent paid by the family in accordance with the provisions of section 1437a or 1437f(o) of this title, as applicable, that is attributable to increases in earned income by the participating family, shall be placed in an interest-bearing escrow account established by the eligible entity on behalf of the participating family. Notwithstanding any other provision of law, an eligible entity may use funds it controls under section 1437f or 1437g of this title for purposes of making the escrow deposit for participating families assisted under, or residing in units assisted under, section 1437f or 1437g of this title, respectively, provided such funds are offset by the increase in the amount of rent paid by the participating family." for "For each participating family whose monthly adjusted income is less than 50 percent of the area median income, the difference between 30 percent of the adjusted income of the participating family and the amount of rent paid by a participating family shall be placed in an interest-bearing escrow account established by the public housing agency on behalf of the participating family.", "All Family Self-Sufficiency programs administered under this section shall include an escrow account." for "For families with incomes between 50 and 80 percent of the area median income, the Secretary shall provide for escrow of the difference between 30 percent of the family income and the amount paid by the family for rent as determined by the Secretary under paragraph (1).", "under subsection (d)" for "under subsection (c)", "An eligible entity" for "A public housing agency", and "as determined by such eligible entity" for "as determined by the public housing agency".
 
 Subsec. (e)(3). Pub. L. 115–174, §306(a)(7)(C), amended par. (3) generally. Prior to amendment, text read as follows: "Each public housing agency carrying out a local program under this section shall establish a plan to offer incentives to families to encourage families to participate in the program. The plan shall require the establishment of escrow savings accounts under paragraph (2) and may include any other incentives designed by the public housing agency."
 
@@ -598,7 +598,7 @@ Subsec. (g). Pub. L. 115–174, §306(a)(4), redesignated subsec. (f) as (g). Fo
 
 Subsec. (g)(1). Pub. L. 115–174, §306(a)(9)(A), substituted "Each eligible entity" for "Each public housing agency", "subsection (h)" for "subsection (g)", and "such eligible entity" for "the public housing agency".
 
-Subsec. (g)(2). Pub. L. 115–174, §306(a)(9)(B), substituted "eligible entity" for "public housing agency" in two places, struck out "or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act" after "under title I of the Workforce Innovation and Opportunity Act", and inserted "primary, secondary, and post-secondary" after"public and private" and "and tenants served by the program" after "the unit of general local government".
+Subsec. (g)(2). Pub. L. 115–174, §306(a)(9)(B), substituted "eligible entity" for "public housing agency" in two places, struck out "or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act" after "under title I of the Workforce Innovation and Opportunity Act", and inserted "primary, secondary, and post-secondary" after "public and private" and "and tenants served by the program" after "the unit of general local government".
 
 Subsec. (h). Pub. L. 115–174, §306(a)(4), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 

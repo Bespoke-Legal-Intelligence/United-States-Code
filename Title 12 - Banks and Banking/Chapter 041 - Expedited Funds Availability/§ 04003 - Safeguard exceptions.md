@@ -120,7 +120,7 @@ Subject to such regulations as the Board, jointly with the Director of the Burea
 
 &emsp;&emsp;&emsp;(ii) the reason the exception was invoked; and
 
-&emsp;&emsp;(B) except where other time periods are specifically provided in this chapter, theavailability of the funds deposited shall be governed by the policy of the receiving depository institution, but shall not exceed a reasonable period of time as determined by the Board, jointly with the Director of the Bureau of Consumer Financial Protection.
+&emsp;&emsp;(B) except where other time periods are specifically provided in this chapter, the availability of the funds deposited shall be governed by the policy of the receiving depository institution, but shall not exceed a reasonable period of time as determined by the Board, jointly with the Director of the Bureau of Consumer Financial Protection.
 
 #### (2) Time for notice
 
@@ -146,7 +146,7 @@ Subject to such regulations as the Board, jointly with the Director of the Burea
 
 <b>2010</b>—Subsecs. (a) to (e). Pub. L. 111–203, §1086(b)(1), inserted ", jointly with the Director of the Bureau of Consumer Financial Protection," after "Board" wherever appearing.
 
-Subsec. (f)(1)(B), (2)(C). Pub. L. 111–203, §1086(b)(2), substituted "Board, jointly with the Director of the Bureau of Consumer Financial Protection." for "Board."
+Subsec. (f)(1)(B), (2)(C). Pub. L. 111–203, §1086(b)(2), substituted "Board, jointly with the Director of theBureau of Consumer Financial Protection." for "Board."
 
 <b>1991</b>—Subsec. (a)(2). Pub. L. 102–242, §227(b)(2), struck out "and (2)" after "paragraphs (1)".
 

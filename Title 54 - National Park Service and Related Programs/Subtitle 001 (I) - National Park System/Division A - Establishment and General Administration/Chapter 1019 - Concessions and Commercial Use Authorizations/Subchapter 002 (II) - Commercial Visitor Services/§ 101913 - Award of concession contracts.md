@@ -44,7 +44,7 @@ Consideration of proposals.—
 
 &emsp;&emsp;(A)
 
-Minimum requirements.—No proposal shall be considered that fails to meet theminimum requirements as determined by the Secretary. The minimum requirements shall include the following:
+Minimum requirements.—No proposal shall be considered that fails to meet the minimum requirements as determined by the Secretary. The minimum requirements shall include the following:
 
 &emsp;&emsp;&emsp;(i) The minimum acceptable franchise fee or other forms of consideration to the Federal Government.
 

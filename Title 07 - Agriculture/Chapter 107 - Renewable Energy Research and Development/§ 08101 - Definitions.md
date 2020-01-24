@@ -128,7 +128,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) large-tree retention of subsection (f) of that section; or
 
-&emsp;&emsp;(B) any organic matter that is available on a renewable or recurring basis from non-Federal land or land belonging to an Indian or Indian tribe that is held in trust by the United States or subject to a restriction against alienation imposed by the United States, including—
+&emsp;&emsp;(B) any organic matter that is available on a renewable or recurring basis from non-Federal land or land belonging to an Indian or Indian tribe that is held in trust by the United States or subject to a restrictionagainst alienation imposed by the United States, including—
 
 &emsp;&emsp;&emsp;(i) renewable plant material, including—
 
@@ -264,7 +264,7 @@ Alongside the Working Group's efforts, the Secretary of Agriculture may pursue o
 
 (v) Guidance and support for collection, harvest, storage, and transportation assistance for eligible materials for use in biomass conversion facilities.
 
-This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural,enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 The Secretary of Agriculture is hereby authorized and directed to publish this memorandum in the Federal Register.
 

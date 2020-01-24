@@ -18,7 +18,7 @@
 
 &emsp;(B) shall again begin running on the first day after the individual's recovery from such disability on which it is reasonably feasible, as determined under regulations prescribed by the Secretary, for the individual to initiate or resume pursuit of a program of education with educational assistance under this chapter.
 
-(2)(A) Subject to subparagraph (B), in the case of an individual eligible for educational assistance under this chapter who is prevented from pursuing the individual's chosen program of education before the expiration of the 10-year period for the use of entitlement under this chapter otherwise applicable under this section byreason of acting as the primary provider of personal care services for a veteran or member of the Armed Forces under section 1720G(a) of this title, such 10-year period—
+(2)(A) Subject to subparagraph (B), in the case of an individual eligible for educational assistance under this chapter who is prevented from pursuing the individual's chosen program of education before the expiration of the 10-year period for the use of entitlement under this chapter otherwise applicable under this section by reason of acting as the primary provider of personal care services for a veteran or member of the Armed Forces under section 1720G(a) of this title, such 10-year period—
 
 &emsp;(i) shall not run during the period the individual is so prevented from pursuing such program; and
 
@@ -98,7 +98,7 @@ Subsec. (f)(2). Pub. L. 99–576, §321(7)(C), which directed that subsec. (e)(2
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–377, title II, §201(d), Jan. 4, 2011, 124 Stat. 4124, provided that: "The amendments made by this section \[amending this section and sections 3319 and 3512 of this title\] shall take effect on August 1, 2011, and shall apply with respect to preventions and suspension of pursuit of programs of education that commence on or after that date."
+Pub. L. 111–377, title II, §201(d), Jan. 4, 2011, 124 Stat. 4124, provided that: "The amendments made by thissection \[amending this section and sections 3319 and 3512 of this title\] shall take effect on August 1, 2011, and shall apply with respect to preventions and suspension of pursuit of programs of education that commence on or after that date."
 
 #### Effective Date of 1992 Amendment
 

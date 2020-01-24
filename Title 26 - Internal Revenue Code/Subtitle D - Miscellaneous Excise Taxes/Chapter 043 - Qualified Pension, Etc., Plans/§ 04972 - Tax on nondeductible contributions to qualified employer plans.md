@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;In the case of a plan which provides contributions or benefits for employees some or all of whom are self-employed individuals within the meaning of section 401(c)(1), the term "employer" means the person treated as the employer under section 401(c)(4).
 
-(Added Pub. L. 99–514, title XI, §1131(c)(1), Oct. 22, 1986, 100 Stat. 2477; amended Pub. L. 100–647, title I, §1011A(e)(1), (2), title II, §2005(a)(1), Nov. 10, 1988, 102 Stat. 3477, 3610; Pub. L. 103–465, title VII, §755(a), Dec. 8, 1994, 108 Stat. 5023; Pub. L. 104–188, title I, §1421(b)(9)(D), Aug. 20, 1996, 110 Stat. 1798; Pub. L. 105–34, title XV, §1507(a), Aug. 5, 1997, 111 Stat. 1067; Pub. L. 107–16, title VI, §§616(b)(2)(B), 637(a), (b), 652(b), 653(a), June 7, 2001, 115 Stat. 103, 118, 130; Pub. L. 108–311, title IV, §§404(c), 408(b)(9), Oct. 4, 2004, 118 Stat. 1188, 1193; Pub. L. 109–280, title I, §114(e)(5), title VIII, §803(c), Aug. 17, 2006, 120 Stat. 855, 996.)
+(Added Pub. L. 99–514, title XI, §1131(c)(1), Oct. 22, 1986, 100 Stat. 2477; amended Pub. L. 100–647, title I, §1011A(e)(1), (2), title II, §2005(a)(1), Nov. 10, 1988, 102 Stat. 3477, 3610; Pub. L. 103–465, title VII, §755(a), Dec. 8, 1994, 108 Stat. 5023; Pub. L. 104–188, title I, §1421(b)(9)(D), Aug. 20, 1996, 110 Stat. 1798; Pub. L. 105–34, title XV, §1507(a), Aug. 5, 1997, 111 Stat. 1067; Pub. L. 107–16, title VI, §§616(b)(2)(B), 637(a), (b), 652(b), 653(a), June 7, 2001, 115 Stat. 103, 118, 130; Pub. L. 108–311, titleIV, §§404(c), 408(b)(9), Oct. 4, 2004, 118 Stat. 1188, 1193; Pub. L. 109–280, title I, §114(e)(5), title VIII, §803(c), Aug. 17, 2006, 120 Stat. 855, 996.)
 
 #### References in Text
 
@@ -130,7 +130,7 @@ Pub. L. 107–16, §652(b)(2), in concluding provisions, struck out first senten
 
 Pub. L. 107–16, §637(b), in concluding provisions, inserted at end "Subparagraph (C) shall not apply to contributions made on behalf of the employer or a member of the employer's family (as defined in section 447(e)(1))."
 
-Subsec. (c)(6)(A). Pub. L. 107–16, §652(b)(1), redesignated subpar. (B) as (A) and struck out former subpar.\(A) which read as follows: "contributions that would be deductible under section 404(a)(1)(D) if the plan had more than 100 participants if—
+Subsec. (c)(6)(A). Pub. L. 107–16, §652(b)(1), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: "contributions that would be deductible under section 404(a)(1)(D) if the plan had more than 100 participants if—
 
 &emsp;"(i) the plan is covered under section 4021 of the Employee Retirement Income Security Act of 1974, and
 
@@ -228,7 +228,7 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 #### Increase in Amount for Plan Termination Insurance Under Employee Retirement Insurance Security Act of 1974
 
-Pub. L. 100–647, title I, §1011A(e)(5), Nov. 10, 1988, 102 Stat. 3478, provided that: "In the case of any taxable year beginning in 1987, the amount under section 4972(c)(1)(A)(ii) of the 1986 Code for a plan to which title IV of the Employee Retirement Income Security Act of1974 \[29 U.S.C. 1301 et seq.\] applies shall be increased by the amount (if any) by which, as of the close of the plan year with or within which such taxable year begins—
+Pub. L. 100–647, title I, §1011A(e)(5), Nov. 10, 1988, 102 Stat. 3478, provided that: "In the case of any taxable year beginning in 1987, the amount under section 4972(c)(1)(A)(ii) of the 1986 Code for a plan to which title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\] applies shall be increased by the amount (if any) by which, as of the close of the plan year with or within which such taxable year begins—
 
 &emsp;"(A) the liabilities of such plan (determined as if the plan had terminated as of such time), exceed
 

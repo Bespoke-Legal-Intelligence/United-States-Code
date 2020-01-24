@@ -20,7 +20,7 @@ To be eligible to receive a cooperative agreement under subsection (a), an entit
 
 &emsp;(2) demonstrate community engagement and partnerships with community stakeholders, including entities that train health professionals, mental health counselors, social workers, peer recovery specialists, substance use treatment programs, community health centers, physician offices, certified behavioral health clinics, research institutions, and law enforcement; and
 
-&emsp;(3) submit to the Secretary an application containing such information, at such time, and in such manner, as the Secretary may require.
+&emsp;(3) submit to the Secretary an application containing such information, at such time,and in such manner, as the Secretary may require.
 
 #### (c) Activities
 

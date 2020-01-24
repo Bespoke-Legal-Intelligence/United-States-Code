@@ -14,7 +14,7 @@
 
 #### (B) Program requirements
 
-&emsp;&emsp;Whenever the Secretary determines and announces that for any consecutive 4-weekperiod, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered to a definable and significant international market, as determined by the Secretary, exceeds the prevailing world market price, there shall immediately be in effect a special import quota.
+&emsp;&emsp;Whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered to a definable and significant international market, as determined by the Secretary, exceeds the prevailing world market price, there shall immediately be in effect a special import quota.
 
 #### (3) Quantity
 

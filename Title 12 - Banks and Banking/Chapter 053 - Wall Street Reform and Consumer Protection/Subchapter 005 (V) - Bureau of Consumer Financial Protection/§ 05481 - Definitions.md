@@ -92,7 +92,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;(I) subsections (b) through (f) of section 43 of the Federal Deposit Insurance Act (12 U.S.C. 1831t(c)\[(b)\]–(f));
 
-&emsp;&emsp;(J) sections 502 through 509 of the Gramm-Leach-Bliley Act (15 U.S.C. 6802–6809) exceptfor section 505 \[15 U.S.C. 6805\] as it applies to section 501(b) \[15 U.S.C. 6801(b)\];
+&emsp;&emsp;(J) sections 502 through 509 of the Gramm-Leach-Bliley Act (15 U.S.C. 6802–6809) except for section 505 \[15 U.S.C. 6805\] as it applies to section 501(b) \[15 U.S.C. 6801(b)\];
 
 &emsp;&emsp;(K) the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2801 et seq.);
 
@@ -146,7 +146,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;&emsp;(vi) providing check cashing, check collection, or check guaranty services;
 
-&emsp;&emsp;&emsp;(vii) providing payments or other financial data processing products or services to a consumer by any technological means, including processing or storing financial or banking data for any payment instrument, or through any payments systems or network used for processing payments data, including payments made through an online banking system or mobile telecommunications network, except that a person shall not be deemed to be a covered person with respect to financial data processing solely because the person—
+&emsp;&emsp;&emsp;(vii) providing payments or other financial data processing products or services to a consumer by any technological means, including processing or storing financial or banking data for any payment instrument, or through any payments systems or network used for processing payments data, including payments made through anonline banking system or mobile telecommunications network, except that a person shall not be deemed to be a covered person with respect to financial data processing solely because the person—
 
 &emsp;&emsp;&emsp;&emsp;(I) is a merchant, retailer, or seller of any nonfinancial good or service who engages in financial data processing by transmitting or storing payments data about a consumer exclusively for purpose of initiating payments instructions by the consumer to pay such person for the purchase of, or to complete a commercial transaction for, such nonfinancial good or service sold directly by such person to the consumer; or
 
@@ -292,7 +292,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;&emsp;(i) any director, officer, or employee charged with managerial responsibility for, or controlling shareholder of, or agent for, such covered person;
 
-&emsp;&emsp;&emsp;(ii) any shareholder, consultant, joint venture partner, or other person, as determined by the Bureau (by rule or on a case-by-case basis) who materially participates in the conduct of the affairs of such covered person; and
+&emsp;&emsp;&emsp;(ii) any shareholder, consultant, joint venture partner, or other person, as determined by the Bureau (by rule or on a case-by-case basis) who materially participatesin the conduct of the affairs of such covered person; and
 
 &emsp;&emsp;&emsp;(iii) any independent contractor (including any attorney, appraiser, or accountant) who knowingly or recklessly participates in any—
 
@@ -320,7 +320,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (C) Rule of construction
 
-&emsp;&emsp;A person that is a service provider shall be deemed to be a covered person to the extentthat such person engages in the offering or provision of its own consumer financial product or service.
+&emsp;&emsp;A person that is a service provider shall be deemed to be a covered person to the extent that such person engages in the offering or provision of its own consumer financial product or service.
 
 #### (27) State
 
@@ -376,7 +376,7 @@ The Homeowners Protection Act of 1998, referred to in par. (12)(G), is Pub. L. 1
 
 The Fair Debt Collection Practices Act, referred to in par. (12)(H), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, which is classified generally to subchapter V (§1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Home Mortgage Disclosure Act of 1975, referred to in par. (12)(K), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally to chapter 29 (§2801 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
+The Home Mortgage Disclosure Act of 1975, referred to in par. (12)(K), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally to chapter 29 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
 
 The Home Ownership and Equity Protection Act of 1994, referred to in par. (12)(L), is subtitle B (§§151–158) of title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2190, which enacted sections 1639 and 1648 of Title 15, Commerce and Trade, amended sections 1602, 1604, 1610, 1640, 1641, and 1647 of Title 15, and enacted provisions set out as notes under sections 1601 and 1602 of Title 15. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 1601 of Title 15 and Tables.
 
@@ -410,7 +410,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 #### Designation as Enumerated Consumer Law Under the Purview of the Bureau of Consumer Financial Protection
 
-Pub. L. 111–203, title XIV, §1400(b), July 21, 2010, 124 Stat. 2136, provided that: "Subtitles A, B, C, and E \[subtitles A (§§1401–1406), B (§§1411–1422), C (§§1431–1433), and E (§§1461–1465) of title XIV of Pub. L. 111–203, enacting sections 1638a, 1639b to 1639d, 1639f, and 1639g of Title 15, Commerce and Trade, amending section 2605 of this title, sections 1602, 1607, 1638, 1639 to 1639d, and 1640 of Title 15, and enacting provisions set out as notes under sections 1601 and 1639b to 1639d of Title 15\] and sections 1471 \[enacting section 1639h of Title 15\], 1472 \[enacting section 1639e of Title 15 and amending section 1604 of Title 15\], 1475 \[amending section 2603 of this title\], and 1476 \[not classified to the Code\], and the amendments made by such subtitles and sections, shall be enumerated consumer laws, as defined in section 1002 \[12 U.S.C. 5481\], and come under the purview of the Bureau of Consumer Financial Protection for purposes of title X \[see Short Title note set out under section 5301 of this title\], including the transfer of functions and personnel under subtitle F of title X \[§§1061–1067, enacting part F of this subchapter\] and the savings provisions of such subtitle."
+Pub. L. 111–203, title XIV, §1400(b), July 21, 2010, 124 Stat. 2136, provided that: "Subtitles A, B, C, and E \[subtitles A (§§1401–1406), B (§§1411–1422), C (§§1431–1433), and E (§§1461–1465) of title XIV of Pub. L. 111–203, enacting sections 1638a, 1639b to 1639d, 1639f, and 1639g of Title 15, Commerce and Trade, amending section 2605 of this title, sections 1602, 1607, 1638, 1639 to 1639d, and 1640 of Title 15, and enacting provisions set out as notes under sections 1601 and 1639b to 1639d of Title 15\] and sections 1471 \[enacting section 1639h of Title 15\], 1472 \[enacting section 1639e of Title 15 and amending section 1604 of Title 15\], 1475 \[amending section 2603 of this title\], and 1476 \[not classified to the Code\], and the amendmentsmade by such subtitles and sections, shall be enumerated consumer laws, as defined in section 1002 \[12 U.S.C. 5481\], and come under the purview of the Bureau of Consumer Financial Protection for purposes of title X \[see Short Title note set out under section 5301 of this title\], including the transfer of functions and personnel under subtitle F of title X \[§§1061–1067, enacting part F of this subchapter\] and the savings provisions of such subtitle."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

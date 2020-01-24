@@ -42,7 +42,7 @@ The standards for the summary of benefits and coverage developed under subsectio
 
 &emsp;&emsp;&emsp;(ii) ensures that the plan or coverage share of the total allowed costs of benefits provided under the plan or coverage is not less than 60 percent of such costs;
 
-&emsp;&emsp;(H) a statement that the outline is a summary of the policy or certificate and thatthe coverage document itself should be consulted to determine the governing contractual provisions; and
+&emsp;&emsp;(H) a statement that the outline is a summary of the policy or certificate and that the coverage document itself should be consulted to determine the governing contractual provisions; and
 
 &emsp;&emsp;(I) a contact number for the consumer to call with additional questions and an Internet web address where a copy of the actual individual coverage policy or group certificate of coverage can be reviewed and obtained.
 

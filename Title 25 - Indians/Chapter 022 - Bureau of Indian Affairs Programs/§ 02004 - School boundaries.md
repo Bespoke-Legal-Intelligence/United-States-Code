@@ -20,7 +20,7 @@ In any case where there is more than one Bureau-funded school located on an Indi
 
 #### (2) Revision process
 
-&emsp;Any tribe may petition the Secretary for revision of existing attendance area boundaries. The Secretary shall accept such proposed alternative or revised boundaries unless the Secretary finds, after consultation with the affected tribe or tribes, that such revised boundaries do not reflect the needs of the Indian students to be served or do not provide adequate stability to all of the affected programs. The Secretary shall cause such revisions to be published in the Federal Register.
+&emsp;Any tribe may petition the Secretary for revision of existing attendance area boundaries. The Secretary shall accept such proposed alternative or revised boundaries unless the Secretary finds, after consultation with the affected tribe or tribes, that such revised boundaries do not reflect the needs of the Indian students to be served or do not provide adequate stability to all of the affected programs.The Secretary shall cause such revisions to be published in the Federal Register.
 
 #### (3) Tribal resolution determination
 

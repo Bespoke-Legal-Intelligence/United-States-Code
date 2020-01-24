@@ -62,7 +62,7 @@ For purposes of this chapter:
 
 &emsp;(17) The term "Office" means the Office of Civilian Radioactive Waste Management established in section 10224 <sup>2</sup> of this title.
 
-&emsp;(18) The term "repository" means any system licensed by the Commission that is intended to be used for, or may be used for, the permanent deep geologic disposal of high-level radioactive waste and spent nuclear fuel, whether or not such system is designed to permit the recovery, for a limited period during initial operation, of any materials placed in such system. Such term includes both surface and subsurface areas at which high-level radioactive waste and spent nuclear fuel handling activities are conducted.
+&emsp;(18) The term "repository" means any system licensed by the Commission that is intended to be used for, or may be used for, the permanent deep geologic disposal of high-level radioactive waste and spent nuclear fuel, whether or not such system is designed to permit the recovery, for a limited period duringinitial operation, of any materials placed in such system. Such term includes both surface and subsurface areas at which high-level radioactive waste and spent nuclear fuel handling activities are conducted.
 
 &emsp;(19) The term "reservation" means—
 
@@ -120,7 +120,7 @@ Section 10156(c) of this title, referred to in par. (26), was in the original a 
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121, and Pub. L. 100–203, title V, §5001, Dec. 22, 1987, 101 Stat. 1330–227, provided that: "This subtitle \[subtitle A (§§5001–5065) of title V, enacting sections 10162, 10163, 10164, 10165, 10166, 10167, 10168, 10169, 10172, 10172a, 10173, 10173a, 10173b, 10173c, 10174, 10174a, 10175, 10204, 10241, 10242, 10243, 10244, 10245, 10246, 10247, 10248, 10249, 10250, 10251, 10261, 10262, 10263, 10264, 10265, 10266, 10267, 10268, 10269, and 10270 of this title,amending this section and sections 10132, 10133, 10134, 10136, 10137, and 10138 of this title and enacting provisions set out as a note under section 5841 of this title\] may be cited as the 'Nuclear Waste Policy Amendments Act of 1987'."
+Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121, and Pub. L. 100–203, title V, §5001, Dec. 22, 1987, 101 Stat. 1330–227, provided that: "This subtitle \[subtitle A (§§5001–5065) of title V, enacting sections 10162, 10163, 10164, 10165, 10166, 10167, 10168, 10169, 10172, 10172a, 10173, 10173a, 10173b, 10173c, 10174, 10174a, 10175, 10204, 10241, 10242, 10243, 10244, 10245, 10246, 10247, 10248, 10249, 10250, 10251, 10261, 10262, 10263, 10264, 10265, 10266, 10267, 10268, 10269, and 10270 of this title, amending this section and sections 10132, 10133, 10134, 10136, 10137, and 10138 of this title and enacting provisions set out as a note under section 5841 of this title\] may be cited as the 'Nuclear Waste Policy Amendments Act of 1987'."
 
 #### Short Title
 

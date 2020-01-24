@@ -2,7 +2,7 @@
 
 (a)(1) Any person who is eligible as a surviving spouse or child for death compensation by reason of a death occurring before January 1, 1957, may receive dependency and indemnity compensation upon application therefor.
 
-(2) Any person who is eligible as a parent, or, but for such person's annual income, would be eligible as a parent, for death compensation by reason of a death occurring before January 1, 1957, may receive dependency and indemnity compensation upon application therefor; however, the annual income limitations established by section 1315 of this title shall apply to each such parent.
+(2) Any person who is eligible as a parent, or, but for such person's annual income, would be eligible as a parent, for death compensation by reason of a death occurring before January 1,1957, may receive dependency and indemnity compensation upon application therefor; however, the annual income limitations established by section 1315 of this title shall apply to each such parent.
 
 (b)(1) Whenever the surviving spouse of a veteran has been granted dependency and indemnity compensation by reason of this section, payments to such surviving spouse and to the children of the veteran shall thereafter be made under this chapter, and shall not thereafter be made to them by reason of the death of the veteran under (A) other provisions of law administered by the Secretary providing for the payment of compensation or pension, or (B) subchapter I of chapter 81 of title 5.
 
@@ -16,7 +16,7 @@
 
 (2) Where a beneficiary is barred from the receipt of payments under the Servicemen's Indemnity Act of 1951 by virtue of the first sentence of paragraph (1), no payments of the portion of indemnity in which such beneficiary had an interest shall be made to any other beneficiary.
 
-(3) In the case of a child who has applied for dependency and indemnity compensation pursuant to this section or prior corresponding provisions of law, and who is or becomes a beneficiary under the Servicemen's Indemnity Act of 1951 by reason of the death giving rise to such child'seligibility for dependency and indemnity compensation, the Secretary shall determine and pay to such child for each month, or part thereof, payments under this chapter or under such Act, whichever payment the Secretary determines to be the greater amount.
+(3) In the case of a child who has applied for dependency and indemnity compensation pursuant to this section or prior corresponding provisions of law, and who is or becomes a beneficiary under the Servicemen's Indemnity Act of 1951 by reason of the death giving rise to such child's eligibility for dependency and indemnity compensation, the Secretary shall determine and pay to such child for each month, or part thereof, payments under this chapter or under such Act, whichever payment the Secretary determines to be the greater amount.
 
 (4) Notwithstanding paragraph (2), where a child receives dependency and indemnity compensation under this chapter, and thereafter dies, the portion of servicemen's indemnity in which such child had an interest may be paid (subject to paragraph (3)) to another child of the person by reason of whose death such servicemen's indemnity was payable.
 

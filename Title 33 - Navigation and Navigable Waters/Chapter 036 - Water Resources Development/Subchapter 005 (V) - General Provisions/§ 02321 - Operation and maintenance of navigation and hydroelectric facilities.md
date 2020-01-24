@@ -12,7 +12,7 @@ This section does not prohibit contracting out major maintenance or other functi
 
 This section does not—
 
-&emsp;(1) apply to a navigation facility that was under contract on or before October 23, 2018,with a non-Federal interest to perform operations or maintenance; and
+&emsp;(1) apply to a navigation facility that was under contract on or before October 23, 2018, with a non-Federal interest to perform operations or maintenance; and
 
 &emsp;(2) prohibit the Secretary from contracting out commercial activities after October 23, 2018, at a navigation facility.
 

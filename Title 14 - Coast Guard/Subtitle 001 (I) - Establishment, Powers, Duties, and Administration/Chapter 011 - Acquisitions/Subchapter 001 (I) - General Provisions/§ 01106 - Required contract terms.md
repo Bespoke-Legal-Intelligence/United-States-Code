@@ -12,7 +12,7 @@ In General.—The Commandant shall ensure that a contract awarded or a delivery 
 
 &emsp;(4) specifies that, for the acquisition or upgrade of air, surface, or shore capabilities and assets for which compliance with TEMPEST certification is a requirement, the standard for determining such compliance will be the air, surface, or shore standard then used by the Department of the Navy for that type of capability or asset; and
 
-&emsp;(5) for any contract awarded to acquire an Offshore Patrol Cutter, includes provisionsspecifying the service life, fatigue life, and days underway in general Atlantic and North Pacific Sea conditions, maximum range, and maximum speed the cutter will be built to achieve.
+&emsp;(5) for any contract awarded to acquire an Offshore Patrol Cutter, includes provisions specifying the service life, fatigue life, and days underway in general Atlantic and North Pacific Sea conditions, maximum range, and maximum speed the cutter will be built to achieve.
 
 (b)
 

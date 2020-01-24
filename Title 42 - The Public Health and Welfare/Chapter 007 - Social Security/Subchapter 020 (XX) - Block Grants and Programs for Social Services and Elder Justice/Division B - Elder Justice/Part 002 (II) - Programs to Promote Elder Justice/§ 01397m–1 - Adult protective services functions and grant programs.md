@@ -24,7 +24,7 @@
 
 #### (1) Establishment
 
-&emsp;There is established an adult protective services grant program under which the Secretary shall annually award grants to Statesin the amounts calculated under paragraph (2) for the purposes of enhancing adult protective services provided by States and local units of government.
+&emsp;There is established an adult protective services grant program under which the Secretary shall annually award grants to States in the amounts calculated under paragraph (2) for the purposes of enhancing adult protective services provided by States and local units of government.
 
 #### (2) Amount of payment
 

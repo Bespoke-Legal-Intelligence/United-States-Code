@@ -20,7 +20,7 @@ As used in this chapter, the following definitions apply:
 
 #### (5) Endorsement contract
 
-&emsp;The term "endorsement contract" means an agreement under which a student athlete isemployed or receives consideration for the use by the other party of that individual's person, name, image, or likeness in the promotion of any product, service, or event.
+&emsp;The term "endorsement contract" means an agreement under which a student athlete is employed or receives consideration for the use by the other party of that individual's person, name, image, or likeness in the promotion of any product, service, or event.
 
 #### (6) Intercollegiate sport
 
@@ -42,5 +42,5 @@ As used in this chapter, the following definitions apply:
 
 #### Short Title
 
-Pub. L. 108–304, §1, Sept. 24, 2004, 118 Stat. 1125, provided that: "This Act \[enacting this chapter\] may be cited as the 'Sports Agent Responsibility and Trust Act'."
+Pub. L. 108–304, §1, Sept. 24, 2004, 118 Stat. 1125, provided that: "This Act \[enacting this chapter\] may becited as the 'Sports Agent Responsibility and Trust Act'."
 

@@ -46,9 +46,17 @@ Outreach for Certain Members of the Reserve Components.—(1) Upon the request o
 
 (g)
 
-Termination.—The program under this section shall terminate on October 1, 2020.
+Triennial Evaluation.—The Secretary shall evaluate the program every third year beginning in 2022 until the program terminates to determine whether the program effectively—
 
-(Added Pub. L. 112–239, div. A, title V, §581(a)(1), Jan. 2, 2013, 126 Stat. 1764; amended Pub. L. 113–66, div. A, title V, §511(a), Dec. 26, 2013, 127 Stat. 751; Pub. L. 114–328, div. A, title V, §565, Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–91, div. A, title V, §544, Dec. 12, 2017, 131 Stat. 1396.)
+&emsp;(1) provides training and assistance under subsections (b), (c), and (d); and
+
+&emsp;(2) implements subsection (e).
+
+(h)
+
+Termination.—The program under this section shall terminate on October 1, 2025.
+
+(Added Pub. L. 112–239, div. A, title V, §581(a)(1), Jan. 2, 2013, 126 Stat. 1764; amended Pub. L. 113–66, div. A, title V, §511(a), Dec. 26, 2013, 127 Stat. 751; Pub. L. 114–328, div. A, title V, §565, Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–91, div. A, title V, §544, Dec. 12, 2017, 131 Stat. 1396; Pub. L. 116–92, div. A, title V, §515, Dec. 20, 2019, 133 Stat. 1349.)
 
 #### References in Text
 
@@ -56,9 +64,89 @@ Section 582 of the National Defense Authorization Act for Fiscal Year 2008, refe
 
 #### Amendments
 
+<b>2019</b>—Subsec. (g). Pub. L. 116–92, §515(3), added subsec. (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 116–92, §515(1), (2), redesignated subsec. (g) as (h) and substituted "2025" for "2020".
+
 <b>2017</b>—Subsec. (g). Pub. L. 115–91 substituted "October 1, 2020" for "October 1, 2018".
 
 <b>2016</b>—Subsec. (g). Pub. L. 114–328 substituted "October 1, 2018" for "October 1, 2017".
 
 <b>2013</b>—Subsecs. (f), (g). Pub. L. 113–66 added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### National Guard Suicide Prevention Pilot Program
+
+Pub. L. 116–92, div. A, title VII, §739, Dec. 20, 2019, 133 Stat. 1464, provided that:
+
+"(a)
+
+Pilot Program Authorized.—The Chief of the National Guard Bureau may carry out a pilot program to expand suicide prevention and intervention efforts at the community level through the use of a mobile application that provides the capability for a member of the National Guard to receive prompt support, including access to a behavioral health professional, on a smartphone, tablet computer, or other handheld mobile device.
+
+"(b)
+
+Elements.—The pilot program shall include, subject to such conditions as the Secretary may prescribe—
+
+&emsp;"(1) the use by members of the National Guard of an existing mobile application that provides the capability described in subsection (a); or
+
+&emsp;"(2) the development and use of a new mobile application that provides such capability.
+
+"(c)
+
+Eligibility and Participation Requirements.—The Chief of the National Guard Bureau shall establish requirements with respect to eligibility and participation in the pilot program.
+
+"(d)
+
+Assessment Prior to Pilot Program Commencement.—Prior to commencement of the pilot program, the Chief of the National Guard Bureau shall—
+
+&emsp;"(1) conduct an assessment of existing prevention and intervention efforts of the National Guard in each State that include the use of mobile applications that provide the capability described in subsection (a) to determine best practices for providing immediate and localized care through the use of such mobile applications; and
+
+&emsp;"(2) determine the feasibility of expanding existing programs on a national scale.
+
+"(e)
+
+Responsibilities of Entities Participating in Pilot Program.—Each entity that participates in the pilot program shall—
+
+&emsp;"(1) share best practices with other entities participating in the program; and
+
+&emsp;"(2) annually assess outcomes with respect to members of the National Guard.
+
+"(f)
+
+Term.—The pilot program shall terminate on the date that is three years after the date on which the pilot program commenced.
+
+"(g)
+
+Reports.—
+
+&emsp;"(1)
+
+Initial report.—If the Chief of the National Guard Bureau commences the pilot program authorized under subsection (a), not later than 180 days after the date of the commencement of such program, the Chief shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing a description of the pilot program and such other matters as the Chief considers appropriate.
+
+&emsp;"(2)
+
+Final report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 180 days after the termination of the pilot program, the Chief of the National Guard Bureau shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on such pilot program.
+
+&emsp;&emsp;"(B)
+
+Matters included.—The report under subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) A description of the pilot program, including any partnerships entered into by the Chief of the National Guard Bureau under the program.
+
+&emsp;&emsp;&emsp;"(ii) An assessment of the effectiveness of the pilot program.
+
+&emsp;&emsp;&emsp;"(iii) A description of costs associated with the implementation of the pilot program.
+
+&emsp;&emsp;&emsp;"(iv) The estimated costs of making the pilot program permanent.
+
+&emsp;&emsp;&emsp;"(v) A recommendation as to whether the pilot program should be extended or made permanent.
+
+&emsp;&emsp;&emsp;"(vi) Such other recommendations for legislative or administrative action as the Chief of the National Guard Bureau considers appropriate.
+
+"(h)
+
+State Defined.—In this section, the term 'State' means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands."
 

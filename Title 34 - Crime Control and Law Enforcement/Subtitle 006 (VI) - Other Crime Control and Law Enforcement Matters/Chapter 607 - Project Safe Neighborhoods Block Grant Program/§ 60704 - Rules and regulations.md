@@ -14,7 +14,7 @@ Thirty percent of the amounts made available as grants under the Program each fi
 
 #### (d) Priority
 
-Amounts made available as grants under the Program shall be used to prioritize the investigation and prosecution of individuals who have an aggravating or leadership role in a criminal or transnational organization described in subsection (c).
+Amounts made available as grants under the Program shall be used to prioritize the investigation and prosecution of individuals who havean aggravating or leadership role in a criminal or transnational organization described in subsection (c).
 
 (Pub. L. 115–185, §5, June 18, 2018, 132 Stat. 1486.)
 

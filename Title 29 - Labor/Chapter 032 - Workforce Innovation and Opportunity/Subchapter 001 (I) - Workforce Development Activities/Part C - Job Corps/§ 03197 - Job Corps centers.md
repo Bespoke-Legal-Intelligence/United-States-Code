@@ -6,7 +6,7 @@
 
 #### (A) Operators
 
-&emsp;&emsp;The Secretary shall enter into an agreement with a Federal, State, or local agency,an area career and technical education school, a residential career and technical education school, or a private organization, for the operation of each Job Corps center.
+&emsp;&emsp;The Secretary shall enter into an agreement with a Federal, State, or local agency, an area career and technical education school, a residential career and technical education school, or a private organization, for the operation of each Job Corps center.
 
 #### (B) Providers
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(A) A description of the program activities that will be offered at the center and how the academics and career and technical education and training reflect State and local employment opportunities, including opportunities in in-demand industry sectors and occupations recommended by the workforce council under section 3204(c)(2)(A) of this title.
 
-&emsp;&emsp;(B) A description of the counseling, placement, and support activities that will be offered at the center, including a description of the strategies and procedures the entity will use to place graduates into unsubsidized employment or education leading to a recognized postsecondary credential upon completion of the program.
+&emsp;&emsp;(B) A description of the counseling, placement, and support activities that will be offered at the center, including a description of the strategies and procedures the entity will use to place graduates into unsubsidizedemployment or education leading to a recognized postsecondary credential upon completion of the program.
 
 &emsp;&emsp;(C) A description of the demonstrated record of effectiveness that the entity has in placing at-risk youth into employment and postsecondary education, including past performance of operating a Job Corps center under this part or subtitle C of title I of the Workforce Investment Act of 1998, and as appropriate, the entity's demonstrated effectiveness in assisting individuals in achieving the indicators of performance for eligible youth described in section 3141(b)(2)(A)(ii) of this title.
 
@@ -112,7 +112,7 @@ Job Corps centers may be residential or nonresidential in character, and shall b
 
 #### (1) In general
 
-&emsp;The Job Corps centers may include Civilian Conservation Centers, operated under an agreement between the Secretary of Labor and the Secretary of Agriculture, that are located primarily in rural areas. Such centers shall provide, in addition to academics, career and technical education and training, and workforce preparation skills training, programs of work experience to conserve, develop, or manage public natural resources or public recreational areas or to develop community projects in the public interest.
+&emsp;The Job Corps centers may include Civilian Conservation Centers, operated under an agreement between the Secretary of Labor and the Secretary of Agriculture, that are located primarily in rural areas. Such centers shallprovide, in addition to academics, career and technical education and training, and workforce preparation skills training, programs of work experience to conserve, develop, or manage public natural resources or public recreational areas or to develop community projects in the public interest.
 
 #### (2) Assistance during disasters
 
@@ -180,7 +180,11 @@ The agreement described in subsection (a)(1)(A) shall be for not more than a 2-y
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(3)(C), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Subtitle C of title I of the Act was classified generally to subchapter III (§2881 et seq.) of chapter 30 of this title. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Fish and Wildlife Coordination Act, referred to in subsec. (d)(2), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 16 and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (d)(2), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see section 661(a) of Title 16, Short Title note set out under section 661 of Title 16, and Tables.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

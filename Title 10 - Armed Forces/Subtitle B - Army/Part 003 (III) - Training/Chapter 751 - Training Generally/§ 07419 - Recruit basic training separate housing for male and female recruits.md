@@ -4,7 +4,7 @@
 
 Physically Separate Housing.—(1) The Secretary of the Army shall provide for housing male recruits and female recruits separately and securely from each other during basic training.
 
-(2) To meet the requirements of paragraph (1), the sleeping areas and latrine areas provided for male recruits shall be physically separated from the sleeping areas and latrine areas provided for female recruits by permanent walls, and the areas for male recruits and the areas for female recruits shall have separate entrances.
+(2) To meet the requirements of paragraph (1), the sleeping areas and latrine areas provided for male recruits shall be physically separated fromthe sleeping areas and latrine areas provided for female recruits by permanent walls, and the areas for male recruits and the areas for female recruits shall have separate entrances.
 
 (3) The Secretary shall ensure that, when a recruit is in an area referred to in paragraph (2), the area is supervised by one or more persons who are authorized and trained to supervise the area.
 
@@ -32,5 +32,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Implementation
 
-Pub. L. 105–261, div. A, title V, §521(a)(3), Oct. 17, 1998, 112 Stat. 2010, provided that: "The Secretary of theArmy shall implement section 4319 \[now 7419\] of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999."
+Pub. L. 105–261, div. A, title V, §521(a)(3), Oct. 17, 1998, 112 Stat. 2010, provided that: "The Secretary of the Army shall implement section 4319 \[now 7419\] of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999."
 

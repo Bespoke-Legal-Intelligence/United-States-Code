@@ -33,7 +33,7 @@
 
 <b>1994</b>—Pub. L. 103–337, div. A, title VIII, §812(b)(2), title X, §1070(a)(13)(B), Oct. 5, 1994, 108 Stat. 2816, 2856, substituted "Determinations of public interest under the Buy American Act" for "Limitation on use of funds: procurement of goods which are other than American goods" in item 2533 and renumbered items 2540 and 2541 as 2539a and 2539b, respectively.
 
-<b>1993</b>—Pub. L. 103–160, div. A, title VIII, §§828(c)(5), 842(c)(2), Nov. 30, 1993, 107 Stat. 1714, 1719, substituted "Award of certain contracts to entities controlled by aforeign government: prohibition" for "Prohibition on award of certain Department of Defense and Department of Energy contracts to companies owned by an entity controlled by a foreign government" in item 2536 and added items 2538 to 2541.
+<b>1993</b>—Pub. L. 103–160, div. A, title VIII, §§828(c)(5), 842(c)(2), Nov. 30, 1993, 107 Stat. 1714, 1719, substituted "Award of certain contracts to entities controlled by a foreign government: prohibition" for "Prohibition on award of certain Department of Defense and Department of Energy contracts to companies owned by an entity controlled by a foreign government" in item 2536 and added items 2538 to 2541.
 
 <b>1992</b>—Pub. L. 102–484, div. A, title VIII, §§836(a)(2), 838(b), Oct. 23, 1992, 106 Stat. 2463, 2466, added items 2536 and 2537.
 

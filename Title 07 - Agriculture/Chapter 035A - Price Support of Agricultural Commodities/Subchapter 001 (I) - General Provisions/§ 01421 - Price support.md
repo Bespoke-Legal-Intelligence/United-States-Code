@@ -14,7 +14,7 @@ Compliance by the producer with acreage allotments, production goals and marketi
 
 #### (d) Time of determining levels
 
-The level of price support for any commodity shall be determined upon the basis of its parity price as of the beginning of the marketing year or season in the case of any commodity marketed on a marketing year or season basis and as of January 1 in the case of any other commodity.
+The level of price support for any commodity shall be determined upon the basis of its parityprice as of the beginning of the marketing year or season in the case of any commodity marketed on a marketing year or season basis and as of January 1 in the case of any other commodity.
 
 #### (e) Processors' assurances; payment if assurances inadequate
 
@@ -104,7 +104,7 @@ In general.—The amendment made by section 903(3) of this Act \[amending sectio
 
 &emsp;&emsp;&emsp;"(i) the date of enactment of this Act \[Dec. 13, 1991\];
 
-&emsp;&emsp;&emsp;"(ii) October 1, 1990, for supplemental nutrition assistance program benefits households for which the State agency knew, or had notice, that a member of the household had a plan for achieving self-support as provided under section 1612(b)(4)(B)(iv) of the Social Security Act (42 U.S.C. 1382a(b)(4)(B)(iv)); or
+&emsp;&emsp;&emsp;"(ii) October 1, 1990, for supplemental nutrition assistance program benefits households for which the State agency knew, or had notice, that a member of the household had a plan for achieving self-support as provided under section1612(b)(4)(B)(iv) of the Social Security Act (42 U.S.C. 1382a(b)(4)(B)(iv)); or
 
 &emsp;&emsp;&emsp;"(iii) beginning on the date that a fair hearing was requested under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) contesting the denial of an exclusion for supplemental nutrition assistance program benefits purposes for amounts necessary for the fulfillment of such a plan for achieving self-support.
 
@@ -294,7 +294,7 @@ Pub. L. 101–624, title XXV, §2515, Nov. 28, 1990, 104 Stat. 4075, authorized 
 
 #### Recordkeeping Improvement
 
-Pub. L. 101–624, title XXV, §2516, Nov. 28, 1990, 104 Stat. 4075, which provided that section could be cited as"Agricultural Program Reporting and Recordkeeping Improvement Act of 1990", directed Secretary of Agriculture, not later than 240 days after Nov. 28, 1990, to submit to Congress a report containing specific proposals for reducing and simplifying recordkeeping and other paperwork required of producers participating in programs administered by Secretary and directed Secretary to take appropriate action to integrate various data bases of Department relating to agricultural program data, and to facilitate sharing of relevant data among various agencies of Department.
+Pub. L. 101–624, title XXV, §2516, Nov. 28, 1990, 104 Stat. 4075, which provided that section could be cited as "Agricultural Program Reporting and Recordkeeping Improvement Act of 1990", directed Secretary of Agriculture, not later than 240 days after Nov. 28, 1990, to submit to Congress a report containing specific proposals for reducing and simplifying recordkeeping and other paperwork required of producers participating in programs administered by Secretary and directed Secretary to take appropriate action to integrate variousdata bases of Department relating to agricultural program data, and to facilitate sharing of relevant data among various agencies of Department.
 
 #### Readjustment of Support Levels
 

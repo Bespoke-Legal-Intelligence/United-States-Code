@@ -66,7 +66,7 @@ The Board of Governors may exempt a designated financial market utility from, or
 
 #### (I) Change allowed earlier if notified of no objection
 
-&emsp;&emsp;A designated financial market utility may implement a change in less than 60 days from the date of receipt of the notice of proposed change by the Supervisory Agency, or the date the Supervisory Agency receives any further information it requested, if the Supervisory Agency notifies the designated financial market utility in writing that it does not object to the proposed change and authorizes the designated financial market utility to implement the change on an earlier date, subject to any conditions imposed by the Supervisory Agency.
+&emsp;&emsp;A designated financial market utility may implement a change in less than 60 days from the date of receipt of the notice of proposed change by the Supervisory Agency, or the date the Supervisory Agency receives any further information it requested, if the Supervisory Agency notifies the designated financial market utility in writing that itdoes not object to the proposed change and authorizes the designated financial market utility to implement the change on an earlier date, subject to any conditions imposed by the Supervisory Agency.
 
 #### (2) Emergency changes
 

@@ -14,7 +14,7 @@ Contents of Plans.—A plan to be submitted by an air carrier under subsection (
 
 &emsp;(3) An assurance that the notice described in paragraph (2) will be provided to the family of a passenger as soon as the air carrier has verified that the passenger was aboard the aircraft (whether or not the names of all of the passengers have been verified) and, to the extent practicable, in person.
 
-&emsp;(4) An assurance that the air carrier will provide to the director of family support services designated for the accident under section 1136(a)(1) of this title, and to the organizationdesignated for the accident under section 1136(a)(2) of this title, immediately upon request, a list (which is based on the best available information at the time of the request) of the names of the passengers aboard the aircraft (whether or not such names have been verified), and will periodically update the list.
+&emsp;(4) An assurance that the air carrier will provide to the director of family support services designated for the accident under section 1136(a)(1) of this title, and to the organization designated for the accident under section 1136(a)(2) of this title, immediately upon request, a list (which is based on the best available information at the time of the request) of the names of the passengers aboard the aircraft (whether or not such names have been verified), and will periodically update the list.
 
 &emsp;(5) An assurance that the family of each passenger will be consulted about the disposition of all remains and personal effects of the passenger within the control of the air carrier.
 

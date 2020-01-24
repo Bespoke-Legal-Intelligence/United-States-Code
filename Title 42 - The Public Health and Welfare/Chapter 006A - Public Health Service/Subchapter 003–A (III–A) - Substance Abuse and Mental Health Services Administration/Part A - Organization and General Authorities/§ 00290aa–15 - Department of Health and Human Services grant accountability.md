@@ -50,7 +50,7 @@ Each covered grant shall be subject to the following accountability requirements
 
 #### (i) In general
 
-&emsp;&emsp;No amounts made available to the Secretary under this Act (or in a provision of law amended by this Act, other than sections 703 through 707) may be used by the Secretary, or by any individual or entity awarded discretionary funds through a cooperative agreement under a program established under this Act (or in a provision of law amended by this Act), to host or support any expenditure for conferences that uses more than $20,000 in funds made available by the Secretary, unless the head of the relevant operating division or program office provides prior written authorization that the funds may be expended to host or support the conference. Such written authorization shall include a written estimate of all costs associated with the conference, including the cost of all food, beverages, audio-visual equipment, honoraria for speakers, and entertainment.
+&emsp;&emsp;No amounts made available to the Secretary under this Act (or in a provision oflaw amended by this Act, other than sections 703 through 707) may be used by the Secretary, or by any individual or entity awarded discretionary funds through a cooperative agreement under a program established under this Act (or in a provision of law amended by this Act), to host or support any expenditure for conferences that uses more than $20,000 in funds made available by the Secretary, unless the head of the relevant operating division or program office provides prior written authorization that the funds may be expended to host or support the conference. Such written authorization shall include a written estimate of all costs associated with the conference, including the cost of all food, beverages, audio-visual equipment, honoraria for speakers, and entertainment.
 
 #### (ii) Report
 
@@ -68,5 +68,5 @@ Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2
 
 #### Additional Report
 
-Pub. L. 114–198, title VII, §701(e), July 22, 2016, 130 Stat. 740, provided that: "In the case of a report submitted under subsection (c) \[enacting this section\] to the applicable committees, if such report pertains to a grant under section 103 \[21 U.S.C. 1536\], that report shall also be submitted, in the same manner and at the same time, to the Committee on Oversight and Government Reform of the House of Representatives and to the Committee on the Judiciary of the Senate."
+Pub. L. 114–198, title VII, §701(e), July 22, 2016, 130 Stat. 740, provided that: "In the case of a report submitted under subsection (c) \[enacting this section\] to the applicable committees, if such report pertains to a grant under section 103 \[21 U.S.C. 1536\], that report shall also be submitted, in the same manner and at the same time, to the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and to the Committee on the Judiciary of the Senate."
 

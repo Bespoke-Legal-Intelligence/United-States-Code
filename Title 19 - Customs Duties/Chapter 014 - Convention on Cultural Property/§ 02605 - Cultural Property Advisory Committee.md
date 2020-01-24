@@ -86,7 +86,7 @@ Six of the members of the Committee shall constitute a quorum. All decisions of 
 
 #### (h) Federal Advisory Committee Act
 
-The provisions of the Federal Advisory Committee Act (Public Law 92–463; 5 U.S.C. Appendix) shall apply to the Committee except that the requirements of subsections (a) and (b) of section 10 and section 11 of such Act (relating to open meetings, public notice, public participation, and public availability of documents) shall not apply to the Committee, whenever and to the extent it is determined by the President or his designee that the disclosure of matters involved in the Committee's proceedings would compromise the Government's negotiating objectives or bargaining positions on the negotiations of any agreement authorized by this chapter.
+The provisions of the Federal Advisory Committee Act (Public Law 92–463; 5 U.S.C. Appendix) shall apply to the Committee except that the requirements of subsections (a) and (b) of section 10 and section 11 of such Act (relating to open meetings, public notice, public participation, and public availability of documents) shall not apply to the Committee, whenever and to the extent it is determined by the President or his designee that the disclosure of matters involved in the Committee's proceedings wouldcompromise the Government's negotiating objectives or bargaining positions on the negotiations of any agreement authorized by this chapter.
 
 #### (i) Confidential information
 

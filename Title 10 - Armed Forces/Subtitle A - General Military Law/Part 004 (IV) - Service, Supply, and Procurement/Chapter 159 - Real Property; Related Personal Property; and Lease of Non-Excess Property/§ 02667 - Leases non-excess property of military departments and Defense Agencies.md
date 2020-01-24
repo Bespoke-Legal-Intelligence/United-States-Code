@@ -538,7 +538,7 @@ Amendment by Pub. L. 94–412 not to affect any action taken or proceeding pendi
 
 #### Temporary Installation Reutilization Authority for Arsenals, Depots, and Plants
 
-Pub. L. 115–91, div. A, title III, §345, Dec. 12, 2017, 131 Stat. 1363, provided that:
+Pub. L. 115–91, div. A, title III, §345, Dec. 12, 2017, 131 Stat. 1363, as amended by Pub. L. 116–92, div. A, title III, §354, Dec. 20, 2019, 133 Stat. 1321, provided that:
 
 "(a)
 
@@ -580,7 +580,7 @@ Military Manufacturing Arsenal, Depot, or Plant Defined.—In this section, the 
 
 "(d)
 
-Sunset.—The authority under this section shall terminate at the close of September 30, 2020. Any contracts entered into on or before such date shall continue in effect according to their terms."
+Sunset.—The authority under this section shall terminate at the close of September 30, 2025. Any contracts entered into on or before such date shall continue in effect according to their terms."
 
 #### Transfers From Special Accounts
 

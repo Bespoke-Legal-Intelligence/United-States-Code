@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Commandant shall ensure that developmental test and evaluation,operational test and evaluation, life-cycle cost estimates, and the development and demonstration requirements applied by this chapter to acquisition projects and programs are met to confirm that the projects or programs meet the requirements identified in the mission-analysis and affordability assessment prepared under section 1131(a)(2), the operational requirements developed under section 1132(a)(1) and the following development and demonstration objectives:
+In General.—The Commandant shall ensure that developmental test and evaluation, operational test and evaluation, life-cycle cost estimates, and the development and demonstration requirements applied by this chapter to acquisition projects and programs are met to confirm that the projects or programs meet the requirements identified in the mission-analysis and affordability assessment prepared under section 1131(a)(2), the operational requirements developed under section 1132(a)(1) and the following development and demonstration objectives:
 
 &emsp;(1) To demonstrate that the design, manufacturing, and production solution is based upon a stable, producible, and cost-effective product design.
 
@@ -112,7 +112,7 @@ Subsec. (c)(5). Pub. L. 115–232, §3522(4)(B), struck out "and delivered after
 
 #### National Security Cutters
 
-Pub. L. 115–282, title III, §311(f), Dec. 4, 2018, 132 Stat. 4249, provided that: "The Secretary of the department in which the Coast Guard is operating is authorized to enter into a multiyear contract for the procurement of a tenth, eleventh, and twelfth National Security Cutter and associated government-furnished equipment."
+Pub. L. 115–282, title III, §311(f), Dec. 4, 2018, 132 Stat. 4249, provided that: "The Secretary of the departmentin which the Coast Guard is operating is authorized to enter into a multiyear contract for the procurement of a tenth, eleventh, and twelfth National Security Cutter and associated government-furnished equipment."
 
 Pub. L. 115–282, title VIII, §818(a), Dec. 4, 2018, 132 Stat. 4307, provided that: "The Commandant of the Coast Guard may not certify an eighth National Security Cutter as Ready for Operations before the date on which the Commandant provides to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
 

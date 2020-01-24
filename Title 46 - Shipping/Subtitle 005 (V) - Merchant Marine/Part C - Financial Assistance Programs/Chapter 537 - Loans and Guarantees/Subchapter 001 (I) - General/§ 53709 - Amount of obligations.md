@@ -28,19 +28,11 @@ Certain approved vessels.—The principal amount may not exceed 87.5 percent of 
 
 &emsp;(3)
 
-Barges.—For a barge constructed without a construction-differential subsidy or for which the subsidy has been repaid, the principal amount may not exceed 87.5 percent of the actual cost or depreciated actual cost.
+Fishing vessels and fishery facilities.—For a fishing vessel or fishery facility, the principal amount may not exceed 80 percent of the actual cost or depreciated actual cost. However, debt for the vessel or facility may not be placed through the Federal Financing Bank.
 
 &emsp;(4)
 
-Fishing vessels and fishery facilities.—For a fishing vessel or fishery facility, the principal amount may not exceed 80 percent of the actual cost or depreciated actual cost. However, debt for the vessel or facility may not be placed through the Federal Financing Bank.
-
-&emsp;(5)
-
 OTEC.—For an ocean thermal energy conversion facility or plantship constructed without a construction-differential subsidy, the principal amount may not exceed 87.5 percent of the actual cost or depreciated actual cost of the facility or plantship.
-
-&emsp;(6)
-
-Eligible export vessels.—For an eligible export vessel, the principal amount may not exceed 87.5 percent of the actual cost or depreciated actual cost.
 
 (c)
 
@@ -54,7 +46,7 @@ Prohibition on Uniform Percentage Limitations.—The Secretary or Administrator 
 
 Prohibition on Minimum Principal Amount.—The Secretary may not establish, as a condition of eligibility for a guarantee under this chapter, a minimum principal amount for an obligation covering the reconstruction or reconditioning of a fishing vessel or fishery facility. For purposes of this chapter, the reconstruction or reconditioning of a fishing vessel or fishery facility does not include the routine minor repair or maintenance of the vessel or facility.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1609; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (D), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1609; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (D), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598; Pub. L. 116–92, div. C, title XXXV, §3506(f), Dec. 20, 2019, 133 Stat. 1972.)
 
 Historical and Revision Notes
 
@@ -99,6 +91,16 @@ Subsections (a) and (d) are substituted for the source provisions for clarity an
 Section 509 of the Merchant Marine Act, 1936, referred to in subsec. (b)(2)(B), is section 509 of act June 29, 1936, ch. 858, 49 Stat. 1985, which is set out as a note under section 53101 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(3) to (6). Pub. L. 116–92 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) and par. (6) which read as follows:
+
+"(3)
+
+Barges.—For a barge constructed without a construction-differential subsidy or for which the subsidy has been repaid, the principal amount may not exceed 87.5 percent of the actual cost or depreciated actual cost.
+
+"(6)
+
+Eligible export vessels.—For an eligible export vessel, the principal amount may not exceed 87.5 percent of the actual cost or depreciated actual cost."
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(C), (D). See 2006 Amendment note below.
 

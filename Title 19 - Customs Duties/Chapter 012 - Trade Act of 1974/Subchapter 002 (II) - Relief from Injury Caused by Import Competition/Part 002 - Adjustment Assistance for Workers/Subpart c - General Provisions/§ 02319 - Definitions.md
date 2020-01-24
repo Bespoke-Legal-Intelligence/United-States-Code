@@ -22,7 +22,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) his wages reduced to 80 percent or less of his average weekly wage in such adversely affected employment.
 
-&emsp;(7) The term "State" includes the District of Columbia and the Commonwealth of Puerto Rico; and the term "United States" when used in the geographical sense includes such Commonwealth.
+&emsp;(7) The term "State" includes the District of Columbia and the Commonwealth of PuertoRico; and the term "United States" when used in the geographical sense includes such Commonwealth.
 
 &emsp;(8) The term "State agency" means the agency of the State which administers the State law.
 

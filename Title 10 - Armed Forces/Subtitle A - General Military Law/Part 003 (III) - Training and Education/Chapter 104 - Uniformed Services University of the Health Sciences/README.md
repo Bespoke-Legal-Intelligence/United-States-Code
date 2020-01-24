@@ -6,6 +6,7 @@
 | [2112a.](%C2%A7%2002112a%20-%20Continued%20operation%20of%20University.md) | Continued operation of University. |
 | [2113\.](%C2%A7%2002113%20-%20Administration%20of%20University.md) | Administration of University. |
 | [2113a.](%C2%A7%2002113a%20-%20Board%20of%20Regents.md) | Board of Regents. |
+| [2113b.](%C2%A7%2002113b%20-%20Academic%20Health%20System.md) | Academic Health System. |
 | [2114\.](%C2%A7%2002114%20-%20Students%20selection%3B%20status%3B%20obligation.md) | Students: selection; status; obligation. |
 | [2115\.](%C2%A7%2002115%20-%20Graduates%20limitation%20on%20number%20permitted%20to%20perform%20civilian%20Federal%20service.md) | Graduates: limitation on number permitted to perform civilian Federal service. |
 | [2116\.](%C2%A7%2002116%20-%20Military%20nursing%20research.md) | Military nursing research. |
@@ -14,6 +15,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title VII, §734(b), Dec. 20, 2019, 133 Stat. 1462, added item 2113b.
 
 <b>2011</b>—Pub. L. 111–383, div. A, title X, §1075(b)(27), Jan. 7, 2011, 124 Stat. 4370, transferred item 2113a "Board of Regents" to appear after item 2113.
 
@@ -42,6 +45,7 @@ Pub. L. 104–106, div. A, title VII, §741(b), title X, §1072(c)(2), Feb. 10, 
 - [&sect; 02112a - Continued operation of University](%C2%A7%2002112a%20-%20Continued%20operation%20of%20University.md)
 - [&sect; 02113 - Administration of University](%C2%A7%2002113%20-%20Administration%20of%20University.md)
 - [&sect; 02113a - Board of Regents](%C2%A7%2002113a%20-%20Board%20of%20Regents.md)
+- [&sect; 02113b - Academic Health System](%C2%A7%2002113b%20-%20Academic%20Health%20System.md)
 - [&sect; 02114 - Students selection; status; obligation](%C2%A7%2002114%20-%20Students%20selection%3B%20status%3B%20obligation.md)
 - [&sect; 02115 - Graduates limitation on number permitted to perform civilian Federal service](%C2%A7%2002115%20-%20Graduates%20limitation%20on%20number%20permitted%20to%20perform%20civilian%20Federal%20service.md)
 - [&sect; 02116 - Military nursing research](%C2%A7%2002116%20-%20Military%20nursing%20research.md)

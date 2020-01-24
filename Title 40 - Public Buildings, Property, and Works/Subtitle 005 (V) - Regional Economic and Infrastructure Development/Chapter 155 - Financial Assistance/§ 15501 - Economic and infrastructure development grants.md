@@ -150,7 +150,7 @@ Annual work plan.—
 
 &emsp;"(A)
 
-In general.—For each fiscal year, before providing a grant under the program, each Commission State shall provide to the Commission an annual work plan that includes the proposed use of the grant.
+In general.—For each fiscal year, before providing a grant under the program, each Commission State shall provide to the Commission an annualwork plan that includes the proposed use of the grant.
 
 &emsp;"(B)
 

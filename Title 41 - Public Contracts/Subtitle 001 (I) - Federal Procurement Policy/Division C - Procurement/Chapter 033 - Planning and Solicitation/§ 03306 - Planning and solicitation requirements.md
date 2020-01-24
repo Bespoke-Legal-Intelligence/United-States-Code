@@ -34,7 +34,7 @@ Types of specifications.—For the purposes of paragraphs (1) and (2), the type 
 
 (b)
 
-Contents of Solicitation.—In addition to the specifications described in subsection (a), each solicitation for sealed bids or competitive proposals (other than for a procurement for commercial items using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
+Contents of Solicitation.—In addition to the specifications described in subsection (a),each solicitation for sealed bids or competitive proposals (other than for a procurement for commercial products or commercial services using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
 
 &emsp;(1) a statement of—
 
@@ -124,17 +124,13 @@ Federal acquisition regulation to allow telecommuting.—The Federal Acquisition
 
 &emsp;(3)
 
-Scope of allowance.—The Federal Acquisition Regulation at a minimum shall provide that a solicitation for the acquisition of property or services may not set forth any requirement or evaluation criteria that would—
+Scope of allowance.—The Federal Acquisition Regulation at a minimum shall provide that a solicitation for the acquisition ofproperty or services may not set forth any requirement or evaluation criteria that would—
 
 &emsp;&emsp;(A) render an offeror ineligible to enter into a contract on the basis of the inclusion of a plan of the offeror to allow the offeror's employees to telecommute, unless the contracting officer concerned first determines that the requirements of the agency, including security requirements, cannot be met if telecommuting is allowed and documents in writing the basis for the determination; or
 
 &emsp;&emsp;(B) reduce the scoring of an offer on the basis of the inclusion in the offer of a plan of the offeror to allow the offeror's employees to telecommute, unless the contracting officer concerned first determines that the requirements of the agency, including security requirements, would be adversely impacted if telecommuting is allowed and documents in writing the basis for the determination.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3752; Pub. L. 115–232, div. A, title VIII, §§836(b)(9), 876, Aug. 13, 2018, 132 Stat. 1861, 1907.)
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(9), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking "commercial items" and inserting "commercial products or commercial services". See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes
 

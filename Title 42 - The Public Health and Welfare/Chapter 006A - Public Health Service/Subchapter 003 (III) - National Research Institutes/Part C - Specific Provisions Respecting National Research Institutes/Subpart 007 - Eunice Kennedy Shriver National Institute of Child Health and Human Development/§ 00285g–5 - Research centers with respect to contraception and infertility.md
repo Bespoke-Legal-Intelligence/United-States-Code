@@ -44,7 +44,7 @@ Support of a center under subsection (a) may be for a period not exceeding 5 yea
 
 #### Amendments
 
-<b>2007</b>—Subsec. (g). Pub. L. 109–482 struck out subsec. (g) which read as follows: "For the purpose of carryingout this section, there are authorized to be appropriated $30,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996."
+<b>2007</b>—Subsec. (g). Pub. L. 109–482 struck out subsec. (g) which read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996."
 
 #### Effective Date of 2007 Amendment
 

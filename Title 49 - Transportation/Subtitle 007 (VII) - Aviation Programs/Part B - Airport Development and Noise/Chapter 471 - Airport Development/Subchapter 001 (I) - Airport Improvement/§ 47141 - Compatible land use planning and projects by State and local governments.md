@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation may make grants, from amounts set aside under section 47117(e)(1)(A), to States and units of local government for development and implementation of land use compatibility plans and implementation of land use compatibility projects resulting from those plans for the purposes of making the use of land areas around large hub airports and medium hub airportscompatible with aircraft operations. The Secretary may make a grant under this section for a land use compatibility plan or a project resulting from such plan only if—
+In General.—The Secretary of Transportation may make grants, from amounts set aside under section 47117(e)(1)(A), to States and units of local government for development and implementation of land use compatibility plans and implementation of land use compatibility projects resulting from those plans for the purposes of making the use of land areas around large hub airports and medium hub airports compatible with aircraft operations. The Secretary may make a grant under this section for a land use compatibility plan or a project resulting from such plan only if—
 
 &emsp;(1) the airport operator has not submitted a noise compatibility program to the Secretary under section 47504 or has not updated such program within the preceding 10 years; and
 
@@ -38,7 +38,7 @@ Assurances.—The Secretary shall require a State or unit of local government to
 
 (d)
 
-Guidelines.—The Secretary shall establish guidelines to administer this section in accordance with the purposes and conditions described in this section. The Secretary may require a State or unit of local government to which a grant may be made under this section to provide progress reports and other information as the Secretary determines to be necessary to carry out this section.
+Guidelines.—The Secretary shall establish guidelines to administer this section in accordance with the purposes and conditions describedin this section. The Secretary may require a State or unit of local government to which a grant may be made under this section to provide progress reports and other information as the Secretary determines to be necessary to carry out this section.
 
 (e)
 

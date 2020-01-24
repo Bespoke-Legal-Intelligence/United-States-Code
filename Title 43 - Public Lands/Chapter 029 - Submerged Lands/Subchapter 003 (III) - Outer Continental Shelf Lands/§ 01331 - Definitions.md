@@ -20,11 +20,11 @@ When used in this subchapter—
 
 &emsp;(3) which is receiving, or in accordnace <sup>2</sup> with the proposed activity will receive, oil for processing, refining, or transshipment which was extracted from the outer Continental Shelf and transported directly to such State by means of vessels or by a combination of means including vessels;
 
-&emsp;(4) which is designated by the Secretary as a State in which there is a substantial probability of significant impact on or damage to the coastal, marine, or human environment, or a State in which there will be significantchanges in the social, governmental, or economic infrastructure, resulting from the exploration, development, and production of oil and gas anywhere on the outer Continental Shelf; or
+&emsp;(4) which is designated by the Secretary as a State in which there is a substantial probability of significant impact on or damage to the coastal, marine, or human environment, or a State in which there will be significant changes in the social, governmental, or economic infrastructure, resulting from the exploration, development, and production of oil and gas anywhere on the outer Continental Shelf; or
 
 &emsp;(5) in which the Secretary finds that because of such activity there is, or will be, a significant risk of serious damage, due to factors such as prevailing winds and currents, to the marine or coastal environment in the event of any oilspill, blowout, or release of oil or gas from vessels, pipelines, or other transshipment facilities;
 
-(g) The term "marine environment" means the physical, atmospheric, and biological components, conditions, and factors which interactively determine the productivity, state, condition, and quality of the marine ecosystem, including the waters of the high seas, the contiguous zone, transitional and intertidal areas, salt marshes, and wetlands within the coastal zone and on the outer Continental Shelf;
+(g) The term "marine environment" means the physical, atmospheric, and biological components, conditions, and factors which interactively determine the productivity, state, condition, and quality of the marine ecosystem, including the waters of the high seas, the contiguous zone, transitional and intertidal areas, saltmarshes, and wetlands within the coastal zone and on the outer Continental Shelf;
 
 (h) The term "coastal environment" means the physical atmospheric, and biological components, conditions, and factors which interactively determine the productivity, state, condition, and quality of the terrestrial ecosystem from the shoreline inward to the boundaries of the coastal zone;
 
@@ -70,7 +70,7 @@ The Clayton Act, referred to in subsec. (n)(2), is act Oct. 15, 1914, ch. 323, 3
 
 The Federal Trade Commission Act, referred to in subsec. (n)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
-The Wilson Tariff Act, referred to in subsec. (n)(4), is act Aug. 27, 1894, ch. 349, §§73 to 77, 28 Stat. 570, as amended. Sections 73 to 76 enacted sections 8 to 11 of Title 15. Section 77 is not classified to the Code. For complete classification of this Act to the Code, seeShort Title note set out under section 8 of Title 15 and Tables.
+The Wilson Tariff Act, referred to in subsec. (n)(4), is act Aug. 27, 1894, ch. 349, §§73 to 77, 28 Stat. 570, as amended. Sections 73 to 76 enacted sections 8 to 11 of Title 15. Section 77 is not classified to the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8 of Title 15 and Tables.
 
 Act of June 19, 1936, referred to in subsec. (n)(5), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Act, the Robinson-Patman Antidiscrimination Act, and the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, Commerce and Trade, and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
 
@@ -190,7 +190,7 @@ In general.—The term 'qualified outer Continental Shelf revenues' means—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the 181 South Area; and
 
-&emsp;&emsp;&emsp;"(ii) in the case of fiscal year 2017 and each fiscal year thereafter, all rentals, royalties, bonus bids, and other sums due and payable to the United States received on or after October 1, 2016, from leases entered into on or after the date of enactment of this Act for—
+&emsp;&emsp;&emsp;"(ii) in the case of fiscal year 2017 and each fiscal year thereafter, all rentals, royalties, bonus bids, and other sums due and payable to theUnited States received on or after October 1, 2016, from leases entered into on or after the date of enactment of this Act for—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the 181 Area;
 
@@ -438,7 +438,7 @@ Pro rata reductions.—If paragraph (1) limits the amount of qualified outer Con
 
 \[The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.\]
 
-Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 995, provided in part: "That for fiscal year 2012 and eachfiscal year thereafter, the term 'qualified Outer Continental Shelf revenues', as defined in section 102(9)(A) of the Gulf of Mexico Energy Security Act \[of 2006\], \[title I of\] division C of Public Law 109–432 \[set out above\], shall include only the portion of rental revenues that would have been collected by the Secretary at the rental rates in effect before August 5, 1993."
+Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 995, provided in part: "That for fiscal year 2012 and each fiscal year thereafter, the term 'qualified Outer Continental Shelf revenues', as defined in section 102(9)(A) of the Gulf of Mexico Energy Security Act \[of 2006\], \[title I of\] division C of Public Law 109–432 \[set out above\], shall include only the portion of rental revenues that would have been collected by the Secretary at the rental rates in effect before August 5, 1993."
 
 Similar provisions were contained in the following appropriation act:
 
@@ -450,7 +450,7 @@ Act Aug. 7, 1953, ch. 345, §13, 67 Stat. 470, revoked Ex. Ord. No. 10426, Jan. 
 
 #### Authorization of Appropriations
 
-Act Aug. 7, 1953, ch. 345, §16, 67 Stat. 471, provided that: "There is hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[enacting this subchapter\]."
+Act Aug. 7, 1953, ch. 345, §16, 67 Stat. 471, provided that: "There is hereby authorized to be appropriatedsuch sums as may be necessary to carry out the provisions of this Act \[enacting this subchapter\]."
 
 #### Proc. No. 5928. Territorial Sea of United States
 
@@ -512,13 +512,13 @@ Ex. Ord. No. 13795, Apr. 28, 2017, 82 F.R. 20815, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Outer Continental Shelf Lands Act, 43 U.S.C. 1331 <i>et seq</i>., and in order to maintain global leadership in energy innovation, exploration, and production, it is hereby ordered as follows:
 
-Section 1. <i>Findings</i>. America must put the energy needs of American families and businesses first and continue implementing a plan that ensures energy security and economic vitality for decades to come. The energy and minerals produced from lands and waters under Federal management are important to a vibrant economy and to our national security. Increased domestic energy production on Federal lands and watersstrengthens the Nation's security and reduces reliance on imported energy. Moreover, low energy prices, driven by an increased American energy supply, will benefit American families and help reinvigorate American manufacturing and job growth. Finally, because the Department of Defense is one of the largest consumers of energy in the United States, domestic energy production also improves our Nation's military readiness.
+Section 1. <i>Findings</i>. America must put the energy needs of American families and businesses first and continue implementing a plan that ensures energy security and economic vitality for decades to come. The energy and minerals produced from lands and waters under Federal management are important to a vibrant economy and to our national security. Increased domestic energy production on Federal lands and waters strengthens the Nation's security and reduces reliance on imported energy. Moreover, low energy prices, driven by an increased American energy supply, will benefit American families and help reinvigorate American manufacturing and job growth. Finally, because the Department of Defense is one of the largest consumers of energy in the United States, domestic energy production also improves our Nation's military readiness.
 
 Sec. 2. <i>Policy</i>. It shall be the policy of the United States to encourage energy exploration and production, including on the Outer Continental Shelf, in order to maintain the Nation's position as a global energy leader and foster energy security and resilience for the benefit of the American people, while ensuring that any such activity is safe and environmentally responsible.
 
 Sec. 3. <i>Implementing an America-First Offshore Energy Strategy</i>. To carry out the policy set forth in section 2 of this order, the Secretary of the Interior shall:
 
-(a) as appropriate and consistent with applicable law, including the procedures set forth in section 1344 of title 43, United States Code, in consultation with the Secretary of Defense, give full consideration to revising the schedule of proposed oil and gas lease sales, as described in that section, so that it includes, but is not limited to, annual lease sales, to the maximum extent permitted by law, in each of the following Outer Continental Shelf Planning Areas, as designated by the Bureau of Ocean Energy Management (BOEM) (Planning Areas): Western Gulf of Mexico, Central Gulf of Mexico, Chukchi Sea, Beaufort Sea, Cook Inlet, Mid-Atlantic, and South Atlantic;
+(a) as appropriate and consistent with applicable law, including the procedures set forth in section 1344 of title 43, United States Code, in consultation with the Secretary of Defense, give full consideration to revisingthe schedule of proposed oil and gas lease sales, as described in that section, so that it includes, but is not limited to, annual lease sales, to the maximum extent permitted by law, in each of the following Outer Continental Shelf Planning Areas, as designated by the Bureau of Ocean Energy Management (BOEM) (Planning Areas): Western Gulf of Mexico, Central Gulf of Mexico, Chukchi Sea, Beaufort Sea, Cook Inlet, Mid-Atlantic, and South Atlantic;
 
 (b) ensure that any revisions made pursuant to subsection (a) of this section do not hinder or affect ongoing lease sales currently scheduled as part of the 2017–2022 Outer Continental Shelf Oil and Gas Leasing Proposed Final Program, as published on November 18, 2016; and
 
@@ -556,7 +556,7 @@ Sec. 9. <i>Expedited Consideration of Incidental Harassment Authorizations, Inci
 
 Sec. 10. <i>Review of National Oceanic and Atmospheric Administration (NOAA) Technical Memorandum NMFS–OPR–55</i>. The Secretary of Commerce shall review NOAA's Technical Memorandum NMFS–OPR–55 of July 2016 (Technical Guidance for Assessing the Effects of Anthropogenic Sound on Marine Mammal Hearing) for consistency with the policy set forth in section 2 of this order and, after consultation with the appropriate Federal agencies, take all steps permitted by law to rescind or revise that guidance, if appropriate.
 
-Sec. 11. <i>Review of Offshore Arctic Drilling Rule</i>. The Secretary of the Interior shall immediately take all steps necessary to review the Final Rule entitled "Oil and Gas and Sulfur Operations on the Outer Continental Shelf—Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf," 81 <i>Fed. Reg.</i> 46478 (July 15, 2016), and, if appropriate, shall, as soon as practicable and consistent with law, publish for notice and comment a proposed rule suspending, revising, or rescinding this rule.
+Sec. 11. <i>Review of Offshore Arctic Drilling Rule</i>. The Secretary of the Interior shall immediately take all steps necessary to review the Final Rule entitled "Oil and Gas and Sulfur Operations on the Outer Continental Shelf—Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf," 81 <i>Fed. Reg.</i> 46478 (July 15, 2016), and, if appropriate, shall, as soon aspracticable and consistent with law, publish for notice and comment a proposed rule suspending, revising, or rescinding this rule.
 
 Sec. 12. <i>Definition</i>. As used in this order, "Outer Continental Shelf Planning Areas, as designated by the Bureau of Ocean Energy Management" means those areas delineated in the diagrams on pages S–5 and S–8 of the 2017–2022 Outer Continental Shelf Oil and Gas Leasing Draft Proposed Program, as published by the BOEM in January 2015, with the exception of any buffer zones included in such planning documents.
 

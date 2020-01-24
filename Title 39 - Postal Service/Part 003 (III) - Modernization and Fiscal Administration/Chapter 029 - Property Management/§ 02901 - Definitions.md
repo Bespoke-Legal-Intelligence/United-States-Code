@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1)
 
-Excess property.—The term "excess property" means any postal property that the Postal Service determines is not required tomeet the needs or responsibilities of the Postal Service.
+Excess property.—The term "excess property" means any postal property that the Postal Service determines is not required to meet the needs or responsibilities of the Postal Service.
 
 &emsp;(2)
 

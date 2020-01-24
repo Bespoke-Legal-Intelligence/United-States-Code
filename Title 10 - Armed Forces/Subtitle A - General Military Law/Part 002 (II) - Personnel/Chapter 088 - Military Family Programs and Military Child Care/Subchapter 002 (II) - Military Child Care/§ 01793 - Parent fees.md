@@ -6,7 +6,7 @@ In General.—The Secretary of Defense shall prescribe regulations establishing 
 
 (b)
 
-Local Waiver Authority.—The Secretary of Defense may provide authority to installation commanders, on a case-by-case basis, to establish fees for attendance of children at child development centers at rates lower than those prescribed under subsection (a) if the rates prescribed under subsection (a) are not competitive with rates at local non-military child development centers.
+Local Waiver Authority.—The Secretary of Defense may provide authority to installation commanders, on a case-by-case basis, to establish fees for attendance of children at child development centers at rates lower than those prescribed under subsection (a) if the rates prescribed under subsection (a) are not competitivewith rates at local non-military child development centers.
 
 (Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 333.)
 

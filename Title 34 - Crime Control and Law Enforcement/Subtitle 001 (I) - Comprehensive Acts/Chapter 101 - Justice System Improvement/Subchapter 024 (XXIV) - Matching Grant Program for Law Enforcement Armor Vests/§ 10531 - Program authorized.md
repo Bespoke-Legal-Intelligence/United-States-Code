@@ -56,7 +56,7 @@ A qualifying State, unit of local government, or Indian tribe may not receive mo
 
 #### (3) Limitation on matching funds
 
-&emsp;A State, unit of local government, or Indian tribe may not use funding received under any other Federal grant program to pay or deferthe cost, in whole or in part, of the matching requirement under paragraph (1).
+&emsp;A State, unit of local government, or Indian tribe may not use funding received under any other Federal grant program to pay or defer the cost, in whole or in part, of the matching requirement under paragraph (1).
 
 #### (4) Waiver
 
@@ -134,7 +134,7 @@ Pub. L. 105–181, §2, June 16, 1998, 112 Stat. 512, provided that:
 
 Findings.—Congress finds that—
 
-&emsp;"(1) the number of law enforcement officers who are killed in the line of duty would significantly decrease if every law enforcement officer in the United States had the protection of an armor vest;
+&emsp;"(1) the number of law enforcement officers who are killed in the line of duty would significantly decreaseif every law enforcement officer in the United States had the protection of an armor vest;
 
 &emsp;"(2) according to studies, between 1985 and 1994, 709 law enforcement officers in the United States were feloniously killed in the line of duty;
 

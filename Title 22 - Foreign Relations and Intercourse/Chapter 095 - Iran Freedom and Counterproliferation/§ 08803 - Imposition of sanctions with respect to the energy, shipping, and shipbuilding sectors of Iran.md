@@ -30,7 +30,7 @@ Entities that operate ports in Iran and entities in the energy, shipping, and sh
 
 #### (B) Exception
 
-&emsp;&emsp;The requirement to block and prohibit all transactions in all property and interests inproperty under subparagraph (A) shall not include the authority to impose sanctions on the importation of goods.
+&emsp;&emsp;The requirement to block and prohibit all transactions in all property and interests in property under subparagraph (A) shall not include the authority to impose sanctions on the importation of goods.
 
 #### (2) Persons described
 
@@ -64,7 +64,7 @@ Entities that operate ports in Iran and entities in the energy, shipping, and sh
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in this section, the President shall impose 5 or more of the sanctions described in section 6(a) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) with respect to a person if the President determines that the person knowingly, on or after the date that is 180 days after January 2, 2013, sells, supplies, or transfers to or from Iran goods or services described in paragraph (3).
+&emsp;&emsp;Except as provided in this section, the President shall impose 5 or more of the sanctions described in section 6(a) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) with respect to a person if the President determines that the personknowingly, on or after the date that is 180 days after January 2, 2013, sells, supplies, or transfers to or from Iran goods or services described in paragraph (3).
 
 #### (B) Exception
 
@@ -106,7 +106,7 @@ The President may provide for an exception from the imposition of sanctions unde
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;This section shall not apply with respect to a financial transaction described in clause (ii) conducted or facilitated by aforeign financial institution if, at the time of the transaction, the exception under section 8513a(d)(4)(D)(i) of this title applies to the country with primary jurisdiction over the foreign financial institution.
+&emsp;&emsp;&emsp;This section shall not apply with respect to a financial transaction described in clause (ii) conducted or facilitated by a foreign financial institution if, at the time of the transaction, the exception under section 8513a(d)(4)(D)(i) of this title applies to the country with primary jurisdiction over the foreign financial institution.
 
 #### (ii) Financial transactions described
 

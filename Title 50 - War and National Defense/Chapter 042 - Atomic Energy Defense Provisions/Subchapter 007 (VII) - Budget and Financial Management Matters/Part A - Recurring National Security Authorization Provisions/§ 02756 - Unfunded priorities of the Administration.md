@@ -1,0 +1,54 @@
+### §2756. Unfunded priorities of the Administration
+
+#### (a) Annual report or certification
+
+Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105(a) of title 31, the Administrator shall submit to the Secretary of Energy and the congressional defense committees either—
+
+&emsp;(1) a report on the unfunded priorities of the Administration; or
+
+&emsp;(2) if the Administrator determines that there are no unfunded priorities to include in such a report, a certification and explanation by the Administrator, without delegation, of the determination.
+
+#### (b) Elements
+
+#### (1) In general
+
+&emsp;Each report under subsection (a)(1) shall specify, for each unfunded priority covered by the report, the following:
+
+&emsp;&emsp;(A) A summary description of that priority, including the objectives to be achieved if that priority is funded (whether in whole or in part).
+
+&emsp;&emsp;(B) The additional amount of funds recommended in connection with the objectives under subparagraph (A).
+
+&emsp;&emsp;(C) Account information with respect to that priority.
+
+#### (2) Prioritization of priorities
+
+&emsp;Each report under subsection (a)(1) shall present the unfunded priorities covered by the report in order of urgency of priority.
+
+#### (c) Unfunded priority defined
+
+In this section, the term "unfunded priority", in the case of a fiscal year, means a program, activity, or mission requirement that—
+
+&emsp;(1) is not funded in the budget of the President for that fiscal year as submitted to Congress pursuant to section 1105(a) of title 31;
+
+&emsp;(2) is necessary to fulfill a requirement associated with the mission of the Administration; and
+
+&emsp;(3) would have been recommended for funding through the budget referred to in paragraph (1) by the Administrator—
+
+&emsp;&emsp;(A) if additional resources were available for the budget to fund the program, activity, or mission requirement; or
+
+&emsp;&emsp;(B) in the case of a program, activity, or mission requirement that emerged after the budget was formulated, if the program, activity, or mission requirement had emerged before the budget was formulated.
+
+(Pub. L. 107–314, div. D, title XLVII, §4716, as added Pub. L. 115–91, div. C, title XXXI, §3132(a), Dec. 12, 2017, 131 Stat. 1895; amended Pub. L. 115–232, div. C, title XXXI, §3124, Aug. 13, 2018, 132 Stat. 2297; Pub. L. 116–92, div. C, title XXXI, §§3115, 3139(b)(7)(A), Dec. 20, 2019, 133 Stat. 1951, 1963.)
+
+#### Amendments
+
+<b>2019</b>—Pub. L. 116–92, §3139(b)(7)(A), substituted "Administration" for "National Nuclear Security Administration" in section catchline.
+
+Subsec. (a). Pub. L. 116–92, §3115(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105(a) of title 31, the Administrator shall submit to the Secretary of Energy and the congressional defense committees a report on the unfunded priorities of the Administration."
+
+Subsec. (b). Pub. L. 116–92, §3115(2), substituted "report under subsection (a)(1)" for "report required by subsection (a)" in introductory provisions of par. (1) and in par. (2).
+
+Subsecs. (c), (d). Pub. L. 116–92, §3115(3), (4), struck out subsec. (c) and redesignated subsec. (d) as (c). Priorto amendment, text of subsec. (c) read as follows: "If the Administrator fails to submit to the congressional defense committees a report required by subsection (a) for any of fiscal years 2020 through 2024 that includes the matters specified in subsection (b)(1) for at least one unfunded priority by the deadline specified in subsection (a), not more than 65 percent of the funds authorized to be appropriated or otherwise made available for the fiscal year in which such failure occurs for travel and transportation of persons under the Federal salaries and expenses account of the Administration may be obligated or expended until the date on which the Administrator submits such report."
+
+<b>2018</b>—Subsecs. (c), (d). Pub. L. 115–232 added subsec. (c) and redesignated former subsec. (c) as (d).
+

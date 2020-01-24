@@ -76,7 +76,7 @@
 
 #### (II) Classified information
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may consider classified information in making a determination in response to a petition for revocation. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c).
+&emsp;&emsp;&emsp;&emsp;The Secretary may consider classified information in making a determinationin response to a petition for revocation. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c).
 
 #### (III) Publication of determination
 

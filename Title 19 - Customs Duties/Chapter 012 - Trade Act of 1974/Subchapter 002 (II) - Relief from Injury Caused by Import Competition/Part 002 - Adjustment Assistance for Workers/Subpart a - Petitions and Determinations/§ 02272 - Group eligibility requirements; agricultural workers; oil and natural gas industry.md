@@ -72,7 +72,7 @@ Supplier.—The term "supplier" means a firm that produces and supplies directly
 
 #### (1) In general
 
-&emsp;The Secretary shall, in determining whether to certify a group of workers under section 2273 of this title, obtain from the workers' firm, or a customer of the workers' firm, information the Secretary determines to be necessary to make the certification, through questionnaires and in such other manner as the Secretary determines appropriate.
+&emsp;The Secretary shall, in determining whether to certify a group of workers under section 2273 of this title, obtain from the workers' firm, or a customer of the workers' firm, information the Secretary determines to be necessary to make the certification, throughquestionnaires and in such other manner as the Secretary determines appropriate.
 
 #### (2) Additional information
 
@@ -140,7 +140,7 @@ Notwithstanding any other provision of this part, a group of workers covered by 
 
 #### Codification
 
-Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarilyrevived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
 Amendment made by Pub. L. 113–128 was effective July 1, 2015, and was executed to this section as it existed on Dec. 31, 2013, pursuant to section 402(b) of Pub. L. 114–27, which revived the provisions of this section, effective June 29, 2015. See 2014 Amendment note below.
 
@@ -258,7 +258,7 @@ Par. (3). Pub. L. 98–120, §3(a)(1), substituted "contributed importantly to s
 
 For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 
-For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, withcertain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 
 #### Effective Date of 2014 Amendment
 
@@ -278,7 +278,7 @@ Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of thissubchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
 
 #### Effective Date of 1993 Amendment
 

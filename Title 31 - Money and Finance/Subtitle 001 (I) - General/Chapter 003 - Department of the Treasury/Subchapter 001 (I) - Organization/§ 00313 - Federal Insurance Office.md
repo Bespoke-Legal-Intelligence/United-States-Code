@@ -210,7 +210,7 @@ Retention of Authority of Federal Financial Regulatory Agencies.—Nothing in th
 
 (m)
 
-Retention of Authority of United States Trade Representative.—Nothing in this section or section 314 shall be construed to affect the authority of the Office of the United States Trade Representative pursuant to section 141 of the Trade Act of 1974 (19 U.S.C. 2171) or any other provision of law, including authority over the development and coordination of United States international trade policy and the administration of the United States trade agreements program.
+Retention of Authority of United States Trade Representative.—Nothing in this section or section 314 shall be construed to affect the authority of the Office of the United States Trade Representative pursuant to section 141 of the Trade Act of 1974 (19 U.S.C. 2171) orany other provision of law, including authority over the development and coordination of United States international trade policy and the administration of the United States trade agreements program.
 
 (n)
 
@@ -224,7 +224,7 @@ Section 313(f
 
 &emsp;(2)
 
-Insurance industry.—Beginning September 30, 2011, the Director shall submit a report on or before September 30 of each calendar year to the President and to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the insurance industry and any other information asdeemed relevant by the Director or requested by such Committees.
+Insurance industry.—Beginning September 30, 2011, the Director shall submit a report on or before September 30 of each calendar year to the President and to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the insurance industry and any other information as deemed relevant by the Director or requested by such Committees.
 
 (o)
 
@@ -318,7 +318,7 @@ Insurer.—The term "insurer" means any person engaged in the business of insura
 
 &emsp;(4)
 
-Federal financial regulatory agency.—The term "Federal financial regulatory agency" means the Department of the Treasury, the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, the Securities and Exchange Commission, theCommodity Futures Trading Commission, the Federal Deposit Insurance Corporation, the Federal Housing Finance Agency, or the National Credit Union Administration.
+Federal financial regulatory agency.—The term "Federal financial regulatory agency" means the Department of the Treasury, the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal Deposit Insurance Corporation, the Federal Housing Finance Agency, or the National Credit Union Administration.
 
 &emsp;(5)
 
@@ -390,7 +390,7 @@ Findings.—Congress finds that—
 
 &emsp;"(1) the Secretary of the Treasury, Board of Governors of the Federal Reserve System, and Director of the Federal Insurance Office shall support increasing transparency at any global insurance or international standard-setting regulatory or supervisory forum in which they participate, including supporting and advocating for greater public observer access to working groups and committee meetings of the International Association of Insurance Supervisors; and
 
-&emsp;"(2) to the extent that the Secretary of the Treasury, the Board of Governors of the Federal Reserve System, and the Director of the Federal Insurance Office take a position or reasonably intend to take a position with respect to an insurance proposal by a global insurance regulatory or supervisory forum, the Secretary of the Treasury, the Board of Governors of the Federal Reserve System, and the Director of the Federal Insurance Office shall achieve consensus positions with State insurance regulators through the National Association of Insurance Commissioners, when they are United States participants in negotiations on insurance issues before the International Association of Insurance Supervisors, Financial Stability Board, or any other international forum of financial regulators or supervisors that considers such issues.
+&emsp;"(2) to the extent that the Secretary of the Treasury, the Board of Governors of the Federal ReserveSystem, and the Director of the Federal Insurance Office take a position or reasonably intend to take a position with respect to an insurance proposal by a global insurance regulatory or supervisory forum, the Secretary of the Treasury, the Board of Governors of the Federal Reserve System, and the Director of the Federal Insurance Office shall achieve consensus positions with State insurance regulators through the National Association of Insurance Commissioners, when they are United States participants in negotiations on insurance issues before the International Association of Insurance Supervisors, Financial Stability Board, or any other international forum of financial regulators or supervisors that considers such issues.
 
 "(b)
 

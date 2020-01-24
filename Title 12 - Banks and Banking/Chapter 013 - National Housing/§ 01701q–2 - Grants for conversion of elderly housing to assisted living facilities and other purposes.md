@@ -80,7 +80,7 @@ The Secretary shall select applications for grants under this section based upon
 
 &emsp;(6) in the case of a grant for conversion activities, the quality, completeness, and managerial capability of providing the services which the assisted living facility or service-enriched housing intends to provide to elderly residents, especially in such areas as meals, 24-hour staffing, and on-site health care; and
 
-&emsp;(7) such other criteria as the Secretary determines to be appropriate to ensure thatfunds made available under this section are used effectively.
+&emsp;(7) such other criteria as the Secretary determines to be appropriate to ensure that funds made available under this section are used effectively.
 
 #### (f) Section 8 project-based assistance
 

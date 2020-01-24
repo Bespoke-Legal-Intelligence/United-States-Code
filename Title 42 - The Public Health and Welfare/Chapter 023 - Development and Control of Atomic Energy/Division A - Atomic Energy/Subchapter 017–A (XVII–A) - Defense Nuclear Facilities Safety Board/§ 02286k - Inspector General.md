@@ -6,13 +6,13 @@ The Inspector General of the Nuclear Regulatory Commission shall serve as the In
 
 #### (b) Budget
 
-In the budget materials submitted to the President by the Board in connection with the submission to Congress, pursuant to section 1105 of title 31, of the budget for each fiscal year, the Board shall ensure that a separate, dedicated procurement line item is designated for the services of an Inspector General under subsection (a).
+In the budget materials submitted to the President by the Board in connection with thesubmission to Congress, pursuant to section 1105 of title 31, of the budget for each fiscal year, the Board shall ensure that a separate, dedicated procurement line item is designated for the services of an Inspector General under subsection (a).
 
 (Aug. 1, 1946, ch. 724, title I, §322, as added Pub. L. 112–239, div. C, title XXXII, §3202(f)(1), Jan. 2, 2013, 126 Stat. 2220; Pub. L. 113–291, div. C, title XXXII, §3202, Dec. 19, 2014, 128 Stat. 3902.)
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsec. (a), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101,which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (a), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

@@ -108,7 +108,7 @@
 
 #### (B) Explanation
 
-&emsp;&emsp;If the facilitating agency or lead agency, as applicable, determines that the project is not a covered project, the project sponsor may submit a further explanation as to why the project is a covered project not later than 14 days after the date of the determination under subparagraph (A).
+&emsp;&emsp;If the facilitating agency or lead agency, as applicable, determines that the project isnot a covered project, the project sponsor may submit a further explanation as to why the project is a covered project not later than 14 days after the date of the determination under subparagraph (A).
 
 #### (C) Final determination
 

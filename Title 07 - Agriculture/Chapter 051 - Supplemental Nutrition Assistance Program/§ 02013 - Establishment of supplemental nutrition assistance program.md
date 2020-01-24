@@ -44,7 +44,7 @@ Subject to the availability of funds appropriated under section 2027 of this tit
 
 #### (C) Limitation
 
-&emsp;&emsp;The Secretary may not reduce any benefits or services under the food distribution program on Indian reservations under this subsection to any tribal organization that is granted a waiver under subparagraph (B).
+&emsp;&emsp;The Secretary may not reduce any benefits or services under the food distribution program on Indian reservations under thissubsection to any tribal organization that is granted a waiver under subparagraph (B).
 
 #### (D) Tribal contribution
 
@@ -66,7 +66,7 @@ Subject to the availability of funds appropriated under section 2027 of this tit
 
 #### (B) Native American producers
 
-&emsp;&emsp;Where practicable, of the food provided under subparagraph (A), at least 50 percentshall be produced by Native American farmers, ranchers, and producers.
+&emsp;&emsp;Where practicable, of the food provided under subparagraph (A), at least 50 percent shall be produced by Native American farmers, ranchers, and producers.
 
 #### (C) Definition of traditional and locally- and regionally-grown
 

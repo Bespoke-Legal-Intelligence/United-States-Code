@@ -42,7 +42,7 @@
 
 #### (C) Tight domestic supply
 
-&emsp;&emsp;During any month for which the Secretary estimates the season-ending United Statesupland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, for the value of any certificates issued under subsection (a).
+&emsp;&emsp;During any month for which the Secretary estimates the season-ending United States upland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, for the value of any certificates issued under subsection (a).
 
 #### (D) Season-ending United States stocks-to-use ratio
 
@@ -84,7 +84,7 @@
 
 #### (1) In general
 
-&emsp;The President shall carry out an import quota program that provides that whenever the Secretary determines and announces that the average price of the base quality of upland cotton, as determined by the Secretary, in the designated spot markets for a month exceeded 130 percent of the average price of such quality of cotton in the markets for the preceding 36 months, notwithstanding any other provision of law, there shall immediately be in effect a limited global import quota subject to the following conditions:
+&emsp;The President shall carry out an import quota program that provides that wheneverthe Secretary determines and announces that the average price of the base quality of upland cotton, as determined by the Secretary, in the designated spot markets for a month exceeded 130 percent of the average price of such quality of cotton in the markets for the preceding 36 months, notwithstanding any other provision of law, there shall immediately be in effect a limited global import quota subject to the following conditions:
 
 #### (A) Quantity
 

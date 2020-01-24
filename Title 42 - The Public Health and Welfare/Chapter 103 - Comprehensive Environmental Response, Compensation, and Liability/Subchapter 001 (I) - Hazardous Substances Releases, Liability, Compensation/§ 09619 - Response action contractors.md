@@ -44,11 +44,11 @@
 
 &emsp;&emsp;(C) a State or political subdivision which has entered into a contract or cooperative agreement in accordance with section 9604(d)(1) of this title; or
 
-&emsp;&emsp;(D) any potentially responsible party carrying out any agreement under section 9622of this title (relating to settlements) or section 9606 of this title (relating to abatement).
+&emsp;&emsp;(D) any potentially responsible party carrying out any agreement under section 9622 of this title (relating to settlements) or section 9606 of this title (relating to abatement).
 
 #### (3) Source of funding
 
-&emsp;This subsection shall not be subject to section 1301 or 1341 of title 31 or section 6301(a) and (b) of title 41 or to section 9662 of this title. For purposes of section 9611 of this title, amounts expended pursuant to this subsection for indemnification of any response action contractor (except with respect to federally owned or operated facilities) shall be considered governmental response costs incurred pursuant to section 9604 of this title. If sufficient funds are unavailable in the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 to make payments pursuant to such indemnification or if the Fund is repealed, there are authorized to be appropriated such amounts as may be necessary to make such payments.
+&emsp;This subsection shall not be subject to section 1301 or 1341 of title 31 or section 6301(a) and (b) of title 41 or to section 9662 of this title. For purposes of section 9611 of this title, amounts expended pursuant to this subsection for indemnification of any response action contractor (except with respect to federallyowned or operated facilities) shall be considered governmental response costs incurred pursuant to section 9604 of this title. If sufficient funds are unavailable in the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 to make payments pursuant to such indemnification or if the Fund is repealed, there are authorized to be appropriated such amounts as may be necessary to make such payments.
 
 #### (4) Requirements
 
@@ -98,7 +98,7 @@
 
 #### (8) Study
 
-&emsp;The Comptroller General shall conduct a study in the fiscal year ending September 30,1989, on the application of this subsection, including whether indemnification agreements under this subsection are being used, the number of claims that have been filed under such agreements, and the need for this subsection. The Comptroller General shall report the findings of the study to Congress no later than September 30, 1989.
+&emsp;The Comptroller General shall conduct a study in the fiscal year ending September 30, 1989, on the application of this subsection, including whether indemnification agreements under this subsection are being used, the number of claims that have been filed under such agreements, and the need for this subsection. The Comptroller General shall report the findings of the study to Congress no later than September 30, 1989.
 
 #### (d) Exception
 
@@ -154,11 +154,11 @@ Response action contractors and subcontractors for program management, construct
 
 (3) If under applicable Federal law surety bonds are required for any direct Federal procurement of any response action contract, unless otherwise provided for by the procuring agency in the bond, in the event of a default, the surety's liability on a performance bond shall be only for the cost of completion of the contract work in accordance with the plans and specifications less the balance of funds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
 
-(4) Nothing in this subsection shall be construed as preempting, limiting, superseding, affecting, applying to, or modifying any State laws, regulations, requirements, rules, practices or procedures. Nothing in this subsection shall be construed as affecting, applying to, modifying, limiting, superseding, or preempting anyrights, authorities, liabilities, demands, actions, causes of action, losses, judgments, claims, statutes of limitation, or obligations under Federal or State law, which do not arise on or under the bond.
+(4) Nothing in this subsection shall be construed as preempting, limiting, superseding, affecting, applying to, or modifying any State laws, regulations, requirements, rules, practices or procedures. Nothing in this subsection shall be construed as affecting, applying to, modifying, limiting, superseding, or preempting any rights, authorities, liabilities, demands, actions, causes of action, losses, judgments, claims, statutes of limitation, or obligations under Federal or State law, which do not arise on or under the bond.
 
 (5) This subsection shall not apply to bonds executed before October 17, 1990.
 
-(Pub. L. 96–510, title I, §119, as added Pub. L. 99–499, title I, §119, Oct. 17, 1986, 100 Stat. 1662; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–202, §101(f) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–198; Pub. L. 101–584, §1, Nov. 15, 1990, 104 Stat. 2872; Pub. L. 102–484, div. A, title III, §331(a), Oct. 23, 1992, 106 Stat. 2373; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2497.)
+(Pub. L. 96–510, title I, §119, as added Pub. L. 99–499, title I, §119, Oct. 17, 1986, 100 Stat. 1662; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–202, §101(f) \[title II, §201\],Dec. 22, 1987, 101 Stat. 1329–187, 1329–198; Pub. L. 101–584, §1, Nov. 15, 1990, 104 Stat. 2872; Pub. L. 102–484, div. A, title III, §331(a), Oct. 23, 1992, 106 Stat. 2373; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2497.)
 
 #### References in Text
 

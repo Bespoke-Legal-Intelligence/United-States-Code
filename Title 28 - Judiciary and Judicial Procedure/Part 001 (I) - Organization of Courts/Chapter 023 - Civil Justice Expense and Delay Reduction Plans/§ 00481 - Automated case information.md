@@ -8,7 +8,7 @@
 
 &emsp;(B) standards for uniform categorization or characterization of judicial actions for the purpose of recording information on judicial actions in the district court automated systems.
 
-(2) The uniform standards prescribed under paragraph (1)(B) of this subsection shall includea definition of what constitutes a dismissal of a case and standards for measuring the period for which a motion has been pending.
+(2) The uniform standards prescribed under paragraph (1)(B) of this subsection shall include a definition of what constitutes a dismissal of a case and standards for measuring the period for which a motion has been pending.
 
 (c) Each United States district court shall record information as prescribed pursuant to subsection (b) of this section.
 

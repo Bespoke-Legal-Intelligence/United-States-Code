@@ -26,7 +26,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;&emsp;&emsp;(vi) any appropriate and available alternative treatments, services, and types of providers of mental health services.
 
-&emsp;&emsp;(D) The right not to receive a mode or course of treatment, established pursuant to the treatment plan, in the absence of such person's informed, voluntary, written consent to such mode or course of treatment, except treatment—
+&emsp;&emsp;(D) The right not to receive a mode or course of treatment, established pursuant to the treatment plan, in the absence of suchperson's informed, voluntary, written consent to such mode or course of treatment, except treatment—
 
 &emsp;&emsp;&emsp;(i) during an emergency situation if such treatment is pursuant to or documented contemporaneously by the written order of a responsible mental health professional; or
 

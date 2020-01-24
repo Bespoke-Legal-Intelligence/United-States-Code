@@ -70,7 +70,7 @@ The Director of the Central Intelligence Agency may pay a designated employee sa
 
 &emsp;&emsp;&emsp;&emsp;(II) ensures that such conversion does not result in any unfunded liability to that fund; and
 
-&emsp;&emsp;&emsp;(iii) in the case of a designated employee who participated in an employee investment retirement system established under paragraph (1) and is converted to coverage under subchapter III of chapter 84 of title 5, the Director of the Central Intelligence Agency may transmit any or all amounts of that designated employee in that employee investment retirement system (or similar part of that retirement system) to the Thrift Savings Fund.
+&emsp;&emsp;&emsp;(iii) in the case of a designated employee who participated in an employee investment retirement system established under paragraph (1) and is converted to coverage under subchapter III of chapter 84 of title 5, the Director of the Central Intelligence Agency may transmit any or all amountsof that designated employee in that employee investment retirement system (or similar part of that retirement system) to the Thrift Savings Fund.
 
 #### (C) Transmitted amounts
 
@@ -190,7 +190,7 @@ The Director of the Central Intelligence Agency may exempt a designated employee
 
 #### (2) Internal Revenue Service review
 
-&emsp;The Director of the Central Intelligence Agency shall establish procedures to carry outthis subsection. The procedures shall be subject to periodic review by the Internal Revenue Service.
+&emsp;The Director of the Central Intelligence Agency shall establish procedures to carry out this subsection. The procedures shall be subject to periodic review by the Internal Revenue Service.
 
 #### (i) Regulations
 

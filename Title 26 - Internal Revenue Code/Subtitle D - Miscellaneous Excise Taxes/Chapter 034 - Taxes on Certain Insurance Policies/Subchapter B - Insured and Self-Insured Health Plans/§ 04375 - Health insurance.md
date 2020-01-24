@@ -24,7 +24,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any arrangement described in subparagraph (B), such arrangement shall be treated as a specified health insurance policy, and the person referred to in such subparagraph shall be treated as the issuer.
+&emsp;&emsp;In the case of any arrangement described in subparagraph (B), such arrangement shallbe treated as a specified health insurance policy, and the person referred to in such subparagraph shall be treated as the issuer.
 
 #### (B) Description of arrangements
 
@@ -40,7 +40,11 @@ In the case of any policy year ending in any fiscal year beginning after Septemb
 
 #### (e) Termination
 
-This section shall not apply to policy years ending after September 30, 2019.
+This section shall not apply to policy years ending after September 30, 2029.
 
-(Added Pub. L. 111–148, title VI, §6301(e)(2)(A), Mar. 23, 2010, 124 Stat. 743.)
+(Added Pub. L. 111–148, title VI, §6301(e)(2)(A), Mar. 23, 2010, 124 Stat. 743; amended Pub. L. 116–94, div. N, title I, §104(b), Dec. 20, 2019, 133 Stat. 3098.)
+
+#### Amendments
+
+<b>2019</b>—Subsec. (e). Pub. L. 116–94 substituted "2029" for "2019".
 

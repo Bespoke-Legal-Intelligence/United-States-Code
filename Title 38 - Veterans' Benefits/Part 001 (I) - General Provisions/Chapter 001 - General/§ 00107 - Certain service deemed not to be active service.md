@@ -8,7 +8,7 @@
 
 &emsp;(3) chapters 11, 13 (except section 1312(a)), 23, and 24 (to the extent provided for in section 2402(a)(8)) of this title.
 
-> Except as provided in subsection (c) or (d), payments under such chapters shall be made at a rate of $0.50 for each dollar authorized, and where annual income is a factor in entitlement to benefits, the dollar limitations in the law specifying such annual income shall apply at a rate of $0.50 for each dollar. Any payments madebefore February 18, 1946, to any such member under such laws conferring rights, benefits, or privileges shall not be deemed to have been invalid by reason of the circumstance that such member's service was not service in the Armed Forces or any component thereof within the meaning of any such law.
+> Except as provided in subsection (c) or (d), payments under such chapters shall be made at a rate of $0.50 for each dollar authorized, and where annual income is a factor in entitlement to benefits, the dollar limitations in the law specifying such annual income shall apply at a rate of $0.50 for each dollar. Any payments made before February 18, 1946, to any such member under such laws conferring rights, benefits, or privileges shall not be deemed to have been invalid by reason of the circumstance that such member's service was not service in the Armed Forces or any component thereof within the meaning of any such law.
 
 (b) Service in the Philippine Scouts under section 14 of the Armed Forces Voluntary Recruitment Act of 1945 shall not be deemed to have been active military, naval, or air service for the purposes of any of the laws administered by the Secretary except—
 
@@ -66,7 +66,7 @@ Subsec. (d)(2). Pub. L. 108–183, §212(a)(4), inserted "or whose service is de
 
 Subsecs. (c), (d). Pub. L. 107–14, §8(a)(1)(B), (C), redesignated subsec. (c) relating to the inapplicability of the second sentence of subsec. (a) to an individual described in paragraph (2) as (d) and substituted "With respect to benefits under chapter 23 of this title, in" for "In" in par. (1).
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–419, §332(a)(1), which directed substitution of "Subject to subsection (c), payments" for "Payments", could not be executed because "Payments" did not appear subsequent to the amendment by Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)(A)\]. See below.
+<b>2000</b>—Subsec. (a). Pub. L. 106–419, §332(a)(1), which directed substitution of "Subject to subsection (c), payments" for "Payments", could not be executed because"Payments" did not appear subsequent to the amendment by Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)(A)\]. See below.
 
 Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)(A)\], substituted "Except as provided in subsection (c), payments" for "Payments" in concluding provisions.
 
@@ -148,7 +148,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(7) The benefits such veterans receive include service-connected compensation benefits paid under chapter 11 of title 38, United States Code, dependency indemnity compensation survivor benefits paid under chapter 13 of title 38, United States Code, and burial benefits under chapters 23 and 24 of title 38, United States Code, and such benefits are paid to beneficiaries at the rate of $0.50 per dollar authorized, unless they lawfully reside in the United States.
 
-&emsp;"(8) Dependents' educational assistance under chapter 35 of title 38, United States Code, is also payable for the dependents of such veterans at the rate of $0.50 per dollar authorized, regardless of the veterans' residency.
+&emsp;"(8) Dependents' educational assistance under chapter 35 of title 38, United States Code, is also payablefor the dependents of such veterans at the rate of $0.50 per dollar authorized, regardless of the veterans' residency.
 
 "(b)
 

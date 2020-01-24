@@ -2,7 +2,7 @@
 
 #### (a) Establishment; number and appointment of members; representation of interests; Chairman; term of office; vacancies; restriction on term
 
-(1) For the purpose of advising and assisting the Secretary of Education (hereinafter in thissection referred to as the "Secretary") with respect to the education of the deaf, there is hereby created a National Advisory Committee on Education of the Deaf, which shall consist of twelve persons, not otherwise in the employ of the United States, appointed by the Secretary without regard to the civil service laws.
+(1) For the purpose of advising and assisting the Secretary of Education (hereinafter in this section referred to as the "Secretary") with respect to the education of the deaf, there is hereby created a National Advisory Committee on Education of the Deaf, which shall consist of twelve persons, not otherwise in the employ of the United States, appointed by the Secretary without regard to the civil service laws.
 
 (2) The membership of the Advisory Committee shall include educators of the deaf, persons interested in education of the deaf, educators of the hearing, and deaf individuals.
 

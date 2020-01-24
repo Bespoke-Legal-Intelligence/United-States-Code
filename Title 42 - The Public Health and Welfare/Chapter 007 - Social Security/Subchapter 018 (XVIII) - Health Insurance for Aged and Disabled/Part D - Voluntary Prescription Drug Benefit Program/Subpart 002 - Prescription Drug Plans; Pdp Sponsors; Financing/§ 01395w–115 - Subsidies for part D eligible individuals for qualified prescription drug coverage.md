@@ -26,7 +26,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (2) Allowable reinsurance costs
 
-&emsp;For purposes of this section, the term "allowable reinsurance costs" means, with respect to gross covered prescription drug costs under a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of such costs that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization or by (or on behalf of) an enrollee under the plan, but in no casemore than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were standard prescription drug coverage.
+&emsp;For purposes of this section, the term "allowable reinsurance costs" means, with respect to gross covered prescription drug costs under a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of such costs that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization or by (or on behalf of) an enrollee under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were standard prescription drug coverage.
 
 #### (3) Gross covered prescription drug costs
 
@@ -34,7 +34,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (4) Coverage year defined
 
-&emsp;For purposes of this section, the term "coverage year" means a calendar year in which covered part D drugs are dispensed if the claim for such drugs (and payment on such claim) is made not later than such period after the end of such year as the Secretary specifies.
+&emsp;For purposes of this section, the term "coverage year" means a calendar year in which covered part D drugs are dispensed if the claim for such drugs (and payment on such claim) ismade not later than such period after the end of such year as the Secretary specifies.
 
 #### (c) Adjustments relating to bids
 
@@ -96,7 +96,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (4) Application of enrollee adjustment
 
-&emsp;The provisions of section 1395w–23(a)(2) of this title shall apply to payments to PDPsponsors under this section in the same manner as they apply to payments to MA organizations under section 1395w–23(a) of this title.
+&emsp;The provisions of section 1395w–23(a)(2) of this title shall apply to payments to PDP sponsors under this section in the same manner as they apply to payments to MA organizations under section 1395w–23(a) of this title.
 
 #### (e) Portion of total payments to a sponsor or organization subject to risk (application of risk corridors)
 
@@ -112,7 +112,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (B) Allowable risk corridor costs
 
-&emsp;&emsp;For purposes of this subsection, the term "allowable risk corridor costs" means, with respect to a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of costs (not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year) incurred by the sponsor or organization under the plan that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were basic prescription drug coverage taking into account the adjustment under section 1395w–111(c)(2) of this title. In computing allowable costs under this paragraph, the Secretary shall compute such costs based upon imposition under paragraphs (1)(D) and (2)(E) of section 1395w–114(a) of this title of the maximum amount of copayments permitted under such paragraphs.
+&emsp;&emsp;For purposes of this subsection, the term "allowable risk corridor costs" means, with respect to a prescription drug plan offered by a PDP sponsor or an MA–PD plan offeredby an MA organization, the part of costs (not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year) incurred by the sponsor or organization under the plan that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were basic prescription drug coverage taking into account the adjustment under section 1395w–111(c)(2) of this title. In computing allowable costs under this paragraph, the Secretary shall compute such costs based upon imposition under paragraphs (1)(D) and (2)(E) of section 1395w–114(a) of this title of the maximum amount of copayments permitted under such paragraphs.
 
 #### (2) Adjustment of payment
 
@@ -146,7 +146,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (i) Costs between first and second threshold lower limits
 
-&emsp;&emsp;&emsp;If the adjusted allowable risk corridor costs for the plan for the year are less than the first threshold lower limit, but not less than the second threshold lower limit, of the risk corridor for the plan for the year,the Secretary shall reduce the total of the payments made to the sponsor or organization offering the plan for the year under this section by an amount (or otherwise recover from the sponsor or organization an amount) equal to 50 percent (or, for 2006 and 2007, 75 percent) of the difference between the first threshold lower limit of the risk corridor and such adjusted allowable risk corridor costs.
+&emsp;&emsp;&emsp;If the adjusted allowable risk corridor costs for the plan for the year are less than the first threshold lower limit, but not less than the second threshold lower limit, of the risk corridor for the plan for the year, the Secretary shall reduce the total of the payments made to the sponsor or organization offering the plan for the year under this section by an amount (or otherwise recover from the sponsor or organization an amount) equal to 50 percent (or, for 2006 and 2007, 75 percent) of the difference between the first threshold lower limit of the risk corridor and such adjusted allowable risk corridor costs.
 
 #### (ii) Costs below second threshold lower limit
 
@@ -160,7 +160,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (A) In general
 
-&emsp;&emsp;For each plan year the Secretary shall establish a risk corridor for each prescription drug plan and each MA–PD plan. The risk corridor for a plan for a year shall be equal to a range as follows:
+&emsp;&emsp;For each plan year the Secretary shall establish a risk corridor for each prescriptiondrug plan and each MA–PD plan. The risk corridor for a plan for a year shall be equal to a range as follows:
 
 #### (i) First threshold lower limit
 
@@ -256,7 +256,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (g) Payment for fallback prescription drug plans
 
-In lieu of the amounts otherwise payable under this section to a PDP sponsor offering a fallback prescription drug plan (as defined in section 1395w–111(g)(4) of this title <sup>2</sup>), the amount payable shall be the amounts determined under the contract for such plan pursuant to section 1395w–111(g)(5) of this title.
+In lieu of the amounts otherwise payable under this section to a PDP sponsor offering a fallback prescription drug plan (as defined in section 1395w–111(g)(4) of this title <sup>2</sup>), the amount payable shall be the amounts determined underthe contract for such plan pursuant to section 1395w–111(g)(5) of this title.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–15, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2113; amended Pub. L. 111–148, title VI, §6402(b)(1), Mar. 23, 2010, 124 Stat. 756.)
 

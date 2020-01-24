@@ -20,7 +20,7 @@ The President may accept and use in furtherance of the purposes of this chapter,
 
 (1) Any agency of the United States Government is authorized to pay the cost of health and accident insurance for foreign participants in any program of furnishing technical information and assistance administered by such agency while such participants are absent from their homes for the purpose of participation in such program.
 
-(2) Any agency of the United States Government is authorized to pay the cost of health andaccident insurance for foreign employees of that agency while those employees are absent from their place of employment abroad for purposes of training or other official duties.
+(2) Any agency of the United States Government is authorized to pay the cost of health and accident insurance for foreign employees of that agency while those employees are absent from their place of employment abroad for purposes of training or other official duties.
 
 #### (f) Admission of alien participants
 

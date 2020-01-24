@@ -50,7 +50,7 @@ Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, 
 
 #### Secure Rural Schools and Community Self-Determination
 
-Pub. L. 107–76, title VII, §751, Nov. 28, 2001, 115 Stat. 739, provided for the determination of the full payment amount for each eligible State and eligible county for fiscal years 2002 to 2006 under former section 102 of Pub. L. 106–393, formerly set out below.
+Pub. L. 107–76, title VII, §751, Nov. 28, 2001, 115 Stat. 739, provided for the determination of the full paymentamount for each eligible State and eligible county for fiscal years 2002 to 2006 under former section 102 of Pub. L. 106–393, formerly set out below.
 
 Pub. L. 106–393, §§2, 3, Oct. 30, 2000, 114 Stat. 1608, 1609, which related to findings and purposes and provided definitions for Pub. L. 106–393, was repealed by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893. See sections 7101 and 7102 of this title.
 

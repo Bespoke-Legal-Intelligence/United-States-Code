@@ -18,7 +18,7 @@
 
 (B) No bank shall open a correspondent account at another bank while such bank has outstanding an extension of credit to an executive officer or director of, or other person who directly or indirectly or acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, the bank desiring to open the account or to any related interest of such person, unless such extension of credit was made on substantially the same terms, including interest rates and collateral as those prevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
 
-(C) No bank which maintains a correspondent account at another bank shall make an extension of credit to an executive officer or director of, or to any person who directly or indirectly acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, such other bank or to any related interest of such person, unless such extension of credit is made on substantially the same terms, including interest rates and collateral as those prevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
+(C) No bank which maintains a correspondent account at another bank shall make an extension of credit to an executive officer or director of, or to any person who directly or indirectly acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, such other bank or to any related interest of such person, unless such extension of credit is made on substantially the same terms, including interest rates and collateral as thoseprevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
 
 (D) No bank which has outstanding an extension of credit to an executive officer or director of, or to any person who directly or indirectly or acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, another bank or to any related interest of such person shall open a correspondent account at such other bank, unless such extension of credit was made on substantially the same terms, including interest rates and collateral as those prevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
 
@@ -102,7 +102,7 @@ Disbursement.—All penalties collected under authority of this subsection shall
 
 &emsp;(viii)
 
-"Violate" defined.—For purposes of this paragraph, the term "violate" includesany action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+"Violate" defined.—For purposes of this paragraph, the term "violate" includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
 &emsp;(ix)
 

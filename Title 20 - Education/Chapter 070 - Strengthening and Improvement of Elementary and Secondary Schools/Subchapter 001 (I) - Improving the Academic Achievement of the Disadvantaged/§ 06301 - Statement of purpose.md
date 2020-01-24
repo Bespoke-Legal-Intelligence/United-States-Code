@@ -78,7 +78,7 @@ Pub. L. 107–110, §5, Jan. 8, 2002, 115 Stat. 1427, provided that:
 
 "(a)
 
-In General.—Except as otherwise provided in this Act \[see Tables for classification\], this Act, and the amendments made by this Act, shall be effective upon the date of enactment of this Act \[Jan. 8, 2002\].
+In General.—Except as otherwise provided in this Act \[see Tables for classification\], this Act, andthe amendments made by this Act, shall be effective upon the date of enactment of this Act \[Jan. 8, 2002\].
 
 "(b)
 
@@ -90,7 +90,11 @@ Competitive Programs.—With respect to programs that are conducted by the Secre
 
 "(d)
 
-Impact Aid.—With respect to title VIII (Impact Aid) \[probably meant title VIII (now VII) of Pub. L.89–10, 20 U.S.C. 7701 et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002."
+Impact Aid.—With respect to title VIII (Impact Aid) \[probably meant title VIII (now VII) of Pub. L. 89–10, 20 U.S.C. 7701 et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002."
+
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–13, §1, Apr. 12, 2019, 133 Stat. 847, provided that: "This Act \[enacting subpart 5 of part B of subchapter II of this chapter\] may be cited as the 'Recognizing Achievement in Classified School Employees Act'."
 
 #### Short Title of 2017 Amendment
 
@@ -182,7 +186,7 @@ Pub. L. 89–750, §1, Nov. 3, 1966, 80 Stat. 1191, provided: "That this Act \[s
 
 #### Short Title
 
-Section 1 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, as amended byPub. L. 107–110, §6(1), Jan. 8, 2002, 115 Stat. 1427, provided that: "This Act \[enacting this chapter\] may be cited as the 'Elementary and Secondary Education Act of 1965'."
+Section 1 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, as amended by Pub. L. 107–110, §6(1), Jan. 8, 2002, 115 Stat. 1427, provided that: "This Act \[enacting this chapter\] may be cited as the 'Elementary and Secondary Education Act of 1965'."
 
 Pub. L. 89–10, title X, §10971, as added by Pub. L. 106–554, §1(a)(1) \[title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–89, which provided that subpart 2 (§§10971–10978) of part J of title X of Pub. L. 89–10, enacting subpart 2 of part J of former subchapter X of this chapter, could be cited as the "Rural Education Achievement Program", was repealed by Pub. L. 107–110, title X, §1011(5)(A), Jan. 8, 2002, 115 Stat. 1986.
 
@@ -258,7 +262,7 @@ Pub. L. 107–110, §4, Jan. 8, 2002, 115 Stat. 1426, provided that:
 
 "(a)
 
-Multi-Year Awards.—Except as otherwise provided in this Act \[see Tables for classification\], the recipient of a multi-year award under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89–10, 20U.S.C. 6301 et seq., prior to general amendment by Pub. L. 107–110\], as that Act was in effect prior to the date of enactment of this Act \[Jan. 8, 2002\], shall continue to receive funds in accordance with the terms of that award, except that no additional funds may be awarded after September 30, 2002.
+Multi-Year Awards.—Except as otherwise provided in this Act \[see Tables for classification\], the recipient of a multi-year award under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89–10, 20 U.S.C. 6301 et seq., prior to general amendment by Pub. L. 107–110\], as that Act was in effect prior to the date of enactment of this Act \[Jan. 8, 2002\], shall continue to receive funds in accordance with the terms of that award, except that no additional funds may be awarded after September 30, 2002.
 
 "(b)
 

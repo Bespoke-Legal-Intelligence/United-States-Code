@@ -4,7 +4,7 @@
 
 (b) In accordance with the agreement negotiated pursuant to section 290j(a) of this title, sums made available for investment for the United States-India Fund for Cultural, Educational, and Scientific Cooperation under the Departments of Commerce, Justice, and State, and the Judiciary and Related Agencies Appropriation Act, 1985, and any earnings on such sums shall be available for the purposes of section 290j(a) of this title.
 
-(Pub. L. 98–164, title IX, §903, Nov. 22, 1983, 97 Stat. 1051; Pub. L. 99–93, title VIII, §808, Aug. 16,1985, 99 Stat. 452; Pub. L. 100–204, title III, §305, Dec. 22, 1987, 101 Stat. 1379.)
+(Pub. L. 98–164, title IX, §903, Nov. 22, 1983, 97 Stat. 1051; Pub. L. 99–93, title VIII, §808, Aug. 16, 1985, 99 Stat. 452; Pub. L. 100–204, title III, §305, Dec. 22, 1987, 101 Stat. 1379.)
 
 #### References in Text
 

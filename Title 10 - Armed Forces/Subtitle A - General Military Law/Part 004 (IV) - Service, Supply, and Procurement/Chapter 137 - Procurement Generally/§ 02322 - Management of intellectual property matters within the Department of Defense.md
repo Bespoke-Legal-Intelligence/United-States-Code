@@ -50,3 +50,61 @@ A prior section 2322, added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 198
 
 Another prior section 2322 was contained in chapter 138 and was renumbered section 2342 of this title.
 
+#### Pilot Program on Intellectual Property Evaluation for Acquisition Programs
+
+Pub. L. 116–92, div. A, title VIII, §801, Dec. 20, 2019, 133 Stat. 1481, provided that:
+
+"(a)
+
+Pilot Program.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense and the Secretaries of the military departments may jointly carry out a pilot program to assess mechanisms to evaluate intellectual property (such as technical data deliverables and associated license rights), including commercially available intellectual property valuation analysis and techniques, in acquisition programs for which each such Secretary is responsible to better understand the benefits associated with these mechanisms on—
+
+&emsp;"(1) the development of cost-effective intellectual property strategies;
+
+&emsp;"(2) the assessment and management of the value and acquisition costs of intellectual property during acquisition and sustainment activities (including source selection evaluation factors) throughout the acquisition lifecycle for any acquisition program selected by such Secretary; and
+
+&emsp;"(3) the use of a commercial product (as defined in section 103 of title 41, United States Code, as in effect on January 1, 2020), commercial service (as defined in section 103a of title 41, United States Code, as in effect on January 1, 2020), or nondevelopmental item (as defined in section 110 of title 41, United States Code) as an alternative to a product or service to be specifically developed for a selected acquisition program, including evaluation of the benefits of reduced risk regarding cost, schedule, and performance associated with commercial products, commercial services, and nondevelopmental items.
+
+"(b)
+
+Activities.—Activities carried out under the pilot program may include the following:
+
+&emsp;"(1) Establishment of a team of Department of Defense and private sector subject matter experts (which may include the cadre of intellectual property experts established under section 2322(b) of title 10, United States Code) to—
+
+&emsp;&emsp;"(A) recommend acquisition programs to be selected for the pilot program established under subsection (a);
+
+&emsp;&emsp;"(B) recommend criteria for the consideration of types of commercial products, commercial services, or nondevelopmental items that can used as an alternative to a product or service to be specifically developed for a selected acquisition program; or
+
+&emsp;&emsp;"(C) identify, to the maximum extent practicable at each milestone established for each selected acquisition program, intellectual property evaluation techniques to obtain quantitative and qualitative analysis of intellectual property during the procurement, production and deployment, and operations and support phases for the each selected acquisition program.
+
+&emsp;"(2) Assessment of commercial valuation techniques for intellectual property for use by the Department of Defense.
+
+&emsp;"(3) Assessment of the feasibility of agency-level oversight to standardize intellectual property evaluation practices and procedures.
+
+&emsp;"(4) Assessment of contracting mechanisms to speed delivery of intellectual property to the Armed Forces or reduce sustainment costs.
+
+&emsp;"(5) Assessment of agency acquisition planning to ensure procurement of appropriate intellectual property deliverables and intellectual property rights necessary for Government-planned sustainment activities.
+
+&emsp;"(6) Engagement with the private sector to—
+
+&emsp;&emsp;"(A) support the development of strategies and program requirements to aid in acquisition planning for intellectual property;
+
+&emsp;&emsp;"(B) support the development and improvement of intellectual property strategies as part of life-cycle sustainment plans; and
+
+&emsp;&emsp;"(C) propose and implement alternative and innovative methods of intellectual property valuation, prioritization, and evaluation techniques for intellectual property.
+
+&emsp;"(7) Recommendations to the relevant program manager of an acquisition program selected under subsection (a), including evaluation techniques and contracting mechanisms for acquisition and sustainment activities.
+
+"(c)
+
+Report.—Not later than November 1, 2020, and annually thereafter through November 1, 2023, the Secretary of Defense, in coordination with the Secretaries concerned, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a joint report on the pilot program conducted under this section. The report shall, at a minimum, include—
+
+&emsp;"(1) a description of the acquisition programs selected by the Secretary concerned;
+
+&emsp;"(2) a description of the specific activities in subsection (c) that were performed under each program;
+
+&emsp;"(3) an assessment of the effectiveness of the activities;
+
+&emsp;"(4) an assessment of improvements to acquisition or sustainment activities related to the pilot program; and
+
+&emsp;"(5) an assessment of the results related to the pilot program, including any cost savings and improvement to mission success during the operations and support phase of the selected acquisition program."
+

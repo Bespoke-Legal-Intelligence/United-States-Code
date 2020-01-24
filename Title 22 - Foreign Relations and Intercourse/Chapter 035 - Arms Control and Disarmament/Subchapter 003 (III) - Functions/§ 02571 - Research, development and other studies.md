@@ -24,7 +24,7 @@ the structure and operation of international control and other organizations use
 
 #### (f) Training of control system personnel
 
-the training of scientists, technicians, and other personnel for manning the control systems which may be created by international arms control, nonproliferation, and disarmament agreements;
+the training of scientists, technicians, and other personnel for manning the control systems which may be created by internationalarms control, nonproliferation, and disarmament agreements;
 
 #### (g) Danger of war from accident, miscalculation, or surprise attack
 

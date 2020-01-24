@@ -12,7 +12,7 @@ For purposes of this section, the term "qualified tax collection contract" means
 
 &emsp;&emsp;(A) to locate and contact any taxpayer specified by the Secretary,
 
-&emsp;&emsp;(B) to request full payment from such taxpayer of an amount of Federal tax specified by the Secretary and, if such request cannot be met by the taxpayer, to offer the taxpayer an installment agreement providing for full payment of such amount during a period not to exceed 5 years, and
+&emsp;&emsp;(B) to request full payment from such taxpayer of an amount of Federal tax specified by the Secretary and, if such request cannot be met by the taxpayer, to offer the taxpayer an installment agreement providing for full payment of such amount during a period not to exceed 7 years, and
 
 &emsp;&emsp;(C) to obtain financial information specified by the Secretary with respect to such taxpayer,
 
@@ -94,7 +94,7 @@ The provisions of the Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.
 
 #### (h) Contracting priority
 
-In contracting for the services of any person under this section, the Secretary shall utilize private collection contractors and debt collection centers on the schedule required under section 3711(g) of title 31, United States Code, including the technology and communications infrastructure established therein, to the extent such private collection contractors and debt collection centers are appropriate to carry out the purposes of this section.
+In contracting for the services of any person under this section, the Secretary shall utilizeprivate collection contractors and debt collection centers on the schedule required under section 3711(g) of title 31, United States Code, including the technology and communications infrastructure established therein, to the extent such private collection contractors and debt collection centers are appropriate to carry out the purposes of this section.
 
 #### (i) Taxpayers in presidentially declared disaster areas
 
@@ -132,13 +132,33 @@ Not later than 90 days after the last day of each fiscal year (beginning with th
 
 &emsp;&emsp;<b>(2) For application of Taxpayer Assistance Orders to persons performing services under a qualified tax collection contract, see section 7811(g).</b>
 
-(Added Pub. L. 108–357, title VIII, §881(a)(1), Oct. 22, 2004, 118 Stat. 1625; amended Pub. L. 114–94, div. C, title XXXII, §§32102(a)–(c), (e), (f)(1), 32103(a), Dec. 4, 2015, 129 Stat. 1733–1736; Pub. L. 115–141, div. U, title IV, §401(a)(351), Mar. 23, 2018, 132 Stat. 1201.)
+(Added Pub. L. 108–357, title VIII, §881(a)(1), Oct. 22, 2004, 118 Stat. 1625; amended Pub. L. 114–94, div. C, title XXXII, §§32102(a)–(c), (e), (f)(1), 32103(a), Dec. 4, 2015, 129 Stat. 1733–1736; Pub. L. 115–141, div. U, title IV, §401(a)(351), Mar. 23, 2018, 132 Stat. 1201; Pub. L. 116–25, title I, §1205(a)–(c), July 1, 2019, 133 Stat. 989.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–25, title I, §1205(a), (b), (e), July 1, 2019, 133 Stat. 989, applicable to tax receivables identified by the Secretary (or the Secretary's delegate) after Dec. 31, 2020, amended this section as follows:</i>
+
+<i>(1) in subsection (c)(2)(A)(ii), by striking "more than 1/3 of the period of the applicable statute of limitation has lapsed" and inserting "more than 2 years has passed since assessment"; and</i>
+
+<i>(2) in subsection (d)(3), by striking "or" at the end of subparagraph (C) and by inserting after subparagraph (D) the following new subparagraphs:</i>
+
+&emsp;&emsp;<i>"(E) a taxpayer substantially all of whose income consists of disability insurance benefits under section 223 of the Social Security Act or supplemental security income benefits under title XVI of the Social Security Act (including supplemental security income benefits of the type described in section 1616 of such Act or section 212 of Public Law 93–66), or</i>
+
+&emsp;&emsp;<i>"(F) a taxpayer who is an individual with adjusted gross income, as determined for the most recent taxable year for which such information is available, which does not exceed 200 percent of the applicable poverty level (as determined by the Secretary),".</i>
+
+<i>See 2019 Amendment notes below.</i>
 
 #### References in Text
 
 The Fair Debt Collection Practices Act, referred to in subsec. (e), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, as amended, which is classified generally to subchapter V (§1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(1)(B). Pub. L. 116–25, §1205(c), substituted "7 years" for "5 years".
+
+Subsec. (c)(2)(A)(ii). Pub. L. 116–25, §1205(b), substituted "more than 2 years has passed since assessment" for "more than 1/3 of the period of the applicable statute of limitation has lapsed".
+
+Subsec. (d)(3)(E), (F). Pub. L. 116–25, §1205(a), added subpars. (E) and (F).
 
 <b>2018</b>—Subsec. (e)(2). Pub. L. 115–141, §401(a)(351), made technical amendment to directory language of Pub. L. 114–94, §32103(a). See 2015 Amendment note below.
 
@@ -148,7 +168,7 @@ Subsec. (d). Pub. L. 114–94, §32102(b), added subsec. (d). Former subsec. (d)
 
 Subsec. (e). Pub. L. 114–94, §32102(a), (b), successively redesignated subsec. (c) as (d) and then as (e). Former subsec. (e) redesignated (g).
 
-Subsec. (e)(2). Pub. L. 114–94, §32103(a), as amended by Pub. L. 115–141, §401(a)(351), substituted "to fund the special compliance personnel program account under section 6307" for "for collection enforcement activities of the Internal Revenue Service".
+Subsec. (e)(2). Pub. L. 114–94, §32103(a), as amended by Pub. L. 115–141, §401(a)(351), substituted "to fund the special compliance personnel program account undersection 6307" for "for collection enforcement activities of the Internal Revenue Service".
 
 Subsec. (f). Pub. L. 114–94, §32102(a), (b), successively redesignated subsec. (d) as (e) and then as (f). Former subsec. (f) redesignated (k).
 
@@ -161,6 +181,22 @@ Subsec. (i). Pub. L. 114–94, §32102(e), added subsec. (i).
 Subsec. (j). Pub. L. 114–94, §32102(f)(1), added subsec. (j).
 
 Subsec. (k). Pub. L. 114–94, §32102(a), (b), (c), (e), (f)(1), successively redesignated subsec. (f) as (g), (h), (i), (j), and then (k).
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–25, title I, §1205(e), July 1, 2019, 133 Stat. 989, provided that:
+
+"(1)
+
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and section 6307 of this title\] shall apply to tax receivables identified by the Secretary (or the Secretary's delegate) after December 31, 2020.
+
+"(2)
+
+Maximum length of installment agreements.—The amendment made by subsection (c) \[amending this section\] shall apply to contracts entered into after the date of the enactment of this Act \[July 1, 2019\].
+
+"(3)
+
+Use of special compliance personnel program account.—The amendment made by subsection (d) \[amending section 6307 of this title\] shall apply to amounts expended from the special compliance personnel program account after the date of the enactment of this Act."
 
 #### Effective Date of 2015 Amendment
 

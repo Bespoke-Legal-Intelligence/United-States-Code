@@ -18,7 +18,7 @@ and 53309.—Sections 53306 and 53309 of this title apply to a deposit in a cons
 
 (b)
 
-Additional Requirements for Certain Vessels.—In addition to the requirements of subsection (a)(1), for a vessel not constructed under a construction-differential subsidy contract or not bought from the Secretary of Transportation—
+Additional Requirements for Certain Vessels.—In addition to the requirements ofsubsection (a)(1), for a vessel not constructed under a construction-differential subsidy contract or not bought from the Secretary of Transportation—
 
 &emsp;(1) at least 5 percent of the construction (or, if the contract covers more than one vessel, at least 5 percent of the construction of the first vessel) must be completed within 6 months after the date of the construction contract (or within the period of an extension under subsection (c)), as estimated by the Secretary and certified by the Secretary to the Secretary of the Treasury; and
 

@@ -76,7 +76,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 &emsp;&emsp;&emsp;(ii) to the extent practicable, the efforts of the United States Government over the reporting period to partner with European law enforcement agencies and civil society groups regarding the sharing of information and best practices to combat anti-Semitic incidents in Europe;
 
-&emsp;&emsp;&emsp;(iii) European educational programming and public awareness initiatives that aim to collaborate on educational curricula and campaigns that impart shared values of pluralism and tolerance, and showcase the positive contributions of Jews in culture, scholarship, science, and art, with special attention to those segments of the population that exhibit a high degree of anti-Semitic animus; and
+&emsp;&emsp;&emsp;(iii) European educational programming and public awareness initiatives that aim to collaborate on educational curricula and campaigns that impart shared values of pluralism and tolerance, and showcase the positive contributions of Jews in culture, scholarship, science, and art, with special attention to those segments of thepopulation that exhibit a high degree of anti-Semitic animus; and
 
 &emsp;&emsp;&emsp;(iv) efforts by European governments to adopt and apply a working definition of anti-Semitism.
 
@@ -144,7 +144,7 @@ Pub. L. 115–434, §2, Jan. 14, 2019, 132 Stat. 5526, provided that: "Congress 
 
 &emsp;"(3) Anti-Zionism has at times devolved into anti-Semitic attacks, prompting condemnation from many European leaders, including French Prime Minister Manuel Valls, British Prime Minister David Cameron, and German Chancellor Angela Merkel.
 
-&emsp;"(4) Since 2010, the Department of State has adhered to the working definition of Anti-Semitism by the European Monitoring Center on Racism and Xenophobia (EUMC). Some contemporary examples of anti-Semitism include the following:
+&emsp;"(4) Since 2010, the Department of State has adhered to the working definition of Anti-Semitism bythe European Monitoring Center on Racism and Xenophobia (EUMC). Some contemporary examples of anti-Semitism include the following:
 
 &emsp;&emsp;"(A) Calling for, aiding, or justifying the killing or harming of Jews (often in the name of a radical ideology or an extremist view of religion).
 

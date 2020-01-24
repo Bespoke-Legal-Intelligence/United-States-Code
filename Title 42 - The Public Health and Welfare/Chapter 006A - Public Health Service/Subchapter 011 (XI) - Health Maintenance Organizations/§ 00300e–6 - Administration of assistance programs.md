@@ -8,7 +8,7 @@
 
 #### (b) Report upon expiration of period
 
-Upon expiration of the period for which a loan or loan guarantee was provided an entity under this subchapter, such entity shall make a full and complete report to the Secretary in such manner as he may by regulation prescribe. Each such report shall contain, among such other matters as the Secretary may by regulation require, descriptions of plans, developments, and operations relating to the matters referred to in section 300e–5(b)(3) of this title.
+Upon expiration of the period for which a loan or loan guarantee was provided an entity underthis subchapter, such entity shall make a full and complete report to the Secretary in such manner as he may by regulation prescribe. Each such report shall contain, among such other matters as the Secretary may by regulation require, descriptions of plans, developments, and operations relating to the matters referred to in section 300e–5(b)(3) of this title.
 
 #### (c) Repealed. Pub. L. 99–660, title VIII, §803(a), Nov. 14, 1986, 100 Stat. 3799
 
@@ -34,7 +34,7 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 Subsecs. (a)(2), (b). Pub. L. 99–660, §803(b)(2)(A), substituted "loan or loan guarantee" for "grant, contract, loan, or loan guarantee".
 
-Subsec. (c). Pub. L. 99–660, §803(a), struck out subsec. (c) which read as follows: "If in any fiscal year the funds appropriated under section 300e–8 of this title areinsufficient to fund all applications approved under this subchapter for that fiscal year, the Secretary shall, after applying the applicable priorities under sections 300e–2 and 300e–3 of this title, give priority to the funding of applications for projects which the Secretary determines are the most likely to be economically viable."
+Subsec. (c). Pub. L. 99–660, §803(a), struck out subsec. (c) which read as follows: "If in any fiscal year the funds appropriated under section 300e–8 of this title are insufficient to fund all applications approved under this subchapter for that fiscal year, the Secretary shall, after applying the applicable priorities under sections 300e–2 and 300e–3 of this title, give priority to the funding of applications for projects which the Secretary determines are the most likely to be economically viable."
 
 <b>1981</b>—Subsec. (e). Pub. L. 97–35 struck out subsec. (e) which related to limitation on cumulative total of loan guarantees in any fiscal year.
 

@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of this section to support model demonstration programs for the purposeof encouraging the development of systems to improve the quality of postsecondary instructional materials in specialized formats and such materials' timely delivery to postsecondary students with print disabilities, including systems to improve efficiency and reduce duplicative efforts across multiple institutions of higher education.
+It is the purpose of this section to support model demonstration programs for the purpose of encouraging the development of systems to improve the quality of postsecondary instructional materials in specialized formats and such materials' timely delivery to postsecondary students with print disabilities, including systems to improve efficiency and reduce duplicative efforts across multiple institutions of higher education.
 
 #### (b) Definition of eligible partnership
 
@@ -84,7 +84,7 @@ Not later than three years after the date of the first grant or contract awarded
 
 #### (i) Model expansion
 
-The Secretary may, on the basis of the reports under subsection (h) and section 1140l(b)(2) of this title and any evaluations of the projects funded under this section, expand the program under this section to additional grant or contract recipients that use other programmatic approaches and serve different geographic regions, if the Secretary finds that the models used under this section—
+The Secretary may, on the basis of the reports under subsection (h) and section 1140l(b)(2) of this title and any evaluations of the projectsfunded under this section, expand the program under this section to additional grant or contract recipients that use other programmatic approaches and serve different geographic regions, if the Secretary finds that the models used under this section—
 
 &emsp;(1) are effective in improving the timely delivery and quality of materials in specialized formats; and
 

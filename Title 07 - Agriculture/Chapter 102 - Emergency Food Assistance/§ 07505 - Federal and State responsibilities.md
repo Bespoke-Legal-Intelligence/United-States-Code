@@ -20,7 +20,7 @@ Each State agency receiving commodities under this chapter may—
 
 &emsp;(2) transfer such commodities to any such emergency feeding organization in the other State under such agreement.
 
-(Pub. L. 98–8, title II, §203B, as added Pub. L. 98–92, §2(5), Sept. 2, 1983, 97 Stat. 610; amendedPub. L. 99–198, title XV, §1568, Dec. 23, 1985, 99 Stat. 1592; Pub. L. 100–435, title I, §105(c), Sept. 19, 1988, 102 Stat. 1651; Pub. L. 104–193, title VIII, §871(e)(1), Aug. 22, 1996, 110 Stat. 2345.)
+(Pub. L. 98–8, title II, §203B, as added Pub. L. 98–92, §2(5), Sept. 2, 1983, 97 Stat. 610; amended Pub. L. 99–198, title XV, §1568, Dec. 23, 1985, 99 Stat. 1592; Pub. L. 100–435, title I, §105(c), Sept. 19, 1988, 102 Stat. 1651; Pub. L. 104–193, title VIII, §871(e)(1), Aug. 22, 1996, 110 Stat. 2345.)
 
 #### Amendments
 

@@ -78,7 +78,7 @@ Exclusive remedy.—A determination by the court under this subsection shall be 
 
 &emsp;&emsp;(D)
 
-Rule of construction.—Nothing in this section shall be construed as limiting, superseding, or preventing the invocation of, any privileges or defenses that are otherwise available at law or in equity to protect against the disclosure of information.
+Rule of construction.—Nothing in this section shall be construed as limiting,superseding, or preventing the invocation of, any privileges or defenses that are otherwise available at law or in equity to protect against the disclosure of information.
 
 (c)
 

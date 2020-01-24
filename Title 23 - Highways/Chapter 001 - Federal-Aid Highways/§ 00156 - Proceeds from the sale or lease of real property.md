@@ -16,7 +16,7 @@ Use of Federal Share of Income.—The Federal share of net income from the reven
 
 #### Prior Provisions
 
-A prior section 156, added Pub. L. 94–280, title I, §132(a), May 5, 1976, 90 Stat. 441, authorized the Secretary to construct or reconstruct any public highway or highway bridge across any Federal public works project, specified conditions under which such work may be done, and authorized appropriations for such work of $100,000,000 to be available in the fiscal year in which appropriated and for the two succeeding fiscal years, prior to repeal by Pub. L. 100–17, title I, §126(a), Apr. 2, 1987, 101 Stat. 167.
+A prior section 156, added Pub. L. 94–280, title I, §132(a), May 5, 1976, 90 Stat. 441, authorized the Secretary to construct or reconstruct any public highway or highway bridge across any Federal public works project, specified conditions under which such work may be done, and authorized appropriations for such work of $100,000,000 to be available in the fiscal year in which appropriated and for the two succeeding fiscalyears, prior to repeal by Pub. L. 100–17, title I, §126(a), Apr. 2, 1987, 101 Stat. 167.
 
 #### Amendments
 
@@ -26,5 +26,5 @@ A prior section 156, added Pub. L. 94–280, title I, §132(a), May 5, 1976, 90 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 

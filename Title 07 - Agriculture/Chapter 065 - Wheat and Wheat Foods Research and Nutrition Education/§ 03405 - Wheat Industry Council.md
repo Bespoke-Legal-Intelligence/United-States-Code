@@ -24,7 +24,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (f) Maintenance of records
 
-&emsp;that the Council shall maintain such books and records, which shall be available to theSecretary for inspection and audit, and prepare and submit such reports from time to time, to the Secretary as the Secretary may prescribe, and for appropriate accounting by the Council, with respect to the receipt and disbursement of all funds entrusted to it;
+&emsp;that the Council shall maintain such books and records, which shall be available to the Secretary for inspection and audit, and prepare and submit such reports from time to time, to the Secretary as the Secretary may prescribe, and for appropriate accounting by the Council, with respect to the receipt and disbursement of all funds entrusted to it;
 
 #### (g) Contracts
 

@@ -6,7 +6,7 @@
 
 (3) The amount of a grant awarded a student under this subsection may not exceed the student's cost of attendance.
 
-(4) The amount of a grant awarded a student under this subsection shall not be reduced on the basis of the student's receipt of other forms of Federal student financial assistance, but shall be taken into account in determining the eligibility of the student for those other forms of Federal student financial assistance.
+(4) The amount of a grant awarded a student under this subsection shall not be reduced on the basis of the student's receipt of other forms of Federal student financial assistance, but shallbe taken into account in determining the eligibility of the student for those other forms of Federal student financial assistance.
 
 (5) The Secretary shall give priority to awarding grants under this subsection in a manner likely to stimulate the interest of women and members of minority groups in pursuing scientific and engineering careers. The Secretary may consider the financial need of applicants in making awards in accordance with such priority.
 

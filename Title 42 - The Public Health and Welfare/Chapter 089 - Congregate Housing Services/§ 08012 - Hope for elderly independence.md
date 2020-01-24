@@ -134,7 +134,7 @@ For purposes of this section:
 
 #### (3) Section 1437f terms
 
-&emsp;The assistance payment contract under section 1437f of this title shall be attached to thestructure and shall be in an initial term of 5 years. The contract shall (at the option of the public housing agency and subject to availability of amounts approved in appropriations Acts) be renewable for 3 additional 5-year terms. Rents for units in the project assisted pursuant to this subsection shall be subject to the rent limitations in effect for the area under section 1437f of this title for projects for the elderly receiving loans under section 1701q of title 12.
+&emsp;The assistance payment contract under section 1437f of this title shall be attached to the structure and shall be in an initial term of 5 years. The contract shall (at the option of the public housing agency and subject to availability of amounts approved in appropriations Acts) be renewable for 3 additional 5-year terms. Rents for units in the project assisted pursuant to this subsection shall be subject to the rent limitations in effect for the area under section 1437f of this title for projects for the elderly receiving loans under section 1701q of title 12.
 
 #### (4) Supportive services
 

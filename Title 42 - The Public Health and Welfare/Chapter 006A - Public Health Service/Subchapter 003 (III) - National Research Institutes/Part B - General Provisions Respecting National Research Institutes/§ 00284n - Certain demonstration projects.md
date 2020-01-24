@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From amounts to be appropriated under section 282a(b) of this title, the Secretary ofHealth and Human Services, acting through the Director of NIH, (in this subsection referred to as the "Secretary") in consultation with the Director of the National Science Foundation, the Secretary of Energy, and other agency heads when necessary, may allocate funds for the national research institutes and national centers to make grants for the purpose of improving the public health through demonstration projects for biomedical research at the interface between the biological, behavioral, and social sciences and the physical, chemical, mathematical, and computational sciences.
+&emsp;From amounts to be appropriated under section 282a(b) of this title, the Secretary of Health and Human Services, acting through the Director of NIH, (in this subsection referred to as the "Secretary") in consultation with the Director of the National Science Foundation, the Secretary of Energy, and other agency heads when necessary, may allocate funds for the national research institutes and national centers to make grants for the purpose of improving the public health through demonstration projects for biomedical research at the interface between the biological, behavioral, and social sciences and the physical, chemical, mathematical, and computational sciences.
 
 #### (2) Goals, priorities, and methods; interagency collaboration
 
@@ -16,7 +16,7 @@
 
 #### (3) Peer review
 
-&emsp;A grant may be made under paragraph (1) only if the application for the grant has undergone technical and scientific peer review under section 289a of this title and has been reviewed by the advisory council under section 282(k) of this title or has been reviewed by an advisory council composed of representatives from appropriate scientific disciplines who can fully evaluate the applicant.
+&emsp;A grant may be made under paragraph (1) only if the application for the grant has undergone technical and scientific peer review under section 289a of this title and has been reviewed by the advisory council under section282(k) of this title or has been reviewed by an advisory council composed of representatives from appropriate scientific disciplines who can fully evaluate the applicant.
 
 #### (b) High-risk, high-reward research
 

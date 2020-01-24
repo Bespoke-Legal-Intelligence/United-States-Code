@@ -4,7 +4,7 @@
 
 #### (1) Council requests
 
-&emsp;If a Council determines that additional information would be beneficial for developing, implementing, or revising a fishery management plan or for determining whether a fishery is in need of management, the Council may request that the Secretary implement an information collection program for the fishery which would provide the types of information specified by the Council. The Secretary shall undertake such an information collection program if he determines that the need is justified, and shall promulgate regulations to implement the program within 60 days after such determination is made. If the Secretary determines that the need for an information collection program is not justified, the Secretary shall inform the Council of the reasons for such determination in writing. The determinations of the Secretary under this paragraph regarding a Council request shall be made within a reasonable period of time after receipt of that request.
+&emsp;If a Council determines that additional information would be beneficial for developing, implementing, or revising a fishery management plan or for determining whether a fishery is in need of management, the Council may request that the Secretary implement an information collection program for the fishery which would provide the types of information specified by the Council. The Secretary shall undertake such an information collection program if he determines that the need is justified, and shall promulgate regulations to implement the program within 60 days after suchdetermination is made. If the Secretary determines that the need for an information collection program is not justified, the Secretary shall inform the Council of the reasons for such determination in writing. The determinations of the Secretary under this paragraph regarding a Council request shall be made within a reasonable period of time after receipt of that request.
 
 #### (2) Secretarial initiation
 
@@ -18,7 +18,7 @@
 
 &emsp;(B) to State or Marine Fisheries Commission employees as necessary to further the Department's mission, subject to a confidentiality agreement that prohibits public disclosure of the identity of business of any person;
 
-&emsp;(C) to State employees who are responsible for fishery management plan enforcement, ifthe States employing those employees have entered into a fishery enforcement agreement with the Secretary and the agreement is in effect;
+&emsp;(C) to State employees who are responsible for fishery management plan enforcement, if the States employing those employees have entered into a fishery enforcement agreement with the Secretary and the agreement is in effect;
 
 &emsp;(D) when required by court order;
 

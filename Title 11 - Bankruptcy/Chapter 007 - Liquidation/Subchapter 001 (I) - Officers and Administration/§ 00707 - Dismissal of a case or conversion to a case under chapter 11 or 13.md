@@ -16,7 +16,7 @@
 
 &emsp;(II) $10,000.<sup>1</sup>
 
-(ii)(I) The debtor's monthly expenses shall be the debtor's applicable monthly expense amounts specified under the National Standards and Local Standards, and the debtor's actual monthly expenses for the categories specified as Other Necessary Expenses issued by the Internal Revenue Service for the area in which the debtor resides, as in effect on the date of the order for relief, for the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case, if the spouse is not otherwise a dependent. Such expenses shall include reasonably necessary health insurance, disability insurance, and health savings account expenses for the debtor, the spouse of the debtor, or the dependents of the debtor. Notwithstanding any other provision of this clause, the monthly expenses of the debtor shall not include any payments fordebts. In addition, the debtor's monthly expenses shall include the debtor's reasonably necessary expenses incurred to maintain the safety of the debtor and the family of the debtor from family violence as identified under section 302 of the Family Violence Prevention and Services Act, or other applicable Federal law. The expenses included in the debtor's monthly expenses described in the preceding sentence shall be kept confidential by the court. In addition, if it is demonstrated that it is reasonable and necessary, the debtor's monthly expenses may also include an additional allowance for food and clothing of up to 5 percent of the food and clothing categories as specified by the National Standards issued by the Internal Revenue Service.
+(ii)(I) The debtor's monthly expenses shall be the debtor's applicable monthly expense amounts specified under the National Standards and Local Standards, and the debtor's actual monthly expenses for the categories specified as Other Necessary Expenses issued by the InternalRevenue Service for the area in which the debtor resides, as in effect on the date of the order for relief, for the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case, if the spouse is not otherwise a dependent. Such expenses shall include reasonably necessary health insurance, disability insurance, and health savings account expenses for the debtor, the spouse of the debtor, or the dependents of the debtor. Notwithstanding any other provision of this clause, the monthly expenses of the debtor shall not include any payments for debts. In addition, the debtor's monthly expenses shall include the debtor's reasonably necessary expenses incurred to maintain the safety of the debtor and the family of the debtor from family violence as identified under section 302 of the Family Violence Prevention and Services Act, or other applicable Federal law. The expenses included in the debtor's monthly expenses described in the preceding sentence shall be kept confidential by the court. In addition, if it is demonstrated that it is reasonable and necessary, the debtor's monthly expenses may also include an additional allowance for food and clothing of up to 5 percent of the food and clothing categories as specified by the National Standards issued by the Internal Revenue Service.
 
 (II) In addition, the debtor's monthly expenses may include, if applicable, the continuation of actual expenses paid by the debtor that are reasonable and necessary for care and support of an elderly, chronically ill, or disabled household member or member of the debtor's immediate family (including parents, grandparents, siblings, children, and grandchildren of the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case who is not a dependent) and who is unable to pay for such reasonable and necessary expenses. Such monthly expenses may include, if applicable, contributions to an account of a qualified ABLE program to the extent such contributions are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986) and if the designated beneficiary of such account is a child, stepchild, grandchild, or stepgrandchild of the debtor.
 
@@ -138,7 +138,7 @@
 
 &emsp;(C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 <sup>1</sup> per month for each individual in excess of 4.
 
-(7)(A) No judge, United States trustee (or bankruptcy administrator, if any), trustee, or other party in interest may file a motion under paragraph (2) if the current monthly income of the debtor, including a veteran (as that term isdefined in section 101 of title 38), and the debtor's spouse combined, as of the date of the order for relief when multiplied by 12, is equal to or less than—
+(7)(A) No judge, United States trustee (or bankruptcy administrator, if any), trustee, or other party in interest may file a motion under paragraph (2) if the current monthly income of the debtor, including a veteran (as that term is defined in section 101 of title 38), and the debtor's spouse combined, as of the date of the order for relief when multiplied by 12, is equal to or less than—
 
 &emsp;(i) in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
 
@@ -169,6 +169,10 @@
 (3) The court may not dismiss a case under paragraph (2) if the debtor establishes by a preponderance of the evidence that the filing of a case under this chapter is necessary to satisfy a claim for a domestic support obligation.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §219, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 105–183, §4(b), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(a), (f), Apr. 20, 2005, 119 Stat. 27, 33; Pub. L. 110–438, §2, Oct. 20, 2008, 122 Stat. 5000; Pub. L. 111–320, title II, §202(a), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 111–327, §2(a)(25), Dec. 22, 2010, 124 Stat. 3560; Pub. L. 113–295, div. B, title I, §104(b), Dec. 19, 2014, 128 Stat. 4064.)
+
+#### Applicability of Amendment
+
+<i>For limited applicability of amendment by Pub. L. 110–438, see Effective Date of 2008 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -222,7 +226,7 @@ Amendment by Pub. L. 113–295 applicable with respect to cases commenced under 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–438, §4, Oct. 20, 2008, 122 Stat. 5002, as amended by Pub. L. 112–64, §2, Dec. 13, 2011, 125 Stat. 766; Pub. L. 114–107, §2, Dec. 18, 2015, 129 Stat. 2223, provided that:
+Pub. L. 110–438, §4, Oct. 20, 2008, 122 Stat. 5002, as amended by Pub. L. 112–64, §2, Dec. 13, 2011, 125 Stat. 766; Pub. L. 114–107, §2, Dec. 18, 2015, 129 Stat. 2223; Pub. L. 116–53, §2, Aug. 23, 2019, 133 Stat. 1078, provided that:
 
 "(a)
 
@@ -230,7 +234,7 @@ Effective Date.—Except as provided in subsection (b), this Act \[amending this
 
 "(b)
 
-Application of Amendments.—The amendments made by this Act \[amending this section\] shall apply only with respect to cases commenced under title 11 of the United States Code in the 11-year period beginning on the effective date of this Act."
+Application of Amendments.—The amendments made by this Act \[amending this section\] shall apply only with respect to cases commenced under title 11 of the United States Code in the 15-year period beginning on the effective date of this Act."
 
 #### Effective Date of 2005 Amendment
 

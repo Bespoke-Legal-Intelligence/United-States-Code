@@ -10,7 +10,7 @@
 
 &emsp;(1) an officer's years of active service are computed by adding all his active service in the armed forces; and
 
-&emsp;(2) his years of service as a commissioned officer are computed by adding all his active service in the armed forces under permanent or temporary appointments in grades above warrant officer, W–1.
+&emsp;(2) his years of service as a commissioned officer are computed by adding all his active service in the armed forces under permanentor temporary appointments in grades above warrant officer, W–1.
 
 (c) The retired grade of an officer retired under this section is the grade determined under section 1370 of this title.
 
@@ -162,5 +162,5 @@ For delegation to Secretary of Homeland Security of authority vested in Presiden
 
 #### Temporary Early Retirement Authority
 
-For provisions authorizing the Secretary of the Navy, during the period beginning Oct. 23, 1992, and ending Oct. 1, 1995, to apply this section to an officer with atleast 15 but less than 20 years of service by substituting "at least 15 years" for "at least 20 years" in subsec. (a) of this section, see section 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
+For provisions authorizing the Secretary of the Navy, during the period beginning Oct. 23, 1992, and ending Oct. 1, 1995, to apply this section to an officer with at least 15 but less than 20 years of service by substituting "at least 15 years" for "at least 20 years" in subsec. (a) of this section, see section 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(i)(5)(A)) or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
+In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(i)(5)(A)) or aterroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
 
 &emsp;(1) whether any of the acts described in paragraph (1) of section 7508(a) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date (determined by the Secretary) of such disaster or action),
 
@@ -18,9 +18,59 @@ In the case of a pension or other employee benefit plan, or any sponsor, adminis
 
 The rules of section 7508(b) shall apply for purposes of this section.
 
-(Added Pub. L. 105–34, title IX, §911(a), Aug. 5, 1997, 111 Stat. 877; amended Pub. L. 107–16, title VIII, §802(a), June 7, 2001, 115 Stat. 149; Pub. L. 107–134, title I, §112(a), Jan. 23, 2002, 115 Stat. 2433; Pub. L. 110–343, div. C, title VII, §706(a)(2)(D)(vii), Oct. 3, 2008, 122 Stat. 3922; Pub. L. 115–141, div. U, title IV, §401(b)(10)(B), Mar. 23, 2018, 132 Stat. 1202.)
+#### (d) Mandatory 60-day extension
+
+#### (1) In general
+
+&emsp;In the case of any qualified taxpayer, the period—
+
+&emsp;&emsp;(A) beginning on the earliest incident date specified in the declaration to which the disaster area referred to in paragraph (2) relates, and
+
+&emsp;&emsp;(B) ending on the date which is 60 days after the latest incident date so specified,
+
+> &emsp;shall be disregarded in the same manner as a period specified under subsection (a).
+
+#### (2) Qualified taxpayer
+
+&emsp;For purposes of this subsection, the term "qualified taxpayer" means—
+
+&emsp;&emsp;(A) any individual whose principal residence (for purposes of section 1033(h)(4)) is located in a disaster area,
+
+&emsp;&emsp;(B) any taxpayer if the taxpayer's principal place of business (other than the business of performing services as an employee) is located in a disaster area,
+
+&emsp;&emsp;(C) any individual who is a relief worker affiliated with a recognized government or philanthropic organization and who is assisting in a disaster area,
+
+&emsp;&emsp;(D) any taxpayer whose records necessary to meet a deadline for an act described in section 7508(a)(1) are maintained in a disaster area,
+
+&emsp;&emsp;(E) any individual visiting a disaster area who was killed or injured as a result of the disaster, and
+
+&emsp;&emsp;(F) solely with respect to a joint return, any spouse of an individual described in any preceding subparagraph of this paragraph.
+
+#### (3) Disaster area
+
+&emsp;For purposes of this subsection, the term "disaster area" has the meaning given such term under subparagraph (B) of section 165(i)(5) with respect to a Federally declared disaster (as defined in subparagraph (A) of such section).
+
+#### (4) Application to rules regarding pensions
+
+&emsp;In the case of any person described in subsection (b), a rule similar to the rule of paragraph (1) shall apply for purposes of subsection (b) with respect to—
+
+&emsp;&emsp;(A) making contributions to a qualified retirement plan (within the meaning of section 4974(c)) under section 219(f)(3), 404(a)(6), 404(h)(1)(B), or 404(m)(2),
+
+&emsp;&emsp;(B) making distributions under section 408(d)(4),
+
+&emsp;&emsp;(C) recharacterizing contributions under section 408A(d)(6), and
+
+&emsp;&emsp;(D) making a rollover under section 402(c), 403(a)(4), 403(b)(8), or 408(d)(3).
+
+#### (5) Coordination with periods specified by the Secretary
+
+&emsp;Any period described in paragraph (1) with respect to any person (including by reason of the application of paragraph (4)) shall be in addition to (or concurrent with, as the case may be) any period specified under subsection (a) or (b) with respect to such person.
+
+(Added Pub. L. 105–34, title IX, §911(a), Aug. 5, 1997, 111 Stat. 877; amended Pub. L. 107–16, title VIII, §802(a), June 7, 2001, 115 Stat. 149; Pub. L. 107–134, title I, §112(a), Jan. 23, 2002, 115 Stat. 2433; Pub. L. 110–343, div. C, title VII, §706(a)(2)(D)(vii), Oct. 3, 2008, 122 Stat. 3922; Pub. L. 115–141, div. U, title IV, §401(b)(10)(B), Mar. 23, 2018, 132 Stat. 1202; Pub. L. 116–94, div. Q, title II, §205(a), Dec. 20, 2019, 133 Stat. 3245.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (d). Pub. L. 116–94 added subsec. (d).
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–141 substituted "section 165(i)(5)(A)" for "section 165(h)(3)(C)(i)" in introductory provisions.
 
@@ -29,6 +79,10 @@ The rules of section 7508(b) shall apply for purposes of this section.
 <b>2002</b>—Pub. L. 107–134 amended section catchline and text generally, substituting present provisions for provisions which had: in subsec. (a), authorized Secretary to postpone certain tax-related deadlines by reason of presidentially declared disaster, and in subsec. (b), provided that subsec. (a) would not apply for the purpose of determining interest on any overpayment or underpayment.
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–16 substituted "120 days" for "90 days" in introductory provisions.
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–94, div. Q, title II, §205(b), Dec. 20, 2019, 133 Stat. 3246, provided that: "The amendment made by this section \[amending this section\] shall apply to federally declared disasters declared after the date of the enactment of this Act \[Dec. 20, 2019\]."
 
 #### Effective Date of 2008 Amendment
 

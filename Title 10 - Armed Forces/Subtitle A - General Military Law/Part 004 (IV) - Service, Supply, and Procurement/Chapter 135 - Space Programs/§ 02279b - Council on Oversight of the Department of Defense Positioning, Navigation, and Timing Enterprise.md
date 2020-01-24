@@ -10,27 +10,29 @@ Membership.—The members of the Council shall be as follows:
 
 &emsp;(1) The Under Secretary of Defense for Policy.
 
-&emsp;(2) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+&emsp;(2) The Under Secretary of Defense for Research and Engineering.
 
-&emsp;(3) The Vice Chairman of the Joint Chiefs of Staff.
+&emsp;(3) The Under Secretary of Defense for Acquisition and Sustainment.
 
-&emsp;(4) The Commander of the United States Strategic Command.
+&emsp;(4) The Vice Chairman of the Joint Chiefs of Staff.
 
-&emsp;(5) The Commander of the United States Northern Command.
+&emsp;(5) The Commander of the United States Strategic Command.
 
-&emsp;(6) The Commander of United States Cyber Command.
+&emsp;(6) The Commander of the United States Northern Command.
 
-&emsp;(7) The Director of the National Security Agency.
+&emsp;(7) The Commander of United States Cyber Command.
 
-&emsp;(8) The Chief Information Officer of the Department of Defense.
+&emsp;(8) The Director of the National Security Agency.
 
-&emsp;(9) The Secretaries of the military departments, who shall be ex officio members.
+&emsp;(9) The Chief Information Officer of the Department of Defense.
 
-&emsp;(10) Such other officers of the Department of Defense as the Secretary may designate.
+&emsp;(10) The Secretaries of the military departments, who shall be ex officio members.
+
+&emsp;(11) Such other officers of the Department of Defense as the Secretary may designate.
 
 (c)
 
-Co-chair.—The Council shall be co-chaired by the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Vice Chairman of the Joint Chiefs of Staff.
+Co-chair.—The Council shall be co-chaired by the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, and the Vice Chairman of the Joint Chiefs of Staff.
 
 (d)
 
@@ -58,7 +60,7 @@ Annual Reports.—At the same time each year that the budget of the President is
 
 &emsp;(3) Any changes to the requirements of the Department of Defense positioning, navigation, and timing enterprise made during the previous year, along with an explanation for why the changes were made and a description of the effects of the changes to the capability of such enterprise.
 
-&emsp;(4) A breakdown of each program element in such budget that relates to the Department of Defense positioning, navigation, and timing enterprise, including how such program element relates to the operation and sustainment, research and development, procurement, or other activity of such enterprise.
+&emsp;(4) A breakdown of each program element in such budget that relates to the Department ofDefense positioning, navigation, and timing enterprise, including how such program element relates to the operation and sustainment, research and development, procurement, or other activity of such enterprise.
 
 (f)
 
@@ -86,9 +88,15 @@ Notification of Anomalies.—(1) The Secretary of Defense shall submit to the co
 
 Termination.—The Council shall terminate on the date that is 10 years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016.
 
-(Added Pub. L. 114–92, div. A, title XVI, §1603(a), Nov. 25, 2015, 129 Stat. 1096.)
+(Added Pub. L. 114–92, div. A, title XVI, §1603(a), Nov. 25, 2015, 129 Stat. 1096; amended Pub. L. 116–92, div. A, title IX, §902(31), Dec. 20, 2019, 133 Stat. 1546.)
 
 #### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (h), is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (b)(2) to (11). Pub. L. 116–92, §902(31)(A), added pars. (2) and (3), redesignated former pars. (3) to (10) as (4) to (11), respectively, and struck out former par. (2) which read as follows: "The Under Secretary of Defense for Acquisition, Technology, and Logistics."
+
+Subsec. (c). Pub. L. 116–92, §902(31)(B), substituted "the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment," for "the Under Secretary of Defense for Acquisition, Technology, and Logistics".
 

@@ -22,7 +22,7 @@
 
 &emsp;Each report required under subsection (a) shall identify the cumulative effects of offset agreements on—
 
-&emsp;&emsp;(A) the full range of domestic defense productive capability (with special attention paid to the firms serving as lower-tier subcontractors or suppliers); and
+&emsp;&emsp;(A) the full range of domestic defense productive capability (with special attentionpaid to the firms serving as lower-tier subcontractors or suppliers); and
 
 &emsp;&emsp;(B) the domestic defense technology base as a consequence of the technology transfers associated with such offset agreements.
 
@@ -402,7 +402,7 @@ Sec. 3. <i>Commission Report</i>. Not later than 12 months after the Commission 
 
 Sec. 4. <i>Administration, Compensation, and Termination</i>. (a) The Department of Defense will provide administrative support and funding for the Commission and Federal Government employees may be detailed to the Commission without reimbursement.
 
-(b) Members of the Commission who are not officers or employees of the Federal Government will be compensated at a rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in performance of the duties of the Commission. Members of the Commission who are officers or employees of the Federal Government will serve without compensation in addition to that received for their services as officers or employees of the Federal Government.
+(b) Members of the Commission who are not officers or employees of the Federal Government will be compensated at a rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including traveltime) during which such member is engaged in performance of the duties of the Commission. Members of the Commission who are officers or employees of the Federal Government will serve without compensation in addition to that received for their services as officers or employees of the Federal Government.
 
 (c) Members of the Commission will be allowed travel expenses, including per diem in lieu of subsistence, under subchapter 1 of chapter 57 of title 5, United States Code, while on business in the performance of services for the Commission.
 

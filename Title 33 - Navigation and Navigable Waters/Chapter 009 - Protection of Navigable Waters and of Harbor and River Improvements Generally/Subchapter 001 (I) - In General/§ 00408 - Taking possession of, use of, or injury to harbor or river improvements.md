@@ -52,7 +52,7 @@ It shall not be lawful for any person or persons to take possession of or make u
 
 #### (3) Notification to Congress
 
-&emsp;In any case in which a schedule provided under paragraph (2)(B) extends beyond 120 days from the date of receipt of a complete application, the Secretary shall provide to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an explanation justifying the extended timeframe for review.
+&emsp;In any case in which a schedule provided under paragraph (2)(B) extends beyond 120 daysfrom the date of receipt of a complete application, the Secretary shall provide to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an explanation justifying the extended timeframe for review.
 
 #### (d) Work Defined
 
@@ -70,7 +70,7 @@ Section is from act Mar. 3, 1899, popularly known as the "Rivers and Harbors App
 
 #### Prior Provisions
 
-Section superseded act Sept. 19, 1890, ch. 907, §9, 26 Stat. 426, which prohibited persons taking possession ofor using or injuring government works in navigable waters.
+Section superseded act Sept. 19, 1890, ch. 907, §9, 26 Stat. 426, which prohibited persons taking possession of or using or injuring government works in navigable waters.
 
 Act Aug. 14, 1876, ch. 267, §3, 19 Stat. 139, penalizing persons injuring any pier breakwater, or other work of the United States for the improvement of rivers or harbors or navigation, was probably omitted from the Code as superseded by this section.
 

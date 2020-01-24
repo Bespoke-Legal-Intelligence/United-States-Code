@@ -50,7 +50,7 @@ The Corporation, with the consent of any board, commission, independent establis
 
 &emsp;&emsp;&emsp;&emsp;(I) section 2276 of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the Confidential Information Protection and Statistical Efficiency Act of 2002 (44 U.S.C. 3501 note; Public Law 107–347).
+&emsp;&emsp;&emsp;&emsp;(II) the Confidential Information Protection and Statistical Efficiency Act of 2002 (44 U.S.C. 3501 note; Public Law 107–347).<sup>2</sup>
 
 #### (C) Noninsured crop disaster assistance program
 
@@ -58,7 +58,7 @@ The Corporation, with the consent of any board, commission, independent establis
 
 &emsp;&emsp;&emsp;(i) appropriate data are collected through the noninsured crop disaster assistance program established by section 7333 of this title; and
 
-&emsp;&emsp;&emsp;(ii) not less frequently than annually, the Farm Service Agency shares, and theCorporation considers, the data described in clause (i).
+&emsp;&emsp;&emsp;(ii) not less frequently than annually, the Farm Service Agency shares, and the Corporation considers, the data described in clause (i).
 
 #### (3) Sharing of records
 
@@ -132,7 +132,7 @@ The Secretary and the Corporation are each authorized to issue such regulations 
 
 #### (2) Notice requirement
 
-&emsp;In providing financial assistance to, or entering into any contract with, any entity for the purchase of equipment and products to carry out this subchapter, the Corporation, to the greatest extent practicable, shall provide to the entity a notice describing the statement made in paragraph (1).
+&emsp;In providing financial assistance to, or entering into any contract with, any entity forthe purchase of equipment and products to carry out this subchapter, the Corporation, to the greatest extent practicable, shall provide to the entity a notice describing the statement made in paragraph (1).
 
 #### (r) <sup>3</sup> Procedures for responding to certain inquiries
 
@@ -156,7 +156,7 @@ The Secretary and the Corporation are each authorized to issue such regulations 
 
 #### References in Text
 
-The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (h)(2)(B)(ii)(II), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which is set out as a note under section 3501 of Title 44, Public Printing and Documents.
+The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (h)(2)(B)(ii)(II), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which was set out as a note under section 3501 of Title 44, Public Printing and Documents, prior to repeal by Pub. L. 115–435, title III, §302(c)(1), title IV, §403, Jan. 14, 2019, 132 Stat. 5552, 5557, effective 180 days after Jan. 14, 2019. See parts A to C of subchapter III of chapter 35 of Title 44, especially section 3572 of Title 44, which relates to confidential information protection.
 
 Section 405(c)(2)(C)(iii) of title 42, referred to in subsec. (m)(1), was redesignated section 405(c)(2)(C)(iv) of title 42 by Pub. L. 103–296, title III, §321(a)(9)(B), Aug. 15, 1994, 108 Stat. 1536.
 
@@ -404,7 +404,7 @@ Information.—
 
 &emsp;"(1)
 
-Privacy.—In conducting the evaluation required by this section, the Comptroller General and the Corporation shall maintain the privacy of proprietary information.
+Privacy.—In conducting the evaluation required by this section, the Comptroller General andthe Corporation shall maintain the privacy of proprietary information.
 
 &emsp;"(2)
 

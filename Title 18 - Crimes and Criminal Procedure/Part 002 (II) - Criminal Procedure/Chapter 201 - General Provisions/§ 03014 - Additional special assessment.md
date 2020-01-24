@@ -32,7 +32,7 @@ Use of Funds.—
 
 &emsp;(1)
 
-In general.—From amounts in the Fund, in addition to any other amounts available, and without further appropriation, the Attorney General, in coordination with the Secretary of Health and Human Services shall, for each of fiscal years 2016 through 2023, use amounts available in the Fund to award grants or enhance victims' programming under—
+In general.—From amounts in the Fund, in addition to any other amounts available,and without further appropriation, the Attorney General, in coordination with the Secretary of Health and Human Services shall, for each of fiscal years 2016 through 2023, use amounts available in the Fund to award grants or enhance victims' programming under—
 
 &emsp;&emsp;(A) section 204 of the Trafficking Victims Protection Reauthorization Act of 2005 (42 U.S.C. 14044c); <sup>1</sup>
 
@@ -52,7 +52,7 @@ Collection Method.—The amount assessed under subsection (a) shall, subject to 
 
 (g)
 
-Duration of Obligation.—Subject to section 3613(b), the obligation to pay an assessmentimposed on or after the date of enactment of the Justice for Victims of Trafficking Act of 2015 shall not cease until the assessment is paid in full.
+Duration of Obligation.—Subject to section 3613(b), the obligation to pay an assessment imposed on or after the date of enactment of the Justice for Victims of Trafficking Act of 2015 shall not cease until the assessment is paid in full.
 
 (h)
 
@@ -78,9 +78,9 @@ Grants.—Of the amounts in the Fund used under paragraph (1), not less than $2,
 
 &emsp;(4)
 
-Application of provision.—The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015 and section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act shall continue to apply to the amounts transferred pursuant to paragraph (1).
+Application of provision.—The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act,,,<sup>2</sup> and section 401(d) of division N of the Further Consolidated Appropriations Act, 2020 shall continue to apply to the amounts transferred pursuant to paragraph (1).
 
-(Added and amended Pub. L. 114–22, title I, §101(a), title IX, §905, May 29, 2015, 129 Stat. 228, 266; Pub. L. 115–96, div. C, title I, §3101(e), Dec. 22, 2017, 131 Stat. 2049; Pub. L. 115–123, div. E, title IX, §50901(f), Feb. 9, 2018, 132 Stat. 289; Pub. L. 115–392, §2(b), Dec. 21, 2018, 132 Stat. 5250.)
+(Added and amended Pub. L. 114–22, title I, §101(a), title IX, §905, May 29, 2015, 129 Stat. 228, 266; Pub. L. 115–96, div. C, title I, §3101(e), Dec. 22, 2017, 131 Stat. 2049; Pub. L. 115–123, div. E, title IX, §50901(f), Feb. 9, 2018, 132 Stat. 289; Pub. L. 115–392, §2(b), Dec. 21, 2018, 132 Stat. 5250; Pub. L. 116–59, div. B, title I, §1101(e), Sept. 27, 2019, 133 Stat. 1103; Pub. L. 116–69, div. B, title I, §1101(e), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, §401(e), Dec. 20, 2019, 133 Stat. 3113.)
 
 #### References in Text
 
@@ -96,7 +96,15 @@ Section 221 of the Medicare Access and CHIP Reauthorization Act of 2015, referre
 
 Section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, referred to in subsec. (h)(4), is section 50901(e) of Pub. L. 115–123, div. E, title IX, Feb. 9, 2018, 132 Stat. 289. Section 50901(e) of the Act related to application of amounts appropriated pursuant to that section and is not classified to the Code.
 
+Section 401(d) of division N of the Further Consolidated Appropriations Act, 2020, referred to in subsec. (h)(4), is section 401(d) of Pub. L. 116–94, div. N, title IV, Dec. 20, 2019, 113 Stat. 3113. Section 401(d) of the Act related to application of amounts appropriated pursuant to that section and is not classified to the Code.
+
 #### Amendments
+
+<b>2019</b>—Subsec. (h)(4). Pub. L. 116–94 substituted ", and section 401(d) of division N of the Further Consolidated Appropriations Act, 2020" for "section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, and section 1101(d) of the Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of 2019".
+
+Pub. L. 116–69 substituted ", section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, and section 1101(d) of the Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of 2019" for "and section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019".
+
+Pub. L. 116–59 substituted ", section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, and section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019" for "and section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act".
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–392, §2(b)(1), substituted "September 30, 2021" for "September 30, 2019" in introductory provisions.
 
@@ -115,4 +123,6 @@ Subsec. (h)(4). Pub. L. 115–96, §3101(e)(2), inserted "and section 3101(d) of
 <b>2015</b>—Subsec. (e)(1)(D). Pub. L. 114–22, §905, added subpar. (D).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

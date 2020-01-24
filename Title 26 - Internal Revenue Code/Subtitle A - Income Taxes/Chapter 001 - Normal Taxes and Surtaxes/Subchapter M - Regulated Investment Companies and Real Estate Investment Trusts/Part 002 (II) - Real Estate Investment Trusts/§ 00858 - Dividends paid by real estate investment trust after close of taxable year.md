@@ -38,7 +38,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 665(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, and by section 668(b)(1)(B) of Pub. L. 99–514 applicableto calendar years beginning after Dec. 31, 1986, see section 669 of Pub. L. 99–514, set out as a note under section 856 of this title.
+Amendment by section 665(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, and by section 668(b)(1)(B) of Pub. L. 99–514 applicable to calendar years beginning after Dec. 31, 1986, see section 669 of Pub. L. 99–514, set out as a note under section 856 of this title.
 
 #### Effective Date of 1976 Amendment
 

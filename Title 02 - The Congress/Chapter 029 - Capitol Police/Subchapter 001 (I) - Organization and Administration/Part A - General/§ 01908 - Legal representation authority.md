@@ -28,7 +28,7 @@
 
 #### (2) United States Supreme Court
 
-&emsp;The authority under subsection (a) shall not apply with respect to the admission of anyperson to practice before the United States Supreme Court.
+&emsp;The authority under subsection (a) shall not apply with respect to the admission of any person to practice before the United States Supreme Court.
 
 #### (c) Effective date
 

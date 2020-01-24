@@ -18,7 +18,7 @@ When any property which is seized under the provisions of section 7301 or sectio
 
 #### (A) Order to sell
 
-&emsp;&emsp;If such owner shall neglect or refuse to give such bond, the Secretary shall issue to any Treasury officer or employee or to the United States marshal an order to sell the same.
+&emsp;&emsp;If such owner shall neglect or refuse to give such bond, the Secretary shall issue toany Treasury officer or employee or to the United States marshal an order to sell the same.
 
 #### (B) Manner of sale
 

@@ -120,7 +120,7 @@ In carrying out this section, the Secretary shall consult with the Secretary of 
 
 #### (1) In general
 
-&emsp;As a condition of receiving a grant or loan guarantee under this section, an eligible entity shall ensure that all laborers and mechanics employed by contractors or subcontractorsin the performance of construction work financed, in whole or in part, with the grant or loan guarantee, as the case may be, shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141 through 3144, 3146, and 3147 of title 40.
+&emsp;As a condition of receiving a grant or loan guarantee under this section, an eligible entity shall ensure that all laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed, in whole or in part, with the grant or loan guarantee, as the case may be, shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141 through 3144, 3146, and 3147 of title 40.
 
 #### (2) Authority and functions
 

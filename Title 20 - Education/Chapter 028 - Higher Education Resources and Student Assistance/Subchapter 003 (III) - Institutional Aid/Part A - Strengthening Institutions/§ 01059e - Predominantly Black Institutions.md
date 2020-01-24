@@ -116,7 +116,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;A Predominantly Black Institution may use not more than 20 percent of the grantfunds provided under this section to establish or increase an endowment fund at the institution.
+&emsp;&emsp;A Predominantly Black Institution may use not more than 20 percent of the grant funds provided under this section to establish or increase an endowment fund at the institution.
 
 #### (B) Matching requirement
 
@@ -138,7 +138,7 @@ In this section:
 
 #### (2) Graduates basis
 
-&emsp;From the amounts appropriated to carry out this section for any fiscal year, the Secretary shall allot to each Predominantly Black Institution having an application approved under subsection (f) a sum that bears the same ratio to one-fourth of that amount as the number of graduates for such academic year at such institution, bears to the total number of graduates for such academic year at all such institutions.
+&emsp;From the amounts appropriated to carry out this section for any fiscal year, the Secretaryshall allot to each Predominantly Black Institution having an application approved under subsection (f) a sum that bears the same ratio to one-fourth of that amount as the number of graduates for such academic year at such institution, bears to the total number of graduates for such academic year at all such institutions.
 
 #### (3) Graduates seeking a higher degree basis
 

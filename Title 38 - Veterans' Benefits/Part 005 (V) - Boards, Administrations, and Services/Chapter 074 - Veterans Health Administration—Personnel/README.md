@@ -33,13 +33,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER III—PAY FOR PHYSICIANS AND DENTISTS
+#### SUBCHAPTER III—PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS
 
 |  |  |
 | :--- | ---: |
-| [7431\.](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007431%20-%20Pay.md) | Pay. |
-| [7432\.](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007432%20-%20Pay%20of%20Under%20Secretary%20for%20Health.md) | Pay of Under Secretary for Health. |
-| [7433\.](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007433%20-%20Administrative%20matters.md) | Administrative matters. |
+| [7431\.](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%2C%20Podiatrists%2C%20and%20Dentists/%C2%A7%2007431%20-%20Pay.md) | Pay. |
+| [7432\.](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%2C%20Podiatrists%2C%20and%20Dentists/%C2%A7%2007432%20-%20Pay%20of%20Under%20Secretary%20for%20Health.md) | Pay of Under Secretary for Health. |
+| [7433\.](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%2C%20Podiatrists%2C%20and%20Dentists/%C2%A7%2007433%20-%20Administrative%20matters.md) | Administrative matters. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -84,6 +84,8 @@
 
 #### Amendments
 
+<b>2019</b>—Pub. L. 116–12, §1(b)(4), Apr. 8, 2019, 133 Stat. 845, substituted "PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS" for "PAY FOR PHYSICIANS AND DENTISTS" in item for subchapter III.
+
 <b>2018</b>—Pub. L. 115–182, title V, §502(a)(2), June 6, 2018, 132 Stat. 1475, which directed amendment of the table of sections for chapter 74 by adding item 7413 after item 7412, without specifying the Code title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
 <b>2014</b>—Pub. L. 113–146, §301(a)(2), Aug. 7, 2014, 128 Stat. 1784, added item 7412.
@@ -101,7 +103,7 @@
 
 - [Subchapter 001 (I) - Appointments](Subchapter%20001%20%28I%29%20-%20Appointments/README.md)
 - [Subchapter 002 (II) - Collective Bargaining and Personnel Administration](Subchapter%20002%20%28II%29%20-%20Collective%20Bargaining%20and%20Personnel%20Administration/README.md)
-- [Subchapter 003 (III) - Pay for Physicians and Dentists](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%20and%20Dentists/README.md)
+- [Subchapter 003 (III) - Pay for Physicians, Podiatrists, and Dentists](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%2C%20Podiatrists%2C%20and%20Dentists/README.md)
 - [Subchapter 004 (IV) - Pay for Nurses and Other Health-Care Personnel](Subchapter%20004%20%28IV%29%20-%20Pay%20for%20Nurses%20and%20Other%20Health-Care%20Personnel/README.md)
 - [Subchapter 005 (V) - Disciplinary and Grievance Procedures](Subchapter%20005%20%28V%29%20-%20Disciplinary%20and%20Grievance%20Procedures/README.md)
 - [Subchapter 006 (VI) - Regional Medical Education Centers](Subchapter%20006%20%28VI%29%20-%20Regional%20Medical%20Education%20Centers/README.md)

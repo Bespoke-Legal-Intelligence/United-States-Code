@@ -22,7 +22,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (3) Comprehensive review and analysis
 
-&emsp;The plan shall describe the results of a comprehensive review and analysis of the extent to which services, supports, and other assistance are available to individuals with developmental disabilities and their families, and the extent of unmet needs for services, supports, and other assistance for those individuals andtheir families, in the State. The results of the comprehensive review and analysis shall include—
+&emsp;The plan shall describe the results of a comprehensive review and analysis of the extent to which services, supports, and other assistance are available to individuals with developmental disabilities and their families, and the extent of unmet needs for services, supports, and other assistance for those individuals and their families, in the State. The results of the comprehensive review and analysis shall include—
 
 &emsp;&emsp;(A) a description of the services, supports, and other assistance being provided to individuals with developmental disabilities and their families under other federally assisted State programs, plans, and policies under which the State operates and in which individuals with developmental disabilities are or may be eligible to participate, including particularly programs relating to the areas of emphasis, including—
 
@@ -130,7 +130,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (H) Human rights
 
-&emsp;&emsp;The plan shall provide assurances that the human rights of the individuals with developmental disabilities (especially individuals without familial protection) who are receiving services under programs assisted under this part will be protected consistent with section 15009 of this title (relating to rights of individuals with developmental disabilities).
+&emsp;&emsp;The plan shall provide assurances that the human rights of the individuals with developmental disabilities (especially individuals without familial protection) who are receiving services under programs assisted underthis part will be protected consistent with section 15009 of this title (relating to rights of individuals with developmental disabilities).
 
 #### (I) Minority participation
 
@@ -142,7 +142,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (K) Staff assignments
 
-&emsp;&emsp;The plan shall provide assurances that the staff and other personnel of the Council,while working for the Council, will be responsible solely for assisting the Council in carrying out the duties of the Council under this part and will not be assigned duties by the designated State agency, or any other agency, office, or entity of the State.
+&emsp;&emsp;The plan shall provide assurances that the staff and other personnel of the Council, while working for the Council, will be responsible solely for assisting the Council in carrying out the duties of the Council under this part and will not be assigned duties by the designated State agency, or any other agency, office, or entity of the State.
 
 #### (L) Noninterference
 

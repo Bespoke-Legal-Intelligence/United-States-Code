@@ -68,7 +68,7 @@ Assistance made available under this chapter to the Palestinian Authority may no
 
 #### (4) Treatment of certification as notification of program change
 
-&emsp;For purposes of this subsection, the certification required under paragraph (2)(B) shall be deemed to be a notification under section 2394–1 of this title and shall be considered in accordance with the procedures applicable to notifications submitted pursuant to that section.
+&emsp;For purposes of this subsection, the certification required under paragraph (2)(B) shall bedeemed to be a notification under section 2394–1 of this title and shall be considered in accordance with the procedures applicable to notifications submitted pursuant to that section.
 
 #### (f) Definitions
 
@@ -162,7 +162,7 @@ Audits.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Administrator of the United States Agency for International Development shall ensure that Federal or non-Federal audits of all contractors and grantees, and significantsubcontractors and subgrantees, that receive amounts for assistance to nongovernmental organizations for the West Bank or Gaza under the Foreign Assistance Act of 1961 are conducted for each of the fiscal years 2007 and 2008 to ensure, among other things, compliance with this subsection.
+In general.—The Administrator of the United States Agency for International Development shall ensure that Federal or non-Federal audits of all contractors and grantees, and significant subcontractors and subgrantees, that receive amounts for assistance to nongovernmental organizations for the West Bank or Gaza under the Foreign Assistance Act of 1961 are conducted for each of the fiscal years 2007 and 2008 to ensure, among other things, compliance with this subsection.
 
 &emsp;&emsp;"(B)
 
@@ -170,7 +170,7 @@ Audits by inspector general of usaid.—Of the amounts available for each of the
 
 #### "SEC. 4. DESIGNATION OF TERRITORY CONTROLLED BY THE PALESTINIAN AUTHORITY AS TERRORIST SANCTUARY.
 
-"It is the sense of Congress that, during any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(b)\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority, the territory controlled by the Palestinian Authority should be deemed to be in use as a sanctuary for terrorists or terrorist organizations for purposes of \[former\] section 6(j)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(5)) \[former 50 U.S.C. 4605(j)(5)\] and section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f).
+"It is the sense of Congress that, during any period for which a certification described in section 620K(b) ofthe Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(b)\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority, the territory controlled by the Palestinian Authority should be deemed to be in use as a sanctuary for terrorists or terrorist organizations for purposes of \[former\] section 6(j)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(5)) \[former 50 U.S.C. 4605(j)(5)\] and section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f).
 
 #### "SEC. 5. DENIAL OF VISAS FOR OFFICIALS OF THE PALESTINIAN AUTHORITY.
 
@@ -262,7 +262,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 
 "Not later than 90 days after the date of the enactment of this Act \[Dec. 21, 2006\], and annually thereafter, the Secretary of State shall submit to the appropriate congressional committees a report that—
 
-&emsp;"(1) describes the steps that have been taken by the United States Government to ensure that other countries and international organizations, including multilateral development banks, do not provide direct assistance to the Palestinian Authority for any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(b)\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority; and
+&emsp;"(1) describes the steps that have been taken by the United States Government to ensure that other countries and international organizations, includingmultilateral development banks, do not provide direct assistance to the Palestinian Authority for any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(b)\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority; and
 
 &emsp;"(2) identifies any countries and international organizations, including multilateral development banks, that are providing direct assistance to the Palestinian Authority during such a period, and describes the nature and amount of such assistance.
 

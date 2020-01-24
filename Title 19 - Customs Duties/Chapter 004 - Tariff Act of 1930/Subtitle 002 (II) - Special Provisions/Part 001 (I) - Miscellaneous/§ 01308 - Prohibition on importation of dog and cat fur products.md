@@ -70,7 +70,7 @@ In this section:
 
 #### (C) Factors in assessing penalties
 
-&emsp;&emsp;In determining the amount of civil penalties under this paragraph, the designated authority shall take into account the degree of culpability, any history of prior violations under this section, ability to pay, the seriousness of the violation, and such other matters as fairness may require.
+&emsp;&emsp;In determining the amount of civil penalties under this paragraph, the designatedauthority shall take into account the degree of culpability, any history of prior violations under this section, ability to pay, the seriousness of the violation, and such other matters as fairness may require.
 
 #### (D) Notice
 

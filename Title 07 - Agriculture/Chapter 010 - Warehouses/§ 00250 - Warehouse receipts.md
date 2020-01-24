@@ -44,7 +44,7 @@ Except as provided in section 242(h)(2) of this title, notwithstanding any other
 
 #### (5) Security interests
 
-&emsp;If more than one security interest exists in the agricultural product that is the subject of an electronic receipt or other electronic document under this chapter, the priority of the security interest shall be determined by the applicable Federal or State law.
+&emsp;If more than one security interest exists in the agricultural product that is the subject ofan electronic receipt or other electronic document under this chapter, the priority of the security interest shall be determined by the applicable Federal or State law.
 
 #### (6) No electronic receipt required
 

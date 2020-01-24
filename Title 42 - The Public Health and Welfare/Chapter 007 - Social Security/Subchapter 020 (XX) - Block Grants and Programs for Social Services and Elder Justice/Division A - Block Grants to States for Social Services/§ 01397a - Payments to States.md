@@ -2,7 +2,7 @@
 
 #### (a) Amount; covered services
 
-(1) Each State shall be entitled to payment under this division for each fiscal year in anamount equal to its allotment for such fiscal year, to be used by such State for services directed at the goals set forth in section 1397 of this title, subject to the requirements of this division.
+(1) Each State shall be entitled to payment under this division for each fiscal year in an amount equal to its allotment for such fiscal year, to be used by such State for services directed at the goals set forth in section 1397 of this title, subject to the requirements of this division.
 
 (2) For purposes of paragraph (1)—
 
@@ -74,7 +74,7 @@ Pub. L. 96–499, title X, §1001(b), Dec. 5, 1980, 94 Stat. 2655, provided that
 
 #### Reimbursement of Expenditures for Social Services Provided by States Prior to October 1, 1975; Authorization of Appropriations; Procedures Applicable to Payment of Unpaid Claims of States
 
-Pub. L. 95–291, June 12, 1978, 92 Stat. 304, authorized appropriations for payments to States in settlement of unpaid claims of States against the United States for reimbursement of expenditures made by States prior to Oct. 1, 1975, for services and administrative costs under a State plan pursuant to specific subchapters of this chapter, provided schedules for payment of a claim asserted prior to the ninety-first day after June 12, 1978, depending on when the claim was asserted, barred other claims and certain claims of the United States for recovery, provided for review of determinations, barred judicial review, and provided for allotment of appropriations for claims.
+Pub. L. 95–291, June 12, 1978, 92 Stat. 304, authorized appropriations for payments to States in settlement of unpaid claims of States against the United States forreimbursement of expenditures made by States prior to Oct. 1, 1975, for services and administrative costs under a State plan pursuant to specific subchapters of this chapter, provided schedules for payment of a claim asserted prior to the ninety-first day after June 12, 1978, depending on when the claim was asserted, barred other claims and certain claims of the United States for recovery, provided for review of determinations, barred judicial review, and provided for allotment of appropriations for claims.
 
 #### Payments to States for Fiscal Period Beginning July 1, 1976, and Ending September 30, 1976, and Fiscal Years Ending September 30, 1977, 1978, and 1979, Computation Amounts, Limitations, Etc.
 

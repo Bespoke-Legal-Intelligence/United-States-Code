@@ -12,7 +12,7 @@
 
 #### (b) Termination of representative offices
 
-The Board may order the termination of the activities of a representative office of a foreign bank on the basis of the standards, procedures, and requirements applicable under section 3105(e) of this title with respect to branches and agencies.
+The Board may order the termination of the activities of a representative office of a foreignbank on the basis of the standards, procedures, and requirements applicable under section 3105(e) of this title with respect to branches and agencies.
 
 #### (c) Examinations
 
@@ -38,7 +38,7 @@ The Bank Holding Company Act of 1956, referred to in subsec. (c), is act May 9, 
 
 <b>1991</b>—Pub. L. 102–242 amended section generally. Prior to amendment, section read as follows:
 
-"(a) Any foreign bank that maintains an office other than a branch or agency in any State shall registerwith the Secretary of the Treasury in accordance with rules prescribed by him, within one hundred and eighty days after September 17, 1978, or the date on which the office is established, whichever is later.
+"(a) Any foreign bank that maintains an office other than a branch or agency in any State shall register with the Secretary of the Treasury in accordance with rules prescribed by him, within one hundred and eighty days after September 17, 1978, or the date on which the office is established, whichever is later.
 
 "(b) This chapter does not authorize the establishment of any such office in any State in contravention of State law."
 

@@ -52,7 +52,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (4) Contributions
 
-&emsp;The company shall make contributions to the loss reserve, either cash or letters of creditas provided above, in the following amounts and at the following intervals:
+&emsp;The company shall make contributions to the loss reserve, either cash or letters of credit as provided above, in the following amounts and at the following intervals:
 
 &emsp;&emsp;(A) 50 percent when a debenture is closed.
 
@@ -122,7 +122,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (F) Qualified high loss reserve PCL
 
-&emsp;&emsp;The term "qualified high loss reserve PCL" means, with respect to any calendaryear, any premier certified lender designated by the Administrator as a qualified high loss reserve PCL for such year. The Administrator shall not designate a company under the preceding sentence unless the Administrator determines that—
+&emsp;&emsp;The term "qualified high loss reserve PCL" means, with respect to any calendar year, any premier certified lender designated by the Administrator as a qualified high loss reserve PCL for such year. The Administrator shall not designate a company under the preceding sentence unless the Administrator determines that—
 
 &emsp;&emsp;&emsp;(i) the amount of the loss reserve of the company is not less than $100,000;
 
@@ -132,7 +132,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (G) Specified risk management benchmarks
 
-&emsp;&emsp;For purposes of this paragraph, the term "specified risk management benchmarks" means the following rates, as determined by the Administrator:
+&emsp;&emsp;For purposes of this paragraph, the term "specified risk management benchmarks"means the following rates, as determined by the Administrator:
 
 &emsp;&emsp;&emsp;(i) Currency rate.
 
@@ -230,7 +230,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (f) Review
 
-After the issuance and sale of debentures under this section, the Administration, at intervals not greater than 12 months, shall review the financings made by each premier certified lender. The review shall include the lender's credit decisions and general compliance with the eligibility requirements for each financing approved under the program authorized under this section. The Administration shall consider the findings of the review in carrying out its responsibilities under subsection (g), but such review shall not affect any outstanding debenture guarantee.
+After the issuance and sale of debentures under this section, the Administration, at intervals not greater than 12 months, shall review the financings made by each premier certified lender. The review shall include the lender's credit decisions and general compliance with theeligibility requirements for each financing approved under the program authorized under this section. The Administration shall consider the findings of the review in carrying out its responsibilities under subsection (g), but such review shall not affect any outstanding debenture guarantee.
 
 #### (g) Suspension or revocation
 
@@ -304,7 +304,7 @@ Subsec. (b)(2). Pub. L. 105–135, §223(a)(2)(A)(i), struck out "if such compan
 
 Subsec. (b)(2)(A), (B). Pub. L. 105–135, §223(a)(2)(A)(ii), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
-"(A) has been an active participant in the accredited lenders program during the 12-month period preceding the date on which the company submits an application under paragraph (1), except that, prior to January 1, 1996, the Administration may waive this requirement ifthe company is qualified to participate in the accredited lenders program;
+"(A) has been an active participant in the accredited lenders program during the 12-month period preceding the date on which the company submits an application under paragraph (1), except that, prior to January 1, 1996, the Administration may waive this requirement if the company is qualified to participate in the accredited lenders program;
 
 "(B) has a history of submitting to the Administration adequately analyzed debenture guarantee application packages; and".
 

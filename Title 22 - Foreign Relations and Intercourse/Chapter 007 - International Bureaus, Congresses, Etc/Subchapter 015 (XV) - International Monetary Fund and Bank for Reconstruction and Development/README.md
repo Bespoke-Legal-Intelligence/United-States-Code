@@ -87,3 +87,5 @@
 - [&sect; 00286vv - Capital stock increases](%C2%A7%2000286vv%20-%20Capital%20stock%20increases.md)
 - [&sect; 00286ww - Acceptance of amendments to Articles of Agreement of Fund](%C2%A7%2000286ww%20-%20Acceptance%20of%20amendments%20to%20Articles%20of%20Agreement%20of%20Fund.md)
 - [&sect; 00286xx - Quota increase](%C2%A7%2000286xx%20-%20Quota%20increase.md)
+- [&sect; 00286yy - Opposition to assistance for any government that fails to implement sanctions on North Korea](%C2%A7%2000286yy%20-%20Opposition%20to%20assistance%20for%20any%20government%20that%20fails%20to%20implement%20sanctions%20on%20North%20Korea.md)
+- [&sect; 00286zz - Capital stock increases](%C2%A7%2000286zz%20-%20Capital%20stock%20increases.md)

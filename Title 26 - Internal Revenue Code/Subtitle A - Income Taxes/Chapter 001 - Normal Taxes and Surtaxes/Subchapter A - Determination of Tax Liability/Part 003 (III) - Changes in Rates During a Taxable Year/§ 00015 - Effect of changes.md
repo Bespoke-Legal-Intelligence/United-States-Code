@@ -36,7 +36,7 @@ If the change referred to in subsection (a) involves a change in the highest rat
 
 This section shall not apply to any change in rates under subsection (i) of section 1 (relating to rate reductions after 2000).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 12, §21; Pub. L. 88–272, title I, §132, Feb. 26, 1964, 78 Stat. 30; Pub. L. 91–172, title VIII, §803(e), Dec. 30, 1969, 83 Stat. 685; Pub. L. 92–178, title II, §205, Dec. 10, 1971, 85 Stat. 511; Pub. L. 94–12, title III, §305(b)(2), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–164, §4(d)(2), Dec. 23, 1975, 89 Stat. 975; Pub. L. 94–455, title IX, §901(c)(2), Oct. 4, 1976, 90 Stat. 1607; Pub. L. 95–30,title I, §101(d)(2), May 23, 1977, 91 Stat. 133; Pub. L. 95–600, title I, §106, Nov. 6, 1978, 92 Stat. 2776; Pub. L. 97–34, title I, §101(d)(3), Aug. 13, 1981, 95 Stat. 184; renumbered §15, Pub. L. 98–369, div. A, title IV, §474(b)(1), July 18, 1984, 98 Stat. 830; Pub. L. 99–514, title I, §101(b), Oct. 22, 1986, 100 Stat. 2099; Pub. L. 100–647, title I, §1006(a), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 107–16, title I, §101(c)(3), June 7, 2001, 115 Stat. 43.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 12, §21; Pub. L. 88–272, title I, §132, Feb. 26, 1964, 78 Stat. 30; Pub. L. 91–172, title VIII, §803(e), Dec. 30, 1969, 83 Stat. 685; Pub. L. 92–178, title II, §205, Dec. 10, 1971, 85 Stat. 511; Pub. L. 94–12, title III, §305(b)(2), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–164, §4(d)(2), Dec. 23, 1975, 89 Stat. 975; Pub. L. 94–455, title IX, §901(c)(2), Oct. 4, 1976, 90 Stat. 1607; Pub. L. 95–30, title I, §101(d)(2), May 23, 1977, 91 Stat. 133; Pub. L. 95–600, title I, §106, Nov. 6, 1978, 92 Stat. 2776; Pub. L. 97–34, title I, §101(d)(3), Aug. 13, 1981, 95 Stat. 184; renumbered §15, Pub. L. 98–369, div. A, title IV, §474(b)(1), July 18, 1984, 98 Stat. 830; Pub. L. 99–514, title I, §101(b), Oct. 22, 1986, 100 Stat. 2099; Pub. L. 100–647, title I, §1006(a), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 107–16, title I, §101(c)(3), June 7, 2001, 115 Stat. 43.)
 
 #### Amendments
 
@@ -122,7 +122,7 @@ Pub. L. 101–508, title XI, §11001(c), Nov. 5, 1990, 104 Stat. 1388–400, pro
 
 #### Coordination of 1987 Amendment With Section 15
 
-Pub. L. 100–203, title X, §10000(c), Dec. 22, 1987, 101 Stat. 1330–382, provided that: "No amendment made bythis title \[see Tables for classification\] shall be treated as a change in a rate of tax for purposes \[of\] section 15 of the Internal Revenue Code of 1986."
+Pub. L. 100–203, title X, §10000(c), Dec. 22, 1987, 101 Stat. 1330–382, provided that: "No amendment made by this title \[see Tables for classification\] shall be treated as a change in a rate of tax for purposes \[of\] section 15 of the Internal Revenue Code of 1986."
 
 #### Coordination of 1986 Amendment With Section 15
 

@@ -18,7 +18,7 @@
 
 #### (3) Priority in grants
 
-&emsp;In determining whether to make grants under this section, the Secretary shall give apriority to eligible entities that, as determined by the Secretary—
+&emsp;In determining whether to make grants under this section, the Secretary shall give a priority to eligible entities that, as determined by the Secretary—
 
 &emsp;&emsp;(A) possess the most substantial capability to increase their capacity to train realtime writers;
 
@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;To receive a grant under subsection (a), an eligible entity shall submit an application to the Secretary at such time and in such manner as the Secretary may require. The application shall contain the information set forth under paragraph (2).
+&emsp;To receive a grant under subsection (a), an eligible entity shall submit an application tothe Secretary at such time and in such manner as the Secretary may require. The application shall contain the information set forth under paragraph (2).
 
 #### (2) Information
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(A) an assessment by the entity of the effectiveness of activities carried out using such funds in increasing the number of realtime writers, using the performance measures submitted by the eligible entity in the application for the grant under subsection (b)(2); and
 
-&emsp;&emsp;(B) a description of the best practices identified by the eligible entity for increasing the number of individuals who are trained, employed, and retained in employment as realtime writers.
+&emsp;&emsp;(B) a description of the best practices identified by the eligible entity for increasingthe number of individuals who are trained, employed, and retained in employment as realtime writers.
 
 #### (3) Summaries
 

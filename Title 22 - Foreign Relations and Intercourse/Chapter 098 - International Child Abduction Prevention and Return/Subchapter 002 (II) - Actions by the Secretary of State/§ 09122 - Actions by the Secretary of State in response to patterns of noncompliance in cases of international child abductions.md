@@ -42,7 +42,7 @@ It is the policy of the United States—
 
 #### (2) Authority for delay of actions by the Secretary of State
 
-&emsp;The Secretary shall not be required to take action under paragraph (1) until the expiration of a single, additional period of up to 90 days if, on or before the date on which the Secretary of State is required to take such action, the Secretary determines and certifies to the appropriate congressional committees that such additional period is necessary—
+&emsp;The Secretary shall not be required to take action under paragraph (1) until the expiration of a single, additional period of up to 90 days if, on or before the date on which the Secretary of State is required to take such action,the Secretary determines and certifies to the appropriate congressional committees that such additional period is necessary—
 
 &emsp;&emsp;(A) for a continuation of negotiations that have been commenced with the government of a country described in paragraph (1) in order to bring about a cessation of the pattern of noncompliance by such country;
 
@@ -100,7 +100,7 @@ Except as provided in subsection (f), the actions by the Secretary of State refe
 
 #### (2) Notification
 
-&emsp;If commensurate action is taken pursuant to this subsection, the Secretary shall submit areport to the appropriate congressional committees that—
+&emsp;If commensurate action is taken pursuant to this subsection, the Secretary shall submit a report to the appropriate congressional committees that—
 
 &emsp;&emsp;(A) describes such action;
 

@@ -14,7 +14,7 @@
 
 &emsp;(4) certain actions and programs of the Federal Government have subsidized and permitted development on coastal barriers and the result has been the loss of barrier resources, threats to human life, health, and property, and the expenditure of millions of tax dollars each year; and
 
-&emsp;(5) a program of coordinated action by Federal, State, and local governments is critical to the more appropriate use and conservation of coastal barriers.
+&emsp;(5) a program of coordinated action by Federal, State, and local governments is criticalto the more appropriate use and conservation of coastal barriers.
 
 (b) The Congress declares that it is the purpose of this chapter to minimize the loss of human life, wasteful expenditure of Federal revenues, and the damage to fish, wildlife, and other natural resources associated with the coastal barriers along the Atlantic and Gulf coasts and along the shore areas of the Great Lakes by restricting future Federal expenditures and financial assistance which have the effect of encouraging development of coastal barriers, by establishing the John H. Chafee Coastal Barrier Resources System, and by considering the means and measures by which the long-term conservation of these fish, wildlife, and other natural resources may be achieved.
 
@@ -56,19 +56,5 @@ Pub. L. 97–348, §1, Oct. 18, 1982, 96 Stat. 1653, provided that: "This Act \[
 
 #### Economic Assessment of John H. Chafee Coastal Barrier Resources System
 
-Pub. L. 106–514, §7, Nov. 13, 2000, 114 Stat. 2397, provided that:
-
-"(a)
-
-In General.—Not later than 1 year after the date of enactment of this Act \[Nov. 13, 2000\], the Secretary of the Interior shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives an economic assessment of the John H. Chafee Coastal Barrier Resources System.
-
-"(b)
-
-Required Elements.—The assessment shall consider the impact on Federal expenditures of the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.), including impacts resulting from the avoidance of Federal expenditures for—
-
-&emsp;"(1) disaster relief under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.);
-
-&emsp;"(2) the national flood insurance program established under chapter 1 of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.); and
-
-&emsp;"(3) development assistance for roads, potable water supplies, and wastewater infrastructure."
+Pub. L. 106–514, §7, Nov. 13, 2000, 114 Stat. 2397, required the Secretary of the Interior to submit to Congress, no later than 1 year after Nov. 13, 2000, an economic assessment of the John H. Chafee Coastal Barrier Resources System that would consider the impact on Federal expenditures of the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.).
 

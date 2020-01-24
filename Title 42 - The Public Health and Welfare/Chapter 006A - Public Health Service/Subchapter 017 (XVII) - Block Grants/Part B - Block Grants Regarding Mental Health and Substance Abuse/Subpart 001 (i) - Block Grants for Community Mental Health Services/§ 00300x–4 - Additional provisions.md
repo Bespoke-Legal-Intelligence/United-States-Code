@@ -22,7 +22,7 @@ The Secretary may make a grant under section 300x of this title to a State only 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may, upon the request of a State, waive the requirement established inparagraph (1) in whole or in part if the Secretary determines that extraordinary economic conditions in the State in the fiscal year involved or in the previous fiscal year justify the waiver <sup>1</sup>
+&emsp;&emsp;The Secretary may, upon the request of a State, waive the requirement established in paragraph (1) in whole or in part if the Secretary determines that extraordinary economic conditions in the State in the fiscal year involved or in the previous fiscal year justify the waiver <sup>1</sup>
 
 #### (B) Date certain for action upon request
 

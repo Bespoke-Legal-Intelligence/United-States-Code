@@ -6,7 +6,7 @@
 
 &emsp;(2) acquire, collect, classify, and preserve any information which would assist in the identification of any deceased individual who has not been identified after the discovery of such deceased individual;
 
-&emsp;(3) acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney Generalmay acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin); and
+&emsp;(3) acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney General may acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin); and
 
 &emsp;(4) exchange such records and information with, and for the official use of, authorized officials of the Federal Government, including the United States Sentencing Commission, the States, including State sentencing commissions, Indian tribes, cities, and penal and other institutions.
 
@@ -46,7 +46,7 @@ Indian Law Enforcement Agencies.—The Attorney General shall permit tribal and 
 
 &emsp;&emsp;(ii) any support, child custody or visitation provisions, orders, remedies, or relief issued as part of a protection order, restraining order, or stay away injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, dating violence, sexual assault, or stalking.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, §204(c), div. B, title IV, §4003(b)(4), div. C, title I, §11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816; Pub. L. 109–162, title I, §118, title IX, §905(a), Jan. 5, 2006, 119 Stat. 2989, 3079; Pub. L. 109–248, title I, §153(i), July 27, 2006, 120 Stat. 611; Pub. L. 111–211, title II, §233(a), July 29, 2010, 124 Stat. 2279; Pub. L. 111–369, §2, Jan. 4, 2011, 124 Stat. 4068.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322,title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, §204(c), div. B, title IV, §4003(b)(4), div. C, title I, §11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816; Pub. L. 109–162, title I, §118, title IX, §905(a), Jan. 5, 2006, 119 Stat. 2989, 3079; Pub. L. 109–248, title I, §153(i), July 27, 2006, 120 Stat. 611; Pub. L. 111–211, title II, §233(a), July 29, 2010, 124 Stat. 2279; Pub. L. 111–369, §2, Jan. 4, 2011, 124 Stat. 4068.)
 
 Historical and Revision Notes
 
@@ -130,7 +130,7 @@ Pub. L. 109–162, title IX, §905(b), Jan. 5, 2006, 119 Stat. 3080, as amended 
 
 #### National Gang Intelligence Center
 
-Pub. L. 109–162, title XI, §1107, Jan. 5, 2006, 119 Stat. 3093, as amended by Pub. L. 111–211, title II, §251(a), July 29, 2010, 124 Stat. 2297, providing for the establishment of the National Gang Intelligence Center, was editorially reclassified as section 41507 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 109–162, title XI, §1107, Jan. 5, 2006, 119 Stat. 3093, as amended by Pub. L. 111–211, title II, §251(a),July 29, 2010, 124 Stat. 2297, providing for the establishment of the National Gang Intelligence Center, was editorially reclassified as section 41507 of Title 34, Crime Control and Law Enforcement.
 
 #### Reviews of Criminal Records of Applicants for Private Security Officer Employment
 

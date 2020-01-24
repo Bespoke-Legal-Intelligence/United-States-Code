@@ -6,11 +6,11 @@
 
 &emsp;(2) information with respect to the acquisition and disposal of materials under this subchapter by barter, as provided for in section 98e(c) of this title, during such fiscal year;
 
-&emsp;(3) information with respect to the activities by the Stockpile Manager to encourage the conservation, substitution, and development of strategic and critical materials within the United States;
+&emsp;(3) information with respect to the activities by the Stockpile Manager to encourage theconservation, substitution, and development of strategic and critical materials within the United States;
 
 &emsp;(4) information with respect to the research and development activities conducted under sections 98a and 98g of this title;
 
-&emsp;(5) a statement and explanation of the financial status of the National Defense StockpileTransaction Fund and the anticipated appropriations to be made to the fund, and obligations to be made from the fund, during the current fiscal year; and
+&emsp;(5) a statement and explanation of the financial status of the National Defense Stockpile Transaction Fund and the anticipated appropriations to be made to the fund, and obligations to be made from the fund, during the current fiscal year; and
 
 &emsp;(6) such other pertinent information on the administration of this subchapter as will enable the Congress to evaluate the effectiveness of the program provided for under this subchapter and to determine the need for additional legislation.
 
@@ -60,7 +60,7 @@ Subsec. (b)(3). Pub. L. 102–190, §3311(b)(1), designated third sentence of su
 
 Subsec. (b). Pub. L. 100–456, §1503(b), substituted "the next fiscal year" for "such fiscal year" and "all planned expenditures from the National Defense Stockpile Transaction Fund" for "planned expenditures for acquisition of strategic and critical materials" and inserted at end "Any proposed expenditure or disposal detailed in the annual materials plan for any such fiscal year, and any expenditure or disposal proposed in connection with any transaction submitted for such fiscal year to the appropriate committees of Congress pursuant to section 98d(a)(2) of this title, that is not obligated or executed in that fiscal year may not be obligated or executed until such proposed expenditure or disposal is resubmitted in a subsequent annual materials plan or is resubmitted to the appropriate committees of Congress in accordance with section 98d(a)(2) of this title, as appropriate."
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–180 substituted "Not later than February 15 of each year, the President" for"The President" and struck out "each year, at the time that the Budget is submitted to Congress pursuant to section 1105 of title 31 for the next fiscal year," after "Congress".
+<b>1987</b>—Subsec. (b). Pub. L. 100–180 substituted "Not later than February 15 of each year, the President" for "The President" and struck out "each year, at the time that the Budget is submitted to Congress pursuant to section 1105 of title 31 for the next fiscal year," after "Congress".
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–661 substituted "each year, at the time that the Budget is submitted to Congress pursuant to section 1105 of title 31 for the next fiscal year," for each year with the Budget submitted to Congress pursuant to section 201a of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a)), for the next fiscal year".
 

@@ -22,11 +22,11 @@
 
 (d)(1) The amount of disability severance pay received under this section shall be deducted from any compensation for the same disability to which the former member of the armed forces or his dependents become entitled under any law administered by the Department of Veterans Affairs.
 
-(2) No deduction may be made under paragraph (1) in the case of disability severance payreceived by a member for a disability incurred in line of duty in a combat zone or incurred during performance of duty in combat-related operations as designated by the Secretary of Defense.
+(2) No deduction may be made under paragraph (1) in the case of disability severance pay received by a member for a disability incurred in line of duty in a combat zone or incurred during performance of duty in combat-related operations as designated by the Secretary of Defense.
 
 (3) No deduction may be made under paragraph (1) from any death compensation to which a member's dependents become entitled after the member's death.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 98; Pub. L. 96–513, title V, §511(43), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 107–107, div. A, title V, §593(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title XVI, §1646(a), (b), Jan. 28, 2008, 122 Stat. 472.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 98; Pub. L. 96–513, title V, §511(43), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 101–189, div. A, title XVI,§1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 107–107, div. A, title V, §593(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title XVI, §1646(a), (b), Jan. 28, 2008, 122 Stat. 472.)
 
 Historical and Revision Notes
 

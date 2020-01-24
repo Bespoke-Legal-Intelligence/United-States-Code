@@ -18,7 +18,7 @@ New vessel.—The term "new vessel" means—
 
 &emsp;&emsp;&emsp;(ii) documented or agreed with the Secretary to be documented under the laws of the United States; and
 
-&emsp;&emsp;&emsp;(iii)(I) of a type, size, and speed that the Secretary determines is suitable for use on the high seas or Great Lakes in carrying out this subtitle, but not less than 2,000 gross tons or less than 12 knots speed unless the Secretary certifies in each case that a vessel of lesser tonnage or speed isdesirable for use by the United States Government in case of war or national emergency; or
+&emsp;&emsp;&emsp;(iii)(I) of a type, size, and speed that the Secretary determines is suitable for use on the high seas or Great Lakes in carrying out this subtitle, but not less than 2,000 gross tons or less than 12 knots speed unless the Secretary certifies in each case that a vessel of lesser tonnage or speed is desirable for use by the United States Government in case of war or national emergency; or
 
 &emsp;&emsp;&emsp;(II) constructed to replace a vessel bought or requisitioned by the Government; and
 

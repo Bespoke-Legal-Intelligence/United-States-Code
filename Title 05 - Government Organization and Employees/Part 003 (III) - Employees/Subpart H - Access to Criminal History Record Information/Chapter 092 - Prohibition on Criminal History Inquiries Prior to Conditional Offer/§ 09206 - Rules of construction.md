@@ -1,0 +1,10 @@
+### §9206. Rules of construction
+
+Nothing in this chapter may be construed to—
+
+&emsp;(1) authorize any officer or employee of an agency to request the disclosure of information described under subparagraphs (B) and (C) of section 9201(4); or
+
+&emsp;(2) create a private right of action for any person.
+
+(Added Pub. L. 116–92, div. A, title XI, §1122(a), Dec. 20, 2019, 133 Stat. 1607.)
+

@@ -114,7 +114,7 @@ Pub. L. 115–254, div. B, title III, §379, Oct. 5, 2018, 132 Stat. 3318, provi
 
 In General.—Not later than 270 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall, to the extent practicable and consistent with applicable law, make available in a single location on the website of the Department of Transportation:
 
-&emsp;"(1) Any certificate of waiver or authorization issued by the Administration to Federal, State, tribalor local governments for the operation of unmanned aircraft systems within 30 days of issuance of such certificate of waiver or authorization.
+&emsp;"(1) Any certificate of waiver or authorization issued by the Administration to Federal, State, tribal or local governments for the operation of unmanned aircraft systems within 30 days of issuance of such certificate of waiver or authorization.
 
 &emsp;"(2) A spreadsheet of UAS registrations, including the city, state \[probably should be "State"\], and zip code of each registered drone owner, on its website that is updated once per quarter each calendar year.
 

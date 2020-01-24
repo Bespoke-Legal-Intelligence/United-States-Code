@@ -14,7 +14,7 @@
 
 #### (2) Transfer of responsibilities
 
-&emsp;Each agency that, on the day before July 21, 2010, assigned the responsibilities described inparagraph (1) (or comparable responsibilities) to another office of the agency shall ensure that such responsibilities are transferred to the Office.
+&emsp;Each agency that, on the day before July 21, 2010, assigned the responsibilities described in paragraph (1) (or comparable responsibilities) to another office of the agency shall ensure that such responsibilities are transferred to the Office.
 
 #### (3) Duties with respect to civil rights laws
 

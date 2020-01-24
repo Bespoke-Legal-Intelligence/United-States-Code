@@ -6,7 +6,7 @@
 
 Delivery of notices.—A notice under paragraph (1) shall be delivered by any form of delivery that the Secretary determines will provide evidence of the delivery.
 
-(3) If such store, concern, or State agency is aggrieved by such action, it may, in accordance with regulations promulgated under this chapter, within ten days of the date of delivery ofsuch notice, file a written request for an opportunity to submit information in support of its position to such person or persons as the regulations may designate.
+(3) If such store, concern, or State agency is aggrieved by such action, it may, in accordance with regulations promulgated under this chapter, within ten days of the date of delivery of such notice, file a written request for an opportunity to submit information in support of its position to such person or persons as the regulations may designate.
 
 (4) If such a request is not made or if such store, concern, or State agency fails to submit information in support of its position after filing a request, the administrative determination shall be final.
 

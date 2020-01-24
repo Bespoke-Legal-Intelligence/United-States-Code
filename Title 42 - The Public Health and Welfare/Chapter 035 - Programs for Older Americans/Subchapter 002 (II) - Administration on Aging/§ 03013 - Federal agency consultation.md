@@ -84,7 +84,7 @@ For the purposes of subsection (a), programs related to the objectives of this c
 
 &emsp;&emsp;(ii) innovations in technology applications (including assistive technology devices and assistive technology services) that give older individuals access to information on available services or that help in providing services to older individuals;
 
-&emsp;(C) collect and disseminate information about older individuals and the programs and services available to the individuals to ensure that the individuals can access comprehensive information;
+&emsp;(C) collect and disseminate information about older individuals and the programs andservices available to the individuals to ensure that the individuals can access comprehensive information;
 
 &emsp;(D) work with the Federal Interagency Forum on Aging-Related Statistics, the Bureau of the Census, and member agencies to ensure the continued collection of data relating to the housing, health care, and other supportive service needs of older individuals and to support efforts to identify and address unmet data needs;
 
@@ -130,7 +130,7 @@ The Housing and Community Development Act of 1974, referred to in subsec. (b)(7)
 
 The Higher Education Act of 1965, referred to in subsec. (b)(8), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title I of the Higher Education Act of 1965 is classified generally to subchapter I (§1001 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Adult Education and Family Literacy Act, referred to in subsec. (b)(8), was title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, which was classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pub. L. 113–128 also included a title II, entitled the "Adult Education and Family Literacy Act", which is classified generally to subchapter II (§3271 et seq.) of chapter 32 of Title 29, Labor. Pursuant to section 3361(a) of Title 29, references to a provision of Pub. L. 105–220 are deemed to refer to the corresponding provision of Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of title II of Pub. L. 105–220 to the Code, see Tables. For complete classification of title II of Pub. L. 113–128 to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (b)(8), was title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, which was classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education, and was repealed by Pub. L. 113–128,title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pub. L. 113–128 also included a title II, entitled the "Adult Education and Family Literacy Act", which is classified generally to subchapter II (§3271 et seq.) of chapter 32 of Title 29, Labor. Pursuant to section 3361(a) of Title 29, references to a provision of Pub. L. 105–220 are deemed to refer to the corresponding provision of Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of title II of Pub. L. 105–220 to the Code, see Tables. For complete classification of title II of Pub. L. 113–128 to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Public Health Service Act, referred to in subsec. (b)(10), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. Title XIX of the Public Health Service Act is classified to subchapter XVII (§300w et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
@@ -215,6 +215,10 @@ Subsec. (b). Pub. L. 97–115, §2(d)(2), substituted "purposes of this chapter"
 <b>1978</b>—Subsec. (a). Pub. L. 95–478 added subsec. (a) and struck out similar prior provisions stating that "Federal agencies proposing to establish programs substantially related to the purposes of this chapter shall consult with the Administration on Aging prior to the establishment of such services, and Federal agencies administering such programs shall cooperate with the Administration on Aging in carrying out such services".
 
 Subsec. (b). Pub. L. 95–478 added subsec. (b).
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2014 Amendment
 

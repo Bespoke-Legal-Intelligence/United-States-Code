@@ -62,7 +62,7 @@
 
 (2) Amounts paid under paragraph (1) may not exceed amounts determined at the maximum rate payable for a position at GS–13 of the General Schedule.
 
-(g) A former employee separated by reason of reduction in force or transfer of function who within one year after the separation is reemployed by a nontemporary appointment at a different geographical location from that where the separation occurred, may be allowed and paid the expenses authorized by sections 5724, 5725, 5726(b), and 5727 of this title, and may receive the benefits authorized by subsections (a) through (f) of this section, in the same manner as though the employee had been transferred in the interest of the Government without a break in service to the location of reemployment from the location where separated.
+(g) A former employee separated by reason of reduction in force or transfer of function who within one year after the separation is reemployed by a nontemporary appointment at a different geographical location from that where the separation occurred, may be allowed and paid the expenses authorized by sections 5724, 5725, 5726(b), and 5727 of this title, and may receive the benefits authorized by subsections (a)through (f) of this section, in the same manner as though the employee had been transferred in the interest of the Government without a break in service to the location of reemployment from the location where separated.
 
 (h) Payments for subsistence expenses, including amounts in lieu of per diem or actual subsistence expenses or a combination thereof, authorized under this section may not exceed the maximum payment allowed under regulations which implement section 5702 of this title.
 
@@ -98,7 +98,7 @@ In subsection (a), the word "agency" is substituted for "department" to conform 
 
 In subsection (b), the words "this subchapter" and "subsection (a) of this section or section 5724(a) of this title" are substituted for "this Act" and "section 1(a) or section 23 of this Act", respectively, to reflect the codification of the act in 5 U.S.C. The word "officer" is omitted as included in "employee". The words "in the General Schedule of the Classification Act of 1949, as amended" are omitted as unnecessary.
 
-In subsection (c), the word "officer" is omitted as included in "employee". The words "sections 5724, 5725,5726(b), and 5727 of this title" and "subsections (a) and (b) of this section" are substituted for "section 1 of this Act" and "sections 23 and 24 of this Act", respectively, to reflect the codification of the act in title 5, United States Code.
+In subsection (c), the word "officer" is omitted as included in "employee". The words "sections 5724, 5725, 5726(b), and 5727 of this title" and "subsections (a) and (b) of this section" are substituted for "section 1 of this Act" and "sections 23 and 24 of this Act", respectively, to reflect the codification of the act in title 5, United States Code.
 
 #### References in Text
 
@@ -148,7 +148,7 @@ Subsecs. (f) to (j). Pub. L. 104–201, §1718, added subsecs. (f) to (j).
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–510 struck out "continental" before "United States" in second sentence.
 
-<b>1987</b>—Subsec. (a)(4)(A). Pub. L. 100–202 inserted provisions authorizing reimbursement of expenses of selling residence of employee at official station from which employee was transferred when assigned to duty outside United States, its territories or possessions, Puerto Rico, or parts of Panama, provisions authorizing reimbursement of expenses of purchasing residence at new official station in United States, its territories or possessions, Puerto Rico, or parts of Panama, and provisions disallowing reimbursement of expenses in connection with transfers from a post of duty located outside the United States, its territories or possessions, Puerto Rico, or parts of Panama, for any transaction that occurs prior to official notification that employee's return to the United States would be to official station other than official station from which employee was transferred.
+<b>1987</b>—Subsec. (a)(4)(A). Pub. L. 100–202 inserted provisions authorizing reimbursement of expenses of selling residence of employee at official station from whichemployee was transferred when assigned to duty outside United States, its territories or possessions, Puerto Rico, or parts of Panama, provisions authorizing reimbursement of expenses of purchasing residence at new official station in United States, its territories or possessions, Puerto Rico, or parts of Panama, and provisions disallowing reimbursement of expenses in connection with transfers from a post of duty located outside the United States, its territories or possessions, Puerto Rico, or parts of Panama, for any transaction that occurs prior to official notification that employee's return to the United States would be to official station other than official station from which employee was transferred.
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–234, §105(1), (2), substituted "allowance or" for "allowance instead of" and "maximum payment permitted under regulations which implement section 5702 of this title" for "maximum per diem rates prescribed by or under section 5702 of this title".
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–202, §101(m) \[title VI, §628(a)(2)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–431, provided that: "Theamendments made by paragraph (2) \[probably means par. (1) which amended this section\] shall be applicable with respect to any employee transferred to or from a post of duty on or after 60 days after the date of enactment of this section \[Dec. 22, 1987\]."
+Pub. L. 100–202, §101(m) \[title VI, §628(a)(2)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–431, provided that: "The amendments made by paragraph (2) \[probably means par. (1) which amended this section\] shall be applicable with respect to any employee transferred to or from a post of duty on or after 60 days after the date of enactment of this section \[Dec. 22, 1987\]."
 
 #### Effective Date of 1986 Amendment
 

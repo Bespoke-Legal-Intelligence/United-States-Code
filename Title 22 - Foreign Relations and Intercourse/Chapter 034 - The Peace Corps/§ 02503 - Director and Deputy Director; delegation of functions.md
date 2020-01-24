@@ -46,7 +46,7 @@ Transfer to President of the United States of functions conferred upon Director 
 
 #### Delegation of Functions
 
-Functions of President under subsecs. (c)(1), (4), (d) delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (b) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
+Functions of President under subsecs. (c)(1), (4), (d) delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (b) of Ex. Ord. No. 12137, May 16, 1979, 44F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
 #### Conforming Safety and Security Agreement Regarding Peace Corps Volunteers Serving in Foreign Countries
 

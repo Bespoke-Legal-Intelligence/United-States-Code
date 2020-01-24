@@ -112,7 +112,7 @@
 
 &emsp;(20) employees employed on a fee, contract, or piece work basis;
 
-&emsp;(21) employees who may lawfully perform their duties concurrently with their privateprofession, business, or other employment, and whose duties require only a portion of their time, when it is impracticable to ascertain or anticipate the proportion of time devoted to the service of the Government of the United States;
+&emsp;(21) employees who may lawfully perform their duties concurrently with their private profession, business, or other employment, and whose duties require only a portion of their time, when it is impracticable to ascertain or anticipate the proportion of time devoted to the service of the Government of the United States;
 
 &emsp;(22) "teachers" and "teaching positions" as defined by section 901 of title 20;
 
@@ -398,7 +398,7 @@ Subsec. (c)(4). Pub. L. 91–358 expanded reference to include chief judges, sub
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
 
 #### Effective Date of 2010 Amendment
 
@@ -460,7 +460,7 @@ Amendment by Pub. L. 91–358 effective first day of seventh calendar month whic
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–34 effective at beginning of first pay period which commences on or after June 30, 1969, see section 3(a) of Pub. L. 91–34, set out as an Effective Date note under section 5375 of this title.
+Amendment by Pub. L. 91–34 effective at beginning of first pay period which commences on or after June 30,1969, see section 3(a) of Pub. L. 91–34, set out as an Effective Date note under section 5375 of this title.
 
 #### Effective Date of 1968 Amendment
 

@@ -14,5 +14,5 @@ Pub. L. 96–369, §118, Oct. 1, 1980, 94 Stat. 1357, provided that: "Notwithsta
 
 #### Executive Order No. 12256
 
-Ex. Ord. No. 12256, Dec. 15, 1980, 45 F.R. 83189, which required the Bureau of the Census to supply estimatesof the number of legal immigrants within certain jurisdictions, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 12256, Dec. 15, 1980, 45 F.R. 83189, which required the Bureau of the Census to supply estimates of the number of legal immigrants within certain jurisdictions, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 

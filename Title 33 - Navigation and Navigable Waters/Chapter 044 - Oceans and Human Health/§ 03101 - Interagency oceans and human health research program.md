@@ -50,7 +50,7 @@ The program may include the following activities related to the role of oceans i
 
 &emsp;&emsp;(B) biomaterials and bioengineering;
 
-&emsp;&emsp;(C) in situ and remote sensors used to detect, quantify, and predict the presence andspread of contaminants in marine waters and organisms and to identify new genetic resources for biomedical purposes;
+&emsp;&emsp;(C) in situ and remote sensors used to detect, quantify, and predict the presence and spread of contaminants in marine waters and organisms and to identify new genetic resources for biomedical purposes;
 
 &emsp;&emsp;(D) techniques for supplying marine resources, including chemical synthesis, culturing and aquaculturing marine organisms, new fermentation methods and recombinant techniques; and
 

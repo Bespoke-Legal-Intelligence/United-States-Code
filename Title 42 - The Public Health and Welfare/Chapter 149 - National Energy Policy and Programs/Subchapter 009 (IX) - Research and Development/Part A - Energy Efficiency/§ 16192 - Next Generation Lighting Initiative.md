@@ -80,7 +80,7 @@ In carrying out this section, the Secretary shall require cost sharing in accord
 
 #### (h) Intellectual property
 
-The Secretary may require (in accordance with section 202(a)(ii) of title 35, section 2182 ofthis title, and section 5908 of this title) that for any new invention developed under subsection (e)—
+The Secretary may require (in accordance with section 202(a)(ii) of title 35, section 2182 of this title, and section 5908 of this title) that for any new invention developed under subsection (e)—
 
 &emsp;(1) that the Industry Alliance participants who are active participants in research, development, and demonstration activities related to the advanced solid-state lighting technologies that are covered by this section shall be granted the first option to negotiate with the invention owner, at least in the field of solid-state lighting, nonexclusive licenses and royalties on terms that are reasonable under the circumstances;
 

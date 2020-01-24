@@ -2,7 +2,7 @@
 
 #### (1) In general
 
-Subject to paragraph (3), the development, recognition, or implementation of any guideline or other standard under any Federal health care provision shall not be construed to establish thestandard of care or duty of care owed by a health care provider to a patient in any medical malpractice or medical product liability action or claim.
+Subject to paragraph (3), the development, recognition, or implementation of any guideline or other standard under any Federal health care provision shall not be construed to establish the standard of care or duty of care owed by a health care provider to a patient in any medical malpractice or medical product liability action or claim.
 
 #### (2) Definitions
 

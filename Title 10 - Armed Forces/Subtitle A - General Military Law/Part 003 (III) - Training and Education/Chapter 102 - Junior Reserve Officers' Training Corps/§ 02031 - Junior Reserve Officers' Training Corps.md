@@ -6,7 +6,7 @@
 
 (b) No unit may be established or maintained at an institution unless—
 
-&emsp;(1) the number of physically fit students in such unit who are in a grade above the 8th grade and are citizens or nationals of the United States, or aliens lawfully admitted to the United States for permanent residence, is not less than (A) 10 percent of the number of students enrolled in the institution who are in a grade above the 8th grade, or (B) 100, whichever is less;
+&emsp;(1) the number of physically fit students in such unit who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit and are citizens or nationals of the United States, or aliens lawfully admitted to the United States for permanent residence, is not less than (A) 10 percent of the number of students enrolled in the institution who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit, or (B) 100, whichever is less;
 
 &emsp;(2) the institution has adequate facilities for classroom instruction, storage of arms and other equipment which may be furnished in support of the unit, and adequate drill areas at or in the immediate vicinity of the institution, as determined by the Secretary of the military department concerned;
 
@@ -30,7 +30,7 @@
 
 &emsp;(2) Notwithstanding any other provision of law, such a retired member is not, while so employed, considered to be on active duty or inactive duty training for any purpose.
 
-(e) Instead of, or in addition to, detailing officers and noncommissioned officers on activeduty under subsection (c)(1) and authorizing the employment of retired officers and noncommissioned officers who are in receipt of retired pay and members of the Fleet Reserve and Fleet Marine Corps Reserve under subsection (d), the Secretary of the military department concerned may authorize qualified institutions to employ as administrators and instructors in the program officers and noncommissioned officers who are under 60 years of age and who, but for age, would be eligible for retired pay for non-regular service under section 12731 of this title and whose qualifications are approved by the Secretary and the institution concerned and who request such employment, subject to the following:
+(e) Instead of, or in addition to, detailing officers and noncommissioned officers on active duty under subsection (c)(1) and authorizing the employment of retired officers and noncommissioned officers who are in receipt of retired pay and members of the Fleet Reserve and Fleet Marine Corps Reserve under subsection (d), the Secretary of the military department concerned may authorize qualified institutions to employ as administrators and instructors in the program officers and noncommissioned officers who are under 60 years of age and who, but for age, would be eligible for retired pay for non-regular service under section 12731 of this title and whose qualifications are approved by the Secretary and the institution concerned and who request such employment, subject to the following:
 
 &emsp;(1) The Secretary concerned shall pay to the institution an amount equal to one-half of the amount paid to the member by the institution for any period, up to a maximum of one-half of the difference between—
 
@@ -60,9 +60,23 @@
 
 (5) The provision of reimbursement under paragraph (1) or (4) shall be subject to regulations prescribed by the Secretary of Defense for purposes of this subsection.
 
-(Added Pub. L. 88–647, title I, §101(1), Oct. 13, 1964, 78 Stat. 1063; amended Pub. L. 89–718, §16, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, §3(4), Sept. 11, 1967, 81 Stat. 220; Pub. L. 93–165, Nov. 29, 1973, 87 Stat. 660; Pub. L. 94–361, title VIII, §807, July 14, 1976, 90 Stat. 933; Pub. L. 95–358, Sept. 8, 1978, 92 Stat. 592; Pub. L. 98–525, title IV, §422, title XIV, §1405(32), Oct. 19, 1984, 98 Stat. 2520, 2624; Pub. L. 100–26, §7(i)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 102–484, div. A, title V, §533(a)–(e)(1), Oct. 23, 1992, 106 Stat. 2411, 2412; Pub. L. 103–160, div. A, title XI, §1182(g)(1), Nov. 30, 1993, 107 Stat. 1774; Pub. L. 107–107, div. A, title V, §537, Dec. 28, 2001, 115 Stat. 1107; Pub. L. 109–364, div. A, title V, §540, Oct. 17, 2006, 120 Stat. 2211; Pub. L. 110–181, div. A, title VI, §635, Jan. 28, 2008, 122 Stat. 155.)
+(g)(1) Each public secondary educational institution that maintains a unit under this section shall permit membership in the unit to homeschooled students residing in the area served by the institution who are qualified for membership in the unit (but for lack of enrollment in the institution).
+
+(2) A student who is a member of a unit pursuant to this subsection shall count toward the satisfaction by the institution concerned of the requirement in subsection (b)(1) relating to the minimum number of student members in the unit necessary for the continuing maintenance of the unit.
+
+(Added Pub. L. 88–647, title I, §101(1), Oct. 13, 1964, 78 Stat. 1063; amended Pub. L. 89–718, §16, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, §3(4), Sept. 11, 1967, 81 Stat. 220; Pub. L. 93–165, Nov. 29, 1973, 87 Stat. 660; Pub. L. 94–361, title VIII, §807, July 14, 1976, 90 Stat. 933; Pub. L. 95–358, Sept. 8, 1978, 92 Stat. 592; Pub. L. 98–525, title IV, §422, title XIV, §1405(32), Oct. 19, 1984, 98 Stat. 2520, 2624; Pub. L. 100–26, §7(i)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 102–484, div. A, title V, §533(a)–(e)(1), Oct. 23, 1992, 106 Stat. 2411, 2412; Pub. L. 103–160, div. A, title XI, §1182(g)(1), Nov. 30, 1993, 107 Stat. 1774; Pub. L. 107–107, div. A, title V, §537, Dec. 28, 2001, 115 Stat. 1107; Pub. L. 109–364, div. A, title V, §540, Oct. 17, 2006, 120 Stat. 2211; Pub. L. 110–181, div. A, title VI, §635, Jan. 28, 2008, 122 Stat. 155; Pub. L. 116–92, div. A, title V, §§511, 512(a), 513, Dec. 20, 2019, 133 Stat. 1348.)
+
+#### Amendment of Subsection (b)(3)
+
+<i>Pub. L. 116–92, div. A, title V, §512, Dec. 20, 2019, 133 Stat. 1348, provided that, effective 180 days after Dec. 20, 2019, subsection (b)(3) of this section is amended by inserting "and which may include instruction or activities in the fields of science, technology, engineering, and mathematics" after "duration". See 2019 Amendment note below.</i>
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(1). Pub. L. 116–92, §511, substituted "above the 7th grade and physically co-located with the 9th grade participating unit" for "above the 8th grade" in two places.
+
+Subsec. (b)(3). Pub. L. 116–92, §512(a), inserted "and which may include instruction or activities in the fields of science, technology, engineering, and mathematics" after "duration".
+
+Subsec. (g). Pub. L. 116–92, §513, added subsec. (g).
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–181 added subsec. (f).
 
@@ -86,7 +100,7 @@ Subsec. (d)(1). Pub. L. 102–484, §533(e)(1), amended par. (1) generally. Prio
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–525, §1405(32), substituted "October 13, 1964" for "the date of enactment of this section".
 
-Subsec. (b)(1). Pub. L. 98–525, §422(1), substituted "the number of physically fit students in such unit who areat least 14 years of age and are citizens or nationals of the United States is not less than (A) 10 percent of the number of students enrolled in the institution who are at least 14 years of age, or (B) 100, whichever is less" for "the unit contains at least 100 physically fit students who are at least 14 years of age and are citizens or nationals of the United States".
+Subsec. (b)(1). Pub. L. 98–525, §422(1), substituted "the number of physically fit students in such unit who are at least 14 years of age and are citizens or nationals of the United States is not less than (A) 10 percent of the number of students enrolled in the institution who are at least 14 years of age, or (B) 100, whichever is less" for "the unit contains at least 100 physically fit students who are at least 14 years of age and are citizens or nationals of the United States".
 
 Subsec. (b)(5). Pub. L. 98–525, §422(2)–(4), added par. (5).
 
@@ -100,13 +114,17 @@ Subsec. (b)(5). Pub. L. 98–525, §422(2)–(4), added par. (5).
 
 <b>1966</b>—Subsec. (d). Pub. L. 89–718 capitalized first letter of first word in cls. (1) and (2).
 
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–92, div. A, title V, §512(b), Dec. 20, 2019, 133 Stat. 1348, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Dec. 20, 2019\]."
+
 #### Effective Date of 1992 Amendment
 
 Pub. L. 102–484, div. A, title V, §533(e)(2), Oct. 23, 1992, 106 Stat. 2412, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to payments for periods of instructor service performed after September 30, 1992."
 
 #### Short Title
 
-Pub. L. 88–647, §1, Oct. 13, 1964, 78 Stat. 1063, provided: "That the Act \[enacting this chapter, and chapter 103 of this title, amending section 802 of former Title 5, sections 1475, 1478, 1481, 3201, 4348, 5404, 5504, 5652b, 6023, 6387, 6959, 8201, and 9348 of this title, and sections 205, 209, 415, 416 and 422 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 3355, 3540, 4381 to 4387, 6901 to 6906, 6908, 6910, 8355, 8540, and 9381 to 9387 of this title, and enacting provisions set out as notes under this section and section 2107 and former section 9385 of this title, may be cited as the 'Reserve Officers' Training Corps Vitalization Act of 1964'."
+Pub. L. 88–647, §1, Oct. 13, 1964, 78 Stat. 1063, provided: "That the Act \[enacting this chapter, and chapter 103of this title, amending section 802 of former Title 5, sections 1475, 1478, 1481, 3201, 4348, 5404, 5504, 5652b, 6023, 6387, 6959, 8201, and 9348 of this title, and sections 205, 209, 415, 416 and 422 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 3355, 3540, 4381 to 4387, 6901 to 6906, 6908, 6910, 8355, 8540, and 9381 to 9387 of this title, and enacting provisions set out as notes under this section and section 2107 and former section 9385 of this title, may be cited as the 'Reserve Officers' Training Corps Vitalization Act of 1964'."
 
 #### Issuance of Regulations
 

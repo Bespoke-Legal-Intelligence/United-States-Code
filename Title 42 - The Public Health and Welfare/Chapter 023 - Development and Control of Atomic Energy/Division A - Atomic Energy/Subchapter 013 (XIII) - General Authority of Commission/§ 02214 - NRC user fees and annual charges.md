@@ -78,7 +78,7 @@ Pursuant to section 9701 of title 31, any person who receives a service or thing
 
 As used in this section, the term "Nuclear Waste Fund" means the fund established pursuant to section 10222(c) of this title.
 
-(Pub. L. 101–508, title VI, §6101, Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 102–486, title XXIX, §2903(a), Oct. 24, 1992, 106 Stat. 3125; Pub. L. 103–66, title VII, §7001, Aug. 10, 1993, 107 Stat. 401; Pub. L. 105–245, title V, §505, Oct. 7, 1998, 112 Stat. 1856; Pub. L. 106–60, title VI, §604, Sept. 29, 1999, 113 Stat. 501; Pub. L. 106–377, §1(a)(2) \[title VIII\], Oct. 27, 2000, 114 Stat. 1441, 1441A–86; Pub. L. 109–58, title VI, §637(a), Aug. 8, 2005, 119 Stat. 791; Pub. L. 109–103, title IV, Nov. 19, 2005, 119 Stat. 2283; Pub. L. 115–439, title I, §101(a), Jan. 14, 2019, 132 Stat. 5567.)
+(Pub. L. 101–508, title VI, §6101, Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 102–486, title XXIX, §2903(a), Oct. 24, 1992, 106 Stat. 3125; Pub. L. 103–66, title VII, §7001, Aug. 10, 1993, 107 Stat. 401; Pub. L. 105–245, title V, §505, Oct. 7, 1998, 112 Stat. 1856; Pub. L. 106–60, title VI, §604, Sept. 29, 1999, 113 Stat. 501; Pub. L. 106–377, §1(a)(2) \[title VIII\], Oct. 27, 2000, 114 Stat. 1441, 1441A–86; Pub. L. 109–58, title VI, §637(a), Aug. 8, 2005, 119 Stat. 791; Pub. L. 109–103, title IV, Nov. 19, 2005, 119Stat. 2283; Pub. L. 115–439, title I, §101(a), Jan. 14, 2019, 132 Stat. 5567.)
 
 #### Repeal of Section
 
@@ -114,7 +114,7 @@ Pub. L. 109–103 inserted "and fiscal year 2006" before period at end.
 
 Subsec. (c)(1). Pub. L. 106–377, §1(a)(2) \[title VIII\], inserted "or certificate holder" after "licensee".
 
-Subsec. (c)(2). Pub. L. 106–377, §1(a)(2) \[title VIII\], added par. (2) and struck out heading and text of former par. (2). Text read as follows: "The aggregate amount of the annual charge collected from all licensees shall equal an amount that approximates 100 percent of the budget authority of the Commission inthe fiscal year in which such charge is collected, less any amount appropriated to the Commission from the Nuclear Waste Fund and the amount of fees collected under subsection (b) of this section in such fiscal year."
+Subsec. (c)(2). Pub. L. 106–377, §1(a)(2) \[title VIII\], added par. (2) and struck out heading and text of former par. (2). Text read as follows: "The aggregate amount of the annual charge collected from all licensees shall equal an amount that approximates 100 percent of the budget authority of the Commission in the fiscal year in which such charge is collected, less any amount appropriated to the Commission from the Nuclear Waste Fund and the amount of fees collected under subsection (b) of this section in such fiscal year."
 
 <b>1999</b>—Subsec. (a)(3). Pub. L. 106–60 substituted "September 30, 2000" for "September 30, 1999".
 

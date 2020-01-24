@@ -28,7 +28,7 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 &emsp;(2) Excellence in undergraduate education in mathematics and science.
 
-> The centers shall serve as national and regional clearinghouses and models for the benefit of both colleges and secondary schools, and shall provide seminars and programs to disseminate model curricula and model teaching methods and instructional materials to other associate-degree-granting colleges in the geographic region served by the center.
+> The centers shall serve as national and regional clearinghouses and models for the benefit of both colleges and secondary schools, and shallprovide seminars and programs to disseminate model curricula and model teaching methods and instructional materials to other associate-degree-granting colleges in the geographic region served by the center.
 
 #### (c) Articulation partnerships
 
@@ -86,7 +86,7 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 &emsp;&emsp;(D) applications that include outreach plans and goals for recruiting and enrolling women and other underrepresented populations in STEM fields in the proposed associate degree or certificate program; and
 
-&emsp;&emsp;(E) applications that describe how the applying junior or community college will support the collection of information and data for purposes of evaluation of the proposed associate degree or certificate program.
+&emsp;&emsp;(E) applications that describe how the applying junior or community college will support the collection of information and datafor purposes of evaluation of the proposed associate degree or certificate program.
 
 #### (e) Grants for STEM degree applied learning opportunities
 
@@ -148,7 +148,7 @@ In carrying out this section, the Director shall consult, cooperate, and coordin
 
 &emsp;&emsp;(A) up to $5,000,000 to carry out the activities under subsection (d) for each of fiscal years 2019 through 2022, subject to the availability of appropriations;
 
-&emsp;&emsp;(B) up to $2,500,000 to carry out the activities under subsection (e) for each of fiscalyears 2019 through 2022, subject to the availability of appropriations; and
+&emsp;&emsp;(B) up to $2,500,000 to carry out the activities under subsection (e) for each of fiscal years 2019 through 2022, subject to the availability of appropriations; and
 
 &emsp;&emsp;(C) up to $2,500,000 to carry out the activities under subsection (f) for each of fiscal years 2019 through 2022, subject to the availability of appropriations.
 
@@ -172,7 +172,7 @@ In carrying out sections 1862h to 1862j of this title, the Director shall—
 
 &emsp;(4) establish and maintain a readily accessible inventory of the programs assisted under sections 1862h to 1862j of this title; and
 
-&emsp;(5) designate an officer of the National Science Foundation to serve as a liaison with associate-degree-granting institutions for the purpose of enhancing the role of such institutions in the activities of the Foundation.
+&emsp;(5) designate an officer of the National Science Foundation to serve as a liaison with associate-degree-granting institutions for thepurpose of enhancing the role of such institutions in the activities of the Foundation.
 
 #### (j) Definitions
 

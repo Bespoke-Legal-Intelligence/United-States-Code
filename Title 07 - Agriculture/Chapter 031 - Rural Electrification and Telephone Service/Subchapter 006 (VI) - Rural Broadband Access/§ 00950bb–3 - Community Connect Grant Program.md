@@ -32,7 +32,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(IV) a unit of local government; or
 
-&emsp;&emsp;&emsp;&emsp;(V) any other legal entity, including a cooperative, a private corporation, or alimited liability company, that is organized on a for-profit or a not-for-profit basis; and
+&emsp;&emsp;&emsp;&emsp;(V) any other legal entity, including a cooperative, a private corporation, or a limited liability company, that is organized on a for-profit or a not-for-profit basis; and
 
 &emsp;&emsp;&emsp;(ii) has the legal capacity and authority to enter into a contract, to comply with applicable Federal laws, and to own and operate broadband facilities, as proposed in the application submitted by the entity for a grant under the Program.
 

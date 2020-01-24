@@ -40,7 +40,7 @@
 
 &emsp;(F) there is an adequate system which—
 
-&emsp;&emsp;(i) ensures that background investigations are conducted on the primary management officials and key employees of the gamingenterprise and that oversight of such officials and their management is conducted on an ongoing basis; and
+&emsp;&emsp;(i) ensures that background investigations are conducted on the primary management officials and key employees of the gaming enterprise and that oversight of such officials and their management is conducted on an ongoing basis; and
 
 &emsp;&emsp;(ii) includes—
 

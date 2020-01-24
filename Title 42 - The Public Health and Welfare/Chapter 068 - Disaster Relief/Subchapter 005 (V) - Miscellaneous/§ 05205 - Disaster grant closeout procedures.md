@@ -66,7 +66,7 @@ Subsec. (d). Pub. L. 115–254, §1221(a), added subsec. (d).
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each majordisaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under section 5121 of this title.
+Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under section 5121 of this title.
 
 #### Regulations
 

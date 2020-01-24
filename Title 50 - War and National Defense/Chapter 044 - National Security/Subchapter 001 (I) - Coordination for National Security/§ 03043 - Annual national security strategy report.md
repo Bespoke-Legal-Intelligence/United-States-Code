@@ -26,7 +26,7 @@ Each national security strategy report shall set forth the national security str
 
 Each national security strategy report shall be transmitted to Congress in classified form, but may include an unclassified summary.
 
-(July 26, 1947, ch. 343, title I, §108, formerly §104, as added Pub. L. 99–433, title VI, §603(a)(1), Oct. 1, 1986, 100 Stat. 1074; renumbered §108, Pub. L. 102–496, title VII, §705(a)(2), Oct. 24, 1992, 106 Stat. 3190; amended Pub. L. 106–65, div. A, title IX, §901(b), Oct. 5, 1999, 113 Stat. 717; Pub. L. 114–328, div. A, title IX, §944, Dec. 23, 2016, 130 Stat. 2371.)
+(July 26, 1947, ch. 343, title I, §108, formerly §104, as added Pub. L. 99–433, title VI, §603(a)(1), Oct. 1, 1986, 100 Stat. 1074; renumbered §108, Pub. L. 102–496, title VII, §705(a)(2), Oct. 24, 1992, 106 Stat. 3190; amended Pub. L. 106–65, div. A, title IX, §901(b), Oct. 5, 1999, 113 Stat. 717; Pub. L. 114–328, div. A, title IX, §944, Dec. 23, 2016, 130 Stat. 2371; Pub. L. 116–92, div. E, title LXVII, §6742(b)(4), Dec. 20, 2019, 133 Stat. 2240.)
 
 #### Codification
 
@@ -34,7 +34,9 @@ Section was formerly classified to section 404a of this title prior to editorial
 
 #### Amendments
 
-<b>2016</b>—Subsec. (c). Pub. L. 114–328, which directed substitution of "to Congress in classified form, but may include an unclassified summary" for "in both a classified form and an unclassified form" was executed by making the substitution for "in both a classified and an unclassified form" to reflect the probable intent of Congress.
+<b>2019</b>—Subsec. (c). Pub. L. 116–92 substituted "to Congress in classified form, but may include an unclassified summary" for "in both a classified and an unclassified form".
+
+<b>2016</b>—Subsec. (c). Pub. L. 114–328, which directed substitution of "to Congress in classified form, but may include an unclassified summary" for "in both a classified form and an unclassified form", could not be executed because the words "in both a classified form and an unclassified form" did not appear in text.
 
 <b>1999</b>—Subsec. (a)(3). Pub. L. 106–65 added par. (3).
 
@@ -60,7 +62,7 @@ Contents of guidance.—The guidance required under paragraph (1) shall include 
 
 &emsp;&emsp;"(A) A prioritized list of specified geographic areas that the President determines are necessary to address and an explicit discussion and list of the criteria or rationale used to prioritize the areas on the list, including a discussion of the conditions that would hamper the ability of the United States to strengthen at-risk states or other entities in such areas.
 
-&emsp;&emsp;"(B) For each specified geographic area, a description, analysis, and discussion of the core problems and contributing issues that allow or could allow al-Qaeda and its violent extremist affiliates to use the area as a safe haven from which to plan and launch attacks, engage in propaganda, or raisefunds and other support, including any ongoing or potential radicalization of the population, or to use the area as a key transit route for personnel, weapons, funding, or other support.
+&emsp;&emsp;"(B) For each specified geographic area, a description, analysis, and discussion of the core problems and contributing issues that allow or could allow al-Qaeda and its violent extremist affiliates to use the area as a safe haven from which to plan and launch attacks, engage in propaganda, or raise funds and other support, including any ongoing or potential radicalization of the population, or to use the area as a key transit route for personnel, weapons, funding, or other support.
 
 &emsp;&emsp;"(C) For each specified geographic area, a description of the following:
 
@@ -156,5 +158,5 @@ Definitions.—In this section:
 
 #### National Commission on the Future Role of United States Nuclear Weapons, Problems of Command, Control, and Safety of Soviet Nuclear Weapons, and Reduction of Nuclear Weapons
 
-Pub. L. 102–172, title VIII, §8132, Nov. 26, 1991, 105 Stat. 1208, provided for establishment of a National Commission which was to submit to Congress, not later than May 1, 1993, a final report containing an assessment and recommendations regarding role of, and requirements for, nuclear weapons in security strategy ofUnited States as result of significant changes in former Warsaw Pact, former Soviet Union, and Third World, including possibilities for international cooperation with former Soviet Union regarding such problems, and safeguards to protect against accidental or unauthorized use of nuclear weapons, further directed Commission to obtain study from National Academy of Sciences on these matters, further authorized establishment of joint working group comprised of experts from governments of United States and former Soviet Union which was to meet on regular basis and provide recommendations regarding these matters, and further provided for composition of Commission as well as powers, procedures, personnel matters, appropriations, and termination of Commission upon submission of its final report.
+Pub. L. 102–172, title VIII, §8132, Nov. 26, 1991, 105 Stat. 1208, provided for establishment of a National Commission which was to submit to Congress, not later than May 1, 1993, a final report containing an assessment and recommendations regarding role of, and requirements for, nuclear weapons in security strategy of United States as result of significant changes in former Warsaw Pact, former Soviet Union, and Third World, including possibilities for international cooperation with former Soviet Union regarding such problems, and safeguards to protect against accidental or unauthorized use of nuclear weapons, further directed Commission to obtain study from National Academy of Sciences on these matters, further authorized establishment of joint working group comprised of experts from governments of United States and former Soviet Union which was to meet on regular basis and provide recommendations regarding these matters, and further provided for composition of Commission as well as powers, procedures, personnel matters, appropriations, and termination of Commission upon submission of its final report.
 

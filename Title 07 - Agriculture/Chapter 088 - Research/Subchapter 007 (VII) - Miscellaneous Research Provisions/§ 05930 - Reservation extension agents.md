@@ -6,7 +6,7 @@ The Secretary of Agriculture, acting through the National Institute of Food and 
 
 #### (b) Administration and management
 
-Extension agents shall be employees of, and administratively responsible to, the Cooperative Extension Service of the State within which the reservation or tribal jurisdiction is located, and employment and personnel management responsibilities shall be vested with the State Cooperative Extension Service. In cases where a reservation or tribal jurisdiction is located in two or more States, the Secretary of Agriculture shall make the determination of administrative responsibility, including possible divisions along State boundaries.
+Extension agents shall be employees of, and administratively responsible to, the Cooperative Extension Service of the State within which the reservation or tribal jurisdiction is located, andemployment and personnel management responsibilities shall be vested with the State Cooperative Extension Service. In cases where a reservation or tribal jurisdiction is located in two or more States, the Secretary of Agriculture shall make the determination of administrative responsibility, including possible divisions along State boundaries.
 
 #### (c) Advisory committees
 

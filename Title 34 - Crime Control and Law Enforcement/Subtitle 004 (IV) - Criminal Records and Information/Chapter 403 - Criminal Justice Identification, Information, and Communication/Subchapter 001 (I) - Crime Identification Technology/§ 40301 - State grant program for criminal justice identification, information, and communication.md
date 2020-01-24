@@ -52,7 +52,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;(10) ballistics identification and information programs that are compatible and integrated with the National Integrated Ballistics Network (NIBN);
 
-&emsp;(11) the capabilities of forensic science programs and medical examiner programs related to the administration of criminal justice, including programs leading to accreditation or certification of individuals or departments,agencies, or laboratories, and programs relating to the identification and analysis of deoxyribonucleic acid;
+&emsp;(11) the capabilities of forensic science programs and medical examiner programs related to the administration of criminal justice, including programs leading to accreditation or certification of individuals or departments, agencies, or laboratories, and programs relating to the identification and analysis of deoxyribonucleic acid;
 
 &emsp;(12) sexual offender identification and registration systems;
 
@@ -114,7 +114,7 @@ The Federal share of a grant received under this subchapter may not exceed 90 pe
 
 #### (f) Grants to Indian tribes
 
-Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
+Notwithstanding any other provision of this section, the Attorney General may use amountsmade available under this section to make grants to Indian tribes for use in accordance with this section.
 
 (Pub. L. 105–251, title I, §102, Oct. 9, 1998, 112 Stat. 1871; Pub. L. 106–177, title I, §102, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–561, §2(c)(4), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title X, §1015, Oct. 26, 2001, 115 Stat. 400; Pub. L. 109–162, title XI, §1111(c)(1), Jan. 5, 2006, 119 Stat. 3101; Pub. L. 115–141, div. S, title VI, §604(a), Mar. 23, 2018, 132 Stat. 1136.)
 

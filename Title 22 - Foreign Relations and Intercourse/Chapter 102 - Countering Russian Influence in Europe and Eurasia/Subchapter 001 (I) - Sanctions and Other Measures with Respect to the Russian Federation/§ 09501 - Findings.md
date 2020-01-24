@@ -10,7 +10,7 @@ Congress makes the following findings:
 
 &emsp;(4) On July 26, 2016, President Obama approved a Presidential Policy Directive on United States Cyber Incident Coordination, which states, "certain cyber incidents that have significant impacts on an entity, our national security, or the broader economy require a unique approach to response efforts".
 
-&emsp;(5) On December 29, 2016, President Obama issued an annex to Executive Order No. 13694,<sup>1</sup> which authorized sanctions on the following entities and individuals:
+&emsp;(5) On December 29, 2016, President Obama issued an annex to Executive Order No. 13694,<sup>1</sup>which authorized sanctions on the following entities and individuals:
 
 &emsp;&emsp;(A) The Main Intelligence Directorate (also known as Glavnoe Razvedyvatel'noe Upravlenie or the GRU) in Moscow, Russian Federation.
 
@@ -49,6 +49,8 @@ Executive Order No. 13694, referred to in par. (3), is Ex. Ord. No. 13694, Apr. 
 The annex to Executive Order No. 13694, referred to in par. (5), probably means Ex. Ord. No. 13757, §§1–3, Dec. 28, 2016, 82 F.R. 1, 2, which amended Ex. Ord. No. 13694.
 
 #### Short Title
+
+Pub. L. 116–94, div. P, title XX, §2001, Dec. 20, 2019, 133 Stat. 3222, provided that: "This title \[enacting subchapter III of this chapter and amending sections 2421 and 9543 of this title\] may be cited as the 'European Energy Security and Diversification Act of 2019'."
 
 Pub. L. 115–44, title II, §201, Aug. 2, 2017, 131 Stat. 898, provided that: "This title \[enacting this chapter and sections 8909 and 8910 of this title, amending sections 8901, 8907, 8908, 8923, and 8924 of this title, section 5326 of Title 31, Money and Finance, and section 3021 of Title 50, War and National Defense, and enacting provisions set out as notes under this section and section 3021 of Title 50\] may be cited as the 'Countering Russian Influence in Europe and Eurasia Act of 2017'."
 

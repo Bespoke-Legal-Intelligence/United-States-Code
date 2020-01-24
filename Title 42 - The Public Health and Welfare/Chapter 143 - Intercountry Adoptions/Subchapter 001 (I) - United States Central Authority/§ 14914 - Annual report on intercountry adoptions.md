@@ -28,7 +28,7 @@ Each report under subsection (a) shall set forth with respect to the year concer
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b)(5), (6), was in the original "this Act", meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act tothe Code, see Short Title note set out under section 14901 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b)(5), (6), was in the original "this Act", meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
 
 #### Amendments
 

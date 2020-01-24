@@ -1,6 +1,6 @@
 ### §273f. Authorization of appropriations
 
-There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this subchapter, not to exceed, however, $2,173,000 for the acquisition of lands and interests in lands and not to exceed $1,373,000 for development. The sums authorized in this section shall be available for acquisition and development undertaken subsequent to December 18, 1971.
+There are hereby authorized to be appropriated such sums as may be necessary to carryout the purposes of this subchapter, not to exceed, however, $2,173,000 for the acquisition of lands and interests in lands and not to exceed $1,373,000 for development. The sums authorized in this section shall be available for acquisition and development undertaken subsequent to December 18, 1971.
 
 (Pub. L. 92–207, §7, Dec. 18, 1971, 85 Stat. 740; Pub. L. 94–578, title I, §101(4), Oct. 21, 1976, 90 Stat. 2732; Pub. L. 95–625, title I, §101(5), Nov. 10, 1978, 92 Stat. 3471.)
 

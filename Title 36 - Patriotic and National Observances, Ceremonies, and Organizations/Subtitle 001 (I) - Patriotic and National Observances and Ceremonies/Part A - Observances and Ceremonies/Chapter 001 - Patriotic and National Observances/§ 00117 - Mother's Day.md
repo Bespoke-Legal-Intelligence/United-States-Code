@@ -6,7 +6,7 @@ Designation.—The second Sunday in May is Mother's Day.
 
 (b)
 
-Proclamation.—The President is requested to issue a proclamation calling on United States Government officials to display the flag of the United States on all Government buildings, and on the people of the United States to display theflag at their homes or other suitable places, on Mother's Day as a public expression of love and reverence for the mothers of the United States.
+Proclamation.—The President is requested to issue a proclamation calling on United States Government officials to display the flag of the United States on all Government buildings, and on the people of the United States to display the flag at their homes or other suitable places, on Mother's Day as a public expression of love and reverence for the mothers of the United States.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1258.)
 

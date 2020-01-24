@@ -2,7 +2,7 @@
 
 (a)
 
-Data Collection Required.—The Secretary of Defense shall establish a data collection system to provide management informationwith regard to each purchase of services by a military department or Defense Agency in excess of $3,000,000, regardless of whether such a purchase is made in the form of a contract, task order, delivery order, military interdepartmental purchase request, or any other form of interagency agreement, for services in the following service acquisition portfolio groups:
+Data Collection Required.—The Secretary of Defense shall establish a data collection system to provide management information with regard to each purchase of services by a military department or Defense Agency in excess of $3,000,000, regardless of whether such a purchase is made in the form of a contract, task order, delivery order, military interdepartmental purchase request, or any other form of interagency agreement, for services in the following service acquisition portfolio groups:
 
 &emsp;(1) Logistics management services.
 
@@ -230,7 +230,7 @@ Subsecs. (i), (j). Pub. L. 114–328, §812(d)(2), redesignated subsecs. (i) and
 
 <b>2013</b>—Subsecs. (g) to (j). Pub. L. 113–66 added subsecs. (g) and (h) and redesignated former subsecs. (g) and (h) as (i) and (j), respectively.
 
-<b>2011</b>—Subsec. (c). Pub. L. 111–383, §321(2) to (4), substituted "The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:" for "The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:" in par. (1), added new subpars. (A) and (B) to par. (1), inserted par. (2) designation and introductory provisions before former subpars. (A) to (G) of par. (1) thereby making them part of par. (2), added subpar. (E), and struck out former subpar. (E) which read as follows: "The number of full-time contractor employees (or its equivalent) paid for the performance of the activity."
+<b>2011</b>—Subsec. (c). Pub. L. 111–383, §321(2) to (4), substituted "The guidance for compiling the inventory shall be issued by the Under Secretary of Defense forPersonnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:" for "The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:" in par. (1), added new subpars. (A) and (B) to par. (1), inserted par. (2) designation and introductory provisions before former subpars. (A) to (G) of par. (1) thereby making them part of par. (2), added subpar. (E), and struck out former subpar. (E) which read as follows: "The number of full-time contractor employees (or its equivalent) paid for the performance of the activity."
 
 Subsec. (c)(1). Pub. L. 112–81, §936(a)(1), inserted "(and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract)" after "pursuant to contracts for services" in introductory provisions.
 

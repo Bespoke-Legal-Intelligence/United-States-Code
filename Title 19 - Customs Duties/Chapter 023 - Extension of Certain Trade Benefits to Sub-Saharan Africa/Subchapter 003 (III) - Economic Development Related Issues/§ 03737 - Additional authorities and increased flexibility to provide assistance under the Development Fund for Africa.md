@@ -8,7 +8,7 @@ It is the sense of the Congress that sustained economic growth in sub-Saharan Af
 
 The Congress makes the following declarations:
 
-&emsp;(1) The Development Fund for Africa established under chapter 10 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2293 et seq.)has been an effective tool in providing development assistance to sub-Saharan Africa since 1988.
+&emsp;(1) The Development Fund for Africa established under chapter 10 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2293 et seq.) has been an effective tool in providing development assistance to sub-Saharan Africa since 1988.
 
 &emsp;(2) The Development Fund for Africa will complement the other provisions of this chapter and lay a foundation for increased trade and investment opportunities between the United States and sub-Saharan Africa.
 

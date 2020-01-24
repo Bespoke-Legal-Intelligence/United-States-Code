@@ -32,7 +32,7 @@ Pub. L. 115–268, §2(b), Oct. 11, 2018, 132 Stat. 3762, provided that: "The am
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–43, §3, Oct. 4, 2013, 127 Stat. 554, provided that: "This Act \[amending this section and enactingprovisions set out as a note under section 801 of this title\] shall take effect as of October 1, 2013."
+Pub. L. 113–43, §3, Oct. 4, 2013, 127 Stat. 554, provided that: "This Act \[amending this section and enacting provisions set out as a note under section 801 of this title\] shall take effect as of October 1, 2013."
 
 #### Effective Date of 2010 Amendment
 

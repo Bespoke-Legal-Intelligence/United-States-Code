@@ -116,11 +116,11 @@
 
 #### (ii) Consultation
 
-&emsp;&emsp;&emsp;In developing the standards under clause (i), the Secretary shall consult with theNational Council for Prescription Drug Programs and other standard setting organizations determined appropriate by the Secretary.
+&emsp;&emsp;&emsp;In developing the standards under clause (i), the Secretary shall consult with the National Council for Prescription Drug Programs and other standard setting organizations determined appropriate by the Secretary.
 
 #### (iii) Implementation
 
-&emsp;&emsp;&emsp;The Secretary shall develop, adopt, or recognize the standards under clause (i) by such date as the Secretary determines shall be sufficient to ensure that PDP sponsors utilize such standards beginning January 1, 2006.
+&emsp;&emsp;&emsp;The Secretary shall develop, adopt, or recognize the standards under clause (i) by such date as the Secretary determines shall be sufficient to ensure that PDPsponsors utilize such standards beginning January 1, 2006.
 
 #### (3) Requirements on development and application of formularies
 
@@ -286,7 +286,7 @@
 
 #### (C) Required interventions
 
-&emsp;&emsp;For plan years beginning on or after the date that is 2 years after March 23, 2010, prescription drug plan sponsors shall offer medication therapy management services to targeted beneficiaries described in subparagraph (A)(ii) that include, at a minimum, the following to increase adherence to prescription medications or other goals deemed necessary by the Secretary:
+&emsp;&emsp;For plan years beginning on or after the date that is 2 years after March 23, 2010, prescription drug plan sponsors shall offermedication therapy management services to targeted beneficiaries described in subparagraph (A)(ii) that include, at a minimum, the following to increase adherence to prescription medications or other goals deemed necessary by the Secretary:
 
 &emsp;&emsp;&emsp;(i) An annual comprehensive medication review furnished person-to-person or using telehealth technologies (as defined by the Secretary) by a licensed pharmacist or other qualified provider. The comprehensive medication review—
 
@@ -344,7 +344,7 @@
 
 #### (C) Report
 
-&emsp;&emsp;Not later than January 1, 2018, the Inspector General of the Department of Health and Human Services shall submit to Congress a report on the effectiveness of the procedures established under subparagraph (B)(i).
+&emsp;&emsp;Not later than January 1, 2018, the Inspector General of the Department of Health andHuman Services shall submit to Congress a report on the effectiveness of the procedures established under subparagraph (B)(i).
 
 #### (D) Notification and additional requirements with respect to outlier prescribers of opioids
 
@@ -402,7 +402,7 @@
 
 #### (vi) Public availability of information
 
-&emsp;&emsp;&emsp;The Secretary shall make aggregate information under this subparagraph available on the internet website of the Centers for Medicare \& Medicaid Services. Such information shall be in a form and manner determined appropriate by the Secretary and shall not identify any specific prescriber. In carrying out this clause, the Secretary shall consult with interested stakeholders.
+&emsp;&emsp;&emsp;The Secretary shall make aggregate information under this subparagraph available on the internet website of the Centers for Medicare \& Medicaid Services. Such information shall be in a form and mannerdetermined appropriate by the Secretary and shall not identify any specific prescriber. In carrying out this clause, the Secretary shall consult with interested stakeholders.
 
 #### (vii) Opioids defined
 
@@ -458,7 +458,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) of, and information about, the beneficiary's right to appeal such identification under subsection (h), including notice that if on reconsideration a PDP sponsor affirms its denial, in whole or in part, the case shall be automatically forwarded to the independent, outside entity contracted with the Secretary for review and resolution;
 
-&emsp;&emsp;&emsp;&emsp;(V) that the beneficiary can, in the case that the beneficiary has not previously submitted to the PDP sponsor preferences for which prescribers and pharmacies the beneficiary would prefer the PDP sponsor select under subparagraph (D), submit such preferences to the PDP sponsor; and
+&emsp;&emsp;&emsp;&emsp;(V) that the beneficiary can, in the case that the beneficiary has not previously submitted to the PDP sponsor preferences for which prescribers andpharmacies the beneficiary would prefer the PDP sponsor select under subparagraph (D), submit such preferences to the PDP sponsor; and
 
 &emsp;&emsp;&emsp;&emsp;(VI) that includes clear instructions that explain how the beneficiary can contact the PDP sponsor.
 
@@ -582,7 +582,7 @@
 
 #### (i) Data on decision to impose limitation
 
-&emsp;&emsp;&emsp;In the case of an at-risk beneficiary for prescription drug abuse (or an individual who is a potentially at-risk beneficiary forprescription drug abuse) whose access to coverage for frequently abused drugs under a prescription drug plan has been limited by a PDP sponsor under this paragraph, the Secretary shall establish rules and procedures to require the PDP sponsor to disclose data, including any necessary individually identifiable health information, in a form and manner specified by the Secretary, about the decision to impose such limitations and the limitations imposed by the sponsor under this part.
+&emsp;&emsp;&emsp;In the case of an at-risk beneficiary for prescription drug abuse (or an individual who is a potentially at-risk beneficiary for prescription drug abuse) whose access to coverage for frequently abused drugs under a prescription drug plan has been limited by a PDP sponsor under this paragraph, the Secretary shall establish rules andprocedures to require the PDP sponsor to disclose data, including any necessary individually identifiable health information, in a form and manner specified by the Secretary, about the decision to impose such limitations and the limitations imposed by the sponsor under this part.
 
 #### (ii) Data to reduce fraud, abuse, and waste
 
@@ -638,7 +638,7 @@
 
 #### (C) CMS compliance review
 
-&emsp;&emsp;The Secretary shall ensure that plan sponsor compliance reviews and program auditsbiennially include a certification that utilization management tools under this paragraph are in compliance with the requirements for such tools.
+&emsp;&emsp;The Secretary shall ensure that plan sponsor compliance reviews and program audits biennially include a certification that utilization management tools under this paragraph are in compliance with the requirements for such tools.
 
 #### (6) <sup>3</sup> Providing prescription drug plans with parts A and B claims data to promote the appropriate use of medications and improve health outcomes
 
@@ -984,8 +984,6 @@ For program integrity transparency measures applied with respect to prescription
 
 <i>Amendment of section by section 2007(a) of Pub. L. 115–271 applicable beginning not later than Jan. 1, 2021. See 2018 Amendment note below.</i>
 
-<i>Amendment of section by section 2(a) of Pub. L. 115–262 applicable to plan years beginning on or after Jan. 1, 2020. See 2018 Amendment note below.</i>
-
 #### References in Text
 
 Section 6052 of the SUPPORT for Patients and Communities Act, referred to in subsec. (c)(4)(D)(v)(I), is section 6052 of title VI of Pub. L. 115–271, which is set out as a note under this section.
@@ -1094,7 +1092,7 @@ Pub. L. 111–148, title X, §10328(b), Mar. 23, 2010, 124 Stat. 965, provided t
 
 #### Update of Biometric Component of Multifactor Authentication
 
-Pub. L. 115–271, title II, §2003(c), Oct. 24, 2018, 132 Stat. 3928, provided that: "Not later than 1 year after thedate of enactment of this Act \[Oct. 24, 2018\], the Attorney General shall update the requirements for the biometric component of multifactor authentication with respect to electronic prescriptions of controlled substances."
+Pub. L. 115–271, title II, §2003(c), Oct. 24, 2018, 132 Stat. 3928, provided that: "Not later than 1 year after the date of enactment of this Act \[Oct. 24, 2018\], the Attorney General shall update the requirements for the biometric component of multifactor authentication with respect to electronic prescriptions of controlled substances."
 
 #### Grants To Provide Technical Assistance to Outlier Prescribers of Opioids
 

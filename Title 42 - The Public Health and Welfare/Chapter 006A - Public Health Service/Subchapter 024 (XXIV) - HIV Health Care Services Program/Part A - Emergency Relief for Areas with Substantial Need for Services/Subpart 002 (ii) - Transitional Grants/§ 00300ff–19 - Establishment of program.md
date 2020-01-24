@@ -18,11 +18,11 @@ For purposes of this section, the term "transitional area" means, subject to sub
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding subsection (b), a metropolitan area that is a transitional area for afiscal year continues, except as provided in subparagraph (B), to be a transitional area until the metropolitan area fails, for three consecutive fiscal years—
+&emsp;&emsp;Notwithstanding subsection (b), a metropolitan area that is a transitional area for a fiscal year continues, except as provided in subparagraph (B), to be a transitional area until the metropolitan area fails, for three consecutive fiscal years—
 
 &emsp;&emsp;&emsp;(i) to qualify under such subsection as a transitional area; and
 
-&emsp;&emsp;&emsp;(ii) subject to subparagraphs (B) and (C), to have a cumulative total of 1,500 or more living cases of AIDS (reported to and confirmed by the Director of the Centers for Disease Control and Prevention) as of December 31 of the most recent calendar year for which such data is available.
+&emsp;&emsp;&emsp;(ii) subject to subparagraphs (B) and (C), to have a cumulative total of 1,500 or moreliving cases of AIDS (reported to and confirmed by the Director of the Centers for Disease Control and Prevention) as of December 31 of the most recent calendar year for which such data is available.
 
 #### (B) Permitting margin of error applicable to certain metropolitan areas
 
@@ -88,5 +88,5 @@ Subsec. (d)(1)(B). Pub. L. 111–87, §4(a)(3), substituted "2013" for "2009".
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as ineffect on Sept. 30, 2009, be revived, and that amendment by section 4(a) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by section 4(a) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

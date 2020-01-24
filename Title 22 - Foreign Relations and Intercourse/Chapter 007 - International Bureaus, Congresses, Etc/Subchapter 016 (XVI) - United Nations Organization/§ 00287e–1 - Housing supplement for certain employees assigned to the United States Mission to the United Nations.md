@@ -42,7 +42,7 @@ Pub. L. 100–459, title III, §304(c), Oct. 1, 1988, 102 Stat. 2208, provided t
 
 #### Delegation of Functions
 
-Authority of President under this section delegated to Secretary of State, see section 4(b) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, as amended by Ex. Ord. No. 11779, Apr. 22, 1974, 39 F.R. 14185, set out as a note under section 301 of Title 3, The President.
+Authority of President under this section delegated to Secretary of State, see section 4(b) of Ex. Ord. No.11609, July 22, 1971, 36 F.R. 13747, as amended by Ex. Ord. No. 11779, Apr. 22, 1974, 39 F.R. 14185, set out as a note under section 301 of Title 3, The President.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

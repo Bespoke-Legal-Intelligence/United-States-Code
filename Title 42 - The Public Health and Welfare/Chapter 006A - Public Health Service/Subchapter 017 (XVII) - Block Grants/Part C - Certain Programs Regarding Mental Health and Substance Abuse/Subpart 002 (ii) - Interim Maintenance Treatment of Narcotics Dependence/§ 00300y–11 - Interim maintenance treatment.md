@@ -64,7 +64,7 @@ For purposes of this section:
 
 #### Prior Provisions
 
-A prior section 300y–11, act July 1, 1944, ch. 373, title XIX, §1932, as added Aug. 13, 1981, Pub. L. 97–35, title IX,§901, 95 Stat. 559; amended Jan. 4, 1983, Pub. L. 97–414, §8(v), 96 Stat. 2063, related to applicability of other provisions and promulgation of regulations, prior to repeal by Pub. L. 99–280, §5, Apr. 24, 1986, 100 Stat. 400.
+A prior section 300y–11, act July 1, 1944, ch. 373, title XIX, §1932, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 559; amended Jan. 4, 1983, Pub. L. 97–414, §8(v), 96 Stat. 2063, related to applicability of other provisions and promulgation of regulations, prior to repeal by Pub. L. 99–280, §5, Apr. 24, 1986, 100 Stat. 400.
 
 Sections 300y–21 to 300y–27 terminated Jan. 1, 1991, pursuant to section 300y–27 and were omitted from the Code.
 

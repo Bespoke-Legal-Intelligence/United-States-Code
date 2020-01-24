@@ -36,7 +36,7 @@ The Architect of the Capitol shall conduct a feasibility study evaluating the av
 
 &emsp;&emsp;(D) whether the proposed project is able to use carbon dioxide emissions;
 
-&emsp;&emsp;(E) whether the proposed project could be expanded to significantly increase theamount of Capitol Power Plant carbon dioxide emissions to be captured and stored or used;
+&emsp;&emsp;(E) whether the proposed project could be expanded to significantly increase the amount of Capitol Power Plant carbon dioxide emissions to be captured and stored or used;
 
 &emsp;&emsp;(F) the potential environmental, energy, and educational benefits of demonstrating the capture and storage or use of carbon dioxide at the U.S. Capitol; and
 

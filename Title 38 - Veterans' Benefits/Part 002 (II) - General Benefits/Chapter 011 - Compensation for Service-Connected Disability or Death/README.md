@@ -22,6 +22,8 @@
 | [1114\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001114%20-%20Rates%20of%20wartime%20disability%20compensation.md) | Rates of wartime disability compensation. |
 | [1115\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001115%20-%20Additional%20compensation%20for%20dependents.md) | Additional compensation for dependents. |
 | [1116\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001116%20-%20Presumptions%20of%20service%20connection%20for%20diseases%20associated%20with%20exposure%20to%20certain%20herbicide%20agents%3B%20presumption%20of%20exposure%20for%20veterans%E2%80%A6.md) | Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam. |
+| [1116A.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001116A%20-%20Presumptions%20of%20service%20connection%20for%20veterans%20who%20served%20offshore%20of%20the%20Republic%20of%20Vietnam.md) | Presumptions of service connection for veterans who served offshore of the Republic of Vietnam. |
+| [1116B.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001116B%20-%20Presumption%20of%20herbicide%20exposure%20for%20certain%20veterans%20who%20served%20in%20Korea.md) | Presumption of herbicide exposure for certain veterans who served in Korea. |
 | [1117\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001117%20-%20Compensation%20for%20disabilities%20occurring%20in%20Persian%20Gulf%20War%20veterans.md) | Compensation for disabilities occurring in Persian Gulf War veterans. |
 | [1118\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001118%20-%20Presumptions%20of%20service%20connection%20for%20illnesses%20associated%20with%20service%20in%20the%20Persian%20Gulf%20during%20the%20Persian%20Gulf%20War.md) | Presumptions of service connection for illnesses associated with service in the Persian Gulf during the Persian Gulf War. |
 
@@ -79,6 +81,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–23, §§2(b), 3(b), June 25, 2019, 133 Stat. 968, 970, added items 1116A and 1116B.
 
 <b>2008</b>—Pub. L. 110–389, title II, §211(c), Oct. 10, 2008, 122 Stat. 4151, added item 1156.
 

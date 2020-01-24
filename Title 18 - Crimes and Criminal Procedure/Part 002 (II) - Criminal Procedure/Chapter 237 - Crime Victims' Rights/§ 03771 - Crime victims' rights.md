@@ -90,7 +90,7 @@ Multiple crime victims.—In a case where the court finds that the number of cri
 
 &emsp;(3)
 
-Motion for relief and writ of mandamus.—The rights described in subsection (a) shall be asserted in the district court in which a defendant is being prosecuted for the crime or, if no prosecution is underway, in the district court in the district in which the crime occurred. The district court shall take up and decide any motion asserting a victim's right forthwith. If the district court denies the relief sought, the movant may petition the court of appeals for a writ of mandamus. The court of appeals may issue the writ on the order of a single judge pursuant to circuit rule or the Federal Rules of Appellate Procedure. The court of appeals shall take up and decide such application forthwith within 72 hours after the petition has been filed, unless the litigants, with the approval of the court, have stipulated to a different time period for consideration. In deciding such application, the court of appeals shall apply ordinary standards of appellate review. In no event shall proceedings be stayed or subject to a continuance of more than fivedays for purposes of enforcing this chapter. If the court of appeals denies the relief sought, the reasons for the denial shall be clearly stated on the record in a written opinion.
+Motion for relief and writ of mandamus.—The rights described in subsection (a) shall be asserted in the district court in which a defendant is being prosecuted for the crime or, if no prosecution is underway, in the district court in the district in which the crime occurred. The district court shall take up and decide any motion asserting a victim's right forthwith. If the district court denies the relief sought, the movant may petition the court of appeals for a writ of mandamus. The court of appeals may issue the writ on the order of a single judge pursuant to circuit rule or the Federal Rules of Appellate Procedure. The court of appeals shall take up and decide such application forthwith within 72 hours after the petition has been filed, unless the litigants, with the approval of the court, have stipulated to a different time period for consideration. In deciding such application, the court of appeals shall apply ordinary standards of appellate review. In no event shall proceedings be stayed or subject to a continuance of more than five days for purposes of enforcing this chapter. If the court of appeals denies the relief sought, the reasons for the denial shall be clearly stated on the record in a written opinion.
 
 &emsp;(4)
 
@@ -146,7 +146,7 @@ Procedures To Promote Compliance.—
 
 &emsp;(1)
 
-Regulations.—Not later than 1 year after the date of enactment of this chapter, the Attorney General of the United States shall promulgate regulations to enforce the rights of crime victims and to ensure compliance by responsible officials with the obligations described in law respecting crime victims.
+Regulations.—Not later than 1 year after the date of enactment of this chapter, the Attorney General of the United Statesshall promulgate regulations to enforce the rights of crime victims and to ensure compliance by responsible officials with the obligations described in law respecting crime victims.
 
 &emsp;(2)
 
@@ -180,7 +180,7 @@ A prior section 3771, acts June 25, 1948, ch. 645, 62 Stat. 846; May 24, 1949, c
 
 Subsec. (d)(3). Pub. L. 114–22, §113(c)(1), inserted "In deciding such application, the court of appeals shall apply ordinary standards of appellate review." before "In no event shall".
 
-Pub. L. 114–22, §113(a)(2), inserted ", unless the litigants, with the approval of the court, have stipulatedto a different time period for consideration" after "after the petition has been filed".
+Pub. L. 114–22, §113(a)(2), inserted ", unless the litigants, with the approval of the court, have stipulated to a different time period for consideration" after "after the petition has been filed".
 
 Subsec. (e). Pub. L. 114–22, §113(a)(3), substituted "For the purposes of this chapter:" for "For the purposes of this chapter, the term", designated remainder of existing provisions as par. (2) and inserted par. heading, in par. (2), inserted subpar. (A) designation, heading, and "The term" before " 'crime victim' means" and inserted subpar. (B) designation and heading before "In the case", and added pars. (1) and (3).
 

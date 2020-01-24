@@ -1,6 +1,6 @@
 ### §8012. Department of the Navy: seal
 
-The Secretary of the Navy shall have a seal for the Department of the Navy. The design ofthe seal must be approved by the President. Judicial notice shall be taken of the seal.
+The Secretary of the Navy shall have a seal for the Department of the Navy. The design of the seal must be approved by the President. Judicial notice shall be taken of the seal.
 
 (Added Pub. L. 99–433, title V, §511(c)(2), Oct. 1, 1986, 100 Stat. 1043, §5012; renumbered §8012, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 

@@ -162,7 +162,7 @@ Sec. 2. <i>Responsibilities of Executive Agencies.</i>
 
 Sec. 3. <i>President's Fair Housing Council.</i>
 
-3–301. There is hereby established an advisory council entitled the "President's Fair Housing Council" ("Council"). The Council shall be chaired by the Secretary of Housing and Urban Development and shall consist of the Secretary of Health and Human Services, the Secretary of Transportation, the Secretary of Education, the Secretary of Labor, the Secretary of Defense, the Secretary of Agriculture, the Secretary of Veterans Affairs, the Secretary of the Treasury, the Attorney General, the Secretary of the Interior, the Chair of the Federal Reserve, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Chair of the Federal Deposit Insurance Corporation, and such other officials of executive departments and agencies as the President may, from time to time, designate.
+3–301. There is hereby established an advisory council entitled the "President's Fair Housing Council"\("Council"). The Council shall be chaired by the Secretary of Housing and Urban Development and shall consist of the Secretary of Health and Human Services, the Secretary of Transportation, the Secretary of Education, the Secretary of Labor, the Secretary of Defense, the Secretary of Agriculture, the Secretary of Veterans Affairs, the Secretary of the Treasury, the Attorney General, the Secretary of the Interior, the Chair of the Federal Reserve, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Chair of the Federal Deposit Insurance Corporation, and such other officials of executive departments and agencies as the President may, from time to time, designate.
 
 3–302. The President's Fair Housing Council shall review the design and delivery of Federal programs and activities to ensure that they support a coordinated strategy to affirmatively further fair housing. The Council shall propose revisions to existing programs or activities, develop pilot programs and activities, and propose new programs and activities to achieve its goals.
 
@@ -216,7 +216,7 @@ Sec. 5. <i>Administrative Enforcement.</i>
 
 (d) any other action as may be appropriate under law.
 
-5–503. Findings of any violation under section 5–502 of this order shall be promptly reported by the head of each executive agency to the Secretary of Housing and Urban Development and the Attorney General. The Secretary of Housing and Urban Development shall forward this information to all other executive agencies.
+5–503. Findings of any violation under section 5–502 of this order shall be promptly reported by the head of each executive agency to the Secretary of Housing and Urban Development and the Attorney General. TheSecretary of Housing and Urban Development shall forward this information to all other executive agencies.
 
 5–504. Any executive agency shall also consider invoking appropriate sanctions against any person or entity where any other executive department or agency has initiated action against that person or entity pursuant to section 5–502 of this order, where the Secretary of Housing and Urban Development has issued a charge against such person or entity that has not been resolved, or where the Attorney General has filed a civil action in Federal Court against such person or entity.
 
@@ -226,7 +226,7 @@ Sec. 6. <i>General Provisions.</i>
 
 6–601. Nothing in this order shall limit the authority of the Attorney General to provide for the coordinated enforcement of nondiscrimination requirements in Federal assistance programs under Executive Order No. 12250 \[42 U.S.C. 2000d–1 note\].
 
-6–602. All provisions of regulations, guidelines, and procedures proposed to be issued by executive agenciespursuant to this order that implement nondiscrimination requirements of laws covered by Executive Order No. 12250 \[42 U.S.C. 2000d–1 note\] shall be submitted to the Attorney General for review in accordance with that Executive order. In addition, the Secretary shall consult with the Attorney General regarding all regulations and procedures proposed to be issued under sections 4–401 and 4–402 of this order to assure consistency with coordinated Federal efforts to enforce nondiscrimination requirements in programs of Federal financial assistance pursuant to Executive Order No. 12250.
+6–602. All provisions of regulations, guidelines, and procedures proposed to be issued by executive agencies pursuant to this order that implement nondiscrimination requirements of laws covered by Executive Order No. 12250 \[42 U.S.C. 2000d–1 note\] shall be submitted to the Attorney General for review in accordance with that Executive order. In addition, the Secretary shall consult with the Attorney General regarding all regulations and procedures proposed to be issued under sections 4–401 and 4–402 of this order to assure consistency with coordinated Federal efforts to enforce nondiscrimination requirements in programs of Federal financial assistance pursuant to Executive Order No. 12250.
 
 6–603. Nothing in this order shall affect the authority and responsibility of the Attorney General to commence any civil action authorized by the Act.
 

@@ -88,7 +88,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (13) Qualified risk manager
 
-&emsp;The term "qualified risk manager" means, with respect to a policyholder of commercialinsurance, a person who meets all of the following requirements:
+&emsp;The term "qualified risk manager" means, with respect to a policyholder of commercial insurance, a person who meets all of the following requirements:
 
 &emsp;&emsp;(A) The person is an employee of, or third-party consultant retained by, the commercial policyholder.
 
@@ -110,7 +110,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(DD) a designation as a RIMS Fellow (RF) issued by the Global Risk Management Institute; or
 
-&emsp;&emsp;&emsp;&emsp;(EE) any other designation, certification, or license determined by a State insurance commissioner or other State insurance regulatory official or entity to demonstrate minimum competency in risk management;
+&emsp;&emsp;&emsp;&emsp;(EE) any other designation, certification, or license determined by a Stateinsurance commissioner or other State insurance regulatory official or entity to demonstrate minimum competency in risk management;
 
 &emsp;&emsp;&emsp;(ii)(I) has at least 7 years of experience in risk financing, claims administration, loss prevention, risk and insurance coverage analysis, or purchasing commercial lines of insurance; and
 

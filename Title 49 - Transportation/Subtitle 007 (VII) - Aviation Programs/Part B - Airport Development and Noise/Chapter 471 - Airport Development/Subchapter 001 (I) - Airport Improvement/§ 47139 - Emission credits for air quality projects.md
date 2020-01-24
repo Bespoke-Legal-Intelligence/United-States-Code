@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Administrator of the Environmental Protection Agency, in consultation with the Secretary of Transportation, shall issue guidance on how to ensure that airport sponsors receive appropriate emission reduction credits for carrying out projects described insections 40117(a)(3)(G), 47102(3)(K), and 47102(3)(L). Such guidance shall include, at a minimum, the following conditions:
+In General.—The Administrator of the Environmental Protection Agency, in consultation with the Secretary of Transportation, shall issue guidance on how to ensure that airport sponsors receive appropriate emission reduction credits for carrying out projects described in sections 40117(a)(3)(G), 47102(3)(K), and 47102(3)(L). Such guidance shall include, at a minimum, the following conditions:
 
 &emsp;(1) The provision of credits is consistent with the Clean Air Act (42 U.S.C. 7402 et seq.).
 

@@ -18,7 +18,7 @@ Subsection (a) shall not apply to information, data, estimates, and statisticsâ€
 
 &emsp;&emsp;(A) matters necessary to be kept secret in the interests of national defense or the confidential conduct of the foreign relations of the United States;
 
-&emsp;&emsp;(B) information relating to trade secrets or financial or commercial information pertaining specifically to a given person if the information has been obtained by the Government on a confidential basis, other than through an application by such person for a specific financial or other benefit, and is required to be kept secret in order to prevent undue injury to the competitive position of such person; or
+&emsp;&emsp;(B) information relating to trade secrets or financial or commercial information pertaining specifically to a given person if the information has been obtained by the Government on a confidential basis, other thanthrough an application by such person for a specific financial or other benefit, and is required to be kept secret in order to prevent undue injury to the competitive position of such person; or
 
 &emsp;&emsp;(C) personnel or medical data or similar data the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
 

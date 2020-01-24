@@ -12,7 +12,7 @@ This section shall not apply—
 
 &emsp;(2) to any person, if such person shows that the failure to comply with the provisions of section 7512(b) was due to circumstances beyond his control.
 
-> For purposes of paragraph (2), a lack of funds existing immediately after the payment of wages (whether or not created by the payment of such wages) shall not be considered to be circumstances beyond the control of a person.
+> For purposes of paragraph (2), a lack of funds existing immediately after the payment of wages\(whether or not created by the payment of such wages) shall not be considered to be circumstances beyond the control of a person.
 
 (Added Pub. L. 85–321, §2, Feb. 11, 1958, 72 Stat. 6; amended Pub. L. 97–248, title III, §§307(a)(15), 308(a), Sept. 3, 1982, 96 Stat. 590, 591; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369.)
 

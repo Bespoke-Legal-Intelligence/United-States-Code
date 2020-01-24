@@ -28,7 +28,7 @@
 
 (e) When an allowance related to education away from post under this subchapter would be authorized with respect to an employee but for the evacuation or authorized departure status of the post, such an allowance may be furnished or continued for the purpose of allowing any dependent children of such employee to complete the current school year.
 
-(f)(1) If an employee dies at post in a foreign area, a transfer allowance under section5924(2)(B) may be granted to the spouse or dependents of such employee (or both) for the purpose of providing for their return to the United States.
+(f)(1) If an employee dies at post in a foreign area, a transfer allowance under section 5924(2)(B) may be granted to the spouse or dependents of such employee (or both) for the purpose of providing for their return to the United States.
 
 (2) A transfer allowance under this subsection may not be granted with respect to the spouse or a dependent of the employee unless, at the time of death, such spouse or dependent was residing—
 

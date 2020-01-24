@@ -10,7 +10,7 @@ General.—(1) A person may file a complaint in writing with the Secretary of Tr
 
 &emsp;(B) any question that may arise under this part.
 
-(3) The Secretary of Transportation, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration may dismiss a complaintwithout a hearing when the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration is of the opinion that the complaint does not state facts that warrant an investigation or action.
+(3) The Secretary of Transportation, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration may dismiss a complaint without a hearing when the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration is of the opinion that the complaint does not state facts that warrant an investigation or action.
 
 (4) After notice and an opportunity for a hearing and subject to section 40105(b) of this title, the Secretary of Transportation, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration shall issue an order to compel compliance with this part if the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration finds in an investigation under this subsection that a person is violating this part.
 
@@ -124,5 +124,5 @@ Subsec. (b). Pub. L. 107–71, §140(b)(2), substituted ", Under Secretary, or 
 
 #### Authority for Legal Counsel To Issue Certain Notices
 
-Pub. L. 115–254, div. B, title III, §396, Oct. 5, 2018, 132 Stat. 3327, provided that: "Not later than 90 days afterthe date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall designate the appropriate legal counsel of the \[Federal Aviation\] Administration as an appropriate official for purposes of section 13.11 of title 14, Code of Federal Regulations."
+Pub. L. 115–254, div. B, title III, §396, Oct. 5, 2018, 132 Stat. 3327, provided that: "Not later than 90 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall designate the appropriate legal counsel of the \[Federal Aviation\] Administration as an appropriate official for purposes of section 13.11 of title 14, Code of Federal Regulations."
 

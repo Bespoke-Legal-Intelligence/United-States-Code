@@ -46,7 +46,7 @@ For purposes of this part, part II, and chapter 3, the term "trade or business w
 
 #### (C) Limitation
 
-&emsp;&emsp;Subparagraphs (A)(i) and (B)(i) shall apply only if, at no time during the taxable year, the taxpayer has an office or other fixed place of business in the United States through which or by the direction of which the transactions in stocks or securities, or in commodities, as the case may be, are effected.
+&emsp;&emsp;Subparagraphs (A)(i) and (B)(i) shall apply only if, at no time during the taxable year,the taxpayer has an office or other fixed place of business in the United States through which or by the direction of which the transactions in stocks or securities, or in commodities, as the case may be, are effected.
 
 #### (c) Effectively connected income, etc.
 
@@ -56,7 +56,7 @@ For purposes of this part, part II, and chapter 3, the term "trade or business w
 
 &emsp;&emsp;(A) In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forth in paragraphs (2), (3), (4), (6), (7), and (8) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
-&emsp;&emsp;(B) Except as provided in paragraph (6) <sup>1</sup> (7), or (8) or in section 871(d) or sections882(d) and (e), in the case of a nonresident alien individual or a foreign corporation not engaged in trade or business within the United States during the taxable year, no income, gain, or loss shall be treated as effectively connected with the conduct of a trade or business within the United States.
+&emsp;&emsp;(B) Except as provided in paragraph (6) <sup>1</sup> (7), or (8) or in section 871(d) or sections 882(d) and (e), in the case of a nonresident alien individual or a foreign corporation not engaged in trade or business within the United States during the taxable year, no income, gain, or loss shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
 #### (2) Periodical, etc., income from sources within United States—factors
 
@@ -158,7 +158,7 @@ For purposes of this part, part II, and chapter 3, the term "trade or business w
 
 #### (E) Secretarial authority
 
-&emsp;&emsp;The Secretary shall prescribe such regulations or other guidance as the Secretary determines appropriate for the application of this paragraph, including with respect to exchanges described in section 332, 351, 354, 355, 356, or 361.
+&emsp;&emsp;The Secretary shall prescribe such regulations or other guidance as the Secretary determines appropriate for the application ofthis paragraph, including with respect to exchanges described in section 332, 351, 354, 355, 356, or 361.
 
 #### (d) Treatment of related person factoring income
 
@@ -322,7 +322,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(A) for the resourcing of income of any member of an affiliated group or modifications to the consolidated return regulations to the extent such resourcing or modification is necessary to carry out the purposes of this section,
 
-&emsp;&emsp;(B) for direct allocation of interest expense incurred to carry out an integrated financial transaction to any interest (or interest-type income) derived from such transaction and in other circumstances where such allocation would be appropriate to carry out the purposes of this subsection,
+&emsp;&emsp;(B) for direct allocation of interest expense incurred to carry out an integrated financial transaction to any interest (or interest-type income) derived from such transaction andin other circumstances where such allocation would be appropriate to carry out the purposes of this subsection,
 
 &emsp;&emsp;(C) for the apportionment of expenses allocated to foreign source income among the members of the affiliated group and various categories of income described in section 904(d)(1),
 
@@ -410,7 +410,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 #### (B) Financial corporation
 
-&emsp;&emsp;For purposes of this paragraph, the term "financial corporation" means any corporation if at least 80 percent of its gross income is income described in section 904(d)(2)(D)(ii)and the regulations thereunder which is derived from transactions with persons who are not related (within the meaning of section 267(b) or 707(b)(1)) to the corporation. For purposes of the preceding sentence, there shall be disregarded any item of income or gain from a transaction or series of transactions a principal purpose of which is the qualification of any corporation as a financial corporation.
+&emsp;&emsp;For purposes of this paragraph, the term "financial corporation" means any corporation if at least 80 percent of its gross income is income described in section 904(d)(2)(D)(ii) and the regulations thereunder which is derived from transactions with persons who are not related (within the meaning of section 267(b) or 707(b)(1)) to the corporation. For purposes of the preceding sentence, there shall be disregarded any item of income or gain from a transaction or series of transactions a principal purpose of which is the qualification of any corporation as a financial corporation.
 
 #### (C) Anti-abuse rules
 
@@ -466,7 +466,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 &emsp;&emsp;(B) In the case of any qualified research and experimental expenditures (not allocated under subparagraph (A)) to the extent—
 
-&emsp;&emsp;&emsp;(i) that such expenditures are attributable to activities conducted in theUnited States, 50 percent of such expenditures shall be allocated and apportioned to income from sources within the United States and deducted from such income in determining the amount of taxable income from sources within the United States, and
+&emsp;&emsp;&emsp;(i) that such expenditures are attributable to activities conducted in the United States, 50 percent of such expenditures shall be allocated and apportioned to income from sources within the United States and deducted from such income in determining the amount of taxable income from sources within the United States, and
 
 &emsp;&emsp;&emsp;(ii) that such expenditures are attributable to activities conducted outside the United States, 50 percent of such expenditures shall be allocated and apportioned to income from sources outside the United States and deducted from such income in determining the amount of taxable income from sources outside the United States.
 
@@ -516,13 +516,13 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 #### (5) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subsection, including regulations relating to the determination of whether any expenses are attributable to activities conducted in the United States or outside the United States and regulations providing such adjustments to the provisions of this subsection as may be appropriate in the case of cost-sharing arrangements and contract research.
+&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subsection, including regulations relating to the determination of whetherany expenses are attributable to activities conducted in the United States or outside the United States and regulations providing such adjustments to the provisions of this subsection as may be appropriate in the case of cost-sharing arrangements and contract research.
 
 #### (6) Applicability
 
 &emsp;This subsection shall apply to the taxpayer's first taxable year (beginning on or before August 1, 1994) following the taxpayer's last taxable year to which Revenue Procedure 92–56 applies or would apply if the taxpayer elected the benefits of such Revenue Procedure.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 89–809, title I, §102(d), Nov. 13, 1966, 80 Stat. 1544; Pub. L. 94–455, title XIX, §1901(a)(113), Oct. 4, 1976, 90 Stat. 1783; Pub. L. 98–369, div. A, title I, §§123(a), 127(c), July 18, 1984, 98 Stat. 644, 651; Pub. L. 99–514, title XII, §§1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§1810(c)(2), (3), 1899A(21), Oct. 22, 1986, 100 Stat. 2525, 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; Pub. L. 100–203, title X, §10242(b), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L.100–647, title I, §1012(a)(1)(B), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, 102 Stat. 3494, 3498, 3499, 3501–3503, 3521, 3525; Pub. L. 101–239, title VII, §7111, Dec. 19, 1989, 103 Stat. 2326; Pub. L. 101–508, title XI, §11401(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 102–227, title I, §101(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §13234, Aug. 10, 1993, 107 Stat. 504; Pub. L. 105–34, title XI, §1162(a), Aug. 5, 1997, 111 Stat. 987; Pub. L. 106–170, title V, §532(c)(2)(N)–(P), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–519, §4(3), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(6), title IV, §§401(a), (b), 403(b)(6), 413(c)(12), title VIII, §894(a), Oct. 22, 2004, 118 Stat. 1423, 1488, 1491, 1494, 1507, 1647; Pub. L. 110–289, div. C, title III, §3093(a), (b), July 30, 2008, 122 Stat. 2912; Pub. L. 111–92, §15(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §551(a), Mar. 18, 2010, 124 Stat. 117; Pub. L. 111–226, title II, §216(a), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–240, title II, §2122(c), Sept. 27, 2010, 124 Stat. 2568; Pub. L. 115–97, title I, §§13501(a), 14502(a), Dec. 22, 2017, 131 Stat. 2138, 2235; Pub. L. 115–141, div. U, title IV, §401(a)(152), (d)(1)(D)(x), (xvii)(IV), (V), Mar. 23, 2018, 132 Stat. 1191, 1207, 1208.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 89–809, title I, §102(d), Nov. 13, 1966, 80 Stat. 1544; Pub. L. 94–455, title XIX, §1901(a)(113), Oct. 4, 1976, 90 Stat. 1783; Pub. L. 98–369, div. A, title I, §§123(a), 127(c), July 18, 1984, 98 Stat. 644, 651; Pub. L. 99–514, title XII, §§1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§1810(c)(2), (3), 1899A(21), Oct. 22, 1986, 100 Stat. 2525, 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; Pub. L. 100–203, title X, §10242(b), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1012(a)(1)(B), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, 102 Stat. 3494, 3498, 3499, 3501–3503, 3521, 3525; Pub. L. 101–239, title VII, §7111, Dec. 19, 1989, 103 Stat. 2326; Pub. L. 101–508, title XI, §11401(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 102–227, title I, §101(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §13234, Aug. 10, 1993, 107 Stat. 504; Pub. L. 105–34, title XI, §1162(a), Aug. 5, 1997, 111 Stat. 987; Pub. L. 106–170, title V, §532(c)(2)(N)–(P), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–519, §4(3), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(6), title IV, §§401(a), (b), 403(b)(6), 413(c)(12), title VIII, §894(a), Oct. 22, 2004, 118 Stat. 1423, 1488, 1491, 1494, 1507, 1647; Pub. L. 110–289, div. C, title III, §3093(a), (b), July 30, 2008, 122 Stat. 2912; Pub. L. 111–92, §15(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §551(a), Mar. 18, 2010, 124 Stat. 117; Pub. L. 111–226, title II, §216(a), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–240, title II, §2122(c), Sept. 27, 2010, 124 Stat. 2568; Pub. L. 115–97, title I, §§13501(a), 14502(a), Dec. 22, 2017, 131 Stat. 2138, 2235; Pub. L. 115–141, div. U, title IV, §401(a)(152), (d)(1)(D)(x), (xvii)(IV), (V), Mar. 23, 2018, 132 Stat. 1191, 1207, 1208.)
 
 #### References in Text
 
@@ -668,7 +668,7 @@ Subsec. (c)(4)(B)(iii). Pub. L. 99–514, §1211(b)(2), struck out cl. (iii), wh
 
 Subsec. (c)(6), (7). Pub. L. 99–514, §1242(a), added pars. (6) and (7).
 
-Subsec. (d)(5)(A)(i). Pub. L. 99–514, §1201(d)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "Subparagraphs (A), (B), (C), and (D) of section 904(d)(2) (relating to interest income to which separate limitation applies) and subparagraph (J) of section 904(d)(3) (relating to interest from members of same affiliated group)."
+Subsec. (d)(5)(A)(i). Pub. L. 99–514, §1201(d)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read asfollows: "Subparagraphs (A), (B), (C), and (D) of section 904(d)(2) (relating to interest income to which separate limitation applies) and subparagraph (J) of section 904(d)(3) (relating to interest from members of same affiliated group)."
 
 Pub. L. 99–514, §1810(c)(3), inserted "and subparagraph (J) of section 904(d)(3) (relating to interest from members of same affiliated group)".
 
@@ -770,7 +770,7 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1201(d)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,except as otherwise provided, see section 1201(e) of Pub. L. 99–514, set out as a note under section 904 of this title.
+Amendment by section 1201(d)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1201(e) of Pub. L. 99–514, set out as a note under section 904 of this title.
 
 Amendment by section 1211(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1211(c) of Pub. L. 99–514, set out as an Effective Date note under section 865 of this title.
 
@@ -906,7 +906,7 @@ Coordination of subparagraphs (a) and (b).—In applying subparagraph (B), there
 
 Special rules.—
 
-&emsp;&emsp;"(i) In the case of the 1st 9 taxable years of the taxpayer beginning after December 31, 1986, the amendments made by this section shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does notexceed the applicable percentage (determined under the following table) of the indebtedness described in clause (iii) or (iv):
+&emsp;&emsp;"(i) In the case of the 1st 9 taxable years of the taxpayer beginning after December 31, 1986, the amendments made by this section shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does not exceed the applicable percentage (determined under the following table) of the indebtedness described in clause (iii) or (iv):
 
 &nbsp;
 
@@ -1010,7 +1010,7 @@ In general.—The amendment made by this section \[amending section 1215(c) of P
 
 \["(2)
 
-Special rule.—In the case of the first taxable year beginning after December 31, 1995, the pre-effective date portion of the interest expense of the corporation referred to in such paragraph (5) of such section 1215(c) \[of Pub. L. 99–514\] for such taxable year shall be allocated and apportioned without regard to such amendment. For purposes of the preceding sentence, the pre-effective date portion is the amount which bears the same ratio to the interest expense for such taxable year as the number of days during such taxable year before the date of the enactment of this Act \[Aug. 21, 1996\] bears to 366."\]
+Special rule.—In the case of the first taxable year beginning after December 31, 1995, the pre-effective date portion of the interest expense of the corporation referred to in such paragraph (5) of such section 1215(c) \[of Pub. L. 99–514\] for such taxable year shall be allocated and apportioned without regard to suchamendment. For purposes of the preceding sentence, the pre-effective date portion is the amount which bears the same ratio to the interest expense for such taxable year as the number of days during such taxable year before the date of the enactment of this Act \[Aug. 21, 1996\] bears to 366."\]
 
 Amendment by section 1221(a)(2) of Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, except as otherwise provided, see section 1221(g) of Pub. L. 99–514, set out as a note under section 954 of this title.
 
@@ -1020,7 +1020,7 @@ Pub. L. 99–514, title XII, §1242(c), Oct. 22, 1986, 100 Stat. 2580, provided 
 
 Amendment by section 1275(c)(7) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
-Amendment by section 1810(c)(2), (3) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L.98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1810(c)(2), (3) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

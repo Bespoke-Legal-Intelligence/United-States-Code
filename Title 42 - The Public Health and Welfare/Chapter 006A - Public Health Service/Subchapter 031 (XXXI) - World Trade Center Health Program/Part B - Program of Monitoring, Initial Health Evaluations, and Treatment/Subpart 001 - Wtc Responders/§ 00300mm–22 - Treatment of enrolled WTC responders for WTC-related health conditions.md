@@ -132,7 +132,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Whenever the WTC Program Administrator determines that a proposed rule should be promulgated to add a health condition to the list of health conditions in paragraph (3), the Administrator may request a recommendation of the Advisory Committee or may publish such a proposed rule in the Federal Register in accordance with subparagraph (D).
+&emsp;&emsp;Whenever the WTC Program Administrator determines that a proposed ruleshould be promulgated to add a health condition to the list of health conditions in paragraph (3), the Administrator may request a recommendation of the Advisory Committee or may publish such a proposed rule in the Federal Register in accordance with subparagraph (D).
 
 #### (B) Administrator's options after receipt of petition
 
@@ -158,7 +158,7 @@
 
 &emsp;&emsp;&emsp;(ii) provide interested parties a period of 30 days after such publication to submit written comments on the proposed rule.
 
-> &emsp;&emsp;The WTC Program Administrator may extend the period described in clause (ii) upona finding of good cause. In the case of such an extension, the Administrator shall publish such extension in the Federal Register.
+> &emsp;&emsp;The WTC Program Administrator may extend the period described in clause (ii) upon a finding of good cause. In the case of such an extension, the Administrator shall publish such extension in the Federal Register.
 
 #### (E) Interested party defined
 
@@ -194,7 +194,7 @@
 
 &emsp;&emsp;&emsp;(i) the physician shall promptly transmit such determination to the WTC Program Administrator and provide the Administrator with the medical facts supporting such determination; and
 
-&emsp;&emsp;&emsp;(ii) on and after the date of such transmittal and subject to subparagraph (B), the WTC Program shall provide for payment under subsection (c) for medically necessary treatment for such condition.
+&emsp;&emsp;&emsp;(ii) on and after the date of such transmittal and subject to subparagraph (B),the WTC Program shall provide for payment under subsection (c) for medically necessary treatment for such condition.
 
 #### (B) Review; certification; appeals
 
@@ -320,7 +320,7 @@
 
 #### (A) Review of medical necessity and protocols
 
-&emsp;&emsp;As part of the process for reimbursement or payment under this subsection, the WTC Program Administrator shall provide for the review of claims for reimbursement or payment for the provision of medical treatment to determine if such treatment is medically necessary and in accordance with medical treatment protocols established under subsection (d).
+&emsp;&emsp;As part of the process for reimbursement or payment under this subsection, the WTC Program Administrator shall provide for the review of claims for reimbursement or payment for the provision of medical treatment to determine if such treatment is medicallynecessary and in accordance with medical treatment protocols established under subsection (d).
 
 #### (B) Withholding of payment for medically unnecessary treatment
 

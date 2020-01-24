@@ -22,7 +22,7 @@ Immediate security risk.—If the Administrator of the Transportation Security A
 
 &emsp;(3)
 
-Procedures for appeals.—The Administrator of the Transportation Security Administration, in consultation with the Administrator of the Federal Aviation Administration,shall establish procedures for appealing a revocation of a certificate under this subsection.
+Procedures for appeals.—The Administrator of the Transportation Security Administration, in consultation with the Administrator of the Federal Aviation Administration, shall establish procedures for appealing a revocation of a certificate under this subsection.
 
 (d)
 

@@ -42,7 +42,7 @@
 
 Subsec. (a)(1). Pub. L. 109–461, §301(b)(2)(A), substituted "Each eligible person, whether made eligible by one or more of the provisions of section 3501(a)(1) of this title," for "Each eligible person" and "an aggregate period" for "a period" in first sentence and struck out second sentence, which read as follows: "In no event may the aggregate educational assistance afforded to a spouse made eligible under both sections 3501(a)(1)(D)(i) and 3501(a)(1)(D)(ii) of this title exceed 45 months."
 
-Pub. L. 109–444, §3(b)(2)(A), which substituted "Each eligible person, whether made eligible by one or moreof the provisions of section 3501(a)(1) of this title," for "Each eligible person" and "an aggregate period" for "a period" in first sentence and struck out second sentence, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+Pub. L. 109–444, §3(b)(2)(A), which substituted "Each eligible person, whether made eligible by one or more of the provisions of section 3501(a)(1) of this title," for "Each eligible person" and "an aggregate period" for "a period" in first sentence and struck out second sentence, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 Pub. L. 109–233 inserted "sections" after "under both".
 
@@ -74,7 +74,7 @@ Subsec. (c). Pub. L. 107–103, §108(b)(1), added subsec. (c).
 
 Subsec. (a). Pub. L. 102–127 designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted "3501(a)(8)" for "1701(a)(8)" in par. (1), "3501(a)(1)(A)(iii) or 3501(a)(1)(C)" for "1701(a)(1)(A)(iii) or 1701(a)(1)(C)" in par. (2), and "3501(a)(1)(D)" for "1701(a)(1)(D)" in par. (3).
+Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted "3501(a)(8)" for "1701(a)(8)" in par. (1), "3501(a)(1)(A)(iii)or 3501(a)(1)(C)" for "1701(a)(1)(A)(iii) or 1701(a)(1)(C)" in par. (2), and "3501(a)(1)(D)" for "1701(a)(1)(D)" in par. (3).
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–502, §303(1), substituted "45 months" for "thirty-six months".
 

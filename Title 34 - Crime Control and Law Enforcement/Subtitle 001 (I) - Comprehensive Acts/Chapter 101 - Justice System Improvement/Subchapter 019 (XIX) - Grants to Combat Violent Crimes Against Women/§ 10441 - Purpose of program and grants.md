@@ -10,7 +10,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;(1) training law enforcement officers, judges, other court personnel, and prosecutors to more effectively identify and respond to violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking, including the appropriate use of nonimmigrant status under subparagraphs (T) and (U) of section 1101(a)(15) of title 8;
 
-&emsp;(2) developing, training, or expanding units of law enforcement officers, judges, other court personnel, and prosecutors specifically targeting violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking;
+&emsp;(2) developing, training, or expanding units of law enforcement officers, judges, other court personnel, and prosecutors specificallytargeting violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking;
 
 &emsp;(3) developing and implementing more effective police, court, and prosecution policies, protocols, orders, and services specifically devoted to preventing, identifying, and responding to violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking, as well as the appropriate treatment of victims;
 
@@ -32,7 +32,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;(12) supporting the placement of special victim assistants (to be known as "Jessica Gonzales Victim Assistants") in local law enforcement agencies to serve as liaisons between victims of domestic violence, dating violence, sexual assault, and stalking and personnel in local law enforcement agencies in order to improve the enforcement of protection orders. Jessica Gonzales Victim Assistants shall have expertise in domestic violence, dating violence, sexual assault, or stalking and may undertake the following activities—
 
-&emsp;&emsp;(A) developing, in collaboration with prosecutors, courts, and victim service providers, standardized response policies for local law enforcement agencies, including the useof evidence-based indicators to assess the risk of domestic and dating violence homicide and prioritize dangerous or potentially lethal cases;
+&emsp;&emsp;(A) developing, in collaboration with prosecutors, courts, and victim service providers, standardized response policies for local law enforcement agencies, including the use of evidence-based indicators to assess the risk of domestic and dating violence homicide and prioritize dangerous or potentially lethal cases;
 
 &emsp;&emsp;(B) notifying persons seeking enforcement of protection orders as to what responses will be provided by the relevant law enforcement agency;
 
@@ -48,7 +48,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;&emsp;(C) the development of such protocols in collaboration with State, tribal, territorial and local victim service providers and domestic violence coalitions.
 
-> &emsp;Any law enforcement, State, tribal, territorial, or local government agency receiving funding under the Crystal Judson Domestic Violence Protocol Program under paragraph (13) shall on an annual basis, receive additional training on the topic of incidents of domestic violence committed by law enforcement personnel from domestic violence and sexual assault nonprofit organizations and, after a period of 2 years, provide a report of the adopted protocol to the Department of Justice, including a summary of progress in implementing such protocol;
+> &emsp;Any law enforcement, State, tribal, territorial, or local government agency receiving funding under the Crystal Judson Domestic Violence Protocol Program under paragraph (13) shall on an annual basis, receive additional training on the topic of incidents of domestic violence committed by law enforcement personnel from domestic violence and sexual assault nonprofit organizations and, after a period of 2 years, provide a report of the adopted protocol to the Department ofJustice, including a summary of progress in implementing such protocol;
 
 &emsp;(14) developing and promoting State, local, or tribal legislation and policies that enhance best practices for responding to domestic violence, dating violence, sexual assault, and stalking;
 
@@ -126,7 +126,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;Nothing in this subsection prohibits any tribal coalition or organization described in paragraph (2) from applying for funding to address sexual assault or domestic violence needs in the same application.
 
-(Pub. L. 90–351, title I, §2001, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1910; amended Pub. L. 106–386, div. B, title I, §§1102(a)(1), 1103(b)(1), 1109(b), title II, §1209(c), title V, §1512(a), Oct. 28, 2000, 114 Stat. 1494, 1495, 1503, 1509, 1533; Pub. L. 108–405, title III, §310(a), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(b), Jan. 5, 2006, 119 Stat. 2972; Pub. L. 111–320, title II, §202(c), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 113–4, title I, §101(2), title IX, §902, Mar. 7, 2013, 127 Stat. 65, 119.)
+(Pub. L. 90–351, title I, §2001, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1910; amended Pub. L. 106–386, div. B, title I, §§1102(a)(1), 1103(b)(1), 1109(b), title II, §1209(c),title V, §1512(a), Oct. 28, 2000, 114 Stat. 1494, 1495, 1503, 1509, 1533; Pub. L. 108–405, title III, §310(a), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(b), Jan. 5, 2006, 119 Stat. 2972; Pub. L. 111–320, title II, §202(c), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 113–4, title I, §101(2), title IX, §902, Mar. 7, 2013, 127 Stat. 65, 119.)
 
 #### References in Text
 

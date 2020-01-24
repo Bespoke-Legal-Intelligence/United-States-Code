@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 #### (b) Standards
 
-The standards shall be designed to reduce the risk of loss of life to building occupants to the maximum extent feasible and to reduce the risk of shake-related property damage to the maximum extent practicable.
+The standards shall be designed to reduce the risk of loss of life to building occupants to themaximum extent feasible and to reduce the risk of shake-related property damage to the maximum extent practicable.
 
 #### (c) Consultation
 

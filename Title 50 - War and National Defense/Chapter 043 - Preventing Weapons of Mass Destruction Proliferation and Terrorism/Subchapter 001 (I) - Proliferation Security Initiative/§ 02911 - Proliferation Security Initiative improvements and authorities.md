@@ -2,7 +2,7 @@
 
 #### (a) Sense of Congress
 
-It is the sense of Congress, consistent with the 9/11 Commission's recommendations, that the President should strive to expand and strengthen the Proliferation Security Initiative (in this subchapter referred to as "PSI") announced by the President on May 31, 2003, with a particular emphasis on the following:
+It is the sense of Congress, consistent with the 9/11 Commission's recommendations, that thePresident should strive to expand and strengthen the Proliferation Security Initiative (in this subchapter referred to as "PSI") announced by the President on May 31, 2003, with a particular emphasis on the following:
 
 &emsp;(1) Issuing a presidential directive to the relevant United States Government agencies and departments that directs such agencies and departments to—
 

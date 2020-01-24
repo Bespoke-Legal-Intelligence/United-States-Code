@@ -40,7 +40,7 @@ The requirements of this chapter shall not apply to any group health plan in rel
 
 #### (1) In general
 
-&emsp;For purposes of this title (except as provided in section 4980I(f)(4) and notwithstanding any other provision of this title), the term "group health plan" shall not include any qualified small employer health reimbursement arrangement.
+&emsp;For purposes of this title (and notwithstanding any other provision of this title), the term "group health plan" shall not include anyqualified small employer health reimbursement arrangement.
 
 #### (2) Qualified small employer health reimbursement arrangement
 
@@ -124,9 +124,9 @@ The requirements of this chapter shall not apply to any group health plan in rel
 
 &emsp;&emsp;&emsp;(ii) A statement that the eligible employee should provide the information described in clause (i) to any health insurance exchange to which the employee applies for advance payment of the premium assistance tax credit.
 
-&emsp;&emsp;&emsp;(iii) A statement that if the employee is not covered under minimum essential coverage for any month the employee may be subject to tax under section 5000A for suchmonth and reimbursements under the arrangement may be includible in gross income.
+&emsp;&emsp;&emsp;(iii) A statement that if the employee is not covered under minimum essential coverage for any month the employee may be subject to tax under section 5000A for such month and reimbursements under the arrangement may be includible in gross income.
 
-(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2080, §9804; renumbered §9831 and amended Pub. L. 105–34, title XV, §1531(a)(2), (b)(1)(B)–(E), Aug. 5, 1997, 111 Stat. 1081, 1084, 1085; Pub. L. 114–255, div. C, title XVIII, §18001(a)(1), Dec. 13, 2016, 130 Stat. 1338; Pub. L. 115–97, title I, §11002(d)(1)(TT), Dec. 22, 2017, 131 Stat. 2061.)
+(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2080, §9804; renumbered §9831 and amended Pub. L. 105–34, title XV, §1531(a)(2), (b)(1)(B)–(E), Aug. 5, 1997, 111 Stat. 1081, 1084, 1085; Pub. L. 114–255, div. C, title XVIII, §18001(a)(1), Dec. 13, 2016, 130 Stat. 1338; Pub. L. 115–97, title I, §11002(d)(1)(TT), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 116–94, div. N, title I, §503(b)(2), Dec. 20, 2019, 133 Stat. 3119.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -134,11 +134,17 @@ The requirements of this chapter shall not apply to any group health plan in rel
 
 #### Amendments
 
+<b>2019</b>—Subsec. (d)(1). Pub. L. 116–94 struck out "except as provided in section 4980I(f)(4)" before "and notwithstanding any other provision of this title".
+
 <b>2017</b>—Subsec. (d)(2)(D)(ii)(II). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>2016</b>—Subsec. (d). Pub. L. 114–255 added subsec. (d).
 
 <b>1997</b>—Pub. L. 105–34 renumbered section 9804 of this title as this section and substituted reference to section 9832 of this title for reference to section 9805 of this title in subsecs. (b) and (c)(1) to (3).
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–94 applicable to taxable years beginning after Dec. 31, 2019, see section 503(c) of Pub. L. 116–94, set out as a note under section 6051 of this title.
 
 #### Effective Date of 2017 Amendment
 

@@ -68,7 +68,7 @@ The Secretary shall provide—
 
 &emsp;&emsp;&emsp;(ii) a certification that the recipient will maintain adequate insurance coverage for housing units that are owned and operated or assisted with grant amounts provided under this chapter, in compliance with such requirements as the Secretary may establish;
 
-&emsp;&emsp;&emsp;(iii) a certification that policies are in effect and are available for review by theSecretary and the public governing the eligibility, admission, and occupancy of families for housing assisted with grant amounts provided under this chapter;
+&emsp;&emsp;&emsp;(iii) a certification that policies are in effect and are available for review by the Secretary and the public governing the eligibility, admission, and occupancy of families for housing assisted with grant amounts provided under this chapter;
 
 &emsp;&emsp;&emsp;(iv) a certification that policies are in effect and are available for review by the Secretary and the public governing rents and homebuyer payments charged, including the methods by which the rents or homebuyer payments are determined, for housing assisted with grant amounts provided under this chapter;
 
@@ -100,7 +100,7 @@ This chapter, referred to in subsec. (b)(2), was in the original "this Act", mea
 
 The United States Housing Act of 1937, referred to in subsec. (b)(2)(A)(v), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The Civil Rights Act of 1968, referred to in subsec. (b)(2)(D)(i), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73. Title II of the Act, popularly known as the Indian Civil Rights Act of 1968, is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42, The Public Health and Welfare, and Tables.
+The Civil Rights Act of 1968, referred to in subsec. (b)(2)(D)(i), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73.Title II of the Act, popularly known as the Indian Civil Rights Act of 1968, is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42, The Public Health and Welfare, and Tables.
 
 #### Amendments
 

@@ -30,7 +30,7 @@ Concurrence of the Secretary of State.—The Secretary of Defense shall seek the
 
 (d)
 
-Support From Other United States Government Departments or Agencies.—The headof any non-Department of Defense department or agency of the United States Government may—
+Support From Other United States Government Departments or Agencies.—The head of any non-Department of Defense department or agency of the United States Government may—
 
 &emsp;(1) provide to the Secretary of Defense services, including personnel support, to support the operations of the Center; and
 
@@ -60,7 +60,7 @@ Acceptance of Gifts and Donations.—(1) Subject to paragraph (3), the Secretary
 
 (f)
 
-Crediting of Funds Transferred or Accepted.—Funds transferred to or accepted by the Secretary of Defense under this section shall be credited to appropriations available to the Department of Defense for the Center, and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriations with which merged. Any funds so transferred or accepted shall remain available until expended.
+Crediting of Funds Transferred or Accepted.—Funds transferred to or accepted bythe Secretary of Defense under this section shall be credited to appropriations available to the Department of Defense for the Center, and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriations with which merged. Any funds so transferred or accepted shall remain available until expended.
 
 (g)
 

@@ -24,7 +24,7 @@ The area described in this subsection is the portion of the Hudson River, New Yo
 
 &emsp;Thence south 11°–05′–40″ east, 42.40 feet to a point of curvature;
 
-&emsp;Thence southerly, on the arc of a circle curving to the right, having a radius of 220.00feet and a central angle of 16°–37′–40″, 63.85 feet to a point of compound curvature;
+&emsp;Thence southerly, on the arc of a circle curving to the right, having a radius of 220.00 feet and a central angle of 16°–37′–40″, 63.85 feet to a point of compound curvature;
 
 &emsp;Thence still southerly, on the arc of a circle curving to the right, having a radius of 150.00 feet and a central angle of 38°–39′–00″, 101.19 feet to another point of compound curvature;
 

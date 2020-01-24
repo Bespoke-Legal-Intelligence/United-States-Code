@@ -10,7 +10,7 @@
 
 &emsp;(3) any other cemetery, memorial, or monument transferred to the Veterans' Administration by the National Cemeteries Act of 1973, or later acquired or developed by the Secretary.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1000; amended Pub. L. 99–576, title VII,§701(52), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–527, §13(i), Oct. 25, 1988, 102 Stat. 2644; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2400 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 105–368, title IV, §403(c)(3), Nov. 11, 1998, 112 Stat. 3338.)
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1000; amended Pub. L. 99–576, title VII, §701(52), Oct. 28, 1986, 100 Stat. 3295; Pub. L.100–527, §13(i), Oct. 25, 1988, 102 Stat. 2644; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2400 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 105–368, title IV, §403(c)(3), Nov. 11, 1998, 112 Stat. 3338.)
 
 #### References in Text
 
@@ -59,6 +59,66 @@ Pub. L. 93–43, §10(a), June 18, 1973, 87 Stat. 88, provided that: "The first 
 #### Short Title
 
 For short title of Pub. L. 93–43, June 18, 1973, 87 Stat. 75, which enacted this chapter, as the "National Cemeteries Act of 1973", see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under section 101 of this title.
+
+#### Grants for Cemetery Research and the Production of Educational Materials
+
+Pub. L. 116–107, §1, Jan. 17, 2020, 133 Stat. 3292, provided that:
+
+"(a)
+
+Grants Authorized.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Veterans Affairs may establish a grant program to conduct cemetery research and produce educational materials for the Veterans Legacy Program.
+
+&emsp;"(2)
+
+Eligible recipients.—The Secretary may award a grant under this section to any of the following entities:
+
+&emsp;&emsp;"(A) An institution of higher learning.
+
+&emsp;&emsp;"(B) A local education agency.
+
+&emsp;&emsp;"(C) A non-profit entity that the Secretary determines has a demonstrated history of community engagement.
+
+&emsp;&emsp;"(D) Another recipient the Secretary determines to be appropriate.
+
+&emsp;"(3)
+
+Use of funds.—A recipient of a grant under this section may use the grant amount to—
+
+&emsp;&emsp;"(A) conduct research related to national, State, or Tribal veterans' cemeteries;
+
+&emsp;&emsp;"(B) produce education materials that teach about the history of veterans interred in national, State, or Tribal veterans' cemeteries; and
+
+&emsp;&emsp;"(C) promote community engagement with the histories of veterans interred in national, State, or Tribal veterans' cemeteries.
+
+&emsp;"(4)
+
+Maximum amount.—A grant awarded under this section may not exceed $500,000.
+
+"(b)
+
+Regulations.—If the Secretary establishes a grant program under this section, the Secretary shall prescribe regulations regarding—
+
+&emsp;"(1) the evaluation of applications for grants under the program; and
+
+&emsp;"(2) administration of the program.
+
+"(c)
+
+Report Required.—Not later than 2 years after the Secretary establishes a grant program under this section, the Secretary shall submit to the committees on Veterans' Affairs of the House of Representatives and the Senate a report regarding the determination of the Secretary whether the grant program is a financially effective means to promote the purposes in subsection (a)(3).
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'Veterans Legacy Program' means the program of the National Cemetery Administration that is responsible for providing engagement and educational tools and opportunities to the public regarding the service and sacrifice of veterans interred in national, State, or Tribal veterans' cemeteries.
+
+&emsp;"(2) The term 'institution of higher learning' has the meaning given that term in section 3452(f) of title 38, United States Code.
+
+&emsp;"(3) The term 'local educational agency' has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)."
 
 #### Reports on Selection of New National Cemeteries
 
@@ -180,7 +240,7 @@ Reports.—(1) Not later than 120 days after the date of the enactment of this A
 
 #### Reimbursement of Account
 
-Pub. L. 105–276, title I, Oct. 21, 1998, 112 Stat. 2466, provided in part: "That during fiscal year 1999, or in subsequent fiscal years, the 'Construction, major projects' account shall be reimbursed, in the amount transferred, from other funds as they become part of the Pershing Hall Revolving Fund."
+Pub. L. 105–276, title I, Oct. 21, 1998, 112 Stat. 2466, provided in part: "That during fiscal year 1999, or in subsequent fiscal years, the 'Construction, major projects'account shall be reimbursed, in the amount transferred, from other funds as they become part of the Pershing Hall Revolving Fund."
 
 #### Transfer of Pershing Hall to Department of Veterans Affairs
 

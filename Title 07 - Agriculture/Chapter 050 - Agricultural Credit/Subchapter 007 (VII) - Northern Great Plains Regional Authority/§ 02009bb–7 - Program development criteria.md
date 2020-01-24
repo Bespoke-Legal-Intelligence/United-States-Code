@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In considering programs and projects to be provided assistance under this subchapter, andin establishing a priority ranking of the requests for assistance provided to the Authority, the Authority shall follow procedures that ensure, to the maximum extent practicable, consideration of—
+In considering programs and projects to be provided assistance under this subchapter, and in establishing a priority ranking of the requests for assistance provided to the Authority, the Authority shall follow procedures that ensure, to the maximum extent practicable, consideration of—
 
 &emsp;(1) the relationship of the project or class of projects to overall multistate or regional development;
 

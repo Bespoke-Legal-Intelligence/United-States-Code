@@ -54,7 +54,7 @@ The Administrator shall support eligible activities contained in State applicati
 
 &emsp;(2) The potential for the activity or project to bring about reduction in radon levels.
 
-&emsp;(3) The potential for development of innovative radon assessment techniques, mitigation measures as approved by the Administrator, orprogram management approaches which may be of use to other States.
+&emsp;(3) The potential for development of innovative radon assessment techniques, mitigation measures as approved by the Administrator, or program management approaches which may be of use to other States.
 
 &emsp;(4) Any other uniform criteria that the Administrator deems necessary to promote the goals of the grant program and that the Administrator provides to States before the application process.
 

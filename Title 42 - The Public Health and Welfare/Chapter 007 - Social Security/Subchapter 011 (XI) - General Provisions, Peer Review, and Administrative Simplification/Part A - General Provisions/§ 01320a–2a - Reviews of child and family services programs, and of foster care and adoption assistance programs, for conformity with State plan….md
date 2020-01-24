@@ -54,7 +54,7 @@ The regulations referred to in subsection (a) shall—
 
 &emsp;(2) afford the State an opportunity to appeal the determination to the Departmental Appeals Board within 60 days after receipt of the notice described in paragraph (1) (or, if later, after failure to continue or to complete a corrective action plan); and
 
-&emsp;(3) afford the State an opportunity to obtain judicial review of an adverse decision of the Board, within 60 days after the State receives notice of the decision of the Board, by appeal to the district court of the United States for the judicial district in which the principal or headquarters office of the agency responsible for administering the program is located.
+&emsp;(3) afford the State an opportunity to obtain judicial review of an adverse decision of the Board, within 60 days after the State receives notice of the decision of the Board, by appealto the district court of the United States for the judicial district in which the principal or headquarters office of the agency responsible for administering the program is located.
 
 (Aug. 14, 1935, ch. 531, title XI, §1123A, formerly §1123, as added Pub. L. 103–432, title II, §203(a), Oct. 31, 1994, 108 Stat. 4454; renumbered §1123A, Pub. L. 104–193, title V, §504, Aug. 22, 1996, 110 Stat. 2278; amended Pub. L. 109–432, div. B, title IV, §405(c)(1)(B)(ii), Dec. 20, 2006, 120 Stat. 2999.)
 

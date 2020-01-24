@@ -8,7 +8,7 @@ Limitation.—
 
 Issuance of licenses.—A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless—
 
-&emsp;&emsp;(A) "the Secretary of Homeland Security"; <sup>1</sup> has first determined, upon receipt of a notification under subsection (d)(1)(B), that the individual does not pose a security risk warranting denial of the license; or
+&emsp;&emsp;(A) "the Secretary of Homeland Security"; <sup>1</sup> has first determined, upon receipt of a notification under subsection (d)(1)(B),that the individual does not pose a security risk warranting denial of the license; or
 
 &emsp;&emsp;(B) the individual holds a valid transportation security card issued under section 70105 of title 46.
 
@@ -68,7 +68,7 @@ In general.—
 
 &emsp;&emsp;(A)
 
-Employer notification.—Not later than 90 days after the date of enactment ofthis subsection, the Director of the Transportation Security Administration, after receiving comments from interested parties, shall develop and implement a process for notifying hazmat employers designated by an applicant of the results of the applicant's background record check, if—
+Employer notification.—Not later than 90 days after the date of enactment of this subsection, the Director of the Transportation Security Administration, after receiving comments from interested parties, shall develop and implement a process for notifying hazmat employers designated by an applicant of the results of the applicant's background record check, if—
 
 &emsp;&emsp;&emsp;(i) such notification is appropriate considering the potential security implications; and
 

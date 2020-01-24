@@ -1,4 +1,4 @@
 ### §564. Repealed. Pub. L. 115–245, div. B, title I, §117(b)(1), Sept. 28, 2018, 132 Stat. 3067
 
-Section, Pub. L. 91–204, title I, §100, Mar. 5, 1970, 84 Stat. 26, made the Working Capital Fund available forexpenses necessary for personnel functions in regional administrative offices.
+Section, Pub. L. 91–204, title I, §100, Mar. 5, 1970, 84 Stat. 26, made the Working Capital Fund available for expenses necessary for personnel functions in regional administrative offices.
 

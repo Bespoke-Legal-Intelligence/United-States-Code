@@ -8,7 +8,7 @@
 
 (d) For architectural and engineering services and construction design related to military construction and family housing projects, the Secretaries of the military departments may incur obligations for contracts or portions of contracts using military construction and family housing appropriations from different fiscal years to the extent that those appropriations are available for obligation.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 156; amended Pub. L. 98–115, title VIII, §804, Oct. 11, 1983, 97 Stat. 785; Pub. L. 99–661, div. B, title VII, §§2702(b), 2712(a), Nov. 14, 1986, 100 Stat. 4040, 4041; Pub. L. 102–190, div. B, title XXVIII, §2870(6), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 105–261, div. B, title XXVIII, §2801, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 108–136, div. A, titleX, §1031(a)(37), Nov. 24, 2003, 117 Stat. 1601; Pub. L. 115–91, div. B, title XXVIII, §2801(a)(5), Dec. 12, 2017, 131 Stat. 1841.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 156; amended Pub. L. 98–115, title VIII, §804, Oct. 11, 1983, 97 Stat. 785; Pub. L. 99–661, div. B, title VII, §§2702(b), 2712(a), Nov. 14, 1986, 100 Stat. 4040, 4041; Pub. L. 102–190, div. B, title XXVIII, §2870(6), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 105–261, div. B, title XXVIII, §2801, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 108–136, div. A, title X, §1031(a)(37), Nov. 24, 2003, 117 Stat. 1601; Pub. L. 115–91, div. B, title XXVIII, §2801(a)(5), Dec. 12, 2017, 131 Stat. 1841.)
 
 #### Amendments
 
@@ -22,7 +22,7 @@ Subsec. (c)(2). Pub. L. 108–136, §1031(a)(37)(B), inserted before period at e
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–261, §2801(a), substituted "$500,000" for "$300,000".
 
-Subsec. (d). Pub. L. 105–261, §2801(b), substituted "architectural and engineering services and construction design" for "study, planning, design, architectural, and engineering services".
+Subsec. (d). Pub. L. 105–261, §2801(b), substituted "architectural and engineering services and constructiondesign" for "study, planning, design, architectural, and engineering services".
 
 <b>1991</b>—Subsec. (c)(2). Pub. L. 102–190 substituted "after" for "after either" and struck out before period at end "or after each such committee has indicated approval of the increased level of activity".
 

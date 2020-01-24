@@ -4,7 +4,7 @@
 
 (1) Except as provided by subsection (b), it shall be unlawful for any person in any State to distribute or sell to any person—
 
-&emsp;(A) any pesticide that is not registered under section 136a of this title or whose registration has been canceled or suspended, except to the extent that distribution or sale otherwise has been authorized by the Administrator under this subchapter;
+&emsp;(A) any pesticide that is not registered under section 136a of this title or whose registrationhas been canceled or suspended, except to the extent that distribution or sale otherwise has been authorized by the Administrator under this subchapter;
 
 &emsp;(B) any registered pesticide if any claims made for it as a part of its distribution or sale substantially differ from any claims made for it as a part of the statement required in connection with its registration under section 136a of this title;
 
@@ -104,7 +104,7 @@ Subsec. (a)(1)(A). Pub. L. 100–532, §603(1), added subpar. (A) and struck out
 
 Subsec. (a)(2)(B). Pub. L. 100–532, §603(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: "to refuse to keep any records required pursuant to section 136f of this title, or to refuse to allow inspection of any records or establishment pursuant to section 136f or 136g of this title, or to refuse to allow an officer or employee of the Environmental Protection Agency to take a sample of any pesticide pursuant to section 136g of this title;".
 
-Subsec. (a)(2)(F). Pub. L. 100–532, §§601(b)(2)(B), 801(g), substituted "to distribute or sell, or to make" for "tomake" and "thereunder, It" for "thereunder: <i>Provided</i>, That it".
+Subsec. (a)(2)(F). Pub. L. 100–532, §§601(b)(2)(B), 801(g), substituted "to distribute or sell, or to make" for "to make" and "thereunder, It" for "thereunder: <i>Provided</i>, That it".
 
 Subsec. (a)(2)(J). Pub. L. 100–532, §801(q)(2)(B), made a technical amendment to the reference to section 136a–1 of this title to reflect the renumbering of the corresponding section of the original act.
 

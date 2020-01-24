@@ -14,7 +14,7 @@
 
 > is entitled to be paid the lump-sum credit. Except as provided in section 8420a, payment of the lump-sum credit to an employee or Member voids all annuity rights under this subchapter, and subchapters IV and V of this chapter, based on the service on which the lump-sum credit is based, until the employee or Member is reemployed in the service subject to this chapter.
 
-(b)(1)(A) Payment of the lump-sum credit under subsection (a) may be made only if the spouse, if any, and any former spouse of the employee or Member are notified of the employee or Member's application.
+(b)(1)(A) Payment of the lump-sum credit under subsection (a) may be made only if thespouse, if any, and any former spouse of the employee or Member are notified of the employee or Member's application.
 
 (B) The Office shall prescribe regulations under which the lump-sum credit shall not be paid without the consent of a spouse or former spouse of the employee or Member where the Office has received such additional information or documentation as the Office may require that—
 

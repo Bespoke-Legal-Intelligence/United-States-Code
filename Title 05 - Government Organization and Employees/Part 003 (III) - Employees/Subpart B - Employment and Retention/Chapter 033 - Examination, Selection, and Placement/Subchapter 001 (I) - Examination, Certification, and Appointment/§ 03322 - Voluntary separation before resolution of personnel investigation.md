@@ -32,5 +32,5 @@ A prior section 3322, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 422, related to 
 
 #### Effective Date
 
-Pub. L. 114–328, div. A, title XI, §1140(b), Dec. 23, 2016, 130 Stat. 2471, provided that: "The amendment made bysubsection (a) \[enacting this section\] shall apply to any employee described in section 3322 of title 5, United States Code, (as added by such subsection) who leaves the service after the date of enactment of this Act \[Dec. 23, 2016\]."
+Pub. L. 114–328, div. A, title XI, §1140(b), Dec. 23, 2016, 130 Stat. 2471, provided that: "The amendment made by subsection (a) \[enacting this section\] shall apply to any employee described in section 3322 of title 5, United States Code, (as added by such subsection) who leaves the service after the date of enactment of this Act \[Dec. 23, 2016\]."
 

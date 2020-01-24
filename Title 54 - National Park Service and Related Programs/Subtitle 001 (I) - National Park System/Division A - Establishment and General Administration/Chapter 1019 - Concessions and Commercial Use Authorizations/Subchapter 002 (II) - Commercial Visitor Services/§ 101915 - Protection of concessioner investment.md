@@ -66,7 +66,7 @@ Special Rule for Possessory Interest Existing Before November 13, 1998.—
 
 &emsp;(1)
 
-In general.—A concessioner that has obtained a possessory interest (as defined pursuant to the Act of October 9, 1965 (known as the National Park Service Concessions Policy Act; Public Law 89–249, 79 Stat. 969), as in effect on November 12, 1998) under the terms of a concession contract entered into before November 13, 1998, shall, on the expiration or termination of the concession contract, be entitledto receive compensation for the possessory interest improvements in the amount and manner as described by the concession contract. Where that possessory interest is not described in the existing concession contract, compensation of possessory interest shall be determined in accordance with the laws in effect on November 12, 1998.
+In general.—A concessioner that has obtained a possessory interest (as defined pursuant to the Act of October 9, 1965 (known as the National Park Service Concessions Policy Act; Public Law 89–249, 79 Stat. 969), as in effect on November 12, 1998) under the terms of a concession contract entered into before November 13, 1998, shall, on the expiration or termination of the concession contract, be entitled to receive compensation for the possessory interest improvements in the amount and manner as described by the concession contract. Where that possessory interest is not described in the existing concession contract, compensation of possessory interest shall be determined in accordance with the laws in effect on November 12, 1998.
 
 &emsp;(2)
 

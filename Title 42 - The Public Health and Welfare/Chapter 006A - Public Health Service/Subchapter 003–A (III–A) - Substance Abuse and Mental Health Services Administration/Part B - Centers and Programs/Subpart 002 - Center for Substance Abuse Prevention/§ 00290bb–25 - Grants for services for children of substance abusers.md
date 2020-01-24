@@ -70,7 +70,7 @@ The Secretary may make a grant under subsection (a) only if the applicant involv
 
 The Secretary may make a grant under subsection (a) only if, in the case of families in which a member is a substance abuser, the applicant involved agrees to make available (directly or through agreements with other entities) each of the following services, as applicable to the family member involved:
 
-&emsp;(1) Services as follows, to be provided by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements:
+&emsp;(1) Services as follows, to be provided by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professionalor entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements:
 
 &emsp;&emsp;(A) Counseling to substance abusers on the benefits and availability of substance abuse treatment services and services for children of substance abusers.
 
@@ -134,7 +134,7 @@ The Secretary shall distribute the grants through the following types of entitie
 
 #### (f) Federal share
 
-The Federal share of a program carried out under subsection (a) shall be 90 percent. TheSecretary shall accept the value of in-kind contributions, including facilities and personnel, made by the grant recipient as a part or all of the non-Federal share of grants.
+The Federal share of a program carried out under subsection (a) shall be 90 percent. The Secretary shall accept the value of in-kind contributions, including facilities and personnel, made by the grant recipient as a part or all of the non-Federal share of grants.
 
 #### (g) Restrictions on use of grant
 
@@ -210,7 +210,7 @@ The Secretary shall periodically conduct evaluations to determine the effectiven
 
 #### (l) Report to Congress
 
-Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>5</sup> (o), the Secretary shall prepare and submitto the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
+Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>5</sup> (o), the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
 
 &emsp;(1) information concerning the number and type of programs receiving grants;
 
@@ -274,7 +274,7 @@ Section was formerly classified to section 280d of this title.
 
 Subsec. (a)(2). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator" in two places.
 
-<b>2004</b>—Subsecs. (b)(8), (f). Pub. L. 108–446, §305(i)(1), (3), which directed amendment of subsecs. (b)(8) and (f) ofsection 399A of the Public Health Service Act by substituting "part C" for "part H", was executed to subsec. (b)(8) of this section, which is section 519 of the Public Health Service Act, to reflect the probable intent of Congress and the renumbering of this section and repeal of former subsec. (f). See 2000 Amendments notes below.
+<b>2004</b>—Subsecs. (b)(8), (f). Pub. L. 108–446, §305(i)(1), (3), which directed amendment of subsecs. (b)(8) and (f) of section 399A of the Public Health Service Act by substituting "part C" for "part H", was executed to subsec. (b)(8) of this section, which is section 519 of the Public Health Service Act, to reflect the probable intent of Congress and the renumbering of this section and repeal of former subsec. (f). See 2000 Amendments notes below.
 
 <b>2000</b>—Pub. L. 106–310, §3106(a)–(m), which directed numerous amendments to section 399D of the Public Health Service Act and the subsequent renumbering of that section as section 519 of title V of the Act, was executed by amending this section and renumbering this section as section 519 of title V, to reflect the probable intent of Congress, notwithstanding the intervening renumbering of this section as section 399A of the Act by section 502(1) of Pub. L. 106–310. See source credit above and notes below.
 
@@ -282,7 +282,7 @@ Subsec. (a)(1). Pub. L. 106–310, §3106(a)(1)(A), substituted "Administrator o
 
 Subsec. (a)(1)(B). Pub. L. 106–310, §3106(a)(2)(A), struck out "and" at end.
 
-Subsec. (a)(1)(C). Pub. L. 106–310, §3106(a)(2)(B), substituted "through youth service agencies, family social services, child care providers, Head Start, schools and after-school programs, early childhood development programs, community-based family resource and support centers, the criminal justice system, health, substance abuse and mental health providers through screenings conducted during regular childhood examinations and other examinations, self and family member referrals, substance abuse treatment services, and other providers of services to children and families; and" for period at end.
+Subsec. (a)(1)(C). Pub. L. 106–310, §3106(a)(2)(B), substituted "through youth service agencies, family social services, child care providers, Head Start, schools andafter-school programs, early childhood development programs, community-based family resource and support centers, the criminal justice system, health, substance abuse and mental health providers through screenings conducted during regular childhood examinations and other examinations, self and family member referrals, substance abuse treatment services, and other providers of services to children and families; and" for period at end.
 
 Subsec. (a)(1)(D). Pub. L. 106–310, §3106(a)(2)(C), added subpar. (D).
 

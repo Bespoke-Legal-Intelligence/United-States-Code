@@ -8,7 +8,7 @@ A report described in section 7202(a)(1) or 7204(1) of this title shall be refer
 
 #### (1) In general
 
-&emsp;A joint resolution introduced in the Senate shall be referred to the Committee on Foreign Relations, and a joint resolution introduced in the House of Representatives shall be referred to the Committee on International Relations.
+&emsp;A joint resolution introduced in the Senate shall be referred to the Committee on ForeignRelations, and a joint resolution introduced in the House of Representatives shall be referred to the Committee on International Relations.
 
 #### (2) Reporting date
 

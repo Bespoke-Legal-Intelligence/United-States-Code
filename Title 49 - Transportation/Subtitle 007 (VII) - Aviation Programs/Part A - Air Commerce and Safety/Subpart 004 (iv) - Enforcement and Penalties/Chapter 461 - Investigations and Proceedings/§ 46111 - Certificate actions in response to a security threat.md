@@ -14,7 +14,7 @@ Hearings.—When conducting a hearing under this section, the administrative law
 
 (d)
 
-Appeals.—An appeal from a decision of an administrative law judge as the result of a hearing under subsection (b) shall be made to the Transportation Security Oversight Board established by section 115. The Board shall establish a panel to review the decision. The members of this panel (1) shall not be employees of the Transportation Security Administration, (2) shall have the level of security clearance needed to review the determination made under this section, and (3) shall be given access to all relevant documents that support that determination. The panel may affirm, modify, or reverse the decision.
+Appeals.—An appeal from a decision of an administrative law judge as the result of a hearing under subsection (b) shall be made to theTransportation Security Oversight Board established by section 115. The Board shall establish a panel to review the decision. The members of this panel (1) shall not be employees of the Transportation Security Administration, (2) shall have the level of security clearance needed to review the determination made under this section, and (3) shall be given access to all relevant documents that support that determination. The panel may affirm, modify, or reverse the decision.
 
 (e)
 
@@ -72,5 +72,5 @@ Section applicable only to fiscal years beginning after Sept. 30, 2003, except a
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National andCommercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 

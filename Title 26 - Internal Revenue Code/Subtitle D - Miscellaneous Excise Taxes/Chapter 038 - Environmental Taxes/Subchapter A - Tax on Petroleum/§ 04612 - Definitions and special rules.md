@@ -76,7 +76,7 @@ There shall be allowed as a credit against so much of the tax imposed by section
 
 &emsp;(2) the amount of such payments taken into account under this subsection for all prior periods.
 
-> The preceding sentence shall also apply to amounts paid by the taxpayer into the Trans-Alaska Pipeline Liability Fund to the extent of amounts transferred from such Fund into the Oil Spill Liability Trust Fund. For purposes of this subsection, all taxpayers which would be members of the same affiliated group (as definedin section 1504(a)) if section 1504(a)(2) were applied by substituting "100 percent" for "80 percent" shall be treated as 1 taxpayer.
+> The preceding sentence shall also apply to amounts paid by the taxpayer into the Trans-Alaska Pipeline Liability Fund to the extent of amounts transferred from such Fund into the Oil Spill Liability Trust Fund. For purposes of this subsection, all taxpayers which would be members of the same affiliated group (as defined in section 1504(a)) if section 1504(a)(2) were applied by substituting "100 percent" for "80 percent" shall be treated as 1 taxpayer.
 
 #### (e) Income tax credit for unused payments into Trans-Alaska Pipeline Liability Fund
 
@@ -156,7 +156,7 @@ Subsec. (e). Pub. L. 99–509 redesignated former subsec. (d) as (e).
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1922(b), Oct. 24, 1992, 106 Stat. 3029, provided that: "The amendments made bythis section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 24, 1992\]."
+Pub. L. 102–486, title XIX, §1922(b), Oct. 24, 1992, 106 Stat. 3029, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 24, 1992\]."
 
 #### Effective Date of 1990 Amendment
 

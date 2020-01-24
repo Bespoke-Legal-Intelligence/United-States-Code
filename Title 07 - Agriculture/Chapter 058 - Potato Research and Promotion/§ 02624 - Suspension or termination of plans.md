@@ -6,7 +6,7 @@ The Secretary shall, whenever he finds that a plan or any provision thereof obst
 
 #### (b) Referendum
 
-The Secretary may conduct a referendum at any time and shall hold a referendum on request of the board or of 10 per centum or more of the potato producers, or of the total number of producers and importers when importers are subject to a plan, to determine if potato producers and importers favor the termination or suspension of the plan, and he shall terminate or suspend such plan at the end of the marketing year whenever he determines that such suspension ortermination is favored by a majority of those voting in a referendum, and who produce and import more than 50 per centum of the volume of the potatoes produced and imported by those voting in the referendum.
+The Secretary may conduct a referendum at any time and shall hold a referendum on request of the board or of 10 per centum or more of the potato producers, or of the total number of producers and importers when importers are subject to a plan, to determine if potato producers and importers favor the termination or suspension of the plan, and he shall terminate or suspend such plan at the end of the marketing year whenever he determines that such suspension or termination is favored by a majority of those voting in a referendum, and who produce and import more than 50 per centum of the volume of the potatoes produced and imported by those voting in the referendum.
 
 #### (c) Limitation
 
@@ -20,7 +20,7 @@ This chapter, referred to in subsec. (c), was in the original "this part", and w
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–624, §1945(1), inserted ", or of the total number of producers and importers when importers are subject to a plan," after first reference to "potato producers", "and importers" after second reference to "potato producers", and "and import" after "produce", and substituted "and imported by those voting in the referendum" for "by the potato producers voting in the referendum".
+<b>1990</b>—Subsec. (b). Pub. L. 101–624, §1945(1), inserted ", or of the total number of producers and importerswhen importers are subject to a plan," after first reference to "potato producers", "and importers" after second reference to "potato producers", and "and import" after "produce", and substituted "and imported by those voting in the referendum" for "by the potato producers voting in the referendum".
 
 Subsec. (c). Pub. L. 101–624, §1945(2), added subsec. (c).
 

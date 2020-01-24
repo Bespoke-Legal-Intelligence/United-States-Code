@@ -30,7 +30,7 @@ Such report shall include, with respect to voting practices and plenary actions 
 
 #### (c) Format
 
-Information required pursuant to subsection (b)(3) shall also be submitted, together with an explanation of the statistical methodology, in a format identical to that contained in chapter II of the Report to Congress on Voting Practices in the United Nations, dated March 14, 1988.
+Information required pursuant to subsection (b)(3) shall also be submitted, together with anexplanation of the statistical methodology, in a format identical to that contained in chapter II of the Report to Congress on Voting Practices in the United Nations, dated March 14, 1988.
 
 #### (d) Statement by Secretary of State
 

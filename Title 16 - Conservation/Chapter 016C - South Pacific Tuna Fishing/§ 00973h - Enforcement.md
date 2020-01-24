@@ -12,11 +12,11 @@ The provisions of this chapter shall be enforced by the Secretary in cooperation
 
 &emsp;(A) the nature of the investigation;
 
-&emsp;(B) the right of the operator to submit comments, information, or evidence bearing onthe investigation and to receive, upon the operator's timely written request to the Secretary, an opportunity to present such comments, information, or evidence orally to the Secretary or the Secretary's representative within 30 days after receipt of such notification.
+&emsp;(B) the right of the operator to submit comments, information, or evidence bearing on the investigation and to receive, upon the operator's timely written request to the Secretary, an opportunity to present such comments, information, or evidence orally to the Secretary or the Secretary's representative within 30 days after receipt of such notification.
 
 #### (c) Notice requirements to Pacific Island Party concerning institution and outcome of legal proceedings
 
-(1) Prior to instituting any legal proceedings under this chapter for any action which involves an alleged infringement of the Treaty in waters within the jurisdiction of a Pacific Island Party, the Secretary, through the Secretary of State, shall notify the Pacific Island Party in accordance with paragraph 8 of Article 4 of the Treaty that the proceedings will be instituted. Such notice shall include a statement of the facts believed to show an infringement of the Treaty and the nature of the proposed proceedings, including any proposed charges and any proposed penalties. The Secretary shall not institute such proceedings if the Pacific Island Party objects within 30 days after the effective date of the notice under Article 10 of the Treaty.
+(1) Prior to instituting any legal proceedings under this chapter for any action which involves an alleged infringement of the Treaty in waters within the jurisdiction of a Pacific Island Party, the Secretary, through the Secretary of State, shall notify the Pacific Island Party in accordance with paragraph 8 of Article 4 of the Treaty that the proceedings will be instituted. Such notice shall include a statement of the facts believed to show an infringement of the Treaty and the nature of the proposed proceedings, including any proposed charges and any proposed penalties. The Secretary shall not institute suchproceedings if the Pacific Island Party objects within 30 days after the effective date of the notice under Article 10 of the Treaty.
 
 (2) The Pacific Island Party exercising jurisdiction over the waters involved in such a legal proceeding shall be promptly notified by the Secretary, through the Secretary of State, concerning the outcome of the proceeding.
 
@@ -52,7 +52,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 #### References in Text
 
-Section 89 of title 14, referred to in subsec. (d)(3), was redesignated section 522 of title 14 by Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 89 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 89 of title 14, referred to in subsec. (d)(3), redesignated section 522 of title 14 by Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 89 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

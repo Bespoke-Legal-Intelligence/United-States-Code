@@ -22,7 +22,7 @@ It shall be unlawful for any person to effect, in contravention of such rules an
 
 &emsp;(1) any transaction in connection with any security whereby any party to such transaction acquires—
 
-&emsp;&emsp;(A) any put, call, straddle, or other option or privilege of buying the security from or selling the security to another without being bound to do so;
+&emsp;&emsp;(A) any put, call, straddle, or other option or privilege of buying the security from orselling the security to another without being bound to do so;
 
 &emsp;&emsp;(B) any security futures product on the security; or
 
@@ -36,7 +36,7 @@ It shall be unlawful for any person to effect, in contravention of such rules an
 
 &emsp;&emsp;(C) such security-based swap; or
 
-&emsp;(3) any transaction in any security for the account of any person who such person hasreason to believe has, and who actually has, directly or indirectly, any interest in any—
+&emsp;(3) any transaction in any security for the account of any person who such person has reason to believe has, and who actually has, directly or indirectly, any interest in any—
 
 &emsp;&emsp;(A) such put, call, straddle, option, or privilege;
 
@@ -86,7 +86,7 @@ The authority of the Commission under this section with respect to security-base
 
 #### (j) <sup>1</sup> Regulations relating to security-based swaps
 
-It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce or of the mails, or of any facility of any national securities exchange, to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any security-based swap, in connection with which such person engages in any fraudulent, deceptive, or manipulative act or practice, makes any fictitious quotation, or engages inany transaction, practice, or course of business which operates as a fraud or deceit upon any person. The Commission shall, for the purposes of this subsection, by rules and regulations define, and prescribe means reasonably designed to prevent, such transactions, acts, practices, and courses of business as are fraudulent, deceptive, or manipulative, and such quotations as are fictitious.
+It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce or of the mails, or of any facility of any national securities exchange, to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any security-based swap, in connection with which such person engages in any fraudulent, deceptive, or manipulative act or practice, makes any fictitious quotation, or engages in any transaction, practice, or course of business which operates as a fraud or deceit upon any person. The Commission shall, for the purposes of this subsection, by rules and regulations define, and prescribe means reasonably designed to prevent, such transactions, acts, practices, and courses of business as are fraudulent, deceptive, or manipulative, and such quotations as are fictitious.
 
 (June 6, 1934, ch. 404, title I, §9, 48 Stat. 889; Pub. L. 97–303, §3, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 101–432, §6(a), Oct. 16, 1990, 104 Stat. 975; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(1), (2), title III, §303(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–425, 2763A–426, 2763A–453, 2763A–454; Pub. L. 111–203, title VII, §§762(d)(2), 763(f), (g), title IX, §§929L(1), 929X(b), July 21, 2010, 124 Stat. 1760, 1777, 1861, 1870.)
 
@@ -152,7 +152,7 @@ Subsec. (g). Pub. L. 97–303, §3(2), added subsec. (g).
 
 Amendment by sections 929L(1) and 929X(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 Title 12, Banks and Banking.
 
-Amendment by sections 762(d)(2) and 763(f), (g) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B\(§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
+Amendment by sections 762(d)(2) and 763(f), (g) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
 #### Transfer of Functions
 

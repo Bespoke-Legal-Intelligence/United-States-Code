@@ -6,7 +6,7 @@ The value of the gross estate shall include the value of all property to the ext
 
 &emsp;(1) the possession or enjoyment of, or the right to the income from, the property, or
 
-&emsp;(2) the right, either alone or in conjunction with any person, to designate the persons who shall possess or enjoy the property or the income therefrom.
+&emsp;(2) the right, either alone or in conjunction with any person, to designate the persons whoshall possess or enjoy the property or the income therefrom.
 
 #### (b) Voting rights
 
@@ -70,7 +70,7 @@ In general.—Except as provided in this subsection, any amendment made by this 
 
 "(2)
 
-Subsection (a).—The amendments made by subsection (a) \[amending this section and section 2501 ofthis title\] shall apply in cases where the transfer referred to in section 2036(c)(1)(B) of the 1986 Code is on or after June 21, 1988.
+Subsection (a).—The amendments made by subsection (a) \[amending this section and section 2501 of this title\] shall apply in cases where the transfer referred to in section 2036(c)(1)(B) of the 1986 Code is on or after June 21, 1988.
 
 "(3)
 
@@ -98,7 +98,7 @@ Clarification of effective date.—For purposes of section 10402(b) of the Reven
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title X, §10402(b), Dec. 22, 1987, 101 Stat. 1330–432, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1987, but only in the case of property transferred after December 17, 1987." \[For clarification of this note, see section 3031(h)(5) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note above.\]
+Pub. L. 100–203, title X, §10402(b), Dec. 22, 1987, 101 Stat. 1330–432, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1987, but only in the case of property transferred after December 17, 1987." \[For clarification of this note, see section 3031(h)(5) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note above.\]
 
 #### Effective Date of 1978 Amendment
 

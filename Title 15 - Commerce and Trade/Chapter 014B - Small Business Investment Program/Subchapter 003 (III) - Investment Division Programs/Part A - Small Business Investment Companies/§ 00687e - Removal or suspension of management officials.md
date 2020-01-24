@@ -40,7 +40,7 @@ In this section, the term "management official" means an officer, director, gene
 
 #### (B) Consent
 
-&emsp;&emsp;Unless the management official shall appear at a hearing described in this paragraph in person or by a duly authorized representative, that management official shall be deemed to have consented to the issuance of an order of removal under paragraph (1).
+&emsp;&emsp;Unless the management official shall appear at a hearing described in this paragraph in person or by a duly authorized representative, that management official shall bedeemed to have consented to the issuance of an order of removal under paragraph (1).
 
 #### (4) Issuance of order of removal
 

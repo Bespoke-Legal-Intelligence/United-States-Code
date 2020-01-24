@@ -74,7 +74,7 @@ Act July 12, 1943, ch. 221, title II, 57 Stat. 499, provided in part: "For the p
 
 Acts July 2, 1942, ch. 475, title II, 56 Stat. 569, and July 12, 1943, ch. 221, title II, 57 Stat. 499, appropriated funds to enable the Director of the Civilian Conservation Corps to provide for the liquidation of the Civilian Conservation Corps and the latter provided that "said liquidation shall be completed as quickly as possible but in any event not later than June 30, 1944."
 
-Liquidation of all enrollees and overhead personnel was accomplished by August 15, 1942, pursuant to a directive of Director of C.C.C., except for a skeleton force which was retained to transfer supplies and material to Army, Navy, and Civil Aeronautics Authority.
+Liquidation of all enrollees and overhead personnel was accomplished by August 15, 1942, pursuant to a directive of Director of C.C.C., except for a skeleton forcewhich was retained to transfer supplies and material to Army, Navy, and Civil Aeronautics Authority.
 
 #### Transfer of Equipment
 

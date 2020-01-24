@@ -6,7 +6,7 @@
 
 (2) The Board shall consist of three members. At least one member of the Board shall be licensed to practice law in the Republic of Panama. Individuals appointed to the Board shall take an oath of office, the form of which shall be prescribed by the Secretary of Defense.
 
-(3) Compensation for members of the Board of Contract Appeals shall be established by the Commission's supervisory board. The annual compensation established for members may not exceed the rate of basic pay established for level IV of the Executive Schedule under section 5315 of title 5. The compensation of a member may not be reduced during the member's term of office from the level established at the time of the appointment of the member.
+(3) Compensation for members of the Board of Contract Appeals shall be established by theCommission's supervisory board. The annual compensation established for members may not exceed the rate of basic pay established for level IV of the Executive Schedule under section 5315 of title 5. The compensation of a member may not be reduced during the member's term of office from the level established at the time of the appointment of the member.
 
 #### (b) Exclusive jurisdiction to decide appeals
 

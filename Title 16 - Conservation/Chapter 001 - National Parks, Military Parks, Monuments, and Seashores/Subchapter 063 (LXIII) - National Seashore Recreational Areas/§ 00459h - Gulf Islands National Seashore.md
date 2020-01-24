@@ -12,7 +12,7 @@ In order to preserve for public use and enjoyment certain areas possessing outst
 
 #### (2) Areas included in boundary plan numbered NS–GI–7100J
 
-&emsp;The areas described in this paragraph are the following gulf coast islands and mainlandareas, together with adjacent water areas as generally depicted on the drawing entitled "Proposed Boundary Plan, Proposed Gulf Islands National Seashore," numbered NS–GI–7100J, and dated December 1970:
+&emsp;The areas described in this paragraph are the following gulf coast islands and mainland areas, together with adjacent water areas as generally depicted on the drawing entitled "Proposed Boundary Plan, Proposed Gulf Islands National Seashore," numbered NS–GI–7100J, and dated December 1970:
 
 &emsp;&emsp;(A) Ship, Petit Bois, and Horn Islands in Mississippi;
 

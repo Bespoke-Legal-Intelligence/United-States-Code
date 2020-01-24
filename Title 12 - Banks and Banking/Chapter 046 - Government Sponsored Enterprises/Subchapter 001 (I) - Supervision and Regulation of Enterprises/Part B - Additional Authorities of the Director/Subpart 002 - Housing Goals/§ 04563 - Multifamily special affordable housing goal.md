@@ -16,7 +16,7 @@
 
 #### (4) Factors
 
-&emsp;In establishing the goal and additional requirements under this section, the Directorshall not consider segments of the market determined to be inconsistent with safety and soundness or unauthorized for purchase by the enterprises, and shall take into consideration—
+&emsp;In establishing the goal and additional requirements under this section, the Director shall not consider segments of the market determined to be inconsistent with safety and soundness or unauthorized for purchase by the enterprises, and shall take into consideration—
 
 &emsp;&emsp;(A) national multifamily mortgage credit needs and the ability of the enterprise to provide additional liquidity and stability for the multifamily mortgage market;
 
@@ -50,7 +50,7 @@ The Director shall determine, for each year that the housing goal under this sec
 
 #### Prior Provisions
 
-A prior section 4563, Pub. L. 102–550, title XIII, §1333, Oct. 28, 1992, 106 Stat. 3958, related to special affordable housing goal, prior to repeal by Pub. L. 110–289, div. A, title I, §1128(a), July 30, 2008, 122 Stat. 2696.
+A prior section 4563, Pub. L. 102–550, title XIII, §1333, Oct. 28, 1992, 106 Stat. 3958, related to special affordablehousing goal, prior to repeal by Pub. L. 110–289, div. A, title I, §1128(a), July 30, 2008, 122 Stat. 2696.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

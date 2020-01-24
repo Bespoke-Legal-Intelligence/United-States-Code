@@ -36,7 +36,7 @@ Exception.—The Secretary shall require and shall establish a reasonable fee fo
 
 (d)
 
-Protection of Resources.—The Secretary shall not permit any filming, still photographyor other related activity if the Secretary determines that—
+Protection of Resources.—The Secretary shall not permit any filming, still photography or other related activity if the Secretary determines that—
 
 &emsp;(1) there is a likelihood of resource damage;
 

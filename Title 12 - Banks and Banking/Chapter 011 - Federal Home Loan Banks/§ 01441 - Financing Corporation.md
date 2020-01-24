@@ -112,7 +112,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (2) Aggregate dollar amount limitation on all investments
 
-&emsp;The aggregate amount of funds invested by all Federal Home Loan Banks in nonvotingcapital stock of the Financing Corporation shall not exceed $3,000,000,000.
+&emsp;The aggregate amount of funds invested by all Federal Home Loan Banks in nonvoting capital stock of the Financing Corporation shall not exceed $3,000,000,000.
 
 #### (3) Maximum investment amount limitation for each Federal Home Loan Bank
 
@@ -154,7 +154,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (5) Pro rata distribution of amounts required to be invested in excess of $1,000,000,000
 
-&emsp;With respect to any amount in excess of the $1,000,000,000 amount referred to in paragraph (4) which the Director may require the Federal Home Loan Banks to invest in capital stock of the Financing Corporation under this subsection, the amount which each Federal Home Loan Bank (or any successor to such bank) shall invest shall be determined by the Director by multiplying such excess amount by the percentage arrived at by dividing—
+&emsp;With respect to any amount in excess of the $1,000,000,000 amount referred to in paragraph (4) which the Director may require the Federal Home Loan Banks to invest in capital stock of the Financing Corporation under this subsection, the amount which each Federal HomeLoan Bank (or any successor to such bank) shall invest shall be determined by the Director by multiplying such excess amount by the percentage arrived at by dividing—
 
 &emsp;&emsp;(A) the sum of the total assets (as of the most recent December 31) held by all Savings Association Insurance Fund members which are members of such bank; by
 
@@ -300,7 +300,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 &emsp;&emsp;(B) obligations, participations, or other instruments of, or issued by, the Federal National Mortgage Association or the Government National Mortgage Association;
 
-&emsp;&emsp;(C) mortgages, obligations, or other securities for sale by, or which have been disposed of by, the Federal Home Loan Mortgage Corporation under section 1454 or 1455 of this title; or
+&emsp;&emsp;(C) mortgages, obligations, or other securities for sale by, or which have been disposedof by, the Federal Home Loan Mortgage Corporation under section 1454 or 1455 of this title; or
 
 &emsp;&emsp;(D) any other security in which it is lawful for fiduciary and trust funds to be invested under the laws of any State.
 
@@ -430,7 +430,7 @@ BIF-assessable deposits.—The term 'BIF-assessable deposit' means a deposit tha
 
 "(B)
 
-SAIF-assessable deposit.—The term 'SAIF-assessable deposit' has the meaning given to such term insection 2710 of the Deposit Insurance Funds Act of 1996."
+SAIF-assessable deposit.—The term 'SAIF-assessable deposit' has the meaning given to such term in section 2710 of the Deposit Insurance Funds Act of 1996."
 
 <b>1996</b>—Subsec. (f)(2). Pub. L. 104–208, §2703(a)(1)(A), in introductory provisions, substituted "In addition to the amounts obtained pursuant to paragraph (1)," for "To the extent the amounts available pursuant to paragraph (1) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees,", "insured depository institution" for "Savings Association Insurance Fund member", and "against such institutions" for "against such members".
 
@@ -520,7 +520,7 @@ Subsec. (e)(7), (8). Pub. L. 101–73, §512(12)(A), redesignated pars. (8) and 
 
 Subsec. (e)(9), (10). Pub. L. 101–73, §§512(2), (12)(A), 701(b)(2), redesignated par. (10) as (9) and substituted "Chairperson" for "Chairman" and "Federal Housing Finance Board" for "Board". Former par. (9) redesignated (8).
 
-Subsec. (f). Pub. L. 101–73, §512(13), amended subsec. (f) generally, substituting provisions enumerating various sources from which Financing Corporation shallobtain funds for anticipated interest payments, issuance costs, and custodial fees on obligations issued from preenactment assessments, new assessment authority, and receivership proceeds, for former provisions which had outlined assessment authority of Financing Corporation, setting up supplementary assessment authority, setting limits on total amount assessed, and providing for termination assessments.
+Subsec. (f). Pub. L. 101–73, §512(13), amended subsec. (f) generally, substituting provisions enumerating various sources from which Financing Corporation shall obtain funds for anticipated interest payments, issuance costs, and custodial fees on obligations issued from preenactment assessments, new assessment authority, and receivership proceeds, for former provisions which had outlined assessment authority of Financing Corporation, setting up supplementary assessment authority, setting limits on total amount assessed, and providing for termination assessments.
 
 Subsec. (g)(1). Pub. L. 101–73, §512(14), inserted reference to before August 9, 1989, and after August 9, 1989, in capital certificates issued by the FSLIC Resolution Fund.
 
@@ -570,7 +570,7 @@ Termination of certain assessment rates.—Subparagraph (A) of section 21(f)(2) 
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–550, title XVI, §1618, Oct. 28, 1992, 106 Stat. 4097, provided that: "Except as otherwise provided by a specific provision of this subtitle \[subtitle B (§§1611–1618) of title XVI of Pub. L. 102–550, amending this section, sections 1441a, 1441b, 1821, 3345, and 3348 of this title and provisions set out as a note under section 1441a of this title\], the amendments made by this subtitle to the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233; see Short Title of 1991 Amendment note set out under section 1421 of this title\] and the Federal Home Loan Bank Act \[12 U.S.C. 1421 et seq.\] shall take effect as if such amendments had been included in the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233\] as of the date of the enactment of such Act \[Dec. 12, 1991\]."
+Pub. L. 102–550, title XVI, §1618, Oct. 28, 1992, 106 Stat. 4097, provided that: "Except as otherwise provided by aspecific provision of this subtitle \[subtitle B (§§1611–1618) of title XVI of Pub. L. 102–550, amending this section, sections 1441a, 1441b, 1821, 3345, and 3348 of this title and provisions set out as a note under section 1441a of this title\], the amendments made by this subtitle to the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233; see Short Title of 1991 Amendment note set out under section 1421 of this title\] and the Federal Home Loan Bank Act \[12 U.S.C. 1421 et seq.\] shall take effect as if such amendments had been included in the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233\] as of the date of the enactment of such Act \[Dec. 12, 1991\]."
 
 #### Effective Date of 1991 Amendment
 

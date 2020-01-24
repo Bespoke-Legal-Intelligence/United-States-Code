@@ -32,7 +32,7 @@ In this section:
 
 #### (2) Purposes
 
-&emsp;The purposes of the Partnership are to empower and build the capacity of States and rural communities to design flexible and innovative responses to their own special rural development needs, with local determinations of progress and selection of projects and activities.
+&emsp;The purposes of the Partnership are to empower and build the capacity of States andrural communities to design flexible and innovative responses to their own special rural development needs, with local determinations of progress and selection of projects and activities.
 
 #### (3) Governing panel
 

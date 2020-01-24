@@ -50,6 +50,24 @@ The Director of the Foundation shall continue to support programs designed to br
 
 &emsp;&emsp;The purpose of a Center of Excellence under this subsection is to promote diversity in STEM fields by building on the success of the INCLUDES programs, providing technical assistance, maintaining best practices, and providing related training at federally funded academic institutions.
 
+#### (3) Research
+
+&emsp;As a component of improving participation of women in STEM fields, research funded by a grant under this subsection may include research on—
+
+&emsp;&emsp;(A) the role of teacher training and professional development, including effective incentive structures to encourage teachers to participate in such training and professional development, in encouraging or discouraging female students in prekindergarten through elementary school from participating in STEM activities;
+
+&emsp;&emsp;(B) the role of teachers in shaping perceptions of STEM in female students in prekindergarten through elementary school and discouraging such students from participating in STEM activities;
+
+&emsp;&emsp;(C) the role of other facets of the learning environment on the willingness of female students in prekindergarten through elementary school to participate in STEM activities, including learning materials and textbooks, seating arrangements, use of media and technology, classroom culture, and composition of students during group work;
+
+&emsp;&emsp;(D) the role of parents and other caregivers in encouraging or discouraging female students in prekindergarten through elementary school from participating in STEM activities;
+
+&emsp;&emsp;(E) the types of STEM activities that encourage greater participation by female students in prekindergarten through elementary school;
+
+&emsp;&emsp;(F) the role of mentorship and best practices in finding and utilizing mentors; and
+
+&emsp;&emsp;(G) the role of informal and after-school STEM learning opportunities on the perception of and participation in STEM activities of female students in prekindergarten through elementary school.
+
 #### (e) Accountability and dissemination
 
 #### (1) Evaluation
@@ -68,7 +86,7 @@ The Director of the Foundation shall continue to support programs designed to br
 
 #### (2) Report on evaluations
 
-&emsp;Not later than 180 days after the completion of the evaluation under paragraph (1), the Director of the Foundation shall submit to the appropriate committees of Congress and makewidely available to the public a report that includes—
+&emsp;Not later than 180 days after the completion of the evaluation under paragraph (1), the Director of the Foundation shall submit to the appropriate committees of Congress and make widely available to the public a report that includes—
 
 &emsp;&emsp;(A) the results of the evaluation; and
 
@@ -78,11 +96,29 @@ The Director of the Foundation shall continue to support programs designed to br
 
 In carrying out this section, the Director of the Foundation shall consult and cooperate with the programs and policies of other relevant Federal agencies to avoid duplication with and enhance the effectiveness of the program under this section.
 
-(Pub. L. 114–329, title III, §305, Jan. 6, 2017, 130 Stat. 3007.)
+(Pub. L. 114–329, title III, §305, Jan. 6, 2017, 130 Stat. 3007; Pub. L. 116–102, §4, Dec. 24, 2019, 133 Stat. 3263.)
 
 #### Codification
 
 Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (d)(3). Pub. L. 116–102 added par. (3).
+
+#### Findings
+
+Pub. L. 116–102, §2, Dec. 24, 2019, 133 Stat. 3263, provided that: "Congress finds the following:
+
+&emsp;"(1) The National Science Foundation is a large investor in STEM education and plays a key role in setting research and policy agendas.
+
+&emsp;"(2) While studies have found that children who engage in scientific activities from an early age develop positive attitudes toward science and are more likely to pursue STEM expertise and careers later on, the majority of current research focuses on increasing STEM opportunities for middle school-aged children and older.
+
+&emsp;"(3) Women remain widely underrepresented in the STEM workforce, and this disparity extends down through all levels of education."
+
+#### Supporting Early Childhood and Elementary STEM Education Research
+
+Pub. L. 116–102, §3, Dec. 24, 2019, 133 Stat. 3263, provided that: "In awarding grants under the Discovery Research PreK–12 program, the Director of the National Science Foundation shall consider the age distribution of a STEM education research and development project to improve the focus of research and development on elementary and prekindergarten education."
 
 #### Definitions
 

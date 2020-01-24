@@ -24,7 +24,7 @@ Each report under subsection (a) shall include—
 
 &emsp;&emsp;(G) a description of any incidents of noncompliance—
 
-&emsp;&emsp;&emsp;(i) with a directive issued by the Attorney General and the Director of NationalIntelligence under section 1881a(i) of this title, including incidents of noncompliance by a specified person to whom the Attorney General and Director of National Intelligence issued a directive under section 1881a(i) of this title; and
+&emsp;&emsp;&emsp;(i) with a directive issued by the Attorney General and the Director of National Intelligence under section 1881a(i) of this title, including incidents of noncompliance by a specified person to whom the Attorney General and Director of National Intelligence issued a directive under section 1881a(i) of this title; and
 
 &emsp;&emsp;&emsp;(ii) by an element of the intelligence community with procedures and guidelines adopted in accordance with subsections (d), (e), (f)(1), and (g) of section 1881a of this title; and
 

@@ -70,11 +70,11 @@ Except as provided in subsections (d), (e), and (f), the President shall impose 
 
 &emsp;&emsp;(A) determines that—
 
-&emsp;&emsp;&emsp;(i)(I) in the case of a person described in subsection (a)(1)(A), the person did not knowingly engage in any activity described in such subsection;
+&emsp;&emsp;&emsp;(i)(I) in the case of a person described in subsection (a)(1)(A), the person did notknowingly engage in any activity described in such subsection;
 
 &emsp;&emsp;&emsp;(II) in the case of a person described in subsection (a)(1)(B), the person conducted or facilitated a transaction or transactions with, or provided financial services to, a person described in subsection (a)(1)(A) that did not knowingly engage in any activity described in such subsection; and
 
-&emsp;&emsp;&emsp;(III) in the case of a person described in subsection (a)(1)(A) or (a)(1)(B), the personhas terminated the activity for which otherwise covered by such subsection or has provided verifiable assurances that the person will terminate such activity; and
+&emsp;&emsp;&emsp;(III) in the case of a person described in subsection (a)(1)(A) or (a)(1)(B), the person has terminated the activity for which otherwise covered by such subsection or has provided verifiable assurances that the person will terminate such activity; and
 
 &emsp;&emsp;&emsp;(ii) the waiver is in the national security interest of the United States; and
 

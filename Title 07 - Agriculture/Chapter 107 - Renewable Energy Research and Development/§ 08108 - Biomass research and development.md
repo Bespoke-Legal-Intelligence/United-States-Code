@@ -54,7 +54,7 @@ In this section:
 
 &emsp;&emsp;(B) a senior officer of each of the Department of the Interior, the Environmental Protection Agency, the National Science Foundation, and the Office of Science and Technology Policy, each of whom shall have a rank that is equivalent to the rank of the points of contact; and
 
-&emsp;&emsp;(C) at the option of the Secretary of Agriculture and the Secretary of Energy, other members appointed by the Secretaries (after consultation with the Board).
+&emsp;&emsp;(C) at the option of the Secretary of Agriculture and the Secretary of Energy, othermembers appointed by the Secretaries (after consultation with the Board).
 
 #### (3) Duties
 
@@ -212,7 +212,7 @@ In this section:
 
 #### (ii) Energy and environmental impact
 
-&emsp;&emsp;&emsp;Development of systematic evaluations of the impact of expanded biofuel production on the environment (including forestland) and on the food supply for humans and animals, including the improvement and development of tools for life cycle analysis of current and potential biofuels.
+&emsp;&emsp;&emsp;Development of systematic evaluations of the impact of expanded biofuel production on the environment (including forest land) and on the food supply for humans and animals, including the improvement and development of tools for life cycle analysis of current and potential biofuels.
 
 #### (iii) Assessment of Federal land
 
@@ -364,7 +364,7 @@ Subsec. (h)(2). Pub. L. 115–334, §7507(4), substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (h)(1)(E). Pub. L. 113–79, §9008(1), added subpar. (E).
 
-Subsec. (h)(2). Pub. L. 113–79, §9008(2), substituted "$20,000,000 for each of fiscal years 2014 through 2018" for "$35,000,000 for each of fiscal years 2009 through 2013".
+Subsec. (h)(2). Pub. L. 113–79, §9008(2), substituted "$20,000,000 for each of fiscal years 2014 through 2018"for "$35,000,000 for each of fiscal years 2009 through 2013".
 
 <b>2013</b>—Subsec. (h)(2). Pub. L. 112–240 substituted "2013" for "2012".
 

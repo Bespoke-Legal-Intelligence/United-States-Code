@@ -30,11 +30,17 @@ Transitional Health Care.—(1) For the time period described in paragraph (4), 
 
 (B) Notwithstanding subparagraph (A), if a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) has otherwise undergone a physical examination within 12 months before the scheduled date of separation from active duty, the requirement for a physical examination under subparagraph (A) may be waived in accordance with regulations prescribed under this paragraph. Such regulations shall require that such a waiver may be granted only with the consent of the member and with the concurrence of the member's unit commander.
 
+(C) The Secretary concerned shall ensure that each physical examination of a member under subparagraph (A) includes an assessment of whether the member was—
+
+&emsp;(i) based or stationed at a location where an open burn pit, as defined in subsection (c) of section 201 of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note), was used; or
+
+&emsp;(ii) exposed to toxic airborne chemicals or other airborne contaminants, including any information recorded as part of the registry established by the Secretary of Veterans Affairs under such section 201.
+
 (6)(A) The Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, ensure that appropriate actions are taken to assist a member of the armed forces who, as a result of a medical examination under paragraph (5), receives an indication for a referral for follow up treatment from the health care provider who performs the examination.
 
 (B) Assistance provided to a member under paragraph (1) shall include the following:
 
-&emsp;(i) Information regarding, and any appropriate referral for, the care, treatment, and other services that the Secretary of Veterans Affairs may provide to such member under any other provision of law, including—
+&emsp;(i) Information regarding, and any appropriate referral for, the care, treatment, andother services that the Secretary of Veterans Affairs may provide to such member under any other provision of law, including—
 
 &emsp;&emsp;(I) clinical services, including counseling and treatment for post-traumatic stress disorder and other mental health conditions; and
 
@@ -102,11 +108,13 @@ Definition.—In this section, the term "conversion health policy" means a healt
 
 (f)
 
-Coast Guard.—The Secretary of Homeland Security shall implement this section for themembers of the Coast Guard and their dependents when the Coast Guard is not operating as a service in the Navy.
+Coast Guard.—The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents when the Coast Guard is not operating as a service in the Navy.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, §706(a)(1), (3), (b), Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §749, Jan. 6, 2006, 119 Stat. 3364; Pub. L. 110–181, div. A, title XVI, §1637, Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–317, §4, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 110–417, \[div. A\], title VII, §734(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 111–84, div. A, title VII, §703, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 112–81, div. A, title VII, §706, Dec. 31, 2011, 125 Stat. 1474; Pub. L. 112–239, div. A, title X, §1076(f)(15), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §511(b), title VII, §§705, 706(a), Dec. 12, 2017, 131 Stat. 1376, 1435, 1436.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, §706(a)(1), (3), (b), Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §749, Jan. 6, 2006, 119 Stat. 3364; Pub. L. 110–181, div. A, title XVI, §1637, Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–317, §4, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 110–417, \[div. A\], title VII, §734(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 111–84, div. A, title VII, §703, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 112–81, div. A, title VII, §706, Dec. 31, 2011, 125 Stat. 1474; Pub. L. 112–239, div. A, title X, §1076(f)(15), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §511(b), title VII, §§705, 706(a), Dec. 12, 2017, 131 Stat. 1376, 1435, 1436; Pub. L. 116–92, div. A, title VII, §704(b), Dec. 20, 2019, 133 Stat. 1438.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(5)(C). Pub. L. 116–92 added subpar. (C).
 
 <b>2017</b>—Subsec. (a)(2)(B). Pub. L. 115–91, §511(b), substituted "under section 12304b of this title or a provision of law referred to in section 101(a)(13)(B) of this title" for "in support of a contingency operation".
 
@@ -170,7 +178,7 @@ Subsec. (e). Pub. L. 105–261, §561(h)(2), substituted "during the period begi
 
 <b>1993</b>—Subsecs. (a)(1), (c)(1). Pub. L. 103–160 substituted "nine-year period" for "five-year period".
 
-<b>1992</b>—Subsec. (b)(1). Pub. L. 102–484, §4407(a)(1), inserted at end "A conversion health policy offered under this paragraph shall provide coverage for not less than an 18-month period."
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–484, §4407(a)(1), inserted at end "A conversion health policy offered underthis paragraph shall provide coverage for not less than an 18-month period."
 
 Subsec. (b)(2)(A). Pub. L. 102–484, §4407(a)(2), substituted "18-month period" for "one-year period".
 
@@ -268,7 +276,7 @@ For provisions relating to the application of the amendments by section 4407 of 
 
 #### Transitional Provision
 
-Pub. L. 102–484, div. D, title XLIV, §4408(b), Oct. 23, 1992, 106 Stat. 2712, provided that: "The Secretary of Defense shall provide a period for the enrollment for health benefits coverage under this section \[enacting section 1078a of this title and provisions set out as notes under this section and section 1086a of this title\] by members and former members of the Armed Services for whom the availability of transitional health care under section 1145(a) of title 10, United States Code, expires before the October 1, 1994, implementation date of section 1078a of such title, as added by subsection (a)."
+Pub. L. 102–484, div. D, title XLIV, §4408(b), Oct. 23, 1992, 106 Stat. 2712, provided that: "The Secretary ofDefense shall provide a period for the enrollment for health benefits coverage under this section \[enacting section 1078a of this title and provisions set out as notes under this section and section 1086a of this title\] by members and former members of the Armed Services for whom the availability of transitional health care under section 1145(a) of title 10, United States Code, expires before the October 1, 1994, implementation date of section 1078a of such title, as added by subsection (a)."
 
 #### Termination of Applicability of Other Conversion Health Policies
 

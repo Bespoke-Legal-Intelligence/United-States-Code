@@ -74,7 +74,7 @@ For purposes of determining the tax under this subtitle—
 
 #### (1) In general
 
-&emsp;Foreign currency gain or loss with respect to distributions of previously taxed earnings and profits (as described in section 959 or 1293(c)) attributable to movements in exchange rates between the times of deemed and actual distribution shall be recognized and treated as ordinary income or loss from the same source as the associated income inclusion.
+&emsp;Foreign currency gain or loss with respect to distributions of previously taxed earnings and profits (as described in section 959 or 1293(c))attributable to movements in exchange rates between the times of deemed and actual distribution shall be recognized and treated as ordinary income or loss from the same source as the associated income inclusion.
 
 #### (2) Distributions through tiers
 
@@ -114,7 +114,7 @@ In general.—For purposes of determining the amount of the foreign tax credit�
 
 &emsp;"(2)
 
-Foreign income taxes.—For purposes of paragraph (1), 'foreign income taxes' means any income,war profits, or excess profits taxes paid to any foreign country or to any possession of the United States."
+Foreign income taxes.—For purposes of paragraph (1), 'foreign income taxes' means any income, war profits, or excess profits taxes paid to any foreign country or to any possession of the United States."
 
 Subsec. (a)(3), (4). Pub. L. 105–34, §1102(b)(1), added par. (3) and redesignated former par. (3) as (4).
 

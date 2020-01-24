@@ -18,7 +18,7 @@
 
 (d) A State or political subdivision of a State may not levy pilot charges on a vessel lawfully piloted by a pilot required under this section.
 
-(e) The owner, charterer, managing operator, agent, master, or individual in charge of a vesseloperated in violation of this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of $10,000. The vessel also is liable in rem for the penalty.
+(e) The owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of $10,000. The vessel also is liable in rem for the penalty.
 
 (f) An individual serving as a pilot without having a license required by this section or a regulation prescribed under this section is liable to the Government for a civil penalty of $10,000.
 

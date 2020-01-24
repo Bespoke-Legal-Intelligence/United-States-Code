@@ -40,7 +40,7 @@ As used in this subchapter:
 
 #### (7) Public accommodation
 
-&emsp;The following private entities are considered public accommodations for purposes of thissubchapter, if the operations of such entities affect commerce—
+&emsp;The following private entities are considered public accommodations for purposes of this subchapter, if the operations of such entities affect commerce—
 
 &emsp;&emsp;(A) an inn, hotel, motel, or other place of lodging, except for an establishment located within a building that contains not more than five rooms for rent or hire and that is actually occupied by the proprietor of such establishment as the residence of such proprietor;
 
@@ -102,7 +102,7 @@ This chapter, referred to in par. (9)(A), was in the original "this Act", meanin
 
 #### Codification
 
-In par. (8), "section 20102(1) of title 49" substituted for "section 202(e) of the Federal Railroad Safety Act of 1970 (45 U.S.C. 431(e))" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In par. (8), "section 20102(1) of title 49" substituted for "section 202(e) of the Federal Railroad Safety Act of1970 (45 U.S.C. 431(e))" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Effective Date
 

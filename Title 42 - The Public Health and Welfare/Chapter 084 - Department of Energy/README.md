@@ -40,8 +40,8 @@
 | [7143\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007143%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9365%2C%20div.%20C%2C%20title%20XXXII%2C%20%C2%A73294%28d%29%281%29%2C%20Oct.%205%2C%201999%2C%20113%20Stat.%20970.md) | Repealed. |
 | [7144\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007144%20-%20Establishment%20of%20policy%20for%20National%20Nuclear%20Security%20Administration.md) | Establishment of policy for National Nuclear Security Administration. |
 | [7144a.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007144a%20-%20Establishment%20of%20security%2C%20counterintelligence%2C%20and%20intelligence%20policies.md) | Establishment of security, counterintelligence, and intelligence policies. |
-| [7144b.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007144b%20-%20Office%20of%20Counterintelligence.md) | Office of Counterintelligence. |
-| [7144c.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007144c%20-%20Office%20of%20Intelligence.md) | Office of Intelligence. |
+| [7144b.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007144b%20-%20Office%20of%20Intelligence%20and%20Counterintelligence.md) | Office of Intelligence and Counterintelligence. |
+| [7144c.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007144c%20-%20Repealed.%20Pub.%20L.%20116%E2%80%9392%2C%20div.%20E%2C%20title%20LXIV%2C%20%C2%A76421%28b%29%2C%20Dec.%2020%2C%202019%2C%20133%20Stat.%202199.md) | Repealed. |
 | [7144d.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007144d%20-%20Office%20of%20Arctic%20Energy.md) | Office of Arctic Energy. |
 | [7144e.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007144e%20-%20Office%20of%20Indian%20Energy%20Policy%20and%20Programs.md) | Office of Indian Energy Policy and Programs. |
 

@@ -124,7 +124,7 @@ Rail and Transit.—
 
 &emsp;(1)
 
-In general.—Improvements to, or the maintenance, rehabilitation, or operation of, railroad or rail transit lines or elements thereof that are in use or were historically used forthe transportation of goods or passengers shall not be considered a use of a historic site under subsection (a), regardless of whether the railroad or rail transit line or element thereof is listed on, or eligible for listing on, the National Register of Historic Places.
+In general.—Improvements to, or the maintenance, rehabilitation, or operation of, railroad or rail transit lines or elements thereof that are in use or were historically used for the transportation of goods or passengers shall not be considered a use of a historic site under subsection (a), regardless of whether the railroad or rail transit line or element thereof is listed on, or eligible for listing on, the National Register of Historic Places.
 
 &emsp;(2)
 

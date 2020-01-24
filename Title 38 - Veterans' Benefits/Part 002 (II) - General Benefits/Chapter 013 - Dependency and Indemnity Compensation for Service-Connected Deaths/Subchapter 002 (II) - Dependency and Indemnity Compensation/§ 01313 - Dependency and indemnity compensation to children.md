@@ -346,7 +346,7 @@ Amendment by Pub. L. 89–730 effective first day of second calendar month follo
 
 #### Effective Date of 1963 Amendment
 
-Amendment by Pub. L. 88–21 effective first day of second calendar month beginning after May 15, 1963, see section 5 of Pub. L. 88–21, set out as a note under section 1311 of this title.
+Amendment by Pub. L. 88–21 effective first day of second calendar month beginning after May 15, 1963, seesection 5 of Pub. L. 88–21, set out as a note under section 1311 of this title.
 
 #### Repeal
 

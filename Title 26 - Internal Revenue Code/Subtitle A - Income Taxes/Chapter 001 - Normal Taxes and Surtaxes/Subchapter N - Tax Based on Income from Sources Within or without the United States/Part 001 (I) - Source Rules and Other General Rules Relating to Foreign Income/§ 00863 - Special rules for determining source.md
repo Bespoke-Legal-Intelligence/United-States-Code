@@ -106,7 +106,7 @@ In the case of gross income derived from sources partly within and partly withou
 
 #### (ii) Special rule for income attributable to office or fixed place of business in the United States
 
-&emsp;&emsp;&emsp;In the case of any person (other than a United States person) who maintains anoffice or other fixed place of business in the United States, any international communications income attributable to such office or other fixed place of business shall be sourced in the United States.
+&emsp;&emsp;&emsp;In the case of any person (other than a United States person) who maintains an office or other fixed place of business in the United States, any international communications income attributable to such office or other fixed place of business shall be sourced in the United States.
 
 #### (2) Definition
 
@@ -180,7 +180,7 @@ In general.—In the case of any property described in subparagraph (B), paragra
 
 &emsp;"(B)
 
-Property to which paragraph applies.—Property described in this subparagraph consists of 4 ships which are to be leased by the United States Navy and which are the subject of Internal Revenue Service rulings bearing the following dates and which involved the following amount of financing, respectively:
+Property to which paragraph applies.—Property described in this subparagraph consists of 4ships which are to be leased by the United States Navy and which are the subject of Internal Revenue Service rulings bearing the following dates and which involved the following amount of financing, respectively:
 
 &nbsp;
 
@@ -199,7 +199,7 @@ Pub. L. 98–369, div. A, title I, §124(b), July 18, 1984, 98 Stat. 647, provid
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(b)(26)(C), (D) of Pub. L. 94–455 effective for taxable years beginning after Dec.31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(26)(C), (D) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

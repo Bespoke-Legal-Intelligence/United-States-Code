@@ -16,7 +16,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (c), the target total budget resources made available to the Secretary from the Harbor Maintenance Trust Fund for a fiscal year shall be not less than the following:
+&emsp;Except as provided in subsection (c), the target total budget resources made available tothe Secretary from the Harbor Maintenance Trust Fund for a fiscal year shall be not less than the following:
 
 &emsp;&emsp;(A) For fiscal year 2015, 67 percent of the total amount of harbor maintenance taxes received in fiscal year 2014.
 

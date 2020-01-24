@@ -42,7 +42,7 @@ Sexual assault.—The term "sexual assault" includes the offenses of rape, sexua
 
 State.—The term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
 
-(Added Pub. L. 112–81, div. A, title V, §581(b)(1), Dec. 31, 2011, 125 Stat. 1431; amended Pub. L.113–66, div. A, title XVII, §1716(a)(3)(C), Dec. 26, 2013, 127 Stat. 969; Pub. L. 114–92, div. A, title V, §§534(b), 536, Nov. 25, 2015, 129 Stat. 816, 817.)
+(Added Pub. L. 112–81, div. A, title V, §581(b)(1), Dec. 31, 2011, 125 Stat. 1431; amended Pub. L. 113–66, div. A, title XVII, §1716(a)(3)(C), Dec. 26, 2013, 127 Stat. 969; Pub. L. 114–92, div. A, title V, §§534(b), 536, Nov. 25, 2015, 129 Stat. 816, 817.)
 
 #### Amendments
 
@@ -55,6 +55,26 @@ Subsec. (b)(3). Pub. L. 114–92, §536(a), added par. (3).
 Subsec. (c). Pub. L. 114–92, §536(c), added subsec. (c).
 
 <b>2013</b>—Subsec. (a)(1)(A). Pub. L. 113–66 substituted "sections 1044 and 1044e" for "section 1044".
+
+#### Information for Members of the Armed Forces on Availability of Services of the Department of Veterans Affairs Relating to Sexual Trauma
+
+Pub. L. 116–92, div. A, title V, §599, Dec. 20, 2019, 133 Stat. 1421, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall inform members of the Armed Forces, using mechanisms available to the Secretary, of the eligibility of such members for services of the Department of Veterans Affairs relating to sexual trauma.
+
+"(b)
+
+Information From Sexual Assault Response Coordinators.—The Secretary of Defense shall ensure—
+
+&emsp;"(1) that Sexual Assault Response Coordinators and uniformed victims advocates of the Department of Defense advise members of the Armed Forces who report instances of sexual trauma regarding the eligibility of such members for services at the Department of Veterans Affairs; and
+
+&emsp;"(2) that such information is included in mandatory training materials.
+
+"(c)
+
+Sexual Trauma Defined.—In this section, the term 'sexual trauma' means psychological trauma described in section 1720D(a)(1) of title 38, United States Code."
 
 #### Legal Assistance for Victims of Sexual Assault
 

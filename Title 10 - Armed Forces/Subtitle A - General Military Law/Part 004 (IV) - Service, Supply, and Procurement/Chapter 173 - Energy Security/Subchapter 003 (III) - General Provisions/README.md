@@ -4,11 +4,13 @@
 | :--- | ---: |
 | [2924\.](%C2%A7%2002924%20-%20Definitions.md) | Definitions. |
 | [2925\.](%C2%A7%2002925%20-%20Annual%20Department%20of%20Defense%20energy%20management%20reports.md) | Annual Department of Defense energy management reports. |
-| [2926\.](%C2%A7%2002926%20-%20Operational%20energy%20activities.md) | Operational energy activities. |
+| [2926\.](%C2%A7%2002926%20-%20Operational%20energy.md) | Operational energy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title III, §320(c)(2), Dec. 20, 2019, 133 Stat. 1307, which directed amendment of the analysis at the beginning of this chapter by substituting "Operational energy" for "Operational energy activities" in item 2926, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 
 <b>2014</b>—Pub. L. 113–291, div. A, title IX, §901(l)(3), Dec. 19, 2014, 128 Stat. 3468, added item 2926.
 
@@ -23,4 +25,4 @@
 
 - [&sect; 02924 - Definitions](%C2%A7%2002924%20-%20Definitions.md)
 - [&sect; 02925 - Annual Department of Defense energy management reports](%C2%A7%2002925%20-%20Annual%20Department%20of%20Defense%20energy%20management%20reports.md)
-- [&sect; 02926 - Operational energy activities](%C2%A7%2002926%20-%20Operational%20energy%20activities.md)
+- [&sect; 02926 - Operational energy](%C2%A7%2002926%20-%20Operational%20energy.md)

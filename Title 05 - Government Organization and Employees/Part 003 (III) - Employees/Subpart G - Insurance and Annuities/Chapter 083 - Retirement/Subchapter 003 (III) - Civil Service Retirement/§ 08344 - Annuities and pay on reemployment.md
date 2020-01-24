@@ -66,7 +66,7 @@
 
 (j)(1) If warranted by circumstances described in subsection (i)(1)(A) or (B) (as applicable), the Director of the Administrative Office of the United States Courts shall, with respect to an employee in the judicial branch, have the same waiver authority as would be available to the Director of the Office of Personnel Management, or a duly authorized agency head, under subsection (i) with respect to an employee of an Executive agency.
 
-(2) Authority under this subsection may not be exercised with respect to a justice or judge of the United States, as defined in section 451 of title 28.
+(2) Authority under this subsection may not be exercised with respect to a justice or judge ofthe United States, as defined in section 451 of title 28.
 
 (k)(1) If warranted by circumstances described in subsection (i)(1)(A) or (B) (as applicable), an official or committee designated in paragraph (2) shall, with respect to the employees specified in the applicable subparagraph of such paragraph, have the same waiver authority as would be available to the Director of the Office of Personnel Management, or a duly authorized agency head, under subsection (i) with respect to an employee of an Executive agency.
 
@@ -146,13 +146,13 @@
 
 (B) If the primary service performed by any limited time appointee employed under this subsection is training or mentoring of employees, the hours of that service shall be included in the hours of service performed for purposes of paragraph (3).
 
-(7) The authority of the head of an agency under this subsection to waive the application of subsection (a) or (b) shall terminate on December 31, 2019.
+(7) The authority of the head of an agency under this subsection to waive the application of subsection (a) or (b) shall terminate on December 31, 2024.
 
 (m)(1) For the purpose of subsections (i) through (l), "Executive agency" shall not include the Government Accountability Office.
 
 (2) An employee as to whom a waiver under subsection (i), (j), (k), or (l) is in effect shall not be considered an employee for purposes of this chapter or chapter 84 of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 581; Pub. L. 90–83, §1(83), Sept. 11, 1967, 81 Stat. 217; Pub. L. 91–375, §6(c)(20), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–658, §4, Jan. 8, 1971, 84 Stat. 1962; Pub. L. 92–297, §7(5), May 16, 1972, 86 Stat. 145; Pub. L. 94–397, §1(a)–(c), Sept. 3, 1976, 90 Stat. 1202, 1203; Pub. L. 95–454, title IX, §906(a)(14), Oct. 13, 1978, 92 Stat. 1226; Pub. L. 95–598, title III, §338(d), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §4, Jan.2, 1980, 93 Stat. 1299; Pub. L. 96–504, §1, Dec. 5, 1980, 94 Stat. 2741; Pub. L. 97–141, §5(a), Dec. 29, 1981, 95 Stat. 1719; Pub. L. 97–276, §151(g), Oct. 2, 1982, 96 Stat. 1202; Pub. L. 97–346, §3(j)(2), Oct. 15, 1982, 96 Stat. 1649; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403; Pub. L. 98–525, title XV, §1537(e), Oct. 19, 1984, 98 Stat. 2636; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 351; Pub. L. 99–500, §101(l), Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(l), Oct. 30, 1986, 100 Stat. 3341–308; Pub. L. 100–202, §§101(l) \[title I\], 106, Dec. 22, 1987, 101 Stat. 1329–358, 1329–362, 1329–433; Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2129; Pub. L. 101–428, §2(d)(8), Oct. 15, 1990, 104 Stat. 929; Pub. L. 101–509, title V, §529 \[title I, §108(b)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(2), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(b), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(6), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(f)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 106–553, §1(a)(2) \[title III, §308(h)(8)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–89; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–84, div. A, title XI, §1122(a), Oct. 28, 2009, 123 Stat. 2505; Pub. L. 111–383, div. A, title X, §1075(a)(1), Jan. 7, 2011, 124 Stat. 4368; Pub. L. 113–291, div. A, title XI, §1107(a), Dec. 19, 2014, 128 Stat. 3527.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 581; Pub. L. 90–83, §1(83), Sept. 11, 1967, 81 Stat. 217; Pub. L. 91–375, §6(c)(20), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–658, §4, Jan. 8, 1971, 84 Stat. 1962; Pub. L. 92–297, §7(5), May 16, 1972, 86 Stat. 145; Pub. L. 94–397, §1(a)–(c), Sept. 3, 1976, 90 Stat. 1202, 1203; Pub. L. 95–454, title IX, §906(a)(14), Oct. 13, 1978, 92 Stat. 1226; Pub. L. 95–598, title III, §338(d), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §4, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 96–504, §1, Dec. 5, 1980, 94 Stat. 2741; Pub. L. 97–141, §5(a), Dec. 29, 1981, 95 Stat. 1719; Pub. L. 97–276, §151(g), Oct. 2, 1982, 96 Stat. 1202; Pub. L. 97–346, §3(j)(2), Oct. 15, 1982, 96 Stat. 1649; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403; Pub. L. 98–525, title XV, §1537(e), Oct. 19, 1984, 98 Stat. 2636; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 351; Pub. L. 99–500, §101(l), Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(l), Oct. 30, 1986, 100 Stat. 3341–308; Pub. L. 100–202, §§101(l) \[title I\], 106, Dec. 22, 1987, 101 Stat. 1329–358, 1329–362, 1329–433; Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2129; Pub. L. 101–428, §2(d)(8), Oct. 15, 1990, 104 Stat. 929; Pub. L. 101–509, title V, §529 \[title I, §108(b)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(2), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(b), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(6), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(f)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 106–553, §1(a)(2) \[title III, §308(h)(8)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–89; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–84, div. A, title XI, §1122(a), Oct. 28, 2009, 123 Stat. 2505; Pub. L. 111–383, div. A, title X, §1075(a)(1), Jan. 7, 2011, 124 Stat. 4368; Pub. L. 113–291, div. A, title XI, §1107(a), Dec. 19, 2014, 128 Stat. 3527; Pub. L. 116–92, div. A, title XI, §1117(a), Dec. 20, 2019, 133 Stat. 1605.)
 
 Historical and Revision Notes<br>1966
 
@@ -225,6 +225,8 @@ Amendment of subsec. (h)(2) by Pub. L. 99–500 and 99–591 is based on provisi
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (l)(7). Pub. L. 116–92 substituted "December 31, 2024" for "December 31, 2019".
 
 <b>2014</b>—Subsec. (l)(7). Pub. L. 113–291 substituted "on December 31, 2019" for "5 years after the date of enactment of the National Defense Authorization Act for Fiscal Year 2010".
 
@@ -302,7 +304,7 @@ Subsec. (d). Pub. L. 94–397, §1(b), (c), redesignated former subsec. (b) as (
 
 Subsec. (e). Pub. L. 94–397, §1(b), redesignated former subsec. (c) as (e).
 
-<b>1972</b>—Subsec. (a). Pub. L. 92–297 substituted "section 8339(a), (b), (d), (e), (h), and (i)" for "section 8339(a), (b), (d), (g), and (h)", in subpar. (A), and "section 8339(j) or section 8339(k)(2)" for "section 8339(i) or section 8339(j)(2)", in sentence following cl. (ii).
+<b>1972</b>—Subsec. (a). Pub. L. 92–297 substituted "section 8339(a), (b), (d), (e), (h), and (i)" for "section 8339(a), (b), (d), (g), and (h)", in subpar. (A), and "section 8339(j) orsection 8339(k)(2)" for "section 8339(i) or section 8339(j)(2)", in sentence following cl. (ii).
 
 <b>1971</b>—Subsec. (a). Pub. L. 91–658 substituted provisions respecting reemployed annuitants and reduction in their annuity and increase in survivor annuity, notice to Commission of a desire not to increase the survivor annuity, increase in survivor annuity where annuitant dies while still reemployed, and redetermination of rights to survivor annuity where reemployment continued for five or more years upon election to deposit in the Fund, for prior provision that employment of an annuitant did not create an annuity for or affect the annuity of a survivor.
 
@@ -311,6 +313,8 @@ Subsec. (e). Pub. L. 94–397, §1(b), redesignated former subsec. (c) as (e).
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2014 Amendment
 
@@ -404,7 +408,7 @@ Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359, provided that: "Subsect
 
 #### Construction of 2009 Amendment
 
-Pub. L. 111–84, div. A, title XI, §1122(c), Oct. 28, 2009, 123 Stat. 2509, provided that: "Nothing in the amendments made by this section \[amending this section, section 8468 of this title, and section 1005 of Title 39, Postal Service\] may be construed to authorize the waiver of the hiring preferences under chapter 33 oftitle 5, United States Code in selecting annuitants to employ in an appointive or elective position."
+Pub. L. 111–84, div. A, title XI, §1122(c), Oct. 28, 2009, 123 Stat. 2509, provided that: "Nothing in the amendments made by this section \[amending this section, section 8468 of this title, and section 1005 of Title 39, Postal Service\] may be construed to authorize the waiver of the hiring preferences under chapter 33 of title 5, United States Code in selecting annuitants to employ in an appointive or elective position."
 
 #### Annual Report to Congress
 

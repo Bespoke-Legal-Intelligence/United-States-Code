@@ -36,7 +36,7 @@
 
 &emsp;(3) subject to section 284(b)(2) of this title and without regard to section 3324 of title 31 and section 6101 of title 41, may enter into such contracts, leases, cooperative agreements, or other transactions, as may be necessary in the conduct of the Director's functions, with any public agency, or with any person, firm, association, corporation, or educational institutions;
 
-&emsp;(4) may make grants to public and nonprofit private entities to assist in meeting the cost of the care of patients in hospitals, clinics, and related facilities who are participating in research projects; and
+&emsp;(4) may make grants to public and nonprofit private entities to assist in meeting the costof the care of patients in hospitals, clinics, and related facilities who are participating in research projects; and
 
 &emsp;(5) shall, in consultation with the advisory council for the Institute, conduct appropriate intramural training and education programs, including continuing education and laboratory and clinical research training programs.
 

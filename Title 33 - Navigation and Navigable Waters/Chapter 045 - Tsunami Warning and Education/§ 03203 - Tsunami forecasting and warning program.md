@@ -108,7 +108,7 @@ The program under this section shall operate a tsunami warning system that—
 
 &emsp;&emsp;(B) leverage connections with local emergency management officials for optimally disseminating tsunami warnings and forecasts; and
 
-&emsp;&emsp;(C) implement mass communication tools in effect on the day before April 18, 2017, used by the National Weather Service onsuch date and newer mass communication technologies as they are developed as a part of the Weather-Ready Nation program of the Administration, or otherwise, for the purpose of timely and effective delivery of tsunami warnings.
+&emsp;&emsp;(C) implement mass communication tools in effect on the day before April 18, 2017, used by the National Weather Service on such date and newer mass communication technologies as they are developed as a part of the Weather-Ready Nation program of the Administration, or otherwise, for the purpose of timely and effective delivery of tsunami warnings.
 
 #### (5) Uniform operating procedures
 
@@ -194,7 +194,7 @@ When deploying and maintaining tsunami detection technologies under the program 
 
 #### References in Text
 
-Section 3205 of this title, referred to in subsec. (e)(2), was in the original "section 6", meaning section 6 of Pub. L. 109–424, and was translated as if it referred to section 806 of Pub. L. 109–479, which enacted a substantially identical section 3205 of this title. Section 6 ofPub. L. 109–424 was repealed by section 512(a) of Pub. L. 115–25.
+Section 3205 of this title, referred to in subsec. (e)(2), was in the original "section 6", meaning section 6 of Pub. L. 109–424, and was translated as if it referred to section 806 of Pub. L. 109–479, which enacted a substantially identical section 3205 of this title. Section 6 of Pub. L. 109–424 was repealed by section 512(a) of Pub. L. 115–25.
 
 #### Codification
 

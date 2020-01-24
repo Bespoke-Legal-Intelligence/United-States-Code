@@ -163,6 +163,7 @@
 | [539p.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539p%20-%20Southeast%20Arizona%20land%20exchange%20and%20conservation.md) | Southeast Arizona land exchange and conservation. |
 | [539q.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539q%20-%20Hermosa%20Creek%20watershed%20protection.md) | Hermosa Creek watershed protection. |
 | [539r.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539r%20-%20Rocky%20Mountain%20Front%20Conservation%20Management%20Area%20and%20wilderness%20additions.md) | Rocky Mountain Front Conservation Management Area and wilderness additions. |
+| [539s.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539s%20-%20Frank%20and%20Jeanne%20Moore%20Wild%20Steelhead%20Special%20Management%20Area.md) | Frank and Jeanne Moore Wild Steelhead Special Management Area. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

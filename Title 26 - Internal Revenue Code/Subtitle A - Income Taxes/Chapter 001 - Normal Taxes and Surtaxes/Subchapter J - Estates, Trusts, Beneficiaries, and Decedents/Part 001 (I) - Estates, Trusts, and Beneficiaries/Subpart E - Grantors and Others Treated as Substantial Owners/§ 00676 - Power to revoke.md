@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The grantor shall be treated as the owner of any portion of a trust, whether or not he is treated as such owner under any other provision of this part, where at any time the power to revest in the grantor title to such portion is exercisable by the grantor or a non-adverse party, or both.
+The grantor shall be treated as the owner of any portion of a trust, whether or not he istreated as such owner under any other provision of this part, where at any time the power to revest in the grantor title to such portion is exercisable by the grantor or a non-adverse party, or both.
 
 #### (b) Power affecting beneficial enjoyment only after occurrence of event
 

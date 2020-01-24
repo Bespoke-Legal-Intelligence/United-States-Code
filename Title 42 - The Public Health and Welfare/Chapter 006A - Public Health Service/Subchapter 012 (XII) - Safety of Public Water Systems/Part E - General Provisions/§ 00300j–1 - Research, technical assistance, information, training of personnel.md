@@ -56,7 +56,7 @@ The Administrator shall—
 
 &emsp;(1) provide training for, and make grants for training (including postgraduate training) of (A) personnel of State agencies which have primary enforcement responsibility and of agencies or units of local government to which enforcement responsibilities have been delegated by the State, and (B) personnel who manage or operate public water systems, and
 
-&emsp;(2) make grants for postgraduate training of individuals (including grants to educationalinstitutions for traineeships) for purposes of qualifying such individuals to work as personnel referred to in paragraph (1).
+&emsp;(2) make grants for postgraduate training of individuals (including grants to educational institutions for traineeships) for purposes of qualifying such individuals to work as personnel referred to in paragraph (1).
 
 &emsp;(3) make grants to, and enter into contracts with, any public agency, educational institution, and any other organization, in accordance with procedures prescribed by the Administrator, under which he may pay all or part of the costs (as may be determined by the Administrator) of any project or activity which is designed—
 
@@ -66,7 +66,7 @@ The Administrator shall—
 
 &emsp;&emsp;(C) to develop and expand the capability of programs of States and municipalities to carry out the purposes of this subchapter (other than by carrying out State programs of public water system supervision or underground water source protection (as defined in section 300j–2(c) of this title)).
 
-> Reasonable fees may be charged for training provided under paragraph (1)(B) to persons other than personnel of State or local agencies but such training shall be provided to personnel of State or local agencies without charge.
+> Reasonable fees may be charged for training provided under paragraph (1)(B) to persons otherthan personnel of State or local agencies but such training shall be provided to personnel of State or local agencies without charge.
 
 #### (d) Authorization of appropriations
 
@@ -138,7 +138,7 @@ Subsec. (a)(2)(B). Pub. L. 104–182, §121(3), redesignated subpar. (B) as subs
 
 Subsec. (a)(3), (11). Pub. L. 104–182, §121(4)(B), (C), redesignated par. (11) as (3), transferred that par. to appear before par. (4), and struck out former par. (3) which provided that the Administrator was to conduct studies, and make periodic reports to Congress, on the costs of carrying out regulations prescribed under section 300g–1 of this title.
 
-Subsec. (b). Pub. L. 104–182, §121(2), (3), redesignated subsec. (a)(2)(B) as subsec. (b), transferred that subsec. to appear after subsec. (a), and struck out former subsec. (b) which read as follows: "In carrying out this subchapter, the Administrator is authorized to—
+Subsec. (b). Pub. L. 104–182, §121(2), (3), redesignated subsec. (a)(2)(B) as subsec. (b), transferred that subsec.to appear after subsec. (a), and struck out former subsec. (b) which read as follows: "In carrying out this subchapter, the Administrator is authorized to—
 
 &emsp;"(1) collect and make available information pertaining to research, investigations, and demonstrations with respect to providing a dependably safe supply of drinking water together with appropriate recommendations in connection therewith;
 

@@ -10,7 +10,7 @@ In implementing this chapter, the Secretary shall, to the maximum extent practic
 
 &emsp;(3) use and encourage cooperators under this chapter to use, private agencies, consultants, organizations, firms, and individuals to furnish necessary materials and services; and
 
-&emsp;(4) promote effectiveness and economy by coordinating the direct actions and assistanceauthorized under this chapter with related programs the Secretary administers, and with cooperative programs of other agencies.
+&emsp;(4) promote effectiveness and economy by coordinating the direct actions and assistance authorized under this chapter with related programs the Secretary administers, and with cooperative programs of other agencies.
 
 #### (b) Availability of appropriations
 
@@ -54,7 +54,7 @@ Section 2104(b) of this title, referred to in subsec. (h), was in the original a
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 

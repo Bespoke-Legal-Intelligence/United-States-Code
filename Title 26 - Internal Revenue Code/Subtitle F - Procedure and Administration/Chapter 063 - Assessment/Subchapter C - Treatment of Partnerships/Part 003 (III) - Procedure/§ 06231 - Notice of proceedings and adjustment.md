@@ -40,7 +40,7 @@ The Secretary may, with the consent of the partnership, rescind any notice of a 
 
 #### Prior Provisions
 
-A prior section 6231, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 663; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(B)–(D), (I), July 18, 1984, 98 Stat. 964, 965; Pub. L. 105–34, title XI, §1141(b), title XII, §§1232(a), 1234(a), Aug. 5, 1997, 111 Stat. 981, 1023, 1024; Pub. L. 105–206, title III, §3507(a), July 22, 1998, 112 Stat. 772; Pub. L. 107–147, title IV, §§416(d)(1)(C), 417(19)(C), Mar. 9, 2002, 116 Stat. 55, 57, defined terms for purposes of this subchapter and listed special rules for partnership items, prior to repeal by Pub. L. 114–74, title XI, §1101(a), Nov. 2, 2015, 129 Stat. 625.
+A prior section 6231, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 663; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(B)–(D), (I), July 18, 1984, 98 Stat. 964, 965; Pub. L. 105–34, title XI, §1141(b), title XII, §§1232(a), 1234(a), Aug. 5, 1997, 111 Stat. 981,1023, 1024; Pub. L. 105–206, title III, §3507(a), July 22, 1998, 112 Stat. 772; Pub. L. 107–147, title IV, §§416(d)(1)(C), 417(19)(C), Mar. 9, 2002, 116 Stat. 55, 57, defined terms for purposes of this subchapter and listed special rules for partnership items, prior to repeal by Pub. L. 114–74, title XI, §1101(a), Nov. 2, 2015, 129 Stat. 625.
 
 #### Amendments
 

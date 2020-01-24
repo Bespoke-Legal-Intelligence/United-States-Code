@@ -84,7 +84,7 @@ At the invitation of the Chair, representatives of agencies not listed in subsec
 
 Sec. 3. <i>Mission and Function of the Council and Steering Committee</i>. (a) The Council shall, consistent with guidance from the Steering Committee:
 
-(i) advise the Chair and Steering Committee members on priorities, challenges, and opportunities for local partnerships to support homeland security priorities, as well as regularly report to the Steering Committee on the Council's efforts;
+(i) advise the Chair and Steering Committee members on priorities, challenges, and opportunities for localpartnerships to support homeland security priorities, as well as regularly report to the Steering Committee on the Council's efforts;
 
 (ii) promote homeland security priorities and opportunities for collaboration between Federal Government field offices and State, local, tribal, and territorial stakeholders;
 

@@ -1,6 +1,6 @@
 ### §703. Miscellaneous authorities respecting employees
 
-(a) The Secretary may furnish and launder such wearing apparel as may be prescribed for employees in the performance of their official duties.
+(a) The Secretary may furnish and launder such wearing apparel as may be prescribed foremployees in the performance of their official duties.
 
 (b) The Secretary may transport children of Department employees located at isolated stations to and from school in available Government-owned automotive equipment.
 
@@ -12,7 +12,7 @@
 
 (f)(1) The Secretary, upon determining that an emergency situation exists and that such action is necessary for the effective conduct of the affairs of the Department, may use Government-owned, or leased, vehicles to transport employees to and from their place of employment and the nearest adequate public transportation or, if such public transportation is either unavailable or not feasible to use, to and from their place of employment and their home.
 
-(2) The Secretary shall establish reasonable rates to cover the cost of the service renderedunder this subsection, and all proceeds collected therefrom shall be applied to the applicable appropriation.
+(2) The Secretary shall establish reasonable rates to cover the cost of the service rendered under this subsection, and all proceeds collected therefrom shall be applied to the applicable appropriation.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 394.)
 
@@ -104,7 +104,7 @@ Update.—The Secretary shall regularly update the training materials required u
 
 #### Limitation on Awards and Bonuses Paid to Employees of Department of Veterans Affairs
 
-Pub. L. 113–146, title VII, §705, Aug. 7, 2014, 128 Stat. 1798, as amended by Pub. L. 114–198, title IX, §951, July 22, 2016, 130 Stat. 778; Pub. L. 115–182, title III, §305, June 6, 2018, 132 Stat. 1469, provided that:
+Pub. L. 113–146, title VII, §705, Aug. 7, 2014, 128 Stat. 1798, as amended by Pub. L. 114–198, title IX, §951, July22, 2016, 130 Stat. 778; Pub. L. 115–182, title III, §305, June 6, 2018, 132 Stat. 1469, provided that:
 
 "(a)
 

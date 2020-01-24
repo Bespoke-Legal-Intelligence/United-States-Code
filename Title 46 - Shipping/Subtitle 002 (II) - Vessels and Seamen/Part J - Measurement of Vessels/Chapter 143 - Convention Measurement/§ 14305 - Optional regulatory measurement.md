@@ -1,6 +1,6 @@
 ### §14305. Optional regulatory measurement
 
-(a) On request of the owner of a vessel measured under this chapter that is of United States registry or nationality, or a vessel operated under the authority of the United States, the Secretary also shall measure the vessel underchapter 145 of this title. The tonnages determined under that chapter shall be used in applying—
+(a) On request of the owner of a vessel measured under this chapter that is of United States registry or nationality, or a vessel operated under the authority of the United States, the Secretary also shall measure the vessel under chapter 145 of this title. The tonnages determined under that chapter shall be used in applying—
 
 &emsp;(1) parts A, B, C, E, F, and G of this subtitle and section 12116 of this title;
 
@@ -74,7 +74,7 @@ The International Convention on Standards of Training, Certification, and Watchk
 
 The International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973: IMO Resolution A.541 (XIII) of November 17, 1983, provides that:
 
-&emsp;At the request of a shipowner, the Administration may allow a ship of less than 400 tons gross tonnage (measured under the previous national tonnage rules) the keel of which is laid on or before 31 December 1985and which is required to be measured under the provisions of the International Convention on Tonnage Measurement of Ships, 1969, to use the gross tonnage measured under the national tonnage rules which were in effect prior to the coming into force of the 1969 Tonnage Convention, for the purpose of application of the provisions of MARPOL 73/78. Such tonnage, however, shall not be shown on the 1969 Tonnage Certificate.
+&emsp;At the request of a shipowner, the Administration may allow a ship of less than 400 tons gross tonnage (measured under the previous national tonnage rules) the keel of which is laid on or before 31 December 1985 and which is required to be measured under the provisions of the International Convention on Tonnage Measurement of Ships, 1969, to use the gross tonnage measured under the national tonnage rules which were in effect prior to the coming into force of the 1969 Tonnage Convention, for the purpose of application of the provisions of MARPOL 73/78. Such tonnage, however, shall not be shown on the 1969 Tonnage Certificate.
 
 It further provides that "the interim scheme shall not apply to ships the keels of which are laid after 31 December 1985, except that in respect of regulations for ships of less than 400 tons gross tonnage (as measured under previous national rules), the keels of which are laid after 31 December 1985, the Administration may continue to apply the interim scheme until 18 July 1994."
 
@@ -94,7 +94,7 @@ Sections 351, 352, 355, and 356 of the Ship Radio Act (47 U.S.C. 351, 352, 354, 
 
 The Officers' Competency Certificates Convention, 1936, referred to in subsec. (a)(10), is set out in 54 Stat. Pt. 2, p. 1683.
 
-For provisions relating to International Conventions for the Safety of Life at Sea, referred to in subsec. (a)(11), to which the United States has been a party, see section 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
+For provisions relating to International Conventions for the Safety of Life at Sea, referred to in subsec.\(a)(11), to which the United States has been a party, see section 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
 
 For provisions relating to the International Convention for the Prevention of Pollution from Ships, as modified, referred to in subsec. (a)(13), see chapter 33 (§1901 et seq.) of Title 33.
 

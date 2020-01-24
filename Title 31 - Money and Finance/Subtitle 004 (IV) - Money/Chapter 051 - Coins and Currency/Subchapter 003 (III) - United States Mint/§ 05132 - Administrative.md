@@ -24,7 +24,7 @@
 
 (c) The Secretary shall make an annual report at the end of each fiscal year on the operation of the United States Mint.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 97–452, §1(21), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 98–151, §123, Nov. 14, 1983, 97 Stat. 979; Pub. L. 98–216, §1(7), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–61, title II, §204, July 9, 1985, 99 Stat. 116; Pub. L. 99–185, §2(e), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 100–274, §§1, 2(c)(3), Mar. 31, 1988, 102 Stat. 48; Pub. L. 101–585, §2, Nov. 15, 1990, 104 Stat. 2874;Pub. L. 102–390, title II, §§211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1624, 1628, 1629; Pub. L. 106–445, §2(a), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 114–94, div. G, title LXXIII, §73001(2), Dec. 4, 2015, 129 Stat. 1786.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 97–452, §1(21), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 98–151, §123, Nov. 14, 1983, 97 Stat. 979; Pub. L. 98–216, §1(7), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–61, title II, §204, July 9, 1985, 99 Stat. 116; Pub. L. 99–185, §2(e), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 100–274, §§1, 2(c)(3), Mar. 31, 1988, 102 Stat. 48; Pub. L. 101–585, §2, Nov. 15, 1990, 104 Stat. 2874; Pub. L. 102–390, title II, §§211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1624, 1628, 1629; Pub. L. 106–445, §2(a), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 114–94, div. G, title LXXIII, §73001(2), Dec. 4, 2015, 129 Stat. 1786.)
 
 Historical and Revision Notes<br>1982
 
@@ -106,7 +106,7 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a
 
 Pub. L. 102–390, §221(c)(1)(A), amended second sentence generally. Prior to amendment, second sentence read as follows: "However, amounts from numismatic items shall be reimbursed to the current appropriation used to pay the cost of preparing and selling the items."
 
-Pub. L. 102–390, §221(c)(1)(B), amended last sentence generally. Prior to amendment, last sentence read as follows: "The Secretary may not use amounts the Secretary receives from profits on minting coins or from charges on gold or silver bullion under section 5122 of this title to pay officers and employees."
+Pub. L. 102–390, §221(c)(1)(B), amended last sentence generally. Prior to amendment, last sentence read asfollows: "The Secretary may not use amounts the Secretary receives from profits on minting coins or from charges on gold or silver bullion under section 5122 of this title to pay officers and employees."
 
 Subsec. (a)(3) to (5). Pub. L. 102–390, §211, which directed the substitution of "$54,208,000" for "$46,511,000" and "1993" for "1988" in par. (2), and the striking out of pars. (3) and (4), was executed by making the substitution in par. (3) and striking out pars. (4) and (5) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 101–585 redesignating pars. (2) to (4) as (3) to (5). See 1990 Amendment note below. Prior to being struck out, par. (4) provided that not more than $75,000 be expended for purpose of hosting International Mint Directors' Conference in the United States in 1988, and par. (5) authorized Director of the Mint to collect from participants at Conference reasonable fees and assessments in connection with Conference, administer such amounts, and spend such amounts to pay expenses incurred in connection with Conference.
 

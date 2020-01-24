@@ -8,7 +8,7 @@ Not later than 1 year after June 10, 1993, the Director of the Institute shall e
 
 The general purpose of the Center is—
 
-&emsp;(1) the conduct and support of research, training, health information dissemination,and other activities with respect to sleep disorders, including biological and circadian rhythm research, basic understanding of sleep, chronobiological and other sleep related research; and
+&emsp;(1) the conduct and support of research, training, health information dissemination, and other activities with respect to sleep disorders, including biological and circadian rhythm research, basic understanding of sleep, chronobiological and other sleep related research; and
 
 &emsp;(2) to coordinate the activities of the Center with similar activities of other Federal agencies, including the other agencies of the National Institutes of Health, and similar activities of other public entities and nonprofit entities.
 
@@ -18,7 +18,7 @@ The general purpose of the Center is—
 
 (2) The Advisory Board shall advise, assist, consult with, and make recommendations to the Director of the National Institutes of Health, through the Director of the Institute, and the Director of the Center concerning matters relating to the scientific activities carried out by and through the Center and the policies respecting such activities, including recommendations with respect to the plan required in subsection (c).<sup>1</sup>
 
-(3)(A) The Director of the National Institutes of Health shall appoint to the Advisory Board 12 appropriately qualified representatives of the public who are not officers or employees of the Federal Government. Of such members, eight shall be representatives of health and scientific disciplines with respect to sleep disorders and four shall be individuals representing the interests of individuals with or undergoing treatment for sleep disorders.
+(3)(A) The Director of the National Institutes of Health shall appoint to the Advisory Board 12appropriately qualified representatives of the public who are not officers or employees of the Federal Government. Of such members, eight shall be representatives of health and scientific disciplines with respect to sleep disorders and four shall be individuals representing the interests of individuals with or undergoing treatment for sleep disorders.
 
 (B) The following officials shall serve as ex officio members of the Advisory Board:
 

@@ -40,7 +40,7 @@ For purposes of this section—
 
 > &emsp;&emsp;incidental to farming operations; or
 
-&emsp;&emsp;(D) by the owner, tenant, or operator of a farm, in connection with the operation,management, conservation, improvement, or maintenance of such farm and its tools and equipment.
+&emsp;&emsp;(D) by the owner, tenant, or operator of a farm, in connection with the operation, management, conservation, improvement, or maintenance of such farm and its tools and equipment.
 
 #### (4) Certain farming use other than by owner, etc.
 
@@ -84,7 +84,7 @@ The Secretary may by regulations prescribe the conditions, not inconsistent with
 
 &emsp;Payment shall be made under subsection (a), only to—
 
-&emsp;&emsp;(A) the United States or an agency or instrumentality thereof, a State, a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions, or
+&emsp;&emsp;(A) the United States or an agency or instrumentality thereof, a State, a politicalsubdivision of a State, or an agency or instrumentality of one or more States or political subdivisions, or
 
 &emsp;&emsp;(B) an organization exempt from tax under section 501(a) (other than an organization required to make a return of the tax imposed under subtitle A for its taxable year).
 
@@ -158,7 +158,7 @@ Subsec. (c)(4), (5). Pub. L. 95–458, §3(a), added par. (4) and redesignated f
 
 Subsec. (b). Pub. L. 94–455, §1906(a)(26)(A), among other changes, struck out provisions relating to gasoline used before July 1, 1965, and struck out requirement that a person's first taxable year beginning after June 30, 1965, include the period after June 30, 1965, and before the beginning of that first taxable year.
 
-Subsec. (c)(3)(A). Pub. L. 94–455, §1906(b)(6)(A), among other changes, struck out "and for purposes of section 6416(b)(2)(G)(ii) (but not for purposes of section 4041)," after "in applying subsection (a) to this subparagraph," and provision that if the use of gasoline is by any person other than the owner, tenant, or operator of the farm, then, for purposes of applying section 6416(b)(2)(G)(ii), any tax paid under section 4041 in respect of a liquid used on a farm for farming purposes be treated as having been paid by the owner, tenant, or operator of the farm on which such liquid is used.
+Subsec. (c)(3)(A). Pub. L. 94–455, §1906(b)(6)(A), among other changes, struck out "and for purposes of section 6416(b)(2)(G)(ii) (but not for purposes of section 4041)," after "in applying subsection (a) to this subparagraph," and provision that if the use of gasoline is by any person other than the owner, tenant, or operator of the farm, then, for purposes of applying section6416(b)(2)(G)(ii), any tax paid under section 4041 in respect of a liquid used on a farm for farming purposes be treated as having been paid by the owner, tenant, or operator of the farm on which such liquid is used.
 
 Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 

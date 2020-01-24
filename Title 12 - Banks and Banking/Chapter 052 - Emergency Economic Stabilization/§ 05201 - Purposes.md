@@ -34,7 +34,7 @@ Pub. L. 111–22, div. A, title VII, §701, May 20, 2009, 123 Stat. 1660, provid
 
 \[Section 701 of Pub. L. 111–22, provisions of law amended by such section, and any regulations promulgated pursuant to such section, as in effect on Dec. 30, 2014, restored and revived, see section 304(b) of Pub. L. 115–174, set out as a note under section 1437f of Title 42, The Public Health and Welfare.\]
 
-Pub. L. 111–15, §1, Apr. 24, 2009, 123 Stat. 1603, provided that: "This Act \[amending section 5231 of this title and enacting provisions set out as a note under section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees\] may be cited as the 'Special Inspector General for the Troubled Asset Relief Program Act of 2009'."
+Pub. L. 111–15, §1, Apr. 24, 2009, 123 Stat. 1603, provided that: "This Act \[amending section 5231 of this title andenacting provisions set out as a note under section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees\] may be cited as the 'Special Inspector General for the Troubled Asset Relief Program Act of 2009'."
 
 #### Short Title
 

@@ -26,7 +26,7 @@ Pub. L. 106–570, title VI, Dec. 27, 2000, 114 Stat. 3051, as amended by Pub. L
 
 &emsp;"(3) Paul D. Coverdell believed that Peace Corps volunteers could not only make a difference in the countries where they served but that the greatest benefit could be felt at home.
 
-&emsp;"(4) In 1989, Paul D. Coverdell founded the Peace Corps World Wise Schools Program to help fulfill theThird Goal of the Peace Corps, 'to promote a better understanding of the people served among people of the United States'.
+&emsp;"(4) In 1989, Paul D. Coverdell founded the Peace Corps World Wise Schools Program to help fulfill the Third Goal of the Peace Corps, 'to promote a better understanding of the people served among people of the United States'.
 
 &emsp;"(5) The World Wise Schools Program is an innovative education program that seeks to engage learners in an inquiry about the world, themselves, and others in order to broaden perspectives; promote cultural awareness; appreciate global connections; and encourage service.
 

@@ -78,7 +78,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;&emsp;(D) the consumer has a right to prohibit information contained in the consumer's file with any consumer reporting agency from being used in connection with any credit or insurance transaction that is not initiated by the consumer; and
 
-&emsp;&emsp;(E) the consumer may exercise the right referred to in subparagraph (D) by notifyinga notification system established under section 1681b(e) of this title.
+&emsp;&emsp;(E) the consumer may exercise the right referred to in subparagraph (D) by notifying a notification system established under section 1681b(e) of this title.
 
 #### (2) Disclosure of address and telephone number; format
 
@@ -140,7 +140,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;&emsp;&emsp;(iii) advances funds to or on behalf of a person, based on an obligation of the person to repay the funds or repayable from specific property pledged by or on behalf of the person;
 
-&emsp;&emsp;(B) does not include a creditor described in subparagraph (A)(iii) that advances funds onbehalf of a person for expenses incidental to a service provided by the creditor to that person; and
+&emsp;&emsp;(B) does not include a creditor described in subparagraph (A)(iii) that advances funds on behalf of a person for expenses incidental to a service provided by the creditor to that person; and
 
 &emsp;&emsp;(C) includes any other type of creditor, as defined in that section 1691a of this title, as the agency described in paragraph (1) having authority over that creditor may determine appropriate by rule promulgated by that agency, based on a determination that such creditor offers or maintains accounts that are subject to a reasonably foreseeable risk of identity theft.
 
@@ -230,7 +230,7 @@ If a person acting as a debt collector (as that term is defined in subchapter V)
 
 &emsp;&emsp;&emsp;(iv) a model notice that may be used to comply with this subsection; and
 
-&emsp;&emsp;&emsp;(v) the timing of the notice required under paragraph (1), including the circumstances under which the notice must be provided after the terms offered to the consumer were set based on information from a consumer report.
+&emsp;&emsp;&emsp;(v) the timing of the notice required under paragraph (1), including the circumstances under which the notice must be provided after the terms offered to theconsumer were set based on information from a consumer report.
 
 #### (7) Compliance
 

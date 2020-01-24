@@ -52,7 +52,7 @@ In this chapter:
 
 #### (6) President
 
-&emsp;The term "President" means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary of State, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of U.S. Customs and Border Protection, and the Secretary of the Treasury.
+&emsp;The term "President" means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary ofState, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of U.S. Customs and Border Protection, and the Secretary of the Treasury.
 
 #### (7) USA PATRIOT Act
 

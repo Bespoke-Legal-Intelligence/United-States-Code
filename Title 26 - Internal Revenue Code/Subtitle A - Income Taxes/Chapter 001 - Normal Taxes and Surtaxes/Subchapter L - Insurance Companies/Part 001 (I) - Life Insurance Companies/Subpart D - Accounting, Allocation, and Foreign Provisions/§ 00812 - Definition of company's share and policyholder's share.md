@@ -40,7 +40,7 @@ Subsec. (e). Pub. L. 100–647, §1018(h)(1), amended subsec. (e) generally. Pri
 
 <b>1987</b>—Subsec. (b)(2). Pub. L. 100–203 substituted "at the greater of the prevailing State assumed rate or the applicable Federal interest rate" for "at the prevailing State assumed rate or, where such rate is not used, another appropriate rate" in subpar. (A), and inserted provision at end that in any case where the prevailing State assumed rate is not used, another appropriate rate be treated as the prevailing State assumed rate for purposes of subpar. (A).
 
-<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514, §1821(i)(1), inserted "or, where such rate is not used, another appropriate rate" after "assumed rate", in subpar. (A) and added subpar. (D).
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514, §1821(i)(1), inserted "or, where such rate is not used, another appropriaterate" after "assumed rate", in subpar. (A) and added subpar. (D).
 
 Subsec. (b)(3)(B). Pub. L. 99–514, §1821(i)(2), struck out "(including tax-exempt interest)" after "insurance gross income" in cl. (ii) and inserted at end "For purposes of subparagraph (B)(ii), life insurance gross income shall be determined by including tax-exempt interest and by applying section 807(a)(2)(B) as if it did not contain clause (i) thereof."
 

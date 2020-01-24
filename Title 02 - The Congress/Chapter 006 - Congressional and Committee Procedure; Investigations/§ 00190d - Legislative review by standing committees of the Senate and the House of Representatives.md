@@ -56,7 +56,7 @@ Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946, ch. 753, ti
 
 #### Partial Repeal
 
-Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as itrelates to the Senate, is repealed. See Standing Rules of the Senate.
+Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
 
 <i><sup>1</sup></i><i> See Partial Repeal note below.</i>
 

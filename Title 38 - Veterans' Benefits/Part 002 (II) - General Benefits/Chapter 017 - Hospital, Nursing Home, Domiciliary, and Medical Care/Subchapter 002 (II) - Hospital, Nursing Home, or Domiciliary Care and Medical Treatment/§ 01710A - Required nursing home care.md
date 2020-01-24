@@ -10,7 +10,7 @@
 
 (d) The provisions of subsection (a) shall terminate on September 30, 2020.
 
-(Added Pub. L. 106–117, title I, §101(a)(1), Nov. 30, 1999, 113 Stat. 1547; amended Pub. L. 106–419, title II, §224(a), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 108–170, title I, §106(b), Dec. 6, 2003, 117 Stat. 2046; Pub. L. 110–181, div. A, title XVII, §1706(b), Jan. 28, 2008, 122 Stat. 493; Pub. L. 110–387, title VIII, §805, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 113–59, §8, Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title I, §101, Sept. 26, 2014, 128 Stat. 1902; Pub. L. 114–58, title I, §102, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–228, title I, §102, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §102, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–251, title I, §102, Sept. 29, 2018, 132 Stat. 3168.)
+(Added Pub. L. 106–117, title I, §101(a)(1), Nov. 30, 1999, 113 Stat. 1547; amended Pub. L. 106–419, title II, §224(a), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 108–170, title I, §106(b), Dec. 6, 2003, 117 Stat. 2046;Pub. L. 110–181, div. A, title XVII, §1706(b), Jan. 28, 2008, 122 Stat. 493; Pub. L. 110–387, title VIII, §805, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 113–59, §8, Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title I, §101, Sept. 26, 2014, 128 Stat. 1902; Pub. L. 114–58, title I, §102, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–228, title I, §102, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §102, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–251, title I, §102, Sept. 29, 2018, 132 Stat. 3168.)
 
 #### References in Text
 

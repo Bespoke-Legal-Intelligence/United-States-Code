@@ -12,7 +12,7 @@ The Corporation shall deposit in the Insurance Fund all premium payments receive
 
 #### (1) Mandatory use
 
-&emsp;Beginning January 1, 1993, the Corporation shall expend amounts in the Insurance Fund to the extent necessary to insure the timely payment of interest and principal on insured obligations.
+&emsp;Beginning January 1, 1993, the Corporation shall expend amounts in the Insurance Fund to the extent necessary to insure the timelypayment of interest and principal on insured obligations.
 
 #### (2) Other mandatory uses
 

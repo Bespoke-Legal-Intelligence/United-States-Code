@@ -6,7 +6,7 @@ Establishment.—The Secretary of Defense shall establish a program for analysis
 
 (b)
 
-Supervision of Program.—The Secretary of Defense shall carry out the program through the Under Secretary of Defense for Acquisition, Technology, and Logistics. In carrying out the program, the Under Secretary shall consult with the Secretary of Energy, the Secretary of Commerce, and the Secretary of Labor.
+Supervision of Program.—The Secretary of Defense shall carry out the program through the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment. In carrying out the program, the Under Secretaries shall consult with the Secretary of Energy, the Secretary of Commerce, and the Secretary of Labor.
 
 (c)
 
@@ -26,13 +26,15 @@ Functions.—The functions of the program shall include, with respect to the nat
 
 &emsp;(4) Dissemination, through the National Technical Information Service of the Department of Commerce, of unclassified information and assessments for further dissemination within the Federal Government and to the private sector.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4213(a), Oct. 23, 1992, 106 Stat. 2665; amended Pub. L. 104–201, div. A, title VIII, §829(b), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 107–107, div. A, title X, §1048(b)(4), Dec. 28, 2001, 115 Stat. 1225.)
+(Added Pub. L. 102–484, div. D, title XLII, §4213(a), Oct. 23, 1992, 106 Stat. 2665; amended Pub. L. 104–201, div. A, title VIII, §829(b), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 107–107, div. A, title X, §1048(b)(4), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 116–92, div. A, title IX, §902(74), Dec. 20, 2019, 133 Stat. 1552.)
 
 #### Prior Provisions
 
 A prior section 2503, added Pub. L. 100–456, div. A, title VIII, §821(b)(1)(B), Sept. 29, 1988, 102 Stat. 2016; amended Pub. L. 101–189, div. A, title VIII, §842(a), (b), Nov. 29, 1989, 103 Stat. 1514, 1515; Pub. L. 102–25, title VII, §701(f)(4), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–484, div. A, title X, §1052(32), Oct. 23, 1992, 106 Stat. 2501, established defense industrial base office, prior to repeal by Pub. L. 102–484, §4202(a).
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b). Pub. L. 116–92 substituted "the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment" for "the Under Secretary of Defense for Acquisition, Technology, and Logistics" and "the Under Secretaries shall" for "the Under Secretary shall".
 
 <b>2001</b>—Subsec. (b). Pub. L. 107–107 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition".
 
@@ -56,5 +58,5 @@ Subsec. (c)(3)(A). Pub. L. 104–201, §829(b)(2), substituted "the Secretary of
 
 #### Deadline for Establishing Program
 
-Pub. L. 102–484, div. D, title XLII, §4213(b), Oct. 23, 1992, 106 Stat. 2666, provided that: "The Secretary of Defense shall establish the program required by section 2503 of title 10, United States Code, as added by subsection (a), not later than six months after the date of the enactment of this Act \[Oct. 23, 1992\]. The Secretary of Defense shall ensure that a contract solicitation is issued and a contract is awarded in a timely manner to facilitate the establishment of that program within the period set forth in the preceding sentence. The preceding sentence shall not apply if the Secretary determines that the program shall be administered by the National Defense University."
+Pub. L. 102–484, div. D, title XLII, §4213(b), Oct. 23, 1992, 106 Stat. 2666, required the Secretary of Defense to establish the program required by this section not later than six months after Oct. 23, 1992.
 

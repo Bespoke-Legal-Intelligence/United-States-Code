@@ -34,7 +34,7 @@ For purposes of this subchapter—
 
 #### (1) In general
 
-&emsp;For purposes of section 3(2) <sup>1</sup> and subsection (a)(4), a child shall be considered a victim of "child abuse and neglect" and of "sexual abuse" if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of sex trafficking (as defined in paragraph (10) of section 7102 of title 22) or a victim of severe forms of trafficking in persons described in paragraph (9)(A) of that section.
+&emsp;For purposes of section 3(2) <sup>1</sup> and subsection (a)(4), a child shall be considered a victim of "child abuse and neglect" and of "sexual abuse" if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of sex trafficking (as defined in paragraph (10) <sup>1</sup> of section 7102 of title 22) or a victim of severe forms of trafficking in persons described in paragraph (9)(A) <sup>1</sup> of that section.
 
 #### (2) State option
 
@@ -45,6 +45,8 @@ For purposes of this subchapter—
 #### References in Text
 
 Section 3, referred to in subsec. (b), means section 3 of Pub. L. 93–247, which is set out as a Definitions note under section 5101 of this title.
+
+Paragraphs (9)(A) and (10) of section 7102 of title 22, referred to in subsec. (b)(1), were redesignated pars. (11) and (12), respectively, of section 7102 of title 22 by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 #### Prior Provisions
 

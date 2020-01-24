@@ -14,7 +14,7 @@ For the purposes of Public Law 95–42 (91 Stat. 211), the lands and interests t
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this chapter, there are authorized to be appropriated such sums as are necessary to implement theprovisions of this chapter relating to the trails designated by section 1244(a) of this title.
+&emsp;Except as otherwise provided in this chapter, there are authorized to be appropriated such sums as are necessary to implement the provisions of this chapter relating to the trails designated by section 1244(a) of this title.
 
 #### (2) Natchez Trace National Scenic Trail
 
@@ -30,7 +30,7 @@ For the purposes of Public Law 95–42 (91 Stat. 211), the lands and interests t
 
 &emsp;&emsp;The administering agency for the trail shall encourage volunteer trail groups to participate in the development of the trail.
 
-(Pub. L. 90–543, §10, Oct. 2, 1968, 82 Stat. 926; Pub. L. 95–248, §1(5), Mar. 21, 1978, 92 Stat. 160; Pub. L. 95–625, title V, §551(23), Nov. 10, 1978, 92 Stat. 3517; Pub. L. 96–199, title I, §101(b)(4), Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–370, §1(b), Oct. 3, 1980, 94 Stat. 1360; Pub. L. 98–11, title II, §209, Mar. 28, 1983, 97 Stat. 48; Pub. L. 100–35, §1(b), May 8, 1987, 101 Stat. 302; Pub. L. 100–192, §2, Dec. 16, 1987, 101 Stat. 1309; Pub. L. 101–365, §2(b), Aug. 15, 1990, 104 Stat. 429; Pub. L. 103–437, §6(d)(38), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(J), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 108–352, §14(2), Oct. 21, 2004, 118 Stat. 1397; Pub. L. 111–11, title V, §5301(b), Mar. 30, 2009, 123 Stat. 1161; Pub. L. 113–287, §5(d)(26), Dec. 19, 2014, 128 Stat. 3266.)
+(Pub. L. 90–543, §10, Oct. 2, 1968, 82 Stat. 926; Pub. L. 95–248, §1(5), Mar. 21, 1978, 92 Stat. 160; Pub. L.95–625, title V, §551(23), Nov. 10, 1978, 92 Stat. 3517; Pub. L. 96–199, title I, §101(b)(4), Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–370, §1(b), Oct. 3, 1980, 94 Stat. 1360; Pub. L. 98–11, title II, §209, Mar. 28, 1983, 97 Stat. 48; Pub. L. 100–35, §1(b), May 8, 1987, 101 Stat. 302; Pub. L. 100–192, §2, Dec. 16, 1987, 101 Stat. 1309; Pub. L. 101–365, §2(b), Aug. 15, 1990, 104 Stat. 429; Pub. L. 103–437, §6(d)(38), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(J), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 108–352, §14(2), Oct. 21, 2004, 118 Stat. 1397; Pub. L. 111–11, title V, §5301(b), Mar. 30, 2009, 123 Stat. 1161; Pub. L. 113–287, §5(d)(26), Dec. 19, 2014, 128 Stat. 3266.)
 
 #### References in Text
 
@@ -82,5 +82,5 @@ Pub. L. 98–11, title I, §101, Mar. 28, 1983, 97 Stat. 42, provided that: "Aut
 
 #### Appropriations for Overmountain Victory National Historic Trail and Ice Age National Scenic Trail; Effective Date; Contract Authority
 
-Pub. L. 96–370, §2, Oct. 3, 1980, 94 Stat. 1360, provided that: "Authorizations of moneys to be appropriated under this Act \[amending sections 1244 and 1249 of this title\] shall be effective on October 1, 1981. Notwithstanding any other provision of this Act, authority to enter into contracts, to incur obligations, or to make payments under this Act shall be effective only to theextent, and in such amounts, as are provided in advance in appropriation Acts."
+Pub. L. 96–370, §2, Oct. 3, 1980, 94 Stat. 1360, provided that: "Authorizations of moneys to be appropriated under this Act \[amending sections 1244 and 1249 of this title\] shall be effective on October 1, 1981. Notwithstanding any other provision of this Act, authority to enter into contracts, to incur obligations, or to make payments under this Act shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts."
 

@@ -34,7 +34,7 @@ Pub. L. 94–452, §3(e), Oct. 2, 1976, 90 Stat. 1514, as amended by Pub. L. 99�
 
 "(1)
 
-In general.—The amendments made by this section \[enacting section 6158 of this title and amending this section and sections 6503 and 6601 of this title\] shall take effect on October 1, 1977, with respect to sales after July 7, 1970, in taxable years ending after July 7, 1970, but only in the case of qualified bank holding corporations (within the meaning of section 1103(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by section 2(a) of this Act).
+In general.—The amendments made by this section \[enacting section 6158 of this title and amending this section and sections 6503 and 6601 of this title\] shall take effect on October 1, 1977, with respect to sales after July 7, 1970, in taxable years ending after July 7, 1970, but only in the case of qualified bank holding corporations (within the meaning of section 1103(b)of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by section 2(a) of this Act).
 
 "(2)
 

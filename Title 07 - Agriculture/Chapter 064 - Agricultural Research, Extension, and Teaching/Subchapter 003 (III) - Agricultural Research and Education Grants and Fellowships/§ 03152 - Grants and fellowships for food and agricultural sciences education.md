@@ -60,7 +60,7 @@ The Secretary shall conduct special programs with colleges and universities, and
 
 #### (h) Transfers of funds and functions
 
-Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapter 338; 7 U.S.C. 329) are transferred to and shall be administered by the Secretary of Agriculture. There are transferred to the Secretary all the functionsand duties of the Secretary of Education under such Act applicable to the activities and programs for which funds are made available under section 22 of such Act.
+Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapter 338; 7 U.S.C. 329) are transferred to and shall be administered by the Secretary of Agriculture. There are transferred to the Secretary all the functions and duties of the Secretary of Education under such Act applicable to the activities and programs for which funds are made available under section 22 of such Act.
 
 #### (i) National Food and Agricultural Sciences Teaching, Extension, and Research Awards
 
@@ -124,7 +124,7 @@ The Federal Advisory Committee Act and title XVIII of the Food and Agriculture A
 
 #### (l) Report
 
-The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a biennial report detailing the distribution of funds used to implement the teaching programs under subsection (j).
+The Secretary shall submit to the Committee on Agriculture of the House of Representativesand the Committee on Agriculture, Nutrition, and Forestry of the Senate a biennial report detailing the distribution of funds used to implement the teaching programs under subsection (j).
 
 #### (m) Authorization of appropriations
 
@@ -134,7 +134,7 @@ There are authorized to be appropriated for carrying out this section—
 
 &emsp;(2) $40,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 95–113, title XIV, §1417, Sept. 29, 1977, 91 Stat. 996; Pub. L. 97–98, title XIV, §1418, Dec. 22, 1981, 95 Stat. 1305; Pub. L. 99–198, title XIV, §1412, Dec. 23, 1985, 99 Stat. 1548; Pub. L. 101–624, title XVI, §1608, Nov. 28, 1990, 104 Stat. 3716; Pub. L. 102–237, title IV, §402(6), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §805, Apr. 4, 1996, 110 Stat. 1160; Pub. L. 105–185, title II, §223, title III, §301(a)(1), June 23, 1998, 112 Stat. 539, 562; Pub. L. 105–244, title I, §102(a)(1)(B), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 107–110, title X, §1076(c), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 107–171, title VII, §7102, May 13, 2002, 116 Stat. 431; Pub. L.110–234, title VII, §§7106–7109(c), May 22, 2008, 122 Stat. 1217, 1218; Pub. L. 110–246, §4(a), title VII, §§7106–7109(c), June 18, 2008, 122 Stat. 1664, 1978, 1979; Pub. L. 113–79, title VII, §7105, Feb. 7, 2014, 128 Stat. 869; Pub. L. 114–95, title IX, §9215(ll), Dec. 10, 2015, 129 Stat. 2175; Pub. L. 115–334, title VII, §7107, Dec. 20, 2018, 132 Stat. 4783.)
+(Pub. L. 95–113, title XIV, §1417, Sept. 29, 1977, 91 Stat. 996; Pub. L. 97–98, title XIV, §1418, Dec. 22, 1981, 95 Stat. 1305; Pub. L. 99–198, title XIV, §1412, Dec. 23, 1985, 99 Stat. 1548; Pub. L. 101–624, title XVI, §1608, Nov. 28, 1990, 104 Stat. 3716; Pub. L. 102–237, title IV, §402(6), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §805, Apr. 4, 1996, 110 Stat. 1160; Pub. L. 105–185, title II, §223, title III, §301(a)(1), June 23, 1998, 112 Stat. 539, 562; Pub. L. 105–244, title I, §102(a)(1)(B), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 107–110, title X, §1076(c), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 107–171, title VII, §7102, May 13, 2002, 116 Stat. 431; Pub. L. 110–234, title VII, §§7106–7109(c), May 22, 2008, 122 Stat. 1217, 1218; Pub. L. 110–246, §4(a), title VII, §§7106–7109(c), June 18, 2008, 122 Stat. 1664, 1978, 1979; Pub. L. 113–79, title VII, §7105, Feb. 7, 2014, 128 Stat. 869; Pub. L. 114–95, title IX, §9215(ll), Dec. 10, 2015, 129 Stat. 2175; Pub. L. 115–334, title VII, §7107, Dec. 20, 2018, 132 Stat. 4783.)
 
 #### References in Text
 

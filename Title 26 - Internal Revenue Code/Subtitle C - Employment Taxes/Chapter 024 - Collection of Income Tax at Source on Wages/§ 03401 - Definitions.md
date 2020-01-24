@@ -32,7 +32,7 @@ For purposes of this chapter, the term "wages" means all remuneration (other tha
 
 &emsp;(C) for services for an employer (other than the United States or any agency thereof) performed by a citizen of the United States within Puerto Rico, if it is reasonable to believe that during the entire calendar year the employee will be a bona fide resident of Puerto Rico, or
 
-&emsp;(D) for services for the United States (or any agency thereof) performed by a citizen of the United States within a possession of the United States to the extent the United States\(or such agency) withholds taxes on such remuneration pursuant to an agreement with such possession,
+&emsp;(D) for services for the United States (or any agency thereof) performed by a citizen of the United States within a possession of the United States to the extent the United States (or such agency) withholds taxes on such remuneration pursuant to an agreement with such possession,
 
 &emsp;(9) for services performed by a duly ordained, commissioned, or licensed minister of a church in the exercise of his ministry or by a member of a religious order in the exercise of duties required by such order,
 
@@ -202,7 +202,7 @@ Subsec. (a)(20). Pub. L. 98–369, §531(d)(4)(B), added par. (20).
 
 Subsec. (a)(18). Pub. L. 97–34, §124(e)(2)(A), substituted "section 127 or 129" for "section 127".
 
-Pub. L. 97–34, §112(b)(5), redesignated par. (19) as (18). Former par. (18), relating to remuneration paid to or on behalf of an employee if (and to the extent that) at the time of the payment of such remuneration it was reasonable to believe that a corresponding deduction was allowable under section 913 (relating to deduction for certain expenses of living abroad), was struck out.
+Pub. L. 97–34, §112(b)(5), redesignated par. (19) as (18). Former par. (18), relating to remuneration paid to or onbehalf of an employee if (and to the extent that) at the time of the payment of such remuneration it was reasonable to believe that a corresponding deduction was allowable under section 913 (relating to deduction for certain expenses of living abroad), was struck out.
 
 Subsec. (a)(19), (20). Pub. L. 97–34, §112(b)(5), redesignated par. (20) as (19). Former par. (19) redesignated (18).
 
@@ -292,7 +292,7 @@ Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by sections 1001(g)(4)(B)(iii), 1011(f)(9), and 1011B(a)(33) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by sections 1001(g)(4)(B)(iii), 1011(f)(9), and 1011B(a)(33) of Pub. L. 100–647 effective, except asotherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Amendment by section 1011B(a)(22)(D) of Pub. L. 100–647 not applicable to any individual who separated from service with the employer before Jan. 1, 1989, see section 1011B(a)(22)(F) of Pub. L. 100–647, set out as a note under section 3121 of this title.
 
@@ -428,7 +428,7 @@ Definitions.—For purposes of this section—
 
 &emsp;"(1)
 
-Employment tax.—The term 'employment tax' means any tax imposed by subtitle C of the InternalRevenue Code of 1986 \[formerly I.R.C. 1954, section 3101 et seq. of this title\].
+Employment tax.—The term 'employment tax' means any tax imposed by subtitle C of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 3101 et seq. of this title\].
 
 &emsp;"(2)
 

@@ -148,7 +148,7 @@ Public Safety Program Requirements.—(1) The Secretary shall include in the sta
 
 Promoting public awareness.—
 
-&emsp;(A) Not later than one year after the date of enactment of the Accountable Pipeline Safety and Accountability Act of 1996,<sup>2</sup> and annually thereafter, the owner or operator of each interstate gas pipeline facility shall provide to the governing body of each municipality in which the interstate gas pipeline facility is located, a map identifying the location of such facility.
+&emsp;(A) Not later than one year after the date of enactment of the Accountable Pipeline Safetyand Accountability Act of 1996,<sup>2</sup> and annually thereafter, the owner or operator of each interstate gas pipeline facility shall provide to the governing body of each municipality in which the interstate gas pipeline facility is located, a map identifying the location of such facility.
 
 &emsp;(B)(i) Not later than June 1, 1998, the Secretary shall survey and assess the public education programs under section 60116 and the public safety programs under section 60102(c) and determine their effectiveness and applicability as components of a model program. In particular, the survey shall include the methods by which operators notify residents of the location of the facility and its right of way, public information regarding existing One-Call programs, and appropriate procedures to be followed by residents of affected municipalities in the event of accidents involving interstate gas pipeline facilities.
 
@@ -206,7 +206,7 @@ Minimum safety standards.—The Secretary shall prescribe minimum safety standar
 
 &emsp;(2)
 
-Periodic inspections.—Not later than October 24, 1995, the Secretary shall prescribe, if necessary, additional standards requiring the periodic inspection of each pipeline the operator of the pipeline identifies under section 60109 of this title. The standards shall include any circumstances under which an inspection shall be conducted with an instrumented internal inspection device and, if the device is not required, use of an inspection method that is at least as effective as using the device in providing for the safety of the pipeline.
+Periodic inspections.—Not later than October 24, 1995, the Secretary shall prescribe, if necessary, additional standards requiring the periodic inspection of each pipeline the operator of the pipeline identifies under section 60109 of this title. The standards shall include any circumstances under which an inspection shall be conducted with an instrumented internal inspection device and, if the device is not required, use of an inspection method thatis at least as effective as using the device in providing for the safety of the pipeline.
 
 (g)
 
@@ -250,7 +250,7 @@ Limitation on statutory construction.—Nothing in this subsection authorizes th
 
 Emergency Flow Restricting Devices.—(1) Not later than October 24, 1994, the Secretary shall survey and assess the effectiveness of emergency flow restricting devices (including remotely controlled valves and check valves) and other procedures, systems, and equipment used to detect and locate hazardous liquid pipeline ruptures and minimize product releases from hazardous liquid pipeline facilities.
 
-(2) Not later than 2 years after the survey and assessment are completed, the Secretary shall prescribe standards on the circumstances under which an operator of a hazardous liquid pipelinefacility must use an emergency flow restricting device or other procedure, system, or equipment described in paragraph (1) of this subsection on the facility.
+(2) Not later than 2 years after the survey and assessment are completed, the Secretary shall prescribe standards on the circumstances under which an operator of a hazardous liquid pipeline facility must use an emergency flow restricting device or other procedure, system, or equipment described in paragraph (1) of this subsection on the facility.
 
 (k)
 
@@ -512,7 +512,7 @@ In subsection (c)(2), the word "prescribe" is substituted for "provide" for cons
 
 In subsection (c)(3), the words "participate in a public safety program meeting the requirements of paragraph (1) of this subsection" are substituted for 49 App.:2002(e)(1) to eliminate unnecessary words.
 
-In subsection (d), before clause (1), the words "Not later than 1 year after October 31, 1988" are omitted as obsolete. The word "prescribe" is substituted for "establish by regulation" for consistency in the revised title and with other titles of the Code. The word "maintain" is substituted for "provide, and revise as necessary" and "completed and maintained" to eliminate unnecessary words. The words "as the case may be" are omitted as surplus. In clause (2), before subclause (A), the words "map or" and "appropriate" are omitted as surplus. In clause (5)(B), the word "government" isomitted as surplus and for consistency in this chapter. In clause (6), the words "and necessary" are omitted as surplus.
+In subsection (d), before clause (1), the words "Not later than 1 year after October 31, 1988" are omitted as obsolete. The word "prescribe" is substituted for "establish by regulation" for consistency in the revised title and with other titles of the Code. The word "maintain" is substituted for "provide, and revise as necessary" and "completed and maintained" to eliminate unnecessary words. The words "as the case may be" are omitted as surplus. In clause (2), before subclause (A), the words "map or" and "appropriate" are omitted as surplus. In clause (5)(B), the word "government" is omitted as surplus and for consistency in this chapter. In clause (6), the words "and necessary" are omitted as surplus.
 
 In subsections (e) and (f), the word "prescribe" is substituted for "by regulation, establish" for consistency in the revised title and with other titles of the Code.
 
@@ -596,7 +596,7 @@ Subsec. (e). Pub. L. 104–304, §4(d)(2), substituted "transportation" for "tra
 
 Pub. L. 104–304, §4(d)(1), in introductory provisions, directed striking out "and, to the extent the Secretary considers necessary, an operator of a gathering line that is not a regulated gather line (as defined under section 60101(b)(2) of this title)," after "subject to this chapter", which was executed by striking out text which read in part "regulated gathering line" instead of "regulated gather line", to reflect the probable intent of Congress.
 
-Subsec. (f)(1). Pub. L. 104–304, §4(e)(1), added heading and text of par. (1) and struck out former par. (1) which read as follows: "The Secretary shall prescribe minimum safety standards requiring that the design and construction of a new gas pipeline transmission facility or hazardous liquid pipeline facility, and the requiredreplacement of an existing gas pipeline transmission facility, hazardous liquid pipeline facility, or equipment, be carried out, to the extent practicable, in a way that accommodates the passage through the facility of an instrumented internal inspection device (commonly referred to as a 'smart pig'). The Secretary may apply the standard to an existing gas or hazardous liquid transmission facility and require the facility to be changed to allow the facility to be inspected with an instrumented internal inspection device if the basic construction of the facility will accommodate the device."
+Subsec. (f)(1). Pub. L. 104–304, §4(e)(1), added heading and text of par. (1) and struck out former par. (1) which read as follows: "The Secretary shall prescribe minimum safety standards requiring that the design and construction of a new gas pipeline transmission facility or hazardous liquid pipeline facility, and the required replacement of an existing gas pipeline transmission facility, hazardous liquid pipeline facility, or equipment, be carried out, to the extent practicable, in a way that accommodates the passage through the facility of an instrumented internal inspection device (commonly referred to as a 'smart pig'). The Secretary may apply the standard to an existing gas or hazardous liquid transmission facility and require the facility to be changed to allow the facility to be inspected with an instrumented internal inspection device if the basic construction of the facility will accommodate the device."
 
 Subsec. (f)(2). Pub. L. 104–304, §§4(e)(2), 20(g), inserted heading, realigned margins, inserted ", if necessary, additional" after "the Secretary shall prescribe", and substituted "standards" for "regulations" in two places.
 
@@ -606,6 +606,20 @@ Subsec. (j)(3). Pub. L. 104–304, §4(h), added par. (3).
 
 Subsec. (l). Pub. L. 104–304, §4(f), added subsec. (l).
 
+#### Rulemaking on Shut-Off Valves and Hazardous Liquid Pipeline Facilities Leak Detection Systems
+
+Pub. L. 116–94, div. H, title I, Dec. 20, 2019, 133 Stat. 2968, provided in part: "That no later than 90 days after enactment of this Act \[Dec. 20, 2019\], the Secretary of Transportation shall initiate a rulemaking on automatic and remote-controlled shut-off valves and hazardous liquid pipeline facilities leak detection systems as required under section 4 \[amending this section\] and section 8 \[enacting provisions set out as a note under section 60108 of this title\] of the Pipeline Safety, Regulatory Certainty, and Job Creation Act of 2011 (Public Law 112–90), respectively, and shall issue a final rule no later than one year after enactment of this Act."
+
+#### Rulemaking To Expand Applicability of Comprehensive Oil Spill Response Plans
+
+Pub. L. 116–6, div. G, title I, Feb. 15, 2019, 133 Stat. 427, provided in part: "That the Secretary of Transportation shall issue a final rule to expand the applicability of comprehensive oil spill response plans within 90 days of enactment of this Act \[Feb. 15, 2019\]".
+
+Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 1001, provided in part: "That the Secretary of Transportation shall issue a final rule to expand the applicability of comprehensive oil spill response plans within 5 days of enactment of this Act \[Mar. 23, 2018\]."
+
+Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 752, provided in part: "That the Secretary of Transportation shall issue a final rule to expand the applicability of comprehensive oil spill response plans no later than August 1, 2017".
+
+Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2861, provided in part: "That no later than 90 days after the date of enactment of this Act \[Dec. 18, 2015\], the Secretary of Transportation shall initiate a rulemaking to expand the applicability of comprehensive oil spill response plans, and shall issue a final rule no later than one year after the date of enactment of this Act."
+
 #### Response Plans
 
 Pub. L. 114–183, §18, June 22, 2016, 130 Stat. 527, provided that: "Each owner or operator of a hazardous liquid pipeline facility required to prepare a response plan pursuant to part 194 of title 49, Code of Federal Regulations, shall—
@@ -614,17 +628,9 @@ Pub. L. 114–183, §18, June 22, 2016, 130 Stat. 527, provided that: "Each owne
 
 &emsp;"(2) include procedures and resources for responding to such discharge in the plan."
 
-#### Rulemaking To Expand Applicability of Comprehensive Oil Spill Response Plans
-
-Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 1001, provided in part: "That the Secretary of Transportation shall issue a final rule to expand the applicability of comprehensive oil spill response plans within 5 days of enactment of this Act \[Mar. 23, 2018\]."
-
-Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 752, provided in part: "That the Secretary of Transportation shall issue a final rule to expand the applicability of comprehensive oil spill response plans no later than August 1, 2017".
-
-Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2861, provided in part: "That no later than 90 days after the date of enactment of this Act \[Dec. 18, 2015\], the Secretary of Transportation shall initiate a rulemaking to expand the applicability of comprehensive oil spill response plans, and shall issue a final rule no later than one year after the date of enactment of this Act."
-
 #### Standards To Implement NTSB Recommendations
 
-Pub. L. 109–468, §19, Dec. 29, 2006, 120 Stat. 3498, as amended by Pub. L. 110–244, title III, §302(j), June 6, 2008, 122 Stat. 1618, provided that: "Not later than June 1, 2008, the Secretary of Transportation shall issue standards that implement the following recommendations contained in the National Transportation Safety Board's report entitled 'Supervisory Control and Data Acquisition (SCADA) in Liquid Pipelines' and adopted November 29, 2005:
+Pub. L. 109–468, §19, Dec. 29, 2006, 120 Stat. 3498, as amended by Pub. L. 110–244, title III, §302(j), June 6,2008, 122 Stat. 1618, provided that: "Not later than June 1, 2008, the Secretary of Transportation shall issue standards that implement the following recommendations contained in the National Transportation Safety Board's report entitled 'Supervisory Control and Data Acquisition (SCADA) in Liquid Pipelines' and adopted November 29, 2005:
 
 &emsp;"(1) Implementation of the American Petroleum Institute's Recommended Practice 1165 for the use of graphics on the supervisory control and data acquisition screens.
 

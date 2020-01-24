@@ -40,7 +40,7 @@ Private Sector Use of Excess Capacity.—Any facilities or equipment of a Center
 
 (d)
 
-Crediting of Amounts for Performance.—Amounts received by a Center for work performed under a public-private partnership shall be credited to the appropriation or fund, including a working-capital fund, that incurs the cost of performing the work. Consideration in the form of rental payments or (notwithstanding section 3302(b) of title 31) in other forms may be accepted for a use of property accountable under a contract performed pursuant to this section. Notwithstanding section 2667(e) of this title, revenues generated pursuant to this section shall be available for facility operations, maintenance, and environmental restoration at the Center where the leased property is located.
+Crediting of Amounts for Performance.—Amounts received by a Center for work performed under a public-private partnership shall be credited to the appropriation or fund, including a working-capital fund, that incurs the cost of performing the work. Consideration in the form of rental payments or (notwithstanding section 3302(b) of title 31) in other forms may be accepted for a use of property accountable under a contract performed pursuant to this section. Notwithstanding section 2667(e) of this title, revenues generated pursuant to this section shall be available for facility operations,maintenance, and environmental restoration at the Center where the leased property is located.
 
 (e)
 
@@ -86,7 +86,7 @@ Subsec. (f)(2). Pub. L. 108–375, §1084(d)(20), substituted "section 2466(d)" 
 
 Subsec. (f)(2), (3). Pub. L. 107–314, §334(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "The funds referred to in paragraph (1) are funds available to the military departments and Defense Agencies for depot-level maintenance and repair workloads for fiscal years 2002 through 2005."
 
-<b>2001</b>—Subsec. (e)(2)(B)(i). Pub. L. 107–107, §343(b), substituted "under the circumstances described in section2563(c)(3) of this title" for "in a case of willful conduct or gross negligence".
+<b>2001</b>—Subsec. (e)(2)(B)(i). Pub. L. 107–107, §343(b), substituted "under the circumstances described in section 2563(c)(3) of this title" for "in a case of willful conduct or gross negligence".
 
 Subsecs. (f), (g). Pub. L. 107–107, §342, added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(c)(3)\], adde
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(d)\], inserted at end "Consideration in the form of rental payments or (notwithstanding section 3302(b) of title 31) in other forms may be accepted for a use of property accountable under a contract performed pursuant to this section. Notwithstanding section 2667(d) of this title, revenues generated pursuant to this section shall be available for facility operations, maintenance, and environmental restoration at the Center where the leased property is located."
 
-Pub. L. 106–398, §1 \[\[div. A\], title III, §341(c)(1), (2)\], redesignated subsec. (c) as (d) and struck out heading and text of former subsec. (d). Text read as follows: "The policy required under subsection (a) shall include measures to enable a private sector entity that enters into a partnership arrangement under subsection (b) or leases excess equipment and facilities at a Center of Industrial and Technical Excellence pursuant to section 2471 of this title to perform additional work at the Center, subject to the limitations outlined in subsection (b) of such section, outside of the types of work normally assigned to the Center."
+Pub. L. 106–398, §1 \[\[div. A\], title III, §341(c)(1), (2)\], redesignated subsec. (c) as (d) and struck out heading and text of former subsec. (d). Text read as follows:"The policy required under subsection (a) shall include measures to enable a private sector entity that enters into a partnership arrangement under subsection (b) or leases excess equipment and facilities at a Center of Industrial and Technical Excellence pursuant to section 2471 of this title to perform additional work at the Center, subject to the limitations outlined in subsection (b) of such section, outside of the types of work normally assigned to the Center."
 
 Subsecs. (e), (f). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(e)\], added subsecs. (e) and (f).
 

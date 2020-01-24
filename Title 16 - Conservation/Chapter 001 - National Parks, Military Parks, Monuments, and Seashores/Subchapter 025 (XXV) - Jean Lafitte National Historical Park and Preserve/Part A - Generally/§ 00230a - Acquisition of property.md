@@ -28,7 +28,7 @@
 
 #### (2) French Quarter
 
-&emsp;The Secretary may acquire by any of the methods referred to in paragraph (1)(A) suchlands and interests therein, including leasehold interests, as he may designate in the French Quarter of New Orleans for development and operation as an interpretive and administrative facility.
+&emsp;The Secretary may acquire by any of the methods referred to in paragraph (1)(A) such lands and interests therein, including leasehold interests, as he may designate in the French Quarter of New Orleans for development and operation as an interpretive and administrative facility.
 
 #### (3) Acquisition of State land
 
@@ -76,7 +76,7 @@ Pub. L. 111–11, §7105(b)(2), struck out subsec. (d). Prior to amendment, text
 
 Subsecs. (e), (f). Pub. L. 111–11, §7105(b)(2), struck out subsecs. (e) and (f) which read as follows:
 
-"(e) The Secretary, upon the failure of the State or local units of government to enact rules pursuant to subsection (b) of this section or enforce such rules so as to protect the values enumerated in subsection (c) of this section, may acquire such lands, servitudes, or interests in lands within the park protection zone as he deems necessary to protect the values enumerated in subsection (c) of this section.
+"(e) The Secretary, upon the failure of the State or local units of government to enact rules pursuant to subsection (b) of this section or enforce such rules so asto protect the values enumerated in subsection (c) of this section, may acquire such lands, servitudes, or interests in lands within the park protection zone as he deems necessary to protect the values enumerated in subsection (c) of this section.
 
 "(f) The Secretary may revise the boundaries of the park protection zone, notwithstanding any other provision of law, to include or exclude properties, but only with the consent of Jefferson Parish."
 

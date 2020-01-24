@@ -134,11 +134,19 @@
 
 #### (4) Payment methodology in cases where average sales price during first quarter of sales is unavailable
 
-&emsp;In the case of a drug or biological during an initial period (not to exceed a full calendar quarter) in which data on the prices for sales for the drug or biological is not sufficiently available from the manufacturer to compute an average sales price for the drug or biological, the Secretary may determine the amount payable under this section for the drug or biological based on—
+&emsp;In the case of a drug or biological during an initial period (not to exceed a full calendar quarter) in which data on the prices for sales for the drug or biological is not sufficiently available from the manufacturer to compute an average sales price for the drug or biological, the Secretary may determine the amount payable under this section—
 
-&emsp;&emsp;(A) the wholesale acquisition cost; or
+&emsp;&emsp;(A) in the case of a drug or biological furnished prior to January 1, 2019, based on—
 
-&emsp;&emsp;(B) the methodologies in effect under this part on November 1, 2003, to determine payment amounts for drugs or biologicals.
+&emsp;&emsp;&emsp;(i) the wholesale acquisition cost; or
+
+&emsp;&emsp;&emsp;(ii) the methodologies in effect under this part on November 1, 2003, to determine payment amounts for drugs or biologicals; and
+
+&emsp;&emsp;(B) in the case of a drug or biological furnished on or after January 1, 2019—
+
+&emsp;&emsp;&emsp;(i) at an amount not to exceed 103 percent of the wholesale acquisition cost; or
+
+&emsp;&emsp;&emsp;(ii) based on the methodologies in effect under this part on November 1, 2003, to determine payment amounts for drugs or biologicals.
 
 #### (5) Frequency of determinations
 
@@ -238,7 +246,7 @@
 
 &emsp;&emsp;In this paragraph, the term "applicable threshold percentage" means—
 
-&emsp;&emsp;&emsp;(i) in 2005, in the case of an average sales price for a drug or biological that exceeds widely available market price or the average manufacturer price, 5 percent; and
+&emsp;&emsp;&emsp;(i) in 2005, in the case of an average sales price for a drug or biological that exceedswidely available market price or the average manufacturer price, 5 percent; and
 
 &emsp;&emsp;&emsp;(ii) in 2006 and subsequent years, the percentage applied under this subparagraph subject to such adjustment as the Secretary may specify for the widely available market price or the average manufacturer price, or both.
 
@@ -312,9 +320,15 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;(5) the disclosure of the average manufacturer price by reason of an adjustment under subsection (d)(3)(C) or (e).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1847A, as added Pub. L. 108–173, title III, §303(c)(1), Dec. 8,2003, 117 Stat. 2239; amended Pub. L. 110–173, title I, §112, Dec. 29, 2007, 121 Stat. 2500; Pub. L. 111–148, title III, §3139(a), Mar. 23, 2010, 124 Stat. 439.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1847A, as added Pub. L. 108–173, title III, §303(c)(1), Dec. 8, 2003, 117 Stat. 2239; amended Pub. L. 110–173, title I, §112, Dec. 29, 2007, 121 Stat. 2500; Pub. L. 111–148, title III, §3139(a), Mar. 23, 2010, 124 Stat. 439; Pub. L. 116–39, §6, Aug. 6, 2019, 133 Stat. 1062.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c)(4). Pub. L. 116–39 substituted "payable under this section—" for "payable under this section for the drug or biological based on—" in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
+
+"(A) the wholesale acquisition cost; or
+
+"(B) the methodologies in effect under this part on November 1, 2003, to determine payment amounts for drugs or biologicals."
 
 <b>2010</b>—Subsec. (b)(1)(C). Pub. L. 111–148, §3139(a)(1)(A), added subpar. (C).
 

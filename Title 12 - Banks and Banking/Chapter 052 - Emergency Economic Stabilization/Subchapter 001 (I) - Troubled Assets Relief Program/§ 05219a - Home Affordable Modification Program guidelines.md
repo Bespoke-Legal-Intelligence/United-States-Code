@@ -30,7 +30,7 @@ The Secretary shall make publicly available, including by posting on a World Wid
 
 #### References in Text
 
-The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a), is div. A of Pub. L. 110–343,Oct. 3, 2008, 122 Stat. 3765, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
 #### Codification
 

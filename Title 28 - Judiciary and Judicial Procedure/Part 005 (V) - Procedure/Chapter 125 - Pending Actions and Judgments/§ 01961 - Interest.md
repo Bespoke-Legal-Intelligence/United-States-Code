@@ -36,7 +36,7 @@ Pub. L. 99–514, §2, substituted "Internal Revenue Code of 1986" for "Internal
 
 <b>1983</b>—Subsec. (b). Pub. L. 97–452 substituted "section 1304(b) of title 31" for "section 1302 of the Act of July 27, 1956 (31 U.S.C. 724a)".
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164, §302(a)(1), (2), designated existing provisions as subsec. (a), substituted "at a rate equal to the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled immediately prior to the date of the judgment" for "at the rate allowed by State law", and inserted provision that the Director of the Administrative Office of theUnited States Courts distribute notice of the rate and any changes in it to all Federal judges.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164, §302(a)(1), (2), designated existing provisions as subsec. (a), substituted "at a rate equal to the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled immediately prior to the date of the judgment" for "at the rate allowed by State law", and inserted provision that the Director of the Administrative Office of the United States Courts distribute notice of the rate and any changes in it to all Federal judges.
 
 Subsec. (b). Pub. L. 97–258 substituted "this title and section 1304(b)(1) of title 31" for "title 28, United States Code, and section 1302 of the Act of July 27, 1956 (31 U.S.C. 724a)".
 

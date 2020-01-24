@@ -32,7 +32,7 @@ An assessment under subsection (a) shall be carried out in cooperation and coord
 
 #### (c) Consultation
 
-In carrying out an assessment under subsection (a), the Secretary shall consult with Federal, tribal, State, interstate, and local governmental entities.
+In carrying out an assessment under subsection (a), the Secretary shall consult withFederal, tribal, State, interstate, and local governmental entities.
 
 #### (d) Priority river basins and watersheds
 

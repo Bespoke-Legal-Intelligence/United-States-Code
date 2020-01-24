@@ -32,7 +32,7 @@ Penalties.—A person who violates this section shall be fined under this title,
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(1). Pub. L. 115–334, §12502(a)(2)(A)(i), inserted "or the pet, service animal, emotional support animal, or horse of that person" after "another person".
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–334, §12502(a)(2)(A)(i), inserted "or the pet, service animal, emotional supportanimal, or horse of that person" after "another person".
 
 Subsec. (a)(2). Pub. L. 115–334, §12502(a)(2)(A)(ii), inserted "or the pet, service animal, emotional support animal, or horse of that person" after "proximity to, another person".
 

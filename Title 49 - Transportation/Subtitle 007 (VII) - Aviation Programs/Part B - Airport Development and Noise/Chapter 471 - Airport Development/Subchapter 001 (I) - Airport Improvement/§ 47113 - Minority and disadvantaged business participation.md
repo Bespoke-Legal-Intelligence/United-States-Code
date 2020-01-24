@@ -8,11 +8,11 @@ Definitions.—In this section—
 
 &emsp;&emsp;(A) has the meaning given the term in section 3 of the Small Business Act (15 U.S.C. 632); but
 
-&emsp;&emsp;(B) in the case of a concern in the construction industry, a concern shall be considered a small business concern if the concern meets the size standard for the North American Industry Classification System Code 237310, as adjusted by the Small Business Administration;
+&emsp;&emsp;(B) in the case of a concern in the construction industry, a concern shall be considered a small business concern if the concern meets the size standard for the NorthAmerican Industry Classification System Code 237310, as adjusted by the Small Business Administration;
 
 &emsp;(2) "socially and economically disadvantaged individual" has the same meaning given that term in section 8(d) of the Act (15 U.S.C. 637(d)) and relevant subcontracting regulations prescribed under section 8(d), except that women are presumed to be socially and economically disadvantaged; and
 
-&emsp;(3) the term "qualified HUBZone small business concern" has the meaning given that term in section 3(p) of the Small Business Act (15 U.S.C. 632(p)).
+&emsp;(3) the term "qualified HUBZone small business concern" has the meaning given that term in section 31(b) of the Small Business Act.
 
 (b)
 
@@ -47,10 +47,6 @@ Participants.—A person referred to in paragraph (1) is an official or agent of
 &emsp;&emsp;(B) who is responsible for determining whether or not a small business concern qualifies as a small business concern owned and controlled by socially and economically disadvantaged individuals under this section or section 47107(e).
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(65), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 105–135, title VI, §604(h)(2), Dec. 2, 1997, 111 Stat. 2635; Pub. L. 112–95, title I, §140(b), Feb. 14, 2012, 126 Stat. 27; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(G)(ii), Dec. 12, 2017, 131 Stat. 1796; Pub. L. 115–254, div. B, title I, §150, title V, §539(o), Oct. 5, 2018, 132 Stat. 3215, 3371.)
-
-#### Amendment of Subsection (a)(3)
-
-<i>Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(G)(ii), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, provided that, effective Jan. 1, 2020, subsection (a)(3) of this section is amended by striking "section 3(p) of the Small Business Act (15 U.S.C. 632(o))" and inserting "section 31(b)</i><i>of the Small Business Act". See 2017 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -93,6 +89,8 @@ In subsection (b), the words "beginning after September 30, 1987" are omitted as
 This amends 49:47113(a)(2) to correct erroneous cross-references.
 
 #### References in Text
+
+Section 31(b) of the Small Business Act, referred to in subsec. (a)(3), is classified to section 657a(b) of Title 15, Commerce and Trade.
 
 The date of enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 

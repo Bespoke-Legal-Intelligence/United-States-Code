@@ -30,7 +30,7 @@ As used in this chapter, the following terms have the following meanings:
 
 #### (d) Application of other laws unaffected
 
-Nothing in this chapter shall be construed to affect the applicability of title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], title V of the Rehabilitation Act of 1973 \[29 U.S.C. 790 et seq.\], the Age Discrimination Act \[42 U.S.C. 6101 et seq.\], or otherstatutes prohibiting discrimination, to any applicable program.
+Nothing in this chapter shall be construed to affect the applicability of title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], title V of the Rehabilitation Act of 1973 \[29 U.S.C. 790 et seq.\], the Age Discrimination Act \[42 U.S.C. 6101 et seq.\], or other statutes prohibiting discrimination, to any applicable program.
 
 (Pub. L. 90–247, title IV, §400, formerly §401, Jan. 2, 1968, 81 Stat. 814; Pub. L. 90–576, title III, §301(a), Oct. 16, 1968, 82 Stat. 1094; Pub. L. 91–230, title IV, §401(a)(2), Apr. 13, 1970, 84 Stat. 164; renumbered §400, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; Pub. L. 93–380, title V, §505(a)(1), Aug. 21, 1974, 88 Stat. 561; Pub. L. 103–382, title II, §211, Oct. 20, 1994, 108 Stat. 3912.)
 
@@ -48,7 +48,7 @@ The Age Discrimination Act, referred to in subsec. (d), probably means the Age D
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–382 amended section generally, inserting provision that this chapter not apply to any contract made by the Department of Education, substituting definition of "Department" as meaning Department of Education for definition of "Director" as meaning Director of the National Institute of Education, striking out reference to the Civil Rights Act of 1964, adding references to title VI of the Civil Rights Act of 1964, title IX of the Education Amendments of 1972, title V of the Rehabilitation Act of 1973, the Age Discrimination Act, and other statutes prohibiting discrimination, and striking out provision authorizing appropriations for any fiscal year of such sums as may be necessary to carry out the provisions of this chapter.
+<b>1994</b>—Pub. L. 103–382 amended section generally, inserting provision that this chapter not apply to anycontract made by the Department of Education, substituting definition of "Department" as meaning Department of Education for definition of "Director" as meaning Director of the National Institute of Education, striking out reference to the Civil Rights Act of 1964, adding references to title VI of the Civil Rights Act of 1964, title IX of the Education Amendments of 1972, title V of the Rehabilitation Act of 1973, the Age Discrimination Act, and other statutes prohibiting discrimination, and striking out provision authorizing appropriations for any fiscal year of such sums as may be necessary to carry out the provisions of this chapter.
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–380 redesignated subsec. (d) as (a). Former subsec. (a) provisions "The provisions of this chapter shall apply to any program for which the Commissioner of Education has responsibility for administration, either as provided by statute or by delegation pursuant to statute. Amendments to Acts authorizing such programs shall not affect the applicability of this chapter unless so specified by such amendments" were incorporated in part in subsec. (b).
 

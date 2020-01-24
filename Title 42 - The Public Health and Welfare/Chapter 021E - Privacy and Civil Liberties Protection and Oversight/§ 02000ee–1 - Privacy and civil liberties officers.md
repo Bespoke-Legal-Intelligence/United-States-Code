@@ -26,7 +26,7 @@ The Attorney General, the Secretary of Defense, the Secretary of State, the Secr
 
 #### (2) Civil liberties officers
 
-&emsp;In any department, agency, or element referred to in subsection (a) or designated by theBoard, which has a statutorily created civil liberties officer, such officer shall perform the functions specified in subsection (a) with respect to civil liberties.
+&emsp;In any department, agency, or element referred to in subsection (a) or designated by the Board, which has a statutorily created civil liberties officer, such officer shall perform the functions specified in subsection (a) with respect to civil liberties.
 
 #### (c) Supervision and coordination
 
@@ -99,4 +99,8 @@ Nothing in this section shall be construed to limit or otherwise supplant any ot
 <b>2014</b>—Subsec. (f)(1). Pub. L. 113–126 substituted "semiannually" for "quarterly" in introductory provisions.
 
 <b>2007</b>—Pub. L. 110–53 amended section generally. Prior to amendment, text of section read as follows: "It is the sense of Congress that each executive department or agency with law enforcement or antiterrorism functions should designate a privacy and civil liberties officer."
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

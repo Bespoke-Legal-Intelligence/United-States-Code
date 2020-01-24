@@ -58,7 +58,7 @@ In making the adjustments to the earnings and profits of a corporation under sub
 
 #### (2) Effect on earnings and profits of receipt of tax-free distributions
 
-&emsp;Where a corporation receives (after February 28, 1913) a distribution from a second corporation which (under the law applicable to the year in which the distribution was made) was not a taxable dividend to the shareholders of the second corporation, the amount of such distribution shall not increase the earnings and profits of the first corporation in the following cases:
+&emsp;Where a corporation receives (after February 28, 1913) a distribution from a second corporation which (under the law applicable to the year in which the distribution was made) was not a taxable dividend to the shareholders of the second corporation, the amount of such distribution shall not increase the earningsand profits of the first corporation in the following cases:
 
 &emsp;&emsp;(A) no such increase shall be made in respect of the part of such distribution which (under such law) is directly applied in reduction of the basis of the stock in respect of which the distribution was made; and
 
@@ -100,7 +100,7 @@ If a corporation distributes property with respect to its stock and if, at the t
 
 #### (2) Exception
 
-&emsp;If for any taxable year a method of depreciation was used by the taxpayer which the Secretary has determined results in a reasonable allowance under section 167(a) and which is the unit-of-production method or other method not expressed in a term of years, then theadjustment to earnings and profits for depreciation for such year shall be determined under the method so used (in lieu of the straight line method).
+&emsp;If for any taxable year a method of depreciation was used by the taxpayer which the Secretary has determined results in a reasonable allowance under section 167(a) and which is the unit-of-production method or other method not expressed in a term of years, then the adjustment to earnings and profits for depreciation for such year shall be determined under the method so used (in lieu of the straight line method).
 
 #### (3) Exception for tangible property
 
@@ -278,7 +278,7 @@ Subsec. (k)(3)(B). Pub. L. 108–357, §338(b)(3), substituted "179A, or 179B" f
 
 Subsec. (m). Pub. L. 108–357, §413(c)(5), struck out ", a foreign investment company (within the meaning of section 1246(b)), or a foreign personal holding company (within the meaning of section 552)" before "and the issuance".
 
-<b>1997</b>—Subsec. (k)(3)(B). Pub. L. 105–34, in heading substituted "179 or 179A" for "179" and in text substituted "section 179 or 179A shall" for "section 179 shall" and "section 179 or 179A, as the case may be)" for "section 179)".
+<b>1997</b>—Subsec. (k)(3)(B). Pub. L. 105–34, in heading substituted "179 or 179A" for "179" and in text substituted "section 179 or 179A shall" for "section 179 shall" and"section 179 or 179A, as the case may be)" for "section 179)".
 
 <b>1990</b>—Subsec. (k)(2). Pub. L. 101–508, §11812(b)(5), substituted heading for one which read: "Exceptions" and amended text generally. Prior to amendment, text read as follows: "If for any taxable year beginning after June 30, 1972, a method of depreciation was used by the taxpayer which the Secretary has determined results in a reasonable allowance under section 167(a), and which is not—
 
@@ -356,7 +356,7 @@ Subsec. (m). Pub. L. 97–248, §310(b)(3), added subsec. (m).
 
 <b>1980</b>—Subsec. (l). Pub. L. 96–589 added subsec. (l).
 
-<b>1978</b>—Subsec. (c)(3). Pub. L. 95–628 substituted "gain recognized to the corporation on the distribution" for "gain to the corporation recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)".
+<b>1978</b>—Subsec. (c)(3). Pub. L. 95–628 substituted "gain recognized to the corporation on the distribution" for "gain to the corporation recognized under subsection\(b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)".
 
 <b>1976</b>—Subsec. (c)(3). Pub. L. 94–455, §205(c)(1)(D), substituted "1252(a), or 1254(a)" for "or 1252(a)".
 
@@ -432,7 +432,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, theamendment by section 803(b)(3) of Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
+If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by section 803(b)(3) of Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
 
 Amendment by section 201(b), (d)(6) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
@@ -510,7 +510,7 @@ Amendment by section 310(b)(3) of Pub. L. 97–248 applicable to obligations iss
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable yearsending after that date, see section 209(a) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
+Amendment by Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable years ending after that date, see section 209(a) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -522,7 +522,7 @@ Amendment by Pub. L. 95–628 applicable to distributions made after Nov. 10, 19
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 205(c)(1)(D) of Pub. L. 94–455 effective for taxable years ending after Dec. 31, 1975, see section 205(e) of Pub. L. 94–455, set out as a note under section 1254 of this title.
+Amendment by section 205(c)(1)(D) of Pub. L. 94–455 effective for taxable years ending after Dec. 31, 1975, seesection 205(e) of Pub. L. 94–455, set out as a note under section 1254 of this title.
 
 Amendment by section 1901(a)(43) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 

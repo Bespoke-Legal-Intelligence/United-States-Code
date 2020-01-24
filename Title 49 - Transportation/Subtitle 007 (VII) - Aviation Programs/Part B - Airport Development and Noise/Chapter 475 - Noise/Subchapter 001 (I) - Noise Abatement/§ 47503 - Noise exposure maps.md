@@ -46,7 +46,7 @@ Feb. 18, 1980, Pub. L. 96–193, §103(a), 94 Stat. 50.
 
 49 App.:2103(a)(2).
 
-In subsection (a), before clause (1), the words "After the effective date of the regulations promulgated in accordance with section 2102 of this Appendix" are omitted as executed. The words "of an airport" and "at such airport" are omitted as surplus. The word "how" issubstituted for "the ways, if any, in which" to eliminate unnecessary words. In clause (1), the words "planning authorities" are substituted for "planning agencies" for consistency.
+In subsection (a), before clause (1), the words "After the effective date of the regulations promulgated in accordance with section 2102 of this Appendix" are omitted as executed. The words "of an airport" and "at such airport" are omitted as surplus. The word "how" is substituted for "the ways, if any, in which" to eliminate unnecessary words. In clause (1), the words "planning authorities" are substituted for "planning agencies" for consistency.
 
 In subsection (b), the words "to the Secretary" are added for clarity. The words "after the submission to the Secretary of a noise exposure map under paragraph (1)" are omitted as surplus.
 

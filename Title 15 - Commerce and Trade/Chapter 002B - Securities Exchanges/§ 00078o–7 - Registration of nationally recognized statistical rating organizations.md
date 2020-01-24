@@ -122,7 +122,7 @@
 
 #### (1) Authority
 
-&emsp;The Commission shall have exclusive authority to enforce the provisions of this section in accordance with this chapter with respect to any nationally recognized statistical rating organization, if such nationally recognized statistical rating organization issues credit ratings in material contravention of those procedures relating to such nationally recognized statistical rating organization, including procedures relating to the prevention of misuse of nonpublic information and conflicts of interest, that such nationally recognized statistical rating organization—
+&emsp;The Commission shall have exclusive authority to enforce the provisions of this section in accordance with this chapter with respect to any nationally recognized statistical rating organization, if such nationally recognized statistical rating organization issuescredit ratings in material contravention of those procedures relating to such nationally recognized statistical rating organization, including procedures relating to the prevention of misuse of nonpublic information and conflicts of interest, that such nationally recognized statistical rating organization—
 
 &emsp;&emsp;(A) includes in its application for registration under subsection (a)(1)(B)(ii); or
 
@@ -130,7 +130,7 @@
 
 #### (2) Limitation
 
-&emsp;The rules and regulations that the Commission may prescribe pursuant to this chapter,as they apply to nationally recognized statistical rating organizations, shall be narrowly tailored to meet the requirements of this chapter applicable to nationally recognized statistical rating organizations. Notwithstanding any other provision of this section, or any other provision of law, neither the Commission nor any State (or political subdivision thereof) may regulate the substance of credit ratings or the procedures and methodologies by which any nationally recognized statistical rating organization determines credit ratings. Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.
+&emsp;The rules and regulations that the Commission may prescribe pursuant to this chapter, as they apply to nationally recognized statistical rating organizations, shall be narrowly tailored to meet the requirements of this chapter applicable to nationally recognized statistical rating organizations. Notwithstanding any other provision of this section, or any other provision of law, neither the Commission nor any State (or political subdivision thereof) may regulate the substance of credit ratings or the procedures and methodologies by which any nationally recognized statistical rating organization determines credit ratings. Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.
 
 #### (3) Internal controls over processes for determining credit ratings
 
@@ -180,7 +180,7 @@
 
 &emsp;&emsp;In making any determination under subparagraph (A), the Commission shall consider—
 
-&emsp;&emsp;&emsp;(i) whether the nationally recognized statistical rating organization has failedover a sustained period of time, as determined by the Commission, to produce ratings that are accurate for that class or subclass of securities; and
+&emsp;&emsp;&emsp;(i) whether the nationally recognized statistical rating organization has failed over a sustained period of time, as determined by the Commission, to produce ratings that are accurate for that class or subclass of securities; and
 
 &emsp;&emsp;&emsp;(ii) such other factors as the Commission may determine.
 
@@ -234,7 +234,7 @@
 
 &emsp;&emsp;(C) business relationships, ownership interests, or any other financial or personal interests between a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, and the obligor, or any affiliate of the obligor;
 
-&emsp;&emsp;(D) any affiliation of a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, with any person that underwrites the securities or money market instruments that are the subject of a credit rating; and
+&emsp;&emsp;(D) any affiliation of a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, with any person that underwrites the securitiesor money market instruments that are the subject of a credit rating; and
 
 &emsp;&emsp;(E) any other potential conflict of interest, as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
 
@@ -392,7 +392,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 #### (1) In general
 
-&emsp;The enforcement and penalty provisions of this chapter shall apply to statements madeby a credit rating agency in the same manner and to the same extent as such provisions apply to statements made by a registered public accounting firm or a securities analyst under the securities laws, and such statements shall not be deemed forward-looking statements for the purposes of section 78u–5 of this title.
+&emsp;The enforcement and penalty provisions of this chapter shall apply to statements made by a credit rating agency in the same manner and to the same extent as such provisions apply to statements made by a registered public accounting firm or a securities analyst under the securities laws, and such statements shall not be deemed forward-looking statements for the purposes of section 78u–5 of this title.
 
 #### (2) Rulemaking
 
@@ -556,7 +556,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 &emsp;&emsp;&emsp;(iii) if applicable, how the nationally recognized statistical rating organization used servicer or remittance reports, and with what frequency, to conduct surveillance of the credit rating; and
 
-&emsp;&emsp;(B) information that can be used by investors and other users of credit ratings to better understand credit ratings in each class ofcredit rating issued by the nationally recognized statistical rating organization.
+&emsp;&emsp;(B) information that can be used by investors and other users of credit ratings to better understand credit ratings in each class of credit rating issued by the nationally recognized statistical rating organization.
 
 #### (2) Format
 
@@ -632,11 +632,11 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (B) Certification required
 
-&emsp;&emsp;In any case in which third-party due diligence services are employed by a nationally recognized statistical rating organization, an issuer, or an underwriter, the person providing the due diligence services shall provide to any nationally recognized statistical rating organization that produces a rating to which such services relate, written certification, as provided in subparagraph (C).
+&emsp;&emsp;In any case in which third-party due diligence services are employed by a nationallyrecognized statistical rating organization, an issuer, or an underwriter, the person providing the due diligence services shall provide to any nationally recognized statistical rating organization that produces a rating to which such services relate, written certification, as provided in subparagraph (C).
 
 #### (C) Format and content
 
-&emsp;&emsp;The Commission shall establish the appropriate format and content for the written certifications required under subparagraph (B), to ensure that providers of due diligenceservices have conducted a thorough review of data, documentation, and other relevant information necessary for a nationally recognized statistical rating organization to provide an accurate rating.
+&emsp;&emsp;The Commission shall establish the appropriate format and content for the written certifications required under subparagraph (B), to ensure that providers of due diligence services have conducted a thorough review of data, documentation, and other relevant information necessary for a nationally recognized statistical rating organization to provide an accurate rating.
 
 #### (D) Disclosure of certification
 
@@ -702,11 +702,11 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (2) Rule of construction
 
-&emsp;Nothing in paragraph (1) may be construed to require a nationally recognized statistical rating organization to verify the accuracy of the information described in paragraph (1).
+&emsp;Nothing in paragraph (1) may be construed to require a nationally recognized statisticalrating organization to verify the accuracy of the information described in paragraph (1).
 
 #### (v) Information from sources other than the issuer
 
-In producing a credit rating, a nationally recognized statistical rating organization shall consider information about an issuer that the nationally recognized statistical rating organization has, or receives from a source other than the issuer or underwriter, that the nationally recognized statistical rating organization findscredible and potentially significant to a rating decision.
+In producing a credit rating, a nationally recognized statistical rating organization shall consider information about an issuer that the nationally recognized statistical rating organization has, or receives from a source other than the issuer or underwriter, that the nationally recognized statistical rating organization finds credible and potentially significant to a rating decision.
 
 (June 6, 1934, ch. 404, title I, §15E, as added Pub. L. 109–291, §4(a), Sept. 29, 2006, 120 Stat. 1329; amended Pub. L. 111–203, title IX, §§932(a), 933(a), 934, 935, July 21, 2010, 124 Stat. 1872, 1883, 1884.)
 

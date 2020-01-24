@@ -14,7 +14,7 @@
 
 #### (b) Civil penalties
 
-A civil penalty not to exceed $1,000,000 may be imposed by the Secretary of the Treasury on any person who violates any license, order, rule, or regulation issued in compliance with the provisions of this chapter.
+A civil penalty not to exceed $1,000,000 may be imposed by the Secretary of the Treasury onany person who violates any license, order, rule, or regulation issued in compliance with the provisions of this chapter.
 
 #### (c) Judicial review of civil penalty
 

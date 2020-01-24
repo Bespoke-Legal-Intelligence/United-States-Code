@@ -26,7 +26,7 @@
 
 <b>1988</b>—Pub. L. 100–370 renumbered section 2693 of this title as this section.
 
-<b>1987</b>—Pub. L. 100–180 inserted "or security-guard" before "functions" in section catchline and subsec. (a), and substituted "a function" for "the function" in subsec. (b)(1).
+<b>1987</b>—Pub. L. 100–180 inserted "or security-guard" before "functions" in section catchline and subsec. (a),and substituted "a function" for "the function" in subsec. (b)(1).
 
 #### Temporary Authority To Contract With Local and State Governments for Performance of Security Functions at United States Military Installations
 

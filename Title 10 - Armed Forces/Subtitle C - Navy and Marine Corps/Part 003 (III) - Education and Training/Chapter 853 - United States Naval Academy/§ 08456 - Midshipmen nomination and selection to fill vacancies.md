@@ -54,7 +54,7 @@ In subsection (b) the provision authorizing the Secretary of the Navy to nominat
 
 Reference in subsection (e) to the strength of the "brigade of midshipmen" is dropped, since there is no statutory requirement that the midshipmen at the Academy be so organized, and the term is a recognition of current organization only. The language authorizing the Secretary, in his discretion, to nominate additional midshipmen to meet the needs of the armed services but not to exceed the authorized strength of the Academy is changed to authorize the Secretary to "fill the vacancies by nominating additional midshipmen". In exercising his discretion under this subsection, these factors are necessarily considered by the Secretary, irrespective of a specific provision so instructing him.
 
-In subsection (f) the word "admission" is changed to the word "appointment", since the admission of a person is a consequence of, and follows automatically from, his appointment. The statement of reasons for failure to complete the course is omitted as unnecessary.
+In subsection (f) the word "admission" is changed to the word "appointment", since the admission of a person is a consequence of, and follows automatically from, his appointment. The statement of reasons forfailure to complete the course is omitted as unnecessary.
 
 #### Amendments
 

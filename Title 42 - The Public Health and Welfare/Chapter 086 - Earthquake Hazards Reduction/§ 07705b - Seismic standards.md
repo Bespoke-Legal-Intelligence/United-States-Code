@@ -20,5 +20,5 @@ Pub. L. 101–614, §8(b), Nov. 16, 1990, 104 Stat. 3238, directed Comptroller G
 
 #### Executive Order No. 12941
 
-Ex. Ord. No. 12941, Dec. 1, 1994, 59 F.R. 62545, which related to seismic safety of existing federally owned or leased buildings, was revoked by Ex. Ord. No. 13717, §5, Feb. 2, 2016, 81 F.R. 6409, set out as a note under section 7704 of this title.
+Ex. Ord. No. 12941, Dec. 1, 1994, 59 F.R. 62545, which related to seismic safety of existing federally owned orleased buildings, was revoked by Ex. Ord. No. 13717, §5, Feb. 2, 2016, 81 F.R. 6409, set out as a note under section 7704 of this title.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Criteria for Designation.—The Secretary of Defense or the Secretary of the military department concerned may designate as an emergency essential employee any employee of the Department of Defense, whether permanent or temporary, the duties of whose position meet all of the following criteria:
+Criteria for Designation.—The Secretary of Defense or the Secretary of the military department concerned may designate as an emergency essential employee any employee of theDepartment of Defense, whether permanent or temporary, the duties of whose position meet all of the following criteria:
 
 &emsp;(1) It is the duty of the employee to provide immediate and continuing support for combat operations or to support maintenance and repair of combat essential systems of the armed forces.
 

@@ -102,7 +102,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (A) In general
 
-&emsp;&emsp;Any member of the Oversight Board appointed under subparagraph (A) or (D) of paragraph (1) may be removed at the will of the President.
+&emsp;&emsp;Any member of the Oversight Board appointed under subparagraph (A) or (D) ofparagraph (1) may be removed at the will of the President.
 
 #### (B) Secretary and Commissioner
 
@@ -134,7 +134,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (B) Mission of IRS
 
-&emsp;&emsp;As part of its oversight functions described in subparagraph (A), the Oversight Boardshall ensure that the organization and operation of the Internal Revenue Service allows it to carry out its mission.
+&emsp;&emsp;As part of its oversight functions described in subparagraph (A), the Oversight Board shall ensure that the organization and operation of the Internal Revenue Service allows it to carry out its mission.
 
 #### (C) Confidentiality
 
@@ -216,7 +216,7 @@ The Oversight Board shall have the following specific responsibilities:
 
 #### (B) Chairperson
 
-&emsp;&emsp;In lieu of the amount specified in subparagraph (A), the Chairperson of the Oversight Board shall be compensated at a rate of $50,000 per year.
+&emsp;&emsp;In lieu of the amount specified in subparagraph (A), the Chairperson of the OversightBoard shall be compensated at a rate of $50,000 per year.
 
 #### (2) Travel expenses
 
@@ -240,7 +240,7 @@ The Oversight Board shall have the following specific responsibilities:
 
 #### (4) Procurement of temporary and intermittent services
 
-&emsp;The Chairperson of the Oversight Board may procure temporary and intermittent servicesunder section 3109(b) of title 5, United States Code.
+&emsp;The Chairperson of the Oversight Board may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
 
 #### (f) Administrative matters
 
@@ -306,7 +306,7 @@ Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1998 Amendment
 

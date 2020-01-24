@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(i) have a traditional and cultural purpose; and
 
-&emsp;&emsp;&emsp;(ii) are provided to the Secretary by an Indian or Indian tribe under an express expectation of confidentiality in the context of forest and rangeland research activitiescarried out under the authority of the Forest Service.
+&emsp;&emsp;&emsp;(ii) are provided to the Secretary by an Indian or Indian tribe under an express expectation of confidentiality in the context of forest and rangeland research activities carried out under the authority of the Forest Service.
 
 #### (2) Limitations on disclosure
 

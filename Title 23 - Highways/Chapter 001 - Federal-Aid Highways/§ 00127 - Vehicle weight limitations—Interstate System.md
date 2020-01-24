@@ -38,7 +38,7 @@ In General.—
 
 &emsp;(11)(A) With respect to all portions of the Interstate Highway System in the State of Maine, laws (including regulations) of that State concerning vehicle weight limitations applicable to other State highways shall be applicable in lieu of the requirements under this subsection.
 
-&emsp;(B) With respect to all portions of the Interstate Highway System in the State of Vermont, laws (including regulations) of that State concerning vehicle weight limitationsapplicable to other State highways shall be applicable in lieu of the requirements under this subsection.
+&emsp;(B) With respect to all portions of the Interstate Highway System in the State of Vermont, laws (including regulations) of that State concerning vehicle weight limitations applicable to other State highways shall be applicable in lieu of the requirements under this subsection.
 
 &emsp;(12)
 
@@ -122,11 +122,11 @@ Publication of list.—
 
 &emsp;&emsp;(A)
 
-Submission to secretary.—Within 60 days of the date of the enactment of this subsection, each State (i) shall submit to the Secretary for publication in the Federal Register a complete list of (I) all operations of longer combination vehicles being conducted as of June 1, 1991, pursuant to Statestatutes and regulations; (II) all limitations and conditions, including, but not limited to, routing-specific and configuration-specific designations and all other restrictions, governing the operation of longer combination vehicles otherwise prohibited under this subsection; and (III) such statutes, regulations, limitations, and conditions; and (ii) shall submit to the Secretary copies of such statutes, regulations, limitations, and conditions.
+Submission to secretary.—Within 60 days of the date of the enactment of this subsection, each State (i) shall submit to the Secretary for publication in the Federal Register a complete list of (I) all operations of longer combination vehicles being conducted as of June 1, 1991, pursuant to State statutes and regulations; (II) all limitations and conditions, including, but not limited to, routing-specific and configuration-specific designations and all other restrictions, governing the operation of longer combination vehicles otherwise prohibited under this subsection; and (III) such statutes, regulations, limitations, and conditions; and (ii) shall submit to the Secretary copies of such statutes, regulations, limitations, and conditions.
 
 &emsp;&emsp;(B)
 
-Interim list.—Not later than 90 days after the date of the enactment of this subsection, the Secretary shall publish an interim list in the Federal Register, consisting of all information submitted pursuant to subparagraph (A). The Secretary shall review for accuracy all information submitted by the States pursuant to subparagraph (A) and shall solicit and consider public comment on the accuracy of all such information.
+Interim list.—Not later than 90 days after the date of the enactment of this subsection, the Secretary shall publish an interim list in the Federal Register, consisting of all information submitted pursuant to subparagraph (A). The Secretary shall review for accuracy all information submitted by the States pursuant to subparagraph (A)and shall solicit and consider public comment on the accuracy of all such information.
 
 &emsp;&emsp;(C)
 
@@ -196,7 +196,7 @@ Operation of Vehicles on Certain Other Wisconsin Highways.—If any segment of t
 
 (k)
 
-Operation of Vehicles on Certain Mississippi Highways.—If any segment of United States Route 78 in Mississippi from mile marker 0 to mile marker 113 is designated as part of the Interstate System, no limit established under this section may apply to that segment with respect to the operation of any vehicle that could have legally operated on that segment before such designation.
+Operation of Vehicles on Certain Mississippi Highways.—If any segment of UnitedStates Route 78 in Mississippi from mile marker 0 to mile marker 113 is designated as part of the Interstate System, no limit established under this section may apply to that segment with respect to the operation of any vehicle that could have legally operated on that segment before such designation.
 
 (l)
 
@@ -213,6 +213,26 @@ Description of highway segments.—The highway segments referred to in paragraph
 &emsp;&emsp;(A) Interstate Route 69 in Kentucky (formerly the Wendell H. Ford (Western Kentucky) Parkway) from the Interstate Route 24 Interchange, near Eddyville, to the Edward T. Breathitt (Pennyrile) Parkway Interchange.
 
 &emsp;&emsp;(B) The Edward T. Breathitt (Pennyrile) Parkway (to be designated as Interstate Route 69) in Kentucky from the Wendell H. Ford (Western Kentucky) Parkway Interchange to near milepost 77, and on new alignment to an interchange on the Audubon Parkway, if the segment is designated as part of the Interstate System.
+
+&emsp;(3)
+
+Additional highway segments.—
+
+&emsp;&emsp;(A)
+
+In general.—If any segment of highway described in clauses (i) through (iv) of this subparagraph is designated as a route of the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a), except that such vehicle shall not exceed a gross vehicle weight of 120,000 pounds. The highway segments referred to in this paragraph are as follows:
+
+&emsp;&emsp;&emsp;(i) The William H. Natcher Parkway (to be designated as a spur of Interstate Route 65) from Interstate Route 65 in Bowling Green, Kentucky, to United States Route 60 in Owensboro, Kentucky.
+
+&emsp;&emsp;&emsp;(ii) The Julian M. Carroll (Purchase) Parkway (to be designated as Interstate Route 69) in Kentucky from the Tennessee state line to the interchange with Interstate Route 24, near Calvert City.
+
+&emsp;&emsp;&emsp;(iii) The Wendell H. Ford (Western Kentucky) Parkway (to be designated as a spur of Interstate Route 69) from the interchange with the William H. Natcher Parkway in Ohio County, Kentucky, west to the interchange of the Western Kentucky Parkway with the Edward T. Breathitt (Pennyrile) Parkway.
+
+&emsp;&emsp;&emsp;(iv) The Edward T. Breathitt (Pennyrile) Parkway (to be designated as a spur of Interstate Route 69) from Interstate 24, north to Interstate 69.
+
+&emsp;&emsp;(B)
+
+Nondivisible load or vehicle.—Nothing in this paragraph shall prohibit the State from issuing a permit for a nondivisible load or vehicle with a gross vehicle weight that exceeds 120,000 pounds.
 
 (m)
 
@@ -296,7 +316,7 @@ In general.—Notwithstanding subsection (a), a State shall not enforce against 
 
 &emsp;(2)
 
-Emergency vehicle defined.—In this subsection, the term "emergency vehicle"means a vehicle designed to be used under emergency conditions—
+Emergency vehicle defined.—In this subsection, the term "emergency vehicle" means a vehicle designed to be used under emergency conditions—
 
 &emsp;&emsp;(A) to transport personnel and equipment; and
 
@@ -304,11 +324,7 @@ Emergency vehicle defined.—In this subsection, the term "emergency vehicle"mea
 
 (s)
 
-Natural Gas Vehicles.—A vehicle, if operated by an engine fueled primarily by natural gas, may exceed any vehicle weight limit (up to a maximum gross vehicle weight of 82,000 pounds) under this section by an amount that is equal to the difference between—
-
-&emsp;(1) the weight of the vehicle attributable to the natural gas tank and fueling system carried by that vehicle; and
-
-&emsp;(2) the weight of a comparable diesel tank and fueling system.
+Natural Gas and Electric Battery Vehicles.—A vehicle, if operated by an engine fueled primarily by natural gas or powered primarily by means of electric battery power, may exceed the weight limit on the power unit by up to 2,000 pounds (up to a maximum gross vehicle weight of 82,000 pounds) under this section.
 
 (t)
 
@@ -330,7 +346,7 @@ Vehicles in North Dakota.—A vehicle limited or prohibited under this section f
 
 &emsp;(3) is authorized to operate on such segment under North Dakota State law.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(l) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title I, §§1106(c)(2)(B), 1212(d)(1), June 9, 1998, 112 Stat. 136, 194; Pub. L. 107–107, div. A, title X, §1064, Dec. 28, 2001, 115 Stat. 1233; Pub. L. 108–447, div. J, title I, §121, Dec. 8, 2004, 118 Stat. 3347; Pub. L. 109–58, title VII, §756(c), Aug. 8, 2005, 119 Stat. 832; Pub. L. 109–59, title I, §1111(b)(3), Aug. 10, 2005, 119 Stat. 1171; Pub. L. 111–117, div. A, title I, §194(a), (c), (d), (f), Dec. 16, 2009, 123 Stat. 3072, 3073; Pub. L. 112–55, div. C, title I, §125, Nov. 18, 2011, 125 Stat. 655; Pub. L. 112–141, div. A, title I, §§1404(a), 1510, 1511, July 6, 2012, 126 Stat. 557, 567; Pub. L. 113–235, div. K, title I, §125, Dec. 16, 2014, 128 Stat. 2709; Pub. L. 114–94, div. A, title I, §§1409, 1410, 1446(a)(3), Dec. 4, 2015, 129 Stat. 1411, 1437; Pub. L. 114–113, div. L, title I, §124, Dec. 18, 2015, 129 Stat. 2847; Pub. L. 115–141, div. L, title I, §§127, 129A, Mar. 23, 2018, 132 Stat. 988.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(l) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title I, §§1106(c)(2)(B), 1212(d)(1), June 9, 1998, 112 Stat. 136, 194; Pub. L. 107–107, div. A, title X, §1064, Dec. 28, 2001, 115 Stat. 1233; Pub. L. 108–447, div. J, title I, §121, Dec. 8, 2004, 118 Stat. 3347; Pub. L. 109–58, title VII, §756(c), Aug. 8, 2005, 119 Stat. 832; Pub. L. 109–59, title I, §1111(b)(3), Aug. 10, 2005, 119 Stat. 1171; Pub. L. 111–117, div. A, title I, §194(a), (c), (d), (f), Dec. 16, 2009, 123 Stat. 3072, 3073; Pub. L. 112–55, div. C, title I, §125, Nov. 18, 2011, 125 Stat. 655; Pub. L. 112–141, div. A, title I, §§1404(a), 1510, 1511, July 6, 2012, 126 Stat. 557, 567; Pub. L. 113–235, div. K, title I, §125, Dec. 16, 2014, 128 Stat. 2709; Pub. L. 114–94, div. A, title I, §§1409, 1410, 1446(a)(3), Dec. 4, 2015, 129 Stat. 1411, 1437; Pub. L. 114–113, div. L, title I, §124, Dec. 18, 2015, 129 Stat. 2847; Pub. L. 115–141, div. L, title I, §§127, 129A, Mar. 23, 2018, 132 Stat. 988; Pub. L. 116–6, div. G, title IV, §§421, 422, Feb. 15, 2019, 133 Stat. 474; Pub. L. 116–94, div. H, title IV, §425(a), Dec. 20, 2019, 133 Stat. 3018.)
 
 #### References in Text
 
@@ -356,6 +372,18 @@ Amendments by section 194(c), (f) of Pub. L. 111–117 were executed as if the a
 
 #### Amendments
 
+<b>2019</b>—Subsec. (l)(3). Pub. L. 116–6, §421, added par. (3).
+
+Subsec. (l)(3)(A). Pub. L. 116–94, §425(a)(1), substituted "clauses (i) through (iv)" for "clause (i) or (ii)" in introductory provisions.
+
+Subsec. (l)(3)(A)(iii), (iv). Pub. L. 116–94, §425(a)(2), added cls. (iii) and (iv).
+
+Subsec. (s). Pub. L. 116–6, §422, in heading, substituted "Natural Gas and Electric Battery Vehicles" for "Natural Gas Vehicles", in introductory provisions, inserted "or powered primarily by means of electric battery power" after "by natural gas" and substituted "the weight limit on the power unit by up to 2,000 pounds" for "any vehicle weight limit" and a period for "by an amount that is equal to the difference between—," and struck out pars. (1) and (2) which read as follows:
+
+"(1) the weight of the vehicle attributable to the natural gas tank and fueling system carried by that vehicle; and
+
+"(2) the weight of a comparable diesel tank and fueling system."
+
 <b>2018</b>—Subsec. (a)(10). Pub. L. 115–141, §129A, amended par. (10) generally. Prior to amendment, par. (10) read as follows: "With respect to Interstate Routes 89, 93, and 95 in the State of New Hampshire, State laws (including regulations) concerning vehicle weight limitations that were in effect on January 1, 1987, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection."
 
 Subsec. (u). Pub. L. 115–141, §127, added subsec. (u).
@@ -372,7 +400,7 @@ Subsec. (t). Pub. L. 114–113, §124(2), added subsec. (t).
 
 <b>2014</b>—Subsecs. (j) to (l). Pub. L. 113–235 added subsecs. (j) to (l).
 
-<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §1404(a), substituted "The Secretary shall withhold 50 percent of the apportionment of a State under section 104(b)(1) inany fiscal year in which the State" for "No funds shall be apportioned in any fiscal year under section 104(b)(1) of this title to any State which".
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §1404(a), substituted "The Secretary shall withhold 50 percent of the apportionment of a State under section 104(b)(1) in any fiscal year in which the State" for "No funds shall be apportioned in any fiscal year under section 104(b)(1) of this title to any State which".
 
 Subsec. (a)(12)(B). Pub. L. 112–141, §1510(1), substituted "550" for "400".
 
@@ -434,7 +462,7 @@ Subsec. (c). Pub. L. 100–17, §119(c), added subsec. (c).
 
 <b>1983</b>—Pub. L. 97–424 struck out "and width" after "weight" in section catchline.
 
-Subsec. (a). Pub. L. 97–424 designated existing provisions as subsec. (a) and substituted provisions relating to authority to appropriate funds for any fiscal year under the Federal-Aid Highway Act of 1956 with respect to apportionment to any State not permitting the use of the National System of Interstate and Defense Highways within its boundaries by vehicles with specified weights, provisions setting forth formula of maximum gross weight to be allowed by any State for vehicles using such Highways, and provisions setting forth further limitations for apportionment, for provisions relating to authority to appropriate funds for any fiscal year under section 108(b) of the Federal-Aid Highway Act of 1956 with respect to apportionment to any State not permitting the use of the Interstate System withinits boundaries by vehicles with specified weights, provisions setting forth formula for determination of overall gross weight, provisions relating to maximum widths permitted for vehicles, and provisions setting forth further limitations for apportionment.
+Subsec. (a). Pub. L. 97–424 designated existing provisions as subsec. (a) and substituted provisions relating to authority to appropriate funds for any fiscal year under the Federal-Aid Highway Act of 1956 with respect to apportionment to any State not permitting the use of the National System of Interstate and Defense Highways within its boundaries by vehicles with specified weights, provisions setting forth formula of maximum gross weight to be allowed by any State for vehicles using such Highways, and provisions setting forth further limitations for apportionment, for provisions relating to authority to appropriate funds for any fiscal year under section 108(b) of the Federal-Aid Highway Act of 1956 with respect to apportionment to any State not permitting the use of the Interstate System within its boundaries by vehicles with specified weights, provisions setting forth formula for determination of overall gross weight, provisions relating to maximum widths permitted for vehicles, and provisions setting forth further limitations for apportionment.
 
 Subsec. (b). Pub. L. 97–424 added subsec. (b).
 
@@ -498,7 +526,7 @@ Purpose.—The purpose of the study shall be to determine the effectiveness of S
 
 "(3)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results of the study with any legislative recommendations of the Secretary."
+Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results ofthe study with any legislative recommendations of the Secretary."
 
 #### Commercial Motor Vehicle Study
 
@@ -588,7 +616,7 @@ Pub. L. 102–240, title I, §1023(g), Dec. 18, 1991, 105 Stat. 1955, directed S
 
 #### Motor Vehicle Study by Transportation Research Board; Report
 
-Pub. L. 100–17, title I, §158, Apr. 2, 1987, 101 Stat. 210, directed Secretary, within 6 months after Apr. 2, 1987, to enter into appropriate arrangements with the Transportation Research Board of the National Academy of Sciences to conduct a study of the following motor vehicle issues, including an analysis of the impacts of the various positions that have been put forth with respect to each issue and best estimates of effects on pavement, bridges, highway revenue and cost responsibility, and highway safety, and changes in transportation costs and other measures of productivity for various segments of the trucking industry resulting from adoption of each of the positions: (1) elimination of existing, grandfather provisions of 23 U.S.C. 127 which allow higher axle loads and gross vehicle weights than the 20,000-pound single axle load limit, 34,000-pound tandem axle load limit, and 80,000-pound gross vehicle weight limit maximums authorized by Pub. L. 93–643, (2) analysis of alternative methods of determining gross vehicle weight limit and axle loadings for all types of motor carrier vehicles, (3) analysis of the bridge formula contained in 23 U.S.C. 127 in view of current vehicle configurations, pavement and bridge stresses in accord with 1986 design and construction practices, and existing bridges on and off the Interstate System, (4) establishment of nationwide policy regarding the provisions of 'reasonable access' to the National Network for combination vehicles established pursuant to Pub. L. 97–424, and (5) recommendation of appropriate treatment for specialized hauling vehicles which do not comply with the existing Federal bridge formula and submit a final report to Secretary and Congress, not later than 30 months after appropriate arrangements were entered into.
+Pub. L. 100–17, title I, §158, Apr. 2, 1987, 101 Stat. 210, directed Secretary, within 6 months after Apr. 2, 1987, to enter into appropriate arrangements with the Transportation Research Board of the National Academy of Sciences to conduct a study of the following motor vehicle issues, including an analysis of the impacts of the various positions that have been put forth with respectto each issue and best estimates of effects on pavement, bridges, highway revenue and cost responsibility, and highway safety, and changes in transportation costs and other measures of productivity for various segments of the trucking industry resulting from adoption of each of the positions: (1) elimination of existing, grandfather provisions of 23 U.S.C. 127 which allow higher axle loads and gross vehicle weights than the 20,000-pound single axle load limit, 34,000-pound tandem axle load limit, and 80,000-pound gross vehicle weight limit maximums authorized by Pub. L. 93–643, (2) analysis of alternative methods of determining gross vehicle weight limit and axle loadings for all types of motor carrier vehicles, (3) analysis of the bridge formula contained in 23 U.S.C. 127 in view of current vehicle configurations, pavement and bridge stresses in accord with 1986 design and construction practices, and existing bridges on and off the Interstate System, (4) establishment of nationwide policy regarding the provisions of 'reasonable access' to the National Network for combination vehicles established pursuant to Pub. L. 97–424, and (5) recommendation of appropriate treatment for specialized hauling vehicles which do not comply with the existing Federal bridge formula and submit a final report to Secretary and Congress, not later than 30 months after appropriate arrangements were entered into.
 
 #### State-Imposed Vehicle Width Limitations
 
@@ -596,5 +624,5 @@ Pub. L. 97–369, title III, §321, Dec. 18, 1982, 96 Stat. 1784, related to Sta
 
 #### Steering Axle Study; Report to Congress
 
-Pub. L. 94–280, title II, §210, May 5, 1976, 90 Stat. 455, directed Secretary of Transportation to conduct an investigation into relationship between gross load on front steering axles of truck tractors and safety of operation of vehicle combinations of which such truck tractors are a part, such investigation to be conducted in cooperation with representatives of (A) manufacturers of truck tractors and related equipment, (B) labor,and (C) users of such equipment, and the results of such study to be reported to Congress not later than July 1, 1977.
+Pub. L. 94–280, title II, §210, May 5, 1976, 90 Stat. 455, directed Secretary of Transportation to conduct an investigation into relationship between gross load on front steering axles of truck tractors and safety of operation of vehicle combinations of which such truck tractors are a part, such investigation to be conducted in cooperation with representatives of (A) manufacturers of truck tractors and related equipment, (B) labor, and (C) users of such equipment, and the results of such study to be reported to Congress not later than July 1, 1977.
 

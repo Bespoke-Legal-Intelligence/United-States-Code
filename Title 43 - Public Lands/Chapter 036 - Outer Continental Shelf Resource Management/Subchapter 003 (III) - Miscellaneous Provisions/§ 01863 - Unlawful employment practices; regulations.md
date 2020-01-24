@@ -10,5 +10,5 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 The Outer Continental Shelf Lands Act, referred to in text, is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended.Title VI and VII of the Civil Rights Act of 1964 are classified generally to subchapters V (§2000d et seq.) and VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI and VII of the Civil Rights Act of 1964 are classified generally to subchapters V (§2000d et seq.) and VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 

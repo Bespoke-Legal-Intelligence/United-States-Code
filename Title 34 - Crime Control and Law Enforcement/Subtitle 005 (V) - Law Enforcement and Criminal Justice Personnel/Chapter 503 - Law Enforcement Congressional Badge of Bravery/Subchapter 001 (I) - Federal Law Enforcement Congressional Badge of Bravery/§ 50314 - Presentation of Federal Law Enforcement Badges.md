@@ -2,7 +2,7 @@
 
 #### (a) Presentation by Member of Congress
 
-A Member of Congress may present a Federal Law Enforcement Badge to any Federal Law Enforcement Badge recipient who resides in such Member's congressional district. If both a Senator and Representative choose to present a Federal Law Enforcement Badge, such Senator and Representative shall make a joint presentation.
+A Member of Congress may present a Federal Law Enforcement Badge to any Federal Law Enforcement Badge recipient who resides in such Member's congressional district. If both a Senator and Representative choose to present a Federal Law Enforcement Badge, such Senatorand Representative shall make a joint presentation.
 
 #### (b) Presentation by Attorney General
 

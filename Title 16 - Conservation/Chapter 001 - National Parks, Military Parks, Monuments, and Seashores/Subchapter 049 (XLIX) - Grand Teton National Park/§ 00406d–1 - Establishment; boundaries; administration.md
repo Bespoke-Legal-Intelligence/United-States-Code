@@ -82,9 +82,9 @@ Findings.—Congress finds that—
 
 &emsp;"(3) as Chairman and Ranking Member of the National Parks Subcommittee of the Committee on Energy and Natural Resources of the Senate and a frequent visitor to many units of the National Park System, including Yellowstone National Park and Grand Teton National Park, Craig Thomas was a strong proponent for ensuring that people of all ages and abilities had a wide range of opportunities to learn more about the natural and cultural heritage of the United States;
 
-&emsp;"(4) Craig Thomas authored legislation to provide critical funding and management reforms to protect units of the National Park System into the 21st century, ensuring quality visits to units of the National Park System and the protection of natural and cultural resources;
+&emsp;"(4) Craig Thomas authored legislation to provide critical funding and management reforms to protectunits of the National Park System into the 21st century, ensuring quality visits to units of the National Park System and the protection of natural and cultural resources;
 
-&emsp;"(5) Craig Thomas strongly supported public-private partnerships and collaboration between the National Park Service and other organizations that foster new opportunities for providing visitor serviceswhile encouraging greater citizen involvement in the stewardship of units of the National Park System;
+&emsp;"(5) Craig Thomas strongly supported public-private partnerships and collaboration between the National Park Service and other organizations that foster new opportunities for providing visitor services while encouraging greater citizen involvement in the stewardship of units of the National Park System;
 
 &emsp;"(6) Craig Thomas was instrumental in obtaining the Federal share for a public-private partnership with the Grand Teton National Park Foundation and the Grand Teton Natural History Association to construct a new discovery and visitor center at Grand Teton National Park;
 
@@ -170,7 +170,7 @@ Act Aug. 9, 1955, ch. 635, 69 Stat. 555, provided: "That in order to facilitate 
 
 #### Availability of Unexpended Appropriated Funds
 
-The third sentence of act Sept. 14, 1950, ch. 950, §9, 64 Stat. 853, provided that: "The remaining unexpended balance of any funds appropriated for the present Grand Teton National Park and the Jackson Hole National Monument shall be available for expenditure in connection with the administration of the Grand Teton National Park established by this Act \[see References in Text note above\]".
+The third sentence of act Sept. 14, 1950, ch. 950, §9, 64 Stat. 853, provided that: "The remaining unexpendedbalance of any funds appropriated for the present Grand Teton National Park and the Jackson Hole National Monument shall be available for expenditure in connection with the administration of the Grand Teton National Park established by this Act \[see References in Text note above\]".
 
 #### Revocation of Temporary Withdrawals of Public Lands
 

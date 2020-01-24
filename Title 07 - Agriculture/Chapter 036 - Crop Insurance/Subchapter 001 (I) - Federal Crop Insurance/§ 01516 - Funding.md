@@ -12,9 +12,9 @@
 
 &emsp;&emsp;(A) The administrative and operating expenses of the Corporation for the sales commissions of agents.
 
-&emsp;&emsp;(B) Premium subsidies, including the administrative and operating expenses of an approved insurance provider for the delivery of policies with additional coverage.
+&emsp;&emsp;(B) Premium subsidies, including the administrative and operating expenses of anapproved insurance provider for the delivery of policies with additional coverage.
 
-&emsp;&emsp;(C) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title,subject to the limitations in subsection (a)(3)(E)(ii) of that section.
+&emsp;&emsp;(C) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title, subject to the limitations in subsection (a)(3)(E)(ii) of that section.
 
 &emsp;&emsp;(D) Costs associated with the reimbursement, contracting, and partnerships for research and development under section 1522 of this title.
 
@@ -94,7 +94,7 @@ Subsec. (b)(2)(C)(i). Pub. L. 115–334 substituted "$7,000,000" for "$9,000,000
 
 <b>2014</b>—Subsec. (b)(2)(C). Pub. L. 113–79 added subpar. (C).
 
-<b>2000</b>—Subsec. (a)(2). Pub. L. 106–224, §147(a), in introductory provisions, substituted "years the following:" for "years—", in subpar. (A), substituted "The" for"the" and a period for "; and" at end, in subpar. (B), substituted "Premium" for "premium", and added subpars. (C) and (D).
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–224, §147(a), in introductory provisions, substituted "years the following:" for "years—", in subpar. (A), substituted "The" for "the" and a period for "; and" at end, in subpar. (B), substituted "Premium" for "premium", and added subpars. (C) and (D).
 
 Subsec. (b)(1). Pub. L. 106–224, §147(b), in introductory provisions, substituted "including the following:" for "including—", in subpar. (A), substituted "Premium" for "premium" and a period for the semicolon at end, in subpar. (B), substituted "Administrative" for "administrative" and a period for "; and" at end, in subpar. (C), substituted "All" for "all", and added subpars. (D) and (E).
 

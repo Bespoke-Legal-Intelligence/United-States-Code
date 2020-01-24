@@ -18,5 +18,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date
 
-Pub. L. 98–525, title XV, §1538(b), Oct. 19, 1984, 98 Stat. 2636, provided that: "Section 4657 \[now 7657\] of title 10,United States Code, as added by subsection (a), shall take effect on October 1, 1984."
+Pub. L. 98–525, title XV, §1538(b), Oct. 19, 1984, 98 Stat. 2636, provided that: "Section 4657 \[now 7657\] of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1984."
 

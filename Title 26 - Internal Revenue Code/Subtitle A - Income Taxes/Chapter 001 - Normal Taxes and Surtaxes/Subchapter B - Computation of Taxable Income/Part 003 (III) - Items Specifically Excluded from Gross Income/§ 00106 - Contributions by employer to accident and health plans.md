@@ -8,7 +8,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 #### (1) In general
 
-&emsp;In the case of an employee who is an eligible individual, amounts contributed by such employee's employer to any Archer MSA of such employee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent suchamounts do not exceed the limitation under section 220(b)(1) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
+&emsp;In the case of an employee who is an eligible individual, amounts contributed by such employee's employer to any Archer MSA of such employee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent such amounts do not exceed the limitation under section 220(b)(1) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
 
 #### (2) No constructive receipt
 
@@ -84,7 +84,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 #### (A) In general
 
-&emsp;&emsp;If, at any time during the testing period, the employee is not an eligible individual, then the amount of the qualified HSA distribution—
+&emsp;&emsp;If, at any time during the testing period, the employee is not an eligible individual,then the amount of the qualified HSA distribution—
 
 &emsp;&emsp;&emsp;(i) shall be includible in the gross income of the employee for the taxable year in which occurs the first month in the testing period for which such employee is not an eligible individual, and
 
@@ -180,7 +180,7 @@ Subsec. (b)(1). Pub. L. 100–647, §1018(t)(7)(A), substituted "any employer-pr
 
 <b>1986</b>—Pub. L. 99–272 designated existing provisions as subsec. (a) and added subsec. (a) heading and subsec. (b).
 
-Subsec. (a). Pub. L. 99–514, §1151(j)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) readas follows: "Gross income does not include contributions by the employer to accident or health plans for compensation (through insurance or otherwise) to his employees for personal injuries or sickness."
+Subsec. (a). Pub. L. 99–514, §1151(j)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Gross income does not include contributions by the employer to accident or health plans for compensation (through insurance or otherwise) to his employees for personal injuries or sickness."
 
 Subsec. (b)(1). Pub. L. 99–514, §1114(b)(1), substituted "highly compensated employee (within the meaning of section 414(q))" for "highly compensated individual (within the meaning of section 105(h)(5))".
 
@@ -250,7 +250,7 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 
-No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514 or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
+No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -16,7 +16,7 @@ In each survey conducted under this section, the Office shall survey respondents
 
 #### (2) Confidentiality
 
-&emsp;Under the methodologies established under paragraph (1), all responses to all portions ofthe survey shall be anonymous and confidential, and each respondent shall be told throughout the survey that all responses shall be anonymous and confidential.
+&emsp;Under the methodologies established under paragraph (1), all responses to all portions of the survey shall be anonymous and confidential, and each respondent shall be told throughout the survey that all responses shall be anonymous and confidential.
 
 #### (3) Survey form
 

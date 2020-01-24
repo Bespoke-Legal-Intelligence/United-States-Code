@@ -36,7 +36,7 @@
 
 &emsp;(4) Rudimentary construction and repair of public facilities.
 
-(Added Pub. L. 99–661, div. A, title III, §333(a)(1), Nov. 14, 1986, 100 Stat. 3857; amended Pub. L. 100–180, div. A, title III, §332(b)(1)–(5), Dec. 4, 1987, 101 Stat. 1080; Pub. L. 100–456, div. A, title XII, §1233(g)(1), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 103–160, div. A, title XI, §1182(a)(1), title XV, §1504(b), Nov. 30, 1993, 107 Stat. 1771, 1839; Pub. L. 104–106, div. A, title XIII, §1313(a), (b), title XV, §1502(a)(8), Feb. 10, 1996, 110 Stat. 474, 475, 503; Pub. L. 104–201, div. A, title X, §1074(a)(2), title XIII, §1304, Sept. 23, 1996, 110 Stat. 2658, 2704;Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1235\], Oct. 30, 2000, 114 Stat. 1654, 1654A–331; Pub. L. 108–375, div. A, title XII, §1221, Oct. 28, 2004, 118 Stat. 2089; Pub. L. 109–163, div. A, title XII, §1201, Jan. 6, 2006, 119 Stat. 3455; Pub. L. 109–364, div. A, title XII, §1203(a), Oct. 17, 2006, 120 Stat. 2413; Pub. L. 112–239, div. A, title X, §1076(f)(7), Jan. 2, 2013, 126 Stat. 1952.)
+(Added Pub. L. 99–661, div. A, title III, §333(a)(1), Nov. 14, 1986, 100 Stat. 3857; amended Pub. L. 100–180, div. A, title III, §332(b)(1)–(5), Dec. 4, 1987, 101 Stat. 1080; Pub. L. 100–456, div. A, title XII, §1233(g)(1), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 103–160, div. A, title XI, §1182(a)(1), title XV, §1504(b), Nov. 30, 1993, 107 Stat. 1771, 1839; Pub. L. 104–106, div. A, title XIII, §1313(a), (b), title XV, §1502(a)(8), Feb. 10, 1996, 110 Stat. 474, 475, 503; Pub. L. 104–201, div. A, title X, §1074(a)(2), title XIII, §1304, Sept. 23, 1996, 110 Stat. 2658, 2704; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1235\], Oct. 30, 2000, 114 Stat. 1654, 1654A–331; Pub. L. 108–375, div. A, title XII, §1221, Oct. 28, 2004, 118 Stat. 2089; Pub. L. 109–163, div. A, title XII, §1201, Jan. 6, 2006, 119 Stat. 3455; Pub. L. 109–364, div. A, title XII, §1203(a), Oct. 17, 2006, 120 Stat. 2413; Pub. L. 112–239, div. A, title X, §1076(f)(7), Jan. 2, 2013, 126 Stat. 1952.)
 
 #### Amendments
 
@@ -112,7 +112,7 @@ Subsec. (b). Pub. L. 100–180, §332(b)(2), (5), struck out section catchline o
 
 Subsec. (c). Pub. L. 100–180, §332(b)(3), (5), struck out section catchline of former section 403 "Payment of expenses", redesignated former section 403(a) and (b) as subsec. (c)(1) and (2), respectively, of this section, and substituted "section" for "chapter" wherever appearing.
 
-Subsec. (d). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 404 "Annual reportto Congress", designated text of former section 404 as subsec. (d) of this section, and substituted "section" for "chapter".
+Subsec. (d). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 404 "Annual report to Congress", designated text of former section 404 as subsec. (d) of this section, and substituted "section" for "chapter".
 
 Subsec. (e). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 405 "Definition of humanitarian and civic assistance", designated text of former section 405 as subsec. (e) of this section, and substituted "section" for "chapter".
 

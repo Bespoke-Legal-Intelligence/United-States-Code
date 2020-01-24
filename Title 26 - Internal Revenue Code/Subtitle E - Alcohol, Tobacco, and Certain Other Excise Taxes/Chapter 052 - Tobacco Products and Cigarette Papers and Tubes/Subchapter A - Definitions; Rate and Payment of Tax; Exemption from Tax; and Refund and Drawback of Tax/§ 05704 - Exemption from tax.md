@@ -2,7 +2,7 @@
 
 #### (a) Tobacco products furnished for employee use or experimental purposes
 
-Tobacco products may be furnished by a manufacturer of such products, without payment of tax, for use or consumption by employees or for experimental purposes, in such quantities, and in such manner as the Secretary shall by regulation prescribed.
+Tobacco products may be furnished by a manufacturer of such products, without payment oftax, for use or consumption by employees or for experimental purposes, in such quantities, and in such manner as the Secretary shall by regulation prescribed.
 
 #### (b) Tobacco products and cigarette papers and tubes transferred or removed in bond from domestic factories and export warehouses
 

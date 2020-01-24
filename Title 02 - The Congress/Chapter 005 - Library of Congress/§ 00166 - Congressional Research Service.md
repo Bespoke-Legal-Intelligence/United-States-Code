@@ -20,15 +20,15 @@ It is the policy of Congress that—
 
 &emsp;(2) the Librarian of Congress shall grant and accord to the Congressional Research Service complete research independence and the maximum practicable administrative independence consistent with these objectives.
 
-#### (c) Appointment and compensation of Director, Deputy Director, and other necessary personnel; minimum grade for Senior Specialists; placement in grades GS–16, 17, and 18 of Specialists and Senior Specialists; appointment without regard to civil service laws and political affiliation and on basis of fitness to perform duties
+#### (c) Appointment and compensation of Director, Deputy Director, and other necessary personnel; minimum grade for Senior Specialists; classification above GS–15 of Specialists and Senior Specialists; appointment without regard to civil service laws and political affiliation and on basis of fitness to perform duties
 
-(1) After consultation with the Joint Committee on the Library, the Librarian of Congressshall appoint the Director of the Congressional Research Service. The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level III of the Executive Schedule under section 5314 of title 5.
+(1) After consultation with the Joint Committee on the Library, the Librarian of Congress shall appoint the Director of the Congressional Research Service. The Director shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5 or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title.
 
-(2) The Librarian of Congress, upon the recommendation of the Director, shall appoint a Deputy Director of the Congressional Research Service and all other necessary personnel thereof. The basic pay of the Deputy Director shall be fixed in accordance with chapter 51 (relating to classification) and subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, but without regard to section 5108(a) of such title. The basic pay of all other necessary personnel of the Congressional Research Service shall be fixed in accordance with chapter 51 (relating to classification) and subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, except that—
+(2) The Librarian of Congress, upon the recommendation of the Director, shall appoint a Deputy Director of the Congressional Research Service and all other necessary personnel thereof. The basic pay of the Deputy Director shall be fixed in accordance with chapter 51 (relating to classification) and section 5376 of title 5. The basic pay of all other necessary personnel of the Congressional Research Service shall be fixed in accordance with chapter 51 (relating to classification) and subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, except that—
 
 &emsp;(A) the grade of Senior Specialist in each field within the purview of subsection (e) of this section shall not be less than the highest grade in the executive branch of the Government to which research analysts and consultants, without supervisory responsibility, are currently assigned; and
 
-&emsp;(B) the positions of Specialist and Senior Specialist in the Congressional Research Service may be placed in GS–16, 17, and 18 of the General Schedule of section 5332 of title 5, without regard to section 5108(a) of such title, subject to the prior approval of the Joint Committee on the Library, of the placement of each such position in any of such grades.
+&emsp;(B) the positions of Specialist and Senior Specialist in the Congressional Research Service may be classified above GS–15 in accordance with section 5108(c) of title 5, and the rate of basic pay for such positions may be fixed in accordance with section 5376 of such title, subject to the prior approval of the Joint Committee on the Library.
 
 (3) Each appointment made under paragraphs (1) and (2) of this subsection and subsection (e) of this section shall be without regard to the civil service laws, without regard to political affiliation, and solely on the basis of fitness to perform the duties of the position.
 
@@ -146,19 +146,25 @@ The Director of the Congressional Research Service will submit to the Librarian 
 
 #### (i) Special report to Joint Committee on the Library
 
-The Director of the Congressional Research Service shall prepare and file with the Joint Committee on the Library at the beginning of each regular session of Congress a separate and special report covering, in summary and in detail, all phases of activity of the CongressionalResearch Service for the immediately preceding fiscal year, and shall include in the report a description of the efforts made by the Director to make additional Congressional Research Service products that are not confidential products or services available to the Librarian of Congress for publication on the website established and maintained under section 124 <sup>1</sup> of the Legislative Branch Appropriations Act, 2018.
+The Director of the Congressional Research Service shall prepare and file with the Joint Committee on the Library at the beginning of each regular session of Congress a separate and special report covering, in summary and in detail, all phases of activity of the Congressional Research Service for the immediately preceding fiscal year, and shall include in the report a description of the efforts made by the Director to make additional Congressional Research Service products that are not confidential products or services available to the Librarian of Congress for publication on the website established and maintained under section 124 <sup>1</sup> of the Legislative Branch Appropriations Act, 2018.
 
 #### (j) Authorization of appropriations
 
 There are hereby authorized to be appropriated to the Congressional Research Service each fiscal year such sums as may be necessary to carry on the work of the Service.
 
-(Aug. 2, 1946, ch. 753, title II, §203, 60 Stat. 836; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 91–510, title III, §321(a), Oct. 26, 1970, 84 Stat. 1181; Pub. L. 99–190, §133, Dec. 19, 1985, 99 Stat. 1322; Pub. L. 106–57, title II, §209(b), Sept. 29, 1999, 113 Stat. 424; Pub. L. 115–141, div. I, title I, §154(b)(7), (d), Mar. 23, 2018, 132 Stat. 789, 790.)
+(Aug. 2, 1946, ch. 753, title II, §203, 60 Stat. 836; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 91–510, title III, §321(a), Oct. 26, 1970, 84 Stat. 1181; Pub. L. 99–190, §133, Dec. 19, 1985, 99 Stat. 1322; Pub. L. 106–57, title II, §209(b), Sept. 29, 1999, 113 Stat. 424; Pub. L. 115–141, div. I, title I, §154(b)(7), (d), Mar. 23, 2018, 132 Stat. 789, 790; Pub. L. 116–94, div. P, title XIV, §1404(a)(2), (b)(1), Dec. 20, 2019, 133 Stat. 3208.)
 
 #### References in Text
 
 Section 124 of the Legislative Branch Appropriations Act, 2018, referred to in subsecs. (d)(9) and (i), probably should be section 154 of the Legislative Branch Appropriations Act, 2018, Pub. L. 115–141, div. I, title I, Mar. 23, 2018, 132 Stat. 787. Section 154 of Pub. L. 115–141 enacted section 166a of this title, related to equal access to Congressional Research Service Reports, and amended this section. Div. I of Pub. L. 115–141 does not contain a section 124.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c)(1). Pub. L. 116–94, §1404(a)(2), substituted "The Director shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5 or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title." for "The basic pay of the Directorshall be at a per annum rate equal to the rate of basic pay provided for level III of the Executive Schedule under section 5314 of title 5."
+
+Subsec. (c)(2). Pub. L. 116–94, §1404(b)(1)(A), substituted "section 5376 of title 5." for "subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, but without regard to section 5108(a) of such title." in introductory provisions.
+
+Subsec. (c)(2)(B). Pub. L. 116–94, §1404(b)(1)(B), substituted "may be classified above GS–15 in accordance with section 5108(c) of title 5, and the rate of basic pay for such positions may be fixed in accordance with section 5376 of such title, subject to the prior approval of the Joint Committee on the Library." for "may be placed in GS–16, 17, and 18 of the General Schedule of section 5332 of title 5, without regard to section 5108(a) of such title, subject to the prior approval of the Joint Committee on the Library, of the placement of each such position in any of such grades."
 
 <b>2018</b>—Subsec. (d)(9). Pub. L. 115–141, §154(d), added par. (9).
 
@@ -190,7 +196,7 @@ Amendment by Pub. L. 115–141 effective 90 days after the date on which the Lib
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–57 applicable with respect to the first pay period which begins on or after Sept. 29, 1999 and each subsequent pay period, see section 209(c) of Pub. L. 106–57, set out as a note under section 136a–2 of this title.
+Amendment by Pub. L. 106–57 applicable with respect to the first pay period which begins on or after Sept. 29, 1999 and each subsequent pay period, see section 209(c)of Pub. L. 106–57, set out as a note under section 136a–2 of this title.
 
 #### Effective Date of 1970 Amendment
 

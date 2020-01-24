@@ -58,7 +58,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 &emsp;&emsp;(iii) with respect to an airport development project involving the location of an airport, runway, or major runway extension at a medium or large hub airport, the airport sponsor has made available to and has provided upon request to the metropolitan planning organization in the area in which the airport is located, if any, a copy of the proposed amendment to the airport layout plan to depict the project and a copy of any airport master plan in which the project is described or depicted; and
 
-&emsp;(B) if the application is found to have a significant adverse effect on natural resources, including fish and wildlife, natural, scenic, and recreation assets, water and air quality, or another factor affecting the environment, only after finding that no possible and prudent alternative to the project exists and thatevery reasonable step has been taken to minimize the adverse effect.
+&emsp;(B) if the application is found to have a significant adverse effect on natural resources, including fish and wildlife, natural, scenic, and recreation assets, water and air quality, or another factor affecting the environment, only after finding that no possible and prudent alternative to the project exists and that every reasonable step has been taken to minimize the adverse effect.
 
 (2) The Secretary may approve an application under this subchapter for an airport development project that does not involve the location of an airport or runway, or a major runway extension, at an existing airport without requiring an environmental impact statement related to noise for the project if—
 
@@ -84,7 +84,7 @@ Withholding Approval.—(1) The Secretary may withhold approval of an applicatio
 
 &emsp;(B) the hearing officer if the officer decides an extension is necessary because the sponsor did not follow the schedule the officer established.
 
-(3) A person adversely affected by an order of the Secretary withholding approval may obtain review of the order by filing a petition in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the project is located. The action must be brought not later than 60 days after the order is served on the petitioner.
+(3) A person adversely affected by an order of the Secretary withholding approval may obtain review of the order by filing a petition in theUnited States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the project is located. The action must be brought not later than 60 days after the order is served on the petitioner.
 
 (e)
 
@@ -210,7 +210,7 @@ In subsection (a)(5), the words "which submitted the project grant application" 
 
 In subsection (b), before clause (1), the words "for an airport" are added for clarity. In clause (1), the words "or an agency thereof" are omitted surplus. In clause (3), the words "that the Secretary . . . decides is necessary" are substituted for "when it is determined by the Secretary that any such item is required" to eliminate unnecessary words.
 
-In subsection (c)(1)(B), before subclause (i), the words "chief executive officer" are substituted for "Governor" because this chapter applies to the District of Columbia which does not have a Governor. The words "except that the Administrator of the Environmental Protection Agency shall make the certification instead of the chief executive officer if" are substituted for "In any case where . . . certification shall be obtained from such Administrator" for clarity. Subclause (i) is substituted for "such standards have not been approved" for clarity.
+In subsection (c)(1)(B), before subclause (i), the words "chief executive officer" are substituted for "Governor" because this chapter applies to the District of Columbia which does not have a Governor. The words "except that the Administrator of the EnvironmentalProtection Agency shall make the certification instead of the chief executive officer if" are substituted for "In any case where . . . certification shall be obtained from such Administrator" for clarity. Subclause (i) is substituted for "such standards have not been approved" for clarity.
 
 In subsection (c)(2), before clause (A), the words "Notwithstanding any other provision of law" are omitted as surplus. The words "that does not involve the location of an airport or runway, or a major runway extension" are substituted for "(other than an airport development project in which paragraph (7)(A) applies)" for clarity. The words "the preparation of" are omitted as surplus. In clause (B), the words "statutory and administrative" are omitted as surplus.
 

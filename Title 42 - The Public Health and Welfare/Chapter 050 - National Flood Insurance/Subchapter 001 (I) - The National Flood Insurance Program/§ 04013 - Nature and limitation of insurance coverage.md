@@ -86,7 +86,7 @@ In addition to any other terms and conditions under subsection (a), such regulat
 
 &emsp;&emsp;&emsp;(ii) a statement explaining the effect of a loss-deductible and that, in the event of an insured loss, the insured is responsible out-of-pocket for losses to the extent of the deductible selected.
 
-(Pub. L. 90–448, title XIII, §1306, Aug. 1, 1968, 82 Stat. 575; Pub. L. 92–213, §2(c)(2), Dec. 22, 1971, 85 Stat. 775; Pub. L. 93–234, title I, §101, Dec. 31, 1973, 87 Stat. 977; Pub. L. 95–128, title VII, §704(a), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–242, title V, §544(a), Feb. 5, 1988, 101 Stat. 1940; Pub. L. 100–628, title X, §1086(a), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 100–707, title I, §109(o), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–137, §1(c), Nov. 3, 1989, 103 Stat. 824; Pub. L.101–508, title II, §2302(d), Nov. 5, 1990, 104 Stat. 1388–23; Pub. L. 103–325, title V, §§552(a), 573, 579(a), Sept. 23, 1994, 108 Stat. 2269, 2278, 2284; Pub. L. 112–141, div. F, title II, §§100228, 100238(b)(1), 100241, July 6, 2012, 126 Stat. 944, 958, 962; Pub. L. 113–89, §12, Mar. 21, 2014, 128 Stat. 1025.)
+(Pub. L. 90–448, title XIII, §1306, Aug. 1, 1968, 82 Stat. 575; Pub. L. 92–213, §2(c)(2), Dec. 22, 1971, 85 Stat. 775; Pub. L. 93–234, title I, §101, Dec. 31, 1973, 87 Stat. 977; Pub. L. 95–128, title VII, §704(a), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–242, title V, §544(a), Feb. 5, 1988, 101 Stat. 1940; Pub. L. 100–628, title X, §1086(a), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 100–707, title I, §109(o), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–137, §1(c), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, §2302(d), Nov. 5, 1990, 104 Stat. 1388–23; Pub. L. 103–325, title V, §§552(a), 573, 579(a), Sept. 23, 1994, 108 Stat. 2269, 2278, 2284; Pub. L. 112–141, div. F, title II, §§100228, 100238(b)(1), 100241, July 6, 2012, 126 Stat. 944, 958, 962; Pub. L. 113–89, §12, Mar. 21, 2014, 128 Stat. 1025.)
 
 #### References in Text
 
@@ -154,7 +154,7 @@ Pub. L. 100–242, title V, §544(b), Feb. 5, 1988, 101 Stat. 1942, provided tha
 
 #### Effective Date
 
-Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in noevent more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Savings Provision
 

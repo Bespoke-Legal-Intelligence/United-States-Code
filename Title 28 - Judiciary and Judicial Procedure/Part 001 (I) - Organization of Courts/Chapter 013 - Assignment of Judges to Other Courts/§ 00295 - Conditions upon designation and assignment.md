@@ -26,7 +26,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–598 directed the amendment of section by substituting "district, or bankruptcy" for "or district", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Pub. L. 95–598 directed the amendment of section by substituting "district, or bankruptcy" for "ordistrict", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 <b>1958</b>—Pub. L. 85–755 substituted "of any other court of the United States" for "of the Customs Court" in first par.
 

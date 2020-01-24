@@ -16,7 +16,7 @@ As used in this section—
 
 &emsp;(1) the term "Commission for Environmental Cooperation" means the commission established by Part Three of the North American Agreement on Environmental Cooperation; and
 
-&emsp;(2) the term "North American Agreement on Environmental Cooperation" means the North American Agreement on Environmental Cooperation Between the Government of the United States of America, the Government ofCanada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
+&emsp;(2) the term "North American Agreement on Environmental Cooperation" means the North American Agreement on Environmental Cooperation Between the Government of the United States of America, the Government of Canada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
 
 (Pub. L. 103–182, title V, §532, Dec. 8, 1993, 107 Stat. 2164.)
 
@@ -26,7 +26,7 @@ Ex. Ord. No. 12915, May 13, 1994, 59 F.R. 25775, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the North American Free Trade Agreement Implementation Act, Public Law 103–182; 107 Stat. 2057 ("NAFTA Implementation Act") \[see Tables for classification\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. POLICY. (a) The North American Agreement on Environmental Cooperation ("Environmental Cooperation Agreement") shall be implemented consistent with United States policy for the protection of human, animal or plant life or health, and the environment. The Environmental Cooperation Agreement shall also be implemented to advance sustainable development, pollution prevention, environmental justice, ecosystem protection, and biodiversity preservation and in a manner that promotes transparency and public participation in accordance with the North American Free Trade Agreement ("NAFTA") and the Environmental Cooperation Agreement.
+Section 1. POLICY. (a) The North American Agreement on Environmental Cooperation ("Environmental Cooperation Agreement") shall be implemented consistent with United States policy for the protection of human, animal or plant life or health, and the environment. The Environmental Cooperation Agreement shall also be implemented to advance sustainable development, pollution prevention, environmental justice, ecosystem protection, and biodiversity preservation and in a manner that promotes transparency and public participation in accordance with the North American FreeTrade Agreement ("NAFTA") and the Environmental Cooperation Agreement.
 
 (b) Effective implementation of the Environmental Cooperation Agreement is essential to the realization of the environmental objectives of NAFTA and the NAFTA Implementation Act and promotes cooperation on trade and environmental issues between the United States, Canada, and Mexico.
 
@@ -70,7 +70,7 @@ Sec. 2. IMPLEMENTATION OF THE ENVIRONMENTAL COOPERATION AGREEMENT.
 
 &emsp;(B) provide the States with an opportunity to submit information and advice with respect to the matters identified in section 2(e)(1)(A) of this order; and
 
-&emsp;(C) involve the States to the greatest extent practicable at each stage of the development of UnitedStates positions regarding matters identified in section 2(e)(1)(A) of this order that will be addressed by the Council, committees, subcommittees, or working groups established under the Environmental Cooperation Agreement, or through dispute settlement processes prescribed under the Environmental Cooperation Agreement (including involvement through the inclusion of appropriate representatives of the States).
+&emsp;(C) involve the States to the greatest extent practicable at each stage of the development of United States positions regarding matters identified in section 2(e)(1)(A) of this order that will be addressed by the Council, committees, subcommittees, or working groups established under the Environmental Cooperation Agreement, or through dispute settlement processes prescribed under the Environmental Cooperation Agreement (including involvement through the inclusion of appropriate representatives of the States).
 
 (2) When formulating positions regarding matters identified in section 2(e)(1)(A) of this order, the United States shall take into account the information and advice received from States.
 
@@ -80,23 +80,27 @@ Sec. 3. NATIONAL ADVISORY COMMITTEE. The EPA Administrator shall utilize a Natio
 
 Sec. 4. UNITED STATES CONTRIBUTIONS TO THE COMMISSION FOR ENVIRONMENTAL COOPERATION. In accordance with section 532(a)(2) of the NAFTA Implementation Act \[19 U.S.C. 3472(a)(2)\], the EPA is designated as the agency authorized to make the contributions of the United States from funds available for such contributions to the annual budget of the Commission for Environmental Cooperation.
 
-Sec. 5. JUDICIAL REVIEW. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 5. JUDICIAL REVIEW. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, createany right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation
 
-Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Previous extension of term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation was contained in the following prior Executive Order:
+Previous extensions of term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 #### Extension of Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation
 
-Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Previous extension of term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation was contained in the following prior Executive Order:
+Previous extensions of term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 

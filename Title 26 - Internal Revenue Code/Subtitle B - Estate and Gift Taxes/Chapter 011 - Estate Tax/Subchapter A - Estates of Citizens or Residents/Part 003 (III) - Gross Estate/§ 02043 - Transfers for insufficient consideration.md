@@ -12,7 +12,7 @@ If any one of the transfers, trusts, interests, rights, or powers enumerated and
 
 #### (2) Exception
 
-&emsp;For purposes of section 2053 (relating to expenses, indebtedness, and taxes), a transfer of property which satisfies the requirements ofparagraph (1) of section 2516 (relating to certain property settlements) shall be considered to be made for an adequate and full consideration in money or money's worth.
+&emsp;For purposes of section 2053 (relating to expenses, indebtedness, and taxes), a transfer of property which satisfies the requirements of paragraph (1) of section 2516 (relating to certain property settlements) shall be considered to be made for an adequate and full consideration in money or money's worth.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 388; Pub. L. 98–369, div. A, title IV, §425(a)(1), July 18, 1984, 98 Stat. 803.)
 

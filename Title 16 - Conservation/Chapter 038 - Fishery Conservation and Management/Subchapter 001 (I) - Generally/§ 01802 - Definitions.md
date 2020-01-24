@@ -156,7 +156,7 @@ Sponges
 
 &emsp;&emsp;(B) does not include any activity described in subparagraph (A) with respect to fish caught in the exclusive economic zone or by a vessel of the United States.
 
-&emsp;(23) The term "individual fishing quota" means a Federal permit under a limited access system to harvest a quantity of fish, expressed by a unit or units representing a percentage of the total allowable catch of a fishery that maybe received or held for exclusive use by a person. Such term does not include community development quotas as described in section 1855(i) of this title.
+&emsp;(23) The term "individual fishing quota" means a Federal permit under a limited access system to harvest a quantity of fish, expressed by a unit or units representing a percentage of the total allowable catch of a fishery that may be received or held for exclusive use by a person. Such term does not include community development quotas as described in section 1855(i) of this title.
 
 &emsp;(24) The term "international fishery agreement" means any bilateral or multilateral treaty, convention, or agreement which relates to fishing and to which the United States is a party.
 
@@ -180,7 +180,7 @@ Sponges
 
 &emsp;(31) The term "observer" means any person required or authorized to be carried on a vessel for conservation and management purposes by regulations or permits under this chapter.
 
-&emsp;(32) The term "observer information" means any information collected, observed, retrieved, or created by an observer or electronic monitoring system pursuant to authorization by the Secretary, or collected as part of a cooperative research initiative, including fish harvest or processing observations, fish sampling or weighing data, vessel logbook data, vessel or processor-specific information (including any safety, location, or operating condition observations), and video, audio, photographic, or written documents.
+&emsp;(32) The term "observer information" means any information collected, observed, retrieved,or created by an observer or electronic monitoring system pursuant to authorization by the Secretary, or collected as part of a cooperative research initiative, including fish harvest or processing observations, fish sampling or weighing data, vessel logbook data, vessel or processor-specific information (including any safety, location, or operating condition observations), and video, audio, photographic, or written documents.
 
 &emsp;(33) The term "optimum", with respect to the yield from a fishery, means the amount of fish which—
 
@@ -208,7 +208,7 @@ Sponges
 
 &emsp;(42) The term "stock of fish" means a species, subspecies, geographical grouping, or other category of fish capable of management as a unit.
 
-&emsp;(43) The term "treaty" means any international fishery agreement which is a treatywithin the meaning of section 2 of article II of the Constitution.
+&emsp;(43) The term "treaty" means any international fishery agreement which is a treaty within the meaning of section 2 of article II of the Constitution.
 
 &emsp;(44) The term "tuna species" means the following:
 
@@ -436,7 +436,7 @@ Pub. L. 104–297, §102(9), redesignated pars. (38) and (39) as (40) and (41), 
 
 Pub. L. 104–297, §102(8), redesignated pars. (38) and (39) as (40) and (41), respectively.
 
-Par. (42). Pub. L. 104–297, §102(11), which directed the substitution of "regulated under this chapter" for "forwhich a fishery management plan prepared under subchapter IV of this chapter or a preliminary fishery management plan prepared under section 1821(g) of this title has been implemented", was executed by making substitution for language which referred to "section 1821(h)", notwithstanding directory language directing substitution for language which referred to "section 1821(g)" to reflect the probable intent of Congress.
+Par. (42). Pub. L. 104–297, §102(11), which directed the substitution of "regulated under this chapter" for "for which a fishery management plan prepared under subchapter IV of this chapter or a preliminary fishery management plan prepared under section 1821(g) of this title has been implemented", was executed by making substitution for language which referred to "section 1821(h)", notwithstanding directory language directing substitution for language which referred to "section 1821(g)" to reflect the probable intent of Congress.
 
 Pub. L. 104–297, §102(10), redesignated par. (41) as (42). Former par. (42) redesignated (43).
 

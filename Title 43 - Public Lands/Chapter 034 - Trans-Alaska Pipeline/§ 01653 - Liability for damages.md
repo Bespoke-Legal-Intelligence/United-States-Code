@@ -102,5 +102,5 @@ Pub. L. 101–380, title VIII, §8102(a)(5)(B), Aug. 18, 1990, 104 Stat. 566, pr
 
 #### Preservation of Rights and Remedies of Contributors to TAPS Fund
 
-Pub. L. 101–380, title VIII, §8102(a)(6), Aug. 18, 1990, 104 Stat. 566, provided that: "This subsection \[amendingthis section and enacting provisions set out as notes above\] is intended expressly to preserve any and all rights and remedies of contributors to the TAPS Fund under section 1491 of title 28, United States Code (commonly referred to as the 'Tucker Act')."
+Pub. L. 101–380, title VIII, §8102(a)(6), Aug. 18, 1990, 104 Stat. 566, provided that: "This subsection \[amending this section and enacting provisions set out as notes above\] is intended expressly to preserve any and all rights and remedies of contributors to the TAPS Fund under section 1491 of title 28, United States Code (commonly referred to as the 'Tucker Act')."
 

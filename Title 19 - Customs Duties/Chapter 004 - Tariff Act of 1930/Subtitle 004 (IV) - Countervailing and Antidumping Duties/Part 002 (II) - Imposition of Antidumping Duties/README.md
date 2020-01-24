@@ -11,7 +11,7 @@ Part II" was in the original "Subtitle B" and was editorially changed in order t
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01673 - Imposition of antidumping duties](%C2%A7%2001673%20-%20Imposition%20of%20antidumping%20duties.md)
+- [&sect; 01673 - Antidumping duties imposed](%C2%A7%2001673%20-%20Antidumping%20duties%20imposed.md)
 - [&sect; 01673a - Procedures for initiating an antidumping duty investigation](%C2%A7%2001673a%20-%20Procedures%20for%20initiating%20an%20antidumping%20duty%20investigation.md)
 - [&sect; 01673b - Preliminary determinations](%C2%A7%2001673b%20-%20Preliminary%20determinations.md)
 - [&sect; 01673c - Termination or suspension of investigation](%C2%A7%2001673c%20-%20Termination%20or%20suspension%20of%20investigation.md)

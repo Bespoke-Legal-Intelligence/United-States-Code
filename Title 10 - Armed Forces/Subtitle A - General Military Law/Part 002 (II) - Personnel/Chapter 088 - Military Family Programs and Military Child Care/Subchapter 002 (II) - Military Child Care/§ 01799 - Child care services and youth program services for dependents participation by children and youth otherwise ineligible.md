@@ -26,5 +26,5 @@ Objectives.—The objectives for authorizing participation in a program under su
 
 "(1) Every two years the Secretary of Defense shall submit to Congress a report on the exercise of authority under this section. The report shall include an evaluation of the effectiveness of that authority for achieving the objectives set out under subsection (c). The report may include any recommendations for legislation that the Secretary considers appropriate to enhance the capability of the Department of Defense to attain those objectives.
 
-"(2) A biennial report under this subsection may be combined with the biennial report under section 1798(d) of this title into a single report for submission to Congress."
+"(2) A biennial report under this subsection may be combined with the biennial report under section 1798(d)of this title into a single report for submission to Congress."
 

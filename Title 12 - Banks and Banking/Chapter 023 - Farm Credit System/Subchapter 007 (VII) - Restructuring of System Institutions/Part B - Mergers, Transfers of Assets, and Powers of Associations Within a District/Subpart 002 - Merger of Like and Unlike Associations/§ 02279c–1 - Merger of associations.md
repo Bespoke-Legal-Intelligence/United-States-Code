@@ -24,7 +24,7 @@ Two or more associations within the same district, whether or not organized unde
 
 #### (2) Consolidation
 
-&emsp;The Farm Credit Administration shall issue regulations that establish the manner in which the powers and obligations of the associations that form the merged association are consolidated and, to the extent necessary, reconciled in the merged association.
+&emsp;The Farm Credit Administration shall issue regulations that establish the manner inwhich the powers and obligations of the associations that form the merged association are consolidated and, to the extent necessary, reconciled in the merged association.
 
 #### (c) Stock issuance
 
@@ -42,7 +42,7 @@ Two or more associations within the same district, whether or not organized unde
 
 <b>1988</b>—Subsec. (b)(2). Pub. L. 100–399, §408(k), struck out second sentence, which directed that, following a merger under subsection (a) of this section, the provisions of section 2154a of this title were to be applicable to the merged association.
 
-Subsec. (c)(2). Pub. L. 100–399, §408(l), substituted "Capitalization" for "Plan of capitalization" as par. (2)heading and amended text generally. Prior to amendment, text read as follows: "The number of shares of capital stock, and the rights and privileges thereof, issued by a merged association after a merger shall be determined by the Board of Directors of the merged association, with the approval of the supervising bank, and shall be consistent with section 2154a of this title and the regulations issued by the Farm Credit Administration."
+Subsec. (c)(2). Pub. L. 100–399, §408(l), substituted "Capitalization" for "Plan of capitalization" as par. (2) heading and amended text generally. Prior to amendment, text read as follows: "The number of shares of capital stock, and the rights and privileges thereof, issued by a merged association after a merger shall be determined by the Board of Directors of the merged association, with the approval of the supervising bank, and shall be consistent with section 2154a of this title and the regulations issued by the Farm Credit Administration."
 
 Subsec. (c)(3). Pub. L. 100–399, §408(l), struck out par. (3) which read as follows: "Voting stock of a merged association shall be issued to and held by farmers, ranchers, or producers or harvesters of aquatic products who are or were, immediately prior to the merger, direct borrowers from one of the associations forming the merged association or the supervising bank of such merged association."
 

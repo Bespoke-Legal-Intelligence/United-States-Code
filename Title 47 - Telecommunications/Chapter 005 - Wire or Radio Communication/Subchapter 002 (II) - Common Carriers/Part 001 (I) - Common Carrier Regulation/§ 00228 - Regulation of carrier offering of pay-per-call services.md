@@ -72,7 +72,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (7) Billing for 800 calls
 
-&emsp;A common carrier shall prohibit by tariff or contract the use of any 800 telephone number, or other telephone number advertised or widely understood to be toll free, in a manner that would result in—
+&emsp;A common carrier shall prohibit by tariff or contract the use of any 800 telephone number,or other telephone number advertised or widely understood to be toll free, in a manner that would result in—
 
 &emsp;&emsp;(A) the calling party being assessed, by virtue of completing the call, a charge for the call;
 
@@ -84,7 +84,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 &emsp;&emsp;&emsp;(ii) the calling party is charged for the information in accordance with paragraph (9);
 
-&emsp;&emsp;(D) the calling party being called back collect for the provision of audio informationservices or simultaneous voice conversation services; or
+&emsp;&emsp;(D) the calling party being called back collect for the provision of audio information services or simultaneous voice conversation services; or
 
 &emsp;&emsp;(E) the calling party being assessed, by virtue of being asked to connect or otherwise transfer to a pay-per-call service, a charge for the call.
 
@@ -174,7 +174,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (d) Billing and collection practices
 
-The regulations required by this section shall require that any common carrier that by tariffor contract assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) to a provider of a pay-per-call service and that offers billing and collection services to such provider—
+The regulations required by this section shall require that any common carrier that by tariff or contract assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) to a provider of a pay-per-call service and that offers billing and collection services to such provider—
 
 &emsp;(1) ensure that a subscriber is not billed—
 
@@ -222,7 +222,7 @@ The regulations required by this section shall require that any common carrier t
 
 #### (1) No preemption of election law
 
-&emsp;Nothing in this section shall relieve any provider of pay-per-call services, common carrier, local exchange carrier, or any other person from the obligation to comply with Federal, State, and local election statutes and regulations.
+&emsp;Nothing in this section shall relieve any provider of pay-per-call services, common carrier,local exchange carrier, or any other person from the obligation to comply with Federal, State, and local election statutes and regulations.
 
 #### (2) Consumer protection laws
 
@@ -234,7 +234,7 @@ The regulations required by this section shall require that any common carrier t
 
 #### (4) State authority
 
-&emsp;Nothing in this section shall preclude any State from enacting and enforcing additionaland complementary oversight and regulatory systems or procedures, or both, so long as such systems and procedures govern intrastate services and do not significantly impede the enforcement of this section or other Federal statutes.
+&emsp;Nothing in this section shall preclude any State from enacting and enforcing additional and complementary oversight and regulatory systems or procedures, or both, so long as such systems and procedures govern intrastate services and do not significantly impede the enforcement of this section or other Federal statutes.
 
 #### (5) Enforcement of existing regulations
 

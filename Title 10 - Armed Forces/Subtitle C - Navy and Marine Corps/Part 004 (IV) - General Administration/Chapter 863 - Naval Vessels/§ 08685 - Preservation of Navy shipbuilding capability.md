@@ -36,7 +36,7 @@ Applicability.—(1) An agreement entered into with a shipbuilder under subsecti
 
 (2) In a shipbuilding capability preservation agreement applicable to a shipbuilder, the Secretary may agree to apply the cost reimbursement rules set forth in subsection (b) to allocations of indirect costs to private sector work performed by the shipbuilder only with respect to costs that the shipbuilder incurred on or after November 18, 1997, under a contract between the shipbuilder and a private sector customer of the shipbuilder that became effective on or after January 26, 1996.
 
-(Added Pub. L. 105–85, div. A, title X, §1027(a)(1), Nov. 18, 1997, 111 Stat. 1878, §7315; amended Pub. L. 106–65, div. A, title X, §1066(a)(29), Oct. 5, 1999, 113 Stat. 772; renumbered §8685, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 105–85, div. A, title X, §1027(a)(1), Nov. 18, 1997, 111 Stat. 1878, §7315; amended Pub. L. 106–65, div. A, title X, §1066(a)(29), Oct. 5, 1999,113 Stat. 772; renumbered §8685, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 #### Prior Provisions
 
@@ -52,7 +52,31 @@ A prior section 8685, acts Aug. 10, 1956, ch. 1041, 70A Stat. 535; Sept. 2, 1958
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
+#### Pilot Program To Train Skilled Technicians in Critical Shipbuilding Skills
+
+Pub. L. 116–92, div. A, title III, §357, Dec. 20, 2019, 133 Stat. 1322, provided that:
+
+"(a)
+
+Establishment.—The Secretary of the Navy may carry out a pilot program to train individuals to become skilled technicians in critical shipbuilding skills such as welding, metrology, quality assurance, machining, and additive manufacturing.
+
+"(b)
+
+Partnerships.—In carrying out the pilot program under this section, the Secretary may partner with existing Federal or State projects relating to investment and infrastructure in training and education or workforce development, such as the National Network for Manufacturing Innovation, the Industrial Base Analysis and Sustainment program of the Department of Defense, and the National Maritime Educational Council.
+
+"(c)
+
+Termination.—The authority to carry out a pilot program under this section shall terminate on September 30, 2025.
+
+"(d)
+
+Briefings.—If the Secretary carries out a pilot program under this section, the Secretary shall provide briefings to the Committees on Armed Services of the Senate and the House of Representatives as follows:
+
+&emsp;"(1) Not later than 30 days before beginning to implement the pilot program, the Secretary shall provide a briefing on the plan, cost estimate, and schedule for the pilot program.
+
+&emsp;"(2) Not less frequently than annually during the period when the pilot program is carried out, the Secretary shall provide briefings on the progress of the Secretary in carrying out the pilot program."
+
 #### Procedures for Applications and for Consideration of Agreements
 
-Pub. L. 105–85, div. A, title X, §1027(b), Nov. 18, 1997, 111 Stat. 1880, provided that: "Not later than 30 daysafter the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of the Navy shall establish application procedures and procedures for expeditious consideration of shipbuilding capability preservation agreements as authorized by section 7315 \[now 8685\] of title 10, United States Code, as added by subsection (a)."
+Pub. L. 105–85, div. A, title X, §1027(b), Nov. 18, 1997, 111 Stat. 1880, provided that: "Not later than 30 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of the Navy shall establish application procedures and procedures for expeditious consideration of shipbuilding capability preservation agreements as authorized by section 7315 \[now 8685\] of title 10, United States Code, as added by subsection (a)."
 

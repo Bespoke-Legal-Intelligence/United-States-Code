@@ -92,9 +92,9 @@ Sense of Congress on Space Launch System, Orion, and Exploration Ground Systems.
 
 &emsp;"(3) the United States should have continuity of purpose for the Space Launch System and Orion in deep space exploration missions, using them beginning with the uncrewed mission, EM–1, planned for 2018, followed by the crewed mission, EM–2, in cis-lunar space planned for 2021, and for subsequent missions beginning with EM–3 extending into cis-lunar space and eventually to Mars;
 
-&emsp;"(4) the President's annual budget requests for the Space Launch System and Orion development, test, and operational phases should strive to accurately reflect the resource requirements of each of those phases;
+&emsp;"(4) the President's annual budget requests for the Space Launch System and Orion development, test,and operational phases should strive to accurately reflect the resource requirements of each of those phases;
 
-&emsp;"(5) the fully integrated Space Launch System, including an upper stage needed to go beyond low-Earthorbit, will safely enable human space exploration of the Moon, Mars, and beyond; and
+&emsp;"(5) the fully integrated Space Launch System, including an upper stage needed to go beyond low-Earth orbit, will safely enable human space exploration of the Moon, Mars, and beyond; and
 
 &emsp;"(6) the Administrator should budget for and undertake a robust ground test and uncrewed and crewed flight test and demonstration program for the Space Launch System and Orion in order to promote safety and reduce programmatic risk.
 
@@ -338,7 +338,7 @@ In general.—The Administrator shall—
 
 &emsp;&emsp;"(B) ensure that the results \[of\] the projects, programs, and activities under subparagraph (A) are shared and leveraged within the Administration; and
 
-&emsp;&emsp;"(C) ensure that the organizational responsibility for research and development activities in support of human space exploration not initiated as of thedate of enactment of this Act \[Mar. 21, 2017\] is established on the basis of a sound rationale.
+&emsp;&emsp;"(C) ensure that the organizational responsibility for research and development activities in support of human space exploration not initiated as of the date of enactment of this Act \[Mar. 21, 2017\] is established on the basis of a sound rationale.
 
 &emsp;"(2)
 

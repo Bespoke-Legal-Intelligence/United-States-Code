@@ -1,6 +1,6 @@
 ### §1841. Emergency Loan Guarantee Board; establishment; membership; voting
 
-There is created an Emergency Loan Guarantee Board (referred to in this chapter as the"Board") composed of the Secretary of the Treasury, as Chairman, the Chairman of the Board of Governors of the Federal Reserve System, and the Chairman of the Securities and Exchange Commission. Decisions of the Board shall be made by majority vote.
+There is created an Emergency Loan Guarantee Board (referred to in this chapter as the "Board") composed of the Secretary of the Treasury, as Chairman, the Chairman of the Board of Governors of the Federal Reserve System, and the Chairman of the Securities and Exchange Commission. Decisions of the Board shall be made by majority vote.
 
 (Pub. L. 92–70, §2, Aug. 9, 1971, 85 Stat. 178.)
 
@@ -28,7 +28,7 @@ Congressional Findings.—Congress finds that—
 
 &emsp;"(1) the United States steel industry has been severely harmed by a record surge of more than 40,000,000 tons of steel imports into the United States since 1998, caused by the world financial crisis;
 
-&emsp;"(2) this surge in imports resulted in the loss of more than 10,000 steel worker jobs since 1998, and was the imminent cause of three bankruptcies by medium-sized steel companies, Acme Steel, Laclede Steel, and Geneva Steel;
+&emsp;"(2) this surge in imports resulted in the loss of more than 10,000 steel worker jobs since 1998, and wasthe imminent cause of three bankruptcies by medium-sized steel companies, Acme Steel, Laclede Steel, and Geneva Steel;
 
 &emsp;"(3) the crisis also forced almost all United States steel companies into—
 
@@ -126,7 +126,7 @@ Loan duration.—All loans guaranteed under this section shall be payable in ful
 
 &emsp;"(2)
 
-Loan security.—Any commitment to issue a loan guarantee under this section shall contain suchaffirmative and negative covenants and other protective provisions that the Board determines are appropriate. The Board shall require security for the loans to be guaranteed under this section at the time at which the commitment is made.
+Loan security.—Any commitment to issue a loan guarantee under this section shall contain such affirmative and negative covenants and other protective provisions that the Board determines are appropriate. The Board shall require security for the loans to be guaranteed under this section at the time at which the commitment is made.
 
 &emsp;"(3)
 
@@ -254,7 +254,7 @@ Qualified oil and gas company.—The term 'qualified oil and gas company' means 
 
 &emsp;&emsp;&emsp;"(i) an independent oil and gas company (within the meaning of section 57(a)(2)(B)(i) of the Internal Revenue Code of 1986 \[26 U.S.C. 57(a)(2)(B)(i)\]); or
 
-&emsp;&emsp;&emsp;"(ii) a small business concern under section 3 of the Small Business Act (15 U.S.C. 632) (or a company based in Alaska, including an Alaska NativeCorporation created pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)) that is an oil field service company whose main business is providing tools, products, personnel, and technical solutions on a contractual basis to exploration and production operators that drill, complete wells, and produce, transport, refine, and sell hydrocarbons and their byproducts as the main commercial business of the concern or company; and
+&emsp;&emsp;&emsp;"(ii) a small business concern under section 3 of the Small Business Act (15 U.S.C. 632) (or a company based in Alaska, including an Alaska Native Corporation created pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)) that is an oil field service company whose main business is providing tools, products, personnel, and technical solutions on a contractual basis to exploration and production operators that drill, complete wells, and produce, transport, refine, and sell hydrocarbons and their byproducts as the main commercial business of the concern or company; and
 
 &emsp;&emsp;"(B) has experienced layoffs, production losses, or financial losses since the beginning of the oil import crisis, after January 1, 1997.
 
@@ -286,7 +286,7 @@ In general.—The Program may guarantee loans provided to qualified oil and gas 
 
 &emsp;"(2)
 
-Total guarantee limit.—The aggregate amount of loans guaranteed and outstanding at any one time under this section shall not exceed $500,000,000.
+Total guarantee limit.—The aggregate amount of loans guaranteed and outstanding at anyone time under this section shall not exceed $500,000,000.
 
 &emsp;"(3)
 
@@ -368,7 +368,7 @@ Sec. 301. No part of any appropriation contained in the Act shall remain availab
 
 "This Act may be cited as the 'Emergency Steel Loan Guarantee and Emergency Oil and Gas Guaranteed Loan Act of 1999'."
 
-\[Pub. L. 110–161, div. B, title I, §105(c), Dec. 26, 2007, 121 Stat. 1893, which directed amendment of section 101(c)(3)(C) of Pub. L. 106–51, set out above, by substituting "in 1998, and thereafter," for ", in 1998", wasexecuted by making the substitution for ", in January 1998" to reflect the probable intent of Congress.\]
+\[Pub. L. 110–161, div. B, title I, §105(c), Dec. 26, 2007, 121 Stat. 1893, which directed amendment of section 101(c)(3)(C) of Pub. L. 106–51, set out above, by substituting "in 1998, and thereafter," for ", in 1998", was executed by making the substitution for ", in January 1998" to reflect the probable intent of Congress.\]
 
 \[Pub. L. 107–63, title III, §336(b), Nov. 5, 2001, 115 Stat. 472, provided that: "The amendments made by this section \[amending section 101 of Pub. L. 106–51, set out above\] shall apply only with respect to any guarantee issued on or after the date of the enactment of this Act \[Nov. 5, 2001\]."\]
 

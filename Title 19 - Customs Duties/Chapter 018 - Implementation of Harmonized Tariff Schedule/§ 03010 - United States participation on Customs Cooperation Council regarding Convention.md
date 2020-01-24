@@ -2,7 +2,7 @@
 
 #### (a) Principal United States agencies
 
-(1) Subject to the policy direction of the Office of the United States Trade Representative under section 3009 of this title, the Department of the Treasury, the Department of Commerce, and the Commission shall, with respect to the activities of the Customs Cooperation Council relating to the Convention—
+(1) Subject to the policy direction of the Office of the United States Trade Representative undersection 3009 of this title, the Department of the Treasury, the Department of Commerce, and the Commission shall, with respect to the activities of the Customs Cooperation Council relating to the Convention—
 
 &emsp;(A) be primarily responsible for formulating United States Government positions on technical and procedural issues; and
 

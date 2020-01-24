@@ -24,7 +24,7 @@ Penalties.—
 
 &emsp;(1)
 
-Owner and master.—The owner and master of a vessel towing another vessel in violation of this section are each liable for a penalty of at least $350 but not more than $1,100. A penalty under this paragraph constitutes a lien on the vessel. The lien is enforceable in a district court of the United States for any district in which the vessel is found. Clearancemay not be granted to the vessel until the penalties have been paid.
+Owner and master.—The owner and master of a vessel towing another vessel in violation of this section are each liable for a penalty of at least $350 but not more than $1,100. A penalty under this paragraph constitutes a lien on the vessel. The lien is enforceable in a district court of the United States for any district in which the vessel is found. Clearance may not be granted to the vessel until the penalties have been paid.
 
 &emsp;(2)
 

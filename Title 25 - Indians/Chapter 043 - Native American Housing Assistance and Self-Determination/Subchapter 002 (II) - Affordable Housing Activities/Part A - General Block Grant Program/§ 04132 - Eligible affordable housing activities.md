@@ -64,7 +64,7 @@ This chapter, referred to in pars. (4), (6), and (7)(A), was in the original "th
 
 The Native American Housing Assistance and Self-Determination Reauthorization Act of 2002, referred to in par. (7)(A), is Pub. L. 107–292, Nov. 13, 2002, 116 Stat. 2053. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 4101 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in par. (8)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in par. (8)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see ShortTitle note set out under section 5301 of this title and Tables.
 
 #### Amendments
 

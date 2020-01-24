@@ -8,7 +8,7 @@ The Attorney General may award block grants to an eligible entity to develop, im
 
 Grants awarded under subsection (a) may be used for—
 
-&emsp;(1) the establishment or enhancement of specialized training programs for law enforcement officers, first responders, health care officials, child welfare officials, juvenile justicepersonnel, prosecutors, and judicial personnel to—
+&emsp;(1) the establishment or enhancement of specialized training programs for law enforcement officers, first responders, health care officials, child welfare officials, juvenile justice personnel, prosecutors, and judicial personnel to—
 
 &emsp;&emsp;(A) identify victims and acts of child human trafficking;
 
@@ -76,7 +76,7 @@ Grants awarded under subsection (a) may be used for—
 
 &emsp;&emsp;&emsp;(vii) job placement;
 
-&emsp;&emsp;(D) centralized case management involving the consolidation of all of each child human trafficking victim's cases and offenses, and the coordination of all trafficking victim treatment programs and social services;
+&emsp;&emsp;(D) centralized case management involving the consolidation of all of each child humantrafficking victim's cases and offenses, and the coordination of all trafficking victim treatment programs and social services;
 
 &emsp;&emsp;(E) regular and mandatory court appearances by the victim during the duration of the treatment program for purposes of ensuring compliance and effectiveness;
 
@@ -176,7 +176,7 @@ In this section—
 
 &emsp;(2) the term "child advocacy center" means a center created under subtitle A of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13001 et seq.); <sup>1</sup>
 
-&emsp;(3) the term "child human trafficking" means 1 or more severe forms of trafficking inpersons (as defined in section 7102 of title 22) involving a victim who is a child; and
+&emsp;(3) the term "child human trafficking" means 1 or more severe forms of trafficking in persons (as defined in section 7102 of title 22) involving a victim who is a child; and
 
 &emsp;(4) the term "eligible entity" means a State or unit of local government that—
 

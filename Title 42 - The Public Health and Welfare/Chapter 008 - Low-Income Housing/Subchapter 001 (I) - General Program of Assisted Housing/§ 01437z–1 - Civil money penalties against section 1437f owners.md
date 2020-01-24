@@ -58,7 +58,7 @@
 
 #### (C) Failure to review
 
-&emsp;&emsp;If the Secretary does not review that determination or order before the expiration ofthe 90-day period beginning on the date on which the determination or order is issued, the determination or order shall be final.
+&emsp;&emsp;If the Secretary does not review that determination or order before the expiration of the 90-day period beginning on the date on which the determination or order is issued, the determination or order shall be final.
 
 #### (3) Factors in determining amount of penalty
 

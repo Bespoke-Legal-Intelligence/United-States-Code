@@ -14,7 +14,7 @@ In the case of any member of a qualified volunteer emergency response organizati
 
 &emsp;(1) the deduction under 164 shall be determined with regard to any qualified State and local tax benefit, and
 
-&emsp;(2) expenses paid or incurred by the taxpayer in connection with the performance of services as such a member shall be taken into account under section 170 only to the extent such expenses exceed the amount of any qualifiedpayment excluded from gross income under subsection (a).
+&emsp;(2) expenses paid or incurred by the taxpayer in connection with the performance of services as such a member shall be taken into account under section 170 only to the extent such expenses exceed the amount of any qualified payment excluded from gross income under subsection (a).
 
 #### (c) Definitions
 
@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (B) Applicable dollar limitation
 
-&emsp;&emsp;The amount determined under subparagraph (A) for any taxable year shall not exceed $30 multiplied by the number of months during such year that the taxpayer performs such services.
+&emsp;&emsp;The amount determined under subparagraph (A) for any taxable year shall not exceed $50 multiplied by the number of months during such year that the taxpayer performs such services.
 
 #### (3) Qualified volunteer emergency response organization
 
@@ -44,9 +44,23 @@ For purposes of this section—
 
 #### (d) Termination
 
-This section shall not apply with respect to taxable years beginning after December 31, 2010.
+This section shall not apply with respect to taxable years beginning—
 
-(Added Pub. L. 110–142, §5(a), Dec. 20, 2007, 121 Stat. 1805.)
+&emsp;(1) after December 31, 2010, and before January 1, 2020, or
+
+&emsp;(2) after December 31, 2020.
+
+(Added Pub. L. 110–142, §5(a), Dec. 20, 2007, 121 Stat. 1805; amended Pub. L. 116–94, div. O, title III, §301(a), (b), Dec. 20, 2019, 133 Stat. 3175.)
+
+#### Amendments
+
+<b>2019</b>—Subsec. (c)(2). Pub. L. 116–94, §301(a), substituted "$50" for "$30".
+
+Subsec. (d). Pub. L. 116–94, §301(b), substituted "beginning—" for "beginning after December 31, 2010." and added pars. (1) and (2).
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–94, div. O, title III, §301(d), Dec. 20, 2019, 133 Stat. 3175, provided that: "The amendments made by this section \[amending this section and section 3121 of this title\] shall apply to taxable years beginning after December 31, 2019."
 
 #### Effective Date
 

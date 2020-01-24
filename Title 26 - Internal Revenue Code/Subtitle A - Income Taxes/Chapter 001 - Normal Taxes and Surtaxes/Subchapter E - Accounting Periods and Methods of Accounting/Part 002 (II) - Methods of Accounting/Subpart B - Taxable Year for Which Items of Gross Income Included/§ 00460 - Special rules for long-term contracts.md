@@ -10,7 +10,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;Except as provided in paragraph (3), in the case of any long-term contract with respect to which the percentage of completion method is used—
 
-&emsp;&emsp;(A) the percentage of completion shall be determined by comparing costs allocated to the contract under subsection (c) and incurred before the close of the taxable year with the estimated total contract costs, and
+&emsp;&emsp;(A) the percentage of completion shall be determined by comparing costs allocated tothe contract under subsection (c) and incurred before the close of the taxable year with the estimated total contract costs, and
 
 &emsp;&emsp;(B) upon completion of the contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest computed under the look-back method of paragraph (2).
 
@@ -26,7 +26,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;(C) then using the adjusted overpayment rate (as defined in paragraph (7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
 
-> &emsp;For purposes of the preceding sentence, any amount properly taken into account aftercompletion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was properly taken into account) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract.
+> &emsp;For purposes of the preceding sentence, any amount properly taken into account after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was properly taken into account) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract.
 
 #### (3) Special rules
 
@@ -398,7 +398,7 @@ Subsec. (e)(6)(B). Pub. L. 104–188, §1702(h)(15), substituted "section 168(e)
 
 <b>1990</b>—Subsec. (e)(6)(A)(i). Pub. L. 101–508 substituted "section 168(e)(2)(A)(ii)" for "section 167(k)".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7621(a), substituted "Requirement that percentage of completion methodbe used" for "Percentage of completion-capitalized cost method" in heading and amended text generally. Prior to amendment, text read as follows:
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7621(a), substituted "Requirement that percentage of completion method be used" for "Percentage of completion-capitalized cost method" in heading and amended text generally. Prior to amendment, text read as follows:
 
 "(1)
 
@@ -502,7 +502,7 @@ Amendment by section 13201 of Pub. L. 115–97 applicable to property acquired a
 
 #### Effective Date of 2015 Amendment
 
-Amendment by section 143(a)(2) of Pub. L. 114–113 applicable to property placed in service after Dec. 31, 2014,in taxable years ending after such date, see section 143(a)(5) of Pub. L. 114–113, set out as a note under section 168 of this title.
+Amendment by section 143(a)(2) of Pub. L. 114–113 applicable to property placed in service after Dec. 31, 2014, in taxable years ending after such date, see section 143(a)(5) of Pub. L. 114–113, set out as a note under section 168 of this title.
 
 Amendment by section 143(b)(6)(I) of Pub. L. 114–113 applicable to property placed in service after Dec. 31, 2015, in taxable years ending after such date, see section 143(b)(7) of Pub. L. 114–113, set out as a note under section 168 of this title.
 

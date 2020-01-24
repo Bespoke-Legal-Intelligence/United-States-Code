@@ -14,7 +14,7 @@
 
 > However, no allowance for travel on discharge may be paid to a discharged cadet or midshipman who continues his scholastic instruction at the same educational institution.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 479; Pub. L. 88–647, title II, §202(4), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §63, Nov. 2, 1966, 80 Stat. 1123;Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 479; Pub. L. 88–647, title II, §202(4), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 Historical and Revision Notes
 

@@ -22,7 +22,7 @@ Individual Described.—An individual described in this subsection is an individ
 
 Premium.—(1) The Secretary shall prescribe by regulation a premium (or premiums) for coverage under the TRICARE program provided pursuant to this section to an individual described in subsection (b). Such premium shall apply instead of any enrollment fees required under section 1075 or 1075a of this title, as appropriate.
 
-(2) The monthly amount of the premium in effect for a month for coverage under the TRICARE program pursuant to this section shall be the amount equal to the cost of such coverage that the Secretary determines on an appropriate actuarial basis.
+(2) The monthly amount of the premium in effect for a month for coverage under the TRICARE program pursuant to this sectionshall be the amount equal to the cost of such coverage that the Secretary determines on an appropriate actuarial basis.
 
 (3) The Secretary shall prescribe the requirements and procedures applicable to the payment of premiums under this subsection.
 

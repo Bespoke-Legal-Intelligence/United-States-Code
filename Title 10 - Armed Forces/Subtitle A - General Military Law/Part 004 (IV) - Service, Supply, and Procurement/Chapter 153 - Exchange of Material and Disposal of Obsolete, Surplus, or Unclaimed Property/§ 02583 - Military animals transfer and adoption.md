@@ -2,27 +2,27 @@
 
 (a)
 
-Availability for Adoption.—The Secretary of the military department concerned shall make a military animal of such military department available for adoption by a person or entity referred to in subsection (c), unless the animal has been determined to be unsuitable for adoption under subsection (b), under circumstances as follows:
+Availability for Transfer or Adoption.—The Secretary of the military department concerned shall make a military animal of such military department available for transfer or adoption by a person or entity referred to in subsection (c), unless the animal has been determined to be unsuitable for transfer or adoption under subsection (b), under circumstances as follows:
 
 &emsp;(1) At the end of the animal's useful life.
 
-&emsp;(2) Before the end of the animal's useful life, if such Secretary, in such Secretary's discretion, determines that unusual or extraordinary circumstances, including circumstances under which the handler of a military working dog is killed in action, dies of wounds received in action, or is medically retired as a result of injuries received in action, justify making the animal available for adoption before that time.
+&emsp;(2) Before the end of the animal's useful life, if such Secretary, in such Secretary's discretion, determines that unusual or extraordinary circumstances, including circumstances under which the handler of a military working dog is killed in action, dies of wounds received in action, or is medically retired as a result of injuries received in action, justify making the animal available for transfer or adoption before that time.
 
 &emsp;(3) When the animal is otherwise excess to the needs of such military department.
 
 (b)
 
-Suitability for Adoption.—The decision whether a particular military animal is suitable or unsuitable for adoption under this section shall be made by the commander of the last unit to which the animal is assigned before being declared excess. The unit commander shall consider the recommendations of the unit's veterinarian in making the decision regarding the adoptability of the animal.
+Suitability for Transfer or Adoption.—The decision whether a particular military animal is suitable or unsuitable for transfer or adoption under this section shall be made by the commander of the last unit to which the animal is assigned before being declared excess. The unit commander shall consider the recommendations of the unit's veterinarian in making the decision regarding the transferability or adoptability of the animal.
 
 (c)
 
-Authorized Recipients.—(1) A military animal shall be made available for adoption under this section, in order of recommended priority—
+Authorized Recipients.—(1) A military animal shall be made available for transfer or adoption under this section, in order of recommended priority, by—
 
-&emsp;(A) by former handlers of the animal;
+&emsp;(A) adoption by former handlers of the animal;
 
-&emsp;(B) by other persons capable of humanely caring for the animal; and
+&emsp;(B) adoption by other persons or organizations capable of humanely caring for the animal; and
 
-&emsp;(C) by law enforcement agencies.
+&emsp;(C) transfer to law enforcement agencies.
 
 (2) If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog shall be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.
 
@@ -32,51 +32,79 @@ Consideration.—The transfer of a military animal under this section may be wit
 
 (e)
 
-Limitations on Liability for Transferred Animals.—(1) Notwithstanding any other provision of law, the United States shall not be subject to any suit, claim, demand or action, liability, judgment, cost, or other fee arising out of any claim for personal injury or property damage (including death, illness, or loss of or damage to property or other economic loss) that results from, or is in any manner predicated upon, the act or omission of a former military animal transferred under this section, including any training provided to the animal while a military animal.
+Limitations on Liability for Transferred or Adopted Animals.—(1) Notwithstanding any other provision of law, the United States shall not be subject to any suit, claim, demand or action, liability, judgment, cost, or other fee arising out of any claim for personal injury or property damage (including death, illness, or loss of or damage to property or other economic loss) that results from, or is in any manner predicated upon, the act or omission of a former military animal transferred or adopted under this section, including any training provided to the animal while a military animal.
 
-(2) Notwithstanding any other provision of law, the United States shall not be liable for any veterinary expense associated with a military animal transferred under this section for a condition of the military animal before transfer under this section, whether or not such condition is known at the time of transfer under this section.
+(2) Notwithstanding any other provision of law, the United States shall not be liable for any veterinary expense associated with a military animal transferred or adopted under this section for a condition of the military animal before transfer or adoption under this section, whether or not such condition is known at the time of transfer or adoption under this section.
 
 (f)
 
-Transfer of Retired Military Working Dogs.—(1) If the Secretary of the military department concerned determines that a military working dog should be retired the Secretary shall transfer the dog—
+Veterinary Screening and Care for Military Working Dogs To Be Retired.—(1)(A) If the Secretary of the military department concerned determines that a military working dog should be retired, such Secretary shall transport the dog to the Veterinary Treatment Facility at Lackland Air Force Base, Texas.
 
-&emsp;(A) to the 341st Training Squadron; or
+(B) In the case of a contract working dog to be retired, transportation required by subparagraph (A) is satisfied by the transfer of the dog to the 341st Training Squadron at the end of the dog's service life as required by section 2410r of this title and assignment of the dog to the Veterinary Treatment Facility referred to in that subparagraph.
 
-&emsp;(B) to another location within the United States for adoption under this section.
+(2)(A) The Secretary of Defense shall ensure that each dog transported as described in paragraph (1) to the Veterinary Treatment Facility referred to in that paragraph is provided with a full veterinary screening, and necessary veterinary care (including surgery for any mental, dental, or stress-related illness), before transportation of the dog in accordance with subsection (g).
 
-(2) Paragraph (1) shall not apply if at the time of retirement—
+(B) For purposes of this paragraph, stress-related illness includes illness in connection with post-traumatic stress, anxiety that manifests in a physical ailment, obsessive compulsive behavior, and any other stress-related ailment.
 
-&emsp;(A) the dog is located outside the United States and a United States citizen or service member living abroad adopts the dog; or
-
-&emsp;(B) the dog is located within the United States and suitable adoption is available where the dog is located.
-
-(3)(A) In the case of a military working dog located outside the continental United States at the time of retirement that is suitable for adoption at that time, the Secretary of the military department concerned shall undertake transportation of the dog to the continental United States (including transportation by contract at United States expense) for adoption under this section unless—
-
-&emsp;(i) the dog is adopted as described in paragraph (2)(A); or
-
-&emsp;(ii) transportation of the dog to the continental United States would not be in the best interests of the dog for medical reasons.
-
-(B) Nothing in this paragraph shall be construed to alter the preference in adoption of retired military working dogs for former handlers as set forth in subsection (g).
+(3) Transportation is not required under paragraph (1), and screening and care is not required under paragraph (2), for a military working dog located outside the United States if the Secretary of the military department concerned determines that transportation of the dog to the United States would not be in the best interests of the dog for medical reasons.
 
 (g)
+
+Transportation of Retiring Military Working Dogs.—Upon completion of veterinary screening and care for a military working dog to be retired pursuant to subsection (f), the Secretary of the military department concerned shall—
+
+&emsp;(1) if the dog was at a location outside the United States immediately prior to transportation for such screening and care and a United States citizen or member of the armed forces living abroad agrees to adopt the dog, transport the dog to such location for adoption; or
+
+&emsp;(2) for any other dog, transport the dog—
+
+&emsp;&emsp;(A) to the 341st Training Squadron; <sup>1</sup>
+
+&emsp;&emsp;(B) to another location within the United States for transfer or adoption under this section.
+
+(h)
 
 Preference in Adoption of Retired Military Working Dogs for Former Handlers.—(1) In providing for the adoption under this section of a retired military working dog described in paragraph (1) or (3) of subsection (a), the Secretary of the military department concerned shall accord a preference to the former handler of the dog unless the Secretary determines that adoption of the dog by the former handler would not be in the best interests of the dog.
 
 (2) In the case of a dog covered by paragraph (1) with more than one former handler seeking adoption of the dog at the time of adoption, the Secretary shall provide for the adoption of the dog by such former handler whose adoption of the dog will best serve the interests of the dog and such former handlers. The Secretary shall make any determination required by this paragraph with respect to a dog following consultation with the kennel master of the unit at which the dog was last located before adoption under this section.
 
-(3) Nothing in this subsection shall be construed as altering, revising, or overriding any policy of a military department for the adoption of military working dogs by law enforcement agencies before the end of the dogs' useful lives.
+(3) Nothing in this subsection shall be construed as altering, revising, or overriding any policy of a military department for the transfer of military working dogs to law enforcement agencies before the end of the dogs' useful working lives.
 
-(h)
+(i)
 
 Military Animal Defined.—In this section, the term "military animal" means the following:
 
 &emsp;(1) A military working dog, which may include a contract working dog (as such term is defined in section 2410r) that has been transferred to the 341st Training Squadron.
 
-&emsp;(2) A horse owned by the Department of Defense.
+&emsp;(2) An equid (horse, mule, or donkey) owned by the Department of Defense.
 
-(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, §1063(a)(13), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title III, §351, title X, §1061(20), Dec. 31, 2011, 125 Stat. 1375, 1584; Pub. L. 112–239, div. A, title III, §371(a), Jan. 2, 2013, 126 Stat. 1706; Pub. L. 113–66, div. A, title X, §1091(b)(2), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–92, div. A, title III, §342, Nov. 25, 2015, 129 Stat. 793; Pub. L. 114–328, div. A, title III, §342(b), Dec. 23, 2016, 130 Stat. 2082; Pub. L. 115–232, div. A, title III, §352, Aug. 13, 2018, 132 Stat. 1731.)
+(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, §1063(a)(13), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title III, §351, title X, §1061(20), Dec. 31, 2011, 125 Stat. 1375, 1584; Pub. L. 112–239, div. A, title III, §371(a), Jan. 2, 2013, 126 Stat. 1706; Pub. L. 113–66, div. A, title X, §1091(b)(2), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–92, div. A, title III, §342, Nov. 25, 2015, 129 Stat. 793; Pub. L. 114–328, div. A, title III, §342(b), Dec. 23, 2016, 130 Stat. 2082; Pub. L. 115–232, div. A, title III, §352, Aug. 13, 2018, 132 Stat. 1731; Pub. L. 116–92, div. A, title III, §372(a)–(e), Dec. 20, 2019, 133 Stat. 1330, 1331.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–92, §372(a)(1), inserted "Transfer or" before "Adoption" in heading and substituted "transfer or adoption" for "adoption" wherever appearing.
+
+Subsec. (b). Pub. L. 116–92, §372(a)(2), inserted "Transfer or" before "Adoption" in heading and substituted "transfer or adoption" for "adoption" in first sentence and "transferability or adoptability" for "adoptability" in second sentence.
+
+Subsec. (c)(1). Pub. L. 116–92, §372(a)(3)(A), inserted "transfer or" before "adoption" and ", by" after "recommended priority" in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 116–92, §372(a)(3)(B), inserted "adoption" before "by".
+
+Subsec. (c)(1)(B). Pub. L. 116–92, §372(a)(3)(B), (C), inserted "adoption" before "by" and "or organizations" after "persons".
+
+Subsec. (c)(1)(C). Pub. L. 116–92, §372(a)(3)(D), substituted "transfer to" for "by".
+
+Subsec. (e). Pub. L. 116–92, §372(a)(4), inserted "or Adopted" after "Transferred" in heading and substituted "transferred or adopted" for "transferred" in pars. (1) and (2), and "transfer or adoption" for "transfer" in two places in par. (2).
+
+Subsec. (f). Pub. L. 116–92, §372(b)(2), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 116–92, §372(b)(1), (c), redesignated subsec. (f) as (g) and amended it generally. Prior to amendment, subsec. consisted of pars. (1) to (3) relating to transfer of retired military working dogs. Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 116–92, §372(b)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+
+Subsec. (h)(3). Pub. L. 116–92, §372(d), substituted "transfer of military working dogs to law enforcement agencies before the end of the dogs' useful working lives." for "adoption of military working dogs by law enforcement agencies before the end of the dogs' useful lives."
+
+Subsec. (i). Pub. L. 116–92, §372(b)(1), redesignated subsec. (h) as (i).
+
+Subsec. (i)(2). Pub. L. 116–92, §372(e), added par. (2) and struck out former par. (2) which read as follows: "A horse owned by the Department of Defense."
 
 <b>2018</b>—Subsec. (f)(3). Pub. L. 115–232 added par. (3).
 
@@ -138,5 +166,7 @@ Subsec. (g). Pub. L. 109–364, §352(a)(6), added subsec. (g).
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–66, div. A, title X, §1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendmentmade by section 1091(b)(2) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
+Pub. L. 113–66, div. A, title X, §1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(2) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "or".</i>
 

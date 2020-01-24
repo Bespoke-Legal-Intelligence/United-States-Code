@@ -188,7 +188,7 @@ For purposes of subsection (a)—
 
 #### (B) Termination
 
-&emsp;&emsp;If a corporation which made an election under paragraph (1) for any taxable year fails to meet the requirements of subparagraphs (A), (B), and (C), of paragraph (1) for any subsequent taxable year, such election shall not apply to any taxable year beginning after such subsequent taxable year.
+&emsp;&emsp;If a corporation which made an election under paragraph (1) for any taxable year fails to meet the requirements of subparagraphs (A), (B), and (C), of paragraph (1) for any subsequent taxable year, such electionshall not apply to any taxable year beginning after such subsequent taxable year.
 
 #### (3) Treatment of losses
 
@@ -204,7 +204,7 @@ For purposes of subsection (a)—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Earnings and profits of the foreign corporation accumulated in taxable years beginning before January 1, 1988, shall not beincluded in the gross income of the persons holding stock in such corporation by reason of subparagraph (A).
+&emsp;&emsp;&emsp;Earnings and profits of the foreign corporation accumulated in taxable years beginning before January 1, 1988, shall not be included in the gross income of the persons holding stock in such corporation by reason of subparagraph (A).
 
 #### (ii) Treatment of distributions
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (ii) Applicable home country risks
 
-&emsp;&emsp;&emsp;The term "applicable home country risks" means risks in connection withproperty in, liability arising out of activity in, or the lives or health of residents of, the home country of the qualifying insurance company or qualifying insurance company branch, as the case may be, issuing or reinsuring the contract covering the risks.
+&emsp;&emsp;&emsp;The term "applicable home country risks" means risks in connection with property in, liability arising out of activity in, or the lives or health of residents of, the home country of the qualifying insurance company or qualifying insurance company branch, as the case may be, issuing or reinsuring the contract covering the risks.
 
 #### (C) Substantial activity requirements for cross border risks
 
@@ -360,7 +360,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any policyholder, insured, annuitant, or beneficiary is a resident of the United States and such contract was marketed to such resident and was written to cover a risk outside the United States, or
 
-&emsp;&emsp;&emsp;(ii) the contract covers risks located within and without the United States and the qualifying insurance company or qualifying insurance company branch does not maintain such contemporaneousrecords, and file such reports, with respect to such contract as the Secretary may require,
+&emsp;&emsp;&emsp;(ii) the contract covers risks located within and without the United States and the qualifying insurance company or qualifying insurance company branch does not maintain such contemporaneous records, and file such reports, with respect to such contract as the Secretary may require,
 
 &emsp;&emsp;(E) the Secretary may prescribe rules for the allocation of contracts (and income from contracts) among 2 or more qualifying insurance company branches of a qualifying insurance company in order to clearly reflect the income of such branches, and
 

@@ -84,7 +84,7 @@ Unless expressly provided otherwise, any reference in this subchapter to any pro
 
 &emsp;(A) conduct a study on the compliance of the Bureau with the obligation to offset award amounts under section 10281(f)(3) of this title; and
 
-&emsp;(B) submit to Congress a report on the study conducted under subparagraph (A) that includes an assessment of whether the Bureau has provided the information required undersubparagraph (B)(ix) <sup>1</sup> of paragraph (2) of this subsection in each report required under that paragraph.
+&emsp;(B) submit to Congress a report on the study conducted under subparagraph (A) that includes an assessment of whether the Bureau has provided the information required under subparagraph (B)(ix) <sup>1</sup> of paragraph (2) of this subsection in each report required under that paragraph.
 
 (4) In this subsection, the term "nature of the claim" means whether the claim is a claim for—
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 115–36 effective June 2, 2017, and applicable to any bene
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
+Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, orfiled or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably means subpar. (I) of par. (2).</i>
 

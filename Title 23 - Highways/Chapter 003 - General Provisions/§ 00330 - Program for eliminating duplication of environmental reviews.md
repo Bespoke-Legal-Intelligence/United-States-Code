@@ -140,7 +140,7 @@ Notification.—The State shall notify the Secretary of the final action of the 
 
 &emsp;&emsp;&emsp;(ii)
 
-Publication.—The Secretary shall publish the notice of final action in the Federal Register not later than 30 days after the date of receipt of the notice under clause (i).
+Publication.—The Secretary shall publish the notice of final action in theFederal Register not later than 30 days after the date of receipt of the notice under clause (i).
 
 &emsp;&emsp;(C)
 
@@ -258,7 +258,7 @@ Project.—The term "project" means—
 
 &emsp;&emsp;(B) a multimodal project.
 
-(Added Pub. L. 114–94, div. A, title I, §1309(b), Dec. 4, 2015, 129 Stat. 1392; amended Pub. L. 115–254, div. B, title V, §578, Oct. 5, 2018, 132 Stat. 3394.)
+(Added Pub. L. 114–94, div. A, title I, §1309(b), Dec. 4, 2015, 129 Stat. 1392; amended Pub. L.115–254, div. B, title V, §578, Oct. 5, 2018, 132 Stat. 3394.)
 
 #### References in Text
 

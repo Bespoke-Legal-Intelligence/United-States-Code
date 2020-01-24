@@ -48,7 +48,7 @@ The purpose of the Office of the Inspector General of the Intelligence Community
 
 Subject to the policies of the Director of National Intelligence, the Inspector General of the Intelligence Community shall—
 
-&emsp;(1) appoint an Assistant Inspector General for Audit who shall have the responsibility for supervising the performance of auditing activities relating to programs and activities within the responsibility and authority of the Director;
+&emsp;(1) appoint an Assistant Inspector General for Audit who shall have the responsibility forsupervising the performance of auditing activities relating to programs and activities within the responsibility and authority of the Director;
 
 &emsp;(2) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and activities; and
 
@@ -70,7 +70,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (1) The Director of National Intelligence may prohibit the Inspector General of the Intelligence Community from initiating, carrying out, or completing any investigation, inspection, audit, or review if the Director determines that such prohibition is necessary to protect vital national security interests of the United States.
 
-(2) Not later than seven days after the date on which the Director exercises the authorityunder paragraph (1), the Director shall submit to the congressional intelligence committees an appropriately classified statement of the reasons for the exercise of such authority.
+(2) Not later than seven days after the date on which the Director exercises the authority under paragraph (1), the Director shall submit to the congressional intelligence committees an appropriately classified statement of the reasons for the exercise of such authority.
 
 (3) The Director shall advise the Inspector General at the time a statement under paragraph (2) is submitted, and, to the extent consistent with the protection of intelligence sources and methods, provide the Inspector General with a copy of such statement.
 
@@ -94,7 +94,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 &emsp;(A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken, and this provision shall qualify as a withholding statute pursuant to subsection (b)(3) of section 552 of title 5 (commonly known as the "Freedom of Information Act"); and
 
-&emsp;(B) no action constituting a reprisal, or threat of reprisal, for making such complaint or disclosing such information to the Inspector General may be taken by any employee in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+&emsp;(B) no action constituting a reprisal, or threat of reprisal, for making such complaint or disclosing such information to the Inspector General may be taken by any employee in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was falseor with willful disregard for its truth or falsity.
 
 (4) The Inspector General shall have the authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of the duties of the Inspector General, which oath, affirmation, or affidavit when administered or taken by or before an employee of the Office of the Inspector General of the Intelligence Community designated by the Inspector General shall have the same force and effect as if administered or taken by, or before, an officer having a seal.
 
@@ -178,7 +178,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (2)(A) The Inspector General shall report immediately to the Director whenever the Inspector General becomes aware of particularly serious or flagrant problems, abuses, or deficiencies relating to programs and activities within the responsibility and authority of the Director of National Intelligence.
 
-(B) The Director shall transmit to the congressional intelligence committees each report under subparagraph (A) within 7 calendar days of receipt of such report, together with such comments as the Director considers appropriate. The Director shall transmit to the committees of the Senate and of the House of Representatives with jurisdiction over a department of the United States Government any portion of each report under subparagraph (A) that involves a problem, abuse, or deficiency related to a component of such department simultaneously with transmission of the report to the congressional intelligence committees.
+(B) The Director shall transmit to the congressional intelligence committees each reportunder subparagraph (A) within 7 calendar days of receipt of such report, together with such comments as the Director considers appropriate. The Director shall transmit to the committees of the Senate and of the House of Representatives with jurisdiction over a department of the United States Government any portion of each report under subparagraph (A) that involves a problem, abuse, or deficiency related to a component of such department simultaneously with transmission of the report to the congressional intelligence committees.
 
 (3)(A) In the event that—
 
@@ -226,7 +226,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (G) In this paragraph, the term "urgent concern" means any of the following:
 
-&emsp;(i) A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operation of an intelligence activity within the responsibility and authority of the Director of National Intelligence involving classified information, but does not include differences of opinions concerning public policy matters.
+&emsp;(i) A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operation of an intelligence activity within theresponsibility and authority of the Director of National Intelligence involving classified information, but does not include differences of opinions concerning public policy matters.
 
 &emsp;(ii) A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
 
@@ -284,7 +284,7 @@ The Director of National Intelligence shall, in accordance with procedures issue
 
 (2) The information referred to in paragraph (1) shall be obvious and facilitate accessibility to the information related to the Office of the Inspector General of the Intelligence Community.
 
-(July 26, 1947, ch. 343, title I, §103H, as added Pub. L. 111–259, title IV, §405(a)(1), Oct. 7, 2010, 124 Stat. 2709; amended Pub. L. 112–87, title IV, §403, Jan. 3, 2012, 125 Stat. 1888; Pub. L. 112–277, title III, §309(a), Jan. 14, 2013, 126 Stat. 2474; Pub. L. 113–126, title III, §304, title VI, §603(c), July 7, 2014, 128 Stat. 1395, 1421; Pub. L. 114–113, div. M, title III, §303, Dec. 18, 2015, 129 Stat. 2913.)
+(July 26, 1947, ch. 343, title I, §103H, as added Pub. L. 111–259, title IV, §405(a)(1), Oct. 7, 2010, 124 Stat. 2709; amended Pub. L. 112–87, title IV, §403, Jan. 3, 2012, 125 Stat. 1888; Pub. L. 112–277,title III, §309(a), Jan. 14, 2013, 126 Stat. 2474; Pub. L. 113–126, title III, §304, title VI, §603(c), July 7, 2014, 128 Stat. 1395, 1421; Pub. L. 114–113, div. M, title III, §303, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 116–92, div. E, title LXVI, §6605(c), Dec. 20, 2019, 133 Stat. 2215.)
 
 #### References in Text
 
@@ -295,6 +295,8 @@ Section 8H of the Inspector General Act of 1978, referred to in subsec. (k)(5)(H
 Section was formerly classified to section 403–3h of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (j)(4)(A). Pub. L. 116–92 made technical amendment to reference in original act which appears in text as reference to section 3164 of this title.
 
 <b>2015</b>—Subsec. (j)(4)(A). Pub. L. 114–113, §303(1), substituted "any Federal, State (as defined in section 3164 of this title), or local governmental agency or unit thereof" for "any department, agency, or other element of the United States Government".
 
@@ -311,6 +313,54 @@ Subsec. (k)(5)(I). Pub. L. 113–126, §603(c), added subpar. (I).
 #### Construction
 
 Pub. L. 111–259, title IV, §405(c), Oct. 7, 2010, 124 Stat. 2719, provided that: "Nothing in the amendment made by subsection (a)(1) \[enacting this section\] shall be construed to alter the duties and responsibilities of the General Counsel of the Office of the Director of National Intelligence."
+
+#### Oversight by Inspector General of the Intelligence Community Over Intelligence Community Whistleblower Matters
+
+Pub. L. 116–92, div. E, title LIII, §5334, Dec. 20, 2019, 133 Stat. 2141, provided that:
+
+"(a)
+
+System for Notification of Information Relating to Complaints by Whistleblowers Within the Intelligence Community.—Subject to subsection (b), not later than 1 year after the date of the enactment of this Act \[Dec. 20, 2019\], the Inspector General of the Intelligence Community, in consultation with the Intelligence Community Inspectors General Forum, shall establish a system whereby the Inspector General of the Intelligence Community is notified in near real time of the following:
+
+&emsp;"(1) Submission of complaints by whistleblowers to inspectors general of elements of the intelligence community relating to the programs and activities under the jurisdiction of the Director of National Intelligence, and information related to such complaints.
+
+&emsp;"(2) Actions taken by an inspector general of an element of the Intelligence Community relating to such complaints.
+
+"(b)
+
+Policies for Implementation.—
+
+&emsp;"(1)
+
+In general.—The system established under subsection (a) may not be implemented until the Inspector General of the Intelligence Community, in consultation with the Intelligence Community Inspectors General Forum, has developed and released to each of the inspectors general of the elements of the intelligence community written policies regarding the implementation of such subsection.
+
+&emsp;"(2)
+
+Requirements.—The policies required by paragraph (1) shall—
+
+&emsp;&emsp;"(A) protect the privacy of whistleblowers, including by preventing dissemination without the consent of the whistleblower, of any information submitted previously by a whistleblower to an inspector general of an element of the intelligence community; and
+
+&emsp;&emsp;"(B) ensure compliance with the requirements of subsection (a), while—
+
+&emsp;&emsp;&emsp;"(i) ensuring that the Inspector General of the Intelligence Community can oversee whistleblower policies and practices and identify matters that, in the judgment of the Inspector General of the Intelligence Community, may be the subject of an investigation, inspection, audit, or review by the Inspector General of the Intelligence Community; and
+
+&emsp;&emsp;&emsp;"(ii) avoiding the imposition of inappropriate resource burdens on inspectors general of elements of the intelligence community."
+
+\[For definition of "whistleblower" as used in section 5334 of Pub. L. 116–92, set out above, see section 5331 of Pub. L. 116–92, set out below.\]
+
+\[For definition of "intelligence community" as used in section 5334 of Pub. L. 116–92, set out above, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.\]
+
+#### Definitions
+
+Pub. L. 116–92, div. E, title LIII, §5331, Dec. 20, 2019, 133 Stat. 2137, provided that: "In this subtitle \[subtitle C (§§5331—5335) of title LIII of div. E of Pub. L. 116–92, enacting section 3236 of this title and provisions set out as a note above\]:
+
+&emsp;"(1)
+
+Whistleblower.—The term 'whistleblower' means a person who makes a whistleblower disclosure.
+
+&emsp;"(2)
+
+Whistleblower disclosure.—The term 'whistleblower disclosure' means a disclosure that is protected under section 1104 of the National Security Act of 1947 (50 U.S.C. 3234) or section 3001(j)(1) of the Intelligence Reform and Terrorism Prevention Act of 2004 (50 U.S.C. 3341(j))."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "involve".</i>
 

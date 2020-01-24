@@ -6,7 +6,7 @@ The Secretary shall initiate and maintain, in cooperation with the Councils, a c
 
 #### (b) Strategic plan
 
-Within one year after October 11, 1996, and at least every 3 years thereafter, the Secretaryshall develop and publish in the Federal Register a strategic plan for fisheries research for the 5 years immediately following such publication. The plan shall—
+Within one year after October 11, 1996, and at least every 3 years thereafter, the Secretary shall develop and publish in the Federal Register a strategic plan for fisheries research for the 5 years immediately following such publication. The plan shall—
 
 &emsp;(1) identify and describe a comprehensive program with a limited number of priority objectives for research in each of the areas specified in subsection (c);
 
@@ -68,27 +68,9 @@ A prior section 404 of Pub. L. 94–265, amended section 1362 of this title and 
 
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Study of Contribution of Bycatch to Charitable Organizations
 
-Pub. L. 104–297, title II, §208, Oct. 11, 1996, 110 Stat. 3614, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
-
-"(a)
-
-Study.—The Secretary of Commerce shall conduct a study of the contribution of bycatch to charitable organizations by commercial fishermen. The study shall include determinations of—
-
-&emsp;"(1) the amount of bycatch that is contributed each year to charitable organizations by commercial fishermen;
-
-&emsp;"(2) the economic benefits to commercial fishermen from those contributions; and
-
-&emsp;"(3) the impact on fisheries of the availability of those benefits.
-
-"(b)
-
-Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Secretary of Commerce shall submit to the Congress a report containing determinations made in the study under subsection (a).
-
-"(c)
-
-Bycatch Defined.—In this section the term 'bycatch' has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1802\], as amended by section 102 of this Act."
+Pub. L. 104–297, title II, §208, Oct. 11, 1996, 110 Stat. 3614, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the Secretary of Commerce was to conduct a study, to be submitted to Congress by 1 year after Oct. 11, 1996, of the contribution of bycatch to charitable organizations by commercial fishermen, including determinations of the amount contributed each year, the economic benefits to commercial fishermen from those contributions, and the impact on fisheries of the availability of those benefits.
 

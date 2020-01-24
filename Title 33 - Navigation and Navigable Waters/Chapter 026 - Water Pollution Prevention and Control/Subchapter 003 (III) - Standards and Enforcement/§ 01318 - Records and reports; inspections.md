@@ -2,7 +2,7 @@
 
 #### (a) Maintenance; monitoring equipment; entry; access to information
 
-Whenever required to carry out the objective of this chapter, including but not limited to (1) developing or assisting in the development of any effluent limitation, or other limitation, prohibition, or effluent standard, pretreatment standard, or standard of performance under this chapter; (2) determining whether any person is in violation of any such effluent limitation, or other limitation, prohibition or effluent standard, pretreatment standard, or standard of performance; (3) any requirement established under this section; or (4) carrying out sections 1315, 1321, 1342, 1344 (relating to State permit programs), 1345, and 1364 of this title—
+Whenever required to carry out the objective of this chapter, including but not limited to (1)developing or assisting in the development of any effluent limitation, or other limitation, prohibition, or effluent standard, pretreatment standard, or standard of performance under this chapter; (2) determining whether any person is in violation of any such effluent limitation, or other limitation, prohibition or effluent standard, pretreatment standard, or standard of performance; (3) any requirement established under this section; or (4) carrying out sections 1315, 1321, 1342, 1344 (relating to State permit programs), 1345, and 1364 of this title—
 
 &emsp;(A) the Administrator shall require the owner or operator of any point source to (i) establish and maintain such records, (ii) make such reports, (iii) install, use, and maintain such monitoring equipment or methods (including where appropriate, biological monitoring methods), (iv) sample such effluents (in accordance with such methods, at such locations, at such intervals, and in such manner as the Administrator shall prescribe), and (v) provide such other information as he may reasonably require; and
 
@@ -22,7 +22,7 @@ Each State may develop and submit to the Administrator procedures under State la
 
 #### (d) Access by Congress
 
-Notwithstanding any limitation contained in this section or any other provision of law, all information reported to or otherwise obtained bythe Administrator (or any representative of the Administrator) under this chapter shall be made available, upon written request of any duly authorized committee of Congress, to such committee.
+Notwithstanding any limitation contained in this section or any other provision of law, all information reported to or otherwise obtained by the Administrator (or any representative of the Administrator) under this chapter shall be made available, upon written request of any duly authorized committee of Congress, to such committee.
 
 (June 30, 1948, ch. 758, title III, §308, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 858; amended Pub. L. 95–217, §67(c)(1), Dec. 27, 1977, 91 Stat. 1606; Pub. L. 100–4, title III, §310, title IV, §406(d)(1), Feb. 4, 1987, 101 Stat. 41, 73.)
 

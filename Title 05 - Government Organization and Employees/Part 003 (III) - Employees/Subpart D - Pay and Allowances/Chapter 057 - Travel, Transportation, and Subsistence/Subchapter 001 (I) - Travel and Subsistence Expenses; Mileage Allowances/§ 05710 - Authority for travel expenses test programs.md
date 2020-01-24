@@ -12,7 +12,7 @@
 
 (d) No more than 10 test programs under this section may be conducted simultaneously.
 
-(e) The authority to conduct test programs under this section shall expire 7 years after thedate of the enactment of the Travel and Transportation Reform Act of 1998.
+(e) The authority to conduct test programs under this section shall expire 7 years after the date of the enactment of the Travel and Transportation Reform Act of 1998.
 
 (Added Pub. L. 105–264, §5(a), Oct. 19, 1998, 112 Stat. 2354.)
 

@@ -12,7 +12,7 @@
 
 #### (3) Appointed members
 
-&emsp;In consultation with the Association, the Secretary shall appoint to the advisory committee two representatives from the Survey (including the Associate Director for Geology, as Chair), two representatives from the State geological surveys, one representative from academia, and 2 representatives from the private sector.
+&emsp;In consultation with the Association, the Secretary shall appoint to the advisory committee two representatives from the Survey (including the Associate Director for Core Science Systems, as Chair), two representatives from the State geological surveys, one representative from academia, and 2 representatives from the private sector.
 
 #### (b) Duties
 
@@ -26,9 +26,11 @@ The advisory committee shall—
 
 &emsp;(4) submit an annual report to the Secretary that evaluates the progress of the Federal, State, and university mapping activities and evaluates the progress made toward fulfilling the purposes of sections 31c through 31f of this title.
 
-(Pub. L. 102–285, §5, May 18, 1992, 106 Stat. 169; Pub. L. 105–36, §3(c), Aug. 5, 1997, 111 Stat. 1110; Pub. L. 106–148, §5, Dec. 9, 1999, 113 Stat. 1722; Pub. L. 111–11, title XI, §11001(f), Mar. 30, 2009, 123 Stat. 1415.)
+(Pub. L. 102–285, §5, May 18, 1992, 106 Stat. 169; Pub. L. 105–36, §3(c), Aug. 5, 1997, 111 Stat. 1110; Pub. L. 106–148, §5, Dec. 9, 1999, 113 Stat. 1722; Pub. L. 111–11, title XI, §11001(f), Mar. 30, 2009, 123 Stat. 1415; Pub. L. 116–9, title V, §5002(b), Mar. 12, 2019, 133 Stat. 768.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(3). Pub. L. 116–9 substituted "Associate Director for Core Science Systems" for "Associate Director for Geology".
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–11, §11001(f)(3), substituted "11-member" for "10-member".
 
@@ -50,5 +52,5 @@ Subsec. (b)(3). Pub. L. 105–36, §3(c)(2), substituted "Federal, State, and un
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by thePresident or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law, see section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law, see section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

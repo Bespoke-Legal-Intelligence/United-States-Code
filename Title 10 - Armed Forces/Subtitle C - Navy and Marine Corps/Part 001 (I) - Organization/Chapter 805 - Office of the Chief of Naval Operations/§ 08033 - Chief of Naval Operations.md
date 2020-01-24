@@ -60,7 +60,7 @@ Subsec. (c). Pub. L. 115–232, §809(a), substituted "section 8013(f)" for "sec
 
 <b>2015</b>—Subsec. (d)(5). Pub. L. 114–92 substituted "sections 171 and 2547" for "section 171".
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 substituted "from the flag officers of the Navy" for "from officers on the active-duty list in the line of the Navy who are eligible to command at sea and who hold the grade of rear admiral or above".
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 substituted "from the flag officers of the Navy" for "from officers on theactive-duty list in the line of the Navy who are eligible to command at sea and who hold the grade of rear admiral or above".
 
 <b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–456 substituted "full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)" for "joint duty assignment".
 

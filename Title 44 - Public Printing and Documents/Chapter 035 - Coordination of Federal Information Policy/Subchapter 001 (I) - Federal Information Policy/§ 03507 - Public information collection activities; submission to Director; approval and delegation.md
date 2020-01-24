@@ -50,7 +50,7 @@
 
 &emsp;(A) as soon as practicable, but no later than the date of publication of a notice of proposed rulemaking in the Federal Register, each agency shall forward to the Director a copy of any proposed rule which contains a collection of information and any information requested by the Director necessary to make the determination required under this subsection; and
 
-&emsp;(B) within 60 days after the notice of proposed rulemaking is published in the Federal Register, the Director may file public comments pursuant to the standards set forth in section 3508 on the collection of information contained in the proposed rule;
+&emsp;(B) within 60 days after the notice of proposed rulemaking is published in the FederalRegister, the Director may file public comments pursuant to the standards set forth in section 3508 on the collection of information contained in the proposed rule;
 
 (2) When a final rule is published in the Federal Register, the agency shall explain—
 

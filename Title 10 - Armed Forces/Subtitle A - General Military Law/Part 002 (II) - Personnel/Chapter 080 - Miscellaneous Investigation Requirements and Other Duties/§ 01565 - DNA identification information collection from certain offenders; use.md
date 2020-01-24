@@ -2,7 +2,7 @@
 
 (a)
 
-Collection of DNA Samples.—(1) The Secretary concerned shall collect a DNA sample from each member of the armed forces under the Secretary's jurisdiction who is, or has been, convicted of a qualifying military offense (as determined under subsection (d)).
+Collection of DNA Samples.—(1) The Secretary concerned shall collect a DNA samplefrom each member of the armed forces under the Secretary's jurisdiction who is, or has been, convicted of a qualifying military offense (as determined under subsection (d)).
 
 (2) For each member described in paragraph (1), if the Combined DNA Index System (in this section referred to as "CODIS") of the Federal Bureau of Investigation contains a DNA analysis with respect to that member, or if a DNA sample has been or is to be collected from that member under section 3(a) of the DNA Analysis Backlog Elimination Act of 2000, the Secretary concerned may (but need not) collect a DNA sample from that member.
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Initial Determination of Qualifying Military Offenses
 
-Pub. L. 106–546, §5(b), Dec. 19, 2000, 114 Stat. 2733, provided that: "The initial determination of qualifying military offenses under section 1565(d) of title 10, United States Code, as added by subsection (a)(1), shall be made not later than 120 days after the date of the enactment of this Act \[Dec. 19, 2000\]."
+Pub. L. 106–546, §5(b), Dec. 19, 2000, 114 Stat. 2733, provided that: "The initial determination of qualifyingmilitary offenses under section 1565(d) of title 10, United States Code, as added by subsection (a)(1), shall be made not later than 120 days after the date of the enactment of this Act \[Dec. 19, 2000\]."
 
 #### Commencement of Collection
 

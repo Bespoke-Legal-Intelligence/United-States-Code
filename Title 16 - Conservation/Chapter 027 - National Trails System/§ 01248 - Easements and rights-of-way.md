@@ -6,11 +6,11 @@ The Secretary of the Interior or the Secretary of Agriculture as the case may be
 
 #### (b) Cooperation of Federal agencies with Secretary of the Interior and Secretary of Agriculture
 
-The Department of Defense, the Department of Transportation, the Surface TransportationBoard, the Federal Communications Commission, the Secretary of Energy, and other Federal agencies having jurisdiction or control over or information concerning the use, abandonment, or disposition of roadways, utility rights-of-way, or other properties which may be suitable for the purpose of improving or expanding the national trails system shall cooperate with the Secretary of the Interior and the Secretary of Agriculture in order to assure, to the extent practicable, that any such properties having values suitable for trail purposes may be made available for such use.
+The Department of Defense, the Department of Transportation, the Surface Transportation Board, the Federal Communications Commission, the Secretary of Energy, and other Federal agencies having jurisdiction or control over or information concerning the use, abandonment, or disposition of roadways, utility rights-of-way, or other properties which may be suitable for the purpose of improving or expanding the national trails system shall cooperate with the Secretary of the Interior and the Secretary of Agriculture in order to assure, to the extent practicable, that any such properties having values suitable for trail purposes may be made available for such use.
 
 #### (c) Abandoned railroad grants; retention of rights
 
-Commencing October 4, 1988, any and all right, title, interest, and estate of the United States in all rights-of-way of the type described in section 912 of title 43, shall remain in the United States upon the abandonment or forfeiture of such rights-of-way, or portions thereof, except to the extent that any such right-of-way, or portion thereof, is embraced within a public highway no later than one year after a determination of abandonment or forfeiture, as provided under such section.
+Commencing October 4, 1988, any and all right, title, interest, and estate of the United States in all rights-of-way of the type described in section 912 of title 43, shall remain in the United States upon the abandonment or forfeiture of suchrights-of-way, or portions thereof, except to the extent that any such right-of-way, or portion thereof, is embraced within a public highway no later than one year after a determination of abandonment or forfeiture, as provided under such section.
 
 #### (d) Location, incorporation, and management
 
@@ -48,7 +48,7 @@ As used in this section—
 
 &emsp;(1) The term "conservation system unit" has the same meaning given such term in the Alaska National Interest Lands Conservation Act (Public Law 96–487; 94 Stat. 2371 et seq.), except that such term shall also include units outside Alaska.
 
-&emsp;(2) The term "public lands" has the same meaning given such term in the Federal LandPolicy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\].
+&emsp;(2) The term "public lands" has the same meaning given such term in the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\].
 
 (Pub. L. 90–543, §9, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat. 578; Pub. L. 100–470, §3, Oct. 4, 1988, 102 Stat. 2281; Pub. L. 104–88, title III, §317(2), Dec. 29, 1995, 109 Stat. 949; Pub. L. 113–287, §5(d)(25), Dec. 19, 2014, 128 Stat. 3266.)
 

@@ -6,7 +6,7 @@ Section 614, act Aug. 1, 1956, ch. 809, §1, 70 Stat. 775, related to authorizat
 
 Section 614a, act Aug. 1, 1956, ch. 809, §2, 70 Stat. 775, related to applicability of reclamation laws to duties of Secretary under this subchapter, repayment of construction costs, and contracts for supplemental water supply.
 
-Section 614b, act Aug. 1, 1956, ch. 809, §3, 70 Stat. 776, related to facilities for access, public health and safety,and protection of public property on lands of Washoe project.
+Section 614b, act Aug. 1, 1956, ch. 809, §3, 70 Stat. 776, related to facilities for access, public health and safety, and protection of public property on lands of Washoe project.
 
 Section 614c, act Aug. 1, 1956, ch. 809, §4, 70 Stat. 777, related to facilities for development of fish and wildlife resources on the project area.
 

@@ -41,7 +41,7 @@
 
 &emsp;&emsp;The participation rate of a State for all families of the State for a month, expressed as a percentage, is—
 
-&emsp;&emsp;&emsp;(i) the number of families receiving assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) that include an adult or a minor child head of household who is engaged in work for the month; divided by
+&emsp;&emsp;&emsp;(i) the number of families receiving assistance under the State program fundedunder this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) that include an adult or a minor child head of household who is engaged in work for the month; divided by
 
 &emsp;&emsp;&emsp;(ii) the amount by which—
 
@@ -138,7 +138,7 @@
 
 #### (D) Limitation on number of persons who may be treated as engaged in work by reason of participation in educational activities
 
-&emsp;&emsp;For purposes of determining monthly participation rates under paragraphs (1)(B)(i) and (2)(B) of subsection (b), not more than 30percent of the number of individuals in all families and in 2-parent families, respectively, in a State who are treated as engaged in work for a month may consist of individuals who are determined to be engaged in work for the month by reason of participation in vocational educational training, or (if the month is in fiscal year 2000 or thereafter) deemed to be engaged in work for the month by reason of subparagraph (C) of this paragraph.
+&emsp;&emsp;For purposes of determining monthly participation rates under paragraphs (1)(B)(i) and (2)(B) of subsection (b), not more than 30 percent of the number of individuals in all families and in 2-parent families, respectively, in a State who are treated as engaged in work for a month may consist of individuals who are determined to be engaged in work for the month by reason of participation in vocational educational training, or (if the month is in fiscal year 2000 or thereafter) deemed to be engaged in work for the month by reason of subparagraph (C) of this paragraph.
 
 #### (d) "Work activities" defined
 
@@ -182,7 +182,7 @@ As used in this section, the term "work activities" means—
 
 #### (2) Exception
 
-&emsp;Notwithstanding paragraph (1), a State may not reduce or terminate assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) based on a refusal of an individual to engage in work required in accordance with this section if the individual is a single custodial parent caring for a child who has not attained 6 years of age, and the individual proves that the individual has a demonstrated inability (as determined by the State) to obtain needed child care, for 1 or more of the following reasons:
+&emsp;Notwithstanding paragraph (1), a State may not reduce or terminate assistance under theState program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) based on a refusal of an individual to engage in work required in accordance with this section if the individual is a single custodial parent caring for a child who has not attained 6 years of age, and the individual proves that the individual has a demonstrated inability (as determined by the State) to obtain needed child care, for 1 or more of the following reasons:
 
 &emsp;&emsp;(A) Unavailability of appropriate child care within a reasonable distance from the individual's home or work site.
 
@@ -248,7 +248,7 @@ It is the sense of the Congress that the States should require noncustodial, non
 
 #### (2) Requirement for States to establish and maintain work participation verification procedures
 
-&emsp;Not later than September 30, 2006, a State to which a grant is made under section 603 of this title shall establish procedures for determining, with respect to recipients of assistance under the State program funded under this part or under any State programs funded with qualified State expenditures (as so defined), whether activities may be counted as work activities, how to count and verify reported hours of work, and who is a work-eligible individual, in accordance with the regulations promulgated pursuant to paragraph (1)(A)(i) and shall establish internal controls to ensure compliance with the procedures.
+&emsp;Not later than September 30, 2006, a State to which a grant is made under section 603 of this title shall establish procedures for determining, with respect to recipients of assistance under the State program funded under this part or under any State programs funded with qualified State expenditures (as so defined),whether activities may be counted as work activities, how to count and verify reported hours of work, and who is a work-eligible individual, in accordance with the regulations promulgated pursuant to paragraph (1)(A)(i) and shall establish internal controls to ensure compliance with the procedures.
 
 (Aug. 14, 1935, ch. 531, title IV, §407, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2129; amended Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), Aug. 5, 1997, 111 Stat. 594, 609, 620; Pub. L. 109–171, title VII, §7102(a), (b)(1), (c)(1), Feb. 8, 2006, 120 Stat. 136; Pub. L. 111–5, div. B, title II, §2101(b), (d)(2), Feb. 17, 2009, 123 Stat. 448, 449; Pub. L. 112–96, title IV, §4005(b), Feb. 22, 2012, 126 Stat. 198.)
 
@@ -270,7 +270,7 @@ Subsec. (b)(3)(A)(i). Pub. L. 109–171, §7102(a)(1)(A), inserted "or any other
 
 Subsec. (b)(3)(A)(ii). Pub. L. 109–171, §7102(a)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: "the average monthly number of families that received aid under the State plan approved under part A of this subchapter (as in effect on September 30, 1995) during fiscal year 1995."
 
-Subsec. (b)(3)(B). Pub. L. 109–171, §7102(a)(2), substituted "and the eligibility criteria in effect duringfiscal year 2005" for "and eligibility criteria under the State program operated under the State plan approved under part A of this subchapter (as such plan and such part were in effect on September 30, 1995)".
+Subsec. (b)(3)(B). Pub. L. 109–171, §7102(a)(2), substituted "and the eligibility criteria in effect during fiscal year 2005" for "and eligibility criteria under the State program operated under the State plan approved under part A of this subchapter (as such plan and such part were in effect on September 30, 1995)".
 
 Subsecs. (c)(2)(A)(i), (e)(1), (2). Pub. L. 109–171, §7102(b)(1), inserted "or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)" after "this part".
 

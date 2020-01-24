@@ -6,7 +6,7 @@ Authority To Consider.—An officer in the Navy Reserve in an active status serv
 
 (b)
 
-Boards.—(1) If the Secretary of the Navy determines that consideration of officers for early retirement under this section is necessary, the Secretary shall convene a selection board under section 14101(b) of this title to recommend an appropriate number of officers for early retirement.
+Boards.—(1) If the Secretary of the Navy determines that consideration of officers for early retirement under this section is necessary, the Secretary shall convene a selection board under section 14101(b) of this title to recommendan appropriate number of officers for early retirement.
 
 (2) In the case of such a board convened to consider officers in the grade of rear admiral or major general, the Secretary of the Navy may appoint the board without regard to section 14102(b) of this title. In doing so, however, the Secretary shall ensure that—
 

@@ -18,5 +18,5 @@ Use of Fees Collected.—A military medical treatment facility may retain and us
 
 #### Deadline for Implementation
 
-Pub. L. 107–107, div. A, title VII, §732(b), Dec. 28, 2001, 115 Stat. 1170, directed the Secretary of Defense to begin to implement the procedures required by subsec.\(a) of this section not later than one year after Dec. 28, 2001.
+Pub. L. 107–107, div. A, title VII, §732(b), Dec. 28, 2001, 115 Stat. 1170, directed the Secretary of Defense to begin to implement the procedures required by subsec. (a) of this section not later than one year after Dec. 28, 2001.
 

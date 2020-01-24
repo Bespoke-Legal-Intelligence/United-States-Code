@@ -134,7 +134,7 @@ In providing agriculture risk coverage, the Secretary shall—
 
 &emsp;(4) effective for the 2014 through 2018 crop years, in the case of county coverage, assign an actual or benchmark county yield for each planted acre for the crop year for the covered commodity on the basis of the yield history of representative farms in the State, region, or crop reporting district, as determined by the Secretary, if—
 
-&emsp;&emsp;(A) the Secretary cannot establish the actual or benchmark county yield for each planted acre for a crop year for a covered commodity in the county in accordance with subsection (b)(1) or (c)(2); or
+&emsp;&emsp;(A) the Secretary cannot establish the actual or benchmark county yield for eachplanted acre for a crop year for a covered commodity in the county in accordance with subsection (b)(1) or (c)(2); or
 
 &emsp;&emsp;(B) the yield determined under subsection (b)(1) or (c)(2) is an unrepresentative average yield for the county, as determined by the Secretary; and
 

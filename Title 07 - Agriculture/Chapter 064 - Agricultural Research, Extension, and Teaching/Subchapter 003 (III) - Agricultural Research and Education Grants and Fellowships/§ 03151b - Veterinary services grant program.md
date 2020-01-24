@@ -146,7 +146,7 @@ Not later than 1 year after February 7, 2014, the Secretary shall promulgate reg
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to the Secretary to carry out this section $10,000,000 for fiscal year 2014 and each fiscal year thereafter, to remain available until expended.
+&emsp;There are authorized to be appropriated to the Secretary to carry out this section$10,000,000 for fiscal year 2014 and each fiscal year thereafter, to remain available until expended.
 
 #### (2) Priority
 

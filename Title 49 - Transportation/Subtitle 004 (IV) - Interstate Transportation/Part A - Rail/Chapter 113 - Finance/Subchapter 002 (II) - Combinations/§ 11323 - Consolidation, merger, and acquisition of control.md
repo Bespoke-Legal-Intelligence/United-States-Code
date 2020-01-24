@@ -14,7 +14,7 @@
 
 &emsp;(6) Acquisition by a rail carrier of trackage rights over, or joint ownership in or joint use of, a railroad line (and terminals incidental to it) owned or operated by another rail carrier.
 
-(b) A person may carry out a transaction referred to in subsection (a) of this section or participate in achieving the control or management, including the power to exercise control or management, in a common interest of more than one of those rail carriers, regardless of how that result is reached, only with the approval and authorization of the Board under this subchapter. In addition to other transactions, each of the following transactions are considered achievements of control or management:
+(b) A person may carry out a transaction referred to in subsection (a) of this section or participate in achieving the control or management, including the power to exercise control or management, in a common interest of more than one of those rail carriers, regardless of how that result is reached, only with the approval and authorization of the Board under this subchapter. In addition to other transactions, eachof the following transactions are considered achievements of control or management:
 
 &emsp;(1) A transaction by a rail carrier that has the effect of putting that rail carrier and person affiliated with it, taken together, in control of another rail carrier.
 

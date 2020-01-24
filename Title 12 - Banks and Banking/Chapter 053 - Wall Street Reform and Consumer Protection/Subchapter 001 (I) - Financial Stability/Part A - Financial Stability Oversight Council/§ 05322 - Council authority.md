@@ -72,7 +72,7 @@ At the time at which each report is submitted under subsection (a), each voting 
 
 &emsp;(1) if such member believes that the Council, the Government, and the private sector are taking all reasonable steps to ensure financial stability and to mitigate systemic risk that would negatively affect the economy, submit a signed statement to Congress stating such belief; or
 
-&emsp;(2) if such member does not believe that all reasonable steps described under paragraph (1) are being taken, submit a signed statement to Congress stating what actions such member believes need to be taken in order to ensure that all reasonable steps described under paragraph (1) are taken.
+&emsp;(2) if such member does not believe that all reasonable steps described under paragraph (1)are being taken, submit a signed statement to Congress stating what actions such member believes need to be taken in order to ensure that all reasonable steps described under paragraph (1) are taken.
 
 #### (c) Testimony by the Chairperson
 

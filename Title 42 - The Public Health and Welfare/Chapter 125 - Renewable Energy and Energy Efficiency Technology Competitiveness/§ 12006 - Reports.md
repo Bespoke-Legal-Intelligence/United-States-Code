@@ -30,7 +30,7 @@ One year after December 11, 1989, and annually thereafter, the Secretary shall r
 
 &emsp;(E) identify program areas for which funding levels have been changed from the previous year's Plan.<sup>1</sup>
 
-(6) Within one year after October 24, 1992, the Secretary shall submit a revised managementplan under this section to Congress. Thereafter, the Secretary shall submit a management plan every three years at the time of submittal of the President's annual budget submission to the Congress.
+(6) Within one year after October 24, 1992, the Secretary shall submit a revised management plan under this section to Congress. Thereafter, the Secretary shall submit a management plan every three years at the time of submittal of the President's annual budget submission to the Congress.
 
 #### (c) Report on options
 

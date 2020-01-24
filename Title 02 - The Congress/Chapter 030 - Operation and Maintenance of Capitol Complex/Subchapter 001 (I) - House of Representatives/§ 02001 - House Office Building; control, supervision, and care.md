@@ -174,7 +174,7 @@ Local zoning and occupancy requirements.—Until such date as the purchaser of t
 
 &emsp;"(9)
 
-Property description.—The parcel of real property referred to in paragraph (1) is the approximately 31,725 square feet of land located at 501 First Street, SE., on square 736 S, Lot 801 (formerly part ofReservation 17) in the District of Columbia. Such parcel is bounded by E Street, SE., to the north, First Street, SE., to the east, New Jersey Avenue, SE., to the west, and Garfield Park to the south.
+Property description.—The parcel of real property referred to in paragraph (1) is the approximately 31,725 square feet of land located at 501 First Street, SE., on square 736 S, Lot 801 (formerly part of Reservation 17) in the District of Columbia. Such parcel is bounded by E Street, SE., to the north, First Street, SE., to the east, New Jersey Avenue, SE., to the west, and Garfield Park to the south.
 
 "(b)
 
@@ -292,7 +292,7 @@ House Resolution No. 208, Ninety-fourth Congress, Feb. 24, 1975, as enacted into
 
 #### Inclusion of Additional Areas and Buildings
 
-For inclusion of additional areas and buildings as part of the United States Capitol grounds, see order of the House Office Building Commission affecting the Capitol grounds and buildings, set out as a note under section 5102 of Title 40, Public Buildings, Property, and Works.
+For inclusion of additional areas and buildings as part of the United States Capitol grounds, see order of the House Office Building Commission affecting the Capitol grounds and buildings, set out as a note undersection 5102 of Title 40, Public Buildings, Property, and Works.
 
 #### Compensation of Superintendent of Garages of House Office Buildings
 

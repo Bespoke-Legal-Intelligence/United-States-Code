@@ -20,7 +20,7 @@ A labor organization which has been accorded exclusive recognition is the exclus
 
 #### (c) Duty to bargain in good faith; determination of techniques assisting negotiation
 
-The Department and the exclusive representative, through appropriate representatives, shall meet and negotiate in good faith for the purposes of arriving at a collective bargaining agreement. In addition, the Department and the exclusive representative may determine appropriate techniques, consistent with the provisions of section 4110 of this title, to assist in any negotiation.
+The Department and the exclusive representative, through appropriate representatives, shall meet and negotiate in good faith for the purposes of arriving at a collective bargaining agreement. In addition, the Department and theexclusive representative may determine appropriate techniques, consistent with the provisions of section 4110 of this title, to assist in any negotiation.
 
 #### (d) Applicability to other employee rights or remedies
 

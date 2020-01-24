@@ -52,7 +52,7 @@
 
 &emsp;(B) may be made on a nationwide, local, or other geographic basis if the Secretary finds that such an increase is justified on the basis of a review of the need for such increase (based upon a reasonably representative sampling of non-Federal health-care facilities in the geographic area involved).
 
-(Added Pub. L. 102–40, title IV, §401(b)(4), May 7, 1991, 105 Stat. 232; amended Pub. L. 103–446, title XII, §1201(e)(24), (g)(6), Nov. 2, 1994, 108 Stat. 4686, 4687; Pub. L. 111–163, title VI, §601(k)(1), May 5, 2010, 124 Stat. 1171.)
+(Added Pub. L. 102–40, title IV, §401(b)(4), May 7, 1991, 105 Stat. 232; amended Pub. L. 103–446, title XII, §1201(e)(24), (g)(6), Nov. 2, 1994, 108 Stat.4686, 4687; Pub. L. 111–163, title VI, §601(k)(1), May 5, 2010, 124 Stat. 1171.)
 
 #### Prior Provisions
 

@@ -24,7 +24,7 @@ Except as provided in section 3812 of this title, and notwithstanding any other 
 
 &emsp;(3) during the crop year—
 
-&emsp;&emsp;(A) a payment made pursuant to a contract entered into under the environmentalquality incentives program under subpart A of part IV of subchapter IV;
+&emsp;&emsp;(A) a payment made pursuant to a contract entered into under the environmental quality incentives program under subpart A of part IV of subchapter IV;
 
 &emsp;&emsp;(B) a payment under any other provision of subchapter IV;
 

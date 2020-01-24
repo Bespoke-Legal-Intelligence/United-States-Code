@@ -6,7 +6,7 @@ Conduct of Preliminary Investigation.—
 
 &emsp;(1)
 
-In general.—A preliminary investigation conducted under this chapter shall be of such matters as the Attorney General considers appropriate in order to make a determination,under subsection (b) or (c), on whether further investigation is warranted, with respect to each potential violation, or allegation of a violation, of criminal law. The Attorney General shall make such determination not later than 90 days after the preliminary investigation is commenced, except that, in the case of a preliminary investigation commenced after a congressional request under subsection (g), the Attorney General shall make such determination not later than 90 days after the request is received. The Attorney General shall promptly notify the division of the court specified in section 593(a) of the commencement of such preliminary investigation and the date of such commencement.
+In general.—A preliminary investigation conducted under this chapter shall be of such matters as the Attorney General considers appropriate in order to make a determination, under subsection (b) or (c), on whether further investigation is warranted, with respect to each potential violation, or allegation of a violation, of criminal law. The Attorney General shall make such determination not later than 90 days after the preliminary investigation is commenced, except that, in the case of a preliminary investigation commenced after a congressional request under subsection (g), the Attorney General shall make such determination not later than 90 days after the request is received. The Attorney General shall promptly notify the division of the court specified in section 593(a) of the commencement of such preliminary investigation and the date of such commencement.
 
 &emsp;(2)
 
@@ -30,7 +30,7 @@ Notification of division of the court.—If the Attorney General, upon completio
 
 &emsp;(2)
 
-Form of notification.—Such notification shall contain a summary of the information received and a summary of the results of the preliminary investigation.
+Form of notification.—Such notification shall contain a summary of the informationreceived and a summary of the results of the preliminary investigation.
 
 (c)
 
@@ -76,7 +76,7 @@ By judiciary committee or members thereof.—The Committee on the Judiciary of e
 
 &emsp;(2)
 
-Report by attorney general pursuant to request.—Not later than 30 days after thereceipt of a request under paragraph (1), the Attorney General shall submit, to the committee making the request, or to the committee on which the persons making the request serve, a report on whether the Attorney General has begun or will begin a preliminary investigation under this chapter of the matters with respect to which the request is made, in accordance with subsection (a) or (c) of section 591, as the case may be. The report shall set forth the reasons for the Attorney General's decision regarding such preliminary investigation as it relates to each of the matters with respect to which the congressional request is made. If there is such a preliminary investigation, the report shall include the date on which the preliminary investigation began or will begin.
+Report by attorney general pursuant to request.—Not later than 30 days after the receipt of a request under paragraph (1), the Attorney General shall submit, to the committee making the request, or to the committee on which the persons making the request serve, a report on whether the Attorney General has begun or will begin a preliminary investigation under this chapter of the matters with respect to which the request is made, in accordance with subsection (a) or (c) of section 591, as the case may be. The report shall set forth the reasons for the Attorney General's decision regarding such preliminary investigation as it relates to each of the matters with respect to which the congressional request is made. If there is such a preliminary investigation, the report shall include the date on which the preliminary investigation began or will begin.
 
 &emsp;(3)
 

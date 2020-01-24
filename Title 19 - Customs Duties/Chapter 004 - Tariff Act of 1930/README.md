@@ -163,7 +163,7 @@
 | [1484a.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001484a%20-%20Articles%20returned%20from%20space%20not%20to%20be%20construed%20as%20importation.md) | Articles returned from space not to be construed as importation. |
 | [1484b.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001484b%20-%20Deferral%20of%20duty%20on%20large%20yachts%20imported%20for%20sale%20at%20United%20States%20boat%20shows.md) | Deferral of duty on large yachts imported for sale at United States boat shows. |
 | [1485\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001485%20-%20Declaration.md) | Declaration. |
-| [1486\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001486%20-%20Administration%20of%20oaths.md) | Administration of oaths. |
+| [1486\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001486%20-%20Administration%20of%20oaths%3B%20verification%20of%20documents.md) | Administration of oaths; verification of documents. |
 | [1487\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001487%20-%20Value%20in%20entry%3B%20amendment.md) | Value in entry; amendment. |
 | 1488, 1489. Repealed. |  |
 | [1490\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001490%20-%20General%20orders.md) | General orders. |
@@ -214,7 +214,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1551\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20004%20%28IV%29%20-%20Transportation%20in%20Bond%20and%20Warehousing%20of%20Merchandise/%C2%A7%2001551%20-%20Designation%20as%20carrier%20of%20bonded%20merchandise.md) | Designation as carrier of bonded merchandise. |
+| [1551\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20004%20%28IV%29%20-%20Transportation%20in%20Bond%20and%20Warehousing%20of%20Merchandise/%C2%A7%2001551%20-%20Bonding%20of%20carriers.md) | Bonding of carriers. |
 | [1551a.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20004%20%28IV%29%20-%20Transportation%20in%20Bond%20and%20Warehousing%20of%20Merchandise/%C2%A7%2001551a%20-%20Bonded%20cartmen%20or%20lightermen.md) | Bonded cartmen or lightermen. |
 | [1552\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20004%20%28IV%29%20-%20Transportation%20in%20Bond%20and%20Warehousing%20of%20Merchandise/%C2%A7%2001552%20-%20Entry%20for%20immediate%20transportation.md) | Entry for immediate transportation. |
 | [1553\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20004%20%28IV%29%20-%20Transportation%20in%20Bond%20and%20Warehousing%20of%20Merchandise/%C2%A7%2001553%20-%20Entry%20for%20transportation%20and%20exportation%3B%20lottery%20material%20from%20Canada.md) | Entry for transportation and exportation; lottery material from Canada. |
@@ -229,7 +229,7 @@
 | [1560\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20004%20%28IV%29%20-%20Transportation%20in%20Bond%20and%20Warehousing%20of%20Merchandise/%C2%A7%2001560%20-%20Leasing%20of%20warehouses.md) | Leasing of warehouses. |
 | [1561\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20004%20%28IV%29%20-%20Transportation%20in%20Bond%20and%20Warehousing%20of%20Merchandise/%C2%A7%2001561%20-%20Public%20stores.md) | Public stores. |
 | [1562\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20004%20%28IV%29%20-%20Transportation%20in%20Bond%20and%20Warehousing%20of%20Merchandise/%C2%A7%2001562%20-%20Manipulation%20in%20warehouse.md) | Manipulation in warehouse. |
-| [1563\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20004%20%28IV%29%20-%20Transportation%20in%20Bond%20and%20Warehousing%20of%20Merchandise/%C2%A7%2001563%20-%20Allowance%20for%20loss%2C%20abandonment%20of%20warehouse%20goods.md) | Allowance for loss, abandonment of warehouse goods. |
+| [1563\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20004%20%28IV%29%20-%20Transportation%20in%20Bond%20and%20Warehousing%20of%20Merchandise/%C2%A7%2001563%20-%20Allowance%20for%20loss%3B%20abandonment%20of%20warehouse%20goods.md) | Allowance for loss; abandonment of warehouse goods. |
 | [1564\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20004%20%28IV%29%20-%20Transportation%20in%20Bond%20and%20Warehousing%20of%20Merchandise/%C2%A7%2001564%20-%20Liens.md) | Liens. |
 | [1565\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20004%20%28IV%29%20-%20Transportation%20in%20Bond%20and%20Warehousing%20of%20Merchandise/%C2%A7%2001565%20-%20Cartage.md) | Cartage. |
 
@@ -339,9 +339,9 @@
 | [1671c.](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/Part%20001%20%28I%29%20-%20Imposition%20of%20Countervailing%20Duties/%C2%A7%2001671c%20-%20Termination%20or%20suspension%20of%20investigation.md) | Termination or suspension of investigation. |
 | [1671d.](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/Part%20001%20%28I%29%20-%20Imposition%20of%20Countervailing%20Duties/%C2%A7%2001671d%20-%20Final%20determinations.md) | Final determinations. |
 | [1671e.](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/Part%20001%20%28I%29%20-%20Imposition%20of%20Countervailing%20Duties/%C2%A7%2001671e%20-%20Assessment%20of%20duty.md) | Assessment of duty. |
-| [1671f.](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/Part%20001%20%28I%29%20-%20Imposition%20of%20Countervailing%20Duties/%C2%A7%2001671f%20-%20Treatment%20of%20difference%20between%20deposit%20of%20estimated%20countervailing%20duty%20and%20final%20assessed%20duty%20under%20countervailing%20duty%20orders.md) | Treatment of difference between deposit of estimated countervailing duty and final assessed duty under countervailing duty orders. |
+| [1671f.](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/Part%20001%20%28I%29%20-%20Imposition%20of%20Countervailing%20Duties/%C2%A7%2001671f%20-%20Treatment%20of%20difference%20between%20deposit%20of%20estimated%20countervailing%20duty%20and%20final%20assessed%20duty%20under%20countervailing%20duty%20order.md) | Treatment of difference between deposit of estimated countervailing duty and final assessed duty under countervailing duty order. |
 | [1671g.](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/Part%20001%20%28I%29%20-%20Imposition%20of%20Countervailing%20Duties/%C2%A7%2001671g%20-%20Effect%20of%20derogation%20of%20Export-Import%20Bank%20financing.md) | Effect of derogation of Export-Import Bank financing. |
-| [1671h.](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/Part%20001%20%28I%29%20-%20Imposition%20of%20Countervailing%20Duties/%C2%A7%2001671h%20-%20Conditional%20payment%20of%20countervailing%20duties.md) | Conditional payment of countervailing duties. |
+| [1671h.](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/Part%20001%20%28I%29%20-%20Imposition%20of%20Countervailing%20Duties/%C2%A7%2001671h%20-%20Conditional%20payment%20of%20countervailing%20duty.md) | Conditional payment of countervailing duty. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -349,7 +349,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1673\.](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/Part%20002%20%28II%29%20-%20Imposition%20of%20Antidumping%20Duties/%C2%A7%2001673%20-%20Imposition%20of%20antidumping%20duties.md) | Imposition of antidumping duties. |
+| [1673\.](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/Part%20002%20%28II%29%20-%20Imposition%20of%20Antidumping%20Duties/%C2%A7%2001673%20-%20Antidumping%20duties%20imposed.md) | Antidumping duties imposed. |
 | [1673a.](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/Part%20002%20%28II%29%20-%20Imposition%20of%20Antidumping%20Duties/%C2%A7%2001673a%20-%20Procedures%20for%20initiating%20an%20antidumping%20duty%20investigation.md) | Procedures for initiating an antidumping duty investigation. |
 | [1673b.](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/Part%20002%20%28II%29%20-%20Imposition%20of%20Antidumping%20Duties/%C2%A7%2001673b%20-%20Preliminary%20determinations.md) | Preliminary determinations. |
 | [1673c.](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/Part%20002%20%28II%29%20-%20Imposition%20of%20Antidumping%20Duties/%C2%A7%2001673c%20-%20Termination%20or%20suspension%20of%20investigation.md) | Termination or suspension of investigation. |

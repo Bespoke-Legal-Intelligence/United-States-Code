@@ -6,7 +6,7 @@ When Procedures Are To Be Used.—To promote efficiency and economy in contracti
 
 &emsp;(1) not greater than the simplified acquisition threshold; and
 
-&emsp;(2) greater than the simplified acquisition threshold but not greater than $5,000,000 for which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
+&emsp;(2) greater than the simplified acquisition threshold but not greater than $5,000,000 for which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial products or commercial services.
 
 (b)
 
@@ -22,7 +22,7 @@ Consideration of Offers Timely Received.—The simplified acquisition procedures
 
 (e)
 
-Special Rules for Commercial Items.—The Federal Acquisition Regulation shall provide that an executive agency using special simplified procedures to purchase commercial items—
+Special Rules for Commercial Products and Commercial Services.—The Federal Acquisition Regulation shall provide that an executive agency using special simplified procedures to purchase commercial products or commercial services—
 
 &emsp;(1) shall publish a notice in accordance with section 1708 of this title and, as provided in section 1708(c)(4) of this title, permit all responsible sources to submit a bid, proposal, or quotation (as appropriate) that the agency shall consider;
 
@@ -31,20 +31,6 @@ Special Rules for Commercial Items.—The Federal Acquisition Regulation shall p
 &emsp;(3) shall include in the contract file a written description of the procedures used in awarding the contract and the number of offers received.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3719; Pub. L. 115–232, div. A, title VIII, §836(b)(4), Aug. 13, 2018, 132 Stat. 1861.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(4), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(2), by striking "commercial items" and inserting "commercial products or commercial services"; and</i>
-
-<i>(2) in subsection (e)—</i>
-
-<i>(A) by striking "Commercial Items" in the heading and inserting "Commercial Products and Commercial Services"; and</i>
-
-<i>(B) by striking "commercial items" and inserting "commercial products or commercial services".</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -156,13 +142,13 @@ Relationship to Other Provisions of Law.—
 
 "(g)
 
-Use of Commercial Practices and Standard Terms and Conditions.—A procurement of a productthrough a commercial e-commerce portal used under the program established pursuant to subsection (a) shall be made, to the maximum extent practicable, under the standard terms and conditions of the portal relating to purchasing on the portal.
+Use of Commercial Practices and Standard Terms and Conditions.—A procurement of a product through a commercial e-commerce portal used under the program established pursuant to subsection (a) shall be made, to the maximum extent practicable, under the standard terms and conditions of the portal relating to purchasing on the portal.
 
 "(h)
 
 Disclosure, Protection, and Use of Information.—In any contract awarded to a commercial e-commerce portal provider pursuant to subsection (a), the Administrator shall require that the provider—
 
-&emsp;"(1) agree not to sell or otherwise make available to any third party any information pertaining to a product ordered by the Federal Government through the commercial e-commerce portal in a manner that identifies the Federal Government, or any of its departments or agencies, as the purchaser, except if the information is needed to process or deliver an order or the Administrator provides written consent;
+&emsp;"(1) agree not to sell or otherwise make available to any third party any information pertaining to aproduct ordered by the Federal Government through the commercial e-commerce portal in a manner that identifies the Federal Government, or any of its departments or agencies, as the purchaser, except if the information is needed to process or deliver an order or the Administrator provides written consent;
 
 &emsp;"(2) agree to take the necessary precautions to safeguard any information pertaining to the Federal Government, especially precautions necessary to protect against national security or cybersecurity threats; and
 
@@ -208,7 +194,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;&emsp;"(A) The Committees on Armed Services of the Senate and House of Representatives.
 
-&emsp;&emsp;"(B) The Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives.
+&emsp;&emsp;"(B) The Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives.
 
 &emsp;&emsp;"(C) The Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives.
 

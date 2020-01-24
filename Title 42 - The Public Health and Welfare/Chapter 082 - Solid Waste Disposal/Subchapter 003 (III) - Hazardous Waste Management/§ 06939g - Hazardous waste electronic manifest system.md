@@ -126,7 +126,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 &emsp;&emsp;For each 2-fiscal-year period, the Administrator shall prepare and submit to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives a report that includes—
 
-&emsp;&emsp;&emsp;(i) an accounting of the fees paid to the Administrator under subsection (c) and disbursed from the Fund for the periodcovered by the report, as reflected by financial statements provided in accordance with—
+&emsp;&emsp;&emsp;(i) an accounting of the fees paid to the Administrator under subsection (c) and disbursed from the Fund for the period covered by the report, as reflected by financial statements provided in accordance with—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Chief Financial Officers Act of 1990 (Public Law 101–576; 104 Stat. 2838) and amendments made by that Act; and
 
@@ -194,7 +194,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 &emsp;&emsp;(A) the service fee structure of the contractor that will form the basis for payments to the contractor; and
 
-&emsp;&emsp;(B) the fixed-share ratio of monthly service fee revenues from which the Administrator shall reimburse the contractor for system-related development, operation, and maintenance costs.
+&emsp;&emsp;(B) the fixed-share ratio of monthly service fee revenues from which the Administrator shall reimburse the contractor forsystem-related development, operation, and maintenance costs.
 
 #### (5) Cancellation and termination
 
@@ -286,7 +286,7 @@ There are authorized to be appropriated $2,000,000 for each of fiscal years 2013
 
 #### References in Text
 
-The Chief Financial Officers Act of 1990, referred to in subsec. (d)(3)(A)(i)(I), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
+The Chief Financial Officers Act of 1990, referred to in subsec. (d)(3)(A)(i)(I), is Pub. L. 101–576, Nov. 15, 1990, 104Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
 
 The Government Management Reform Act of 1994, referred to in (d)(3)(A)(i)(II), is Pub. L. 103–356, Oct. 13, 1994, 108 Stat. 3410. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 3301 of Title 31, Money and Finance, and Tables.
 

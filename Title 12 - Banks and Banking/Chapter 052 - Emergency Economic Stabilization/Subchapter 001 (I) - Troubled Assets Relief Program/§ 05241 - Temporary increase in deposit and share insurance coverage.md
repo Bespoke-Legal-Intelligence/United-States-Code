@@ -14,7 +14,7 @@
 
 #### (1) Increased amount
 
-&emsp;Effective only during the period beginning on October 3, 2008, and ending on December 31, 2013, section 207(k)(5) <sup>1</sup> of the Federal Credit Union Act (12 U.S.C. 1787(k)(5)) shall apply with "$250,000" substituted for "$100,000".
+&emsp;Effective only during the period beginning on October 3, 2008, and ending on December 31, 2013, section 207(k)(5) <sup>1</sup> of the Federal CreditUnion Act (12 U.S.C. 1787(k)(5)) shall apply with "$250,000" substituted for "$100,000".
 
 #### (2) Borrowing limits temporarily lifted
 

@@ -52,7 +52,7 @@ Except as provided in subsections (c) and (e), real property administered under 
 
 #### (B) Conservation
 
-&emsp;&emsp;The Secretary may for conservation purposes grant or sell an easement, restriction, development right, or similar legal right to real property to a State, a political subdivision of a State, or a private nonprofit organization separately from the underlying fee or other rights to the property owned by the United States.
+&emsp;&emsp;The Secretary may for conservation purposes grant or sell an easement, restriction,development right, or similar legal right to real property to a State, a political subdivision of a State, or a private nonprofit organization separately from the underlying fee or other rights to the property owned by the United States.
 
 #### (4) Other law
 
@@ -120,7 +120,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 > the Secretary shall dispose of or administer the property only as provided for in this subparagraph.
 
-(ii) For purposes of this subparagraph, the term "Indian reservation" means all land located within the limits of any Indian reservation under the jurisdiction of the United States, notwithstanding the issuance of any patent, and, including rights-of-way running through the reservation; trust or restricted land located within the boundaries of a former reservation of a federally recognized Indian tribe in the State of Oklahoma; or all Indian allotments the Indian titles to which have not been extinguished if such allotments are subject to the jurisdiction of a federally recognized Indian tribe.
+(ii) For purposes of this subparagraph, the term "Indian reservation" means all land located within the limits of any Indian reservation under the jurisdiction of the United States,notwithstanding the issuance of any patent, and, including rights-of-way running through the reservation; trust or restricted land located within the boundaries of a former reservation of a federally recognized Indian tribe in the State of Oklahoma; or all Indian allotments the Indian titles to which have not been extinguished if such allotments are subject to the jurisdiction of a federally recognized Indian tribe.
 
 (iii) Not later than 90 days after acquiring the property, the Secretary shall afford an opportunity to purchase or lease the real property in accordance with the order of priority established under clause (iv) by the Indian tribe having jurisdiction over the Indian reservation within which the real property is located or, if no order of priority is established by such Indian tribe under clause (iv), in the following order:
 
@@ -158,7 +158,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 (ix) Notwithstanding any other clause of this subparagraph, the Indian tribe having jurisdiction over the Indian reservation within which the real property described in clause (i) is located may, at any time after the real property has been transferred to the Secretary of the Interior under clause (v), offer to pay the remaining amount on the lien, or the fair market value of the real property, whichever is less. Upon payment of such amount, title to such real property shall be held by the United States in trust for the tribe and such trust or restricted lands that have been acquired by the Secretary under foreclosure or voluntary transfer under a loan made or insured under this chapter and transferred to an Indian person, entity, or tribe under the provisions of this subparagraph shall be deemed to have never lost trust or restricted status.
 
-(x) This subparagraph shall apply to all lands in the land inventory established under this chapter (as of November 28, 1990) that were (immediately prior to November 28, 1990) owned by an Indian borrower-owner described in clause (i) and that are situated within an Indian reservation (as defined in clause (ii)), regardless of the date of foreclosure or acquisition by the Secretary. The Secretary shall afford an opportunity to a tribal member, an Indian corporate entity, or the tribe to purchase or lease the real property as provided in clause (iii). If the right is not exercised or no expression of intent to exercise such right is received within 180 days after November 28, 1990, the Secretary shall transfer the real property to the Secretary of the Interior as provided in clause (v).
+(x) This subparagraph shall apply to all lands in the land inventory established under this chapter (as of November 28, 1990) that were (immediately prior to November 28, 1990) owned by an Indian borrower-owner described in clause (i) and that are situated within an Indian reservation (as defined in clause (ii)), regardless of the date of foreclosure or acquisition by the Secretary. The Secretary shall afford an opportunity to a tribal member, an Indian corporate entity, or the tribe to purchase or lease the real property as provided in clause (iii). If the right is not exercised or no expression of intent to exercise such right is received within 180 days after November 28, 1990, the Secretary shalltransfer the real property to the Secretary of the Interior as provided in clause (v).
 
 (B) The rights provided in this subsection shall be in addition to any such right of first refusal under the law of the State in which the property is located.
 
@@ -322,7 +322,7 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 
 This Act, referred to in subsec. (e)(1)(A)(vi), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, as amended. For classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables. However, the reference was probably intended to be "this title" meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-Subsection (g)(6) of this section, referred to in subsec. (e)(1)(D)(iii)(I), was redesignated subsection (g)(3) ofthis section by Pub. L. 104–127, title VI, §639(4), Apr. 4, 1996, 110 Stat. 1097.
+Subsection (g)(6) of this section, referred to in subsec. (e)(1)(D)(iii)(I), was redesignated subsection (g)(3) of this section by Pub. L. 104–127, title VI, §639(4), Apr. 4, 1996, 110 Stat. 1097.
 
 #### Codification
 
@@ -364,7 +364,7 @@ Previously in inventory.—In the case of real property acquired prior to April 
 
 Subsec. (c). Pub. L. 104–127, §638(2), added subsec. (c) and struck out former subsec. (c) which authorized Secretary to determine whether real property administered under this chapter was suitable for disposition to persons eligible for assistance under provisions of any law administered by Farmers Home Administration or Rural Development Administration.
 
-Subsec. (e)(1)(A). Pub. L. 104–127, §638(3)(A)(i)–(iii), redesignated subpar. (D) as (A), in cl. (i), substituted "(D)" for "(G)" in introductory provisions, added subcl. (I) and struck out former subcl. (I) which read as follows: "the real property described in subparagraph (A)(i) is located within an Indian reservation,", in subcl. (II), substituted a semicolon for ", and" at end, and struck out subcl. (III) which read as follows: "the period in which the right to purchase or lease such real property provided in clauses (i) and (ii) of subparagraph (A) has expired,", in cl. (iii), substituted "Not later than 90 days after acquiring the property, the Secretary shall" for "The Secretary shall, within 90 days after the expiration of the period for which the right to purchase or lease real property described in clause (i) is provided in clauses (i) and (ii) of subparagraph (A),", and struck out former subpar. (A) which authorized the Secretary, during 180-day period beginning on date of acquisition, or during applicable period under State law, to allow borrower-owner to purchase or lease property, if such borrower-owner had acted in good faith with the Secretary.
+Subsec. (e)(1)(A). Pub. L. 104–127, §638(3)(A)(i)–(iii), redesignated subpar. (D) as (A), in cl. (i), substituted "(D)" for "(G)" in introductory provisions, added subcl. (I) and struck out former subcl. (I) which read as follows: "the real property described in subparagraph (A)(i) is located within an Indian reservation,", insubcl. (II), substituted a semicolon for ", and" at end, and struck out subcl. (III) which read as follows: "the period in which the right to purchase or lease such real property provided in clauses (i) and (ii) of subparagraph (A) has expired,", in cl. (iii), substituted "Not later than 90 days after acquiring the property, the Secretary shall" for "The Secretary shall, within 90 days after the expiration of the period for which the right to purchase or lease real property described in clause (i) is provided in clauses (i) and (ii) of subparagraph (A),", and struck out former subpar. (A) which authorized the Secretary, during 180-day period beginning on date of acquisition, or during applicable period under State law, to allow borrower-owner to purchase or lease property, if such borrower-owner had acted in good faith with the Secretary.
 
 Subsec. (e)(1)(B). Pub. L. 104–127, §638(3)(A)(i), (ii), redesignated subpar. (E) as (B) and struck out former subpar. (B) which read as follows: "Any purchase or lease under subparagraph (A) shall be on such terms and conditions as are established in regulations promulgated by the Secretary."
 
@@ -388,7 +388,7 @@ Subsec. (e)(4). Pub. L. 104–127, §638(3)(E), redesignated par. (7) as (4). Fo
 
 Subsec. (e)(5). Pub. L. 104–127, §638(3)(D), (E), redesignated par. (8) as (5) and struck out former par. (5) which read as follows:
 
-"(5)(A) If the Secretary determines that farmland administered under this chapter is not suitable for sale orlease to persons eligible for a loan made or insured under subchapter I of this chapter because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for such eligible persons, the Secretary shall, to the greatest extent practicable, subdivide such land into tracts suitable for sale under subsection (c) of this section. Such land shall be subdivided into parcels of land the shape and size of which are suitable for farming, the value of which shall not exceed the individual loan limits as prescribed under section 1925 of this title.
+"(5)(A) If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to persons eligible for a loan made or insured under subchapter I of this chapter because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for such eligible persons, the Secretary shall, to the greatest extent practicable, subdivide such land into tracts suitable for sale under subsection (c) of this section. Such land shall be subdivided into parcels of land the shape and size of which are suitable for farming, the value of which shall not exceed the individual loan limits as prescribed under section 1925 of this title.
 
 "(B) The Secretary shall dispose of such subdivided farmland in accordance with this subsection."
 
@@ -486,7 +486,7 @@ Subsec. (e)(1). Pub. L. 100–233, §610(b)(1), added par. (1) and struck out fo
 
 &emsp;"(B) Lease of such farmland to operators (as of the time immediately before such lease is entered into) of not larger than family-size farms."
 
-Subsec. (e)(3). Pub. L. 100–233, §610(b)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, in subpar. (B) substituted "Secretary shall determine if the lessee" for "Secretary shall give special consideration to a previous owner or operator of such land if such owner or operator", added subpar. (D), and struck out former subpar. (A) which read as follows: "The Secretary shall consider granting, and may grant, to an operator of not larger than a family-size farm, in conjunction with paragraph (3), a lease with an option to purchase farmland administered under this chapter."
+Subsec. (e)(3). Pub. L. 100–233, §610(b)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, in subpar. (B) substituted "Secretary shall determine if the lessee" for "Secretary shall give special consideration to a previous owner or operator of such land if such owner or operator", added subpar. (D), and struck out former subpar. (A) which read as follows: "The Secretary shall consider granting, and may grant, to an operator of not larger than a family-size farm, in conjunction withparagraph (3), a lease with an option to purchase farmland administered under this chapter."
 
 Subsec. (e)(5)(A). Pub. L. 100–233, §610(b)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to an operator of not larger than a family-size farm because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for family-size farms, the Secretary shall subdivide such land into tracts suitable for such operator."
 
@@ -518,7 +518,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 638 of Pub. L. 104–127 effective Apr. 4, 1996, but not applicable with respect to completeapplication to acquire inventory property submitted prior to Apr. 4, 1996, and amendment by section 639 of Pub. L. 104–127 effective Apr. 4, 1996, see section 663(a), (c) of Pub. L. 104–127, set out as a note under section 1922 of this title.
+Amendment by section 638 of Pub. L. 104–127 effective Apr. 4, 1996, but not applicable with respect to complete application to acquire inventory property submitted prior to Apr. 4, 1996, and amendment by section 639 of Pub. L. 104–127 effective Apr. 4, 1996, see section 663(a), (c) of Pub. L. 104–127, set out as a note under section 1922 of this title.
 
 #### Effective Date of 1992 Amendment
 

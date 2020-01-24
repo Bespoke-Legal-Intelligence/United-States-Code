@@ -46,7 +46,7 @@ The Secretary shall provide direct loans and loan guarantees to—
 
 #### (3) Sunset
 
-&emsp;The Secretary may provide a direct loan or loan guarantee under this section for a project described in paragraph (1)(E) only during the 4-year period beginning on December 4, 2015.
+&emsp;The Secretary may provide a direct loan or loan guarantee under this section for a project described in paragraph (1)(E) until September 30, 2020.
 
 #### (c) Priority projects
 
@@ -290,7 +290,7 @@ The Secretary shall not make a direct loan or loan guarantee under this section 
 
 &emsp;&emsp;(D) provide 1 or more dates, as determined by the Secretary, before which the master credit agreement results in each of the direct loans or loan guarantees or in the release of the master credit agreement.
 
-(Pub. L. 94–210, title V, §502, as added Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 473; amended Pub. L. 109–59, title IX, §9003(b)–(g), Aug. 10, 2005, 119 Stat. 1921–1923; Pub. L. 110–432, div. A, title VII, §701(e), Oct. 16, 2008, 122 Stat. 4906; Pub. L. 114–94, div. A, title XI, §§11603–11605(a), 11606, 11607(a), 11608, 11609, Dec. 4, 2015, 129 Stat. 1694, 1695, 1697–1700.)
+(Pub. L. 94–210, title V, §502, as added Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 473; amended Pub. L. 109–59, title IX, §9003(b)–(g), Aug. 10, 2005, 119 Stat. 1921–1923; Pub. L. 110–432, div. A, title VII, §701(e), Oct. 16, 2008, 122 Stat. 4906; Pub. L. 114–94, div. A, title XI, §§11603–11605(a), 11606, 11607(a), 11608, 11609, Dec. 4, 2015, 129 Stat. 1694, 1695, 1697–1700; Pub. L. 116–94, div. H, title I, §192, Dec. 20, 2019, 133 Stat. 2972.)
 
 #### References in Text
 
@@ -301,6 +301,8 @@ Section 410(a) of the Amtrak Reform and Accountability Act of 1997, referred to 
 A prior section 822, Pub. L. 94–210, title V, §502, Feb. 5, 1976, 90 Stat. 67; Pub. L. 95–620, title VIII, §803(c)(2)–(4), Nov. 9, 1978, 92 Stat. 3347, related to the Rail Fund, prior to repeal by Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 471.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(3). Pub. L. 116–94 substituted "until September 30, 2020" for "only during the 4-year period beginning on December 4, 2015".
 
 <b>2015</b>—Subsec. (a)(5). Pub. L. 114–94, §11603(1), substituted "1 of the entities described in paragraph (1), (2), (3), (4), or (6)" for "one railroad".
 
@@ -324,7 +326,7 @@ Subsec. (c)(6) to (9). Pub. L. 114–94, §11609(a)(4), (5), added par. (6) and 
 
 Subsec. (f)(1). Pub. L. 114–94, §11607(a)(1), substituted "In lieu of or in combination with appropriations of budget authority to cover the costs of direct loans and loan guarantees as required under section 661c(b)(1) of title 2, including the cost of a modification thereof, the Secretary may accept on behalf of an applicant for assistance under this section a commitment from a non-Federal source, including a State or local government or agency or public benefit corporation or public authority thereof, to fund in whole or in part credit risk premiums and modification costs with respect to the loan that is the subject of the application or modification." for "In lieu of or in combination with appropriations of budget authority to cover the costs of direct loans and loan guarantees as required under section 661c(b)(1) of title 2, the Secretary may accept on behalf of an applicant for assistance under this section a commitment from a non-Federal source to fund in whole or in part credit risk premiums with respect to the loan that is the subject of the application."
 
-Subsec. (f)(2)(D) to (F). Pub. L. 114–94, §11607(a)(2), inserted "and" at end of subpar. (D), redesignated subpar. (F) as (E), and struck out former subpar. (E) which read as follows: "the size and characteristics of the cohort of which the loan or loan guarantee is a member; and".
+Subsec. (f)(2)(D) to (F). Pub. L. 114–94, §11607(a)(2), inserted "and" at end of subpar. (D), redesignated subpar.\(F) as (E), and struck out former subpar. (E) which read as follows: "the size and characteristics of the cohort of which the loan or loan guarantee is a member; and".
 
 Subsec. (f)(3). Pub. L. 114–94, §11607(a)(5), added par. (3). Former par. (3) redesignated (4).
 

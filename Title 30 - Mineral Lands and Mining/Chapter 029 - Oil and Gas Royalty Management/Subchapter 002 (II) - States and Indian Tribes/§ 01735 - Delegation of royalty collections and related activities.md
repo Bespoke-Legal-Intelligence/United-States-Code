@@ -60,7 +60,7 @@ After consultation with State authorities, the Secretary shall by rule promulgat
 
 &emsp;(9) issuance of demands, subpoenas, and orders to perform restructured accounting, for royalty management enforcement purposes.
 
-> Such standards and regulations shall be designed to provide reasonable assurance that auniform and effective royalty management system will prevail among the States. The records and accounts under paragraph (2) shall be sufficient to allow the Secretary to monitor the performance of any State under this section.
+> Such standards and regulations shall be designed to provide reasonable assurance that a uniform and effective royalty management system will prevail among the States. The records and accounts under paragraph (2) shall be sufficient to allow the Secretary to monitor the performance of any State under this section.
 
 #### (e) Revocation; issuance of demand or order by Secretary
 

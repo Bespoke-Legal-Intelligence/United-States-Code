@@ -2,7 +2,7 @@
 
 #### (a) Study authority
 
-The Secretary shall study a hydro-environmental monitoring and information system in the New York Bight in the form of a system using computerized buoys and radio telemetry that allows for the continual monitoring (at strategically located sites throughout the New York Bight) of the following: wind, wave, current, salinity and thermal gradients and sea chemistry, in order to measure the effect of changes due to air and water pollution, including changes due to continued dumping in the Bight.
+The Secretary shall study a hydro-environmental monitoring and information system inthe New York Bight in the form of a system using computerized buoys and radio telemetry that allows for the continual monitoring (at strategically located sites throughout the New York Bight) of the following: wind, wave, current, salinity and thermal gradients and sea chemistry, in order to measure the effect of changes due to air and water pollution, including changes due to continued dumping in the Bight.
 
 #### (b) Study of physical hydraulic model
 
@@ -36,7 +36,7 @@ Purpose.—This New York Bight and Harbor effort will address the engineering, e
 
 "(d)
 
-Coordination With EPA; Reports.—The Secretary shall coordinate fully with the Administrator of the Environmental Protection Agency in carrying outthe study described in the section and shall report any findings and recommendations to Congress. The Secretary and the Administrator shall also consider the views of other appropriate Federal, State, and local agencies, academic institutions, and members of the public who are concerned about water and sediment quality in the New York Bight and Harbor region.
+Coordination With EPA; Reports.—The Secretary shall coordinate fully with the Administrator of the Environmental Protection Agency in carrying out the study described in the section and shall report any findings and recommendations to Congress. The Secretary and the Administrator shall also consider the views of other appropriate Federal, State, and local agencies, academic institutions, and members of the public who are concerned about water and sediment quality in the New York Bight and Harbor region.
 
 "(e)
 

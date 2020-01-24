@@ -1,6 +1,6 @@
 ### §7702. Actions involving discrimination
 
-(a)(1) Notwithstanding any other provision of law, and except as provided in paragraph (2) of this subsection, in the case of any employee or applicant for employment who—
+(a)(1) Notwithstanding any other provision of law, and except as provided in paragraph (2) ofthis subsection, in the case of any employee or applicant for employment who—
 
 &emsp;(A) has been affected by an action which the employee or applicant may appeal to the Merit Systems Protection Board, and
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Effectiveness, Generally.—The Secretary may enter into an operating agreement under this chapter for fiscal year 2006. Except as provided in subsection (b), the agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each subsequent fiscal year through the end of fiscal year 2025.
+Effectiveness, Generally.—The Secretary may enter into an operating agreement under this chapter for fiscal year 2006. Except as provided in subsection (b), the agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each subsequent fiscal year through the end of fiscal year 2035.
 
 (b)
 
@@ -40,9 +40,11 @@ Release of Vessels From Obligations.—If funds are not appropriated for payment
 
 &emsp;(3) if chapter 563 of this title is applicable to such vessel after registration of the vessel under such a registry, then the vessel is available to be requisitioned by the Secretary of Transportation pursuant to chapter 563.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1810; amended Pub. L. 109–304, §13(a)(3), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 111–383, div. C, title XXXV, §3502(1), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(d), Jan. 2, 2013, 126 Stat. 2224.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1810; amended Pub. L. 109–304, §13(a)(3), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 111–383, div. C, title XXXV, §3502(1), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(d), Jan. 2, 2013, 126 Stat. 2224; Pub. L. 116–92, div. C, title XXXV, §3502(b), Dec. 20, 2019, 133 Stat. 1969.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 116–92 substituted "2035" for "2025".
 
 <b>2013</b>—Subsec. (c)(3). Pub. L. 112–239, §3508(d)(1), struck out par. (3) which related to early termination by contractor, with available replacement.
 

@@ -62,7 +62,7 @@ Pub. L. 114–74, title XI, §1101(g), Nov. 2, 2015, 129 Stat. 638, provided tha
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this subchapter, amending sections 6031, 6330, 6422, 6501, 6503, 6504, 6511, 6512, 6515, 6601, 7421, 7422, 7459, 7482, and 7485 of this title, and repealing this subchapter, subchapter D of this chapter, and part IV of subchapter K of chapter 1 of this title\] shall apply to returns filed for partnership taxable years beginning after December 31, 2017.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this subchapter, amending sections 6031, 6330, 6422, 6501, 6503, 6504, 6511, 6512, 6515, 6601, 7421, 7422, 7459, 7482, and 7485 of this title, and repealing this subchapter, subchapter D of this chapter, and part IV ofsubchapter K of chapter 1 of this title\] shall apply to returns filed for partnership taxable years beginning after December 31, 2017.
 
 "(2)
 

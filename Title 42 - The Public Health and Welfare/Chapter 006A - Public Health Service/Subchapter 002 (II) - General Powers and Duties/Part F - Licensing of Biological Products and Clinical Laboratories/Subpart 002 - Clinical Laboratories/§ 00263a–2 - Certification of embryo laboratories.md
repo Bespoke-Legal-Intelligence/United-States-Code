@@ -84,7 +84,7 @@ A State which has adopted the certification program may use accreditation organi
 
 &emsp;&emsp;(A) be periodic and unannounced, or
 
-&emsp;&emsp;(B) be announced in such circumstances as the Secretary determines will not diminish the likelihood of discovering deficiencies in the operations of a laboratory.
+&emsp;&emsp;(B) be announced in such circumstances as the Secretary determines will not diminishthe likelihood of discovering deficiencies in the operations of a laboratory.
 
 > &emsp;Before making a determination under subparagraph (B), the Secretary shall make public, in such manner as to facilitate comment from any person (including any Federal or other public agency), a proposal indicating the circumstances under which announced inspections would be permitted.
 

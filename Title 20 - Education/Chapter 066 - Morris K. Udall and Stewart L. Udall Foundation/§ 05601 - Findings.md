@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;&emsp;(A) since 1995, has operated exceptional scholarship, internship, and fellowship programs for areas of study related to the environment and Native American tribal policy and health care;
 
-&emsp;&emsp;(B) since 1999, has provided valuable environmental conflict resolution services and leadership through the United States Institute for Environmental Conflict Resolution; and
+&emsp;&emsp;(B) since 1999, has provided valuable environmental conflict resolution services and leadership through the National Center (previously known as the United States Institute for Environmental Conflict Resolution); and
 
 &emsp;&emsp;(C) is committed to continue making a substantial contribution toward public policy in the future by—
 
@@ -32,15 +32,17 @@ The Congress finds that—
 
 &emsp;(8) it is fitting that the leadership and vision of Stewart L. Udall in the areas of environmental and Native American policy be jointly honored with that of Morris K. Udall through the foundation bearing the Udall name.
 
-(Pub. L. 102–259, §3, Mar. 19, 1992, 106 Stat. 78; Pub. L. 111–90, §3, Nov. 3, 2009, 123 Stat. 2976.)
+(Pub. L. 102–259, §3, Mar. 19, 1992, 106 Stat. 78; Pub. L. 111–90, §3, Nov. 3, 2009, 123 Stat. 2976; Pub. L. 116–94, div. P, title III, §302(b), Dec. 20, 2019, 133 Stat. 3187.)
 
 #### Amendments
+
+<b>2019</b>—Par. (5)(B). Pub. L. 116–94 substituted "the National Center (previously known as the United States Institute for Environmental Conflict Resolution)" for "the United States Institute for Environmental Conflict Resolution".
 
 <b>2009</b>—Pars. (5) to (8). Pub. L. 111–90 added pars. (5) to (8).
 
 #### Short Title of 2009 Amendment
 
-Pub. L. 111–90, §1, Nov. 3, 2009, 123 Stat. 2976, provided that: "This Act \[amending this section, sections 5602, 5603, 5605 to 5607, 5607b, and 5608 of this title, and provisions set out as note under this section\] may be citedas the 'Morris K. Udall Scholarship and Excellence in National Environmental Policy Amendments Act of 2009'."
+Pub. L. 111–90, §1, Nov. 3, 2009, 123 Stat. 2976, provided that: "This Act \[amending this section, sections 5602, 5603, 5605 to 5607, 5607b, and 5608 of this title, and provisions set out as note under this section\] may be cited as the 'Morris K. Udall Scholarship and Excellence in National Environmental Policy Amendments Act of 2009'."
 
 #### Short Title of 2003 Amendment
 
@@ -53,6 +55,20 @@ Pub. L. 105–156, §1, Feb. 11, 1998, 112 Stat. 8, provided that: "This Act \[e
 #### Short Title
 
 Pub. L. 102–259, §1, Mar. 19, 1992, 106 Stat. 78, as amended by Pub. L. 111–90, §2, Nov. 3, 2009, 123 Stat. 2976, provided that: "This Act \[enacting this chapter\] may be cited as the 'Morris K. Udall and Stewart L. Udall Foundation Act'."
+
+#### Findings
+
+Pub. L. 116–94, div. P, title III, §301, Dec. 20, 2019, 133 Stat. 3186, provided that: "Congress finds the following:
+
+&emsp;"(1) Since 1999, the Morris K. Udall and Stewart L. Udall Foundation (referred to in this Act \[probably means "this title", title III of div. P of Pub. L. 116–94, which amended this section and sections 5602 to 5605 and 5607a to 5609 of this title and enacted provisions set out as a note under section 5605 of this title\] as the 'Foundation') has operated the Parks in Focus program to provide opportunities for the youth of the United States to learn about and experience the Nation's parks and wilderness, and other outdoor areas.
+
+&emsp;"(2) Since 2001, the Foundation has conducted research and provided education and training to Native American and Alaska Native professionals and leaders on Native American and Alaska Native health care issues and tribal public policy through the Native Nations Institute for Leadership, Management, and Policy.
+
+&emsp;"(3) The Foundation is committed to continuing to make a substantial contribution toward public policy in the future by—
+
+&emsp;&emsp;"(A) playing a significant role in developing the next generation of environmental, public health, public lands, natural resource, and Native American leaders; and
+
+&emsp;&emsp;"(B) working with current leaders to improve collaboration and decision-making on challenging environmental, energy, public health, and related economic problems and tribal governance and economic development issues."
 
 #### Repeal of Previous Legislation
 

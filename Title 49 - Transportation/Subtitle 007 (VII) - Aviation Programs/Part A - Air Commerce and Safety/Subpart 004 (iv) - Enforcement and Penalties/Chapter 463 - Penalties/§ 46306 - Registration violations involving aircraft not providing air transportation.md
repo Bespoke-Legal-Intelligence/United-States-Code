@@ -72,7 +72,7 @@ Seizure and Forfeiture.—(1) The Administrator of Drug Enforcement or the Commi
 
 &emsp;&emsp;(ii) if a certificate required to be issued for the installation or alteration is not carried on the aircraft.
 
-(3) The Administrator of the Federal Aviation Administration, the Administrator of Drug Enforcement, and the Commissioner shall agree to a memorandum of understanding to establish procedures to carry out this subsection.
+(3) The Administrator of the Federal Aviation Administration, the Administrator of Drug Enforcement, and the Commissioner shall agree toa memorandum of understanding to establish procedures to carry out this subsection.
 
 (e)
 

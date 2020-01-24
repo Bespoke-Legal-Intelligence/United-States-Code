@@ -34,7 +34,7 @@ Historical and Revision Notes
 
 June 11, 1946, ch. 324, §11 (3d sentence), 60 Stat. 244.
 
-The exception from the operation of the efficiency rating system is omitted as covered by sections 4301(2)(E) and 5335(a)(B). The reference to "subchapter III of this chapter and chapter 51 of this title" is substituted for "the Classification Act of 1923, as amended" on authority of section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
+The exception from the operation of the efficiency rating system is omitted as covered by sections4301(2)(E) and 5335(a)(B). The reference to "subchapter III of this chapter and chapter 51 of this title" is substituted for "the Classification Act of 1923, as amended" on authority of section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

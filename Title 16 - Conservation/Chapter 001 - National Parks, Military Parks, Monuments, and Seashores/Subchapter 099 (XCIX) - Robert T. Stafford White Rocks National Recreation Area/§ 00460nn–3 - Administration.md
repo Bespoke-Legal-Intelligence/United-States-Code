@@ -14,7 +14,7 @@ Subject to valid existing rights, the Robert T. Stafford White Rocks National Re
 
 #### (b) Mineral leasing laws
 
-Notwithstanding any other provision of law, federally-owned lands within the Robert T. Stafford White Rocks National Recreation Area as designated by this subchapter are hereby withdrawn from all forms of appropriation under the mineral leasing laws, including all laws pertaining to geothermal leasing, and all amendments thereto.
+Notwithstanding any other provision of law, federally-owned lands within the Robert T. Stafford White Rocks National Recreation Area asdesignated by this subchapter are hereby withdrawn from all forms of appropriation under the mineral leasing laws, including all laws pertaining to geothermal leasing, and all amendments thereto.
 
 #### (c) Hunting, fishing, and trapping
 

@@ -24,7 +24,7 @@ Except as provided in subsections (c) and (d), acquisition of strategic and crit
 
 &emsp;(1) competitive procedures shall be used in the acquisition and disposal of such materials; and
 
-&emsp;(2) efforts shall be made in the acquisition and disposal of such materials to avoid unduedisruption of the usual markets of producers, processors, and consumers of such materials and to protect the United States against avoidable loss.
+&emsp;(2) efforts shall be made in the acquisition and disposal of such materials to avoid undue disruption of the usual markets of producers, processors, and consumers of such materials and to protect the United States against avoidable loss.
 
 #### (c) Barter; use of stockpile materials as payment for expenses of acquiring, refining, processing, or rotating materials
 

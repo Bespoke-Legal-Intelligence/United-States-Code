@@ -22,7 +22,7 @@ The Congress makes the following findings:
 
 &emsp;(5) The Cuban Government is offering foreign investors the opportunity to purchase an equity interest in, manage, or enter into joint ventures using property and assets some of which were confiscated from United States nationals.
 
-&emsp;(6) This "trafficking" in confiscated property provides badly needed financial benefit, including hard currency, oil, and productiveinvestment and expertise, to the current Cuban Government and thus undermines the foreign policy of the United States—
+&emsp;(6) This "trafficking" in confiscated property provides badly needed financial benefit, including hard currency, oil, and productive investment and expertise, to the current Cuban Government and thus undermines the foreign policy of the United States—
 
 &emsp;&emsp;(A) to bring democratic institutions to Cuba through the pressure of a general economic embargo at a time when the Castro regime has proven to be vulnerable to international economic pressure; and
 
@@ -36,7 +36,7 @@ The Congress makes the following findings:
 
 &emsp;(10) The United States Government has an obligation to its citizens to provide protection against wrongful confiscations by foreign nations and their citizens, including the provision of private remedies.
 
-&emsp;(11) To deter trafficking in wrongfully confiscated property, United States nationals who were the victims of these confiscations should be endowed with a judicial remedy in the courts of the United States that would deny traffickers any profits from economically exploiting Castro's wrongful seizures.
+&emsp;(11) To deter trafficking in wrongfully confiscated property, United States nationals who were the victims of these confiscations shouldbe endowed with a judicial remedy in the courts of the United States that would deny traffickers any profits from economically exploiting Castro's wrongful seizures.
 
 (Pub. L. 104–114, title III, §301, Mar. 12, 1996, 110 Stat. 814.)
 

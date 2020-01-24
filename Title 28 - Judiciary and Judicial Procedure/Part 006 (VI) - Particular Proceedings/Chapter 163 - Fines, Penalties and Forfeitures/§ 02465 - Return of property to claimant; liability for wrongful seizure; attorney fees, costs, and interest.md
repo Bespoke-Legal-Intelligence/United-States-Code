@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(i) interest actually paid to the United States from the date of seizure or arrest of the property that resulted from the investment of the property in an interest-bearing account or instrument; and
 
-&emsp;&emsp;(ii) an imputed amount of interest that such currency, instruments, or proceeds would have earned at the rate applicable to the 30-day Treasury Bill, for any period during which no interest was paid (not including any period when the property reasonably was in use as evidence in an official proceeding or in conducting scientific tests for the purpose of collecting evidence), commencing 15 days after the property was seized by a Federal law enforcement agency, or was turned over to a Federal law enforcement agency by a State or local law enforcement agency.
+&emsp;&emsp;(ii) an imputed amount of interest that such currency, instruments, or proceeds would have earned at the rate applicable to the 30-day Treasury Bill, for any period during which no interest was paid (not including any period when the property reasonably was in use as evidence in an official proceeding or in conducting scientific tests for the purpose of collecting evidence), commencing 15 days after the property was seized by aFederal law enforcement agency, or was turned over to a Federal law enforcement agency by a State or local law enforcement agency.
 
 (2)(A) The United States shall not be required to disgorge the value of any intangible benefits nor make any other payments to the claimant not specifically authorized by this subsection.
 

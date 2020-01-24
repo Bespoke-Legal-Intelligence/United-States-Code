@@ -16,7 +16,7 @@ In General.—(1) The Secretary of Defense shall use the procedures prescribed b
 
 > Any operation the incremental cost of which is expected not to exceed $10,000,000 shall be disregarded for the purposes of subparagraph (B).
 
-(3) This section does not provide authority for the President or the Secretary of Defense tocarry out any operation, but establishes mechanisms for the Department of Defense by which funds are provided for operations that the armed forces are required to carry out under some other authority.
+(3) This section does not provide authority for the President or the Secretary of Defense to carry out any operation, but establishes mechanisms for the Department of Defense by which funds are provided for operations that the armed forces are required to carry out under some other authority.
 
 (b)
 
@@ -78,7 +78,7 @@ Subsec. (b)(1). Pub. L. 111–383, §1075(b)(2)(B), substituted "armed forces" f
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which required Secretary of Defense, within 45 days after identifying an operation pursuant to subsec. (a)(2), to submit a report to Congress relating to the funding, objectives, duration, cost, and exit criteria of the operation.
 
-<b>1996</b>—Pub. L. 104–106 substituted "Operations for which funds are not provided in advance: funding mechanisms" for "Expenses for contingency operations" as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to funding procedures for operations designated by the Secretary of Defense as National Contingency Operations.
+<b>1996</b>—Pub. L. 104–106 substituted "Operations for which funds are not provided in advance: funding mechanisms" for "Expenses for contingency operations" as section catchline and amended text generally. Prior toamendment, text consisted of subsecs. (a) to (h) relating to funding procedures for operations designated by the Secretary of Defense as National Contingency Operations.
 
 #### Effective Date of 1996 Amendment
 

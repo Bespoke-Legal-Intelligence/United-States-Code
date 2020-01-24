@@ -100,7 +100,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 &emsp;&emsp;&emsp;(i) is licensed by the State or certified by an independent professional regulatory authority;
 
-&emsp;&emsp;&emsp;(ii) in the absence of such State licensure or certification, possesses nationalcertification in school counseling or a specialty of counseling granted by an independent professional organization; or
+&emsp;&emsp;&emsp;(ii) in the absence of such State licensure or certification, possesses national certification in school counseling or a specialty of counseling granted by an independent professional organization; or
 
 &emsp;&emsp;&emsp;(iii) holds a minimum of a master's degree in school counseling from a program accredited by the Council for Accreditation of Counseling and Related Educational Programs or the equivalent; and
 
@@ -198,7 +198,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 #### (d) Priority
 
-The Secretary shall grant loan forgiveness under this section on a first-come, first-servedbasis, and subject to the availability of appropriations.
+The Secretary shall grant loan forgiveness under this section on a first-come, first-served basis, and subject to the availability of appropriations.
 
 #### (e) Rule of construction
 

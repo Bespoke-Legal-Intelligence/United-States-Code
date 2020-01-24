@@ -80,7 +80,7 @@
 
 #### (3) Reporting
 
-&emsp;The Comptroller General shall submit reports of findings under this section annually to the appropriate committees of Congress, and the Special Inspector General for the Troubled Asset Relief Program established under this chapter on the activities and performance of the TARP. The Comptroller may also submit special reports under this subsection as warranted by the findings of its oversight activities.
+&emsp;The Comptroller General shall submit reports of findings under this section annuallyto the appropriate committees of Congress, and the Special Inspector General for the Troubled Asset Relief Program established under this chapter on the activities and performance of the TARP. The Comptroller may also submit special reports under this subsection as warranted by the findings of its oversight activities.
 
 #### (b) Comptroller General audits
 

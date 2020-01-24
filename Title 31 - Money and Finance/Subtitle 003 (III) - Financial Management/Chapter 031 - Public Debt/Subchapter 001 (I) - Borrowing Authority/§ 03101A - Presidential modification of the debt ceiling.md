@@ -14,7 +14,7 @@ Certification.—If, not later than December 31, 2011, the President submits a w
 
 &emsp;&emsp;(B)
 
-Resolution of disapproval.—Congress may consider a joint resolution of disapproval of the authority under subparagraph (A) as provided in subsections (b) through (f). The joint resolution of disapproval considered under this section shall contain only the language provided in subsection (b)(2). If the time for disapproval has lapsed without enactment of a joint resolution of disapproval under this section, the debt limit is increased by an additional $500,000,000,000.
+Resolution of disapproval.—Congress may consider a joint resolution of disapproval of the authority under subparagraph (A) as provided in subsections (b) through (f). The joint resolution of disapproval considered under this section shall contain only the language provided in subsection (b)(2). If the time for disapproval has lapsed without enactment of a joint resolution of disapproval under this section, thedebt limit is increased by an additional $500,000,000,000.
 
 &emsp;(2)
 
@@ -26,7 +26,7 @@ Certification.—If, after the debt limit is increased by $900,000,000,000 under
 
 &emsp;&emsp;&emsp;(i) $1,200,000,000,000, unless clause (ii) or (iii) applies;
 
-&emsp;&emsp;&emsp;(ii) $1,500,000,000,000 if the Archivist of the United States has submitted to the States for their ratification a proposed amendment to the Constitution of the United States pursuant to a joint resolution entitled "Joint resolution proposing abalanced budget amendment to the Constitution of the United States"; or
+&emsp;&emsp;&emsp;(ii) $1,500,000,000,000 if the Archivist of the United States has submitted to the States for their ratification a proposed amendment to the Constitution of the United States pursuant to a joint resolution entitled "Joint resolution proposing a balanced budget amendment to the Constitution of the United States"; or
 
 &emsp;&emsp;&emsp;(iii) if a joint committee bill to achieve an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted, an amount equal to the amount of that deficit reduction, but not greater than $1,500,000,000,000, unless clause (ii) applies.
 
@@ -82,7 +82,7 @@ Expedited Procedure in Senate.—
 
 &emsp;(1)
 
-Reconvening.—Upon receipt of a certification under subsection (a)(2), if the Senate has adjourned or recessed for more than 2 days, the majority leader of the Senate, after consultation with the minority leader of the Senate, shall notify the Members of the Senate that, pursuant to this section, the Senate shall convene not later than the second calendar day after receipt of such message.
+Reconvening.—Upon receipt of a certification under subsection (a)(2), if the Senatehas adjourned or recessed for more than 2 days, the majority leader of the Senate, after consultation with the minority leader of the Senate, shall notify the Members of the Senate that, pursuant to this section, the Senate shall convene not later than the second calendar day after receipt of such message.
 
 &emsp;(2)
 
@@ -94,7 +94,7 @@ Floor consideration.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time during the period beginning on the day after the date on which Congress receives a certification under subsection (a) and, for the certification described in subsection (a)(1), ending on September 14, 2011, and for the certification described in subsection (a)(2), on the 6th day after the date on which Congress receives a certification under subsection (a) (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution,and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the joint resolution shall remain the unfinished business until disposed of.
+In general.—Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time during the period beginning on the day after the date on which Congress receives a certification under subsection (a) and, for the certification described in subsection (a)(1), ending on September 14, 2011, and for the certification described in subsection (a)(2), on the 6th day after the date on which Congress receives a certification under subsection (a) (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the joint resolution shall remain the unfinished business until disposed of.
 
 &emsp;&emsp;(B)
 
@@ -152,7 +152,7 @@ Sequestration.—(A) If within the 50-calendar day period described in subsectio
 
 Rules of House of Representatives and Senate.—This subsection and subsections (b), (c), (d), (e), and (f) (other than paragraph (6)) are enacted by Congress—
 
-&emsp;(1) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
+&emsp;(1) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part ofthe rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
 
 &emsp;(2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 

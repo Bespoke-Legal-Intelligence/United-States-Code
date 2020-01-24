@@ -36,7 +36,7 @@
 
 (3)(A) The Secretary, by regulation promulgated in accordance with subsection (b) and to the maximum extent prudent and determinable—
 
-&emsp;(i) shall, concurrently with making a determination under paragraph (1) that a species is an endangered species or a threatened species, designate any habitat of such species which is then considered to be critical habitat; and
+&emsp;(i) shall, concurrently with making a determination under paragraph (1) that a species is an endangered species or a threatened species,designate any habitat of such species which is then considered to be critical habitat; and
 
 &emsp;(ii) may, from time-to-time thereafter as appropriate, revise such designation.
 
@@ -58,7 +58,7 @@
 
 (2) The Secretary shall designate critical habitat, and make revisions thereto, under subsection (a)(3) on the basis of the best scientific data available and after taking into consideration the economic impact, the impact on national security, and any other relevant impact, of specifying any particular area as critical habitat. The Secretary may exclude any area from critical habitat if he determines that the benefits of such exclusion outweigh the benefits of specifying such area as part of the critical habitat, unless he determines, based on the best scientific and commercial data available, that the failure to designate such area as critical habitat will result in the extinction of the species concerned.
 
-(3)(A) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under section 553(e) of title 5, to add a species to, or to remove a species from, either of the lists published under subsection (c),the Secretary shall make a finding as to whether the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted. If such a petition is found to present such information, the Secretary shall promptly commence a review of the status of the species concerned. The Secretary shall promptly publish each finding made under this subparagraph in the Federal Register.
+(3)(A) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under section 553(e) of title 5, to add a species to, or to remove a species from, either of the lists published under subsection (c), the Secretary shall make a finding as to whether the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted. If such a petition is found to present such information, the Secretary shall promptly commence a review of the status of the species concerned. The Secretary shall promptly publish each finding made under this subparagraph in the Federal Register.
 
 (B) Within 12 months after receiving a petition that is found under subparagraph (A) to present substantial information indicating that the petitioned action may be warranted, the Secretary shall make one of the following findings:
 
@@ -162,7 +162,7 @@
 
 #### (d) Protective regulations
 
-Whenever any species is listed as a threatened species pursuant to subsection (c) of this section, the Secretary shall issue such regulations as he deems necessary and advisable to provide for the conservation of such species. The Secretary may by regulation prohibit with respect to any threatened species any act prohibitedunder section 1538(a)(1) of this title, in the case of fish or wildlife, or section 1538(a)(2) of this title, in the case of plants, with respect to endangered species; except that with respect to the taking of resident species of fish or wildlife, such regulations shall apply in any State which has entered into a cooperative agreement pursuant to section 1535(c) of this title only to the extent that such regulations have also been adopted by such State.
+Whenever any species is listed as a threatened species pursuant to subsection (c) of this section, the Secretary shall issue such regulations as he deems necessary and advisable to provide for the conservation of such species. The Secretary may by regulation prohibit with respect to any threatened species any act prohibited under section 1538(a)(1) of this title, in the case of fish or wildlife, or section 1538(a)(2) of this title, in the case of plants, with respect to endangered species; except that with respect to the taking of resident species of fish or wildlife, such regulations shall apply in any State which has entered into a cooperative agreement pursuant to section 1535(c) of this title only to the extent that such regulations have also been adopted by such State.
 
 #### (e) Similarity of appearance cases
 
@@ -218,7 +218,7 @@ The Secretary shall establish, and publish in the Federal Register, agency guide
 
 #### (i) Submission to State agency of justification for regulations inconsistent with State agency's comments or petition
 
-If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict withsuch comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3), the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency's comments or petition.
+If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3), the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency's comments or petition.
 
 (Pub. L. 93–205, §4, Dec. 28, 1973, 87 Stat. 886; Pub. L. 94–359, §1, July 12, 1976, 90 Stat. 911; Pub. L. 95–632, §§11, 13, Nov. 10, 1978, 92 Stat. 3764, 3766; Pub. L. 96–159, §3, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, §2(a), Oct. 13, 1982, 96 Stat. 1411; Pub. L. 100–478, title I, §§1002–1004, Oct. 7, 1988, 102 Stat. 2306, 2307; Pub. L. 108–136, div. A, title III, §318, Nov. 24, 2003, 117 Stat. 1433.)
 
@@ -244,7 +244,7 @@ Subsec. (f). Pub. L. 100–478, §1003, amended subsec. (f) generally. Prior to 
 
 Subsecs. (g) to (i). Pub. L. 100–478, §1004, added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-<b>1982</b>—Subsec. (a)(1). Pub. L. 97–304, §2(a)(1)(B), (D), inserted "promulgated in accordance with subsection (b)" after "shall by regulation" in introductory provisions preceding subpar. (A), and struck out provision following subpar. (E), which directed the Secretary, at the time regulations were proposed, to specify any habitat of a species considered to be a critical habitat but that such specification of critical habitats not apply to species listed prior to Nov. 10, 1978.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–304, §2(a)(1)(B), (D), inserted "promulgated in accordance with subsection (b)" after "shall by regulation" in introductory provisions preceding subpar. (A), and struck out provision following subpar. (E), which directed the Secretary, atthe time regulations were proposed, to specify any habitat of a species considered to be a critical habitat but that such specification of critical habitats not apply to species listed prior to Nov. 10, 1978.
 
 Subsec. (a)(1)(A). Pub. L. 97–304, §2(a)(1)(A), redesignated subpar. (1) as (A).
 

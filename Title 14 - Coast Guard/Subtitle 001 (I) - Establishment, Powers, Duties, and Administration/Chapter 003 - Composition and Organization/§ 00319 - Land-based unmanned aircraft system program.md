@@ -78,7 +78,7 @@ A prior section 473, act Aug. 4, 1949, ch. 393, 63 Stat. 532, authorized Secreta
 
 A prior section 474, act Aug. 4, 1949, ch. 393, 63 Stat. 532, related to compensation for travel tolls and fares, prior to repeal by act Sept. 1, 1954, ch. 1211, §5, 68 Stat. 1130. See section 478 of Title 37, Pay and Allowances of the Uniformed Services.
 
-A prior section 489, act Aug. 4, 1949, ch. 393, 63 Stat. 534, provided for payment of a death gratuity to survivors of officers and enlisted men of Regular Coast Guard, prior to repeal by act Aug. 1, 1956, ch. 837, title V, §502(8)(A), 70 Stat. 886. See sections 1475 to 1480 of Title 10, Armed Forces.
+A prior section 489, act Aug. 4, 1949, ch. 393, 63 Stat. 534, provided for payment of a death gratuity to survivors of officers and enlisted men of Regular Coast Guard, prior to repeal by act Aug. 1, 1956, ch. 837, titleV, §502(8)(A), 70 Stat. 886. See sections 1475 to 1480 of Title 10, Armed Forces.
 
 A prior section 490, acts Aug. 4, 1949, ch. 393, §1, 63 Stat. 534; Aug. 3, 1950, ch. 536, §26, 64 Stat. 407; Aug. 23, 1958, Pub. L. 85–738, §1, 72 Stat. 832; Sept. 15, 1965, Pub. L. 89–185, §2, 79 Stat. 789, provided for settlement of claims of military and civilian personnel, prior to repeal by Pub. L. 88–558, §7, Aug. 31, 1964, 78 Stat. 768, effective two years from Aug. 31, 1964. See section 3721 of Title 31, Money and Finance. Pub. L. 89–185 and Pub. L. 88–558 were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 

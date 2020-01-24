@@ -24,7 +24,7 @@
 
 (f) The Secretary shall prescribe regulations to ensure that the priorities set forth in section 1705 of this title shall be applied, insofar as practicable, to participation in therapeutic and rehabilitation activities carried out under this section.
 
-(g)(1) The Secretary may not consider any of the matters stated in paragraph (2) as a basis for the denial or discontinuance of a rating of total disability for purposes of compensation or pension based on the veteran's inability to secure orfollow a substantially gainful occupation as a result of disability.
+(g)(1) The Secretary may not consider any of the matters stated in paragraph (2) as a basis for the denial or discontinuance of a rating of total disability for purposes of compensation or pension based on the veteran's inability to secure or follow a substantially gainful occupation as a result of disability.
 
 (2) Paragraph (1) applies to the following:
 

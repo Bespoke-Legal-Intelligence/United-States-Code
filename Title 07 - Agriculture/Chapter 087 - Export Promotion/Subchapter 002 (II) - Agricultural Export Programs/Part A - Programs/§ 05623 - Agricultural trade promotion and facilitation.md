@@ -66,7 +66,7 @@ The Secretary shall carry out activities under this section—
 
 #### (B) Limitation on branded promotion
 
-&emsp;&emsp;Assistance provided under this subsection for activities described in paragraph (3)(D) shall not exceed 50 percent of the cost of implementing the marketing plan, except that the Secretary may determine not to applysuch limitation in the case of United States agricultural commodities with respect to which there has been a favorable decision by the United States Trade Representative under section 2411 of title 19. Criteria used by the Secretary for determining that the limitation shall not apply shall be consistent and documented.
+&emsp;&emsp;Assistance provided under this subsection for activities described in paragraph (3)(D) shall not exceed 50 percent of the cost of implementing the marketing plan, except that the Secretary may determine not to apply such limitation in the case of United States agricultural commodities with respect to which there has been a favorable decision by the United States Trade Representative under section 2411 of title 19. Criteria used by the Secretary for determining that the limitation shall not apply shall be consistent and documented.
 
 #### (5) Other terms and conditions
 

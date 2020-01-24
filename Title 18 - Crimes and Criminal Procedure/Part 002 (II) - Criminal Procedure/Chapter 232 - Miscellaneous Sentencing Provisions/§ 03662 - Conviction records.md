@@ -12,7 +12,7 @@
 
 &emsp;(3) shall be prima facie evidence in any court of the United States, the District of Columbia, the Commonwealth of Puerto Rico, a territory or possession of the United States, any political subdivision, or any department, agency, or instrumentality thereof, that the convictions occurred and whether they have been judicially determined to be invalid on collateral review.
 
-(d) The Attorney General of the United States shall give reasonable public notice, and afford tointerested parties opportunity for hearing, prior to prescribing regulations under this section.
+(d) The Attorney General of the United States shall give reasonable public notice, and afford to interested parties opportunity for hearing, prior to prescribing regulations under this section.
 
 (Added Pub. L. 91–452, title X, §1001(a), Oct. 15, 1970, 84 Stat. 951, §3578; renumbered §3662, Pub. L. 98–473, title II, §212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
 

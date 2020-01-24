@@ -4,7 +4,7 @@
 
 (b) The bureaus and offices of the executive part of the Department of the Navy have the same relation and responsibility to the Navy Reserve as they do to the Regular Navy.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2971; amended Pub. L. 109–163, div. A, title V, §515(b)(1)(AA), (3)(F), Jan. 6, 2006, 119 Stat. 3233, 3234.)
+(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2971; amendedPub. L. 109–163, div. A, title V, §515(b)(1)(AA), (3)(F), Jan. 6, 2006, 119 Stat. 3233, 3234.)
 
 #### Prior Provisions
 

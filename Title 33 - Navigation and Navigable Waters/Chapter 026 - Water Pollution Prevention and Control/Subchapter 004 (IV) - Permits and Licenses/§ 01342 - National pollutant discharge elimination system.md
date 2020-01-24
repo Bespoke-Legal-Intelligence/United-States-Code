@@ -14,7 +14,7 @@
 
 #### (b) State permit programs
 
-At any time after the promulgation of the guidelines required by subsection (i)(2) of section 1314 of this title, the Governor of each State desiring to administer its own permit program for discharges into navigable waters within its jurisdiction may submit to the Administrator a full and complete description of the program it proposes to establish and administer under State law or under an interstate compact. In addition, such State shall submit a statement from the attorney general (or the attorney for those State water pollution control agencies which have independent legal counsel), or fromthe chief legal officer in the case of an interstate agency, that the laws of such State, or the interstate compact, as the case may be, provide adequate authority to carry out the described program. The Administrator shall approve each submitted program unless he determines that adequate authority does not exist:
+At any time after the promulgation of the guidelines required by subsection (i)(2) of section 1314 of this title, the Governor of each State desiring to administer its own permit program for discharges into navigable waters within its jurisdiction may submit to the Administrator a full and complete description of the program it proposes to establish and administer under State law or under an interstate compact. In addition, such State shall submit a statement from the attorney general (or the attorney for those State water pollution control agencies which have independent legal counsel), or from the chief legal officer in the case of an interstate agency, that the laws of such State, or the interstate compact, as the case may be, provide adequate authority to carry out the described program. The Administrator shall approve each submitted program unless he determines that adequate authority does not exist:
 
 (1) To issue permits which—
 
@@ -74,7 +74,7 @@ Limitations on partial permit program returns and withdrawals.—A State may ret
 
 (3) The Administrator may, as to any permit application, waive paragraph (2) of this subsection.
 
-(4) In any case where, after December 27, 1977, the Administrator, pursuant to paragraph (2) of this subsection, objects to the issuance of a permit, on request of the State, a public hearing shall be held by the Administrator on such objection. If the State does not resubmit such permit revised to meet such objection within 30 days after completion of the hearing, or, if no hearing is requested within 90 days after the date of such objection, the Administrator may issue the permit pursuant to subsection (a) of this section for such source in accordance with the guidelines and requirements of this chapter.
+(4) In any case where, after December 27, 1977, the Administrator, pursuant to paragraph (2) of this subsection, objects to the issuance of a permit, on request of the State, a public hearing shall be held by the Administrator on such objection. If the State does not resubmit such permit revised to meet such objection within 30 days after completion of the hearing, or, if no hearing is requested within 90 days after thedate of such objection, the Administrator may issue the permit pursuant to subsection (a) of this section for such source in accordance with the guidelines and requirements of this chapter.
 
 #### (e) Waiver of notification requirement
 
@@ -160,7 +160,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (1) General prohibition
 
-&emsp;In the case of effluent limitations established on the basis of subsection (a)(1)(B) of this section, a permit may not be renewed, reissued, or modified on the basis of effluent guidelines promulgated under section 1314(b) of this title subsequent to the original issuance of such permit, to contain effluent limitations which are less stringent than the comparable effluent limitations in the previouspermit. In the case of effluent limitations established on the basis of section 1311(b)(1)(C) or section 1313(d) or (e) of this title, a permit may not be renewed, reissued, or modified to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit except in compliance with section 1313(d)(4) of this title.
+&emsp;In the case of effluent limitations established on the basis of subsection (a)(1)(B) of this section, a permit may not be renewed, reissued, or modified on the basis of effluent guidelines promulgated under section 1314(b) of this title subsequent to the original issuance of such permit, to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit. In the case of effluent limitations established on the basis of section 1311(b)(1)(C) or section 1313(d) or (e) of this title, a permit may not be renewed, reissued, or modified to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit except in compliance with section 1313(d)(4) of this title.
 
 #### (2) Exceptions
 
@@ -224,7 +224,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (A) Industrial and large municipal discharges
 
-&emsp;&emsp;Not later than 2 years after February 4, 1987, the Administrator shall establish regulations setting forth the permit application requirements for stormwater discharges described in paragraphs (2)(B) and (2)(C). Applications for permits for such discharges shall be filed no later than 3 years after February4, 1987. Not later than 4 years after February 4, 1987, the Administrator or the State, as the case may be, shall issue or deny each such permit. Any such permit shall provide for compliance as expeditiously as practicable, but in no event later than 3 years after the date of issuance of such permit.
+&emsp;&emsp;Not later than 2 years after February 4, 1987, the Administrator shall establish regulations setting forth the permit application requirements for stormwater discharges described in paragraphs (2)(B) and (2)(C). Applications for permits for such discharges shall be filed no later than 3 years after February 4, 1987. Not later than 4 years after February 4, 1987, the Administrator or the State, as the case may be, shall issue or deny each such permit. Any such permit shall provide for compliance as expeditiously as practicable, but in no event later than 3 years after the date of issuance of such permit.
 
 #### (B) Other municipal discharges
 
@@ -238,7 +238,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 &emsp;&emsp;(B) determining, to the maximum extent practicable, the nature and extent of pollutants in such discharges; and
 
-&emsp;&emsp;(C) establishing procedures and methods to control stormwater discharges to the extent necessary to mitigate impacts on water quality.
+&emsp;&emsp;(C) establishing procedures and methods to control stormwater discharges to the extentnecessary to mitigate impacts on water quality.
 
 > &emsp;Not later than October 1, 1988, the Administrator shall submit to Congress a report on the results of the study described in subparagraphs (A) and (B). Not later than October 1, 1989, the Administrator shall submit to Congress a report on the results of the study described in subparagraph (C).
 
@@ -314,7 +314,7 @@ No permit shall be required under this chapter by the Administrator (or a State,
 
 #### (C) Review
 
-&emsp;&emsp;A schedule of compliance incorporated into a permit issued under this section may be reviewed at the time the permit is renewed to determine whether the schedule should be modified.
+&emsp;&emsp;A schedule of compliance incorporated into a permit issued under this section maybe reviewed at the time the permit is renewed to determine whether the schedule should be modified.
 
 #### (5) Existing authorities retained
 
@@ -380,13 +380,13 @@ Subsec. (l). Pub. L. 95–217, §33(c), added subsec. (l).
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Enforcement functions of Administrator or other official of the Environmental Protection Agency under this section relating to compliance with national pollutant discharge elimination system permits with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 #### Permit Requirements for Discharges From Certain Vessels
 
-Pub. L. 110–299, §§1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, §1, July 30, 2010, 124 Stat. 2347; Pub. L. 112–213, title VII, §703, Dec. 20, 2012, 126 Stat. 1580; Pub. L. 113–281, title VI, §602, Dec. 18, 2014, 128 Stat. 3061; Pub. L. 115–100, §1, Jan. 3, 2018, 131 Stat. 2245, which exempted from permit requirements, for the period from July 31, 2008, through Jan. 19, 2018, discharges incidental to the normal operation of vessels, subject to certain exceptions, was repealed by Pub. L. 115–282, title IX, §903(a)(2)(A)(ii), Dec. 4, 2018, 132 Stat. 4354.
+Pub. L. 110–299, §§1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, §1, July 30, 2010, 124 Stat. 2347; Pub. L. 112–213, title VII, §703, Dec. 20, 2012, 126Stat. 1580; Pub. L. 113–281, title VI, §602, Dec. 18, 2014, 128 Stat. 3061; Pub. L. 115–100, §1, Jan. 3, 2018, 131 Stat. 2245, which exempted from permit requirements, for the period from July 31, 2008, through Jan. 19, 2018, discharges incidental to the normal operation of vessels, subject to certain exceptions, was repealed by Pub. L. 115–282, title IX, §903(a)(2)(A)(ii), Dec. 4, 2018, 132 Stat. 4354.
 
 #### Stormwater Permit Requirements
 
@@ -470,7 +470,7 @@ Log Transfer Facility Defined.—For the purposes of this section, the term 'log
 
 #### Allowable Delay in Modifying Existing Approved State Permit Programs To Conform to 1977 Amendment
 
-Pub. L. 95–217, §54(c)(2), Dec. 27, 1977, 91 Stat. 1591, provided that any State permit program approved under this section before Dec. 27, 1977, which required modification to conform to the amendment made by section 54(c)(1) of Pub. L. 95–217, which amended subsec. (b)(8) of this section, not be required to be modified before the end of the one year period which began on Dec. 27, 1977, unless in order to make the required modification a State must amend or enact a law in which case such modification not be required for such State before the end of the two year period which began on Dec. 27, 1977.
+Pub. L. 95–217, §54(c)(2), Dec. 27, 1977, 91 Stat. 1591, provided that any State permit program approvedunder this section before Dec. 27, 1977, which required modification to conform to the amendment made by section 54(c)(1) of Pub. L. 95–217, which amended subsec. (b)(8) of this section, not be required to be modified before the end of the one year period which began on Dec. 27, 1977, unless in order to make the required modification a State must amend or enact a law in which case such modification not be required for such State before the end of the two year period which began on Dec. 27, 1977.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a commission on the education of the deaf (in this section referred to as the "commission") to conduct a national study on the education of the deaf, to identify education-related barriers to successful postsecondary education experiences and employment for individuals who are deaf, and those education-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf.
+&emsp;The Secretary shall establish a commission on the education of the deaf (in this section referred to as the "commission") to conduct a national study on the education of the deaf, to identify education-related barriers to successful postsecondary education experiences and employment for individuals who are deaf, andthose education-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf.
 
 #### (2) Definition
 

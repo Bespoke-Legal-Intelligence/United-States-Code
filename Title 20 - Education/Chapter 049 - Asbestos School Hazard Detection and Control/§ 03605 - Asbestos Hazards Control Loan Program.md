@@ -42,7 +42,7 @@ Loans under this section shall be made pursuant to loan agreements which shall p
 
 &emsp;(B) the application contains assurances that—
 
-&emsp;&emsp;(i) any employee engaged in any activity to carry out programs under this section shall be notified in writing by the local educational agency conducting the program ofthe hazards of working with asbestos, and shall be required to utilize all appropriate safety procedures to minimize health risks;
+&emsp;&emsp;(i) any employee engaged in any activity to carry out programs under this section shall be notified in writing by the local educational agency conducting the program of the hazards of working with asbestos, and shall be required to utilize all appropriate safety procedures to minimize health risks;
 
 &emsp;&emsp;(ii) no child or school employee shall be permitted in the vicinity of any asbestos containment or removal activity; and
 

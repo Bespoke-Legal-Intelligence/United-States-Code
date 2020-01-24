@@ -34,7 +34,7 @@ Reduction of Annuity for Retired Employee.—(1) The Secretary may order that th
 
 &emsp;(C) the Secretary issues the order—
 
-&emsp;&emsp;(i) in the case of a proposed order to which an individual responds under subparagraph (B)(ii), not later than five business days after receiving the response of the individual; or
+&emsp;&emsp;(i) in the case of a proposed order to which an individual responds under subparagraph\(B)(ii), not later than five business days after receiving the response of the individual; or
 
 &emsp;&emsp;(ii) in the case of a proposed order to which an individual does not respond, not later than 15 business days after the Secretary provides notice to the individual under subparagraph (B)(i).
 

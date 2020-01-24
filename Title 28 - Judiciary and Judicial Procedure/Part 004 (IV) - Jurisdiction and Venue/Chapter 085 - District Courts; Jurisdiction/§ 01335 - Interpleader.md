@@ -30,5 +30,5 @@ Changes were made in phraseology.
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–2 applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as a note under section 1332 of this title.
+Amendment by Pub. L. 109–2 applicable to any civil action commenced on or after Feb. 18, 2005, see section9 of Pub. L. 109–2, set out as a note under section 1332 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Consideration and determination
 
-Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider each standard established by subsection (d) and make a determination concerning whether or not it is appropriate to implement such standard to carry out the purposes of this chapter. For purposes of such consideration and determination in accordance with subsections (b) and (c), and for purposes of any review of such consideration and determination in any court in accordance with section 2633 of this title, the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatoryauthority or nonregulated electric utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
+Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider each standard established by subsection (d) and make a determination concerning whether or not it is appropriate to implement such standard to carry out the purposes of this chapter. For purposes of such consideration and determination in accordance with subsections (b) and (c), and for purposes of any review of such consideration and determination in any court in accordance with section 2633 of this title, the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
 
 #### (b) Procedural requirements for consideration and determination
 
@@ -72,7 +72,7 @@ The following Federal standards are hereby established:
 
 #### (8) Investments in conservation and demand management
 
-&emsp;The rates allowed to be charged by a State regulated electric utility shall be such that the utility's investment in and expenditures for energy conservation, energy efficiency resources, and other demand side management measures are at least as profitable, giving appropriate consideration to income lost from reduced sales due to investments in and expenditures for conservation and efficiency, as its investments in and expenditures for theconstruction of new generation, transmission, and distribution equipment. Such energy conservation, energy efficiency resources and other demand side management measures shall be appropriately monitored and evaluated.
+&emsp;The rates allowed to be charged by a State regulated electric utility shall be such that the utility's investment in and expenditures for energy conservation, energy efficiency resources, and other demand side management measures are at least as profitable, giving appropriate consideration to income lost from reduced sales due to investments in and expenditures for conservation and efficiency, as its investments in and expenditures for the construction of new generation, transmission, and distribution equipment. Such energy conservation, energy efficiency resources and other demand side management measures shall be appropriately monitored and evaluated.
 
 #### (9) Energy efficiency investments in power generation and supply
 
@@ -104,7 +104,7 @@ The following Federal standards are hereby established:
 
 #### (12) Fuel sources
 
-&emsp;Each electric utility shall develop a plan to minimize dependence on 1 fuel source and to ensure that the electric energy it sells to consumers is generated using a diverse range of fuels and technologies, including renewable technologies.
+&emsp;Each electric utility shall develop a plan to minimize dependence on 1 fuel source and toensure that the electric energy it sells to consumers is generated using a diverse range of fuels and technologies, including renewable technologies.
 
 #### (13) Fossil fuel generation efficiency
 
@@ -116,7 +116,7 @@ The following Federal standards are hereby established:
 
 &emsp;(B) The types of time-based rate schedules that may be offered under the schedule referred to in subparagraph (A) include, among others—
 
-&emsp;&emsp;(i) time-of-use pricing whereby electricity prices are set for a specific time period on an advance or forward basis, typically notchanging more often than twice a year, based on the utility's cost of generating and/or purchasing such electricity at the wholesale level for the benefit of the consumer. Prices paid for energy consumed during these periods shall be pre-established and known to consumers in advance of such consumption, allowing them to vary their demand and usage in response to such prices and manage their energy costs by shifting usage to a lower cost period or reducing their consumption overall;
+&emsp;&emsp;(i) time-of-use pricing whereby electricity prices are set for a specific time period on an advance or forward basis, typically not changing more often than twice a year, based on the utility's cost of generating and/or purchasing such electricity at the wholesale level for the benefit of the consumer. Prices paid for energy consumed during these periods shall be pre-established and known to consumers in advance of such consumption, allowing them to vary their demand and usage in response to such prices and manage their energy costs by shifting usage to a lower cost period or reducing their consumption overall;
 
 &emsp;&emsp;(ii) critical peak pricing whereby time-of-use prices are in effect except for certain peak days, when prices may reflect the costs of generating and/or purchasing electricity at the wholesale level and when consumers may receive additional discounts for reducing peak period energy consumption;
 
@@ -190,7 +190,7 @@ The following Federal standards are hereby established:
 
 #### (B) Rate recovery
 
-&emsp;&emsp;Each State shall consider authorizing each electric utility of the State to recover fromratepayers any capital, operating expenditure, or other costs of the electric utility relating to the deployment of a qualified smart grid system, including a reasonable rate of return on the capital expenditures of the electric utility for the deployment of the qualified smart grid system.
+&emsp;&emsp;Each State shall consider authorizing each electric utility of the State to recover from ratepayers any capital, operating expenditure, or other costs of the electric utility relating to the deployment of a qualified smart grid system, including a reasonable rate of return on the capital expenditures of the electric utility for the deployment of the qualified smart grid system.
 
 #### (C) Obsolete equipment
 
@@ -260,7 +260,7 @@ Subsec. (d)(10). Pub. L. 102–486, §712, added par. (10).
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### State Authorities; Construction
 

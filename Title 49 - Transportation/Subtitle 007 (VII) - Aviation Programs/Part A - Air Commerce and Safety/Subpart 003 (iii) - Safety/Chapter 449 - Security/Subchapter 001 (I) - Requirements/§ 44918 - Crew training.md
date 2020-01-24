@@ -50,7 +50,7 @@ Monitoring.—The Administrator of the Transportation Security Administration, i
 
 &emsp;(7)
 
-Updates.—The Administrator of the Transportation Security Administration, in consultation with the Administrator, shall order air carriers to modify training programsunder this subsection to reflect new or different security threats.
+Updates.—The Administrator of the Transportation Security Administration, in consultation with the Administrator, shall order air carriers to modify training programs under this subsection to reflect new or different security threats.
 
 (b)
 
@@ -84,7 +84,7 @@ Participation not required.—A crew member shall not be required to participate
 
 &emsp;(4)
 
-Compensation.—Neither the Federal Government nor an air carrier shall be required to compensate a crew member for participating in the training program under this subsection.
+Compensation.—Neither the Federal Government nor an air carrier shall be required tocompensate a crew member for participating in the training program under this subsection.
 
 &emsp;(5)
 

@@ -6,14 +6,10 @@
 | [4502\.](%C2%A7%2004502%20-%20Payment.md) | Payment. |
 | [4503\.](%C2%A7%2004503%20-%20Security%20for%20advance%20payments.md) | Security for advance payments. |
 | [4504\.](%C2%A7%2004504%20-%20Conditions%20for%20progress%20payments.md) | Conditions for progress payments. |
-| [4505\.](%C2%A7%2004505%20-%20Payments%20for%20commercial%20items.md) | Payments for commercial items. |
+| [4505\.](%C2%A7%2004505%20-%20Payments%20for%20commercial%20products%20and%20commercial%20services.md) | Payments for commercial products and commercial services. |
 | [4506\.](%C2%A7%2004506%20-%20Action%20in%20case%20of%20fraud.md) | Action in case of fraud. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(18)(B)(ii), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this analysis is amended by striking item 4505 and inserting a new item 4505 "Payments for commercial products and commercial services." See 2018 Amendment note below.</i>
 
 #### Amendments
 
@@ -28,5 +24,5 @@
 - [&sect; 04502 - Payment](%C2%A7%2004502%20-%20Payment.md)
 - [&sect; 04503 - Security for advance payments](%C2%A7%2004503%20-%20Security%20for%20advance%20payments.md)
 - [&sect; 04504 - Conditions for progress payments](%C2%A7%2004504%20-%20Conditions%20for%20progress%20payments.md)
-- [&sect; 04505 - Payments for commercial items](%C2%A7%2004505%20-%20Payments%20for%20commercial%20items.md)
+- [&sect; 04505 - Payments for commercial products and commercial services](%C2%A7%2004505%20-%20Payments%20for%20commercial%20products%20and%20commercial%20services.md)
 - [&sect; 04506 - Action in case of fraud](%C2%A7%2004506%20-%20Action%20in%20case%20of%20fraud.md)

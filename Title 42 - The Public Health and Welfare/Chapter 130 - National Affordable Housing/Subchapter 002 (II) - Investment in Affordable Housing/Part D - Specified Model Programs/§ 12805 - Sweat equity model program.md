@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make available a model program to provide grants to public and privatenonprofit organizations and community housing development organizations to provide technical and supervisory assistance to low-income and very low-income families, including the homeless, in acquiring, rehabilitating, and constructing housing by the self-help housing method.
+The Secretary shall make available a model program to provide grants to public and private nonprofit organizations and community housing development organizations to provide technical and supervisory assistance to low-income and very low-income families, including the homeless, in acquiring, rehabilitating, and constructing housing by the self-help housing method.
 
 #### (b) Rehabilitation of properties
 
@@ -54,7 +54,7 @@ Goals and Accountability.—In making grants under this section, the Secretary s
 
 &emsp;"(6) dwellings are developed in connection with assistance under this section on a geographically diverse basis, which includes areas having high housing costs, rural areas, and areas underserved by other homeownership opportunities that are populated by low-income families unable to otherwise afford housing.
 
-> If, at any time, the Secretary determines that the goals under this subsection cannot be met by providing assistance in accordance with the terms of this section, the Secretary shall immediately notify the applicable Committees in writing of such determination and any proposed changes for such goals or this section.
+> If, at any time, the Secretary determines that the goals under this subsection cannot be met by providing assistance in accordance with the terms of this section,the Secretary shall immediately notify the applicable Committees in writing of such determination and any proposed changes for such goals or this section.
 
 "(c)
 
@@ -154,7 +154,7 @@ Environmental Review.—A grant under this section shall be considered to be fun
 
 "(n)
 
-Report to Congress.—Not later than 90 days after close-out of all grants under this section is completed, the Secretary shall submit a report to the applicable Committees describing the grants made under this section, the grantees, the housing developed in connection with the grant amounts, and the purposes for which the grant amounts were used.
+Report to Congress.—Not later than 90 days after close-out of all grants under this section is completed, the Secretary shall submit a report to the applicable Committees describing the grants made underthis section, the grantees, the housing developed in connection with the grant amounts, and the purposes for which the grant amounts were used.
 
 "(o)
 

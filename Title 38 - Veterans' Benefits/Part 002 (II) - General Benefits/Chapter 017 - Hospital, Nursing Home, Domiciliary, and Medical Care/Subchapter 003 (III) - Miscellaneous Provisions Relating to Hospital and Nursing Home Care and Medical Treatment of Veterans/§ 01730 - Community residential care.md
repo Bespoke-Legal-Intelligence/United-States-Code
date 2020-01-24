@@ -50,7 +50,7 @@
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" wherever appearing.
 
-Pub. L. 102–54 struck out "(1)" after "(a)" and redesignated former subpar. (A) as par. (1), cls. (i) and (ii) as subpars. (A) and (B), respectively, and former subpar. (B) as par. (2).
+Pub. L. 102–54 struck out "(1)" after "(a)" and redesignated former subpar. (A) as par. (1), cls. (i) and (ii) assubpars. (A) and (B), respectively, and former subpar. (B) as par. (2).
 
 Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" wherever appearing and "Secretary's" for "Administrator's" in two places.
 

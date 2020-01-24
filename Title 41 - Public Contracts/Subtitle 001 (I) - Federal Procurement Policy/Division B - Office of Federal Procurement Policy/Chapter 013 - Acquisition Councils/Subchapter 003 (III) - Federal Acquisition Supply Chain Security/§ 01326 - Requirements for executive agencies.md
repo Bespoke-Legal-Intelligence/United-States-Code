@@ -44,7 +44,7 @@ Definitions.—In this subsection, the terms "assisted acquisition" and "interag
 
 Assistance.—The Secretary of Homeland Security may—
 
-&emsp;(1) assist executive agencies in conducting risk assessments described in subsection (a) and implementing mitigation requirements for information and communications technology; and
+&emsp;(1) assist executive agencies in conducting risk assessments described in subsection (a) and implementing mitigation requirements forinformation and communications technology; and
 
 &emsp;(2) provide such additional guidance or tools as are necessary to support actions taken by executive agencies.
 

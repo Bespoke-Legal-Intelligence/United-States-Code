@@ -24,11 +24,11 @@ In subsection (a) the authority to purchase a site and construct the model basin
 
 <b>2018</b>—Pub. L. 115–232, §807(d)(2), renumbered section 7303 of this title as this section.
 
-Pub. L. 115–232, §1015(a), struck out subsec. (b) designation before "The Secretary" and struck out subsec. (a) which read as follows: "An office or agency in the Department of the Navy designated by the Secretary of the Navy shall conduct at the David W. Taylor Model Basin, Carderock, Maryland, investigations to determine the most suitable shapes and forms for United States vessels and aircraft and investigations of other problems of their design."
+Pub. L. 115–232, §1015(a), struck out subsec. (b) designation before "The Secretary" and struck out subsec. (a) which read as follows: "An office or agency in theDepartment of the Navy designated by the Secretary of the Navy shall conduct at the David W. Taylor Model Basin, Carderock, Maryland, investigations to determine the most suitable shapes and forms for United States vessels and aircraft and investigations of other problems of their design."
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "An officer or agency of the Department of the Navy designated by the Secretary of the Navy" for "The Bureau of Ships".
 
 #### Effective Date of 2018 Amendment
 
-Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordinationof amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

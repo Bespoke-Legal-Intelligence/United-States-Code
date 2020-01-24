@@ -28,7 +28,7 @@
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1998</b>—Pub. L. 105–383 substituted "Special agents of the Coast Guard Investigative Service law enforcement authority" for "Civilian agents authorized to carry firearms" as section catchline and amended text generally. Prior to amendment, text read as follows: "Underregulations prescribed by the Secretary with the approval of the Attorney General, civilian special agents of the Coast Guard may carry firearms or other appropriate weapons while assigned to official investigative or law enforcement duties."
+<b>1998</b>—Pub. L. 105–383 substituted "Special agents of the Coast Guard Investigative Service law enforcement authority" for "Civilian agents authorized to carry firearms" as section catchline and amended text generally. Prior to amendment, text read as follows: "Under regulations prescribed by the Secretary with the approval of the Attorney General, civilian special agents of the Coast Guard may carry firearms or other appropriate weapons while assigned to official investigative or law enforcement duties."
 
 #### Effective Date of 2002 Amendment
 

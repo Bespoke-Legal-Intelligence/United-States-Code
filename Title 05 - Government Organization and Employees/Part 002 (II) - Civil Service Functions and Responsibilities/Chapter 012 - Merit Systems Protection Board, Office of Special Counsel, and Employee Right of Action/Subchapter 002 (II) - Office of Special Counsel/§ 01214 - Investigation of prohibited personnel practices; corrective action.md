@@ -22,7 +22,7 @@
 
 &emsp;(i) the termination of the investigation;
 
-&emsp;(ii) a summary of relevant facts ascertained by the Special Counsel, including the facts that support, and the facts that do not support, the allegations of such person;
+&emsp;(ii) a summary of relevant facts ascertained by the Special Counsel, including the factsthat support, and the facts that do not support, the allegations of such person;
 
 &emsp;(iii) the reasons for terminating the investigation; and
 
@@ -38,7 +38,7 @@
 
 &emsp;(B) 120 days after seeking corrective action from the Special Counsel, such employee, former employee, or applicant has not been notified by the Special Counsel that the Special Counsel shall seek corrective action on behalf of such employee, former employee, or applicant.
 
-(4) If an employee, former employee, or applicant seeks a corrective action from the Boardunder section 1221, pursuant to the provisions of paragraph (3)(B), the Special Counsel may continue to seek corrective action personal to such employee, former employee, or applicant only with the consent of such employee, former employee, or applicant.
+(4) If an employee, former employee, or applicant seeks a corrective action from the Board under section 1221, pursuant to the provisions of paragraph (3)(B), the Special Counsel may continue to seek corrective action personal to such employee, former employee, or applicant only with the consent of such employee, former employee, or applicant.
 
 (5) In addition to any authority granted under paragraph (1), the Special Counsel may, in the absence of an allegation, conduct an investigation for the purpose of determining whether there are reasonable grounds to believe that a prohibited personnel practice (or a pattern of prohibited personnel practices) has occurred, exists, or is to be taken.
 
@@ -78,7 +78,7 @@
 
 (E) If the Board grants a stay under subparagraph (A), the head of the agency employing the employee who is the subject of the action shall give priority to a request for a transfer submitted by the employee.
 
-(2)(A)(i) Except as provided under clause (ii), no later than 240 days after the date of receiving an allegation of a prohibited personnel practice under paragraph (1), the Special Counsel shall make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken.
+(2)(A)(i) Except as provided under clause (ii), no later than 240 days after the date of receiving an allegation of a prohibited personnel practice under paragraph (1), the Special Counsel shallmake a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken.
 
 (ii) If the Special Counsel is unable to make the required determination within the 240-day period specified under clause (i) and the person submitting the allegation of a prohibited personnel practice agrees to an extension of time, the determination shall be made within such additional period of time as shall be agreed upon between the Special Counsel and the person submitting the allegation.
 

@@ -122,7 +122,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title X, §1062(e), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made bysection 1062(e)(2) is effective as if included in Pub. L. 107–217 as originally enacted.
+Pub. L. 107–314, div. A, title X, §1062(e), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(e)(2) is effective as if included in Pub. L. 107–217 as originally enacted.
 
 #### Effective Date of 1980 Amendment
 

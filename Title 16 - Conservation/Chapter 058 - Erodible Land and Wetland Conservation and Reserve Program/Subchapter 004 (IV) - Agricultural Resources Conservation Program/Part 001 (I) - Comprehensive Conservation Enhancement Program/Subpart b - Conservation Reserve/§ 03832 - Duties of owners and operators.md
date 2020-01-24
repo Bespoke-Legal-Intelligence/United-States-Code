@@ -44,7 +44,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;(10) on land devoted to hardwood or other trees, excluding windbreaks and shelterbelts, to carry out proper thinning and other practices—
 
-&emsp;&emsp;(A) to enhance the conservation benefits and wildlife habitat resources addressed bythe conservation practice under which the land is enrolled; and
+&emsp;&emsp;(A) to enhance the conservation benefits and wildlife habitat resources addressed by the conservation practice under which the land is enrolled; and
 
 &emsp;&emsp;(B) to promote forest management;
 

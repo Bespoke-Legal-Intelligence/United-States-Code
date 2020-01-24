@@ -20,7 +20,7 @@ The purposes of this chapter are to—
 
 #### References in Text
 
-Title II of the Interior and Related Agencies portion of the joint resolution entitled "Joint Resolution making further continuing appropriations for the fiscal year 1986, and for other purposes", approved December19, 1985 (Public Law 99–190), referred to in subsec. (b)(2), is Pub. L. 99–190, §101(d) \[title II\], Dec. 19, 1985, 99 Stat. 1224, 1244. The provisions relating to steel research and development are not classified to the Code.
+Title II of the Interior and Related Agencies portion of the joint resolution entitled "Joint Resolution making further continuing appropriations for the fiscal year 1986, and for other purposes", approved December 19, 1985 (Public Law 99–190), referred to in subsec. (b)(2), is Pub. L. 99–190, §101(d) \[title II\], Dec. 19, 1985, 99 Stat. 1224, 1244. The provisions relating to steel research and development are not classified to the Code.
 
 #### Short Title
 

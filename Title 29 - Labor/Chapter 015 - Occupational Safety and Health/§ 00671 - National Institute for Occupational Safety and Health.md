@@ -76,7 +76,7 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 #### (2) Purpose
 
-&emsp;The purpose of the Office is to enhance the development of new mine safety technology and technological applications and to expeditethe commercial availability and implementation of such technology in mining environments.
+&emsp;The purpose of the Office is to enhance the development of new mine safety technologyand technological applications and to expedite the commercial availability and implementation of such technology in mining environments.
 
 #### (3) Functions
 
@@ -139,6 +139,8 @@ In subsec. (e)(8), "section 3324(a) and (b) of title 31" substituted for "sectio
 #### Change of Name
 
 "Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (a) to (d) and (f) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Termination of Reporting Requirements
 

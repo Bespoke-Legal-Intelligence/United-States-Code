@@ -44,7 +44,7 @@ Subsec. (a)(5). Pub. L. 109–248, §206(a)(2)(A)(ii)–(iv), added par. (5).
 
 Subsec. (b). Pub. L. 109–248, §207(2), inserted comma after "Attorney General".
 
-Pub. L. 109–162, §1177(a)(5), (b)(2), inserted "or in any prison, institution, or facility in which persons are heldin custody by direction of or pursuant to a contract or agreement with the Attorney General" after "in a Federal prison," and substituted "two years" for "six months".
+Pub. L. 109–162, §1177(a)(5), (b)(2), inserted "or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General" after "in a Federal prison," and substituted "two years" for "six months".
 
 Subsec. (c). Pub. L. 109–248, §206(a)(2)(B), inserted "(other than subsection (a)(5))" after "violates this section".
 

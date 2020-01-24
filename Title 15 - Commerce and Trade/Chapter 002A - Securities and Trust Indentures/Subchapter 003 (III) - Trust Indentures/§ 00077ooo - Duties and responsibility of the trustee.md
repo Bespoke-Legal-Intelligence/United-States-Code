@@ -8,7 +8,7 @@ The indenture to be qualified shall automatically be deemed (unless it is expres
 
 &emsp;(2) the indenture trustee may conclusively rely, as to the truth of the statements and the correctness of the opinions expressed therein, in the absence of bad faith on the part of such trustee, upon certificates or opinions conforming to the requirements of the indenture;
 
-> but the indenture trustee shall examine the evidence furnished to it pursuant to section 77nnnof this title to determine whether or not such evidence conforms to the requirements of the indenture.
+> but the indenture trustee shall examine the evidence furnished to it pursuant to section 77nnn of this title to determine whether or not such evidence conforms to the requirements of the indenture.
 
 #### (b) Notice of defaults
 

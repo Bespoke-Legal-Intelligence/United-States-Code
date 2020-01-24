@@ -46,7 +46,7 @@ The goals of the Federal Coordinated Health Care Office are as follows:
 
 The specific responsibilities of the Federal Coordinated Health Care Office are as follows:
 
-&emsp;(1) Providing States, specialized MA plans for special needs individuals (as defined in section 1859(b)(6) of the Social Security Act (42 U.S.C. 1395w–28(b)(6))), physicians and otherrelevant entities or individuals with the education and tools necessary for developing programs that align benefits under the Medicare and Medicaid programs for dual eligible individuals.
+&emsp;(1) Providing States, specialized MA plans for special needs individuals (as defined in section 1859(b)(6) of the Social Security Act (42 U.S.C. 1395w–28(b)(6))), physicians and other relevant entities or individuals with the education and tools necessary for developing programs that align benefits under the Medicare and Medicaid programs for dual eligible individuals.
 
 &emsp;(2) Supporting State efforts to coordinate and align acute care and long-term care services for dual eligible individuals with other items and services furnished under the Medicare program.
 

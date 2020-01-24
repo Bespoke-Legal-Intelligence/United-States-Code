@@ -118,7 +118,7 @@ Remaining costs.—Subject to paragraph (4), the remainder of the net project co
 
 &emsp;(4)
 
-Use of certain funds.—For purposes of subparagraphs (D) and (E) of paragraph (3), the prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act (42 U.S.C. 603(a)(5)(C)(vii)) shall not apply to Federal or State funds to be used for transportation purposes.
+Use of certain funds.—For purposes of subparagraphs (D) and (E) of paragraph (3), the prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act (42 U.S.C. 603(a)(5)(C)(vii)) shall not apply to Federal orState funds to be used for transportation purposes.
 
 (e)
 
@@ -374,7 +374,7 @@ In subsection (f), the word "authority" is substituted for "agency or instrument
 
 In subsection (f)(1), the words "is responsible under State laws for the financing, construction and operation, directly by lease, contract or otherwise, of public transportation services" are omitted as surplus because a State that is a designated recipient has that responsibility. The words "of UMTA funds", "combined total permissible", and "regardless of whether the amount for any particular urbanized area is exceeded" are omitted as surplus.
 
-In subsection (f)(2), the word "Secretary" is substituted for "UMTA" \[subsequently changed to "FTA" because of section 3004(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2088)\] because of 49:102(b) and 107(a). The words "This provision shall take effect with the fiscal year 1990 section 9 apportionment" are omitted as obsolete.
+In subsection (f)(2), the word "Secretary" is substituted for "UMTA" \[subsequently changed to "FTA"because of section 3004(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2088)\] because of 49:102(b) and 107(a). The words "This provision shall take effect with the fiscal year 1990 section 9 apportionment" are omitted as obsolete.
 
 In subsection (g)(2), before clause (A), the word "applies" is substituted for "is sought beyond the currently authorized funds for such recipient" to eliminate unnecessary words. In clause (A), the words "of funds" are omitted as surplus.
 
@@ -466,7 +466,7 @@ Pub. L. 112–102, §302(2), substituted "2011 and the period beginning on Octob
 
 Subsec. (b)(2)(E). Pub. L. 112–141, §113002(3), substituted "
 
-Maximum amounts in fiscal years 2008 through 2012" for "
+Maximum amounts in fiscal years 2008through 2012" for "
 
 Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011, and ending on june 30, 2012" in heading and "2012" for "2011 and during the period beginning on October 1, 2011, and ending on June 30, 2012" in introductory provisions.
 
@@ -610,7 +610,7 @@ Subsec. (d)(1)(A). Pub. L. 109–59, §3009(d)(1), inserted ", including safety
 
 Subsec. (d)(1)(E)(iv). Pub. L. 109–59, §3009(d)(2), added cl. (iv).
 
-Subsec. (d)(1)(H). Pub. L. 109–59, §3009(d)(3), substituted "section 5301(a), section 5301(d), and sections 5303 through 5306" for "sections 5301(a) and (d), 5303–5306, and 5310(a)–(d) of this title".
+Subsec. (d)(1)(H). Pub. L. 109–59, §3009(d)(3), substituted "section 5301(a), section 5301(d), and sections5303 through 5306" for "sections 5301(a) and (d), 5303–5306, and 5310(a)–(d) of this title".
 
 Subsec. (d)(1)(J)(i). Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation" wherever appearing.
 
@@ -772,5 +772,5 @@ Pub. L. 105–178, title III, §3021, June 9, 1998, 112 Stat. 363; as amended by
 
 #### Continuation of Operating Assistance to Certain Larger Urbanized Areas
 
-Pub. L. 105–178, title III, §3027(c), June 9, 1998, 112 Stat. 366; as amended by Pub. L. 105–206, title IX, §9009(o)(1), July 22, 1998, 112 Stat. 858; Pub. L. 105–277, div. A, §101(g) \[title III, §360\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–477; Pub. L. 106–31, title VI, §6004, May 21, 1999, 113 Stat. 113; Pub. L. 106–346, §101(a) \[title III, §341\], Oct. 23, 2000, 114 Stat. 1356, 1356A–32; Pub. L. 108–199, div. F, title I, §176, Jan. 23, 2004, 118 Stat. 311, authorized the Secretary of Transportation to continue helping to finance mass transportation operating costs in certain urban areas for the period beginning on June 9, 1998, and ending no later than 3 years after that date.
+Pub. L. 105–178, title III, §3027(c), June 9, 1998, 112 Stat. 366; as amended by Pub. L. 105–206, title IX, §9009(o)(1), July 22, 1998, 112 Stat. 858; Pub. L. 105–277, div. A, §101(g) \[title III, §360\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–477; Pub. L. 106–31, title VI, §6004, May 21, 1999, 113 Stat. 113; Pub. L. 106–346, §101(a) \[title III, §341\], Oct. 23, 2000, 114 Stat. 1356, 1356A–32; Pub. L.108–199, div. F, title I, §176, Jan. 23, 2004, 118 Stat. 311, authorized the Secretary of Transportation to continue helping to finance mass transportation operating costs in certain urban areas for the period beginning on June 9, 1998, and ending no later than 3 years after that date.
 

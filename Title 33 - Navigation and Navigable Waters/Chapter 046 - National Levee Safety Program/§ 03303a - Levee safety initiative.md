@@ -312,7 +312,7 @@ Nothing in this section—
 
 &emsp;&emsp;(A) the Secretary; or
 
-&emsp;&emsp;(B) the Administrator, including for the purpose of setting premium rates under the national flood insurance program established under chapter 1 <sup>1</sup> of the NationalFlood Insurance Act of 1968 (42 U.S.C. 4011 et seq.).
+&emsp;&emsp;(B) the Administrator, including for the purpose of setting premium rates under the national flood insurance program established under chapter 1 <sup>1</sup> of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.).
 
 (Pub. L. 110–114, title IX, §9005, as added Pub. L. 113–121, title III, §3016(e)(2), June 10, 2014, 128 Stat. 1293; Pub. L. 114–322, title I, §1130(c), Dec. 16, 2016, 130 Stat. 1650; Pub. L. 115–270, title I, §1144(1), Oct. 23, 2018, 132 Stat. 3785.)
 
@@ -394,7 +394,7 @@ In General.—The Secretary \[of the Army\] shall carry out measures that addres
 
 "(b)
 
-Limitation.—This section shall only apply to those projects for which the executed project partnership agreement provides that the non-Federal interest is not required to perform future measures to restore the project to the authorized level of protection of the project to account for subsidence and sea-level rise aspart of the operation, maintenance, repair, replacement, and rehabilitation responsibilities.
+Limitation.—This section shall only apply to those projects for which the executed project partnership agreement provides that the non-Federal interest is not required to perform future measures to restore the project to the authorized level of protection of the project to account for subsidence and sea-level rise as part of the operation, maintenance, repair, replacement, and rehabilitation responsibilities.
 
 "(c)
 

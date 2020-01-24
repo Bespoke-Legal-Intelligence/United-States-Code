@@ -66,7 +66,7 @@ The change is necessary so that active service and service described in section 
 
 <b>2001</b>—Par. (3)(B). Pub. L. 107–107, §1048(c)(16)(A), substituted "October 30, 2000" for "the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001".
 
-Par. (3)(C). Pub. L. 107–107, §1048(c)(16)(B), substituted "October 30, 2000," for "the date of the enactment ofthe Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001".
+Par. (3)(C). Pub. L. 107–107, §1048(c)(16)(B), substituted "October 30, 2000," for "the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001".
 
 <b>2000</b>—Par. (3). Pub. L. 106–398 substituted "but not more than—" and subpars. (A) to (C) for "but not more than 60 days in any one year of service before the year of service that includes September 23, 1996, and not more than 75 days in any subsequent year of service."
 

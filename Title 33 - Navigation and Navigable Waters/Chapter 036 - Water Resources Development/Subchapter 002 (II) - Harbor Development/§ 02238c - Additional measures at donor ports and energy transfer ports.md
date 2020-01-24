@@ -186,7 +186,7 @@ Subsec. (c). Pub. L. 114–322, §1110(3)(A), substituted "donor port, a medium-
 
 Subsec. (c)(1). Pub. L. 114–322, §1110(3)(B), struck out "or shippers transporting cargo" after "entering cargo" and substituted "the Secretary" for "U.S. Customs and Border Protection" and "value of discretionary cargo" for "amount of harbor maintenance taxes collected".
 
-Subsec. (d). Pub. L. 114–322, §1110(4), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "If a donor port or an energy transfer port elects to provide payments to importersor shippers under subsection (c), the Secretary shall transfer the amount that would otherwise be provided to the port under this section that is equal to those payments to the Commissioner of U.S. Customs and Border Protection to provide the payments to the importers or shippers."
+Subsec. (d). Pub. L. 114–322, §1110(4), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "If a donor port or an energy transfer port elects to provide payments to importers or shippers under subsection (c), the Secretary shall transfer the amount that would otherwise be provided to the port under this section that is equal to those payments to the Commissioner of U.S. Customs and Border Protection to provide the payments to the importers or shippers."
 
 Subsec. (f)(1). Pub. L. 114–322, §1110(5)(A), substituted "2020" for "2018".
 

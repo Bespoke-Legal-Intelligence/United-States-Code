@@ -46,7 +46,7 @@ Any individual who violates any provision of subsection (e) of this section is l
 
 In addition to being liable for a civil penalty under subsection (f) of this section, any individual who intentionally violates any provision of subsection (e) of this section is, upon conviction, liable for a fine of not more than $5,000, or imprisonment for not more than 1 year, or both.
 
-(June 17, 1930, ch. 497, title IV, §459, 46 Stat. 717; June 25, 1938, ch. 679, §10(a), 52 Stat. 1082; Pub. L. 99–570, title III, §3115(a), Oct. 27, 1986, 100 Stat. 3207–82.)
+(June 17, 1930, ch. 497, title IV, §459, 46 Stat. 717; June 25, 1938, ch. 679, §10(a), 52 Stat. 1082; Pub. L.99–570, title III, §3115(a), Oct. 27, 1986, 100 Stat. 3207–82.)
 
 #### Codification
 

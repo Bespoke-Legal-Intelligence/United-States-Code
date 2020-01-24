@@ -34,7 +34,7 @@ There shall be, within the National Endowment for the Arts, a National Council o
 
 &emsp;&emsp;(iii) so as collectively to provide an appropriate distribution of membership among major art fields and interested citizens groups.
 
-> In making such appointments, the President shall give due regard to equitable representationof women, minorities, and individuals with disabilities who are involved in the arts and shall make such appointments so as to represent equitably all geographical areas in the United States.
+> In making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the arts and shall make such appointments so as to represent equitably all geographical areas in the United States.
 
 (2)
 
@@ -68,7 +68,7 @@ Members shall receive compensation at a rate to be fixed by the Chairperson but 
 
 #### (f) Advisory functions; policies, programs, and procedures; recommendations; authority of Chairperson; action by Chairperson pursuant to delegation of authority
 
-The Council shall advise the Chairperson with respect to policies, programs, and procedures for carrying out the Chairperson's functions, duties, or responsibilities under this subchapter, and review applications for financial assistance under this subchapter and make recommendations to the Chairperson with respect to the approval of each application and the amount of financial assistance (if any) to provide to each applicant. The Council shall make recommendations to the Chairperson concerning—
+The Council shall advise the Chairperson with respect to policies, programs, and procedures for carrying out the Chairperson's functions, duties, or responsibilities under this subchapter, and review applications for financial assistance under this subchapter and make recommendations to the Chairperson with respect to the approval of each application and the amount of financial assistance (if any) to provide to each applicant.The Council shall make recommendations to the Chairperson concerning—
 
 &emsp;(1) whether to approve particular applications for financial assistance under subsections (c) and (p) of section 954 of this title that are determined by panels under section 959(c) of this title to have artistic excellence and artistic merit; and
 
@@ -144,7 +144,7 @@ Pub. L. 91–346, §5(d)(3)(A), July 20, 1970, 84 Stat. 445, provided that: "The
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Continuation of Council as Established Under the National Arts and Cultural Development Act of 1964
 

@@ -1,6 +1,6 @@
 ### §1987. Debt adjustment and credit counseling; "summary period" defined; loan summary statements
 
-(a) The Secretary may provide voluntary debt adjustment assistance between farmers andtheir creditors and may cooperate with State, territorial, and local agencies and committees engaged in such debt adjustment, and may give credit counseling.
+(a) The Secretary may provide voluntary debt adjustment assistance between farmers and their creditors and may cooperate with State, territorial, and local agencies and committees engaged in such debt adjustment, and may give credit counseling.
 
 (b)(1) As used in this subsection, the term "summary period" means—
 

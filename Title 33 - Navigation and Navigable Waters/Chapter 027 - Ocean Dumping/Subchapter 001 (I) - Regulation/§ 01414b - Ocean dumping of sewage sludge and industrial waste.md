@@ -190,7 +190,7 @@
 
 &emsp;&emsp;&emsp;(ii) subject to paragraph (4), shall pay to the State in which the person is located a sum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2); and
 
-&emsp;&emsp;(D) for violations in any year after calendar year 1994, shall pay to the State in which the person is located a sum equal to the balance of such amount, for use by the State for providing assistance under subsection (f)(3).
+&emsp;&emsp;(D) for violations in any year after calendar year 1994, shall pay to the State inwhich the person is located a sum equal to the balance of such amount, for use by the State for providing assistance under subsection (f)(3).
 
 #### (3) Schedule for payment
 
@@ -222,7 +222,7 @@
 
 #### (3) Use of unexpended amounts
 
-&emsp;Upon a determination by the Administrator that a person has terminated ocean dumpingof sewage sludge or industrial waste, the balance of amounts in an account established by the person under this subsection shall be paid to the person for use—
+&emsp;Upon a determination by the Administrator that a person has terminated ocean dumping of sewage sludge or industrial waste, the balance of amounts in an account established by the person under this subsection shall be paid to the person for use—
 
 &emsp;&emsp;(A) for debts incurred by the person in complying with this Act or the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\];
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;&emsp;(i) monitoring, research, and related activities consistent with the program developed pursuant to subsection (j)(1); and
 
-&emsp;&emsp;&emsp;(ii) preparing annual reports to the Congress pursuant to subsection (j)(4) <sup>1</sup> which describe the results of such monitoring, research, and activities.
+&emsp;&emsp;&emsp;(ii) preparing annual reports to the Congress pursuant to subsection (j)(4) <sup>1</sup> whichdescribe the results of such monitoring, research, and activities.
 
 #### (2) Deposits into State water pollution control revolving fund
 
@@ -296,7 +296,7 @@
 
 #### (4) Deposits into Treasury as offsetting collections
 
-&emsp;Amounts of fees and penalties paid to the Administrator pursuant to subsection (b)(2)(B)or (d)(2)(B) which are used by an agency in accordance with paragraph (1) shall be deposited into the Treasury as offsetting collections of the agency.
+&emsp;Amounts of fees and penalties paid to the Administrator pursuant to subsection (b)(2)(B) or (d)(2)(B) which are used by an agency in accordance with paragraph (1) shall be deposited into the Treasury as offsetting collections of the agency.
 
 #### (g) Enforcement
 
@@ -418,7 +418,7 @@ For purposes of this section—
 
 This Act, referred to in subsecs. (a)(2), (d)(1), (e)(3)(A), (f)(1)(A)(i), (B), and (k)(1), (5)(B), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
 
-The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(D), (5)(A), (d)(2)(C)(ii), (4), (e)(2)(C), (3)(A), (B), (f)(2)(A), (B)(ii), (iii), and (3)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. Title VI of that Act is classified to subchapter VI (§1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(D), (5)(A), (d)(2)(C)(ii), (4), (e)(2)(C),\(3)(A), (B), (f)(2)(A), (B)(ii), (iii), and (3)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. Title VI of that Act is classified to subchapter VI (§1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 Subsection (j)(4), referred to in subsec. (f)(1)(C)(ii), was omitted from the Code. See Codification note below.
 

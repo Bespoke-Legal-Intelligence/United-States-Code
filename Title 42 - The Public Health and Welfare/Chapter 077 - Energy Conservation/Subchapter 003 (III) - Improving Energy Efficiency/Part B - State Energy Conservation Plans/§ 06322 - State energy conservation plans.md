@@ -48,7 +48,7 @@ Each proposed State energy conservation plan may include—
 
 &emsp;&emsp;(A) which may include loan programs and performance contracting programs for leveraging of additional public and private sector funds, and programs which allow rebates, grants, or other incentives for the purchase and installation of energy efficiency and renewable energy measures; or
 
-&emsp;&emsp;(B) in addition to or in lieu of programs described in subparagraph (A), which may be used in connection with public or nonprofit buildings owned and operated by a State, a political subdivision of a State or an agency or instrumentality of a State, or an organization exempt from taxation under section 501(c)(3) of title 26;
+&emsp;&emsp;(B) in addition to or in lieu of programs described in subparagraph (A), which may beused in connection with public or nonprofit buildings owned and operated by a State, a political subdivision of a State or an agency or instrumentality of a State, or an organization exempt from taxation under section 501(c)(3) of title 26;
 
 &emsp;(6) programs for encouraging and for carrying out energy audits with respect to buildings and industrial facilities (including industrial processes) within the State;
 

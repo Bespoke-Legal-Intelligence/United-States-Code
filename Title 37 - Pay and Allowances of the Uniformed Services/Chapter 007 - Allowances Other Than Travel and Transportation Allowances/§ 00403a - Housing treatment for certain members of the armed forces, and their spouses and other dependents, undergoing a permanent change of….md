@@ -26,7 +26,7 @@ Housing Treatment.—
 
 &emsp;(1)
 
-Continuation of housing for the spouse and other dependents.—If a spouse or other dependent of a member whose request under subsection (a) is approved resides in Government-owned or Government-leased housing at the beginning of the covered relocation period, the spouse or other dependent may continue to reside in such housing during a period determined in accordance with the regulations prescribed pursuant to this section.
+Continuation of housing for the spouse and other dependents.—If a spouse or other dependent of a member whose request under subsection (a) is approved resides in Government-owned or Government-leased housing at the beginning of the covered relocation period, the spouse or other dependent may continue toreside in such housing during a period determined in accordance with the regulations prescribed pursuant to this section.
 
 &emsp;(2)
 

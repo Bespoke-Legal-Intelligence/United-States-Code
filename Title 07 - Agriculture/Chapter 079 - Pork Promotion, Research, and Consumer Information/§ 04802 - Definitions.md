@@ -12,7 +12,7 @@ For purposes of this chapter:
 
 &emsp;(5) The term "importer" means a person who imports porcine animals, pork, or pork products into the United States.
 
-&emsp;(6) The term "order" means a pork and pork products promotion, research, and consumer information order issued under section 4803 of this title.
+&emsp;(6) The term "order" means a pork and pork products promotion, research, and consumerinformation order issued under section 4803 of this title.
 
 &emsp;(7) The term "person" means an individual, group of individuals, partnership, corporation, association, organization, cooperative, or other entity.
 

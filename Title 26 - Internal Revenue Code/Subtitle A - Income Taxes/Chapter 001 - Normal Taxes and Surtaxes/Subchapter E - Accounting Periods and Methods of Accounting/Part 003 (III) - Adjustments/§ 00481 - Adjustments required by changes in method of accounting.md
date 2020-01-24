@@ -28,7 +28,7 @@ In computing the taxpayer's taxable income for any taxable year (referred to in 
 
 &emsp;&emsp;(B) the taxpayer establishes his taxable income (under the new method of accounting) for one or more taxable years consecutively preceding the taxable year of the change for which the taxpayer in computing taxable income used the method of accounting from which the change is made,
 
-> &emsp;then the tax under this chapter attributable to such increase in taxable income shall not be greater than the net increase in the taxes under this chapter (or under the corresponding provisions of prior revenue laws) which wouldresult if the adjustments required by subsection (a)(2) were allocated to the taxable year or years specified in subparagraph (B) to which they are properly allocable under the new method of accounting and the balance of the adjustments required by subsection (a)(2) was allocated to the taxable year of the change.
+> &emsp;then the tax under this chapter attributable to such increase in taxable income shall not be greater than the net increase in the taxes under this chapter (or under the corresponding provisions of prior revenue laws) which would result if the adjustments required by subsection (a)(2) were allocated to the taxable year or years specified in subparagraph (B) to which they are properly allocable under the new method of accounting and the balance of the adjustments required by subsection (a)(2) was allocated to the taxable year of the change.
 
 #### (3) Special rules for computations under paragraphs (1) and (2)
 
@@ -70,7 +70,7 @@ The date of the enactment of the Tax Cuts and Jobs Act and the date of such enac
 
 <b>2017</b>—Subsec. (d). Pub. L. 115–97 added subsec. (d).
 
-<b>2014</b>—Subsec. (b)(3)(C). Pub. L. 113–295 struck out subpar. (C) which read as follows: "In applying section 7807(b)(1), the provisions of chapter 1 (other than subchapter E, relating to self-employment income) and chapter 2 of the Internal Revenue Code of 1939 shall be treated as the corresponding provisions of the Internal Revenue Code of 1939."
+<b>2014</b>—Subsec. (b)(3)(C). Pub. L. 113–295 struck out subpar. (C) which read as follows: "In applying section7807(b)(1), the provisions of chapter 1 (other than subchapter E, relating to self-employment income) and chapter 2 of the Internal Revenue Code of 1939 shall be treated as the corresponding provisions of the Internal Revenue Code of 1939."
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–471 struck out subsec. (d) which provided that this section was not to apply to a change to which section 453 of this title, relating to change to installment method, applied.
 
@@ -102,7 +102,7 @@ For effective date of amendment by Pub. L. 96–471, see section 6(a)(1) of Pub.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(70) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(70) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date of 1969 Amendment
 

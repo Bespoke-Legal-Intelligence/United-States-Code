@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to the costs of the activities to be carried out by an entity pursuant to paragraph (1), a condition for the receipt of a grant under such paragraph is that the entity agree to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 25 percent of such costs.
+&emsp;&emsp;With respect to the costs of the activities to be carried out by an entity pursuant toparagraph (1), a condition for the receipt of a grant under such paragraph is that the entity agree to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 25 percent of such costs.
 
 #### (B) Determination of amount contributed
 
@@ -38,7 +38,7 @@
 
 #### (b) National resources program
 
-The Secretary shall (directly or through grant or contract) carry out a program that, throughtoll-free telecommunications, makes available to the public information regarding the adoption of children with special needs. Such information shall include the following:
+The Secretary shall (directly or through grant or contract) carry out a program that, through toll-free telecommunications, makes available to the public information regarding the adoption of children with special needs. Such information shall include the following:
 
 &emsp;(1) A list of national, State, and regional organizations that provide services regarding such adoptions, including exchanges and other information on communicating with the organizations. The list shall represent the full national diversity of adoption organizations.
 

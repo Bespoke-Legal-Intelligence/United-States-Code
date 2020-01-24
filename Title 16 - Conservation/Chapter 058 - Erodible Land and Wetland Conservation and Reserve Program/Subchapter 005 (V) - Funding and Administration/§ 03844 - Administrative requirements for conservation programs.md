@@ -156,7 +156,7 @@ In the preparation and application of a conservation compliance plan under subch
 
 #### (5) Calculation
 
-&emsp;In calculating the percentages described in paragraph (1), the Secretary shall include any acreage that was included in calculations of percentages made under such paragraph, as ineffect on the day before December 20, 2018, and that remains enrolled when the calculation is made after that date under paragraph (1).
+&emsp;In calculating the percentages described in paragraph (1), the Secretary shall include any acreage that was included in calculations of percentages made under such paragraph, as in effect on the day before December 20, 2018, and that remains enrolled when the calculation is made after that date under paragraph (1).
 
 #### (g) Compliance and performance
 
@@ -324,7 +324,7 @@ The Secretary may not prohibit, through a contract, easement, or agreement under
 
 &emsp;&emsp;(C) a plan for a periodic audit, as appropriate, of the continued implementation or maintenance of each of the conservation practices or activities identified under subparagraph (A); and
 
-&emsp;&emsp;(D) notification to a farmer, rancher, or private nonindustrial forest landowner of, and an opportunity to correct, any noncompliance with a requirement to obtainregulatory certainty, regulatory predictability, safe harbor protection, or other similar regulatory assurance.
+&emsp;&emsp;(D) notification to a farmer, rancher, or private nonindustrial forest landowner of, and an opportunity to correct, any noncompliance with a requirement to obtain regulatory certainty, regulatory predictability, safe harbor protection, or other similar regulatory assurance.
 
 #### (3) Continuing current collaboration on soil, water, or wildlife conservation practices
 
@@ -364,7 +364,7 @@ The date of enactment of the Food, Conservation, and Energy Act of 2008, referre
 
 This Act, referred to in subsec. (l)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, known as the Food Security Act of 1985. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
-The Agricultural Act of 1949, referred to in subsec. (l)(2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
+The Agricultural Act of 1949, referred to in subsec. (l)(2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of Title 7, Agriculture. For complete classification of thisAct to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
 
 The Agricultural Act of 2014, referred to in subsec. (l)(3), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. For complete classification of this Act to the Code, see Tables.
 
@@ -396,7 +396,7 @@ Subsec. (l). Pub. L. 115–334, §2503(b)(2), redesignated subsec. (k) as (l). F
 
 Pub. L. 115–334, §2301(d)(1)(L), substituted "subpart B of part IV of subchapter IV" for "subpart B of part II of subchapter IV" and "subpart A of part IV of subchapter IV" for "part IV of subchapter IV".
 
-Subsec. (m). Pub. L. 115–334, §2503(c), designated existing provisions as introductory provisions and pars. (1) and (3) and added par. (2), substituted "shall" for "may" in introductory provisions and "arrangements;"for "arrangements, and that" in par. (1), and inserted ", except that the Secretary may approve a waiver if the Secretary is authorized to approve a waiver under the statutory authority of the applicable program" before period at end of par. (3).
+Subsec. (m). Pub. L. 115–334, §2503(c), designated existing provisions as introductory provisions and pars. (1) and (3) and added par. (2), substituted "shall" for "may" in introductory provisions and "arrangements;" for "arrangements, and that" in par. (1), and inserted ", except that the Secretary may approve a waiver if the Secretary is authorized to approve a waiver under the statutory authority of the applicable program" before period at end of par. (3).
 
 Pub. L. 115–334, §2503(b)(2), redesignated subsec. (l) as (m).
 

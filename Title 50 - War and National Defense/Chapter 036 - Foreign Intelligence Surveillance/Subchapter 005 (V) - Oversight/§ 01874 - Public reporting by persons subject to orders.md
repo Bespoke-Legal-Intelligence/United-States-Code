@@ -56,7 +56,7 @@ A person subject to a nondisclosure requirement accompanying an order or directi
 
 &emsp;(A) relating to national security letters for the previous 180 days; and
 
-&emsp;(B) relating to authorities under this chapter for the 180-day period of time ending on the date that is not less than 180 days prior to the date of the publication of such report, except that with respect to a platform, product, or service for which a person did not previously receive an order or directive (not including an enhancement to or iteration of an existing publicly available platform, product, or service) such report shall not include any information relating to such new order or directive until 540 days after the date on which such new order or directive is received.
+&emsp;(B) relating to authorities under this chapter for the 180-day period of time ending on the date that is not less than 180 days prior to the date of the publication of such report, except that with respect to a platform, product, or service for which a person did not previously receive an order or directive (not including an enhancement to or iteration of an existing publicly available platform, product, or service) such report shall not include any information relating to such new order or directiveuntil 540 days after the date on which such new order or directive is received.
 
 (2) A report described in paragraph (3) of subsection (a) shall include only information relating to the previous 180 days.
 

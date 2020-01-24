@@ -120,7 +120,7 @@ Production readiness review.—The term 'production readiness review' means a fo
 
 #### Fast Sealift Program
 
-Pub. L. 101–510, div. A, title XIV, §1424, Nov. 5, 1990, 104 Stat. 1683, as amended by Pub. L. 102–190, div. A, title X, §1015, Dec. 5, 1991, 105 Stat. 1458; Pub. L. 102–484,div. A, title X, §1022, Oct. 23, 1992, 106 Stat. 2485; Pub. L. 103–337, div. A, title I, §125, Oct. 5, 1994, 108 Stat. 2683, provided that:
+Pub. L. 101–510, div. A, title XIV, §1424, Nov. 5, 1990, 104 Stat. 1683, as amended by Pub. L. 102–190, div. A, title X, §1015, Dec. 5, 1991, 105 Stat. 1458; Pub. L. 102–484, div. A, title X, §1022, Oct. 23, 1992, 106 Stat. 2485; Pub. L. 103–337, div. A, title I, §125, Oct. 5, 1994, 108 Stat. 2683, provided that:
 
 "(a)
 
@@ -156,7 +156,7 @@ Charter of Vessels Constructed.—(1) Except when the Secretary determines that 
 
 &emsp;"(A) shall not permit the operation of the vessel other than in the foreign commerce of the United States;
 
-&emsp;"(B) may be made only with an individual or entity that is a citizen of the United States (which, in the case of a corporation, partnership, or association, shall be determined in the manner specified in section 2 of the Shipping Act, 1916 (\[former\] 46 U.S.C. App. 802)) \[see 46 U.S.C. 50501\]; and
+&emsp;"(B) may be made only with an individual or entity that is a citizen of the United States (which, in thecase of a corporation, partnership, or association, shall be determined in the manner specified in section 2 of the Shipping Act, 1916 (\[former\] 46 U.S.C. App. 802)) \[see 46 U.S.C. 50501\]; and
 
 &emsp;"(C) shall require that the vessel be documented (and remain documented) under the laws of the United States.
 

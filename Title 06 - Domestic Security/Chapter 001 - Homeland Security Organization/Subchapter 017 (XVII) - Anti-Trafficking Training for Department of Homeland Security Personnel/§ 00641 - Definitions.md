@@ -8,7 +8,7 @@ In this subchapter:
 
 #### (2) Human trafficking
 
-&emsp;The term "human trafficking" means an act or practice described in paragraph (9) or (10) of section 7102 of title 22.
+&emsp;The term "human trafficking" means an act or practice described in paragraph (9) or (10) <sup>1</sup> of section 7102 of title 22.
 
 #### (3) Secretary
 
@@ -20,7 +20,11 @@ In this subchapter:
 
 This subchapter, referred to in text, was in the original "this title", meaning title IX of Pub. L. 114–22, which is classified principally to this subchapter. For complete classification of title IX to the Code, see Tables.
 
+Paragraphs (9) and (10) of section 7102 of title 22, referred to in par. (2), were redesignated pars. (11) and (12), respectively, of section 7102 of title 22 by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503.
+
 #### Codification
 
 Section was enacted as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

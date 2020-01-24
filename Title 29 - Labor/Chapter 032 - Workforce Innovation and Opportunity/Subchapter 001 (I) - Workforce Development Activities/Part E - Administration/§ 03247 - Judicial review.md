@@ -8,7 +8,7 @@
 
 #### (2) Action on petition
 
-&emsp;The clerk of the court shall transmit a copy of the review petition to the Secretary, who shall file the record on which the final order was entered as provided in section 2112 of title 28. The filing of a review petition shall not stay the order of the Secretary, unless the court orders a stay. Petitions filed under this subsection shall be heard expeditiously, if possible within 10 days after the date of filing of a reply to the petition.
+&emsp;The clerk of the court shall transmit a copy of the review petition to the Secretary, who shall file the record on which the final order was entered as provided in section 2112 of title 28. The filing of a review petition shall notstay the order of the Secretary, unless the court orders a stay. Petitions filed under this subsection shall be heard expeditiously, if possible within 10 days after the date of filing of a reply to the petition.
 
 #### (3) Standard and scope of review
 

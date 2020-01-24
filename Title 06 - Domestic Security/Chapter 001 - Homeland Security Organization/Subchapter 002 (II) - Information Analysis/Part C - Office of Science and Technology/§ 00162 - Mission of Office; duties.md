@@ -58,7 +58,7 @@ In carrying out its mission, the Office shall have the following duties:
 
 &emsp;(13) To serve as a clearinghouse for information on law enforcement technologies.
 
-&emsp;(14) To represent the United States and State and local law enforcement agencies, asrequested, in international activities concerning law enforcement technology.
+&emsp;(14) To represent the United States and State and local law enforcement agencies, as requested, in international activities concerning law enforcement technology.
 
 &emsp;(15) To enter into contracts and cooperative agreements and provide grants, which may require in-kind or cash matches from the recipient, as necessary to carry out its mission.
 

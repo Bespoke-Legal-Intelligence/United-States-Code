@@ -10,7 +10,7 @@
 
 &emsp;In carrying out the activities described in paragraph (1), the Secretary shall consult with, as appropriate—
 
-&emsp;&emsp;(A) relevant divisions of the Department of Health and Human Services, including theSubstance Abuse and Mental Health Services Administration, the Office of Inspector General, the Indian Health Service, and the Centers for Medicare \& Medicaid Services;
+&emsp;&emsp;(A) relevant divisions of the Department of Health and Human Services, including the Substance Abuse and Mental Health Services Administration, the Office of Inspector General, the Indian Health Service, and the Centers for Medicare \& Medicaid Services;
 
 &emsp;&emsp;(B) the Secretary of Housing and Urban Development;
 

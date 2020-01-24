@@ -48,7 +48,7 @@ The credit provided in this section shall be allowed only if the taxpayer establ
 
 #### (e) Period of limitation
 
-The credit provided in this section shall be allowed only for such taxes as were actually paidand credit therefor claimed within 4 years after the filing of the return required by section 6018, except that—
+The credit provided in this section shall be allowed only for such taxes as were actually paid and credit therefor claimed within 4 years after the filing of the return required by section 6018, except that—
 
 &emsp;(1) If a petition for redetermination of a deficiency has been filed with the Tax Court within the time prescribed in section 6213(a), then within such 4-year period or before the expiration of 60 days after the decision of the Tax Court becomes final.
 
@@ -70,7 +70,7 @@ Whenever the President finds that—
 
 &emsp;(1) a foreign country, in imposing estate, inheritance, legacy, or succession taxes, does not allow to citizens of the United States resident in such foreign country at the time of death a credit similar to the credit allowed under subsection (a),
 
-&emsp;(2) such foreign country, when requested by the United States to do so has not acted to provide such a similar credit in the case of citizens of the United States resident in such foreign country at the time of death, and
+&emsp;(2) such foreign country, when requested by the United States to do so has not acted toprovide such a similar credit in the case of citizens of the United States resident in such foreign country at the time of death, and
 
 &emsp;(3) it is in the public interest to allow the credit under subsection (a) in the case of citizens or subjects of such foreign country only if it allows such a similar credit in the case of citizens of the United States resident in such foreign country at the time of death,
 

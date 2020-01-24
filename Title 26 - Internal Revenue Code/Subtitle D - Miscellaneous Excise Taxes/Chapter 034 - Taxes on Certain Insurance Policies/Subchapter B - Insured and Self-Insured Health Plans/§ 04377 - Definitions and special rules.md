@@ -38,7 +38,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) the medical assistance program established by title XIX or XXI of the Social Security Act,
 
-&emsp;&emsp;(C) any program established by Federal law for providing medical care (other than through insurance policies) to individuals (or the spouses and dependents thereof) by reason of such individuals being members ofthe Armed Forces of the United States or veterans, and
+&emsp;&emsp;(C) any program established by Federal law for providing medical care (other than through insurance policies) to individuals (or the spouses and dependents thereof) by reason of such individuals being members of the Armed Forces of the United States or veterans, and
 
 &emsp;&emsp;(D) any program established by Federal law for providing medical care (other than through insurance policies) to members of Indian tribes (as defined in section 4(d) of the Indian Health Care Improvement Act).
 

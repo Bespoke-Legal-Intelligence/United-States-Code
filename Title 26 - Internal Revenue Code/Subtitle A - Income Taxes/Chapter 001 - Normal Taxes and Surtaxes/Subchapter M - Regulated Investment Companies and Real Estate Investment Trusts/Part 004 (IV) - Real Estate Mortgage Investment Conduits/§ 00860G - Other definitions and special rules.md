@@ -16,7 +16,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) consist of a specified portion of the interest payments on qualified mortgages and such portion does not vary during the period such interest is outstanding.
 
-> &emsp;The interest shall not fail to meet the requirements of subparagraph (A) merely because the timing (but not the amount) of the principal payments (or other similar amounts) may be contingent on the extent of prepayments onqualified mortgages and the amount of income from permitted investments. An interest shall not fail to qualify as a regular interest solely because the specified principal amount of the regular interest (or the amount of interest accrued on the regular interest) can be reduced as a result of the nonoccurrence of 1 or more contingent payments with respect to any reverse mortgage loan held by the REMIC if, on the startup day for the REMIC, the sponsor reasonably believes that all principal and interest due under the regular interest will be paid at or prior to the liquidation of the REMIC.
+> &emsp;The interest shall not fail to meet the requirements of subparagraph (A) merely because the timing (but not the amount) of the principal payments (or other similar amounts) may be contingent on the extent of prepayments on qualified mortgages and the amount of income from permitted investments. An interest shall not fail to qualify as a regular interest solely because the specified principal amount of the regular interest (or the amount of interest accrued on the regular interest) can be reduced as a result of the nonoccurrence of 1 or more contingent payments with respect to any reverse mortgage loan held by the REMIC if, on the startup day for the REMIC, the sponsor reasonably believes that all principal and interest due under the regular interest will be paid at or prior to the liquidation of the REMIC.
 
 #### (2) Residual interest
 
@@ -164,7 +164,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) providing that a mortgage will be treated as a qualified replacement mortgage only if it is part of a bona fide replacement (and not part of a swap of mortgages).
 
-(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2315; amended Pub. L. 100–647, title I, §1006(t)(5)(A)–(E), (6)–(8)(B), (9)(A), (10), Nov. 10, 1988, 102 Stat. 3420–3422; Pub. L. 101–239, title VII, §7811(c)(9), Dec. 19, 1989, 103 Stat. 2408; Pub. L. 101–508, title XI, §11704(a)(9), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1621(b)(6), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(5)–(8), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 109–135, title IV, §403(cc), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 115–141, div. U, title IV, §401(a)(151), Mar. 23, 2018, 132 Stat. 1191.)
+(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2315; amended Pub. L. 100–647, title I, §1006(t)(5)(A)–(E), (6)–(8)(B), (9)(A), (10), Nov. 10, 1988, 102 Stat. 3420–3422; Pub. L. 101–239, titleVII, §7811(c)(9), Dec. 19, 1989, 103 Stat. 2408; Pub. L. 101–508, title XI, §11704(a)(9), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1621(b)(6), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(5)–(8), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 109–135, title IV, §403(cc), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 115–141, div. U, title IV, §401(a)(151), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### Amendments
 
@@ -236,7 +236,7 @@ Amendments by Pub. L. 109–135 effective as if included in the provisions of th
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 effective Jan. 1, 2005, with exception for any FASIT in existence on Oct. 22,2004, to the extent that regular interests issued by the FASIT before such date continue to remain outstanding in accordance with the original terms of issuance, see section 835(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
+Amendment by Pub. L. 108–357 effective Jan. 1, 2005, with exception for any FASIT in existence on Oct. 22, 2004, to the extent that regular interests issued by the FASIT before such date continue to remain outstanding in accordance with the original terms of issuance, see section 835(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
 #### Effective Date of 1996 Amendment
 

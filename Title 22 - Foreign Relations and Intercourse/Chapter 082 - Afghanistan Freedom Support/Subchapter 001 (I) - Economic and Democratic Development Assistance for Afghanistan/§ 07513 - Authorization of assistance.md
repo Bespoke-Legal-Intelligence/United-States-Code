@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (3) Counternarcotics efforts
 
-&emsp;(A) To assist in the eradication of poppy cultivation, the disruption of heroin production,and the reduction of the overall supply and demand for illicit narcotics in Afghanistan and the region, with particular emphasis on assistance to—
+&emsp;(A) To assist in the eradication of poppy cultivation, the disruption of heroin production, and the reduction of the overall supply and demand for illicit narcotics in Afghanistan and the region, with particular emphasis on assistance to—
 
 &emsp;&emsp;(i) eradicate opium poppy, promote alternatives to poppy cultivation, including the introduction of high value crops that are suitable for export and the provision of appropriate technical assistance and credit mechanisms for farmers, purchase nonopium products from farmers in opium-growing areas, quick-impact public works programs to divert labor from narcotics production, develop projects directed specifically at narcotics production, processing, or trafficking areas to provide incentives to cooperation in narcotics suppression activities, and related programs;
 
@@ -58,7 +58,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;(C) provision of critical agricultural inputs, such as seeds, tools, and fertilizer, and strengthening of seed multiplication, certification, and distribution systems;
 
-&emsp;&emsp;(D) improvement in the quantity and quality of water available through, among other things, rehabilitation of existing irrigation systems and the development of local capacity to manage irrigation systems;
+&emsp;&emsp;(D) improvement in the quantity and quality of water available through, among otherthings, rehabilitation of existing irrigation systems and the development of local capacity to manage irrigation systems;
 
 &emsp;&emsp;(E) livestock rehabilitation through market development and other mechanisms to distribute stocks to replace those stocks lost as a result of conflict or drought;
 
@@ -122,7 +122,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(ii) strengthening democratic political parties;
 
-&emsp;&emsp;&emsp;(iii) international exchanges and professional training for members or officials of government, political, and civic or other nongovernmental entities;
+&emsp;&emsp;&emsp;(iii) international exchanges and professional training for members or officials ofgovernment, political, and civic or other nongovernmental entities;
 
 &emsp;&emsp;&emsp;(iv) national, regional, and local elections and political party development;
 
@@ -156,7 +156,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (A) Assistance objectives
 
-&emsp;&emsp;To assist women and girls in Afghanistan in the areas of political and human rights,health care, education, training, security, and shelter, with particular emphasis on assistance—
+&emsp;&emsp;To assist women and girls in Afghanistan in the areas of political and human rights, health care, education, training, security, and shelter, with particular emphasis on assistance—
 
 &emsp;&emsp;&emsp;(i) to support construction of, provide equipment and medical supplies to, and otherwise facilitate the establishment and rehabilitation of, health care facilities in order to improve the health care of women, children, and infants;
 
@@ -284,7 +284,7 @@ Pub. L. 114–328, div. A, title XV, §1521(c)(2), Dec. 23, 2016, 130 Stat. 2576
 
 "(A)
 
-In general.—The Secretary of Defense, with the concurrence of the Secretary of State, shall support, to the extent practicable, the efforts of the Government of Afghanistan to promote the security of Afghan women and girls during and after the security transition process through the development and implementation by the Government of Afghanistan of an Afghan-led plan that should include the elements described in this paragraph.
+In general.—The Secretary of Defense, with the concurrence of the Secretary of State, shall support, to the extent practicable, the efforts of the Government of Afghanistan to promote the security of Afghan women and girls during and after the security transition process through the development and implementation bythe Government of Afghanistan of an Afghan-led plan that should include the elements described in this paragraph.
 
 "(B)
 
@@ -324,7 +324,7 @@ Types of programs and activities.—Such programs and activities may include—
 
 &emsp;&emsp;"(I) efforts to recruit women into the Afghan National Security Forces, including the special operations forces;
 
-&emsp;&emsp;"(II) programs and activities of the Afghan Ministry of Defense Directorate of Human Rights andGender Integration and the Afghan Ministry of Interior Office of Human Rights, Gender and Child Rights;
+&emsp;&emsp;"(II) programs and activities of the Afghan Ministry of Defense Directorate of Human Rights and Gender Integration and the Afghan Ministry of Interior Office of Human Rights, Gender and Child Rights;
 
 &emsp;&emsp;"(III) development and dissemination of gender and human rights educational and training materials and programs within the Afghan Ministry of Defense and the Afghan Ministry of Interior;
 
@@ -534,7 +534,7 @@ In General.—Subject to subsection (b), the President is authorized, on such te
 
 Implementation.—(1) In providing assistance under subsection (a), the President shall ensure that such assistance is provided in a manner that protects and promotes the human rights of all people in Afghanistan, utilizing indigenous institutions and nongovernmental organizations, especially women's organizations, to the extent possible.
 
-"(2) Beginning 6 months after the date of enactment of this Act \[Dec. 12, 2001\], and at least annually for the2 years thereafter, the Secretary of State shall submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives describing the activities carried out under this Act and otherwise describing the condition and status of women and children in Afghanistan and the persons in refugee camps while United States aid is given to displaced Afghans.
+"(2) Beginning 6 months after the date of enactment of this Act \[Dec. 12, 2001\], and at least annually for the 2 years thereafter, the Secretary of State shall submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives describing the activities carried out under this Act and otherwise describing the condition and status of women and children in Afghanistan and the persons in refugee camps while United States aid is given to displaced Afghans.
 
 "(c)
 

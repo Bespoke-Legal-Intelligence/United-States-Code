@@ -1,6 +1,6 @@
 ### §381. Use of public vessels to suppress piracy
 
-The President is authorized to employ so many of the public armed vessels as in his judgment the service may require, with suitable instructions to the commanders thereof, in protecting the merchant vessels of the United States and their crews from piratical aggressions and depredations.
+The President is authorized to employ so many of the public armed vessels as in his judgment the service may require, with suitable instructions to the commanders thereof, in protecting the merchant vessels of the UnitedStates and their crews from piratical aggressions and depredations.
 
 (R.S. §4293.)
 

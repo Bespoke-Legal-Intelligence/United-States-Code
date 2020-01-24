@@ -42,5 +42,5 @@ Subsec. (e). Pub. L. 115–282, §123(b)(2), substituted "section 2156" for "sec
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–546, §1(19)(a), substituted "promotion year" for "fiscal year".
 
-Subsec. (d). Pub. L. 94–546, §1(19)(b), struck out cl. (3) "if serving in a grade below captain, has not twice failed of selection for promotion to the next higher grade."
+Subsec. (d). Pub. L. 94–546, §1(19)(b), struck out cl. (3) "if serving in a grade below captain, has not twicefailed of selection for promotion to the next higher grade."
 

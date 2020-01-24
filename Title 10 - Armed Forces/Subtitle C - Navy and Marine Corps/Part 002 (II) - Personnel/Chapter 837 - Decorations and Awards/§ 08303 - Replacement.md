@@ -2,7 +2,7 @@
 
 The Secretary of the Navy may replace without charge any medal of honor, Navy cross, distinguished-service medal, silver star medal, or Navy and Marine Corps Medal, or any associated bar, emblem, or insignia awarded under this chapter that is stolen, lost, or destroyed or becomes unfit for use without fault or neglect on the part of the person to whom it was awarded.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 391, §6253; Pub. L. 107–107, div. A, title V, §553(b)(2), Dec. 28, 2001,115 Stat. 1116; renumbered §8303, Pub. L. 115–232, div. A, title VIII, §807(b)(13), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 391, §6253; Pub. L. 107–107, div. A, title V, §553(b)(2), Dec. 28, 2001, 115 Stat. 1116; renumbered §8303, Pub. L. 115–232, div. A, title VIII, §807(b)(13), Aug. 13, 2018, 132 Stat. 1836.)
 
 Historical and Revision Notes
 

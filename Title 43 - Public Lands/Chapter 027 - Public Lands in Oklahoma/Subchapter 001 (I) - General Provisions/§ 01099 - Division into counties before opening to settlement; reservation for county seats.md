@@ -1,6 +1,6 @@
 ### §1099. Division into counties before opening to settlement; reservation for county seats
 
-Before any lands in Oklahoma are open to settlement it shall be the duty of the Secretary of the Interior to divide the same into counties which shall contain as near as possible not less than seven hundred square miles in each county: <i>Provided</i>, That as soon as the county lines are designated by the Secretary he shall reserve not to exceed one-half section of land in each, to belocated near the center of said county, for county seat purposes, to be entered under sections 718 and 719 <sup>1</sup> of this title.
+Before any lands in Oklahoma are open to settlement it shall be the duty of the Secretary of the Interior to divide the same into counties which shall contain as near as possible not less than seven hundred square miles in each county: <i>Provided</i>, That as soon as the county lines are designated by the Secretary he shall reserve not to exceed one-half section of land in each, to be located near the center of said county, for county seat purposes, to be entered under sections 718 and 719 <sup>1</sup> of this title.
 
 (Mar. 3, 1891, ch. 543, §37, 26 Stat. 1043.)
 

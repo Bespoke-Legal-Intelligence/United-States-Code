@@ -114,7 +114,7 @@ Offense.—A person commits an offense if, in violation of a statute, or a regul
 
 &emsp;&emsp;"(C) a narcotic drug as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802);
 
-&emsp;&emsp;"(D) a controlled substance, other than a narcotic drug, as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802), or an alcoholic beverage;
+&emsp;&emsp;"(D) a controlled substance, other than a narcotic drug, as defined in section 102 of the ControlledSubstances Act (21 U.S.C. 802), or an alcoholic beverage;
 
 &emsp;&emsp;"(E) United States currency; or
 

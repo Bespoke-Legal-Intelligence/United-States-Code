@@ -44,9 +44,9 @@ In this section:
 
 #### (1) Establishment
 
-&emsp;The President shall—
+&emsp;The Director of National Intelligence shall—
 
-&emsp;&emsp;(A) create an information sharing environment for the sharing of terrorism information in a manner consistent with national security and with applicable legal standards relating to privacy and civil liberties;
+&emsp;&emsp;(A) create an information sharing environment for the sharing of terrorism information in a manner consistent with nationalsecurity and with applicable legal standards relating to privacy and civil liberties;
 
 &emsp;&emsp;(B) designate the organizational and management structures that will be used to operate and manage the ISE; and
 
@@ -54,7 +54,7 @@ In this section:
 
 #### (2) Attributes
 
-&emsp;The President shall, through the structures described in subparagraphs (B) and (C) of paragraph (1), ensure that the ISE provides and facilitates the means for sharing terrorism information among all appropriate Federal, State, local, and tribal entities, and the private sector through the use of policy guidelines and technologies. The President shall, to the greatest extent practicable, ensure that the ISE provides the functional equivalent of, or otherwise supports, a decentralized, distributed, and coordinated environment that—
+&emsp;The Director of National Intelligence shall, through the structures described in subparagraphs (B) and (C) of paragraph (1), ensure that the ISE provides and facilitates the means for sharing terrorism information among all appropriate Federal, State, local, and tribal entities, and the private sector through the use of policy guidelines and technologies. The Director of National Intelligence shall, to the greatest extent practicable, ensure that the ISE provides the functional equivalent of, or otherwise supports, a decentralized, distributed, and coordinated environment that—
 
 &emsp;&emsp;(A) connects existing systems, where appropriate, provides no single points of failure, and allows users to share information among agencies, between levels of government, and, as appropriate, with the private sector;
 
@@ -148,7 +148,7 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 #### (1) Designation
 
-&emsp;Not later than 120 days after December 17, 2004, with notification to Congress, the President shall designate an individual as the program manager responsible for information sharing across the Federal Government. The individual designated as the program manager shall serve as program manager until removed from service or replaced by the President (at the President's sole discretion). The program manager, in consultation with the head of any affected department or agency, shall have and exercise governmentwide authority over the sharing of information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, by all Federal departments, agencies, and components, irrespective of the Federal department, agency, or component in which the program manager may be administratively located, except as otherwise expressly provided by law.
+&emsp;Not later than 120 days after December 17, 2004, with notification to Congress, the President shall designate an individual as the program manager responsible for information sharing across the Federal Government. Beginning on December 20, 2019, each individual designated as the program manager shall be appointed by the Director of National Intelligence. The program manager, in consultation with the head of any affected department or agency, shall have and exercise governmentwide authority over the sharing of information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, by all Federal departments, agencies, and components, irrespective of the Federal department, agency, or component in which the program manager may be administratively located, except as otherwise expressly provided by law.
 
 #### (2) Duties and responsibilities
 
@@ -196,7 +196,7 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 &emsp;In assisting the President and the program manager in their duties under this section, the Information Sharing Council shall—
 
-&emsp;&emsp;(A) advise the President and the program manager in developing policies, procedures, guidelines, roles, and standards necessary to establish, implement, and maintain the ISE;
+&emsp;&emsp;(A) advise the President and the program manager in developing policies, procedures, guidelines, roles,<sup>2</sup> and standards necessary to establish, implement, and maintain the ISE;
 
 &emsp;&emsp;(B) work to ensure coordination among the Federal departments and agencies participating in the ISE in the establishment, implementation, and maintenance of the ISE;
 
@@ -310,7 +310,7 @@ The program manager is authorized to hire not more than 40 full-time employees t
 
 There is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 and 2009.
 
-(Pub. L. 108–458, title I, §1016, Dec. 17, 2004, 118 Stat. 3664; Pub. L. 110–53, title V, §504, Aug. 3, 2007, 121 Stat. 313; Pub. L. 111–259, title VIII, §806(a)(1), Oct. 7, 2010, 124 Stat. 2748.)
+(Pub. L. 108–458, title I, §1016, Dec. 17, 2004, 118 Stat. 3664; Pub. L. 110–53, title V, §504, Aug. 3, 2007, 121 Stat. 313; Pub. L. 111–259, title VIII, §806(a)(1), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 116–92, div. E, title LXIV, §6402, Dec. 20, 2019, 133 Stat. 2196.)
 
 #### References in Text
 
@@ -322,9 +322,15 @@ The Federal Advisory Committee Act, referred to in subsec. (g)(4), is Pub. L. 92
 
 #### Codification
 
-Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the National Security Intelligence Reform Act of 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the National Security Intelligence Reform Actof 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(1). Pub. L. 116–92, §6402(a)(1), substituted "Director of National Intelligence" for "President" in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 116–92, §6402(a)(2), substituted "Director of National Intelligence" for "President" in two places in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 116–92, §6402(b), substituted "Beginning on December 20, 2019, each individual designated as the program manager shall be appointed by the Director of National Intelligence." for "The individual designated as the program manager shall serve as program manager until removed from service or replaced by the President (at the President's sole discretion)."
 
 <b>2010</b>—Subsec. (e)(10)(B). Pub. L. 111–259 substituted "Department of Justice" for "Attorney General".
 
@@ -388,7 +394,7 @@ Ex. Ord. No. 13388, Oct. 25, 2005, 70 F.R. 62023, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458) \[6 U.S.C. 485\], and in order to further strengthen the effective conduct of United States counterterrorism activities and protect the territory, people, and interests of the United States of America, including against terrorist attacks, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. To the maximum extent consistent with applicable law, agencies shall, in the design anduse of information systems and in the dissemination of information among agencies:
+Section 1. <i>Policy</i>. To the maximum extent consistent with applicable law, agencies shall, in the design and use of information systems and in the dissemination of information among agencies:
 
 (a) give the highest priority to (i) the detection, prevention, disruption, preemption, and mitigation of the effects of terrorist activities against the territory, people, and interests of the United States of America; (ii) the interchange of terrorism information among agencies; (iii) the interchange of terrorism information between agencies and appropriate authorities of State, local, and tribal governments, and between agencies and appropriate private sector entities; and (iv) the protection of the ability of agencies to acquire additional such information; and
 
@@ -442,7 +448,7 @@ Memorandum of President of the United States, Nov. 14, 2006, 71 F.R. 67029, prov
 
 Memorandum for the Director of National Intelligence
 
-By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, the reportingfunction of the President under section 1016(e) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, 118 Stat. 3638) is hereby assigned to the Director of National Intelligence (Director).
+By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, the reporting function of the President under section 1016(e) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, 118 Stat. 3638) is hereby assigned to the Director of National Intelligence (Director).
 
 The Director shall perform such function in a manner consistent with the President's constitutional authority to withhold information the disclosure of which could impair foreign relations, national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties.
 
@@ -464,6 +470,8 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+\[Pub. L. 116–92, div. E, title LXIV, §6402(a), Dec. 20, 2019, 133 Stat. 2196, amended subsec. (b) of this section by substituting "Director of National Intelligence" for "President", thereby making the assignment of functions in the memorandum above moot.\]
+
 Memorandum of President of the United States, Sept. 8, 2007, 72 F.R. 52279, provided:
 
 Memorandum for the Secretary of State\[,\] the Secretary of Defense\[,\] the Attorney General\[,\] the Secretary of Energy\[,\] the Secretary of Homeland Security\[, and\] the Director of National Intelligence
@@ -481,4 +489,6 @@ The Director is authorized and directed to publish this memorandum in the Federa
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "rules,".</i>
 

@@ -28,7 +28,7 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §99 (1st 133 words); restated Sept. 22, 1922, ch. 423, §5 (1st 129 words); restated May 28, 1926, ch. 417, §3 (1st 133 words), 44 Stat. 674.
 
-The words "branch of the Army corresponding" are substituted for the words "same arm, corps, or department", to conform to sections 3063 and 3064 of title 10. In the second sentence, the words "organization of the Air Force corresponding" are substituted for the words "same arm, corps, or department", since the Air Force is not organized by statute into branches, arms, corps, or departments. The word "members" is substituted for the words "officers, warrant officers, and enlisted men". The words "service school" are substituted for the words "military-service school of the United States". Reference to the United States Air Force Academy is inserted to reflect its establishment by the Air Force Academy Act (63 Stat. 47).
+The words "branch of the Army corresponding" are substituted for the words "same arm, corps, or department", to conform to sections 3063 and 3064 of title 10.In the second sentence, the words "organization of the Air Force corresponding" are substituted for the words "same arm, corps, or department", since the Air Force is not organized by statute into branches, arms, corps, or departments. The word "members" is substituted for the words "officers, warrant officers, and enlisted men". The words "service school" are substituted for the words "military-service school of the United States". Reference to the United States Air Force Academy is inserted to reflect its establishment by the Air Force Academy Act (63 Stat. 47).
 
 #### Amendments
 

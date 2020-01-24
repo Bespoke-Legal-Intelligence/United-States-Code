@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Combination of institutions of higher education
 
-&emsp;The term "combination of institutions of higher education" means a group of institutions of higher education that have entered into a cooperative arrangement for the purpose of carrying out a common objective, or a public or private nonprofit agency, organization, or institution designated or created by a group of institutions of higher education for the purpose of carrying out a common objective on the group's behalf.
+&emsp;The term "combination of institutions of higher education" means a group of institutions of higher education that have entered into a cooperative arrangement for the purpose of carrying out a common objective, or a public or private nonprofit agency, organization, or institution designated or created by a group of institutions of higher education forthe purpose of carrying out a common objective on the group's behalf.
 
 #### (3) Critical foreign language
 
@@ -182,7 +182,7 @@ Another prior section 1003, Pub. L. 89–329, title I, §103, Nov. 8, 1965, 79 S
 
 A prior section 1004, Pub. L. 89–329, title I, §104, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 460; amended Pub. L. 103–208, §2(a)(2), Dec. 20, 1993, 107 Stat. 2457, related to grant applications, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
-Another prior section 1004, Pub. L. 89–329, title I, §104, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1376, related to administrative provisions and powers of Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
+Another prior section 1004, Pub. L. 89–329, title I, §104, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94Stat. 1376, related to administrative provisions and powers of Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 Another prior section 1004, Pub. L. 89–329, title I, §104, Nov. 8, 1965, 79 Stat. 1220; Pub. L. 94–482, title I, §101(b)(3), Oct. 12, 1976, 90 Stat. 2084; Pub. L. 95–43, §1(a)(2), June 15, 1977, 91 Stat. 213, described the allowable uses of States' allotments of funds, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
@@ -223,10 +223,6 @@ Par. (20). Pub. L. 114–95, §9215(oo)(1)(E), which directed technical amendmen
 Pars. (17) to (24). Pub. L. 110–315, §103(a)(1), added pars. (17) to (24).
 
 <b>2002</b>—Pars. (4) to (6), (10), (14). Pub. L. 107–110 substituted "7801" for "8801".
-
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2015 Amendment
 

@@ -130,7 +130,7 @@ The Advisory Board shall—
 
 &emsp;&emsp;(A) solicit the written opinions and recommendations of the Advisory Board; and
 
-&emsp;&emsp;(B) provide a written response to the Advisory Board regarding the manner and extent to which the Secretary will implement recommendations submitted by the Advisory Board.
+&emsp;&emsp;(B) provide a written response to the Advisory Board regarding the manner and extentto which the Secretary will implement recommendations submitted by the Advisory Board.
 
 #### (e) Appointment
 

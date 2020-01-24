@@ -38,11 +38,11 @@
 
 #### (4) Neighborhood innovation projects
 
-&emsp;The Secretary shall provide the assistance described in paragraph (1) for neighborhood innovation projects, which shall include providing grants to neighborhood-based private, nonprofit organizations to test or assist in the development of new approaches or methods that will aid in overcoming special problems identified by communities or neighborhoods or otherwise assist in furthering the purposes ofthis chapter, and which may include providing assistance for projects that are designed to serve low-income individuals and families who are not being effectively served by other programs.
+&emsp;The Secretary shall provide the assistance described in paragraph (1) for neighborhood innovation projects, which shall include providing grants to neighborhood-based private, nonprofit organizations to test or assist in the development of new approaches or methods that will aid in overcoming special problems identified by communities or neighborhoods or otherwise assist in furthering the purposes of this chapter, and which may include providing assistance for projects that are designed to serve low-income individuals and families who are not being effectively served by other programs.
 
 #### (b) Evaluation
 
-The Secretary shall require all activities receiving assistance under this section to be evaluated for their effectiveness. Funding for such evaluations shall be provided as a stated percentage of the assistance or through a separate grant awarded by the Secretary specifically for the purpose of evaluation of a particular activity or group of activities.
+The Secretary shall require all activities receiving assistance under this section to be evaluated for their effectiveness. Funding for such evaluations shall be provided as a stated percentage of the assistance or through a separategrant awarded by the Secretary specifically for the purpose of evaluation of a particular activity or group of activities.
 
 #### (c) Annual report
 
@@ -56,13 +56,17 @@ A prior section 680 of Pub. L. 97–35 was classified to section 9909 of this ti
 
 #### Change of Name
 
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees
 
-Pub. L. 115–245, div. B, title II, Sept. 28, 2018, 132 Stat. 3084, provided in part: "That the Secretary \[of Health and Human Services\] shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act \[Community Services Block Grant Act, 42 U.S.C. 9921\] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act \[42 U.S.C. 9921(a)(2)(A)\]: <i>Provided further</i>, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: <i>Provided further</i>, That these procedures shall apply to such grant funds made available after November 29, 1999".
+Pub. L. 116–94, div. A, title II, Dec. 20, 2019, 133 Stat. 2572, provided in part: "That the Secretary \[of Health and Human Services\] shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act \[Community Services Block Grant Act, 42 U.S.C. 9921\] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act \[42 U.S.C. 9921(a)(2)(A)\]: <i>Provided further</i>, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: <i>Provided further</i>, That these procedures shall apply to such grant funds made available after November 29, 1999".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–245, div. B, title II, Sept. 28, 2018, 132 Stat. 3084.
 
 Pub. L. 115–141, div. H, title II, Mar. 23, 2018, 132 Stat. 730.
 

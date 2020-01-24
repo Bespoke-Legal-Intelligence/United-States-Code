@@ -16,7 +16,7 @@ For the purposes of this chapter:
 
 &emsp;(7) The term "Secretary" means the Secretary of the Interior.
 
-&emsp;(8) The term "State" means the State fish and wildlife agency, which shall be construed to mean any department, or any division of any department of another name, of a State that is empowered under its laws to exercisethe functions ordinarily exercised by a State fish and wildlife agency.
+&emsp;(8) The term "State" means the State fish and wildlife agency, which shall be construed to mean any department, or any division of any department of another name, of a State that is empowered under its laws to exercise the functions ordinarily exercised by a State fish and wildlife agency.
 
 &emsp;(9) The term "wetlands conservation project" means—
 

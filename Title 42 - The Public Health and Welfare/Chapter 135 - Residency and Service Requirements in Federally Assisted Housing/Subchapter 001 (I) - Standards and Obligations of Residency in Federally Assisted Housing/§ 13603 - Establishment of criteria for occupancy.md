@@ -64,7 +64,7 @@
 
 #### (3) Procedure
 
-&emsp;Not later than 90 days after the submission of the final report under subsection (a)(7), the Secretary shall issue a notice of proposed rulemaking of the regulations under this subsection providing for notice and opportunity for public comment regarding the regulations, pursuant to the provisions of section 553 of title 5 (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment under such section 553 shall not be less than 60 days. The Secretary shall issue final regulations under this subsection not later than the expiration of the 60-day period beginning upon the conclusion of the comment period, which shall take effect upon issuance.
+&emsp;Not later than 90 days after the submission of the final report under subsection (a)(7), theSecretary shall issue a notice of proposed rulemaking of the regulations under this subsection providing for notice and opportunity for public comment regarding the regulations, pursuant to the provisions of section 553 of title 5 (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment under such section 553 shall not be less than 60 days. The Secretary shall issue final regulations under this subsection not later than the expiration of the 60-day period beginning upon the conclusion of the comment period, which shall take effect upon issuance.
 
 (Pub. L. 102–550, title VI, §643, Oct. 28, 1992, 106 Stat. 3821.)
 

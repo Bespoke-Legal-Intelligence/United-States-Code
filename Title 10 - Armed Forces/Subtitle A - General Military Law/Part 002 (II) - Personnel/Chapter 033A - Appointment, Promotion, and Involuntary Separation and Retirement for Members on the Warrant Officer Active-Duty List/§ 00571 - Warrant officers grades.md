@@ -26,7 +26,7 @@ Provisions similar to those in this section were contained in section 555 of thi
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 111–383 substituted ", except that with respect to an armed force under thejurisdiction of the Secretary of a military department, the Secretary concerned may provide by regulation that appointments in that grade in that armed force shall be made by commission" for "by the Secretary concerned" and inserted ", and appointments (whether by warrant or commission) in the grade of regular warrant officer, W–1, shall be made by the President, except that appointments in that grade in the Coast Guard shall be made by the Secretary concerned" after "commission by the President".
+<b>2011</b>—Subsec. (b). Pub. L. 111–383 substituted ", except that with respect to an armed force under the jurisdiction of the Secretary of a military department, the Secretary concerned may provide by regulation that appointments in that grade in that armed force shall be made by commission" for "by the Secretary concerned" and inserted ", and appointments (whether by warrant or commission) in the grade of regular warrant officer, W–1, shall be made by the President, except that appointments in that grade in the Coast Guard shall be made by the Secretary concerned" after "commission by the President".
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted "armed forces" for "Army, Navy, Air Force, and Marine Corps".
 
@@ -100,7 +100,7 @@ Certain Officers To Be Considered as Recommended for Promotion.—A regular warr
 
 &emsp;"(3) is on a list of officers recommended for promotion to a permanent grade higher than the grade in which he is serving;
 
-> shall be considered to have been recommended by a board convened under section 573 of title 10, UnitedStates Code, as added by this title, for promotion to the permanent grade equivalent to the grade in which he is serving or for which he has been recommended for promotion, as the case may be.
+> shall be considered to have been recommended by a board convened under section 573 of title 10, United States Code, as added by this title, for promotion to the permanent grade equivalent to the grade in which he is serving or for which he has been recommended for promotion, as the case may be.
 
 "(b)
 

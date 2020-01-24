@@ -1,6 +1,6 @@
 ### §§3837 to 3837f. Repealed. Pub. L. 113–79, title II, §2703(a), Feb. 7, 2014, 128 Stat. 767
 
-Section 3837, Pub. L. 99–198, title XII, §1237, as added Pub. L. 101–624, title XIV, §1438, Nov. 28, 1990, 104 Stat.3584; amended Pub. L. 102–237, title II, §204(6), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 103–66, title I, §1402(c), Aug. 10, 1993, 107 Stat. 333; Pub. L. 104–127, title III, §333(a)–(c), Apr. 4, 1996, 110 Stat. 995; Pub. L. 105–277, div. A, §101(a) \[title VII, §752\], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 107–171, title II, §§2201, 2202, May 13, 2002, 116 Stat. 252; Pub. L. 110–234, title II, §§2201–2203(a), May 22, 2008, 122 Stat. 1036, 1037; Pub. L. 110–246, §4(a), title II, §§2201–2203(a), June 18, 2008, 122 Stat. 1664, 1764, 1765, related to establishment of wetlands reserve program by Secretary.
+Section 3837, Pub. L. 99–198, title XII, §1237, as added Pub. L. 101–624, title XIV, §1438, Nov. 28, 1990, 104 Stat. 3584; amended Pub. L. 102–237, title II, §204(6), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 103–66, title I, §1402(c), Aug. 10, 1993, 107 Stat. 333; Pub. L. 104–127, title III, §333(a)–(c), Apr. 4, 1996, 110 Stat. 995; Pub. L. 105–277, div. A, §101(a) \[title VII, §752\], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 107–171, title II, §§2201, 2202, May 13, 2002, 116 Stat. 252; Pub. L. 110–234, title II, §§2201–2203(a), May 22, 2008, 122 Stat. 1036, 1037; Pub. L. 110–246, §4(a), title II, §§2201–2203(a), June 18, 2008, 122 Stat. 1664, 1764, 1765, related to establishment of wetlands reserve program by Secretary.
 
 Section 3837a, Pub. L. 99–198, title XII, §1237A, as added Pub. L. 101–624, title XIV, §1438, Nov. 28, 1990, 104 Stat. 3585; amended Pub. L. 104–127, title III, §333(d), Apr. 4, 1996, 110 Stat. 996; Pub. L. 107–171, title II, §2203, May 13, 2002, 116 Stat. 252; Pub. L. 110–234, title II, §§2204–2206, May 22, 2008, 122 Stat. 1038, 1039; Pub. L. 110–246, §4(a), title II, §§2204–2206, June 18, 2008, 122 Stat. 1664, 1766, 1767, related to easements and agreements.
 
@@ -40,7 +40,7 @@ Use of prior year funds.—Notwithstanding the repeal of subchapter C of chapter
 
 &emsp;&emsp;"(B)
 
-Other.—The Secretary \[of Agriculture\] may use funds made available to carry out the agricultural conservation easement program under subtitle H of title XII of the Food Security Act of 1985 \[16 U.S.C. 3865 et seq.\], as added by section 2301, to continue to carry out contracts, agreements, and easements referred to in paragraph (1) using the provisions of law and regulation applicable to such contracts, agreements, and easements as in existence on the day before the date of enactment of the Agricultural Act of 2014."
+Other.—The Secretary \[of Agriculture\] may use funds made available to carry out the agricultural conservation easement program under subtitle H of title XII of the Food Security Act of 1985 \[16 U.S.C. 3865 et seq.\], as added by section 2301, to continue to carry out contracts, agreements, and easements referred to in paragraph (1) using the provisions of law and regulation applicable to suchcontracts, agreements, and easements as in existence on the day before the date of enactment of the Agricultural Act of 2014."
 
 #### Effect of 1996 Amendments on Existing Agreements
 

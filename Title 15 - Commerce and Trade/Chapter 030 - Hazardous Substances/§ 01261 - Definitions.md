@@ -44,7 +44,7 @@ For the purposes of this chapter—
 
 (2) The test methods found by the Commission to be generally applicable for defining the flammability or combustibility characteristics of any such substance shall also be specified in such regulations.
 
-(3) In establishing definitions and test methods related to flammability and combustibility, the Commission shall consider the existing definitions and test methods of other Federal agencies involved in the regulation of flammable and combustible substances in storage, transportation and use; and to the extent possible, shall establish compatible definitions and test methods.
+(3) In establishing definitions and test methods related to flammability and combustibility,the Commission shall consider the existing definitions and test methods of other Federal agencies involved in the regulation of flammable and combustible substances in storage, transportation and use; and to the extent possible, shall establish compatible definitions and test methods.
 
 (4) Until such time as the Commission issues a regulation under paragraph (1) defining the term "combustible" as applied to liquids, such term shall apply to any liquid which has a flash point above eighty degrees Fahrenheit to and including one hundred and fifty degrees, as determined by the Tagliabue Open Cup Tester.
 
@@ -148,7 +148,7 @@ Pub. L. 91–113, §5, Nov. 6, 1969, 83 Stat. 190, provided that: "The amendment
 
 #### Effective Date
 
-Pub. L. 86–613, §17, formerly §16, July 12, 1960, 74 Stat. 380, renumbered Pub. L. 91–113, §4(a), Nov. 6, 1969, 83Stat. 189, and amended by Pub. L. 110–314, title II, §204(b)(4)(B), Aug. 14, 2008, 122 Stat. 3041, provided that: "This Act \[enacting this chapter and repealing sections 401 to 411 of this title\] shall take effect upon the date of its enactment \[July 12, 1960\]; but no penalty or condemnation shall be enforced for any violation of this Act which occurs—
+Pub. L. 86–613, §17, formerly §16, July 12, 1960, 74 Stat. 380, renumbered Pub. L. 91–113, §4(a), Nov. 6, 1969, 83 Stat. 189, and amended by Pub. L. 110–314, title II, §204(b)(4)(B), Aug. 14, 2008, 122 Stat. 3041, provided that: "This Act \[enacting this chapter and repealing sections 401 to 411 of this title\] shall take effect upon the date of its enactment \[July 12, 1960\]; but no penalty or condemnation shall be enforced for any violation of this Act which occurs—
 
 &emsp;"(a) prior to the expiration of the sixth calendar month after the month in which this Act is enacted \[July 1960\], or
 
@@ -184,7 +184,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Effect Upon Federal and State Law
 
-Pub. L. 86–613, §18, formerly §17, July 12, 1960, 74 Stat. 380, as amended by Pub. L. 89–756, §4(a), Nov. 3, 1966, 80 Stat. 1305; renumbered and amended by Pub. L. 91–113, §4(a), (b)(1), Nov. 6, 1969, 83 Stat. 189, 190; Pub. L. 94–284, §17(a), May 11, 1976, 90 Stat. 510; Pub. L. 110–314, title II, §204(b)(4)(J), Aug. 14, 2008, 122 Stat. 3042, provided that:
+Pub. L. 86–613, §18, formerly §17, July 12, 1960, 74 Stat. 380, as amended by Pub. L. 89–756, §4(a), Nov. 3, 1966, 80Stat. 1305; renumbered and amended by Pub. L. 91–113, §4(a), (b)(1), Nov. 6, 1969, 83 Stat. 189, 190; Pub. L. 94–284, §17(a), May 11, 1976, 90 Stat. 510; Pub. L. 110–314, title II, §204(b)(4)(J), Aug. 14, 2008, 122 Stat. 3042, provided that:
 
 "(a) Nothing in this act \[enacting this chapter and repealing sections 401 to 411 of this title\] shall be construed to modify or affect the provisions of the Flammable Fabrics Act, as amended (15 U.S.C. 1191 to 1200) \[sections 1191 to 1204 of this title\], or any regulations promulgated thereunder; or of chapter 39, title 18, United States Code, as amended (18 U.S.C. 831 et seq.), or any regulations promulgated thereunder or under sections 204(a)(2) and 204(a)(3) of the Interstate Commerce Act, as amended \[section 31502 of Title 49, Transportation\] (relating to the transportation of dangerous substances and explosives by surface carriers); or of section 1716, title 18, United States Code, or any regulations promulgated thereunder (relating to mailing of dangerous substances); or of section 902 \[section 1472 of former Title 49\] or regulations promulgated under section 601 of the Federal Aviation Act of 1958 \[section 1421 of former Title 49\] (relating to transportation of dangerous substances and explosives in aircraft); or of the Federal Food, Drug, and Cosmetic Act \[chapter 9 of Title 21, Food and Drugs\]; or of the Public Health Service Act \[chapter 6A of Title 42, The Public Health and Welfare\]; or of the Federal Insecticide, Fungicide, and Rodenticide Act \[section 136 et seq. of Title 7, Agriculture\]; or of the Dangerous Drug Act for the District of Columbia (70 Stat. 612), or the Act entitled 'An Act to regulate the practice of pharmacy and the sale of poisons in the District of Columbia, and for other purposes', approved May 7, 1906 (34 Stat. 175), as amended; or of any other Act of Congress, except as specified in section 19 \[set out as a note under sections 401 to 411 of this title\].
 
@@ -194,7 +194,7 @@ Pub. L. 86–613, §18, formerly §17, July 12, 1960, 74 Stat. 380, as amended b
 
 "(2) The Federal Government and the government of any State or political subdivision of a State may establish and continue in effect a requirement applicable to a hazardous substance for its own use (or to the packaging of such a substance) which requirement is designed to protect against a risk of illness or injury associated with such substance and which is not identical to a requirement described in paragraph (1) applicable to such substance (or packaging) and designed to protect against the same risk of illness or injury if the Federal, State, or political subdivision requirement provides a higher degree of protection from such risk of illness or injury than the requirement described in paragraph (1).
 
-"(3)(A) Upon application of a State or political subdivision of a State, the Commission may, by regulation promulgated in accordance with subparagraph (B), exempt from paragraph (1), under such conditions as may be prescribed in such regulation, any requirement of such State or political subdivision designed to protectagainst a risk of illness or injury associated with a hazardous substance if—
+"(3)(A) Upon application of a State or political subdivision of a State, the Commission may, by regulation promulgated in accordance with subparagraph (B), exempt from paragraph (1), under such conditions as may be prescribed in such regulation, any requirement of such State or political subdivision designed to protect against a risk of illness or injury associated with a hazardous substance if—
 
 &emsp;"(i) compliance with the requirement would not cause the hazardous substance (or its packaging) to be in violation of the applicable requirement described in paragraph (1), and
 

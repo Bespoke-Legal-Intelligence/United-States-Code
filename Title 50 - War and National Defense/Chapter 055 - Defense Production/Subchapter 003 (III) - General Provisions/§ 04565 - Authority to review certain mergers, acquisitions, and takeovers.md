@@ -54,7 +54,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) maintains or collects sensitive personal data of United States citizens that may be exploited in a manner that threatens national security.
 
-&emsp;&emsp;&emsp;(iv) Any change in the rights that a foreign person has with respect to a United States business in which the foreign person has an investment, if that change could result in—
+&emsp;&emsp;&emsp;(iv) Any change in the rights that a foreign person has with respect to a UnitedStates business in which the foreign person has an investment, if that change could result in—
 
 &emsp;&emsp;&emsp;&emsp;(I) foreign control of the United States business; or
 
@@ -126,7 +126,7 @@ In this section:
 
 #### (I) Treatment of certain investment fund investments
 
-&emsp;&emsp;&emsp;&emsp;Notwithstanding clause (i)(II) and subject to regulations prescribed by the Committee, an indirect investment by a foreign person in a United States business described in subparagraph (B)(iii) through an investment fund that affords the foreign person (or a designee of the foreign person) membership as a limited partner or equivalent on an advisory board or a committee of the fund shall not be considered an "other investment" for purposes of subparagraph (B)(iii) if—
+&emsp;&emsp;&emsp;&emsp;Notwithstanding clause (i)(II) and subject to regulations prescribed by the Committee, an indirect investment by a foreign person in a United States business described in subparagraph (B)(iii) through an investment fund that affords the foreign person (or a designee of the foreign person) membership as a limitedpartner or equivalent on an advisory board or a committee of the fund shall not be considered an "other investment" for purposes of subparagraph (B)(iii) if—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the fund is managed exclusively by a general partner, a managing member, or an equivalent;
 
@@ -196,7 +196,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) Specially designed and prepared nuclear equipment, parts and components, materials, software, and technology covered by part 810 of title 10, Code of Federal Regulations (relating to assistance to foreign atomic energy activities).
 
-&emsp;&emsp;&emsp;(iv) Nuclear facilities, equipment, and material covered by part 110 of title 10, Code of Federal Regulations (relating to export and import of nuclear equipment and material).
+&emsp;&emsp;&emsp;(iv) Nuclear facilities, equipment, and material covered by part 110 of title 10, Code of Federal Regulations (relating toexport and import of nuclear equipment and material).
 
 &emsp;&emsp;&emsp;(v) Select agents and toxins covered by part 331 of title 7, Code of Federal Regulations, part 121 of title 9 of such Code, or part 73 of title 42 of such Code.
 
@@ -286,7 +286,7 @@ In this section:
 
 #### (II) Basis for stipulation
 
-&emsp;&emsp;&emsp;&emsp;A written notice submitted under clause (i) or a declaration submitted under clause (v) that includes a stipulation under subclause (I) shall include a description of the basis for the stipulation.
+&emsp;&emsp;&emsp;&emsp;A written notice submitted under clause (i) or a declaration submittedunder clause (v) that includes a stipulation under subclause (I) shall include a description of the basis for the stipulation.
 
 #### (D) Unilateral initiation of review
 
@@ -480,7 +480,7 @@ In this section:
 
 #### (E) Independent role of Director
 
-&emsp;&emsp;The Director of National Intelligence shall be a nonvoting, ex officio member of the Committee, and shall be provided with all notices received by the Committee under paragraph (1)(C) regarding covered transactions, but shall serve no policy role on the Committee, other than to provide analysisunder subparagraphs (A) and (C) in connection with a covered transaction.
+&emsp;&emsp;The Director of National Intelligence shall be a nonvoting, ex officio member of the Committee, and shall be provided with all notices received by the Committee under paragraph (1)(C) regarding covered transactions, but shall serve no policy role on the Committee, other than to provide analysis under subparagraphs (A) and (C) in connection with a covered transaction.
 
 #### (F) Assessment of operational impact
 
@@ -564,7 +564,7 @@ In this section:
 
 #### (3) Enforcement
 
-&emsp;The President may direct the Attorney General of the United States to seek appropriaterelief, including divestment relief, in the district courts of the United States, in order to implement and enforce this subsection.
+&emsp;The President may direct the Attorney General of the United States to seek appropriate relief, including divestment relief, in the district courts of the United States, in order to implement and enforce this subsection.
 
 #### (4) Findings of the President
 
@@ -582,7 +582,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The actions of the President under paragraph (1) of subsection (d) and the findings of the President under paragraph (4) of subsection (d) shall not be subject to judicial review.
+&emsp;The actions of the President under paragraph (1) of subsection (d) and the findings ofthe President under paragraph (4) of subsection (d) shall not be subject to judicial review.
 
 #### (2) Civil actions
 
@@ -654,7 +654,7 @@ For purposes of this section, the President or the President's designee may, tak
 
 #### (B) Proprietary information
 
-&emsp;&emsp;Proprietary information which can be associated with a particular party to a covered transaction shall be furnished in accordance with subparagraph (A) only to a committee of Congress, and only when the committee provides assurances of confidentiality, unless such party otherwise consents in writing to such disclosure.
+&emsp;&emsp;Proprietary information which can be associated with a particular party to a coveredtransaction shall be furnished in accordance with subparagraph (A) only to a committee of Congress, and only when the committee provides assurances of confidentiality, unless such party otherwise consents in writing to such disclosure.
 
 #### (h) Regulations
 
@@ -870,7 +870,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 &emsp;&emsp;&emsp;Each plan required by clause (i) with respect to an agreement entered into under paragraph (3)(A) shall include an explanation of—
 
-&emsp;&emsp;&emsp;&emsp;(I) which member of the Committee will have primary responsibility formonitoring compliance with the agreement;
+&emsp;&emsp;&emsp;&emsp;(I) which member of the Committee will have primary responsibility for monitoring compliance with the agreement;
 
 &emsp;&emsp;&emsp;&emsp;(II) how compliance with the agreement will be monitored;
 
@@ -886,7 +886,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 &emsp;&emsp;&emsp;(i) negotiate a plan of action for the party or parties to remediate the lack of compliance, with failure to abide by the plan or otherwise remediate the lack of compliance serving as the basis for the Committee to find a material breach of the agreement or condition;
 
-&emsp;&emsp;&emsp;(ii) require that the party or parties submit a written notice under clause (i) of subsection (b)(1)(C) or a declaration under clause (v) of that subsection with respect to a covered transaction initiated after the date of the determination of noncompliance and before the date that is 5 years after the date of the determination to the Committee to initiate a review of the transaction under subsection (b); or
+&emsp;&emsp;&emsp;(ii) require that the party or parties submit a written notice under clause (i) ofsubsection (b)(1)(C) or a declaration under clause (v) of that subsection with respect to a covered transaction initiated after the date of the determination of noncompliance and before the date that is 5 years after the date of the determination to the Committee to initiate a review of the transaction under subsection (b); or
 
 &emsp;&emsp;&emsp;(iii) seek injunctive relief.
 
@@ -942,7 +942,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### (A) In general
 
-&emsp;&emsp;All appropriate portions of the annual report under paragraph (1) may be classified. An unclassified version of the report, as appropriate, consistent with safeguarding national security and privacy, shall be made available to the public.
+&emsp;&emsp;All appropriate portions of the annual report under paragraph (1) may be classified.An unclassified version of the report, as appropriate, consistent with safeguarding national security and privacy, shall be made available to the public.
 
 #### (B) Inclusion in classified version
 
@@ -1162,7 +1162,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### Enactment of Subsection (b)(1)(C)(v)
 
-<i>Pub. L. 115–232, div. A, title XVII, §§1706, 1727(b), Aug. 13, 2018, 132 Stat. 2184, 2206, provided that, effective on the earlier of the date that is 18 months after Aug. 13, 2018, or the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer new provisions are in place, and applicable with respect to any covered transaction the review or investigation of which is initiated under this section on or after Aug. 13, 2018, subsec. (b)(1)(C) is amended by adding at the end the following:</i>
+<i>Pub. L. 115–232, div. A, title XVII, §§1706, 1727(b), Aug. 13, 2018, 132 Stat. 2184, 2206, provided that, effective on the earlier of the date that is 18 months after Aug. 13, 2018, or the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer new provisions are in</i><i>place, and applicable with respect to any covered transaction the review or investigation of which is initiated under this section on or after Aug. 13, 2018, subsec. (b)(1)(C) is amended by adding at the end the following:</i>
 
 #### <i>(v) Declarations for certain covered transactions</i>
 
@@ -1284,7 +1284,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### Amendment of Subsection (m)(2)
 
-<i>Pub. L. 115–232, div. A, title XVII, §§1719(a)(1), 1727(b), Aug. 13, 2018, 132 Stat. 2197, 2206, provided that, effective on the earlier</i><i>of the date that is 18 months after Aug. 13, 2018, or the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer new provisions are in place, and applicable with respect to any covered transaction the review or investigation of which is initiated under this section on or after Aug. 13, 2018, subsec. (m)(2) of this section is amended—</i>
+<i>Pub. L. 115–232, div. A, title XVII, §§1719(a)(1), 1727(b), Aug. 13, 2018, 132 Stat. 2197, 2206, provided that, effective on the earlier of the date that is 18 months after Aug. 13, 2018, or the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer new provisions are in place, and applicable with respect to any covered transaction the review or investigation of which is initiated under this section on or after Aug. 13, 2018, subsec. (m)(2) of this section is amended—</i>
 
 <i>(1) by amending subparagraph (A) to read as follows:</i>
 
@@ -1300,7 +1300,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 <i>(2) by adding at the end the following:</i>
 
-&emsp;&emsp;<i>(G) Statistics on compliance plans conducted and actions taken by the Committee under subsection (l)(6), including subparagraph (D) of that subsection, during that period, a general assessment of the compliance of parties with agreements entered into and conditions imposed under subsection (l)(3)(A) that are in effect during that period, including a description of any actions taken by the Committee to impose penalties or initiate a unilateral review pursuant to subsection (b)(1)(D)(iii), and any recommendations for improving the enforcement of such agreements and conditions.</i>
+&emsp;&emsp;<i>(G) Statistics on compliance plans conducted and actions taken by the Committee under sub</i><i>section (l)(6), including subparagraph (D) of that subsection, during that period, a general assessment of the compliance of parties with agreements entered into and conditions imposed under subsection (l)(3)(A) that are in effect during that period, including a description of any actions taken by the Committee to impose penalties or initiate a unilateral review pursuant to subsection (b)(1)(D)(iii), and any recommendations for improving the enforcement of such agreements and conditions.</i>
 
 &emsp;&emsp;<i>(H) Cumulative and, as appropriate, trend information on the number of declarations filed under subsection (b)(1)(C)(v), the actions taken by the Committee in response to those declarations, the business sectors involved in those declarations, and the countries involved in those declarations.</i>
 
@@ -1376,7 +1376,7 @@ Subsec. (b)(1)(D)(i). Pub. L. 115–232, §1708(2)(B), inserted "(other than a c
 
 Subsec. (b)(1)(D)(ii). Pub. L. 115–232, §1708(2)(C), added cl. (ii) and struck out former cl. (ii) which read as follows: "any covered transaction that has previously been reviewed or investigated under this section, if any party to the transaction submitted false or misleading material information to the Committee in connection with the review or investigation or omitted material information, including material documents, from information submitted to the Committee; or".
 
-Subsec. (b)(1)(D)(iii). Pub. L. 115–232, §1708(2)(D)(i), substituted "any covered transaction described in subparagraph (E)," for "any covered transaction that has previously been reviewed or investigated under this section," in introductory provisions.
+Subsec. (b)(1)(D)(iii). Pub. L. 115–232, §1708(2)(D)(i), substituted "any covered transaction described in subparagraph (E)," for "any covered transaction that haspreviously been reviewed or investigated under this section," in introductory provisions.
 
 Subsec. (b)(1)(D)(iii)(I). Pub. L. 115–232, §1725(1)(A), substituted "subsection (l)(3)(A)" for "subsection (l)(1)(A)".
 
@@ -1442,7 +1442,7 @@ Subsec. (j). Pub. L. 115–232, §1725(3), substituted "transaction" for "merger
 
 Subsec. (k)(4). Pub. L. 115–232, §1717(a), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "There shall be established an additional position of Assistant Secretary of the Treasury, who shall be appointed by the President, by and with the advice and consent of the Senate. The Assistant Secretary appointed under this paragraph shall report directly to the Undersecretary of the Treasury for International Affairs. The duties of the Assistant Secretary shall include duties related to the Committee on Foreign Investment in the United States, as delegated by the Secretary of the Treasury under this section."
 
-Subsec. (l). Pub. L. 115–232, §1718(1), substituted "Actions by the Committee to address national security risks" for "Mitigation, tracking, andpostconsummation monitoring and enforcement" in heading.
+Subsec. (l). Pub. L. 115–232, §1718(1), substituted "Actions by the Committee to address national security risks" for "Mitigation, tracking, and postconsummation monitoring and enforcement" in heading.
 
 Subsec. (l)(1), (2). Pub. L. 115–232, §1718(3), added pars. (1) and (2). Former pars. (1) and (2) redesignated (3) and (5), respectively.
 
@@ -1462,7 +1462,7 @@ Subsec. (l)(6). Pub. L. 115–232, §1718(2), redesignated par. (3) as (6).
 
 Subsec. (l)(6)(A). Pub. L. 115–232, §1718(7)(A), substituted "paragraph (3)" for "paragraph (1)" and "The lead agency may, at its discretion, seek and receive the assistance of other departments or agencies in carrying out the purposes of this paragraph" for "Nothing in this paragraph shall prohibit other departments or agencies in assisting the lead agency in carrying out the purposes of this paragraph".
 
-Subsec. (l)(6)(B). Pub. L. 115–232, §1718(7)(B), struck out "(i) Modification reports" before "The lead agency", redesignated former subcls. (I) and (II) as cls. (i) and (ii), respectively, and struck out former cl. (ii). Prior to amendment, text of cl. (ii) read as follows: "The Committee shall develop and agree upon methods for evaluating compliance with any agreement entered into or condition imposed with respect to a covered transaction that will allow the Committee to adequately assure compliance, without—
+Subsec. (l)(6)(B). Pub. L. 115–232, §1718(7)(B), struck out "(i) Modification reports" before "The lead agency", redesignated former subcls. (I) and (II) as cls. (i)and (ii), respectively, and struck out former cl. (ii). Prior to amendment, text of cl. (ii) read as follows: "The Committee shall develop and agree upon methods for evaluating compliance with any agreement entered into or condition imposed with respect to a covered transaction that will allow the Committee to adequately assure compliance, without—
 
 &emsp;"(I) unnecessarily diverting Committee resources from assessing any new covered transaction for which a written notice has been filed pursuant to subsection (b)(1)(C), and if necessary, reaching a mitigation agreement with or imposing a condition on a party to such covered transaction or any covered transaction for which a review has been reopened for any reason; or
 
@@ -1614,7 +1614,7 @@ Pub. L. 115–232, div. A, title XVII, §1702(a), Aug. 13, 2018, 132 Stat. 2174,
 
 &emsp;"(4) According to the Government Accountability Office, from 2011 to 2016, the number of transactions reviewed by the Committee on Foreign Investment in the United States (commonly referred to as 'CFIUS') grew by 55 percent, while the staff of the Committees assigned to the reviews increased by 11 percent.
 
-&emsp;"(5) According to a February 2018 report of the Government Accountability Office on the Committee on Foreign Investment in the United States (GAO–18–249): 'Officials from Treasury and other member agencies are aware of pressures on their CFIUS staff given the current workload and have expressed concerns about possible workload increases.'. The Government Accountability Office concluded: 'Without attaining an understanding of the staffing levels needed to address the current and future CFIUS workload, particularly if legislative changes to CFIUS's authorities further expand its workload, CFIUS may be limited in its ability to fulfill its objectives and address threats to the national security of the United States.'.
+&emsp;"(5) According to a February 2018 report of the Government Accountability Office on the Committee on Foreign Investment in the United States\(GAO–18–249): 'Officials from Treasury and other member agencies are aware of pressures on their CFIUS staff given the current workload and have expressed concerns about possible workload increases.'. The Government Accountability Office concluded: 'Without attaining an understanding of the staffing levels needed to address the current and future CFIUS workload, particularly if legislative changes to CFIUS's authorities further expand its workload, CFIUS may be limited in its ability to fulfill its objectives and address threats to the national security of the United States.'.
 
 &emsp;"(6) On March 30, 1954, Dwight David Eisenhower—five-star general, Supreme Allied Commander, and 34th President of the United States—in his 'Special Message to the Congress on Foreign Economic Policy', counseled: 'Great mutual advantages to buyer and seller, to producer and consumer, to investor and to the community where investment is made, accrue from high levels of trade and investment.'. President Eisenhower continued: 'The internal strength of the American economy has evolved from such a system of mutual advantage. In the press of other problems and in the haste to meet emergencies, this nation—and many other nations of the free world—have all too often lost sight of this central fact.'. President Eisenhower concluded: 'If we fail in our trade policy, we may fail in all. Our domestic employment, our standard of living, our security, and the solidarity of the free world—all are involved.'."
 
@@ -1676,7 +1676,7 @@ Pub. L. 115–232, div. A, title XVII, §1727(c), Aug. 13, 2018, 132 Stat. 2207,
 
 "(1)
 
-In general.—Beginning on the date of the enactment of this Act \[Aug. 13, 2018\] and ending on the datethat is 570 days thereafter, the Committee on Foreign Investment in the United States may, at its discretion, conduct one or more pilot programs to implement any authority provided pursuant to any provision of or amendment made by this subtitle \[subtitle A (§§1701–1728) of title XVII of div. A of Pub. L. 115–232, amending this section and enacting provisions set out as notes under this section and section 4501 of this title\] not specified in subsection (a) \[set out in an Effective Date of 2018 Amendment note above\].
+In general.—Beginning on the date of the enactment of this Act \[Aug. 13, 2018\] and ending on the date that is 570 days thereafter, the Committee on Foreign Investment in the United States may, at its discretion, conduct one or more pilot programs to implement any authority provided pursuant to any provision of or amendment made by this subtitle \[subtitle A (§§1701–1728) of title XVII of div. A of Pub. L. 115–232, amending this section and enacting provisions set out as notes under this section and section 4501 of this title\] not specified in subsection (a) \[set out in an Effective Date of 2018 Amendment note above\].
 
 "(2)
 
@@ -1692,7 +1692,7 @@ Study required.—Before the end of the 120-day period beginning on the date of 
 
 &emsp;"(A) foreign governments, entities controlled by or acting on behalf of a foreign government, or persons of foreign countries which comply with any boycott of Israel; or
 
-&emsp;"(B) foreign governments, entities controlled by or acting on behalf of a foreign government, or persons of foreign countries which do not ban organizations designated by the Secretary of State as foreign terrorist organizations.
+&emsp;"(B) foreign governments, entities controlled by or acting on behalf of a foreign government, or personsof foreign countries which do not ban organizations designated by the Secretary of State as foreign terrorist organizations.
 
 "(2)
 
@@ -1826,7 +1826,7 @@ Memorandum for the Secretary of the Treasury
 
 By virtue of the authority vested in me by the Constitution and statutes of the United States, including without limitation Section 301 of Title 3 of the United States Code, the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 <i>et seq</i>.) \[now 50 U.S.C. 4501 et seq.\], and the Omnibus Trade and Competitiveness Act of 1988 (Pub. L. 100–418, August 23, 1988) (the "Act") \[see Tables for classification\], it is ordered as follows:
 
-Pending the issuance of an Executive order to implement the Act, the Secretary of the Treasury is hereby designated and empowered to perform the following-described functions of the President: The authority vested in the President by Section 721 of the Defense Production Act of 1950, as amended \[50 U.S.C. 4565\], relative to mergers, acquisitions, and takeovers proposed or pending on or after the date of enactment of the Act \[Aug. 23, 1988\] by or with foreign persons which couldresult in foreign control of persons engaged in interstate commerce in the United States.
+Pending the issuance of an Executive order to implement the Act, the Secretary of the Treasury is hereby designated and empowered to perform the following-described functions of the President: The authority vested in the President by Section 721 of the Defense Production Act of 1950, as amended \[50 U.S.C. 4565\], relative to mergers, acquisitions, and takeovers proposed or pending on or after the date of enactment of the Act \[Aug. 23, 1988\] by or with foreign persons which could result in foreign control of persons engaged in interstate commerce in the United States.
 
 The Secretary of the Treasury shall consult with the Committee on Foreign investment in the United States, established pursuant to Executive Order No. 11858 \[set out above\] and chaired by the representative of the Secretary of the Treasury, to take such actions or make such recommendations as requested by the Secretary of the Treasury.
 

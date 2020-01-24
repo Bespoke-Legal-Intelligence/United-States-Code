@@ -70,7 +70,7 @@ This subchapter does not—
 
 #### (6) Oral communications
 
-&emsp;An oral communication or a recording of an oral communication shall not qualify as anelectronic record for purposes of this subsection except as otherwise provided under applicable law.
+&emsp;An oral communication or a recording of an oral communication shall not qualify as an electronic record for purposes of this subsection except as otherwise provided under applicable law.
 
 #### (d) Retention of contracts and records
 
@@ -158,7 +158,7 @@ In general.—Subject to subparagraph (B), this title \[enacting this subchapter
 
 &emsp;&emsp;"(B)
 
-Delayed effect for pending rulemakings.—If on March 1, 2001, a Federal regulatory agency or State regulatory agency has announced, proposed, or initiated, but not completed, a rulemaking proceeding to prescribe a regulation under section 104(b)(3) \[15 U.S.C. 7004(b)(3)\] with respect toa requirement described in subparagraph (A), this title shall be effective on June 1, 2001, with respect to such requirement.
+Delayed effect for pending rulemakings.—If on March 1, 2001, a Federal regulatory agency or State regulatory agency has announced, proposed, or initiated, but not completed, a rulemaking proceeding to prescribe a regulation under section 104(b)(3) \[15 U.S.C. 7004(b)(3)\] with respect to a requirement described in subparagraph (A), this title shall be effective on June 1, 2001, with respect to such requirement.
 
 &emsp;"(2)
 

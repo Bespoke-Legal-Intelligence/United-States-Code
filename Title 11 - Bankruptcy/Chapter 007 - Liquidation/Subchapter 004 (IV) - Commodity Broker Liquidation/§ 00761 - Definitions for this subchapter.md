@@ -206,7 +206,7 @@ Par. (9)(A)(i). Pub. L. 111–203, §724(b)(2), substituted "a commodity contrac
 
 Par. (7). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(B)\], amended par. (7) generally. Prior to amendment, par. (7) read as follows: " 'contract market' means board of trade designated as a contract market by the Commission under the Act;".
 
-Par. (8). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(C)\], amended par. (8) generally. Prior to amendment, par. (8) read as follows: " 'contract of sale', 'commodity', 'future delivery', 'board of trade', and 'futures commission merchant' have the meanings assigned to those terms in the Act;".
+Par. (8). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(C)\], amended par. (8) generally. Prior to amendment, par.\(8) read as follows: " 'contract of sale', 'commodity', 'future delivery', 'board of trade', and 'futures commission merchant' have the meanings assigned to those terms in the Act;".
 
 <b>1994</b>—Par. (1). Pub. L. 103–394, §501(d)(29)(A), struck out "(7 U.S.C. 1 et seq.)" after "Act".
 

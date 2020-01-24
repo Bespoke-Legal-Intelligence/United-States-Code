@@ -128,7 +128,7 @@ Subsec. (m). Pub. L. 111–203, §991(d)(1), added subsec. (m).
 
 Pub. L. 107–123, §2(1)–(3), substituted "$15 per $1,000,000" for "1/300 of one percent" and "security futures products, and options on securities indexes (excluding a narrow-based security index)" for "and security futures products" and struck out ", except that for fiscal year 2007 or any succeeding fiscal year such rate shall be equal to 1/800 of one percent of such aggregate dollar amount of sales" before period at end of first sentence.
 
-Subsec. (c). Pub. L. 107–123, §3(a)(3), redesignated subsec. (d) as (c), substituted "Off-exchange trades of exchange registered and last-sale-reported securities" for "Off-exchange trades of last-sale-reported securities" in subsec. heading, struck out par. (1) heading, substituted "Subject to subsection (j), each national securities" for "Each national securities", inserted "registered on a national securities exchange or" after"narrow-based security index))", struck out ", excluding any sales for which a fee is paid under subsection (c) of this section" after "national securities association", and struck out pars. (2) and (3), which related to deposit of fees and lapse of appropriations.
+Subsec. (c). Pub. L. 107–123, §3(a)(3), redesignated subsec. (d) as (c), substituted "Off-exchange trades of exchange registered and last-sale-reported securities" for "Off-exchange trades of last-sale-reported securities" in subsec. heading, struck out par. (1) heading, substituted "Subject to subsection (j), each national securities" for "Each national securities", inserted "registered on a national securities exchange or" after "narrow-based security index))", struck out ", excluding any sales for which a fee is paid under subsection (c) of this section" after "national securities association", and struck out pars. (2) and (3), which related to deposit of fees and lapse of appropriations.
 
 Pub. L. 107–123, §3(a)(2), struck out heading and text of former subsec. (c). Text read as follows: "Each national securities association shall pay to the Commission a fee at a rate equal to 1/300 of one percent of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities registered on such an exchange (other than bonds, debentures, other evidences of indebtedness, and security futures products), except that for fiscal year 2007 or any succeeding fiscal year such rate shall be equal to 1/800 of one percent of such aggregate dollar amount of sales. Fees collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury."
 
@@ -180,7 +180,7 @@ Subsec. (h). Pub. L. 106–554, §1(a)(5) \[title II, §206(f)(5)\], redesignate
 
 Amendment by section 991(d)(1) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-Pub. L. 111–203, title IX, §991(a)(2), July 21, 2010, 124 Stat. 1951, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the later of—
+Pub. L. 111–203, title IX, §991(a)(2), July 21, 2010, 124 Stat. 1951, provided that: "The amendments made bythis subsection \[amending this section\] shall take effect on the later of—
 
 &emsp;"(A) October 1, 2011; or
 
@@ -278,9 +278,13 @@ Report to Congress.—Not later than 2 years after the date of the enactment of 
 
 #### Fees From National Securities Associations for Member Transactions Other Than on National Securities Exchanges
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title V\], Sept. 30, 1996, 110 Stat. 3009, 3009–61, provided in part: "That effective January 1, 1997, every national securities association shall pay to the Commission a fee at a rate of one-three-hundredth of one percentum of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange (other than bonds, debentures, and other evidences of indebtedness) subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association, excluding any sales for which a fee is paid under section 31 of the Securities Exchange Act of 1934 (15 U.S.C. 78ee), and such increase shall be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals: <i>Provided further</i>, That the fee due from every national securities association shall be paid on or before September 30, 1997, with respect to transactions and sales occurring during the period beginning on January 1, 1997, and ending at the close of August 31, 1997".
+Pub. L. 104–208, div. A, title I, §101(a) \[title V\], Sept. 30, 1996, 110 Stat. 3009, 3009–61, provided in part: "That effective January 1, 1997, every national securities association shall pay to the Commission a fee at a rate of one-three-hundredth of one percentum of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange (other than bonds, debentures, and other evidences of indebtedness) subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association, excluding any sales for which a fee is paid under section 31 of the Securities Exchange Act of 1934 (15U.S.C. 78ee), and such increase shall be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals: <i>Provided further</i>, That the fee due from every national securities association shall be paid on or before September 30, 1997, with respect to transactions and sales occurring during the period beginning on January 1, 1997, and ending at the close of August 31, 1997".
 
 #### Adjustment of Transaction Fee Rate
+
+By order dated Jan. 9, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.10 per $1,000,000, effective Feb. 18, 2020, see 85 F.R. 2218.
+
+By order dated Mar. 15, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $20.70 per $1,000,000, effective Apr. 16, 2019, see 84 F.R. 9576.
 
 By order dated Apr. 17, 2018, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $13.00 per $1,000,000, effective May 22, 2018, see 83 F.R. 17577.
 
@@ -288,7 +292,7 @@ By order dated May 31, 2017, the Securities and Exchange Commission adjusted the
 
 By order dated Jan. 7, 2016, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $21.80 per $1,000,000, effective Feb. 16, 2016, see 81 F.R. 1458.
 
-By order dated Jan. 15, 2015, the Securities and Exchange Commission adjusted the fee rates applicableunder subsecs. (b) and (c) of this section to $18.40 per $1,000,000, effective Feb. 14, 2015, see 80 F.R. 2978.
+By order dated Jan. 15, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $18.40 per $1,000,000, effective Feb. 14, 2015, see 80 F.R. 2978.
 
 By order dated Feb. 12, 2014, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.10 per $1,000,000, effective Mar. 18, 2014, see 79 F.R. 9504.
 

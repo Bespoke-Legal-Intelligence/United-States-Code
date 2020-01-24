@@ -76,7 +76,7 @@
 
 > The indemnification provisions of section 2354 of title 10 shall apply with respect to contracts entered into under this subsection and section 282(b) of this title.
 
-(2) Support for an activity or program under this subsection may be provided through grants, contracts, and cooperative agreements. The Secretary, acting through the Director of each national research institute—
+(2) Support for an activity or program under this subsection may be provided through grants,contracts, and cooperative agreements. The Secretary, acting through the Director of each national research institute—
 
 &emsp;(A) may enter into a contract for research, training, or demonstrations only if the contract has been recommended after technical and scientific peer review required by regulations under section 289a of this title;
 

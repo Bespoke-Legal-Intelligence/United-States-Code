@@ -6,7 +6,7 @@
 
 (b)(1) Funds may not be expended for the improvement of any single family housing unit, or for the improvement of two or more housing units that are to be converted into or are to be used as a single family housing unit, if the cost per unit of such improvement will exceed (A) $50,000 multiplied by the area construction cost index as developed by the Department of Defense for the location concerned at the time of contract award, or (B) in the case of improvements necessary to make the unit suitable for habitation by a handicapped person, $60,000 multiplied by such index.
 
-(2) The Secretary concerned may waive the limitations contained in paragraph (1) if such Secretary determines that, considering the useful life of the structure to be improved and the useful life of a newly constructed unit and the cost of construction and of operation and maintenance of each kind of unit over its useful life, the improvement will be cost-effective. If the Secretary concerned makes a determination under the preceding sentence with respect to an improvement, the waiver under that sentence with respect to that improvement may take effect only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress notice of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective.
+(2) The Secretary concerned may waive the limitations contained in paragraph (1) if such Secretary determines that, considering the useful life of the structure to be improved and the useful life of a newly constructed unit and the cost of construction and of operation and maintenance of each kind of unit over its useful life, the improvement will be cost-effective. If the Secretary concerned makes a determination under the preceding sentence with respect to animprovement, the waiver under that sentence with respect to that improvement may take effect only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress notice of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective.
 
 (3) In determining the applicability of the limitation contained in paragraph (1), the Secretary concerned shall include as part of the cost of the improvement of the unit or units concerned the following:
 
@@ -32,7 +32,7 @@
 
 &emsp;(A) the improvement of the existing housing units has been authorized by law; and
 
-&emsp;(B) the Secretary determines that the improvement project is no longer cost-effectiveafter a review of post-design or bid cost estimates.
+&emsp;(B) the Secretary determines that the improvement project is no longer cost-effective after a review of post-design or bid cost estimates.
 
 (2) The amount that may be expended to construct replacement military family housing units under this subsection may not exceed the amount that is otherwise available to carry out the previously authorized improvement project.
 
@@ -58,7 +58,7 @@ Subsec. (b)(5). Pub. L. 115–91, §2801(b)(1)(A), (B), redesignated par. (4) as
 
 "(D) a period of 21 days elapses after the date on which the Secretary submits the notice required by subparagraph (C) or, if over sooner, a period of 14 days elapses after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title."
 
-<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §1031(a)(41)(A), struck out "(i)" before "such Secretary determines" and substituted period and last sentence for ", and (ii) a period of 21 days elapses after the date on which the appropriate committees of Congress receive a notice from such Secretary of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective.".
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §1031(a)(41)(A), struck out "(i)" before "such Secretary determines" and substituted period and last sentence for ", and (ii) a period of 21 days elapses after the date on which the appropriate committees of Congress receive a noticefrom such Secretary of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective.".
 
 Subsec. (c)(1)(D). Pub. L. 108–136, §1031(a)(41)(B), inserted before period at end "or, if over sooner, a period of 14 days elapses after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title".
 
@@ -92,7 +92,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 Pub. L. 109–364, div. A, title III, §362, Oct. 17, 2006, 120 Stat. 2167, as amended by Pub. L. 114–328, div. A, title VI, §618(d), Dec. 23, 2016, 130 Stat. 2160, provided that: "The Secretary of a military department shall ensure that a member of the Armed Forces under the jurisdiction of the Secretary who occupies a unit of military family housing is provided with adequate storage space to secure personal property that the member is unable to secure within the unit whenever—
 
-&emsp;"(1) the member is assigned to duty in an area for which special pay under section 310, or paragraph (1) or (3) of section 351(a), of title 37, United States Code,is available and the assignment is pursuant to orders specifying an assignment of 180 days or more; and
+&emsp;"(1) the member is assigned to duty in an area for which special pay under section 310, or paragraph (1) or (3) of section 351(a), of title 37, United States Code, is available and the assignment is pursuant to orders specifying an assignment of 180 days or more; and
 
 &emsp;"(2) the dependents of the member who otherwise occupy the unit of military family housing are absent from the unit for more than 30 consecutive days during the period of the assignment of the member."
 

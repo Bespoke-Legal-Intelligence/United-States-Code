@@ -2,7 +2,7 @@
 
 #### (a) Submission of recommendations
 
-(1) Subject to subsections (h) and (i), not later than 30 days before the date on which the Board transmits a recommendation to the Secretary ofEnergy under section 2286a of this title, the Board shall transmit to the Secretary in writing a draft of such recommendation and any related findings, supporting data, and analyses to ensure the Secretary is adequately informed of a formal recommendation and to provide the Secretary an opportunity to provide input to the Board before such recommendation is finalized.
+(1) Subject to subsections (h) and (i), not later than 30 days before the date on which the Board transmits a recommendation to the Secretary of Energy under section 2286a of this title, the Board shall transmit to the Secretary in writing a draft of such recommendation and any related findings, supporting data, and analyses to ensure the Secretary is adequately informed of a formal recommendation and to provide the Secretary an opportunity to provide input to the Board before such recommendation is finalized.
 
 (2) The Secretary may provide to the Board comments on a draft recommendation transmitted by the Board under paragraph (1) by not later than 30 days after the date on which the Secretary receives the draft recommendation. The Board may grant, upon request by the Secretary, additional time for the Secretary to transmit comments to the Board.
 
@@ -44,9 +44,9 @@ The Secretary of Energy shall prepare a plan for the implementation of each Boar
 
 #### (g) Implementation
 
-(1) Subject to paragraph (2), not later than one year after the date on which the Secretary of Energy transmits an implementation plan with respect to a recommendation (or part thereof) under subsection (f), the Secretary shall carry out and complete the implementation plan. If complete implementation of the plan takes more than 1 year, the Secretary of Energy shall submit a report to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate setting forth the reasons for the delay and when implementation will be completed.
+(1) Subject to paragraph (2), not later than one year after the date on which the Secretary of Energy transmits an implementation plan with respect to a recommendation (or part thereof) under subsection (f), the Secretary shall carry out and complete the implementation plan. If complete implementation of the plan takes more than 1 year, the Secretary of Energy shallsubmit a report to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate setting forth the reasons for the delay and when implementation will be completed.
 
-(2) If the Secretary of Energy determines that the implementation of a Board recommendation\(or part thereof) is impracticable because of budgetary considerations, or that the implementation would affect the Secretary's ability to meet the annual nuclear weapons stockpile requirements established pursuant to section 2121 of this title, the Secretary shall submit to the President and to such committees a report containing the recommendation and the Secretary's determination.
+(2) If the Secretary of Energy determines that the implementation of a Board recommendation (or part thereof) is impracticable because of budgetary considerations, or that the implementation would affect the Secretary's ability to meet the annual nuclear weapons stockpile requirements established pursuant to section 2121 of this title, the Secretary shall submit to the President and to such committees a report containing the recommendation and the Secretary's determination.
 
 #### (h) Imminent or severe threat
 

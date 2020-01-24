@@ -6,7 +6,7 @@ The Congress makes the following findings and declarations:
 
 (2) The illegal importation, manufacture, distribution, and possession and improper use of controlled substances have a substantial and detrimental effect on the health and general welfare of the American people.
 
-(3) A major portion of the traffic in controlled substances flows through interstate and foreign commerce. Incidents of the traffic which are not an integral part of the interstate or foreign flow, such as manufacture, local distribution, and possession, nonetheless have a substantial and direct effect upon interstate commerce because—
+(3) A major portion of the traffic in controlled substances flows through interstate and foreigncommerce. Incidents of the traffic which are not an integral part of the interstate or foreign flow, such as manufacture, local distribution, and possession, nonetheless have a substantial and direct effect upon interstate commerce because—
 
 &emsp;(A) after manufacture, many controlled substances are transported in interstate commerce,
 
@@ -74,7 +74,7 @@ Pub. L. 112–144, title XI, §1151, July 9, 2012, 126 Stat. 1130, provided that
 
 Pub. L. 111–273, §1, Oct. 12, 2010, 124 Stat. 2858, provided that: "This Act \[amending sections 822 and 828 of this title and enacting provisions set out as a note under section 822 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Secure and Responsible Drug Disposal Act of 2010'."
 
-Pub. L. 111–268, §1, Oct. 12, 2010, 124 Stat. 2847, provided that: "This Act \[amending sections 830 and 842 of this title and enacting provisions set out as notes under section 830 of this title\] may be cited as the 'Combat Methamphetamine Enhancement Act of 2010'."
+Pub. L. 111–268, §1, Oct. 12, 2010, 124 Stat. 2847, provided that: "This Act \[amending sections 830 and 842 of this title and enacting provisions set out as notesunder section 830 of this title\] may be cited as the 'Combat Methamphetamine Enhancement Act of 2010'."
 
 Pub. L. 111–220, §1, Aug. 3, 2010, 124 Stat. 2372, provided that: "This Act \[amending sections 841, 844, and 960 of this title and enacting provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Fair Sentencing Act of 2010'."
 
@@ -90,7 +90,7 @@ Pub. L. 109–177, title VII, §701, Mar. 9, 2006, 120 Stat. 256, provided that:
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–57, §1(a), Aug. 2, 2005, 119 Stat. 592, provided that: "This Act \[amending section 953 of thistitle\] may be cited as the 'Controlled Substances Export Reform Act of 2005'."
+Pub. L. 109–57, §1(a), Aug. 2, 2005, 119 Stat. 592, provided that: "This Act \[amending section 953 of this title\] may be cited as the 'Controlled Substances Export Reform Act of 2005'."
 
 #### Short Title of 2004 Amendment
 
@@ -186,7 +186,7 @@ For short title and complete classification of title III of Pub. L. 91–513, wh
 
 #### Severability
 
-Pub. L. 106–310, div. B, title XXXVI, §3673, Oct. 17, 2000, 114 Stat. 1246, provided that: "Any provision of this title \[see Short Title of 2000 Amendments note above\] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed as to give the maximum effect permitted by law, unless such provision is held to be utterly invalid or unenforceable, in which event such provision shall be severed from this title and shall not affect the applicability of the remainder of this title, or of such provision, to other persons not similarly situated or to other, dissimilar circumstances."
+Pub. L. 106–310, div. B, title XXXVI, §3673, Oct. 17, 2000, 114 Stat. 1246, provided that: "Any provision of this title \[see Short Title of 2000 Amendments note above\] held to be invalid or unenforceable by its terms,or as applied to any person or circumstance, shall be construed as to give the maximum effect permitted by law, unless such provision is held to be utterly invalid or unenforceable, in which event such provision shall be severed from this title and shall not affect the applicability of the remainder of this title, or of such provision, to other persons not similarly situated or to other, dissimilar circumstances."
 
 #### Continuation of Orders, Rules, and Regulations
 
@@ -374,7 +374,7 @@ Negotiations With Canada on Drug Enforcement Cooperation.—The Secretary of Sta
 
 #### GAO Study of Capabilities of United States To Control Drug Smuggling Into United States
 
-Pub. L. 100–180, div. A, title XII, §1241, Dec. 4, 1987, 101 Stat. 1162, directed Comptroller General of the United States to conduct a comprehensive study regardingsmuggling of illegal drugs into United States and current capabilities of United States to deter such smuggling, with special consideration given to issues involving use of military and National Guard units along with Customs Service in cooperative drug smuggling interdiction efforts, and to issue, not later than Apr. 30, 1988, and Mar. 31, 1989, reports to Congress outlining results of this study.
+Pub. L. 100–180, div. A, title XII, §1241, Dec. 4, 1987, 101 Stat. 1162, directed Comptroller General of the United States to conduct a comprehensive study regarding smuggling of illegal drugs into United States and current capabilities of United States to deter such smuggling, with special consideration given to issues involving use of military and National Guard units along with Customs Service in cooperative drug smuggling interdiction efforts, and to issue, not later than Apr. 30, 1988, and Mar. 31, 1989, reports to Congress outlining results of this study.
 
 #### Compliance With Budget Act
 
@@ -452,7 +452,7 @@ Amounts authorized.—There are authorized to be appropriated, in addition to an
 
 &emsp;"(3)
 
-Coast guard-bahamas drug interdiction docking facility.—(A) There is authorized to be appropriated for acquisition, construction, and improvements for the Coast Guard for fiscal year 1987,$5,000,000, to be used for initial design engineering, and other activities for construction of a drug interdiction docking facility in the Bahamas to facilitate Coast Guard and Bahamian drug interdiction operations in and through the Bahama Islands. Of the amounts authorized to be appropriated in this subsection, such sums as may be necessary shall be available for necessary communication and air support.
+Coast guard-bahamas drug interdiction docking facility.—(A) There is authorized to be appropriated for acquisition, construction, and improvements for the Coast Guard for fiscal year 1987, $5,000,000, to be used for initial design engineering, and other activities for construction of a drug interdiction docking facility in the Bahamas to facilitate Coast Guard and Bahamian drug interdiction operations in and through the Bahama Islands. Of the amounts authorized to be appropriated in this subsection, such sums as may be necessary shall be available for necessary communication and air support.
 
 &emsp;"(B) The Commandant of the Coast Guard shall use such amounts appropriated pursuant to the authorization in this paragraph as may be necessary to establish a repair, maintenance, and boat lift facility to provide repair and maintenance services for both Coast Guard and Bahamian marine drug interdiction equipment, vessels, and related assets.
 
@@ -516,7 +516,7 @@ Pub. L. 91–513, title II, §601, Oct. 27, 1970, 84 Stat. 1280, as amended by P
 
 &emsp;"(3) nine members appointed by the President of the United States.
 
-> At no time shall more than one of the members appointed under paragraph (1), or more than one of the members appointed under paragraph (2), or more than five of the members appointed under paragraph (3) be members of the same political party.
+> At no time shall more than one of the members appointed under paragraph (1), or more than one of the members appointed under paragraph (2), or more thanfive of the members appointed under paragraph (3) be members of the same political party.
 
 "(b)
 
@@ -530,7 +530,7 @@ Pub. L. 91–513, title II, §601, Oct. 27, 1970, 84 Stat. 1280, as amended by P
 
 \[Personnel; experts; information from departments and agencies\] (1) The Commission shall have the power to appoint and fix the compensation of such personnel as it deems advisable, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
 
-"(2) The Commission may procure, in accordance with the provisions of section 3109 of title 5, United States Code, the temporary or intermittent services of experts or consultants. Persons so employed shall receive compensation at a rate to be fixed by the Commission, but not in excess of $75 per diem, including traveltime. While away from his home or regular placeof business in the performance of services for the Commission, any such person may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703(b) of title 5, United States Code, for persons in the Government service employed intermittently.
+"(2) The Commission may procure, in accordance with the provisions of section 3109 of title 5, United States Code, the temporary or intermittent services of experts or consultants. Persons so employed shall receive compensation at a rate to be fixed by the Commission, but not in excess of $75 per diem, including traveltime. While away from his home or regular place of business in the performance of services for the Commission, any such person may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703(b) of title 5, United States Code, for persons in the Government service employed intermittently.
 
 "(3) The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out its duties under this section. Upon request of the Chairman of the Commission, such department or agency shall furnish such information to the Commission.
 
@@ -606,7 +606,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby directed as follows:
 
-Section 1. <i>Policy</i>. It shall be the policy of the United States to use all lawful means to combat the drug demand and opioid crisis currently afflicting our country. Individuals, families, and communities across the United States continue to be devastated by an unprecedented epidemic of drug abuse and overdose, including of prescription opioids, heroin, and illicit synthetic opioids. Last year, we lost at least 64,000 of our fellow Americans to drug overdose, primarily from opioids. This is an increase of approximately 12,000 people over the year before and more than ever recorded in United States history. Drug overdoses now kill more Americans than motor vehicle crashes or gun-related incidents, and more than 300,000 Americans have died of an opioid overdose since 2000. Further, more than 2.1 million of our fellow citizens are addicted to opioids, andin 2014 more than 1,500 people were treated each day in emergency departments for opioid-related emergencies.
+Section 1. <i>Policy</i>. It shall be the policy of the United States to use all lawful means to combat the drug demand and opioid crisis currently afflicting our country. Individuals, families, and communities across the United States continue to be devastated by an unprecedented epidemic of drug abuse and overdose, including of prescription opioids, heroin, and illicit synthetic opioids. Last year, we lost at least 64,000 of our fellow Americans to drug overdose, primarily from opioids. This is an increase of approximately 12,000 people over the year before and more than ever recorded in United States history. Drug overdoses now kill more Americans than motor vehicle crashes or gun-related incidents, and more than 300,000 Americans have died of an opioid overdose since 2000. Further, more than 2.1 million of our fellow citizens are addicted to opioids, and in 2014 more than 1,500 people were treated each day in emergency departments for opioid-related emergencies.
 
 This crisis has devastated our communities. It has been particularly harmful for children affected by their parents' drug abuse. The number of infants born drug-dependent increased by nearly 500 percent from 2000 to 2012. The number of children being placed into foster care due, at least in part, to parental drug abuse is increasing, and accounted for almost a third of all child removals in Fiscal Year 2015. Serious drug users are also more likely to be arrested for crimes such as burglary, robbery, and handling stolen goods. Moreover, the drug trafficking that supplies illegal drugs to our country is associated with other illegal activities, including murder and other violent crimes. All of this devastates lives and harms communities in both the United States and foreign countries involved in the illegal drug supply chain. Federal, State, and local governments; law enforcement; first responders; the medical, public health, and substance abuse treatment community; and faith-based and community organizations are working tirelessly and have even expanded their efforts to combat the drug demand and opioid crisis.
 

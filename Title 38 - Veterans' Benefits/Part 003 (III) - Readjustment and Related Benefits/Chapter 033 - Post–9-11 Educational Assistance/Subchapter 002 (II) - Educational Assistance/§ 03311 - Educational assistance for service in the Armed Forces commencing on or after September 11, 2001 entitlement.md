@@ -76,7 +76,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;(8) An individual who—
 
-&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 90 days,but less than 6 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
+&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 90 days, but less than 6 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
 
 &emsp;&emsp;(B) after completion of service described in subparagraph (A)—
 
@@ -166,7 +166,7 @@ Eligible surviving spouse.—A spouse described in this subparagraph is an indiv
 
 Definition of child.—For purposes of paragraph (9) of subsection (b), the term "child" includes a married individual or an individual who is above the age of twenty-three years.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32,title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795; Pub. L. 114–315, title IV, §401(b), (c), Dec. 16, 2016, 130 Stat. 1553; Pub. L. 115–48, title I, §§102(a), 105(a), (c)(1), Aug. 16, 2017, 131 Stat. 975; Pub. L. 115–232, div. A, title VIII, §809(n)(3), Aug. 13, 2018, 132 Stat. 1844.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795; Pub. L. 114–315, title IV, §401(b), (c), Dec. 16, 2016, 130 Stat. 1553; Pub. L. 115–48, title I, §§102(a), 105(a), (c)(1), Aug. 16, 2017, 131 Stat. 975; Pub. L. 115–232, div. A, title VIII, §809(n)(3), Aug. 13, 2018, 132 Stat. 1844.)
 
 #### Amendment of Section
 
@@ -222,7 +222,7 @@ Subsec. (f)(5). Pub. L. 114–315, §401(b)(2), (c), redesignated par. (4) as (5
 
 Subsec. (f)(2) to (4). Pub. L. 113–146, §701(b), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-<b>2011</b>—Subsec. (c)(4). Pub. L. 111–377, §101(b), substituted "A discharge or release from active duty in the Armed Forces after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service" for "A discharge or release from active duty in the Armed Forces" in introductory provisions.
+<b>2011</b>—Subsec. (c)(4). Pub. L. 111–377, §101(b), substituted "A discharge or release from active duty in theArmed Forces after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service" for "A discharge or release from active duty in the Armed Forces" in introductory provisions.
 
 Subsec. (d)(2). Pub. L. 111–377, §101(c), inserted "or section 182 of title 14" before period at end.
 

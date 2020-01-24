@@ -16,7 +16,7 @@ Special Rule for Non-Armor-Piercing Components.—A component of the armor-pierc
 
 Definition.—In this section, the term "armor-piercing ammunition" means a center-fire cartridge the military designation of which includes the term "armor penetrator" or "armor-piercing", including a center-fire cartridge designated as armor-piercing incendiary (API) or armor-piercing incendiary-tracer (API–T).
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §382(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, §4688; renumbered §7688, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §382(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–85,§4688; renumbered §7688, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 #### References in Text
 

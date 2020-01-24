@@ -42,7 +42,7 @@ Any United States district court within the jurisdiction of which any inquiry is
 
 #### (d) Disclosure of information
 
-No person shall be subject to civil liability to any person (other than the Commission or theUnited States) for disclosing information at the request of the Commission.
+No person shall be subject to civil liability to any person (other than the Commission or the United States) for disclosing information at the request of the Commission.
 
 #### (e) Performance and technical data
 

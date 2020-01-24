@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (B) Dual use property
 
-&emsp;&emsp;In the case of property used both in the production of tested income and income which is not tested income, such property shall be treated as specified tangible property in the same proportion that the gross income described in subsection (c)(1)(A) produced with respect to such property bears tothe total gross income produced with respect to such property.
+&emsp;&emsp;In the case of property used both in the production of tested income and income which is not tested income, such property shall be treated as specified tangible property in the same proportion that the gross income described in subsection (c)(1)(A) produced with respect to such property bears to the total gross income produced with respect to such property.
 
 #### (3) <sup>1</sup> Determination of adjusted basis
 
@@ -148,7 +148,7 @@ For purposes of this section—
 
 #### (2) Allocation of global intangible low-taxed income to controlled foreign corporations
 
-&emsp;For purposes of the sections referred to in paragraph (1), with respect to any controlled foreign corporation any pro rata amount from which is taken into account in determining the global intangible low-taxed income included in gross income of a United States shareholder under subsection (a), the portion of such global intangible low-taxed income which is treated as being with respect to such controlled foreign corporation is—
+&emsp;For purposes of the sections referred to in paragraph (1), with respect to any controlledforeign corporation any pro rata amount from which is taken into account in determining the global intangible low-taxed income included in gross income of a United States shareholder under subsection (a), the portion of such global intangible low-taxed income which is treated as being with respect to such controlled foreign corporation is—
 
 &emsp;&emsp;(A) in the case of a controlled foreign corporation with no tested income, zero, and
 

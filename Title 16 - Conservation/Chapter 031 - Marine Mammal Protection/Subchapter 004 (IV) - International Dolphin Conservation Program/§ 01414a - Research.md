@@ -34,7 +34,7 @@
 
 &emsp;Research carried out under paragraph (1) may include—
 
-&emsp;&emsp;(A) projects to devise cost-effective fishing methods and gear so as to reduce, with thegoal of eliminating, the incidental mortality and serious injury of marine mammals in connection with commercial purse seine fishing in the eastern tropical Pacific Ocean;
+&emsp;&emsp;(A) projects to devise cost-effective fishing methods and gear so as to reduce, with the goal of eliminating, the incidental mortality and serious injury of marine mammals in connection with commercial purse seine fishing in the eastern tropical Pacific Ocean;
 
 &emsp;&emsp;(B) projects to develop cost-effective methods of fishing for mature yellowfin tuna without setting nets on dolphins or other marine mammals;
 

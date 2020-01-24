@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) the Price-Anderson Act, in effect, provides operators of nuclear powerplants with insurance for damage arising out of a nuclear incident and funds the insurance primarily through the assessment of a retrospective premium from each operator after the occurrence of a nuclear incident;
 
-&emsp;&emsp;(C) the Convention on Supplementary Compensation for Nuclear Damage, done atVienna on September 12, 1997, will establish a global system—
+&emsp;&emsp;(C) the Convention on Supplementary Compensation for Nuclear Damage, done at Vienna on September 12, 1997, will establish a global system—
 
 &emsp;&emsp;&emsp;(i) to provide a predictable legal framework necessary for nuclear energy projects; and
 

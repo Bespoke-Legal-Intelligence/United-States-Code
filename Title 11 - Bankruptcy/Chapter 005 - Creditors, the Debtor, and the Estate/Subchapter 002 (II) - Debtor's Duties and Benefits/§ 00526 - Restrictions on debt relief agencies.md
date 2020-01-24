@@ -4,7 +4,7 @@
 
 &emsp;(1) fail to perform any service that such agency informed an assisted person or prospective assisted person it would provide in connection with a case or proceeding under this title;
 
-&emsp;(2) make any statement, or counsel or advise any assisted person or prospective assistedperson to make a statement in a document filed in a case or proceeding under this title, that is untrue or misleading, or that upon the exercise of reasonable care, should have been known by such agency to be untrue or misleading;
+&emsp;(2) make any statement, or counsel or advise any assisted person or prospective assisted person to make a statement in a document filed in a case or proceeding under this title, that is untrue or misleading, or that upon the exercise of reasonable care, should have been known by such agency to be untrue or misleading;
 
 &emsp;(3) misrepresent to any assisted person or prospective assisted person, directly or indirectly, affirmatively or by material omission, with respect to—
 

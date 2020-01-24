@@ -100,7 +100,7 @@ The Corporation may not approve positions as approved national service positions
 
 #### (3) Remainder
 
-&emsp;The Chief Executive Officer may use the funds reserved under paragraph (1), and not distributed to make grants under this subsection for other activities described in section 12681(a)(2) of this title.
+&emsp;The Chief Executive Officer may use the funds reserved under paragraph (1), and notdistributed to make grants under this subsection for other activities described in section 12681(a)(2) of this title.
 
 #### (l) Authority for fixed-amount grants
 
@@ -108,7 +108,7 @@ The Corporation may not approve positions as approved national service positions
 
 #### (A) Authority
 
-&emsp;&emsp;From amounts appropriated for a fiscal year to provide financial assistance under the national service laws, the Corporation may provide assistance in the form of fixed-amount grants in an amount determined bythe Corporation under paragraph (2) rather than on the basis of actual costs incurred by a program.
+&emsp;&emsp;From amounts appropriated for a fiscal year to provide financial assistance under the national service laws, the Corporation may provide assistance in the form of fixed-amount grants in an amount determined by the Corporation under paragraph (2) rather than on the basis of actual costs incurred by a program.
 
 #### (B) Limitation
 

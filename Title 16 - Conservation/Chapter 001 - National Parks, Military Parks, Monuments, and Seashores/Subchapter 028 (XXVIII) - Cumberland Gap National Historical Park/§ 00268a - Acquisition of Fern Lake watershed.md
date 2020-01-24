@@ -16,7 +16,7 @@ This section may be cited as the "Fern Lake Conservation and Recreation Act".
 
 &emsp;&emsp;(C) Fern Lake is the water supply source for the city of Middlesboro, Kentucky, and environs.
 
-&emsp;&emsp;(D) The 4,500-acre Fern Lake watershed is privately owned, and the 150-acre lake and part of the watershed are currently for sale, but the Secretary of the Interior is precluded by the first section of the Act of June 11, 1940 (16 U.S.C. 261), from using appropriated funds to acquire the lands.
+&emsp;&emsp;(D) The 4,500-acre Fern Lake watershed is privately owned, and the 150-acre lake and part of the watershed are currently for sale,but the Secretary of the Interior is precluded by the first section of the Act of June 11, 1940 (16 U.S.C. 261), from using appropriated funds to acquire the lands.
 
 #### (2) Purposes
 
@@ -50,7 +50,7 @@ This section may be cited as the "Fern Lake Conservation and Recreation Act".
 
 #### (2) Acquisition authorized
 
-&emsp;The Secretary may acquire for addition to the park lands consisting of approximately 4,500 acres and containing Fern Lake and itssurrounding watershed, as generally depicted on the map entitled "Cumberland Gap National Historical Park, Fern Lake Watershed", numbered 380/80,004, and dated May 2001. The map shall be on file in the appropriate offices of the National Park Service.
+&emsp;The Secretary may acquire for addition to the park lands consisting of approximately 4,500 acres and containing Fern Lake and its surrounding watershed, as generally depicted on the map entitled "Cumberland Gap National Historical Park, Fern Lake Watershed", numbered 380/80,004, and dated May 2001. The map shall be on file in the appropriate offices of the National Park Service.
 
 #### (3) Boundary adjustment and administration
 

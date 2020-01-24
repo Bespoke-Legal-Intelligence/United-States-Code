@@ -10,7 +10,7 @@
 
 (e) The panel shall submit its report to the chief judge for transmission to the appropriate House of Congress.
 
-(f) Any act or failure to act or other conduct by a party, a witness, or an attorney which would call for the imposition of sanctions under the rules of practice of the Court of FederalClaims shall be noted by the panel or the hearing officer at the time of occurrence thereof and upon failure of the delinquent or offending party, witness, or attorney to make prompt compliance with the order of the panel or the hearing officer a full statement of the circumstances shall be incorporated in the report of the panel.
+(f) Any act or failure to act or other conduct by a party, a witness, or an attorney which would call for the imposition of sanctions under the rules of practice of the Court of Federal Claims shall be noted by the panel or the hearing officer at the time of occurrence thereof and upon failure of the delinquent or offending party, witness, or attorney to make prompt compliance with the order of the panel or the hearing officer a full statement of the circumstances shall be incorporated in the report of the panel.
 
 (g) The Court of Federal Claims is hereby authorized and directed, under such regulations as it may prescribe, to provide the facilities and services of the office of the clerk of the court for the filing, processing, hearing, and dispatch of congressional reference cases and to include within its annual appropriations the costs thereof and other costs of administration, including (but without limitation to the items herein listed) the salaries and traveling expenses of the judges serving as hearing officers and panel members, mailing and service of process, necessary physical facilities, equipment, and supplies, and personnel (including secretaries and law clerks).
 
@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 97–164, §139(h)(2)(A), (D), substituted "hearing officer
 
 Subsec. (e). Pub. L. 97–164, §139(h)(2)(B), substituted "chief judge" for "chief commissioner".
 
-Subsec. (f). Pub. L. 97–164, §139(h)(2)(A), (C), substituted "Claims Court" for "Court of Claims", and "hearing officer" for "trial commissioner" wherever appearing.
+Subsec. (f). Pub. L. 97–164, §139(h)(2)(A), (C), substituted "Claims Court" for "Court of Claims", and"hearing officer" for "trial commissioner" wherever appearing.
 
 Subsec. (g). Pub. L. 97–164, §139(h)(2)(C), (E), substituted "Claims Court" for "Court of Claims" and "judges serving as hearing officers" for "commissioners serving as trial commissioners".
 

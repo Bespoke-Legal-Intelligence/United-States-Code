@@ -26,7 +26,7 @@ Pub. L. 110–289, §1204(8), substituted "the Director" for "the Board" whereve
 
 #### Admission of Alaska and Hawaii to Statehood
 
-Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73Stat.
+Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat.
 
 c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat.
 

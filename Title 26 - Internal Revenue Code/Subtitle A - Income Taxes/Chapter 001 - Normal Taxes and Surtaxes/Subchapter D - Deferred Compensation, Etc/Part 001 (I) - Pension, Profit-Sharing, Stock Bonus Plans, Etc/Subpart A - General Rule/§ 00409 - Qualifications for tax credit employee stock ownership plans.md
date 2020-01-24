@@ -90,7 +90,7 @@ A plan meets the requirements of this subsection only if it provides that no emp
 
 #### (g) Transferred amounts must stay in plan even though investment credit is redetermined or recaptured
 
-A plan meets the requirement of this subsection only if it provides that amounts which are transferred to the plan (because of the requirements of section 48(n)(1) or 41(c)(1)(B)) <sup>1</sup> shall remain in the plan (and, if allocated under the plan, shall remain so allocated) even though part or all of the employee plan credit or the credit allowed under section 41 <sup>1</sup> (relating to employee stock ownership credit) is recaptured or redetermined. For purposes of the preceding sentence, the references to section 48(n)(1) <sup>1</sup> and the employee plan credit shall refer to such section and credit as in effect before the enactment of the Tax Reform Act of 1984.
+A plan meets the requirement of this subsection only if it provides that amounts which are transferred to the plan (because of the requirements of section 48(n)(1) or 41(c)(1)(B)) <sup>1</sup> shall remain in the plan (and, if allocated under the plan, shall remain so allocated) even thoughpart or all of the employee plan credit or the credit allowed under section 41 <sup>1</sup> (relating to employee stock ownership credit) is recaptured or redetermined. For purposes of the preceding sentence, the references to section 48(n)(1) <sup>1</sup> and the employee plan credit shall refer to such section and credit as in effect before the enactment of the Tax Reform Act of 1984.
 
 #### (h) Right to demand employer securities; put option
 
@@ -124,7 +124,7 @@ A plan meets the requirement of this subsection only if it provides that amounts
 
 #### (3) Special rule for banks
 
-&emsp;In the case of a plan established and maintained by a bank (as defined in section 581) which is prohibited by law from redeeming orpurchasing its own securities, the requirements of paragraph (1)(B) shall not apply if the plan provides that participants entitled to a distribution from the plan shall have a right to receive a distribution in cash.
+&emsp;In the case of a plan established and maintained by a bank (as defined in section 581) which is prohibited by law from redeeming or purchasing its own securities, the requirements of paragraph (1)(B) shall not apply if the plan provides that participants entitled to a distribution from the plan shall have a right to receive a distribution in cash.
 
 #### (4) Put option period
 
@@ -308,7 +308,7 @@ A plan meets the requirements of this subsection if—
 
 &emsp;&emsp;&emsp;(i) in which the participant separates from service by reason of the attainment of normal retirement age under the plan, disability, or death, or
 
-&emsp;&emsp;&emsp;(ii) which is the 5th plan year following the plan year in which the participant otherwise separates from service, except that this clause shall not apply if the participant is reemployed by the employer before distribution is required to begin under this clause.
+&emsp;&emsp;&emsp;(ii) which is the 5th plan year following the plan year in which the participantotherwise separates from service, except that this clause shall not apply if the participant is reemployed by the employer before distribution is required to begin under this clause.
 
 #### (B) Exception for certain financed securities
 
@@ -400,7 +400,7 @@ A plan meets the requirements of this subsection if—
 
 #### (ii) Person's share of unallocated stock
 
-&emsp;&emsp;&emsp;For purposes of clause (i)(II), a person's share of unallocated S corporation stock held by such plan is the amount of the unallocated stock which would be allocated to such person if the unallocated stock were allocated to all participants in the same proportions as the most recent stock allocation under the plan.
+&emsp;&emsp;&emsp;For purposes of clause (i)(II), a person's share of unallocated S corporation stock held by such plan is the amount of the unallocated stock which would be allocated to such person if the unallocated stockwere allocated to all participants in the same proportions as the most recent stock allocation under the plan.
 
 #### (D) Member of family
 
@@ -472,7 +472,7 @@ Subsec. (n) of section 48, referred to in subsecs. (g) and (m), was repealed by 
 
 #### Prior Provisions
 
-A prior section 409, added Pub. L. 93–406, title II, §2002(c), Sept. 2, 1974, 88 Stat. 964; amended Pub. L. 94–455, title XV, §1501(b)(6), title XIX, §§1901(a)(60), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1774, 1834; Pub. L. 95–600, title I, §§156(c)(2), (3), 157(e)(1)(B), Nov. 6, 1978, 92 Stat. 2803, 2806; Pub. L. 96–222, title I, §101(a)(14)(B), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, §311(g)(1)(D), (3), Aug. 13, 1981, 95 Stat. 281; Pub. L. 97–248, title II, §243(b)(1)(B), title III, §335(a)(2), Sept. 3, 1982, 96 Stat. 523, 628; Pub. L. 97–452, §2(c)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–369, div. A, title I, §42(a)(7), title V, §522(d)(13), July 18, 1984, 98 Stat. 557, 871, related to retirement bonds, prior to repeal by Pub. L. 98–369, div. A, title IV, §491(b), (f)(1), July 18, 1984, 98 Stat. 848, 853, applicable to obligations issued after Dec. 31, 1983.
+A prior section 409, added Pub. L. 93–406, title II, §2002(c), Sept. 2, 1974, 88 Stat. 964; amended Pub. L.94–455, title XV, §1501(b)(6), title XIX, §§1901(a)(60), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1774, 1834; Pub. L. 95–600, title I, §§156(c)(2), (3), 157(e)(1)(B), Nov. 6, 1978, 92 Stat. 2803, 2806; Pub. L. 96–222, title I, §101(a)(14)(B), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, §311(g)(1)(D), (3), Aug. 13, 1981, 95 Stat. 281; Pub. L. 97–248, title II, §243(b)(1)(B), title III, §335(a)(2), Sept. 3, 1982, 96 Stat. 523, 628; Pub. L. 97–452, §2(c)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–369, div. A, title I, §42(a)(7), title V, §522(d)(13), July 18, 1984, 98 Stat. 557, 871, related to retirement bonds, prior to repeal by Pub. L. 98–369, div. A, title IV, §491(b), (f)(1), July 18, 1984, 98 Stat. 848, 853, applicable to obligations issued after Dec. 31, 1983.
 
 #### Amendments
 
@@ -650,7 +650,7 @@ Pub. L. 105–34, title I, §1506(c), Aug. 5, 1997, 111 Stat. 1066, provided tha
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7304(a)(3), Dec. 19, 1989, 103 Stat. 2353, provided that: "The amendments made by this subsection \[amending this section and sections 4978 and 4979A of this title and repealing sections 2057 and 4978A of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Dec. 19, 1989\]."
+Pub. L. 101–239, title VII, §7304(a)(3), Dec. 19, 1989, 103 Stat. 2353, provided that: "The amendments made by this subsection \[amending this section and sections 4978 and 4979A of this title and repealing sections 2057 and4978A of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Dec. 19, 1989\]."
 
 Amendment by section 7811(h)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
@@ -722,7 +722,7 @@ Election to have amendments apply during 1978.—At the election of the taxpayer
 
 "(3)
 
-Voting right provisions.—Section 409A(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) \[now section 409\] shall apply to plans to which section 409A of such Code applies, beginning with the first day of such application.
+Voting right provisions.—Section 409A(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (asadded by subsection (a)) \[now section 409\] shall apply to plans to which section 409A of such Code applies, beginning with the first day of such application.
 
 "(4)
 

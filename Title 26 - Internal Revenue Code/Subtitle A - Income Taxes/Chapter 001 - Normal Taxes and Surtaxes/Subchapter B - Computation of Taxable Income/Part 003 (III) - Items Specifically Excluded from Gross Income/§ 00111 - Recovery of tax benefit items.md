@@ -18,7 +18,7 @@ Gross income does not include income attributable to the recovery during the tax
 
 #### (2) Exception where credit did not reduce tax
 
-&emsp;Paragraph (1) shall not apply to the extent that the credit allowable for the recovered amount did not reduce the amount of tax imposed by this chapter.
+&emsp;Paragraph (1) shall not apply to the extent that the credit allowable for the recoveredamount did not reduce the amount of tax imposed by this chapter.
 
 #### (3) Exception for investment tax credit and foreign tax credit
 

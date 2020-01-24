@@ -26,7 +26,7 @@ Except as provided in subsection (f) of this section, beginning ninety days afte
 
 &emsp;(D) such other information deemed pertinent by the Secretary.
 
-(4) The Secretary may, by regulation, require that such plan be accompanied by a generalstatement of development and production intentions which shall be for planning purposes only and which shall not be binding on any party.
+(4) The Secretary may, by regulation, require that such plan be accompanied by a general statement of development and production intentions which shall be for planning purposes only and which shall not be binding on any party.
 
 #### (d) Drilling permit
 

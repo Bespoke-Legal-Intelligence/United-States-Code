@@ -28,7 +28,7 @@
 
 #### (5) Requirements
 
-&emsp;If a State permits the cost sharing described in paragraph (1), such State shall require each area agency on aging in the State to ensure that each service provider involved, and the area agency on aging, will—
+&emsp;If a State permits the cost sharing described in paragraph (1), such State shall require eacharea agency on aging in the State to ensure that each service provider involved, and the area agency on aging, will—
 
 &emsp;&emsp;(A) protect the privacy and confidentiality of each older individual with respect to the declaration or nondeclaration of individual income and to any share of costs paid or unpaid by an individual;
 
@@ -98,7 +98,7 @@ Not later than 1 year after November 13, 2000, and annually thereafter, the Assi
 
 #### Codification
 
-Pub. L. 106–501, §310, which directed the addition of this section at the end of Part A of title III (42 U.S.C. 3021 et seq.), was executed by adding this section at the end of Part A of title III of the Older Americans Act of 1965 to reflect the probable intent of Congress.
+Pub. L. 106–501, §310, which directed the addition of this section at the end of Part A of title III (42 U.S.C.3021 et seq.), was executed by adding this section at the end of Part A of title III of the Older Americans Act of 1965 to reflect the probable intent of Congress.
 
 #### Amendments
 

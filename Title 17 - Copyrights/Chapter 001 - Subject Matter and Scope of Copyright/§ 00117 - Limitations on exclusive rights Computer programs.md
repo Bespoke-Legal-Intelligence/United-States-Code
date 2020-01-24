@@ -18,7 +18,7 @@ Machine Maintenance or Repair.—Notwithstanding the provisions of section 106, 
 
 &emsp;(1) such new copy is used in no other manner and is destroyed immediately after the maintenance or repair is completed; and
 
-&emsp;(2) with respect to any computer program or part thereof that is not necessary for that machine to be activated, such program or part thereof is not accessed or used other than to make such new copy by virtue of the activation of the machine.
+&emsp;(2) with respect to any computer program or part thereof that is not necessary for that machine to be activated, such program or partthereof is not accessed or used other than to make such new copy by virtue of the activation of the machine.
 
 (d)
 

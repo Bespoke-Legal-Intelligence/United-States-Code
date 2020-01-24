@@ -170,3 +170,4 @@
 - [&sect; 00539p - Southeast Arizona land exchange and conservation](%C2%A7%2000539p%20-%20Southeast%20Arizona%20land%20exchange%20and%20conservation.md)
 - [&sect; 00539q - Hermosa Creek watershed protection](%C2%A7%2000539q%20-%20Hermosa%20Creek%20watershed%20protection.md)
 - [&sect; 00539r - Rocky Mountain Front Conservation Management Area and wilderness additions](%C2%A7%2000539r%20-%20Rocky%20Mountain%20Front%20Conservation%20Management%20Area%20and%20wilderness%20additions.md)
+- [&sect; 00539s - Frank and Jeanne Moore Wild Steelhead Special Management Area](%C2%A7%2000539s%20-%20Frank%20and%20Jeanne%20Moore%20Wild%20Steelhead%20Special%20Management%20Area.md)

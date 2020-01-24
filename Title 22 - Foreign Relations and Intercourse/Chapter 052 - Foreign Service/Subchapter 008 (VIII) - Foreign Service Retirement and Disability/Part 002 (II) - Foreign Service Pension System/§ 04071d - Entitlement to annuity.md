@@ -10,7 +10,7 @@
 
 &emsp;(B) the term "System", as used in those sections, means the Foreign Service Pension System.
 
-(3) For purposes of any annuity computation under this subsection, the average pay (as usedin section 8414 <sup>1</sup> of title 5) of any member of the Service whose official duty station is outside the continental United States shall be considered to be the salary that would have been paid to the member had the member's official duty station been Washington, D.C., including locality-based comparability payments under section 5304 of title 5 that would have been payable to the member if the member's official duty station had been Washington, D.C.
+(3) For purposes of any annuity computation under this subsection, the average pay (as used in section 8414 <sup>1</sup> of title 5) of any member of the Service whose official duty station is outside the continental United States shall be considered to be the salary that would have been paid to the member had the member's official duty station been Washington, D.C., including locality-based comparability payments under section 5304 of title 5 that would have been payable to the member if the member's official duty station had been Washington, D.C.
 
 #### (b) Voluntary or mandatory retirement with authorization for immediate annuity; computation of annuity
 
@@ -46,7 +46,7 @@ A participant who is entitled to an immediate annuity under subsection (b) shall
 
 Any participant who is separated for cause under section 4010 of this title shall not be entitled to an annuity under this System when the Secretary determines that the separation was based in whole or in part on disloyalty to the United States.
 
-(Pub. L. 96–465, title I, §855, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 617; amended Pub. L. 99–556, title IV, §406, Oct. 27, 1986, 100 Stat. 3138; Pub. L. 103–178, title II, §204(b)(3), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2312(b), Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 105–382, §2(d)(3)(B), Nov. 13, 1998, 112 Stat. 3408; Pub. L. 107–228, div. A, title III, §322(b)(1), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, §5001(c)(2)(F), Feb. 22, 2012, 126 Stat. 200.)
+(Pub. L. 96–465, title I, §855, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 617; amended Pub. L. 99–556, title IV, §406, Oct. 27, 1986, 100 Stat. 3138; Pub. L. 103–178, title II, §204(b)(3), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2312(b), Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 105–382,§2(d)(3)(B), Nov. 13, 1998, 112 Stat. 3408; Pub. L. 107–228, div. A, title III, §322(b)(1), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, §5001(c)(2)(F), Feb. 22, 2012, 126 Stat. 200.)
 
 #### References in Text
 

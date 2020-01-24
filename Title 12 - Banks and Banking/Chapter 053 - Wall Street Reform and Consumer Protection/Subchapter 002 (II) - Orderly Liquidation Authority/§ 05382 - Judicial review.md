@@ -62,7 +62,7 @@
 
 #### (iv) Scope of review
 
-&emsp;&emsp;&emsp;For an appeal taken under this subparagraph, review shall be limited to whether the determination of the Secretary that a covered financial company is in default or in danger of default and satisfies the definition of a financial company under section 5381(a)(11) of this title is arbitrary and capricious.
+&emsp;&emsp;&emsp;For an appeal taken under this subparagraph, review shall be limited to whether the determination of the Secretary that a covered financial company is in default orin danger of default and satisfies the definition of a financial company under section 5381(a)(11) of this title is arbitrary and capricious.
 
 #### (B) Appeal to the Supreme Court
 
@@ -166,7 +166,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Administrative Office of the United States Courts and the Comptroller General of the United States shall each monitor theactivities of the Court, and each such Office shall conduct separate studies regarding the bankruptcy and orderly liquidation process for financial companies under the Bankruptcy Code.
+&emsp;&emsp;The Administrative Office of the United States Courts and the Comptroller General of the United States shall each monitor the activities of the Court, and each such Office shall conduct separate studies regarding the bankruptcy and orderly liquidation process for financial companies under the Bankruptcy Code.
 
 #### (B) Issues to be studied
 
@@ -222,7 +222,7 @@
 
 #### (3) Report to Council
 
-&emsp;Not later than 1 year after July 21, 2010, the Comptroller General shall submit a report to the Council on the results of the study conducted under this subsection.
+&emsp;Not later than 1 year after July 21, 2010, the Comptroller General shall submit a report tothe Council on the results of the study conducted under this subsection.
 
 #### (4) Council report of action
 

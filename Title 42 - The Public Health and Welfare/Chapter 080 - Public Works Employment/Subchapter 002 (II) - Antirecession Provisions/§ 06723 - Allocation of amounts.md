@@ -62,7 +62,7 @@
 
 #### References in Text
 
-Chapter 67 of title 31, including sections 6701 and 6705 to 6712, referred to in subsecs. (b)(3)(D) and (c)(3)(C),was repealed by Pub. L. 99–272, title XIV, §14001(a)(1), Apr. 7, 1986, 100 Stat. 327. See, also, Codification note below.
+Chapter 67 of title 31, including sections 6701 and 6705 to 6712, referred to in subsecs. (b)(3)(D) and (c)(3)(C), was repealed by Pub. L. 99–272, title XIV, §14001(a)(1), Apr. 7, 1986, 100 Stat. 327. See, also, Codification note below.
 
 #### Codification
 

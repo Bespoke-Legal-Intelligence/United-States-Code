@@ -40,7 +40,7 @@ Act Aug. 9, 1955, ch. 645, §§1, 3, 69 Stat. 562, designated sections 1621 to 1
 
 #### Abolition of International Claims Commission and Transfer of Functions
 
-International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985,68 Stat. 1279, set out as a note under section 1622 of this title.
+International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 
 #### Appropriations
 
@@ -112,7 +112,7 @@ Deductions From Fund for Administrative Expenses.—The Secretary of the Treasur
 
 "(a)
 
-Payments for Death, Personal Injury, Forced Labor, Forced March, and Internment.—After the Secretary of the Treasury receives the certification from the Chairman of the Foreign Claims Settlement Commission as required under section 1705(b)(8), the Secretary of the Treasury shall make payments, subject to the availably of appropriations, to compensable Guam victims and survivors of a compensable Guam decedents as follows:
+Payments for Death, Personal Injury, Forced Labor, Forced March, and Internment.—After theSecretary of the Treasury receives the certification from the Chairman of the Foreign Claims Settlement Commission as required under section 1705(b)(8), the Secretary of the Treasury shall make payments, subject to the availably of appropriations, to compensable Guam victims and survivors of a compensable Guam decedents as follows:
 
 &emsp;"(1)
 
@@ -152,7 +152,7 @@ Definitions.—For purposes of this title:
 
 &emsp;"(1)
 
-Compensable guam decedent.—The term 'compensable Guam decedent' means an individual determined under section 1705 to have been a resident of Guam who died as a result of the attack and occupation of Guam by Imperial Japanese military forces during World War II, or incident to the liberation of Guam by United States military forces, and whose death would have been compensable under the Guam Meritorious Claims Act of 1945 (Public Law 79–224) \[59Stat. 582\] if a timely claim had been filed under the terms of such Act.
+Compensable guam decedent.—The term 'compensable Guam decedent' means an individual determined under section 1705 to have been a resident of Guam who died as a result of the attack and occupation of Guam by Imperial Japanese military forces during World War II, or incident to the liberation of Guam by United States military forces, and whose death would have been compensable under the Guam Meritorious Claims Act of 1945 (Public Law 79–224) \[59 Stat. 582\] if a timely claim had been filed under the terms of such Act.
 
 &emsp;"(2)
 
@@ -232,7 +232,7 @@ Limited compensation for provision of representational services.—
 
 &emsp;&emsp;"(A)
 
-Limit on compensation.—Any agreement under which an individual who provided representational services to an individual who filed a claim for a payment under this title that provides for compensation to the individual who provided such services in an amount that is more than one percent of the total amount of such payment shall be unlawful and void.
+Limit on compensation.—Any agreement under which an individual who provided representational services to an individual who filed a claim for a payment under this title that provides for compensation to the individual who provided suchservices in an amount that is more than one percent of the total amount of such payment shall be unlawful and void.
 
 &emsp;&emsp;"(B)
 
@@ -272,7 +272,7 @@ Eligibility.—The Secretary of the Interior may not award a grant under subsect
 
 "(a)
 
-Guam World War II Claims Payments and Adjudication.—For the purposes of carrying out sections 1704 and 1705, there is authorized to be appropriated for any fiscal year beginning after the date of enactment ofthis Act \[Dec. 23, 2016\], an amount equal to the amount deposited into the Claims Fund in a fiscal year under section 1703. Not more than 5 percent of funds make available under this subsection shall be used for administrative costs. Amounts appropriated under this section may remain available until expended.
+Guam World War II Claims Payments and Adjudication.—For the purposes of carrying out sections 1704 and 1705, there is authorized to be appropriated for any fiscal year beginning after the date of enactment of this Act \[Dec. 23, 2016\], an amount equal to the amount deposited into the Claims Fund in a fiscal year under section 1703. Not more than 5 percent of funds make available under this subsection shall be used for administrative costs. Amounts appropriated under this section may remain available until expended.
 
 "(b)
 
@@ -414,7 +414,7 @@ Pub. L. 105–186, June 23, 1998, 112 Stat. 611, as amended by Pub. L. 106–155
 
 "(a)
 
-Establishment.—There is established a Presidential Commission, to be known as the 'Presidential Advisory Commission on Holocaust Assets in the United States' (hereafter in this Act referred to as the 'Commission').
+Establishment.—There is established a Presidential Commission, to be known as the 'Presidential Advisory Commission on Holocaust Assets in theUnited States' (hereafter in this Act referred to as the 'Commission').
 
 "(b)
 
@@ -608,7 +608,7 @@ Compensation.—No member of the Commission who is a private citizen shall be co
 
 "(b)
 
-Travel Expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 oftitle 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+Travel Expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
 "(c)
 
@@ -686,7 +686,7 @@ In general.—The Commission may offer employment on a conditional basis to a pr
 
 &emsp;"(2)
 
-Termination.—If a person hired on a conditional basis as described in paragraph (1) is denied or otherwise does not qualify for all security clearances necessary for the fulfillment of the responsibilities of that person as an employee of the Commission, the Commission shall immediately terminate the employment of that person with the Commission.
+Termination.—If a person hired on a conditional basis as described in paragraph (1) is denied or otherwise does not qualify for all security clearancesnecessary for the fulfillment of the responsibilities of that person as an employee of the Commission, the Commission shall immediately terminate the employment of that person with the Commission.
 
 "(h)
 

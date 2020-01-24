@@ -34,7 +34,7 @@ The Secretary shall make available for inspection, to any person so requesting, 
 
 #### (g) Biennial inspection of registered establishments
 
-Every establishment registered with the Secretary under this section shall be subject to inspection under section 374 of this title or subsection (h), and every such establishment engaged in the manufacture, compounding, or processing of a tobacco product or tobacco products shall be so inspected by 1 or more officers or employees duly designated by the Secretary at least once in the 2-year period beginning with the date of registration of such establishment under this section and at least once in every successive 2-year period thereafter.
+Every establishment registered with the Secretary under this section shall be subject to inspection under section 374 of this title or subsection (h), and every such establishment engaged in the manufacture, compounding, or processing of a tobacco product or tobacco products shall be so inspected by 1 or more officers or employees duly designated by the Secretary at least once in the 2-year period beginning with the date of registration of such establishmentunder this section and at least once in every successive 2-year period thereafter.
 
 #### (h) Registration by foreign establishments
 
@@ -76,7 +76,7 @@ Any establishment within any foreign country engaged in the manufacture, prepara
 
 &emsp;&emsp;(A) the basis for such person's determination that—
 
-&emsp;&emsp;&emsp;(i) the tobacco product is substantially equivalent, within the meaning of section 387j of this title, to a tobacco product commercially marketed (other than for test marketing) in the United States as of February 15, 2007, or to a tobacco product that the Secretary has previously determined, pursuant to subsection (a)(3) of section 387j of this title, is substantially equivalentand that is in compliance with the requirements of this chapter; or
+&emsp;&emsp;&emsp;(i) the tobacco product is substantially equivalent, within the meaning of section 387j of this title, to a tobacco product commercially marketed (other than for test marketing) in the United States as of February 15, 2007, or to a tobacco product that the Secretary has previously determined, pursuant to subsection (a)(3) of section 387j of this title, is substantially equivalent and that is in compliance with the requirements of this chapter; or
 
 &emsp;&emsp;&emsp;(ii) the tobacco product is modified within the meaning of paragraph (3), the modifications are to a product that is commercially marketed and in compliance with the requirements of this chapter, and all of the modifications are covered by exemptions granted by the Secretary pursuant to paragraph (3); and
 

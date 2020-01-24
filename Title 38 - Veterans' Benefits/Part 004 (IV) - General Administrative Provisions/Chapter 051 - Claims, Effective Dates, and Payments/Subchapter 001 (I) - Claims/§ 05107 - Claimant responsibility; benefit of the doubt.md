@@ -18,7 +18,7 @@ Benefit of the Doubt.—The Secretary shall consider all information and lay and
 
 "(b) When, after consideration of all evidence and material of record in a case before the Department with respect to benefits under laws administered by the Secretary, there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant. Nothing in this subsection shall be construed as shifting from the claimant to the Secretary the burden specified in subsection (a) of this section."
 
-Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], directed the general amendment of the section catchline and text. Pub. L. 106–419, §104(c)(2), provided that, as of the enactment of Pub. L. 106–419, the amendment made by Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], was deemed for all purposes not to have taken effect and that Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], ceased to be in effect.
+Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], directed the general amendment of the section catchline and text. Pub. L. 106–419, §104(c)(2), provided that, as of the enactment of Pub. L. 106–419, the amendment made by Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], wasdeemed for all purposes not to have taken effect and that Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], ceased to be in effect.
 
 <b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3007 of this title as this section.
 
@@ -56,7 +56,7 @@ Rule for Claims the Denial of Which Became Final After the Court of Appeals for 
 
 &emsp;"(B) was issued by the Secretary of Veterans Affairs or a court because the claim was not well grounded (as that term was used in section 5107(a) of title 38, United States Code, as in effect during that period).
 
-"(3) A claim may not be readjudicated under this subsection unless a request for readjudication is filed bythe claimant, or a motion is made by the Secretary, not later than 2 years after the date of the enactment of this Act.
+"(3) A claim may not be readjudicated under this subsection unless a request for readjudication is filed by the claimant, or a motion is made by the Secretary, not later than 2 years after the date of the enactment of this Act.
 
 "(4) In the absence of a timely request of a claimant under paragraph (3), nothing in this Act \[see Short Title of 2000 Amendments note set out under section 101 of this title\] shall be construed as establishing a duty on the part of the Secretary of Veterans Affairs to locate and readjudicate a claim described in this subsection."
 

@@ -26,7 +26,7 @@ Underwriting Standards.—
 
 &emsp;(1)
 
-Disqualifying condition.—Nothing in this chapter shall be considered to requirethat long-term care insurance coverage be made available in the case of any individual who would be eligible for benefits immediately.
+Disqualifying condition.—Nothing in this chapter shall be considered to require that long-term care insurance coverage be made available in the case of any individual who would be eligible for benefits immediately.
 
 &emsp;(2)
 

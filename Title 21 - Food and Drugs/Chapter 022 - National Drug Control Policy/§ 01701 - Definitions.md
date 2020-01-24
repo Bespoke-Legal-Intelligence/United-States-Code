@@ -22,7 +22,7 @@ In this chapter:
 
 #### (3) Demand reduction
 
-&emsp;The term "demand reduction" means any activity conducted by a National Drug Control Program Agency, other than an enforcement activity, that is intended to reduce or prevent the use of drugs or support, expand, or provide treatment and recovery efforts, including—
+&emsp;The term "demand reduction" means any activity conducted by a National Drug Control Program agency, other than an enforcement activity, that is intended to reduce or prevent the use of drugs or support, expand, or provide treatment and recovery efforts, including—
 
 &emsp;&emsp;(A) education about the dangers of illicit drug use;
 
@@ -76,11 +76,11 @@ In this chapter:
 
 #### (10) National Drug Control Program
 
-&emsp;The term "National Drug Control Program" means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilities of such agencies under the National Drug Control Strategy, including any activities involving supply reduction, demand reduction, or State, local, and tribal affairs.
+&emsp;The term "National Drug Control Program" means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilities of such agencies under the National Drug Control Strategy, including any activities involving supply reduction, demand reduction, or State, local, and tribal <sup>1</sup> affairs.
 
-#### (11) National Drug Control Program Agency
+#### (11) National Drug Control Program agency
 
-&emsp;The term "National Drug Control Program Agency" <sup>1</sup> means any agency (or bureau, office, independent agency, board, division, commission, subdivision, unit, or other component thereof) that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program or the Joint Military Intelligence Program.
+&emsp;The term "National Drug Control Program agency" means any agency (or bureau, office, independent agency, board, division, commission, subdivision, unit, or other component thereof) that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drugcontrol activity solely under the National Intelligence Program or the Joint Military Intelligence Program.
 
 #### (12) National Drug Control Strategy
 
@@ -94,17 +94,17 @@ In this chapter:
 
 &emsp;The term "Office" means the Office of National Drug Control Policy established under section 1702(a) of this title.
 
-#### (15) State, local, and tribal affairs
+#### (15) State, local, and Tribal affairs
 
-&emsp;The term "State, local, and tribal affairs" means domestic activities conducted by a National Drug Control Program agency that are intended to reduce the availability and use of illegal drugs, including—
+&emsp;The term "State, local, and Tribal affairs" means domestic activities conducted by a National Drug Control Program agency that are intended to reduce the availability and use of illegal drugs, including—
 
-&emsp;&emsp;(A) coordination and enhancement of Federal, State, local, and tribal law enforcement drug control efforts;
+&emsp;&emsp;(A) coordination and enhancement of Federal, State, local, and Tribal law enforcement drug control efforts;
 
-&emsp;&emsp;(B) coordination and enhancement of efforts among National Drug Control Program agencies and State, local, and tribal demand reduction and supply reduction agencies;
+&emsp;&emsp;(B) coordination and enhancement of efforts among National Drug Control Program agencies and State, local, and Tribal demand reduction and supply reduction agencies;
 
-&emsp;&emsp;(C) coordination and enhancement of Federal, State, local, and tribal law enforcement initiatives to gather, analyze, and disseminate information and law enforcement intelligence relating to drug control among domestic law enforcement agencies; and
+&emsp;&emsp;(C) coordination and enhancement of Federal, State, local, and Tribal law enforcement initiatives to gather, analyze, and disseminate information and law enforcement intelligence relating to drug control among domestic law enforcement agencies; and
 
-&emsp;&emsp;(D) other coordinated and joint initiatives among Federal, State, local, and tribal agencies to promote comprehensive drug control strategies designed to reduce the demand for, and the availability of, illegal drugs.
+&emsp;&emsp;(D) other coordinated and joint initiatives among Federal, State, local, and Tribal agencies to promote comprehensive drug control strategies designed to reduce the demand for, and the availability of, illegal drugs.
 
 #### (16) Substance use disorder treatment
 
@@ -134,15 +134,17 @@ In this chapter:
 
 &emsp;&emsp;(H) research related to any of the activities described in this paragraph.
 
-(Pub. L. 105–277, div. C, title VII, §§702, 715, Oct. 21, 1998, 112 Stat. 2681–670, 2681–693; Pub. L. 109–469, title I, §101, title VI, §602, Dec. 29, 2006, 120 Stat. 3503, 3533; Pub. L. 115–271, title VIII, §§8202(a), (b)(2), 8216, Oct. 24, 2018, 132 Stat. 4110, 4117.)
+(Pub. L. 105–277, div. C, title VII, §§702, 715, Oct. 21, 1998, 112 Stat. 2681–670, 2681–693; Pub. L. 109–469, title I, §101, title VI, §602, Dec. 29, 2006, 120 Stat. 3503, 3533; Pub. L. 115–271, title VIII, §§8202(a), (b)(2), 8216, Oct. 24, 2018, 132 Stat. 4110, 4117; Pub. L. 116–74, §2(a)(1), (3), Nov. 27, 2019, 133 Stat. 1155.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title VII of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out below and Tables.
 
-The term "National Drug Control Program Agency", referred to in par. (11), appeared, prior to amendment by Pub. L. 115–271, as the term "National Drug Control Program agency". The words "Agency" and "agency", in singular and plural, are both used throughout this chapter.
-
 #### Amendments
+
+<b>2019</b>—Pars. (3), (11). Pub. L. 116–74, §2(a)(1), substituted "National Drug Control Program agency" for "National Drug Control Program Agency".
+
+Par. (15). Pub. L. 116–74, §2(a)(3), substituted "Tribal" for "tribal" wherever appearing.
 
 <b>2018</b>—Pub. L. 115–271, §8202(b)(2), repealed Pub. L. 105–277, §715. See 1998 Amendment note below.
 
@@ -162,7 +164,7 @@ Pars. (7) to (9). Pub. L. 115–271, §8216(8), added pars. (7) to (9). Former p
 
 Par. (10). Pub. L. 115–271, §8216(4), redesignated par. (6) as (10). Former par. (10) redesignated (15).
 
-Par. (11). Pub. L. 115–271, §8216(4), (9), redesignated par. (7) as (11) and amended it generally. Prior to amendment, text read as follows: "The term 'National Drug Control Program agency' means any agency that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program, the Joint Military Intelligence Program or Tactical Intelligence and Related Activities, or (for purposes of section 1703(d) of this title) an agency that is described in section 530C(a) of title 28, unless such agency has been designated—
+Par. (11). Pub. L. 115–271, §8216(4), (9), redesignated par. (7) as (11) and amended it generally. Prior toamendment, text read as follows: "The term 'National Drug Control Program agency' means any agency that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program, the Joint Military Intelligence Program or Tactical Intelligence and Related Activities, or (for purposes of section 1703(d) of this title) an agency that is described in section 530C(a) of title 28, unless such agency has been designated—
 
 &emsp;"(A) by the President; or
 
@@ -203,6 +205,14 @@ Par. (11). Pub. L. 109–469, §101(f), amended par. (11) generally. Prior to am
 Pars. (12), (13). Pub. L. 109–469, §101(g), added pars. (12) and (13).
 
 <b>1998</b>—Pub. L. 105–277, §715, as amended by Pub. L. 109–469, §602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, §8202(b)(2). See former section 1712 of this title.
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–74, §1, Nov. 27, 2019, 133 Stat. 1155, provided that: "This Act \[see Tables for classification\] may be cited as the 'ONDCP Technical Corrections Act of 2019'."
 
 #### Short Title of 2018 Amendment
 
@@ -258,11 +268,11 @@ Sec. 2. <i>Establishment of a White House Task Force on Drug Use in Sports</i>. 
 
 (d) To the extent permitted by law and at the request of the Chairs, agencies shall cooperate with and provide information to the Task Force.
 
-Sec. 3. <i>Participation in the World Anti-Doping Agency</i>. (a) As part of my Administration's efforts to address the problem of drug use in sports, the United States has played a leading role in the formation of a World Anti-Doping Agency (WADA) by the Olympic and sports community and the nations of the world. Through these efforts, the United States has been selected to serve as a governmental representative on the board of the WADA. This order will authorize the Director toserve as the United States Government's representative on the WADA board.
+Sec. 3. <i>Participation in the World Anti-Doping Agency</i>. (a) As part of my Administration's efforts to address the problem of drug use in sports, the United States has played a leading role in the formation of a World Anti-Doping Agency (WADA) by the Olympic and sports community and the nations of the world. Through these efforts, the United States has been selected to serve as a governmental representative on the board of the WADA. This order will authorize the Director to serve as the United States Government's representative on the WADA board.
 
 (b) Pursuant to 21 U.S.C. 1701 <i>et seq</i>., the Director, or in his absence his designee, is hereby authorized to take all necessary and proper actions to execute his responsibilities as United States representative to the WADA.
 
 (c) To assist the Director in carrying out these responsibilities as the United States Government representative to the WADA and to the extent permitted by law, Federal employees may serve in their official capacity, <i>inter alia</i>, on WADA Committees or WADA advisory committees, serving as experts to the WADA.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Tribal".</i>
 

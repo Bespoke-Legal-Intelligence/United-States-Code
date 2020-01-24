@@ -26,7 +26,7 @@ Pub. L. 99–205, title IV, §401, Dec. 23, 1985, 99 Stat. 1709, provided that: 
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–105, §1(a), Feb. 10, 1996, 110 Stat. 162, provided that: "This Act \[enacting sections 2214a, 2219e, 2277a–10a, 2277a–10b, 2279bb–7, and 2279cc of this title, amending sections 2013, 2018, 2020, 2129, 2154a, 2199, 2202a, 2252, 2254, 2277a, 2277a–2, 2277a–4, 2277a–5, 2277a–7,2277a–8, 2277a–10, 2279aa, 2279aa–1, 2279aa–3, 2279aa–5, 2279aa–6, 2279aa–8, 2279aa–9, 2279aa–11 to 2279aa–13, 2279bb–1 to 2279bb–4 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, and section 1999 of Title 7, Agriculture, repealing section 2279aa–7 of this title, and enacting provisions set out as notes under this section and sections 2013 and 2252 of this title\] may be cited as the 'Farm Credit System Reform Act of 1996'."
+Pub. L. 104–105, §1(a), Feb. 10, 1996, 110 Stat. 162, provided that: "This Act \[enacting sections 2214a, 2219e, 2277a–10a, 2277a–10b, 2279bb–7, and 2279cc of this title, amending sections 2013, 2018, 2020, 2129, 2154a, 2199, 2202a, 2252, 2254, 2277a, 2277a–2, 2277a–4, 2277a–5, 2277a–7, 2277a–8, 2277a–10, 2279aa, 2279aa–1, 2279aa–3, 2279aa–5, 2279aa–6, 2279aa–8, 2279aa–9, 2279aa–11 to 2279aa–13, 2279bb–1 to 2279bb–4 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, and section 1999 of Title 7, Agriculture, repealing section 2279aa–7 of this title, and enacting provisions set out as notes under this section and sections 2013 and 2252 of this title\] may be cited as the 'Farm Credit System Reform Act of 1996'."
 
 #### Short Title of 1994 Amendment
 

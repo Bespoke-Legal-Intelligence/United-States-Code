@@ -4,7 +4,7 @@
 
 If, during the 3-year period after the date on which the employee stock ownership plan or eligible worker-owned cooperative acquired any qualified securities in a sale to which section 1042 applied or acquired any qualified employer securities in a qualified gratuitous transfer to which section 664(g) applied, such plan or cooperative disposes of any qualified securities and—
 
-&emsp;(1) the total number of shares held by such plan or cooperative after such disposition isless than the total number of employer securities held immediately after such sale, or
+&emsp;(1) the total number of shares held by such plan or cooperative after such disposition is less than the total number of employer securities held immediately after such sale, or
 
 &emsp;(2) except to the extent provided in regulations, the value of qualified securities held by such plan or cooperative after such disposition is less than 30 percent of the total value of all employer securities as of such disposition (60 percent of the total value of all employer securities as of such disposition in the case of any qualified employer securities acquired in a qualified gratuitous transfer to which section 664(g) applied),
 
@@ -124,7 +124,7 @@ Subsec. (e)(2). Pub. L. 105–34, §1530(c)(14), inserted before period at end "
 
 <b>1988</b>—Subsec. (d)(4). Pub. L. 100–647 added par. (4).
 
-<b>1987</b>—Subsec. (b)(2). Pub. L. 100–203 substituted "(determined as if such securities were disposed of in the order described in section 4978A(e))" for "(determined as if such securities were disposed of before any other securities)".
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–203 substituted "(determined as if such securities were disposed of in theorder described in section 4978A(e))" for "(determined as if such securities were disposed of before any other securities)".
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1854(e)(1), substituted "than" for "then".
 

@@ -22,7 +22,7 @@
 
 <b>2008</b>—Pub. L. 110–402, §1(b)(3)(A)(i), substituted "Counselor" for "Administrative Assistant" in section catchline.
 
-Subsec. (a). Pub. L. 110–402, §1(b)(3)(A)(ii), substituted "a Counselor" for "an Administrative Assistant" infirst sentence and "Counselor" for "Administrative Assistant" in second and third sentences.
+Subsec. (a). Pub. L. 110–402, §1(b)(3)(A)(ii), substituted "a Counselor" for "an Administrative Assistant" in first sentence and "Counselor" for "Administrative Assistant" in second and third sentences.
 
 Subsecs. (b), (c). Pub. L. 110–402, §1(b)(3)(A)(iii), substituted "Counselor" for "Administrative Assistant" wherever appearing.
 

@@ -10,7 +10,7 @@ Amount of Exposure Fee.—To the extent that the cost of the loan guarantees und
 
 (c)
 
-Payment Terms.—The fee under subsection (a) for each guarantee shall become due as the guarantee is issued. In the case of a guarantee for a loan which is disbursed incrementally, and for which the guarantee is correspondingly issued incrementally as portions of the loan are disbursed, the fee shall be paid incrementally in proportion to the amount of the guarantee that is issued.
+Payment Terms.—The fee under subsection (a) for each guarantee shall become due as the guarantee is issued. In the case of a guarantee for a loan which is disbursed incrementally, and for which the guarantee is correspondingly issued incrementally as portions of the loan aredisbursed, the fee shall be paid incrementally in proportion to the amount of the guarantee that is issued.
 
 (d)
 

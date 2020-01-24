@@ -6,7 +6,7 @@ The Secretary shall promulgate regulations to address administrative and enforce
 
 #### (b) Reconstitution
 
-The Secretary shall promulgate regulations to prohibit a dairy producer from reconstituting adairy operation for the purpose of the dairy producer receiving dairy margin coverage payments.
+The Secretary shall promulgate regulations to prohibit a dairy producer from reconstituting a dairy operation for the purpose of the dairy producer receiving dairy margin coverage payments.
 
 #### (c) Administrative appeals
 

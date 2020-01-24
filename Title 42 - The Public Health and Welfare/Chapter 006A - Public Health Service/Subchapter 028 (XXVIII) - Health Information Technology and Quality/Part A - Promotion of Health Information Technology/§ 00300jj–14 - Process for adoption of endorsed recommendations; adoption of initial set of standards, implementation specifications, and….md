@@ -40,7 +40,7 @@ In adopting and implementing standards under this section, the Secretary shall g
 
 #### References in Text
 
-Section 300jj–12(b)(2)(B) of this title, referred to in subsec. (b)(1), related to areas of health information technology required to be considered by the HIT Policy Committee and was repealed by Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168.
+Section 300jj–12(b)(2)(B) of this title, referred to in subsec. (b)(1), related to areas of health information technology required to be considered by the HIT PolicyCommittee and was repealed by Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168.
 
 #### Amendments
 

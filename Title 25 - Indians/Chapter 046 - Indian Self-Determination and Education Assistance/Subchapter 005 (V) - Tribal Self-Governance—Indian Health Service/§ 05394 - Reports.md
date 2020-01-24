@@ -24,7 +24,7 @@ The report under subsection (a) of this section shall—
 
 &emsp;&emsp;(C) the funds transferred to each self-governance Indian tribe and the corresponding reduction in the Federal bureaucracy;
 
-&emsp;&emsp;(D) the funding formula for individual tribal shares of all headquarters funds, together with the comments of affected Indian tribes or tribal organizations, developed under subsection (c) of this section; and
+&emsp;&emsp;(D) the funding formula for individual tribal shares of all headquarters funds, togetherwith the comments of affected Indian tribes or tribal organizations, developed under subsection (c) of this section; and
 
 &emsp;&emsp;(E) amounts expended in the preceding fiscal year to carry out inherent Federal functions, including an identification of those functions by type and location;
 

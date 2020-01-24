@@ -144,7 +144,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 &emsp;&emsp;&emsp;(i) shall relate to matters including health and safety topics consisting of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the prevention and control of infectious diseases (including immunization) and the establishment of a grace period that allows homeless children and children in foster care to receive services under this subchapter while their families (including foster families) are taking any necessary action to comply with immunization and other health and safety requirements;
+&emsp;&emsp;&emsp;&emsp;(I) the prevention and control of infectious diseases (including immunization)and the establishment of a grace period that allows homeless children and children in foster care to receive services under this subchapter while their families (including foster families) are taking any necessary action to comply with immunization and other health and safety requirements;
 
 &emsp;&emsp;&emsp;&emsp;(II) prevention of sudden infant death syndrome and use of safe sleeping practices;
 
@@ -188,7 +188,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 &emsp;&emsp;&emsp;&emsp;(III) require the ratio of licensing inspectors to such child care providers and facilities in the State to be maintained at a level sufficient to enable the State to conduct inspections of such child care providers and facilities on a timely basis in accordance with Federal, State, and local law; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) require licensing inspectors (or qualified inspectors designated by thelead agency) of child care providers and facilities to perform an annual inspection of each license-exempt provider in the State receiving funds under this subchapter (unless the provider is an eligible child care provider as described in section 9858n(6)(B) of this title) for compliance with health, safety, and fire standards, at a time to be determined by the State.
+&emsp;&emsp;&emsp;&emsp;(IV) require licensing inspectors (or qualified inspectors designated by the lead agency) of child care providers and facilities to perform an annual inspection of each license-exempt provider in the State receiving funds under this subchapter (unless the provider is an eligible child care provider as described in section 9858n(6)(B) of this title) for compliance with health, safety, and fire standards, at a time to be determined by the State.
 
 #### (ii) Construction
 
@@ -242,7 +242,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 #### (ii) Optional use of combined funds
 
-&emsp;&emsp;&emsp;If the State elects to combine funding for the services supported to carry out this subchapter with funding for any programdescribed in clause (i), the plan shall describe how the State will combine the multiple sets of funding and use the combined funding.
+&emsp;&emsp;&emsp;If the State elects to combine funding for the services supported to carry out this subchapter with funding for any program described in clause (i), the plan shall describe how the State will combine the multiple sets of funding and use the combined funding.
 
 #### (iii) Rule of construction
 
@@ -408,7 +408,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 &emsp;&emsp;&emsp;(i) reserve the minimum amount required to be reserved under section 9858e of this title, and the funds for costs described in subparagraph (C); and
 
-&emsp;&emsp;&emsp;(ii) from the remainder, use not less than 70 percent to fund direct services (providedby the State) in accordance with paragraph (2)(A).
+&emsp;&emsp;&emsp;(ii) from the remainder, use not less than 70 percent to fund direct services (provided by the State) in accordance with paragraph (2)(A).
 
 #### (4) Payment rates
 
@@ -420,7 +420,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 &emsp;&emsp;The State plan shall—
 
-&emsp;&emsp;&emsp;(i) demonstrate that the State has, after consulting with the State Advisory Council on Early Childhood Education and Care designated or established in section 642B(b)(1)(A)(i) of the Head Start Act (42 U.S.C. 9837b(b)(1)(A)(i)), local child care program administrators, local child care resource and referral agencies, and other appropriate entities, developed and conducted (not earlier than 2 years before the date of the submission of the application containing the State plan) a statistically valid and reliable survey of the market rates for child care services in the State (that reflects variations in the cost of child care services by geographic area, type of provider, and age of child) or an alternative methodology, such as a cost estimation model, that has been developed by the State lead agency;
+&emsp;&emsp;&emsp;(i) demonstrate that the State has, after consulting with the State Advisory Council on Early Childhood Education and Care designated or established in section 642B(b)(1)(A)(i) of the Head Start Act (42 U.S.C. 9837b(b)(1)(A)(i)), local child care program administrators, local child care resource and referral agencies, and otherappropriate entities, developed and conducted (not earlier than 2 years before the date of the submission of the application containing the State plan) a statistically valid and reliable survey of the market rates for child care services in the State (that reflects variations in the cost of child care services by geographic area, type of provider, and age of child) or an alternative methodology, such as a cost estimation model, that has been developed by the State lead agency;
 
 &emsp;&emsp;&emsp;(ii) demonstrate that the State prepared a detailed report containing the results of the State market rates survey or alternative methodology conducted pursuant to clause (i), and made the results of the survey or alternative methodology widely available (not later than 30 days after the completion of such survey or alternative methodology) through periodic means, including posting the results on the Internet;
 
@@ -466,7 +466,7 @@ The Secretary shall approve an application that satisfies the requirements of th
 
 The Social Security Act, referred to in subsec. (c)(2)(E)(i)(IV), (ii)(I), (N)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Head Start Act, referred to in subsec. (c)(2)(E)(i)(IV), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see ShortTitle note set out under section 9801 of this title and Tables.
+The Head Start Act, referred to in subsec. (c)(2)(E)(i)(IV), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (c)(2)(E)(i)(IV), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, which is classified principally to subchapter II (§8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of this title and Tables.
 
@@ -544,7 +544,7 @@ Subsec. (c)(3)(C). Pub. L. 104–193, §605(2)(B)(iii), amended heading and text
 
 Subsec. (c)(3)(D). Pub. L. 104–193, §605(2)(B)(iv), added subpar. (D).
 
-Subsec. (c)(4)(A). Pub. L. 104–193, §605(2)(C), substituted "State plan shall certify" for "State plan shall provide assurances", inserted "and shall provide a summary of the facts relied on by the State to determine that such rates are sufficient to ensure such access" after "Federal or State programs", and struck out at end "Such payment rates shall take into account the variations in the costs of providing child care in different settings and to children of different age groups, and the additional costs of providing child care for children with special needs."
+Subsec. (c)(4)(A). Pub. L. 104–193, §605(2)(C), substituted "State plan shall certify" for "State plan shallprovide assurances", inserted "and shall provide a summary of the facts relied on by the State to determine that such rates are sufficient to ensure such access" after "Federal or State programs", and struck out at end "Such payment rates shall take into account the variations in the costs of providing child care in different settings and to children of different age groups, and the additional costs of providing child care for children with special needs."
 
 <b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 

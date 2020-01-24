@@ -38,7 +38,7 @@ Pub. L. 103–432, §145(c)(3), struck out ", or whether screening mammography 
 
 Subsec. (e). Pub. L. 103–432, §160(a)(1)(A), inserted before period at end "(other than any fee relating to section 263a of this title)".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §4163(c)(2), inserted before period at end of first sentence ", or whetherscreening mammography meets the standards established under section 1395m(c)(3) of this title".
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §4163(c)(2), inserted before period at end of first sentence ", or whether screening mammography meets the standards established under section 1395m(c)(3) of this title".
 
 Pub. L. 101–508, §4154(d)(1), substituted "section 1395x(s) of this title or (in the case of a laboratory that does not participate or seek to participate in the medicare program) the requirements of section 263a of this title," for "section 1395x(s) of this title," in first sentence.
 
@@ -58,7 +58,7 @@ Pub. L. 100–360, §411(d)(4)(A)(i), as amended by Pub. L. 100–485, §608(d)(
 
 Pub. L. 100–360, §411(d)(4)(A)(ii)(I), as amended by Pub. L. 100–485, §608(d)(20)(C), substituted "such State or local agency to maintain a unit" for "such agency to maintain a unit".
 
-Pub. L. 100–360, §411(d)(4)(A)(ii)(II), as amended by Pub. L. 100–485, §608(d)(20)(B)(ii), substituted "utilized by the Secretary under section 1395bb of this title" for "pursuant to an agreement with the Secretary under this section".
+Pub. L. 100–360, §411(d)(4)(A)(ii)(II), as amended by Pub. L. 100–485, §608(d)(20)(B)(ii), substituted "utilizedby the Secretary under section 1395bb of this title" for "pursuant to an agreement with the Secretary under this section".
 
 Pub. L. 100–360, §204(d)(3), substituted "paragraphs (14) and (15)" for "paragraphs (13) and (14)".
 
@@ -184,7 +184,7 @@ Pub. L. 90–248, title II, §228(b), Jan. 2, 1968, 81 Stat. 904, provided that 
 
 #### Use of State or Local Agencies in Evaluating Laboratories
 
-Pub. L. 103–432, title I, §160(a)(2), Oct. 31, 1994, 108 Stat. 4443, provided that: "An agreement made by theSecretary of Health and Human Services with a State under section 1864(a) of the Social Security Act \[42 U.S.C. 1395aa(a)\] may include an agreement that the services of the State health agency or other appropriate State agency (or the appropriate local agencies) will be utilized by the Secretary for the purpose of determining whether a laboratory meets the requirements of section 353 of the Public Health Service Act \[42 U.S.C. 263a\]."
+Pub. L. 103–432, title I, §160(a)(2), Oct. 31, 1994, 108 Stat. 4443, provided that: "An agreement made by the Secretary of Health and Human Services with a State under section 1864(a) of the Social Security Act \[42 U.S.C. 1395aa(a)\] may include an agreement that the services of the State health agency or other appropriate State agency (or the appropriate local agencies) will be utilized by the Secretary for the purpose of determining whether a laboratory meets the requirements of section 353 of the Public Health Service Act \[42 U.S.C. 263a\]."
 
 #### Nurse Aid Training and Competency Evaluation, Failure by State To Meet Guidelines
 

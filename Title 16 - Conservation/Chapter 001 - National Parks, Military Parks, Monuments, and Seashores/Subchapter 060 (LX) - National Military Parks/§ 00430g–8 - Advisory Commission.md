@@ -16,7 +16,7 @@ There is hereby established the Gettysburg National Military Park Advisory Commi
 
 &emsp;(6) The Director of the National Park Service or his designee, ex officio.
 
-> Members shall be appointed for staggered terms of three years, as designated by the Secretary at the time of the initial appointments. Any member of the Advisory Commission appointed for a definite term may serve after the expiration of his term until his successor is appointed. The Advisory Commission shall designate one of its members as Chairperson. Six members of the Advisory Commission shall constitute a quorum.
+> Members shall be appointed for staggered terms of three years, as designated by the Secretary at the time of the initial appointments. Any member of the Advisory Commission appointed for adefinite term may serve after the expiration of his term until his successor is appointed. The Advisory Commission shall designate one of its members as Chairperson. Six members of the Advisory Commission shall constitute a quorum.
 
 #### (b) Management and development issues
 

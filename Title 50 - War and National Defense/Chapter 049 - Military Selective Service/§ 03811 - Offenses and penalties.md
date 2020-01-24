@@ -46,7 +46,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original "this tit
 
 This Act, referred to in subsec. (e), is act June 24, 1948, ch. 625, 62 Stat. 604, known as the Military Selective Service Act. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV\(§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Codification
 
@@ -82,7 +82,7 @@ Pub. L. 97–252, title XI, §1113(b), Sept. 8, 1982, 96 Stat. 748, provided tha
 
 #### Proc. No. 4313. Program for Return of Vietnam Era Draft Evaders and Military Deserters
 
-Proc. No. 4313, Sept. 16, 1974, 39 F.R. 33293, 88 Stat. 2504, as amended by Proc. No. 4345, Jan. 30, 1975, 40 F.R.4893, 89 Stat. 1236; Proc. No. 4353, Feb. 28, 1975, 40 F.R. 8931, 10433, 89 Stat. 1246, provided:
+Proc. No. 4313, Sept. 16, 1974, 39 F.R. 33293, 88 Stat. 2504, as amended by Proc. No. 4345, Jan. 30, 1975, 40 F.R. 4893, 89 Stat. 1236; Proc. No. 4353, Feb. 28, 1975, 40 F.R. 8931, 10433, 89 Stat. 1246, provided:
 
 The United States withdrew the last of its forces from the Republic of Vietnam on March 28, 1973.
 
@@ -132,7 +132,7 @@ Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Proc. No. 4483, Jan. 21, 1977, 42 F.R. 4391, 91 Stat. 1719, provided:
 
-Acting pursuant to the grant of authority in Article II, Section 2, of the Constitution of the United States, I, Jimmy Carter, President of the United States, do hereby grant a full, complete and unconditional pardon to: (1) all persons who may have committed any offense between August 4, 1964 and March 28, 1973 in violation of the Military Selective Service Act \[see References inText note set out under section 3801 of this title\] or any rule or regulation promulgated thereunder; and (2) all persons heretofore convicted, irrespective of the date of conviction, of any offense committed between August 4, 1964 and March 28, 1973 in violation of the Military Selective Service Act, or any rule or regulation promulgated thereunder, restoring to them full political, civil and other rights.
+Acting pursuant to the grant of authority in Article II, Section 2, of the Constitution of the United States, I, Jimmy Carter, President of the United States, do hereby grant a full, complete and unconditional pardon to: (1) all persons who may have committed any offense between August 4, 1964 and March 28, 1973 in violation of the Military Selective Service Act \[see References in Text note set out under section 3801 of this title\] or any rule or regulation promulgated thereunder; and (2) all persons heretofore convicted, irrespective of the date of conviction, of any offense committed between August 4, 1964 and March 28, 1973 in violation of the Military Selective Service Act, or any rule or regulation promulgated thereunder, restoring to them full political, civil and other rights.
 
 This pardon does not apply to the following who are specifically excluded therefrom:
 
@@ -192,7 +192,7 @@ Section 1. Section 9 of Executive Order No. 11803 of September 16, 1974, as amen
 
 "The Board shall submit its final recommendations to the President not later than September 15, 1975, at which time it shall cease to exist."
 
-Sec. 2. Any applications for Executive clemency, as to which the Presidential Clemency Board (establishedby Executive Order No. 11803) \[set out above\] has not taken final action shall be transferred, together with the files related thereto, to the Attorney General.
+Sec. 2. Any applications for Executive clemency, as to which the Presidential Clemency Board (established by Executive Order No. 11803) \[set out above\] has not taken final action shall be transferred, together with the files related thereto, to the Attorney General.
 
 Sec. 3. The Attorney General, with respect to the applications and related files transferred to him by Section 2 of this Order, shall take all actions appropriate or necessary to complete the clemency process and shall expeditiously report to the President his findings and recommendations as to whether Executive clemency should be granted or denied in any case. In performing his responsibilities under this Order, the Attorney General shall apply the relevant criteria and comply with the appropriate and applicable instructions and procedures established by Executive Order No. 11803 of September 16, 1974, as amended \[set out above\], Proclamation No. 4313 of September 16, 1974, as amended \[set out above\], Executive Order No. 11804 of September 16, 1974 \[set out above\], and, to the extent that he deems appropriate, the regulations of the Presidential Clemency Board and the Selective Service System issued pursuant to the foregoing Executive orders.
 

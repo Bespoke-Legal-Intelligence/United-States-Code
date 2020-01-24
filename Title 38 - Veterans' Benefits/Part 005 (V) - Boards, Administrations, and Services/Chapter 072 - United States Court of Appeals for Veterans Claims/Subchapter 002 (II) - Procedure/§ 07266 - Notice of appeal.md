@@ -12,7 +12,7 @@
 
 (d) For a notice of appeal mailed to the Court to be deemed to be received under subsection (c)(2) on a particular date, the United States Postal Service postmark on the cover in which the notice is posted must be legible. The Court shall determine the legibility of any such postmark and the Court's determination as to legibility shall be final and not subject to review by any other Court.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4116, §4066; renumbered §7266 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title V, §511(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–103, title V, §507, Dec. 27, 2001, 115 Stat. 997.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4116, §4066; renumbered §7266 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105Stat. 404, 405; Pub. L. 103–446, title V, §511(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–103, title V, §507, Dec. 27, 2001, 115 Stat. 997.)
 
 #### Amendments
 
@@ -34,7 +34,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–446, title V, §511(b), Nov. 2, 1994, 108 Stat. 4670, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 2, 1994\] andshall apply to notices of appeal that are delivered or mailed to the United States Court of Veterans Appeals \[now United States Court of Appeals for Veterans Claims\] on or after that date."
+Pub. L. 103–446, title V, §511(b), Nov. 2, 1994, 108 Stat. 4670, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 2, 1994\] and shall apply to notices of appeal that are delivered or mailed to the United States Court of Veterans Appeals \[now United States Court of Appeals for Veterans Claims\] on or after that date."
 
 #### Interim Provision for Filing Notices of Appeal
 

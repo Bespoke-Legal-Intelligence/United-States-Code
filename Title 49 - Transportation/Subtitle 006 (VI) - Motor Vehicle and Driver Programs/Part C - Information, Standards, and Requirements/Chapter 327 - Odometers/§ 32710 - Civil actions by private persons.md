@@ -2,7 +2,7 @@
 
 (a)
 
-Violation and Amount of Damages.—A person that violates this chapter or a regulation prescribed or order issued under this chapter, with intent to defraud, is liable for 3 times the actual damages or $10,000, whichever is greater.
+Violation and Amount of Damages.—A person that violates this chapter or a regulationprescribed or order issued under this chapter, with intent to defraud, is liable for 3 times the actual damages or $10,000, whichever is greater.
 
 (b)
 

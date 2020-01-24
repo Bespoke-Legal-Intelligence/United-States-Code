@@ -28,7 +28,7 @@ Federal law enforcement assistance may be provided if such assistance is necessa
 
 #### References in Text
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(6), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Title I of the Act is classified principally to chapter 101 (§10101 et seq.) of this title. Forcomplete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(6), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Title I of the Act is classified principally to chapter 101 (§10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 #### Codification
 

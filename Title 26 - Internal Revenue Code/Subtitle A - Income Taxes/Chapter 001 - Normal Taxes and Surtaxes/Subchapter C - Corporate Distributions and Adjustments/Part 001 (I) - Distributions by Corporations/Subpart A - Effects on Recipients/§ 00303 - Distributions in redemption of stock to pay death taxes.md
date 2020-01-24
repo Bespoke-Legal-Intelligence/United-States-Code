@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A distribution of property to a shareholder by a corporation in redemption of part or all of thestock of such corporation which (for Federal estate tax purposes) is included in determining the gross estate of a decedent, to the extent that the amount of such distribution does not exceed the sum of—
+A distribution of property to a shareholder by a corporation in redemption of part or all of the stock of such corporation which (for Federal estate tax purposes) is included in determining the gross estate of a decedent, to the extent that the amount of such distribution does not exceed the sum of—
 
 &emsp;(1) the estate, inheritance, legacy, and succession taxes (including any interest collected as a part of such taxes) imposed because of such decedent's death, and
 
@@ -16,7 +16,7 @@ A distribution of property to a shareholder by a corporation in redemption of pa
 
 &emsp;Subsection (a) shall apply only to amounts distributed after the death of the decedent and—
 
-&emsp;&emsp;(A) within the period of limitations provided in section 6501(a) for the assessment of the Federal estate tax (determined without the application of any provision other than section 6501(a)), or within 90 days after the expiration of such period,
+&emsp;&emsp;(A) within the period of limitations provided in section 6501(a) for the assessment ofthe Federal estate tax (determined without the application of any provision other than section 6501(a)), or within 90 days after the expiration of such period,
 
 &emsp;&emsp;(B) if a petition for redetermination of a deficiency in such estate tax has been filed with the Tax Court within the time prescribed in section 6213, at any time before the expiration of 60 days after the decision of the Tax Court becomes final, or
 

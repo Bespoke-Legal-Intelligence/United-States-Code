@@ -58,7 +58,7 @@
 
 &emsp;Activities carried out in accordance with paragraph (3)(E) shall—
 
-&emsp;&emsp;(A) emphasize the training of master teachers who will improve the instruction ofmathematics or science in kindergarten through grade 12;
+&emsp;&emsp;(A) emphasize the training of master teachers who will improve the instruction of mathematics or science in kindergarten through grade 12;
 
 &emsp;&emsp;(B) include training in both content and pedagogy; and
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;&emsp;(ix) have a component that includes the use of the Internet;
 
-&emsp;&emsp;&emsp;(x) provide for followup training in the classroom during the academic year for a period of not less than 3 days, which mayor may not be consecutive, for participants in the teacher institute, except that for teachers in rural local educational agencies, the followup training may be provided through the Internet;
+&emsp;&emsp;&emsp;(x) provide for followup training in the classroom during the academic year for a period of not less than 3 days, which may or may not be consecutive, for participants in the teacher institute, except that for teachers in rural local educational agencies, the followup training may be provided through the Internet;
 
 &emsp;&emsp;&emsp;(xi) provide teachers participating in the teacher institute with travel expense reimbursement and classroom materials related to the teacher institute, and may include providing stipends as necessary; and
 
@@ -228,7 +228,7 @@ In this section—
 
 &emsp;(2) the term "science", in the context of elementary and secondary education, includes technology and pre-engineering.
 
-(Pub. L. 107–368, §9, Dec. 19, 2002, 116 Stat. 3044; Pub. L. 110–69, title VII, §§7028, 7029, Aug. 9, 2007, 121 Stat. 696, 697; Pub. L. 114–95, title IX, §9215(ggg)(2), Dec. 10, 2015, 129 Stat. 2186; Pub. L. 114–329, title II, §204(a)(3)(C), Jan. 6, 2017, 130 Stat. 2999.)
+(Pub. L. 107–368, §9, Dec. 19, 2002, 116 Stat. 3044; Pub. L. 110–69, title VII, §§7028, 7029, Aug. 9, 2007, 121 Stat. 696, 697; Pub. L. 114–95, title IX, §9215(ggg)(2), Dec. 10, 2015, 129 Stat. 2186; Pub. L.114–329, title II, §204(a)(3)(C), Jan. 6, 2017, 130 Stat. 2999.)
 
 #### References in Text
 
@@ -280,8 +280,6 @@ Subsec. (d). Pub. L. 110–69, §7028(9), added subsec. (d).
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
@@ -298,7 +296,7 @@ Pub. L. 107–368, §2, Dec. 19, 2002, 116 Stat. 3034, provided that: "Congress 
 
 &emsp;"(4) The research and education activities of the National Science Foundation promote the discovery, integration, dissemination, and application of new knowledge in service to society and prepare future generations of scientists, mathematicians, and engineers who will be necessary to ensure America's leadership in the global marketplace.
 
-&emsp;"(5) The National Science Foundation must be provided with sufficient resources to enable it to carry out its responsibilities to develop intellectual capital, strengthen the scientific infrastructure, integrate research and education, enhance the delivery of mathematics and science education in the United States, and improve the technological literacy of all people in the United States.
+&emsp;"(5) The National Science Foundation must be provided with sufficient resources to enable it to carry out its responsibilities to develop intellectual capital, strengthen the scientific infrastructure, integrate research and education, enhance the delivery ofmathematics and science education in the United States, and improve the technological literacy of all people in the United States.
 
 &emsp;"(6) The emerging global economic, scientific, and technical environment challenges long-standing assumptions about domestic and international policy, requiring the National Science Foundation to play a more proactive role in sustaining the competitive advantage of the United States through superior research capabilities.
 

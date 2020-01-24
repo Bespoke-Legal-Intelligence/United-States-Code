@@ -2,7 +2,7 @@
 
 #### (a) Dispatch of senior State Department official to site
 
-Not later than 60 days after November 16, 1990, the Secretary of State shall issue such rules andguidelines as are necessary to provide that in the event of an international disaster, particularly an aviation tragedy, directly involving significant numbers of United States citizens abroad not less than one senior officer from the Bureau of Consular Affairs of the Department of State shall be dispatched to the site of such disaster.
+Not later than 60 days after November 16, 1990, the Secretary of State shall issue such rules and guidelines as are necessary to provide that in the event of an international disaster, particularly an aviation tragedy, directly involving significant numbers of United States citizens abroad not less than one senior officer from the Bureau of Consular Affairs of the Department of State shall be dispatched to the site of such disaster.
 
 #### (b) Criteria for Department of State staffing at disaster site
 
@@ -10,7 +10,7 @@ Not later than 60 days after November 16, 1990, the Secretary of State shall pro
 
 #### (c) State Department ombudsman
 
-Not later than 60 days after November 16, 1990, the Secretary of State shall issue such rules and guidelines as are necessary to provide that in the event of an international aviation disaster involving significant numbers of United States citizens abroad not less than one officer or employee of the Department of State shall be dispatched to the disaster site to provide on-site assistance to families who may visit the site and to act as an ombudsman in matters involving the foreign local government authorities and social service agencies.
+Not later than 60 days after November 16, 1990, the Secretary of State shall issue such rules and guidelines as are necessary to provide that in the event of an international aviation disaster involving significant numbers of United Statescitizens abroad not less than one officer or employee of the Department of State shall be dispatched to the disaster site to provide on-site assistance to families who may visit the site and to act as an ombudsman in matters involving the foreign local government authorities and social service agencies.
 
 #### (d) Crisis teams
 

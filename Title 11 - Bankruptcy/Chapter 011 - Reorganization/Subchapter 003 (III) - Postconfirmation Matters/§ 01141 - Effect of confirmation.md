@@ -4,7 +4,7 @@
 
 (b) Except as otherwise provided in the plan or the order confirming the plan, the confirmation of a plan vests all of the property of the estate in the debtor.
 
-(c) Except as provided in subsections (d)(2) and (d)(3) of this section and except as otherwiseprovided in the plan or in the order confirming the plan, after confirmation of a plan, the property dealt with by the plan is free and clear of all claims and interests of creditors, equity security holders, and of general partners in the debtor.
+(c) Except as provided in subsections (d)(2) and (d)(3) of this section and except as otherwise provided in the plan or in the order confirming the plan, after confirmation of a plan, the property dealt with by the plan is free and clear of all claims and interests of creditors, equity security holders, and of general partners in the debtor.
 
 (d)(1) Except as otherwise provided in this subsection, in the plan, or in the order confirming the plan, the confirmation of a plan—
 
@@ -66,7 +66,7 @@
 
 #### legislative statements
 
-Section 1141(d) of the House amendment is derived from a comparable provision contained in the Senate amendment. However, section 1141(d)(2) of the House amendment is derived from the House bill as preferable to the Senate amendment. It is necessary for a corporation or partnership undergoing reorganization to be able to present its creditors with a fixed list of liabilities upon which the creditors or third parties can make intelligent decisions. Retaining an exception for discharge with respect to nondischargeable taxes would leave an undesirable uncertainty surrounding reorganizations that is unacceptable. Section 1141(d)(3) is derived from the Senate amendment. Section 1141(d)(4) is likewise derived from the Senate amendment.
+Section 1141(d) of the House amendment is derived from a comparable provision contained in the Senateamendment. However, section 1141(d)(2) of the House amendment is derived from the House bill as preferable to the Senate amendment. It is necessary for a corporation or partnership undergoing reorganization to be able to present its creditors with a fixed list of liabilities upon which the creditors or third parties can make intelligent decisions. Retaining an exception for discharge with respect to nondischargeable taxes would leave an undesirable uncertainty surrounding reorganizations that is unacceptable. Section 1141(d)(3) is derived from the Senate amendment. Section 1141(d)(4) is likewise derived from the Senate amendment.
 
 #### senate report no. 95–989
 
@@ -74,7 +74,7 @@ Subsection (a) of this section makes the provisions of a confirmed plan binding 
 
 Unless the plan or the order confirming the plan provides otherwise, the confirmation of a plan vests all of the property of the estate in the debtor and releases it from all claims and interests of creditors, equity security holders and general partners.
 
-Subsection (d) contains the discharge for a reorganized debtor. Paragraph (1) specifies that the confirmation of a plan discharges the debtor from any debt that arose before the date of the order for relief unless the plan or the order confirming the plan provides otherwise. The discharge is effective against those claims whether or not proof of the claim is filed (or deemed filed), and whether or not the claim is allowed. The discharge also terminates all rights and interests of equity security holders and general partners provided for by the plan. The paragraph permits the plan or theorder confirming the plan to provide otherwise, and excepts certain debts from the discharge as provided in paragraphs (2) and (3).
+Subsection (d) contains the discharge for a reorganized debtor. Paragraph (1) specifies that the confirmation of a plan discharges the debtor from any debt that arose before the date of the order for relief unless the plan or the order confirming the plan provides otherwise. The discharge is effective against those claims whether or not proof of the claim is filed (or deemed filed), and whether or not the claim is allowed. The discharge also terminates all rights and interests of equity security holders and general partners provided for by the plan. The paragraph permits the plan or the order confirming the plan to provide otherwise, and excepts certain debts from the discharge as provided in paragraphs (2) and (3).
 
 Paragraph (2) of subsection (d) makes clear what taxes remain nondischargeable in the case of a corporate debtor emerging from a reorganization under chapter 11. Nondischargeable taxes in such a reorganization are the priority taxes (under section 507) and tax payments which come due during and after the proceeding under a deferred or part-payment agreement which the debtor had entered into with the tax authority before the bankruptcy proceedings began. On the other hand, a corporation which is taken over by its creditors through a plan of reorganization will not continue to be liable for nonpriority taxes arising from the corporation's prepetition fraud, failure to file a return, or failure to file a timely return, since the creditors who take over the reorganized company should not bear the burden of acts for which the creditors were not at fault.
 

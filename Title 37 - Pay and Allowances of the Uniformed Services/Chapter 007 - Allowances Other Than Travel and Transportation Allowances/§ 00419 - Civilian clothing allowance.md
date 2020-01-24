@@ -16,5 +16,5 @@ A prior section 419 was renumbered section 420 of this title.
 
 #### Effective Date
 
-Pub. L. 100–180, div. A, title VI, §611(b), Dec. 4, 1987, 101 Stat. 1093, provided that: "Section 419 of title 37,United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Dec. 4, 1987\]. No member may be paid a clothing allowance under such section for any period before such date."
+Pub. L. 100–180, div. A, title VI, §611(b), Dec. 4, 1987, 101 Stat. 1093, provided that: "Section 419 of title 37, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Dec. 4, 1987\]. No member may be paid a clothing allowance under such section for any period before such date."
 

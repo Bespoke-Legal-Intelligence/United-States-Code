@@ -81,7 +81,7 @@
 
 (3) Any payment received by an agency, the Secretary of the Senate, or the Chief Administrative Officer of the House of Representatives under this subsection shall be immediately remitted to the Office for deposit in the Treasury of the United States to the credit of the Fund.
 
-(4) The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, or the Secretary of Health and Human Services, as appropriate, shall furnish such information to the Office as the Office may determine to be necessary for the administration of this subsection.
+(4) The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, or the Secretary of Health and Human Services, asappropriate, shall furnish such information to the Office as the Office may determine to be necessary for the administration of this subsection.
 
 (5) For the purpose of survivor annuities, deposits authorized by this subsection may also be made by a survivor of an employee or Member.
 
@@ -129,7 +129,7 @@
 
 (i)(1) Each employee or Member who has received a refund of retirement deductions under this or any other retirement system established for employees of the Government covering service for which such employee or Member may be allowed credit under this chapter may deposit the amount received, with interest. Credit may not be allowed for the service covered by the refund until the deposit is made.
 
-(2) Interest under this subsection shall be computed in accordance with paragraphs (2) and (3) of section 8334(e) and regulations prescribed by the Office. The option under the third sentence of section 8334(e)(2) to make a deposit in one or more installments shall apply to deposits under this subsection.
+(2) Interest under this subsection shall be computed in accordance with paragraphs (2) and (3) of section 8334(e) and regulations prescribed by the Office. The option under the third sentenceof section 8334(e)(2) to make a deposit in one or more installments shall apply to deposits under this subsection.
 
 (3) For the purpose of survivor annuities, deposits authorized by this subsection may also be made by a survivor of an employee or Member.
 
@@ -141,7 +141,7 @@ Section 3101(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)
 
 The Economic Opportunity Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, §603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat.394. Parts A and C of title I of the Act are classified generally to parts A (§4951 et seq.) and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which was classified generally to part B (§4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§4951 et seq.) and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which was classified generally to part B (§4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
 The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
@@ -191,7 +191,7 @@ Subsec. (f)(4). Pub. L. 106–346, §101(a) \[title V, §505(b)(3)\], inserted "
 
 <b>1998</b>—Subsec. (a)(3). Pub. L. 105–261 inserted table for nuclear materials courier.
 
-<b>1997</b>—Subsec. (a)(2), (3). Pub. L. 105–33, §7001(b)(1)(A), added pars. (2) and (3) and struck out former par. (2) which read as follows: "The applicable percentage under this subsection for any pay period shall be—
+<b>1997</b>—Subsec. (a)(2), (3). Pub. L. 105–33, §7001(b)(1)(A), added pars. (2) and (3) and struck out former par. (2)which read as follows: "The applicable percentage under this subsection for any pay period shall be—
 
 &emsp;"(A) in the case of an employee (other than a law enforcement officer, firefighter, air traffic controller, or Congressional employee) a percentage equal to—
 

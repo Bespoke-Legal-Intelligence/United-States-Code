@@ -40,7 +40,7 @@ In this chapter:
 
 #### (10) Partner government
 
-&emsp;The term "partner government" means a government with which the United States is working to provide assistance to combat HIV/AIDS, tuberculosis, or malaria on behalf of people living within the jurisdiction of such government.
+&emsp;The term "partner government" means a government with which the United States is working to provide assistance to combat HIV/AIDS, tuberculosis, or malaria on behalf ofpeople living within the jurisdiction of such government.
 
 #### (11) Program monitoring
 

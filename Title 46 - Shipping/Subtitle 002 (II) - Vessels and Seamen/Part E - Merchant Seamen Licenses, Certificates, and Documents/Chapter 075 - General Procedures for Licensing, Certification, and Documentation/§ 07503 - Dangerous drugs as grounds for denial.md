@@ -26,7 +26,7 @@ Section 7503 provides that the issuance of a license, certificate, or document m
 
 <b>2018</b>—Pub. L. 115–232 amended section generally. Prior to amendment, section consisted of repealed subsec. (a) and subsec. (b) identical to present provisions.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–380 struck out subsec. (a) which defined "dangerous drug" for purpose of thissection as narcotic drug, controlled substance, and marihuana.
+<b>1990</b>—Subsec. (a). Pub. L. 101–380 struck out subsec. (a) which defined "dangerous drug" for purpose of this section as narcotic drug, controlled substance, and marihuana.
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–36 substituted "certificate of registry, or merchant mariner's document" for first reference to "certificate, or document".
 

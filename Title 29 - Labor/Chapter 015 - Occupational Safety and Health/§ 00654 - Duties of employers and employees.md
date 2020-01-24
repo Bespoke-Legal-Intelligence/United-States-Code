@@ -2,7 +2,7 @@
 
 (a) Each employer—
 
-&emsp;(1) shall furnish to each of his employees employment and a place of employment which are free from recognized hazards that are causing or are likely to cause death or serious physical harm to his employees;
+&emsp;(1) shall furnish to each of his employees employment and a place of employment whichare free from recognized hazards that are causing or are likely to cause death or serious physical harm to his employees;
 
 &emsp;(2) shall comply with occupational safety and health standards promulgated under this chapter.
 

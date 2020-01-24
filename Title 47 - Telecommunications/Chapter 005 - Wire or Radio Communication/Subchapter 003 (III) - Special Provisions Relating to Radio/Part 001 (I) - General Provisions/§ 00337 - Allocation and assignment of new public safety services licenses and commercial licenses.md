@@ -56,7 +56,7 @@ In establishing service rules with respect to licenses granted pursuant to this 
 
 #### (2) Incumbent qualifying low-power stations
 
-&emsp;After making any allocation or assignment under this section, the Commission shall seek to assure, consistent with the Commission's plan for allotments for digital television service, that each qualifying low-power television station is assigned a frequency below 698 megahertz to permit the continued operation of such station.
+&emsp;After making any allocation or assignment under this section, the Commission shall seek to assure, consistent with the Commission's plan for allotments for digital television service, that each qualifying low-power television station is assigned a frequency below 698megahertz to permit the continued operation of such station.
 
 #### (f) Definitions
 
@@ -142,9 +142,9 @@ Revised Schedule for Competitive Bidding of Spectrum.—(1) \[Amended subsec. (b
 
 "(B) Chapter 6 of title 5, United States Code, section 3 of the Small Business Act (15 U.S.C. 632), and sections 3507 and 3512 of title 44, United States Code, shall not apply to the rules and competitive bidding procedures governing the frequencies described in subparagraph (A).
 
-"(5) Notwithstanding section 309(b) of the Communications Act of 1934 (47 U.S.C. 309(b)), no applicationfor an instrument of authorization for the frequencies described in paragraph (4) may be granted by the Federal Communications Commission earlier than 7 days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereto.
+"(5) Notwithstanding section 309(b) of the Communications Act of 1934 (47 U.S.C. 309(b)), no application for an instrument of authorization for the frequencies described in paragraph (4) may be granted by the Federal Communications Commission earlier than 7 days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereto.
 
-"(6) Notwithstanding section 309(d)(1) of the Communications Act of 1934 (47 U.S.C. 309(d)(1)), the Federal Communications Commission may specify a period (which shall be not less than 5 days following issuance of the public notice described in paragraph (5)) for the filing of petitions to deny any application for an instrument of authorization for the frequencies described in paragraph (4).
+"(6) Notwithstanding section 309(d)(1) of the Communications Act of 1934 (47 U.S.C. 309(d)(1)), the Federal Communications Commission may specify a period (which shall be not less than 5 days following issuanceof the public notice described in paragraph (5)) for the filing of petitions to deny any application for an instrument of authorization for the frequencies described in paragraph (4).
 
 "(b)
 

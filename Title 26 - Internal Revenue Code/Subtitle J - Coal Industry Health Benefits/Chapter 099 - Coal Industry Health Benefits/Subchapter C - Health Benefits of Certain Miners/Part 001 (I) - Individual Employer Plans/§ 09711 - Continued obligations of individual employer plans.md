@@ -2,13 +2,13 @@
 
 #### (a) Coverage of current recipients
 
-The last signatory operator of any individual who, as of February 1, 1993, is receiving retiree health benefits from an individual employer plan maintained pursuant to a 1978 or subsequent coal wage agreement shall continue to provide health benefits coverage to such individual and the individual's eligible beneficiaries which is substantially the same as (and subject to all the limitations of) the coverage provided by such plan as of January 1, 1992. Such coverage shall continue to be provided for as long as the last signatory operator (and any related person) remains in business.
+The last signatory operator of any individual who, as of February 1, 1993, is receiving retiree health benefits from an individual employer plan maintained pursuant to a 1978 or subsequent coal wage agreement shall continue to provide health benefits coverage to such individual and the individual's eligible beneficiarieswhich is substantially the same as (and subject to all the limitations of) the coverage provided by such plan as of January 1, 1992. Such coverage shall continue to be provided for as long as the last signatory operator (and any related person) remains in business.
 
 #### (b) Coverage of eligible recipients
 
 #### (1) In general
 
-&emsp;The last signatory operator of any individual who, as of February 1, 1993, is not receiving retiree health benefits under the individual employer plan maintained by the last signatory operator pursuant to a 1978 or subsequent coal wage agreement, but has met the age andservice requirements for eligibility to receive benefits under such plan as of such date, shall, at such time as such individual becomes eligible to receive benefits under such plan, provide health benefits coverage to such individual and the individual's eligible beneficiaries which is described in paragraph (2). This paragraph shall not apply to any individual who retired from the coal industry after September 30, 1994, or any eligible beneficiary of such individual.
+&emsp;The last signatory operator of any individual who, as of February 1, 1993, is not receiving retiree health benefits under the individual employer plan maintained by the last signatory operator pursuant to a 1978 or subsequent coal wage agreement, but has met the age and service requirements for eligibility to receive benefits under such plan as of such date, shall, at such time as such individual becomes eligible to receive benefits under such plan, provide health benefits coverage to such individual and the individual's eligible beneficiaries which is described in paragraph (2). This paragraph shall not apply to any individual who retired from the coal industry after September 30, 1994, or any eligible beneficiary of such individual.
 
 #### (2) Coverage
 
@@ -80,7 +80,7 @@ For purposes of this part and part II—
 
 #### (2) Reassignment upon purchase
 
-&emsp;If a person becomes a successor of a last signatory operator after the enactment date, the last signatory operator may transfer any liability of such operator under this chapter with respect to an eligible beneficiary to such successor, and such successor shall be treated as the last signatory operator with respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the last signatory operator transferring such assignment (and any related person) shall remain the guarantor of the benefits providedto the eligible beneficiary under this chapter. A last signatory operator shall notify the trustees of the 1992 UMWA Benefit Plan of any transfer described in this paragraph.
+&emsp;If a person becomes a successor of a last signatory operator after the enactment date, the last signatory operator may transfer any liability of such operator under this chapter with respect to an eligible beneficiary to such successor, and such successor shall be treated as the last signatory operator with respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the last signatory operator transferring such assignment (and any related person) shall remain the guarantor of the benefits provided to the eligible beneficiary under this chapter. A last signatory operator shall notify the trustees of the 1992 UMWA Benefit Plan of any transfer described in this paragraph.
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3051; amended Pub. L. 109–432, div. C, title II, §211(b), Dec. 20, 2006, 120 Stat. 3022; Pub. L. 115–141, div. U, title IV, §401(a)(347), Mar. 23, 2018, 132 Stat. 1201.)
 

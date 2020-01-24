@@ -1,6 +1,6 @@
 ### §754. Receivers of property in different districts
 
-A receiver appointed in any civil action or proceeding involving property, real, personal or mixed, situated in different districts shall, upongiving bond as required by the court, be vested with complete jurisdiction and control of all such property with the right to take possession thereof.
+A receiver appointed in any civil action or proceeding involving property, real, personal or mixed, situated in different districts shall, upon giving bond as required by the court, be vested with complete jurisdiction and control of all such property with the right to take possession thereof.
 
 He shall have capacity to sue in any district without ancillary appointment, and may be sued with respect thereto as provided in section 959 of this title.
 

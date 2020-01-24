@@ -16,5 +16,5 @@ Section was enacted as part of the Departments of Commerce, Justice, and State, 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c). Pub. L. 112–74 struck out subsec. (c). Prior to amendment, text read as follows: "Not later than 1 year after December 8, 2004, and annually thereafter, the Secretary of State shall submit a report on such reviews that occurred during the previous 12 months, together with the Secretary's recommendations regarding such reviews to the appropriate committees of Congress, the heads of all affected departments or agencies, and the Inspector General of the Department of State."
+<b>2011</b>—Subsec. (c). Pub. L. 112–74 struck out subsec. (c). Prior to amendment, text read as follows: "Not laterthan 1 year after December 8, 2004, and annually thereafter, the Secretary of State shall submit a report on such reviews that occurred during the previous 12 months, together with the Secretary's recommendations regarding such reviews to the appropriate committees of Congress, the heads of all affected departments or agencies, and the Inspector General of the Department of State."
 

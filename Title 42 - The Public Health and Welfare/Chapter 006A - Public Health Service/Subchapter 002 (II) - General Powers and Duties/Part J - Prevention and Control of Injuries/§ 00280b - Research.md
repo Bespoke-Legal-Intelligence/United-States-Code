@@ -20,7 +20,7 @@ A prior section 391 of act July 1, 1944, ch. 373, title III, as added Oct. 22, 1
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–183 inserted at end "In carrying out the preceding sentence, the Secretary shall disseminate such information to the public, including through elementary and secondary schools."
+<b>1993</b>—Subsec. (b). Pub. L. 103–183 inserted at end "In carrying out the preceding sentence, the Secretaryshall disseminate such information to the public, including through elementary and secondary schools."
 
 <b>1992</b>—Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control" in subsecs. (a) and (b).
 

@@ -78,7 +78,7 @@ The Secretary, acting through the Service, consistent with section 1665a of this
 
 &emsp;The Secretary, in consultation with Indian tribes and tribal organizations, shall—
 
-&emsp;&emsp;(A) identify and use, where appropriate, federally owned structures suitable for local residential or regional behavioral health treatment for Indian youths; and
+&emsp;&emsp;(A) identify and use, where appropriate, federally owned structures suitable for localresidential or regional behavioral health treatment for Indian youths; and
 
 &emsp;&emsp;(B) establish guidelines for determining the suitability of any such federally owned structure to be used for local residential or regional behavioral health treatment for Indian youths.
 

@@ -22,7 +22,7 @@ This Act, referred to in subsec. (a), is Pub. L. 103–182, Dec. 8, 1993, 107 St
 
 #### Termination of NAFTA Status
 
-Section to cease to have effect with respect to any country during any period in which such countryceases to be a NAFTA country, see section 109(b) of Pub. L. 103–182, set out as an Effective Date; Termination of NAFTA Status note under section 3311 of this title.
+Section to cease to have effect with respect to any country during any period in which such country ceases to be a NAFTA country, see section 109(b) of Pub. L. 103–182, set out as an Effective Date; Termination of NAFTA Status note under section 3311 of this title.
 
 #### North American Free Trade Agreement: Entry Into Force
 

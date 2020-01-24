@@ -152,7 +152,7 @@ Pub. L. 112–144, title II, §207(a), July 9, 2012, 126 Stat. 1007, which provi
 
 \[Pub. L. 115–52, title II, §210(c), Aug. 18, 2017, 131 Stat. 1020, provided that the repeal of section 207(a) of Pub. L. 112–144, formerly set out above, is effective Oct. 1, 2017.\]
 
-Pub. L. 107–250, title I, §106, Oct. 26, 2002, 116 Stat. 1602, provided that: "The amendments made by this title \[enacting this subpart\] shall take effect on the date of the enactment of this Act \[Oct. 26, 2002\], except that fees shall be assessed for all premarket applications, premarket reports, supplements, and premarket notification submissions received on or after October 1, 2002, regardless of the date of enactment."
+Pub. L. 107–250, title I, §106, Oct. 26, 2002, 116 Stat. 1602, provided that: "The amendments made by thistitle \[enacting this subpart\] shall take effect on the date of the enactment of this Act \[Oct. 26, 2002\], except that fees shall be assessed for all premarket applications, premarket reports, supplements, and premarket notification submissions received on or after October 1, 2002, regardless of the date of enactment."
 
 Pub. L. 107–250, title I, §107, Oct. 26, 2002, 116 Stat. 1602, which provided that the amendments made by title I of Pub. L. 107–250 (enacting this subpart) would cease to be effective Oct. 1, 2007, except that section 103 of Pub. L. 107–250, set out as a note below, would cease to be effective Jan. 31, 2008, was repealed by Pub. L. 112–144, title II, §207(c)(1), July 9, 2012, 126 Stat. 1007.
 
@@ -190,7 +190,7 @@ Pub. L. 107–250, title I, §103, Oct. 26, 2002, 116 Stat. 1600, as amended by 
 
 In General.—Beginning with fiscal year 2003, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report concerning—
 
-&emsp;"(1) the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(3) \[set out as a note above\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals, not later than 60 days after the end of each fiscal year during which fees are collected under this part \[title I of Pub. L. 107–250 does not contain parts\]; and
+&emsp;"(1) the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(3) \[set out as a note above\] during such fiscal year and the future plans of theFood and Drug Administration for meeting the goals, not later than 60 days after the end of each fiscal year during which fees are collected under this part \[title I of Pub. L. 107–250 does not contain parts\]; and
 
 &emsp;"(2) the implementation of the authority for such fees during such fiscal year, and the use, by the Food and Drug Administration, of the fees collected during such fiscal year, not later than 120 days after the end of each fiscal year during which fees are collected under the medical device user-fee program established under the amendment made by section 102 \[enacting this subpart\].
 

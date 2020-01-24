@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may makegrants to States and political subdivisions of States for the initiation and expansion of community programs designed—
+&emsp;Subject to paragraph (2), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and political subdivisions of States for the initiation and expansion of community programs designed—
 
 &emsp;&emsp;(A) to provide, for infants and children—
 
@@ -56,7 +56,7 @@ No grant may be made under subsection (a), unless an application therefor has be
 
 &emsp;&emsp;(B) communicate to health professionals and paraprofessionals updated knowledge concerning lead poisoning and research (including the health consequences, if any, of low-level lead burden; the prevalence of lead poisoning among all socioeconomic groupings; the benefits of expanded lead screening; and the therapeutic and other interventions available to prevent and combat lead poisoning in affected children and families).
 
-&emsp;(3) Assurances satisfactory to the Secretary that the applicant will report on a quarterly basis the number of infants and children screened for elevated blood lead levels, the number of infants and children who were found to have elevated blood lead levels, the number and type of medical referrals made for such infants and children, the outcome of such referrals, and other information to measure program effectiveness.
+&emsp;(3) Assurances satisfactory to the Secretary that the applicant will report on a quarterly basis the number of infants and children screened for elevated blood lead levels, thenumber of infants and children who were found to have elevated blood lead levels, the number and type of medical referrals made for such infants and children, the outcome of such referrals, and other information to measure program effectiveness.
 
 &emsp;(4) Assurances satisfactory to the Secretary that the applicant will make such reports respecting the program involved as the Secretary may require.
 

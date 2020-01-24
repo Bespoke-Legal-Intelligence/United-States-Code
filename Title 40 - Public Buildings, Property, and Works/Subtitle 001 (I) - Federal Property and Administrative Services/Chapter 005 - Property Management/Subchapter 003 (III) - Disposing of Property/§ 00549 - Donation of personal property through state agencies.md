@@ -114,7 +114,7 @@ Property usable for special interest activities.—If the Secretary of Defense d
 
 &emsp;(3)
 
-Property not usable for special interest activities.—If the Secretary of Defense determines that the property is not usable and necessary for educational activities which are of special interest to the armed services, theproperty may be disposed of in accordance with subsection (c).
+Property not usable for special interest activities.—If the Secretary of Defense determines that the property is not usable and necessary for educational activities which are of special interest to the armed services, the property may be disposed of in accordance with subsection (c).
 
 (e)
 
@@ -376,7 +376,7 @@ Sec. 4. <i>Definitions</i>. For the purposes of this order: (a) "Schools" means 
 
 Sec. 5. This order shall supersede Executive Order No. 12821 of November 16, 1992.
 
-Sec. 6. <i>Judicial Review</i>. This order is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
+Sec. 6. <i>Judicial Review</i>. This order is not intended, and should not be construed, to create any right or benefit,substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

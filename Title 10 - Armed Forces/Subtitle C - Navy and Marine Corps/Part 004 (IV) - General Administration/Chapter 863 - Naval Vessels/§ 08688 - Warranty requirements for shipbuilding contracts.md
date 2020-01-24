@@ -6,7 +6,7 @@ Requirement.—A contracting officer for a contract for new construction for whi
 
 (b)
 
-Waiver.—If the contracting officer for a contract covered by the requirement under subsection (a) determines that a limited liability of warranted work is in the best interest of the Government, the contracting officer may agree to limit the liability of the work performed under the contract to a level that the contracting officer determines is sufficient to protect the interests of the Government and in keepingwith historical levels of warranted work on similar vessels.
+Waiver.—If the contracting officer for a contract covered by the requirement under subsection (a) determines that a limited liability of warranted work is in the best interest of the Government, the contracting officer may agree to limit the liability of the work performed under the contract to a level that the contracting officer determines is sufficient to protect the interests of the Government and in keeping with historical levels of warranted work on similar vessels.
 
 (Added Pub. L. 114–328, div. A, title X, §1022(a)(1), Dec. 23, 2016, 130 Stat. 2388, §7318; renumbered §8688, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 

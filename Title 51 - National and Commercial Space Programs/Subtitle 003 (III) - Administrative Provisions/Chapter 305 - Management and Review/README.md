@@ -65,7 +65,7 @@ Building on this significant new investment at the Kennedy Space Center and my i
 
 To these ends, I hereby direct the following:
 
-Section 1. <i>Establishment of the Task Force on Space Industry Workforce and Economic Development</i>. There is established a Task Force on Space Industry Workforce and Economic Development (Task Force) to develop, in collaboration with local stakeholders, an interagency action plan to facilitate economic development strategies and plans along the Space Coast and to provide training and other opportunities for affected aerospace workers so they are equipped to contribute to new developments in America's space program and related industries. The Secretary of Commerce and the Administrator of NASA shall serve as Co-Chairs of the Task Force.
+Section 1. <i>Establishment of the Task Force on Space Industry Workforce and Economic Development</i>. There is established a Task Force on Space Industry Workforce and Economic Development (Task Force) to develop, in collaboration with local stakeholders, an interagencyaction plan to facilitate economic development strategies and plans along the Space Coast and to provide training and other opportunities for affected aerospace workers so they are equipped to contribute to new developments in America's space program and related industries. The Secretary of Commerce and the Administrator of NASA shall serve as Co-Chairs of the Task Force.
 
 (a) <i>Membership of the Task Force</i>. In addition to the Co-Chairs, the Task Force shall consist of the following members:
 

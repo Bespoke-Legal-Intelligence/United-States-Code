@@ -28,7 +28,7 @@ General Authorities.—To carry out the provisions of this chapter, the Administ
 
 &emsp;(1) accept conditional or unconditional gifts or donations of services, money, or property, real, personal or mixed, tangible or intangible;
 
-&emsp;(2) accept and use funds from other Federal departments, agencies, and instrumentalities to pay for fellowships, grants, contracts, and other transactions; and
+&emsp;(2) accept and use funds from other Federal departments, agencies, and instrumentalitiesto pay for fellowships, grants, contracts, and other transactions; and
 
 &emsp;(3) issue such rules and regulations as may be necessary and appropriate.
 

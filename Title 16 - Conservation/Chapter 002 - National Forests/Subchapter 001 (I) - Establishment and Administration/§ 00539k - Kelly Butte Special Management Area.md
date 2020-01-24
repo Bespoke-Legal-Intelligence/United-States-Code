@@ -114,7 +114,7 @@ Findings.—Congress finds that—
 
 &emsp;&emsp;"(ii) have lower public recreation and other public values than the Plum Creek offered land;
 
-&emsp;"(6) time is of the essence in consummating a land exchange because delays may force Plum Creek toroad or log the offered land and thereby diminish the public values for which the offered land is to be acquired; and
+&emsp;"(6) time is of the essence in consummating a land exchange because delays may force Plum Creek to road or log the offered land and thereby diminish the public values for which the offered land is to be acquired; and
 
 &emsp;"(7) it is in the public interest to complete the land exchange at the earliest practicable date so that the offered land can be acquired and preserved by the United States for permanent public management, use, and enjoyment.
 
@@ -168,7 +168,7 @@ Offered Land Title.—If Plum Creek conveys title acceptable to the Secretary to
 
 "(d)
 
-Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interestsin lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S½ of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
+Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interests in lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S½ of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
 
 #### "SEC. 605. EXCHANGE VALUATION, APPRAISALS AND EQUALIZATION.
 
@@ -198,7 +198,7 @@ Approval by the Secretary.—The appraisals, if not already completed by the dat
 
 "(b)
 
-Appraisal Period.—After the final appraised values of the offered and selected lands, or any portion of the land, have been approved by the Secretary or otherwise determined under section 206(d) of the Federal Land Policy and Management Act (43 U.S.C. 1716(d)), the value shall not be reappraised or updated before consummation of the land exchange, except to account for any timber harvest that might occur after completion of the final appraisal, or for any adjustments under section 606(g).
+Appraisal Period.—After the final appraised values of the offered and selected lands, or any portion of the land, have been approved by the Secretary or otherwise determined under section 206(d) of the Federal Land Policy and Management Act (43 U.S.C.1716(d)), the value shall not be reappraised or updated before consummation of the land exchange, except to account for any timber harvest that might occur after completion of the final appraisal, or for any adjustments under section 606(g).
 
 "(c)
 
@@ -296,7 +296,7 @@ Land acquired by the secretary.—
 
 &emsp;&emsp;"(A)
 
-In general.—Land acquired by the Secretary under this Act shall become part of the Mt.Baker-Snoqualmie, Gifford Pinchot or Wenatchee National Forests, as appropriate.
+In general.—Land acquired by the Secretary under this Act shall become part of the Mt. Baker-Snoqualmie, Gifford Pinchot or Wenatchee National Forests, as appropriate.
 
 &emsp;&emsp;"(B)
 
@@ -334,7 +334,7 @@ Access within cost share agreement areas.—Within Cost Share Construction and U
 
 &emsp;"(4)
 
-Access outside cost share agreement areas.—Outside of Cost Share Construction and Use Agreement Areas, the Secretary shall grant Plum Creek road access easements at no cost in a form set out in Forest Service Handbook 2709.12, 35. In the case of new road construction, they shall conform to the Secretary's rules and regulations 36 CFR 251, subpart B, for the roads identified on the map entitled 'Plum Creek Access Road Needs', dated September 1998, including mitigation under existing law.
+Access outside cost share agreement areas.—Outside of Cost Share Construction and Use Agreement Areas, the Secretary shall grant Plum Creek road access easements at no cost in a form set out in Forest Service Handbook 2709.12, 35. In the caseof new road construction, they shall conform to the Secretary's rules and regulations 36 CFR 251, subpart B, for the roads identified on the map entitled 'Plum Creek Access Road Needs', dated September 1998, including mitigation under existing law.
 
 "(c)
 
@@ -388,7 +388,7 @@ Purchase Consultation.—In furtherance of subsection (a), the Secretary is auth
 
 "(c)
 
-Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from entering into additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other stateunder the laws, rules and regulations generally applicable to Federal land acquisitions.
+Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from entering into additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
 
 #### "SEC. 608. TIETON RIVER STUDY.
 
@@ -410,7 +410,7 @@ Report to Congress.—Not later than 18 months after the date of enactment of th
 
 #### "SEC. 610. WILDERNESS STUDY AREA.
 
-"In furtherance of the purposes of the Wilderness Act \[16 U.S.C. 1131 et seq.\], if the land exchange directed by this Act is consummated, the area of land comprising approximately 15,000 acres, as generally depicted on a map entitled 'Alpine Lakes Wilderness Study Area', dated October 1998, shall be reviewed by the Secretary of Agriculture as to its suitability for preservation as wilderness. The Secretary shall submit a report and findings to the President, and the President shall submit his recommendations to the United States House of Representatives and United States Senate no later than three years after the first date on which deeds are exchanged to consummate the land exchange. Subject to valid existing rights and existing uses, such lands shall, until Congress determines otherwise or until December 31, 2003, be administered by the Secretary to maintain their wilderness character existing as of the date of enactment of this Act and potential for inclusion in the National Wilderness Preservation System, and shall be withdrawn from all forms of entry and appropriation under the U.S. mining and mineral leasing laws, including the Geothermal Steam Act of 1970 \[30 U.S.C. 1001 et seq.\].
+"In furtherance of the purposes of the Wilderness Act \[16 U.S.C. 1131 et seq.\], if the land exchange directed by this Act is consummated, the area of land comprising approximately 15,000 acres, as generally depicted on a map entitled 'Alpine Lakes Wilderness Study Area', dated October 1998, shall be reviewed by the Secretary of Agriculture as to its suitability for preservation as wilderness. The Secretary shall submit a report and findings to the President, and the President shall submit his recommendations to the United States House of Representatives and United States Senate no later than three years after the first date on which deeds are exchanged to consummate the land exchange. Subject to valid existing rights and existing uses, such landsshall, until Congress determines otherwise or until December 31, 2003, be administered by the Secretary to maintain their wilderness character existing as of the date of enactment of this Act and potential for inclusion in the National Wilderness Preservation System, and shall be withdrawn from all forms of entry and appropriation under the U.S. mining and mineral leasing laws, including the Geothermal Steam Act of 1970 \[30 U.S.C. 1001 et seq.\].
 
 #### "SEC. 611. KELLY BUTTE SPECIAL MANAGEMENT AREA.
 

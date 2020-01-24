@@ -2,7 +2,7 @@
 
 #### (a) Living Service members
 
-(1) Unless otherwise expressly provided by any spousal agreement or court order under section 4060(b)(1) of this title, a former spouse of a participant or former participant is entitled to an annuity if such former spouse was married to the participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service and—
+(1) Unless otherwise expressly provided by any spousal agreement or court order under section 4060(b)(1) of this title, a former spouse of a participant or former participant is entitled to an annuity if such former spouse was married tothe participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service and—
 
 &emsp;(A) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the annuity of the participant; or
 
@@ -50,7 +50,7 @@
 
 (B) Once a survivor annuity has been provided for under this subsection for any former spouse, a survivor annuity may thereafter be provided for under this subsection (or section 4046(b)(3) of this title) with respect to a participant or former participant only for that portion (if any) of the maximum available which is not committed for survivor benefits for any former spouse whose prospective right to such annuity has not terminated by reason of death or remarriage.
 
-(C) After the death of a participant or former participant, a court order under section 4060(b)(1) of this title may not adjust the amount of the annuity of any former spouse under this section.
+(C) After the death of a participant or former participant, a court order under section 4060(b)(1) of this title may not adjust theamount of the annuity of any former spouse under this section.
 
 (5)(A) For each full month after a former spouse of a participant or former participant dies or remarries before attaining age 60, the annuity of the participant, if reduced to provide a survivor annuity for that former spouse, shall be recomputed and paid as if the annuity had not been so reduced, unless an election is in effect under subparagraph (B).
 
@@ -130,7 +130,7 @@ Exceptions.—
 
 &emsp;"(1) The amendments made by section 202 \[enacting section 4069–1 of this title\] shall apply to any individual who, on or after the date of enactment of this title \[Jan. 8, 1988\], is married to a participant or former participant.
 
-&emsp;"(2) The amendment made by section 217(a) \[amending this section\] shall not apply with respect to theformer spouse of a participant or former participant who is subject to subchapter I of chapter 8 of the Foreign Service Act of 1980 \[this part\] if, on the date of enactment of this title \[Jan. 8, 1988\], that former spouse—
+&emsp;"(2) The amendment made by section 217(a) \[amending this section\] shall not apply with respect to the former spouse of a participant or former participant who is subject to subchapter I of chapter 8 of the Foreign Service Act of 1980 \[this part\] if, on the date of enactment of this title \[Jan. 8, 1988\], that former spouse—
 
 &emsp;&emsp;"(A) was the spouse of that participant or former participant; or
 

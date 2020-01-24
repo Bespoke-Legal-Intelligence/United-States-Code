@@ -4,21 +4,29 @@ In this chapter:
 
 &emsp;(1) The term "CERCLA" means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).
 
-&emsp;(2) The terms "environment", "facility", "hazardous substance", "person", "pollutant or contaminant", "release", "removal", "response", "disposal", and "hazardous waste" have the meanings given those terms in section 101 of CERCLA (42 U.S.C. 9601).
+&emsp;(2)(A) The terms "environment", "facility", "hazardous substance", "person", "pollutant or contaminant", "release", "removal", "response", "disposal", and "hazardous waste" have the meanings given those terms in section 101 of CERCLA (42 U.S.C. 9601).
+
+&emsp;(B) The term "facility" includes real property that is owned by, leased to, or otherwise possessed by the United States at locations at which military activities are conducted under this title or title 32 (including real property owned or leased by the Federal Government that is licensed to and operated by a State for training for the National Guard).
 
 &emsp;(3) The term "Administrator" means the Administrator of the Environmental Protection Agency.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1725, §2707; renumbered §2700 and amended Pub. L. 107–314, div. A, title III, §313(a)(1), (c)(1), Dec. 2, 2002, 116 Stat. 2507; Pub. L. 111–383, div. A, title X, §1075(b)(46)(A), Jan. 7, 2011, 124 Stat. 4371.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1725, §2707; renumbered §2700 and amended Pub. L. 107–314, div. A, title III, §313(a)(1), (c)(1), Dec. 2, 2002, 116 Stat. 2507; Pub. L. 111–383, div. A, title X, §1075(b)(46)(A), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 116–92, div. A, title III, §316(b), Dec. 20, 2019, 133 Stat. 1304.)
 
 #### References in Text
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in par. (1), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in par.\(1), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2019</b>—Par. (2). Pub. L. 116–92 designated existing provisions as subpar. (A) and added subpar. (B).
 
 <b>2011</b>—Par. (2). Pub. L. 111–383 inserted " 'pollutant or contaminant'," after " 'person',".
 
 <b>2002</b>—Pub. L. 107–314, §313(c)(1), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 Pub. L. 107–314, §313(a)(1), renumbered section 2707 of this title as this section.
+
+#### Savings Clause
+
+Pub. L. 116–92, div. A, title III, §316(d), Dec. 20, 2019, 133 Stat. 1304, provided that: "Nothing in this section \[amending this section and sections 2701 and 2707 of this title\], or the amendments made by this section, shall affect any requirement or authority under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.)."
 

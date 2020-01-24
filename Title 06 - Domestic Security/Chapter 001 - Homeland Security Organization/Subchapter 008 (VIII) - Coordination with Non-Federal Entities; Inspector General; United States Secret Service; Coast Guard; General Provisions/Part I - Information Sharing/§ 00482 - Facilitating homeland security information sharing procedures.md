@@ -8,7 +8,7 @@
 
 &emsp;(B) identify and safeguard homeland security information that is sensitive but unclassified; and
 
-&emsp;(C) to the extent such information is in classified form, determine whether, how, and to what extent to remove classified information, as appropriate, and with which such personnel it may be shared after such information is removed.
+&emsp;(C) to the extent such information is in classified form, determine whether, how, and to what extent to remove classified information, as appropriate, and with which such personnelit may be shared after such information is removed.
 
 (2) The President shall ensure that such procedures apply to all agencies of the Federal Government.
 
@@ -74,7 +74,7 @@
 
 &emsp;(iv) understanding the mission and roles of the intelligence community to promote more effective information sharing among Federal, State, and local officials and representatives of the private sector to prevent terrorist attacks against the United States.
 
-(B) The officials referred to in subparagraph (A) are officials of State and local government agencies and representatives of private sector entities with responsibilities relating to the oversight and management of first responders, counterterrorism activities, or critical infrastructure.
+(B) The officials referred to in subparagraph (A) are officials of State and local governmentagencies and representatives of private sector entities with responsibilities relating to the oversight and management of first responders, counterterrorism activities, or critical infrastructure.
 
 (C) The Secretary shall consult with the Attorney General to ensure that the training program established in subparagraph (A) does not duplicate the training program established in section 908 of the USA PATRIOT Act (Public Law 107–56; 28 U.S.C. 509 note).
 
@@ -142,7 +142,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 Ex. Ord. No. 13311, July 29, 2003, 68 F.R. 45149, as amended by Ex. Ord. No. 13388, §8(a), Oct. 25, 2005, 70 F.R. 62025, provided:
 
-By the authority vested in me by the Constitution and the laws of the United States, including sections892 and 893 of the Homeland Security Act of 2002 (the "Act") (6 U.S.C. 482 and 483) and section 301 of title 3, United States Code, it is hereby ordered as follows:
+By the authority vested in me by the Constitution and the laws of the United States, including sections 892 and 893 of the Homeland Security Act of 2002 (the "Act") (6 U.S.C. 482 and 483) and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Assignment of Functions</i>. (a) The functions of the President under section 892 of the Act are assigned to the Secretary of Homeland Security (the "Secretary"), except the functions of the President under subsections 892(a)(2) and 892(b)(7).
 

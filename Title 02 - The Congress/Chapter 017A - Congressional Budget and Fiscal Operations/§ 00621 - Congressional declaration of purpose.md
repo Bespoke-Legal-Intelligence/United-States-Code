@@ -32,7 +32,7 @@ Pub. L. 97–108, §1, Dec. 23, 1981, 95 Stat. 1510, provided: "That this Act \[
 
 #### Short Title
 
-Pub. L. 93–344, §1(a), July 12, 1974, 88 Stat. 297, as amended by Pub. L. 104–130, §4(a), Apr. 9, 1996, 110 Stat. 1211, provided that: "This Act \[enacting chapters 17, 17A and 17B, and section 190a–3 of this title, and sections 11a, 11c, 11d, and 1020a of former Title 31, amending section 105 of Title 1, General Provisions, sections 190b and 190d of this title, and sections 11, 665, 701, 1020, and 1151, 1152, 1153, and 1154 of former Title 31, repealing sections 66 and 81 of this title, and sections 571 and 581c–1 of former Title 31, and enacting provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, General Provisions, and 1020 of former Title 31\] may be cited as the 'Congressional Budget and Impoundment Control Act of 1974'. Titles I through IX may be cited as the 'Congressional Budget Act of 1974', and title X \[enacting chapter 17B of this title\] may be cited as the 'Impoundment Control Act of 1974'."
+Pub. L. 93–344, §1(a), July 12, 1974, 88 Stat. 297, as amended by Pub. L. 104–130, §4(a), Apr. 9, 1996, 110 Stat. 1211, provided that: "This Act \[enacting chapters 17, 17A and 17B, and section 190a–3 of this title, and sections 11a, 11c, 11d, and 1020a of former Title 31, amending section 105 of Title 1, General Provisions, sections 190b and 190d of this title, and sections 11, 665, 701, 1020, and 1151, 1152, 1153, and 1154 of former Title 31, repealing sections 66 and 81 of this title, and sections 571 and 581c–1 of former Title 31, and enacting provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, General Provisions, and 1020 of former Title 31\] may be cited as the 'Congressional Budget and Impoundment Control Act of 1974'. Titles I through IX may be cited as the 'CongressionalBudget Act of 1974', and title X \[enacting chapter 17B of this title\] may be cited as the 'Impoundment Control Act of 1974'."
 
 \[Amendment of section 1(a) of Pub. L. 93–344, set out above, by Pub. L. 104–130 was reversed pursuant to section 5 of Pub. L. 104–130, set out as an Effective and Termination Dates note under section 691 of this title.\]
 
@@ -80,7 +80,7 @@ Confidentiality of Relevant Information.—
 
 &emsp;"(3) Any officer or employee of the Department of the Treasury shall be subject to the penalties set forth in section 1906 of title 18, United States Code, if—
 
-&emsp;&emsp;"(A) by virtue of his or her employment or official position, he or she has possession of or accessto any book, record, or information made available under and determined to be confidential under this section; and
+&emsp;&emsp;"(A) by virtue of his or her employment or official position, he or she has possession of or access to any book, record, or information made available under and determined to be confidential under this section; and
 
 &emsp;&emsp;"(B) he or she discloses the material in any manner other than—
 

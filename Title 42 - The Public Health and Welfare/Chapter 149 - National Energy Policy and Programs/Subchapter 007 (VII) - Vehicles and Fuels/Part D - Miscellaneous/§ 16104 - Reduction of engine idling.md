@@ -100,7 +100,7 @@ In this section:
 
 #### (iii) Cost sharing
 
-&emsp;&emsp;&emsp;Subject to clause (iv), the Administrator shall require at least 50 percent of thecosts directly and specifically related to any project under this section to be provided from non-Federal sources.
+&emsp;&emsp;&emsp;Subject to clause (iv), the Administrator shall require at least 50 percent of the costs directly and specifically related to any project under this section to be provided from non-Federal sources.
 
 #### (iv) Necessary and appropriate reductions
 

@@ -82,5 +82,5 @@ Pub. L. 102–556, title IV, §403(c), Oct. 28, 1992, 106 Stat. 4195, provided t
 
 #### Minimum Performance Standards; Home Electronic Equipment and Systems Manufactured Before September 13, 1982
 
-Pub. L. 97–259, title I, §108(b), Sept. 13, 1982, 96 Stat. 1092, provided that: "Any minimum performance standard established by the Federal Communications Commission under section 302(a)(2) of the Communications Act of 1934 \[subsec. (a)(2) of this section\], as added by the amendment made in subsection (a)(1), shall not apply to any home electronic equipment or systems manufactured before the date of the enactment of this Act \[Sept. 13, 1982\]."
+Pub. L. 97–259, title I, §108(b), Sept. 13, 1982, 96 Stat. 1092, provided that: "Any minimum performance standard established by the Federal Communications Commission under section 302(a)(2) of the Communications Act of 1934 \[subsec. (a)(2) of this section\], as added by the amendment made in subsection (a)(1), shall not apply to any home electronic equipment or systemsmanufactured before the date of the enactment of this Act \[Sept. 13, 1982\]."
 

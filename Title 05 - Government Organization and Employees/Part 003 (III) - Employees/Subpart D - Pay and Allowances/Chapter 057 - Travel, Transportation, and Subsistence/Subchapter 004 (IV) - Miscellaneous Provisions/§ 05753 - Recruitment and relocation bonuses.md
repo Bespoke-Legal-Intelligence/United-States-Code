@@ -58,7 +58,7 @@
 
 (4) Under regulations of the Office, a recruitment bonus under this section may be paid to an eligible individual before that individual enters on duty.
 
-(e) The Office may authorize the head of an agency to waive the limitation under subsection (d)(1) based on a critical agency need, subject to regulations prescribed by the Office. Under such a waiver, the maximum bonus allowable shall—
+(e) The Office may authorize the head of an agency to waive the limitation under subsection\(d)(1) based on a critical agency need, subject to regulations prescribed by the Office. Under such a waiver, the maximum bonus allowable shall—
 
 &emsp;(1) be equal to the maximum that would be determined if subsection (d)(1) were applied by substituting "50" for "25"; but
 

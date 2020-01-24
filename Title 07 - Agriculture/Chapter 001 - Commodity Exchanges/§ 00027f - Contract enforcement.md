@@ -8,7 +8,7 @@ No hybrid instrument shall be void, voidable, or unenforceable, and no party to 
 
 Sections 27 to 27f of this title shall supersede and preempt the application of any State or local law that prohibits or regulates gaming or the operation of bucket shops (other than antifraud provisions of general applicability) in the case of a hybrid instrument that is predominantly a banking product.
 
-(Pub. L. 106–554, §1(a)(5) \[title IV, §408\], Dec. 21, 2000, 114 Stat. 2763, 2763A–461; Pub. L. 111–203,title VII, §725(g)(1)(C), July 21, 2010, 124 Stat. 1694.)
+(Pub. L. 106–554, §1(a)(5) \[title IV, §408\], Dec. 21, 2000, 114 Stat. 2763, 2763A–461; Pub. L. 111–203, title VII, §725(g)(1)(C), July 21, 2010, 124 Stat. 1694.)
 
 #### References in Text
 

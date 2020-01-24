@@ -6,7 +6,7 @@ This chapter may be cited as the "Securities Exchange Act of 1934."
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "This Act" meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: "Title I—Regulation of Securities Exchanges" and "Title II—Amendments to Securities Act of 1933." This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78d–5, 78e to 78l, 78m, 78m–1, 78n to 78o, 78o–3, 78o–4, 78o–5 to 78o–7, 78o–10 to 78u–6, 78v to 78dd–1, 78ee to 78hh, 78mm, 78pp, and 78qq of this title. Sections 78kk, 78ll, 78nn, and 78oo of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b, 77c, 77d, 77e, 77j, 77k, 77m, 77o, and 77s of this title, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original "This Act" meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: "Title I—Regulation of Securities Exchanges" and "Title II—Amendments to Securities Act of 1933." This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78d–5, 78e to 78l, 78m, 78m–1, 78n to 78o, 78o–3, 78o–4, 78o–5 to 78o–7, 78o–10 to 78u–6, 78v to 78dd–1, 78ee to 78hh, 78mm, 78pp, and 78qq of this title. Sections 78kk, 78ll, 78nn, and 78oo of this title, which were directed to beadded at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b, 77c, 77d, 77e, 77j, 77k, 77m, 77o, and 77s of this title, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Short Title of 2018 Amendment
 
@@ -14,7 +14,7 @@ Pub. L. 115–141, div. S, title IX, §901, Mar. 23, 2018, 132 Stat. 1143, provi
 
 #### Short Title of 2016 Amendment
 
-Pub. L. 114–284, §1, Dec. 16, 2016, 130 Stat. 1447, provided that: "This Act \[enacting section 78qq of this title and amending sections 78d and 80c–1 of this title\]may be cited as the 'SEC Small Business Advocate Act of 2016'."
+Pub. L. 114–284, §1, Dec. 16, 2016, 130 Stat. 1447, provided that: "This Act \[enacting section 78qq of this title and amending sections 78d and 80c–1 of this title\] may be cited as the 'SEC Small Business Advocate Act of 2016'."
 
 #### Short Title of 2012 Amendment
 
@@ -66,7 +66,7 @@ Pub. L. 103–325, title II, §201, Sept. 23, 1994, 108 Stat. 2198, provided tha
 
 Pub. L. 103–202, §1(a), Dec. 17, 1993, 107 Stat. 2344, provided that: "This Act \[enacting section 3130 of Title 31, Money and Finance, amending sections 78c, 78f, 78n, 78o, 78o–3, 78o–5, 78s, and 78w of this title, and enacting provisions set out as notes under this section, sections 78f, 78n, and 78o–5 of this title, and section 3121 of Title 31\] may be cited as the 'Government Securities Act Amendments of 1993'."
 
-Pub. L. 103–202, title III, §301, Dec. 17, 1993, 107 Stat. 2359, provided that: "This title \[amending sections 78f, 78n, and 78o–3 of this title and enacting provisions set out as notes under sections 78f and 78n of this title\] may be cited as the 'Limited Partnership Rollup Reform Act of 1993'."
+Pub. L. 103–202, title III, §301, Dec. 17, 1993, 107 Stat. 2359, provided that: "This title \[amending sections 78f,78n, and 78o–3 of this title and enacting provisions set out as notes under sections 78f and 78n of this title\] may be cited as the 'Limited Partnership Rollup Reform Act of 1993'."
 
 #### Short Title of 1990 Amendments
 
@@ -140,7 +140,7 @@ Pub. L. 105–353, §2, Nov. 3, 1998, 112 Stat. 3227, provided that: "The Congre
 
 &emsp;"(4) State securities regulation is of continuing importance, together with Federal regulation of securities, to protect investors and promote strong financial markets; and
 
-&emsp;"(5) in order to prevent certain State private securities class action lawsuits alleging fraud from beingused to frustrate the objectives of the Private Securities Litigation Reform Act of 1995, it is appropriate to enact national standards for securities class action lawsuits involving nationally traded securities, while preserving the appropriate enforcement powers of State securities regulators and not changing the current treatment of individual lawsuits."
+&emsp;"(5) in order to prevent certain State private securities class action lawsuits alleging fraud from being used to frustrate the objectives of the Private Securities Litigation Reform Act of 1995, it is appropriate to enact national standards for securities class action lawsuits involving nationally traded securities, while preserving the appropriate enforcement powers of State securities regulators and not changing the current treatment of individual lawsuits."
 
 #### Purposes of 1996 Amendment
 

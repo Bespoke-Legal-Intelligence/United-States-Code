@@ -28,7 +28,7 @@ In this part, the following definitions apply:
 
 &emsp;&emsp;&emsp;(ii) in the case of a tract—
 
-&emsp;&emsp;&emsp;&emsp;(I) that is located within a metropolitan area, 50 percent or more of the households in that census tract have an income equal to less than 60 percent of the area median gross income; or
+&emsp;&emsp;&emsp;&emsp;(I) that is located within a metropolitan area, 50 percent or more of thehouseholds in that census tract have an income equal to less than 60 percent of the area median gross income; or
 
 &emsp;&emsp;&emsp;&emsp;(II) that is not located within a metropolitan area, the median household income for such tract does not exceed 80 percent of the statewide median household income; or
 
@@ -36,7 +36,7 @@ In this part, the following definitions apply:
 
 &emsp;&emsp;(B) any area located within—
 
-&emsp;&emsp;&emsp;(i) a HUBZone (as defined in section 632(p) of this title and the implementing regulations issued under that section);
+&emsp;&emsp;&emsp;(i) a HUBZone (as defined in section 632(p) <sup>2</sup> of this title and the implementing regulations issued under that section);
 
 &emsp;&emsp;&emsp;(ii) an urban empowerment zone or urban enterprise community (as designated by the Secretary of Housing and Urban Development); or
 
@@ -74,11 +74,17 @@ In this part, the following definitions apply:
 
 #### (8) State
 
-&emsp;The term "State" means such <sup>2</sup> of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
+&emsp;The term "State" means such <sup>3</sup> of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
 
 (Pub. L. 85–699, title III, §351, as added Pub. L. 106–554, §1(a)(8) \[§1(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–653.)
 
+#### References in Text
+
+Section 632(p) of this title, referred to in par. (3)(B)(i), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, §1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
+
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "each".</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "each".</i>
 

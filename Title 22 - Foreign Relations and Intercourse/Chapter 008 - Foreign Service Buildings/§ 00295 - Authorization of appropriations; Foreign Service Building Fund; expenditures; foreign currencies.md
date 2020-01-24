@@ -2,7 +2,7 @@
 
 (a) For the purpose of carrying into effect the provisions of this chapter there is authorized to be appropriated an amount not exceeding $10,000,000, and the appropriations made pursuant to this authorization shall constitute a fund to be known as the Foreign Service Building Fund, to remain available until expended. Under this authorization not more than $2,000,000 shall be appropriated for any one year, but within the total authorization provided in this chapter the Secretary of State may enter into contracts for the acquisition of the buildings and grounds authorized by this chapter. In the case of the buildings and grounds authorized by this chapter, after the initial alterations, repairs, and furnishing have been completed, subsequent expenditures for such purposes may be made out of the appropriations authorized by this chapter in amounts authorized by the Congress each fiscal year.
 
-(b) For the purpose of carrying into effect the provisions of this chapter there is authorized to be appropriated, in addition to amounts previously authorized, an amount not to exceed $90,000,000, which shall be available exclusively for payments representing the value, in whole or in part, of property or credits in accordance with the provisions of section 295b <sup>1</sup> of this title.Sums appropriated pursuant to this authorization shall remain available until expended.
+(b) For the purpose of carrying into effect the provisions of this chapter there is authorized to be appropriated, in addition to amounts previously authorized, an amount not to exceed $90,000,000, which shall be available exclusively for payments representing the value, in whole or in part, of property or credits in accordance with the provisions of section 295b <sup>1</sup> of this title. Sums appropriated pursuant to this authorization shall remain available until expended.
 
 (c) For the purpose of carrying into effect the provisions of this chapter there is hereby authorized to be appropriated, in addition to amounts previously authorized, an amount not to exceed $10,000,000, which shall remain available until expended.
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) for use in Africa, not to exceed $7,140,000 of which not to exceed $3,270,000 may be appropriated for the fiscal year 1964;
 
-&emsp;&emsp;(B) for use in the American Republics, not to exceed $5,360,000, of which not to exceed $4,030,000 may be appropriated for the fiscal year 1964;
+&emsp;&emsp;(B) for use in the American Republics, not to exceed $5,360,000, of which not to exceed$4,030,000 may be appropriated for the fiscal year 1964;
 
 &emsp;&emsp;(C) for use in Europe, not to exceed $6,839,000, of which not to exceed $1,820,000 may be appropriated for the fiscal year 1964;
 
@@ -84,7 +84,7 @@
 
 &emsp;(2) for use to carry out the other purposes of this chapter for fiscal years 1976 and 1977, $73,058,000, of which not to exceed $32,840,000 may be appropriated for fiscal year 1976.
 
-(i)(1) Sums appropriated under authority of this chapter shall remain available until expended. To the maximum extent feasible, expenditures under this chapter shall be made out of foreign currencies owned by or owed to the United States.
+(i)(1) Sums appropriated under authority of this chapter shall remain available until expended. To the maximum extent feasible, expenditures under this chapter shall be made outof foreign currencies owned by or owed to the United States.
 
 (2) Not to exceed 10 per centum of the funds authorized by any subparagraph under paragraph (1) of subsections (d), (f), (g), and (h) of this section may be used for any of the purposes for which funds are authorized under any other subparagraph of any of such paragraph (1).
 

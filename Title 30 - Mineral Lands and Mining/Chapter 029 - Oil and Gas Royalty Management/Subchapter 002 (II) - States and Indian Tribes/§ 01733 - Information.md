@@ -4,7 +4,7 @@
 
 Trade secrets, proprietary and other confidential information shall be made available by the Secretary, pursuant to a cooperative agreement, to a State or Indian tribe upon request only if—
 
-&emsp;(1) such State or Indian tribe consents in writing to restrict the dissemination of the information to those who are directly involved in an audit or investigation under this chapter and who have a need to know;
+&emsp;(1) such State or Indian tribe consents in writing to restrict the dissemination of the information to those who are directly involvedin an audit or investigation under this chapter and who have a need to know;
 
 &emsp;(2) such State or tribe accepts liability for wrongful disclosure;
 

@@ -6,7 +6,7 @@ Presidential Declaration.—The President may, in the President's discretion, de
 
 (b)
 
-Reservation of Land.—The President may reserve parcels of land as a part of the nationalmonuments. The limits of the parcels shall be confined to the smallest area compatible with the proper care and management of the objects to be protected.
+Reservation of Land.—The President may reserve parcels of land as a part of the national monuments. The limits of the parcels shall be confined to the smallest area compatible with the proper care and management of the objects to be protected.
 
 (c)
 
@@ -72,7 +72,7 @@ Bandelier National Monument, New Mexico.—Proc. No. 1322, Feb. 11, 1916, 39 Sta
 
 Basin and Range National Monument, Nevada.—Proc. No. 9297, July 10, 2015, 80 F.R. 41969.
 
-Bears Ears National Monument, Utah.—Proc. No. 9558, Dec. 28, 2016, 82 F.R. 1139; Ex. Ord. No. 13811, §1(dd), Sept. 29, 2017, 82 F.R. 46364; Proc. No. 9681, Dec. 4, 2017, 82 F.R. 58081.
+Bears Ears National Monument, Utah.—Proc. No. 9558, Dec. 28, 2016, 82 F.R. 1139; Ex. Ord. No. 13811, §1(dd), Sept. 29, 2017, 82 F.R. 46364; Proc. No. 9681, Dec. 4, 2017, 82 F.R. 58081; Ex. Ord. No. 13889, §1(aa), Sept. 27, 2019, 84 F.R. 52744.
 
 Becharof National Monument, Alaska.—Proc. No. 4613, Dec. 1, 1978, 93 Stat. 1450.
 
@@ -214,7 +214,7 @@ Glacier Bay National Monument, Alaska \[Monument redesignated Glacier Bay Nation
 
 c27; Proc. No. 4618, Dec. 1, 1978, 93 Stat. 1458.
 
-Gold Butte National Monument, Nevada.—Proc. No. 9559, Dec. 28, 2016, 82 F.R. 1149; Ex. Ord. No. 13811, §1(ee), Sept. 29, 2017, 82 F.R. 46364.
+Gold Butte National Monument, Nevada.—Proc. No. 9559, Dec. 28, 2016, 82 F.R. 1149; Ex. Ord. No. 13811, §1(ee), Sept. 29, 2017, 82 F.R. 46364; Ex. Ord. No. 13889, §1(bb), Sept. 27, 2019, 84 F.R. 52744.
 
 Governors Island National Monument, New York.—Proc. No. 7402, Jan. 19, 2001, 66 F.R. 7855; Proc. No. 7647, Feb. 7, 2003, 68 F.R. 7053.
 
@@ -224,7 +224,7 @@ Grand Canyon National Monument, Arizona.—Proc. No. 794, Jan. 11, 1908, 35 Stat
 
 Grand Canyon-Parashant National Monument, Arizona.—Proc. No. 7265, Jan. 11, 2000, 65 F.R. 2825.
 
-Grand Staircase-Escalante National Monument, Utah.—Proc. No. 6920, Sept. 18, 1996, 110 Stat. 4561; Pub. L. 105–335, Oct. 31, 1998, 112 Stat. 3139; Pub. L. 105–355, title II, §201, Nov. 6, 1998, 112 Stat. 3252; Pub. L. 106–176, title III, §307, Mar. 10, 2000, 114 Stat. 33; Proc. No. 9682, Dec. 4, 2017, 82 F.R. 58089.
+Grand Staircase-Escalante National Monument, Utah.—Proc. No. 6920, Sept. 18, 1996, 110 Stat. 4561; Pub. L. 105–335, Oct. 31, 1998, 112 Stat. 3139; Pub. L. 105–355, title II, §201, Nov. 6, 1998, 112 Stat. 3252; Pub. L. 106–176, title III, §307, Mar. 10, 2000, 114 Stat. 33; Proc. No. 9682, Dec. 4, 2017, 82 F.R. 58089; Ex. Ord. No. 13889, §1(cc), Sept. 27, 2019, 84 F.R. 52744.
 
 Great Sand Dunes National Monument, Colorado \[Monument abolished and incorporated in Great Sand Dunes National Park, see section 410hhh–2 of Title 16, Conservation\].—Proc. No. 1994, Mar. 17, 1932, 47 Stat. 2506; Proc. No. 2681, Mar. 12, 1946, 60 Stat. 1339; Proc. No. 3138, June 7, 1956, 70 Stat.
 
@@ -236,7 +236,7 @@ Harriet Tubman—Underground Railroad National Monument, Maryland.—Proc. No. 8
 
 Holy Cross National Monument, Colorado \[Monument abolished by act Aug. 3, 1950, ch. 530, 64 Stat. 404\].—Proc. No. 1877, May 11, 1929, 46 Stat. 2993.
 
-Honouliuli National Monument, Hawaii.—Proc. No. 9234, Feb. 24, 2015, 80 F.R. 11069.
+Honouliuli National Monument, Hawaii \[Monument abolished by Pub. L. 116–9, title II, §2206(d), Mar. 12, 2019, 133 Stat. 741\].—Proc. No. 9234, Feb. 24, 2015, 80 F.R. 11069.
 
 Hovenweep National Monument, Colorado-Utah.—Proc. No. 1654, Mar. 2, 1923, 42 Stat. 2299; Proc. No. 2924, Apr. 26, 1951, 65 Stat.
 
@@ -312,13 +312,13 @@ Northeast Canyons and Seamounts Marine National Monument, Atlantic Ocean.—Proc
 
 Northwestern Hawaiian Islands Marine National Monument, Hawaii \[Monument redesignated Papahānaumokuākea Marine National Monument by Proc. No. 8112, Feb. 28, 2007, 72 F.R. 10031\].—Proc. No. 8031, June 15, 2006, 71 F.R. 36443.
 
-Ocmulgee National Monument, Georgia \[see section 447a of Title 16, Conservation\].—Proc. No. 2212, Dec. 23, 1936, 50 Stat. 1798; Proc. No. 2493, June 13, 1941, 55 Stat. 1654; Pub. L. 102–67, July 9, 1991, 105 Stat. 325.
+Ocmulgee National Monument, Georgia \[Monument redesignated Ocmulgee Mounds National Historical Park, see section 410yyy–3(b)(1) of Title 16, Conservation\].—Proc. No. 2212, Dec. 23, 1936, 50 Stat. 1798; Proc. No. 2493, June 13, 1941, 55 Stat. 1654; Pub. L. 102–67, July 9, 1991, 105 Stat. 325.
 
 Old Kasaan National Monument, Alaska \[Monument abolished and incorporated in Tongass National Forest by act July 26, 1955, ch. 387, 69 Stat. 380\].—Proc. No. 1351, Oct. 25, 1916, 39 Stat. 1812.
 
 Oregon Caves National Monument, Oregon \[Monument and land designated as National Preserve to be administered as single unit of National Park System and designated as Oregon Caves National Monument and Preserve, see section 410vvv of Title 16, Conservation\].—Proc. No. 876, July 12, 1909, 36 Stat. 2497.
 
-Organ Mountains-Desert Peaks National Monument, New Mexico.—Proc. No. 9131, May 21, 2014, 79 F.R. 30431.
+Organ Mountains-Desert Peaks National Monument, New Mexico.—Proc. No. 9131, May 21, 2014, 79 F.R. 30431; Pub. L. 116–9, title I, §1201(a), (d), Mar. 12, 2019, 133 Stat. 642, 649.
 
 Organ Pipe Cactus National Monument, Arizona.—Proc. No. 2232, Apr. 13, 1937, 50 Stat. 1827; Pub. L. 108–64, July 29, 2003, 117 Stat. 874.
 
@@ -348,7 +348,7 @@ Pullman National Monument, Illinois.—Proc. No. 9233, Feb. 19, 2015, 80 F.R. 10
 
 Rainbow Bridge National Monument, Utah.—Proc. No. 1043, May 30, 1910, 36 Stat. 2703.
 
-Reconstruction Era National Monument, South Carolina.—Proc. No. 9567, Jan. 12, 2017, 82 F.R. 6167.
+Reconstruction Era National Monument, South Carolina \[Monument redesignated Reconstruction Era National Historical Park, see section 410bbbb(b)(1) of Title 16, Conservation\].—Proc. No. 9567, Jan. 12, 2017, 82 F.R. 6167.
 
 Río Grande del Norte National Monument, New Mexico.—Proc. No. 8946, Mar. 25, 2013, 78 F.R. 18783.
 
@@ -360,7 +360,7 @@ Saguaro National Monument, Arizona \[Monument abolished and incorporated in Sagu
 
 San Gabriel Mountains National Monument, California.—Proc. No. 9194, Oct. 10, 2014, 79 F.R. 62303.
 
-San Juan Islands National Monument, Washington.—Proc. No. 8947, Mar. 25, 2013, 78 F.R. 18789; Ex. Ord. No. 13708, §1(nn), Sept. 30, 2015, 80 F.R. 60272; Ex. Ord. No. 13811, §1(cc), Sept. 29, 2017, 82 F.R. 46364.
+San Juan Islands National Monument, Washington.—Proc. No. 8947, Mar. 25, 2013, 78 F.R. 18789; Ex. Ord. No. 13708, §1(nn), Sept. 30, 2015, 80 F.R. 60272; Ex. Ord. No. 13811, §1(cc), Sept. 29, 2017, 82 F.R. 46364; Ex. Ord. No. 13889, §1(z), Sept. 27, 2019, 84 F.R. 52744.
 
 Sand to Snow National Monument, California.—Proc. No. 9396, Feb. 12, 2016, 81 F.R. 8379.
 
@@ -410,9 +410,9 @@ Wheeler National Monument, Colorado \[Monument abolished by act Aug. 3, 1950, ch
 
 White Sands National Monument, New Mexico.—Proc. No. 2025, Jan. 18, 1933, 47 Stat. 2551; Proc. No. 2108, Nov. 28, 1934, 49 Stat. 3426; Proc. No. 2295, Aug. 29, 1938, 53 Stat. 2465; Proc. No. 3024, June 24, 1953, 67 Stat.
 
-c53; Pub. L. 104–201, div. B, title XXVIII, §2854, Sept. 23, 1996, 110 Stat. 2803.
+c53; Pub. L. 104–201, div. B, title XXVIII, §2854, Sept. 23, 1996, 110 Stat. 2803, repealed by Pub. L. 116–92, div. B, title XXVIII, §2851(c)(2)(C), Dec. 20, 2019, 133 Stat. 1897.
 
-World War II Valor In the Pacific National Monument, Alaska, California, and Hawaii.—Proc. No. 8327, Dec. 5, 2008, 73 F.R. 75293; Pub. L. 115–170, May 7, 2018, 132 Stat. 1286.
+World War II Valor In the Pacific National Monument, Alaska, California, and Hawaii \[Monument redesignated Pearl Harbor National Memorial, Tule Lake National Monument, and Aleutian Islands World War II National Monument by Pub. L. 116–9, title II, §2206(a)–(c), Mar. 12, 2019, 133 Stat. 740, 741\].—Proc. No. 8327, Dec. 5, 2008, 73 F.R. 75293; Pub. L. 115–170, May 7, 2018, 132 Stat. 1286.
 
 Wrangell-St. Elias National Monument, Alaska.—Proc. No. 4625, Dec. 1, 1978, 93 Stat. 1470.
 
@@ -432,13 +432,17 @@ Miscellaneous National Monuments
 
 Agate Fossil Beds National Monument, Nebraska.—Pub. L. 89–33, June 5, 1965, 79 Stat. 123.
 
+Aleutian Islands World War II National Monument, Alaska.—Pub. L. 116–9, title II, §2206(c), Mar. 12, 2019, 133 Stat. 741.
+
 Alibates Flint Quarries National Monument, Texas.—Pub. L. 89–154, Aug. 31, 1965, 79 Stat. 587. Name changed from Alibates Flint Quarries and Texas Panhandle Pueblo Culture National Monument by Pub. L. 95–625, title III, §321(c), Nov. 10, 1978, 92 Stat. 3488.
+
+Camp Nelson Heritage National Monument, Kentucky.—Pub. L. 116–9, title II, §2303, Mar. 12, 2019, 133 Stat. 745.
 
 Congaree Swamp National Monument, South Carolina \[Monument redesignated Congaree National Park, see section 410jjj of Title 16, Conservation\].
 
 El Malpais National Monument, New Mexico.—Pub. L. 100–225, title I, §§101–104, Dec. 31, 1987, 101 Stat. 1539 (16 U.S.C. 460uu et seq.).
 
-Florissant Fossil Beds National Monument, Colorado.—Pub. L. 91–60, Aug. 20, 1969, 83 Stat. 101.
+Florissant Fossil Beds National Monument, Colorado.—Pub. L. 91–60, Aug. 20, 1969, 83 Stat. 101; Pub. L. 116–9, title II, §2106, Mar. 12, 2019, 133 Stat. 726.
 
 Fossil Butte National Monument, Wyoming.—Pub. L. 92–537, Oct. 23, 1972, 86 Stat. 1069.
 
@@ -448,9 +452,15 @@ Hohokam Pima National Monument, Arizona.—Pub. L. 92–525, Oct. 21, 1972, 86 S
 
 John Day Fossil Beds National Monument, Oregon.—Pub. L. 93–486, title I, §101(a)(2), Oct. 26, 1974, 88 Stat. 1461.
 
+Jurassic National Monument, Utah.—Pub. L. 116–9, title I, §1252, Mar. 12, 2019, 133 Stat. 676.
+
 Kill Devil National Monument, North Carolina.—Act Mar. 2, 1927, ch. 251, 44 Stat. 1264. Redesignated Wright Brothers National Memorial, Dec. 1, 1953.
 
 Little Bighorn Battlefield National Monument, Montana.—Pub. L. 102–201, titles I, II, Dec. 10, 1991, 105 Stat. 1631.
+
+Medgar and Myrlie Evers Home National Monument, Mississippi.—Pub. L. 116–9, title II, §2301, Mar. 12, 2019, 133 Stat. 743.
+
+Mill Springs Battlefield National Monument, Kentucky.—Pub. L. 116–9, title II, §2302, Mar. 12, 2019, 133 Stat. 744.
 
 Mount St. Helens National Volcanic Monument, Washington.—Pub. L. 97–243, Aug. 26, 1982, 96 Stat. 301; Pub. L. 105–279, Oct. 23, 1998, 112 Stat. 2690.
 
@@ -466,9 +476,13 @@ Poverty Point National Monument, Louisiana.—Pub. L. 100–560, Oct. 31, 1988, 
 
 Prehistoric Trackways National Monument, New Mexico.—Pub. L. 111–11, title II, §§2101–2105, Mar. 30, 2009, 123 Stat. 1096–1099.
 
+Saint Francis Dam Disaster National Monument, California.—Pub. L. 116–9, title I, §1111, Mar. 12, 2019, 133 Stat. 611.
+
 Salinas Pueblo Missions National Monument, New Mexico.—Pub. L. 96–550, title VI, §601, Dec. 19, 1980, 94 Stat. 3231, as amended by Pub. L. 100–559, title I, §101, Oct. 28, 1988, 102 Stat. 2797.
 
 Santa Rosa and San Jacinto Mountains National Monument, California.—Pub. L. 106–351, Oct. 24, 2000, 114 Stat. 1362; Pub. L. 106–434, §2, Nov. 6, 2000, 114 Stat. 1913; Pub. L. 111–11, title I, §1853, Mar. 30, 2009, 123 Stat. 1068.
+
+Tule Lake National Monument, California.—Pub. L. 116–9, title II, §2206(b), Mar. 12, 2019, 133 Stat. 741.
 
 Tule Springs Fossil Beds National Monument, Nevada.—Pub. L. 113–291, div. B, title XXX, §3092(a), Dec. 19, 2014, 128 Stat. 3861.
 
@@ -479,6 +493,8 @@ National Memorials
 AIDS Memorial Grove National Memorial, California.—Pub. L. 104–333, div. I, title V, §516, Nov. 12, 1996, 110 Stat. 4170.
 
 Arkansas Post National Memorial, Arkansas.—Pub. L. 86–595, July 6, 1960, 74 Stat. 333; Pub. L. 94–578, title II, §201(2), Oct. 21, 1976, 90 Stat. 2733; Pub. L. 105–83, title I, §126, Nov. 14, 1997, 111 Stat. 1567.
+
+Arlington House, The Robert E. Lee Memorial, Virginia.—Act Mar. 4, 1925, ch. 562, 43 Stat. 1356. Made permanent memorial by act June 29, 1955, ch. 223, 69 Stat. 190; Pub. L. 93–333, June 30, 1972, 86 Stat. 401; Pub. L. 116–92, div. B, title XXVIII, §2834(e)(4), Dec. 20, 2019, 133 Stat. 1894.
 
 Astronauts Memorial, John F. Kennedy Space Center, Florida.—Recognized as national memorial to astronauts who die in line of duty by Pub. L. 102–41, May 8, 1991, 105 Stat. 242.
 
@@ -496,7 +512,7 @@ Coronado National Memorial, Arizona.—Acts Aug. 18, 1941, ch. 365, §1, 55 Stat
 
 c18.
 
-Custis-Lee Mansion National Memorial, Virginia.—Act Mar. 4, 1925, ch. 562, 43 Stat. 1356. Made permanent memorial by act June 29, 1955, ch. 223, 69 Stat. 190.
+Custis-Lee Mansion National Memorial, Virginia.—Transferred to and renamed Arlington House, The Robert E. Lee Memorial.
 
 David Berger Memorial, Ohio.—Pub. L. 96–199, title I, §116, Mar. 5, 1980, 94 Stat. 71.
 
@@ -550,11 +566,15 @@ National Veterans Memorial and Museum, Ohio.—Pub. L. 115–186, June 21, 2018,
 
 Patrick Henry National Memorial, Virginia.—Pub. L. 99–296, May 12, 1986, 100 Stat. 429.
 
+Pearl Harbor National Memorial, Hawai'i.—Pub. L. 116–9, title II, §2206(a), Mar. 12, 2019, 133 Stat. 740.
+
 Port Chicago National Memorial, California.—Pub. L. 102–562, title II, Oct. 28, 1992, 106 Stat. 4235; Pub. L. 111–84, div. B, title XXVIII, §2853(a), Oct. 28, 2009, 123 Stat. 2685.
 
 Prisoner of War/Missing in Action National Memorial, California.—Pub. L. 108–454, title VI, §601, Dec. 10, 2004, 118 Stat. 3623.
 
 Richard L. Kohnstamm Memorial Area, Oregon.—Pub. L. 111–11, title I, §1202(b), Mar. 30, 2009, 123 Stat. 1009.
+
+Saint Francis Dam Disaster National Memorial, California. Pub. L. 116–9, title I, §1111, Mar. 12, 2019, 133 Stat. 611.
 
 Seabees of the United States Navy Memorial.—Pub. L. 92–422, Sept. 18, 1972, 86 Stat. 678.
 

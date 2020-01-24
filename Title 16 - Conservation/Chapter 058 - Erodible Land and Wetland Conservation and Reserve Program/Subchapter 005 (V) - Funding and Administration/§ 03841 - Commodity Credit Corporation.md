@@ -72,7 +72,7 @@ Amounts made available by subsection (a) for fiscal years 2014 through 2023 shal
 
 #### (A) In general
 
-&emsp;&emsp;In the delivery of technical assistance under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590a et seq.), theSecretary shall give priority to producers who request technical assistance from the Secretary in order to comply for the first time with the requirements of subchapter II and subchapter III of this chapter as a result of the amendments made by section 2611 of the Agricultural Act of 2014.
+&emsp;&emsp;In the delivery of technical assistance under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590a et seq.), the Secretary shall give priority to producers who request technical assistance from the Secretary in order to comply for the first time with the requirements of subchapter II and subchapter III of this chapter as a result of the amendments made by section 2611 of the Agricultural Act of 2014.
 
 #### (B) Report
 
@@ -214,7 +214,7 @@ Not later than December 15 of each of calendar years 2019 through 2023, the Secr
 
 &emsp;&emsp;(B) payment rates, to the extent practicable, are consistent between the Farm Service Agency and the Natural Resources Conservation Service.
 
-(Pub. L. 99–198, title XII, §1241, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 278; amended Pub. L. 108–7, div. N, title II, §§213, 216(c), Feb. 20, 2003, 117 Stat. 545, 546; Pub. L. 108–11, title II, §2106(a), Apr. 16, 2003, 117 Stat. 590; Pub. L. 108–199, div. H, §101, Jan. 23, 2004, 118 Stat. 434; Pub. L. 108–324, div. B, §101(e), Oct. 13, 2004, 118 Stat. 1235; Pub. L. 108–498, §1(a), Dec. 23, 2004, 118 Stat. 4020; Pub. L. 109–171, title I, §§1202(b), 1203(c), Feb. 8, 2006, 120 Stat. 5, 6; Pub. L. 110–234, title II, §§2701–2705, May 22, 2008, 122 Stat. 1071–1074; Pub. L. 110–246, §4(a), title II, §§2701–2705, June 18, 2008, 122 Stat. 1664, 1799–1802;Pub. L. 112–55, div. A, title VII, §716(d)–(f), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–76, div. A, title VII, §750(b), Jan. 17, 2014, 128 Stat. 42; Pub. L. 113–79, title II, §§2601–2605, Feb. 7, 2014, 128 Stat. 756–759; Pub. L. 115–123, div. F, §60102(b), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title II, §2501, title XII, §12306(g), Dec. 20, 2018, 132 Stat. 4576, 4970.)
+(Pub. L. 99–198, title XII, §1241, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 278; amended Pub. L. 108–7, div. N, title II, §§213, 216(c), Feb. 20, 2003, 117 Stat. 545, 546; Pub. L. 108–11, title II, §2106(a), Apr. 16, 2003, 117 Stat. 590; Pub. L. 108–199, div. H, §101, Jan. 23, 2004, 118 Stat. 434; Pub. L. 108–324, div. B, §101(e), Oct. 13, 2004, 118 Stat. 1235; Pub. L. 108–498, §1(a), Dec. 23, 2004, 118 Stat. 4020; Pub. L. 109–171, title I, §§1202(b), 1203(c), Feb. 8, 2006, 120 Stat. 5, 6; Pub. L. 110–234, title II, §§2701–2705, May 22, 2008, 122 Stat. 1071–1074; Pub. L. 110–246, §4(a), title II, §§2701–2705, June 18, 2008, 122 Stat. 1664, 1799–1802; Pub. L. 112–55, div. A, title VII, §716(d)–(f), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–76, div. A, title VII, §750(b), Jan. 17, 2014, 128 Stat. 42; Pub. L. 113–79, title II, §§2601–2605, Feb. 7, 2014, 128 Stat. 756–759; Pub. L. 115–123, div. F, §60102(b), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title II, §2501, title XII, §12306(g), Dec. 20, 2018, 132 Stat. 4576, 4970.)
 
 #### References in Text
 
@@ -408,7 +408,7 @@ Subsec. (a)(6)(E), (F). Pub. L. 109–171, §1203(c), added subpars. (E) and (F)
 
 Pub. L. 108–199 struck out ", using not more than $3,773,000,000 for the period of fiscal years 2003 through 2013" before period at end.
 
-Subsec. (b). Pub. L. 108–498 added subsec. (b) and struck out heading and text of former subsec. (b), which related to availability of certain CommodityCredit Corporation funds under subsec. (a) for the provision of technical assistance for conservation and conservation security programs.
+Subsec. (b). Pub. L. 108–498 added subsec. (b) and struck out heading and text of former subsec. (b), which related to availability of certain Commodity Credit Corporation funds under subsec. (a) for the provision of technical assistance for conservation and conservation security programs.
 
 <b>2003</b>—Subsec. (a)(3). Pub. L. 108–7, §216(c), inserted ", using not more than $3,773,000,000 for the period of fiscal years 2003 through 2013" before period at end.
 

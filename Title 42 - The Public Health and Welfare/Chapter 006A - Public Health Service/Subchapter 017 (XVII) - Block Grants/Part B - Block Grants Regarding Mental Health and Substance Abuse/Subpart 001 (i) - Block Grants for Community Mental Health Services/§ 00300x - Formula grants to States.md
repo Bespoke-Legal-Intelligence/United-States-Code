@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose described in subsection (b), the Secretary, acting through the Director of the Center for Mental Health Services, shall make an allotment each fiscal year for each State in an amount determined in accordance with section 300x–7 of this title. The Secretary shall make a grant to the State of the allotmentmade for the State for the fiscal year if the State submits to the Secretary an application in accordance with section 300x–6 of this title.
+For the purpose described in subsection (b), the Secretary, acting through the Director of the Center for Mental Health Services, shall make an allotment each fiscal year for each State in an amount determined in accordance with section 300x–7 of this title. The Secretary shall make a grant to the State of the allotment made for the State for the fiscal year if the State submits to the Secretary an application in accordance with section 300x–6 of this title.
 
 #### (b) Purpose of grants
 
@@ -36,5 +36,5 @@ Section 205 of Pub. L. 102–321, as amended by Pub. L. 102–352, §2(c), Aug. 
 
 #### Report on Allotment Formula
 
-Section 707 of Pub. L. 102–321 directed Secretary of Health and Human Services to enter into a contract with National Academy of Sciences, or if such Academy declines, with another public or nonprofit private agency, for purpose of conducting a study or studies concerning statutory formulae under which funds made available under this section and section 300x–21 of this title are allocated among States and territories, specified findings to be made by the study or studies, directed Secretary to ensure that not later than 6 months after July 10, 1992, the study was completed and a report submitted to Committee on Energy and Commerce of House of Representatives and Committee on Labor and Human Resources of Senate, and directed entity preparing the report to consult with Comptroller General with Comptroller General to review the study after its submittal and within three months make appropriate recommendations concerning such report to such committees.
+Section 707 of Pub. L. 102–321 directed Secretary of Health and Human Services to enter into a contract with National Academy of Sciences, or if such Academy declines, with another public or nonprofit private agency, for purpose of conducting a study or studies concerning statutory formulae under which funds made available under this section and section 300x–21 of this title are allocated among States and territories, specified findings to be made by the study or studies, directed Secretary to ensure that not later than 6 months after July 10, 1992, the study was completed and a report submitted to Committee on Energy and Commerceof House of Representatives and Committee on Labor and Human Resources of Senate, and directed entity preparing the report to consult with Comptroller General with Comptroller General to review the study after its submittal and within three months make appropriate recommendations concerning such report to such committees.
 

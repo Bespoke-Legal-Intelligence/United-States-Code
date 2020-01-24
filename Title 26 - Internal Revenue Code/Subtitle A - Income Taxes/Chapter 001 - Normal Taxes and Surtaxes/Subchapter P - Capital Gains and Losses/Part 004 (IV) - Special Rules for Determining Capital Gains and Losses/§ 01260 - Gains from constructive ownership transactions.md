@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (3) Long position under notional principal contract
 
-&emsp;A person shall be treated as holding a long position under a notional principal contract with respect to any financial asset if such person—
+&emsp;A person shall be treated as holding a long position under a notional principal contractwith respect to any financial asset if such person—
 
 &emsp;&emsp;(A) has the right to be paid (or receive credit for) all or substantially all of the investment yield (including appreciation) on such financial asset for a specified period, and
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 For purposes of this section, in the case of any constructive ownership transaction with respect to any financial asset, the term "net underlying long-term capital gain" means the aggregate net capital gain that the taxpayer would have had if—
 
-&emsp;(1) the financial asset had been acquired for fair market value on the date such transactionwas opened and sold for fair market value on the date such transaction was closed, and
+&emsp;(1) the financial asset had been acquired for fair market value on the date such transaction was opened and sold for fair market value on the date such transaction was closed, and
 
 &emsp;(2) only gains and losses that would have resulted from the deemed ownership under paragraph (1) were taken into account.
 

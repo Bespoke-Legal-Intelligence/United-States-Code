@@ -36,7 +36,7 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 &emsp;&emsp;&emsp;(ix) loans shall be paid or amortized in accordance with rules and regulations prescribed by the Board after taking into account the needs or conditions of the borrowers, the amounts and duration of the loans, the interests of the members and the credit unions, and such other factors as the Board deems relevant; <sup>1</sup>
 
-&emsp;&emsp;&emsp;(x) loans must be approved by the credit committee or a loan officer, but no loan may be made to any member if, upon themaking of that loan, the member would be indebted to the Federal credit union upon loans made to him in an aggregate amount which would exceed 10 per centum of the credit union's unimpaired capital and surplus.
+&emsp;&emsp;&emsp;(x) loans must be approved by the credit committee or a loan officer, but no loan may be made to any member if, upon the making of that loan, the member would be indebted to the Federal credit union upon loans made to him in an aggregate amount which would exceed 10 per centum of the credit union's unimpaired capital and surplus.
 
 &emsp;&emsp;(B) A self-replenishing line of credit to a borrower may be established to a stated maximum amount on certain terms and conditions which may be different from the terms and conditions established for another borrower.
 
@@ -96,7 +96,7 @@ Section 77d(5) of title 15, referred to in par. (15)(A), was redesignated sectio
 
 #### Codification
 
-In par. (7), "section 9101(3) of title 31" substituted for "section 101 of the Government Corporation Control Act \[31 U.S.C. 846\]" on authority of Pub. L. 97–258, §4(b),Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In par. (7), "section 9101(3) of title 31" substituted for "section 101 of the Government Corporation Control Act \[31 U.S.C. 846\]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
@@ -188,7 +188,7 @@ Pars. (12) to (14). Pub. L. 95–630, §502(b), substituted "Board" for "Adminis
 
 <b>1977</b>—Par. (5). Pub. L. 95–22, §302(a), among other changes, inserted provisions permitting Federal credit unions to establish lines of credit for their members, to raise the maximum loan maturity for most loans to twelve years, and to make loans secured by a first lien and made for the purchase of a one-to-four-family dwelling for the principal residence of a credit union member.
 
-Par. (6). Pub. L. 95–22, §§302(b), 303(a), redesignated par. (7) as (6) and substituted reference to payments on shares which may be issued at varying dividend ratesand payments on share certificates which may be issued at varying dividend rates and maturities, subject to such terms, rates, and conditions as may be established by the board of directors, within limitations prescribed by the Administrator for reference to payments on shares, share certificates, or share deposits. Former par. (6), relating to the power of Federal credit unions to make loans to its own directors and to its own supervisory credit committee, was struck out.
+Par. (6). Pub. L. 95–22, §§302(b), 303(a), redesignated par. (7) as (6) and substituted reference to payments on shares which may be issued at varying dividend rates and payments on share certificates which may be issued at varying dividend rates and maturities, subject to such terms, rates, and conditions as may be established by the board of directors, within limitations prescribed by the Administrator for reference to payments on shares, share certificates, or share deposits. Former par. (6), relating to the power of Federal credit unions to make loans to its own directors and to its own supervisory credit committee, was struck out.
 
 Par. (7). Pub. L. 95–22, §303(b), redesignated par. (8) as (7) and added subpar. (I). Former par. (7) redesignated (6).
 
@@ -258,7 +258,7 @@ Amendment by section 305(b) of Pub. L. 96–221 effective at close of Mar. 31, 1
 
 Amendment by Pub. L. 96–161 effective Dec. 31, 1979, with that amendment to remain in effect until the close of Mar. 31, 1980, see section 104 of Pub. L. 96–161, formerly set out as a note under section 371a of this title.
 
-Pub. L. 96–153, title III, §323(e), Dec. 21, 1979, 93 Stat. 1120, provided that: "The amendments made by subsections (a) through (d) \[amending this section and sections 1728, 1787, and 1821 of this title\] are not applicable to any claim arising out of the closing of a bank, savings and loan association, or credit union prior to thedate of enactment of this Act \[Dec. 21, 1979\], but shall be applicable to any such claim arising on or after such date."
+Pub. L. 96–153, title III, §323(e), Dec. 21, 1979, 93 Stat. 1120, provided that: "The amendments made by subsections (a) through (d) \[amending this section and sections 1728, 1787, and 1821 of this title\] are not applicable to any claim arising out of the closing of a bank, savings and loan association, or credit union prior to the date of enactment of this Act \[Dec. 21, 1979\], but shall be applicable to any such claim arising on or after such date."
 
 #### Effective Date of 1978 Amendment
 

@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(v) If the property does not pass under clause (i), (ii), (iii), or (iv), to the Indian tribe with jurisdiction over the interests in trust or restricted lands;
 
-> &emsp;&emsp;except that notwithstanding clause (v), an Indian co-owner (including the Indian tribe referred to in clause (v)) of a parcel of trust or restricted land may acquire an interest that would otherwise descend under that clause by paying into the estate of the decedent, before the close of the probate of the estate, the fair market value of the interest in the land; if more than 1 Indian co-owner offers to pay for such interest, the highest bidder shall acquire the interest.
+> &emsp;&emsp;except that notwithstanding clause (v), an Indian co-owner (including the Indian tribereferred to in clause (v)) of a parcel of trust or restricted land may acquire an interest that would otherwise descend under that clause by paying into the estate of the decedent, before the close of the probate of the estate, the fair market value of the interest in the land; if more than 1 Indian co-owner offers to pay for such interest, the highest bidder shall acquire the interest.
 
 #### (C) No Indian tribe
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) the Secretary shall give effect to such agreement in the distribution of the interest in the probate proceeding; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the governing body of the Indian tribe with jurisdiction over an interest in trust or restricted land that is subject to the provisions of this subparagraph may adopt a rule of intestate descent applicable to such interest that differs from the order of descent set forth in clause (iii). The Secretary shall apply such rule to the interest in distributing the decedent's estate, but only if—
+&emsp;&emsp;&emsp;&emsp;(II) the governing body of the Indian tribe with jurisdiction over an interestin trust or restricted land that is subject to the provisions of this subparagraph may adopt a rule of intestate descent applicable to such interest that differs from the order of descent set forth in clause (iii). The Secretary shall apply such rule to the interest in distributing the decedent's estate, but only if—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) a copy of the tribal rule is delivered to the official designated by the Secretary to receive copies of tribal rules for the purposes of this clause;
 
@@ -124,7 +124,7 @@
 
 #### (5) Status of inherited interests
 
-&emsp;Except as provided in paragraphs (2)(A) and (D) regarding the life estate of a surviving spouse, a trust or restricted interest in land or trust personalty that descends under the provisions of this subsection shall vest in the heir in the same trust or restricted status as suchinterest was held immediately prior to the decedent's death.
+&emsp;Except as provided in paragraphs (2)(A) and (D) regarding the life estate of a surviving spouse, a trust or restricted interest in land or trust personalty that descends under the provisions of this subsection shall vest in the heir in the same trust or restricted status as such interest was held immediately prior to the decedent's death.
 
 #### (2) <sup>3</sup> Intestate descent of permanent improvements
 
@@ -172,7 +172,7 @@
 
 #### (B) Rules of interpretation
 
-&emsp;&emsp;Any devise of a trust or restricted interest in land pursuant to subparagraph (A) to an Indian or the Indian tribe with jurisdiction over the interest shall be deemed to be a devise of the interest in trust or restricted status. Any devise of a trust or restricted interest in land to a person who is only eligible to be a devisee under clause (i) or (ii) of subparagraph (A) shall be presumed to be a devise of the interest in trust or restricted status unless language in such devise clearly evidences an intent on the part of the testator that the interest is to pass as a life estate or fee interest in accordance with paragraph (2)(A).
+&emsp;&emsp;Any devise of a trust or restricted interest in land pursuant to subparagraph (A) to an Indian or the Indian tribe with jurisdictionover the interest shall be deemed to be a devise of the interest in trust or restricted status. Any devise of a trust or restricted interest in land to a person who is only eligible to be a devisee under clause (i) or (ii) of subparagraph (A) shall be presumed to be a devise of the interest in trust or restricted status unless language in such devise clearly evidences an intent on the part of the testator that the interest is to pass as a life estate or fee interest in accordance with paragraph (2)(A).
 
 #### (2) Devise of trust or restricted land as a life estate or in fee
 
@@ -208,7 +208,7 @@
 
 #### (III) Notice of request
 
-&emsp;&emsp;&emsp;&emsp;An Indian tribe shall provide to the Secretary a copy of any resolution, law, or other enactment of the Indian tribe that requests the Secretary to apply subparagraph (A)(ii) to devises of trust orrestricted land under the jurisdiction of the Indian tribe.
+&emsp;&emsp;&emsp;&emsp;An Indian tribe shall provide to the Secretary a copy of any resolution, law, or other enactment of the Indian tribe that requests the Secretary to apply subparagraph (A)(ii) to devises of trust or restricted land under the jurisdiction of the Indian tribe.
 
 #### (iii) Effect
 
@@ -246,7 +246,7 @@
 
 #### (1) Presumption of joint tenancy
 
-&emsp;If a testator devises trust or restricted interests in the same parcel of land to more than 1 person, in the absence of clear and express language in the devise stating that the interest is to pass to the devisees as tenants in common, the devise shall be presumed to create a joint tenancy with the right of survivorship in the interests involved.
+&emsp;If a testator devises trust or restricted interests in the same parcel of land to more than 1 person, in the absence of clear and express language in the devise stating that the interest is to pass to the devisees as tenants in common, the devise shall be presumed to create a jointtenancy with the right of survivorship in the interests involved.
 
 #### (2) Exception
 
@@ -340,7 +340,7 @@ The official authorized to adjudicate the probate of trust or restricted lands s
 
 &emsp;&emsp;(A) trust or restricted land located on 1 or more specific Indian reservations that are expressly identified in such law; or
 
-&emsp;&emsp;(B) the allotted land (or any interest relating to such land) of 1 or more specific Indian tribes expressly identified in such law, including any of the Federal laws governing the probate or determination of heirs associated with, or otherwise relating to, the land, interest in land, or other interests or assets that are owned by individuals in—
+&emsp;&emsp;(B) the allotted land (or any interest relating to such land) of 1 or more specific Indiantribes expressly identified in such law, including any of the Federal laws governing the probate or determination of heirs associated with, or otherwise relating to, the land, interest in land, or other interests or assets that are owned by individuals in—
 
 &emsp;&emsp;&emsp;(i) Five Civilized Tribes restricted fee status; or
 
@@ -410,7 +410,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (1) Heir by killing defined
 
-&emsp;As used in this subsection, "heir by killing" means any person who knowingly participates, either as a principal or as an accessory before the fact, in the willful and unlawful killing of the decedent.
+&emsp;As used in this subsection, "heir by killing" means any person who knowingly participates,either as a principal or as an accessory before the fact, in the willful and unlawful killing of the decedent.
 
 #### (2) No acquisition of property by killing
 
@@ -450,7 +450,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (A) In general
 
-&emsp;&emsp;If a person has been charged, whether by indictment, information, or otherwise by theUnited States, a tribe, or any State, with voluntary manslaughter or homicide in connection with a decedent's death, then any and all trust or restricted land or trust personalty that would otherwise pass to that person from the decedent's estate shall not pass or be distributed by the Secretary until the charges have been resolved in accordance with the provisions of this paragraph.
+&emsp;&emsp;If a person has been charged, whether by indictment, information, or otherwise by the United States, a tribe, or any State, with voluntary manslaughter or homicide in connection with a decedent's death, then any and all trust or restricted land or trust personalty that would otherwise pass to that person from the decedent's estate shall not pass or be distributed by the Secretary until the charges have been resolved in accordance with the provisions of this paragraph.
 
 #### (B) Dismissal or withdrawal
 
@@ -566,7 +566,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (5) Advancements of trust personalty during lifetime; effect on distribution of estate
 
-&emsp;(A) The trust personalty of a decedent who dies intestate as to all or a portion of his or her estate, given during the decedent's lifetime to a person eligible to be an heir of the decedent under subsection (b)(2)(B), shall be treated as an advancement against the heir's inheritance, but only if the decedent declared in a contemporaneous writing, or the heir acknowledged in writing, that the gift is an advancement or is to be taken into account in computing the division and distribution of the decedent's intestate estate.
+&emsp;(A) The trust personalty of a decedent who dies intestate as to all or a portion of his orher estate, given during the decedent's lifetime to a person eligible to be an heir of the decedent under subsection (b)(2)(B), shall be treated as an advancement against the heir's inheritance, but only if the decedent declared in a contemporaneous writing, or the heir acknowledged in writing, that the gift is an advancement or is to be taken into account in computing the division and distribution of the decedent's intestate estate.
 
 &emsp;(B) For the purposes of this section, trust personalty advanced during the decedent's lifetime is valued as of the time the heir came into possession or enjoyment of the property or as of the time of the decedent's death, whichever occurs first.
 
@@ -670,7 +670,7 @@ After receiving a written request by any owner of a trust or restricted interest
 
 #### (B) Limitation
 
-&emsp;&emsp;The organization or activities of any entity under the pilot project shall not be construed to impair, impede, replace, abrogate, or modify in any respect the trust duties orresponsibilities of the Secretary, nor shall anything in this subsection or in any rules, regulations, or guidelines developed under this subsection enable any private or family trustee of trust or restricted interests in land to exercise any powers over such interests greater than that held by the Secretary with respect to such interests.
+&emsp;&emsp;The organization or activities of any entity under the pilot project shall not be construed to impair, impede, replace, abrogate, or modify in any respect the trust duties or responsibilities of the Secretary, nor shall anything in this subsection or in any rules, regulations, or guidelines developed under this subsection enable any private or family trustee of trust or restricted interests in land to exercise any powers over such interests greater than that held by the Secretary with respect to such interests.
 
 #### (C) Secretarial approval of transactions
 
@@ -704,7 +704,7 @@ After receiving a written request by any owner of a trust or restricted interest
 
 #### (m) Notice to heirs
 
-Prior to holding a hearing to determine the heirs to trust or restricted property, or making a decision determining such heirs, the Secretary shall seek to provide actual written notice of the proceedings to all heirs. Such efforts shall include—
+Prior to holding a hearing to determine the heirs to trust or restricted property, or making a decision determining such heirs, the Secretary shall seek to provide actual written notice ofthe proceedings to all heirs. Such efforts shall include—
 
 &emsp;(1) a search of publicly available records and Federal records, including telephone and address directories and including electronic search services or directories;
 
@@ -820,7 +820,7 @@ Act of July 8, 1940, referred to in subsec. (j)(2)(B)(ii), is act July 8, 1940, 
 
 #### Prior Provisions
 
-A prior section 2206, Pub. L. 97–459, title II, §207, Jan. 12, 1983, 96 Stat. 2519; Pub. L. 98–608, §1(4), Oct. 30, 1984,98 Stat. 3172; Pub. L. 101–644, title III, §301(a), Nov. 29, 1990, 104 Stat. 4666, related to escheat to tribe of trust or restricted or controlled lands, fractional interests, and Indian tribal codes, prior to repeal by Pub. L. 106–462, title I, §103(4), Nov. 7, 2000, 114 Stat. 1995.
+A prior section 2206, Pub. L. 97–459, title II, §207, Jan. 12, 1983, 96 Stat. 2519; Pub. L. 98–608, §1(4), Oct. 30, 1984, 98 Stat. 3172; Pub. L. 101–644, title III, §301(a), Nov. 29, 1990, 104 Stat. 4666, related to escheat to tribe of trust or restricted or controlled lands, fractional interests, and Indian tribal codes, prior to repeal by Pub. L. 106–462, title I, §103(4), Nov. 7, 2000, 114 Stat. 1995.
 
 #### Amendments
 
@@ -850,7 +850,7 @@ Subsec. (o)(4). Pub. L. 110–453, §207(c)(7)(B), inserted "and" at end of subp
 
 Subsec. (o)(5)(A). Pub. L. 110–453, §207(c)(7)(C)(i)(I), in introductory provisions, inserted "or surviving spouse" after "heir", substituted "paragraph (3)(A)(ii)" for "paragraph (3)(B)", and struck out "auction and" after "required for the".
 
-Subsec. (o)(5)(A)(ii). Pub. L. 110–453, §207(c)(7)(C)(i)(III)(aa), (bb), substituted "sale" for "auction" and ", at the time of death of the applicable decedent, the interest of the decedent in the land represented" for "the interest passing to such heir represents".
+Subsec. (o)(5)(A)(ii). Pub. L. 110–453, §207(c)(7)(C)(i)(III)(aa), (bb), substituted "sale" for"auction" and ", at the time of death of the applicable decedent, the interest of the decedent in the land represented" for "the interest passing to such heir represents".
 
 Subsec. (o)(5)(A)(iii). Pub. L. 110–453, §207(c)(7)(C)(i)(II), (III)(cc), (IV), added cl. (iii).
 
@@ -944,7 +944,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–374 applicable on and after the date that is 1 year after June 20, 2005, except that subsecs. (e) and (f) of this section (as amended by Pub. L. 108–374), subsec. (g) of this section (as in effect on Mar. 1, 2006), and amendment by section 6(a)(4) of Pub. L. 108–374 are applicable as of Oct. 27, 2004, see section 8(b) of Pub. L. 108–374, set out as a Notice; Effective Date of 2004 Amendment note under section 2201 of this title.
+Amendment by Pub. L. 108–374 applicable on and after the date that is 1 year after June 20, 2005, except thatsubsecs. (e) and (f) of this section (as amended by Pub. L. 108–374), subsec. (g) of this section (as in effect on Mar. 1, 2006), and amendment by section 6(a)(4) of Pub. L. 108–374 are applicable as of Oct. 27, 2004, see section 8(b) of Pub. L. 108–374, set out as a Notice; Effective Date of 2004 Amendment note under section 2201 of this title.
 
 #### Judicial Review
 

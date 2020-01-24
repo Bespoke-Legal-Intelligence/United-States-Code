@@ -76,7 +76,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (ii) Conservation reserve enhancement program
 
-&emsp;&emsp;&emsp;The reduction in annual rental payments under clause (i) may be waived as part ofthe negotiation between the Secretary and an eligible partner to enter into a conservation reserve enhancement program agreement under section 3831a of this title.
+&emsp;&emsp;&emsp;The reduction in annual rental payments under clause (i) may be waived as part of the negotiation between the Secretary and an eligible partner to enter into a conservation reserve enhancement program agreement under section 3831a of this title.
 
 #### (C) Grasslands
 
@@ -230,7 +230,7 @@ Subsec. (g)(2). Pub. L. 115–334, §2207(d)(2), added par. (2) and struck out f
 
 Subsec. (b)(3)(A). Pub. L. 113–79, §2005(a), amended subpar. (A) generally. Prior to amendment, text read as follows: "This paragraph applies to—
 
-&emsp;"(i) land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridorsunder a contract entered into under this subpart after November 28, 1990;
+&emsp;"(i) land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors under a contract entered into under this subpart after November 28, 1990;
 
 &emsp;"(ii) land converted to such production under section 3835a of this title; and
 

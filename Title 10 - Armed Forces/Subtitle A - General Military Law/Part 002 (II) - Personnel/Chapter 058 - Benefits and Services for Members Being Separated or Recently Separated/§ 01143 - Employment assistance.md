@@ -42,11 +42,15 @@ Employment Skills Training.—(1) The Secretary of a military department may car
 
 &emsp;(B) is expected to be discharged or released from active duty in the armed forces within 180 days of the date of commencement of participation in such a program.
 
-(3) Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary of Defense.
+(3) Any program under this subsection may be carried out at, through, or in consultation with such other departments or agencies of the Federal Government as the Secretary of the military department concerned considers appropriate.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, §551, Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title X, §1076(f)(13), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §542(a)–(c), Dec. 12, 2017, 131 Stat. 1394, 1395.)
+(4) Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary of Defense.
+
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, §551, Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title X, §1076(f)(13), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §542(a)–(c), Dec. 12, 2017, 131 Stat. 1394, 1395; Pub. L. 116–92, div. A, title V, §562, Dec. 20, 2019, 133 Stat. 1395.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (e)(3), (4). Pub. L. 116–92 added par. (3) and redesignated former par. (3) as (4).
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–91, §542(a), (b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
@@ -96,7 +100,7 @@ Pub. L. 113–291, div. A, title V, §555, Dec. 19, 2014, 128 Stat. 3379, provid
 
 "(a)
 
-Program Authorized.—The Secretary of Defense may conduct the program described in subsection (c) to enhance the efforts of the Department of Defense to provide job placement assistance and related employment services to eligible members of the Armed Forces described in subsection (b) for the purposes of—
+Program Authorized.—The Secretary of Defense may conduct the program described in subsection (c) to enhance the efforts of the Department of Defense toprovide job placement assistance and related employment services to eligible members of the Armed Forces described in subsection (b) for the purposes of—
 
 &emsp;"(1) assisting such members in obtaining post-service employment; and
 
@@ -160,7 +164,7 @@ Comparison with other programs.—The report shall include a comparison of the r
 
 &emsp;"(3)
 
-Appropriate congressional committees defined.—In this section, the term 'appropriate congressional committees' means the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Transportationand Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
+Appropriate congressional committees defined.—In this section, the term 'appropriate congressional committees' means the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 
 "(i)
 
@@ -188,7 +192,7 @@ Pub. L. 103–160, div. A, title XIII, §1337, Nov. 30, 1993, 107 Stat. 1805, au
 
 #### Improved Coordination of Job Training and Placement Programs for Members of Armed Forces
 
-Pub. L. 102–484, div. D, title XLIV, §4461, Oct. 23, 1992, 106 Stat. 2738, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(B), (f)(6)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(b), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(7)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 107–107, div. A, title X, §1048(h)(3), Dec. 28, 2001, 115 Stat. 1229, provided that: "The Secretary of Defense shall consult with the Secretary of Labor, the Secretary of Education, the Secretary of Veterans Affairs, and the Economic Adjustment Committee to improve the coordination of, and eliminate duplication between, the following job training and placement programs available to members of the Armed Forces who are discharged or released from active duty:
+Pub. L. 102–484, div. D, title XLIV, §4461, Oct. 23, 1992, 106 Stat. 2738, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(B), (f)(6)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(b), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(7)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 107–107, div. A, title X, §1048(h)(3), Dec. 28, 2001, 115 Stat. 1229, provided that: "The Secretary of Defense shall consult with the Secretary of Labor, the Secretary of Education, the Secretary of Veterans Affairs, and the Economic Adjustment Committee to improve the coordination of, and eliminate duplication between, the following job training and placement programs available to members of theArmed Forces who are discharged or released from active duty:
 
 &emsp;"(1) Title I of the Workforce Investment Act of 1998 \[former 29 U.S.C. 2801 et seq.\].
 
@@ -244,7 +248,7 @@ Reimbursement.—Upon submission to the Secretary of Defense of a request for re
 
 "(g)
 
-Funding for Fiscal Year 1993.—Of the amount authorized to be appropriated in section 301 \[106 Stat.2360\] for Defense Agencies, $5,000,000 shall be available to provide assistance under this section.
+Funding for Fiscal Year 1993.—Of the amount authorized to be appropriated in section 301 \[106 Stat. 2360\] for Defense Agencies, $5,000,000 shall be available to provide assistance under this section.
 
 "(h)
 
@@ -560,7 +564,7 @@ Department of Labor.—Functions may be administered under subsections (b) and (
 
 Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer on behalf of an eligible person for any period of time described in paragraph (2) and to such eligible person under chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
 
-"(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the eligible person enters into an approved program of jobtraining of an employer for purposes of assistance under this subtitle and ending on the last date for which such assistance is payable.
+"(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the eligible person enters into an approved program of job training of an employer for purposes of assistance under this subtitle and ending on the last date for which such assistance is payable.
 
 "(b)
 
@@ -590,7 +594,7 @@ Case Manager.—(1) The implementing official shall provide for a program under 
 
 &emsp;"(B) the eligible person has an in-person interview with the case manager not later than 60 days after entering into a program of training under this subtitle; and
 
-&emsp;"(C) periodic (not less frequent than monthly) contact is maintained with each such eligible person for the purpose of (i) avoiding unnecessary termination of employment, (ii) referring the eligible person to appropriate counseling, if necessary, (iii) facilitating the eligible person's successful completion of such program, and (iv) following up with the employer and the eligible person in order to determine the eligible person's progress in the program and the outcome regarding the eligible person's participation in and successful completion of the program.
+&emsp;"(C) periodic (not less frequent than monthly) contact is maintained with each such eligible person for the purpose of (i) avoiding unnecessary termination of employment, (ii) referring the eligible person to appropriate counseling, if necessary, (iii) facilitating the eligible person's successful completion of such program, and (iv) following up with the employer and the eligible person in order to determine the eligibleperson's progress in the program and the outcome regarding the eligible person's participation in and successful completion of the program.
 
 "(2) No case manager shall be assigned pursuant to paragraph (1)(A)—
 
@@ -632,7 +636,7 @@ Agency Resources.—(1) The Secretary, the Secretary of Veterans Affairs, and th
 
 "(d)
 
-Small Business.—The implementing official shall request and obtain from the Administrator of the Small Business Administration a list of small businessconcerns and shall, on a regular basis, update such list. Such list shall be used to identify and promote possible training and employment opportunities for eligible persons.
+Small Business.—The implementing official shall request and obtain from the Administrator of the Small Business Administration a list of small business concerns and shall, on a regular basis, update such list. Such list shall be used to identify and promote possible training and employment opportunities for eligible persons.
 
 "(e)
 
@@ -654,7 +658,7 @@ In General.—(1) Of the amounts authorized to be appropriated in section 301 \[
 
 "(b)
 
-Availability of Deobligated Funds.—Notwithstanding any other provision of law, any funds made available pursuant to this section for a fiscal year which are obligated for the purpose of making payments under section 4487 on behalf of an eligible person (including funds so obligated which previously had been obligated for such purpose on behalf of another eligible person and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the implementing official for obligation for such purpose. The further obligation of such funds by such official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
+Availability of Deobligated Funds.—Notwithstanding any other provision of law, any funds made available pursuant to this section for a fiscal year which are obligated for the purpose of making payments under section 4487 on behalf of an eligible person (including funds so obligated which previously had been obligated for such purpose on behalf of another eligible person and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the implementing official for obligation for such purpose. The further obligation of suchfunds by such official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
 
 #### "SEC. 4496. TIME PERIODS FOR APPLICATION AND INITIATION OF TRAINING.
 

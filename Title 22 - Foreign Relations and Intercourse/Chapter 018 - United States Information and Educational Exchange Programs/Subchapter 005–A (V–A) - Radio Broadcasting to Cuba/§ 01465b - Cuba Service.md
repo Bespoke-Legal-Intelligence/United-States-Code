@@ -18,9 +18,13 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 
 Pub. L. 105–277, §1324(4), which directed the amendment of this section by substituting "the International Broadcasting Bureau" for "the Voice of America", was executed by making the substitution for text in two places to reflect the probable intent of Congress.
 
-Pub. L. 105–277, §1324(3), which directed the substitution of "the Broadcasting Board of Governors" for"the Director of the United States Information Agency" each place it appears, was executed by substituting "Broadcasting Board of Governors" for "Director of the United States Information Agency" in two places, to reflect the probable intent of Congress.
+Pub. L. 105–277, §1324(3), which directed the substitution of "the Broadcasting Board of Governors" for "the Director of the United States Information Agency" each place it appears, was executed by substituting "Broadcasting Board of Governors" for "Director of the United States Information Agency" in two places, to reflect the probable intent of Congress.
 
 <b>1994</b>—Pub. L. 103–236 substituted "of the Voice of America" for "and the Associate Director for Broadcasting of the United States Information Agency".
+
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 

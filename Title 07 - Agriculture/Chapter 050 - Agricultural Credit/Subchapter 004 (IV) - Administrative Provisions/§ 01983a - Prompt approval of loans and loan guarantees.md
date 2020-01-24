@@ -40,7 +40,7 @@ If an application for a loan or loan guarantee under this chapter is disapproved
 
 #### (d) Approved lender designation applications; time for decision by Secretary
 
-In carrying out the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations, the Secretary shall ensure that each request of a lending institution for designation as an approved lender under such program is reviewed, and a decision made on the application, not later than 15 days after the Secretary has received a complete application for such designation.
+In carrying out the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations, theSecretary shall ensure that each request of a lending institution for designation as an approved lender under such program is reviewed, and a decision made on the application, not later than 15 days after the Secretary has received a complete application for such designation.
 
 #### (e) Processing loan applications; personnel and other resources made available; use of authorities of law
 
@@ -62,7 +62,7 @@ In carrying out the approved lender program established by exhibit A to subpart 
 
 (2) The Secretary, or a contracting third party, shall annually review under section 2006b of this title the loans of each seasoned loan borrower. If, based on the review, it is determined that a borrower would be able to obtain a loan, guaranteed by the Secretary, from a commercial or cooperative lender at reasonable rates and terms for loans for similar purposes and periods of time, the Secretary shall assist the borrower in applying for the commercial or cooperative loan.
 
-(3) In accordance with section 2006d of this title, the Secretary shall prepare a prospectuson each seasoned direct loan borrower determined eligible to obtain a guaranteed loan. The prospectus shall contain a description of the amounts of loan guarantee and interest assistance that the Secretary will provide to the seasoned direct loan borrower to enable the seasoned direct loan borrower to carry out a financially viable farming plan if a guaranteed loan is made.
+(3) In accordance with section 2006d of this title, the Secretary shall prepare a prospectus on each seasoned direct loan borrower determined eligible to obtain a guaranteed loan. The prospectus shall contain a description of the amounts of loan guarantee and interest assistance that the Secretary will provide to the seasoned direct loan borrower to enable the seasoned direct loan borrower to carry out a financially viable farming plan if a guaranteed loan is made.
 
 (4)
 

@@ -24,7 +24,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;&emsp;(i) scientists of other countries to serve in research capacities in the United States in association with the National Institutes of Health or elsewhere, or opportunities for employees of the National Institutes of Health or other public health officials in the United States to serve in such capacities in other countries, or both;
 
-&emsp;&emsp;&emsp;(ii) the conduct and support of studies, projects, and research, which may includestipends, travel and other support for personnel in collaboration with national and international non-profit and for-profit organizations;
+&emsp;&emsp;&emsp;(ii) the conduct and support of studies, projects, and research, which may include stipends, travel and other support for personnel in collaboration with national and international non-profit and for-profit organizations;
 
 &emsp;&emsp;&emsp;(iii) the conduct and support of forums, meetings, conferences, courses, and training workshops that may include undergraduate, graduate, post-graduate, and post-doctoral accredited courses and the maintenance of accreditation of such courses by the Foundation at the State and national level for college or continuing education credits or for degrees;
 
@@ -38,7 +38,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 #### (2) Fees
 
-&emsp;The Foundation may assess fees for the provision of professional, administrative and management services by the Foundation in amounts determined reasonable and appropriate by the Executive Director.
+&emsp;The Foundation may assess fees for the provision of professional, administrative and management services by the Foundation inamounts determined reasonable and appropriate by the Executive Director.
 
 #### (3) Authority of Foundation
 
@@ -186,7 +186,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (1) Foundation integrity
 
-&emsp;The members of the Board shall be accountable for the integrity of the operations of theFoundation and shall ensure such integrity through the development and enforcement of criteria and procedures relating to standards of conduct, financial disclosure statements, conflict of interest rules, recusal and waiver rules, audits and other matter determined appropriate by the Board.
+&emsp;The members of the Board shall be accountable for the integrity of the operations of the Foundation and shall ensure such integrity through the development and enforcement of criteria and procedures relating to standards of conduct, financial disclosure statements, conflict of interest rules, recusal and waiver rules, audits and other matter determined appropriate by the Board.
 
 #### (2) Financial conflicts of interest
 
@@ -270,7 +270,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (1) Applicability of certain standards to non-Federal employees
 
-&emsp;In the case of any individual who is not an employee of the Federal Government and who serves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, has been executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
+&emsp;In the case of any individual who is not an employee of the Federal Government and whoserves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, has been executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
 
 #### (2) Support services
 
@@ -444,7 +444,7 @@ Subsec. (c)(1)(C)(iii). Pub. L. 102–170, §216(2), substituted "5" for "3".
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

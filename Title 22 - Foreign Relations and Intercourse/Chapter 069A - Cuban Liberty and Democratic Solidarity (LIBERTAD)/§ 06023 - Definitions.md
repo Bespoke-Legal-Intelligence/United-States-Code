@@ -46,7 +46,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;The term "economic embargo of Cuba" refers to—
 
-&emsp;&emsp;(A) the economic embargo (including all restrictions on trade or transactions with, and travel to or from, Cuba, and all restrictions on transactions in property in which Cuba or nationals of Cuba have an interest) that was imposed against Cuba pursuant to section 2370(a) of this title, section 4305(b) of title 50, the Cuban Democracy Act of 1992 (22 U.S.C. 6001 and following), or any other provision of law; and
+&emsp;&emsp;(A) the economic embargo (including all restrictions on trade or transactions with,and travel to or from, Cuba, and all restrictions on transactions in property in which Cuba or nationals of Cuba have an interest) that was imposed against Cuba pursuant to section 2370(a) of this title, section 4305(b) of title 50, the Cuban Democracy Act of 1992 (22 U.S.C. 6001 and following), or any other provision of law; and
 
 &emsp;&emsp;(B) the restrictions imposed by section 902(c) of the Food Security Act of 1985.
 
@@ -112,7 +112,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;&emsp;(A) any United States citizen; or
 
-&emsp;&emsp;(B) any other legal entity which is organized under the laws of the United States, or of any State, the District of Columbia, orany commonwealth, territory, or possession of the United States, and which has its principal place of business in the United States.
+&emsp;&emsp;(B) any other legal entity which is organized under the laws of the United States, or of any State, the District of Columbia, or any commonwealth, territory, or possession of the United States, and which has its principal place of business in the United States.
 
 (Pub. L. 104–114, §4, Mar. 12, 1996, 110 Stat. 789.)
 

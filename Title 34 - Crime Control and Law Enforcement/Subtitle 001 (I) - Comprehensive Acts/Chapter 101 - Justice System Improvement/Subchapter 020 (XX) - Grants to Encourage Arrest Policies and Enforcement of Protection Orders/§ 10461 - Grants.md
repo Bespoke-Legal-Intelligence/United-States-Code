@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this subchapter is to encourage States, Indian tribal governments, State and local courts (including juvenile courts), tribal courts, and units of local government to treat domestic violence, dating violence, sexual assault, and stalking as serious violations of criminal law.
+The purpose of this subchapter is to encourage States, Indian tribal governments, State andlocal courts (including juvenile courts), tribal courts, and units of local government to treat domestic violence, dating violence, sexual assault, and stalking as serious violations of criminal law.
 
 #### (b) Grant authority
 
@@ -28,7 +28,7 @@ The Attorney General may make grants to eligible grantees for the following purp
 
 &emsp;(10) To plan, develop and establish comprehensive victim service and support centers, such as family justice centers, designed to bring together victim advocates from victim service providers, staff from population specific organizations, law enforcement officers, prosecutors, probation officers, governmental victim assistants, forensic medical professionals, civil legal attorneys, chaplains, legal advocates, representatives from community-based organizations and other relevant public or private agencies or organizations into one centralized location, in order to improve safety, access to services, and confidentiality for victims and families. Although funds may be used to support the colocation of project partners under this paragraph, funds may not support construction or major renovation expenses or activities that fall outside of the scope of the other statutory purpose areas.
 
-&emsp;(11) To develop and implement policies and training for police, prosecutors, probation andparole officers, and the judiciary in recognizing, investigating, and prosecuting instances of sexual assault, with an emphasis on recognizing the threat to the community for repeat crime perpetration by such individuals.
+&emsp;(11) To develop and implement policies and training for police, prosecutors, probation and parole officers, and the judiciary in recognizing, investigating, and prosecuting instances of sexual assault, with an emphasis on recognizing the threat to the community for repeat crime perpetration by such individuals.
 
 &emsp;(12) To develop, enhance, and maintain protection order registries.
 
@@ -86,7 +86,7 @@ Eligible grantees are—
 
 #### (d) Speedy notice to victims
 
-A State or unit of local government shall not be entitled to 5 percent of the funds allocatedunder this subchapter unless the State or unit of local government—
+A State or unit of local government shall not be entitled to 5 percent of the funds allocated under this subchapter unless the State or unit of local government—
 
 &emsp;(1) certifies that it has a law, policy, or regulation that requires—
 

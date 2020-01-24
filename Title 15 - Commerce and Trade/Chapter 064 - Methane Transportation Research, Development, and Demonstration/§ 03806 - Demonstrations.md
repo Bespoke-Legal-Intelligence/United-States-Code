@@ -12,7 +12,7 @@ Not later than April 1, 1982, the Secretary shall have promulgated necessary and
 
 &emsp;&emsp;(A) technical assistance reasonably associated with the modification or acquisition of vehicles to be fueled by methane or with dual fuel capacity, the installation of methane transmission, storage and dispensing facilities, and compliance with data acquisition and reporting requirements under this chapter; and
 
-&emsp;&emsp;(B) grants to cover up to 50 per centum of reasonable and necessary costs associatedwith the installation of methane transmission, storage and dispensing facilities: <i>Provided</i>, That the Secretary shall be authorized to direct and require recipients of assistance under this section to enter into cooperative agreements for the planning and use of such facilities with other recipients of assistance under this section, under a cost-sharing agreement where appropriate and economical.
+&emsp;&emsp;(B) grants to cover up to 50 per centum of reasonable and necessary costs associated with the installation of methane transmission, storage and dispensing facilities: <i>Provided</i>, That the Secretary shall be authorized to direct and require recipients of assistance under this section to enter into cooperative agreements for the planning and use of such facilities with other recipients of assistance under this section, under a cost-sharing agreement where appropriate and economical.
 
 &emsp;(2)(A) In the case of private entities, the Secretary is authorized to provide—
 

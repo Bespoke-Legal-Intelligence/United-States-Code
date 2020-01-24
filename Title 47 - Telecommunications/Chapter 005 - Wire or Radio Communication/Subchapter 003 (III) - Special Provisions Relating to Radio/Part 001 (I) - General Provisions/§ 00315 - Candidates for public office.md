@@ -28,7 +28,7 @@ If any licensee shall permit any person who is a legally qualified candidate for
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a candidate for Federal office, such candidate shall not be entitled toreceive the rate under paragraph (1)(A) for the use of any broadcasting station unless the candidate provides written certification to the broadcast station that the candidate (and any authorized committee of the candidate) shall not make any direct reference to another candidate for the same office, in any broadcast using the rights and conditions of access under this chapter, unless such reference meets the requirements of subparagraph (C) or (D).
+&emsp;&emsp;In the case of a candidate for Federal office, such candidate shall not be entitled to receive the rate under paragraph (1)(A) for the use of any broadcasting station unless the candidate provides written certification to the broadcast station that the candidate (and any authorized committee of the candidate) shall not make any direct reference to another candidate for the same office, in any broadcast using the rights and conditions of access under this chapter, unless such reference meets the requirements of subparagraph (C) or (D).
 
 #### (B) Limitation on charges
 
@@ -102,7 +102,7 @@ The Commission shall prescribe appropriate rules and regulations to carry out th
 
 #### (3) Time to maintain file
 
-&emsp;The information required under this subsection shall be placed in a political file as soon as possible and shall be retained by the licensee for a period of not less than 2 years.
+&emsp;The information required under this subsection shall be placed in a political file assoon as possible and shall be retained by the licensee for a period of not less than 2 years.
 
 (June 19, 1934, ch. 652, title III, §315, 48 Stat. 1088; July 16, 1952, ch. 879, §11, 66 Stat. 717; Pub. L. 86–274, §1, Sept. 14, 1959, 73 Stat. 557; Pub. L. 92–225, title I, §§103(a)(1), (2)(B), 104(c), Feb. 7, 1972, 86 Stat. 4, 7; Pub. L. 93–443, title IV, §402, Oct. 15, 1974, 88 Stat. 1291; Pub. L. 107–155, title III, §305(a), (b), title V, §504, Mar. 27, 2002, 116 Stat. 100, 101, 115.)
 
@@ -112,7 +112,7 @@ This chapter, referred to in subsecs. (a) and (b)(2)(A), was in the original "th
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–155, §305(a), (b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1),inserted "subject to paragraph (2)," before "during the forty-five days" in par. (1)(A), and added par. (2).
+<b>2002</b>—Subsec. (b). Pub. L. 107–155, §305(a), (b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted "subject to paragraph (2)," before "during the forty-five days" in par. (1)(A), and added par. (2).
 
 Subsec. (e). Pub. L. 107–155, §504, which directed addition of subsec. (e) and redesignation of former subsecs. (e) and (f) as (f) and (g), respectively, was executed by adding subsec. (e) to reflect the probable intent of Congress. Section did not contain subsecs. (e) and (f).
 

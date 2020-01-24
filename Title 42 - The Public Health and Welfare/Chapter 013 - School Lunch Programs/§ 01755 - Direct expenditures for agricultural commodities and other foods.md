@@ -40,7 +40,7 @@ Beginning with the school year ending June 30, 1981, the Secretary shall not off
 
 &emsp;(A) commodity assistance provided under this section, including cash in lieu of commodities and administrative costs for procurement of commodities under this section; or
 
-&emsp;(B) during the period beginning October 1, 2003, and ending September 30, 2020, commodities provided by the Secretary under any provision of law.
+&emsp;(B) during the period beginning October 1, 2003, and ending September 30, 2018, commodities provided by the Secretary under any provision of law.
 
 (2) If amounts available to carry out the requirements of the sections described in paragraph (1) are insufficient to meet the requirement contained in paragraph (1) for a school year, the Secretary shall, to the extent necessary, use the authority provided under section 1762a(a) of this title to meet the requirement for the school year.
 
@@ -102,7 +102,7 @@ Beginning with the school year ending June 30, 1981, the Secretary shall not off
 
 &emsp;&emsp;&emsp;(ii) the benefit provided by those procurements in conducting school food service in the State, including meeting school meal requirements.
 
-(June 4, 1946, ch. 281, §6, 60 Stat. 231; Pub. L. 87–823, §3(b), Oct. 15, 1962, 76 Stat. 945; Pub. L. 90–302, §2(a), May 8, 1968, 82 Stat. 117; Pub. L. 91–248, §3, May 14, 1970, 84 Stat. 209; Pub. L. 93–13, §2, Mar. 30, 1973, 87 Stat. 10; Pub. L. 93–150, §5, Nov. 7, 1973, 87 Stat. 562; Pub. L. 93–326, §3, June 30, 1974, 88 Stat. 286; Pub. L. 94–105, §§4, 11, Oct. 7, 1975, 89 Stat. 511, 515; Pub. L. 95–166, §§5, 7, 10(1), 19(a), Nov. 10, 1977, 91 Stat. 1334–1336, 1345; Pub. L. 95–627, §§5(b), 12(a), Nov. 10, 1978, 92 Stat. 3619, 3625; Pub. L. 96–499, title II, §202(b), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§802, 819(h), Aug. 13, 1981, 95 Stat. 524, 533; Pub. L. 99–500, title III, §§321, 371(c)(2), Oct. 18, 1986, 100 Stat. 1783–360, 1783–369, and Pub. L. 99–591, title III, §§321, 371(c)(2), Oct. 30, 1986, 100 Stat. 3341–364, 3341–372; Pub. L. 99–661, div. D, title II, §4201, title V, §4501(c)(2), Nov. 14, 1986, 100 Stat. 4071, 4080; Pub. L. 100–237, §3(j), Jan. 8, 1988, 101 Stat. 1738; Pub. L. 101–147, title I, §131(a), title III, §302, Nov. 10, 1989, 103 Stat. 906, 913; Pub. L. 103–448, title I, §§101–103, Nov. 2, 1994, 108 Stat. 4700, 4701; Pub. L. 105–336, title I, §101(a), Oct. 31, 1998, 112 Stat. 3144; Pub. L. 106–170, title IV, §411, Dec. 17, 1999, 113 Stat. 1917; Pub. L. 106–224, title II, §241(b), June 20, 2000, 114 Stat. 410; Pub. L. 107–171, title IV, §4301(a), May 13, 2002, 116 Stat. 330; Pub. L. 111–80, title VII, §749(a), Oct. 21, 2009, 123 Stat. 2131; Pub. L. 111–296, title IV, §401, Dec. 13, 2010, 124 Stat. 3259;Pub. L. 113–79, title IV, §4202, Feb. 7, 2014, 128 Stat. 821.)
+(June 4, 1946, ch. 281, §6, 60 Stat. 231; Pub. L. 87–823, §3(b), Oct. 15, 1962, 76 Stat. 945; Pub. L. 90–302, §2(a), May 8, 1968, 82 Stat. 117; Pub. L. 91–248, §3, May 14, 1970, 84 Stat. 209; Pub. L. 93–13, §2, Mar. 30, 1973, 87 Stat. 10; Pub. L. 93–150, §5, Nov. 7, 1973, 87 Stat. 562; Pub. L. 93–326, §3, June 30, 1974, 88 Stat. 286; Pub. L. 94–105, §§4, 11, Oct. 7, 1975, 89 Stat. 511, 515; Pub. L. 95–166, §§5, 7, 10(1), 19(a), Nov. 10, 1977, 91 Stat. 1334–1336, 1345; Pub. L. 95–627, §§5(b), 12(a), Nov. 10, 1978, 92 Stat. 3619, 3625; Pub. L. 96–499, title II, §202(b), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§802, 819(h), Aug. 13, 1981, 95 Stat. 524, 533; Pub. L. 99–500, title III, §§321, 371(c)(2), Oct. 18, 1986, 100 Stat. 1783–360, 1783–369, and Pub. L. 99–591, title III, §§321, 371(c)(2), Oct. 30, 1986, 100 Stat. 3341–364, 3341–372; Pub. L. 99–661, div. D, title II, §4201, title V, §4501(c)(2), Nov. 14, 1986, 100 Stat. 4071, 4080; Pub. L. 100–237, §3(j), Jan. 8, 1988, 101 Stat. 1738; Pub. L. 101–147, title I, §131(a), title III, §302, Nov. 10, 1989, 103 Stat. 906, 913; Pub. L. 103–448, title I, §§101–103, Nov. 2, 1994, 108 Stat. 4700, 4701; Pub. L. 105–336, title I, §101(a), Oct. 31, 1998, 112 Stat. 3144; Pub. L. 106–170, title IV, §411, Dec. 17, 1999, 113 Stat. 1917; Pub. L. 106–224, title II, §241(b), June 20, 2000, 114 Stat. 410; Pub. L. 107–171, title IV, §4301(a), May 13, 2002, 116 Stat. 330; Pub. L. 111–80, title VII, §749(a), Oct. 21, 2009, 123 Stat. 2131; Pub. L. 111–296, title IV, §401, Dec. 13, 2010, 124 Stat. 3259;Pub. L. 113–79, title IV, §4202, Feb. 7, 2014, 128 Stat. 821; Pub. L. 116–6, div. B, title VII, §775, Feb. 15, 2019, 133 Stat. 90.)
 
 #### References in Text
 
@@ -115,6 +115,8 @@ Subsection (c), referred to in subsec. (b), was repealed and subsec. (e) was red
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (e)(1)(B). Pub. L. 116–6 substituted "September 30, 2018" for "September 30, 2020".
 
 <b>2014</b>—Subsec. (f). Pub. L. 113–79 added subsec. (f).
 
@@ -164,7 +166,7 @@ Pub. L. 95–627, §12(a), which provided for inserting "(which may include dome
 
 Subsec. (b). Pub. L. 95–166, §5, in revising subsec. (b), changed commodity distribution program to a school year from a fiscal year basis, and among other changes, extended deadline for estimated valuation and payment to May 15 and June 15 from February 15 and March 15, and struck out provision respecting apportionment among State educational agencies on basis of meals served in all the States during the fiscal year and specific reference to regulations of the Department of Agriculture under title 7, subtitle (b), chapter II, subchapter (a), parts 210 and 220.
 
-Subsec. (e). Pub. L. 95–166, §19(a), substituted "school years" and "school year after June 30, 1975" for "fiscalyears" and "fiscal year after June 30, 1975", respectively.
+Subsec. (e). Pub. L. 95–166, §19(a), substituted "school years" and "school year after June 30, 1975" for "fiscal years" and "fiscal year after June 30, 1975", respectively.
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–105, §11(a), inserted provision prohibiting issuance of specifications in purchase of agricultural commodities and other foods unless such specifications result in significant advantages to the authorized food service programs.
 
@@ -232,7 +234,7 @@ Pub. L. 96–499, title II, §202(a), Dec. 5, 1980, 94 Stat. 2600, provided that
 
 #### Congressional Findings and Declaration of Purpose
 
-Pub. L. 93–13, §1, Mar. 30, 1973, 87 Stat. 9, provided that: "The Congress finds that the volume and variety of Federal food donations to the school lunch and child nutrition programs are significantly below the amounts programed and budgeted for the fiscal year ending June 30, 1973, and that schools participating in these programs are confronted with serious financial problems in obtaining sufficient supplies of the foods required to meet the nutritional standards established by law for these programs. It is, therefore, the purpose of this Act \[amending this section\] to provide an effective and immediate solution to this nutritional crisis."
+Pub. L. 93–13, §1, Mar. 30, 1973, 87 Stat. 9, provided that: "The Congress finds that the volume and variety of Federal food donations to the school lunch and child nutrition programs are significantly below the amounts programed and budgeted for the fiscal year ending June 30, 1973, and that schools participating in these programs are confronted with serious financial problems in obtaining sufficient supplies of the foods required to meet the nutritional standards establishedby law for these programs. It is, therefore, the purpose of this Act \[amending this section\] to provide an effective and immediate solution to this nutritional crisis."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

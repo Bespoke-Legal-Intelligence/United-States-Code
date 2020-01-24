@@ -4,9 +4,9 @@
 
 For each quarter beginning after September 30, 1980, each State which has a plan approved under this part shall be entitled to a payment equal to the sum of—
 
-&emsp;(1) subject to section 672(j) of this title, an amount equal to the Federal medical assistance percentage (which shall be as defined in section 1396d(b) of this title, in the case of a State other than the District of Columbia, or 70 percent, in the case of the District of Columbia) of the total amount expended during such quarter as foster care maintenance payments under section 672 of this title for children in foster family homes or child-care institutions (or, with respect to such payments made during such quarter under a cooperative agreement or contract entered into by the State and an Indian tribe, tribal organization, or tribal consortium for the administration or payment of funds under this part, an amount equal to the Federal medical assistance percentage that would apply under section 679c(d) of this title (in this paragraph referred to as the "tribal FMAP") if such Indian tribe, tribal organization, or tribal consortium made such payments under a program operated under that section, unless the tribal FMAP is less than the Federal medical assistance percentage that applies to the State); plus
+&emsp;(1) subject to subsections (j) and (k) of section 672 of this title, an amount equal to the Federal medical assistance percentage (which shall be as defined in section 1396d(b) of this title, in the case of a State other than the District of Columbia, or 70 percent, in the case of the District of Columbia) of the total amount expended during such quarter as foster care maintenance payments under section 672 of this title for children in foster family homes or child-care institutions (or, with respect to such payments made during such quarter under a cooperative agreement or contract entered into by the State and an Indian tribe, tribal organization, or tribal consortium for the administration or payment of funds under this part, an amount equal to the Federal medical assistance percentage that would apply under section 679c(d) of this title (in this paragraph referred to as the "tribal FMAP") if such Indian tribe, tribal organization, or tribal consortium made such payments under a program operated under that section, unless the tribal FMAP is less than the Federal medical assistance percentage that applies to the State); plus
 
-&emsp;(2) an amount equal to the Federal medical assistance percentage (which shall be as defined in section 1396d(b) of this title, in thecase of a State other than the District of Columbia, or 70 percent, in the case of the District of Columbia) of the total amount expended during such quarter as adoption assistance payments under section 673 of this title pursuant to adoption assistance agreements (or, with respect to such payments made during such quarter under a cooperative agreement or contract entered into by the State and an Indian tribe, tribal organization, or tribal consortium for the administration or payment of funds under this part, an amount equal to the Federal medical assistance percentage that would apply under section 679c(d) of this title (in this paragraph referred to as the "tribal FMAP") if such Indian tribe, tribal organization, or tribal consortium made such payments under a program operated under that section, unless the tribal FMAP is less than the Federal medical assistance percentage that applies to the State); plus
+&emsp;(2) an amount equal to the Federal medical assistance percentage (which shall be as defined in section 1396d(b) of this title, in the case of a State other than the District of Columbia, or 70 percent, in the case of the District of Columbia) of the total amount expended during such quarter as adoption assistance payments under section 673 of this title pursuant to adoption assistance agreements (or, with respect to such payments made during such quarter under a cooperative agreement or contract entered into by the State and an Indian tribe, tribal organization, or tribal consortium for the administration or payment of funds under this part, an amount equal to the Federal medical assistance percentage that would apply under section 679c(d) of this title (in this paragraph referred to as the "tribal FMAP") if such Indian tribe, tribal organization, or tribal consortium made such payments under a program operated under that section, unless the tribal FMAP is less than the Federal medical assistance percentage that applies to the State); plus
 
 &emsp;(3) subject to section 672(i) of this title an amount equal to the sum of the following proportions of the total amounts expended during such quarter as found necessary by the Secretary for the provision of child placement services and for the proper and efficient administration of the State plan—
 
@@ -46,7 +46,7 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 &emsp;&emsp;&emsp;(i) subject to clause (ii)—
 
-&emsp;&emsp;&emsp;&emsp;(I) beginning after September 30, 2019, and before October 1, 2026, an amount equal to 50 percent of the total amount expended during the quarter for the provision of services or programs specified in subparagraph (A) or (B) of section 671(e)(1) of this title that are provided in accordance with promising, supported, or well-supported practices that meet the applicable criteria specified for the practices in section 671(e)(4)(C) of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) beginning after September 30, 2019, and before October 1, 2026, an amount equal to 50 percent of the total amount expended during the quarter for the provision of services or programs specified in subparagraph (A) or (B) of section 671(e)(1) of this title that are provided in accordance with promising, supported, orwell-supported practices that meet the applicable criteria specified for the practices in section 671(e)(4)(C) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) beginning after September 30, 2026, an amount equal to the Federal medical assistance percentage (which shall be as defined in section 1396d(b) of this title, in the case of a State other than the District of Columbia, or 70 percent, in the case of the District of Columbia) of the total amount expended during the quarter for the provision of services or programs specified in subparagraph (A) or (B) of section 671(e)(1) of this title that are provided in accordance with promising, supported, or well-supported practices that meet the applicable criteria specified for the practices in section 671(e)(4)(C) of this title (or, with respect to the payments made during the quarter under a cooperative agreement or contract entered into by the State and an Indian tribe, tribal organization, or tribal consortium for the administration or payment of funds under this part, an amount equal to the Federal medical assistance percentage that would apply under section 679c(d) of this title (in this paragraph referred to as the "tribal FMAP") if the Indian tribe, tribal organization, or tribal consortium made the payments under a program operated under that section, unless the tribal FMAP is less than the Federal medical assistance percentage that applies to the State); except that
 
@@ -70,7 +70,7 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 (4)(A) Within 60 days after receipt of a State claim for expenditures pursuant to subsection (a), the Secretary shall allow, disallow, or defer such claim.
 
-(B) Within 15 days after a decision to defer such a State claim, the Secretary shall notify the State of the reasons for the deferral and of the additional information necessary to determine the allowability of the claim.
+(B) Within 15 days after a decision to defer such a State claim, the Secretary shall notifythe State of the reasons for the deferral and of the additional information necessary to determine the allowability of the claim.
 
 (C) Within 90 days after receiving such necessary information (in readily reviewable form), the Secretary shall—
 
@@ -126,13 +126,9 @@ From amounts appropriated pursuant to section 677(h)(2) of this title, the Secre
 
 #### (g) Continued services under waiver
 
-For purposes of this part, after the termination of a demonstration project relating to guardianship conducted by a State under section 1320a–9 of this title, the expenditures of the State for the provision, to children who, as of September 30, 2008, were receiving assistance orservices under the project, of the same assistance and services under the same terms and conditions that applied during the conduct of the project, are deemed to be expenditures under the State plan approved under this part.
+For purposes of this part, after the termination of a demonstration project relating to guardianship conducted by a State under section1320a–9 of this title, the expenditures of the State for the provision, to children who, as of September 30, 2008, were receiving assistance or services under the project, of the same assistance and services under the same terms and conditions that applied during the conduct of the project, are deemed to be expenditures under the State plan approved under this part.
 
 (Aug. 14, 1935, ch. 531, title IV, §474, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 506; amended Pub. L. 96–611, §3, Dec. 28, 1980, 94 Stat. 3567; Pub. L. 98–369, div. B, title VI, §2663(c)(18), July 18, 1984, 98 Stat. 1167; Pub. L. 98–617, §4(a), (b), Nov. 8, 1984, 98 Stat. 3296, 3297; Pub. L. 99–272, title XII, §§12306(a), (b), 12307(c), Apr. 7, 1986, 100 Stat. 294, 296; Pub. L. 99–514, title XVIII, §1883(b)(9), Oct. 22, 1986, 100 Stat. 2917; Pub. L. 100–203, title IX, §9132(a), Dec. 22, 1987, 101 Stat. 1330–313; Pub. L. 101–239, title VIII, §§8001(a), 8002(c), 8006(a), title X, §§10401(a), 10402(a), 10403(c)(1), Dec. 19, 1989, 103 Stat. 2452, 2453, 2461, 2487, 2488; Pub. L. 101–508, title V, §5071(a), Nov. 5, 1990, 104 Stat. 1388–233; Pub. L. 103–66, title XIII, §13713(a)(1), (2), (b)(1), Aug. 10, 1993, 107 Stat. 656, 657; Pub. L. 103–432, title II, §§207(a), (b), 210(a), Oct. 31, 1994, 108 Stat. 4457, 4460; Pub. L. 104–188, title I, §1808(b), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 105–89, title II, §202(b), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–200, title III, §301(b), (c), title IV, §410(g), July 16, 1998, 112 Stat. 658, 674; Pub. L. 106–169, title I, §101(c), Dec. 14, 1999, 113 Stat. 1828; Pub. L. 107–133, title II, §201(f), Jan. 17, 2002, 115 Stat. 2424; Pub. L. 108–145, §4, Dec. 2, 2003, 117 Stat. 1881; Pub. L. 109–171, title VII, §7403(b), Feb. 8, 2006, 120 Stat. 151; Pub. L. 110–275, title III, §302(a), July 15, 2008, 122 Stat. 2594; Pub. L. 110–351, title I, §101(c)(3), (d), title II, §203(a), title III, §301(c)(2), Oct. 7, 2008, 122 Stat. 3952, 3953, 3959, 3970; Pub. L. 115–123, div. E, title VII, §§50711(c), 50712(b), 50713, 50741(a)(2), Feb. 9, 2018, 132 Stat. 240, 245, 255.)
-
-#### Amendment of Subsection (a)(1)
-
-<i>Pub. L. 115–123, div. E, title VII, §§50741(a)(2), 50746, Feb. 9, 2018, 132 Stat. 255, 261, provided that, effective Oct. 1, 2019, with State option to delay effective date for not more than 2 years and subject to State waiver provisions, subsection (a)(1) of this section is amended by striking "section 672(j) of this title" and inserting "subsections (j) and (k) of section 672 of this title". See 2018 Amendment note below.</i>
 
 #### References in Text
 
@@ -298,6 +294,10 @@ Subsec. (d)(1). Pub. L. 98–369, §2663(c)(18)(C), substituted "and (C) such" f
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–611 added subsec. (d).
 
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–94, div. N, title I, §602(g), Dec. 20, 2019, 133 Stat. 3123, provided that: "This section \[enacting provisions set out as notes under this section and section 1305 of this title, and amending provisions set out as a note under section 1305 of this title\] and the amendments made by this section shall take effect as if included in the Bipartisan Budget Act of 2018 \[Pub. L. 115–123\] on the date of the enactment of such Act \[Feb. 9, 2018\]."
+
 #### Effective Date of 2018 Amendment
 
 Amendment by sections 50711(c), 50712(b), and 50713 of Pub. L. 115–123 effective Oct. 1, 2018, subject to transition rules for required State legislation or tribal action, see section 50734 of Pub. L. 115–123, set out as a note under section 622 of this title.
@@ -373,6 +373,18 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 #### Construction of 2008 Amendment
 
 For construction of amendment by section 301(c)(2) of Pub. L. 110–351, see section 301(d) of Pub. L. 110–351, set out as a note under section 671 of this title.
+
+#### Evidence Standard Transition
+
+Pub. L. 116–94, div. N, title I, §602(b), Dec. 20, 2019, 133 Stat. 3120, provided that:
+
+"(1)
+
+Temporary suspension of requirement that at least 50 percent of a state's reimbursement for prevention and family services and programs be for programs and services that meet the well-supported practice requirement.—With respect to quarters in fiscal years 2020 and 2021, section 474(a)(6)(A) of the Social Security Act (42 U.S.C. 674(a)(6)(A)) shall be applied without regard to clause (ii) of such section.
+
+"(2)
+
+Supported practices temporarily treated as well-supported practices.—With respect to quarters in fiscal years 2022 and 2023, practices that meet the criteria specified for supported practices in section 471(e)(4)(C) of the Social Security Act (42 U.S.C. 671(e)(4)(C)) shall be considered well-supported practices for purposes of section 474(a)(6)(A)(ii) of such Act (42 U.S.C. 674(a)(6)(A)(ii))."
 
 #### Phase-in
 

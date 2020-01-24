@@ -72,7 +72,7 @@
 
 #### (4) Designation of existing organization
 
-&emsp;The Secretary may designate an existing nonprofit organization as an Associationunder this subsection if the organization is organized to meet the purposes of this section and consists of at least the individuals listed in paragraph (2).
+&emsp;The Secretary may designate an existing nonprofit organization as an Association under this subsection if the organization is organized to meet the purposes of this section and consists of at least the individuals listed in paragraph (2).
 
 #### (d) Regional Citizens' Advisory Councils
 
@@ -164,7 +164,7 @@
 
 &emsp;&emsp;(C) monitor those aspects of terminal facilities' and crude oil tankers' operations and maintenance which affect or may affect the environment in the vicinity of the terminal facilities;
 
-&emsp;&emsp;(D) review through the committee established under subsection (f), the adequacy ofoil spill prevention and contingency plans for the terminal facilities and the adequacy of oil spill prevention and contingency plans for crude oil tankers, operating in Prince William Sound or in Cook Inlet;
+&emsp;&emsp;(D) review through the committee established under subsection (f), the adequacy of oil spill prevention and contingency plans for the terminal facilities and the adequacy of oil spill prevention and contingency plans for crude oil tankers, operating in Prince William Sound or in Cook Inlet;
 
 &emsp;&emsp;(E) provide advice and recommendations to the Association on port operations, policies and practices;
 
@@ -256,7 +256,7 @@ Appointments, designations, and selections of individuals to serve as members of
 
 #### (2) Compensation
 
-&emsp;No member of an Association or Council shall be compensated for the member's services as a member of the Association or Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, at a rate established by the Association or Council not to exceed the rates authorized for employees of agencies under sections 5702 and 5703 of title 5. However, each Council may enter into contracts to provide compensation and expenses to members of the committees created under subsections (d), (e), and (f).
+&emsp;No member of an Association or Council shall be compensated for the member's services as a member of the Association or Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, at a rate established by the Association or Council not to exceed the rates authorized for employees of agencies under sections 5702 and 5703 oftitle 5. However, each Council may enter into contracts to provide compensation and expenses to members of the committees created under subsections (d), (e), and (f).
 
 #### (k) Funding
 

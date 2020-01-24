@@ -6,7 +6,7 @@ Establishment.—There is established in the Treasury the Land and Water Conserv
 
 (b)
 
-Deposits.—During the period ending September 30, 2018, there shall be deposited in the Fund the following revenues and collections:
+Deposits.—There shall be deposited in the Fund the following revenues and collections:
 
 &emsp;(1) All proceeds (except so much thereof as may be otherwise obligated, credited, or paid under authority of the provisions of law set forth in section 572(a) or 574(a) to (c) of title 40 or under authority of any appropriation Act that appropriates an amount, to be derived from proceeds from the transfer of excess property and the disposal of surplus property, for necessary expenses, not otherwise provided for, incident to the utilization and disposal of excess and surplus property) received from any disposal of surplus real property and related personal property under chapter 5 of title 40, notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury. Nothing in this chapter shall affect existing laws or regulations concerning disposal of real or personal surplus property to schools, hospitals, and States and their political subdivisions.
 
@@ -18,17 +18,17 @@ Authorization of Appropriations.—
 
 &emsp;(1)
 
-In general.—In addition to the sum of the revenues and collections estimated by the Secretary to be deposited in the Fund pursuant to this section, there are authorized to be appropriated annually to the Fund out of any money in the Treasury not otherwise appropriated such amounts as are necessary to make the income of the Fund not less than $900,000,000 for each fiscal year through September 30, 2018.
+In general.—In addition to the sum of the revenues and collections estimated by the Secretary to be deposited in the Fund pursuant to this section, there are authorized to be appropriated annually to the Fund out of any money in the Treasury not otherwise appropriated such amounts as are necessary to make the income of the Fund not less than $900,000,000 for each fiscal year.
 
 &emsp;(2)
 
-Receipts under outer continental shelf lands act.—To the extent thatamounts appropriated under paragraph (1) are not sufficient to make the total annual income of the Fund equivalent to the amounts provided in paragraph (1), an amount sufficient to cover the remainder shall be credited to the Fund from revenues due and payable to the United States for deposit in the Treasury as miscellaneous receipts under the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.).
+Receipts under outer continental shelf lands act.—To the extent that amounts appropriated under paragraph (1) are not sufficient to make the total annual income of the Fund equivalent to the amounts provided in paragraph (1), an amount sufficient to cover the remainder shall be credited to the Fund from revenues due and payable to the United States for deposit in the Treasury as miscellaneous receipts under the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.).
 
 &emsp;(3)
 
 Availability of deposits.—Notwithstanding section 200303 of this title, money deposited in the Fund under this subsection shall remain in the Fund until appropriated by Congress to carry out this chapter.
 
-(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3171; Pub. L. 114–113, div. O, title VIII, §801(a), Dec. 18, 2015, 129 Stat. 3030.)
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3171; Pub. L. 114–113, div. O, title VIII, §801(a), Dec. 18, 2015, 129 Stat. 3030; Pub. L. 116–9, title III, §3001(a), Mar. 12, 2019, 133 Stat. 754.)
 
 Historical and Revision Notes
 
@@ -55,6 +55,10 @@ In subsection (c)(1), reference to fiscal years 1977 and 1978 and the word "ther
 The Outer Continental Shelf Lands Act, referred to in subsec. (c)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b). Pub. L. 116–9, §3001(a)(1), substituted "There" for "During the period ending September 30, 2018, there" in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 116–9, §3001(a)(2), struck out "through September 30, 2018" after "each fiscal year".
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–113, §801(a)(1), substituted "September 30, 2018" for "September 30, 2015" in introductory provisions.
 
@@ -86,7 +90,7 @@ WHEREAS the Congress, recognizing the need for urgent and effective action in th
 
 NOW, THEREFORE, by virtue of the authority vested in me by the Act, by Section 301 of title 3 of the United States Code, and as President of the United States, it is ordered as follows:
 
-Section 1. <i>Designation of areas for 1965</i>. (a) All areas administered by the National Park Service, Bureau of Land Management, Bureau of Sport Fisheries and Wildlife, Bureau of Reclamation, Forest Service, Corps of Engineers, Tennessee Valley Authority, and the United States Section of the International Boundary and Water Commission (United States and Mexico), at which entrance, admission, or other recreation user fees (hereafter in this order referred to as "recreation user fees") were collected directly by those Federalagencies during any part of 1964 are hereby designated, pursuant to Section 2(a) of the Act \[former 16 U.S.C. 460l–5(a)\], as areas at which recreation user fees shall be charged during 1965.
+Section 1. <i>Designation of areas for 1965</i>. (a) All areas administered by the National Park Service, Bureau of Land Management, Bureau of Sport Fisheries and Wildlife, Bureau of Reclamation, Forest Service, Corps of Engineers, Tennessee Valley Authority, and the United States Section of the International Boundary and Water Commission (United States and Mexico), at which entrance, admission, or other recreation user fees (hereafter in this order referred to as "recreation user fees") were collected directly by those Federal agencies during any part of 1964 are hereby designated, pursuant to Section 2(a) of the Act \[former 16 U.S.C. 460l–5(a)\], as areas at which recreation user fees shall be charged during 1965.
 
 (b) The Secretary of the Interior, the Secretary of Agriculture, the Secretary of Defense, the Board of Directors of the Tennessee Valley Authority, and the Commissioner, United States Section of the International Boundary and Water Commission (United States and Mexico), or their designees, shall, by April 1, 1965, designate any additional areas under their respective jurisdictions at which recreation user fees are to be charged during 1965.
 

@@ -36,11 +36,11 @@ Section 460ff–4 of this title, referred to in subsec. (b), was in the original
 
 #### Codification
 
-In subsec. (d), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949, as amended" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710,and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949, as amended" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–291, §149(c)(2), substituted "the park" for "the recreation area" wherever appearingand "The park" for "The recreation area" in subsec. (a).
+<b>2000</b>—Pub. L. 106–291, §149(c)(2), substituted "the park" for "the recreation area" wherever appearing and "The park" for "The recreation area" in subsec. (a).
 
 Subsec. (a). Pub. L. 106–291, §149(b), substituted "The park shall" for "The recreational area shall" and "National Park" for "National Recreation Area".
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) in the case of a foreign corporation, under section 882(a)(1),
 
-> &emsp;as if the taxpayer were engaged in a trade or business within the United States during the taxable year and as if such gain or loss wereeffectively connected with such trade or business.
+> &emsp;as if the taxpayer were engaged in a trade or business within the United States during the taxable year and as if such gain or loss were effectively connected with such trade or business.
 
 #### (2) Minimum tax on nonresident alien individuals
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Under regulations, for purposes of determining whether any corporation is a UnitedStates real property holding corporation, if any corporation (hereinafter in this paragraph referred to as the "first corporation") holds a controlling interest in a second corporation—
+&emsp;&emsp;Under regulations, for purposes of determining whether any corporation is a United States real property holding corporation, if any corporation (hereinafter in this paragraph referred to as the "first corporation") holds a controlling interest in a second corporation—
 
 &emsp;&emsp;&emsp;(i) the stock which the first corporation holds in the second corporation shall not be taken into account,
 
@@ -444,7 +444,7 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 #### (2) Qualified foreign pension fund
 
-&emsp;For purposes of this subsection, the term "qualified foreign pension fund" means any trust, corporation, or other organization or arrangement—
+&emsp;For purposes of this subsection, the term "qualified foreign pension fund" means anytrust, corporation, or other organization or arrangement—
 
 &emsp;&emsp;(A) which is created or organized under the law of a country other than the United States,
 
@@ -754,7 +754,7 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13203(d)of Pub. L. 103–66, set out as a note under section 55 of this title.
+Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13203(d) of Pub. L. 103–66, set out as a note under section 55 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -828,7 +828,7 @@ In General.—For purposes of section 897 of the Internal Revenue Code of 1986, 
 
 "(b)
 
-Member of a Qualified Ownership Group.—For purposes of this section, the term 'member of a qualified ownership group' means a corporation incorporated on June 16, 1890, under the laws of the Netherlands or a corporation incorporated on October 18, 1897, under the laws of the United Kingdom or any corporationowned directly or indirectly by either or both such corporations.
+Member of a Qualified Ownership Group.—For purposes of this section, the term 'member of a qualified ownership group' means a corporation incorporated on June 16, 1890, under the laws of the Netherlands or a corporation incorporated on October 18, 1897, under the laws of the United Kingdom or any corporation owned directly or indirectly by either or both such corporations.
 
 "(c) \[Repealed. Pub. L. 100–647, title I, §1012(m)(2), Nov. 10, 1988, 102 Stat. 3513.\]
 

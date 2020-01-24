@@ -2,7 +2,7 @@
 
 (a)
 
-Considerations in Making and Implementing MOUs and Related Agreements.—In the negotiation, renegotiation, and implementation of any existing or proposed memorandum of understanding, or any existing or proposed agreement related to a memorandum of understanding, between the Secretary of Defense, acting on behalf of the United States, and one or more foreign countries (or any instrumentality of a foreign country) relating to research, development, or production of defense equipment, or to the reciprocal procurement of defense items, the Secretary of Defense shall—
+Considerations in Making and Implementing MOUs and Related Agreements.—In the negotiation, renegotiation, and implementationof any existing or proposed memorandum of understanding, or any existing or proposed agreement related to a memorandum of understanding, between the Secretary of Defense, acting on behalf of the United States, and one or more foreign countries (or any instrumentality of a foreign country) relating to research, development, or production of defense equipment, or to the reciprocal procurement of defense items, the Secretary of Defense shall—
 
 &emsp;(1) consider the effects of such existing or proposed memorandum of understanding or related agreement on the defense technology and industrial base of the United States; and
 

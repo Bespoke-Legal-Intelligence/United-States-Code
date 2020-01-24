@@ -8,7 +8,7 @@
 
 #### (2) Purpose
 
-&emsp;The Primary Care Extension Program shall provide support and assistance to primarycare providers to educate providers about preventive medicine, health promotion, chronic disease management, mental and behavioral health services (including substance abuse prevention and treatment services), and evidence-based and evidence-informed therapies and techniques, in order to enable providers to incorporate such matters into their practice and to improve community health by working with community-based health connectors (referred to in this section as "Health Extension Agents").
+&emsp;The Primary Care Extension Program shall provide support and assistance to primary care providers to educate providers about preventive medicine, health promotion, chronic disease management, mental and behavioral health services (including substance abuse prevention and treatment services), and evidence-based and evidence-informed therapies and techniques, in order to enable providers to incorporate such matters into their practice and to improve community health by working with community-based health connectors (referred to in this section as "Health Extension Agents").
 
 #### (3) Definitions
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(C) organize and administer grant funds to county- or local-level Primary Care Extension Agencies that serve a catchment area, as determined by the State; and
 
-&emsp;&emsp;(D) organize State-wide or multistate networks of local-level Primary Care Extension Agencies to share and disseminate information and practices.
+&emsp;&emsp;(D) organize State-wide or multistate networks of local-level Primary Care ExtensionAgencies to share and disseminate information and practices.
 
 #### (2) Local Primary Care Extension Agency activities
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;(ii) collect data and provision of primary care provider feedback from standardized measurements of processes and outcomes to aid in continuous performance improvement;
 
-&emsp;&emsp;&emsp;(iii) collaborate with local health departments, community health centers, tribes and tribal entities, and other communityagencies to identify community health priorities and local health workforce needs, and participate in community-based efforts to address the social and primary determinants of health, strengthen the local primary care workforce, and eliminate health disparities;
+&emsp;&emsp;&emsp;(iii) collaborate with local health departments, community health centers, tribes and tribal entities, and other community agencies to identify community health priorities and local health workforce needs, and participate in community-based efforts to address the social and primary determinants of health, strengthen the local primary care workforce, and eliminate health disparities;
 
 &emsp;&emsp;&emsp;(iv) develop measures to monitor the impact of the proposed program on the health of practice enrollees and of the wider community served; and
 

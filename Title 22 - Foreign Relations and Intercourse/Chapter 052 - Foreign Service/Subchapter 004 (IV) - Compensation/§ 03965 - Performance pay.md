@@ -18,7 +18,7 @@ Awards of performance pay shall take into account the criteria established by th
 
 &emsp;(2) Except as provided in paragraph (3), performance pay for a member of the Senior Foreign Service may not exceed 20 percent of the annual rate of basic salary for that member.
 
-&emsp;(3) Not more than 6 percent of the members of the Senior Foreign Service may receive performance pay in any fiscal year in an amount which exceeds the percentage limitation specified in paragraph (2). Payments under this paragraph to a member of the Senior Foreign Service may not exceed, in any fiscal year, the percentage of basic pay established under section 4507(e)(1) of title 5 for a Meritorious Executive, except that payments of the percentage of the basic pay established under section4507(e)(2) of such title for Distinguished Executives may be made in any fiscal year to up to 1 percent of the members of the Senior Foreign Service.
+&emsp;(3) Not more than 6 percent of the members of the Senior Foreign Service may receive performance pay in any fiscal year in an amount which exceeds the percentage limitation specified in paragraph (2). Payments under this paragraph to a member of the Senior Foreign Service may not exceed, in any fiscal year, the percentage of basic pay established under section 4507(e)(1) of title 5 for a Meritorious Executive, except that payments of the percentage of the basic pay established under section 4507(e)(2) of such title for Distinguished Executives may be made in any fiscal year to up to 1 percent of the members of the Senior Foreign Service.
 
 &emsp;(4) Any award under this section shall be subject to the limitation on certain payments under section 5307 of title 5, or the limitation under section 3962(a)(3) of this title, whichever is higher.
 
@@ -76,7 +76,7 @@ Awards in Subsequent Fiscal Years.—The Secretary may not make a performance aw
 
 Application to USIA, AID, and ACDA.—Subsections (a) and (b) shall apply to the United States Information Agency, the Agency for International Development, and the United States Arms Control and Disarmament Agency in the same manner as such subsections apply to the Department of State, except that the Director of the United States Information Agency, the Administrator of the Agency for International Development, and the Director of the United States Arms Control and Disarmament Agency shall be subject to the limitations and authority of the Secretary of State under subsections (a) and (b) for their respective agencies."
 
-\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title, and for abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title, and for abolition, transfer offunctions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 
 #### Review of Performance Pay Programs
 

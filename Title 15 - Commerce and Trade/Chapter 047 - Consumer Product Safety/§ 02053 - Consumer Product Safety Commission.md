@@ -16,7 +16,7 @@ Not more than three of the Commissioners shall be affiliated with the same polit
 
 #### (d) Quorum; seal; Vice Chairman
 
-No vacancy in the Commission shall impair the right of the remaining Commissioners to exercise all the powers of the Commission, but three members of the Commission shall constitute a quorum for the transaction of business, except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two. The Commission shall have an official seal of which judicial notice shall be taken. The Commission shall annually elect aVice Chairman to act in the absence or disability of the Chairman or in case of a vacancy in the office of the Chairman.
+No vacancy in the Commission shall impair the right of the remaining Commissioners to exercise all the powers of the Commission, but three members of the Commission shall constitute a quorum for the transaction of business, except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two. The Commission shall have an official seal of which judicial notice shall be taken. The Commission shall annually elect a Vice Chairman to act in the absence or disability of the Chairman or in case of a vacancy in the office of the Chairman.
 
 #### (e) Offices
 
@@ -28,7 +28,7 @@ The Commission shall maintain a principal office and such field offices as it de
 
 (2) In carrying out any of his functions under the provisions of this subsection the Chairman shall be governed by general policies of the Commission and by such regulatory decisions, findings, and determinations as the Commission may by law be authorized to make.
 
-(3) Requests or estimates for regular, supplemental, or deficiency appropriations on behalf of the Commission may not be submitted by the Chairman without the prior approval of the Commission.
+(3) Requests or estimates for regular, supplemental, or deficiency appropriations on behalf ofthe Commission may not be submitted by the Chairman without the prior approval of the Commission.
 
 #### (g) Executive Director; officers and employees
 
@@ -68,7 +68,7 @@ Subsections (a) and (h) of section 2680 of title 28 do not prohibit the bringing
 
 At least 30 days before the beginning of each fiscal year, the Commission shall establish an agenda for Commission action under the Acts under its jurisdiction and, to the extent feasible, shall establish priorities for such actions. Before establishing such agenda and priorities, the Commission shall conduct a public hearing on the agenda and priorities and shall provide reasonable opportunity for the submission of comments.
 
-(Pub. L. 92–573, §4, Oct. 27, 1972, 86 Stat. 1210; Pub. L. 94–284, §§4, 5(a), May 11, 1976, 90 Stat. 504;Pub. L. 95–631, §2, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 96–373, Oct. 3, 1980, 94 Stat. 1366; Pub. L. 101–608, title I, §§102–105(a), Nov. 16, 1990, 104 Stat. 3110, 3111; Pub. L. 112–74, div. C, title V, §501, Dec. 23, 2011, 125 Stat. 907.)
+(Pub. L. 92–573, §4, Oct. 27, 1972, 86 Stat. 1210; Pub. L. 94–284, §§4, 5(a), May 11, 1976, 90 Stat. 504; Pub. L. 95–631, §2, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 96–373, Oct. 3, 1980, 94 Stat. 1366; Pub. L. 101–608, title I, §§102–105(a), Nov. 16, 1990, 104 Stat. 3110, 3111; Pub. L. 112–74, div. C, title V, §501, Dec. 23, 2011, 125 Stat. 907.)
 
 #### References in Text
 
@@ -84,7 +84,7 @@ Subsec. (h) of this section amended sections 5314 and 5315 of Title 5, Governmen
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–608, §102, inserted after first sentence "In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission."
 
-Subsec. (d). Pub. L. 101–608, §103, inserted before period at end of first sentence ", except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two".
+Subsec. (d). Pub. L. 101–608, §103, inserted before period at end of first sentence ", except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for thetransaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two".
 
 Subsec. (g)(1). Pub. L. 101–608, §104, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Chairman, subject to the approval of the Commission, shall appoint an Executive Director, a General Counsel, a Director of Engineering Sciences, a Director of Epidemiology, and a Director of Information. No individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule."
 

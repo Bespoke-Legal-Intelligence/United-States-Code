@@ -4,7 +4,7 @@
 
 The Commission shall consider issuing rules or orders which—
 
-&emsp;(1) prescribe procedures under which each contract market is to provide for orderly delivery, including temporary storage costs, of any agricultural commodity enumerated in section 1a(9) of this title which is the subject of a contract for purchase or sale for future delivery;
+&emsp;(1) prescribe procedures under which each contract market is to provide for orderly delivery, including temporary storage costs, of any agricultural commodity enumerated insection 1a(9) of this title which is the subject of a contract for purchase or sale for future delivery;
 
 &emsp;(2) increase the ease with which domestic agricultural producers may participate in contract markets, including by addressing cost and margin requirements, so as to better enable the producers to hedge price risk associated with their production;
 

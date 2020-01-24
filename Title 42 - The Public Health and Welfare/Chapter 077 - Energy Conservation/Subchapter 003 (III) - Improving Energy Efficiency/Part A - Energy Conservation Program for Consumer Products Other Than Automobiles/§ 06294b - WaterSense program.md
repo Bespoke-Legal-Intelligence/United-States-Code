@@ -72,7 +72,7 @@ The Administrator of the Environmental Protection Agency, in coordination with t
 
 #### (c) Transparency
 
-The Administrator of the Environmental Protection Agency shall, to the extent practicableand not less than annually, estimate and make available to the public the relative water and energy savings attributable to the use of WaterSense-labeled products, buildings, landscapes, facilities, processes, and services.
+The Administrator of the Environmental Protection Agency shall, to the extent practicable and not less than annually, estimate and make available to the public the relative water and energy savings attributable to the use of WaterSense-labeled products, buildings, landscapes, facilities, processes, and services.
 
 #### (d) Distinction of authorities
 
@@ -88,7 +88,7 @@ In establishing performance criteria for products, buildings, landscapes, facili
 
 #### (g) Definition of feasible
 
-The term "feasible" means feasible with the use of the best technology, techniques, and other means that the Administrator of the Environmental Protection Agency finds, after examination for efficacy under field conditions and not solely under laboratory conditions, are available (taking cost into consideration).
+The term "feasible" means feasible with the use of the best technology, techniques, andother means that the Administrator of the Environmental Protection Agency finds, after examination for efficacy under field conditions and not solely under laboratory conditions, are available (taking cost into consideration).
 
 (Pub. L. 94–163, title III, §324B, as added Pub. L. 115–270, title IV, §4306(a), Oct. 23, 2018, 132 Stat. 3884.)
 

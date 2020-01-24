@@ -30,7 +30,7 @@ In this title: <sup>1</sup>
 
 #### (3) State option to extend definition of small employer
 
-&emsp;Notwithstanding paragraphs (1) and (2), nothing in this section shall prevent a Statefrom applying this subsection by treating as a small employer, with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
+&emsp;Notwithstanding paragraphs (1) and (2), nothing in this section shall prevent a State from applying this subsection by treating as a small employer, with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
 
 #### (4) Rules for determining employer size
 

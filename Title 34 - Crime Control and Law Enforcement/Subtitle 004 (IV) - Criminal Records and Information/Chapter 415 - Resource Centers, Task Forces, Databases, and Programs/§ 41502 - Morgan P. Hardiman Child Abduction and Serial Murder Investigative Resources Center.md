@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Not later than 90 days after the October 30, 1998, the Attorney General shall establish within the Federal Bureau of Investigation a Child Abduction and Serial Murder Investigative Resources Center to be known as the "Morgan P. Hardiman Child Abduction and Serial MurderInvestigative Resources Center" (in this section referred to as the "CASMIRC").
+Not later than 90 days after the October 30, 1998, the Attorney General shall establish within the Federal Bureau of Investigation a Child Abduction and Serial Murder Investigative Resources Center to be known as the "Morgan P. Hardiman Child Abduction and Serial Murder Investigative Resources Center" (in this section referred to as the "CASMIRC").
 
 #### (b) Purpose
 
@@ -22,7 +22,7 @@ The CASMIRC shall perform such duties as the Attorney General determines appropr
 
 &emsp;(5) coordinating the application of resources of pertinent Federal law enforcement agencies, and other Federal entities including, but not limited to, the United States Customs Service, the Secret Service, the Postal Inspection Service, and the United States Marshals Service, as appropriate, and with the concurrence of the agency head to support Federal, State, and local law enforcement involved in child abduction, mysterious disappearance of a child, child homicide, and serial murder investigations;
 
-&emsp;(6) conducting ongoing research related to child abductions, mysterious disappearances of children, child homicides, and serial murder, including identification and investigative application of current and emerging technologies, identification of investigative searching technologies and methods for physically locating abducted children, investigative use of offender behavioral assessment and analysis concepts, gathering statistics and information necessary for case identification, trend analysis, and case linkages to advance the investigative effectiveness of outstanding abducted children cases, develop investigative systems to identify and track serious serial offenders that repeatedly victimize children for comparison to unsolved cases, and other investigative research pertinent to child abduction, mysterious disappearance of a child, child homicide, and serial murder covered in this section;
+&emsp;(6) conducting ongoing research related to child abductions, mysterious disappearances of children, child homicides, and serial murder, including identification and investigative application of current and emerging technologies, identification of investigative searching technologies and methods for physically locating abducted children, investigative use of offender behavioral assessment and analysis concepts, gathering statistics and information necessary for case identification, trend analysis, and case linkages to advance the investigative effectiveness of outstanding abducted children cases, develop investigative systems to identify and track serious serial offenders that repeatedly victimize children for comparison to unsolved cases, and other investigative research pertinent to child abduction,mysterious disappearance of a child, child homicide, and serial murder covered in this section;
 
 &emsp;(7) working under the NCAVC in coordination with the National Center For Missing and Exploited Children and the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice to provide appropriate training to Federal, State, and local law enforcement in matters regarding child abductions, mysterious disappearances of children, child homicides; and
 

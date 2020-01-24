@@ -36,7 +36,7 @@ The Administration shall not collect any fee for any guarantee under this sectio
 
 (2) Nothing in this subsection shall prohibit the utilization of a book-entry or other electronic form of registration for trust certificates.
 
-(Pub. L. 85–699, title V, §505, as added Pub. L. 99–272, title XVIII, §18008(c), Apr. 7, 1986, 100Stat. 367; amended Pub. L. 100–590, title I, §111(d)(1), (2), Nov. 3, 1988, 102 Stat. 2995; Pub. L. 104–208, div. D, title II, §205(c), Sept. 30, 1996, 110 Stat. 3009–738.)
+(Pub. L. 85–699, title V, §505, as added Pub. L. 99–272, title XVIII, §18008(c), Apr. 7, 1986, 100 Stat. 367; amended Pub. L. 100–590, title I, §111(d)(1), (2), Nov. 3, 1988, 102 Stat. 2995; Pub. L. 104–208, div. D, title II, §205(c), Sept. 30, 1996, 110 Stat. 3009–738.)
 
 #### References in Text
 
@@ -44,7 +44,7 @@ For definition of "this chapter", referred to in subsec. (a), see References in 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (f). Pub. L. 104–208 designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), in subpar. (A) substituted "provide for a central registration of all trust certificates sold pursuant to this section;" for "provide for a central registration of all trust certificates sold pursuant to this section; such central registration shall include with respect to each sale, identification of each development company; the interest rate paid by the development company; commissions, fees, or discounts paid to brokers and dealers in trust certificates; identification of each purchaser of the trust certificate; the price paid by the purchaser for the trust certificate; the interest rate paid on the trust certificate; the fees of any agent for carrying out the functions described in paragraph (2); and such other information as the Administration deems appropriate;", and added par. (2).
+<b>1996</b>—Subsec. (f). Pub. L. 104–208 designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), in subpar. (A) substituted "provide for a central registration of all trust certificates sold pursuant to this section;" for "provide for a central registration of all trust certificates sold pursuant to this section; such central registration shall include with respect to each sale, identification of each development company; the interest rate paid by the development company; commissions, fees, or discounts paid to brokers and dealers in trust certificates; identification of each purchaser of the trust certificate; the price paid by the purchaser for the trust certificate; the interest rate paid on the trustcertificate; the fees of any agent for carrying out the functions described in paragraph (2); and such other information as the Administration deems appropriate;", and added par. (2).
 
 <b>1988</b>—Pub. L. 100–590, §111(d)(2), inserted "Pooling of debentures" as section catchline.
 

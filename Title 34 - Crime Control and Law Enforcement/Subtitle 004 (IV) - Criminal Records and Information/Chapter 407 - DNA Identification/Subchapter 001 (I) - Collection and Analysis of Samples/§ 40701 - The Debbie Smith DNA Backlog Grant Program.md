@@ -2,11 +2,11 @@
 
 #### (a) Authorization of grants
 
-The Attorney General may make grants to eligible States or units of local government for useby the State or unit of local government for the following purposes:
+The Attorney General may make grants to eligible States or units of local government for use by the State or unit of local government for the following purposes:
 
 &emsp;(1) To carry out, for inclusion in the Combined DNA Index System of the Federal Bureau of Investigation, DNA analyses of samples collected under applicable legal authority.
 
-&emsp;(2) To carry out, for inclusion in such Combined DNA Index System, DNA analyses of samples from crime scenes, including samples from rape kits, samples from other sexual assault evidence, and samples taken in cases without an identified suspect.
+&emsp;(2) To carry out, for inclusion in such Combined DNA Index System, DNA analyses of samples from crime scenes, prioritizing, to the extent practicable consistent with public safety considerations <sup>1</sup> samples from rape kits, samples from other sexual assault evidence, and samples taken in cases without an identified suspect.
 
 &emsp;(3) To increase the capacity of laboratories owned by the State or by units of local government to carry out DNA analyses of samples specified in paragraph (1) or (2).
 
@@ -18,7 +18,7 @@ The Attorney General may make grants to eligible States or units of local govern
 
 &emsp;(7) To conduct an audit consistent with subsection (n) of the samples of sexual assault evidence that are in the possession of the State or unit of local government and are awaiting testing.
 
-&emsp;(8) To ensure that the collection and processing of DNA evidence by law enforcement agencies from crimes, including sexual assault and other violent crimes against persons, is carried out in an appropriate and timely manner and in accordance with the protocols and practices developed under subsection (o)(1).
+&emsp;(8) To ensure that the collection and processing of DNA evidence by law enforcement agencies from crimes, in particular, sexual assault and other violent crimes against persons, is carried out in an appropriate and timely manner and in accordance with the protocols and practices developed under subsection (o)(1).
 
 &emsp;(9) To increase the capacity of State and local prosecution offices to address the backlog of violent crime cases in which suspects have been identified through DNA evidence.
 
@@ -36,9 +36,11 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 &emsp;(5) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(3);
 
-&emsp;(6) if submitted by a unit of local government, certify that the unit of local government has taken, or is taking, all necessary steps to ensure that it is eligible to include, directly or through a State law enforcement agency, all analyses of samples for which it has requested funding in the Combined DNA Index System; and
+&emsp;(6) if submitted by a unit of local government, certify that the unit of local government has taken, or is taking, all necessary steps to ensure that it is eligible to include, directly or through a State law enforcement agency, all analyses of samples for which it has requested funding in the Combined DNA Index System;
 
-&emsp;(7) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(4).
+&emsp;(7) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(4); and
+
+&emsp;(8) provide assurances that the DNA section of the laboratory to be used to conduct DNA analyses has a written policy that prioritizes the analysis of, to the extent practicable consistent with public safety considerations, samples from homicides and sexual assaults.
 
 #### (c) Formula for distribution of grants
 
@@ -66,9 +68,9 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 &emsp;&emsp;(A) For fiscal year 2009, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
 
-&emsp;&emsp;(B) For each of the fiscal years 2014 through 2019, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
+&emsp;&emsp;(B) For each of the fiscal years 2019 through 2024, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
 
-&emsp;&emsp;(C) For each of fiscal years 2014 through 2019, not less than 75 percent of the total grant amounts shall be awarded for a combination of purposes under paragraphs (1), (2), and (3) of subsection (a).
+&emsp;&emsp;(C) For each of fiscal years 2019 through 2024, not less than 75 percent of the total grant amounts shall be awarded for a combination of purposes under paragraphs (1), (2), and (3) of subsection (a).
 
 #### (4) Allocation of grant awards for audits
 
@@ -148,11 +150,11 @@ Not later than 90 days after the end of each fiscal year for which grants are ma
 
 #### (i) Definition
 
-For purposes of this section, the term "State" means a State of the United States, the Districtof Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
+For purposes of this section, the term "State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2015 through 2019.
+There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2019 through 2024.
 
 #### (k) Use of funds for accreditation and audits
 
@@ -220,7 +222,7 @@ In the event that a laboratory operated by a State or unit of local government w
 
 &emsp;&emsp;&emsp;&emsp;(I) the chief law enforcement officer of the State or unit of local government, respectively, is the individual responsible for the compliance of the State or unit of local government, respectively, with the reporting requirements described in clause (v); or
 
-&emsp;&emsp;&emsp;&emsp;(II) the designee of such officer may fulfill the responsibility described insubclause (I) so long as such designee is an employee of the State or unit of local government, respectively, and is not an employee of any governmental laboratory or non-governmental vendor laboratory; and
+&emsp;&emsp;&emsp;&emsp;(II) the designee of such officer may fulfill the responsibility described in subclause (I) so long as such designee is an employee of the State or unit of local government, respectively, and is not an employee of any governmental laboratory or non-governmental vendor laboratory; and
 
 &emsp;&emsp;&emsp;(v) comply with all grantee reporting requirements described in paragraph (4).
 
@@ -348,7 +350,7 @@ In the event that a laboratory operated by a State or unit of local government w
 
 &emsp;In this subsection, the terms "awaiting testing" and "possession" have the meanings given those terms in subsection (n).
 
-(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, §2, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 112–253, §6, Jan. 10, 2013, 126 Stat. 2409; Pub. L. 113–4, title X, §§1002, 1004, 1006, Mar. 7, 2013, 127 Stat. 127, 131, 134; Pub. L. 113–182, §2, Sept. 29, 2014, 128 Stat. 1918; Pub. L. 115–107, §3(a), Jan. 8, 2018, 131 Stat. 2266; Pub. L. 115–257, §2(a), Oct. 9, 2018, 132 Stat. 3660.)
+(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, §2, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 112–253, §6, Jan. 10, 2013, 126 Stat. 2409; Pub. L. 113–4, title X, §§1002, 1004, 1006, Mar. 7, 2013, 127 Stat. 127, 131, 134; Pub. L. 113–182, §2, Sept. 29, 2014, 128 Stat. 1918; Pub. L. 115–107, §3(a), Jan. 8, 2018, 131 Stat. 2266; Pub. L. 115–257, §2(a), Oct. 9, 2018, 132 Stat. 3660; Pub. L. 116–104, §2, Dec. 30, 2019, 133 Stat. 3272.)
 
 #### Amendment of Section
 
@@ -365,6 +367,18 @@ This Act, referred to in subsecs. (e)(1), (k)(2)(B), and (m), is Pub. L. 106–5
 Section was formerly classified to section 14135 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(2). Pub. L. 116–104, §2(1)(A), substituted "prioritizing, to the extent practicable consistent with public safety considerations" for "including".
+
+Subsec. (a)(8). Pub. L. 116–104, §2(1)(B), substituted "in particular," for "including".
+
+Subsec. (b)(8). Pub. L. 116–104, §2(2), added par. (8).
+
+Subsec. (c)(3)(B). Pub. L. 116–104, §2(3)(A), substituted "2019 through 2024" for "2014 through 2019".
+
+Subsec. (c)(3)(C). Pub. L. 116–104, §2(3)(B), substituted "2019 through 2024" for "2014 through 2019".
+
+Subsec. (j). Pub. L. 116–104, §2(4), substituted "2019 through 2024" for "2015 through 2019".
 
 <b>2018</b>—Subsec. (a)(9). Pub. L. 115–257, §2(a)(1), added par. (9).
 
@@ -627,4 +641,6 @@ Sense of Congress.—It is the sense of Congress that—
 &emsp;"(2) Congress should work with the States to improve the quality of legal representation in capital cases through the establishment of standards that will assure the timely appointment of competent counsel with adequate resources to represent defendants in capital cases at each stage of the proceedings."
 
 Pub. L. 106–546, §11, Dec. 19, 2000, 114 Stat. 2735, enacted provisions substantially identical to those enacted by Pub. L. 106–561, §4, set out above.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -66,7 +66,7 @@ Relationship to other laws.—Assistance made available under this subsection an
 
 (2) Funds appropriated under this subsection are authorized to remain available until expended.
 
-(Pub. L. 87–195, pt. I, §104, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 715; amended Pub. L. 93–559, §4(1), Dec. 30, 1974, 88 Stat. 1795; Pub. L. 94–161, title III, §304, Dec. 20, 1975, 89 Stat. 857; Pub. L. 95–88, title I, §103(a)–(c), Aug. 3, 1977, 91 Stat. 534; Pub. L. 95–424, title I, §104(a), Oct. 6, 1978, 92 Stat. 945; Pub. L. 96–53, title I, §102, Aug. 14, 1979, 93 Stat. 360; Pub. L. 96–533, title III, §302, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title III, §302, Dec. 29, 1981, 95 Stat. 1532; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title III, §§303–305(a), Aug. 8, 1985, 99 Stat. 214; Pub. L. 99–529, title I, §103, title IV, §404(1), Oct. 24, 1986, 100 Stat. 3011, 3019; Pub. L. 106–264, title I, §111(a), title II, §203, Aug. 19, 2000, 114 Stat. 751, 759; Pub. L. 108–25, title III, §§301(a)(1), 303(c), May 27, 2003, 117 Stat. 728, 737.)
+(Pub. L. 87–195, pt. I, §104, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 715; amendedPub. L. 93–559, §4(1), Dec. 30, 1974, 88 Stat. 1795; Pub. L. 94–161, title III, §304, Dec. 20, 1975, 89 Stat. 857; Pub. L. 95–88, title I, §103(a)–(c), Aug. 3, 1977, 91 Stat. 534; Pub. L. 95–424, title I, §104(a), Oct. 6, 1978, 92 Stat. 945; Pub. L. 96–53, title I, §102, Aug. 14, 1979, 93 Stat. 360; Pub. L. 96–533, title III, §302, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title III, §302, Dec. 29, 1981, 95 Stat. 1532; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title III, §§303–305(a), Aug. 8, 1985, 99 Stat. 214; Pub. L. 99–529, title I, §103, title IV, §404(1), Oct. 24, 1986, 100 Stat. 3011, 3019; Pub. L. 106–264, title I, §111(a), title II, §203, Aug. 19, 2000, 114 Stat. 751, 759; Pub. L. 108–25, title III, §§301(a)(1), 303(c), May 27, 2003, 117 Stat. 728, 737.)
 
 #### References in Text
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 98–473 is based on section 303 of H.R. 5119, Ninety-eight
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c)(4) to (7). Pub. L. 108–25 added par. (4) and struck out former pars. (4) to (7), which related tocoordination between governments and organizations to prevent vertical transmission of HIV, prioritization of HIV/AIDS in foreign assistance program efforts, appropriation of funds for fiscal years 2001 and 2002, and coordination in developing a comprehensive tuberculosis program.
+<b>2003</b>—Subsec. (c)(4) to (7). Pub. L. 108–25 added par. (4) and struck out former pars. (4) to (7), which related to coordination between governments and organizations to prevent vertical transmission of HIV, prioritization of HIV/AIDS in foreign assistance program efforts, appropriation of funds for fiscal years 2001 and 2002, and coordination in developing a comprehensive tuberculosis program.
 
 <b>2000</b>—Subsec. (c)(4) to (7). Pub. L. 106–264 added pars. (4) to (7).
 
@@ -126,7 +126,7 @@ Subsec. (c). Pub. L. 95–88, §103(b), redesignated former subsec. (b) as (c).
 
 Subsec. (d). Pub. L. 95–88, §103(c), added subsec. (d).
 
-<b>1975</b>—Subsec. (a). Pub. L. 94–161, §304(1)–(3), designated existing provisions as subsec. (a), authorized appropriations of $243,100,000 and $275,600,000 for fiscal years 1976 and 1977, and prescribed minimum percentage (67) of funds available for any fiscal year to be used for population planning, either in separate programs or as an element of health programs.
+<b>1975</b>—Subsec. (a). Pub. L. 94–161, §304(1)–(3), designated existing provisions as subsec. (a), authorized appropriations of $243,100,000 and $275,600,000 for fiscal years 1976 and 1977, and prescribed minimum percentage (67) of funds available for any fiscal year to be usedfor population planning, either in separate programs or as an element of health programs.
 
 Subsec. (b). Pub. L. 94–161, §304(4), added subsec. (b).
 

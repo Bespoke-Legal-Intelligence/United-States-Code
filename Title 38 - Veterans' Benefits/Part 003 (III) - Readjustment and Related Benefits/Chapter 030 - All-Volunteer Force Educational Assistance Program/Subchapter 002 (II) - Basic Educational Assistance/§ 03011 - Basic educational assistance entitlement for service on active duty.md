@@ -4,7 +4,7 @@
 
 &emsp;(1) who—
 
-&emsp;&emsp;(A) after June 30, 1985, first becomes a member of the Armed Forces or first enters on active duty as a member of the Armed Forces and—
+&emsp;&emsp;(A) after June 30, 1985, first becomes a member of the Armed Forces or first enterson active duty as a member of the Armed Forces and—
 
 &emsp;&emsp;&emsp;(i) who (I) in the case of an individual whose obligated period of active duty is three years or more, serves at least three years of continuous active duty in the Armed Forces, or (II) in the case of an individual whose obligated period of active duty is less than three years, serves at least two years of continuous active duty in the Armed Forces; or
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(C) is released after service on active duty characterized by the Secretary concerned as honorable service and is placed on the retired list, is transferred to the Fleet Reserve or Fleet Marine Corps Reserve, or is placed on the temporary disability retired list; or
 
-&emsp;&emsp;(D) is released from active duty for further service in a reserve component of the Armed Forces after service on active duty characterized by the Secretary concerned as honorable service;
+&emsp;&emsp;(D) is released from active duty for further service in a reserve component of the ArmedForces after service on active duty characterized by the Secretary concerned as honorable service;
 
 > is entitled to basic educational assistance under this chapter.
 
@@ -150,7 +150,7 @@ Subsec. (e)(4). Pub. L. 107–14, §7(c)(1)(C), substituted "Secretary of the mi
 
 <b>2000</b>—Subsec. (a)(1)(A)(i). Pub. L. 106–419, §103(a)(1)(A), added cl. (i) and struck out former cl. (i) which read as follows: "who (I) serves, as the individual's initial obligated period of active duty, at least three years of continuous active duty in the Armed Forces, or (II) in the case of an individual whose initial period of active duty is less than three years, serves at least two years of continuous active duty in the Armed Forces; or".
 
-Subsec. (a)(1)(A)(ii)(II). Pub. L. 106–419, §103(a)(1)(B), substituted "if, in the case of an individual with an obligated period of service of two years, the individual completes not less than 20 months of continuous active duty under that period of obligated service, or, in the case of an individual with an obligated period of service of at least three years, the individual completes not less than 30 months of continuous active duty under that period of obligated service" for "in the case of an individual who completed not less than 20 months of continuous active duty, if the initial obligated period of active duty of the individual was less than three years, or in the case of an individual who completed not less than 30 months of continuous active duty if the initial obligated period of active duty of the individual was at least three years".
+Subsec. (a)(1)(A)(ii)(II). Pub. L. 106–419, §103(a)(1)(B), substituted "if, in the case of an individual with an obligated period of service of two years, the individual completes not less than 20 months of continuous active duty under that period of obligated service, or, in the case of an individual with an obligated period of service of at least three years, the individual completes not less than 30 months of continuous active duty under that period of obligated service" for "in the case of an individual who completed not less than 20 months of continuous active duty, if the initial obligated period of active duty of the individual was less than threeyears, or in the case of an individual who completed not less than 30 months of continuous active duty if the initial obligated period of active duty of the individual was at least three years".
 
 Subsec. (a)(2). Pub. L. 106–419, §102(a)(1)(A), added par. (2) and struck out former par. (2) which read as follows: "who, except as provided in subsection (e) of this section, completed the requirements of a secondary school diploma (or equivalency certificate) not later than—
 
@@ -298,7 +298,7 @@ Pub. L. 102–568, title III, §306(b), Oct. 29, 1992, 106 Stat. 4328, provided 
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–510, div. A, title V, §562(c), Nov. 5, 1990, 104 Stat. 1575, provided that: "The amendments made bythis section \[amending this section and sections 1412 and 3103A \[now 3012 and 5303A\] of this title\] shall take effect as of October 19, 1984."
+Pub. L. 101–510, div. A, title V, §562(c), Nov. 5, 1990, 104 Stat. 1575, provided that: "The amendments made by this section \[amending this section and sections 1412 and 3103A \[now 3012 and 5303A\] of this title\] shall take effect as of October 19, 1984."
 
 #### Effective Date of 1988 Amendment
 

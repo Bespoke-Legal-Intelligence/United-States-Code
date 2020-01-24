@@ -26,7 +26,7 @@ Ineligibility of Certain Officers.—The following officers are not eligible for
 
 &emsp;(3) An officer who has failed of promotion to a higher grade the maximum number of times specified for opportunities for promotion for such grade within the competitive category concerned pursuant to section 649d of this title.
 
-&emsp;(4) An officer recommended by a selection board to be removed from consideration for promotion in accordance with section 649b(c) of this title.
+&emsp;(4) An officer recommended by a selection board to be removed from consideration forpromotion in accordance with section 649b(c) of this title.
 
 (Added Pub. L. 115–232, div. A, title V, §507(a)(1), Aug. 13, 2018, 132 Stat. 1745.)
 

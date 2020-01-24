@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any person (other than persons required to register under subtitle E, or persons engaging in a trade or business on which a special tax is imposed by such subtitle) who fails to register with the Secretary as required by this title or by regulations issued thereunder shall be liable to a penalty of $50 ($10,000 in the case of a failure to register or reregister under section 4101).
+Any person (other than persons required to register under subtitle E, or persons engaging ina trade or business on which a special tax is imposed by such subtitle) who fails to register with the Secretary as required by this title or by regulations issued thereunder shall be liable to a penalty of $50 ($10,000 in the case of a failure to register or reregister under section 4101).
 
 #### (b) Cross references
 
@@ -32,7 +32,7 @@ Subsec. (b). Pub. L. 85–475 struck out reference to section 4273.
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–59 applicable to actions, or failures to act, after Aug. 10, 2005, see section 11164(c)of Pub. L. 109–59, set out as a note under section 4101 of this title.
+Amendment by Pub. L. 109–59 applicable to actions, or failures to act, after Aug. 10, 2005, see section 11164(c) of Pub. L. 109–59, set out as a note under section 4101 of this title.
 
 #### Effective Date of 2004 Amendment
 

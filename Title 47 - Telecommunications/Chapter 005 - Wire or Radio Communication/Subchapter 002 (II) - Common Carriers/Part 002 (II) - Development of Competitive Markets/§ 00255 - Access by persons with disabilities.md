@@ -36,7 +36,7 @@ Nothing in this section shall be construed to authorize any private right of act
 
 #### References in Text
 
-Section 12102 of title 42, referred to in subsec. (a)(1), was amended generally by Pub. L. 110–325, §4(a), Sept. 25, 2008, 122 Stat. 3555, and, as so amended, provisions formerly appearing in par. (2)(A) are now contained in par. (1)(A).
+Section 12102 of title 42, referred to in subsec. (a)(1), was amended generally by Pub. L. 110–325, §4(a), Sept.25, 2008, 122 Stat. 3555, and, as so amended, provisions formerly appearing in par. (2)(A) are now contained in par. (1)(A).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

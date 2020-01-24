@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(ii)(I) the quantity of the agricultural commodity that was produced by the producer in the marketing year with respect to which the petition is filed has decreased compared to the most recent marketing year preceding that marketing year for which data are available; or
 
-&emsp;&emsp;&emsp;(II)(aa) the price received for the agricultural commodity by the producer during the marketing year with respect to whichthe petition is filed has decreased compared to the average price for the commodity received by the producer in the 3 marketing years preceding that marketing year; or
+&emsp;&emsp;&emsp;(II)(aa) the price received for the agricultural commodity by the producer during the marketing year with respect to which the petition is filed has decreased compared to the average price for the commodity received by the producer in the 3 marketing years preceding that marketing year; or
 
 &emsp;&emsp;&emsp;(bb) the county level price maintained by the Secretary for the agricultural commodity on the date on which the petition is filed has decreased compared to the average county level price for the commodity in the 3 marketing years preceding the date on which the petition is filed; and
 

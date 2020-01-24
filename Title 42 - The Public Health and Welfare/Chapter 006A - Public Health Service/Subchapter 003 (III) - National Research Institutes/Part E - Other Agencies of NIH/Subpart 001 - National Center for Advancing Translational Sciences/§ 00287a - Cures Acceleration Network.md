@@ -150,7 +150,7 @@ The functions of the CAN are to—
 
 #### (B) Responsibilities of the Director of the Center
 
-&emsp;&emsp;With respect to each recommendation provided by the Board under subparagraph\(A)(i), the Director of the Center shall respond in writing to the Board, indicating whether such Director will implement such recommendation. In the case that the Director of the Center indicates a recommendation of the Board will not be implemented, such Director shall provide an explanation of the reasons for not implementing such recommendation.
+&emsp;&emsp;With respect to each recommendation provided by the Board under subparagraph (A)(i), the Director of the Center shall respond in writing to the Board, indicating whether such Director will implement such recommendation. In the case that the Director of the Center indicates a recommendation of the Board will not be implemented, such Director shall provide an explanation of the reasons for not implementing such recommendation.
 
 #### (5) Meetings
 
@@ -230,7 +230,7 @@ The functions of the CAN are to—
 
 #### (ii) Funding in subsequent fiscal years
 
-&emsp;&emsp;&emsp;An eligible entity receiving an award under clause (i) may apply for additional funding for such project by submitting to the Director of the Center the informationrequired under subparagraphs (B) and (C) of paragraph (2). The Director may fund a project of such eligible entity in an amount not to exceed $15,000,000 for a fiscal year subsequent to the initial award under clause (i).
+&emsp;&emsp;&emsp;An eligible entity receiving an award under clause (i) may apply for additional funding for such project by submitting to the Director of the Center the information required under subparagraphs (B) and (C) of paragraph (2). The Director may fund a project of such eligible entity in an amount not to exceed $15,000,000 for a fiscal year subsequent to the initial award under clause (i).
 
 #### (iii) Matching funds
 
@@ -248,7 +248,7 @@ The functions of the CAN are to—
 
 #### (C) The cures acceleration flexible research awards
 
-&emsp;&emsp;If the Director of the Center determines that the goals and objectives of this section cannot adequately be carried out through a contract, grant, or cooperative agreement, the Director of the Center shall have flexible research authority to use other transactions to fund projects in accordance with the terms and conditions of this section. Awards made under such flexible research authority for a fiscal year shall not exceed 20 percent of the total funds appropriated under subsection (g)(1) for such fiscal year.
+&emsp;&emsp;If the Director of the Center determines that the goals and objectives of this sectioncannot adequately be carried out through a contract, grant, or cooperative agreement, the Director of the Center shall have flexible research authority to use other transactions to fund projects in accordance with the terms and conditions of this section. Awards made under such flexible research authority for a fiscal year shall not exceed 20 percent of the total funds appropriated under subsection (g)(1) for such fiscal year.
 
 #### (4) Suspension of awards for defaults, noncompliance with provisions and plans, and diversion of funds; repayment of funds
 

@@ -26,7 +26,7 @@
 
 (c) A plan modified under this section may not provide for payments over a period that expires after the applicable commitment period under section 1325(b)(1)(B) after the time that the first payment under the original confirmed plan was due, unless the court, for cause, approves a longer period, but the court may not approve a period that expires after five years after such time.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2651; Pub. L. 98–353, title III, §§319, 533, July 10, 1984, 98 Stat.357, 389; Pub. L. 109–8, title I, §102(i), title III, §318(4), Apr. 20, 2005, 119 Stat. 34, 94.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2651; Pub. L. 98–353, title III, §§319, 533, July 10, 1984, 98 Stat. 357, 389; Pub. L. 109–8, title I, §102(i), title III, §318(4), Apr. 20, 2005, 119 Stat. 34, 94.)
 
 #### Historical and Revision Notes
 
@@ -40,7 +40,7 @@ At any time prior to the completion of payments under a confirmed plan, the plan
 
 Subsec. (c). Pub. L. 109–8, §318(4), substituted "the applicable commitment period under section 1325(b)(1)(B)" for "three years".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–353, §§319, 533(1), (2), inserted "of the plan" after "confirmation", substituted "such plan" for "a plan", and inserted provisions respecting requests by the debtor, the trustee, or the holder of an allowed unsecured claim for modification.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §§319, 533(1), (2), inserted "of the plan" after "confirmation", substituted"such plan" for "a plan", and inserted provisions respecting requests by the debtor, the trustee, or the holder of an allowed unsecured claim for modification.
 
 Subsec. (a)(3). Pub. L. 98–353, §533(3), substituted "plan to" for "plan, to".
 

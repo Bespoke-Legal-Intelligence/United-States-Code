@@ -26,13 +26,13 @@ For the purposes of this chapter—
 
 (g) The term "commerce" means trade, traffic, commerce, transportation, transmission, or communication among the several States; or between a State and any place outside thereof; or within the District of Columbia, or a possession of the United States; or between points in the same State but through a point outside thereof.
 
-(h) The term "industry affecting commerce" means any activity, business, or industry incommerce or in which a labor dispute would hinder or obstruct commerce or the free flow of commerce and includes any activity or industry "affecting commerce" within the meaning of the Labor-Management Reporting and Disclosure Act of 1959 \[29 U.S.C. 401 et seq.\].
+(h) The term "industry affecting commerce" means any activity, business, or industry in commerce or in which a labor dispute would hinder or obstruct commerce or the free flow of commerce and includes any activity or industry "affecting commerce" within the meaning of the Labor-Management Reporting and Disclosure Act of 1959 \[29 U.S.C. 401 et seq.\].
 
 (i) The term "State" includes a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island, the Canal Zone, and Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\].
 
 (j) The term "firefighter" means an employee, the duties of whose position are primarily to perform work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus and equipment, including an employee engaged in this activity who is transferred to a supervisory or administrative position.
 
-(k) The term "law enforcement officer" means an employee, the duties of whose position are primarily the investigation, apprehension, or detention of individuals suspected or convicted of offenses against the criminal laws of a State, including an employee engaged in this activity who is transferred to a supervisory or administrative position. For the purpose of this subsection, "detention" includes the duties of employees assigned to guard individuals incarcerated in any penal institution.
+(k) The term "law enforcement officer" means an employee, the duties of whose position areprimarily the investigation, apprehension, or detention of individuals suspected or convicted of offenses against the criminal laws of a State, including an employee engaged in this activity who is transferred to a supervisory or administrative position. For the purpose of this subsection, "detention" includes the duties of employees assigned to guard individuals incarcerated in any penal institution.
 
 (l) The term "compensation, terms, conditions, or privileges of employment" encompasses all employee benefits, including such benefits provided pursuant to a bona fide employee benefit plan.
 

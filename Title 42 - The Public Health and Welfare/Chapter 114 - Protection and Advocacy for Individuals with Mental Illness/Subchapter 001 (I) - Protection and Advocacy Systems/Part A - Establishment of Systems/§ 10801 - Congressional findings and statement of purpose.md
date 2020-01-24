@@ -44,7 +44,7 @@ Pub. L. 100–509, §1, Oct. 20, 1988, 102 Stat. 2543, provided that: "This Act 
 
 #### Short Title
 
-Pub. L. 99–319, §1, May 23, 1986, 100 Stat. 478, as amended by Pub. L. 106–310, div. B, title XXXII,§3206(a), Oct. 17, 2000, 114 Stat. 1193, provided that: "This Act \[enacting this chapter and section 247a of this title and enacting provisions set out as a note below\] may be cited as the 'Protection and Advocacy for Individuals with Mental Illness Act'."
+Pub. L. 99–319, §1, May 23, 1986, 100 Stat. 478, as amended by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, provided that: "This Act \[enacting this chapter and section 247a of this title and enacting provisions set out as a note below\] may be cited as the 'Protection and Advocacy for Individuals with Mental Illness Act'."
 
 #### Supersedure of Balanced Budget Provisions
 

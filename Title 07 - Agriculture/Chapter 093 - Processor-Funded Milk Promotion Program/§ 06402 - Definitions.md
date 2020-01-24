@@ -20,7 +20,7 @@ As used in this chapter:
 
 #### (4) Fluid milk processor
 
-&emsp;The term "fluid milk processor" means any person who processes and markets commercially more than 3,000,000 pounds of fluid milk products in consumer-type packages permonth (excluding products delivered directly to the place of residence of a consumer).
+&emsp;The term "fluid milk processor" means any person who processes and markets commercially more than 3,000,000 pounds of fluid milk products in consumer-type packages per month (excluding products delivered directly to the place of residence of a consumer).
 
 #### (5) Department
 

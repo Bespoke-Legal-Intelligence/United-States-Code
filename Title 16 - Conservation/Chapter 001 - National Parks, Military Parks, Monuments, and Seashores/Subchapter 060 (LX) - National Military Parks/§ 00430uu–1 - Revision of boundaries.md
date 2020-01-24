@@ -1,6 +1,6 @@
 ### §430uu–1. Revision of boundaries
 
-In order to preserve historic features and sites associated with the Battle of the Big Hole and to facilitate their administration and interpretation, the boundaries of the Big Hole National Battlefield are hereby revised to include the following described lands:
+In order to preserve historic features and sites associated with the Battle of the Big Hole and tofacilitate their administration and interpretation, the boundaries of the Big Hole National Battlefield are hereby revised to include the following described lands:
 
 montana principal meridian
 

@@ -30,7 +30,7 @@ Except as otherwise provided in this section, a small public housing agency shal
 
 #### (A) Frequency of inspections by Secretary
 
-&emsp;&emsp;The Secretary shall carry out an inspection of the physical condition of a small public housing agency's public housing projects not more frequently than once every 3 years,unless the agency has been designated by the Secretary as a troubled small public housing agency based on deficiencies in the physical condition of its public housing projects. Nothing contained in this subparagraph relieves the Secretary from conducting lead safety inspections or assessments in accordance with procedures established by the Secretary under section 4822 of this title.
+&emsp;&emsp;The Secretary shall carry out an inspection of the physical condition of a small public housing agency's public housing projects not more frequently than once every 3 years, unless the agency has been designated by the Secretary as a troubled small public housing agency based on deficiencies in the physical condition of its public housing projects. Nothing contained in this subparagraph relieves the Secretary from conducting lead safety inspections or assessments in accordance with procedures established by the Secretary under section 4822 of this title.
 
 #### (B) Standards
 

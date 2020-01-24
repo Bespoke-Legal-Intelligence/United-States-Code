@@ -36,5 +36,5 @@ Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see
 
 #### Delegation of Functions
 
-Functions of President under this chapter relating to production, conservation, use, control, distribution,and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, eff. June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
+Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, eff. June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
 

@@ -130,7 +130,7 @@ No tax shall be imposed under paragraph (1) or (3) of subsection (a) on any amou
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), no tax shall be imposed under paragraph (1) ofsubsection (a) on any interest-related dividend (as defined in section 871(k)(1)) received from a regulated investment company.
+&emsp;&emsp;Except as provided in subparagraph (B), no tax shall be imposed under paragraph (1) of subsection (a) on any interest-related dividend (as defined in section 871(k)(1)) received from a regulated investment company.
 
 #### (B) Exception
 
@@ -194,7 +194,7 @@ Subsec. (c)(7). Pub. L. 103–66, §13237(a)(2), redesignated par. (6) as (7).
 
 <b>1986</b>—Subsec. (a)(3)(A). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (A) generally, striking out "any gain not in excess of" before "the original issue discount".
 
-Subsec. (a)(3)(B). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and".
+Subsec. (a)(3)(B). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into accountunder this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and".
 
 Subsec. (a)(4). Pub. L. 99–514, §1211(b)(6), struck out "or from payments which are treated as being so contingent under section 871(e)," after "sold or exchanged,".
 
@@ -270,7 +270,7 @@ Amendment by section 1214(c)(2) of Pub. L. 99–514 applicable to payments made 
 
 Amendment by section 1223(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1223(c) of Pub. L. 99–514, set out as a note under section 864 of this title.
 
-Amendment by section 1273(b)(1), (2)(A) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, seesection 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
+Amendment by section 1273(b)(1), (2)(A) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
 Amendment by section 1810(d)(1)(B), (3)(C), (e)(2)(B) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

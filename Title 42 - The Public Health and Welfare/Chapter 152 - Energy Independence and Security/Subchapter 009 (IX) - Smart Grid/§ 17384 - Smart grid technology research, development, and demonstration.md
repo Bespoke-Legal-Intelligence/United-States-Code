@@ -26,7 +26,7 @@ The Secretary, in consultation with the Federal Energy Regulatory Commission and
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a smart grid regional demonstration initiative (referred to in this subsection as the "Initiative") composed of demonstration projects specifically focused on advanced technologies for use in power grid sensing, communications, analysis,and power flow control. The Secretary shall seek to leverage existing smart grid deployments.
+&emsp;The Secretary shall establish a smart grid regional demonstration initiative (referred to in this subsection as the "Initiative") composed of demonstration projects specifically focused on advanced technologies for use in power grid sensing, communications, analysis, and power flow control. The Secretary shall seek to leverage existing smart grid deployments.
 
 #### (2) Goals
 
@@ -82,7 +82,7 @@ There are authorized to be appropriated—
 
 <b>2009</b>—Subsec. (b)(3)(A). Pub. L. 111–5, §405(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "In carrying out the initiative, the Secretary shall carry out smart grid demonstration projects in up to 5 electricity control areas, including rural areas and at least 1 area in which the majority of generation and transmission assets are controlled by a tax-exempt entity."
 
-Subsec. (b)(3)(C). Pub. L. 111–5, §405(2), amended subpar. (C) generally. Prior to amendment, text read as follows: "The Secretary shall provide to an electric utility described in subparagraph (B) financial assistance for use in paying an amount equal to not more than 50 percent of the cost of qualifying advanced grid technology investments made by the electric utility to carry out a demonstration project."
+Subsec. (b)(3)(C). Pub. L. 111–5, §405(2), amended subpar. (C) generally. Prior to amendment, text read as follows: "The Secretary shall provide to an electric utility described in subparagraph (B) financial assistance for use in paying an amount equal to not more than 50 percent of the cost of qualifying advanced gridtechnology investments made by the electric utility to carry out a demonstration project."
 
 Subsec. (b)(3)(E), (F). Pub. L. 111–5, §405(3), added subpars. (E) and (F).
 

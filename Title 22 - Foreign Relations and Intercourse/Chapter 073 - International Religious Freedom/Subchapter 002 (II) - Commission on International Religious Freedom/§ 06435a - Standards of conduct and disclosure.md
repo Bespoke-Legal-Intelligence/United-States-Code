@@ -46,7 +46,7 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 #### (1) In general
 
-&emsp;In order to preserve its independence, the Commission may not accept, use, or dispose of gifts or donations of services or property. An individual Commissioner or employee of the Commission may not, in his or her capacity as a Commissioner or employee, knowingly accept, use or dispose of gifts or donations of services or property, unless he or she in good faith believes such gifts or donations to have a value of less than $50 and a cumulative value during a calendar year of less than $100.
+&emsp;In order to preserve its independence, the Commission may not accept, use, or dispose of gifts or donations of services or property. An individual Commissioner or employee of the Commission may not, in his or her capacity as a Commissioner or employee, knowingly accept, use or dispose of gifts or donations of services or property, unless he or she in goodfaith believes such gifts or donations to have a value of less than $50 and a cumulative value during a calendar year of less than $100.
 
 #### (2) Exceptions
 
@@ -70,7 +70,15 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 In addition to providing the reports required under section 6432 of this title, the Commission shall provide, each year no later than January 1, to the Committees on Foreign Affairs and Appropriations of the House of Representatives, and to the Committees on Foreign Relations and Appropriations of the Senate, a financial report detailing and identifying its expenditures for the preceding fiscal year.
 
-(Pub. L. 105–292, title II, §208, as added Pub. L. 106–55, §1(b)(5), Aug. 17, 1999, 113 Stat. 403; amended Pub. L. 107–228, div. A, title VI, §681(f), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 112–75, §5, Dec. 23, 2011, 125 Stat. 1273.)
+#### (f) Commission records
+
+The Commission shall comply with all of the records management requirements set forth in chapter 31 of title 44 (commonly referred to as the "Federal Records Act of 1950").
+
+#### (g) Official email for commission business
+
+When conducting any Commission business on electronic accounts, Commission Members and staff shall use official Commission electronic accounts.
+
+(Pub. L. 105–292, title II, §208, as added Pub. L. 106–55, §1(b)(5), Aug. 17, 1999, 113 Stat. 403; amended Pub. L. 107–228, div. A, title VI, §681(f), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 112–75, §5, Dec. 23, 2011, 125 Stat. 1273; Pub. L. 116–94, div. J, title VIII, §809, Dec. 20, 2019, 133 Stat. 3079.)
 
 #### References in Text
 
@@ -79,6 +87,8 @@ Section 6474 of this title, referred to in subsec. (c)(2), was in the original a
 The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E), is Pub. L. 89–673, Oct. 15, 1966, 80 Stat. 952, as amended, which was classified principally to chapter 37 (§2621 et seq.) of this title. The Act was substantially repealed, except for provisions which are classified to section 2625 of this title, and with limited applicability, to section 2621 of this title, and was restated in section 7342 of Title 5, Government Organization and Employees, by Pub. L. 90–83, §10(b), Sept. 11, 1967, 91 Stat. 224. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsecs. (f), (g). Pub. L. 116–94 added subsecs. (f) and (g).
 
 <b>2011</b>—Subsec. (c)(1). Pub. L. 112–75, §5(1), substituted "$250,000" for "$100,000".
 

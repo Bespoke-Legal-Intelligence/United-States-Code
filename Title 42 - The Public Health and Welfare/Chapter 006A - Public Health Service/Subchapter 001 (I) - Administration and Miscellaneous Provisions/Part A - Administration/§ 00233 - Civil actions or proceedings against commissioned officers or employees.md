@@ -10,7 +10,7 @@ The Attorney General shall defend any civil action or proceeding brought in any 
 
 #### (c) Removal to United States district court; procedure; proceeding upon removal deemed a tort action against United States; hearing on motion to remand to determine availability of remedy against United States; remand to State court or dismissal
 
-Upon a certification by the Attorney General that the defendant was acting in the scope of his employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merit that the case so removed is one in which a remedy by suit within the meaning of subsection (a) of this section is not available against the United States, the case shall be remanded to the State Court: <i>Provided</i>, That where such a remedy is precluded because of the availability of a remedy through proceedings for compensation or other benefits from the United States as provided by any other law, the case shall be dismissed, but in the event the running of any limitation of time for commencing, or filing an application or claim in, such proceedings for compensation or other benefits shall be deemed to have been suspended during the pendency of the civil action or proceeding under this section.
+Upon a certification by the Attorney General that the defendant was acting in the scope of his employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merit that the case so removed is one in which a remedy by suit within the meaning of subsection (a) of this section is not available against the United States, the case shall be remanded to the State Court: <i>Provided</i>, That where such a remedy is precluded because of the availability of a remedy through proceedings for compensation or other benefits from the UnitedStates as provided by any other law, the case shall be dismissed, but in the event the running of any limitation of time for commencing, or filing an application or claim in, such proceedings for compensation or other benefits shall be deemed to have been suspended during the pendency of the civil action or proceeding under this section.
 
 #### (d) Compromise or settlement of claim by Attorney General
 
@@ -46,7 +46,7 @@ The Secretary or his designee may, to the extent that he deems appropriate, hold
 
 (E) The Secretary shall make a determination of whether an entity or an officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section within 30 days after the receipt of an application under subparagraph (D). The determination of the Secretary that an entity or an officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section shall apply for the period specified by the Secretary under subparagraph (A).
 
-(F) Once the Secretary makes a determination that an entity or an officer, governing board member, employee, or contractor of an entity is deemed to be an employee of the Public Health Service for purposes of this section, the determination shall be final and binding upon the Secretary and the Attorney General and other parties to any civil action or proceeding. Except as provided in subsection (i), the Secretary and the Attorney General may not determine that the provision of services which are the subject of such a determination are not covered under this section.
+(F) Once the Secretary makes a determination that an entity or an officer, governing board member, employee, or contractor of an entity is deemed to be an employee of the Public Health Service for purposes of this section, the determination shall be final and binding upon the Secretary and the Attorney General and other parties to any civil action or proceeding. Except as provided in subsection (i), the Secretary and the Attorney General may not determine that the provision of services which are the subject ofsuch a determination are not covered under this section.
 
 (G) In the case of an entity described in paragraph (4) that has not submitted an application under subparagraph (D):
 
@@ -62,7 +62,7 @@ The Secretary or his designee may, to the extent that he deems appropriate, hold
 
 &emsp;(iii) Upon the effective date for the election, clauses (i) and (ii) of subparagraph (G) apply to the entity to the same extent and in the same manner as such clauses apply to an entity that has not submitted an application under subparagraph (D).
 
-&emsp;(iv) If after making the election the entity submits an application under subparagraph (D), the election does not preclude the Secretary from approving the application ( <sup>2</sup> and thereby restoring the applicability of this subsection to the entity and each officer, governing board member, employee, and contractorof the entity, subject to the provisions of this subsection and the subsequent provisions of this section.
+&emsp;(iv) If after making the election the entity submits an application under subparagraph (D), the election does not preclude the Secretary from approving the application ( <sup>2</sup> and thereby restoring the applicability of this subsection to the entity and each officer, governing board member, employee, and contractor of the entity, subject to the provisions of this subsection and the subsequent provisions of this section.
 
 (2) If, with respect to an entity or person deemed to be an employee for purposes of paragraph (1), a cause of action is instituted against the United States pursuant to this section, any claim of the entity or person for benefits under an insurance policy with respect to medical malpractice relating to such cause of action shall be subrogated to the United States.
 
@@ -114,7 +114,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 (B) The estimate under subparagraph (A) shall take into account—
 
-&emsp;(i) the value and frequency of all claims for damage for personal injury, including death, resulting from the performance of medical, surgical, dental, or related functions by entities described in subsection (g)(4) or by officers, employees, or contractors (subject tosubsection (g)(5)) of such entities who are deemed to be employees of the Public Health Service under subsection (g)(1) that, during the preceding 5-year period, are filed under this section or, with respect to years occurring before this subsection takes effect, are filed against persons other than the United States,
+&emsp;(i) the value and frequency of all claims for damage for personal injury, including death, resulting from the performance of medical, surgical, dental, or related functions by entities described in subsection (g)(4) or by officers, employees, or contractors (subject to subsection (g)(5)) of such entities who are deemed to be employees of the Public Health Service under subsection (g)(1) that, during the preceding 5-year period, are filed under this section or, with respect to years occurring before this subsection takes effect, are filed against persons other than the United States,
 
 &emsp;(ii) the amounts paid during that 5-year period on all claims described in clause (i), regardless of when such claims were filed, adjusted to reflect payments which would not be permitted under section 1346 and chapter 171 of title 28, and
 
@@ -134,7 +134,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 (1) An entity or officer, governing board member, employee, or contractor of an entity described in subsection (g)(1) shall, for purposes of this section, be deemed to be an employee of the Public Health Service with respect to services provided to individuals who are enrollees of a managed care plan if the entity contracts with such managed care plan for the provision of services.
 
-(2) Each managed care plan which enters into a contract with an entity described in subsection (g)(4) shall deem the entity and any officer, governing board member, employee, or contractor of the entity as meeting whatever malpractice coverage requirements such plan may require of contracting providers for a calendar year if such entity or officer, governing board member, employee, or contractor of the entity has been deemed to be an employee of the Public Health Service for purposes of this section for such calendar year. Any plan which is found by the Secretary on the record, after notice and an opportunity for a full and fair hearing, to have violated this subsection shall upon such finding cease, for a period to be determined by the Secretary, to receive and to be eligible to receive any Federal funds under titles XVIII or XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\].
+(2) Each managed care plan which enters into a contract with an entity described in subsection (g)(4) shall deem the entity and any officer, governing board member, employee, or contractor of the entity as meeting whatever malpractice coverage requirements such plan may require of contracting providers for a calendaryear if such entity or officer, governing board member, employee, or contractor of the entity has been deemed to be an employee of the Public Health Service for purposes of this section for such calendar year. Any plan which is found by the Secretary on the record, after notice and an opportunity for a full and fair hearing, to have violated this subsection shall upon such finding cease, for a period to be determined by the Secretary, to receive and to be eligible to receive any Federal funds under titles XVIII or XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\].
 
 (3) For purposes of this subsection, the term "managed care plan" shall mean health maintenance organizations and similar entities that contract at-risk with payors for the provision of health services or plan enrollees and which contract with providers (such as entities described in subsection (g)(4)) for the delivery of such services to plan enrollees.
 
@@ -190,7 +190,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(C) The service is a qualifying health service (as defined in paragraph (4)).
 
-&emsp;(D) Neither the health care practitioner nor the free clinic receives any compensation for the service from the individual or from any third-party payor (including reimbursement under any insurance policy or health plan, or under any Federal or State health benefits program). With respect to compliance with such condition:
+&emsp;(D) Neither the health care practitioner nor the free clinic receives any compensation for the service from the individual or from any third-party payor (including reimbursement under any insurance policy or health plan, or under any Federal or State health benefitsprogram). With respect to compliance with such condition:
 
 &emsp;&emsp;(i) The health care practitioner may receive repayment from the free clinic for reasonable expenses incurred by the health care practitioner in the provision of the service to the individual.
 
@@ -470,7 +470,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(B) With respect to an entity described in subsection (g)(4), a health care practitioner is not a health professional volunteer at such entity unless the entity sponsors the health care practitioner. For purposes of this subsection, the entity shall be considered to be sponsoring the health care practitioner if—
 
-&emsp;&emsp;(i) with respect to the health care practitioner, the entity submits to the Secretaryan application meeting the requirements of subsection (g)(1)(D); and
+&emsp;&emsp;(i) with respect to the health care practitioner, the entity submits to the Secretary an application meeting the requirements of subsection (g)(1)(D); and
 
 &emsp;&emsp;(ii) the Secretary, pursuant to subsection (g)(1)(E), determines that the health care practitioner is deemed to be an employee of the Public Health Service.
 
@@ -536,7 +536,7 @@ Subsec. (p)(7)(B). Pub. L. 108–20, §3(f)(1), substituted "means a person" for
 
 Subsec. (p)(7)(B)(ii). Pub. L. 108–20, §3(f)(2), substituted "auspices—" for "auspices", designated "such countermeasure was administered;" as subcl. (I), and added subcls. (II) to (IV).
 
-Subsec. (p)(7)(B)(iv) to (viii). Pub. L. 108–20, §3(f)(3), (4), added cls. (iv) to (viii) and struck out former cl. (iv)which read as follows: "an official, agent, or employee of a person described in clause (i), (ii), or (iii)."
+Subsec. (p)(7)(B)(iv) to (viii). Pub. L. 108–20, §3(f)(3), (4), added cls. (iv) to (viii) and struck out former cl. (iv) which read as follows: "an official, agent, or employee of a person described in clause (i), (ii), or (iii)."
 
 Subsec. (p)(7)(C). Pub. L. 108–20, §3(g), substituted "individual who—" for "individual who", designated "is authorized to administer such countermeasure under the law of the State in which the countermeasure was administered." as cl. (i), substituted "; or" for period at end of cl. (i), and added cl. (ii).
 
@@ -612,7 +612,7 @@ Pub. L. 104–299, §5, Oct. 11, 1996, 110 Stat. 3645, as amended by Pub. L. 104
 
 #### Effective Date of 1995 Amendment
 
-Pub. L. 104–73, §5(c), Dec. 26, 1995, 109 Stat. 779, provided that: "If, on the day before the date of the enactment of this Act \[Dec. 26, 1995\], an entity was deemed to be an employee of the Public Health Service for purposes of section 224(g) of the Public Health Service Act \[42 U.S.C. 233(g)\], the condition under paragraph (1)(D)of such section (as added by subsection (a) of this section) that an application be approved with respect to the entity does not apply until the expiration of the 180-day period beginning on such date."
+Pub. L. 104–73, §5(c), Dec. 26, 1995, 109 Stat. 779, provided that: "If, on the day before the date of the enactment of this Act \[Dec. 26, 1995\], an entity was deemed to be an employee of the Public Health Service for purposes of section 224(g) of the Public Health Service Act \[42 U.S.C. 233(g)\], the condition under paragraph (1)(D) of such section (as added by subsection (a) of this section) that an application be approved with respect to the entity does not apply until the expiration of the 180-day period beginning on such date."
 
 #### Effective Date of 1992 Amendment
 

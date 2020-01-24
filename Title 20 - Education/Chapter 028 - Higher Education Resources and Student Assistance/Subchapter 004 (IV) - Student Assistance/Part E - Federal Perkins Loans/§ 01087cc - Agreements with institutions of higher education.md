@@ -46,7 +46,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 &emsp;(8) provide that the institution of higher education will make loans first to students with exceptional need; and
 
-&emsp;(9) include such other reasonable provisions as may be necessary to protect the United States from unreasonable risk of loss and asare agreed to by the Secretary and the institution, except that nothing in this paragraph shall be construed to permit the Secretary to require the assignment of loans to the Secretary other than as is provided for in paragraphs (4) and (5).
+&emsp;(9) include such other reasonable provisions as may be necessary to protect the United States from unreasonable risk of loss and as are agreed to by the Secretary and the institution, except that nothing in this paragraph shall be construed to permit the Secretary to require the assignment of loans to the Secretary other than as is provided for in paragraphs (4) and (5).
 
 #### (b) Administrative expenses
 

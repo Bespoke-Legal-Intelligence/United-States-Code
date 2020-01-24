@@ -4,7 +4,7 @@ For the purposes of this subchapter, the term "program or activity" and the term
 
 &emsp;(1)(A) a department, agency, special purpose district, or other instrumentality of a State or of a local government; or
 
-&emsp;(B) the entity of such State or local government that distributes such assistance and eachsuch department or agency (and each other State or local government entity) to which the assistance is extended, in the case of assistance to a State or local government;
+&emsp;(B) the entity of such State or local government that distributes such assistance and each such department or agency (and each other State or local government entity) to which the assistance is extended, in the case of assistance to a State or local government;
 
 &emsp;(2)(A) a college, university, or other postsecondary institution, or a public system of higher education; or
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 #### Exclusion From Coverage
 
-This section not to be construed to extend application of Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\] to ultimate beneficiaries of Federal financial assistance excluded from coverage before Mar. 22, 1988, see section 7 of Pub. L. 100–259, set out as a Construction note under section 1687 of Title 20, Education.
+This section not to be construed to extend application of Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\]to ultimate beneficiaries of Federal financial assistance excluded from coverage before Mar. 22, 1988, see section 7 of Pub. L. 100–259, set out as a Construction note under section 1687 of Title 20, Education.
 
 #### Abortion Neutrality
 

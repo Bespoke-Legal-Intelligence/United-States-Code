@@ -58,7 +58,7 @@ Delegations of Authority.—(1) Except to the extent otherwise provided by the S
 
 Relationship to Other Authority.—Nothing in this section shall be construed to restrict any executive branch authority regarding use of members of the armed forces or equipment of the Department of Defense that was in effect before September 23, 1996.
 
-(Added Pub. L. 104–201, div. A, title XIV, §1416(a)(1), Sept. 23, 1996, 110 Stat. 2721, §382;amended Pub. L. 105–85, div. A, title X, §1073(a)(6), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 111–383, div. A, title X, §1075(b)(10)(A), (B), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–81, div. A, title X, §1089, Dec. 31, 2011, 125 Stat. 1603; renumbered §282, Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 104–201, div. A, title XIV, §1416(a)(1), Sept. 23, 1996, 110 Stat. 2721, §382; amended Pub. L. 105–85, div. A, title X, §1073(a)(6), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 111–383, div. A, title X, §1075(b)(10)(A), (B), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–81, div. A, title X, §1089, Dec. 31, 2011, 125 Stat. 1603; renumbered §282, Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 #### References in Text
 

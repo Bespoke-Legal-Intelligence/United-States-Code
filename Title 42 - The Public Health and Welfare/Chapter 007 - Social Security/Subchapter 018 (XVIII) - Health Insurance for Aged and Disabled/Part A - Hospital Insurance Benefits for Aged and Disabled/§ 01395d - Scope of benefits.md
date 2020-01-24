@@ -4,13 +4,13 @@
 
 The benefits provided to an individual by the insurance program under this part shall consist of entitlement to have payment made on his behalf or, in the case of payments referred to in section 1395f(d)(2) of this title to him (subject to the provisions of this part) for—
 
-&emsp;(1) inpatient hospital services or inpatient critical access hospital services for up to 150 days during any spell of illness minus 1 day for each day of such services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have paymentfor such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
+&emsp;(1) inpatient hospital services or inpatient critical access hospital services for up to 150 days during any spell of illness minus 1 day for each day of such services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
 
 &emsp;(2)(A) post-hospital extended care services for up to 100 days during any spell of illness, and (B) to the extent provided in subsection (f), extended care services that are not post-hospital extended care services;
 
 &emsp;(3) in the case of individuals not enrolled in part B, home health services, and in the case of individuals so enrolled, post-institutional home health services furnished during a home health spell of illness for up to 100 visits during such spell of illness;
 
-&emsp;(4) in lieu of certain other benefits, hospice care with respect to the individual during up to two periods of 90 days each and an unlimited number of subsequent periods of 60 days each with respect to which the individual makes an election under subsection (d)(1); and
+&emsp;(4) in lieu of certain other benefits, hospice care with respect to the individual during upto two periods of 90 days each and an unlimited number of subsequent periods of 60 days each with respect to which the individual makes an election under subsection (d)(1); and
 
 &emsp;(5) for individuals who are terminally ill, have not made an election under subsection (d)(1), and have not previously received services under this paragraph, services that are furnished by a physician (as defined in section 1395x(r)(1) of this title) who is either the medical director or an employee of a hospice program and that—
 
@@ -60,13 +60,13 @@ If an individual is an inpatient of a psychiatric hospital on the first day of t
 
 &emsp;(ii) the individual may at any time after the revocation execute a new election for a subsequent period, if the individual otherwise is entitled to hospice care benefits with respect to such a period.
 
-(C) An individual may, once in each such period, change the hospice program with respectto which the election is made and such change shall not be considered a revocation of an election under subparagraph (B).
+(C) An individual may, once in each such period, change the hospice program with respect to which the election is made and such change shall not be considered a revocation of an election under subparagraph (B).
 
 (D) For purposes of this subchapter, an individual's election with respect to a hospice program shall no longer be considered to be in effect with respect to that hospice program after the date the individual's revocation or change of election with respect to that election takes effect.
 
 #### (e) Services taken into account
 
-For purposes of subsections (b) and (c), inpatient hospital services, inpatient psychiatric hospital services, and post-hospital extended care services shall be taken into account only if payment is or would be, except for this section or the failure to comply with the request and certification requirements of or under section 1395f(a) of this title, made with respect to such services under this part.
+For purposes of subsections (b) and (c), inpatient hospital services, inpatient psychiatrichospital services, and post-hospital extended care services shall be taken into account only if payment is or would be, except for this section or the failure to comply with the request and certification requirements of or under section 1395f(a) of this title, made with respect to such services under this part.
 
 #### (f) Coverage of extended care services without regard to three-day prior hospitalization requirement
 
@@ -128,7 +128,7 @@ Subsecs. (b) to (d)(1), (2)(B), (e) to (g). Pub. L. 101–234 repealed Pub. L. 1
 
 "(3) home health services; and
 
-"(4) in lieu of certain other benefits, hospice care with respect to the individual during up to two periods of 90 days each, a subsequent period of 30 days, and asubsequent extension period with respect to which the individual makes an election under subsection (d)(1) of this section."
+"(4) in lieu of certain other benefits, hospice care with respect to the individual during up to two periods of 90 days each, a subsequent period of 30 days, and a subsequent extension period with respect to which the individual makes an election under subsection (d)(1) of this section."
 
 Subsec. (b). Pub. L. 100–360, §101(2), amended subsec. (b) generally, striking out par. (1) and renumbering and amending pars. (2) and (3) as (1) and (2), respectively.
 
@@ -198,7 +198,7 @@ Pub. L. 103–432, title I, §102(i), Oct. 31, 1994, 108 Stat. 4404, provided th
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title IV, §4006(c), Nov. 5, 1990, 104 Stat. 1388–43, provided that: "The amendments made bythis section \[amending this section and section 1395f of this title\] shall apply with respect to care and services furnished on or after January 1, 1990."
+Pub. L. 101–508, title IV, §4006(c), Nov. 5, 1990, 104 Stat. 1388–43, provided that: "The amendments made by this section \[amending this section and section 1395f of this title\] shall apply with respect to care and services furnished on or after January 1, 1990."
 
 #### Effective Date of 1989 Amendment
 
@@ -210,7 +210,7 @@ Pub. L. 100–360, title I, §104(a), July 1, 1988, 102 Stat. 687, as amended by
 
 "(1)
 
-In general.—Except as provided in paragraph (2) and subsection (b), the amendments made by this subtitle \[subtitle A (§§101–104) of title I of Pub. L. 100–360, amending this section and sections 1395c, 1395e, 1395f, 1395i–2, 1395k, 1395x, 1395cc, and 1395tt of this title\] shall take effect on January 1, 1989, and shall apply—
+In general.—Except as provided in paragraph (2) and subsection (b), the amendments made by this subtitle \[subtitle A (§§101–104) of title I of Pub. L. 100–360,amending this section and sections 1395c, 1395e, 1395f, 1395i–2, 1395k, 1395x, 1395cc, and 1395tt of this title\] shall take effect on January 1, 1989, and shall apply—
 
 &emsp;"(A) to the inpatient hospital deductible for 1989 and succeeding years,
 
@@ -292,7 +292,7 @@ Budget Neutrality.—With respect to the 3-year period of the demonstration prog
 
 #### Protecting Home Health Benefits
 
-Pub. L. 111–148, title III, §3143, Mar. 23, 2010, 124 Stat. 442, provided that: "Nothing in the provisions of, oramendments made by, this Act \[see Short Title note set out under section 18001 of this title\] shall result in the reduction of guaranteed home health benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
+Pub. L. 111–148, title III, §3143, Mar. 23, 2010, 124 Stat. 442, provided that: "Nothing in the provisions of, or amendments made by, this Act \[see Short Title note set out under section 18001 of this title\] shall result in the reduction of guaranteed home health benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
 
 #### Rural Hospice Demonstration Project
 
@@ -300,7 +300,7 @@ Pub. L. 108–173, title IV, §409, Dec. 8, 2003, 117 Stat. 2271, provided that:
 
 "(a)
 
-In General.—The Secretary \[of Health and Human Services\] shall conduct a demonstration project for the delivery of hospice care to medicare beneficiaries in rural areas. Under the project medicare beneficiaries who are unable to receive hospice care in the facility for lack of an appropriate caregiver are provided such care in a facility of 20 or fewer beds which offers, within its walls, the full range of services provided by hospice programs under section 1861(dd) of the Social Security Act (42 U.S.C. 1395x(dd)).
+In General.—The Secretary \[of Health and Human Services\] shall conduct a demonstration project for the delivery of hospice care to medicare beneficiaries in rural areas. Under the project medicare beneficiaries who are unable to receive hospice care in the facility for lack of an appropriate caregiver are provided such care in a facility of 20 or fewer bedswhich offers, within its walls, the full range of services provided by hospice programs under section 1861(dd) of the Social Security Act (42 U.S.C. 1395x(dd)).
 
 "(b)
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established an estuary habitat restoration program under which the Secretary may carry out estuary habitat restorationprojects and provide technical assistance through the award of contracts and cooperative agreements in accordance with the requirements of this chapter.
+There is established an estuary habitat restoration program under which the Secretary may carry out estuary habitat restoration projects and provide technical assistance through the award of contracts and cooperative agreements in accordance with the requirements of this chapter.
 
 #### (b) Origin of projects
 
@@ -48,7 +48,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 #### (4) Priority
 
-&emsp;In selecting estuary habitat restoration projects to be carried out under this chapter, the Secretary shall give priority consideration to a project if, in addition to meriting selection based on the factors under paragraph (3)—
+&emsp;In selecting estuary habitat restoration projects to be carried out under this chapter,the Secretary shall give priority consideration to a project if, in addition to meriting selection based on the factors under paragraph (3)—
 
 &emsp;&emsp;(A) the project occurs within a watershed in which there is a program being carried out that addresses sources of pollution and other activities that otherwise would re-impair the restored habitat; or
 
@@ -142,7 +142,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 #### (C) Funding
 
-&emsp;&emsp;A small project delegated to the head of a Federal department or agency under this paragraph may be carried out using funds appropriated to the department or agency under section 2908(a)(1) of this title or other funds available to the department or agency.
+&emsp;&emsp;A small project delegated to the head of a Federal department or agency under thisparagraph may be carried out using funds appropriated to the department or agency under section 2908(a)(1) of this title or other funds available to the department or agency.
 
 #### (D) Agreements
 

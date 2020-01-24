@@ -8,7 +8,7 @@ Commercial provider.—The term "commercial provider" means any person providing
 
 &emsp;(2)
 
-Payload.—The term "payload" means anything that a person undertakes to transport to, from, or within outer space, or in suborbital trajectory, by means of a space transportation vehicle, but does not include the space transportation vehicle itself except for its components which are specifically designed or adapted for that payload.
+Payload.—The term "payload" means anything that a person undertakes to transport to, from, or within outer space, or in suborbital trajectory, by means of a space transportation vehicle, but does not include thespace transportation vehicle itself except for its components which are specifically designed or adapted for that payload.
 
 &emsp;(3)
 
@@ -16,7 +16,7 @@ Space-related activities.—The term "space-related activities" includes researc
 
 &emsp;(4)
 
-Space transportation services.—The term "space transportation services" meansthe preparation of a space transportation vehicle and its payloads for transportation to, from, or within outer space, or in suborbital trajectory, and the conduct of transporting a payload to, from, or within outer space, or in suborbital trajectory.
+Space transportation services.—The term "space transportation services" means the preparation of a space transportation vehicle and its payloads for transportation to, from, or within outer space, or in suborbital trajectory, and the conduct of transporting a payload to, from, or within outer space, or in suborbital trajectory.
 
 &emsp;(5)
 
@@ -90,7 +90,7 @@ Sec. 2. <i>Launch and Re-entry Licensing</i>. (a) No later than February 1, 2019
 
 Sec. 3. <i>Commercial Remote Sensing</i>. (a) Within 90 days of the date of this memorandum \[May 24, 2018\], the Secretary of Commerce shall review the regulations adopted by the Department of Commerce under Title II of the Land Remote Sensing Policy Act of 1992 (\[now\] 51 U.S.C. 60101 <i>et seq</i>.) for consistency with the policy set forth in section 1 of this memorandum and shall rescind or revise those regulations, or publish for notice and comment proposed rules rescinding or revising those regulations, as appropriate and consistent with applicable law.
 
-(b) In carrying out the review required by subsection (a) of this section, the Secretary of Commerce shall coordinate with the Secretary of State, the Secretaryof Defense, the Administrator of the National Aeronautics and Space Administration, and, as appropriate, the Chairman of the Federal Communications Commission.
+(b) In carrying out the review required by subsection (a) of this section, the Secretary of Commerce shall coordinate with the Secretary of State, the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, and, as appropriate, the Chairman of the Federal Communications Commission.
 
 (c) Within 120 days of the date of the completion of the review required by subsection (a) of this section, the Secretary of Commerce, in coordination with the Secretary of State and the Secretary of Defense, shall transmit to the Director of the Office of Management and Budget a legislative proposal to encourage expansion of the licensing of commercial remote sensing activities. That proposal shall be consistent with the policy set forth in section 1 of this memorandum.
 

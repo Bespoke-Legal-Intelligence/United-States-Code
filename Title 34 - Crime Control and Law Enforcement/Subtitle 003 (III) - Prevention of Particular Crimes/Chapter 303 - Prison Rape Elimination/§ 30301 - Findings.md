@@ -34,7 +34,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(B) increases the levels of violence, directed at inmates and at staff, within prisons;
 
-&emsp;&emsp;(C) increases health care expenditures, both inside and outside of prison systems, and reduces the effectiveness of disease prevention programs by substantially increasing the incidence and spread of HIV, AIDS, tuberculosis, hepatitis B and C, and other diseases;
+&emsp;&emsp;(C) increases health care expenditures, both inside and outside of prison systems, and reduces the effectiveness of disease prevention programs by substantially increasing the incidence and spread of HIV, AIDS,tuberculosis, hepatitis B and C, and other diseases;
 
 &emsp;&emsp;(D) increases mental health care expenditures, both inside and outside of prison systems, by substantially increasing the rate of post-traumatic stress disorder, depression, suicide, and the exacerbation of existing mental illnesses among current and former inmates;
 

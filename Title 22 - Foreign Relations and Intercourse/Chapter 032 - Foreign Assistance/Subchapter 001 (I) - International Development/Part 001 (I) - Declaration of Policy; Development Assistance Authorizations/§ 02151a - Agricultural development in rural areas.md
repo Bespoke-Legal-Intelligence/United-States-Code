@@ -28,7 +28,7 @@ The Congress finds that the greatest potential for significantly expanding avail
 
 #### (d) Coordination with population planning and health programs
 
-Assistance provided under this section shall also be used in coordination with programs carried out under section 2151b of this title to help improve nutrition of the people of developing countries through encouragement of increased production of crops with greater nutritional value; improvement of planning, research, and education with respect to nutrition, particularly with reference to improvement and expanded use of indigenously produced foodstuffs; and the undertaking of pilot or demonstration programsexplicitly addressing the problem of malnutrition of poor and vulnerable people. In particular, the President is encouraged—
+Assistance provided under this section shall also be used in coordination with programs carried out under section 2151b of this title to help improve nutrition of the people of developing countries through encouragement of increased production of crops with greater nutritional value; improvement of planning, research, and education with respect to nutrition, particularly with reference to improvement and expanded use of indigenously produced foodstuffs; and the undertaking of pilot or demonstration programs explicitly addressing the problem of malnutrition of poor and vulnerable people. In particular, the President is encouraged—
 
 &emsp;(1) to devise and carry out in partnership with developing countries a strategy for programs of nutrition and health improvement for mothers and children, including breast feeding; and
 
@@ -60,7 +60,7 @@ This chapter, referred to in subsec. (f), was in the original "this Act", meanin
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), andVIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 

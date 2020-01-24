@@ -2,7 +2,7 @@
 
 #### (a) Adjustments
 
-After the reporting of a bill or joint resolution or the offering of an amendment thereto or the submission of a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate may make appropriate budgetary adjustments of new budget authority and the outlays flowing therefrom in the same amount as required by section 901(b) of this title.
+After the reporting of a bill or joint resolution or the offering of an amendment thereto or thesubmission of a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate may make appropriate budgetary adjustments of new budget authority and the outlays flowing therefrom in the same amount as required by section 901(b) of this title.
 
 #### (b) Application of adjustments
 
@@ -36,7 +36,7 @@ Following any adjustment made under subsection (a), the Committees on Appropriat
 
 #### (A) Waiver
 
-&emsp;&emsp;Paragraph (1) may be waived or suspended in the Senate only by an affirmative vote ofthree-fifths of the Members, duly chosen and sworn.
+&emsp;&emsp;Paragraph (1) may be waived or suspended in the Senate only by an affirmative vote of three-fifths of the Members, duly chosen and sworn.
 
 #### (B) Appeals
 
@@ -64,7 +64,7 @@ It shall not be in order in the House of Representatives or the Senate to consid
 
 #### (A) Adjustments
 
-&emsp;&emsp;If the Committee on Appropriations of either House reports an appropriation measure for any of fiscal years 2022 through 2027 that provides budget authority for grants under section 506 of title 42, or if a conference committee submits a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate shall make the adjustments referred to in subparagraph (B) to reflect the additional new budget authority provided for such grants in that measure or conference report and the outlays resulting therefrom, consistent with subparagraph (D).
+&emsp;&emsp;If the Committee on Appropriations of either House reports an appropriation measure for any of fiscal years 2022 through 2027 that provides budget authority for grants under section 506 of title 42, or if a conference committee submits a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate shall make the adjustments referredto in subparagraph (B) to reflect the additional new budget authority provided for such grants in that measure or conference report and the outlays resulting therefrom, consistent with subparagraph (D).
 
 #### (B) Types of adjustments
 

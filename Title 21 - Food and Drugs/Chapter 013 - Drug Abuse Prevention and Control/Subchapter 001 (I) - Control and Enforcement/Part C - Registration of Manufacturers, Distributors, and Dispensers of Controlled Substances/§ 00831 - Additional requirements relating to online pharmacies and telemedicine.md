@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An online pharmacy shall display in a visible and clear manner on its homepage a statementthat it complies with the requirements of this section with respect to the delivery or sale or offer for sale of controlled substances and shall at all times display on the homepage of its Internet site a declaration of compliance in accordance with this section.
+An online pharmacy shall display in a visible and clear manner on its homepage a statement that it complies with the requirements of this section with respect to the delivery or sale or offer for sale of controlled substances and shall at all times display on the homepage of its Internet site a declaration of compliance in accordance with this section.
 
 #### (b) Licensure
 
@@ -124,7 +124,7 @@ This chapter, referred to in subsec. (j), was in the original "this Act", meanin
 
 #### Amendments
 
-<b>2018</b>—Subsec. (h)(2). Pub. L. 115–271 amended par. (2) generally. Prior to amendment, text read as follows: "The Attorney General shall, with the concurrence of the Secretary, promulgate regulations specifying the limited circumstances in which a special registration under this subsection may be issued and the procedures for obtaining such a special registration."
+<b>2018</b>—Subsec. (h)(2). Pub. L. 115–271 amended par. (2) generally. Prior to amendment, text read as follows:"The Attorney General shall, with the concurrence of the Secretary, promulgate regulations specifying the limited circumstances in which a special registration under this subsection may be issued and the procedures for obtaining such a special registration."
 
 #### Effective Date
 

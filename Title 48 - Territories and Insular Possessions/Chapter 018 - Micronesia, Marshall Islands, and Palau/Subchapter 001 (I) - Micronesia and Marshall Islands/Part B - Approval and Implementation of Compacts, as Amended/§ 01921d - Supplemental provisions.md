@@ -2,7 +2,7 @@
 
 #### (a) Domestic program requirements
 
-Except as may otherwise be provided in this joint resolution, all United States Federal programs and services extended to or operated in the Federated States of Micronesia or the Republic of the Marshall Islands are and shall remain subject to all applicable criteria, standards, reporting requirements, auditing procedures, and other rules and regulations applicableto such programs when operating in the United States (including its territories and commonwealths).
+Except as may otherwise be provided in this joint resolution, all United States Federal programs and services extended to or operated in the Federated States of Micronesia or the Republic of the Marshall Islands are and shall remain subject to all applicable criteria, standards, reporting requirements, auditing procedures, and other rules and regulations applicable to such programs when operating in the United States (including its territories and commonwealths).
 
 #### (b) Relations with the Federated States of Micronesia and the Republic of the Marshall Islands
 
@@ -14,7 +14,7 @@ Except as may otherwise be provided in this joint resolution, all United States 
 
 (4) Federal agencies providing programs and services to the Federated States of Micronesia and the Republic of the Marshall Islands shall coordinate with the Secretaries of the Interior and State regarding provision of such programs and services. The Secretaries of the Interior and State shall consult with appropriate officials of the Asian Development Bank and with the Secretary of the Treasury regarding overall economic conditions in the Federated States of Micronesia and the Republic of the Marshall Islands and regarding the activities of other donors of assistance to the Federated States of Micronesia and the Republic of the Marshall Islands.
 
-(5) United States Government employees in either the Federated States of Micronesia or the Republic of the Marshall Islands are subject to the authority of the United States Chief of Mission, including as elaborated in section 3927 of title 22 and the President's Letter of Instruction to the United States Chief of Mission and any order or directive of the President in effect from time to time.
+(5) United States Government employees in either the Federated States of Micronesia or the Republic of the Marshall Islands are subject to the authority of the United States Chief of Mission, including as elaborated in section 3927 of title 22 and the President's Letter of Instruction to the United States Chief of Mission and anyorder or directive of the President in effect from time to time.
 
 (6)
 
@@ -66,7 +66,7 @@ Additional scope.—Section 214 of the U.S.-RMI Compact shall be construed to re
 
 (8)
 
-Oversight and coordination.—It is the sense of Congress that the Secretary of State and the Secretary of the Interior shall ensure that there are personnel resources committed in the appropriate numbers and locations to ensureeffective oversight of United States assistance, and effective coordination of assistance among United States agencies and with other international donors such as the Asian Development Bank.
+Oversight and coordination.—It is the sense of Congress that the Secretary of State and the Secretary of the Interior shall ensure that there are personnel resources committed in the appropriate numbers and locations to ensure effective oversight of United States assistance, and effective coordination of assistance among United States agencies and with other international donors such as the Asian Development Bank.
 
 (9) The United States voting members (United States chair plus two or more members) of the Trust Fund Committee appointed by the Government of the United States pursuant to Article 7 of the Trust Fund Agreement implementing section 215 of the U.S.-FSM Compact and referred to in section 462(b)(5) of the U.S.-FSM Compact and any alternates designated by the Government of the United States shall be United States Government officers or employees. The United States voting members (United States chair plus two or more members) of the Trust Fund Committee appointed by the Government of the United States pursuant to Article 7 of the Trust Fund Agreement implementing section 216 of the U.S.-RMI Compact and referred to in section 462(b)(5) of the U.S.-RMI Compact and any alternates designated by the Government of the United States shall be United States Government officers or employees. It is the sense of Congress that the appointees should be designated from the Department of State, the Department of the Interior, and the Department of the Treasury.
 
@@ -98,7 +98,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), section 221(a)(6) of the U.S.–FSM Compact and section 221(a)(5) of the U.S.–RMI Compact shall each be construed and applied in accordance with the two Agreements to Amend Article X of the Federal Programs and Service Agreements signed on June 30, 2004, and on June 18, 2004, respectively,provided that all activities carried out by the United States Agency for International Development and the Federal Emergency Management Agency under Article X of the Federal Programs and Services Agreements may be carried out notwithstanding any other provision of law. In the sections referred to in this clause, the term "United States Agency for International Development, Office of Foreign Disaster Assistance" shall be construed to mean "the United States Agency for International Development".
+&emsp;&emsp;&emsp;Subject to clause (ii), section 221(a)(6) of the U.S.–FSM Compact and section 221(a)(5) of the U.S.–RMI Compact shall each be construed and applied in accordance with the two Agreements to Amend Article X of the Federal Programs and Service Agreements signed on June 30, 2004, and on June 18, 2004, respectively, provided that all activities carried out by the United States Agency for International Development and the Federal Emergency Management Agency under Article X of the Federal Programs and Services Agreements may be carried out notwithstanding any other provision of law. In the sections referred to in this clause, the term "United States Agency for International Development, Office of Foreign Disaster Assistance" shall be construed to mean "the United States Agency for International Development".
 
 #### (ii) Definition of will provide funding
 
@@ -156,7 +156,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 &emsp;&emsp;(D) The Public Health Service.
 
-&emsp;&emsp;(E) The Rural Housing Service (formerly, the Farmers Home Administration) in the Marshall Islands and each of the four States of the Federated States of Micronesia: <i>Provided</i>, That in lieu of continuation of the program in the Federated States of Micronesia, the President may agree to transfer to the Government of the Federated States of Micronesia without cost, the portfolio of the Rural Housing Service applicable to the Federated States of Micronesia and provide such technical assistance in management of the portfolio as may be requested by the Federated States of Micronesia.
+&emsp;&emsp;(E) The Rural Housing Service (formerly, the Farmers Home Administration) in theMarshall Islands and each of the four States of the Federated States of Micronesia: <i>Provided</i>, That in lieu of continuation of the program in the Federated States of Micronesia, the President may agree to transfer to the Government of the Federated States of Micronesia without cost, the portfolio of the Rural Housing Service applicable to the Federated States of Micronesia and provide such technical assistance in management of the portfolio as may be requested by the Federated States of Micronesia.
 
 #### (2) Tort claims
 
@@ -182,7 +182,7 @@ Neither the Government of the Federated States of Micronesia nor the Government 
 
 #### (2) Authorization and continuing appropriation
 
-&emsp;There is hereby authorized and appropriated to the Secretary of the Interior, out of anyfunds in the Treasury not otherwise appropriated, to remain available until expended, for each fiscal year from 2004 through 2023, $300,000, as adjusted for inflation under section 218 of the U.S.-FSM Compact and the U.S.-RMI Compact, to carry out the purposes of this section.
+&emsp;There is hereby authorized and appropriated to the Secretary of the Interior, out of any funds in the Treasury not otherwise appropriated, to remain available until expended, for each fiscal year from 2004 through 2023, $300,000, as adjusted for inflation under section 218 of the U.S.-FSM Compact and the U.S.-RMI Compact, to carry out the purposes of this section.
 
 #### (j) Technical assistance
 
@@ -194,7 +194,7 @@ Notwithstanding any other provision of law, persons who on January 1, 1985, were
 
 #### (l) Indefinite land use payments
 
-There are authorized to be appropriated such sums as may be necessary to complete repayment by the United States of any debts owed for the use of various lands in the Federated States of Micronesia and the Marshall Islands prior to January 1, 1985.
+There are authorized to be appropriated such sums as may be necessary to complete repayment by the United States of any debts owed forthe use of various lands in the Federated States of Micronesia and the Marshall Islands prior to January 1, 1985.
 
 #### (m) Communicable disease control program
 
@@ -224,7 +224,7 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 #### (3) Obligations
 
-&emsp;For the purpose of expediting the commencement of operations of a trust fund under either Trust Fund Agreement, the trust fund may, but shall not be obligated to, assume any obligations of an existing legal entity andtake assignment of any contract or other agreement to which the existing legal entity is party.
+&emsp;For the purpose of expediting the commencement of operations of a trust fund under either Trust Fund Agreement, the trust fund may, but shall not be obligated to, assume any obligations of an existing legal entity and take assignment of any contract or other agreement to which the existing legal entity is party.
 
 #### (4) Assistance
 
@@ -240,7 +240,7 @@ Section 3927 of title 22, referred to in subsec. (b)(5), was in the original "se
 
 Act of June 30, 1954, referred to in subsec. (c), is act June 30, 1954, ch. 423, 68 Stat. 330, which enacted sections 1681 and 1681b of this title and provisions set out as notes under section 1681 of this title. For complete classification of this Act to the Code, see Tables.
 
-The joint resolution of January 14, 1986 (Public Law 99–239), referred to in subsec. (c)(1), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The joint resolution of January 14, 1986 (Public Law 99–239), referred to in subsec. (c)(1), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19\(§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (f)(1)(B)(ii)(I), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
@@ -270,7 +270,7 @@ Subsec. (f)(1)(B)(ii)(II). Pub. L. 110–229, §804(1), substituted ", its terr
 
 Subsec. (f)(1)(B)(iii). Pub. L. 110–229, §804(2), which directed the substitution of ", the Republic of the Marshall Islands, or the Republic of Palau" for ", or the Republic of the Marshall Islands", in subcl. (II) of cl. (iii), was executed by making the substitution in the concluding provisions of cl. (iii), to reflect the probable intent of Congress.
 
-Subsec. (f)(1)(B)(ix). Pub. L. 110–229, §804(3), which directed substitution of "government, institutions, and people" for "Republic" in two places and substitutionof "2009" for "2007" and "were" for "was", could not be executed because of the prior identical amendments by Pub. L. 110–161. See 2007 Amendment note below.
+Subsec. (f)(1)(B)(ix). Pub. L. 110–229, §804(3), which directed substitution of "government, institutions, and people" for "Republic" in two places and substitution of "2009" for "2007" and "were" for "was", could not be executed because of the prior identical amendments by Pub. L. 110–161. See 2007 Amendment note below.
 
 Subsec. (f)(1)(C). Pub. L. 110–229, §805, inserted before period at end ", which shall also continue to be available to the citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands who legally reside in the United States (including territories and possessions)".
 

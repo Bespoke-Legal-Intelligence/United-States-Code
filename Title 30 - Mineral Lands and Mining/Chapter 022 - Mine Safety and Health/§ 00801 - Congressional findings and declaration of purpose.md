@@ -58,7 +58,7 @@ Pub. L. 95–239, §1, Mar. 1, 1978, 92 Stat. 95, provided that: "This Act \[ena
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–164, §1, Nov. 9, 1977, 91 Stat. 1290, provided: "That this Act \[enacting sections 822 to 825 and 961 ofthis title and section 557a of Title 29, Labor, amending this section, sections 802 to 804, 811 to 821, 842, 861, 878, 951 to 955, 958, and 959 of this title, and sections 5314 and 5315 of Title 5, Government Organization and Employees, repealing sections 721 to 740 of this title and section 1456a of Title 43, Public Lands, and enacting provisions set out as notes under this section, section 954 of this title and section 11 of former Title 31, Money and Finance\] may be cited as the 'Federal Mine Safety and Health Amendments Act of 1977'."
+Pub. L. 95–164, §1, Nov. 9, 1977, 91 Stat. 1290, provided: "That this Act \[enacting sections 822 to 825 and 961 of this title and section 557a of Title 29, Labor, amending this section, sections 802 to 804, 811 to 821, 842, 861, 878, 951 to 955, 958, and 959 of this title, and sections 5314 and 5315 of Title 5, Government Organization and Employees, repealing sections 721 to 740 of this title and section 1456a of Title 43, Public Lands, and enacting provisions set out as notes under this section, section 954 of this title and section 11 of former Title 31, Money and Finance\] may be cited as the 'Federal Mine Safety and Health Amendments Act of 1977'."
 
 #### Short Title of 1972 Amendment
 
@@ -82,5 +82,5 @@ Pub. L. 109–236, §7, June 15, 2006, 120 Stat. 500, provided that: "The Secret
 
 &emsp;"(2) requires the Mine Safety and Health Administration to be as responsive as possible to requests from the families of mine accident victims for information relating to mine accidents; and
 
-&emsp;"(3) requires that in such accidents, that the Mine Safety and Health Administration shall serve as the primary communicator with the operator, miners' families, the press and the public."
+&emsp;"(3) requires that in such accidents, that the Mine Safety and Health Administration shall serve as theprimary communicator with the operator, miners' families, the press and the public."
 

@@ -18,7 +18,7 @@ As used in this part, the term "eligible State" means, with respect to a fiscal 
 
 &emsp;&emsp;&emsp;(iv) Take such reasonable steps as the State deems necessary to restrict the use and disclosure of information about individuals and families receiving assistance under the program attributable to funds provided by the Federal Government.
 
-&emsp;&emsp;&emsp;(v) Establish goals and take action to prevent and reduce the incidence of out-of-wedlock pregnancies, with special emphasis on teenage pregnancies, and establishnumerical goals for reducing the illegitimacy ratio of the State (as defined in section 603(a)(2)(C)(iii) <sup>1</sup> of this title) for calendar years 1996 through 2005.
+&emsp;&emsp;&emsp;(v) Establish goals and take action to prevent and reduce the incidence of out-of-wedlock pregnancies, with special emphasis on teenage pregnancies, and establish numerical goals for reducing the illegitimacy ratio of the State (as defined in section 603(a)(2)(C)(iii) <sup>1</sup> of this title) for calendar years 1996 through 2005.
 
 &emsp;&emsp;&emsp;(vi) Conduct a program, designed to reach State and local law enforcement officials, the education system, and relevant counseling services, that provides education and training on the problem of statutory rape so that teenage pregnancy prevention programs may be expanded in scope to include men.
 
@@ -66,7 +66,7 @@ As used in this part, the term "eligible State" means, with respect to a fiscal 
 
 #### (6) Certification of standards and procedures to ensure against program fraud and abuse
 
-&emsp;A certification by the chief executive officer of the State that the State has established and is enforcing standards and procedures to ensure against program fraud and abuse, including standards and procedures concerning nepotism, conflicts of interest among individualsresponsible for the administration and supervision of the State program, kickbacks, and the use of political patronage.
+&emsp;A certification by the chief executive officer of the State that the State has established and is enforcing standards and procedures to ensure against program fraud and abuse, including standards and procedures concerning nepotism, conflicts of interest among individuals responsible for the administration and supervision of the State program, kickbacks, and the use of political patronage.
 
 #### (7) Optional certification of standards and procedures to ensure that the State will screen for and identify domestic violence
 
@@ -140,7 +140,7 @@ Pub. L. 105–33, title V, §5518(a), Aug. 5, 1997, 111 Stat. 621, provided that
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, seesection 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 #### Demonstration of Family Independence Program
 

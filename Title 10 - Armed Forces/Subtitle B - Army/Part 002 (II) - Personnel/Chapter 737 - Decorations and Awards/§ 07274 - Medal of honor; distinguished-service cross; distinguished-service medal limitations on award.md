@@ -2,7 +2,7 @@
 
 (a) No more than one distinguished-service cross or distinguished-service medal may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a medal or cross, the President may award a suitable bar or other device to be worn as he directs.
 
-(b) Except as provided in subsection (d), no medal of honor, distinguished-service cross, distinguished-service medal, or device in place thereof, may be awarded to a person unless—
+(b) Except as provided in subsection (c), no medal of honor, distinguished-service cross, distinguished-service medal, or device in place thereof, may be awarded to a person unless—
 
 &emsp;(1) the award is made within five years after the date of the act justifying the award;
 
@@ -10,17 +10,15 @@
 
 &emsp;(3) it appears from records of the Department of the Army that the person is entitled to the award.
 
-(c) No medal of honor, distinguished-service cross, distinguished-service medal, or device in place thereof, may be awarded or presented to a person whose service after he distinguished himself has not been honorable.
-
-(d) If the Secretary of the Army determines that—
+(c) If the Secretary of the Army determines that—
 
 &emsp;(1) a statement setting forth the distinguished service and recommending official recognition of it was made and supported by sufficient evidence within three years after the distinguished service; and
 
 &emsp;(2) no award was made, because the statement was lost or through inadvertence the recommendation was not acted on;
 
-> a medal of honor, distinguished-service cross, distinguished-service medal, or device in placethereof, as the case may be, may be awarded to the person concerned within two years after the date of that determination.
+> a medal of honor, distinguished-service cross, distinguished-service medal, or device in place thereof, as the case may be, may be awarded to the person concerned within two years after the date of that determination.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 216, §3744; Pub. L. 86–582, §1(1), July 5, 1960, 74 Stat. 320; Pub. L. 113–66, div. A, title V, §§561(a), 562(a), Dec. 26, 2013, 127 Stat. 766; renumbered §7274, Pub. L. 115–232, div. A, title VIII, §808(b)(11), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 216, §3744; Pub. L. 86–582, §1(1), July 5, 1960, 74 Stat. 320; Pub. L. 113–66, div. A, title V, §§561(a), 562(a), Dec. 26, 2013, 127 Stat. 766; renumbered §7274, Pub. L. 115–232, div. A, title VIII, §808(b)(11), Aug. 13, 2018, 132 Stat. 1838; Pub. L. 116–92, div. A, title V, §582(b)(1), Dec. 20, 2019, 133 Stat. 1412.)
 
 Historical and Revision Notes
 
@@ -58,6 +56,10 @@ In subsection (c), 10:1409 (words after 3d semicolon) is omitted as executed. Th
 
 #### Amendments
 
+<b>2019</b>—Subsec. (b). Pub. L. 116–92, §582(b)(1)(A), substituted "subsection (c)" for "subsection (d)" in introductory provisions.
+
+Subsecs. (c), (d). Pub. L. 116–92, §582(b)(1)(B), (C), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: "No medal of honor, distinguished-service cross, distinguished-service medal, or device in place thereof, may be awarded or presented to a person whose service after he distinguished himself has not been honorable."
+
 <b>2018</b>—Pub. L. 115–232 renumbered section 3744 of this title as this section.
 
 <b>2013</b>—Subsec. (a). Pub. L. 113–66, §561(a), substituted "distinguished-service cross" for "medal of honor, distinguished-service cross,".
@@ -74,5 +76,5 @@ Subsec. (d). Pub. L. 86–582, §1(1)(B), added subsec. (d).
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

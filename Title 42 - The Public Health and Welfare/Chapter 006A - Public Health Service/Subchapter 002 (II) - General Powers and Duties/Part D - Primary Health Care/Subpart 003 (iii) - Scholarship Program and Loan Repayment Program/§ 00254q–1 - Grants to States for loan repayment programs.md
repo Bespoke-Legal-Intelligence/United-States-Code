@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(i) the excess of such annual payments above the maximum amount authorized in section 254l–1(g)(2)(A) of this title for annual payments regarding contracts is paid solely from non-Federal contributions under subsection (b); and
 
-&emsp;&emsp;(ii) the contract provides that the health professional involved will satisfy the requirement of obligated service under the contract solely through the provision of primary health services in a health professional shortage area that is receiving priority for purposes of section 254f–1(a)(1) of this title and that is authorized to receive assignments under section 254f of this title of individuals who are participating in the Scholarship Program under section 254l of this title.
+&emsp;&emsp;(ii) the contract provides that the health professional involved will satisfy the requirement of obligated service under thecontract solely through the provision of primary health services in a health professional shortage area that is receiving priority for purposes of section 254f–1(a)(1) of this title and that is authorized to receive assignments under section 254f of this title of individuals who are participating in the Scholarship Program under section 254l of this title.
 
 #### (d) Restrictions on use of funds
 
@@ -130,7 +130,7 @@ For purposes of this section, the term "State" means each of the 50 States, the 
 
 #### References in Text
 
-Section 254c of this title, referred to in subsec. (d)(1)(A), was in the original a reference to section 330,meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+Section 254c of this title, referred to in subsec. (d)(1)(A), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 #### Prior Provisions
 

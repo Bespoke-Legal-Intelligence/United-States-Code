@@ -52,13 +52,13 @@ On pipe tobacco, manufactured in or imported into the United States, there shall
 
 #### (g) Roll-your-own tobacco
 
-On roll-your-own tobacco, manufactured in or imported into the United States, there shall beimposed a tax of $24.78 per pound (and a proportionate tax at the like rate on all fractional parts of a pound).
+On roll-your-own tobacco, manufactured in or imported into the United States, there shall be imposed a tax of $24.78 per pound (and a proportionate tax at the like rate on all fractional parts of a pound).
 
 #### (h) Imported tobacco products and cigarette papers and tubes
 
 The taxes imposed by this section on tobacco products and cigarette papers and tubes imported into the United States shall be in addition to any import duties imposed on such articles, unless such import duties are imposed in lieu of internal revenue tax.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 705; Mar. 30, 1955, ch. 18, §3(a)(9), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(9), 70 Stat. 66; Pub. L. 85–12, §3(a)(7), Mar. 29, 1957, 71 Stat. 9; Pub. L. 85–475, §3(a)(7), June 30, 1958, 72 Stat. 259; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1414; Pub. L. 86–75, §3(a)(7), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(9), June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §1, Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–72, §3(a)(9), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(8), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(9), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(9), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §§501(f), 502(a), June 21, 1965, 79 Stat. 150; Pub. L. 90–240, §4(a), Jan. 2, 1968, 81 Stat. 776; Pub. L. 94–455, title XIX, §1905(a)(24), title XXI, §2128(a), Oct. 4, 1976, 90 Stat. 1821, 1921; Pub. L. 97–248, title II, §283(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 99–272, title XIII, §13202(a), Apr. 7, 1986, 100 Stat. 311; Pub. L. 100–647, title V, §5061(a), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(a)–(f), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(a)–(g)(1), (h)(3), Aug. 5, 1997, 111 Stat. 671, 672, 674; Pub. L. 111–3, title VII, §701(a)–(g), Feb. 4, 2009, 123 Stat. 106, 107; Pub. L. 115–141, div. U, title IV, §401(a)(250), Mar. 23, 2018, 132 Stat. 1196.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 705; Mar. 30, 1955, ch. 18, §3(a)(9), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(9), 70 Stat. 66; Pub. L. 85–12, §3(a)(7), Mar.29, 1957, 71 Stat. 9; Pub. L. 85–475, §3(a)(7), June 30, 1958, 72 Stat. 259; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1414; Pub. L. 86–75, §3(a)(7), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(9), June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §1, Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–72, §3(a)(9), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(8), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(9), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(9), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §§501(f), 502(a), June 21, 1965, 79 Stat. 150; Pub. L. 90–240, §4(a), Jan. 2, 1968, 81 Stat. 776; Pub. L. 94–455, title XIX, §1905(a)(24), title XXI, §2128(a), Oct. 4, 1976, 90 Stat. 1821, 1921; Pub. L. 97–248, title II, §283(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 99–272, title XIII, §13202(a), Apr. 7, 1986, 100 Stat. 311; Pub. L. 100–647, title V, §5061(a), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(a)–(f), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(a)–(g)(1), (h)(3), Aug. 5, 1997, 111 Stat. 671, 672, 674; Pub. L. 111–3, title VII, §701(a)–(g), Feb. 4, 2009, 123 Stat. 106, 107; Pub. L. 115–141, div. U, title IV, §401(a)(250), Mar. 23, 2018, 132 Stat. 1196.)
 
 #### Amendments
 
@@ -136,7 +136,7 @@ Subsec. (f). Pub. L. 101–508, §11202(f), substituted "67.5 cents (56.25 cents
 
 Subsec. (b)(2). Pub. L. 97–248, §283(a)(2), substituted "$16.80" for "$8.40".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §2128(a), substituted provisions setting a tax of 8½ percent of the wholesale price, but not more than $20 per thousand, on cigars weighing more than 3 pounds per thousand for provisions setting the tax according to a graduated table running from $2.50 per thousand for large cigars if removed to retail at not more than 2½ cents each to $20 per thousand if removed to retail at more than 20 cents each, and struck out provisions that, in determining the retail price, for tax purposes, regard be had to the ordinary retail price of a single cigar in its principal market, exclusive of any State or local taxes imposed on cigars as a commodity, and that, for purposes of that determination, the amount of State or local tax excluded from the retail price be the actual tax imposed, except that, if the combined taxes resulted in a numerical figure ending in a fraction of a cent, the amount so excluded would be rounded to the next highest full cent unless such rounding would result in a tax lower than the tax which would be imposed in the absence of State or local tax.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §2128(a), substituted provisions setting a tax of 8½ percent of the wholesale price, but not more than $20 per thousand, on cigars weighing more than 3 pounds per thousand for provisions setting the tax according to a graduated tablerunning from $2.50 per thousand for large cigars if removed to retail at not more than 2½ cents each to $20 per thousand if removed to retail at more than 20 cents each, and struck out provisions that, in determining the retail price, for tax purposes, regard be had to the ordinary retail price of a single cigar in its principal market, exclusive of any State or local taxes imposed on cigars as a commodity, and that, for purposes of that determination, the amount of State or local tax excluded from the retail price be the actual tax imposed, except that, if the combined taxes resulted in a numerical figure ending in a fraction of a cent, the amount so excluded would be rounded to the next highest full cent unless such rounding would result in a tax lower than the tax which would be imposed in the absence of State or local tax.
 
 Subsec. (e). Pub. L. 94–455, §1905(a)(24), inserted ", unless such import duties are imposed in lieu of internal revenue tax" after "such articles".
 
@@ -330,7 +330,7 @@ Controlled groups.—Rules similar to the rules of section 5061(e)(3) of such Co
 
 Other laws applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5701 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1), to the same extent as if such taxes were imposed by such section 5701. The Secretary may treat any person who bore the ultimate burden of the tax imposed by paragraph (1) as the person to whom a credit or refund under such provisions may be allowed or made."
 
-Pub. L. 105–33, title IX, §9302(j), Aug. 5, 1997, 111 Stat. 675, as amended by Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643, provided that:
+Pub. L. 105–33, title IX, §9302(j), Aug. 5, 1997, 111 Stat. 675, as amended by Pub. L. 106–554, §1(a)(7) \[title III,§315(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643, provided that:
 
 "(1)
 
@@ -470,7 +470,7 @@ Controlled groups.—Rules similar to the rules of section 11201(e)(6) \[Pub. L.
 
 "(7)
 
-Other laws applicable.—All provisions of law, including penalties, applicable with respect to thetaxes imposed by section 5701 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1), to the same extent as if such taxes were imposed by such section 5701."
+Other laws applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5701 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1), to the same extent as if such taxes were imposed by such section 5701."
 
 Pub. L. 100–647, title V, §5061(e), Nov. 10, 1988, 102 Stat. 3680, provided that:
 

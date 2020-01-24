@@ -144,13 +144,13 @@ Pub. L. 110–181, div. A, title VI, §641(c), Jan. 28, 2008, 122 Stat. 156, pro
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title VI, §641(c)(6), Nov. 24, 2003, 117 Stat. 1516, provided that: "The amendments made by this subsection \[amending this section and sections 1413, 1463, 1465, and 1466 of this title\] shall take effect as of October 1, 2003. The Secretary of Defense shall provide for such administrative adjustments as necessary to provide for payments made for any period during fiscal year 2004 before the date of the enactment of this Act \[Nov. 24, 2003\] to be treated as having been made in accordance with such amendments and for the provisions of such amendments to be implemented as if enacted as of September 30, 2003."
+Pub. L. 108–136, div. A, title VI, §641(c)(6), Nov. 24, 2003, 117 Stat. 1516, provided that: "The amendments made by this subsection \[amending this section and sections 1413, 1463, 1465, and 1466 of this title\] shall take effect as of October 1, 2003. The Secretary of Defenseshall provide for such administrative adjustments as necessary to provide for payments made for any period during fiscal year 2004 before the date of the enactment of this Act \[Nov. 24, 2003\] to be treated as having been made in accordance with such amendments and for the provisions of such amendments to be implemented as if enacted as of September 30, 2003."
 
 Pub. L. 108–136, div. A, title VI, §642(f), Nov. 24, 2003, 117 Stat. 1517, provided that: "The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply to payments under section 1413a of title 10, United States Code, for months beginning on or after January 1, 2004. The amendment made by subsection (d) \[amending this section\] shall take effect on January 1, 2004."
 
 #### Effective Date
 
-Pub. L. 107–314, div. A, title VI, §636(a)(2), Dec. 2, 2002, 116 Stat. 2576, provided that: "Section 1413a of title 10,United States Code, as added by paragraph (1), shall take effect not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\]."
+Pub. L. 107–314, div. A, title VI, §636(a)(2), Dec. 2, 2002, 116 Stat. 2576, provided that: "Section 1413a of title 10, United States Code, as added by paragraph (1), shall take effect not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\]."
 
 #### Clarification of Eligibility of Members of the Coast Guard for Combat-Related Special Compensation
 

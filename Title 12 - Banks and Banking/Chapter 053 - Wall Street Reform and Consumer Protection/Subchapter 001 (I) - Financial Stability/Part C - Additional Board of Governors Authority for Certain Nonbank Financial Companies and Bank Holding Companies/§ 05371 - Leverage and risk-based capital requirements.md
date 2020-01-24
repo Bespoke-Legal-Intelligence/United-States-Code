@@ -52,7 +52,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Minimum leverage capital requirements
 
-&emsp;The appropriate Federal banking agencies shall establish minimum leverage capital requirements on a consolidated basis for insured depository institutions, depository institution holding companies, and nonbank financial companies supervised by the Board of Governors. The minimum leverage capital requirements established under this paragraph shall not be less than the generally applicable leverage capital requirements, which shall serve as a floor for any capital requirements that the agency may require, nor quantitatively lower than the generally applicable leverage capital requirements that were in effect for insured depository institutions as of July 21, 2010.
+&emsp;The appropriate Federal banking agencies shall establish minimum leverage capital requirements on a consolidated basis for insured depository institutions, depository institution holding companies, and nonbank financial companies supervised by the Board of Governors. The minimum leverage capital requirements established under this paragraph shall not be less than the generally applicable leverage capital requirements, which shall serve asa floor for any capital requirements that the agency may require, nor quantitatively lower than the generally applicable leverage capital requirements that were in effect for insured depository institutions as of July 21, 2010.
 
 #### (2) Minimum risk-based capital requirements
 

@@ -4,11 +4,11 @@
 
 (b)(1) The Chief Information Officer of the Department of Defense—
 
-&emsp;(A) is the Chief Information Officer of the Department of Defense for the purposes of sections 3506(a)(2) (other than with respect to business systems and management) and 3544(a)(3) of title 44;
+&emsp;(A) is the Chief Information Officer of the Department of Defense for the purposes of sections 3506(a)(2) (other than with respect to business management) and 3544(a)(3) of title 44;
 
-&emsp;(B) has the responsibilities and duties specified in sections 11315 and 11319 of title 40 (other than with respect to business systems and management);
+&emsp;(B) has the responsibilities and duties specified in sections 11315 and 11319 of title 40 (other than with respect to business management);
 
-&emsp;(C) has the responsibilities specified for the Chief Information Officer in sections 2223(a) (other than with respect to business systems and management) and 2224 of this title;
+&emsp;(C) has the responsibilities specified for the Chief Information Officer in sections 2223(a) (other than with respect to business management) and 2224 of this title;
 
 &emsp;(D) exercises authority, direction, and control over the Information Assurance Directorate of the National Security Agency;
 
@@ -16,11 +16,9 @@
 
 &emsp;(F) has the responsibilities for policy, oversight, guidance, and coordination for all Department of Defense matters related to electromagnetic spectrum, including coordination with other Federal and industry agencies, coordination for classified programs, and in coordination with the Under Secretary for Personnel and Readiness, policies related to spectrum management workforce;
 
-&emsp;(G) has the responsibilities for policy, oversight, guidance, and coordination for nuclear command and control systems;
+&emsp;(G) has the responsibilities for policy, oversight, and guidance for matters related to precision navigation and timing; and
 
-&emsp;(H) has the responsibilities for policy, oversight, and guidance for matters related to precision navigation and timing; and
-
-&emsp;(I) has the responsibilities for policy, oversight, and guidance for the architecture and programs related to the information technology, networking, information assurance, cybersecurity, and cyber capability architectures of the Department.
+&emsp;(H) has the responsibilities for policy, oversight, and guidance for the architecture and programs related to the information technology, networking, information assurance, cybersecurity, and cyber capability architectures of the Department.
 
 (2)(A) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require the Secretaries of the military departments and the heads of the Defense Agencies with responsibilities associated with any activity specified in paragraph (1) to transmit the proposed budget for such activities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year to the Chief Information Officer for review under subparagraph (B) before submitting the proposed budget to the Under Secretary of Defense (Comptroller).
 
@@ -44,17 +42,13 @@
 
 (4) The Chief Information Officer shall perform such additional duties and exercise such powers as the Secretary of Defense may prescribe.
 
-(c) <sup>1</sup> The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) <sup>2</sup> of this title. The officials serving in positions specified in section 131(b)(4) <sup>2</sup> and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.
+(c) <sup>1</sup> The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title. The officials serving in positions specified in section 131(b)(4) and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.
 
 (c) <sup>1</sup> The Chief Information Officer of the Department of Defense shall report directly to the Secretary of Defense in the performance of duties under this section.
 
-(d) The Chief Information Officer of the Department of Defense takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of thistitle. The officials serving in positions specified in such section and the Chief Information Officer take precedence among themselves in the order prescribed by the Secretary of Defense.
+(d) The Chief Information Officer of the Department of Defense takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title. The officials serving in positions specified in such section and the Chief Information Officer take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-(Added and amended Pub. L. 113–291, div. A, title IX, §901(b)(1), (j)(1)(B), Dec. 19, 2014, 128 Stat. 3463, 3467; Pub. L. 114–328, div. A, title IX, §902(a), Dec. 23, 2016, 130 Stat. 2343; Pub. L. 115–91, div. A, title IX, §909(a)–(d), title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1514, 1515, 1597; Pub. L. 115–232, div. A, title IX, §903, Aug. 13, 2018, 132 Stat. 1922.)
-
-#### References in Text
-
-Section 131(b)(4) of this title, referred to in subsec. (c), was redesignated section 131(b)(5) of this title by Pub. L. 115–91, div. A, title IX, §910(c)(1)(A), Dec. 12, 2017, 131 Stat. 1518.
+(Added and amended Pub. L. 113–291, div. A, title IX, §901(b)(1), (j)(1)(B), Dec. 19, 2014, 128 Stat. 3463, 3467; Pub. L. 114–328, div. A, title IX, §902(a), Dec. 23, 2016, 130 Stat. 2343; Pub. L. 115–91, div. A, title IX, §909(a)–(d), title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1514, 1515, 1597; Pub. L. 115–232, div. A, title IX, §903, Aug. 13, 2018, 132 Stat. 1922; Pub. L. 116–92, div. A, title IX, §903(a)(1), title XVI, §1662(b), Dec. 20, 2019, 133 Stat. 1555, 1772.)
 
 #### Prior Provisions
 
@@ -63,6 +57,10 @@ A prior section 142 of this title was renumbered section 138d of this title and 
 Another prior section 142 of this title was contained in chapter 5 of this title, prior to amendment by Pub. L. 99–433. See note preceding section 151 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(1)(A) to (C). Pub. L. 116–92, §903(a)(1), struck out "systems and" after "business".
+
+Subsec. (b)(1)(G) to (I). Pub. L. 116–92, §1662(b), redesignated subpars. (H) and (I) as (G) and (H), respectively, and struck out former subpar. (G) which read as follows: "has the responsibilities for policy, oversight, guidance, and coordination for nuclear command and control systems;".
 
 <b>2018</b>—Subsec. (b)(1)(A). Pub. L. 115–232, §903(1), inserted "(other than with respect to business systems and management)" after "sections 3506(a)(2)".
 
@@ -101,6 +99,4 @@ Pub. L. 113–291, div. A, title IX, §901(j)(1), Dec. 19, 2014, 128 Stat. 3467,
 Pub. L. 115–91, div. A, title IX, §909(f), Dec. 12, 2017, 131 Stat. 1516, provided that: "The individual serving in the position of Chief Information Officer of the Department of Defense as of January 1, 2019, may continue to serve in such position commencing as of that date without further appointment pursuant to section 142 of title 10, United States Code, as amended by this section."
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -174,7 +174,7 @@
 
 &emsp;&emsp;Each contract with a medicaid managed care organization under section 1396b(m) of this title and each contract with a primary care case manager under section 1396d(t)(3) of this title shall require the organization or manager—
 
-&emsp;&emsp;&emsp;(i) to provide coverage for emergency services (as defined in subparagraph (B)) without regard to prior authorization or the emergency care provider's contractual relationship with the organization or manager, and
+&emsp;&emsp;&emsp;(i) to provide coverage for emergency services (as defined in subparagraph (B))without regard to prior authorization or the emergency care provider's contractual relationship with the organization or manager, and
 
 &emsp;&emsp;&emsp;(ii) to comply with guidelines established under section 1395w–22(d)(2) of this title (respecting coordination of post-stabilization care) in the same manner as such guidelines apply to Medicare+Choice plans offered under part C of subchapter XVIII.
 
@@ -298,7 +298,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each contract under section 1396b(m) of this title with a medicaid managed care organization shall provide for an annual (as appropriate) external independent review conducted by a qualified independent entity of the quality outcomes and timeliness of, and access to, the items and services for which the organization is responsible under the contract. The requirement for such a review shall not apply until after the date that the Secretary establishes the identification method described in clause (ii).
+&emsp;&emsp;&emsp;Each contract under section 1396b(m) of this title with a medicaid managed careorganization shall provide for an annual (as appropriate) external independent review conducted by a qualified independent entity of the quality outcomes and timeliness of, and access to, the items and services for which the organization is responsible under the contract. The requirement for such a review shall not apply until after the date that the Secretary establishes the identification method described in clause (ii).
 
 #### (ii) Qualifications of reviewer
 
@@ -370,7 +370,7 @@
 
 #### (B) Service market
 
-&emsp;&emsp;A managed care entity shall distribute marketing materials to the entire service area of such entity covered under the contract under section 1396b(m) of this title or section 1396d(t)(3) of this title.
+&emsp;&emsp;A managed care entity shall distribute marketing materials to the entire servicearea of such entity covered under the contract under section 1396b(m) of this title or section 1396d(t)(3) of this title.
 
 #### (C) Prohibition of tie-ins
 
@@ -474,7 +474,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a managed care entity which has failed to meet the requirements of this part or a contract under section 1396b(m) or 1396d(t)(3) of this title, the State shall have the authority to terminate such contract with the entity and to enroll such entity'senrollees with other managed care entities (or to permit such enrollees to receive medical assistance under the State plan under this subchapter other than through a managed care entity).
+&emsp;&emsp;In the case of a managed care entity which has failed to meet the requirements of this part or a contract under section 1396b(m) or 1396d(t)(3) of this title, the State shall have the authority to terminate such contract with the entity and to enroll such entity's enrollees with other managed care entities (or to permit such enrollees to receive medical assistance under the State plan under this subchapter other than through a managed care entity).
 
 #### (B) Availability of hearing prior to termination of contract
 
@@ -494,7 +494,7 @@
 
 #### (f) Timeliness of payment; adequacy of payment for primary care services
 
-A contract under section 1396b(m) of this title with a medicaid managed care organization shall provide that the organization shall make payment to health care providers for items and services which are subject to the contract and that are furnished to individuals eligible for medical assistance under the State plan under this subchapter who are enrolled with the organization on a timely basis consistent with the claims payment procedures described in section 1396a(a)(37)(A) of this title, unless the health care provider and the organization agree to an alternate payment schedule and, in the case of primary care services described in section 1396a(a)(13)(C) of this title, consistent with the minimum payment rates specified in such section (regardless of the manner in which such payments are made, including in the form of capitation or partial capitation).
+A contract under section 1396b(m) of this title with a medicaid managed care organization shall provide that the organization shall make payment to health care providers for items and services which are subject to the contract and that are furnished to individuals eligible for medical assistance under the State plan under this subchapter who are enrolled with the organization on a timely basis consistent with the claims payment procedures described in section1396a(a)(37)(A) of this title, unless the health care provider and the organization agree to an alternate payment schedule and, in the case of primary care services described in section 1396a(a)(13)(C) of this title, consistent with the minimum payment rates specified in such section (regardless of the manner in which such payments are made, including in the form of capitation or partial capitation).
 
 #### (g) Identification of patients for purposes of making DSH payments
 
@@ -586,7 +586,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 Beginning not later than October 1, 2019, each contract under a State plan with a managed care entity (other than a primary care case manager) under section 1396b(m) of this title shall provide that the entity is in compliance with the applicable provisions of section 438.3(s)(2) of title 42, Code of Federal Regulations, section 483.3(s)(4)) <sup>2</sup> of such title, and section 483.3(s)(5) <sup>3</sup> of such title, as such provisions were in effect on March 31, 2018.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507; Pub. L. 111–152, title I, §1202(a)(2), Mar. 30, 2010, 124 Stat. 1053; Pub. L. 114–255, div. A, title V, §5005(a)(2), (b)(2), Dec. 13, 2016, 130 Stat. 1192, 1193; Pub. L. 115–271, title I, §1004(a)(3), Oct. 24, 2018, 132 Stat. 3911.)
+(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507; Pub. L. 111–152, title I, §1202(a)(2), Mar. 30, 2010, 124 Stat. 1053; Pub. L. 114–255, div. A, title V, §5005(a)(2), (b)(2), Dec. 13, 2016, 130 Stat. 1192, 1193; Pub. L. 115–271, title I, §1004(a)(3), Oct. 24, 2018, 132 Stat. 3911.)
 
 #### References in Text
 
@@ -600,7 +600,7 @@ Section 9517(c)(3) of the Omnibus Budget Reconciliation Act of 1985, referred to
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(3)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Public Health Service Act, referred to in subsec. (b)(8), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting "
+The Public Health Service Act, referred to in subsec. (b)(8), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2),\(11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting "
 
 subpart ii—improving coverage" (preceding section 300gg–11 of this title), by striking out "
 

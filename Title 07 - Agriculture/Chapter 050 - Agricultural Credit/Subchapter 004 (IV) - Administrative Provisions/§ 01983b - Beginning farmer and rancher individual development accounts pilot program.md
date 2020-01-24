@@ -64,7 +64,7 @@ In this section:
 
 #### (B) Federal funds
 
-&emsp;&emsp;After the qualified entity has deposited the non-Federal matching funds described insubparagraph (A) in the reserve fund, the Secretary shall provide the total amount of the grant awarded under this section to the demonstration program for deposit in the reserve fund.
+&emsp;&emsp;After the qualified entity has deposited the non-Federal matching funds described in subparagraph (A) in the reserve fund, the Secretary shall provide the total amount of the grant awarded under this section to the demonstration program for deposit in the reserve fund.
 
 #### (C) Use of funds
 
@@ -210,7 +210,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days after the end of the calendar year in which the Secretary authorizes a qualified entity to carry out a demonstration program under this section, and annually thereafter until the conclusion of the demonstration program, the qualified entity shall prepare an annual report that includes, for the period covered by the report—
+&emsp;&emsp;Not later than 60 days after the end of the calendar year in which the Secretary authorizes a qualified entity to carry out a demonstration program under this section, and annually thereafter until the conclusion of the demonstration program, the qualifiedentity shall prepare an annual report that includes, for the period covered by the report—
 
 &emsp;&emsp;&emsp;(i) an evaluation of the progress of the demonstration program;
 

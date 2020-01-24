@@ -102,7 +102,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;(iv) otherwise settle a debarment action at any time;
 
-> &emsp;&emsp;in conjunction with the participation of a local agency in a child nutrition program, if the Secretary determines there is good cause for the action, after taking into account factors set forth in paragraphs (1) through (6) of subsection (e).
+> &emsp;&emsp;in conjunction with the participation of a local agency in a child nutrition program, ifthe Secretary determines there is good cause for the action, after taking into account factors set forth in paragraphs (1) through (6) of subsection (e).
 
 #### (5) Information
 
@@ -150,10 +150,6 @@ On request, the Secretary shall present to the Committee on Education and Labor,
 
 <b>1998</b>—Subsec. (b)(1)(D) to (G). Pub. L. 105–336 redesignated subpars. (E) to (G) as (D) to (F), respectively, and struck out former subpar. (D) which read as follows: "the homeless children nutrition program established under section 1766b of this title;".
 
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–336 effective July 1, 1999, see section 107(j)(4) of Pub. L. 105–336, set out as a note under section 1761 of this title.
@@ -162,7 +158,7 @@ Amendment by Pub. L. 105–336 effective July 1, 1999, see section 107(j)(4) of 
 
 Section effective Oct. 1, 1994, see section 401 of Pub. L. 103–448, set out as an Effective Date of 1994 Amendment note under section 1755 of this title.
 
-Pub. L. 103–448, title I, §122(b), Nov. 2, 1994, 108 Stat. 4730, provided that: "Section 25 of the \[Richard B. Russell\] National School Lunch Act \[42 U.S.C. 1769f\] (as added by subsection (a)) shall not apply to a cause for debarment as described in section 25(d)(2) of such Actthat is based on an activity that took place prior to the effective date of section 25 of such Act \[Oct. 1, 1994\]."
+Pub. L. 103–448, title I, §122(b), Nov. 2, 1994, 108 Stat. 4730, provided that: "Section 25 of the \[Richard B. Russell\] National School Lunch Act \[42 U.S.C. 1769f\] (as added by subsection (a)) shall not apply to a cause for debarment as described in section 25(d)(2) of such Act that is based on an activity that took place prior to the effective date of section 25 of such Act \[Oct. 1, 1994\]."
 
 #### No Reduction in Authority of Secretary of Agriculture To Debar or Suspend a Person From Federal Financial and Nonfinancial Assistance and Benefits
 

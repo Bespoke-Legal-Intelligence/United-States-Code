@@ -62,7 +62,7 @@ In addition to the duties contained in subsection (b), each incumbent local exch
 
 &emsp;&emsp;(A) to offer for resale at wholesale rates any telecommunications service that the carrier provides at retail to subscribers who are not telecommunications carriers; and
 
-&emsp;&emsp;(B) not to prohibit, and not to impose unreasonable or discriminatory conditions or limitations on, the resale of such telecommunications service, except that a State commission may, consistent with regulations prescribed by the Commission under this section, prohibit a reseller that obtains at wholesale rates a telecommunications service that is available at retail only to a category of subscribers from offering such service to a different category of subscribers.
+&emsp;&emsp;(B) not to prohibit, and not to impose unreasonable or discriminatory conditions or limitations on, the resale of such telecommunications service, except that a State commission may, consistent with regulations prescribed by the Commission underthis section, prohibit a reseller that obtains at wholesale rates a telecommunications service that is available at retail only to a category of subscribers from offering such service to a different category of subscribers.
 
 #### (5) Notice of changes
 
@@ -124,7 +124,7 @@ In addition to the duties contained in subsection (b), each incumbent local exch
 
 #### (C) Limitation on exemption
 
-&emsp;&emsp;The exemption provided by this paragraph shall not apply with respect to a request under subsection (c) from a cable operator providing video programming, and seeking to provide any telecommunications service, in the area in which the rural telephone company provides video programming. The limitation contained in this subparagraph shall not apply to a rural telephone company that is providing video programming on February 8, 1996.
+&emsp;&emsp;The exemption provided by this paragraph shall not apply with respect to a request under subsection (c) from a cable operator providing video programming, and seekingto provide any telecommunications service, in the area in which the rural telephone company provides video programming. The limitation contained in this subparagraph shall not apply to a rural telephone company that is providing video programming on February 8, 1996.
 
 #### (2) Suspensions and modifications for rural carriers
 

@@ -340,10 +340,6 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (l)(3)(C), 237(c), title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372; Pub. L. 110–275, title I, §§164(d)(2), 171(b), 172(a)(2), 173(b), July 15, 2008, 122 Stat. 2574, 2580, 2581; Pub. L. 111–148, title VI, §6408(b), Mar. 23, 2010, 124 Stat. 771; Pub. L. 111–152, title I, §1103, Mar. 30, 2010, 124 Stat. 1047; Pub. L. 114–255, div. C, title XVII, §17001(b), Dec. 13, 2016, 130 Stat. 1330; Pub. L. 115–271, title II, §2008(b), title VI, §6063(b), Oct. 24, 2018, 132 Stat. 3931, 3988.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 2008(b) of Pub. L. 115–271 applicable with respect to plan years beginning on or after Jan. 1, 2020. See 2018 Amendment note below.</i>
-
 #### Amendments
 
 <b>2018</b>—Subsec. (e)(5). Pub. L. 115–271, §6063(b), added par. (5).
@@ -478,7 +474,7 @@ Pub. L. 108–173, title I, §107(d), Dec. 8, 2003, 117 Stat. 2171, directed the
 
 #### Immediate Effective Date for Certain Requirements for Demonstrations
 
-Pub. L. 105–33, title IV, §4002(g), Aug. 5, 1997, 111 Stat. 330, provided that: "Section 1857(e)(2) of the Social Security Act \[42 U.S.C. 1395w–27(e)(2)\] (requiring contribution to certain costs related to the enrollment process comparative materials) applies to demonstrations with respect to which enrollment is effected or coordinated under section 1851 of such Act \[42 U.S.C. 1395w–21\]."
+Pub. L. 105–33, title IV, §4002(g), Aug. 5, 1997, 111 Stat. 330, provided that: "Section 1857(e)(2) of the Social Security Act \[42 U.S.C. 1395w–27(e)(2)\] (requiring contribution to certain costs related to the enrollment processcomparative materials) applies to demonstrations with respect to which enrollment is effected or coordinated under section 1851 of such Act \[42 U.S.C. 1395w–21\]."
 
 <i><sup>1</sup></i><i> So in original. Probably means subpar. (E) of par. (1).</i>
 

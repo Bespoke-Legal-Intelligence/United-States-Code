@@ -42,7 +42,7 @@ Section 2166 of this title, referred to in subsec. (a)(3), was repealed by Pub. 
 
 Section was formerly classified to section 60j of this title prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
-Subsecs. (a) and (b) of this section are from subsecs. (a) and (b) of section 106 of the Legislative Branch Appropriation Act, 1963 (Pub. L. 87–730). Subsec. (c) of this section was the second sentence of subsec. (d) of section 106, and was repealed by section 104(b) of Pub. L. 88–454. Subsec. (c) of section 106 repealed section 60i of this title, and the first sentence of subsec. (d) of section 106 repealed section 105 of the Legislative Branch Appropriation Act, 1959.
+Subsecs. (a) and (b) of this section are from subsecs. (a) and (b) of section 106 of the Legislative Branch Appropriation Act, 1963 (Pub. L. 87–730). Subsec. (c) of this section was the second sentence of subsec. (d) of section 106, and was repealed by section 104(b) of Pub. L. 88–454.Subsec. (c) of section 106 repealed section 60i of this title, and the first sentence of subsec. (d) of section 106 repealed section 105 of the Legislative Branch Appropriation Act, 1959.
 
 #### Amendments
 

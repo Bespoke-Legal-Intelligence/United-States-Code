@@ -54,7 +54,7 @@ No reductions in rates of pay.—
 
 &emsp;"(A)
 
-In general.—The amendments made by this section may not result, at the time such amendments take effect, in a reduction in the rate of basic pay for an individual holding a position to which section 5376 of title 5, United States Code, applies.
+In general.—The amendments made by this section may not result, at the time such amendments take effect, in a reduction in the rate of basic pay foran individual holding a position to which section 5376 of title 5, United States Code, applies.
 
 &emsp;"(B)
 

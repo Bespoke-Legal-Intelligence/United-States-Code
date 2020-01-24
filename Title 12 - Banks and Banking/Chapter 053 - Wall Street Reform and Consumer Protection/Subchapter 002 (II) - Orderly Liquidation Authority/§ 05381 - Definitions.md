@@ -22,7 +22,7 @@ In this subchapter, the following definitions shall apply:
 
 #### (4) Claim
 
-&emsp;The term "claim" means any right to payment, whether or not such right is reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal, equitable, secured, or unsecured.
+&emsp;The term "claim" means any right to payment, whether or not such right is reduced tojudgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal, equitable, secured, or unsecured.
 
 #### (5) Company
 

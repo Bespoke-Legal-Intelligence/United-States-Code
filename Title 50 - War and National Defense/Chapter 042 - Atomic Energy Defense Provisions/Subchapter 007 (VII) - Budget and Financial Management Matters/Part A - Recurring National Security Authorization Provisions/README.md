@@ -21,4 +21,4 @@ Part A—Recurring National Security Authorization Provisions
 - [&sect; 02753 - Notification of cost overruns for certain Department of Energy projects](%C2%A7%2002753%20-%20Notification%20of%20cost%20overruns%20for%20certain%20Department%20of%20Energy%20projects.md)
 - [&sect; 02754 - Life-cycle cost estimates of certain atomic energy defense capital assets](%C2%A7%2002754%20-%20Life-cycle%20cost%20estimates%20of%20certain%20atomic%20energy%20defense%20capital%20assets.md)
 - [&sect; 02755 - Matters relating to critical decisions](%C2%A7%2002755%20-%20Matters%20relating%20to%20critical%20decisions.md)
-- [&sect; 02756 - Unfunded priorities of the National Nuclear Security Administration](%C2%A7%2002756%20-%20Unfunded%20priorities%20of%20the%20National%20Nuclear%20Security%20Administration.md)
+- [&sect; 02756 - Unfunded priorities of the Administration](%C2%A7%2002756%20-%20Unfunded%20priorities%20of%20the%20Administration.md)

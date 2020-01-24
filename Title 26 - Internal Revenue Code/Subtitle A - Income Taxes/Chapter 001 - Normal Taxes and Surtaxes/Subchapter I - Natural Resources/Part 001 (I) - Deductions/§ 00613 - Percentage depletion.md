@@ -46,7 +46,7 @@ The mines, wells, and other natural deposits, and the percentages, referred to i
 
 #### (7) 14 percent
 
-&emsp;All other minerals, including, but not limited to, aplite, barite, borax, calcium carbonates, diatomaceous earth, dolomite, feldspar, fullers earth, garnet, gilsonite, granite, limestone, magnesite, magnesium carbonates,marble, mollusk shells (including clam shells and oyster shells), phosphate rock, potash, quartzite, slate, soapstone, stone (used or sold for use by the mine owner or operator as dimension stone or ornamental stone), thenardite, tripoli, trona, and (if paragraph (1)(B) does not apply) bauxite, flake graphite, fluorspar, lepidolite, mica, spodumene, and talc (including pyrophyllite), except that, unless sold on bid in direct competition with a bona fide bid to sell a mineral listed in paragraph (3), the percentage shall be 5 percent for any such other mineral (other than slate to which paragraph (5) applies) when used, or sold for use, by the mine owner or operator as rip rap, ballast, road material, rubble, concrete aggregates, or for similar purposes. For purposes of this paragraph, the term "all other minerals" does not include—
+&emsp;All other minerals, including, but not limited to, aplite, barite, borax, calcium carbonates, diatomaceous earth, dolomite, feldspar, fullers earth, garnet, gilsonite, granite, limestone, magnesite, magnesium carbonates, marble, mollusk shells (including clam shells and oyster shells), phosphate rock, potash, quartzite, slate, soapstone, stone (used or sold for use by the mine owner or operator as dimension stone or ornamental stone), thenardite, tripoli, trona, and (if paragraph (1)(B) does not apply) bauxite, flake graphite, fluorspar, lepidolite, mica, spodumene, and talc (including pyrophyllite), except that, unless sold on bid in direct competition with a bona fide bid to sell a mineral listed in paragraph (3), the percentage shall be 5 percent for any such other mineral (other than slate to which paragraph (5) applies) when used, or sold for use, by the mine owner or operator as rip rap, ballast, road material, rubble, concrete aggregates, or for similar purposes. For purposes of this paragraph, the term "all other minerals" does not include—
 
 &emsp;&emsp;(A) soil, sod, dirt, turf, water, or mosses;
 
@@ -172,7 +172,7 @@ Subsec. (b)(3)(B). Pub. L. 89–809, §§207(a)(2), 209(a)(2), substituted "if n
 
 Subsec. (b)(5). Pub. L. 89–809, §209(a)(1), added par. (5). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 89–809, §§208(a)(1), 209(a)(1), (3), (4), redesignated par. (5) as (6), struck out "mollusk shells (including clam shells and oyster shells),", substituted "shale (except shale described in paragraph (5)), and stone (except stone described in paragraph (7))" for "shale, and stone, except stone described in paragraph (6)" in subpar. (A), and struck out "buildingor paving brick," and "sewer pipe," in subpar. (B). Former par. (6) redesignated (7).
+Subsec. (b)(6). Pub. L. 89–809, §§208(a)(1), 209(a)(1), (3), (4), redesignated par. (5) as (6), struck out "mollusk shells (including clam shells and oyster shells),", substituted "shale (except shale described in paragraph (5)), and stone (except stone described in paragraph (7))" for "shale, and stone, except stone described in paragraph (6)" in subpar. (A), and struck out "building or paving brick," and "sewer pipe," in subpar. (B). Former par. (6) redesignated (7).
 
 Subsec. (b)(7). Pub. L. 89–809, §§208(a)(2), 209(a)(1), (5), redesignated par. (6) as (7) and inserted "mollusk shells (including clam shells and oyster shells)," after "marble," and "(other than slate to which paragraph (5) applies)" after "any other such mineral".
 
@@ -246,7 +246,7 @@ Pub. L. 89–809, title II, §207(b), Nov. 13, 1966, 80 Stat. 1579, provided tha
 
 Pub. L. 89–809, title II, §208(b), Nov. 13, 1966, 80 Stat. 1579, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 13, 1966\]."
 
-Pub. L. 89–809, title II, §209(c), Nov. 13, 1966, 80 Stat. 1580, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall applyto taxable years beginning after the date of the enactment of this Act \[Nov. 13, 1966\]."
+Pub. L. 89–809, title II, §209(c), Nov. 13, 1966, 80 Stat. 1580, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 13, 1966\]."
 
 #### Effective Date of 1964 Amendment
 

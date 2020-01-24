@@ -48,7 +48,7 @@ Authority to issue regulations.—The Secretary may satisfy the requirements of 
 
 Minimum requirements of integrity management programs.—An integrity management program required under paragraph (1) shall include, at a minimum, the following requirements:
 
-&emsp;&emsp;(A) A baseline integrity assessment of each of the operator's facilities in areas identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, by internal inspection device, pressure testing, direct assessment, or an alternative method that the Secretary determines would provide an equal or greater level of safety. The operator shall complete such assessment not later than 10 years after the date of enactment of this subsection. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
+&emsp;&emsp;(A) A baseline integrity assessment of each of the operator's facilities in areas identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, by internal inspection device, pressure testing, direct assessment, or an alternative method that the Secretary determines would provide an equal or greater level of safety. The operator shall complete such assessment not later than 10 years after the date of enactment of this subsection. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies andany history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
 
 &emsp;&emsp;(B) Subject to paragraph (5), periodic reassessments of the facility, at a minimum of once every 7 calendar years, using methods described in subparagraph (A). The Secretary may extend such deadline for an additional 6 months if the operator submits written notice to the Secretary with sufficient justification of the need for the extension.
 
@@ -90,7 +90,7 @@ Standards.—The standards prescribed by the Secretary under paragraph (2) shall
 
 &emsp;&emsp;(G) Such other factors as the Secretary determines appropriate to ensure that the integrity of a pipeline facility is addressed and that appropriate mitigative measures are adopted to protect areas identified under subsection (a)(1).
 
-> &emsp;In prescribing those standards, the Secretary shall ensure that all inspections required areconducted in a manner that minimizes environmental and safety risks, and shall take into account the applicable level of protection established by national consensus standards organizations.
+> &emsp;In prescribing those standards, the Secretary shall ensure that all inspections required are conducted in a manner that minimizes environmental and safety risks, and shall take into account the applicable level of protection established by national consensus standards organizations.
 
 &emsp;(7)
 
@@ -170,7 +170,7 @@ In general.—The minimum standards shall include a requirement for an operator 
 
 &emsp;&emsp;&emsp;(iii) the service line is not connected to a gas stream with respect to which the operator has had prior experience with contaminants the presence of which could interfere with the operation of an excess flow valve;
 
-&emsp;&emsp;&emsp;(iv) the installation of an excess flow valve on the service line is not likely tocause loss of service to the residence or interfere with necessary operation or maintenance activities, such as purging liquids from the service line; and
+&emsp;&emsp;&emsp;(iv) the installation of an excess flow valve on the service line is not likely to cause loss of service to the residence or interfere with necessary operation or maintenance activities, such as purging liquids from the service line; and
 
 &emsp;&emsp;&emsp;(v) an excess flow valve meeting performance standards developed under section 60110(e) of title 49, United States Code, is commercially available to the operator, as determined by the Secretary.
 
@@ -306,7 +306,7 @@ Subsec. (d). Pub. L. 107–355, §14(b), added subsec. (d).
 
 Subsec. (a)(1)(B)(i). Pub. L. 104–304, §7(a), substituted "waters where a substantial likelihood of commercial navigation exists" for "a navigable waterway (as the Secretary defines by regulation)".
 
-Subsec. (b). Pub. L. 104–304, §7(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "When describing an area that is unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider including—
+Subsec. (b). Pub. L. 104–304, §7(b), reenacted heading without change and amended text generally. Prior toamendment, text read as follows: "When describing an area that is unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider including—
 
 &emsp;"(1) earthquake zones and areas subject to landslides and other substantial ground movements;
 
@@ -384,7 +384,7 @@ Review period defined.—In this subsection, the term 'review period' means the 
 
 &emsp;"(2)
 
-Congressional authority.—In order to provide Congress the necessary time to review the results of the report required by subsection (c) and implementappropriate recommendations, the Secretary shall not, during the review period, issue final regulations described in paragraph (3)(B).
+Congressional authority.—In order to provide Congress the necessary time to review the results of the report required by subsection (c) and implement appropriate recommendations, the Secretary shall not, during the review period, issue final regulations described in paragraph (3)(B).
 
 &emsp;"(3)
 

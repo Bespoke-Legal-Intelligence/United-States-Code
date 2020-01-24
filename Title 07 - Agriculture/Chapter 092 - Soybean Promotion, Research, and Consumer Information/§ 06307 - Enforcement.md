@@ -16,7 +16,7 @@ A civil action authorized to be commenced under this section shall be referred t
 
 &emsp;&emsp;(A) a civil penalty by the Secretary of not more than $1,000 for each such violation; and
 
-&emsp;&emsp;(B) in the case of a willful failure to pay, collect, or remit an assessment as required by the order or regulation, an additionalpenalty equal to the amount of such assessment.
+&emsp;&emsp;(B) in the case of a willful failure to pay, collect, or remit an assessment as required by the order or regulation, an additional penalty equal to the amount of such assessment.
 
 > &emsp;Each violation shall be a separate offense.
 

@@ -24,7 +24,7 @@ Section was formerly classified to section 143 of this title prior to renumberin
 
 Par. (1)(B). Pub. L. 115–278, §2(g)(9)(A)(i)(II), struck out "and" at end.
 
-<b>2014</b>—Pub. L. 113–283, §2(e)(3)(A)(i), (ii), inserted "Federal and" before "non-Federal" in section catchlineand substituted "the Under Secretary appointed under section 113(a)(1)(H) of this title" for "the Under Secretary for Intelligence and Analysis, in cooperation with the Assistant Secretary for Infrastructure Protection" in introductory provisions.
+<b>2014</b>—Pub. L. 113–283, §2(e)(3)(A)(i), (ii), inserted "Federal and" before "non-Federal" in section catchline and substituted "the Under Secretary appointed under section 113(a)(1)(H) of this title" for "the Under Secretary for Intelligence and Analysis, in cooperation with the Assistant Secretary for Infrastructure Protection" in introductory provisions.
 
 Par. (3). Pub. L. 113–283, §2(e)(3)(A)(iii), (iv), added par. (3).
 

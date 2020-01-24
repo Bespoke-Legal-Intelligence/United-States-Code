@@ -8,7 +8,7 @@
 
 #### (2) Terms
 
-&emsp;Grants made under this subsection shall be made over a multiyear period not to exceed 10 years, under such other terms as the Administrator may require.
+&emsp;Grants made under this subsection shall be made over a multiyear period not to exceed 10years, under such other terms as the Administrator may require.
 
 #### (3) Grants to specialized small business investment companies
 

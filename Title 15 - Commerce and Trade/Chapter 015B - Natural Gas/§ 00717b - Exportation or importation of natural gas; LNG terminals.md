@@ -78,7 +78,7 @@ The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title
 
 The Clean Air Act, referred to in subsec. (d)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (d)(3), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (d)(3), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see ShortTitle note set out under section 1251 of Title 33 and Tables.
 
 #### Amendments
 
@@ -96,7 +96,7 @@ Enforcement functions of Secretary or other official in Department of Energy and
 
 Functions of President respecting certain facilities constructed and maintained on United States borders delegated to Secretary of State, see Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, set out as a note under section 301 of Title 3, The President.
 
-#### Ex. Ord. No. 10485. Performance of Functions Respecting Electric Power and Natural Gas Facilities Located on United States Borders
+#### Ex. Ord. No. 10485. Providing for the Performance of Certain Functions Heretofore Performed by the President With Respect to Electric Power and Natural Gas Facilities Located on the Borders of the United States
 
 Ex. Ord. No. 10485. Sept. 3, 1953, 18 F.R. 5397, as amended by Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, provided:
 

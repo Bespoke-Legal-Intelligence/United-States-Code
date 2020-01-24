@@ -134,7 +134,7 @@ Subsec. (g). Pub. L. 100–476 added subsec. (g).
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–472 added subsec. (c).
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–121 designated existing provisions as subsec. (a), substituted provisions authorizing to be appropriated an amount not to exceed $25,210,000 for fiscal year ending Sept. 30, 1980, for provisions authorizing appropriations not to exceed $3,750,000 for the transitional fiscal quarter of July 1, 1976 through Sept. 30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, not to exceed $20,000,000 for fiscal year ending Sept. 30, 1978, and not to exceed $24,352,000 for fiscal year ending Sept. 30, 1979, and added pars. (1) to (6).
+<b>1979</b>—Subsec. (a). Pub. L. 96–121 designated existing provisions as subsec. (a), substituted provisions authorizing to be appropriated an amount not to exceed $25,210,000 for fiscal year ending Sept. 30, 1980, for provisions authorizing appropriations not to exceed $3,750,000 for the transitional fiscal quarter of July 1, 1976 through Sept. 30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, not to exceed $20,000,000 for fiscal year ending Sept. 30, 1978, and notto exceed $24,352,000 for fiscal year ending Sept. 30, 1979, and added pars. (1) to (6).
 
 Subsec. (b). Pub. L. 96–121 added subsec. (b).
 

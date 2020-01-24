@@ -26,7 +26,7 @@ Except as otherwise provided, in this chapter:
 
 #### (D) Children with disabilities
 
-&emsp;&emsp;If a local educational agency makes a tuition payment to a private school or to a public school of another local educational agency for a child with a disability, as defined in section 1401 of this title, the Secretary shall,for the purpose of this chapter, consider the child to be in attendance at a school of the agency making the payment.
+&emsp;&emsp;If a local educational agency makes a tuition payment to a private school or to a public school of another local educational agency for a child with a disability, as defined in section 1401 of this title, the Secretary shall, for the purpose of this chapter, consider the child to be in attendance at a school of the agency making the payment.
 
 #### (2) Average per-pupil expenditure
 
@@ -212,7 +212,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) a summer session immediately following the additional year of high school; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) all students with the most significant cognitive disabilities in the cohort, as adjusted under clause (i), assessed using the alternate assessmentaligned to alternate academic achievement standards under section 6311(b)(2)(D) of this title and awarded a State-defined alternate diploma that is—
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) all students with the most significant cognitive disabilities in the cohort, as adjusted under clause (i), assessed using the alternate assessment aligned to alternate academic achievement standards under section 6311(b)(2)(D) of this title and awarded a State-defined alternate diploma that is—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) standards-based;
 
@@ -278,7 +278,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) a summer session immediately following the fourth year of high school; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) all students with the most significant cognitive disabilities in the cohort, as adjusted under clause (i), assessed using the alternate assessment aligned to alternate academic achievement standards under section 6311(b)(2)(D) of this title and awarded a State-defined alternate diploma that is—
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) all students with the most significant cognitive disabilities in thecohort, as adjusted under clause (i), assessed using the alternate assessment aligned to alternate academic achievement standards under section 6311(b)(2)(D) of this title and awarded a State-defined alternate diploma that is—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) standards-based;
 
@@ -358,7 +358,7 @@ Except as otherwise provided, in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "local educational agency" means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of a State, or of or for a combination of school districts or counties that is recognized in a State as an administrative agency for its public elementary schools or secondary schools.
+&emsp;&emsp;The term "local educational agency" means a public board of education or otherpublic authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of a State, or of or for a combination of school districts or counties that is recognized in a State as an administrative agency for its public elementary schools or secondary schools.
 
 #### (B) Administrative control and direction
 
@@ -440,7 +440,7 @@ Except as otherwise provided, in this chapter:
 
 #### (41) Poverty line
 
-&emsp;The term "poverty line" means the poverty line (as defined by the Office of Managementand Budget and revised annually in accordance with section 9902(2) of title 42) applicable to a family of the size involved.
+&emsp;The term "poverty line" means the poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of title 42) applicable to a family of the size involved.
 
 #### (42) Professional development
 
@@ -500,7 +500,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;The term "regular high school diploma"—
 
-&emsp;&emsp;(A) means the standard high school diploma awarded to the preponderance of students in the State that is fully aligned with State standards, or a higher diploma, except that a regular high school diploma shall notbe aligned to the alternate academic achievement standards described in section 6311(b)(1)(E) of this title; and
+&emsp;&emsp;(A) means the standard high school diploma awarded to the preponderance of students in the State that is fully aligned with State standards, or a higher diploma, except that a regular high school diploma shall not be aligned to the alternate academic achievement standards described in section 6311(b)(1)(E) of this title; and
 
 &emsp;&emsp;(B) does not include a recognized equivalent of a diploma, such as a general equivalency diploma, certificate of completion, certificate of attendance, or similar lesser credential.
 

@@ -16,7 +16,7 @@ Except as otherwise provided in subsection (d) of this section, the Secretary in
 
 &emsp;(B) the provision of a forum for the expression of opinions and recommendations by persons interested in any matter related to subsistence uses of fish and wildlife within the region;
 
-&emsp;(C) the encouragement of local and regional participation pursuant to the provisions of this subchapter in the decisionmaking process affecting the taking of fish and wildlife on the public lands within the region for subsistence uses;
+&emsp;(C) the encouragement of local and regional participation pursuant to the provisions of this subchapter in the decisionmaking process affecting the taking of fish and wildlife on thepublic lands within the region for subsistence uses;
 
 &emsp;(D) the preparation of an annual report to the Secretary which shall contain—
 
@@ -34,7 +34,7 @@ The Secretary shall assign adequate qualified staff to the regional advisory cou
 
 #### (c) Consideration of reports and recommendations of regional advisory councils
 
-The Secretary, in performing his monitoring responsibility pursuant to section 3116 of this title and in the exercise of his closure and other administrative authority over the public lands, shall consider the report and recommendations of the regional advisory councils concerning thetaking of fish and wildlife on the public lands within their respective regions for subsistence uses. The Secretary may choose not to follow any recommendation which he determines is not supported by substantial evidence, violates recognized principles of fish and wildlife conservation, or would be detrimental to the satisfaction of subsistence needs. If a recommendation is not adopted by the Secretary, he shall set forth the factual basis and the reasons for his decision.
+The Secretary, in performing his monitoring responsibility pursuant to section 3116 of this title and in the exercise of his closure and other administrative authority over the public lands, shall consider the report and recommendations of the regional advisory councils concerning the taking of fish and wildlife on the public lands within their respective regions for subsistence uses. The Secretary may choose not to follow any recommendation which he determines is not supported by substantial evidence, violates recognized principles of fish and wildlife conservation, or would be detrimental to the satisfaction of subsistence needs. If a recommendation is not adopted by the Secretary, he shall set forth the factual basis and the reasons for his decision.
 
 #### (d) Supersedure by enactment and implementation of State laws governing State responsibility; consideration of recommendations by State rulemaking authority
 

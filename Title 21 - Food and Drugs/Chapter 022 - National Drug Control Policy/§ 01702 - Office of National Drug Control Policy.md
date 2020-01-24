@@ -4,17 +4,17 @@
 
 There is established in the Executive Office of the President an Office of National Drug Control Policy, which shall—
 
-&emsp;(1) lead the national drug control effort, including coordinating with the National Drug Control Program Agencies;
+&emsp;(1) lead the national drug control effort, including coordinating with the National Drug Control Program agencies;
 
 &emsp;(2) coordinate and oversee the implementation of the national drug control policy, including the National Drug Control Strategy;
 
 &emsp;(3) assess and certify the adequacy of National Drug Control Programs and the budget for those programs;
 
-&emsp;(4) evaluate the effectiveness of national drug control policy efforts, including the National Drug Control Program Agencies' program, <sup>1</sup> by developing and applying specific goals and performance measurements and monitoring the agencies' program-level spending;
+&emsp;(4) evaluate the effectiveness of national drug control policy efforts, including the National Drug Control Program Agencies' <sup>1</sup> programs, by developing and applying specific goals and performance measurements and monitoring the agencies' program-level spending;
 
 &emsp;(5) identify and respond to emerging drug threats related to illicit drug use;
 
-&emsp;(6) administer the Drug-Free Communities Program, the High-Intensity <sup>2</sup> Drug Trafficking Areas Program, and other grant programs directly authorized to be administered by the Office in furtherance of the National Drug Control Strategy; and
+&emsp;(6) administer the Drug-Free Communities Program, the High Intensity Drug Trafficking Areas Program, and other grant programs directly authorized to be administered by the Office in furtherance of the National Drug Control Strategy; and
 
 &emsp;(7) facilitate broad-scale information sharing and data standardization among Federal, State, and local entities to support the national drug control efforts.
 
@@ -22,7 +22,7 @@ There is established in the Executive Office of the President an Office of Natio
 
 #### (c) Access by Congress
 
-The location of the Office in the Executive Office of the President shall not be construed as affecting access by Congress, or any committee of the House of Representatives or the Senate, to any—
+The location of the Office in the Executive Office of the President shall not be construed as affecting access by Congress, or any committeeof the House of Representatives or the Senate, to any—
 
 &emsp;(1) information, document, or study in the possession of, or conducted by or at the direction of the Director; or
 
@@ -46,9 +46,9 @@ The location of the Office in the Executive Office of the President shall not be
 
 &emsp;The Director shall establish written guidelines setting forth the criteria to be used in determining whether a gift or donation should be declined under this subsection because the acceptance of the gift or donation would—
 
-&emsp;&emsp;(A) reflect unfavorably upon the ability of the Director or the Office, or any employee of the Office, to carry out responsibilities or official duties under this chapter <sup>3</sup> in a fair and objective manner; or
+&emsp;&emsp;(A) reflect unfavorably upon the ability of the Director or the Office, or any employee of the Office, to carry out responsibilities or official duties under this chapter in a fair and objective manner; or
 
-&emsp;&emsp;(B) compromise the integrity or the appearance of integrity of programs or services provided under this chapter <sup>3</sup> or of any official involved in those programs or services.
+&emsp;&emsp;(B) compromise the integrity or the appearance of integrity of programs or services provided under this chapter or of any official involved in those programs or services.
 
 #### (5) Registry of gifts
 
@@ -62,13 +62,21 @@ The location of the Office in the Executive Office of the President shall not be
 
 &emsp;The Director shall include in the annual assessment under section 1705(g) of this title a copy of the registry maintained under paragraph (5).
 
-(Pub. L. 105–277, div. C, title VII, §§703, 715, Oct. 21, 1998, 112 Stat. 2681–672, 2681–693; Pub. L. 109–469, title I, §102, title VI, §602, title XI, §1120, Dec. 29, 2006, 120 Stat. 3505, 3533, 3548; Pub. L. 115–271, title VIII, §§8202(a), (b)(2), 8217(a), (b), 8222(1), Oct. 24, 2018, 132 Stat. 4110, 4119, 4142.)
+(Pub. L. 105–277, div. C, title VII, §§703, 715, Oct. 21, 1998, 112 Stat. 2681–672, 2681–693; Pub. L. 109–469, title I, §102, title VI, §602, title XI, §1120, Dec. 29, 2006, 120 Stat. 3505, 3533, 3548; Pub. L. 115–271, title VIII, §§8202(a), (b)(2), 8217(a), (b), 8222(1), Oct. 24, 2018, 132 Stat. 4110, 4119, 4142; Pub. L. 116–74, §2(a)(2), (4), Nov. 27, 2019, 133 Stat. 1155.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(4), was so in the original, but probably should have been a reference to "this title", meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
+This chapter, referred to in subsec. (d)(4), was in the original a reference to "this title", meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(1). Pub. L. 116–74, §2(a)(2), substituted "National Drug Control Program agencies" for "National Drug Control Program Agencies".
+
+Subsec. (a)(4). Pub. L. 116–74, §2(a)(4)(A)(i), substituted "programs," for "program,".
+
+Subsec. (a)(6). Pub. L. 116–74, §2(a)(4)(A)(ii), substituted "High Intensity" for "High-Intensity".
+
+Subsec. (d)(4). Pub. L. 116–74, §2(a)(4)(B), made technical amendment to reference in original act which appears in text as reference to this chapter in subpars. (A) and (B).
 
 <b>2018</b>—Pub. L. 115–271, §8202(b)(2), repealed Pub. L. 105–277, §715. See 1998 Amendment note below.
 
@@ -98,9 +106,13 @@ Subsec. (b). Pub. L. 109–469, §102(b), amended subsec. (b) generally. Prior t
 
 #### Gifts to Office of National Drug Control Policy
 
-Pub. L. 115–141, div. E, title II, Mar. 23, 2018, 132 Stat. 549, provided in part: "That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office."
+Pub. L. 116–93, div. C, title II, Dec. 20, 2019, 133 Stat. 2448, provided in part: "That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–6, div. D, title II, Feb. 15, 2019, 133 Stat. 152.
+
+Pub. L. 115–141, div. E, title II, Mar. 23, 2018, 132 Stat. 549.
 
 Pub. L. 115–31, div. E, title II, May 5, 2017, 131 Stat. 340.
 
@@ -170,9 +182,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 [Image not captured: t211702.gif]
 
-<i><sup>1</sup></i><i> So in original. Probably should be "programs,".</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "High Intensity".</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "agencies' ".</i>
 

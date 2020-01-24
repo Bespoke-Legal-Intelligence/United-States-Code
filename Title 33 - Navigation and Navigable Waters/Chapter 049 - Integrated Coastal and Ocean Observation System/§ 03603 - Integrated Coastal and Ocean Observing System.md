@@ -42,7 +42,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;&emsp;(A) approve and adopt comprehensive System budgets developed and maintained by the Interagency Ocean Observation Committee to support System operations, including operations of both Federal and non-Federal assets;
 
-&emsp;&emsp;(B) ensure coordination of the System with other domestic and international earth observing activities including the Global Ocean Observing System and the Global Earth Observing System of Systems, andprovide, as appropriate, support for and representation on United States delegations to international meetings on coastal and ocean observing programs; and
+&emsp;&emsp;(B) ensure coordination of the System with other domestic and international earth observing activities including the Global Ocean Observing System and the Global Earth Observing System of Systems, and provide, as appropriate, support for and representation on United States delegations to international meetings on coastal and ocean observing programs; and
 
 &emsp;&emsp;(C) encourage coordinated intramural and extramural research and technology development, and a process to transition developing technology and methods into operations of the System.
 
@@ -66,7 +66,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;&emsp;&emsp;(i) to promote intramural and extramural research and development of new, innovative, and emerging observation technologies including testing and field trials; and
 
-&emsp;&emsp;&emsp;(ii) to facilitate the migration of new, innovative, and emerging scientific and technological advances from research and development to operational deployment;
+&emsp;&emsp;&emsp;(ii) to facilitate the migration of new, innovative, and emerging scientific andtechnological advances from research and development to operational deployment;
 
 &emsp;&emsp;(H) periodically review and recommend to the Council, in consultation with the Administrator, revisions to the System Plan;
 
@@ -114,7 +114,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;&emsp;&emsp;(ii) identify gaps in observation coverage needs for capital improvements of Federal assets and non-Federal assets of the System, or other recommendations to assist in the development of the annual and long-term plans created pursuant to subsection (c)(2)(A)(i) <sup>1</sup> and transmit such information to the Interagency Ocean Observing Committee via the Program Office;
 
-&emsp;&emsp;&emsp;(iii) develop and operate under a strategic operational plan that will ensure the efficient and effective administration of programs and assets to support daily data observations for integration into the System, pursuant to the standards approved by the Council;
+&emsp;&emsp;&emsp;(iii) develop and operate under a strategic operational plan that will ensure the efficient and effective administration ofprograms and assets to support daily data observations for integration into the System, pursuant to the standards approved by the Council;
 
 &emsp;&emsp;&emsp;(iv) work cooperatively with governmental and non-governmental entities at all levels to identify and provide information products of the System for multiple users within the service area of the regional information coordination entities; and
 
@@ -194,7 +194,7 @@ Nothing in this chapter shall be construed to invalidate existing certifications
 
 #### References in Text
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(4)(E), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(4)(E), is section 14 of Pub. L.92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Subsec. (c)(2)(A) does not contain a cl. (i).</i>
 

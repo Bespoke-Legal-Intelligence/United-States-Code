@@ -50,7 +50,7 @@ Lands.—The lands referred to in subsection (a) are the approximately 1,280 acr
 
 "(c)
 
-Future Status.—(1) Effective on May 2, 2000, the lands described in subsection (b) shall be added to the Red Rock Canyon National Conservation Area unless before such effective date all necessary licenses and public land rights-of-way have been issued for a hydroelectric project involving some or all of such lands.
+Future Status.—(1) Effective on May 2, 2000, the lands described in subsection (b) shall be added to the Red Rock Canyon National Conservation Area unlessbefore such effective date all necessary licenses and public land rights-of-way have been issued for a hydroelectric project involving some or all of such lands.
 
 "(2) For purposes of section 10(b) of the Red Rock Canyon National Conservation Area Establishment Act of 1990 \[16 U.S.C. 460ccc–8(b)\], as amended by this Act, the date on which the lands identified in subsection (b) of this section are added to the Red Rock Canyon National Conservation Area shall be deemed to be the date of enactment of an Act adding such lands to the conservation area."
 

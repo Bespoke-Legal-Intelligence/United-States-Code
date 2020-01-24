@@ -34,7 +34,7 @@ In this chapter:
 
 #### (6) Loan guarantee
 
-&emsp;The term "loan guarantee" means any guarantee or other pledge by the Secretary or the Administrator to pay all or part of the principal of, and interest on, a loan or other debt obligation issued by an obligor and funded by a lender.
+&emsp;The term "loan guarantee" means any guarantee or other pledge by the Secretary or theAdministrator to pay all or part of the principal of, and interest on, a loan or other debt obligation issued by an obligor and funded by a lender.
 
 #### (7) Obligor
 

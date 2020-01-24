@@ -10,7 +10,7 @@ Designation of Program.—The program under this section shall be known as the "
 
 (c)
 
-Agreements.—The Secretary shall enter into an agreement with each college or university seeking to participate in the program underthis section. Each agreement shall specify the following:
+Agreements.—The Secretary shall enter into an agreement with each college or university seeking to participate in the program under this section. Each agreement shall specify the following:
 
 &emsp;(1) The manner (whether by direct grant, scholarship, or otherwise) of the contributions to be made by the college or university concerned.
 
@@ -50,7 +50,7 @@ Outreach.—The Secretary shall make available on the Internet website of the De
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–48, §105(c)(4), substituted "paragraphs (1), (2), (8), and (9)" for "paragraphs (1), (2), (9), and (10)".
 
-Pub. L. 115–48, §104(a), which directed substitution of "subsection (c)(1)(A) or (e)(2)(A) of section 3313 of this title" for "section 3313(c)(1)(A)" in the first sentence, was executed in both places where "section 3313(c)(1)(A)" appeared, to reflect the probable intent of Congress.
+Pub. L. 115–48, §104(a), which directed substitution of "subsection (c)(1)(A) or (e)(2)(A) of section 3313 of thistitle" for "section 3313(c)(1)(A)" in the first sentence, was executed in both places where "section 3313(c)(1)(A)" appeared, to reflect the probable intent of Congress.
 
 Pub. L. 115–48, §103(a), substituted "paragraphs (1), (2), (9), and (10)" for "paragraphs (1) and (2)".
 

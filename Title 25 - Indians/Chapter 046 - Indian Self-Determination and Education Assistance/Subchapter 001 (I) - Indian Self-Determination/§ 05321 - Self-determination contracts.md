@@ -38,7 +38,7 @@
 
 &emsp;(B) proposes a level of funding that is in excess of the applicable level determined under section 5325(a) of this title,
 
-> subject to any alteration in the scope of the proposal that the Secretary and the tribal organization agree to, the Secretary shall, as appropriate, approve such portion of the program,function, service, or activity as is authorized under paragraph (1) or approve a level of funding authorized under section 5325(a) of this title. If a tribal organization elects to carry out a severable portion of a contract proposal pursuant to this paragraph, subsection (b) of this section shall only apply to the portion of the contract that is declined by the Secretary pursuant to this subsection.
+> subject to any alteration in the scope of the proposal that the Secretary and the tribal organization agree to, the Secretary shall, as appropriate, approve such portion of the program, function, service, or activity as is authorized under paragraph (1) or approve a level of funding authorized under section 5325(a) of this title. If a tribal organization elects to carry out a severable portion of a contract proposal pursuant to this paragraph, subsection (b) of this section shall only apply to the portion of the contract that is declined by the Secretary pursuant to this subsection.
 
 #### (b) Procedure upon refusal of request to contract
 
@@ -70,7 +70,7 @@ For purposes of section 233 of title 42, with respect to claims by any person, i
 
 (2) Notwithstanding any other provision of law, a decision by an official of the Department of the Interior or the Department of Health and Human Services, as appropriate (referred to in this paragraph as the "Department") that constitutes final agency action and that relates to an appeal within the Department that is conducted under subsection (b)(3) of this section shall be made either—
 
-&emsp;(A) by an official of the Department who holds a position at a higher organizational level within the Department than the level ofthe departmental agency (such as the Indian Health Service or the Bureau of Indian Affairs) in which the decision that is the subject of the appeal was made; or
+&emsp;(A) by an official of the Department who holds a position at a higher organizational level within the Department than the level of the departmental agency (such as the Indian Health Service or the Bureau of Indian Affairs) in which the decision that is the subject of the appeal was made; or
 
 &emsp;(B) by an administrative judge.
 
@@ -98,7 +98,7 @@ Subsec. (d) of this section was formerly classified to the last sentence of subs
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–413, §102(5), inserted concluding provisions.
 
-Subsec. (a)(2). Pub. L. 103–413, §102(6)(A)(i), (ii), (vi), inserted ", or a proposal to amend or renew a self-determination contract," before "to the Secretary for review" in first sentence and, in second sentence, substituted "Subject to the provisions of paragraph (4), the Secretary" for "The Secretary", inserted "and award the contract" after "approve the proposal", substituted "the Secretary provides written notification to the applicant that contains a specific finding that clearly demonstrates that, or that is supported by a controlling legal authority that" for ", within sixty days of receipt of the proposal, a specific finding is made that", and inserted concluding provisions.
+Subsec. (a)(2). Pub. L. 103–413, §102(6)(A)(i), (ii), (vi), inserted ", or a proposal to amend or renew a self-determination contract," before "to the Secretary for review" in first sentence and, in second sentence, substituted "Subject to the provisions of paragraph (4), theSecretary" for "The Secretary", inserted "and award the contract" after "approve the proposal", substituted "the Secretary provides written notification to the applicant that contains a specific finding that clearly demonstrates that, or that is supported by a controlling legal authority that" for ", within sixty days of receipt of the proposal, a specific finding is made that", and inserted concluding provisions.
 
 Subsec. (a)(2)(D), (E). Pub. L. 103–413, §102(6)(A)(iii)–(v), added subpars. (D) and (E).
 

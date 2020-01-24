@@ -42,7 +42,7 @@ Each institution of higher education shall, at or prior to the time such institu
 
 #### (b) Disclosure required prior to repayment
 
-Each institution of higher education shall enter into an agreement with the Secretary under which the institution will, prior to the start of the repayment period of the student borrower on loans made under this part, disclose to the student borrower the information requiredunder this subsection. Any disclosure required by this subsection may be made by an institution of higher education either in a promissory note evidencing the loan or loans or in a written statement provided to the borrower. The disclosures shall include—
+Each institution of higher education shall enter into an agreement with the Secretary under which the institution will, prior to the start of the repayment period of the student borrower on loans made under this part, disclose to the student borrower the information required under this subsection. Any disclosure required by this subsection may be made by an institution of higher education either in a promissory note evidencing the loan or loans or in a written statement provided to the borrower. The disclosures shall include—
 
 &emsp;(1) the name of the institution of higher education, and the address to which communications and payments should be sent;
 
@@ -96,7 +96,7 @@ Special Due Diligence Rule.—In carrying out the provisions of subsection (a)(5
 
 Subsecs. (d), (e). Pub. L. 102–325, §463(c)(2), added subsecs. (d) and (e).
 
-<b>1987</b>—Subsec. (a)(8). Pub. L. 100–50, §13(g), added par. (8) and struck out former par. (8) which read as follows: "a statement of the total cumulative balance owed by the student to that institution, the projected level of indebtedness of the student based on a 2- or 4-year college career, and an estimate of the projected monthly repayment given the level of indebtedness over a 2-, 4-, or 5-year college career;".
+<b>1987</b>—Subsec. (a)(8). Pub. L. 100–50, §13(g), added par. (8) and struck out former par. (8) which read as follows:"a statement of the total cumulative balance owed by the student to that institution, the projected level of indebtedness of the student based on a 2- or 4-year college career, and an estimate of the projected monthly repayment given the level of indebtedness over a 2-, 4-, or 5-year college career;".
 
 Subsec. (a)(10). Pub. L. 100–50, §13(h), substituted "the Department of Defense educational loan repayment program (10 U.S.C. 2172)" for "section 902 of the Department of Defense Authorization Act, 1981 (10 U.S.C. 2141, note)".
 

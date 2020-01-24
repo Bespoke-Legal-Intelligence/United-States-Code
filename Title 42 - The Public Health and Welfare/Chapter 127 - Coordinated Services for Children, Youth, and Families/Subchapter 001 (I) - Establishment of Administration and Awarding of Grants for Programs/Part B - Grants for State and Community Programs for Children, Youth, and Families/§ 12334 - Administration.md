@@ -6,7 +6,7 @@ The Commissioner shall administer programs under this part through the Administr
 
 #### (b) Technical assistance
 
-In carrying out this part, the Commissioner may request the technical assistance and cooperation of the Secretary of Education, the Secretary of Labor, the Attorney General, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Director of the Office of Community Services, and such other agencies and departments of the Federal Government as may be appropriate.
+In carrying out this part, the Commissioner may request the technical assistance and cooperation of the Secretary of Education, the Secretary of Labor, the Attorney General, the Secretary of Housing and Urban Development,the Secretary of Transportation, the Director of the Office of Community Services, and such other agencies and departments of the Federal Government as may be appropriate.
 
 (Pub. L. 101–501, title IX, §928, Nov. 3, 1990, 104 Stat. 1269.)
 

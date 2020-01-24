@@ -154,7 +154,7 @@ Subsec. (a)(5), (6). Pub. L. 115–97, §14102(e)(1), redesignated pars. (5) and
 
 Subsec. (d)(2)(D). Pub. L. 115–97, §14221(b)(1), added subpar. (D).
 
-<b>2004</b>—Subsec. (d)(2)(C). Pub. L. 108–357 inserted at end "For purposes of applying section 904(d), any such amount shall be treated in the same manner as if such amount were a royalty."
+<b>2004</b>—Subsec. (d)(2)(C). Pub. L. 108–357 inserted at end "For purposes of applying section 904(d), any suchamount shall be treated in the same manner as if such amount were a royalty."
 
 <b>1999</b>—Subsec. (a)(3)(B)(i). Pub. L. 106–170 substituted "section 1221(a)" for "section 1221".
 
@@ -224,7 +224,7 @@ Pub. L. 100–647, title I, §1006(e)(13)(B), Nov. 10, 1988, 102 Stat. 3402, pro
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 631(d)(1) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not incomplete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(d)(1) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 Pub. L. 99–514, title XII, §1231(g), Oct. 22, 1986, 100 Stat. 2563, as amended by Pub. L. 100–647, title I, §1012(n)(1)–(3), Nov. 10, 1988, 102 Stat. 3514, provided that:
 
@@ -238,7 +238,7 @@ Special rule for transfer of intangibles.—
 
 &emsp;"(A)
 
-In general.—The amendments made by subsection (e) \[amending this section and section 482 of this title\] shall apply to taxable years beginning after December 31, 1986, but only with respect to transfers after November 16, 1985, or licenses granted after such date (or before such date with respect to property not in existence or owned by the taxpayer on such date). In the case of any transfer (or license) which is not to a foreign person, the preceding sentence shall be applied by substituting 'August 16, 1986' for 'November 16, 1985'.
+In general.—The amendments made by subsection (e) \[amending this section and section 482 of this title\] shall apply to taxable years beginning after December 31, 1986, but only with respect to transfers after November 16, 1985, or licenses granted after such date (or before such date with respect to property not in existence or owned by the taxpayer on such date). In the case of any transfer (or license) which is notto a foreign person, the preceding sentence shall be applied by substituting 'August 16, 1986' for 'November 16, 1985'.
 
 &emsp;"(B)
 
@@ -324,7 +324,7 @@ Pub. L. 94–455, title X, §1042(e), Oct. 4, 1976, 90 Stat. 1639, as amended by
 
 "(1) The amendments made by this section (other than by subsection (d)) \[amending this section and sections 751 and 1248 of this title\] shall apply to transfers beginning after October 9, 1975, and to sales, exchanges, and distributions taking place after such date. The amendments made by subsection (d) \[enacting section 7477 of this title and amending sections 7476 and 7482 of this title\] shall apply with respect to pleadings filed with the Tax Court after the date of the enactment of this Act \[Oct. 4, 1976\] but only with respect to transfers beginning after October 9, 1975.
 
-"(2) In the case of any exchange described in section 367 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on December 31, 1974) in any taxable year beginning after December 31, 1962, and before the date of the enactment of this Act \[Oct. 4, 1976\],which does not involve the transfer of property to or from a United States person, a taxpayer shall have for purposes of such section until 183 days after the date of the enactment of this Act \[Oct. 4, 1976\] to file a request with the Secretary of the Treasury or his delegate seeking to establish to the satisfaction of the Secretary of the Treasury or his delegate that such exchange was not in pursuance of a plan having as one of its principal purposes the avoidance of Federal income taxes and that for purposes of such section a foreign corporation is to be treated as a foreign corporation."
+"(2) In the case of any exchange described in section 367 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on December 31, 1974) in any taxable year beginning after December 31, 1962, and before the date of the enactment of this Act \[Oct. 4, 1976\], which does not involve the transfer of property to or from a United States person, a taxpayer shall have for purposes of such section until 183 days after the date of the enactment of this Act \[Oct. 4, 1976\] to file a request with the Secretary of the Treasury or his delegate seeking to establish to the satisfaction of the Secretary of the Treasury or his delegate that such exchange was not in pursuance of a plan having as one of its principal purposes the avoidance of Federal income taxes and that for purposes of such section a foreign corporation is to be treated as a foreign corporation."
 
 #### Effective Date of 1971 Amendment
 

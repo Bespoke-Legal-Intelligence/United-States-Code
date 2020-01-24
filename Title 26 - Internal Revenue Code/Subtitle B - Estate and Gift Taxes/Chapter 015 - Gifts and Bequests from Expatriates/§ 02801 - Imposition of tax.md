@@ -74,7 +74,7 @@ For purposes of this section, the term "covered expatriate" has the meaning give
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a)(1). Pub. L. 113–295 struck out "(or, if greater, the highest rate of tax specified in the tableapplicable under section 2502(a) as in effect on the date)" after "such receipt".
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–295 struck out "(or, if greater, the highest rate of tax specified in the table applicable under section 2502(a) as in effect on the date)" after "such receipt".
 
 #### Effective Date of 2014 Amendment
 

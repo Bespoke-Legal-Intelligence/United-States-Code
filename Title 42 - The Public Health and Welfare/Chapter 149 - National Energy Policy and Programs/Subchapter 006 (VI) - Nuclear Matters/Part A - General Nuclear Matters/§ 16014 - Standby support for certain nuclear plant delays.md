@@ -54,7 +54,7 @@ In this section:
 
 &emsp;Under each contract authorized by this section, the Secretary shall pay the costs specified in subsection (d), using funds appropriated or collected for the covered costs, if full power operation of the advanced nuclear facility is delayed by—
 
-&emsp;&emsp;(A) the failure of the Commission to comply with schedules for review and approval of inspections, tests, analyses, and acceptance criteria established under the combinedlicense or the conduct of preoperational hearings by the Commission for the advanced nuclear facility; or
+&emsp;&emsp;(A) the failure of the Commission to comply with schedules for review and approval of inspections, tests, analyses, and acceptance criteria established under the combined license or the conduct of preoperational hearings by the Commission for the advanced nuclear facility; or
 
 &emsp;&emsp;(B) litigation that delays the commencement of full-power operations of the advanced nuclear facility.
 
@@ -128,7 +128,7 @@ For each advanced nuclear facility that is covered by a contract under this sect
 
 #### (2) Interim final rulemaking
 
-&emsp;Not later than 270 days after August 8, 2005, the Secretary shall issue for public comment an interim final rule regulating contracts authorized by this section.
+&emsp;Not later than 270 days after August 8, 2005, the Secretary shall issue for public commentan interim final rule regulating contracts authorized by this section.
 
 #### (3) Notice of final rulemaking
 

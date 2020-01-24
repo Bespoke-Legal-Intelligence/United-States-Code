@@ -4,7 +4,7 @@
 
 (1) The Administrator shall make grants to national organizations to develop 1 or more model technical assistance and training programs to improve the judicial system's handling of child abuse and neglect cases.
 
-(2) An organization to which a grant is made pursuant to paragraph (1) shall be one that has broad membership among juvenile and family court judges and has demonstrated experience in providing training and technical assistance for judges, attorneys, child welfare personnel, and lay child advocates.
+(2) An organization to which a grant is made pursuant to paragraph (1) shall be one that hasbroad membership among juvenile and family court judges and has demonstrated experience in providing training and technical assistance for judges, attorneys, child welfare personnel, and lay child advocates.
 
 #### (b) Grants to juvenile and family courts
 

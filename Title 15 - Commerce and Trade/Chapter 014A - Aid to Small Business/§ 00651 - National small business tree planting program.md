@@ -46,7 +46,7 @@ A prior section 651, act July 30, 1953, ch. 282, §225, as added Aug. 9, 1955, c
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–211 inserted at end ", and shall give priority to a proposal to restore an area determined to be a major disaster by the President on a date not more than three years prior to the fiscal year for which the application is made".
+<b>1994</b>—Subsec. (a). Pub. L. 103–211 inserted at end ", and shall give priority to a proposal to restore anarea determined to be a major disaster by the President on a date not more than three years prior to the fiscal year for which the application is made".
 
 Subsec. (e). Pub. L. 103–317 substituted "fiscal years 1995 through 1997" for "fiscal years 1992 through 1994".
 

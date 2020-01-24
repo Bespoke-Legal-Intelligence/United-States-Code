@@ -54,7 +54,7 @@ Within 45 days of November 9, 2000, the Secretary shall transmit to the Presiden
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(1). Pub. L. 109–58 substituted "by more than 60 percent over its 5-year rolling average forthe months of mid-October through March (considered as a heating season average)" for "by more tan 60 percent over its 5 year rolling average for the months of mid-October through March".
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–58 substituted "by more than 60 percent over its 5-year rolling average for the months of mid-October through March (considered as a heating season average)" for "by more tan 60 percent over its 5 year rolling average for the months of mid-October through March".
 
 <i><sup>1</sup></i><i> So in original. Probably should be "result".</i>
 

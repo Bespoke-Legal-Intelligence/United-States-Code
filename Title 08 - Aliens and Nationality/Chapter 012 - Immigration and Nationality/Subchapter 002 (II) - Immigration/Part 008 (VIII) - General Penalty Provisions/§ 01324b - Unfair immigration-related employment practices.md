@@ -62,7 +62,7 @@
 
 #### (3) Compensation
 
-&emsp;The Special Counsel is entitled to receive compensation at a rate not to exceed the ratenow or hereafter provided for grade GS–17 of the General Schedule, under section 5332 of title 5.
+&emsp;The Special Counsel is entitled to receive compensation at a rate not to exceed the rate now or hereafter provided for grade GS–17 ofthe General Schedule, under section 5332 of title 5.
 
 #### (4) Regional offices
 
@@ -116,7 +116,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, upon the preponderance of the evidence, an administrative law judge determines that any person or entity named in the complaint has engaged in or is engaging in any suchunfair immigration-related employment practice, then the judge shall state his findings of fact and shall issue and cause to be served on such person or entity an order which requires such person or entity to cease and desist from such unfair immigration-related employment practice.
+&emsp;&emsp;If, upon the preponderance of the evidence, an administrative law judge determines that any person or entity named in the complaint has engaged in or is engaging in any such unfair immigration-related employmentpractice, then the judge shall state his findings of fact and shall issue and cause to be served on such person or entity an order which requires such person or entity to cease and desist from such unfair immigration-related employment practice.
 
 #### (B) Contents of order
 

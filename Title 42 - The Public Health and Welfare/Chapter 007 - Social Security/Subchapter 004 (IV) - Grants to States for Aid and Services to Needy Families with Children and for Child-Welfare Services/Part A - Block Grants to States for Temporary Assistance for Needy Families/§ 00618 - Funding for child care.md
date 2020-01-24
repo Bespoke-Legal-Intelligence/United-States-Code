@@ -40,7 +40,7 @@
 
 #### (4) Indian tribes
 
-&emsp;The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of theaggregate amount appropriated to carry out this section in each fiscal year for payments to Indian tribes and tribal organizations.
+&emsp;The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of the aggregate amount appropriated to carry out this section in each fiscal year for payments to Indian tribes and tribal organizations.
 
 #### (5) Data used to determine State and Federal shares of expenditures
 

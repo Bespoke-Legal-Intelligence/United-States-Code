@@ -40,7 +40,7 @@ General permitted uses.—Funds available to the Attorney General (i.e., all fun
 
 &emsp;&emsp;&emsp;(ii) conferences and training; and
 
-&emsp;&emsp;&emsp;(iii) advances of public moneys under section 3324 of title 31: <i>Provided</i>, That travel advances of such moneys to law enforcement personnel engaged in undercover activity shall be considered to be publicmoney for purposes of section 3527 of title 31.
+&emsp;&emsp;&emsp;(iii) advances of public moneys under section 3324 of title 31: <i>Provided</i>, That travel advances of such moneys to law enforcement personnel engaged in undercover activity shall be considered to be public money for purposes of section 3527 of title 31.
 
 &emsp;&emsp;(H) Contracting with individuals for personal services abroad, except that such individuals shall not be regarded as employees of the United States for the purpose of any law administered by the Office of Personnel Management.
 
@@ -88,7 +88,7 @@ Aircraft and boats.—Funds available to the Attorney General for United States 
 
 &emsp;&emsp;(B)
 
-Purchase of ammunition and firearms; firearms competitions.—Funds available to the Attorney General for United States Attorneys, for the Federal Bureau of Investigation, for the United States Marshals Service, for the Bureau of Alcohol, Tobacco, Firearms and Explosives, for the Drug Enforcement Administration, for the Federal Prison System, for the Office of the Inspector General, and for the Immigration and Naturalization Service may be used for—
+Purchase of ammunition and firearms; firearms competitions.—Funds available to the Attorney General for United States Attorneys, for the Federal Bureau of Investigation, for the United States Marshals Service, for the Bureau of Alcohol, Tobacco, Firearms and Explosives, for the DrugEnforcement Administration, for the Federal Prison System, for the Office of the Inspector General, and for the Immigration and Naturalization Service may be used for—
 
 &emsp;&emsp;&emsp;(i) the purchase of ammunition and firearms; and
 
@@ -174,7 +174,7 @@ Section 102(b) of Public Law 102–395, referred to in subsec. (a)(5), is sectio
 
 Section 815(d) of Public Law 104–132, referred to in subsec. (a)(5), is section 815(d) of Pub. L. 104–132, title VIII, Apr. 24, 1996, 110 Stat. 1315, which is set out as a note under section 533 of this title.
 
-Public Law 106–110, referred to in subsec. (e), is Pub. L. 106–110, Nov. 24, 1999, 113 Stat. 1497, which amendedsection 10211 of Title 34, Crime Control and Law Enforcement.
+Public Law 106–110, referred to in subsec. (e), is Pub. L. 106–110, Nov. 24, 1999, 113 Stat. 1497, which amended section 10211 of Title 34, Crime Control and Law Enforcement.
 
 #### Amendments
 

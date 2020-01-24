@@ -62,7 +62,7 @@
 
 (f) In section 3711 of this title, "private collection contractor" means private debt collectors under contract with an agency to collect a nontax debt or claim owed the United States. The term includes private debt collectors, collection agencies, and commercial attorneys.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(13)(A), Jan. 12, 1983, 96 Stat. 2469; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–387, §5(b), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(c)(2), (d)(1), (3), (z)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–361, 1321–378; Pub. L. 104–316, title I, §115(g)(2)(A), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 106–169, title II, §203(b), Dec. 14, 1999, 113 Stat. 1832; Pub. L. 107–107, div. A, title III, §335, Dec. 28, 2001, 115 Stat. 1060.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(13)(A), Jan. 12, 1983, 96 Stat. 2469; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–387, §5(b), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(c)(2), (d)(1), (3), (z)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–361,1321–378; Pub. L. 104–316, title I, §115(g)(2)(A), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 106–169, title II, §203(b), Dec. 14, 1999, 113 Stat. 1832; Pub. L. 107–107, div. A, title III, §335, Dec. 28, 2001, 115 Stat. 1060.)
 
 Historical and Revision Notes<br>1982
 
@@ -90,7 +90,7 @@ Aug. 31, 1964, Pub. L. 88–558, §2(1), (2), (4), 78 Stat. 767; restated Sept. 
 
 31:240(2).
 
-Clause (1) is substituted for 31:951(a) for consistency. The text of 31:951(b) is omitted as unnecessary becauseof laws vesting authority in the commission, board, or other group of individuals and for consistency in the revised title and with other titles of the United States Code.
+Clause (1) is substituted for 31:951(a) for consistency. The text of 31:951(b) is omitted as unnecessary because of laws vesting authority in the commission, board, or other group of individuals and for consistency in the revised title and with other titles of the United States Code.
 
 In clause (2), the text of 31:240(1) is omitted as unnecessary because of the restatement.
 
@@ -212,7 +212,7 @@ Pub. L. 103–387, §5(c), Oct. 22, 1994, 108 Stat. 4077, as amended by Pub. L. 
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–134, title III, §31001(a)(1), Apr. 26, 1996, 110 Stat. 1321–358, provided that: "This section \[enacting sections 3720B to 3720E of this title, amending this section, sections 3322, 3325, 3331, 3332, 3343, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, section 5514 of Title 5, Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Healthand Welfare, enacting provisions set out as notes under this section, sections 3322, 3711, 3716, and 3719 of this title, and section 2461 of Title 28, Judiciary and Judicial Procedure, amending provisions set out as notes under this section and section 2461 of Title 28, and repealing provisions set out as notes under section 3718 of this title\] may be cited as the 'Debt Collection Improvement Act of 1996'."
+Pub. L. 104–134, title III, §31001(a)(1), Apr. 26, 1996, 110 Stat. 1321–358, provided that: "This section \[enacting sections 3720B to 3720E of this title, amending this section, sections 3322, 3325, 3331, 3332, 3343, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, section 5514 of Title 5, Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 3322, 3711, 3716, and 3719 of this title, and section 2461 of Title 28, Judiciary and Judicial Procedure, amending provisions set out as notes under this section and section 2461 of Title 28, and repealing provisions set out as notes under section 3718 of this title\] may be cited as the 'Debt Collection Improvement Act of 1996'."
 
 #### Short Title of 1986 Amendment
 

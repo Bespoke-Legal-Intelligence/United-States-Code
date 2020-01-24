@@ -18,13 +18,9 @@ Remedy for breach or violation.—For the breach or violation of the warranty, t
 
 &emsp;(3)
 
-Nonapplication.—Paragraph (1) does not apply to a contract for an amount that is not greater than the simplified acquisition threshold or to a contract for the acquisition of commercial items.
+Nonapplication.—Paragraph (1) does not apply to a contract for an amount that is not greater than the simplified acquisition threshold or to a contract for the acquisition of commercial products or commercial services.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3774; Pub. L. 115–232, div. A, title VIII, §836(b)(16), Aug. 13, 2018, 132 Stat. 1864.)
-
-#### Amendment of Subsection (b)(3)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(16), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b)(3) of this section is amended by striking "commercial items" and inserting "commercial products or commercial services". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 

@@ -44,7 +44,7 @@ In appointing members of the Board, the President shall—
 
 #### (1) In general
 
-&emsp;A member of the Board shall serve a term of 5 years. A member of the Board whose term has expired may continue to serve after the member's term has expired until the date onwhich a successor takes office, except that the member shall not serve beyond the end of the session of Congress in which the term of the member expires.
+&emsp;A member of the Board shall serve a term of 5 years. A member of the Board whose term has expired may continue to serve after the member's term has expired until the date on which a successor takes office, except that the member shall not serve beyond the end of the session of Congress in which the term of the member expires.
 
 #### (2) Vacancies
 
@@ -156,7 +156,7 @@ In appointing members of the Board, the President shall—
 
 #### (1) In general
 
-&emsp;The Board shall approve a compensation plan that specifies all compensation (includingsalary or any other pay, bonuses, benefits, incentives, and any other form of remuneration) for the chief executive officer and employees of the Corporation.
+&emsp;The Board shall approve a compensation plan that specifies all compensation (including salary or any other pay, bonuses, benefits, incentives, and any other form of remuneration) for the chief executive officer and employees of the Corporation.
 
 #### (2) Annual survey
 

@@ -26,7 +26,7 @@ Functions.—
 
 &emsp;"(1)
 
-In general.—There are transferred to the Social Security Administration all functions of the Secretary of Health and Human Services with respect to or in support of the programs and activities the administration of which is vested in the Social Security Administration by reason of this title \[see Tables for classification\] and the amendments made thereby. The Commissioner of Social Security shall allocate such functions in accordance with sections 701, 702, 703, and 704 of the Social Security Act \[42 U.S.C. 901, 902, 903, 904\] (as amended by this title).
+In general.—There are transferred to the Social Security Administration all functions of the Secretary of Health and Human Services with respect to or in support of the programs and activities the administration of which is vested in the Social SecurityAdministration by reason of this title \[see Tables for classification\] and the amendments made thereby. The Commissioner of Social Security shall allocate such functions in accordance with sections 701, 702, 703, and 704 of the Social Security Act \[42 U.S.C. 901, 902, 903, 904\] (as amended by this title).
 
 &emsp;"(2)
 
@@ -42,7 +42,7 @@ In general.—Subject to subparagraph (B), the Social Security Administration sh
 
 &emsp;&emsp;"(B)
 
-Rules governing continuation of functions in the administration.—The Social Security Administration shall perform, on behalf of the Secretary of Health and Human Services (or the head of any other agency, as applicable), the functionsdescribed in subparagraph (A) in accordance with the same financial and other terms in effect on the day before the date of the enactment of this Act, except to the extent that the Commissioner and the Secretary (or other agency head, as applicable) agree to alter such terms pertaining to any such function or to terminate the performance by the Social Security Administration of any such function.
+Rules governing continuation of functions in the administration.—The Social Security Administration shall perform, on behalf of the Secretary of Health and Human Services (or the head of any other agency, as applicable), the functions described in subparagraph (A) in accordance with the same financial and other terms in effect on the day before the date of the enactment of this Act, except to the extent that the Commissioner and the Secretary (or other agency head, as applicable) agree to alter such terms pertaining to any such function or to terminate the performance by the Social Security Administration of any such function.
 
 "(b)
 
@@ -112,7 +112,7 @@ Assumption of office of initial commissioner before effective date of new agency
 
 &emsp;"(3)
 
-Treatment of inspector general and other appointments.—At any time on or after the date of the enactment of this Act \[Aug. 15, 1994\], any of the officers provided for in section 702 of the Social Security Act (as amended by this title) and any of the members of the Social Security Advisory Board provided for in section 703 of such Act \[42 U.S.C. 903\] (as so amended) may be nominated and take office, under the terms and conditions set out in such sections.
+Treatment of inspector general and other appointments.—At any time on or after the date of the enactment of this Act \[Aug. 15, 1994\], any of the officers provided for in section 702 of the Social Security Act (as amended by this title) and any of the members of the Social Security Advisory Board provided for in section 703 of such Act \[42 U.S.C. 903\] (asso amended) may be nominated and take office, under the terms and conditions set out in such sections.
 
 &emsp;"(4)
 
@@ -120,7 +120,7 @@ Compensation for initial officers and board members before effective date of new
 
 &emsp;"(5)
 
-Interim role of current commissioner after effective date of new agency.—In the event that, as of March 31, 1995, an individual appointed to serve as the initial Commissioner of Social Security has not taken office, until such initial Commissioner has taken office, the officer serving on March 31, 1995, as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall, while continuing to serve as such Commissioner of Social Security (or Acting Commissioner of Social Security), serve as Commissioner of Social Security (or Acting Commissioner of Social Security, respectively) in theSocial Security Administration established under such section 701 and shall assume the powers and duties under such Act \[42 U.S.C. 301 et seq.\] (as amended by this Act) of the Commissioner of Social Security in the Social Security Administration as so established under such section 701. In the event that, as of March 31, 1995, the President has not nominated an individual for appointment to the office of Commissioner of Social Security in the Social Security Administration established under such section 701, then the individual serving as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall become the Acting Commissioner of Social Security in the Social Security Administration as so established under such section 701.
+Interim role of current commissioner after effective date of new agency.—In the event that, as of March 31, 1995, an individual appointed to serve as the initial Commissioner of Social Security has not taken office, until such initial Commissioner has taken office, the officer serving on March 31, 1995, as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall, while continuing to serve as such Commissioner of Social Security (or Acting Commissioner of Social Security), serve as Commissioner of Social Security (or Acting Commissioner of Social Security, respectively) in the Social Security Administration established under such section 701 and shall assume the powers and duties under such Act \[42 U.S.C. 301 et seq.\] (as amended by this Act) of the Commissioner of Social Security in the Social Security Administration as so established under such section 701. In the event that, as of March 31, 1995, the President has not nominated an individual for appointment to the office of Commissioner of Social Security in the Social Security Administration established under such section 701, then the individual serving as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall become the Acting Commissioner of Social Security in the Social Security Administration as so established under such section 701.
 
 &emsp;"(6)
 
@@ -164,7 +164,7 @@ Continuation of Penalties.—This title shall not have the effect of releasing o
 
 "(f)
 
-Judicial Review.—Orders and actions of the Commissioner of Social Security in the exercise of functions vested in such Commissioner under this title and the amendments made thereby (other than functions performed pursuant to 105(a)(2) \[set out above\]) shall be subject to judicial review to the same extent and in the same manner as if such orders had been made and such actions had been taken by the Secretary of Health and Human Services in the exercise of such functions immediately before March 31, 1995. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function so vested in such Commissioner shall continue to apply to the exercise of such function by such Commissioner.
+Judicial Review.—Orders and actions of the Commissioner of Social Security in the exercise of functions vested in such Commissioner under this title and the amendments made thereby (other than functions performed pursuant to 105(a)(2) \[set out above\]) shall be subject to judicial review to the same extentand in the same manner as if such orders had been made and such actions had been taken by the Secretary of Health and Human Services in the exercise of such functions immediately before March 31, 1995. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function so vested in such Commissioner shall continue to apply to the exercise of such function by such Commissioner.
 
 "(g)
 

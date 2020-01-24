@@ -2,7 +2,7 @@
 
 (a)
 
-Retirement Based on Years of Service.—A bankruptcy judge or magistrate judge to whom this section applies and who retires from office after attaining the age of 65 years andserving at least 14 years, whether continuously or otherwise, as such bankruptcy judge or magistrate judge shall, subject to subsection (f), be entitled to receive, during the remainder of the judge's or magistrate judge's lifetime, an annuity equal to the salary being received at the time the judge or magistrate judge leaves office.
+Retirement Based on Years of Service.—A bankruptcy judge or magistrate judge to whom this section applies and who retires from office after attaining the age of 65 years and serving at least 14 years, whether continuously or otherwise, as such bankruptcy judge or magistrate judge shall, subject to subsection (f), be entitled to receive, during the remainder of the judge's or magistrate judge's lifetime, an annuity equal to the salary being received at the time the judge or magistrate judge leaves office.
 
 (b)
 
@@ -48,9 +48,9 @@ Calculation of Service.—(1) For purposes of calculating an annuity under this 
 
 &emsp;(B) each month of service shall be credited as one-twelfth of a year, and the fractional part of any month shall not be credited.
 
-(2)(A) In the case of an individual who is a bankruptcy judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a United States magistrate judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of a magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
+(2)(A) In the case of an individual who is a bankruptcy judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, anyservice of that individual as a United States magistrate judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of a magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
 
-(B) In the case of an individual who is a magistrate judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a bankruptcy judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of magistrate judgeand a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
+(B) In the case of an individual who is a magistrate judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a bankruptcy judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
 
 (h)
 

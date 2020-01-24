@@ -46,7 +46,7 @@ Technical assistance.—The Secretary, through a competitive bid process, may en
 
 &emsp;&emsp;(H) assist with the development and deployment of low or no emission vehicles (as defined in section 5339(c)(1)) or low or no emission vehicle components (as defined in section 5312(h)(1)); and
 
-&emsp;&emsp;(I) any other technical assistance activity that the Secretary determines is necessaryto advance the interests of public transportation.
+&emsp;&emsp;(I) any other technical assistance activity that the Secretary determines is necessary to advance the interests of public transportation.
 
 &emsp;(3)
 

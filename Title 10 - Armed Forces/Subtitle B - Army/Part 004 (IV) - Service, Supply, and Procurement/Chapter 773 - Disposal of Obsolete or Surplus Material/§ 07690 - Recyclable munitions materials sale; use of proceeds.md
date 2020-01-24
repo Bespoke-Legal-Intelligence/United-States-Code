@@ -6,7 +6,7 @@ Authority for Program.—Notwithstanding section 2577 of this title, the Secreta
 
 (b)
 
-Method of Sale.—The Secretary shall use competitive procedures to sell recyclable munitions materials under this section in a mannerconsistent with Federal procurement laws and regulations.
+Method of Sale.—The Secretary shall use competitive procedures to sell recyclable munitions materials under this section in a manner consistent with Federal procurement laws and regulations.
 
 (c)
 

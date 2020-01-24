@@ -24,7 +24,7 @@ Assistance may be provided to a country under subsection (a) in no more than 3 f
 
 #### (e) Use of assistance
 
-Assistance provided under this section shall be used to enhance the capability of the recipient country to prevent the transport and transshipment of items of proliferation concern in itsnational territory or airspace, or in vessels under its control or registry, including through the development of a legal framework in that country to enhance such capability by criminalizing proliferation, enacting strict export controls, and securing sensitive materials within its borders, and to enhance the ability of the recipient country to cooperate in PSI operations.
+Assistance provided under this section shall be used to enhance the capability of the recipient country to prevent the transport and transshipment of items of proliferation concern in its national territory or airspace, or in vessels under its control or registry, including through the development of a legal framework in that country to enhance such capability by criminalizing proliferation, enacting strict export controls, and securing sensitive materials within its borders, and to enhance the ability of the recipient country to cooperate in PSI operations.
 
 #### (f) Limitation on ship or aircraft transfers
 

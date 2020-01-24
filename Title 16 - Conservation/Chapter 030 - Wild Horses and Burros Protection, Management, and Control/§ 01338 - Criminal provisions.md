@@ -4,7 +4,7 @@
 
 Any person who—
 
-&emsp;(1) willfully removes or attempts to remove a wild free-roaming horse or burro from the public lands, without authority from the Secretary, or
+&emsp;(1) willfully removes or attempts to remove a wild free-roaming horse or burro from thepublic lands, without authority from the Secretary, or
 
 &emsp;(2) converts a wild free-roaming horse or burro to private use, without authority from the Secretary, or
 

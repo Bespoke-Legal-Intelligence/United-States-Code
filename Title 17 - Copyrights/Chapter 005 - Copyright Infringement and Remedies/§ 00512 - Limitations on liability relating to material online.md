@@ -26,7 +26,7 @@ Limitation on liability.—A service provider shall not be liable for monetary r
 
 &emsp;&emsp;(B) the material is transmitted from the person described in subparagraph (A) through the system or network to a person other than the person described in subparagraph (A) at the direction of that other person; and
 
-&emsp;&emsp;(C) the storage is carried out through an automatic technical process for the purpose of making the material available to users of the system or network who, after the material is transmitted as described in subparagraph (B), request access to the materialfrom the person described in subparagraph (A),
+&emsp;&emsp;(C) the storage is carried out through an automatic technical process for the purpose of making the material available to users of the system or network who, after the material is transmitted as described in subparagraph (B), request access to the material from the person described in subparagraph (A),
 
 > &emsp;if the conditions set forth in paragraph (2) are met.
 
@@ -38,7 +38,7 @@ Conditions.—The conditions referred to in paragraph (1) are that—
 
 &emsp;&emsp;(B) the service provider described in paragraph (1) complies with rules concerning the refreshing, reloading, or other updating of the material when specified by the person making the material available online in accordance with a generally accepted industry standard data communications protocol for the system or network through which that person makes the material available, except that this subparagraph applies only if those rules are not used by the person described in paragraph (1)(A) to prevent or unreasonably impair the intermediate storage to which this subsection applies;
 
-&emsp;&emsp;(C) the service provider does not interfere with the ability of technology associated with the material to return to the person described in paragraph (1)(A) the information that would have been available to that person if the material had been obtained by the subsequent users described in paragraph (1)(C) directly from that person, except that this subparagraph applies only if that technology—
+&emsp;&emsp;(C) the service provider does not interfere with the ability of technology associatedwith the material to return to the person described in paragraph (1)(A) the information that would have been available to that person if the material had been obtained by the subsequent users described in paragraph (1)(C) directly from that person, except that this subparagraph applies only if that technology—
 
 &emsp;&emsp;&emsp;(i) does not significantly interfere with the performance of the provider's system or network or with the intermediate storage of the material;
 
@@ -86,7 +86,7 @@ Designated agent.—The limitations on liability established in this subsection 
 
 Elements of notification.—
 
-&emsp;&emsp;(A) To be effective under this subsection, a notification of claimed infringement mustbe a written communication provided to the designated agent of a service provider that includes substantially the following:
+&emsp;&emsp;(A) To be effective under this subsection, a notification of claimed infringement must be a written communication provided to the designated agent of a service provider that includes substantially the following:
 
 &emsp;&emsp;&emsp;(i) A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
@@ -96,7 +96,7 @@ Elements of notification.—
 
 &emsp;&emsp;&emsp;(iv) Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted.
 
-&emsp;&emsp;&emsp;(v) A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+&emsp;&emsp;&emsp;(v) A statement that the complaining party has a good faith belief that use ofthe material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 
 &emsp;&emsp;&emsp;(vi) A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 

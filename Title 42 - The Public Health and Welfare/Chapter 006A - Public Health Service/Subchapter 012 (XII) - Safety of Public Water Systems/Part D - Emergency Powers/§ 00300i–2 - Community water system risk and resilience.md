@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each community water system serving a population of greater than 3,300 persons shallconduct an assessment of the risks to, and resilience of, its system. Such an assessment—
+&emsp;Each community water system serving a population of greater than 3,300 persons shall conduct an assessment of the risks to, and resilience of, its system. Such an assessment—
 
 &emsp;&emsp;(A) shall include an assessment of—
 
@@ -78,7 +78,7 @@ Community water systems shall, to the extent possible, coordinate with existing 
 
 #### (d) Record maintenance
 
-Each community water system shall maintain a copy of the assessment conducted under subsection (a) and the emergency response plan prepared under subsection (b) (including any revised assessment or plan) for 5 years after thedate on which a certification of such assessment or plan is submitted to the Administrator under this section.
+Each community water system shall maintain a copy of the assessment conducted under subsection (a) and the emergency response plan prepared under subsection (b) (including any revised assessment or plan) for 5 years after the date on which a certification of such assessment or plan is submitted to the Administrator under this section.
 
 #### (e) Guidance to small public water systems
 
@@ -96,7 +96,7 @@ The Administrator shall provide guidance and technical assistance to community w
 
 #### (2) Authority to recognize
 
-&emsp;Consistent with section 12(d) of the National Technology Transfer and Advancement Act of 1995, the Administrator shall recognize technical standards that are developed or adopted by third-party organizations or voluntary consensus standards bodies that carry out the objectives or activities required by this section as a means of satisfying the requirements under subsection (a) or (b).
+&emsp;Consistent with section 12(d) of the National Technology Transfer and Advancement Act of1995, the Administrator shall recognize technical standards that are developed or adopted by third-party organizations or voluntary consensus standards bodies that carry out the objectives or activities required by this section as a means of satisfying the requirements under subsection (a) or (b).
 
 #### (g) Technical assistance and grants
 

@@ -32,7 +32,7 @@ Authorized Activities.—
 
 &emsp;(3) The amount of funds used under this subsection may not exceed $100,000 in any fiscal year.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 507, §149; Pub. L. 98–557, §15(a)(3)(D), (E), (4)(A)(i), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 109–241, title II, §202(a), July 11, 2006, 120 Stat. 520; Pub. L. 111–281, title II, §§206, 220, Oct. 15, 2010, 124 Stat. 2911, 2918; Pub. L. 112–213, title II, §§203, 216(d), Dec. 20, 2012, 126 Stat. 1543, 1555; renumbered §710, Pub. L. 115–282, title I, §106(b), Dec. 4, 2018, 132 Stat. 4203.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 507, §149; Pub. L. 98–557, §15(a)(3)(D), (E), (4)(A)(i), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 109–241, title II, §202(a), July 11, 2006, 120 Stat. 520; Pub. L. 111–281, title II, §§206, 220, Oct. 15, 2010, 124 Stat. 2911, 2918; Pub. L. 112–213, title II, §§203, 216(d), Dec. 20, 2012, 126Stat. 1543, 1555; renumbered §710, Pub. L. 115–282, title I, §106(b), Dec. 4, 2018, 132 Stat. 4203.)
 
 #### Historical and Revision Notes
 

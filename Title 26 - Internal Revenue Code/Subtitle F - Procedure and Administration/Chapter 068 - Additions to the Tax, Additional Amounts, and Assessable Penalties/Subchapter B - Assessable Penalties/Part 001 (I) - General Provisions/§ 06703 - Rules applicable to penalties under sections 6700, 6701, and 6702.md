@@ -20,7 +20,7 @@ Subchapter B of chapter 63 (relating to deficiency procedures) shall not apply w
 
 #### (3) Suspension of running of period of limitations on collection
 
-&emsp;The running of the period of limitations provided in section 6502 on the collection by levyor by a proceeding in court in respect of any penalty described in paragraph (1) shall be suspended for the period during which the Secretary is prohibited from collecting by levy or a proceeding in court.
+&emsp;The running of the period of limitations provided in section 6502 on the collection by levy or by a proceeding in court in respect of any penalty described in paragraph (1) shall be suspended for the period during which the Secretary is prohibited from collecting by levy or a proceeding in court.
 
 (Added Pub. L. 97–248, title III, §322(a), Sept. 3, 1982, 96 Stat. 612; amended Pub. L. 101–239, title VII, §§7736(a), 7737(a), Dec. 19, 1989, 103 Stat. 2404.)
 

@@ -18,7 +18,7 @@ A grant awarded under this section may be used for nonprofit national, State, or
 
 &emsp;(5) Expanding upon and implementing educational information using evidence-based information on substance use disorders.
 
-&emsp;(6) Expansion of training of community stakeholders, law enforcement officers, and families across a broad-range of addiction,health, and related topics on substance use disorders, local issues and community-specific issues related to the drug epidemic.
+&emsp;(6) Expansion of training of community stakeholders, law enforcement officers, and families across a broad-range of addiction, health, and related topics on substance use disorders, local issues and community-specific issues related to the drug epidemic.
 
 &emsp;(7) Program evaluation.
 

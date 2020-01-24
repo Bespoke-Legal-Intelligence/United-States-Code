@@ -6,7 +6,7 @@ For electrification baseload generation loan guarantees, the Secretary shall, at
 
 #### (b) Fee
 
-The fee described in subsection (a) for a loan guarantee shall be equal to the costs of the loan guarantee (within the meaning of section 661a(5)(C) of title 2).
+The fee described in subsection (a) for a loan guarantee shall be equal to the costs of the loanguarantee (within the meaning of section 661a(5)(C) of title 2).
 
 #### (c) Limitation
 

@@ -66,7 +66,7 @@ Subsecs. (c) to (e). Pub. L. 114–94, §1436(b)(2), (3), added subsec. (c) and 
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–371, §5(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations to the Appalachian Regional Commission for fiscal years 2002 to 2006.
 
-Subsec. (b). Pub. L. 110–371, §5(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorizedappropriations to carry out section 14504 of this title for fiscal years 2002 to 2006.
+Subsec. (b). Pub. L. 110–371, §5(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized appropriations to carry out section 14504 of this title for fiscal years 2002 to 2006.
 
 Subsec. (d). Pub. L. 110–371, §5(c), added subsec. (d).
 

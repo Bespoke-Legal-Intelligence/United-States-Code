@@ -18,7 +18,7 @@ The President may contribute up to 75 percent of the cost of hazard mitigation m
 
 &emsp;&emsp;(B) on or after December 3, 1993, the applicant for the assistance enters into an agreement with the Administrator that provides assurances that—
 
-&emsp;&emsp;&emsp;(i) any property acquired, accepted, or from which a structure will be removed pursuant to the project will be dedicated and maintained in perpetuity for a usethat is compatible with open space, recreational, or wetlands management practices;
+&emsp;&emsp;&emsp;(i) any property acquired, accepted, or from which a structure will be removed pursuant to the project will be dedicated and maintained in perpetuity for a use that is compatible with open space, recreational, or wetlands management practices;
 
 &emsp;&emsp;&emsp;(ii) no new structure will be erected on property acquired, accepted or from which a structure was removed under the acquisition or relocation program other than—
 

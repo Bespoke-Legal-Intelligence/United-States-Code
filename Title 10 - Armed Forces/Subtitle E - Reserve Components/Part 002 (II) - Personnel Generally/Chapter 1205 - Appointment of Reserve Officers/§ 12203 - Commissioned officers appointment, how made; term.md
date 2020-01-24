@@ -2,11 +2,11 @@
 
 (a) Appointments of reserve officers in commissioned grades of lieutenant colonel and commander or below, except commissioned warrant officer, shall be made by the President alone. Appointments of reserve officers in commissioned grades above lieutenant colonel and commander shall be made by the President, by and with the advice and consent of the Senate, except as provided in section 624, 12213, or 12214 of this title.
 
-(b) Subject to the authority, direction, and control of the President, the Secretary concerned may appoint as a reserve commissioned officer any regular officer transferred from the active-duty list of an armed force to the reserve active-status list of a reserve component under section 647 of this title, notwithstanding the requirements of subsection (a).
+(b) Subject to the authority, direction, and control of the President, the Secretary of Defense may appoint as a reserve commissioned officer any regular officer transferred from the active-duty list of an armed force to the reserve active-status list of a reserve component under section 647 of this title, notwithstanding the requirements of subsection (a).
 
 (c) Appointments of Reserves in commissioned grades are for an indefinite term and are held during the pleasure of the President.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §593; Pub. L. 85–861, §1(10)(C), Sept. 2, 1958, 72 Stat. 1440; Pub. L. 92–129, title VI, §601, Sept. 28, 1971, 85 Stat. 361; Pub. L. 96–513, title V, §501(7), Dec. 12, 1980, 94 Stat. 2907; renumbered §12203 and amended Pub. L. 103–337, div. A, title XVI, §§1632, 1662(c)(2), 1675(b)(1), Oct. 5, 1994, 108 Stat. 2965, 2990, 3017; Pub. L. 104–106, div. A, title XV, §1501(a)(6), Feb. 10, 1996, 110 Stat. 495; Pub. L. 108–375, div. A, title V, §501(c)(4), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 111–383, div. A, title X, §1075(b)(54), Jan. 7, 2011, 124 Stat. 4372.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §593; Pub. L. 85–861, §1(10)(C), Sept. 2, 1958, 72 Stat. 1440; Pub. L. 92–129, title VI, §601, Sept. 28, 1971, 85 Stat. 361; Pub. L. 96–513, title V, §501(7), Dec. 12, 1980, 94 Stat. 2907; renumbered §12203 and amended Pub. L. 103–337, div. A, title XVI, §§1632, 1662(c)(2), 1675(b)(1), Oct. 5, 1994, 108 Stat. 2965, 2990, 3017; Pub. L. 104–106, div. A, title XV, §1501(a)(6), Feb. 10, 1996, 110 Stat. 495; Pub. L. 108–375, div. A, title V, §501(c)(4), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 111–383, div. A, title X, §1075(b)(54), Jan. 7, 2011, 124 Stat. 4372; Pub. L. 116–92, div. A, title V, §501(b), Dec. 20, 2019, 133 Stat. 1343.)
 
 Historical and Revision Notes<br>1956
 
@@ -58,6 +58,8 @@ The exception is inserted to reflect section 3352(b) of title 10, United States 
 
 #### Amendments
 
+<b>2019</b>—Subsec. (b). Pub. L. 116–92 substituted "the Secretary of Defense" for "the Secretary concerned".
+
 <b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "of" for "above" in first sentence.
 
 <b>2004</b>—Subsecs. (b), (c). Pub. L. 108–375 added subsec. (b) and redesignated former subsec. (b) as (c).
@@ -82,7 +84,7 @@ Amendment by Pub. L. 108–375 effective on the first day of the first month beg
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, titleXVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -98,5 +100,5 @@ For assignment of functions of President under first sentence of subsec. (a) of 
 
 #### Indefinite Appointments for Certain Reserve Officers
 
-Act Aug. 10, 1956, ch. 1041, §41, 70A Stat. 636, provided that: "Each person who was a reserve officer on July 9,1952, and who did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section."
+Act Aug. 10, 1956, ch. 1041, §41, 70A Stat. 636, provided that: "Each person who was a reserve officer on July 9, 1952, and who did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section."
 

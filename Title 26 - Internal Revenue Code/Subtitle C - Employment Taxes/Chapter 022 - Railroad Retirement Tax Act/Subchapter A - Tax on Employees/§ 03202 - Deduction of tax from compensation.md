@@ -106,5 +106,5 @@ Amendment by Pub. L. 86–28 effective, except as otherwise provided, first day 
 
 #### Effective Date of 1954 Amendment
 
-Amendment by act Aug. 31, 1954, effective as if enacted as a part of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], see section 407 of act Aug. 31, 1954, as amended, set out as a note under section 3201 of this title.
+Amendment by act Aug. 31, 1954, effective as if enacted as a part of the Internal Revenue Code of 1986\[formerly I.R.C. 1954\], see section 407 of act Aug. 31, 1954, as amended, set out as a note under section 3201 of this title.
 

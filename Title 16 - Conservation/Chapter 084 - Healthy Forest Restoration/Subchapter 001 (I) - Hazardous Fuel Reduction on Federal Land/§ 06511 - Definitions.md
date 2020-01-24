@@ -28,7 +28,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(i) a natural or manmade change in fuel characteristics that affects fire behavior such that a fire can be more readily controlled (commonly known as a "fuel break"); and
 
-&emsp;&emsp;&emsp;(ii) a natural or constructed barrier used to stop or check a fire or to provide a control line from which to work to stop orcheck a fire (commonly known as a "firebreak").
+&emsp;&emsp;&emsp;(ii) a natural or constructed barrier used to stop or check a fire or to provide a control line from which to work to stop or check a fire (commonly known as a "firebreak").
 
 #### (3) Community wildfire protection plan
 
@@ -48,7 +48,7 @@ In this subchapter:
 
 &emsp;&emsp;(B) there exists a moderate risk of losing key ecosystem components from fire;
 
-&emsp;&emsp;(C) fire frequencies have increased or decreased from historical frequencies by 1 or more return intervals, resulting in moderate changes to—
+&emsp;&emsp;(C) fire frequencies have increased or decreased from historical frequencies by 1 ormore return intervals, resulting in moderate changes to—
 
 &emsp;&emsp;&emsp;(i) the size, frequency, intensity, or severity of fires; or
 
@@ -126,7 +126,7 @@ In this subchapter:
 
 &emsp;The term "resource management plan" means—
 
-&emsp;&emsp;(A) a land and resource management plan prepared for 1 or more units of land of theNational Forest System described in section 6502(1)(A) of this title under section 1604 of this title; or
+&emsp;&emsp;(A) a land and resource management plan prepared for 1 or more units of land of the National Forest System described in section 6502(1)(A) of this title under section 1604 of this title; or
 
 &emsp;&emsp;(B) a land use plan prepared for 1 or more units of the public land described in section 6502(1)(B) of this title under section 1712 of title 43.
 

@@ -30,7 +30,7 @@ Notice to accused.—Before any hearing is conducted pursuant to a request by th
 
 &emsp;(2)
 
-Order by military judge upon request of accused.—Whenever the trial counsel requests a hearing under subsection (a), themilitary judge, upon request of the accused, may order the trial counsel to provide the accused, prior to trial, such details as to the portion of the charge or specification at issue in the hearing as are needed to give the accused fair notice to prepare for the hearing.
+Order by military judge upon request of accused.—Whenever the trial counsel requests a hearing under subsection (a), the military judge, upon request of the accused, may order the trial counsel to provide the accused, prior to trial, such details as to the portion of the charge or specification at issue in the hearing as are needed to give the accused fair notice to prepare for the hearing.
 
 (c)
 
@@ -80,7 +80,7 @@ Submission of statement of damage to national security if disclosure ordered.—
 
 (e)
 
-Sealing of Records of in Camera Hearings.—If at the close of an in camera hearing under this section (or any portion of a hearing under this section that is held in camera), the military judge determines that the classified information at issue may not be disclosed or elicited at the trial or pretrial proceeding, the record of such in camera hearing shall be sealed and preserved for use in the event of an appeal. The accused may seek reconsideration of the military judge's determination prior to or during trial.
+Sealing of Records of in Camera Hearings.—If at the close of an in camera hearingunder this section (or any portion of a hearing under this section that is held in camera), the military judge determines that the classified information at issue may not be disclosed or elicited at the trial or pretrial proceeding, the record of such in camera hearing shall be sealed and preserved for use in the event of an appeal. The accused may seek reconsideration of the military judge's determination prior to or during trial.
 
 (f)
 
@@ -114,7 +114,7 @@ Reciprocity.—
 
 &emsp;(1)
 
-Disclosure of rebuttal information.—Whenever the military judge determines thatclassified information may be disclosed in connection with a trial or pretrial proceeding, the military judge shall, unless the interests of fairness do not so require, order the United States to provide the accused with the information it expects to use to rebut the classified information. The military judge may place the United States under a continuing duty to disclose such rebuttal information.
+Disclosure of rebuttal information.—Whenever the military judge determines that classified information may be disclosed in connection with a trial or pretrial proceeding, the military judge shall, unless the interests of fairness do not so require, order the United States to provide the accused with the information it expects to use to rebut the classified information. The military judge may place the United States under a continuing duty to disclose such rebuttal information.
 
 &emsp;(2)
 

@@ -22,7 +22,7 @@ The regulations prescribed under this section shall set forth factors which are 
 
 #### (1) In general
 
-&emsp;The characterization (as of the time of issuance) by the issuer as to whether an interestin a corporation is stock or indebtedness shall be binding on such issuer and on all holders of such interest (but shall not be binding on the Secretary).
+&emsp;The characterization (as of the time of issuance) by the issuer as to whether an interest in a corporation is stock or indebtedness shall be binding on such issuer and on all holders of such interest (but shall not be binding on the Secretary).
 
 #### (2) Notification of inconsistent treatment
 

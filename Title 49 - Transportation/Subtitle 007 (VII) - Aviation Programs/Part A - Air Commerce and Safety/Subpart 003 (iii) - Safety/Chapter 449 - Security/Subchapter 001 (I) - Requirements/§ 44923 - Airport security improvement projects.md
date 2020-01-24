@@ -38,7 +38,7 @@ Notice to administrator of the transportation security administration.—A spons
 
 &emsp;(4)
 
-Notice to congress.—The Administrator of the Transportation Security Administration shall transmit to the Committees on Appropriations and Transportation and Infrastructure of the House of Representatives and the Committees on Appropriations and Commerce, Science and Transportation of the Senate a written notification at least 3 days before the issuance of a letter of intent under this section.
+Notice to congress.—The Administrator of the Transportation Security Administration shall transmit to the Committees on Appropriations and Transportation and Infrastructure of the House of Representatives and the Committees on Appropriations and Commerce, Science <sup>1</sup> and Transportation of the Senate a written notification at least 3 days before the issuance of a letter of intent under this section.
 
 &emsp;(5)
 
@@ -106,7 +106,7 @@ Subsec. (i)(1). Pub. L. 110–53, §1603(a), substituted "2007, and $450,000,000
 
 Subsec. (j). Pub. L. 110–53, §1604(a)(5), redesignated subsec. (i) as (j).
 
-<b>2004</b>—Subsec. (i)(1). Pub. L. 108–458 substituted "$400,000,000 for each of fiscal years 2005, 2006, and 2007" for "$250,000,000 for each of fiscal years 2004 through 2007".
+<b>2004</b>—Subsec. (i)(1). Pub. L. 108–458 substituted "$400,000,000 for each of fiscal years 2005, 2006, and 2007"for "$250,000,000 for each of fiscal years 2004 through 2007".
 
 #### Effective Date
 
@@ -131,4 +131,6 @@ Report.—Not later than 180 days after the date of enactment of this Act, the A
 #### Period of Reimbursement
 
 Pub. L. 108–458, title IV, §4019(e)(2), Dec. 17, 2004, 118 Stat. 3722, provided that: "Notwithstanding any other provision of law, the Secretary \[of Homeland Security\] may provide that the period of reimbursement under any letter of intent may extend for a period not to exceed 10 years after the date that the Secretary issues such letter, subject to the availability of appropriations. This paragraph applies to letters of intent issued under section 44923 of title 49, United States Code, and letters of intent issued under section 367 of the Department of Transportation and Related Agencies Appropriation Act, 2003 \[Pub. L. 108–7, div. I\] (49 U.S.C. 47110 note)."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "Science,".</i>
 

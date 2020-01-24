@@ -10,7 +10,7 @@ For purposes of audits and investigations under this section, the President and 
 
 #### (c) State and local audits
 
-The President may require audits by State and local governments in connection with assistance under this chapter when necessary to assure compliance with this chapter or related regulations.
+The President may require audits by State and local governments in connection with assistanceunder this chapter when necessary to assure compliance with this chapter or related regulations.
 
 (Pub. L. 93–288, title III, §318, as added Pub. L. 100–707, title I, §105(m)(1), Nov. 23, 1988, 102 Stat. 4695.)
 

@@ -28,7 +28,7 @@ If the Federal estimate of the cost of—
 
 &emsp;&emsp;(A) immediately establish a threshold for eligibility under this section in an appropriate amount, without regard to chapter 5 of title 5; and
 
-&emsp;&emsp;(B) adjust the threshold annually to reflect changes in the Consumer Price Index for all Urban Consumers published by the Department of Labor.
+&emsp;&emsp;(B) adjust the threshold annually to reflect changes in the Consumer Price Indexfor all Urban Consumers published by the Department of Labor.
 
 #### (3) Review
 

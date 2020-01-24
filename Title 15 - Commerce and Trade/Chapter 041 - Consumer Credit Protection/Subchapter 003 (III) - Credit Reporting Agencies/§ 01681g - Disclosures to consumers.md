@@ -194,7 +194,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (11) Definition of victim
 
-&emsp;For purposes of this subsection, the term "victim" means a consumer whose means of identification or financial information hasbeen used or transferred (or has been alleged to have been used or transferred) without the authority of that consumer, with the intent to commit, or to aid or abet, an identity theft or a similar crime.
+&emsp;For purposes of this subsection, the term "victim" means a consumer whose means of identification or financial information has been used or transferred (or has been alleged to have been used or transferred) without the authority of that consumer, with the intent to commit, or to aid or abet, an identity theft or a similar crime.
 
 #### (12) Effective date
 
@@ -202,7 +202,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (13) Effectiveness study
 
-&emsp;Not later than 18 months after December 4, 2003, the Comptroller General of the United States shall submit a report to Congress assessing the effectiveness of this provision.
+&emsp;Not later than 18 months after December 4, 2003, the Comptroller General of the UnitedStates shall submit a report to Congress assessing the effectiveness of this provision.
 
 #### (f) Disclosure of credit scores
 
@@ -280,13 +280,13 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (9) Use of enquiries as a key factor
 
-&emsp;If a key factor that adversely affects the credit score of a consumer consists of the number of enquiries made with respect to a consumer report, that factor shall be includedin the disclosure pursuant to paragraph (1)(C) without regard to the numerical limitation in such paragraph.
+&emsp;If a key factor that adversely affects the credit score of a consumer consists of the number of enquiries made with respect to a consumer report, that factor shall be included in the disclosure pursuant to paragraph (1)(C) without regard to the numerical limitation in such paragraph.
 
 #### (g) Disclosure of credit scores by certain mortgage lenders
 
 #### (1) In general
 
-&emsp;Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f), in connection with an application initiated or sought by a consumer for a closed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the "lender") shall provide the following to the consumer as soon as reasonably practicable:
+&emsp;Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f), in connection with an application initiated or sought by a consumer for aclosed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the "lender") shall provide the following to the consumer as soon as reasonably practicable:
 
 #### (A) Information required under subsection (f)
 
@@ -354,7 +354,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (ii) Limit on liability
 
-&emsp;&emsp;&emsp;No person has liability under this subsection for the content of that informationor for the omission of any information within the report provided by the consumer reporting agency.
+&emsp;&emsp;&emsp;No person has liability under this subsection for the content of that information or for the omission of any information within the report provided by the consumer reporting agency.
 
 #### (G) Person defined as excluding enterprise
 
@@ -452,7 +452,7 @@ Pub. L. 104–208, div. A, title II, §2408(e)(2), (3), Sept. 30, 1996, 110 Stat
 
 "(2)
 
-Simplified disclosure.—Not later than 90 days after the date of enactment of this Act \[Sept. 30, 1996\], each consumer reporting agency shall develop a formon which such consumer reporting agency shall make the disclosures required under section 609(a) of the Fair Credit Reporting Act \[15 U.S.C. 1681g(a)\], for the purpose of maximizing the comprehensibility and standardization of such disclosures.
+Simplified disclosure.—Not later than 90 days after the date of enactment of this Act \[Sept. 30, 1996\], each consumer reporting agency shall develop a form on which such consumer reporting agency shall make the disclosures required under section 609(a) of the Fair Credit Reporting Act \[15 U.S.C. 1681g(a)\], for the purpose of maximizing the comprehensibility and standardization of such disclosures.
 
 "(3)
 

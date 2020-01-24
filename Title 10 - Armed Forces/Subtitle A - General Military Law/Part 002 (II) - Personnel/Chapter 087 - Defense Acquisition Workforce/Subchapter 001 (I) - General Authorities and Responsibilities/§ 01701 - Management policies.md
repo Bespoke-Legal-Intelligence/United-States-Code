@@ -66,7 +66,7 @@ Guidance and Implementation.—
 
 &emsp;"(1)
 
-Guidance.—Not later than 90 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Under Secretary shall develop and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] interim guidance on the form and contours of the exchange program established under subsection (a).
+Guidance.—Not later than 90 days after the date of the enactment of this Act \[Aug. 13, 2018\], theUnder Secretary shall develop and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] interim guidance on the form and contours of the exchange program established under subsection (a).
 
 &emsp;"(2)
 
@@ -184,7 +184,7 @@ Termination of Authority for Assignments.—No assignment of an employee may com
 
 #### Pilot Program on Enhanced Pay Authority for Certain Acquisition and Technology Positions in the Department of Defense
 
-Pub. L. 114–92, div. A, title XI, §1111, Nov. 25, 2015, 129 Stat. 1032, provided that:
+Pub. L. 114–92, div. A, title XI, §1111, Nov. 25, 2015, 129 Stat. 1032, as amended by Pub. L. 116–92, div. A, title IX, §902(9), Dec. 20, 2019, 133 Stat. 1543, provided that:
 
 "(a)
 
@@ -194,7 +194,7 @@ Pilot Program Authorized.—The Secretary of Defense may carry out a pilot progr
 
 Approval Required.—The pilot program may be carried out only with approval as follows:
 
-&emsp;"(1) Approval of the Under Secretary of Defense for Acquisition, Technology, and Logistics, in the case of positions in the Office of the Secretary of Defense.
+&emsp;"(1) Approval of the Under Secretary of Defense for Acquisition and Sustainment, in the case of positions in the Office of the Secretary of Defense.
 
 &emsp;"(2) Approval of the Service Acquisition Executive of the military department concerned, in the case of positions in a military department.
 
@@ -210,7 +210,7 @@ Positions.—The positions described in this subsection are positions that—
 
 Rate of Basic Pay.—The pay authority specified in this subsection is authority as follows:
 
-&emsp;"(1) Authority to fix the rate of basic pay for a position at a rate not to exceed 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Under Secretary of Defense for Acquisition, Technology, and Logistics or the Service Acquisition Executive concerned, as applicable.
+&emsp;"(1) Authority to fix the rate of basic pay for a position at a rate not to exceed 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Under Secretary of Defense for Acquisition and Sustainment or the Service Acquisition Executive concerned, as applicable.
 
 &emsp;"(2) Authority to fix the rate of basic pay for a position at a rate in excess of 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Secretary of Defense.
 
@@ -308,7 +308,7 @@ Termination.—The authority to make appointments under this section shall not b
 
 #### Coordination of Human Systems Integration Activities Related to Acquisition Programs
 
-Pub. L. 110–181, div. A, title II, §231, Jan. 28, 2008, 122 Stat. 45, as amended by Pub. L. 115–232, div. A, title VIII, §811(f), Aug. 13, 2018, 132 Stat. 1845, provided that: "The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall coordinate and manage human systems integration activities throughout the acquisition programs of the Department of Defense."
+Pub. L. 110–181, div. A, title II, §231, Jan. 28, 2008, 122 Stat. 45, as amended by Pub. L. 115–232, div. A, title VIII, §811(f), Aug. 13, 2018, 132 Stat. 1845; Pub. L. 116–92, div. A, title IX, §902(10), Dec. 20, 2019, 133 Stat. 1543, provided that: "The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall coordinate and manage human systems integration activities throughout the acquisition programs of the Department of Defense."
 
 #### Requirements for Senior Department of Defense Officials Seeking Employment With Defense Contractors
 
@@ -320,7 +320,7 @@ Requirement to Seek and Obtain Written Opinion.—
 
 &emsp;"(1)
 
-Request.—An official or former official of the Department of Defense described in subsection (c) who, within two years after leaving service in the Department of Defense, expects to receive compensation from a Department of Defense contractor, shall, prior to accepting such compensation, request a written opinion regarding the applicability of post-employment restrictions to activities that the official or former official may undertake on behalf of a contractor.
+Request.—An official or former official of the Department of Defense described in subsection (c)who, within two years after leaving service in the Department of Defense, expects to receive compensation from a Department of Defense contractor, shall, prior to accepting such compensation, request a written opinion regarding the applicability of post-employment restrictions to activities that the official or former official may undertake on behalf of a contractor.
 
 &emsp;"(2)
 

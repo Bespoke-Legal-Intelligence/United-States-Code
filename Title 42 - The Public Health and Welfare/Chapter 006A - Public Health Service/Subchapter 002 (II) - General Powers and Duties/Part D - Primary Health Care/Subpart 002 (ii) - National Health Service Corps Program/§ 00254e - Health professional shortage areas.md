@@ -6,7 +6,7 @@
 
 (2) For purposes of this subsection, the term "medical facility" means a facility for the delivery of health services and includes—
 
-&emsp;(A) a hospital, State mental hospital, public health center, outpatient medical facility, rehabilitation facility, facility for long-term care, community mental health center, migrant health center, facility operated by a city or county health department, and community health center;
+&emsp;(A) a hospital, State mental hospital, public health center, outpatient medical facility, rehabilitation facility, facility for long-term care, community mental health center, migrant health center, facility operated by a cityor county health department, and community health center;
 
 &emsp;(B) such a facility of a State correctional institution or of the Indian Health Service, and a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\];
 
@@ -14,7 +14,7 @@
 
 &emsp;(D) a Federal medical facility.
 
-(3) Homeless individuals (as defined in section 254b(h)(5) of this title), seasonal agricultural workers (as defined in section 254b(g)(3) of thistitle) and migratory agricultural workers (as so defined)), and residents of public housing (as defined in section 1437a(b)(1) of this title) may be population groups under paragraph (1).
+(3) Homeless individuals (as defined in section 254b(h)(5) of this title), seasonal agricultural workers (as defined in section 254b(g)(3) of this title) and migratory agricultural workers (as so defined)), and residents of public housing (as defined in section 1437a(b)(1) of this title) may be population groups under paragraph (1).
 
 #### (b) Criteria for designation of health professional shortage areas; promulgation of regulations
 
@@ -134,7 +134,7 @@ Subsec. (j). Pub. L. 108–163, §2(f)(1)(D), added subsec. (j).
 
 Subsec. (a)(2)(C). Pub. L. 107–251, §601(a), substituted "254b(h)" for "256".
 
-Subsec. (a)(3). Pub. L. 107–251, §302(a)(1)(B), substituted "254b(h)(4) of this title), seasonal agricultural workers (as defined in section 254b(g)(3) of this title)and migratory agricultural workers (as so defined)), and residents of public housing (as defined in section 1437a(b)(1) of this title) may be population groups" for "256(r) of this title) may be a population group".
+Subsec. (a)(3). Pub. L. 107–251, §302(a)(1)(B), substituted "254b(h)(4) of this title), seasonal agricultural workers (as defined in section 254b(g)(3) of this title) and migratory agricultural workers (as so defined)), and residents of public housing (as defined in section 1437a(b)(1) of this title) may be population groups" for "256(r) of this title) may be a population group".
 
 Subsec. (b)(2). Pub. L. 107–251, §302(a)(2), struck out after "designation," the following: "with special consideration to indicators of—
 
@@ -224,7 +224,7 @@ Pub. L. 95–142, §7(e)(1), Oct. 25, 1977, 91 Stat. 1194, provided that: "The a
 
 #### Regulations
 
-Pub. L. 107–251, title III, §302(b), Oct. 26, 2002, 116 Stat. 1644, which required the Secretary to submit a report to Congress, if the Secretary issued regulations revising the definition of a health professional shortage area under this section and standards concerning priority ofsuch an area under section 254f–1 of this title, was repealed by Pub. L. 108–163, §2(f)(2), Dec. 6, 2003, 117 Stat. 2022.
+Pub. L. 107–251, title III, §302(b), Oct. 26, 2002, 116 Stat. 1644, which required the Secretary to submit a report to Congress, if the Secretary issued regulations revising the definition of a health professional shortage area under this section and standards concerning priority of such an area under section 254f–1 of this title, was repealed by Pub. L. 108–163, §2(f)(2), Dec. 6, 2003, 117 Stat. 2022.
 
 #### Improvement of Site Designation Process
 

@@ -12,4 +12,4 @@ Part A—Allotment and Allocation
 - [&sect; 02325 - Assistance for the outlying areas](%C2%A7%2002325%20-%20Assistance%20for%20the%20outlying%20areas.md)
 - [&sect; 02326 - Native American programs](%C2%A7%2002326%20-%20Native%20American%20programs.md)
 - [&sect; 02327 - Tribally controlled postsecondary career and technical institutions](%C2%A7%2002327%20-%20Tribally%20controlled%20postsecondary%20career%20and%20technical%20institutions.md)
-- [&sect; 02328 - Occupational and employment information](%C2%A7%2002328%20-%20Occupational%20and%20employment%20information.md)
+- [&sect; 02328 - Repealed. Pub. L. 115&#8211;224, title I, &sect;117, July 31, 2018, 132 Stat. 1599](%C2%A7%2002328%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93224%2C%20title%20I%2C%20%C2%A7117%2C%20July%2031%2C%202018%2C%20132%20Stat.%201599.md)

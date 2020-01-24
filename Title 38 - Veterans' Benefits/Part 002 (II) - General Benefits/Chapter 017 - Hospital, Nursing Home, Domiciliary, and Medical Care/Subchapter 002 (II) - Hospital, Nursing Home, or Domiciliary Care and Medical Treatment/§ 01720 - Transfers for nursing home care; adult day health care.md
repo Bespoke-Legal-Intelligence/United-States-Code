@@ -68,7 +68,7 @@
 
 (e)(1) The cost of intermediate care for purposes of payment by the United States pursuant to subsection (a)(2)(B) of this section shall be determined by the Secretary except that the rate of reimbursement shall be commensurately less than that provided for nursing home care.
 
-(2) For the purposes of this section, the term "non-Department nursing home" means a public or private institution not under the direct jurisdiction of the Secretary which furnishes nursing home care.
+(2) For the purposes of this section, the term "non-Department nursing home" means a publicor private institution not under the direct jurisdiction of the Secretary which furnishes nursing home care.
 
 (f)(1)(A) The Secretary may furnish adult day health care services to a veteran enrolled under section 1705(a) of this title who would otherwise require nursing home care.
 
@@ -164,7 +164,7 @@ Subsec. (f)(3). Pub. L. 100–322, §111(a), substituted "September 30, 1991" fo
 
 &emsp;"(i) such veteran has received maximum benefits from such care in such hospital, but will require a protracted period of nursing home care which can be furnished in such institution, and
 
-&emsp;"(ii) the cost of such nursing home care in such institution will not exceed 45 percent of the cost of carefurnished by the Veterans' Administration in a general hospital under the direct and exclusive jurisdiction of the Administrator, as such cost may be determined annually by the Administrator, or not to exceed 50 percent of such cost where determined necessary by the Administrator, upon recommendation of the Chief Medical Director, to provide adequate care.
+&emsp;"(ii) the cost of such nursing home care in such institution will not exceed 45 percent of the cost of care furnished by the Veterans' Administration in a general hospital under the direct and exclusive jurisdiction of the Administrator, as such cost may be determined annually by the Administrator, or not to exceed 50 percent of such cost where determined necessary by the Administrator, upon recommendation of the Chief Medical Director, to provide adequate care.
 
 > Nursing home care may not be furnished pursuant to this section at the expense of the United States for more than six months in the aggregate in connection with any one transfer, except (I) in the case of the veteran whose hospitalization was primarily for a service-connected disability, or (II) where in the judgment of the Administrator a longer period is warranted in the case of any other veteran. Any veteran who is furnished care by the Administrator in a hospital in Alaska or Hawaii may be furnished nursing home care under the provisions of this section even if such hospital is not under the direct jurisdiction of the Administrator."
 
@@ -194,7 +194,7 @@ Subsec. (d). Pub. L. 93–82, §104(d), added subsec. (d).
 
 <b>1969</b>—Subsec. (a). Pub. L. 91–101 inserted provision authorizing the furnishing of nursing home care for more than six months in the aggregate in connection with any one transfer in the case of a veteran whose hospitalization was primarily for a service-connected disability.
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–612, §1, authorized furnishing of nursing home care to veterans who are being furnished care by the Administrator in hospitals in Alaska or Hawaii even if the hospitals involved are not under the direct and exclusive jurisdiction of the Administrator.
+<b>1968</b>—Subsec. (a). Pub. L. 90–612, §1, authorized furnishing of nursing home care to veterans who are being furnished care by the Administrator in hospitals inAlaska or Hawaii even if the hospitals involved are not under the direct and exclusive jurisdiction of the Administrator.
 
 Subsec. (a)(2). Pub. L. 90–429 substituted "40 per centum" for "one-third".
 

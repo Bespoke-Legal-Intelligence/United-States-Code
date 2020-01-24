@@ -46,7 +46,7 @@
 
 #### (b) Fiscal report
 
-Beginning with fiscal year 2018, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
+Beginning with fiscal year 2018, not later than 120 days after the end of each fiscal year forwhich fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
 
 #### (c) Corrective action report
 
@@ -110,7 +110,7 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 #### (3) Periodic consultation
 
-&emsp;Not less frequently than once every month during negotiations with the generic drug industry, the Secretary shall hold discussions with representatives of patient and consumer advocacy groups to continue discussions oftheir views on the reauthorization and their suggestions for changes to this subpart as expressed under paragraph (2).
+&emsp;Not less frequently than once every month during negotiations with the generic drug industry, the Secretary shall hold discussions with representatives of patient and consumer advocacy groups to continue discussions of their views on the reauthorization and their suggestions for changes to this subpart as expressed under paragraph (2).
 
 #### (4) Public review of recommendations
 

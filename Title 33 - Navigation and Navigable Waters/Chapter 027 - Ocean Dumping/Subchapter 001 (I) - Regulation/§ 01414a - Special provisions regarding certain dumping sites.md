@@ -8,7 +8,7 @@
 
 &emsp;(B) The term "Apex site" means that site within the Apex at which the dumping of municipal sludge occurred before October 1, 1983.
 
-&emsp;(C) The term "eligible authority" means any sewerage authority or other unit of State or local government that on November 2, 1983, was authorized under court order to dump municipal sludge at the Apex site.
+&emsp;(C) The term "eligible authority" means any sewerage authority or other unit of State orlocal government that on November 2, 1983, was authorized under court order to dump municipal sludge at the Apex site.
 
 (2) No person may apply for a permit under this subchapter in relation to the dumping of, or the transportation for purposes of dumping, municipal sludge within the Apex unless that person is an eligible authority.
 

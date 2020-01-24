@@ -58,7 +58,7 @@ Subsec. (b). Pub. L. 110–246, §7120, inserted "(including 1890 Institutions (
 
 Subsec. (c). Pub. L. 105–185, §606(d)(3), struck out "and the Board" after "Advisory Board" in second sentence and substituted "and the Advisory Board" for ", the Advisory Board, and the Board" in fourth sentence.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127, §812(1), inserted "or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being," after "problems," and substituted "1997" for "1995".
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §812(1), inserted "or national or regional problems relating to pre-harvest,on-farm food safety, or animal well-being," after "problems," and substituted "1997" for "1995".
 
 Subsec. (b). Pub. L. 104–127, §812(2), substituted "State agricultural experiment stations, colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals" for "eligible institutions".
 
@@ -76,7 +76,7 @@ Subsec. (f). Pub. L. 104–127, §812(5), added subsec. (f).
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted "1990" for "1985".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–98, §1430(a), substituted "as Congress may determine necessary to support research on specific national or regional animal health ordisease problems, but not to exceed $35,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year" for ", not to exceed $15,000,000 annually, as Congress may determine necessary to support research on specific national or regional animal health or disease problems".
+<b>1981</b>—Subsec. (a). Pub. L. 97–98, §1430(a), substituted "as Congress may determine necessary to support research on specific national or regional animal health or disease problems, but not to exceed $35,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year" for ", not to exceed $15,000,000 annually, as Congress may determine necessary to support research on specific national or regional animal health or disease problems".
 
 Subsec. (b). Pub. L. 97–98, §1430(b), substituted provisions that funds appropriated under this section shall be awarded in the form of grants, for periods not to exceed five years, to eligible institutions for provisions that such funds shall be allocated by the Secretary to eligible institutions for work to be done, as mutually agreed upon between the Secretary and the eligible institution or institutions and that the Secretary shall consult the Board in developing plans for the use of these funds whenever possible.
 

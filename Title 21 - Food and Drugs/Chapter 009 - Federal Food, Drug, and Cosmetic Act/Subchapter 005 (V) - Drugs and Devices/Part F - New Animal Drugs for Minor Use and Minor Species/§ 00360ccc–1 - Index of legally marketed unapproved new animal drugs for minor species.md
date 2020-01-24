@@ -6,7 +6,7 @@
 
 &emsp;(A) new animal drugs intended for use in a minor species for which there is a reasonable certainty that the animal or edible products from the animal will not be consumed by humans or food-producing animals; and
 
-&emsp;(B) new animal drugs intended for use only in a hatchery, tank, pond, or other similar contained man-made structure in an early, non-food life stage of a food-producing minor species, where safety for humans is demonstrated in accordance with the standard of section 360b(d) of this title (including, for an antimicrobial new animal drug, with respect to antimicrobial resistance).
+&emsp;(B) new animal drugs intended for use only in a hatchery, tank, pond, or other similarcontained man-made structure in an early, non-food life stage of a food-producing minor species, where safety for humans is demonstrated in accordance with the standard of section 360b(d) of this title (including, for an antimicrobial new animal drug, with respect to antimicrobial resistance).
 
 (2) The index shall not include a new animal drug that is contained in or a product of a transgenic animal.
 
@@ -48,7 +48,7 @@ Any person intending to file a request under this section shall be entitled to o
 
 #### (d) Request for addition to index
 
-(1) With respect to a new animal drug for which the Secretary has made a determinationof eligibility under subsection (c), the person who made such a request may ask that the Secretary add the new animal drug to the index established under subsection (a). The request for addition to the index shall include—
+(1) With respect to a new animal drug for which the Secretary has made a determination of eligibility under subsection (c), the person who made such a request may ask that the Secretary add the new animal drug to the index established under subsection (a). The request for addition to the index shall include—
 
 &emsp;(A) a copy of the Secretary's determination of eligibility issued under subsection (c);
 
@@ -82,7 +82,7 @@ Any person intending to file a request under this section shall be entitled to o
 
 (3) A qualified expert panel, as used in this section, is a panel that—
 
-&emsp;(A) is composed of experts qualified by scientific training and experience to evaluate the target animal safety and effectiveness of the new animal drug under consideration;
+&emsp;(A) is composed of experts qualified by scientific training and experience to evaluate thetarget animal safety and effectiveness of the new animal drug under consideration;
 
 &emsp;(B) operates external to FDA; and
 
@@ -184,7 +184,7 @@ In the case of a request under subsection (d) to add a drug to the index under s
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(E), is Pub. L. 91–190, Jan. 1,1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(E), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (d)(3)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

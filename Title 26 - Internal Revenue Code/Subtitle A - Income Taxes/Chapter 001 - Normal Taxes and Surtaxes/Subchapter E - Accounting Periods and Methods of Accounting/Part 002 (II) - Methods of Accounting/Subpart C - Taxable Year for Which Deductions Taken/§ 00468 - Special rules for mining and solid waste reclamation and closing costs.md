@@ -52,7 +52,7 @@
 
 #### (B) Closing costs reserves
 
-&emsp;&emsp;In the case of any reserve for qualified closing costs, there shall be included ingross income for any taxable year an amount equal to the excess of—
+&emsp;&emsp;In the case of any reserve for qualified closing costs, there shall be included in gross income for any taxable year an amount equal to the excess of—
 
 &emsp;&emsp;&emsp;(i) the closing balance of the reserve for such taxable year, over
 

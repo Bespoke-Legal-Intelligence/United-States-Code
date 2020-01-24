@@ -36,7 +36,7 @@ The application submitted by the State under subsection (a) shall provide an ass
 
 > &emsp;This subparagraph shall not be construed to require the State to make the determination under clause (ii) for families that do not have a set of characteristics identified under clause (i).
 
-&emsp;(D)(i) The State shall designate standardized amounts of assistance provided as food assistance under the Project and notify monthlyeach participating family of such designated amount.
+&emsp;(D)(i) The State shall designate standardized amounts of assistance provided as food assistance under the Project and notify monthly each participating family of such designated amount.
 
 &emsp;(ii) The amount of food assistance so designated shall be at least the value of benefits such family could have received under the supplemental nutrition assistance program if the Project had not been implemented. The provisions of this subparagraph shall not require that the State make individual determinations as to the amount of assistance under the Project designated as food assistance.
 
@@ -86,7 +86,7 @@ The application submitted by the State under subsection (a) shall provide an ass
 
 &emsp;(10)(A) The State shall provide each family or family member whose participation in the Project ends and each family whose participation is terminated with notice of the existence of the supplemental nutrition assistance program and the person or agency to contact for more information.
 
-&emsp;(B)(i) Following the standards specified in subparagraph (C), the State shall ensure that benefits under the supplemental nutrition assistance program are provided to participating families in case the Project is terminated or to participating families or family members that are determined ineligible for the Project because of income, resources, or change in household composition, if such families or individuals are determined eligible for the supplemental nutrition assistance program. Benefits shall be issued to eligible families and individuals described in this clause retroactive to the date of termination from the Project; and
+&emsp;(B)(i) Following the standards specified in subparagraph (C), the State shall ensure that benefits under the supplemental nutrition assistance program are provided to participating families in case the Project is terminated orto participating families or family members that are determined ineligible for the Project because of income, resources, or change in household composition, if such families or individuals are determined eligible for the supplemental nutrition assistance program. Benefits shall be issued to eligible families and individuals described in this clause retroactive to the date of termination from the Project; and
 
 &emsp;(ii) If sections 256.031 through 256.036 of the Minnesota Statutes, 1989 Supplement, or Minnesota Laws 1989, chapter 282, article 5, section 130, are amended to reduce or eliminate benefits provided under those sections or restrict the rights of Project applicants or participating families, the State shall exclude from the Project applicants or participating families or individuals affected by such amendments and follow the standards specified in subparagraph (C), except that the State shall continue to pay from State funds an amount equal to the food assistance portion to such families and individuals until the State determines eligibility or ineligibility for the supplemental nutrition assistance program or the family or individual has failed to supply the needed additional information within ten days. Food benefits shall be provided to families and individuals excluded from the Project under this clause who are determined eligible for the supplemental nutrition assistance program retroactive to the date of the determination of eligibility. The Secretary shall pay to the State the value of the benefits for which such families and individuals would have been eligible in the absence of food assistance payments under this clause from the date of termination from the Project to the date benefits are provided.
 
@@ -176,7 +176,7 @@ The Comptroller General of the United States shall—
 
 &emsp;(A) allow payments made to the State under the Project to be less than the amounts the State and eligible households within the State would have received if the Project had not been implemented; or
 
-&emsp;(B) require the Secretary to incur costs as a result of the Project in excess of costs thatwould have been incurred if the Project had not been implemented, except for costs for evaluation.
+&emsp;(B) require the Secretary to incur costs as a result of the Project in excess of costs that would have been incurred if the Project had not been implemented, except for costs for evaluation.
 
 #### (h) Quality control
 
@@ -184,7 +184,7 @@ Participating families shall be excluded from any sample taken for purposes of m
 
 #### (i) Evaluation
 
-(1) The State shall develop and implement a plan for an independent evaluation designed to provide reliable information on Project impacts and implementation. The evaluation will include treatment and control groups and will include random assignment of families to treatment and control groups in an urban setting. The evaluation plan shall satisfy the evaluation concerns of the Secretary of Agriculture such as effects on benefits to participants, costs of the Project, payment accuracy, administrative consequences, any reduction in welfare dependency, any reduction in total assistance payments, and the consequences of cash payments on household expenditures, and food consumption. The evaluation plan shall take into consideration the evaluation requirements and administrative obligations of the State. The evaluation will measure the effects of the Project in regard to goals of increasing family income, prevention of long-term dependency, movement toward self-support, and simplification of the welfare system.
+(1) The State shall develop and implement a plan for an independent evaluation designed toprovide reliable information on Project impacts and implementation. The evaluation will include treatment and control groups and will include random assignment of families to treatment and control groups in an urban setting. The evaluation plan shall satisfy the evaluation concerns of the Secretary of Agriculture such as effects on benefits to participants, costs of the Project, payment accuracy, administrative consequences, any reduction in welfare dependency, any reduction in total assistance payments, and the consequences of cash payments on household expenditures, and food consumption. The evaluation plan shall take into consideration the evaluation requirements and administrative obligations of the State. The evaluation will measure the effects of the Project in regard to goals of increasing family income, prevention of long-term dependency, movement toward self-support, and simplification of the welfare system.
 
 (2) The State shall pay 50 percent of the cost of developing and implementing such plan and the Federal Government shall pay the remainder.
 

@@ -4,9 +4,13 @@ There is established in the executive branch of the Government an independent ag
 
 (May 10, 1950, ch. 171, §2, 64 Stat. 149.)
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–102, §1, Dec. 24, 2019, 133 Stat. 3263, provided that: "This Act \[amending sections 1862s–5 and 1862s–7 of this title and enacting provisions set out as notes under section 1862s–5 of this title\] may be cited as the 'Building Blocks of STEM Act'."
+
 #### Short Title of 2018 Amendment
 
-Pub. L. 115–402, §1, Dec. 31, 2018, 132 Stat. 5343, provided that: "This Act \[amending section 1862i of this title and enacting provisions set out as notes under sections 1862i and 1862p of this title\] may be cited as the'Innovations in Mentoring, Training, and Apprenticeships Act'."
+Pub. L. 115–402, §1, Dec. 31, 2018, 132 Stat. 5343, provided that: "This Act \[amending section 1862i of this title and enacting provisions set out as notes under sections 1862i and 1862p of this title\] may be cited as the 'Innovations in Mentoring, Training, and Apprenticeships Act'."
 
 Pub. L. 115–303, §1, Dec. 11, 2018, 132 Stat. 4399, provided that: "This Act \[amending sections 1862n–1 and 1862n–1a of this title and enacting provisions set out as notes under section 1862n–1 of this title and preceding section 40901 of Title 51, National and Commercial Space Programs\] may be cited as the 'Women in Aerospace Education Act'."
 
@@ -28,7 +32,7 @@ Pub. L. 114–59, §1, Oct. 7, 2015, 129 Stat. 540, provided that: "This Act \[e
 
 Pub. L. 111–358, §1(a), Jan. 4, 2011, 124 Stat. 3982, provided that: "this \[probably should be "This"\] Act \[see Tables for classification\] may be cited as the 'America COMPETES Reauthorization Act of 2010' or the 'America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010'."
 
-Pub. L. 111–358, title V, §501, Jan. 4, 2011, 124 Stat. 4005, provided that: "This subtitle \[subtitle A (§§501–527) of title V of Pub. L. 111–358, enacting sections 1862p to 1862p–15 of this title, amending sections 1862n–1a, 1862n–5, 1863, and 1869 of this title, and enacting provisions set out as notes under sections 1862p and 1869 of this title\] may be cited as the 'National Science Foundation Authorization Act of 2010'."
+Pub. L. 111–358, title V, §501, Jan. 4, 2011, 124 Stat. 4005, provided that: "This subtitle \[subtitle A\(§§501–527) of title V of Pub. L. 111–358, enacting sections 1862p to 1862p–15 of this title, amending sections 1862n–1a, 1862n–5, 1863, and 1869 of this title, and enacting provisions set out as notes under sections 1862p and 1869 of this title\] may be cited as the 'National Science Foundation Authorization Act of 2010'."
 
 #### Short Title of 2002 Amendment
 
@@ -70,7 +74,7 @@ Pub. L. 95–99, §1, Aug. 15, 1977, 91 Stat. 831, provided: "That this Act \[en
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–471, §1, Oct. 11, 1976, 90 Stat. 2053, provided: "That this Act \[enacting sections 1882 and 1883 of thistitle, amending section 1863 of this title, and enacting provisions set out as notes under sections 1862, 1864, 1873, and 5820 of this title\] may be cited as the 'National Science Foundation Authorization Act, 1977'."
+Pub. L. 94–471, §1, Oct. 11, 1976, 90 Stat. 2053, provided: "That this Act \[enacting sections 1882 and 1883 of this title, amending section 1863 of this title, and enacting provisions set out as notes under sections 1862, 1864, 1873, and 5820 of this title\] may be cited as the 'National Science Foundation Authorization Act, 1977'."
 
 #### Short Title
 
@@ -122,7 +126,7 @@ Sec. 4. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472
 
 (b) Except to the extent inconsistent with the provisions of section 23(b)(2) of this reorganization plan, all functions of the office of Director of the National Science Foundation abolished by the provisions of 23(a)(2) hereof are hereby transferred to the office of Director established by the provisions of subsection (a) of this section.
 
-(c) The Director, ex officio, shall be an additional member of the Board and, except in respect of compensation and tenure, shall be coordinate with other members of the Board. He shall be a voting member of the Board and shall be eligible for election by the Board as chairman or vice chairman of the Board. \[Asamended Pub. L. 88–426, title III, §305(41)(C), Aug. 14, 1964, 78 Stat. 428.\]
+(c) The Director, ex officio, shall be an additional member of the Board and, except in respect of compensation and tenure, shall be coordinate with other members of the Board. He shall be a voting member of the Board and shall be eligible for election by the Board as chairman or vice chairman of the Board. \[As amended Pub. L. 88–426, title III, §305(41)(C), Aug. 14, 1964, 78 Stat. 428.\]
 
 #### Sec. 23. Abolitions
 
@@ -194,7 +198,7 @@ The ever-growing significance and complexity of Federal programs in science and 
 
 The National Science Foundation has proved to be an effective instrument for administering sizable programs in support of basic research and education in the sciences and has set an example for other agencies through the administration of its own programs. However, the Foundation, being at the same organizational level as other agencies, cannot satisfactorily coordinate Federal science policies or evaluate programs of other agencies. Science policies, transcending agency lines, need to be coordinated and shaped at the level of the Executive Office of the President drawing upon many resources both within and outside of Government. Similarly, staff efforts at that higher level are required for the evaluation of Government programs in science and technology.
 
-Thus, the further steps contained in part I of the reorganization plan are now needed in order to meet most effectively new and expanding requirements brought about by the rapid and far-reaching growth of the Government's research and development programs. These requirements call for the further strengthening of science organization at the Presidential level and for the adjustment of the Foundation's role to reflect changed conditions. The Foundation will continue to originate policy proposals and recommendations concerning the support of basic research and education in the sciences, and the new Office will look to the Foundation to provide studies and information on which sound national policies in science and technology can be based.
+Thus, the further steps contained in part I of the reorganization plan are now needed in order to meet most effectively new and expanding requirements brought about by the rapid and far-reaching growth of the Government's research and development programs. These requirements call for the further strengthening of science organization at the Presidential level and for the adjustment of the Foundation's role to reflectchanged conditions. The Foundation will continue to originate policy proposals and recommendations concerning the support of basic research and education in the sciences, and the new Office will look to the Foundation to provide studies and information on which sound national policies in science and technology can be based.
 
 Part I of the reorganization plan will permit some strengthening of the staff and consultant resources now available to the President in respect of scientific and technical factors affecting executive branch policies and will also facilitate communication with the Congress.
 

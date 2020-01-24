@@ -8,7 +8,7 @@ Not later than 1 year after August 8, 2005, the Commission shall establish, by r
 
 The rule shall—
 
-&emsp;(1) promote reliable and economically efficient transmission and generation of electricity by promoting capital investment in the enlargement, improvement, maintenance, and operation of all facilities for the transmission of electric energy in interstate commerce, regardless of the ownership of the facilities;
+&emsp;(1) promote reliable and economically efficient transmission and generation of electricity by promoting capital investment in the enlargement, improvement, maintenance, and operation of all facilities for the transmissionof electric energy in interstate commerce, regardless of the ownership of the facilities;
 
 &emsp;(2) provide a return on equity that attracts new investment in transmission facilities (including related transmission technologies);
 

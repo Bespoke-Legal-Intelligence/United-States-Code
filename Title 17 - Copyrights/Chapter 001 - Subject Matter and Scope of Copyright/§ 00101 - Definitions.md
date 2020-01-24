@@ -342,6 +342,10 @@ Effective Date.—This Act and the amendments made by this Act \[enacting sectio
 
 Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose."
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–94, div. P, title XI, §1101, Dec. 20, 2019, 133 Stat. 3201, provided that: "This title \[amending sections 119 and 501 of this title and enacting provisions set out as a note under section 119 of this title\] may be cited as the 'Satellite Television Community Protection and Promotion Act of 2019'."
+
 #### Short Title of 2018 Amendment
 
 Pub. L. 115–264, §1(a), Oct. 11, 2018, 132 Stat. 3676, provided that: "This Act \[enacting chapter 14 of this title, amending sections 114, 115, 301, 801, 803, and 804 of this title, section 58c of Title 19, Customs Duties, and section 137 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 106, 114, and 115 of this title\] may be cited as the 'Orrin G. Hatch–Bob Goodlatte Music Modernization Act'."
@@ -378,7 +382,7 @@ Pub. L. 109–303, §1, Oct. 6, 2006, 120 Stat. 1478, provided that: "This Act \
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–9, §1, Apr. 27, 2005, 119 Stat. 218, provided that: "This Act \[enacting section 2319B of Title 18, Crimes and Criminal Procedure, amending this section and sections 108, 110, 408, 411, 412, and 506 of this title, sections 179m, 179n, 179p, 179q, and 179w of Title 2, The Congress, section 1114 of Title 15, Commerce and Trade, section 2319 of Title 18, and sections 151703, 151705,151706, and 151711 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, enacting provisions set out as notes under this section, section 179l of Title 2, and section 101 of Title 36, and provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Family Entertainment and Copyright Act of 2005'."
+Pub. L. 109–9, §1, Apr. 27, 2005, 119 Stat. 218, provided that: "This Act \[enacting section 2319B of Title 18,Crimes and Criminal Procedure, amending this section and sections 108, 110, 408, 411, 412, and 506 of this title, sections 179m, 179n, 179p, 179q, and 179w of Title 2, The Congress, section 1114 of Title 15, Commerce and Trade, section 2319 of Title 18, and sections 151703, 151705, 151706, and 151711 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, enacting provisions set out as notes under this section, section 179l of Title 2, and section 101 of Title 36, and provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Family Entertainment and Copyright Act of 2005'."
 
 Pub. L. 109–9, title I, §101, Apr. 27, 2005, 119 Stat. 218, provided that: "This title \[enacting section 2319B of Title 18, Crimes and Criminal Procedure, amending this section, sections 408, 411, 412, and 506 of this title, and section 2319 of Title 18, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Artists' Rights and Theft Prevention Act of 2005' or the 'ART Act'."
 
@@ -434,7 +438,7 @@ Pub. L. 103–369, §1, Oct. 18, 1994, 108 Stat. 3477, provided that: "This Act 
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–198, §1, Dec. 17, 1993, 107 Stat. 2304, provided that: "This Act \[amending sections 111, 116, 118, 119, 801 to 803, 1004 to 1007, and 1010 of this title and section 1288 of Title 8, Aliens and Nationality, renumbering sections 116A and 804 of this title as sections 116 and803, respectively, of this title, repealing sections 116, 803, and 805 to 810 of this title, and enacting provisions set out as notes under section 801 of this title and section 1288 of Title 8\] may be cited as the 'Copyright Royalty Tribunal Reform Act of 1993'."
+Pub. L. 103–198, §1, Dec. 17, 1993, 107 Stat. 2304, provided that: "This Act \[amending sections 111, 116, 118,119, 801 to 803, 1004 to 1007, and 1010 of this title and section 1288 of Title 8, Aliens and Nationality, renumbering sections 116A and 804 of this title as sections 116 and 803, respectively, of this title, repealing sections 116, 803, and 805 to 810 of this title, and enacting provisions set out as notes under section 801 of this title and section 1288 of Title 8\] may be cited as the 'Copyright Royalty Tribunal Reform Act of 1993'."
 
 #### Short Title of 1992 Amendment
 

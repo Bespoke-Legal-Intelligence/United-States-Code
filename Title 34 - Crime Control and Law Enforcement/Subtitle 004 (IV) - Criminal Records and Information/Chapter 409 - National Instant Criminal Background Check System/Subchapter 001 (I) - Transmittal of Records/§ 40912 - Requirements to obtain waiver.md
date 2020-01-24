@@ -68,7 +68,7 @@ Beginning 3 years after January 8, 2008, a State shall be eligible to receive a 
 
 #### (2) Application to persons convicted of misdemeanor crimes of domestic violence
 
-&emsp;The State shall make available to the Attorney General, for use by the National Instant Criminal Background Check System, records relevant to a determination of whether a person has been convicted in any court of a misdemeanor crime of domestic violence. With respect to records relating to such crimes, the State shall provide information specifically describing the offense and the specific sectionor subsection of the offense for which the defendant has been convicted and the relationship of the defendant to the victim in each case.
+&emsp;The State shall make available to the Attorney General, for use by the National Instant Criminal Background Check System, records relevant to a determination of whether a person has been convicted in any court of a misdemeanor crime of domestic violence. With respect to records relating to such crimes, the State shall provide information specifically describing the offense and the specific section or subsection of the offense for which the defendant has been convicted and the relationship of the defendant to the victim in each case.
 
 #### (3) Application to persons who have been adjudicated as a mental defective or committed to a mental institution
 

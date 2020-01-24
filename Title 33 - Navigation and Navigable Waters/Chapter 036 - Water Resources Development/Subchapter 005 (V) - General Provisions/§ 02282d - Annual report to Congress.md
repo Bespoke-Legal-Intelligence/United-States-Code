@@ -28,7 +28,7 @@ Not later than February 1 of each year, the Secretary shall develop and submit t
 
 #### (1) Publication
 
-&emsp;Not later than May 1 of each year, the Secretary shall publish in the Federal Register a notice requesting proposals from non-Federal interests for proposed feasibility studies, proposed modifications to authorized water resources development projects and feasibility studies, and proposed modifications for an environmental infrastructure program to be included in the annual report.
+&emsp;Not later than May 1 of each year, the Secretary shall publish in the Federal Register a notice requesting proposals from non-Federal interests for proposed feasibility studies, proposed modifications to authorized water resources development projects and feasibilitystudies, and proposed modifications for an environmental infrastructure program to be included in the annual report.
 
 #### (2) Deadline for requests
 
@@ -260,7 +260,7 @@ Dissemination of Process Information.—The Secretary shall develop, support, an
 
 &emsp;"(2) provide written notice to local elected officials and previous and potential non-Federal interests on the annual process and on opportunities to address local water resources challenges through the missions and authorities of the Corps of Engineers;
 
-&emsp;"(3) issue guidance for non-Federal interests to assist such interests in developing proposals for waterresources development projects that satisfy the requirements of such section 7001; and
+&emsp;"(3) issue guidance for non-Federal interests to assist such interests in developing proposals for water resources development projects that satisfy the requirements of such section 7001; and
 
 &emsp;"(4) provide, at the request of a non-Federal interest, assistance with researching and identifying existing project authorizations and Corps of Engineers decision documents."
 

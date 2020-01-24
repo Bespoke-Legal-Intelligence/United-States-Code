@@ -48,7 +48,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (2) In making the grants referred to in paragraph (1)(C) and the grants referred to in paragraph (5), the Secretary shall ensure strict compliance by the States and Indian tribes with the priorities described in section 1233(a) of this title until a certification is made under section 1240a(a) of this title.
 
-(3) Amounts available in the fund which are not allocated to States and Indian tribes under paragraph (1) or allocated under paragraph (5) are authorized to be expended by the Secretary for any of the following:
+(3) Amounts available in the fund which are not allocated to States and Indian tribes under paragraph (1) or allocated under paragraph (5)are authorized to be expended by the Secretary for any of the following:
 
 &emsp;(A) For the purpose of section 1257(c) of this title, either directly or through grants to the States, subject to the limitation contained in section 1231(c)(9) of this title.
 
@@ -152,11 +152,13 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;&emsp;The excess determined under clause (i) shall be calculated by taking into account only—
 
-&emsp;&emsp;&emsp;&emsp;(I) those beneficiaries actually enrolled in the Plan as of May 5, 2017, who are eligible to receive health benefits under the Plan on the first day of the calendar year for which the transfer is made, other than those beneficiaries enrolled in the Plan under the terms of a participation agreement with the current or former employer of such beneficiaries; and
+&emsp;&emsp;&emsp;&emsp;(I) those beneficiaries actually enrolled in the Plan as of December 20, 2019, who are eligible to receive health benefits under the Plan on the first day of the calendar year for which the transfer is made, other than those beneficiaries enrolled in the Plan under the terms of a participation agreement with the current or former employer of such beneficiaries;
 
-&emsp;&emsp;&emsp;&emsp;(II) those beneficiaries whose health benefits, defined as those benefits payable, following death or retirement or upon a finding of disability, directly by an employer in the bituminous coal industry under a coal wage agreement (as defined in section 9701(b)(1) of title 26), would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012 or 2015.
+&emsp;&emsp;&emsp;&emsp;(II) those beneficiaries whose health benefits, defined as those benefits payable, following death or retirement or upon a finding of disability, directly by an employer in the bituminous coal industry under a coal wage agreement (as defined in section 9701(b)(1) of title 26) or a related coal wage agreement, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012, 2015, 2018, or 2019; and
 
-&emsp;&emsp;&nbsp;For purposes of subclause (I), a beneficiary enrolled in the Plan as of May 5, 2017, shall be deemed to have been eligible to receive health benefits under the Plan on January 1, 2017.
+&emsp;&emsp;&emsp;&emsp;(III) the cost of administering the resolution of disputes process administered (as of December 20, 2019) by the Trustees of the Plan.
+
+&emsp;&emsp;&nbsp;For purposes of subclause (I), a beneficiary enrolled in the Plan as of December 20, 2019, shall be deemed to have been eligible to receive health benefits under the Plan on January 1, 2019.
 
 #### (iii) Eligibility of certain retirees
 
@@ -169,6 +171,14 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 #### (v) VEBA transfer
 
 &emsp;&emsp;&emsp;The administrator of such voluntary employees' beneficiary association shall transfer to the Plan any amounts received as a result of such bankruptcy proceeding, reduced by an amount for administrative costs of such association.
+
+#### (vi) Related coal wage agreement
+
+&emsp;&emsp;&emsp;For purposes of clause (ii), the term "related coal wage agreement" means an agreement between the United Mine Workers of America and an employer in the bituminous coal industry that—
+
+&emsp;&emsp;&emsp;&emsp;(I) is a signatory operator; or
+
+&emsp;&emsp;&emsp;&emsp;(II) is or was a debtor in a bankruptcy proceeding that was consolidated, administratively or otherwise, with the bankruptcy proceeding of a signatory operator or a related person to a signatory operator (as those terms are defined in section 9701(c) of title 26).
 
 #### (D) Individuals considered enrolled
 
@@ -186,7 +196,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;&emsp;(i) shall be held in reserve by the Secretary until such time as necessary to make the payments under subparagraphs (A) and (B) of subsection (i)(1), as described in clause (ii); and
 
-&emsp;&emsp;&emsp;(ii) in the event that the amounts described in subsection (i)(1) are insufficient to make the maximum payments described in subparagraphs (A) and (B) of subsection (i)(1), shall be used by the Secretary tosupplement the payments so that the maximum amount permitted under those paragraphs is paid.
+&emsp;&emsp;&emsp;(ii) in the event that the amounts described in subsection (i)(1) are insufficient to make the maximum payments described in subparagraphs (A) and (B) of subsection (i)(1), shall be used by the Secretary to supplement the payments so that the maximum amount permitted under those paragraphs is paid.
 
 #### (B) Previously allocated amounts
 
@@ -264,7 +274,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;Subject to paragraph (3), out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the plans described in subsection (h)(2) such sums as are necessary to pay the following amounts:
 
-&emsp;&emsp;(A) To the Combined Fund (as defined in section 9701(a)(5) of title 26 and referred to in this paragraph as the "Combined Fund"), the amount that the trustees of the Combined Fund estimate will be expended from premium accounts maintained by the Combined Fund for the fiscal year to providebenefits for beneficiaries who are unassigned beneficiaries solely as a result of the application of section 9706(h)(1) of title 26, subject to the following limitations:
+&emsp;&emsp;(A) To the Combined Fund (as defined in section 9701(a)(5) of title 26 and referred to in this paragraph as the "Combined Fund"), the amount that the trustees of the Combined Fund estimate will be expended from premium accounts maintained by the Combined Fund for the fiscal year to provide benefits for beneficiaries who are unassigned beneficiaries solely as a result of the application of section 9706(h)(1) of title 26, subject to the following limitations:
 
 &emsp;&emsp;&emsp;(i) For fiscal year 2008, the amount paid under this subparagraph shall equal—
 
@@ -286,7 +296,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;(B) On certification by the trustees of any plan described in subsection (h)(2) that the amount available for transfer by the Secretary pursuant to this section (determined after application of any limitation under subsection (h)(5)) is less than the amount required to be transferred, to the plan the amount necessary to meet the requirement of subsection (h)(2).
 
-&emsp;&emsp;(C) To the Combined Fund, $9,000,000 on October 1, 2007, $9,000,000 on October 1, 2008, $9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010 (which amounts shall not be exceeded) to provide a refund of any premium (as described in section 9704(a) of title 26) paid on or before September 7, 2000, to the Combined Fund, plus interest on the premium calculated at the rate of 7.5 percent per year, on a proportional basis and to be paid not later than 60 days after the date on which each payment is received by the Combined Fund, to those signatory operators (to the extent that the Combined Fund has not previously returned the premium amounts to the operators), or any related persons to the operators (as defined in section 9701(c) of title 26), or their heirs, successors, or assigns who have been denied the refunds as the result of final judgments or settlements if—
+&emsp;&emsp;(C) To the Combined Fund, $9,000,000 on October 1, 2007, $9,000,000 on October 1, 2008,$9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010 (which amounts shall not be exceeded) to provide a refund of any premium (as described in section 9704(a) of title 26) paid on or before September 7, 2000, to the Combined Fund, plus interest on the premium calculated at the rate of 7.5 percent per year, on a proportional basis and to be paid not later than 60 days after the date on which each payment is received by the Combined Fund, to those signatory operators (to the extent that the Combined Fund has not previously returned the premium amounts to the operators), or any related persons to the operators (as defined in section 9701(c) of title 26), or their heirs, successors, or assigns who have been denied the refunds as the result of final judgments or settlements if—
 
 &emsp;&emsp;&emsp;(i) prior to December 20, 2006, the signatory operator (or any related person to the operator)—
 
@@ -304,7 +314,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 #### (A) Cap
 
-&emsp;&emsp;The total amount transferred under this subsection for any fiscal year shall not exceed $490,000,000.
+&emsp;&emsp;The total amount transferred under this subsection for any fiscal year shall not exceed $750,000,000.
 
 #### (B) Insufficient amounts
 
@@ -316,11 +326,101 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;&emsp;(iii) the percentage transferred is the same for all transfers made under paragraph (1) for the fiscal year.
 
-#### (4) Availability of funds
+#### (4) Additional amounts
+
+#### (A) Calculation
+
+&emsp;&emsp;If the dollar limitation specified in paragraph (3)(A) exceeds the aggregate amount required to be transferred under paragraphs (1) and (2) for a fiscal year, the Secretary of the Treasury shall transfer an additional amount equal to the difference between such dollar limitation and such aggregate amount to the trustees of the 1974 UMWA Pension Plan to pay benefits required under that plan.
+
+#### (B) Cessation of transfers
+
+&emsp;&emsp;The transfers described in subparagraph (A) shall cease as of the first fiscal year beginning after the first plan year for which the funded percentage (as defined in section 432(j)(2) of title 26) of the 1974 UMWA Pension Plan is at least 100 percent.
+
+#### (C) Prohibition on benefit increases, etc.
+
+&emsp;&emsp;During a fiscal year in which the 1974 UMWA Pension Plan is receiving transfers under subparagraph (A), no amendment of such plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan may be adopted unless the amendment is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26 \[26 U.S.C. 401 et seq.\].
+
+#### (D) Critical status to be maintained
+
+&emsp;&emsp;Until such time as the 1974 UMWA Pension Plan ceases to be eligible for the transfers described in subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) the Plan shall be treated as if it were in critical status for purposes of sections 412(b)(3), 432(e)(3), and 4971(g)(1)(A) of title 26 and sections 1082(b)(3) and 1085(e)(3) of title 29;
+
+&emsp;&emsp;&emsp;(ii) the Plan shall maintain and comply with its rehabilitation plan under section 432(e) of such Code and section 1085(e) of title 29, including any updates thereto; and
+
+&emsp;&emsp;&emsp;(iii) the provisions of subsections (c) and (d) of section 432 of such Code and subsections (c) and (d) of section 1085 of title 29 shall not apply.
+
+#### (E) Treatment of transfers for purposes of withdrawal liability under ERISA
+
+&emsp;&emsp;The amount of any transfer made under subparagraph (A) (and any earnings attributable thereto) shall be disregarded in determining the unfunded vested benefits of the 1974 UMWA Pension Plan and the allocation of such unfunded vested benefits to an employer for purposes of determining the employer's withdrawal liability under section 1381 of title 29.
+
+#### (F) Requirement to maintain contribution rate
+
+&emsp;&emsp;A transfer under subparagraph (A) shall not be made for a fiscal year unless the persons that are obligated to contribute to the 1974 UMWA Pension Plan on the date of the transfer are obligated to make the contributions at rates that are no less than those in effect on the date which is 30 days before December 20, 2019.
+
+#### (G) Enhanced annual reporting
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than the 90th day of each plan year beginning after December 20, 2019, the trustees of the 1974 UMWA Pension Plan shall file with the Secretary of the Treasury or the Secretary's delegate and the Pension Benefit Guaranty Corporation a report (including appropriate documentation and actuarial certifications from the plan actuary, as required by the Secretary of the Treasury or the Secretary's delegate) that contains—
+
+&emsp;&emsp;&emsp;&emsp;(I) whether the plan is in endangered or critical status under section 1085 of title 29 and section 432 of title 26 as of the first day of such plan year;
+
+&emsp;&emsp;&emsp;&emsp;(II) the funded percentage (as defined in section 432(j)(2) of title 26) as of the first day of such plan year, and the underlying actuarial value of assets and liabilities taken into account in determining such percentage;
+
+&emsp;&emsp;&emsp;&emsp;(III) the market value of the assets of the plan as of the last day of the plan year preceding such plan year;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the total value of all contributions made during the plan year preceding such plan year;
+
+&emsp;&emsp;&emsp;&emsp;(V) the total value of all benefits paid during the plan year preceding such plan year;
+
+&emsp;&emsp;&emsp;&emsp;(VI) cash flow projections for such plan year and either the 6 or 10 succeeding plan years, at the election of the trustees, and the assumptions relied upon in making such projections;
+
+&emsp;&emsp;&emsp;&emsp;(VII) funding standard account projections for such plan year and the 9 succeeding plan years, and the assumptions relied upon in making such projections;
+
+&emsp;&emsp;&emsp;&emsp;(VIII) the total value of all investment gains or losses during the plan year preceding such plan year;
+
+&emsp;&emsp;&emsp;&emsp;(IX) any significant reduction in the number of active participants during the plan year preceding such plan year, and the reason for such reduction;
+
+&emsp;&emsp;&emsp;&emsp;(X) a list of employers that withdrew from the plan in the plan year preceding such plan year, and the resulting reduction in contributions;
+
+&emsp;&emsp;&emsp;&emsp;(XI) a list of employers that paid withdrawal liability to the plan during the plan year preceding such plan year and, for each employer, a total assessment of the withdrawal liability paid, the annual payment amount, and the number of years remaining in the payment schedule with respect to such withdrawal liability;
+
+&emsp;&emsp;&emsp;&emsp;(XII) any material changes to benefits, accrual rates, or contribution rates during the plan year preceding such plan year;
+
+&emsp;&emsp;&emsp;&emsp;(XIII) any scheduled benefit increase or decrease in the plan year preceding such plan year having a material effect on liabilities of the plan;
+
+&emsp;&emsp;&emsp;&emsp;(XIV) details regarding any funding improvement plan or rehabilitation plan and updates to such plan;
+
+&emsp;&emsp;&emsp;&emsp;(XV) the number of participants and beneficiaries during the plan year preceding such plan year who are active participants, the number of participants and beneficiaries in pay status, and the number of terminated vested participants and beneficiaries;
+
+&emsp;&emsp;&emsp;&emsp;(XVI) the information contained on the most recent annual funding notice submitted by the plan under section 1021(f) of title 29;
+
+&emsp;&emsp;&emsp;&emsp;(XVII) the information contained on the most recent Department of Labor Form 5500 of the plan; and
+
+&emsp;&emsp;&emsp;&emsp;(XVIII) copies of the plan document and amendments, other retirement benefit or ancillary benefit plans relating to the plan and contribution obligations under such plans, a breakdown of administrative expenses of the plan, participant census data and distribution of benefits, the most recent actuarial valuation report as of the plan year, copies of collective bargaining agreements, and financial reports, and such other information as the Secretary of the Treasury or the Secretary's delegate, in consultation with the Secretary of Labor and the Director of the Pension Benefit Guaranty Corporation, may require.
+
+#### (ii) Electronic submission
+
+&emsp;&emsp;&emsp;The report required under clause (i) shall be submitted electronically.
+
+#### (iii) Information sharing
+
+&emsp;&emsp;&emsp;The Secretary of the Treasury or the Secretary's delegate shall share the information in the report under clause (i) with the Secretary of Labor.
+
+#### (iv) Penalty
+
+&emsp;&emsp;&emsp;Any failure to file the report required under clause (i) on or before the date described in such clause shall be treated as a failure to file a report required to be filed under section 6058(a) of title 26, except that section 6652(e) of title 26 shall be applied with respect to any such failure by substituting "$100" for "$25". The preceding sentence shall not apply if the Secretary of the Treasury or the Secretary's delegate determines that reasonable diligence has been exercised by the trustees of such plan in attempting to timely file such report.
+
+#### (H) 1974 UMWA Pension Plan defined
+
+&emsp;&emsp;For purposes of this paragraph, the term "1974 UMWA Pension Plan" has the meaning given the term in section 9701(a)(3) of title 26, but without regard to the limitation on participation to individuals who retired in 1976 and thereafter.
+
+#### (5) Availability of funds
 
 &emsp;Funds shall be transferred under paragraphs (1) and (2) beginning in fiscal year 2008 and each fiscal year thereafter, and shall remain available until expended.
 
-(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, §6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I, §129, Aug. 2, 2005, 119 Stat. 525; Pub. L. 109–234, title VII, §7007, June 15, 2006, 120 Stat. 483; Pub. L. 109–432, div. C, title II, §202, Dec. 20, 2006, 120 Stat. 3008; Pub. L. 110–343, div. C, title VI, §602, Oct. 3, 2008, 122 Stat. 3911; Pub. L. 114–223, div. C, §167(b), (c), as added Pub. L. 114–254, div. A, §101(3), Dec. 10, 2016, 130 Stat. 1009, 1010; Pub. L. 114–223, div. C, §202(b), as added Pub. L. 115–30, par. (2), Apr. 28, 2017, 131 Stat. 134; Pub. L. 115–31, div. M, title I, §104(a), May 5, 2017, 131 Stat. 803.)
+(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, §6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I, §129, Aug. 2, 2005, 119 Stat. 525; Pub. L. 109–234, title VII, §7007, June 15, 2006, 120 Stat. 483; Pub. L. 109–432, div. C, title II, §202, Dec. 20, 2006, 120 Stat. 3008; Pub. L. 110–343, div. C, title VI, §602, Oct. 3, 2008, 122 Stat. 3911; Pub. L. 114–223, div. C, §167(b), (c), as added Pub. L. 114–254, div. A, §101(3), Dec. 10, 2016, 130 Stat. 1009, 1010; Pub. L. 114–223, div. C, §202(b), as added Pub. L. 115–30, par. (2), Apr. 28, 2017, 131 Stat. 134; Pub. L. 115–31, div. M, title I, §104(a), May 5, 2017, 131 Stat. 803; Pub. L. 116–94, div. M, §§102(a), 103, Dec. 20, 2019, 133 Stat. 3091, 3094.)
 
 #### Codification
 
@@ -328,9 +428,23 @@ November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original "the
 
 #### Amendments
 
+<b>2019</b>—Subsec. (h)(2)(C)(ii). Pub. L. 116–94, §103(4), substituted "January 1, 2019" for "January 1, 2017" in concluding provisions.
+
+Pub. L. 116–94, §103(1), substituted "December 20, 2019" for "May 5, 2017" in subcl. (I) and in concluding provisions.
+
+Subsec. (h)(2)(C)(ii)(II). Pub. L. 116–94, §103(2), substituted "or a related coal wage agreement, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012, 2015, 2018, or 2019" for ", would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012 or 2015".
+
+Subsec. (h)(2)(C)(ii)(III). Pub. L. 116–94, §103(3), added subcl. (III).
+
+Subsec. (h)(2)(C)(vi). Pub. L. 116–94, §103(5), added cl. (vi).
+
+Subsec. (i)(3)(A). Pub. L. 116–94, §102(a)(1), substituted "$750,000,000" for "$490,000,000".
+
+Subsec. (i)(4), (5). Pub. L. 116–94, §102(a)(2), (3), added par. (4) and redesignated former par. (4) as (5).
+
 <b>2017</b>—Subsec. (h)(2)(C)(ii). Pub. L. 115–31 added cl. (ii) and struck out former cl. (ii) which related to calculation of excess.
 
-Pub. L. 114–223, div. C, §202(b)(3), as added by Pub. L. 115–30, par. (2), inserted at end of concluding provisions "For purposes of subclause (II)(aa), a beneficiary enrolled in the Plan as of April 28, 2017, shall be deemedto have been eligible to receive health benefits under the Plan on January 1, 2017."
+Pub. L. 114–223, div. C, §202(b)(3), as added by Pub. L. 115–30, par. (2), inserted at end of concluding provisions "For purposes of subclause (II)(aa), a beneficiary enrolled in the Plan as of April 28, 2017, shall be deemed to have been eligible to receive health benefits under the Plan on January 1, 2017."
 
 Subsec. (h)(2)(C)(ii)(II). Pub. L. 114–223, div. C, §202(b)(1), as added by Pub. L. 115–30, par. (2), substituted "May 5, 2017" for "April 30, 2017" in introductory provisions.
 
@@ -370,7 +484,7 @@ Subsec. (g)(3)(A). Pub. L. 109–432, §202(c)(3)(B), substituted "1231(c)(9)" f
 
 Subsec. (g)(3)(E). Pub. L. 109–432, §202(c)(3)(C), added subpar. (E).
 
-Subsec. (g)(5). Pub. L. 109–432, §202(c)(4), designated existing provisions as subpar. (A), in first sentence, substituted "60" for "40", in last sentence, subtituted "Funds made available under paragraph (3) or (4)" for "Funds allocated or expended by the Secretary under paragraphs (2), (3), or (4)", and added subpar. (B).
+Subsec. (g)(5). Pub. L. 109–432, §202(c)(4), designated existing provisions as subpar. (A), in first sentence, substituted "60" for "40", in last sentence, substituted "Funds made available under paragraph (3) or (4)" for "Funds allocated or expended by the Secretary under paragraphs (2), (3), or (4)", and added subpar. (B).
 
 Subsec. (g)(6) to (8). Pub. L. 109–432, §202(c)(5), added pars. (6) to (8) and struck out former pars. (6) to (8) which related to authority of any State to receive and retain up to 10 percent of the total of grants, State authority to establish an acid mine drainage abatement and treatment fund and to implement plans for acid mine drainage abatement and treatment, and allocation of not less than $2,000,000 annually for expenditure in each State and for each Indian tribe, having an approved reclamation program and eligible lands and waters.
 
@@ -398,9 +512,21 @@ Subsec. (d). Pub. L. 101–508, §6003(c), designated existing provisions as par
 
 Subsec. (f). Pub. L. 101–508, §6003(d), inserted at end "Whenever the Secretary believes that any person has not paid the full amount of the fee payable under subsection (a) of this section the Secretary shall notify the Federal agency responsible for ensuring compliance with the provisions of section 4121 of title 26."
 
-Subsec. (g). Pub. L. 101–508, §6004, amended subsec. (g) generally, substituting present provisions for provisions relating to geographic allocation of expenditures from the fund, providing for allocation of 50 percent of funds collected annually in any State or Indian reservation to that State or Indian reservation pursuant to approved reclamation program, providing for special State set-aside for future expenditure, and authorizingexpenditure of balance of funds collected at discretion of Secretary in order to meet the purposes of this subchapter.
+Subsec. (g). Pub. L. 101–508, §6004, amended subsec. (g) generally, substituting present provisions for provisions relating to geographic allocation of expenditures from the fund, providing for allocation of 50 percent of funds collected annually in any State or Indian reservation to that State or Indian reservation pursuant to approved reclamation program, providing for special State set-aside for future expenditure, and authorizing expenditure of balance of funds collected at discretion of Secretary in order to meet the purposes of this subchapter.
 
 <b>1987</b>—Subsec. (g)(3), (4). Pub. L. 100–34 added par. (3) and redesignated former par. (3) as (4).
+
+#### Effective Dates of 2019 Amendment
+
+Pub. L. 116–94, div. M, §102(b), Dec. 20, 2019, 133 Stat. 3094, provided that:
+
+"(1)
+
+In general.—The amendments made by this section \[amending this section\] shall apply to fiscal years beginning after September 30, 2016.
+
+"(2)
+
+Reporting requirements.—Section 402(i)(4)(G) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(i)(4)(G)), as added by this section, shall apply to plan years beginning after the date of the enactment of this Act \[Dec. 20, 2019\]."
 
 #### Effective Date of 2017 Amendment
 

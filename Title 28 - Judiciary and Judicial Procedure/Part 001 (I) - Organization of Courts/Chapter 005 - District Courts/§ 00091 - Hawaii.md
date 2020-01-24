@@ -36,7 +36,7 @@ Pub. L. 86–3, §14, Mar. 18, 1959, 73 Stat. 10, provided that the amendments o
 
 #### Canton and Enderbury Islands; Sovereignty of Kiribati
 
-By a treaty of friendship, TIAS 10777, which entered into force Sept. 23, 1983, the United States recognized the sovereignty of Kiribati over Canton Island and Enderbury Island.
+By a treaty of friendship, TIAS 10777, which entered into force Sept. 23, 1983, the United States recognizedthe sovereignty of Kiribati over Canton Island and Enderbury Island.
 
 #### Admission of Hawaii as State
 
@@ -44,7 +44,7 @@ Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance o
 
 #### Court of the United States; District Judges
 
-Pub. L. 86–3, §9(a), Mar. 18, 1959, 73 Stat. 8, provided that: "The United States District Court for the District of Hawaii established by and existing under title 28 of the United States Code shall thence forth be a court of the United States with judicial power derived from article III, section 1, of the Constitution of the United States: <i>Provided, however</i>, That the terms of office ofthe district judges for the district of Hawaii then in office shall terminate upon the effective date of this section and the President, pursuant to sections 133 and 134 of title 28, United States Code, as amended by this Act, shall appoint, by and with the advice and consent of the Senate, two district judges for the said district who shall hold office during good behavior."
+Pub. L. 86–3, §9(a), Mar. 18, 1959, 73 Stat. 8, provided that: "The United States District Court for the District of Hawaii established by and existing under title 28 of the United States Code shall thence forth be a court of the United States with judicial power derived from article III, section 1, of the Constitution of the United States: <i>Provided, however</i>, That the terms of office of the district judges for the district of Hawaii then in office shall terminate upon the effective date of this section and the President, pursuant to sections 133 and 134 of title 28, United States Code, as amended by this Act, shall appoint, by and with the advice and consent of the Senate, two district judges for the said district who shall hold office during good behavior."
 
 Section 9 of Pub. L. 86–3 provided in part that subsec. (a) of that section should be effective upon the admission of the State of Hawaii into the Union.
 

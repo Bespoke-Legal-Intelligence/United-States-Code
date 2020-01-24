@@ -68,7 +68,7 @@ A certifying agent that is a private person shall nominate the individual who co
 
 #### (3) Effect on certified operations
 
-&emsp;If the accreditation of a certifying agent is suspended under paragraph (1), the Secretary or the governing State official (if applicable) shall promptly determine whether farming or handling operations certified by such certifying agent may retain their organic certification.
+&emsp;If the accreditation of a certifying agent is suspended under paragraph (1), the Secretaryor the governing State official (if applicable) shall promptly determine whether farming or handling operations certified by such certifying agent may retain their organic certification.
 
 #### (j) Notice
 

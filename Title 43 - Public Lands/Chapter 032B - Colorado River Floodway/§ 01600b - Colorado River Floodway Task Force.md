@@ -46,7 +46,7 @@ The task force shall be chartered and operate under the provisions of the Federa
 
 #### (c) Termination of task force; report to Secretary and Congressional Committees
 
-The task force shall exist for at least one year after October 8, 1986, or until such time as the Secretary has filed with the Committees the maps described in section 1600c(b)(2) <sup>1</sup> of thistitle. The task force shall file its report with the Secretary and the Committees within nine months after October 8, 1986.
+The task force shall exist for at least one year after October 8, 1986, or until such time as the Secretary has filed with the Committees the maps described in section 1600c(b)(2) <sup>1</sup> of this title. The task force shall file its report with the Secretary and the Committees within nine months after October 8, 1986.
 
 (Pub. L. 99–450, §4, Oct. 8, 1986, 100 Stat. 1130.)
 
@@ -54,7 +54,7 @@ The task force shall exist for at least one year after October 8, 1986, or until
 
 The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Section 1600c(b)(2) of this title, referred to in subsec. (c), was struck out and former subsec. (b)(1)(ii) of section 1600c redesignated subsec. (b)(2) of section 1600c by Pub. L. 105–362, title IX, §901(d)(1), Nov. 10, 1998, 112 Stat. 3289. As so amended, section 1600c(b)(2) no longer relates to maps required to be prepared and filed by the Secretary.
+Section 1600c(b)(2) of this title, referred to in subsec. (c), was struck out and former subsec. (b)(1)(ii) of section 1600c redesignated subsec. (b)(2) of section 1600c by Pub. L. 105–362, title IX, §901(d)(1), Nov. 10, 1998, 112Stat. 3289. As so amended, section 1600c(b)(2) no longer relates to maps required to be prepared and filed by the Secretary.
 
 #### Transfer of Functions
 

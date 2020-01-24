@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(iii) has no authority over any other activity of the organization.
 
-(2)(A) Not later than 90 days after November 16, 1990, the Secretary shall publish in the Federal Register a notice of proposed rulemaking to establish criteria for determining whether an entity meets the requirement established in paragraph (1)(E).<sup>1</sup>
+(2)(A) Not later than 90 days after November 16, 1990, the Secretary shall publish in the Federal Register a notice of proposed rulemaking to establish criteria for determining whether anentity meets the requirement established in paragraph (1)(E).<sup>1</sup>
 
 (B) Not later than 1 year after November 16, 1990, the Secretary shall publish in the Federal Register a final rule to establish the criteria described in subparagraph (A).
 
@@ -200,7 +200,7 @@ Pub. L. 106–310, div. A, title XXI, §2101(b), Oct. 17, 2000, 114 Stat. 1156, 
 
 "(1)
 
-In general.—The Secretary of Health and Human Services (referred to in this subsection as the 'Secretary') shall provide for a study to determine the costs of immunosuppressive drugs that are provided to children pursuant to organ transplants and to determine the extent to which health plans and health insurance cover such costs. The Secretary may carry out the study directly or through a grant to the Institute of Medicine (or other public or nonprofit private entity).
+In general.—The Secretary of Health and Human Services (referred to in this subsection as the 'Secretary') shall provide for a study to determine the costs of immunosuppressive drugs that are provided tochildren pursuant to organ transplants and to determine the extent to which health plans and health insurance cover such costs. The Secretary may carry out the study directly or through a grant to the Institute of Medicine (or other public or nonprofit private entity).
 
 "(2)
 
@@ -228,7 +228,7 @@ Pub. L. 98–507, title I, §§101–105, Oct. 19, 1984, 98 Stat. 2339–2342, d
 
 #### Bone Marrow Registry Demonstration and Study
 
-Pub. L. 98–507, title IV, §401, Oct. 19, 1984, 98 Stat. 3268, directed Secretary of Health and Human Services to hold a conference on the feasibility of establishing and the effectiveness of a national registry of voluntary bone marrow donors not later than 9 months after Oct. 19, 1984, and if the conference found that it was feasible to establish a national registry of voluntary donors of bone marrow and that such a registry was likely to be effective in matching donors with recipients, the Secretary was to establish a registry of voluntary donors of bone marrow not later than six months after the completion of the conference, and further directed the Secretary, acting through the Assistant Secretary for Health, to study the establishment and implementation of the registry to identify the issues presented by the establishment of such a registry, to evaluate participation of bone marrow donors, to assess the implementation of the informed consent and confidentiality requirements, and to determine if the establishment of a permanent bone marrow registry was needed and appropriate, and to report the results ofthe study to Congress not later than two years after the date the registry was established.
+Pub. L. 98–507, title IV, §401, Oct. 19, 1984, 98 Stat. 3268, directed Secretary of Health and Human Services to hold a conference on the feasibility of establishing and the effectiveness of a national registry of voluntary bone marrow donors not later than 9 months after Oct. 19, 1984, and if the conference found that it was feasible to establish a national registry of voluntary donors of bone marrow and that such a registry was likely to be effective in matching donors with recipients, the Secretary was to establish a registry of voluntary donors of bone marrow not later than six months after the completion of the conference, and further directed the Secretary, acting through the Assistant Secretary for Health, to study the establishment and implementation of the registry to identify the issues presented by the establishment of such a registry, to evaluate participation of bone marrow donors, to assess the implementation of the informed consent and confidentiality requirements, and to determine if the establishment of a permanent bone marrow registry was needed and appropriate, and to report the results of the study to Congress not later than two years after the date the registry was established.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

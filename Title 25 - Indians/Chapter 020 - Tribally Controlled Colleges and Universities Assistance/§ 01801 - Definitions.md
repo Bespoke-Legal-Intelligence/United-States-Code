@@ -80,7 +80,7 @@ Subsec. (a)(1). Pub. L. 98–192, §1(2), struck out "and is eligible to receive
 
 Subsec. (a)(5). Pub. L. 98–192, §1(3), inserted "and the reference to Secretary in clause (5)(A) of such section shall be deemed to refer to the Secretary of the Interior".
 
-Subsec. (a)(7). Pub. L. 98–192, §1(4), substituted provision defining "Indian student count" to mean a number equal to the total number of Indian students enrolledin each tribally controlled community college, determined as consistent with subsec. (b) of this section on the basis of the quotient of the sum of the credit hours of all Indians so enrolled, divided by twelve for provision defining "full-time equivalent Indian student" to mean the number of Indians enrolled full-time and the full-time equivalent of the number of Indians enrolled part-time, determined on the basis of the quotient of the sum of the credit hours of all part-time students divided by twelve, calculated on the basis of registrations as in effect at the conclusion of the sixth week of an academic term.
+Subsec. (a)(7). Pub. L. 98–192, §1(4), substituted provision defining "Indian student count" to mean a number equal to the total number of Indian students enrolled in each tribally controlled community college, determined as consistent with subsec. (b) of this section on the basis of the quotient of the sum of the credit hours of all Indians so enrolled, divided by twelve for provision defining "full-time equivalent Indian student" to mean the number of Indians enrolled full-time and the full-time equivalent of the number of Indians enrolled part-time, determined on the basis of the quotient of the sum of the credit hours of all part-time students divided by twelve, calculated on the basis of registrations as in effect at the conclusion of the sixth week of an academic term.
 
 Subsec. (b). Pub. L. 98–192, §1(4), added subsec. (b).
 
@@ -112,7 +112,7 @@ Submission to congress.—Not later than 6 months after the effective date of th
 
 #### References to Tribally Controlled Community College Assistance Act of 1978
 
-Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828, provided that: "Any reference to a section or other provision of the Tribally Controlled Community College Assistance Act of 1978 shall be deemed to be a reference to the Tribally Controlled College or University Assistance Act of 1978 \[now Tribally Controlled Colleges and Universities Assistance Act of 1978\]."
+Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828, provided that: "Any reference to a section orother provision of the Tribally Controlled Community College Assistance Act of 1978 shall be deemed to be a reference to the Tribally Controlled College or University Assistance Act of 1978 \[now Tribally Controlled Colleges and Universities Assistance Act of 1978\]."
 
 #### Executive Order No. 13021
 

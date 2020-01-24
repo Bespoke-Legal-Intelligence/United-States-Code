@@ -4,7 +4,7 @@
 
 (b)(1) For purposes of this section, the term "authorized representative" means the authorized representative designated pursuant to subsection (c) for persons receiving any retiree benefits covered by a collective bargaining agreement or subsection (d) in the case of persons receiving retiree benefits not covered by such an agreement.
 
-(2) Committees of retired employees appointed by the court pursuant to this section shall have the same rights, powers, and duties as committees appointed under sections 1102 and 1103 of this title for the purpose of carrying out the purposes of sections 1114 and 1129(a)(13) and, as permitted by the court, shall have the power to enforce the rights of persons under this title as they relate to retiree benefits.
+(2) Committees of retired employees appointed by the court pursuant to this section shall have the same rights, powers, and duties as committees appointed under sections 1102 and 1103 of this title for the purpose of carrying out the purposes of sections 1114 and 1129(a)(13) and, as permitted by the court, shall have the power toenforce the rights of persons under this title as they relate to retiree benefits.
 
 (c)(1) A labor organization shall be, for purposes of this section, the authorized representative of those persons receiving any retiree benefits covered by any collective bargaining agreement to which that labor organization is signatory, unless (A) such labor organization elects not to serve as the authorized representative of such persons, or (B) the court, upon a motion by any party in interest, after notice and hearing, determines that different representation of such persons is appropriate.
 
@@ -46,7 +46,7 @@
 
 (3) The implementation of such interim changes does not render the motion for modification moot.
 
-(i) No retiree benefits paid between the filing of the petition and the time a plan confirmed under section 1129 of this title becomes effective shall be deducted or offset from the amounts allowed as claims for any benefits which remain unpaid, or from the amounts to be paid under the plan with respect to such claims for unpaid benefits, whether such claims for unpaid benefits are based upon or arise from a right to future unpaid benefits or from any benefits not paid as a result of modifications allowed pursuant to this section.
+(i) No retiree benefits paid between the filing of the petition and the time a plan confirmed under section 1129 of this title becomes effective shall be deducted or offset from the amounts allowed as claims for any benefits which remain unpaid, or from the amounts to be paid underthe plan with respect to such claims for unpaid benefits, whether such claims for unpaid benefits are based upon or arise from a right to future unpaid benefits or from any benefits not paid as a result of modifications allowed pursuant to this section.
 
 (j) No claim for retiree benefits shall be limited by section 502(b)(7) of this title.
 

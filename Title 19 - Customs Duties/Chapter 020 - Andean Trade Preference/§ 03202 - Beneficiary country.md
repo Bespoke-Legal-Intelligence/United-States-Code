@@ -52,7 +52,7 @@ The President shall not designate any country a beneficiary country under this c
 
 > &emsp;&emsp;promptly furnishes a copy of such determination to the Senate and House of Representatives;
 
-&emsp;(3) if such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizensor a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute;
+&emsp;(3) if such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute;
 
 &emsp;(4) if such country affords preferential treatment to the products of a developed country, other than the United States, and if such preferential treatment has, or is likely to have, a significant adverse effect on United States commerce, unless the President—
 
@@ -140,7 +140,7 @@ In determining whether to designate any country a beneficiary country under this
 
 #### (2) Public comment
 
-&emsp;Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 3203(b)(6)(B) of this title.
+&emsp;Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments onwhether beneficiary countries are meeting the criteria listed in section 3203(b)(6)(B) of this title.
 
 (Pub. L. 102–182, title II, §203, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 103–465, title VI, §621(a)(3), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(2), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(c)(2), May 18, 2000, 114 Stat. 287; Pub. L. 107–210, div. C, title XXXI, §3103(b), (e), Aug. 6, 2002, 116 Stat. 1033; Pub. L. 111–124, §2(c), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(d), Dec. 29, 2010, 124 Stat. 3616.)
 

@@ -40,11 +40,11 @@ When used in subchapter II:
 
 #### (A) Divorces on or before December 4, 1991
 
-&emsp;&emsp;In the case of a divorce that became final on or before December 4, 1991, such term means a former wife or husband of a participant, former participant, or retired participant who was married to such participant for not less than 10 years during periods of the participant's creditable service, at least 5 years of which were spent outside the United States by both such participant and former wife or husband during the participant's service as an employee of the Agency.
+&emsp;&emsp;In the case of a divorce that became final on or before December 4, 1991, such term means a former wife or husband of a participant, former participant, or retired participant who was married to such participant for not less than 10 years during periods of the participant's creditable service, at least5 years of which were spent outside the United States by both such participant and former wife or husband during the participant's service as an employee of the Agency.
 
 #### (B) Divorces after December 4, 1991
 
-&emsp;&emsp;In the case of a divorce that becomes final after December 4, 1991, such term means a former wife or husband of a participant, former participant, or retired participant who was married to such participant for not less than 10 years during periods of the participant's creditable service, at least 5 years of which were spent by the participant during the participant's service as an employee of the Agency (i) outside the United States,or (ii) otherwise in a position the duties of which qualified the participant for designation by the Director as a participant under section 2013 of this title.
+&emsp;&emsp;In the case of a divorce that becomes final after December 4, 1991, such term means a former wife or husband of a participant, former participant, or retired participant who was married to such participant for not less than 10 years during periods of the participant's creditable service, at least 5 years of which were spent by the participant during the participant's service as an employee of the Agency (i) outside the United States, or (ii) otherwise in a position the duties of which qualified the participant for designation by the Director as a participant under section 2013 of this title.
 
 #### (C) Creditable service
 

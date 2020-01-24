@@ -60,7 +60,7 @@ The Associate Administrator—
 
 &emsp;&emsp;&emsp;(iv) reducing paperwork and administrative burdens on veterans in accessing business development and entrepreneurship opportunities;
 
-&emsp;&emsp;&emsp;(v) increasing and improving training and counseling services provided to smallbusiness concerns owned and controlled by veterans; and
+&emsp;&emsp;&emsp;(v) increasing and improving training and counseling services provided to small business concerns owned and controlled by veterans; and
 
 &emsp;&emsp;&emsp;(vi) making other improvements relating to the support for veterans business development by the Federal Government.
 
@@ -326,7 +326,7 @@ Pub. L. 106–50, title III, §301, Aug. 17, 1999, 113 Stat. 242, provided that:
 
 "(a)
 
-In General.—The Administrator of the Small Business Administration shall enter into a memorandum of understanding with the Service Core \[probablyshould be "Corps"\] of Retired Executives (described in section 8(b)(1)(B) of the Small Business Act (15 U.S.C. 637(b)(1)(B)) and in this section referred to as 'SCORE') to provide for the following:
+In General.—The Administrator of the Small Business Administration shall enter into a memorandum of understanding with the Service Core \[probably should be "Corps"\] of Retired Executives (described in section 8(b)(1)(B) of the Small Business Act (15 U.S.C. 637(b)(1)(B)) and in this section referred to as 'SCORE') to provide for the following:
 
 &emsp;"(1) The appointment by SCORE in its national office of an individual to act as National Veterans Business Coordinator, whose duties shall relate exclusively to veterans business matters, and who shall be responsible for the establishment and administration of a program to coordinate counseling and training regarding entrepreneurship to veterans through the chapters of SCORE throughout the United States.
 
@@ -456,9 +456,11 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Interagency Task Force on Veterans Small Business Development
 
-Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Interagency Task Force on Veterans Small Business Development were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 

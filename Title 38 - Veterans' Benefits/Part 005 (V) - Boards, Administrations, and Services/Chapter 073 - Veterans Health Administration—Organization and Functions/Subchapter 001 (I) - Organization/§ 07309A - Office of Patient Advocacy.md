@@ -70,7 +70,7 @@ The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred t
 
 #### Date Fully Operational
 
-Pub. L. 114–198, title IX, §924(c), July 22, 2016, 130 Stat. 769, provided that: "The Secretary of Veterans Affairs shall ensure that the Office of Patient Advocacyestablished under section 7309A of title 38, United States Code, as added by subsection (a), is fully operational not later than the date that is one year after the date of the enactment of this Act \[July 22, 2016\]."
+Pub. L. 114–198, title IX, §924(c), July 22, 2016, 130 Stat. 769, provided that: "The Secretary of Veterans Affairs shall ensure that the Office of Patient Advocacy established under section 7309A of title 38, United States Code, as added by subsection (a), is fully operational not later than the date that is one year after the date of the enactment of this Act \[July 22, 2016\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -44,6 +44,28 @@ The Council shall consult with and assist the Federal entities for lending regul
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
+#### Strengthening the Role of Anti-Money Laundering and Other Financial Tools in Combating Human Trafficking
+
+Pub. L. 116–92, div. F, title LXXI, §7154(c), (d), Dec. 20, 2019, 133 Stat. 2260, 2261, provided that:
+
+"(c)
+
+Required Review of Procedures.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Federal Financial Institutions Examination Council, in consultation with the Secretary of the Treasury, victims of severe forms of trafficking in persons, advocates of persons at risk of becoming victims of severe forms of trafficking in persons, the United States Advisory Council on Trafficking, civil society organizations, the private sector, and appropriate law enforcement agencies, shall—
+
+&emsp;"(1) review and enhance training and examination procedures to improve the surveillance capabilities of anti-money laundering programs and programs countering the financing of terrorism to detect human trafficking-related financial transactions;
+
+&emsp;"(2) review and enhance procedures for referring potential human trafficking cases to the appropriate law enforcement agency; and
+
+&emsp;"(3) determine, as appropriate, whether requirements for financial institutions and covered financial institutions are sufficient to detect and deter money laundering related to human trafficking.
+
+"(d)
+
+Limitations.—Nothing in this section \[amending section 7103 of Title 22, Foreign Relations and Intercourse, and enacting this note and provisions not set out in the Code\] shall be construed to—
+
+&emsp;"(1) grant rulemaking authority to the Interagency Task Force to Monitor and Combat Trafficking; or
+
+&emsp;"(2) authorize financial institutions to deny services to or violate the privacy of victims of trafficking, victims of severe forms of trafficking, or individuals not responsible for promoting severe forms of trafficking in persons."
+
 #### Report on Consistent Use of Financial Terminology
 
 Pub. L. 103–325, title II, §210, Sept. 23, 1994, 108 Stat. 2203, provided that: "Not later than 2 years after the date of enactment of this Act \[Sept. 23, 1994\], the Financial Institutions Examination Council shall report to the Congress on its recommendations for the use of consistent financial terminology by depository institutions for small business loans or leases of personal property which are sold for the creation of small business related securities (as defined in section 3(a)(53)(A) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(53)(A)\])."
@@ -66,37 +88,11 @@ Requirements.—An examination improvement program meets the requirements of thi
 
 #### Study on Regulatory Burden
 
-Pub. L. 102–242, title II, §221, Dec. 19, 1991, 105 Stat. 2305, provided that:
-
-"(a)
-
-In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 19, 1991\], the Federal Financial Institutions Examination Council, in consultation with individuals representing insured depository institutions, consumers, community groups, and other interested parties, shall—
-
-&emsp;"(1) review the policies and procedures, and recordkeeping and documentation requirements used to monitor and enforce compliance with—
-
-&emsp;&emsp;"(A) all laws under the jurisdiction of the Federal banking agencies; and
-
-&emsp;&emsp;"(B) all laws affecting insured depository institutions under the jurisdiction of the Secretary of the Treasury;
-
-&emsp;"(2) determine whether such policies, procedures, and requirements impose unnecessary burdens on insured depository institutions; and
-
-&emsp;"(3) identify any revisions of such policies, procedures, and requirements that could reduce unnecessary burdens on insured depository institutions without in any respect—
-
-&emsp;&emsp;"(A) diminishing either compliance with or enforcement of consumer laws in any respect; or
-
-&emsp;&emsp;"(B) endangering the safety and soundness of insured depository institutions.
-
-"(b)
-
-Report.—Not later than 1 year after the date of enactment of this Act \[Dec. 19, 1991\], the Federal Financial Institutions Examination Council shall submit to the Congress a report describing the revisions identified under subsection (a)(3).
-
-"(c)
-
-Definitions.—For purposes of this section, the terms 'insured depository institution' and 'Federal banking agency' have the same meanings as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]."
+Pub. L. 102–242, title II, §221, Dec. 19, 1991, 105 Stat. 2305, required the Federal Financial Institutions Examination Council, by 1 year after Dec. 19, 1991, and in consultation with individuals representing insured depository institutions, consumers, community groups, and other interested parties, to undertake a comprehensive study of the regulatory burden on insured depository institutions of compliance with Federal banking agencies and their regulations and policies, and report to Congress on any revisions of such policies, procedures, and requirements that could reduce unnecessary burdens on insured depository institutions.
 
 #### Study and Report Assessing Feasibility and Usefulness of Depository Institutions Making Small Business Loans To Compile and Disclose Loan Information
 
-Pub. L. 96–399, title III, §340(d), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council, in consultation with Administrator of Small Business Administration, to conduct a study to assess feasibility and usefulness of requiring depository institutions which make small business loans to compile and publicly disclose information regarding such loans, and directed Council to submit a report on results of such study, together with recommendations, to Senate Committee on Banking, Housing, and Urban Affairs and House Committee on Banking, Finance and Urban Affairs not later than Mar. 1, 1981.
+Pub. L. 96–399, title III, §340(d), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council, in consultation with Administrator ofSmall Business Administration, to conduct a study to assess feasibility and usefulness of requiring depository institutions which make small business loans to compile and publicly disclose information regarding such loans, and directed Council to submit a report on results of such study, together with recommendations, to Senate Committee on Banking, Housing, and Urban Affairs and House Committee on Banking, Finance and Urban Affairs not later than Mar. 1, 1981.
 
 #### Evaluation and Report on Feasibility and Desirability of Establishing a Unified System for Enforcing Fair Lending Laws and Regulations
 

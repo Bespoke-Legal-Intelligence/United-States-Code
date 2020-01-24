@@ -4,7 +4,7 @@
 
 &emsp;(1) determination by the State agency that such needy individual has, by reason of his physical or mental condition, such inability to manage funds that making payments to him would be contrary to his welfare and, therefore, it is necessary to provide such assistance through payments described in this sentence;
 
-&emsp;(2) making such payments only in cases in which such payments will, under the rules otherwise applicable under the State plan fordetermining need and the amount of old-age assistance to be paid (and in conjunction with other income and resources), meet all the need of the individuals with respect to whom such payments are made;
+&emsp;(2) making such payments only in cases in which such payments will, under the rules otherwise applicable under the State plan for determining need and the amount of old-age assistance to be paid (and in conjunction with other income and resources), meet all the need of the individuals with respect to whom such payments are made;
 
 &emsp;(3) undertaking and continuing special efforts to protect the welfare of such individual and to improve, to the extent possible, his capacity for self-care and to manage funds;
 
@@ -52,7 +52,7 @@ Amendment by section 221 of Pub. L. 89–97 applicable in the case of expenditur
 
 Pub. L. 89–97, title II, §222(c), July 30, 1965, 79 Stat. 360, provided that: "The amendments made by this section \[amending this section and section 1385 of this title\] shall apply in the case of expenditures under a State plan approved under title I or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 1381 et seq.\] with respect to care and services provided under such plan after June 1965."
 
-Pub. L. 89–97, title IV, §402(e), July 30, 1965, 79 Stat. 418, provided that: "The amendments made by this section \[amending this section and sections 1206, 1355, and1385 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, X, XIV or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\]."
+Pub. L. 89–97, title IV, §402(e), July 30, 1965, 79 Stat. 418, provided that: "The amendments made by this section \[amending this section and sections 1206, 1355, and 1385 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, X, XIV or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\]."
 
 #### Effective Date of 1962 Amendment
 

@@ -1,6 +1,6 @@
 ### §31161. International cooperation
 
-The Secretary of Transportation is authorized to use funds made available by section 31110 toparticipate and cooperate in international activities to enhance motor carrier, commercial motor vehicle, driver, and highway safety by such means as exchanging information, conducting research, and examining needs, best practices, and new technology.
+The Secretary of Transportation is authorized to use funds made available by section 31110 to participate and cooperate in international activities to enhance motor carrier, commercial motor vehicle, driver, and highway safety by such means as exchanging information, conducting research, and examining needs, best practices, and new technology.
 
 (Added Pub. L. 109–59, title IV, §4119(a), Aug. 10, 2005, 119 Stat. 1733; amended Pub. L. 114–94, div. A, title V, §5103(c)(3), Dec. 4, 2015, 129 Stat. 1527.)
 

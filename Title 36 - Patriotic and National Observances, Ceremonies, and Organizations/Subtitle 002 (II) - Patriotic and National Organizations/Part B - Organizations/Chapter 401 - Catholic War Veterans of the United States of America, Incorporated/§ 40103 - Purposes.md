@@ -4,7 +4,7 @@ The purposes of the corporation are as provided in the articles of incorporation
 
 &emsp;(1) preserve, protect, and defend the Constitution of the United States and the laws of the States;
 
-&emsp;(2) commemorate the wars, campaigns, and military actions of the United States to reflect profound respect, high honor, and great tribute on the glorious dead and the surviving veterans of those wars, campaigns, and actions and to give all Americans a greater understanding of and appreciation for the sacrifices of those who participated in them for all Americans;
+&emsp;(2) commemorate the wars, campaigns, and military actions of the United States to reflect profound respect, high honor, and great tribute on the glorious dead and the survivingveterans of those wars, campaigns, and actions and to give all Americans a greater understanding of and appreciation for the sacrifices of those who participated in them for all Americans;
 
 &emsp;(3) stimulate to the highest degree possible the interests of the entire Nation in the problems of veterans, their widows, and orphans;
 

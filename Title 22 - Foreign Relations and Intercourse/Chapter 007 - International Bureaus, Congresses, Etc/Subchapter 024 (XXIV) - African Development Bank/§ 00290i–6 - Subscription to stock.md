@@ -6,7 +6,7 @@ The President is authorized to agree to subscribe on behalf of the United States
 
 #### (b) Authorization of appropriations
 
-There is authorized to be appropriated, without fiscal year limitation, for payment by theSecretary of the Treasury of the initial United States subscription to twenty-nine thousand eight hundred and twenty shares of the capital stock of the Bank, $359,733,570: <i>Provided, however</i>, That not more than $17,986,679 of such sum may be made available for paid in subscriptions to the Bank for each of the fiscal years 1982, 1983, and 1984.
+There is authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury of the initial United States subscription to twenty-nine thousand eight hundred and twenty shares of the capital stock of the Bank, $359,733,570: <i>Provided, however</i>, That not more than $17,986,679 of such sum may be made available for paid in subscriptions to the Bank for each of the fiscal years 1982, 1983, and 1984.
 
 #### (c) Distributions by Bank
 

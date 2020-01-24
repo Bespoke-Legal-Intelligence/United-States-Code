@@ -30,7 +30,7 @@
 
 &emsp;Not later than—
 
-&emsp;&emsp;(A) 180 days after July 20, 2018, the Secretary of State, in consultation with theBroadcasting Board of Governors, shall submit to the appropriate congressional committees a report that sets forth a detailed plan for improving broadcasting content for the purpose of targeting new audiences and increasing listenership; and
+&emsp;&emsp;(A) 180 days after July 20, 2018, the Secretary of State, in consultation with the Broadcasting Board of Governors, shall submit to the appropriate congressional committees a report that sets forth a detailed plan for improving broadcasting content for the purpose of targeting new audiences and increasing listenership; and
 
 &emsp;&emsp;(B) 1 year after July 20, 2018, and annually thereafter for each of the next 5 years, the Secretary of State, in consultation with the Broadcasting Board of Governors, shall submit to the appropriate congressional committees a report including—
 
@@ -81,6 +81,10 @@ Subsec. (c). Pub. L. 115–198, §7(b)(2), substituted "2022" for "2017".
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–346, §7(1), substituted "2012" for "2008".
 
 Subsec. (c). Pub. L. 110–346, §7(2), substituted "annually through 2012" for "in each of the 3 years thereafter".
+
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Delegation of Functions
 

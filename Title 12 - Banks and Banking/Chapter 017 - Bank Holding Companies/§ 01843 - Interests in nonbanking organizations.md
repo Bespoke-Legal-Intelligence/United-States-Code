@@ -1038,21 +1038,7 @@ Pub. L. 111–8, div. D, title VI, §624, Mar. 11, 2009, 123 Stat. 678, provided
 
 #### Report to Congress on New Activities of Financial Holding Companies
 
-Pub. L. 106–102, title I, §103(d), Nov. 12, 1999, 113 Stat. 1351, provided that:
-
-"(1)
-
-In general.—By the end of the 4-year period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], the Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall submit a joint report to the Congress containing a summary of new activities, including grandfathered commercial activities, in which any financial holding company is engaged pursuant to subsection (k)(1) or (n) of section 4 of the Bank Holding Company Act of 1956 \[12 U.S.C. 1843(k)(1), (n)\] (as added by subsection (a)).
-
-"(2)
-
-Other contents.—The report submitted to the Congress pursuant to paragraph (1) shall also contain the following:
-
-&emsp;"(A) A discussion of actions by the Board of Governors of the Federal Reserve System and the Secretary of the Treasury, whether by regulation, order, interpretation, or guideline or by approval or disapproval of an application, with regard to activities of financial holding companies that are incidental to activities that are financial in nature or complementary to such financial activities.
-
-&emsp;"(B) An analysis and discussion of the risks posed by commercial activities of financial holding companies to the safety and soundness of affiliate depository institutions.
-
-&emsp;"(C) An analysis and discussion of the effect of mergers and acquisitions under section 4(k) of the Bank Holding Company Act of 1956 \[12 U.S.C. 1843(k)\] on market concentration in the financial services industry."
+Pub. L. 106–102, title I, §103(d), Nov. 12, 1999, 113 Stat. 1351, provided that by the end of the 4-year period beginning on Nov. 12, 1999, the Board of Governors of the Federal Reserve System and the Secretary of the Treasury were to submit a joint report to Congress containing a summary of new activities, including grandfathered commercial activities, in which any financial holding company is engaged pursuant to subsection (k)(1) or (n) of this section.
 
 #### Consideration of Merchant Banking Activities by Financial Subsidiaries
 
@@ -1074,13 +1060,13 @@ Pub. L. 101–73, title VI, §601(b), Aug. 9, 1989, 103 Stat. 409, provided that
 
 No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect before Aug. 10, 1987, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had been made before such date, see section 509(c) of Pub. L. 100–86, set out as a note under section 1464 of this title.
 
-No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the day before Oct. 8, 1986, to any otherprovision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had taken effect before such date, see section 1(c) of Pub. L. 99–452, set out as a note under section 1464 of this title.
+No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the day before Oct. 8, 1986, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had taken effect before such date, see section 1(c) of Pub. L. 99–452, set out as a note under section 1464 of this title.
 
 Section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the day after Aug. 27, 1986, applicable as if included in Pub. L. 97–320 on Oct. 15, 1982, with no amendment made by such section to any other provision of law to be deemed to have taken effect before Aug. 27, 1986, and any such provision of law to be in effect as if no such amendment had taken effect before Aug. 27, 1986, see section 1(c) of Pub. L. 99–400, set out as a note under section 1464 of this title.
 
 #### Bank Export Services
 
-Pub. L. 97–290, title II, §202, Oct. 8, 1982, 96 Stat. 1235, provided that: "The Congress hereby declares that it is the purpose of this title \[enacting section 635a–4 of this title, amending sections 372 and 1843 of this title, and enacting provisions set out as notes under section 1843 of this title\] to provide for meaningful and effective participation by bank holding companies, bankers' banks, and Edge Act \[12 U.S.C. 611 et seq.\] corporations, in the financing and development of export trading companies in the United States. In furtherance of such purpose, the Congress intends that, in implementing its authority under section 4(c)(14) of the Bank Holding Company Act of 1956 \[subsec. (c)(14) of this section\] the Board of Governors of the Federal Reserve System should pursue regulatory policies that—
+Pub. L. 97–290, title II, §202, Oct. 8, 1982, 96 Stat. 1235, provided that: "The Congress hereby declares that it is the purpose of this title \[enacting section 635a–4 of this title, amending sections 372 and 1843 of this title, and enacting provisions set out as notes under section 1843 of this title\] to provide for meaningful and effectiveparticipation by bank holding companies, bankers' banks, and Edge Act \[12 U.S.C. 611 et seq.\] corporations, in the financing and development of export trading companies in the United States. In furtherance of such purpose, the Congress intends that, in implementing its authority under section 4(c)(14) of the Bank Holding Company Act of 1956 \[subsec. (c)(14) of this section\] the Board of Governors of the Federal Reserve System should pursue regulatory policies that—
 
 &emsp;"(1) provide for the establishment of export trading companies with powers sufficiently broad to enable them to complete with similar foreign-owned institutions in the United States and abroad;
 

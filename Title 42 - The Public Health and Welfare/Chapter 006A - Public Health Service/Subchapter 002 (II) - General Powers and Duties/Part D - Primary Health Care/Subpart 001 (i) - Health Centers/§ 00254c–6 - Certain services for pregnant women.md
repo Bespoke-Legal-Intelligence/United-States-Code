@@ -68,7 +68,7 @@
 
 #### (5) Training for certain eligible health centers
 
-&emsp;A condition for the receipt of a grant under paragraph (1) is that the adoption organization involved agree to make reasonable efforts to ensure that the eligible health centers with respect to which training under the grant is provided include—
+&emsp;A condition for the receipt of a grant under paragraph (1) is that the adoption organizationinvolved agree to make reasonable efforts to ensure that the eligible health centers with respect to which training under the grant is provided include—
 
 &emsp;&emsp;(A) eligible health centers that receive grants under section 300 of this title (relating to voluntary family planning projects);
 

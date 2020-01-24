@@ -6,7 +6,7 @@
 
 &emsp;(1) Where he has a personal bias or prejudice concerning a party, or personal knowledge of disputed evidentiary facts concerning the proceeding;
 
-&emsp;(2) Where in private practice he served as lawyer in the matter in controversy, or a lawyer with whom he previously practiced law served during such association as a lawyer concerning the matter, or the judge or suchlawyer has been a material witness concerning it;
+&emsp;(2) Where in private practice he served as lawyer in the matter in controversy, or a lawyer with whom he previously practiced law served during such association as a lawyer concerning the matter, or the judge or such lawyer has been a material witness concerning it;
 
 &emsp;(3) Where he has served in governmental employment and in such capacity participated as counsel, adviser or material witness concerning the proceeding or expressed an opinion concerning the merits of the particular case in controversy;
 
@@ -72,7 +72,7 @@ Changes were made in phraseology.
 
 #### Change of Name
 
-Words "magistrate judge" substituted for "magistrate" in section catchline and wherever appearing in subsecs. (a), (e), and (f) pursuant to section 321 of Pub.L. 101–650, set out as a note under section 631 of this title.
+Words "magistrate judge" substituted for "magistrate" in section catchline and wherever appearing in subsecs. (a), (e), and (f) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 #### Effective Date of 1978 Amendment
 

@@ -28,7 +28,7 @@ For purposes of this section:
 
 (2) Each grant awarded for general assistance under this subsection for a fiscal year shall be no less than $75,000, and no single grant may be awarded to an Indian tribal government or intertribal consortium for more than 10 percent of the funds appropriated under subsection (h) of this section.
 
-(3) The term of any general assistance award made under this subsection may exceed one year. Any awards made pursuant to this section shall remain available until expended. An Indian tribal government or intertribal consortium may receive a general assistance grant for a period of up to four years in each specific media area.
+(3) The term of any general assistance award made under this subsection may exceed one year. Any awards made pursuant to this sectionshall remain available until expended. An Indian tribal government or intertribal consortium may receive a general assistance grant for a period of up to four years in each specific media area.
 
 #### (e) No reduction in amounts
 

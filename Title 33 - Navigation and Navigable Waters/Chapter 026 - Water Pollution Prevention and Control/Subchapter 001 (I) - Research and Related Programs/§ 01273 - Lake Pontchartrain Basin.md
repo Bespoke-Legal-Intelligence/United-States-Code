@@ -6,7 +6,7 @@ The Administrator shall establish within the Environmental Protection Agency the
 
 #### (b) Purpose
 
-The purpose of the program shall be to restore the ecological health of the Basin by developing and funding restoration projects and related scientific and public education projects.
+The purpose of the program shall be to restore the ecological health of the Basin by developingand funding restoration projects and related scientific and public education projects.
 
 #### (c) Duties
 

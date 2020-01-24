@@ -28,7 +28,7 @@ After each meeting of the United States–Sub-Saharan Africa Trade and Economic 
 
 &emsp;(1) The outcomes of the meeting of the Forum, including any commitments made by member countries and the private sector.
 
-&emsp;(2) An assessment of progress made with respect to any commitments made by member countries and the private sector from the previous meeting of the Forum.
+&emsp;(2) An assessment of progress made with respect to any commitments made by membercountries and the private sector from the previous meeting of the Forum.
 
 #### (c) Other information
 

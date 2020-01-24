@@ -12,7 +12,7 @@ In this chapter:
 
 #### (3) Covered sex offender
 
-&emsp;Except as otherwise provided, the term "covered sex offender" means an individualwho is a sex offender by reason of having been convicted of a sex offense against a minor.
+&emsp;Except as otherwise provided, the term "covered sex offender" means an individual who is a sex offender by reason of having been convicted of a sex offense against a minor.
 
 #### (4) Destination country
 

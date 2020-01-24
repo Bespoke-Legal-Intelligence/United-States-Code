@@ -26,7 +26,7 @@
 
 > in the same manner as provided under section 1204.
 
-(3)(A) In the case of contumacy or failure to obey a subpoena issued under paragraph (2)(A),the Special Counsel may apply to the Merit Systems Protection Board to enforce the subpoena in court pursuant to section 1204(c).
+(3)(A) In the case of contumacy or failure to obey a subpoena issued under paragraph (2)(A), the Special Counsel may apply to the Merit Systems Protection Board to enforce the subpoena in court pursuant to section 1204(c).
 
 (B) A subpoena under paragraph (2)(A) may, in the case of any individual outside the territorial jurisdiction of any court of the United States, be served in the manner referred to in subsection (d) of section 1204, and the United States District Court for the District of Columbia may, with respect to any such individual, compel compliance in accordance with such subsection.
 
@@ -90,7 +90,7 @@
 
 (g)(1) The Special Counsel may not respond to any inquiry or disclose any information from or about any person making an allegation under section 1214(a), except in accordance with the provisions of section 552a of title 5, United States Code, or as required by any other applicable Federal law.
 
-(2) Notwithstanding the exception under paragraph (1), the Special Counsel may not respond to any inquiry concerning an evaluation of thework performance, ability, aptitude, general qualifications, character, loyalty, or suitability for any personnel action of any person described in paragraph (1)—
+(2) Notwithstanding the exception under paragraph (1), the Special Counsel may not respond to any inquiry concerning an evaluation of the work performance, ability, aptitude, general qualifications, character, loyalty, or suitability for any personnel action of any person described in paragraph (1)—
 
 &emsp;(A) unless the consent of the individual as to whom the information pertains is obtained in advance; or
 
@@ -127,6 +127,10 @@ Subsec. (i). Pub. L. 115–91, §1097(g), added subsec. (i).
 <b>1994</b>—Subsec. (g)(1). Pub. L. 103–424, §3(b)(1) substituted "disclose any information from or about" for "provide information concerning".
 
 Subsec. (g)(2). Pub. L. 103–424, §3(b)(2), substituted "an evaluation of the work performance, ability, aptitude, general qualifications, character, loyalty, or suitability for any personnel action of any" for "a matter described in subparagraph (A) or (B) of section 2302(b)(2) in connection with a".
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2012 Amendment
 
@@ -182,7 +186,7 @@ Permission of Next of Kin.—The head of the agency shall only make a referral u
 
 #### Policy Statement Regarding Implementation of Whistleblower Protection Act
 
-Pub. L. 103–424, §12(a), Oct. 29, 1994, 108 Stat. 4366, provided that: "No later than 6 months after the date of enactment of this Act \[Oct. 29, 1994\], the Special Counsel shall issue a policy statement regarding the implementation of the Whistleblower Protection Act of 1989 \[see Short Title of 1989 Amendment note set out under section 1201 of this title\]. Such policy statement shall be made available to each person alleging a prohibited personnel practice described under section 2302(b)(8) of title 5, United States Code, and shall include detailedguidelines identifying specific categories of information that may (or may not) be communicated to agency officials for an investigative purpose, or for the purpose of obtaining corrective action under section 1214 of title 5, United States Code, or disciplinary action under section 1215 of such title, the circumstances under which such information is likely to be disclosed, and whether or not the consent of any person is required in advance of any such communication."
+Pub. L. 103–424, §12(a), Oct. 29, 1994, 108 Stat. 4366, provided that: "No later than 6 months after the date of enactment of this Act \[Oct. 29, 1994\], the Special Counsel shall issue a policy statement regarding the implementation of the Whistleblower Protection Act of 1989 \[see Short Title of 1989 Amendment note set out under section 1201 of this title\]. Such policy statement shall be made available to each person alleging a prohibited personnel practice described under section 2302(b)(8) of title 5, United States Code, and shall include detailed guidelines identifying specific categories of information that may (or may not) be communicated to agency officials for an investigative purpose, or for the purpose of obtaining corrective action under section 1214 of title 5, United States Code, or disciplinary action under section 1215 of such title, the circumstances under which such information is likely to be disclosed, and whether or not the consent of any person is required in advance of any such communication."
 
 #### Annual Survey of Individuals Seeking Assistance
 

@@ -80,7 +80,7 @@ The objectives of the program under subsection (a) shall be—
 
 &emsp;&emsp;&emsp;(vi) to assess and ensure the safety of operations related to geologic sequestration of carbon dioxide;
 
-&emsp;&emsp;&emsp;(vii) to allow the Secretary to promulgate policies, procedures, requirements, and guidance to ensure that the objectivesof this subparagraph are met in large-scale testing and deployment activities for carbon capture and sequestration that are funded by the Department of Energy; and
+&emsp;&emsp;&emsp;(vii) to allow the Secretary to promulgate policies, procedures, requirements, and guidance to ensure that the objectives of this subparagraph are met in large-scale testing and deployment activities for carbon capture and sequestration that are funded by the Department of Energy; and
 
 &emsp;&emsp;&emsp;(viii) to provide information to States, the Environmental Protection Agency, and other appropriate entities to support development of a regulatory framework for commercial-scale sequestration operations that ensure the protection of human health and the environment.
 
@@ -146,7 +146,7 @@ Subsec. (a). Pub. L. 110–140, §702(a)(2), in introductory provisions, substit
 
 Subsec. (b)(5). Pub. L. 110–140, §702(a)(3), added par. (5).
 
-Subsecs. (c), (d). Pub. L. 110–140, §702(a)(4), added subsecs. (c) and (d) and struck out former subsec. (c). Text of former subsec. (c) read as follows: "From amounts authorized under section 16291(b) of this title, the following sums are authorized for activities described in subsection (a)(2):
+Subsecs. (c), (d). Pub. L. 110–140, §702(a)(4), added subsecs. (c) and (d) and struck out former subsec. (c). Textof former subsec. (c) read as follows: "From amounts authorized under section 16291(b) of this title, the following sums are authorized for activities described in subsection (a)(2):
 
 &emsp;"(1) $25,000,000 for fiscal year 2006;
 

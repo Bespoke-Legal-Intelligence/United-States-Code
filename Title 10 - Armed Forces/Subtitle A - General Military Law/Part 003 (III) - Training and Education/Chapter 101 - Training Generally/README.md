@@ -5,7 +5,7 @@
 | \[2001. | Repealed.\] |
 | [2002\.](%C2%A7%2002002%20-%20Dependents%20of%20members%20of%20armed%20forces%20language%20training.md) | Dependents of members of armed forces: language training. |
 | [2003\.](%C2%A7%2002003%20-%20Aeronautical%20rating%20as%20pilot%20qualifications.md) | Aeronautical rating as pilot: qualifications. |
-| [2004\.](%C2%A7%2002004%20-%20Detail%20of%20commissioned%20officers%20as%20students%20at%20law%20schools.md) | Detail of commissioned officers as students at law schools. |
+| [2004\.](%C2%A7%2002004%20-%20Detail%20as%20students%20at%20law%20schools%3B%20commissioned%20officers%3B%20certain%20enlisted%20members.md) | Detail as students at law schools; commissioned officers; certain enlisted members. |
 | [2004a.](%C2%A7%2002004a%20-%20Detail%20of%20commissioned%20officers%20as%20students%20at%20medical%20schools.md) | Detail of commissioned officers as students at medical schools. |
 | [2004b.](%C2%A7%2002004b%20-%20Detail%20of%20commissioned%20officers%20as%20students%20at%20schools%20of%20psychology.md) | Detail of commissioned officers as students at schools of psychology. |
 | [2005\.](%C2%A7%2002005%20-%20Advanced%20education%20assistance%20active%20duty%20agreement%3B%20reimbursement%20requirements.md) | Advanced education assistance: active duty agreement; reimbursement requirements. |
@@ -20,10 +20,13 @@
 | [2014\.](%C2%A7%2002014%20-%20Administrative%20actions%20adversely%20affecting%20military%20training%20or%20other%20readiness%20activities.md) | Administrative actions adversely affecting military training or other readiness activities. |
 | [2015\.](%C2%A7%2002015%20-%20Program%20to%20assist%20members%20in%20obtaining%20professional%20credentials.md) | Program to assist members in obtaining professional credentials. |
 | [2016\.](%C2%A7%2002016%20-%20Undergraduate%20nurse%20training%20program%20establishment%20through%20agreement%20with%20academic%20institution.md) | Undergraduate nurse training program: establishment through agreement with academic institution. |
+| [2017\.](%C2%A7%2002017%20-%20Limitation%20on%20establishment%20of%20postsecondary%20educational%20institutions%20pending%20notice%20to%20Congress.md) | Limitation on establishment of postsecondary educational institutions pending notice to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title V, §§551(b)(2), 553(b)(2), Dec. 20, 2019, 133 Stat. 1386, 1387, substituted "Detail as students at law schools; commissioned officers; certain enlisted members" for "Detail of commissioned officers as students at law schools" in item 2004 and added item 2017.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title XII, §1244(d), Dec. 23, 2016, 130 Stat. 2518, struck out items 2010 "Participation of developing countries in combined exercises: payment of incremental expenses" and 2011 "Special operations forces: training with friendly foreign forces".
 
@@ -63,6 +66,20 @@ Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, adde
 
 <b>1965</b>—Pub. L. 89–160, §1(2), Sept. 1, 1965, 79 Stat. 615, added item 2002.
 
+#### Collection of Blast Exposure Information
+
+Pub. L. 116–92, div. A, title VII, §742(b), Dec. 20, 2019, 133 Stat. 1469, provided that: "The Secretary of Defense shall collect blast exposure information with respect to a member of the Armed Forces in a manner—
+
+&emsp;"(1) consistent with blast exposure measurement training guidance of the Department of Defense, including any guidance developed pursuant to—
+
+&emsp;&emsp;"(A) the longitudinal medical study on blast pressure exposure required by section 734 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 131 Stat. 1444); and
+
+&emsp;&emsp;"(B) the review of guidance on blast exposure during training required by section 253 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 2001 note prec.);
+
+&emsp;"(2) compatible with training and operational objectives of the Department; and
+
+&emsp;"(3) that is automated, to the extent practicable, to minimize the reporting burden of unit commanders."
+
 #### Review of Guidance on Blast Exposure During Training
 
 Pub. L. 115–232, div. A, title II, §253, Aug. 13, 2018, 132 Stat. 1704, provided that:
@@ -93,7 +110,7 @@ Updated Review.—
 
 &emsp;"(1)
 
-In general.—Not later than two years after the initial review conducted under subsection (a), and not later than two years thereafter, the Secretary of Defense shall conduct an updated review under such subsection, including consideration of the matters set forth under subsection (b), and update training guidance under subsection (c).
+In general.—Not later than two years after the initial review conducted under subsection (a), and not later than two years thereafter, the Secretary of Defense shall conduct an updated review under such subsection, including consideration of the matters setforth under subsection (b), and update training guidance under subsection (c).
 
 &emsp;"(2)
 
@@ -153,7 +170,7 @@ Report.—Not later than one year after the date of the establishment of the pro
 
 &emsp;"(3) An assessment of the progress made by each language training center in providing capabilities in critical and strategic languages under the program to members of the Armed Forces and Department of Defense employees.
 
-&emsp;"(4) A recommendation whether the program should be continued and, if so, recommendations asto any modifications of the program that the Secretary considers appropriate."
+&emsp;"(4) A recommendation whether the program should be continued and, if so, recommendations as to any modifications of the program that the Secretary considers appropriate."
 
 #### Enhancing Education Partnerships To Improve Accessibility and Flexibility for Members of the Armed Forces
 
@@ -187,7 +204,7 @@ Educational Institution Defined.—In this section, the term 'educational instit
 - [&sect; 02001 - Repealed. Pub. L. 103&#8211;337, div. A, title XVI, &sect;1661(a)(3)(A), Oct. 5, 1994, 108 Stat. 2980](%C2%A7%2002001%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71661%28a%29%283%29%28A%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%202980.md)
 - [&sect; 02002 - Dependents of members of armed forces language training](%C2%A7%2002002%20-%20Dependents%20of%20members%20of%20armed%20forces%20language%20training.md)
 - [&sect; 02003 - Aeronautical rating as pilot qualifications](%C2%A7%2002003%20-%20Aeronautical%20rating%20as%20pilot%20qualifications.md)
-- [&sect; 02004 - Detail of commissioned officers as students at law schools](%C2%A7%2002004%20-%20Detail%20of%20commissioned%20officers%20as%20students%20at%20law%20schools.md)
+- [&sect; 02004 - Detail as students at law schools; commissioned officers; certain enlisted members](%C2%A7%2002004%20-%20Detail%20as%20students%20at%20law%20schools%3B%20commissioned%20officers%3B%20certain%20enlisted%20members.md)
 - [&sect; 02004a - Detail of commissioned officers as students at medical schools](%C2%A7%2002004a%20-%20Detail%20of%20commissioned%20officers%20as%20students%20at%20medical%20schools.md)
 - [&sect; 02004b - Detail of commissioned officers as students at schools of psychology](%C2%A7%2002004b%20-%20Detail%20of%20commissioned%20officers%20as%20students%20at%20schools%20of%20psychology.md)
 - [&sect; 02005 - Advanced education assistance active duty agreement; reimbursement requirements](%C2%A7%2002005%20-%20Advanced%20education%20assistance%20active%20duty%20agreement%3B%20reimbursement%20requirements.md)
@@ -203,3 +220,4 @@ Educational Institution Defined.—In this section, the term 'educational instit
 - [&sect; 02014 - Administrative actions adversely affecting military training or other readiness activities](%C2%A7%2002014%20-%20Administrative%20actions%20adversely%20affecting%20military%20training%20or%20other%20readiness%20activities.md)
 - [&sect; 02015 - Program to assist members in obtaining professional credentials](%C2%A7%2002015%20-%20Program%20to%20assist%20members%20in%20obtaining%20professional%20credentials.md)
 - [&sect; 02016 - Undergraduate nurse training program establishment through agreement with academic institution](%C2%A7%2002016%20-%20Undergraduate%20nurse%20training%20program%20establishment%20through%20agreement%20with%20academic%20institution.md)
+- [&sect; 02017 - Limitation on establishment of postsecondary educational institutions pending notice to Congress](%C2%A7%2002017%20-%20Limitation%20on%20establishment%20of%20postsecondary%20educational%20institutions%20pending%20notice%20to%20Congress.md)

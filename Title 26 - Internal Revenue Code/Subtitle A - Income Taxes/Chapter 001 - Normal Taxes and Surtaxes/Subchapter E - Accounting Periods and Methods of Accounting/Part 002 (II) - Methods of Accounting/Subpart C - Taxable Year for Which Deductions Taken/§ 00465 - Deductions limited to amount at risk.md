@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) a C corporation with respect to which the stock ownership requirement of paragraph (2) of section 542(a) is met,
 
-> &emsp;engaged in an activity to which this section applies, any loss from such activity for thetaxable year shall be allowed only to the extent of the aggregate amount with respect to which the taxpayer is at risk (within the meaning of subsection (b)) for such activity at the close of the taxable year.
+> &emsp;engaged in an activity to which this section applies, any loss from such activity for the taxable year shall be allowed only to the extent of the aggregate amount with respect to which the taxpayer is at risk (within the meaning of subsection (b)) for such activity at the close of the taxable year.
 
 #### (2) Deduction in succeeding year
 
@@ -100,7 +100,7 @@
 
 #### (C) Special rule for partnerships
 
-&emsp;&emsp;In the case of a partnership, a partner's share of any qualified nonrecourse financing of such partnership shall be determined onthe basis of the partner's share of liabilities of such partnership incurred in connection with such financing (within the meaning of section 752).
+&emsp;&emsp;In the case of a partnership, a partner's share of any qualified nonrecourse financing of such partnership shall be determined on the basis of the partner's share of liabilities of such partnership incurred in connection with such financing (within the meaning of section 752).
 
 #### (D) Qualified person defined
 
@@ -428,7 +428,7 @@ For purposes of this section, the term "loss" means the excess of the deductions
 
 &emsp;&emsp;(B) the amounts previously included in gross income with respect to such activity under this subsection.
 
-(Added Pub. L. 94–455, title II, §204(a), Oct. 4, 1976, 90 Stat. 1531; amended Pub. L. 95–600, title II, §§201(a), (c)(1), 202, 203, title VII, §701(k)(2), Nov. 6, 1978, 92 Stat. 2814, 2816, 2906; Pub. L. 95–618, title IV, §402(d), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §102(a)(1)(A)–(D), Apr. 1, 1980, 94 Stat. 206; Pub. L. 97–354, §5(a)(31), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title IV, §432(a)–(c), title VII, §721(x)(2), July 18, 1984, 98 Stat. 811–814, 971; Pub. L. 99–514, title II, §201(d)(7)(A), title V, §503(a), (b), title X, §1011(b)(1), Oct. 22, 1986, 100 Stat. 2141, 2243, 2389; Pub. L. 101–508, title XI, §§11813(b)(15), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–555, 1388–558; Pub. L. 108–357, title IV, §413(c)(7), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 113–295, div. A, title II, §221(a)(59), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §13512(b)(2), Dec. 22, 2017, 131 Stat. 2143.)
+(Added Pub. L. 94–455, title II, §204(a), Oct. 4, 1976, 90 Stat. 1531; amended Pub. L. 95–600, title II, §§201(a), (c)(1), 202, 203, title VII, §701(k)(2), Nov. 6, 1978, 92 Stat. 2814, 2816, 2906; Pub. L. 95–618, title IV, §402(d), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §102(a)(1)(A)–(D), Apr. 1, 1980, 94 Stat. 206; Pub. L. 97–354, §5(a)(31), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title IV, §432(a)–(c), title VII, §721(x)(2), July 18, 1984, 98Stat. 811–814, 971; Pub. L. 99–514, title II, §201(d)(7)(A), title V, §503(a), (b), title X, §1011(b)(1), Oct. 22, 1986, 100 Stat. 2141, 2243, 2389; Pub. L. 101–508, title XI, §§11813(b)(15), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–555, 1388–558; Pub. L. 108–357, title IV, §413(c)(7), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 113–295, div. A, title II, §221(a)(59), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §13512(b)(2), Dec. 22, 2017, 131 Stat. 2143.)
 
 #### Amendments
 
@@ -508,7 +508,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(15) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(b)(15) of Pub. L. 101–508 applicable to property placed in service after Dec. 31,1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -536,7 +536,7 @@ Amendment by section 1011(b)(1) of Pub. L. 99–514 applicable to taxable years 
 
 Pub. L. 98–369, div. A, title IV, §432(d), July 18, 1984, 98 Stat. 815, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1983; except that any loss from an activity described in section 465(c)(7)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) which (but for the amendments made by this section) would have been treated as a deduction for the taxpayer's first taxable year beginning after December 31, 1983, under section 465(a)(2) of such Code shall be allowed as a deduction for such first taxable year notwithstanding such amendments."
 
-Amendment by section 721(x)(2) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Actof 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
+Amendment by section 721(x)(2) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
 #### Effective Date of 1982 Amendment
 

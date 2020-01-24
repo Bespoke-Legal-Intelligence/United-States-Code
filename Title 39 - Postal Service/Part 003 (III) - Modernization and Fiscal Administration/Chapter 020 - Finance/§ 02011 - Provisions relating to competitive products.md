@@ -70,7 +70,7 @@
 
 &emsp;(D) shall not be exempt either as to principal or interest from any taxation now or hereafter imposed by any State or local taxing authority; and
 
-&emsp;(E) except as provided in section 2006(c), shall not be obligations of, nor shall payment of the principal thereof or interest thereon be guaranteed by, the Government of the United States, and the obligations shall so plainly state.
+&emsp;(E) except as provided in section 2006(c), shall not be obligations of, nor shall payment of the principal thereof or interest thereon beguaranteed by, the Government of the United States, and the obligations shall so plainly state.
 
 (5) The Postal Service shall make payments of principal, or interest, or both on obligations issued under this section out of revenues and receipts from competitive products and assets related to the provision of competitive products (as determined under subsection (h)), or for purposes of any period before accounting practices and principles under subsection (h) have been established and applied, the best information available, including the audited statements required by section 2008(e). For purposes of this subsection, the total assets of the Competitive Products Fund shall be the greater of—
 

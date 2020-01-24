@@ -44,7 +44,7 @@
 
 In considering under this section whether a penalty is in the public interest, the Commission or the appropriate regulatory agency may consider—
 
-&emsp;(1) whether the act or omission for which such penalty is assessed involved fraud, deceit,manipulation, or deliberate or reckless disregard of a regulatory requirement;
+&emsp;(1) whether the act or omission for which such penalty is assessed involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement;
 
 &emsp;(2) the harm to other persons resulting either directly or indirectly from such act or omission;
 

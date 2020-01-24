@@ -16,7 +16,7 @@
 | \[2562. | Repealed.\] |
 | [2563\.](%C2%A7%2002563%20-%20Articles%20and%20services%20of%20industrial%20facilities%20sale%20to%20persons%20outside%20the%20Department%20of%20Defense.md) | Articles and services of industrial facilities: sale to persons outside the Department of Defense. |
 | [2564\.](%C2%A7%2002564%20-%20Provision%20of%20support%20for%20certain%20sporting%20events.md) | Provision of support for certain sporting events. |
-| [2564a.](%C2%A7%2002564a%20-%20Provision%20of%20assistance%20for%20adaptive%20sports%20programs%20for%20members%20of%20the%20armed%20forces.md) | Provision of assistance for adaptive sports programs for members of the armed forces. |
+| [2564a.](%C2%A7%2002564a%20-%20Provision%20of%20assistance%20for%20adaptive%20sports%20programs%20members%20of%20the%20armed%20forces%3B%20certain%20veterans.md) | Provision of assistance for adaptive sports programs: members of the armed forces; certain veterans. |
 | [2565\.](%C2%A7%2002565%20-%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md) | Nuclear test monitoring equipment: furnishing to foreign governments. |
 | [2566\.](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md) | Space and services: provision to military welfare societies. |
 | [2567\.](%C2%A7%2002567%20-%20Space%20and%20services%20provision%20to%20WIC%20offices.md) | Space and services: provision to WIC offices. |
@@ -30,6 +30,8 @@
 Chapter was comprised of subchapter I, former section 2540, and subchapter II, sections 2541 to 2553, prior to amendment by Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512, which struck out headings for subchapters I and II.
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title V, §592(c)(2), title XVII, §1731(a)(63), Dec. 20, 2019, 133 Stat. 1415, 1816, substituted "Provision of assistance for adaptive sports programs: members of the armed forces; certain veterans" for "Provision of assistance for adaptive sports programs for members of the armed forces" in item 2564a and amended item 2568a without change.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VI, §623(b), Aug. 13, 2018, 132 Stat. 1801, added item 2568a.
 
@@ -61,7 +63,7 @@ Pub. L. 104–201, div. A, title III, §366(b), Sept. 23, 1996, 110 Stat. 2496, 
 
 Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512, struck out subchapter analysis consisting of items for subchapters I "Issue to the Armed Forces" and II "Issue of Serviceable Material Other Than to the Armed Forces" and struck out headings for subchapters I "ISSUE TO THE ARMED FORCES" and II "ISSUE OF SERVICEABLE MATERIAL OTHER THAN TO THE ARMED FORCES".
 
-<b>1994</b>—Pub. L. 103–337, div. A, title III, §339(a)(2), title XVI, §1671(b)(14), Oct. 5, 1994, 108 Stat. 2720, 3014, struckout item 2540 "Reserve components: supplies, services, and facilities" and added item 2553.
+<b>1994</b>—Pub. L. 103–337, div. A, title III, §339(a)(2), title XVI, §1671(b)(14), Oct. 5, 1994, 108 Stat. 2720, 3014, struck out item 2540 "Reserve components: supplies, services, and facilities" and added item 2553.
 
 <b>1992</b>—Pub. L. 102–484, div. A, title III, §304(c)(2), div. D, title XLIII, §4304(b), Oct. 23, 1992, 106 Stat. 2362, 2700, added items 2551 and 2552.
 
@@ -102,7 +104,7 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 - [&sect; 02562 - Repealed. Pub. L. 114&#8211;328, div. A, title XII, &sect;1253(a)(1)(C), Dec. 23, 2016, 130 Stat. 2532](%C2%A7%2002562%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20XII%2C%20%C2%A71253%28a%29%281%29%28C%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202532.md)
 - [&sect; 02563 - Articles and services of industrial facilities sale to persons outside the Department of Defense](%C2%A7%2002563%20-%20Articles%20and%20services%20of%20industrial%20facilities%20sale%20to%20persons%20outside%20the%20Department%20of%20Defense.md)
 - [&sect; 02564 - Provision of support for certain sporting events](%C2%A7%2002564%20-%20Provision%20of%20support%20for%20certain%20sporting%20events.md)
-- [&sect; 02564a - Provision of assistance for adaptive sports programs for members of the armed forces](%C2%A7%2002564a%20-%20Provision%20of%20assistance%20for%20adaptive%20sports%20programs%20for%20members%20of%20the%20armed%20forces.md)
+- [&sect; 02564a - Provision of assistance for adaptive sports programs members of the armed forces; certain veterans](%C2%A7%2002564a%20-%20Provision%20of%20assistance%20for%20adaptive%20sports%20programs%20members%20of%20the%20armed%20forces%3B%20certain%20veterans.md)
 - [&sect; 02565 - Nuclear test monitoring equipment furnishing to foreign governments](%C2%A7%2002565%20-%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md)
 - [&sect; 02566 - Space and services provision to military welfare societies](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md)
 - [&sect; 02567 - Space and services provision to WIC offices](%C2%A7%2002567%20-%20Space%20and%20services%20provision%20to%20WIC%20offices.md)

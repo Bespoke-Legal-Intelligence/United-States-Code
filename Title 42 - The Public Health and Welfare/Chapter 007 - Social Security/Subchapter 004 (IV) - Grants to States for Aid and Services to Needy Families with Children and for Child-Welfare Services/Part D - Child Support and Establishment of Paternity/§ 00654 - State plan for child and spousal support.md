@@ -22,7 +22,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;&emsp;(ii) the custodial parent of such a child;
 
-&emsp;(5) provide that (A) in any case in which support payments are collected for an individual with respect to whom an assignment pursuant to section 608(a)(3) of this title is effective, such payments shall be made to the State for distribution pursuant to section 657 of this title and shall not be paid directly to the family, and the individual will be notified on a monthly basis (or on a quarterly basis for so long as the Secretary determines with respect to a State that requiring such notice on a monthly basis would impose an unreasonable administrative burden) of the amount of the support payments collected, and (B) in any case in which support payments are collected for an individual pursuant to the assignment made under section 1396k of this title, such payments shall be made to the State for distribution pursuant to section 1396k of this title, except that this clause shall not apply to such payments for any month after the month in which the individual ceases to be eligible for medical assistance;
+&emsp;(5) provide that (A) in any case in which support payments are collected for an individual with respect to whom an assignment pursuant to section 608(a)(3) of this title is effective, such payments shall be made to the State for distribution pursuant to section 657 of this title and shall not be paid directly to the family, and the individual will be notified on a monthly basis (or on a quarterly basis for so long as the Secretary determines with respect to a State that requiring such notice on a monthly basis would impose an unreasonable administrative burden) of the amount of the support payments collected, and (B) in any case in which support payments are collected for an individual pursuant to the assignment made under section 1396k of this title, such payments shall be made to the State for distribution pursuant to section 1396k of thistitle, except that this clause shall not apply to such payments for any month after the month in which the individual ceases to be eligible for medical assistance;
 
 &emsp;(6) provide that—
 
@@ -40,7 +40,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;&emsp;(i) from the parent who owes the child or spousal support obligation involved; or
 
-&emsp;&emsp;&emsp;(ii) at the option of the State, from the individual to whom such services are made available, but only if such State has in effect a procedure whereby all persons in such State having authority to order childor spousal support are informed that such costs are to be collected from the individual to whom such services were made available;
+&emsp;&emsp;&emsp;(ii) at the option of the State, from the individual to whom such services are made available, but only if such State has in effect a procedure whereby all persons in such State having authority to order child or spousal support are informed that such costs are to be collected from the individual to whom such services were made available;
 
 &emsp;(7) provide for entering into cooperative arrangements with appropriate courts and law enforcement officials and Indian tribes or tribal organizations (as defined in subsections (e) and (l) of section 5304 of title 25) (A) to assist the agency administering the plan, including the entering into of financial arrangements with such courts and officials in order to assure optimum results under such program, and (B) with respect to any other matters of common concern to such courts or officials and the agency administering the plan;
 
@@ -68,7 +68,7 @@ A State plan for child and spousal support must—
 
 &emsp;(11)(A) provide that amounts collected as support shall be distributed as provided in section 657 of this title; and
 
-&emsp;(B) provide that any payment required to be made under section 656 or 657 of this title to a family shall be made to the resident parent, legal guardian, or caretaker relative having custody of or responsibility for the child or children;
+&emsp;(B) provide that any payment required to be made under section 656 or 657 of this title to afamily shall be made to the resident parent, legal guardian, or caretaker relative having custody of or responsibility for the child or children;
 
 &emsp;(12) provide for the establishment of procedures to require the State to provide individuals who are applying for or receiving services under the State plan, or who are parties to cases in which services are being provided under the State plan—
 
@@ -88,7 +88,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;(B) a process of extracting from the automated data processing system required by paragraph (16) and transmitting to the Secretary data and calculations concerning the levels of accomplishment (and rates of improvement) with respect to applicable performance indicators (including paternity establishment percentages) to the extent necessary for purposes of sections 652(g) and 658a of this title;
 
-&emsp;(16) provide for the establishment and operation by the State agency, in accordance withan (initial and annually updated) advance automated data processing planning document approved under section 652(d) of this title, of a statewide automated data processing and information retrieval system meeting the requirements of section 654a of this title designed effectively and efficiently to assist management in the administration of the State plan, so as to control, account for, and monitor all the factors in the support enforcement collection and paternity determination process under such plan;
+&emsp;(16) provide for the establishment and operation by the State agency, in accordance with an (initial and annually updated) advance automated data processing planning document approved under section 652(d) of this title, of a statewide automated data processing and information retrieval system meeting the requirements of section 654a of this title designed effectively and efficiently to assist management in the administration of the State plan, so as to control, account for, and monitor all the factors in the support enforcement collection and paternity determination process under such plan;
 
 &emsp;(17) provide that the State will have in effect an agreement with the Secretary entered into pursuant to section 663 of this title for the use of the Parent Locator Service established under section 653 of this title, and provide that the State will accept and transmit to the Secretary requests for information authorized under the provisions of the agreement to be furnished by such Service to authorized persons, will impose and collect (in accordance with regulations of the Secretary) a fee sufficient to cover the costs to the State and to the Secretary incurred by reason of such requests, will transmit to the Secretary from time to time (in accordance with such regulations) so much of the fees collected as are attributable to such costs to the Secretary so incurred, and during the period that such agreement is in effect will otherwise comply with such agreement and regulations of the Secretary with respect thereto;
 
@@ -104,7 +104,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;&emsp;(ii) in the absence of such an agreement, by bringing legal process (as defined in section 659(i)(5) of this title) to require the withholding of amounts from such compensation;
 
-&emsp;(20) provide, to the extent required by section 666 of this title, that the State (A) shall have in effect all of the laws to improve child support enforcement effectiveness which are referred to in that section, and (B) shall implement the procedures which are prescribed in or pursuant to such laws;
+&emsp;(20) provide, to the extent required by section 666 of this title, that the State (A) shall have in effect all of the laws to improve childsupport enforcement effectiveness which are referred to in that section, and (B) shall implement the procedures which are prescribed in or pursuant to such laws;
 
 &emsp;(21)(A) at the option of the State, impose a late payment fee on all overdue support (as defined in section 666(e) of this title) under any obligation being enforced under this part, in an amount equal to a uniform percentage determined by the State (not less than 3 percent nor more than 6 percent) of the overdue support, which shall be payable by the noncustodial parent owing the overdue support; and
 
@@ -120,7 +120,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;(B) by October 1, 2000, which meets all requirements of this part enacted on or before August 22, 1996, except that such deadline shall be extended by 1 day for each day (if any) by which the Secretary fails to meet the deadline imposed by section 344(a)(3) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996;
 
-&emsp;(25) provide that if a family with respect to which services are provided under the plan ceases to receive assistance under the State program funded under part A, the State shall provide appropriate notice to the family and continue to provide such services, subject to the same conditions and on the same basis as in the case of other individuals to whom services are furnished under the plan, except that an application or other request to continue services shall not be required of such a familyand paragraph (6)(B) shall not apply to the family;
+&emsp;(25) provide that if a family with respect to which services are provided under the plan ceases to receive assistance under the State program funded under part A, the State shall provide appropriate notice to the family and continue to provide such services, subject to the same conditions and on the same basis as in the case of other individuals to whom services are furnished under the plan, except that an application or other request to continue services shall not be required of such a family and paragraph (6)(B) shall not apply to the family;
 
 &emsp;(26) have in effect safeguards, applicable to all confidential information handled by the State agency, that are designed to protect the privacy rights of the parties, including—
 
@@ -192,7 +192,7 @@ Section 344(a)(3) of the Personal Responsibility and Work Opportunity Reconcilia
 
 Section 2012(l) of title 7, referred to in par. (29), was struck out, and a new section 2012(t) of title 7 similarly defining "supplemental nutrition assistance program" was enacted, by Pub. L. 113–79, title IV, §4030(a)(3), (5), Feb. 7, 2014, 128 Stat. 813.
 
-Section 7301 of the Deficit Reduction Act of 2005, referred to in par. (34), is section 7301 of Pub. L. 109–171, title VII, Feb. 8, 2006, 120 Stat. 141. Subsec. (b)(1) of section 7301 of Pub. L. 109–171 amended this section and section 657 of this title. Subsec. (e) of section 7301 ofPub. L. 109–171 is set out as an Effective Date of 2006 Amendment note under section 608 of this title.
+Section 7301 of the Deficit Reduction Act of 2005, referred to in par. (34), is section 7301 of Pub. L. 109–171, title VII, Feb. 8, 2006, 120 Stat. 141. Subsec. (b)(1) of section 7301 of Pub. L. 109–171 amended this section and section 657 of this title. Subsec. (e) of section 7301 of Pub. L. 109–171 is set out as an Effective Date of 2006 Amendment note under section 608 of this title.
 
 #### Codification
 
@@ -280,7 +280,7 @@ Par. (32)(A). Pub. L. 105–33, §5545, substituted "section 659a(d)" for "secti
 
 Par. (33). Pub. L. 105–33, §5546(a), substituted "or enforce support orders, or" for "and enforce support orders, and", "guidelines established or adopted by such tribe or organization" for "guidelines established by such tribe or organization", "all collections" for "all funding collected", and "such collections" for "such funding".
 
-<b>1996</b>—Pub. L. 104–193, §375(a)(4), inserted at end of closing provisions "Nothing in paragraph (33) shall void any provision of any cooperative agreement entered into before August 22, 1996, nor shall such paragraph deprive any State of jurisdiction over Indian country (asso defined) that is lawfully exercised under section 1322 of title 25."
+<b>1996</b>—Pub. L. 104–193, §375(a)(4), inserted at end of closing provisions "Nothing in paragraph (33) shall void any provision of any cooperative agreement entered into before August 22, 1996, nor shall such paragraph deprive any State of jurisdiction over Indian country (as so defined) that is lawfully exercised under section 1322 of title 25."
 
 Par. (4). Pub. L. 104–193, §301(a)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "provide that such State will undertake—
 
@@ -418,7 +418,7 @@ Pub. L. 98–378, §3(f), inserted after numbered paragraphs provision that the 
 
 Par. (6). Pub. L. 97–248, §171(a), in cl. (A) inserted provisions relating to inclusion of, at the option of the State, support collection services for the spouse or former spouse, in cl. (B) substituted "such services" for "services under the State plan (other than collection of support)", and in cl. (C) substituted provisions relating to collection of any costs in excess of the fee imposed, for provisions relating to the State retaining any fee imposed under State law as required under former par. (19).
 
-Pars. (18) to (20). Pub. L. 97–248, §171(b)(1), inserted "and" at end of par. (18), struck out par. (19) relating to imposition of a fee on an individual who owes childor spousal support obligation, and redesignated par. (20) as (19).
+Pars. (18) to (20). Pub. L. 97–248, §171(b)(1), inserted "and" at end of par. (18), struck out par. (19) relating to imposition of a fee on an individual who owes child or spousal support obligation, and redesignated par. (20) as (19).
 
 <b>1981</b>—Pub. L. 97–35, §2332(d)(2), substituted in provision preceding par. (1) "child and spousal support" for "child support".
 
@@ -604,7 +604,7 @@ Pub. L. 98–378, §15, Aug. 16, 1984, 98 Stat. 1320, provided that:
 
 "(c) It shall be the function of each State Commission to examine, investigate, and study the operation of the State's child support system for the primary purpose of determining the extent to which such system has been successful in securing support and parental involvement both for children who are eligible for aid under a State plan approved under part A of title IV of such Act \[42 U.S.C. 601 et seq.\] and for children who are not eligible for such aid, giving particular attention to such specific problems (among others) as visitation, the establishment of appropriate objective standards for support, the enforcement of interstate obligations, the availability, cost, and effectiveness of services both to children who are eligible for such aid and to children who are not, and the need for additional State or Federal legislation to obtain support for all children.
 
-"(d) Each State Commission shall submit to the Governor of the State and make available to the public, no later than October 1, 1985, a full and complete report of its findings and recommendations resulting from the examination, investigation, and study under this section. The Governor shall transmit such report to the Secretary of Health and Human Services along with the Governor's comments thereon.
+"(d) Each State Commission shall submit to the Governor of the State and make available to the public, no later than October 1, 1985, a full and complete report of its findings and recommendations resulting from theexamination, investigation, and study under this section. The Governor shall transmit such report to the Secretary of Health and Human Services along with the Governor's comments thereon.
 
 "(e) None of the costs incurred in the establishment and operation of a State Commission under this section, or incurred by such a Commission in carrying out its functions under subsections (c) and (d), shall be considered as expenditures qualifying for Federal payments under part A or D of title IV of the Social Security Act \[42 U.S.C. 601 et seq., 651 et seq.\] or be otherwise payable or reimbursable by the United States or any agency thereof.
 

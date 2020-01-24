@@ -6,7 +6,7 @@ The Commission shall assess and collect regulatory fees to recover the costs of 
 
 #### (b) Establishment of schedule
 
-The Commission shall assess and collect regulatory fees at such rates as the Commission shall establish in a schedule of regulatory fees that will result in the collection, in each fiscalyear, of an amount that can reasonably be expected to equal the amounts described in subsection (a) with respect to such fiscal year.
+The Commission shall assess and collect regulatory fees at such rates as the Commissionshall establish in a schedule of regulatory fees that will result in the collection, in each fiscal year, of an amount that can reasonably be expected to equal the amounts described in subsection (a) with respect to such fiscal year.
 
 #### (c) Adjustment of schedule
 

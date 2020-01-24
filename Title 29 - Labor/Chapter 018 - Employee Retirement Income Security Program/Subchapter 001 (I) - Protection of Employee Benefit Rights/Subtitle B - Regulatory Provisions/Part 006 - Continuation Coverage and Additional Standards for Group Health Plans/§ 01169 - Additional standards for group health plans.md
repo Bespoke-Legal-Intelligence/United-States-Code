@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each group health plan shall provide benefits in accordance with the applicable requirements of any qualified medical child support order. A qualified medical child support order with respect to any participant or beneficiary shall be deemed to apply to each group health plan which has received such order, from which the participant or beneficiary is eligible to receive benefits, and with respect to which the requirements of paragraph (4) are met.
+&emsp;Each group health plan shall provide benefits in accordance with the applicable requirements of any qualified medical child supportorder. A qualified medical child support order with respect to any participant or beneficiary shall be deemed to apply to each group health plan which has received such order, from which the participant or beneficiary is eligible to receive benefits, and with respect to which the requirements of paragraph (4) are met.
 
 #### (2) Definitions
 
@@ -122,13 +122,13 @@
 
 #### (3) Acquisition by States of rights of third parties
 
-&emsp;A group health plan shall provide that, to the extent that payment has been made under a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in any case in which a group health plan has a legal liability to make payment for items or services constituting such assistance, payment for benefits under the plan will be made in accordance with any State law which provides that the State has acquired the rights with respect to a participant to such payment for such items or services.
+&emsp;A group health plan shall provide that, to the extent that payment has been made under a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in any case in which a group health plan has a legal liability to makepayment for items or services constituting such assistance, payment for benefits under the plan will be made in accordance with any State law which provides that the State has acquired the rights with respect to a participant to such payment for such items or services.
 
 #### (c) Group health plan coverage of dependent children in cases of adoption
 
 #### (1) Coverage effective upon placement for adoption
 
-&emsp;In any case in which a group health plan provides coverage for dependent children of participants or beneficiaries, such plan shall provide benefits to dependent children placed with participants or beneficiaries for adoption under the same terms and conditions as applyin the case of dependent children who are natural children of participants or beneficiaries under the plan, irrespective of whether the adoption has become final.
+&emsp;In any case in which a group health plan provides coverage for dependent children of participants or beneficiaries, such plan shall provide benefits to dependent children placed with participants or beneficiaries for adoption under the same terms and conditions as apply in the case of dependent children who are natural children of participants or beneficiaries under the plan, irrespective of whether the adoption has become final.
 
 #### (2) Restrictions based on preexisting conditions at time of placement for adoption prohibited
 
@@ -158,7 +158,7 @@ Any regulations prescribed under this section shall be prescribed by the Secreta
 
 #### References in Text
 
-Section 401(b) of the Child Support Performance and Incentive Act of 1998, referred to in subsec. (a)(5)(C)(i), is section 401(b) of Pub. L. 105–200, which is set out as a note under section 651 of Title 42, The Public Health and Welfare.
+Section 401(b) of the Child Support Performance and Incentive Act of 1998, referred to in subsec. (a)(5)(C)(i), is section 401(b) of Pub. L. 105–200, which was formerly set out as a note under section 651 of Title 42, The Public Health and Welfare.
 
 This chapter, referred to in subsec. (a)(7)(A), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -308,7 +308,7 @@ Medical child support order.—The term 'medical child support order' means any 
 
 &emsp;&emsp;&emsp;"(ii) is made pursuant to a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 \[13623\] of the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66\]) with respect to a church group health plan,
 
-&nbsp;&nbsp;if such judgment, decree, or order: (I) is issued by a court of competent jurisdiction; or (II) is issuedthrough an administrative process established under State law and has the force and effect of law under applicable State law. For purposes of this paragraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and which has the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.
+&nbsp;&nbsp;if such judgment, decree, or order: (I) is issued by a court of competent jurisdiction; or (II) is issued through an administrative process established under State law and has the force and effect of law under applicable State law. For purposes of this paragraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and which has the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.
 
 &emsp;&emsp;"(D)
 
@@ -384,7 +384,7 @@ Rule of construction.—Nothing in this subparagraph shall be construed as requi
 
 &emsp;"(6)
 
-Direct provision of benefits provided to alternate recipients.—Any payment for benefits made by a church group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient's custodial parent or legal guardian shall be made to the alternate recipient or the alternate recipient's custodial parent or legal guardian.
+Direct provision of benefits provided to alternate recipients.—Any payment for benefits made by a church group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient's custodial parent or legal guardian shall be madeto the alternate recipient or the alternate recipient's custodial parent or legal guardian.
 
 &emsp;"(7)
 
@@ -396,7 +396,7 @@ Effective date.—The provisions of this subsection shall take effect on the dat
 
 "(g)
 
-Report and Recommendations Regarding the Enforcement of Qualified Medical Child SupportOrders.—Not later than 8 months after the issuance of the report to the Congress pursuant to subsection (a)(5) \[section 401(a)(5) of Pub. L. 105–200, 42 U.S.C. 651 note\], the Secretary of Health and Human Services and the Secretary of Labor shall jointly submit to each House of the Congress a report containing recommendations for appropriate legislation to improve the effectiveness of, and enforcement of, qualified medical child support orders under the provisions of subsection (f) of this section and section 609(a) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1169(a))."
+Report and Recommendations Regarding the Enforcement of Qualified Medical Child Support Orders.—Not later than 8 months after the issuance of the report to the Congress pursuant to subsection (a)(5) \[section 401(a)(5) of Pub. L. 105–200, 42 U.S.C. 651 note\], the Secretary of Health and Human Services and the Secretary of Labor shall jointly submit to each House of the Congress a report containing recommendations for appropriate legislation to improve the effectiveness of, and enforcement of, qualified medical child support orders under the provisions of subsection (f) of this section and section 609(a) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1169(a))."
 
 #### Plan Amendments Not Required Until January 1, 1994
 

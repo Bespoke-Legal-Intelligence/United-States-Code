@@ -18,7 +18,7 @@ This part, referred to in subsec. (b), commences with section 351 of this title.
 
 <b>1954</b>—Act Aug. 13, 1954, §2(a)(1), amended credit to section by changing section number from "359" to "361" of act June 19, 1934.
 
-Subsec. (b). Act Aug. 13, 1954, §2(f), amended subsection generally to provide, among other changes, that certificates of compliance be issued "upon request to any vessel" and to provide that safety radiotelegraph certificates and safety radiotelephony certificates and certain exemption certificates be issued by the Federal Communications Commission.
+Subsec. (b). Act Aug. 13, 1954, §2(f), amended subsection generally to provide, among other changes, that certificates of compliance be issued "upon requestto any vessel" and to provide that safety radiotelegraph certificates and safety radiotelephony certificates and certain exemption certificates be issued by the Federal Communications Commission.
 
 #### Effective Date
 
@@ -26,7 +26,7 @@ Section effective May 20, 1937, see section 16 of act May 20, 1937, set out as a
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
 

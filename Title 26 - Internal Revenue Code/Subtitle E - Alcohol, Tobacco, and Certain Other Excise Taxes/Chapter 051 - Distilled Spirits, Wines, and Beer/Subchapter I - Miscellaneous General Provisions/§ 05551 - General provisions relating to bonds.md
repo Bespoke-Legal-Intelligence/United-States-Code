@@ -8,7 +8,7 @@ Except as provided under subsection (d), no individual, firm, partnership, corpo
 
 The Secretary of the Treasury or any officer designated by him may disapprove any such bond or bonds if the individual, firm, partnership, or corporation, or association giving such bond or bonds, or owning, controlling, or actively participating in the management of the business of the individual, firm, partnership, corporation, or association giving such bond or bonds, shall have been previously convicted, in a court of competent jurisdiction, of—
 
-&emsp;(1) any fraudulent noncompliance with any provision of any law of the United States, if such provision related to internal revenue orcustoms taxation of distilled spirits, wines, or beer, or if such an offense shall have been compromised with the individual, firm, partnership, corporation, or association on payment of penalties or otherwise, or
+&emsp;(1) any fraudulent noncompliance with any provision of any law of the United States, if such provision related to internal revenue or customs taxation of distilled spirits, wines, or beer, or if such an offense shall have been compromised with the individual, firm, partnership, corporation, or association on payment of penalties or otherwise, or
 
 &emsp;(2) any felony under a law of any State, or the District of Columbia, or the United States, prohibiting the manufacture, sale, importation, or transportation of distilled spirits, wine, beer, or other intoxicating liquor.
 
@@ -20,7 +20,7 @@ In case the disapproval is by an officer designated by the Secretary of the Trea
 
 #### (1) In general
 
-&emsp;During any period to which subparagraph (A) of section 5061(d)(4) applies to a taxpayer (determined after application of subparagraph (B) thereof), such taxpayer shall not be required to furnish any bond covering operations or withdrawals of distilled spirits or wines for nonindustrial use or of beer.
+&emsp;During any period to which subparagraph (A) of section 5061(d)(4) applies to a taxpayer\(determined after application of subparagraph (B) thereof), such taxpayer shall not be required to furnish any bond covering operations or withdrawals of distilled spirits or wines for nonindustrial use or of beer.
 
 #### (2) Satisfaction of bond requirements
 

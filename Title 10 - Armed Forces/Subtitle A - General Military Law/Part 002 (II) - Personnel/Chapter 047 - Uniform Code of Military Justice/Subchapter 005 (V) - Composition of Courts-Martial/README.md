@@ -19,7 +19,7 @@
 
 <b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), (B), Dec. 12, 2017, 131 Stat. 1601, amended Pub. L. 114–328, §5541(2). See 2016 Amendment note below.
 
-<b>2016</b>—Pub. L. 114–328, div. E, title LXIII, §5541(2), Dec. 23, 2016, 130 Stat. 2965, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), (B), Dec. 12, 2017, 131Stat. 1601, added items 825a, 826a, and 829 and struck out former items 825a "Art. 25a. Number of members in capital cases" and 829 "Art. 29. Absent and additional members".
+<b>2016</b>—Pub. L. 114–328, div. E, title LXIII, §5541(2), Dec. 23, 2016, 130 Stat. 2965, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), (B), Dec. 12, 2017, 131 Stat. 1601, added items 825a, 826a, and 829 and struck out former items 825a "Art. 25a. Number of members in capital cases" and 829 "Art. 29. Absent and additional members".
 
 <b>2001</b>—Pub. L. 107–107, div. A, title V, §582(b)(2), Dec. 28, 2001, 115 Stat. 1124, added item 825a.
 

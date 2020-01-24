@@ -98,7 +98,7 @@
 
 #### (d) Joint loans or grants for private business enterprises; restrictions; system of certification for expeditious processing of requests for assistance; prior approval of grant or loan; equity investment as condition for loan commitment; issuance of certificates of beneficial ownership of notes
 
-(1) The Secretary may participate in joint financing to facilitate development of privatebusiness enterprises in rural areas with the Economic Development Administration, the Small Business Administration, and the Department of Housing and Urban Development and other Federal and State agencies and with private and quasi-public financial institutions, through joint loans to applicants eligible under subsection (a) for the purpose of improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural areas or through joint grants to applicants eligible under subsection (c) for such purposes, including in the case of loans or grants the development, construction, or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refining, service and fees.
+(1) The Secretary may participate in joint financing to facilitate development of private business enterprises in rural areas with the Economic Development Administration, the Small Business Administration, and the Department of Housing and Urban Development and other Federal and State agencies and with private and quasi-public financial institutions, through joint loans to applicants eligible under subsection (a) for the purpose of improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural areas or through joint grants to applicants eligible under subsection (c) for such purposes, including in the case of loans or grants the development, construction, or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refining, service and fees.
 
 (2) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, that is calculated to or is likely to result in the transfer from one area to another of any employment or business activity provided by operations of the applicant, but this limitation shall not be construed to prohibit assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary of such entity if the establishment of such branch, affiliate, or subsidiary will not result in an increase in unemployment in the area of original location or in any other area where such entity conducts business operations unless there is reason to believe that such branch, affiliate, or subsidiary is being established with the intention of closing down the operations of the existing business entity in the area of its original location or in any other area where it conducts such operations.
 
@@ -136,7 +136,7 @@
 
 #### (4) Application
 
-&emsp;Any nonprofit institution seeking a grant under paragraph (2) shall submit to the Secretary an application containing a plan for theestablishment and operation by the institution of a center or centers for cooperative development. The Secretary may approve the application if the plan contains the following:
+&emsp;Any nonprofit institution seeking a grant under paragraph (2) shall submit to the Secretary an application containing a plan for the establishment and operation by the institution of a center or centers for cooperative development. The Secretary may approve the application if the plan contains the following:
 
 &emsp;&emsp;(A) A provision that substantiates that the center will effectively serve rural areas in the United States.
 
@@ -204,7 +204,7 @@
 
 #### (8) Technical assistance to prevent excessive unemployment or underemployment
 
-&emsp;In carrying out this subsection, the Secretary may provide technical assistance to alleviate or prevent conditions of excessive unemployment, underemployment, outmigration, or low employment growth in economically distressed rural areas that the Secretary determines have a substantial need for the assistance. The assistance may include planningand feasibility studies, management and operational assistance, and studies evaluating the need for development potential of projects that increase employment and improve economic growth in the areas.
+&emsp;In carrying out this subsection, the Secretary may provide technical assistance to alleviate or prevent conditions of excessive unemployment, underemployment, outmigration, or low employment growth in economically distressed rural areas that the Secretary determines have a substantial need for the assistance. The assistance may include planning and feasibility studies, management and operational assistance, and studies evaluating the need for development potential of projects that increase employment and improve economic growth in the areas.
 
 #### (9) Grants to defray administrative costs
 
@@ -212,7 +212,7 @@
 
 #### (10) Cooperative research program
 
-&emsp;The Secretary shall enter into a cooperative research agreement with 1 or more qualified academic institutions in each fiscal year to conduct research (including research and analysis based on data from the latest available Economic Census conducted by the Bureau of the Census) on the effects of all types of cooperatives on the national economy.
+&emsp;The Secretary shall enter into a cooperative research agreement with 1 or more qualifiedacademic institutions in each fiscal year to conduct research (including research and analysis based on data from the latest available Economic Census conducted by the Bureau of the Census) on the effects of all types of cooperatives on the national economy.
 
 #### (11) Addressing needs of minority communities
 
@@ -294,7 +294,7 @@
 
 #### (5) Fees
 
-&emsp;The Secretary may assess a 1-time fee for any guaranteed business and industry loan in an amount that does not exceed 2 percent of the guaranteed principal portion of the loan.
+&emsp;The Secretary may assess a 1-time fee for any guaranteed business and industry loan inan amount that does not exceed 2 percent of the guaranteed principal portion of the loan.
 
 #### (6) Loan guarantees in nonrural areas
 
@@ -370,7 +370,7 @@
 
 &emsp;&emsp;&emsp;The term "underserved community" means a community (including an urban or rural community and an Indian tribal community) that has, as determined by the Secretary—
 
-&emsp;&emsp;&emsp;&emsp;(I) limited access to affordable, healthy foods, including fresh fruits andvegetables, in grocery retail stores or farmer-to-consumer direct markets; and
+&emsp;&emsp;&emsp;&emsp;(I) limited access to affordable, healthy foods, including fresh fruits and vegetables, in grocery retail stores or farmer-to-consumer direct markets; and
 
 &emsp;&emsp;&emsp;&emsp;(II) a high rate of hunger or food insecurity or a high poverty rate.
 
@@ -382,7 +382,7 @@
 
 #### (ii) Requirement
 
-&emsp;&emsp;&emsp;The recipient of a loan or loan guarantee under clause (i) shall include in an appropriate agreement with retail and institutional facilities to which the recipient sells locally or regionally produced agricultural food products a requirement to inform consumers of the retail or institutional facilities that the consumers are purchasing or consuming locally or regionally produced agricultural food products.
+&emsp;&emsp;&emsp;The recipient of a loan or loan guarantee under clause (i) shall include in an appropriate agreement with retail and institutional facilities to which the recipientsells locally or regionally produced agricultural food products a requirement to inform consumers of the retail or institutional facilities that the consumers are purchasing or consuming locally or regionally produced agricultural food products.
 
 #### (iii) Priority
 
@@ -448,7 +448,7 @@ The Secretary may guarantee loans made under subsection (a) to finance the issua
 
 Effective beginning on the date of enactment of this subsection through September 30, 2023, the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.
 
-(Pub. L. 87–128, title III, §310B, as added Pub. L. 92–419, title I, §118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, §817, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, §1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, §112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, §5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, §1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, §2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, §1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, §701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, §516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, §6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§635(b), 661(d), title VII, §§705(1), 747(a), 759B, Apr. 4, 1996, 110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600;Pub. L. 107–171, title VI, §§6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359; Pub. L. 110–234, title VI, §§6012(a), (b)(2), 6013–6017, May 22, 2008, 122 Stat. 1164–1169; Pub. L. 110–246, §4(a), title VI, §§6012(a), (b)(2), 6013–6017, June 18, 2008, 122 Stat. 1664, 1925, 1927–1931; Pub. L. 113–79, title VI, §§6010(a), (b), 6011, 6012(a), 6013–6016, Feb. 7, 2014, 128 Stat. 843–845; Pub. L. 113–188, title I, §101(c), Nov. 26, 2014, 128 Stat. 2017; Pub. L. 115–334, title VI, §§6410–6415, 6601(a)(1)(B), 6701(c), (d)(1), Dec. 20, 2018, 132 Stat. 4762, 4775, 4778.)
+(Pub. L. 87–128, title III, §310B, as added Pub. L. 92–419, title I, §118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, §817, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, §1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, §112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, §5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, §1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, §2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, §1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, §701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, §516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, §6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§635(b), 661(d), title VII, §§705(1), 747(a), 759B, Apr. 4, 1996, 110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600; Pub. L. 107–171, title VI, §§6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359; Pub. L. 110–234, title VI, §§6012(a), (b)(2), 6013–6017, May 22, 2008, 122 Stat. 1164–1169; Pub. L. 110–246, §4(a), title VI, §§6012(a), (b)(2), 6013–6017, June 18, 2008, 122 Stat. 1664, 1925, 1927–1931; Pub. L. 113–79, title VI, §§6010(a), (b), 6011, 6012(a), 6013–6016, Feb. 7, 2014, 128 Stat. 843–845; Pub. L. 113–188, title I, §101(c), Nov. 26, 2014, 128 Stat. 2017; Pub. L. 115–334, title VI, §§6410–6415, 6601(a)(1)(B), 6701(c), (d)(1), Dec. 20, 2018, 132 Stat. 4762, 4775, 4778.)
 
 #### References in Text
 
@@ -522,7 +522,7 @@ Subsec. (e)(5)(D), (E). Pub. L. 110–246, §6013(a)(3)–(6), added subpar. (E)
 
 Subsec. (e)(5)(F). Pub. L. 110–246, §6013(a)(7), struck out "greater than" before "a 25 percent".
 
-Subsec. (e)(6). Pub. L. 110–246, §6013(b), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: "The Secretary shall make grantsunder this subsection for a period of 1 year. The Secretary shall evaluate programs receiving assistance under this subsection. If the Secretary determines it to be in the best interest of the program, the Secretary may award an additional grant to the program for the immediately succeeding year without application for the grant."
+Subsec. (e)(6). Pub. L. 110–246, §6013(b), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: "The Secretary shall make grants under this subsection for a period of 1 year. The Secretary shall evaluate programs receiving assistance under this subsection. If the Secretary determines it to be in the best interest of the program, the Secretary may award an additional grant to the program for the immediately succeeding year without application for the grant."
 
 Subsec. (e)(7) to (12). Pub. L. 110–246, §6013(c)–(f), added pars. (7), (10), and (11), redesignated former pars. (7) to (9) as (8), (9), and (12), respectively, and in par. (12), substituted "2008 through 2012" for "1996 through 2007".
 
@@ -602,7 +602,7 @@ Subsec. (h). Pub. L. 104–127, §747(a)(5), struck out subsec. (h) which read a
 
 Pub. L. 104–127, §705(1), made technical amendment to directory language of Pub. L. 101–624, §2347(a). See 1990 Amendment note below.
 
-Subsec. (i). Pub. L. 104–127, §747(a)(5), struck out subsec. (i) which authorized making of loans at low interest rates and at market rates to 1 or more businesses,local governments, or public agencies in rural areas to fund facilities in which recipients of such loans share telecommunications terminal equipment, computers, computer software, and computer hardware.
+Subsec. (i). Pub. L. 104–127, §747(a)(5), struck out subsec. (i) which authorized making of loans at low interest rates and at market rates to 1 or more businesses, local governments, or public agencies in rural areas to fund facilities in which recipients of such loans share telecommunications terminal equipment, computers, computer software, and computer hardware.
 
 Subsec. (j). Pub. L. 104–127, §747(a)(6), redesignated subsec. (j) as (f).
 
@@ -612,7 +612,7 @@ Pub. L. 102–552, which directed the substitution of "business enterprises or t
 
 <b>1991</b>—Subsec. (d)(5), (7). Pub. L. 102–237, §701(h)(1)(C), (D), substituted "this chapter" for "this Act".
 
-Subsec. (f)(4). Pub. L. 102–237, §701(c)(3), (4), redesignated par. (4), relating to grants to statewide private nonprofit public television systems, as subsec. (j), and transferred such provision to follow subsec. (i).
+Subsec. (f)(4). Pub. L. 102–237, §701(c)(3), (4), redesignated par. (4), relating to grants to statewide privatenonprofit public television systems, as subsec. (j), and transferred such provision to follow subsec. (i).
 
 Subsec. (i)(2)(B)(iv). Pub. L. 102–237, §701(c)(1), substituted "(iii) of this subparagraph" for "(ii) of this subsection".
 
@@ -696,7 +696,7 @@ Pub. L. 113–79, title VI, §6010(c), Feb. 7, 2014, 128 Stat. 843, provided tha
 
 #### Business Development
 
-Pub. L. 101–624, title XXIII, §2336, Nov. 28, 1990, 104 Stat. 4022, provided that: "The purposes of this chapter \[chapter 2 (§§2336, 2337) of subtitle D of title XXIII of Pub. L. 101–624, amending this section\] are to—
+Pub. L. 101–624, title XXIII, §2336, Nov. 28, 1990, 104 Stat. 4022, provided that: "The purposes of this chapter\[chapter 2 (§§2336, 2337) of subtitle D of title XXIII of Pub. L. 101–624, amending this section\] are to—
 
 &emsp;"(1) provide funds to improve telecommunications service in rural areas; and
 

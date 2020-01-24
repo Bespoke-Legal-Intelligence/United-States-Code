@@ -16,7 +16,7 @@ Waivers.—(1) If, not later than July 1, 1999, at least 85 percent of the aircr
 
 Schedule for Phased-In Compliance.—The Secretary shall establish by regulation a schedule for phased-in compliance with subsection (a) of this section. The phase-in period shall begin on November 5, 1990, and end before December 31, 1999. The regulations shall establish interim compliance dates. The schedule for phased-in compliance shall be based on—
 
-&emsp;(1) a detailed economic analysis of the impact of the phaseout date for stage 2 aircrafton competition in the airline industry, including—
+&emsp;(1) a detailed economic analysis of the impact of the phaseout date for stage 2 aircraft on competition in the airline industry, including—
 
 &emsp;&emsp;(A) the ability of air carriers to achieve capacity growth consistent with the projected rate of growth for the airline industry;
 
@@ -158,5 +158,5 @@ Pub. L. 106–181, title VII, §721(a), Apr. 5, 2000, 114 Stat. 164, provided th
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to the requirement that the Secretary submit an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 7th item on page 132 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to the requirement that the Secretary submit an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Moneyand Finance, and the 7th item on page 132 of House Document No. 103–7.
 

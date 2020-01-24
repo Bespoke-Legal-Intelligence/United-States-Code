@@ -152,9 +152,9 @@ Subsec. (b). Pub. L. 105–85, §621(b), amended subsec. (b) generally. Prior to
 
 &emsp;"(2) a subsequent payment of not to exceed $416.66 upon the completion of each year of the period of such reenlistment or extension of enlistment during which such member has satisfactorily participated in training with his unit."
 
-Subsec. (c). Pub. L. 105–85, §621(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: "No member shall be paid more than one bonus under this section."
+Subsec. (c). Pub. L. 105–85, §621(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "No member shall be paid more than one bonus under this section."
 
-Subsec. (d). Pub. L. 105–85, §621(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "A member who fails to participate satisfactorily in training with his unit during a term of enlistment for which a bonus is being paid to him under this section shall refund an amount equal to the amount by which the amount of such bonus exceeds the product of—
+Subsec. (d). Pub. L. 105–85, §621(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read asfollows: "A member who fails to participate satisfactorily in training with his unit during a term of enlistment for which a bonus is being paid to him under this section shall refund an amount equal to the amount by which the amount of such bonus exceeds the product of—
 
 &emsp;"(1) the number of months during that term of enlistment during which such member participated satisfactorily in training with his unit; and
 

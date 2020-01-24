@@ -30,7 +30,7 @@ Documents of Title or Other Property Interests.—The head of the agency concern
 
 (c)
 
-Solicitation of Offers To Purchase Certain Facilities.—In connection with solicitingoffers to purchase long-lines facilities of the Alaska Communication System, the Secretary of Defense shall—
+Solicitation of Offers To Purchase Certain Facilities.—In connection with soliciting offers to purchase long-lines facilities of the Alaska Communication System, the Secretary of Defense shall—
 
 &emsp;(1) provide any prospective purchaser who requests it data on—
 

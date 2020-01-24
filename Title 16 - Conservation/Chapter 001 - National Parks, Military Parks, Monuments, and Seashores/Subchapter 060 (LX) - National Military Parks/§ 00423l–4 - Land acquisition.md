@@ -18,7 +18,7 @@
 
 #### (2) Inside boundaries
 
-&emsp;To the extent practicable, and if preferred by a willing landowner, the Secretary shall use permanent conservation easements to acquire interests in land in lieu of acquiring land in fee simple and thereby removing land from non-Federal ownership.
+&emsp;To the extent practicable, and if preferred by a willing landowner, the Secretary shalluse permanent conservation easements to acquire interests in land in lieu of acquiring land in fee simple and thereby removing land from non-Federal ownership.
 
 #### (c) Visitor center
 

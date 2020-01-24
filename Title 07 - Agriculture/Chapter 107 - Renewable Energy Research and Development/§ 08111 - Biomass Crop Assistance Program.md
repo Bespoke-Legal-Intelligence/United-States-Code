@@ -62,7 +62,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "eligible material" means renewable biomass harvested directly from the land, including crop residue from any crop that is eligible to receive payments undertitle I of the Agricultural Act of 2014 \[7 U.S.C. 9001 et seq.\] or an amendment made by that title.
+&emsp;&emsp;The term "eligible material" means renewable biomass harvested directly from the land, including crop residue from any crop that is eligible to receive payments under title I of the Agricultural Act of 2014 \[7 U.S.C. 9001 et seq.\] or an amendment made by that title.
 
 #### (B) Inclusions
 
@@ -228,7 +228,7 @@ The Secretary shall establish and administer a Biomass Crop Assistance Program t
 
 &emsp;&emsp;&emsp;(i) an agreement to make available to the Secretary, or to an institution of higher education or other entity designated by the Secretary, such information as the Secretary considers to be appropriate to promote the production of eligible crops and the development of biomass conversion technology;
 
-&emsp;&emsp;&emsp;(ii) compliance with the highly erodible land conservation requirements of subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.) and the wetland conservation requirements of subtitle C of title XII of that Act (16 U.S.C. 3821 et seq.);
+&emsp;&emsp;&emsp;(ii) compliance with the highly erodible land conservation requirements of subtitle B of title XII of the Food Security Act of1985 (16 U.S.C. 3811 et seq.) and the wetland conservation requirements of subtitle C of title XII of that Act (16 U.S.C. 3821 et seq.);
 
 &emsp;&emsp;&emsp;(iii) the implementation of (as determined by the Secretary)—
 

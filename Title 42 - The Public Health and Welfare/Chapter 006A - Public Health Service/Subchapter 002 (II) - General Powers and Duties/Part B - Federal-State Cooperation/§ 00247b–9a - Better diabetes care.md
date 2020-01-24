@@ -58,7 +58,7 @@ This section may be cited as the "Catalyst to Better Diabetes Care Act of 2009".
 
 #### (2) Report
 
-&emsp;Not later than 2 years after March 23, 2010, the Secretary shall submit a report on thestudy under paragraph (1) to the Committees on Ways and Means and Energy and Commerce of the House of Representatives and the Committees on Finance and Health, Education, Labor, and Pensions of the Senate.
+&emsp;Not later than 2 years after March 23, 2010, the Secretary shall submit a report on the study under paragraph (1) to the Committees on Ways and Means and Energy and Commerce of the House of Representatives and the Committees on Finance and Health, Education, Labor, and Pensions of the Senate.
 
 #### (e) Authorization of appropriations
 

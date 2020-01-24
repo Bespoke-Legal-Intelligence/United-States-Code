@@ -26,7 +26,7 @@ If a franchisor fails to comply with the requirements of section 2802, 2803, or 
 
 (4) In any action under subsection (a), the court need not exercise its equity powers to compel continuation or renewal of the franchise relationship if such action was commenced—
 
-&emsp;(A) more than 90 days after the date on which notification pursuant to section 2804(a) of this title was posted or personally delivered to the franchisee;
+&emsp;(A) more than 90 days after the date on which notification pursuant to section 2804(a)of this title was posted or personally delivered to the franchisee;
 
 &emsp;(B) more than 180 days after the date on which notification pursuant to section 2804(b)(2) of this title was posted or personally delivered to the franchisee; or
 

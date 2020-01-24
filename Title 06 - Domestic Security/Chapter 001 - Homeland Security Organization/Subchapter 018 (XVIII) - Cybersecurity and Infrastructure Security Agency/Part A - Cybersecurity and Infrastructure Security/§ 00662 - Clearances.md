@@ -1,6 +1,6 @@
 ### §662. Clearances
 
-The Secretary shall make available the process of application for security clearances under Executive Order 13549 (75 Fed. Reg. 162; <sup>1</sup> relating to a classified national security information program) or any successor Executive Order to appropriate representatives of sector coordinating councils, sector information sharing andanalysis organizations (as defined in section 671(5) of this title), owners and operators of critical infrastructure, and any other person that the Secretary determines appropriate.
+The Secretary shall make available the process of application for security clearances under Executive Order 13549 (75 Fed. Reg. 162; <sup>1</sup> relating to a classified national security information program) or any successor Executive Order toappropriate representatives of sector coordinating councils, sector information sharing and analysis organizations (as defined in section 671(5) of this title), owners and operators of critical infrastructure, and any other person that the Secretary determines appropriate.
 
 (Pub. L. 107–296, title XXII, §2212, formerly title II, §229, formerly §228, as added Pub. L. 113–282, §7(a), Dec. 18, 2014, 128 Stat. 3070; renumbered §229, Pub. L. 114–113, div. N, title II, §223(a)(1), Dec. 18, 2015, 129 Stat. 2963; renumbered title XXII, §2212, and amended Pub. L. 115–278, §2(g)(2)(I), (9)(A)(vi), Nov. 16, 2018, 132 Stat. 4178, 4181.)
 

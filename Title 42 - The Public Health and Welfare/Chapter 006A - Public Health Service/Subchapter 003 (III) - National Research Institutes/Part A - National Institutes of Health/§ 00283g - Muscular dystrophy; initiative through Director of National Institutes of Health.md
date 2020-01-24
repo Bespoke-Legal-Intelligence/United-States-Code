@@ -52,7 +52,7 @@ The Director of NIH shall provide for a program under subsection (a)(1) under wh
 
 &emsp;&emsp;(A) 2/3 of such members shall represent governmental agencies, including the directors or their designees of each of the national research institutes involved in research with respect to muscular dystrophy and representatives of all other Federal departments and agencies whose programs involve health functions or responsibilities relevant to such diseases, including the Centers for Disease Control and Prevention, the Health Resources and Services Administration, the Food and Drug Administration, and the Administration for Community Living and representatives of other governmental agencies that serve children and adults with muscular dystrophy, including the Department of Education and the Social Security Administration; and
 
-&emsp;&emsp;(B) 1/3 of such members shall be public members, including a broad cross section of persons affected with muscular dystrophiesincluding parents or legal guardians, affected individuals, researchers, and clinicians.
+&emsp;&emsp;(B) 1/3 of such members shall be public members, including a broad cross section of persons affected with muscular dystrophies including parents or legal guardians, affected individuals, researchers, and clinicians.
 
 > &emsp;Members appointed under subparagraph (B) shall serve for a term of 3 years, and may serve for an unlimited number of terms if reappointed.
 

@@ -8,7 +8,7 @@
 
 #### (2) Content
 
-&emsp;The Secretary shall conduct 1 or more pilot projects under paragraph (1) in coordination with the processed food sector and 1 or more such pilot projects in coordination with processors or distributors of fruits and vegetables that are raw agricultural commodities. The Secretary shall ensure that the pilot projectsunder paragraph (1) reflect the diversity of the food supply and include at least 3 different types of foods that have been the subject of significant outbreaks during the 5-year period preceding January 4, 2011, and are selected in order to—
+&emsp;The Secretary shall conduct 1 or more pilot projects under paragraph (1) in coordination with the processed food sector and 1 or more such pilot projects in coordination with processors or distributors of fruits and vegetables that are raw agricultural commodities. The Secretary shall ensure that the pilot projects under paragraph (1) reflect the diversity of the food supply and include at least 3 different types of foods that have been the subject of significant outbreaks during the 5-year period preceding January 4, 2011, and are selected in order to—
 
 &emsp;&emsp;(A) develop and demonstrate methods for rapid and effective tracking and tracing of foods in a manner that is practicable for facilities of varying sizes, including small businesses;
 
@@ -122,7 +122,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 #### (5) Retention of records
 
-&emsp;Except as otherwise provided in this subsection, the Secretary may require that a facility retain records under this subsection for not more than 2 years, taking into consideration the risk of spoilage, loss of value, or loss of palatability of the applicable food when determining the appropriate timeframes.
+&emsp;Except as otherwise provided in this subsection, the Secretary may require that a facility retain records under this subsection for not more than 2 years, taking into consideration the risk of spoilage, loss of value, or lossof palatability of the applicable food when determining the appropriate timeframes.
 
 #### (6) Limitations
 

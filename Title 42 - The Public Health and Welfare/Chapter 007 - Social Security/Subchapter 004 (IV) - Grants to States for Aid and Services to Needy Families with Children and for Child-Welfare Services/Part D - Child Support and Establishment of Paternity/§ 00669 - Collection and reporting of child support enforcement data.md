@@ -10,7 +10,7 @@ With respect to each type of service described in subsection (b), the Secretary 
 
 #### (b) Types of services
 
-The statistics required by subsection (a) shall be separately stated with respect to paternity establishment services and child support obligation establishment services.
+The statistics required by subsection (a) shall be separately stated with respect to paternityestablishment services and child support obligation establishment services.
 
 #### (c) Types of service recipients
 

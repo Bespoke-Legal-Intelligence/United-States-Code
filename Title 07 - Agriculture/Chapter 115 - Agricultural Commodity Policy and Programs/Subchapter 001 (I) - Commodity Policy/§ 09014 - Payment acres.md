@@ -58,7 +58,7 @@
 
 #### (D) Treatment of residual generic base acres
 
-&emsp;&emsp;In the case of a farm on which generic base acres are allocated under subparagraph (C)(i), the residual generic base acres shall be allocated to unassigned crop base for which no payments may be made under section 9016 or 9017 of this title.
+&emsp;&emsp;In the case of a farm on which generic base acres are allocated under subparagraph\(C)(i), the residual generic base acres shall be allocated to unassigned crop base for which no payments may be made under section 9016 or 9017 of this title.
 
 #### (E) Effect of failure to allocate
 

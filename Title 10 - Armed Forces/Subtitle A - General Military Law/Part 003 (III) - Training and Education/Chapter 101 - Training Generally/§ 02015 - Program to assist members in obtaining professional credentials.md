@@ -84,6 +84,60 @@ Subsec. (c)(2). Pub. L. 114–328, §561(b)(2), added par. (2) and struck out fo
 
 <b>2014</b>—Pub. L. 113–291 amended section generally. Prior to amendment, section related to payment of certain expenses to obtain professional credentials.
 
+#### Programs To Facilitate the Award of Private Pilot's Certificates
+
+Pub. L. 116–92, div. A, title V, §560B, Dec. 20, 2019, 133 Stat. 1393, provided that:
+
+"(a)
+
+Programs Authorized.—Each Secretary of a military department may carry out a program under which qualified participants may obtain a private pilot's certificate through an institution of higher education with an accredited aviation program that is approved by such Secretary pursuant to subsection (c).
+
+"(b)
+
+Participant Qualifications and Types of Assistance.—
+
+&emsp;"(1)
+
+In general.—In carrying out a program under subsection (a), the Secretary of a military department shall prescribe—
+
+&emsp;&emsp;"(A) the standards to be met for participation in the program; and
+
+&emsp;&emsp;"(B) the types of assistance, if any, to be provided to individuals who participate in the program.
+
+&emsp;"(2)
+
+Uniformity across military departments.—To the extent practicable, the standards and types of assistance prescribed under paragraph (1) shall be uniform across the military departments.
+
+"(c)
+
+Approved Institutions of Higher Education.—
+
+&emsp;"(1)
+
+In general.—In carrying out a program under subsection (a), the Secretary of a military department shall maintain a list of institutions of higher education (as that term is defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) through which an individual participating in the program may obtain a private pilot's certificate.
+
+&emsp;"(2)
+
+Qualifications and standards.—Any institution of higher education included on a list under paragraph (1), and any course of instruction toward obtaining a private pilot's certificate offered by such institution, shall meet such qualifications and standards as the Secretary shall prescribe for purposes of the program. Such qualifications and standards shall include a requirement that any institution included on the list award, to individual participating in the program, academic credit at such institution for any portion of course work completed on the ground school course of instruction of such institution in connection with obtaining a private pilot's certificate, regardless of whether the participant fully completed the ground school course of instruction.
+
+"(d)
+
+Annual Reports on Programs.—
+
+&emsp;"(1)
+
+In general.—Not later than February 28, 2021, and each year thereafter, each Secretary of a military department shall submit to Congress a report on the program, if any, carried out by such Secretary under subsection (a) during the preceding calendar year.
+
+&emsp;"(2)
+
+Elements.—Each report under paragraph (1) shall include, for the program and year covered by such report, the following:
+
+&emsp;&emsp;"(A) The total number of participants in the program.
+
+&emsp;&emsp;"(B) The number of private pilot's certificates awarded to participants in the program.
+
+&emsp;&emsp;"(C) The number of participants in the program who fully completed a ground school course of instruction in connection with obtaining a private pilot's certificate."
+
 #### Pilot Program on Earning by Special Operations Forces Medics of Credit Toward a Physician Assistant Degree
 
 Pub. L. 115–232, div. A, title VII, §735, Aug. 13, 2018, 132 Stat. 1819, provided that:
@@ -136,7 +190,7 @@ Construction of Authorities.—Nothing in this section may be construed to—
 
 &emsp;"(1) authorize an officer or employee of the Federal Government to create, endorse, or otherwise incentivize a particular curriculum or degree track; or
 
-&emsp;"(2) require, direct, review, or control a State or educational institution, or the instructional content,curriculum, and related activities of a State or educational institution."
+&emsp;"(2) require, direct, review, or control a State or educational institution, or the instructional content, curriculum, and related activities of a State or educational institution."
 
 #### Enhancement of Mechanisms To Correlate Skills and Training for Military Occupational Specialties With Skills and Training Required for Civilian Certifications and Licenses
 
@@ -178,7 +232,7 @@ Improvement of Access of Accredited Civilian Credentialing and Related Entities 
 
 &emsp;"(1)
 
-In general.—The Secretaries of the military departments, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall, to the maximum extent practicable consistent with national security and privacy requirements, make available to entities specified in paragraph (2), upon request of such entities, information such as military course training curricula, syllabi, and materials, levels of military advancement attained, and professional skills developed.
+In general.—The Secretaries of the military departments, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall, to the maximum extent practicable consistent with national security and privacy requirements, make available to entities specified in paragraph (2), upon request of such entities, information such as militarycourse training curricula, syllabi, and materials, levels of military advancement attained, and professional skills developed.
 
 &emsp;"(2)
 
@@ -225,4 +279,42 @@ Report.—Not later than one year after commencement of the pilot program, the S
 &emsp;"(3) A comparison of the cost associated with receipt by members of credentialing or licensing under the pilot program with the cost of receipt of similar credentialing or licensing by recently-discharged veterans of the Armed Forces under programs currently operated by the Department of Veterans Affairs and the Department of Labor.
 
 &emsp;"(4) The recommendation of the Secretary as to the feasibility and advisability of expanding the pilot program to additional military occupational specialties or duty specialty codes, and, if such expansion is considered feasible and advisable, a list of the military occupational specialties and duty specialty codes recommended for inclusion in the expansion."
+
+#### Ex. Ord. No. 13860. Supporting the Transition of Active Duty Service Members and Military Veterans Into the Merchant Marine
+
+Ex. Ord. No. 13860, Mar. 4, 2019, 84 F.R. 8407, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to promote employment opportunities for United States military veterans while growing the cadre of trained United States mariners available to meet United States requirements for national and economic security, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It is the policy of the United States to support practices and programs that ensure that members of the United States Armed Forces receive appropriate credit for their military training and experience, upon request, toward credentialing requirements as a merchant mariner. It is further the policy of the United States to establish and maintain an effective merchant marine program by providing sufficient support and resources to active duty and separating service members who pursue or possess merchant mariner credentials.
+
+A robust merchant marine is vital to the national and economic security of the United States. Credentialed United States merchant mariners support domestic and international trade, are critical for strategic defensive and offensive military sealift operations, and bring added expertise to Federal vessel operations. Unfortunately, the United States faces a shortage of qualified merchant mariners. As our strategic competitors expand their global footprint, the United States must retain its ability to project and sustain forces globally. This capability requires a sufficient corps of credentialed merchant mariners available to crew the necessary sealift fleet. Attracting additional trained and credentialed mariners, particularly from active duty service members and military veterans, will support United States national security requirements and provide meaningful, well-paying jobs to United States veterans.
+
+Sec. 2. <i>Definition</i>. For the purposes of this order, the term "applicable service" includes any of the "armed forces," as that term is defined in section 101(a)(4)(A) \[sic\] of title 10, United States Code.
+
+Sec. 3. <i>Credentialing Support</i>. (a) To support merchant mariner credentialing and the maintenance of such credentials, the Secretary of Defense and the Secretary of Homeland Security, with respect to the applicable services in their respective departments, and in coordination with one another and with the United States Committee on the Marine Transportation System, shall, consistent with applicable law:
+
+(i) Within 1 year from the date of this order \[Mar. 4, 2019\], identify all military training and experience within the applicable service that may qualify for merchant mariner credentialing, and submit a list of all identified military training and experience to the United States Coast Guard National Maritime Center for a determination of whether such training and experience counts for credentialing purposes;
+
+(ii) With respect to National Maritime Center license evaluation, issuance, and examination, take all necessary and appropriate actions to provide for the waiver of fees for active duty service members, if a waiver is authorized and appropriate, and, if a waiver is not granted, take all necessary and appropriate actions to provide for the payment of fees for active duty service members by the applicable service to the fullest extent permitted by law;
+
+(iii) Direct the applicable services to take all necessary and appropriate actions to pay for Transportation Worker Identification Credential cards for active duty service members pursuing or possessing a mariner credential;
+
+(iv) Ensure that members of the applicable services who are to be discharged or released from active duty and who request certification or verification of sea service be provided such certification or verification no later than 1 month after discharge or release; and
+
+(v) Ensure the applicable services have developed, or continue to operate, as appropriate, the online resource known as Credentialing Opportunities On-Line to support separating service members seeking information and assistance on merchant mariner credentialing.
+
+(b) The United States Committee on the Marine Transportation System shall pursue innovative ways to support merchant mariner credentialing, including through continuation of the Military to Mariner Initiative as appropriate, and shall provide a yearly status report on its efforts under the provisions of this order to the President through the White House Office of Trade and Manufacturing Policy.
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

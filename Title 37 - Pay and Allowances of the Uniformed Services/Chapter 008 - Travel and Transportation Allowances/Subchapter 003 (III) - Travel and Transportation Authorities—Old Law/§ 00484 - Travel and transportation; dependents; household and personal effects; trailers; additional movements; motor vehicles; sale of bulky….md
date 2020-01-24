@@ -18,13 +18,13 @@
 
 &emsp;(3) on request of the member (if injured or ill), or his dependent, next of kin, or other person described in clause (2), to another location determined in advance or later approved by the Secretary concerned, or his designee.
 
-> When he considers it necessary, the Secretary concerned may, with respect to the household and personal effects of a member who is officially reported as absent for a period of more than 29 days in a missing status, authorize the nontemporary storage of those effects for a period of one year, or longer when justified. In addition, he may authorize additional movements of, and prescribe transportation for, the dependents and household and personal effects, or the dependents and house trailer or mobile dwelling, of a member who is officially reported as absentfor a period of more than one year in a missing status.
+> When he considers it necessary, the Secretary concerned may, with respect to the household and personal effects of a member who is officially reported as absent for a period of more than 29 days in a missing status, authorize the nontemporary storage of those effects for a period of one year, or longer when justified. In addition, he may authorize additional movements of, and prescribe transportation for, the dependents and household and personal effects, or the dependents and house trailer or mobile dwelling, of a member who is officially reported as absent for a period of more than one year in a missing status.
 
 (c) When a member described in subsection (b) is in an injured or ill status, transportation of dependents and household and personal effects authorized by this section may be provided only when prolonged hospitalization or treatment is anticipated.
 
 (d) Transportation requested by a dependent may be authorized under this section only if there is a reasonable relationship between the circumstances of the dependent and the requested destination.
 
-(e) In place of the transportation for dependents authorized by this section, and after the travel is completed, the Secretary concerned may authorize—
+(e) In place of the transportation for dependents authorized by this section, and after thetravel is completed, the Secretary concerned may authorize—
 
 &emsp;(1) reimbursement for the commercial cost of the transportation; or
 
@@ -176,7 +176,7 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VI, §622(c), Dec. 2, 2002, 116 Stat. 2571, as amended by Pub. L. 112–81, div. A, titleVI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to members whose eligibility for benefits under section 484 of title 37, United States Code, commences on or after the date of the enactment of this Act \[Dec. 2, 2002\]."
+Pub. L. 107–314, div. A, title VI, §622(c), Dec. 2, 2002, 116 Stat. 2571, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to members whose eligibility for benefits under section 484 of title 37, United States Code, commences on or after the date of the enactment of this Act \[Dec. 2, 2002\]."
 
 #### Effective Date of 1998 Amendment
 

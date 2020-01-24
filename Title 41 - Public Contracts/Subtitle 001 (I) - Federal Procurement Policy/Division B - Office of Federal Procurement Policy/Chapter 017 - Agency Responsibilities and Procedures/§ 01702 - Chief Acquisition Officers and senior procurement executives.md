@@ -20,7 +20,7 @@ Advice and assistance.—A Chief Acquisition Officer shall advise and assist the
 
 Other functions.—The functions of each Chief Acquisition Officer include—
 
-&emsp;&emsp;(A) monitoring the performance of acquisition activities and acquisition programs of the executive agency, evaluating the performance of those programs on the basis of applicable performance measurements, and advising the head of the executive agency regarding the appropriate business strategy to achieve the mission of the executive agency;
+&emsp;&emsp;(A) monitoring the performance of acquisition activities and acquisition programs of the executive agency, evaluating the performance of those programs on the basis of applicable performance measurements, andadvising the head of the executive agency regarding the appropriate business strategy to achieve the mission of the executive agency;
 
 &emsp;&emsp;(B) increasing the use of full and open competition in the acquisition of property and services by the executive agency by establishing policies, procedures, and practices that ensure that the executive agency receives a sufficient number of sealed bids or competitive proposals from responsible sources to fulfill the Federal Government's requirements (including performance and delivery schedules) at the lowest cost or best value considering the nature of the property or service procured;
 
@@ -34,7 +34,7 @@ Other functions.—The functions of each Chief Acquisition Officer include—
 
 &emsp;&emsp;(G) developing and maintaining an acquisition career management program in the executive agency to ensure that there is an adequate professional workforce; and
 
-&emsp;&emsp;(H) as part of the strategic planning and performance evaluation process required under section 306 of title 5 and sections1105(a)(28), 1115, 1116, and 9703 (added by section 5(a) of Public Law 103–62 (107 Stat. 289)) of title 31—
+&emsp;&emsp;(H) as part of the strategic planning and performance evaluation process required under section 306 of title 5 and sections 1105(a)(28), 1115, 1116, and 9703 (added by section 5(a) of Public Law 103–62 (107 Stat. 289)) of title 31—
 
 &emsp;&emsp;&emsp;(i) assessing the requirements established for agency personnel regarding knowledge and skill in acquisition resources management and the adequacy of those requirements for facilitating the achievement of the performance goals established for acquisition management;
 

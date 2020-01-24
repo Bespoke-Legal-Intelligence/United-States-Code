@@ -82,7 +82,7 @@ The Secretary may make a grant under subsection (a) only if the applicant involv
 
 #### (k) Maintenance of effort
 
-With respect to activities for which a grant under subsection (a) is authorized to be expended, the Secretary may make such a grant only if the applicant involved agrees to maintain expenditures of non-Federal amounts for such activities at a level that is not less thanthe average level of such expenditures maintained by the applicant for the 2-year period preceding the fiscal year for which the applicant is applying to receive such a grant.
+With respect to activities for which a grant under subsection (a) is authorized to be expended, the Secretary may make such a grant only if the applicant involved agrees to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the average level of such expenditures maintained by the applicant for the 2-year period preceding the fiscal year for which the applicant is applying to receive such a grant.
 
 #### (l) Requirement of application
 
@@ -150,7 +150,7 @@ For the purpose of carrying out this section, other than subsections (o) and (r)
 
 #### (1) In general
 
-&emsp;The Secretary may make grants for the purpose of conducting research on the manner inwhich the delivery of services under subsection (a) may be improved. The Secretary may make such grants only to grantees under such subsection and to public and nonprofit private entities that are carrying out programs substantially similar to programs carried out under such subsection.
+&emsp;The Secretary may make grants for the purpose of conducting research on the manner in which the delivery of services under subsection (a) may be improved. The Secretary may make such grants only to grantees under such subsection and to public and nonprofit private entities that are carrying out programs substantially similar to programs carried out under such subsection.
 
 #### (2) Authorization of appropriations
 

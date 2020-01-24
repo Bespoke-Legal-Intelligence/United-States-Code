@@ -4,7 +4,7 @@
 
 (1) Subject to the approval of the Chairman, an Indian tribe may enter into a management contract for the operation and management of a class II gaming activity that the Indian tribe may engage in under section 2710(b)(1) of this title, but, before approving such contract, the Chairman shall require and obtain the following information:
 
-&emsp;(A) the name, address, and other additional pertinent background information on each person or entity (including individuals comprising such entity) having a direct financial interest in, or management responsibility for, such contract, and, in the case of a corporation, those individuals who serve on the board of directors of such corporation and each of its stockholders who hold (directly or indirectly) 10 percent or more of its issued and outstanding stock;
+&emsp;(A) the name, address, and other additional pertinent background information on eachperson or entity (including individuals comprising such entity) having a direct financial interest in, or management responsibility for, such contract, and, in the case of a corporation, those individuals who serve on the board of directors of such corporation and each of its stockholders who hold (directly or indirectly) 10 percent or more of its issued and outstanding stock;
 
 &emsp;(B) a description of any previous experience that each person listed pursuant to subparagraph (A) has had with other gaming contracts with Indian tribes or with the gaming industry generally, including specifically the name and address of any licensing or regulatory agency with which such person has had a contract relating to gaming; and
 
@@ -66,7 +66,7 @@ The Chairman, after notice and hearing, shall have the authority to require appr
 
 #### (g) Interest in land
 
-No management contract for the operation and management of a gaming activity regulated by this chapter shall transfer or, in any other manner, convey any interest in land or other real property, unless specific statutory authority exists and unless clearly specified in writing in said contract.
+No management contract for the operation and management of a gaming activity regulatedby this chapter shall transfer or, in any other manner, convey any interest in land or other real property, unless specific statutory authority exists and unless clearly specified in writing in said contract.
 
 #### (h) Authority
 

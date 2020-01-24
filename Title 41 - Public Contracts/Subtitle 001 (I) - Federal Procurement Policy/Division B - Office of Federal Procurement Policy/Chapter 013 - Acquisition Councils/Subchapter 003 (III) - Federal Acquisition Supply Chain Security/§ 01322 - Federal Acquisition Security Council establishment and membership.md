@@ -42,7 +42,7 @@ In general.—Not later than 45 days after the date of the enactment of the Fede
 
 &emsp;&emsp;&emsp;(ii)
 
-Requirements.—The representative of an agency designated under clause (i)shall have expertise in supply chain risk management, acquisitions, or information and communications technology.
+Requirements.—The representative of an agency designated under clause (i) shall have expertise in supply chain risk management, acquisitions, or information and communications technology.
 
 &emsp;&emsp;(B)
 

@@ -2,7 +2,7 @@
 
 #### (a) Policy goals
 
-The United States Government, in connection with its voice and vote in the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the African Development Fund, the Asian Development Bank, the African Development Bank, the European Bank for Reconstruction and Development, and the International Monetary Fund, shall advance the cause of human rights, including by seeking to channel assistance toward countries other than those whose governments engage in—
+The United States Government, in connection with its voice and vote in the InternationalBank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the African Development Fund, the Asian Development Bank, the African Development Bank, the European Bank for Reconstruction and Development, and the International Monetary Fund, shall advance the cause of human rights, including by seeking to channel assistance toward countries other than those whose governments engage in—
 
 &emsp;(1) a pattern of gross violations of internationally recognized human rights, such as torture or cruel, inhumane, or degrading treatment or punishment, prolonged detention without charges, or other flagrant denial to life, liberty, and the security of person; or
 
@@ -54,7 +54,7 @@ In determining whether the government of a country engages in a pattern of gross
 
 #### Amendments
 
-<b>2014</b>—Subsecs. (c) to (g). Pub. L. 113–188, which directed amendment of this section by striking subsec. (c) and redesignating subsec. (d) through subsec. (g) as added by section "501(g)" of Pub. L. 96–259 as subsecs. (c) through (f), respectively, was executed by redesignating subsec. (d) to subsec. (g) as added by section 501(b) of Pub. L. 96–259 (relating to consultative requirement) as (c) to (f), respectively, and striking out former subsec. (c) which related to reporting requirements, to reflect the probable intent of Congress.
+<b>2014</b>—Subsecs. (c) to (g). Pub. L. 113–188, which directed amendment of this section by striking subsec. (c) and redesignating subsec. (d) through subsec. (g) asadded by section "501(g)" of Pub. L. 96–259 as subsecs. (c) through (f), respectively, was executed by redesignating subsec. (d) to subsec. (g) as added by section 501(b) of Pub. L. 96–259 (relating to consultative requirement) as (c) to (f), respectively, and striking out former subsec. (c) which related to reporting requirements, to reflect the probable intent of Congress.
 
 <b>2000</b>—Subsec. (c)(1). Pub. L. 106–569 substituted "The Secretary of the Treasury shall report annually" for "Not later than 30 days after the end of each calendar quarter, the Secretary of the Treasury shall report quarterly".
 
@@ -124,13 +124,13 @@ Requirements.—The Secretary of the Treasury, in consultation with the Secretar
 
 &emsp;"(5) increase the capacity of multilateral development banks and of recipient governments to conduct human trafficking risk assessments and integrate anti-trafficking interventions into projects;
 
-&emsp;"(6) support the development of meaningful risk mitigation and reduction policies, regulations, and strategies within the multilateral development banks to reduce the incidence and prevalence of severe forms of trafficking in persons and enhance development outcomes that may be improved by reducing the incidence and prevalence of human trafficking; and
+&emsp;"(6) support the development of meaningful risk mitigation and reduction policies, regulations, and strategies within the multilateral development banks to reduce the incidence and prevalence of severeforms of trafficking in persons and enhance development outcomes that may be improved by reducing the incidence and prevalence of human trafficking; and
 
 &emsp;"(7) support the inclusion of human trafficking risk analysis in the development of relevant country strategies by each multilateral development bank.
 
 "(b)
 
-Briefings.—The Secretary of the Treasury shall make relevant officials available to brief the Committee on Foreign Relations of the Senate, the Committee on Appropriations of the Senate, the Committee on Financial Services of the House of Representatives, andthe Committee on Appropriations of the House of Representatives on the implementation of this section."
+Briefings.—The Secretary of the Treasury shall make relevant officials available to brief the Committee on Foreign Relations of the Senate, the Committee on Appropriations of the Senate, the Committee on Financial Services of the House of Representatives, and the Committee on Appropriations of the House of Representatives on the implementation of this section."
 
 #### Consultations for Adoption of Amendment to Articles of Agreement Respecting Human Rights Standards in Connection With Any Application for Assistance
 

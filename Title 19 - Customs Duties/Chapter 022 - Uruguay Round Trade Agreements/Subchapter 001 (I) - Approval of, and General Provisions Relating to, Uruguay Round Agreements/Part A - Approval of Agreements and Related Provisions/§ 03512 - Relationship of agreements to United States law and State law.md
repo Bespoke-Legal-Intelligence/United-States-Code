@@ -82,7 +82,7 @@
 
 #### (C) Reports to congressional committees
 
-&emsp;&emsp;At least 30 days before the United States brings an action described in subparagraph (A), the Trade Representative shall provide a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate—
+&emsp;&emsp;At least 30 days before the United States brings an action described in subparagraph\(A), the Trade Representative shall provide a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate—
 
 &emsp;&emsp;&emsp;(i) describing the proposed action;
 

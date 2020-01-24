@@ -50,5 +50,5 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Delegation of Functions
 
-Authority of President under subsec. (a) of this section to make recommendations concerning meeting of losses sustained by employees and members of uniformed services while serving in a foreign country due to appreciation of foreign currency in its relation toAmerican dollar and under subsec. (d) of this section to report annually to Congress on expenditures made under subsec. (d) of this section, delegated to Secretary of the Treasury, see section 2 of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+Authority of President under subsec. (a) of this section to make recommendations concerning meeting of losses sustained by employees and members of uniformed services while serving in a foreign country due to appreciation of foreign currency in its relation to American dollar and under subsec. (d) of this section to report annually to Congress on expenditures made under subsec. (d) of this section, delegated to Secretary of the Treasury, see section 2 of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 

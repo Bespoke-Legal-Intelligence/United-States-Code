@@ -6,7 +6,7 @@ Whenever benefit amounts under subchapter II are increased by any percentage eff
 
 &emsp;(1) each of the dollar amounts in effect for such month under subsections (a)(1)(A), (a)(2)(A), (b)(1), and (b)(2) of section 1382 of this title, and subsection (a)(1)(A) of section 211 of Public Law 93–66, as specified in such subsections or as previously increased under this section, shall be increased by the amount (if any) by which—
 
-&emsp;&emsp;(A) the amount which would have been in effect for such month under such subsectionbut for the rounding of such amount pursuant to paragraph (2), exceeds
+&emsp;&emsp;(A) the amount which would have been in effect for such month under such subsection but for the rounding of such amount pursuant to paragraph (2), exceeds
 
 &emsp;&emsp;(B) the amount in effect for such month under such subsection; and
 

@@ -60,7 +60,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in this chapter, nor any amendment made by the Frank R. LautenbergChemical Safety for the 21st Century Act, nor any rule, standard of performance, risk evaluation, or scientific assessment implemented pursuant to this chapter, shall affect the right of a State or a political subdivision of a State to adopt or enforce any rule, standard of performance, risk evaluation, scientific assessment, or any other protection for public health or the environment that—
+&emsp;&emsp;Nothing in this chapter, nor any amendment made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act, nor any rule, standard of performance, risk evaluation, or scientific assessment implemented pursuant to this chapter, shall affect the right of a State or a political subdivision of a State to adopt or enforce any rule, standard of performance, risk evaluation, scientific assessment, or any other protection for public health or the environment that—
 
 &emsp;&emsp;&emsp;(i) is adopted or authorized under the authority of any other Federal law or adopted to satisfy or obtain authorization or approval under any other Federal law;
 
@@ -118,7 +118,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 #### (1) Discretionary exemptions
 
-&emsp;Upon application of a State or political subdivision of a State, the Administrator may, byrule, exempt from subsection (a), under such conditions as may be prescribed in the rule, a statute, criminal penalty, or administrative action of that State or political subdivision of the State that relates to the effects of exposure to a chemical substance under the conditions of use if the Administrator determines that—
+&emsp;Upon application of a State or political subdivision of a State, the Administrator may, by rule, exempt from subsection (a), under such conditions as may be prescribed in the rule, a statute, criminal penalty, or administrative action of that State or political subdivision of the State that relates to the effects of exposure to a chemical substance under the conditions of use if the Administrator determines that—
 
 &emsp;&emsp;(A) compelling conditions warrant granting the waiver to protect health or the environment;
 
@@ -186,7 +186,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 #### (B) Requirements
 
-&emsp;&emsp;Notwithstanding paragraph (6), approval of a waiver application under subparagraph (A)for failure to meet the deadline under paragraph (3)(B) shall not be considered final agency action or be subject to judicial review or public notice and comment.
+&emsp;&emsp;Notwithstanding paragraph (6), approval of a waiver application under subparagraph (A) for failure to meet the deadline under paragraph (3)(B) shall not be considered final agency action or be subject to judicial review or public notice and comment.
 
 #### (g) Savings
 

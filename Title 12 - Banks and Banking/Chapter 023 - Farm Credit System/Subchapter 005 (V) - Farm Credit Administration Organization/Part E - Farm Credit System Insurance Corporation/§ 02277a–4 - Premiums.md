@@ -130,7 +130,7 @@ For the purpose of subsections (a) and (c), the principal outstanding on all loa
 
 &emsp;&emsp;&emsp;(i) subject to subparagraph (D), pay to each insured System bank, in a manner determined by the Corporation, an amount equal to the balance in the Allocated Insurance Reserves Account of the System bank; and
 
-&emsp;&emsp;&emsp;(ii) subject to subparagraphs (C) and (E), pay to each System bank and association holding Financial Assistance Corporation stock a proportionate share, determined by dividing the number of shares of Financial Assistance Corporation stock held by the institution by the total number of shares of Financial Assistance Corporation stock outstanding at the time of the termination of the Financial Assistance Corporation, of the balance in the AllocatedInsurance Reserves Account established under paragraph (1)(B).
+&emsp;&emsp;&emsp;(ii) subject to subparagraphs (C) and (E), pay to each System bank and association holding Financial Assistance Corporation stock a proportionate share, determined by dividing the number of shares of Financial Assistance Corporation stock held by the institution by the total number of shares of Financial Assistance Corporation stock outstanding at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).
 
 #### (B) Authority to eliminate or reduce payments
 
@@ -182,7 +182,7 @@ Subsec. (d)(1) to (3). Pub. L. 110–246, §5404(d)(3), (4), in pars. (1) to (3)
 
 Subsec. (e)(3). Pub. L. 110–246, §5404(e)(1), substituted "the secure base amount" for "the average secure base amount for the calendar year (as calculated on an average daily balance basis)".
 
-Subsec. (e)(4)(B). Pub. L. 110–246, §5404(e)(2), added subpar. (B) and struck out former subpar. (B) whichread as follows: "there shall be credited to the Allocated Insurance Reserves Account of each insured System bank an amount that bears the same ratio to the total amount (less any amount credited under subparagraph (A)) as the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by the bank that are in accrual status bears to the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by all insured System banks that are in accrual status (excluding, in each case, the guaranteed portions of loans described in subparagraph (C) or (D) of subsection (a)(1) of this section)."
+Subsec. (e)(4)(B). Pub. L. 110–246, §5404(e)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "there shall be credited to the Allocated Insurance Reserves Account of each insured System bank an amount that bears the same ratio to the total amount (less any amount credited under subparagraph (A)) as the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by the bank that are in accrual status bears to the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by all insured System banks that are in accrual status (excluding, in each case, the guaranteed portions of loans described in subparagraph (C) or (D) of subsection (a)(1) of this section)."
 
 Subsec. (e)(6)(A). Pub. L. 110–246, §5404(e)(3)(A)(i), struck out "beginning more than 8 years after the date on which the aggregate of the amounts in the Farm Credit Insurance Fund exceeds the secure base amount, but not earlier than January 1, 2005" after "calendar year" in introductory provisions.
 
@@ -258,67 +258,7 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 #### GAO Reports on Risk-Based Insurance Premiums, Access to Association Capital, Supplemental Premiums, and Consolidation
 
-Pub. L. 102–552, title II, §204, Oct. 28, 1992, 106 Stat. 4106, as amended by Pub. L. 104–316, title I, §106(e), Oct. 19, 1996, 110 Stat. 3831, provided that:
-
-"(a)
-
-In General.—The Comptroller General of the United States may investigate, review, and evaluate the feasibility and appropriateness, and report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, on the advantages and disadvantages of providing the Farm Credit System Insurance Corporation with—
-
-&emsp;"(1) the authority to directly or indirectly assess associations to ensure that all System capital is available to prevent losses to investors, including a study of—
-
-&emsp;&emsp;"(A) the effects of direct assessments by the Insurance Corporation on associations, including interest rate charges to borrowers;
-
-&emsp;&emsp;"(B) the effects of requiring that banks pass along the cost of insurance premiums to owner associations and other financing institutions having a discount relationship with the bank;
-
-&emsp;&emsp;"(C) the effects of requiring owner associations to purchase stock in the district bank, if needed, to prevent a bank from having to return to the Insurance Corporation for financial assistance once the assistance has been given;
-
-&emsp;&emsp;"(D) the effects of the purchase of stock from funds of the association (through funds obtained from other than the district bank) or allowing the bank to increase the direct line of credit to the association in order to fund the purchase; and
-
-&emsp;&emsp;"(E) the effect that authorizing the Insurance Corporation to assess the association could have on the association's incentives for building capital;
-
-&emsp;"(2) the authority to collect supplemental insurance premiums under certain circumstances, including a study of—
-
-&emsp;&emsp;"(A) the possibility of the Insurance Fund being depleted more rapidly than it could be replenished under the current premium structure;
-
-&emsp;&emsp;"(B) the effects of the depletion under alternate economic scenarios and the probability of the occurrence of each of those scenarios;
-
-&emsp;&emsp;"(C) the effects on capital accumulation and interest rates of levying a supplemental premium; and
-
-&emsp;&emsp;"(D) limitations on any authority to levy supplemental premiums and the underlying basis for the limitations; and
-
-&emsp;"(3) the authority to establish an insurance premium rate structure that would take into account, on an institution-by-institution basis, asset quality risk, interest rate risk, earnings, and capital.
-
-"(b)
-
-Report on Consolidation.—
-
-&emsp;"(1)
-
-In general.—The Comptroller General of the United States shall evaluate and report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on whether there are likely to be benefits to farmer and rancher borrowers of the Farm Credit System institutions of merging the 10 district Farm Credit Banks (and the Federal Intermediate Credit Bank of Jackson) into fewer regional Farm Credit Banks.
-
-&emsp;"(2)
-
-Factors.—In preparing the report, the Comptroller General shall consider—
-
-&emsp;&emsp;"(A) the potential reduction in services to farmers and ranchers;
-
-&emsp;&emsp;"(B) the potential benefits of jointly providing services to farmers and ranchers among these proposed regional districts;
-
-&emsp;&emsp;"(C) any economy of scale effects on a district-by-district basis;
-
-&emsp;&emsp;"(D) the potential impact on the cooperative nature of the Farm Credit System;
-
-&emsp;&emsp;"(E) the potential impact on bank and association relationships; and
-
-&emsp;&emsp;"(F) the potential impact on System-wide bond issuances.
-
-"(c)
-
-Potential Savings.—The Comptroller General of the United States shall evaluate and report to the appropriate committees of Congress on the potential savings to the Farm Credit System and its shareholders that might occur if System institutions and the Farm Credit Administration were required to comply with General Services Administration standards for office space, furniture, and equipment.
-
-"(d)
-
-Deadline.—The reports required under this section shall be provided to Congress not later than 12 months after the date of enactment of this Act \[Oct. 28, 1992\]."
+Pub. L. 102–552, title II, §204, Oct. 28, 1992, 106 Stat. 4106, as amended by Pub. L. 104–316, title I, §106(e), Oct. 19, 1996, 110 Stat. 3831, provided for a report by the Comptroller General on risk-based insurance premiums, structure and capital, and another report on benefits to farmer and rancher borrowers of the Farm Credit System institutions of merging the 10 district Farm Credit Banks (and the Federal Intermediate Credit Bank of Jackson) into fewer regional Farm Credit Banks, and provided that the reports were to be provided to Congress not later than 12 months after Oct. 28, 1992.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Allocated Insurance Reserves Account".</i>
 

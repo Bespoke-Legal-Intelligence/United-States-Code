@@ -6,7 +6,7 @@ In carrying out the purposes of this chapter, the Secretary is authorized, in ad
 
 &emsp;(2) to furnish, sell, or rent, by contract or otherwise, educational and information materials and equipment for dissemination to, or use by, peoples of foreign countries;
 
-&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 322 <sup>2</sup> of the Act of June 30, 1932, and any such real property or interests therein which are outside the United States may be acquired without regard to sections 3111 and 3112 of title 40 if the sufficiencyof the title to such real property or interests therein is approved by the Director of the United States Information Agency;
+&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 322 <sup>2</sup> of the Act of June 30, 1932, and any such real property or interests therein which are outside the United States may be acquired without regard to sections 3111 and 3112 of title 40 if the sufficiency of the title to such real property or interests therein is approved by the Director of the United States Information Agency;
 
 &emsp;(4) to provide for printing and binding outside the continental limits of the United States, without regard to section 501 of title 44;
 
@@ -46,7 +46,7 @@ In par. (6), "section 5703 of title 5" substituted for "section 5 of the Adminis
 
 <b>1979</b>—Par. (1). Pub. L. 96–60, §204(a), struck out "within the limitation of such appropriations as the Congress may provide," after "chapter,".
 
-Par. (3). Pub. L. 96–60, §203(e), substituted "leasing of associated real property (either within or outside the United States)" for "leasing of real property both within and without the continental limits of the United States" and provided for alteration, improvement, and repair of such property, without regard to section 278a of title 40, and for acquisition of such property or interests therein which are outside the United States without regard to section 255 of title 40 if the sufficiency of the title to such property or interests therein is approved by the Director.
+Par. (3). Pub. L. 96–60, §203(e), substituted "leasing of associated real property (either within or outside the United States)" for "leasing of real property both within and without the continental limits of the United States" and provided for alteration, improvement, and repair of such property, without regard to section 278aof title 40, and for acquisition of such property or interests therein which are outside the United States without regard to section 255 of title 40 if the sufficiency of the title to such property or interests therein is approved by the Director.
 
 Par. (5). Pub. L. 96–60, §203(b)(1), struck out provision for employment of aliens within the United States limited to services related to the translation or narration of colloquial speech in foreign languages when suitably qualified United States citizens were not available, now covered in section 1474(1) of this title, and inserted "pertinent" before "appropriation".
 
@@ -68,7 +68,7 @@ The Commission on Educational Exchange, created by section 1466 of this title, a
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Contractor Requirements
 

@@ -32,7 +32,7 @@ To be eligible to participate in the conservation stewardship program, a produce
 
 #### (2) Prohibition
 
-&emsp;The Secretary may not assign a higher priority to any application because the applicantis willing to accept a lower payment than the applicant would otherwise be eligible to receive.
+&emsp;The Secretary may not assign a higher priority to any application because the applicant is willing to accept a lower payment than the applicant would otherwise be eligible to receive.
 
 #### (3) Additional criteria
 
@@ -124,7 +124,7 @@ After a determination that a producer is eligible for a contract or contract ren
 
 #### (e) Contract renewal
 
-The Secretary may provide the producer an opportunity to renew an existing contract in thefirst half of the fifth year of the contract period if the producer—
+The Secretary may provide the producer an opportunity to renew an existing contract in the first half of the fifth year of the contract period if the producer—
 
 &emsp;(1) demonstrates compliance with the terms of the existing contract;
 

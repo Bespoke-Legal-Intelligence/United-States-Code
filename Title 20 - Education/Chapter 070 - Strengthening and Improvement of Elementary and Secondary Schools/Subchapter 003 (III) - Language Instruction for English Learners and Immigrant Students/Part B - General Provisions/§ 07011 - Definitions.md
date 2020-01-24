@@ -74,7 +74,7 @@ Except as otherwise provided, in this subchapter:
 
 &emsp;&emsp;(A) does not participate in a program under subpart 1 of part A for a fiscal year; or
 
-&emsp;&emsp;(B) submits a plan (or any amendment to a plan) that the Secretary, after reasonablenotice and opportunity for a hearing, determines does not satisfy the requirements of such subpart.
+&emsp;&emsp;(B) submits a plan (or any amendment to a plan) that the Secretary, after reasonable notice and opportunity for a hearing, determines does not satisfy the requirements of such subpart.
 
 #### (13) State
 
@@ -162,7 +162,7 @@ Authorized Activities.—Research activities authorized to be assisted under thi
 
 "(c)
 
-Consultation and Delegation of Authority.—In carrying out the responsibilities of this section, the Secretary may delegate authority to the Director, and in any event, shall consult with the Director, representatives of State and local educational agencies, appropriate groups and organizations involved in bilingual education, the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives.
+Consultation and Delegation of Authority.—In carrying out the responsibilities of this section, the Secretary may delegate authority to the Director, and in any event, shall consult with the Director, representatives of State and local educational agencies, appropriate groups and organizations involved in bilingual education, the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and the Committee on Education and Labor of the House of Representatives.
 
 "(d)
 

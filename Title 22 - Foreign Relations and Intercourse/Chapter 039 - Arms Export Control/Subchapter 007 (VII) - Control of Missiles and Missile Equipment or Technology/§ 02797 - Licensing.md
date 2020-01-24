@@ -96,7 +96,7 @@ Pub. L. 101–510, div. A, title XVII, §1704, Nov. 5, 1990, 104 Stat. 1749, dir
 
 #### Ex. Ord. No. 12851. Administration of Proliferation Sanctions, Middle East Arms Control, and Related Congressional Reporting Responsibilities
 
-Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, provided:
+Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, as amended by Ex. Ord. No. 13883, §3, Aug. 1, 2019, 84 F.R. 38113, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code; sections 1701–1703 of the National Defense Authorization Act for Fiscal Year 1991, Public Law 101–510 (50 U.S.C. App. 2402 note, 2405, 2410b \[now 50 U.S.C. 4602 note, former 4605, former 4612\]; 22 U.S.C. 2797–2797c); sections 303, 324 \[105 Stat. 708, 711\], and 401–405 \[22 U.S.C. 2778 note\] of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138; sections 305–308 of the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991, Public Law 102–182 (50 U.S.C. App. 2410c \[now 50 U.S.C. 4613\]; 22 U.S.C. 2798, 5604–5606); sections 241 \[105 Stat. 1326\] and 1097 \[former 22 U.S.C. 2751 note\] of the National Defense Authorization Act for Fiscal Years 1992 and 1993, Public Law 102–190; and section 1364 of the National Defense Authorization Act for Fiscal Year 1993, Public Law 102–484 \[106 Stat. 2561\], I hereby order as follows:
 
@@ -114,13 +114,15 @@ Section 1. <i>Chemical and Biological Weapons Proliferation and Use Sanctions</i
 
 (3) The authority and duties vested in me to prohibit certain exports as provided in section 307(a)(5) and section 307(b)(2)(C), pursuant to a determination made by the Secretary of State under section 306(a)(1) and section 307(b)(1), are delegated to the Secretary of Commerce.
 
+(4) The authorities and duties vested in me to oppose certain multilateral development bank assistance and to prohibit certain bank loans as provided in section 307(b)(2)(A)–(B), pursuant to a determination made by the Secretary of State under section 307(b)(1), are delegated to the Secretary of the Treasury.
+
 (c) <i>Coordination Among Agencies</i>. The Secretaries designated in this section shall exercise all functions delegated to them by this section in consultation with the Secretary of State, the Secretary of Defense, the Secretary of the Treasury, the Secretary of Commerce, the Director of the Arms Control and Disarmament Agency, and other departments and agencies as appropriate, utilizing the appropriate interagency groups prior to any determination to exercise the prohibition authority delegated hereby.
 
 Sec. 2. <i>Missile Proliferation Sanctions</i>. (a) <i>Arms Export Control Act</i>. The authority and duties vested in me by sections 72–73 of the AECA (22 U.S.C. 2797a–2797b) are delegated to the Secretary of State, except that:
 
 (1) The authority and duties vested in me by section 72(a)(1) to make determinations with respect to violations by United States persons of the EAA \[50 U.S.C. 4601 et seq.\] are delegated to the Secretary of Commerce.
 
-(2) The authority and duties vested in me to deny certain United States Government contracts as providedin sections 73(a)(2)(A)(i) and 73(a)(2)(B)(i), pursuant to a determination made by the Secretary of State under section 73(a)(1), as well as the authority and duties vested in me to make the findings provided in sections 72(c), 73(f), and 73(g)(1), are delegated to the Secretary of Defense. The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, any waivers based upon findings made pursuant to sections 72(c) and 73(f).
+(2) The authority and duties vested in me to deny certain United States Government contracts as provided in sections 73(a)(2)(A)(i) and 73(a)(2)(B)(i), pursuant to a determination made by the Secretary of State under section 73(a)(1), as well as the authority and duties vested in me to make the findings provided in sections 72(c), 73(f), and 73(g)(1), are delegated to the Secretary of Defense. The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, any waivers based upon findings made pursuant to sections 72(c) and 73(f).
 
 (3) The authority and duties vested in me to prohibit certain imports as provided in section 73(a)(2)(C), pursuant to a determination made by the Secretary of State under that section, and the obligation to implement the exceptions provided in section 73(g), are delegated to the Secretary of the Treasury.
 
@@ -145,8 +147,6 @@ Sec. 5. <i>Arrow Tactical Anti-Missile Program</i>. The authority and duties ves
 Sec. 6. <i>Delegations</i>. The functions delegated herein may be redelegated as appropriate. Regulations necessary to carry out the functions delegated herein may be issued as appropriate.
 
 Sec. 7. <i>Priority</i>. This order supercedes the Memorandum of the President, "Delegation of Authority Regarding Missile Technology Proliferation," June 25, 1991. To the extent that this order is inconsistent with any provisions of any prior Executive order or Presidential memorandum, this order shall control.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 

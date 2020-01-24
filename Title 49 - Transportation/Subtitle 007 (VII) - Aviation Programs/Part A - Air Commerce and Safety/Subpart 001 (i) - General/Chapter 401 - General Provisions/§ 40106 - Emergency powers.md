@@ -18,7 +18,7 @@ Suspension of Authority.—(1) When the President decides that the government of
 
 &emsp;(C) a foreign air carrier to provide foreign air transportation between the United States and another country that maintains air service with the foreign country; and
 
-&emsp;(D) a foreign person to operate aircraft in foreign air commerce between the United States and another country that maintains air service with the foreign country.
+&emsp;(D) a foreign person to operate aircraft in foreign air commerce between the UnitedStates and another country that maintains air service with the foreign country.
 
 (2) The President may act under this subsection without notice or a hearing. The suspension remains in effect for as long as the President decides is necessary to ensure the security of aircraft against unlawful seizure. Notwithstanding section 40105(b) of this title, the authority of the President to suspend rights under this subsection is a condition to a certificate of public convenience and necessity, air carrier operating certificate, foreign air carrier or foreign aircraft permit, or foreign air carrier operating specification issued by the Secretary of Transportation under this part.
 

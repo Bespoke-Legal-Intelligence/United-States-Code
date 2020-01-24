@@ -2,7 +2,7 @@
 
 (a)
 
-Process and Policies.—The Secretary and the Administrator shall maintain a process andpolicies for identifying, and selecting, an eligible entity to which a historic light station could be conveyed for education, park, recreation, cultural, or historic preservation purposes, and to monitor the use of the light station by the eligible entity.
+Process and Policies.—The Secretary and the Administrator shall maintain a process and policies for identifying, and selecting, an eligible entity to which a historic light station could be conveyed for education, park, recreation, cultural, or historic preservation purposes, and to monitor the use of the light station by the eligible entity.
 
 (b)
 
@@ -46,7 +46,7 @@ Conditions of sale.—If the Secretary approves the sale of a historic light sta
 
 &emsp;&emsp;(D)
 
-Cooperative agreements.—The Secretary is encouraged to enter into cooperative agreements with appropriate eligible entities with respect to historic light stations described in subparagraph (A), as provided in this division, to the extent that the cooperative agreements are consistent with the Secretary's responsibilities to manage and administer the System unit or wildlife refuge.
+Cooperative agreements.—The Secretary is encouraged to enter into cooperative agreements with appropriate eligible entities with respect to historic light stations described in subparagraph (A), as provided in this division, to the extent that the cooperative agreements are consistent with the Secretary's responsibilities to manageand administer the System unit or wildlife refuge.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3216.)
 

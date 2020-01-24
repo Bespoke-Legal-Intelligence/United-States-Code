@@ -26,7 +26,7 @@ In this chapter:
 
 #### (5) Foreign financial institution
 
-&emsp;The term "foreign financial institution" has the meaning of that term as determined bythe Secretary of the Treasury pursuant to section 8513(i) of this title.
+&emsp;The term "foreign financial institution" has the meaning of that term as determined by the Secretary of the Treasury pursuant to section 8513(i) of this title.
 
 #### (6) Good
 
@@ -70,7 +70,7 @@ In this chapter:
 
 #### (b) Determinations of significance
 
-For purposes of this chapter, in determining if financial transactions or financial services are significant, the President may consider the totality of the facts and circumstances, including factors similar to the factors set forth in section 561.404 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+For purposes of this chapter, in determining if financial transactions or financial services are significant, the President may consider the totality of the facts and circumstances, including factors similar to the factors set forth in section 561.404 of title 31, Code of Federal Regulations\(or any corresponding similar regulation or ruling).
 
 (Pub. L. 112–239, div. A, title XII, §1242, Jan. 2, 2013, 126 Stat. 2004.)
 
@@ -110,7 +110,7 @@ I hereby delegate functions and authorities vested in the President by the Iran 
 
 • Section 1244(i) to the Secretary of State, in consultation with the Secretary of the Treasury;
 
-• Section 1245(a)(1)(A) \[22 U.S.C. 8804(a)(1)(A)\] to the Secretary of the Treasury, in consultation with theSecretaries of State and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1245(a)(1)(A), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
+• Section 1245(a)(1)(A) \[22 U.S.C. 8804(a)(1)(A)\] to the Secretary of the Treasury, in consultation with the Secretaries of State and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1245(a)(1)(A), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
 
 • Sections \[sic\] 1245(a)(1)(B) and (C) to the Secretary of State, in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1245(a)(1)(B) or (C), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
 
@@ -152,7 +152,7 @@ I hereby delegate functions and authorities vested in the President by the Iran 
 
 • Section 1253(c)(1) to the Secretary of State, in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate;
 
-• Section 1253(c)(2) to the Secretary of State and the Secretary of the Treasury commensurate with their respective areas of responsibility, in consultation with each other, the Secretary of Commerce, and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1244(d)(1)(A), 1245(a)(1), or 1246(a)(1) (including in each case as informed by section 1253(c)(2)), authority to implement such sanctions isdelegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA.
+• Section 1253(c)(2) to the Secretary of State and the Secretary of the Treasury commensurate with their respective areas of responsibility, in consultation with each other, the Secretary of Commerce, and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1244(d)(1)(A), 1245(a)(1), or 1246(a)(1) (including in each case as informed by section 1253(c)(2)), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA.
 
 I hereby delegate functions and authorities vested in the President by CISADA, as amended by section 1249 of IFCA, as follows:
 

@@ -20,7 +20,7 @@ Hearings held during proceedings for the assessment of civil penalties shall be 
 
 #### (c) Review of civil penalty
 
-Any person against whom a civil penalty is assessed under this section may obtain review thereof in the appropriate District Court of the United States by filing a complaint in such court within 30 days after the date of such order and by simultaneously serving a copy of the complaint by certified mail on the Secretary, the Attorney General, and the appropriate United States attorney. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28. If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order or after the appropriate court has entered final judgment in favor of the Secretary, the Secretary may request the Attorney General of the United States to institute a civil action in an appropriate district court of the United States to collect the penalty, and such court shall have jurisdiction to hear and decide any such action. In hearing such action, the court shall have authority to review the violation and the assessment of the civil penalty de novo.
+Any person against whom a civil penalty is assessed under this section may obtain review thereof in the appropriate District Court of the United States by filing a complaint in such court within 30 days after the date of such order and by simultaneously serving a copy of the complaint by certified mail on the Secretary, the Attorney General, and the appropriateUnited States attorney. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28. If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order or after the appropriate court has entered final judgment in favor of the Secretary, the Secretary may request the Attorney General of the United States to institute a civil action in an appropriate district court of the United States to collect the penalty, and such court shall have jurisdiction to hear and decide any such action. In hearing such action, the court shall have authority to review the violation and the assessment of the civil penalty de novo.
 
 #### (d) Criminal penalties
 
@@ -88,7 +88,7 @@ Subsec. (d)(3). Pub. L. 100–653, §102(b), added par. (3).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Pub. L. 110–234, title VIII, §8204(f), May 22, 2008, 122 Stat. 1294, and Pub. L. 110–246, §4(a), title VIII, §8204(f), June 18, 2008, 122 Stat. 1664, 2056, provided that the amendment made by section 8204(f) is effective Nov. 14, 1988, and as if included in the enactment of section 102(c) of Pub. L. 100–653.
 

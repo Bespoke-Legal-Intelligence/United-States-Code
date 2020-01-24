@@ -78,7 +78,7 @@ A prior section 8542, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, authorized Pre
 
 <b>2011</b>—Subsec. (a)(1)(A). Pub. L. 111–383 struck out comma after "captain".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–364 amended subsec. (a) generally. Prior to amendment, subsec. (a) related toassignment of an officer of the Navy in a grade not below the grade of captain or an appropriately qualified civilian individual to the position of President of the Naval Postgraduate School.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to assignment of an officer of the Navy in a grade not below the grade of captain or an appropriately qualified civilian individual to the position of President of the Naval Postgraduate School.
 
 Pub. L. 109–163, §524, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary of the Navy shall detail as President of the Naval Postgraduate School an officer on the active-duty list in the line of the Navy eligible for command at sea not below the grade of captain. The President has military command of the Postgraduate School."
 

@@ -108,13 +108,101 @@ Subsec. (e)(2). Pub. L. 110–417, §327(b)(2), inserted introductory provisions
 
 Pub. L. 109–364, div. A, title III, §332(c), Oct. 17, 2006, 120 Stat. 2150, provided that: "Section 2476 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2006."
 
+#### Strategy To Improve Infrastructure of Certain Depots of the Department of Defense
+
+Pub. L. 116–92, div. A, title III, §359, Dec. 20, 2019, 133 Stat. 1323, provided that:
+
+"(a)
+
+Strategy Required.—Not later than October 1, 2020, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a comprehensive strategy for improving the depot infrastructure of the military departments with the objective of ensuring that all covered depots have the capacity and capability to support the readiness and material availability goals of current and future weapon systems of the Department of Defense.
+
+"(b)
+
+Elements.—The strategy under subsection (a) shall include the following:
+
+&emsp;"(1) A comprehensive review of the conditions and performance at each covered depot, including the following:
+
+&emsp;&emsp;"(A) An assessment of the current status of the following elements:
+
+&emsp;&emsp;&emsp;"(i) Cost and schedule performance of the depot.
+
+&emsp;&emsp;&emsp;"(ii) Material availability of weapon systems supported at the depot and the impact of the performance of the depot on that availability.
+
+&emsp;&emsp;&emsp;"(iii) Work in progress and non-operational items awaiting depot maintenance.
+
+&emsp;&emsp;&emsp;"(iv) The condition of the depot.
+
+&emsp;&emsp;&emsp;"(v) The backlog of restoration and modernization projects at the depot.
+
+&emsp;&emsp;&emsp;"(vi) The condition of equipment at the depot.
+
+&emsp;&emsp;&emsp;"(vii) the vulnerability of the depot to adverse environmental conditions and, if necessary, the investment required to withstand those conditions.
+
+&emsp;&emsp;"(B) An identification of analytically based goals relating to the elements identified in subparagraph (A).
+
+&emsp;"(2) A business-case analysis that assesses investment alternatives comparing cost, performance, risk, and readiness outcomes and recommends an optimal investment approach across the Department of Defense to ensure covered depots efficiently and effectively meet the readiness goals of the Department, including an assessment of the following alternatives:
+
+&emsp;&emsp;"(A) The minimum investment necessary to meet investment requirements under section 2476 of title 10, United States Code.
+
+&emsp;&emsp;"(B) The investment necessary to ensure the current inventory of facilities at covered depots can meet the mission-capable, readiness, and contingency goals of the Secretary of Defense.
+
+&emsp;&emsp;"(C) The investment necessary to execute the depot infrastructure optimization plans of each military department.
+
+&emsp;&emsp;"(D) Any other strategies for investment in covered depots, as identified by the Secretary.
+
+&emsp;"(3) A plan to improve conditions and performance of covered depots that identifies the following:
+
+&emsp;&emsp;"(A) The approach of the Secretary of Defense for achieving the goals outlined in paragraph (1)(B).
+
+&emsp;&emsp;"(B) The resources and investments required to implement the plan.
+
+&emsp;&emsp;"(C) The activities and milestones required to implement the plan.
+
+&emsp;&emsp;"(D) A results-oriented approach to assess—
+
+&emsp;&emsp;&emsp;"(i) the progress of each military department in achieving such goals; and
+
+&emsp;&emsp;&emsp;"(ii) the progress of the Department in implementing the plan.
+
+&emsp;&emsp;"(E) Organizational roles and responsibilities for implementing the plan.
+
+&emsp;&emsp;"(F) A process for conducting regular management review and coordination of the progress of each military department in implementing the plan and achieving such goals.
+
+&emsp;&emsp;"(G) The extent to which the Secretary has addressed recommendations made by the Comptroller General of the United States relating to depot operations during the five-year period preceding the date of submittal of the strategy under this section.
+
+&emsp;&emsp;"(H) Risks to implementing the plan and mitigation strategies to address those risks.
+
+"(c)
+
+Annual Report on Progress.—As part of the annual budget submission of the President under section 1105(a) of title 31, United States Code, the Secretary of Defense shall submit to the congressional defense committees a report describing the progress made in—
+
+&emsp;"(1) implementing the strategy under subsection (a); and
+
+&emsp;"(2) achieving the goals outlined in subsection (b)(1)(B).
+
+"(d)
+
+Comptroller General Reports.—
+
+&emsp;"(1)
+
+Assessment of strategy.—Not later than January 1, 2021, the Comptroller General of the United States shall submit to the congressional defense committees a report assessing the extent to which the strategy under subsection (a) meets the requirements of this section.
+
+&emsp;"(2)
+
+Assessment of implementation.—Not later than April 1, 2022, the Comptroller General shall submit to the congressional defense committees a report setting forth an assessment of the extent to which the strategy under subsection (a) has been effectively implemented by each military department and the Secretary of Defense.
+
+"(e)
+
+Covered Depot Defined.—In this section, the term 'covered depot' has the meaning given that term in section 2476(e) of title 10, United States Code."
+
 #### Two Year Phase-in for Departments of the Army and the Navy
 
 Pub. L. 109–364, div. A, title III, §332(d), Oct. 17, 2006, 120 Stat. 2150, provided that:
 
 "(1)
 
-Reduced percentage of required investment for fiscal years 2007 and 2008.—The Secretary of theArmy shall apply subsection (a) of section 2476 of title 10, United States Code, as added by subsection (a), to the covered depots of the Army, and the Secretary of the Navy shall apply such subsection to the covered depots of the Department of the Navy—
+Reduced percentage of required investment for fiscal years 2007 and 2008.—The Secretary of the Army shall apply subsection (a) of section 2476 of title 10, United States Code, as added by subsection (a), to the covered depots of the Army, and the Secretary of the Navy shall apply such subsection to the covered depots of the Department of the Navy—
 
 &emsp;"(A) for fiscal year 2007, by substituting 'four percent' for 'six percent'; and
 

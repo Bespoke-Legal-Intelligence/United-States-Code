@@ -22,7 +22,7 @@ The Secretary shall establish a pre-rulemaking process under which the following
 
 #### (5) Rationale for use of quality and efficiency measures
 
-&emsp;The Secretary shall publish in the Federal Register the rationale for the use of any quality and efficiency measure described in section 1395aaa(b)(7)(B) of this title that has not beenendorsed by the entity with a contract under section 1395aaa of this title.
+&emsp;The Secretary shall publish in the Federal Register the rationale for the use of any quality and efficiency measure described in section 1395aaa(b)(7)(B) of this title that has not been endorsed by the entity with a contract under section 1395aaa of this title.
 
 #### (6) Assessment of impact
 
@@ -90,7 +90,7 @@ The Secretary shall, to the extent practicable, publicly report on measures for 
 
 &emsp;Not later than 1 year after the date the technical expert panel described in paragraph (1) is established (and periodically thereafter as the Secretary determines appropriate), the technical expert panel shall—
 
-&emsp;&emsp;(A) review quality measures that relate to opioids and opioid use disorders, including existing measures and those under development;
+&emsp;&emsp;(A) review quality measures that relate to opioids and opioid use disorders, includingexisting measures and those under development;
 
 &emsp;&emsp;(B) identify gaps in areas of quality measurement that relate to opioids and opioid use disorders, and identify measure development priorities for such measure gaps; and
 
@@ -100,7 +100,7 @@ The Secretary shall, to the extent practicable, publicly report on measures for 
 
 &emsp;The Secretary shall consider—
 
-&emsp;&emsp;(A) using opioid and opioid use disorder measures (including measures used under the Merit-Based Incentive Payment System under section 1395w–4(q) of this title, measures recommended under paragraph (2)(C),and other such measures identified by the Secretary) in alternative payment models under section 1395l(z)(3)(C) of this title and in the shared savings program under section 1395jjj of this title; and
+&emsp;&emsp;(A) using opioid and opioid use disorder measures (including measures used under the Merit-Based Incentive Payment System under section 1395w–4(q) of this title, measures recommended under paragraph (2)(C), and other such measures identified by the Secretary) in alternative payment models under section 1395l(z)(3)(C) of this title and in the shared savings program under section 1395jjj of this title; and
 
 &emsp;&emsp;(B) using opioid measures described in subparagraph (A), as applicable, in the quality reporting requirements for inpatient hospitals under section 1395ww(b)(3)(B)(viii) of this title, and in the hospital value-based purchasing program under section 1395ww(o) of this title.
 

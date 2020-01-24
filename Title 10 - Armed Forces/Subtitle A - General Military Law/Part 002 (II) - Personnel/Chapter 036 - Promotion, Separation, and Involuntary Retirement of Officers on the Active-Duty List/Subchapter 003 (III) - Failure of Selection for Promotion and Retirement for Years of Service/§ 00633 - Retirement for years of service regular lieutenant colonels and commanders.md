@@ -12,7 +12,7 @@ Exceptions.—Subsection (a) does not apply to the following:
 
 &emsp;(2) An officer of the Navy or Marine Corps who is a permanent professor at the United States Naval Academy.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2862; amended Pub. L. 98–525, title V, §529(b), title XIV, §1405(12), Oct. 19, 1984, 98 Stat. 2526, 2622; Pub. L. 102–484, div. A, title V, §504(a), Oct. 23, 1992, 106 Stat. 2403; Pub. L. 103–160, div. A, title V, §561(e), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §504(a), Oct. 17, 1998, 112 Stat. 2004; Pub. L. 109–163, div. A, title V, §509(a)(1), Jan. 6, 2006, 119 Stat. 3229; Pub. L. 114–328, div. A, title V, §505(b)(1), Dec. 23, 2016, 130 Stat. 2108; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2862; amended Pub. L. 98–525, title V,§529(b), title XIV, §1405(12), Oct. 19, 1984, 98 Stat. 2526, 2622; Pub. L. 102–484, div. A, title V, §504(a), Oct. 23, 1992, 106 Stat. 2403; Pub. L. 103–160, div. A, title V, §561(e), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §504(a), Oct. 17, 1998, 112 Stat. 2004; Pub. L. 109–163, div. A, title V, §509(a)(1), Jan. 6, 2006, 119 Stat. 3229; Pub. L. 114–328, div. A, title V, §505(b)(1), Dec. 23, 2016, 130 Stat. 2108; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 #### Amendments
 

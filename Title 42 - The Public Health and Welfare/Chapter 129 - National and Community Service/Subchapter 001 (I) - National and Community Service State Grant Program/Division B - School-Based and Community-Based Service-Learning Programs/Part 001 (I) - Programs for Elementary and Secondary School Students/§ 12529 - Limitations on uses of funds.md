@@ -6,7 +6,7 @@ Not more than 6 percent of the amount of assistance received by a State, territo
 
 #### Prior Provisions
 
-A prior section 12529, Pub. L. 101–610, title I, §116, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 832, related to Federal, State, and local contributions, prior to the general amendment of this part by Pub. L. 111–13, effective Oct. 1, 2009.
+A prior section 12529, Pub. L. 101–610, title I, §116, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107Stat. 832, related to Federal, State, and local contributions, prior to the general amendment of this part by Pub. L. 111–13, effective Oct. 1, 2009.
 
 A prior section 117 of Pub. L. 101–610 was classified to section 12541 of this title prior to the general amendment of this part by Pub. L. 111–13.
 

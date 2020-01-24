@@ -10,7 +10,7 @@ Closure or Disapproval.—Any payment of educational assistance described in sub
 
 (b)
 
-Educational Assistance Described.—Subject to subsection (c), the payment of educational assistance described in this paragraph <sup>1</sup> is the payment of such assistance to an individual for pursuit of a course or program of education at an educational institution under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, if the Secretary determines that the individual—
+Educational Assistance Described.—Subject to subsection (c), the payment of educational assistance described in this subsection is the payment of such assistance to an individual for pursuit of a course or program of education at an educational institution under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, if the Secretary determines that the individual—
 
 &emsp;(1) was unable to complete such course or program as a result of—
 
@@ -50,11 +50,15 @@ Notice of Closures.—Not later than 5 business days after the date on which the
 
 &emsp;(2) the effect of such closure on the individual's entitlement to educational assistance pursuant to this section.
 
-(Added Pub. L. 115–48, title I, §109(a)(1), Aug. 16, 2017, 131 Stat. 978.)
+(Added Pub. L. 115–48, title I, §109(a)(1), Aug. 16, 2017, 131 Stat. 978; amended Pub. L. 116–61, §6(6), Sept. 30, 2019, 133 Stat. 1117.)
 
 #### Prior Provisions
 
 A prior section 3699, added Pub. L. 93–508, title III, §301(a), Dec. 3, 1974, 88 Stat. 1591, §1799; amended Pub. L. 94–502, title V, §513(a)(24), Oct. 15, 1976, 90 Stat. 2404; Pub. L. 97–295, §4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 101–237, title IV, §423(b)(1), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3699 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to revolving fund available for making of loans under former subchapter III of this chapter, prior to repeal by Pub. L. 108–183, title III, §306(e), Dec. 16, 2003, 117 Stat. 2661, effective 90 days after Dec. 16, 2003.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (b). Pub. L. 116–61 substituted "this subsection" for "this paragraph".
 
 #### Effective Date
 
@@ -75,6 +79,4 @@ In general.—With respect to courses and programs of education discontinued as 
 &emsp;"(ii)
 
 Individual described.—An individual described in this clause is an individual who is enrolled in a course or program of education discontinued as described in clause (i) during the period beginning on the date that is 120 days before the date of such discontinuance and ending on the date of such discontinuance."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

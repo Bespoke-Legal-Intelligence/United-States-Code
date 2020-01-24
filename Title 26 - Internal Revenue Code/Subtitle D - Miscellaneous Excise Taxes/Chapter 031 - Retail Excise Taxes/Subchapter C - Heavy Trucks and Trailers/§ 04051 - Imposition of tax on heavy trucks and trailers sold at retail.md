@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is hereby imposed on the first retail sale of the following articles (including ineach case parts or accessories sold on or in connection therewith or with the sale thereof) a tax of 12 percent of the amount for which the article is so sold:
+&emsp;There is hereby imposed on the first retail sale of the following articles (including in each case parts or accessories sold on or in connection therewith or with the sale thereof) a tax of 12 percent of the amount for which the article is so sold:
 
 &emsp;&emsp;(A) Automobile truck chassis.
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pu
 
 Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 4041 of this title.
 
-Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
 
 Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 4041 of this title.
 

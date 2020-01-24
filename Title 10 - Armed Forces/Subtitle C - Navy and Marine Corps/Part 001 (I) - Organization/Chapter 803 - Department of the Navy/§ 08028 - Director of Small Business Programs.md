@@ -12,7 +12,7 @@ Office of Small Business Programs.—The Office of Small Business Programs of th
 
 Duties and Powers.—(1) The Director of Small Business Programs shall, subject to paragraph (2), perform such duties regarding small business programs of the Department of the Navy, and shall exercise such powers regarding those programs, as the Secretary of the Navy may prescribe.
 
-(2) Section 15(k) of the Small Business Act (15 U.S.C. 644(k)), except for the designations of the Director and the Office, applies to the Director of Small Business Programs.
+(2) Section 15(k) of the Small Business Act (15 U.S.C. 644(k)), except for the designations of theDirector and the Office, applies to the Director of Small Business Programs.
 
 (Added Pub. L. 109–163, div. A, title IX, §904(d)(1), Jan. 6, 2006, 119 Stat. 3401, §5028; renumbered §8028, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 

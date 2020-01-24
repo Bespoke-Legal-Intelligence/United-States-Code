@@ -4,7 +4,7 @@
 
 (2) For purposes of paragraph (1) of this subsection, a certification may be made, in the case of a bankruptcy judge or a United States magistrate,<sup>1</sup> by the judicial council of the circuit in which the official duty station of the judge or magistrate at the time of retirement was located.
 
-(3) For purposes of this section, the term "bankruptcy judge" means a bankruptcy judge appointed under chapter 6 of this title or serving as a bankruptcy judge on March 31, 1984.
+(3) For purposes of this section, the term "bankruptcy judge" means a bankruptcy judgeappointed under chapter 6 of this title or serving as a bankruptcy judge on March 31, 1984.
 
 (b) A judge or magistrate judge recalled under this section may exercise all of the powers and duties of the office of judge or magistrate judge held at the time of retirement, including the ability to serve in any other judicial district to the extent applicable, but may not engage in the practice of law or engage in any other business, occupation, or employment inconsistent with the expeditious, proper, and impartial performance of duties as a judicial officer.
 

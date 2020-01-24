@@ -48,7 +48,7 @@ The Council shall make an annual report to the President in December of each yea
 
 In exercising its powers, functions and duties under this chapter—
 
-&emsp;(1) the Council may constitute such advisory committees and may consult with such representatives of industry, agriculture, labor, consumers, State and local governments, andother groups, as it deems advisable, and shall consult with the board or boards established under section 1022f of this title;
+&emsp;(1) the Council may constitute such advisory committees and may consult with such representatives of industry, agriculture, labor, consumers, State and local governments, and other groups, as it deems advisable, and shall consult with the board or boards established under section 1022f of this title;
 
 &emsp;(2) the Council shall, to the fullest extent possible, utilize the services, facilities, and information (including statistical information) of other Government agencies as well as of private research agencies, in order that duplication of effort and expense may be avoided.
 
@@ -74,7 +74,7 @@ In subsec. (b), provisions that authorized the Council to fix the compensation o
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–166 added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "There is created in the Executive Office of the President a Council of Economic Advisers (hereinafter called the "Council"). The Council shall be composed of three members who shall be appointed by the President by and with the advice and consent of the Senate, and each of whom shall be a person who, as a result of his training, experience, and attainments, is exceptionally qualified to analyze and interpret economic developments, to appraise programs and activities of the Government in the light of the policy declared in section 1021 of this title, and to formulate and recommend national economic policy to promote full employment, production, and purchasing power under free competitive enterprise. The President shall designate one of the members of the Council as chairman and one as vice chairman, who shall act as chairman in the absence of the chairman."
+<b>2012</b>—Subsec. (a). Pub. L. 112–166 added subsec. (a) and struck out former subsec. (a). Prior to amendment, textread as follows: "There is created in the Executive Office of the President a Council of Economic Advisers (hereinafter called the "Council"). The Council shall be composed of three members who shall be appointed by the President by and with the advice and consent of the Senate, and each of whom shall be a person who, as a result of his training, experience, and attainments, is exceptionally qualified to analyze and interpret economic developments, to appraise programs and activities of the Government in the light of the policy declared in section 1021 of this title, and to formulate and recommend national economic policy to promote full employment, production, and purchasing power under free competitive enterprise. The President shall designate one of the members of the Council as chairman and one as vice chairman, who shall act as chairman in the absence of the chairman."
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–523, §110(a)(1), inserted "full" after "policy to promote".
 
@@ -110,7 +110,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### COUNCIL OF ECONOMIC ADVISERS
 
-The functions vested in the Council of Economic Advisers by section 4(b) of the Employment Act of 1946 (60Stat. 24) \[subsec. (b) of this section\], and so much of the functions vested in the Council by section 4(c) of that Act \[subsec. (c) of this section\] as consists of reporting to the President with respect to any function of the Council under the said section 4(c) \[subsec. (c) of this section\], are hereby transferred to the Chairman of the Council of Economic Advisers. The position of Vice Chairman of the Council of Economic Advisers, provided for in the last sentence of section 4(a) of the said Act \[subsec. (a) of this section\] is hereby abolished.
+The functions vested in the Council of Economic Advisers by section 4(b) of the Employment Act of 1946 (60 Stat. 24) \[subsec. (b) of this section\], and so much of the functions vested in the Council by section 4(c) of that Act \[subsec. (c) of this section\] as consists of reporting to the President with respect to any function of the Council under the said section 4(c) \[subsec. (c) of this section\], are hereby transferred to the Chairman of the Council of Economic Advisers. The position of Vice Chairman of the Council of Economic Advisers, provided for in the last sentence of section 4(a) of the said Act \[subsec. (a) of this section\] is hereby abolished.
 
 #### Executive Order No. 10802
 

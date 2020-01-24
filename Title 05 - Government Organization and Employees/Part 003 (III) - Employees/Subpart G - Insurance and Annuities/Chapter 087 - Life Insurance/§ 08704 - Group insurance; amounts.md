@@ -12,7 +12,7 @@
 | :--- | ---: |
 | 35 or under | 2\.0&nbsp;&nbsp;&nbsp; |
 | 36 | 1\.9&nbsp;&nbsp;&nbsp; |
-| 37 | 1\.8    |
+| 37 | 1\.8&nbsp;&nbsp;&nbsp; |
 | 38 | 1\.7&nbsp;&nbsp;&nbsp; |
 | 39 | 1\.6&nbsp;&nbsp;&nbsp; |
 | 40 | 1\.5&nbsp;&nbsp;&nbsp; |
@@ -38,7 +38,7 @@
 
 &emsp;(1) premium pay under section 5545(c)(1) of this title; and
 
-&emsp;(2) with respect to a law enforcement officer as defined in section 8331(20) or 8401(17) of this title, premium pay under section 5545(c)(2) of this title.
+&emsp;(2) with respect to a law enforcement officer as defined in section 8331(20) or 8401(17) of thistitle, premium pay under section 5545(c)(2) of this title.
 
 (d) In determining the amount of insurance to which an employee is entitled—
 

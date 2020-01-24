@@ -30,7 +30,7 @@ Eligible Employees.—(1) A civilian employee of the Department of Defense or th
 
 &emsp;(C) satisfies such other criteria for selection as the Secretary of Defense may prescribe.
 
-(2) The Secretary of Defense may accept an application from a civilian employee referred to inparagraph (1) who was terminated during the period beginning on October 1, 1990, and ending on October 1, 1992, if the employee otherwise satisfies the eligibility criteria specified in that paragraph.
+(2) The Secretary of Defense may accept an application from a civilian employee referred to in paragraph (1) who was terminated during the period beginning on October 1, 1990, and ending on October 1, 1992, if the employee otherwise satisfies the eligibility criteria specified in that paragraph.
 
 (c)
 
@@ -76,7 +76,7 @@ Placement of Participants as Teachers and Teachers' Aides.—Subsections (h) thr
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10,Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 Section 1151 of this title, referred to in subsecs. (d)(2)(A), (B) and (f), was repealed by Pub. L. 106–65, div. A, title XVII, §1707(a)(1), Oct. 5, 1999, 113 Stat. 823, and a new section 1151 of this title was subsequently added by Pub. L. 109–364, §561(a).
 

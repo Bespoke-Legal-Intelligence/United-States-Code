@@ -120,7 +120,7 @@ Pub. L. 99–500, §101(b) \[title VI, §608\], Oct. 18, 1986, 100 Stat. 1783–
 
 "(2) The level of benefits required to be paid by this subsection may be modified prior to confirmation of a plan under section 1129 of such title if—
 
-&emsp;"(A) the trustee and an authorized representative of the former employees with respect to whom such benefits are payable agree to the modification of such benefit payments; or
+&emsp;"(A) the trustee and an authorized representative of the former employees with respect to whom suchbenefits are payable agree to the modification of such benefit payments; or
 
 &emsp;"(B) the court finds that a modification proposed by the trustee meets the standards of section 1113(b)(1)(A) of such title and the balance of the equities clearly favors the modification.
 

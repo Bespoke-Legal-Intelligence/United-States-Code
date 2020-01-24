@@ -34,7 +34,7 @@ Education and Experience Requirements.—(1) An officer may not be designated as
 
 &emsp;&emsp;(ii) such other assignments and experiences in a manner that demonstrate the officer's mastery of knowledge, skills, and abilities in joint matters, as determined under such regulations and policy as the Secretary of Defense may prescribe.
 
-(2) Subject to paragraphs (3) through (6), the Secretary of Defense may waive the requirement under paragraph (1)(A) that an officer has successfully completed a program of education, as described in subsections (b) and (c) of section 2155 of this title.
+(2) Subject to paragraphs (3) through (6), the Secretary of Defense may waive the requirementunder paragraph (1)(A) that an officer has successfully completed a program of education, as described in subsections (b) and (c) of section 2155 of this title.
 
 (3) In the case of an officer in a grade below brigadier general or rear admiral (lower half), a waiver under paragraph (2) may be granted only if—
 
@@ -54,7 +54,7 @@ Education and Experience Requirements.—(1) An officer may not be designated as
 
 (d)
 
-Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure that approximately one-half of the joint duty assignment positions in grades above major or, in the case of the Navy, lieutenant commander arefilled at any time by officers who have the appropriate level of joint qualification.
+Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure that approximately one-half of the joint duty assignment positions in grades above major or, in the case of the Navy, lieutenant commander are filled at any time by officers who have the appropriate level of joint qualification.
 
 (2) The Secretary of Defense, with the advice of the Chairman of the Joint Chiefs of Staff, shall designate an appropriate number of joint duty assignment positions as critical joint duty assignment positions. A position may be designated as a critical joint duty assignment position only if the duties and responsibilities of the position make it important that the occupant be particularly trained in, and oriented toward, joint matters.
 
@@ -64,7 +64,7 @@ Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure th
 
 &emsp;(ii) was selected for the joint specialty before October 1, 2007.
 
-(B) The Secretary of Defense may waive the requirement in subparagraph (A) with respect to the assignment of an officer to a position designated under paragraph (2). Any such waiver shall be granted on a case-by-case basis. The authority of the Secretary to grant such a waiver may be delegated only to the Chairman of the Joint Chiefs of Staff.
+(B) The Secretary of Defense may waive the requirement in subparagraph (A) with respect to the assignment of an officer to a position designated under paragraph (2). Any such waiver shall be granted on a case-by-case basis. The authority of the Secretary to grant such a waiver may be delegated only to the Chairman of the Joint Chiefs of Staff or a designee of the Chairman who is an officer of the armed forces in grade O–9 or higher.
 
 (4) The Secretary of Defense shall ensure that, of those joint duty assignment positions that are filled by general or flag officers, a substantial portion are among those positions that are designated under paragraph (2) as critical joint duty assignment positions.
 
@@ -86,9 +86,11 @@ Career Guidelines.—The Secretary, with the advice of the Chairman of the Joint
 
 Treatment of Certain Service.—Any service by an officer in the grade of captain or, in the case of the Navy, lieutenant in a joint duty assignment shall be considered to be service in a joint duty assignment for purposes of all laws (including section 619a of this title) establishing a requirement or condition with respect to an officer's service in a joint duty assignment.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1025; amended Pub. L. 100–180, div. A, title XIII, §1301–1302(b), Dec. 4, 1987, 101 Stat. 1168, 1169; Pub. L. 100–456, div. A, title V, §§511, 512(a), 517(a), 518, Sept. 29, 1988, 102 Stat. 1968, 1971; Pub. L. 101–189, div. A, title XI, §§1113, 1122, Nov. 29, 1989, 103 Stat. 1554, 1556; Pub. L. 104–106, div. A, title V, §501(a), (d), title XV, §1503(a)(6), Feb. 10, 1996, 110 Stat. 290, 292, 511; Pub. L. 107–107, div. A, title V, §521(a), Dec. 28, 2001, 115 Stat. 1097; Pub. L. 107–314, div. A, title V, §502(c), title X, §1062(a)(3), Dec. 2, 2002, 116 Stat. 2530, 2649; Pub. L. 109–364, div. A, title V, §516(a)–(e)(1), Oct. 17, 2006, 120 Stat. 2187–2189; Pub. L. 110–417, \[div. A\], title V, §522(a)(1), (2), Oct. 14, 2008, 122 Stat. 4444, 4445; Pub. L. 115–91, div. A, title X, §1081(a)(20), Dec. 12, 2017, 131 Stat. 1595.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1025; amended Pub. L. 100–180, div. A, title XIII, §1301–1302(b), Dec. 4, 1987, 101 Stat. 1168, 1169; Pub. L. 100–456, div. A, title V, §§511, 512(a), 517(a), 518, Sept. 29, 1988, 102 Stat. 1968, 1971; Pub. L. 101–189, div. A, title XI, §§1113, 1122, Nov. 29, 1989, 103 Stat. 1554, 1556; Pub. L. 104–106, div. A, title V, §501(a), (d), title XV, §1503(a)(6), Feb. 10, 1996, 110 Stat. 290, 292, 511; Pub. L. 107–107, div. A, title V, §521(a), Dec. 28, 2001, 115 Stat. 1097; Pub. L. 107–314, div. A, title V, §502(c), title X, §1062(a)(3), Dec. 2, 2002, 116 Stat. 2530, 2649; Pub. L. 109–364, div. A, title V, §516(a)–(e)(1), Oct. 17, 2006, 120 Stat. 2187–2189; Pub. L. 110–417, \[div. A\], title V, §522(a)(1), (2), Oct. 14, 2008, 122 Stat. 4444, 4445; Pub. L. 115–91, div. A, title X, §1081(a)(20), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 116–92, div. A, title V, §505, Dec. 20, 2019, 133 Stat. 1345.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (d)(3)(B). Pub. L. 116–92 inserted "or a designee of the Chairman who is an officer of the armed forces in grade O–9 or higher" after "Chairman of the Joint Chiefs of Staff".
 
 <b>2017</b>—Subsec. (c)(1)(B)(i), (3)(A). Pub. L. 115–91 substituted "664(d)" for "664(f)".
 
@@ -96,7 +98,7 @@ Treatment of Certain Service.—Any service by an officer in the grade of captai
 
 <b>2006</b>—Pub. L. 109–364, §516(e)(1), substituted "officers who are joint qualified" for "joint specialty officers" in section catchline.
 
-Subsec. (a). Pub. L. 109–364, §516(a), struck out at end "For purposes of this chapter, officers to be managed by such policies, procedures, and practices are referred to as having, or having been nominated for, the 'joint specialty'."
+Subsec. (a). Pub. L. 109–364, §516(a), struck out at end "For purposes of this chapter, officers to be managedby such policies, procedures, and practices are referred to as having, or having been nominated for, the 'joint specialty'."
 
 Subsecs. (b) to (d). Pub. L. 109–364, §516(b), amended subsecs. (b) to (d) generally. Prior to amendment, subsecs. (b) to (d) related to numbers and selection of officers with the joint specialty, education and experience requirements, and number of joint duty assignments.
 
@@ -202,7 +204,7 @@ Joint Specialty.—
 
 &emsp;"(1)
 
-Initial selections.—(A) In making the initial selections of officers for the joint specialty under section 661 of title 10, United States Code (as added by section 401 of this Act), the Secretary of Defense may waive the requirement of either subparagraph (A) or (B) (but not both) of subsection (c)(1) of such sectionin the case of any officer in a grade above captain or, in the case of the Navy, lieutenant.
+Initial selections.—(A) In making the initial selections of officers for the joint specialty under section 661 of title 10, United States Code (as added by section 401 of this Act), the Secretary of Defense may waive the requirement of either subparagraph (A) or (B) (but not both) of subsection (c)(1) of such section in the case of any officer in a grade above captain or, in the case of the Navy, lieutenant.
 
 &emsp;"(B) In applying such subparagraph (B) to the initial selections of officers for the joint specialty, the Secretary may in the case of any officer—
 

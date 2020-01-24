@@ -22,7 +22,7 @@ Authorization.—Transfers between the various appropriations made for System un
 
 &emsp;&emsp;(B)
 
-Availability of supplies and materials and transfers in subsequent years.—Supplies and materials that remain at the end of any fiscal year shall be continuously available for issuance during subsequent fiscal years and shall be charged for by transfers of funds between appropriations made for the administration, protection, maintenance, and improvement of System units for the fiscal year then current without decreasing the appropriations made for that fiscal year.
+Availability of supplies and materials and transfers in subsequentyears.—Supplies and materials that remain at the end of any fiscal year shall be continuously available for issuance during subsequent fiscal years and shall be charged for by transfers of funds between appropriations made for the administration, protection, maintenance, and improvement of System units for the fiscal year then current without decreasing the appropriations made for that fiscal year.
 
 (c)
 

@@ -30,7 +30,7 @@ Appointment and Compensation of Officers and Employees.—The Executive Director
 
 (d)
 
-Appointment and Compensation of Additional Personnel.—The Executive Director may appoint and fix the compensation of such additional personnel as may be necessary to carry out the Council's duties, without regard to the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5.
+Appointment and Compensation of Additional Personnel.—The Executive Directormay appoint and fix the compensation of such additional personnel as may be necessary to carry out the Council's duties, without regard to the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5.
 
 (e)
 
@@ -110,7 +110,7 @@ In subsection (f)(1), the word "Secretary" is substituted for "Department of the
 
 #### References in Text
 
-Section 207 of the National Historic Preservation Act, referred to in subsec. (h), is section 207 of Pub. L. 89–665, as added Pub. L. 94–422, title II, §201(9), Sept. 28, 1976, 90 Stat. 1322, which related to transfer of personnel and property by Department of the Interior to Advisory Council on Historic Preservation and was classified to section 470o of Title 16, Conservation, prior to repeal by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272.
+Section 207 of the National Historic Preservation Act, referred to in subsec. (h), is section 207 of Pub. L. 89–665, as added Pub. L. 94–422, title II, §201(9), Sept. 28, 1976, 90 Stat. 1322, which related to transfer of personnel and property by Department of the Interior to Advisory Council on Historic Preservation and was classified tosection 470o of Title 16, Conservation, prior to repeal by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272.
 
 The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

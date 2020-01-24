@@ -54,7 +54,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 not applicable to transfers made before Jan. 1, 1977, see section 2001(d)(1) ofPub. L. 94–455, set out as a note under section 2001 of this title.
+Amendment by Pub. L. 94–455 not applicable to transfers made before Jan. 1, 1977, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under section 2001 of this title.
 
 #### Effective Date of 1975 Amendment
 

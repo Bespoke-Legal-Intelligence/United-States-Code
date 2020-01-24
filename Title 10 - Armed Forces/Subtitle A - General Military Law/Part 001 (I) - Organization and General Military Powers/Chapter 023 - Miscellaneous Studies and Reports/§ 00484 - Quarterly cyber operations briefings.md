@@ -16,7 +16,23 @@ Elements.—Each briefing under subsection (a) shall include, with respect to th
 
 &emsp;(4) Any other matters the Secretary determines to be appropriate.
 
-(Added Pub. L. 112–239, div. A, title IX, §939(a), Jan. 2, 2013, 126 Stat. 1888; amended Pub. L. 115–91, div. A, title XVI, §1632(a), Dec. 12, 2017, 131 Stat. 1738.)
+(Added Pub. L. 112–239, div. A, title IX, §939(a), Jan. 2, 2013, 126 Stat. 1888; amended Pub. L. 115–91, div. A, title XVI, §1632(a), Dec. 12, 2017, 131 Stat. 1738; Pub. L. 116–92, div. A, title XVI, §1634(a), Dec. 20, 2019, 133 Stat. 1747.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 116–92, div. A, title XVI, §1634(a), (d), Dec. 20, 2019, 133 Stat. 1747, 1748, provided that, effective on the date that is 180 days after Dec. 20, 2019, subsection (b) of this section is amended by redesignating paragraph (4) as paragraph (5) and by inserting after paragraph (3) the following new paragraph (4):</i>
+
+&emsp;<i>(4) An overview of the readiness of the Cyber Mission Forces to perform assigned missions that—</i>
+
+&emsp;&emsp;<i>(A) address all of the abilities of such Forces to conduct cyberspace operations based on capability and capacity of personnel, equipment, training, and equipment condition—</i>
+
+&emsp;&emsp;&emsp;<i>(i) using both quantitative and qualitative metrics; and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) in a way that is common to all military departments; and</i>
+
+&emsp;&emsp;<i>(B) is consistent with readiness reporting pursuant to section 482 of this title.</i>
+
+<i>See 2019 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -24,7 +40,13 @@ A prior section 484, added Pub. L. 105–85, div. A, title III, §324(a)(1), Nov
 
 #### Amendments
 
+<b>2019</b>—Subsec. (b)(4), (5). Pub. L. 116–92 added par. (4) and redesignated former par. (4) as (5).
+
 <b>2017</b>—Pub. L. 115–91 designated existing provisions as subsec. (a), inserted heading, substituted "congressional defense committees" for "Committees on Armed Services of the House of Representatives and the Senate", and added subsec. (b).
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–92, div. A, title XVI, §1634(d), Dec. 20, 2019, 133 Stat. 1748, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 20, 2019\]."
 
 #### Effective Date of 2017 Amendment
 

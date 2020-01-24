@@ -68,7 +68,7 @@ Section 303 of the American Innovation and Competitiveness Act, referred to in s
 
 #### Codification
 
-Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as theAmerica Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
+Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
 
 #### Amendments
 
@@ -170,7 +170,7 @@ Travel Expenses of Non-Federal Members.—
 
 &emsp;"(1)
 
-In general.—Non-Federal members of the STEM Education Advisory Panel, while attending meetings of the panel or while otherwise serving at the request of a co-chairperson away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, United States Code, for individuals in the Government serving without pay.
+In general.—Non-Federal members of the STEM Education Advisory Panel, while attending meetings of the panel or while otherwise serving at the request of a co-chairperson away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, UnitedStates Code, for individuals in the Government serving without pay.
 
 &emsp;"(2)
 

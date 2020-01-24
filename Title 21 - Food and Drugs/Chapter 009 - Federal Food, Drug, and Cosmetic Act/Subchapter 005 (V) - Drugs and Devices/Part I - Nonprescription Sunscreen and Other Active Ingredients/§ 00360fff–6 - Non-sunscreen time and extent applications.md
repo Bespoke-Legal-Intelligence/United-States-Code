@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) the processes and procedures set forth under part 330 of title 21, Code of Federal Regulations (or any successor regulations);
 
-&emsp;&emsp;&emsp;(iii) an initial filing determination under the processes and procedures described in section 360fff–2(b) of this title and the processes and procedures set forth for pending requests under section 360fff–3(b) of this title, except that specific timelines shall be determined in accordance with other applicable requirements under this section; or
+&emsp;&emsp;&emsp;(iii) an initial filing determination under the processes and procedures described in section 360fff–2(b) of this title and the processes and procedures set forth forpending requests under section 360fff–3(b) of this title, except that specific timelines shall be determined in accordance with other applicable requirements under this section; or
 
 &emsp;&emsp;&emsp;(iv) an initial filing determination under the processes and procedures described in section 360fff–2(b) of this title and the processes and procedures set forth under part 330 of title 21, Code of Federal Regulations (or any successor regulations).
 
@@ -48,7 +48,7 @@
 
 #### (4) Letter regarding pending applications
 
-&emsp;Not later than 18 months after November 26, 2014, the Secretary shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, in writing, regarding all pending applications subject to paragraph (1). In such letter, the Secretary shall provide a report on the review of such applications, including thetimelines, in calendar days, for the review and GRASE determination for each application. Such timelines shall account for the considerations under paragraph (5).
+&emsp;Not later than 18 months after November 26, 2014, the Secretary shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, in writing, regarding all pending applications subject to paragraph (1). In such letter, the Secretary shall provide a report on the review of such applications, including the timelines, in calendar days, for the review and GRASE determination for each application. Such timelines shall account for the considerations under paragraph (5).
 
 #### (5) Timelines
 
@@ -68,7 +68,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 18 months after November 26, 2014, the Secretary shall issue proposed regulations establishing timelines for the review of applications for GRASE determinations for drugs other than nonprescription sunscreen active ingredients or combinations of nonprescription sunscreen active ingredients that are submitted to the Secretary after November 26, 2014, under section 330.14 of title 21, Code of Federal Regulations (or any successor regulations), and that are found to be eligible to be considered for inclusion in the over-the-counter drug monograph system pursuant to section 330.14 of title 21, Code of Federal Regulations (or any successor regulations), or that are subject to this subsection pursuant to paragraph (1) or (3) of subsection (a), as applicable, providing—
+&emsp;Not later than 18 months after November 26, 2014, the Secretary shall issue proposed regulations establishing timelines for the review of applications for GRASE determinations for drugs other than nonprescription sunscreen active ingredients or combinations of nonprescription sunscreen active ingredients that are submitted to the Secretary after November 26, 2014, under section 330.14 of title 21, Code of Federal Regulations (or any successor regulations), and that are found to be eligible to be considered for inclusion in the over-the-counter drug monograph system pursuant to section 330.14 of title 21, Code of Federal Regulations (or any successor regulations), or that are subject to this subsection pursuant toparagraph (1) or (3) of subsection (a), as applicable, providing—
 
 &emsp;&emsp;(A) timely and efficient completion of evaluations of applications under section 330.14 of title 21, Code of Federal Regulations (or any successor regulations) for drugs other than sunscreens; and
 

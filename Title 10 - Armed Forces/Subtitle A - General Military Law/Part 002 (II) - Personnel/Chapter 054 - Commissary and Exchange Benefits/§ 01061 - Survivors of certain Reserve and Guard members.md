@@ -2,7 +2,7 @@
 
 (a)
 
-Benefits.—The Secretary of Defense shall prescribe regulations to allow dependents of members of the uniformed services described in subsection (b) to use commissary and exchange stores on the same basis as dependents of members of the uniformed services who die while on active duty for a period of more than 30 days.
+Benefits.—The Secretary of Defense shall prescribe regulations to allow dependents ofmembers of the uniformed services described in subsection (b) to use commissary and exchange stores on the same basis as dependents of members of the uniformed services who die while on active duty for a period of more than 30 days.
 
 (b)
 

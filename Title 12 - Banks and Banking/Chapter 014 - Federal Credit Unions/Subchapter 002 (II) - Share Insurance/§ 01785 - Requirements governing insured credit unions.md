@@ -38,7 +38,7 @@ Conversion of insured credit unions to mutual savings banks.—
 
 &emsp;(A)
 
-In general.—Notwithstanding paragraph (1), an insured credit union may convert to a mutual savings bank or savings association (if the savings association is in mutual form), as those terms are defined in section 1813 of this title, without the prior approval of the Board, subject to the requirements and procedures set forth in the laws and regulations governing mutual savings banks and savings associations.
+In general.—Notwithstanding paragraph (1), an insured credit union may convert to amutual savings bank or savings association (if the savings association is in mutual form), as those terms are defined in section 1813 of this title, without the prior approval of the Board, subject to the requirements and procedures set forth in the laws and regulations governing mutual savings banks and savings associations.
 
 &emsp;(B)
 
@@ -150,7 +150,7 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 #### (3) Penalty
 
-&emsp;Whoever knowingly violates paragraph (1) or (2) shall be fined not more than $1,000,000 foreach day such prohibition is violated or imprisoned for not more than 5 years, or both.
+&emsp;Whoever knowingly violates paragraph (1) or (2) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
 
 #### (e) Security standards; reports; penalty
 

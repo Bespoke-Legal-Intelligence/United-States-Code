@@ -52,7 +52,7 @@ A State may, subject to subsection (f), use amounts provided under a grant award
 
 &emsp;&emsp;&emsp;(ii) assurances that, in metropolitan areas, the geographic area to be served by the consortium corresponds to the geographic boundaries of local health and support services delivery systems to the extent practicable;
 
-&emsp;&emsp;&emsp;(iii) assurances that, in the case of services for individuals residing in rural areas,the applicant consortium shall deliver case management services that link available community support services to appropriate specialized medical services; and
+&emsp;&emsp;&emsp;(iii) assurances that, in the case of services for individuals residing in rural areas, the applicant consortium shall deliver case management services that link available community support services to appropriate specialized medical services; and
 
 &emsp;&emsp;&emsp;(iv) assurances that the assessment of service needs and the planning of the delivery of services will include participation by individuals with HIV/AIDS;
 

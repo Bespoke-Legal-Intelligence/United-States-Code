@@ -82,7 +82,7 @@ Subsec. (b)(2)(A) to (C). Pub. L. 104–188, §1307(b), added subpar. (A), redes
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–311 effective as if included in the provisions of the Small Business Job ProtectionAct of 1996, Pub. L. 104–188, to which such amendment relates, see section 407(c) of Pub. L. 108–311, set out as a note under section 401 of this title.
+Amendment by Pub. L. 108–311 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which such amendment relates, see section 407(c) of Pub. L. 108–311, set out as a note under section 401 of this title.
 
 #### Effective Date of 1996 Amendments
 

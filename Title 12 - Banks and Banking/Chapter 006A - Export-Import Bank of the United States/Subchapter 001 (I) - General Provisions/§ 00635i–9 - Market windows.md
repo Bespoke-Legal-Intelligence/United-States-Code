@@ -12,7 +12,7 @@ The Bank may provide financing on terms and conditions that are inconsistent wit
 
 &emsp;&emsp;(A) matching such terms and conditions advances the negotiations for multilateral disciplines and transparency within the OECD Export Credit Arrangement; or
 
-&emsp;&emsp;(B) transparency verifies that the market window financing is being offered on terms that are more favorable than the terms and conditions that are available from private financial markets; and
+&emsp;&emsp;(B) transparency verifies that the market window financing is being offered on terms that are more favorable than the terms andconditions that are available from private financial markets; and
 
 &emsp;(2) when the foreign government-supported institution refuses to provide sufficient transparency to permit the Bank to make a determination under paragraph (1).
 

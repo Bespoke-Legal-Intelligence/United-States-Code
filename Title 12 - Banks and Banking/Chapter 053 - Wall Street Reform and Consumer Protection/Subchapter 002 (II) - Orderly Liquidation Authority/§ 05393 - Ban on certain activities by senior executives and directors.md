@@ -36,7 +36,7 @@ The appropriate agency described in subsection (a) may take any action authorize
 
 #### (1) In general
 
-&emsp;The appropriate agency for a financial company, as described in subsection (a), may serveupon a senior executive or director described in subsection (b) a written notice of the intention of the agency to prohibit any further participation by such person, in any manner, in the conduct of the affairs of any financial company for a period of time determined by the appropriate agency to be commensurate with such violation, practice, or breach, provided such period shall be not less than 2 years.
+&emsp;The appropriate agency for a financial company, as described in subsection (a), may serve upon a senior executive or director described in subsection (b) a written notice of the intention of the agency to prohibit any further participation by such person, in any manner, in the conduct of the affairs of any financial company for a period of time determined by the appropriate agency to be commensurate with such violation, practice, or breach, provided such period shall be not less than 2 years.
 
 #### (2) Procedures
 

@@ -56,7 +56,7 @@ Pub. L. 106–501, §313, which directed amendment of subpart 4 of part C of tit
 
 #### Prior Provisions
 
-A prior section 3030g–21, Pub. L. 89–73, title III, §339, as added Pub. L. 102–375, title III, §317, Sept. 30, 1992, 106 Stat. 1241, related to compliance with dietary guidelines prior to repeal by Pub. L. 106–501, title III, §313, Nov. 13, 2000, 114 Stat. 2252. See Codification note above.
+A prior section 3030g–21, Pub. L. 89–73, title III, §339, as added Pub. L. 102–375, title III, §317, Sept. 30, 1992, 106Stat. 1241, related to compliance with dietary guidelines prior to repeal by Pub. L. 106–501, title III, §313, Nov. 13, 2000, 114 Stat. 2252. See Codification note above.
 
 #### Amendments
 

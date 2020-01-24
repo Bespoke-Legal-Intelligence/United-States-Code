@@ -50,7 +50,7 @@ Section 10709, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1382; Pub. L. 96–448,
 
 Section 10710, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1383, related to elimination of discrimination against recyclable materials.
 
-Section 10711, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1383, related to effect of former sections 10701(a), (b),10707, 10709, 10727, and 10728 of this title on rail rates and practices.
+Section 10711, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1383, related to effect of former sections 10701(a), (b), 10707, 10709, 10727, and 10728 of this title on rail rates and practices.
 
 Section 10712, added Pub. L. 96–448, title II, §206(a), Oct. 14, 1980, 94 Stat. 1906, related to inflation-based rate increases.
 

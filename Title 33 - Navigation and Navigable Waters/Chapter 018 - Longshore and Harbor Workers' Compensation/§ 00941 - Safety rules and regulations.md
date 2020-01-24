@@ -6,7 +6,7 @@ Every employer shall furnish and maintain employment and places of employment wh
 
 #### (b) Studies and investigations by Secretary
 
-The Secretary, in enforcing and administering the provisions of this section, is authorized in addition to such other powers and duties as are conferred upon him—
+The Secretary, in enforcing and administering the provisions of this section, is authorized inaddition to such other powers and duties as are conferred upon him—
 
 &emsp;(1) to make studies and investigations with respect to safety provisions and the causes and prevention of injuries in employments covered by this chapter, and in making such studies and investigations to cooperate with any agency of the United States or with any State agency engaged in similar work;
 

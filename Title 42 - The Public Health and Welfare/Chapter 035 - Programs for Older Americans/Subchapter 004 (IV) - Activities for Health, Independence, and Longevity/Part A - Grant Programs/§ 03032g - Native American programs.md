@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(iii) provide for the dissemination of results of the research; and
 
-&emsp;&emsp;&emsp;(iv) provide technical assistance and training to entities that provide services to Native Americans who are older individuals.
+&emsp;&emsp;&emsp;(iv) provide technical assistance and training to entities that provide servicesto Native Americans who are older individuals.
 
 #### (B) Areas of concern
 
@@ -50,7 +50,7 @@
 
 #### (b) Training grants
 
-The Assistant Secretary shall make grants and enter into contracts to provide in-servicetraining opportunities and courses of instruction on aging to Indian tribes through public or nonprofit Indian aging organizations and to provide annually national trainings for directors of programs under this subchapter.
+The Assistant Secretary shall make grants and enter into contracts to provide in-service training opportunities and courses of instruction on aging to Indian tribes through public or nonprofit Indian aging organizations and to provide annually national trainings for directors of programs under this subchapter.
 
 (Pub. L. 89–73, title IV, §418, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2263; amended Pub. L. 109–365, title IV, §407, Oct. 17, 2006, 120 Stat. 2557; Pub. L. 114–144, §5(b), Apr. 19, 2016, 130 Stat. 341.)
 

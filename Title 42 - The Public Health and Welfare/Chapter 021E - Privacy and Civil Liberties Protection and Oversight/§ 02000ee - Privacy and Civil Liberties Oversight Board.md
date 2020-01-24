@@ -108,7 +108,7 @@ The Board shall—
 
 The Board—
 
-&emsp;(1) shall make its reports, including its reports to Congress, available to the public to the greatest extent that is consistent with the protection of classified information and applicable law; and
+&emsp;(1) shall make its reports, including its reports to Congress, available to the public to the greatest extent that is consistent with theprotection of classified information and applicable law; and
 
 &emsp;(2) shall hold public hearings and otherwise inform the public of its activities, as appropriate and in a manner consistent with the protection of classified information and applicable law, but may, notwithstanding section 552b of title 5, meet or otherwise communicate in any number to confer or deliberate in a manner that is closed to the public.
 
@@ -180,7 +180,7 @@ The Board—
 
 #### (5) Quorum and meetings
 
-&emsp;The Board shall meet upon the call of the chairman or a majority of its members. Three members of the Board shall constitute a quorum.
+&emsp;The Board shall meet upon the call of the chairman or a majority of its members. Threemembers of the Board shall constitute a quorum.
 
 #### (i) Compensation and travel expenses
 
@@ -273,6 +273,10 @@ Subsec. (j)(2) to (4). Pub. L. 115–118, §108(a), added par. (2) and redesigna
 <b>2015</b>—Subsec. (g)(5). Pub. L. 114–113 added par. (5).
 
 <b>2007</b>—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (l).
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2007 Amendment
 

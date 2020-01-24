@@ -66,7 +66,7 @@ Except as provided by subsections (b) and (c) of section 2481 of this title:
 
 &emsp;(1) The Administrator may establish, abolish, alter, consolidate, or discontinue any organizational unit or component of the Administration, or transfer any function of the Administration.
 
-&emsp;(2) Such authority does not apply to the abolition of organizational units or components established by law or the transfer of functions vested by law in any organizational unit or component.
+&emsp;(2) Such authority does not apply to the abolition of organizational units or componentsestablished by law or the transfer of functions vested by law in any organizational unit or component.
 
 (Pub. L. 106–65, div. C, title XXXII, §3212, Oct. 5, 1999, 113 Stat. 957; Pub. L. 106–398, §1 \[div. C, title XXXI, §§3152(b), 3159(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464, 1654A–469; Pub. L. 107–107, div. A, title X, §1048(i)(12), Dec. 28, 2001, 115 Stat. 1230; Pub. L. 108–375, div. A, title IX, §902(e), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 110–417, div. C, title XXXI, §3111, Oct. 14, 2008, 122 Stat. 4753; Pub. L. 112–239, div. C, title XXXI, §3132(d)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §3145(a), Dec. 26, 2013, 127 Stat. 1071.)
 
@@ -250,7 +250,7 @@ Implementation Plan.—No funds may be allocated for the pilot program until 30 
 
 "(g)
 
-Report on Implementation.—(1) Not later than February 1, 2002, the Administrator shall submit to the congressional defense committees a report on the implementation and management of the pilot program.The report shall take into consideration the results of the pilot program to date and the views of the directors of the participating laboratories and facilities. The report shall include any recommendations the Administrator may have concerning the future of the pilot program.
+Report on Implementation.—(1) Not later than February 1, 2002, the Administrator shall submit to the congressional defense committees a report on the implementation and management of the pilot program. The report shall take into consideration the results of the pilot program to date and the views of the directors of the participating laboratories and facilities. The report shall include any recommendations the Administrator may have concerning the future of the pilot program.
 
 "(2) Not later than 30 days after the date on which the Administrator submits the report required by paragraph (1), the Comptroller General shall submit to the congressional defense committees a report containing the Comptroller General's assessment of that report."
 

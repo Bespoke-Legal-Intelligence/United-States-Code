@@ -44,7 +44,7 @@
 
 &emsp;(A) any name removed by the President from the report of the selection board containing that name, if dissemination is under the authority of subparagraph (B) of such paragraph; or
 
-&emsp;(B) the name of any officer whose promotion the Senate failed to confirm, if disseminationis under the authority of subparagraph (C) of such paragraph.
+&emsp;(B) the name of any officer whose promotion the Senate failed to confirm, if dissemination is under the authority of subparagraph (C) of such paragraph.
 
 \[(f) Repealed. Pub. L. 109–364, div. A, title V, §547(a)(2), Oct. 17, 2006, 120 Stat. 2216.\]
 
@@ -90,7 +90,7 @@ Pub. L. 109–364, div. A, title V, §513(c), Oct. 17, 2006, 120 Stat. 2185, pro
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–190 applicable to selection boards convened under section 611(a) of this title after end of 60-day period beginning Dec. 5, 1991, see section 504(e) of Pub. L. 102–190, set out as a note under section 615 of this title.
+Amendment by Pub. L. 102–190 applicable to selection boards convened under section 611(a) of this title afterend of 60-day period beginning Dec. 5, 1991, see section 504(e) of Pub. L. 102–190, set out as a note under section 615 of this title.
 
 #### Effective Date of 1988 Amendment
 

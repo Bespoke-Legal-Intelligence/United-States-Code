@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may use the authorities set forth in this section with respect to any procurement made during the period beginning onthe effective date of this chapter and ending September 30, 2007, if the Secretary determines in writing that the mission of the Department (as described in section 111 of this title) would be seriously impaired without the use of such authorities.
+&emsp;The Secretary may use the authorities set forth in this section with respect to any procurement made during the period beginning on the effective date of this chapter and ending September 30, 2007, if the Secretary determines in writing that the mission of the Department (as described in section 111 of this title) would be seriously impaired without the use of such authorities.
 
 #### (2) Delegation
 
@@ -12,7 +12,7 @@
 
 #### (3) Notification
 
-&emsp;Not later than the date that is 7 days after the date of any determination under paragraph (1), the Secretary shall submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate—
+&emsp;Not later than the date that is 7 days after the date of any determination under paragraph (1), the Secretary shall submit to the Committee on Government Reform of theHouse of Representatives and the Committee on Governmental Affairs of the Senate—
 
 &emsp;&emsp;(A) notification of such determination; and
 
@@ -88,7 +88,7 @@ Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (d)(3),
 
 #### Codification
 
-In subsec. (b)(1), "section 1902 of title 41" substituted for "section 32 of the Office of Federal ProcurementPolicy Act (41 U.S.C. 428)" and "subsections (a), (d), and (e) of such section 1902" substituted for "subsections (c), (d), and (f) of such section 32" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1), "section 1902 of title 41" substituted for "section 32 of the Office of Federal Procurement Policy Act (41 U.S.C. 428)" and "subsections (a), (d), and (e) of such section 1902" substituted for "subsections (c), (d), and (f) of such section 32" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (b)(2)(A), "section 1902(d) of title 41" substituted for "section 32(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 428(c))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
@@ -100,7 +100,7 @@ Section is comprised of section 833 of Pub. L. 107–296. Subsec. (c)(2) of sect
 
 #### Change of Name
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

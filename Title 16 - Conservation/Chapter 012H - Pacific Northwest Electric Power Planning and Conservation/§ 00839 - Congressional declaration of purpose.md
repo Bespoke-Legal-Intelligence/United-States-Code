@@ -36,7 +36,7 @@ This chapter, referred to in provision preceding par. (1) and in par. (5), was i
 
 #### Effective Date
 
-Pub. L. 96–501, §11, Dec. 5, 1980, 94 Stat. 2735, provided that: "This Act \[enacting this chapter, amending sections 837, 838i, and 838k of this title, and enacting provisions set out as notes under this section\] shall be effective on the date of enactment \[Dec. 5, 1980\], or October 1, 1980, whichever is later. For purposes of this Act, theterm 'date of the enactment of this Act' means such date of enactment \[Dec. 5, 1980\] or October 1, 1980, whichever is later."
+Pub. L. 96–501, §11, Dec. 5, 1980, 94 Stat. 2735, provided that: "This Act \[enacting this chapter, amending sections 837, 838i, and 838k of this title, and enacting provisions set out as notes under this section\] shall be effective on the date of enactment \[Dec. 5, 1980\], or October 1, 1980, whichever is later. For purposes of this Act, the term 'date of the enactment of this Act' means such date of enactment \[Dec. 5, 1980\] or October 1, 1980, whichever is later."
 
 #### Short Title
 

@@ -84,7 +84,7 @@ For purposes of this subchapter:
 
 #### (E) Property with respect to which State or local tax revenues may not be expended, allocated, or available for free public education
 
-&emsp;&emsp;Notwithstanding any other provision of this paragraph, "Federal property" does not include any property on which children reside that is otherwise described in this paragraph if—
+&emsp;&emsp;Notwithstanding any other provision of this paragraph, "Federal property" does notinclude any property on which children reside that is otherwise described in this paragraph if—
 
 &emsp;&emsp;&emsp;(i) no tax revenues of the State or of any political subdivision of the State may be expended for the free public education of children who reside on that Federal property; or
 
@@ -100,7 +100,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) was designated by treaty as tribal land; or
 
-&emsp;&emsp;&emsp;&emsp;(II) satisfied the definition of Federal property under section 403(1)(A) of theAct of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994).
+&emsp;&emsp;&emsp;&emsp;(II) satisfied the definition of Federal property under section 403(1)(A) of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994).
 
 #### (6) Free public education
 
@@ -178,7 +178,7 @@ For purposes of this subchapter:
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in par. (5)(A)(ii)(III), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (5)(A)(ii)(III), is Pub. L. 92–203, Dec. 18, 1971,85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The United States Housing Act of 1937, referred to in par. (5)(A)(iii)(I), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 

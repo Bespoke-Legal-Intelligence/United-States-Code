@@ -12,7 +12,7 @@ For purposes of the allocation to schools by the States or their agencies of fun
 
 #### (2) Rule
 
-&emsp;For charter schools that first open after November 1 of any academic year, the State, inaccordance with guidance provided by the Secretary and applicable Federal statutes and regulations, shall ensure that such charter schools that are eligible for the funds described in subsection (a) for such academic year have a full and fair opportunity to receive those funds during the charter schools' first year of operation.
+&emsp;For charter schools that first open after November 1 of any academic year, the State, in accordance with guidance provided by the Secretary and applicable Federal statutes and regulations, shall ensure that such charter schools that are eligible for the funds described in subsection (a) for such academic year have a full and fair opportunity to receive those funds during the charter schools' first year of operation.
 
 #### (c) New or significantly expanding charter schools
 

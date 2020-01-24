@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) the term "invention" means an invention or discovery that is patented or for which a patent may be obtained under title 35, or any novel variety of plant that is protected or for which plant variety protection may be obtained under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.) and that is conceived or reduced to practice as a result of work under an agreement entered into under this chapter;
+&emsp;(1) the term "invention" means an invention or discovery that is patented or for which a patent may be obtained under title 35, or any novel variety of plant that is protected or for which plant variety protection may be obtained under the Plant Variety Protection Act\(7 U.S.C. 2321 et seq.) and that is conceived or reduced to practice as a result of work under an agreement entered into under this chapter;
 
 &emsp;(2) the term "non-Federal person" means an entity located in the United States, the controlling interest (as defined by the Secretary) of which is held by persons of the United States, including—
 

@@ -14,7 +14,7 @@ Not later than January 1, 2007, the Secretary of Defense shall submit to the con
 
 The report required by subsection (a), and each updated report required by subsection (c),<sup>1</sup> shall include the following:
 
-&emsp;(1) An identification, current as of the date of the report, of the total number of militarydependent students who are anticipated to be arriving at or departing from military installations as a result of any event described in subsection (a), including—
+&emsp;(1) An identification, current as of the date of the report, of the total number of military dependent students who are anticipated to be arriving at or departing from military installations as a result of any event described in subsection (a), including—
 
 &emsp;&emsp;(A) an identification of the military installations affected by such arrivals and departures;
 

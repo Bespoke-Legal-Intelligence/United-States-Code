@@ -42,7 +42,7 @@ Except in a case where the Secretary determines that collection of tax is in jeo
 
 #### (B) 30-day letter
 
-&emsp;&emsp;The term "30-day letter" means the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals.
+&emsp;&emsp;The term "30-day letter" means the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals.
 
 #### (4) Rate of interest
 
@@ -58,7 +58,11 @@ Except in a case where the Secretary determines that collection of tax is in jeo
 
 &emsp;Deposits shall be treated as returned to the taxpayer on a last-in, first-out basis.
 
-(Added Pub. L. 108–357, title VIII, §842(a), Oct. 22, 2004, 118 Stat. 1598.)
+(Added Pub. L. 108–357, title VIII, §842(a), Oct. 22, 2004, 118 Stat. 1598; amended Pub. L. 116–25, title I, §1001(b)(1)(D), July 1, 2019, 133 Stat. 985.)
+
+#### Amendments
+
+<b>2019</b>—Subsec. (d)(3)(B). Pub. L. 116–25 substituted "Internal Revenue Service Independent Office of Appeals" for "Internal Revenue Service Office of Appeals".
 
 #### Effective Date
 

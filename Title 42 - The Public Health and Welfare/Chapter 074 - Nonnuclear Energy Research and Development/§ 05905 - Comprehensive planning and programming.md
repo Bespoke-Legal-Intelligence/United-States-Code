@@ -4,7 +4,7 @@
 
 &emsp;(1) solutions to immediate and short-term (the period up to 5 years after submission of the plan or its annual revision) energy supply system and associated environmental problems;
 
-&emsp;(2) solutions to middle-term (the period from 5 years to 10 years after submission of the plan or its annual revision) energy supply system and associated environmental problems; and
+&emsp;(2) solutions to middle-term (the period from 5 years to 10 years after submission of the planor its annual revision) energy supply system and associated environmental problems; and
 
 &emsp;(3) solutions to long-term (the period beyond 10 years after submission of the plan or its annual revision) energy supply system and associated environmental problems.
 

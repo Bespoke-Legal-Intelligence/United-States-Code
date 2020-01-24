@@ -4,7 +4,7 @@
 
 #### (1) Exercise of rights
 
-&emsp;It shall be unlawful for any employer to interfere with, restrain, or deny the exerciseof or the attempt to exercise, any right provided under this subchapter.
+&emsp;It shall be unlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under this subchapter.
 
 #### (2) Discrimination
 

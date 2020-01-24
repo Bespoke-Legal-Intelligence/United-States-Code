@@ -2,7 +2,7 @@
 
 #### (a) Consideration and determination respecting residential building energy codes
 
-(1) Not later than 2 years after October 24, 1992, each State shall certify to the Secretary that it has reviewed the provisions of its residential building code regarding energy efficiency and made a determination as to whetherit is appropriate for such State to revise such residential building code provisions to meet or exceed CABO Model Energy Code, 1992.
+(1) Not later than 2 years after October 24, 1992, each State shall certify to the Secretary that it has reviewed the provisions of its residential building code regarding energy efficiency and made a determination as to whether it is appropriate for such State to revise such residential building code provisions to meet or exceed CABO Model Energy Code, 1992.
 
 (2) The determination referred to in paragraph (1) shall be—
 
@@ -44,7 +44,7 @@ The Secretary shall provide technical assistance to States to implement the requ
 
 #### (e) Availability of incentive funding
 
-(1) The Secretary shall provide incentive funding to States to implement the requirements of this section, and to improve and implement State residential and commercial building energy efficiency codes, including increasing and verifying compliance with such codes. In determining whether, and in what amount, to provide incentive funding under this subsection, the Secretary shall consider the actions proposed by the State to implement the requirements of this section, to improve and implement residential and commercial building energy efficiency codes, and to promote building energy efficiency through the use of such codes.
+(1) The Secretary shall provide incentive funding to States to implement the requirements of this section, and to improve and implement State residential and commercial building energy efficiency codes, including increasing and verifying compliance with such codes. In determining whether, and in what amount, to provide incentive funding under this subsection, theSecretary shall consider the actions proposed by the State to implement the requirements of this section, to improve and implement residential and commercial building energy efficiency codes, and to promote building energy efficiency through the use of such codes.
 
 (2) Additional funding shall be provided under this subsection for implementation of a plan to achieve and document at least a 90 percent rate of compliance with residential and commercial building energy efficiency codes, based on energy performance—
 

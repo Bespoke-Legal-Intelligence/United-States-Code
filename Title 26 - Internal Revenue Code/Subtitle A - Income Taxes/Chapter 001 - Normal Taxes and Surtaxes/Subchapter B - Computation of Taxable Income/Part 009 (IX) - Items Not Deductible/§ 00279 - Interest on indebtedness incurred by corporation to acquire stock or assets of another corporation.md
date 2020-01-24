@@ -22,7 +22,7 @@ For purposes of this section, the term "corporate acquisition indebtedness" mean
 
 &emsp;&emsp;(A) subordinated to the claims of trade creditors of the issuing corporation generally, or
 
-&emsp;&emsp;(B) expressly subordinated in right of payment to the payment of any substantialamount of unsecured indebtedness, whether outstanding or subsequently issued, of the issuing corporation,
+&emsp;&emsp;(B) expressly subordinated in right of payment to the payment of any substantial amount of unsecured indebtedness, whether outstanding or subsequently issued, of the issuing corporation,
 
 &emsp;(3) the bond or other evidence of indebtedness is either—
 
@@ -110,7 +110,7 @@ In applying this section—
 
 #### (5) 5 percent stock rule
 
-&emsp;In the case of obligations issued to provide consideration for the acquisition of stock in another corporation, such obligations shall be corporate acquisition indebtedness for a taxable year only if at some time before the close of such year the issuing corporation owns 5 percent or more of the total combined voting power of all classes of stock entitled to vote of such other corporation.
+&emsp;In the case of obligations issued to provide consideration for the acquisition of stock in another corporation, such obligations shall be corporate acquisition indebtedness for a taxable year only if at some time before the close of such year the issuing corporation owns 5percent or more of the total combined voting power of all classes of stock entitled to vote of such other corporation.
 
 #### (e) Certain nontaxable transactions
 
@@ -146,7 +146,7 @@ Subsec. (b). Pub. L. 113–295, §221(a)(47)(A)(ii), struck out "after October 9
 
 Subsec. (d)(5). Pub. L. 113–295, §221(a)(47)(A)(iii), struck out "after October 9, 1969, and" after "some time".
 
-Subsecs. (i), (j). Pub. L. 113–295, §221(a)(47)(A)(iv), redesignated subsec. (j) as (i) and struck out former subsec. (i). Prior to amendment, text of subsec. (i) read asfollows: "For purposes of this section, an obligation shall not be corporate acquisition indebtedness if issued after October 9, 1969, to provide consideration for the acquisition of—
+Subsecs. (i), (j). Pub. L. 113–295, §221(a)(47)(A)(iv), redesignated subsec. (j) as (i) and struck out former subsec. (i). Prior to amendment, text of subsec. (i) read as follows: "For purposes of this section, an obligation shall not be corporate acquisition indebtedness if issued after October 9, 1969, to provide consideration for the acquisition of—
 
 &emsp;"(1) stock or assets pursuant to a binding written contract which was in effect on October 9, 1969, and at all times thereafter before such acquisition, or
 
@@ -168,7 +168,7 @@ Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment b
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–514, §1(b), Oct. 15, 1976, 90 Stat. 2443, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after October 9, 1969. If refund or credit of any overpayment of income tax resulting from the amendment made by subsection (a) \[amending this section\] is prevented on the date of the enactment of this Act \[Oct. 15, 1976\], or at any time within one year after such date, by the operation of any law or rule of law, refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed within one year from such date."
+Pub. L. 94–514, §1(b), Oct. 15, 1976, 90 Stat. 2443, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after October 9, 1969. If refund or credit of any overpayment of income tax resulting from the amendment made by subsection (a) \[amending this section\] is prevented on the date of the enactment of this Act\[Oct. 15, 1976\], or at any time within one year after such date, by the operation of any law or rule of law, refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed within one year from such date."
 
 #### Effective Date
 

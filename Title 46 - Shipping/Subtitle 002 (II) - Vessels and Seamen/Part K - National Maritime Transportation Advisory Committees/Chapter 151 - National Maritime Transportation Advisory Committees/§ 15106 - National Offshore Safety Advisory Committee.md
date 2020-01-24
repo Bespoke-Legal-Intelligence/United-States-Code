@@ -38,7 +38,7 @@ Representation.—Members of the Committee shall be appointed as follows:
 
 &emsp;&emsp;(G) 1 member shall represent entities engaged in pipelaying services related to offshore construction.
 
-&emsp;&emsp;(H) 2 members shall represent individuals employed in offshore operations and, of the2, 1 shall have recent practical experience on a vessel or offshore unit involved in the offshore mineral and energy industry.
+&emsp;&emsp;(H) 2 members shall represent individuals employed in offshore operations and, of the 2, 1 shall have recent practical experience on a vessel or offshore unit involved in the offshore mineral and energy industry.
 
 &emsp;&emsp;(I) 1 member shall represent national environmental entities.
 

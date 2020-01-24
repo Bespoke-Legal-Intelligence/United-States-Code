@@ -42,9 +42,9 @@
 
 Upon the direct request of an active duty military consumer, or an individual acting on behalf of or as a personal representative of an active duty military consumer, a consumer reporting agency described in section 1681a(p) of this title that maintains a file on the active duty military consumer and has received appropriate proof of the identity of the requester shall—
 
-&emsp;(1) include an active duty alert in the file of that active duty military consumer, and also provide that alert along with any credit score generated in using that file, during a period ofnot less than 12 months, or such longer period as the Bureau shall determine, by regulation, beginning on the date of the request, unless the active duty military consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose;
+&emsp;(1) include an active duty alert in the file of that active duty military consumer, and also provide that alert along with any credit score generated in using that file, during a period of not less than 12 months, or such longer period as the Bureau shall determine, by regulation, beginning on the date of the request, unless the active duty military consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose;
 
-&emsp;(2) during the 2-year period beginning on the date of such request, exclude the active duty military consumer from any list of consumers prepared by the consumer reporting agency and provided to any third party to offer credit or insurance to the consumer as part of a transaction that was not initiated by the consumer, unless the consumer requests that such exclusion be rescinded before the end of such period; and
+&emsp;(2) during the 2-year period beginning on the date of such request, exclude the active dutymilitary consumer from any list of consumers prepared by the consumer reporting agency and provided to any third party to offer credit or insurance to the consumer as part of a transaction that was not initiated by the consumer, unless the consumer requests that such exclusion be rescinded before the end of such period; and
 
 &emsp;(3) refer the information regarding the active duty alert to each of the other consumer reporting agencies described in section 1681a(p) of this title, in accordance with procedures developed under section 1681s(f) of this title.
 
@@ -94,7 +94,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 &emsp;&emsp;Each extended alert under this section shall include information that provides all prospective users of a consumer report relating to a consumer with—
 
-&emsp;&emsp;&emsp;(i) notification that the consumer does not authorize the establishment of any new credit plan or extension of credit described in clause (i), other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase incredit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B); and
+&emsp;&emsp;&emsp;(i) notification that the consumer does not authorize the establishment of any new credit plan or extension of credit described in clause (i), other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B); and
 
 &emsp;&emsp;&emsp;(ii) a telephone number or other reasonable contact method designated by the consumer.
 
@@ -174,7 +174,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 &emsp;A security freeze shall not apply to the making of a consumer report for use of the following:
 
-&emsp;&emsp;(A) A person or entity, or a subsidiary, affiliate, or agent of that person or entity, oran assignee of a financial obligation owed by the consumer to that person or entity, or a prospective assignee of a financial obligation owed by the consumer to that person or entity in conjunction with the proposed purchase of the financial obligation, with which the consumer has or had prior to assignment an account or contract including a demand deposit account, or to whom the consumer issued a negotiable instrument, for the purposes of reviewing the account or collecting the financial obligation owed for the account, contract, or negotiable instrument. For purposes of this subparagraph, "reviewing the account" includes activities related to account maintenance, monitoring, credit line increases, and account upgrades and enhancements.
+&emsp;&emsp;(A) A person or entity, or a subsidiary, affiliate, or agent of that person or entity, or an assignee of a financial obligation owed by the consumer to that person or entity, or a prospective assignee of a financial obligation owed by the consumer to that person or entity in conjunction with the proposed purchase of the financial obligation, with which the consumer has or had prior to assignment an account or contract including a demanddeposit account, or to whom the consumer issued a negotiable instrument, for the purposes of reviewing the account or collecting the financial obligation owed for the account, contract, or negotiable instrument. For purposes of this subparagraph, "reviewing the account" includes activities related to account maintenance, monitoring, credit line increases, and account upgrades and enhancements.
 
 &emsp;&emsp;(B) Any Federal, State, or local agency, law enforcement agency, trial court, or private collection agency acting pursuant to a court order, warrant, or subpoena.
 
@@ -316,7 +316,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 #### (C) Removal of freeze by request
 
-&emsp;&emsp;Except as provided in subparagraph (A)(iii), a security freeze shall remain in place until a protected consumer's representative or protected consumer described in subparagraph (A)(ii) directly requests that the security freeze be removed. Upon receiving a direct request from the protected consumer's representative or protected consumer described in subparagraph (A)(ii) that a consumer reporting agency remove a security freeze, and upon receiving sufficient proof of identification and sufficient proof of authority, the consumer reporting agency shall, free of charge, remove the security freeze not later than—
+&emsp;&emsp;Except as provided in subparagraph (A)(iii), a security freeze shall remain in place until a protected consumer's representative or protected consumer described in subparagraph (A)(ii) directly requests that the security freeze be removed. Uponreceiving a direct request from the protected consumer's representative or protected consumer described in subparagraph (A)(ii) that a consumer reporting agency remove a security freeze, and upon receiving sufficient proof of identification and sufficient proof of authority, the consumer reporting agency shall, free of charge, remove the security freeze not later than—
 
 &emsp;&emsp;&emsp;(i) in the case of a request that is by toll-free telephone or secure electronic means, 1 hour after receiving the request for removal; or
 
@@ -326,45 +326,39 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 &emsp;&emsp;Upon receiving a direct request from a protected consumer or a protected consumer's representative under subparagraph (A)(i), if the protected consumer or protected consumer's representative requests a temporary removal of a security freeze, the consumer reporting agency shall, in accordance with subparagraph (C), remove the security freeze for the period of time specified by the protected consumer or protected consumer's representative.
 
+#### (k) Credit monitoring
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+&emsp;&emsp;(A) The term "active duty military consumer" includes a member of the National Guard.
+
+&emsp;&emsp;(B) The term "National Guard" has the meaning given the term in section 101(c) of title 10.
+
+#### (2) Credit monitoring
+
+&emsp;A consumer reporting agency described in section 1681a(p) of this title shall provide a free electronic credit monitoring service that, at a minimum, notifies a consumer of material additions or modifications to the file of the consumer at the consumer reporting agency to any consumer who provides to the consumer reporting agency—
+
+&emsp;&emsp;(A) appropriate proof that the consumer is an active duty military consumer; and
+
+&emsp;&emsp;(B) contact information of the consumer.
+
+#### (3) Rulemaking
+
+&emsp;Not later than 1 year after May 24, 2018, the Federal Trade Commission shall promulgate regulations regarding the requirements of this subsection, which shall at a minimum include—
+
+&emsp;&emsp;(A) a definition of an electronic credit monitoring service and material additions or modifications to the file of a consumer; and
+
+&emsp;&emsp;(B) what constitutes appropriate proof.
+
+#### (4) Applicability
+
+&emsp;(A) Sections 1681n and 1681o of this title shall not apply to any violation of this subsection.
+
+&emsp;(B) This subsection shall be enforced exclusively under section 1681s of this title by the Federal agencies and Federal and State officials identified in that section.
+
 (Pub. L. 90–321, title VI, §605A, as added Pub. L. 108–159, title I, §112(a), Dec. 4, 2003, 117 Stat. 1955; amended Pub. L. 111–203, title X, §1088(a)(2)(C), July 21, 2010, 124 Stat. 2087; Pub. L. 115–174, title III, §§301(a), 302(d)(1), May 24, 2018, 132 Stat. 1326, 1334.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–174, title III, §302(d)(1), (e), May 24, 2018, 132 Stat. 1334, 1335, provided that, effective 1 year after May 24, 2018, this section is amended by adding at the end the following new subsection:</i>
-
-#### <i>(k) Credit monitoring</i>
-
-#### <i>(1) Definitions</i>
-
-&emsp;<i>In this subsection:</i>
-
-&emsp;&emsp;<i>(A) The term "active duty military consumer" includes a member of the National Guard.</i>
-
-&emsp;&emsp;<i>(B) The term "National Guard" has the meaning given the term in section 101(c) of title 10.</i>
-
-#### <i>(2) Credit monitoring</i>
-
-&emsp;<i>A consumer reporting agency described in section 1681a(p) of this title shall provide a free electronic credit monitoring service that, at a minimum, notifies a consumer of material additions or modifications to the file of the consumer at the consumer reporting agency to any consumer who provides to the consumer reporting agency—</i>
-
-&emsp;&emsp;<i>(A) appropriate proof that the consumer is an active duty military consumer; and</i>
-
-&emsp;&emsp;<i>(B) contact information of the consumer.</i>
-
-#### <i>(3) Rulemaking</i>
-
-&emsp;<i>Not later than 1 year after May 24, 2018, the Federal Trade Commission shall promulgate regulations regarding the requirements of this subsection, which shall at a minimum include—</i>
-
-&emsp;&emsp;<i>(A) a definition of an electronic credit monitoring service and material additions or modifications to the file of a consumer; and</i>
-
-&emsp;&emsp;<i>(B) what constitutes appropriate proof.</i>
-
-#### <i>(4) Applicability</i>
-
-&emsp;<i>(A) Sections 1681n and 1681</i>o of this title shall not apply to any violation of this subsection.
-
-&emsp;<i>(B) This subsection shall be enforced exclusively under section 1681s of this title by the Federal agencies and Federal and State officials identified in that section.</i>
-
-<i>See 2018 Amendment note below.</i>
 
 #### References in Text
 
@@ -402,9 +396,9 @@ Pub. L. 108–159, title I, §112(b), Dec. 4, 2003, 117 Stat. 1959, as amended b
 
 #### Public Campaign To Prevent Identity Theft
 
-Pub. L. 108–159, title I, §151(b), Dec. 4, 2003, 117 Stat. 1964, provided that: "Not later than 2 years after thedate of enactment of this Act \[Dec. 4, 2003\], the Commission shall establish and implement a media and distribution campaign to teach the public how to prevent identity theft. Such campaign shall include existing Commission education materials, as well as radio, television, and print public service announcements, video cassettes, interactive digital video discs (DVD's) or compact audio discs (CD's), and Internet resources."
+Pub. L. 108–159, title I, §151(b), Dec. 4, 2003, 117 Stat. 1964, provided that: "Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2003\], the Commission shall establish and implement a media and distribution campaign to teach the public how to prevent identity theft. Such campaign shall include existing Commission education materials, as well as radio, television, and print public service announcements, video cassettes, interactive digital video discs (DVD's) or compact audio discs (CD's), and Internet resources."
 
-\[For definitions of terms used in section 151(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
+\[For definitions of terms used in section 151(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159,set out as a Definitions note under section 1681 of this title.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

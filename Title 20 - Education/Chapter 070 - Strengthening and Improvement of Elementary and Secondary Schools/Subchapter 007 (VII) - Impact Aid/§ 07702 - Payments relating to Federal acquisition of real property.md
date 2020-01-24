@@ -38,7 +38,7 @@ Where the Secretary, after consultation with any local educational agency and wi
 
 &emsp;&emsp;(I) the operation of a domestic dependent elementary or secondary school; or
 
-&emsp;&emsp;(II) the provision of a free public education to dependents of members of the Armed Forces residing on or near a military installation.
+&emsp;&emsp;(II) the provision of a free public education to dependents of members of the ArmedForces residing on or near a military installation.
 
 &emsp;(B) If funds appropriated under section 7714(a) of this title are insufficient to pay the amount determined under subparagraph (A), the Secretary shall calculate the payment for each eligible local educational agency in accordance with subsection (h).
 
@@ -102,7 +102,7 @@ Beginning with fiscal year 1995, a local educational agency shall be deemed to m
 
 #### (2) County charter
 
-&emsp;The local educational agency serves a county chartered under State law in 1875 or 1890. For each fiscal year beginning on or after December 10, 2015, the Secretary shall treat local educational agencies chartered in 1871 having more than 70 percent of the county in Federal ownership as meeting the eligibility requirements of subparagraphs (A) and (C) of subsection (a)(1).
+&emsp;The local educational agency serves a county chartered under State law in 1875 or 1890.For each fiscal year beginning on or after December 10, 2015, the Secretary shall treat local educational agencies chartered in 1871 having more than 70 percent of the county in Federal ownership as meeting the eligibility requirements of subparagraphs (A) and (C) of subsection (a)(1).
 
 #### (f) Special rule
 
@@ -162,7 +162,7 @@ For any fiscal year for which the amount appropriated under section 7714(a) of t
 
 #### (B) Second and succeeding years
 
-&emsp;&emsp;For any succeeding fiscal year after the first fiscal year that a local educational agency receives a foundation payment under subparagraph (A), the amount of the local educational agency's foundation payment under this paragraph for such succeeding fiscal year shall be equal to the local educational agency's foundation payment under this paragraph for the first fiscal year.
+&emsp;&emsp;For any succeeding fiscal year after the first fiscal year that a local educational agency receives a foundation payment under subparagraph (A), the amount of the localeducational agency's foundation payment under this paragraph for such succeeding fiscal year shall be equal to the local educational agency's foundation payment under this paragraph for the first fiscal year.
 
 #### (C) Amounts
 
@@ -170,7 +170,7 @@ For any fiscal year for which the amount appropriated under section 7714(a) of t
 
 &emsp;&emsp;&emsp;(i) Calculate the local educational agency's maximum payment under subsection (b).
 
-&emsp;&emsp;&emsp;(ii) Calculate the percentage that the amount appropriated under section 7714(a) of this title for the most recent fiscal year for which the Secretary has completed making payments under this section is ofthe total maximum payments for such fiscal year for all local educational agencies eligible for a payment under subsection (b) and multiply the agency's maximum payment by such percentage.
+&emsp;&emsp;&emsp;(ii) Calculate the percentage that the amount appropriated under section 7714(a) of this title for the most recent fiscal year for which the Secretary has completed making payments under this section is of the total maximum payments for such fiscal year for all local educational agencies eligible for a payment under subsection (b) and multiply the agency's maximum payment by such percentage.
 
 &emsp;&emsp;&emsp;(iii) Multiply the amount determined under clause (ii) by 90 percent.
 
@@ -226,7 +226,7 @@ Notwithstanding any other provision of this section, in determining the eligibil
 
 &emsp;&emsp;(B) beginning in fiscal year 2003 or a subsequent fiscal year, is no longer eligible for payments under this section as provided for in subsection (a)(1)(C) as a result of the transfer of the Federal property involved to a non-Federal entity.
 
-(Pub. L. 89–10, title VII, §7002, formerly title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat.2681–337, 2681–365; Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–247; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803\], Oct. 30, 2000, 114 Stat. 1654, 1654A–369; Pub. L. 107–110, title VIII, §801(a)–(e), Jan. 8, 2002, 115 Stat. 1947, 1948; Pub. L. 108–447, div. F, title III, §305, Dec. 8, 2004, 118 Stat. 3151; Pub. L. 112–239, div. A, title V, §563(b)(1), (c)(4), Jan. 2, 2013, 126 Stat. 1744, 1748; renumbered title VII, §7002, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(6), (9), 7003, Dec. 10, 2015, 129 Stat. 2074, 2075.)
+(Pub. L. 89–10, title VII, §7002, formerly title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–365; Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–247; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803\], Oct. 30, 2000, 114 Stat. 1654, 1654A–369; Pub. L. 107–110, title VIII, §801(a)–(e), Jan. 8, 2002, 115 Stat. 1947, 1948; Pub. L. 108–447, div. F, title III, §305, Dec. 8, 2004, 118 Stat. 3151; Pub. L. 112–239, div. A, title V, §563(b)(1), (c)(4), Jan. 2, 2013, 126 Stat. 1744, 1748; renumbered title VII, §7002, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(6), (9), 7003, Dec. 10, 2015, 129 Stat. 2074, 2075.)
 
 #### References in Text
 
@@ -292,7 +292,7 @@ Subsec. (h)(2) to (4). Pub. L. 112–239, §563(b)(1)(C)(ii), added pars. (2) to
 
 Subsec. (h)(1)(B). Pub. L. 107–110, §801(a)(2), substituted "(or if the local educational agency did not meet, or has not been determined pursuant to statute to meet, the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950 for fiscal year 1994" for "(or if the local educational agency was not eligible to receive a payment under such section 2 for fiscal year 1994".
 
-Subsec. (h)(2)(A). Pub. L. 107–110, §801(b)(1), inserted before period at end ", or whose application under thissection for fiscal year 1995 was determined pursuant to statute to be timely filed for purposes of payments for subsequent fiscal years".
+Subsec. (h)(2)(A). Pub. L. 107–110, §801(b)(1), inserted before period at end ", or whose application under this section for fiscal year 1995 was determined pursuant to statute to be timely filed for purposes of payments for subsequent fiscal years".
 
 Subsec. (h)(2)(B)(ii). Pub. L. 107–110, §801(b)(2), substituted "for each local educational agency described in subparagraph (A)" for "for each local educational agency that received a payment under this section for fiscal year 1995".
 
@@ -356,7 +356,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respec
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title V, §563(c), Jan. 2, 2013, 126 Stat. 1748, as amended by Pub. L. 113–291, div. A, title V, §563, Dec. 19, 2014, 128 Stat. 3384; Pub. L. 114–95, title VII, §7001(a), title IX, §9215(pp), Dec. 10, 2015, 129 Stat. 2074, 2180, provided that:
+Pub. L. 112–239, div. A, title V, §563(c), Jan. 2, 2013, 126 Stat. 1748, as amended by Pub. L. 113–291, div. A, titleV, §563, Dec. 19, 2014, 128 Stat. 3384; Pub. L. 114–95, title VII, §7001(a), title IX, §9215(pp), Dec. 10, 2015, 129 Stat. 2074, 2180, provided that:
 
 "(1)
 

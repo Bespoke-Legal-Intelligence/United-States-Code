@@ -4,7 +4,7 @@
 
 #### (1) Purpose
 
-&emsp;The purpose of the accreditation required under this section shall be to ensure that Indian students being served by a school funded by the Bureau of Indian Affairs are provided with educational opportunities that equal or exceed those for all other students in the United States.
+&emsp;The purpose of the accreditation required under this section shall be to ensure that Indian students being served by a school funded by the Bureau of Indian Affairs are providedwith educational opportunities that equal or exceed those for all other students in the United States.
 
 #### (2) Declarations of purpose
 
@@ -186,7 +186,7 @@
 
 #### (iii) Proposal amendments
 
-&emsp;&emsp;&emsp;The tribal governing body shall have 60 days to amend the plan developed pursuant to clause (ii), including identifying another outside entity to operate the school. The Secretary shall reach agreement with the tribal governing body on the proposal and any such amendments to the plan not later than 30 days after the expiration of the 60-day period described in the preceding sentence. After the approval of the proposal and any amendments, the Secretary, with continuing consultation with such tribal governing body, shall implement the proposal.
+&emsp;&emsp;&emsp;The tribal governing body shall have 60 days to amend the plan developed pursuantto clause (ii), including identifying another outside entity to operate the school. The Secretary shall reach agreement with the tribal governing body on the proposal and any such amendments to the plan not later than 30 days after the expiration of the 60-day period described in the preceding sentence. After the approval of the proposal and any amendments, the Secretary, with continuing consultation with such tribal governing body, shall implement the proposal.
 
 #### (iv) Accreditation
 
@@ -248,7 +248,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In a case in which closure, transfer to another authority, consolidation, or substantial curtailment of a school is under active consideration or review by any division of the Bureau or the Department of the Interior, the affected tribe, tribal governing body, and designated local school board will be notified immediately in writing, kept fully and currently informed, and afforded an opportunity to comment with respect to such consideration or review.
+&emsp;&emsp;In a case in which closure, transfer to another authority, consolidation, or substantial curtailment of a school is under active consideration or review by any division ofthe Bureau or the Department of the Interior, the affected tribe, tribal governing body, and designated local school board will be notified immediately in writing, kept fully and currently informed, and afforded an opportunity to comment with respect to such consideration or review.
 
 #### (B) Decision to close
 
@@ -328,7 +328,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after the date on which an application described in paragraph (1)(A) is submitted to the Secretary, the Secretary shall make a determination of whether to approve the application.
+&emsp;&emsp;Not later than 180 days after the date on which an application described in paragraph\(1)(A) is submitted to the Secretary, the Secretary shall make a determination of whether to approve the application.
 
 #### (B) Failure to make determination
 
@@ -433,6 +433,8 @@ Another prior section 2001, Pub. L. 95–561, title XI, §1121, Nov. 1, 1978, 92
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
 #### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

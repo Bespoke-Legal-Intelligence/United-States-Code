@@ -48,7 +48,7 @@ From the amount reserved under section 7221a(b)(2) of this title, the Secretary 
 
 &emsp;&emsp;A description of—
 
-&emsp;&emsp;&emsp;(i) the eligible entity's objectives for implementing a high-quality charter school program with funding under this subsection, including a description of the proposed number of high-quality charter schools the eligible entity proposes to open as a result of the replication of a high-quality charter school or to expand with funding under this subsection;
+&emsp;&emsp;&emsp;(i) the eligible entity's objectives for implementing a high-quality charter school program with funding under this subsection, including a description of the proposed number of high-quality charterschools the eligible entity proposes to open as a result of the replication of a high-quality charter school or to expand with funding under this subsection;
 
 &emsp;&emsp;&emsp;(ii) the educational program that the eligible entity will implement in such charter schools, including—
 

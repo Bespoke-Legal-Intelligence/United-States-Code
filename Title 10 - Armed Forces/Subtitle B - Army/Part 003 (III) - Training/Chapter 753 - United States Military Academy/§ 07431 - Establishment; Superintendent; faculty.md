@@ -16,7 +16,7 @@
 
 &emsp;(6) A director of admissions.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 238, §4331; Pub. L. 85–600, §1(8), Aug. 6, 1958, 72 Stat. 522; Pub. L. 85–723, Aug. 21, 1958, 72 Stat. 711; Pub. L. 95–551, §1, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title V, §512(12), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 102–484, div. A, title V, §523(a), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 103–160, div. A, title V, §533(a)(3), Nov. 30, 1993, 107 Stat. 1658; Pub. L.110–181, div. A, title V, §507, Jan. 28, 2008, 122 Stat. 96; renumbered §7431, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 238, §4331; Pub. L. 85–600, §1(8), Aug. 6, 1958, 72 Stat. 522; Pub. L. 85–723, Aug. 21, 1958, 72 Stat. 711; Pub. L. 95–551, §1, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title V, §512(12), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 102–484, div. A, title V, §523(a), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 103–160, div. A, title V, §533(a)(3), Nov. 30, 1993, 107 Stat. 1658; Pub. L. 110–181, div. A, title V, §507, Jan. 28, 2008, 122 Stat. 96; renumbered §7431, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 Historical and Revision Notes
 
@@ -148,6 +148,36 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Speech Disorders of Cadets and Midshipmen
+
+Pub. L. 116–92, div. A, title V, §558, Dec. 20, 2019, 133 Stat. 1392, provided that:
+
+"(a)
+
+Testing.—The Superintendent of a military service academy shall provide testing for speech disorders to incoming cadets or midshipmen under the jurisdiction of that Superintendent.
+
+"(b)
+
+No Effect on Admission.—The testing under subsection (a) may not have any effect on admission to a military service academy.
+
+"(c)
+
+Results.—The Superintendent shall provide each cadet or midshipman under the jurisdiction of that Superintendent the result of the testing under subsection (a) and a list of warfare unrestricted line officer positions and occupation specialities that require successful performance on the speech test.
+
+"(d)
+
+Therapy.—The Superintendent shall furnish speech therapy to a cadet or midshipman under the jurisdiction of that Superintendent at the election of the cadet or midshipman.
+
+"(e)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretaries of the military departments shall submit to the Committees on Armed Services of the Senate and the House of Representatives a joint report that includes the following:
+
+&emsp;"(1) The number of cadets or midshipmen with an identified speech disorder in each military service academy.
+
+&emsp;"(2) A list of the health care and administrative resources related to speech disorders available to cadets and midshipmen described in paragraph (1).
+
+&emsp;"(3) A list of positions and specialties described in subsection (c) pursued by the cadets and midshipmen described in paragraph (1) at the time of graduation."
+
 #### Prayer at Military Service Academy Activities
 
 Pub. L. 109–163, div. A, title V, §598, Jan. 6, 2006, 119 Stat. 3283, provided that:
@@ -246,7 +276,7 @@ Establishment.—The Secretary of Defense shall establish a Department of Defens
 
 "(b)
 
-Recommendations.—Not later than 12 months after the date on which all members of the task force have been appointed, the task force shall submit to the Secretary of Defense a report recommending ways by which the Department of Defense and the Department of the Army and the Department of the Navy may more effectively address matters relating to sexual harassment and violence at the United States Military Academy and the United States Naval Academy, respectively. The report shall include an assessment of, and recommendations (including any recommended changesin law) for measures to improve, with respect to sexual harassment and violence at those academies, the following:
+Recommendations.—Not later than 12 months after the date on which all members of the task force have been appointed, the task force shall submit to the Secretary of Defense a report recommending ways by which the Department of Defense and the Department of the Army and the Department of the Navy may more effectively address matters relating to sexual harassment and violence at the United States Military Academy and the United States Naval Academy, respectively. The report shall include an assessment of, and recommendations (including any recommended changes in law) for measures to improve, with respect to sexual harassment and violence at those academies, the following:
 
 &emsp;"(1) Victims' safety programs.
 

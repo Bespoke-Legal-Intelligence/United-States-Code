@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Priority review voucher
 
-&emsp;The term "priority review voucher" means a voucher issued by the Secretary to the sponsor of a rare pediatric disease product application that entitles the holder of such voucher to priority review of a single human drug application submitted under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\] after the date ofapproval of the rare pediatric disease product application.
+&emsp;The term "priority review voucher" means a voucher issued by the Secretary to the sponsor of a rare pediatric disease product application that entitles the holder of such voucher to priority review of a single human drug application submitted under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\] after the date of approval of the rare pediatric disease product application.
 
 #### (3) Rare pediatric disease
 

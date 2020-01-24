@@ -84,7 +84,7 @@ A drug or device—
 
 #### (c) Investigational use exemption
 
-A drug or device intended for investigational use in any country described in clause (i) or (ii)of subsection (b)(1)(A) may be exported in accordance with the laws of that country and shall be exempt from regulation under section 355(i) or 360j(g) of this title.
+A drug or device intended for investigational use in any country described in clause (i) or (ii) of subsection (b)(1)(A) may be exported in accordance with the laws of that country and shall be exempt from regulation under section 355(i) or 360j(g) of this title.
 
 #### (d) Anticipation of market authorization
 

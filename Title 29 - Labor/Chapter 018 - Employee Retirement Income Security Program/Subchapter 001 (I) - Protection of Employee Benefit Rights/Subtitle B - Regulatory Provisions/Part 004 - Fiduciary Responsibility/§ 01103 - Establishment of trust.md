@@ -38,7 +38,7 @@ The requirements of subsection (a) of this section shall not apply—
 
 #### (c) Assets of plan not to inure to benefit of employer; allowable purposes of holding plan assets
 
-(1) Except as provided in paragraph (2), (3), or (4) or subsection (d), or under sections 1342 and 1344 of this title (relating to termination of insured plans), or under section 420 of title 26 (as in effect on July 31, 2015), the assets of a plan shall never inure to the benefit of any employer and shall be held for the exclusive purposes of providing benefits to participants in the plan and their beneficiaries and defraying reasonable expenses of administering the plan.
+(1) Except as provided in paragraph (2), (3), or (4) <sup>1</sup> or subsection (d), or under sections 1342 and 1344 of this title (relating to termination of insured plans), or under section 420 of title 26 (as in effect on July 31, 2015), the assets of a plan shall never inure to the benefit of any employer and shall be held for the exclusive purposes of providing benefits to participants in the plan and their beneficiaries and defraying reasonable expenses of administering the plan.
 
 (2)(A) In the case of a contribution, or a payment of withdrawal liability under part 1 of subtitle E of subchapter III—
 
@@ -62,7 +62,9 @@ The requirements of subsection (a) of this section shall not apply—
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (b)(4), (6), was in the original "this Act", meaning Pub. L.93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (b)(4), (6), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+
+Paragraph (2), (3), or (4), referred to in subsec. (c)(1), probably should be a reference only to par. (2) or (3) of subsec. (c), as par. (3) was struck out, and par. (4) was redesignated as (3), by Pub. L. 101–239, title VII, §7881(k), Dec. 19, 1989, 103 Stat. 2443.
 
 #### Amendments
 
@@ -139,4 +141,6 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
 For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

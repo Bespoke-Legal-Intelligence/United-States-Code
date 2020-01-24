@@ -12,7 +12,7 @@
 
 Subsection (a) was drafted to clarify a serious ambiguity in existing law and is based upon rulings of the Supreme Court. Numerous sections in the United States Code prescribe civil fines, penalties, and pecuniary forfeitures for violation of certain sections without specifying the mode of recovery or enforcement thereof. See, for example, section 567 of title 12, U.S.C., 1940 ed., Banks and Banking, section 64 of title 14, U.S.C., 1940 ed., Coast Guard, and section 180 of title 25, U.S.C., 1940 ed., Indians. Compare section 1 (21) of title 49, U.S.C., 1940 ed., Transportation.
 
-A civil fine, penalty, or pecuniary forfeiture is recoverable in a civil action. <i>United States ex rel. Marcus v. Hess</i> et al., 1943, 63 S.Ct. 379, 317 U.S. 537, 87 L.Ed. 433, rehearing denied 63 S.Ct. 756, 318 U.S. 799, 87 L.Ed. 1163; <i>Hepner v. United States</i>, 1909, 29 S.Ct. 474, 213 U.S. 103, 53 L.Ed. 720, and cases cited therein.
+A civil fine, penalty, or pecuniary forfeiture is recoverable in a civil action. <i>United States ex rel. Marcus v. Hess</i> et al., 1943, 63 S.Ct. 379, 317 U.S. 537, 87 L.Ed. 433,rehearing denied 63 S.Ct. 756, 318 U.S. 799, 87 L.Ed. 1163; <i>Hepner v. United States</i>, 1909, 29 S.Ct. 474, 213 U.S. 103, 53 L.Ed. 720, and cases cited therein.
 
 Forfeiture of bail bonds in criminal cases are enforceable by procedure set out in Rule 46 of the Federal Rules of Criminal Procedure.
 
@@ -96,7 +96,7 @@ Purpose.—The purpose of this Act is to establish a mechanism that shall—
 
 "Sec. 4. (a)
 
-In General.—Not later than July 1, 2016, and not later than January 15 of every year thereafter, and subject to subsections (c) and (d), the head of each agency shall—
+In General.—Not later than July 1, 2016, and not later than January 15 of every year thereafter,and subject to subsections (c) and (d), the head of each agency shall—
 
 &emsp;"(1) in accordance with subsection (b), adjust each civil monetary penalty provided by law within the jurisdiction of the Federal agency, except for any penalty (including any addition to tax and additional amount) under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] or the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\], by the inflation adjustment described under section 5 of this Act; and
 
@@ -158,7 +158,7 @@ Initial adjustment.—
 
 &emsp;&emsp;"(A)
 
-In general.—Subject to subparagraph (C), for the first inflation adjustment under section 4 made by an agency after the date of enactment of the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 \[Nov. 2, 2015\], the term 'cost-of-living adjustment' means the percentage (if any) for each civil monetary penalty by which the Consumer Price Index for the month of October, 2015 exceeds the Consumer Price Index for the month of October of the calendar year duringwhich the amount of such civil monetary penalty was established or adjusted under a provision of law other than this Act.
+In general.—Subject to subparagraph (C), for the first inflation adjustment under section 4 made by an agency after the date of enactment of the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 \[Nov. 2, 2015\], the term 'cost-of-living adjustment' means the percentage (if any) for each civil monetary penalty by which the Consumer Price Index for the month of October, 2015 exceeds the Consumer Price Index for the month of October of the calendar year during which the amount of such civil monetary penalty was established or adjusted under a provision of law other than this Act.
 
 &emsp;&emsp;"(B)
 

@@ -40,7 +40,7 @@ When used in this subdivision and in subdivision (d)—
 
 #### (g) Reports to President and Congress
 
-The commission shall put at the disposal of the President of the United States, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate, whenever requested, all information at its command, and shall make such investigations and reports as may be requested by the President or by either of said committees or by either branch of the Congress. However, the Commission may not release information which the Commission considers to be confidential business information unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the Commission, or such party subsequently consents to the release of the information. The Commission shall report to Congress on the first Monday of December of each year after June 17, 1930, a statement of the methods adopted and all expenses incurred, a summary of all reports made during the year, and a list of all votes taken by the commission during the year, showing those commissioners voting in the affirmative and the negative on each vote and those commissioners not voting on each vote and the reasons for not voting. Each such annual report shall include a list of all complaints filed under section 1337 of this title during the year for which such report is being made, the date on which each such complaint was filed, and the action taken thereon, and the status of all investigations conducted by the commission under such section during such year and the date on which each such investigation was commenced.
+The commission shall put at the disposal of the President of the United States, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate, whenever requested, all information at its command, and shall make such investigations and reports as may be requested by the President or by either of said committees or by either branch of the Congress. However, the Commission may not release information which the Commission considers to be confidential business information unless the party submitting the confidential business information hadnotice, at the time of submission, that such information would be released by the Commission, or such party subsequently consents to the release of the information. The Commission shall report to Congress on the first Monday of December of each year after June 17, 1930, a statement of the methods adopted and all expenses incurred, a summary of all reports made during the year, and a list of all votes taken by the commission during the year, showing those commissioners voting in the affirmative and the negative on each vote and those commissioners not voting on each vote and the reasons for not voting. Each such annual report shall include a list of all complaints filed under section 1337 of this title during the year for which such report is being made, the date on which each such complaint was filed, and the action taken thereon, and the status of all investigations conducted by the commission under such section during such year and the date on which each such investigation was commenced.
 
 (June 17, 1930, ch. 497, title III, §332, 46 Stat. 698; Pub. L. 93–618, title I, §173, title III, §341(b), Jan. 3, 1975, 88 Stat. 2010, 2056; Pub. L. 96–39, title II, §202(a)(1), July 26, 1979, 93 Stat. 201; Pub. L. 100–418, title I, §1613, Aug. 23, 1988, 102 Stat. 1262; Pub. L. 100–647, title IX, §9001(a)(16), Nov. 10, 1988, 102 Stat. 3808.)
 
@@ -102,7 +102,7 @@ Pub. L. 114–159, May 20, 2016, 130 Stat. 396, provided that:
 
 Findings.—Congress makes the following findings:
 
-&emsp;"(1) As of the date of the enactment of this Act \[May 20, 2016\], the Harmonized Tariff Schedule of the United States \[see Publication of Harmonized TariffSchedule note set out under section 1202 of this title\] imposes duties on imported goods for which there is no domestic availability or insufficient domestic availability.
+&emsp;"(1) As of the date of the enactment of this Act \[May 20, 2016\], the Harmonized Tariff Schedule of the United States \[see Publication of Harmonized Tariff Schedule note set out under section 1202 of this title\] imposes duties on imported goods for which there is no domestic availability or insufficient domestic availability.
 
 &emsp;"(2) The imposition of duties on such goods creates artificial distortions in the economy of the United States that negatively affect United States manufacturers and consumers.
 
@@ -218,7 +218,7 @@ Preliminary report.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—As soon as practicable after the expiration of the 120-day period beginning on the date of publication described in subparagraph (A), but in any case not later than 30 days after the expiration of such 120-day period, the Commission shall submit to the appropriate congressional committees a preliminary report on the petitions for duty suspensions and reductions submitted under paragraph (1)(A). The preliminary report shall contain the following information with respect to each petition for a duty suspension or reduction:
+In general.—As soon as practicable after the expiration of the 120-day period beginning on the date of publication described in subparagraph (A), but in any case not later than 30 days afterthe expiration of such 120-day period, the Commission shall submit to the appropriate congressional committees a preliminary report on the petitions for duty suspensions and reductions submitted under paragraph (1)(A). The preliminary report shall contain the following information with respect to each petition for a duty suspension or reduction:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) The heading or subheading of the Harmonized Tariff Schedule of the United States in which each article that is the subject of the petition for the duty suspension or reduction is classified, as identified by documentation supplied to the Commission, and any supporting information obtained by the Commission.
 
@@ -290,7 +290,7 @@ Prohibitions.—Any petitions for duty suspensions or reductions that are contai
 
 &emsp;"(4)
 
-Confidential business information.—The procedures concerning the release of confidential business information set forth in section 332(g) of theTariff Act of 1930 (19 U.S.C. 1332(g)) shall apply with respect to information received by the Commission in posting petitions on a publicly available website of the Commission and in preparing reports under this subsection.
+Confidential business information.—The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 (19 U.S.C. 1332(g)) shall apply with respect to information received by the Commission in posting petitions on a publicly available website of the Commission and in preparing reports under this subsection.
 
 &emsp;"(5)
 
@@ -298,7 +298,7 @@ Procedures.—The Commission shall prescribe and publish in the Federal Register
 
 "(c)
 
-Department of Commerce Report.—Not later than the end of the 90-day period beginning on the date of publication of the petitions for duty suspensions and reductions under subsection (b)(3)(A), the Secretary of Commerce, in consultation with U.S. Customs and Border Protection and other relevant Federal agencies, shall submit to the Commission and the appropriate congressional committees a report on each petition for a duty suspension or reduction submitted under subsection (b)(1)(A) that includes the following information:
+Department of Commerce Report.—Not later than the end of the 90-day period beginning on the date of publication of the petitions for duty suspensions and reductions under subsection (b)(3)(A), the Secretary ofCommerce, in consultation with U.S. Customs and Border Protection and other relevant Federal agencies, shall submit to the Commission and the appropriate congressional committees a report on each petition for a duty suspension or reduction submitted under subsection (b)(1)(A) that includes the following information:
 
 &emsp;"(1) A determination of whether or not domestic production of the article that is the subject of the petition for the duty suspension or reduction exists and, if such production exists, whether or not a domestic producer of the article objects to the petition for the duty suspension or reduction.
 
@@ -392,7 +392,7 @@ Domestic producer.—The term 'domestic producer' means a person that demonstrat
 
 &emsp;"(5)
 
-Domestic production.—The term 'domestic production' means the production of an article that is identical to, or like or directly competitive with, anarticle to which a petition for a duty suspension or reduction would apply, for which a domestic producer has demonstrated production, or imminent production, in the United States.
+Domestic production.—The term 'domestic production' means the production of an article that is identical to, or like or directly competitive with, an article to which a petition for a duty suspension or reduction would apply, for which a domestic producer has demonstrated production, or imminent production, in the United States.
 
 &emsp;"(6)
 

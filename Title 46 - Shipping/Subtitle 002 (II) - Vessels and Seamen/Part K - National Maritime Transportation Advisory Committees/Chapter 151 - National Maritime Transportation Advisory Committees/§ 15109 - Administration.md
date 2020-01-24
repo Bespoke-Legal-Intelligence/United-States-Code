@@ -158,7 +158,7 @@ Consultation.—
 
 &emsp;&emsp;(A)
 
-In general.—Before taking any significant action, the Secretary shall consult with, and consider the information, advice,and recommendations of, a committee established under this chapter if the function of the committee is to advise the Secretary on matters related to the significant action.
+In general.—Before taking any significant action, the Secretary shall consult with, and consider the information, advice, and recommendations of, a committee established under this chapter if the function of the committee is to advise the Secretary on matters related to the significant action.
 
 &emsp;&emsp;(B)
 

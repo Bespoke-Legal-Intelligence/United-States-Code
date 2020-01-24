@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall, in consultation with other appropriate Federal officials, manufacturers, repackagers, wholesale distributors, dispensers, and other pharmaceutical distribution supply chain stakeholders, issue a draft guidance document that establishes standards for the interoperable exchange of transaction information, transaction history, and transaction statements, in paper or electronic format, for compliance with this subsection and subsections (b), (c), (d), and (e). In establishing such standards, the Secretary shall consider the feasibility of establishing standardized documentation to be used by members of the pharmaceutical distribution supply chain to convey the transaction information, transaction history, and transaction statement to the subsequent purchaser of a product and to facilitate the exchange of lot level data. The standards established under this paragraph shall take into consideration the standards established under section 355e of this title and shall comply with a form and format developed by a widely recognized international standards development organization.
+&emsp;&emsp;The Secretary shall, in consultation with other appropriate Federal officials, manufacturers, repackagers, wholesale distributors, dispensers, and other pharmaceutical distribution supply chain stakeholders, issue a draft guidance document that establishes standards for the interoperable exchange of transaction information, transaction history, and transaction statements, in paper or electronic format, for compliance with this subsection and subsections (b), (c), (d), and (e). In establishing such standards, the Secretary shall consider the feasibility of establishing standardized documentation to be used by members of the pharmaceutical distribution supply chain to convey the transaction information, transaction history, and transaction statement to the subsequent purchaser of a product and to facilitate the exchange of lot level data. The standards established under this paragraph shall take into consideration the standards establishedunder section 355e of this title and shall comply with a form and format developed by a widely recognized international standards development organization.
 
 #### (B) Public input
 
@@ -132,7 +132,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Upon making a determination that a product in the possession or control of the manufacturer is a suspect product, or uponreceiving a request for verification from the Secretary that has made a determination that a product within the possession or control of a manufacturer is a suspect product, a manufacturer shall—
+&emsp;&emsp;&emsp;Upon making a determination that a product in the possession or control of the manufacturer is a suspect product, or upon receiving a request for verification from the Secretary that has made a determination that a product within the possession or control of a manufacturer is a suspect product, a manufacturer shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) quarantine such product within the possession or control of the manufacturer from product intended for distribution until such product is cleared or dispositioned; and
 
@@ -184,7 +184,7 @@
 
 #### (C) Requests for verification
 
-&emsp;&emsp;Beginning 4 years after November 27, 2013, upon receiving a request for verification from an authorized repackager, wholesale distributor, or dispenser that is in possession or control of a product such person believes to be manufactured by such manufacturer, a manufacturer shall, not later than 24 hours after receiving the request for verification or in other such reasonable time as determined by the Secretary, based on the circumstances of the request, notify the person making the request whether the product identifier, including the standardized numerical identifier, that is the subject of the request corresponds to the product identifier affixed or imprinted by the manufacturer. If a manufacturer responding to a request forverification identifies a product identifier that does not correspond to that affixed or imprinted by the manufacturer, the manufacturer shall treat such product as suspect product and conduct an investigation as described in subparagraph (A). If the manufacturer has reason to believe the product is an illegitimate product, the manufacturer shall advise the person making the request of such belief at the time such manufacturer responds to the request for verification.
+&emsp;&emsp;Beginning 4 years after November 27, 2013, upon receiving a request for verification from an authorized repackager, wholesale distributor, or dispenser that is in possession or control of a product such person believes to be manufactured by such manufacturer, a manufacturer shall, not later than 24 hours after receiving the request for verification or in other such reasonable time as determined by the Secretary, based on the circumstances of the request, notify the person making the request whether the product identifier, including the standardized numerical identifier, that is the subject of the request corresponds to the product identifier affixed or imprinted by the manufacturer. If a manufacturer responding to a request for verification identifies a product identifier that does not correspond to that affixed or imprinted by the manufacturer, the manufacturer shall treat such product as suspect product and conduct an investigation as described in subparagraph (A). If the manufacturer has reason to believe the product is an illegitimate product, the manufacturer shall advise the person making the request of such belief at the time such manufacturer responds to the request for verification.
 
 #### (D) Electronic database
 
@@ -196,7 +196,7 @@
 
 #### (F) Nonsaleable returned product
 
-&emsp;&emsp;A manufacturer may return a nonsaleable product to the manufacturer or repackager, to the wholesale distributor from whom such product was purchased, or to a person acting on behalf of such a person, including a returns processor, without providing the information described in paragraph (1)(A)(i).
+&emsp;&emsp;A manufacturer may return a nonsaleable product to the manufacturer or repackager, to the wholesale distributor from whom suchproduct was purchased, or to a person acting on behalf of such a person, including a returns processor, without providing the information described in paragraph (1)(A)(i).
 
 #### (c) Wholesale distributor requirements
 
@@ -244,7 +244,7 @@
 
 #### (II) Enhanced requirements
 
-&emsp;&emsp;&emsp;&emsp;Beginning 6 years after November 27, 2013 (except as provided pursuant to subsection (a)(5)), a wholesale distributor may accept returned product from a dispenser or repackager only if the wholesale distributor can associate returned product with the transaction information and transaction statement associated with that product. For all transactions after such date, the transaction history, as applicable, of such product shall begin with the wholesale distributor that accepted and verified the returned product. For purposes of this subparagraph, the transaction information and transaction history, as applicable, need not include transaction dates if it is not reasonably practicable to obtain such dates.
+&emsp;&emsp;&emsp;&emsp;Beginning 6 years after November 27, 2013 (except as provided pursuant to subsection (a)(5)), a wholesale distributor may accept returned product from a dispenser or repackager only if the wholesale distributor can associate returned product with the transaction information and transaction statement associated with that product. For all transactions after such date, the transaction history, as applicable, of such productshall begin with the wholesale distributor that accepted and verified the returned product. For purposes of this subparagraph, the transaction information and transaction history, as applicable, need not include transaction dates if it is not reasonably practicable to obtain such dates.
 
 #### (ii) Nonsaleable returns
 
@@ -304,7 +304,7 @@
 
 #### (ii) Making a notification
 
-&emsp;&emsp;&emsp;Upon determining that a product in the possession or control of the wholesale distributor is an illegitimate product, the wholesale distributor shall notify the Secretary and all immediate trading partners that the wholesale distributor has reason to believe may have received such illegitimate product of such determination not later than 24 hours after making such determination.
+&emsp;&emsp;&emsp;Upon determining that a product in the possession or control of the wholesale distributor is an illegitimate product, thewholesale distributor shall notify the Secretary and all immediate trading partners that the wholesale distributor has reason to believe may have received such illegitimate product of such determination not later than 24 hours after making such determination.
 
 #### (iii) Responding to a notification
 
@@ -342,7 +342,7 @@
 
 #### (B) Agreements with third parties
 
-&emsp;&emsp;A dispenser may enter into a written agreement with a third party, including anauthorized wholesale distributor, under which the third party confidentially maintains the transaction information, transaction history, and transaction statements required to be maintained under this subsection on behalf of the dispenser. If a dispenser enters into such an agreement, the dispenser shall maintain a copy of the written agreement and shall not be relieved of the obligations of the dispenser under this subsection.
+&emsp;&emsp;A dispenser may enter into a written agreement with a third party, including an authorized wholesale distributor, under which the third party confidentially maintains the transaction information, transaction history, and transaction statements required to be maintained under this subsection on behalf of the dispenser. If a dispenser enters into such an agreement, the dispenser shall maintain a copy of the written agreement and shall not be relieved of the obligations of the dispenser under this subsection.
 
 #### (C) Returns
 
@@ -592,7 +592,7 @@
 
 &emsp;&emsp;The Secretary, taking into consideration the assessment conducted under paragraph (3), shall provide for alternative methods of compliance with any of the requirements set forth in paragraph (1), including—
 
-&emsp;&emsp;&emsp;(i) establishing timelines for compliance by small businesses (including small business dispensers with 25 or fewer full-time employees) with such requirements, in order to ensure that such requirements do not impose undue economic hardship for small businesses, including small business dispensers for whom the criteria set forth in the assessment under paragraph (3) is not met, if the Secretary determines that such requirements under paragraph (1) would result in undue economic hardship; and
+&emsp;&emsp;&emsp;(i) establishing timelines for compliance by small businesses (including small business dispensers with 25 or fewer full-time employees) with such requirements, in order to ensure that such requirements donot impose undue economic hardship for small businesses, including small business dispensers for whom the criteria set forth in the assessment under paragraph (3) is not met, if the Secretary determines that such requirements under paragraph (1) would result in undue economic hardship; and
 
 &emsp;&emsp;&emsp;(ii) establishing a process by which a dispenser may request a waiver from any of the requirements set forth in paragraph (1) if the Secretary determines that such requirements would result in an undue economic hardship, which shall include a process for the biennial review and renewal of any such waiver.
 
@@ -810,7 +810,7 @@ The requirements set forth in subsections (g)(4), (i), and (j) shall not be cons
 
 #### (m) Requests for information
 
-On the date that is 10 years after November 27, 2013, the timeline for responses to requests for information from the Secretary, or other appropriate Federal or State official, as applicable, under subsections (b)(1)(B), (c)(1)(C), and (e)(1)(C) shall be not later than 24 hours after receiving the request from the Secretary or other appropriate Federal or State official, as applicable, or in such other reasonable time as determined by the Secretary based on the circumstances of the request.
+On the date that is 10 years after November 27, 2013, the timeline for responses to requests for information from the Secretary, or other appropriate Federal or State official, as applicable,under subsections (b)(1)(B), (c)(1)(C), and (e)(1)(C) shall be not later than 24 hours after receiving the request from the Secretary or other appropriate Federal or State official, as applicable, or in such other reasonable time as determined by the Secretary based on the circumstances of the request.
 
 (June 25, 1938, ch. 675, §582, as added and amended Pub. L. 113–54, title II, §§202, 203, Nov. 27, 2013, 127 Stat. 605, 623.)
 

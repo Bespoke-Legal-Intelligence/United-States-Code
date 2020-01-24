@@ -8,7 +8,7 @@ It is the sense of Congress that—
 
 &emsp;(2) as water and wastewater utilities make critical investments in infrastructure, water and wastewater utilities can invest in the development of local workers and local small businesses to strengthen communities and ensure a strong pipeline of skilled and diverse workers for today and tomorrow; and
 
-&emsp;(3) to further the goal of ensuring a strong pipeline of skilled and diverse workers in thewater and wastewater utilities sector, Congress urges—
+&emsp;(3) to further the goal of ensuring a strong pipeline of skilled and diverse workers in the water and wastewater utilities sector, Congress urges—
 
 &emsp;&emsp;(A) increased collaboration among Federal, State, and local governments; and
 

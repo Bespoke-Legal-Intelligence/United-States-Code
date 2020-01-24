@@ -34,7 +34,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (A) In general
 
-&emsp;&emsp;All children with disabilities residing in the State, including children with disabilities who are homeless children or are wards of the State and children with disabilities attending private schools, regardless of the severity of their disabilities, and who are in need of special education and related services, are identified, located, and evaluated and a practical method is developed and implemented to determine which children with disabilities are currently receiving needed special education and related services.
+&emsp;&emsp;All children with disabilities residing in the State, including children with disabilities who are homeless children or are wards of the State and children with disabilitiesattending private schools, regardless of the severity of their disabilities, and who are in need of special education and related services, are identified, located, and evaluated and a practical method is developed and implemented to determine which children with disabilities are currently receiving needed special education and related services.
 
 #### (B) Construction
 
@@ -68,7 +68,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Additional procedural safeguards
 
-&emsp;&emsp;Procedures to ensure that testing and evaluation materials and procedures utilized for the purposes of evaluation and placement of children with disabilities for services under this chapter will be selected and administered so as not to be racially or culturally discriminatory. Such materials or procedures shall be provided and administered in the child's native language or mode of communication, unless it clearly is notfeasible to do so, and no single procedure shall be the sole criterion for determining an appropriate educational program for a child.
+&emsp;&emsp;Procedures to ensure that testing and evaluation materials and procedures utilized for the purposes of evaluation and placement of children with disabilities for services under this chapter will be selected and administered so as not to be racially or culturally discriminatory. Such materials or procedures shall be provided and administered in the child's native language or mode of communication, unless it clearly is not feasible to do so, and no single procedure shall be the sole criterion for determining an appropriate educational program for a child.
 
 #### (7) Evaluation
 
@@ -248,7 +248,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (A) Establishing responsibility for services
 
-&emsp;&emsp;The Chief Executive Officer of a State or designee of the officer shall ensure that an interagency agreement or other mechanism for interagency coordination is in effect between each public agency described in subparagraph (B) and the State educational agency, in order to ensure that all services described in subparagraph (B)(i) that are needed to ensure a free appropriate public education are provided, including the provision of such services during the pendency ofany dispute under clause (iii). Such agreement or mechanism shall include the following:
+&emsp;&emsp;The Chief Executive Officer of a State or designee of the officer shall ensure that an interagency agreement or other mechanism for interagency coordination is in effect between each public agency described in subparagraph (B) and the State educational agency, in order to ensure that all services described in subparagraph (B)(i) that are needed to ensure a free appropriate public education are provided, including the provision of such services during the pendency of any dispute under clause (iii). Such agreement or mechanism shall include the following:
 
 #### (i) Agency financial responsibility
 
@@ -270,7 +270,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any public agency other than an educational agency is otherwise obligated under Federal or State law, or assigned responsibility under State policy pursuant to subparagraph (A), to provide or pay for any services that are also considered special education or related services (such as, but not limited to, services described in section 1401(1) relating to assistive technology devices, 1401(2) relating to assistive technology services, 1401(26) relating to related services, 1401(33) relating to supplementary aids and services, and 1401(34) of this title relating to transition services) that are necessary for ensuring a free appropriate public education to children with disabilities within the State, such public agency shall fulfill that obligation or responsibility, either directly or through contract or other arrangement pursuant to subparagraph (A) or an agreement pursuant to subparagraph (C).
+&emsp;&emsp;&emsp;If any public agency other than an educational agency is otherwise obligated under Federal or State law, or assigned responsibility under State policy pursuant to subparagraph (A), to provide or pay for any services that are also considered special education or related services (such as, but not limited to, services described in section 1401(1) relating to assistive technology devices, 1401(2) relating to assistive technology services, 1401(26) relating to related services, 1401(33) relating to supplementary aids and services, and 1401(34) of this title relating to transition services) that are necessary for ensuring a free appropriate public education to children with disabilities within the State, such public agency shall fulfill that obligation or responsibility, either directly orthrough contract or other arrangement pursuant to subparagraph (A) or an agreement pursuant to subparagraph (C).
 
 #### (ii) Reimbursement for services by public agency
 
@@ -304,7 +304,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;(ii) ensure that related services personnel who deliver services in their discipline or profession meet the requirements of clause (i) and have not had certification or licensure requirements waived on an emergency, temporary, or provisional basis; and
 
-&emsp;&emsp;&emsp;(iii) allow paraprofessionals and assistants who are appropriately trained and supervised, in accordance with State law, regulation, or written policy, in meeting the requirements of this subchapter to be used to assist in the provision of specialeducation and related services under this subchapter to children with disabilities.
+&emsp;&emsp;&emsp;(iii) allow paraprofessionals and assistants who are appropriately trained and supervised, in accordance with State law, regulation, or written policy, in meeting the requirements of this subchapter to be used to assist in the provision of special education and related services under this subchapter to children with disabilities.
 
 #### (C) Qualifications for special education teachers
 
@@ -372,7 +372,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (D) Reports
 
-&emsp;&emsp;The State educational agency (or, in the case of a districtwide assessment, the local educational agency) makes available to thepublic, and reports to the public with the same frequency and in the same detail as it reports on the assessment of nondisabled children, the following:
+&emsp;&emsp;The State educational agency (or, in the case of a districtwide assessment, the local educational agency) makes available to the public, and reports to the public with the same frequency and in the same detail as it reports on the assessment of nondisabled children, the following:
 
 &emsp;&emsp;&emsp;(i) The number of children with disabilities participating in regular assessments, and the number of those children who were provided accommodations in order to participate in those assessments.
 
@@ -398,7 +398,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (C) Prohibition against supplantation and conditions for waiver by Secretary
 
-&emsp;&emsp;Except as provided in section 1413 of this title, funds paid to a State under this subchapter will be used to supplement the level of Federal, State, and local funds (including funds that are not under the direct control of State or local educational agencies) expended for special education and related services provided to children with disabilities under this subchapter and in no case to supplant such Federal, State, and local funds, except that, where the State provides clear and convincing evidence that all children with disabilities have available to them a free appropriate public education, the Secretary may waive, in whole or in part, the requirements of this subparagraph if the Secretary concurs with the evidence provided by the State.
+&emsp;&emsp;Except as provided in section 1413 of this title, funds paid to a State under this subchapter will be used to supplement the level of Federal, State, and local funds (including funds that are not under the direct control of State or local educational agencies) expended for special education and related services provided to children with disabilities under this subchapter and in no case to supplant such Federal, State, and localfunds, except that, where the State provides clear and convincing evidence that all children with disabilities have available to them a free appropriate public education, the Secretary may waive, in whole or in part, the requirements of this subparagraph if the Secretary concurs with the evidence provided by the State.
 
 #### (18) Maintenance of State financial support
 
@@ -438,7 +438,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Membership
 
-&emsp;&emsp;Such advisory panel shall consist of members appointed by the Governor, or any otherofficial authorized under State law to make such appointments, be representative of the State population, and be composed of individuals involved in, or concerned with, the education of children with disabilities, including—
+&emsp;&emsp;Such advisory panel shall consist of members appointed by the Governor, or any other official authorized under State law to make such appointments, be representative of the State population, and be composed of individuals involved in, or concerned with, the education of children with disabilities, including—
 
 &emsp;&emsp;&emsp;(i) parents of children with disabilities (ages birth through 26);
 
@@ -548,7 +548,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (b) State educational agency as provider of free appropriate public education or direct services
 
-If the State educational agency provides free appropriate public education to children with disabilities, or provides direct services to such children, such agency—
+If the State educational agency provides free appropriate public education to children withdisabilities, or provides direct services to such children, such agency—
 
 &emsp;(1) shall comply with any additional requirements of section 1413(a) of this title, as if such agency were a local educational agency; and
 

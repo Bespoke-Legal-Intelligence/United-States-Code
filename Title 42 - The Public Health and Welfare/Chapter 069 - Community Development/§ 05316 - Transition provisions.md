@@ -2,7 +2,7 @@
 
 #### (a) Prohibition on new grants or loans after January 1, 1975; exceptions
 
-Except with respect to projects and programs for which funds have been previously committed, no new grants or loans shall be made after January 1, 1975, under (1) title I of the Demonstration Cities and Metropolitan Development Act of 1966 \[42 U.S.C. 3301 et seq.\], (2) title I of the Housing Act of 1949 \[42 U.S.C. 1450 et seq.\] (3) section 702 or section 703 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102 or 3103\], (4) title II of the Housing Amendments of 1955 \[42 U.S.C. 1491 et seq.\], or (5) title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\].
+Except with respect to projects and programs for which funds have been previously committed, no new grants or loans shall be made after January 1, 1975, under (1) title I of the Demonstration Cities and Metropolitan Development Act of 1966 \[42 U.S.C. 3301 et seq.\], (2) title I of the Housing Act of 1949 \[42 U.S.C. 1450 et seq.\] (3)section 702 or section 703 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102 or 3103\], (4) title II of the Housing Amendments of 1955 \[42 U.S.C. 1491 et seq.\], or (5) title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\].
 
 #### (b) Final date in fiscal year for submission of application for grant; establishment by Secretary
 
@@ -14,7 +14,7 @@ In the case of funds available for any fiscal year, the Secretary shall not cons
 
 The Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (a), is Pub. L. 89–754, Nov. 3, 1966, 80 Stat. 1255, as amended. Title I of the Act was classified principally to subchapter I (§3301 et seq.) of chapter 41 of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 3331 of this title and Tables.
 
-The Housing Act of 1949, referred to in subsec. (a), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title I of the Housing Act of 1949 was classified generally to subchapter II (§1450 et seq.) of chapter 8A of this title,and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
+The Housing Act of 1949, referred to in subsec. (a), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title I of the Housing Act of 1949 was classified generally to subchapter II (§1450 et seq.) of chapter 8A of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 
 Sections 702 and 703 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102, 3103\], referred to in subsec. (a), were omitted from the Code pursuant to this section which terminated the authority to make grants or loans under those sections after Jan. 1, 1975.
 

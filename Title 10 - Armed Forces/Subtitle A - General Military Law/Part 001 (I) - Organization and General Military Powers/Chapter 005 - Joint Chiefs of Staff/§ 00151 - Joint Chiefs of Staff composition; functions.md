@@ -38,7 +38,7 @@ Consultation by Chairman.—(1) In carrying out his functions, duties, and respo
 
 Advice and Opinions of Members Other Than Chairman.—(1) After first informing the Secretary of Defense and the Chairman, the members of the Joint Chiefs of Staff, individually or collectively, in their capacity as military advisors, may provide advice to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense on a particular matter on the judgment of the military member.
 
-(2) A member of the Joint Chiefs of Staff (other than the Chairman) may submit to the Chairman advice or an opinion in disagreement with, or advice or an opinion in addition to, the advice presented by the Chairman to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense. If a member submits such advice or opinion, the Chairman shall present the advice or opinion of such member at the same time he presents his own advice to the President, theNational Security Council, the Homeland Security Council, or the Secretary of Defense, as the case may be.
+(2) A member of the Joint Chiefs of Staff (other than the Chairman) may submit to the Chairman advice or an opinion in disagreement with, or advice or an opinion in addition to, the advice presented by the Chairman to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense. If a member submits such advice or opinion, the Chairman shall present the advice or opinion of such member at the same time he presents his own advice to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense, as the case may be.
 
 (3) The Chairman shall establish procedures to ensure that the presentation of his own advice to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense is not unduly delayed by reason of the submission of the individual advice or opinion of another member of the Joint Chiefs of Staff.
 
@@ -62,9 +62,19 @@ Meetings of JCS.—(1) The Chairman shall convene regular meetings of the Joint 
 
 &emsp;(D) determine when issues under consideration by the Joint Chiefs of Staff shall be decided.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1005; amended Pub. L. 102–484, div. A, title IX, §911(a), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 109–163, div. A, title IX, §908(a), Jan. 6, 2006, 119 Stat. 3403; Pub. L. 112–81, div. A, title V, §512(a), Dec. 31, 2011, 125 Stat. 1393; Pub. L. 114–328, div. A, title IX, §921(a), Dec. 23, 2016, 130 Stat. 2351.)
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1005; amended Pub. L. 102–484, div. A, title IX, §911(a), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 109–163, div. A, title IX, §908(a), Jan. 6, 2006, 119 Stat. 3403; Pub. L. 112–81, div. A, title V, §512(a), Dec. 31, 2011, 125 Stat. 1393; Pub. L. 114–328, div. A, title IX, §921(a), Dec. 23, 2016, 130 Stat. 2351; Pub. L. 116–92, div. A, title IX, §953(c), Dec. 20, 2019, 133 Stat. 1564.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 116–92, div. A, title IX, §953(c), Dec. 20, 2019, 133 Stat. 1564, provided that, effective on the date that is one year after Dec. 20, 2019, subsection (a) of this section is amended by adding at the end the following new paragraph:</i>
+
+&emsp;<i>(8) The Chief of Space Operations.</i>
+
+<i>See 2019 Amendment note below.</i>
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(8). Pub. L. 116–92 added par. (8).
 
 <b>2016</b>—Subsec. (b)(2). Pub. L. 114–328, §921(a)(2)(A), substituted "subsection (d)" for "subsections (d) and (e)".
 
@@ -79,4 +89,8 @@ Subsec. (e). Pub. L. 114–328, §921(a)(2)(C), struck out subsec. (e) which req
 <b>2006</b>—Subsecs. (b), (c)(2), (d), (e). Pub. L. 109–163 inserted "the Homeland Security Council," after "the National Security Council," wherever appearing.
 
 <b>1992</b>—Subsec. (a)(2) to (6). Pub. L. 102–484 added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–92, div. A, title IX, §953(c), Dec. 20, 2019, 133 Stat. 1564, provided that the amendment made by section 953(c) is effective on the date that is one year after Dec. 20, 2019.
 

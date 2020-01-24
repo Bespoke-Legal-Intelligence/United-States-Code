@@ -52,5 +52,5 @@ Pub. L. 99–198, title XVII, subtitle F (§§1751–1759), §1751, Dec. 23, 198
 
 #### Extended Definition of "Animal"
 
-Pub. L. 99–198, title XVII, 1756(b), Dec. 23, 1985, 99 Stat. 1650, provided that: "For purposes of this Act \[see Tables for classification\], the term 'animal' shall have the same meaning as defined in section 2(g) of the Animal Welfare Act (7 U.S.C. 2132(g))."
+Pub. L. 99–198, title XVII, 1756(b), Dec. 23, 1985, 99 Stat. 1650, provided that: "For purposes of this Act \[seeTables for classification\], the term 'animal' shall have the same meaning as defined in section 2(g) of the Animal Welfare Act (7 U.S.C. 2132(g))."
 

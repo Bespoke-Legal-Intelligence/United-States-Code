@@ -46,7 +46,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 #### (3) Misdemeanor conviction relating to controlled substance
 
-&emsp;Any individual or entity that has been convicted, under Federal or State law, of a criminal offense consisting of a misdemeanor relating to the unlawful manufacture, distribution,prescription, or dispensing of a controlled substance.
+&emsp;Any individual or entity that has been convicted, under Federal or State law, of a criminal offense consisting of a misdemeanor relating to the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance.
 
 #### (4) License revocation or suspension
 
@@ -112,9 +112,9 @@ The Secretary may exclude the following individuals and entities from participat
 
 #### (10) Failure to supply requested information on subcontractors and suppliers
 
-&emsp;Any disclosing entity (as defined in section 1320a–3(a)(2) of this title) that fails to supply (within such period as may be specified by the Secretary in regulations) upon request specifically addressed to the entity by the Secretaryor by the State agency administering or supervising the administration of a State health care program—
+&emsp;Any disclosing entity (as defined in section 1320a–3(a)(2) of this title) that fails to supply (within such period as may be specified by the Secretary in regulations) upon request specifically addressed to the entity by the Secretary or by the State agency administering or supervising the administration of a State health care program—
 
-&emsp;&emsp;(A) full and complete information as to the ownership of a subcontractor (as defined by the Secretary in regulations) with whom the entity has had, during the previous 12 months, business transactions in an aggregate amount in excess of $25,000, or
+&emsp;&emsp;(A) full and complete information as to the ownership of a subcontractor (as defined bythe Secretary in regulations) with whom the entity has had, during the previous 12 months, business transactions in an aggregate amount in excess of $25,000, or
 
 &emsp;&emsp;(B) full and complete information as to any significant business transactions (as defined by the Secretary in regulations), occurring during the five-year period ending on the date of such request, between the entity and any wholly owned supplier or between the entity and any subcontractor.
 
@@ -159,6 +159,10 @@ The Secretary may exclude the following individuals and entities from participat
 #### (16) Making false statements or misrepresentation of material facts
 
 &emsp;Any individual or entity that knowingly makes or causes to be made any false statement, omission, or misrepresentation of a material fact in any application, agreement, bid, or contract to participate or enroll as a provider of services or supplier under a Federal health care program (as defined in section 1320a–7b(f) of this title), including Medicare Advantage organizations under part C of subchapter XVIII, prescription drug plan sponsors under part D of subchapter XVIII, medicaid managed care organizations under subchapter XIX, and entities that apply to participate as providers of services or suppliers in such managed care organizations and such plans.
+
+#### (17) Knowingly misclassifying covered outpatient drugs
+
+&emsp;Any manufacturer or officer, director, agent, or managing employee of such manufacturer that knowingly misclassifies a covered outpatient drug under an agreement under section 1396r–8 of this title, knowingly fails to correct such misclassification, or knowingly provides false information related to drug pricing, drug product information, or data related to drug pricing or drug product information.
 
 #### (c) Notice, effective date, and period of exclusion
 
@@ -224,7 +228,7 @@ The Secretary shall—
 
 #### (f) Notice, hearing, and judicial review
 
-(1) Subject to paragraph (2), any individual or entity that is excluded (or directed to be excluded) from participation under this section is entitled to reasonable notice and opportunity for a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, except that, in so applying such sections and section405(l) of this title, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
+(1) Subject to paragraph (2), any individual or entity that is excluded (or directed to be excluded) from participation under this section is entitled to reasonable notice and opportunity for a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, except that, in so applying such sections and section 405(l) of this title, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
 
 (2) Unless the Secretary determines that the health or safety of individuals receiving services warrants the exclusion taking effect earlier, any individual or entity that is the subject of an adverse determination under subsection (b)(7) shall be entitled to a hearing by an administrative law judge (as provided under section 405(b) of this title) on the determination under subsection (b)(7) before any exclusion based upon the determination takes effect.
 
@@ -288,13 +292,15 @@ For purposes of subsection (b)(8)(A)(iii):
 
 &emsp;(2) The term "member of the household" means, with respect to any person, any individual sharing a common abode as part of a single family unit with the person, including domestic employees and others who live together as a family unit, but not including a roomer or boarder.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128, as added Pub. L. 96–499, title IX, §913(a), Dec. 5, 1980, 94 Stat. 2619; amended Pub. L. 97–35, title XXI, §2105(b), title XXIII, §2353(k), Aug. 13, 1981, 95 Stat. 791, 873; Pub. L. 98–369, div. B, title III, §2333(a), (b), July 18, 1984, 98 Stat. 1089; Pub. L. 99–509, title IX, §9317(c), Oct. 21, 1986, 100 Stat. 2008; Pub. L. 100–93, §2, Aug. 18, 1987, 101 Stat. 680; Pub. L. 100–203, title IV, §4118(e)(2)–(5), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 795; Pub. L. 100–360, title IV, §411(k)(10)(C), July 1, 1988, 102 Stat. 795; Pub. L. 101–239, titleVI, §6411(d)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §4164(b)(3), Nov. 5, 1990, 104 Stat. 1388–102; Pub. L. 102–54, §13(q)(3)(A)(ii), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §108(b)(9), title II, §206(b)(2), Aug. 15, 1994, 108 Stat. 1483, 1513; Pub. L. 104–191, title II, §§211–213, Aug. 21, 1996, 110 Stat. 2003–2005; Pub. L. 105–33, title IV, §§4301, 4303(a), 4331(c), 4901(b)(2), Aug. 5, 1997, 111 Stat. 382, 396, 570; Pub. L. 108–173, title IX, §949, Dec. 8, 2003, 117 Stat. 2426; Pub. L. 111–148, title VI, §§6402(d)(1), (e), (k), 6406(c), 6408(c), 6703(d)(3)(A), Mar. 23, 2010, 124 Stat. 757, 759, 763, 769, 772, 804.)
+(Aug. 14, 1935, ch. 531, title XI, §1128, as added Pub. L. 96–499, title IX, §913(a), Dec. 5, 1980, 94 Stat. 2619; amended Pub. L. 97–35, title XXI, §2105(b), title XXIII, §2353(k), Aug. 13, 1981, 95Stat. 791, 873; Pub. L. 98–369, div. B, title III, §2333(a), (b), July 18, 1984, 98 Stat. 1089; Pub. L. 99–509, title IX, §9317(c), Oct. 21, 1986, 100 Stat. 2008; Pub. L. 100–93, §2, Aug. 18, 1987, 101 Stat. 680; Pub. L. 100–203, title IV, §4118(e)(2)–(5), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 795; Pub. L. 100–360, title IV, §411(k)(10)(C), July 1, 1988, 102 Stat. 795; Pub. L. 101–239, title VI, §6411(d)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §4164(b)(3), Nov. 5, 1990, 104 Stat. 1388–102; Pub. L. 102–54, §13(q)(3)(A)(ii), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §108(b)(9), title II, §206(b)(2), Aug. 15, 1994, 108 Stat. 1483, 1513; Pub. L. 104–191, title II, §§211–213, Aug. 21, 1996, 110 Stat. 2003–2005; Pub. L. 105–33, title IV, §§4301, 4303(a), 4331(c), 4901(b)(2), Aug. 5, 1997, 111 Stat. 382, 396, 570; Pub. L. 108–173, title IX, §949, Dec. 8, 2003, 117 Stat. 2426; Pub. L. 111–148, title VI, §§6402(d)(1), (e), (k), 6406(c), 6408(c), 6703(d)(3)(A), Mar. 23, 2010, 124 Stat. 757, 759, 763, 769, 772, 804; Pub. L. 116–16, §6(d), Apr. 18, 2019, 133 Stat. 864.)
 
 #### References in Text
 
 Division A of subchapter XX, referred to in subsec. (h)(3), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(17). Pub. L. 116–16 added par. (17).
 
 <b>2010</b>—Subsec. (b)(2). Pub. L. 111–148, §6408(c), inserted "or audit" after "investigation" in the heading, substituted "investigation or audit related to—" for "investigation into any criminal offense described in paragraph (1) or in subsection (a) of this section.", and added cls. (i) and (ii).
 
@@ -384,6 +390,10 @@ Subsec. (a)(2). Pub. L. 97–35, §2353(k), substituted in subpar. (A) "subchapt
 
 Subsecs. (b) to (d). Pub. L. 97–35, §2105(b)(2)–(4), added subsec. (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and in subsec. (d) as so redesignated substituted "subsection (a) or (b)" for "subsection (a)".
 
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–16, §6(e), Apr. 18, 2019, 133 Stat. 864, provided that: "The amendments made by this section \[amending this section and sections 1396b and 1396r–8 of this title\] shall take effect on the date of the enactment of this Act \[Apr. 18, 2019\], and shall apply to covered outpatient drugs supplied by manufacturers under agreements under section 1927 of the Social Security Act (42 U.S.C. 1396r–8) on or after such date."
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–148, title VI, §6406(d), Mar. 23, 2010, 124 Stat. 769, provided that: "The amendments made by this section \[amending this section and sections 1395u and 1395cc of this title\] shall apply to orders, certifications, and referrals made on or after January 1, 2010."
@@ -444,7 +454,7 @@ Effective Date for Changes in Medicaid Law.—(1) The amendments made by section
 
 "(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this Act, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act.
 
-"(3) Subsection (j) of section 1128A of the Social Security Act \[42 U.S.C. 1320a–7a(j)\] (as added by section 3(f)of this Act) takes effect on the date of the enactment of this Act.
+"(3) Subsection (j) of section 1128A of the Social Security Act \[42 U.S.C. 1320a–7a(j)\] (as added by section 3(f) of this Act) takes effect on the date of the enactment of this Act.
 
 "(d)
 

@@ -10,7 +10,7 @@ The Director of the National Institute of Corrections shall design and construct
 
 #### (c) Authorization of appropriations
 
-In addition to amounts otherwise authorized to be appropriated with respect to the NationalInstitute of Corrections, there are authorized to be appropriated to the Director of the National Institute of Corrections—
+In addition to amounts otherwise authorized to be appropriated with respect to the National Institute of Corrections, there are authorized to be appropriated to the Director of the National Institute of Corrections—
 
 &emsp;(1) for establishment and operation of the center, for curriculum development for the center, and for salaries and expenses of personnel at the center, not more than $4,000,000 for each of fiscal years 1989, 1990, and 1991; and
 

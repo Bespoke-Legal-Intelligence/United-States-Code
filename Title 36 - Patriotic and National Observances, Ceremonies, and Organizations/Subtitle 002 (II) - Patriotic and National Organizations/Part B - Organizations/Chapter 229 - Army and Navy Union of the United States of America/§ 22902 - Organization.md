@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Army and Navy Union of the United States of America (in this chapter,the "corporation"), incorporated in Ohio, is a federally chartered corporation.
+Federal Charter.—Army and Navy Union of the United States of America (in this chapter, the "corporation"), incorporated in Ohio, is a federally chartered corporation.
 
 (b)
 

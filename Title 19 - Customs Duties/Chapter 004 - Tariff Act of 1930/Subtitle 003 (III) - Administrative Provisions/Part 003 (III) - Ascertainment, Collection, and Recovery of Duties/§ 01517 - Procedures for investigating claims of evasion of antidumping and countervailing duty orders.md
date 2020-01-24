@@ -178,7 +178,7 @@ In this section:
 
 &emsp;&emsp;(A) issuing a questionnaire with respect to such covered merchandise to—
 
-&emsp;&emsp;&emsp;(i) an interested party that filed an allegation under paragraph (2) of subsection (b) that resulted in the initiation of an investigation under paragraph (1) of that subsection with respect to such covered merchandise;
+&emsp;&emsp;&emsp;(i) an interested party that filed an allegation under paragraph (2) of subsection (b) that resulted in the initiation of an investigation under paragraph (1) of thatsubsection with respect to such covered merchandise;
 
 &emsp;&emsp;&emsp;(ii) a person alleged to have entered such covered merchandise into the customs territory of the United States through evasion;
 
@@ -292,7 +292,7 @@ Not later than 90 calendar days after initiating an investigation under subsecti
 
 &emsp;&emsp;(A) whether the Commissioner fully complied with all procedures under subsections (c) and (f); and
 
-&emsp;&emsp;(B) whether any determination, finding, or conclusion is arbitrary, capricious, an abuseof discretion, or otherwise not in accordance with law.
+&emsp;&emsp;(B) whether any determination, finding, or conclusion is arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
 
 #### (3) Rule of construction
 
@@ -300,7 +300,7 @@ Not later than 90 calendar days after initiating an investigation under subsecti
 
 #### (h) Rule of construction with respect to other civil and criminal proceedings and investigations
 
-No determination under subsection (c), review under subsection (f), or action taken by the Commissioner pursuant to this section shall preclude any individual or entity from proceeding, or otherwise affect or limit the authority of any individual or entity to proceed, with any civil, criminal, or administrative investigation or proceeding pursuant to any other provision of Federal or State law, including sections 1592 of this title and 1595a of this title.
+No determination under subsection (c), review under subsection (f), or action taken by the Commissioner pursuant to this section shall preclude any individual or entity from proceeding, or otherwise affect or limit the authority of anyindividual or entity to proceed, with any civil, criminal, or administrative investigation or proceeding pursuant to any other provision of Federal or State law, including sections 1592 of this title and 1595a of this title.
 
 (June 17, 1930, ch. 497, title IV, §517, as added Pub. L. 114–125, title IV, §421(a), Feb. 24, 2016, 130 Stat. 161.)
 

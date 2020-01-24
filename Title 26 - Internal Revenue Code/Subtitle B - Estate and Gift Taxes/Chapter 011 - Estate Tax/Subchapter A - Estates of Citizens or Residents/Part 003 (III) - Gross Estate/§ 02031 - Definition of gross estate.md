@@ -14,7 +14,7 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 &emsp;If the executor makes the election described in paragraph (6), then, except as otherwise provided in this subsection, there shall be excluded from the gross estate the lesser of—
 
-&emsp;&emsp;(A) the applicable percentage of the value of land subject to a qualified conservationeasement, reduced by the amount of any deduction under section 2055(f) with respect to such land, or
+&emsp;&emsp;(A) the applicable percentage of the value of land subject to a qualified conservation easement, reduced by the amount of any deduction under section 2055(f) with respect to such land, or
 
 &emsp;&emsp;(B) $500,000.
 
@@ -44,7 +44,7 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 &emsp;&emsp;&emsp;&emsp;(I) the indebtedness incurred by the donor in acquiring such property,
 
-&emsp;&emsp;&emsp;&emsp;(II) the indebtedness incurred before the acquisition of such property if such indebtedness would not have been incurred but for such acquisition,
+&emsp;&emsp;&emsp;&emsp;(II) the indebtedness incurred before the acquisition of such property if suchindebtedness would not have been incurred but for such acquisition,
 
 &emsp;&emsp;&emsp;&emsp;(III) the indebtedness incurred after the acquisition of such property if such indebtedness would not have been incurred but for such acquisition and the incurrence of such indebtedness was reasonably foreseeable at the time of such acquisition, and
 

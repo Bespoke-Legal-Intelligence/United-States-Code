@@ -48,7 +48,7 @@ Pub. L. 96–399, title I, §113, Oct. 8, 1980, 94 Stat. 1622, directed Secretar
 
 #### Statement of Policy and Study on Housing Displacement
 
-Pub. L. 95–557, title IX, §902, Oct. 31, 1978, 92 Stat. 2125, declared it to be the policy of Congress that in administration of Federal housing and development programs, involuntary displacement of persons from homes and neighborhoods should be minimized and in keeping with such stated policy, authorized Secretary of Housing and Urban Development to conduct a studyon nature and extent of such displacement and, not later than Jan. 31, 1979, report to Congress on recommendations for formulation of a national policy to minimize such displacement.
+Pub. L. 95–557, title IX, §902, Oct. 31, 1978, 92 Stat. 2125, declared it to be the policy of Congress that in administration of Federal housing and development programs, involuntary displacement of persons from homes and neighborhoods should be minimized and in keeping with such stated policy, authorized Secretary of Housing and Urban Development to conduct a study on nature and extent of such displacement and, not later than Jan. 31, 1979, report to Congress on recommendations for formulation of a national policy to minimize such displacement.
 
 #### Study on Small Cities; Report to President and Congress; Alternative Formulae
 

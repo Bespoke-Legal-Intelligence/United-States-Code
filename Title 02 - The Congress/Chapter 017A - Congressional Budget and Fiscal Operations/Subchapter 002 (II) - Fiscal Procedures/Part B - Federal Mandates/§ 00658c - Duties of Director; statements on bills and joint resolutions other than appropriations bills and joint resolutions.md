@@ -28,7 +28,7 @@ For each bill or joint resolution of a public character reported by any committe
 
 #### (4) Estimate not feasible
 
-&emsp;If the Director determines that it is not feasible to make a reasonable estimate that would be required under paragraphs (1) and (2), the Director shall not make the estimate, but shall report in the statement that the reasonable estimate cannot be made and shall include the reasons for that determination in the statement. If such determination is made by the Director, a point of order under this part shall lie only under section 658d(a)(1) of this title and as if the requirement of section 658d(a)(1) of this title had not been met.
+&emsp;If the Director determines that it is not feasible to make a reasonable estimate that would be required under paragraphs (1) and (2), the Director shall not make the estimate, butshall report in the statement that the reasonable estimate cannot be made and shall include the reasons for that determination in the statement. If such determination is made by the Director, a point of order under this part shall lie only under section 658d(a)(1) of this title and as if the requirement of section 658d(a)(1) of this title had not been met.
 
 #### (b) Federal private sector mandates in reported bills and joint resolutions
 
@@ -56,7 +56,7 @@ If the Director estimates that the direct costs of a Federal mandate will not eq
 
 #### (d) Amended bills and joint resolutions; conference reports
 
-If a bill or joint resolution is passed in an amended form (including if passed by one House as an amendment in the nature of a substitute for the text of a bill or joint resolution from the other House) or is reported by a committee of conference in amended form, and the amendedform contains a Federal mandate not previously considered by either House or which contains an increase in the direct cost of a previously considered Federal mandate, then the committee of conference shall ensure, to the greatest extent practicable, that the Director shall prepare a statement as provided in this subsection or a supplemental statement for the bill or joint resolution in that amended form.
+If a bill or joint resolution is passed in an amended form (including if passed by one House as an amendment in the nature of a substitute for the text of a bill or joint resolution from the other House) or is reported by a committee of conference in amended form, and the amended form contains a Federal mandate not previously considered by either House or which contains an increase in the direct cost of a previously considered Federal mandate, then the committee of conference shall ensure, to the greatest extent practicable, that the Director shall prepare a statement as provided in this subsection or a supplemental statement for the bill or joint resolution in that amended form.
 
 (Pub. L. 93–344, title IV, §424, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 55; amended Pub. L. 106–141, §2(b), Dec. 7, 1999, 113 Stat. 1699.)
 

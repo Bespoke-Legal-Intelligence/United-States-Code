@@ -16,7 +16,7 @@
 
 (1) The allotment to any State under subsection (a) for any fiscal year which is less than—
 
-&emsp;(A) $50,000 for the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam and $100,000 for any other State, in the case of an allotment for grantsfor the construction of public or other nonprofit rehabilitation facilities,
+&emsp;(A) $50,000 for the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam and $100,000 for any other State, in the case of an allotment for grants for the construction of public or other nonprofit rehabilitation facilities,
 
 &emsp;(B) $100,000 for the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam and $200,000 for any other State in the case of an allotment for grants for the construction of public or other nonprofit outpatient facilities,
 
@@ -56,7 +56,7 @@ For the purposes of this part—
 
 &emsp;(B) in the case of a request to transfer a portion of an allotment for grants for the construction of public or other nonprofit hospitals and public health centers, use of such portion as requested by such State agency will better carry out the purposes of this subchapter,
 
-> the Secretary shall promptly (but after application of subsection (b)) adjust the allotments ofsuch State in accordance with such request and shall notify the State agency.
+> the Secretary shall promptly (but after application of subsection (b)) adjust the allotments of such State in accordance with such request and shall notify the State agency.
 
 (3) In addition to the transfer of portions of allotments under paragraph (1) or (2), upon the request of any State that a specified portion of an allotment of such State under paragraph (2) of subsection (a) be added to an allotment of such State under paragraph (1) of such subsection for grants for the construction of public or other nonprofit hospitals and public health centers, and upon simultaneous certification by the State agency in such State to the effect that the need for new public or other nonprofit hospitals and public health centers is substantially greater than the need for modernization of facilities referred to in paragraph (a) or (b) of section 291a of this title, the Secretary shall promptly (but after application of subsection (b) of this section) adjust the allotments of such State in accordance with such request and shall notify the State agency.
 

@@ -54,7 +54,7 @@ Promptly after the circulation of a report of a panel or of the Appellate Body t
 
 &emsp;&emsp;(B) the Trade Representative has sought advice regarding the modification from relevant private sector advisory committees established under section 2155 of this title;
 
-&emsp;&emsp;(C) the head of the relevant department or agency has provided an opportunity for public comment by publishing in the FederalRegister the proposed modification and the explanation for the modification;
+&emsp;&emsp;(C) the head of the relevant department or agency has provided an opportunity for public comment by publishing in the Federal Register the proposed modification and the explanation for the modification;
 
 &emsp;&emsp;(D) the Trade Representative has submitted to the appropriate congressional committees a report describing the proposed modification, the reasons for the modification, and a summary of the advice obtained under subparagraph (B) with respect to the modification;
 
@@ -64,7 +64,7 @@ Promptly after the circulation of a report of a panel or of the Appellate Body t
 
 #### (2) Effective date of modification
 
-&emsp;A final rule or other modification to which paragraph (1) applies may not go into effect before the end of the 60-day period beginning on the date on which consultations under paragraph (1)(E) begin, unless the President determines that an earlier effective date is in the national interest.
+&emsp;A final rule or other modification to which paragraph (1) applies may not go into effect before the end of the 60-day period beginningon the date on which consultations under paragraph (1)(E) begin, unless the President determines that an earlier effective date is in the national interest.
 
 #### (3) Vote by congressional committees
 

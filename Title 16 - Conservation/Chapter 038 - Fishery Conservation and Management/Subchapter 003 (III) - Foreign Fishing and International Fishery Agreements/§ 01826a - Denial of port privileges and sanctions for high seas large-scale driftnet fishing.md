@@ -116,7 +116,7 @@ Subsec. (b)(4)(A)(i). Pub. L. 114–81, §102(a)(8), (9), struck out "or illegal
 
 #### High Seas Driftnet Fisheries Enforcement; Congressional Statement of Findings and Policy
 
-Pub. L. 102–582, §2, Nov. 2, 1992, 106 Stat. 4900, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 102–582, §2, Nov. 2, 1992, 106 Stat. 4900, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[titleII, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 "(a)
 
@@ -146,7 +146,7 @@ Findings.—Congress makes the following findings:
 
 Policy.—It is the stated policy of the United States to—
 
-&emsp;"(1) implement United Nations General Assembly Resolution numbered 46–215, approved unanimously on December 20, 1991, which calls for an immediate cessation to further expansion of large-scale driftnet fishing, a 50 percent reduction in existing large-scale driftnet fishing effort by June 30, 1992, and a globalmoratorium on the use of large-scale driftnets beyond the exclusive economic zone of any nation by December 31, 1992;
+&emsp;"(1) implement United Nations General Assembly Resolution numbered 46–215, approved unanimously on December 20, 1991, which calls for an immediate cessation to further expansion of large-scale driftnet fishing, a 50 percent reduction in existing large-scale driftnet fishing effort by June 30, 1992, and a global moratorium on the use of large-scale driftnets beyond the exclusive economic zone of any nation by December 31, 1992;
 
 &emsp;"(2) bring about a moratorium on fishing in the Central Bering Sea, or an international conservation and management agreement to which the United States and the Russian Federation are parties that regulates fishing in the Central Bering Sea; and
 

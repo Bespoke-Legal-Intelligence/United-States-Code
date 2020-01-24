@@ -6,7 +6,7 @@ Exclusion of Particular Source.—
 
 &emsp;(1)
 
-Criteria for exclusion.—An executive agency may provide for the procurement of property or services covered by section 3301 of this title using competitive procedures but excluding a particular source to establish or maintain an alternative source of supply for that property or service if the agency head determines that to do so would—
+Criteria for exclusion.—An executive agency may provide for the procurement of property or services covered by section 3301 of this title using competitive procedures but excluding a particular source to establish ormaintain an alternative source of supply for that property or service if the agency head determines that to do so would—
 
 &emsp;&emsp;(A) increase or maintain competition and likely result in reduced overall cost for the procurement, or for an anticipated procurement, of the property or services;
 

@@ -20,7 +20,7 @@ Complaint Procedure.—
 
 &emsp;(1)
 
-Filing and notification.—A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) may file (or have any person file on his or her behalf), not later than 180 days after the date on which such violation occurs, a complaint with the Secretary of Labor (hereinafter in this section referred to as the "Secretary") alleging such discharge or discrimination. Upon receipt of such a complaint, the Secretary shall notify, in writing, the person named in the complaint of the filing of the complaint, of the allegations contained in the complaint, of the substance ofevidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
+Filing and notification.—A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) may file (or have any person file on his or her behalf), not later than 180 days after the date on which such violation occurs, a complaint with the Secretary of Labor (hereinafter in this section referred to as the "Secretary") alleging such discharge or discrimination. Upon receipt of such a complaint, the Secretary shall notify, in writing, the person named in the complaint of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
 
 &emsp;(2)
 
@@ -86,7 +86,7 @@ Review.—
 
 &emsp;&emsp;(A)
 
-Appeal to court of appeals.—Any person adversely affected or aggrieved by an order issued under paragraph (3) may obtain review of the order in the United StatesCourt of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review shall be filed not later than 60 days after the date of the issuance of the final order of the Secretary. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
+Appeal to court of appeals.—Any person adversely affected or aggrieved by an order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review shall be filed not later than 60 days after the date of the issuance of the final order of the Secretary. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
 
 &emsp;&emsp;(B)
 

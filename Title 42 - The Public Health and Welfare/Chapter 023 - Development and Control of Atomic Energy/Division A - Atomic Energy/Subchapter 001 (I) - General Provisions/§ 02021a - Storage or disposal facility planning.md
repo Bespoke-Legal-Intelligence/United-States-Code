@@ -8,7 +8,7 @@
 
 #### References in Text
 
-Commission, referred to in text, probably means the Nuclear Regulatory Commission in view of the factthat this section was enacted as part of the act authorizing appropriations for the Nuclear Regulatory Commission for fiscal year 1979.
+Commission, referred to in text, probably means the Nuclear Regulatory Commission in view of the fact that this section was enacted as part of the act authorizing appropriations for the Nuclear Regulatory Commission for fiscal year 1979.
 
 #### Codification
 
@@ -16,13 +16,13 @@ Section was enacted as part of an act authorizing appropriations to the Nuclear 
 
 #### Plan for Permanent Disposal of Waste From Atomic Energy Defense Activities; Submission of Plan to Congress Not Later Than June 30, 1983
 
-Pub. L. 97–90, title II, §213, Dec. 4, 1981, 95 Stat. 1171, directed President to submit to Committees on Armed Services of Senate and of House of Representatives not later than June 30, 1983, a report setting forth his plans for permanent disposal of high-level and transuranic wastes resulting from atomic energy defense activities, such report to include, but not be limited to, for each State in which such wastes are stored in interim storage facilities on Dec. 4, 1981, specific estimates of amounts planned for expenditure in each of the next five fiscal years to achieve the permanent disposal of such wastes and general estimates of amounts planned for expenditure in fiscal years thereafter to achieve such purpose, and a thorough and detailed program management plan for the disposal of such wastes.
+Pub. L. 97–90, title II, §213, Dec. 4, 1981, 95 Stat. 1171, directed President to submit to Committees on ArmedServices of Senate and of House of Representatives not later than June 30, 1983, a report setting forth his plans for permanent disposal of high-level and transuranic wastes resulting from atomic energy defense activities, such report to include, but not be limited to, for each State in which such wastes are stored in interim storage facilities on Dec. 4, 1981, specific estimates of amounts planned for expenditure in each of the next five fiscal years to achieve the permanent disposal of such wastes and general estimates of amounts planned for expenditure in fiscal years thereafter to achieve such purpose, and a thorough and detailed program management plan for the disposal of such wastes.
 
 #### West Valley Demonstration Project; Radioactive Waste Management; Project Activities; Public Hearings; Review of Project and Consultations; Authorization of Appropriations; Report to Congress
 
 Pub. L. 107–66, title III, Nov. 12, 2001, 115 Stat. 503, provided in part: "That funding for the West Valley Demonstration Project shall be reduced in subsequent fiscal years to the minimum necessary to maintain the project in a safe and stable condition, unless, not later than September 30, 2002, the Secretary: (1) provides written notification to the Committees on Appropriations of the House of Representatives and the Senate that agreement has been reached with the State of New York on the final scope of Federal activities at the West Valley site and on the respective Federal and State cost shares for those activities; (2) submits a written copy of that agreement to the Committees on Appropriations of the House of Representatives and the Senate; and (3) provides a written certification that the Federal actions proposed in the agreement will be in full compliance with all relevant Federal statutes and are in the best interest of the Federal Government."
 
-Pub. L. 96–368, Oct. 1, 1980, 94 Stat. 1347, as amended by Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000, provided that:
+Pub. L. 96–368, Oct. 1, 1980, 94 Stat. 1347, as amended by Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 116–95, §1(a), Dec. 20, 2019, 133 Stat. 3249, provided that:
 
 "Section 1. This Act may be cited as the 'West Valley Demonstration Project Act'.
 
@@ -72,9 +72,9 @@ Pub. L. 96–368, Oct. 1, 1980, 94 Stat. 1347, as amended by Pub. L. 102–154, 
 
 &emsp;&emsp;"(D) Submission jointly by the Department of Energy and the State of New York of an application for a licensing amendment as soon as possible with the Nuclear Regulatory Commission providing for the demonstration.
 
-"(c) Within one year from the date of the enactment of this Act \[Oct. 1, 1980\], the Secretary shall enter into an agreement with the Commission to establish arrangements for review and consultation by the Commission with respect to the project: <i>Provided</i>, That review and consultation by the Commission pursuant to this subsection shall be conducted informally by the Commission and shall not include nor require formal procedures or actions by the Commission pursuant to the Atomic Energy Act of 1954, as amended \[this chapter\], the Energy Reorganization Act of 1974, as amended\[section 5801 et seq. of this title\], or any other law. The agreement shall provide for the following:
+"(c) Within one year from the date of the enactment of this Act \[Oct. 1, 1980\], the Secretary shall enter into an agreement with the Commission to establish arrangements for review and consultation by the Commission with respect to the project: <i>Provided</i>, That review and consultation by the Commission pursuant to this subsection shall be conducted informally by the Commission and shall not include nor require formal procedures or actions by the Commission pursuant to the Atomic Energy Act of 1954, as amended \[this chapter\], the Energy Reorganization Act of 1974, as amended \[section 5801 et seq. of this title\], or any other law. The agreement shall provide for the following:
 
-&emsp;"(1) The Secretary shall submit to the Commission, for its review and comment, a plan for the solidification of the high level radioactive waste at the Center, the removal of the waste for purposes of its solidification, the preparation of the waste for disposal, and the decontamination of the facilities to be used in solidifying the waste. In preparing its comments on the plan, the Commission shall specify with precision its objections to any provision of the plan. Upon submission of a plan to the Commission, the Secretary shall publish a notice in the Federal Register of the submission of the plan and of its availability for public inspection, and, upon receipt of the comments of the Commission respecting a plan, the Secretary shall publish a notice in the Federal Register of the receipt of the comments and of the availability of the comments for public inspection. If the Secretary does not revise the plan to meet objections specified in the comments of the Commission, the Secretary shall publish in the Federal Register a detailed statement for not so revising the plan.
+&emsp;"(1) The Secretary shall submit to the Commission, for its review and comment, a plan for the solidification of the high level radioactive waste at the Center, the removal of the waste for purposes of its solidification, the preparation of the waste for disposal, and the decontamination of the facilities to be used in solidifying the waste. In preparing its comments on the plan, the Commission shall specify with precision its objections to any provision of the plan. Upon submission of a plan to the Commission, the Secretary shall publish a notice in the Federal Register of the submission of the plan and of its availability for public inspection, and, upon receipt of the comments of the Commission respecting a plan, the Secretary shall publish a notice in the Federal Register of the receiptof the comments and of the availability of the comments for public inspection. If the Secretary does not revise the plan to meet objections specified in the comments of the Commission, the Secretary shall publish in the Federal Register a detailed statement for not so revising the plan.
 
 &emsp;"(2) The Secretary shall consult with the Commission with respect to the form in which the high level radioactive waste at the Center shall be solidified and the containers to be used in the permanent disposal of such waste.
 
@@ -84,7 +84,7 @@ Pub. L. 96–368, Oct. 1, 1980, 94 Stat. 1347, as amended by Pub. L. 102–154, 
 
 "(d) In carrying out the project, the Secretary shall consult with the Administrator of the Environmental Protection Agency, the Secretary of Transportation, the Director of the United States Geological Survey, and the commercial operator of the Center.
 
-"Sec. 3. (a) There are authorized to be appropriated to the Secretary for the project not more than $5,000,000 for the fiscal year ending September 30, 1981.
+"Sec. 3. (a) There are authorized to be appropriated to the Secretary for the project not more than $75,000,000 for each of fiscal years 2020 through 2026.
 
 "(b) The total amount obligated for the project by the Secretary shall be 90 per centum of the costs of the project.
 

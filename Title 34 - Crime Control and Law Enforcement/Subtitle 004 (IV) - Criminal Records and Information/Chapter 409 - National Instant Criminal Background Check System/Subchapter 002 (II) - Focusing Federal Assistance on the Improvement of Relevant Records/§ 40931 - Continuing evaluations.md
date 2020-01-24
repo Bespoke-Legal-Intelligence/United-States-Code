@@ -20,5 +20,5 @@ There are authorized to be appropriated such sums as may be necessary for each o
 
 #### Codification
 
-Section was formerly classified in a note under section 922 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
+Section was formerly classified in a note under section 922 of Title 18, Crimes and Criminal Procedure,prior to editorial reclassification and renumbering as this section.
 

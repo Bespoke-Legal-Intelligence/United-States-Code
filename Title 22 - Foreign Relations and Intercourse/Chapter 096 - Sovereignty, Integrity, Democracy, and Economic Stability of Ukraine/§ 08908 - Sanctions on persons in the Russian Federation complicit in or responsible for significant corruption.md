@@ -4,7 +4,7 @@
 
 The President shall impose the sanctions described in subsection (b) with respect to—
 
-&emsp;(1) any official of the Government of the Russian Federation, or a close associate or family member of such an official, that the President determines is, on or after August 2, 2017, responsible for, or complicit in, or responsible for ordering, controlling, or otherwise directing, acts of significant corruption in the Russian Federation or elsewhere, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; and
+&emsp;(1) any official of the Government of the Russian Federation, or a close associate or family member of such an official, that the President determines is, on or after August 2, 2017, responsible for, or complicit in, or responsible for ordering, controlling, or otherwise directing, acts of significant corruption in the Russian Federation or elsewhere, including the expropriation of private or public assets for personal gain, corruption related togovernment contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; and
 
 &emsp;(2) any individual who has materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, an act described in paragraph (1).
 
@@ -46,7 +46,7 @@ except <sup>2</sup> as provided in subsection (d), the President may waive the 
 
 &emsp;(1) determines that such a waiver is in the national security interests of the United States; and
 
-&emsp;(2) on or before the date on which the waiver takes effect, submits to the Committee on Foreign Relations and the Committee onBanking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives a notice of and a justification for the waiver.
+&emsp;(2) on or before the date on which the waiver takes effect, submits to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives a notice of and a justification for the waiver.
 
 #### (d) Termination
 

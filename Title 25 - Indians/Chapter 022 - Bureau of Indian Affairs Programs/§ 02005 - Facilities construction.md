@@ -112,7 +112,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 &emsp;In addition to the plan submitted under subsection (c), the Secretary shall—
 
-&emsp;&emsp;(A) not later than 18 months after January 8, 2002, establish a long-term construction and replacement list for all Bureau-funded schools;
+&emsp;&emsp;(A) not later than 18 months after January 8, 2002, establish a long-term constructionand replacement list for all Bureau-funded schools;
 
 &emsp;&emsp;(B) using the list prepared under subparagraph (A), propose a list for the orderly replacement of all Bureau-funded education-related facilities over a period of 40 years to enable planning and scheduling of budget requests;
 
@@ -182,7 +182,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (A) Classroom activities
 
-&emsp;&emsp;The Secretary shall permit the local school board to temporarily utilize facilities adjacent to the school, or satellite facilities, if such facilities are suitable for conducting classroom activities. In permitting the use of facilities under the preceding sentence, the Secretary may waive applicable minor standards under section 2001 of this title relating to such facilities (such as the required number of exit lights or configuration of restrooms) so long as such waivers do not result in the creation of an environment that constitutes an immediate and substantial threat to the health, safety, and life of students and staff.
+&emsp;&emsp;The Secretary shall permit the local school board to temporarily utilize facilitiesadjacent to the school, or satellite facilities, if such facilities are suitable for conducting classroom activities. In permitting the use of facilities under the preceding sentence, the Secretary may waive applicable minor standards under section 2001 of this title relating to such facilities (such as the required number of exit lights or configuration of restrooms) so long as such waivers do not result in the creation of an environment that constitutes an immediate and substantial threat to the health, safety, and life of students and staff.
 
 #### (B) Administrative activities
 
@@ -239,6 +239,8 @@ Another prior section 2005, Pub. L. 95–561, title XI, §1125, Nov. 1, 1978, 92
 #### Change of Name
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

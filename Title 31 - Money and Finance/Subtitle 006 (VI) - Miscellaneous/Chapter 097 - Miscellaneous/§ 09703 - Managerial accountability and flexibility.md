@@ -4,7 +4,7 @@
 
 (b) Any such proposal under subsection (a) shall describe the anticipated effects on performance resulting from greater managerial or organizational flexibility, discretion, and authority, and shall quantify the expected improvements in performance resulting from any waiver. The expected improvements shall be compared to current actual performance, and to the projected level of performance that would be achieved independent of any waiver.
 
-(c) Any proposal waiving limitations on compensation or remuneration shall precisely express the monetary change in compensation or remuneration amounts, such as bonuses or awards, that shall result from meeting, exceeding, or failing to meet performance goals.
+(c) Any proposal waiving limitations on compensation or remuneration shall precisely express the monetary change in compensation orremuneration amounts, such as bonuses or awards, that shall result from meeting, exceeding, or failing to meet performance goals.
 
 (d) Any proposed waiver of procedural requirements or controls imposed by an agency (other than the proposing agency or the Office of Management and Budget) may not be included in a performance plan unless it is endorsed by the agency that established the requirement, and the endorsement included in the proposing agency's performance plan.
 
@@ -26,7 +26,7 @@ Another section 9703 was renumbered section 9705 of this title.
 
 #### Construction
 
-No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit,or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under section 1101 of this title.
+No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under section 1101 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

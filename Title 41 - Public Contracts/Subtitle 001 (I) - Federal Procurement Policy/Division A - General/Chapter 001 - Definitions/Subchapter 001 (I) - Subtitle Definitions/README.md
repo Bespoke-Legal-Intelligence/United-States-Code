@@ -7,7 +7,7 @@
 
 - [&sect; 00101 - Administrator](%C2%A7%2000101%20-%20Administrator.md)
 - [&sect; 00102 - Commercial component](%C2%A7%2000102%20-%20Commercial%20component.md)
-- [&sect; 00103 - Commercial item](%C2%A7%2000103%20-%20Commercial%20item.md)
+- [&sect; 00103 - Commercial product](%C2%A7%2000103%20-%20Commercial%20product.md)
 - [&sect; 00103a - Commercial service](%C2%A7%2000103a%20-%20Commercial%20service.md)
 - [&sect; 00104 - Commercially available off-the-shelf item](%C2%A7%2000104%20-%20Commercially%20available%20off-the-shelf%20item.md)
 - [&sect; 00105 - Component](%C2%A7%2000105%20-%20Component.md)

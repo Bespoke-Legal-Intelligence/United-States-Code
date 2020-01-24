@@ -26,7 +26,7 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 #### (d) Temporary exemption for units to be retired
 
-(1) After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant an exemption under this subsection for the use of natural gas or petroleum, if he finds that the petitioner has demonstrated that such powerplant is to permanently cease operation at or before theexpiration of the exemption period. An exemption under this subsection is conditioned on the petitioner filing and maintaining a compliance plan meeting the requirements of section 8354(b) (other than paragraph (1)(B)) of this title.
+(1) After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant an exemption under this subsection for the use of natural gas or petroleum, if he finds that the petitioner has demonstrated that such powerplant is to permanently cease operation at or before the expiration of the exemption period. An exemption under this subsection is conditioned on the petitioner filing and maintaining a compliance plan meeting the requirements of section 8354(b) (other than paragraph (1)(B)) of this title.
 
 (2) Notwithstanding any other provision of this chapter, an exemption under this part may not be granted for any powerplant once an exemption under this subsection has been granted for such powerplant.
 
@@ -48,7 +48,7 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 (1) Except as provided in paragraphs (2) and (3), exemptions under this section for any powerplant may not exceed, taking into account any extension or renewal, 5 years.
 
-(2)(A) An exemption under subsection (a)(1) may be granted for a period of more than 5 years, but may not exceed, taking into account any extension or renewal, 10 years.
+(2)(A) An exemption under subsection (a)(1) may be granted for a period of more than 5years, but may not exceed, taking into account any extension or renewal, 10 years.
 
 (B) Subject to paragraph (3), an exemption under subsections (b), (c), and (g) may be extended beyond the 5-year limit under paragraph (1), but such exemption, so extended, may not exceed 10 years.
 

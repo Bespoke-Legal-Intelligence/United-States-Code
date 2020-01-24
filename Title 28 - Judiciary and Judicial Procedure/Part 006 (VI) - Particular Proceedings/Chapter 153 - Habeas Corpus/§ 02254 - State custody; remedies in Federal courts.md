@@ -88,7 +88,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 ### <b>RULES GOVERNING SECTION 2254 CASES IN THE UNITED STATES DISTRICT COURTS</b>
 
-#### (<i>Effective Feb. 1, 1977, as amended to Jan. 14, 2019)</i>
+#### (<i>Effective Feb. 1, 1977, as amended to Jan. 24, 2020)</i>
 
 Rule
 
@@ -436,9 +436,9 @@ Contents: Briefs on Appeal and Opinions. The respondent must also file with the 
 
 (e)
 
-Reply. The petitioner may submit a reply to the respondent's answer or other pleading within a time fixed by the judge.
+Reply. The petitioner may file a reply to the respondent's answer or other pleading. The judge must set the time to file unless the time is already set by local rule.
 
-> (As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
+> (As amended Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Advisory Committee Note
 
@@ -483,6 +483,14 @@ Finally, revised Rule 5(e) adopts the practice in some jurisdictions of giving t
 The Committee also deleted the reference to "affirmative defenses," because the Committee believed that the term was a misnomer in the context of habeas petitions. The Note was also changed to reflect that there has been a potential substantive change from the current rule, to the extent that the published rule now requires that the answer address procedural bars and any statute of limitations. The Note states that the Committee believes the new language reflects current law.
 
 The Note was modified to address the use of the term "traverse." One commentator noted that that is the term that is commonly used but that it does not appear in the rule itself.
+
+#### Committee Notes on Rules—2019 Amendment
+
+The petitioner has a right to file a reply. Subsection (e), added in 2004, removed the discretion of the court to determine whether or not to allow the petitioner to file a reply in a case under §2254. The current amendment was prompted by decisions holding that courts nevertheless retained the authority to bar a reply.
+
+As amended, the first sentence of subsection (e) makes it even clearer that the petitioner has a right to file a reply to the respondent's answer or pleading. It retains the word "may," which is used throughout the federal rules to mean "is permitted to" or "has a right to." No change in meaning is intended by the substitution of "file" for "submit."
+
+As amended, the second sentence of the rule retains the court's discretion to decide when the reply must be filed (but not whether it may be filed). To avoid uncertainty, the amended rule requires the court to set a time for filing if that time is not already set by local rule. Adding a reference to the time for the filing of any reply to the order requiring the government to file an answer or other pleading provides notice of that deadline to both parties.
 
 ### Rule 6. Discovery
 
@@ -538,11 +546,11 @@ This rule contains very little specificity as to what types and methods of disco
 
 Subdivision (b) provides for judicial consideration of all matters subject to discovery. A statement of the interrogatories, or requests for admission sought to be answered, and a list of any documents sought to be produced, must accompany a request for discovery. This is to advise the judge of the necessity for discovery and enable him to make certain that the inquiry is relevant and appropriately narrow.
 
-Subdivision (c) refers to the situation where the respondent is granted leave to take the deposition of the petitioner or any other person. In such a case the judge may direct the respondent to pay the expenses and fees of counsel for the petitioner to attend the taking of the deposition, as a condition granting the respondent such leave. While the judge is not required to impose this condition subdivision (c) will give the court the means to do so. Such a provision affords some protection to the indigent petitioner who may be prejudiced by his inability to have counsel, often court-appointed, present at the taking of a deposition. It is recognized that under 18 U.S.C. §3006A(g), court-appointed counsel in a §2254 proceeding is entitled to receive up to $250 and reimbursement for expenses reasonably incurred. (Compare Fed.R. Crim.P. 15(c).) Typically, however, this does not adequately reimburse counsel if he must attend the taking of depositions or be involved in other pre-hearing proceedings. Subdivision (c) is intended to provide additional funds, if necessary, to be paid by the state government (respondent) to petitioner's counsel.
+Subdivision (c) refers to the situation where the respondent is granted leave to take the deposition of the petitioner or any other person. In such a case the judge may direct the respondent to pay the expenses and fees of counsel for the petitioner to attend the taking of thedeposition, as a condition granting the respondent such leave. While the judge is not required to impose this condition subdivision (c) will give the court the means to do so. Such a provision affords some protection to the indigent petitioner who may be prejudiced by his inability to have counsel, often court-appointed, present at the taking of a deposition. It is recognized that under 18 U.S.C. §3006A(g), court-appointed counsel in a §2254 proceeding is entitled to receive up to $250 and reimbursement for expenses reasonably incurred. (Compare Fed.R. Crim.P. 15(c).) Typically, however, this does not adequately reimburse counsel if he must attend the taking of depositions or be involved in other pre-hearing proceedings. Subdivision (c) is intended to provide additional funds, if necessary, to be paid by the state government (respondent) to petitioner's counsel.
 
 Although the rule does not specifically so provide, it is assumed that a petitioner who qualifies for the appointment of counsel under 18 U.S.C. §3006A(g) and is granted leave to take a deposition will be allowed witness costs. This will include recording and transcription of the witness's statement. Such costs are payable pursuant to 28 U.S.C. §1825. See Opinion of Comptroller General, February 28, 1974.
 
-Subdivision (c) specifically recognizes the right of the respondent to take the deposition of the petitioner. Although the petitioner could not be called to testifyagainst his will in a criminal trial, it is felt the nature of the habeas proceeding, along with the safeguards accorded by the Fifth Amendment and the presence of counsel, justify this provision. See 83 Harv.L.Rev. 1038, 1183–84 (1970).
+Subdivision (c) specifically recognizes the right of the respondent to take the deposition of the petitioner. Although the petitioner could not be called to testify against his will in a criminal trial, it is felt the nature of the habeas proceeding, along with the safeguards accorded by the Fifth Amendment and the presence of counsel, justify this provision. See 83 Harv.L.Rev. 1038, 1183–84 (1970).
 
 #### Committee Notes on Rules—2004 Amendment
 
@@ -592,7 +600,7 @@ Under subdivision (d) the judge can require authentication if he believes it des
 
 The language of Rule 7 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended, except as noted below.
 
-Revised Rule 7(a) is not intended to restrict the court's authority to expand the record through means other than requiring the parties themselves to provide the information. Further, the rule has been changed to remove the reference to the "merits" of the petition in the recognition that a court may wish to expand the record in order to assist it in deciding an issue other than the merits of the petition.
+Revised Rule 7(a) is not intended to restrict the court's authority to expand the record through means other than requiring the parties themselves to provide the information. Further, the rule has been changed toremove the reference to the "merits" of the petition in the recognition that a court may wish to expand the record in order to assist it in deciding an issue other than the merits of the petition.
 
 The language in current Rule 7(d), which deals with authentication of materials in the expanded record, has been moved to revised Rule 7(a).
 
@@ -606,7 +614,7 @@ Determining Whether to Hold a Hearing. If the petition is not dismissed, the jud
 
 (b)
 
-Reference to a Magistrate Judge. A judge may, under 28 U.S.C. §636(b), refer the petition to a magistrate judge to conduct hearingsand to file proposed findings of fact and recommendations for disposition. When they are filed, the clerk must promptly serve copies of the proposed findings and recommendations on all parties. Within 14 days after being served, a party may file objections as provided by local court rule. The judge must determine de novo any proposed finding or recommendation to which objection is made. The judge may accept, reject, or modify any proposed finding or recommendation.
+Reference to a Magistrate Judge. A judge may, under 28 U.S.C. §636(b), refer the petition to a magistrate judge to conduct hearings and to file proposed findings of fact and recommendations for disposition. When they are filed, the clerk must promptly serve copies of the proposed findings and recommendations on all parties. Within 14 days after being served, a party may file objections as provided by local court rule. The judge must determine de novo any proposed finding or recommendation to which objection is made. The judge may accept, reject, or modify any proposed finding or recommendation.
 
 (c)
 
@@ -698,7 +706,7 @@ Pub. L. 94–577, §2(c), Oct. 21, 1976, 90 Stat. 2731, provided that: "The amen
 
 ### Rule 9. Second or Successive Petitions
 
-Before presenting a second or successive petition, the petitioner must obtain an order from the appropriate court of appeals authorizing the district court to consider the petition as required by 28 U.S.C. §2244(b)(3) and (4).
+Before presenting a second or successive petition, the petitioner must obtain an order fromthe appropriate court of appeals authorizing the district court to consider the petition as required by 28 U.S.C. §2244(b)(3) and (4).
 
 > (As amended Pub. L. 94–426, §2(7), (8), Sept. 28, 1976, 90 Stat. 1335; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
@@ -806,7 +814,7 @@ Finally, the title of Rule 9 has been changed to reflect the fact that the only 
 
 #### Amendments by Public Law
 
-<b>1976</b>—Subd. (a). Pub. L. 94–426, §2(7), struck out provision which established a rebuttable presumption ofprejudice to the state if the petition was filed more than five years after conviction and started the running of the five year period, where a petition challenged the validity of an action after conviction, from the time of the order of such action.
+<b>1976</b>—Subd. (a). Pub. L. 94–426, §2(7), struck out provision which established a rebuttable presumption of prejudice to the state if the petition was filed more than five years after conviction and started the running of the five year period, where a petition challenged the validity of an action after conviction, from the time of the order of such action.
 
 Subd. (b). Pub. L. 94–426, §2(8), substituted "constituted an abuse of the writ" for "is not excusable".
 

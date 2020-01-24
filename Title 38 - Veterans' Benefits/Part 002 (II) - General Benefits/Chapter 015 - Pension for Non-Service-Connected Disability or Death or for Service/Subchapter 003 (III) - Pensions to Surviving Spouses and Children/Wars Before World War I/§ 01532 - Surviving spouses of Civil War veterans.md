@@ -34,7 +34,7 @@ Subsec. (c). Pub. L. 102–83, §4(a)(1), substituted "administered by the Secre
 
 <b>1975</b>—Pub. L. 94–169, §106(23), substituted "Surviving spouses" for "Widows" in section catchline.
 
-Subsec. (a). Pub. L. 94–169, §106(20), substituted "pay to the surviving spouse" for "pay to the widow", "suchsurviving spouse" for "she" wherever appearing, "was the spouse" for "was the wife" and "such veteran's" for "his".
+Subsec. (a). Pub. L. 94–169, §106(20), substituted "pay to the surviving spouse" for "pay to the widow", "such surviving spouse" for "she" wherever appearing, "was the spouse" for "was the wife" and "such veteran's" for "his".
 
 Subsec. (b). Pub. L. 94–169, §106(21), substituted "surviving spouse" for "widow".
 

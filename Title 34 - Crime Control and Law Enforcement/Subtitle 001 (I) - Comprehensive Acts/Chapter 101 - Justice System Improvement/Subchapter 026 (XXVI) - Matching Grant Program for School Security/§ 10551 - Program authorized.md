@@ -20,7 +20,7 @@ Grants awarded under this section shall be distributed directly to the State, un
 
 &emsp;(3) The development and operation of—
 
-&emsp;&emsp;(A) school threat assessment and intervention teams that may include coordination with law enforcement agencies and school personnel; and
+&emsp;&emsp;(A) school threat assessment and intervention teams that may include coordinationwith law enforcement agencies and school personnel; and
 
 &emsp;&emsp;(B) specialized training for school officials in responding to mental health crises.
 

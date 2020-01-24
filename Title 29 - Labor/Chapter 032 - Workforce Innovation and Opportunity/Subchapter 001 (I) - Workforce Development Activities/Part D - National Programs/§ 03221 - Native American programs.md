@@ -92,7 +92,7 @@ Nothing in this section shall be construed—
 
 #### (A) Development of indicators and standards
 
-&emsp;&emsp;The Secretary, in consultation with the Native American Employment and Training Council, shall develop a set of performanceindicators and standards that is in addition to the primary indicators of performance described in section 3141(b)(2)(A) of this title and that shall be applicable to programs under this section.
+&emsp;&emsp;The Secretary, in consultation with the Native American Employment and Training Council, shall develop a set of performance indicators and standards that is in addition to the primary indicators of performance described in section 3141(b)(2)(A) of this title and that shall be applicable to programs under this section.
 
 #### (B) Special considerations
 
@@ -126,7 +126,7 @@ Nothing in this section shall be construed—
 
 #### (A) In general
 
-&emsp;&emsp;With respect to an entity described in subsection (c), the Secretary, notwithstanding any other provision of law, may, pursuant to a request submitted by such entity that meets the requirements established under subparagraph (B), waive any of the statutory or regulatory requirements of this subchapter that are inconsistent with the specific needs of the entity described in such subsection, except that the Secretary may not waive requirements relating to wage and labor standards, worker rights, participation and protection of workers and participants, grievance procedures, and judicial review.
+&emsp;&emsp;With respect to an entity described in subsection (c), the Secretary, notwithstanding any other provision of law, may, pursuant to a request submitted by such entity that meets the requirements established under subparagraph (B), waive any of the statutory or regulatory requirements of this subchapter that are inconsistent with the specific needs of the entity described in such subsection, except that the Secretary may not waive requirements relating to wage and labor standards, worker rights, participationand protection of workers and participants, grievance procedures, and judicial review.
 
 #### (B) Request and approval
 
@@ -212,7 +212,7 @@ Grants made and contracts and cooperative agreements entered into under this sec
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a)(2) and (b)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. Section 4 of the Act was classified to section 450b of Title 25 prior to editorial reclassification as section 5304 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-Section 1671 of this title, referred to in subsec. (d)(2)(B), was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
+Section 1671 of this title, referred to in subsec. (d)(2)(B), was repealed by Pub. L. 105–220, title I,§199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
 
 The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, which is classified generally to chapter 36 (§3401 et seq.) of Title 25, Indians. The Act was renamed the Indian Employment, Training and Related Services Act of 1992 by Pub. L. 115–93, §2, Dec. 18, 2017, 131 Stat. 2026. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 25 and Tables.
 

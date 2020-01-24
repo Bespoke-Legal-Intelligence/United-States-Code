@@ -130,7 +130,7 @@ If—
 
 &emsp;(3) more than 50 percent of the gross income of such affiliate for the 3-year period ending with the close of such affiliate's taxable year immediately preceding the year in which the sale occurred was derived from the active conduct of a trade or business in such foreign country,
 
-> any gain from such sale shall be sourced outside the United States. For purposes of paragraphs\(2) and (3), the United States resident may elect to treat an affiliate and all other corporations which are wholly owned (directly or indirectly) by the affiliate as one corporation.
+> any gain from such sale shall be sourced outside the United States. For purposes of paragraphs (2) and (3), the United States resident may elect to treat an affiliate and all other corporations which are wholly owned (directly or indirectly) by the affiliate as one corporation.
 
 #### (g) United States resident; nonresident
 
@@ -220,7 +220,7 @@ For purposes of this section—
 
 #### (4) Affiliate
 
-&emsp;The term "affiliate" means a member of the same affiliated group (within the meaning of section 1504(a) without regard to section 1504(b)).
+&emsp;The term "affiliate" means a member of the same affiliated group (within the meaning ofsection 1504(a) without regard to section 1504(b)).
 
 #### (5) Treatment of partnerships
 

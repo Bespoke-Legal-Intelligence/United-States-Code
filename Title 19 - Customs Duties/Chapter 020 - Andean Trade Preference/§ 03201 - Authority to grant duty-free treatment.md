@@ -38,7 +38,7 @@ Pub. L. 107–210, div. C, title XXXI, §3102, Aug. 6, 2002, 116 Stat. 1023, pro
 
 &emsp;"(3) Notwithstanding the success of the Andean Trade Preference Act, the Andean region remains threatened by political and economic instability and fragility, vulnerable to the consequences of the drug war and fierce global competition for its legitimate trade.
 
-&emsp;"(4) The continuing instability in the Andean region poses a threat to the security interests of the United States and the world. This problem has been partially addressed through foreign aid, such as Plan Colombia, enacted by Congress in 2000. However, foreign aid alone is not sufficient. Enhancement of legitimate trade with the United States provides an alternative means for reviving and stabilizing the economies in the Andean region.
+&emsp;"(4) The continuing instability in the Andean region poses a threat to the security interests of the United States and the world. This problem has beenpartially addressed through foreign aid, such as Plan Colombia, enacted by Congress in 2000. However, foreign aid alone is not sufficient. Enhancement of legitimate trade with the United States provides an alternative means for reviving and stabilizing the economies in the Andean region.
 
 &emsp;"(5) The Andean Trade Preference Act constitutes a tangible commitment by the United States to the promotion of prosperity, stability, and democracy in the beneficiary countries.
 

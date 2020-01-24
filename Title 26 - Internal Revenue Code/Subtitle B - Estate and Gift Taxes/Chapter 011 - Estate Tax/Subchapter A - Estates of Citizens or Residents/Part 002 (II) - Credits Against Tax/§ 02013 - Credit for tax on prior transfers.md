@@ -14,7 +14,7 @@ The tax imposed by section 2001 shall be credited with all or a part of the amou
 
 #### (b) Computation of credit
 
-Subject to the limitation prescribed in subsection (c), the credit provided by this section shall be an amount which bears the same ratio to the estate tax paid (adjusted as indicated hereinafter) with respect to the estate of the transferor as the value of the property transferred bears to the taxable estate of the transferor (determined for purposes of the estate tax) decreased by any death taxes paid with respect to such estate. For purposes of the preceding sentence, the estate tax paid shall be the Federal estate tax paid increased by any credits allowed against such estate tax under section 2012, or corresponding provisions of prior laws, on account of gift tax, and for any credits allowed against such estate tax under this section on account of prior transfers where the transferor acquired property from a person who died within 10 years before the death of the decedent.
+Subject to the limitation prescribed in subsection (c), the credit provided by this section shall be an amount which bears the same ratio to the estate tax paid (adjusted as indicated hereinafter) with respect to the estate of the transferor as the value of the property transferred bears to the taxable estate of the transferor (determined for purposes of the estate tax) decreased by any death taxes paid with respect to such estate. For purposes of the preceding sentence, the estate tax paid shall be the Federal estate tax paid increased by any credits allowed against such estate tax under section 2012, or corresponding provisions of prior laws, on account of gift tax, and for any credits allowedagainst such estate tax under this section on account of prior transfers where the transferor acquired property from a person who died within 10 years before the death of the decedent.
 
 #### (c) Limitation on credit
 
@@ -54,7 +54,7 @@ If section 2032A applies to any property included in the gross estate of the tra
 
 &emsp;(2) the value of such property and the amount of the taxable estate of the transferor shall be determined as if section 2032A did not apply with respect to such property.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 377; Pub. L. 94–455, title XIX, §1902(a)(2), title XX, §§2001(c)(1)(C), 2003(c), 2006(b)(2), Oct. 4, 1976, 90 Stat. 1804, 1850, 1862, 1888; Pub. L. 99–514, titleXIV, §1432(c)(2), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 100–647, title I, §1011A(g)(7), Nov. 10, 1988, 102 Stat. 3481; Pub. L. 105–34, title X, §1073(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title V, §532(c)(2), June 7, 2001, 115 Stat. 74.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 377; Pub. L. 94–455, title XIX, §1902(a)(2), title XX, §§2001(c)(1)(C), 2003(c), 2006(b)(2), Oct. 4, 1976, 90 Stat. 1804, 1850, 1862, 1888; Pub. L. 99–514, title XIV, §1432(c)(2), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 100–647, title I, §1011A(g)(7), Nov. 10, 1988, 102 Stat. 3481; Pub. L. 105–34, title X, §1073(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title V, §532(c)(2), June 7, 2001, 115 Stat. 74.)
 
 #### Amendments
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 105–34 applicable to estates of decedents dying after Dec
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

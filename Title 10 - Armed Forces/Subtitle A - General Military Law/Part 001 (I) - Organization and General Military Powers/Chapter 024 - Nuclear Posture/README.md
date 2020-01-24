@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [491\.](%C2%A7%2000491%20-%20Nuclear%20weapons%20employment%20strategy%20of%20the%20United%20States%20reports%20on%20modification%20of%20strategy.md) | Nuclear weapons employment strategy of the United States: reports on modification of strategy. |
 | [492\.](%C2%A7%2000492%20-%20Biennial%20assessment%20and%20report%20on%20the%20delivery%20platforms%20for%20nuclear%20weapons%20and%20the%20nuclear%20command%20and%20control%20system.md) | Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system. |
+| [492a.](%C2%A7%2000492a%20-%20Annual%20report%20on%20the%20plan%20for%20the%20nuclear%20weapons%20stockpile%2C%20nuclear%20weapons%20complex%2C%20nuclear%20weapons%20delivery%20systems%2C%20and%20nuclear%E2%80%A6.md) | Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system. |
 | [493\.](%C2%A7%2000493%20-%20Reports%20to%20Congress%20on%20the%20modification%20of%20the%20force%20structure%20for%20the%20strategic%20nuclear%20weapons%20delivery%20systems%20of%20the%20United%20States.md) | Reports to Congress on the modification of the force structure for the strategic nuclear weapons delivery systems of the United States. |
 | [494\.](%C2%A7%2000494%20-%20Nuclear%20force%20reductions.md) | Nuclear force reductions. |
 | [495\.](%C2%A7%2000495%20-%20Strategic%20delivery%20systems.md) | Strategic delivery systems. |
@@ -18,6 +19,8 @@
 
 #### Amendments
 
+<b>2019</b>—Pub. L. 116–92, div. A, title XVI, §1665(c)(2), Dec. 20, 2019, 133 Stat. 1774, added item 492a.
+
 <b>2017</b>—Pub. L. 115–91, div. A, title XVI, §§1651(b), 1652(b), Dec. 12, 2017, 131 Stat. 1757, 1758, added items 499 and 499a.
 
 <b>2013</b>—Pub. L. 113–66, div. A, title X, §1051(b)(2), Dec. 26, 2013, 127 Stat. 859, added item 497a.
@@ -31,6 +34,7 @@ Pub. L. 112–239, div. A, title X, §§1031(b)(1), (3)(C)(i), 1033(b)(2)(A), 10
 
 - [&sect; 00491 - Nuclear weapons employment strategy of the United States reports on modification of strategy](%C2%A7%2000491%20-%20Nuclear%20weapons%20employment%20strategy%20of%20the%20United%20States%20reports%20on%20modification%20of%20strategy.md)
 - [&sect; 00492 - Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system](%C2%A7%2000492%20-%20Biennial%20assessment%20and%20report%20on%20the%20delivery%20platforms%20for%20nuclear%20weapons%20and%20the%20nuclear%20command%20and%20control%20system.md)
+- [&sect; 00492a - Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear&#8230;](%C2%A7%2000492a%20-%20Annual%20report%20on%20the%20plan%20for%20the%20nuclear%20weapons%20stockpile%2C%20nuclear%20weapons%20complex%2C%20nuclear%20weapons%20delivery%20systems%2C%20and%20nuclear%E2%80%A6.md)
 - [&sect; 00493 - Reports to Congress on the modification of the force structure for the strategic nuclear weapons delivery systems of the United States](%C2%A7%2000493%20-%20Reports%20to%20Congress%20on%20the%20modification%20of%20the%20force%20structure%20for%20the%20strategic%20nuclear%20weapons%20delivery%20systems%20of%20the%20United%20States.md)
 - [&sect; 00494 - Nuclear force reductions](%C2%A7%2000494%20-%20Nuclear%20force%20reductions.md)
 - [&sect; 00495 - Strategic delivery systems](%C2%A7%2000495%20-%20Strategic%20delivery%20systems.md)

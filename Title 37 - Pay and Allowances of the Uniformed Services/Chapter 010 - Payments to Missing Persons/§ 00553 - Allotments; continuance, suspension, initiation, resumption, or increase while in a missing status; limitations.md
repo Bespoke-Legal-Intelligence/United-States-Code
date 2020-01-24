@@ -1,6 +1,6 @@
 ### §553. Allotments; continuance, suspension, initiation, resumption, or increase while in a missing status; limitations
 
-(a) Notwithstanding the end of the period for which it was made, an allotment, including one for the purchase of United States savings bonds, made by a member of a uniformed service before he was in a missing status may be continued for the period he is entitled to pay and allowances under section 552 of this title.
+(a) Notwithstanding the end of the period for which it was made, an allotment, including onefor the purchase of United States savings bonds, made by a member of a uniformed service before he was in a missing status may be continued for the period he is entitled to pay and allowances under section 552 of this title.
 
 (b) When there is no allotment in effect, or when it is insufficient for a purpose authorized by the Secretary concerned, he, or his designee, may authorize new allotments or increases in allotments that are warranted by the circumstances and payable for the period the member is entitled to pay and allowances under section 552 of this title.
 
@@ -92,7 +92,7 @@ Only that portion of the source law which is applicable to members of the unifor
 
 In subsection (a), the words "a member of a uniformed service . . . in a missing status . . . he . . . under section 552 of this title" are substituted for "any person . . . under section 2 of this Act . . . his absence", for clarity and to conform to the definition in revised section 551(2) of this chapter. The words "except as otherwise herein provided" are omitted as unnecessary.
 
-In subsection (b), the words "Secretary concerned, he, or his designee," are substituted for "head of the department concerned . . . head of the department concerned, or such subordinate as he may designate" to conform to the definition in 37 U.S.C. 101(5). The word"member" is substituted for "person" to conform to the definition in 37 U.S.C. 101(23).
+In subsection (b), the words "Secretary concerned, he, or his designee," are substituted for "head of the department concerned . . . head of the department concerned, or such subordinate as he may designate" to conform to the definition in 37 U.S.C. 101(5). The word "member" is substituted for "person" to conform to the definition in 37 U.S.C. 101(23).
 
 In subsection (c), the words "in effect" are omitted as unnecessary. The words "member in a missing status" are substituted for "absent person" to conform to the definition in revised section 551(2) of this chapter.
 

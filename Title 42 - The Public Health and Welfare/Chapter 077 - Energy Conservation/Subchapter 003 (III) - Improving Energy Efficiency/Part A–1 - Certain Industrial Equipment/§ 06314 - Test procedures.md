@@ -20,7 +20,7 @@ Amendment.—At least once every 7 years, the Secretary shall conduct an evaluat
 
 (4)(A) With respect to small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks to which standards are applicable under section 6313 of this title, the test procedures shall be those generally accepted industry testing procedures or rating procedures developed or recognized by the Air-Conditioning, Heating, and Refrigeration Institute or by the American Society of Heating, Refrigerating and Air Conditioning Engineers, as referenced in ASHRAE/IES Standard 90.1 and in effect on June 30, 1992.
 
-(B) If such an industry test procedure or rating procedure for small commercial package airconditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks is amended, the Secretary shall amend the test procedure for the product as necessary to be consistent with the amended industry test procedure or rating procedure unless the Secretary determines, by rule, published in the Federal Register and supported by clear and convincing evidence, that to do so would not meet the requirements for test procedures described in paragraphs (2) and (3) of this subsection.
+(B) If such an industry test procedure or rating procedure for small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks is amended, the Secretary shall amend the test procedure for the product as necessary to be consistent with the amended industry test procedure or rating procedure unless the Secretary determines, by rule, published in the FederalRegister and supported by clear and convincing evidence, that to do so would not meet the requirements for test procedures described in paragraphs (2) and (3) of this subsection.
 
 (C) If the Secretary prescribes a rule containing such a determination, the rule may establish an amended test procedure for such product that meets the requirements of paragraphs (2) and (3) of this subsection. In establishing any amended test procedure under this subparagraph or subparagraph (B), the Secretary shall follow the procedures and meet the requirements specified in section 6293(e) of this title.
 
@@ -62,7 +62,7 @@ Amendment.—At least once every 7 years, the Secretary shall conduct an evaluat
 
 (7)(A) In the case of automatic commercial ice makers, the test procedures shall be the test procedures specified in Air-Conditioning, Heating, and Refrigeration Institute Standard 810–2003, as in effect on January 1, 2005.
 
-(B)(i) If Air-Conditioning, Heating, and Refrigeration Institute Standard 810–2003 is amended, the Secretary shall amend the test procedures established in subparagraph (A) as necessary to be consistent with the amended Air-Conditioning, Heating, and Refrigeration Institute Standard, unless the Secretary determines, by rule, published in the Federal Register and supported by clear and convincing evidence, that todo so would not meet the requirements for test procedures under paragraphs (2) and (3).
+(B)(i) If Air-Conditioning, Heating, and Refrigeration Institute Standard 810–2003 is amended, the Secretary shall amend the test procedures established in subparagraph (A) as necessary to be consistent with the amended Air-Conditioning, Heating, and Refrigeration Institute Standard, unless the Secretary determines, by rule, published in the Federal Register and supported by clear and convincing evidence, that to do so would not meet the requirements for test procedures under paragraphs (2) and (3).
 
 (ii) If the Secretary issues a rule under clause (i) containing a determination described in clause (ii), the rule may establish an amended test procedure for the product that meets the requirements of paragraphs (2) and (3).
 
@@ -138,7 +138,7 @@ Section 6313(c)(4) of this title, referred to in subsec. (a)(6)(C), was redesign
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–210, §10(a)(2), made technical amendment to directory language of Pub. L. 110–140, §302(b). See 2007 Amendment note below.
 
-Subsec. (a)(4)(A), (7). Pub. L. 112–210, §10(c)(2), substituted "Air-Conditioning, Heating, and RefrigerationInstitute" for "Air-Conditioning and Refrigeration Institute" wherever appearing.
+Subsec. (a)(4)(A), (7). Pub. L. 112–210, §10(c)(2), substituted "Air-Conditioning, Heating, and Refrigeration Institute" for "Air-Conditioning and Refrigeration Institute" wherever appearing.
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–140, §302(b), as amended by Pub. L. 112–210, §10(a)(2), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: "The Secretary may conduct an evaluation of a class of covered equipment and may prescribe test procedures for such class in accordance with the provisions of this section."
 
@@ -148,7 +148,7 @@ Subsec. (a)(9). Pub. L. 110–140, §312(c), added par. (9).
 
 Subsec. (a)(6) to (8). Pub. L. 109–58, §136(f)(1)(B), added pars. (6) to (8).
 
-Subsec. (d)(1). Pub. L. 109–58, §136(f)(2), inserted "very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers," after "large commercial package air conditioning and heating equipment," in introductory provisions.
+Subsec. (d)(1). Pub. L. 109–58, §136(f)(2), inserted "very large commercial package air conditioning and heatingequipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers," after "large commercial package air conditioning and heating equipment," in introductory provisions.
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §122(b)(1)(A), added par. (1) and struck out former par. (1) which read as follows: "If the Secretary has conducted an evaluation of a class of covered equipment under section 6313 of this title, he may prescribe test procedures for such class in accordance with the following provisions of this section."
 

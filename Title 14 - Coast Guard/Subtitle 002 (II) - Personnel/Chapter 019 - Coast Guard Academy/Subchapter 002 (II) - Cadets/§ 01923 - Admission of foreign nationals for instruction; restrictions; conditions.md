@@ -28,7 +28,7 @@ Subsec. (d). Pub. L. 112–213, §204(1), substituted "foreign national" for "pe
 
 Subsec. (a). Pub. L. 94–468 substituted provision barring foreign nationals from receiving instruction at the Academy unless authorized by this section, for provision which authorized the Secretary to permit four persons at a time from the Republic of the Philippines, as designated by the President, to attend the Academy.
 
-Subsec. (b). Pub. L. 94–468 substituted provision authorizing the President to designate not more than thirty-six foreign nationals whom the Secretary may permit to attend the Academy, for provision which authorized foreign nationals to receive the same pay and allowances as cadets at the Academy.
+Subsec. (b). Pub. L. 94–468 substituted provision authorizing the President to designate not more thanthirty-six foreign nationals whom the Secretary may permit to attend the Academy, for provision which authorized foreign nationals to receive the same pay and allowances as cadets at the Academy.
 
 Subsec. (c). Pub. L. 94–468 substituted provision authorizing a foreign national to receive the same pay and allowances as a cadet providing his country agree in advance to reimburse the United States and directing the Secretary to credit any funds so received to the appropriations for pay and allowances, for provision which required that foreign nationals be subject to the same rules and regulations as cadets.
 

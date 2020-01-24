@@ -32,7 +32,7 @@ Section was enacted as part of the Agriculture Improvement Act of 2018, and not 
 
 #### Definition of "Secretary"
 
-"Secretary" as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under section 9001 of Title 7, Agriculture.
+"Secretary" means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under section 9001 of Title 7, Agriculture.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

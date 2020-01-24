@@ -180,7 +180,7 @@ Pub. L. 108–487, title VIII, §801, Dec. 23, 2004, 118 Stat. 3962, provided th
 
 Pub. L. 108–458, title VII, §7102(d)(4), Dec. 17, 2004, 118 Stat. 3778, provided that: "The amendments made by this subsection \[amending this section\] apply with respect to the report required to be transmitted under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f), by April 30, 2006, and by April 30 of each subsequent year."
 
-Amendment by Pub. L. 108–458 effective Dec. 17, 2004, notwithstanding any other provision of such Act, seesection 7122 of Pub. L. 108–458, set out as a note under section 112a of Title 1, General Provisions.
+Amendment by Pub. L. 108–458 effective Dec. 17, 2004, notwithstanding any other provision of such Act, see section 7122 of Pub. L. 108–458, set out as a note under section 112a of Title 1, General Provisions.
 
 #### Terrorist Sanctuaries
 

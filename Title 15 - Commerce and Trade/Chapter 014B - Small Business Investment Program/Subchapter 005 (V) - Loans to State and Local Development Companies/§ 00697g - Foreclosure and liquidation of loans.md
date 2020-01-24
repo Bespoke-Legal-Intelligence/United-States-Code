@@ -26,7 +26,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 &emsp;&emsp;&emsp;&emsp;(II) who have completed a training program on loan liquidation developed by the Administration in conjunction with qualified State and local development companies that meet the requirements of this paragraph; or
 
-&emsp;&emsp;&emsp;(ii) submits to the Administration documentation demonstrating that the company has contracted with a qualified third-party to perform any liquidation activities and secures the approval of the contract by the Administration with respect to the qualifications of the contractor and theterms and conditions of liquidation activities.
+&emsp;&emsp;&emsp;(ii) submits to the Administration documentation demonstrating that the company has contracted with a qualified third-party to perform any liquidation activities and secures the approval of the contract by the Administration with respect to the qualifications of the contractor and the terms and conditions of liquidation activities.
 
 #### (2) Confirmation
 
@@ -38,7 +38,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 &emsp;Each qualified State or local development company to which the Administration delegates authority under section <sup>1</sup> (a) may with respect to any loan described in subsection (a)—
 
-&emsp;&emsp;(A) perform all liquidation and foreclosure functions, including the purchase in accordance with this subsection of any other indebtedness secured by the property securing the loan, in a reasonable and sound manner according to commercially accepted practices, pursuant to a liquidation plan approved in advance by the Administration under paragraph (2)(A);
+&emsp;&emsp;(A) perform all liquidation and foreclosure functions, including the purchase in accordance with this subsection of any other indebtedness secured by the property securingthe loan, in a reasonable and sound manner according to commercially accepted practices, pursuant to a liquidation plan approved in advance by the Administration under paragraph (2)(A);
 
 &emsp;&emsp;(B) litigate any matter relating to the performance of the functions described in subparagraph (A), except that the Administration may—
 
@@ -190,7 +190,7 @@ Pub. L. 106–554, §1(a)(9) \[title III, §307(b)\], Dec. 21, 2000, 114 Stat. 2
 
 "(1)
 
-In general.—Not later than 150 days after the date of the enactment of this Act \[Dec. 21, 2000\], the Administrator shall issue such regulations as may be necessary to carry out section 510 of the Small BusinessInvestment Act of 1958 \[15 U.S.C. 697g\], as added by subsection (a) of this section.
+In general.—Not later than 150 days after the date of the enactment of this Act \[Dec. 21, 2000\], the Administrator shall issue such regulations as may be necessary to carry out section 510 of the Small Business Investment Act of 1958 \[15 U.S.C. 697g\], as added by subsection (a) of this section.
 
 "(2)
 

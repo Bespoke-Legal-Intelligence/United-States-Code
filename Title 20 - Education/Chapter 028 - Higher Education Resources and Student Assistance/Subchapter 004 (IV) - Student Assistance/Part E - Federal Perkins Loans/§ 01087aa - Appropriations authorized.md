@@ -28,7 +28,7 @@ The Secretary shall carry out a program assisting in the maintenance of funds at
 
 &emsp;No funds are authorized to be appropriated under this chapter or any other Act to carry out the functions described in paragraph (1) for any fiscal year following fiscal year 2015.
 
-(Pub. L. 89–329, title IV, §461, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat.1439; amended Pub. L. 102–325, title IV, §461(a)(2)–(c), July 23, 1992, 106 Stat. 576; Pub. L. 105–244, title IV, §461, Oct. 7, 1998, 112 Stat. 1720; Pub. L. 110–315, title IV, §461, Aug. 14, 2008, 122 Stat. 3265; Pub. L. 114–105, §2(a)(1), Dec. 18, 2015, 129 Stat. 2219.)
+(Pub. L. 89–329, title IV, §461, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §461(a)(2)–(c), July 23, 1992, 106 Stat. 576; Pub. L. 105–244, title IV, §461, Oct. 7, 1998, 112 Stat. 1720; Pub. L. 110–315, title IV, §461, Aug. 14, 2008, 122 Stat. 3265; Pub. L. 114–105, §2(a)(1), Dec. 18, 2015, 129 Stat. 2219.)
 
 #### Prior Provisions
 

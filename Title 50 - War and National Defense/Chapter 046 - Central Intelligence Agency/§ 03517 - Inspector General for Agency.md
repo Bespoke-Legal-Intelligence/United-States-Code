@@ -90,7 +90,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (4) Pursuant to Title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\], the Director shall submit to the intelligence committees any report or findings and recommendations of an inspection, investigation, or audit conducted by the office which has been requested by the Chairman or Ranking Minority Member of either committee.
 
-(5)(A) An employee of the Agency, or of a contractor to the Agency, who intends to report to Congress a complaint or information with respect to an urgent concern may report suchcomplaint or information to the Inspector General.
+(5)(A) An employee of the Agency, or of a contractor to the Agency, who intends to report to Congress a complaint or information with respect to an urgent concern may report such complaint or information to the Inspector General.
 
 (B)(i) Not later than the end of the 14-calendar day period beginning on the date of receipt from an employee of a complaint or information under subparagraph (A), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information.
 
@@ -158,7 +158,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(ii) all other personnel decisions concerning personnel permanently assigned to the Office of Inspector General, including selection and appointment to the Senior Intelligence Service, but excluding all security-based determinations that are not within the authority of a head of other Central Intelligence Agency offices.
 
-(C)(i) The Inspector General may designate an officer or employee appointed in accordance with subparagraph (A) as a law enforcement officer solely for purposes of subchapter III of chapter 83 or chapter 84 of title 5 if such officer or employee is appointed to a position with responsibility for investigating suspected offenses against the criminal laws of the United States.
+(C)(i) The Inspector General may designate an officer or employee appointed in accordancewith subparagraph (A) as a law enforcement officer solely for purposes of subchapter III of chapter 83 or chapter 84 of title 5 if such officer or employee is appointed to a position with responsibility for investigating suspected offenses against the criminal laws of the United States.
 
 (ii) In carrying out clause (i), the Inspector General shall ensure that any authority under such clause is exercised in a manner consistent with section 3307 of title 5 as it relates to law enforcement officers.
 

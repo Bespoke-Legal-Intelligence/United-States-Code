@@ -22,7 +22,7 @@ Except as provided in section 2353 of this title and as otherwise provided in th
 
 &emsp;&emsp;(A) reflect any change in school district boundaries that may have occurred since the data were collected; and
 
-&emsp;&emsp;(B) include local educational agencies without geographical boundaries, such as charter schools and secondary schools funded by the Bureau of Indian Affairs.
+&emsp;&emsp;(B) include local educational agencies without geographical boundaries, such as charter schools and secondary schools funded by the Bureau of Indian Education.
 
 #### (b) Waiver for more equitable distribution
 
@@ -44,7 +44,7 @@ The Secretary may waive the application of subsection (a) in the case of any eli
 
 &emsp;&emsp;(A)(i) is located in a rural, sparsely populated area; or
 
-&emsp;&emsp;(ii) is a public charter school operating secondary school career and technical education programs; and
+&emsp;&emsp;(ii) is a public charter school operating secondary school career and technical education programs or programs of study; and
 
 &emsp;&emsp;(B) demonstrates that the local educational agency is unable to enter into a consortium for purposes of providing activities under this part.
 
@@ -78,7 +78,7 @@ The Secretary may waive the application of subsection (a) in the case of any eli
 
 #### (3) Appeals procedure
 
-&emsp;The eligible agency shall establish an appeals procedure for resolution of any dispute arising between a local educational agency and an area career and technical education school or an educational service agency with respect to the allocation procedures described in this section, including the decision of a local educational agency to leave a consortium or terminate a cooperative arrangement.
+&emsp;The eligible agency shall establish an appeals procedure for resolution of any disputearising between a local educational agency and an area career and technical education school or an educational service agency with respect to the allocation procedures described in this section, including the decision of a local educational agency to leave a consortium or terminate a cooperative arrangement.
 
 #### (f) Consortium requirements
 
@@ -98,27 +98,13 @@ The Secretary may waive the application of subsection (a) in the case of any eli
 
 #### (g) Data
 
-The Secretary shall collect information from eligible agencies regarding the specific dollar allocations made available by the eligible agency for career and technical education programs under subsections (a), (b), (c), (d), and (e) and how these allocations are distributed to local educational agencies, area career and technical education schools, and educational service agencies, within the State in accordance with this section.
+The Secretary shall collect information from eligible agencies regarding the specific dollar allocations made available by the eligible agency for career and technical education programs and programs of study under subsections (a), (b), (c), (d), and (e) and how these allocations are distributed to local educational agencies, area career and technical education schools, and educational service agencies, within the State in accordance with this section.
 
 #### (h) Special rule
 
-Each eligible agency distributing funds under this section shall treat a secondary school funded by the Bureau of Indian Affairs within the State as if such school were a local educational agency within the State for the purpose of receiving a distribution under this section.
+Each eligible agency distributing funds under this section shall treat a secondary school funded by the Bureau of Indian Education within the State as if such school were a local educational agency within the State for the purpose of receiving a distribution under this section.
 
 (Pub. L. 88–210, title I, §131, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 727; amended Pub. L. 115–224, title I, §131, July 31, 2018, 132 Stat. 1612.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–224, §4, title I, §131, July 31, 2018, 132 Stat. 1564, 1612, provided that, effective July 1, 2019, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(3)(B), by striking "Bureau of Indian Affairs" and inserting "Bureau of Indian Education";</i>
-
-<i>(2) in subsection (c)(2)(A)(ii), by inserting "or programs of study" after "technical education programs";</i>
-
-<i>(3) in subsection (g), by inserting "and programs of study" after "technical education programs"; and</i>
-
-<i>(4) in subsection (h), by striking "Bureau of Indian Affairs" and inserting "Bureau of Indian Education".</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 #### References in Text
 

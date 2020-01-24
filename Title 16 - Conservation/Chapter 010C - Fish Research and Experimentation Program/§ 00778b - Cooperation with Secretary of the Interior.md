@@ -6,5 +6,5 @@ The Secretary of the Interior is authorized to cooperate in carrying out the pro
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–127 substituted "the Secretary of the Interior" for "The Department of Agriculture" and "requested by the Secretary of Agriculture" for "requested by the Secretary of the Interior".
+<b>1996</b>—Pub. L. 104–127 substituted "the Secretary of the Interior" for "The Department of Agriculture" and"requested by the Secretary of Agriculture" for "requested by the Secretary of the Interior".
 

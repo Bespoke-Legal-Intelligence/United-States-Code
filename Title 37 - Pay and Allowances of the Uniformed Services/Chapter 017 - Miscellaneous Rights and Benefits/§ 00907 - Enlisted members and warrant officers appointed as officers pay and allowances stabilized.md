@@ -110,7 +110,7 @@ Subsec. (d). Pub. L. 109–163, §686(a), amended subsec. (d) generally. Prior t
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title VI, §686(c), Jan. 6, 2006, 119 Stat. 3326, provided that: "Subsection (d) of section 907 of title 37, United States Code, as amended by subsection (a), shall apply with respect to any acceptance by an enlisted member of the Armed Forces of an appointment as an officer made on or after the date of the enactment of this Act \[Jan. 6, 2006\]."
+Pub. L. 109–163, div. A, title VI, §686(c), Jan. 6, 2006, 119 Stat. 3326, provided that: "Subsection (d) of section907 of title 37, United States Code, as amended by subsection (a), shall apply with respect to any acceptance by an enlisted member of the Armed Forces of an appointment as an officer made on or after the date of the enactment of this Act \[Jan. 6, 2006\]."
 
 #### Effective Date of 1980 Amendment
 

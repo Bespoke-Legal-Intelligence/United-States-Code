@@ -16,7 +16,7 @@
 
 #### (3) Determination for statutory procedure States
 
-&emsp;For each State that employs a statutory procedure described in section 60301(e)(1)(C) of this title, the Inspector General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, not later than the end of the first fiscal year for which such State receives funds, a determination as to whether the State is in substantial compliance with the requirements of the applicable State statute.
+&emsp;For each State that employs a statutory procedure described in section 60301(e)(1)(C) ofthis title, the Inspector General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, not later than the end of the first fiscal year for which such State receives funds, a determination as to whether the State is in substantial compliance with the requirements of the applicable State statute.
 
 #### (4) Comments from public
 
@@ -34,7 +34,7 @@
 
 #### (3) Report to Congress
 
-&emsp;Not later than 90 days after the earlier of the implementation of a corrective action planor the issuance of guidance under paragraph (2), the Attorney General shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate as to whether the State has taken corrective action and is in compliance with the terms and conditions of the grant.
+&emsp;Not later than 90 days after the earlier of the implementation of a corrective action plan or the issuance of guidance under paragraph (2), the Attorney General shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate as to whether the State has taken corrective action and is in compliance with the terms and conditions of the grant.
 
 #### (c) Penalties for noncompliance
 

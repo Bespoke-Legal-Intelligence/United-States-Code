@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 (e) The term "poultry" means any domesticated bird, whether live or dead.
 
-(f) The term "poultry product" means any poultry carcass, or part thereof; or any product which is made wholly or in part from any poultry carcass or part thereof, excepting products which contain poultry ingredients only in a relatively small proportion or historically have not been considered by consumers as products of the poultry food industry, and which are exempted by the Secretary from definition as a poultry product under such conditions as the Secretary may prescribe to assure that the poultry ingredients in such products are not adulterated andthat such products are not represented as poultry products.
+(f) The term "poultry product" means any poultry carcass, or part thereof; or any product which is made wholly or in part from any poultry carcass or part thereof, excepting products which contain poultry ingredients only in a relatively small proportion or historically have not been considered by consumers as products of the poultry food industry, and which are exempted by the Secretary from definition as a poultry product under such conditions as the Secretary may prescribe to assure that the poultry ingredients in such products are not adulterated and that such products are not represented as poultry products.
 
 (g) The term "adulterated" shall apply to any poultry product under one or more of the following circumstances:
 
@@ -52,13 +52,13 @@ For purposes of this chapter—
 
 &emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
-&emsp;(7) if it purports to be or is represented as a food for which a definition and standard of identity or composition has been prescribed by regulations of the Secretary under section 457 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definition and standard and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
+&emsp;(7) if it purports to be or is represented as a food for which a definition and standard ofidentity or composition has been prescribed by regulations of the Secretary under section 457 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definition and standard and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
 
 &emsp;(8) if it purports to be or is represented as a food for which a standard or standards of fill of container have been prescribed by regulations of the Secretary under section 457 of this title, and it falls below the standard of fill of container applicable thereto, unless its label bears, in such manner and form as such regulations specify, a statement that it falls below such standard;
 
 &emsp;(9) if it is not subject to the provisions of subparagraph (7), unless its label bears (A) the common or usual name of the food, if any there be, and (B) in case it is fabricated from two or more ingredients, the common or usual name of each such ingredient; except that spices, flavorings, and colorings may, when authorized by the Secretary, be designated as spices, flavorings, and colorings without naming each: <i>Provided</i>, That to the extent that compliance with the requirements of clause (B) of this subparagraph (9) is impracticable or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary;
 
-&emsp;(10) if it purports to be or is represented for special dietary uses unless its label bears such information concerning its vitamin, mineral, and other dietary properties as the Secretary,after consultation with the Secretary of Health and Human Services, determines to be, and by regulations prescribes as, necessary in order fully to inform purchasers as to its value for such uses;
+&emsp;(10) if it purports to be or is represented for special dietary uses unless its label bears such information concerning its vitamin, mineral, and other dietary properties as the Secretary, after consultation with the Secretary of Health and Human Services, determines to be, and by regulations prescribes as, necessary in order fully to inform purchasers as to its value for such uses;
 
 &emsp;(11) if it bears or contains any artificial flavoring, artificial coloring, or chemical preservative unless it bears labeling stating that fact: <i>Provided</i>, That, to the extent that compliance with the requirements of this subparagraph (11) is impracticable, exemptions shall be established by regulations promulgated by the Secretary; or
 
@@ -96,7 +96,7 @@ For purposes of this chapter—
 
 (x) The term "Federal Food, Drug, and Cosmetic Act" means the Act so entitled, approved June 25, 1938 (52 Stat. 1040) \[21 U.S.C. 301 et seq.\], and Acts amendatory thereof or supplementary thereto.
 
-(y) The terms "pesticide chemical", "food additive", "color additive", and "raw agricultural commodity" shall have the same meanings for purposes of this chapter as under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
+(y) The terms "pesticide chemical", "food additive", "color additive", and "raw agriculturalcommodity" shall have the same meanings for purposes of this chapter as under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
 
 (z) The term "poultry products broker" means any person engaged in the business of buying or selling poultry products on commission, or otherwise negotiating purchases or sales of such articles other than for his own account or as an employee of another person.
 

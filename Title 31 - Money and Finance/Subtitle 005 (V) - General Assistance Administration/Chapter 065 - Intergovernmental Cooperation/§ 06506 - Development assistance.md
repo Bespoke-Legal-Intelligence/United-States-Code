@@ -2,7 +2,7 @@
 
 (a) The economic and social development of the United States and the achievement of satisfactory levels of living depend on the sound and orderly development of urban and rural areas. When urbanization proceeds rapidly, the sound and orderly development of urban communities depends to a large degree on the social and economic health and the sound development of smaller communities and rural areas.
 
-(b) The President shall prescribe regulations governing the formulation, evaluation, and review of United States Government programs and projects having a significant impact on area and community development (including programs and projects providing assistance to States and localities) to serve most effectively the basic objectives of subsection (a) of this section. The regulations shall provide for the consideration of concurrently achieving the following specific objectives and, to the extent authorized by law, reasoned choices shall be made between the objectives when they conflict:
+(b) The President shall prescribe regulations governing the formulation, evaluation, and review of United States Government programs and projects having a significant impact on area and community development (including programs and projects providing assistance to States and localities) to serve most effectively the basic objectives of subsection (a) of this section. The regulations shall provide for the considerationof concurrently achieving the following specific objectives and, to the extent authorized by law, reasoned choices shall be made between the objectives when they conflict:
 
 &emsp;(1) appropriate land uses for housing, commercial, industrial, governmental, institutional, and other purposes.
 
@@ -18,7 +18,7 @@
 
 &emsp;(7) concern for high standards of design.
 
-(c) To the extent possible, all national, regional, State, and local viewpoints shall be considered in planning development programs and projects of the United States Government or assisted by the Government. State and local government objectives and the objectives of regional organizations shall be considered withina framework of national public objectives expressed in laws of the United States. Available projections of future conditions in the United States and needs of regions, States, and localities shall be considered in plan formulation, evaluation, and review.
+(c) To the extent possible, all national, regional, State, and local viewpoints shall be considered in planning development programs and projects of the United States Government or assisted by the Government. State and local government objectives and the objectives of regional organizations shall be considered within a framework of national public objectives expressed in laws of the United States. Available projections of future conditions in the United States and needs of regions, States, and localities shall be considered in plan formulation, evaluation, and review.
 
 (d) To the maximum extent possible and consistent with national objectives, assistance for development purposes shall be consistent with and further the objectives of State, regional, and local comprehensive planning. Consideration shall be given to all developmental aspects of our total national community, including housing, transportation, economic development, natural and human resources development, community facilities, and the general improvement of living environments.
 

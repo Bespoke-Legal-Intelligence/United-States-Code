@@ -42,7 +42,7 @@ Provisions similar to this section were contained in section 1087–57 of this t
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, restating subsecs. (a) and (b) with changes in substance and structure and striking out subsec. (c) which defined "community services".
 
-<b>1987</b>—Subsec. (b)(3) to (7). Pub. L. 100–50 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: "provide satisfactory assurance that the institution will continue tospend in its own job location and development programs, from sources other than funds received under this section, not less than the average expenditures per year made during the most recent 3 fiscal years preceding the effective date of the agreement;".
+<b>1987</b>—Subsec. (b)(3) to (7). Pub. L. 100–50 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: "provide satisfactory assurance that the institution will continue to spend in its own job location and development programs, from sources other than funds received under this section, not less than the average expenditures per year made during the most recent 3 fiscal years preceding the effective date of the agreement;".
 
 #### Effective Date of 1992 Amendment
 

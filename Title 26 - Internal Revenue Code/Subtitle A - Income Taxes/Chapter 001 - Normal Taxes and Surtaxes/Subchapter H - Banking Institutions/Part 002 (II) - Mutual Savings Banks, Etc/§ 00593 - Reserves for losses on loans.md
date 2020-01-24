@@ -16,7 +16,7 @@
 
 #### (2) Organization must meet 60-percent asset test of section 7701(a)(19)
 
-&emsp;This section shall apply to an association or bank referred to in paragraph (1) only if itmeets the requirements of section 7701(a)(19)(C).
+&emsp;This section shall apply to an association or bank referred to in paragraph (1) only if it meets the requirements of section 7701(a)(19)(C).
 
 #### (b) Addition to reserves for bad debts
 
@@ -66,7 +66,7 @@
 
 #### (3) Experience method
 
-&emsp;The amount determined under this paragraph for the taxable year shall be computed in the same manner as is provided with respect to additions to the reserves for losses on loans of banks under section 585(b)(2).
+&emsp;The amount determined under this paragraph for the taxable year shall be computedin the same manner as is provided with respect to additions to the reserves for losses on loans of banks under section 585(b)(2).
 
 #### (c) Treatment of reserves for bad debts
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) then out of such other accounts as may be proper.
 
-> &emsp;This paragraph shall apply in the case of any distribution in redemption of stock or in partial or complete liquidation of a taxpayer having a balance described in subsection (g)(2)(A)(ii), except that any such distribution shall be treated as made first out of the amount referred to in subparagraph (B), second out of the amount referred to in subparagraph (C), third out of the amount referred to in subparagraph (A), and then out of such other accounts as may be proper. This paragraph shall not apply to any transaction to which section 381 applies, or to any distribution to the Federal Savings and Loan Insurance Corporation (or any successor thereof) or the Federal Deposit Insurance Corporation in redemption of an interest in a taxpayer having a balance described in subsection (g)(2)(A)(ii), if such interest was originally received by any such entity in exchange for assistance provided under a provision of law referred to in section 597(c). This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect.
+> &emsp;This paragraph shall apply in the case of any distribution in redemption of stock or in partial or complete liquidation of a taxpayer having a balance described in subsection\(g)(2)(A)(ii), except that any such distribution shall be treated as made first out of the amount referred to in subparagraph (B), second out of the amount referred to in subparagraph (C), third out of the amount referred to in subparagraph (A), and then out of such other accounts as may be proper. This paragraph shall not apply to any transaction to which section 381 applies, or to any distribution to the Federal Savings and Loan Insurance Corporation (or any successor thereof) or the Federal Deposit Insurance Corporation in redemption of an interest in a taxpayer having a balance described in subsection (g)(2)(A)(ii), if such interest was originally received by any such entity in exchange for assistance provided under a provision of law referred to in section 597(c). This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect.
 
 #### (2) Amounts charged to reserve accounts and included in gross income
 
@@ -138,7 +138,7 @@ For purposes of this section—
 
 #### (3) Special rules
 
-&emsp;(A) For purposes of paragraph (1)(B), additions to the reserve for losses on qualifying real property loans for the taxable year inwhich the distribution occurs shall be taken into account.
+&emsp;(A) For purposes of paragraph (1)(B), additions to the reserve for losses on qualifying real property loans for the taxable year in which the distribution occurs shall be taken into account.
 
 &emsp;(B) For purposes of computing under this section the amount of a reasonable addition to the reserve for losses on qualifying real property loans for any taxable year, any amount charged during any year to such reserve pursuant to the provisions of paragraph (2) shall not be taken into account.
 
@@ -194,7 +194,7 @@ Subsections (a), (b), (c), and (d) shall not apply to any taxable year beginning
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a bank which meets the residential loan requirement of subparagraph (B) for the first taxable year beginning after December 31, 1995, or for the following taxable year—
+&emsp;&emsp;In the case of a bank which meets the residential loan requirement of subparagraph\(B) for the first taxable year beginning after December 31, 1995, or for the following taxable year—
 
 &emsp;&emsp;&emsp;(i) no adjustment shall be taken into account under paragraph (1) for such taxable year, and
 
@@ -278,7 +278,7 @@ Subsecs. (f), (g). Pub. L. 104–188, §1616(a), added subsecs. (f) and (g).
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–508, §11801(c)(12)(F), which directed the amendment of pars. (1)(A) and (E) by substituting "section 585(b)(2)" for "section 585(b)(3)", was executed to pars. (1)(A) and (3). See 1996 Amendment note above.
 
-<b>1989</b>—Subsec. (e)(1). Pub. L. 101–73 amended last sentence generally. Prior to amendment, last sentence read as follows: "This paragraph shall not apply to any transaction to which section 381 (relating to carryovers in certain corporate acquisitions) applies, or to any distribution to the Federal Savings and Loan Insurance Corporation in redemption of an interest in an association, if such interest was originally received by the Federal Savings and Loan Insurance Corporation in exchange for financial assistance pursuant to section406(f) of the National Housing Act (12 U.S.C. sec. 1729(f))."
+<b>1989</b>—Subsec. (e)(1). Pub. L. 101–73 amended last sentence generally. Prior to amendment, last sentence read as follows: "This paragraph shall not apply to any transaction to which section 381 (relating to carryovers in certain corporate acquisitions) applies, or to any distribution to the Federal Savings and Loan Insurance Corporation in redemption of an interest in an association, if such interest was originally received by the Federal Savings and Loan Insurance Corporation in exchange for financial assistance pursuant to section 406(f) of the National Housing Act (12 U.S.C. sec. 1729(f))."
 
 <b>1988</b>—Subsec. (b)(2)(D)(v). Pub. L. 100–647, §1003(c)(3), added cl. (v).
 
@@ -410,7 +410,7 @@ Amendment by section 245(b), (c) of Pub. L. 97–34 applicable with respect to t
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in theprovisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 #### Effective Date of 1976 Amendment
 

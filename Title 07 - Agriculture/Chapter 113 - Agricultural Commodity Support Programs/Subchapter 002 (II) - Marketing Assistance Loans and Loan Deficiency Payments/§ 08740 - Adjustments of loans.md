@@ -28,7 +28,7 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after the date of enactment of this Act, the Secretary shall implement revisions in the administration of the marketing assistance loan program for upland cotton to more accurately and efficiently reflect market values for upland cotton.
+&emsp;&emsp;Not later than 180 days after the date of enactment of this Act, the Secretary shallimplement revisions in the administration of the marketing assistance loan program for upland cotton to more accurately and efficiently reflect market values for upland cotton.
 
 #### (B) Mandatory revisions
 
@@ -72,7 +72,7 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 #### (e) Rice
 
-The Secretary shall not make adjustments in the loan rates for long grain rice and mediumgrain rice, except for differences in grade and quality (including milling yields).
+The Secretary shall not make adjustments in the loan rates for long grain rice and medium grain rice, except for differences in grade and quality (including milling yields).
 
 (Pub. L. 110–234, title I, §1210, May 22, 2008, 122 Stat. 965; Pub. L. 110–246, §4(a), title I, §1210, June 18, 2008, 122 Stat. 1664, 1693.)
 

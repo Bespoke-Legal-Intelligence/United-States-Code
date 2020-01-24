@@ -12,7 +12,7 @@ If a foreign proceeding and a case under another chapter of this title are pendi
 
 &emsp;&emsp;(A) any relief in effect under section 1519 or 1521 shall be reviewed by the court and shall be modified or terminated if inconsistent with the case in the United States; and
 
-&emsp;&emsp;(B) if such foreign proceeding is a foreign main proceeding, the stay and suspension referred to in section 1520(a) shall be modifiedor terminated if inconsistent with the relief granted in the case in the United States.
+&emsp;&emsp;(B) if such foreign proceeding is a foreign main proceeding, the stay and suspension referred to in section 1520(a) shall be modified or terminated if inconsistent with the relief granted in the case in the United States.
 
 &emsp;(3) In granting, extending, or modifying relief granted to a representative of a foreign nonmain proceeding, the court must be satisfied that the relief relates to assets that, under the laws of the United States, should be administered in the foreign nonmain proceeding or concerns information required in that proceeding.
 
@@ -26,5 +26,5 @@ If a foreign proceeding and a case under another chapter of this title are pendi
 
 #### Effective Date
 
-Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under thistitle before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 

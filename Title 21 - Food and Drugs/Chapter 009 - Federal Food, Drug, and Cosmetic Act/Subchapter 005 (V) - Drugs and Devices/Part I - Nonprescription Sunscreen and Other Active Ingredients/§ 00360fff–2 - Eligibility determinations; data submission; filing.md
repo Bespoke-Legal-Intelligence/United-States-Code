@@ -34,7 +34,7 @@
 
 #### (B) Identification of confidential information by sponsor
 
-&emsp;&emsp;At the time that a request is made under section 360fff–1 of this title, the sponsor of such request shall identify any information that such sponsor considers to be confidential information described in subparagraph (A).
+&emsp;&emsp;At the time that a request is made under section 360fff–1 of this title, the sponsor ofsuch request shall identify any information that such sponsor considers to be confidential information described in subparagraph (A).
 
 #### (C) Confidentiality during eligibility review
 

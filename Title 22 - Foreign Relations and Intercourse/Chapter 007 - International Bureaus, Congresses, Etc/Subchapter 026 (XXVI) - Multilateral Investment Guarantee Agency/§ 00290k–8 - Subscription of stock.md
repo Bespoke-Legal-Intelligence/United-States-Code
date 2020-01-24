@@ -20,5 +20,5 @@ Section is based on section 411 of title IV of H.R. 3750, One Hundredth Congress
 
 #### First General Capital Increase
 
-Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §594\], Nov. 29, 1999, 113 Stat. 1535, 1501A–122, provided in part that the Secretary of the Treasury may effect the United States participation in the first general capital increase of the Multilateral Investment Guarantee Agency and authorized $29,870,087 to be appropriated without fiscal year limitation for payment by the Secretary for paid-in capital of the Agency and $139,365,533 to be appropriated without fiscal year limitation for payment by the Secretary for callable capital of the Agency.
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §594\], Nov. 29, 1999, 113 Stat. 1535, 1501A–122, provided in part that the Secretary of the Treasury may effect the UnitedStates participation in the first general capital increase of the Multilateral Investment Guarantee Agency and authorized $29,870,087 to be appropriated without fiscal year limitation for payment by the Secretary for paid-in capital of the Agency and $139,365,533 to be appropriated without fiscal year limitation for payment by the Secretary for callable capital of the Agency.
 

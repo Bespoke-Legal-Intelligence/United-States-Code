@@ -32,11 +32,11 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) At all times during such taxable year, 80 percent or more of the total square footage of the corporation's property is used or available for use by the tenant-stockholders for residential purposes or purposes ancillary to such residential use.
 
-&emsp;&emsp;&emsp;(iii) 90 percent or more of the expenditures of the corporation paid or incurred during such taxable year are paid or incurred for the acquisition, construction, management, maintenance, or care of the corporation's property for the benefit of the tenant-stockholders.
+&emsp;&emsp;&emsp;(iii) 90 percent or more of the expenditures of the corporation paid or incurred during such taxable year are paid or incurred for the acquisition, construction,management, maintenance, or care of the corporation's property for the benefit of the tenant-stockholders.
 
 #### (2) Tenant-stockholder
 
-&emsp;The term "tenant-stockholder" means a person who is a stockholder in a cooperativehousing corporation, and whose stock is fully paid-up in an amount not less than an amount shown to the satisfaction of the Secretary as bearing a reasonable relationship to the portion of the value of the corporation's equity in the houses or apartment building and the land on which situated which is attributable to the house or apartment which such person is entitled to occupy.
+&emsp;The term "tenant-stockholder" means a person who is a stockholder in a cooperative housing corporation, and whose stock is fully paid-up in an amount not less than an amount shown to the satisfaction of the Secretary as bearing a reasonable relationship to the portion of the value of the corporation's equity in the houses or apartment building and the land on which situated which is attributable to the house or apartment which such person is entitled to occupy.
 
 #### (3) Tenant-stockholder's proportionate share
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (d) Disallowance of deduction for certain payments to the corporation
 
-No deduction shall be allowed to a stockholder in a cooperative housing corporation for any amount paid or accrued to such corporation during any taxable year (in excess of the stockholder's proportionate share of the items described in subsections (a)(1) and (a)(2)) to the extent that, under regulations prescribed by the Secretary, such amount is properly allocable to amounts paid or incurred at any time by the corporation which are chargeable to the corporation's capital account. The stockholder's adjusted basis in the stock in the corporation shall be increased by the amount of such disallowance.
+No deduction shall be allowed to a stockholder in a cooperative housing corporation for any amount paid or accrued to such corporation during any taxable year (in excess of the stockholder's proportionate share of the items describedin subsections (a)(1) and (a)(2)) to the extent that, under regulations prescribed by the Secretary, such amount is properly allocable to amounts paid or incurred at any time by the corporation which are chargeable to the corporation's capital account. The stockholder's adjusted basis in the stock in the corporation shall be increased by the amount of such disallowance.
 
 #### (e) Distributions by cooperative housing corporations
 
@@ -152,11 +152,11 @@ Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 199
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
+Amendment by Pub. L. 101–508 effective as if included in the provision of the Technical and MiscellaneousRevenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title VI, §6282(b), Nov. 10, 1988, 102 Stat. 3755, provided that: "The amendment made bythis section \[amending this section\] shall take effect as if included in the amendments made by section 631 of the Tax Reform Act of 1986 \[section 631 of Pub. L. 99–514, see Tables for classification\]."
+Pub. L. 100–647, title VI, §6282(b), Nov. 10, 1988, 102 Stat. 3755, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 631 of the Tax Reform Act of 1986 \[section 631 of Pub. L. 99–514, see Tables for classification\]."
 
 #### Effective Date of 1986 Amendment
 

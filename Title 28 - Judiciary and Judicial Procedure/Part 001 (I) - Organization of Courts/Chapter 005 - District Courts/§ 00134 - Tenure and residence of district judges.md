@@ -24,7 +24,7 @@ The clause in said last paragraph of section 1 of title 28 providing that any di
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–317 inserted "the Southern District of New York, and the Eastern District of New York," after "the District of Columbia," and inserted "Each district judge of the Southern District of New York and the Eastern District of New York may reside within 20 miles of the district to which he or she is appointed." at end.
+<b>1996</b>—Subsec. (b). Pub. L. 104–317 inserted "the Southern District of New York, and the Eastern District ofNew York," after "the District of Columbia," and inserted "Each district judge of the Southern District of New York and the Eastern District of New York may reside within 20 miles of the district to which he or she is appointed." at end.
 
 <b>1971</b>—Subsec. (c). Pub. L. 92–208 struck out provision requiring that one of the district judges for the Eastern District of Louisiana reside in East Baton Rouge Parish, Louisiana.
 

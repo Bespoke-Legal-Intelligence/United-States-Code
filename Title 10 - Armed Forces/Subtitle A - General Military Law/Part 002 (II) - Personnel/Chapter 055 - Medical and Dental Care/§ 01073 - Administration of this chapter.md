@@ -120,7 +120,7 @@ Pub. L. 114–328, div. A, title VII, §701(h), Dec. 23, 2016, 130 Stat. 2188, p
 
 "(1)
 
-In general.—Not later than January 1, 2018, the Secretary of Defense shall carry out a pilot program to demonstrate and assess the feasibility of incorporating value-based health care methodology in the purchased care component of the TRICARE program by reducing copayments or cost shares for targeted populations of covered beneficiaries in the receipt of high-value medications and services and the use of high-value providers under such purchased care component, including by exempting certain services from deductible requirements.
+In general.—Not later than January 1, 2018, the Secretary of Defense shall carry out a pilot program to demonstrate and assess the feasibility of incorporatingvalue-based health care methodology in the purchased care component of the TRICARE program by reducing copayments or cost shares for targeted populations of covered beneficiaries in the receipt of high-value medications and services and the use of high-value providers under such purchased care component, including by exempting certain services from deductible requirements.
 
 "(2)
 
@@ -224,7 +224,7 @@ Chronic diseases or conditions described.—Chronic diseases or conditions descr
 
 "(b)
 
-Lifestyle Intervention Incentive Program.—The Secretary shall establish a program to incentivize lifestyle interventions for covered beneficiaries, such as smoking cessation and weight reduction, that may include lowering fees for enrollment in the TRICARE program by a certain percentage or lowering copayment and cost share amounts for health care services during a particular year for covered beneficiaries who met participation milestones, as determined by the Secretary, in the previous year with respect to such lifestyle interventions, such as quitting smoking or achieving a lower body mass index by a certain percentage.
+Lifestyle Intervention Incentive Program.—The Secretary shall establish a program to incentivize lifestyle interventions for covered beneficiaries, suchas smoking cessation and weight reduction, that may include lowering fees for enrollment in the TRICARE program by a certain percentage or lowering copayment and cost share amounts for health care services during a particular year for covered beneficiaries who met participation milestones, as determined by the Secretary, in the previous year with respect to such lifestyle interventions, such as quitting smoking or achieving a lower body mass index by a certain percentage.
 
 "(c)
 
@@ -350,7 +350,7 @@ Pub. L. 114–92, div. A, title VII, §716, Nov. 25, 2015, 129 Stat. 867, provid
 
 "(a)
 
-Qualifications for TRICARE Certified Mental Health Counselors During Transition Period.—During the period preceding January 1, 2021, for purposes of determining whether a mental health care professional is eligible for reimbursement under the TRICARE program as a TRICARE certified mental health counselor, an individual who holds a masters degree or doctoral degree in counseling from a program that is accredited by a covered institution shall be treated as holding such degree from a mental health counseling program or clinical mental health counseling program that is accredited by the Council for Accreditation of Counseling and Related Educational Programs.
+Qualifications for TRICARE Certified Mental Health Counselors During Transition Period.—During the period preceding January 1, 2021, for purposes of determining whether a mental health care professional is eligible for reimbursement under the TRICARE program as a TRICARE certified mental health counselor, an individual who holds a masters degree or doctoral degree in counseling from a program that is accredited by a covered institution shall be treated as holding such degree from a mental health counseling program or clinical mental health counseling program that isaccredited by the Council for Accreditation of Counseling and Related Educational Programs.
 
 "(b)
 
@@ -428,75 +428,7 @@ Non-Department Mental Health Care Provider Defined.—In this section, the term 
 
 #### Pilot Program on Urgent Care Under TRICARE Program
 
-Pub. L. 114–92, div. A, title VII, §725, Nov. 25, 2015, 129 Stat. 870, provided that:
-
-"(a)
-
-Pilot Program.—
-
-&emsp;"(1)
-
-In general.—Commencing not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall carry out a pilot program to allow a covered beneficiary under the TRICARE program access to urgent care visits without the need for preauthorization for such visits.
-
-&emsp;"(2)
-
-Duration.—The Secretary shall carry out the pilot program for a period of three years.
-
-&emsp;"(3)
-
-Incorporation of nurse advice line.—The Secretary shall incorporate the nurse advise \[sic\] line of the Department into the pilot program to direct covered beneficiaries seeking access to care to the source of the most appropriate level of health care required to treat the medical conditions of the beneficiaries, including urgent care under the pilot program.
-
-"(b)
-
-Publication.—The Secretary shall—
-
-&emsp;"(1) publish information on the pilot program under subsection (a) for the receipt of urgent care under the TRICARE program—
-
-&emsp;&emsp;"(A) on the primary publically available Internet website of the Department; and
-
-&emsp;&emsp;"(B) on the primary publically available Internet website of each military medical treatment facility; and
-
-&emsp;"(2) ensure that such information is made available on the primary publically available Internet website of each current managed care contractor that has established a health care provider network under the TRICARE program.
-
-"(c)
-
-Reports.—
-
-&emsp;"(1)
-
-First report.—
-
-&emsp;&emsp;"(A)
-
-In general.—Not later than one year after the date on which the pilot program under subsection (a) commences, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the pilot program.
-
-&emsp;&emsp;"(B)
-
-Elements.—The report under subparagraph (1) shall include the following:
-
-&emsp;&emsp;&emsp;"(i) An analysis of urgent care use by covered beneficiaries in military medical treatment facilities and the TRICARE purchased care provider network.
-
-&emsp;&emsp;&emsp;"(ii) A comparison of urgent care use by covered beneficiaries to the use by covered beneficiaries of emergency departments in military medical treatment facilities and the TRICARE purchased care provider network, including an analysis of whether the pilot program decreases the inappropriate use of medical care in emergency departments.
-
-&emsp;&emsp;&emsp;"(iii) A determination of the extent to which the nurse advice line of the Department affected both urgent care and emergency department use by covered beneficiaries in military medical treatment facilities and the TRICARE purchased care provider network.
-
-&emsp;&emsp;&emsp;"(iv) An analysis of any cost savings to the Department realized through the pilot program.
-
-&emsp;&emsp;&emsp;"(v) A determination of the optimum number of urgent care visits available to covered beneficiaries without preauthorization.
-
-&emsp;&emsp;&emsp;"(vi) An analysis of the satisfaction of covered beneficiaries with the pilot program.
-
-&emsp;"(2)
-
-Second report.—Not later than two years after the date on which the pilot program commences, the Secretary shall submit to the committees specified in paragraph (1)(A) an update to the report required by such paragraph, including any recommendations of the Secretary with respect to extending or making permanent the pilot program and a description of any related legislative actions that the Secretary considers appropriate.
-
-&emsp;"(3)
-
-Final report.—Not later than 180 days after the date on which the pilot program is completed, the Secretary shall submit to the committees specified in paragraph (1)(A) a final report on the pilot program that updates the report required by paragraph (2).
-
-"(d)
-
-Definitions.—In this section, the terms 'covered beneficiary' and 'TRICARE program' have the meaning given such terms in section 1072 of title 10, United States Code."
+Pub. L. 114–92, div. A, title VII, §725, Nov. 25, 2015, 129 Stat. 870, provided for a three-year pilot program to allow TRICARE beneficiaries access to urgent care visits without the need for preauthorization and to a nurse advice line and required submission of a final report to Congress no later than 180 days after the program was completed.
 
 #### Cooperative Health Care Agreements Between Military Installations and Non-Military Health Care Systems
 
@@ -540,7 +472,7 @@ Rule of Construction.—Nothing in this section shall be construed as authorizin
 
 #### Inpatient Mental Health Service
 
-Pub. L. 110–329, div. C, title VIII, §8095, Sept. 30, 2008, 122 Stat. 3642, provided that: "None of the funds appropriated by this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, available for the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) or TRICARE shall be available for the reimbursement of any health care provider for inpatient mental health service for care received when a patient is referred to a provider of inpatient mental health care or residential treatment care by a medical or health care professional having an economic interest in the facility to which the patient is referred: <i>Provided,</i> That this limitation does not apply in the case of inpatient mental health services provided under the program for persons with disabilities under subsection (d) of section 1079 of title 10, United States Code, provided as partial hospital care, or provided pursuant to a waiver authorized by the Secretary of Defense because of medical or psychological circumstances of the patient that are confirmed by a health professional who is not a Federal employee after a review, pursuant to rules prescribed by the Secretary, which takes into account the appropriate level of care for the patient, the intensity of services required by the patient, and the availability of that care."
+Pub. L. 110–329, div. C, title VIII, §8095, Sept. 30, 2008, 122 Stat. 3642, provided that: "None of the funds appropriated by this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, available for the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) or TRICARE shall be available for the reimbursement of any health care provider for inpatient mental health service for care received when a patient is referred to a provider of inpatient mental health care or residential treatment care by a medical or health care professional having an economic interestin the facility to which the patient is referred: <i>Provided,</i> That this limitation does not apply in the case of inpatient mental health services provided under the program for persons with disabilities under subsection (d) of section 1079 of title 10, United States Code, provided as partial hospital care, or provided pursuant to a waiver authorized by the Secretary of Defense because of medical or psychological circumstances of the patient that are confirmed by a health professional who is not a Federal employee after a review, pursuant to rules prescribed by the Secretary, which takes into account the appropriate level of care for the patient, the intensity of services required by the patient, and the availability of that care."
 
 #### Surveys on Continued Viability of TRICARE Standard and TRICARE Extra
 
@@ -664,7 +596,7 @@ Definitions.—In this section:
 
 #### Regulations To Establish Criteria for Licensed or Certified Mental Health Counselors Under TRICARE
 
-Pub. L. 111–383, div. A, title VII, §724, Jan. 7, 2011, 124 Stat. 4252, provided that: "Not later than June 20, 2011,the Secretary of Defense shall prescribe the regulations required by section 717 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 1073 note)."
+Pub. L. 111–383, div. A, title VII, §724, Jan. 7, 2011, 124 Stat. 4252, provided that: "Not later than June 20, 2011, the Secretary of Defense shall prescribe the regulations required by section 717 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 1073 note)."
 
 Pub. L. 110–181, div. A, title VII, §717(a), Jan. 28, 2008, 122 Stat. 196, provided that: "The Secretary of Defense shall prescribe regulations to establish criteria that licensed or certified mental health counselors shall meet in order to be able to independently provide care to TRICARE beneficiaries and receive payment under the TRICARE program for such services. The criteria shall include requirements for education level, licensure, certification, and clinical experience as considered appropriate by the Secretary."
 
@@ -778,7 +710,7 @@ Actions.—In taking actions under paragraph (1), the Secretary shall—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VII) fraud prevention;
 
-&emsp;&emsp;"(B) ensure the availability of adequate and sustainable funding support for projects which producea return on investment to the military treatment facilities;
+&emsp;&emsp;"(B) ensure the availability of adequate and sustainable funding support for projects which produce a return on investment to the military treatment facilities;
 
 &emsp;&emsp;"(C) ensure that a portion of any return on investment is returned to the military treatment facility to which such savings are attributable;
 
@@ -838,53 +770,7 @@ Tricare Program Defined.—In this section, the term 'TRICARE program' has the m
 
 #### Pilot Projects on Pediatric Early Literacy Among Children of Members of the Armed Forces
 
-Pub. L. 109–163, div. A, title VII, §740, Jan. 6, 2006, 119 Stat. 3359, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(8), Oct. 17, 2006, 120 Stat. 2402, provided that:
-
-"(a)
-
-Pilot Projects Authorized.—The Secretary of Defense may conduct pilot projects to assess the feasibility, advisability, and utility of encouraging pediatric early literacy among the children of members of the Armed Forces.
-
-"(b)
-
-Locations.—
-
-&emsp;"(1)
-
-In general.—The pilot projects conducted under subsection (a) shall be conducted at not more than 20 military medical treatment facilities designated by the Secretary for purposes of this section.
-
-&emsp;"(2)
-
-Co-location with certain installations.—In designating military medical treatment facilities under paragraph (1), the Secretary shall, to the extent practicable, designate facilities that are located on, or co-located with, military installations at which the mobilization or demobilization of members of the Armed Forces occurs.
-
-"(c)
-
-Activities.—Activities under the pilot projects conducted under subsection (a) shall include the following:
-
-&emsp;"(1) The provision of training to health care providers and other appropriate personnel on early literacy promotion.
-
-&emsp;"(2) The purchase and distribution of children's books to members of the Armed Forces, their spouses, and their children.
-
-&emsp;"(3) The modification of treatment facility and clinic waiting rooms to include a full selection of literature for children.
-
-&emsp;"(4) The dissemination to members of the Armed Forces and their spouses of parent education materials on pediatric early literacy.
-
-&emsp;"(5) Such other activities as the Secretary considers appropriate.
-
-"(d)
-
-Report.—
-
-&emsp;"(1)
-
-In general.—Not later than March 1, 2007, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the pilot projects conducted under this section.
-
-&emsp;"(2)
-
-Elements.—The report under paragraph (1) shall include—
-
-&emsp;&emsp;"(A) a description of the pilot projects conducted under this section, including the location of each pilot project and the activities conducted under each pilot project; and
-
-&emsp;&emsp;"(B) an assessment of the feasibility, advisability, and utility of encouraging pediatric early literacy among the children of members of the Armed Forces."
+Pub. L. 109–163, div. A, title VII, §740, Jan. 6, 2006, 119 Stat. 3359, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(8), Oct. 17, 2006, 120 Stat. 2402, provided for pilot projects related to encouraging pediatric early literacy among children of members of the Armed Forces conducted at military medical treatment facilites and required a report to Congress on the projects no later than Mar. 1, 2007.
 
 #### Surveys on Continued Viability of TRICARE Standard
 
@@ -896,7 +782,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §723\], Oct. 30, 2000, 114 Stat
 
 "(a)
 
-Requirement To Implement Internet-Based System.—Not later than October 1, 2001, the Secretary of Defense shall implement a system to simplify and make accessible through the use of the Internet, through commercially available systems and products, critical administrative processes within the military health care system and the TRICARE program. The purposes of the system shall be to enhance efficiency, improve service, and achieve commercially recognized standards of performance.
+Requirement To Implement Internet-Based System.—Not later than October 1, 2001, the Secretary of Defense shall implement a system to simplify and make accessible through the use of the Internet,through commercially available systems and products, critical administrative processes within the military health care system and the TRICARE program. The purposes of the system shall be to enhance efficiency, improve service, and achieve commercially recognized standards of performance.
 
 "(b)
 
@@ -982,41 +868,15 @@ Effective Date.—This section shall take effect on the earlier of the following
 
 &emsp;"(2) The date that is two years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002 \[Dec. 28, 2001\].".
 
-Pub. L. 106–65, div. A, title VII, §712(a), (b), Oct. 5, 1999, 113 Stat. 687, provided that:
-
-"(a)
-
-Access.—The Secretary of Defense shall, to the maximum extent practicable, minimize the authorization and certification requirements imposed on covered beneficiaries under the TRICARE program as a condition of access to benefits under that program.
-
-"(b)
-
-Report on Initiatives To Improve Access.—Not later than March 31, 2000, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on specific actions taken to—
-
-&emsp;"(1) reduce the requirements for preauthorization for care under the TRICARE program;
-
-&emsp;"(2) reduce the requirements for beneficiaries to obtain preventive services, such as obstetric or gynecologic examinations, mammograms for females over 35 years of age, and urological examinations for males over the age of 60 without preauthorization; and
-
-&emsp;"(3) reduce the requirements for statements of nonavailability of services."
+Pub. L. 106–65, div. A, title VII, §712(a), (b), Oct. 5, 1999, 113 Stat. 687, required the Secretary of Defense to minimize the authorization and certification requirements to access benefits under the TRICARE program and to submit a report to Congress on actions taken no later than Mar. 31, 2000.
 
 #### TRICARE Managed Care Support Contracts
 
-Pub. L. 106–398, §1 \[\[div. A\], title VII, §724\], Oct. 30, 2000, 114 Stat. 1654, 1654A–187, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §724\], Oct. 30, 2000, 114 Stat. 1654, 1654A–187, provided for the four-year extension of certain TRICARE managed care support contracts in effect, or in the final stages of acquisition, on Sept. 30, 1999.
 
-"(a)
+Pub. L. 106–259, title VIII, §8090, Aug. 9, 2000, 114 Stat. 694, provided for the 2-year extension of certain TRICARE managed care support contracts in effect, or in final stages of acquisition as of Sept. 30, 2000, and authorized future replacement contracts to include a base contract period for transition and up to seven 1-year option periods.
 
-Authority.—Notwithstanding any other provision of law and subject to subsection (b), any TRICARE managed care support contract in effect, or in the final stages of acquisition, on September 30, 1999, may be extended for four years.
-
-"(b)
-
-Conditions.—Any extension of a contract under subsection (a)—
-
-&emsp;"(1) may be made only if the Secretary of Defense determines that it is in the best interest of the United States to do so; and
-
-&emsp;"(2) shall be based on the price in the final best and final offer for the last year of the existing contract as adjusted for inflation and other factors mutually agreed to by the contractor and the Federal Government."
-
-Pub. L. 106–259, title VIII, §8090, Aug. 9, 2000, 114 Stat. 694, provided that: "Notwithstanding any other provision of law, the TRICARE managed care support contracts in effect, or in final stages of acquisition as of September 30, 2000, may be extended for 2 years: <i>Provided</i>, That any such extension may only take place if the Secretary of Defense determines that it is in the best interest of the Government: <i>Provided further</i>, That any contract extension shall be based on the price in the final best and final offer for the last year of the existing contract as adjusted for inflation and other factors mutually agreed to by the contractor and the Government: <i>Provided further</i>, That notwithstanding any other provision of law, all future TRICARE managed care support contracts replacing contracts in effect, or in the final stages of acquisition as of September 30, 2000, may include a base contract period for transition and up to seven 1-year option periods."
-
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 106–79, title VIII, §8095, Oct. 25, 1999, 113 Stat. 1254.
 
@@ -1094,95 +954,19 @@ Eligible Individuals.—(1) An individual is eligible to participate under this 
 
 #### System for Tracking Data and Measuring Performance in Meeting TRICARE Access Standards
 
-Pub. L. 105–261, div. A, title VII, §713, Oct. 17, 1998, 112 Stat. 2060, provided that:
-
-"(a)
-
-Requirement To Establish System.—(1) The Secretary of Defense shall establish a system—
-
-&emsp;"(A) to track data regarding access of covered beneficiaries under chapter 55 of title 10, United States Code, to primary health care under the TRICARE program; and
-
-&emsp;"(B) to measure performance in increasing such access against the primary care access standards established by the Secretary under the TRICARE program.
-
-"(2) In implementing the system described in paragraph (1), the Secretary shall collect data on the timeliness of appointments and precise waiting times for appointments in order to measure performance in meeting the primary care access standards established under the TRICARE program.
-
-"(b)
-
-Deadline for Establishment.—The Secretary shall establish the system described in subsection (a) not later than April 1, 1999."
+Pub. L. 105–261, div. A, title VII, §713, Oct. 17, 1998, 112 Stat. 2060, directed the Secretary of Defense to establish a system, no later than Apr. 1, 1999, for tracking data and measuring performance in meeting primary care access standards under the TRICARE program.
 
 #### TRICARE as Supplement to Medicare Demonstration
 
-Pub. L. 105–261, div. A, title VII, §722, Oct. 17, 1998, 112 Stat. 2065, as amended by Pub. L. 106–65, div. A, title X,§§1066(b)(6), 1067(3), Oct. 5, 1999, 113 Stat. 773, 774, required the Secretary of Defense to carry out a demonstration project (known as the TRICARE Senior Supplement) in order to assess the feasibility and advisability of providing medical care coverage under the TRICARE program to certain members and former members of the uniformed services and their dependents and further required the Secretary to evaluate and terminate the project and submit a report on the evaluation to Congress not later than Dec. 31, 2002.
+Pub. L. 105–261, div. A, title VII, §722, Oct. 17, 1998, 112 Stat. 2065, as amended by Pub. L. 106–65, div. A, title X, §§1066(b)(6), 1067(3), Oct. 5, 1999, 113 Stat. 773, 774, required the Secretary of Defense to carry out a demonstration project (known as the TRICARE Senior Supplement) in order to assess the feasibility and advisability of providing medical care coverage under the TRICARE program to certain members and former members of the uniformed services and their dependents and further required the Secretary to evaluate and terminate the project and submit a report on the evaluation to Congress not later than Dec. 31, 2002.
 
 #### Study Concerning Provision of Comparative Information
 
-Pub. L. 105–85, div. A, title VII, §703, Nov. 18, 1997, 111 Stat. 1807, provided that:
-
-"(a)
-
-Study.—The Secretary of Defense shall conduct a study concerning the provision of the information described in subsection (b) to beneficiaries under the TRICARE program established under the authority of chapter 55 of title 10, United States Code, and prepare and submit to Congress a report concerning such study.
-
-"(b)
-
-Provision of Comparative Information.—Information described in this subsection, with respect to a managed care entity that contracts with the Secretary of Defense to provide medical assistance under the program described in subsection (a), shall include the following:
-
-&emsp;"(1) The benefits covered by the entity involved, including—
-
-&emsp;&emsp;"(A) covered items and services beyond those provided under a traditional fee-for-service program;
-
-&emsp;&emsp;"(B) any beneficiary cost sharing; and
-
-&emsp;&emsp;"(C) any maximum limitations on out-of-pocket expenses.
-
-&emsp;"(2) The net monthly premium, if any, under the entity.
-
-&emsp;"(3) The service area of the entity.
-
-&emsp;"(4) To the extent available, quality and performance indicators for the benefits under the entity (and how they compare to such indicators under the traditional fee-for-service programs in the area involved), including—
-
-&emsp;&emsp;"(A) disenrollment rates for enrollees electing to receive benefits through the entity for the previous two years (excluding disenrollment due to death or moving outside the service area of the entity);
-
-&emsp;&emsp;"(B) information on enrollee satisfaction;
-
-&emsp;&emsp;"(C) information on health process and outcomes;
-
-&emsp;&emsp;"(D) grievance procedures;
-
-&emsp;&emsp;"(E) the extent to which an enrollee may select the health care provider of their \[sic\] choice, including health care providers within the network of the entity and out-of-network health care providers (if the entity covers out-of-network items and services); and
-
-&emsp;&emsp;"(F) an indication of enrollee exposure to balance billing and the restrictions on coverage of items and services provided to such enrollee by an out-of-network health care provider.
-
-&emsp;"(5) Whether the entity offers optional supplemental benefits and the terms and conditions (including premiums) for such coverage.
-
-&emsp;"(6) An overall summary description as to the method of compensation of participating physicians."
+Pub. L. 105–85, div. A, title VII, §703, Nov. 18, 1997, 111 Stat. 1807, directed the Secretary of Defense to conduct a study on the provision to TRICARE beneficiaries of comparative information on the medical assistance provided by a managed care entity and to submit a report to Congress.
 
 #### Disclosure of Cautionary Information on Prescription Medications
 
-Pub. L. 105–85, div. A, title VII, §744, Nov. 18, 1997, 111 Stat. 1820, provided that:
-
-"(a)
-
-Regulations Required.—Not later than 180 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of Defense, in consultation with the administering Secretaries referred to in section 1073 of title 10, United States Code, shall prescribe regulations to require each source described in subsection (d) that dispenses a prescription medication to a beneficiary under chapter 55 of such title to include with the medication the written cautionary information required by subsection (b).
-
-"(b)
-
-Information To Be Disclosed.—Information required to be disclosed about a medication under the regulations shall include appropriate cautions about usage of the medication, including possible side effects and potentially hazardous interactions with foods.
-
-"(c)
-
-Form of Information.—The regulations shall require that information be furnished in a form that, to the maximum extent practicable, is easily read and understood.
-
-"(d)
-
-Covered Sources.—The regulations shall apply to the following:
-
-&emsp;"(1) Pharmacies and any other dispensers of prescription medications in medical facilities of the uniformed services.
-
-&emsp;"(2) Sources of prescription medications under any mail order pharmaceuticals program provided by any of the administering Secretaries under chapter 55 of title 10, United States Code.
-
-&emsp;"(3) Pharmacies paid under the Civilian Health and Medical Program of the Uniformed Services (including the TRICARE program).
-
-&emsp;"(4) Pharmacies, and any other pharmaceutical dispensers, of designated providers referred to in section 721(5) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2593; 10 U.S.C. 1073 note)."
+Pub. L. 105–85, div. A, title VII, §744, Nov. 18, 1997, 111 Stat. 1820, directed prescription of regulations, no later than 180 days after Nov. 18, 1997, requiring pharmacies and other pharmaceutical dispensers to provide written cautionary information about usage with the medication.
 
 #### Competitive Procurement of Ophthalmic Services
 
@@ -1282,7 +1066,7 @@ Uniform Benefit Required.—A designated provider shall offer to enrollees the h
 
 Time for Implementation of Benefit.—A designated provider shall offer the health benefit option described in subsection (a) to enrollees upon the later of the following:
 
-&emsp;"(1) The date on which health care services within the health care delivery system of the uniformed services are rendered through the TRICARE program in the region in which the designated provider operates.
+&emsp;"(1) The date on which health care services within the health care delivery system of the uniformedservices are rendered through the TRICARE program in the region in which the designated provider operates.
 
 &emsp;"(2) October 1, 1997.
 
@@ -1368,7 +1152,7 @@ Conforming Amendment.—\[Amended section 1074 of this title.\]
 
 "(a)
 
-Form of Payment.—Unless otherwise agreed to by the Secretary and a designated provider, the form of payment for health care services provided by a designated provider shall be on a full risk capitation payment basis. The capitation payments shall be negotiated and agreed upon by the Secretary and the designated provider. In addition to such other factors as the parties may agree to apply, the capitation payments shall be based on the utilization experience of enrollees and competitive market rates for equivalent health care services for a comparable population to such enrollees in the area in which the designated provider is located.
+Form of Payment.—Unless otherwise agreed to by the Secretary and a designated provider, the form of payment for health care services provided by a designated provider shall be on a full risk capitation payment basis. The capitation payments shall be negotiated and agreed upon by the Secretary and the designated provider. In addition to such other factors as the parties may agree to apply, the capitation payments shall be based on the utilization experience ofenrollees and competitive market rates for equivalent health care services for a comparable population to such enrollees in the area in which the designated provider is located.
 
 "(b)
 
@@ -1386,7 +1170,7 @@ Alternative Basis for Calculating Payments.—After September 30, 1999, the Secr
 
 "(a)
 
-Repeals.—\[Repealed sections 248c and 248d of Title 42, The Public Health and Welfare, and section718(c) of Pub. L. 101–510 and section 726 of Pub. L. 104–106, set out as notes under section 248c of Title 42.\]
+Repeals.—\[Repealed sections 248c and 248d of Title 42, The Public Health and Welfare, and section 718(c) of Pub. L. 101–510 and section 726 of Pub. L. 104–106, set out as notes under section 248c of Title 42.\]
 
 "(b)
 
@@ -1424,39 +1208,7 @@ Limitation on Assignment Until Completion of Training.—No person may be assign
 
 #### Pilot Program of Individualized Residential Mental Health Services
 
-Pub. L. 104–106, div. A, title VII, §716, Feb. 10, 1996, 110 Stat. 375, provided that:
-
-"(a)
-
-Program Required.—(1) During fiscal year 1996, the Secretary of Defense, in consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, shall implement a pilot program to provide residential and wraparound services to children described in paragraph (2) who are in need of mental health services. The Secretary shall implement the pilot program for an initial period of at least two years in a military health care region in which the TRICARE program has been implemented.
-
-"(2) A child shall be eligible for selection to participate in the pilot program if the child is a dependent (as described in subparagraph (D) or (I) of section 1072(2) of title 10, United States Code) who—
-
-&emsp;"(A) is eligible for health care under section 1079 or 1086 of such title; and
-
-&emsp;"(B) has a serious emotional disturbance that is generally regarded as amenable to treatment.
-
-"(b)
-
-Wraparound Services Defined.—For purposes of this section, the term 'wraparound services' means individualized mental health services that are provided principally to allow a child to remain in the family home or other least-restrictive and least-costly setting, but also are provided as an aftercare planning service for children who have received acute or residential care. Such term includes nontraditional mental health services that will assist the child to be maintained in the least-restrictive and least-costly setting.
-
-"(c)
-
-Pilot Program Agreement.—Under the pilot program the Secretary of Defense shall enter into one or more agreements that require a mental health services provider under the agreement—
-
-&emsp;"(1) to provide wraparound services to a child described in subsection (a)(2);
-
-&emsp;"(2) to continue to provide such services as needed during the period of the agreement even if the child moves to another location within the same TRICARE program region during that period; and
-
-&emsp;"(3) to share financial risk by accepting as a maximum annual payment for such services a case-rate reimbursement not in excess of the amount of the annual standard CHAMPUS residential treatment benefit payable (as determined in accordance with section 8.1 of chapter 3 of volume II of the CHAMPUS policy manual).
-
-"(d)
-
-Report.—Not later than March 1, 1998, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the program carried out under this section. The report shall contain—
-
-&emsp;"(1) an assessment of the effectiveness of the program; and
-
-&emsp;"(2) the Secretary's views regarding whether the program should be implemented throughout the military health care system."
+Pub. L. 104–106, div. A, title VII, §716, Feb. 10, 1996, 110 Stat. 375, directed the Secretary of Defense to implement a pilot program to provide residential and wraparound services to certain children who are in need of mental health services and to report to Congress no later than Mar. 1, 1998.
 
 #### Evaluation and Report on TRICARE Program Effectiveness
 
@@ -1464,7 +1216,7 @@ Pub. L. 104–106, div. A, title VII, §717, Feb. 10, 1996, 110 Stat. 376, as am
 
 "(a)
 
-Evaluation Required.—The Secretary of Defense shall arrange for an on-going evaluation of the effectiveness of the TRICARE program in meeting the goals of increasing the access of covered beneficiaries under chapter 55 of title 10, United States Code, to health care and improving the quality of health care provided to covered beneficiaries, without increasingthe costs incurred by the Government or covered beneficiaries. The evaluation shall specifically—
+Evaluation Required.—The Secretary of Defense shall arrange for an on-going evaluation of the effectiveness of the TRICARE program in meeting the goals of increasing the access of covered beneficiaries under chapter 55 of title 10, United States Code, to health care and improving the quality of health care provided to covered beneficiaries, without increasing the costs incurred by the Government or covered beneficiaries. The evaluation shall specifically—
 
 &emsp;"(1) address the impact of the TRICARE program on members of the Armed Forces (whether in the regular or reserve components) and their dependents, military retirees and their dependents, and dependents of members on active duty with severe disabilities and chronic health care needs with regard to access, costs, and quality of health care services;
 
@@ -1532,131 +1284,15 @@ Modification of Existing Contracts.—In the case of managed health care contrac
 
 Pub. L. 104–61, title VI, Dec. 1, 1995, 109 Stat. 649, provided in part that the date for implementation of the nation-wide managed care military health services system would be extended to Sept. 30, 1997.
 
-Pub. L. 103–139, title VIII, §8025, Nov. 11, 1993, 107 Stat. 1443, provided that: "Notwithstanding any other provision of law, to establish region-wide, at-risk, fixed price managed care contracts possessing features similar to those of the CHAMPUS Reform Initiative, the Secretary of Defense shall submit to the Congress a plan to implement a nation-wide managed health care program for the military health services system not later than December 31, 1993: <i>Provided</i>, That the program shall include, but not be limited to: (1) a uniform, stabilized benefit structure characterized by a triple option health benefit feature; (2) a regionally-based health care management system; (3) cost minimization incentives including 'gatekeeping' and annual enrollment procedures, capitation budgeting, and at-risk managed care support contracts; and (4) full and open competition for all managed care support contracts: <i>Provided further</i>, That the implementation of the nation-wide managed care military health services system shall be completed by September 30, 1996: <i>Provided further</i>, That the Department shall competitively award contracts in fiscal year 1994 for at least four new region-wide, at-risk, fixed price managed care support contracts consistent with the nation-wide plan, that one such contract shall include the State of Florida (which may include Department of Veterans Affairs' medical facilities with the concurrence of the Secretary of Veterans Affairs), one such contract shall include the States of Washington and Oregon, and one such contract shall include the State of Texas: <i>Provided further</i>, That any law or regulation of a State or local government relating to health insurance, prepaid health plans, or other health care delivery, administration, and financing methods shall be preempted and shall not apply to any region-wide, at-risk, fixed price managed care contract entered into pursuant to chapter 55 of title 10, United States Code: <i>Provided further</i>,That the Department shall competitively award within 13 months after the date of enactment of this Act \[Nov. 11, 1993\] two contracts for stand-alone, at-risk managed mental health services in high utilization, high-cost areas, consistent with the management and service delivery features in operation in Department of Defense managed mental health care contracts: <i>Provided further</i>, That the Assistant Secretary of Defense for Health Affairs shall, during the current fiscal year, initiate through competitive procedures a managed health care program for eligible beneficiaries in the area of Homestead Air Force Base with benefits and services substantially identical to those established to serve beneficiary populations in areas where military medical facilities have been terminated, to include retail pharmacy networks available to Medicare-eligible beneficiaries, and shall present a plan to implement this program to the House and Senate Committees on Appropriations not later than January 15, 1994."
-
-#### Condition on Expansion of CHAMPUS Reform Initiative to Other Locations
-
-Pub. L. 102–484, div. A, title VII, §712, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, title VII, §720, Nov. 30, 1993, 107 Stat. 1695; Pub. L. 103–337, div. A, title VII, §714(c), Oct. 5, 1994, 108 Stat. 2803, provided that:
-
-"(a)
-
-Condition.—(1) Except as provided in subsection (b), the Secretary of Defense may not expand the CHAMPUS reform initiative underway in the States of California and Hawaii to another location until not less than 90 days after the date on which the Secretary certifies to Congress that expansion of the initiative to that location is the most efficient method of providing health care to covered beneficiaries in that location. In determining whether the expansion of the CHAMPUS reform initiative to a location is the most efficient method of providing health care to covered beneficiaries in that location, the Secretary shall consider the cost-effectiveness of the initiative (while assuring that the combined cost of care in military treatment facilities and under the Civilian Health and Medical Program of the Uniformed Services will not be increased as a result of the expansion) and the effect of the expansion of the initiative on the access of covered beneficiaries to health care and on the quality of health care received by covered beneficiaries.
-
-"(2) To the extent any revision of the CHAMPUS reform initiative is necessary in order to make the certification required by this subsection, the Secretary shall assure that enrolled covered beneficiaries may obtain health care services with reduced out-of-pocket costs, as compared to standard CHAMPUS.
-
-"(b)
-
-Exception.—The Secretary of Defense may waive the operation of the condition on the expansion of the CHAMPUS reform initiative specified in subsection (a) in order to expand the initiative to a location adversely affected by the closure or realignment of a military installation in that location, as determined by the Secretary.
-
-"(c)
-
-Evaluation of Certification.—The Comptroller General of the United States and the Director of the Congressional Budget Office shall evaluate each certification made by the Secretary of Defense under subsection (a) that expansion of the CHAMPUS reform initiative to another location is the most efficient method of providing health care to covered beneficiaries in that location. They shall submit their findings to Congress if these findings differ substantially from the findings upon which the Secretary made the decision to expand the CHAMPUS reform initiative.
-
-"(d)
-
-Definitions.—For purposes of this section:
-
-&emsp;"(1) The terms 'CHAMPUS reform initiative' and 'initiative' mean the health care delivery project required by section 702 of the National Defense Authorization Act for Fiscal Year 1987 (Public Law 99–661; 10 U.S.C. 1073 note).
-
-&emsp;"(2) The term 'covered beneficiary' has the meaning given that term in section 1072(5) of title 10, United States Code.
-
-&emsp;"(3) The terms 'Civilian Health and Medical Program of the Uniformed Services' and 'CHAMPUS' have the meaning given the term 'Civilian Health and Medical Program of the Uniformed Services' in section 1072(4) of title 10, United States Code."
+Pub. L. 103–139, title VIII, §8025, Nov. 11, 1993, 107 Stat. 1443, provided that: "Notwithstanding any other provision of law, to establish region-wide, at-risk, fixed price managed care contracts possessing features similar to those of the CHAMPUS Reform Initiative, the Secretary of Defense shall submit to the Congress a plan to implement a nation-wide managed health care program for the military health services system not later than December 31, 1993: <i>Provided</i>, That the program shall include, but not be limited to: (1) a uniform, stabilized benefit structure characterized by a triple option health benefit feature; (2) a regionally-based health care management system; (3) cost minimization incentives including 'gatekeeping' and annual enrollment procedures, capitation budgeting, and at-risk managed care support contracts; and (4) full and open competition for all managed care support contracts: <i>Provided further</i>, That the implementation of the nation-wide managed care military health services system shall be completed by September 30, 1996: <i>Provided further</i>, That the Department shall competitively award contracts in fiscal year 1994 for at least four new region-wide, at-risk, fixed price managed care support contracts consistent with the nation-wide plan, that one such contract shall include the State of Florida (which may include Department of Veterans Affairs' medical facilities with the concurrence of the Secretary of Veterans Affairs), one such contract shall include the States of Washington and Oregon, and one such contract shall include the State of Texas: <i>Provided further</i>, That any law or regulation of a State or local government relating to health insurance, prepaid health plans, or other health care delivery, administration, and financing methods shall be preempted and shall not apply to any region-wide, at-risk, fixed price managed care contract entered into pursuant to chapter 55 of title 10, United States Code: <i>Provided further</i>, That the Department shall competitively award within 13 months after the date of enactment of this Act \[Nov. 11, 1993\] two contracts for stand-alone, at-risk managed mental health services in high utilization, high-cost areas, consistent with the management and service delivery features in operation in Department of Defense managed mental health care contracts: <i>Provided further</i>, That the Assistant Secretary of Defense for Health Affairs shall, during the current fiscal year, initiate through competitive procedures a managed health care program for eligible beneficiaries in the area of Homestead Air Force Base with benefits and services substantially identical to those established to serve beneficiary populations in areas where military medical facilities have been terminated, to include retail pharmacy networks available to Medicare-eligible beneficiaries, and shall present a plan to implement this program to the House and Senate Committees on Appropriations not later than January 15, 1994."
 
 #### Alternative Health Care Delivery Methodologies
 
-Pub. L. 102–484, div. A, title VII, §713, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, title VII, §719, Nov. 30, 1993, 107 Stat. 1694, directed the Secretary of Defense to continue to conduct during fiscal years 1993 through 1996 a broad array of reform initiatives for furnishing health care to persons who were eligible to receive health care under chapter 55 of this title and to submit to Congress a report regarding such initiatives not later than Sept. 30, 1994, and further directed the Secretary to take certain steps to ensure the continuation of the CHAMPUS reform initiative in the States of California and Hawaii.
+Pub. L. 102–484, div. A, title VII, §713, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, titleVII, §719, Nov. 30, 1993, 107 Stat. 1694, directed the Secretary of Defense to continue to conduct during fiscal years 1993 through 1996 a broad array of reform initiatives for furnishing health care to persons who were eligible to receive health care under chapter 55 of this title and to submit to Congress a report regarding such initiatives not later than Sept. 30, 1994, and further directed the Secretary to take certain steps to ensure the continuation of the CHAMPUS reform initiative in the States of California and Hawaii.
 
 #### Military Health Care for Persons Reliant on Health Care Facilities at Bases Being Closed or Realigned
 
-Pub. L. 102–484, div. A, title VII, §722, Oct. 23, 1992, 106 Stat. 2439, as amended by Pub. L. 108–136, div. A, title VII, §726, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 110–181, div. A, title X, §1063(i), Jan. 28, 2008, 122 Stat. 324, provided that:
-
-"(a)
-
-Establishment.—Not later than December 31, 2003, the Secretary of Defense shall establish a working group on the provision of military health care to persons who rely for health care on health care facilities located at military installations—
-
-&emsp;"(1) inside the United States that are selected for closure or realignment in the 2005 round of realignments and closures authorized by sections 2912, 2913, and 2914 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note), as added by title XXX of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 115 Stat. 1342); or
-
-&emsp;"(2) outside the United States that are selected for closure or realignment as a result of force posture changes.
-
-"(b)
-
-Membership.—The members of the working group shall include, at a minimum, the following:
-
-&emsp;"(1) The Assistant Secretary of Defense for Health Affairs, or a designee of the Assistant Secretary.
-
-&emsp;"(2) The Surgeon General of the Army, or a designee of that Surgeon General.
-
-&emsp;"(3) The Surgeon General of the Navy, or a designee of that Surgeon General.
-
-&emsp;"(4) The Surgeon General of the Air Force, or a designee of that Surgeon General.
-
-&emsp;"(5) At least one independent member (appointed by the Secretary of Defense) from each TRICARE region, but not to exceed a total of 12 members appointed under this paragraph, whose experience in matters within the responsibility of the working group qualify that person to represent persons authorized health care under chapter 55 of title 10, United States Code.
-
-"(c)
-
-Duties.—(1) In developing the recommendations for the 2005 round of realignments and closures required by sections 2913 and 2914 of the Defense Base Closure and Realignment Act of 1990 \[Pub. L. 101–510, 10 U.S.C. 268 note\], the Secretary of Defense shall consult with the working group.
-
-"(2) The working group shall be available to provide assistance to the Defense Base Closure and Realignment Commission.
-
-"(3) In the case of each military installation referred to in paragraph (1) or (2) of subsection (a) whose closure or realignment will affect the accessibility to health care services for persons entitled to such services under chapter 55 of title 10, United States Code, the working group shall provide to the Secretary of Defense a plan for the provision of the health care services to such persons.
-
-"(d)
-
-Special Considerations.—In carrying out its duties under subsection (c), the working group—
-
-&emsp;"(1) shall conduct meetings with persons entitled to health care services under chapter 55 of title 10, United States Code, or representatives of such persons;
-
-&emsp;"(2) may use reliable sampling techniques;
-
-&emsp;"(3) may visit the areas where closures or realignments of military installations will adversely affect the accessibility of health care for such persons and may conduct public meetings; and
-
-&emsp;"(4) shall ensure that members of the uniformed services on active duty, members and former members of the uniformed services entitled to retired or retainer pay, and dependents and survivors of such members and retired personnel are afforded the opportunity to express their views.
-
-"(e)
-
-Application of Advisory Committee Act.—The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established pursuant to this section.
-
-"(f)
-
-Termination.—The working group established pursuant to subsection (a) shall terminate on December 31, 2006."
-
-#### Authorization for Extension of CHAMPUS Reform Initiative
-
-Pub. L. 102–190, div. A, title VII, §722, Dec. 5, 1991, 105 Stat. 1406, provided that:
-
-"(a)
-
-Authority.—Upon the termination (for any reason) of the contract of the Department of Defense in effect on the date of the enactment of this Act \[Dec. 5, 1991\] under the CHAMPUS reform initiative established under section 702 of the National Defense Authorization Act for Fiscal Year 1987 \[Pub. L. 99–661\] (10 U.S.C. 1073 note), the Secretary of Defense may enter into a replacement or successor contract with the same or a different contractor and for such amount as may be determined in accordance with applicable procurement laws and regulations and without regard to any limitation (enacted before, on, or after the date of the enactment of this Act) on the availability of funds for that purpose.
-
-"(b)
-
-Treatment of Limitation on Funds for Program.—No provision of law stated as a limitation on the availability of funds may be treated as constituting the extension of, or as requiring the extension of, any contract under the CHAMPUS reform initiative that would otherwise expire in accordance with its terms."
-
-#### Extension of CHAMPUS Reform Initiative for Certain States
-
-Pub. L. 102–172, title VIII, §8032, Nov. 26, 1991, 105 Stat. 1178, provided: "That notwithstanding any other provision of law, the CHAMPUS Reform Initiative contract for California and Hawaii shall be extended until February 1, 1994, within the limits and rates specified in the contract: <i>Provided further</i>, That the Department shall competitively award contracts for the geographic expansion of the CHAMPUS Reform Initiative in Florida (which may include Department of Veterans Affairs medical facilities with the concurrence of the Secretary of Veterans Affairs), Washington, Oregon, and the Tidewater region of Virginia: <i>Provided further</i>, That competitive expansion of the CHAMPUS Reform Initiative may occur in any other regions that the Assistant Secretary of Defense for Health Affairs deems appropriate."
-
-#### Conditions on Expansion of CHAMPUS Reform Initiative
-
-Pub. L. 101–510, div. A, title VII, §715, Nov. 5, 1990, 104 Stat. 1584, provided that:
-
-"(a)
-
-Certification of Cost-Effectiveness.—The Secretary of Defense may not proceed with the proposed expansion of the CHAMPUS reform initiative underway in the States of California and Hawaii until not less than 90 days after the date on which the Secretary certifies to the Congress that—
-
-&emsp;"(1) such CHAMPUS reform initiative has been demonstrated to be more cost-effective than the Civilian Health and Medical Program of the Uniformed Services or any other health care demonstration program being conducted by the Secretary;
-
-&emsp;"(2) the contractor selected to underwrite the delivery of health care under the CHAMPUS reform initiative will accomplish the expansion without the disruption of services to beneficiaries under the Civilian Health and Medical Program of the Uniformed Services or delays in the processing of claims; and
-
-&emsp;"(3) such contractor is currently, and projected to remain, financially able to underwrite the CHAMPUS reform initiative.
-
-"(b)
-
-Report on Certification.—Not later than 30 days after the date on which the Secretary of Defense submits the certification required by subsection (a), the Comptroller General of the United States and the Director of the Congressional Budget Office shall jointly submit to Congress a report evaluating such certification.
-
-"(c)
-
-CHAMPUS Reform Initiative Defined.—For purposes of this section, the term 'CHAMPUS reform initiative' has the meaning given that term in section 702(d)(1) of the Department of Defense Authorization Act for Fiscal Year 1987 \[Pub. L. 99–661\] (10 U.S.C. 1073 note)."
+Pub. L. 102–484, div. A, title VII, §722, Oct. 23, 1992, 106 Stat. 2439, as amended by Pub. L. 108–136, div. A, title VII, §726, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 110–181, div. A, title X, §1063(i), Jan. 28, 2008, 122 Stat. 324, directed the Secretary of Defense to establish a working group on the provision of military health care to persons who rely on health care facilities at military installations selected for closure or realignment and provided that the working group would terminate on Dec. 31, 2006.
 
 #### Requirements Prior to Termination of Medical Services at Military Medical Treatment Facilities
 
@@ -1664,111 +1300,19 @@ Pub. L. 101–510, div. A, title VII, §716, Nov. 5, 1990, 104 Stat. 1585, prohi
 
 #### Requirement for Availability of Additional Insurance Coverage; Funding Limitations; Definition
 
-Pub. L. 100–180, div. A, title VII, §732(e)–(g), Dec. 4, 1987, 101 Stat. 1120, 1121, provided that:
-
-"(e)
-
-Requirement for Availability of Additional Insurance Coverage.—(1) The Secretary of Defense shall make every effort to enter into an agreement, similar to the one being negotiated with a private insurer on the date of the enactment of this Act \[Dec. 4, 1987\], that would provide an insurance plan that meets the requirements described in paragraph (3).
-
-"(2) If an agreement referred to in paragraph (1) is not entered into before a request for proposals with respect to the second phase of the CHAMPUS reform initiative is issued, the Secretary shall provide for an insurance plan which meets the requirements described in paragraph (3) through either of the following means:
-
-&emsp;"(A) By including, in any request for proposals with respect to the second (and any subsequent) phase of the CHAMPUS reform initiative, a requirement for the contractor to offer an option to elect an insurance plan which meets the requirements described in paragraph (3).
-
-&emsp;"(B) By including, in any request for proposals for a contract to process claims for CHAMPUS, a requirement for the contractor (known as a fiscal intermediary) to offer an option to elect an insurance plan which meets the requirements described in paragraph (3).
-
-"(3) The insurance plan requirements referred to in paragraphs (1) and (2) are the following:
-
-&emsp;"(A) At the election of the individual, the plan shall be available to an individual losing eligibility (by reason of discharge, release from active duty, a change in family status (including divorce or annulment, or, in the case of a child, reaching age 22), or other similar reason) to be a covered beneficiary under chapter 55 of title 10, United States Code.
-
-&emsp;"(B) The plan shall provide for coverage of benefits similar to the coverage of benefits available to the individual under CHAMPUS, regardless of any pre-existing condition.
-
-&emsp;"(C) The plan shall provide that enrollees in the plan shall pay the full periodic charges for the benefit coverage.
-
-"(f)
-
-Funding Limitations.—(1) None of the funds appropriated or otherwise made available to the Department of Defense may be obligated or expended for the purpose of entering into a contract for the demonstration phase of the CHAMPUS reform initiative required by section 702(a)(1) of the National Defense Authorization Act for Fiscal Year 1987 \[section 702(a)(1) of Pub. L. 99–661, set out as a note below\] until the requirements of section 702(a)(4) of such Act (as added by subsection (a)) are met.
-
-"(2) None of the funds appropriated or otherwise made available to the Department of Defense may be obligated or expended for the purpose of requesting a proposal for the second (or any subsequent) phase of the CHAMPUS reform initiative as described in section 702(c) of the National Defense Authorization Act for Fiscal Year 1987 until the requirements of paragraph (2) of section 702(c) of such Act (as added by subsection (c)) are met.
-
-"(g)
-
-CHAMPUS Defined.—In this section, the term 'CHAMPUS' has the meaning given such term by section 1072(4) of title 10, United States Code."
+Pub. L. 100–180, div. A, title VII, §732(e)–(g), Dec. 4, 1987, 101 Stat. 1120, 1121, required the Secretary of Defense to enter into an agreement that would provide individuals losing health care coverage under CHAMPUS an option to purchase an insurance plan that provided similar benefits to CHAMPUS.
 
 #### CHAMPUS Reform Initiative
 
-Pub. L. 99–661, div. A, title VII, §702, Nov. 14, 1986, 100 Stat. 3899, as amended by Pub. L. 100–180, div. A, title VII, §732(a), (c), Dec. 4, 1987, 101 Stat. 1119, provided that:
+Pub. L. 102–484, div. A, title VII, §712, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, title VII, §720, Nov. 30, 1993, 107 Stat. 1695; Pub. L. 103–337, div. A, title VII, §714(c), Oct. 5, 1994, 108 Stat. 2803, provided that the Secretary of Defense could not expand the CHAMPUS reform initiative beyond California and Hawaii until not less than 90 days after the date on which the Secretary certified that expansion to another location was the most efficient method of providing health care to beneficiaries, with an exception for locations adversely affected by military installation closures or realignments.
 
-"(a)
+Pub. L. 102–190, div. A, title VII, §722, Dec. 5, 1991, 105 Stat. 1406, authorized the Secretary of Defense to enter into a replacement or successor contract upon the termination of the Department of Defense contract in effect on Dec. 5, 1991, under the CHAMPUS reform initiative.
 
-Demonstration Project.—(1) The Secretary of Defense shall conduct a project designed to demonstrate the feasibility of improving the effectiveness of the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) through the competitive selection of contractors to financially underwrite the delivery of health care services under the program.
+Pub. L. 102–172, title VIII, §8032, Nov. 26, 1991, 105 Stat. 1178, extended the CHAMPUS reform initiative contract for California and Hawaii until Feb. 1, 1994, and required contracts to be competitively awarded for the geographic expansion of the reform initiative in certain other states and regions.
 
-"(2) The demonstration project required by paragraph (1)—
+Pub. L. 101–510, div. A, title VII, §715, Nov. 5, 1990, 104 Stat. 1584, required the Secretary of Defense to make certain cost-effectiveness certifications to Congress before the CHAMPUS reform initiative underway in California and Hawaii could expand.
 
-&emsp;"(A) shall begin not later than September 30, 1988, and continue for not less than one year;
-
-&emsp;"(B) shall include not more than one-third of covered beneficiaries; and
-
-&emsp;"(C) shall include a health care enrollment system that meets the requirements specified in section 1099 of title 10, United States Code (as added by section 701(a)(1)).
-
-"(3)(A) The Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the development of the demonstration project required by paragraph (1). Such report shall include—
-
-&emsp;"(i) a description of the scope and structure of the project;
-
-&emsp;"(ii) an estimate of the costs of the care to be provided under the project; and
-
-&emsp;"(iii) a description of the health care enrollment system included in the project.
-
-"(B) The report required by subparagraph (A) shall be submitted—
-
-&emsp;"(i) not later than 60 days before the initiation of the project, if the project is to be restricted to a contiguous area of the United States; or
-
-&emsp;"(ii) not later than 60 days before a solicitation for bids or proposals with respect to such project is issued, if the project will not be restricted to a contiguous area of the United States.
-
-"(4) The Secretary of Defense shall develop a methodology to be used in evaluating the results of the demonstration project required by paragraph (1) and shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on such methodology.
-
-"(b)
-
-Study of Health Care Alternatives.—(1) The demonstration project required by subsection (a)(1) shall include a study of—
-
-&emsp;"(A) methods to guarantee the maintenance of competition among providers of health care to persons under the jurisdiction of the Secretary;
-
-&emsp;"(B) the merits of the use of a voucher system or a fee schedule for provision of health care to such persons; and
-
-&emsp;"(C) methods to guarantee that community hospitals are given equal consideration with other health care providers for provision of health care services under contracts with the Department of Defense.
-
-"(2) The Secretary shall submit to Congress a report discussing the matters evaluated in the study required by paragraph (1) before the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 14, 1986\].
-
-"(c)
-
-Phased Implementation of CHAMPUS Reform Initiative.—(1) The Secretary of Defense may proceed with implementation of the CHAMPUS reform initiative, to be carried out in two phases during a period of not less than two years, if—
-
-&emsp;"(A) the Secretary determines, based on the results of the demonstration project required by subsection (a)(1), that such initiative should be implemented;
-
-&emsp;"(B) not less than one year elapses after the date on which the demonstration project required by subsection (a)(1) is initiated; and
-
-&emsp;"(C) 90 days elapse after the date on which the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report that includes—
-
-&emsp;&emsp;"(i) a description of the results of the demonstration project, evaluated in accordance with the methodology developed under subsection (a)(4);
-
-&emsp;&emsp;"(ii) a description of any changes the Secretary intends to make in the initiative during the proposed implementation; and
-
-&emsp;&emsp;"(iii) a comparison of the costs of providing health care under CHAMPUS with the costs of providing health care under the demonstration project and the estimated costs of providing health care under the CHAMPUS reform initiative if fully implemented.
-
-"(2) The Secretary may not issue a request for proposals with respect to the second (or any subsequent) phase of the CHAMPUS reform initiative until—
-
-&emsp;"(A) all principal features of the demonstration project, including networks of providers of health care, have been in operation for not less than one year; and
-
-&emsp;"(B) the expiration of 60 days after the date on which the report described in paragraph (1)(C) has been received by the committees referred to in such paragraph.
-
-"(d)
-
-Definitions.—In this section:
-
-&emsp;"(1) The term 'CHAMPUS reform initiative' means the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.
-
-&emsp;"(2) The term 'Civilian Health and Medical Program of the Uniformed Services' has the meaning given such term in section 1072(4) of title 10, United States Code (as added by section 701(b)).
-
-&emsp;"(3) The term 'covered beneficiary' has the meaning given such term in section 1072(5) of title 10, United States Code (as added by section 701(b))."
+Pub. L. 99–661, div. A, title VII, §702, Nov. 14, 1986, 100 Stat. 3899, as amended by Pub. L. 100–180, div. A, title VII, §732(a), (c), Dec. 4, 1987, 101 Stat. 1119, directed the Secretary of Defense to conduct a project, beginning no later than Sept. 30, 1988, to test new approaches for delivering health care to beneficiaries of the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) through the competitive selection of contractors to financially underwrite the delivery of health care services.
 
 #### Definitions
 
@@ -1776,7 +1320,7 @@ Pub. L. 114–328, div. A, title VII, §701(i), Dec. 23, 2016, 130 Stat. 2190, p
 
 &emsp;"(1) The terms 'uniformed services', 'covered beneficiary', 'TRICARE Extra', 'TRICARE for Life', 'TRICARE Prime', and 'TRICARE Standard', have the meaning given those terms in section 1072 of title 10, United States Code, as amended by subsection (j).
 
-&emsp;"(2) The term 'TRICARE Select' means the self-managed, preferred-provider network option underthe TRICARE program established by section 1075 of such title, as added by subsection (a).
+&emsp;"(2) The term 'TRICARE Select' means the self-managed, preferred-provider network option under the TRICARE program established by section 1075 of such title, as added by subsection (a).
 
 &emsp;"(3) The term 'chronic conditions' includes diabetes, chronic obstructive pulmonary disease, asthma, congestive heart failure, hypertension, history of stroke, coronary artery disease, mood disorders, and such other diseases or conditions as the Secretary considers appropriate.
 

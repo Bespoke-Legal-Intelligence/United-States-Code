@@ -26,7 +26,7 @@
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) ofPub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Subsec. (b)(3)(B). Pub. L. 109–461, §301(c)(2)(A), substituted "subparagraphs (A), (B), (D), and (E) of section 3501(a)(1) of this title." for "section 3501(a)(1) of this title under subparagraph (A)(i), (A)(ii), (B), or (D) of such section by reason of either (i) the service-connected death or (ii) service-connected total disability permanent in nature of the veteran from whom such eligibility is derived."
 

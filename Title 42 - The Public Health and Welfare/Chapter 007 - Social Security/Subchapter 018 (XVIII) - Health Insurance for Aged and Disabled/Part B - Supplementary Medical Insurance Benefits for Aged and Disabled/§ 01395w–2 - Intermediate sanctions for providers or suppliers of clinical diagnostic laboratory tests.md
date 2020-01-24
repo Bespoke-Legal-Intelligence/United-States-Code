@@ -30,7 +30,7 @@
 
 <b>1990</b>—Pub. L. 101–508 substituted "providers or suppliers of" for "providers of" in section catchline.
 
-<b>1989</b>—Pub. L. 101–234 repealed Pub. L. 100–360, §203(e)(4), and provided that the provisions of lawamended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
+<b>1989</b>—Pub. L. 101–234 repealed Pub. L. 100–360, §203(e)(4), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
 
 <b>1988</b>—Pub. L. 100–360, §203(e)(4)(A), inserted "and for qualified home intravenous drug therapy providers" at end of section catchline.
 

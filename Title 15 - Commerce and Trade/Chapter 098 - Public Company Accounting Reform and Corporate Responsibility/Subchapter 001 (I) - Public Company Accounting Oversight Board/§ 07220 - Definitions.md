@@ -24,7 +24,7 @@ For the purposes of this subchapter, the following definitions shall apply:
 
 #### (4) Dealer
 
-&emsp;The term "dealer" means a dealer (as such term is defined in section 78c(a)(5) of this title) that is required to file a balance sheet, income statement, or other financial statement under section 78q(e)(1)(A) of this title, where such balance sheet, income statement, or financial statement is required to be certified by a registered public accounting firm.
+&emsp;The term "dealer" means a dealer (as such term is defined in section 78c(a)(5) of this title)that is required to file a balance sheet, income statement, or other financial statement under section 78q(e)(1)(A) of this title, where such balance sheet, income statement, or financial statement is required to be certified by a registered public accounting firm.
 
 #### (5) Professional standards
 

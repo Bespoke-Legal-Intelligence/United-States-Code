@@ -102,7 +102,7 @@ Subsec. (c)(1)(C). Pub. L. 105–34, §966(a)(1)(C), inserted before comma at en
 
 Subsec. (c)(4). Pub. L. 105–34, §966(a)(2), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (c)(5). Pub. L. 105–34, §966(c), inserted concluding provisions "In the case of a timeshare association, such term includes property in which the timeshare association, or members of the association, have rights arising out of recorded easements, covenants, or other recorded instruments to use property related to the timeshare project."
+Subsec. (c)(5). Pub. L. 105–34, §966(c), inserted concluding provisions "In the case of a timeshare association, such term includes property in which the timeshare association, or members of the association, have rights arising out of recorded easements, covenants, orother recorded instruments to use property related to the timeshare project."
 
 Pub. L. 105–34, §966(a)(2), redesignated par. (4) as (5).
 

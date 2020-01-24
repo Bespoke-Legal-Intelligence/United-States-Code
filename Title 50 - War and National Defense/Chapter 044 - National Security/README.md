@@ -6,8 +6,8 @@
 | [3002\.](%C2%A7%2003002%20-%20Congressional%20declaration%20of%20purpose.md) | Congressional declaration of purpose. |
 | [3003\.](%C2%A7%2003003%20-%20Definitions.md) | Definitions. |
 | [3004\.](%C2%A7%2003004%20-%20Definitions%20of%20military%20departments.md) | Definitions of military departments. |
-| [3005\.](%C2%A7%2003005%20-%20Applicable%20laws.md) | Applicable laws. |
-| [3006\.](%C2%A7%2003006%20-%20Repealing%20and%20savings%20provisions.md) | Repealing and savings provisions. |
+| [3005\.](%C2%A7%2003005%20-%20Department%20of%20Defense.md) | Department of Defense. |
+| [3006\.](%C2%A7%2003006%20-%20Transferred.md) | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -38,7 +38,7 @@
 | [3040\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003040%20-%20Disclosure%20of%20foreign%20intelligence%20acquired%20in%20criminal%20investigations%3B%20notice%20of%20criminal%20investigations%20of%20foreign%20intelligence%20sources.md) | Disclosure of foreign intelligence acquired in criminal investigations; notice of criminal investigations of foreign intelligence sources. |
 | [3041\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003041%20-%20Appointment%20of%20officials%20responsible%20for%20intelligence-related%20activities.md) | Appointment of officials responsible for intelligence-related activities. |
 | [3041a.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003041a%20-%20Director%20of%20the%20National%20Reconnaissance%20Office.md) | Director of the National Reconnaissance Office. |
-| [3042\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003042%20-%20Emergency%20preparedness.md) | Emergency preparedness. |
+| [3042\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003042%20-%20Repealed.%20Pub.%20L.%20116%E2%80%9392%2C%20div.%20E%2C%20title%20LXVII%2C%20%C2%A76742%28b%29%283%29%2C%20Dec.%2020%2C%202019%2C%20133%20Stat.%202240.md) | Repealed. |
 | [3043\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003043%20-%20Annual%20national%20security%20strategy%20report.md) | Annual national security strategy report. |
 | [3043a.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003043a%20-%20National%20intelligence%20strategy.md) | National intelligence strategy. |
 | [3044\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003044%20-%20Software%20licensing.md) | Software licensing. |
@@ -57,6 +57,8 @@
 | [3056\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003056%20-%20National%20Counterterrorism%20Center.md) | National Counterterrorism Center. |
 | [3057\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003057%20-%20National%20Counter%20Proliferation%20Center.md) | National Counter Proliferation Center. |
 | [3058\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003058%20-%20National%20Intelligence%20Centers.md) | National Intelligence Centers. |
+| [3059\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003059%20-%20Foreign%20Malign%20Influence%20Response%20Center.md) | Foreign Malign Influence Response Center. |
+| [3060\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003060%20-%20Climate%20Security%20Advisory%20Council.md) | Climate Security Advisory Council. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -73,6 +75,7 @@
 | [3075\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003075%20-%20Function%20and%20Department%20of%20Defense%20defined.md) | "Function" and "Department of Defense" defined. |
 | [3076\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003076%20-%20Separability.md) | Separability. |
 | [3077\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003077%20-%20Effective%20date.md) | Effective date. |
+| [3078\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003078%20-%20Repealing%20and%20savings%20provisions.md) | Repealing and savings provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -95,12 +98,13 @@
 | [3103\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2003103%20-%20Future%20budget%20projections.md) | Future budget projections. |
 | [3104\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2003104%20-%20Reports%20on%20security%20clearances.md) | Reports on security clearances. |
 | [3105\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2003105%20-%20Summary%20of%20intelligence%20relating%20to%20terrorist%20recidivism%20of%20detainees%20held%20at%20United%20States%20Naval%20Station%2C%20Guantanamo%20Bay%2C%20Cuba.md) | Summary of intelligence relating to terrorist recidivism of detainees held at United States Naval Station, Guantanamo Bay, Cuba. |
-| [3105a.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2003105a%20-%20Annual%20assessment%20of%20intelligence%20community%20performance%20by%20function.md) | Annual assessment of intelligence community performance by function. |
+| [3105a.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2003105a%20-%20Repealed.%20Pub.%20L.%20116%E2%80%9392%2C%20div.%20E%2C%20title%20LVII%2C%20%C2%A75701%28c%29%2C%20Dec.%2020%2C%202019%2C%20133%20Stat.%202160.md) | Repealed. |
 | [3106\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2003106%20-%20Dates%20for%20submittal%20of%20various%20annual%20and%20semiannual%20reports%20to%20the%20congressional%20intelligence%20committees.md) | Dates for submittal of various annual and semiannual reports to the congressional intelligence committees. |
 | [3107\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2003107%20-%20Certification%20of%20compliance%20with%20oversight%20requirements.md) | Certification of compliance with oversight requirements. |
 | [3108\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2003108%20-%20Auditability%20of%20certain%20elements%20of%20the%20intelligence%20community.md) | Auditability of certain elements of the intelligence community. |
 | [3109\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2003109%20-%20Significant%20interpretations%20of%20law%20concerning%20intelligence%20activities.md) | Significant interpretations of law concerning intelligence activities. |
 | [3110\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2003110%20-%20Annual%20report%20on%20violations%20of%20law%20or%20executive%20order.md) | Annual report on violations of law or executive order. |
+| [3111\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2003111%20-%20Briefings%20and%20notifications%20on%20counterintelligence%20activities%20of%20the%20Federal%20Bureau%20of%20Investigation.md) | Briefings and notifications on counterintelligence activities of the Federal Bureau of Investigation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -136,6 +140,7 @@
 | :--- | ---: |
 | [3161\.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2003161%20-%20Procedures.md) | Procedures. |
 | [3162\.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2003162%20-%20Requests%20by%20authorized%20investigative%20agencies.md) | Requests by authorized investigative agencies. |
+| [3162a.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2003162a%20-%20Security%20Executive%20Agent.md) | Security Executive Agent. |
 | [3163\.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2003163%20-%20Exceptions.md) | Exceptions. |
 | [3164\.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2003164%20-%20Definitions.md) | Definitions. |
 
@@ -196,6 +201,10 @@
 | [3232\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003232%20-%20Counterintelligence%20initiatives.md) | Counterintelligence initiatives. |
 | [3233\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003233%20-%20Misuse%20of%20the%20Office%20of%20the%20Director%20of%20National%20Intelligence%20name%2C%20initials%2C%20or%20seal.md) | Misuse of the Office of the Director of National Intelligence name, initials, or seal. |
 | [3234\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003234%20-%20Prohibited%20personnel%20practices%20in%20the%20intelligence%20community.md) | Prohibited personnel practices in the intelligence community. |
+| [3235\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003235%20-%20Semiannual%20reports%20on%20investigations%20of%20unauthorized%20disclosures%20of%20classified%20information.md) | Semiannual reports on investigations of unauthorized disclosures of classified information. |
+| [3236\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003236%20-%20Inspector%20General%20external%20review%20panel.md) | Inspector General external review panel. |
+| [3237\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003237%20-%20Annual%20reports%20on%20influence%20operations%20and%20campaigns%20in%20the%20United%20States%20by%20the%20Communist%20Party%20of%20China.md) | Annual reports on influence operations and campaigns in the United States by the Communist Party of China. |
+| [3238\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003238%20-%20Annual%20reports%20on%20influence%20operations%20and%20campaigns%20in%20the%20United%20States%20by%20the%20Russian%20Federation.md) | Annual reports on influence operations and campaigns in the United States by the Russian Federation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -212,8 +221,8 @@ Chapter is comprised of act July 26, 1947, ch. 343, 61 Stat. 495, the National S
 - [&sect; 03002 - Congressional declaration of purpose](%C2%A7%2003002%20-%20Congressional%20declaration%20of%20purpose.md)
 - [&sect; 03003 - Definitions](%C2%A7%2003003%20-%20Definitions.md)
 - [&sect; 03004 - Definitions of military departments](%C2%A7%2003004%20-%20Definitions%20of%20military%20departments.md)
-- [&sect; 03005 - Applicable laws](%C2%A7%2003005%20-%20Applicable%20laws.md)
-- [&sect; 03006 - Repealing and savings provisions](%C2%A7%2003006%20-%20Repealing%20and%20savings%20provisions.md)
+- [&sect; 03005 - Department of Defense](%C2%A7%2003005%20-%20Department%20of%20Defense.md)
+- [&sect; 03006 - Transferred](%C2%A7%2003006%20-%20Transferred.md)
 - [Subchapter 001 (I) - Coordination for National Security](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/README.md)
 - [Subchapter 002 (II) - Miscellaneous Provisions](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/README.md)
 - [Subchapter 003 (III) - Accountability for Intelligence Activities](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/README.md)

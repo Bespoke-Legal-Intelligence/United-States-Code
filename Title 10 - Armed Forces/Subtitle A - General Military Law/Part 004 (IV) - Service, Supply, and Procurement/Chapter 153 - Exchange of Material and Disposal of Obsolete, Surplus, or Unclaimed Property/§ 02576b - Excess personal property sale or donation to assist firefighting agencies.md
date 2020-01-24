@@ -34,7 +34,7 @@ State.—The term "State" includes the District of Columbia, the Commonwealth of
 
 &emsp;(2)
 
-Firefighting agency.—The term "firefighting agency" means any volunteer, paid, or combined departments that provide fire and emergency medical services.
+Firefighting agency.—The term "firefighting agency" means any volunteer, paid,or combined departments that provide fire and emergency medical services.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1706(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–367; amended Pub. L. 108–375, div. A, title III, §354, Oct. 28, 2004, 118 Stat. 1861.)
 

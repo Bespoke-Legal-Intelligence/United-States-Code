@@ -36,6 +36,74 @@ Reimbursement for License Fees.—In any case in which it is necessary for a mem
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–337 added subsec. (d).
 
+#### Pilot Program on Civilian and Military Partnerships To Enhance Interoperability and Medical Surge Capability and Capacity of National Disaster Medical System
+
+Pub. L. 116–92, div. A, title VII, §740, Dec. 20, 2019, 133 Stat. 1465, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense may carry out a pilot program to establish partnerships with public, private, and nonprofit health care organizations, institutions, and entities in collaboration with the Secretary of Veterans Affairs, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Transportation to enhance the interoperability and medical surge capability and capacity of the National Disaster Medical System under section 2812 of the Public Health Service Act (42 U.S.C. 300hh–11) in the vicinity of major aeromedical and other transport hubs and logistics centers of the Department of Defense.
+
+"(b)
+
+Duration.—The Secretary of Defense may carry out the pilot program under subsection (a) for a period of not more than five years.
+
+"(c)
+
+Locations.—The Secretary shall carry out the pilot program under subsection (a) at not fewer than five aeromedical or other transport hub regions or logistics centers in the United States.
+
+"(d)
+
+Requirements.—In establishing partnerships under the pilot program under subsection (a), the Secretary, in collaboration with the Secretary of Veterans Affairs, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Transportation, shall establish requirements under such partnerships for staffing, specialized training, medical logistics, telemedicine, patient regulating, movement, situational status reporting, tracking, and surveillance.
+
+"(e)
+
+Evaluation Metrics.—The Secretary of Defense shall establish metrics to evaluate the effectiveness of the pilot program under subsection (a).
+
+"(f)
+
+Reports.—
+
+&emsp;"(1)
+
+Initial report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 180 days after the commencement of the pilot program under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program.
+
+&emsp;&emsp;"(B)
+
+Elements.—The report required by subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) A description of the pilot program.
+
+&emsp;&emsp;&emsp;"(ii) The requirements established under subsection (d).
+
+&emsp;&emsp;&emsp;"(iii) The evaluation metrics established under subsection (e).
+
+&emsp;&emsp;&emsp;"(iv) Such other matters relating to the pilot program as the Secretary considers appropriate.
+
+&emsp;"(2)
+
+Final report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 180 days after completion of the pilot program under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program.
+
+&emsp;&emsp;"(B)
+
+Elements.—The report required by subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) A description of the pilot program, including the partnerships established under the pilot program as described in subsection (a).
+
+&emsp;&emsp;&emsp;"(ii) An assessment of the effectiveness of the pilot program.
+
+&emsp;&emsp;&emsp;"(iii) An assessment of the cost of the pilot program and an estimate of the cost of making the pilot program a permanent part of the budget of the Department of Defense.
+
+&emsp;&emsp;&emsp;"(iv) Such recommendations for legislative or administrative action as the Secretary considers appropriate in light of the pilot program, including recommendations for extending or making permanent the authority for the pilot program."
+
 #### Establishment of High Performance Military-Civilian Integrated Health Delivery Systems
 
 Pub. L. 114–328, div. A, title VII, §706, Dec. 23, 2016, 130 Stat. 2206, provided that:
@@ -50,7 +118,7 @@ In General.—Not later than January 1, 2018, the Secretary of Defense shall est
 
 &emsp;"(3) to improve health outcomes for covered beneficiaries;
 
-&emsp;"(4) to share resources between the Department of Defense and the private sector, including such staff, equipment, and training assets as may be required to carry out such integrated health delivery systems;
+&emsp;"(4) to share resources between the Department of Defense and the private sector, including such staff,equipment, and training assets as may be required to carry out such integrated health delivery systems;
 
 &emsp;"(5) to maintain services within military treatment facilities that are essential for the maintenance of operational medical force readiness skills of health care providers of the Department; and
 
@@ -62,7 +130,7 @@ Elements of Systems.—Each military-civilian integrated health delivery system 
 
 &emsp;"(1) deliver high quality health care as measured by leading national health quality measurement organizations;
 
-&emsp;"(2) achieve greater efficiency in the delivery of health care by identifying and implementing withineach such system improvement opportunities that guide patients through the entire continuum of care, thereby reducing variations in the delivery of health care and preventing medical errors and duplication of medical services;
+&emsp;"(2) achieve greater efficiency in the delivery of health care by identifying and implementing within each such system improvement opportunities that guide patients through the entire continuum of care, thereby reducing variations in the delivery of health care and preventing medical errors and duplication of medical services;
 
 &emsp;"(3) improve population-based health outcomes by using a team approach to deliver case management, prevention, and wellness services to high-need and high-cost patients;
 

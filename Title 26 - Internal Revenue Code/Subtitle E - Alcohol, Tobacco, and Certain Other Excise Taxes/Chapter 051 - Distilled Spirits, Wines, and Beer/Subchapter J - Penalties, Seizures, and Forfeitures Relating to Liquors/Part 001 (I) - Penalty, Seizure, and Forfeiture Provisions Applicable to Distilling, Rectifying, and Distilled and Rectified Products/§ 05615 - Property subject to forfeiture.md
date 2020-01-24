@@ -60,7 +60,7 @@ The following property shall be forfeited to the United States:
 
 #### (7) Creation of fictitious proof
 
-&emsp;All distilled spirits on which the tax has not been paid or determined as provided by law towhich any ingredient or substance has been added for the purpose of creating fictitious proof.
+&emsp;All distilled spirits on which the tax has not been paid or determined as provided by law to which any ingredient or substance has been added for the purpose of creating fictitious proof.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1405; amended Pub. L. 96–39, title VIII, §807(a)(56), July 26, 1979, 93 Stat. 289; Pub. L. 98–369, div. A, title IV, §451(b)(2), July 18, 1984, 98 Stat. 819.)
 
@@ -68,7 +68,7 @@ The following property shall be forfeited to the United States:
 
 A prior section 5615, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to penalty for refusal or neglect of distillers and rectifiers to give assistance to officers, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5203(e) and 5687 of this title.
 
-Provisions similar to those comprising this section were contained in prior sections of act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
+Provisions similar to those comprising this section were contained in prior sections of act Aug. 16, 1954,prior to the general revision of this chapter by Pub. L. 85–859, as follows:
 
 &nbsp;
 
@@ -144,7 +144,7 @@ A prior section 5644, act Aug. 16, 1954, ch. 736, 68A Stat. 693, related to pena
 
 A prior section 5645, act Aug. 16, 1954, ch. 736, 68A Stat. 693, related to penalty for unlawful affixing, canceling, or issue of stamps by officer, prior to the general revision of this chapter by Pub. L. 85–859. See section 7214 of this title.
 
-A prior section 5646, act Aug. 16, 1954, ch. 736, 68A Stat. 693, related to penalty for evasion of distilled spirits tax, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5646, act Aug. 16, 1954, ch. 736, 68A Stat. 693, related to penalty for evasion of distilledspirits tax, prior to the general revision of this chapter by Pub. L. 85–859.
 
 A prior section 5647, act Aug. 16, 1954, ch. 736, 68A Stat. 693, related to penalty and forfeiture for unlawful use or concealment of denatured alcohol, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5273, 5601, 5607, and 5615 of this title.
 

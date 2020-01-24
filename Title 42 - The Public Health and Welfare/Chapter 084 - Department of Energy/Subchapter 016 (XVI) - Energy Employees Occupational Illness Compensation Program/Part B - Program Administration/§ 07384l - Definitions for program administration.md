@@ -18,7 +18,7 @@ In this subchapter:
 
 &emsp;&emsp;(B) An individual employed—
 
-&emsp;&emsp;&emsp;(i) at a facility with respect to which the National Institute for Occupational Safety and Health, in its report dated October 2003 and titled "Report on Residual Radioactive and Beryllium Contamination at Atomic Weapons Employer Facilities and Beryllium Vendor Facilities", or any update to that report, found that there is a potential for significant residual contamination outside of the period in which weapons-related production occurred;
+&emsp;&emsp;&emsp;(i) at a facility with respect to which the National Institute for Occupational Safety and Health, in its report dated October 2003 and titled "Report on Residual Radioactive and Beryllium Contamination atAtomic Weapons Employer Facilities and Beryllium Vendor Facilities", or any update to that report, found that there is a potential for significant residual contamination outside of the period in which weapons-related production occurred;
 
 &emsp;&emsp;&emsp;(ii) by an atomic weapons employer or subsequent owner or operators of a facility described in clause (i); and
 

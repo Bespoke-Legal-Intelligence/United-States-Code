@@ -20,7 +20,7 @@ In implementing this chapter and the amendments made by this title,<sup>1</sup> 
 
 &emsp;&emsp;(C) not later than September 30, 2020, the Administrator of the Risk Management Agency and the Administrator of the Farm Service Agency shall implement a consistent method for determining crop acreage, acreage yields, farm acreage, property descriptions, and other common informational requirements, including measures of common land units;
 
-&emsp;&emsp;(D) except in the case of misrepresentation, fraud, or scheme and device, no crop insurance agent, approved insurance provider, or employee or contractor of a crop insurance agency or approved insurance provider bears responsibility or liability under the Acreage Crop Reporting and StreamliningInitiative (or any successor or similar initiative) for the eligibility of a producer for a program administered by the Department of Agriculture, not including a policy or plan of insurance offered under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.); and
+&emsp;&emsp;(D) except in the case of misrepresentation, fraud, or scheme and device, no crop insurance agent, approved insurance provider, or employee or contractor of a crop insurance agency or approved insurance provider bears responsibility or liability under the Acreage Crop Reporting and Streamlining Initiative (or any successor or similar initiative) for the eligibility of a producer for a program administered by the Department of Agriculture, not including a policy or plan of insurance offered under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.); and
 
 &emsp;&emsp;(E) on request of a crop insurance agent or approved insurance provider required to deliver policies and plans of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) the crop insurance agent or approved insurance provider receives, in a timely manner, any information held by the Farm Service Agency that is necessary to ensure effective crop insurance coverage for farmer customers;
 
@@ -78,7 +78,7 @@ In implementing this chapter and the amendments made by this title,<sup>1</sup> 
 
 #### (1) In general
 
-&emsp;In any crop year in which an order is issued pursuant <sup>2</sup> section 901(a) of title 2, the Secretary shall use such sums as necessary of the funds of the Commodity Credit Corporation for such crop year to fully restore the support,loan, or assistance that is otherwise required under subtitle B or C, under the amendments made by subtitle B or C, or under the amendments made by subtitle B or C of the Agriculture Improvement Act of 2018,<sup>1</sup> except with respect to the assistance provided under sections 9037(c) and 9038 of this title.
+&emsp;In any crop year in which an order is issued pursuant <sup>2</sup> section 901(a) of title 2, the Secretary shall use such sums as necessary of the funds of the Commodity Credit Corporation for such crop year to fully restore the support, loan, or assistance that is otherwise required under subtitle B or C, under the amendments made by subtitle B or C, or under the amendments made by subtitle B or C of the Agriculture Improvement Act of 2018,<sup>1</sup> except with respect to the assistance provided under sections 9037(c) and 9038 of this title.
 
 #### (2) Repayment
 
@@ -120,7 +120,7 @@ In implementing this chapter and the amendments made by this title,<sup>1</sup> 
 
 &emsp;&emsp;&emsp;(vi) Titles I through X of the Food Security Act of 1985 (Public Law 99–198; 99 Stat. 1362) and the amendments made by those titles.
 
-&emsp;&emsp;&emsp;(vii) Titles I through XI of the Agriculture and Food Act of 1981 (Public Law 97–98; 95 Stat. 1218) and the amendments made by those titles.
+&emsp;&emsp;&emsp;(vii) Titles I through XI of the Agriculture and Food Act of 1981 (Public Law97–98; 95 Stat. 1218) and the amendments made by those titles.
 
 &emsp;&emsp;&emsp;(viii) Titles I through X of the Food and Agriculture Act of 1977 (Public Law 95–113; 91 Stat. 917) and the amendments made by those titles.
 
@@ -160,7 +160,7 @@ Subchapter I of this chapter, referred to in subsec. (c)(3)(A), (B)(ii)(II), was
 
 This Act, referred to in subsec. (c)(3)(B)(i), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649, known as the Agricultural Act of 2014. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
 
-The Agriculture Improvement Act of 2018, referred to in subsec. (c)(4), is Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4490. Title I of the Act enacted section 9071 of this title, amended this section and sections 608c, 1308, 1308–3a, 1359bb, 1359ll, 4504, 4553, 7272, 7333, 8737, 8772, 9011 to 9017, 9031, 9032, 9034 to 9039, 9051 to 9060, 9081, 9091, and9092 of this title, repealed sections 9019 and 9071 of this title, and enacted provisions set out as notes under sections 608c, 1308, 1308–3a, 6932, 9051, 9052, and 9081 of this title and section 6101 of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 9001 of this title and Tables.
+The Agriculture Improvement Act of 2018, referred to in subsec. (c)(4), is Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4490. Title I of the Act enacted section 9071 of this title, amended this section and sections 608c, 1308, 1308–3a, 1359bb, 1359ll, 4504, 4553, 7272, 7333, 8737, 8772, 9011 to 9017, 9031, 9032, 9034 to 9039, 9051 to 9060, 9081, 9091, and 9092 of this title, repealed sections 9019 and 9071 of this title, and enacted provisions set out as notes under sections 608c, 1308, 1308–3a, 6932, 9051, 9052, and 9081 of this title and section 6101 of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 9001 of this title and Tables.
 
 Subtitles B and C, referred to in subsec. (d), are subtitles B (§1201 et seq.) and C (§1301) of title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 674, 687. Subtitle B of title I is classified generally to subchapter II (§9031 et seq.) of this chapter. Subtitle C of title I amended sections 1359bb, 1359ll, and 7272 of this title. For complete classification of subtitles B and C to the Code, see Tables.
 
@@ -186,7 +186,7 @@ The Food and Agriculture Act of 1977, referred to in subsec. (e)(2)(B)(viii), is
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334, §1706(a), inserted ", and as adjusted pursuant to sections 9012 and 9013 of this title" before period at end.
 
-Subsec. (b). Pub. L. 115–334, §1706(b), added subsec. (b) and struck out former subsec. (b) which directed the Secretary to implement various efficiency and streamlining measures.
+Subsec. (b). Pub. L. 115–334, §1706(b), added subsec. (b) and struck out former subsec. (b) which directed theSecretary to implement various efficiency and streamlining measures.
 
 Subsec. (c)(4). Pub. L. 115–334, §1706(c), added par. (4).
 

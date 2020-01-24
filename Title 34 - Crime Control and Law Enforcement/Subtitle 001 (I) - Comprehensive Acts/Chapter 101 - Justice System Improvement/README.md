@@ -339,14 +339,14 @@
 
 |  |  |
 | :--- | ---: |
-| [10491\.](Subchapter%20022%20%28XXII%29%20-%20Family%20Support/%C2%A7%2010491%20-%20Duties.md) | Duties. |
-| [10492\.](Subchapter%20022%20%28XXII%29%20-%20Family%20Support/%C2%A7%2010492%20-%20General%20authorization.md) | General authorization. |
-| [10493\.](Subchapter%20022%20%28XXII%29%20-%20Family%20Support/%C2%A7%2010493%20-%20Uses%20of%20funds.md) | Uses of funds. |
-| [10494\.](Subchapter%20022%20%28XXII%29%20-%20Family%20Support/%C2%A7%2010494%20-%20Applications.md) | Applications. |
-| [10495\.](Subchapter%20022%20%28XXII%29%20-%20Family%20Support/%C2%A7%2010495%20-%20Award%20of%20grants%3B%20limitation.md) | Award of grants; limitation. |
-| [10496\.](Subchapter%20022%20%28XXII%29%20-%20Family%20Support/%C2%A7%2010496%20-%20Discretionary%20research%20grants.md) | Discretionary research grants. |
-| [10497\.](Subchapter%20022%20%28XXII%29%20-%20Family%20Support/%C2%A7%2010497%20-%20Reports.md) | Reports. |
-| [10498\.](Subchapter%20022%20%28XXII%29%20-%20Family%20Support/%C2%A7%2010498%20-%20Definitions.md) | Definitions. |
+| [10491\.](Subchapter%20022%20%28XXII%29%20-%20Support%20for%20Law%20Enforcement%20Officers%20and%20Families/%C2%A7%2010491%20-%20Duties.md) | Duties. |
+| [10492\.](Subchapter%20022%20%28XXII%29%20-%20Support%20for%20Law%20Enforcement%20Officers%20and%20Families/%C2%A7%2010492%20-%20General%20authorization.md) | General authorization. |
+| [10493\.](Subchapter%20022%20%28XXII%29%20-%20Support%20for%20Law%20Enforcement%20Officers%20and%20Families/%C2%A7%2010493%20-%20Uses%20of%20funds.md) | Uses of funds. |
+| [10494\.](Subchapter%20022%20%28XXII%29%20-%20Support%20for%20Law%20Enforcement%20Officers%20and%20Families/%C2%A7%2010494%20-%20Applications.md) | Applications. |
+| [10495\.](Subchapter%20022%20%28XXII%29%20-%20Support%20for%20Law%20Enforcement%20Officers%20and%20Families/%C2%A7%2010495%20-%20Award%20of%20grants%3B%20limitation.md) | Award of grants; limitation. |
+| [10496\.](Subchapter%20022%20%28XXII%29%20-%20Support%20for%20Law%20Enforcement%20Officers%20and%20Families/%C2%A7%2010496%20-%20Discretionary%20research%20grants.md) | Discretionary research grants. |
+| [10497\.](Subchapter%20022%20%28XXII%29%20-%20Support%20for%20Law%20Enforcement%20Officers%20and%20Families/%C2%A7%2010497%20-%20Reports.md) | Reports. |
+| [10498\.](Subchapter%20022%20%28XXII%29%20-%20Support%20for%20Law%20Enforcement%20Officers%20and%20Families/%C2%A7%2010498%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -368,6 +368,7 @@
 
 |  |  |
 | :--- | ---: |
+| [10530\.](Subchapter%20024%20%28XXIV%29%20-%20Matching%20Grant%20Program%20for%20Law%20Enforcement%20Armor%20Vests/%C2%A7%2010530%20-%20Patrick%20Leahy%20Bulletproof%20Vest%20Partnership%20Grant%20Program.md) | Patrick Leahy Bulletproof Vest Partnership Grant Program. |
 | [10531\.](Subchapter%20024%20%28XXIV%29%20-%20Matching%20Grant%20Program%20for%20Law%20Enforcement%20Armor%20Vests/%C2%A7%2010531%20-%20Program%20authorized.md) | Program authorized. |
 | [10532\.](Subchapter%20024%20%28XXIV%29%20-%20Matching%20Grant%20Program%20for%20Law%20Enforcement%20Armor%20Vests/%C2%A7%2010532%20-%20Applications.md) | Applications. |
 | [10533\.](Subchapter%20024%20%28XXIV%29%20-%20Matching%20Grant%20Program%20for%20Law%20Enforcement%20Armor%20Vests/%C2%A7%2010533%20-%20Definitions.md) | Definitions. |
@@ -576,7 +577,7 @@ NOW, THEREFORE, by virtue of the authority vested in the President by the Consti
 
 Section 1. The Attorney General is hereby designated to facilitate and coordinate (1) the criminal law enforcement activities and crime prevention programs of all Federal departments and agencies, and (2) the activities of such departments, and agencies relating to the development and implementation of Federal programs which are designed, in whole or in substantial part, to assist State and local law enforcement agencies and crime prevention activities. The Attorney General may promulgate such rules and regulations and take such actions as he shall deem necessary or appropriate to carry out his functions under this Order.
 
-Sec. 2. Each Federal department and agency is directed to cooperate with the Attorney General in the performance of his functions under this Order and shall, to the extent permitted by law and within the limits of available funds, furnish him such reports, information, and assistance as he may request.
+Sec. 2. Each Federal department and agency is directed to cooperate with the Attorney General in the performance of his functions under this Order and shall, to the extent permitted by law and within thelimits of available funds, furnish him such reports, information, and assistance as he may request.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -606,7 +607,7 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [Subchapter 019 (XIX) - Grants to Combat Violent Crimes Against Women](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20Combat%20Violent%20Crimes%20Against%20Women/README.md)
 - [Subchapter 020 (XX) - Grants to Encourage Arrest Policies and Enforcement of Protection Orders](Subchapter%20020%20%28XX%29%20-%20Grants%20to%20Encourage%20Arrest%20Policies%20and%20Enforcement%20of%20Protection%20Orders/README.md)
 - [Subchapter 021 (XXI) - Mental Health Courts](Subchapter%20021%20%28XXI%29%20-%20Mental%20Health%20Courts/README.md)
-- [Subchapter 022 (XXII) - Family Support](Subchapter%20022%20%28XXII%29%20-%20Family%20Support/README.md)
+- [Subchapter 022 (XXII) - Support for Law Enforcement Officers and Families](Subchapter%20022%20%28XXII%29%20-%20Support%20for%20Law%20Enforcement%20Officers%20and%20Families/README.md)
 - [Subchapter 023 (XXIII) - DNA Identification Grants](Subchapter%20023%20%28XXIII%29%20-%20DNA%20Identification%20Grants/README.md)
 - [Subchapter 024 (XXIV) - Matching Grant Program for Law Enforcement Armor Vests](Subchapter%20024%20%28XXIV%29%20-%20Matching%20Grant%20Program%20for%20Law%20Enforcement%20Armor%20Vests/README.md)
 - [Subchapter 025 (XXV) - Transition; Effective Date; Repealer](Subchapter%20025%20%28XXV%29%20-%20Transition%3B%20Effective%20Date%3B%20Repealer/README.md)

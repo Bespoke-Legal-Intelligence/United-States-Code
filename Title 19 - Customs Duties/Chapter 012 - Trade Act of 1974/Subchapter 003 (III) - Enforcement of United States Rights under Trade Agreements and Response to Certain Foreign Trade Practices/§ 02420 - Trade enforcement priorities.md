@@ -4,7 +4,7 @@
 
 #### (1) Trade enforcement priorities consultations
 
-&emsp;Not later than May 31 of each calendar year that begins after February 24, 2016, the United States Trade Representative (in this section referred to as the "Trade Representative") shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the prioritization of acts, policies, or practices of foreign governments that raise concerns with respect to obligations under the WTO Agreements or any other trade agreement to which the United States is a party, or otherwise create or maintain barriers to United States goods, services, or investment.
+&emsp;Not later than May 31 of each calendar year that begins after February 24, 2016, the United States Trade Representative (in this sectionreferred to as the "Trade Representative") shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the prioritization of acts, policies, or practices of foreign governments that raise concerns with respect to obligations under the WTO Agreements or any other trade agreement to which the United States is a party, or otherwise create or maintain barriers to United States goods, services, or investment.
 
 #### (2) Identification of trade enforcement priorities
 
@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;At the same time as the reporting under subsection (a)(3), and not later than January 31 of each following year, the Trade Representative shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the identification, prioritization, investigation, and resolution of acts, policies, or practices of foreign governments of concern with respect to obligations under the WTO Agreements or any other trade agreement towhich the United States is a party, or that otherwise create or maintain trade barriers.
+&emsp;At the same time as the reporting under subsection (a)(3), and not later than January 31 of each following year, the Trade Representative shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the identification, prioritization, investigation, and resolution of acts, policies, or practices of foreign governments of concern with respect to obligations under the WTO Agreements or any other trade agreement to which the United States is a party, or that otherwise create or maintain trade barriers.
 
 #### (2) Acts, policies, or practices of concern
 
@@ -192,13 +192,13 @@ Sec. 3. <i>Initiation of Investigations</i>. Within 90 days of the submission of
 
 #### Part II: Identification of Discriminatory Government Procurement Practices
 
-Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the submission of the National Trade Estimate Report for 1999, 2000, and 2001, the Trade Representative shall submit to the Committees on Finance and on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committees on Ways and Means and Government Reform and Oversight \[now Committee on Oversight and Government Reform\] of the House of Representatives, and shall publish in the Federal Register, a report on the extent to which foreign countries discriminate against U.S. products or services in making government procurements.
+Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the submission of the National Trade Estimate Report for 1999, 2000, and 2001, the Trade Representative shall submit to the Committees on Finance and on Governmental Affairs of the Senate and the Committees on Ways and Means and Government Reform and Oversight of the House of Representatives, and shall publish in the Federal Register, a report on the extent to which foreign countries discriminate against U.S. products or services in making government procurements.
 
 (b) In the report, the Trade Representative shall identify countries that:
 
 &emsp;(1) are not in compliance with their obligations under the World Trade Organization Agreement on Government Procurement (the GPA), Chapter 10 of the North American Free Trade Agreement (NAFTA), or other agreements relating to government procurement (procurement agreements) to which that country and the United States are parties; or
 
-&emsp;(2) maintain, in government procurement, a significant and persistent pattern or practice of discrimination against U.S. products or services that results in identifiable harm to U.S. businesses and whose products or services are acquired in significant amounts by the United States Government.
+&emsp;(2) maintain, in government procurement, a significant and persistent pattern or practice of discrimination against U.S. products or services that results inidentifiable harm to U.S. businesses and whose products or services are acquired in significant amounts by the United States Government.
 
 Sec. 2. <i>Considerations in Making Identifications</i>. In making the identifications required by section 1 of this part, the Trade Representative shall: (a) consider the requirements of the GPA, NAFTA, or other procurement agreements, government procurement practices, and the effects of such practices on U.S. businesses as a basis for evaluating whether the procurement practices of foreign governments do not provide fair market opportunities for U.S. products or services;
 

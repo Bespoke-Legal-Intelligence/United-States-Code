@@ -66,7 +66,7 @@
 
 #### (1) Enforcement of prohibition
 
-&emsp;The requirements of subsection (a)(1) shall be enforced in all States effective 24 months after June 19, 1986. States shall enforce such requirements through State or local plumbingcodes, or such other means of enforcement as the State may determine to be appropriate.
+&emsp;The requirements of subsection (a)(1) shall be enforced in all States effective 24 months after June 19, 1986. States shall enforce such requirements through State or local plumbing codes, or such other means of enforcement as the State may determine to be appropriate.
 
 #### (2) Enforcement of public notice requirements
 
@@ -88,7 +88,7 @@ If the Administrator determines that a State is not enforcing the requirements o
 
 #### (2) Calculation
 
-&emsp;The weighted average lead content of a pipe, pipe fitting, plumbing fitting, or fixture shall be calculated by using the following formula: For each wetted component, the percentage of lead in the component shall be multiplied by the ratio of the wetted surface area of that component to the total wetted surface area of the entire product to arrive at the weighted percentage of lead of the component. The weighted percentage of lead of each wetted component shall be added together, and the sum of these weighted percentages shall constitute the weighted average lead content of the product. The lead content of the material used to produce wetted components shall be used to determine compliance with paragraph (1)(B). For lead content of materials that are provided as a range, the maximum content of the range shall be used.
+&emsp;The weighted average lead content of a pipe, pipe fitting, plumbing fitting, or fixture shall be calculated by using the following formula: For each wetted component, the percentage of lead in the component shall be multiplied by the ratio of the wetted surface area of that component to the total wetted surface area of the entire product to arrive at the weighted percentage of lead of the component. The weighted percentage of lead of each wetted component shall be added together, and the sum of these weighted percentages shall constitute the weighted average lead content of the product. The lead content of the materialused to produce wetted components shall be used to determine compliance with paragraph (1)(B). For lead content of materials that are provided as a range, the maximum content of the range shall be used.
 
 #### (e) Plumbing fittings and fixtures
 

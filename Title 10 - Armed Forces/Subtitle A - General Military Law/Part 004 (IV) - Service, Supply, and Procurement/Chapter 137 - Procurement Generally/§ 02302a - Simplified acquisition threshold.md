@@ -2,7 +2,7 @@
 
 (a)
 
-Simplified Acquisition Threshold.—For purposes of acquisitions by agencies named insection 2303 of this title, the simplified acquisition threshold is as specified in section 134 of title 41.
+Simplified Acquisition Threshold.—For purposes of acquisitions by agencies named in section 2303 of this title, the simplified acquisition threshold is as specified in section 134 of title 41.
 
 (b)
 

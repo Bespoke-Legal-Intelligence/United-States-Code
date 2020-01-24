@@ -1,6 +1,6 @@
 ### §3743. Eligibility for promotion
 
-A Reserve officer is eligible for consideration for promotion and for promotion under this subchapter, if that officer is in an active status. A Reserve officer who has been considered but not recommended for retention in an active status by a board convened under subsection 3752(a) <sup>1</sup> of this title, is not eligible for consideration for promotion.
+A Reserve officer is eligible for consideration for promotion and for promotion under this subchapter, if that officer is in an active status. A Reserve officer who has been considered but not recommended for retention in an active statusby a board convened under subsection 3752(a) <sup>1</sup> of this title, is not eligible for consideration for promotion.
 
 (Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1011, §732; renumbered §3743 and amended Pub. L. 115–282, title I, §§118(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4233, 4240.)
 

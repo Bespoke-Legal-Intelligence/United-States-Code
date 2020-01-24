@@ -6,7 +6,7 @@ An agency or instrumentality of the Department of Defense that supports the oper
 
 &emsp;(2) to provide or obtain food services beneficial to the efficient management and operation of the dining facilities on military installations offering food services to members of the armed forces.
 
-(Added Pub. L. 104–201, div. A, title III, §341(a)(1), Sept. 23, 1996, 110 Stat. 2488, §2482a; renumbered §2492, Pub. L. 108–375, div. A, title VI, §651(c)(3), Oct. 28, 2004, 118 Stat. 1972; amendedPub. L. 113–291, div. A, title VI, §632, Dec. 19, 2014, 128 Stat. 3405.)
+(Added Pub. L. 104–201, div. A, title III, §341(a)(1), Sept. 23, 1996, 110 Stat. 2488, §2482a; renumbered §2492, Pub. L. 108–375, div. A, title VI, §651(c)(3), Oct. 28, 2004, 118 Stat. 1972; amended Pub. L. 113–291, div. A, title VI, §632, Dec. 19, 2014, 128 Stat. 3405.)
 
 #### Prior Provisions
 

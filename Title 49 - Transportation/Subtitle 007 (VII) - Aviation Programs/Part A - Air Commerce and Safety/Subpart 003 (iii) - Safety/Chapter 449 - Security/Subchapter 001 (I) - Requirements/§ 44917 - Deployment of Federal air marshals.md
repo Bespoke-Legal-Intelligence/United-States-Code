@@ -54,7 +54,7 @@ Watchlist screening.—The Federal Air Marshal Service may only provide appropri
 
 &emsp;(3)
 
-Fees.—The Administrator of the Transportation Security Administration shall establish reasonable fees and charges to pay expenses incurred in carrying out this subsection. Funds collected under this subsection shall be credited to the account in the Treasury from which the expenses were incurred and shall be available to the Administrator of the Transportation Security Administration for purposes for which amounts in such account are available.
+Fees.—The Administrator of the Transportation Security Administration shall establish reasonable fees and charges to pay expenses incurred in carrying out this subsection. Funds collected under this subsection shall be credited to the account in the Treasury from which the expenses were incurredand shall be available to the Administrator of the Transportation Security Administration for purposes for which amounts in such account are available.
 
 (Added Pub. L. 107–71, title I, §105(a), Nov. 19, 2001, 115 Stat. 606; amended Pub. L. 108–458, title IV, §4018, Dec. 17, 2004, 118 Stat. 3721; Pub. L. 115–254, div. K, title I, §§1959(c)(5), (d)(1), 1991(d)(15), Oct. 5, 2018, 132 Stat. 3599, 3635.)
 
@@ -128,7 +128,7 @@ Improving Federal Air Marshal Service Deployments.—
 
 &emsp;"(1)
 
-After-action reports.—The Administrator shall strengthen internal controls to ensure that all after-action reports on Federal air marshal servicespecial mission coverage provided to stakeholders include documentation of supervisory review and approval, and mandatory narratives.
+After-action reports.—The Administrator shall strengthen internal controls to ensure that all after-action reports on Federal air marshal service special mission coverage provided to stakeholders include documentation of supervisory review and approval, and mandatory narratives.
 
 &emsp;"(2)
 

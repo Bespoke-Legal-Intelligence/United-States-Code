@@ -12,7 +12,7 @@ In this chapter:
 
 &emsp;(5) The term "qualified company" means a company (or consortium of companies or an employee organization defined under section 8901(8)) that offers indemnity, preferred provider organization, health maintenance organization, or discount dental programs and if required is licensed to issue applicable coverage in any number of States, taking any subsidiaries of such a company into account (and, in the case of a consortium, considering the member companies and any subsidiaries thereof, collectively).
 
-&emsp;(6) The term "employee organization" means an association or other organization of employees which is national in scope, or in which membership is open to all employees of a Government agency who are eligible to enroll in a health benefits plan under chapter 89.
+&emsp;(6) The term "employee organization" means an association or other organization ofemployees which is national in scope, or in which membership is open to all employees of a Government agency who are eligible to enroll in a health benefits plan under chapter 89.
 
 &emsp;(7) The term "State" includes the District of Columbia.
 
@@ -36,7 +36,7 @@ Par. (8). Pub. L. 114–328, §715(a)(1)(B), added par. (8).
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–232, div. A, title VII, §713(c), Aug. 13, 2018, 132 Stat. 1812, provided that: "The amendments made by this section \[amending this section and section 1076a of Title 10, Armed Forces, and enacting provisions set out as a note under section 1076a of Title 10\] shall apply with respect to the first contract year for chapter 89A of title 5, United States Code, that begins on or after January 1, 2022."
+Pub. L. 115–232, div. A, title VII, §713(c), Aug. 13, 2018, 132 Stat. 1812, provided that: "The amendments made by this section \[amending this section and section 1076a of Title 10, Armed Forces\] shall apply with respect to the first contract year for chapter 89A of title 5, United States Code, that begins on or after January 1, 2022."
 
 #### Effective Date of 2016 Amendment
 

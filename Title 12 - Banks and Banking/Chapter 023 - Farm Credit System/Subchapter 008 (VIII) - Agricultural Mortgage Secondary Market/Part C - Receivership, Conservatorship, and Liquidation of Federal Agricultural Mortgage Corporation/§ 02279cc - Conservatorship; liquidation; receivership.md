@@ -2,7 +2,7 @@
 
 #### (a) Voluntary liquidation
 
-The Corporation may voluntarily liquidate only with the consent of, and in accordance with a plan of liquidation approved by, the Farm Credit Administration Board.
+The Corporation may voluntarily liquidate only with the consent of, and in accordance witha plan of liquidation approved by, the Farm Credit Administration Board.
 
 #### (b) Involuntary liquidation
 
@@ -28,7 +28,7 @@ The Corporation may voluntarily liquidate only with the consent of, and in accor
 
 #### (3) No effect on supervisory actions
 
-&emsp;The grounds for appointment of a conservator for the Corporation under this subsectionshall be in addition to those in section 2279bb–6 of this title.
+&emsp;The grounds for appointment of a conservator for the Corporation under this subsection shall be in addition to those in section 2279bb–6 of this title.
 
 #### (c) Appointment of conservator or receiver
 
@@ -82,7 +82,7 @@ The Corporation may voluntarily liquidate only with the consent of, and in accor
 
 #### (2) Stay of other actions
 
-&emsp;On the commencement of an action under paragraph (1), any court having jurisdiction of any other action or enforcement proceeding authorized under this chapter to which the Corporation is a party shall stay the action or proceeding during the pendency of the action for removal of the conservator or receiver.
+&emsp;On the commencement of an action under paragraph (1), any court having jurisdiction of any other action or enforcement proceedingauthorized under this chapter to which the Corporation is a party shall stay the action or proceeding during the pendency of the action for removal of the conservator or receiver.
 
 #### (e) General powers of conservator or receiver
 

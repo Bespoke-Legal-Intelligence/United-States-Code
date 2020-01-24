@@ -244,7 +244,7 @@ Program evaluation and oversight.—For each of fiscal years 2016 through 2020, 
 
 (e)
 
-Limitation on Availability of Amounts.—Amounts made available to the Secretary tocarry out this section shall remain available for obligation by the Secretary for a period of 3 years after the last day of the fiscal year for which the amounts are authorized.
+Limitation on Availability of Amounts.—Amounts made available to the Secretary to carry out this section shall remain available for obligation by the Secretary for a period of 3 years after the last day of the fiscal year for which the amounts are authorized.
 
 (f)
 

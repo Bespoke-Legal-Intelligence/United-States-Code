@@ -6,7 +6,7 @@ Establishment.—The Secretary of Defense shall establish an Industrial Base Fun
 
 (b)
 
-Control of Fund.—The Fund shall be under the control of the Under Secretary of Defense for Acquisition, Technology, and Logistics, acting through the Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy.
+Control of Fund.—The Fund shall be under the control of the Under Secretary of Defense for Acquisition and Sustainment, acting through the Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy.
 
 (c)
 
@@ -36,7 +36,7 @@ Expenditures.—The Secretary shall establish procedures for expending monies in
 
 &emsp;(2) Transfers of monies from the Fund to relevant appropriations of the Department of Defense.
 
-(Added Pub. L. 111–383, div. A, title VIII, §896(b)(1), Jan. 7, 2011, 124 Stat. 4315; amended Pub. L. 115–91, div. A, title X, §1081(g)(1), Dec. 12, 2017, 131 Stat. 1601.)
+(Added Pub. L. 111–383, div. A, title VIII, §896(b)(1), Jan. 7, 2011, 124 Stat. 4315; amended Pub. L. 115–91, div. A, title X, §1081(g)(1), Dec. 12, 2017, 131 Stat. 1601; Pub. L. 116–92, div. A, title IX, §902(75), Dec. 20, 2019, 133 Stat. 1552.)
 
 #### Prior Provisions
 
@@ -48,7 +48,9 @@ A prior section 2510, added Pub. L. 101–510, div. A, title VIII, §826(a)(1), 
 
 #### Amendments
 
-Pub. L. 115–91, §1081(g)(1), made technical amendment to directory language of Pub. L. 111–383, §896(b)(1), which added this section.
+<b>2019</b>—Subsec. (b). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
+<b>2017</b>—Pub. L. 115–91, §1081(g)(1), made technical amendment to directory language of Pub. L. 111–383, §896(b)(1), which added this section.
 
 #### Effective Date of 2017 Amendment
 

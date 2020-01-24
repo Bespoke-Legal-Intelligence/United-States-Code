@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(D) such other method as is equitable in the case;
 
-&emsp;(3) subject to sections 701, 702, 703, 1104, 1202, and 1302 of this title, the appointment of a trustee or examiner and the retention and compensation of any professional person required to assist with respect to matters relevant to the determination of interests in or disposition of such grain or the proceeds of grain; and
+&emsp;(3) subject to sections 701, 702, 703, 1104, 1183, 1202, and 1302 of this title, the appointment of a trustee or examiner and the retention and compensation of any professional person required to assist with respect to matters relevant to the determination of interests in or disposition of such grain or the proceeds of grain; and
 
 &emsp;(4) the determination of any dispute concerning a matter specified in paragraph (1), (2), or (3) of this subsection.
 
@@ -92,11 +92,17 @@
 
 (i) In all cases where the quantity of a specific type of grain held by a debtor operating a grain storage facility exceeds ten thousand bushels, such grain shall be sold by the trustee and the assets thereof distributed in accordance with the provisions of this section.
 
-(Added Pub. L. 98–353, title III, §352(a), July 10, 1984, 98 Stat. 359; amended Pub. L. 99–554, title II, §257(p), Oct. 27, 1986, 100 Stat. 3115.)
+(Added Pub. L. 98–353, title III, §352(a), July 10, 1984, 98 Stat. 359; amended Pub. L. 99–554, title II, §257(p), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 116–54, §4(a)(10), Aug. 23, 2019, 133 Stat. 1086.)
 
 #### Amendments
 
+<b>2019</b>—Subsec. (d)(3). Pub. L. 116–54 inserted "1183," after "1104,".
+
 <b>1986</b>—Subsec. (d)(3). Pub. L. 99–554 inserted reference to section 1202 of this title.
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

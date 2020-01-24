@@ -42,7 +42,7 @@ The Secretary of State shall offer to the committees referred to in subsection (
 
 &emsp;(4) analyzes the progress made by the OAS to adopt and effectively implement a practice of soliciting member quotas to be paid on a schedule that will improve the consistency of its operating budget; and
 
-&emsp;(5) analyzes the progress made by the OAS to review, streamline, and prioritize mandates tofocus on core missions and make efficient and effective use of available funding.
+&emsp;(5) analyzes the progress made by the OAS to review, streamline, and prioritize mandates to focus on core missions and make efficient and effective use of available funding.
 
 (Pub. L. 113–41, §5, Oct. 2, 2013, 127 Stat. 550.)
 

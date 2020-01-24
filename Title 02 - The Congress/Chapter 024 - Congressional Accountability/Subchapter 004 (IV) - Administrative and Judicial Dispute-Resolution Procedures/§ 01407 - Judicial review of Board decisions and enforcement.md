@@ -6,7 +6,7 @@
 
 &emsp;The United States Court of Appeals for the Federal Circuit shall have jurisdiction over any proceeding commenced by a petition of—
 
-&emsp;&emsp;(A) a party aggrieved by a final decision of the Board under section 1406(e) of this titlein cases arising under part A of subchapter II,
+&emsp;&emsp;(A) a party aggrieved by a final decision of the Board under section 1406(e) of this title in cases arising under part A of subchapter II,
 
 &emsp;&emsp;(B) a charging individual or a respondent before the Board who files a petition under section 1331(d)(4) of this title,
 

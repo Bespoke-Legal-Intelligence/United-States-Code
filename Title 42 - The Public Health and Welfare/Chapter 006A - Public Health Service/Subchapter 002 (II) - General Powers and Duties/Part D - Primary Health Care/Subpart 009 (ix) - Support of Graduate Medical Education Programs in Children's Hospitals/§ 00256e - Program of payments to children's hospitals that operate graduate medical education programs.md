@@ -148,7 +148,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 #### (1) Interim payments
 
-&emsp;The Secretary shall determine, before the beginning of each fiscal year involved for which payments may be made for a hospitalunder this section, the amounts of the payments for direct graduate medical education and indirect medical education for such fiscal year and shall (subject to paragraph (2)) make the payments of such amounts in 12 equal interim installments during such period. Such interim payments to each individual hospital shall be based on the number of residents reported in the hospital's most recently filed Medicare cost report prior to the application date for the Federal fiscal year for which the interim payment amounts are established. In the case of a hospital that does not report residents on a Medicare cost report, such interim payments shall be based on the number of residents trained during the hospital's most recently completed Medicare cost report filing period.
+&emsp;The Secretary shall determine, before the beginning of each fiscal year involved for which payments may be made for a hospital under this section, the amounts of the payments for direct graduate medical education and indirect medical education for such fiscal year and shall (subject to paragraph (2)) make the payments of such amounts in 12 equal interim installments during such period. Such interim payments to each individual hospital shall be based on the number of residents reported in the hospital's most recently filed Medicare cost report prior to the application date for the Federal fiscal year for which the interim payment amounts are established. In the case of a hospital that does not report residents on a Medicare cost report, such interim payments shall be based on the number of residents trained during the hospital's most recently completed Medicare cost report filing period.
 
 #### (2) Withholding
 
@@ -218,7 +218,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary is authorized to make available up to 25 percent of the total amounts in excess of $245,000,000 appropriated under paragraphs (1) and (2) of subsection (f), but not to exceed $7,000,000, for payments to hospitals qualified as described in paragraph (2), for the direct and indirect expenses associated with operating approved graduate medical residency training programs, as described in subsection (a).
+&emsp;The Secretary is authorized to make available up to 25 percent of the total amounts in excess of $245,000,000 appropriated under paragraphs (1) and (2) of subsection (f), but not to exceed $7,000,000, for payments to hospitalsqualified as described in paragraph (2), for the direct and indirect expenses associated with operating approved graduate medical residency training programs, as described in subsection (a).
 
 #### (2) Qualified hospitals
 

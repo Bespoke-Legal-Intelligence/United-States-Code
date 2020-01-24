@@ -6,7 +6,7 @@ It is the sense of Congress that, in order to ensure that at-risk youth, and you
 
 &emsp;(1) the Department of Justice, through its Office of Juvenile Justice and Delinquency Prevention, must restore meaningful enforcement of the core requirements in subchapter II; and
 
-&emsp;(2) States, which are entrusted with a fiscal stewardship role if they accept funds undersubchapter II <sup>1</sup> must exercise vigilant oversight to ensure full compliance with the core requirements for juveniles provided for in subchapter II.
+&emsp;(2) States, which are entrusted with a fiscal stewardship role if they accept funds under subchapter II <sup>1</sup> must exercise vigilant oversight to ensure full compliance with the core requirements for juveniles provided for in subchapter II.
 
 #### (b) Accountability
 
@@ -38,7 +38,7 @@ It is the sense of Congress that, in order to ensure that at-risk youth, and you
 
 &emsp;&emsp;&emsp;&emsp;(II) changes are necessary in the authorizing statutes of the agency in order that the functions of the agency can be performed in a more efficient and effective manner; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the agency has implemented recommendations issued by the Comptroller General or Office of Inspector General relating to the grant making and grant monitoring responsibilities of the agency.
+&emsp;&emsp;&emsp;&emsp;(III) the agency has implemented recommendations issued by the Comptroller General or Office of Inspector General relating to the grant making and grantmonitoring responsibilities of the agency.
 
 #### (iii) Considerations for audits
 
@@ -84,7 +84,7 @@ It is the sense of Congress that, in order to ensure that at-risk youth, and you
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) whether the funds awarded under subchapters II and V have been used in accordance with law, regulations, program guidance, and applicable plans; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the extent to which funds awarded to States and Indian Tribes undersubchapters II and V enhanced the ability of grantees to fulfill the core requirements.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the extent to which funds awarded to States and Indian Tribes under subchapters II and V enhanced the ability of grantees to fulfill the core requirements.
 
 #### (C) Report by the Attorney General
 
@@ -114,7 +114,7 @@ It is the sense of Congress that, in order to ensure that at-risk youth, and you
 
 #### (F) Reimbursement
 
-&emsp;&emsp;If a State or an Indian Tribe is awarded a grant under this chapter (excluding subchapter IV) during the 2-fiscal-year period in which the recipient is barred from receiving grants under subparagraph (D), the Attorney General shall—
+&emsp;&emsp;If a State or an Indian Tribe is awarded a grant under this chapter (excluding subchapter IV) during the 2-fiscal-year period in which the recipient is barred from receivinggrants under subparagraph (D), the Attorney General shall—
 
 &emsp;&emsp;&emsp;(i) deposit an amount equal to the amount of the grant funds that were improperly awarded to the grantee into the general fund of the Treasury; and
 
@@ -227,6 +227,10 @@ The Administrator shall comply with the Generally Accepted Government Auditing S
 This chapter, referred to in subsecs. (b)(2) to (5) and (c)(1), was in the original "this Act", meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of this title and Tables.
 
 The effective date of this section, referred to in subsec. (b)(6), probably means the date of enactment of Pub. L. 115–385, which was approved Dec. 21, 2018.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

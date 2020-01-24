@@ -4,7 +4,7 @@
 
 The procedures for termination of service referred to in section 3203(b)(1) of this title are procedures prescribed by the State regulatory authority (with respect to gas utilities for which it has ratemaking authority) or the nonregulated gas utility which provide that—
 
-&emsp;(1) no gas service to a gas consumer may be terminated unless reasonable prior notice (including notice of rights and remedies) is givento such consumer and such consumer has a reasonable opportunity to dispute the reasons for such termination, and
+&emsp;(1) no gas service to a gas consumer may be terminated unless reasonable prior notice (including notice of rights and remedies) is given to such consumer and such consumer has a reasonable opportunity to dispute the reasons for such termination, and
 
 &emsp;(2) during any period when termination of service to a gas consumer would be especially dangerous to health, as determined by the State regulatory authority (with respect to each gas utility for which it has ratemaking authority) or nonregulated gas utility, and such consumer establishes that—
 

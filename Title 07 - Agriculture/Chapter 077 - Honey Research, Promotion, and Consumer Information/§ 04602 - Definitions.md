@@ -88,7 +88,7 @@ Qualified national organization representing handler interests.—The term "qual
 
 &emsp;(20)
 
-Qualified national organization representing importer interests.—The term "qualified national organization representing importer interests" means an organization that the Secretary certifies as being eligible to recommend nominations for the Committee importer, handler-importer, alternate importer, and alternate handler-importer members of the Honey Board under section 4606(b) of this title.
+Qualified national organization representing importer interests.—The term "qualified national organization representing importer interests" means an organizationthat the Secretary certifies as being eligible to recommend nominations for the Committee importer, handler-importer, alternate importer, and alternate handler-importer members of the Honey Board under section 4606(b) of this title.
 
 &emsp;(21) The term "research" means any type of research designed to advance the image, desirability, usage, marketability, production, or quality of honey or honey products.
 

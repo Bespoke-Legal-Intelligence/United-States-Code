@@ -38,7 +38,7 @@ Section 52, formerly §51, of act Mar. 4, 1927, renumbered Oct. 27, 1972, Pub. L
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–426, §1(a), Sept. 28, 1984, 98 Stat. 1639, provided that: "this Act \[enacting section 942 of this title, amending this section, sections 902 to 910, 912 to 914, 917 to 919, 921 to 923, 928 to 935, 938 to 940, 944, and 948a of this title, and section 932 of Title 30, Mineral Lands and Mining, repealing sections 945 to 947 of this title, and enacting provisions set out as notes under this section and section 907 of this title\] may be cited as the 'Longshore and Harbor Workers' Compensation Act Amendments of 1984'."
+Pub. L. 98–426, §1(a), Sept. 28, 1984, 98 Stat. 1639, provided that: "this Act \[enacting section 942 of this title, amending this section, sections 902 to 910, 912 to 914, 917 to 919, 921 to 923, 928 to 935, 938 to 940, 944, and 948a of this title, and section 932 of Title 30, Mineral Lands andMining, repealing sections 945 to 947 of this title, and enacting provisions set out as notes under this section and section 907 of this title\] may be cited as the 'Longshore and Harbor Workers' Compensation Act Amendments of 1984'."
 
 #### Short Title of 1972 Amendment
 

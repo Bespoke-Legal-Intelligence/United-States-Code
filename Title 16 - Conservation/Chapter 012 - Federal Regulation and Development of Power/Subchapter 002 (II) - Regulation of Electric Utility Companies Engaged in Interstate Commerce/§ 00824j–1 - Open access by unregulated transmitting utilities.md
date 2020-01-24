@@ -36,7 +36,7 @@ If the Commission, after an evidentiary hearing held on a complaint and after gi
 
 #### (f) Application to unregulated transmitting utilities
 
-The rate changing procedures applicable to public utilities under subsections (c) and (d) ofsection 824d of this title are applicable to unregulated transmitting utilities for purposes of this section.
+The rate changing procedures applicable to public utilities under subsections (c) and (d) of section 824d of this title are applicable to unregulated transmitting utilities for purposes of this section.
 
 #### (g) Remand
 

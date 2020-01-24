@@ -6,7 +6,7 @@
 
 &emsp;(A) Enter into such contracts, cooperative agreements, joint ventures, and other transactions, in accordance with all relevant provisions of Federal law applicable to such contracts and agreements, and under reasonable terms and conditions, as may be necessary in the conduct of the business of the National Technical Information Service (hereafter in this section referred to as the "Service").
 
-&emsp;(B) In addition to the authority regarding fees contained in section 2 of the Act entitled "An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry,and for other purposes" enacted September 9, 1950 (15 U.S.C. 1152), retain and, subject to appropriations Acts, utilize its net revenues to the extent necessary to implement the plan submitted under subsection (f)(3)(D).
+&emsp;(B) In addition to the authority regarding fees contained in section 2 of the Act entitled "An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes" enacted September 9, 1950 (15 U.S.C. 1152), retain and, subject to appropriations Acts, utilize its net revenues to the extent necessary to implement the plan submitted under subsection (f)(3)(D).
 
 &emsp;(C) Enter into contracts for the performance of part or all of the functions performed by the Promotion Division of the Service prior to October 24, 1988. The details of any such contract, and a statement of its effect on the operations and personnel of the Service, shall be provided to the appropriate committees of the Congress 30 days in advance of the execution of such contract.
 
@@ -26,7 +26,7 @@
 
 > shall not be considered functions or activities for purposes of this paragraph.
 
-(3) For the purposes of this subsection, the term "net revenues" means the excess of revenues and receipts from any source, other than royalties and other income described in section 3710c(a)(4) <sup>2</sup> of this title, over operating expenses.
+(3) For the purposes of this subsection, the term "net revenues" means the excess of revenues and receipts from any source, other than royalties and other income described in section 13(a)(4) <sup>2</sup> of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710c(a)(4)), over operating expenses.
 
 (4) Omitted.
 
@@ -62,7 +62,7 @@ The Secretary of Commerce, acting through the Service, shall—
 
 &emsp;(5) implement new methods or media for the dissemination of scientific, technical, and engineering information, including producing and disseminating information products in electronic format; and
 
-&emsp;(6) carry out the functions and activities of the Secretary under the Act entitled "An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes" enacted September 9, 1950 \[15 U.S.C. 1151 et seq.\], and the functions and activities of the Secretary performed through the National Technical Information Service as of October 24, 1988, under this chapter.
+&emsp;(6) carry out the functions and activities of the Secretary under the Act entitled "An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes" enacted September 9, 1950 \[15 U.S.C. 1151 et seq.\], and the functions and activities of the Secretary performed through the National Technical Information Service as of October 24, 1988, under the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3701 et seq.\].
 
 #### (f) Notification of Congress
 
@@ -72,7 +72,7 @@ The Secretary of Commerce, acting through the Service, shall—
 
 (3) The Secretary shall submit an annual report to the Congress which shall—
 
-&emsp;(A) summarize the operations of the Service during the preceding year, including financialdetails and staff levels broken down by major activities;
+&emsp;(A) summarize the operations of the Service during the preceding year, including financial details and staff levels broken down by major activities;
 
 &emsp;(B) detail the operating plan of the Service, including specific expense and staff needs, for the upcoming year;
 
@@ -96,9 +96,11 @@ The Secretary of Commerce, acting through the Service, shall—
 
 This section, referred to in subsec. (a)(1), was in the original "this subtitle", meaning subtitle B (§§211, 212) of title II of Pub. L. 100–519, Oct. 24, 1988, 102 Stat. 2594, which enacted section 3704b of this title and amended section 3710 of this title. For complete classification of this subtitle to the Code, see Short Title of 1988 Amendment note set out under section 3701 of this title and Tables.
 
-Section 3710c(a)(4) of this title, referred to in subsec. (a)(3), was in the original a reference to section 13(a)(4) of the Stevenson-Wydler Technology Innovation Act of 1980 which was translated as reading section 14(a)(4) of the Act to reflect the probable intent of Congress and the renumbering of section 13 of the Act as section 14 by section 5122(a)(1) of Pub. L. 100–418.
+Section 13(a)(4) of the Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (a)(3), probably means section 14(a)(4) of the Act, which is classified to section 3710c(a)(4) of this title. Section 13 of the Act was renumbered section 14 by Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438.
 
 The Act entitled "An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes" enacted September 9, 1950, referred to in subsec. (e)(6), is act Sept. 9, 1950, ch. 936, 64 Stat. 823, as amended, which is classified generally to chapter 23 (§1151 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e)(6), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
 
 #### Codification
 

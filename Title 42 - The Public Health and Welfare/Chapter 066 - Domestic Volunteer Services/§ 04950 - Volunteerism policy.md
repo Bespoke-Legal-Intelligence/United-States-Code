@@ -4,7 +4,7 @@
 
 (b) The purpose of this chapter is to foster and expand voluntary citizen service in communities throughout the Nation in activities designed to help the poor, the disadvantaged, the vulnerable, and the elderly. In carrying out this purpose, the Corporation for National and Community Service shall utilize to the fullest extent the programs authorized under this chapter, coordinate with other Federal, State, and local agencies, expand relationships with, and support for, the efforts of civic, community, and educational organizations, and utilize the energy, innovative spirit, experience, and skills of all Americans.
 
-(Pub. L. 93–113, §2, as added Pub. L. 99–551, §2(a), Oct. 27, 1986, 100 Stat. 3071; amended Pub. L. 103–82, title IV, §405(a)(1), Sept. 21, 1993, 107 Stat. 920; Pub. L. 111–13, title II, §2002, Apr. 21, 2009, 123 Stat. 1581.)
+(Pub. L. 93–113, §2, as added Pub. L. 99–551, §2(a), Oct. 27, 1986, 100 Stat. 3071; amended Pub. L. 103–82, title IV, §405(a)(1), Sept. 21, 1993, 107 Stat.920; Pub. L. 111–13, title II, §2002, Apr. 21, 2009, 123 Stat. 1581.)
 
 #### References in Text
 

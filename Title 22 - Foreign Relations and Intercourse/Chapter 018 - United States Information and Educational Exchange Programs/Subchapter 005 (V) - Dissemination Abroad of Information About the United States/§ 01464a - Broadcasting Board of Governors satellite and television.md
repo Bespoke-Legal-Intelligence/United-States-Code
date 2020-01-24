@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The Broadcasting Board of Governors is authorized to lease or otherwise acquire time oncommercial or United States Government satellites for the purpose of transmitting materials and programs to posts and other users abroad.
+The Broadcasting Board of Governors is authorized to lease or otherwise acquire time on commercial or United States Government satellites for the purpose of transmitting materials and programs to posts and other users abroad.
 
 #### (b) Broadcast principles
 
-The Congress finds that the long-term interests of the United States are served by communicating directly with the peoples of the world by television. To be effective, the Broadcasting Board of Governors must win the attention and respect of viewers. These principles will therefore govern the television broadcasts of the United States International Television Service:
+The Congress finds that the long-term interests of the United States are served by communicating directly with the peoples of the world by television. To be effective, the BroadcastingBoard of Governors must win the attention and respect of viewers. These principles will therefore govern the television broadcasts of the United States International Television Service:
 
 &emsp;(1) The United States International Television Service will serve as a consistently reliable and authoritative source of news. The United States International Television Service news will be accurate and objective.
 
@@ -60,11 +60,15 @@ Pub. L. 105–277, §1335(a)(1)(A), (B), in first sentence, substituted "Broadca
 
 Subsec. (e)(3). Pub. L. 105–277, §1335(a)(1)(B), substituted "Broadcasting Board of Governors" for "United States Information Agency".
 
+#### Change of Name
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 #### Television Service of USIA
 
-Pub. L. 100–204, title II, §207, Dec. 22, 1987, 101 Stat. 1374, which provided that the television and film service of the United States Information Agency was to operate under same criteria and conditions as specified for Voice of America by section 1463 of this title, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(7), Oct. 21, 1998, 112 Stat. 2681–790.
+Pub. L. 100–204, title II, §207, Dec. 22, 1987, 101 Stat. 1374, which provided that the television and film service of the United States Information Agency was to operate under same criteria and conditions as specifiedfor Voice of America by section 1463 of this title, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(7), Oct. 21, 1998, 112 Stat. 2681–790.
 

@@ -10,7 +10,7 @@ Required Provisions for Representation.—In its constitution and bylaws, the co
 
 &emsp;(1) amateur sports organizations recognized as national governing bodies and paralympic sports organizations in accordance with section 220521 of this title, including through provisions which establish and maintain a National Governing Bodies' Council composed of representatives of the national governing bodies and any paralympic sports organizations and selected by their boards of directors or such other governing boards to ensure effective communication between the corporation and such national governing bodies and paralympic sports organizations;
 
-&emsp;(2) amateur athletes who are actively engaged in amateur athletic competition or who have represented the United States in international amateur athletic competition within the preceding 10 years, including through provisions which—
+&emsp;(2) amateur athletes who are actively engaged in amateur athletic competition or who have represented the United States in international amateur athletic competition withinthe preceding 10 years, including through provisions which—
 
 &emsp;&emsp;(A) establish and maintain an Athletes' Advisory Council composed of, and elected by, such amateur athletes to ensure communication between the corporation and such amateur athletes; and
 

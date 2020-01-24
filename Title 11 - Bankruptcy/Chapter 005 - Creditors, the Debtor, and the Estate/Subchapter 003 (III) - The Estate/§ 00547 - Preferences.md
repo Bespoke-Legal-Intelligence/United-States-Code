@@ -2,7 +2,7 @@
 
 (a) In this section—
 
-&emsp;(1) "inventory" means personal property leased or furnished, held for sale or lease, or to be furnished under a contract for service, raw materials, work in process, or materials used or consumed in a business, including farm products such as crops or livestock, held for sale or lease;
+&emsp;(1) "inventory" means personal property leased or furnished, held for sale or lease, or to be furnished under a contract for service, rawmaterials, work in process, or materials used or consumed in a business, including farm products such as crops or livestock, held for sale or lease;
 
 &emsp;(2) "new value" means money or money's worth in goods, services, or new credit, or release by a transferee of property previously transferred to such transferee in a transaction that is neither void nor voidable by the debtor or the trustee under any applicable law, including proceeds of such property, but does not include an obligation substituted for an existing obligation;
 
@@ -10,7 +10,7 @@
 
 &emsp;(4) a debt for a tax is incurred on the day when such tax is last payable without penalty, including any extension.
 
-(b) Except as provided in subsections (c) and (i) of this section, the trustee may avoid any transfer of an interest of the debtor in property—
+(b) Except as provided in subsections (c) and (i) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party's known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—
 
 &emsp;(1) to or for the benefit of a creditor;
 
@@ -112,7 +112,7 @@
 
 (i) If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided under this section only with respect to the creditor that is an insider.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 98–353, title III, §§310, 462, July 10, 1984, 98 Stat. 355, 377; Pub. L. 99–554, title II, §283(m), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title II, §203, title III, §304(f), Oct. 22, 1994, 108 Stat. 4121, 4133; Pub. L. 109–8, title II, §§201(b), 217, title IV, §§403, 409, title XII, §§1213(a), 1222, Apr. 20, 2005, 119 Stat. 42, 55, 104, 106, 194, 196.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 98–353, title III, §§310, 462, July 10, 1984, 98 Stat. 355, 377; Pub. L. 99–554, title II, §283(m), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title II, §203, title III, §304(f), Oct. 22, 1994, 108 Stat. 4121, 4133; Pub. L. 109–8, title II, §§201(b), 217, title IV, §§403, 409, title XII, §§1213(a), 1222, Apr. 20, 2005, 119 Stat. 42, 55, 104, 106, 194, 196; Pub. L. 116–54, §3(a), Aug. 23, 2019, 133 Stat. 1085.)
 
 #### Historical and Revision Notes
 
@@ -171,6 +171,8 @@ Subsection (e) is designed to reach the different results under the 1962 version
 Subsection (f) creates a presumption of insolvency for the 90 days preceding the bankruptcy case. The presumption is as defined in Rule 301 of the Federal Rules of Evidence, made applicable in bankruptcy cases by sections 224 and 225 of the bill. The presumption requires the party against whom the presumption exists to come forward with some evidence to rebut the presumption, but the burden of proof remains on the party in whose favor the presumption exists.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b). Pub. L. 116–54 inserted ", based on reasonable due diligence in the circumstances of the case and taking into account a party's known or reasonably knowable affirmative defenses under subsection (c)," after "may" in introductory provisions.
 
 <b>2005</b>—Subsec. (b). Pub. L. 109–8, §1213(a)(1), substituted "subsections (c) and (i)" for "subsection (c)" in introductory provisions.
 
@@ -237,6 +239,10 @@ Subsec. (d). Pub. L. 98–353, §462(e), substituted "The" for "A" before "trust
 Subsec. (e)(2)(C)(i). Pub. L. 98–353, §462(f), substituted "or" for "and".
 
 Subsec. (g). Pub. L. 98–353, §462(g), added subsec. (g).
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under section 101 of this title.
 
 #### Effective Date of 2005 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Liability protection
 
-A person who donates qualified fire control or rescue equipment to a volunteer fire companyshall not be liable for civil damages under any State or Federal law for personal injuries, property damage or loss, or death caused by the equipment after the donation.
+A person who donates qualified fire control or rescue equipment to a volunteer fire company shall not be liable for civil damages under any State or Federal law for personal injuries, property damage or loss, or death caused by the equipment after the donation.
 
 #### (b) Exceptions
 

@@ -28,7 +28,7 @@
 | \[2403 to 2407. Repealed or Renumbered.\] |  |
 | [2408\.](%C2%A7%2002408%20-%20Prohibition%20on%20persons%20convicted%20of%20defense-contract%20related%20felonies%20and%20related%20criminal%20penalty%20on%20defense%20contractors.md) | Prohibition on persons convicted of defense-contract related felonies and related criminal penalty on defense contractors. |
 | [2409\.](%C2%A7%2002409%20-%20Contractor%20employees%20protection%20from%20reprisal%20for%20disclosure%20of%20certain%20information.md) | Contractor employees: protection from reprisal for disclosure of certain information. |
-| \[2409a. | Repealed.\] |
+| [2409a.](%C2%A7%2002409a%20-%20Incentives%20and%20consideration%20for%20qualified%20training%20programs.md) | Incentives and consideration for qualified training programs. |
 | [2410\.](%C2%A7%2002410%20-%20Requests%20for%20equitable%20adjustment%20or%20other%20relief%20certification.md) | Requests for equitable adjustment or other relief: certification. |
 | [2410a.](%C2%A7%2002410a%20-%20Contracts%20for%20periods%20crossing%20fiscal%20years%20severable%20service%20contracts%3B%20leases%20of%20real%20or%20personal%20property.md) | Contracts for periods crossing fiscal years: severable service contracts; leases of real or personal property. |
 | [2410b.](%C2%A7%2002410b%20-%20Contractor%20inventory%20accounting%20systems%20standards.md) | Contractor inventory accounting systems: standards. |
@@ -53,6 +53,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title VIII, §864(b), Dec. 20, 2019, 133 Stat. 1523, added item 2409a.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(a)(22), Aug. 13, 2018, 132 Stat. 1984, inserted period at end of item 2410s.
 
@@ -84,7 +86,7 @@ Pub. L. 109–163, div. A, title VIII, §815(d)(2), Jan. 6, 2006, 119 Stat. 3382
 
 <b>1996</b>—Pub. L. 104–106, div. A, title VIII, §§803(b), 807(a)(2), div. D, title XLIII, §4304(c)(1), Feb. 10, 1996, 110 Stat. 390, 392, 664, struck out items 2383 "Procurement of critical aircraft and ship spare parts: quality control", 2397 "Employees or former employees of defense contractors: reports", 2397a "Requirements relating to private employment contacts between certain Department of Defense procurement officials and defense contractors", 2397b "Certain former Department of Defense procurement officials: limitations on employment by contractors", and 2397c "Defense contractors: requirements concerning former Department of Defense officials" and substituted "Lease of vehicles, equipment, vessels, and aircraft" for "Lease of vessels, aircraft, and vehicles" in item 2401a.
 
-<b>1994</b>—Pub. L. 103–355, title II, §§2102(b), 2201(b)(2), 2301(c), title III, §3065(a)(2), title VI, §6005(b)(2), Oct. 13, 1994, 108 Stat. 3309, 3318, 3321, 3337, 3365, added item 2401a, struck out items 2382 "Contract profit controls during emergency periods", 2406 "Availability of cost and pricing records", 2409a "Communicating with Government officials: defense contractor requirement to prohibit retaliatory personnel actions", and 2410e "Contract claims: certification regulations", and substituted in item 2410 "Requests for equitable adjustment or other relief: certification" for "Contract claims: certification".
+<b>1994</b>—Pub. L. 103–355, title II, §§2102(b), 2201(b)(2), 2301(c), title III, §3065(a)(2), title VI, §6005(b)(2), Oct. 13, 1994, 108 Stat. 3309, 3318, 3321, 3337, 3365, added item 2401a, struck out items 2382 "Contract profit controlsduring emergency periods", 2406 "Availability of cost and pricing records", 2409a "Communicating with Government officials: defense contractor requirement to prohibit retaliatory personnel actions", and 2410e "Contract claims: certification regulations", and substituted in item 2410 "Requests for equitable adjustment or other relief: certification" for "Contract claims: certification".
 
 Pub. L. 103–337, div. A, title III, §363(a)(2), Oct. 5, 1994, 108 Stat. 2734, added item 2410l.
 
@@ -112,7 +114,7 @@ Pub. L. 100–370, §§1(h)(3), 3(b)(2), July 19, 1988, 102 Stat. 848, 855, in i
 
 <b>1986</b>—Pub. L. 99–661, div. A, title XI, §1103(b)(2)(B), Nov. 14, 1986, 100 Stat. 3963, struck out "North Atlantic Treaty Organization" before "cooperative projects" in item 2407.
 
-Pub. L. 99–500, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–160, 1783–162, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–160, 3341–162, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2), Nov. 14, 1986, 100 Stat. 3939, 3941–3943, 3963, renumbered title IX, Pub. L. 100–26,§3(5), Apr. 21, 1987, 101 Stat. 273, amended analysis identically, substituting "Availability of cost and pricing records" for "Cost and price management" in item 2406 and adding items 2397b, 2397c, 2408, and 2409.
+Pub. L. 99–500, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–160, 1783–162, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–160, 3341–162, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2), Nov. 14, 1986, 100 Stat. 3939, 3941–3943, 3963, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, amended analysis identically, substituting "Availability of cost and pricing records" for "Cost and price management" in item 2406 and adding items 2397b, 2397c, 2408, and 2409.
 
 <b>1985</b>—Pub. L. 99–145, title IX, §§917(b), 923(a)(2), title XI, §1102(b)(2), Nov. 8, 1985, 99 Stat. 690, 697, 712, added items 2397a, 2406, and 2407.
 
@@ -188,7 +190,7 @@ Certification.—Not later than 90 days after the date of the enactment of this 
 - [&sect; 02407 - Renumbered &sect;2350b](%C2%A7%2002407%20-%20Renumbered%20%C2%A72350b.md)
 - [&sect; 02408 - Prohibition on persons convicted of defense-contract related felonies and related criminal penalty on defense contractors](%C2%A7%2002408%20-%20Prohibition%20on%20persons%20convicted%20of%20defense-contract%20related%20felonies%20and%20related%20criminal%20penalty%20on%20defense%20contractors.md)
 - [&sect; 02409 - Contractor employees protection from reprisal for disclosure of certain information](%C2%A7%2002409%20-%20Contractor%20employees%20protection%20from%20reprisal%20for%20disclosure%20of%20certain%20information.md)
-- [&sect; 02409a - Repealed. Pub. L. 103&#8211;355, title VI, &sect;6005(b)(1), Oct. 13, 1994, 108 Stat. 3365](%C2%A7%2002409a%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20VI%2C%20%C2%A76005%28b%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203365.md)
+- [&sect; 02409a - Incentives and consideration for qualified training programs](%C2%A7%2002409a%20-%20Incentives%20and%20consideration%20for%20qualified%20training%20programs.md)
 - [&sect; 02410 - Requests for equitable adjustment or other relief certification](%C2%A7%2002410%20-%20Requests%20for%20equitable%20adjustment%20or%20other%20relief%20certification.md)
 - [&sect; 02410a - Contracts for periods crossing fiscal years severable service contracts; leases of real or personal property](%C2%A7%2002410a%20-%20Contracts%20for%20periods%20crossing%20fiscal%20years%20severable%20service%20contracts%3B%20leases%20of%20real%20or%20personal%20property.md)
 - [&sect; 02410b - Contractor inventory accounting systems standards](%C2%A7%2002410b%20-%20Contractor%20inventory%20accounting%20systems%20standards.md)

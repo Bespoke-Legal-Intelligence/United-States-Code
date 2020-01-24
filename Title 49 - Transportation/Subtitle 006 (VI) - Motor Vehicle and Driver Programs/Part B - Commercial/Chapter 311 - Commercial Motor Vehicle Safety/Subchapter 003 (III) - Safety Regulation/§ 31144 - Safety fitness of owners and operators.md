@@ -126,7 +126,7 @@ Recognition of Canadian Motor Carrier Safety Fitness Determinations.—
 
 (i)
 
-Periodic Safety Reviews of Owners and Operators of Interstate For-hire Commercial Motor Vehicles Designed or Used to Transport Passengers.—
+Periodic Safety Reviews of Owners and Operators of Interstate For-hire CommercialMotor Vehicles Designed or Used to Transport Passengers.—
 
 &emsp;(1)
 
@@ -314,7 +314,7 @@ Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with te
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
+Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to betreated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1995 Amendment
 

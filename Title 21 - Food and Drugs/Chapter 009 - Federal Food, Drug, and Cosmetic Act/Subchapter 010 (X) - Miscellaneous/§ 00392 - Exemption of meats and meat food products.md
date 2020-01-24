@@ -32,7 +32,7 @@ Subsecs. (a) and (b) of this section comprise respectively subsecs. (b) and (c) 
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, see section 108(a) of Pub. L. 90–399, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
+Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, see section 108(a) of Pub. L. 90–399, set out as an Effective Dateand Transitional Provisions note under section 360b of this title.
 
 #### Availability of Appropriations
 

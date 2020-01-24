@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall carry out this subchapter through the Administrator of the SubstanceAbuse and Mental Health Services Administration.
+The Secretary shall carry out this subchapter through the Administrator of the Substance Abuse and Mental Health Services Administration.
 
 #### (b) Regulations
 

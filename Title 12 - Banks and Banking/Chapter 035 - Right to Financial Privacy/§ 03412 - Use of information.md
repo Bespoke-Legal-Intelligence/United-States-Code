@@ -58,7 +58,7 @@ Section 3401(6) of this title, referred to in subsec. (e), was redesignated sect
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–56 inserted ", or intelligence or counterintelligence activity, investigation or analysis related to international terrorism" after "legitimate law enforcement inquiry".
 
-<b>1999</b>—Subsec. (e). Pub. L. 106–102 inserted ", examination reports" after "financial records" and substituted "provision of law," for "provision of this chapter," and ", the Securities and Exchange Commission, and the Commodity Futures Trading Commission" for "and the Securities and Exchange Commission".
+<b>1999</b>—Subsec. (e). Pub. L. 106–102 inserted ", examination reports" after "financial records" and substituted "provision of law," for "provision of thischapter," and ", the Securities and Exchange Commission, and the Commodity Futures Trading Commission" for "and the Securities and Exchange Commission".
 
 <b>1992</b>—Subsec. (f)(1). Pub. L. 102–550, §1516(1), inserted "or the Secretary of the Treasury" after "the Attorney General".
 

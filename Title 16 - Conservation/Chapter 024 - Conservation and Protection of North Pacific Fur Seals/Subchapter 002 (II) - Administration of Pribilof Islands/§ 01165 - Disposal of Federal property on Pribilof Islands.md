@@ -120,7 +120,7 @@ Resolution of Federal Responsibilities.—(1) Within 9 months after the date of 
 
 &emsp;"(C) any other matters which the Secretary deems appropriate.
 
-"(2) The report required under paragraph (1) shall include the estimated costs of all actions, and shall contain the statements of the Secretary of Commerce, the Secretary of the Interior, any statement submitted by the State of Alaska, and any statements of claims or recommendations submitted by local entities and residents of the Pribilof Islands.
+"(2) The report required under paragraph (1) shall include the estimated costs of all actions, and shall contain the statements of the Secretary of Commerce, the Secretary of the Interior, any statement submitted bythe State of Alaska, and any statements of claims or recommendations submitted by local entities and residents of the Pribilof Islands.
 
 "\[(d) Redesignated as section 212 of Pub. L. 89–702, and transferred to section 1169b of this title.\]
 

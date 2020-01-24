@@ -56,7 +56,7 @@ Sale or lease.—Subject to disapproval by the Administrator within 30 days afte
 
 &emsp;(3)
 
-Fixing value.—In fixing the sale or lease value of property disposed of under paragraph (2), the Secretary of Health and Human Services shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by theState, political subdivision or instrumentality, or institution.
+Fixing value.—In fixing the sale or lease value of property disposed of under paragraph (2), the Secretary of Health and Human Services shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the State, political subdivision or instrumentality, or institution.
 
 (e)
 
@@ -136,7 +136,7 @@ Sale, lease, or donation.—Subject to disapproval by the Administrator within 3
 
 &emsp;(3)
 
-Fixing value.—In fixing the sale or lease value of property disposed of under paragraph\(2), the Chief Executive Officer shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the entity receiving the property.
+Fixing value.—In fixing the sale or lease value of property disposed of under paragraph (2), the Chief Executive Officer shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the entity receiving the property.
 
 (h)
 
@@ -148,7 +148,7 @@ Conveyance.—
 
 &emsp;&emsp;(A)
 
-In general.—Without monetary consideration to the Government, the Administrator may convey to a State, a political subdivision or instrumentality of a State, or a municipality, the right, title, and interest of the Government in and to any surplus real and related personal property that the Secretary of the Interior determines is suitable and desirable for use as a historic monument for the benefit of the public.
+In general.—Without monetary consideration to the Government, the Administrator may convey to a State, a political subdivision or instrumentality of a State, or a municipality, the right, title, and interestof the Government in and to any surplus real and related personal property that the Secretary of the Interior determines is suitable and desirable for use as a historic monument for the benefit of the public.
 
 &emsp;&emsp;(B)
 

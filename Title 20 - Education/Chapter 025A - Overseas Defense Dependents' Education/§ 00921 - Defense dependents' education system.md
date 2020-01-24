@@ -34,7 +34,7 @@ The Secretary of Defense shall consult with the Secretary of Education on the ed
 
 (3) The amounts received by the Secretary in payment of the fees shall be available to the Department of Defense for defraying the costs of conducting summer school programs under this subsection.
 
-(Pub. L. 95–561, title XIV, §1402, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 99–145, title XII, §1204(b)(1),Nov. 8, 1985, 99 Stat. 720; Pub. L. 102–484, div. A, title III, §382, Oct. 23, 1992, 106 Stat. 2392; Pub. L. 106–65, div. A, title III, §354(1), Oct. 5, 1999, 113 Stat. 572; Pub. L. 107–314, div. A, title III, §343, Dec. 2, 2002, 116 Stat. 2515.)
+(Pub. L. 95–561, title XIV, §1402, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 99–145, title XII, §1204(b)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 102–484, div. A, title III, §382, Oct. 23, 1992, 106 Stat. 2392; Pub. L. 106–65, div. A, title III, §354(1), Oct. 5, 1999, 113 Stat. 572; Pub. L. 107–314, div. A, title III, §343, Dec. 2, 2002, 116 Stat. 2515.)
 
 #### References in Text
 
@@ -62,7 +62,7 @@ Pub. L. 95–561, title XIV, §1415, Nov. 1, 1978, 92 Stat. 2373, provided that:
 
 #### Short Title
 
-Pub. L. 95–561, title XIV, §1401, Nov. 1, 1978, 92 Stat. 2365, provided that: "This title \[enacting this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a note under this section\] may be cited as the 'Defense Dependents' Education Act of 1978'."
+Pub. L. 95–561, title XIV, §1401, Nov. 1, 1978, 92 Stat. 2365, provided that: "This title \[enacting this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a noteunder this section\] may be cited as the 'Defense Dependents' Education Act of 1978'."
 
 #### Department of Defense Education Activity Policies and Procedures on Sexual Harassment of Students of Activity Schools
 
@@ -144,17 +144,5 @@ Use of Report as Master Plan for Repair, Upgrade, and Construction of Schools.�
 
 #### Pilot Program on Private Operation of Defense Dependents' Schools
 
-Pub. L. 104–106, div. A, title III, §355, Feb. 10, 1996, 110 Stat. 269, provided that:
-
-"(a)
-
-Pilot Program.—The Secretary of Defense may conduct a pilot program to evaluate the feasibility of using private contractors to operate schools of the defense dependents' education system established under section 1402(a) of the Defense Dependents' Education Act of 1978 (20 U.S.C. 921(a)).
-
-"(b)
-
-Selection of School for Program.—If the Secretary conducts the pilot program, the Secretary shall select one school of the defense dependents' education system for participation in the program and provide for the operation of the school by a private contractor for not less than one complete school year.
-
-"(c)
-
-Report.—Not later than 30 days after the end of the first school year in which the pilot program is conducted, the Secretary shall submit to Congress a report on the results of the program. The report shall include the recommendation of the Secretary with respect to the extent to which other schools of the defense dependents' education system should be operated by private contractors."
+Pub. L. 104–106, div. A, title III, §355, Feb. 10, 1996, 110 Stat. 269, provided that the Secretary of Defense could conduct a pilot program to evaluate the feasibility of using private contractors to operate overseas schools of the defense dependents' education system established under this section, subject to certain conditions and providing that no later than 30 days after the end of the first school year in which the pilot program is conducted, the Secretary would submit to Congress a report on the results of the program and a recommendation of the extent to which other schools of the defense dependents' education system should be operated by private contractors.
 

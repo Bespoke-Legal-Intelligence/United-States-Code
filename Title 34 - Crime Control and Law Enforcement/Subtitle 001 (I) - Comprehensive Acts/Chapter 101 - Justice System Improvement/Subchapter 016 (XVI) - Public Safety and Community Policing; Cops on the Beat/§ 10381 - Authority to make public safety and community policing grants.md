@@ -30,7 +30,7 @@ The purposes for which grants made under subsection (a) may be made are—
 
 &emsp;(11) to establish and implement innovative programs to increase and enhance proactive crime control and prevention programs involving law enforcement officers and young persons in the community;
 
-&emsp;(12) to establish school-based partnerships between local law enforcement agencies and local school systems by using school resource officers who operate in and around elementary and secondary schools to combat school-related crime and disorder problems, gangs, and drug activities, including the training of school resource officers in the prevention of human trafficking offenses;
+&emsp;(12) to establish school-based partnerships between local law enforcement agencies andlocal school systems by using school resource officers who operate in and around elementary and secondary schools to combat school-related crime and disorder problems, gangs, and drug activities, including the training of school resource officers in the prevention of human trafficking offenses;
 
 &emsp;(13) to develop and establish new administrative and managerial systems to facilitate the adoption of community-oriented policing as an organization-wide philosophy;
 
@@ -98,7 +98,7 @@ In awarding grants under this subchapter, the Attorney General may give preferen
 
 #### (2) Model
 
-&emsp;The technical assistance provided by the Attorney General may include the development of a flexible model that will define for State and local governments, and other public and private entities, definitions and strategies associated with community or problem-oriented policing and methodologies for its implementation.
+&emsp;The technical assistance provided by the Attorney General may include the developmentof a flexible model that will define for State and local governments, and other public and private entities, definitions and strategies associated with community or problem-oriented policing and methodologies for its implementation.
 
 #### (3) Training centers and facilities
 
@@ -308,7 +308,7 @@ COPS Grants.—The State and any Indian tribe or tribal organization in the Stat
 
 "(c)
 
-Staffing for Adequate Fire and Emergency Response Grants.—The State and any Indian tribe or tribal organization in the State that employs a village public safety officer shall be eligible to apply for a grant under the Staffing for Adequate Fire and Emergency Response program under section 34 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C.2229a) on an equal basis with other eligible applicants for funding under that program.
+Staffing for Adequate Fire and Emergency Response Grants.—The State and any Indian tribe or tribal organization in the State that employs a village public safety officer shall be eligible to apply for a grant under the Staffing for Adequate Fire and Emergency Response program under section 34 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229a) on an equal basis with other eligible applicants for funding under that program.
 
 "(d)
 

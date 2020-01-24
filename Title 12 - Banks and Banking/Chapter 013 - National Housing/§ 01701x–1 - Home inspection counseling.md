@@ -24,11 +24,11 @@
 
 #### (b) Requirement for FHA-approved lenders
 
-Each mortgagee approved for participation in the mortgage insurance programs under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] shall provide prospective homebuyers, at first contact, whether upon pre-qualification, pre-approval, or initial application, the materials specified in subparagraphs (A), (B), and (D) of subsection (a)(1).
+Each mortgagee approved for participation in the mortgage insurance programs under title II of the National Housing Act \[12 U.S.C. 1707 etseq.\] shall provide prospective homebuyers, at first contact, whether upon pre-qualification, pre-approval, or initial application, the materials specified in subparagraphs (A), (B), and (D) of subsection (a)(1).
 
 #### (c) Requirements for HUD-approved counseling agencies
 
-Each counseling agency certified pursuant by <sup>1</sup> the Secretary to provide housing counseling services shall provide each of their clients, as part of the home purchase counseling process,the materials specified in subparagraphs (C) and (D) of subsection (a)(1).
+Each counseling agency certified pursuant by <sup>1</sup> the Secretary to provide housing counseling services shall provide each of their clients, as part of the home purchase counseling process, the materials specified in subparagraphs (C) and (D) of subsection (a)(1).
 
 #### (d) Training
 

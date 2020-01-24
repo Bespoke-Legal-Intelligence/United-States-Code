@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A railroad carrier engaged in interstate or foreign commerce, a contractor or a subcontractor of such a railroad carrier, or an officer or employee of such a railroad carrier,may not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee if such discrimination is due, in whole or in part, to the employee's lawful, good faith act done, or perceived by the employer to have been done or about to be done—
+In General.—A railroad carrier engaged in interstate or foreign commerce, a contractor or a subcontractor of such a railroad carrier, or an officer or employee of such a railroad carrier, may not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee if such discrimination is due, in whole or in part, to the employee's lawful, good faith act done, or perceived by the employer to have been done or about to be done—
 
 &emsp;(1) to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to railroad safety or security, or gross fraud, waste, or abuse of Federal grants or other public funds intended to be used for railroad safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
 
@@ -66,7 +66,7 @@ Enforcement Action.—
 
 &emsp;(1)
 
-In general.—An employee who alleges discharge, discipline, or other discrimination in violation of subsection (a), (b), or (c) of thissection, may seek relief in accordance with the provisions of this section, with any petition or other request for relief under this section to be initiated by filing a complaint with the Secretary of Labor.
+In general.—An employee who alleges discharge, discipline, or other discrimination in violation of subsection (a), (b), or (c) of this section, may seek relief in accordance with the provisions of this section, with any petition or other request for relief under this section to be initiated by filing a complaint with the Secretary of Labor.
 
 &emsp;(2)
 

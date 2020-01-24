@@ -1,12 +1,8 @@
 ### §5364. Prohibition against management interlocks between certain financial companies
 
-A nonbank financial company supervised by the Board of Governors shall be treated as a bank holding company for purposes of the Depository Institutions <sup>1</sup> Management Interlocks Act (12 U.S.C. 3201 et seq.), except that the Board of Governors shall not exercise the authority provided in section 7 <sup>2</sup> of that Act (12 U.S.C. 3207) to permit service by a management official of a nonbank financial company supervised by the Board of Governors as a management official of any bank holding company with total consolidated assets equal to or greater than $250,000,000,000, or other nonaffiliated nonbank financial company supervised by the Board of Governors (other than to provide atemporary exemption for interlocks resulting from a merger, acquisition, or consolidation).
+A nonbank financial company supervised by the Board of Governors shall be treated as a bank holding company for purposes of the Depository Institutions <sup>1</sup> Management Interlocks Act (12 U.S.C. 3201 et seq.), except that the Board of Governors shall not exercise the authority provided in section 7 <sup>2</sup> of that Act (12 U.S.C. 3207) to permit service by a management official of a nonbank financial company supervised by the Board of Governors as a management official of any bank holding company with total consolidated assets equal to or greater than $250,000,000,000, or other nonaffiliated nonbank financial company supervised by the Board of Governors (other than to provide a temporary exemption for interlocks resulting from a merger, acquisition, or consolidation).
 
 (Pub. L. 111–203, title I, §164, July 21, 2010, 124 Stat. 1423; Pub. L. 115–174, title IV, §401(c)(1)(F), May 24, 2018, 132 Stat. 1358.)
-
-#### Delayed Effective Date of Amendment
-
-<i>For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under section 5365 of this title.</i>
 
 #### References in Text
 

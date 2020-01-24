@@ -32,7 +32,7 @@ Content.—The program to be carried out under this section shall include resear
 
 &emsp;(8) to improve maintenance, operations, customer service, or other aspects of intercity rail passenger and freight service;
 
-&emsp;(9) to recommend objective methodologies for determining intercity passenger rail routesand services, including the establishment of new routes, the elimination of existing routes, and the contraction or expansion of services or frequencies over such routes;
+&emsp;(9) to recommend objective methodologies for determining intercity passenger rail routes and services, including the establishment of new routes, the elimination of existing routes, and the contraction or expansion of services or frequencies over such routes;
 
 &emsp;(10) to review the impact of equipment and operational safety standards on the further development of high-speed passenger rail operations connected to or integrated with non-high-speed freight or passenger rail operations;
 

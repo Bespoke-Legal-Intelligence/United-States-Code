@@ -68,7 +68,7 @@ Soundproofing and acquisition of certain residential buildings and properties.â€
 
 &emsp;(D) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof a building in the noise impact area surrounding the airport that is used primarily for educational or medical purposes and that the Secretary decides is adversely affected by airport noise;
 
-&emsp;(E) to an airport operator of a congested airport (as defined in section 47175) and a unit of local government referred to in paragraph (1)(B) of this subsection to carry out a project to mitigate noise in the area surrounding the airport if the project is included as a commitment in a record of decision of the Federal Aviation Administration for an airport capacity enhancement project (as defined in section 47175) even if that airport has not met the requirements of part 150 of title 14, Code of Federal Regulations; and
+&emsp;(E) to an airport operator of a congested airport (as defined in section 47175) and a unit oflocal government referred to in paragraph (1)(B) of this subsection to carry out a project to mitigate noise in the area surrounding the airport if the project is included as a commitment in a record of decision of the Federal Aviation Administration for an airport capacity enhancement project (as defined in section 47175) even if that airport has not met the requirements of part 150 of title 14, Code of Federal Regulations; and
 
 &emsp;(F) to an airport operator of a congested airport (as defined in section 47175) and a unit of local government referred to in paragraph (1)(B) to carry out a project to mitigate noise, if the projectâ€”
 

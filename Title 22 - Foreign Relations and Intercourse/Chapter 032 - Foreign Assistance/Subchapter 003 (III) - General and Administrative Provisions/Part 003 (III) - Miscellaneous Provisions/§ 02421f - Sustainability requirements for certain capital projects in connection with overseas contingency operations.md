@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) amounts authorized to be appropriated for the Department of Defense may not be obligated or expended for a capital project described in subsection (b) unless the Secretary of Defense, in consultation with the United States commander of military operations in the country in which the project will be carried out, completes an assessment on the necessity and sustainability of the project;
 
-&emsp;&emsp;(B) amounts authorized to be appropriated for the Department of State may not be obligated or expended for a capital project described in subsection (b) unless the Secretary of State, in consultation with theChief of Mission in the country in which the project will be carried out, completes an assessment on the necessity and sustainability of the project; and
+&emsp;&emsp;(B) amounts authorized to be appropriated for the Department of State may not be obligated or expended for a capital project described in subsection (b) unless the Secretary of State, in consultation with the Chief of Mission in the country in which the project will be carried out, completes an assessment on the necessity and sustainability of the project; and
 
 &emsp;&emsp;(C) amounts authorized to be appropriated for the United States Agency for International Development may not be obligated or expended for a capital project described in subsection (b) unless the Administrator of the United States Agency for International Development, in consultation with the Mission Director and the Chief of Mission in the country in which the project will be carried out, completes an assessment on the necessity and sustainability of the project.
 
@@ -91,4 +91,8 @@ In this section:
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2013, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives byHouse Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

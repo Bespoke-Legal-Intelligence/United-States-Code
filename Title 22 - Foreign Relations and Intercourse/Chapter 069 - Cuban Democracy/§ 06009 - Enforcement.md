@@ -2,7 +2,7 @@
 
 #### (a) Enforcement authority
 
-The authority to enforce this chapter shall be carried out by the Secretary of the Treasury. The Secretary of the Treasury shall exercise the authorities of the Trading With the Enemy Act \[50 U.S.C. 4301 et seq.\] in enforcing this chapter. In carrying out this subsection, the Secretary ofthe Treasury shall take the necessary steps to ensure that activities permitted under section 6004 of this title are carried out for the purposes set forth in this chapter and not for purposes of the accumulation by the Cuban Government of excessive amounts of United States currency or the accumulation of excessive profits by any person or entity.
+The authority to enforce this chapter shall be carried out by the Secretary of the Treasury. The Secretary of the Treasury shall exercise the authorities of the Trading With the Enemy Act \[50 U.S.C. 4301 et seq.\] in enforcing this chapter. In carrying out this subsection, the Secretary of the Treasury shall take the necessary steps to ensure that activities permitted under section 6004 of this title are carried out for the purposes set forth in this chapter and not for purposes of the accumulation by the Cuban Government of excessive amounts of United States currency or the accumulation of excessive profits by any person or entity.
 
 #### (b) Authorization of appropriations
 
@@ -22,7 +22,7 @@ The Department of the Treasury shall establish and maintain a branch of the Offi
 
 #### References in Text
 
-The Trading With the Enemy Act, referred to in subsecs. (a) and (d), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified to chapter 53 (§4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, referred to in subsecs. (a) and (d), is act Oct. 6, 1917, ch. 106, 40 Stat. 411,which is classified to chapter 53 (§4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

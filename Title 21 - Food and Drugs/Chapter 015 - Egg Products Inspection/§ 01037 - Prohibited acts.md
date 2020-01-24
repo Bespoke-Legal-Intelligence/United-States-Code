@@ -40,7 +40,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1), (2), (e)(7), (8), and (f), was in the original "this Act", meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
+This chapter, referred to in subsecs. (b)(1), (2), (e)(7), (8), and (f), was in the original "this Act", meaningPub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
 
 #### Amendments
 

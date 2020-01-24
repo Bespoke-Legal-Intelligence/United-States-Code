@@ -14,7 +14,7 @@ In general.—An appointing official may select any applicant in the highest qua
 
 &emsp;(2)
 
-Use by other appointing officials.—Under regulations prescribed by the Office of Personnel Management, appointing officials other than the appointing official described in paragraph (1) (in this subsection referred to as the "other appointing official") may select anapplicant for an appointment to a position that is—
+Use by other appointing officials.—Under regulations prescribed by the Office of Personnel Management, appointing officials other than the appointing official described in paragraph (1) (in this subsection referred to as the "other appointing official") may select an applicant for an appointment to a position that is—
 
 &emsp;&emsp;(A) in the same occupational series as the position for which the certification of eligibles was issued (in this subsection referred to as the "original position"); and
 
@@ -64,7 +64,7 @@ Preference eligibles.—Notwithstanding paragraphs (1) and (2), an appointing of
 
 #### Amendment of Section
 
-<i>Pub. L. 115–232, div. A, title XI, §1107(b)(1), (d), Aug. 13, 2018, 132 Stat. 2005, provided that, effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, this section is amended—</i>
+<i>Pub. L. 115–232, div. A, title XI, §1107(b)(1), (d), Aug. 13, 2018, 132 Stat. 2005, provided that, effective on the date on which the Director of the Office of Personnel Management issues final regulations for implementation, with such regulations due not later than one year after Aug. 13, 2018, this section is amended—</i>
 
 <i>(1) by amending the section heading to read as follows: "§3319. Competitive service; selection using category rating"; and</i>
 
@@ -100,7 +100,7 @@ A prior section 3319, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 421, related to 
 
 <b>2018</b>—Pub. L. 115–232, §1107(b)(1)(A), substituted "Competitive service; selection using category rating" for "Alternative ranking and selection procedures" in section catchline.
 
-Subsec. (c)(6). Pub. L. 115–232, §1107(b)(1)(B), redesignated par. (7) as (6) and amended it generally. Prior to amendment, text read as follows: "Notwithstanding paragraphs (1) and (2), an appointing official may notpass over a preference eligible in the same category from which selection is made, unless the requirements of section 3317(b) and 3318(c), as applicable, are satisfied."
+Subsec. (c)(6). Pub. L. 115–232, §1107(b)(1)(B), redesignated par. (7) as (6) and amended it generally. Prior to amendment, text read as follows: "Notwithstanding paragraphs (1) and (2), an appointing official may not pass over a preference eligible in the same category from which selection is made, unless the requirements of section 3317(b) and 3318(c), as applicable, are satisfied."
 
 Pub. L. 115–232, §1107(b)(1)(B), struck out par. (6). Text read as follows: "Nothing in this subsection limits any collective bargaining obligation of an agency under chapter 71."
 
@@ -114,7 +114,7 @@ Subsec. (c)(7). Pub. L. 115–232, §1107(b)(1)(B), redesignated par. (7) as (6)
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, see section 1107(d) of Pub. L. 115–232, set out as a note under section 3317 of this title.
+Amendment by Pub. L. 115–232 effective on the date on which the Director of the Office of Personnel Management issues final regulations for implementation, with such regulations due not later than one year after Aug. 13, 2018, see section 1107(d) of Pub. L. 115–232, set out as a note under section 3317 of this title.
 
 #### Effective Date
 

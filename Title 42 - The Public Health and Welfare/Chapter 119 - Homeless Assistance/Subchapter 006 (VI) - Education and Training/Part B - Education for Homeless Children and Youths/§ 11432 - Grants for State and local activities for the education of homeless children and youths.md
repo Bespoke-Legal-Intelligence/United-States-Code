@@ -56,7 +56,7 @@ Grants under this section shall be used for the following:
 
 #### (1) Minimum disbursements by States
 
-&emsp;From the sums made available each year to a State through grants under subsection (a) to carry out this part, the State educational agency shall distribute not less than 75 percent in subgrants to local educational agencies for the purposes of carrying out section 11433 of this title, except that States funded atthe minimum level set forth in subsection (c)(1) shall distribute not less than 50 percent in subgrants to local educational agencies for the purposes of carrying out section 11433 of this title.
+&emsp;From the sums made available each year to a State through grants under subsection (a) to carry out this part, the State educational agency shall distribute not less than 75 percent in subgrants to local educational agencies for the purposes of carrying out section 11433 of this title, except that States funded at the minimum level set forth in subsection (c)(1) shall distribute not less than 50 percent in subgrants to local educational agencies for the purposes of carrying out section 11433 of this title.
 
 #### (2) Use by State educational agency
 
@@ -206,7 +206,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;(4) in order to improve the provision of comprehensive education and related services to homeless children and youths and their families, coordinate activities and collaborate with—
 
-&emsp;&emsp;(A) educators, including teachers, special education personnel, administrators, andchild development and preschool program personnel;
+&emsp;&emsp;(A) educators, including teachers, special education personnel, administrators, and child development and preschool program personnel;
 
 &emsp;&emsp;(B) providers of services to homeless children and youths and their families, including public and private child welfare and social services agencies, law enforcement agencies, juvenile and family courts, agencies providing mental health services, domestic violence agencies, child care providers, runaway and homeless youth centers, and providers of services and programs funded under the Runaway and Homeless Youth Act (42 U.S.C. 5701 et seq.); <sup>1</sup>
 
@@ -260,7 +260,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;(v) uniform or dress code requirements.
 
-&emsp;&emsp;(I) A demonstration that the State educational agency and local educational agencies in the State have developed, and shall review and revise, policies to remove barriers to the identification of homeless children and youths, and the enrollment and retention of homeless children and youths in schools in the State, including barriers to enrollment and retention due to outstanding fees or fines, or absences.
+&emsp;&emsp;(I) A demonstration that the State educational agency and local educational agencies in the State have developed, and shall review and revise, policies to remove barriers to the identification of homeless children and youths, and the enrollment and retention of homeless children and youths inschools in the State, including barriers to enrollment and retention due to outstanding fees or fines, or absences.
 
 &emsp;&emsp;(J) Assurances that the following will be carried out:
 
@@ -527,6 +527,10 @@ Subsec. (g). Pub. L. 114–95, §9102(5), added subsec. (g) and struck out forme
 Subsec. (h). Pub. L. 114–95, §9102(6), struck out subsec. (h) which related to emergency assistance for certain individuals who become homeless due to home foreclosure.
 
 <b>2008</b>—Subsec. (h). Pub. L. 110–289 added subsec. (h).
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Duty of States; status of projects; title to property
 
-To maintain fish-restoration and management projects established under the provisions of this chapter shall be the duty of the States according to their respective laws. Beginning July 1, 1953, maintenance of projects heretofore completed under the provisions of this chapter maybe considered as projects under this chapter. Title to any real or personal property acquired by any State, and to improvements placed on State-owned lands through the use of funds paid to the State under the provisions of this chapter, shall be vested in such State.
+To maintain fish-restoration and management projects established under the provisions of this chapter shall be the duty of the States according to their respective laws. Beginning July 1, 1953, maintenance of projects heretofore completed under the provisions of this chapter may be considered as projects under this chapter. Title to any real or personal property acquired by any State, and to improvements placed on State-owned lands through the use of funds paid to the State under the provisions of this chapter, shall be vested in such State.
 
 #### (b) Funding requirements
 
@@ -70,7 +70,7 @@ Amounts apportioned to States under section 777c of this title may be used to pa
 
 #### (4) Funding
 
-&emsp;A State that conducts a public boat access needs survey under paragraph (2) may fund the costs of conducting that assessment out ofamounts allocated to it as funding dedicated to motorboat access to recreational waters under subsection (b)(1) of this section.
+&emsp;A State that conducts a public boat access needs survey under paragraph (2) may fund the costs of conducting that assessment out of amounts allocated to it as funding dedicated to motorboat access to recreational waters under subsection (b)(1) of this section.
 
 (Aug. 9, 1950, ch. 658, §8, 64 Stat. 433; Pub. L. 91–503, title II, §202, Oct. 23, 1970, 84 Stat. 1103; Pub. L. 98–369, div. A, title X, §1014(a)(6), July 18, 1984, 98 Stat. 1016; Pub. L. 102–587, title V, §5604(b), Nov. 4, 1992, 106 Stat. 5088; Pub. L. 105–178, title VII, §§7402(c), 7404(b), June 9, 1998, 112 Stat. 484, 486; Pub. L. 105–206, title IX, §9012(c), July 22, 1998, 112 Stat. 864; Pub. L. 109–59, title X, §10114, Aug. 10, 2005, 119 Stat. 1928; Pub. L. 114–94, div. A, title X, §10001(d), Dec. 4, 2015, 129 Stat. 1621.)
 

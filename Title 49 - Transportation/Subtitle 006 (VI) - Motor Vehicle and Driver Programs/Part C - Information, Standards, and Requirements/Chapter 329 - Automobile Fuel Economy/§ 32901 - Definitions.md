@@ -110,7 +110,7 @@ Authority To Change Percentage.—The Secretary may prescribe regulations changi
 
 (c)
 
-Minimum Driving Ranges for Dual Fueled Passenger Automobiles.—(1) The Secretary shall prescribe by regulation the minimum driving range that dual fueled automobiles that are passenger automobiles must meet when operating on alternative fuel to be dual fueled automobiles under sections 32905 and 32906 of this title. A determination whether a dual fueled automobile meets the minimum driving range requirement under this paragraph shall be based on the combined Agency city/highway fuel economy as determined for average fuel economy purposes for those automobiles.
+Minimum Driving Ranges for Dual Fueled Passenger Automobiles.—(1) The Secretary shall prescribe by regulation the minimum driving range that dual fueled automobiles that are passenger automobiles must meet when operating on alternative fuel to be dual fueled automobiles under sections 32905 and 32906 of this title. A determination whether a dualfueled automobile meets the minimum driving range requirement under this paragraph shall be based on the combined Agency city/highway fuel economy as determined for average fuel economy purposes for those automobiles.
 
 (2)(A) The Secretary may prescribe a lower range for a specific model than that prescribed under paragraph (1) of this subsection. A manufacturer may petition for a lower range than that prescribed under paragraph (1) for a specific model.
 
@@ -424,7 +424,7 @@ Regulations.—Notwithstanding the requirements of section 553 of title 5, Unite
 
 &emsp;&emsp;"(A) requirements for the removal and appropriate disposition of refrigerants, antifreeze, lead products, mercury switches, and such other toxic or hazardous vehicle components prior to the crushing or shredding of an eligible trade-in vehicle, in accordance with rules established by the Secretary in consultation with the Administrator of the Environmental Protection Agency, and in accordance with other applicable Federal or State requirements;
 
-&emsp;&emsp;"(B) a mechanism for dealers to certify to the Secretary that each eligible trade-in vehicle will betransferred to an entity that will ensure that the vehicle is disposed of, in accordance with such requirements and procedures, and to submit the vehicle identification numbers of the vehicles disposed of and the new fuel efficient automobile purchased with each voucher;
+&emsp;&emsp;"(B) a mechanism for dealers to certify to the Secretary that each eligible trade-in vehicle will be transferred to an entity that will ensure that the vehicle is disposed of, in accordance with such requirements and procedures, and to submit the vehicle identification numbers of the vehicles disposed of and the new fuel efficient automobile purchased with each voucher;
 
 &emsp;&emsp;"(C) a mechanism for obtaining such other certifications as deemed necessary by the Secretary from entities engaged in vehicle disposal; and
 
@@ -442,7 +442,7 @@ Violation.—It shall be unlawful for any person to violate any provision under 
 
 &emsp;"(2)
 
-Penalties.—Any person who commits a violation described in paragraph (1) shall be liable to the United States Government for a civil penalty of not more than $15,000 for each violation. The Secretary shall have the authority to assess and compromise such penalties, and shall have the authority to require from any entity the records and inspections necessary to enforce this program. In determining the amount of the civil penalty, the severity of the violation and the intent and history of the person committing the violation shall be taken into account.
+Penalties.—Any person who commits a violation described in paragraph (1) shall be liable to the United States Government for a civil penalty of not more than $15,000 for each violation. The Secretary shall have the authority to assess and compromise such penalties, and shall have the authority to require from any entity the records and inspections necessary to enforce this program. In determining the amount of the civil penalty, the severity of theviolation and the intent and history of the person committing the violation shall be taken into account.
 
 "(f)
 

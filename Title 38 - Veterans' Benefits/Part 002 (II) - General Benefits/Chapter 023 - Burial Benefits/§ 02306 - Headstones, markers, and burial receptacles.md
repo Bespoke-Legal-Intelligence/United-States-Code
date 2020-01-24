@@ -18,7 +18,7 @@
 
 &emsp;(A) A veteran.
 
-&emsp;(B) An individual who dies on or after November 11, 1998, who is the spouse or survivingspouse of a veteran, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse's death if such death occurs before October 1, 2024.
+&emsp;(B) An individual who dies on or after November 11, 1998, who is the spouse or surviving spouse of a veteran, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse's death if such death occurs before October 1, 2024.
 
 &emsp;(C) An individual who dies on or after November 11, 1998, who is an eligible dependent child of a veteran, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the child's death if such death occurs before October 1, 2024.
 
@@ -80,7 +80,7 @@
 
 (C) The Secretary of the Interior shall provide an outer burial receptacle for each such a grave in an open national cemetery administered by the National Park Service.
 
-(2) The use of outer burial receptacles in a cemetery under the control of the National Cemetery Administration, in the Arlington National Cemetery, or in a national cemetery administered by the National Park Service shall be in accordance with regulations or procedures approved by the Secretary of Veterans Affairs, the Secretary of the Army, or the Secretary of the Interior, respectively.
+(2) The use of outer burial receptacles in a cemetery under the control of the NationalCemetery Administration, in the Arlington National Cemetery, or in a national cemetery administered by the National Park Service shall be in accordance with regulations or procedures approved by the Secretary of Veterans Affairs, the Secretary of the Army, or the Secretary of the Interior, respectively.
 
 (3) Regulations or procedures under paragraph (2) may specify that—
 
@@ -126,7 +126,7 @@
 
 #### References in Text
 
-Section 491 of title 14, referred to in subsec. (d)(5)(C)(iii), (D), was redesignated section 2732 of title14 by Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
+Section 491 of title 14, referred to in subsec. (d)(5)(C)(iii), (D), was redesignated section 2732 of title 14 by Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
 
 #### Amendments
 
@@ -300,7 +300,7 @@ Pub. L. 109–461, title IV, §401(c), Dec. 22, 2006, 120 Stat. 3429, provided t
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–330 applicable with respect to deaths occurring on or after Dec. 6, 2002, see section 201(d) of Pub. L. 107–330, set out as a note under section 112 of this title.
+Amendment by Pub. L. 107–330 applicable with respect to deaths occurring on or after Dec. 6, 2002, seesection 201(d) of Pub. L. 107–330, set out as a note under section 112 of this title.
 
 #### Effective Date of 2001 Amendment
 

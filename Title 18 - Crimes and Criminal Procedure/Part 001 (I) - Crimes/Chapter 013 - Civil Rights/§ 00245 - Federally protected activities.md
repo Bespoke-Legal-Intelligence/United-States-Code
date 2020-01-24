@@ -2,7 +2,7 @@
 
 (a)(1) Nothing in this section shall be construed as indicating an intent on the part of Congress to prevent any State, any possession or Commonwealth of the United States, or the District of Columbia, from exercising jurisdiction over any offense over which it would have jurisdiction in the absence of this section, nor shall anything in this section be construed as depriving State and local law enforcement authorities of responsibility for prosecuting acts that may be violations of this section and that are violations of State and local law. No prosecution of any offense described in this section shall be undertaken by the United States except upon the certification in writing of the Attorney General, the Deputy Attorney General, the Associate Attorney General, or any Assistant Attorney General specially designated by the Attorney General that in his judgment a prosecution by the United States is in the public interest and necessary to secure substantial justice, which function of certification may not be delegated.
 
-(2) Nothing in this subsection shall be construed to limit the authority of Federal officers, or a Federal grand jury, to investigate possible violations of this section.
+(2) Nothing in this subsection shall be construed to limit the authority of Federal officers,or a Federal grand jury, to investigate possible violations of this section.
 
 (b) Whoever, whether or not acting under color of law, by force or threat of force willfully injures, intimidates or interferes with, or attempts to injure, intimidate or interfere with—
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(D) serving, or attending upon any court of any State in connection with possible service, as a grand or petit juror;
 
-&emsp;&emsp;(E) traveling in or using any facility of interstate commerce, or using any vehicle,terminal, or facility of any common carrier by motor, rail, water, or air;
+&emsp;&emsp;(E) traveling in or using any facility of interstate commerce, or using any vehicle, terminal, or facility of any common carrier by motor, rail, water, or air;
 
 &emsp;&emsp;(F) enjoying the goods, services, facilities, privileges, advantages, or accommodations of any inn, hotel, motel, or other establishment which provides lodging to transient guests, or of any restaurant, cafeteria, lunchroom, lunch counter, soda fountain, or other facility which serves the public and which is principally engaged in selling food or beverages for consumption on the premises, or of any gasoline station, or of any motion picture house, theater, concert hall, sports arena, stadium, or any other place of exhibition or entertainment which serves the public, or of any other establishment which serves the public and (i) which is located within the premises of any of the aforesaid establishments or within the premises of which is physically located any of the aforesaid establishments, and (ii) which holds itself out as serving patrons of such establishments; or
 

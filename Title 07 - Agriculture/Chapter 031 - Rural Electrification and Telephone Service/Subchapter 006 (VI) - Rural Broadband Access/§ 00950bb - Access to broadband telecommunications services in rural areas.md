@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Incumbent service provider
 
-&emsp;The term "incumbent service provider", with respect to an application submitted under this section, means an entity that, as of the date of submission of the application, is providing broadband service to not less than 5 percent of the households in the service territory proposed in the application.
+&emsp;The term "incumbent service provider", with respect to an application submitted under this section, means an entity that, as of the date of submission of the application, isproviding broadband service to not less than 5 percent of the households in the service territory proposed in the application.
 
 #### (3) Rural area
 
@@ -410,7 +410,7 @@ For purposes of determining whether to provide assistance for a project under th
 
 #### (C) Unobligated amounts
 
-&emsp;&emsp;Any amounts in the reserve established for a State for a fiscal year under subparagraph (B) that are not obligated by April 1 of the fiscal year shall be available to the Secretary to make loans and loan guarantees under this section to eligible entities in any State, as determined by the Secretary.
+&emsp;&emsp;Any amounts in the reserve established for a State for a fiscal year under subparagraph\(B) that are not obligated by April 1 of the fiscal year shall be available to the Secretary to make loans and loan guarantees under this section to eligible entities in any State, as determined by the Secretary.
 
 #### (k) Termination of authority
 
@@ -542,7 +542,7 @@ Pub. L. 110–234, title VI, §6110(c), May 22, 2008, 122 Stat. 1203, and Pub. L
 
 Pub. L. 110–234, title VI, §6110(b), May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, §4(a), title VI, §6110(b), June 18, 2008, 122 Stat. 1664, 1964, provided that: "The Secretary \[of Agriculture\] may implement the amendment made by subsection (a) \[amending this section\] through the promulgation of an interim regulation."
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
 Pub. L. 107–171, title VI, §6103(b), May 13, 2002, 116 Stat. 418, provided that:
 

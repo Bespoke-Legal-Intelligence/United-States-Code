@@ -22,7 +22,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) or (C), unless an entry or claim for drawback is extended under subsection (b) or suspended as required by statute or court order, an entry or claim for drawback not liquidatedwithin 1 year from the date of entry or claim shall be deemed liquidated at the drawback amount asserted by the claimant or claim. Notwithstanding section 1500(e) of this title, notice of liquidation need not be given of an entry deemed liquidated.
+&emsp;&emsp;Except as provided in subparagraph (B) or (C), unless an entry or claim for drawback is extended under subsection (b) or suspended as required by statute or court order, an entry or claim for drawback not liquidated within 1 year from the date of entry or claim shall be deemed liquidated at the drawback amount asserted by the claimant or claim. Notwithstanding section 1500(e) of this title, notice of liquidation need not be given of an entry deemed liquidated.
 
 #### (B) Unliquidated imports
 
@@ -148,7 +148,7 @@ Pub. L. 95–410, title II, §209(b), Oct. 3, 1978, 92 Stat. 903, provided that:
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 <i><sup>1</sup></i><i> See 2004 Amendment notes below.</i>
 

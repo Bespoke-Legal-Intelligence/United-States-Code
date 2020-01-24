@@ -8,7 +8,7 @@ In General.—The Secretary shall prescribe regulations appropriate for the impl
 
 Contents.—The regulations—
 
-&emsp;(1) shall include appropriate provisions to ensure that concession services and facilities to be provided in a System unit are not segmented or otherwise split into separate concession contracts for the purposes of seeking to reduce anticipated annual gross receipts of a concession contract below $500,000; and
+&emsp;(1) shall include appropriate provisions to ensure that concession services and facilitiesto be provided in a System unit are not segmented or otherwise split into separate concession contracts for the purposes of seeking to reduce anticipated annual gross receipts of a concession contract below $500,000; and
 
 &emsp;(2) shall further define the term "United States Indian, Alaskan Native, and Native Hawaiian handicrafts" for the purposes of this subchapter.
 

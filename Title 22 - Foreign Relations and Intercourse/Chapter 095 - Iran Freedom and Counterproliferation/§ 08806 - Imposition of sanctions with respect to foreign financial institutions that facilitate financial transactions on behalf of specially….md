@@ -16,7 +16,7 @@ An Iranian financial institution described in this subsection is an Iranian fina
 
 #### (c) Humanitarian exception
 
-The President may not impose sanctions under subsection (a) with respect to any person forconducting or facilitating a transaction for the sale of agricultural commodities, food, medicine, or medical devices to Iran or for the provision of humanitarian assistance to the people of Iran.
+The President may not impose sanctions under subsection (a) with respect to any person for conducting or facilitating a transaction for the sale of agricultural commodities, food, medicine, or medical devices to Iran or for the provision of humanitarian assistance to the people of Iran.
 
 #### (d) Applicability of sanctions to petroleum and petroleum products
 

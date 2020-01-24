@@ -92,7 +92,7 @@ After September 18, 1978, no holder of any oil and gas lease issued or maintaine
 
 &emsp;The Secretary shall prevent, through the cooperative development of an area, the harmful effects of unrestrained competitive production of hydrocarbons from a common hydrocarbon-bearing area underlying the Federal and State boundary.
 
-(Aug. 7, 1953, ch. 345, §5, 67 Stat. 464; Pub. L. 95–372, title II, §204, Sept. 18, 1978, 92 Stat. 636;Pub. L. 101–380, title VI, §6004(a), Aug. 18, 1990, 104 Stat. 558; Pub. L. 109–58, title III, §321(a), Aug. 8, 2005, 119 Stat. 694.)
+(Aug. 7, 1953, ch. 345, §5, 67 Stat. 464; Pub. L. 95–372, title II, §204, Sept. 18, 1978, 92 Stat. 636; Pub. L. 101–380, title VI, §6004(a), Aug. 18, 1990, 104 Stat. 558; Pub. L. 109–58, title III, §321(a), Aug. 8, 2005, 119 Stat. 694.)
 
 #### References in Text
 
@@ -104,7 +104,7 @@ The Clean Air Act, referred to in subsec. (a)(8), is act July 14, 1955, ch. 360,
 
 <b>1990</b>—Subsec. (j). Pub. L. 101–380 added subsec. (j).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–372 expanded provisions formerly contained in subsec. (a)(1) so as to include the enforcement of safety and environmental laws and regulations, consultation with the Attorney General and the Federal Trade Commission, and regulations for the suspension or temporary prohibition of any operation or activity including production, the cancellation of leases or permits, the prompt and efficient exploration and development of a lease area, and compliance with the national ambient air quality standards to the extent that activities authorized significantly affect the air quality of any State.
+<b>1978</b>—Subsec. (a). Pub. L. 95–372 expanded provisions formerly contained in subsec. (a)(1) so as to include the enforcement of safety and environmental laws and regulations, consultation with the Attorney General and the Federal Trade Commission, and regulations for thesuspension or temporary prohibition of any operation or activity including production, the cancellation of leases or permits, the prompt and efficient exploration and development of a lease area, and compliance with the national ambient air quality standards to the extent that activities authorized significantly affect the air quality of any State.
 
 Subsec. (b). Pub. L. 95–372 redesignated as subsec. (b) provisions formerly contained in subsec. (a)(2) conditioning the issuance and continuation of leases or of assignments or other transfers of leases upon compliance with regulations, and struck out provisions that had set a penalty of a fine of not more than $2,000 or imprisonment for not more than six months or both for the knowing and willful violation of rules or regulations promulgated by the Secretary. See section 1350 of this title.
 

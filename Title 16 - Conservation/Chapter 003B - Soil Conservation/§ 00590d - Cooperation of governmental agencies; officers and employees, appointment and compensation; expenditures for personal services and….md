@@ -8,7 +8,7 @@ For the purposes of this chapter, the Secretary of Agriculture may—
 
 (3) Make expenditures for personal services and rent in the District of Columbia and elsewhere, for the purchase of law books and books of reference, for printing and binding, for the purchase, operation, and maintenance of passenger-carrying vehicles, and perform such acts, and prescribe such regulations, as he may deem proper to carry out the provisions of this chapter.
 
-(Apr. 27, 1935, ch. 85, §4, 49 Stat. 164; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; 1978 Reorg.Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784.)
+(Apr. 27, 1935, ch. 85, §4, 49 Stat. 164; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784.)
 
 #### References in Text
 

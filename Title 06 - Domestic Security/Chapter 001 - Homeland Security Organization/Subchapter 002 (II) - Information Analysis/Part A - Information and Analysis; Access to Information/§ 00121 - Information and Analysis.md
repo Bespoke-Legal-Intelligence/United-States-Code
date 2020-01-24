@@ -22,7 +22,7 @@ The Secretary shall ensure that the responsibilities of the Department relating 
 
 The responsibilities of the Secretary relating to intelligence and analysis shall be as follows:
 
-&emsp;(1) To access, receive, and analyze law enforcement information, intelligence information, and other information from agencies of the Federal Government, State and local government agencies (including law enforcementagencies), and private sector entities, and to integrate such information, in support of the mission responsibilities of the Department and the functions of the National Counterterrorism Center established under section 119 of the National Security Act of 1947 \[50 U.S.C. 3056\], in order to—
+&emsp;(1) To access, receive, and analyze law enforcement information, intelligence information, and other information from agencies of the Federal Government, State and local government agencies (including law enforcement agencies), and private sector entities, and to integrate such information, in support of the mission responsibilities of the Department and the functions of the National Counterterrorism Center established under section 119 of the National Security Act of 1947 \[50 U.S.C. 3056\], in order to—
 
 &emsp;&emsp;(A) identify and assess the nature and scope of terrorist threats to the homeland;
 
@@ -34,7 +34,7 @@ The responsibilities of the Secretary relating to intelligence and analysis shal
 
 &emsp;(3) To integrate relevant information, analysis, and vulnerability assessments (regardless of whether such information, analysis or assessments are provided by or produced by the Department) in order to—
 
-&emsp;&emsp;(A) identify priorities for protective and support measures regarding terrorist and other threats to homeland security by the Department, other agencies of the Federal Government, State, and local government agencies and authorities, the private sector, and other entities; and
+&emsp;&emsp;(A) identify priorities for protective and support measures regarding terrorist and other threats to homeland security by the Department, other agencies of the Federal Government, State, <sup>1</sup> and local government agencies and authorities, the private sector, and other entities; and
 
 &emsp;&emsp;(B) prepare finished intelligence and information products in both classified and unclassified formats, as appropriate, whenever reasonably expected to be of benefit to a State, local, or tribal government (including a State, local, or tribal law enforcement agency) or a private sector entity.
 
@@ -288,11 +288,11 @@ Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, pro
 
 Pub. L. 109–295, title V, §550, Oct. 4, 2006, 120 Stat. 1388, as amended by Pub. L. 110–161, div. E, title V, §534, Dec. 26, 2007, 121 Stat. 2075; Pub. L. 111–83, title V, §550, Oct. 28, 2009, 123 Stat. 2177; Pub. L. 112–10, div. B, title VI, §1650, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, §540, Dec. 23, 2011, 125 Stat. 976; Pub. L. 113–6, div. D, title V, §537, Mar. 26, 2013, 127 Stat. 373; Pub. L. 113–76, div. F, title V, §536, Jan. 17, 2014, 128 Stat. 275, required interim final regulations establishing risk-based performance standards for security of chemical facilities and requiring vulnerability assessments and the development and implementation of site security plans for chemical facilities, prior to repeal by Pub. L. 113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919. See section 627 of this title.
 
-\[Pub. L. 113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919, provided that the repeal of section 550 of Pub. L. 109–295, formerly set out above, is effective as of the effective date of Pub. L. 113–254, which is the date that is 30 days after Dec. 18, 2014. See section 4(a) of Pub. L. 113–254, set out as an Effective and Termination Dates note under section 621 of this title.\]
+\[Pub. L. 113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919, provided that the repeal of section 550 of Pub. L. 109–295, formerly set out above, is effective as of the effective date of Pub. L. 113–254, which is the date that is 30 days after Dec. 18, 2014. See section 4(a) of Pub. L. 113–254,set out as an Effective and Termination Dates note under section 621 of this title.\]
 
 #### Deadline for Initial Recommended Strategy
 
-Pub. L. 114–328, div. A, title XIX, §1913(c), Dec. 23, 2016, 130 Stat. 2687, provided that: "Not later than one year after the date of the enactment of this section \[Dec. 23, 2016\], the Secretary of Homeland Securityshall submit the recommended strategy required under paragraph (26) of section 201(d) of the Homeland Security Act of 2002 (6 U.S.C. 121(d)), as added by this section."
+Pub. L. 114–328, div. A, title XIX, §1913(c), Dec. 23, 2016, 130 Stat. 2687, provided that: "Not later than one year after the date of the enactment of this section \[Dec. 23, 2016\], the Secretary of Homeland Security shall submit the recommended strategy required under paragraph (26) of section 201(d) of the Homeland Security Act of 2002 (6 U.S.C. 121(d)), as added by this section."
 
 #### Enhanced Grid Security
 
@@ -416,7 +416,7 @@ Pub. L. 110–53, title XXIV, §2404, Aug. 3, 2007, 121 Stat. 548, provided that
 
 "(a)
 
-Demonstration Project Required.—Not later than 120 days after the date of enactment of this Act\[Aug. 3, 2007\], the Secretary of Homeland Security shall—
+Demonstration Project Required.—Not later than 120 days after the date of enactment of this Act \[Aug. 3, 2007\], the Secretary of Homeland Security shall—
 
 &emsp;"(1) establish a demonstration project to conduct demonstrations of security management systems that—
 
@@ -496,9 +496,11 @@ Sec. 4. <i>Judicial Review</i>. This order does not create any right or benefit,
 
 #### Extension of Term of National Infrastructure Advisory Council
 
-Term of National Infrastructure Advisory Council extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of National Infrastructure Advisory Council extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of National Infrastructure Advisory Council were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
@@ -558,7 +560,7 @@ Sec. 18. \[Amended Ex. Ord. No. 12333, set out as a note under section 3001 of t
 
 Sec. 19. <i>Functions of Certain Officials in the Department of Homeland Security.</i>
 
-The Secretary of Homeland Security, the Deputy Secretary of Homeland Security, the Under Secretary forInformation Analysis and Infrastructure Protection, Department of Homeland Security, and the Assistant Secretary for Information Analysis, Department of Homeland Security, each shall be considered a "Senior Official of the Intelligence Community" for purposes of Executive Order 12333 \[50 U.S.C. 3001 note\], and all other relevant authorities, and shall:
+The Secretary of Homeland Security, the Deputy Secretary of Homeland Security, the Under Secretary for Information Analysis and Infrastructure Protection, Department of Homeland Security, and the Assistant Secretary for Information Analysis, Department of Homeland Security, each shall be considered a "Senior Official of the Intelligence Community" for purposes of Executive Order 12333 \[50 U.S.C. 3001 note\], and all other relevant authorities, and shall:
 
 (a) recognize and give effect to all current clearances for access to classified information held by those who become employees of the Department of Homeland Security by operation of law pursuant to the Homeland Security Act of 2002 or by Presidential appointment;
 
@@ -630,7 +632,7 @@ Sec. 8. <i>Voluntary Critical Infrastructure Cybersecurity Program</i>. (a) The 
 
 (e) Within 120 days of the date of this order, the Secretary of Defense and the Administrator of General Services, in consultation with the Secretary and the Federal Acquisition Regulatory Council, shall make recommendations to the President, through the Assistant to the President for Homeland Security and Counterterrorism and the Assistant to the President for Economic Affairs, on the feasibility, security benefits, and relative merits of incorporating security standards into acquisition planning and contract administration. The report shall address what steps can be taken to harmonize and make consistent existing procurement requirements related to cybersecurity.
 
-Sec. 9. <i>Identification of Critical Infrastructure at Greatest Risk</i>. (a) Within 150 days of the date of this order,the Secretary shall use a risk-based approach to identify critical infrastructure where a cybersecurity incident could reasonably result in catastrophic regional or national effects on public health or safety, economic security, or national security. In identifying critical infrastructure for this purpose, the Secretary shall use the consultative process established in section 6 of this order and draw upon the expertise of Sector-Specific Agencies. The Secretary shall apply consistent, objective criteria in identifying such critical infrastructure. The Secretary shall not identify any commercial information technology products or consumer information technology services under this section. The Secretary shall review and update the list of identified critical infrastructure under this section on an annual basis, and provide such list to the President, through the Assistant to the President for Homeland Security and Counterterrorism and the Assistant to the President for Economic Affairs.
+Sec. 9. <i>Identification of Critical Infrastructure at Greatest Risk</i>. (a) Within 150 days of the date of this order, the Secretary shall use a risk-based approach to identify critical infrastructure where a cybersecurity incident could reasonably result in catastrophic regional or national effects on public health or safety, economic security, or national security. In identifying critical infrastructure for this purpose, the Secretary shall use the consultative process established in section 6 of this order and draw upon the expertise of Sector-Specific Agencies. The Secretary shall apply consistent, objective criteria in identifying such critical infrastructure. The Secretary shall not identify any commercial information technology products or consumer information technology services under this section. The Secretary shall review and update the list of identified critical infrastructure under this section on an annual basis, and provide such list to the President, through the Assistant to the President for Homeland Security and Counterterrorism and the Assistant to the President for Economic Affairs.
 
 (b) Heads of Sector-Specific Agencies and other relevant agencies shall provide the Secretary with information necessary to carry out the responsibilities under this section. The Secretary shall develop a process for other relevant stakeholders to submit information to assist in making the identifications required in subsection (a) of this section.
 
@@ -716,7 +718,7 @@ Sec. 4. <i>Critical Infrastructure Protection Program</i>. (a) Pursuant to secti
 
 Sec. 5. <i>Privacy and Civil Liberties Protections</i>. (a) Agencies shall coordinate their activities under this order with their senior agency officials for privacy and civil liberties and ensure that appropriate protections for privacy and civil liberties are incorporated into such activities. Such protections shall be based upon the Fair Information Practice Principles and other privacy and civil liberties policies, principles, and frameworks as they apply to each agency's activities.
 
-(b) Senior privacy and civil liberties officials for agencies engaged in activities under this order shall conduct assessments of their agency's activities and provide those assessments to the Department of Homeland Security (DHS) Chief Privacy Officer and the DHS Office for Civil Rights and Civil Liberties for consideration and inclusion in the Privacy and Civil Liberties Assessment report required under Executive Order 13636.
+(b) Senior privacy and civil liberties officials for agencies engaged in activities under this order shall conduct assessments of their agency's activities and provide those assessments to the Department of Homeland Security (DHS) Chief Privacy Officer and the DHSOffice for Civil Rights and Civil Liberties for consideration and inclusion in the Privacy and Civil Liberties Assessment report required under Executive Order 13636.
 
 Sec. 6. <i>National Industrial Security Program</i>. \[Amended Ex. Ord. No. 12829, set out as a note under section 3161 of Title 50, War and National Defense.\]
 
@@ -747,4 +749,6 @@ Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

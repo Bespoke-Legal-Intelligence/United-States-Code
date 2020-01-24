@@ -228,7 +228,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### References in Text
 
-The Richard B. Russell National School Lunch Act, referred to in subsecs. (d)(1) and (h)(3)(D), (5)(B)(vi), isact June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsecs. (d)(1) and (h)(3)(D), (5)(B)(vi), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 Section 204 of the Child Nutrition and WIC Reauthorization Act of 2004, referred to in subsec. (h)(3)(C), is section 204 of Pub. L. 108–265, which is set out as a note under section 1751 of this title.
 
@@ -246,7 +246,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–193, §731(a)(1), substituted "that effective dissemination of scientifically valid information to children participating or eligible to participate in the school lunch and related child nutrition programs should be encouraged." for "that—" and pars. (1) to (5) which related to priority of proper nutrition, lack of understanding of principles of good nutrition, training school employees, role of parents, and opportunities for children to learn about importance of good nutrition.
 
-Subsec. (b). Pub. L. 104–193, §731(a)(2), substituted "establish" for "encourage effective dissemination of scientifically valid information to children participating or eligible to participate in the school lunch and related child nutrition programs by establishing".
+Subsec. (b). Pub. L. 104–193, §731(a)(2), substituted "establish" for "encourage effective dissemination ofscientifically valid information to children participating or eligible to participate in the school lunch and related child nutrition programs by establishing".
 
 Subsec. (f)(1). Pub. L. 104–193, §731(b)(1)(B), struck out "(A)" before "The funds made available" in introductory provisions, redesignated cls. (i) to (viii) and (xx) as subpars. (A) to (H) and (I), respectively, added subpar. (J), and struck out cls. (ix) to (xix) which related to use of funds for a nutrition component usable in consumer, homemaking and health education programs, instructing staff on working with children from different backgrounds, developing means of providing nutrition education in materials to children through after-school programs, training about healthy and nutritious meals, creating instructional programming for school staff and parents, aspects of the Strategic Plan for Nutrition and Education, encouraging public service advertisements, coordinating and promoting nutrition activities in local school districts, contracting with public and private nonprofit educational institutions for nutrition education, increasing awareness of importance of breakfasts, and coordinating and promoting nutrition education under child nutrition programs.
 

@@ -48,7 +48,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (a)(7), is P
 
 #### Prior Provisions
 
-A prior section 781, Pub. L. 93–112, title IV, §401, as added Pub. L. 95–602, title I, §117, Nov. 6, 1978, 92 Stat. 2977; amended Pub. L. 98–221, title I, §142, Feb. 22, 1984, 98 Stat. 27; Pub. L. 99–506, title I, §103(d)(2)(C), title III, §302(b), title V, §502, Oct. 21, 1986, 100 Stat. 1810, 1821, 1828; Pub. L. 100–630, title II, §205(c), Nov. 7, 1988, 102Stat. 3310; Pub. L. 102–569, title I, §102(p)(27), title IV, §402, Oct. 29, 1992, 106 Stat. 4360, 4422; Pub. L. 104–66, title II, §2131, Dec. 21, 1995, 109 Stat. 731, related to duties of National Council on Disability, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 781, Pub. L. 93–112, title IV, §401, as added Pub. L. 95–602, title I, §117, Nov. 6, 1978, 92 Stat. 2977; amended Pub. L. 98–221, title I, §142, Feb. 22, 1984, 98 Stat. 27; Pub. L. 99–506, title I, §103(d)(2)(C), title III, §302(b), title V, §502, Oct. 21, 1986, 100 Stat. 1810, 1821, 1828; Pub. L. 100–630, title II, §205(c), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–569, title I, §102(p)(27), title IV, §402, Oct. 29, 1992, 106 Stat. 4360, 4422; Pub. L. 104–66, title II, §2131, Dec. 21, 1995, 109 Stat. 731, related to duties of National Council on Disability, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 Another prior section 781, Pub. L. 93–112, title IV, §401, Sept. 26, 1973, 87 Stat. 386, related to program and project evaluation, prior to repeal by Pub. L. 95–602, §117.
 

@@ -20,7 +20,7 @@ This section shall apply only if the credit or refund is claimed on the grounds 
 
 &emsp;(1) any claim for drawback, and
 
-&emsp;(2) any claim made in accordance with any law expressly providing for credit or refund where a commodity is withdrawn from the market, returned to bond, or lost or destroyed.
+&emsp;(2) any claim made in accordance with any law expressly providing for credit or refundwhere a commodity is withdrawn from the market, returned to bond, or lost or destroyed.
 
 #### (d) Meaning of terms
 
@@ -58,7 +58,7 @@ Subsec. (b). Pub. L. 94–455, §1906(a)(29)(A), among other changes, struck out
 
 Subsec. (c). Pub. L. 94–455, §1906(a)(29)(B), (C), redesignated subsec. (d) as (c) and struck out par. (3) relating to any amount claimed with respect to a commodity which has been lost, where a suit or proceeding was instituted before June 15, 1957. Former subsec. (c), relating to disallowance of any suit or proceeding which was barred on Apr. 30, 1958, was struck out.
 
-Subsecs. (d), (e). Pub. L. 94–455, §1906(a)(29)(B), (b)(13)(A), redesignated subsec. (e) as (d) and struck out"or his delegate" after "Secretary". Former subsec. (d) redesignated (c).
+Subsecs. (d), (e). Pub. L. 94–455, §1906(a)(29)(B), (b)(13)(A), redesignated subsec. (e) as (d) and struck out "or his delegate" after "Secretary". Former subsec. (d) redesignated (c).
 
 #### Effective Date of 1976 Amendment
 

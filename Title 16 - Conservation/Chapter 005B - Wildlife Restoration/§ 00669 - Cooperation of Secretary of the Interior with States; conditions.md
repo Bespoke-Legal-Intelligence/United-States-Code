@@ -1,12 +1,18 @@
 ### §669. Cooperation of Secretary of the Interior with States; conditions
 
-The Secretary of the Interior is authorized to cooperate with the States, through their respective State fish and game departments, in wildlife-restoration projects as hereinafter in this chapter set forth; but no money apportioned under this chapter to any State shall be expended therein until its legislature, or other State agency authorized by the State constitution to make laws governing the conservation of wildlife, shall have assented to the provision of this chapter and shall have passed laws for the conservation of wildlife which shall include a prohibition against the diversion of license fees paid by hunters for any other purpose than the administration of said State fish and game department, except that, until the final adjournment of the first regular session of the legislature held after September 2, 1937, the assent of the Governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter, shall agree upon the wildlife-restoration projects to be aided in such State under the terms of this chapter and all projects shall conform to the standards fixed by the Secretary of the Interior.
+The Secretary of the Interior is authorized to cooperate with the States, through their respective State fish and game departments, in wildlife-restoration projects as hereinafter in this chapter set forth; but no money apportioned under this chapter to any State shall be expended therein until its legislature, or other State agency authorized by the State constitution to make laws governing the conservation of wildlife, shall have assented to the provision of this chapter and shall have passed laws for the conservation of wildlife which shall include a prohibition against the diversion of license fees paid by hunters for any other purpose than the administration of said State fish and game department, except that, until the final adjournment of the first regular session of the legislature held after September 2, 1937, the assent of the Governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter, shall agree upon the wildlife-restoration projects to be aided in such State under the terms of this chapter and all projects shall conform to the standards fixed by the Secretary of the Interior. One of the purposes of this chapter is to provide financial and technical assistance to the States for the promotion of hunting and recreational shooting.
 
-(Sept. 2, 1937, ch. 899, §1, 50 Stat. 917; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
+(Sept. 2, 1937, ch. 899, §1, 50 Stat. 917; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 116–94, div. P, title V, §501(b), Dec. 20, 2019, 133 Stat. 3191.)
 
-#### Transfer of Functions
+#### Amendments
 
-Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
+<b>2019</b>—Pub. L. 116–94 inserted at end "One of the purposes of this chapter is to provide financial and technical assistance to the States for the promotion of hunting and recreational shooting."
+
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–94, div. P, title V, §501(a), Dec. 20, 2019, 133 Stat. 3191, provided that: "This title \[amending this section and sections 669a, 669c, 669g, 669h–1, and 669h–2 of this title and enacting provisions set out as a note under section 669h–2 of this title\] may be cited as the 'Modernizing the Pittman-Robertson Fund for Tomorrow's Needs Act'."
+
+Pub. L. 116–17, §1, May 10, 2019, 133 Stat. 866, provided that: "This Act \[amending sections 669a, 669g, and 669h–1 of this title and enacting provisions set out as a note under section 669a of this title\] may be cited as the 'Target Practice and Marksmanship Training Support Act'."
 
 #### Short Title of 2000 Amendment
 
@@ -23,6 +29,10 @@ Pub. L. 91–503, title I, §103, Oct. 23, 1970, 84 Stat. 1101, provided that: "
 Act Sept. 2, 1937, ch. 899, §13, as added by Pub. L. 106–408, title I, §101(b), Nov. 1, 2000, 114 Stat. 1763, provided that: "This Act \[enacting this chapter\] may be cited as the 'Pittman-Robertson Wildlife Restoration Act'."
 
 Act Sept. 2, 1937, ch. 899, as amended, is also popularly known as the "Federal Aid in Wildlife Restoration Act".
+
+#### Transfer of Functions
+
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 #### Statement of Purpose and Definition in Pub. L. 106–553
 
@@ -46,7 +56,7 @@ Reference to Law.—In this section, the term 'Federal Aid in Wildlife Restorati
 
 #### Inapplicability of Federal Advisory Committee Act
 
-Pub. L. 106–553, §1(a)(2) \[title IX, §902(f)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–123, provided that: "Coordination with State fish and wildlife agency personnel or with personnel of other State agencies pursuant to the Federal Aid in Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] or the Federal Aid in Sport Fish Restoration Act \[16 U.S.C. 777 et seq.\] shall not be subject to the FederalAdvisory Committee Act (5 U.S.C. App.). Except for the preceding sentence, the provisions of this title \[enacting section 1356a of Title 43, Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section\] relate solely to wildlife conservation and restoration programs and shall not be construed to affect the provisions of the Federal Aid in Wildlife Restoration Act relating to wildlife restoration projects or the provisions of the Federal Aid in Sport Fish Restoration Act relating to fish restoration and management projects."
+Pub. L. 106–553, §1(a)(2) \[title IX, §902(f)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–123, provided that: "Coordination with State fish and wildlife agency personnel or with personnel of other State agencies pursuant to the Federal Aid in Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] or the Federal Aid in Sport Fish Restoration Act \[16 U.S.C. 777 et seq.\] shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.). Except for thepreceding sentence, the provisions of this title \[enacting section 1356a of Title 43, Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section\] relate solely to wildlife conservation and restoration programs and shall not be construed to affect the provisions of the Federal Aid in Wildlife Restoration Act relating to wildlife restoration projects or the provisions of the Federal Aid in Sport Fish Restoration Act relating to fish restoration and management projects."
 
 #### Prohibition Against Diversion
 

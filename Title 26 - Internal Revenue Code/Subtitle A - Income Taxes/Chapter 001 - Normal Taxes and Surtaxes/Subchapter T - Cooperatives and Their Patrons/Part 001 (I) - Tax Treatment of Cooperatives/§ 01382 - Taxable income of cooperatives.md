@@ -8,7 +8,7 @@ Except as provided in subsection (b), the gross income of any organization to wh
 
 In determining the taxable income of an organization to which this part applies, there shall not be taken into account amounts paid during the payment period for the taxable year—
 
-&emsp;(1) as patronage dividends (as defined in section 1388(a)), to the extent paid in money, qualified written notices of allocation (as defined in section 1388(c)), or other property (except nonqualified written notices of allocation (as defined in section 1388(d))) with respect to patronage occurring during such taxable year;
+&emsp;(1) as patronage dividends (as defined in section 1388(a)), to the extent paid in money,qualified written notices of allocation (as defined in section 1388(c)), or other property (except nonqualified written notices of allocation (as defined in section 1388(d))) with respect to patronage occurring during such taxable year;
 
 &emsp;(2) in money or other property (except written notices of allocation) in redemption of a nonqualified written notice of allocation which was paid as a patronage dividend during the payment period for the taxable year during which the patronage occurred;
 
@@ -62,7 +62,7 @@ If any portion of the earnings from business done with or for patrons is includi
 
 &emsp;&emsp;&emsp;(iii) an amount equal to the net proceeds (as determined under such agreement) from the sale or exchange of the products in the pool shall be used to repay such loan until such loan is repaid in full (or all the products in the pool are disposed of), and
 
-&emsp;&emsp;&emsp;(iv) the net gains (as determined under such agreement) from the sale or exchange of such products shall be distributed to eligible producers, except to the extent that the United States or such agency permits otherwise.
+&emsp;&emsp;&emsp;(iv) the net gains (as determined under such agreement) from the sale or exchange of such products shall be distributed to eligible producers, except to the extent thatthe United States or such agency permits otherwise.
 
 #### (2) Completed crop pool method of accounting defined
 
@@ -100,5 +100,5 @@ Pub. L. 89–809, title II, §211(e), Nov. 13, 1966, 80 Stat. 1584, provided tha
 
 #### Effective Date
 
-Section applicable, except as otherwise provided, to taxable years of organizations described in section1381(a) of this title beginning after Dec. 31, 1962, see section 17(c) of Pub. L. 87–834, set out as a note under section 1381 of this title.
+Section applicable, except as otherwise provided, to taxable years of organizations described in section 1381(a) of this title beginning after Dec. 31, 1962, see section 17(c) of Pub. L. 87–834, set out as a note under section 1381 of this title.
 

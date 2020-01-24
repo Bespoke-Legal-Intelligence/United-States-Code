@@ -2,7 +2,7 @@
 
 #### (a) Transfer of Federal equity
 
-Notwithstanding any other provision of law, any Federal equity acquired in real property through grants to States awarded under title IIIof the Social Security Act (42 U.S.C. 501 et seq.) or under the Wagner-Peyser Act (29 U.S.C. 49 et seq.) is transferred to the States that used the grants for the acquisition of such equity. The portion of any real property that is attributable to the Federal equity transferred under this section shall be used to carry out activities authorized under this Act, title III of the Social Security Act, or the Wagner-Peyser Act. Any disposition of such real property shall be carried out in accordance with the procedures prescribed by the Secretary and the portion of the proceeds from the disposition of such real property that is attributable to the Federal equity transferred under this section shall be used to carry out activities authorized under this Act, title III of the Social Security Act, or the Wagner-Peyser Act.
+Notwithstanding any other provision of law, any Federal equity acquired in real property through grants to States awarded under title III of the Social Security Act (42 U.S.C. 501 et seq.) or under the Wagner-Peyser Act (29 U.S.C. 49 et seq.) is transferred to the States that used the grants for the acquisition of such equity. The portion of any real property that is attributable to the Federal equity transferred under this section shall be used to carry out activities authorized under this Act, title III of the Social Security Act, or the Wagner-Peyser Act. Any disposition of such real property shall be carried out in accordance with the procedures prescribed by the Secretary and the portion of the proceeds from the disposition of such real property that is attributable to the Federal equity transferred under this section shall be used to carry out activities authorized under this Act, title III of the Social Security Act, or the Wagner-Peyser Act.
 
 #### (b) Limitation on use
 
@@ -20,5 +20,5 @@ This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 14
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

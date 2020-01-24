@@ -28,6 +28,7 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>531.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20531%20-%20Maritime%20Security%20Fleet/README.md) | <b>Maritime Security Fleet</b> | <b>53101</b> |
+| [<b>532.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20532%20-%20Cable%20Security%20Fleet/README.md) | <b>Cable Security Fleet</b> | <b>53201</b> |
 | [<b>533.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20533%20-%20Construction%20Reserve%20Funds/README.md) | <b>Construction Reserve Funds</b> | <b>53301</b> |
 | [<b>535.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20535%20-%20Capital%20Construction%20Funds/README.md) | <b>Capital Construction Funds</b> | <b>53501</b> |
 | [<b>537.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20537%20-%20Loans%20and%20Guarantees/README.md) | <b>Loans and Guarantees</b> | <b>53701</b> |
@@ -76,6 +77,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. C, title XXXV, §3521(b), Dec. 20, 2019, 133 Stat. 1997, added item for chapter 532.
 
 <b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3523(a)(6)(E), Jan. 28, 2008, 122 Stat. 600, added item for chapter 541.
 

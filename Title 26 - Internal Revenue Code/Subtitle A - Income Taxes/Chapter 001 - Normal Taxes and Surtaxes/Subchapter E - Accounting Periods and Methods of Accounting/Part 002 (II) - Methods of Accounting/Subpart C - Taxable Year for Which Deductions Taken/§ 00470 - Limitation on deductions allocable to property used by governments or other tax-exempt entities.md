@@ -70,7 +70,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 #### (ii) Higher amount permitted in certain cases
 
-&emsp;&emsp;&emsp;To the extent provided in regulations, a higher percentage shall be permitted underclause (i) where necessary because of the credit-worthiness of the lessee. In no event may such regulations permit a percentage of more than 50 percent.
+&emsp;&emsp;&emsp;To the extent provided in regulations, a higher percentage shall be permitted under clause (i) where necessary because of the credit-worthiness of the lessee. In no event may such regulations permit a percentage of more than 50 percent.
 
 #### (iii) Option to purchase
 
@@ -118,7 +118,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 &emsp;&emsp;&emsp;(i) any portion of the loss that would occur if the fair market value of the leased property were 25 percent less than its reasonably expected fair market value at the time the lease is terminated, or
 
-&emsp;&emsp;&emsp;(ii) more than 50 percent of the loss that would occur if the fair market value of the leased property at the time the lease is terminated were zero.
+&emsp;&emsp;&emsp;(ii) more than 50 percent of the loss that would occur if the fair market value of theleased property at the time the lease is terminated were zero.
 
 #### (B) Exception
 

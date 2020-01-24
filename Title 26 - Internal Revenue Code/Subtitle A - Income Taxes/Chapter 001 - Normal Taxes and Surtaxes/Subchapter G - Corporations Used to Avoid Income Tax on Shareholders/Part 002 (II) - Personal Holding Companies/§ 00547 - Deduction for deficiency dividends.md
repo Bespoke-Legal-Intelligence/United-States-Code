@@ -28,7 +28,7 @@ For purposes of this section, the term "determination" means—
 
 #### (1) Definition
 
-&emsp;For purposes of this section, the term "deficiency dividends" means the amount of the dividends paid by the corporation on or after the date of the determination and before filing claim under subsection (e), which would have been includible in the computation of the deduction for dividends paid under section 561 for the taxable year with respect to which the liability for personal holding company tax exists, if distributed during such taxable year. No dividends shall be considered as deficiency dividends for purposes of subsection (a) unless distributed within 90 days after the determination.
+&emsp;For purposes of this section, the term "deficiency dividends" means the amount of thedividends paid by the corporation on or after the date of the determination and before filing claim under subsection (e), which would have been includible in the computation of the deduction for dividends paid under section 561 for the taxable year with respect to which the liability for personal holding company tax exists, if distributed during such taxable year. No dividends shall be considered as deficiency dividends for purposes of subsection (a) unless distributed within 90 days after the determination.
 
 #### (2) Effect on dividends paid deduction
 
@@ -48,7 +48,7 @@ No deficiency dividend deduction shall be allowed under subsection (a) unless (u
 
 #### (1) Suspension of running of statute
 
-&emsp;If the corporation files a claim, as provided in subsection (e), the running of the statute oflimitations provided in section 6501 on the making of assessments, and the bringing of distraint or a proceeding in court for collection, in respect of the deficiency and all interest, additional amounts, or assessable penalties, shall be suspended for a period of 2 years after the date of the determination.
+&emsp;If the corporation files a claim, as provided in subsection (e), the running of the statute of limitations provided in section 6501 on the making of assessments, and the bringing of distraint or a proceeding in court for collection, in respect of the deficiency and all interest, additional amounts, or assessable penalties, shall be suspended for a period of 2 years after the date of the determination.
 
 #### (2) Stay of collection
 

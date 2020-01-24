@@ -124,7 +124,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (D) Qualified ownership interest
 
-&emsp;&emsp;For purposes of this paragraph, the term "qualified ownership interest" means an undivided interest for more than 50 years in the entire dwelling unit and appurtenant land being acquired in the transaction to which the shared equity financing agreement relates.
+&emsp;&emsp;For purposes of this paragraph, the term "qualified ownership interest" means an undivided interest for more than 50 years inthe entire dwelling unit and appurtenant land being acquired in the transaction to which the shared equity financing agreement relates.
 
 #### (4) Rental of principal residence
 
@@ -198,7 +198,7 @@ The date of enactment of the Tax Reduction and Simplification Act of 1977, refer
 
 #### Amendments
 
-<b>1997</b>—Subsec. (c)(1). Pub. L. 105–34, §932(a), inserted at end "For purposes of subparagraph (A), the term 'principal place of business' includes a place of business which is used by the taxpayer for the administrative or management activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business."
+<b>1997</b>—Subsec. (c)(1). Pub. L. 105–34, §932(a), inserted at end "For purposes of subparagraph (A), the term 'principal place of business' includes a place of business which is used by the taxpayer for the administrative ormanagement activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business."
 
 Subsec. (d)(4)(A). Pub. L. 105–34, §312(d)(1), substituted "section 121" for "section 1034".
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 97–216 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–119, title I, §113(e), Dec. 29, 1981, 95 Stat. 1642, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975, except that inthe case of taxable years beginning after December 31, 1975, and before January 1, 1980, the amendment made by this section shall apply only to taxable years for which, on the date of the enactment of this Act \[Dec. 29, 1981\], the making of a refund, or the assessment of a deficiency, was not barred by law or any rule of law."
+Pub. L. 97–119, title I, §113(e), Dec. 29, 1981, 95 Stat. 1642, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975, except that in the case of taxable years beginning after December 31, 1975, and before January 1, 1980, the amendment made by this section shall apply only to taxable years for which, on the date of the enactment of this Act \[Dec. 29, 1981\], the making of a refund, or the assessment of a deficiency, was not barred by law or any rule of law."
 
 #### Effective Date of 1978 Amendment
 

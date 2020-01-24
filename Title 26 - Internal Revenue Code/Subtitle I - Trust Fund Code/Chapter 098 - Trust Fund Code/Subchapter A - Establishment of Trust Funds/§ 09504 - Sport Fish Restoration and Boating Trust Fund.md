@@ -8,7 +8,7 @@ There is hereby established in the Treasury of the United States a trust fund to
 
 #### (1) Transfer of certain taxes to Trust Fund
 
-&emsp;There is hereby appropriated to the Sport Fish Restoration and Boating Trust Fundamounts equivalent to the following amounts received in the Treasury on or after October 1, 1984—
+&emsp;There is hereby appropriated to the Sport Fish Restoration and Boating Trust Fund amounts equivalent to the following amounts received in the Treasury on or after October 1, 1984—
 
 &emsp;&emsp;(A) the taxes imposed by section 4161(a) (relating to sport fishing equipment), and
 
@@ -54,7 +54,7 @@ Amounts remaining in the Boat Safety Account on October 1, 2005, and amounts the
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
-The Dingell-Johnson Sport Fish Restoration Act, referred to in subsec. (b)(2)(A), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally tochapter 10B (§777 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 777 of Title 16 and Tables.
+The Dingell-Johnson Sport Fish Restoration Act, referred to in subsec. (b)(2)(A), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 777 of Title 16 and Tables.
 
 The date of the enactment of the FAST Act, referred to in subsec. (b)(2)(A) to (C), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
@@ -272,7 +272,7 @@ Subsecs. (d), (e). Pub. L. 105–178, §9005(d), added subsec. (d) and redesigna
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–130 substituted "October 1, 1998" for "April 1, 1998".
 
-<b>1991</b>—Subsec. (b)(2)(B). Pub. L. 102–240, §8002(i), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "to carry out the purposes of any law which is substantially identical to S. 3252 of the 101st Congress, as introduced."
+<b>1991</b>—Subsec. (b)(2)(B). Pub. L. 102–240, §8002(i), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "to carry out the purposesof any law which is substantially identical to S. 3252 of the 101st Congress, as introduced."
 
 Subsec. (c). Pub. L. 102–240, §8002(d)(2)(C), substituted "1998" for "1994".
 
@@ -348,7 +348,7 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 "(2)
 
-Boat safety account treated as continuation of national recreational boating safety and facilities improvement fund.—The Boat Safety Account inthe Aquatic Resources Trust Fund established by the amendments made by this section shall be treated for all purposes of law as the continuation of the National Recreational Boating Safety and Facilities Improvement Fund established by \[former\] section 13107 of title 46, United States Code. Any reference in any law to the National Recreational Boating Safety and Facilities Improvement Fund established by such section shall be deemed to include (wherever appropriate) a reference to such Boat Safety Account."
+Boat safety account treated as continuation of national recreational boating safety and facilities improvement fund.—The Boat Safety Account in the Aquatic Resources Trust Fund established by the amendments made by this section shall be treated for all purposes of law as the continuation of the National Recreational Boating Safety and Facilities Improvement Fund established by \[former\] section 13107 of title 46, United States Code. Any reference in any law to the National Recreational Boating Safety and Facilities Improvement Fund established by such section shall be deemed to include (wherever appropriate) a reference to such Boat Safety Account."
 
 #### Construction of 2006 Amendment
 

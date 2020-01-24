@@ -6,7 +6,7 @@ Any person inducted into the armed forces under this chapter for training and se
 
 #### (b) Right to vote; manner; poll tax
 
-Any person inducted into the armed forces for training and service under this chapter shall, during the period of such service, be permitted to vote in person or by absentee ballot in any general, special, or primary election occurring in the State of which he is a resident, whether he is within or outside such State at the time of such election, if under the laws of such State he is otherwise entitled so to vote in such election; but nothing in this subsection shall be construed to require granting to any such person a leave of absence or furlough for longer than one day in order to permit him to vote in person in any such election. No person inducted into, or enlisted in, the armed forces for training and service under this chapter shall, during the period of such service, as a condition of voting in any election for President, Vice President, electors for President or Vice President, or for Senator or Member of the House of Representatives, be required to pay any poll tax or other tax or make any other payment to any State or political subdivision thereof.
+Any person inducted into the armed forces for training and service under this chapter shall, during the period of such service, be permitted to vote in person or by absentee ballot in any general, special, or primary election occurring in the State of which he is a resident, whether he is within or outside such State at the time of such election, if under the laws of such State he is otherwise entitled so to vote in such election; but nothing in this subsection shall be construed to require granting to any such person a leave ofabsence or furlough for longer than one day in order to permit him to vote in person in any such election. No person inducted into, or enlisted in, the armed forces for training and service under this chapter shall, during the period of such service, as a condition of voting in any election for President, Vice President, electors for President or Vice President, or for Senator or Member of the House of Representatives, be required to pay any poll tax or other tax or make any other payment to any State or political subdivision thereof.
 
 #### (c) Reports on separated personnel
 
@@ -24,7 +24,7 @@ Section was formerly classified to section 459 of the former Appendix to this ti
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted "Secretary of a military department, and the Secretary ofHomeland Security with respect to the Coast Guard," for "Secretaries of Army, Navy, Air Force, or Transportation".
+<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted "Secretary of a military department, and the Secretary of Homeland Security with respect to the Coast Guard," for "Secretaries of Army, Navy, Air Force, or Transportation".
 
 <b>1974</b>—Subsecs. (b), (c). Pub. L. 93–508, §405(1), (2), redesignated subsecs. (i) and (j) as (b) and (c), respectively. Former subsecs. (b) and (c), relating to reemployment rights and consideration of training and service in the armed forces as furlough or leave of absence, were struck out.
 

@@ -58,7 +58,7 @@ Appointments.—Within 90 days from the date of enactment of this Act \[Dec. 22,
 
 "(c)
 
-Terms.—The members of the Board shall serve for a term of 6 years, except that the original members of the Board shall be appointed for staggered terms as determined appropriate by the Secretary. A vacancy on the Board shall be filled within 60 days of the vacancy in the same manner in which the original appointment was made and shall be for the balance of the term of the individual who was replaced. No individual may serve more than 2 consecutive terms as a member.
+Terms.—The members of the Board shall serve for a term of 6 years, except that the original members of the Board shall be appointed for staggered terms as determined appropriate by the Secretary. A vacancy onthe Board shall be filled within 60 days of the vacancy in the same manner in which the original appointment was made and shall be for the balance of the term of the individual who was replaced. No individual may serve more than 2 consecutive terms as a member.
 
 "(d)
 
@@ -172,7 +172,7 @@ Relief With Respect to Certain Foundation Acts or Failure To Act.—If the Found
 
 &emsp;"(2) refuses, fails, or neglects to discharge its obligations under this Act, or threaten\[s\] to do so;
 
-> the Attorney General of the United States may petition in the United States District Court for the Districtof Columbia for such equitable relief as may be necessary or appropriate."
+> the Attorney General of the United States may petition in the United States District Court for the District of Columbia for such equitable relief as may be necessary or appropriate."
 
 
 ---

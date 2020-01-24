@@ -32,7 +32,7 @@ For the purpose of this subchapter—
 
 &emsp;(3) "medical, surgical, and hospital services and supplies" includes services and supplies by podiatrists, dentists, clinical psychologists, optometrists, chiropractors, osteopathic practitioners and hospitals within the scope of their practice as defined by State law. Reimbursable chiropractic services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 
-&emsp;(4) "monthly pay" means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
+&emsp;(4) "monthly pay" means the monthly pay at the time of injury, or the monthly pay atthe time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
 
 &emsp;(5) "injury" includes, in addition to injury by accident, a disease proximately caused by the employment, and damage to or destruction of medical braces, artificial limbs, and other prosthetic devices which shall be replaced or repaired, and such time lost while such device or appliance is being replaced or repaired; except that eyeglasses and hearing aids would not be replaced, repaired, or otherwise compensated for, unless the damages or destruction is incident to a personal injury requiring medical services;
 
@@ -42,7 +42,7 @@ For the purpose of this subchapter—
 
 &emsp;(8) "brother" and "sister" mean one who at the time of the death of the employee is under 18 years of age or over that age and incapable of self-support, and include stepbrothers and stepsisters, half brothers and half sisters, and brothers and sisters by adoption, but do not include married brothers or married sisters;
 
-&emsp;(9) "child" means one who at the time of the death of the employee is under 18 years of ageor over that age and incapable of self-support, and includes stepchildren, adopted children, and posthumous children, but does not include married children;
+&emsp;(9) "child" means one who at the time of the death of the employee is under 18 years of age or over that age and incapable of self-support, and includes stepchildren, adopted children, and posthumous children, but does not include married children;
 
 &emsp;(10) "grandchild" means one who at the time of the death of the employee is under 18 years of age or over that age and incapable of self-support;
 
@@ -86,7 +86,7 @@ For the purpose of this subchapter—
 
 > &emsp;Such an individual is deemed not to have ceased to be a student during an interim between school years if the interim is not more than 4 months and if he shows to the satisfaction of the Secretary that he has a bona fide intention of continuing to pursue a full-time course of study or training during the semester or other enrollment period immediately after the interim or during periods of reasonable duration during which, in the judgment of the Secretary, he is prevented by factors beyond his control from pursuing his education. A student whose 23rd birthday occurs during a semester or other enrollment period is deemed a student until the end of the semester or other enrollment period;
 
-&emsp;(18) "price index" means the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics; and
+&emsp;(18) "price index" means the Consumer Price Index (all items—United States city average)published monthly by the Bureau of Labor Statistics; and
 
 &emsp;(19) "organ" means a part of the body that performs a special function, and for purposes of this subchapter excludes the brain, heart, and back; and
 

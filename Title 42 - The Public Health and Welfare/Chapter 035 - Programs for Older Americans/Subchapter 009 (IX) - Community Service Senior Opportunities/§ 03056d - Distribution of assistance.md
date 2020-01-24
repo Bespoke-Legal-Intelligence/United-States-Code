@@ -24,7 +24,7 @@ The allotment for each State shall be the sum of the amounts allotted for nation
 
 #### (c) Division between national grants and grants to States
 
-The funds appropriated to carry out this subchapter for any fiscal year that remain after amounts are reserved under paragraphs (1), (2), and (3) of subsection (a) shall be divided by the Secretary between national grants and grants to States as follows:
+The funds appropriated to carry out this subchapter for any fiscal year that remain afteramounts are reserved under paragraphs (1), (2), and (3) of subsection (a) shall be divided by the Secretary between national grants and grants to States as follows:
 
 #### (1) Reservation of funds for fiscal year 2000 level of activities
 

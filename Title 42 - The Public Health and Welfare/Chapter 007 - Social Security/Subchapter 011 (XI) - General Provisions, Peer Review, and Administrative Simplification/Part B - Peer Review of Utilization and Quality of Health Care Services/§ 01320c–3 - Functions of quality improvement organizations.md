@@ -34,7 +34,7 @@ Subject to subsection (b), any quality improvement organization entering into a 
 
 &emsp;&emsp;(ii) provided such practitioner or provider an opportunity for discussion and review of the proposed determination.
 
-&emsp;(C) The discussion and review conducted under subparagraph (B)(ii) shall not affect the rights of a practitioner or provider to a formal reconsideration of a determination under this part (as provided under section 1320c–4 of this title).
+&emsp;(C) The discussion and review conducted under subparagraph (B)(ii) shall not affect the rights of a practitioner or provider to a formalreconsideration of a determination under this part (as provided under section 1320c–4 of this title).
 
 &emsp;(D) The notification under subparagraph (A) with respect to services or items disapproved by reason of paragraph (1)(B) shall not occur until after—
 
@@ -60,7 +60,7 @@ Subject to subsection (b), any quality improvement organization entering into a 
 
 &emsp;&emsp;(ii) the type of health care facility which is considered, consistent with such standards, to be the type in which health care services which are medically appropriate for such illness or condition can most economically be provided.
 
-> &emsp;As a component of the norms described in clause (i) or (ii), the organization shall take into account the special problems associated with delivering care in remote rural areas, the availability of service alternatives to inpatient hospitalization, and other appropriate factors (such as the distance from a patient's residence to the site of care, family support, availability of proximate alternative sites of care, and the patient's ability to carry outnecessary or prescribed self-care regimens) that could adversely affect the safety or effectiveness of treatment provided on an outpatient basis.
+> &emsp;As a component of the norms described in clause (i) or (ii), the organization shall take into account the special problems associated with delivering care in remote rural areas, the availability of service alternatives to inpatient hospitalization, and other appropriate factors (such as the distance from a patient's residence to the site of care, family support, availability of proximate alternative sites of care, and the patient's ability to carry out necessary or prescribed self-care regimens) that could adversely affect the safety or effectiveness of treatment provided on an outpatient basis.
 
 &emsp;(B) The organization shall—
 
@@ -100,7 +100,7 @@ Subject to subsection (b), any quality improvement organization entering into a 
 
 &emsp;(13) Notwithstanding paragraph (4), the organization shall perform the review described in paragraph (1) with respect to early readmission cases to determine if the previous inpatient hospital services and the post-hospital services met professionally recognized standards of health care. Such reviews may be performed on a sample basis if the organization and the Secretary determine it to be appropriate. In this paragraph, an "early readmission case" is a case in which an individual, after discharge from a hospital, is readmitted to a hospital less than 31 days after the date of the most recent previous discharge.
 
-&emsp;(14) The organization shall conduct an appropriate review of all written complaints about the quality of services (for which payment may otherwise be made under subchapter XVIII) not meeting professionally recognized standards of health care, if the complaint is filed with the organization by an individual entitled to benefits for such services under such subchapter (or a person acting onthe individual's behalf). The organization shall inform the individual (or representative) of the organization's final disposition of the complaint. Before the organization concludes that the quality of services does not meet professionally recognized standards of health care, the organization must provide the practitioner or person concerned with reasonable notice and opportunity for discussion.
+&emsp;(14) The organization shall conduct an appropriate review of all written complaints about the quality of services (for which payment may otherwise be made under subchapter XVIII) not meeting professionally recognized standards of health care, if the complaint is filed with the organization by an individual entitled to benefits for such services under such subchapter (or a person acting on the individual's behalf). The organization shall inform the individual (or representative) of the organization's final disposition of the complaint. Before the organization concludes that the quality of services does not meet professionally recognized standards of health care, the organization must provide the practitioner or person concerned with reasonable notice and opportunity for discussion.
 
 &emsp;(15) During each year of the contract entered into under section 1320c–2(b) of this title, the organization shall perform on-site review activities as the Secretary determines appropriate.
 
@@ -144,7 +144,7 @@ No quality improvement organization shall utilize the services of any individual
 
 The Secretary, in consultation with appropriate experts, shall identify methods that would be available to assist quality improvement organizations (under subsection (a)(4)) in identifying those cases which are more likely than others to be associated with a quality of services which does not meet professionally recognized standards of health care.
 
-(Aug. 14, 1935, ch. 531, title XI, §1154, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 385; amended Pub. L. 97–448, title III, §309(b)(3), (4), Jan. 12, 1983, 96 Stat. 2408, 2409; Pub. L. 99–272, title IX, §§9307(b), 9401(a), 9403(a), 9405(a), Apr. 7, 1986, 100 Stat. 193, 196, 200, 201; Pub. L. 99–509, title IX, §§9343(d), 9351(a), 9352(b), 9353(a)(1)–(3), (c)(1), Oct. 21, 1986, 100 Stat. 2040, 2043, 2044–2047; Pub. L. 100–203, title IV, §§4039(h)(3), (4), 4093(a), 4094(a)–(c)(1)(A), (2)(A), (B), 4096(c), Dec. 22, 1987, 101 Stat. 1330–135 to 1330–137, 1330–139, as amended Pub. L. 100–360, title IV, §411(e)(3), (j)(3)(A), July 1, 1988, 102 Stat. 775, 791; Pub. L. 100–360, title II, §203(d)(2), title IV, §411(j)(2), (3)(B), (4)(C), July 1, 1988, 102 Stat. 724, 775, 791; Pub. L. 100–485, title VI, §608(d)(25)(B), Oct. 13, 1988, 102 Stat. 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6224(a)(1), (b)(1), Dec. 19, 1989, 103 Stat. 2257; Pub. L. 101–508, title IV, §§4205(b)(1), (d)(1)(A), (g)(1)(A), (2)(A), 4207(a)(1)(B), formerly 4027(a)(1)(B), 4358(b)(3), Nov. 5, 1990, 104 Stat. 1388–113 to 1388–115, 1388–117, 1388–137; Pub. L. 103–432, title I, §§156(a)(2)(A), (b)(2)(A), 160(d)(4), 171(h)(2), Oct.31, 1994, 108 Stat. 4440, 4441, 4444, 4450; Pub. L. 106–554, §1(a)(6) \[title V, §521(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543; Pub. L. 108–173, title I, §109(a), (b), title IX, §948(d), Dec. 8, 2003, 117 Stat. 2173, 2426; Pub. L. 112–40, title II, §261(a)(2)(B), (C), (c)(2), (d), Oct. 21, 2011, 125 Stat. 423, 425.)
+(Aug. 14, 1935, ch. 531, title XI, §1154, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 385; amended Pub. L. 97–448, title III, §309(b)(3), (4), Jan. 12, 1983, 96 Stat. 2408, 2409; Pub. L. 99–272, title IX, §§9307(b), 9401(a), 9403(a), 9405(a), Apr. 7, 1986, 100 Stat. 193, 196, 200, 201; Pub. L. 99–509, title IX, §§9343(d), 9351(a), 9352(b),9353(a)(1)–(3), (c)(1), Oct. 21, 1986, 100 Stat. 2040, 2043, 2044–2047; Pub. L. 100–203, title IV, §§4039(h)(3), (4), 4093(a), 4094(a)–(c)(1)(A), (2)(A), (B), 4096(c), Dec. 22, 1987, 101 Stat. 1330–135 to 1330–137, 1330–139, as amended Pub. L. 100–360, title IV, §411(e)(3), (j)(3)(A), July 1, 1988, 102 Stat. 775, 791; Pub. L. 100–360, title II, §203(d)(2), title IV, §411(j)(2), (3)(B), (4)(C), July 1, 1988, 102 Stat. 724, 775, 791; Pub. L. 100–485, title VI, §608(d)(25)(B), Oct. 13, 1988, 102 Stat. 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6224(a)(1), (b)(1), Dec. 19, 1989, 103 Stat. 2257; Pub. L. 101–508, title IV, §§4205(b)(1), (d)(1)(A), (g)(1)(A), (2)(A), 4207(a)(1)(B), formerly 4027(a)(1)(B), 4358(b)(3), Nov. 5, 1990, 104 Stat. 1388–113 to 1388–115, 1388–117, 1388–137; Pub. L. 103–432, title I, §§156(a)(2)(A), (b)(2)(A), 160(d)(4), 171(h)(2), Oct. 31, 1994, 108 Stat. 4440, 4441, 4444, 4450; Pub. L. 106–554, §1(a)(6) \[title V, §521(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543; Pub. L. 108–173, title I, §109(a), (b), title IX, §948(d), Dec. 8, 2003, 117 Stat. 2173, 2426; Pub. L. 112–40, title II, §261(a)(2)(B), (C), (c)(2), (d), Oct. 21, 2011, 125 Stat. 423, 425.)
 
 #### Prior Provisions
 
@@ -216,7 +216,7 @@ Subsec. (a)(3)(B). Pub. L. 101–239, §6224(b)(1)(B), inserted "with respect to
 
 Subsec. (a)(3)(D), (E). Pub. L. 101–239, §6224(b)(1)(C), added subpars. (D) and (E).
 
-Subsec. (a)(16). Pub. L. 101–234, repealed Pub. L. 100–360, §203(d)(2), and provided that the provisions of law amended or repealed by such section are restoredor revived as if such section had not been enacted, see 1988 Amendment note below.
+Subsec. (a)(16). Pub. L. 101–234, repealed Pub. L. 100–360, §203(d)(2), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
 <b>1988</b>—Subsec. (a)(3)(C). Pub. L. 100–360, §411(j)(2), designated last sentence of par. (3) as subpar. (C).
 
@@ -348,7 +348,7 @@ Pub. L. 101–508, title IV, §4358(c), Nov. 5, 1990, 104 Stat. 1388–137, as a
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VI, §6224(a)(2), Dec. 19, 1989, 103 Stat. 2257, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to contracts entered into after the date of the enactment of this Act \[Dec. 19, 1989\]."
+Pub. L. 101–239, title VI, §6224(a)(2), Dec. 19, 1989, 103 Stat. 2257, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply tocontracts entered into after the date of the enactment of this Act \[Dec. 19, 1989\]."
 
 Pub. L. 101–239, title VI, §6224(b)(3), Dec. 19, 1989, 103 Stat. 2257, provided that: "The amendments made by this subsection \[amending this section and section 1320c–4 of this title\] shall apply to determinations by utilization and quality control peer review organizations with respect to which preliminary notifications were made under section 1154(a)(3)(B) of the Social Security Act \[42 U.S.C. 1320c–3(a)(3)(B)\] more than 30 days after the date of the enactment of this Act \[Dec. 19, 1989\]."
 

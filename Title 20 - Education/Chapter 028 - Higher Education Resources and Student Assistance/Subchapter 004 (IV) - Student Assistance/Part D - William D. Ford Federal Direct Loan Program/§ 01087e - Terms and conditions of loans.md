@@ -212,7 +212,7 @@
 
 #### (A) Rates for undergraduate FDSL and FDUSL
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans issued to undergraduate students, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans issued to undergraduate students, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determinedon the preceding June 1 and be equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i) a rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to such June 1 plus 2.05 percent; or
 
@@ -324,7 +324,7 @@
 
 #### (1) Information and procedures
 
-&emsp;The Secretary may obtain such information as is reasonably necessary regarding the income of a borrower (and the borrower's spouse, if applicable) of a loan made under this part that is, or may be, repaid pursuant to income contingent repayment, for the purpose of determining the annual repayment obligation of the borrower. Returns and return information (as defined in section 6103 of title 26) may beobtained under the preceding sentence only to the extent authorized by section 6103(l)(13) of title 26. The Secretary shall establish procedures for determining the borrower's repayment obligation on that loan for such year, and such other procedures as are necessary to implement effectively income contingent repayment.
+&emsp;The Secretary may obtain such information as is reasonably necessary regarding the income of a borrower (and the borrower's spouse, if applicable) of a loan made under this part that is, or may be, repaid pursuant to income contingent repayment, for the purpose of determining the annual repayment obligation of the borrower. Returns and return information (as defined in section 6103 of title 26) may be obtained under the preceding sentence only to the extent authorized by section 6103(l)(13) of title 26. The Secretary shall establish procedures for determining the borrower's repayment obligation on that loan for such year, and such other procedures as are necessary to implement effectively income contingent repayment.
 
 #### (2) Repayment based on adjusted gross income
 
@@ -344,11 +344,7 @@
 
 #### (6) Notification to borrowers
 
-&emsp;The Secretary shall establish procedures under which a borrower of a loan made under this part who chooses or is required to repay such loan pursuant to income contingent repayment is notified of the terms and conditions of such plan, including notification of such borrower—
-
-&emsp;&emsp;(A) that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103(l)(13) of title 26; and
-
-&emsp;&emsp;(B) that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower's spouse, warrant an adjustment in the borrower's loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
+&emsp;The Secretary shall establish procedures under which a borrower of a loan made under this part who chooses or is required to repay such loan pursuant to income contingent repayment is notified of the terms and conditions of such plan, including notification of such borrower, that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower's spouse, warrant an adjustment in the borrower's loan repayment, the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
 
 #### (7) Maximum repayment period
 
@@ -365,6 +361,26 @@
 &emsp;&emsp;(iv) makes payments of not less than the payments required under a standard repayment plan under section 1078(b)(9)(A)(i) of this title or subsection (d)(1)(A) with a repayment period of 10 years; or
 
 &emsp;&emsp;(v) makes payments under an income contingent repayment plan under subsection (d)(1)(D).
+
+#### (8) Automatic recertification
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall establish and implement, with respect to any borrower described in subparagraph (B), procedures to—
+
+&emsp;&emsp;&emsp;(i) use return information disclosed under section 6103(l)(13) of title 26, pursuant to approval provided under section 1098h of this title, to determine the repayment obligation of the borrower without further action by the borrower;
+
+&emsp;&emsp;&emsp;(ii) allow the borrower (or the spouse of the borrower), at any time, to opt out of disclosure under such section 6103(l)(13) and instead provide such information as the Secretary may require to determine the repayment obligation of the borrower (or withdraw from the repayment plan under this subsection); and
+
+&emsp;&emsp;&emsp;(iii) provide the borrower with an opportunity to update the return information so disclosed before the determination of the repayment obligation of the borrower.
+
+#### (B) Applicability
+
+&emsp;&emsp;Subparagraph (A) shall apply to each borrower of a loan made under this part who, on or after the date on which the Secretary establishes procedures under such subparagraph—
+
+&emsp;&emsp;&emsp;(i) selects, or is required to repay such loan pursuant to, an income-contingent repayment plan; or
+
+&emsp;&emsp;&emsp;(ii) recertifies income or family size under such plan.
 
 #### (f) Deferment
 
@@ -462,7 +478,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 &emsp;(A) An institution shall maintain financial records in a manner consistent with records maintained for other programs under this subchapter.
 
-&emsp;(B) Except as otherwise required by regulations of the Secretary <sup>1</sup> an institution may maintain loan funds under this part in the same account as other Federal student financial assistance.
+&emsp;(B) Except as otherwise required by regulations of the Secretary <sup>1</sup> an institution maymaintain loan funds under this part in the same account as other Federal student financial assistance.
 
 #### (2) Payments and refunds
 
@@ -470,7 +486,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (3) Transaction histories
 
-&emsp;All transaction histories under this part shall be maintained using the same systemdesignated by the Secretary for the provision of Federal Pell Grants under subpart 1 of part A of this subchapter.
+&emsp;All transaction histories under this part shall be maintained using the same system designated by the Secretary for the provision of Federal Pell Grants under subpart 1 of part A of this subchapter.
 
 #### (l) Armed Forces student loan interest payment program
 
@@ -534,7 +550,7 @@ The Secretary shall take such steps as may be necessary to ensure that monthly F
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this part and in accordance with paragraphs (2) and (4), interest shall not accrue for an eligible military borrower on a loan made under this part for which the first disbursement is made on or after October 1, 2008.
+&emsp;Notwithstanding any other provision of this part and in accordance with paragraphs (2) and\(4), interest shall not accrue for an eligible military borrower on a loan made under this part for which the first disbursement is made on or after October 1, 2008.
 
 #### (2) Consolidation loans
 
@@ -590,13 +606,23 @@ Each institution of higher education with which the Secretary has an agreement u
 
 &emsp;&emsp;&emsp;(ii) how such aggregate period shall be calculated to include a course of study or program described in paragraph (3)(B) or (4)(B) of section 1091(b) of this title, respectively.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979; Pub. L. 113–28, §2(a), Aug. 9, 2013, 127 Stat. 506; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160; Pub. L. 115–245, div. B, title III, §309(a), Sept. 28, 2018, 132 Stat. 3105.)
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979; Pub. L. 113–28, §2(a), Aug. 9, 2013, 127 Stat. 506; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160; Pub. L. 115–245, div. B, title III, §309(a), Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–91, §4(a), Dec. 19, 2019, 133 Stat. 1192.)
 
 #### References in Text
 
 Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (e)(6). Pub. L. 116–91, §4(a)(2), substituted "including notification of such borrower, that if a borrower" for "including notification of such borrower—
+
+&emsp;"(A) that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103(l)(13) of title 26; and
+
+&emsp;"(B) that if a borrower"
+
+> and struck out "as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3)" after "borrower's loan repayment".
+
+Subsec. (e)(8). Pub. L. 116–91, §4(a)(1), added par. (8).
 
 <b>2018</b>—Subsec. (f)(3) to (5). Pub. L. 115–245 added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
@@ -698,7 +724,7 @@ Subsec. (l). Pub. L. 107–314 added subsec. (l).
 
 > except that such rate shall not exceed 9 percent."
 
-<b>1998</b>—Subsec. (b)(5). Pub. L. 105–178, §8301(c)(2), which directed amendment of section 455(b) (20 U.S.C. 1087e(b)) by adding par. (5), was executed to this section, which is section 455(b) of Pub. L. 89–329, to reflectthe probable intent of Congress. Former par. (5) redesignated (6).
+<b>1998</b>—Subsec. (b)(5). Pub. L. 105–178, §8301(c)(2), which directed amendment of section 455(b) (20 U.S.C. 1087e(b)) by adding par. (5), was executed to this section, which is section 455(b) of Pub. L. 89–329, to reflect the probable intent of Congress. Former par. (5) redesignated (6).
 
 Subsec. (b)(6). Pub. L. 105–244, §452(a)(1), added par. (6) relating to interest rate provision for new loans.
 

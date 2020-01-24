@@ -8,7 +8,7 @@ Upon the issuance by the Secretary of a declaration under section 247d–6d(b) o
 
 #### (1) In general
 
-&emsp;If the Secretary issues a declaration under 247d–6d(b) of this title, the Secretary shall, after amounts have by law been provided for the Fund under subsection (a), provide compensation to an eligible individual for a covered injury directly caused by the administration or use of a covered countermeasure pursuant to such declaration.
+&emsp;If the Secretary issues a declaration under 247d–6d(b) of this title, the Secretary shall, after amounts have by law been provided forthe Fund under subsection (a), provide compensation to an eligible individual for a covered injury directly caused by the administration or use of a covered countermeasure pursuant to such declaration.
 
 #### (2) Elements of compensation
 
@@ -26,7 +26,7 @@ Upon the issuance by the Secretary of a declaration under section 247d–6d(b) o
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall by regulation establish a table identifying covered injuries that shall be presumed to be directly caused by the administration or use of a covered countermeasure and the time period in which the first symptom or manifestation of onset ofeach such adverse effect must manifest in order for such presumption to apply. The Secretary may only identify such covered injuries, for purpose of inclusion on the table, where the Secretary determines, based on compelling, reliable, valid, medical and scientific evidence that administration or use of the covered countermeasure directly caused such covered injury.
+&emsp;&emsp;The Secretary shall by regulation establish a table identifying covered injuries that shall be presumed to be directly caused by the administration or use of a covered countermeasure and the time period in which the first symptom or manifestation of onset of each such adverse effect must manifest in order for such presumption to apply. The Secretary may only identify such covered injuries, for purpose of inclusion on the table, where the Secretary determines, based on compelling, reliable, valid, medical and scientific evidence that administration or use of the covered countermeasure directly caused such covered injury.
 
 #### (B) Amendments
 
@@ -70,7 +70,7 @@ The Secretary shall ensure that a State, local, or Department of Health and Huma
 
 #### (5) Election
 
-&emsp;If under subsection (a) the Secretary determines that a covered individual qualifies for compensation, the individual has an election to accept the compensation or to bring an action under section 247d–6d(d) of this title. If such individual elects to accept the compensation, the individual may not bring such an action.
+&emsp;If under subsection (a) the Secretary determines that a covered individual qualifies forcompensation, the individual has an election to accept the compensation or to bring an action under section 247d–6d(d) of this title. If such individual elects to accept the compensation, the individual may not bring such an action.
 
 #### (e) Definitions
 

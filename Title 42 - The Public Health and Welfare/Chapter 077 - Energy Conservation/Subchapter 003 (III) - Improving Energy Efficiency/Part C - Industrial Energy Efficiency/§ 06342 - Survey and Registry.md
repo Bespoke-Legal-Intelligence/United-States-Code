@@ -94,7 +94,7 @@ On the request of the owner or operator of a source or site included in the Regi
 
 &emsp;&emsp;&emsp;&emsp;(I) the applicable State energy office; and
 
-&emsp;&emsp;&emsp;&emsp;(II) any utility requested to support recovery of waste energy from the sourcepursuant to the incentives provided under section 6344 of this title.
+&emsp;&emsp;&emsp;&emsp;(II) any utility requested to support recovery of waste energy from the source pursuant to the incentives provided under section 6344 of this title.
 
 #### (iii) State totals
 

@@ -50,7 +50,7 @@
 
 > shall be accepted as sufficient evidence of such veteran's inability to defray necessary expenses.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, §622; Pub. L. 89–612, §1, Sept. 30, 1966, 80 Stat. 859; Pub. L. 91–500, §1, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 94–581, title II, §§202(k), 210(a)(9), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–330, title IV, §401(a), Aug. 26, 1980, 94 Stat. 1051; Pub. L. 99–272, title XIX, §19011(c)(1), Apr. 7, 1986, 100 Stat. 376; Pub. L. 100–322, title I, §102(b), May 20, 1988, 102 Stat. 493; Pub. L. 101–508, title VIII, §8013(c), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1722 and amended Pub. L. 102–83,§§4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 104–262, title I, §101(d)(9), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 112–154, title VII, §705, Aug. 6, 2012, 126 Stat. 1206.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, §622; Pub. L. 89–612, §1, Sept. 30, 1966, 80 Stat. 859; Pub. L. 91–500, §1, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 94–581, title II, §§202(k), 210(a)(9), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–330, title IV, §401(a), Aug. 26, 1980, 94 Stat. 1051; Pub. L. 99–272, title XIX, §19011(c)(1), Apr. 7, 1986, 100 Stat. 376; Pub. L. 100–322, title I, §102(b), May 20, 1988, 102 Stat. 493; Pub. L. 101–508, title VIII, §8013(c), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1722 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 104–262, title I, §101(d)(9), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 112–154, title VII, §705, Aug. 6, 2012, 126 Stat. 1206.)
 
 #### References in Text
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 101–508 applicable with respect to hospital care and medi
 
 #### Effective Date of 1986 Amendment
 
-Provisions of this section as in effect on the day before Apr. 7, 1986, applicable with respect to hospital andnursing home care furnished on or after July 1, 1986, to veterans furnished such care or services on June 30, 1986, but only to the extent that such care is furnished with respect to the same episode of care for which it was furnished on June 30, 1986, see section 19011(f) of Pub. L. 99–272, set out as a note under section 1710 of this title.
+Provisions of this section as in effect on the day before Apr. 7, 1986, applicable with respect to hospital and nursing home care furnished on or after July 1, 1986, to veterans furnished such care or services on June 30, 1986, but only to the extent that such care is furnished with respect to the same episode of care for which it was furnished on June 30, 1986, see section 19011(f) of Pub. L. 99–272, set out as a note under section 1710 of this title.
 
 #### Effective Date of 1976 Amendment
 

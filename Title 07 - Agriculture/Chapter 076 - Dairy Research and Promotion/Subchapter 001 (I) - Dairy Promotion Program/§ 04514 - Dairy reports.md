@@ -22,13 +22,15 @@ The Secretary of Agriculture shall submit to the House Committee on Agriculture 
 
 &emsp;(3) Not later than April 15, 1985, a report on the effectiveness of the paid diversion program carried out under section 1446(d) of this title.
 
-&emsp;(4) Not later than July 1, 1985, and July 1 of each year after the date of enactment of this title,<sup>1</sup> an annual report describing activities conducted under the dairy products promotion and research order issued under this subchapter, and accounting for the receipt and disbursement of all funds received by the National Dairy Promotion and Research Board under such order including an independent analysis of the effectiveness of the program.
+&emsp;(4) Not later than July 1, 1985, and July 1 of each year after the date of enactment of this title,<sup>1</sup> an annual report describing activities conducted under the dairy products promotion and research order issued under subtitle B of title I of this Act \[7 U.S.C. 4501 et seq.\], and accounting for the receipt and disbursement of all funds received by the National Dairy Promotion and Research Board under such order including an independent analysis of the effectiveness of the program.
 
 (Pub. L. 98–180, title III, §301, Nov. 29, 1983, 97 Stat. 1150.)
 
 #### References in Text
 
 The date of enactment of this title, referred to in par. (4), means the date of enactment of title III of Pub. L. 98–180, which was approved Nov. 29, 1983.
+
+Subtitle B of title I of this Act, referred to in par. (4), is subtitle B (§§110–122) of title I of Pub. L. 98–180, which is classified generally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
 #### Codification
 

@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;(7) a critical part of this treaty is Protocol II which prohibits nuclear attacks by nuclear weapons states on signatories to the treaty;
 
-&emsp;(8) in 1991, a proposal was made for a regional conference on non-proliferation inSouth Asia which would include Pakistan, India, the People's Republic of China, the Soviet Union, and the United States; and
+&emsp;(8) in 1991, a proposal was made for a regional conference on non-proliferation in South Asia which would include Pakistan, India, the People's Republic of China, the Soviet Union, and the United States; and
 
 &emsp;(9) thus far, Pakistan, China, Russia, and the United States have expressed interest in attending such a conference, whereas India has refused to attend.
 

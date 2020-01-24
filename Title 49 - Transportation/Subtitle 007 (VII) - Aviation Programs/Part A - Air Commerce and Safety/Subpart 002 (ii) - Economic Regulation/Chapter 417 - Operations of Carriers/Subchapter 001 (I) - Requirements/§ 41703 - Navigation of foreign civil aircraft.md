@@ -30,7 +30,7 @@ Providing Air Commerce.—The Secretary may authorize an aircraft permitted to n
 
 (d)
 
-Permit Requirements Not Affected.—This section does not affect section 41301 or 41302of this title. However, a foreign air carrier holding a permit under section 41302 does not need to obtain additional authorization under this section for an operation authorized by the permit.
+Permit Requirements Not Affected.—This section does not affect section 41301 or 41302 of this title. However, a foreign air carrier holding a permit under section 41302 does not need to obtain additional authorization under this section for an operation authorized by the permit.
 
 (e)
 

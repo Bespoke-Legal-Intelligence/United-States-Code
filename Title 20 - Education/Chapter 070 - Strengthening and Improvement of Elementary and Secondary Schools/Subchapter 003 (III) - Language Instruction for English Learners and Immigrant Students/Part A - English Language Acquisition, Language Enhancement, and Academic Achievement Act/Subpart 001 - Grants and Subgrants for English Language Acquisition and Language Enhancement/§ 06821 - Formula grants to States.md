@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the case of each State educational agency having a plan approved by the Secretary for a fiscal year under section 6823 of this title, the Secretary shall make a grant for the year to the agency for the purposes specified in subsection (b). The grant shall consist of the allotment determined for the State educational agency under subsection (c).
+In the case of each State educational agency having a plan approved by the Secretary for a fiscal year under section 6823 of this title, the Secretary shall make a grant for the year to the agency for the purposes specified in subsection\(b). The grant shall consist of the allotment determined for the State educational agency under subsection (c).
 
 #### (b) Use of funds
 
@@ -12,7 +12,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 &emsp;&emsp;(A) to award subgrants, from allocations under section 6824 of this title, to eligible entities to carry out the activities described in section 6825 of this title (other than subsection (e)); and
 
-&emsp;&emsp;(B) to award subgrants under section 6824(d)(1) of this title to eligible entities thatare described in that section to carry out the activities described in section 6825(e) of this title.
+&emsp;&emsp;(B) to award subgrants under section 6824(d)(1) of this title to eligible entities that are described in that section to carry out the activities described in section 6825(e) of this title.
 
 #### (2) State activities
 
@@ -68,7 +68,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 &emsp;&emsp;&emsp;(i) an amount that bears the same relationship to 80 percent of the remainder as the number of English learners in the State bears to the number of English learners in all States, as determined in accordance with paragraph (3)(A); and
 
-&emsp;&emsp;&emsp;(ii) an amount that bears the same relationship to 20 percent of the remainder as the number of immigrant children and youth in the State bears to the number of such children and youth in all States, as determined in accordance with paragraph (3)(B).
+&emsp;&emsp;&emsp;(ii) an amount that bears the same relationship to 20 percent of the remainder asthe number of immigrant children and youth in the State bears to the number of such children and youth in all States, as determined in accordance with paragraph (3)(B).
 
 #### (B) Minimum allotments
 

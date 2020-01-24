@@ -86,7 +86,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective and Termination Dates of 1976 Amendment
 
-Amendment by section 401(a)(2)(C) of Pub. L. 94–455 applicable to taxable years ending after Dec. 31, 1975, but ceasing to be applicable to taxable years ending after Dec. 31, 1978, see section 401(e) of Pub. L. 94–455, as amended, set out as an Effective Date of 1976 Amendment note under section 32 of this title.
+Amendment by section 401(a)(2)(C) of Pub. L. 94–455 applicable to taxable years ending after Dec. 31, 1975, but ceasing to be applicable to taxable years endingafter Dec. 31, 1978, see section 401(e) of Pub. L. 94–455, as amended, set out as an Effective Date of 1976 Amendment note under section 32 of this title.
 
 Amendment by section 504(c)(2) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 508 of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 3 of this title.
 

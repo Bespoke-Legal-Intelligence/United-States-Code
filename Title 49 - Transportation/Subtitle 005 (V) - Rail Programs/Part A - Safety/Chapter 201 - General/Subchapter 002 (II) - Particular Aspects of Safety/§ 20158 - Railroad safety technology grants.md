@@ -32,7 +32,7 @@ Matching requirements.—Federal funds for any eligible project under this secti
 
 (c)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Transportation $50,000,000 for each offiscal years 2009 through 2013 to carry out this section. Amounts appropriated pursuant to this section shall remain available until expended.
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Transportation $50,000,000 for each of fiscal years 2009 through 2013 to carry out this section. Amounts appropriated pursuant to this section shall remain available until expended.
 
 (Added Pub. L. 110–432, div. A, title I, §105(a), Oct. 16, 2008, 122 Stat. 4858.)
 

@@ -40,7 +40,7 @@ Subsec. (d). Pub. L. 100–418, §2204(c)(1)(A)(iii), substituted "made availabl
 
 Pub. L. 100–418, title II, §2204(d)(2), Aug. 23, 1988, 102 Stat. 1331, provided that:
 
-"(A) The Administrator of the Agency for International Development shall transfer to the Director ofthe Trade and Development Program \[now Trade and Development Agency\] all records, contracts, applications, and any other documents or information in connection with the functions transferred by virtue of the amendments made by subsection (c)(1) \[amending sections 635q and 635r of this title\].
+"(A) The Administrator of the Agency for International Development shall transfer to the Director of the Trade and Development Program \[now Trade and Development Agency\] all records, contracts, applications, and any other documents or information in connection with the functions transferred by virtue of the amendments made by subsection (c)(1) \[amending sections 635q and 635r of this title\].
 
 "(B) All determinations, regulations, and contracts—
 

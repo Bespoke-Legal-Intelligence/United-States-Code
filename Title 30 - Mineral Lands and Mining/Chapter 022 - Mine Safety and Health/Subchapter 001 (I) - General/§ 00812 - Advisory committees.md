@@ -42,7 +42,7 @@ The Secretary or the Secretary of Health and Human Services may appoint other ad
 
 #### (d) Compensation; travel and subsistence expenses
 
-Advisory committee members, other than officers or employees of Federal, State, or local governments, shall be, for each day (including traveltime) during which they are performing committee business, entitled to receive compensation at a rate fixed by the appropriate Secretary but not in excess of the maximum rate of pay for grade GS–18 as provided in the General Schedule under section 5332 of title 5, and shall, notwithstanding the limitations of sections 5703 and 5704 of title 5, be fully reimbursed for travel, subsistence, and related expenses.
+Advisory committee members, other than officers or employees of Federal, State, or local governments, shall be, for each day (including traveltime) during which they are performing committee business, entitled to receive compensation at a rate fixed by the appropriate Secretary but not in excess of the maximum rate of pay for grade GS–18 as provided in the General Schedule under section 5332 of title 5, and shall, notwithstanding the limitations of sections 5703and 5704 of title 5, be fully reimbursed for travel, subsistence, and related expenses.
 
 (Pub. L. 91–173, title I, §102, Dec. 30, 1969, 83 Stat. 747; Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91 Stat. 1295; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
@@ -86,5 +86,5 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

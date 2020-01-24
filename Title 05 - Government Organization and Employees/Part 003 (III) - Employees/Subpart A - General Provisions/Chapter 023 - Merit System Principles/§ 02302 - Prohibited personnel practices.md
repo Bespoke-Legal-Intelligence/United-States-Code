@@ -92,13 +92,23 @@
 
 &emsp;&emsp;&emsp;(ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety,
 
-> &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; or
+> &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs;
 
 &emsp;&emsp;(B) any disclosure to the Special Counsel, or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures, of information which the employee or applicant reasonably believes evidences—
 
 &emsp;&emsp;&emsp;(i) any violation (other than a violation of this section) of any law, rule, or regulation, or
 
-&emsp;&emsp;&emsp;(ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+&emsp;&emsp;&emsp;(ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety; or
+
+&emsp;&emsp;(C) any disclosure to Congress (including any committee of Congress) by any employee of an agency or applicant for employment at an agency of information described in subparagraph (B) that is—
+
+&emsp;&emsp;&emsp;(i) not classified; or
+
+&emsp;&emsp;&emsp;(ii) if classified—
+
+&emsp;&emsp;&emsp;&emsp;(I) has been classified by the head of an agency that is not an element of the intelligence community (as defined by section 3 of the National Security Act of 1947 (50 U.S.C. 3003)); and
+
+&emsp;&emsp;&emsp;&emsp;(II) does not reveal intelligence sources and methods.<sup>1</sup>
 
 &emsp;(9) take or fail to take, or threaten to take or fail to take, any personnel action against any employee or applicant for employment because of—
 
@@ -156,7 +166,7 @@
 
 &emsp;&emsp;&emsp;(II) the Inspector General of an agency;
 
-&emsp;&emsp;&emsp;(III) Congress; or
+&emsp;&emsp;&emsp;(III) Congress (including any committee of Congress with respect to information that is not classified or, if classified, has been classified by the head of an agency that is not an element of the intelligence community and does not reveal intelligence sources and methods); or
 
 &emsp;&emsp;&emsp;(IV) another employee of the agency who is designated to receive such a disclosure.
 
@@ -214,9 +224,9 @@
 
 &emsp;(G) of the amount of time which has passed since the occurrence of the events described in the disclosure.
 
-(2) If a disclosure is made during the normal course of duties of an employee, the principal job function of whom is to regularly investigateand disclose wrongdoing (referred to in this paragraph as the "disclosing employee"), the disclosure shall not be excluded from subsection (b)(8) if the disclosing employee demonstrates that an employee who has the authority to take, direct other individuals to take, recommend, or approve any personnel action with respect to the disclosing employee took, failed to take, or threatened to take or fail to take a personnel action with respect to the disclosing employee in reprisal for the disclosure made by the disclosing employee.
+(2) If a disclosure is made during the normal course of duties of an employee, the principal job function of whom is to regularly investigate and disclose wrongdoing (referred to in this paragraph as the "disclosing employee"), the disclosure shall not be excluded from subsection (b)(8) if the disclosing employee demonstrates that an employee who has the authority to take, direct other individuals to take, recommend, or approve any personnel action with respect to the disclosing employee took, failed to take, or threatened to take or fail to take a personnel action with respect to the disclosing employee in reprisal for the disclosure made by the disclosing employee.
 
-(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–199, title I, §§101(a), (b)(1)(B), (2)(B), (C), 102–104(b)(1), 105, 112, Nov. 27, 2012, 126 Stat. 1465–1468, 1472; Pub. L. 112–277, title V, §505(a), Jan. 14, 2013, 126 Stat. 2478; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. J, title II, §238, Dec. 18, 2015, 129 Stat. 2700; Pub. L. 115–40, §2, June 14, 2017, 131 Stat. 861; Pub. L. 115–73, title I, §§103, 107(a)(1), Oct. 26, 2017, 131 Stat. 1236, 1238; Pub. L. 115–91, div. A, title X, §1097(b)(1)(B), (c)(1), Dec. 12, 2017, 131 Stat. 1616, 1618.)
+(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–199, title I, §§101(a), (b)(1)(B), (2)(B), (C), 102–104(b)(1), 105, 112, Nov. 27, 2012, 126 Stat. 1465–1468, 1472; Pub. L. 112–277, title V, §505(a), Jan. 14, 2013, 126 Stat. 2478; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. J, title II, §238, Dec. 18, 2015, 129 Stat. 2700; Pub. L. 115–40, §2, June 14, 2017, 131 Stat. 861; Pub. L. 115–73, title I, §§103, 107(a)(1), Oct. 26, 2017, 131 Stat. 1236, 1238; Pub. L. 115–91, div. A, title X, §1097(b)(1)(B), (c)(1), Dec. 12, 2017, 131 Stat. 1616, 1618; Pub. L. 116–92, div. E, title LVII, §5721, Dec. 20, 2019, 133 Stat. 2175.)
 
 #### References in Text
 
@@ -229,6 +239,10 @@ Section 106(f) of title 38, referred to in subsec. (e)(1)(E), was enacted subseq
 Section 7802(5) of title 38, referred to in subsec. (e)(1)(E), was redesignated section 7802(e) of title 38 by Pub. L. 108–170, title III, §304(b)(3), Dec. 6, 2003, 117 Stat. 2059.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(8)(C). Pub. L. 116–92, §5721(1), added subpar. (C).
+
+Subsec. (c)(2)(C)(iii)(III). Pub. L. 116–92, §5721(2), inserted "(including any committee of Congress with respect to information that is not classified or, if classified, has been classified by the head of an agency that is not an element of the intelligence community and does not reveal intelligence sources and methods)" after "Congress".
 
 <b>2017</b>—Subsec. (b)(9)(C). Pub. L. 115–91, §1097(c)(1)(A), inserted "(or any other component responsible for internal investigation or review)" after "Inspector General".
 
@@ -368,7 +382,7 @@ Pub. L. 112–199, title I, §104(b)(3), Nov. 27, 2012, 126 Stat. 1467, provided
 
 #### Disclosure of Censorship Related to Research, Analysis, or Technical Information
 
-Pub. L. 112–199, title I, §110, Nov. 27, 2012, 126 Stat. 1471, as amended by Pub. L. 115–73, title I, §107(a)(2)(C), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(C), Dec. 12, 2017, 131 Stat. 1618, provided that:
+Pub. L. 112–199, title I, §110, Nov. 27, 2012, 126 Stat. 1471, as amended by Pub. L. 115–73, title I, §107(a)(2)(C),Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(C), Dec. 12, 2017, 131 Stat. 1618, provided that:
 
 "(a)
 
@@ -448,7 +462,7 @@ In general.—Any nondisclosure policy, form, or agreement described under parag
 
 &emsp;&emsp;"(B)
 
-Nondisclosure policy, form, or agreement in effect before the effective date.—With respect to a nondisclosure policy, form, or agreementthat was in effect before the effective date of this Act \[see Effective Date of 2012 Amendment note above\], but that does not contain the statement required under paragraph (1) for implementation or enforcement—
+Nondisclosure policy, form, or agreement in effect before the effective date.—With respect to a nondisclosure policy, form, or agreement that was in effect before the effective date of this Act \[see Effective Date of 2012 Amendment note above\], but that does not contain the statement required under paragraph (1) for implementation or enforcement—
 
 &emsp;&emsp;&emsp;"(i) it shall not be a prohibited personnel practice to enforce that policy, form, or agreement with regard to a current employee if the agency gives such employee notice of the statement; and
 
@@ -464,7 +478,7 @@ Memorandum of President of the United States, June 17, 2009, 74 F.R. 29393, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Millions of hard-working, dedicated, and patriotic public servants are employed by the Federal Government as part of the civilian workforce, and many of these devoted Americans have same-sex domestic partners. Leading companies in the private sector are free to provide to same-sex domestic partners the same benefits they provide to married people of the opposite sex. Executive departments and agencies, however, may only provide benefits on that basis if they have legal authorization to do so. My Administration is not authorized by Federal law to extend a number of available Federal benefits to the same-sex partners of Federal employees. Within existing law, however, my Administration, in consultation with the Secretary of State, who oversees our Foreign Service employees, and the Director of the Office of Personnel Management, who oversees human resource management for our civil service employees, has identified areas in which statutory authority exists to achieve greater equality for the Federal workforce through extension to same-sex domestic partners of benefits currently available to married people of the opposite sex. Extending available benefits will help the Federal Government compete with the private sector to recruit and retain the best and the brightest employees.
+Millions of hard-working, dedicated, and patriotic public servants are employed by the Federal Government as part of the civilian workforce, and many of these devoted Americans have same-sex domestic partners. Leading companies in the private sector are free to provide to same-sex domestic partners the same benefits they provide to married people of the opposite sex. Executive departments and agencies, however, may only provide benefits on that basis if they have legal authorization to do so. My Administration is not authorized by Federal law to extend a number of availableFederal benefits to the same-sex partners of Federal employees. Within existing law, however, my Administration, in consultation with the Secretary of State, who oversees our Foreign Service employees, and the Director of the Office of Personnel Management, who oversees human resource management for our civil service employees, has identified areas in which statutory authority exists to achieve greater equality for the Federal workforce through extension to same-sex domestic partners of benefits currently available to married people of the opposite sex. Extending available benefits will help the Federal Government compete with the private sector to recruit and retain the best and the brightest employees.
 
 I hereby request the following:
 
@@ -520,7 +534,7 @@ Section 1. <i>Immediate Actions To Extend Benefits</i>. Agencies should immediat
 
 (c) All agencies offering any of the benefits specified by OPM in implementing guidance under section 3 of this memorandum, including credit union membership, access to fitness facilities, and access to planning and counseling services, should take all appropriate action to provide the same level of benefits that is provided to employees' spouses and their children to employees' same-sex domestic partners and their children.
 
-(d) All agencies with authority to provide benefits to employees outside of the context of title 5, United States Code should take all appropriate actions to ensure that the benefits being provided to employees' spouses and their children are also being provided, at an equivalent level wherever permitted by law, to their employees' same-sex domestic partners and their children.
+(d) All agencies with authority to provide benefits to employees outside of the context of title 5, United States Code should take all appropriate actions to ensure that the benefits being provided to employees'spouses and their children are also being provided, at an equivalent level wherever permitted by law, to their employees' same-sex domestic partners and their children.
 
 Sec. 2. <i>Continuing Obligation To Provide New Benefits</i>. In the future, all agencies that provide new benefits to the spouses of Federal employees and their children should, to the extent permitted by law, also provide them to the same-sex domestic partners of their employees and those same-sex domestic partners' children. This section applies to appropriated and nonappropriated fund instrumentalities of such agencies.
 
@@ -541,6 +555,8 @@ Sec. 5. <i>General Provisions</i>. (a) Except as expressly stated herein, nothin
 Sec. 6. <i>Publication</i>. The Director of OPM is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

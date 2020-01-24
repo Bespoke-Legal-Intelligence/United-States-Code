@@ -24,7 +24,7 @@ Subsec. (a)(1). Pub. L. 102–232, §102(b)(1)(A), added par. (1) and struck out
 
 Subsec. (a)(2). Pub. L. 102–232, §102(b)(1)(B), inserted "a list of applicants actually taking the oath at each scheduled ceremony and" after "Attorney General".
 
-Subsec. (a)(3), (4). Pub. L. 102–232, §102(b)(1)(C)–(E), added par. (4), redesignated former par. (4) as (3) andsubstituted ", and" for period at end, and struck out former par. (3) which directed clerk to make and keep on file evidence for each document issued.
+Subsec. (a)(3), (4). Pub. L. 102–232, §102(b)(1)(C)–(E), added par. (4), redesignated former par. (4) as (3) and substituted ", and" for period at end, and struck out former par. (3) which directed clerk to make and keep on file evidence for each document issued.
 
 <b>1990</b>—Pub. L. 101–649 amended section generally, substituting provisions relating to functions and duties of clerks and records of declarations of intention and applications for naturalization, for provisions relating to functions and duties of clerks of naturalization courts.
 

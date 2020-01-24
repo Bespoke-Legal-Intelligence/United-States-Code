@@ -12,7 +12,7 @@
 
 (2) The head of an agency of an employee detailed under subsection (a) may pay a lodging allowance for the employee subject to the following conditions:
 
-&emsp;(A) The allowance shall be the lesser of the cost of the lodging or a maximum amount payable for the lodging as established jointly by the Director of National Intelligence and—
+&emsp;(A) The allowance shall be the lesser of the cost of the lodging or a maximum amountpayable for the lodging as established jointly by the Director of National Intelligence and—
 
 &emsp;&emsp;(i) with respect to detailed employees of the Department of Defense, the Secretary of Defense; and
 

@@ -188,7 +188,7 @@ Pub. L. 106–569, title V, §512, Dec. 27, 2000, 114 Stat. 2966, provided that:
 
 &emsp;&emsp;"(E) the inclusion of Native Hawaiians in the definition under section 3764 \[now 3765\] of title 38, United States Code, applicable to subchapter V of chapter 37 of title 38, United States Code (relating to a housing loan program for Native American veterans); and
 
-&emsp;&emsp;"(F) the enactment of the Hawaiian Home Lands Recovery Act (109 Stat. 357; 48 U.S.C. 491, note prec.) \[Pub. L. 104–42, title II\] which establishes a process for the conveyance of Federal lands to theDepartment of Hawaiian Homes Lands that are equivalent in value to lands acquired by the United States from the Hawaiian Home Lands inventory."
+&emsp;&emsp;"(F) the enactment of the Hawaiian Home Lands Recovery Act (109 Stat. 357; 48 U.S.C. 491, note prec.) \[Pub. L. 104–42, title II\] which establishes a process for the conveyance of Federal lands to the Department of Hawaiian Homes Lands that are equivalent in value to lands acquired by the United States from the Hawaiian Home Lands inventory."
 
 Substantially identical provisions were contained in Pub. L. 106–568, title II, §202, Dec. 27, 2000, 114 Stat. 2872.
 

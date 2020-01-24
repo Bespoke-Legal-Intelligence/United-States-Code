@@ -26,7 +26,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 #### (c) Permanent exemption for cogeneration
 
-After consideration of a petition (and comments thereon) for an exemption from one ormore of the prohibitions of part A for a cogeneration facility, the Secretary may, by order, grant a permanent exemption under this subsection with respect to natural gas or petroleum, if he—
+After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a cogeneration facility, the Secretary may, by order, grant a permanent exemption under this subsection with respect to natural gas or petroleum, if he—
 
 &emsp;(1) finds that the petitioner has demonstrated that economic and other benefits of cogeneration are unobtainable unless petroleum or natural gas, or both, are used in such facility, and
 
@@ -50,7 +50,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 &emsp;(1) such exemption is necessary to prevent impairment of reliability of service, and
 
-&emsp;(2) the petitioner, despite diligent good faith efforts, is not able to make the demonstration necessary to obtain an exemption under subsection (a) or (b) in the time required to prevent such impairment of service.
+&emsp;(2) the petitioner, despite diligent good faith efforts, is not able to make the demonstrationnecessary to obtain an exemption under subsection (a) or (b) in the time required to prevent such impairment of service.
 
 (Pub. L. 95–620, title II, §212, Nov. 9, 1978, 92 Stat. 3300; Pub. L. 100–42, §1(c)(6), May 21, 1987, 101 Stat. 312.)
 

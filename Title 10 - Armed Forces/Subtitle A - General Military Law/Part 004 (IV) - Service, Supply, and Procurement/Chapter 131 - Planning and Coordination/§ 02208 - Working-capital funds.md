@@ -72,7 +72,7 @@
 
 (4) In this subsection:
 
-&emsp;(A) The term "advance billing", with respect to a working-capital fund, means a billing of a customer by the fund, or a requirement for a customer to reimburse or otherwise credit the fund, for the cost of goods or services provided (or for other expenses incurred) on behalf of the customer that is rendered or imposed before the customer receives the goods or before the services have been performed.
+&emsp;(A) The term "advance billing", with respect to a working-capital fund, means a billing of a customer by the fund, or a requirement for a customer to reimburse or otherwise credit thefund, for the cost of goods or services provided (or for other expenses incurred) on behalf of the customer that is rendered or imposed before the customer receives the goods or before the services have been performed.
 
 &emsp;(B) The term "customer" means a requisitioning component or agency.
 
@@ -158,15 +158,17 @@ Market Fluctuation Account.—(1) From amounts available for Working Capital Fun
 
 (u)
 
-Use for Unspecified Minor Military Construction Projects to Revitalize and Recapitalize Defense Industrial Base Facilities.—(1) The Secretary of a military department may use a working capital fund of the department under this section to carry out an unspecified minor military construction project under section 2805 for the revitalization and recapitalization of a defense industrial base facility owned by the United States and under the jurisdiction of the Secretary.
+Use for Unspecified Minor Military Construction Projects to Revitalize and Recapitalize Defense Industrial Base Facilities.—(1) The Secretary of a military department may use a working capital fund of the department under this section to fund an unspecified minor military construction project under section 2805 of this title for the revitalization and recapitalization of a defense industrial base facility owned by the United States and under the jurisdiction of the Secretary.
 
-(2) Section 2805 shall apply with respect to a project carried out with a working capital fund under the authority of this subsection in the same manner as such section applies to any unspecified minor military construction project under section 2805.
+(2)(A) Except as provided in subparagraph (B), section 2805 of this title shall apply with respect to a project funded using a working capital fund under the authority of this subsection in the same manner as such section applies to any unspecified minor military construction project under section 2805 of this title.
+
+(B) For purposes of applying subparagraph (A), the dollar limitation specified in subsection (a)(2) of section 2805 of this title, subject to adjustment as provided in subsection (f) of such section, shall apply rather than the dollar limitation specified in subsection (c) of such section.
 
 (3) In this subsection, the term "defense industrial base facility" means any Department of Defense depot, arsenal, shipyard, or plant located within the United States.
 
-(4) The authority to use a working capital fund to carry out a project under the authority of this subsection expires on September 30, 2023.
+(4) The authority to use a working capital fund to fund a project under the authority of this subsection expires on September 30, 2023.
 
-(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§331(a)(1), 332, title X, §1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §341(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64; Pub. L. 108–375, div. A, title X, §1009, Oct. 28, 2004, 118 Stat. 2037; Pub. L. 111–383, div. A, title XIV, §1403, Jan. 7, 2011, 124 Stat. 4410; Pub. L. 112–81, div. B, title XXVIII, §2802(c)(1), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 114–92, div. A, title XIV, §§1421, 1422, Nov. 25, 2015, 129 Stat. 1083, 1084; Pub. L. 115–91, div. A, title II, §212, Dec. 12, 2017, 131 Stat. 1324; Pub. L. 115–232, div. A, title III, §321, title VIII, §809(a), title XIV, §1422, Aug. 13, 2018, 132 Stat. 1718, 1840, 2093.)
+(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§331(a)(1), 332, title X, §1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §341(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64; Pub. L. 108–375, div. A, title X, §1009, Oct. 28, 2004, 118 Stat. 2037; Pub. L. 111–383, div. A, title XIV, §1403, Jan. 7, 2011, 124 Stat. 4410; Pub. L. 112–81, div. B, title XXVIII, §2802(c)(1), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 114–92, div. A, title XIV, §§1421, 1422, Nov. 25, 2015, 129 Stat. 1083, 1084; Pub. L. 115–91, div. A, title II, §212, Dec. 12, 2017, 131 Stat. 1324; Pub. L. 115–232, div. A, title III, §321, title VIII, §809(a), title XIV, §1422, Aug. 13, 2018, 132 Stat. 1718, 1840, 2093; Pub. L. 116–92, div. A, title III, §352, title XVII, §1731(a)(29), Dec. 20, 2019, 133 Stat. 1320, 1813.)
 
 Historical and Revision Notes<br>1956
 
@@ -249,6 +251,14 @@ The word "hereafter" is omitted as executed.
 Provisions similar to those in subsecs. (m) to (q) of this section were contained in section 2216a of this title prior to repeal by Pub. L. 105–261, §1008(b).
 
 #### Amendments
+
+<b>2019</b>—Subsec. (u). Pub. L. 116–92, §1731(a)(29), inserted "of this title" after "2805" wherever appearing.
+
+Subsec. (u)(1). Pub. L. 116–92, §352(1), substituted "to fund" for "to carry out".
+
+Subsec. (u)(2). Pub. L. 116–92, §352(2), designated existing provisions as subpar. (A), substituted "Except asprovided in subparagraph (B), section 2805" for "Section 2805" and "carried out with" for "funded using", and added subpar. (B).
+
+Subsec. (u)(4). Pub. L. 116–92, §352(3), substituted "to fund" for "to carry out".
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–232, §1422, inserted at end "The accomplishment of the most economical and efficient organization and operation of working capital fund activities for the purposes of this subsection shall include actions toward the following:
 
@@ -428,7 +438,7 @@ Pub. L. 103–337, div. A, title III, §311(f), (g), Oct. 5, 1994, 108 Stat. 270
 
 #### Charges for Goods and Services Provided Through Defense Business Operations Fund
 
-Pub. L. 103–160, div. A, title III, §333(a), (b), Nov. 30, 1993, 107 Stat. 1621, which provided that charges for goods and services provided through Defense Business Operations Fund were to include amounts necessary to recover full costs of development, implementation, operation, and maintenance of systems supporting wholesale supply and maintenance activities of Department of Defense and use of military personnel in provision of goods and services, and were not to include amounts necessary to recover costs of military construction project other than minor construction project financed by Defense Business Operations Fund pursuant to section 2805(c)(1) of this title, and which required full cost of operation of Defense Finance Accounting Service to be financed within Defense Business Operations Fund through charges for goods and services provided through Fund, was repealed and restated in section 2216a(d)(1)(A), (C), (2)(A) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(2), Feb. 10, 1996, 110 Stat. 277–279.
+Pub. L. 103–160, div. A, title III, §333(a), (b), Nov. 30, 1993, 107 Stat. 1621, which provided that charges for goods and services provided through Defense Business Operations Fund were to include amounts necessary to recover full costs of development, implementation, operation, and maintenance of systems supporting wholesale supply and maintenance activities of Department of Defense and use of military personnel in provision of goods and services, and were not to include amounts necessary to recover costs of military construction project other than minor construction project financed by Defense Business Operations Fund pursuant to section 2805(c)(1) of this title, and which required full cost of operation of Defense Finance Accounting Service to be financed within Defense Business Operations Fund through charges for goods and services provided through Fund, was repealed and restated in section 2216a(d)(1)(A), (C), (2)(A) of this title by Pub. L. 104–106,div. A, title III, §371(a)(1), (b)(2), Feb. 10, 1996, 110 Stat. 277–279.
 
 #### Capital Asset Subaccount
 

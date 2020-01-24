@@ -6,7 +6,7 @@ The Commissioner is authorized to provide financial assistance, on a single year
 
 #### (b) Limitations of financial assistance; exceptions; non-Federal contributions
 
-Financial assistance extended to an agency under this subchapter shall not exceed 80 per centum of the approved costs of the assisted project, except that the Commissioner may approve assistance in excess of such percentage if the Commissioner determines, in accordance with regulations establishing objective criteria, that such action is required in furtherance of the purposes of this subchapter. Non-Federal contributions may be in cash or in kind, fairly evaluated, including but not limited to plant, equipment, and services. The Commissioner shall not require non-Federal contributions in excess of 20 per centum of the approved costs of programs or activities assisted under this subchapter.
+Financial assistance extended to an agency under this subchapter shall not exceed 80 percentum of the approved costs of the assisted project, except that the Commissioner may approve assistance in excess of such percentage if the Commissioner determines, in accordance with regulations establishing objective criteria, that such action is required in furtherance of the purposes of this subchapter. Non-Federal contributions may be in cash or in kind, fairly evaluated, including but not limited to plant, equipment, and services. The Commissioner shall not require non-Federal contributions in excess of 20 per centum of the approved costs of programs or activities assisted under this subchapter.
 
 #### (c) Assistance as addition to, and not substitution for, activities previously carried out without Federal assistance; waiver; nonreservation areas
 
@@ -50,7 +50,7 @@ A prior section 2991b, Pub. L. 88–452, title VIII, §803, as added Pub. L. 89�
 
 Pub. L. 102–375, §822(21), substituted "Alaska Native villages" for "Alaskan Native villages".
 
-Pub. L. 102–375, §822(1)(A), (B)(i), substituted "Commissioner" for "Secretary" wherever appearing andsubstituted "Indian and Alaska Native organizations" for "Indian organizations".
+Pub. L. 102–375, §822(1)(A), (B)(i), substituted "Commissioner" for "Secretary" wherever appearing and substituted "Indian and Alaska Native organizations" for "Indian organizations".
 
 Pub. L. 102–375, §822(1)(B)(ii), which directed the substitution of "area that is not an Indian reservation or Alaska Native village" for "nonreservation area", could not be executed because the words "nonreservation area" did not appear.
 
@@ -62,7 +62,7 @@ Subsecs. (b), (c)(1), (d)(1), (4). Pub. L. 102–375, §822(1)(A), substituted "
 
 Pub. L. 100–175, §§502(1), 504(a), inserted ", on a single year or multiyear basis," after "assistance" in first sentence and inserted after first sentence "The Secretary is authorized, subject to the availability of funds appropriated under the authority of section 2992d(c) of this title, to provide financial assistance to public and nonprofit private agencies serving other Native American Pacific Islanders (including American Samoan Natives) for projects pertaining to the purposes of this Act."
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–558, §1002(a), inserted at end "Every determination made with respect to a request for financial assistance under this section shall be made without regard to whether the agency making such request serves, or the project to be assisted is for the benefit of, Indians who are not members of a federally recognized tribe. To the greatest extent practicable, the Secretary shall ensure that each project to be assisted under this subchapter is consistent with the priorities established by the agency which receives such assistance."
+<b>1984</b>—Subsec. (a). Pub. L. 98–558, §1002(a), inserted at end "Every determination made with respect to a request for financial assistance under this section shall be made without regard to whether the agency making such request serves, or the project to be assisted is for the benefit of, Indians who are not members of a federally recognized tribe. To the greatest extent practicable, the Secretary shall ensure that each project to be assisted under this subchapter is consistent with thepriorities established by the agency which receives such assistance."
 
 Subsec. (c)(1). Pub. L. 98–558, §1002(b), designated existing provisions as par. (1) and added par. (2).
 

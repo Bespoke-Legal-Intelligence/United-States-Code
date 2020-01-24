@@ -192,7 +192,7 @@ Educational agencies and institutions shall give parents and students effective 
 
 #### (e) Enforcement
 
-The Secretary shall take such action as the Secretary determines appropriate to enforce this section, except that action to terminate assistance provided under an applicable program shall be taken only if the Secretary determines that—
+The Secretary shall take such action as the Secretary determines appropriate to enforce this section, except that action to terminate assistance provided under an applicable programshall be taken only if the Secretary determines that—
 
 &emsp;(1) there has been a failure to comply with such section; and
 

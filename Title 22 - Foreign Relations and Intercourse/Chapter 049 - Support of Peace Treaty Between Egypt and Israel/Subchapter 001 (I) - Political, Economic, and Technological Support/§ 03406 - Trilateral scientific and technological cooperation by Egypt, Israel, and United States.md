@@ -2,7 +2,7 @@
 
 #### (a) Preparation for United States participation
 
-It is the sense of the Congress that, in order to continue to build the structure of peace in theMiddle East, the United States should be prepared to participate, at an appropriate time, in trilateral cooperative projects of a scientific and technological nature involving Egypt, Israel, and the United States.
+It is the sense of the Congress that, in order to continue to build the structure of peace in the Middle East, the United States should be prepared to participate, at an appropriate time, in trilateral cooperative projects of a scientific and technological nature involving Egypt, Israel, and the United States.
 
 #### (b) Plan development
 

@@ -100,7 +100,7 @@ Pub. L. 93–597, §2(c), Jan. 2, 1975, 88 Stat. 1950, provided that: "The amend
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–279, §3(a)(1), Apr. 26, 1972, 86 Stat. 125, provided that: "The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years ending on or after February 28, 1961."
+Pub. L. 92–279, §3(a)(1), Apr. 26, 1972, 86 Stat. 125, provided that: "The amendment made by the first sectionof this Act \[amending this section\] shall apply to taxable years ending on or after February 28, 1961."
 
 #### Effective Date of 1966 Amendment
 
@@ -244,7 +244,7 @@ General Rule.—For purposes of the following provisions of the Internal Revenue
 
 "(b)
 
-Qualified Hazardous Duty Area.—For purposes of this section, the term 'qualified hazardous duty area' means Bosnia and Herzegovina, Croatia, or Macedonia, if as of the date of the enactment of this section \[Mar. 20, 1996\] any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay; duty subject to hostile fire or imminent danger) for services performed in such country. Such term includes any such country only during the period such entitlement is in effect. Solely for purposes of applying section 7508 of the Internal Revenue Code of 1986, in the case of an individual who is performing services as part of Operation Joint Endeavor outside the United States while deployed away from such individual's permanentduty station, the term 'qualified hazardous duty area' includes, during the period for which such entitlement is in effect, any area in which such services are performed.
+Qualified Hazardous Duty Area.—For purposes of this section, the term 'qualified hazardous duty area' means Bosnia and Herzegovina, Croatia, or Macedonia, if as of the date of the enactment of this section \[Mar. 20, 1996\] any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay; duty subject to hostile fire or imminent danger) for services performed in such country. Such term includes any such country only during the period such entitlement is in effect. Solely for purposes of applying section 7508 of the Internal Revenue Code of 1986, in the case of an individual who is performing services as part of Operation Joint Endeavor outside the United States while deployed away from such individual's permanent duty station, the term 'qualified hazardous duty area' includes, during the period for which such entitlement is in effect, any area in which such services are performed.
 
 "(c)
 
@@ -358,7 +358,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13239, Dec. 12, 2001, 66 F.R. 64907, provided:
 
-Pursuant to the authority vested in me as President by the Constitution and the laws of the United Statesof America, including section 112 of the Internal Revenue Code of 1986 (26 U.S.C. 112), I designate, for purposes of that section, Afghanistan, including the airspace above, as an area in which Armed Forces of the United States are and have been engaged in combat.
+Pursuant to the authority vested in me as President by the Constitution and the laws of the United States of America, including section 112 of the Internal Revenue Code of 1986 (26 U.S.C. 112), I designate, for purposes of that section, Afghanistan, including the airspace above, as an area in which Armed Forces of the United States are and have been engaged in combat.
 
 For purposes of this order, I designate September 19, 2001, as the date of the commencement of combatant activities in such zone.
 

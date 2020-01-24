@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary shall issue regulations establishing procedures under which eligible units of general local government are required to provide notice to the Secretary of the units' proposed use of assistance under thischapter. Subject to subsection (c), the assistance provided shall be used, in amounts determined by the unit, for activities under, or for activities that are substantially similar to an activity under, 1 or more of the following programs and the notice shall identify 1 or more of the following programs for each such use:
+In General.—The Secretary shall issue regulations establishing procedures under which eligible units of general local government are required to provide notice to the Secretary of the units' proposed use of assistance under this chapter. Subject to subsection (c), the assistance provided shall be used, in amounts determined by the unit, for activities under, or for activities that are substantially similar to an activity under, 1 or more of the following programs and the notice shall identify 1 or more of the following programs for each such use:
 
 &emsp;(1) The Drug Abuse Resistance Education Program under section 5122 of the Elementary and Secondary Education Act of 1965.
 
@@ -68,7 +68,7 @@ General Requirements for Qualification.—A unit of general local government qua
 
 &emsp;(4) if at least 25 percent of the pay of individuals employed by the government in a public employee occupation is paid out of the trust fund, individuals in the occupation any part of whose pay is paid out of the trust fund will receive pay at least equal to the prevailing rate of pay for individuals employed in similar public employee occupations by the government;
 
-&emsp;(5) all laborers and mechanics employed by contractors or subcontractors in the performance of any contract and subcontract for the repair, renovation, alteration, or construction, including painting and decorating, of any building or work that is financed in whole orin part by a grant under this title, shall be paid wages not less than those determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have the authority and functions set forth in Reorganization Plan No. 14 of 1950 (15 FR 3176; 64 Stat. 1267) and section 3145 of title 40;
+&emsp;(5) all laborers and mechanics employed by contractors or subcontractors in the performance of any contract and subcontract for the repair, renovation, alteration, or construction, including painting and decorating, of any building or work that is financed in whole or in part by a grant under this title, shall be paid wages not less than those determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have the authority and functions set forth in Reorganization Plan No. 14 of 1950 (15 FR 3176; 64 Stat. 1267) and section 3145 of title 40;
 
 &emsp;(6) the government will use accounting, audit, and fiscal procedures that conform to guidelines which shall be prescribed by the Secretary. As applicable, amounts received under this chapter shall be audited in compliance with the Single Audit Act of 1984;
 
@@ -118,7 +118,7 @@ Public Law 101–509, referred to in subsec. (a)(3), is Pub. L. 101–509, Nov. 
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (a)(5), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle C of title I of the Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a)(5), is Pub. L. 101–610, Nov. 16,1990, 104 Stat. 3127, as amended. Subtitle C of title I of the Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 The School to Work Opportunities Act, referred to in subsec. (a)(6), probably means the School-to-Work Opportunities Act of 1994, Pub. L. 103–239, May 4, 1994, 108 Stat. 568, which is classified principally to chapter 69 (§6101 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 20 and Tables.
 
@@ -126,7 +126,7 @@ The Public Health Services Act, referred to in subsec. (a)(7), probably means th
 
 The Head Start Act, referred to in subsec. (a)(8), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (a)(10), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part A of title IV of the Act is classifiedgenerally to part A (§1070 et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(10), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part A of title IV of the Act is classified generally to part A (§1070 et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The National Literacy Act of 1991, referred to in subsec. (a)(11), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, which was repealed by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 

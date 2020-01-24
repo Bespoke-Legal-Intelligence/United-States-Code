@@ -117,6 +117,10 @@
 | [<b>100.</b>](Chapter%20100%20-%20Global%20Food%20Security/README.md) | <b>Global Food Security</b> | <b>9301</b> |
 | [<b>101.</b>](Chapter%20101%20-%20Countering%20Iran%27s%20Destabilizing%20Activities/README.md) | <b>Countering Iran's Destabilizing Activities</b> | <b>9401</b> |
 | [<b>102.</b>](Chapter%20102%20-%20Countering%20Russian%20Influence%20in%20Europe%20and%20Eurasia/README.md) | <b>Countering Russian Influence in Europe and Eurasia</b> | <b>9501</b> |
+| [<b>103.</b>](Chapter%20103%20-%20Better%20Utilization%20of%20Investments%20Leading%20to%20Development/README.md) | <b>Better Utilization of Investments Leading to Development</b> | <b>9601</b> |
+| [<b>104.</b>](Chapter%20104%20-%20Venezuela%20Assistance/README.md) | <b>Venezuela Assistance</b> | <b>9701</b> |
+| [<b>105.</b>](Chapter%20105%20-%20Global%20Fragility/README.md) | <b>Global Fragility</b> | <b>9801</b> |
+| [<b>106.</b>](Chapter%20106%20-%20Championing%20American%20Business%20Through%20Diplomacy/README.md) | <b>Championing American Business Through Diplomacy</b> | <b>9901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -240,3 +244,6 @@
 - [Chapter 101 - Countering Iran's Destabilizing Activities](Chapter%20101%20-%20Countering%20Iran%27s%20Destabilizing%20Activities/README.md)
 - [Chapter 102 - Countering Russian Influence in Europe and Eurasia](Chapter%20102%20-%20Countering%20Russian%20Influence%20in%20Europe%20and%20Eurasia/README.md)
 - [Chapter 103 - Better Utilization of Investments Leading to Development](Chapter%20103%20-%20Better%20Utilization%20of%20Investments%20Leading%20to%20Development/README.md)
+- [Chapter 104 - Venezuela Assistance](Chapter%20104%20-%20Venezuela%20Assistance/README.md)
+- [Chapter 105 - Global Fragility](Chapter%20105%20-%20Global%20Fragility/README.md)
+- [Chapter 106 - Championing American Business Through Diplomacy](Chapter%20106%20-%20Championing%20American%20Business%20Through%20Diplomacy/README.md)

@@ -24,5 +24,5 @@ Effect of Waiver or Withdrawal.—A waiver of the right to appellate review or t
 
 #### Prior Provisions
 
-A prior section 950c, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2620, related to appellate referraland waiver or withdrawal of appeal, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950c, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2620, related to appellate referral and waiver or withdrawal of appeal, prior to the general amendment of this chapter by Pub. L. 111–84.
 

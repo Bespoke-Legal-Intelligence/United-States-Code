@@ -36,7 +36,7 @@
 
 (D) The Secretary shall—
 
-&emsp;(i) publish a public notice of any waiver application received from a hospital or criticalaccess hospital under this paragraph within 30 days of receiving such application; and
+&emsp;(i) publish a public notice of any waiver application received from a hospital or critical access hospital under this paragraph within 30 days of receiving such application; and
 
 &emsp;(ii) prior to making a final determination on such application under subparagraph (A), offer interested parties the opportunity to submit written comments to the Secretary during the 60-day period beginning on the date such notice is published.
 
@@ -108,7 +108,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 Pub. L. 99–509, title IX, §9318(b), Oct. 21, 1986, 100 Stat. 2010, as amended by Pub. L. 100–119, title I, §107(c), Sept. 29, 1987, 101 Stat. 784; Pub. L. 100–203, title IV, §4009(g)(1), Dec. 22, 1987, 101 Stat. 1330–58, provided that:
 
-"(1) Section 1138(a) of the Social Security Act \[42 U.S.C. 1320b–8(a)\] shall apply to hospitals participating in the programs under titles XVIII and XIX of such Act \[42 U.S.C. 1395 et seq., 1396 et seq.\] as of November 21, 1987."
+"(1) Section 1138(a) of the Social Security Act \[42 U.S.C. 1320b–8(a)\] shall apply to hospitals participating in the programs under titles XVIII and XIX of such Act\[42 U.S.C. 1395 et seq., 1396 et seq.\] as of November 21, 1987."
 
 "(2) Section 1138(b) of such Act \[42 U.S.C. 1320b–8(b)\] shall apply to costs of organs procured on or after March 31, 1988."
 

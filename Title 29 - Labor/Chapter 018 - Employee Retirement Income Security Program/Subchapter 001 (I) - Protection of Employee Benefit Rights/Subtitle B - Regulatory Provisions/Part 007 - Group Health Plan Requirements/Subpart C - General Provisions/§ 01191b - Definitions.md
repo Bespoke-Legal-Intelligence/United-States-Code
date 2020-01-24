@@ -174,11 +174,11 @@ For purposes of this part—
 
 &emsp;&emsp;(D) other activities related to the creation, renewal, or replacement of a contract of health insurance or health benefits.
 
-(Pub. L. 93–406, title I, §733, formerly §706, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1949; renumbered §733, Pub. L. 104–204, title VI, §603(a)(3), Sept. 26, 1996, 110 Stat. 2935; amended Pub. L. 110–233, title I, §101(d), May 21, 2008, 122 Stat. 885; Pub. L. 114–255, div. C, title XVIII, §18001(b)(1), Dec. 13, 2016, 130 Stat. 1343.)
+(Pub. L. 93–406, title I, §733, formerly §706, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1949; renumbered §733, Pub. L. 104–204, title VI, §603(a)(3), Sept. 26, 1996, 110Stat. 2935; amended Pub. L. 110–233, title I, §101(d), May 21, 2008, 122 Stat. 885; Pub. L. 114–255, div. C, title XVIII, §18001(b)(1), Dec. 13, 2016, 130 Stat. 1343.)
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXII of the Act is classified generally to subchapter XX (§300bb–1 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For completeclassification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXII of the Act is classified generally to subchapter XX (§300bb–1 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
 

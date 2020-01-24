@@ -36,5 +36,5 @@ Numerous changes were made in arrangement and phraseology.
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–170, §3, Dec. 29, 1979, 93 Stat. 1284, provided that: "The amendments made by this Act \[amending this section and section 1983 of Title 42, The Public Health and Welfare\] shall apply with respect to any deprivation of rights, privileges, or immunities secured by the Constitution and laws occurring after the date of the enactment of this Act \[Dec. 29, 1979\]."
+Pub. L. 96–170, §3, Dec. 29, 1979, 93 Stat. 1284, provided that: "The amendments made by this Act \[amending this section and section 1983 of Title 42, The Public Health and Welfare\] shall apply with respect to anydeprivation of rights, privileges, or immunities secured by the Constitution and laws occurring after the date of the enactment of this Act \[Dec. 29, 1979\]."
 

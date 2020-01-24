@@ -2,7 +2,7 @@
 
 Section 1027, acts July 22, 1937, ch. 517, title IV, §53, 50 Stat. 532; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064, related to fees and commissions.
 
-Section 1028, acts July 22, 1937, ch. 517, title IV, §54, 50 Stat. 532; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064; July 26, 1947, ch. 339, §1(b), 61 Stat. 493, related to application of provisions to territories.
+Section 1028, acts July 22, 1937, ch. 517, title IV, §54, 50 Stat. 532; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064; July26, 1947, ch. 339, §1(b), 61 Stat. 493, related to application of provisions to territories.
 
 Section 1029, acts July 22, 1937, ch. 517, title IV, §55, 50 Stat. 533; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064, related to separability of provisions.
 

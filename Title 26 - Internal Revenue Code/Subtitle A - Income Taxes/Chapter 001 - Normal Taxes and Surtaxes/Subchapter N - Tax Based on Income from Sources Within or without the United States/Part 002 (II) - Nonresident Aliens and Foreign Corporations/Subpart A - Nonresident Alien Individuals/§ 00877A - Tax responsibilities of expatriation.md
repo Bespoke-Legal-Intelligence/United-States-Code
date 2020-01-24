@@ -260,7 +260,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) the date a court of the United States cancels a naturalized citizen's certificate of naturalization.
 
-> &emsp;Subparagraph (A) or (B) shall not apply to any individual unless the renunciation or voluntary relinquishment is subsequently approved by the issuance to the individual of a certificate of loss of nationality by the United States Department of State.
+> &emsp;Subparagraph (A) or (B) shall not apply to any individual unless the renunciation or voluntary relinquishment is subsequently approved by the issuance to the individual of acertificate of loss of nationality by the United States Department of State.
 
 #### (5) Long-term resident
 

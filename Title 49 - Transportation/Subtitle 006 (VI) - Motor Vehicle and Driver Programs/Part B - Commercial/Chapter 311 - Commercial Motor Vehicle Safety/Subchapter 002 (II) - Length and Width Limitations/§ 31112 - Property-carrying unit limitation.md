@@ -4,7 +4,7 @@
 
 Definitions.—In this section—
 
-&emsp;(1) "property-carrying unit" means any part of a commercial motor vehicle combination (except the truck tractor) used to carry property, including a trailer, a semitrailer, or the property-carrying section of a single unit truck, but not including a trailer or a semitrailer transported as part of a towaway trailer transporter combination (as defined in section 31111(a)).
+&emsp;(1) "property-carrying unit" means any part of a commercial motor vehicle combination\(except the truck tractor) used to carry property, including a trailer, a semitrailer, or the property-carrying section of a single unit truck, but not including a trailer or a semitrailer transported as part of a towaway trailer transporter combination (as defined in section 31111(a)).
 
 &emsp;(2) the length of the property-carrying units of a commercial motor vehicle combination is the length measured from the front of the first property-carrying unit to the rear of the last property-carrying unit.
 
@@ -18,7 +18,7 @@ General Limitations.—A State may not allow by any means the operation, on any 
 
 (c)
 
-Special Rules for Wyoming, Ohio, Alaska, Iowa, Nebraska, and Kansas.—In addition to the vehicles allowed under subsection (b) of this section—
+Special Rules for Wyoming, Ohio, Alaska, Iowa, Nebraska, Kansas, and Oregon.—In addition to the vehicles allowed under subsection (b) of this section—
 
 &emsp;(1) Wyoming may allow the operation of additional vehicle configurations not in actual operation on June 1, 1991, but authorized by State law not later than November 3, 1992, if the vehicle configurations comply with the single axle, tandem axle, and bridge formula limits in section 127(a) of title 23 and are not more than 117,000 pounds gross vehicle weight;
 
@@ -26,9 +26,23 @@ Special Rules for Wyoming, Ohio, Alaska, Iowa, Nebraska, and Kansas.—In additi
 
 &emsp;(3) Alaska may allow the operation of commercial motor vehicle combinations that were not in actual operation on June 1, 1991, but were in actual operation before July 6, 1991;
 
-&emsp;(4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (includingcontinued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991; and
+&emsp;(4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (including continued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991;
 
-&emsp;(5) Nebraska and Kansas may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991, if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the relevant state.<sup>1</sup>
+&emsp;(5) Nebraska and Kansas may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991, if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the relevant state;<sup>1</sup> and
+
+&emsp;(6) Oregon may allow the operation of a truck tractor and 2 property-carrying units not in actual lawful operation on a regular or periodic basis on June 1, 1991, if—
+
+&emsp;&emsp;(A) the length of the property-carrying units does not exceed 82 feet 8 inches;
+
+&emsp;&emsp;(B) the combination is used only to transport sugar beets; and
+
+&emsp;&emsp;(C) the operation occurs on United States Route 20, United States Route 26, United States Route 30, or Oregon Route 201 in the vicinity, or between any, of—
+
+&emsp;&emsp;&emsp;(i) Vale, Oregon;
+
+&emsp;&emsp;&emsp;(ii) Ontario, Oregon; or
+
+&emsp;&emsp;&emsp;(iii) Nyssa, Oregon.
 
 (d)
 
@@ -68,7 +82,7 @@ Regulations.—(1) In carrying out this section only, the Secretary shall define
 
 (2) Not later than June 15, 1992, the Secretary shall prescribe regulations establishing criteria for a State to follow in making minor adjustments under subsection (d) of this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 995; Pub. L. 104–59, title III, §312(a)(3), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–205, title III, §352, Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–66, title III, §343, Oct. 27, 1997, 111 Stat. 1449; Pub. L. 109–59, title IV, §4112, Aug. 10, 2005, 119 Stat. 1724; Pub. L. 114–94, div. A, title V, §5523(c)(1), Dec. 4, 2015, 129 Stat. 1560; Pub. L. 114–113, div. L, title I, §137, Dec. 18, 2015, 129 Stat. 2851.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 995; Pub. L. 104–59, title III, §312(a)(3), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–205, title III, §352, Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–66, title III, §343, Oct. 27, 1997, 111 Stat. 1449; Pub. L. 109–59, title IV, §4112, Aug. 10, 2005, 119 Stat. 1724; Pub. L. 114–94, div. A, title V, §5523(c)(1), Dec. 4, 2015, 129 Stat. 1560; Pub. L. 114–113, div. L, title I, §137, Dec. 18, 2015, 129 Stat. 2851; Pub. L. 116–6, div. G, title IV, §423, Feb. 15, 2019, 133 Stat. 474.)
 
 Historical and Revision Notes
 
@@ -125,6 +139,8 @@ In subsections (b), before clause (1), and (g)(1), the words "dismantled easily 
 In subsection (e)(4), the words "Except as revised under this paragraph or paragraph (5) of this subsection" are substituted for "Except as modified pursuant to subparagraph (B) or (E) of this subsection" for clarity.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c). Pub. L. 116–6 substituted "Kansas, and Oregon" for "and Kansas" in heading and added par. (6).
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–94 inserted before period at end ", but not including a trailer or a semitrailer transported as part of a towaway trailer transporter combination (as defined in section 31111(a))".
 

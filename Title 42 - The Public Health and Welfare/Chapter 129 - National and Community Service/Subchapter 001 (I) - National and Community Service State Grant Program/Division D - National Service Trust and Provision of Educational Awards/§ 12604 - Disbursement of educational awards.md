@@ -100,7 +100,7 @@ Amounts in the Trust shall be available—
 
 #### (4) Multiple disbursements required
 
-&emsp;The total amount required to be disbursed to an institution of higher education under paragraph (3) for any period of enrollment shall be disbursed by the Corporation in 2 or more installments, none of which exceeds ½ of such total amount. The interval between the first and second such installment shall not be less than ½ of such period of enrollment, except as necessary to permit the second installment to be paid at the beginning of the second semester, quarter, or similar division of such period of enrollment.
+&emsp;The total amount required to be disbursed to an institution of higher education under paragraph (3) for any period of enrollment shall be disbursed by the Corporation in 2 or more installments, none of which exceeds ½ of suchtotal amount. The interval between the first and second such installment shall not be less than ½ of such period of enrollment, except as necessary to permit the second installment to be paid at the beginning of the second semester, quarter, or similar division of such period of enrollment.
 
 #### (5) Refund rules
 

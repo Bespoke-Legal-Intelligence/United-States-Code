@@ -34,11 +34,11 @@
 
 #### (2) Rules
 
-&emsp;The Commission shall identify factors that affect the independence of a compensation consultant, legal counsel, or other adviser to a compensation committee of an issuer. Such factors shall be competitively neutral among categories of consultants, legal counsel, or other advisers and preserve the ability of compensation committees to retain the services of members of any such category, and shall include—
+&emsp;The Commission shall identify factors that affect the independence of a compensationconsultant, legal counsel, or other adviser to a compensation committee of an issuer. Such factors shall be competitively neutral among categories of consultants, legal counsel, or other advisers and preserve the ability of compensation committees to retain the services of members of any such category, and shall include—
 
 &emsp;&emsp;(A) the provision of other services to the issuer by the person that employs the compensation consultant, legal counsel, or other adviser;
 
-&emsp;&emsp;(B) the amount of fees received from the issuer by the person that employs the compensation consultant, legal counsel, or other adviser, as a percentage of the total revenueof the person that employs the compensation consultant, legal counsel, or other adviser;
+&emsp;&emsp;(B) the amount of fees received from the issuer by the person that employs the compensation consultant, legal counsel, or other adviser, as a percentage of the total revenue of the person that employs the compensation consultant, legal counsel, or other adviser;
 
 &emsp;&emsp;(C) the policies and procedures of the person that employs the compensation consultant, legal counsel, or other adviser that are designed to prevent conflicts of interest;
 

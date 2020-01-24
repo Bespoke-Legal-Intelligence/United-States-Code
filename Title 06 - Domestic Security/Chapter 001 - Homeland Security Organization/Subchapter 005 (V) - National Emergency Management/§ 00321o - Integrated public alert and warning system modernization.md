@@ -30,11 +30,11 @@ In carrying out subsection (a), the Administrator shall—
 
 &emsp;(6) conduct public education efforts so that State, tribal, and local governments, private entities, and the people of the United States reasonably understand the functions of the public alert and warning system and how to access, use, and respond to information from the public alert and warning system through a general market awareness campaign;
 
-&emsp;(7) consult, coordinate, and cooperate with the appropriate private sector entities andFederal, State, tribal, and local governmental authorities, including the Regional Administrators and emergency response providers;
+&emsp;(7) consult, coordinate, and cooperate with the appropriate private sector entities and Federal, State, tribal, and local governmental authorities, including the Regional Administrators and emergency response providers;
 
 &emsp;(8) consult and coordinate with the Federal Communications Commission, taking into account rules and regulations promulgated by the Federal Communications Commission; and
 
-&emsp;(9) coordinate with and consider the recommendations of the Integrated Public Alert and Warning System Subcommittee established under section 2(b) of the Integrated Public Alert and Warning System Modernization Act of 2015.
+&emsp;(9) coordinate with and consider the recommendations of the Integrated Public Alert andWarning System Subcommittee established under section 2(b) of the Integrated Public Alert and Warning System Modernization Act of 2015.
 
 #### (c) System requirements
 

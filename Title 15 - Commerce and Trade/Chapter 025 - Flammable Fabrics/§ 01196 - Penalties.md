@@ -12,7 +12,7 @@ Violation of section 1192 or 1197(b) of this title, or failure to comply with se
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–314 amended section generally. Prior to amendment, text read as follows: "Any person who willfully violates section 1192 or 1197(b) of this title, or who fails to comply with section 1202(c) of this title, shall be guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $5,000 or be imprisoned not more than one year or both in the discretion of the court: <i>Provided</i>, That nothing herein shall limit other provisions of this chapter."
+<b>2008</b>—Pub. L. 110–314 amended section generally. Prior to amendment, text read as follows: "Any person whowillfully violates section 1192 or 1197(b) of this title, or who fails to comply with section 1202(c) of this title, shall be guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $5,000 or be imprisoned not more than one year or both in the discretion of the court: <i>Provided</i>, That nothing herein shall limit other provisions of this chapter."
 
 <b>1978</b>—Pub. L. 95–631 authorized penalties for noncompliance with section 1202(c) of this title.
 

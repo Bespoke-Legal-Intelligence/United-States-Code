@@ -76,7 +76,7 @@ For purposes of this section:
 
 #### (iii) 15-year amortization
 
-&emsp;&emsp;&emsp;The shortfall amortization installments determined under this subparagraph are the amounts necessary to amortize the shortfall amortization base of the plan forthe election year in level annual installments over the 15-plan-year period beginning with the election year (using the segment rates under subparagraph (C) for the election year).
+&emsp;&emsp;&emsp;The shortfall amortization installments determined under this subparagraph are the amounts necessary to amortize the shortfall amortization base of the plan for the election year in level annual installments over the 15-plan-year period beginning with the election year (using the segment rates under subparagraph (C) for the election year).
 
 #### (iv) Election
 
@@ -142,7 +142,7 @@ For purposes of this section:
 
 &emsp;&emsp;Subject to rules prescribed by the Secretary of the Treasury, if a shortfall amortization installment with respect to any shortfall amortization base for an election year is required to be increased for any plan year under subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) such increase shall not result in the amount of such installment exceeding thepresent value of such installment and all succeeding installments with respect to such base (determined without regard to such increase but after application of clause (ii)), and
+&emsp;&emsp;&emsp;(i) such increase shall not result in the amount of such installment exceeding the present value of such installment and all succeeding installments with respect to such base (determined without regard to such increase but after application of clause (ii)), and
 
 &emsp;&emsp;&emsp;(ii) subsequent shortfall amortization installments with respect to such base shall, in reverse order of the otherwise required installments, be reduced to the extent necessary to limit the present value of such subsequent shortfall amortization installments (after application of this paragraph) to the present value of the remaining unamortized shortfall amortization base.
 
@@ -174,7 +174,7 @@ For purposes of this section:
 
 #### (II) Cap to apply
 
-&emsp;&emsp;&emsp;&emsp;If any amount treated as an installment acceleration amount under subclause (I) or this subclause with respect <sup>1</sup> any succeeding plan year, when added to other installment acceleration amounts (determined without regard to clause (ii)) with respect to the plan year, exceeds the limitation under clause (ii), the portion of such amount representing such excess shall be treated as an installment acceleration amount with respect to the next succeeding plan year.
+&emsp;&emsp;&emsp;&emsp;If any amount treated as an installment acceleration amount under subclause (I) or this subclause with respect <sup>1</sup> any succeeding plan year, when added to other installment acceleration amounts\(determined without regard to clause (ii)) with respect to the plan year, exceeds the limitation under clause (ii), the portion of such amount representing such excess shall be treated as an installment acceleration amount with respect to the next succeeding plan year.
 
 #### (III) Limitation on years to which amounts carried for
 
@@ -202,7 +202,7 @@ For purposes of this section:
 
 #### (iii) Only remuneration for certain post-2009 services counted
 
-&emsp;&emsp;&emsp;Remuneration shall be taken into account under clause (i) only to the extentattributable to services performed by the employee for the plan sponsor after February 28, 2010.
+&emsp;&emsp;&emsp;Remuneration shall be taken into account under clause (i) only to the extent attributable to services performed by the employee for the plan sponsor after February 28, 2010.
 
 #### (iv) Exception for certain equity payments
 
@@ -278,7 +278,7 @@ For purposes of this section:
 
 #### (i) Plan sponsor
 
-&emsp;&emsp;&emsp;The term "plan sponsor" includes any member of the plan sponsor's controlledgroup (as defined in section 1082(d)(3) of this title).
+&emsp;&emsp;&emsp;The term "plan sponsor" includes any member of the plan sponsor's controlled group (as defined in section 1082(d)(3) of this title).
 
 #### (ii) Restriction period
 
@@ -442,7 +442,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The plan sponsor may elect to reduce by any amount the balance of the prefunding balance and the funding standard carryover balance for any plan year (but not below zero). Such reduction shall be effective prior to any determination of the value of plan assets for such plan year under this section and application of the balance in reducing the minimum required contribution for such plan for such plan year pursuant to an election under paragraph (2).
+&emsp;&emsp;The plan sponsor may elect to reduce by any amount the balance of the prefunding balance and the funding standard carryover balance for any plan year (but not below zero). Such reduction shall be effective prior to any determination of the value of plan assets for such plan year under this section and application of the balance in reducing the minimum required contribution for such plan for such plan year pursuant to an election under paragraph (2).<sup>2</sup>
 
 #### (B) Coordination between prefunding balance and funding standard carryover balance
 
@@ -470,7 +470,7 @@ For purposes of this section—
 
 #### (iii) Certain contributions necessary to avoid benefit limitations disregarded
 
-&emsp;&emsp;&emsp;The excess described in clause (i) with respect to any preceding plan year shall be reduced (but not below zero) by the amount of contributions an employer would be required to make under paragraph (1), (2), or (4) of section 1056(g) of this title to avoid a benefit limitation which would otherwise be imposed under such paragraph for the preceding plan year. Any contribution which may be taken into account in satisfying the requirements of more than 1 of such paragraphs shall be taken into account only once for purposes of this clause.
+&emsp;&emsp;&emsp;The excess described in clause (i) with respect to any preceding plan year shall be reduced (but not below zero) by the amount of contributions an employer would be required to make under paragraph (1), (2), or (4) of section 1056(g) of this title to avoid a benefit limitationwhich would otherwise be imposed under such paragraph for the preceding plan year. Any contribution which may be taken into account in satisfying the requirements of more than 1 of such paragraphs shall be taken into account only once for purposes of this clause.
 
 #### (C) Decrease
 
@@ -554,7 +554,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) does not result in a determination of the value of plan assets which, at any time, is lower than 90 percent or greater than 110 percent of the fair market value of such assets at such time.
 
-> &emsp;&emsp;Any such averaging shall be adjusted for contributions, distributions, and expected earnings (as determined by the plan's actuary on the basis of an assumed earnings rate specified by the actuary but not in excess of the third segment rate applicable under subsection (h)(2)(C)(iii)), as specified by the Secretary of the Treasury.
+> &emsp;&emsp;Any such averaging shall be adjusted for contributions, distributions, and expected earnings (as determined by the plan's actuary on the basis of an assumed earnings rate specified by the actuary but not in excess ofthe third segment rate applicable under subsection (h)(2)(C)(iii)), as specified by the Secretary of the Treasury.
 
 #### (4) Accounting for contribution receipts
 
@@ -598,7 +598,7 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of determining the funding target and normal cost of a plan for any plan year, the interest rate used in determining the present value of the benefits of the plan shall be—
 
-&emsp;&emsp;&emsp;(i) in the case of benefits reasonably determined to be payable during the 5-yearperiod beginning on the valuation date for the plan year, the first segment rate with respect to the applicable month,
+&emsp;&emsp;&emsp;(i) in the case of benefits reasonably determined to be payable during the 5-year period beginning on the valuation date for the plan year, the first segment rate with respect to the applicable month,
 
 &emsp;&emsp;&emsp;(ii) in the case of benefits reasonably determined to be payable during the 15-year period beginning at the end of the period described in clause (i), the second segment rate with respect to the applicable month, and
 
@@ -656,7 +656,7 @@ For purposes of this section—
 
 #### (F) Publication requirements
 
-&emsp;&emsp;The Secretary of the Treasury shall publish for each month the corporate bond yieldcurve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) <sup>2</sup> of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
+&emsp;&emsp;The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) <sup>3</sup> of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
 
 #### (3) Mortality tables
 
@@ -688,7 +688,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) there is a sufficient number of plan participants, and the pension plans have been maintained for a sufficient period of time, to have credible information necessary for purposes of subclause (II), and
 
-&emsp;&emsp;&emsp;&emsp;(II) such table reflects the actual experience of the pension plans maintained by the sponsor and projected trends in general mortality experience.
+&emsp;&emsp;&emsp;&emsp;(II) such table reflects the actual experience of the pension plans maintainedby the sponsor and projected trends in general mortality experience.
 
 #### (iv) All plans in controlled group must use separate table
 
@@ -718,7 +718,7 @@ For purposes of this section—
 
 #### (ii) Special rule for disabilities occurring after 1994
 
-&emsp;&emsp;&emsp;In the case of disabilities occurring in plan years beginning after December 31, 1994, the tables under clause (i) shall apply only with respect to individuals described in such subclause who are disabled withinthe meaning of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and the regulations thereunder.
+&emsp;&emsp;&emsp;In the case of disabilities occurring in plan years beginning after December 31, 1994, the tables under clause (i) shall apply only with respect to individuals described in such subclause who are disabled within the meaning of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and the regulations thereunder.
 
 #### (iii) Periodic revision
 
@@ -844,7 +844,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) any manufacturer of automobiles, and
 
-&emsp;&emsp;&emsp;&emsp;(II) any manufacturer of automobile parts which supplies such parts directly to a manufacturer of automobiles and which, after a transaction or series of transactions ending in 1999, ceased to be a member of a controlled group which included such manufacturer of automobiles.
+&emsp;&emsp;&emsp;&emsp;(II) any manufacturer of automobile parts which supplies such parts directlyto a manufacturer of automobiles and which, after a transaction or series of transactions ending in 1999, ceased to be a member of a controlled group which included such manufacturer of automobiles.
 
 #### (5) Transition between applicable funding targets and between applicable target normal costs
 
@@ -885,7 +885,7 @@ For purposes of this section—
 
 #### (2) Interest
 
-&emsp;Any payment required under paragraph (1) for a plan year that is made on a date other than the valuation date for such plan year shall be adjusted for interest accruing for theperiod between the valuation date and the payment date, at the effective rate of interest for the plan for such plan year.
+&emsp;Any payment required under paragraph (1) for a plan year that is made on a date other than the valuation date for such plan year shall be adjusted for interest accruing for the period between the valuation date and the payment date, at the effective rate of interest for the plan for such plan year.
 
 #### (3) Accelerated quarterly contribution schedule for underfunded plans
 
@@ -951,7 +951,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) 100 percent of the minimum required contribution (determined without regard to this subsection or to any waiver under section 1082(c) of this title) to the plan for the preceding plan year.
 
-&emsp;&emsp;&nbsp;Subclause (II) shall not apply if the preceding plan year referred to in such clause was not a year of 12 months.
+&emsp;&emsp;&nbsp;Subclause (II) shall not apply if the preceding plan year referred to in such clause <sup>4</sup> was not a year of 12 months.
 
 #### (E) Fiscal years, short years, and years with alternate valuation date
 
@@ -987,7 +987,7 @@ For purposes of this section—
 
 #### (C) Period of underpayment
 
-&emsp;&emsp;For purposes of paragraph (3)(A), any portion of an installment that is treated as notpaid under subparagraph (A) shall continue to be treated as unpaid until the close of the quarter in which the due date for such installment occurs.
+&emsp;&emsp;For purposes of paragraph (3)(A), any portion of an installment that is treated as not paid under subparagraph (A) shall continue to be treated as unpaid until the close of the quarter in which the due date for such installment occurs.
 
 #### (D) Limitation on increase
 
@@ -1025,7 +1025,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the plan's funding target attainment percentage for the plan year, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the sum of the purchases of annuities, payments of single sums, and such other disbursements as the Secretary of the Treasury shall provide in regulations.
+&emsp;&emsp;&emsp;&emsp;(II) the sum of the purchases of annuities, payments of single sums, and suchother disbursements as the Secretary of the Treasury shall provide in regulations.
 
 #### (v) Liquid assets
 
@@ -1067,11 +1067,11 @@ For purposes of this section—
 
 #### (B) Period of lien
 
-&emsp;&emsp;The lien imposed by paragraph (1) shall arise on the due date for the required contribution payment and shall continue until the last day of the first plan year in which the plan ceases to be described in paragraph (1)(B). Such lien shall continue to run without regard to whether such plan continues tobe described in paragraph (2) during the period referred to in the preceding sentence.
+&emsp;&emsp;The lien imposed by paragraph (1) shall arise on the due date for the required contribution payment and shall continue until the last day of the first plan year in which the plan ceases to be described in paragraph (1)(B). Such lien shall continue to run without regard to whether such plan continues to be described in paragraph (2) during the period referred to in the preceding sentence.
 
 #### (C) Certain rules to apply
 
-&emsp;&emsp;Any amount with respect to which a lien is imposed under paragraph (1) shall be treated as taxes due and owing the United States and rules similar to the rules of subsections (c), (d), and (e) of section 1368 of this title shall apply with respect to a lien imposed by subsection (a) and the amount with respect to such lien.
+&emsp;&emsp;Any amount with respect to which a lien is imposed under paragraph (1) shall be treated as taxes due and owing the United States and rules similar to the rules of subsections (c), (d), and (e) of section 1368 of this title shall apply with respect to a lien imposed by subsection (a) <sup>5</sup> and the amount with respect to such lien.
 
 #### (5) Enforcement
 
@@ -1097,7 +1097,105 @@ For purposes of this section—
 
 In the case of a qualified transfer (as defined in section 420 of title 26), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
 
-(Pub. L. 93–406, title I, §303, as added Pub. L. 109–280, title I, §102(a), Aug. 17, 2006, 120 Stat. 789; amended Pub. L. 110–458, title I, §§101(b)(1), 121(a), title II, §202(a), Dec. 23, 2008, 122 Stat. 5093, 5113, 5117; Pub. L. 111–192, title II, §§201(a), 204(a), June 25, 2010, 124 Stat. 1283, 1300; Pub. L. 112–141, div. D, title II, §40211(b)(1), (3)(A), July 6, 2012, 126 Stat. 847, 849; Pub. L. 113–159, title II, §2003(b)(1), (d)(2), Aug. 8, 2014, 128 Stat. 1849, 1851; Pub. L. 113–295, div. A, title II, §221(a)(57)(C)(ii), (D)(ii), Dec. 19, 2014, 128 Stat. 4046; Pub. L. 114–74, title V, §504(b)(1), Nov. 2, 2015, 129 Stat. 593.)
+#### (m) Special rules for community newspaper plans
+
+#### (1) In general
+
+&emsp;The plan sponsor of a community newspaper plan under which no participant has had the participant's accrued benefit increased (whether because of service or compensation) after December 31, 2017, may elect to have the alternative standards described in paragraph (3) apply to such plan, and any plan sponsored by any member of the same controlled group.
+
+#### (2) Election
+
+&emsp;An election under paragraph (1) shall be made at such time and in such manner as prescribed by the Secretary of the Treasury. Such election, once made with respect to a plan year, shall apply to all subsequent plan years unless revoked with the consent of the Secretary of the Treasury.
+
+#### (3) Alternative minimum funding standards
+
+&emsp;The alternative standards described in this paragraph are the following:
+
+#### (A) Interest rates
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding subsection (h)(2)(C) and except as provided in clause (ii), the first, second, and third segment rates in effect for any month for purposes of this section shall be 8 percent.
+
+#### (ii) New benefit accruals
+
+&emsp;&emsp;&emsp;Notwithstanding subsection (h)(2), for purposes of determining the funding target and normal cost of a plan for any plan year, the present value of any benefits accrued or earned under the plan for a plan year with respect to which an election under paragraph (1) is in effect shall be determined on the basis of the United States Treasury obligation yield curve for the day that is the valuation date of such plan for such plan year.
+
+#### (iii) United States Treasury obligation yield curve
+
+&emsp;&emsp;&emsp;For purposes of this subsection, the term "United States Treasury obligation yield curve" means, with respect to any day, a yield curve which shall be prescribed by the Secretary of the Treasury for such day on interest-bearing obligations of the United States.
+
+#### (B) Shortfall amortization base
+
+#### (i) Previous shortfall amortization bases
+
+&emsp;&emsp;&emsp;The shortfall amortization bases determined under subsection (c)(3) for all plan years preceding the first plan year to which the election under paragraph (1) applies (and all shortfall amortization installments determined with respect to such bases) shall be reduced to zero under rules similar to the rules of subsection (c)(6).
+
+#### (ii) New shortfall amortization base
+
+&emsp;&emsp;&emsp;Notwithstanding subsection (c)(3), the shortfall amortization base for the first plan year to which the election under paragraph (1) applies shall be the funding shortfall of such plan for such plan year (determined using the interest rates as modified under subparagraph (A)).
+
+#### (C) Determination of shortfall amortization installments
+
+#### (i) 30-year period
+
+&emsp;&emsp;&emsp;Subparagraphs (A) and (B) of subsection (c)(2) shall be applied by substituting "30-plan-year" for "7-plan-year" each place it appears.
+
+#### (ii) No special election
+
+&emsp;&emsp;&emsp;The election under subparagraph (D) of subsection (c)(2) shall not apply to any plan year to which the election under paragraph (1) applies.
+
+#### (D) Exemption from at-risk treatment
+
+&emsp;&emsp;Subsection (i) shall not apply.
+
+#### (4) Community newspaper plan
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term "community newspaper plan" means a plan to which this section applies maintained by an employer which, as of December 31, 2017—
+
+&emsp;&emsp;&emsp;(i) publishes and distributes daily, either electronically or in printed form—
+
+&emsp;&emsp;&emsp;&emsp;(I) a community newspaper, or
+
+&emsp;&emsp;&emsp;&emsp;(II) 1 or more community newspapers in the same State,
+
+&emsp;&emsp;&emsp;(ii) is not a company the stock of which is publicly traded (on a stock exchange or in an over-the-counter market), and is not controlled, directly or indirectly, by such a company,
+
+&emsp;&emsp;&emsp;(iii) is controlled, directly or indirectly—
+
+&emsp;&emsp;&emsp;&emsp;(I) by 1 or more persons residing primarily in the State in which the community newspaper is published,
+
+&emsp;&emsp;&emsp;&emsp;(II) for not less than 30 years by individuals who are members of the same family,
+
+&emsp;&emsp;&emsp;&emsp;(III) by a trust created or organized in the State in which the community newspaper is published, the sole trustees of which are persons described in subclause (I) or (II),
+
+&emsp;&emsp;&emsp;&emsp;(IV) by an entity which is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of title 26, which is organized and operated in the State in which the community newspaper is published, and the primary purpose of which is to benefit communities in such State, or
+
+&emsp;&emsp;&emsp;&emsp;(V) by a combination of persons described in subclause (I), (III), or (IV), and
+
+&emsp;&emsp;&emsp;(iv) does not control, directly or indirectly, any newspaper in any other State.
+
+#### (B) Community newspaper
+
+&emsp;&emsp;The term "community newspaper" means a newspaper which primarily serves a metropolitan statistical area, as determined by the Office of Management and Budget, with a population of not less than 100,000.
+
+#### (C) Control
+
+&emsp;&emsp;A person shall be treated as controlled by another person if such other person possesses, directly or indirectly, the power to direct or cause the direction and management of such person (including the power to elect a majority of the members of the board of directors of such person) through the ownership of voting securities.
+
+#### (5) Controlled group
+
+&emsp;For purposes of this subsection, the term "controlled group" means all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of title 26 as of December 20, 2019.
+
+#### (6) Effect on premium rate calculation
+
+&emsp;Notwithstanding any other provision of law or any regulation issued by the Pension Benefit Guaranty Corporation, in the case of a planfor which an election is made to apply the alternative standards described in paragraph (3), the additional premium under section 1306(a)(3)(E) of this title shall be determined as if such election had not been made.
+
+(Pub. L. 93–406, title I, §303, as added Pub. L. 109–280, title I, §102(a), Aug. 17, 2006, 120 Stat. 789; amended Pub. L. 110–458, title I, §§101(b)(1), 121(a), title II, §202(a), Dec. 23, 2008, 122 Stat. 5093, 5113, 5117; Pub. L. 111–192, title II, §§201(a), 204(a), June 25, 2010, 124 Stat. 1283, 1300; Pub. L. 112–141, div. D, title II, §40211(b)(1), (3)(A), July 6, 2012, 126 Stat. 847, 849; Pub. L. 113–159, title II, §2003(b)(1), (d)(2), Aug. 8, 2014, 128 Stat. 1849, 1851; Pub. L. 113–295, div. A, title II, §221(a)(57)(C)(ii), (D)(ii), Dec. 19, 2014, 128 Stat. 4046; Pub. L. 114–74, title V, §504(b)(1), Nov. 2, 2015, 129 Stat. 593; Pub. L. 116–94, div. O, title I, §115(b), Dec. 20, 2019, 133 Stat. 3158.)
 
 #### References in Text
 
@@ -1112,6 +1210,8 @@ The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1
 A prior section 1083, Pub. L. 93–406, title I, §303, Sept. 2, 1974, 88 Stat. 872; Pub. L. 99–272, title XI, §§11015(b)(1)(A), 11016(c)(2), Apr. 7, 1986, 100 Stat. 267, 273; Pub. L. 100–203, title IX, §9306(a)(2), (b)(2), (c)(2)(A), (d)(2), Dec. 22, 1987, 101 Stat. 1330–353 to 1330–355; Pub. L. 101–239, title VII, §§7881(b)(6)(B)(ii), (7), (8), (c)(2), 7891(a)(1), Dec. 19, 1989, 103 Stat. 2438, 2439, 2445, related to variance from minimum funding standard, prior to repeal by Pub. L. 109–280, title I, §101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (m). Pub. L. 116–94 added subsec. (m).
 
 <b>2015</b>—Subsec. (h)(2)(C)(iv)(II). Pub. L. 114–74 amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for each calendar year from 2012 to 2020 and for calendar years after 2020.
 
@@ -1141,7 +1241,7 @@ Subsec. (j)(3)(F). Pub. L. 111–192, §201(a)(3)(B), added subpar. (F).
 
 Subsec. (c)(5)(B)(i). Pub. L. 110–458, §202(a)(2), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "Except as provided in clauses (iii) and (iv), in the case of plan years beginning after 2007 and before 2011, only the applicable percentage of the funding target shall be taken into account under paragraph (3)(A) in determining the funding shortfall for the plan year for purposes of subparagraph (A)."
 
-Subsec. (c)(5)(B)(iii). Pub. L. 110–458, §202(a)(1), redesignated cl. (iv) as (iii) and struck out former cl. (iii).Prior to amendment, text read as follows: "Clause (i) shall not apply with respect to any plan year beginning after 2008 unless the shortfall amortization base for each of the preceding years beginning after 2007 was zero (determined after application of this subparagraph)."
+Subsec. (c)(5)(B)(iii). Pub. L. 110–458, §202(a)(1), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: "Clause (i) shall not apply with respect to any plan year beginning after 2008 unless the shortfall amortization base for each of the preceding years beginning after 2007 was zero (determined after application of this subparagraph)."
 
 Pub. L. 110–458, §101(b)(1)(B), inserted "beginning" before "after 2008".
 
@@ -1163,9 +1263,13 @@ Subsec. (i)(4)(B). Pub. L. 110–458, §101(b)(1)(F)(ii), substituted "subparagr
 
 Subsec. (j)(3)(A). Pub. L. 110–458, §101(b)(1)(G)(i), inserted last sentence.
 
-Subsec. (j)(3)(E). Pub. L. 110–458, §101(b)(1)(G)(ii), (iii), substituted ", short years, and years with alternate valuation date" for "and short years" in heading and added cl. (iii).
+Subsec. (j)(3)(E). Pub. L. 110–458, §101(b)(1)(G)(ii), (iii), substituted ", short years, and years with alternatevaluation date" for "and short years" in heading and added cl. (iii).
 
 Subsec. (k)(6)(B). Pub. L. 110–458, §101(b)(1)(H), struck out ", except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under this section" after "subsection (j)".
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–94 applicable to plan years ending after Dec. 31, 2017, see section 115(c) of Pub. L. 116–94, set out as a note under section 430 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2015 Amendment
 
@@ -1211,5 +1315,11 @@ For modification of transition rule to pension funding requirements in the case 
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "to".</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "paragraph (3)."</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be "subclause".</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be "paragraph (1)".</i>
 

@@ -51,11 +51,11 @@ For purposes of this section—
 
 #### (II) Additional adjustment
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (III), in the case of any calendar year after 2018, the percentages described in subclause (I) shall, in addition to the adjustment under subclause (I), be adjusted to reflect the excess (if any) of the rate of premium growth estimated under subclause (I) for the preceding calendar year over the rate of growth in the consumer price index for the preceding calendar year.
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (III), in the case of any calendar year after 2018, the percentages described in subclause (I) shall, in addition to the adjustment under subclause (I), be adjusted to reflect the excess (if any) of the rate ofpremium growth estimated under subclause (I) for the preceding calendar year over the rate of growth in the consumer price index for the preceding calendar year.
 
 #### (III) Failsafe
 
-&emsp;&emsp;&emsp;&emsp;Subclause (II) shall apply for any calendar year only if the aggregate amountof premium tax credits under this section and cost-sharing reductions under section 1402 of the Patient Protection and Affordable Care Act for the preceding calendar year exceeds an amount equal to 0.504 percent of the gross domestic product for the preceding calendar year.
+&emsp;&emsp;&emsp;&emsp;Subclause (II) shall apply for any calendar year only if the aggregate amount of premium tax credits under this section and cost-sharing reductions under section 1402 of the Patient Protection and Affordable Care Act for the preceding calendar year exceeds an amount equal to 0.504 percent of the gross domestic product for the preceding calendar year.
 
 #### (B) Applicable second lowest cost silver plan
 
@@ -191,7 +191,7 @@ For purposes of this section—
 
 #### (C) Affordable coverage
 
-&emsp;&emsp;For purposes of subparagraph (A), a qualified small employer health reimbursement arrangement shall be treated as constituting affordable coverage for a month if—
+&emsp;&emsp;For purposes of subparagraph (A), a qualified small employer health reimbursementarrangement shall be treated as constituting affordable coverage for a month if—
 
 &emsp;&emsp;&emsp;(i) the excess of—
 
@@ -283,7 +283,7 @@ For purposes of this section—
 
 #### (3) Secretarial authority
 
-&emsp;The Secretary of Health and Human Services, in consultation with the Secretary, shall prescribe rules setting forth the methods by which calculations of family size and household income are made for purposes of this subsection. Such rules shall be designed to ensurethat the least burden is placed on individuals enrolling in qualified health plans through an Exchange and taxpayers eligible for the credit allowable under this section.
+&emsp;The Secretary of Health and Human Services, in consultation with the Secretary, shall prescribe rules setting forth the methods by which calculations of family size and household income are made for purposes of this subsection. Such rules shall be designed to ensure that the least burden is placed on individuals enrolling in qualified health plans through an Exchange and taxpayers eligible for the credit allowable under this section.
 
 #### (f) Reconciliation of credit and advance credit
 
@@ -353,7 +353,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 Sections 1251, 1301, 1302, 1311, 1321, 1402, and 1412 of the Patient Protection and Affordable Care Act, referred to in text, are classified to sections 18011, 18021, 18022, 18031, 18041, 18071, and 18082, respectively, of Title 42, The Public Health and Welfare.
 
-Section 1(c), referred to in subsecs. (b)(3)(B)(ii)(I)(aa) and (f)(2)(B)(i), to be treated, for purposes of the rate of tax, as a reference to the corresponding rate bracket under section 1(j)(2)(C) of this title, see section 1(j)(2)(F) of this title.
+Section 1(c), referred to in subsecs. (b)(3)(B)(ii)(I)(aa) and (f)(2)(B)(i), to be treated, for purposes of the rate oftax, as a reference to the corresponding rate bracket under section 1(j)(2)(C) of this title, see section 1(j)(2)(F) of this title.
 
 Sections 2701 and 2705(d) of the Public Health Service Act, referred to in subsec. (b)(3)(C), are classified to sections 300gg and 300gg–4(d), respectively, of Title 42, The Public Health and Welfare. The reference to section 2705(d) probably should be a reference to section 2705(l), which relates to wellness program demonstration project and is classified to section 300gg–4(l) of Title 42.
 

@@ -94,7 +94,7 @@ Waiver of Authorities.—(1) Subject to reporting under paragraph (2) and approv
 
 &emsp;(ii) the matter after the resolving clause of which is as follows: "that Congress approves the request for a waiver under section 1703E(f) of title 38, United States Code, as submitted by the Secretary on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_", the blank space being filled with the appropriate date.
 
-(D)(i) Any committee of the House of Representatives to which a joint resolution is referred shall report it to the House without amendment not later than 15 legislative days after the date of introduction thereof. If a committee fails to report the joint resolution within that period, the committee shall be discharged from further consideration of the joint resolution.
+(D)(i) Any committee of the House of Representatives to which a joint resolution is referred shall report it to the House without amendment not later than 15 legislative days after the date of introduction thereof. If a committee fails to report the joint resolution within that period, the committee shall be dischargedfrom further consideration of the joint resolution.
 
 (ii) It shall be in order at any time after the third legislative day after each committee authorized to consider a joint resolution has reported or has been discharged from consideration of a joint resolution, to move to proceed to consider the joint resolution in the House. All points of order against the motion are waived. Such a motion shall not be in order after the House has disposed of a motion to proceed on a joint resolution addressing a particular submission. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
 
@@ -110,7 +110,7 @@ Waiver of Authorities.—(1) Subject to reporting under paragraph (2) and approv
 
 (III) If the Senate has voted to proceed to a joint resolution, the vote on passage of the joint resolution shall occur immediately following the conclusion of consideration of the joint resolution, and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate.
 
-(IV) Appeals from the decisions of the Chair relating to the application of the rules of theSenate, as the case may be, to the procedure relating to a joint resolution shall be decided without debate.
+(IV) Appeals from the decisions of the Chair relating to the application of the rules of the Senate, as the case may be, to the procedure relating to a joint resolution shall be decided without debate.
 
 (F) A joint resolution considered pursuant to this paragraph shall not be subject to amendment in either the House of Representatives or the Senate.
 
@@ -144,7 +144,7 @@ Limitations.—(1) The Secretary may not carry out more than 10 pilot programs c
 
 &emsp;(i) the Secretary determines that the additional expenditure is necessary to carry out pilot programs under this section;
 
-&emsp;(ii) the Secretary submits to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report setting forth the amount of the additional expenditure and a justification for the additional expenditure; and
+&emsp;(ii) the Secretary submits to the Committees on Veterans' Affairs of the Senate and theHouse of Representatives a report setting forth the amount of the additional expenditure and a justification for the additional expenditure; and
 
 &emsp;(iii) the Chairmen of the Committees on Veterans' Affairs of the Senate and the House of Representatives transmit to the Secretary a letter approving of the additional expenditure.
 

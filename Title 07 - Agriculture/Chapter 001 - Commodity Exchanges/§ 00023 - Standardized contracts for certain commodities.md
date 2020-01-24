@@ -16,7 +16,7 @@ Except as authorized under subsection (b), no person shall offer to enter into, 
 
 &emsp;(i) with the assistance of a futures association registered under this chapter, conduct a survey concerning the persons interested in engaging in the business of offering to enter into, entering into, or confirming the execution of, the transactions described in subsection (b)(1); and
 
-&emsp;(ii) transmit a report of the results of the survey to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+&emsp;(ii) transmit a report of the results of the survey to the Committee on Agriculture of theHouse of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
 (B) Notwithstanding any other provision of law, for purposes of completing such report the Commission may direct, by rule, regulation, or order, a futures association registered under this chapter to render such assistance as the Commission shall specify.
 

@@ -8,7 +8,7 @@
 
 #### (2) Grazing of triticale acreage
 
-&emsp;Effective for each of the 2014 through 2023 crop years, with respect to a producer on afarm that uses acreage planted to triticale for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of triticale on that acreage.
+&emsp;Effective for each of the 2014 through 2023 crop years, with respect to a producer on a farm that uses acreage planted to triticale for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of triticale on that acreage.
 
 #### (b) Payment amount
 

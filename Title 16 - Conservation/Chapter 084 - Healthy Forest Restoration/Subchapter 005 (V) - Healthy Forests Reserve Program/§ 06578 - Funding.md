@@ -16,7 +16,7 @@ In addition to funds appropriated pursuant to the authorization of appropriation
 
 The funds made available under subsection (a) shall remain available until expended.
 
-(Pub. L. 108–148, title V, §508, Dec. 3, 2003, 117 Stat. 1914; Pub. L. 110–234, title VIII, §8205(c), May 22, 2008, 122 Stat. 1295; Pub. L. 110–246, §4(a), title VIII, §8205(c), June 18, 2008, 122 Stat. 1664, 2057; Pub. L. 113–79, title VIII, §8203(b), Feb. 7, 2014, 128 Stat. 915; Pub. L. 115–334, title VIII, §8407(a)(8), Dec. 20, 2018, 132 Stat. 4846.)
+(Pub. L. 108–148, title V, §508, Dec. 3, 2003, 117 Stat. 1914; Pub. L. 110–234, title VIII, §8205(c), May 22, 2008, 122 Stat. 1295; Pub. L. 110–246, §4(a), title VIII, §8205(c), June 18, 2008, 122 Stat. 1664, 2057; Pub. L. 113–79, title VIII, §8203(b), Feb. 7,2014, 128 Stat. 915; Pub. L. 115–334, title VIII, §8407(a)(8), Dec. 20, 2018, 132 Stat. 4846.)
 
 #### References in Text
 

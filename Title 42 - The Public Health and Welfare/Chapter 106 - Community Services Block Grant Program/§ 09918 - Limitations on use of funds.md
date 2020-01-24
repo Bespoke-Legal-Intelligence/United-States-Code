@@ -38,7 +38,7 @@
 
 #### (2) Action of Secretary
 
-&emsp;Whenever the Secretary determines that a State that has received a payment under thischapter has failed to comply with paragraph (1) or an applicable regulation, the Secretary shall notify the chief executive officer of the State and shall request that the officer secure compliance. If within a reasonable period of time, not to exceed 60 days, the chief executive officer fails or refuses to secure compliance, the Secretary is authorized to—
+&emsp;Whenever the Secretary determines that a State that has received a payment under this chapter has failed to comply with paragraph (1) or an applicable regulation, the Secretary shall notify the chief executive officer of the State and shall request that the officer secure compliance. If within a reasonable period of time, not to exceed 60 days, the chief executive officer fails or refuses to secure compliance, the Secretary is authorized to—
 
 &emsp;&emsp;(A) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted;
 

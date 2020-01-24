@@ -1,6 +1,6 @@
 ### §957. Right of way to electric power companies
 
-The Secretary of the Interior is authorized and empowered, under general regulations to be fixed by him, to permit the use of right of way to the extent of twenty-five feet, together with the use of necessary ground, not exceeding forty acres, upon the public lands and national forests of the United States by any citizen or association of citizens of the United States for the purposes of generating, manufacturing, or distributing electric power.
+The Secretary of the Interior is authorized and empowered, under general regulations to be fixed by him, to permit the use of right of way to the extent of twenty-five feet, together with the use of necessary ground, not exceeding fortyacres, upon the public lands and national forests of the United States by any citizen or association of citizens of the United States for the purposes of generating, manufacturing, or distributing electric power.
 
 (Jan. 21, 1895, ch. 37, §2, as added May 14, 1896, ch. 179, 29 Stat. 120; amended Mar. 4, 1907, ch. 2907, 34 Stat. 1269.)
 

@@ -6,5 +6,5 @@ A prior section 7241, Pub. L. 88–563, §6(b), Sept. 2, 1964, 78 Stat. 847, whi
 
 #### Effective Date of Repeal
 
-Repeal applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) ofPub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 164 of this title.
+Repeal applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 164 of this title.
 

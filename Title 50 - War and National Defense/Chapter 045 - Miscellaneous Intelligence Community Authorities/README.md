@@ -20,6 +20,8 @@
 | [3313\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003313%20-%20Notification%20of%20memoranda%20of%20understanding.md) | Notification of memoranda of understanding. |
 | [3314\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003314%20-%20Report%20on%20national%20security%20systems.md) | Report on national security systems. |
 | [3315\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003315%20-%20Annual%20certification%20of%20controlled%20access%20programs.md) | Annual certification of controlled access programs. |
+| [3316\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003316%20-%20Submission%20of%20intelligence%20community%20policies.md) | Submission of intelligence community policies. |
+| [3316a.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003316a%20-%20Reports%20on%20intelligence%20community%20participation%20in%20vulnerabilities%20equities%20process%20of%20Federal%20Government.md) | Reports on intelligence community participation in vulnerabilities equities process of Federal Government. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -40,6 +42,14 @@
 | [3331\.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003331%20-%20Management%20of%20intelligence%20community%20personnel.md) | Management of intelligence community personnel. |
 | [3332\.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003332%20-%20Guidance%20and%20reporting%20requirement%20regarding%20the%20interactions%20between%20the%20intelligence%20community%20and%20entertainment%20industry.md) | Guidance and reporting requirement regarding the interactions between the intelligence community and entertainment industry. |
 | [3333\.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003333%20-%20Joint%20facilities%20certification.md) | Joint facilities certification. |
+| [3334\.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003334%20-%20Intelligence%20community%20public-private%20talent%20exchange.md) | Intelligence community public-private talent exchange. |
+| [3334a.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003334a%20-%20Transfer%20of%20National%20Intelligence%20University%20to%20the%20Office%20of%20the%20Director%20of%20National%20Intelligence.md) | Transfer of National Intelligence University to the Office of the Director of National Intelligence. |
+| [3334b.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003334b%20-%20Collection%2C%20analysis%2C%20and%20dissemination%20of%20workforce%20data.md) | Collection, analysis, and dissemination of workforce data. |
+| [3334c.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003334c%20-%20Assessment%20of%20homeland%20security%20vulnerabilities%20associated%20with%20certain%20retired%20and%20former%20personnel%20of%20the%20intelligence%20community.md) | Assessment of homeland security vulnerabilities associated with certain retired and former personnel of the intelligence community. |
+| [3334d.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003334d%20-%20Cyber%20protection%20support%20for%20the%20personnel%20of%20the%20intelligence%20community%20in%20positions%20highly%20vulnerable%20to%20cyber%20attack.md) | Cyber protection support for the personnel of the intelligence community in positions highly vulnerable to cyber attack. |
+| [3334e.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003334e%20-%20Enhanced%20procurement%20authority%20to%20manage%20supply%20chain%20risk.md) | Enhanced procurement authority to manage supply chain risk. |
+| [3334f.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003334f%20-%20Congressional%20notification%20of%20designation%20of%20covered%20intelligence%20officer%20as%20persona%20non%20grata.md) | Congressional notification of designation of covered intelligence officer as persona non grata. |
+| [3334g.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003334g%20-%20Reports%20on%20intelligence%20community%20loan%20repayment%20and%20related%20programs.md) | Reports on intelligence community loan repayment and related programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -57,6 +67,31 @@
 | [3348\.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003348%20-%20Reports%20relating%20to%20certain%20special%20access%20programs%20and%20similar%20programs.md) | Reports relating to certain special access programs and similar programs. |
 | [3349\.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003349%20-%20Notification%20regarding%20the%20authorized%20public%20disclosure%20of%20national%20intelligence.md) | Notification regarding the authorized public disclosure of national intelligence. |
 | [3350\.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003350%20-%20Maximum%20amount%20charged%20for%20declassification%20reviews.md) | Maximum amount charged for declassification reviews. |
+| [3351\.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003351%20-%20Improving%20quality%20of%20information%20in%20background%20investigation%20request%20packages.md) | Improving quality of information in background investigation request packages. |
+| [3351a.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003351a%20-%20Making%20certain%20policies%20and%20execution%20plans%20relating%20to%20personnel%20clearances%20available%20to%20industry%20partners.md) | Making certain policies and execution plans relating to personnel clearances available to industry partners. |
+| [3351b.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003351b%20-%20Limitations%20on%20determinations%20regarding%20certain%20security%20classifications.md) | Limitations on determinations regarding certain security classifications. |
+| [3352\.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003352%20-%20Definitions.md) | Definitions. |
+| [3352a.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003352a%20-%20Reports%20and%20plans%20relating%20to%20security%20clearances%20and%20background%20investigations.md) | Reports and plans relating to security clearances and background investigations. |
+| [3352b.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003352b%20-%20Improving%20the%20process%20for%20security%20clearances.md) | Improving the process for security clearances. |
+| [3352c.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003352c%20-%20Goals%20for%20promptness%20of%20determinations%20regarding%20security%20clearances.md) | Goals for promptness of determinations regarding security clearances. |
+| [3352d.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003352d%20-%20Reports%20on%20reciprocity%20for%20security%20clearances%20inside%20of%20departments%20and%20agencies.md) | Reports on reciprocity for security clearances inside of departments and agencies. |
+| [3352e.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003352e%20-%20Periodic%20report%20on%20positions%20in%20the%20intelligence%20community%20that%20can%20be%20conducted%20without%20access%20to%20classified%20information%2C%20networks%2C%20or%E2%80%A6.md) | Periodic report on positions in the intelligence community that can be conducted without access to classified information, networks, or facilities. |
+| [3352f.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003352f%20-%20Information-sharing%20program%20for%20positions%20of%20trust%20and%20security%20clearances.md) | Information-sharing program for positions of trust and security clearances. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER III–A—PUBLIC INTEREST DECLASSIFICATIONS
+
+|  |  |
+| :--- | ---: |
+| [3355\.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Public%20Interest%20Declassifications/%C2%A7%2003355%20-%20Findings.md) | Findings. |
+| [3355a.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Public%20Interest%20Declassifications/%C2%A7%2003355a%20-%20Public%20Interest%20Declassification%20Board.md) | Public Interest Declassification Board. |
+| [3355b.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Public%20Interest%20Declassifications/%C2%A7%2003355b%20-%20Identification%2C%20collection%2C%20and%20review%20for%20declassification%20of%20information%20of%20archival%20value%20or%20extraordinary%20public%20interest.md) | Identification, collection, and review for declassification of information of archival value or extraordinary public interest. |
+| [3355c.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Public%20Interest%20Declassifications/%C2%A7%2003355c%20-%20Protection%20of%20national%20security%20information%20and%20other%20information.md) | Protection of national security information and other information. |
+| [3355d.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Public%20Interest%20Declassifications/%C2%A7%2003355d%20-%20Standards%20and%20procedures.md) | Standards and procedures. |
+| [3355e.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Public%20Interest%20Declassifications/%C2%A7%2003355e%20-%20Judicial%20review.md) | Judicial review. |
+| [3355f.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Public%20Interest%20Declassifications/%C2%A7%2003355f%20-%20Funding.md) | Funding. |
+| [3355g.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Public%20Interest%20Declassifications/%C2%A7%2003355g%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -72,6 +107,18 @@
 | [3366\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003366%20-%20Authorities%20of%20heads%20of%20other%20departments%20and%20agencies.md) | Authorities of heads of other departments and agencies. |
 | [3367\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003367%20-%20Requirement%20for%20efficient%20use%20by%20intelligence%20community%20of%20open-source%20intelligence.md) | Requirement for efficient use by intelligence community of open-source intelligence. |
 | [3368\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003368%20-%20Assistance%20for%20governmental%20entities%20and%20private%20entities%20in%20recognizing%20online%20violent%20extremist%20content.md) | Assistance for governmental entities and private entities in recognizing online violent extremist content. |
+| [3369\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003369%20-%20Encouragement%20of%20cooperative%20actions%20to%20detect%20and%20counter%20foreign%20influence%20operations.md) | Encouragement of cooperative actions to detect and counter foreign influence operations. |
+| [3369a.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003369a%20-%20Report%20on%20deepfake%20technology%2C%20foreign%20weaponization%20of%20deepfakes%2C%20and%20related%20notifications.md) | Report on deepfake technology, foreign weaponization of deepfakes, and related notifications. |
+| [3369b.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003369b%20-%20Oversight%20of%20foreign%20influence%20in%20academia.md) | Oversight of foreign influence in academia. |
+| [3369c.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003369c%20-%20Notification%20of%20an%20active%20measures%20campaign.md) | Notification of an active measures campaign. |
+| [3369d.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003369d%20-%20Committee%20to%20counter%20active%20measures%20by%20the%20Russian%20Federation%2C%20the%20People%27s%20Republic%20of%20China%2C%20the%20Islamic%20Republic%20of%20Iran%2C%20the%E2%80%A6.md) | Committee to counter active measures by the Russian Federation, the People's Republic of China, the Islamic Republic of Iran, the Democratic People's Republic of Korea, or other nation state to exert covert influence over peoples and governments. |
+| [3370\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003370%20-%20Supply%20Chain%20and%20Counterintelligence%20Risk%20Management%20Task%20Force.md) | Supply Chain and Counterintelligence Risk Management Task Force. |
+| [3370a.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003370a%20-%20Biennial%20report%20on%20foreign%20investment%20risks.md) | Biennial report on foreign investment risks. |
+| [3371\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003371%20-%20Required%20counterintelligence%20assessments%2C%20briefings%2C%20notifications%2C%20and%20reports.md) | Required counterintelligence assessments, briefings, notifications, and reports. |
+| [3371a.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003371a%20-%20Assessment%20of%20foreign%20intelligence%20threats%20to%20Federal%20elections.md) | Assessment of foreign intelligence threats to Federal elections. |
+| [3371b.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003371b%20-%20Information%20sharing%20with%20State%20election%20officials.md) | Information sharing with State election officials. |
+| [3371c.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003371c%20-%20Notification%20of%20significant%20foreign%20cyber%20intrusions%20and%20active%20measures%20campaigns%20directed%20at%20elections%20for%20Federal%20offices.md) | Notification of significant foreign cyber intrusions and active measures campaigns directed at elections for Federal offices. |
+| [3371d.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003371d%20-%20Designation%20of%20counterintelligence%20officer%20to%20lead%20election%20security%20matters.md) | Designation of counterintelligence officer to lead election security matters. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -93,5 +140,6 @@
 - [Subchapter 001 (I) - Budget and Oversight](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/README.md)
 - [Subchapter 002 (II) - Personnel and Administrative Authorities](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/README.md)
 - [Subchapter 003 (III) - Security Clearances and Classified Information](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/README.md)
+- [Subchapter 003&#8211;A (III&#8211;A) - Public Interest Declassifications](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Public%20Interest%20Declassifications/README.md)
 - [Subchapter 004 (IV) - Collection, Analysis, and Sharing of Intelligence](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/README.md)
 - [Subchapter 005 (V) - Management of Counterintelligence Activities](Subchapter%20005%20%28V%29%20-%20Management%20of%20Counterintelligence%20Activities/README.md)

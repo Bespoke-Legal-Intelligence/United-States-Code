@@ -52,7 +52,7 @@ In this section, the term "endowment fund" means the Hispanic-Serving Agricultur
 
 #### (1) In general
 
-&emsp;For fiscal year 2008 and each fiscal year thereafter, there are authorized to be appropriated to the Department of Agriculture to carry out this subsection an amount equal to the product obtained by multiplying—
+&emsp;For fiscal year 2008 and each fiscal year thereafter, there are authorized to be appropriated to the Department of Agriculture tocarry out this subsection an amount equal to the product obtained by multiplying—
 
 &emsp;&emsp;(A) $80,000; by
 

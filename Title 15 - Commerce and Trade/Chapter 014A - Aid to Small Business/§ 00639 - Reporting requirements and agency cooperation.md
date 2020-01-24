@@ -42,7 +42,7 @@ Prior similar provisions were contained in sections 211 and 215 of act July 30, 
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b). Pub. L. 115–189 struck out subsec. (b). Text read as follows: "The Administration shall make a report to the President, the President of the Senate, and the Speaker of the House of Representatives, to the Senate Select Committee on Small Business and to the Committee on Small Business of the House of Representatives, as soon as practicable each fiscal year, showing as accurately as possible for each such period the amount of funds appropriated to it that it has expended in the conduct of each of its principal activities such as lending, procurement, contracting, and providing technical and managerial aids. Such report shall contain the number and amount of loans, the number of applications, the total amount applied for, and the number and amount of defaults for each type of equipment or service for which loans are authorized by this this chapter. Such report shall provide such information separately on each type of loan made under paragraphs (10) through (15) of section 636(a) of this title and separately for all other loan programs. In addition, the information on loans shall be supplied on a monthly basis to the Committee on Small Business of the Senate and the Committee on Small Business of the House of Representatives."
+<b>2018</b>—Subsec. (b). Pub. L. 115–189 struck out subsec. (b). Text read as follows: "The Administration shallmake a report to the President, the President of the Senate, and the Speaker of the House of Representatives, to the Senate Select Committee on Small Business and to the Committee on Small Business of the House of Representatives, as soon as practicable each fiscal year, showing as accurately as possible for each such period the amount of funds appropriated to it that it has expended in the conduct of each of its principal activities such as lending, procurement, contracting, and providing technical and managerial aids. Such report shall contain the number and amount of loans, the number of applications, the total amount applied for, and the number and amount of defaults for each type of equipment or service for which loans are authorized by this this chapter. Such report shall provide such information separately on each type of loan made under paragraphs (10) through (15) of section 636(a) of this title and separately for all other loan programs. In addition, the information on loans shall be supplied on a monthly basis to the Committee on Small Business of the Senate and the Committee on Small Business of the House of Representatives."
 
 <b>1995</b>—Subsec. (c). Pub. L. 104–66 struck out subsec. (c) which related to surveys, and their corresponding reports and recommendations, for the determination of factors tending to injure small businesses.
 
@@ -66,7 +66,7 @@ Subsec. (c)(2). Pub. L. 95–89, §205, included the Senate Select Committee on 
 
 Subsec. (d). Pub. L. 95–89, §206, included the Senate Select Committee on Small Business as an additional recipient of the required reports.
 
-Subsec. (e). Pub. L. 95–89, §207, substituted "Committee on Small Business of the House of Representatives"for "House Select Committee To Conduct a Study and Investigation of the Problems of Small Business".
+Subsec. (e). Pub. L. 95–89, §207, substituted "Committee on Small Business of the House of Representatives" for "House Select Committee To Conduct a Study and Investigation of the Problems of Small Business".
 
 Subsec. (g). Pub. L. 95–89, §208, substituted "Senate Select Committee on Small Business and Committee on Small Business of the House of Representatives" for "Committee on Banking, Housing and Urban Affairs of the Senate and the Committee on Banking and Currency of the House of Representatives".
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, but shall not affect any f
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsecs. (a), (b), and (d) of this section relating to submitting annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 64 and 191 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsecs. (a), (b), and (d) of this section relating tosubmitting annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 64 and 191 of House Document No. 103–7.
 
 #### Small Business Administration Program Data and Evaluation; Report; Implementation
 
@@ -126,7 +126,7 @@ WHEREAS the Small Business Act (72 Stat. 384, 15 U.S.C. 631) declares the Congre
 
 WHEREAS the Small Business Administration is the agency within the Executive Branch of the United States Government especially responsible for and with an established program of advocacy in matters relating to small business; and
 
-WHEREAS section 8(b)(12) of the Small Business Act (72 Stat. 391, 15 U.S.C. 637(b)(12)) empowers the Small Business Administration to consult and cooperate with all Government agencies for the purpose of insuring that small business concerns receive fair and reasonable treatment from such agencies, and section 10(f) of that Act (72 Stat. 393, 15 U.S.C. 639(f)) requires each department and agency of the Federal Government, when requested by the Administrator of the Small BusinessAdministration, to consult and cooperate with the Administration in the formulation by such department or agency of policies affecting small business concerns, in order to insure that small business interests will be recognized, protected, and preserved:
+WHEREAS section 8(b)(12) of the Small Business Act (72 Stat. 391, 15 U.S.C. 637(b)(12)) empowers the Small Business Administration to consult and cooperate with all Government agencies for the purpose of insuring that small business concerns receive fair and reasonable treatment from such agencies, and section 10(f) of that Act (72 Stat. 393, 15 U.S.C. 639(f)) requires each department and agency of the Federal Government, when requested by the Administrator of the Small Business Administration, to consult and cooperate with the Administration in the formulation by such department or agency of policies affecting small business concerns, in order to insure that small business interests will be recognized, protected, and preserved:
 
 NOW, THEREFORE, by virtue of the authority vested in me as President of the United States and in furtherance of the purpose and policy of the Small Business Act, it is ordered as follows:
 

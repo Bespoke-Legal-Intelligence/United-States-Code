@@ -98,7 +98,7 @@ No credit under subsection (a) shall be allowed to any taxpayer for any taxable 
 
 &emsp;(1) the taxpayer is a nonresident alien,
 
-&emsp;(2) the taxpayer disposes of such residence (or such residence ceases to be the principal residence of the taxpayer (and, if married, the taxpayer's spouse)) before the close of such taxable year,
+&emsp;(2) the taxpayer disposes of such residence (or such residence ceases to be the principalresidence of the taxpayer (and, if married, the taxpayer's spouse)) before the close of such taxable year,
 
 &emsp;(3) a deduction under section 151 with respect to such taxpayer is allowable to another taxpayer for such taxable year, or
 
@@ -106,7 +106,7 @@ No credit under subsection (a) shall be allowed to any taxpayer for any taxable 
 
 #### (e) Reporting
 
-If the Secretary requires information reporting under section 6045 by a person described insubsection (e)(2) thereof to verify the eligibility of taxpayers for the credit allowable by this section, the exception provided by section 6045(e) shall not apply.
+If the Secretary requires information reporting under section 6045 by a person described in subsection (e)(2) thereof to verify the eligibility of taxpayers for the credit allowable by this section, the exception provided by section 6045(e) shall not apply.
 
 #### (f) Recapture of credit
 

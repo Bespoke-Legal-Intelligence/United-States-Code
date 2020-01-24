@@ -12,7 +12,7 @@ Membership.—The members of the Council are—
 
 &emsp;(2) the Administrator;
 
-&emsp;(3) the Under Secretary of Defense for Acquisition, Technology, and Logistics;
+&emsp;(3) the Under Secretary of Defense for Acquisition and Sustainment;
 
 &emsp;(4) the chief acquisition officer of each executive agency that is required to have a chief acquisition officer under section 1702 of this title and the senior procurement executive of each military department; and
 
@@ -38,7 +38,7 @@ Leader of activities.—The Administrator shall lead the activities of the Counc
 
 Support.—The Administrator of General Services shall provide administrative and other support for the Council.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3694.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3694; Pub. L. 116–92, div. A, title IX, §902(89), Dec. 20, 2019, 133 Stat. 1554.)
 
 Historical and Revision Notes
 
@@ -75,4 +75,8 @@ Pub. L. 93–400, §16A(a)–(c), as added Pub. L. 108–136, title XIV, §1422(
 1311(c)(4)
 
 41:414b(c)(3).
+
+#### Amendments
+
+<b>2019</b>—Subsec. (b)(3). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 

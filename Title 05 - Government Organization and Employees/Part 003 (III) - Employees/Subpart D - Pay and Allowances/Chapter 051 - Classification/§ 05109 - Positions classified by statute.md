@@ -1,6 +1,6 @@
 ### §5109. Positions classified by statute
 
-(a) The position held by an employee of the Department of Agriculture while he, under section 450d of title 7,<sup>1</sup> is designated and vested with a delegated regulatory function or partthereof shall be classified in accordance with this chapter, but not lower than GS–14.
+(a) The position held by an employee of the Department of Agriculture while he, under section 450d of title 7,<sup>1</sup> is designated and vested with a delegated regulatory function or part thereof shall be classified in accordance with this chapter, but not lower than GS–14.
 
 (b)(1) The position held by a fully experienced and qualified railroad safety inspector of the Department of Transportation shall be classified in accordance with this chapter, but not lower than GS–12.
 

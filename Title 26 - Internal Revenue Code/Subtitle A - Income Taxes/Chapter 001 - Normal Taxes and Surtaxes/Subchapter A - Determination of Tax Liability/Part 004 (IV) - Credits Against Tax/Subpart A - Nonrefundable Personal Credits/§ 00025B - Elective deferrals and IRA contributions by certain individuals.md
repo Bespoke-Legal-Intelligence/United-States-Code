@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (3) Inflation adjustment
 
-&emsp;In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraph (1) shall be increased by an amount equal to—
+&emsp;In the case of any taxable year beginning in a calendar year after 2006, each of the dollaramounts in paragraph (1) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
@@ -118,7 +118,7 @@ Notwithstanding any other provision of law, a qualified retirement savings contr
 
 #### Amendments
 
-<b>2017</b>—Subsec. (b)(3)(B). Pub. L. 115–97, §11002(d)(1)(C), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+<b>2017</b>—Subsec. (b)(3)(B). Pub. L. 115–97, §11002(d)(1)(C), substituted "for 'calendar year 2016' in subparagraph\(A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 Subsec. (d)(1)(D). Pub. L. 115–97, §11024(b), added subpar. (D).
 
@@ -204,7 +204,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title IV, §411(x), Mar. 9, 2002, 116 Stat. 53, provided that: "Except as provided in subsection (c) \[amending sections 23 and 137 of this title and enacting provisions set out as a note under section 23 of this title\], the amendments made by this section \[amending this section, sections 23, 24, 38, 45E, 45F, 63, 137, 401 to 404, 408, 409, 412, 414 to 417, 457, 530, 2016, 2101, 2511, 4980F, and 6428 of this title, sections 1003, 1054, 1055, 1082, and 1104 of Title 29, Labor, and provisions set out as notes under sections 38, 415, and 4980F of this title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate."
+Pub. L. 107–147, title IV, §411(x), Mar. 9, 2002, 116 Stat. 53, provided that: "Except as provided in subsection (c)\[amending sections 23 and 137 of this title and enacting provisions set out as a note under section 23 of this title\], the amendments made by this section \[amending this section, sections 23, 24, 38, 45E, 45F, 63, 137, 401 to 404, 408, 409, 412, 414 to 417, 457, 530, 2016, 2101, 2511, 4980F, and 6428 of this title, sections 1003, 1054, 1055, 1082, and 1104 of Title 29, Labor, and provisions set out as notes under sections 38, 415, and 4980F of this title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate."
 
 #### Effective Date
 

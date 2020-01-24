@@ -10,7 +10,7 @@ As an alternative to the calculation method described in subsection (a), the Sec
 
 &emsp;(1) the percentages of acreage planted on the farm to long grain rice and medium grain rice during the 2003 through 2006 crop years;
 
-&emsp;(2) the percentages of any acreage on the farm that the producers were prevented from planting to long grain rice and medium grain rice during the 2003 through 2006 crop years because of drought, flood, other natural disaster, or other condition beyond the control of the producers, as determined by the Secretary; and
+&emsp;(2) the percentages of any acreage on the farm that the producers were prevented from planting to long grain rice and medium grainrice during the 2003 through 2006 crop years because of drought, flood, other natural disaster, or other condition beyond the control of the producers, as determined by the Secretary; and
 
 &emsp;(3) in the case of a crop year for which a producer on a farm elected not to plant to long grain and medium grain rice during the 2003 through 2006 crop years, the percentages of acreage planted in the applicable State to long grain rice and medium grain rice, as determined by the Secretary.
 

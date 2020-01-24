@@ -40,7 +40,7 @@ The Secretary shall establish, under section 241 of this title, telehealth netwo
 
 #### (1) Establishment
 
-&emsp;There is established in the Health Resources and Services Administration an Office for the Advancement of Telehealth. The Office shall be headed by a Director.
+&emsp;There is established in the Health Resources and Services Administration an Office for theAdvancement of Telehealth. The Office shall be headed by a Director.
 
 #### (2) Duties
 
@@ -50,7 +50,7 @@ The Secretary shall establish, under section 241 of this title, telehealth netwo
 
 #### (1) Telehealth network grants
 
-&emsp;The Director may, in carrying out the telehealth network grant program referred to insubsection (b), award grants to eligible entities for projects to demonstrate how telehealth technologies can be used through telehealth networks in rural areas, frontier communities, and medically underserved areas, and for medically underserved populations, to—
+&emsp;The Director may, in carrying out the telehealth network grant program referred to in subsection (b), award grants to eligible entities for projects to demonstrate how telehealth technologies can be used through telehealth networks in rural areas, frontier communities, and medically underserved areas, and for medically underserved populations, to—
 
 &emsp;&emsp;(A) expand access to, coordinate, and improve the quality of health care services;
 
@@ -138,7 +138,7 @@ To be eligible to receive a grant under subsection (d), an eligible entity, in c
 
 #### (h) Terms; conditions; maximum amount of assistance
 
-The Secretary shall establish the terms and conditions of each grant program described in subsection (b) and the maximum amount of a grant to be awarded to an individual recipient for each fiscal year under this section. The Secretary shall publish, in a publication of the Health Resources and Services Administration, notice of the application requirements for each grant program described in subsection (b) for each fiscal year.
+The Secretary shall establish the terms and conditions of each grant program described in subsection (b) and the maximum amount of agrant to be awarded to an individual recipient for each fiscal year under this section. The Secretary shall publish, in a publication of the Health Resources and Services Administration, notice of the application requirements for each grant program described in subsection (b) for each fiscal year.
 
 #### (i) Preferences
 

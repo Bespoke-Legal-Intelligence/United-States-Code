@@ -18,7 +18,7 @@
 
 &emsp;(B) the reasons why those needs would not be so addressed;
 
-&emsp;(4) the specific criteria to be used in determining which individuals may receive the benefits described under sections 9804 and 9805 (including the criteria for granting bonuses in the absence of a critical need), and how the level of those benefits will be determined;
+&emsp;(4) the specific criteria to be used in determining which individuals may receive the benefits described under sections 9804 and 9805 (including the criteria for granting bonuses inthe absence of a critical need), and how the level of those benefits will be determined;
 
 &emsp;(5) the safeguards or other measures that will be applied to ensure that this chapter is carried out in a manner consistent with merit system principles;
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(ii) Internet technologies; and
 
-&emsp;(9) any workforce-related reforms required to resolve the findings and recommendationsof the Columbia Accident Investigation Board, the extent to which those recommendations were accepted, and, if necessary, the reasons why any of those recommendations were not accepted.
+&emsp;(9) any workforce-related reforms required to resolve the findings and recommendations of the Columbia Accident Investigation Board, the extent to which those recommendations were accepted, and, if necessary, the reasons why any of those recommendations were not accepted.
 
 (c) Not later than 60 days before first exercising any of the workforce authorities made available under this chapter, the Administrator shall provide to all employees the workforce plan and any additional information which the Administrator considers appropriate.
 

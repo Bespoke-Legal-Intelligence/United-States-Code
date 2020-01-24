@@ -60,7 +60,7 @@ Schedule V.—
 
 #### (c) Initial schedules of controlled substances
 
-Schedules I, II, III, IV, and V shall, unless and until amended pursuant to section 811 of thistitle, consist of the following drugs or other substances,<sup>1</sup> by whatever official name, common or usual name, chemical name, or brand name designated:
+Schedules I, II, III, IV, and V shall, unless and until amended pursuant to section 811 of this title, consist of the following drugs or other substances,<sup>1</sup> by whatever official name, common or usual name, chemical name, or brand name designated:
 
 Schedule I
 
@@ -254,7 +254,7 @@ Schedule I
 
 &emsp;(28) 2-(2,5-Dimethoxy-4-(n)-propylphenyl)ethanamine (2C–P).
 
-(d)(1) Unless specifically exempted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of cannabimimetic agents, or which contains their salts, isomers, and salts ofisomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation.
+(d)(1) Unless specifically exempted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of cannabimimetic agents, or which contains their salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation.
 
 (2) In paragraph (1):
 
@@ -314,7 +314,7 @@ Schedule II
 
 &emsp;(4) coca <sup>3</sup> leaves, except coca leaves and extracts of coca leaves from which cocaine, ecgonine, and derivatives of ecgonine or their salts have been removed; cocaine, its salts, optical and geometric isomers, and salts of isomers; ecgonine, its derivatives, their salts, isomers, and salts of isomers; or any compound, mixture, or preparation which contains any quantity of any of the substances referred to in this paragraph.
 
-(b) Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation:
+(b) Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters,ethers, and salts is possible within the specific chemical designation:
 
 &emsp;(1) Alphaprodine.
 
@@ -468,7 +468,7 @@ Pub. L. 112–144, §1152(a), added schedule I(d).
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–646 amended schedule II(a)(4) generally. Prior to amendment, schedule II(a)(4) read as follows: "Coca leaves (except coca leaves and extracts of coca leaves from which cocaine, ecgonine, and derivatives of ecgonine or their salts have been removed); cocaine, its salts, optical and geometric isomers, and salts of isomers; and ecgonine, its derivatives, their salts, isomers, and salts of isomers."
 
-Pub. L. 99–570 amended schedule II(a)(4) generally. Prior to amendment, schedule II(a)(4) read as follows: "Coca leaves and any salt, compound, derivative, orpreparation of coca leaves (including cocaine and ecgonine and their salts, isomers, derivatives, and salts of isomers and derivatives), and any salt, compound, derivative, or preparation thereof which is chemically equivalent or identical with any of these substances, except that the substances shall not include decocainized coca leaves or extraction of coca leaves, which extractions do not contain cocaine or ecgonine."
+Pub. L. 99–570 amended schedule II(a)(4) generally. Prior to amendment, schedule II(a)(4) read as follows: "Coca leaves and any salt, compound, derivative, or preparation of coca leaves (including cocaine and ecgonine and their salts, isomers, derivatives, and salts of isomers and derivatives), and any salt, compound, derivative, or preparation thereof which is chemically equivalent or identical with any of these substances, except that the substances shall not include decocainized coca leaves or extraction of coca leaves, which extractions do not contain cocaine or ecgonine."
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–473, §507(c), in schedule II(a)(4) added applicability to cocaine and ecgonine and their salts, isomers, etc.
 
@@ -518,7 +518,7 @@ Emergency Scheduling of GHB.—
 
 In general.—The Congress finds that the abuse of illicit gamma hydroxybutyric acid is an imminent hazard to the public safety. Accordingly, the Attorney General, notwithstanding sections 201(a), 201(b), 201(c), and 202 of the Controlled Substances Act \[21 U.S.C. 811(a)–(c), 812\], shall issue, not later than 60 days after the date of the enactment of this Act \[Feb. 18, 2000\], a final order that schedules such drug (together with its salts, isomers, and salts of isomers) in the same schedule under section 202(c) of the Controlled Substances Act as would apply to a scheduling of a substance by the Attorney General under section 201(h)(1) of such Act (relating to imminent hazards to the public safety), except as follows:
 
-&emsp;&emsp;"(A) For purposes of any requirements that relate to the physical security of registered manufacturers and registered distributors, the final order shall treat such drug, when the drug is manufactured, distributed, or possessed in accordance with an exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i)\] (whether the exemption involved is authorized before, on, or after the date of the enactment of this Act \[Feb. 18, 2000\]), as being in the same schedule as that recommended by the Secretary of Health and Human Services for the drug when the drug is the subject of an authorized investigational new drug application (relating to such section 505(i)). The recommendation referred to in the preceding sentence is contained in the first paragraph of the letter transmitted on May 19, 1999, by such Secretary (acting through the Assistant Secretary for Health) to the Attorney General (acting through the Deputy Administrator of the Drug Enforcement Administration), which letter was in response to the letter transmitted by the Attorney General (acting through such Deputy Administrator) on September 16, 1997. In publishing the final order in the Federal Register, the Attorney General shall publish a copy of the letter that was transmitted by the Secretary of Health and Human Services.
+&emsp;&emsp;"(A) For purposes of any requirements that relate to the physical security of registered manufacturers and registered distributors, the final order shall treat such drug, when the drug is manufactured, distributed, or possessed in accordance with an exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i)\] (whether the exemption involved is authorized before, on, or after the date of the enactment of this Act \[Feb. 18, 2000\]), as being in the same schedule as that recommended by the Secretary of Health and Human Services for the drug when the drug is the subject of an authorized investigational new drug application (relating to such section 505(i)). The recommendation referred to in the preceding sentence is contained in the first paragraph of the letter transmitted on May 19, 1999, by such Secretary (actingthrough the Assistant Secretary for Health) to the Attorney General (acting through the Deputy Administrator of the Drug Enforcement Administration), which letter was in response to the letter transmitted by the Attorney General (acting through such Deputy Administrator) on September 16, 1997. In publishing the final order in the Federal Register, the Attorney General shall publish a copy of the letter that was transmitted by the Secretary of Health and Human Services.
 
 &emsp;&emsp;"(B) In the case of gamma hydroxybutyric acid that is contained in a drug product for which an application is approved under section 505 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355\] (whether the application involved is approved before, on, or after the date of the enactment of this Act \[Feb. 18, 2000\]), the final order shall schedule such drug in the same schedule as that recommended by the Secretary of Health and Human Services for authorized formulations of the drug. The recommendation referred to in the preceding sentence is contained in the last sentence of the fourth paragraph of the letter referred to in subparagraph (A) with respect to May 19, 1999.
 

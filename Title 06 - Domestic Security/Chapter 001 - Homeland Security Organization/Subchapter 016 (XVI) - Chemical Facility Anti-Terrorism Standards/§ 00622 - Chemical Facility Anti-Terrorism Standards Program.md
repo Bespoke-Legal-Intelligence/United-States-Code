@@ -206,7 +206,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of the Secretary requiring additional security measures or suspending a certification and recommending additional security measures under subparagraph (G), not later than 120 days after the date on which the owner or operator receives notice of the requirement for additional security measures or suspension of the certification and recommendation of additional security measures; and
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of a change in tiering, not later than 120 days after the date onwhich the owner or operator receives notice under subsection (e)(3).
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a change in tiering, not later than 120 days after the date on which the owner or operator receives notice under subsection (e)(3).
 
 #### (G) Facially deficient site security plans
 
@@ -274,7 +274,7 @@
 
 #### (ii) Applicability of other laws to development and issuance of initial site security plan templates and related guidance
 
-&emsp;&emsp;&emsp;During the period before the Secretary has met the deadline under subparagraph (B)(i), in developing and issuing, or amending, the site security plan templates under this subparagraph, in issuing guidance for implementation of the templates, and in collecting information from expedited approval facilities, the Secretary shall not be subject to—
+&emsp;&emsp;&emsp;During the period before the Secretary has met the deadline under subparagraph (B)(i),<sup>2</sup> in developing and issuing, or amending, the site security plan templates under this subparagraph, in issuing guidance for implementation of the templates, and in collecting information from expedited approval facilities, the Secretary shall not be subject to—
 
 &emsp;&emsp;&emsp;&emsp;(I) section 553 of title 5;
 
@@ -410,7 +410,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) shall—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) accept a credential from a Federal screening program described in subclause (I) if an individual who is required to be screened presents such a credential; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) accept a credential from a Federal screening program described insubclause (I) if an individual who is required to be screened presents such a credential; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) address in its site security plan or alternative security program the measures it will take to verify that a credential or documentation from a Federal screening program described in subclause (I) is current;
 
@@ -510,7 +510,9 @@
 
 #### Effective and Termination Dates
 
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on the date that is 4 years after such effective date, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under section 621 of this title.
+Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on the date that is 5 years and 3 months after such effective date, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under section 621 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "(D)(i),".</i>
 

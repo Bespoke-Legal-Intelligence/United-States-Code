@@ -1,0 +1,44 @@
+### §9021. Space Force Acquisition Council
+
+(a)
+
+Establishment.—There is in the Office of the Secretary of the Air Force a council to be known as the "Space Force Acquisition Council" (in this section referred to as the "Council").
+
+(b)
+
+Members.—The members of the Council are as follows:
+
+&emsp;(1) The Under Secretary of the Air Force.
+
+&emsp;(2) The Assistant Secretary of the Air Force for Space Acquisition and Integration, who shall act as chair of the Council.
+
+&emsp;(3) The Assistant Secretary of Defense for Space Policy.
+
+&emsp;(4) The Director of the National Reconnaissance Office.
+
+&emsp;(5) The Chief of Space Operations.
+
+&emsp;(6) The Commander of the United States Space Command.
+
+(c)
+
+Duties.—The Council shall oversee, direct, and manage acquisition and integration of the Air Force for space systems and programs in order to ensure integration across the national security space enterprise.
+
+(d)
+
+Meetings.—The Council shall meet not less frequently than monthly.
+
+(e)
+
+Reports.—Not later than 30 days after the end of each calendar year quarter through the first calendar year quarter of 2025, the Council shall submit to the congressional defense committees a report on the activities of the Council during the calendar year quarter preceding the calendar year quarter in which such report is submitted.
+
+(Added Pub. L. 116–92, div. A, title IX, §954(a)(2), Dec. 20, 2019, 133 Stat. 1564.)
+
+#### Prior Provisions
+
+A prior section 9021 was renumbered section 9021a of this title.
+
+Another prior section 9021 was renumbered section 9371 of this title.
+
+Another prior section 9021, act Aug. 10, 1956, ch. 1041, 70A Stat. 558, related to appointments in professional and scientific service, prior to repeal by Pub. L. 85–861, §36B(30), Sept. 2, 1958, 72 Stat. 1571.
+

@@ -4,7 +4,7 @@
 
 (b) Subsection (a) of this section does not modify or otherwise affect section 5102(d) of this title, section 305 of title 44, and section 5141 of title 31.
 
-(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 572; amended Pub. L. 95–454, title VIII,§801(a)(3)(H), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 97–258, §3(a)(11), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 100–426, title III, §301, Sept. 9, 1988, 102 Stat. 1602; Pub. L. 101–474, §5(j), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 572; amended Pub. L. 95–454, title VIII, §801(a)(3)(H), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 97–258, §3(a)(11), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 100–426, title III, §301, Sept. 9, 1988, 102 Stat. 1602; Pub. L. 101–474, §5(j), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### Prior Provisions
 

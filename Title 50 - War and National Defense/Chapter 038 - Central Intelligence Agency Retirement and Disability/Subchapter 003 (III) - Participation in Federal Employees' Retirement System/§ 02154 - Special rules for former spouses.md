@@ -154,7 +154,7 @@ For purposes of this section:
 
 #### (6) Effect of termination of qualified former spouse's entitlement
 
-&emsp;After a qualified former spouse of a retired employee remarries before becoming age 55 or dies, the reduction in the retired employee's annuity for the purpose of providing a survivor annuity for such former spouse shall be terminated. The annuitant may elect, in a signed writing received by the Director within 2 years after the qualified former spouse's remarriage or death, to continue the reduction in order to provide or increase the survivor annuity for such annuitant's spouse. The annuitant making such election shall pay a deposit in accordance with the provisions of section 8418 of title 5.
+&emsp;After a qualified former spouse of a retired employee remarries before becoming age 55 or dies, the reduction in the retired employee's annuity for the purpose of providing a survivorannuity for such former spouse shall be terminated. The annuitant may elect, in a signed writing received by the Director within 2 years after the qualified former spouse's remarriage or death, to continue the reduction in order to provide or increase the survivor annuity for such annuitant's spouse. The annuitant making such election shall pay a deposit in accordance with the provisions of section 8418 of title 5.
 
 #### (7) Pro rata share in case of employees transferred to FERS
 
@@ -218,7 +218,7 @@ Whenever an employee or former employee becomes entitled to receive the lump-sum
 
 #### (h) Payment to qualified former spouses under court order or spousal agreement
 
-In the case of any employee or retired employee who has a qualified former spouse who is covered by a court order or who is a party to a spousal agreement—
+In the case of any employee or retired employee who has a qualified former spouse who iscovered by a court order or who is a party to a spousal agreement—
 
 &emsp;(1) any right of the qualified former spouse to any retirement benefits under subsection (c) and to any survivor benefits under subsection (d), and the amount of any such benefits;
 

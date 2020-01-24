@@ -40,7 +40,7 @@ Additional Compensation, Incentives, and Allowances.—(1) The Secretary may pro
 
 (d)
 
-Implementation Plan Required.—The authority granted in subsection (a) shall become effective 30 days after the date on which theSecretary of Defense provides to the congressional defense committees a plan for implementation of such authority. The plan shall include the following:
+Implementation Plan Required.—The authority granted in subsection (a) shall become effective 30 days after the date on which the Secretary of Defense provides to the congressional defense committees a plan for implementation of such authority. The plan shall include the following:
 
 &emsp;(1) An assessment of the current scope of the positions covered by the authority.
 
@@ -151,6 +151,110 @@ Subsec. (h). Pub. L. 114–328, §1103(a)(1), redesignated subsec. (g) as (h). F
 Subsec. (h)(2)(E). Pub. L. 114–328, §1103(b)(2), substituted "employees described in subsection (f)(2) on the use of authorities under this section" for "supervisors of employees in qualified positions at the Department on the use of the new authorities".
 
 Subsecs. (i) to (k). Pub. L. 114–328, §1103(a)(1), redesignated subsecs. (h) to (j) as (i) to (k), respectively.
+
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
+#### Zero-Based Review of Department of Defense Cyber and Information Technology Personnel
+
+Pub. L. 116–92, div. A, title XVI, §1652, Dec. 20, 2019, 133 Stat. 1761, provided that:
+
+"(a)
+
+Review Required.—Not later than January 1, 2021, each head of a covered department, component, or agency shall—
+
+&emsp;"(1) complete a zero-based review of the cyber and information technology personnel of the head's covered department, component, or agency; and
+
+&emsp;"(2) provide the Principal Cyber Advisor, the Chief Information Officer of the Department of Defense, and the Under Secretary of Defense for Personnel and Readiness the findings of the head with respect to the head's covered department, component, or agency.
+
+"(b)
+
+Covered Departments, Components, and Agencies.—For purposes of this section, a covered department, component, or agency is—
+
+&emsp;"(1) an independent Department of Defense component or agency;
+
+&emsp;"(2) the Office of the Secretary of Defense;
+
+&emsp;"(3) a component of the Joint Staff;
+
+&emsp;"(4) a military department or an armed force; or
+
+&emsp;"(5) a reserve component of the Armed Forces.
+
+"(c)
+
+Scope of Review.—As part of a review conducted pursuant to subsection (a)(1), the head of a covered department, component, or agency shall, with respect to the covered department, component, or agency of the head—
+
+&emsp;"(1) assess military, civilian, and contractor positions and personnel performing cyber and information technology missions;
+
+&emsp;"(2) determine the roles and functions assigned by reviewing existing position descriptions and conducting interviews to quantify the current workload performed by military, civilian, and contractor workforce;
+
+&emsp;"(3) compare the Department's manning with the manning of comparable industry organizations;
+
+&emsp;"(4) include evaluation of the utility of cyber- and information technology-focused missions, positions, and personnel within such components—
+
+&emsp;&emsp;"(A) to assess the effectiveness and efficiency of current activities;
+
+&emsp;&emsp;"(B) to assess the necessity of increasing, reducing, or eliminating resources; and
+
+&emsp;&emsp;"(C) to guide prioritization of investment and funding;
+
+&emsp;"(5) develop recommendations and objectives for organizational, manning, and equipping change, taking into account anticipated developments in information technologies, workload projections, automation and process enhancements, and Department requirements;
+
+&emsp;"(6) develop a gap analysis, contrasting the current organization and the objectives developed pursuant to paragraph (5); and
+
+&emsp;"(7) develop roadmaps of prioritized activities and a timeline for implementing the activities to close the gaps identified pursuant to paragraph (6).
+
+"(d)
+
+Elements.—In carrying out a review pursuant to subsection (a)(1), the head of a covered department, component, or agency shall consider the following:
+
+&emsp;"(1) Whether position descriptions and coding designators for given cybersecurity and information technology roles are accurate indicators of the work being performed.
+
+&emsp;"(2) Whether the function of any cybersecurity or information technology position or personnel can be replaced by acquisition of cybersecurity or information technology products or automation.
+
+&emsp;"(3) Whether a given component or subcomponent is over- or under-resourced in terms of personnel, using industry standards as a benchmark where applicable.
+
+&emsp;"(4) Whether cybersecurity service provider positions and personnel fit coherently into the enterprise-wide cybersecurity architecture and with the Department's cyber protection teams.
+
+&emsp;"(5) Whether the function of any cybersecurity or information technology position or personnel could be conducted more efficiently or effectively by enterprise-level cyber or information technology personnel.
+
+"(e)
+
+Furnishing Data and Analysis.—
+
+&emsp;"(1)
+
+Data and analysis.—In carrying out subsection (a)(2), each head of a covered department, component, or agency, shall furnish to the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary a description of the analysis that led to the findings submitted under such subsection and the data used in such analysis.
+
+&emsp;"(2)
+
+Certification.—The Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary of Defense shall jointly review each submittalunder subsection (a)(2) and certify whether the findings and analysis are in compliance with the requirements of this section.
+
+"(f)
+
+Recommendations.—After receiving findings submitted by a head of a covered department, component, or agency pursuant to paragraph (2) of subsection (a) with respect to a review conducted by the head pursuant to paragraph (1) of such subsection, the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary shall jointly provide to such head such recommendations as the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary may have for changes in manning or acquisition that proceed from such review.
+
+"(g)
+
+Implementation.—The Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary shall jointly oversee and assist in the implementation of the roadmaps developed pursuant to subsection (c)(7) and the recommendations developed pursuant to subsection (f).
+
+"(h)
+
+In-progress Reviews.—Not later than six months after the date of the enactment of this Act \[Dec. 20, 2019\] and not less frequently than once every six months thereafter until the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary give the briefing required by subsection (i), the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary shall jointly—
+
+&emsp;"(1) conduct in-progress reviews of the status of the reviews required by subsection (a)(1); and
+
+&emsp;"(2) provide the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] with a briefing on such in-progress reviews.
+
+"(i)
+
+Final Briefing.—After all of the reviews have been completed under paragraph (1) of subsection (a), after receiving all of the findings pursuant to paragraph (2) of such subsection, and not later than June 1, 2021, the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary shall jointly provide to the congressional defense committees a briefing on the findings of the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary with respect to such reviews, including such recommendations as the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary may have for changes to the budget of the Department as a result of such reviews.
+
+"(j)
+
+Definition of Zero-based Review.—In this section, the term 'zero-based review' means a review in which an assessment is conducted with each item, position, or person costed anew, rather than in relation to its size or status in any previous budget."
 
 #### Actions Pending Full Implementation of Plan for Cyber Mission Force Positions
 

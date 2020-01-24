@@ -41,10 +41,13 @@
 | [1060\.](%C2%A7%2001060%20-%20Military%20service%20of%20retired%20members%20with%20newly%20democratic%20nations%20consent%20of%20Congress.md) | Military service of retired members with newly democratic nations: consent of Congress. |
 | [1060a.](%C2%A7%2001060a%20-%20Special%20supplemental%20food%20program.md) | Special supplemental food program. |
 | [1060b.](%C2%A7%2001060b%20-%20Military%20ID%20cards%20dependents%20and%20survivors%20of%20retirees.md) | Military ID cards: dependents and survivors of retirees. |
+| [1060c.](%C2%A7%2001060c%20-%20Provision%20of%20veterinary%20services%20in%20emergencies.md) | Provision of veterinary services in emergencies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title VII, §735(b), Dec. 20, 2019, 133 Stat. 1463, added item 1060c.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title XII, §§1241(o)(4), 1243(b)(2), 1253(a)(2)(B), Dec. 23, 2016, 130 Stat. 2512, 2516, 2532, struck out items 1050 "Latin American cooperation: payment of personnel expenses", 1050a "African cooperation: payment of personnel expenses", 1051 "Multilateral, bilateral, or regional cooperation programs: payment of personnel expenses", 1051a "Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses", 1051b "Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance", and 1051c "Multilateral, bilateral, or regional cooperation programs: assignments to improve education and training in information security".
 
@@ -98,7 +101,7 @@ Pub. L. 102–25, title VII, §701(e)(8)(B), Apr. 6, 1991, 105 Stat. 115, struck
 
 Pub. L. 100–370, §1(c)(2)(B), July 19, 1988, 102 Stat. 841, struck out item 1052 "Period for use of commissary stores; eligibility attributable to active duty for training".
 
-<b>1987</b>—Pub. L. 100–26, §7(e)(1)(B), Apr. 21, 1987, 101 Stat. 281, added item 1032 and struck out second item 1051 "Disability and death compensation: dependents of members held as captives".
+<b>1987</b>—Pub. L. 100–26, §7(e)(1)(B), Apr. 21, 1987, 101 Stat. 281, added item 1032 and struck out second item 1051"Disability and death compensation: dependents of members held as captives".
 
 <b>1986</b>—Pub. L. 99–661, div. A, title VI, §§656(a)(2), 662(a)(2), title XIII, §§1322(b), 1356(a)(2), Nov. 14, 1986, 100 Stat. 3891, 3894, 3989, 3998, added item 1051 "Bilateral or regional cooperation programs: payment of personnel expenses" and items 1052 to 1054.
 
@@ -138,7 +141,7 @@ Pub. L. 114–328, div. A, title III, §347, Dec. 23, 2016, 130 Stat. 2086, prov
 
 "(a)
 
-In General.—In providing members of the Armed Forces with access to high-speed wireless Internet and network connections at military installationsoutside the United States, the Secretary of Defense may provide such access without charge to the members and their dependents.
+In General.—In providing members of the Armed Forces with access to high-speed wireless Internet and network connections at military installations outside the United States, the Secretary of Defense may provide such access without charge to the members and their dependents.
 
 "(b)
 
@@ -206,7 +209,7 @@ Records.—Not later than 90 days after the date of enactment of this Act, the S
 
 Rule of Construction.—Subsection (a) shall not be construed to limit the authority of the Secretary of Defense to—
 
-&emsp;"(1) create or maintain records relating to, or regulate the possession, carrying, or other use of a firearm, ammunition, or other weapon by a member of the Armed Forces or civilian employee of the Department of Defense while—
+&emsp;"(1) create or maintain records relating to, or regulate the possession, carrying, or other use of a firearm, ammunition, or other weapon by a member ofthe Armed Forces or civilian employee of the Department of Defense while—
 
 &emsp;&emsp;"(A) engaged in official duties on behalf of the Department of Defense; or
 
@@ -323,3 +326,4 @@ Contingency Operation Defined.—In this section, the term 'contingency operatio
 - [&sect; 01060 - Military service of retired members with newly democratic nations consent of Congress](%C2%A7%2001060%20-%20Military%20service%20of%20retired%20members%20with%20newly%20democratic%20nations%20consent%20of%20Congress.md)
 - [&sect; 01060a - Special supplemental food program](%C2%A7%2001060a%20-%20Special%20supplemental%20food%20program.md)
 - [&sect; 01060b - Military ID cards dependents and survivors of retirees](%C2%A7%2001060b%20-%20Military%20ID%20cards%20dependents%20and%20survivors%20of%20retirees.md)
+- [&sect; 01060c - Provision of veterinary services in emergencies](%C2%A7%2001060c%20-%20Provision%20of%20veterinary%20services%20in%20emergencies.md)

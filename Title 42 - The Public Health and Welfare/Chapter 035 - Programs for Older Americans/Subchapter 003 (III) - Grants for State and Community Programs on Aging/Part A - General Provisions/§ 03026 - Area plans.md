@@ -8,7 +8,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;(2) provide assurances that an adequate proportion, as required under section 3027(a)(2) of this title, of the amount allotted for part B to the planning and service area will be expended for the delivery of each of the following categories of services—
 
-&emsp;&emsp;(A) services associated with access to services (transportation, health services (including mental and behavioral health services), outreach, information and assistance (which may include information and assistance to consumers on availability of services under part B and how to receive benefits under and participate in publicly supported programs for which the consumer may be eligible), and case management services);
+&emsp;&emsp;(A) services associated with access to services (transportation, health services (including mental and behavioral health services), outreach, information and assistance (which may include information and assistance toconsumers on availability of services under part B and how to receive benefits under and participate in publicly supported programs for which the consumer may be eligible), and case management services);
 
 &emsp;&emsp;(B) in-home services, including supportive services for families of older individuals who are victims of Alzheimer's disease and related disorders with neurological and organic brain dysfunction); <sup>1</sup> and
 
@@ -82,7 +82,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;&emsp;(II) came into existence during fiscal year 1982 as direct successors in interest to such community action agencies or community action programs; and
 
-&emsp;&emsp;(iii) make use of trained volunteers in providing direct services delivered to older individuals and individuals with disabilities needing such services and, if possible, workin coordination with organizations that have experience in providing training, placement, and stipends for volunteers or participants (such as organizations carrying out Federal service programs administered by the Corporation for National and Community Service), in community service settings;
+&emsp;&emsp;(iii) make use of trained volunteers in providing direct services delivered to older individuals and individuals with disabilities needing such services and, if possible, work in coordination with organizations that have experience in providing training, placement, and stipends for volunteers or participants (such as organizations carrying out Federal service programs administered by the Corporation for National and Community Service), in community service settings;
 
 > &emsp;&emsp;and that meet the requirements under section 9910 of this title;
 
@@ -136,7 +136,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;&emsp;(iv) is located in a rural area and obtains a waiver of the requirements described in clauses (i) through (iii);
 
-&emsp;(9) provide assurances that the area agency on aging, in carrying out the State Long-TermCare Ombudsman program under section 3027(a)(9) of this title, will expend not less than the total amount of funds appropriated under this chapter and expended by the agency in fiscal year 2000 in carrying out such a program under this subchapter;
+&emsp;(9) provide assurances that the area agency on aging, in carrying out the State Long-Term Care Ombudsman program under section 3027(a)(9) of this title, will expend not less than the total amount of funds appropriated under this chapter and expended by the agency in fiscal year 2000 in carrying out such a program under this subchapter;
 
 &emsp;(10) provide a grievance procedure for older individuals who are dissatisfied with or denied services under this subchapter;
 
@@ -180,7 +180,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 #### (b) Assessment of preparation of area agencies
 
-(1) An area agency on aging may include in the area plan an assessment of how prepared the area agency on aging and service providers in the planning and service area are for any anticipated change in the number of older individuals during the 10-year period following the fiscal year for which the plan is submitted.
+(1) An area agency on aging may include in the area plan an assessment of how prepared thearea agency on aging and service providers in the planning and service area are for any anticipated change in the number of older individuals during the 10-year period following the fiscal year for which the plan is submitted.
 
 (2) Such assessment may include—
 
@@ -250,7 +250,7 @@ An area agency on aging may not require any provider of legal assistance under t
 
 (B) If the State agency determines that the area agency on aging has not taken corrective action, or if the State agency does not approve the corrective action, during the 180-day period described in subparagraph (A), the State agency may extend the period for not more than 90 days.
 
-(Pub. L. 89–73, title III, §306, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1522; amended Pub. L. 97–115, §§3(d), 6, Dec. 29, 1981, 95 Stat. 1597, 1598; Pub. L. 98–459, title III, §306, Oct. 9, 1984, 98 Stat. 1774; Pub. L. 100–175, title I, §§104(c), 125–127, 130(a), 131(a), 132(b), 133, 134(a)(2), (b), 135, 136(b), 137(a), 140(b), 141(b), 143(b), 144(c), 155(e)(1), 182(e)(3), (i), (j), Nov. 29, 1987, 101 Stat. 930, 934, 938–944, 946, 947, 949, 952, 965; Pub. L. 100–628, title VII, §705(5), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), (10)(C), (E), title III, §306, title IX, §904(a)(12), Sept. 30, 1992, 106 Stat. 1201, 1202, 1223, 1307; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 105–285, title II, §202(a), Oct. 27, 1998, 112 Stat. 2755; Pub. L. 106–501, title III, §305, Nov. 13, 2000, 114 Stat. 2240; Pub. L. 109–365, title III, §306, Oct. 17, 2006, 120 Stat. 2540; Pub. L. 114–144, §§4(d), 9(4), Apr. 19, 2016, 130 Stat. 338, 352.)
+(Pub. L. 89–73, title III, §306, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1522; amended Pub. L. 97–115, §§3(d), 6, Dec. 29, 1981, 95 Stat. 1597, 1598; Pub. L. 98–459, title III, §306, Oct. 9, 1984, 98 Stat. 1774; Pub. L. 100–175, title I, §§104(c), 125–127, 130(a), 131(a), 132(b), 133, 134(a)(2), (b), 135, 136(b), 137(a), 140(b), 141(b), 143(b), 144(c), 155(e)(1), 182(e)(3), (i), (j), Nov. 29, 1987, 101 Stat. 930, 934, 938–944, 946, 947, 949, 952, 965; Pub. L. 100–628, title VII, §705(5), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4),\(10)(C), (E), title III, §306, title IX, §904(a)(12), Sept. 30, 1992, 106 Stat. 1201, 1202, 1223, 1307; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 105–285, title II, §202(a), Oct. 27, 1998, 112 Stat. 2755; Pub. L. 106–501, title III, §305, Nov. 13, 2000, 114 Stat. 2240; Pub. L. 109–365, title III, §306, Oct. 17, 2006, 120 Stat. 2540; Pub. L. 114–144, §§4(d), 9(4), Apr. 19, 2016, 130 Stat. 338, 352.)
 
 #### References in Text
 
@@ -262,7 +262,7 @@ The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112,
 
 #### Prior Provisions
 
-A prior section 3026, Pub. L. 89–73, title III, §306, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat.43; amended Pub. L. 94–135, title I, §107, Nov. 28, 1975, 89 Stat. 716, related to the planning, coordination, evaluation, and administration of State plans, prior to the general amendment of this subchapter by Pub. L. 95–478. See section 3028 of this title.
+A prior section 3026, Pub. L. 89–73, title III, §306, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 43; amended Pub. L. 94–135, title I, §107, Nov. 28, 1975, 89 Stat. 716, related to the planning, coordination, evaluation, and administration of State plans, prior to the general amendment of this subchapter by Pub. L. 95–478. See section 3028 of this title.
 
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §304, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 38; amended Pub. L. 94–135, title I, §§105, 106(c), Nov. 28, 1975, 89 Stat. 715, 716, which was classified to section 3024 of this title prior to repeal by Pub. L. 95–478.
 
@@ -374,7 +374,7 @@ Subsec. (a)(6)(M), (N). Pub. L. 106–501, §305(a)(10)(B), redesignated subpars
 
 Subsec. (a)(6)(O) to (S). Pub. L. 106–501, §305(a)(10)(A), struck out subpars. (O) to (S) which provided that each area plan provide that the area agency on aging would: in subpar. (O), compile information on institutions of higher education in planning and service area, in subpar. (P), establish grievance procedure for older individuals dissatisfied with or denied services under this subchapter, in subpar. (Q), enter into voluntary arrangements with nonprofit entities that provide housing to older individuals, in subpar. (R), list telephone number of agency in each telephone directory published by provider of local telephone service, for residents in any geographical area that lay in whole or in part in service and planning area served by agency, and, in subpar. (S), identify needs of older individuals and describe methods area agency on aging would use to coordinate planning and delivery of transportation services to assist older individuals, including those with special needs.
 
-Subsec. (a)(7) to (12). Pub. L. 106–501, §305(a)(11), added pars. (7) to (12) and struck out former pars. (7) to (12) which required each area plan: in pars. (7) to (10): to provide assurances that any amount received under parts D to G of this subchapter would be expended in accordance with such parts, in par. (11) to provide assurances that the area agency on aging, in carrying out the State Long-Term Care Ombudsman program under section 3027(a)(12) of this title, would expend not less than the amount of funds expended in fiscal year 1991, and, in par. (12), to provide an area volunteer services coordinator in the discretion of the area agency on aging.
+Subsec. (a)(7) to (12). Pub. L. 106–501, §305(a)(11), added pars. (7) to (12) and struck out former pars. (7) to (12) which required each area plan: in pars. (7) to (10): to provide assurances that any amount received underparts D to G of this subchapter would be expended in accordance with such parts, in par. (11) to provide assurances that the area agency on aging, in carrying out the State Long-Term Care Ombudsman program under section 3027(a)(12) of this title, would expend not less than the amount of funds expended in fiscal year 1991, and, in par. (12), to provide an area volunteer services coordinator in the discretion of the area agency on aging.
 
 Subsec. (a)(13). Pub. L. 106–501, §305(a)(11), (12), redesignated par. (14) as (13) and struck out former par. (13) which read as follows:
 
@@ -390,7 +390,7 @@ Subsec. (a)(14). Pub. L. 106–501, §305(a)(13), added par. (14). Former par. (
 
 Subsec. (a)(15). Pub. L. 106–501, §305(a)(13), added par. (15) relating to assurances that preference in receiving services under this subchapter would not be given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship not being carried out to implement this subchapter.
 
-Subsec. (a)(17) to (20). Pub. L. 106–501, §305(a)(14), struck out pars. (17) to (20) which required each area plan to provide: in par. (17), assurances that projects in the planning and service area would reasonably accommodate particular dietary needs of participants, in par. (18), assurances that the area agency on aging would coordinate its services under this subchapter with services provided under subchapter X of this chapter, in par. (19), assurance that the area agency on aging would pursue activities to increase access by older individuals who are Native Americans to all aging programs and benefits provided by the agency, and, in par.\(20), that case management services provided under this subchapter through the area agency on aging would be coordinated with and not duplicate other Federal and State programs and would be provided by a public agency or a nonprofit private agency either not providing services other than case management services or located in a rural area and having obtained a waiver of that requirement.
+Subsec. (a)(17) to (20). Pub. L. 106–501, §305(a)(14), struck out pars. (17) to (20) which required each area plan to provide: in par. (17), assurances that projects in the planning and service area would reasonably accommodate particular dietary needs of participants, in par. (18), assurances that the area agency on aging would coordinate its services under this subchapter with services provided under subchapter X of this chapter, in par. (19), assurance that the area agency on aging would pursue activities to increase access by older individuals who are Native Americans to all aging programs and benefits provided by the agency, and, in par. (20), that case management services provided under this subchapter through the area agency on aging would be coordinated with and not duplicate other Federal and State programs and would be provided by a public agency or a nonprofit private agency either not providing services other than case management services or located in a rural area and having obtained a waiver of that requirement.
 
 Subsec. (b). Pub. L. 106–501, §305(b), struck out par. (1) designation before "Each State", inserted "and had conducted a timely public hearing upon request" before period at end, and struck out par. (2) which related to public notice and hearing requirements applicable to an area agency on aging before it could request a waiver of the requirement described in subsec. (a)(2) and requirements of a State agency with regard to granting the waiver to an area agency on aging.
 
@@ -474,7 +474,7 @@ Subsec. (e). Pub. L. 102–375, §306(g), added subsec. (e).
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–628 substituted "such area," for "such area,," before "and the number of older Indians".
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–175, §182(e)(3), struck out last sentence which read as follows: "For purposesof clause (5)(A), the term 'greatest economic need' means the need resulting from an income level at or below the poverty threshold established by the Bureau of the Census and the term 'greatest social need' means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, cultural or social isolation including that caused by racial or ethnic status which restricts an individual's ability to perform normal daily tasks or which threaten his or her capacity to live independently."
+<b>1987</b>—Subsec. (a). Pub. L. 100–175, §182(e)(3), struck out last sentence which read as follows: "For purposes of clause (5)(A), the term 'greatest economic need' means the need resulting from an income level at or below the poverty threshold established by the Bureau of the Census and the term 'greatest social need' means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, cultural or social isolation including that caused by racial or ethnic status which restricts an individual's ability to perform normal daily tasks or which threaten his or her capacity to live independently."
 
 Subsec. (a)(1). Pub. L. 100–175, §134(a)(2), inserted ", and the number of older Indians residing in such area," before last reference to "and" in parenthetical.
 
@@ -552,7 +552,7 @@ Subsec. (b). Pub. L. 97–115, §6(c), struck out par. (1) providing that each S
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 306 of Pub. L. 102–375 inapplicable with respect to fiscal year 1993, see section 4(b)of Pub. L. 103–171, set out as a note under section 3001 of this title.
+Amendment by section 306 of Pub. L. 102–375 inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as a note under section 3001 of this title.
 
 Amendment by section 306 of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section 905(b)(2) of Pub. L. 102–375, set out as a note under section 3001 of this title.
 

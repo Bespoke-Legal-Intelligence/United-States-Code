@@ -6,7 +6,7 @@ Subject to the provisions of section 2435(c) of this title, the President may by
 
 #### (b) Limitation on period of effectiveness
 
-The application of nondiscriminatory treatment shall be limited to the period of effectiveness of the obligations of the United States to such country under such bilateral commercialagreement. In addition, in the case of any foreign country receiving nondiscriminatory treatment pursuant to this subchapter which has entered into an agreement with the United States regarding the settlement of lendlease reciprocal aid and claims, the application of such nondiscriminatory treatment shall be limited to periods during which such country is not in arrears on its obligations under such agreement.
+The application of nondiscriminatory treatment shall be limited to the period of effectiveness of the obligations of the United States to such country under such bilateral commercial agreement. In addition, in the case of any foreign country receiving nondiscriminatory treatment pursuant to this subchapter which has entered into an agreement with the United States regarding the settlement of lendlease reciprocal aid and claims, the application of such nondiscriminatory treatment shall be limited to periods during which such country is not in arrears on its obligations under such agreement.
 
 #### (c) Suspension or withdrawal of extensions of nondiscriminatory treatment
 
@@ -98,7 +98,7 @@ Plan for action by trade representative.—
 
 &emsp;&emsp;"(A)
 
-In general.—If, in preparing a report required by paragraph (1), the Trade Representative believes that the Russian Federation is not fully implementing an agreement specified in subparagraph (A) or (B) of that paragraph or that the Russian Federation is not making adequate progress in acceding to an agreement specified in subparagraph\(B) of that paragraph, the Trade Representative shall, except as provided in subparagraph (B) of this paragraph, include in the report a description of the actions the Trade Representative plans to take to encourage the Russian Federation to improve its implementation of the agreement or increase its progress in acceding to the agreement, as the case may be.
+In general.—If, in preparing a report required by paragraph (1), the Trade Representative believes that the Russian Federation is not fully implementing an agreement specified in subparagraph (A) or (B) of that paragraph or that the Russian Federation is not making adequate progress in acceding to an agreement specified in subparagraph (B) of that paragraph, the Trade Representative shall, except as provided in subparagraph (B) of this paragraph, include in the report a description of the actions the Trade Representative plans to take to encourage the Russian Federation to improve its implementation of the agreement or increase its progress in acceding to the agreement, as the case may be.
 
 &emsp;&emsp;"(B)
 
@@ -224,7 +224,7 @@ Pub. L. 109–205, Mar. 23, 2006, 120 Stat. 313, provided that:
 
 "Congress finds as follows:
 
-&emsp;"(1) Ukraine allows its citizens the right and opportunity to emigrate, free of any heavy tax on emigration or on the visas or other documents required for emigration and free of any tax, levy, fine, fee, or other charge on any citizens as a consequence of the desire of such citizens to emigrate to the country of their choice.
+&emsp;"(1) Ukraine allows its citizens the right and opportunity to emigrate, free of any heavy tax on emigration or on the visas or other documents required foremigration and free of any tax, levy, fine, fee, or other charge on any citizens as a consequence of the desire of such citizens to emigrate to the country of their choice.
 
 &emsp;"(2) Ukraine has received normal trade relations treatment since 1992 and has been found to be in full compliance with the freedom of emigration requirements under title IV of the Trade Act of 1974 \[19 U.S.C. 2431 et seq.\] since 1997.
 
@@ -612,7 +612,7 @@ Preparatory Presidential Action.—The Congress notes that the President in anti
 
 "(a)
 
-Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding any provision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
+Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding anyprovision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
 
 &emsp;"(1) determine that such title should no longer apply to the Czech and Slovak Federal Republic or to the Republic of Hungary, or to both; and
 
@@ -718,7 +718,27 @@ Pub. L. 101–541, Nov. 8, 1990, 104 Stat. 2380, provided: "That the Congress ap
 
 #### Authority of President To Deny and To Restore Nondiscriminatory Trade Treatment to Products of Afghanistan or To Deny or To Restore Credits, etc., to Afghanistan
 
-Pub. L. 99–190, §118, Dec. 19, 1985, 99 Stat. 1319, authorized President to deny nondiscriminatory (most-favored-nation) trade treatment to the products of Afghanistan and to deny credit, credit guarantees, and investment guarantees to, or for the benefit of, Afghanistan under any Federal program, directed President, if such treatment was not denied, to submit to Congress, 45 days after Dec. 19, 1985, a report with the reasons for not denying such treatment, and authorized President, if such treatment was denied to restore nondiscriminatory trade treatment, and to extend credit, credit guarantees, and investment guarantees. Similar provisions were contained in Pub. L. 99–190, §101(i) \[title V, §552\], Dec. 19, 1985, 99 Stat. 1291, 1314.
+Pub. L. 99–190, §118, Dec. 19, 1985, 99 Stat. 1319, provided that:
+
+"(a) Notwithstanding any other provision of law, the President is authorized—
+
+&emsp;"(1) to deny nondiscriminatory (most-favored-nation) trade treatment to the products of Afghanistan and thereby cause such products to be subject to the rate of duty set forth in column number 2 of the Tariff Schedules of the United States, and
+
+&emsp;"(2) to deny credit, credit guarantees, and investment guarantees to, or for the benefit of, Afghanistan under any Federal program.
+
+"(b) If the President has not denied nondiscriminatory trade treatment to the products of Afghanistan before the date that is 45 days after the date of enactment of this joint resolution \[Dec. 19, 1985\], the President shall submit to the Congress on such date a report which states the reasons why the President has not denied such treatment.
+
+"(c) Notwithstanding any other provision of law, if the President takes any action under subsection (a), the President is authorized to—
+
+&emsp;"(1) restore nondiscriminatory trade treatment to the products of Afghanistan, and
+
+&emsp;"(2) extend credit, credit guarantees, and investment guarantees to, or for the benefit of, Afghanistan under any Federal program. \[sic\]
+
+> only if the President provides written notice of such restoration or extension to the Congress at least 30 days prior to the date on which such restoration or extension takes effect.
+
+"(d) For purposes of this joint resolution, the term 'product of Afghanistan' means any article which is grown, produced, or manufactured (in whole or in part) in Afghanistan."
+
+Similar provisions were contained in Pub. L. 99–190, §101(i) \[title V, §552\], Dec. 19, 1985, 99 Stat. 1291, 1314.
 
 #### Extension of Nondiscriminatory Treatment to Products of Socialist Republic of Romania
 

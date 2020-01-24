@@ -20,7 +20,7 @@ Inspections and Investigations.—
 
 In general.—A designated officer, employee, or agent of the Secretary—
 
-&emsp;&emsp;(A) may inspect and investigate, at a reasonable time and in a reasonable manner, records and property relating to a function described in section 5103(b)(1);
+&emsp;&emsp;(A) may inspect and investigate, at a reasonable time and in a reasonable manner,records and property relating to a function described in section 5103(b)(1);
 
 &emsp;&emsp;(B) except in the case of packaging immediately adjacent to its hazardous material contents, may gain access to, open, and examine a package offered for, or in, transportation when the officer, employee, or agent has an objectively reasonable and articulable belief that the package may contain a hazardous material;
 
@@ -62,7 +62,7 @@ Emergency Orders.—
 
 &emsp;(1)
 
-In general.—If, upon inspection, investigation, testing, or research, the Secretary determines that a violation of a provision of this chapter, or a regulation prescribed underthis chapter, or an unsafe condition or practice, constitutes or is causing an imminent hazard, the Secretary may issue or impose emergency restrictions, prohibitions, recalls, or out-of-service orders, without notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.
+In general.—If, upon inspection, investigation, testing, or research, the Secretary determines that a violation of a provision of this chapter, or a regulation prescribed under this chapter, or an unsafe condition or practice, constitutes or is causing an imminent hazard, the Secretary may issue or impose emergency restrictions, prohibitions, recalls, or out-of-service orders, without notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.
 
 &emsp;(2)
 
@@ -204,7 +204,7 @@ In subsection (e), before clause (1), the words "prepare and" and "comprehensive
 
 #### References in Text
 
-The date of enactment of the Hazardous Materials Transportation Safety and Security Reauthorization Act of 2005, referred to in subsec. (e), is the date of enactment of title VII of Pub. L. 109–59, which was approved Aug. 10, 2005.
+The date of enactment of the Hazardous Materials Transportation Safety and Security ReauthorizationAct of 2005, referred to in subsec. (e), is the date of enactment of title VII of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
 
@@ -258,7 +258,7 @@ Subsec. (e). Pub. L. 103–311, §108, substituted "Report" for "Annual Report" 
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

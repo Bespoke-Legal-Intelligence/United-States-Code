@@ -108,7 +108,7 @@ Subsec. (j). Pub. L. 105–178, §1202(a)(7), added subsec. (j) and struck out h
 
 Subsec. (b). Pub. L. 97–424 redesignated as par. (1) that portion of former subsec. (a) relating to bicycles and added pars. (2) and (3). Provisions of former subsec. (b) relating to pedestrian walkways and bicycles projects were redesignated (c) and (d), respectively.
 
-Subsec. (c). Pub. L. 97–424 redesignated as subsec. (c) that portion of former subsec. (b) relating to pedestrian walkways. Provisions of former subsec. (c) relating to pedestrian walkways and to bicycle routes were redesignated (e) and (f), respectively.
+Subsec. (c). Pub. L. 97–424 redesignated as subsec. (c) that portion of former subsec. (b) relating to pedestrianwalkways. Provisions of former subsec. (c) relating to pedestrian walkways and to bicycle routes were redesignated (e) and (f), respectively.
 
 Subsec. (d). Pub. L. 97–424 redesignated as subsec. (d) that portion of former subsec. (b) relating to bicycle projects. Former subsec. (d) redesignated (g).
 

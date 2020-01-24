@@ -6,7 +6,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;(1) Renewable resource management research shall include, as appropriate, research activities related to managing, reproducing, planting, and growing vegetation on forests and rangelands for timber, forage, water, fish and wildlife, esthetics, recreation, wilderness, energy production, activities related to energy conservation, and other purposes, including activities for encouraging improved reforestation of forest lands from which timber has been harvested; determining the role of forest and rangeland management in the productive use of forests and rangelands, in diversified agriculture, and in mining, transportation, and other industries; and developing alternatives for the management of forests and rangelands that will make possible the most effective use of their multiple products and services.
 
-&emsp;(2) Renewable resource environmental research shall include, as appropriate, research activities related to understanding and managing surface and subsurface water flow, preventing and controlling erosion, and restoring damaged or disturbed soils on forest and rangeland watersheds; maintaining and improving wildlife and fish habitats; managing vegetation to reduce air and water pollution, provide amenities, and for other purposes; and understanding, predicting, and modifying weather, climatic, and other environmental conditions that affect the protection and management of forests and rangelands.
+&emsp;(2) Renewable resource environmental research shall include, as appropriate, research activities related to understanding and managing surface and subsurface water flow, preventing and controlling erosion, and restoringdamaged or disturbed soils on forest and rangeland watersheds; maintaining and improving wildlife and fish habitats; managing vegetation to reduce air and water pollution, provide amenities, and for other purposes; and understanding, predicting, and modifying weather, climatic, and other environmental conditions that affect the protection and management of forests and rangelands.
 
 &emsp;(3) Renewable resource protection research shall include, as appropriate, research activities related to protecting vegetation and other forest and rangeland resources, including threatened and endangered flora and fauna, as well as wood and wood products in storage or use, from fires, insects, diseases, noxious plants, animals, air pollutants, and other agents through biological, chemical, and mechanical control methods and systems; and protecting people, natural resources, and property from fires in rural areas.
 
@@ -252,7 +252,7 @@ Program.—The Secretary shall establish a program at the Center and seek the pa
 
 &emsp;"(2) adapt, demonstrate, document, and model the effectiveness of agroforestry systems under different farming systems and soil or climate conditions;
 
-&emsp;"(3) develop dual use agroforestry systems compatible with paragraphs (1) and (2) which would providehigh-value forestry products for commercial sale from semiarid land;
+&emsp;"(3) develop dual use agroforestry systems compatible with paragraphs (1) and (2) which would provide high-value forestry products for commercial sale from semiarid land;
 
 &emsp;"(4) develop and improve the drought and pest resistance characteristics of trees for conservation forestry and agroforestry applications in semiarid regions, including the introduction and breeding of trees suited for the Great Plains region of the United States;
 

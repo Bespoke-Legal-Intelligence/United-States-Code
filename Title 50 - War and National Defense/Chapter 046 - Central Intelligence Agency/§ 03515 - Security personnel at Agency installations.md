@@ -2,15 +2,15 @@
 
 #### (a) Special policemen: functions and powers; regulations: promulgation and enforcement
 
-(1) The Director may authorize Agency personnel within the United States to perform the same functions as officers and agents of the Department of Homeland Security, as provided in section 1315(b)(2) of title 40, with the powers set forth in that section, except that such personnel shall perform such functions and exercise such powers—
+(1) The Director may authorize Agency personnel within the United States to perform thesame functions as officers and agents of the Department of Homeland Security, as provided in section 1315(b)(2) of title 40, with the powers set forth in that section, except that such personnel shall perform such functions and exercise such powers—
 
 &emsp;(A) within the Agency Headquarters Compound and the property controlled and occupied by the Federal Highway Administration located immediately adjacent to such Compound;
 
-&emsp;(B) in the streets, sidewalks, and the open areas within the zone beginning at the outside boundary of such Compound and property and extending outward 500 feet;
+&emsp;(B) in the streets, sidewalks, and the open areas within the zone beginning at the outside boundary of such Compound and property and extending outward 500 yards;
 
 &emsp;(C) within any other Agency installation and protected property; and
 
-&emsp;(D) in the streets, sidewalks, and open areas within the zone beginning at the outside boundary of any installation or property referred to in subparagraph (C) and extending outward 500 feet.
+&emsp;(D) in the streets, sidewalks, and open areas within the zone beginning at the outside boundary of any installation or property referred to in subparagraph (C) and extending outward 500 yards.
 
 (2) The performance of functions and exercise of powers under subparagraph (B) or (D) of paragraph (1) shall be limited to those circumstances where such personnel can identify specific and articulable facts giving such personnel reason to believe that the performance of such functions and exercise of such powers is reasonable to protect against physical damage or injury, or threats of physical damage or injury, to Agency installations, property, or employees.
 
@@ -24,7 +24,7 @@ The Director is authorized to establish penalties for violations of the rules or
 
 #### (c) Identification
 
-Agency personnel designated by the Director under subsection (a) of this section shall be clearly identifiable as United States Government security personnel while engaged in theperformance of the functions to which subsection (a) of this section refers.
+Agency personnel designated by the Director under subsection (a) of this section shall be clearly identifiable as United States Government security personnel while engaged in the performance of the functions to which subsection (a) of this section refers.
 
 #### (d) Protection of certain CIA personnel from tort liability
 
@@ -40,7 +40,7 @@ Agency personnel designated by the Director under subsection (a) of this section
 
 (3) In this subsection, the term "crime of violence" has the meaning given that term in section 16 of title 18.
 
-(June 20, 1949, ch. 227, §15, as added Pub. L. 98–473, title I, §140, Oct. 12, 1984, 98 Stat. 1973, and Pub. L. 98–618, title IV, §401, Nov. 8, 1984, 98 Stat. 3301; amended Pub. L. 105–107, title IV, §404, Nov. 20, 1997, 111 Stat. 2260; Pub. L. 107–306, title VIII, §841(d), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title III, §377(b)(3), title IV, §402, Dec. 13, 2003, 117 Stat. 2630, 2631.)
+(June 20, 1949, ch. 227, §15, as added Pub. L. 98–473, title I, §140, Oct. 12, 1984, 98 Stat. 1973, and Pub. L. 98–618, title IV, §401, Nov. 8, 1984, 98 Stat. 3301; amended Pub. L. 105–107, title IV, §404, Nov. 20, 1997, 111 Stat. 2260; Pub. L. 107–306, title VIII, §841(d), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title III, §377(b)(3), title IV, §402, Dec. 13, 2003, 117 Stat. 2630, 2631; Pub. L. 116–92, div. E, title LXIV, §6413, Dec. 20, 2019, 133 Stat. 2198.)
 
 #### Codification
 
@@ -50,6 +50,10 @@ Pub. L. 98–473, title I, §140 and Pub. L. 98–618, title IV, §401, added su
 
 #### Amendments
 
+<b>2019</b>—Subsec. (a)(1)(B). Pub. L. 116–92, §6413(1), substituted "500 yards;" for "500 feet;".
+
+Subsec. (a)(1)(D). Pub. L. 116–92, §6413(2), substituted "500 yards." for "500 feet.".
+
 <b>2003</b>—Subsec. (a)(1). Pub. L. 108–177, §377(b)(3)(A), substituted "officers and agents of the Department of Homeland Security, as provided in section 1315(b)(2) of title 40," for "special policemen of the General Services Administration perform under the first section of the Act entitled 'An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policeman for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes' (40 U.S.C. 318),".
 
 Subsec. (b). Pub. L. 108–177, §377(b)(3)(B), substituted "section 1315(c)(2) of title 40" for "the fourth section of the Act referred to in subsection (a) of this section (40 U.S.C. 318c)".
@@ -58,7 +62,7 @@ Subsec. (d). Pub. L. 108–177, §402, added subsec. (d).
 
 <b>2002</b>—Subsec. (a)(5). Pub. L. 107–306 struck out par. (5) which read as follows: "Not later than December 1, 1998, and annually thereafter, the Director shall submit a report to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate that describes in detail the exercise of the authority granted by this subsection, and the underlying facts supporting the exercise of such authority, during the preceding fiscal year. The Director shall make such report available to the Inspector General of the Central Intelligence Agency."
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–107, §404(1), (2), inserted "(1)" after "(a)", substituted "powers—" for "powers only within Agency installations, and the rules and regulations enforced by such personnel shall be rules and regulations promulgated by the Director.", and added subpars. (A) to (D).
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–107, §404(1), (2), inserted "(1)" after "(a)", substituted "powers—" for"powers only within Agency installations, and the rules and regulations enforced by such personnel shall be rules and regulations promulgated by the Director.", and added subpars. (A) to (D).
 
 Subsec. (a)(2) to (5). Pub. L. 105–107, §404(3), added pars. (2) to (5).
 

@@ -54,7 +54,7 @@ Extension of deadline.—The Administrator may extend the deadline established b
 
 &emsp;(3)
 
-Collision avoidance equipment defined.—In this subsection, the term "collision avoidance equipment" means equipment thatprovides protection from mid-air collisions using technology that provides—
+Collision avoidance equipment defined.—In this subsection, the term "collision avoidance equipment" means equipment that provides protection from mid-air collisions using technology that provides—
 
 &emsp;&emsp;(A) cockpit-based collision detection and conflict resolution guidance, including display of traffic; and
 

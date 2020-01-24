@@ -90,7 +90,7 @@ An individual or entity shall not be deemed ineligible under subsection (g) beca
 
 &emsp;Participants shall be required to obtain liability insurance or demonstrate financial responsibility, in amounts determined by the head of an agency, for claims by—
 
-&emsp;&emsp;(A) a third party for death, bodily injury, or property damage, or loss resulting froman activity carried out in connection with participation in a prize competition, with the Federal Government named as an additional insured under the registered participant's insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to prize competition activities; and
+&emsp;&emsp;(A) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a prize competition, with the Federal Government named as an additional insured under the registered participant's insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to prize competition activities; and
 
 &emsp;&emsp;(B) the Federal Government for damage or loss to Government property resulting from such an activity.
 
@@ -148,7 +148,7 @@ The head of an agency may enter into a grant, contract, cooperative agreement, o
 
 #### (1) In general
 
-&emsp;Support for a prize competition under this section, including financial support for the design and administration of a prize competition or funds for a cash prize purse, may consist of Federal appropriated funds and funds provided by private sector for-profit and nonprofit entities. The head of an agency may request and accept funds from other Federal agencies, State, United States territory, local, or tribal government agencies, private sector for-profit entities, and nonprofit entities, to be available to the extent provided by appropriations Acts, to support such prize competitions. The head of an agency may not give any special consideration to any agency or entity in return for a donation.
+&emsp;Support for a prize competition under this section, including financial support for the design and administration of a prize competition or funds for a cash prize purse, may consist of Federal appropriated funds and funds provided by private sector for-profit and nonprofit entities. The head of an agency may request andaccept funds from other Federal agencies, State, United States territory, local, or tribal government agencies, private sector for-profit entities, and nonprofit entities, to be available to the extent provided by appropriations Acts, to support such prize competitions. The head of an agency may not give any special consideration to any agency or entity in return for a donation.
 
 #### (2) Availability of funds
 
@@ -172,7 +172,7 @@ The head of an agency may enter into a grant, contract, cooperative agreement, o
 
 #### (A) Notice to Congress
 
-&emsp;&emsp;No prize competition under this section may offer a cash prize purse or a non-cashprize award in an amount greater than $50,000,000 unless 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+&emsp;&emsp;No prize competition under this section may offer a cash prize purse or a non-cash prize award in an amount greater than $50,000,000 unless 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
 #### (B) Approval of head of agency
 
@@ -220,7 +220,7 @@ Not later than 180 days after January 6, 2017, the General Services Administrati
 
 #### (E) Resources
 
-&emsp;&emsp;A description of the resources, including personnel and funding, used in the execution of each prize competition together with a detailed description of the activities for which such resources were used and an accounting of how funding for execution was allocated among the accounts of the agency for recording as obligations and expenditures.
+&emsp;&emsp;A description of the resources, including personnel and funding, used in the executionof each prize competition together with a detailed description of the activities for which such resources were used and an accounting of how funding for execution was allocated among the accounts of the agency for recording as obligations and expenditures.
 
 #### (F) Results
 

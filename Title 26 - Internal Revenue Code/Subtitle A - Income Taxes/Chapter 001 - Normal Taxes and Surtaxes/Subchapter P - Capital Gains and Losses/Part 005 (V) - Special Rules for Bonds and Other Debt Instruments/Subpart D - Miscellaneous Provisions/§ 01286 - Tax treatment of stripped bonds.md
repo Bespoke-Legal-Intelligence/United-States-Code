@@ -178,7 +178,7 @@ Pub. L. 100–647, title I, §1018(q)(4)(B), Nov. 10, 1988, 102 Stat. 3586, prov
 
 Amendment by section 1803(a)(13)(B) of Pub. L. 99–514 applicable to obligations acquired after Oct. 22, 1986, see section 1803(a)(13)(C) of Pub. L. 99–514, set out as a note under section 1276 of this title.
 
-Pub. L. 99–514, title XVIII, §1879(s)(2), Oct. 22, 1986, 100 Stat. 2913, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to any purchase or sale of any stripped tax-exempt obligation or stripped coupon from such an obligation after the date of the enactment of this Act \[Oct. 22, 1986\]."
+Pub. L. 99–514, title XVIII, §1879(s)(2), Oct. 22, 1986, 100 Stat. 2913, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to any purchase or sale of any stripped tax-exempt obligation or stripped coupon from such an obligation after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
 #### Effective Date
 

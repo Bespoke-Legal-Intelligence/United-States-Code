@@ -22,7 +22,7 @@ Compliance with the control and eradication measures of any State or political s
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1), was in the original "this title", meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4701 of this title and Tables.
+This chapter, referred to in subsec. (b)(1), was in the original "this title", meaning title I of Pub. L. 101–646,Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
 #### Amendments
 

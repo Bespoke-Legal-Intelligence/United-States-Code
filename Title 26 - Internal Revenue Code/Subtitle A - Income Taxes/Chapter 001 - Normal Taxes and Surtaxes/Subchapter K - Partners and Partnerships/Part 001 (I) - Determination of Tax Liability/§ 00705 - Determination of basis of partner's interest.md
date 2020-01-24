@@ -16,7 +16,7 @@ The adjusted basis of a partner's interest in a partnership shall, except as pro
 
 &emsp;&emsp;(A) losses of the partnership, and
 
-&emsp;&emsp;(B) expenditures of the partnership not deductible in computing its taxable income and not properly chargeable to capital account; and
+&emsp;&emsp;(B) expenditures of the partnership not deductible in computing its taxable incomeand not properly chargeable to capital account; and
 
 &emsp;(3) decreased (but not below zero) by the amount of the partner's deduction for depletion for any partnership oil and gas property to the extent such deduction does not exceed the proportionate share of the adjusted basis of such property allocated to such partner under section 613A(c)(7)(D).
 

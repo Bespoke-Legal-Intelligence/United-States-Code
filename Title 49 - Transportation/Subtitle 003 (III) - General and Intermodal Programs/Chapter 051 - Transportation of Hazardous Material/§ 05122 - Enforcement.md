@@ -6,7 +6,7 @@ General.—At the request of the Secretary, the Attorney General may bring a civ
 
 (b)
 
-Imminent Hazards.—(1) If the Secretary has reason to believe that an imminent hazard exists, the Secretary may bring a civil action inan appropriate district court of the United States—
+Imminent Hazards.—(1) If the Secretary has reason to believe that an imminent hazard exists, the Secretary may bring a civil action in an appropriate district court of the United States—
 
 &emsp;(A) to suspend or restrict the transportation of the hazardous material responsible for the hazard; or
 

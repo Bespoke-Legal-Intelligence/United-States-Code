@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) the balance of the reserve at the close of the base year, or
 
-&emsp;&emsp;&emsp;(ii) if the amount of loans outstanding at the close of the taxable year is less than the amount of loans outstanding at the close of the base year, the amount which bears the same ratio to loans outstanding at the close of the taxable year as the balance of the reserve at the close of the base year bears to the amount of loans outstanding at the close of the base year.
+&emsp;&emsp;&emsp;(ii) if the amount of loans outstanding at the close of the taxable year is less than the amount of loans outstanding at theclose of the base year, the amount which bears the same ratio to loans outstanding at the close of the taxable year as the balance of the reserve at the close of the base year bears to the amount of loans outstanding at the close of the base year.
 
 > &emsp;For purposes of this paragraph, the base year shall be the last taxable year before the most recent adoption of the experience method, except that for taxable years beginning after 1987 the base year shall be the last taxable year beginning before 1988.
 
@@ -236,5 +236,5 @@ Pub. L. 91–172, title IV, §431(d), Dec. 30, 1969, 83 Stat. 620, provided that
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

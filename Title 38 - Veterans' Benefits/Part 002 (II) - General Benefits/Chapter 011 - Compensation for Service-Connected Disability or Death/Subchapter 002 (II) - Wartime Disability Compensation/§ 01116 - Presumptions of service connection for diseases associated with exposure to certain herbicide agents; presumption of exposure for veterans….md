@@ -228,7 +228,7 @@ Membership.—
 
 &emsp;"(1)
 
-Composition.—The Secretary, in consultation with the National Academy of Medicine, the Directorof the National Institute of Environmental Health Sciences, and such other heads of Federal agencies as the Secretary determines appropriate—
+Composition.—The Secretary, in consultation with the National Academy of Medicine, the Director of the National Institute of Environmental Health Sciences, and such other heads of Federal agencies as the Secretary determines appropriate—
 
 &emsp;&emsp;"(A) shall select not more than 13 voting members of the Advisory Board, of whom—
 
@@ -326,7 +326,7 @@ Research.—
 
 &emsp;"(1)
 
-In general.—To the extent included in the research strategy developed by the Advisory Board under section 633(c)(3), the research entity or entities shall conduct research on health conditions of descendants of veterans with toxic exposure while serving as members of the Armed Forces.
+In general.—To the extent included in the research strategy developed by the Advisory Boardunder section 633(c)(3), the research entity or entities shall conduct research on health conditions of descendants of veterans with toxic exposure while serving as members of the Armed Forces.
 
 &emsp;"(2)
 
@@ -432,7 +432,7 @@ Subsequent Reviews.—An agreement under subsection (b) shall require the Nation
 
 Reports.—(1) The agreement between the Secretary and the National Academy of Sciences shall require the Academy to transmit to the Secretary and the Committees on Veterans' Affairs of the Senate and House of Representatives periodic written reports regarding the Academy's activities under the agreement. Such reports shall be submitted at least once every two years (as measured from the date of the first report).
 
-"(2) The first report under this subsection shall be transmitted not later than the end of the 18-month period beginning on the date of the enactment of this Act \[Feb. 6, 1991\]. That report shall include (A) the determinations and discussion referred to in subsection (d),\(B) any recommendations of the Academy under subsection (e), and (C) the recommendation of the Academy as to whether the provisions of each of sections 6 through 9 \[set out below\] should be implemented by the Secretary. In making its recommendation with respect to each such section, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from implementing that section, and the cost and feasibility of implementing that section. If the Academy recommends that the provisions of section 6 should be implemented, the Academy shall also recommend the means by which clinical data referred to in that section could be maintained in the most scientifically useful way.
+"(2) The first report under this subsection shall be transmitted not later than the end of the 18-month period beginning on the date of the enactment of this Act \[Feb. 6, 1991\]. That report shall include (A) the determinations and discussion referred to in subsection (d), (B) any recommendations of the Academy under subsection (e), and (C) the recommendation of the Academy as to whether the provisions of each of sections 6 through 9 \[set out below\] should be implemented by the Secretary. In making its recommendation with respect to each such section, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from implementing that section, and the cost and feasibility of implementing that section. If the Academy recommends that the provisions of section 6 should be implemented, the Academy shall also recommend the means by which clinical data referred to in that section could be maintained in the most scientifically useful way.
 
 "(h)
 
@@ -610,7 +610,7 @@ Blood Testing.—Subject to subsections (d) and (e), in the case of a veteran de
 
 "(b)
 
-Notification of Test Results.—Upon completion of such test, the Secretary shall notify the veteran of the test results and provide the veteran a completeexplanation as to what, if anything, the results of the test indicate regarding the likelihood of the veteran's exposure to TCDD while serving in the Republic of Vietnam.
+Notification of Test Results.—Upon completion of such test, the Secretary shall notify the veteran of the test results and provide the veteran a complete explanation as to what, if anything, the results of the test indicate regarding the likelihood of the veteran's exposure to TCDD while serving in the Republic of Vietnam.
 
 "(c)
 
@@ -672,7 +672,7 @@ OTA Reports.—(1) Concurrent with the approval or disapproval of any protocol u
 
 &emsp;"(B) containing the Director's conclusions regarding the scientific validity and objectivity of the protocol.
 
-"(2) If the Director has not approved a protocol under subsection (b)(1) by the last day of the 180-day period beginning on the date of the enactment of this Act \[Apr. 7, 1986\], the Director—
+"(2) If the Director has not approved a protocol under subsection (b)(1) by the last day of the 180-day periodbeginning on the date of the enactment of this Act \[Apr. 7, 1986\], the Director—
 
 &emsp;"(A) shall, on such day, submit to the appropriate committees of the Congress a report describing the reasons why the Director has not approved such a protocol; and
 

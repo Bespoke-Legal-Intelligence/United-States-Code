@@ -48,7 +48,7 @@ Effective Date of Election.—An election made by a person under subsection (a) 
 
 Subsec. (b)(1). Pub. L. 115–232 substituted "chapter 65, 741, 841, or 941" for "chapter 65, 367, 571, or 867".
 
-<b>2009</b>—Pub. L. 111–84, §643(e)(1), substituted "Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement" for "Retirement from active reserve service performed after regular retirement" in section catchline.
+<b>2009</b>—Pub. L. 111–84, §643(e)(1), substituted "Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement" for "Retirement from activereserve service performed after regular retirement" in section catchline.
 
 Subsec. (a). Pub. L. 111–84, §643(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 

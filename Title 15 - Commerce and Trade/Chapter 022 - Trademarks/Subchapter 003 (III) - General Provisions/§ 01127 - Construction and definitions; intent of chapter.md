@@ -10,7 +10,7 @@ The term "principal register" refers to the register provided for by sections 10
 
 The term "person" and any other word or term used to designate the applicant or other entitled to a benefit or privilege or rendered liable under the provisions of this chapter includes a juristic person as well as a natural person. The term "juristic person" includes a firm, corporation, union, association, or other organization capable of suing and being sued in a court of law.
 
-The term "person" also includes the United States, any agency or instrumentality thereof, or any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States. The United States, any agency or instrumentality thereof,and any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
+The term "person" also includes the United States, any agency or instrumentality thereof, or any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States. The United States, any agency or instrumentality thereof, and any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
 The term "person" also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
@@ -44,7 +44,7 @@ The term "certification mark" means any word, name, symbol, or device, or any co
 
 &emsp;(2) which its owner has a bona fide intention to permit a person other than the owner to use in commerce and files an application to register on the principal register established by this chapter,
 
-> to certify regional or other origin, material, mode of manufacture, quality, accuracy, or other characteristics of such person's goods or services or that the work or labor on the goods or services was performed by members of a union or other organization.
+> to certify regional or other origin, material, mode of manufacture, quality, accuracy, orother characteristics of such person's goods or services or that the work or labor on the goods or services was performed by members of a union or other organization.
 
 The term "collective mark" means a trademark or service mark—
 
@@ -74,7 +74,7 @@ A mark shall be deemed to be "abandoned" if either of the following occurs:
 
 The term "colorable imitation" includes any mark which so resembles a registered mark as to be likely to cause confusion or mistake or to deceive.
 
-The term "registered mark" means a mark registered in the United States Patent and Trademark Office under this chapter or under the Act of March 3, 1881, or the Act of February 20, 1905, or the Act of March 19, 1920. The phrase"marks registered in the Patent and Trademark Office" means registered marks.
+The term "registered mark" means a mark registered in the United States Patent and Trademark Office under this chapter or under the Act of March 3, 1881, or the Act of February 20, 1905, or the Act of March 19, 1920. The phrase "marks registered in the Patent and Trademark Office" means registered marks.
 
 The term "Act of March 3, 1881", "Act of February 20, 1905", or "Act of March 19, 1920", means the respective Act as amended.
 
@@ -126,7 +126,7 @@ Pub. L. 100–667, §134(2), amended par. defining "trade name" and "commercial 
 
 Pub. L. 100–667, §134(3), amended par. defining "trademark" generally. Prior to amendment, par. read as follows: "The term 'trademark' includes any word, name, symbol, or device or any combination thereof adopted and used by a manufacturer or merchant to identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown."
 
-Pub. L. 100–667, §134(4), amended par. defining "service mark" generally. Prior to amendment, par. read as follows: "The term 'service mark' means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names and other distinctive featuresof radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor."
+Pub. L. 100–667, §134(4), amended par. defining "service mark" generally. Prior to amendment, par. read as follows: "The term 'service mark' means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor."
 
 Pub. L. 100–667, §134(5), amended par. defining "certification mark" generally. Prior to amendment, par. read as follows: "The term 'certification mark' means a mark used upon or in connection with the products or services of one or more persons other than the owner of the mark to certify regional or other origin, material, mode of manufacture, quality, accuracy or other characteristics of such goods or services or that the work or labor on the goods or services was performed by members of a union or other organization."
 
@@ -148,7 +148,7 @@ Pub. L. 98–620, §103(3), in subpar. (b) of par. relating to when a mark shall
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office" in two places and "Commissioner of Patents and Trademarks" for "Commissioner of Patents" in definition of "Commissioner".
 
-<b>1962</b>—Pub. L. 87–772 substituted, "predecessors," for "and" in definition of "applicant" and "registrant", "Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor" for "and includes without limitation the marks, names, symbols, titles, designations, slogans, character names, and distinctive features of radio or other advertising used in commerce", in definition of "service mark", inserted "or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith" in fifteenth paragraph relating to use in commerce, struck out "purchasers" after "deceive" in definition of "colorable imitation", and substituted "commerce" for "commence" in last par. relating to the intent of the chapter.
+<b>1962</b>—Pub. L. 87–772 substituted, "predecessors," for "and" in definition of "applicant" and "registrant", "Titles, character names and other distinctive featuresof radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor" for "and includes without limitation the marks, names, symbols, titles, designations, slogans, character names, and distinctive features of radio or other advertising used in commerce", in definition of "service mark", inserted "or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith" in fifteenth paragraph relating to use in commerce, struck out "purchasers" after "deceive" in definition of "colorable imitation", and substituted "commerce" for "commence" in last par. relating to the intent of the chapter.
 
 #### Effective Date of 1999 Amendment
 
@@ -158,7 +158,7 @@ Amendment by section 1000(a)(9) \[title IV, §4732(b)(1)(A)\] of Pub. L. 106–1
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective one year after the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 523 of Pub. L. 103–465, set out as a note under section 1052 of this title.
+Amendment by Pub. L. 103–465 effective one year after the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 523 of Pub. L. 103–465, set out as a note under section 1052 of this title.
 
 #### Effective Date of 1992 Amendment
 

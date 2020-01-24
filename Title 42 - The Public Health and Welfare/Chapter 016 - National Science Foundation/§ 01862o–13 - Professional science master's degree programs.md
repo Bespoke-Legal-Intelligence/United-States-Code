@@ -32,7 +32,7 @@
 
 &emsp;The Director shall give preference in making awards to 4-year institutions of higher education seeking Federal funding to create or improve professional science master's degree programs, to those applicants—
 
-&emsp;&emsp;(A) located in States with low percentages of citizens with graduate or professional degrees, as determined by the Bureau of the Census, that demonstrate success in meeting the unique needs of the corporate, non-profit, and government communities in the State, as evidenced by providing internshipsfor professional science master's degree students or similar partnership arrangements; or
+&emsp;&emsp;(A) located in States with low percentages of citizens with graduate or professional degrees, as determined by the Bureau of the Census, that demonstrate success in meeting the unique needs of the corporate, non-profit, and government communities in the State, as evidenced by providing internships for professional science master's degree students or similar partnership arrangements; or
 
 &emsp;&emsp;(B) that secure more than two-thirds of the funding for such professional science master's degree programs from sources other than the Federal Government.
 

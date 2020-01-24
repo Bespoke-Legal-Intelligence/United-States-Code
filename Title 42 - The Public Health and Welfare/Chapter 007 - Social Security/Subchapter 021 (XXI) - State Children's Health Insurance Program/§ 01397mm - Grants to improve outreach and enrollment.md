@@ -62,7 +62,7 @@ The Secretary shall—
 
 #### (1) State maintenance of effort
 
-&emsp;In the case of a State that is awarded a grant under this section, the State share offunds expended for outreach and enrollment activities under the State child health plan shall not be less than the State share of such funds expended in the fiscal year preceding the first fiscal year for which the grant is awarded.
+&emsp;In the case of a State that is awarded a grant under this section, the State share of funds expended for outreach and enrollment activities under the State child health plan shall not be less than the State share of such funds expended in the fiscal year preceding the first fiscal year for which the grant is awarded.
 
 #### (2) No matching requirement
 
@@ -142,7 +142,7 @@ In this section:
 
 #### (g) Appropriation
 
-There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000 for the period of fiscal years 2009 through 2015, $40,000,000 for the period of fiscal years 2016 and 2017,,<sup>2</sup> $120,000,000 for the period of fiscal years 2018 through 2023, and $48,000,000 for the period of fiscal years 2024 through 2027, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under section 1397dd of this title and paid to States in accordance with section 1397ee of this title, including with respect to expenditures for outreach activities in accordance withsubsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
+There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000 for the period of fiscal years 2009 through 2015, $40,000,000 for the period of fiscal years 2016 and 2017,,<sup>2</sup> $120,000,000 for the period of fiscal years 2018 through 2023, and $48,000,000 for the period of fiscal years 2024 through 2027, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under section 1397dd of this title and paid to States in accordance with section 1397ee of this title, including with respect to expenditures for outreach activities in accordance with subsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
 
 #### (h) National enrollment campaign
 
@@ -186,7 +186,7 @@ Subsec. (f)(5). Pub. L. 115–120, §3004(b)(2), added par. (5).
 
 Subsec. (g). Pub. L. 115–123, §50103(a)(2), substituted ", $120,000,000" for "and $120,000,000" and inserted ", and $48,000,000 for the period of fiscal years 2024 through 2027" after "2023".
 
-Pub. L. 115–120, §3004(a)(2), substituted ", $40,000,000" for "and $40,000,000" and inserted ", and $120,000,000 for the period of fiscal years 2018 through 2023" after "2017".
+Pub. L. 115–120, §3004(a)(2), substituted ", $40,000,000" for "and $40,000,000" and inserted ", and $120,000,000 forthe period of fiscal years 2018 through 2023" after "2017".
 
 Subsec. (h)(6), (7). Pub. L. 115–123, §50103(c), added par. (6) and redesignated former par. (6) as (7).
 

@@ -136,7 +136,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 &emsp;&emsp;&emsp;(ii) The extent to which modification of the certification requirements may have the effect of reducing redundant third party testing by or on behalf of 2 or more importers of a product that is substantially similar or identical in all material respects.
 
-&emsp;&emsp;&emsp;(iii) The extent to which products with a substantial number of different components subject to third party testing may be evaluated to show compliance with an applicable rule, ban, standard, or regulation by third party testing of a subset of such components selected by a third party conformity assessment body.
+&emsp;&emsp;&emsp;(iii) The extent to which products with a substantial number of different components subject to third party testing may be evaluated to show compliance with an applicable rule, ban, standard, or regulation by third party testing of a subset ofsuch components selected by a third party conformity assessment body.
 
 &emsp;&emsp;&emsp;(iv) The extent to which manufacturers with a substantial number of substantially similar products subject to third party testing may reasonably make use of sampling procedures that reduce the overall test burden without compromising the benefits of third party testing.
 
@@ -324,7 +324,7 @@ In this section:
 
 #### (h) Rule of construction
 
-Compliance of any children's product with third party testing and certification or general conformity certification requirements under this section shall not be construed to exempt such children's product from any requirement that such product actually be in conformity with all applicable rules, regulation, standards, or ban under any Act enforced by the Commission.
+Compliance of any children's product with third party testing and certification or generalconformity certification requirements under this section shall not be construed to exempt such children's product from any requirement that such product actually be in conformity with all applicable rules, regulation, standards, or ban under any Act enforced by the Commission.
 
 #### (i) Requirement for advertisements
 

@@ -14,7 +14,7 @@ Offenses involving actual or perceived race, color, religion, or national origin
 
 &emsp;&emsp;&emsp;(i) death results from the offense; or
 
-&emsp;&emsp;&emsp;(ii) the offense includes kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill.
+&emsp;&emsp;&emsp;(ii) the offense includes kidnapping or an attempt to kidnap, aggravated sexualabuse or an attempt to commit aggravated sexual abuse, or an attempt to kill.
 
 &emsp;(2)
 
@@ -114,7 +114,7 @@ Death resulting offenses.—An indictment or information alleging that an offens
 
 #### Severability
 
-Pub. L. 111–84, div. E, §4709, Oct. 28, 2009, 123 Stat. 2841, which related to severability of provisions, was editorially reclassified as section 30505 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 111–84, div. E, §4709, Oct. 28, 2009, 123 Stat. 2841, which related to severability of provisions, waseditorially reclassified as section 30505 of Title 34, Crime Control and Law Enforcement.
 
 #### Rule of Construction
 

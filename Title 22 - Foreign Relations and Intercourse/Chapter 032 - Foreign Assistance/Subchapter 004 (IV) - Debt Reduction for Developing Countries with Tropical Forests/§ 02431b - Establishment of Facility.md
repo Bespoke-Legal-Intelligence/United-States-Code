@@ -14,5 +14,5 @@ A prior section 804 of Pub. L. 87–195, pt. V, was classified to section 2434 o
 
 #### Change of Name
 
-Pub. L. 115–440, §4(c), Jan. 14, 2019, 132 Stat. 5582, provided that: "Any reference in any other provision of law, regulation, document, paper, or other record of the United States to the 'Tropical Forest Facility' shall bedeemed to be a reference to the 'Conservation Facility'."
+Pub. L. 115–440, §4(c), Jan. 14, 2019, 132 Stat. 5582, provided that: "Any reference in any other provision of law, regulation, document, paper, or other record of the United States to the 'Tropical Forest Facility' shall be deemed to be a reference to the 'Conservation Facility'."
 

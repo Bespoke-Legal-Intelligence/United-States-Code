@@ -38,7 +38,7 @@
 
 (g) If any real property interest of the United States described in subsection (a) is not purchased under the procedures provided in subsections (a) through (f), such tract may be disposed of only in accordance with subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-(Added Pub. L. 100–180, div. B, subdiv. 3, title II, §2325(a), Dec. 4, 1987, 101 Stat. 1220; amended Pub. L. 103–160, div. B, title XXVIII, §2851, Nov. 30, 1993, 107 Stat. 1906; Pub. L. 107–217, §3(b)(40),Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–178, §4(b)(7), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 111–350, §5(b)(55), Jan. 4, 2011, 124 Stat. 3847.)
+(Added Pub. L. 100–180, div. B, subdiv. 3, title II, §2325(a), Dec. 4, 1987, 101 Stat. 1220; amended Pub. L. 103–160, div. B, title XXVIII, §2851, Nov. 30, 1993, 107 Stat. 1906; Pub. L. 107–217, §3(b)(40), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–178, §4(b)(7), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 111–350, §5(b)(55), Jan. 4, 2011, 124 Stat. 3847.)
 
 #### Amendments
 

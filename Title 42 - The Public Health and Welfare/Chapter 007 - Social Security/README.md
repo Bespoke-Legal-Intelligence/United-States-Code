@@ -834,6 +834,7 @@
 | 1396w–3. | Enrollment simplification and coordination with State health insurance exchanges. |
 | 1396w–3a. | Requirements relating to qualified prescription drug monitoring programs and prescribing certain controlled substances. |
 | 1396w–4. | State option to provide coordinated care through a health home for individuals with chronic conditions. |
+| 1396w–4a. | State option to provide coordinated care through a health home for children with medically complex conditions. |
 | 1396w–5. | Addressing health care disparities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

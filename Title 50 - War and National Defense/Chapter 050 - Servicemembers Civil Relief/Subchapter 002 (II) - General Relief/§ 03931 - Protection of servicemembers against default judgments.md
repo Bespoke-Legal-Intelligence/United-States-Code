@@ -16,7 +16,7 @@ This section applies to any civil action or proceeding, including any child cust
 
 #### (2) Appointment of attorney to represent defendant in military service
 
-&emsp;If in an action covered by this section it appears that the defendant is in military service, the court may not enter a judgment until after the court appoints an attorney to represent the defendant. If an attorney appointed under this section to represent a servicemember cannot locate the servicemember, actions by the attorney in the case shall not waive any defense of the servicemember or otherwise bind the servicemember.
+&emsp;If in an action covered by this section it appears that the defendant is in military service,the court may not enter a judgment until after the court appoints an attorney to represent the defendant. If an attorney appointed under this section to represent a servicemember cannot locate the servicemember, actions by the attorney in the case shall not waive any defense of the servicemember or otherwise bind the servicemember.
 
 #### (3) Defendant's military status not ascertained by affidavit
 

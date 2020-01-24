@@ -30,7 +30,7 @@ It is unlawful for any person—
 
 &emsp;(3) within the special maritime and territorial jurisdiction of the United States (as defined in section 7 of title 18)—
 
-&emsp;&emsp;(A) to possess any fish or wildlife taken, possessed, transported, or sold in violation of any law or regulation of any State or inviolation of any foreign law or Indian tribal law, or
+&emsp;&emsp;(A) to possess any fish or wildlife taken, possessed, transported, or sold in violation of any law or regulation of any State or in violation of any foreign law or Indian tribal law, or
 
 &emsp;&emsp;(B) to possess any plant—
 
@@ -108,7 +108,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 &emsp;&emsp;&emsp;(iv) does not allow direct contact between the public and animals; or
 
-&emsp;&emsp;(D) has custody of the animal solely for the purpose of expeditiously transporting the animal to a person described in this paragraph with respect to the species.
+&emsp;&emsp;(D) has custody of the animal solely for the purpose of expeditiously transportingthe animal to a person described in this paragraph with respect to the species.
 
 #### (3) Regulations
 

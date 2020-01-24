@@ -176,7 +176,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (3) Producer organizations
 
-&emsp;The order shall provide that the Board may contract with a producer organization for any services required in addition to the servicesdescribed in paragraph (1). The contract shall include provisions comparable to the provisions required by paragraph (2).
+&emsp;The order shall provide that the Board may contract with a producer organization for any services required in addition to the services described in paragraph (1). The contract shall include provisions comparable to the provisions required by paragraph (2).
 
 #### (f) Books and records of Board
 
@@ -232,7 +232,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained from books, records, or reports required to be maintained under paragraph (1) shall be kept confidential, and shall not be disclosed to the public by any person.
+&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained frombooks, records, or reports required to be maintained under paragraph (1) shall be kept confidential, and shall not be disclosed to the public by any person.
 
 #### (B) Disclosure
 

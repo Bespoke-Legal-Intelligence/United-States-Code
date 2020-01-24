@@ -84,7 +84,7 @@ Effect of Continuation of Military Pay.—In the case of payment of transitional
 
 (i)
 
-Coordination of Benefits.—The Secretary concerned may not make payments to a spouse or former spouse under both this section and section 1408(h)(1) of this title. In the case of a spouse or former spouse for whom a court order provides for payments by the Secretary pursuant to section 1408(h)(1) of this title and to whom the Secretary offers payments under this section, the spouse or former spouse shall elect which to receive.
+Coordination of Benefits.—The Secretary concerned may not make payments to a spouse or former spouse under both this section and section 1408(h)(1) of this title. In the case of aspouse or former spouse for whom a court order provides for payments by the Secretary pursuant to section 1408(h)(1) of this title and to whom the Secretary offers payments under this section, the spouse or former spouse shall elect which to receive.
 
 (j)
 
@@ -110,15 +110,27 @@ Dependent Child Defined.—In this section, the term "dependent child", with res
 
 (m)
 
-Exceptional Eligibility for Dependents of Former Members.—(1) The Secretary concerned, under regulations prescribed under subsection (k), may authorize eligibility for benefits under this section for dependents and former dependents of a former member of the armed forces in a case in which the dependents or former dependents are not otherwise eligible for such benefits and the Secretary concerned determines that the former member engaged in conduct that is a dependent-abuse offense under this section and the former member was separated from active duty other than as described in subsection (b).
+Exceptional Eligibility for Dependents of Members or Former Members.—(1) The Secretary concerned, under regulations prescribed under subsection (k), may authorize eligibility for benefits under this section for dependents and former dependents of a member or former member of the armed forces in a case in which the dependents or former dependents are not otherwise eligible for such benefits and the Secretary concerned determines that the member or former member engaged in conduct that is a dependent-abuse offense under this section and the member or former member was separated from active duty other than as described in subsection (b).
 
-(2) In a case in which the Secretary concerned, under the authority of paragraph (1), authorizes benefits to be provided under this section, such benefits shall be provided in the same manner as if the former member were an individual described in subsection (b), except that, under regulations prescribed under subsection (k), the Secretary shall make such adjustments to the commencement and duration of payment provisions of subsection (e), and may make adjustments to other provisions of this section, as the Secretary considers necessary in light of the circumstances in order to provide benefits substantially equivalent to the benefits provided in the case of an individual described in subsection (b).
+(2) In a case in which the Secretary concerned, under the authority of paragraph (1), authorizes benefits to be provided under this section, such benefits shall be provided in the same manner as if the member or former member were an individual described in subsection (b), except that, under regulations prescribed under subsection (k), the Secretary shall make such adjustments to the commencement and duration of payment provisions of subsection (e), and may make adjustments to other provisions of this section, as the Secretary considers necessary in light of the circumstances in order to provide benefits substantially equivalent to the benefits provided in the case of an individual described in subsection (b).
 
-(3) The authority of the Secretary concerned under paragraph (1) may not be delegated.
+(3) For purposes of the provision of benefits under this section pursuant to this subsection, a member shall be considered separated from active duty upon the earliest of—
 
-(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered §1059 and amended Pub. L. 103–337, div. A, title V, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, §636(a), (b), title XV, §1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511; Pub. L. 105–261, div. A,title V, §570(a), (b), Oct. 17, 1998, 112 Stat. 2032; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §§572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, 117 Stat. 1484–1486; Pub. L. 112–239, div. A, title V, §564(a), Jan. 2, 2013, 126 Stat. 1748; Pub. L. 113–291, div. A, title VI, §621, Dec. 19, 2014, 128 Stat. 3401; Pub. L. 115–91, div. A, title V, §531(l), Dec. 12, 2017, 131 Stat. 1386.)
+&emsp;(A) the date an administrative separation is initiated by a commander of the member;
+
+&emsp;(B) the date the court-martial sentence is adjudged if the sentence, as adjudged, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; or
+
+&emsp;(C) the date the member's term of service expires.
+
+(4) The authority of the Secretary concerned under paragraph (1) may not be delegated.
+
+(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered §1059 and amended Pub. L. 103–337, div. A, title V, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, §636(a), (b), title XV, §1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511; Pub. L. 105–261, div. A, title V, §570(a), (b), Oct. 17, 1998, 112 Stat. 2032; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §§572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, 117 Stat. 1484–1486; Pub. L. 112–239, div. A, title V, §564(a), Jan. 2, 2013, 126 Stat. 1748; Pub. L. 113–291, div. A, title VI, §621, Dec. 19, 2014, 128 Stat. 3401; Pub. L. 115–91, div. A, title V, §531(l), Dec. 12, 2017, 131 Stat. 1386; Pub. L. 116–92, div. A, title VI, §621, Dec. 20, 2019, 133 Stat. 1426.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (m). Pub. L. 116–92, §621(1), (2), inserted "Members or" before "Former Members" in headingand "member or" before "former member" wherever appearing in pars. (1) and (2).
+
+Subsec. (m)(3), (4). Pub. L. 116–92, §621(3), (4), added par. (3) and redesignated former par. (3) as (4).
 
 <b>2017</b>—Subsec. (e)(1)(A)(ii). Pub. L. 115–91, §531(l)(1), substituted "the date of entry of judgment under section 860c of this title (article 60c of the Uniform Code of Military Justice) if the sentence includes" for "the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes".
 
@@ -190,7 +202,7 @@ Subsecs. (j) to (l). Pub. L. 103–337, §535(b), added subsec. (j) and redesign
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 #### Effective Date of 2013 Amendment
 

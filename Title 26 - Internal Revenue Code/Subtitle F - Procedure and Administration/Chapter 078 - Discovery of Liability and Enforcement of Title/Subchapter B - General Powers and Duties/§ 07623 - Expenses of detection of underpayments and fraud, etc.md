@@ -32,7 +32,7 @@ The Secretary, under regulations prescribed by the Secretary, is authorized to p
 
 #### (4) Appeal of award determination
 
-&emsp;Any determination regarding an award under paragraph (1), (2), or (3) may, within 30 days of such determination, be appealed to the Tax Court (and the Tax Court shall have jurisdiction with respect to such matter).
+&emsp;Any determination regarding an award under paragraph (1), (2), or (3) may, within 30days of such determination, be appealed to the Tax Court (and the Tax Court shall have jurisdiction with respect to such matter).
 
 #### (5) Application of this subsection
 
@@ -68,9 +68,87 @@ For purposes of this section, the term "proceeds" includes—
 
 &emsp;&emsp;(B) violations of reporting requirements.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 904; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–168, title XII, §1209(a), July 30, 1996, 110 Stat. 1473; Pub. L. 109–432, div. A, title IV, §406(a)(1), Dec. 20, 2006, 120 Stat. 2958; Pub. L. 115–123, div. D, title II, §41108(a)–(c), Feb. 9, 2018, 132 Stat. 158.)
+#### (d) Civil action to protect against retaliation cases
+
+#### (1) Anti-retaliation whistleblower protection for employees
+
+&emsp;No employer, or any officer, employee, contractor, subcontractor, or agent of such employer, may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against an employee in the terms and conditions of employment (including through an act in the ordinary course of such employee's duties) in reprisal for any lawful act done by the employee—
+
+&emsp;&emsp;(A) to provide information, cause information to be provided, or otherwise assist in an investigation regarding underpayment of tax or any conduct which the employee reasonably believes constitutes a violation of the internal revenue laws or any provision of Federal law relating to tax fraud, when the information or assistance is provided to the Internal Revenue Service, the Secretary of the Treasury, the Treasury Inspector General for Tax Administration, the Comptroller General of the United States, the Department of Justice, the United States Congress, a person with supervisory authority over the employee, or any other person working for the employer who has the authority to investigate, discover, or terminate misconduct, or
+
+&emsp;&emsp;(B) to testify, participate in, or otherwise assist in any administrative or judicial action taken by the Internal Revenue Service relating to an alleged underpayment of tax or any violation of the internal revenue laws or any provision of Federal law relating to tax fraud.
+
+#### (2) Enforcement action
+
+#### (A) In general
+
+&emsp;&emsp;A person who alleges discharge or other reprisal by any person in violation of paragraph (1) may seek relief under paragraph (3) by—
+
+&emsp;&emsp;&emsp;(i) filing a complaint with the Secretary of Labor, or
+
+&emsp;&emsp;&emsp;(ii) if the Secretary of Labor has not issued a final decision within 180 days of the filing of the complaint and there is no showing that such delay is due to the bad faith of the claimant, bringing an action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
+
+#### (B) Procedure
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;An action under subparagraph (A)(i) shall be governed under the rules and procedures set forth in section 42121(b) of title 49, United States Code.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;Notification made under section 42121(b)(1) of title 49, United States Code, shall be made to the person named in the complaint and to the employer.
+
+#### (iii) Burdens of proof
+
+&emsp;&emsp;&emsp;An action brought under subparagraph (A)(ii) shall be governed by the legal burdens of proof set forth in section 42121(b) of title 49, United States Code, except that in applying such section—
+
+&emsp;&emsp;&emsp;&emsp;(I) "behavior described in paragraph (1)" shall be substituted for "behavior described in paragraphs (1) through (4) of subsection (a)" each place it appears in paragraph (2)(B) thereof, and
+
+&emsp;&emsp;&emsp;&emsp;(II) "a violation of paragraph (1)" shall be substituted for "a violation of subsection (a)" each place it appears.
+
+#### (iv) Statute of limitations
+
+&emsp;&emsp;&emsp;A complaint under subparagraph (A)(i) shall be filed not later than 180 days after the date on which the violation occurs.
+
+#### (v) Jury trial
+
+&emsp;&emsp;&emsp;A party to an action brought under subparagraph (A)(ii) shall be entitled to trial by jury.
+
+#### (3) Remedies
+
+#### (A) In general
+
+&emsp;&emsp;An employee prevailing in any action under paragraph (2)(A) shall be entitled to all relief necessary to make the employee whole.
+
+#### (B) Compensatory damages
+
+&emsp;&emsp;Relief for any action under subparagraph (A) shall include—
+
+&emsp;&emsp;&emsp;(i) reinstatement with the same seniority status that the employee would have had, but for the reprisal,
+
+&emsp;&emsp;&emsp;(ii) the sum of 200 percent of the amount of back pay and 100 percent of all lost benefits, with interest, and
+
+&emsp;&emsp;&emsp;(iii) compensation for any special damages sustained as a result of the reprisal, including litigation costs, expert witness fees, and reasonable attorney fees.
+
+#### (4) Rights retained by employee
+
+&emsp;Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any employee under any Federal or State law, or under any collective bargaining agreement.
+
+#### (5) Nonenforceability of certain provisions waiving rights and remedies or requiring arbitration of disputes
+
+#### (A) Waiver of rights and remedies
+
+&emsp;&emsp;The rights and remedies provided for in this subsection may not be waived by any agreement, policy form, or condition of employment, including by a predispute arbitration agreement.
+
+#### (B) Predispute arbitration agreements
+
+&emsp;&emsp;No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this subsection.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 904; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–168, title XII, §1209(a), July 30, 1996, 110 Stat. 1473; Pub. L. 109–432, div. A, title IV, §406(a)(1), Dec. 20, 2006, 120 Stat. 2958; Pub. L. 115–123, div. D, title II, §41108(a)–(c), Feb. 9, 2018, 132 Stat. 158; Pub. L. 116–25, title I, §1405(b), July 1, 2019, 133 Stat. 998.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (d). Pub. L. 116–25 added subsec. (d).
 
 <b>2018</b>—Subsec. (b)(1), (2)(A). Pub. L. 115–123, §41108(a)(2), (b), substituted "proceeds collected as a result of the action" for "collected proceeds (including penalties, interest, additions to tax, and additional amounts) resulting from the action" and inserted "(determined without regard to whether such proceeds are available to the Secretary)" after "in response to such action".
 
@@ -83,6 +161,10 @@ Subsec. (c). Pub. L. 115–123, §41108(a)(1), added subsec. (c).
 <b>1996</b>—Pub. L. 104–168 substituted "of underpayments and fraud, etc." for "and punishment of frauds" in section catchline and amended text generally. Prior to amendment, text read as follows: "The Secretary, under regulations prescribed by the Secretary, is authorized to pay such sums, not exceeding in the aggregate the sum appropriated therefor, as he may deem necessary for detecting and bringing to trial and punishment persons guilty of violating the internal revenue laws, or conniving at the same, in cases where such expenses are not otherwise provided for by law."
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–25, title I, §1405(c)(2), July 1, 2019, 133 Stat. 1000, provided that: "The amendment made by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 1, 2019\]."
 
 #### Effective Date of 2018 Amendment
 
@@ -124,11 +206,7 @@ Pub. L. 109–432, div. A, title IV, §406(c), Dec. 20, 2006, 120 Stat. 2960, pr
 
 #### Study of Payments Made for Detection of Underpayments and Fraud
 
-Pub. L. 105–206, title III, §3804, July 22, 1998, 112 Stat. 783, provided that: "Not later than 1 year after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury shall conduct a study and report to Congress on the use of section 7623 of the Internal Revenue Code of 1986 including—
-
-&emsp;"(1) an analysis of the present use of such section and the results of such use; and
-
-&emsp;"(2) any legislative or administrative recommendations regarding the provisions of such section and its application."
+Pub. L. 105–206, title III, §3804, July 22, 1998, 112 Stat. 783, provided that the Secretary of the Treasury, notlater than 1 year after July 22, 1998, would conduct a study and report to Congress on the use of this section, including an analysis of the present use of this section and any legislative or administrative recommendations regarding the provisions of this section and its application.
 
 #### Annual Report to Congress on Payments Made Under This Section and Resultant Collections
 

@@ -10,7 +10,7 @@ The primary functions of the Institute shall be—
 
 #### (b) Administrative entities
 
-(1) The Board shall be responsible for establishing the policies and internal organization that relate to the control and monitoring of all subdivisions, administrative entities, and departments of the Institute.
+(1) The Board shall be responsible for establishing the policies and internal organizationthat relate to the control and monitoring of all subdivisions, administrative entities, and departments of the Institute.
 
 (2) The specific responsibilities of each subdivision, entity, and department of the Institute are solely within the discretion of the Board, or its designee.
 

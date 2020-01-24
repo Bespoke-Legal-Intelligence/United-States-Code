@@ -98,7 +98,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (3) Statutory construction
 
-&emsp;Except as expressly provided, nothing in this section shall be construed as conferring uponlocal school boards authority over, or control of, educators at Bureau-funded schools or the authority to issue management decisions.
+&emsp;Except as expressly provided, nothing in this section shall be construed as conferring upon local school boards authority over, or control of, educators at Bureau-funded schools or the authority to issue management decisions.
 
 #### (4) Appeals
 
@@ -274,7 +274,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (ii) Consistent rates
 
-&emsp;&emsp;&emsp;The rates established under clause (i) shall be consistent with the rates paid forindividuals in the same positions, with the same tenure and training, as the teachers and counselors, in any other school within whose boundaries the Bureau school is located.
+&emsp;&emsp;&emsp;The rates established under clause (i) shall be consistent with the rates paid for individuals in the same positions, with the same tenure and training, as the teachers and counselors, in any other school within whose boundaries the Bureau school is located.
 
 #### (iii) Decreases
 
@@ -340,7 +340,7 @@ Upon termination of employment with the Bureau, any annual leave remaining to th
 
 #### (i) Transfer of remaining sick leave upon transfer, promotion, or reemployment
 
-In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remainingleave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) shall be transferred to such person's credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
+In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) shall be transferred to such person's credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
 
 #### (j) Ineligibility for employment of voluntarily terminated educators
 
@@ -442,7 +442,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(I) classroom or other instruction or the supervision or direction of classroom or other instruction;
 
-&emsp;&emsp;&emsp;(II) any activity (other than teaching) which requires academic credits in educational theory and practice equal to theacademic credits in educational theory and practice required for a bachelor's degree in education from an accredited institution of higher education;
+&emsp;&emsp;&emsp;(II) any activity (other than teaching) which requires academic credits in educational theory and practice equal to the academic credits in educational theory and practice required for a bachelor's degree in education from an accredited institution of higher education;
 
 &emsp;&emsp;&emsp;(III) any activity in or related to the field of education notwithstanding that academic credits in educational theory and practice are not a formal requirement for the conduct of such activity; or
 

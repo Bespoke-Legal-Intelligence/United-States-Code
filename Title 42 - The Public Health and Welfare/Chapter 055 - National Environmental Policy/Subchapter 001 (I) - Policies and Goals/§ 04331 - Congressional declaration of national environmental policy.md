@@ -16,7 +16,7 @@
 
 &emsp;(6) enhance the quality of renewable resources and approach the maximum attainable recycling of depletable resources.
 
-(c) The Congress recognizes that each person should enjoy a healthful environment and that each person has a responsibility to contribute tothe preservation and enhancement of the environment.
+(c) The Congress recognizes that each person should enjoy a healthful environment and that each person has a responsibility to contribute to the preservation and enhancement of the environment.
 
 (Pub. L. 91–190, title I, §101, Jan. 1, 1970, 83 Stat. 852.)
 

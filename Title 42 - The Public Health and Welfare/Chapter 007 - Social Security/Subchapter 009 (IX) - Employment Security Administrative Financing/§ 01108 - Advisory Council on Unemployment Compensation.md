@@ -94,5 +94,5 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 
 #### Report on Agricultural Labor Performed by Aliens
 
-Pub. L. 102–318, title III, §303(b), July 3, 1992, 106 Stat. 297, directed Advisory Council on Unemployment Compensation to submit a report to Congress, not later than Feb. 1, 1994, on its recommendations with respectto the treatment of agricultural labor performed by aliens.
+Pub. L. 102–318, title III, §303(b), July 3, 1992, 106 Stat. 297, directed Advisory Council on Unemployment Compensation to submit a report to Congress, not later than Feb. 1, 1994, on its recommendations with respect to the treatment of agricultural labor performed by aliens.
 

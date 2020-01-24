@@ -10,7 +10,7 @@ General.—Within the limits of an appropriation made to employ personnel, the A
 
 (b)
 
-Detailed Personnel.—On request of the Commission, the heads of departments, agencies, and instrumentalities of the United States Government may make available to the Commission their personnel and facilities to assist in carrying out this chapter, and may expend for that purpose amounts appropriated to the department, agency, and instrumentality. TheCommission shall reimburse the department, agency, or instrumentality for the pay and allowances of personnel made available to the Commission.
+Detailed Personnel.—On request of the Commission, the heads of departments, agencies, and instrumentalities of the United States Government may make available to the Commission their personnel and facilities to assist in carrying out this chapter, and may expend for that purpose amounts appropriated to the department, agency, and instrumentality. The Commission shall reimburse the department, agency, or instrumentality for the pay and allowances of personnel made available to the Commission.
 
 (c)
 

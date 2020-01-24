@@ -10,7 +10,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §547, and section 11–204 of District of Columbia Code, 1940 ed., (Mar. 3, 1891, ch. 517, §9, 26 Stat. 829; Feb. 9, 1893, ch. 74, §4, 27 Stat. 435; July 30, 1894, ch. 172, §1, 28 Stat. 160; Mar. 3, 1901, ch. 854, §224, 31 Stat. 1224; June 30, 1902, ch. 1329, 32 Stat. 528; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Aug. 23, 1912, ch. 350, 37 Stat. 412; Feb. 22, 1921, ch. 70, §7, 41Stat. 1144; Mar. 4, 1923, ch. 265, 42 Stat. 1488; May 21, 1928, ch. 659, 45 Stat. 645).
+Based on title 28, U.S.C., 1940 ed., §547, and section 11–204 of District of Columbia Code, 1940 ed., (Mar. 3, 1891, ch. 517, §9, 26 Stat. 829; Feb. 9, 1893, ch. 74, §4, 27 Stat. 435; July 30, 1894, ch. 172, §1, 28 Stat. 160; Mar. 3, 1901, ch. 854, §224, 31 Stat. 1224; June 30, 1902, ch. 1329, 32 Stat. 528; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Aug. 23, 1912, ch. 350, 37 Stat. 412; Feb. 22, 1921, ch. 70, §7, 41 Stat. 1144; Mar. 4, 1923, ch. 265, 42 Stat. 1488; May 21, 1928, ch. 659, 45 Stat. 645).
 
 Section consolidates parts of section 11–204 of the District of Columbia Code, 1940 ed., and section 547 of title 28, U.S.C., 1940 ed.
 

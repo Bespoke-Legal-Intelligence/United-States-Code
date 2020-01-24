@@ -28,7 +28,7 @@ The Board, acting through the Chief Executive Officer of the Corporation, may pr
 
 &emsp;&emsp;(I) a requirement that open, fair, and competitive procedures are used in a transparent manner in the administration of grants or cooperative agreements or the procurement of goods and services for the accomplishment of objectives under the Compact;
 
-&emsp;&emsp;(J) the strategy of the eligible country to sustain progress made toward achieving such objectives after expiration of the Compact; and
+&emsp;&emsp;(J) the strategy of the eligible country to sustain progress made toward achieving suchobjectives after expiration of the Compact; and
 
 &emsp;&emsp;(K) a description of the role of the United States Agency for International Development in any design, implementation, and monitoring of programs and activities funded under the Compact.
 
@@ -100,7 +100,7 @@ This chapter, referred to in subsecs. (a), (k), and (l), was in the original "th
 
 #### Amendments
 
-<b>2018</b>—Subsecs. (k), (l). Pub. L. 115–167 struck out first sentence of subsec. (k) which read "An eligible country and the United States may enter into and have in effect only one Compact at any given time under this section.", redesignated the remainder of subsec. (k) as (l), and added a new subsec. (k).
+<b>2018</b>—Subsecs. (k), (l). Pub. L. 115–167 struck out first sentence of subsec. (k) which read "An eligible countryand the United States may enter into and have in effect only one Compact at any given time under this section.", redesignated the remainder of subsec. (k) as (l), and added a new subsec. (k).
 
 #### Effective Date of 2018 Amendment
 

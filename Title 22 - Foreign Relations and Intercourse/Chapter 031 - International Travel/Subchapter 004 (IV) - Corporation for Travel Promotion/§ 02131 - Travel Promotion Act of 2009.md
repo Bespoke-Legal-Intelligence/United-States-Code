@@ -18,19 +18,19 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 &emsp;&emsp;&emsp;(i) 1 shall have appropriate expertise and experience in the hotel accommodations sector;
 
-&emsp;&emsp;&emsp;(ii) 1 shall have appropriate expertise and experience in the restaurant sector;
+&emsp;&emsp;&emsp;(ii) 1 shall have appropriate expertise and experience in the restaurant or foodservice sector;
 
 &emsp;&emsp;&emsp;(iii) 1 shall have appropriate expertise and experience in the small business or retail sector or in associations representing that sector;
 
 &emsp;&emsp;&emsp;(iv) 1 shall have appropriate expertise and experience in the travel distribution services sector;
 
-&emsp;&emsp;&emsp;(v) 1 shall have appropriate expertise and experience in the attractions or recreations sector;
+&emsp;&emsp;&emsp;(v) 1 shall have appropriate expertise and experience in the attractions or recreations sector, such as outdoor recreation;
 
 &emsp;&emsp;&emsp;(vi) 1 shall have appropriate expertise and experience as officials of a city convention and visitors' bureau;
 
 &emsp;&emsp;&emsp;(vii) 2 shall have appropriate expertise and experience as officials of a State tourism office;
 
-&emsp;&emsp;&emsp;(viii) 1 shall have appropriate expertise and experience in the passenger air sector;
+&emsp;&emsp;&emsp;(viii) 1 shall have appropriate expertise and experience in the commercial or private passenger air sector;
 
 &emsp;&emsp;&emsp;(ix) 1 shall have appropriate expertise and experience in immigration law and policy, including visa requirements and United States entry procedures; and
 
@@ -108,11 +108,13 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 &emsp;&emsp;&emsp;(ii) to identify, counter, and correct misperceptions regarding United States entry policies around the world;
 
-&emsp;&emsp;&emsp;(iii) to maximize the economic and diplomatic benefits of travel to the United States by promoting the United States of America to world travelers through the use of, but not limited to, all forms of advertising, outreach to trade shows, and other appropriate promotional activities;
+&emsp;&emsp;&emsp;(iii) to maximize the economic and diplomatic benefits of travel to the United States by promoting the United States of America to world travelers through the use of, but not limited to, all forms of advertising, outreach to trade shows, speaking conventions, sales missions, and other appropriate promotional activities;
 
-&emsp;&emsp;&emsp;(iv) to ensure that international travel benefits all States and territories of the United States and the District of Columbia, and to identify opportunities and strategies to promote tourism to rural and urban areas equally, including areas not traditionally visited by international travelers; and
+&emsp;&emsp;&emsp;(iv) to ensure that international travel benefits all States and territories of the United States and the District of Columbia, and to identify opportunities and strategies to promote tourism to rural and urban areas equally, including areas not traditionally visited by international travelers;
 
-&emsp;&emsp;&emsp;(v) to give priority to the Corporation's efforts with respect to countries and populations most likely to travel to the United States.
+&emsp;&emsp;&emsp;(v) to give priority to the Corporation's efforts with respect to countries and populations most likely to travel to the United States; and
+
+&emsp;&emsp;&emsp;(vi) to promote tourism to the United States through digital media, online platforms, and other appropriate medium.<sup>2</sup>
 
 #### (B) Specific powers
 
@@ -140,7 +142,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 &emsp;&emsp;(B) at least 6 members of the board are present at the meeting at which it is approved; and
 
-&emsp;&emsp;(C) each member of the board has been given at least 3 days advance notice of the meeting at which the vote is to be taken and the matters to be voted upon at that meeting.
+&emsp;&emsp;(C) each member of the board has been given at least 5 days advance notice of the meeting at which the vote is to be taken and the matters to be voted upon at that meeting.
 
 #### (8) Fiscal accountability
 
@@ -168,7 +170,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (2) Budget
 
-&emsp;The board shall transmit a copy of the Corporation's budget for the forthcoming fiscal year to the Secretary not less than 60 days before the beginning of each fiscal year, together with an explanation of any expenditure provided for by the budget in excess of $500,000 for the fiscal year. The Corporation shall make a copy of the budget and the explanation available to the public and shall provide public access to the budget and explanation on the Corporation's website.
+&emsp;The board shall transmit a copy of the Corporation's budget for the forthcoming fiscal year to the Secretary not less than 60 days before the beginning of each fiscal year, together with an explanation of any expenditure provided for by the budget in excess of $450,000 for the fiscal year. The Corporation shall make a copy of the budget and the explanation available to the public and shall provide public access to the budget and explanation on the Corporation's website.
 
 #### (3) Annual report to Congress
 
@@ -192,9 +194,13 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 &emsp;&emsp;(ii) the ratio in which such channels are used; and
 
-&emsp;&emsp;(iii) a justification for the use and ratio of such channels; and
+&emsp;&emsp;(iii) a justification for the use and ratio of such channels;
 
-&emsp;&emsp;(I) such recommendations as the Corporation deems appropriate.
+&emsp;&emsp;(I) a list of countries the Corporation identifies as emerging markets for tourism to the United States;
+
+&emsp;&emsp;(J) a description of the efforts the Corporation has made to promote tourism to rural areas of the United States; and
+
+&emsp;&emsp;(K) such recommendations as the Corporation deems appropriate.
 
 #### (4) Limitation on use of funds
 
@@ -214,7 +220,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (B) Subsequent years
 
-&emsp;&emsp;For each of fiscal years 2012 through 2020, from amounts deposited in the general fund of the Treasury during the preceding fiscal year from fees under section 1187(h)(3)(B)(i)(I) of title 8, the Secretary of the Treasury shall transfer not more than $100,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
+&emsp;&emsp;For each of fiscal years 2012 through 2027, from amounts deposited in the general fund of the Treasury during the preceding fiscal year from fees under section 1187(h)(3)(B)(i)(I) of title 8, the Secretary of the Treasury shall transfer not more than $100,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
 
 #### (3) Matching requirement
 
@@ -232,7 +238,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 &emsp;&emsp;&emsp;(i) the fair market value of goods and services (including advertising) contributed to the Corporation for use under this section may be included in the determination; but
 
-&emsp;&emsp;&emsp;(ii) the fair market value of such goods and services may not account for more than 70 percent of the matching requirement under subparagraph (A) for the Corporation in any fiscal year.
+&emsp;&emsp;&emsp;(ii) the fair market value of such goods and services may not account for more than 50 percent of the matching requirement under subparagraph (A) for the Corporation in any fiscal year.
 
 #### (C) Right of refusal
 
@@ -266,7 +272,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (B) Matching funds
 
-&emsp;&emsp;Any amount received by the Corporation from non-Federal sources in each of the fiscal years 2011 through 2020 that cannot be used to meet the matching requirement under paragraph (3)(A) for the fiscal year in which amount was collected may be carried forward and treated as having been received in the succeeding fiscal year for purposes of meeting the matching requirement of paragraph (3)(A) in such succeeding fiscal year.
+&emsp;&emsp;Any amount received by the Corporation from non-Federal sources in each of the fiscal years 2011 through 2027 that cannot be used to meet the matching requirement under paragraph (3)(A) for the fiscal year in which amount was collected may be carried forward and treated as having been received in the succeeding fiscal year for purposes of meeting the matching requirement of paragraph (3)(A) in such succeeding fiscal year.
 
 #### (e) Repealed. Pub. L. 113–235, div. B, title VI, §607, Dec. 16, 2014, 128 Stat. 2220
 
@@ -300,7 +306,7 @@ The Corporation shall—
 
 #### (h) to (j) Omitted
 
-(Pub. L. 111–145, §9, Mar. 4, 2010, 124 Stat. 56; Pub. L. 111–198, §5(b), July 2, 2010, 124 Stat. 1357; Pub. L. 113–235, div. B, title VI, §§602–605(a), 606, 607, Dec. 16, 2014, 128 Stat. 2218–2220.)
+(Pub. L. 111–145, §9, Mar. 4, 2010, 124 Stat. 56; Pub. L. 111–198, §5(b), July 2, 2010, 124 Stat. 1357; Pub. L. 113–235, div. B, title VI, §§602–605(a), 606, 607, Dec. 16, 2014, 128 Stat. 2218–2220; Pub. L. 116–94, div. I, title VIII, §§802–804, Dec. 20, 2019, 133 Stat. 3028, 3029.)
 
 #### References in Text
 
@@ -313,6 +319,28 @@ Section is comprised of section 9 of Pub. L. 111–145. Subsec. (h) of section 9
 Section was enacted as part of the United States Capitol Police Administrative Technical Corrections Act of 2009, and not as part of the International Travel Act of 1961 which comprises this chapter.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(2)(A)(ii). Pub. L. 116–94, §802(1)(A), inserted "or foodservice" after "restaurant".
+
+Subsec. (b)(2)(A)(v). Pub. L. 116–94, §802(1)(B), inserted ", such as outdoor recreation" before semicolon at end.
+
+Subsec. (b)(2)(A)(viii). Pub. L. 116–94, §802(1)(C), inserted "commercial or private" before "passenger air sector".
+
+Subsec. (b)(5)(A)(iii). Pub. L. 116–94, §802(2)(A), inserted "speaking conventions, sales missions," after "trade shows,".
+
+Subsec. (b)(5)(A)(vi). Pub. L. 116–94, §802(2)(B)–(D), added cl. (vi).
+
+Subsec. (b)(7)(C). Pub. L. 116–94, §802(3), substituted "5 days" for "3 days".
+
+Subsec. (c)(2). Pub. L. 116–94, §803(1), substituted "$450,000" for "$500,000".
+
+Subsec. (c)(3)(I) to (K). Pub. L. 116–94, §803(2), added subpars. (I) and (J) and redesignated former subpar. (I) as (K).
+
+Subsec. (d)(2)(B). Pub. L. 116–94, §804(1), substituted "2027" for "2020".
+
+Subsec. (d)(3)(B)(ii). Pub. L. 116–94, §804(2), substituted "50 percent" for "70 percent".
+
+Subsec. (d)(4)(B). Pub. L. 116–94, §804(3), substituted "2027" for "2020".
 
 <b>2014</b>—Subsec. (b)(2)(A). Pub. L. 113–235, §602(1), in introductory provisions, substituted "promotion or marketing" for "promotion and marketing" and inserted "At least 5 members of the board shall have experience working in United States multinational entities with marketing budgets. At least 2 members of the board shall be audit committee financial experts (as defined by the Securities and Exchange Commission in accordance with section 7265 of title 15). All members of the board shall be a current or former chief executive officer, chief financial officer, or chief marketing officer, or have held an equivalent management position." after "United States citizens."
 
@@ -353,4 +381,6 @@ Subsec. (d)(3)(A). Pub. L. 111–198, §5(b)(4), (5), substituted "fiscal year 2
 Subsec. (d)(4)(B). Pub. L. 111–198, §5(b)(6), substituted "fiscal year 2011, 2012, 2013, 2014, or 2015" for "fiscal year 2010, 2011, 2012, 2013, or 2014".
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the period.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "media."</i>
 

@@ -36,7 +36,7 @@ Grain on which an eligible processor has received a loan under this section may 
 
 #### (g) Terms and conditions of loan; security; nonrecourse loans
 
-Loans made under this section shall be made subject to such terms and conditions and subjectto such security as the Secretary deems appropriate, except that such loans may not be made as nonrecourse loans.
+Loans made under this section shall be made subject to such terms and conditions and subject to such security as the Secretary deems appropriate, except that such loans may not be made as nonrecourse loans.
 
 #### (h) Payment for cost of storage; repayment of loans
 

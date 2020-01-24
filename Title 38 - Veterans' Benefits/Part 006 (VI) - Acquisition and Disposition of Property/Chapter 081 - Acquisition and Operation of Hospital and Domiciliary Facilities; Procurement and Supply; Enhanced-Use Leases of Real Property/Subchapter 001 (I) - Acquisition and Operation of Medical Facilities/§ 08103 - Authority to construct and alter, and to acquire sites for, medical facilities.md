@@ -252,7 +252,7 @@ Elements.—Information submitted under paragraph (1) shall provide a detailed s
 
 "(h)
 
-Biennial Report of Comptroller General of the United States.—Not less frequently than once every 2 years until the termination date set forth in subsection (i), the Comptroller General of the United States shall submit to Congress a report on the donation agreements entered into under the pilot program.
+Biennial Report of Comptroller General of the United States.—Not less frequently than onceevery 2 years until the termination date set forth in subsection (i), the Comptroller General of the United States shall submit to Congress a report on the donation agreements entered into under the pilot program.
 
 "(i)
 

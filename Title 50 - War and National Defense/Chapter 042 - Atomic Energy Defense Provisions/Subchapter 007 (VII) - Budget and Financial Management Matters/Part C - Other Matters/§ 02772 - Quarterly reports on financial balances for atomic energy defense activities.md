@@ -2,7 +2,7 @@
 
 #### (a) Reports required
 
-Not later than 15 days after the end of each fiscal year quarter, the Secretary of Energy shall submit to the congressional defense committees a report on the financial balances for each atomic energy defense program at the budget control levels used in the report accompanying the most current Act appropriating funds for energy and water development.
+Not later than 15 days after the end of each fiscal year quarter, the Secretary of Energyshall submit to the congressional defense committees a report on the financial balances for each atomic energy defense program at the budget control levels used in the report accompanying the most current Act appropriating funds for energy and water development.
 
 #### (b) Elements
 

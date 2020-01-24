@@ -16,7 +16,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(B) develop a standardized process to determine the extent to which public or private programs and resources (including volunteers and programs and services of voluntary organizations) that have the capacity and actually meet such need;
 
-&emsp;&emsp;(C) specify a minimum proportion of the funds received by each area agency on aging in the State to carry out part B that will be expended (in the absence of a waiver under section 3026(c) or 3030c–3 of this title) by such area agency on aging to provide each of the categories of services specified in section 3026(a)(2) of this title.
+&emsp;&emsp;(C) specify a minimum proportion of the funds received by each area agency on aging in the State to carry out part B that will be expended (in the absence of a waiver under section 3026(c) or 3030c–3 of this title) by such area agency on aging to provide each ofthe categories of services specified in section 3026(a)(2) of this title.
 
 &emsp;(3) The plan shall—
 
@@ -70,7 +70,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;(11) The plan shall provide that with respect to legal assistance—
 
-&emsp;&emsp;(A) the plan contains assurances that area agencies on aging will (i) enter into contracts with providers of legal assistance which can demonstrate the experience or capacity to deliver legal assistance; (ii) include in any such contract provisions to assure that any recipient of funds under division (i) will be subject to specific restrictions and regulations promulgated under the Legal Services Corporation Act \[42 U.S.C. 2996 et seq.\] (other than restrictions and regulations governing eligibility for legal assistance under such Act and governing membership of local governing boards) as determined appropriate by the Assistant Secretary; and (iii) attempt to involve the private bar in legal assistance activities authorized under this subchapter, including groups within the private bar furnishing services to older individuals on a pro bono and reduced fee basis;
+&emsp;&emsp;(A) the plan contains assurances that area agencies on aging will (i) enter into contracts with providers of legal assistance which can demonstrate the experience or capacity to deliver legal assistance; (ii) include in any such contract provisions to assure that any recipient of funds under division (i) will be subject to specific restrictions and regulations promulgated under theLegal Services Corporation Act \[42 U.S.C. 2996 et seq.\] (other than restrictions and regulations governing eligibility for legal assistance under such Act and governing membership of local governing boards) as determined appropriate by the Assistant Secretary; and (iii) attempt to involve the private bar in legal assistance activities authorized under this subchapter, including groups within the private bar furnishing services to older individuals on a pro bono and reduced fee basis;
 
 &emsp;&emsp;(B) the plan contains assurances that no legal assistance will be furnished unless the grantee administers a program designed to provide legal assistance to older individuals with social or economic need and has agreed, if the grantee is not a Legal Services Corporation project grantee, to coordinate its services with existing Legal Services Corporation projects in the planning and service area in order to concentrate the use of funds provided under this subchapter on individuals with the greatest such need; and the area agency on aging makes a finding, after assessment, pursuant to standards for service promulgated by the Assistant Secretary, that any grantee selected is the entity best able to provide the particular services;
 
@@ -132,7 +132,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(B) inform the older individuals referred to in clauses (i) through (vi) of subparagraph (A), and the caretakers of such individuals, of the availability of such assistance.
 
-&emsp;(17) The plan shall provide, with respect to the needs of older individuals with severe disabilities, assurances that the State will coordinate planning, identification, assessment of needs, and service for older individuals withdisabilities with particular attention to individuals with severe disabilities with the State agencies with primary responsibility for individuals with disabilities, including severe disabilities, to enhance services and develop collaborative programs, where appropriate, to meet the needs of older individuals with disabilities.
+&emsp;(17) The plan shall provide, with respect to the needs of older individuals with severe disabilities, assurances that the State will coordinate planning, identification, assessment of needs, and service for older individuals with disabilities with particular attention to individuals with severe disabilities with the State agencies with primary responsibility for individuals with disabilities, including severe disabilities, to enhance services and develop collaborative programs, where appropriate, to meet the needs of older individuals with disabilities.
 
 &emsp;(18) The plan shall provide assurances that area agencies on aging will conduct efforts to facilitate the coordination of community-based, long-term care services, pursuant to section 3026(a)(7) of this title, for older individuals who—
 
@@ -176,7 +176,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(ii) an analysis of how such change may affect such individuals, including individuals with low incomes, individuals with greatest economic need, minority older individuals, older individuals residing in rural areas, and older individuals with limited English proficiency;
 
-&emsp;&emsp;(iii) an analysis of how the programs, policies, and services provided by the State can be improved, including coordinating with area agencies on aging, and how resource levels can be adjusted to meet the needs of the changing population of older individuals in the State; and
+&emsp;&emsp;(iii) an analysis of how the programs, policies, and services provided by the State canbe improved, including coordinating with area agencies on aging, and how resource levels can be adjusted to meet the needs of the changing population of older individuals in the State; and
 
 &emsp;&emsp;(iv) an analysis of how the change in the number of individuals age 85 and older in the State is expected to affect the need for supportive services.
 
@@ -448,7 +448,7 @@ Subsec. (a)(24). Pub. L. 102–375, §307(l), amended par. (24) generally. Prior
 
 &emsp;"(B) inform such individuals of the availability of such assistance."
 
-Subsec. (a)(30). Pub. L. 102–375, §307(m), amended par. (30) generally. Prior to amendment, par. (30) read as follows: "The plan shall provide assurances that if the State receives funds appropriated under section 3023(g) of this title, the State agency and area agencies onaging will expend such funds to carry out part G of this subchapter."
+Subsec. (a)(30). Pub. L. 102–375, §307(m), amended par. (30) generally. Prior to amendment, par. (30) read as follows: "The plan shall provide assurances that if the State receives funds appropriated under section 3023(g) of this title, the State agency and area agencies on aging will expend such funds to carry out part G of this subchapter."
 
 Subsec. (a)(31). Pub. L. 102–375, §307(n), amended par. (31) generally, substituting provisions relating to an area or State volunteer services coordinator for provisions that State agency make funds available to eligible area agencies on aging based on number of older individuals with greatest economic need and inadequacy of outreach activities and application assistance, that State agency require area agency to submit application describing and evaluating activities for which funds were sought, that State agency distribute to area agencies certain eligibility information, and that State agency submit to Commissioner a report on evaluations required to be submitted to it by area agencies.
 
@@ -612,7 +612,7 @@ Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–47
 
 #### Assessment of Unsatisfied Demand for Supportive Services Provided at Senior Centers and Other Sites
 
-Pub. L. 100–175, title I, §111, Nov. 29, 1987, 101 Stat. 932, directed Commissioner on Aging, not later than Sept. 30, 1989, to submit to Congress a report assessing national unmet need for supportive services, nutrition services, and multipurpose senior centers by summarizing in detail for each State the results of the most recent evaluation conducted by the State agency under the then current plan submitted under 42 U.S.C.3027(a)(3)(A) and containing recommendations of the Secretary with respect to need for administrative action and legislation relating to satisfying the demand for supportive services provided at senior centers and other sites.
+Pub. L. 100–175, title I, §111, Nov. 29, 1987, 101 Stat. 932, directed Commissioner on Aging, not later than Sept. 30, 1989, to submit to Congress a report assessing national unmet need for supportive services, nutrition services, and multipurpose senior centers by summarizing in detail for each State the results of the most recent evaluation conducted by the State agency under the then current plan submitted under 42 U.S.C. 3027(a)(3)(A) and containing recommendations of the Secretary with respect to need for administrative action and legislation relating to satisfying the demand for supportive services provided at senior centers and other sites.
 
 #### Study of Ombudsman Program
 

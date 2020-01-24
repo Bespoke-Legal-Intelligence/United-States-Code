@@ -60,7 +60,7 @@ Procedures.—A gift or donation in accordance with subsection (a) may be made a
 
 &emsp;(3) any property acquired by gift or donation shall be revested in the grantor or successors in interest if such property is not required for the alignment chosen after public hearings, if required, and completion of the environmental document.
 
-(Added Pub. L. 93–87, title I, §145(a), Aug. 13, 1973, 87 Stat. 273; amended Pub. L. 93–643, §112,Jan. 4, 1975, 88 Stat. 2285; Pub. L. 100–17, title I, §146(a), Apr. 2, 1987, 101 Stat. 179; Pub. L. 104–59, title III, §322, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–178, title I, §§1212(a)(2)(A)(i), 1301(b)–(d)(1), June 9, 1998, 112 Stat. 193, 225, 226; Pub. L. 109–59, title I, §1902, Aug. 10, 2005, 119 Stat. 1464.)
+(Added Pub. L. 93–87, title I, §145(a), Aug. 13, 1973, 87 Stat. 273; amended Pub. L. 93–643, §112, Jan. 4, 1975, 88 Stat. 2285; Pub. L. 100–17, title I, §146(a), Apr. 2, 1987, 101 Stat. 179; Pub. L. 104–59, title III, §322, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–178, title I, §§1212(a)(2)(A)(i), 1301(b)–(d)(1), June 9, 1998, 112 Stat. 193, 225, 226; Pub. L. 109–59, title I, §1902, Aug. 10, 2005, 119 Stat. 1464.)
 
 #### References in Text
 
@@ -80,7 +80,7 @@ Subsec. (b)(1), (2). Pub. L. 105–178, §1301(b)(2), added pars. (1) and (2) an
 
 "(1)
 
-General rule.—Notwithstanding any provision of this title, the State matching share for a project with respect to which Federal assistance is provided out of the Highway Trust Fund (other than the Mass Transit Account) may be credited by the fair market value of land incorporated into the project and lawfully donated to the State after the date of the enactment of this subsection.
+General rule.—Notwithstanding any provision of this title, the State matching share for a projectwith respect to which Federal assistance is provided out of the Highway Trust Fund (other than the Mass Transit Account) may be credited by the fair market value of land incorporated into the project and lawfully donated to the State after the date of the enactment of this subsection.
 
 "(2)
 

@@ -68,7 +68,7 @@
 
 #### (1) In general
 
-&emsp;Not later than December 31 of each year, the Secretary shall prepare, and submit to the President and to the Committee on Educationand the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report on the activities funded under this chapter to improve the access of individuals with disabilities to assistive technology devices and assistive technology services.
+&emsp;Not later than December 31 of each year, the Secretary shall prepare, and submit to the President and to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report on the activities funded under this chapter to improve the access of individuals with disabilities to assistive technology devices and assistive technology services.
 
 #### (2) Contents
 
@@ -105,4 +105,8 @@ Subsec. (a)(2). Pub. L. 113–128, §491(o)(3)(A)(ii), substituted "The Administ
 Subsec. (a)(3). Pub. L. 113–128, §491(o)(3)(A)(iii), substituted "the Administrator of the Administration for Community Living" for "the Rehabilitation Services Administration".
 
 Subsec. (c)(5). Pub. L. 113–128, §491(o)(3)(B), substituted "Health and Human Services" for "Education".
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

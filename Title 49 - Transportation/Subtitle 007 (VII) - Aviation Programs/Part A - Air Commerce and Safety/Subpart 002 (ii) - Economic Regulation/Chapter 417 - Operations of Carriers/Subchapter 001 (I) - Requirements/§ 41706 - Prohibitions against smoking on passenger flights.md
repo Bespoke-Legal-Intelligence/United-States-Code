@@ -38,7 +38,7 @@ Inclusion.—The use of an electronic cigarette shall be treated as smoking for 
 
 &emsp;(2)
 
-Electronic cigarette defined.—In this section, the term "electronic cigarette"means a device that delivers nicotine to a user of the device in the form of a vapor that is inhaled to simulate the experience of smoking.
+Electronic cigarette defined.—In this section, the term "electronic cigarette" means a device that delivers nicotine to a user of the device in the form of a vapor that is inhaled to simulate the experience of smoking.
 
 (e)
 

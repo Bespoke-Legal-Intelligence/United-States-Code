@@ -10,7 +10,7 @@ Eligibility.—An individual is eligible to participate in the Specialty Educati
 
 &emsp;(3) is—
 
-&emsp;&emsp;(A) recently graduated from an accredited medical or osteopathic school and matchedto an accredited residency program in a medical specialty described in section 7692 of this title; or
+&emsp;&emsp;(A) recently graduated from an accredited medical or osteopathic school and matched to an accredited residency program in a medical specialty described in section 7692 of this title; or
 
 &emsp;&emsp;(B) a physician in training in a medical specialty described in section 7692 of this title with more than 2 years remaining in such training.
 

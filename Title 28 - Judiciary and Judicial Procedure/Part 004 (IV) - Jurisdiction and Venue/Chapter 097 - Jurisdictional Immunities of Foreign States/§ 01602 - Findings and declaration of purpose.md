@@ -1,12 +1,12 @@
 ### §1602. Findings and declaration of purpose
 
-The Congress finds that the determination by United States courts of the claims of foreign states to immunity from the jurisdiction of such courts would serve the interests of justice and would protect the rights of both foreign states and litigants in United States courts. Under international law, states are not immune from the jurisdiction of foreign courts insofar as their commercial activities are concerned, and their commercial property may be levied upon for the satisfaction of judgments rendered against them in connection with their commercial activities. Claims of foreign states to immunity should henceforth be decided by courts of the United States and of the States in conformity with the principles set forth in this chapter.
+The Congress finds that the determination by United States courts of the claims of foreignstates to immunity from the jurisdiction of such courts would serve the interests of justice and would protect the rights of both foreign states and litigants in United States courts. Under international law, states are not immune from the jurisdiction of foreign courts insofar as their commercial activities are concerned, and their commercial property may be levied upon for the satisfaction of judgments rendered against them in connection with their commercial activities. Claims of foreign states to immunity should henceforth be decided by courts of the United States and of the States in conformity with the principles set forth in this chapter.
 
 (Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892.)
 
 #### Effective Date
 
-Pub. L. 94–583, §8, Oct. 21, 1976, 90 Stat. 2898, provided that: "This Act \[enacting this chapter and section 1330 of this title, amending sections 1332, 1391, and 1441 ofthis title, and enacting provisions set out as notes under this section and section 1 of this title\] shall take effect ninety days after the date of its enactment \[Oct. 21, 1976\]."
+Pub. L. 94–583, §8, Oct. 21, 1976, 90 Stat. 2898, provided that: "This Act \[enacting this chapter and section 1330 of this title, amending sections 1332, 1391, and 1441 of this title, and enacting provisions set out as notes under this section and section 1 of this title\] shall take effect ninety days after the date of its enactment \[Oct. 21, 1976\]."
 
 #### Short Title
 

@@ -48,7 +48,7 @@ Duties.—The Board shall—
 
 &emsp;(2) within one year after the date of enactment of this subsection, and on an ongoing basis thereafter, review any cost accounting standards established under section 1502 of this title and conform such standards, where practicable, to Generally Accepted Accounting Principles; and
 
-&emsp;(3) annually review disputes involving such standards brought to the boards established in section 7105 of this title or Federal courts, and consider whether greater clarity in such standards could avoid such disputes.
+&emsp;(3) annually review disputes involving such standards brought to the boards established insection 7105 of this title or Federal courts, and consider whether greater clarity in such standards could avoid such disputes.
 
 (d)
 
@@ -184,7 +184,11 @@ Subsec. (i)(1). Pub. L. 114–328, §820(a)(3)(A), substituted "subsection (h)(1
 
 Subsec. (i)(3). Pub. L. 114–328, §820(a)(3)(B), substituted "subsection (h)(2)" for "subsection (e)(2)".
 
+#### Change of Name
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–328 effective on Oct. 1, 2018, see section 820(d) of Pub. L. 114–328, set out as an Effective Date note under section 190 of Title 10, Armed Forces.
+Pub. L. 114–328, div. A, title VIII, §820(d), Dec. 23, 2016, 130 Stat. 2276, provided that: "The amendments made by this section \[enacting section 190 of Title 10, Armed Forces, and amending this section and section 1502 of this title\] shall take effect on October 1, 2018."
 

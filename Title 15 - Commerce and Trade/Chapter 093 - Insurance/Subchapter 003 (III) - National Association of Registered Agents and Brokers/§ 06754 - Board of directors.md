@@ -12,7 +12,7 @@ The Board shall have such of the powers and authority of the Association as may 
 
 #### (1) In general
 
-&emsp;The Board shall consist of 13 members who shall be appointed by the President, by and with the advice and consent of the Senate, in accordance with the procedures established under Senate Resolution 116 of the 112th Congress, of whom—
+&emsp;The Board shall consist of 13 members who shall be appointed by the President, by andwith the advice and consent of the Senate, in accordance with the procedures established under Senate Resolution 116 of the 112th Congress, of whom—
 
 &emsp;&emsp;(A) 8 shall be State insurance commissioners appointed in the manner provided in paragraph (2), 1 of whom shall be designated by the President to serve as the chairperson of the Board until the Board elects one such State insurance commissioner Board member to serve as the chairperson of the Board;
 
@@ -46,7 +46,7 @@ The Board shall have such of the powers and authority of the Association as may 
 
 #### (3) Private sector representatives
 
-&emsp;In making any appointment pursuant to subparagraph (B) or (C) of paragraph (1), thePresident may seek recommendations for candidates from groups representing the category of individuals described, which shall not be binding on the President.
+&emsp;In making any appointment pursuant to subparagraph (B) or (C) of paragraph (1), the President may seek recommendations for candidates from groups representing the category of individuals described, which shall not be binding on the President.
 
 #### (4) State insurance commissioner defined
 

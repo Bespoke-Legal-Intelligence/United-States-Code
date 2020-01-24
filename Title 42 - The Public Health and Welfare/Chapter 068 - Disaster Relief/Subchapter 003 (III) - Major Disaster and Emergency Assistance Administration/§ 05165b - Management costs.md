@@ -16,7 +16,7 @@ In this section, the term "management cost" includes any indirect cost, any dire
 
 #### (A) Hazard mitigation
 
-&emsp;&emsp;A grantee under section 5170c of this title may be reimbursed not more than 15 percentof the total amount of the grant award under such section of which not more than 10 percent may be used by the grantee and 5 percent by the subgrantee for such costs.
+&emsp;&emsp;A grantee under section 5170c of this title may be reimbursed not more than 15 percent of the total amount of the grant award under such section of which not more than 10 percent may be used by the grantee and 5 percent by the subgrantee for such costs.
 
 #### (B) Public assistance
 

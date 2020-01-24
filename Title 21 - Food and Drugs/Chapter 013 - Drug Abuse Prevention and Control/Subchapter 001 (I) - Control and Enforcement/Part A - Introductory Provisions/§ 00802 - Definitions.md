@@ -96,7 +96,7 @@ As used in this subchapter:
 
 &emsp;(C) protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
 
-(26) The term "State" means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+(26) The term "State" means a State of the United States, the District of Columbia, and anycommonwealth, territory, or possession of the United States.
 
 (27) The term "ultimate user" means a person who has lawfully obtained, and who possesses, a controlled substance for his own use or for the use of a member of his household or for an animal owned by him or by a member of his household.
 
@@ -204,7 +204,7 @@ As used in this subchapter:
 
 &emsp;(J) Hydrochloric gas.
 
-(36) The term "regular customer" means, with respect to a regulated person, a customer with whom the regulated person has an established business relationship that is reported to the Attorney General.
+(36) The term "regular customer" means, with respect to a regulated person, a customer withwhom the regulated person has an established business relationship that is reported to the Attorney General.
 
 (37) The term "regular importer" means, with respect to a listed chemical, a person that has an established record as an importer of that listed chemical that is reported to the Attorney General.
 
@@ -422,7 +422,7 @@ As used in this subchapter:
 
 (ii) If any person prescribes, dispenses, or distributes such steroid for human use, such person shall be considered to have prescribed, dispensed, or distributed an anabolic steroid within the meaning of subparagraph (A).
 
-(C)(i) Subject to clause (ii), a drug or hormonal substance (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone) that is not listed in subparagraph (A) and is derived from, or has a chemical structure substantially similar to, 1 or more anabolic steroids listed in subparagraph (A) shall be considered to be an anabolic steroid for purposes of this chapter if—
+(C)(i) Subject to clause (ii), a drug or hormonal substance (other than estrogens,progestins, corticosteroids, and dehydroepiandrosterone) that is not listed in subparagraph (A) and is derived from, or has a chemical structure substantially similar to, 1 or more anabolic steroids listed in subparagraph (A) shall be considered to be an anabolic steroid for purposes of this chapter if—
 
 &emsp;(I) the drug or substance has been created or manufactured with the intent of producing a drug or other substance that either—
 
@@ -496,7 +496,7 @@ As used in this subchapter:
 
 &emsp;(B) does not include—
 
-&emsp;&emsp;(i) manufacturers or distributors registered under subsection (a), (b), (d), or (e) of section 823 of this title who do not dispense controlled substances to an unregistered individual or entity;
+&emsp;&emsp;(i) manufacturers or distributors registered under subsection (a), (b), (d), or (e) ofsection 823 of this title who do not dispense controlled substances to an unregistered individual or entity;
 
 &emsp;&emsp;(ii) nonpharmacy practitioners who are registered under section 823(f) of this title and whose activities are authorized by that registration;
 
@@ -582,7 +582,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(III) during which the primary care practitioner of the patient or a practitioner otherwise practicing telemedicine within the meaning of this paragraph is unable to provide care or consultation; and
 
-&emsp;&emsp;&emsp;(IV) that requires immediate intervention by a health care practitioner using controlled substances to prevent what thepractitioner reasonably believes in good faith will be imminent and serious clinical consequences, such as further injury or death; and
+&emsp;&emsp;&emsp;(IV) that requires immediate intervention by a health care practitioner using controlled substances to prevent what the practitioner reasonably believes in good faith will be imminent and serious clinical consequences, such as further injury or death; and
 
 &emsp;&emsp;(ii) by a practitioner that—
 
@@ -628,13 +628,13 @@ As used in this subchapter:
 
 &emsp;(B) any offense that would be a felony violation of section 113 of title 18, if the offense were committed in the special maritime and territorial jurisdiction of the United States, for which the offender served a term of imprisonment of more than 12 months.
 
-(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821; Pub. L. 113–260, §2(a), Dec. 18, 2014, 128 Stat. 2929; Pub. L. 114–198, title III, §303(a)(2), July 22, 2016, 130 Stat. 722; Pub. L. 115–271, title III, §§3202(c), 3292(a), Oct. 24, 2018, 132 Stat. 3945, 3956; Pub. L. 115–334, title XII, §12619(a), Dec. 20, 2018, 132 Stat. 5018; Pub. L. 115–391, title IV, §401(a)(1), Dec. 21, 2018, 132 Stat. 5220.)
+(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17,1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821; Pub. L. 113–260, §2(a), Dec. 18, 2014, 128 Stat. 2929; Pub. L. 114–198, title III, §303(a)(2), July 22, 2016, 130 Stat. 722; Pub. L. 115–271, title III, §§3202(c), 3292(a), Oct. 24, 2018, 132 Stat. 3945, 3956; Pub. L. 115–334, title XII, §12619(a), Dec. 20, 2018, 132 Stat. 5018; Pub. L. 115–391, title IV, §401(a)(1), Dec. 21, 2018, 132 Stat. 5220.)
 
 #### References in Text
 
 Schedules I, II, III, IV, and V, referred to in pars. (6), (14), (32)(A), (52)(B)(viii), (55), and (56), are set out in section 812(c) of this title.
 
-This subchapter, referred to in introductory provisions and in pars. (34), (35), (39)(A)(iii), (vi), and (54), was in the original "this title", meaning title II of Pub. L.91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in introductory provisions and in pars. (34), (35), (39)(A)(iii), (vi), and (54), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 Subchapter II, referred to in par. (39)(A)(iii), (vi), was in the original "title III", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 

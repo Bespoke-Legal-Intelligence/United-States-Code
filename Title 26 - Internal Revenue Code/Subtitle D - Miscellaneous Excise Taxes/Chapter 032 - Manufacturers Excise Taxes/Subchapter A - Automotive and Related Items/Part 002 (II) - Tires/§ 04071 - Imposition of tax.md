@@ -22,7 +22,7 @@ For the purposes of subsection (a), if an article imported into the United State
 
 On and after October 1, 2022, the taxes imposed by subsection (a) shall not apply.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, §204(a), 70 Stat. 388; Pub. L. 86–440, §1(a), Apr. 22, 1960, 74 Stat. 80; Pub. L. 87–61, title II, §202, June 29, 1961, 75 Stat. 124; Pub. L. 89–523, §1(a), Aug. 1, 1966, 80 Stat. 331; Pub. L. 91–605, title III, §303(a)(5), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 92–178, title IV, §401(f), Dec. 10, 1971, 85 Stat. 533; Pub. L. 94–280, title III, §303(a)(5), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–599, title V, §502(a)(4), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 96–222, title I, §108(c)(2)(C), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(a)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(d), Dec. 24, 1980, 94 Stat. 3486; Pub. L. 97–424, title V, §§514(a), 516(a)(2), Jan. 6, 1983, 96 Stat. 2181, 2182; Pub. L. 98–369, div. A, title VII, §735(c)(2), July 18, 1984, 98 Stat. 982; Pub. L. 100–17, title V, §502(a)(3), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(2), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(2), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(a)(1)(E), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, §869(a), (d)(1), Oct. 22, 2004, 118 Stat. 1623; Pub. L. 109–59, title XI, §11101(a)(1)(E), Aug. 10, 2005, 119 Stat. 1943; Pub. L. 112–30, title I, §142(a)(2)(C), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(a)(2)(C), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(a)(2)(C), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(2)(C), July 6, 2012, 126 Stat. 844; Pub. L.114–94, div. C, title XXXI, §31102(a)(2)(C), Dec. 4, 2015, 129 Stat. 1727.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, §204(a), 70 Stat. 388; Pub. L. 86–440, §1(a), Apr. 22, 1960, 74 Stat. 80; Pub. L. 87–61, title II, §202, June 29, 1961, 75 Stat. 124; Pub. L. 89–523, §1(a), Aug. 1, 1966, 80 Stat. 331; Pub. L. 91–605, title III, §303(a)(5), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 92–178, title IV, §401(f), Dec. 10, 1971, 85 Stat. 533; Pub. L. 94–280, title III, §303(a)(5), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–599, title V, §502(a)(4), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 96–222, title I, §108(c)(2)(C), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(a)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(d), Dec. 24, 1980, 94 Stat. 3486; Pub. L. 97–424, title V, §§514(a), 516(a)(2), Jan. 6, 1983, 96 Stat. 2181, 2182; Pub. L. 98–369, div. A, title VII, §735(c)(2), July 18, 1984, 98 Stat. 982; Pub. L. 100–17, title V, §502(a)(3), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(2), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(2), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(a)(1)(E), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, §869(a), (d)(1), Oct. 22, 2004, 118 Stat. 1623; Pub. L. 109–59, title XI, §11101(a)(1)(E), Aug. 10, 2005, 119 Stat. 1943; Pub. L. 112–30, title I, §142(a)(2)(C), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(a)(2)(C), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(a)(2)(C), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(2)(C), July 6, 2012, 126 Stat. 844; Pub. L. 114–94, div. C, title XXXI, §31102(a)(2)(C), Dec. 4, 2015, 129 Stat. 1727.)
 
 #### Amendments
 
@@ -186,17 +186,5 @@ Amendment by act June 29, 1956, effective July 1, 1956, see section 211 of act J
 
 #### Allowance of Credit or Refund of Overpayment of Tax Imposed
 
-Pub. L. 96–596, §4(b), Dec. 24, 1980, 94 Stat. 3475, provided that:
-
-"(b)
-
-Determination of Overpayment.—
-
-&emsp;"(1)
-
-In general.—The determination of the extent to which any overpayment of tax imposed by section 4071(a)(1) or (2) or section 4071(b) has arisen by reason of an adjustment of a tire after the original sale pursuant to a warranty or guarantee, and the allowance of a credit or refund of any such overpayment, shall be determined in accordance with the principles set forth in regulations and rulings relating thereto to the extent in effect on March 31, 1978.
-
-&emsp;"(2)
-
-Effective date.—This subsection shall apply to the adjustment of any tire after March 31, 1978, and prior to January 1, 1983."
+Pub. L. 96–596, §4(b), Dec. 24, 1980, 94 Stat. 3475, provided that, applicable to any tire adjustment between Mar. 31, 1978, and Jan. 1, 1983, the determination of any overpayment of tax imposed by former subsec. (a)(1) and (2) or subsec. (b) of this section arising by reason of an adjustment of a tire after the original sale pursuant to a warranty or guarantee, and the allowance of a credit or refund of any such overpayment, would be determined with the principles set forth in regulations and rulings in effect on Mar. 31, 1978.
 

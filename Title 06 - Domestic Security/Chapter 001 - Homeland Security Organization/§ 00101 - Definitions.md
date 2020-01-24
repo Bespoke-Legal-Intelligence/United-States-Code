@@ -94,6 +94,16 @@ Pub. L. 109–295 inserted "fire," after "safety,".
 
 Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: "This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\]."
 
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–108, §1, Jan. 24, 2020, 133 Stat. 3294, provided that: "This Act \[enacting section 609a of this title and amending section 603 of this title\] may be cited as the 'Securing American Nonprofit Organizations Against Terrorism Act of 2019'."
+
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–94, div. L, §101, Dec. 20, 2019, 133 Stat. 3089, provided that: "This division \[amending section 659 of this title\] may be cited as the 'DHS Cyber Hunt and Incident Response Teams Act of 2019'."
+
+Pub. L. 116–2, §1, Jan. 18, 2019, 133 Stat. 5, provided that: "This Act \[amending provisions set out as a note under section 621 of this title\] may be cited as the 'Chemical Facility Anti-Terrorism Standards Program Extension Act'."
+
 #### Short Title of 2018 Amendment
 
 Pub. L. 115–387, §1, Dec. 21, 2018, 132 Stat. 5162, provided that: "This Act \[enacting sections 350, 590, 591, 591g, 591h, 596b, and 597 of this title, amending sections 113, 195b, 195c, 315, 321q, 592, 593, 594, 596, and 596a of this title, repealing sections 321e, 591, and 595 of this title, and enacting provisions set out as notes under section 591 of this title\] may be cited as the 'Countering Weapons of Mass Destruction Act of 2018'."
@@ -162,7 +172,7 @@ Pub. L. 111–376, §1, Jan. 4, 2011, 124 Stat. 4104, provided that: "This Act \
 
 Pub. L. 111–271, §1, Oct. 12, 2010, 124 Stat. 2852, provided that: "This Act \[enacting section 613 of this title\] may be cited as the 'Redundancy Elimination and Enhanced Performance for Preparedness Grants Act'."
 
-Pub. L. 111–258, §1, Oct. 7, 2010, 124 Stat. 2648, provided that: "This Act \[enacting section 124m of this title and section 435d of Title 50, War and National Defense, amending sections 121 and 124k of this title and section 403–1 of Title 50, and enacting provisions set out as notes under section 124m of this title and sections 435 and 435d of Title 50\] may be cited as the 'Reducing Over-Classification Act'."
+Pub. L. 111–258, §1, Oct. 7, 2010, 124 Stat. 2648, provided that: "This Act \[enacting section 124m of this title and section 435d of Title 50, War and National Defense, amending sections 121 and 124k of this title and section 403–1 of Title 50, and enacting provisions set out as notes under section 124m of this title and sections 435and 435d of Title 50\] may be cited as the 'Reducing Over-Classification Act'."
 
 Pub. L. 111–245, §1, Sept. 30, 2010, 124 Stat. 2620, provided that: "This Act \[enacting section 321n of this title, amending sections 453 and 464 of this title, and repealing section 464a of this title\] may be cited as the 'First Responder Anti-Terrorism Training Resources Act'."
 
@@ -170,7 +180,7 @@ Pub. L. 111–140, §1, Feb. 16, 2010, 124 Stat. 31, provided that: "This Act \[
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–412, §1, Oct. 14, 2008, 122 Stat. 4336, provided that: "This Act \[amending section 609 of this title\] may be cited as the 'Personnel Reimbursementfor Intelligence Cooperation and Enhancement of Homeland Security Act of 2008' or the 'PRICE of Homeland Security Act'."
+Pub. L. 110–412, §1, Oct. 14, 2008, 122 Stat. 4336, provided that: "This Act \[amending section 609 of this title\] may be cited as the 'Personnel Reimbursement for Intelligence Cooperation and Enhancement of Homeland Security Act of 2008' or the 'PRICE of Homeland Security Act'."
 
 #### Short Title of 2007 Amendment
 
@@ -244,7 +254,7 @@ Members.—The Commission shall be composed of 10 members, of whom—
 
 &emsp;"(1) 1 member shall be appointed by the President, who shall serve as chairman of the Commission;
 
-&emsp;"(2) 1 member shall be appointed by the leader of the Senate (majority or minority leader, as the casemay be) of the Democratic Party, in consultation with the leader of the House of Representatives (majority or minority leader, as the case may be) of the Democratic Party, who shall serve as vice chairman of the Commission;
+&emsp;"(2) 1 member shall be appointed by the leader of the Senate (majority or minority leader, as the case may be) of the Democratic Party, in consultation with the leader of the House of Representatives (majority or minority leader, as the case may be) of the Democratic Party, who shall serve as vice chairman of the Commission;
 
 &emsp;"(3) 2 members shall be appointed by the senior member of the Senate leadership of the Democratic Party;
 
@@ -502,7 +512,7 @@ Transfer From the National Foreign Intelligence Program.—Of the amounts author
 
 "(b)
 
-Additional Funding.—In addition to the amounts made available to the Commission under subsection (a) and under chapter 2 of title II of the Emergency Wartime Supplemental Appropriations Act, 2003\(Public Law 108–11; 117 Stat. 591), of the amounts appropriated for the programs and activities of the Federal Government for fiscal year 2004 that remain available for obligation, not more than $1,000,000 shall be available for transfer to the Commission for purposes of the activities of the Commission under this title.
+Additional Funding.—In addition to the amounts made available to the Commission under subsection (a) and under chapter 2 of title II of the Emergency Wartime Supplemental Appropriations Act, 2003 (Public Law 108–11; 117 Stat. 591), of the amounts appropriated for the programs and activities of the Federal Government for fiscal year 2004 that remain available for obligation, not more than $1,000,000 shall be available for transfer to the Commission for purposes of the activities of the Commission under this title.
 
 "(c)
 

@@ -2,7 +2,7 @@
 
 #### (a) Allowance of credit
 
-In the case of an individual, there shall be allowed as a credit against the tax imposed bythis chapter for the taxable year the amount equal to the sum of—
+In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year the amount equal to the sum of—
 
 &emsp;(1) the American Opportunity Tax Credit, plus
 
@@ -26,7 +26,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 #### (B) Credit allowed for year only if individual is at least ½ time student for portion of year
 
-&emsp;&emsp;The American Opportunity Tax Credit under subsection (a)(1) shall not be allowed for a taxable year with respect to the qualified tuition and related expenses of an individual unless such individual is an eligible student for at least one academic period which begins during such year.
+&emsp;&emsp;The American Opportunity Tax Credit under subsection (a)(1) shall not be allowedfor a taxable year with respect to the qualified tuition and related expenses of an individual unless such individual is an eligible student for at least one academic period which begins during such year.
 
 #### (C) Credit allowed only for first 4 years of postsecondary education
 
@@ -108,7 +108,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 #### (3) Modified adjusted gross income
 
-&emsp;For purposes of this subsection, the term "modified adjusted gross income" means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
+&emsp;For purposes of this subsection, the term "modified adjusted gross income" means theadjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
 
 #### (e) Election not to have section apply
 
@@ -176,7 +176,7 @@ For purposes of this section—
 
 #### (2) Adjustment for certain scholarships, etc.
 
-&emsp;The amount of qualified tuition and related expenses otherwise taken into account under subsection (a) with respect to an individual for an academic period shall be reduced (beforethe application of subsections (b), (c), and (d)) by the sum of any amounts paid for the benefit of such individual which are allocable to such period as—
+&emsp;The amount of qualified tuition and related expenses otherwise taken into account under subsection (a) with respect to an individual for an academic period shall be reduced (before the application of subsections (b), (c), and (d)) by the sum of any amounts paid for the benefit of such individual which are allocable to such period as—
 
 &emsp;&emsp;(A) a qualified scholarship which is excludable from gross income under section 117,
 
@@ -196,7 +196,7 @@ For purposes of this section—
 
 #### (4) Treatment of certain prepayments
 
-&emsp;If qualified tuition and related expenses are paid by the taxpayer during a taxable year for an academic period which begins during the first 3 months following such taxable year, such academic period shall be treated for purposes of this section as beginning during such taxable year.
+&emsp;If qualified tuition and related expenses are paid by the taxpayer during a taxable year foran academic period which begins during the first 3 months following such taxable year, such academic period shall be treated for purposes of this section as beginning during such taxable year.
 
 #### (5) Denial of double benefit
 
@@ -344,7 +344,7 @@ Amendment by section 208(a)(2) of Pub. L. 114–113 applicable to taxable years 
 
 Pub. L. 114–113, div. Q, title II, §211(c)(1), Dec. 18, 2015, 129 Stat. 3085, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2015."
 
-Pub. L. 114–27, title VIII, §804(d), June 29, 2015, 129 Stat. 416, provided that: "The amendments made bythis section \[amending this section and sections 222 and 6050S of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[June 29, 2015\]."
+Pub. L. 114–27, title VIII, §804(d), June 29, 2015, 129 Stat. 416, provided that: "The amendments made by this section \[amending this section and sections 222 and 6050S of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[June 29, 2015\]."
 
 #### Effective Date of 2014 Amendment
 
@@ -366,7 +366,7 @@ Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
+Amendment by Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1004(d) of Pub. L. 111–5, set out as an Effective and TerminationDates of 2009 Amendment note under section 24 of this title.
 
 #### Effective Date of 2001 Amendment
 

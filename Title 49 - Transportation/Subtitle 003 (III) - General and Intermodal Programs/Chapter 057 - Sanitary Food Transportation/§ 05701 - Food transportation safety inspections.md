@@ -24,7 +24,7 @@ In general.—The Secretary of Transportation shall develop and carry out a trai
 
 &emsp;&emsp;(B)
 
-Conduct.—In carrying out this paragraph, the Secretary of Transportation shall train inspectors, including Department of Transportation personnel, State employees described under subsection (c), or personnel paid with funds authorized under sections 31102 and 31104, in the recognition of adulteration problems associated with the transportation of cosmetics, devices, drugs, food, and food additives and in the procedures for obtaining assistance of the appropriate departments, agencies, and instrumentalities of the Government and State authorities to support the enforcement.
+Conduct.—In carrying out this paragraph, the Secretary of Transportation shall train inspectors, including Department of Transportation personnel, State employeesdescribed under subsection (c), or personnel paid with funds authorized under sections 31102 and 31104, in the recognition of adulteration problems associated with the transportation of cosmetics, devices, drugs, food, and food additives and in the procedures for obtaining assistance of the appropriate departments, agencies, and instrumentalities of the Government and State authorities to support the enforcement.
 
 &emsp;(3)
 

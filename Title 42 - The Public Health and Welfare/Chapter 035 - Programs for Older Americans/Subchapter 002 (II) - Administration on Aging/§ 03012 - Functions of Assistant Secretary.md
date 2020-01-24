@@ -40,7 +40,7 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(14) develop, in coordination with other agencies (including the Health Resources and Services Administration), a national plan for meeting the needs for trained personnel in the field of aging, and for training persons for carrying out programs related to the objectives of this chapter, and conduct and provide for the conducting of such training;
 
-&emsp;(15) consult with national organizations representing minority individuals to develop and disseminate training packages and to provide technical assistance efforts designed to assist State and area agencies on aging, and service providers, in providing services to older individuals with greatest economic need or individuals with greatest social need, with particular attention to and specific objectives for providing services to low-income minority individuals and older individuals residing in rural areas;
+&emsp;(15) consult with national organizations representing minority individuals to develop and disseminate training packages and to provide technical assistance efforts designed to assist State and area agencies on aging, and service providers, in providing services to older individuals with greatest economic need or individuals with greatest social need, with particular attention to and specific objectives forproviding services to low-income minority individuals and older individuals residing in rural areas;
 
 &emsp;(16) collect for each fiscal year, for fiscal years beginning after September 30, 1988, directly or by contract, statistical data regarding programs and activities carried out with funds provided under this chapter, including—
 
@@ -168,7 +168,7 @@ To promote the development and implementation of comprehensive, coordinated syst
 
 &emsp;&emsp;&emsp;(ii) as appropriate, for a person who was appointed by the individual, or is legally acting on the individual's behalf, in order to represent or advise the individual in financial or service coordination matters (referred to in this paragraph as a "representative" of the individual), to direct and control the receipt of those services; and
 
-&emsp;&emsp;(C) assist an older individual (or, as appropriate, a representative of the individual) todevelop a plan for long-term support, including selecting, budgeting for, and purchasing home and community-based long-term care and supportive services;
+&emsp;&emsp;(C) assist an older individual (or, as appropriate, a representative of the individual) to develop a plan for long-term support, including selecting, budgeting for, and purchasing home and community-based long-term care and supportive services;
 
 &emsp;(5) provide for the Administration to play a lead role with respect to issues concerning home and community-based long-term care, including—
 
@@ -362,7 +362,7 @@ Subsec. (g). Pub. L. 114–144, §3(b)(3), added subsec. (g).
 
 Subsec. (a)(12). Pub. L. 109–365, §202(1)(B), added par. (12) and struck out former par. (12) which read as follows: "carry on a continuing evaluation of the programs and activities related to the objectives of this chapter, with particular attention to the impact of medicare and medicaid, the Age Discrimination in Employment Act of 1967, and the programs of the National Housing Act relating to housing for older individuals and the setting of standards for the licensing of nursing homes, intermediate care homes, and other facilities providing care for such individuals;".
 
-Subsec. (a)(20). Pub. L. 109–365, §202(1)(C), added par. (20) and struck out former par. (20) which read as follows: "encourage, and provide technical assistance to, States and area agencies on aging to carry out outreach to inform older individuals with greatest economic need who may be eligible to receive, but are not receiving, supplemental security income benefits under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.) (or assistance under a State plan program under such title), medical assistance under title XIX of such Act (42 U.S.C. 1396 et seq.), and benefits under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), of the requirements for eligibility to receive such benefits and such assistance;".
+Subsec. (a)(20). Pub. L. 109–365, §202(1)(C), added par. (20) and struck out former par. (20) which read as follows: "encourage, and provide technical assistance to, States and area agencies on aging to carry out outreach to inform older individuals with greatest economic need who may be eligible to receive, but are not receiving, supplemental security income benefits under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.) (or assistance under a State plan program undersuch title), medical assistance under title XIX of such Act (42 U.S.C. 1396 et seq.), and benefits under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), of the requirements for eligibility to receive such benefits and such assistance;".
 
 Subsec. (a)(26)(D). Pub. L. 109–365, §202(1)(D)(i), struck out "gaps in" after "collecting information on" and inserted "(including services that would permit such individuals to receive long-term care in home and community-based settings)" after "individuals".
 
@@ -550,7 +550,7 @@ Subsec. (a)(7). Pub. L. 95–478, §§102(a)(1), 503(b)(4)(A), redesignated form
 
 Subsec. (a)(8) to (11). Pub. L. 95–478, §102(a)(1), redesignated former pars. (7) to (10) as (8) to (11). Former par. (11) redesignated (12).
 
-Subsec. (a)(12). Pub. L. 95–478, §§102(a)(1), 503(b)(4), redesignated former par. (11) as (12) and substituted "older individuals" and "such individuals" for "olderpersons" and "such persons". Former par. (12) redesignated (13).
+Subsec. (a)(12). Pub. L. 95–478, §§102(a)(1), 503(b)(4), redesignated former par. (11) as (12) and substituted "older individuals" and "such individuals" for "older persons" and "such persons". Former par. (12) redesignated (13).
 
 Subsec. (a)(13). Pub. L. 95–478, §§102(a)(1), 503(b)(4)(A), redesignated former par. (12) as (13) and substituted "older individuals" for "older persons". Former par. (13) redesignated (14).
 

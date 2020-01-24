@@ -34,7 +34,7 @@ Not more than one assessment may be assessed under this section for the purposes
 
 #### (e) Producer-handlers
 
-Producer-handlers that are required to pay the assessment imposed under section 4504(g) of thistitle, and that are fluid milk processors, shall also be responsible for the additional assessment imposed by this section.
+Producer-handlers that are required to pay the assessment imposed under section 4504(g) of this title, and that are fluid milk processors, shall also be responsible for the additional assessment imposed by this section.
 
 #### (f) Processor assessment rate
 

@@ -48,9 +48,9 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 &emsp;(F) has obtained or attempted to obtain, or has assisted another to obtain or attempt to obtain, an operator's license by fraudulent means.
 
-(2) No order of suspension of any operator's license shall take effect until fifteen days' notice in writing thereof, stating the cause for the proposed suspension, has been given to the operator licensee who may make written application to the Commission at any time within said fifteen days for a hearing upon such order. The notice to the operator licensee shall not be effective until actually received by him, and from that time he shall have fifteen days in which to mail the said application. In the event that physical conditions prevent mailing of the application at the expiration of the fifteen-day period, the application shall then be mailed as soon as possible thereafter, accompanied by a satisfactory explanation of the delay. Upon receipt by the Commission of such application for hearing, said order of suspension shall be held in abeyance until the conclusion of the hearing which shall be conducted under such rules as the Commission may prescribe. Upon the conclusion of said hearing the Commission may affirm, modify, or revoke said order of suspension.
+(2) No order of suspension of any operator's license shall take effect until fifteen days' notice in writing thereof, stating the cause for the proposed suspension, has been given to the operator licensee who may make written application to the Commission at any time within said fifteen days for a hearing upon such order. The notice to the operator licensee shall not be effective until actually received by him, and from that time he shall have fifteen days in which to mailthe said application. In the event that physical conditions prevent mailing of the application at the expiration of the fifteen-day period, the application shall then be mailed as soon as possible thereafter, accompanied by a satisfactory explanation of the delay. Upon receipt by the Commission of such application for hearing, said order of suspension shall be held in abeyance until the conclusion of the hearing which shall be conducted under such rules as the Commission may prescribe. Upon the conclusion of said hearing the Commission may affirm, modify, or revoke said order of suspension.
 
-(n) Have authority to inspect all radio installations associated with stations required to be licensed by any Act, or which the Commission by rule has authorized to operate without a license under section 307(e)(1) of this title, or which are subject to the provisions of any Act, treaty, or convention binding on the United States, to ascertain whether in construction, installation, and operation they conform to the requirements of the rules and regulations of theCommission, the provisions of any Act, the terms of any treaty or convention binding on the United States, and the conditions of the license or other instrument of authorization under which they are constructed, installed, or operated.
+(n) Have authority to inspect all radio installations associated with stations required to be licensed by any Act, or which the Commission by rule has authorized to operate without a license under section 307(e)(1) of this title, or which are subject to the provisions of any Act, treaty, or convention binding on the United States, to ascertain whether in construction, installation, and operation they conform to the requirements of the rules and regulations of the Commission, the provisions of any Act, the terms of any treaty or convention binding on the United States, and the conditions of the license or other instrument of authorization under which they are constructed, installed, or operated.
 
 (o) Have authority to designate call letters of all stations;
 
@@ -86,7 +86,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 &emsp;&emsp;&emsp;(ii) for equipment designed for multiple purposes, capable of receiving or playing video programming transmitted simultaneously with sound but whose essential utility is derived from other purposes.
 
-(v) Have exclusive jurisdiction to regulate the provision of direct-to-home satellite services. As used in this subsection, the term "direct-to-home satellite services" means the distribution or broadcasting of programming or services by satellite directly to the subscriber's premises without the use of ground receiving or distribution equipment, except at the subscriber's premises or in the uplink process to the satellite.
+(v) Have exclusive jurisdiction to regulate the provision of direct-to-home satellite services. As used in this subsection, the term "direct-to-home satellite services" means the distributionor broadcasting of programming or services by satellite directly to the subscriber's premises without the use of ground receiving or distribution equipment, except at the subscriber's premises or in the uplink process to the satellite.
 
 (w) Omitted.
 
@@ -136,7 +136,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat.1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Codification
 
@@ -146,7 +146,7 @@ In subsec. (l)(3), "subchapter II of chapter 5, and chapter 7, of title 5" subst
 
 #### Amendments
 
-<b>2010</b>—Subsec. (u). Pub. L. 111–260, §203(a), amended subsec. (u) generally. Prior to amendment, subsec. (u) read as follows: "Require that apparatus designed to receive television pictures broadcast simultaneously with sound be equipped with built-in decoder circuitry designed to display closed-captioned television transmissions when such apparatus is manufactured in theUnited States or imported for use in the United States, and its television picture screen is 13 inches or greater in size."
+<b>2010</b>—Subsec. (u). Pub. L. 111–260, §203(a), amended subsec. (u) generally. Prior to amendment, subsec. (u) read as follows: "Require that apparatus designed to receive television pictures broadcast simultaneously with sound be equipped with built-in decoder circuitry designed to display closed-captioned television transmissions when such apparatus is manufactured in the United States or imported for use in the United States, and its television picture screen is 13 inches or greater in size."
 
 Subsec. (z). Pub. L. 111–260, §203(b), added subsec. (z).
 
@@ -226,7 +226,7 @@ Applicability of rating provision.—The amendment made by subsection (b) of thi
 
 "(2)
 
-Effective date of manufacturing provision.—In prescribing regulations to implement the amendment made by subsection (c) \[amending this section\],the Federal Communications Commission shall, after consultation with the television manufacturing industry, specify the effective date for the applicability of the requirement to the apparatus covered by such amendment, which date shall not be less than two years after the date of enactment of this Act \[Feb. 8, 1996\]." \[On Mar. 12, 1998, the Federal Communications Commission adopted technical rules that require certain television receivers to be equipped with features to block display of programs with a common rating. This feature was to be phased in, with half of subject television receivers to have it by July 1, 1999, and all such models to have it by Jan. 1, 2000.\]
+Effective date of manufacturing provision.—In prescribing regulations to implement the amendment made by subsection (c) \[amending this section\], the Federal Communications Commission shall, after consultation with the television manufacturing industry, specify the effective date for the applicability of the requirement to the apparatus covered by such amendment, which date shall not be less than two years after the date of enactment of this Act \[Feb. 8, 1996\]." \[On Mar. 12, 1998, the Federal Communications Commission adopted technical rules that require certain television receivers to be equipped with features to block display of programs with a common rating. This feature was to be phased in, with half of subject television receivers to have it by July 1, 1999, and all such models to have it by Jan. 1, 2000.\]
 
 #### Effective Date of 1992 Amendment
 
@@ -310,7 +310,7 @@ In general.—The Commission shall provide affected entities with—
 
 &emsp;&emsp;"(i) not less than 2 years after the adoption of such regulations to begin placing in service devices that comply with the requirements of section 303(bb)(2) of the Communications Act of 1934 (as added by subsection (a) of this section); and
 
-&emsp;&emsp;"(ii) not less than 3 years after the adoption of such regulations to begin placing in service devices that comply with the requirements of section 303(bb)(1) of the Communications Act of 1934 (as added by subsection (a) of this section).
+&emsp;&emsp;"(ii) not less than 3 years after the adoption of such regulations to begin placing in service devices that comply with the requirements of section303(bb)(1) of the Communications Act of 1934 (as added by subsection (a) of this section).
 
 &emsp;"(B)
 
@@ -412,13 +412,13 @@ Notification.—Upon receipt of a complaint of interference from a low-power FM 
 
 &emsp;"(1) With respect to those low-power FM stations licensed at locations that do not satisfy third-adjacent channel spacing requirements under section 73.807 of the Commission's rules (47 CFR 73.807), the Federal Communications Commission shall provide the same interference protections that FM translator stations and FM booster stations are required to provide as set forth in section 74.1203 of its rules (47 CFR 74.1203) as in effect on the date of enactment of this Act.
 
-&emsp;"(2) For a period of 1 year after a new low-power FM station is constructed on a third-adjacent channel, such low-power FM station shall be required to broadcast periodic announcements that alert listeners that interference that they may be experiencing could be the result of the operation of such low-power FM station on a third-adjacent channel and shall instruct affected listeners to contact such low-power FM station to report any interference. The Federal Communications Commission shall require all newly constructed low-power FM stations on third-adjacent channels to—
+&emsp;"(2) For a period of 1 year after a new low-power FM station is constructed on a third-adjacent channel, such low-power FM station shall be required tobroadcast periodic announcements that alert listeners that interference that they may be experiencing could be the result of the operation of such low-power FM station on a third-adjacent channel and shall instruct affected listeners to contact such low-power FM station to report any interference. The Federal Communications Commission shall require all newly constructed low-power FM stations on third-adjacent channels to—
 
 &emsp;&emsp;"(A) notify the Federal Communications Commission and all affected stations on third-adjacent channels of an interference complaint by electronic communication within 48 hours after the receipt of such complaint; and
 
 &emsp;&emsp;"(B) cooperate in addressing any such interference.
 
-&emsp;"(3) Low-power FM stations on third-adjacent channels shall be required to address complaints of interference within the protected contour of an affected station and shall be encouraged to address all other interference complaints, including complaints to the Federal Communications Commission based on interference to a full-service FM station, an FM translator station, or an FM booster station by the transmitter site of a low-power FM station on a third-adjacent channel at any distance from the full-service FM station, FM translator station, or FM booster station. The Federal Communications Commission shall provide notice to the licensee of a low-power FM stationof the existence of such interference within 7 calendar days of the receipt of a complaint from a listener or another station.
+&emsp;"(3) Low-power FM stations on third-adjacent channels shall be required to address complaints of interference within the protected contour of an affected station and shall be encouraged to address all other interference complaints, including complaints to the Federal Communications Commission based on interference to a full-service FM station, an FM translator station, or an FM booster station by the transmitter site of a low-power FM station on a third-adjacent channel at any distance from the full-service FM station, FM translator station, or FM booster station. The Federal Communications Commission shall provide notice to the licensee of a low-power FM station of the existence of such interference within 7 calendar days of the receipt of a complaint from a listener or another station.
 
 &emsp;"(4) To the extent possible, the Federal Communications Commission shall grant low-power FM stations on third-adjacent channels the technical flexibility to remediate interference through the colocation of the transmission facilities of the low-power FM station and any stations on third-adjacent channels.
 
@@ -508,7 +508,7 @@ Dual Network Changes.—The Commission shall revise section 73.658(g) of its reg
 
 &emsp;"(1) two or more persons or entities that, on the date of enactment of the Telecommunications Act of 1996 \[Feb. 8, 1996\], are 'networks' as defined in section 73.3613(a)(1) of the Commission's regulations (47 C.F.R. 73.3613(a)(1)); or
 
-&emsp;"(2) any network described in paragraph (1) and an English language program distribution service that,on such date, provides 4 or more hours of programming per week on a national basis pursuant to network affiliation arrangements with local television broadcast stations in markets reaching more than 75 percent of television homes (as measured by a national ratings service).
+&emsp;"(2) any network described in paragraph (1) and an English language program distribution service that, on such date, provides 4 or more hours of programming per week on a national basis pursuant to network affiliation arrangements with local television broadcast stations in markets reaching more than 75 percent of television homes (as measured by a national ratings service).
 
 "(f)
 

@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to enable persons with disabilities to live with dignity andindependence within their communities by expanding the supply of supportive housing that—
+The purpose of this section is to enable persons with disabilities to live with dignity and independence within their communities by expanding the supply of supportive housing that—
 
 &emsp;(1) is designed to accommodate the special needs of such persons;
 
@@ -132,7 +132,7 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 #### (3) Rent contribution
 
-&emsp;A very low-income person shall pay as rent for a dwelling unit assisted under subsection (b)(2) the higher of the following amounts, rounded to the nearest dollar: (A) 30 percent of the person's adjusted monthly income, (B) 10 percent of the person's monthly income, or (C) if the person is receiving payments for welfare assistance from a public agency and a part of such payments, adjusted in accordance with the person's actual housing costs, is specifically designated by such agency to meet the person's housing costs, the portion of such payments which is so designated; except thatthe gross income of a person occupying an intermediate care facility assisted under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] shall be the same amount as if the person were being assisted under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\].
+&emsp;A very low-income person shall pay as rent for a dwelling unit assisted under subsection (b)(2) the higher of the following amounts, rounded to the nearest dollar: (A) 30 percent of the person's adjusted monthly income, (B) 10 percent of the person's monthly income, or (C) if the person is receiving payments for welfare assistance from a public agency and a part of such payments, adjusted in accordance with the person's actual housing costs, is specifically designated by such agency to meet the person's housing costs, the portion of such payments which is so designated; except that the gross income of a person occupying an intermediate care facility assisted under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] shall be the same amount as if the person were being assisted under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\].
 
 #### (4) Tenant-based rental assistance
 
@@ -234,7 +234,7 @@ Funds made available under subsection (b)(2) shall be allocated by the Secretary
 
 #### (2) Delegated processing
 
-&emsp;(A) In issuing a capital advance under subsection (d)(1) for any multifamily project (but not including any project that is a group home or independent living facility) for which financing for the purposes described in the last sentence of subsection (b) is provided by a combination of the capital advance and sources other than this section, within 30 days of award of the capital advance, the Secretary shall delegate review and processing of such projects to a State or local housing agency that—
+&emsp;(A) In issuing a capital advance under subsection (d)(1) for any multifamily project (but not including any project that is a group home or independent living facility) for which financing for the purposes described in the last sentence of subsection (b) is provided by acombination of the capital advance and sources other than this section, within 30 days of award of the capital advance, the Secretary shall delegate review and processing of such projects to a State or local housing agency that—
 
 &emsp;&emsp;(i) is in geographic proximity to the property;
 
@@ -330,7 +330,7 @@ Funds made available under subsection (b)(2) shall be allocated by the Secretary
 
 #### (A) Procedures
 
-&emsp;&emsp;An owner shall adopt written tenant selection procedures that are satisfactory to theSecretary as (i) consistent with the purpose of improving housing opportunities for very low-income persons with disabilities; and (ii) reasonably related to program eligibility and an applicant's ability to perform the obligations of the lease. Owners shall promptly notify in writing any rejected applicant of the grounds for any rejection.
+&emsp;&emsp;An owner shall adopt written tenant selection procedures that are satisfactory to the Secretary as (i) consistent with the purpose of improving housing opportunities for very low-income persons with disabilities; and (ii) reasonably related to program eligibility and an applicant's ability to perform the obligations of the lease. Owners shall promptly notify in writing any rejected applicant of the grounds for any rejection.
 
 #### (B) Requirement for occupancy
 
@@ -416,7 +416,7 @@ As used in this section—
 
 &emsp;&emsp;(B) are located in housing that make available supportive services that address the individual health, mental health, or other needs of such persons.
 
-&emsp;(4) The term "independent living facility" means a project designed for occupancy by not more than 24 persons with disabilities (or such higher number of persons as permitted under criteria that the Secretary shall prescribe) in separate dwelling units where each dwelling unit includes a kitchen and a bath. Not later than the date that the Secretary prescribes a limit exceeding the 24 person limit in the previous sentence, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of the limit or the intention to prescribe a limit in excess of 24 persons, together with a detailed explanation of the reason for the new limit.
+&emsp;(4) The term "independent living facility" means a project designed for occupancy by not more than 24 persons with disabilities (or such higher number of persons as permitted under criteria that the Secretary shall prescribe) inseparate dwelling units where each dwelling unit includes a kitchen and a bath. Not later than the date that the Secretary prescribes a limit exceeding the 24 person limit in the previous sentence, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of the limit or the intention to prescribe a limit in excess of 24 persons, together with a detailed explanation of the reason for the new limit.
 
 &emsp;(5) The term "owner" means a private nonprofit organization that receives assistance under this section to develop and operate supportive housing for persons with disabilities.
 
@@ -446,7 +446,7 @@ As used in this section—
 
 #### (2) Capital advances
 
-&emsp;Of any amounts made available for assistance under subsection (b), such sums as may be necessary shall be available for funding capital advances in accordance with subsection (d)(1). Such amounts, the repayments from such advances, and the proceeds from notes or obligations issued under this section prior to November 28, 1990,<sup>4</sup> shall constitute arevolving fund to be used by the Secretary in carrying out this section.
+&emsp;Of any amounts made available for assistance under subsection (b), such sums as may be necessary shall be available for funding capital advances in accordance with subsection (d)(1). Such amounts, the repayments from such advances, and the proceeds from notes or obligations issued under this section prior to November 28, 1990,<sup>4</sup> shall constitute a revolving fund to be used by the Secretary in carrying out this section.
 
 #### (3) Project rental assistance
 
@@ -476,7 +476,7 @@ There are authorized to be appropriated for providing assistance pursuant to thi
 
 The HOME Investment Partnerships Act, referred to in subsec. (b)(3)(C)(ii)(II), is title II of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4094, which is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-The Social Security Act, referred to in subsecs. (b)(3)(D) and (d)(2), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b)(3)(D) and (d)(2), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title.For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The amendments made by such Act, referred to in subsec. (b)(3)(F)(ii), probably means the amendments made by Pub. L. 111–374, Jan. 4, 2011, 124 Stat. 4089, known as the Frank Melville Supportive Housing Investment Act of 2010, which amended this section. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 8001 of this title and Tables.
 
@@ -556,7 +556,7 @@ Subsec. (h)(6). Pub. L. 111–374, §3(f)(3), added par. (6).
 
 Subsec. (i). Pub. L. 111–374, §3(e), added subsec. (i) and struck out former subsec. (i) which related to tenant selection.
 
-Subsec. (j)(4) to (7). Pub. L. 111–374, §5(6), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "The Secretary may require an owner to deposit an amount not to exceed $10,000 in a special escrow account to assure the owner's commitment to the housing."
+Subsec. (j)(4) to (7). Pub. L. 111–374, §5(6), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4). Prior to amendment, text ofpar. (4) read as follows: "The Secretary may require an owner to deposit an amount not to exceed $10,000 in a special escrow account to assure the owner's commitment to the housing."
 
 Subsec. (k)(1). Pub. L. 111–374, §5(7)(A), inserted ", which provides a separate bedroom for each tenant of the residence" before period at end of first sentence.
 
@@ -588,7 +588,7 @@ Subsec. (l)(4). Pub. L. 111–374, §3(b)(2), struck out par. (4). Text read as 
 
 Subsec. (m). Pub. L. 111–374, §6, amended subsec. (m) generally, substituting authorization of appropriations for fiscal years 2011 through 2015 for authorization of appropriations for fiscal years 2001, 2002, and 2003.
 
-<b>2000</b>—Subsec. (d)(4). Pub. L. 106–569, §843(1), added par. (4) and struck out heading and text of former par. (4).Text read as follows: "Tenant-based rental assistance provided under subsection (b)(1) may be provided only through a public housing agency that has submitted, and had approved, an allocation plan under section 1437e(f) of this title, and a public housing agency shall be eligible to apply under this section only for the purposes of providing such assistance. Such assistance shall be made available to eligible persons with disabilities and administered under the same rules that govern rental assistance made available under section 1437f of this title. In determining the amount of assistance provided under subsection (b)(1) for a public housing agency, the Secretary shall consider the needs of the agency as described in the allocation plan."
+<b>2000</b>—Subsec. (d)(4). Pub. L. 106–569, §843(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: "Tenant-based rental assistance provided under subsection (b)(1) may be provided only through a public housing agency that has submitted, and had approved, an allocation plan under section 1437e(f) of this title, and a public housing agency shall be eligible to apply under this section only for the purposes of providing such assistance. Such assistance shall be made available to eligible persons with disabilities and administered under the same rules that govern rental assistance made available under section 1437f of this title. In determining the amount of assistance provided under subsection (b)(1) for a public housing agency, the Secretary shall consider the needs of the agency as described in the allocation plan."
 
 Subsec. (h)(1). Pub. L. 106–569, §845, inserted at end of concluding provisions "Neither this section nor any other provision of law may be construed as prohibiting or preventing the location and operation, in a project assisted under this section, of commercial facilities for the benefit of residents of the project and the community in which the project is located, except that assistance made available under this section may not be used to subsidize any such commercial facility."
 

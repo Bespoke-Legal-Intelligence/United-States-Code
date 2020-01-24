@@ -2,7 +2,7 @@
 
 (a) For each willful or grossly negligent violation of any regulation under this chapter, the Secretary may assess upon any person to which the regulation applies, or any person willfully causing a violation of the regulation, and, if such person is a partnership, corporation, or other entity, upon any partner, director, officer, or employee thereof who willfully or through gross negligence participates in the violation, a civil penalty not exceeding $10,000.
 
-(b) In the event of the failure of any person to pay any penalty assessed under this section, acivil action for the recovery thereof may, in the discretion of the Secretary, be brought in the name of the United States.
+(b) In the event of the failure of any person to pay any penalty assessed under this section, a civil action for the recovery thereof may, in the discretion of the Secretary, be brought in the name of the United States.
 
 (Pub. L. 91–508, title I, §125, Oct. 26, 1970, 84 Stat. 1117; Pub. L. 100–690, title VI, §6185(d)(3)(B), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 102–550, title XV, §1535(c)(1), Oct. 28, 1992, 106 Stat. 4067.)
 
@@ -14,5 +14,5 @@
 
 #### Effective Date
 
-Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlier than the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under section 1951 of this title.
+Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlierthan the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under section 1951 of this title.
 

@@ -18,7 +18,7 @@ The Office of Direct Service Tribes shall be responsible for—
 
 &emsp;(3) serving as the focal point for consultation and participation between direct service tribes and organizations and the Service in the development of Service policy;
 
-&emsp;(4) holding no less than biannual consultations with direct service tribes in appropriate locations to gather information and aid in the development of health policy; and
+&emsp;(4) holding no less than biannual consultations with direct service tribes in appropriatelocations to gather information and aid in the development of health policy; and
 
 &emsp;(5) directing a national program and providing leadership and advocacy in the development of health policy, program management, budget formulation, resource allocation, and delegation support for direct service tribes.
 

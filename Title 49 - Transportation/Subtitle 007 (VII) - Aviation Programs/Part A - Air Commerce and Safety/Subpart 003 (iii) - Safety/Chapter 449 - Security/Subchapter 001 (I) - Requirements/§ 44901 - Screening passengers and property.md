@@ -116,7 +116,7 @@ In general.—The Administrator of the Transportation Security Administration sh
 
 &emsp;&emsp;(A) evaluate the results of the blast-resistant cargo container pilot program that was initiated before August 3, 2007; and
 
-&emsp;&emsp;(B) prepare and distribute through the Aviation Security Advisory Committee to the appropriate Committees of Congress and air carriers a report on that evaluation which may contain nonclassified and classified sections.
+&emsp;&emsp;(B) prepare and distribute through the Aviation Security Advisory Committee to the appropriate Committees <sup>1</sup> of Congress and air carriers a report on that evaluation which may contain nonclassified and classified sections.
 
 &emsp;(2)
 
@@ -140,13 +140,13 @@ General Aviation Airport Security Program.—
 
 In general.—The Administrator of the Transportation Security Administration shall—
 
-&emsp;&emsp;(A) develop a standardized threat and vulnerability assessment program for general aviation airports (as defined in section 47134(m)); <sup>1</sup> and
+&emsp;&emsp;(A) develop a standardized threat and vulnerability assessment program for general aviation airports (as defined in section 47134(m)); <sup>2</sup> and
 
 &emsp;&emsp;(B) implement a program to perform such assessments on a risk-managed basis at general aviation airports.
 
 &emsp;(2)
 
-Grant program.—The Administrator shall initiate and complete a study of the feasibility of a program, based on a risk-managed approach, to provide grants to operators of general aviation airports (as defined in section 47134(m)) <sup>1</sup> for projects to upgrade security at such airports. If the Administrator determines that such a program is feasible, the Administrator shall establish such a program.
+Grant program.—The Administrator shall initiate and complete a study of the feasibility of a program, based on a risk-managed approach, to provide grants to operators of general aviation airports (as defined in section 47134(m)) <sup>1</sup> for projects to upgrade security at such airports. If the Administrator determinesthat such a program is feasible, the Administrator shall establish such a program.
 
 &emsp;(3)
 
@@ -340,7 +340,7 @@ Subsec. (k)(1). Pub. L. 115–254, §1991(d)(1)(J)(i), substituted "The" for "No
 
 Subsec. (k)(2). Pub. L. 115–254, §1991(d)(1)(J)(ii), substituted "The" for "Not later than 6 months after the date of enactment of this subsection, the".
 
-Subsec. (k)(3). Pub. L. 115–254, §1991(d)(1)(J)(iii), substituted "The" for "Not later than 180 days after the date of enactment of this subsection, the" in introductory provisions.
+Subsec. (k)(3). Pub. L. 115–254, §1991(d)(1)(J)(iii), substituted "The" for "Not later than 180 days after thedate of enactment of this subsection, the" in introductory provisions.
 
 Subsec. (l)(2). Pub. L. 115–254, §1991(d)(1)(K)(i)(I), substituted "The Administrator of the Transportation Security Administration" for "Beginning June 1, 2012, the Assistant Secretary of Homeland Security (Transportation Security Administration)" in introductory provisions.
 
@@ -430,7 +430,7 @@ In general.—This Act shall not affect suits commenced before the date of the e
 
 &emsp;"(2)
 
-Suits by or against faa.—Any suit by or against the Federal Aviation Administration begun before the date of the enactment of this Act shall be continued, insofar as it involves a function retained and transferred under this Act, with the Transportation Security Administration (to the extent the suit involves functions transferred to the Transportation Security Administration under this Act) substituted for the Federal Aviation Administration.
+Suits by or against faa.—Any suit by or against the Federal Aviation Administration begunbefore the date of the enactment of this Act shall be continued, insofar as it involves a function retained and transferred under this Act, with the Transportation Security Administration (to the extent the suit involves functions transferred to the Transportation Security Administration under this Act) substituted for the Federal Aviation Administration.
 
 &emsp;"(3)
 
@@ -479,6 +479,52 @@ Transfer of ownership.—In recognition of the assumption of the financial costs
 "(5)
 
 Performance of under secretary's functions during interim period.—Until the Under Secretary takes office, the functions of the Under Secretary that relate to aviation security may be carried out by the Secretary or the Secretary's designee."
+
+#### Screening Outside Primary Passenger Terminal Screening Area Pilot Program
+
+Pub. L. 116–6, div. A, title II, §225, Feb. 15, 2019, 133 Stat. 25, provided that:
+
+"(a) Subject to the provisions of this section, the Administrator of the Transportation Security Administration (hereafter in this section referred to as 'the Administrator') may conduct a pilot program to provide screening services outside of an existing primary passenger terminal screening area where screening services are currently provided or would be eligible to be provided under the Transportation Security Administration's annually appropriated passenger screening program as a primary passenger terminal screening area.
+
+"(b) Any request for screening services under subsection (a) shall be initiated only at the request of a public or private entity regulated by the Transportation Security Administration; shall be made in writing to the Administrator; and may only be submitted to the Transportation Security Administration after consultation with the relevant local airport authority.
+
+"(c) The Administrator may provide the requested screening services under subsection (a) if the Administrator provides a certification to the Committee on Homeland Security and the Committee on Appropriations of the House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate that implementation of subsection (a) does not reduce the security or efficiency of screening services already provided in primary passenger terminals at any impacted airports.
+
+"(d) No screening services may be provided under subsection (a) unless the requesting entity agrees in writing to the scope of the screening services to be provided, and agrees to compensate the Transportation Security Administration for all reasonable personnel and non-personnel costs, including overtime, of providing the screening services.
+
+"(e) The authority available under this section is effective for fiscal years 2019 through 2021 and may be utilized at not more than eight locations for transportation security purposes.
+
+"(f) Notwithstanding any other provision of law, an airport authority, air carrier, or other requesting entity shall not be liable for any claims for damages filed in State or Federal court (including a claim for compensatory, punitive, contributory, or indemnity damages) relating to—
+
+&emsp;"(1) an airport authority's or other entity's decision to request that the Transportation Security Administration provide passenger screening services outside of a primary passenger terminal screening area; or
+
+&emsp;"(2) any act of negligence, gross negligence, or intentional wrongdoing by employees of the Transportation Security Administration providing passenger and property security screening services at a pilot program screening location.
+
+"(g) Notwithstanding any other provision of law, any compensation received by the Transportation Security Administration under subsection (d) shall be credited to the account used to finance the provision of reimbursable security screening services under subsection (a).
+
+"(h) The Administrator shall submit to the Committee on Homeland Security and the Committee on Appropriations of the House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate—
+
+&emsp;"(1) an implementation plan for the pilot programs under subsection (a), including the application process, that is due by 90 days after the date of enactment of this Act \[Feb. 15, 2019\];
+
+&emsp;"(2) an evaluation plan for the pilot programs; and
+
+&emsp;"(3) annual performance reports, by not later than 60 days after the end of each fiscal year in which the pilot programs are in operation, including—
+
+&emsp;&emsp;"(A) the amount of reimbursement received by the Transportation Security Administration from each entity in the pilot program for the preceding fiscal year, delineated by personnel and non-personnel costs;
+
+&emsp;&emsp;"(B) an analysis of the results of the pilot programs corresponding to the evaluation plan required under paragraph (2);
+
+&emsp;&emsp;"(C) any Transportation Security Administration staffing changes created at the primary passenger screening checkpoints and baggage screening as a result of the pilot program; and
+
+&emsp;&emsp;"(D) any other unintended consequences created by the pilot program.
+
+"(i) Except as otherwise provided in this section, nothing in this section may be construed as affecting in any manner the responsibilities, duties, or authorities of the Transportation Security Administration.
+
+"(j) For the purposes of this section, the term 'airport' means a commercial service airport as defined by section 47107(7) of title 49\[,\] United States Code.
+
+"(k) For the purposes of this section, the term 'screening services' means the screening of passengers, flight crews, and their carry-on baggage and personal articles, and may include checked baggage screening if that type of screening is performed at an offsite location that is not part of a passenger terminal of a commercial airport.
+
+"(l) For the purpose of this section, the term 'primary passenger terminal screening area' means the security checkpoints relied upon by airports as the principal points of entry to a sterile area of an airport."
 
 #### Reciprocal Recognition of Security Standards
 
@@ -564,7 +610,7 @@ Assessment.—The Secretary \[of Homeland Security\], in consultation with the C
 
 Performance Objectives.—The Administrator shall establish performance objectives for the testing and verification of security technology, including testing and verification conducted by appropriate third parties under section 1911 \[49 U.S.C. 114 note\], to ensure that progress is made, at a minimum, toward—
 
-&emsp;"(1) reducing time for each phase of testing while maintaining security (including testing for detection testing, operational testing, testing and verification framework, and field testing);
+&emsp;"(1) reducing time for each phase of testing while maintaining security (including testing for detectiontesting, operational testing, testing and verification framework, and field testing);
 
 &emsp;"(2) eliminating testing and verification delays; and
 
@@ -698,7 +744,7 @@ Revised Training.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\], in consultation with nationally-recognized veterans and disability organizations, shall revise the training requirements for Transportation Security Officers related to the screening of passengers with disabilities, including passengers with disabilities who participate in the PreCheck program.
+In general.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\], in consultation with nationally-recognized veterans and disability organizations, shall revise thetraining requirements for Transportation Security Officers related to the screening of passengers with disabilities, including passengers with disabilities who participate in the PreCheck program.
 
 &emsp;"(2)
 
@@ -1018,7 +1064,7 @@ Revocation and Suspension.—
 
 &emsp;"(1)
 
-In general.—If the Administrator determines at any time that a foreign country's air cargo security program approved and officially recognized under subsection (b) no longer provides a level of security commensurate with the level of security required by United States air cargo security programs, the Administrator may revoke or temporarily suspend such approval and official recognition until such time as the Administrator determines that such foreign country's cargo security programs provide a level of security commensurate with the level of security required by such United States air cargo security programs.
+In general.—If the Administrator determines at any time that a foreign country's air cargo security program approved and officially recognizedunder subsection (b) no longer provides a level of security commensurate with the level of security required by United States air cargo security programs, the Administrator may revoke or temporarily suspend such approval and official recognition until such time as the Administrator determines that such foreign country's cargo security programs provide a level of security commensurate with the level of security required by such United States air cargo security programs.
 
 &emsp;"(2)
 
@@ -1122,7 +1168,7 @@ Reporting.—Not later than 60 days after the date of the enactment of this Act,
 
 &emsp;"(1) report to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate regarding how the TSA's Passenger Screening Canine assets may be deployed and utilized for maximum efficiency to mitigate risk and optimize checkpoint operations; and
 
-&emsp;"(2) report to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of the TSA's Credential Authentication Technology Assessment program and how deployment of such program might optimize checkpoint operations.
+&emsp;"(2) report to the Committee on Homeland Security of the House of Representatives and the Committeeon Commerce, Science, and Transportation of the Senate on the status of the TSA's Credential Authentication Technology Assessment program and how deployment of such program might optimize checkpoint operations.
 
 #### "SEC. 3305. AVIATION SECURITY STAKEHOLDERS DEFINED.
 
@@ -1256,7 +1302,7 @@ In general.—Not later than 90 days after the date of the enactment of this Act
 
 &emsp;"(2)
 
-Inclusions.—The guidance issued pursuant to paragraph (1) shall require a comprehensive review of background checks and employment authorization documents issued by United States Citizenship and Immigration Services during the course of a review of procedures under such paragraph.
+Inclusions.—The guidance issued pursuant to paragraph (1) shall require a comprehensive review of background checks and employment authorization documents issued by United States Citizenship andImmigration Services during the course of a review of procedures under such paragraph.
 
 #### "SEC. 3405. VETTING.
 
@@ -1374,7 +1420,7 @@ Inspections.—Consistent with a risk-based security approach, the Administrator
 
 &emsp;"(1) verify the credentials of such airport workers;
 
-&emsp;"(2) determine whether such airport workers possess prohibited items, except for those items that may be necessary for the performance of such airport workers' duties, as appropriate, in any SIDA of an airport; and
+&emsp;"(2) determine whether such airport workers possess prohibited items, except for those items thatmay be necessary for the performance of such airport workers' duties, as appropriate, in any SIDA of an airport; and
 
 &emsp;"(3) verify whether such airport workers are following appropriate procedures to access any SIDA of an airport.
 
@@ -1494,7 +1540,7 @@ Considerations.—In making recommendations to improve existing passenger screen
 
 "(c)
 
-Report.—Not later than one year after the date of enactment of this Act \[July 15, 2016\], the Administrator shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the Aviation Security Advisory Committee reviewunder this section, including any recommendations for improving passenger screening processes.
+Report.—Not later than one year after the date of enactment of this Act \[July 15, 2016\], the Administrator shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the Aviation Security Advisory Committee review under this section, including any recommendations for improving passenger screening processes.
 
 #### "SEC. 3502. PILOT PROGRAM FOR INCREASED EFFICIENCY AND SECURITY AT CATEGORY X AIRPORTS.
 
@@ -1520,7 +1566,7 @@ Selection of Airports.—In selecting airports for the pilot program established
 
 "(a)
 
-In General.—The Administrator shall establish a pilot program at three airports to develop and test prototypes of screening security systems and security checkpoint configurations that are intended to expedite the movement of passengers by deploying a range of technologies, including passive and active systems, new types of security baggage and personal screening systems, and new systems to review and address passenger and baggage anomalies.
+In General.—The Administrator shall establish a pilot program at three airports to develop and test prototypes of screening security systems and security checkpoint configurations that are intended to expedite the movement of passengers by deploying a range of technologies, including passive and active systems,new types of security baggage and personal screening systems, and new systems to review and address passenger and baggage anomalies.
 
 "(b)
 
@@ -1828,7 +1874,7 @@ In general.—Not later than 1 year after the date of enactment of this Act \[No
 
 "(2)
 
-Certification to congress.—Not later than 1 year after the date of enactment of this Act, the UnderSecretary shall transmit to Congress a certification that the requirement of paragraph (1) has been met."
+Certification to congress.—Not later than 1 year after the date of enactment of this Act, the Under Secretary shall transmit to Congress a certification that the requirement of paragraph (1) has been met."
 
 #### Reports
 
@@ -1888,5 +1934,7 @@ Secure area of an airport.—The term 'secure area of an airport' means the ster
 
 For definitions of terms used in sections 101(g) and 110(c), (d), of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "committees".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

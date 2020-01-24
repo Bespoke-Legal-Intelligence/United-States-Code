@@ -6,7 +6,7 @@ Review of a Release Order.—If a person is ordered released by a magistrate jud
 
 &emsp;(1) the attorney for the Government may file, with the court having original jurisdiction over the offense, a motion for revocation of the order or amendment of the conditions of release; and
 
-&emsp;(2) the person may file, with the court having original jurisdiction over the offense, a motion for amendment of the conditions of release.
+&emsp;(2) the person may file, with the court having original jurisdiction over the offense, amotion for amendment of the conditions of release.
 
 > The motion shall be determined promptly.
 

@@ -36,7 +36,7 @@
 
 (g) Any payment under this section to a person bars recovery by any other person.
 
-(h)(1) Subsection (c)(2) (to the extent that it provides for termination of a survivor annuity because of a remarriage before age 55) shall not apply if the former spouse was married for at least 30 years to the individual on whose service the survivor annuity is based.
+(h)(1) Subsection (c)(2) (to the extent that it provides for termination of a survivor annuity because of a remarriage before age 55) shall not apply if the former spouse was married for atleast 30 years to the individual on whose service the survivor annuity is based.
 
 (2) A remarriage described in paragraph (1) shall not be taken into account for purposes of section 8419(b)(1)(B) or any other provision of this chapter which the Office may by regulation identify in order to carry out the purposes of this subsection.
 

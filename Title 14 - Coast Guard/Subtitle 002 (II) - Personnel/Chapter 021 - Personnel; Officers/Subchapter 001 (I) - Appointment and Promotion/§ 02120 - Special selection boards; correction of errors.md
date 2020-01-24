@@ -8,7 +8,7 @@ Officers Not Considered Due to Administrative Error.—
 
 In general.—If the Secretary determines that as the result of an administrative error—
 
-&emsp;&emsp;(A) an officer or former officer was not considered for selection for promotion by aselection board convened under section 2106; or
+&emsp;&emsp;(A) an officer or former officer was not considered for selection for promotion by a selection board convened under section 2106; or
 
 &emsp;&emsp;(B) the name of an officer or former officer was not placed on an all-fully-qualified-officers list;
 
@@ -62,7 +62,7 @@ Appointment of Officers Recommended for Promotion.—
 
 &emsp;(1)
 
-In general.—An officer or former officer whose name is placed on a promotion list as a result of the recommendation of a special selection board convened under this section shall be appointed, as soon as practicable, to the next higher grade in accordance with the law and policies that would have been applicable to the officer or former officer had the officer or former officer been recommended for promotion by the selection board that should have considered or did consider the officer or former officer prior to the consideration of the special selection board.
+In general.—An officer or former officer whose name is placed on a promotion list as a result of the recommendation of a special selection board convened under this sectionshall be appointed, as soon as practicable, to the next higher grade in accordance with the law and policies that would have been applicable to the officer or former officer had the officer or former officer been recommended for promotion by the selection board that should have considered or did consider the officer or former officer prior to the consideration of the special selection board.
 
 &emsp;(2)
 

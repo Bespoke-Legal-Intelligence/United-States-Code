@@ -22,7 +22,7 @@ Act
 
 June 30, 1945, ch. 212, §605, 59 Stat. 304.
 
-The words "an Executive agency" are substituted for "the executive branch of the Government" to conform to the definition in section 105. Applicability of this section to employees of the General Accounting Office is based on former section 933a.
+The words "an Executive agency" are substituted for "the executive branch of the Government" to conformto the definition in section 105. Applicability of this section to employees of the General Accounting Office is based on former section 933a.
 
 The remainder of the authority is covered by sections 5504 and 6101.
 

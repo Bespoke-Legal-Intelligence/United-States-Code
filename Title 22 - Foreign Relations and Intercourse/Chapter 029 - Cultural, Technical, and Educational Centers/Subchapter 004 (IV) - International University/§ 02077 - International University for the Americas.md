@@ -18,7 +18,7 @@ The Secretary of State, in consultation with other governments in the Western He
 
 #### (c) Faculty, students, and curriculum
 
-In developing the bylaws of the International University for the Americas, the Secretary of State shall ensure that they contain provisions to ensure that faculty and students are drawn from all the nations in the Western Hemisphere, and that the curriculum is designed to develop expertise in fields that will promote the economic integration of the Americas and the consolidation of democracy throughout the Hemisphere.
+In developing the bylaws of the International University for the Americas, the Secretary of State shall ensure that they contain provisions to ensure that faculty and students are drawn from all the nations in the Western Hemisphere, and that the curriculum is designed to developexpertise in fields that will promote the economic integration of the Americas and the consolidation of democracy throughout the Hemisphere.
 
 #### (d) Annual report
 
@@ -26,7 +26,7 @@ The annual reports submitted pursuant to section 1738m of title 7 shall include 
 
 #### (e) Funding
 
-Of the funds that are allocated for assistance for Latin America and the Caribbean underchapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] (relating to development assistance) and chapter 4 of part II of that Act \[22 U.S.C. 2346 et seq.\] (relating to the economic support fund), $500,000 may be made available to carry out the site location and design phase of the International University for the Americas.
+Of the funds that are allocated for assistance for Latin America and the Caribbean under chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] (relating to development assistance) and chapter 4 of part II of that Act \[22 U.S.C. 2346 et seq.\] (relating to the economic support fund), $500,000 may be made available to carry out the site location and design phase of the International University for the Americas.
 
 (Pub. L. 102–549, title VI, §604, Oct. 28, 1992, 106 Stat. 3669; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(O), June 18, 2008, 122 Stat. 1820.)
 

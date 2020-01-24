@@ -34,7 +34,7 @@ The information and data required to be reported pursuant to subsection (a) shal
 
 &emsp;(2) small business concerns owned and controlled by women; and
 
-&emsp;(3) <sup>2</sup> qualified HUBZone small business concern (as defined in section 632(p) of this title).
+&emsp;(3) <sup>2</sup> qualified HUBZone small business concern (as defined in section 632(p) <sup>3</sup> of this title).
 
 &emsp;(3) <sup>2</sup> small business concerns owned and controlled by veterans, as defined in section 632(q) of this title, and small business concerns owned and controlled by service-disabled veterans, as defined in such section 632(q) of this title.
 
@@ -49,6 +49,8 @@ The Employee Retirement Income Security Act, referred to in subsec. (a)(4), is P
 The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 The Securities Exchange Act of 1934, referred to in subsec. (a)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+
+Section 632(p) of this title, referred to in subsec. (e)(3), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, §1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
 
 #### Codification
 
@@ -89,4 +91,6 @@ For termination, effective May 15, 2000, of reporting provisions in subsecs. (a)
 <i><sup>1</sup></i><i> See 1988 Amendment note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Two pars. (3) have been enacted.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

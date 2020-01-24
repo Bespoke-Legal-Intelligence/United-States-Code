@@ -30,7 +30,7 @@
 
 For purposes of this section, the terms "inspect", "return", and "return information" have the respective meanings given such terms by section 6103(b).
 
-(Added Pub. L. 105–35, §2(a), Aug. 5, 1997, 111 Stat. 1104; amended Pub. L. 107–210, div. A, title II, §202(b)(3), Aug. 6, 2002, 116 Stat. 961; Pub. L. 109–280, title XII, §1224(b)(6), Aug. 17, 2006, 120 Stat. 1093.)
+(Added Pub. L. 105–35, §2(a), Aug. 5, 1997, 111 Stat. 1104; amended Pub. L. 107–210, div. A, title II, §202(b)(3), Aug. 6, 2002, 116 Stat. 961; Pub. L.109–280, title XII, §1224(b)(6), Aug. 17, 2006, 120 Stat. 1093.)
 
 #### Amendments
 

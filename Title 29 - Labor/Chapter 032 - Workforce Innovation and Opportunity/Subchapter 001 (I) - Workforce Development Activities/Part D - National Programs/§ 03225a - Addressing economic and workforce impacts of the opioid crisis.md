@@ -106,7 +106,7 @@ Except as otherwise expressly provided, in this section:
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Secretary of Health and Human Services, shall carry out a pilot program to address economic and workforce impacts associated with a highrate of a substance use disorder. In carrying out the pilot program, the Secretary shall make grants, on a competitive basis, to eligible entities to enable such entities to make subgrants to local boards to address the economic and workforce impacts associated with a high rate of a substance use disorder.
+&emsp;The Secretary, in consultation with the Secretary of Health and Human Services, shall carry out a pilot program to address economic and workforce impacts associated with a high rate of a substance use disorder. In carrying out the pilot program, the Secretary shall make grants, on a competitive basis, to eligible entities to enable such entities to make subgrants to local boards to address the economic and workforce impacts associated with a high rate of a substance use disorder.
 
 #### (2) Grant amounts
 
@@ -146,7 +146,7 @@ Except as otherwise expressly provided, in this section:
 
 &emsp;&emsp;&emsp;(iii) the rate of non-fatal hospitalizations related to opioid abuse or other substance use disorders;
 
-&emsp;&emsp;&emsp;(iv) the number of arrests or convictions, or a relevant law enforcement statistic, that reasonably shows an increase in opioid abuse or another substance use disorder; or
+&emsp;&emsp;&emsp;(iv) the number of arrests or convictions, or a relevant law enforcement statistic,that reasonably shows an increase in opioid abuse or another substance use disorder; or
 
 &emsp;&emsp;&emsp;(v) in the case of an eligible entity described in subsection (a)(3)(C), other alternative relevant data as determined appropriate by the Secretary.
 
@@ -438,7 +438,7 @@ Except as otherwise expressly provided, in this section:
 
 #### (2) Using funding for national dislocated worker grants
 
-&emsp;Subject to paragraph (4) and notwithstanding section 132(a)(2)(A) and subtitle D <sup>1</sup> of theWorkforce Innovation and Opportunity Act (29 U.S.C. 3172(a)(2)(A), 3221 et seq.), the Secretary may use, to carry out the pilot program under this section for a covered fiscal year—
+&emsp;Subject to paragraph (4) and notwithstanding section 132(a)(2)(A) and subtitle D <sup>1</sup> of the Workforce Innovation and Opportunity Act (29 U.S.C. 3172(a)(2)(A), 3221 et seq.), the Secretary may use, to carry out the pilot program under this section for a covered fiscal year—
 
 &emsp;&emsp;(A) funds made available to carry out section 170 of such Act (29 U.S.C. 3225) for that fiscal year;
 

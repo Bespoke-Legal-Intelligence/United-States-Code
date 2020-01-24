@@ -94,7 +94,7 @@ Subsec. (e). Pub. L. 111–148, §1563(c)(3)(D), formerly §1562(c)(3)(D), as re
 
 #### Effective Date
 
-Pub. L. 104–204, title VI, §604(c), Sept. 26, 1996, 110 Stat. 2941, provided that: "The amendments made bythis section \[enacting this section and amending sections 300gg–21 and 300gg–23 of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998."
+Pub. L. 104–204, title VI, §604(c), Sept. 26, 1996, 110 Stat. 2941, provided that: "The amendments made by this section \[enacting this section and amending sections 300gg–21 and 300gg–23 of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998."
 
 #### Congressional Findings
 

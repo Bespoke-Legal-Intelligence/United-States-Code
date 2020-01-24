@@ -28,7 +28,7 @@ Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided tha
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–171, title IV, §4001, May 13, 2002, 116 Stat. 305, provided that: "This title \[enacting section 3007 of this title and section 1161 of Title 2, The Congress, amending sections 1431e, 2012, 2014 to 2017, 2019, 2020, 2022, 2023, 2025 to 2028, 2031, 2034, 2036, and 7508 of this title, sections 1612, 1613, and 1631 of Title 8, Aliens and Nationality, and sections 1755, 1758, 1760, 1769, and 1786 of Title 42, The Public Health and Welfare, repealing section 2033 of this title, enacting provisions set out as notes under sections 612c, 2014 to 2016, 2019, 2020, 2022, 2023, 2025, 2026, 2028, 2034, 2036, and 3171 of this title, section 1161 of Title 2, section 1612 of Title 8, and sections 1755, 1758, 1769, and 1786 of Title 42, and amending provisions set out as a note under section 612c of this title\] may be cited as the 'Food Stamp Reauthorization Act of 2002'."
+Pub. L. 107–171, title IV, §4001, May 13, 2002, 116 Stat. 305, provided that: "This title \[enacting section 3007 of this title and section 1161 of Title 2, The Congress, amending sections 1431e, 2012, 2014 to 2017, 2019, 2020, 2022, 2023, 2025 to 2028, 2031, 2034, 2036, and 7508 of this title, sections 1612, 1613, and 1631 of Title 8, Aliens and Nationality, and sections 1755, 1758, 1760, 1769, and 1786 of Title 42, The Public Health and Welfare, repealing section 2033 of this title, enacting provisions set out as notes under sections 612c, 2014 to 2016, 2019, 2020, 2022,2023, 2025, 2026, 2028, 2034, 2036, and 3171 of this title, section 1161 of Title 2, section 1612 of Title 8, and sections 1755, 1758, 1769, and 1786 of Title 42, and amending provisions set out as a note under section 612c of this title\] may be cited as the 'Food Stamp Reauthorization Act of 2002'."
 
 #### Short Title of 2000 Amendment
 
@@ -44,7 +44,7 @@ Pub. L. 103–66, title XIII, §13901(a), Aug. 10, 1993, 107 Stat. 672, provided
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided that: "This title \[enacting section2032 of this title, amending sections 1431, 1431e, 2012, 2014 to 2018, 2020 to 2022, 2024 to 2028, 3175, and 3175e of this title, section 6109 of Title 26, Internal Revenue Code, and sections 405 and 9904 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 612c, 2012, 2014, 2020, 2025, and 2028 of this title and section 1751 of Title 42, and amending provisions set out as notes under sections 612c and 2012 of this title\] may be cited as the 'Mickey Leland Memorial Domestic Hunger Relief Act'."
+Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided that: "This title \[enacting section 2032 of this title, amending sections 1431, 1431e, 2012, 2014 to 2018, 2020 to 2022, 2024 to 2028, 3175, and 3175e of this title, section 6109 of Title 26, Internal Revenue Code, and sections 405 and 9904 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 612c, 2012, 2014, 2020, 2025, and 2028 of this title and section 1751 of Title 42, and amending provisions set out as notes under sections 612c and 2012 of this title\] may be cited as the 'Mickey Leland Memorial Domestic Hunger Relief Act'."
 
 #### Short Title of 1988 Amendments
 
@@ -104,7 +104,7 @@ Administration.—In conducting the study, the Secretary shall—
 
 "(c)
 
-Report.—Not later than 1 year after the date of enactment of this Act \[Nov. 12, 1998\], the Secretary shall submit to Congress a report on the results of the study conducted under this section.
+Report.—Not later than 1 year after the date of enactment of this Act \[Nov. 12, 1998\], the Secretaryshall submit to Congress a report on the results of the study conducted under this section.
 
 "(d)
 
@@ -162,7 +162,7 @@ Pub. L. 95–113, title XIII, §1303, Sept. 29, 1997, 91 Stat. 979, as amended b
 
 "(a) The Secretary of Agriculture shall implement the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, this chapter\] as expeditiously as possible consistent with the efficient and effective administration of the food stamp program. The provisions of the Food Stamp Act of 1964, as amended \[this chapter prior to amendment by Pub. L. 95–113\], which are relevant to current regulations of the Secretary governing the food stamp program, shall remain in effect until such regulations are revoked, superseded, amended, or modified by regulations issued pursuant to the Food Stamp Act of 1977. Coupons issued pursuant to the Food Stamp Act of 1964, as amended, and in general use as of the effective date of the Food Stamp Act of 1977 \[Oct. 1, 1977\], shall continue to be usable to purchase food, and all other liabilities of the Secretary, States, and applicant or participating households, under the Food Stamp Act of 1964, as amended, shall continue in force until finally resolved or terminated by administrative or judicial action, or otherwise.
 
-"(b) Pending proceedings under the Food Stamp Act of 1964, as amended, shall not be abated by reason of any provision of the Food Stamp Act of 1977, but shall be disposed of pursuant to the applicable provisions of the Food Stamp Act of 1964, as amended, in effect prior to the effective date of the Food Stamp Act of 1977 \[Oct. 1, 1977\].
+"(b) Pending proceedings under the Food Stamp Act of 1964, as amended, shall not be abated by reason of any provision of the Food Stamp Act of 1977, but shallbe disposed of pursuant to the applicable provisions of the Food Stamp Act of 1964, as amended, in effect prior to the effective date of the Food Stamp Act of 1977 \[Oct. 1, 1977\].
 
 "(c) Appropriations made available to carry out the Food Stamp Act of 1964, as amended, shall be available to carry out the provisions of the Food Stamp Act of 1977.
 

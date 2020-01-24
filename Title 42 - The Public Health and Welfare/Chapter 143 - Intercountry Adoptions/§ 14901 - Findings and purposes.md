@@ -52,7 +52,7 @@ Transition Rule.—The Convention and this Act \[see Short Title note below\] sh
 
 #### Short Title of 2013 Amendment
 
-Pub. L. 112–276, §1, Jan. 14, 2013, 126 Stat. 2466, provided that: "This Act \[enacting section 14925 of this title, amending sections 14922 and 14943 of this title, and enacting provisions set out as a note under section 14925 of this title\] may be cited as the 'Intercountry Adoption Universal Accreditation Act of 2012'."
+Pub. L. 112–276, §1, Jan. 14, 2013, 126 Stat. 2466, provided that: "This Act \[enacting section 14925 of thistitle, amending sections 14922 and 14943 of this title, and enacting provisions set out as a note under section 14925 of this title\] may be cited as the 'Intercountry Adoption Universal Accreditation Act of 2012'."
 
 #### Short Title
 

@@ -2,7 +2,7 @@
 
 #### (a) Requirements under chapter 75 of title 31
 
-An entity designated by an Indian tribe as a housing entity shall be treated, for purposes ofchapter 75 of title 31, as a non-Federal entity that is subject to the audit requirements that apply to non-Federal entities under that chapter.
+An entity designated by an Indian tribe as a housing entity shall be treated, for purposes of chapter 75 of title 31, as a non-Federal entity that is subject to the audit requirements that apply to non-Federal entities under that chapter.
 
 #### (b) Additional reviews and audits
 
@@ -50,7 +50,7 @@ Subject to section 4161(a) of this title, after reviewing the reports and audits
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1)(A)(i)(II) and (d), was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in subsecs. (b)(1)(A)(i)(II) and (d), was in the original "this Act", meaning Pub. L.104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 #### Amendments
 

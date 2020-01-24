@@ -12,7 +12,7 @@ Course of conduct.—The term "course of conduct" means a pattern of conduct com
 
 &emsp;(3)
 
-Enter or leave indian country.—The term "enter or leave Indian country" includesleaving the jurisdiction of 1 tribal government and entering the jurisdiction of another tribal government.
+Enter or leave indian country.—The term "enter or leave Indian country" includes leaving the jurisdiction of 1 tribal government and entering the jurisdiction of another tribal government.
 
 &emsp;(4)
 
@@ -44,7 +44,7 @@ Spouse or intimate partner.—The term "spouse or intimate partner" includes—
 
 &emsp;&emsp;&emsp;(ii) section 2261A—
 
-&emsp;&emsp;&emsp;&emsp;(I) a spouse or former spouse of the target of the stalking, a person who shares a child in common with the target of the stalking, and a person who cohabits or has cohabited as a spouse with the target of the stalking; or
+&emsp;&emsp;&emsp;&emsp;(I) a spouse or former spouse of the target of the stalking, a person who shares a child in common with the target of thestalking, and a person who cohabits or has cohabited as a spouse with the target of the stalking; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a person who is or has been in a social relationship of a romantic or intimate nature with the target of the stalking, as determined by the length of the relationship, the type of the relationship, and the frequency of interaction between the persons involved in the relationship.<sup>1</sup>
 

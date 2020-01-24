@@ -70,7 +70,7 @@ Immediate application of time limitation.—Notwithstanding subparagraph (A), fo
 
 &emsp;"(C)
 
-Certain nominations.—If the President submits to the Senate the nomination of any personafter the effective date of this section for an office for which such person had been nominated before such date, the next nomination of such person after such date shall be considered a first nomination of such person to that office for purposes of sections 3345 through 3349 and section 3349d of title 5, United States Code (as amended by this section)."
+Certain nominations.—If the President submits to the Senate the nomination of any person after the effective date of this section for an office for which such person had been nominated before such date, the next nomination of such person after such date shall be considered a first nomination of such person to that office for purposes of sections 3345 through 3349 and section 3349d of title 5, United States Code (as amended by this section)."
 
 #### Ex. Ord. No. 13472. Executive Branch Responsibilities With Respect To Orders of Succession
 
@@ -124,7 +124,9 @@ Provisions relating to the exercise of Presidential authorities to designate an 
 
 #### Council on Environmental Quality
 
-Memorandum of President of the United States, Jan. 13, 2017, 82 F.R. 7627.
+Memorandum of President of the United States, Sept. 6, 2019, 84 F.R. 48227, as corrected Sept. 16, 2019, 84 F.R. 48549.
+
+Memorandum of President of the United States, Jan. 13, 2017, 82 F.R. 7627, revoked by Memorandum of President of the United States, §3, Sept. 6, 2019, 84 F.R. 48227.
 
 Memorandum of President of the United States, Mar. 13, 2015, 80 F.R. 14289, revoked by Memorandum of President of the United States, §3, Jan. 13, 2017, 82 F.R. 7627.
 

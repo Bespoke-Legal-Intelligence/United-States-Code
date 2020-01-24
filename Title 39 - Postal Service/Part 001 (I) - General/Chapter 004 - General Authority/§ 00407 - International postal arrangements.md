@@ -6,7 +6,7 @@
 
 &emsp;(2) to promote and encourage unrestricted and undistorted competition in the provision of international postal services and other international delivery services, except where provision of such services by private companies may be prohibited by law of the United States;
 
-&emsp;(3) to promote and encourage a clear distinction between governmental and operational responsibilities with respect to the provision of international postal services and other international delivery services by the Government of the United States and by intergovernmental organizations of which the United States is a member; and
+&emsp;(3) to promote and encourage a clear distinction between governmental and operationalresponsibilities with respect to the provision of international postal services and other international delivery services by the Government of the United States and by intergovernmental organizations of which the United States is a member; and
 
 &emsp;(4) to participate in multilateral and bilateral agreements with other countries to accomplish these objectives.
 
@@ -40,7 +40,7 @@
 
 (2) With respect to shipments of international mail that are competitive products within the meaning of section 3631 that are exported or imported by the Postal Service, the Customs Service and other appropriate Federal agencies shall apply the customs laws of the United States and all other laws relating to the importation or exportation of such shipments in the same manner to both shipments by the Postal Service and similar shipments by private companies.
 
-(3) In exercising the authority under subsection (b) to conclude new postal treaties and conventions related to international postal services and to renegotiate such treaties and conventions, the Secretary of State shall, to the maximum extent practicable, take such measures as are within the Secretary's control to encourage the governments of other countries to make available to the Postal Service and private companies a range of nondiscriminatory customs procedures that will fully meet the needs of all types of American shippers. The Secretary of State shall consult with the United States Trade Representative and the Commissioner of U.S. Customs and Border Protection in carrying out this paragraph.
+(3) In exercising the authority under subsection (b) to conclude new postal treaties and conventions related to international postal services and to renegotiate such treaties and conventions, the Secretary of State shall, to the maximum extent practicable, take such measures as are within the Secretary's control to encourage the governments of other countries to make available to the Postal Service and private companies a range of nondiscriminatory customs procedures that will fully meet the needs of all types of American shippers. TheSecretary of State shall consult with the United States Trade Representative and the Commissioner of U.S. Customs and Border Protection in carrying out this paragraph.
 
 (4) The provisions of this subsection shall take effect 6 months after the date of enactment of this subsection or such earlier date as the Bureau of Customs and Border Protection of the Department of Homeland Security may determine in writing.
 

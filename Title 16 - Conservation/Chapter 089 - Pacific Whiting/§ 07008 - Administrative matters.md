@@ -2,7 +2,7 @@
 
 #### (a) Employment status
 
-Individuals appointed under section 7002, 7003, 7004, or 7005 of this title, other than officers or employees of the United States Government, shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
+Individuals appointed under section 7002, 7003, 7004, or 7005 of this title, other than officers oremployees of the United States Government, shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
 
 #### (b) Compensation
 

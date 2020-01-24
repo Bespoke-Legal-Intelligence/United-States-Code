@@ -40,7 +40,7 @@ CBO Evaluation.—Not later than 60 days after the date on which the congression
 
 (e)
 
-Limitation on Availability of Funds for Fiscal Years Without Plan and Certification.—(1) If the Secretary of Defense does not include with the defense budget materials for a fiscal year the plan and certification under subsection (a), the Secretary of the Navy may not use more than 50 percent of the funds described in paragraph (2) during the fiscal year in whichsuch materials are submitted until the date on which such plan and certification are submitted to the congressional defense committees.
+Limitation on Availability of Funds for Fiscal Years Without Plan and Certification.—(1) If the Secretary of Defense does not include with the defense budget materials for a fiscal year the plan and certification under subsection (a), the Secretary of the Navy may not use more than 50 percent of the funds described in paragraph (2) during the fiscal year in which such materials are submitted until the date on which such plan and certification are submitted to the congressional defense committees.
 
 (2) The funds described in this paragraph are funds made available to the Secretary of the Navy for operation and maintenance, Navy, for emergencies and extraordinary expenses.
 
@@ -62,7 +62,7 @@ Definitions.—In this section:
 
 #### References in Text
 
-Section 118 of this title, referred to in subsec. (f)(3), was repealed by Pub. L. 114–328, div. A, title IX, §941(b)(1), Dec. 23, 2016, 130 Stat. 2367. For provisions related to national defense strategy similar to those contained in former section 118, see section 113(g) of this title.
+Section 118 of this title, referred to in subsec. (f)(3), was repealed by Pub. L. 114–328, div. A, title IX, §941(b)(1), Dec. 23, 2016, 130 Stat. 2367. Subsequently, a new section 118 of this title, relating to annual report on major weapons systems sustainment, was added by Pub. L. 116–92, div. A, title III, §351(a)(1), Dec. 20, 2019, 133 Stat. 1319. For provisions related to national defense strategy similar to those contained in former section 118, see section 113(g) of this title.
 
 #### Amendments
 

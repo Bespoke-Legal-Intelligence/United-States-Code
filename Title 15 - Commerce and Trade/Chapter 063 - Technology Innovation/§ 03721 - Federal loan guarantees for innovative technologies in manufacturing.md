@@ -6,7 +6,7 @@ The Secretary shall establish a program to provide loan guarantees for obligatio
 
 #### (b) Eligible projects
 
-A loan guarantee may be made under the program only for a project that re-equips, expands,or establishes a manufacturing facility in the United States—
+A loan guarantee may be made under the program only for a project that re-equips, expands, or establishes a manufacturing facility in the United States—
 
 &emsp;(1) to use an innovative technology or an innovative process in manufacturing;
 
@@ -68,7 +68,7 @@ No loan guarantee shall be made unless the Secretary determines that—
 
 #### (B) Superiority of rights
 
-&emsp;&emsp;The rights of the Secretary, with respect to any property acquired pursuant to a loan guarantee or related agreements, shall be superior to the rights of any other person with respect to the property.
+&emsp;&emsp;The rights of the Secretary, with respect to any property acquired pursuant to a loanguarantee or related agreements, shall be superior to the rights of any other person with respect to the property.
 
 #### (3) Notification
 
@@ -108,7 +108,7 @@ In establishing the terms and conditions of a loan guarantee under this section,
 
 #### (1) In general
 
-&emsp;With respect to a loan guarantee under this section, the borrower, the lender, and anyother appropriate party shall keep such records and other pertinent documents as the Secretary shall prescribe by regulation, including such records as the Secretary may require to facilitate an effective audit.
+&emsp;With respect to a loan guarantee under this section, the borrower, the lender, and any other appropriate party shall keep such records and other pertinent documents as the Secretary shall prescribe by regulation, including such records as the Secretary may require to facilitate an effective audit.
 
 #### (2) Access
 
@@ -166,7 +166,7 @@ The Secretary shall promulgate regulations and policies to carry out this sectio
 
 #### (r) Sense of Congress
 
-It is the sense of Congress that no loan guarantee shall be made under this section unless the borrower agrees to use a federally-approved electronic employment eligibility verification system to verify the employment eligibility of—
+It is the sense of Congress that no loan guarantee shall be made under this section unlessthe borrower agrees to use a federally-approved electronic employment eligibility verification system to verify the employment eligibility of—
 
 &emsp;(1) all persons hired during the contract term by the borrower to perform employment duties within the United States; and
 
@@ -202,7 +202,7 @@ In this section:
 
 #### (t) Authorization of appropriations
 
-There are authorized to be appropriated $20,000,000 for each of fiscal years 2011 through2013 to provide the cost of loan guarantees under this section.
+There are authorized to be appropriated $20,000,000 for each of fiscal years 2011 through 2013 to provide the cost of loan guarantees under this section.
 
 (Pub. L. 96–480, §26, as added Pub. L. 111–358, title VI, §602, Jan. 4, 2011, 124 Stat. 4026.)
 

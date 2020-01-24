@@ -28,7 +28,7 @@ It is unlawful—
 
 #### (c) Civil forfeitures
 
-Any vessel (including its fishing gear, appurtenances, stores, and cargo) used, and any fish (or its fair market value) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by thissection shall be subject to forfeiture to the United States in the manner provided in section 1860 of this title.
+Any vessel (including its fishing gear, appurtenances, stores, and cargo) used, and any fish (or its fair market value) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by this section shall be subject to forfeiture to the United States in the manner provided in section 1860 of this title.
 
 (Pub. L. 92–522, title III, §307, as added Pub. L. 102–523, §2(a), Oct. 26, 1992, 106 Stat. 3431; amended Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–42, §6(d), Aug. 15, 1997, 111 Stat. 1136.)
 

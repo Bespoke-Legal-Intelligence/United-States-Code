@@ -2,7 +2,7 @@
 
 Section 1366, act Aug. 14, 1935, ch. 531, title XV, §1506, as added Sept. 1, 1954, ch. 1212, §4(a), 68 Stat. 1133, provided for payments to States. See section 8505 of Title 5, Government Organization and Employees.
 
-Section 1367, act Aug. 14, 1935, ch. 531, title XV, §1507, as added Sept. 1, 1954, ch. 1212, §4(a), 68 Stat. 1134; amended Aug. 28, 1958, Pub. L. 85–848, §4, 72 Stat. 1089; Sept. 13, 1960, Pub. L. 86–778, title V, §531(f), 74 Stat. 984, provided for dissemination of information by both Federal and State agencies. See section 8506 of Title 5.
+Section 1367, act Aug. 14, 1935, ch. 531, title XV, §1507, as added Sept. 1, 1954, ch. 1212, §4(a), 68 Stat. 1134; amended Aug. 28, 1958, Pub. L. 85–848, §4, 72 Stat. 1089; Sept. 13, 1960, Pub. L. 86–778, title V, §531(f), 74 Stat. 984,provided for dissemination of information by both Federal and State agencies. See section 8506 of Title 5.
 
 Section 1368, act Aug. 14, 1935, ch. 531, title XV, §1508, as added Sept. 1, 1954, ch. 1212, §4(a), 68 Stat. 1135, related to penalties. See section 8507 of Title 5 and section 1919 of Title 18, Crimes and Criminal Procedure.
 

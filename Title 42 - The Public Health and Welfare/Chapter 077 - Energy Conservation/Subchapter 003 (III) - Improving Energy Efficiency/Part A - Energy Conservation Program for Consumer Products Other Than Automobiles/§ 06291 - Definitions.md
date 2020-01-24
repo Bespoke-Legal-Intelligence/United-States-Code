@@ -22,7 +22,7 @@ For purposes of this part:
 
 &emsp;&emsp;(A) a performance standard which prescribes a minimum level of energy efficiency or a maximum quantity of energy use, or, in the case of showerheads, faucets, water closets, and urinals, water use, for a covered product, determined in accordance with test procedures prescribed under section 6293 of this title; or
 
-&emsp;&emsp;(B) a design requirement for the products specified in paragraphs (6), (7), (8), (10), (15),\(16), (17), and (20) of section 6292(a) of this title; and
+&emsp;&emsp;(B) a design requirement for the products specified in paragraphs (6), (7), (8), (10), (15), (16), (17), and (20) of section 6292(a) of this title; and
 
 > &emsp;includes any other requirements which the Secretary may prescribe under section 6295(r) of this title.
 
@@ -38,7 +38,7 @@ For purposes of this part:
 
 &emsp;(12) The term "manufacturer" means any person who manufactures a consumer product.
 
-&emsp;(13) The term "retailer" means a person to whom a consumer product is delivered or sold, if such delivery or sale is for purposes of sale or distribution in commerce to purchasers who buy such product for purposes other than resale.
+&emsp;(13) The term "retailer" means a person to whom a consumer product is delivered or sold,if such delivery or sale is for purposes of sale or distribution in commerce to purchasers who buy such product for purposes other than resale.
 
 &emsp;(14) The term "distributor" means a person (other than a manufacturer or retailer) to whom a consumer product is delivered or sold for purposes of distribution in commerce.
 
@@ -118,7 +118,7 @@ For purposes of this part:
 
 &emsp;(27) The term "water heater" means a product which utilizes oil, gas, or electricity to heat potable water for use outside the heater upon demand, including—
 
-&emsp;&emsp;(A) storage type units which heat and store water at a thermostatically controlled temperature, including gas storage water heaters with an input of 75,000 Btu per hour or less, oil storage water heaters with an input of 105,000 Btu per hour or less, and electric storage water heaters with an input of 12 kilowatts or less;
+&emsp;&emsp;(A) storage type units which heat and store water at a thermostatically controlled temperature, including gas storage water heaters with an input of 75,000 Btu per hour or less, oil storage water heaters with an input of 105,000 Btu per hour or less, andelectric storage water heaters with an input of 12 kilowatts or less;
 
 &emsp;&emsp;(B) instantaneous type units which heat water but contain no more than one gallon of water per 4,000 Btu per hour of input, including gas instantaneous water heaters with an input of 200,000 Btu per hour or less, oil instantaneous water heaters with an input of 210,000 Btu per hour or less, and electric instantaneous water heaters with an input of 12 kilowatts or less; and
 
@@ -174,7 +174,7 @@ For purposes of this part:
 
 &emsp;&emsp;(i) Any straight-shaped lamp (commonly referred to as 4-foot medium bi-pin lamps) with medium bi-pin bases of nominal overall length of 48 inches and rated wattage of 28 or more.
 
-&emsp;&emsp;(ii) Any U-shaped lamp (commonly referred to as 2-foot U-shaped lamps) with medium bi-pin bases of nominal overall length between 22 and 25 inches and rated wattage of 28 or more.
+&emsp;&emsp;(ii) Any U-shaped lamp (commonly referred to as 2-foot U-shaped lamps) with medium bi-pin bases of nominal overall lengthbetween 22 and 25 inches and rated wattage of 28 or more.
 
 &emsp;&emsp;(iii) Any rapid start lamp (commonly referred to as 8-foot high output lamps) with recessed double contact bases of nominal overall length of 96 inches and 0.800 nominal amperes, as defined in ANSI C78.1–1978 and related supplements.
 
@@ -698,7 +698,7 @@ incandescent reflector lamp.—The term "BR incandescent reflector lamp" means a
 
 &emsp;&emsp;&emsp;(i) a bulged section below the major diameter of the bulb and above the approximate baseline of the bulb, as shown in figure 1 (RB) on page 7 of ANSI C79.1–1994, incorporated by reference in section 430.22 of title 10, Code of Federal Regulations (as in effect on December 19, 2007); and
 
-&emsp;&emsp;&emsp;(ii) a finished size and shape shown in ANSI C78.21–1989, including the referenced reflective characteristics in part 7 of ANSIC78.21–1989, incorporated by reference in section 430.22 of title 10, Code of Federal Regulations (as in effect on December 19, 2007).
+&emsp;&emsp;&emsp;(ii) a finished size and shape shown in ANSI C78.21–1989, including the referenced reflective characteristics in part 7 of ANSI C78.21–1989, incorporated by reference in section 430.22 of title 10, Code of Federal Regulations (as in effect on December 19, 2007).
 
 &emsp;&emsp;(B) BR30.—The term "BR30" means a BR incandescent reflector lamp with a diameter of 30/8ths of an inch.
 
@@ -802,7 +802,7 @@ Starting process.—For the purpose of subparagraph (A)—
 
 &emsp;&emsp;&emsp;(ii) to complete the starting process, power shall be provided by the ballast to sustain the discharge through the glow-to-arc transition.
 
-(Pub. L. 94–163, title III, §321, Dec. 22, 1975, 89 Stat. 917; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §2, Mar. 17, 1987, 101 Stat. 103; Pub. L. 100–357, §2(a), June 28, 1988, 102 Stat. 671; Pub. L. 102–486, title I, §123(b), Oct. 24, 1992, 106 Stat. 2817; Pub. L. 105–388, §5(a)(2), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(a), Aug. 8, 2005, 119 Stat. 624; Pub. L. 110–140, title III, §§301(a), 316(a)(1), (b), (c)(1), 321(a)(1), 322(a), 324(a), Dec. 19, 2007, 121 Stat. 1549, 1572, 1573, 1587, 1591; Pub. L. 112–210, §10(a)(6), (7), (10), Dec. 18, 2012, 126 Stat. 1524,1525; Pub. L. 115–115, §2(a), (c)(1), Jan. 12, 2018, 131 Stat. 2280, 2281.)
+(Pub. L. 94–163, title III, §321, Dec. 22, 1975, 89 Stat. 917; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §2, Mar. 17, 1987, 101 Stat. 103; Pub. L. 100–357, §2(a), June 28, 1988, 102 Stat. 671; Pub. L. 102–486, title I, §123(b), Oct. 24, 1992, 106 Stat. 2817; Pub. L. 105–388, §5(a)(2), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(a), Aug. 8, 2005, 119 Stat. 624; Pub. L. 110–140, title III, §§301(a), 316(a)(1), (b), (c)(1), 321(a)(1), 322(a), 324(a), Dec. 19, 2007, 121 Stat. 1549, 1572, 1573, 1587, 1591; Pub. L. 112–210, §10(a)(6), (7), (10), Dec. 18, 2012, 126 Stat. 1524, 1525; Pub. L. 115–115, §2(a), (c)(1), Jan. 12, 2018, 131 Stat. 2280, 2281.)
 
 #### References in Text
 

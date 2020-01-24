@@ -16,7 +16,7 @@ From the sum appropriated under section 3275 of this title for a fiscal year, th
 
 #### (2) Purpose of grants
 
-&emsp;The Secretary may award a grant under paragraph (1) only if the eligible entity involved agrees to expend the grant for adult education and literacy activities in accordance with the provisions of this subchapter.
+&emsp;The Secretary may award a grant under paragraph (1) only if the eligible entity involved agrees to expend the grant for adulteducation and literacy activities in accordance with the provisions of this subchapter.
 
 #### (c) Allotments
 
@@ -74,7 +74,7 @@ For the purpose of subsection (c)(2), the term "qualifying adult" means an adult
 
 #### (g) Reallotment
 
-The portion of any eligible agency's allotment under this subchapter for a fiscal year that theSecretary determines will not be required for the period such allotment is available for carrying out activities under this subchapter, shall be available for reallotment from time to time, on such dates during such period as the Secretary shall fix, to other eligible agencies in proportion to the original allotments to such agencies under this subchapter for such year.
+The portion of any eligible agency's allotment under this subchapter for a fiscal year that the Secretary determines will not be required for the period such allotment is available for carrying out activities under this subchapter, shall be available for reallotment from time to time, on such dates during such period as the Secretary shall fix, to other eligible agencies in proportion to the original allotments to such agencies under this subchapter for such year.
 
 (Pub. L. 113–128, title II, §211, July 22, 2014, 128 Stat. 1612.)
 

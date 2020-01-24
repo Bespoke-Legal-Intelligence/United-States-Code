@@ -186,7 +186,7 @@ Subsec. (e). Pub. L. 101–225, §303(3)(C), substituted "the status of the pref
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–20, title II, §2202(d), July 24, 2001, 115 Stat. 170, provided that: "Section 31322 of title 46, United States Code as amended in this section, and as amended by section 202(b) of the American Fisheries Act (Public Law 105–277, division C, title II) shall not take effect until April 1, 2003, nor shall the Secretary of Transportation, in determining whether a vessel owner complies with the requirements of section 12102(c) of title 46, United States Code \[now 46 U.S.C. 12113(b)(2) to (d)\], consider the citizenship status of a lender, in its capacity as a lender with respect to that vessel owner, until after April 1, 2003."
+Pub. L. 107–20, title II, §2202(d), July 24, 2001, 115 Stat. 170, provided that: "Section 31322 of title 46, UnitedStates Code as amended in this section, and as amended by section 202(b) of the American Fisheries Act (Public Law 105–277, division C, title II) shall not take effect until April 1, 2003, nor shall the Secretary of Transportation, in determining whether a vessel owner complies with the requirements of section 12102(c) of title 46, United States Code \[now 46 U.S.C. 12113(b)(2) to (d)\], consider the citizenship status of a lender, in its capacity as a lender with respect to that vessel owner, until after April 1, 2003."
 
 #### Effective Date of 1998 Amendment
 

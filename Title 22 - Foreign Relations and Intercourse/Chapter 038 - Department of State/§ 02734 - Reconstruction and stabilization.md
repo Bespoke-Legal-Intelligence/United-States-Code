@@ -40,7 +40,7 @@
 
 #### (2) Civilian Reserve Corps
 
-&emsp;The Secretary, in consultation with the Administrator of the United States Agency for International Development, may establish a Civilian Reserve Corps for which purpose the Secretary is authorized to employ and train individuals who have the skills necessary for carrying out reconstruction and stabilization activities, and who have volunteered for that purpose. The Secretary may deploy members of the Civilian Reserve Corps pursuant to a determination by the President under section 2368 of this title.
+&emsp;The Secretary, in consultation with the Administrator of the United States Agency for International Development, may establish a Civilian Reserve Corps for which purpose the Secretary is authorized to employ and train individuals who have the skills necessary for carrying out reconstruction and stabilization activities, and who have volunteered for that purpose. The Secretary may deploy membersof the Civilian Reserve Corps pursuant to a determination by the President under section 2368 of this title.
 
 #### (3) Mitigation of domestic impact
 

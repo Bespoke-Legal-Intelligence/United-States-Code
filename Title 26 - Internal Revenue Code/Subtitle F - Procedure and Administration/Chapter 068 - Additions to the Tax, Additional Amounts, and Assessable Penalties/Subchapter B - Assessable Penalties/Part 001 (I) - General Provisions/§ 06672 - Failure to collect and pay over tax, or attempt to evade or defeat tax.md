@@ -106,7 +106,7 @@ Pub. L. 105–206, title III, §3307(c), July 22, 1998, 112 Stat. 744, provided 
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–168, title IX, §901(b), July 30, 1996, 110 Stat. 1466, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to proposed assessments made after June 30, 1996."
+Pub. L. 104–168, title IX, §901(b), July 30, 1996, 110 Stat. 1466, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to proposed assessments made after June 30, 1996."
 
 Pub. L. 104–168, title IX, §903(b), July 30, 1996, 110 Stat. 1466, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to penalties assessed after the date of the enactment of this Act \[July 30, 1996\]."
 

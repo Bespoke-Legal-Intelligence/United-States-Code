@@ -46,7 +46,7 @@ Any State application or modification thereof submitted to the Secretary under t
 
 #### (f) Cooperation in implementation of programs; exchange of reports between States
 
-The Secretary shall cooperate with such State in carrying out the application or modification thereof and shall, as appropriate, develop and, where appropriate, construct facilities for, and finance a program of, training of Federal and State inspectors jointly. The Secretary shall also cooperate with such State in establishing a system by which State and Federal inspection reports of coal or other mines located in the State are exchanged for the purpose of improving health and safety conditions in such mines.
+The Secretary shall cooperate with such State in carrying out the application or modificationthereof and shall, as appropriate, develop and, where appropriate, construct facilities for, and finance a program of, training of Federal and State inspectors jointly. The Secretary shall also cooperate with such State in establishing a system by which State and Federal inspection reports of coal or other mines located in the State are exchanged for the purpose of improving health and safety conditions in such mines.
 
 #### (g) Limitation on grants
 

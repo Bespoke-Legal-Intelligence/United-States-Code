@@ -2,7 +2,7 @@
 
 #### (a) Law enforcement assistance
 
-Pursuant to sections 222 and 224 of the U.S.-FSM Compact, the United States shall provide non-reimbursable technical and training assistance as appropriate, including training and equipment for postal inspection of illicit drugs and other contraband, to enable the Government of the Federated States of Micronesia to develop and adequately enforce laws of the Federated States of Micronesia and to cooperate with the United States in the enforcement of criminal laws of the United States. Funds appropriated pursuant to section 1921d(j) of this title may be used to reimburse State or local agencies providing such assistance.
+Pursuant to sections 222 and 224 of the U.S.-FSM Compact, the United States shall providenon-reimbursable technical and training assistance as appropriate, including training and equipment for postal inspection of illicit drugs and other contraband, to enable the Government of the Federated States of Micronesia to develop and adequately enforce laws of the Federated States of Micronesia and to cooperate with the United States in the enforcement of criminal laws of the United States. Funds appropriated pursuant to section 1921d(j) of this title may be used to reimburse State or local agencies providing such assistance.
 
 #### (b) Agreement on audits
 
@@ -46,5 +46,5 @@ The Comptroller General (and his duly authorized representatives) shall have the
 
 #### References in Text
 
-This joint resolution, referred to in subsec. (b)(5), is Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under sections 1901 and 1921 of this title and amended provisions set out as a note under section 3101 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
+This joint resolution, referred to in subsec. (b)(5), is Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under sections 1901 and 1921 of this title and amended provisions set out as a note under section 3101of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
 

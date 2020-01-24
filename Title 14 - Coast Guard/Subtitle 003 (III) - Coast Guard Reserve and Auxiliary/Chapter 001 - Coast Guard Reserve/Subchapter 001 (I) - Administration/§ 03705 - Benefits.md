@@ -12,7 +12,7 @@
 
 (f) A member of the Coast Guard Reserve not on active duty who is enrolled in an officer candidate program authorized by section 12209 of title 10 leading to a commission in the Coast Guard Reserve, and is a full-time student in an accredited college curriculum leading to a bachelor's degree may be paid a subsistence allowance for each month of the member's academic year at the same rate as that prescribed by section 209(a) of title 37.
 
-(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1003, §705; amended Pub. L. 97–417, §1, Jan. 4, 1983, 96 Stat. 2085; Pub. L. 104–106, div. A, title XV, §1501(e)(1)(A), Feb. 10, 1996, 110 Stat. 501; Pub. L. 109–163, div. A, title V, §515(c), Jan. 6, 2006, 119 Stat. 3235; renumbered §3705 and amended Pub. L. 115–282, title I, §§118(b), 123(c)(3), Dec. 4, 2018, 132 Stat. 4233, 4241.)
+(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1003, §705; amended Pub. L. 97–417, §1, Jan. 4, 1983, 96 Stat. 2085; Pub. L. 104–106, div. A, titleXV, §1501(e)(1)(A), Feb. 10, 1996, 110 Stat. 501; Pub. L. 109–163, div. A, title V, §515(c), Jan. 6, 2006, 119 Stat. 3235; renumbered §3705 and amended Pub. L. 115–282, title I, §§118(b), 123(c)(3), Dec. 4, 2018, 132 Stat. 4233, 4241.)
 
 #### Prior Provisions
 

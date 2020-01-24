@@ -66,7 +66,7 @@ Product support integrator.—The term "product support integrator" means an ent
 
 &emsp;(4)
 
-Product support provider.—The term "product support provider" means an entity that provides product support functions. Theterm includes an entity within the Department of Defense, an entity within the private sector, or a partnership between such entities.
+Product support provider.—The term "product support provider" means an entity that provides product support functions. The term includes an entity within the Department of Defense, an entity within the private sector, or a partnership between such entities.
 
 &emsp;(5)
 

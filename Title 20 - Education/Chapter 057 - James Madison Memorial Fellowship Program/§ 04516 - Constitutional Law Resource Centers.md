@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-It is the purpose of this section to establish four centers where nationally recognized distinguished experts in Constitutional law will produce, on a periodic basis, articles of current interest relating to the Constitution of the United States which are suitable for use by James Madison scholars, educational institutions, law school reviews, bar associations, and the news media.
+It is the purpose of this section to establish four centers where nationally recognized distinguished experts in Constitutional law willproduce, on a periodic basis, articles of current interest relating to the Constitution of the United States which are suitable for use by James Madison scholars, educational institutions, law school reviews, bar associations, and the news media.
 
 #### (b) Endowments
 
@@ -16,7 +16,7 @@ The professor holding each chair shall file a copy of such articles with the Lib
 
 #### (d) Investment of endowment
 
-That portion of each endowment provided by this chapter <sup>2</sup> and any accumulations attributable to such grant shall be invested by the recipient university in interest bearing obligations of the United States or in obligations guaranteed both as to principal and interest by the United States and shall be subject to audit by the Government Accountability Office for the sole purpose of determining that such funds areaccounted for or have been used as provided herein. If a grantee university elects to discontinue such chair and support services, the corpus of the endowment attributable to the Federal grant shall revert to the Treasury of the United States.
+That portion of each endowment provided by this chapter <sup>2</sup> and any accumulations attributable to such grant shall be invested by the recipient university in interest bearing obligations of the United States or in obligations guaranteed both as to principal and interest by the United States and shall be subject to audit by the Government Accountability Office for the sole purpose of determining that such funds are accounted for or have been used as provided herein. If a grantee university elects to discontinue such chair and support services, the corpus of the endowment attributable to the Federal grant shall revert to the Treasury of the United States.
 
 #### (e) Application for grant of endowment
 

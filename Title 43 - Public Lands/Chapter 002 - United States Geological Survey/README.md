@@ -13,6 +13,7 @@
 | [31h.](%C2%A7%2000031h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [31i.](%C2%A7%2000031i%20-%20Report%20on%20resource%20research%20activities.md) | Report on resource research activities. |
 | [31j.](%C2%A7%2000031j%20-%20Biological%20research%20activity%20of%20Survey%3B%20review%20and%20report%20by%20National%20Academy%20of%20Sciences.md) | Biological research activity of Survey; review and report by National Academy of Sciences. |
+| [31k.](%C2%A7%2000031k%20-%20National%20Volcano%20Early%20Warning%20and%20Monitoring%20System.md) | National Volcano Early Warning and Monitoring System. |
 | [32\.](%C2%A7%2000032%20-%20Acting%20Director.md) | Acting Director. |
 | [33\.](%C2%A7%2000033%20-%20Repealed.%20Aug.%2010%2C%201956%2C%20ch.%201041%2C%20%C2%A753%2C%2070A%20Stat.%20641.md) | Repealed. |
 | [34\.](%C2%A7%2000034%20-%20Scientific%20employees.md) | Scientific employees. |
@@ -58,6 +59,7 @@
 - [&sect; 00031h - Authorization of appropriations](%C2%A7%2000031h%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00031i - Report on resource research activities](%C2%A7%2000031i%20-%20Report%20on%20resource%20research%20activities.md)
 - [&sect; 00031j - Biological research activity of Survey; review and report by National Academy of Sciences](%C2%A7%2000031j%20-%20Biological%20research%20activity%20of%20Survey%3B%20review%20and%20report%20by%20National%20Academy%20of%20Sciences.md)
+- [&sect; 00031k - National Volcano Early Warning and Monitoring System](%C2%A7%2000031k%20-%20National%20Volcano%20Early%20Warning%20and%20Monitoring%20System.md)
 - [&sect; 00032 - Acting Director](%C2%A7%2000032%20-%20Acting%20Director.md)
 - [&sect; 00033 - Repealed. Aug. 10, 1956, ch. 1041, &sect;53, 70A Stat. 641](%C2%A7%2000033%20-%20Repealed.%20Aug.%2010%2C%201956%2C%20ch.%201041%2C%20%C2%A753%2C%2070A%20Stat.%20641.md)
 - [&sect; 00034 - Scientific employees](%C2%A7%2000034%20-%20Scientific%20employees.md)

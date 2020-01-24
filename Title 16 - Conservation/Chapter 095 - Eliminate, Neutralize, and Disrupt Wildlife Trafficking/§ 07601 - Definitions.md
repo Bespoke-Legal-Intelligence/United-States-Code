@@ -56,7 +56,7 @@ In this chapter:
 
 #### (12) Wildlife trafficking
 
-&emsp;The term "wildlife trafficking" refers to the poaching or other illegal taking of protected or managed species and the illegal trade in wildlife and their related parts and products.
+&emsp;The term "wildlife trafficking" refers to the poaching or other illegal taking of protectedor managed species and the illegal trade in wildlife and their related parts and products.
 
 (Pub. L. 114–231, §2, Oct. 7, 2016, 130 Stat. 949.)
 

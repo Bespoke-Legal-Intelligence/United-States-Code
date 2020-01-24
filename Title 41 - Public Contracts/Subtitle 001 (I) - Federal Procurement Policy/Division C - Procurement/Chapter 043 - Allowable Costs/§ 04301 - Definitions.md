@@ -8,7 +8,7 @@ Compensation.—The term "compensation", for a fiscal year, means the total amou
 
 &emsp;(2)
 
-Covered contract.—The term "covered contract" means a contract for an amount in excess of $500,000 that is entered into by an executive agency, except that the term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
+Covered contract.—The term "covered contract" means a contract for an amount in excess of $500,000 that is entered into by an executive agency, except that the term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial products or commercial services.
 
 &emsp;(3)
 
@@ -19,10 +19,6 @@ Fiscal year.—The term "fiscal year" means a fiscal year established by a contr
 Senior executive.—The term "senior executive", with respect to a contractor, means the 5 most highly compensated employees in management positions at each home office and each segment of the contractor.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3784; Pub. L. 115–232, div. A, title VIII, §836(b)(17), Aug. 13, 2018, 132 Stat. 1864.)
-
-#### Amendment of Paragraph (2)
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(b)(17), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (2) of this section is amended by striking "commercial items" and inserting "commercial products or commercial services". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 

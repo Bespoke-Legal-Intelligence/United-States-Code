@@ -22,7 +22,7 @@ Exception.—If the program manager determines that engineering activities and d
 
 &emsp;(3)
 
-Source selection criteria.—The Secretary shall ensure that sustainment factors, including reliability and maintainability, are given ample emphasis in the process for source selection. The Secretary shall encourage the use of objective reliability and maintainability criteria in the evaluation of competitive proposals.
+Source selection criteria.—The Secretary shall ensure that sustainment factors, including reliability and maintainability, are given ample emphasis in the process for sourceselection. The Secretary shall encourage the use of objective reliability and maintainability criteria in the evaluation of competitive proposals.
 
 (d)
 

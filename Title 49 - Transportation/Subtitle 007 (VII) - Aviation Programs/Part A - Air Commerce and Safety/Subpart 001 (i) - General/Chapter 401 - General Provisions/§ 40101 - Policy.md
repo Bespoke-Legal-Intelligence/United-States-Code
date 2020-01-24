@@ -258,6 +258,12 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–92, div. A, title XI, §1131(a), Dec. 20, 2019, 133 Stat. 1615, provided that: "This subtitle \[subtitle C (§§1131–1135) of title XI of div. A of Pub. L. 116–92, amending section 44506 of this title\] may be cited as the 'ATC Hiring Reform Act'."
+
+Pub. L. 116–34, §1, July 29, 2019, 133 Stat. 1040, provided that: "This Act \[amending provisions set out as a note under this section\] may be cited as the 'Never Forget the Heroes: James Zadroga, Ray Pfeifer, and Luis Alvarez Permanent Authorization of the September 11th Victim Compensation Fund Act'."
+
 #### Short Title of 2018 Amendment
 
 Pub. L. 115–254, §1(a), Oct. 5, 2018, 132 Stat. 3186, provided that: "This Act \[see Tables for classification\] may be cited as the 'FAA Reauthorization Act of 2018'."
@@ -316,13 +322,13 @@ Pub. L. 108–297, §1, Aug. 9, 2004, 118 Stat. 1095, provided that: "This Act \
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–176, §1(a), Dec. 12, 2003, 117 Stat. 2490, provided that: "This Act \[see Tables for classification\] may be cited as the 'Vision 100—Century of Aviation Reauthorization Act'."
+Pub. L. 108–176, §1(a), Dec. 12, 2003, 117 Stat. 2490, provided that: "This Act \[see Tables for classification\]may be cited as the 'Vision 100—Century of Aviation Reauthorization Act'."
 
 Pub. L. 108–176, title III, §301, Dec. 12, 2003, 117 Stat. 2533, provided that: "This title \[enacting subchapter III of chapter 471 of this title, amending sections 40104, 40128, 47106, 47503, and 47504 of this title, and enacting provisions set out as notes under this section and sections 40128, 47171, 47503, and 47508 of this title\] may be cited as 'Aviation Streamlining Approval Process Act of 2003'."
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–296, title XIV, §1401, Nov. 25, 2002, 116 Stat. 2300, provided that: "This title \[enacting section44921 of this title and section 513 of Title 6, Domestic Security, amending sections 44903 and 44918 of this title, amending provisions set out as a note under section 114 of this title, and repealing provisions set out as a note under section 44903 of this title\] may be cited as the 'Arming Pilots Against Terrorism Act'."
+Pub. L. 107–296, title XIV, §1401, Nov. 25, 2002, 116 Stat. 2300, provided that: "This title \[enacting section 44921 of this title and section 513 of Title 6, Domestic Security, amending sections 44903 and 44918 of this title, amending provisions set out as a note under section 114 of this title, and repealing provisions set out as a note under section 44903 of this title\] may be cited as the 'Arming Pilots Against Terrorism Act'."
 
 #### Short Title of 2001 Amendment
 
@@ -700,7 +706,7 @@ Pub. L. 115–254, div. B, title V, §562, Oct. 5, 2018, 132 Stat. 3384, provide
 
 #### Aviation Workforce Development Programs
 
-Pub. L. 115–254, div. B, title VI, §625, Oct. 5, 2018, 132 Stat. 3405, provided that:
+Pub. L. 115–254, div. B, title VI, §625, Oct. 5, 2018, 132 Stat. 3405, as amended by Pub. L. 116–92, div. A, title XVII, §1743(a), Dec. 20, 2019, 133 Stat. 1842, provided that:
 
 "(a)
 
@@ -716,7 +722,7 @@ Project Grants.—
 
 &emsp;"(1)
 
-In general.—Out of amounts made available under section 48105 of title 49, United States Code, not more than $5,000,000 for each of fiscal years 2019 through 2023 is authorized to be expended to provide grants under the program established under subsection (a)(1), and $5,000,000 for each of fiscal years 2019 through 2023 is authorized to provide grants under the program established under subsection (a)(2).
+In general.—Out of amounts made available under section 48105 of title 49, United States Code, not more than $5,000,000 for each of fiscal years 2019 through 2023 is authorized to be expended to provide grants under the program established under subsection (a)(1), and $5,000,000 for each of fiscal years 2019 through 2023 is authorized to provide grantsunder the program established under subsection (a)(2).
 
 &emsp;"(2)
 
@@ -732,9 +738,11 @@ Eligible Applications.—
 
 &emsp;&emsp;"(B) an accredited institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) or a high school or secondary school (as defined in section 7801 \[probably should be "8101"\] of the Higher Education Act of 1965 (20 U.S.C. 7801));
 
-&emsp;&emsp;"(C) a flight school that provides flight training, as defined in part 61 of title 14, Code of Federal Regulations, or that holds a pilot school certificate under part 141 of title 14, Code of Federal Regulations; or
+&emsp;&emsp;"(C) a flight school that provides flight training, as defined in part 61 of title 14, Code of Federal Regulations, or that holds a pilot school certificate under part 141 of title 14, Code of Federal Regulations;
 
-&emsp;&emsp;"(D) a State or local governmental entity.
+&emsp;&emsp;"(D) a State or local governmental entity; or
+
+&emsp;&emsp;"(E) an organization representing aircraft users, aircraft owners, or aircraft pilots.
 
 &emsp;"(2) An application for a grant under the pilot program established under subsection (a)(2) shall be submitted, in such form as the Secretary may specify, by—
 
@@ -779,6 +787,8 @@ Grant Application Review.—In reviewing and selecting applications for grants u
 &emsp;"(1) prior to selecting among competing applications, consult, as appropriate, with representatives of aircraft repair stations, design and production approval holders, air carriers, labor organizations, business aviation, general aviation, educational institutions, and other relevant aviation sectors; and
 
 &emsp;"(2) ensure that the applications selected for projects established under subsection (a)(1) will allow participation from a diverse collection of public and private schools in rural, suburban, and urban areas."
+
+\[Pub. L. 116–92, div. A, title XVII, §1743(b), Dec. 20, 2019, 133 Stat. 1842, provided that: "The amendments made by subsection (a) \[amending section 625 of Pub. L. 115–254, set out above\] shall take effect as if included in the enactment of the FAA Reauthorization Act of 2018 (Public Law 115–254)."\]
 
 #### Community and Technical College Centers of Excellence in Small Unmanned Aircraft System Technology Training
 
@@ -834,7 +844,7 @@ Unmanned Aircraft System Defined.—In this section, the term 'unmanned aircraft
 
 #### Cyber Testbed
 
-Pub. L. 115–254, div. B, title VII, §731, Oct. 5, 2018, 132 Stat. 3411, provided that: "Not later than 6 months after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall develop an integrated Cyber Testbed for research, development, evaluation, and validation ofair traffic control modernization technologies, before they enter the national airspace system, as being compliant with FAA data security regulations. The Cyber Testbed shall be part of an integrated research and development test environment capable of creating, identifying, defending, and solving cybersecurity-related problems for the national airspace system. This integrated test environment shall incorporate integrated test capacities within the FAA related to the national airspace system and NextGen."
+Pub. L. 115–254, div. B, title VII, §731, Oct. 5, 2018, 132 Stat. 3411, provided that: "Not later than 6 months after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall develop an integrated Cyber Testbed for research, development, evaluation, and validation of air traffic control modernization technologies, before they enter the national airspace system, as being compliant with FAA data security regulations. The Cyber Testbed shall be part of an integrated research and development test environment capable of creating, identifying, defending, and solving cybersecurity-related problems for the national airspace system. This integrated test environment shall incorporate integrated test capacities within the FAA related to the national airspace system and NextGen."
 
 #### Mitigation of Operational Risks Posed to Certain Military Aircraft by Automatic Dependent Surveillance-Broadcast Equipment
 
@@ -1476,7 +1486,7 @@ Pub. L. 112–95, title II, §225, Feb. 14, 2012, 126 Stat. 55, provided that:
 
 "(a)
 
-Initial Report.—Not later than 180 days after the date of the enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall submit to Congress a report on the strategy of the Administrator for implementing, on an accelerated basis, the NextGen operational capabilities produced by the Greener Skies project, as recommended in the final report of the RTCA NextGen Mid-Term Implementation Task Force that was issued on September 9, 2009.
+Initial Report.—Not later than 180 days after the date of the enactment of this Act \[Feb. 14, 2012\], theAdministrator of the Federal Aviation Administration shall submit to Congress a report on the strategy of the Administrator for implementing, on an accelerated basis, the NextGen operational capabilities produced by the Greener Skies project, as recommended in the final report of the RTCA NextGen Mid-Term Implementation Task Force that was issued on September 9, 2009.
 
 "(b)
 
@@ -1678,7 +1688,7 @@ Establishment.—(1) The Secretary of Transportation shall establish in the Fede
 
 &emsp;"(M) maintaining a baseline modeling and simulation environment for testing and evaluating alternative concepts to satisfy Next Generation Air Transportation System enterprise architecture requirements.
 
-"(4)(A) The Office shall operate in conjunction with relevant programs in the Department of Defense, the National Aeronautics and Space Administration, theDepartment of Commerce and the Department of Homeland Security. The Secretary of Transportation may request assistance from staff from those Departments and other Federal agencies.
+"(4)(A) The Office shall operate in conjunction with relevant programs in the Department of Defense, the National Aeronautics and Space Administration, the Department of Commerce and the Department of Homeland Security. The Secretary of Transportation may request assistance from staff from those Departments and other Federal agencies.
 
 "(B) The Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, the Secretary of Commerce, the Secretary of Homeland Security, and the head of any other Federal agency from which the Secretary of Transportation requests assistance under subparagraph (A) shall designate a senior official in the agency to be responsible for—
 
@@ -1746,7 +1756,7 @@ Integrated Plan.—The integrated plan shall be designed to ensure that the Next
 
 &emsp;&emsp;"(D) an estimate of all necessary expenditures on a year-by-year basis, including a statement of each Federal agency or entity's responsibility for costs and available resources, for each stage of development from the basic research stage through the demonstration and implementation phase;
 
-&emsp;&emsp;"(E) a clear explanation of how each step in the development of the Next Generation Air Transportation System will lead to the following step and ofthe implications of not successfully completing a step in the time period described in the integrated work plan;
+&emsp;&emsp;"(E) a clear explanation of how each step in the development of the Next Generation Air Transportation System will lead to the following step and of the implications of not successfully completing a step in the time period described in the integrated work plan;
 
 &emsp;&emsp;"(F) a transition plan for the implementation of the Next Generation Air Transportation System that includes date-specific milestones for the implementation of new capabilities into the national airspace system;
 
@@ -1934,7 +1944,7 @@ Limitations.—The Secretary may impose reasonable limitations on any such waive
 
 #### Air Carriers Required To Honor Tickets for Suspended Service
 
-Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pub. L. 108–7, div. I, title III, §372, Feb. 20, 2003, 117 Stat. 427; Pub. L. 108–176, title IV, §428, Dec. 12, 2003, 117 Stat. 2556; Pub. L. 108–458, title VIII, §8404, Dec. 17, 2004, 118 Stat. 3872; Pub. L. 109–115, div. A, title I, §178, Nov. 30, 2005, 119 Stat. 2427, required each air carrier providing scheduled air transportation on a route to provide, to the extent practicable, air transportation to passengers ticketed for air transportation on that route by any other air carrier that suspended, interrupted, or discontinued air passenger service on the route by reason of insolvency or bankruptcy of the other air carrier occurring on or before Nov. 30, 2006.
+Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pub. L. 108–7, div. I, title III, §372, Feb. 20, 2003, 117 Stat. 427; Pub. L. 108–176, title IV, §428, Dec. 12, 2003, 117 Stat. 2556; Pub. L. 108–458, title VIII, §8404,Dec. 17, 2004, 118 Stat. 3872; Pub. L. 109–115, div. A, title I, §178, Nov. 30, 2005, 119 Stat. 2427, required each air carrier providing scheduled air transportation on a route to provide, to the extent practicable, air transportation to passengers ticketed for air transportation on that route by any other air carrier that suspended, interrupted, or discontinued air passenger service on the route by reason of insolvency or bankruptcy of the other air carrier occurring on or before Nov. 30, 2006.
 
 #### Relationship of Eligible Crime Victim Compensation Programs to September 11th Victim Compensation Fund
 
@@ -1944,7 +1954,7 @@ Pub. L. 107–56, title VI, §622(e)(2), Oct. 26, 2001, 115 Stat. 372, provided 
 
 Pub. L. 112–10, div. B, title III, §1347, Apr. 15, 2011, 125 Stat. 124, as amended by Pub. L. 114–113, div. O, title IV, §402(h), Dec. 18, 2015, 129 Stat. 3007, provided that: "Notwithstanding any other provision of law, in fiscal year 2012 and thereafter payments for costs described in subsection (a) of section 404 of Public Law 107–42, as amended \[set out below\], shall be considered to be, and included in, payments for compensation for the purposes of sections 406(b) and (d)(1) and (2) of such Act. Costs for payments for compensation for claims in Group A, as described in section 405(a)(3)(C)(ii) of such Act, shall be paid from amounts made available under section 406 of such Act. Costs for payments for compensation for claims in Group B, as described in section 405(a)(3)(C)(iii) of such Act, shall be paid from amounts in the Victims Compensation Fund established under section 410 of such Act."
 
-Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I, §114(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 107–296, title VIII, §890, title XII, §1201(2), Nov. 25, 2002, 116 Stat. 2251, 2286; Pub. L. 110–113, §3, Nov. 8, 2007, 121 Stat. 1039; Pub. L. 110–161, div. D, title I, Dec. 26, 2007, 121 Stat. 1974; Pub. L. 111–347, title II, Jan. 2, 2011, 124 Stat. 3659; Pub. L. 114–113, div. O, title IV, §402(a)–(g), Dec. 18, 2015, 129 Stat. 3000–3006; Pub. L. 115–123, div. C, title II, §30203(b), Feb. 9, 2018, 132 Stat. 126, provided that:
+Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I, §114(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 107–296, title VIII, §890, title XII, §1201(2), Nov. 25, 2002, 116 Stat. 2251, 2286; Pub. L. 110–113, §3, Nov. 8, 2007, 121 Stat. 1039; Pub. L. 110–161, div. D, title I, Dec. 26, 2007, 121 Stat. 1974; Pub. L. 111–347, title II, Jan. 2, 2011, 124 Stat. 3659; Pub. L. 114–113, div. O, title IV, §402(a)–(g), Dec. 18, 2015, 129 Stat. 3000–3006; Pub. L. 115–123, div. C, title II, §30203(b), Feb. 9, 2018, 132 Stat. 126; Pub. L. 116–34, §§2, 3, July 29, 2019, 133 Stat. 1040, 1042, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -2172,7 +2182,7 @@ Contractor and subcontractor.—The term 'contractor and subcontractor' means an
 
 &emsp;"(8)
 
-Debris removal.—The term 'debris removal' means rescue and recovery efforts, removal of debris,cleanup, remediation, and response during the immediate aftermath of the terrorist-related aircraft crashes of September 11, 2001, with respect to a 9/11 crash site.
+Debris removal.—The term 'debris removal' means rescue and recovery efforts, removal of debris, cleanup, remediation, and response during the immediate aftermath of the terrorist-related aircraft crashes of September 11, 2001, with respect to a 9/11 crash site.
 
 &emsp;"(9)
 
@@ -2244,6 +2254,10 @@ In General.—The Attorney General, acting through a Special Master appointed by
 
 "(b)
 
+Appointment of Special Master and Deputy Special Masters.—The Attorney General may appoint a Special Master and no more than two Deputy Special Masters without regard to the provisions of title 5, United States Code, governing appointments in the competitive service. Any such employee shall serve at the pleasure of the Attorney General. The Attorney General shall fix the annual salary of the Special Master and the Deputy Special Masters.
+
+"(c)
+
 Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to pay the administrative and support costs for the Special Master in carrying out this title.
 
 #### "SEC. 405. DETERMINATION OF ELIGIBILITY FOR COMPENSATION.
@@ -2270,7 +2284,7 @@ Contents.—The form developed under subparagraph (A) shall request—
 
 &emsp;&emsp;&emsp;"(i) information from the claimant concerning the physical harm that the claimant suffered, or in the case of a claim filed on behalf of a decedent information confirming the decedent's death, as a result of the terrorist-related aircraft crashes of September 11, 2001, or debris removal during the immediate aftermath;
 
-&emsp;&emsp;&emsp;"(ii) information from the claimant concerning any possible economic and noneconomic losses that the claimant suffered as a result of such crashes or debris removal during the immediate aftermath; and
+&emsp;&emsp;&emsp;"(ii) information from the claimant concerning any possible economic and noneconomic lossesthat the claimant suffered as a result of such crashes or debris removal during the immediate aftermath; and
 
 &emsp;&emsp;&emsp;"(iii) information regarding collateral sources of compensation the claimant has received or is entitled to receive as a result of such crashes or debris removal during the immediate aftermath.
 
@@ -2284,7 +2298,7 @@ In general.—Except as provided by subparagraph (B), no claim may be filed unde
 
 &emsp;&emsp;"(B)
 
-Exception.—A claim may be filed under paragraph (1), in accordance with subsection (c)(3)(A)(i), by an individual (or by a personal representative on behalf of a deceased individual) during the period beginning on the date on which the regulations are updated under section 407(b)(1) and ending on the date that is 5 years after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\].
+Exception.—A claim may be filed under paragraph (1), in accordance with subsection (c)(3)(A)(i), by an individual (or by a personal representative on behalf of a deceased individual) during the period beginning on the date on which the regulations are updated under section 407(b)(1) and ending on October 1, 2090.
 
 &emsp;&emsp;"(C)
 
@@ -2374,11 +2388,19 @@ Limitations for group b claims.—
 
 &emsp;&emsp;"(A)
 
-Noneconomic losses.—With respect to a claim in Group B as described in subsection (a)(3)(C)(iii), the total amount of compensation to which a claimant filing such claim is entitled to receive for such claim under this title on account of any noneconomic loss—
+Noneconomic losses.—
 
-&emsp;&emsp;&emsp;"(i) that results from any type of cancer shall not exceed $250,000; and
+&emsp;&emsp;&emsp;"(i)
 
-&emsp;&emsp;&emsp;"(ii) that does not result from any type of cancer shall not exceed $90,000.
+In general.—Except as provided in clause (ii), with respect to a claim in Group B as described in subsection (a)(3)(C)(iii), the total amount of compensation to which a claimant filing such claim is entitled to receive for such claim under this title on account of any noneconomic loss—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) that results from any type of cancer shall not exceed $250,000; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) that does not result from any type of cancer shall not exceed $90,000.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Exception.—The Special Master may exceed the applicable limitation in clause (i) for a claim in Group B as described in subsection (a)(3)(C)(iii) if the Special Master determines that the claim presents special circumstances.
 
 &emsp;&emsp;"(B)
 
@@ -2390,7 +2412,7 @@ In general.—Subject to the limitation described in clause (ii) and with respec
 
 &emsp;&emsp;&emsp;"(ii)
 
-Annual gross income limitation.—In considering annual gross income under clause (i) for the purposes described in such clause, the Special Master shall, for each year of any loss of earnings or other benefits related to employment, limit the annual gross income of the claimant (or decedent in the case of a personal representative) for each such year to an amount that is not greater than $200,000.
+Annual gross income limitation.—In considering annual gross income under clause (i) for the purposes described in such clause, the Special Master shall, for each year of any loss of earnings or other benefits related to employment, limit the annual gross income of the claimant (or decedent in the case of a personal representative) for each such year to an amount that is not greater than the annual gross income limitation. The annual gross income limitation in effect on the date of enactment of the Never Forget the Heroes: James Zadroga, Ray Pfeifer, and Luis Alvarez Permanent Authorization of the September 11th Victim Compensation Fund Act \[July 29, 2018\] is $200,000. The Special Master shall periodically adjust that annual gross income limitation to account for inflation.
 
 &emsp;&emsp;"(C)
 
@@ -2434,7 +2456,7 @@ Requirements for filing claims during extended filing period.—
 
 Timing requirements for filing claims.—An individual (or a personal representative on behalf of a deceased individual) may file a claim during the period described in subsection (a)(3)(B) as follows:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) In the case that the Special Master determines the individual knew (or reasonably should have known) before the date specified in clause (iii) that the individual suffered a physical harm at a 9/11 crash site as a result of the terrorist-related aircraft crashes of September 11, 2001, or as a result of debris removal, and that the individual knew (or should have known) before such specified date that the individual was eligible to file a claim under this title, the individual may file a claim not laterthan the date that is 2 years after such specified date.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) In the case that the Special Master determines the individual knew (or reasonably should have known) before the date specified in clause (iii) that the individual suffered a physical harm at a 9/11 crash site as a result of the terrorist-related aircraft crashes of September 11, 2001, or as a result of debris removal, and that the individual knew (or should have known) before such specified date that the individual was eligible to file a claim under this title, the individual may file a claim not later than the date that is 2 years after such specified date.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) In the case that the Special Master determines the individual first knew (or reasonably should have known) on or after the date specified in clause (iii) that the individual suffered such a physical harm or that the individual first knew (or should have known) on or after such specified date that the individual was eligible to file a claim under this title, the individual may file a claim not later than the last day of the 2-year period beginning on the date the Special Master determines the individual first knew (or should have known) that the individual both suffered from such harm and was eligible to file a claim under this title.
 
@@ -2534,7 +2556,7 @@ In general.—The total amount of Federal funds paid for compensation under this
 
 &emsp;&emsp;"(B)
 
-Payment system.—The Special Master shall establish a system for providing compensation forclaims in Group B as described in section 405(a)(3)(C)(iii) in accordance with this subsection and section 405(b)(7).
+Payment system.—The Special Master shall establish a system for providing compensation for claims in Group B as described in section 405(a)(3)(C)(iii) in accordance with this subsection and section 405(b)(7).
 
 &emsp;&emsp;"(C)
 
@@ -2559,6 +2581,38 @@ Prioritization.—The policies and procedures developed under subclause (I) shal
 &emsp;&emsp;&emsp;"(ii)
 
 Reassessment.—Beginning 1 year after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act, and each year thereafter until the Victims Compensation Fund is permanently closed under section 410(e), the Special Master shall conduct a reassessment of the agency policies and procedures developed under clause (i) to ensure that such policies and procedures continue to satisfy the requirements under subclauses (II) and (III) of such clause. If the Special Master determines, upon reassessment, that such agency policies or procedures do not achieve the requirements of such subclauses, the Special Master shall take additional actions or make such modifications as necessary to achieve such requirements.
+
+&emsp;&emsp;"(D)
+
+Compensation reduced by special master due to insufficient funding.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—In any claim in Group B as described in section 405(a)(3)(C)(iii) in which, prior to the enactment of the Never Forget the Heroes: James Zadroga, Ray Pfeifer, and Luis Alvarez Permanent Authorization of the September 11th Victim Compensation Fund Act \[July 29, 2019\], the Special Master had advised the claimant that the amount of compensation has been reduced on the basis of insufficient funding, the Special Master shall, in the first fiscal year beginning after sufficient funding becomes available under such Act \[amending this note\], pay to the claimant an amount that is, as determined by the Special Master, equal to the difference between—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the amount the claimant would have been paid under this title if sufficient funding was available to the Special Master at the time the Special Master determined the amount due the claimant under this title; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the amount the claimant was paid under this title.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Definitions.—For purposes of this subparagraph:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
+
+Insufficient funding.—The term 'insufficient funding' means funding—
+
+&emsp;&emsp;&emsp;"(aa) that is available to the Special Master under section 410(c) on the day before the date of enactment of the Never Forget the Heroes: James Zadroga, Ray Pfeifer, and Luis Alvarez Permanent Authorization of the September 11th Victim Compensation Fund Act for purposes of compensating claims in Group B as described in section 405(a)(3)(C)(iii); and
+
+&emsp;&emsp;&emsp;"(bb) that the Special Master determines is insufficient for purposes of compensating all such claims and complying with subparagraph (A).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
+
+Sufficient funding.—The term 'sufficient funding' means funding—
+
+&emsp;&emsp;&emsp;"(aa) made available to the Special Master for purposes of compensating claims in Group B as described in section 405(a)(3)(C)(iii) through an Act of Congress that is enacted after the date on which the amount of the claim described in clause (i) has been reduced; and
+
+&emsp;&emsp;&emsp;"(bb) that the Special Master determines is sufficient for purposes of compensating all claims in such Group B.
 
 "(e)
 
@@ -2632,7 +2686,7 @@ Willful defaults on rebuilding obligation.—Paragraph (1) does not apply to any
 
 &emsp;"(3)
 
-Limitations on liability for New York City.—Liability for all claims, whether for compensatory or punitive damages or for contribution or indemnity arising from the terrorist-related aircraft crashes of September 11, 2001, against the City of New York shall not exceed the greater of the city's insurance coverage or $350,000,000. If a claimant who is eligible to seek compensation under section 405 of this Act, submits a claim under section 405, the claimant waives the right to file a civil action (or to be a party to an action) in any Federal or State court for damages sustained as a result of the terrorist-related aircraft crashes of September 11, 2001, including anysuch action against the City of New York. The preceding sentence does not apply to a civil action to recover collateral source obligations.
+Limitations on liability for New York City.—Liability for all claims, whether for compensatory or punitive damages or for contribution or indemnity arising from the terrorist-related aircraft crashes of September 11, 2001, against the City of New York shall not exceed the greater of the city's insurance coverage or $350,000,000. If a claimant who is eligible to seek compensation under section 405 of this Act, submits a claim under section 405, the claimant waives the right to file a civil action (or to be a party to an action) in any Federal or State court for damages sustained as a result of the terrorist-related aircraft crashes of September 11, 2001, including any such action against the City of New York. The preceding sentence does not apply to a civil action to recover collateral source obligations.
 
 &emsp;"(4)
 
@@ -2656,7 +2710,7 @@ Priority of claims payments.—Payments to plaintiffs who obtain a settlement or
 
 &emsp;&emsp;"(B) If there are no funds available as described in subparagraph (A) or (B) of paragraph (4), the funds described in subparagraph (C) of such paragraph.
 
-&emsp;&emsp;"(C) If there are no funds available as described in subparagraph (A), (B), or (C) of paragraph (4), the funds described in subparagraph (D) of such paragraph.
+&emsp;&emsp;"(C) If there are no funds available as described in subparagraph (A), (B), or (C) of paragraph (4), thefunds described in subparagraph (D) of such paragraph.
 
 &emsp;&emsp;"(D) If there are no funds available as described in subparagraph (A), (B), (C), or (D) of paragraph (4), the funds described in subparagraph (E) of such paragraph.
 
@@ -2716,7 +2770,7 @@ Deposits Into Fund.—There shall be deposited into the Victims Compensation Fun
 
 "(c)
 
-Appropriations.—There is appropriated, out of any money in the Treasury not otherwise appropriated, $4,600,000,000 for fiscal year 2017, to remain available until expended, to provide compensation for claims in Group B as described in section 405(a)(3)(C)(iii).
+Appropriations.—There is appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for fiscal year 2019 and each fiscal year thereafter through fiscal year 2092, to remain available until expended, to provide compensation for claims in Group B as described in section 405(a)(3)(C)(iii).
 
 "(d)
 
@@ -2724,7 +2778,7 @@ Availability of Funds.—Amounts deposited into the Victims Compensation Fund sh
 
 "(e)
 
-Termination.—Upon completion of all payments under this title, the Victims Compensation Fund shall be permanently closed.
+Termination.—On October 1, 2092, or at such time thereafter as all funds are expended, the Victims Compensation Fund shall be permanently closed.
 
 #### "SEC. 411. 9-11 RESPONSE AND BIOMETRIC ENTRY-EXIT FEE.
 
@@ -2846,7 +2900,7 @@ Annual reports.—Not later than December 31, 2000, and annually thereafter unti
 
 &emsp;&emsp;"(C)
 
-Information to be included in faa financial report.—The Administrator \[of the Federal Aviation Administration\] shall include in the annual financial report of the Administration information on the performance of the Administrationsufficient to permit users and others to make an informed evaluation of the progress of the Administration in increasing productivity.
+Information to be included in faa financial report.—The Administrator \[of the Federal Aviation Administration\] shall include in the annual financial report of the Administration information on the performance of the Administration sufficient to permit users and others to make an informed evaluation of the progress of the Administration in increasing productivity.
 
 "(b)
 
@@ -3078,7 +3132,7 @@ Impact assessment for recommendations.—For each recommendation contained in th
 
 &emsp;&emsp;"(E)
 
-Trust fund tax recommendations.—If the task force's report includes a recommendation thatthe existing Airport and Airways Trust Fund tax structure be modified, the report shall—
+Trust fund tax recommendations.—If the task force's report includes a recommendation that the existing Airport and Airways Trust Fund tax structure be modified, the report shall—
 
 &emsp;&emsp;&emsp;"(i) state the specific rates for each group affected by the proposed modifications;
 
@@ -3342,7 +3396,7 @@ Revision.—The Secretary shall revise the list required under subsection (a) on
 
 "(c)
 
-Publication.—The Secretary shall publish the list required under subsection (a) not later than 30 days after the date of the enactment of this Act \[Aug. 23, 1994\]. The Secretary shall publish a revision to the list not later than 30 days after completing the revision under subsection (b)."
+Publication.—The Secretary shall publish the list required under subsection (a) not later than 30 daysafter the date of the enactment of this Act \[Aug. 23, 1994\]. The Secretary shall publish a revision to the list not later than 30 days after completing the revision under subsection (b)."
 
 #### General Aviation Revitalization Act of 1994
 

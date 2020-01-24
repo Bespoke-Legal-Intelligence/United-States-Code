@@ -14,7 +14,7 @@ Section was enacted as part of the Children's Health Insurance Program Reauthori
 
 #### Effective Date
 
-Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
+Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 ofPub. L. 111–3, set out as a note under section 1396 of this title.
 
 #### Definition of "Secretary"
 

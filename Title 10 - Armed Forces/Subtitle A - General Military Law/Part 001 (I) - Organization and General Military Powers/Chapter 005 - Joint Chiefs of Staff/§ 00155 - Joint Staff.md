@@ -34,7 +34,7 @@ Operation of Joint Staff.—The Secretary of Defense shall ensure that the Joint
 
 (e)
 
-Prohibition of Function as Armed Forces General Staff.—The Joint Staff shall not operate or be organized as an overall Armed ForcesGeneral Staff and shall have no executive authority. The Joint Staff may be organized and may operate along conventional staff lines.
+Prohibition of Function as Armed Forces General Staff.—The Joint Staff shall not operate or be organized as an overall Armed Forces General Staff and shall have no executive authority. The Joint Staff may be organized and may operate along conventional staff lines.
 
 (f)
 
@@ -56,25 +56,21 @@ Composition of Joint Staff.—(1) The Joint Staff is composed of all members of 
 
 (2) The Joint Staff does not include members of the armed forces or civilian employees assigned or detailed to permanent duty in a military department.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1009; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(2), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title IX, §902, Nov. 5, 1990, 104 Stat. 1620; Pub. L. 102–484, div. A, title IX, §911(b)(2), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 103–35, title II, §202(a)(8), May 31, 1993, 107 Stat. 101; Pub. L. 113–291, div. A, title X, §1071(c)(1), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title IX, §903(b)(1), Dec. 23, 2016, 130 Stat. 2344.)
+(h)
 
-#### Amendment of Section
+Personnel Limitations.—(1) The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty for the Joint Staff may not exceed 2,250.
 
-<i>Pub. L. 114–328, div. A, title IX, §903(b), Dec. 23, 2016, 130 Stat. 2344, provided that, effective Dec. 31, 2019, this section is amended by adding at the end the following new subsection:</i>
+(2) Not more than 1,500 members of the armed forces on the active-duty list may be assigned or detailed to permanent duty for the Joint Staff.
 
-<i>(h)</i>
+(3) The limitations in paragraphs (1) and (2) do not apply in time of war.
 
-<i>Personnel Limitations.—(1) The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty for the Joint Staff may not exceed 2,069.</i>
+(4) Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.
 
-<i>(2) Not more than 1,500 members of the armed forces on the active-duty list may be assigned or detailed to permanent duty for the Joint Staff.</i>
-
-<i>(3) The limitations in paragraphs (1) and (2) do not apply in time of war.</i>
-
-<i>(4) Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.</i>
-
-<i>See 2016 Amendment note below.</i>
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1009; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(2), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title IX, §902, Nov. 5, 1990, 104 Stat. 1620; Pub. L. 102–484, div. A, title IX, §911(b)(2), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 103–35, title II, §202(a)(8), May 31, 1993, 107 Stat. 101; Pub. L. 113–291, div. A, title X, §1071(c)(1), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title IX, §903(b)(1), Dec. 23, 2016, 130 Stat. 2344; Pub. L. 116–92, div. A, title IX, §901(a)(2)(A), Dec. 20, 2019, 133 Stat. 1541.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (h)(1). Pub. L. 116–92 substituted "2,250" for "2,069".
 
 <b>2016</b>—Subsec. (h). Pub. L. 114–328 added subsec. (h).
 
@@ -97,6 +93,10 @@ Limitation on Size of Joint Staff.—(1) Effective on October 1, 1988, the total
 <b>1987</b>—Subsec. (f)(4)(B). Pub. L. 100–180, §1314(b)(2)(A), inserted "or Congress" after "by the President".
 
 Subsec. (g)(2)(B). Pub. L. 100–180, §1314(b)(2)(B), inserted "the President or" after "declared by".
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–92, div. A, title IX, §901(a)(2)(B), Dec. 20, 2019, 133 Stat. 1541, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect on December 31, 2019, immediately after the coming into effect of the amendment made by section 903(b) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2344) \[amending this section\], to which such amendments relate\[.\]"
 
 #### Effective Date of 2016 Amendment
 

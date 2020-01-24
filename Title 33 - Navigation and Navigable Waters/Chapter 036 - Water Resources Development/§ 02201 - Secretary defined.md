@@ -38,7 +38,7 @@ Pub. L. 106–53, §1(a), Aug. 17, 1999, 113 Stat. 269, provided that: "This Act
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–303, §1(a), Oct. 12, 1996, 110 Stat. 3658, provided that: "This Act \[see Tables for classification\]may be cited as the 'Water Resources Development Act of 1996'."
+Pub. L. 104–303, §1(a), Oct. 12, 1996, 110 Stat. 3658, provided that: "This Act \[see Tables for classification\] may be cited as the 'Water Resources Development Act of 1996'."
 
 #### Short Title of 1992 Amendment
 
@@ -194,7 +194,7 @@ Administration.—The Secretary shall include such provisions as the Secretary d
 
 &emsp;&emsp;"(D)
 
-Notification.—The Secretary shall notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the initiation of each feasibility study under the pilot program.
+Notification.—The Secretary shall notify the Committee on Environment and Public Worksof the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the initiation of each feasibility study under the pilot program.
 
 &emsp;&emsp;"(E)
 
@@ -292,7 +292,7 @@ In general.—In carrying out the pilot program, the Secretary shall—
 
 &emsp;&emsp;&emsp;"(v) following execution of the project partnership agreement, transfer to the non-Federal interest to carry out construction of the project, or a separable element of the project—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) if applicable, the balance of the unobligated amounts appropriated for the project, except that the Secretary shall retain sufficient amounts for the Corps of Engineers to carry out any responsibilities of the Corps of Engineers relating to the project and pilot program; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) if applicable, the balance of the unobligated amounts appropriated for the project, except that the Secretary shall retain sufficient amounts for the Corps of Engineers to carry outany responsibilities of the Corps of Engineers relating to the project and pilot program; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) additional amounts, as determined by the Secretary, from amounts made available under paragraph (8), except that the total amount transferred to the non-Federal interest shall not exceed the updated estimate of the Federal share of the cost of construction, including any required design; and
 
@@ -344,7 +344,7 @@ Termination of authority.—The authority to commence a project under this subse
 
 &emsp;"(8)
 
-Authorization of appropriations.—In addition to any amounts appropriated for a specificproject, there is authorized to be appropriated to the Secretary to carry out the pilot program under this subsection, including the costs of administration of the Secretary, $25,000,000 for each of fiscal years 2019 through 2023."
+Authorization of appropriations.—In addition to any amounts appropriated for a specific project, there is authorized to be appropriated to the Secretary to carry out the pilot program under this subsection, including the costs of administration of the Secretary, $25,000,000 for each of fiscal years 2019 through 2023."
 
 #### Water Infrastructure Public-Private Partnership Pilot Program
 

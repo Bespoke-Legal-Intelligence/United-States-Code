@@ -14,7 +14,7 @@ Every person, before commencing business as a manufacturer or importer of tobacc
 
 &emsp;&emsp;(C) has failed to disclose any material information required or made any material false statement in the application therefor.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 712; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1421; Pub. L. 94–455, title XIX, §§1905(a)(27), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1821, 1834; Pub. L. 105–33, title IX, §9302(h)(2)(A), (5), Aug. 5, 1997,111 Stat. 674; Pub. L. 111–3, title VII, §702(a)(1)(A), (b)(1), Feb. 4, 2009, 123 Stat. 108, 109.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 712; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1421; Pub. L. 94–455, title XIX, §§1905(a)(27), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1821, 1834; Pub. L. 105–33, title IX, §9302(h)(2)(A), (5), Aug. 5, 1997, 111 Stat. 674; Pub. L. 111–3, title VII, §702(a)(1)(A), (b)(1), Feb. 4, 2009, 123 Stat. 108, 109.)
 
 #### Amendments
 

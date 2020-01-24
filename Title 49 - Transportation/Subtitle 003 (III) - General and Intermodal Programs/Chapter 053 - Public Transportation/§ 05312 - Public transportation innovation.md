@@ -158,7 +158,7 @@ Evaluation.—Not later than 2 years after the date on which a project receives 
 
 &emsp;(5)
 
-Prohibition.—The Secretary may not make grants under this subsection for the demonstration, deployment, or evaluation of a vehicle that is in revenue service unless the Secretary determines that the project makes significant technological advancements in the vehicle.
+Prohibition.—The Secretary may not make grants under this subsection for thedemonstration, deployment, or evaluation of a vehicle that is in revenue service unless the Secretary determines that the project makes significant technological advancements in the vehicle.
 
 &emsp;(6)
 
@@ -208,7 +208,7 @@ Definitions.—In this subsection—
 
 &emsp;&emsp;(A) the term "covered institution of higher education" means an institution of higher education with which the Secretary enters into a contract or cooperative agreement, or to which the Secretary makes a grant, under paragraph (2)(B) to operate a facility selected under paragraph (2)(A);
 
-&emsp;&emsp;(B) the terms "direct carbon emissions" and "low or no emission vehicle" have themeanings given those terms in subsection (e)(6);
+&emsp;&emsp;(B) the terms "direct carbon emissions" and "low or no emission vehicle" have the meanings given those terms in subsection (e)(6);
 
 &emsp;&emsp;(C) the term "institution of higher education" has the meaning given the term in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002); and
 

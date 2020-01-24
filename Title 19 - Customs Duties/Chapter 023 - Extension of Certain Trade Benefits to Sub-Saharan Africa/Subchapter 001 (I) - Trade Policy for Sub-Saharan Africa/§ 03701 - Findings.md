@@ -170,7 +170,7 @@ Pub. L. 108–274, July 13, 2004, 118 Stat. 820, as amended by Pub. L. 108–429
 
 &emsp;"(8) efforts by the President to negotiate with the member countries of the Southern African Customs Union in order to provide the opportunity to deepen and make permanent the benefits of the Act while giving the United States access to the markets of these African countries for United States goods and services, by reducing tariffs and non-tariff barriers, strengthening intellectual property protection, improving transparency, establishing general dispute settlement mechanisms, and investor-state and state-to-state dispute settlement mechanisms in investment;
 
-&emsp;"(9) a comprehensive and ambitious trade agreement with the Southern African Customs Union, covering all products and sectors, in order to mature the economic relationship between sub-Saharan African countries and the United States and because such an agreement would deepen United States economic and political ties to the region, lend momentum to United States development efforts, encourage greater United States investment, and promote regional integration and economic growth;
+&emsp;"(9) a comprehensive and ambitious trade agreement with the Southern African Customs Union, covering all products and sectors, in order to mature the economic relationship between sub-Saharan Africancountries and the United States and because such an agreement would deepen United States economic and political ties to the region, lend momentum to United States development efforts, encourage greater United States investment, and promote regional integration and economic growth;
 
 &emsp;"(10) regional integration among sub-Saharan African countries and business partnerships between United States and African firms; and
 
@@ -232,7 +232,7 @@ Reports.—The President shall, by not later than 1 year after the date of the e
 
 "(b)
 
-Dissemination of Information.—The President shall disseminate information in each study conductedunder subsection (a) to the appropriate United States agencies for the purpose of implementing recommendations on the provision of technical assistance and in identifying opportunities for United States investors, businesses, and farmers.
+Dissemination of Information.—The President shall disseminate information in each study conducted under subsection (a) to the appropriate United States agencies for the purpose of implementing recommendations on the provision of technical assistance and in identifying opportunities for United States investors, businesses, and farmers.
 
 #### "SEC. 10. ACTIVITIES IN SUPPORT OF INFRASTRUCTURE TO SUPPORT INCREASING TRADE CAPACITY AND ECOTOURISM.
 
@@ -330,7 +330,7 @@ Coordination.—The President shall take such measures as are necessary to ensur
 
 #### "SEC. 14. TRADE ADVISORY COMMITTEE ON AFRICA.
 
-"The President shall convene the trade advisory committee on Africa established by Executive Order 11846of March 27, 1975 \[19 U.S.C. 2111 note\], under section 135(c) of the Trade Act of 1974 \[19 U.S.C. 2155(c)\], in order to facilitate the goals and objectives of the African Growth and Opportunity Act \[19 U.S.C. 3701 et seq.\] and this Act, and to maintain ongoing discussions with African trade and agriculture ministries and private sector organizations on issues of mutual concern, including regional and international trade concerns and World Trade Organization issues."
+"The President shall convene the trade advisory committee on Africa established by Executive Order 11846 of March 27, 1975 \[19 U.S.C. 2111 note\], under section 135(c) of the Trade Act of 1974 \[19 U.S.C. 2155(c)\], in order to facilitate the goals and objectives of the African Growth and Opportunity Act \[19 U.S.C. 3701 et seq.\] and this Act, and to maintain ongoing discussions with African trade and agriculture ministries and private sector organizations on issues of mutual concern, including regional and international trade concerns and World Trade Organization issues."
 
 \[Functions of President under section 13(c) of Pub. L. 108–274, set out above, assigned to Administrator of United States Agency for International Development, in collaboration with Secretary of Agriculture, see Ex. Ord. No. 13720, §1(c), Feb. 26, 2016, 81 F.R. 11089, set out as a note under section 2466a of this title.\]
 
@@ -350,7 +350,7 @@ Pub. L. 114–27, title I, §112, June 29, 2015, 129 Stat. 371, provided that: "
 
 &emsp;"(1)
 
-Beneficiary sub-saharan african country.—The term 'beneficiary sub-Saharan African country' means a beneficiary sub-Saharan African country described in subsection (e) of section 506A of the Trade Act of 1974 \[19 U.S.C. 2466a(e)\] (as redesignated by this Act).
+Beneficiary sub-saharan african country.—The term 'beneficiary sub-Saharan African country'means a beneficiary sub-Saharan African country described in subsection (e) of section 506A of the Trade Act of 1974 \[19 U.S.C. 2466a(e)\] (as redesignated by this Act).
 
 &emsp;"(2)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Application.—This section applies, rather than section 21103 or 21104 of this title, to a train employee or signal employee during any period of time the employee is performing duties of a dispatching service employee.
+Application.—This section applies, rather than section 21103 or 21104 of this title, to a train employee or signal employee during any periodof time the employee is performing duties of a dispatching service employee.
 
 (b)
 

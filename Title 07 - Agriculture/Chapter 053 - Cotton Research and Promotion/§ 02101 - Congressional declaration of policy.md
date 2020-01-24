@@ -82,11 +82,11 @@ Affidavit of Shirting Manufacturers.—
 
 In general.—The affidavit required by subsection (b)(3)(A) is a notarized affidavit provided annually by an officer of a manufacturer of men's and boys' shirts that affirms—
 
-&emsp;&emsp;"(A) that the manufacturer used imported cotton fabric during the year in which the affidavit is filedand during the prior calendar year, to cut and sew men's and boys' woven cotton shirts in the United States;
+&emsp;&emsp;"(A) that the manufacturer used imported cotton fabric during the year in which the affidavit is filed and during the prior calendar year, to cut and sew men's and boys' woven cotton shirts in the United States;
 
 &emsp;&emsp;"(B) the dollar value of imported woven cotton shirting fabric of 80s or higher count and 2-ply in warp purchased by the manufacturer during the prior calendar year;
 
-&emsp;&emsp;"(C) that the manufacturer maintains invoices along with other supporting documentation (such as price lists and other technical descriptions of the fabric qualities) showing the dollar value of such fabric purchased, the date of purchase, and evidencing the fabric as woven cotton fabric of 80s or higher count and 2-ply in warp; and
+&emsp;&emsp;"(C) that the manufacturer maintains invoices along with other supporting documentation (suchas price lists and other technical descriptions of the fabric qualities) showing the dollar value of such fabric purchased, the date of purchase, and evidencing the fabric as woven cotton fabric of 80s or higher count and 2-ply in warp; and
 
 &emsp;&emsp;"(D) that the fabric was suitable for use in the manufacturing of men's and boys' cotton shirts.
 

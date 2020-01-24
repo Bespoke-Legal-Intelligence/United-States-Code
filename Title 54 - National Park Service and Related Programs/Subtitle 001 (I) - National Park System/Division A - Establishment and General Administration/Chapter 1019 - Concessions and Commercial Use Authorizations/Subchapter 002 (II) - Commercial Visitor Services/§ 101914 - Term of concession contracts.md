@@ -1,6 +1,6 @@
 ### §101914. Term of concession contracts
 
-A concession contract entered into pursuant to this subchapter shall generally be awarded for a term of 10 years or less. The Secretary may award a contract for a term of up to 20 years if the Secretary determines that the contractterms and conditions, including the required construction of capital improvements, warrant a longer term.
+A concession contract entered into pursuant to this subchapter shall generally be awarded for a term of 10 years or less. The Secretary may award a contract for a term of up to 20 years if the Secretary determines that the contract terms and conditions, including the required construction of capital improvements, warrant a longer term.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3142.)
 

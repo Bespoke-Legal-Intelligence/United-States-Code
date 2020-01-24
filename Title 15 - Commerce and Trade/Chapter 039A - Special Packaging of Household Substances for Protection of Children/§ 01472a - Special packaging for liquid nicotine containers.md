@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-Notwithstanding section 1261(f)(2) of this title and section 2052(a)(5) of this title, any nicotine provided in a liquid nicotine container sold, offered for sale, manufactured for sale, distributed in commerce, or imported into the United States shall be packaged in accordance with the standards provided in section 1700.15 of title 16, Code of Federal Regulations, as determined through testing in accordance with the method described in section 1700.20 of title 16, Code of Federal Regulations, and any subsequent changes to such sections adopted by the Commission.
+Notwithstanding section 1261(f)(2) of this title and section 2052(a)(5) of this title, any nicotine provided in a liquid nicotine container sold, offered for sale, manufactured for sale, distributed in commerce, or imported into the United States shall be packaged in accordance with the standards provided in section 1700.15 of title 16, Code of Federal Regulations, as determined through testing in accordance with the method described in section 1700.20 of title 16, Code of Federal Regulations, and any subsequentchanges to such sections adopted by the Commission.
 
 #### (b) Savings clause
 
@@ -34,7 +34,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding section 1261(f)(2) of this title and section 2052(a)(5) of this title, the term "liquid nicotine container" means apackage (as defined in section 2 of the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471))—
+&emsp;&emsp;Notwithstanding section 1261(f)(2) of this title and section 2052(a)(5) of this title, the term "liquid nicotine container" means a package (as defined in section 2 of the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471))—
 
 &emsp;&emsp;&emsp;(i) from which nicotine in a solution or other form is accessible through normal and foreseeable use by a consumer; and
 

@@ -10,7 +10,7 @@
 
 &emsp;If the agency responsible for administering the State plan approved under part D determines that an individual is not cooperating with the State in establishing paternity or in establishing, modifying, or enforcing a support order with respect to a child of the individual, and the individual does not qualify for any good cause or other exception established by the State pursuant to section 654(29) of this title, then the State—
 
-&emsp;&emsp;(A) shall deduct from the assistance that would otherwise be provided to the family of the individual under the State programfunded under this part an amount equal to not less than 25 percent of the amount of such assistance; and
+&emsp;&emsp;(A) shall deduct from the assistance that would otherwise be provided to the family of the individual under the State program funded under this part an amount equal to not less than 25 percent of the amount of such assistance; and
 
 &emsp;&emsp;(B) may deny the family any assistance under the State program.
 
@@ -144,7 +144,7 @@
 
 #### (8) Denial of assistance for 10 years to a person found to have fraudulently misrepresented residence in order to obtain assistance in 2 or more States
 
-&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide cash assistance to an individual during the 10-year period that begins on the date the individual is convicted in Federal or State court of having made a fraudulent statement or representation with respect to the place of residence of the individual in order to receive assistance simultaneously from 2 or more States under programs that are funded under this subchapter, subchapter XIX, or the Food and Nutrition Act of 2008 \[7 U.S.C.2011 et seq.\], or benefits in 2 or more States under the supplemental security income program under subchapter XVI. The preceding sentence shall not apply with respect to a conviction of an individual, for any month beginning after the President of the United States grants a pardon with respect to the conduct which was the subject of the conviction.
+&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide cash assistance to an individual during the 10-year period that begins on the date the individual is convicted in Federal or State court of having made a fraudulent statement or representation with respect to the place of residence of the individual in order to receive assistance simultaneously from 2 or more States under programs that are funded under this subchapter, subchapter XIX, or the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\], or benefits in 2 or more States under the supplemental security income program under subchapter XVI. The preceding sentence shall not apply with respect to a conviction of an individual, for any month beginning after the President of the United States grants a pardon with respect to the conduct which was the subject of the conviction.
 
 #### (9) Denial of assistance for fugitive felons and probation and parole violators
 
@@ -174,7 +174,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for a minor child who has been, or is expected by a parent (or other caretaker relative) of the child to be, absent from the home for a period of 45 consecutive days or, at the option of the State, such period of not less than 30 and not more than 180 consecutive days as the State may provide for in the State plan submitted pursuant to section 602 of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for a minor child who has been, or is expected by a parent (or other caretaker relative) of the child to be, absent from the home for a period of 45 consecutive days or, at the option of the State, such period of not less than 30 and not more than 180 consecutive days as the State may provide for in the State plansubmitted pursuant to section 602 of this title.
 
 #### (B) State authority to establish good cause exceptions
 
@@ -192,7 +192,7 @@
 
 #### (B) Child support
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid as a result (wholly or partly) of the collection of child or spousal support under part D and that was so treated as receiving such aid in at least 3 of the 6months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX for an extended period or periods as provided in section 1396u–1(c)(1) of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid as a result (wholly or partly) of the collection of child or spousal support under part D and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX for an extended period or periods as provided in section 1396u–1(c)(1) of this title.
 
 #### (12) State requirement to prevent unauthorized spending of benefits
 
@@ -308,7 +308,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 &emsp;&emsp;&emsp;(ii) the cash needs standard established by the State for purposes of determining eligibility for assistance under the State program funded under this part for a family of the same size and composition as the sponsor and any other individuals living in the same household as the sponsor who are claimed by the sponsor as dependents for purposes of determining the sponsor's Federal personal income tax liability but whose needs are not taken into account in determining whether the sponsor's family has met the cash needs standard;
 
-&emsp;&emsp;&emsp;(iii) any amounts paid by the sponsor or any such spouse to individuals not living in the household who are claimed by the sponsor as dependents for purposes of determining the sponsor's Federal personal income tax liability; and
+&emsp;&emsp;&emsp;(iii) any amounts paid by the sponsor or any such spouse to individuals not livingin the household who are claimed by the sponsor as dependents for purposes of determining the sponsor's Federal personal income tax liability; and
 
 &emsp;&emsp;&emsp;(iv) any payments of alimony or child support with respect to individuals not living in the household.
 
@@ -340,7 +340,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 #### (4) "Non-213A alien" defined
 
-&emsp;An alien is a non-213A alien for purposes of this subsection if the affidavit of support orsimilar agreement with respect to the alien that was executed by the sponsor of the alien's entry into the United States was executed other than pursuant to section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\].
+&emsp;An alien is a non-213A alien for purposes of this subsection if the affidavit of support or similar agreement with respect to the alien that was executed by the sponsor of the alien's entry into the United States was executed other than pursuant to section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\].
 
 #### (5) Inapplicability to alien minor sponsored by a parent
 
@@ -374,7 +374,7 @@ For effective date of this part, referred to in subsec. (b)(2)(B)(i), see Effect
 
 The Age Discrimination Act of 1975, referred to in subsec. (d)(1), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (d)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (d)(3), is Pub. L. 101–336, July 26, 1990, 104Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (d)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
@@ -456,7 +456,7 @@ State option to accelerate effective date.—Notwithstanding paragraph (1), a St
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–33, title V, §5001(h)(2), Aug. 5, 1997, 111 Stat. 593, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
+Pub. L. 105–33, title V, §5001(h)(2), Aug. 5, 1997, 111 Stat. 593, provided that: "The amendments made byparagraph (1) \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
 
 Amendment by section 5505 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 

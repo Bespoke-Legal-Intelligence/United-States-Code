@@ -88,7 +88,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (C), any person that carries out an activity described in subparagraph (B), after notice and an opportunity to be heard, shall not be eligible, for the 5-year period beginning on the date of the occurrence, to receive a certification under this chapter with respect to any farm or handling operation in which the person has an interest.
+&emsp;&emsp;Except as provided in subparagraph (C), any person that carries out an activity described in subparagraph (B), after notice and an opportunity to be heard, shall not be eligible, for the 5-year period beginning on the date of the occurrence, to receive a certification under this chapter with respect toany farm or handling operation in which the person has an interest.
 
 #### (B) Description of activities
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;(A) lose accreditation as a certifying agent under this chapter; and
 
-&emsp;&emsp;(B) be ineligible to be accredited as a certifying agent under this chapter for a periodof not less than 3 years, beginning on the date of the determination.
+&emsp;&emsp;(B) be ineligible to be accredited as a certifying agent under this chapter for a period of not less than 3 years, beginning on the date of the determination.
 
 #### (6) Effect on other law
 

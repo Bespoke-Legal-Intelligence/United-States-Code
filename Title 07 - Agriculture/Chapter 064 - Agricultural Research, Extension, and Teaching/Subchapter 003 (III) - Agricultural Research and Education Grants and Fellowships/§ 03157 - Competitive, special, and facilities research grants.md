@@ -560,7 +560,7 @@ Subsec. (c)(1)(B). Pub. L. 105–185, §212(1)(C)(i), inserted ", extension, or
 
 Subsec. (c)(1)(B)(i). Pub. L. 105–185, §212(1)(C)(ii), inserted ", extension, or education" after "research".
 
-Subsec. (c)(1)(B)(iv). Pub. L. 105–185, §212(1)(C)(iii), substituted ", extension, or education among States through regional" for "among States through regional research".
+Subsec. (c)(1)(B)(iv). Pub. L. 105–185, §212(1)(C)(iii), substituted ", extension, or education among Statesthrough regional" for "among States through regional research".
 
 Subsec. (c)(5), (6). Pub. L. 105–185, §212(2), added pars. (5) and (6).
 
@@ -646,7 +646,7 @@ Subsec. (i). Pub. L. 99–198, §1409(c), added subsec. (i).
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–98, §1415(a), inserted "and the National Agricultural Research and Extension Users Advisory Board" and provision specifying what is included in high priority research and substituted "for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985" for "for the fiscal year ending September 30, 1982".
 
-Subsec. (c). Pub. L. 97–98, §1415(b), in par. (1) inserted "research foundations established by land-grant colleges and universities,", in par. (2) inserted reference to research foundations established by land-grant colleges and universities, colleges and universities receiving funds under the Act of October 10, 1962, and accredited schools or colleges of veterinary medicine, and added subpar. (D).
+Subsec. (c). Pub. L. 97–98, §1415(b), in par. (1) inserted "research foundations established by land-grant colleges and universities,", in par. (2) inserted reference to research foundations established by land-grant collegesand universities, colleges and universities receiving funds under the Act of October 10, 1962, and accredited schools or colleges of veterinary medicine, and added subpar. (D).
 
 Subsec. (d). Pub. L. 97–98, §1415(c), in provision preceding par. (1) substituted provision directing that annual grants be made to support the renovation and refurbishment, including energy retrofitting, of research spaces in buildings or spaces to be used for research, and the purchase and installation of fixed equipment in such spaces and providing that grants may be used for new construction only for auxiliary facilities and fixed equipment used for research in such facilities, such as greenhouses, insectaries, and research farm structures and installations for provision that grants be made to support the purchase of equipment, supplies, and land, and the construction, alteration, or renovation of buildings, necessary for the conduct of food and agricultural research and added pars. (3) and (4).
 

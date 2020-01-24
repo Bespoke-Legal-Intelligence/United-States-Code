@@ -26,7 +26,7 @@ It is the sense of the Congress that the President maintain adherence to a polic
 
 #### References in Text
 
-The Arms Control and Disarmament Act, referred to in text, is Pub. L. 87–297, Sept. 26, 1961, 75 Stat. 631, as amended, which is classified generally to chapter 35 (§2551 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2551 of this title, and Tables.
+The Arms Control and Disarmament Act, referred to in text, is Pub. L. 87–297, Sept. 26, 1961, 75 Stat. 631, asamended, which is classified generally to chapter 35 (§2551 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2551 of this title, and Tables.
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
@@ -58,7 +58,7 @@ Pub. L. 90–629, ch. 4, §41, Oct. 22, 1968, 82 Stat. 1326, provided that: "Thi
 
 #### Short Title of 2016 Amendment
 
-Pub. L. 114–123, §1, Feb. 18, 2016, 130 Stat. 117, provided that: "This Act \[enacting provisions set out as a noteunder section 2753 of this title\] may be cited as the 'United States-Jordan Defense Cooperation Act of 2015'."
+Pub. L. 114–123, §1, Feb. 18, 2016, 130 Stat. 117, provided that: "This Act \[enacting provisions set out as a note under section 2753 of this title\] may be cited as the 'United States-Jordan Defense Cooperation Act of 2015'."
 
 #### Short Title of 2010 Amendment
 
@@ -100,7 +100,7 @@ Responsibility for Enhanced Cooperation.—
 
 &emsp;"(1)
 
-Designation of responsible individual.—Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense and the Secretary of State jointly shall make the designation required by paragraph (1)(B) of section 1292(a) of the National Defense Authorization Act for Fiscal Year 2017 \[Pub. L. 114–328, set out as a note below\].
+Designation of responsible individual.—Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense andthe Secretary of State jointly shall make the designation required by paragraph (1)(B) of section 1292(a) of the National Defense Authorization Act for Fiscal Year 2017 \[Pub. L. 114–328, set out as a note below\].
 
 &emsp;"(2)
 
@@ -211,6 +211,8 @@ In general.—The Secretary of Defense and Secretary of State shall jointly, on 
 &emsp;"(2)
 
 Use of assessment.—The President shall ensure that the assessment described in paragraph (1) is used, consistent with United States conventional arms transfer policy, to inform the review by the United States of requests to export defense articles, defense services, or related technology to India under the Arms Export Control Act (22 U.S.C. 2751 et seq.), and to inform any regulatory and policy adjustments that may be appropriate."
+
+\[For termination, effective Dec. 30, 2021, of reporting requirements in section 1292(a)(2) of Pub. L. 114–328, set out above, see section 1702(a), (b), of Pub. L. 116–92, set out as a Termination of Reporting Requirements note under section 111 of this title.\]
 
 #### Registration and End-Use Monitoring of Defense Articles and Defense Services Transferred to Afghanistan and Pakistan
 
@@ -848,7 +850,7 @@ Pub. L. 97–113, title VII, §734(c), Dec. 29, 1981, 95 Stat. 1561, provided th
 
 #### Report to Congress by President on Multilateral Discussions Concerning Arms Transfer Policy
 
-Pub. L. 95–384, §15(b), Sept. 26, 1978, 92 Stat. 740, directed President, not later than Dec. 31, 1979, to transmit to Congress a detailed report assessing results and commenting on implications of multilateral discussion referred to in paragraph added to this section by section 15(a) of Pub. L. 95–384, relating to adherence to a policy of restraint in conventional arms transfer, prior to repeal by Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
+Pub. L. 95–384, §15(b), Sept. 26, 1978, 92 Stat. 740, directed President, not later than Dec. 31, 1979, to transmit to Congress a detailed report assessing results and commenting on implications of multilateral discussion referred to in paragraph added to this section by section 15(a) of Pub. L. 95–384, relating to adherence to a policy of restraint in conventional arms transfer, priorto repeal by Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
 
 #### Report by President on Review of Arms Sales Controls on Non-Lethal Items
 
@@ -884,7 +886,7 @@ Pub. L. 94–329, title II, §218, June 30, 1976, 90 Stat. 748, set forth provis
 
 #### Total Number of Credits To Be Extended Between July 1, 1976, and September 30, 1976
 
-Pub. L. 94–329, title V, §506(b), June 30, 1976, 90 Stat. 764, provided that the total number of credits extended pursuant to this chapter, between July 1, 1976, and Sept. 30, 1976, not exceed an amount equal to one-fourthof the total amount of credits extended and guaranteed for fiscal year 1976.
+Pub. L. 94–329, title V, §506(b), June 30, 1976, 90 Stat. 764, provided that the total number of credits extended pursuant to this chapter, between July 1, 1976, and Sept. 30, 1976, not exceed an amount equal to one-fourth of the total amount of credits extended and guaranteed for fiscal year 1976.
 
 #### Additional Military and Civilian Personnel for Department of Defense
 
@@ -942,7 +944,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (i) Those under section 35(a) of the Act (22 U.S.C. 2775(a)) to the Secretary of State.
 
-(j) Those under sections 36(a) and 36(b)(1) of the Act (22 U.S.C. 2776(a) and (b)(1)), except with respect to the certification of an emergency as provided by subsection (b)(1) (22 U.S.C. 2776(b)(1)), to the Secretary of Defense. The Secretary of Defense, in the implementation of the delegated functions under sections 36(a) and (b)(1) (22 U.S.C. 2776(a) and (b)(1)), shall consult with the Secretary of State. With respect to those functions undersections 36(a)(5) and (6) (22 U.S.C. 2776(a)(5) and (6)), the Secretary of Defense shall consult with the Director of the Office of Management and Budget.
+(j) Those under sections 36(a) and 36(b)(1) of the Act (22 U.S.C. 2776(a) and (b)(1)), except with respect to the certification of an emergency as provided by subsection (b)(1) (22 U.S.C. 2776(b)(1)), to the Secretary of Defense. The Secretary of Defense, in the implementation of the delegated functions under sections 36(a) and (b)(1) (22 U.S.C. 2776(a) and (b)(1)), shall consult with the Secretary of State. With respect to those functions under sections 36(a)(5) and (6) (22 U.S.C. 2776(a)(5) and (6)), the Secretary of Defense shall consult with the Director of the Office of Management and Budget.
 
 (k) Those under section 36(b)(1) with respect to the certification of an emergency as provided by subsection (b)(1) and under sections 36(c) and (d) of the Act (22 U.S.C. 2776(b)(1), (c), and (d)) to the Secretary of State.
 

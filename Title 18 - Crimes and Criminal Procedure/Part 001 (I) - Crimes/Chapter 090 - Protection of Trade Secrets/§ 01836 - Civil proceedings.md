@@ -24,7 +24,7 @@ Application.—Based on an affidavit or verified complaint satisfying the requir
 
 &emsp;&emsp;&emsp;(ii)
 
-Requirements for issuing order.—The court may not grant an application under clause (i) unless the court finds thatit clearly appears from specific facts that—
+Requirements for issuing order.—The court may not grant an application under clause (i) unless the court finds that it clearly appears from specific facts that—
 
 &emsp;&emsp;&emsp;&emsp;(I) an order issued pursuant to Rule 65 of the Federal Rules of Civil Procedure or another form of equitable relief would be inadequate to achieve the purpose of this paragraph because the party to which the order would be issued would evade, avoid, or otherwise not comply with such an order;
 
@@ -98,7 +98,7 @@ Protection of confidentiality.—The court shall take appropriate measures to pr
 
 &emsp;&emsp;&emsp;(iv)
 
-Appointment of special master.—The court may appoint a special master tolocate and isolate all misappropriated trade secret information and to facilitate the return of unrelated property and data to the person from whom the property was seized. The special master appointed by the court shall agree to be bound by a non-disclosure agreement approved by the court.
+Appointment of special master.—The court may appoint a special master to locate and isolate all misappropriated trade secret information and to facilitate the return of unrelated property and data to the person from whom the property was seized. The special master appointed by the court shall agree to be bound by a non-disclosure agreement approved by the court.
 
 &emsp;&emsp;(E)
 
@@ -166,7 +166,7 @@ Jurisdiction.—The district courts of the United States shall have original jur
 
 (d)
 
-Period of Limitations.—A civil action under subsection (b) may not be commenced later than 3 years after the date on which the misappropriation with respect to which the action would relate is discovered or by the exercise of reasonable diligence should have been discovered. For purposes of this subsection, acontinuing misappropriation constitutes a single claim of misappropriation.
+Period of Limitations.—A civil action under subsection (b) may not be commenced later than 3 years after the date on which the misappropriation with respect to which the action would relate is discovered or by the exercise of reasonable diligence should have been discovered. For purposes of this subsection, a continuing misappropriation constitutes a single claim of misappropriation.
 
 (Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3490; amended Pub. L. 107–273, div. B, title IV, §4002(e)(9), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 114–153, §2(a), (d)(1), May 11, 2016, 130 Stat. 376, 381.)
 

@@ -21,7 +21,7 @@ Agency Analysis of Equipment Acquisition.—
 
 &emsp;"(1)
 
-In general.—Except as provided for under subsection (d), the head of each executive agency shall acquire equipment using the method of acquisition most advantageous to the Federal Government based on a case-by-case analysis of comparative costs and other factors, including those factors listed in section 7.401 of the Federal Acquisition Regulation.
+In general.—Except as provided for under subsection (d), the head of each executive agency shallacquire equipment using the method of acquisition most advantageous to the Federal Government based on a case-by-case analysis of comparative costs and other factors, including those factors listed in section 7.401 of the Federal Acquisition Regulation.
 
 &emsp;"(2)
 
@@ -63,7 +63,7 @@ Exceptions.—The analysis otherwise required under subsection (a) is not requir
 
 "(e)
 
-Study of Agency Analyses.—Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a comprehensive report on the decisions made by the executive agencies with the highest levels of acquisition spending, and a sample of executive agencies with lower levels of acquisition spending, to acquire high-value equipment by lease, rental, or purchase pursuant to subpart 7.4 of the Federal Acquisition Regulation.
+Study of Agency Analyses.—Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a comprehensive report on the decisions made by the executive agencies with the highest levels of acquisition spending, and a sample of executive agencies with lower levels of acquisition spending, to acquire high-value equipment by lease, rental, or purchase pursuant to subpart 7.4 of the Federal Acquisition Regulation.
 
 "(f)
 
@@ -131,7 +131,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'appropriate committees of Congress' means—
 
-&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Foreign Relations, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
+&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Foreign Relations, the Committee onHomeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
 
 &emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives.
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary may enter into a multiyear contract for the procurement of supplies or services if the Secretary makes each of the following determinations:
 
-&emsp;(1) Appropriations are available for obligations that are necessary for total payments that would be required during the fiscal year in which the contract is entered into, plus the estimated amount of any cancellation charge payable under the contract.
+&emsp;(1) Appropriations are available for obligations that are necessary for total paymentsthat would be required during the fiscal year in which the contract is entered into, plus the estimated amount of any cancellation charge payable under the contract.
 
 &emsp;(2) The contract is in the best interest of the United States by reason of the effect that use of a multiyear, rather than one-year, contract would have in—
 

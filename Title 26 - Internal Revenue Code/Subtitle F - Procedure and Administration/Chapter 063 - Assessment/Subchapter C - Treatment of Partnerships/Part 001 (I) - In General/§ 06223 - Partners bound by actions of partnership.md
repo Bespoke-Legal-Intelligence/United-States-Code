@@ -16,7 +16,7 @@ A partnership and all partners of such partnership shall be bound—
 
 #### Prior Provisions
 
-Prior sections 6223 and 6224 were repealed by Pub. L. 114–74, title XI, §1101(a), (g), Nov. 2, 2015, 129 Stat. 625, 638, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017.
+Prior sections 6223 and 6224 were repealed by Pub. L. 114–74, title XI, §1101(a), (g), Nov. 2, 2015, 129 Stat. 625,638, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017.
 
 Section 6223, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 649, related to notice to partners of proceedings.
 

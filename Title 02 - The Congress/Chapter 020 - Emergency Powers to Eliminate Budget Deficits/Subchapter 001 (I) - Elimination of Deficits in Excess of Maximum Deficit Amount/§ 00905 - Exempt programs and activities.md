@@ -286,7 +286,7 @@ Unobligated balances of budget authority carried over from prior fiscal years, e
 
 &emsp;Natural Resource Damage Assessment Fund (14–1618–0–1–302).
 
-&emsp;Overseas Private Investment Corporation, Noncredit Account (71–4184–0–3–151).
+&emsp;United States International Development Finance Corporation.
 
 &emsp;Pension Benefit Guaranty Corporation Fund (16–4204–0–3–601).
 
@@ -360,11 +360,7 @@ Each of the following programs shall be exempt from any order under this subchap
 
 For purposes of subsections (b), (g), and (h), each account is identified by the designated budget account identification code number set forth in the Budget of the United States Government 2010–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.
 
-(Pub. L. 99–177, title II, §255, Dec. 12, 1985, 99 Stat. 1082; Pub. L. 99–509, title VII, §7002(a), Oct. 21, 1986, 100 Stat. 1949; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(a), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §104(a)(1), (2), (b), (c)(1), Sept. 29,1987, 101 Stat. 775–777; Pub. L. 101–73, title VII, §743(a), (c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–220, §8, Dec. 12, 1989, 103 Stat. 1881; Pub. L. 101–508, title XIII, §13101(c), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 102–54, §13(a), June 13, 1991, 105 Stat. 274; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–486, title IX, §902(d), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 102–572, title VI, §601, Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–193, title I, §110(r)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. A, title II, §2704(d)(10), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–33, title X, §10207, Aug. 5, 1997, 111 Stat. 704; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 111–139, title I, §11, Feb. 12, 2010, 124 Stat. 23; Pub. L. 113–67, div. A, title I, §121(5)–(8), Dec. 26, 2013, 127 Stat. 1175; Pub. L. 114–113, div. O, title IV, §403(a), Dec. 18, 2015, 129 Stat. 3007; Pub. L. 115–254, div. F, title VI, §1470(a), Oct. 5, 2018, 132 Stat. 3515.)
-
-#### Amendment of Subsection (g)(2)
-
-<i>Pub. L. 115–254, div. F, title VI, §1470(a), (w), Oct. 5, 2018, 132 Stat. 3515, 3519, provided that, effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, subsection (g)(2) of this section is amended by striking "Overseas Private Investment Corporation, Noncredit Account (71–4184–0–3–151)." and inserting "United States International Development Finance Corporation." See 2018 Amendment note below.</i>
+(Pub. L. 99–177, title II, §255, Dec. 12, 1985, 99 Stat. 1082; Pub. L. 99–509, title VII, §7002(a), Oct. 21, 1986, 100 Stat. 1949; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(a), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §104(a)(1), (2), (b), (c)(1), Sept. 29, 1987, 101 Stat. 775–777; Pub. L. 101–73, title VII, §743(a), (c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–220, §8, Dec. 12, 1989, 103 Stat. 1881; Pub. L. 101–508, title XIII, §13101(c), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 102–54, §13(a), June 13, 1991, 105 Stat. 274; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–486, title IX, §902(d), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 102–572, title VI, §601, Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–193, title I, §110(r)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. A, title II, §2704(d)(10), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–33, title X, §10207, Aug. 5, 1997, 111 Stat. 704; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 111–139, title I, §11, Feb. 12, 2010, 124 Stat. 23; Pub. L. 113–67, div. A, title I, §121(5)–(8), Dec. 26, 2013, 127 Stat. 1175; Pub. L. 114–113, div. O, titleIV, §403(a), Dec. 18, 2015, 129 Stat. 3007; Pub. L. 115–254, div. F, title VI, §1470(a), Oct. 5, 2018, 132 Stat. 3515.)
 
 #### References in Text
 
@@ -568,7 +564,7 @@ Subsec. (g)(1). Pub. L. 99–509 inserted item relating to dual benefits payment
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–254, div. F, title VI, §1470(w), Oct. 5, 2018, 132 Stat. 3519, provided that: "The amendments madeby this section \[amending this section, sections 5314, 5315, and 5316 of Title 5, Government Organization and Employees, sections 649, 4721, 4727, and 4902 of Title 15, Commerce and Trade, section 709 of Title 18, Crimes and Criminal Procedure, section 4421 of Title 19, Customs Duties, section 1131c of Title 20, Education, sections 2151n, 2291, 2296b, 5401, 5421, 6062, 6445, 7102, 7902, 8926, 9303, and 9546 of Title 22, Foreign Relations and Intercourse, section 9101 of Title 31, Money and Finance, sections 17334 and 17336 of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 2293 and 2394c of Title 22\] shall take effect at the end of the transition period."
+Pub. L. 115–254, div. F, title VI, §1470(w), Oct. 5, 2018, 132 Stat. 3519, provided that: "The amendments made by this section \[amending this section, sections 5314, 5315, and 5316 of Title 5, Government Organization and Employees, sections 649, 4721, 4727, and 4902 of Title 15, Commerce and Trade, section 709 of Title 18, Crimes and Criminal Procedure, section 4421 of Title 19, Customs Duties, section 1131c of Title 20, Education, sections 2151n, 2291, 2296b, 5401, 5421, 6062, 6445, 7102, 7902, 8926, 9303, and 9546 of Title 22, Foreign Relations and Intercourse, section 9101 of Title 31, Money and Finance, sections 17334 and 17336 of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 2293 and 2394c of Title 22\] shall take effect at the end of the transition period."
 
 \[For definition of "transition period" as used in section 1470(w) of Pub. L. 115–254, set out above, see section 9681 of Title 22, Foreign Relations and Intercourse.\]
 
@@ -578,7 +574,7 @@ Pub. L. 114–113, div. O, title IV, §403(b), Dec. 18, 2015, 129 Stat. 3007, pr
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of Title 12, Banks and Banking.
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that beginsafter the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of Title 12, Banks and Banking.
 
 #### Effective Date of 1996 Amendments
 

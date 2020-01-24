@@ -10,7 +10,7 @@ It is the purpose of this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this joint resolution", which enacted this chapter and section 308 of the Public Health Service Act (act July1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, §106, 88 Stat. 367, and is classified to section 242l of Title 42, The Public Health and Welfare.
+This chapter, referred to in text, was in the original "this joint resolution", which enacted this chapter and section 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, §106, 88 Stat. 367, and is classified to section 242l of Title 42, The Public Health and Welfare.
 
 #### Recital
 
@@ -66,7 +66,7 @@ Sec. 2. <i>Responsibilities of Federal Departments and Agencies</i>. (a) Tobacco
 
 (2) the status of tobacco control regulatory measures in place to curtail tobacco consumption and tobacco related disease; and
 
-(3) an analysis of the marketing, distribution, and manufacturing practices of tobacco companies in given regions, and the impact of those practices on smoking rates, particularly among women and children. Such assessment shall be prepared and provided to interested agencies and other parties not later than December 31, 2001, and be updated as practicable.
+(3) an analysis of the marketing, distribution, and manufacturing practices of tobacco companies in givenregions, and the impact of those practices on smoking rates, particularly among women and children. Such assessment shall be prepared and provided to interested agencies and other parties not later than December 31, 2001, and be updated as practicable.
 
 (d) Research and Training in Tobacco Control. The HHS will develop a research and training program linking institutions in the United States and certain other countries in the field of tobacco control. Emphasis will be placed on the collection of standardized and comparable surveillance data; networks for communication, information and best practices; and the development and evaluation of culturally-targeted approaches to preventing tobacco use and increasing quit rates, especially among women and children.
 

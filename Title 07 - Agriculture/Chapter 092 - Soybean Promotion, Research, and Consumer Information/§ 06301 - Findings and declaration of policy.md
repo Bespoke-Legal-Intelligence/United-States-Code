@@ -8,7 +8,7 @@ Congress finds that—
 
 &emsp;(2) the production of soybeans plays a significant role in the economy of the United States in that soybeans are produced by thousands of soybean producers, processed by numerous processing entities, and soybeans and soybean products produced in the United States are consumed by people and livestock throughout the United States and foreign countries;
 
-&emsp;(3) soybeans and soybean products should be readily available and marketed efficiently toensure that consumers have an adequate supply of soybean products at a reasonable price;
+&emsp;(3) soybeans and soybean products should be readily available and marketed efficiently to ensure that consumers have an adequate supply of soybean products at a reasonable price;
 
 &emsp;(4) the maintenance and expansion of existing markets and development of new markets for soybeans and soybean products are vital to the welfare of soybean producers and processors and those concerned with marketing soybeans and soybean products, as well as to the general economy of the United States, and are necessary to ensure the ready availability and efficient marketing of soybeans and soybean products;
 

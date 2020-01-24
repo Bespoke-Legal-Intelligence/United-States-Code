@@ -28,7 +28,7 @@ Under the policy guidance of the Secretary of State, the agency primarily respon
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set outas a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 
@@ -56,7 +56,7 @@ Subsec. (e). Pub. L. 95–88, §101(b), added subsec. (e).
 
 <b>1966</b>—Pub. L. 89–583 provided for termination of assistance to any foreign country which does not take appropriate measures to provide compensation for damage or destruction by mob action of United States property within such country and declared that furnishing assistance shall not be construed as creating a new commitment or as affecting any existing commitment to use armed forces of the United States for the defense of any foreign country.
 
-<b>1965</b>—Pub. L. 89–171 added expressions of the sense of Congress that in furnishing assistance under this subchapter excess personal property shall be utilized wherever practicable in lieu of the procurement of new items for United States-assisted projects and programs and that assistance under this chapter and other statutes should be terminated to any country permitting damage to or destruction of U.S. property within such country by mob action or by failing to take adequate preventive measures.
+<b>1965</b>—Pub. L. 89–171 added expressions of the sense of Congress that in furnishing assistance under this subchapter excess personal property shall be utilized wherever practicable in lieu of the procurement of new items for United States-assisted projects and programs and that assistance under this chapter and other statutes should be terminated to any country permittingdamage to or destruction of U.S. property within such country by mob action or by failing to take adequate preventive measures.
 
 <b>1963</b>—Pub. L. 88–205 declared that institution of full investment guaranty programs with all recipient countries would be regarded as a significant measure of self-help by such countries improving investment climate, that assistance to maintain freedom from communism "shall" rather than "should" emphasize long-range development, that in the administration of programs of assistance, every precaution be taken to assure that assistance is not diverted to any short-term emergency purpose or any purpose not essential to long-range economic development, that other industrialized free-world countries increase their contributions and assistance to more equitably share the burden, and the President should in his discretion, extend or withhold assistance from South Vietnam to further victory and the return home of Americans involved in the struggle there.
 
@@ -114,7 +114,7 @@ Pub. L. 110–417, \[div. A\], title XVI, §1601, Oct. 14, 2008, 122 Stat. 4652,
 
 Pub. L. 110–53, title XX, §2001, Aug. 3, 2007, 121 Stat. 508, provided that: "This title \[enacting section 6216 of this title, amending section 2228 of this title, enacting provisions set out as notes under this section and sections 2228, 2375, 2452c, 2656, 6204, 6216, and 7511 of this title and section 2000dd of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 2452 of this title\] may be cited as the '9/11 Commission International Implementation Act of 2007'."
 
-Pub. L. 109–472, §1(a), Jan. 11, 2007, 120 Stat. 3554, provided that: "This Act \[enacting sections 288l, 2349bb–5, and 2349bb–6 of this title and section 118 of Title 18, Crimes and Criminal Procedure, amending sections 214, 288f–2, 2321h, 2349bb–2, and 4856 of this title, section 5924 of Title 5, Government Organization and Employees, and section 1356 of Title 8, Aliens and Nationality, enacting provisions set out as notes under section 2751 of this title and section 1714 of Title 8, and amending provisions set out as a note under section 6206 of this title\] may be cited as the 'Department of State Authorities Act of 2006'."
+Pub. L. 109–472, §1(a), Jan. 11, 2007, 120 Stat. 3554, provided that: "This Act \[enacting sections 288l, 2349bb–5, and 2349bb–6 of this title and section 118 of Title 18, Crimes and Criminal Procedure, amending sections 214, 288f–2, 2321h, 2349bb–2, and 4856 of this title, section 5924of Title 5, Government Organization and Employees, and section 1356 of Title 8, Aliens and Nationality, enacting provisions set out as notes under section 2751 of this title and section 1714 of Title 8, and amending provisions set out as a note under section 6206 of this title\] may be cited as the 'Department of State Authorities Act of 2006'."
 
 #### Short Title of 2006 Amendment
 
@@ -174,7 +174,7 @@ Pub. L. 106–87, §1, Nov. 3, 1999, 113 Stat. 1301, provided that: "This Act \[
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–319, §1, Oct. 19, 1996, 110 Stat. 3864, provided that: "This Act \[amending sections 277b, 2151n, and 2304 of this title, enacting provisions set out as notes under this section and section 2452 of this title, and amending provisions set out as notes under sections 1157 and 1255 of Title 8, Aliens and Nationality\] may be cited as the 'Human Rights, Refugee, and Other Foreign Relations Provisions Act of 1996'."
+Pub. L. 104–319, §1, Oct. 19, 1996, 110 Stat. 3864, provided that: "This Act \[amending sections 277b, 2151n,and 2304 of this title, enacting provisions set out as notes under this section and section 2452 of this title, and amending provisions set out as notes under sections 1157 and 1255 of Title 8, Aliens and Nationality\] may be cited as the 'Human Rights, Refugee, and Other Foreign Relations Provisions Act of 1996'."
 
 #### Short Title of 1994 Amendments
 
@@ -220,7 +220,7 @@ Pub. L. 99–529, §1, Oct. 24, 1986, 100 Stat. 3010, provided that: "This Act \
 
 Pub. L. 99–204, §1, Dec. 23, 1985, 99 Stat. 1669, provided that: "This Act \[enacting sections 2191a and 2194b of this title, amending sections 2191, 2194, 2195, and 2197 to 2200a of this title and section 709 of Title 18, Crimes and Criminal Procedure, repealing section 2200b of this title, enacting provisions set out as a note under section 2191a of this title, and repealing provisions set out as a note under section 2200a of this title\] may be cited as the 'Overseas Private Investment Corporation Amendments Act of 1985'."
 
-Pub. L. 99–83, §1(a), Aug. 8, 1985, 99 Stat. 190, provided that: "This Act \[enacting sections 2227, 2271 to 2276, 2291b, 2346 to 2346c, 2347c, 2347d, 2349aa–7 to 2349aa–9, 2511, 2521a, and 2770a of this title, section 469j of Title 16, Conservation, and sections 1356b and 1515a of former Title 49, Transportation, amending sections 290f, 290h–8, 290h–9, 2151–1, 2151a to 2151d, 2151f, 2151h, 2151s, 2151u, 2151x, 2151z, 2174, 2182, 2182a, 2184, 2201, 2222, 2291, 2291a, 2292a, 2304, 2311, 2312, 2314, 2321h, 2321i, 2346b, 2347a, 2348a, 2349aa–2, 2349aa–4, 2354, 2361, 2364, 2370, 2371, 2375, 2394, 2394–1, 2396, 2411, 2413, 2420, 2421, 2427, 2429a, 2501, 2502, 2504, 2506, 2510, 2522, 2523, 2752, 2753, 2761, 2763 to 2767, 2771, 2776, 2778, 2791, 2792, 2794, and 2795 of this title, sections 1431, 1721, 1722, 1727a, and 1736b of Title 7, Agriculture, section 7307 of Title 10, Armed Forces, and sections 1356, 1471, and 1515 of former Title 49, repealing sections 2293, 2294, 2346 to 2346c, 2346e to 2346i, and 2349aa–6 of this title, enacting provisions set out as notes under this section and sections 2151–1, 2151b, 2151u, 2291, 2346, 2374, 2429a, 2506, 2511, 2751, and 2778 of this title, section 4011 of Title 15, Commerce and Trade, and section 1515 of former Title 49, amending provisions set out as notes under sections 2370 and 2501 of this title, and repealing provisions set out as a note under section 2293 of this title\] may be cited as the 'International Security and Development Cooperation Act of 1985'."
+Pub. L. 99–83, §1(a), Aug. 8, 1985, 99 Stat. 190, provided that: "This Act \[enacting sections 2227, 2271 to 2276, 2291b, 2346 to 2346c, 2347c, 2347d, 2349aa–7 to 2349aa–9, 2511, 2521a, and 2770a of this title, section 469j of Title 16, Conservation, and sections 1356b and 1515a of former Title 49, Transportation, amending sections 290f, 290h–8, 290h–9, 2151–1, 2151a to 2151d, 2151f, 2151h, 2151s, 2151u,2151x, 2151z, 2174, 2182, 2182a, 2184, 2201, 2222, 2291, 2291a, 2292a, 2304, 2311, 2312, 2314, 2321h, 2321i, 2346b, 2347a, 2348a, 2349aa–2, 2349aa–4, 2354, 2361, 2364, 2370, 2371, 2375, 2394, 2394–1, 2396, 2411, 2413, 2420, 2421, 2427, 2429a, 2501, 2502, 2504, 2506, 2510, 2522, 2523, 2752, 2753, 2761, 2763 to 2767, 2771, 2776, 2778, 2791, 2792, 2794, and 2795 of this title, sections 1431, 1721, 1722, 1727a, and 1736b of Title 7, Agriculture, section 7307 of Title 10, Armed Forces, and sections 1356, 1471, and 1515 of former Title 49, repealing sections 2293, 2294, 2346 to 2346c, 2346e to 2346i, and 2349aa–6 of this title, enacting provisions set out as notes under this section and sections 2151–1, 2151b, 2151u, 2291, 2346, 2374, 2429a, 2506, 2511, 2751, and 2778 of this title, section 4011 of Title 15, Commerce and Trade, and section 1515 of former Title 49, amending provisions set out as notes under sections 2370 and 2501 of this title, and repealing provisions set out as a note under section 2293 of this title\] may be cited as the 'International Security and Development Cooperation Act of 1985'."
 
 Pub. L. 99–83, title VI, §601, Aug. 8, 1985, 99 Stat. 228, provided that: "This title \[enacting section 2291b of this title, amending sections 2151x, 2291, and 2291a of this title, and enacting provisions set out as a note under section 2291 of this title\] may be cited as the 'International Narcotics Control Act of 1985'."
 
@@ -228,7 +228,7 @@ Pub. L. 99–83, title VI, §601, Aug. 8, 1985, 99 Stat. 228, provided that: "Th
 
 Pub. L. 98–164, title VII, §701, Nov. 22, 1983, 97 Stat. 1045, provided that: "This title \[enacting section 2151q of this title and amending section 2452 of this title\] may be cited as the 'International Environment Protection Act of 1983'."
 
-Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 968, provided in part that: "Section 101(b)(2) of this joint resolution \[enacting sections 2151f, and 2349aa to 2349aa–6 of this title, amending sections 2304, 2346a, 2403, and 2771 of this title, and enacting provisions setout as a note under section 2349aa of this title\] may be cited as the 'International Security and Development Assistance Authorizations Act of 1983'."
+Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 968, provided in part that: "Section 101(b)(2) of this joint resolution \[enacting sections 2151f, and 2349aa to 2349aa–6 of this title, amending sections 2304, 2346a, 2403, and 2771 of this title, and enacting provisions set out as a note under section 2349aa of this title\] may be cited as the 'International Security and Development Assistance Authorizations Act of 1983'."
 
 #### Short Title of 1981 Amendments
 
@@ -260,7 +260,7 @@ Pub. L. 95–268, §1, Apr. 24, 1978, 92 Stat. 213, provided that: "This Act \[e
 
 Pub. L. 95–92, §1, Aug. 4, 1977, 91 Stat. 614, provided that: "This Act \[enacting sections 2294, 2346b, 2372, and 2429a of this title, amending sections 2261, 2291a, 2312, 2321h to 2321j, 2346, 2346a, 2347a, 2370, 2391, 2429, 2443, 2753, 2771, 2778, and 2792 of this title, and enacting provisions set out as notes under this section and sections 2346, 2370, 2406, 2431, and 2751 of this title\] may be cited as the 'International Security Assistance Act of 1977'."
 
-Pub. L. 95–88, §1, Aug. 3, 1977, 91 Stat. 533, provided that: "This Act \[enacting sections 2151o to 2151s, 2292k, and 2429b of this title and sections 1712, 1713, 1714, and 1727 to 1727f of Title 7, Agriculture, amending this section and sections 2151a, 2151b, 2151c, 2151d, 2151g, 2151h, 2151i, 2151k, 2151l, 2151m, 2151n, 2174, 2181, 2182, 2182a, 2183, 2222, 2225, 2292a, 2292h, 2357, 2370, 2384, 2385, 2386, 2399c, 2421, and 2427 of this title, section 5315 of Title 5, Government Organization and Employees, and sections 1427, 1431, 1692, 1702, 1703, 1706, 1711, 1721, 1722, 1723, 1726, 1731, and 1736b of Title 7, repealing section 2424 of this title, and enacting provisions set out as notes under this section and sections 2151b, 2151i, 2174, 2357, and 2384 of this title and sections 1702, 1708, and 1722 of Title 7\] may be cited as the 'International Development and Food Assistance Act of 1977'."
+Pub. L. 95–88, §1, Aug. 3, 1977, 91 Stat. 533, provided that: "This Act \[enacting sections 2151o to 2151s, 2292k, and 2429b of this title and sections 1712, 1713, 1714, and 1727 to 1727f of Title 7, Agriculture, amending this section and sections 2151a, 2151b, 2151c, 2151d, 2151g, 2151h, 2151i, 2151k, 2151l, 2151m, 2151n, 2174, 2181, 2182, 2182a, 2183, 2222, 2225, 2292a, 2292h, 2357, 2370, 2384, 2385, 2386,2399c, 2421, and 2427 of this title, section 5315 of Title 5, Government Organization and Employees, and sections 1427, 1431, 1692, 1702, 1703, 1706, 1711, 1721, 1722, 1723, 1726, 1731, and 1736b of Title 7, repealing section 2424 of this title, and enacting provisions set out as notes under this section and sections 2151b, 2151i, 2174, 2357, and 2384 of this title and sections 1702, 1708, and 1722 of Title 7\] may be cited as the 'International Development and Food Assistance Act of 1977'."
 
 #### Short Title of 1976 Amendment
 
@@ -268,7 +268,7 @@ Pub. L. 94–329, §1, June 30, 1976, 90 Stat. 729, provided: "That this Act \[e
 
 #### Short Title of 1975 Amendment
 
-Pub. L. 94–161, §1, Dec. 20, 1975, 89 Stat. 849, provided: "That this Act \[redesignating as sections 2292c to 2292e former sections 2262, 2399–1a, and 2399–1b of this title, enacting sections 2151a–1, 2151d, 2151e, 2151n, 2220a to 2220e, 2292 to 2292b, 2292f, and 2425 to 2427 of this title and sections 1691a, 1711, 1726, and 1736f of Title 7, Agriculture, amending this section and sections 2151a, 2151b, 2151c, 2151h, 2151i, 2151k, 2169, 2174, 2181 to 2183,2221, 2222, 2225, 2293, 2357 and 2421 of this title and sections 1691, 1703, 1706, 1709, 1721, 1736, 1736a, and 1736b of Title 7, repealing sections 2151d, 2151e, 2201, 2292, and 2399 of this title, and enacting provisions set out as a note under section 2220a of this title and as a note under section 1691a of Title 7\] may be cited as the 'International Development and Food Assistance Act of 1975'."
+Pub. L. 94–161, §1, Dec. 20, 1975, 89 Stat. 849, provided: "That this Act \[redesignating as sections 2292c to 2292e former sections 2262, 2399–1a, and 2399–1b of this title, enacting sections 2151a–1, 2151d, 2151e, 2151n, 2220a to 2220e, 2292 to 2292b, 2292f, and 2425 to 2427 of this title and sections 1691a, 1711, 1726, and 1736f of Title 7, Agriculture, amending this section and sections 2151a, 2151b, 2151c, 2151h, 2151i, 2151k, 2169, 2174, 2181 to 2183, 2221, 2222, 2225, 2293, 2357 and 2421 of this title and sections 1691, 1703, 1706, 1709, 1721, 1736, 1736a, and 1736b of Title 7, repealing sections 2151d, 2151e, 2201, 2292, and 2399 of this title, and enacting provisions set out as a note under section 2220a of this title and as a note under section 1691a of Title 7\] may be cited as the 'International Development and Food Assistance Act of 1975'."
 
 #### Short Title of 1974 Amendments
 
@@ -320,7 +320,7 @@ Pub. L. 88–205, §1, Dec. 16, 1963, 77 Stat. 379, provided that: "This Act \[e
 
 #### Short Title of 1962 Amendment
 
-Pub. L. 87–565, §1, Aug. 1, 1962, 76 Stat. 255, provided: "That this Act \[enacting sections 2211 to 2213 of this title, amending this section and sections 276, 2161, 2171,2172, 2181, 2182, 2184, 2192, 2222, 2242, 2261, 2271, 2314, 2315, 2318, 2360, 2361, 2368, 2370, 2381, 2384, 2385, 2389, 2394, 2395, 2397, 2402 to 2404, 2452, and 2669 of this title, repealing section 2173 of this title, enacting provisions set out as a note under section 2452 of this title, and repealing Part IV of the Foreign Assistance Act of 1961\] may be cited as the 'Foreign Assistance Act of 1962'."
+Pub. L. 87–565, §1, Aug. 1, 1962, 76 Stat. 255, provided: "That this Act \[enacting sections 2211 to 2213 of this title, amending this section and sections 276, 2161, 2171, 2172, 2181, 2182, 2184, 2192, 2222, 2242, 2261, 2271, 2314, 2315, 2318, 2360, 2361, 2368, 2370, 2381, 2384, 2385, 2389, 2394, 2395, 2397, 2402 to 2404, 2452, and 2669 of this title, repealing section 2173 of this title, enacting provisions set out as a note under section 2452 of this title, and repealing Part IV of the Foreign Assistance Act of 1961\] may be cited as the 'Foreign Assistance Act of 1962'."
 
 #### Short Title
 
@@ -360,9 +360,141 @@ Pub. L. 87–195, pt. III, §642, Sept. 4, 1961, 75 Stat. 460, as amended by Pub
 
 Any reference in this chapter to the agency primarily responsible for administering this subchapter, or to the Administrator of such agency, deemed reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate, see section 1–200(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### Ending Neglected Tropical Diseases
+
+Pub. L. 116–94, div. J, title III, Dec. 20, 2019, 133 Stat. 3055, provided that:
+
+#### "SEC. 301. SHORT TITLE.
+
+"This title may be cited as the 'End Neglected Tropical Diseases Act'.
+
+#### "SEC. 302. STATEMENT OF POLICY.
+
+"It is the policy of the United States to support a broad range of implementation and research and development activities that work toward the achievement of cost-effective and sustainable treatment, control, and, where possible, elimination of neglected tropical diseases for the economic and social well-being of all people.
+
+#### "SEC. 303. DEFINITION.
+
+"In this title, the terms 'neglected tropical diseases' and 'NTDs'—
+
+&emsp;"(1) mean infections caused by pathogens, including viruses, bacteria, protozoa, and helminths that disproportionately impact individuals living in extreme poverty, especially in developing countries; and
+
+&emsp;"(2) include—
+
+&emsp;&emsp;"(A) Buruli ulcer (Mycobacterium Ulcerans infection);
+
+&emsp;&emsp;"(B) Chagas disease;
+
+&emsp;&emsp;"(C) dengue or severe dengue fever;
+
+&emsp;&emsp;"(D) dracunculiasis (Guinea worm disease);
+
+&emsp;&emsp;"(E) echinococcosis;
+
+&emsp;&emsp;"(F) foodborne trematodiases;
+
+&emsp;&emsp;"(G) human African trypanosomiasis (sleeping sickness);
+
+&emsp;&emsp;"(H) leishmaniasis;
+
+&emsp;&emsp;"(I) leprosy;
+
+&emsp;&emsp;"(J) lymphatic filariasis (elephantiasis);
+
+&emsp;&emsp;"(K) onchocerciasis (river blindness);
+
+&emsp;&emsp;"(L) scabies;
+
+&emsp;&emsp;"(M) schistosomiasis;
+
+&emsp;&emsp;"(N) soil-transmitted helminthiases (STH) (roundworm, whipworm, and hookworm);
+
+&emsp;&emsp;"(O) taeniasis/cysticercosis;
+
+&emsp;&emsp;"(P) trachoma; and
+
+&emsp;&emsp;"(Q) yaws (endemic treponematoses).
+
+#### "SEC. 304. EXPANSION OF UNITED STATES AGENCY FOR INTERNATIONAL DEVELOPMENT NEGLECTED TROPICAL DISEASES PROGRAM.
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that the Neglected Tropical Diseases Program, as in effect on the date of the enactment of this Act \[Dec. 20, 2019\], should—
+
+&emsp;"(1) provide integrated drug treatment packages to as many individuals suffering from NTDs or at risk of acquiring NTDs, including individuals displaced by manmade and natural disasters, as logistically feasible;
+
+&emsp;"(2) better integrate NTD control and treatment tools and approaches into complementary development and global health programs by coordinating, to the extent practicable and appropriate, across multiple sectors, including those relating to HIV/AIDS, malaria, tuberculosis, education, nutrition, other infectious diseases, maternal and child health, and water, sanitation, and hygiene;
+
+&emsp;"(3) establish low-cost, high-impact community- and school-based NTD programs to reach large at-risk populations, including school-age children, with integrated drug treatment packages, as feasible;
+
+&emsp;"(4) as opportunities emerge and resources allow, engage in research and development of new tools and approaches to reach the goals relating to the elimination of NTDs as set forth by the 2012 World Health Organization publication 'Accelerating Work to Overcome the Global Impact of Neglected Tropical Diseases: A Roadmap for Implementation', including for Chagas disease, Guinea worm, human African trypanosomiasis (sleeping sickness), leprosy, and visceral leishmaniasis; and
+
+&emsp;"(5) monitor research on and developments in the prevention and treatment of other NTDs so breakthroughs can be incorporated into the Neglected Tropical Diseases Program, as practicable and appropriate.
+
+"(b)
+
+Program Priorities.—The Administrator of the United States Agency for International Development (referred to in this section as the 'Administrator') should incorporate the following priorities into the Neglected Tropical Diseases Program (as in effect on the date of the enactment of this Act):
+
+&emsp;"(1) Planning for and conducting robust monitoring and evaluation of program investments in order to accurately measure impact, identify and share lessons learned, and inform future NTD control and elimination strategies.
+
+&emsp;"(2) Coordinating program activities with complementary development and global health programs of the United States Agency for International Development, including programs relating to water, sanitation, and hygiene, food and nutrition security, and education (both primary and secondary), in order to advance the goals of the London Declaration on Neglected Tropical Diseases (2012).
+
+&emsp;"(3) Including morbidity management in treatment plans for high-burden NTDs.
+
+&emsp;"(4) Incorporating NTDs included in the Global Burden of Disease Study 2010 into the program as opportunities emerge, to the extent practicable and appropriate.
+
+&emsp;"(5) Continuing investments in the research and development of new tools and approaches that complement existing research investments and ensure that new discoveries make it through the pipeline and become available to individuals who need them most.
+
+#### "SEC. 305. ACTIONS BY DEPARTMENT OF STATE.
+
+"(a)
+
+Office of the Global AIDS Coordinator.—It is the sense of Congress that the Coordinator of United States Government Activities to Combat HIV/AIDS Globally should fully consider evolving research on the impact of NTDs on efforts to control HIV/AIDS when making future programming decisions, as necessary and appropriate.
+
+"(b)
+
+Global Programming.—
+
+&emsp;"(1)
+
+In general.—The Secretary of State should encourage the Global Fund to take into consideration evolving research on the impact of NTDs on efforts to control HIV/AIDS when making programming decisions, particularly with regard to female genital schistosomiasis, which studies suggest may be one of the most significant cofactors in the AIDS epidemic in Africa, as necessary and appropriate.
+
+&emsp;"(2)
+
+Global fund.—In this subsection, the term 'Global Fund' means the public-private partnership known as the Global Fund to Fight AIDS, Tuberculosis and Malaria established pursuant to Article 80 of the Swiss Civil Code.
+
+"(c) G–20
+
+Countries.—The Secretary of State, acting through the Office of Global Health Diplomacy, should encourage G–20 countries to significantly increase their role in the control and elimination of NTDs.
+
+#### "SEC. 306. MULTILATERAL DEVELOPMENT AND HEALTH INSTITUTIONS.
+
+"(a)
+
+Finding.—Congress finds that the treatment of NTDs, including community- and school-based deworming programs, can be a highly cost-effective intervention, and schools can serve as an effective delivery mechanism for reaching large numbers of children with safe treatment for soil-transmitted helminthiases (roundworm, whipworm, and hookworm) in particular.
+
+"(b)
+
+United Nations.—The President should direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States to urge the World Health Organization and the United Nations Development Programme to—
+
+&emsp;"(1) ensure the dissemination of best practices and programming on NTDs to governments and make data accessible to practitioners in an open and timely fashion;
+
+&emsp;"(2) highlight impacts of community- and school-based deworming programs on children's health and education, emphasizing the cost-effectiveness of such programs;
+
+&emsp;"(3) encourage governments to implement deworming campaigns at the national level;
+
+&emsp;"(4) consider the designation of a portion of grant funds of the institutions to deworming initiatives and cross-sectoral collaboration with water, sanitation, and hygiene efforts and nutrition or education programming, as practicable and appropriate;
+
+&emsp;"(5) encourage accurate monitoring and evaluation of NTD programs, including deworming programs; and
+
+&emsp;"(6) engage governments in cross-border initiatives for the treatment, control, prevention, and elimination of NTDs, and assist in developing transnational agreements, when and where necessary.
+
+#### "SEC. 307. RULE OF CONSTRUCTION.
+
+"Nothing in this title may be construed to increase authorizations of appropriations for the United States Agency for International Development."
+
 #### References to Tropical Forest Conservation Act of 1998
 
-Pub. L. 115–440, §2(b), Jan. 14, 2019, 132 Stat. 5580, provided that: "Any reference in any other provision of law, regulation, document, paper, or other record of the United States to the 'Tropical Forest Conservation Act of 1998' shall be deemed to be a reference to the 'Tropical Forest and Coral Reef Conservation Act of 1998'."
+Pub. L. 115–440, §2(b), Jan. 14, 2019, 132 Stat. 5580, provided that: "Any reference in any other provision oflaw, regulation, document, paper, or other record of the United States to the 'Tropical Forest Conservation Act of 1998' shall be deemed to be a reference to the 'Tropical Forest and Coral Reef Conservation Act of 1998'."
 
 #### United States–Caribbean Strategic Engagement
 
@@ -582,7 +714,7 @@ Pub. L. 114–24, June 12, 2015, 129 Stat. 314, provided that:
 
 &emsp;"(7) Girls undertake much of the domestic labor needed for poor families to survive: carrying water, harvesting crops, tending livestock, caring for younger children, and doing chores.
 
-&emsp;"(8) Accurate assessments of access to education, poverty levels, and overall census activities are hampered by the lack of official information on women and girls. Without this rudimentary information, assessments of foreign assistance and domestic social welfare programs are difficult to gauge.
+&emsp;"(8) Accurate assessments of access to education, poverty levels, and overall census activities are hampered by the lack of official information on womenand girls. Without this rudimentary information, assessments of foreign assistance and domestic social welfare programs are difficult to gauge.
 
 &emsp;"(9) To help ensure that women and girls are considered in United States foreign assistance policies and programs, that their needs are addressed in the design, implementation, and evaluation of foreign assistance programs, and that women and girls have the opportunity to succeed, it is important that girls be counted and have access to birth certificates and other official documentation.
 
@@ -610,7 +742,7 @@ Authorization.—The Secretary and the Administrator are authorized to prioritiz
 
 "(b)
 
-Coordination With Multilateral Organizations.—The Secretary and the Administrator are authorized to coordinate with the World Bank, relevantUnited Nations agencies and programs, and other relevant organizations to encourage and work with countries to enact, implement, and enforce laws that specifically collect data on girls and establish registration programs to ensure girls are appropriately counted and have the opportunity to be active participants in the social, legal, and political sectors of society in their countries.
+Coordination With Multilateral Organizations.—The Secretary and the Administrator are authorized to coordinate with the World Bank, relevant United Nations agencies and programs, and other relevant organizations to encourage and work with countries to enact, implement, and enforce laws that specifically collect data on girls and establish registration programs to ensure girls are appropriately counted and have the opportunity to be active participants in the social, legal, and political sectors of society in their countries.
 
 "(c)
 
@@ -690,7 +822,7 @@ Elements.—Each report under paragraph (1) shall include the following:
 
 &emsp;&emsp;&emsp;"(iv) constitutional and electoral reforms;
 
-&emsp;&emsp;&emsp;"(v) access for the purposes of human rights monitoring and humanitarian assistance to all areas in Burma, and cooperation with civilian authorities to investigate and resolve cases of human rights violations;
+&emsp;&emsp;&emsp;"(v) access for the purposes of human rights monitoring and humanitarian assistance to allareas in Burma, and cooperation with civilian authorities to investigate and resolve cases of human rights violations;
 
 &emsp;&emsp;&emsp;"(vi) governmental transparency and accountability; and
 
@@ -890,7 +1022,7 @@ Briefings.—The Secretary of State, at the request of the Committee on Foreign 
 
 #### United States Security and Assistance Strategies in Africa
 
-Pub. L. 113–66, div. A, title XII, §1206, Dec. 26, 2013, 127 Stat. 899, required (1) the Secretary of Defense, in coordination with the Secretary of State, to develop a strategic framework for United States counterterrorism assistance and cooperation in the Sahel and Maghreb regions of Africa, and submit a report to Congress not later than 180 days after Dec. 26, 2013; (2) the President to submit a strategy to support consolidation of security and governance gains in Somalia to Congress not later than 180 days after Dec. 26, 2013; (3) the Director of National Intelligence to submit a classifiedintelligence assessment of al-Shabaab to Congress not later than 90 days after Dec. 26, 2013; and (4) the President to designate a Government official for Africa export policy not later than 60 days after Dec. 26, 2013, and for the following three years, designate an existing senior United States Government official with existing interagency authority for export policy for Africa to coordinate among various United States Government agencies existing export strategies with the goal of significantly increasing United States exports to Africa in real dollar value.
+Pub. L. 113–66, div. A, title XII, §1206, Dec. 26, 2013, 127 Stat. 899, required (1) the Secretary of Defense, in coordination with the Secretary of State, to develop a strategic framework for United States counterterrorism assistance and cooperation in the Sahel and Maghreb regions of Africa, and submit a report to Congress not later than 180 days after Dec. 26, 2013; (2) the President to submit a strategy to support consolidation of security and governance gains in Somalia to Congress not later than 180 days after Dec. 26, 2013; (3) the Director of National Intelligence to submit a classified intelligence assessment of al-Shabaab to Congress not later than 90 days after Dec. 26, 2013; and (4) the President to designate a Government official for Africa export policy not later than 60 days after Dec. 26, 2013, and for the following three years, designate an existing senior United States Government official with existing interagency authority for export policy for Africa to coordinate among various United States Government agencies existing export strategies with the goal of significantly increasing United States exports to Africa in real dollar value.
 
 #### Assistance to the Government of Jordan for Border Security Operations
 
@@ -948,7 +1080,7 @@ Appropriate Committees of Congress Defined.—In this section, the term 'appropr
 
 #### Global Security Contingency Fund
 
-Pub. L. 112–81, div. A, title XII, §1207, Dec. 31, 2011, 125 Stat. 1625, as amended by Pub. L. 113–66, div. A, title XII, §1202, Dec. 26, 2013, 127 Stat. 893; Pub. L. 113–291, div. A, title XII, §1201, Dec. 19, 2014, 128 Stat. 3529; Pub. L. 115–91, div. A, title X, §1051(q)(2), title XII, §1206, Dec. 12, 2017, 131 Stat. 1565, 1645, provided that:
+Pub. L. 112–81, div. A, title XII, §1207, Dec. 31, 2011, 125 Stat. 1625, as amended by Pub. L. 113–66, div. A, titleXII, §1202, Dec. 26, 2013, 127 Stat. 893; Pub. L. 113–291, div. A, title XII, §1201, Dec. 19, 2014, 128 Stat. 3529; Pub. L. 115–91, div. A, title X, §1051(q)(2), title XII, §1206, Dec. 12, 2017, 131 Stat. 1565, 1645; Pub. L. 116–92, div. A, title XII, §1209, Dec. 20, 2019, 133 Stat. 1624, provided that:
 
 "(a)
 
@@ -1040,11 +1172,11 @@ Availability of Funds.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), amounts in the Fund shall remain available until September 30, 2019, except that amounts appropriated or transferred to the Fund before that date shall remain available for obligation and expenditure after that date for activities under programs commenced under subsection (b) before that date.
+In general.—Except as provided in paragraph (2), amounts in the Fund shall remain available until September 30, 2021, except that amounts appropriated or transferred to the Fund before that date shall remain available for obligation and expenditure after that date for activities under programs commenced under subsection (b) before that date.
 
 &emsp;"(2)
 
-Exception.—Amounts appropriated and transferred to the Fund before the date of the enactment of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\] shall remain available for obligation and expenditure after September 30, 2015, only for activities under programs commenced under subsection (b) before September 30, 2015.
+Exception.—Amounts appropriated and transferred to the Fund before September 30, 2019, shall remain available for obligation and expenditure after that date, but only for activities under programs commenced under subsection (b) before September 30, 2019.
 
 "(j)
 
@@ -1082,13 +1214,13 @@ Specified Congressional Committees.—In this section, the term 'specified congr
 
 "(o)
 
-Expiration.—The authority under this section may not be exercised after September 30, 2019. An activity under a program authorized by subsection (b) commenced before that date may be completed after that date, but only using funds available for fiscal years 2012 through 2019 and subject to the requirements contained in paragraphs (1) and (2) of subsection (i)."
+Expiration.—The authority under this section may not be exercised after September 30, 2021. An activity under a program authorized by subsection (b) commenced before that date may be completed after that date, but only using funds available for fiscal years 2012 through 2021 and subject to the requirements contained in paragraphs (1) and (2) of subsection (i)."
 
 \[Pub. L. 115–91, §1206(2), which directed amendment of section 1207 of Pub. L. 112–81, set out above, by substituting "September 30, 2019" for "September 30, 2017" and "through 2019" for "through 2017" in subsec. (p), was executed by making the substitution in subsec. (o) to reflect the probable intent of Congress and the redesignation of subsec. (p) as (o) by section 1051(q)(2)(B) of Pub. L. 115–91.\]
 
 #### Lord's Resistance Army Disarmament and Northern Uganda Recovery
 
-Pub. L. 112–81, div. A, title XII, §1206, Dec. 31, 2011, 125 Stat. 1624, which related to logistic support, supplies, and services for foreign forces in operations against theLord's Resistance Army, was repealed by Pub. L. 113–66, div. A, title XII, §1208(g), Dec. 26, 2013, 127 Stat. 904.
+Pub. L. 112–81, div. A, title XII, §1206, Dec. 31, 2011, 125 Stat. 1624, which related to logistic support, supplies, and services for foreign forces in operations against the Lord's Resistance Army, was repealed by Pub. L. 113–66, div. A, title XII, §1208(g), Dec. 26, 2013, 127 Stat. 904.
 
 Pub. L. 111–172, May 24, 2010, 124 Stat. 1209, provided that:
 
@@ -1250,7 +1382,7 @@ Form.—The report under this section shall be submitted in unclassified form, b
 
 &emsp;"(1)
 
-Appropriate committees of congress.—The term 'appropriate committees of Congress' means theCommittee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives.
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives.
 
 &emsp;"(2)
 
@@ -1472,7 +1604,7 @@ Pub. L. 109–456, Dec. 22, 2006, 120 Stat. 3384, provided that:
 
 "It is the policy of the United States—
 
-&emsp;"(1) to help promote, reinvigorate, and support the political process in the Democratic Republic of theCongo in order to press all parties in the Transitional National Government and the succeeding government to implement fully and to institutionalize mechanisms, including national and international election observers, fair and transparent voter registration procedures, and a significant civic awareness and public education campaign created for the July 30, 2006, elections and future elections in the Democratic Republic of the Congo, to ensure that elections are carried out in a fair and democratic manner;
+&emsp;"(1) to help promote, reinvigorate, and support the political process in the Democratic Republic of the Congo in order to press all parties in the Transitional National Government and the succeeding government to implement fully and to institutionalize mechanisms, including national and international election observers, fair and transparent voter registration procedures, and a significant civic awareness and public education campaign created for the July 30, 2006, elections and future elections in the Democratic Republic of the Congo, to ensure that elections are carried out in a fair and democratic manner;
 
 &emsp;"(2) to urge the Government of the Democratic Republic of the Congo to recognize and act upon its responsibilities to immediately bring discipline to its security forces, hold those individuals responsible for atrocities and other human rights violations, particularly the rape of women and girls as an act of war, accountable and bring such individuals to justice;
 
@@ -1542,7 +1674,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 &emsp;"(1) the Government of the Democratic Republic of the Congo must be committed to achieving the policy objectives described in section 102 if the efforts of the United States and other members of the international community are to be effective in bringing relief, security, and democracy to the country;
 
-&emsp;"(2) the Government of the Democratic Republic of the Congo should immediately exercise control overand discipline its armed forces, stop the mass rapes at the hands of its armed forces, and hold those responsible for these acts accountable before an appropriate tribunal;
+&emsp;"(2) the Government of the Democratic Republic of the Congo should immediately exercise control over and discipline its armed forces, stop the mass rapes at the hands of its armed forces, and hold those responsible for these acts accountable before an appropriate tribunal;
 
 &emsp;"(3) the Government of the Democratic Republic of the Congo, in collaboration with international aid agencies, should establish expert teams to assess the needs of the victims of rape and provide health, counseling, and social support services that such victims need; and
 
@@ -1730,7 +1862,7 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;"(7) Approximately 20,000 Syrian troops and security personnel occupy much of the sovereign territory of Lebanon exerting undue influence upon its government and undermining its political independence.
 
-&emsp;"(8) Since 1990 the Senate and House of Representatives have passed seven bills and resolutions whichcall for the withdrawal of Syrian armed forces from Lebanon.
+&emsp;"(8) Since 1990 the Senate and House of Representatives have passed seven bills and resolutions which call for the withdrawal of Syrian armed forces from Lebanon.
 
 &emsp;"(9) On March 3, 2003, Secretary of State Colin Powell declared that it is the objective of the United States to 'let Lebanon be ruled by the Lebanese people without the presence of \[the Syrian\] occupation army'.
 
@@ -1780,7 +1912,7 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;"(32) On April 13, 2003, Secretary of Defense Donald Rumsfeld charged that 'busloads' of Syrian fighters entered Iraq with 'hundreds of thousands of dollars' and leaflets offering rewards for dead American soldiers.
 
-&emsp;"(33) On September 16, 2003, the Under Secretary of State for Arms Control and International Security, John Bolton, appeared before the Subcommittee onthe Middle East and Central Asia of the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives, and underscored Syria's 'hostile actions' toward coalition forces during Operation Iraqi Freedom. Under Secretary Bolton added that: 'Syria allowed military equipment to flow into Iraq on the eve of and during the war. Syria permitted volunteers to pass into Iraq to attack and kill our service members during the war, and is still doing so \* \* \* \[Syria's\] behavior during Operation Iraqi Freedom underscores the importance of taking seriously reports and information on Syria's WMD capabilities.'.
+&emsp;"(33) On September 16, 2003, the Under Secretary of State for Arms Control and International Security, John Bolton, appeared before the Subcommittee on the Middle East and Central Asia of the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives, and underscored Syria's 'hostile actions' toward coalition forces during Operation Iraqi Freedom. Under Secretary Bolton added that: 'Syria allowed military equipment to flow into Iraq on the eve of and during the war. Syria permitted volunteers to pass into Iraq to attack and kill our service members during the war, and is still doing so \* \* \* \[Syria's\] behavior during Operation Iraqi Freedom underscores the importance of taking seriously reports and information on Syria's WMD capabilities.'.
 
 &emsp;"(34) During his appearance before the Committee on International Relations of the House of Representatives on September 25, 2003, Ambassador L. Paul Bremer, III, Administrator of the Coalition Provisional Authority in Iraq, stated that out of the 278 third-country nationals who were captured by coalition forces in Iraq, the 'single largest group are Syrians'.
 
@@ -1824,7 +1956,7 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;"(5) Syria is in violation of United Nations Security Council Resolution 520 (September 17, 1982) through its continued occupation of Lebanese territory and its encroachment upon Lebanon's political independence;
 
-&emsp;"(6) Syria's obligation to withdraw from Lebanon is not conditioned upon progress in the Israeli-Syrian or Israeli-Lebanese peace process but derives from Syria's obligation under Security Council Resolution 520;
+&emsp;"(6) Syria's obligation to withdraw from Lebanon is not conditioned upon progress in the Israeli-Syrian orIsraeli-Lebanese peace process but derives from Syria's obligation under Security Council Resolution 520;
 
 &emsp;"(7) Syria's acquisition of weapons of mass destruction and ballistic missile programs threaten the security of the Middle East and the national security interests of the United States;
 
@@ -1850,7 +1982,7 @@ Penalties.—Until the President makes the determination that Syria meets all th
 
 &emsp;&emsp;"(D) Prohibit aircraft of any air carrier owned or controlled by Syria to take off from, land in, or overfly the United States.
 
-&emsp;&emsp;"(E) Reduce United States diplomatic contacts with Syria (other than those contacts required toprotect United States interests or carry out the purposes of this Act).
+&emsp;&emsp;"(E) Reduce United States diplomatic contacts with Syria (other than those contacts required to protect United States interests or carry out the purposes of this Act).
 
 &emsp;&emsp;"(F) Block transactions in any property in which the Government of Syria has any interest, by any person, or with respect to any property, subject to the jurisdiction of the United States.
 
@@ -2022,7 +2154,7 @@ Bilateral debt relief.—Upon receipt by the appropriate congressional committee
 
 Multilateral debt relief and other financial assistance.—It is the sense of Congress that, upon receipt by the appropriate congressional committees of a certification described in subsection (d), the Secretary of the Treasury should—
 
-&emsp;&emsp;"(A) direct the United States executive director of each multilateral development bank to support efforts to reevaluate plans to restructure, rebuild,reschedule, or eliminate Zimbabwe's sovereign debt held by that bank and provide an analysis based on reasonable financial options to achieve those goals; and
+&emsp;&emsp;"(A) direct the United States executive director of each multilateral development bank to support efforts to reevaluate plans to restructure, rebuild, reschedule, or eliminate Zimbabwe's sovereign debt held by that bank and provide an analysis based on reasonable financial options to achieve those goals; and
 
 &emsp;&emsp;"(B) direct the United States executive director of each international financial institution to which the United States is a member to propose to undertake financial and technical support for Zimbabwe, especially support that is intended to promote Zimbabwe's economic recovery and development, the stabilization of the Zimbabwean currency, and the viability of Zimbabwe's democratic institutions.
 
@@ -2105,6 +2237,10 @@ Supersedes Other Laws.—The authority in this section supersedes any other prov
 &emsp;"(4) provide for the eventual removal or amendment of those sanctions."
 
 Provisions similar to those contained in section 4(c) of Pub. L. 107–99, set out above, were contained in the following appropriation acts:
+
+Pub. L. 116–94, div. G, title VII, §7042(j)(1), Dec. 20, 2019, 133 Stat. 2893.
+
+Pub. L. 116–6, div. F, title VII, §7042(h)(1), Feb. 15, 2019, 133 Stat. 344.
 
 Pub. L. 115–141, div. K, title VII, §7042(j)(1), Mar. 23, 2018, 132 Stat. 915.
 
@@ -2220,7 +2356,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(11) African institutions are playing an active role in conflict resolution and mediation utilizing the experience of elder statesmen. Groups such as the All African Council of Churches have assisted in defusing conflicts. The Economic Community of West African States (ECOWAS) has sought to address the conflict in Liberia by deploying an African peacekeeping force. The Southern African states have been working to prevent a crisis in Lesotho. The Intergovernmental Authority on Desertification and Drought (IGADD) has been engaged in attempting to resolve the conflict in Sudan.
 
-&emsp;"(12) The Organization of African Unity, under the leadership of Secretary General Salim Salim, has established a conflict resolution mechanism and hasbeen active in mediation and conflict resolution in several African countries.
+&emsp;"(12) The Organization of African Unity, under the leadership of Secretary General Salim Salim, has established a conflict resolution mechanism and has been active in mediation and conflict resolution in several African countries.
 
 "(b)
 
@@ -2418,7 +2554,7 @@ Crime control and detection instruments and equipment.—The issuance of any lic
 
 &emsp;"(5)
 
-Export of satellites for launch by the people's republic of china.—Exports of any satellite of United States origin that is intended for launch from a launch vehicle owned by the People's Republic ofChina shall remain suspended, unless the President makes a report under subsection (b)(1) or (2) of this section.
+Export of satellites for launch by the people's republic of china.—Exports of any satellite of United States origin that is intended for launch from a launch vehicle owned by the People's Republic of China shall remain suspended, unless the President makes a report under subsection (b)(1) or (2) of this section.
 
 &emsp;"(6)
 
@@ -2510,7 +2646,7 @@ United States Policy.—The United States in 1975 declared in a memorandum of ag
 
 "(b)
 
-Reaffirmation and Codification of Policy.—The United States hereby reaffirms that policy. In accordance with that policy, no officer or employee of the United States Government and no agent or other individual acting on behalf of the United States Government shall negotiate with the Palestine Liberation Organization or any representatives thereof (except inemergency or humanitarian situations) unless and until the Palestine Liberation Organization recognizes Israel's right to exist, accepts United Nations Security Council Resolutions 242 and 338, and renounces the use of terrorism, except that no funds authorized to be appropriated by this or any other Act may be obligated or made available for the conduct of the current dialogue on the Middle East peace process with any representative of the Palestine Liberation Organization if the President knows and advises the Congress that that representative directly participated in the planning or execution of a particular terrorist activity which resulted in the death or kidnapping of a United States citizen."
+Reaffirmation and Codification of Policy.—The United States hereby reaffirms that policy. In accordance with that policy, no officer or employee of the United States Government and no agent or other individual acting on behalf of the United States Government shall negotiate with the Palestine Liberation Organization or any representatives thereof (except in emergency or humanitarian situations) unless and until the Palestine Liberation Organization recognizes Israel's right to exist, accepts United Nations Security Council Resolutions 242 and 338, and renounces the use of terrorism, except that no funds authorized to be appropriated by this or any other Act may be obligated or made available for the conduct of the current dialogue on the Middle East peace process with any representative of the Palestine Liberation Organization if the President knows and advises the Congress that that representative directly participated in the planning or execution of a particular terrorist activity which resulted in the death or kidnapping of a United States citizen."
 
 #### Obligation or Expenditure of Funds for Planning, etc., Mining of the Ports or Territorial Waters of Nicaragua
 
@@ -2546,7 +2682,7 @@ Pub. L. 95–88, title I, §132, Aug. 3, 1977, 91 Stat. 544, as amended by Pub. 
 
 #### Plan for Increased Minority Business Participation in Foreign Assistance Activities; Minority Resource Center Section as Implementing Administrative Unit; Functions, Duties, Etc., of Center
 
-Pub. L. 95–88, title I, §133, Aug. 3, 1977, 91 Stat. 544, as amended by Pub. L. 96–53, title I, §123, Aug. 14, 1979, 93 Stat. 366; Pub. L. 97–113, title VII, §734(a)(6), Dec. 29, 1981, 95 Stat. 1560, provided that (1) the Administrator of the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) was to prepare and transmit to the Congress, not later than 30 days after Aug. 3, 1977, a detailed plan for the establishment of a section on minority business within such agency; and (2) upon the enactment of the International Development Cooperation Act of 1979 (Aug. 14, 1979), the section on minority business so established was to be redesignated as the Minority Resource Center and was to be responsible for assisting economically and socially disadvantaged businesses.
+Pub. L. 95–88, title I, §133, Aug. 3, 1977, 91 Stat. 544, as amended by Pub. L. 96–53, title I, §123, Aug. 14, 1979, 93 Stat. 366; Pub. L. 97–113, title VII, §734(a)(6), Dec. 29, 1981, 95 Stat. 1560, provided that (1) the Administrator of the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) was to prepare and transmit to the Congress, not later than 30 days after Aug. 3, 1977, a detailed plan for the establishment of a section on minority business within such agency; and (2) upon the enactment of the International Development Cooperation Act of 1979 (Aug. 14, 1979), the section on minority business so established was to be redesignated as the Minority Resource Center and was to be responsible forassisting economically and socially disadvantaged businesses.
 
 #### Use of Accrued Foreign Currencies
 
@@ -2638,7 +2774,7 @@ Sec. 2. <i>National Action Plan</i>. A National Action Plan shall be created pur
 
 (e) <i>Access to relief and recovery</i>. The United States Government will respond to the distinct needs of women and children in conflict-affected disasters and crises, including by providing safe, equitable access to humanitarian assistance.
 
-Sec. 3. <i>Responsibility of Executive Departments and Agencies</i>. (a) Executive departments and agencies (agencies) shall maintain a current awareness of U.S. policy with regard to Women, Peace, and Security, as set out in the National Action Plan, as it is relevant to their functions, and shall perform such functions so as to respect and implement that policy fully, while retaining their established institutional roles in the implementation, interpretation, and enforcement of Federal law.
+Sec. 3. <i>Responsibility of Executive Departments and Agencies</i>. (a) Executive departments and agencies (agencies) shall maintain a current awareness of U.S. policywith regard to Women, Peace, and Security, as set out in the National Action Plan, as it is relevant to their functions, and shall perform such functions so as to respect and implement that policy fully, while retaining their established institutional roles in the implementation, interpretation, and enforcement of Federal law.
 
 (b) The Secretary of State, the Secretary of Defense, and the Administrator of the United States Agency for International Development shall each:
 
@@ -2812,7 +2948,7 @@ Sec. 3. <i>Strategy to Prevent and Respond to Gender-based Violence Globally</i>
 
 &emsp;(ii) Member agencies shall deepen engagement and coordination with other governments; international organizations, including multilateral and bilateral actors; the private sector; and civil society organizations, such as representatives of indigenous and marginalized groups, foundations, community-based, faith-based, and regional organizations (including those that serve survivors), labor unions, universities, and research organizations. The Working Group shall consider a range of mechanisms by which these stakeholders may provide input to the U.S. Government on its role in preventing and responding to gender-based violence globally.
 
-(b) <i>Enhancing Integration of Gender-based Violence Prevention and Response Efforts into Existing U.S. Govern</i><i>ment Work</i>. Member agencies shall more comprehensively integrate gender-based violence prevention and response programming into their foreign policy and foreign assistance efforts. This integration shall also build on current efforts that address gender-based violence, such as the U.S. National Action Plan on Women, Peace, and Security; the Global Health Initiative; the President's Emergency Plan for AIDS Relief; the U.S. Government's work to counter trafficking in persons; and the U.S. Government's humanitarian response efforts. The Working Group shall coordinate these different efforts as they relate to gender-based violence to leverage the most effective programs and to avoid duplication.
+(b) <i>Enhancing Integration of Gender-based Violence Prevention and Response Efforts into Existing U.S. Government Work</i>. Member agencies shall more comprehensively integrate gender-based violence prevention and response programming into their foreign policy and foreign assistance efforts. This integration shall also build on current efforts that address gender-based violence, such as the U.S. National Action Plan on Women, Peace, and Security; the Global Health Initiative; the President's Emergency Plan for AIDS Relief; the U.S. Government's work to counter trafficking in persons; and the U.S. Government's humanitarian response efforts. The Working Group shall coordinate these different efforts as they relate to gender-based violence to leverage the most effective programs and to avoid duplication.
 
 (c) <i>Improving Collection, Analysis, and Use of Data and Research to Enhance Gender-based Violence Prevention and Response Efforts</i>. Member agencies shall work to promote ethical and safe research, data collection, and evidence-based analyses relating to different forms of gender-based violence and prevention and response efforts at the country and local level. This work will include the development of a research agenda that assesses agencies' research and data collection capabilities, needs, and gaps; builds upon existing data and research; and is coordinated with the work of other organizations that are prioritizing global gender-based violence research. Member agencies shall prioritize the monitoring and evaluation of gender-based violence prevention and response interventions to determine their effectiveness. Member agencies shall systematically identify and share best practices, lessons learned, and research within and across agencies. Member agencies, as appropriate, shall seek to develop public-private partnerships to support U.S. Government research initiatives and strategic planning efforts.
 
@@ -2956,7 +3092,7 @@ Memorandum of President of the United States, Jan. 30, 2013, 78 F.R. 7989, provi
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Promoting gender equality and advancing the status of all women and girls around the world remains one of the greatest unmet challenges of our time, and one that is vital to achieving our overall foreign policy objectives. Ensuring that women and girls, including those most marginalized, are able to participate fully in public life, are free from violence, and have equal access to education, economic opportunity, and health care increases broader economic prosperity, as well as political stability and security.
+Promoting gender equality and advancing the status of all women and girls around the world remains one of the greatest unmet challenges of our time, and one that is vital to achieving our overall foreign policy objectives. Ensuring that women and girls, includingthose most marginalized, are able to participate fully in public life, are free from violence, and have equal access to education, economic opportunity, and health care increases broader economic prosperity, as well as political stability and security.
 
 During my Administration, the United States has made promoting gender equality and advancing the status of women and girls a central element of our foreign policy, including by leading through example at home. Executive Order 13506 of March 11, 2009, established the White House Council on Women and Girls to coordinate Federal policy on issues, both domestic and international, that particularly impact the lives of women and girls. This commitment to promoting gender equality is also reflected in the National Security Strategy of the United States, the Presidential Policy Directive on Global Development, and the 2010 U.S. Quadrennial Diplomacy and Development Review.
 

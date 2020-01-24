@@ -12,7 +12,7 @@ Except as otherwise provided in this Act, in carrying out commercial application
 
 #### (c) "Joint venture" defined
 
-For purposes of this section, the term "joint venture" has the meaning given the term "joint research and development venture" under section 4301(a)(6) and (b) of title 15, except that such term may apply under this section to research, development, demonstration, and commercial application joint ventures.
+For purposes of this section, the term "joint venture" has the meaning given the term "joint research and development venture" under section 4301(a)(6) and (b) of title 15, except thatsuch term may apply under this section to research, development, demonstration, and commercial application joint ventures.
 
 #### (d) Protection of information
 
@@ -20,7 +20,7 @@ Section 12(c)(7) of the Stevenson-Wydler Technology Innovation Act of 1980 \[15 
 
 #### (e) Guidelines and procedures
 
-The Secretary shall provide guidelines and procedures for the transition, where appropriate, of energy technologies from research through development and demonstration undersubsection (a) to commercial application under subsection (b). Nothing in this section shall preclude the Secretary from—
+The Secretary shall provide guidelines and procedures for the transition, where appropriate, of energy technologies from research through development and demonstration under subsection (a) to commercial application under subsection (b). Nothing in this section shall preclude the Secretary from—
 
 &emsp;(1) entering into a contract, cooperative agreement, cooperative research and development agreement under the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3701 et seq.\], grant, joint venture, or any other form of agreement available to the Secretary under this section that relates to research, development, demonstration, and commercial application; or
 

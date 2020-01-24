@@ -90,7 +90,7 @@ For purposes of this part and part C, the term "standard prescription drug cover
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in paragraph (4), the coverage for an applicable beneficiary (as defined in section 1395w–114a(g)(1) of this title) has coinsurance (for costs above the initial coverage limit under paragraph (3) and below the out-of-pocket threshold) for covered part D drugs that are not applicable drugs under section 1395w–114a(g)(2) of this title that is—
+&emsp;&emsp;&emsp;Except as provided in paragraph (4), the coverage for an applicable beneficiary (as defined in section 1395w–114a(g)(1) of this title) has coinsurance (for costs above theinitial coverage limit under paragraph (3) and below the out-of-pocket threshold) for covered part D drugs that are not applicable drugs under section 1395w–114a(g)(2) of this title that is—
 
 &emsp;&emsp;&emsp;&emsp;(I) equal to the generic-gap coinsurance percentage (specified in clause (ii)) for the year; or
 
@@ -174,7 +174,7 @@ For purposes of this part and part C, the term "standard prescription drug cover
 
 &emsp;&emsp;&emsp;&emsp;(II) for each of years 2007 through 2013, is equal to the amount specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved;
 
-&emsp;&emsp;&emsp;&emsp;(III) for 2014 and 2015, is equal to the amount specified in this subparagraph for the previous year, increased by theannual percentage increase described in paragraph (6) for the year involved, minus 0.25 percentage point;
+&emsp;&emsp;&emsp;&emsp;(III) for 2014 and 2015, is equal to the amount specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved, minus 0.25 percentage point;
 
 &emsp;&emsp;&emsp;&emsp;(IV) for each of years 2016 through 2019, is equal to the amount specified in this subparagraph for the previous year, increased by the lesser of—
 
@@ -236,7 +236,7 @@ For purposes of this part and part C, the term "standard prescription drug cover
 
 #### (7) Additional annual percentage increase
 
-&emsp;The annual percentage increase specified in this paragraph for a year is equal to the annual percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending in July of the previous year.
+&emsp;The annual percentage increase specified in this paragraph for a year is equal to the annual percentage increase in the consumerprice index for all urban consumers (United States city average) for the 12-month period ending in July of the previous year.
 
 #### (c) Alternative prescription drug coverage requirements
 
@@ -298,7 +298,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 &emsp;Except as provided in this subsection, for purposes of this part, the term "covered part D drug" means—
 
-&emsp;&emsp;(A) a drug that may be dispensed only upon a prescription and that is described insubparagraph (A)(i), (A)(ii), or (A)(iii) of section 1396r–8(k)(2) of this title; or
+&emsp;&emsp;(A) a drug that may be dispensed only upon a prescription and that is described in subparagraph (A)(i), (A)(ii), or (A)(iii) of section 1396r–8(k)(2) of this title; or
 
 &emsp;&emsp;(B) a biological product described in clauses (i) through (iii) of subparagraph (B) of such section or insulin described in subparagraph (C) of such section and medical supplies associated with the injection of insulin (as defined in regulations of the Secretary),
 
@@ -442,11 +442,11 @@ Pub. L. 111–152, title I, §1101(a)(2), Mar. 30, 2010, 124 Stat. 1037, provide
 
 #### Construction
 
-Pub. L. 109–91, title I, §103(b), Oct. 20, 2005, 119 Stat. 2092, provided that: "Nothing in this section \[amending this section and enacting provisions set out as a note under this section\] shall be construed as preventing a prescription drug plan or an MA–PD plan from providing coverage of drugs for the treatment of sexual or erectile dysfunction as supplemental prescription drugcoverage under section 1860D–2(a)(2)(A)(ii) of the Social Security Act (42 U.S.C. 1395w–102(a)(2)(A)(ii))."
+Pub. L. 109–91, title I, §103(b), Oct. 20, 2005, 119 Stat. 2092, provided that: "Nothing in this section \[amending this section and enacting provisions set out as a note under this section\] shall be construed as preventing a prescription drug plan or an MA–PD plan from providing coverage of drugs for the treatment of sexual or erectile dysfunction as supplemental prescription drug coverage under section 1860D–2(a)(2)(A)(ii) of the Social Security Act (42 U.S.C. 1395w–102(a)(2)(A)(ii))."
 
 #### Payment for Administration of Part D Vaccines in 2007
 
-Pub. L. 109–432, div. B, title II, §202(a), Dec. 20, 2006, 120 Stat. 2986, provided that: "Notwithstanding any other provision of law, in the case of a vaccine that is a covered part D drug under section 1860D–2(e) of the Social Security Act (42 U.S.C. 1395w–102(e)) and that is administered during 2007, the administration of such vaccine shall be paid under part B of title XVIII of such Act \[42 U.S.C. 1395j et seq.\] as if it were the administration of a vaccine described in section 1861(s)(10)(B) of such Act (42 U.S.C. 1395w(s)(10)(B) \[probably should be 1395x(s)(10)(B)\])."
+Pub. L. 109–432, div. B, title II, §202(a), Dec. 20, 2006, 120 Stat. 2986, provided that: "Notwithstanding anyother provision of law, in the case of a vaccine that is a covered part D drug under section 1860D–2(e) of the Social Security Act (42 U.S.C. 1395w–102(e)) and that is administered during 2007, the administration of such vaccine shall be paid under part B of title XVIII of such Act \[42 U.S.C. 1395j et seq.\] as if it were the administration of a vaccine described in section 1861(s)(10)(B) of such Act (42 U.S.C. 1395w(s)(10)(B) \[probably should be 1395x(s)(10)(B)\])."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "meet".</i>
 

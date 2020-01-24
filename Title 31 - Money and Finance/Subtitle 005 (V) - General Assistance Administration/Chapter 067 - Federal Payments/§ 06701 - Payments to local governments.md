@@ -88,7 +88,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;(B) the term "socially and economically disadvantaged individuals" has the meaning such term has under section 8(d) of the Small Business Act and relevant subcontracting regulations promulgated pursuant to that section; and
 
-&emsp;&emsp;(C) the term "qualified HUBZone small business concern" has the meaning given that term in section 3(p) of the Small Business Act (15 U.S.C. 632(o) <sup>1</sup>).
+&emsp;&emsp;(C) the term "qualified HUBZone small business concern" has the meaning given that term in section 3(p) <sup>1</sup> of the Small Business Act (15 U.S.C. 632(o) <sup>2</sup>).
 
 (g)
 
@@ -106,7 +106,7 @@ Base level amount.—The total level of funding available to a unit of local gov
 
 #### References in Text
 
-Sections 3 and 8(d) of the Small Business Act, referred to in subsec. (f)(3), are classified to sections 632 and 637(d), respectively, of Title 15, Commerce and Trade.
+Sections 3 and 8(d) of the Small Business Act, referred to in subsec. (f)(3), are classified to sections 632 and 637(d), respectively, of Title 15, Commerce and Trade. Section 3(p) of the Act was redesignated as section 31(b) by Pub. L. 115–91, div. A, title XVII, §1701(a)(2), Dec. 12, 2017, 131 Stat. 1795, and is now classified to section 657a(b) of Title 15.
 
 #### Prior Provisions
 
@@ -126,5 +126,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 Pub. L. 103–322, title III, §31001(b), Sept. 13, 1994, 108 Stat. 1881, provided that: "Within 90 days of the date of enactment of this Act \[Sept. 13, 1994\] the Secretary shall issue regulations, which may be interim regulations, to implement subsection (a) \[enacting this chapter\], modifying the regulations for carrying into effect the Revenue Sharing Act \[former chapter 67 of this title\] that were in effect as of July 1, 1987, and that were published in 31 C.F.R. part 51. The Secretary need not hold a public hearing before issuing these regulations."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "632(p)".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "632(p)".</i>
 

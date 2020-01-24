@@ -90,7 +90,7 @@ Congress makes the following findings:
 
 &emsp;(26) In this address to Congress, the President stated the following: "Today, on the continent of Africa, nearly 30,000,000 people have the AIDS virus—including 3,000,000 children under the age of 15. There are whole countries in Africa where more than one-third of the adult population carries the infection. More than 4,000,000 require immediate drug treatment. Yet across that continent, only 50,000 AIDS victims—only 50,000—are receiving the medicine they need.".
 
-&emsp;(27) Furthermore, the President focused on care and treatment of HIV/AIDS in his address to Congress, stating the following: "Because the AIDS diagnosis is considered a death sentence, many do not seek treatment. Almost all who do are turned away. A doctor in rural South Africa describes his frustration. He says, 'We have no medicines. Many hospitals tell people, you've got AIDS, we can't help you. Go home and die.' In an age of miraculous medicines, no person should have to hear those words. AIDS can be prevented. Anti-retroviral drugs can extend life for many years \* \* \* Ladies and gentlemen, seldom has history offered a greater opportunity to do so much for so many.".
+&emsp;(27) Furthermore, the President focused on care and treatment of HIV/AIDS in his addressto Congress, stating the following: "Because the AIDS diagnosis is considered a death sentence, many do not seek treatment. Almost all who do are turned away. A doctor in rural South Africa describes his frustration. He says, 'We have no medicines. Many hospitals tell people, you've got AIDS, we can't help you. Go home and die.' In an age of miraculous medicines, no person should have to hear those words. AIDS can be prevented. Anti-retroviral drugs can extend life for many years \* \* \* Ladies and gentlemen, seldom has history offered a greater opportunity to do so much for so many.".
 
 &emsp;(28) Finally, the President stated that "\[w\]e have confronted, and will continue to confront, HIV/AIDS in our own country", proposing now that the United States should lead the world in sparing innocent people from a plague of nature, and asking Congress "to commit $15,000,000,000 over the next five years, including nearly $10,000,000,000 in new money, to turn the tide against AIDS in the most afflicted nations of Africa and the Caribbean".
 
@@ -194,5 +194,5 @@ Pub. L. 108–25, §1(a), May 27, 2003, 117 Stat. 711, provided that: "This Act 
 
 #### Delegation of Functions
 
-For delegation of functions of President under this chapter, except for functions set forth in section7622(d)(4)(C)(i), (ii) of this title, to Secretary of State, see section 1–100(a)(16) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this chapter, except for functions set forth in section 7622(d)(4)(C)(i), (ii) of this title, to Secretary of State, see section 1–100(a)(16) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

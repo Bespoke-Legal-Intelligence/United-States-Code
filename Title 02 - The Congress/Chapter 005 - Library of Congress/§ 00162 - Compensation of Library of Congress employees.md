@@ -8,7 +8,7 @@ Employees of the Library of Congress who perform special functions for the perfo
 
 "Section 209 of title 18" substituted in text for reference to the Act of March 3, 1917, 39 Stat. 1106 (5 U.S.C. 66), on authority of (1) act June 25, 1948, ch. 645, 62 Stat. 683, section 1 of which enacted Title 18, Crimes and Criminal Procedure, and which enacted in section 1914 of Title 18 the provisions formerly classified to section 66 of Title 5; and (2) section 2 of Pub. L. 87–849, Oct. 23, 1962, 76 Stat. 1126, which repealed section 1914 of Title 18 and supplanted it with section 209, and which provided that exemptions from section 1914 shall be deemed exemptions from section 209. For further details, see Exemptions note set out under section 203 of Title 18.
 
-"Section 5533 of title 5" substituted in text for "section 301 of the Dual Compensation Act \[5 U.S.C. 3105\]"on authority of sec. 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+"Section 5533 of title 5" substituted in text for "section 301 of the Dual Compensation Act \[5 U.S.C. 3105\]" on authority of sec. 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 Section was formerly classified to sections 60 and 65 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 

@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Board may examine each branch or agency of a foreign bank, each commercial lending company or bank controlled by 1 or more foreign banks or 1 or more foreign companies that control a foreign bank, and other office or affiliate of a foreign bank conducting business in any State.
+&emsp;&emsp;The Board may examine each branch or agency of a foreign bank, each commerciallending company or bank controlled by 1 or more foreign banks or 1 or more foreign companies that control a foreign bank, and other office or affiliate of a foreign bank conducting business in any State.
 
 #### (B) Coordination of examinations
 
@@ -42,7 +42,7 @@
 
 #### (2) Reporting requirements
 
-&emsp;Each branch or agency of a foreign bank, other than a Federal branch or agency, shall be subject to section 335 of this title and the provision requiring the reports of condition contained in section 324 of this title to the same extent and in the same manner as if thebranch or agency were a State member bank. In addition to any requirements imposed under section 3102 of this title, each Federal branch and agency shall be subject to section 248(a) of this title and to section 483 of this title to the same extent and in the same manner as if it were a member bank.
+&emsp;Each branch or agency of a foreign bank, other than a Federal branch or agency, shall be subject to section 335 of this title and the provision requiring the reports of condition contained in section 324 of this title to the same extent and in the same manner as if the branch or agency were a State member bank. In addition to any requirements imposed under section 3102 of this title, each Federal branch and agency shall be subject to section 248(a) of this title and to section 483 of this title to the same extent and in the same manner as if it were a member bank.
 
 #### (d) Establishment of foreign bank offices in United States
 
@@ -106,7 +106,7 @@
 
 #### (A) Final action
 
-&emsp;&emsp;The Board shall take final action on any application under paragraph (1) not later than 180 days after receipt of the application, except that the Board may extend for an additional 180 days the period withinwhich to take final action on such application after providing notice of, and the reasons for, the extension to the applicant foreign bank and any appropriate State bank supervisor or the Comptroller of the Currency, as appropriate.
+&emsp;&emsp;The Board shall take final action on any application under paragraph (1) not later than 180 days after receipt of the application, except that the Board may extend for an additional 180 days the period within which to take final action on such application after providing notice of, and the reasons for, the extension to the applicant foreign bank and any appropriate State bank supervisor or the Comptroller of the Currency, as appropriate.
 
 #### (B) Failure to submit information
 
@@ -144,7 +144,7 @@
 
 #### (4) Compliance with State and Federal law
 
-&emsp;Any foreign bank required to terminate activities conducted at offices or subsidiaries in the United States pursuant to this subsection shall comply with the requirements of applicable Federal and State law with respect to procedures for the closure or dissolution of such offices or subsidiaries.
+&emsp;Any foreign bank required to terminate activities conducted at offices or subsidiaries inthe United States pursuant to this subsection shall comply with the requirements of applicable Federal and State law with respect to procedures for the closure or dissolution of such offices or subsidiaries.
 
 #### (5) Recommendation to agency for termination of a Federal branch or agency
 
@@ -168,7 +168,7 @@
 
 #### (7) Criteria relating to foreign supervision
 
-&emsp;Not later than 1 year after December 19, 1991, the Board, in consultation with the Secretary of the Treasury, shall develop and publish criteria to be used in evaluating the operation of any foreign bank in the United States that the Board has determined is not subject to comprehensive supervision or regulation ona consolidated basis. In developing such criteria, the Board shall allow reasonable opportunity for public review and comment.
+&emsp;Not later than 1 year after December 19, 1991, the Board, in consultation with the Secretary of the Treasury, shall develop and publish criteria to be used in evaluating the operation of any foreign bank in the United States that the Board has determined is not subject to comprehensive supervision or regulation on a consolidated basis. In developing such criteria, the Board shall allow reasonable opportunity for public review and comment.
 
 #### (f) Judicial review
 
@@ -232,7 +232,7 @@ The Board shall request and consider any views of the appropriate State bank sup
 
 #### (A) Insured branch
 
-&emsp;&emsp;The term "insured branch" has the meaning given such term in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\].
+&emsp;&emsp;The term "insured branch" has the meaning given such term in section 3(s) of theFederal Deposit Insurance Act \[12 U.S.C. 1813(s)\].
 
 #### (B) Money laundering offense defined
 
@@ -252,7 +252,7 @@ Not later than 180 days after December 19, 1991, the Board and the Secretary of 
 
 #### (1) Transactions prohibited
 
-&emsp;A branch or agency of a foreign bank shall not manage, through an office of the foreign bank which is located outside the United States and is managed or controlled by such branch or agency, any type of activity that abank organized under the laws of the United States, any State, or the District of Columbia is not permitted to manage at any branch or subsidiary of such bank which is located outside the United States.
+&emsp;A branch or agency of a foreign bank shall not manage, through an office of the foreign bank which is located outside the United States and is managed or controlled by such branch or agency, any type of activity that a bank organized under the laws of the United States, any State, or the District of Columbia is not permitted to manage at any branch or subsidiary of such bank which is located outside the United States.
 
 #### (2) Regulations
 
@@ -312,7 +312,7 @@ Subsec. (e)(1)(A). Pub. L. 104–208, §2214(c), designated existing provisions 
 
 &emsp;"(ii) the Comptroller of the Currency has issued an order under section 3102(i) of this title,
 
-> or a refusal by such office or subsidiary" for "against which the Board or, in the case of an order issued under section 3102(i) of this title, the Comptroller of the Currency has issued an order under paragraph (1) or a refusal by such office or subsidiary".
+> or a refusal by such office or subsidiary" for "against which the Board or, in the case of an order issued undersection 3102(i) of this title, the Comptroller of the Currency has issued an order under paragraph (1) or a refusal by such office or subsidiary".
 
 Subsec. (e)(6)(B). Pub. L. 102–550, §1604(a)(1)(B), substituted "order referred to in subparagraph (A)" for "order issued under paragraph (1)".
 
@@ -332,7 +332,7 @@ Subsec. (j). Pub. L. 102–242, §214(b), as amended by Pub. L. 102–550, §160
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, setout as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 2010 Amendment
 

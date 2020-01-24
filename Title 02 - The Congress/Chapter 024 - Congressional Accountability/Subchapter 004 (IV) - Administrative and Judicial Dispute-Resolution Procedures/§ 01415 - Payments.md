@@ -18,7 +18,7 @@ Funds to correct violations of section 1311(a)(3), 1331, or 1341 of this title m
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (D), if a payment is made from the account described in subsection (a) for an award or settlement in connection with a claim alleging a violation described in subparagraph (C) committed personally by an individual who, at thetime of committing the violation, was a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) or a Senator, the individual shall reimburse the account for the amount of the award or settlement for the claim involved.
+&emsp;&emsp;Subject to subparagraphs (B) and (D), if a payment is made from the account described in subsection (a) for an award or settlement in connection with a claim alleging a violation described in subparagraph (C) committed personally by an individual who, at the time of committing the violation, was a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) or a Senator, the individual shall reimburse the account for the amount of the award or settlement for the claim involved.
 
 #### (B) Conditions
 
@@ -34,7 +34,7 @@ Funds to correct violations of section 1311(a)(3), 1331, or 1341 of this title m
 
 #### (D) Multiple claims
 
-&emsp;&emsp;If an award or settlement is made for multiple claims, some of which do not require reimbursement under this subsection, the individual described in subparagraph (A) shall only be required to reimburse for the amount (referred to in this chapter as the "reimbursable portion") that is—
+&emsp;&emsp;If an award or settlement is made for multiple claims, some of which do not requirereimbursement under this subsection, the individual described in subparagraph (A) shall only be required to reimburse for the amount (referred to in this chapter as the "reimbursable portion") that is—
 
 &emsp;&emsp;&emsp;(i) described in subparagraph (A), subject to subparagraph (B); and
 
@@ -78,7 +78,7 @@ Funds to correct violations of section 1311(a)(3), 1331, or 1341 of this title m
 
 #### (D) Coordination between payroll administrator and the Executive Director
 
-&emsp;&emsp;The payroll administrator and the Executive Director described in subparagraph (A)shall carry out this paragraph in a manner that ensures the coordination of the withholding and transferring of amounts under this paragraph, in accordance with regulations promulgated by the Board under section 1383 of this title and such Executive Director.
+&emsp;&emsp;The payroll administrator and the Executive Director described in subparagraph (A) shall carry out this paragraph in a manner that ensures the coordination of the withholding and transferring of amounts under this paragraph, in accordance with regulations promulgated by the Board under section 1383 of this title and such Executive Director.
 
 #### (4) Administrative wage garnishment or other collection of wages from a subsequent position
 
@@ -128,7 +128,7 @@ Funds to correct violations of section 1311(a)(3), 1331, or 1341 of this title m
 
 #### (8) Right to intervene
 
-&emsp;An individual who is subject to a reimbursement requirement of this subsection shall have the unconditional right to intervene in any mediation, hearing, or civil action under this subchapter to protect the interests of the individual in the determination of whether an award or settlement described in paragraph (1) should be made, and the amount of any such award or settlement, except that nothing inthis paragraph may be construed to require the covered employee who filed the claim to be deposed by counsel for the individual in a deposition that is separate from any other deposition taken from the employee in connection with the hearing or civil action.
+&emsp;An individual who is subject to a reimbursement requirement of this subsection shall have the unconditional right to intervene in any mediation, hearing, or civil action under this subchapter to protect the interests of the individual in the determination of whether an award or settlement described in paragraph (1) should be made, and the amount of any such award or settlement, except that nothing in this paragraph may be construed to require the covered employee who filed the claim to be deposed by counsel for the individual in a deposition that is separate from any other deposition taken from the employee in connection with the hearing or civil action.
 
 #### (9) Definitions
 
@@ -150,7 +150,7 @@ Funds to correct violations of section 1311(a)(3), 1331, or 1341 of this title m
 
 #### (1) Notification of payments made from account
 
-&emsp;As soon as practicable after the Executive Director is made aware that a payment of an award or settlement under this chapter has been made from the account described in subsection (a) in connection with a claim alleging a violation of section 1311(a) or 1316(a) of this title by an employing office (other than an employing office of the House of Representatives or an employing office of the Senate), the Executive Director shall notify the head of the employing office that the payment has been made, and shall include in the notification a statement of the amount of the payment.
+&emsp;As soon as practicable after the Executive Director is made aware that a payment of an award or settlement under this chapter has been made from the account described in subsection (a) in connection with a claim alleging a violation of section 1311(a) or 1316(a) of this title by an employing office (other than an employing office of the House of Representatives or an employing office of the Senate), the Executive Director shall notify the head ofthe employing office that the payment has been made, and shall include in the notification a statement of the amount of the payment.
 
 #### (2) Reimbursement by office
 

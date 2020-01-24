@@ -68,7 +68,7 @@
 
 (D) In determining the eligibility for adoption assistance payments of a child in a legal guardianship arrangement described in section 671(a)(28) of this title, the placement of the child with the relative guardian involved and any kinship guardianship assistance payments made on behalf of the child shall be considered never to have been made.
 
-(3) The amount of the payments to be made in any case under clauses (i) and (ii) of paragraph (1)(B) shall be determined through agreement between the adoptive parents and the State or local agency administering the program under this section, which shall take into consideration the circumstances of the adopting parents and the needs of the child being adopted, and may be readjusted periodically, with the concurrence of the adopting parents (which may be specified in the adoption assistance agreement), depending upon changes in such circumstances. However,in no case may the amount of the adoption assistance payment made under clause (ii) of paragraph (1)(B) exceed the foster care maintenance payment which would have been paid during the period if the child with respect to whom the adoption assistance payment is made had been in a foster family home.
+(3) The amount of the payments to be made in any case under clauses (i) and (ii) of paragraph (1)(B) shall be determined through agreement between the adoptive parents and the State or local agency administering the program under this section, which shall take into consideration the circumstances of the adopting parents and the needs of the child being adopted, and may be readjusted periodically, with the concurrence of the adopting parents (which may be specified in the adoption assistance agreement), depending upon changes in such circumstances. However, in no case may the amount of the adoption assistance payment made under clause (ii) of paragraph (1)(B) exceed the foster care maintenance payment which would have been paid during the period if the child with respect to whom the adoption assistance payment is made had been in a foster family home.
 
 (4)(A) Notwithstanding any other provision of this section, a payment may not be made pursuant to this section to parents or relative guardians with respect to a child—
 
@@ -126,7 +126,7 @@
 
 &emsp;(A)(i) who is a child described in subsection (a)(2), and
 
-&emsp;(ii) with respect to whom an adoption assistance agreement is in effect under this section\(whether or not adoption assistance payments are provided under the agreement or are being made under this section), including any such child who has been placed for adoption in accordance with applicable State and local law (whether or not an interlocutory or other judicial decree of adoption has been issued),
+&emsp;(ii) with respect to whom an adoption assistance agreement is in effect under this section (whether or not adoption assistance payments are provided under the agreement or are being made under this section), including any such child who has been placed for adoption in accordance with applicable State and local law (whether or not an interlocutory or other judicial decree of adoption has been issued),
 
 &emsp;(B) with respect to whom foster care maintenance payments are being made under section 672 of this title, or
 
@@ -188,7 +188,7 @@ For purposes of this section—
 
 #### (2) Limitations on amount of kinship guardianship assistance payment
 
-&emsp;A kinship guardianship assistance payment on behalf of a child shall not exceed the fostercare maintenance payment which would have been paid on behalf of the child if the child had remained in a foster family home.
+&emsp;A kinship guardianship assistance payment on behalf of a child shall not exceed the foster care maintenance payment which would have been paid on behalf of the child if the child had remained in a foster family home.
 
 #### (3) Child's eligibility for a kinship guardianship assistance payment
 
@@ -263,7 +263,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) meets the requirements of subsection (a)(2)(A)(ii).
 
-(Aug. 14, 1935, ch. 531, title IV, §473, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(3), June 17, 1980, 94 Stat. 504, 514; Pub. L. 99–272, title XII, §12305(a), (b)(1), Apr. 7, 1986, 100 Stat. 293; Pub. L. 99–514, title XVII, §1711(a), (b), (c)(3)–(5), Oct. 22, 1986, 100 Stat. 2783, 2784; Pub. L. 99–603, title II, §201(b)(2)(B), Nov. 6, 1986, 100 Stat. 3403; Pub. L. 100–203, title IX, §§9133(b)(3), (4), 9139(b), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §§265(b), 266(a), Oct. 31, 1994, 108 Stat. 4469; Pub. L. 104–193, title I, §108(d)(5), (6), Aug. 22, 1996, 110 Stat. 2167; Pub. L. 105–33, title V, §5513(b)(3), (4), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–89, title III, §307(a), Nov.19, 1997, 111 Stat. 2133; Pub. L. 109–171, title VII, §7404(b), Feb. 8, 2006, 120 Stat. 153; Pub. L. 110–351, title I, §101(b), (c)(1), (5), (f), title II, §201(c), title IV, §402, Oct. 7, 2008, 122 Stat. 3950, 3951, 3953, 3958, 3975; Pub. L. 111–148, title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 803; Pub. L. 112–34, title I, §106(c), Sept. 30, 2011, 125 Stat. 377; Pub. L. 113–183, title II, §§206, 207, Sept. 29, 2014, 128 Stat. 1939, 1940; Pub. L. 115–123, div. E, title VII, §50781(a), Feb. 9, 2018, 132 Stat. 268.)
+(Aug. 14, 1935, ch. 531, title IV, §473, as added and amended Pub. L. 96–272, title I, §§101(a)(1),102(a)(3), June 17, 1980, 94 Stat. 504, 514; Pub. L. 99–272, title XII, §12305(a), (b)(1), Apr. 7, 1986, 100 Stat. 293; Pub. L. 99–514, title XVII, §1711(a), (b), (c)(3)–(5), Oct. 22, 1986, 100 Stat. 2783, 2784; Pub. L. 99–603, title II, §201(b)(2)(B), Nov. 6, 1986, 100 Stat. 3403; Pub. L. 100–203, title IX, §§9133(b)(3), (4), 9139(b), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §§265(b), 266(a), Oct. 31, 1994, 108 Stat. 4469; Pub. L. 104–193, title I, §108(d)(5), (6), Aug. 22, 1996, 110 Stat. 2167; Pub. L. 105–33, title V, §5513(b)(3), (4), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–89, title III, §307(a), Nov. 19, 1997, 111 Stat. 2133; Pub. L. 109–171, title VII, §7404(b), Feb. 8, 2006, 120 Stat. 153; Pub. L. 110–351, title I, §101(b), (c)(1), (5), (f), title II, §201(c), title IV, §402, Oct. 7, 2008, 122 Stat. 3950, 3951, 3953, 3958, 3975; Pub. L. 111–148, title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 803; Pub. L. 112–34, title I, §106(c), Sept. 30, 2011, 125 Stat. 377; Pub. L. 113–183, title II, §§206, 207, Sept. 29, 2014, 128 Stat. 1939, 1940; Pub. L. 115–123, div. E, title VII, §50781(a), Feb. 9, 2018, 132 Stat. 268.)
 
 #### References in Text
 
@@ -321,7 +321,7 @@ Subsec. (b). Pub. L. 104–193, §108(d)(6), amended subsec. (b) generally. Prio
 
 &emsp;"(1)(A) who is a child described in subsection (a)(2) of this section, and
 
-&emsp;"(B) with respect to whom an adoption assistance agreement is in effect under this section (whether or not adoption assistance payments are provided under the agreement or are being made under this section), including any such child who has been placed for adoption in accordance with applicable State andlocal law (whether or not an interlocutory or other judicial decree of adoption has been issued), or
+&emsp;"(B) with respect to whom an adoption assistance agreement is in effect under this section (whether or not adoption assistance payments are provided under the agreement or are being made under this section), including any such child who has been placed for adoption in accordance with applicable State and local law (whether or not an interlocutory or other judicial decree of adoption has been issued), or
 
 &emsp;"(2) with respect to whom foster care maintenance payments are being made under section 672 of this title,
 

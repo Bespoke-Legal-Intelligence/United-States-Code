@@ -46,7 +46,7 @@ The list established under subsection (a) shall contain an itemization, by speci
 
 #### (1) In general
 
-&emsp;The National List established by the Secretary shall be based upon a proposed national list or proposed amendments to the National List developed by the National Organic Standards Board.
+&emsp;The National List established by the Secretary shall be based upon a proposed national list or proposed amendments to the NationalList developed by the National Organic Standards Board.
 
 #### (2) No additions
 
@@ -70,7 +70,7 @@ The list established under subsection (a) shall contain an itemization, by speci
 
 #### (e) Sunset provision
 
-No exemption or prohibition contained in the National List shall be valid unless the NationalOrganic Standards Board has reviewed such exemption or prohibition as provided in this section within 5 years of such exemption or prohibition being adopted or reviewed and the Secretary has renewed such exemption or prohibition.
+No exemption or prohibition contained in the National List shall be valid unless the National Organic Standards Board has reviewed such exemption or prohibition as provided in this section within 5 years of such exemption or prohibition being adopted or reviewed and the Secretary has renewed such exemption or prohibition.
 
 (Pub. L. 101–624, title XXI, §2118, Nov. 28, 1990, 104 Stat. 3946; Pub. L. 102–237, title X, §1001(6), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 109–97, title VII, §797(b), Nov. 10, 2005, 119 Stat. 2165.)
 

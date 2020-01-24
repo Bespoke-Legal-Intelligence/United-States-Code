@@ -34,7 +34,7 @@ Senior executives.—The term "senior executives", with respect to a contractor,
 
 (b)
 
-Determining Benchmark Compensation Amount.—For purposes of section 4304(a)(16) of this title and section 2324(e)(1)(P) of title 10, the Administrator shall review commercially available surveys of executive compensation and, on the basis of the results of the review, determine a benchmark compensation amount to apply foreach fiscal year. In making determinations under this subsection, the Administrator shall consult with the Director of the Defense Contract Audit Agency and other officials of executive agencies as the Administrator considers appropriate.
+Determining Benchmark Compensation Amount.—For purposes of section 4304(a)(16) of this title and section 2324(e)(1)(P) of title 10, the Administrator shall review commercially available surveys of executive compensation and, on the basis of the results of the review, determine a benchmark compensation amount to apply for each fiscal year. In making determinations under this subsection, the Administrator shall consult with the Director of the Defense Contract Audit Agency and other officials of executive agencies as the Administrator considers appropriate.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3689.)
 

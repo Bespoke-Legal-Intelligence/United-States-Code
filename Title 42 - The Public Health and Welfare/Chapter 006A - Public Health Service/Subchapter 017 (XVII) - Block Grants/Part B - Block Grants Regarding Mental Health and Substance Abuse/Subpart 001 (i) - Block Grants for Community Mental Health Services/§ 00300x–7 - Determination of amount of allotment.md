@@ -90,7 +90,7 @@
 
 #### (8) Determination of certain factor
 
-&emsp;(A) The factor determined under this paragraph for the State involved is a factor whose purpose is to adjust the amount determined under clause (i) of paragraph (4)(A), and the amounts determined under each of subparagraphs (B)(i) and (D)(ii)(I) of paragraph (6), to reflect the differences that exist between the State and other States in the costs of providing comprehensive community mental health services to adults with a serious mental illness and to children with a serious emotional disturbance.
+&emsp;(A) The factor determined under this paragraph for the State involved is a factor whose purpose is to adjust the amount determined under clause (i) of paragraph (4)(A), and theamounts determined under each of subparagraphs (B)(i) and (D)(ii)(I) of paragraph (6), to reflect the differences that exist between the State and other States in the costs of providing comprehensive community mental health services to adults with a serious mental illness and to children with a serious emotional disturbance.
 
 &emsp;(B) Subject to subparagraph (C), the factor determined under this paragraph and in effect for the fiscal year involved shall be determined according to the methodology described in the report entitled "Adjusting the Alcohol, Drug Abuse and Mental Health Services Block Grant Allocations for Poverty Populations and Cost of Service", dated March 30, 1990, and prepared by Health Economics Research, a corporation, pursuant to a contract with the National Institute on Drug Abuse.
 
@@ -108,7 +108,7 @@ With respect to fiscal year 2000, and subsequent fiscal years, the amount of the
 
 #### (1) Determination under formula
 
-&emsp;Subject to paragraphs (2) and (4), the amount of an allotment under section 300x ofthis title for a territory of the United States for a fiscal year shall be the product of—
+&emsp;Subject to paragraphs (2) and (4), the amount of an allotment under section 300x of this title for a territory of the United States for a fiscal year shall be the product of—
 
 &emsp;&emsp;(A) an amount equal to the amounts reserved under paragraph (3) for the fiscal year; and
 

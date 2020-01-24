@@ -12,7 +12,7 @@ In this chapter:
 
 &emsp;&emsp;(A) the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, the Select Committee on Intelligence, the Committee on Appropriations, and the majority leader and minority leader of the Senate; and
 
-&emsp;&emsp;(B) the Committee on Financial Services <sup>1</sup> the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, the Committee on Appropriations, and the Speaker and minority leader of the House of Representatives.
+&emsp;&emsp;(B) the Committee on Financial Services <sup>1</sup> the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, the Committee on Appropriations, and theSpeaker and minority leader of the House of Representatives.
 
 #### (3) Materially assisted
 

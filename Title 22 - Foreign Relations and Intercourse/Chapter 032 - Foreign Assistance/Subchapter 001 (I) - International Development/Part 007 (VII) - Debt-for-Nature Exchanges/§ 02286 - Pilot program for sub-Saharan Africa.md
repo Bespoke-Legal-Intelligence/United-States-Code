@@ -6,7 +6,7 @@ The Administrator of the Agency for International Development, in cooperation wi
 
 #### (b) Assessment of list; agreement for future use of areas
 
-The Administrator of the Agency for International Development shall assess the list submitted by each country under subsection (a) and shall seek to reach agreement with the host country for the restoration and future sustainable use of those areas.
+The Administrator of the Agency for International Development shall assess the list submitted by each country under subsection (a) andshall seek to reach agreement with the host country for the restoration and future sustainable use of those areas.
 
 #### (c) Grants for purchase of discounted commercial debt on open market; retention of interest by grantee
 

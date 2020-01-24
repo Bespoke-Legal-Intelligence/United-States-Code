@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) The United States today has the highest per capita rate of death and property loss from fire of all the major industrialized nations in the world.
 
-&emsp;(3) Fire is an undue burden affecting all Americans, and fire also constitutes a public health and safety problem of great dimensions. Fire kills 12,000 and scars and injures 300,000 Americans each year, including 50,000 individuals who require extended hospitalization. Almost $3 billion worth of property is destroyed annually by fire, and the total economic cost of destructive fire in the United States is estimated conservatively to be $11,000,000,000 per year. Firefighting is the Nation's most hazardous profession.
+&emsp;(3) Fire is an undue burden affecting all Americans, and fire also constitutes a publichealth and safety problem of great dimensions. Fire kills 12,000 and scars and injures 300,000 Americans each year, including 50,000 individuals who require extended hospitalization. Almost $3 billion worth of property is destroyed annually by fire, and the total economic cost of destructive fire in the United States is estimated conservatively to be $11,000,000,000 per year. Firefighting is the Nation's most hazardous profession.
 
 &emsp;(4) Such losses of life and property from fire are unacceptable to the Congress.
 
@@ -68,7 +68,7 @@ Pub. L. 103–254, §1, May 19, 1994, 108 Stat. 679, provided that: "This Act \[
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: "This Act \[enacting sections 2224, 2225, 2225a and 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5\] may be cited as the 'Hotel and Motel Fire Safety Act of 1990'."
+Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: "This Act \[enacting sections 2224, 2225, 2225aand 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5\] may be cited as the 'Hotel and Motel Fire Safety Act of 1990'."
 
 #### Short Title
 
@@ -150,7 +150,7 @@ Purpose.—It is the purpose of this Act \[see Short Title of 1990 Amendment not
 
 #### Waiver of Federal Liability
 
-Pub. L. 101–391, §7, Sept. 25, 1990, 104 Stat. 752, provided that: "In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of or injury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act \[see Short Title of 1990 Amendment note above\] or the amendments made by this Act."
+Pub. L. 101–391, §7, Sept. 25, 1990, 104 Stat. 752, provided that: "In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of orinjury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act \[see Short Title of 1990 Amendment note above\] or the amendments made by this Act."
 
 #### Effect on Certain Requirements
 
@@ -218,7 +218,7 @@ The President may authorize any persons who, immediately prior to the effective 
 
 #### Sec. 304. Effective Date
 
-The provisions of this Reorganization Plan shall become effective at such time or times, on or before April 1, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
+The provisions of this Reorganization Plan shall become effective at such time or times, on or before April1, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
 
 \[Pursuant to Ex. Ord. 12127, Mar. 31, 1979, 44 F.R. 19367, this Reorg. Plan is effective Apr. 1, 1979\]
 
@@ -266,7 +266,7 @@ The communications, warning, evacuation, and public education processes involved
 
 While serving an important "all hazards" readiness and response role, civil defense must continue to be fully compatible with and be ready to play an important role in our Nation's overall strategic policy. Accordingly, to maintain a link between our strategic nuclear planning and our nuclear attack preparedness planning, I will make the Secretary of Defense and the National Security Council responsible for oversight of civil defense related programs and policies of the new Agency. This will also include appropriate Department of Defense support in areas like program development, technical support, research, communications, intelligence and emergency operations.
 
-<i>Third, whenever possible, emergency responsibilities should be extensions of the regular missions of Federal</i><i>agencies</i>. The primary task of the Federal Emergency Management Agency will be to coordinate and plan for the emergency deployment of resources that have other routine uses. There is no need to develop a separate set of Federal skills and capabilities for those rare occasions when catastrophe occurs.
+<i>Third, whenever possible, emergency responsibilities should be extensions of the regular missions of Federal agencies</i>. The primary task of the Federal Emergency Management Agency will be to coordinate and plan for the emergency deployment of resources that have other routine uses. There is no need to develop a separate set of Federal skills and capabilities for those rare occasions when catastrophe occurs.
 
 <i>Fourth, Federal hazard mitigation activities should be closely linked with emergency preparedness and response functions</i>. This reorganization would permit more rational decisions on the relative costs and benefits of alternative approaches to disasters by making the Federal Emergency Management Agency the focal point of all Federal hazard mitigation activities and by combining these with the key Federal preparedness and response functions.
 

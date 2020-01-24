@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(H) in delivering any telephone message soliciting calls to a pay-per-call service, specify clearly, and at no less than the audible volume of the solicitation, the total cost and the cost per minute and any other fees for that service and for any other pay-per-call service to which the caller may be transferred; and
 
-&emsp;&emsp;(I) not advertise an 800 telephone number, or any other telephone number advertised or widely understood to be toll free, from which callers are connected to an access number for a pay-per-call service.
+&emsp;&emsp;(I) not advertise an 800 telephone number, or any other telephone number advertised orwidely understood to be toll free, from which callers are connected to an access number for a pay-per-call service.
 
 #### (2) Pay-per-call service standards
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(D) stop the assessment of time-based charges immediately upon disconnection by the caller;
 
-&emsp;&emsp;(E) disable any bypass mechanism which allows frequent callers to avoid listening tothe disclosure message described in subparagraph (A) after the institution of any price increase and for a period of time sufficient to give such frequent callers adequate and sufficient notice of the price change;
+&emsp;&emsp;(E) disable any bypass mechanism which allows frequent callers to avoid listening to the disclosure message described in subparagraph (A) after the institution of any price increase and for a period of time sufficient to give such frequent callers adequate and sufficient notice of the price change;
 
 &emsp;&emsp;(F) be prohibited from providing pay-per-call services through an 800 number or other telephone number advertised or widely understood to be toll free;
 

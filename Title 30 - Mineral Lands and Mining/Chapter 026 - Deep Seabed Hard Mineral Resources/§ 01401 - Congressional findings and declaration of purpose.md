@@ -22,7 +22,7 @@ The Congress finds that—
 
 &emsp;(9) the negotiations to conclude such a Treaty and establish the international regime governing the exercise of rights over, and exploration of, the resources of the deep seabed, referred to in General Assembly Resolution 2749 (XXV) are in progress but may not be concluded in the near future;
 
-&emsp;(10) even if such negotiations are completed promptly, much time will elapse before suchan international regime is established and in operation;
+&emsp;(10) even if such negotiations are completed promptly, much time will elapse before such an international regime is established and in operation;
 
 &emsp;(11) development of technology required for the exploration and recovery of hard mineral resources of the deep seabed will require substantial investment for many years before commercial production can occur, and must proceed at this time if deep seabed minerals are to be available when needed;
 

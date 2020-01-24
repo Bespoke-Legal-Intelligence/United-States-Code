@@ -6,7 +6,7 @@
 
 &emsp;(A) Any person who knowingly violates, and any person engaged in business as an importer of exotic birds who violates, section 4910(a)(1) or (2) <sup>1</sup> of this title or any permit issued under section 4911 of this title may be assessed a civil penalty by the Secretary of not more than $25,000 for each violation.
 
-&emsp;(B) Any person who knowingly violates, and any person engaged in business as an importer of exotic birds who violates, section 4910(a)(3) <sup>2</sup>of this title may be assessed a civil penalty by the Secretary of not more than $12,000 for each such violation.
+&emsp;(B) Any person who knowingly violates, and any person engaged in business as an importer of exotic birds who violates, section 4910(a)(3) <sup>2</sup> of this title may be assessed a civil penalty by the Secretary of not more than $12,000 for each such violation.
 
 &emsp;(C) Any person who otherwise violates section 4910(a) of this title or any permit issued under section 4911 of this title may be assessed a civil penalty by the Secretary of not more than $500 for each such violation.
 
@@ -40,7 +40,7 @@ The authority of the Secretary under this chapter is in addition to and shall no
 
 Act of December 28, 1973, referred to in subsec. (a)(1)(D), and the Endangered Species Act of 1973, referred to in subsec. (e), are Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to chapter 53 (§3371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
+The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073,which is classified principally to chapter 53 (§3371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
 #### Termination of Trust Territory
 

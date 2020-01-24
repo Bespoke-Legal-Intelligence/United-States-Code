@@ -63,7 +63,7 @@ Committee Allocations, Aggregates, and Levels.—
 
 &emsp;&emsp;"(C) aggregate spending levels for fiscal years 2011 and 2012 and aggregate revenue levels for fiscal years 2011, 2012, 2012 through 2016, 2012 through 2021 consistent with the Congressional Budget Office's March 2011 baseline adjusted to account for the budgetary effects of this Act and legislation enacted prior to this Act but not included in the Congressional Budget Office's March 2011 baseline, and the discretionary spending limits set forth in this Act for the purpose of enforcing section 311 of the Congressional Budget Act of 1974 \[2 U.S.C. 642\]; and
 
-&emsp;&emsp;"(D) levels of Social Security revenues and outlays for fiscal years 2011, 2012, 2012 through 2016, and 2012 through 2021 consistent with the Congressional Budget Office's March 2011 baseline adjusted to account for the budgetary effects of this Act and legislation enacted prior to this Act but not includedin the Congressional Budget Office's March 2011 baseline, for the purpose of enforcing sections 302 and 311 of the Congressional Budget Act of 1974.
+&emsp;&emsp;"(D) levels of Social Security revenues and outlays for fiscal years 2011, 2012, 2012 through 2016, and 2012 through 2021 consistent with the Congressional Budget Office's March 2011 baseline adjusted to account for the budgetary effects of this Act and legislation enacted prior to this Act but not included in the Congressional Budget Office's March 2011 baseline, for the purpose of enforcing sections 302 and 311 of the Congressional Budget Act of 1974.
 
 &emsp;"(2) Not later than April 15, 2012, the Chairman of the Committee on the Budget shall file—
 

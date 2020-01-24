@@ -24,7 +24,7 @@ In determinations under subsection (a)(4), the following factors should be consi
 
 &emsp;(4) Whether the government of the country cooperates with other governments in the investigation and prosecution of severe forms of trafficking in persons and has entered into bilateral, multilateral, or regional law enforcement cooperation and coordination arrangements with other countries.
 
-&emsp;(5) Whether the government of the country extradites persons charged with acts of severe forms of trafficking in persons on substantially the same terms and to substantially the same extent as persons charged with other serious crimes (or, to the extent such extradition would be inconsistent with the laws of such country or with international agreements to which the country is a party, whether the government is taking all appropriate measures to modify or replace such laws and treaties so as to permit such extradition).
+&emsp;(5) Whether the government of the country extradites persons charged with acts of severe forms of trafficking in persons on substantially the same terms and to substantially the same extent as persons charged with other serious crimes (or, to the extent such extradition would be inconsistent with the laws of such country or with international agreements to which the country is a party, whether the government is taking all appropriatemeasures to modify or replace such laws and treaties so as to permit such extradition).
 
 &emsp;(6) Whether the government of the country monitors immigration and emigration patterns for evidence of severe forms of trafficking in persons and whether law enforcement agencies of the country respond to any such evidence in a manner that is consistent with the vigorous investigation and prosecution of acts of such trafficking, as well as with the protection of human rights of victims and the internationally recognized human right to leave any country, including one's own, and to return to one's own country.
 
@@ -72,7 +72,7 @@ Subsec. (b)(9) to (12). Pub. L. 113–4, §1204(4), (5), added par. (9) and rede
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–457, §106(1), struck out "a significant number of" before "victims" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 110–457, §106(2)(A), substituted ", including, as appropriate, requiring incarceration of individuals convicted of such acts. For purposes of the preceding sentence, suspended or significantly-reduced sentences for convictions of principal actors in cases of severe forms of trafficking in persons shall be considered, on a case-by-case basis, whether to be considered an indicator of serious and sustained efforts to eliminate severe forms of trafficking in persons." for period at end of first sentence.
+Subsec. (b)(1). Pub. L. 110–457, §106(2)(A), substituted ", including, as appropriate, requiring incarceration ofindividuals convicted of such acts. For purposes of the preceding sentence, suspended or significantly-reduced sentences for convictions of principal actors in cases of severe forms of trafficking in persons shall be considered, on a case-by-case basis, whether to be considered an indicator of serious and sustained efforts to eliminate severe forms of trafficking in persons." for period at end of first sentence.
 
 Subsec. (b)(2). Pub. L. 110–457, §106(2)(B), inserted ", including by providing training to law enforcement and immigration officials regarding the identification and treatment of trafficking victims using approaches that focus on the needs of the victims" before period at end.
 

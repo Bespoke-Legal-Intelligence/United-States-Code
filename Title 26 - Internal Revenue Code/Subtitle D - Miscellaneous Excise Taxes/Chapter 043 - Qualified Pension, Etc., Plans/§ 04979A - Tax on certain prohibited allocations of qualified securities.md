@@ -126,7 +126,7 @@ Amendment by Pub. L. 101–239 applicable to estates of decedents dying after De
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1172(b)(2) of Pub. L. 99–514 applicable to sales after Oct. 22, 1986, with respect to which election is made by executor of an estate who is required to file the return of the tax imposed by this title on a date (including extensions) after Oct. 22, 1986, see section 1172(c) of Pub. L. 99–514, set out as a note under section 409 of this title.
+Amendment by section 1172(b)(2) of Pub. L. 99–514 applicable to sales after Oct. 22, 1986, with respect towhich election is made by executor of an estate who is required to file the return of the tax imposed by this title on a date (including extensions) after Oct. 22, 1986, see section 1172(c) of Pub. L. 99–514, set out as a note under section 409 of this title.
 
 #### Effective Date
 

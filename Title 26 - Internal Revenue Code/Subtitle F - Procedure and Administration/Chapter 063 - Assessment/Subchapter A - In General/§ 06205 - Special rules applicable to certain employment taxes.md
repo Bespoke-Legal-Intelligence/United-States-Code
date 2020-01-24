@@ -20,7 +20,7 @@
 
 #### (5) States and political subdivisions as employer
 
-&emsp;For purposes of this subsection, in the case of remuneration received from a State or any political subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during any calendar year, each head of an agency or instrumentality, and each agent designated by either, who makes a return pursuant to section 3125 shall be deemed a separate employer.
+&emsp;For purposes of this subsection, in the case of remuneration received from a State or anypolitical subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during any calendar year, each head of an agency or instrumentality, and each agent designated by either, who makes a return pursuant to section 3125 shall be deemed a separate employer.
 
 #### (b) Underpayments
 
@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–272 applicable to services performed after Mar. 31, 1986, see section 13205(d)(1) ofPub. L. 99–272, set out as a note under section 3121 of this title.
+Amendment by Pub. L. 99–272 applicable to services performed after Mar. 31, 1986, see section 13205(d)(1) of Pub. L. 99–272, set out as a note under section 3121 of this title.
 
 #### Effective Date of 1976 Amendment
 

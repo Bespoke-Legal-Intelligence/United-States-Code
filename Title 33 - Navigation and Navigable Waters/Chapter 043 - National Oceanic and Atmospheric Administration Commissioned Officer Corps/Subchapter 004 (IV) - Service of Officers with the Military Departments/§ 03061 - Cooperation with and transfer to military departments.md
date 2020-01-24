@@ -20,7 +20,7 @@
 
 #### (b) Limitation on transfer of officers
 
-This section does not authorize the transfer of an officer of the Administration to a military department if the accession or retention of thatofficer in that military department is otherwise not authorized by law.
+This section does not authorize the transfer of an officer of the Administration to a military department if the accession or retention of that officer in that military department is otherwise not authorized by law.
 
 #### (c) Status of transferred officers
 

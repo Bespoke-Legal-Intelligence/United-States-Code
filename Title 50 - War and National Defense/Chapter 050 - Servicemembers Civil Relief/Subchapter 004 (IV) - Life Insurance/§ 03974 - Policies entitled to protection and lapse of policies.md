@@ -6,7 +6,7 @@ The Secretary of Veterans Affairs shall determine whether a policy is entitled t
 
 #### (b) Lapse protection
 
-A policy that the Secretary determines is entitled to protection under this subchapter shall not lapse or otherwise terminate or be forfeited for the nonpayment of a premium, or interest or indebtedness on a premium, after the date on which the application for protection is received by the Secretary.
+A policy that the Secretary determines is entitled to protection under this subchapter shall not lapse or otherwise terminate or be forfeitedfor the nonpayment of a premium, or interest or indebtedness on a premium, after the date on which the application for protection is received by the Secretary.
 
 #### (c) Time application
 

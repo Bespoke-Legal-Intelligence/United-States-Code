@@ -56,7 +56,7 @@ A prior section 2216a, added Pub. L. 104–106, div. A, title III, §371(a)(1), 
 
 <b>2014</b>—Subsec. (e). Pub. L. 113–291 substituted "September 30, 2018" for "September 30, 2015".
 
-<b>2013</b>—Subsec. (e). Pub. L. 112–239 substituted "on September 30, 2015." for "on the last day of the third fiscal year that begins after the date of the enactment of theNational Defense Authorization Act for Fiscal Year 2012."
+<b>2013</b>—Subsec. (e). Pub. L. 112–239 substituted "on September 30, 2015." for "on the last day of the third fiscal year that begins after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012."
 
 #### Limitation on Commencement of Expenditures From Fund
 

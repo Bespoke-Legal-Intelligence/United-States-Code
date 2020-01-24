@@ -52,7 +52,7 @@ Pub. L. 112–266, §1, Jan. 14, 2013, 126 Stat. 2437, provided that: "This Act 
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–314, §1(a), Aug. 14, 2008, 122 Stat. 3016, provided that: "This Act \[enacting sections 1278a, 1477,2053a, 2055a, 2056a, 2056b, 2057c, 2076b, 2086 to 2089, and 8008 of this title, amending sections 1191, 1193, 1194, 1196, 1201 to 1204, 1261 to 1266, 1269 to 1276, 1278, 1472, 2052, 2054, 2055, 2058, 2060, 2063 to 2070, 2073, 2076, 2077 to 2079, 2081, 2082, 8002, and 8003 of this title, enacting provisions set out as notes under this section and sections 1194, 2053, 2060, 2063, 2066, 2069, and 2076 of this title, amending provisions set out as notes under sections 401 and 1261 of this title and section 1113 of Title 31, Money and Finance, and repealing provisions set out as a note under section 2053 of this title\] may be cited as the 'Consumer Product Safety Improvement Act of 2008'."
+Pub. L. 110–314, §1(a), Aug. 14, 2008, 122 Stat. 3016, provided that: "This Act \[enacting sections 1278a, 1477, 2053a, 2055a, 2056a, 2056b, 2057c, 2076b, 2086 to 2089, and 8008 of this title, amending sections 1191, 1193, 1194, 1196, 1201 to 1204, 1261 to 1266, 1269 to 1276, 1278, 1472, 2052, 2054, 2055, 2058, 2060, 2063 to 2070, 2073, 2076, 2077 to 2079, 2081, 2082, 8002, and 8003 of this title, enacting provisions set out as notes under this section and sections 1194, 2053, 2060, 2063, 2066, 2069, and 2076 of this title, amending provisions set out as notes under sections 401 and 1261 of this title and section 1113 of Title 31, Money and Finance, and repealing provisions set out as a note under section 2053 of this title\] may be cited as the 'Consumer Product Safety Improvement Act of 2008'."
 
 #### Short Title of 1990 Amendment
 

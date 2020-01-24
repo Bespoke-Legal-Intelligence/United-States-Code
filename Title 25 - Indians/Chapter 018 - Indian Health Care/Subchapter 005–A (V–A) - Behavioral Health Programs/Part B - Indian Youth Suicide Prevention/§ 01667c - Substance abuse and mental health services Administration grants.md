@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the total population of the affected State; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the affected State will take reasonable efforts to collaborate with each Indian tribe located within the affected State to carry out youth suicide prevention and treatment measures for members of the Indian tribe.
+&emsp;&emsp;&emsp;&emsp;(II) the affected State will take reasonable efforts to collaborate with each Indian tribe located within the affectedState to carry out youth suicide prevention and treatment measures for members of the Indian tribe.
 
 #### (C) Report
 

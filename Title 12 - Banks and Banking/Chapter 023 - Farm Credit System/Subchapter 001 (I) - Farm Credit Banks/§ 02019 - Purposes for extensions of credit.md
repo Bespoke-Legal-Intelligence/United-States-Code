@@ -32,7 +32,7 @@
 
 #### (2) Facilities
 
-&emsp;The banks may own and lease, or lease with option to purchase, to persons eligible for credit under this subchapter or subchapter II, equipment or facilities needed in the operations of such persons.
+&emsp;The banks may own and lease, or lease with option to purchase, to persons eligible forcredit under this subchapter or subchapter II, equipment or facilities needed in the operations of such persons.
 
 (Pub. L. 92–181, title I, §1.11, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1627; amended Pub. L. 100–399, title IV, §401(j), Aug. 17, 1988, 102 Stat. 996; Pub. L. 101–624, title XVIII, §1832(a), Nov. 28, 1990, 104 Stat. 3832; Pub. L. 102–237, title V, §502(a), Dec. 13, 1991, 105 Stat. 1868.)
 

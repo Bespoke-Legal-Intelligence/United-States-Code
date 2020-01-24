@@ -130,7 +130,7 @@ Not later than 180 days after the date on which the Committee is established und
 
 #### (2) Composition
 
-&emsp;The Advisory Committee shall be composed of the following members, to be appointed by the Secretary, in consultation with the Committee:
+&emsp;The Advisory Committee shall be composed of the following members, to be appointed bythe Secretary, in consultation with the Committee:
 
 &emsp;&emsp;(A) 1 representative shall be appointed from each National Laboratory.
 

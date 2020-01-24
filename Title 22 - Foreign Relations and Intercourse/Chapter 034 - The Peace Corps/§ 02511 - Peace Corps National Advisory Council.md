@@ -6,7 +6,7 @@ A Peace Corps National Advisory Council (hereinafter in this section referred to
 
 #### (b) Functions
 
-(1) The Council shall advise and consult with the President and the Director of the PeaceCorps with regard to policies and programs designed to further the purposes of this chapter and shall, as the Council considers appropriate, periodically report to the Congress with regard to the Peace Corps.
+(1) The Council shall advise and consult with the President and the Director of the Peace Corps with regard to policies and programs designed to further the purposes of this chapter and shall, as the Council considers appropriate, periodically report to the Congress with regard to the Peace Corps.
 
 (2) Members of the Council shall (subject to subsection (d)(1)) conduct on-site inspections, and make examinations, of the activities of the Peace Corps in the United States and in other countries in order to—
 
@@ -14,7 +14,7 @@ A Peace Corps National Advisory Council (hereinafter in this section referred to
 
 &emsp;(B) assess the potential capabilities and the future role of the Peace Corps;
 
-&emsp;(C) make recommendations to the President, the Director of the Peace Corps, and, as the Council considers appropriate, the Congress, for the purpose of guiding the future direction of the Peace Corps and of helping to ensure that the purposes and programs of the Peace Corps are carried out in ways that are economical, efficient, responsive to changing needs in developing countries and to changing relationships among people, and in accordance with law; and
+&emsp;(C) make recommendations to the President, the Director of the Peace Corps, and, as theCouncil considers appropriate, the Congress, for the purpose of guiding the future direction of the Peace Corps and of helping to ensure that the purposes and programs of the Peace Corps are carried out in ways that are economical, efficient, responsive to changing needs in developing countries and to changing relationships among people, and in accordance with law; and
 
 &emsp;(D) make such other evaluations, assessments, and recommendations as the Council considers appropriate.
 
@@ -74,7 +74,7 @@ At its first meeting and at its first regular meeting in each calendar year ther
 
 #### (i) Reports to the President and the Director
 
-Not later than January 1, 1988, and not later than January 1 of each second year thereafter, the Council shall submit to the President and the Director of the Peace Corps a report on its views on the programs and activities of the Peace Corps. Each report shall contain a summary of the advice and recommendations provided by the Council to the President and the Director during the period covered by the report and such recommendations (including recommendations for administrative or legislative action) as the Council considers appropriate to make to the Congress. Within ninety days after receiving each such report, the President shall submit to the Congress a copy of the report, together with any comments concerning the report that the President or the Director considers appropriate.
+Not later than January 1, 1988, and not later than January 1 of each second year thereafter, the Council shall submit to the President and the Director of the Peace Corps a report on its views on the programs and activities of the Peace Corps. Each report shall contain a summary of the advice and recommendations provided by the Council to the President and the Director during the period covered by the report and such recommendations (including recommendations for administrative or legislative action) as the Council considers appropriate tomake to the Congress. Within ninety days after receiving each such report, the President shall submit to the Congress a copy of the report, together with any comments concerning the report that the President or the Director considers appropriate.
 
 #### (j) Administrative assistance
 

@@ -2,7 +2,7 @@
 
 #### (a) Special projects
 
-(1) Of the amounts appropriated under section 701(a) of this title for a fiscal year that are notin excess of $600,000,000, the Secretary shall retain an amount equal to 15 percent for the purpose of carrying out activities described in section 701(a)(2) of this title. The authority of the Secretary to enter into any contracts under this subchapter is effective for any fiscal year only to such extent or in such amounts as are provided in appropriations Acts.
+(1) Of the amounts appropriated under section 701(a) of this title for a fiscal year that are not in excess of $600,000,000, the Secretary shall retain an amount equal to 15 percent for the purpose of carrying out activities described in section 701(a)(2) of this title. The authority of the Secretary to enter into any contracts under this subchapter is effective for any fiscal year only to such extent or in such amounts as are provided in appropriations Acts.
 
 (2) For purposes of paragraph (1)—
 

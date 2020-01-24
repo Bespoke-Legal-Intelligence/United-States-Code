@@ -54,7 +54,7 @@ Pub. L. 103–382, title V, part B, Oct. 20, 1994, 108 Stat. 4045, which provide
 
 #### Study of Federal Benefit Coordination
 
-Pub. L. 102–325, title XIV, §1405, July 23, 1992, 106 Stat. 818, directed Secretary of Education to conduct a study to evaluate the coordination of Federal student financial assistance programs under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) with other programs funded in whole or in part with Federal funds, with Secretary to prepare and submit to appropriate committees of Congress a report on the study not later than 3 years after July 23, 1992, together with such recommendations as the Secretary deemed appropriate, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
+Pub. L. 102–325, title XIV, §1405, July 23, 1992, 106 Stat. 818, directed Secretary of Education to conduct astudy to evaluate the coordination of Federal student financial assistance programs under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) with other programs funded in whole or in part with Federal funds, with Secretary to prepare and submit to appropriate committees of Congress a report on the study not later than 3 years after July 23, 1992, together with such recommendations as the Secretary deemed appropriate, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 #### Olympic Scholarships
 
@@ -74,7 +74,7 @@ Award determination.—The amount of the financial assistance provided to an ath
 
 &emsp;"(3)
 
-Information on distribution of assistance.—Each center providing such assistance shall annually report to the Secretary such information as the Secretary may reasonably require on the distribution of such assistance among athletes and institutions of higher education. The Secretary shall compile such reports and submit them to the Committees on Education and the Workforce and Appropriations of the House of Representatives and the Committees on Health, Education, Labor, and Pensions and Appropriations of the Senate.
+Information on distribution of assistance.—Each center providing such assistance shall annually report to the Secretary such information as the Secretary may reasonably require on the distribution of such assistance among athletes and institutions of higher education. The Secretary shall compile such reports and submit them to the Committees on Education and the Workforce \[now Education and Labor\] and Appropriations of the House of Representatives and the Committees on Health, Education, Labor, and Pensions and Appropriations of the Senate.
 
 "(b)
 
@@ -112,7 +112,7 @@ Purpose.—It is the purpose of this section to ensure that—
 
 "(b)
 
-Waiver Requirement.—Notwithstanding any other provision of law, unless enacted with specific reference to this section, the Secretary of Education shall waive or modify any statutory or regulatory provision applicable to the student financial aid programs undertitle IV of the Act that the Secretary deems necessary to achieve the purposes stated in subsection (a), including—
+Waiver Requirement.—Notwithstanding any other provision of law, unless enacted with specific reference to this section, the Secretary of Education shall waive or modify any statutory or regulatory provision applicable to the student financial aid programs under title IV of the Act that the Secretary deems necessary to achieve the purposes stated in subsection (a), including—
 
 &emsp;"(1) the length of, and eligibility requirements for, the military deferments authorized under sections 427(a)(2)(C)(ii), 428(b)(1)(M)(ii), and 464(c)(2)(A)(ii) of the Act \[20 U.S.C. 1077(a)(2)(C)(ii), 1078(b)(1)(M)(ii), 1087dd(c)(2)(A)(ii)\], in order to enable the borrower of a Stafford Loan or a Perkins Loan who is or was serving on active duty in connection with Operation Desert Shield or Operation Desert Storm to obtain a military deferment, under which interest shall accrue and shall, if otherwise payable by the Secretary, be paid by the Secretary of Education, for the duration of such service;
 
@@ -128,7 +128,7 @@ Waiver Requirement.—Notwithstanding any other provision of law, unless enacted
 
 "(c)
 
-Notice of Waiver.—Notwithstanding section 431 \[now 437\] of the General Education Provisions Act (20 U.S.C. 1232) and section 553 of title 5, United States Code, the Secretary shall, by notice in the Federal Register, publish the waivers or modifications of statutory and regulatory provisions the Secretary deems necessary to achieve the purposes of this section. Such notice shall include the terms and conditions to be applied in lieu of such statutory and regulatory provisions. The Secretary is not required to exercise the waiver or modification authority under this section on a case-by-case basis.
+Notice of Waiver.—Notwithstanding section 431 \[now 437\] of the General Education Provisions Act (20 U.S.C. 1232) and section 553 of title 5, United States Code, the Secretary shall, by notice in the Federal Register, publish the waivers or modifications of statutoryand regulatory provisions the Secretary deems necessary to achieve the purposes of this section. Such notice shall include the terms and conditions to be applied in lieu of such statutory and regulatory provisions. The Secretary is not required to exercise the waiver or modification authority under this section on a case-by-case basis.
 
 "(d)
 

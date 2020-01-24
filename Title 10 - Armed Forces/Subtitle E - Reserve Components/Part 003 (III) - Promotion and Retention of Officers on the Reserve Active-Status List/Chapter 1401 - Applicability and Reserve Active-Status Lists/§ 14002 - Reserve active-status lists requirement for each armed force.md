@@ -20,7 +20,7 @@ Section 1686 of title XVI of div. A of Pub. L. 103–337 provided that:
 
 "(a)
 
-Six-Month Deadline.—Not later than six months after the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\], the Secretary of the military department concerned shall ensure that—
+Six-Month Deadline.—Not later than six months after the effective date of this title \[Oct. 1, 1996,see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\], the Secretary of the military department concerned shall ensure that—
 
 &emsp;"(1) all officers of the Army, Navy, Air Force, and Marine Corps who are required to be placed on the reserve active-status list of their Armed Force under section 14002 of title 10, United States Code, as added by this title, shall be placed on the list for their armed force and in their competitive category; and
 

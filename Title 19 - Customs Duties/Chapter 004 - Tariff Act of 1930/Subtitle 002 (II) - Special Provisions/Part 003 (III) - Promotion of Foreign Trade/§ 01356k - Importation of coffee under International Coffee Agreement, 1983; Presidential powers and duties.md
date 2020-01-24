@@ -2,13 +2,13 @@
 
 On and after the entry into force of the International Coffee Agreement, 1983, and before October 1, 1989, the President is authorized, in order to carry out and enforce the provisions of that agreement—
 
-&emsp;(1) to regulate the entry of coffee for consumption, or withdrawal of coffee from warehouse for consumption, or any other form of entry or withdrawal of coffee such as for transportation or exportation, including whenever quotas are in effect pursuant to the agreement, (A) the limitation of entry, or withdrawal from warehouse, of coffee imported from countries which are not members of the International Coffee Organization, and (B) the prohibition of entry of any shipment from any member of the International CoffeeOrganization of coffee which is not accompanied either by a valid certificate of origin, a valid certificate of reexport, a valid certificate of reshipment, or a valid certificate of transit, issued by a qualified agency in such form as required under the agreement;
+&emsp;(1) to regulate the entry of coffee for consumption, or withdrawal of coffee from warehouse for consumption, or any other form of entry or withdrawal of coffee such as for transportation or exportation, including whenever quotas are in effect pursuant to the agreement, (A) the limitation of entry, or withdrawal from warehouse, of coffee imported from countries which are not members of the International Coffee Organization, and (B) the prohibition of entry of any shipment from any member of the International Coffee Organization of coffee which is not accompanied either by a valid certificate of origin, a valid certificate of reexport, a valid certificate of reshipment, or a valid certificate of transit, issued by a qualified agency in such form as required under the agreement;
 
 &emsp;(2) to require that every export or reexport of coffee from the United States shall be accompanied by a valid certificate of origin or a valid certificate of reexport, issued by a qualified agency of the United States designated by him, in such form as required under the agreement;
 
 &emsp;(3) to require the keeping of such records, statistics, and other information, and the rendering of such reports, relating to the importation, distribution, prices, and consumption of coffee as he may from time to time prescribe; and
 
-&emsp;(4) to take such other action, and issue and enforce such rules and regulations, as he may consider necessary or appropriate in order to implement the obligations of the United States under the agreement.
+&emsp;(4) to take such other action, and issue and enforce such rules and regulations, as he may consider necessary or appropriate in order toimplement the obligations of the United States under the agreement.
 
 (Pub. L. 96–599, §2, Dec. 24, 1980, 94 Stat. 3491; Pub. L. 97–276, §161, Oct. 2, 1982, 96 Stat. 1204; Pub. L. 97–446, §154, Jan. 12, 1983, 96 Stat. 2345; Pub. L. 98–120, §1, Oct. 12, 1983, 97 Stat. 809; Pub. L. 100–418, title I, §1123(a), Aug. 23, 1988, 102 Stat. 1146.)
 

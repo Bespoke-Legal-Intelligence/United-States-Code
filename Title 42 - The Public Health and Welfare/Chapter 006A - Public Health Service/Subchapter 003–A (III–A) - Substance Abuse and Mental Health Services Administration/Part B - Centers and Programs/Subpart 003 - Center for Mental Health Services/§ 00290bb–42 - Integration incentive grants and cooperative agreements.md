@@ -88,7 +88,7 @@ An eligible entity receiving a grant or cooperative agreement under this section
 
 &emsp;&emsp;(A) with respect to adults with a serious mental illness, participation in supportive housing or independent living programs, attendance in social and rehabilitative programs, participation in job training opportunities, satisfactory performance in work settings, attendance at scheduled medical and mental health appointments, and compliance with prescribed medication regimes;
 
-&emsp;&emsp;(B) with respect to individuals with co-occurring mental illness and physical health conditions and chronic diseases, attendance at scheduled medical and mental health appointments, compliance with prescribed medication regimes, and participation in learning opportunities related to improved health and lifestyle practices; and
+&emsp;&emsp;(B) with respect to individuals with co-occurring mental illness and physical health conditions and chronic diseases, attendance at scheduled medical and mental health appointments, compliance with prescribed medication regimes, and participation inlearning opportunities related to improved health and lifestyle practices; and
 
 &emsp;&emsp;(C) with respect to children and adolescents with a serious emotional disturbance who have co-occurring physical health conditions and chronic diseases, attendance at scheduled medical and mental health appointments, compliance with prescribed medication regimes, and participation in learning opportunities at school and extracurricular activities.
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-No individual shall be discriminated against on the basis of disability in the full and equalenjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation by any person who owns, leases (or leases to), or operates a place of public accommodation.
+No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation by any person who owns, leases (or leases to), or operates a place of public accommodation.
 
 #### (b) Construction
 
@@ -102,5 +102,5 @@ For the effective date of this subparagraph, referred to in subsec. (b)(2)(B), (
 
 #### Effective Date
 
-Section effective 18 months after July 26, 1990, but with subsec. (a) of this section (for purposes of subsec. (b)(2)(B), (C) only) effective July 26, 1990, and with certain qualifications with respect to bringing of civil actions, see section 310 of Pub. L. 101–336, set out as a note under section 12181 of this title.
+Section effective 18 months after July 26, 1990, but with subsec. (a) of this section (for purposes of subsec.\(b)(2)(B), (C) only) effective July 26, 1990, and with certain qualifications with respect to bringing of civil actions, see section 310 of Pub. L. 101–336, set out as a note under section 12181 of this title.
 

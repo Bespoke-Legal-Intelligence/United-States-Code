@@ -2,7 +2,7 @@
 
 The President is authorized, through such department or agency in the executive branch of the Government as he may designate, to provide for United States participation in the Inter-American Cultural and Trade Center (hereinafter in this chapter referred to as "Interama"). In providing for United States participation, the President shall cooperate with the Inter-American Center Authority (an agency of the State of Florida). The purposes of Interama are—
 
-&emsp;(1) to provide a permanent international center which will serve as a meeting ground for the governments and industries of the Western Hemisphere and of other areas of the world;
+&emsp;(1) to provide a permanent international center which will serve as a meeting groundfor the governments and industries of the Western Hemisphere and of other areas of the world;
 
 &emsp;(2) to facilitate broad and continuous exchanges of ideas, persons, and products through cultural, educational, and other exchanges; and
 

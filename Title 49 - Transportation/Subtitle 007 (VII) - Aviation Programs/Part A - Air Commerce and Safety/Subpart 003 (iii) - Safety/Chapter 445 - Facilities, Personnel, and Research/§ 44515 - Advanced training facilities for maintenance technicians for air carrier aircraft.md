@@ -38,7 +38,7 @@ Pub. L. 115–254, div. B, title VI, §624, Oct. 5, 2018, 132 Stat. 3404, provid
 
 "(a)
 
-Regulations.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator of the Federal Aviation Administration shall issue a final rule to modernize training programs at aviation maintenance technician schools governed by part 147 of title 14, Code of Federal Regulations.
+Regulations.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator of the Federal Aviation Administration shall issue a final rule to modernize training programs ataviation maintenance technician schools governed by part 147 of title 14, Code of Federal Regulations.
 
 "(b)
 

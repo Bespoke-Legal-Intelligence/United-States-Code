@@ -28,7 +28,7 @@ Qualifying Program or Event.—For purposes of this section, a qualifying progra
 
 Monthly Assistance Allowance.—(1) Subject to the availability of appropriations for such purpose, the Secretary may provide a monthly assistance allowance to—
 
-&emsp;(A) a veteran with a disability invited by the United States Olympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctioned by the United States Olympic Committee or who is residing at a United States Olympic Committee training center; and
+&emsp;(A) a veteran with a disability invited by the United States Olympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctionedby the United States Olympic Committee or who is residing at a United States Olympic Committee training center; and
 
 &emsp;(B) a veteran with a VA service-connected disability rated as 30 percent or greater by the Department of Veterans Affairs who is selected by the United States Olympic Committee for the United States Olympic Team for any month in which the veteran is competing in any event sanctioned by the National Governing Bodies of the United States Olympic Sports.
 
@@ -56,7 +56,7 @@ Applicability to Commonwealths and Territories of the United States.—The provi
 
 Limitation on Statutory Construction.—Nothing in this section shall be construed as a limitation on disabled sports and special events supported by the Department as of the date of the enactment of this section.
 
-(Added Pub. L. 110–389, title VII, §703(a), Oct. 10, 2008, 122 Stat. 4183; amended Pub. L. 113–37, §2(a),Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §4, Dec. 20, 2013, 127 Stat. 659; Pub. L. 114–58, title IV, §402, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–223, div. A, title II, §249, Sept. 29, 2016, 130 Stat. 892; Pub. L. 114–228, title IV, §403, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §403, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §163, Sept. 29, 2018, 132 Stat. 3171.)
+(Added Pub. L. 110–389, title VII, §703(a), Oct. 10, 2008, 122 Stat. 4183; amended Pub. L. 113–37, §2(a), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §4, Dec. 20, 2013, 127 Stat. 659; Pub. L. 114–58, title IV, §402, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–223, div. A, title II, §249, Sept. 29, 2016, 130 Stat. 892; Pub. L. 114–228, title IV, §403, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §403, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §163, Sept. 29, 2018, 132 Stat. 3171.)
 
 #### References in Text
 
@@ -114,7 +114,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(4) In 2005, the United States Olympic Committee entered into a memorandum of understanding with the Secretary of Veterans Affairs to increase interest in and access to Paralympic sports programs for veterans with physical disabilities by coordinating the activities of the United States Olympic Committee with the Department of Veterans Affairs.
 
-&emsp;"(5) The Paralympic Program has a significant positive effect on the quality of life of disabled veterans and disabled members of the Armed Forces who participate in the program, including helping to improve the mobility, vitality, and physical, psychological, and social well-being of such participants and reducing the incidence of secondary medical conditions in those participants.
+&emsp;"(5) The Paralympic Program has a significant positive effect on the quality of life of disabled veterans and disabled members of the Armed Forces who participate in the program, including helping to improve the mobility, vitality, and physical, psychological, and social well-being of such participants andreducing the incidence of secondary medical conditions in those participants.
 
 &emsp;"(6) Because of Operation Iraqi Freedom and Operation Enduring Freedom, the number of disabled veterans and disabled members of the Armed Forces has increased substantially and it is therefore desirable to supplement the rehabilitation and recreation programs of the Department of Veterans Affairs through sports for disabled veterans and members of the Armed Forces.
 

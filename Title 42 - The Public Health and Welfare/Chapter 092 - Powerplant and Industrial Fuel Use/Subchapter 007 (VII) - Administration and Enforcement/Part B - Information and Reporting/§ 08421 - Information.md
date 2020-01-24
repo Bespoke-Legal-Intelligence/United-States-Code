@@ -18,7 +18,7 @@ In the case of responsibilities expressly given by this chapter to the President
 
 (2) Repealed. Pub. L. 104–66, title I, §1051(e), Dec. 21, 1995, 109 Stat. 716.
 
-(Pub. L. 95–620, title VII, §711, Nov. 9, 1978, 92 Stat. 3332; Pub. L. 97–35, title X, §1021(b), Aug. 13, 1981, 95 Stat. 615; Pub. L. 100–42, §1(c)(17), May 21, 1987, 101 Stat. 313; Pub. L. 104–66, title I, §1051(e), Dec. 21, 1995, 109 Stat. 716.)
+(Pub. L. 95–620, title VII, §711, Nov. 9, 1978, 92 Stat. 3332; Pub. L. 97–35, title X, §1021(b), Aug.13, 1981, 95 Stat. 615; Pub. L. 100–42, §1(c)(17), May 21, 1987, 101 Stat. 313; Pub. L. 104–66, title I, §1051(e), Dec. 21, 1995, 109 Stat. 716.)
 
 #### References in Text
 

@@ -52,7 +52,7 @@ A Center of Excellence in a region shall ensure—
 
 &emsp;(2) provision of supervision and mentoring for teacher candidates in the teacher preparation program; and
 
-&emsp;(3) to the maximum extent practicable, provision of professional development for veteranteachers in the public secondary schools in the region.
+&emsp;(3) to the maximum extent practicable, provision of professional development for veteran teachers in the public secondary schools in the region.
 
 #### (h) Evaluation
 

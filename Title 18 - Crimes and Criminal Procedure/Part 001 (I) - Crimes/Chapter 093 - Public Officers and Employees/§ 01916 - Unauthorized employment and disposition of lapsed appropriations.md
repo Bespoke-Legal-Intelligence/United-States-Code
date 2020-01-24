@@ -2,7 +2,7 @@
 
 Whoever—
 
-&emsp;(1) violates the provision of section 3103 of title 5 that an individual may be employed in the civil service in an Executive department at the seat of Government only for services actually rendered in connection with and for the purposes of the appropriation from which he is paid; or
+&emsp;(1) violates the provision of section 3103 of title 5 that an individual may be employed in the civil service in an Executive departmentat the seat of Government only for services actually rendered in connection with and for the purposes of the appropriation from which he is paid; or
 
 &emsp;(2) violates the provision of section 5501 of title 5 that money accruing from lapsed salaries or from unused appropriations for salaries shall be covered into the Treasury of the United States;
 

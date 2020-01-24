@@ -10,7 +10,7 @@ The Secretary shall require a showing that the institutions, agencies, organizat
 
 #### (c) Research reports or publications
 
-The Secretary may from time to time disseminate in the form of reports or publications to public or private agencies or organizations, orindividuals such information as he deems desirable on the research carried out pursuant to this section.
+The Secretary may from time to time disseminate in the form of reports or publications to public or private agencies or organizations, or individuals such information as he deems desirable on the research carried out pursuant to this section.
 
 (Pub. L. 89–672, §1, Oct. 15, 1966, 80 Stat. 951; Pub. L. 96–470, title I, §108(a), Oct. 19, 1980, 94 Stat. 2239.)
 

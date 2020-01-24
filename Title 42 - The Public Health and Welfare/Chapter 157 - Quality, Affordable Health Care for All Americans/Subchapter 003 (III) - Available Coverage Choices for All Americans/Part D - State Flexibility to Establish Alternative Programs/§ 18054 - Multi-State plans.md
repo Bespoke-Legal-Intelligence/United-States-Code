@@ -56,7 +56,7 @@ A health insurance issuer shall be eligible to enter into a contract under subse
 
 &emsp;A multi-State qualified health plan meets the requirements of this subsection if, in the determination of the Director—
 
-&emsp;&emsp;(A) the plan offers a benefits package that is uniform in each State and consists of the essential benefits described in section 18022 of this title;
+&emsp;&emsp;(A) the plan offers a benefits package that is uniform in each State and consists of theessential benefits described in section 18022 of this title;
 
 &emsp;&emsp;(B) the plan meets all requirements of this title <sup>3</sup> with respect to a qualified health plan, including requirements relating to the offering of the bronze, silver, and gold levels of coverage and catastrophic coverage in each State Exchange;
 
@@ -116,7 +116,7 @@ The requirements under chapter 89 of title 5 applicable to health benefits plans
 
 #### (1) Maintenance of effort
 
-&emsp;Nothing in this section shall be construed to permit the Director to allocate fewer financial or personnel resources to the functions of the Office of Personnel Management related to the administration of the Federal EmployeesHealth Benefit Program under chapter 89 of title 5.
+&emsp;Nothing in this section shall be construed to permit the Director to allocate fewer financial or personnel resources to the functions of the Office of Personnel Management related to the administration of the Federal Employees Health Benefit Program under chapter 89 of title 5.
 
 #### (2) Separate risk pool
 
@@ -136,7 +136,7 @@ The requirements under chapter 89 of title 5 applicable to health benefits plans
 
 #### (6) FEHBP plans not required to participate
 
-&emsp;Nothing in this section shall require that a carrier offering coverage under the Federal Employees Health Benefit Program under chapter 89 of title 5 also offer a multi-State qualified health plan under this section.
+&emsp;Nothing in this section shall require that a carrier offering coverage under the FederalEmployees Health Benefit Program under chapter 89 of title 5 also offer a multi-State qualified health plan under this section.
 
 #### (h) Advisory board
 

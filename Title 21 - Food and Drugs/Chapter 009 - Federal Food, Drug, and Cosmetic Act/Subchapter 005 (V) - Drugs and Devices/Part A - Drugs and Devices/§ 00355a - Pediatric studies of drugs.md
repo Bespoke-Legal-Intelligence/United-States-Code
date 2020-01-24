@@ -90,7 +90,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 #### (B) Adverse event reports
 
-&emsp;&emsp;An applicant or holder that, on or after September 27, 2007, agrees to the request for such studies shall provide the Secretary, at the same time as the submission of the reports of such studies, with all postmarketadverse event reports regarding the drug that is the subject of such studies and are available prior to submission of such reports.
+&emsp;&emsp;An applicant or holder that, on or after September 27, 2007, agrees to the request for such studies shall provide the Secretary, at the same time as the submission of the reports of such studies, with all postmarket adverse event reports regarding the drug that is the subject of such studies and are available prior to submission of such reports.
 
 #### (3) Action on submissions
 
@@ -148,7 +148,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 &emsp;&emsp;(B) the specific drugs and drug uses, including labeled and off-labeled indications, studied under such sections;
 
-&emsp;&emsp;(C) the types of studies conducted under such sections, including trial design, the number of pediatric patients studied, and the number of centers and countries involved;
+&emsp;&emsp;(C) the types of studies conducted under such sections, including trial design, thenumber of pediatric patients studied, and the number of centers and countries involved;
 
 &emsp;&emsp;(D) the number of pediatric formulations developed and the number of pediatric formulations not developed and the reasons such formulations were not developed;
 
@@ -160,7 +160,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 #### (7) Informing internal review committee
 
-&emsp;The Secretary shall provide to the committee referred to in paragraph (1) any responseissued to an applicant or holder with respect to a proposed pediatric study request.
+&emsp;The Secretary shall provide to the committee referred to in paragraph (1) any response issued to an applicant or holder with respect to a proposed pediatric study request.
 
 #### (g) Limitations
 
@@ -226,7 +226,7 @@ If, on or after September 27, 2007, the Secretary determines that a pediatric st
 
 #### (2) Dissemination of information regarding labeling changes
 
-&emsp;Beginning on September 27, 2007, the Secretary shall include as a requirement of a written request that the sponsors of the studies that result in labeling changes that are reflected in the annual summary developed pursuant to subsection (f)(6)(F) distribute, at least annually (or more frequently if the Secretary determines that it would be beneficial to the public health), such information to physicians and other health care providers.
+&emsp;Beginning on September 27, 2007, the Secretary shall include as a requirement of awritten request that the sponsors of the studies that result in labeling changes that are reflected in the annual summary developed pursuant to subsection (f)(6)(F) distribute, at least annually (or more frequently if the Secretary determines that it would be beneficial to the public health), such information to physicians and other health care providers.
 
 #### (3) Effect of subsection
 
@@ -236,7 +236,7 @@ If, on or after September 27, 2007, the Secretary determines that a pediatric st
 
 #### (1) Reporting in first 18-month period
 
-&emsp;Beginning on September 27, 2007, during the 18-month period beginning on the date a labeling change is approved pursuant to subsection (i), the Secretary shall ensure that all adverseevent reports that have been received for such drug (regardless of when such report was received) are referred to the Office of Pediatric Therapeutics established under section 393a of this title. In considering the reports, the Director of such Office shall provide for the review of the reports by the Pediatric Advisory Committee, including obtaining any recommendations of such Committee regarding whether the Secretary should take action under this chapter in response to such reports.
+&emsp;Beginning on September 27, 2007, during the 18-month period beginning on the date a labeling change is approved pursuant to subsection (i), the Secretary shall ensure that all adverse event reports that have been received for such drug (regardless of when such report was received) are referred to the Office of Pediatric Therapeutics established under section 393a of this title. In considering the reports, the Director of such Office shall provide for the review of the reports by the Pediatric Advisory Committee, including obtaining any recommendations of such Committee regarding whether the Secretary should take action under this chapter in response to such reports.
 
 #### (2) Reporting in subsequent periods
 
@@ -282,7 +282,7 @@ If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a
 
 #### (1) General rule
 
-&emsp;A drug for which an application has been submitted or approved under subsection (b)(2) or (j) of section 355 of this title shall not be considered ineligible for approval under that section or misbranded under section 352 of this title on the basis that the labeling of the drug omits a pediatric indication or any other aspect of labeling pertaining to pediatric use when the omitted indication or other aspect is protected by patent, or by exclusivity under clause (iii) or (iv) of section 355(j)(5)(F) of this title, clause (iii) or (iv) of section 355(c)(3)(E) of this title, or section 360cc(a) of this title, or by an extension of such exclusivity under this section or section 355f of this title.
+&emsp;A drug for which an application has been submitted or approved under subsection (b)(2)or (j) of section 355 of this title shall not be considered ineligible for approval under that section or misbranded under section 352 of this title on the basis that the labeling of the drug omits a pediatric indication or any other aspect of labeling pertaining to pediatric use when the omitted indication or other aspect is protected by patent, or by exclusivity under clause (iii) or (iv) of section 355(j)(5)(F) of this title, clause (iii) or (iv) of section 355(c)(3)(E) of this title, or section 360cc(a) of this title, or by an extension of such exclusivity under this section or section 355f of this title.
 
 #### (2) Labeling
 
@@ -358,7 +358,7 @@ Subsec. (n)(1)(C). Pub. L. 113–5, §307(a)(2), added subpar. (C).
 
 <b>2012</b>—Subsec. (d)(1)(A). Pub. L. 112–144, §502(b), inserted at end "If a request under this subparagraph does not request studies in neonates, such request shall include a statement describing the rationale for not requesting studies in neonates."
 
-Subsec. (h). Pub. L. 112–144, §502(a)(1), amended subsec. (h) generally. Prior to amendment, text read as follows: "Notwithstanding any other provision of law, if any pediatric study is required by a provision of law (including a regulation) other than this section and such study meets the completeness, timeliness, and other requirements of this section, such study shall be deemed to satisfy the requirement for market exclusivity pursuant to this section."
+Subsec. (h). Pub. L. 112–144, §502(a)(1), amended subsec. (h) generally. Prior to amendment, text read as follows: "Notwithstanding any other provision of law, if any pediatric study is required by a provision of law (including a regulation) other than this section and such study meets the completeness, timeliness, and other requirements of this section, such study shall bedeemed to satisfy the requirement for market exclusivity pursuant to this section."
 
 Subsec. (k)(2). Pub. L. 112–144, §509(a)(1), substituted "subsection (f)(6)(F)" for "subsection (f)(3)(F)".
 
@@ -372,7 +372,7 @@ Subsec. (n). Pub. L. 112–144, §509(a)(3)(A), substituted "submitted" for "com
 
 Subsec. (n)(1). Pub. L. 112–144, §509(a)(3)(B)(i), substituted "have not been submitted by the date specified in the written request issued or if the applicant or holder does not agree to the request" for "have not been completed" in introductory provisions.
 
-Subsec. (n)(1)(A). Pub. L. 112–144, §509(a)(3)(B)(ii), inserted ", or for which a period of exclusivity eligiblefor extension under subsection (b)(1) or (c)(1) of this section or under subsection (m)(2) or (m)(3) of section 262 of title 42 has not ended" after "expired" and struck out at end "Prior to making such a determination, the Secretary may not take more than 30 days to certify whether the Foundation for the National Institutes of Health has sufficient funding at the time of such certification to initiate and fund all of the studies in the written request in their entirety within the timeframes specified within the written request. Only if the Secretary makes such certification in the affirmative, the Secretary shall refer all pediatric studies in the written request to the Foundation for the National Institutes of Health for the conduct of such studies, and such Foundation shall fund such studies. If no certification has been made at the end of the 30-day period, or if the Secretary certifies that funds are not sufficient to initiate and fund all the studies in their entirety, the Secretary shall consider whether assessments shall be required under section 355c(b) of this title for such drug."
+Subsec. (n)(1)(A). Pub. L. 112–144, §509(a)(3)(B)(ii), inserted ", or for which a period of exclusivity eligible for extension under subsection (b)(1) or (c)(1) of this section or under subsection (m)(2) or (m)(3) of section 262 of title 42 has not ended" after "expired" and struck out at end "Prior to making such a determination, the Secretary may not take more than 30 days to certify whether the Foundation for the National Institutes of Health has sufficient funding at the time of such certification to initiate and fund all of the studies in the written request in their entirety within the timeframes specified within the written request. Only if the Secretary makes such certification in the affirmative, the Secretary shall refer all pediatric studies in the written request to the Foundation for the National Institutes of Health for the conduct of such studies, and such Foundation shall fund such studies. If no certification has been made at the end of the 30-day period, or if the Secretary certifies that funds are not sufficient to initiate and fund all the studies in their entirety, the Secretary shall consider whether assessments shall be required under section 355c(b) of this title for such drug."
 
 Subsec. (n)(1)(B). Pub. L. 112–144, §509(a)(3)(B)(iii), substituted "no unexpired listed patents and for which no unexpired periods of exclusivity eligible for extension under subsection (b)(1) or (c)(1) of this section or under subsection (m)(2) or (m)(3) of section 262 of title 42 apply," for "no listed patents or has 1 or more listed patents that have expired,".
 
@@ -532,7 +532,7 @@ Pub. L. 112–144, title V, §503, July 9, 2012, 126 Stat. 1040, provided that: 
 
 #### Access to Data
 
-Pub. L. 112–144, title V, §504, July 9, 2012, 126 Stat. 1040, provided that: "Not later than 3 years after the date of enactment of this Act \[July 9, 2012\], the Secretary \[of Health and Human Services\] shall make available to the public, including through posting on the Internet Web site of the Food and Drug Administration, the medical, statistical, and clinical pharmacology reviews of, and corresponding written requests issued to an applicant, sponsor, or holder for, pediatric studies submitted between January 4, 2002, and September 27, 2007, under subsection (b) or (c) of section 505Aof the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a) for which 6 months of market exclusivity was granted and that resulted in a labeling change. The Secretary shall make public the information described in the preceding sentence in a manner consistent with how the Secretary releases information under section 505A(k) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a(k))."
+Pub. L. 112–144, title V, §504, July 9, 2012, 126 Stat. 1040, provided that: "Not later than 3 years after the date of enactment of this Act \[July 9, 2012\], the Secretary \[of Health and Human Services\] shall make available to the public, including through posting on the Internet Web site of the Food and Drug Administration, the medical, statistical, and clinical pharmacology reviews of, and corresponding written requests issued to an applicant, sponsor, or holder for, pediatric studies submitted between January 4, 2002, and September 27, 2007, under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a) for which 6 months of market exclusivity was granted and that resulted in a labeling change. The Secretary shall make public the information described in the preceding sentence in a manner consistent with how the Secretary releases information under section 505A(k) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a(k))."
 
 #### Report on Pediatric Exclusivity Program
 

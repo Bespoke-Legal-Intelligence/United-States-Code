@@ -90,7 +90,7 @@ For the purposes of this part—
 
 &emsp;(C) indicates the need, if any, for the acquisition and installation of energy conservation measures.
 
-(14) The term "preliminary energy audit" means a determination of the energy consumption characteristics of a building, including thesize, type, rate of energy consumption and major energy-using systems of such building.
+(14) The term "preliminary energy audit" means a determination of the energy consumption characteristics of a building, including the size, type, rate of energy consumption and major energy-using systems of such building.
 
 (15) The term "energy conservation project" means—
 
@@ -102,7 +102,7 @@ For the purposes of this part—
 
 (17) The term "technical assistance" means assistance, under rules promulgated by the Secretary, to States, schools, and hospitals—
 
-&emsp;(A) to conduct specialized studies identifying and specifying energy savings or energy cost savings that are likely to be realized as a result of (i) modification of maintenance and operating procedures in a building, or (ii) the acquisition and installation of one or more specified energy conservation measures in such building, or (iii) both, and
+&emsp;(A) to conduct specialized studies identifying and specifying energy savings or energy cost savings that are likely to be realized as aresult of (i) modification of maintenance and operating procedures in a building, or (ii) the acquisition and installation of one or more specified energy conservation measures in such building, or (iii) both, and
 
 &emsp;(B) the planning or administration of specific remodeling, renovation, repair, replacement, or insulation projects related to the installation of energy conservation measures in such building.
 

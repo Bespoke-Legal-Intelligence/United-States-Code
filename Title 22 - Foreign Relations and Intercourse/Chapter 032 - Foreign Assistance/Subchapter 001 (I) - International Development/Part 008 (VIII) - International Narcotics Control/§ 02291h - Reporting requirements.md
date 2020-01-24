@@ -88,9 +88,17 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;(B) The identification of countries that imported the largest amount of chemicals under subparagraph (A)(ii) shall be based on the following:
 
-&emsp;&emsp;(i) An economic analysis that estimates the legitimate demand for such chemicals in such countries as compared to the actual or estimated amount of such chemicals that is imported into such countries.
+&emsp;&emsp;(i) An economic analysis that estimates the legitimate demand for such chemicals insuch countries as compared to the actual or estimated amount of such chemicals that is imported into such countries.
 
 &emsp;&emsp;(ii) The best available data and other information regarding the production of methamphetamine in such countries and the diversion of such chemicals for use in the production of methamphetamine.
+
+&emsp;(9)(A) An assessment conducted by the Secretary of State, in consultation with the Secretary of the Treasury and the Director of National Intelligence, of the extent to which any diplomatic efforts described in section 7217(a) of the Fentanyl Sanctions Act have been successful.
+
+&emsp;(B) Each assessment required by subparagraph (A) shall include an identification of—
+
+&emsp;&emsp;(i) the countries the governments of which have agreed to undertake measures to apply economic or other financial sanctions to foreign traffickers of illicit opioids and a description of those measures; and
+
+&emsp;&emsp;(ii) the countries the governments of which have not agreed to measures described in clause (i), and, with respect to those countries, other measures the Secretary of State recommends that the United States take to apply economic and other financial sanctions to foreign traffickers of illicit opioids.
 
 #### (b) Annual reports on assistance
 
@@ -112,9 +120,9 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 > &emsp;&emsp;with respect to narcotic control efforts during the preceding fiscal year, the current fiscal year, and the next fiscal year; and
 
-&emsp;&emsp;(C) list all transfers, which were made by the United States Government during the preceding fiscal year, to a foreign country for narcotics control purposes of any property seized by or otherwise forfeited to the United States Government in connectionwith narcotics-related activity, including an estimate of the fair market value and physical condition of each item of property transferred.
+&emsp;&emsp;(C) list all transfers, which were made by the United States Government during the preceding fiscal year, to a foreign country for narcotics control purposes of any property seized by or otherwise forfeited to the United States Government in connection with narcotics-related activity, including an estimate of the fair market value and physical condition of each item of property transferred.
 
-(Pub. L. 87–195, pt. I, §489, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4917; amended Pub. L. 103–447, title I, §101(f)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(c), Dec. 21, 1995, 109 Stat. 724; Pub. L. 109–177, title VII, §722(a), Mar. 9, 2006, 120 Stat. 268.)
+(Pub. L. 87–195, pt. I, §489, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4917; amended Pub. L. 103–447, title I, §101(f)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(c), Dec. 21, 1995, 109 Stat. 724; Pub. L. 109–177, title VII, §722(a), Mar. 9, 2006, 120 Stat. 268; Pub. L. 116–92, div. F, title LXXII, §7217(b), Dec. 20, 2019, 133 Stat. 2269.)
 
 #### References in Text
 
@@ -122,11 +130,15 @@ Section 2015 of the International Narcotics Act of 1986, referred to in subsec. 
 
 Paragraph (3), referred to in subsec. (a)(4) to (7), means par. (3) of subsec. (a), which was amended by Pub. L. 103–447, §101(f)(1)(B)(ii), by striking out subpar. (B) relating to sources of narcotics and psychotropic drugs and other controlled substances and redesignating subpars. (C) and (D) as (B) and (C), respectively. See 1994 Amendment note below.
 
+Section 7217(a) of the Fentanyl Sanctions Act, referred to in subsec. (a)(9)(A), is section 7217(a) of Pub. L. 116–92, div. F, title LXXII, 133 Stat. 2269, which is not classified to the Code.
+
 #### Prior Provisions
 
 A prior section 2291h, Pub. L. 87–195, pt. I, §489, as added Pub. L. 100–690, title IV, §4507, Nov. 18, 1988, 102 Stat. 4286, related to permissible uses of aircraft and other equipment, prior to amendment by Pub. L. 102–583, §4(f)(2), Nov. 2, 1992, 106 Stat. 4917, which also transferred subsecs. (a) and (b) to section 2291c(b) and (c) of this title, respectively, and repealed the designation, heading, and subsecs. (c) and (d).
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(9). Pub. L. 116–92 added par. (9).
 
 <b>2006</b>—Subsec. (a)(8). Pub. L. 109–177 added par. (8).
 
@@ -146,7 +158,7 @@ Pub. L. 103–447, §101(f)(1)(C), struck out heading and text of subsec. (c). T
 
 &emsp;"(1) the term 'precursor chemical' has the same meaning as the term 'listed chemical' has under paragraph (33) of section 802 of title 21; and
 
-&emsp;"(2) the term 'major money laundering country' means a country whose financial institutions engage in currency transactions involving significant amounts of proceeds from international narcotics trafficking."
+&emsp;"(2) the term 'major money laundering country' means a country whose financial institutions engage in currency transactions involving significantamounts of proceeds from international narcotics trafficking."
 
 Subsec. (d). Pub. L. 103–447, §101(f)(1)(D), redesignated subsec. (d) as (c).
 
@@ -162,7 +174,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Plan To Address Diversion of Precursor Chemicals
 
-Pub. L. 109–177, title VII, §722(d), Mar. 9, 2006, 120 Stat. 269, provided that: "In the case of each country identified pursuant to clause (i) or (ii) of section 489(a)(8)(A) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2291h(a)(8)(A)\] (as added by subsection (a)) with respect to which the President has not transmitted to Congress a certification under section 490(b) of such Act (22 U.S.C. 2291j(b)), the Secretary of State, in consultation with the Attorney General, shall, not later than 180 days after the date on which the President transmits the report required by section 489(a) of such Act (22 U.S.C. 2291h(a)), submit to Congress a comprehensive plan to address the diversion of the chemicals described in section 489(a)(8)(A)(i) of such Act to the illicit production of methamphetamine in such country or in another country, including the establishment, expansion, and enhancement of regulatory, law enforcement, and other investigative efforts to prevent such diversion."
+Pub. L. 109–177, title VII, §722(d), Mar. 9, 2006, 120 Stat. 269, required the Secretary of State, not later than 180 days after the date on which the President transmits the report required by subsec. (a) of this section, to submit to Congress a comprehensive plan to address the diversion of the chemicals described in subsec. (a)(8)(A)(i) of this section to the illicit production of methamphetamine for each identified country for which the President has not submitted a certification under section 2291j(b) of this title.
 
 #### Statutory References to Annual Reports, Certifications, and Definitions
 

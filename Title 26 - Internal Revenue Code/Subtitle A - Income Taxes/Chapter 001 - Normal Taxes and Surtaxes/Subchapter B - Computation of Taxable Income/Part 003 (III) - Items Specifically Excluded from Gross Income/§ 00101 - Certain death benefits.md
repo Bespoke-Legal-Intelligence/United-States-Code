@@ -8,13 +8,13 @@
 
 #### (2) Transfer for valuable consideration
 
-&emsp;In the case of a transfer for a valuable consideration, by assignment or otherwise, of a life insurance contract or any interest therein, the amount excluded from gross income by paragraph (1) shall not exceed an amount equal to the sum of the actual value of such consideration and the premiums and other amounts subsequently paid by the transferee. The preceding sentence shall not apply in the case of such a transfer—
+&emsp;In the case of a transfer for a valuable consideration, by assignment or otherwise, of alife insurance contract or any interest therein, the amount excluded from gross income by paragraph (1) shall not exceed an amount equal to the sum of the actual value of such consideration and the premiums and other amounts subsequently paid by the transferee. The preceding sentence shall not apply in the case of such a transfer—
 
 &emsp;&emsp;(A) if such contract or interest therein has a basis for determining gain or loss in the hands of a transferee determined in whole or in part by reference to such basis of such contract or interest therein in the hands of the transferor, or
 
 &emsp;&emsp;(B) if such transfer is to the insured, to a partner of the insured, to a partnership in which the insured is a partner, or to a corporation in which the insured is a shareholder or officer.
 
-> &emsp;The term "other amounts" in the first sentence of this paragraph includes interest paidor accrued by the transferee on indebtedness with respect to such contract or any interest therein if such interest paid or accrued is not allowable as a deduction by reason of section 264(a)(4).
+> &emsp;The term "other amounts" in the first sentence of this paragraph includes interest paid or accrued by the transferee on indebtedness with respect to such contract or any interest therein if such interest paid or accrued is not allowable as a deduction by reason of section 264(a)(4).
 
 #### (3) Exception to valuable consideration rules for commercial transfers
 
@@ -84,7 +84,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (B) Guideline single premium
 
-&emsp;&emsp;The term "guideline single premium" means the premium at issue with respect to future benefits under the contract (without regard to any qualified additional benefit), and with respect to any charges for qualified additional benefits, at the time of a determination under subparagraph (A) or (E) and which is based on—
+&emsp;&emsp;The term "guideline single premium" means the premium at issue with respect to future benefits under the contract (withoutregard to any qualified additional benefit), and with respect to any charges for qualified additional benefits, at the time of a determination under subparagraph (A) or (E) and which is based on—
 
 &emsp;&emsp;&emsp;(i) the mortality and other charges guaranteed under the contract, and
 
@@ -448,7 +448,7 @@ Subsec. (c). Pub. L. 104–188, §1402(b)(1), substituted "subsection (a)" for "
 
 Subsec. (g). Pub. L. 104–191 added subsec. (g).
 
-<b>1986</b>—Subsec. (d)(1). Pub. L. 99–514, §1001(a), amended second sentence generally, which prior to amendment read as follows: "There shall be excluded from the grossincome of such beneficiary in the taxable year received—
+<b>1986</b>—Subsec. (d)(1). Pub. L. 99–514, §1001(a), amended second sentence generally, which prior to amendment read as follows: "There shall be excluded from the gross income of such beneficiary in the taxable year received—
 
 &emsp;"(A) any amount determined by such proration, and
 
@@ -522,7 +522,7 @@ Waiver of limitations.—If refund or credit of any overpayment of tax resulting
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title X, §1084(d), Aug. 5, 1997, 111 Stat. 955, as amended by Pub. L. 105–206, title VI, §6010(o)(3)(B), July 22, 1998, 112 Stat. 816, provided that: "The amendments made by this section \[amending this section and sections 264, 265, 805, 807, 812, and 832 of this title\] shall apply to contracts issued after June 8, 1997, in taxable years ending after such date. For purposes ofthe preceding sentence, any material increase in the death benefit or other material change in the contract shall be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of the Internal Revenue Code of 1986), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives. For purposes of this subsection, an increase in the death benefit under a policy or contract issued in connection with a lapse described in section 501(d)(2) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, set out as a note under section 264 of this title\] shall not be treated as a new contract."
+Pub. L. 105–34, title X, §1084(d), Aug. 5, 1997, 111 Stat. 955, as amended by Pub. L. 105–206, title VI, §6010(o)(3)(B), July 22, 1998, 112 Stat. 816, provided that: "The amendments made by this section \[amending this section and sections 264, 265, 805, 807, 812, and 832 of this title\] shall apply to contracts issued after June 8, 1997, in taxable years ending after such date. For purposes of the preceding sentence, any material increase in the death benefit or other material change in the contract shall be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of the Internal Revenue Code of 1986), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives. For purposes of this subsection, an increase in the death benefit under a policy or contract issued in connection with a lapse described in section 501(d)(2) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, set out as a note under section 264 of this title\] shall not be treated as a new contract."
 
 Pub. L. 105–34, title XV, §1528(b), Aug. 5, 1997, 111 Stat. 1075, as amended by Pub. L. 107–15, §2, June 5, 2001, 115 Stat. 37, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts received in taxable years beginning after December 31, 1996, with respect to individuals dying after such date, and to amounts received in taxable years beginning after December 31, 2001, with respect to individuals dying on or before December 31, 1996."
 
@@ -580,7 +580,7 @@ Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 3
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Flexible Premium Contracts Issued During 1984 Which Meet Requirements of Section 7702 Treated as Meeting Requirements of Section 101(f)
 
@@ -592,7 +592,7 @@ Pub. L. 97–248, title II, §266(c)(2), (3), Sept. 3, 1982, 96 Stat. 550, as am
 
 "(2)
 
-Special rule for contracts entered into before january 1, 1983.—Any contract entered into before January 1, 1983, which meets the requirements of section 101(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date which is 1 year after the date of the enactment of this Act \[Sept. 3, 1982\] shall be treated as meeting the requirements of such section forany period before the date on which such contract meets such requirements. Any death benefits paid under a flexible premium life insurance contract (within the meaning of section 101(f)(3)(A) of such Code) before the date which is 1 year after such date of enactment \[Sept. 3, 1982\] shall be excluded from gross income.
+Special rule for contracts entered into before january 1, 1983.—Any contract entered into before January 1, 1983, which meets the requirements of section 101(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date which is 1 year after the date of the enactment of this Act \[Sept. 3, 1982\] shall be treated as meeting the requirements of such section for any period before the date on which such contract meets such requirements. Any death benefits paid under a flexible premium life insurance contract (within the meaning of section 101(f)(3)(A) of such Code) before the date which is 1 year after such date of enactment \[Sept. 3, 1982\] shall be excluded from gross income.
 
 "(3)
 

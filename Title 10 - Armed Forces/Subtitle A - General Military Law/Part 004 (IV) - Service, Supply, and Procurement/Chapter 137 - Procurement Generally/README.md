@@ -16,7 +16,7 @@
 | [2304b.](%C2%A7%2002304b%20-%20Task%20order%20contracts%20advisory%20and%20assistance%20services.md) | Task order contracts: advisory and assistance services. |
 | [2304c.](%C2%A7%2002304c%20-%20Task%20and%20delivery%20order%20contracts%20orders.md) | Task and delivery order contracts: orders. |
 | [2304d.](%C2%A7%2002304d%20-%20Task%20and%20delivery%20order%20contracts%20definitions.md) | Task and delivery order contracts: definitions. |
-| [2304e.](%C2%A7%2002304e%20-%20Contracts%20prohibition%20on%20competition%20between%20Department%20of%20Defense%20and%20small%20businesses%20and%20certain%20other%20entities.md) | Contracts: prohibition on competition between Department of Defense and small businesses and certain other entities. |
+| [2304e.](%C2%A7%2002304e%20-%20Contracts%20prohibition%20on%20competition%20between%20Department%20of%20Defense%20and%20small%20businesses.md) | Contracts: prohibition on competition between Department of Defense and small businesses. |
 | [2305\.](%C2%A7%2002305%20-%20Contracts%20planning%2C%20solicitation%2C%20evaluation%2C%20and%20award%20procedures.md) | Contracts: planning, solicitation, evaluation, and award procedures. |
 | [2305a.](%C2%A7%2002305a%20-%20Design-build%20selection%20procedures.md) | Design-build selection procedures. |
 | [2306\.](%C2%A7%2002306%20-%20Kinds%20of%20contracts.md) | Kinds of contracts. |
@@ -43,7 +43,7 @@
 | [2322\.](%C2%A7%2002322%20-%20Management%20of%20intellectual%20property%20matters%20within%20the%20Department%20of%20Defense.md) | Management of intellectual property matters within the Department of Defense. |
 | [2322a.](%C2%A7%2002322a%20-%20Requirement%20for%20consideration%20of%20certain%20matters%20during%20acquisition%20of%20noncommercial%20computer%20software.md) | Requirement for consideration of certain matters during acquisition of noncommercial computer software. |
 | \[2323. | Repealed.\] |
-| [2323a.](%C2%A7%2002323a%20-%20Credit%20for%20Indian%20contracting%20in%20meeting%20certain%20subcontracting%20goals%20for%20small%20disadvantaged%20businesses%20and%20certain%20institutions%20of%E2%80%A6.md) | Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of higher education. |
+| [2323a.](%C2%A7%2002323a%20-%20Credit%20for%20Indian%20contracting%20in%20meeting%20certain%20subcontracting%20goals%20for%20small%20disadvantaged%20businesses.md) | Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses. |
 | [2324\.](%C2%A7%2002324%20-%20Allowable%20costs%20under%20defense%20contracts.md) | Allowable costs under defense contracts. |
 | [2325\.](%C2%A7%2002325%20-%20Restructuring%20costs.md) | Restructuring costs. |
 | [2326\.](%C2%A7%2002326%20-%20Undefinitized%20contractual%20actions%20restrictions.md) | Undefinitized contractual actions: restrictions. |
@@ -61,12 +61,15 @@
 | [2337\.](%C2%A7%2002337%20-%20Life-cycle%20management%20and%20product%20support.md) | Life-cycle management and product support. |
 | [2337a.](%C2%A7%2002337a%20-%20Assessment%2C%20management%2C%20and%20control%20of%20operating%20and%20support%20costs%20for%20major%20weapon%20systems.md) | Assessment, management, and control of operating and support costs for major weapon systems. |
 | [2338\.](%C2%A7%2002338%20-%20Micro-purchase%20threshold.md) | Micro-purchase threshold. |
-| \[2339. | Repealed.\] |
+| [2339\.](%C2%A7%2002339%20-%20Prohibition%20on%20criminal%20history%20inquiries%20by%20contractors%20prior%20to%20conditional%20offer.md) | Prohibition on criminal history inquiries by contractors prior to conditional offer. |
 | [2339a.](%C2%A7%2002339a%20-%20Requirements%20for%20information%20relating%20to%20supply%20chain%20risk.md) | Requirements for information relating to supply chain risk. |
+| [2339b.](%C2%A7%2002339b%20-%20Notification%20of%20Navy%20procurement%20production%20disruptions.md) | Notification of Navy procurement production disruptions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title VIII, §820(b), title XI, §1123(b)(3), title XVII, §1731(a)(39)(C), Dec. 20, 2019, 133 Stat. 1490, 1614, 1814, struck out "and certain other entities" after "businesses" in item 2304e and "and certain institutions of higher education" after "businesses" in item 2323a and added items 2339 and 2339b.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §§812(a)(2)(B), (3)(B), 821(c)(2), 881(a)(2), Aug. 13, 2018, 132 Stat. 1846, 1847, 1853, 1913, struck out items 2323 "Contract goal for small disadvantaged businesses and certain institutions of higher education", 2332 "Share-in-savings contracts", and 2339 "Micro-purchase threshold for basic research programs and activities of the Department of Defense science and technology reinvention laboratories" and added item 2339a.
 
@@ -163,7 +166,7 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02304b - Task order contracts advisory and assistance services](%C2%A7%2002304b%20-%20Task%20order%20contracts%20advisory%20and%20assistance%20services.md)
 - [&sect; 02304c - Task and delivery order contracts orders](%C2%A7%2002304c%20-%20Task%20and%20delivery%20order%20contracts%20orders.md)
 - [&sect; 02304d - Task and delivery order contracts definitions](%C2%A7%2002304d%20-%20Task%20and%20delivery%20order%20contracts%20definitions.md)
-- [&sect; 02304e - Contracts prohibition on competition between Department of Defense and small businesses and certain other entities](%C2%A7%2002304e%20-%20Contracts%20prohibition%20on%20competition%20between%20Department%20of%20Defense%20and%20small%20businesses%20and%20certain%20other%20entities.md)
+- [&sect; 02304e - Contracts prohibition on competition between Department of Defense and small businesses](%C2%A7%2002304e%20-%20Contracts%20prohibition%20on%20competition%20between%20Department%20of%20Defense%20and%20small%20businesses.md)
 - [&sect; 02305 - Contracts planning, solicitation, evaluation, and award procedures](%C2%A7%2002305%20-%20Contracts%20planning%2C%20solicitation%2C%20evaluation%2C%20and%20award%20procedures.md)
 - [&sect; 02305a - Design-build selection procedures](%C2%A7%2002305a%20-%20Design-build%20selection%20procedures.md)
 - [&sect; 02306 - Kinds of contracts](%C2%A7%2002306%20-%20Kinds%20of%20contracts.md)
@@ -190,7 +193,7 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02322 - Management of intellectual property matters within the Department of Defense](%C2%A7%2002322%20-%20Management%20of%20intellectual%20property%20matters%20within%20the%20Department%20of%20Defense.md)
 - [&sect; 02322a - Requirement for consideration of certain matters during acquisition of noncommercial computer software](%C2%A7%2002322a%20-%20Requirement%20for%20consideration%20of%20certain%20matters%20during%20acquisition%20of%20noncommercial%20computer%20software.md)
 - [&sect; 02323 - Repealed. Pub. L. 115&#8211;232, div. A, title VIII, &sect;812(a)(2)(A), Aug. 13, 2018, 132 Stat. 1846](%C2%A7%2002323%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93232%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7812%28a%29%282%29%28A%29%2C%20Aug.%2013%2C%202018%2C%20132%20Stat.%201846.md)
-- [&sect; 02323a - Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of&#8230;](%C2%A7%2002323a%20-%20Credit%20for%20Indian%20contracting%20in%20meeting%20certain%20subcontracting%20goals%20for%20small%20disadvantaged%20businesses%20and%20certain%20institutions%20of%E2%80%A6.md)
+- [&sect; 02323a - Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses](%C2%A7%2002323a%20-%20Credit%20for%20Indian%20contracting%20in%20meeting%20certain%20subcontracting%20goals%20for%20small%20disadvantaged%20businesses.md)
 - [&sect; 02324 - Allowable costs under defense contracts](%C2%A7%2002324%20-%20Allowable%20costs%20under%20defense%20contracts.md)
 - [&sect; 02325 - Restructuring costs](%C2%A7%2002325%20-%20Restructuring%20costs.md)
 - [&sect; 02326 - Undefinitized contractual actions restrictions](%C2%A7%2002326%20-%20Undefinitized%20contractual%20actions%20restrictions.md)
@@ -208,5 +211,6 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02337 - Life-cycle management and product support](%C2%A7%2002337%20-%20Life-cycle%20management%20and%20product%20support.md)
 - [&sect; 02337a - Assessment, management, and control of operating and support costs for major weapon systems](%C2%A7%2002337a%20-%20Assessment%2C%20management%2C%20and%20control%20of%20operating%20and%20support%20costs%20for%20major%20weapon%20systems.md)
 - [&sect; 02338 - Micro-purchase threshold](%C2%A7%2002338%20-%20Micro-purchase%20threshold.md)
-- [&sect; 02339 - Repealed. Pub. L. 115&#8211;232, div. A, title VIII, &sect;821(c)(1), Aug. 13, 2018, 132 Stat. 1853](%C2%A7%2002339%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93232%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7821%28c%29%281%29%2C%20Aug.%2013%2C%202018%2C%20132%20Stat.%201853.md)
+- [&sect; 02339 - Prohibition on criminal history inquiries by contractors prior to conditional offer](%C2%A7%2002339%20-%20Prohibition%20on%20criminal%20history%20inquiries%20by%20contractors%20prior%20to%20conditional%20offer.md)
 - [&sect; 02339a - Requirements for information relating to supply chain risk](%C2%A7%2002339a%20-%20Requirements%20for%20information%20relating%20to%20supply%20chain%20risk.md)
+- [&sect; 02339b - Notification of Navy procurement production disruptions](%C2%A7%2002339b%20-%20Notification%20of%20Navy%20procurement%20production%20disruptions.md)

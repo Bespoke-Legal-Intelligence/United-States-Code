@@ -32,7 +32,7 @@ Conservation system.—The term "conservation system" means a combination of 1 o
 
 &emsp;(5) The term "conservation district" means any district or unit of State or local government formed under State or territorial law for the express purpose of developing and carrying out a local soil and water conservation program. Such district or unit of government may be referred to as a "conservation district", "soil conservation district", "soil and water conservation district", "resource conservation district", "natural resource district", "land conservation committee", or a similar name.
 
-&emsp;(6) The term "cost sharing payment" means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland under the provisions of section 3834(b) of this title.
+&emsp;(6) The term "cost sharing payment" means a payment made by the Secretary to an owneror operator of a farm or ranch containing highly erodible cropland under the provisions of section 3834(b) of this title.
 
 &emsp;(7)(A) The term "converted wetland" means wetland that has been drained, dredged, filled, leveled, or otherwise manipulated (including any activity that results in impairing or reducing the flow, circulation, or reach of water) for the purpose or to have the effect of making the production of an agricultural commodity possible if—
 
@@ -162,7 +162,7 @@ Technical assistance.—The term "technical assistance" means technical expertis
 
 #### References in Text
 
-Subchapters I through VIII, referred to in subsec. (a), was in the original a reference to subtitles A throughI, meaning subtitles A through I of title XII of Pub. L. 99–198. Subtitles A through E and G through I are classified generally to subchapters I through V and VI through VIII of this chapter. Subtitle F of title XII was repealed by Pub. L. 104–127. Section 3851 of this title, contained in subchapter V–A, is based on section 1252 of Pub. L. 99–198, which was directed to be added to the previously repealed subtitle F by Pub. L. 110–246. See Codification note set out under section 3851 of this title.
+Subchapters I through VIII, referred to in subsec. (a), was in the original a reference to subtitles A through I, meaning subtitles A through I of title XII of Pub. L. 99–198. Subtitles A through E and G through I are classified generally to subchapters I through V and VI through VIII of this chapter. Subtitle F of title XII was repealed by Pub. L. 104–127. Section 3851 of this title, contained in subchapter V–A, is based on section 1252 of Pub. L. 99–198, which was directed to be added to the previously repealed subtitle F by Pub. L. 110–246. See Codification note set out under section 3851 of this title.
 
 This chapter, referred to in subsec. (a)(9), was in the original "this title", meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
@@ -246,7 +246,7 @@ Applicable Authority.—The promulgation of regulations under subsection (a) and
 
 "(c)
 
-Congressional Review of Agency Rulemaking.—In carrying out this section, the Secretaryshall use the authority provided under section 808(2) of title 5, United States Code."
+Congressional Review of Agency Rulemaking.—In carrying out this section, the Secretary shall use the authority provided under section 808(2) of title 5, United States Code."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
@@ -354,25 +354,7 @@ Pub. L. 110–234, title II, §2903(a), May 22, 2008, 122 Stat. 1091, and Pub. L
 
 #### Reform and Assessment of Conservation Programs
 
-Pub. L. 107–171, title II, §2005, May 13, 2002, 116 Stat. 237, provided that:
-
-"(a)
-
-In General.—The Secretary of Agriculture shall develop a plan to coordinate land retirement and agricultural working land conservation programs that are administered by the Secretary to achieve the goals of—
-
-&emsp;"(1) eliminating redundancy;
-
-&emsp;"(2) streamlining program delivery; and
-
-&emsp;"(3) improving services provided to agricultural producers (including the reevaluation of the provision of technical assistance).
-
-"(b)
-
-Report.—Not later than December 31, 2005, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report that describes—
-
-&emsp;"(1) the plan developed under subsection (a); and
-
-&emsp;"(2) the means by which the Secretary intends to achieve the goals described in subsection (a)."
+Pub. L. 107–171, title II, §2005, May 13, 2002, 116 Stat. 237, required the Secretary of Agriculture to develop a plan to coordinate land retirement and agricultural working land conservation programs that are administered by the Secretary to achieve the goals of eliminating redundancy, streamlining program delivery, and improving services provided to agricultural producers and to submit to Congress a report on this plan by Dec. 31, 2005.
 
 #### Conservation Corridor Demonstration Program
 
@@ -382,7 +364,7 @@ Pub. L. 107–171, title II, subtitle G, May 13, 2002, 116 Stat. 275, which rela
 
 #### Cranberry Acreage Reserve Program
 
-Pub. L. 107–171, title X, §10608, May 13, 2002, 116 Stat. 515, which authorized the Secretary of Agriculture to establish a program to purchase permanent easements in wetlands or buffer strips that were used or had a history of being used for the cultivation of cranberries and that were located in environmentally sensitive areas, was repealed by Pub. L. 115–334, title II, §2812, Dec. 20, 2018, 132 Stat. 4602.
+Pub. L. 107–171, title X, §10608, May 13, 2002, 116 Stat. 515, which authorized the Secretary of Agriculture toestablish a program to purchase permanent easements in wetlands or buffer strips that were used or had a history of being used for the cultivation of cranberries and that were located in environmentally sensitive areas, was repealed by Pub. L. 115–334, title II, §2812, Dec. 20, 2018, 132 Stat. 4602.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 The purposes of this chapter are to—
 
-&emsp;(1) establish a national integrated System of ocean, coastal, and Great Lakes observing systems, comprised of Federal and non-Federal components coordinated at the national level by the National Ocean Research Leadership Council and at the regional level by a network of regional information coordination entities, and that includes in situ, remote, and other coastal and ocean observation, technologies, and data management and communication systems, and is designed to address regional and national needs for ocean information, to gather specific data on key coastal, ocean, and Great Lakes variables, and to ensure timely and sustained dissemination and availability of these data to—
+&emsp;(1) establish a national integrated System of ocean, coastal, and Great Lakes observing systems, comprised of Federal and non-Federal components coordinated at the national level by the National Ocean Research LeadershipCouncil and at the regional level by a network of regional information coordination entities, and that includes in situ, remote, and other coastal and ocean observation, technologies, and data management and communication systems, and is designed to address regional and national needs for ocean information, to gather specific data on key coastal, ocean, and Great Lakes variables, and to ensure timely and sustained dissemination and availability of these data to—
 
 &emsp;&emsp;(A) support national defense, marine commerce, navigation safety, weather, climate, and marine forecasting, energy siting and production, economic development, ecosystem-based marine, coastal, and Great Lakes resource management, public safety, and public outreach training and education;
 

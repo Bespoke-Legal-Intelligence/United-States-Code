@@ -34,7 +34,7 @@
 
 #### (ii) Class A stock
 
-&emsp;&emsp;&emsp;Class A stock may be held only by entities that are not Farm Credit System institutions and that are entitled to vote for directors specified in section 2279aa–2(a)(2)(A) of this title, including national banking associations (which shall be allowed to purchase and hold such stock).
+&emsp;&emsp;&emsp;Class A stock may be held only by entities that are not Farm Credit System institutions and that are entitled to vote for directors specified in section 2279aa–2(a)(2)(A) of this title, including national banking associations (which shallbe allowed to purchase and hold such stock).
 
 #### (iii) Class B stock
 

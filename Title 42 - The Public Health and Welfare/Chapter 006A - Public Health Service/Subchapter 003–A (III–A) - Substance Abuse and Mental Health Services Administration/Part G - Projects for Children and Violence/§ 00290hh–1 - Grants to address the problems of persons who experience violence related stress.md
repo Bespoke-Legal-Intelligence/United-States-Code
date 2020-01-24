@@ -14,7 +14,7 @@ In awarding grants, contracts or cooperative agreements under subsection (a)(2) 
 
 #### (c) Child outcome data
 
-The NCTSI coordinating center described in subsection (a)(1) shall collect, analyze, report,and make publicly available, as appropriate, NCTSI-wide child treatment process and outcome data regarding the early identification and delivery of evidence-based treatment and services for children and families served by the NCTSI grantees.
+The NCTSI coordinating center described in subsection (a)(1) shall collect, analyze, report, and make publicly available, as appropriate, NCTSI-wide child treatment process and outcome data regarding the early identification and delivery of evidence-based treatment and services for children and families served by the NCTSI grantees.
 
 #### (d) Training
 
@@ -30,7 +30,7 @@ The NCTSI coordinating center shall, as appropriate, collaborate with—
 
 #### (f) Review
 
-The Secretary shall, consistent with the peer-review process, ensure that NCTSI applications are reviewed by appropriate experts in the field as part of a consensus-review process. The Secretary shall include review criteria related to expertise and experience in child trauma and evidence-based practices.
+The Secretary shall, consistent with the peer-review process, ensure that NCTSI applications are reviewed by appropriate experts in the fieldas part of a consensus-review process. The Secretary shall include review criteria related to expertise and experience in child trauma and evidence-based practices.
 
 #### (g) Geographical distribution
 

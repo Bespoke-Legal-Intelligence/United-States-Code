@@ -1,6 +1,6 @@
 ### §1158. Counterfeiting Indian Arts and Crafts Board trade mark
 
-Whoever counterfeits or colorably imitates any Government trade mark used or devised by the Indian Arts and Crafts Board in the Department of the Interior as provided in section 305a of Title 25, or, except as authorized by the Board, affixes any such Government trade mark, or knowingly, willfully, and corruptly affixes any reproduction, counterfeit, copy, or colorable imitation thereof upon any products, or to any labels, signs, prints, packages, wrappers, or receptacles intended to be used upon or in connection with the sale of such products; or
+Whoever counterfeits or colorably imitates any Government trade mark used or devised bythe Indian Arts and Crafts Board in the Department of the Interior as provided in section 305a of Title 25, or, except as authorized by the Board, affixes any such Government trade mark, or knowingly, willfully, and corruptly affixes any reproduction, counterfeit, copy, or colorable imitation thereof upon any products, or to any labels, signs, prints, packages, wrappers, or receptacles intended to be used upon or in connection with the sale of such products; or
 
 Whoever knowingly makes any false statement for the purpose of obtaining the use of any such Government trade mark—
 

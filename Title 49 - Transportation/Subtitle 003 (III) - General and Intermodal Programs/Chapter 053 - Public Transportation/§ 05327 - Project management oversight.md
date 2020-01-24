@@ -140,7 +140,7 @@ Subsec. (d)(2). Pub. L. 112–141, §20020(5)(B), substituted "project developme
 
 Subsec. (e). Pub. L. 112–141, §20020(4), redesignated subsec. (e) as (d).
 
-Subsec. (f). Pub. L. 112–141, §20020(2), struck out subsec. (f). Text read as follows: "A recipient of financial assistance for a project under this chapter with an estimated total cost of $1,000,000,000 or more shall submitto the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project."
+Subsec. (f). Pub. L. 112–141, §20020(2), struck out subsec. (f). Text read as follows: "A recipient of financial assistance for a project under this chapter with an estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project."
 
 <b>2005</b>—Subsec. (a)(13). Pub. L. 109–59, §3026(a), added par. (13).
 

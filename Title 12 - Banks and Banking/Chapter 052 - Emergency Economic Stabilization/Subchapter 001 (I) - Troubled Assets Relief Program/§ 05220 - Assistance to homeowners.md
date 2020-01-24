@@ -22,7 +22,7 @@ As used in this section—
 
 #### (1) In general
 
-&emsp;To the extent that the Federal property manager holds, owns, or controls mortgages, mortgage backed <sup>2</sup> securities, and other assets secured by residential real estate, including multifamily housing, the Federal propertymanager shall implement a plan that seeks to maximize assistance for homeowners and use its authority to encourage the servicers of the underlying mortgages, and considering net present value to the taxpayer, to take advantage of the HOPE for Homeowners Program under section 1715z–23 of this title or other available programs to minimize foreclosures.
+&emsp;To the extent that the Federal property manager holds, owns, or controls mortgages, mortgage backed <sup>2</sup> securities, and other assets secured by residential real estate, including multifamily housing, the Federal property manager shall implement a plan that seeks to maximize assistance for homeowners and use its authority to encourage the servicers of the underlying mortgages, and considering net present value to the taxpayer, to take advantage of the HOPE for Homeowners Program under section 1715z–23 of this title or other available programs to minimize foreclosures.
 
 #### (2) Modifications
 

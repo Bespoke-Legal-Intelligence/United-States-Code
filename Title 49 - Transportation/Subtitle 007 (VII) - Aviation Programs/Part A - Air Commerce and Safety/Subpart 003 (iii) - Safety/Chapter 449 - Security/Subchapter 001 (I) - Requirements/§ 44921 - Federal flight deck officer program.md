@@ -32,7 +32,7 @@ Issues to be addressed.—The procedural requirements established under paragrap
 
 &emsp;&emsp;(F) The division of responsibility between pilots in the event of an act of criminal violence or air piracy if only 1 pilot is a Federal flight deck officer and if both pilots are Federal flight deck officers.
 
-&emsp;&emsp;(G) Procedures for ensuring that the firearm of a Federal flight deck officer does notleave the cockpit if there is a disturbance in the passenger cabin of the aircraft or if the pilot leaves the cockpit for personal reasons.
+&emsp;&emsp;(G) Procedures for ensuring that the firearm of a Federal flight deck officer does not leave the cockpit if there is a disturbance in the passenger cabin of the aircraft or if the pilot leaves the cockpit for personal reasons.
 
 &emsp;&emsp;(H) Interaction between a Federal flight deck officer and a Federal air marshal on board the aircraft.
 
@@ -308,7 +308,7 @@ Subsec. (l). Pub. L. 115–254, §1963(h)(6), added subsec. (l).
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–176, §609(b)(1), struck out "passenger" before "air transportation" in two places.
 
-Subsec. (k)(2). Pub. L. 108–176, §609(b)(2), substituted "or any other flight deck crew member" for "or, ifmore than 1 pilot is required for the operation of the aircraft or by the regulations under which the flight is being conducted, the individual designated as second in command".
+Subsec. (k)(2). Pub. L. 108–176, §609(b)(2), substituted "or any other flight deck crew member" for "or, if more than 1 pilot is required for the operation of the aircraft or by the regulations under which the flight is being conducted, the individual designated as second in command".
 
 Subsec. (k)(3). Pub. L. 108–176, §609(b)(3), added par. (3).
 
@@ -326,7 +326,7 @@ Pub. L. 115–254, div. K, title I, §1963(i), Oct. 5, 2018, 132 Stat. 3604, pro
 
 &emsp;"(1) the Secretary of Transportation shall revise section 15.5(b)(11) of title 49, Code of Federal Regulations, to classify information about pilots deputized as Federal flight deck officers under section 44921 of title 49, United States Code, as sensitive security information in a manner consistent with the classification of information about Federal air marshals; and
 
-&emsp;"(2) the Administrator \[of the Transportation Security Administration\] shall revise section 1520.5(b)(11) of title 49, Code of Federal Regulations, to classify information about pilots deputized as Federal flight deck officers under section 44921 of title 49, United States Code, as sensitive security information in a manner consistent with the classification of information about Federal air marshals."
+&emsp;"(2) the Administrator \[of the Transportation Security Administration\] shall revise section 1520.5(b)(11) of title 49, Code of Federal Regulations, to classify information about pilots deputized as Federal flightdeck officers under section 44921 of title 49, United States Code, as sensitive security information in a manner consistent with the classification of information about Federal air marshals."
 
 Pub. L. 115–254, div. K, title I, §1963(j), Oct. 5, 2018, 132 Stat. 3604, provided that: "Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\] shall prescribe such regulations as may be necessary to carry out this section \[amending this section and enacting provisions set out as a note under this section\] and the amendments made by this section."
 

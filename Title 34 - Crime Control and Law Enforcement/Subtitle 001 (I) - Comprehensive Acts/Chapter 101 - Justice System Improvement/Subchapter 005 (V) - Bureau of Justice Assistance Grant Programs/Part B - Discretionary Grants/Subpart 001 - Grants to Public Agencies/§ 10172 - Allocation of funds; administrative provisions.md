@@ -32,7 +32,7 @@ A prior section 516 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 207; P
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–177 substituted "70" for "80" and "3762a(a)(2) of this title, 10" for "3762a(a)(2) of this title, and 10" and inserted ", and 10 percent for section 3762a(a)(4) of this title" before period at end.
+<b>2008</b>—Subsec. (a). Pub. L. 110–177 substituted "70" for "80" and "3762a(a)(2) of this title, 10" for "3762a(a)(2) ofthis title, and 10" and inserted ", and 10 percent for section 3762a(a)(4) of this title" before period at end.
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322, §330001(b)(2)(A), substituted "10 percent shall be used to make grants under section" for "10 percent for section" in two places.
 

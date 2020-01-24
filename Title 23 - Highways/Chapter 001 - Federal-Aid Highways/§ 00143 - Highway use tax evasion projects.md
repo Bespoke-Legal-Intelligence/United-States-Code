@@ -26,7 +26,7 @@ Allocation of funds.—Funds made available to carry out this section may be all
 
 &emsp;(3)
 
-Conditions on funds allocated to internal revenue service.—Except as otherwise provided in this section, the Secretary shall not impose any condition on the use of funds allocated to the Internal Revenue Service under this subsection.
+Conditions on funds allocated to internal revenue service.—Except as otherwise provided in this section, the Secretary shall not impose any condition on the use offunds allocated to the Internal Revenue Service under this subsection.
 
 &emsp;(4)
 
@@ -118,7 +118,7 @@ Section 6103 of the Internal Revenue Code of 1986, referred to in subsec. (c)(2)
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 102–240, title I, §1040, Dec. 18, 1991, 105Stat. 1992, as amended, which was set out as a note under section 101 of this title, prior to repeal by Pub. L. 105–178, §1114(b)(2).
+Provisions similar to those in this section were contained in Pub. L. 102–240, title I, §1040, Dec. 18, 1991, 105 Stat. 1992, as amended, which was set out as a note under section 101 of this title, prior to repeal by Pub. L. 105–178, §1114(b)(2).
 
 #### Amendments
 
@@ -178,7 +178,7 @@ Pub. L. 102–240, title VIII, §8002(g), (h), Dec. 18, 1991, 105 Stat. 2204, 22
 
 "(g)
 
-Use of Revenues for Enforcement of Highway Trust Fund Taxes.—The Secretary of Transportation shall not impose any condition on the use of funds transferred under section 143 of title 23, United States Code, to the Internal Revenue Service. The Secretary of the Treasury shall, at least 60 days before the beginning of each fiscal year (after fiscal year 1992) for which such funds are to be transferred, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate detailing the increased enforcement activities to be financed with such funds with respect to taxes referred to in section 9503(b)(1) of the Internal Revenue Code of 1986 \[26 U.S.C. 9503(b)(1)\].
+Use of Revenues for Enforcement of Highway Trust Fund Taxes.—The Secretary of Transportation shall not impose any condition on the use of funds transferred under section 143 of title 23, United States Code, to the Internal Revenue Service. The Secretary of the Treasury shall, at least 60 days before the beginning of each fiscal year (after fiscal year 1992) for which such funds are to be transferred, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate detailing the increased enforcement activities to befinanced with such funds with respect to taxes referred to in section 9503(b)(1) of the Internal Revenue Code of 1986 \[26 U.S.C. 9503(b)(1)\].
 
 "\[(h) Repealed. Pub. L. 105–178, title I, §1114(b)(3)(B), June 9, 1998, 112 Stat. 154.\]"
 

@@ -98,7 +98,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 #### (8) Operating Fund allocation
 
-&emsp;Amounts from the Operating Fund shall not be available with respect to a building after the date of its sale by the public housing agency.
+&emsp;Amounts from the Operating Fund shall not be available with respect to a building afterthe date of its sale by the public housing agency.
 
 #### (b) Protection of nonpurchasing families
 

@@ -148,7 +148,7 @@ Initial Programs and Materials.—Not later than 1 year after the date of the en
 
 "(b)
 
-Requirements.—The model programs and materials described in paragraphs (1) and (2) of subsection (a) shall address circumstances under which disclosure of substance use disorder patient records is needed to—
+Requirements.—The model programs and materials described in paragraphs (1) and (2) of subsection\(a) shall address circumstances under which disclosure of substance use disorder patient records is needed to—
 
 &emsp;"(1) facilitate communication between substance use disorder treatment providers and other health care providers to promote and provide the best possible integrated care;
 

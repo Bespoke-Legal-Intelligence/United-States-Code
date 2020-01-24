@@ -42,7 +42,7 @@ Aug. 2, 1946, ch. 756, §40(b), (c), 60 Stat. 858.
 
 Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 
-In subsection (b) the words "except the authority to prescribe regulations" are omitted, since 5 U.S.C. 421dcontains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
+In subsection (b) the words "except the authority to prescribe regulations" are omitted, since 5 U.S.C. 421d contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
 
 #### Amendments
 

@@ -14,7 +14,7 @@
 | [3508\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003508%20-%20Determination%20of%20necessity%20for%20information%3B%20hearing.md) | Determination of necessity for information; hearing. |
 | [3509\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003509%20-%20Designation%20of%20central%20collection%20agency.md) | Designation of central collection agency. |
 | [3510\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003510%20-%20Cooperation%20of%20agencies%20in%20making%20information%20available.md) | Cooperation of agencies in making information available. |
-| [3511\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003511%20-%20Establishment%20and%20operation%20of%20Government%20Information%20Locator%20Service.md) | Establishment and operation of Government Information Locator Service. |
+| [3511\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003511%20-%20Data%20inventory%20and%20Federal%20data%20catalogue.md) | Data inventory and Federal data catalogue. |
 | [3512\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003512%20-%20Public%20protection.md) | Public protection. |
 | [3513\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003513%20-%20Director%20review%20of%20agency%20activities%3B%20reporting%3B%20agency%20response.md) | Director review of agency activities; reporting; agency response. |
 | [3514\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003514%20-%20Responsiveness%20to%20Congress.md) | Responsiveness to Congress. |
@@ -23,8 +23,8 @@
 | [3517\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003517%20-%20Consultation%20with%20other%20agencies%20and%20the%20public.md) | Consultation with other agencies and the public. |
 | [3518\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003518%20-%20Effect%20on%20existing%20laws%20and%20regulations.md) | Effect on existing laws and regulations. |
 | [3519\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003519%20-%20Access%20to%20information.md) | Access to information. |
-| [3520\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003520%20-%20Establishment%20of%20task%20force%20on%20information%20collection%20and%20dissemination.md) | Establishment of task force on information collection and dissemination. |
-| [3520A.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003520A%20-%20Chief%20Data%20Officer%20Council.md) | Chief Data Officer Council. |
+| [3520\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003520%20-%20Chief%20Data%20Officers.md) | Chief Data Officers. |
+|  | Chief Data Officer Council. |
 | [3521\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003521%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -101,10 +101,6 @@
 | [3583\.](Subchapter%20003%20%28III%29%20-%20Confidential%20Information%20Protection%20and%20Statistical%20Efficiency/Part%20D%20-%20Access%20to%20Data%20for%20Evidence/%C2%A7%2003583%20-%20Application%20to%20access%20data%20assets%20for%20developing%20evidence.md) | Application to access data assets for developing evidence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 115–435, title II, §202(d)(2)(A), (e)(2), title IV, §403, Jan. 14, 2019, 132 Stat. 5541, 5542, 5557, provided that, effective 180 days after Jan. 14, 2019, this analysis is amended by amending item 3511 to read "Data inventory and Federal data catalogue" and by amending item 3520 to read "Chief Data Officers". See 2019 Amendment note below.</i>
 
 #### Codification
 

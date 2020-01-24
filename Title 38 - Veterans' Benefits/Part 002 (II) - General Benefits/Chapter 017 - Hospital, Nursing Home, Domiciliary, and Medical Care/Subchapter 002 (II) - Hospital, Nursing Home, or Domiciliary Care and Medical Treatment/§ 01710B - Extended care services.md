@@ -14,7 +14,7 @@
 
 &emsp;(6) Respite care under section 1720B of this title.
 
-(b) The Secretary shall ensure that the staffing and level of extended care services providedby the Secretary nationally in facilities of the Department during any fiscal year is not less than the staffing and level of such services provided nationally in facilities of the Department during fiscal year 1998.
+(b) The Secretary shall ensure that the staffing and level of extended care services provided by the Secretary nationally in facilities of the Department during any fiscal year is not less than the staffing and level of such services provided nationally in facilities of the Department during fiscal year 1998.
 
 (c)(1) Except as provided in paragraph (2), the Secretary may not furnish extended care services for a non-service-connected disability other than in the case of a veteran who has a compensable service-connected disability unless the veteran agrees to pay to the United States a copayment (determined in accordance with subsection (d)) for any period of such services in a year after the first 21 days of such services provided that veteran in that year.
 
@@ -42,7 +42,7 @@
 
 (2) All amounts received by the Department under this section shall be deposited in or credited to the fund.
 
-(Added Pub. L. 106–117, title I, §101(c)(1), Nov. 30, 1999, 113 Stat. 1548; amended Pub. L. 107–14, §8(a)(2), (16), June 5, 2001, 115 Stat. 34, 35; Pub. L. 107–103, title V, §509(b), Dec. 27, 2001, 115 Stat. 997; Pub. L. 108–422, title II, §204, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 114–315, title VI, §603(c), Dec. 16, 2016, 130 Stat. 1570; Pub. L. 115–232, div. A, title VIII, §809(n)(1)(C), Aug. 13, 2018, 132 Stat. 1843.)
+(Added Pub. L. 106–117, title I, §101(c)(1), Nov. 30, 1999, 113 Stat. 1548; amended Pub. L. 107–14, §8(a)(2), (16), June 5, 2001, 115 Stat. 34, 35; Pub. L.107–103, title V, §509(b), Dec. 27, 2001, 115 Stat. 997; Pub. L. 108–422, title II, §204, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 114–315, title VI, §603(c), Dec. 16, 2016, 130 Stat. 1570; Pub. L. 115–232, div. A, title VIII, §809(n)(1)(C), Aug. 13, 2018, 132 Stat. 1843.)
 
 #### References in Text
 
@@ -96,7 +96,7 @@ Pub. L. 109–461, title II, §214, Dec. 22, 2006, 120 Stat. 3423, as amended by
 
 "(a)
 
-In General.—Commencing not later than 120 days after the date of the enactment of this Act \[Dec.22, 2006\], the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of various mechanisms to expand and improve caregiver assistance services.
+In General.—Commencing not later than 120 days after the date of the enactment of this Act \[Dec. 22, 2006\], the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of various mechanisms to expand and improve caregiver assistance services.
 
 "(b)
 
@@ -154,7 +154,7 @@ Locations of Pilot Programs.—In selecting locations in which the pilot program
 
 "(c)
 
-Scope of Services Under Pilot Programs.—Each of the pilot programs under this section shall be designed to provide participating veterans with integrated, comprehensive services which include the following:
+Scope of Services Under Pilot Programs.—Each of the pilot programs under this section shall bedesigned to provide participating veterans with integrated, comprehensive services which include the following:
 
 &emsp;"(1) Adult-day health care services on an eight-hour per day, five-day per week basis.
 
@@ -218,7 +218,7 @@ Report.—(1) Not later than nine months after the completion of all of the pilo
 
 &emsp;"(A) A description of the implementation and operation of each such program.
 
-&emsp;"(B) An analysis comparing use of institutional care and use of other services among enrollees ineach of the pilot programs with the experience of comparable patients who are not enrolled in one of the pilot programs.
+&emsp;"(B) An analysis comparing use of institutional care and use of other services among enrollees in each of the pilot programs with the experience of comparable patients who are not enrolled in one of the pilot programs.
 
 &emsp;"(C) An assessment of the satisfaction of participating veterans with each of those programs.
 

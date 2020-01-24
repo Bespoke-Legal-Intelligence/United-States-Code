@@ -76,7 +76,7 @@ Confidentiality of information provided.—No information provided to or obtaine
 
 &emsp;&emsp;(vi)
 
-Notice to banking agencies concerning financial and operational condition concerns.—The Secretary or appropriate regulatory agency shall notify the Federal banking agency of any concerns of the Secretary or the appropriate regulatory agency regarding significant financial or operational risks resulting from the activities of any government securities broker or government securities dealer to any associated person thereof which is subject to examination by or reporting requirements of the Federal banking agency.
+Notice to banking agencies concerning financial and operational condition concerns.—The Secretary or appropriate regulatory agency shall notify the Federal banking agency of any concerns of the Secretary or the appropriate regulatory agency regarding significant financial or operational risks resulting from the activities ofany government securities broker or government securities dealer to any associated person thereof which is subject to examination by or reporting requirements of the Federal banking agency.
 
 &emsp;&emsp;(vii)
 
@@ -168,11 +168,11 @@ Furnishing records.—Every government securities broker and government securiti
 
 &emsp;(B)
 
-Limitation; construction.—The Commission shall not utilize its authority under this paragraph to develop regular reporting requirements, except that the Commission may require information to be furnished under this paragraph as frequently as necessary for particular inquiries or investigations for enforcement or surveillance purposes. This paragraph shall not be construed as requiring, or as authorizing the Commission to require, any government securities broker or government securities dealer to obtain or maintain any information for purposes of this paragraph which is not otherwise maintained by such broker or dealer in accordance with any other provision of law or usual and customary business practice. The Commission shall, where feasible, avoid requiring any information to be furnished under this paragraph that the Commission may obtain from the Federal Reserve Bank of New York.
+Limitation; construction.—The Commission shall not utilize its authority under this paragraph to develop regular reporting requirements, except that the Commission may require information to be furnished under this paragraph as frequently as necessary for particular inquiries or investigations for enforcement or surveillance purposes. This paragraph shall not be construed as requiring, or as authorizing the Commission to require, any government securities broker or government securities dealer to obtain or maintain any information for purposes of this paragraph which is not otherwise maintained by such broker or dealer in accordance with any other provision of law or usual and customary business practice. The Commission shall, wherefeasible, avoid requiring any information to be furnished under this paragraph that the Commission may obtain from the Federal Reserve Bank of New York.
 
 &emsp;(C)
 
-Procedures for requiring information.—At the time the Commission requests any information pursuant to subparagraph (A) with respect to any government securities broker or government securities dealer for which the Commission is not the appropriate regulatory agency, the Commission shall notify the appropriate regulatory agency forsuch government securities broker or government securities dealer and, upon request, furnish to the appropriate regulatory agency any information supplied to the Commission.
+Procedures for requiring information.—At the time the Commission requests any information pursuant to subparagraph (A) with respect to any government securities broker or government securities dealer for which the Commission is not the appropriate regulatory agency, the Commission shall notify the appropriate regulatory agency for such government securities broker or government securities dealer and, upon request, furnish to the appropriate regulatory agency any information supplied to the Commission.
 
 &emsp;(D)
 
@@ -216,7 +216,7 @@ Authority to limit disclosure of information.—Notwithstanding any other provis
 
 &emsp;(B) Rules under this subsection shall specify—
 
-&emsp;&emsp;(i) the minimum size of positions subject to reporting under this subsection, which shall be no less than the size that provides the potential for manipulation or control of the supply or price, or the cost of financing arrangements, of an issue or the portion thereof that is available for trading;
+&emsp;&emsp;(i) the minimum size of positions subject to reporting under this subsection, which shall be no less than the size that provides the potential for manipulation or control of the supply or price, or the cost of financingarrangements, of an issue or the portion thereof that is available for trading;
 
 &emsp;&emsp;(ii) the types of positions (which may include financing arrangements) to be reported;
 
@@ -226,7 +226,7 @@ Authority to limit disclosure of information.—Notwithstanding any other provis
 
 #### (5) Exemptions
 
-&emsp;Consistent with the public interest and the protection of investors, the Secretary by ruleor order may exempt in whole or in part, conditionally or unconditionally, any person or class of persons, or any transaction or class of transactions, from the requirements of this subsection.
+&emsp;Consistent with the public interest and the protection of investors, the Secretary by rule or order may exempt in whole or in part, conditionally or unconditionally, any person or class of persons, or any transaction or class of transactions, from the requirements of this subsection.
 
 #### (6) Limitation on disclosure of information
 
@@ -260,13 +260,13 @@ Section 1464(d)(2) and (d)(3) of title 12, referred to in subsec. (c)(2)(C), was
 
 <b>2010</b>—Subsec. (a)(2). Pub. L. 111–203, §985(b)(6)(C), inserted after first sentence in concluding provisions: "The order granting registration shall not be effective until such government securities broker or government securities dealer has become a member of a national securities exchange registered under section 78f of this title, or a securities association registered under section 78o–3 of this title, unless the Commission has exempted such government securities broker or government securities dealer, by rule or order, from such membership."
 
-Pub. L. 111–203, §985(b)(6)(A), (B), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, realigned margins, and, in subpar. (B), struck out "The order granting registration shall not be effective until such government securities broker or government securities dealer has become a member of a national securities exchange registered under section 78f of this title, or a securities association registered under section 78o–3 of this title, unless the Commission has exempted such government securities broker or government securities dealer, by rule or order, from such membership." after "grant or deny such registration."
+Pub. L. 111–203, §985(b)(6)(A), (B), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, realigned margins, and, in subpar. (B), struck out "The order granting registration shall not be effective until such government securities broker or government securities dealer has become a member of a national securities exchange registered under section 78f of this title, or asecurities association registered under section 78o–3 of this title, unless the Commission has exempted such government securities broker or government securities dealer, by rule or order, from such membership." after "grant or deny such registration."
 
 Subsec. (c)(1)(C). Pub. L. 111–203, §929F(b)(1), substituted "any person who is, or at the time of the alleged misconduct was, associated or seeking to become associated" for "any person associated, or seeking to become associated,".
 
 Subsec. (c)(2)(A), (B). Pub. L. 111–203, §929F(b)(2)(A), (B), inserted ", seeking to become associated, or, at the time of the alleged misconduct, associated or seeking to become associated" after "any person associated".
 
-Subsec. (g)(1). Pub. L. 111–203, §376(3), struck out "the Director of the Office of Thrift Supervision, the FederalSavings and Loan Insurance Corporation," after "the Federal Deposit Insurance Corporation,".
+Subsec. (g)(1). Pub. L. 111–203, §376(3), struck out "the Director of the Office of Thrift Supervision, the Federal Savings and Loan Insurance Corporation," after "the Federal Deposit Insurance Corporation,".
 
 <b>2004</b>—Subsec. (h). Pub. L. 108–458 added subsec. (h).
 

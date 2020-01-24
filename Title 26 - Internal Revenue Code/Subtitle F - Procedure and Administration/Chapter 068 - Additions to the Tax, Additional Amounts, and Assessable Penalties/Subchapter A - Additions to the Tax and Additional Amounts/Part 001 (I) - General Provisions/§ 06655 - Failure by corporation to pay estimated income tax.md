@@ -218,7 +218,7 @@ For purposes of this section—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If a taxpayer making the election under clause (i) is a noncontrolling shareholder of a corporation, clause\(i)(II) shall be applied with respect to items of such corporation by substituting "100 percent" for "115 percent".
+&emsp;&emsp;&emsp;&emsp;If a taxpayer making the election under clause (i) is a noncontrolling shareholder of a corporation, clause (i)(II) shall be applied with respect to items of such corporation by substituting "100 percent" for "115 percent".
 
 #### (II) Noncontrolling shareholder
 
@@ -306,7 +306,7 @@ No addition to tax shall be imposed under subsection (a) for any taxable year if
 
 &emsp;&emsp;&emsp;"(ii) the sum of—
 
-&emsp;&emsp;&emsp;&emsp;"(I) the amount determined under clause (i) by only taking into accountthe taxes referred to in clauses (i) and (iii) of subsection (g)(4)(A), and
+&emsp;&emsp;&emsp;&emsp;"(I) the amount determined under clause (i) by only taking into account the taxes referred to in clauses (i) and (iii) of subsection (g)(4)(A), and
 
 &emsp;&emsp;&emsp;&emsp;"(II) 100 percent of the tax imposed by section 1375(a) which was shown on the return of the corporation for the preceding taxable year."
 
@@ -666,7 +666,7 @@ Pub. L. 109–222, title IV, §401, May 17, 2006, 120 Stat. 353, as amended by P
 
 &emsp;&emsp;"(B) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2012 shall be 100 percent of such amount,
 
-&emsp;&emsp;"(C) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2013 shall be 100.75 percent of such amount, and
+&emsp;&emsp;"(C) the amount of any required installment of corporate estimated tax which is otherwise due inJuly, August, or September of 2013 shall be 100.75 percent of such amount, and
 
 &emsp;&emsp;"(D) the amount of the next required installment after an installment referred to in subparagraph (A), (B), or (C) shall be appropriately reduced to reflect the amount of the increase by reason of such subparagraph,
 
@@ -706,13 +706,13 @@ Adjustment for 2014.—Notwithstanding section 6655 of the Internal Revenue Code
 
 &emsp;&emsp;\["(4) the amount of the next required installment after an installment referred to in paragraph (2) or (3) shall be appropriately reduced to reflect the amount of the increase by reason of such paragraph."\]
 
-&emsp;\[Section 561(b) of Pub. L. 111–147, set out above, and any modification of such provision, not applicable with respect to any installment of corporate income tax, see section 7001 of Pub. L. 112–96, set out as a note above.\]
+&emsp;&emsp;\[Section 561 of Pub. L. 111–147, set out above, and any modification of such provision, not applicable with respect to any installment of corporate income tax, see section 7001 of Pub. L. 112–96, set out as a note above.\]
 
 &emsp;&emsp;\[Pub. L. 111–344, title III, §302, Dec. 29, 2010, 124 Stat. 3617, provided that: "The percentage under paragraph (2) of section 561 of the Hiring Incentives to Restore Employment Act \[Pub. L. 111–147, set out above\] in effect on the date of the enactment of this Act \[Dec. 29, 2010\] is increased by 4.5 percentage points."\]
 
 &emsp;&emsp;\[Pub. L. 111–240, title II, §2131, Sept. 27, 2010, 124 Stat. 2568, provided that: "The percentage under paragraph (2) of section 561 of the Hiring Incentives to Restore Employment Act \[Pub. L. 111–147, set out above\] in effect on the date of the enactment of this Act \[Sept. 27, 2010\] is increased by 36 percentage points."\]
 
-&emsp;&emsp;\[Pub. L. 111–237, §4(a), Aug. 16, 2010, 124 Stat. 2498, provided that: "The percentage under paragraph (2)of section 561 of the Hiring Incentives to Restore Employment Act \[Pub. L. 111–147, set out above\] in effect on the date of the enactment of this Act \[Aug. 16, 2010\] is increased by 0.25 percentage points."\]
+&emsp;&emsp;\[Pub. L. 111–237, §4(a), Aug. 16, 2010, 124 Stat. 2498, provided that: "The percentage under paragraph (2) of section 561 of the Hiring Incentives to Restore Employment Act \[Pub. L. 111–147, set out above\] in effect on the date of the enactment of this Act \[Aug. 16, 2010\] is increased by 0.25 percentage points."\]
 
 &emsp;&emsp;\[Pub. L. 111–227, title IV, §4002, Aug. 11, 2010, 124 Stat. 2480, provided that: "The percentage under paragraph (2) of section 561 of the Hiring Incentives to Restore Employment Act \[Pub. L. 111–147, set out above\] in effect on the date of the enactment of this Act \[Aug. 11, 2010\] is increased by 0.5 percentage points."\]
 
@@ -730,7 +730,7 @@ Adjustment for 2014.—Notwithstanding section 6655 of the Internal Revenue Code
 
 \[Pub. L. 110–289, div. C, title III, §3094(a), July 30, 2008, 122 Stat. 2912, provided that: "Subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] is amended by striking the percentage contained therein and inserting '100 percent'. No other provision of law which would change such percentage shall have any force and effect."\]
 
-\[Pub. L. 110–289, div. C, title III, §3094(b), July 30, 2008, 122 Stat. 2913, provided that: "The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[July 30, 2008\] is increased by 16.75 percentage points."\]
+\[Pub. L. 110–289, div. C, title III, §3094(b), July 30, 2008, 122 Stat. 2913, provided that: "The percentage under subparagraph (C) of section 401(1) of the Tax IncreasePrevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[July 30, 2008\] is increased by 16.75 percentage points."\]
 
 \[Pub. L. 110–287, §3, July 29, 2008, 122 Stat. 2649, provided that: "The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[July 29, 2008\] is increased by 0.25 percentage points."\]
 

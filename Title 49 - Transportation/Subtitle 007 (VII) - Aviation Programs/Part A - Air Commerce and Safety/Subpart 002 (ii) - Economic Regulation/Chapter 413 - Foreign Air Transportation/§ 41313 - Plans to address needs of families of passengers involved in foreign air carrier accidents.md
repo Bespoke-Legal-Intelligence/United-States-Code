@@ -58,7 +58,7 @@ Unclaimed possessions retained.—An assurance that any unclaimed possession of 
 
 &emsp;(8)
 
-Monuments.—An assurance that the family of each passenger will be consulted about construction by the foreign air carrier of anymonument to the passengers built in the United States, including any inscription on the monument.
+Monuments.—An assurance that the family of each passenger will be consulted about construction by the foreign air carrier of any monument to the passengers built in the United States, including any inscription on the monument.
 
 &emsp;(9)
 
@@ -90,7 +90,7 @@ Training of employees and agents.—An assurance that the foreign air carrier wi
 
 &emsp;(16)
 
-Consultation on carrier response not covered by plan.—An assurance that, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving any loss of life, will consult <sup>1</sup> with the Board and the Department of State on the provision of the assistance.
+Consultation on carrier response not covered by plan.—An assurance that, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving anyloss of life, will consult <sup>1</sup> with the Board and the Department of State on the provision of the assistance.
 
 &emsp;(17)
 

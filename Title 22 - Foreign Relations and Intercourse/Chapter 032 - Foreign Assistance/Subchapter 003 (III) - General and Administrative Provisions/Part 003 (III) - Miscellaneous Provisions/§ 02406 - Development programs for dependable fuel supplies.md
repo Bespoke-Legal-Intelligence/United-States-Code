@@ -10,5 +10,5 @@ Pub. L. 95–92, §14, Aug. 4, 1977, 91 Stat. 622, which prohibited any funds ma
 
 #### Nuclear Powerplants in Israel or Egypt
 
-Pub. L. 93–559, §43, Dec. 30, 1974, 88 Stat. 1813, which prohibited any funds authorized under Pub. L. 93–559 from being used to finance the construction of, the operation or maintenance of, or the supply of fuel for any nuclear powerplant in Israel or Egypt, was repealed by Pub. L. 97–113, title VII, §734(a)(8), Dec. 29, 1981, 95 Stat. 1560.
+Pub. L. 93–559, §43, Dec. 30, 1974, 88 Stat. 1813, which prohibited any funds authorized under Pub. L. 93–559from being used to finance the construction of, the operation or maintenance of, or the supply of fuel for any nuclear powerplant in Israel or Egypt, was repealed by Pub. L. 97–113, title VII, §734(a)(8), Dec. 29, 1981, 95 Stat. 1560.
 

@@ -48,7 +48,7 @@ For purposes of subsection (a), a person shall not be considered to make any com
 
 &emsp;A person making a communication described in subsection (a)—
 
-&emsp;&emsp;(A) shall not disclose any information collected for the purposes of restricting access to such communications to individuals 17 years of age or older without the prior written or electronic consent of—
+&emsp;&emsp;(A) shall not disclose any information collected for the purposes of restricting accessto such communications to individuals 17 years of age or older without the prior written or electronic consent of—
 
 &emsp;&emsp;&emsp;(i) the individual concerned, if the individual is an adult; or
 
@@ -122,7 +122,7 @@ Pub. L. 105–277, div. C, title XIV, §1402, Oct. 21, 1998, 112 Stat. 2681–73
 
 &emsp;"(2) the protection of the physical and psychological well-being of minors by shielding them from materials that are harmful to them is a compelling governmental interest;
 
-&emsp;"(3) to date, while the industry has developed innovative ways to help parents and educators restrict material that is harmful to minors through parental control protections and self-regulation, such efforts have not provided a national solution to the problem of minors accessing harmful material on the World Wide Web;
+&emsp;"(3) to date, while the industry has developed innovative ways to help parents and educators restrictmaterial that is harmful to minors through parental control protections and self-regulation, such efforts have not provided a national solution to the problem of minors accessing harmful material on the World Wide Web;
 
 &emsp;"(4) a prohibition on the distribution of material harmful to minors, combined with legitimate defenses, is currently the most effective and least restrictive means by which to satisfy the compelling government interest; and
 
@@ -130,7 +130,7 @@ Pub. L. 105–277, div. C, title XIV, §1402, Oct. 21, 1998, 112 Stat. 2681–73
 
 #### Study by Commission on Online Child Protection
 
-Pub. L. 105–277, div. C, title XIV, §1405, Oct. 21, 1998, 112 Stat. 2681–739, as amended by Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5001(b)–(f), Nov. 29, 1999, 113 Stat. 1536, 1501A–591, 1501A–592; Pub. L. 106–229, title IV, §401, June 30, 2000, 114 Stat. 476, established a Commission to study methods to reduce access by minors to harmfulmaterial on the Internet and provided that the Commission would terminate 30 days after submitting a report to Congress or Nov. 30, 2000, whichever occured earlier.
+Pub. L. 105–277, div. C, title XIV, §1405, Oct. 21, 1998, 112 Stat. 2681–739, as amended by Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5001(b)–(f), Nov. 29, 1999, 113 Stat. 1536, 1501A–591, 1501A–592; Pub. L. 106–229, title IV, §401, June 30, 2000, 114 Stat. 476, established a Commission to study methods to reduce access by minors to harmful material on the Internet and provided that the Commission would terminate 30 days after submitting a report to Congress or Nov. 30, 2000, whichever occured earlier.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section,".</i>
 

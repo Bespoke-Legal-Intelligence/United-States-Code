@@ -54,7 +54,7 @@ Section was originally enacted as section 125 (and later renumbered section 145)
 
 #### Prior Provisions
 
-A prior section 445 of Pub. L. 89–329, title IV, formerly Pub. L. 88–452, title I, §145, formerly §125, Aug. 20, 1964, 78 Stat. 516; Pub. L. 89–329, title IV, §441(6), Nov. 8, 1965, 79 Stat. 1250; renumbered §145, Pub. L. 90–222, title I, §111(a), Dec. 23, 1967, 81 Stat. 726; renumbered Pub. L. 89–329, title IV, §445, by Pub. L. 90–575, title I, §131(a), (b)(1), Oct. 16, 1968, 82 Stat. 1028, related to sources of matching funds, prior to the general revision of this part by Pub. L. 99–498. See section 1087–54 of this title.
+A prior section 445 of Pub. L. 89–329, title IV, formerly Pub. L. 88–452, title I, §145, formerly §125, Aug. 20, 1964, 78 Stat. 516; Pub. L. 89–329, title IV, §441(6), Nov. 8, 1965, 79 Stat. 1250; renumbered §145, Pub. L. 90–222, title I, §111(a), Dec. 23, 1967, 81 Stat. 726; renumbered Pub. L. 89–329, title IV, §445, by Pub. L. 90–575, title I, §131(a),\(b)(1), Oct. 16, 1968, 82 Stat. 1028, related to sources of matching funds, prior to the general revision of this part by Pub. L. 99–498. See section 1087–54 of this title.
 
 #### Amendments
 

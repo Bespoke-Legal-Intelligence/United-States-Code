@@ -36,7 +36,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;&emsp;(i)(I) the article is the growth, product, or manufacture of Nepal; and
 
-&emsp;&emsp;&emsp;(II) in the case of a textile or apparel article, Nepal is the country of origin of the article, as determined under section 102.21 of title 19, Code of Federal Regulations (as in effect on the day before February 24, 2016);
+&emsp;&emsp;&emsp;(II) in the case of a textile or apparel article, Nepal is the country of origin of thearticle, as determined under section 102.21 of title 19, Code of Federal Regulations (as in effect on the day before February 24, 2016);
 
 &emsp;&emsp;&emsp;(ii) the article is imported directly from Nepal into the customs territory of the United States;
 
@@ -114,7 +114,7 @@ Congress makes the following findings:
 
 #### (2) Establishment of trade facilitation and capacity building program
 
-&emsp;Not later than 180 days after February 24, 2016, the President shall, in consultation withthe Government of Nepal, establish a trade facilitation and capacity building program for Nepal—
+&emsp;Not later than 180 days after February 24, 2016, the President shall, in consultation with the Government of Nepal, establish a trade facilitation and capacity building program for Nepal—
 
 &emsp;&emsp;(A) to enhance the central export promotion agency of Nepal to support successful exporters and to build awareness among potential exporters in Nepal about opportunities abroad and ways to manage trade documentation and regulations in the United States and other countries;
 

@@ -8,13 +8,13 @@ The banks for cooperatives are authorized to make loans and commitments to eligi
 
 (1) A bank for cooperatives is authorized to make or participate in loans and commitments to, and to extend other technical and financial assistance to a domestic or foreign party with respect to its transactions with an association that is a voting stockholder of the bank for the import of agricultural commodities or products thereof, agricultural supplies, or aquatic products through purchases, sales or exchanges, if the bank for cooperatives determines, under regulations of the Farm Credit Administration, that the voting stockholder will benefit substantially as a result of such loan, commitment, or assistance.
 
-(2)(A) A bank for cooperatives may make or participate in loans and commitments to, andextend other technical and financial assistance to—
+(2)(A) A bank for cooperatives may make or participate in loans and commitments to, and extend other technical and financial assistance to—
 
 &emsp;(i) any domestic or foreign party for the export, including (where applicable) the cost of freight, of agricultural commodities or products thereof, agricultural supplies, or aquatic products from the United States under policies and procedures established by the bank to ensure that the commodities, products, or supplies are originally sourced, where reasonably available, from one or more eligible cooperative associations described in section 2129(a) of this title on a priority basis, except that if the total amount of the balances outstanding on loans made by a bank under this clause that—
 
 &emsp;&emsp;(I) are made to finance the export of commodities, products, or supplies that are not originally sourced from a cooperative, and
 
-&emsp;&emsp;(II) are not guaranteed or insured, in an amount equal to at least 95 percent of the amount loaned, by a department, agency, bureau, board, commission, or establishment of the United States or a corporation wholly-owned directly or indirectly by the United States,
+&emsp;&emsp;(II) are not guaranteed or insured, in an amount equal to at least 95 percent of the amount loaned, by a department, agency, bureau, board, commission, or establishmentof the United States or a corporation wholly-owned directly or indirectly by the United States,
 
 > &emsp;exceeds an amount that is equal to 50 percent of the bank's capital, then a sufficient interest in the loans shall be sold by the bank for cooperatives to commercial banks and other non-System lenders to reduce the total amount of such outstanding balances to an amount not greater than an amount equal to 50 percent of the bank's capital; and
 
@@ -68,11 +68,11 @@ The banks for cooperatives may, for the purpose of installing, maintaining, expa
 
 Subsec. (b)(4). Pub. L. 107–171, §5402(2), added par. (4).
 
-<b>1994</b>—Subsec. (b)(1). Pub. L. 103–376, §3(A), substituted "assistance to" for "assistance to (A)", "bank for theimport" for "bank for the export or import", and "if the bank for cooperatives" for "and (B) a domestic or foreign party in which such an association has at least the minimum ownership interest approved under regulations of the Farm Credit Administration for the purpose of facilitating the association's export or import operations of the type described in subparagraph (A): <i>Provided</i>, That a".
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–376, §3(A), substituted "assistance to" for "assistance to (A)", "bank for the import" for "bank for the export or import", and "if the bank for cooperatives" for "and (B) a domestic or foreign party in which such an association has at least the minimum ownership interest approved under regulations of the Farm Credit Administration for the purpose of facilitating the association's export or import operations of the type described in subparagraph (A): <i>Provided</i>, That a".
 
 Subsec. (b)(2). Pub. L. 103–376, §3(B), added par. (2) and struck out former par. (2) which read as follows: "A bank for cooperatives is authorized to make or participate in loans and commitments, and to extend other technical and financial assistance, to any domestic or foreign entity that is eligible for a guarantee or insurance as described in subparagraphs (A) and (B) with respect to transactions involving the Soviet Union (its successor entities or any of the individual republics of the Soviet Union) or an emerging democracy (as defined in section 1542(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5622 note)) for the export of agricultural commodities and products thereof from the United States, including (where applicable) the cost of freight, if in each case—
 
-&emsp;"(A) the loan involved is unconditionally guaranteed or insured by a department, agency, bureau, board, commission, or establishment of the United States or any corporation wholly owned directly or indirectly by the United States; and
+&emsp;"(A) the loan involved is unconditionally guaranteed or insured by a department, agency, bureau,board, commission, or establishment of the United States or any corporation wholly owned directly or indirectly by the United States; and
 
 &emsp;"(B) the guarantee or insurance—
 

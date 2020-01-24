@@ -10,7 +10,7 @@ For purposes of this division, an individual shall be considered to be a partici
 
 &emsp;(3) is 17 years of age or older at the time the individual begins the term of service;
 
-&emsp;(4) has received a high school diploma or its equivalent, agrees to obtain a high school diploma or its equivalent (unless this requirement is waived based on an individual education assessment conducted by the program)and the individual did not drop out of an elementary or secondary school to enroll in the program, or is enrolled in an institution of higher education on an ability to benefit basis and is considered eligible for funds under section 1091 of title 20; and
+&emsp;(4) has received a high school diploma or its equivalent, agrees to obtain a high school diploma or its equivalent (unless this requirement is waived based on an individual education assessment conducted by the program) and the individual did not drop out of an elementary or secondary school to enroll in the program, or is enrolled in an institution of higher education on an ability to benefit basis and is considered eligible for funds under section 1091 of title 20; and
 
 &emsp;(5) is a citizen or national of the United States or lawful permanent resident alien of the United States.
 

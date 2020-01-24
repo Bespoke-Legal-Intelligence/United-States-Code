@@ -32,7 +32,7 @@ There is established the John H. Chafee Coastal Barrier Resources System, which 
 
 #### (c) Boundary review and modification
 
-At least once every 5 years, the Secretary shall review the maps referred to in subsection (a) and shall make, in consultation with the appropriate State, local, and Federal officials, such minor and technical modifications to the boundaries of System units as are necessary solely to reflect changes that have occurred in the size or location of any System unit as a result of natural forces.
+At least once every 5 years, the Secretary shall review the maps referred to in subsection (a) and shall make, in consultation with the appropriate State, local, and Federal officials, such minor and technical modifications to theboundaries of System units as are necessary solely to reflect changes that have occurred in the size or location of any System unit as a result of natural forces.
 
 #### (d) Additions to System
 
@@ -358,7 +358,7 @@ References.—Any reference in a law, map, regulation, document, paper, or other
 
 The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
 
-Pub. L. 115–358, §2(a)–(c), Dec. 21, 2018, 132 Stat. 5078–5080.
+Pub. L. 115–358, §2(a)–(c), Dec. 21, 2018, 132 Stat. 5078–5080, as amended by Pub. L. 116–9, title II, §2402A(a), Mar. 12, 2019, 133 Stat. 747.
 
 Pub. L. 114–314, §1, Dec. 16, 2016, 130 Stat. 1535.
 
@@ -424,7 +424,7 @@ Technical Revision of Maps and Provision to State and Local Government.—Not la
 
 "(b)
 
-Recommendations of State and Local Governments for Boundary Modifications.—(1) Not laterthan 1 year after the date of the enactment of this Act \[Nov. 16, 1990\]—
+Recommendations of State and Local Governments for Boundary Modifications.—(1) Not later than 1 year after the date of the enactment of this Act \[Nov. 16, 1990\]—
 
 &emsp;"(A) a local government in which is located a unit of the System and which is in a State which has a coastal zone management program approved pursuant to section 306 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1455); and
 

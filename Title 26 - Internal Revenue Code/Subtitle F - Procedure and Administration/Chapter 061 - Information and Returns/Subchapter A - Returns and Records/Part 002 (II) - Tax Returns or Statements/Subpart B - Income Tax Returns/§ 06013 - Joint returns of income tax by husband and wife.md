@@ -2,7 +2,7 @@
 
 #### (a) Joint returns
 
-A husband and wife may make a single return jointly of income taxes under subtitle A, eventhough one of the spouses has neither gross income nor deductions, except as provided below:
+A husband and wife may make a single return jointly of income taxes under subtitle A, even though one of the spouses has neither gross income nor deductions, except as provided below:
 
 &emsp;(1) no joint return shall be made if either the husband or wife at any time during the taxable year is a nonresident alien;
 
@@ -94,7 +94,7 @@ For purposes of this section and subtitle A—
 
 &emsp;If—
 
-&emsp;&emsp;(A) an individual is in a missing status (within the meaning of paragraph (3)) as a result of service in a combat zone (as determined for purposes of section 112), and
+&emsp;&emsp;(A) an individual is in a missing status (within the meaning of paragraph (3)) as aresult of service in a combat zone (as determined for purposes of section 112), and
 
 &emsp;&emsp;(B) the spouse of such individual is otherwise entitled to file a joint return for any taxable year which begins on or before the day which is 2 years after the date designated under section 112 as the date of termination of combatant activities in such zone,
 
@@ -122,7 +122,7 @@ For purposes of this section and subtitle A—
 
 #### (4) Making of election; revocation
 
-&emsp;An election described in this subsection with respect to any taxable year may be made by filing a joint return in accordance with subsection (a) and under such regulations as may be prescribed by the Secretary. Such an election may be revoked by either spouse on or before the due date (including extensions) for such taxable year, and, in the case of an executor or administrator, may be revoked bydisaffirming as provided in the last sentence of subsection (a)(3).
+&emsp;An election described in this subsection with respect to any taxable year may be made by filing a joint return in accordance with subsection (a) and under such regulations as may be prescribed by the Secretary. Such an election may be revoked by either spouse on or before the due date (including extensions) for such taxable year, and, in the case of an executor or administrator, may be revoked by disaffirming as provided in the last sentence of subsection (a)(3).
 
 #### (g) Election to treat nonresident alien individual as resident of the United States
 
@@ -196,7 +196,7 @@ For purposes of this section and subtitle A—
 
 &emsp;If any election under this subsection applies for any 2 individuals for any taxable year, such 2 individuals shall be ineligible to make an election under this subsection for any subsequent taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 733; Pub. L. 85–866, title I, §73, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 675, 676; Pub. L. 91–679, §1, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 93–597, §3(a), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1612, 1824, 1834; Pub. L. 94–569, §3(d), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), Nov. 6, 1978, 92 Stat. 2771, 2919, 2920; Pub. L. 97–34, title I, §104(d)(2), Aug. 13, 1981, 95 Stat. 189; Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–448, title III, §307(c), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), July 18, 1984, 98 Stat. 801, 830; Pub. L. 99–514, title I, §104(a)(2), title XVII, §1708(a)(3), Oct. 22, 1986, 100 Stat. 2104, 2782; Pub. L. 100–647, title I, §1015(b)(1), Nov. 10, 1988, 102 Stat. 3568; Pub. L. 101–239, title VII, §7721(c)(6), Dec. 19, 1989, 103Stat. 2399; Pub. L. 101–508, title XI, §11704(a)(22), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title IV, §402(a), July 30, 1996, 110 Stat. 1459; Pub. L. 105–206, title III, §3201(e)(1), title VI, §6011(e)(2), July 22, 1998, 112 Stat. 740, 818; Pub. L. 107–134, title I, §101(b)(2), Jan. 23, 2002, 115 Stat. 2428; Pub. L. 108–121, title I, §110(a)(2)(B), Nov. 11, 2003, 117 Stat. 1342.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 733; Pub. L. 85–866, title I, §73, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 675, 676; Pub. L. 91–679, §1, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 93–597, §3(a), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1612, 1824, 1834; Pub. L. 94–569, §3(d), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), Nov. 6, 1978, 92 Stat. 2771, 2919, 2920; Pub. L. 97–34, title I, §104(d)(2), Aug. 13, 1981, 95 Stat. 189; Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–448, title III, §307(c), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), July 18, 1984, 98 Stat. 801, 830; Pub. L. 99–514, title I, §104(a)(2), title XVII, §1708(a)(3), Oct. 22, 1986, 100 Stat. 2104, 2782; Pub. L. 100–647, title I, §1015(b)(1), Nov. 10, 1988, 102 Stat. 3568; Pub. L. 101–239, title VII, §7721(c)(6), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11704(a)(22), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title IV, §402(a), July 30, 1996, 110 Stat. 1459; Pub. L. 105–206, title III, §3201(e)(1), title VI, §6011(e)(2), July 22, 1998, 112 Stat. 740, 818; Pub. L. 107–134, title I, §101(b)(2), Jan. 23, 2002, 115 Stat. 2428; Pub. L. 108–121, title I, §110(a)(2)(B), Nov. 11, 2003, 117 Stat. 1342.)
 
 #### Amendments
 
@@ -256,7 +256,7 @@ Subsecs. (g), (h). Pub. L. 94–455, §1012(a)(1), added subsecs. (g) and (h).
 
 <b>1975</b>—Subsec. (f). Pub. L. 93–597 added subsec. (f).
 
-<b>1971</b>—Subsec. (b)(3)(A). Pub. L. 92–178 increased the exemptions wherever appearing from $650 and $1,300 to $675 and $1,350, respectively, with respect to taxableyears beginning after Dec. 1970, and before Jan. 1, 1972, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1971.
+<b>1971</b>—Subsec. (b)(3)(A). Pub. L. 92–178 increased the exemptions wherever appearing from $650 and $1,300 to $675 and $1,350, respectively, with respect to taxable years beginning after Dec. 1970, and before Jan. 1, 1972, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1971.
 
 Subsec. (e). Pub. L. 91–679 added subsec. (e).
 
@@ -370,7 +370,7 @@ Pub. L. 91–679, §3, Jan. 12, 1971, 84 Stat. 2064, as amended by Pub. L. 94–
 
 #### Effective Date of 1969 Amendment
 
-Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), Dec. 30, 1969, 83 Stat. 675, 676, provided in part that the increases in exemptions from $600 and $1,200 to $625 and $1,250, respectively, were effective with respect to taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1971; and to $650 and $1,300, respectively, with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972. Pub. L. 91–172, title VIII, §801(c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 676, which provided for increases in exemptions to $700 and $1,400, respectively, with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1972, was repealed by Pub. L. 92–178, title II, §201(c), Dec. 10, 1971, 85 Stat. 511.
+Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), Dec. 30, 1969, 83 Stat. 675, 676, provided in part that the increases in exemptions from $600 and $1,200 to $625 and $1,250, respectively, were effective with respect to taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1971; and to $650 and $1,300, respectively, with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972. Pub. L. 91–172, title VIII, §801(c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 676, which provided for increases in exemptions to $700 and $1,400, respectively, with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750 and $1,500, respectively, with respect to taxable years beginningafter Dec. 31, 1972, was repealed by Pub. L. 92–178, title II, §201(c), Dec. 10, 1971, 85 Stat. 511.
 
 #### Effective Date of 1958 Amendment
 

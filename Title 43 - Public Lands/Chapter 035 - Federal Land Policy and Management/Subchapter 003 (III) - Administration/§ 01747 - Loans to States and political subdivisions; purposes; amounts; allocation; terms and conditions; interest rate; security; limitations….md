@@ -14,7 +14,7 @@
 
 (7) Notwithstanding any other provision of law, loans made pursuant to this section may be used for the non-Federal share of the aggregate cost of any project or program otherwise funded by the Federal Government which requires a non-Federal share for such project or program and which provides planning or public facilities otherwise eligible for assistance under this section.
 
-(8) Nothing in this section shall be construed to preclude any forebearance <sup>1</sup> for the benefit of the borrower including loan restructuring, which may be determined by the Secretary asjustified by the failure of anticipated mineral development or related revenues to materialize as expected when the loan was made pursuant to this section.
+(8) Nothing in this section shall be construed to preclude any forebearance <sup>1</sup> for the benefit of the borrower including loan restructuring, which may be determined by the Secretary as justified by the failure of anticipated mineral development or related revenues to materialize as expected when the loan was made pursuant to this section.
 
 (9) Recipients of loans made pursuant to this section shall keep such records as the Secretary shall prescribe by regulation, including records which fully disclose the disposition of the proceeds of such assistance and such other records as the Secretary may require to facilitate an effective audit. The Secretary and the Comptroller General of the United States or their duly authorized representatives shall have access, for the purpose of audit, to such records.
 

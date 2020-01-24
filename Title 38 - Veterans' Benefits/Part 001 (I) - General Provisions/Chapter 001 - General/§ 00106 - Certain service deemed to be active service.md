@@ -1,6 +1,6 @@
 ### §106. Certain service deemed to be active service
 
-(a)(1) Service as a member of the Women's Army Auxiliary Corps for ninety days or more by any woman who before October 1, 1943, was honorably discharged for disability incurred or aggravated in line of duty which rendered her physically unfit to perform further service in the Women's Army Auxiliary Corps or the Women's Army Corps shall be considered active dutyfor the purposes of all laws administered by the Secretary.
+(a)(1) Service as a member of the Women's Army Auxiliary Corps for ninety days or more by any woman who before October 1, 1943, was honorably discharged for disability incurred or aggravated in line of duty which rendered her physically unfit to perform further service in the Women's Army Auxiliary Corps or the Women's Army Corps shall be considered active duty for the purposes of all laws administered by the Secretary.
 
 (2) Any person entitled to compensation or pension by reason of this subsection and to employees' compensation based upon the same service under subchapter I of chapter 81 of title 5 must elect which benefit she will receive.
 
@@ -60,11 +60,11 @@ Subsec. (d). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "A
 
 Subsec. (c). Pub. L. 99–576, §701(5)(B), substituted "required for that individual" for "required for him", "proceed to that individual's home" for "proceed to his home", and "in any event that individual" for "in any event he".
 
-Subsec. (d). Pub. L. 99–576, §701(5)(C), struck out "by him" after "injury incurred" in cl. (2), and in closing provisions, substituted "such individual was disabled" for "he was disabled", "on which such individual began" for "on which he began", "such individual was scheduled" for "he was scheduled", "such individual ceased" for "he ceased", and "the itinerary" for "his itinerary".
+Subsec. (d). Pub. L. 99–576, §701(5)(C), struck out "by him" after "injury incurred" in cl. (2), and in closingprovisions, substituted "such individual was disabled" for "he was disabled", "on which such individual began" for "on which he began", "such individual was scheduled" for "he was scheduled", "such individual ceased" for "he ceased", and "the itinerary" for "his itinerary".
 
 <b>1982</b>—Subsec. (a)(2). Pub. L. 97–295, §4(3)(A), substituted "subchapter I of chapter 81 of title 5" for "the Federal Employees' Compensation Act".
 
-Subsec. (e). Pub. L. 97–295, §4(3)(B), substituted "title 5 as a preference eligible described in section 2108(3)(C)of title 5" for "the Act of June 27, 1944, (58 Stat. 387–391), as a person described in section 2(1) of such Act".
+Subsec. (e). Pub. L. 97–295, §4(3)(B), substituted "title 5 as a preference eligible described in section 2108(3)(C) of title 5" for "the Act of June 27, 1944, (58 Stat. 387–391), as a person described in section 2(1) of such Act".
 
 <b>1965</b>—Subsec. (e). Pub. L. 89–311 added subsec. (e).
 

@@ -20,7 +20,7 @@ Written Determination Required.—A major defense acquisition program or subprog
 
 &emsp;(3) if the program duplicates a capability already provided by an existing system, the duplication provided by such program is necessary and appropriate;
 
-&emsp;(4) that, with respect to any identified areas of risk, including risks determined by the identification of critical technologies required under section 2448b(a)(1) of this title or any other risk assessment, there is a plan to reduce the risk;
+&emsp;(4) that, with respect to any identified areas of risk, including risks determined by theidentification of critical technologies required under section 2448b(a)(1) of this title or any other risk assessment, there is a plan to reduce the risk;
 
 &emsp;(5) that planning for sustainment has been addressed and that a determination of applicability of core logistics capabilities requirements has been made;
 
@@ -58,7 +58,7 @@ Brief summary report.—Not later than 15 days after granting Milestone A approv
 
 &emsp;&emsp;(E) A summary of the independent technical risk assessment conducted or approved under section 2448b of this title, including identification of any critical technologies or manufacturing processes that need to be matured.
 
-&emsp;&emsp;(F) A summary of any sufficiency review conducted by the Director of Cost Assessment and Program Evaluation of the analysis of alternatives performed for the program (as referred to in section 2366a(b)(6) of this title).
+&emsp;&emsp;(F) A summary of any sufficiency review conducted by the Director of Cost Assessment and Program Evaluation of the analysis of alternatives performed for the program (as referred to in subsection (b)(6)).
 
 &emsp;&emsp;(G) Any other information the milestone decision authority considers relevant.
 
@@ -84,7 +84,7 @@ Definitions.—In this section:
 
 &emsp;(6) the term "major subprogram" means a major subprogram of a major defense acquisition program designated under section 2430a(a)(1) of this title.
 
-&emsp;(7) The term "milestone decision authority", with respect to a major defense acquisition program or a major subprogram, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or subprogram, including authority to approve entry of the program or subprogram into the next phase of the acquisition process.
+&emsp;(7) The term "milestone decision authority", with respect to a major defense acquisitionprogram or a major subprogram, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or subprogram, including authority to approve entry of the program or subprogram into the next phase of the acquisition process.
 
 &emsp;(8) The term "fielding target" has the meaning given that term in section 2448a(a) of this title.
 
@@ -92,13 +92,15 @@ Definitions.—In this section:
 
 &emsp;(10) The term "congressional intelligence committees" has the meaning given that term in section 437(c) of this title.
 
-(Added Pub. L. 110–181, div. A, title IX, §943(a)(1), Jan. 28, 2008, 122 Stat. 288, §2366b; renumbered §2366a and amended Pub. L. 110–417, \[div. A\], title VIII, §813(b), (e)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(3), title II, §§201(e), 204(a), (b), May 22, 2009, 123 Stat. 1710, 1720, 1723; Pub. L. 111–383, div. A, title VIII, §814(b), title X, §1075(b)(33), Jan. 7, 2011, 124 Stat. 4266, 4370; Pub. L. 112–81, div. A, title VIII, §801(a), (e)(1), Dec. 31, 2011, 125 Stat. 1482, 1483; Pub. L. 112–239, div. A, title III, §322(e)(1), title X, §1076(a)(10), Jan. 2, 2013, 126 Stat. 1695, 1948; Pub. L. 114–92, div. A, title VIII, §823(a), Nov. 25, 2015, 129 Stat. 902; Pub. L. 114–328, div. A, title VIII, §§806(b), 807(d), 808(a), Dec. 23, 2016, 130 Stat. 2259, 2262; Pub. L. 115–232, div. A, title VIII, §831(b)(2), Aug. 13, 2018, 132 Stat. 1857.)
+(Added Pub. L. 110–181, div. A, title IX, §943(a)(1), Jan. 28, 2008, 122 Stat. 288, §2366b; renumbered §2366a and amended Pub. L. 110–417, \[div. A\], title VIII, §813(b), (e)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(3), title II, §§201(e), 204(a), (b), May 22, 2009, 123 Stat. 1710, 1720, 1723; Pub. L. 111–383, div. A, title VIII, §814(b), title X, §1075(b)(33), Jan. 7, 2011, 124 Stat. 4266, 4370; Pub. L. 112–81, div. A, title VIII, §801(a), (e)(1), Dec. 31, 2011, 125 Stat. 1482, 1483; Pub. L. 112–239, div. A, title III, §322(e)(1), title X, §1076(a)(10), Jan. 2, 2013, 126 Stat. 1695, 1948; Pub. L. 114–92, div. A, title VIII, §823(a), Nov. 25, 2015, 129 Stat. 902; Pub. L. 114–328, div. A, title VIII, §§806(b), 807(d), 808(a), Dec. 23, 2016, 130 Stat. 2259, 2262; Pub. L. 115–232, div. A, title VIII, §831(b)(2), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title XVII, §1731(a)(44), Dec. 20, 2019, 133 Stat. 1814.)
 
 #### Prior Provisions
 
 A prior section 2366a was renumbered section 2366b of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c)(1)(F). Pub. L. 116–92 substituted "subsection (b)(6)" for "section 2366a(b)(6) of this title".
 
 <b>2018</b>—Subsec. (c)(1)(A). Pub. L. 115–232 struck out "by the Secretary of Defense" after "established".
 
@@ -188,6 +190,72 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 Pub. L. 110–181, div. A, title IX, §943(c), Jan. 28, 2008, 122 Stat. 289, as amended by Pub. L. 110–417, \[div. A\], title VIII, §813(e)(2)(B), Oct. 14, 2008, 122 Stat. 4528, provided that: "Section 2366b \[now 2366a\] of title 10, United States Code, as added by subsection (a), shall apply to major defense acquisition programs on and after March 1, 2008. In the case of the certification required by \[former\] paragraph (2) of subsection (a) of such section, during the period prior to the completion of the first quadrennial roles and missions review required by \[former\] section 118b of title 10, United States Code, the certification required by that paragraph shall be that the system is being executed by an entity with a relevant core competency as identified by the Secretary of Defense."
 
+#### Analysis of Alternatives Pursuant to Materiel Development Decisions
+
+Pub. L. 116–92, div. A, title VIII, §832, Dec. 20, 2019, 133 Stat. 1493, provided that:
+
+"(a)
+
+Timeline.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall update existing guidance for analyses of alternatives conducted pursuant to a materiel development decision for a major defense acquisition program to incorporate the following:
+
+&emsp;"(1) Study completion within nine months.
+
+&emsp;"(2) Study guidance issued by the Director, Cost Assessment and Program Evaluation of a scope designed to provide for reasonable completion of the study within the nine-month period.
+
+&emsp;"(3) Procedures for waiver of the timeline requirements of this subsection on a case-by-case basis if—
+
+&emsp;&emsp;"(A) the subject of the analysis is of extreme technical complexity;
+
+&emsp;&emsp;"(B) collection of additional intelligence is required to inform the analysis;
+
+&emsp;&emsp;"(C) insufficient technical expertise is available to complete the analysis; or
+
+&emsp;&emsp;"(D) the Secretary determines that there \[are\] other sufficient reasons for delay of the analysis.
+
+"(b)
+
+Reporting.—If an analysis of alternatives cannot be completed within the allotted time, or a waiver is used, the Secretary shall report to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the following information:
+
+&emsp;"(1) For a waiver, the basis for use of the waivers, including the reasons why the study cannot be completed within the allotted time.
+
+&emsp;"(2) For a study estimated to take more than nine months—
+
+&emsp;&emsp;"(A) an estimate of when the analysis will be completed;
+
+&emsp;&emsp;"(B) an estimate of any additional costs to complete the analysis; and
+
+&emsp;&emsp;"(C) other relevant information pertaining to the analysis and its completion.
+
+"(c)
+
+Report on Analyses of Alternatives.—
+
+&emsp;"(1)
+
+Assessment.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Under Secretary of Defense for Acquisition and Sustainment shall engage with an independent entity, including under the Program for Acquisition Innovation Research, to assess the conduct of analyses of alternatives.
+
+&emsp;&emsp;"(B)
+
+Elements.—The assessment required under subparagraph (A) shall—
+
+&emsp;&emsp;&emsp;"(i) assess the time required to complete analyses of alternatives within the Department of Defense completed over the last five fiscal years, as compared with best practices;
+
+&emsp;&emsp;&emsp;"(ii) provide recommendations and policy options to improve analyses of alternatives; and
+
+&emsp;&emsp;&emsp;"(iii) discuss any other matters as identified by the Under Secretary.
+
+&emsp;&emsp;"(C)
+
+Access to data.—The Under Secretary shall ensure that the independent entity is provided access to the data, information, and resources necessary to complete the required analyses and assessment.
+
+&emsp;"(2)
+
+Report.—Not later than one year after the date of the enactment of this Act, the Under Secretary shall submit to the congressional defense committees a report including the assessment required under paragraph (1) and a review and assessment by the Under Secretary of the findings made in the assessment."
+
 #### Milestone A Decisions
 
 Pub. L. 114–92, div. A, title VIII, §802(d)(2), Nov. 25, 2015, 129 Stat. 880, provided that: "The Chief of the Armed Force concerned shall advise the milestone decision authority for a major defense acquisition program of the Chief's views on cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program, as provided in section 2366a(a)(2) of title 10, United States Code, as amended by section 823 of this Act, prior to a Milestone A decision on the program."
@@ -198,7 +266,7 @@ Pub. L. 112–81, div. A, title VIII, §801(c), Dec. 31, 2011, 125 Stat. 1483, a
 
 #### Guidance
 
-Pub. L. 112–81, div. A, title VIII, §801(d), Dec. 31, 2011, 125 Stat. 1483, provided that: "Not later than 120 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall issue guidance implementing the amendments made by subsections (a) and (b) \[amending this section and section 2366b of this title\], and subsection (c) \[set out above\], in a manner that is consistent across the Department of Defense."
+Pub. L. 112–81, div. A, title VIII, §801(d), Dec. 31, 2011, 125 Stat. 1483, provided that: "Not later than 120 daysafter the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall issue guidance implementing the amendments made by subsections (a) and (b) \[amending this section and section 2366b of this title\], and subsection (c) \[set out above\], in a manner that is consistent across the Department of Defense."
 
 #### Application to Ongoing Programs
 

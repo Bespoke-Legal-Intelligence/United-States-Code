@@ -38,7 +38,7 @@ Subsec. (b)(1). Pub. L. 113–66, §1612(a), substituted "65 percent" for "one-h
 
 Subsec. (b)(2). Pub. L. 113–66, §1611(c)(1)(C), added par. (2).
 
-Subsec. (d). Pub. L. 113–66, §1611(c)(3), struck out "and in determining the level of funding to provide under anagreement under subsection (b)," after "subsection (a),".
+Subsec. (d). Pub. L. 113–66, §1611(c)(3), struck out "and in determining the level of funding to provide under an agreement under subsection (b)," after "subsection (a),".
 
 Subsec. (e). Pub. L. 113–66, §1611(c)(2), added subsec. (e).
 

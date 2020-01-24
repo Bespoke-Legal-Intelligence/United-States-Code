@@ -34,7 +34,7 @@ Application Requirement.—(1) Before the Secretary may award a grant to an elig
 
 (d)
 
-Use of Funds.—(1) An eligible entity that receives a grant under this section, with the assistance and cooperation of the Secretary and the heads of other appropriate Federal and Statedepartments and agencies and partnerships referred to in subsection (c)(3), shall use the grant to reimburse grantees with which the eligible entity has entered into a partnership under subsection (c) for the direct costs of recruiting, supporting, equipping, encouraging, scheduling, facilitating, supervising, and implementing the participation of disabled veterans and disabled members of the Armed Forces in the activities described in paragraph (3) by supporting a program described in paragraph (2).
+Use of Funds.—(1) An eligible entity that receives a grant under this section, with the assistance and cooperation of the Secretary and the heads of other appropriate Federal and State departments and agencies and partnerships referred to in subsection (c)(3), shall use the grant to reimburse grantees with which the eligible entity has entered into a partnership under subsection (c) for the direct costs of recruiting, supporting, equipping, encouraging, scheduling, facilitating, supervising, and implementing the participation of disabled veterans and disabled members of the Armed Forces in the activities described in paragraph (3) by supporting a program described in paragraph (2).
 
 (2) A program described in this paragraph is a sports program that—
 
@@ -90,7 +90,7 @@ Limitation on Use of Funds.—Except as provided in paragraphs (4) and (5) of su
 
 (j)
 
-Annual Report to Secretary.—(1) As a condition of receiving a grant under this section, an eligible entity shall agree that by not later than 60 days after the last day of a fiscal year for which a grant is provided under this section, the eligible entity shall submit to the Secretary a report setting forth in detail the use of the grant funds during that fiscal year, including the number of veterans who participated in the adapted sports opportunities funded by the grant, including any programs carried out through a partnership under subsection (c)(3), and the administrative expenses of such opportunities and programs.
+Annual Report to Secretary.—(1) As a condition of receiving a grant under this section, an eligible entity shall agree that by not later than 60 days after the last day of a fiscal year for which a grant is provided under this section, the eligible entity shall submit to the Secretary a report setting forth in detail the use of the grant funds during that fiscal year, including the number of veterans who participated in the adapted sports opportunities funded by the grant, including any programs carried out through a partnership under subsection (c)(3),and the administrative expenses of such opportunities and programs.
 
 (2) A report under this subsection may be audited by the Secretary.
 

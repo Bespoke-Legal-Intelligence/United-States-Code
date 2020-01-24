@@ -30,7 +30,7 @@ Except as provided in subsection (b), effective beginning on the date that is 3 
 
 &emsp;&emsp;&emsp;(II) for which tenants do not provide energy consumption information to the commercial building owner in response to a request from the building owner.
 
-&emsp;&emsp;(ii) A Federal agency that is a tenant of the space shall provide to the buildingowner, or authorize the owner to obtain from the utility, the energy consumption information of the space for the benchmarking and disclosure required by this subparagraph.
+&emsp;&emsp;(ii) A Federal agency that is a tenant of the space shall provide to the building owner, or authorize the owner to obtain from the utility, the energy consumption information of the space for the benchmarking and disclosure required by this subparagraph.
 
 #### (c) Revision of Federal Acquisition Regulation
 

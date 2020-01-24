@@ -38,7 +38,7 @@ In the case of a distribution to which subsection (a) applies—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), that portion of the distribution which is not a dividend, to the extent that it exceeds the adjusted basis of the stock, shall be treated as gain from the sale or exchange of property.
+&emsp;&emsp;Except as provided in subparagraph (B), that portion of the distribution which is nota dividend, to the extent that it exceeds the adjusted basis of the stock, shall be treated as gain from the sale or exchange of property.
 
 #### (B) Distributions out of increase in value accrued before March 1, 1913
 
@@ -118,7 +118,7 @@ Subsec. (g). Pub. L. 98–369, §§54(b), 61(d), redesignated former subsec. (e)
 
 Subsec. (g)(2). Pub. L. 98–369, §712(i)(1), substituted "complete liquidation" for "partial or complete liquidation" in subsec. (e)(2), which became subsec. (g)(2).
 
-<b>1978</b>—Subsec. (b)(1)(B)(ii). Pub. L. 95–628, §3(a), substituted "amount of gain recognized to the distributing corporation on the distribution" for "amount of gain to the distributing corporation which is recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)".
+<b>1978</b>—Subsec. (b)(1)(B)(ii). Pub. L. 95–628, §3(a), substituted "amount of gain recognized to the distributing corporation on the distribution" for "amount of gain tothe distributing corporation which is recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)".
 
 Subsec. (d)(2)(B). Pub. L. 95–628, §3(b), substituted "amount of gain recognized to the distributing corporation on the distribution" for "amount of gain to the distributing corporation which is recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)".
 
@@ -212,7 +212,7 @@ Amendment by section 1804(f)(2)(B) of Pub. L. 99–514 effective, except as othe
 
 Amendment by section 54(b) of Pub. L. 98–369 applicable to distributions after July 18, 1984, in taxable years ending after July 18, 1984, see section 54(d)(2) of Pub. L. 98–369, set out as a note under section 311 of this title.
 
-Pub. L. 98–369, div. A, title I, §61(e)(4), July 18, 1984, 98 Stat. 583, provided that: "The amendment made by subsection (d) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date."
+Pub. L. 98–369, div. A, title I, §61(e)(4), July 18, 1984, 98 Stat. 583, provided that: "The amendment made by subsection (d) \[amending this section\] shall apply todistributions after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date."
 
 Amendment by section 712(i)(1) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 

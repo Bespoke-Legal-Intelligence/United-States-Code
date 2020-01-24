@@ -22,7 +22,7 @@
 
 #### (3) Applicable percentage
 
-&emsp;For purposes of this section, if section 126 property is disposed of less than 10 years after the date of receipt of payments excluded from gross income under section 126, the applicable percentage is 100 percent. If section 126 property is disposed of more than 10 years after such date, the applicable percentage is 100 percent reduced (but not below zero) by 10 percent for each year or part thereof in excess of 10 years such property was held after the date of receipt of the payments.
+&emsp;For purposes of this section, if section 126 property is disposed of less than 10 years after the date of receipt of payments excluded from gross income under section 126, the applicable percentage is 100 percent. If section 126 property is disposed of more than 10 years after such date, the applicable percentage is 100 percent reduced (but not below zero) by 10 percentfor each year or part thereof in excess of 10 years such property was held after the date of receipt of the payments.
 
 #### (b) Special rules
 

@@ -12,7 +12,7 @@ In general.—Effective 30 days after the date of the enactment of this Act \[De
 
 &emsp;"(A) the position, and the office of, the Principal Department of Defense Space Advisor (previously known as the Department of Defense Executive Agent for Space) shall be terminated;
 
-&emsp;"(B) the duties, responsibilities, and personnel of such office specified in subparagraph (A) shall be transferred to a single official selected by the Deputy Secretary of Defense, without delegation, except the Deputy Secretary may not select the Secretary of the Air Force nor the Under Secretary of Defense for Intelligence;
+&emsp;"(B) the duties, responsibilities, and personnel of such office specified in subparagraph (A) shall be transferred to a single official selected by the Deputy Secretary of Defense, without delegation, except the Deputy Secretary may not select the Secretary of the Air Force nor the Under Secretary of Defense for Intelligence \[now Under Secretary of Defense for Intelligence and Security\];
 
 &emsp;"(C) any reference in Federal law, regulations, guidance, instructions, or other documents of the Federal Government to the Principal Department of Defense Space Advisor or the Department of Defense Executive Agent for Space shall be deemed to be a reference to the official selected by the Deputy Secretary under subparagraph (B);
 

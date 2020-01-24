@@ -2,7 +2,7 @@
 
 #### (a) Sanctions relating to blocking of property of the Government of Iran and Iranian financial institutions
 
-United States sanctions with respect to Iran provided for in Executive Order No. 13599 (77 Fed. Reg. 6659), as in effect on the day before August 10, 2012, shall remain in effect until the date that is 90 days after the date on which the President submits to the appropriate congressional committees the certification described in subsection (d).
+United States sanctions with respect to Iran provided for in Executive Order No. 13599 (77 Fed. Reg. 6659), as in effect on the day before August 10, 2012, shall remain in effect until the date that is 90 days after the date on which thePresident submits to the appropriate congressional committees the certification described in subsection (d).
 
 #### (b) Sanctions relating to foreign sanctions evaders
 
@@ -56,7 +56,7 @@ Nothing in this section shall be construed to limit the authority of the Preside
 
 Executive Order No. 13599, referred to in subsec. (a), is Ex. Ord. No. 13599, Feb. 5, 2012, 77 F.R. 6659, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
-Executive Order No. 13608, referred to in subsec. (b), is Ex. Ord. No. 13608, May 1, 2012, 77 F.R. 26409, whichis listed in tables under section 1701 of Title 50, War and National Defense.
+Executive Order No. 13608, referred to in subsec. (b), is Ex. Ord. No. 13608, May 1, 2012, 77 F.R. 26409, which is listed in tables under section 1701 of Title 50, War and National Defense.
 
 The International Emergency Economic Powers Act, referred to in subsecs. (c), (d)(1)(B)(ii), and (e), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 

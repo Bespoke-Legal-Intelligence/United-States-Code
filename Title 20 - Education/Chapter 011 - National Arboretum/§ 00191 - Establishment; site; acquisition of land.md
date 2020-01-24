@@ -6,7 +6,7 @@ The Secretary of Agriculture is authorized and directed to establish and maintai
 
 #### Transfer of Functions
 
-Functions of all officers, agencies and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. PlanNo. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all officers, agencies and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Delegation of Functions
 

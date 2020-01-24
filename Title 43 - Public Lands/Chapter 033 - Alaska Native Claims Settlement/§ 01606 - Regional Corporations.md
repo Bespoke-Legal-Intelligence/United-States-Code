@@ -40,11 +40,11 @@ If a majority of all eligible Natives eighteen years of age or older who are not
 
 #### (d) Incorporation; business for profit; eligibility for benefits; provisions in articles for carrying out chapter
 
-Five incorporators within each region, named by the Native association in the region, shall incorporate under the laws of Alaska a RegionalCorporation to conduct business for profit, which shall be eligible for the benefits of this chapter so long as it is organized and functions in accordance with this chapter. The articles of incorporation shall include provisions necessary to carry out the terms of this chapter.
+Five incorporators within each region, named by the Native association in the region, shall incorporate under the laws of Alaska a Regional Corporation to conduct business for profit, which shall be eligible for the benefits of this chapter so long as it is organized and functions in accordance with this chapter. The articles of incorporation shall include provisions necessary to carry out the terms of this chapter.
 
 #### (e) Original articles and bylaws: approval by Secretary prior to filing, submission for approval; amendments to articles: approval by Secretary; withholding approval in event of creation of inequities among Native individuals or groups
 
-The original articles of incorporation and bylaws shall be approved by the Secretary before they are filed, and they shall be submitted for approval within eighteen months after December 18, 1971. The articles of incorporation may not be amended during the Regional Corporation's first five years without the approval of the Secretary. The Secretary may withhold approval under this section if in his judgment inequities among Native individuals or groups of Native individuals would be created.
+The original articles of incorporation and bylaws shall be approved by the Secretary beforethey are filed, and they shall be submitted for approval within eighteen months after December 18, 1971. The articles of incorporation may not be amended during the Regional Corporation's first five years without the approval of the Secretary. The Secretary may withhold approval under this section if in his judgment inequities among Native individuals or groups of Native individuals would be created.
 
 #### (f) Board of directors; management; stockholders; provisions in articles or bylaws for number, term, and method of election
 
@@ -248,7 +248,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 &emsp;&emsp;(i) a restriction denying voting rights to any holder of Replacement Common Stock who is not a Native or a descendant of a Native;
 
-&emsp;&emsp;(ii) a restriction granting the Regional Corporation, or the Regional Corporation and members of the shareholder's immediate family who are Natives or descendants of Natives, the first right to purchase, on reasonable terms, the Replacement Common Stock of the shareholder prior to the sale or transfer of such stock (other than a transfer by will or intestate succession) to any other party, including a transfer in satisfaction of a lien, writ of attachment, judgment execution, pledge, or other encumbrance; and
+&emsp;&emsp;(ii) a restriction granting the Regional Corporation, or the Regional Corporation and members of the shareholder's immediate family who are Natives or descendants ofNatives, the first right to purchase, on reasonable terms, the Replacement Common Stock of the shareholder prior to the sale or transfer of such stock (other than a transfer by will or intestate succession) to any other party, including a transfer in satisfaction of a lien, writ of attachment, judgment execution, pledge, or other encumbrance; and
 
 &emsp;&emsp;(iii) any other term, restriction, limitation, or provision authorized by the laws of the State.
 
@@ -308,7 +308,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 &emsp;&emsp;(i) any share of Settlement Common Stock held, at the time the offer is made, by an officer (including a member of the board of directors) of Cook Inlet Regional Corporation or a member of the immediate family of the officer; and
 
-&emsp;&emsp;(ii) any share of Settlement Common Stock held by any custodian, guardian, trustee, or attorney representing a shareholder of Cook Inlet Regional Corporation in fact or law, or any other similar person, entity, or representative.
+&emsp;&emsp;(ii) any share of Settlement Common Stock held by any custodian, guardian,trustee, or attorney representing a shareholder of Cook Inlet Regional Corporation in fact or law, or any other similar person, entity, or representative.
 
 &emsp;(J)(i) The board of directors of Cook Inlet Regional Corporation, in determining the terms of an offer to purchase made under this paragraph, including the amount of any premium paid with respect to a non-village share, may rely upon the good faith opinion of a recognized firm of investment bankers or valuation experts.
 
@@ -346,7 +346,7 @@ Funds distributed to a Village Corporation may be withheld until the village has
 
 #### (m) Distributions among Village Corporations in a region; computation of dividends for nonresidents of village; financing regional projects with equitably withheld dividends and Village Corporation funds
 
-When funds are distributed among Village Corporations in a region, an amount computed as follows shall be distributed as dividends to the class of stockholders who are not residents of those villages: The amount distributed as dividends shall bear the same ratio to the amount distributed among the Village Corporations that the number of shares of stock registered on the books of the Regional Corporation in the names of nonresidents of villages bears to the number of shares of stock registered in the names of village residents: <i>Provided</i>, That an equitable portion of the amount distributed as dividends may be withheld and combined with Village Corporation funds to finance projects that will benefit the region generally.
+When funds are distributed among Village Corporations in a region, an amount computed asfollows shall be distributed as dividends to the class of stockholders who are not residents of those villages: The amount distributed as dividends shall bear the same ratio to the amount distributed among the Village Corporations that the number of shares of stock registered on the books of the Regional Corporation in the names of nonresidents of villages bears to the number of shares of stock registered in the names of village residents: <i>Provided</i>, That an equitable portion of the amount distributed as dividends may be withheld and combined with Village Corporation funds to finance projects that will benefit the region generally.
 
 #### (n) Projects for Village Corporations
 
@@ -396,9 +396,9 @@ Subsec. (h)(1), (2). Pub. L. 100–241, §5, amended pars. (1) and (2) generally
 
 Subsec. (h)(3). Pub. L. 100–241, §5, amended par. (3) generally, revising and restating as subpars. (A) to (E) provisions of former subpars. (A) to (C).
 
-Subsec. (o). Pub. L. 100–241, §12(a), struck out ", to the Secretary of the Interior and to the Committees onInterior and Insular Affairs of the Senate and the House of Representatives" after "to each stockholder" in last sentence.
+Subsec. (o). Pub. L. 100–241, §12(a), struck out ", to the Secretary of the Interior and to the Committees on Interior and Insular Affairs of the Senate and the House of Representatives" after "to each stockholder" in last sentence.
 
-<b>1980</b>—Subsec. (h)(1). Pub. L. 96–487, §1401(c), inserted "or by stockholder who is a member of a professional organization, association, or board which limits the ability of that stockholder to practice his profession because of holding stock issued under this chapter" after "divorce or child support". Section 1401(c) of Pub. L. 96–487 directed that section 1696(h)(1) of this title be amended, however, since no section 1696 of this title has been enacted, amendment was executed to subsec. (h)(1) of this section to reflect the probable intent of Congress.
+<b>1980</b>—Subsec. (h)(1). Pub. L. 96–487, §1401(c), inserted "or by stockholder who is a member of a professional organization, association, or board which limits the ability of that stockholder to practice his profession because of holding stock issued under this chapter" after "divorce or child support". Section 1401(c) of Pub. L. 96–487 directed that section 1696(h)(1) of this title be amended, however, since no section 1696 of this title has been enacted, amendment was executed to subsec.\(h)(1) of this section to reflect the probable intent of Congress.
 
 Subsec. (h)(3). Pub. L. 96–487, §1401(a), substituted provisions that provided on Dec. 18, 1991, all stock previously issued be deemed canceled, and shares of stock of the appropriate class be issued to each shareholder share for share subject only to such restrictions as provided by the articles of incorporation, or agreement between the corporation and individual, specified restrictions which may be included by amendment in the articles of incorporation, and provided voting requirements for amendment of the articles of incorporation for approval of restrictions and the grant of voting rights to stockholders who were previously denied such rights for provision that provided on Jan. 1 of the twenty-first year after the year in which this chapter was enacted, all stock previously issued be deemed canceled and the shares of stock of the appropriate class issued without restrictions required by this chapter to each stockholder share for share.
 

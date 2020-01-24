@@ -14,7 +14,7 @@ If the Secretary is required, in the terminal fiscal year of an applicable progr
 
 #### (d) Application to commissions, councils, and committees required by law to terminate
 
-This section shall not apply to the authorization of appropriations for a commission, council,or committee which is required by an applicable statute to terminate on a date certain.
+This section shall not apply to the authorization of appropriations for a commission, council, or committee which is required by an applicable statute to terminate on a date certain.
 
 (Pub. L. 90–247, title IV, §422, formerly §414, as added Pub. L. 93–380, title V, §506(a)(2)(B), Aug. 21, 1974, 88 Stat. 563; amended Pub. L. 96–374, title XIII, §1301, Oct. 3, 1980, 94 Stat. 1496; renumbered §422 and amended Pub. L. 103–382, title II, §§212(b)(1), 233, Oct. 20, 1994, 108 Stat. 3913, 3915.)
 
@@ -36,7 +36,7 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 #### Additional Extensions Not Permitted
 
-Pub. L. 114–105, §2(c), Dec. 18, 2015, 129 Stat. 2220, provided that: "Section 422 of the General Education Provisions Act (20 U.S.C. 1226a) shall not apply to further extend the duration of the authority under paragraph (1) of section 461(b) of the Higher Education Act of 1965 (20 U.S.C. 1087aa(b)), as amended by subsection (a)(1) of this section, beyond September 30, 2017, on the basis of the extension under such subsection."
+Pub. L. 114–105, §2(c), Dec. 18, 2015, 129 Stat. 2220, provided that: "Section 422 of the General Education Provisions Act (20 U.S.C. 1226a) shall not apply to further extend the duration of the authority under paragraph (1) of section 461(b) of the Higher Education Act of 1965 (20 U.S.C. 1087aa(b)), as amended by subsection (a)(1) ofthis section, beyond September 30, 2017, on the basis of the extension under such subsection."
 
 #### Indochinese Refugee Children Education Assistance Programs; Applicability of Contingent Extension Provisions
 

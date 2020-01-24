@@ -24,7 +24,7 @@ Pub. L. 105–277, §1223(9)(A)(i), (ii), in first sentence, substituted "The Se
 
 Pub. L. 105–277, §1223(9)(A)(iii), which directed the insertion of ", nonproliferation," after "fields of arms control", was executed by making the insertion after "field of arms control" to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 105–277, §1223(9)(D), in introductory provisions, substituted "Secretary of State" for"Director", redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: "for the purpose of conducting negotiations concerning arms control, nonproliferation, or disarmament or for the purpose of exercising any other authority given him by this chapter—
+Subsec. (b). Pub. L. 105–277, §1223(9)(D), in introductory provisions, substituted "Secretary of State" for "Director", redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: "for the purpose of conducting negotiations concerning arms control, nonproliferation, or disarmament or for the purpose of exercising any other authority given him by this chapter—
 
 &emsp;"(A) to consult and communicate with, or to direct the consultation and communication with, representatives of other nations or of international organizations, and
 

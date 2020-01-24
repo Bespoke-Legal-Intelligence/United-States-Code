@@ -10,7 +10,7 @@ Final plans.—Not later than February 15 of each year, Amtrak shall submit to C
 
 &emsp;(2)
 
-Fiscal constraint.—Each plan prepared under this section shall be based on funding levels authorized or otherwise available toAmtrak in a fiscal year. In the absence of an authorization or appropriation of funds for a fiscal year, the plans shall be based on the amount of funding available in the previous fiscal year, plus inflation. Amtrak may include an appendix to the asset plan required in subsection (c) that describes any funding needs in excess of amounts authorized or otherwise available to Amtrak in a fiscal year.
+Fiscal constraint.—Each plan prepared under this section shall be based on funding levels authorized or otherwise available to Amtrak in a fiscal year. In the absence of an authorization or appropriation of funds for a fiscal year, the plans shall be based on the amount of funding available in the previous fiscal year, plus inflation. Amtrak may include an appendix to the asset plan required in subsection (c) that describes any funding needs in excess of amounts authorized or otherwise available to Amtrak in a fiscal year.
 
 (b)
 

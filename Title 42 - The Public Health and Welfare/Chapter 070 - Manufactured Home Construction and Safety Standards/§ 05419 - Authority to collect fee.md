@@ -56,7 +56,7 @@ Beginning on December 27, 2000, the amount of any fee collected under this secti
 
 #### References in Text
 
-For the effective date of the Manufactured Housing Improvement Act of 2000, referred to in subsec. (e)(3), see section 612 of Pub. L. 106–569, set out as an Effective Date of 2000 Amendment note under section 5401 of this title.
+For the effective date of the Manufactured Housing Improvement Act of 2000, referred to in subsec. (e)(3),see section 612 of Pub. L. 106–569, set out as an Effective Date of 2000 Amendment note under section 5401 of this title.
 
 #### Amendments
 
@@ -73,6 +73,10 @@ Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment ha
 #### Effective Date
 
 Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under section 5401 of this title.
+
+#### Final Rulemaking on Manufactured Housing Payments
+
+Pub. L. 116–94, div. H, title II, Dec. 20, 2019, 133 Stat. 2994, provided in part: "That the Secretary of Housing and Urban Development shall issue a final rule to complete rulemaking initiated by the proposed rule entitled 'Manufactured Housing Program: Minimum Payments to the States' published in the Federal Register on December 16, 2016 (81 Fed. Reg. 91083)".
 
 #### Manufactured Housing
 

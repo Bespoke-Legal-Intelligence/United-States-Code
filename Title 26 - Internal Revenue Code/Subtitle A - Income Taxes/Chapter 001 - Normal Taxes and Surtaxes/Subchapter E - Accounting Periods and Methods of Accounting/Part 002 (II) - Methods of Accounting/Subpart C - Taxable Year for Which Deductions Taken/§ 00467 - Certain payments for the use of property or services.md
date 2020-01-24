@@ -82,7 +82,7 @@ In the case of the lessor or lessee under any section 467 rental agreement, ther
 
 #### (4) Leaseback or long-term agreement
 
-&emsp;For purposes of this subsection, the term "leaseback or long-term agreement" meansany agreement described in subsection (b)(4)(A).
+&emsp;For purposes of this subsection, the term "leaseback or long-term agreement" means any agreement described in subsection (b)(4)(A).
 
 #### (5) Special rules
 
@@ -139,7 +139,7 @@ For purposes of this section—
 | 7-year property | 7 years&nbsp;&nbsp; |
 | 10-year property | 10 years&nbsp;&nbsp; |
 | 15-year and 20-year property | 15 years&nbsp;&nbsp; |
-| Residential rental property and nonresidential real property | 19 years&nbsp;&nbsp; |
+| Residential rental property and nonresidential real property | 19 years   |
 | Any railroad grading or tunnel bore | 50 years. |
 
 #### (B) Special rule for property not depreciable under section 168
@@ -170,7 +170,7 @@ Under regulations prescribed by the Secretary, rules comparable to the rules of 
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations providing for the application of this section in the case of contingent payments.
 
-(Added Pub. L. 98–369, div. A, title I, §92(a), July 18, 1984, 98 Stat. 609; amended Pub. L. 99–514, title II, §201(d)(8), title V, §511(d)(2)(A), title VI,§631(e)(10), title XVIII, §§1807(b), 1879(f)(1), Oct. 22, 1986, 100 Stat. 2141, 2248, 2274, 2816, 2906; Pub. L. 100–647, title I, §§1002(i)(2)(H), 1005(c)(10), Nov. 10, 1988, 102 Stat. 3371, 3392; Pub. L. 108–27, title III, §302(e)(4)(B)(ii), May 28, 2003, 117 Stat. 764.)
+(Added Pub. L. 98–369, div. A, title I, §92(a), July 18, 1984, 98 Stat. 609; amended Pub. L. 99–514, title II, §201(d)(8), title V, §511(d)(2)(A), title VI, §631(e)(10), title XVIII, §§1807(b), 1879(f)(1), Oct. 22, 1986, 100 Stat. 2141, 2248, 2274, 2816, 2906; Pub. L. 100–647, title I, §§1002(i)(2)(H), 1005(c)(10), Nov. 10, 1988, 102 Stat. 3371, 3392; Pub. L. 108–27, title III, §302(e)(4)(B)(ii), May 28, 2003, 117 Stat. 764.)
 
 #### Amendments
 
@@ -262,7 +262,7 @@ Exceptions.—The amendments made by this section shall not apply—
 
 &emsp;&emsp;&emsp;"(II) the second 5 years of the lease, at least 16.25 percent of the rents payable by the lessee under the agreement are paid.
 
-&nbsp;&nbsp;Paragraph (3)(B)(ii)(II) shall apply for purposes of clauses (ii) and (iii) of subparagraph (C), as if, as ofthe beginning of the last stage, the separate agreements were treated as 1 single agreement relating to all property covered by the agreements, including any property placed in service before the property to which the agreement for the last stage relates. If the lessor under the agreement described in subparagraph (C) leases the property from another person, this exception shall also apply to any agreement between the lessor and such person which is integrally related to, and entered into at the same time as, such agreement, and which calls for comparable payments of rent over the primary term of the agreement.
+&nbsp;&nbsp;Paragraph (3)(B)(ii)(II) shall apply for purposes of clauses (ii) and (iii) of subparagraph (C), as if, as of the beginning of the last stage, the separate agreements were treated as 1 single agreement relating to all property covered by the agreements, including any property placed in service before the property to which the agreement for the last stage relates. If the lessor under the agreement described in subparagraph (C) leases the property from another person, this exception shall also apply to any agreement between the lessor and such person which is integrally related to, and entered into at the same time as, such agreement, and which calls for comparable payments of rent over the primary term of the agreement.
 
 "(3)
 

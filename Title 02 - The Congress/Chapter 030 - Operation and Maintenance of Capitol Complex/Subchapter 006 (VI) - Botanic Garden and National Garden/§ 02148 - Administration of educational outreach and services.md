@@ -6,7 +6,7 @@ The Architect of the Capitol, subject to the direction of the Joint Committee of
 
 #### (b) No-cost agreements
 
-(1) The Architect of the Capitol may, subject to the direction of the Joint Committee of Congress on the Library, enter into a no-cost agreement, through a contract, cooperative agreement, or memorandum of understanding, with a qualified entity to conduct, or provide support for, an educational exhibit, program, class, or outreach that benefits the educational mission of the United States Botanic Garden.
+(1) The Architect of the Capitol may, subject to the direction of the Joint Committee of Congress on the Library, enter into a no-cost agreement, through a contract, cooperative agreement, or memorandum of understanding, with aqualified entity to conduct, or provide support for, an educational exhibit, program, class, or outreach that benefits the educational mission of the United States Botanic Garden.
 
 (2) Any agreement under paragraph (1) may—
 

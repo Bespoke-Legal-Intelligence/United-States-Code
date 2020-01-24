@@ -66,7 +66,7 @@ Modification of Scope.—The scope of an undefinitized contractual action under 
 
 (f)
 
-Allowable Profit.—The Commandant shall ensure that the profit allowed on an undefinitized contractual action for which thefinal price is negotiated after a substantial portion of the performance required is completed reflects—
+Allowable Profit.—The Commandant shall ensure that the profit allowed on an undefinitized contractual action for which the final price is negotiated after a substantial portion of the performance required is completed reflects—
 
 &emsp;(1) the possible reduced cost risk of the contractor with respect to costs incurred during performance of the contract before the final price is negotiated; and
 

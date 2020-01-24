@@ -46,7 +46,7 @@ For purposes of this subchapter—
 
 &emsp;(18) the term "State" means any State, or political subdivision, or agency thereof;
 
-&emsp;(19) the term "usable activated channels" means activated channels of a cable system, except those channels whose use for the distribution of broadcast signals would conflict with technical and safety regulations as determined by the Commission; and
+&emsp;(19) the term "usable activated channels" means activated channels of a cable system,except those channels whose use for the distribution of broadcast signals would conflict with technical and safety regulations as determined by the Commission; and
 
 &emsp;(20) the term "video programming" means programming provided by, or generally considered comparable to programming provided by, a television broadcast station.
 
@@ -58,7 +58,7 @@ For purposes of this subchapter—
 
 Par. (7)(B). Pub. L. 104–104, §301(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "a facility that serves only subscribers in 1 or more multiple unit dwellings under common ownership, control, or management, unless such facility or facilities uses any public right-of-way;".
 
-Par. (7)(C) to (E). Pub. L. 104–104, §302(b)(2)(A), which directed substitution of ", unless the extent of such useis solely to provide interactive on-demand services; (D) an open video system that complies with section 573 of this title; or (E)" for ", or (D)", was executed by making the substitution for "; or (D)" to reflect the probable intent of Congress.
+Par. (7)(C) to (E). Pub. L. 104–104, §302(b)(2)(A), which directed substitution of ", unless the extent of such use is solely to provide interactive on-demand services; (D) an open video system that complies with section 573 of this title; or (E)" for ", or (D)", was executed by making the substitution for "; or (D)" to reflect the probable intent of Congress.
 
 Pars. (12) to (20). Pub. L. 104–104, §302(b)(2)(B), (C), added par. (12) and redesignated former pars. (12) to (19) as (13) to (20), respectively.
 

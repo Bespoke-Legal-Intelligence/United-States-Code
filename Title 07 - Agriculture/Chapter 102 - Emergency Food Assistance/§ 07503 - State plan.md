@@ -28,7 +28,7 @@ Each plan shall—
 
 &emsp;(5) at the option of the State agency, describe a plan of operation for 1 or more projects in partnership with 1 or more emergency feeding organizations located in the State to harvest, process, package, or transport donated commodities received under section 7507(d) of this title; and
 
-&emsp;(6) describe a plan, which may include the use of a State advisory board established under subsection (c), that provides emergency feeding organizations or eligible recipient agencies within the State an opportunity to provide input on the commodity preferencesand needs of the emergency feeding organization or eligible recipient agency.
+&emsp;(6) describe a plan, which may include the use of a State advisory board established under subsection (c), that provides emergency feeding organizations or eligible recipient agencies within the State an opportunity to provide input on the commodity preferences and needs of the emergency feeding organization or eligible recipient agency.
 
 #### (c) State advisory board
 

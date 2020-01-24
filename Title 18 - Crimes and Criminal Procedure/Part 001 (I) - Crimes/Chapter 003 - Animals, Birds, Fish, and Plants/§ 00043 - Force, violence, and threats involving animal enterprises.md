@@ -124,7 +124,7 @@ A prior section 43, acts June 25, 1948, ch. 645, 62 Stat. 687; Sept. 2, 1960, Pu
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–188, §336(a), amended heading and text of subsec. (a) generally, deleting par. (2) reference to intentionally stealing and to requirement that economic damage exceed $10,000, and in concluding provisions substituting reference to punishment under subsec. (b) for reference to fine or imprisonment of not more than one year.
 
-Subsec. (b). Pub. L. 107–188, §336(b), amended subsec. (b) generally, substituting "Penalties" for "Aggravated Offense" in heading and list of penalties for property damage, personal injury and death for reference to serious bodily injury and death in text.
+Subsec. (b). Pub. L. 107–188, §336(b), amended subsec. (b) generally, substituting "Penalties" for "Aggravated Offense" in heading and list of penalties for propertydamage, personal injury and death for reference to serious bodily injury and death in text.
 
 Subsec. (c)(3). Pub. L. 107–188, §336(c), added par. (3).
 

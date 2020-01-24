@@ -16,7 +16,7 @@
 
 (d) This section does not apply to a fishing or whaling vessel or a yacht.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 571; Pub. L. 99–640, §10(b)(4), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 103–206, title IV, §414, Dec. 20, 1993, 107 Stat. 2437.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 571; Pub. L. 99–640, §10(b)(4), Nov. 10, 1986, 100 Stat. 3550; Pub.L. 103–206, title IV, §414, Dec. 20, 1993, 107 Stat. 2437.)
 
 Historical and Revision Notes
 

@@ -46,7 +46,7 @@ The records of the Department of State and of diplomatic and consular offices of
 
 Notwithstanding any other provision of this chapter, the Secretary of State shall require every alien applying for a nonimmigrant visa—
 
-&emsp;(1) who is at least 14 years of age and not more than 79 years of age to submit to an in person interview with a consular officer unless the requirement for such interview is waived—
+&emsp;(1) who is at least 14 years of age and not more than 79 years of age to submit to an inperson interview with a consular officer unless the requirement for such interview is waived—
 
 &emsp;&emsp;(A) by a consular official and such alien is—
 

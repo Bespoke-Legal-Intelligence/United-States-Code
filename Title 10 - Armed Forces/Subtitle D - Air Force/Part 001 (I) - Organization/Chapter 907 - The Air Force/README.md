@@ -4,12 +4,12 @@
 | :--- | ---: |
 | [9061\.](%C2%A7%2009061%20-%20Regulations.md) | Regulations. |
 | [9062\.](%C2%A7%2009062%20-%20Policy%3B%20composition%3B%20aircraft%20authorization.md) | Policy; composition; aircraft authorization. |
-| [9067\.](%C2%A7%2009067%20-%20Designation%20officers%20to%20perform%20certain%20professional%20functions.md) | Designation: officers to perform certain professional functions. |
-| [9069\.](%C2%A7%2009069%20-%20Air%20Force%20nurses%20Chief%3B%20appointment.md) | Air Force nurses: Chief; appointment. |
-| [9074\.](%C2%A7%2009074%20-%20Commands%20territorial%20organization.md) | Commands: territorial organization. |
-| [9075\.](%C2%A7%2009075%20-%20Regular%20Air%20Force%20composition.md) | Regular Air Force: composition. |
-| [9081\.](%C2%A7%2009081%20-%20Assistant%20Surgeon%20General%20for%20Dental%20Services.md) | Assistant Surgeon General for Dental Services. |
-| [9084\.](%C2%A7%2009084%20-%20Officer%20career%20field%20for%20space.md) | Officer career field for space. |
+| [9063\.](%C2%A7%2009063%20-%20Designation%20officers%20to%20perform%20certain%20professional%20functions.md) | Designation: officers to perform certain professional functions. |
+| [9064\.](%C2%A7%2009064%20-%20Air%20Force%20nurses%20Chief%3B%20appointment.md) | Air Force nurses: Chief; appointment. |
+| [9065\.](%C2%A7%2009065%20-%20Commands%20territorial%20organization.md) | Commands: territorial organization. |
+| [9066\.](%C2%A7%2009066%20-%20Regular%20Air%20Force%20composition.md) | Regular Air Force: composition. |
+| [9067\.](%C2%A7%2009067%20-%20Assistant%20Surgeon%20General%20for%20Dental%20Services.md) | Assistant Surgeon General for Dental Services. |
+| \[9069, 9074, 9075, 9081, 9084. Renumbered.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -18,6 +18,8 @@
 A prior chapter 907, consisting of sections 9411 to 9417, related to schools and camps, prior to renumbering as chapter 957 of this title.
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title IX, §952(g), Dec. 20, 2019, 133 Stat. 1563, added items 9063 to 9067 and struck out former item 9067 "Designation: officers to perform certain professional functions" and items 9069 "Air Force nurses: Chief; appointment", 9074 "Commands: territorial organization", 9075 "Regular Air Force: composition", 9081 "Assistant Surgeon General for Dental Services", and 9084 "Officer career field for space".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(d)(4), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 807 of this title as this chapter and items 8061, 8062, 8067, 8069, 8074, 8075, 8081, and 8084 as 9061, 9062, 9067, 9069, 9074, 9075, 9081, and 9084, respectively.
 
@@ -50,9 +52,8 @@ Pub. L. 96–343, §12(b)(2), Sept. 8, 1980, 94 Stat. 1131, substituted "General
 
 - [&sect; 09061 - Regulations](%C2%A7%2009061%20-%20Regulations.md)
 - [&sect; 09062 - Policy; composition; aircraft authorization](%C2%A7%2009062%20-%20Policy%3B%20composition%3B%20aircraft%20authorization.md)
-- [&sect; 09067 - Designation officers to perform certain professional functions](%C2%A7%2009067%20-%20Designation%20officers%20to%20perform%20certain%20professional%20functions.md)
-- [&sect; 09069 - Air Force nurses Chief; appointment](%C2%A7%2009069%20-%20Air%20Force%20nurses%20Chief%3B%20appointment.md)
-- [&sect; 09074 - Commands territorial organization](%C2%A7%2009074%20-%20Commands%20territorial%20organization.md)
-- [&sect; 09075 - Regular Air Force composition](%C2%A7%2009075%20-%20Regular%20Air%20Force%20composition.md)
-- [&sect; 09081 - Assistant Surgeon General for Dental Services](%C2%A7%2009081%20-%20Assistant%20Surgeon%20General%20for%20Dental%20Services.md)
-- [&sect; 09084 - Officer career field for space](%C2%A7%2009084%20-%20Officer%20career%20field%20for%20space.md)
+- [&sect; 09063 - Designation officers to perform certain professional functions](%C2%A7%2009063%20-%20Designation%20officers%20to%20perform%20certain%20professional%20functions.md)
+- [&sect; 09064 - Air Force nurses Chief; appointment](%C2%A7%2009064%20-%20Air%20Force%20nurses%20Chief%3B%20appointment.md)
+- [&sect; 09065 - Commands territorial organization](%C2%A7%2009065%20-%20Commands%20territorial%20organization.md)
+- [&sect; 09066 - Regular Air Force composition](%C2%A7%2009066%20-%20Regular%20Air%20Force%20composition.md)
+- [&sect; 09067 - Assistant Surgeon General for Dental Services](%C2%A7%2009067%20-%20Assistant%20Surgeon%20General%20for%20Dental%20Services.md)

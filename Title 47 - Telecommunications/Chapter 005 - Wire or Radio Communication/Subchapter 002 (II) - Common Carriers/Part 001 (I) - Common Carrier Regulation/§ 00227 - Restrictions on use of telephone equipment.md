@@ -116,9 +116,17 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(IV) determine whether with respect to small businesses, the costs would not be unduly burdensome; and
 
-&emsp;&emsp;(ii) may not commence a proceeding to determine whether to limit the duration of the existence of an established business relationship before the expiration of the 3-month period that begins on July 9, 2005; and
+&emsp;&emsp;(ii) may not commence a proceeding to determine whether to limit the duration of the existence of an established business relationship before the expiration of the 3-month period that begins on July 9, 2005;
 
-&emsp;&emsp;(H) may restrict or limit the number and duration of calls made to a telephone number assigned to a cellular telephone service to collect a debt owed to or guaranteed by the United States.
+&emsp;&emsp;(H) may restrict or limit the number and duration of calls made to a telephone number assigned to a cellular telephone service to collect a debt owed to or guaranteed by the United States; and
+
+&emsp;&emsp;(I) shall ensure that any exemption under subparagraph (B) or (C) contains requirements for calls made in reliance on the exemption with respect to—
+
+&emsp;&emsp;&emsp;(i) the classes of parties that may make such calls;
+
+&emsp;&emsp;&emsp;(ii) the classes of parties that may be called; and
+
+&emsp;&emsp;&emsp;(iii) the number of such calls that a calling party may make to a particular called party.
 
 #### (3) Private right of action
 
@@ -131,6 +139,36 @@ As used in this section—
 &emsp;&emsp;(C) both such actions.
 
 > &emsp;If the court finds that the defendant willfully or knowingly violated this subsection or the regulations prescribed under this subsection, the court may, in its discretion, increase the amount of the award to an amount equal to not more than 3 times the amount available under subparagraph (B) of this paragraph.
+
+#### (4) Civil forfeiture
+
+#### (A) In general
+
+&emsp;&emsp;Any person that is determined by the Commission, in accordance with paragraph (3) or (4) of section 503(b) of this title, to have violated this subsection shall be liable to the United States for a forfeiture penalty pursuant to section 503(b)(1) of this title. Paragraph (5) of section 503(b) of this title shall not apply in the case of a violation of this subsection. A forfeiture penalty under this subparagraph shall be in addition to any other penalty provided for by this chapter. The amount of the forfeiture penalty determined under this subparagraph shall be determined in accordance with subparagraphs (A) through (F) of section 503(b)(2) of this title.
+
+#### (B) Violation with intent
+
+&emsp;&emsp;Any person that is determined by the Commission, in accordance with paragraph (3) or (4) of section 503(b) of this title, to have violated this subsection with the intent to cause such violation shall be liable to the United States for a forfeiture penalty pursuant to section 503(b)(1) of this title. Paragraph (5) of section 503(b) of this title shall not apply in the case of a violation of this subsection. A forfeiture penalty under this subparagraph shall be in addition to any other penalty provided for by this chapter. The amount of the forfeiture penalty determined under this subparagraph shall be equal to an amount determined in accordance with subparagraphs (A) through (F) of section 503(b)(2) of this title plus an additional penalty not to exceed $10,000.
+
+#### (C) Recovery
+
+&emsp;&emsp;Any forfeiture penalty determined under subparagraph (A) or (B) shall be recoverable under section 504(a) of this title.
+
+#### (D) Procedure
+
+&emsp;&emsp;No forfeiture liability shall be determined under subparagraph (A) or (B) against anyperson unless such person receives the notice required by section 503(b)(3) of this title or section 503(b)(4) of this title.
+
+#### (E) Statute of limitations
+
+&emsp;&emsp;Notwithstanding paragraph (6) of section 503(b) of this title, no forfeiture penalty shall be determined or imposed against any person—
+
+&emsp;&emsp;&emsp;(i) under subparagraph (A) if the violation charged occurred more than 1 year prior to the date of issuance of the required notice or notice of apparent liability; or
+
+&emsp;&emsp;&emsp;(ii) under subparagraph (B) if the violation charged occurred more than 4 years prior to the date of issuance of the required notice or notice of apparent liability.
+
+#### (F) Rule of construction
+
+&emsp;&emsp;Notwithstanding any law to the contrary, the Commission may not determine or impose a forfeiture penalty on a person under both subparagraphs (A) and (B) based on the same conduct.
 
 #### (c) Protection of subscriber privacy rights
 
@@ -218,7 +256,7 @@ As used in this section—
 
 &emsp;It shall be unlawful for any person within the United States—
 
-&emsp;&emsp;(A) to initiate any communication using a telephone facsimile machine, or to make anytelephone call using any automatic telephone dialing system, that does not comply with the technical and procedural standards prescribed under this subsection, or to use any telephone facsimile machine or automatic telephone dialing system in a manner that does not comply with such standards; or
+&emsp;&emsp;(A) to initiate any communication using a telephone facsimile machine, or to make any telephone call using any automatic telephone dialing system, that does not comply with the technical and procedural standards prescribed under this subsection, or to use any telephone facsimile machine or automatic telephone dialing system in a manner that does not comply with such standards; or
 
 &emsp;&emsp;(B) to use a computer or other electronic device to send any message via a telephone facsimile machine unless such person clearly marks, in a margin at the top or bottom of each transmitted page of the message or on the first page of the transmission, the date and time it is sent and an identification of the business, other entity, or individual sending the message and the telephone number of the sending machine or of such business, other entity, or individual.
 
@@ -234,11 +272,11 @@ As used in this section—
 
 &emsp;&emsp;(B) any such system will automatically release the called party's line within 5 seconds of the time notification is transmitted to the system that the called party has hung up, to allow the called party's line to be used to make or receive other calls.
 
-#### (e) Prohibition on provision of inaccurate caller identification information
+#### (e) Prohibition on provision of misleading or inaccurate caller identification information
 
 #### (1) In general
 
-&emsp;It shall be unlawful for any person within the United States, in connection with any telecommunications service or IP-enabled voice service, to cause any caller identification service to knowingly transmit misleading or inaccurate caller identification information with the intent to defraud, cause harm, or wrongfully obtain anything of value, unless such transmission is exempted pursuant to paragraph (3)(B).
+&emsp;It shall be unlawful for any person within the United States, or any person outside theUnited States if the recipient is within the United States, in connection with any voice service or text messaging service, to cause any caller identification service to knowingly transmit misleading or inaccurate caller identification information with the intent to defraud, cause harm, or wrongfully obtain anything of value, unless such transmission is exempted pursuant to paragraph (3)(B).
 
 #### (2) Protection for blocking caller identification information
 
@@ -248,7 +286,7 @@ As used in this section—
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 6 months after December 22, 2010, the Commission shall prescribe regulations to implement this subsection.
+&emsp;&emsp;The Commission shall prescribe regulations to implement this subsection.
 
 #### (B) Content of regulations
 
@@ -276,15 +314,15 @@ As used in this section—
 
 #### (ii) Recovery
 
-&emsp;&emsp;&emsp;Any forfeiture penalty determined under clause (i) shall be recoverable pursuant to section 504(a) of this title.
+&emsp;&emsp;&emsp;Any forfeiture penalty determined under clause (i) shall be recoverable pursuant to section 504(a) of this title. Paragraph (5) of section 503(b) of this title shall not apply in the case of a violation of this subsection.
 
 #### (iii) Procedure
 
 &emsp;&emsp;&emsp;No forfeiture liability shall be determined under clause (i) against any person unless such person receives the notice required by section 503(b)(3) of this title or section 503(b)(4) of this title.
 
-#### (iv) 2-year statute of limitations
+#### (iv) 4-year statute of limitations
 
-&emsp;&emsp;&emsp;No forfeiture penalty shall be determined or imposed against any person under clause (i) if the violation charged occurred more than 2 years prior to the date of issuance of the required notice or notice or apparent liability.
+&emsp;&emsp;&emsp;No forfeiture penalty shall be determined or imposed against any person under clause (i) if the violation charged occurred more than 4 years prior to the date of issuance of the required notice or notice or apparent liability.
 
 #### (B) Criminal fine
 
@@ -312,7 +350,7 @@ As used in this section—
 
 #### (D) Construction
 
-&emsp;&emsp;For purposes of bringing any civil action under subparagraph (A), nothing in this paragraph shall prevent the chief legal officer or other State officer from exercising the powers conferred on that officer by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
+&emsp;&emsp;For purposes of bringing any civil action under subparagraph (A), nothing in this paragraph shall prevent the chief legal officer or other State officer from exercising thepowers conferred on that officer by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
 
 #### (E) Venue; service or process
 
@@ -338,15 +376,37 @@ As used in this section—
 
 #### (A) Caller identification information
 
-&emsp;&emsp;The term "caller identification information" means information provided by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or IP-enabled voice service.
+&emsp;&emsp;The term "caller identification information" means information provided by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a voice service or a text message sent using a text messaging service.
 
 #### (B) Caller identification service
 
-&emsp;&emsp;The term "caller identification service" means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or IP-enabled voice service. Such term includes automatic number identification services.
+&emsp;&emsp;The term "caller identification service" means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a voice service or a text message sent using a text messaging service. Such term includes automatic number identification services.
 
-#### (C) IP-enabled voice service
+#### (C) Text message
 
-&emsp;&emsp;The term "IP-enabled voice service" has the meaning given that term by section 9.3 of the Commission's regulations (47 C.F.R. 9.3), as those regulations may be amended by the Commission from time to time.
+&emsp;&emsp;The term "text message"—
+
+&emsp;&emsp;&emsp;(i) means a message consisting of text, images, sounds, or other information that is transmitted to or from a device that is identified as the receiving or transmitting device by means of a 10-digit telephone number or N11 service code;
+
+&emsp;&emsp;&emsp;(ii) includes a short message service (commonly referred to as "SMS") message and a multimedia message service (commonly referred to as "MMS") message; and
+
+&emsp;&emsp;&emsp;(iii) does not include—
+
+&emsp;&emsp;&emsp;&emsp;(I) a real-time, two-way voice or video communication; or
+
+&emsp;&emsp;&emsp;&emsp;(II) a message sent over an IP-enabled messaging service to another user of the same messaging service, except a message described in clause (ii).
+
+#### (D) Text messaging service
+
+&emsp;&emsp;The term "text messaging service" means a service that enables the transmission or receipt of a text message, including a service provided as part of or in connection with a voice service.
+
+#### (E) Voice service
+
+&emsp;&emsp;The term "voice service"—
+
+&emsp;&emsp;&emsp;(i) means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of this title; and
+
+&emsp;&emsp;&emsp;(ii) includes transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine.
 
 #### (9) Limitation
 
@@ -368,13 +428,13 @@ As used in this section—
 
 #### (2) State use of databases
 
-&emsp;If, pursuant to subsection (c)(3), the Commission requires the establishment of a singlenational database of telephone numbers of subscribers who object to receiving telephone solicitations, a State or local authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
+&emsp;If, pursuant to subsection (c)(3), the Commission requires the establishment of a single national database of telephone numbers of subscribers who object to receiving telephone solicitations, a State or local authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
 
 #### (g) Actions by States
 
 #### (1) Authority of States
 
-&emsp;Whenever the attorney general of a State, or an official or agency designated by a State, has reason to believe that any person has engaged or is engaging in a pattern or practice of telephone calls or other transmissions to residents of that State in violation of this section or the regulations prescribed under this section, the State may bring a civil action on behalf of its residents to enjoin such calls, an action to recover for actual monetary loss or receive $500 in damages for each violation, or both such actions. If the court finds the defendant willfully or knowingly violated such regulations, the court may, in its discretion, increase the amount of the award to an amount equal to not more than 3 times the amount available under the preceding sentence.
+&emsp;Whenever the attorney general of a State, or an official or agency designated by a State, has reason to believe that any person has engaged or is engaging in a pattern or practice of telephone calls or other transmissions to residents of that State in violation of this sectionor the regulations prescribed under this section, the State may bring a civil action on behalf of its residents to enjoin such calls, an action to recover for actual monetary loss or receive $500 in damages for each violation, or both such actions. If the court finds the defendant willfully or knowingly violated such regulations, the court may, in its discretion, increase the amount of the award to an amount equal to not more than 3 times the amount available under the preceding sentence.
 
 #### (2) Exclusive jurisdiction of Federal courts
 
@@ -404,201 +464,95 @@ As used in this section—
 
 &emsp;As used in this subsection, the term "attorney general" means the chief legal officer of a State.
 
-#### (h) Junk fax enforcement report
+#### (h) Annual report to Congress on robocalls and transmission of misleading or inaccurate caller identification information
 
-The Commission shall submit an annual report to Congress regarding the enforcement during the past year of the provisions of this section relating to sending of unsolicited advertisements to telephone facsimile machines, which report shall include—
+#### (1) Report required
 
-&emsp;(1) the number of complaints received by the Commission during such year alleging that a consumer received an unsolicited advertisement via telephone facsimile machine in violation of the Commission's rules;
+&emsp;Not later than 1 year after December 30, 2019, and annually thereafter, the Commission, after consultation with the Federal Trade Commission, shall submit to Congress a report regarding enforcement by the Commission of subsections (b), (c), (d), and (e) during the preceding calendar year.
 
-&emsp;(2) the number of citations issued by the Commission pursuant to section 503 of this title during the year to enforce any law, regulation, or policy relating to sending of unsolicited advertisements to telephone facsimile machines;
+#### (2) Matters for inclusion
 
-&emsp;(3) the number of notices of apparent liability issued by the Commission pursuant to section 503 of this title during the year to enforce any law, regulation, or policy relating to sending of unsolicited advertisements to telephone facsimile machines;
+&emsp;Each report required by paragraph (1) shall include the following:
 
-&emsp;(4) for each notice referred to in paragraph (3)—
+&emsp;&emsp;(A) The number of complaints received by the Commission during each of the preceding 5 calendar years, for each of the following categories:
 
-&emsp;&emsp;(A) the amount of the proposed forfeiture penalty involved;
+&emsp;&emsp;&emsp;(i) Complaints alleging that a consumer received a call in violation of subsection (b) or (c).
 
-&emsp;&emsp;(B) the person to whom the notice was issued;
+&emsp;&emsp;&emsp;(ii) Complaints alleging that a consumer received a call in violation of the standards prescribed under subsection (d).
 
-&emsp;&emsp;(C) the length of time between the date on which the complaint was filed and the date on which the notice was issued; and
+&emsp;&emsp;&emsp;(iii) Complaints alleging that a consumer received a call in connection with which misleading or inaccurate caller identification information was transmitted in violation of subsection (e).
 
-&emsp;&emsp;(D) the status of the proceeding;
+&emsp;&emsp;(B) The number of citations issued by the Commission pursuant to section 503(b) of this title during the preceding calendar year to enforce subsection (d), and details of each such citation.
 
-&emsp;(5) the number of final orders imposing forfeiture penalties issued pursuant to section 503 of this title during the year to enforce any law, regulation, or policy relating to sendingof unsolicited advertisements to telephone facsimile machines;
+&emsp;&emsp;(C) The number of notices of apparent liability issued by the Commission pursuant to section 503(b) of this title during the preceding calendar year to enforce subsections (b), (c), (d), and (e), and details of each such notice including any proposed forfeiture amount.
 
-&emsp;(6) for each forfeiture order referred to in paragraph (5)—
+&emsp;&emsp;(D) The number of final orders imposing forfeiture penalties issued pursuant to section 503(b) of this title during the preceding calendar year to enforce such subsections, and details of each such order including the forfeiture imposed.
 
-&emsp;&emsp;(A) the amount of the penalty imposed by the order;
+&emsp;&emsp;(E) The amount of forfeiture penalties or criminal fines collected, during the preceding calendar year, by the Commission or the Attorney General for violations of such subsections, and details of each case in which such a forfeiture penalty or criminal fine was collected.
 
-&emsp;&emsp;(B) the person to whom the order was issued;
+&emsp;&emsp;(F) Proposals for reducing the number of calls made in violation of such subsections.
 
-&emsp;&emsp;(C) whether the forfeiture penalty has been paid; and
+&emsp;&emsp;(G) An analysis of the contribution by providers of interconnected VoIP service and non-interconnected VoIP service that discount high-volume, unlawful, short-duration calls to the total number of calls made in violation of such subsections, and recommendations on how to address such contribution in order to decrease the total number of calls made in violation of such subsections.
 
-&emsp;&emsp;(D) the amount paid;
+#### (3) No additional reporting required
 
-&emsp;(7) for each case in which a person has failed to pay a forfeiture penalty imposed by such a final order, whether the Commission referred such matter for recovery of the penalty; and
+&emsp;The Commission shall prepare the report required by paragraph (1) without requiring the provision of additional information from providers of telecommunications service or voice service (as defined in section 227b(a) of this title).
 
-&emsp;(8) for each case in which the Commission referred such an order for recovery—
+#### (i) Information sharing
 
-&emsp;&emsp;(A) the number of days from the date the Commission issued such order to the date of such referral;
+#### (1) In general
 
-&emsp;&emsp;(B) whether an action has been commenced to recover the penalty, and if so, the number of days from the date the Commission referred such order for recovery to the date of such commencement; and
+&emsp;Not later than 18 months after December 30, 2019, the Commission shall prescribe regulations to establish a process that streamlines the ways in which a private entity may voluntarily share with the Commission information relating to—
 
-&emsp;&emsp;(C) whether the recovery action resulted in collection of any amount, and if so, the amount collected.
+&emsp;&emsp;(A) a call made or a text message sent in violation of subsection (b); or
 
-(June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 108–187, §12, Dec. 16, 2003, 117 Stat. 2717; Pub. L. 109–21, §§2(a)–(g), 3, July 9, 2005, 119 Stat. 359–362; Pub. L. 111–331, §2, Dec. 22, 2010, 124 Stat. 3572; Pub. L. 114–74, title III, §301(a), Nov. 2, 2015, 129 Stat. 588; Pub. L. 115–141, div. P, title IV, §402(i)(3), title V, §503(a)(1)–(4)(A), Mar. 23, 2018, 132 Stat. 1089, 1091, 1092.)
+&emsp;&emsp;(B) a call or text message for which misleading or inaccurate caller identification information was caused to be transmitted in violation of subsection (e).
 
-#### Amendment of Subsection (e)
+#### (2) Text message defined
 
-<i>Pub. L. 115–141, div. P, title V, §503(a)(1)–(4)(A), (5), Mar. 23, 2018, 132 Stat. 1091, 1092, provided that, effective on the date that is 6 months after the date on which the Federal Communications Commission prescribes regulations under paragraph (4) (set out as a Regulations note under this section), subsection (e) of this section is amended, and after such effective date, subsection (e) of this section will read as follows:</i>
+&emsp;In this subsection, the term "text message" has the meaning given such term in subsection (e)(8).
 
-#### <i>(e) Prohibition on provision of misleading or inaccurate caller identification information</i>
+#### (j) Robocall blocking service
 
-#### <i>(1) In general</i>
+#### (1) In general
 
-&emsp;<i>It shall be unlawful for any person within the United States, or any person outside the United States if the recipient is within the United States, in connection with any voice service or text messaging service, to cause any caller identification service to knowingly transmit misleading or inaccurate caller identification information with the intent to defraud, cause harm, or wrongfully obtain anything of value, unless such transmission is exempted pursuant to paragraph (3)(B).</i>
+&emsp;Not later than 1 year after December 30, 2019, the Commission shall take a final agency action to ensure the robocall blocking services provided on an opt-out or opt-in basis pursuant to the Declaratory Ruling of the Commission in the matter of Advanced Methods to Target and Eliminate Unlawful Robocalls (CG Docket No. 17–59; FCC 19–51; adopted on June 6, 2019)—
 
-#### <i>(2) Protection for blocking caller identification information</i>
+&emsp;&emsp;(A) are provided with transparency and effective redress options for both—
 
-&emsp;<i>Nothing in this subsection may be construed to prevent or restrict any person from blocking the capability of any caller identification service to transmit caller identification information.</i>
+&emsp;&emsp;&emsp;(i) consumers; and
 
-#### <i>(3) Regulations</i>
+&emsp;&emsp;&emsp;(ii) callers; and <sup>2</sup>
 
-#### <i>(A) In general</i>
+&emsp;&emsp;(B) are provided with no additional line item charge to consumers and no additional charge to callers for resolving complaints related to erroneously blocked calls; and
 
-&emsp;&emsp;<i>The Commission shall prescribe regulations to implement this subsection.</i>
+&emsp;&emsp;(C) make all reasonable efforts to avoid blocking emergency public safety calls.
 
-#### <i>(B) Content of regulations</i>
+#### (2) Text message defined
 
-#### <i>(i) In general</i>
+&emsp;In this subsection, the term "text message" has the meaning given such term in subsection (e)(8).
 
-&emsp;&emsp;&emsp;<i>The regulations required under subparagraph (A) shall include such exemptions from the prohibition under paragraph (1) as the Commission determines is appropriate.</i>
-
-#### <i>(ii) Specific exemption for law enforcement agencies or court orders</i>
-
-&emsp;&emsp;&emsp;<i>The regulations required under subparagraph (A) shall exempt from the prohibition under paragraph (1) transmissions in connection with—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) any authorized activity of a law enforcement agency; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) a court order that specifically authorizes the use of caller identification manipulation.</i>
-
-#### <i>(4) Repealed. Pub. L. 115–141, div. P, title IV, §402(i)(3), Mar. 23, 2018, 132 Stat. 1089</i>
-
-#### <i>(5) Penalties</i>
-
-#### <i>(A) Civil forfeiture</i>
-
-#### <i>(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>Any person that is determined by the Commission, in accordance with paragraphs (3) and (4) of section 503(b) of this title, to have violated this subsection shall be liable to the United States for a forfeiture penalty. A forfeiture penalty under this paragraph shall be in addition to any other penalty provided for by this chapter. The amount of the forfeiture penalty determined under this paragraph shall not exceed $10,000 for each violation, or 3 times that amount for each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $1,000,000 for any single act or failure to act.</i>
-
-#### <i>(ii) Recovery</i>
-
-&emsp;&emsp;&emsp;<i>Any forfeiture penalty determined under clause (i) shall be recoverable pursuant to section 504(a) of this title.</i>
-
-#### <i>(iii) Procedure</i>
-
-&emsp;&emsp;&emsp;<i>No forfeiture liability shall be determined under clause (i) against any person unless such person receives the notice required by section 503(b)(3) of this title or section 503(b)(4) of this title.</i>
-
-#### <i>(iv) 2-year statute of limitations</i>
-
-&emsp;&emsp;&emsp;<i>No forfeiture penalty shall be determined or imposed against any person under clause (i) if the violation charged occurred more than 2 years prior to the date of issuance of the required notice or notice or apparent liability.</i>
-
-#### <i>(B) Criminal fine</i>
-
-&emsp;&emsp;<i>Any person who willfully and knowingly violates this subsection shall upon conviction thereof be fined not more than $10,000 for each violation, or 3 times that amount for each day</i><i>of a continuing violation, in lieu of the fine provided by section 501 of this title for such a violation. This subparagraph does not supersede the provisions of section 501 of this title relating to imprisonment or the imposition of a penalty of both fine and imprisonment.</i>
-
-#### <i>(6) Enforcement by States</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>The chief legal officer of a State, or any other State officer authorized by law to bring actions on behalf of the residents of a State, may bring a civil action, as parens patriae, on behalf of the residents of that State in an appropriate district court of the United States to enforce this subsection or to impose the civil penalties for violation of this subsection, whenever the chief legal officer or other State officer has reason to believe that the interests of the residents of the State have been or are being threatened or adversely affected by a violation of this subsection or a regulation under this subsection.</i>
-
-#### <i>(B) Notice</i>
-
-&emsp;&emsp;<i>The chief legal officer or other State officer shall serve written notice on the Commission of any civil action under subparagraph (A) prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action, except that if it is not feasible for the State to provide such prior notice, the State shall provide such notice immediately upon instituting such civil action.</i>
-
-#### <i>(C) Authority to intervene</i>
-
-&emsp;&emsp;<i>Upon receiving the notice required by subparagraph (B), the Commission shall have the right—</i>
-
-&emsp;&emsp;&emsp;<i>(i) to intervene in the action;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) upon so intervening, to be heard on all matters arising therein; and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) to file petitions for appeal.</i>
-
-#### <i>(D) Construction</i>
-
-&emsp;&emsp;<i>For purposes of bringing any civil action under subparagraph (A), nothing in this paragraph shall prevent the chief legal officer or other State officer from exercising the powers conferred on that officer by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.</i>
-
-#### <i>(E) Venue; service or process</i>
-
-#### <i>(i) Venue</i>
-
-&emsp;&emsp;&emsp;<i>An action brought under subparagraph (A) shall be brought in a district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28.</i>
-
-#### <i>(ii) Service of process</i>
-
-&emsp;&emsp;&emsp;<i>In an action brought under subparagraph (A)—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) process may be served without regard to the territorial limits of the district or of the State in which the action is instituted; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) a person who participated in an alleged violation that is being litigated in the civil action may be joined in the civil action without regard to the residence of the person.</i>
-
-#### <i>(7) Effect on other laws</i>
-
-&emsp;<i>This subsection does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States.</i>
-
-#### <i>(8) Definitions</i>
-
-&emsp;<i>For purposes of this subsection:</i>
-
-#### <i>(A) Caller identification information</i>
-
-&emsp;&emsp;<i>The term "caller identification information" means information provided by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a voice service or a text message sent using a text messaging service.</i>
-
-#### <i>(B) Caller identification service</i>
-
-&emsp;&emsp;<i>The term "caller identification service" means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a voice service or a text message sent using a text messaging service. Such term includes automatic number identification services.</i>
-
-#### <i>(C) Text message</i>
-
-&emsp;&emsp;<i>The term "text message"—</i>
-
-&emsp;&emsp;&emsp;<i>(i) means a message consisting of text, images, sounds, or other information that is transmitted to or from a device that is identified as the receiving or transmitting device by means of a 10-digit telephone number or N11 service code;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) includes a short message service (commonly referred to as "SMS") message and a multimedia message service (commonly referred to as "MMS") message; and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) does not include—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) a real-time, two-way voice or video communication; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) a message sent over an IP-enabled messaging service to another user of the same messaging service, except a message described in clause (ii).</i>
-
-#### <i>(D) Text messaging service</i>
-
-&emsp;&emsp;<i>The term "text messaging service" means a service that enables the transmission or receipt of a text message, including a service provided as part of or in connection with a voice service.</i>
-
-#### <i>(E) Voice service</i>
-
-&emsp;&emsp;<i>The term "voice service"—</i>
-
-&emsp;&emsp;&emsp;<i>(i) means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of this title; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) includes transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine.</i>
-
-#### <i>(9) Limitation</i>
-
-&emsp;<i>Notwithstanding any other provision of this section, subsection (f) shall not apply to this sub</i><i>section or to the regulations under this subsection.</i>
-
-<i>See 2018 Amendment notes below.</i>
+(June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 108–187, §12, Dec. 16, 2003, 117 Stat. 2717; Pub. L. 109–21, §§2(a)–(g), 3, July 9, 2005, 119 Stat. 359–362; Pub. L. 111–331, §2, Dec. 22, 2010, 124 Stat. 3572; Pub. L. 114–74, title III, §301(a), Nov. 2, 2015, 129 Stat. 588; Pub. L. 115–141, div. P, title IV, §402(i)(3), title V, §503(a)(1)–(4)(A), Mar. 23, 2018, 132 Stat. 1089, 1091, 1092; Pub. L. 116–105, §§3(a), 8(a), 10(a), (b), Dec. 30, 2019, 133 Stat. 3274, 3283, 3284.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(5)(A)(i), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsecs. (b)(4)(A), (B) and (e)(5)(A)(i), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(2)(I). Pub. L. 116–105, §8(a), added subpar. (I).
+
+Subsec. (b)(4). Pub. L. 116–105, §3(a)(1), added par. (4).
+
+Subsec. (e)(5)(A)(ii). Pub. L. 116–105, §3(a)(2)(A), inserted at end "Paragraph (5) of section 503(b) of this title shall not apply in the case of a violation of this subsection."
+
+Subsec. (e)(5)(A)(iv). Pub. L. 116–105, §3(a)(2)(B), substituted "4-year" for "2-year" in heading and "4 years" for "2 years" in text.
+
+Subsec. (h). Pub. L. 116–105, §3(a)(3), added subsec. (h) and struck out former subsec. (h) which related to annual junk fax enforcement report.
+
+Subsec. (i). Pub. L. 116–105, §10(a), added subsec. (i).
+
+Subsec. (j). Pub. L. 116–105, §10(b), added subsec. (j).
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–141, §503(a)(3), inserted "misleading or" before "inaccurate" in heading.
 
@@ -638,9 +592,13 @@ Subsec. (e)(2). Pub. L. 103–414, §303(a)(12), substituted "national database"
 
 <b>1992</b>—Subsec. (b)(2)(C). Pub. L. 102–556 added subpar. (C).
 
+#### Effective Date of 2019 Amendment; Applicability
+
+Pub. L. 116–105, §3(b), Dec. 30, 2019, 133 Stat. 3276, provided that: "The amendments made by this section \[amending this section\] shall not affect any action or proceeding commenced before and pending on the date of the enactment of this Act \[Dec. 30, 2019\]."
+
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–141, div. P, title V, §503(a)(5), Mar. 23, 2018, 132 Stat. 1092, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the date that is 6 months after the date on which the Commission \[Federal Communications Commission\] prescribes regulations under paragraph (4) \[set out as a note under this section\]."
+Pub. L. 115–141, div. P, title V, §503(a)(5), Mar. 23, 2018, 132 Stat. 1092, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the date that is 6 months after the date on which the Commission \[Federal Communications Commission\] prescribes regulations under paragraph (4) \[set out as a note under this section\]." \[Regulations adopted by Order of Federal Communications Commission released Aug. 5, 2019, with final rule effective Feb. 5, 2020, see 84 F.R. 45669.\]
 
 #### Effective Date of 2003 Amendment
 
@@ -660,11 +618,19 @@ Effective date.—The requirements of section 227 of the Communications Act of 1
 
 #### Regulations
 
+Pub. L. 116–105, §3(c), Dec. 30, 2019, 133 Stat. 3276, provided that: "The Commission \[Federal Communications Commission\] shall prescribe regulations to implement the amendments made by this section \[amending this section\] not later than 270 days after the date of the enactment of this Act \[Dec. 30, 2019\]."
+
+Pub. L. 116–105, §8(b), Dec. 30, 2019, 133 Stat. 3283, provided that: "In the case of any exemption issued under subparagraph (B) or (C) of section 227(b)(2) of the Communications Act of 1934 (47 U.S.C. 227(b)(2)) before the date of the enactment of this Act \[Dec. 30, 2019\], the Commission \[Federal Communications Commission\] shall, not later than 1 year after such date of enactment, prescribe such regulations, or amend such existing regulations, as necessary to ensure that such exemption contains each requirement described in subparagraph (I) of such section, as added by subsection (a). To the extent such an exemption contains such a requirement before such date of enactment, nothing in this section \[amending this section\] or the amendments made by this section shall be construed to require the Commission to prescribe or amend regulations relating to such requirement."
+
 Pub. L. 115–141, div. P, title V, §503(a)(4)(B), Mar. 23, 2018, 132 Stat. 1092, provided that: "The Commission \[Federal Communications Commission\] shall prescribe regulations to implement the amendments made by this subsection \[amending this section\] not later than 18 months after the date of enactment of this Act \[Mar. 23, 2018\]."
 
 Pub. L. 114–74, title III, §301(b), Nov. 2, 2015, 129 Stat. 588, provided that: "Not later than 9 months after the date of enactment of this Act \[Nov. 2, 2015\], the Federal Communications Commission, in consultation with the Department of the Treasury, shall prescribe regulations to implement the amendments made by this section \[amending this secton\]."
 
 Pub. L. 109–21, §2(h), July 9, 2005, 119 Stat. 362, provided that: "Except as provided in section 227(b)(2)(G)(ii) of the Communications Act of 1934 \[47 U.S.C. 227(b)(2)(G)(ii)\] (as added by subsection (f)), not later than 270 days after the date of enactment of this Act \[July 9, 2005\], the Federal Communications Commission shall issue regulations to implement the amendments made by this section."
+
+#### Separability
+
+Pub. L. 116–105, §15, Dec. 30, 2019, 133 Stat. 3290, provided that: "If any provision of this Act \[see Short Title of 2019 Amendment note set out under section 609 of this title\], the amendments made by this Act, or the application thereof to any person or circumstance is held invalid, the remainder of this Act, the amendments made by this Act, and the application of such provision to other persons or circumstances shall not be affected thereby."
 
 #### Construction
 
@@ -673,6 +639,222 @@ Pub. L. 115–141, div. P, title V, §503(d), Mar. 23, 2018, 132 Stat. 1094, pro
 &emsp;"(1) the Telephone Consumer Protection Act of 1991 (Public Law 102–243; 105 Stat. 2394) \[see Short Title of 1991 Amendment note set out under section 609 of this title\] or the amendments made by that Act; or
 
 &emsp;"(2) the CAN–SPAM Act of 2003 (15 U.S.C. 7701 et seq.)."
+
+#### Protections From Spoofed Calls
+
+Pub. L. 116–105, §7, Dec. 30, 2019, 133 Stat. 3282, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of the enactment of this Act \[Dec. 30, 2019\], and consistent with the call authentication frameworks under section 4 \[47 U.S.C. 227b\], the Commission \[Federal Communications Commission\] shall initiate a rulemaking to help protect a subscriber from receiving unwanted calls or text messages from a caller using an unauthenticated number.
+
+"(b)
+
+Considerations.—In promulgating rules under subsection (a), the Commission shall consider—
+
+&emsp;"(1) the Government Accountability Office report on combating the fraudulent provision of misleading or inaccurate caller identification information required by section 503(c) of division P of the Consolidated Appropriations Act, 2018 (Public Law 115–141) \[132 Stat. 1093\];
+
+&emsp;"(2) the best means of ensuring that a subscriber or provider has the ability to block calls from a caller using an unauthenticated North American Numbering Plan number;
+
+&emsp;"(3) the impact on the privacy of a subscriber from unauthenticated calls;
+
+&emsp;"(4) the effectiveness in verifying the accuracy of caller identification information; and
+
+&emsp;"(5) the availability and cost of providing protection from the unwanted calls or text messages described in subsection (a)."
+
+#### Transitional Rule Regarding Definition of Text Message
+
+Pub. L. 116–105, §10(d), Dec. 30, 2019, 133 Stat. 3285, provided that: "Paragraph (2) of subsection (i) of section 227 of the Communications Act of 1934 (47 U.S.C. 227), as added by subsection (a) of this section, and paragraph (2) of subsection (j) of such section 227, as added by subsection (b) of this section, shall apply before the effective date of the amendment made to subsection (e)(8) of such section 227 by subparagraph (C) of section 503(a)(2) of division P of the Consolidated Appropriations Act, 2018 (Public Law 115–141) \[see 2018 Amendment and Effective Date of 2018 Amendment notes set out above\] as if such amendment was already in effect."
+
+#### Protection From One-Ring Scams
+
+Pub. L. 116–105, §12, Dec. 30, 2019, 133 Stat. 3286, provided that:
+
+"(a)
+
+Initiation of Proceeding.—Not later than 120 days after the date of the enactment of this Act \[Dec. 30, 2019\], the Commission \[Federal Communications Commission\] shall initiate a proceeding to protect called parties from one-ring scams.
+
+"(b)
+
+Matters To Be Considered.—As part of the proceeding required by subsection (a), the Commission shall consider how the Commission can—
+
+&emsp;"(1) work with Federal and State law enforcement agencies to address one-ring scams;
+
+&emsp;"(2) work with the governments of foreign countries to address one-ring scams;
+
+&emsp;"(3) in consultation with the Federal Trade Commission, better educate consumers about how to avoid one-ring scams;
+
+&emsp;"(4) incentivize voice service providers to stop calls made to perpetrate one-ring scams from being received by called parties, including consideration of adding identified one-ring scam type numbers to the Commission's existing list of permissible categories for carrier-initiated blocking;
+
+&emsp;"(5) work with entities that provide call-blocking services to address one-ring scams; and
+
+&emsp;"(6) establish obligations on international gateway providers that are the first point of entry for these calls into the United States, including potential requirements that such providers verify with the foreign originator the nature or purpose of calls before initiating service.
+
+"(c)
+
+Report to Congress.—Not later than 1 year after the date of the enactment of this Act, the Commission shall publish on its website and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the status of the proceeding required by subsection (a).
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+One-ring scam.—The term 'one-ring scam' means a scam in which a caller makes a call and allows the call to ring the called party for a short duration, in order to prompt the called party to return the call, thereby subjecting the called party to charges.
+
+&emsp;"(2)
+
+State.—The term 'State' has the meaning given such term in section 3 of the Communications Act of 1934 (47 U.S.C. 153).
+
+&emsp;"(3)
+
+Voice service.—The term 'voice service' has the meaning given such term in section 227(e)(8) of the Communications Act of 1934 (47 U.S.C. 227(e)(8)). This paragraph shall apply before the effective date of the amendment made to such section by subparagraph (C) of section 503(a)(2) of division P of the Consolidated Appropriations Act, 2018 (Public Law 115–141) \[see 2018 Amendment and Effective Date of 2018 Amendment notes set out above\] as if such amendment was already in effect."
+
+#### Annual Robocall Report
+
+Pub. L. 116–105, §13, Dec. 30, 2019, 133 Stat. 3287, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of the enactment of this Act \[Dec. 30, 2019\], and annually thereafter, the Commission \[Federal Communications Commission\] shall make publicly available on the website of the Commission, and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, a report on the status of private-led efforts to trace back the origin of suspected unlawful robocalls by the registered consortium and the participation of voice service providers in such efforts.
+
+"(b)
+
+Contents of Report.—The report required under subsection (a) shall include, at minimum, the following:
+
+&emsp;"(1) A description of private-led efforts to trace back the origin of suspected unlawful robocalls by the registered consortium and the actions taken by the registered consortium to coordinate with the Commission.
+
+&emsp;"(2) A list of voice service providers identified by the registered consortium that participated in private-led efforts to trace back the origin of suspected unlawful robocalls through the registered consortium.
+
+&emsp;"(3) A list of each voice service provider that received a request from the registered consortium to participate in private-led efforts to trace back the origin of suspected unlawful robocalls and refused to participate, as identified by the registered consortium.
+
+&emsp;"(4) The reason, if any, each voice service provider identified by the registered consortium provided for not participating in private-led efforts to trace back the origin of suspected unlawful robocalls.
+
+&emsp;"(5) A description of how the Commission may use the information provided to the Commission by voice service providers or the registered consortium that have participated in private-led efforts to trace back the origin of suspected unlawful robocalls in the enforcement efforts by the Commission.
+
+"(c)
+
+Additional Information.—Not later than 210 days after the date of the enactment of this Act \[Dec. 30, 2019\], and annually thereafter, the Commission shall issue a notice to the public seeking additional information from voice service providers and the registered consortium of private-led efforts to trace back the origin of suspected unlawful robocalls necessary for the report by the Commission required under subsection (a).
+
+"(d)
+
+Registration of Consortium of Private-Led Efforts To Trace Back the Origin of Suspected Unlawful Robocalls.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act, the Commission shall issue rules to establish a registration process for the registration of a single consortium that conducts private-led efforts to trace back the origin of suspected unlawful robocalls. The consortium shall meet the following requirements:
+
+&emsp;&emsp;"(A) Be a neutral third party competent to manage the private-led effort to trace back the origin of suspected unlawful robocalls in the judgement of the Commission.
+
+&emsp;&emsp;"(B) Maintain a set of written best practices about the management of such efforts and regarding providers of voice services' participation in private-led efforts to trace back the origin of suspected unlawful robocalls.
+
+&emsp;&emsp;"(C) Consistent with section 222(d)(2) of the Communications Act of 1934 (47 U.S.C. 222(d)(2)), any private-led efforts to trace back the origin of suspected unlawful robocalls conducted by the thirdparty focus on 'fraudulent, abusive, or unlawful' traffic.
+
+&emsp;&emsp;"(D) File a notice with the Commission that the consortium intends to conduct private-led efforts to trace back in advance of such registration.
+
+&emsp;"(2)
+
+Annual notice by the commission seeking registrations.—Not later than 120 days after the date of the enactment of this Act, and annually thereafter, the Commission shall issue a notice to the public seeking the registration described in paragraph (1).
+
+"(e)
+
+List of Voice Service Providers.—The Commission may publish a list of voice service providers and take appropriate enforcement action based on information obtained from the consortium about voice service providers that refuse to participate in private-led efforts to trace back the origin of suspected unlawful robocalls, and other information the Commission may collect about voice service providers that are found to originate or transmit substantial amounts of unlawful robocalls.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Private-led effort to trace back.—The term 'private-led effort to trace back' means an effort made by the registered consortium of voice service providers to establish a methodology for determining the origin of a suspected unlawful robocall.
+
+&emsp;"(2)
+
+Registered consortium.—The term 'registered consortium' means the consortium registered under subsection (d).
+
+&emsp;"(3)
+
+Suspected unlawful robocall.—The term 'suspected unlawful robocall' means a call that the Commission or a voice service provider reasonably believes was made in violation of subsection (b) or (e) of section 227 of the Communications Act of 1934 (47 U.S.C. 227).
+
+&emsp;"(4)
+
+Voice service.—The term 'voice service'—
+
+&emsp;&emsp;"(A) means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of the Communications Act of 1934 (47 U.S.C. 251(e)(1)); and
+
+&emsp;&emsp;"(B) includes—
+
+&emsp;&emsp;&emsp;"(i) transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine; and
+
+&emsp;&emsp;&emsp;"(ii) without limitation, any service that enables real-time, two-way voice communications, including any service that requires internet protocol-compatible customer premises equipment (commonly known as 'CPE') and permits out-bound calling, whether or not the service is one-way or two-way voice over internet protocol."
+
+#### Hospital Robocall Protection Group
+
+Pub. L. 116–105, §14, Dec. 30, 2019, 133 Stat. 3288, provided that:
+
+"(a)
+
+Establishment.—Not later than 180 days after the date of the enactment of this Act \[Dec. 30, 2019\], the Commission \[Federal Communications Commission\] shall establish an advisory committee to be known as the 'Hospital Robocall Protection Group'.
+
+"(b)
+
+Membership.—The Group shall be composed only of the following members:
+
+&emsp;"(1) An equal number of representatives from each of the following:
+
+&emsp;&emsp;"(A) Voice service providers that serve hospitals.
+
+&emsp;&emsp;"(B) Companies that focus on mitigating unlawful robocalls.
+
+&emsp;&emsp;"(C) Consumer advocacy organizations.
+
+&emsp;&emsp;"(D) Providers of one-way voice over internet protocol services described in subsection (e)(3)(B)(ii).
+
+&emsp;&emsp;"(E) Hospitals.
+
+&emsp;&emsp;"(F) State government officials focused on combating unlawful robocalls.
+
+&emsp;"(2) One representative of the Commission.
+
+&emsp;"(3) One representative of the Federal Trade Commission.
+
+"(c)
+
+Issuance of Best Practices.—Not later than 180 days after the date on which the Group is established under subsection (a), the Group shall issue best practices regarding the following:
+
+&emsp;"(1) How voice service providers can better combat unlawful robocalls made to hospitals.
+
+&emsp;"(2) How hospitals can better protect themselves from such calls, including by using unlawful robocall mitigation techniques.
+
+&emsp;"(3) How the Federal Government and State governments can help combat such calls.
+
+"(d)
+
+Proceeding by FCC.—Not later than 180 days after the date on which the best practices are issued by the Group under subsection (c), the Commission shall conclude a proceeding to assess the extent to which the voluntary adoption of such best practices can be facilitated to protect hospitals and other institutions.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Group.—The term 'Group' means the Hospital Robocall Protection Group established under subsection (a).
+
+&emsp;"(2)
+
+State.—The term 'State' has the meaning given such term in section 3 of the Communications Act of 1934 (47 U.S.C. 153).
+
+&emsp;"(3)
+
+Voice service.—The term 'voice service'—
+
+&emsp;&emsp;"(A) means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of the Communications Act of 1934 (47 U.S.C. 251(e)(1)); and
+
+&emsp;&emsp;"(B) includes—
+
+&emsp;&emsp;&emsp;"(i) transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine; and
+
+&emsp;&emsp;&emsp;"(ii) without limitation, any service that enables real-time, two-way voice communications, including any service that requires internet protocol-compatible customer premises equipment (commonly known as 'CPE') and permits out-bound calling, whether or not the service is one-way or two-way voice over internet protocol."
 
 #### Congressional Statement of Findings
 
@@ -708,5 +890,11 @@ Pub. L. 102–243, §2, Dec. 20, 1991, 105 Stat. 2394, provided that: "The Congr
 
 &emsp;"(15) The Federal Communications Commission should consider adopting reasonable restrictions on automated or prerecorded calls to businesses as well as to the home, consistent with the constitutional protections of free speech."
 
+#### Definition
+
+Pub. L. 116–105, §2, Dec. 30, 2019, 133 Stat. 3274, provided that: "In this Act \[see Short Title of 2019 Amendment note set out under section 609 of this title\], the term 'Commission' means the Federal Communications Commission."
+
 <i><sup>1</sup></i><i> So in original. Second closing parenthesis probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

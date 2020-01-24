@@ -392,7 +392,7 @@ Report.—
 
 &emsp;&emsp;"(A)
 
-In general.—If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal, the President shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report specifying the facts found and the grounds for the removal.
+In general.—If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal, the President shall submit to the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report specifying the facts found and the grounds for the removal.
 
 &emsp;&emsp;"(B)
 
@@ -472,7 +472,7 @@ Oversight.—
 
 &emsp;"(1)
 
-In general.—The Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
+In general.—The Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
 
 &emsp;"(2)
 
@@ -670,7 +670,7 @@ Reports by the Review Board.—
 
 &emsp;"(1)
 
-In general.—The Review Board shall report its activities to the Speaker of the House of Representatives, the Minority Leader of the House of Representatives, the Committee on Oversight and Government Reform of the House of Representatives, the Majority Leader of the Senate, the Minority Leader of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
+In general.—The Review Board shall report its activities to the Speaker of the House of Representatives, the Minority Leader of the House of Representatives, the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, the Majority Leader of the Senate, the Minority Leader of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
 
 &emsp;"(2)
 
@@ -686,9 +686,9 @@ Contents.—Each report under paragraph (1) shall include the following informat
 
 &emsp;&emsp;"(C) The estimated time and volume of civil rights cold case records involved in the completion of the Review Board's performance under this Act.
 
-&emsp;&emsp;"(D) Any special problems, including requests and the level of cooperation of Government offices, with regard to the ability of the Review Board to operate as required by this Act.
+&emsp;&emsp;"(D) Any special problems, including requests and the level of cooperation of Government offices, withregard to the ability of the Review Board to operate as required by this Act.
 
-&emsp;&emsp;"(E) A record of review activities, including a record of postponement decisions by the ReviewBoard or other related actions authorized by this Act, and a record of the volume of records reviewed and postponed.
+&emsp;&emsp;"(E) A record of review activities, including a record of postponement decisions by the Review Board or other related actions authorized by this Act, and a record of the volume of records reviewed and postponed.
 
 &emsp;&emsp;"(F) Recommendations and requests to Congress for additional authorization.
 
@@ -806,7 +806,7 @@ Findings and Declarations.—The Congress finds and declares that—
 
 &emsp;"(5) legislation is necessary because the Freedom of Information Act \[5 U.S.C. 552\], as implemented by the executive branch, has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy;
 
-&emsp;"(6) legislation is necessary because \[former\] Executive Order No. 12356, entitled 'National Security Information' has eliminated the declassification and downgrading schedules relating to classified information across government and has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy; and
+&emsp;"(6) legislation is necessary because \[former\] Executive Order No. 12356, entitled 'National Security Information' has eliminated the declassification anddowngrading schedules relating to classified information across government and has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy; and
 
 &emsp;"(7) most of the records related to the assassination of President John F. Kennedy are almost 30 years old, and only in the rarest cases is there any legitimate need for continued protection of such records.
 
@@ -906,7 +906,7 @@ In General.—(1) Not later than 60 days after the date of enactment of this Act
 
 "(b)
 
-Disclosure of Records.—All assassination records transmitted to the National Archives for disclosure to the public shall be included in the Collection and shall be available to the public for inspection and copying at the National Archives within 30 days after their transmission to the National Archives.
+Disclosure of Records.—All assassination records transmitted to the National Archives for disclosure to the public shall be included in the Collection and shall be available to the public for inspection andcopying at the National Archives within 30 days after their transmission to the National Archives.
 
 "(c)
 
@@ -924,7 +924,7 @@ Additional Requirements.—(1) The Collection shall be preserved, protected, arc
 
 "(e)
 
-Oversight.—The Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the Collection.
+Oversight.—The Committee on Government Operations \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the Collection.
 
 #### "SEC. 5. REVIEW, IDENTIFICATION, TRANSMISSION TO THE NATIONAL ARCHIVES, AND PUBLIC DISCLOSURE OF ASSASSINATION RECORDS BY GOVERNMENT OFFICES.
 
@@ -1006,7 +1006,7 @@ Transmission to the National Archives.—Each Government office shall—
 
 "(f)
 
-Custody of Postponed Assassination Records.—An assassination record the public disclosure of which has been postponed shall, pending transmission to the Archivist, be held for reasons of security and preservation by the originating body until suchtime as the information security program has been established at the National Archives as required in section 4(e)(2).
+Custody of Postponed Assassination Records.—An assassination record the public disclosure of which has been postponed shall, pending transmission to the Archivist, be held for reasons of security and preservation by the originating body until such time as the information security program has been established at the National Archives as required in section 4(e)(2).
 
 "(g)
 
@@ -1088,7 +1088,7 @@ Security Clearances.—(1) All Review Board nominees shall be granted the necess
 
 "(d)
 
-Confirmation Hearings.—(1) The Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall hold confirmation hearings within 30 days in which the Senate is in session after the nomination of 3 Review Board members.
+Confirmation Hearings.—(1) The Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shallhold confirmation hearings within 30 days in which the Senate is in session after the nomination of 3 Review Board members.
 
 "(2) The Committee on Governmental Affairs shall vote on the nominations within 14 days in which the Senate is in session after the confirmation hearings, and shall report its results to the full Senate immediately.
 
@@ -1110,7 +1110,7 @@ Removal of Review Board Member.—(1) No member of the Review Board shall be rem
 
 &emsp;"(B) by the action of the President for inefficiency, neglect of duty, malfeasance in office, physical disability, mental incapacity, or any other condition that substantially impairs the performance of the member's duties.
 
-"(2)(A) If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal the President shall submit to the Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report specifying the facts found and the grounds for the removal.
+"(2)(A) If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal the President shall submit to the Committee on Government Operations \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report specifying the facts found and the grounds for the removal.
 
 "(B) The President shall publish in the Federal Register a report submitted under paragraph (2)(A), except that the President may, if necessary to protect the rights of a person named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report until the completion of such pending cases or pursuant to privacy protection requirements in law.
 
@@ -1166,7 +1166,7 @@ Witness Immunity.—The Review Board shall be considered to be an agency of the 
 
 "(l)
 
-Oversight.—(1) The Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
+Oversight.—(1) The Committee on Government Operations \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
 
 "(2) The Review Board shall have the duty to cooperate with the exercise of such oversight jurisdiction.
 
@@ -1192,7 +1192,7 @@ Termination and Winding Up.—(1) The Review Board and the terms of its members 
 
 Executive Director.—(1) Not later than 45 days after the initial meeting of the Review Board, the Review Board shall appoint one citizen, without regard to political affiliation, to the position of Executive Director.
 
-"(2) The person appointed as Executive Director shall be a private citizen of integrity and impartiality who is a distinguished professional and who is not a present employee of any branch of the Government and has had no previous involvement with any official investigation or inquiry relating to the assassination of President John F. Kennedy.
+"(2) The person appointed as Executive Director shall be a private citizen of integrity and impartiality who isa distinguished professional and who is not a present employee of any branch of the Government and has had no previous involvement with any official investigation or inquiry relating to the assassination of President John F. Kennedy.
 
 "(3)(A) A candidate for Executive Director shall be granted the necessary security clearances in an accelerated manner subject to the standard procedures for granting such clearances.
 
@@ -1286,9 +1286,9 @@ Determinations of the Review Board.—(1) The Review Board shall direct that all
 
 &emsp;"(B) a statement, based on a review of the proceedings and in conformity with the decisions reflected therein, designating a recommended specified time at which or a specified occurrence following which the material may be appropriately disclosed to the public under this Act.
 
-"(4)(A) Following its review and a determination that an assassination record shall be publicly disclosed in the Collection or postponed for disclosure and held in the protected Collection, the Review Board shall notify the head of the originating body of its determination and publish a copy of the determination in the Federal Register within 14 days after the determination is made.
+"(4)(A) Following its review and a determination that an assassination record shall be publicly disclosed in the Collection or postponed for disclosure and held in the protected Collection, the Review Board shall notify the head of the originating body of its determinationand publish a copy of the determination in the Federal Register within 14 days after the determination is made.
 
-"(B) Contemporaneous notice shall be made to the President for Review Board determinations regarding executive branch assassination records, and to the oversight committees designated in this Act in the caseof legislative branch records. Such notice shall contain a written unclassified justification for public disclosure or postponement of disclosure, including an explanation of the application of any standards contained in section 6.
+"(B) Contemporaneous notice shall be made to the President for Review Board determinations regarding executive branch assassination records, and to the oversight committees designated in this Act in the case of legislative branch records. Such notice shall contain a written unclassified justification for public disclosure or postponement of disclosure, including an explanation of the application of any standards contained in section 6.
 
 "(d)
 
@@ -1312,7 +1312,7 @@ Notice to Public.—Every 30 calendar days, beginning on the date that is 60 cal
 
 "(f)
 
-Reports by the Review Board.—(1) The Review Board shall report its activities to the leadership of the Congress, the Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
+Reports by the Review Board.—(1) The Review Board shall report its activities to the leadership of the Congress, the Committee on Government Operations \[now Committee on Oversight and Reform\] of the House of Representatives, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
 
 "(2) The first report shall be issued on the date that is 1 year after the date of enactment of this Act \[Oct. 26, 1992\], and subsequent reports every 12 months thereafter until termination of the Review Board.
 
@@ -1376,7 +1376,7 @@ Existing Authority.—Nothing in this Act revokes or limits the existing authori
 
 "(e)
 
-Rules of the Senate and House of Representatives.—To the extent that any provision of this Actestablishes a procedure to be followed in the Senate or the House of Representatives, such provision is adopted—
+Rules of the Senate and House of Representatives.—To the extent that any provision of this Act establishes a procedure to be followed in the Senate or the House of Representatives, such provision is adopted—
 
 &emsp;"(1) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and is deemed to be part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
 

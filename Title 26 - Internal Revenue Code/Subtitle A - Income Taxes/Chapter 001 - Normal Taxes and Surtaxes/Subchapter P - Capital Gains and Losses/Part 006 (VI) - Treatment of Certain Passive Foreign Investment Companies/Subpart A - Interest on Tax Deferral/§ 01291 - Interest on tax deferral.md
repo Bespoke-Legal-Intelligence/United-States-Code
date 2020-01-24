@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (2) Aggregate increases in taxes
 
-&emsp;For purposes of paragraph (1)(A), the aggregate increases in taxes shall be determined by multiplying each amount allocated under subsection (a)(1)(A) to any taxable year (otherthan any taxable year referred to in subsection (a)(1)(B)) by the highest rate of tax in effect for such taxable year under section 1 or 11, whichever applies.
+&emsp;For purposes of paragraph (1)(A), the aggregate increases in taxes shall be determined by multiplying each amount allocated under subsection (a)(1)(A) to any taxable year (other than any taxable year referred to in subsection (a)(1)(B)) by the highest rate of tax in effect for such taxable year under section 1 or 11, whichever applies.
 
 #### (3) Computation of interest
 
@@ -258,7 +258,7 @@ Subsec. (d). Pub. L. 105–34, §1122(b)(2), substituted "subparts B and C" for 
 
 Subsec. (d)(1). Pub. L. 105–34, §1122(b)(1), inserted concluding provisions.
 
-<b>1988</b>—Subsec. (a)(1)(B)(ii). Pub. L. 100–647, §1012(p)(12), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "any period in the taxpayer's holding period before the 1st day of the 1st taxable year of thecompany for which it was a passive foreign investment company (or, if later, January 1, 1987), and".
+<b>1988</b>—Subsec. (a)(1)(B)(ii). Pub. L. 100–647, §1012(p)(12), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "any period in the taxpayer's holding period before the 1st day of the 1st taxable year of the company for which it was a passive foreign investment company (or, if later, January 1, 1987), and".
 
 Subsec. (a)(3)(A). Pub. L. 100–647, §1012(p)(14), substituted "for purposes of applying this section to" for "in the case of".
 
@@ -324,7 +324,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
+Amendment by Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31,1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
 
 #### Effective Date of 1988 Amendment
 

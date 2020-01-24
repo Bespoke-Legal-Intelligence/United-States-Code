@@ -12,7 +12,7 @@ The Government Accountability Office, the Government Publishing Office, and the 
 
 #### (3) Report to Congress
 
-&emsp;The chief official of each instrumentality of the Congress shall, after establishing remedies and procedures for purposes of paragraph (2), submit to the Congress a report describing the remedies and procedures.
+&emsp;The chief official of each instrumentality of the Congress shall, after establishing remediesand procedures for purposes of paragraph (2), submit to the Congress a report describing the remedies and procedures.
 
 #### (4) Definition of instrumentalities
 
@@ -84,7 +84,7 @@ Applicable Remedies.—When assigning remedies to individuals found to have a va
 
 Subsec. (a)(6), (7). Pub. L. 102–166, §315(1), redesignated pars. (6) and (7) as (2) and (3), respectively.
 
-Subsec. (c)(2). Pub. L. 102–166, §315(2), inserted ", except for the employees who are defined as Senate employees, in section 1201(c)(1) of title 2" after "shall apply exclusively".
+Subsec. (c)(2). Pub. L. 102–166, §315(2), inserted ", except for the employees who are defined as Senateemployees, in section 1201(c)(1) of title 2" after "shall apply exclusively".
 
 #### Change of Name
 
@@ -92,7 +92,7 @@ Subsec. (c)(2). Pub. L. 102–166, §315(2), inserted ", except for the employe
 
 #### Effective Date of 1995 Amendment
 
-Amendment by section 201(c)(3) of Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see section 1311(d) of Title 2, The Congress.
+Amendment by section 201(c)(3) of Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see section 1311(e) of Title 2, The Congress.
 
 Amendment by section 210(g) of Pub. L. 104–1 effective 1 year after transmission to Congress of study under section 1371 of Title 2, see section 1331(i)(2) of Title 2.
 

@@ -36,7 +36,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;&emsp;&emsp;(i) the activities that will be funded by the entities carrying out the respective core programs to implement the strategy and how such activities will be aligned across the programs and among the entities administering the programs, including using co-enrollment and other strategies;
 
-&emsp;&emsp;&emsp;(ii) how the activities described in clause (i) will be aligned with activities providedunder employment, training, education, including career and technical education, and human services programs not covered by the plan, as appropriate, assuring coordination of, and avoiding duplication among, the activities referred to in this clause;
+&emsp;&emsp;&emsp;(ii) how the activities described in clause (i) will be aligned with activities provided under employment, training, education, including career and technical education, and human services programs not covered by the plan, as appropriate, assuring coordination of, and avoiding duplication among, the activities referred to in this clause;
 
 &emsp;&emsp;&emsp;(iii) how the entities carrying out the respective core programs will coordinate activities and provide comprehensive, high-quality services including supportive services, to individuals;
 
@@ -208,5 +208,5 @@ Pub. L. 114–18, §2(f), May 22, 2015, 129 Stat. 214, provided that: "The amend
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

@@ -44,7 +44,7 @@ Administration of Programs at State and Local Levels.—An entity of a State or 
 
 (d)
 
-Addition to Annual Report.—(1) In the annual report required under section 4107(c) of this title for the program year beginning in 2003 and each subsequent program year, the Secretary of Labor shall evaluate whether coveredpersons are receiving priority of service and are being fully served by qualified job training programs. Such evaluation shall include—
+Addition to Annual Report.—(1) In the annual report required under section 4107(c) of this title for the program year beginning in 2003 and each subsequent program year, the Secretary of Labor shall evaluate whether covered persons are receiving priority of service and are being fully served by qualified job training programs. Such evaluation shall include—
 
 &emsp;(A) an analysis of the implementation of providing such priority at the local level;
 

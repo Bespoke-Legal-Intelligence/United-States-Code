@@ -8,13 +8,13 @@ In order to ensure that arms control, nonproliferation, and disarmament agreemen
 
 &emsp;(2) in the case of any arms control, nonproliferation, or disarmament agreement that has entered into force, any significant degradation or alteration in the capacity of the United States to verify compliance of the components of such agreement;
 
-&emsp;(3) the amount and percentage of research funds expended by the Department of State forthe purpose of analyzing issues relating to arms control, nonproliferation, and disarmament verification; and
+&emsp;(3) the amount and percentage of research funds expended by the Department of State for the purpose of analyzing issues relating to arms control, nonproliferation, and disarmament verification; and
 
 &emsp;(4) the number of professional personnel assigned to arms control verification on a full-time basis by each Government agency.
 
 #### (b) Assessments upon request
 
-Upon the request of the chairman or ranking minority member of the Committee on Foreign Relations of the Senate or the Committee on International Relations of the House of Representatives, in case of an arms control, nonproliferation, or disarmament proposal presented to a foreign country by the United States or presented to the United States by a foreign country, the Secretary of State shall submit a report to the Committee on the degree to which elements of the proposal are capable of being verified.
+Upon the request of the chairman or ranking minority member of the Committee on ForeignRelations of the Senate or the Committee on International Relations of the House of Representatives, in case of an arms control, nonproliferation, or disarmament proposal presented to a foreign country by the United States or presented to the United States by a foreign country, the Secretary of State shall submit a report to the Committee on the degree to which elements of the proposal are capable of being verified.
 
 #### (c) Standard for verification of compliance
 

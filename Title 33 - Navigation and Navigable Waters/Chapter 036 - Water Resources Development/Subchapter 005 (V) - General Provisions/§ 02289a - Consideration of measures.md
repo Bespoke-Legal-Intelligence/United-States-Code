@@ -28,7 +28,7 @@ In studying the feasibility of projects for flood risk management, hurricane and
 
 #### (1) In general
 
-&emsp;Not later than February 1, 2020, and 5 and 10 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of subsection (b).
+&emsp;Not later than February 1, 2020, and 5 and 10 years thereafter, the Secretary shall submit tothe Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of subsection (b).
 
 #### (2) Contents
 

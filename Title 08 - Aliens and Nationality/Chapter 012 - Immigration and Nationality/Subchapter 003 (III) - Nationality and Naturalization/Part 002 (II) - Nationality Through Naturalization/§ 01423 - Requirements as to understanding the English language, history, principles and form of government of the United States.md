@@ -14,7 +14,7 @@
 
 &emsp;(B) is over fifty-five years of age and has been living in the United States for periods totaling at least fifteen years subsequent to a lawful admission for permanent residence.
 
-(3) The Attorney General, pursuant to regulations, shall provide for special consideration, as determined by the Attorney General, concerning the requirement of subsection (a)(2) with respect to any person who, on the date of the filing of the person's application for naturalization asprovided in section 1445 of this title, is over sixty-five years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence.
+(3) The Attorney General, pursuant to regulations, shall provide for special consideration, as determined by the Attorney General, concerning the requirement of subsection (a)(2) with respect to any person who, on the date of the filing of the person's application for naturalization as provided in section 1445 of this title, is over sixty-five years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §312, 66 Stat. 239; Pub. L. 95–579, §3, Nov. 2, 1978, 92 Stat. 2474; Pub. L. 101–649, title IV, §403, Nov. 29, 1990, 104 Stat. 5039; Pub. L. 102–232, title III, §305(m)(2), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 103–416, title I, §108(a), Oct. 25, 1994, 108 Stat. 4309.)
 
@@ -80,7 +80,7 @@ Pub. L. 106–207, May 26, 2000, 114 Stat. 316, as amended by Pub. L. 106–415,
 
 #### "SEC. 4. DOCUMENTATION OF QUALIFYING SERVICE.
 
-"A person seeking an exemption under section 2 or special consideration under section 3 shall submit to the Attorney General documentation of their, or their spouse's, service with a special guerrilla unit, or irregular forces, described in section 2(1)(B), in the form of—
+"A person seeking an exemption under section 2 or special consideration under section 3 shall submit to the Attorney General documentation of their, or theirspouse's, service with a special guerrilla unit, or irregular forces, described in section 2(1)(B), in the form of—
 
 &emsp;"(1) original documents;
 

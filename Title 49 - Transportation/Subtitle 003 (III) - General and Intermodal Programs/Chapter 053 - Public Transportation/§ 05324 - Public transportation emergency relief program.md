@@ -70,7 +70,7 @@ Capital projects and operating assistance.—A grant, contract, or other agreeme
 
 &emsp;(2)
 
-Non-federal share.—The remainder of the net project cost may be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
+Non-federal share.—The remainder of the net project cost may be provided from anundistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
 
 &emsp;(3)
 
@@ -172,7 +172,7 @@ Contents of agreement.—The memorandum of agreement required under paragraph (2
 
 &emsp;&emsp;"(ii) any challenges identified in the review under paragraph (4); and
 
-&emsp;&emsp;"(iii) the coordination of assistance for public transportation provided under the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\] and section 5324 of title 49, United States Code, as amended by this Act, as appropriate; and
+&emsp;&emsp;"(iii) the coordination of assistance for public transportation provided under the Robert T. Stafford Disaster Relief and Emergency Assistance Act\[42 U.S.C. 5121 et seq.\] and section 5324 of title 49, United States Code, as amended by this Act, as appropriate; and
 
 &emsp;"(C) provide for the development and distribution of clear guidelines for State, local, and tribal governments, including public transportation systems, relating to—
 

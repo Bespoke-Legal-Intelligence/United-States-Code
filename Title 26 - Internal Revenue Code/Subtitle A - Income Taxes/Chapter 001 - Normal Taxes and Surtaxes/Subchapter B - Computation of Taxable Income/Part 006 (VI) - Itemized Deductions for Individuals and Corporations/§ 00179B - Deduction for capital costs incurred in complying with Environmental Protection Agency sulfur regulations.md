@@ -12,7 +12,7 @@ In the case of a small business refiner with average daily domestic refinery run
 
 #### (1) In general
 
-&emsp;For purposes of this title, the basis of any property shall be reduced by the portion of thecost of such property taken into account under subsection (a).
+&emsp;For purposes of this title, the basis of any property shall be reduced by the portion of the cost of such property taken into account under subsection (a).
 
 #### (2) Ordinary income recapture
 

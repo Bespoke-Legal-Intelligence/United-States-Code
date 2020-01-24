@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Upon application, and subject to subsections (b) and (c), the Secretary shall register an employer or person subject to the safety jurisdiction of this subchapter. An employer or person may operate a commercial motor vehicle in interstate commerce only if the employer or person is registered by the Secretary under this section and receives a USDOT number. Nothing in this section shall preclude registration by the Secretary of an employer or person not engaged in interstate commerce. An employer or person subject to jurisdiction under subchapter I of chapter 135 of this title shall apply for commercial registration under section 13902 of this title.
+In General.—Upon application, and subject to subsections (b) and (c), the Secretaryshall register an employer or person subject to the safety jurisdiction of this subchapter. An employer or person may operate a commercial motor vehicle in interstate commerce only if the employer or person is registered by the Secretary under this section and receives a USDOT number. Nothing in this section shall preclude registration by the Secretary of an employer or person not engaged in interstate commerce. An employer or person subject to jurisdiction under subchapter I of chapter 135 of this title shall apply for commercial registration under section 13902 of this title.
 
 (b)
 
@@ -42,7 +42,7 @@ A prior section 31134, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1001; 
 
 #### Effective Date
 
-Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and TerminationDates of 2012 Amendment note under section 101 of Title 23, Highways.
+Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 <i><sup>1</sup></i><i> So in original. There is no subpar. (B).</i>
 

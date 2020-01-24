@@ -12,11 +12,11 @@
 
 &emsp;(5) to prevent economic disruption and harm to the western livestock industry, it is in the public interest to charge a fee for livestock grazing permits and leases on the public lands which is based on a formula reflecting annual changes in the costs of production;
 
-&emsp;(6) the Act of December 15, 1971 (85 Stat. 649, 16 U.S.C. 1331 et seq.), continues to be successful in its goal of protecting wild free-roaming horses and burros from capture, branding, harassment, and death, but that certain amendments are necessary thereto to avoid excessive costs in the administration of the Act, and to facilitate the humane adoption or disposal of excess wild free-roaming horses and burros which because they exceed the carrying capacity of the range, pose a threat to their own habitat, fish, wildlife, recreation, water and soil conservation, domestic livestock grazing, and other rangeland values;
+&emsp;(6) the Act of December 15, 1971 (85 Stat. 649, 16 U.S.C. 1331 et seq.), continues to be successful in its goal of protecting wild free-roaming horses and burros from capture, branding, harassment, and death, but that certain amendments are necessary thereto to avoid excessive costs in the administration of the Act, and to facilitate the humane adoption or disposal ofexcess wild free-roaming horses and burros which because they exceed the carrying capacity of the range, pose a threat to their own habitat, fish, wildlife, recreation, water and soil conservation, domestic livestock grazing, and other rangeland values;
 
 (b) The Congress therefore hereby establishes and reaffirms a national policy and commitment to:
 
-&emsp;(1) inventory and identify current public rangelands conditions and trends as a part ofthe inventory process required by section 1711(a) of this title;
+&emsp;(1) inventory and identify current public rangelands conditions and trends as a part of the inventory process required by section 1711(a) of this title;
 
 &emsp;(2) manage, maintain and improve the condition of the public rangelands so that they become as productive as feasible for all rangeland values in accordance with management objectives and the land use planning process established pursuant to section 1712 of this title;
 

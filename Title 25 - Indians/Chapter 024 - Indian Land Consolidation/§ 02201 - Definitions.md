@@ -60,7 +60,7 @@ Pars. (6) to (10). Pub. L. 108–374, §6(b)(3), added pars. (6) to (10).
 
 <b>2000</b>—Par. (1). Pub. L. 106–462, §103(1)(A), substituted "(1)'Indian tribe' or 'tribe' " for "(1) 'tribe' ".
 
-Par. (2). Pub. L. 106–462, §103(1)(B), added par. (2) and struck out former par. (2) which read as follows: " 'Indian' means any person who is a member of a tribe orany person who is recognized as an Indian by the Secretary of the Interior;".
+Par. (2). Pub. L. 106–462, §103(1)(B), added par. (2) and struck out former par. (2) which read as follows: " 'Indian' means any person who is a member of a tribe or any person who is recognized as an Indian by the Secretary of the Interior;".
 
 Par. (5). Pub. L. 106–462, §103(1)(C)–(E), added par. (5).
 

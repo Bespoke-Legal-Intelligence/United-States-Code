@@ -16,7 +16,7 @@ The Congress finds that—
 
 #### (b) Submission of proposal by Secretary
 
-(1) On or before June 1, 1985, the Secretary shall complete a detailed study of the need for and feasibility of, and shall submit to the Congress a proposal for, the construction of one or more monitored retrievable storage facilities for high-level radioactive waste and spent nuclear fuel. Each such facility shall be designed—
+(1) On or before June 1, 1985, the Secretary shall complete a detailed study of the need for and feasibility of, and shall submit to the Congress a proposal for, the construction of one ormore monitored retrievable storage facilities for high-level radioactive waste and spent nuclear fuel. Each such facility shall be designed—
 
 &emsp;(A) to accommodate spent nuclear fuel and high-level radioactive waste resulting from civilian nuclear activities;
 
@@ -64,7 +64,7 @@ Nothing in this section limits the consideration of alternative facility designs
 
 &emsp;(B) utilized by units of general local government only for planning, construction, maintenance, and provision of public services related to the siting of such facility.
 
-(3) Such payments shall be subject to such terms and conditions as the Secretary determines are necessary to ensure achievement ofthe purposes of this subsection. The Secretary shall issue such regulations as may be necessary to carry out the provisions of this subsection.
+(3) Such payments shall be subject to such terms and conditions as the Secretary determines are necessary to ensure achievement of the purposes of this subsection. The Secretary shall issue such regulations as may be necessary to carry out the provisions of this subsection.
 
 (4) Such payments shall be made available entirely from funds held in the Nuclear Waste Fund established in section 10222(c) of this title and shall be available only to the extent provided in advance in appropriation Acts.
 

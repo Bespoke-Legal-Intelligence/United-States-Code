@@ -4,7 +4,7 @@
 
 Whenever the Commission begins an investigation under section 2252 of this title with respect to an industry, the Commission shall immediately notify the Secretary of such investigation, and the Secretary shall immediately begin a study of—
 
-&emsp;(1) the number of firms in the domestic industry producing the like or directly competitive article which have been or are likely to be certified as eligible for adjustment assistance, and
+&emsp;(1) the number of firms in the domestic industry producing the like or directly competitive article which have been or are likely to becertified as eligible for adjustment assistance, and
 
 &emsp;(2) the extent to which the orderly adjustment of such firms to the import competition may be facilitated through the use of existing programs.
 

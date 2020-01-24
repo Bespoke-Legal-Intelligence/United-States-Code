@@ -24,7 +24,7 @@
 
 (2) In the case of an enlisted member permitted under subsection (a)(2)(E) to receive instruction at the Postgraduate School on a space-available basis, the Secretary of the Navy shall charge that member only for such costs and fees as the Secretary considers appropriate.
 
-(3) The requirements for payment of costs and fees under paragraph (1) shall be subject to such exceptions as the Secretary of Defense may prescribe for members of the armed forces who receive instruction at the Postgraduate School inconnection with pursuit of a degree or certification as participants in the Cyber Scholarship program under chapter 112 of this title.
+(3) The requirements for payment of costs and fees under paragraph (1) shall be subject to such exceptions as the Secretary of Defense may prescribe for members of the armed forces who receive instruction at the Postgraduate School in connection with pursuit of a degree or certification as participants in the Cyber Scholarship program under chapter 112 of this title.
 
 (c) While receiving instruction at the Postgraduate School, members of the Army, Air Force, and Coast Guard are subject to such regulations, as determined appropriate by the Secretary of the Navy, as apply to students who are members of the naval service.
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1980 Amendment
 

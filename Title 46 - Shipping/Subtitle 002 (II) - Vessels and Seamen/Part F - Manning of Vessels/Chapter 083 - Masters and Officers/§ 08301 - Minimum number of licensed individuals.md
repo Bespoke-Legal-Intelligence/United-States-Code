@@ -12,7 +12,7 @@
 
 &emsp;(3) A vessel of at least 200 gross tons but less than 1,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title and propelled by machinery shall have 2 licensed mates.
 
-&emsp;(4) A vessel of at least 100 gross tons but less than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title and propelled by machinery shall have one licensed mate. However, if the vessel is on a voyage of more than 24 hours, it shall have 2 licensed mates.
+&emsp;(4) A vessel of at least 100 gross tons but less than 200 gross tons as measured under section14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title and propelled by machinery shall have one licensed mate. However, if the vessel is on a voyage of more than 24 hours, it shall have 2 licensed mates.
 
 &emsp;(5) A freight vessel or a passenger vessel of at least 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title and propelled by machinery shall have a licensed engineer.
 
@@ -54,7 +54,7 @@ Subsection (d) permits the Secretary to suspend any part of this chapter during 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–281 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "An offshore supply vessel on a voyage of less than 600 miles shall have a licensed mate. However, if the vessel is on a voyage of at least 600 miles, the vessel shall have 2 licensed mates. An offshore supply vessel of more than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measuredunder section 14302 of this title as prescribed by the Secretary under section 14104 of this title may not be operated without a licensed engineer."
+<b>2010</b>—Subsec. (b). Pub. L. 111–281 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "An offshore supply vessel on a voyage of less than 600 miles shall have a licensed mate. However, if the vessel is on a voyage of at least 600 miles, the vessel shall have 2 licensed mates. An offshore supply vessel of more than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title may not be operated without a licensed engineer."
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–324, §729(1), inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "1,000 gross tons".
 

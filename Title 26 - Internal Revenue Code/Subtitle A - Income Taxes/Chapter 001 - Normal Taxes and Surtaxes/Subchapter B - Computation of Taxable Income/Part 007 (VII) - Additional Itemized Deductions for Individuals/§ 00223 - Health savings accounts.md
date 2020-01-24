@@ -159,7 +159,7 @@ For purposes of this section—
 
 #### (C) Safe harbor for absence of preventive care deductible
 
-&emsp;&emsp;A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care (within the meaning of section 1861 of the Social Security Act, except as otherwise provided by the Secretary).
+&emsp;&emsp;A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care (withinthe meaning of section 1861 of the Social Security Act, except as otherwise provided by the Secretary).
 
 #### (D) Special rules for network plans
 
@@ -375,7 +375,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of each dollar amount in subsection (c)(2)(A), "calendar year 2003".
 
-> &emsp;In the case of adjustments made for any taxable year beginning after 2007, section 1(f)(4)shall be applied for purposes of this paragraph by substituting "March 31" for "August 31", and the Secretary shall publish the adjusted amounts under subsections (b)(2) and (c)(2)(A) for taxable years beginning in any calendar year no later than June 1 of the preceding calendar year.
+> &emsp;In the case of adjustments made for any taxable year beginning after 2007, section 1(f)(4) shall be applied for purposes of this paragraph by substituting "March 31" for "August 31", and the Secretary shall publish the adjusted amounts under subsections (b)(2) and (c)(2)(A) for taxable years beginning in any calendar year no later than June 1 of the preceding calendar year.
 
 #### (2) Rounding
 
@@ -482,6 +482,8 @@ Section applicable to taxable years beginning after Dec. 31, 2003, see section 1
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2020</b>—Revenue Procedure 2019–25.
 
 <b>2019</b>—Revenue Procedure 2018–30.
 

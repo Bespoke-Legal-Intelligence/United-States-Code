@@ -24,7 +24,7 @@
 
 #### legislative statements
 
-Extension of time: The House amendment adopts section 108(c)(1) of the Senate amendment which expressly includes any special suspensions of statutes of limitation periods on collection outside bankruptcy when assets are under the authority of a court. For example, section 6503(b) of the Internal Revenue Code \[title 26\]suspends collection of tax liabilities while the debtor's assets are in the control or custody of a court, and for 6 months thereafter. By adopting the language of the Senate amendment, the House amendment insures not only that the period for collection of the taxes outside bankruptcy will not expire during the title 11 proceedings, but also that such period will not expire until at least 6 months thereafter, which is the minimum suspension period provided by the Internal Revenue Code \[title 26\].
+Extension of time: The House amendment adopts section 108(c)(1) of the Senate amendment which expressly includes any special suspensions of statutes of limitation periods on collection outside bankruptcy when assets are under the authority of a court. For example, section 6503(b) of the Internal Revenue Code \[title 26\] suspends collection of tax liabilities while the debtor's assets are in the control or custody of a court, and for 6 months thereafter. By adopting the language of the Senate amendment, the House amendment insures not only that the period for collection of the taxes outside bankruptcy will not expire during the title 11 proceedings, but also that such period will not expire until at least 6 months thereafter, which is the minimum suspension period provided by the Internal Revenue Code \[title 26\].
 
 #### senate report no. 95–989
 

@@ -18,7 +18,7 @@
 
 &emsp;(v) studies, analyses, and other activities related to supported employment, and to promoting employment opportunities in competitive integrated employment;
 
-&emsp;(vi) related activities which hold promise of increasing knowledge and improving methodsin the rehabilitation of individuals with disabilities and individuals with the most significant disabilities, particularly individuals with disabilities, and individuals with the most significant disabilities, who are members of populations that are unserved or underserved by programs under this chapter;
+&emsp;(vi) related activities which hold promise of increasing knowledge and improving methods in the rehabilitation of individuals with disabilities and individuals with the most significant disabilities, particularly individuals with disabilities, and individuals with the most significant disabilities, who are members of populations that are unserved or underserved by programs under this chapter;
 
 &emsp;(vii) studies, analyses, and other activities related to job accommodations, including the use of rehabilitation engineering, assistive technology, and communications technology; and
 
@@ -50,7 +50,7 @@
 
 &emsp;(iv) providing training (including graduate, pre-service, and in-service training) for independent living and rehabilitation research personnel and other independent living and rehabilitation personnel;
 
-&emsp;(v) serving as an informational and technical assistance resource to individuals with disabilities, as well as to providers, educators, and researchers, by providing outreach and information that clarifies research implications for practice and identifies potential new areas of research; and
+&emsp;(v) serving as an informational and technical assistance resource to individuals with disabilities, as well as to providers, educators, and researchers, by providing outreach and information that clarifies research implications forpractice and identifies potential new areas of research; and
 
 &emsp;(vi) developing practical applications for the research findings of the Centers.
 
@@ -68,7 +68,7 @@
 
 &emsp;(vi) research, dissemination, and technical assistance, on best practices in vocational rehabilitation, including supported employment and other strategies to promote competitive integrated employment for persons with the most significant disabilities.
 
-(D) Training of students preparing to be independent living or rehabilitation personnel or to provide independent living, rehabilitative, assistive, or supportive services (such as rehabilitation counseling, personal care services, directcare, job coaching, aides in school based settings, or advice or assistance in utilizing assistive technology devices, assistive technology services, and accessible electronic and information technology devices and services) shall be an important priority for each such Center.
+(D) Training of students preparing to be independent living or rehabilitation personnel or to provide independent living, rehabilitative, assistive, or supportive services (such as rehabilitation counseling, personal care services, direct care, job coaching, aides in school based settings, or advice or assistance in utilizing assistive technology devices, assistive technology services, and accessible electronic and information technology devices and services) shall be an important priority for each such Center.
 
 (E) The Director shall make grants under this paragraph to establish and support both centers dealing with multiple disabilities and centers primarily focused on particular disabilities.
 
@@ -182,7 +182,7 @@
 
 (C) In awarding grants under this paragraph, the Director shall take into account the location of any proposed Spinal Cord Injury Center and the appropriate geographic and regional allocation of such Centers.
 
-(5) Research grants may be used to conduct a program for end-stage renal disease research, toinclude support of projects and demonstrations for providing special services (including transplantation and dialysis), artificial kidneys, and supplies necessary for the rehabilitation of individuals with such disease and which will—
+(5) Research grants may be used to conduct a program for end-stage renal disease research, to include support of projects and demonstrations for providing special services (including transplantation and dialysis), artificial kidneys, and supplies necessary for the rehabilitation of individuals with such disease and which will—
 
 &emsp;(A) ensure dissemination of research findings;
 

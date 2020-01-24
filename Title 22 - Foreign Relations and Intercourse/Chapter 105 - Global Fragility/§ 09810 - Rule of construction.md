@@ -1,0 +1,6 @@
+### §9810. Rule of construction
+
+Nothing in this chapter shall be construed as a declaration of war or an authorization for the use of military force.
+
+(Pub. L. 116–94, div. J, title V, §511, Dec. 20, 2019, 133 Stat. 3069.)
+

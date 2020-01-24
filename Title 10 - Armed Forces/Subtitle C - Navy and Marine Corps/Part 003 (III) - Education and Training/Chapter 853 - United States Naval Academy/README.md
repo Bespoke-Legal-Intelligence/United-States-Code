@@ -43,7 +43,7 @@ A prior chapter 853, consisting of sections 8681 to 8693, related to miscellaneo
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignatedchapter 603 of this title as this chapter and items 6951 to 6956 and 6958 to 6981 as 8451 to 8456 and 8458 to 8481, respectively.
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 603 of this title as this chapter and items 6951 to 6956 and 6958 to 6981 as 8451 to 8456 and 8458 to 8481, respectively.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title XII, §1248(b)(2)(B), Dec. 23, 2016, 130 Stat. 2525, struck out items 6957 "Selection of persons from foreign countries", 6957a "Exchange program with foreign military academies", and 6957b "Foreign and cultural exchange activities".
 

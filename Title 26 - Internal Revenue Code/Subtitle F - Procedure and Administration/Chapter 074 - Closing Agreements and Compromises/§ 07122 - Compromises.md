@@ -54,6 +54,10 @@ Whenever a compromise is made by the Secretary in any case, there shall be place
 
 &emsp;&emsp;The Secretary may issue regulations waiving any payment required under paragraph (1) in a manner consistent with the practices established in accordance with the requirements under subsection (d)(3).
 
+#### (3) Exception for low-income taxpayers
+
+&emsp;Paragraph (1), and any user fee otherwise required in connection with the submission of an offer-in-compromise, shall not apply to any offer-in-compromise with respect to a taxpayer who is an individual with adjusted gross income, as determined for the most recent taxable year for which such information is available, which does not exceed 250 percent of the applicable poverty level (as determined by the Secretary).
+
 #### (d) Standards for evaluation of offers
 
 #### (1) In general
@@ -74,7 +78,7 @@ Whenever a compromise is made by the Secretary in any case, there shall be place
 
 &emsp;The guidelines under paragraph (1) shall provide that—
 
-&emsp;&emsp;(A) an officer or employee of the Internal Revenue Service shall not reject an offer-in-compromise from a low-income taxpayer solely on the basis of the amount of the offer,
+&emsp;&emsp;(A) an officer or employee of the Internal Revenue Service shall not reject an offer-in-compromise from a low-income taxpayersolely on the basis of the amount of the offer,
 
 &emsp;&emsp;(B) in the case of an offer-in-compromise which relates only to issues of liability of the taxpayer—
 
@@ -90,7 +94,7 @@ The Secretary shall establish procedures—
 
 &emsp;(1) for an independent administrative review of any rejection of a proposed offer-in-compromise or installment agreement made by a taxpayer under this section or section 6159 before such rejection is communicated to the taxpayer; and
 
-&emsp;(2) which allow a taxpayer to appeal any rejection of such offer or agreement to the Internal Revenue Service Office of Appeals.
+&emsp;(2) which allow a taxpayer to appeal any rejection of such offer or agreement to the Internal Revenue Service Independent Office of Appeals.
 
 #### (f) Deemed acceptance of offer not rejected within certain period
 
@@ -100,9 +104,13 @@ Any offer-in-compromise submitted under this section shall be deemed to be accep
 
 Notwithstanding any other provision of this section, if the Secretary determines that any portion of an application for an offer-in-compromise or installment agreement submitted under this section or section 6159 meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A), then the Secretary may treat such portion as if it were never submitted and such portion shall not be subject to any further administrative or judicial review.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 849; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–168, title V, §503(a), July 30, 1996, 110 Stat. 1461; Pub. L. 105–206, title III, §3462(a), (c)(1), July 22, 1998, 112 Stat. 764, 766; Pub. L. 109–222, title V, §509(a), (b), May 17, 2006, 120 Stat. 362, 363; Pub. L. 109–432, div. A, title IV, §407(d), Dec. 20, 2006, 120 Stat. 2962; Pub. L. 113–295, div. A, title II, §220(y), Dec. 19, 2014, 128 Stat. 4036.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 849; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–168, title V, §503(a), July 30, 1996, 110 Stat. 1461; Pub. L. 105–206, title III, §3462(a), (c)(1), July 22, 1998, 112 Stat. 764, 766; Pub. L. 109–222, title V, §509(a), (b), May 17, 2006, 120 Stat. 362, 363; Pub. L. 109–432, div. A, title IV, §407(d), Dec. 20, 2006, 120 Stat. 2962; Pub. L. 113–295, div. A, title II, §220(y), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 116–25, title I, §§1001(b)(1)(F), 1102(a), July 1, 2019, 133 Stat. 985, 986.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c)(3). Pub. L. 116–25, §1102(a), added par. (3).
+
+Subsec. (e)(2). Pub. L. 116–25, §1001(b)(1)(F), substituted "Internal Revenue Service Independent Office of Appeals" for "Internal Revenue Service Office of Appeals".
 
 <b>2014</b>—Subsecs. (f), (g). Pub. L. 113–295 redesignated subsec. (f) relating to frivolous submissions as (g).
 
@@ -126,6 +134,10 @@ Subsec. (d). Pub. L. 105–206, §3462(c)(1), added subsec. (d).
 
 <b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–25, title I, §1102(b), July 1, 2019, 133 Stat. 986, provided that: "The amendment made by this section \[amending this section\] shall apply to offers-in-compromise submitted after the date of the enactment of this Act \[July 1, 2019\]."
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–432 applicable to submissions made and issues raised after the date on which the Secretary first prescribes a list under section 6702(c) of this title, see section 407(f) of Pub. L. 109–432, set out as a note under section 6320 of this title.
@@ -148,5 +160,5 @@ Pub. L. 105–206, title III, §3462(d), July 22, 1998, 112 Stat. 766, provided 
 
 &emsp;"(2) provide notice to taxpayers that in the case of a compromise terminated due to the actions of one spouse or former spouse, the Internal Revenue Service will, upon application, reinstate such compromise with the spouse or former spouse who remains in compliance with such compromise; and
 
-&emsp;"(3) provide notice to the taxpayer that the taxpayer may appeal the rejection of an offer-in-compromise to the Internal Revenue Service Office of Appeals."
+&emsp;"(3) provide notice to the taxpayer that the taxpayer may appeal the rejection of an offer-in-compromise to the Internal Revenue Service Office of Appeals \[now Internal Revenue Service Independent Office of Appeals\]."
 

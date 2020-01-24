@@ -84,7 +84,7 @@ In this chapter, the following definitions shall apply:
 
 #### (15) Residential mortgage transaction
 
-&emsp;The term "residential mortgage transaction" means a transaction consummated on or after the date that is 1 year after July 29,1998, in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against a single-family dwelling that is the principal residence of the mortgagor to finance the acquisition, initial construction, or refinancing of that dwelling.
+&emsp;The term "residential mortgage transaction" means a transaction consummated on or after the date that is 1 year after July 29, 1998, in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against a single-family dwelling that is the principal residence of the mortgagor to finance the acquisition, initial construction, or refinancing of that dwelling.
 
 #### (16) Servicer
 
@@ -110,7 +110,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 The National Housing Act, referred to in par. (13), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The Housing Act of 1949, referred to in par. (13), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in par. (13), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of thisAct to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 #### Amendments
 

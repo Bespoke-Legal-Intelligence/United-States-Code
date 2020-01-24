@@ -32,5 +32,5 @@ In this section:
 
 #### Prior Provisions
 
-A prior section 2443, Pub. L. 106–65, div. C, title XXXII, §3245, as added Pub. L. 106–377, §1(a)(2) \[title III, §315\], Oct. 27, 2000, 114 Stat. 1441, 1441A–81, related to prohibition on pay of personnel engaged in concurrent service or duties inside and outside Administration, prior to repeal by Pub. L. 107–107, div. C, title XXXI, §3143, Dec. 28, 2001, 115 Stat. 1371.
+A prior section 2443, Pub. L. 106–65, div. C, title XXXII, §3245, as added Pub. L. 106–377, §1(a)(2) \[title III, §315\], Oct. 27, 2000, 114 Stat. 1441, 1441A–81, related to prohibition on pay of personnel engaged in concurrent service or duties inside and outside Administration,prior to repeal by Pub. L. 107–107, div. C, title XXXI, §3143, Dec. 28, 2001, 115 Stat. 1371.
 

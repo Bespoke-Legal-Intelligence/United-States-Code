@@ -20,7 +20,7 @@
 
 &emsp;(6) to review the final determinations of the United States International Trade Commission relating to unfair practices in import trade, made under section 337 of the Tariff Act of 1930 (19 U.S.C. 1337);
 
-&emsp;(7) to review, by appeal on questions of law only, findings of the Secretary of Commerce under U.S. note 6 to subchapter X of chapter 98 of the Harmonized Tariff Schedule of the United States (relating to importation of instruments or apparatus);
+&emsp;(7) to review, by appeal on questions of law only, findings of the Secretary of Commerceunder U.S. note 6 to subchapter X of chapter 98 of the Harmonized Tariff Schedule of the United States (relating to importation of instruments or apparatus);
 
 &emsp;(8) of an appeal under section 71 of the Plant Variety Protection Act (7 U.S.C. 2461);
 

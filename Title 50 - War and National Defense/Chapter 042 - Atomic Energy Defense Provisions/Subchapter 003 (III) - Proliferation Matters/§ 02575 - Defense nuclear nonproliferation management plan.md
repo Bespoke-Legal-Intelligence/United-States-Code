@@ -10,7 +10,7 @@ The Administrator shall develop and annually update a five-year management plan 
 
 (2) Not later than March 15 of each odd-numbered year, the Administrator shall submit to the congressional defense committees a detailed report on the plan developed under subsection (a).
 
-(3) Each summary submitted under paragraph (1) and each report submitted under paragraph (2) shall be submitted in unclassified form, but may include a classified annex if necessary.
+(3) Each summary submitted under paragraph (1) and each report submitted under paragraph\(2) shall be submitted in unclassified form, but may include a classified annex if necessary.
 
 #### (c) Elements
 
@@ -64,7 +64,7 @@ The plan required by subsection (a) shall include, with respect to each defense 
 
 &emsp;(11) A plan for funding the program during that five-year period.
 
-&emsp;(12) An identification of metrics and objectives for determining the effectiveness of eachactivity carried out under the program during that five-year period.
+&emsp;(12) An identification of metrics and objectives for determining the effectiveness of each activity carried out under the program during that five-year period.
 
 &emsp;(13) A description of the activities to be carried out under the program during that five-year period and a description of how the program will be prioritized relative to other defense nuclear nonproliferation programs of the Administration during that five-year period to address the highest priority risks and requirements, as informed by the threat assessment carried out under paragraph (10).
 

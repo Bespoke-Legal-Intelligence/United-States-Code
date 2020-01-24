@@ -2,7 +2,7 @@
 
 (a)
 
-Civil Actions.—On request of the Secretary of Transportation, the Attorney Generalmay bring a civil action in a court of competent jurisdiction to enforce compliance with sections 31704 and 31705 of this title.
+Civil Actions.—On request of the Secretary of Transportation, the Attorney General may bring a civil action in a court of competent jurisdiction to enforce compliance with sections 31704 and 31705 of this title.
 
 (b)
 

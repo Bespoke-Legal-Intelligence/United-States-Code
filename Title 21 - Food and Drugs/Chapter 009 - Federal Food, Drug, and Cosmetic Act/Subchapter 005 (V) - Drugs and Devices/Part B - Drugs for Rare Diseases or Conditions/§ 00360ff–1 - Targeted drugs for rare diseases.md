@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) incorporates or utilizes a genetically targeted technology;
 
-&emsp;(2) the term "genetically targeted technology" means a technology comprising non-replicating nucleic acid or analogous compounds with a common or similar chemistry that is intended to treat one or more patient subgroups, including subgroups of patients with different mutations of a gene, with the same disease or condition, including a disease or condition due to other variants in the same gene; and
+&emsp;(2) the term "genetically targeted technology" means a technology comprising non-replicating nucleic acid or analogous compounds with a common or similar chemistry that is intended to treat one or more patient subgroups, including subgroups of patients with different mutations of a gene, with thesame disease or condition, including a disease or condition due to other variants in the same gene; and
 
 &emsp;(3) the term "variant protein targeted drug" means a drug that—
 

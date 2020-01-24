@@ -16,7 +16,7 @@ Subject to the provisions of subsections (c) and (d) of section 80b–9 of this 
 
 No provision of this subchapter shall be construed to require, or to authorize the Commission to require any investment adviser engaged in rendering investment supervisory services to disclose the identity, investments, or affairs of any client of such investment adviser, except insofar as such disclosure may be necessary or appropriate in a particular proceeding or investigation having as its object the enforcement of a provision or provisions of this subchapter or for purposes of assessment of potential systemic risk.
 
-(Aug. 22, 1940, ch. 686, title II, §210, 54 Stat. 854; Pub. L. 86–750, §13, Sept. 13, 1960, 74 Stat. 887;Pub. L. 101–550, title II, §202(b)(2), Nov. 15, 1990, 104 Stat. 2715; Pub. L. 111–203, title IV, §405, title IX, §929I(c), July 21, 2010, 124 Stat. 1574, 1858; Pub. L. 111–257, §1(c), Oct. 5, 2010, 124 Stat. 2646.)
+(Aug. 22, 1940, ch. 686, title II, §210, 54 Stat. 854; Pub. L. 86–750, §13, Sept. 13, 1960, 74 Stat. 887; Pub. L. 101–550, title II, §202(b)(2), Nov. 15, 1990, 104 Stat. 2715; Pub. L. 111–203, title IV, §405, title IX, §929I(c), July 21, 2010, 124 Stat. 1574, 1858; Pub. L. 111–257, §1(c), Oct. 5, 2010, 124 Stat. 2646.)
 
 #### Amendments
 

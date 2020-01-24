@@ -18,7 +18,7 @@ It shall be unlawful for any person to—
 
 &emsp;(4) fail to furnish information required by section 2064(b) of this title;
 
-&emsp;(5) fail to comply with an order issued under section 2064(c) or (d) of this title (relating tonotification, to repair, replacement, and refund, and to prohibited acts);
+&emsp;(5) fail to comply with an order issued under section 2064(c) or (d) of this title (relating to notification, to repair, replacement, and refund, and to prohibited acts);
 
 &emsp;(6) fail to furnish a certificate required by this chapter or any other Act enforced by the Commission, or to issue a false certificate if such person in the exercise of due care has reason to know that the certificate is false or misleading in any material respect; or to fail to comply with any requirement of section 2063 of this title (including the requirement for tracking labels) or any rule or regulation under such section;
 
@@ -80,7 +80,7 @@ Subsec. (a)(9), (10). Pub. L. 97–414, §9(j)(4)(B), redesignated par. (10), as
 
 Pub. L. 95–319 added par. (10), providing that it be unlawful to fail to comply with any rule or requirement under section 2082 of this title.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–284 substituted "to" for "and to" and inserted ", and to prohibited acts" after"refund" in par. (5), inserted "or fail or refuse to establish or maintain records," after "copying of records," in par. (3), and added pars. (8) and (9).
+<b>1976</b>—Subsec. (a). Pub. L. 94–284 substituted "to" for "and to" and inserted ", and to prohibited acts" after "refund" in par. (5), inserted "or fail or refuse to establish or maintain records," after "copying of records," in par. (3), and added pars. (8) and (9).
 
 #### Effective Date of 2008 Amendment
 

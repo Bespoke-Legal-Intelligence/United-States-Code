@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (1) Reserve must be nondiscriminatory
 
-&emsp;No reserve may be taken into account under subsection (c)(2) for post-retirement medical benefits or life insurance benefits to be provided to covered employees unless the planmeets the requirements of section 505(b) with respect to such benefits (whether or not such requirements apply to such plan). The preceding sentence shall not apply to any plan maintained pursuant to an agreement between employee representatives and 1 or more employers if the Secretary finds that such agreement is a collective bargaining agreement and that post-retirement medical benefits or life insurance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
+&emsp;No reserve may be taken into account under subsection (c)(2) for post-retirement medical benefits or life insurance benefits to be provided to covered employees unless the plan meets the requirements of section 505(b) with respect to such benefits (whether or not such requirements apply to such plan). The preceding sentence shall not apply to any plan maintained pursuant to an agreement between employee representatives and 1 or more employers if the Secretary finds that such agreement is a collective bargaining agreement and that post-retirement medical benefits or life insurance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
 
 #### (2) Limitation on amount of life insurance benefits
 
@@ -223,7 +223,7 @@ For purposes of this section—
 
 #### (3) Coordination with section 419
 
-&emsp;If any amount is included in the gross income of an employer for any taxable yearunder paragraph (1) with respect to any welfare benefit fund—
+&emsp;If any amount is included in the gross income of an employer for any taxable year under paragraph (1) with respect to any welfare benefit fund—
 
 &emsp;&emsp;(A) the amount of the tax imposed by this chapter which is attributable to the amount so included shall be treated as a contribution paid to such welfare benefit fund on the last day of such taxable year, and
 
@@ -249,7 +249,7 @@ For purposes of this subpart—
 
 #### (i) Regulations
 
-The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subpart. Such regulations may provide that the plan administrator of any welfare benefit fund which is part of a plan to which more than 1 employer contributes shall submit such information to the employers contributing to the fund as may be necessary to enable the employers to comply with the provisions of this section.
+The Secretary shall prescribe such regulations as may be appropriate to carry out the purposesof this subpart. Such regulations may provide that the plan administrator of any welfare benefit fund which is part of a plan to which more than 1 employer contributes shall submit such information to the employers contributing to the fund as may be necessary to enable the employers to comply with the provisions of this section.
 
 (Added Pub. L. 98–369, div. A, title V, §511(a), July 18, 1984, 98 Stat. 856; amended Pub. L. 99–514, title XVIII, §1851(a)(2), (3)(A), (4)–(7), (9), (13), Oct. 22, 1986, 100 Stat. 2858–2860, 2862; Pub. L. 100–647, title I, §1018(t)(1)(C), (2)(A), (u)(12), Nov. 10, 1988, 102 Stat. 3587, 3590; Pub. L. 104–188, title I, §1704(t)(60), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 109–280, title VIII, §843(a), Aug. 17, 2006, 120 Stat. 1010; Pub. L. 115–141, div. U, title IV, §401(a)(96), (b)(21)(B), (C), Mar. 23, 2018, 132 Stat. 1188, 1202, 1203.)
 
@@ -309,7 +309,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions ofthe Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Savings Provision
 

@@ -70,7 +70,7 @@ There is authorized to be appropriated to the Secretary to carry out this sectio
 
 &emsp;&emsp;&emsp;(v) other appropriate entities, as determined by the Secretary;
 
-&emsp;&emsp;(B) a description of the challenges faced by individuals who are engaged in farming, ranching, and other occupations relating to agriculture that may impact the behavioral and mental health of farmers and ranchers;
+&emsp;&emsp;(B) a description of the challenges faced by individuals who are engaged in farming,ranching, and other occupations relating to agriculture that may impact the behavioral and mental health of farmers and ranchers;
 
 &emsp;&emsp;(C) a description of how the Department of Agriculture can improve coordination and cooperation with Federal health departments and agencies, including the Department of Health and Human Services, the Substance Abuse and Mental Health Services Administration, the Health Resources and Services Administration, the Centers for Disease Control and Prevention, and the National Institutes of Health, to best address the behavioral and mental health of individuals who are engaged in farming, ranching, and other occupations relating to agriculture;
 

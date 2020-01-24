@@ -14,7 +14,7 @@ Incentive Contracts.—
 
 &emsp;(3) Before entering into such an order or cost-plus-incentive-fee order such parties must agree that the wage-grade employees of the Coast Guard Yard or Coast Guard industrial establishment will take action to improve the delivery schedule or technical performance agreed to in the order for industrial work to which such parties initially agreed.
 
-&emsp;(4) Notwithstanding any other provision of law, if the industrial workforce of the Coast Guard Yard or Coast Guard industrial establishment satisfies the performance target established in such an order or cost-plus-incentive-fee order—
+&emsp;(4) Notwithstanding any other provision of law, if the industrial workforce of the CoastGuard Yard or Coast Guard industrial establishment satisfies the performance target established in such an order or cost-plus-incentive-fee order—
 
 &emsp;&emsp;(A) the adjustment to be made pursuant to subsection (a) shall be reduced by an agreed-upon amount and distributed to such wage-grade industrial employees; and
 

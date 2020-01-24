@@ -10,7 +10,12 @@
 | [<b>137.</b>](Chapter%20137%20-%20Procurement%20Generally/README.md) | <b>Procurement Generally</b> | <b>2301</b> |
 | [<b>138.</b>](Chapter%20138%20-%20Cooperative%20Agreements%20with%20NATO%20Allies%20and%20Other%20Countries/README.md) | <b>Cooperative Agreements with NATO Allies and Other Countries</b> | <b>2341</b> |
 | [<b>139.</b>](Chapter%20139%20-%20Research%20and%20Development/README.md) | <b>Research and Development</b> | <b>2351</b> |
-| [<b>140.</b>](Chapter%20140%20-%20Procurement%20of%20Commercial%20Items/README.md) | <b>Procurement of Commercial Items</b> | <b>2375</b> |
+| [<b>140.</b>](Chapter%20140%20-%20Procurement%20of%20Commercial%20Products%20and%20Commercial%20Services/README.md) | <b>Procurement of Commercial Products and Commercial Services</b> | <b>2377 </b><b><sup>1</sup></b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>141.</b>](Chapter%20141%20-%20Miscellaneous%20Procurement%20Provisions/README.md) | <b>Miscellaneous Procurement Provisions</b> | <b>2381</b> |
 | [<b>142.</b>](Chapter%20142%20-%20Procurement%20Technical%20Assistance%20Cooperative%20Agreement%20Program/README.md) | <b>Procurement Technical Assistance Cooperative Agreement Program</b> | <b>2411</b> |
 | [<b>143.</b>](Chapter%20143%20-%20Production%20by%20Military%20Agencies/README.md) | <b>Production by Military Agencies</b> | <b>2421</b> |
@@ -39,10 +44,6 @@
 | [<b>173.</b>](Chapter%20173%20-%20Energy%20Security/README.md) | <b>Energy Security</b> | <b>2911</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 115–232, div. A, title VIII, §836(e)(12), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this analysis is amended by amending item for chapter 140 to read "Procurement of Commercial Products and Commercial Services" and by substituting "2377" for "2375". See 2018 Amendment note below.</i>
 
 #### Amendments
 
@@ -76,7 +77,7 @@ Pub. L. 104–106, div. A, title X, §1061(b)(2), Feb. 10, 1996, 110 Stat. 442, 
 
 <b>1992</b>—Pub. L. 102–484, div. D, title XLII, §4271(b)(1), Oct. 23, 1992, 106 Stat. 2695, added item for chapter 148 and struck out former items for chapters 148 "Defense Industrial Base", 149 "Manufacturing Technology", and 150 "Development of Dual-Use Critical Technologies".
 
-<b>1991</b>—Pub. L. 102–190, div. A, title VIII, §821(f), title X, §1061(a)(27)(A), Dec. 5, 1991, 105 Stat. 1432, 1474, substituted "Manufacturing" for "Maufacturing" in item for chapter 149, substituted "Development of Dual-Use Critical Technologies" for "Issue to Armed Forces" in item for chapter 150, struck out item for chapter 151 "Issue of Serviceable Material Other Than to Armed Forces", and added item for chapter 152.
+<b>1991</b>—Pub. L. 102–190, div. A, title VIII, §821(f), title X, §1061(a)(27)(A), Dec. 5, 1991, 105 Stat. 1432, 1474, substituted "Manufacturing" for "Maufacturing" in item for chapter 149, substituted "Development of Dual-Use Critical Technologies" for "Issue to Armed Forces" in item for chapter 150, struck out item for chapter 151"Issue of Serviceable Material Other Than to Armed Forces", and added item for chapter 152.
 
 <b>1990</b>—Pub. L. 101–510, div. A, title VIII, §823(b)(1), title XVIII, §1801(a)(2), Nov. 5, 1990, 104 Stat. 1602, 1757, added item for chapter 149, redesignated former item for chapter 149 as item for chapter 150, and added item for chapter 172.
 
@@ -86,7 +87,7 @@ Pub. L. 104–106, div. A, title X, §1061(b)(2), Feb. 10, 1996, 110 Stat. 442, 
 
 Pub. L. 100–370, §§1(e)(2), 2(a)(2), 3(a)(2), July 19, 1988, 102 Stat. 845, 854, 855, added items for chapters 134, 146, and 148.
 
-<b>1987</b>—Pub. L. 100–26, §7(c)(1), Apr. 21, 1987, 101 Stat. 280, substituted "Acquisition and Cross-ServicingAgreements with NATO Allies and Other Countries" for "North Atlantic Treaty Organization Acquisition and Cross-Servicing Agreements" in item for chapter 138, substituted "Major Defense Acquisition Programs" for "Oversight of Cost Growth in Major Programs" and "2430" for "2431" in item for chapter 144, and substituted "2721" for "2701" in item for chapter 161.
+<b>1987</b>—Pub. L. 100–26, §7(c)(1), Apr. 21, 1987, 101 Stat. 280, substituted "Acquisition and Cross-Servicing Agreements with NATO Allies and Other Countries" for "North Atlantic Treaty Organization Acquisition and Cross-Servicing Agreements" in item for chapter 138, substituted "Major Defense Acquisition Programs" for "Oversight of Cost Growth in Major Programs" and "2430" for "2431" in item for chapter 144, and substituted "2721" for "2701" in item for chapter 161.
 
 <b>1986</b>—Pub. L. 99–661, div. A, title XIII, §1343(a)(22), Nov. 14, 1986, 100 Stat. 3994, substituted "2341" for "2321" in item for chapter 138.
 
@@ -102,6 +103,8 @@ Pub. L. 97–214, §2(b), July 12, 1982, 96 Stat. 169, added item for chapter 16
 
 <b>1980</b>—Pub. L. 96–323, §2(b), Aug. 4, 1980, 94 Stat. 1019, added item for chapter 138.
 
+<i><sup>1</sup></i><i> So in original. Probably should be "2375".</i>
+
 
 ---
 
@@ -115,7 +118,7 @@ Pub. L. 97–214, §2(b), July 12, 1982, 96 Stat. 169, added item for chapter 16
 - [Chapter 137 - Procurement Generally](Chapter%20137%20-%20Procurement%20Generally/README.md)
 - [Chapter 138 - Cooperative Agreements with NATO Allies and Other Countries](Chapter%20138%20-%20Cooperative%20Agreements%20with%20NATO%20Allies%20and%20Other%20Countries/README.md)
 - [Chapter 139 - Research and Development](Chapter%20139%20-%20Research%20and%20Development/README.md)
-- [Chapter 140 - Procurement of Commercial Items](Chapter%20140%20-%20Procurement%20of%20Commercial%20Items/README.md)
+- [Chapter 140 - Procurement of Commercial Products and Commercial Services](Chapter%20140%20-%20Procurement%20of%20Commercial%20Products%20and%20Commercial%20Services/README.md)
 - [Chapter 141 - Miscellaneous Procurement Provisions](Chapter%20141%20-%20Miscellaneous%20Procurement%20Provisions/README.md)
 - [Chapter 142 - Procurement Technical Assistance Cooperative Agreement Program](Chapter%20142%20-%20Procurement%20Technical%20Assistance%20Cooperative%20Agreement%20Program/README.md)
 - [Chapter 143 - Production by Military Agencies](Chapter%20143%20-%20Production%20by%20Military%20Agencies/README.md)

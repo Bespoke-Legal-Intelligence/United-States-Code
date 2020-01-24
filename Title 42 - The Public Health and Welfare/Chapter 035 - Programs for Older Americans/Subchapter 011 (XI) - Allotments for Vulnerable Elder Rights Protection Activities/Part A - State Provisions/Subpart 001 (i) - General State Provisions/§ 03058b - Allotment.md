@@ -26,7 +26,7 @@
 
 #### (i) Ombudsman program
 
-&emsp;&emsp;&emsp;No State shall be allotted for a fiscal year, from the funds appropriated under section 3058a of this title and made available to carry out subpart II of this part, less than the amount allotted to the State under section 3024 of this title in fiscalyear 2000 to carry out the State Long-Term Care Ombudsman program under subchapter III.
+&emsp;&emsp;&emsp;No State shall be allotted for a fiscal year, from the funds appropriated under section 3058a of this title and made available to carry out subpart II of this part, less than the amount allotted to the State under section 3024 of this title in fiscal year 2000 to carry out the State Long-Term Care Ombudsman program under subchapter III.
 
 #### (ii) Elder abuse programs
 

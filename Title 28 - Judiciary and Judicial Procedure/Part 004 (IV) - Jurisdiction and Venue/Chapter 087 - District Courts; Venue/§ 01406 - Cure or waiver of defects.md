@@ -46,5 +46,5 @@ Amendment by Pub. L. 87–845 effective Jan. 2, 1962, see section 25 of Pub. L. 
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–770, §4, Sept. 13, 1960, 74 Stat. 913, provided in part that: "The amendments made by sections 1 and 2 of this Act \[adding subsec. (c) of this section and section 1506 of this title\] shall apply to any case or proceeding pending on, or brought after, the date of enactment of this Act \[Sept. 13, 1960\] in the district courts or the Court of Claims."
+Pub. L. 86–770, §4, Sept. 13, 1960, 74 Stat. 913, provided in part that: "The amendments made by sections 1 and2 of this Act \[adding subsec. (c) of this section and section 1506 of this title\] shall apply to any case or proceeding pending on, or brought after, the date of enactment of this Act \[Sept. 13, 1960\] in the district courts or the Court of Claims."
 

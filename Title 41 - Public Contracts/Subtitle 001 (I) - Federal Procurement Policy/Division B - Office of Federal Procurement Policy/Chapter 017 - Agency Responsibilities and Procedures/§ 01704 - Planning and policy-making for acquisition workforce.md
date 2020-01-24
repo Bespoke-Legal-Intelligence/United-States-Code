@@ -44,7 +44,7 @@ Requirement.—The head of each executive agency, after consultation with the As
 
 &emsp;&emsp;(B) be developed and applied according to rigorous standards; and
 
-&emsp;&emsp;(C) be designed to maximize efficiency, through the use of self-paced courses, online courses, on-the-job training, and the use of remote instructors, wherever those features can be applied without reducing the effectiveness of the training or negatively affecting academic standards.
+&emsp;&emsp;(C) be designed to maximize efficiency, through the use of self-paced courses, online courses, on-the-job training, and the use of remote instructors, wherever those featurescan be applied without reducing the effectiveness of the training or negatively affecting academic standards.
 
 (d)
 
@@ -82,7 +82,7 @@ Acquisition Workforce Development Strategic Plan.—
 
 &emsp;(1)
 
-Purpose.—The purpose of this subsection is to authorize the preparation and completion of the Acquisition Workforce Development Strategic Plan, which is a plan for Federalagencies other than the Department of Defense to—
+Purpose.—The purpose of this subsection is to authorize the preparation and completion of the Acquisition Workforce Development Strategic Plan, which is a plan for Federal agencies other than the Department of Defense to—
 
 &emsp;&emsp;(A) develop a specific and actionable 5-year plan to increase the size of the acquisition workforce; and
 
@@ -178,7 +178,7 @@ In subsection (a), the definition of "executive agency" is omitted as unnecessar
 
 In subsection (f)(1), the words "Not later than 1 year after the date of the enactment of this Act" are omitted as obsolete.
 
-In subsection (g)(2), the words "Associate Administrator" are substituted for "Associate Administrator for Acquisition Workforce Programs designated under section 855(a) of the National Defense AuthorizationAct for Fiscal Year 2008 (Public Law 110-181; 122 Stat. 251; 41 U.S.C. 433(a))" because of subsection (a)(1).
+In subsection (g)(2), the words "Associate Administrator" are substituted for "Associate Administrator for Acquisition Workforce Programs designated under section 855(a) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110-181; 122 Stat. 251; 41 U.S.C. 433(a))" because of subsection (a)(1).
 
 In subsection (g)(3)(D), the reference to "section 37(j) of the Office of Federal Procurement Policy Act" is changed to "section 1703(g) of this title" to correct an error in the law.
 

@@ -1,6 +1,6 @@
 ### §1437. Repealed. Pub. L. 101–73, title VII, §703(a), Aug. 9, 1989, 103 Stat. 415
 
-Section, acts July 22, 1932, ch. 522, §17, 47 Stat. 736; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954; Aug. 11, 1955, ch. 783, title I, §109(a)(3), 69 Stat. 640; June 29, 1977, Pub. L. 95–56, 91 Stat. 252; Aug. 4, 1977, Pub. L. 95–90, §§1, 2, 91 Stat. 564; Oct. 15, 1982, Pub. L. 97–320, title I, §127, 96 Stat. 1486; Jan. 12, 1983, Pub. L. 97–457, §8, 96 Stat. 2507; Nov. 30, 1983, Pub. L. 98–181, title I \[title VII, §702(b)\], 97 Stat. 1267, set forth powers and duties, etc., of Federal Home Loan Bank Board.
+Section, acts July 22, 1932, ch. 522, §17, 47 Stat. 736; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61Stat. 954; Aug. 11, 1955, ch. 783, title I, §109(a)(3), 69 Stat. 640; June 29, 1977, Pub. L. 95–56, 91 Stat. 252; Aug. 4, 1977, Pub. L. 95–90, §§1, 2, 91 Stat. 564; Oct. 15, 1982, Pub. L. 97–320, title I, §127, 96 Stat. 1486; Jan. 12, 1983, Pub. L. 97–457, §8, 96 Stat. 2507; Nov. 30, 1983, Pub. L. 98–181, title I \[title VII, §702(b)\], 97 Stat. 1267, set forth powers and duties, etc., of Federal Home Loan Bank Board.
 
 #### Transfer of Functions, Personnel, and Property of Federal Savings and Loan Insurance Corporation and Federal Home Loan Bank Board
 
@@ -58,7 +58,7 @@ Authority and Status of Chairman of the Federal Home Loan Bank Board.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding the repeal of section 17 of the Federal Home Loan Bank Act \[12 U.S.C. 1437\] by section 703 of this Act, the repeal ofsection 402(c) of the National Housing Act \[12 U.S.C. 1725(c)\] by section 407 of this title, the abolishment of the Federal Savings and Loan Insurance Corporation under section 401 of this title, the Chairman of the Federal Home Loan Bank Board shall have any authority vested in the Chairman or the Board before such date of enactment \[Aug. 9, 1989\] which is necessary for the Chairman to carry out the requirements of this section, paragraphs (1) and (2) of section 403(b), and section 405(a) during the 60-day period beginning on such date.
+In general.—Notwithstanding the repeal of section 17 of the Federal Home Loan Bank Act \[12 U.S.C. 1437\] by section 703 of this Act, the repeal of section 402(c) of the National Housing Act \[12 U.S.C. 1725(c)\] by section 407 of this title, the abolishment of the Federal Savings and Loan Insurance Corporation under section 401 of this title, the Chairman of the Federal Home Loan Bank Board shall have any authority vested in the Chairman or the Board before such date of enactment \[Aug. 9, 1989\] which is necessary for the Chairman to carry out the requirements of this section, paragraphs (1) and (2) of section 403(b), and section 405(a) during the 60-day period beginning on such date.
 
 &emsp;"(2)
 
@@ -98,7 +98,7 @@ Reimbursement.—The reimbursement required under paragraph (1) with respect to 
 
 &emsp;"(3)
 
-Agency services.—Any agency, department, or other instrumentality of the United States (including any Federal home loan bank), and any successor to any such agency, department, or instrumentality, which was providing supporting services to the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation before the enactment of this Act \[Aug. 9, 1989\] in connection with functions that are transferred to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board shall—
+Agency services.—Any agency, department, or other instrumentality of the United States (including any Federal home loan bank), and any successor to any such agency, department, or instrumentality, which was providing supporting services to the Federal Home Loan Bank Board or the Federal Savingsand Loan Insurance Corporation before the enactment of this Act \[Aug. 9, 1989\] in connection with functions that are transferred to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board shall—
 
 &emsp;&emsp;"(A) continue to provide such services, on a reimbursable basis, until the transfer of such functions is complete; and
 
@@ -148,7 +148,7 @@ Continuation of Orders, Resolutions, Determinations, and Regulations.—Subject 
 
 &emsp;"(2) are in effect on the date this Act takes effect \[Aug. 9, 1989\],
 
-> shall continue in effect according to the terms of such orders, resolutions, determinations, and regulations and shall be enforceable by or against the Director of the Office of Thrift Supervision, the Federal Deposit Insurance Corporation, the Federal Housing Finance Board, or the Resolution Trust Corporation, as the case may be, until modified, terminated, set aside, or superseded in accordance with applicable law by the Director of the Office of Thrift Supervision, the Federal Deposit Insurance Corporation, the Federal Housing Finance Board, or the Resolution Trust Corporation, as the casemay be, by any court of competent jurisdiction, or by operation of law.
+> shall continue in effect according to the terms of such orders, resolutions, determinations, and regulations and shall be enforceable by or against the Director of the Office of Thrift Supervision, the Federal Deposit Insurance Corporation, the Federal Housing Finance Board, or the Resolution Trust Corporation, as the case may be, until modified, terminated, set aside, or superseded in accordance with applicable law by the Director of the Office of Thrift Supervision, the Federal Deposit Insurance Corporation, the Federal Housing Finance Board, or the Resolution Trust Corporation, as the case may be, by any court of competent jurisdiction, or by operation of law.
 
 "(i)
 
@@ -190,7 +190,7 @@ Uniform treatment of insured deposits.—The Federal Deposit Insurance Corporati
 
 &emsp;&emsp;"(A) review its regulations, principles, and interpretations for deposit insurance coverage and those established by the Federal Savings and Loan Insurance Corporation; and
 
-&emsp;&emsp;"(B) on or before the end of the 270-day period beginning on the date of the enactment of this Act, prescribe a uniform set of regulations which shall be applicable to all insured deposits in insured depository institutions (except to the extent any provision of this Act, any amendment made by this Act to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], or any other provision of law requires or explicitly permits the Federal Deposit Insurance Corporation to treat insured deposits of Savings Association Insurance Fund members differently than insured deposits of Bank Insurance Fund members).
+&emsp;&emsp;"(B) on or before the end of the 270-day period beginning on the date of the enactment of this Act, prescribe a uniform set of regulations which shallbe applicable to all insured deposits in insured depository institutions (except to the extent any provision of this Act, any amendment made by this Act to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], or any other provision of law requires or explicitly permits the Federal Deposit Insurance Corporation to treat insured deposits of Savings Association Insurance Fund members differently than insured deposits of Bank Insurance Fund members).
 
 &emsp;"(4)
 
@@ -302,7 +302,7 @@ FSLIC Employees Engaged in Conservatorship or Receivership Functions.—Individu
 
 &emsp;"(4) If any agency or entity to which employees are transferred determines, after the end of the 1-year period beginning on the date the transfer of functions to such agency or entity is completed, that a reorganization of the combined work force is required, that reorganization shall be deemed a 'major reorganization' for purposes of affording affected employees retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5, United States Code.
 
-&emsp;"(5) Any employee accepting employment with any agency or entity (other than the Office of Thrift Supervision) as a result of such transfer may retain for 1 year after the date such transfer occurs membership in any employee benefit program of the Federal Home Loan Bank Board, including insurance, towhich such employee belongs on the date of the enactment of this Act \[Aug. 9, 1989\] if—
+&emsp;"(5) Any employee accepting employment with any agency or entity (other than the Office of Thrift Supervision) as a result of such transfer may retain for 1 year after the date such transfer occurs membership in any employee benefit program of the Federal Home Loan Bank Board, including insurance, to which such employee belongs on the date of the enactment of this Act \[Aug. 9, 1989\] if—
 
 &emsp;&emsp;"(A) the employee does not elect to give up the benefit or membership in the program; and
 
@@ -392,7 +392,7 @@ Principal Supervisory Agent.—Beginning on the date of enactment of this Act \[
 
 #### Special Account
 
-Pub. L. 101–73, title VII, §725, Aug. 9, 1989, 103 Stat. 429, provided that: "At the time of dissolution of the Federal Home Loan Bank Board, all such moneys and funds as shall remain in the special deposit account of the Federal Home Loan Bank Board, or other such accounts, shall become the property of the Federal Housing Finance Board."
+Pub. L. 101–73, title VII, §725, Aug. 9, 1989, 103 Stat. 429, provided that: "At the time of dissolution of theFederal Home Loan Bank Board, all such moneys and funds as shall remain in the special deposit account of the Federal Home Loan Bank Board, or other such accounts, shall become the property of the Federal Housing Finance Board."
 
 #### Improvements in Supervisory Process
 

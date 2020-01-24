@@ -14,7 +14,7 @@ State laws, regulations, provisions, or other actions purporting to regulate ins
 
 &emsp;&emsp;(B) impose any requirement upon a member of the Association that it pay fees different from those required to be paid to that State were it not a member of the Association; or
 
-&emsp;&emsp;(C) impose any continuing education requirements on any nonresident insuranceproducer that is a member of the Association.
+&emsp;&emsp;(C) impose any continuing education requirements on any nonresident insurance producer that is a member of the Association.
 
 #### (2) States other than a home State
 

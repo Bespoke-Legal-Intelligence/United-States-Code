@@ -14,7 +14,7 @@ Each Federal land bank association shall be a body corporate and, subject to sup
 
 &emsp;(6) operate under the direction of the board of directors of the association in accordance with this chapter;
 
-&emsp;(7) provide by its board of directors for a manager or other chief executive officer, and provide for such other officers or employees as may be necessary, including joint employees as provided in this chapter, define the duties of such, and require surety bonds or make other provision against losses occasioned by employees, except that no director shall, within one year after the date when such director ceases to be a member of the board, serve as a salaried employee of the association on the board of which such director served;
+&emsp;(7) provide by its board of directors for a manager or other chief executive officer, andprovide for such other officers or employees as may be necessary, including joint employees as provided in this chapter, define the duties of such, and require surety bonds or make other provision against losses occasioned by employees, except that no director shall, within one year after the date when such director ceases to be a member of the board, serve as a salaried employee of the association on the board of which such director served;
 
 &emsp;(8) prescribe, by its board of directors, its bylaws that shall be consistent with law, and that shall provide for—
 
@@ -76,7 +76,7 @@ Par. (22). Pub. L. 100–399, §401(u)(4)–(6), added par. (22).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233,which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
 #### Effective Date
 

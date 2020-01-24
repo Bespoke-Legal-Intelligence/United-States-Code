@@ -152,7 +152,7 @@
 
 &emsp;&emsp;&emsp;(I) by the Secretary, in the case of a consolidation loan for which the application is received by an eligible lender before November 13, 1997, that consolidated only Federal Stafford Loans for which the student borrower received an interest subsidy under section 1078 of this title;
 
-&emsp;&emsp;&emsp;(II) by the Secretary, in the case of a consolidation loan for which the application is received by an eligible lender on or after November 13, 1997, except that theSecretary shall pay such interest only on that portion of the loan that repays Federal Stafford Loans for which the student borrower received an interest subsidy under section 1078 of this title or Federal Direct Stafford Loans for which the borrower received an interest subsidy under section 1087e of this title; or
+&emsp;&emsp;&emsp;(II) by the Secretary, in the case of a consolidation loan for which the application is received by an eligible lender on or after November 13, 1997, except that the Secretary shall pay such interest only on that portion of the loan that repays Federal Stafford Loans for which the student borrower received an interest subsidy under section 1078 of this title or Federal Direct Stafford Loans for which the borrower received an interest subsidy under section 1087e of this title; or
 
 &emsp;&emsp;&emsp;(III) by the borrower, or capitalized, in the case of a consolidation loan other than a loan described in subclause (I) or (II);
 
@@ -162,7 +162,7 @@
 
 #### (5) Direct loans
 
-&emsp;If, before July 1, 2010, a borrower is unable to obtain a consolidation loan from a lender with an agreement under subsection (a)(1), or is unable to obtain a consolidation loan with income-sensitive repayment terms or income-based repayment terms acceptable to the borrower from such a lender, or chooses to obtain a consolidation loan for the purposes of using the public service loan forgiveness program offered under section 1087e(m) of this title, the Secretary shall offer any such borrower who applies for it, a Federal Direct Consolidation loan. In addition, in the event that a borrower chooses to obtain a consolidation loan for the purposes of using the no accrual of interest for active duty service members program offered under section 1087e(o) of this title, the Secretary shall offer a Federal Direct Consolidation loan to any such borrower who applies for participation in such program. A direct consolidation loan offered under this paragraph shall, as requested by the borrower, be repaid either pursuant to income contingent repayment under part D of this subchapter, pursuant to income-based repayment under section 1098e of this title, or pursuant to any other repayment provision under this section, except that if a borrower intends to be eligible to use the public service loan forgiveness program under section 1087e(m) of this title, such loan shall be repaid using one of the repayment options described in section 1087e(m)(1)(A) of this title. The Secretary shall not offer such loans if, in the Secretary's judgment, the Department of Education does not have the necessary origination and servicing arrangements in place for such loans.
+&emsp;If, before July 1, 2010, a borrower is unable to obtain a consolidation loan from a lender with an agreement under subsection (a)(1), or is unable to obtain a consolidation loan with income-sensitive repayment terms or income-based repayment terms acceptable to the borrower from such a lender, or chooses to obtain a consolidation loan for the purposes of usingthe public service loan forgiveness program offered under section 1087e(m) of this title, the Secretary shall offer any such borrower who applies for it, a Federal Direct Consolidation loan. In addition, in the event that a borrower chooses to obtain a consolidation loan for the purposes of using the no accrual of interest for active duty service members program offered under section 1087e(o) of this title, the Secretary shall offer a Federal Direct Consolidation loan to any such borrower who applies for participation in such program. A direct consolidation loan offered under this paragraph shall, as requested by the borrower, be repaid either pursuant to income contingent repayment under part D of this subchapter, pursuant to income-based repayment under section 1098e of this title, or pursuant to any other repayment provision under this section, except that if a borrower intends to be eligible to use the public service loan forgiveness program under section 1087e(m) of this title, such loan shall be repaid using one of the repayment options described in section 1087e(m)(1)(A) of this title. The Secretary shall not offer such loans if, in the Secretary's judgment, the Department of Education does not have the necessary origination and servicing arrangements in place for such loans.
 
 #### (6) Nondiscrimination in loan consolidation
 
@@ -290,7 +290,7 @@
 
 #### (e) Termination of authority
 
-The authority to make loans under this section expires at the close of June 30, 2010. No loan may be made under this section for which the disbursement is on or after July 1, 2010. Nothing in this section shall be construed to authorize the Secretary to promulgate rules or regulations governing the terms or conditions of the agreements and certificates under subsection (b). Loans made under this section which are insured by the Secretary shall be considered to be new loans made to students for the purpose of section 1074(a) of this title.
+The authority to make loans under this section expires at the close of June 30, 2010. No loan may be made under this section for which the disbursement is on or after July 1, 2010. Nothingin this section shall be construed to authorize the Secretary to promulgate rules or regulations governing the terms or conditions of the agreements and certificates under subsection (b). Loans made under this section which are insured by the Secretary shall be considered to be new loans made to students for the purpose of section 1074(a) of this title.
 
 #### (f) Interest payment rebate fee
 
@@ -400,7 +400,7 @@ Subsec. (e). Pub. L. 109–171, §8004(b)(3), substituted "2012" for "2004".
 
 <b>1998</b>—Subsec. (a)(3). Pub. L. 105–244, §420(a), amended heading, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which defined the term "eligible borrower", provided for termination of individual's status as an eligible borrower, and provided for counting loans against certain limitations on aggregate indebtedness.
 
-Subsec. (a)(4)(C). Pub. L. 105–244, §420(b), added subpar. (C) and struck out former subpar. (C) which read asfollows: "made under part D of this subchapter, except that loans made under such part shall be eligible student loans only for consolidation loans for which the application is received by an eligible lender during the period beginning on November 13, 1997, and ending on October 1, 1998;".
+Subsec. (a)(4)(C). Pub. L. 105–244, §420(b), added subpar. (C) and struck out former subpar. (C) which read as follows: "made under part D of this subchapter, except that loans made under such part shall be eligible student loans only for consolidation loans for which the application is received by an eligible lender during the period beginning on November 13, 1997, and ending on October 1, 1998;".
 
 Subsec. (b)(1)(A)(i). Pub. L. 105–244, §420(c)(1), inserted "except that this clause shall not apply in the case of a borrower with multiple holders of loans under this part," after "under this section,".
 
@@ -476,7 +476,7 @@ Subsec. (f). Pub. L. 103–66, §4106(a), added subsec. (f).
 
 Subsec. (a)(3)(A)(i). Pub. L. 102–325, §419(b)(1)(A), substituted "$7,500" for "$5,000".
 
-Subsec. (a)(3)(A)(ii). Pub. L. 102–325, §419(b)(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii)read as follows: "is in repayment status, or in a grace period preceding repayment, and is not delinquent with respect to any required payment on such indebtedness by more than 90 days."
+Subsec. (a)(3)(A)(ii). Pub. L. 102–325, §419(b)(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "is in repayment status, or in a grace period preceding repayment, and is not delinquent with respect to any required payment on such indebtedness by more than 90 days."
 
 Subsec. (a)(3)(B). Pub. L. 102–325, §419(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "An individual's status as an eligible borrower under this section terminates upon receipt of a consolidation loan under this section except with respect to eligible student loans received after the date of receipt of the consolidation loan. Loans made under this section shall, to the extent used to discharge loans made under this subchapter, be counted against the applicable limitations on aggregate indebtedness contained in sections 1075(a)(2), 1078(b)(1)(B), 1078–1(b)(2), and 1087dd(a)(2) of this title. Nothing in this subparagraph shall be interpreted to authorize the Secretary to require lenders, holders, or guarantors of consolidation loans to receive, to maintain, or to make reports with respect to pre-existing records relating to any eligible student loan (as defined under subsection (a)(4) of this section) discharged by a borrower in receiving a consolidation loan."
 
@@ -484,7 +484,7 @@ Subsec. (a)(3)(C). Pub. L. 102–325, §419(d), added subpar. (C).
 
 Subsec. (a)(4)(A). Pub. L. 102–325, §419(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "made, insured, or guaranteed under this part, except for loans made to parent borrowers under section 1078–2 of this title, including loans made to parent borrowers under section 1078–2 of this title as in effect prior to October 17, 1986;".
 
-Subsec. (b)(4)(C). Pub. L. 102–325, §419(e), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "provides that periodic installments of principal need not be paid, but interest shall accrue and be paid, during any period for which the borrower would be eligible for a deferral under clause (i), (viii), or (ix) of section 1078(b)(1)(M) of this title, and that any such period shall not be included in determining the repayment period pursuant to subsection (c)(2) of this section;".
+Subsec. (b)(4)(C). Pub. L. 102–325, §419(e), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: "provides that periodic installments of principal need not be paid, but interest shall accrue and be paid, during any period for which the borrower would be eligible for a deferral under clause (i), (viii), or (ix) of section 1078(b)(1)(M) of this title, and that any such period shall not be included in determining the repayment period pursuant to subsection (c)(2) of this section;".
 
 Subsec. (c)(2)(A). Pub. L. 102–325, §419(f), substituted "which shall include" for "which may include" in first sentence, inserted second sentence, and struck out former second sentence which read as follows: "Such repayment terms shall require that if the sum of the consolidation loan and the amount outstanding on other student loans to the individual—
 
@@ -550,7 +550,7 @@ Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provi
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 416(b)(2) of Pub. L. 105–244 applicable with respect to any loan made, insured, or guaranteed under this part for which the first disbursement is made on or after Oct. 1, 1998, and before July 1, 2003, except that such amendment is applicable withrespect to any loan made under this section for which application is received by an eligible lender on or after Oct. 1, 1998, and before July 1, 2003, see section 416(c) of Pub. L. 105–244, set out as a note under section 1077a of this title.
+Amendment by section 416(b)(2) of Pub. L. 105–244 applicable with respect to any loan made, insured, or guaranteed under this part for which the first disbursement is made on or after Oct. 1, 1998, and before July 1, 2003, except that such amendment is applicable with respect to any loan made under this section for which application is received by an eligible lender on or after Oct. 1, 1998, and before July 1, 2003, see section 416(c) of Pub. L. 105–244, set out as a note under section 1077a of this title.
 
 Amendment by section 420 of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 

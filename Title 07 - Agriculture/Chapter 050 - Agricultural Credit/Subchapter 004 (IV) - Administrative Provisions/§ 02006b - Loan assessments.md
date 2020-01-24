@@ -20,7 +20,7 @@ In evaluating the farming plan and financial situation of an applicant under thi
 
 #### (c) Contract
 
-The Secretary may contract with a third party (including those entities eligible to provide borrower training under section 2006a(b) ofthis title) to conduct loan assessments under this section.
+The Secretary may contract with a third party (including those entities eligible to provide borrower training under section 2006a(b) of this title) to conduct loan assessments under this section.
 
 #### (d) Review of loans
 

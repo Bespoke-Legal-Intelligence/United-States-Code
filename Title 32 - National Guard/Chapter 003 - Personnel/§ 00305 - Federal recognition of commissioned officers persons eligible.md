@@ -12,7 +12,7 @@
 
 &emsp;(5) Graduates of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the United States Coast Guard Academy, or the United States Merchant Marine Academy.
 
-&emsp;(6) Graduates of a school, college, university, or officer's training camp who received military instruction under the supervision of a commissioned officer of the Regular Army or the Regular Air Force, and whose fitness for appointment has been certified by that officer.
+&emsp;(6) Graduates of a school, college, university, or officer's training camp who received military instruction under the supervision of a commissioned officer of the Regular Army orthe Regular Air Force, and whose fitness for appointment has been certified by that officer.
 
 &emsp;(7) Civilians who are specially qualified for duty in a technical or staff branch or organization.
 

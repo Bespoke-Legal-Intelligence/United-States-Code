@@ -50,7 +50,7 @@ The initiative described in subsection (a) shall include the following activitie
 
 #### (3) Administration
 
-&emsp;In making grants under this section, the Secretary shall follow the requirements of paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this title.
+&emsp;In making grants under this section, the Secretary shall follow the requirements ofparagraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this title.
 
 #### (4) Term
 

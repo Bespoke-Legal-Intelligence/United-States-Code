@@ -38,7 +38,7 @@ Bet or wager.—The term "bet or wager"—
 
 &emsp;&emsp;&emsp;&emsp;(I) personal efforts of the participants in playing the game or contest or obtaining access to the Internet; or
 
-&emsp;&emsp;&emsp;&emsp;(II) points or credits that the sponsor of the game or contest provides to participants free of charge and that can beused or redeemed only for participation in games or contests offered by the sponsor; or
+&emsp;&emsp;&emsp;&emsp;(II) points or credits that the sponsor of the game or contest provides to participants free of charge and that can be used or redeemed only for participation in games or contests offered by the sponsor; or
 
 &emsp;&emsp;&emsp;(ix) participation in any fantasy or simulation sports game or educational game or contest in which (if the game or contest involves a team or teams) no fantasy or simulation sports team is based on the current membership of an actual team that is a member of an amateur or professional sports organization (as those terms are defined in section 3701 of title 28) and that meets the following conditions:
 

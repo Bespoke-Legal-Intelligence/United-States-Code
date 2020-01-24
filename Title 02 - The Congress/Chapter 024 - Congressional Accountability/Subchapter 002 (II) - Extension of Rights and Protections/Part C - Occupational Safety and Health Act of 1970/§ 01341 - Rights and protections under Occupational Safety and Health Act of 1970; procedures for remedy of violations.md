@@ -70,13 +70,13 @@ The remedy for a violation of subsection (a) shall be an order to correct the vi
 
 #### (1) Periodic inspections
 
-&emsp;On a regular basis, and at least once each Congress, the General Counsel, exercising thesame authorities of the Secretary of Labor as under subsection (c)(1), shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Office of Congressional Accessibility Services, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Congressional Workplace Rights, the Office of Technology Assessment, the Library of Congress, and the Government Accountability Office to report on compliance with subsection (a).
+&emsp;On a regular basis, and at least once each Congress, the General Counsel, exercising the same authorities of the Secretary of Labor as under subsection (c)(1), shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Office of Congressional Accessibility Services, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Congressional Workplace Rights, the Office of Technology Assessment, the Library of Congress, and the Government Accountability Office to report on compliance with subsection (a).
 
 #### (2) Report
 
 &emsp;On the basis of each periodic inspection, the General Counsel shall prepare and submit a report—
 
-&emsp;&emsp;(A) to the Speaker of the House of Representatives, the President pro tempore of the Senate, and the Office of the Architect of the Capitol or other employing office responsible for correcting the violation of this section uncovered by such inspection, and
+&emsp;&emsp;(A) to the Speaker of the House of Representatives, the President pro tempore ofthe Senate, and the Office of the Architect of the Capitol or other employing office responsible for correcting the violation of this section uncovered by such inspection, and
 
 &emsp;&emsp;(B) containing the results of the periodic inspection, identifying the employing office responsible for correcting the violation of this section uncovered by such inspection, describing any steps necessary to correct any violation of this section, and assessing any risks to employee health and safety associated with any violation.
 

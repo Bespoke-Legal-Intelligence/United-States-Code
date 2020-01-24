@@ -100,7 +100,7 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 &emsp;Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or 5703(b) shall be paid in such a manner as to ensure that the requirements of the second sentence of paragraph (1)(A) of this subsection are satisfied.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 775; June 29, 1956, ch. 462, title II, §206(b), 70 Stat. 391; Pub. L.94–455, title XIX, §1906(a)(17), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 95–147, §3(a), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 95–600, title I, §105(e), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–223, title I, §101(c)(2), Apr. 2, 1980, 94 Stat. 250; Pub. L. 98–369, div. A, title X, §1015(c), July 18, 1984, 98 Stat. 1018; Pub. L. 100–418, title I, §1941(b)(2)(G), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §6107(a), Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–239, title VII, §§7502(a), 7507(a), 7632(a), Dec. 19, 1989, 103 Stat. 2362, 2369, 2379; Pub. L. 101–508, title XI, §§11217(b)(1), 11334(a), 11801(c)(22)(A), Nov. 5, 1990, 104 Stat. 1388–437, 1388–470, 1388–528; Pub. L. 103–66, title XIII, §13242(d)(15), Aug. 10, 1993, 107 Stat. 524; Pub. L. 103–182, title V, §523(a), Dec. 8, 1993, 107 Stat. 2161; Pub. L. 103–465, title VII, §712(a), (d), Dec. 8, 1994, 108 Stat. 4999, 5001; Pub. L. 104–188, title I, §§1702(c)(3), 1704(t)(52), Aug. 20, 1996, 110 Stat. 1869, 1890; Pub. L. 111–226, title II, §219(b)(2), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–237, §2(a), Aug. 16, 2010, 124 Stat. 2497; Pub. L. 113–295, div. A, title II, §221(a)(110), Dec. 19, 2014, 128 Stat. 4053; Pub. L. 115–141, div. U, title IV, §401(a)(279), Mar. 23, 2018, 132 Stat. 1197.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 775; June 29, 1956, ch. 462, title II, §206(b), 70 Stat. 391; Pub. L. 94–455, title XIX, §1906(a)(17), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 95–147, §3(a), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 95–600, title I, §105(e), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–223, title I, §101(c)(2), Apr. 2, 1980, 94 Stat. 250; Pub. L. 98–369, div. A, title X, §1015(c), July 18, 1984, 98 Stat. 1018; Pub. L. 100–418, title I, §1941(b)(2)(G), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §6107(a), Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–239, title VII, §§7502(a), 7507(a), 7632(a), Dec. 19, 1989, 103 Stat. 2362, 2369, 2379; Pub. L. 101–508, title XI, §§11217(b)(1), 11334(a), 11801(c)(22)(A), Nov. 5, 1990, 104 Stat. 1388–437, 1388–470, 1388–528; Pub. L. 103–66, title XIII, §13242(d)(15), Aug. 10, 1993, 107 Stat. 524; Pub. L. 103–182, title V, §523(a), Dec. 8, 1993, 107 Stat. 2161; Pub. L. 103–465, title VII, §712(a), (d), Dec. 8, 1994, 108 Stat. 4999, 5001; Pub. L. 104–188, title I, §§1702(c)(3), 1704(t)(52), Aug. 20, 1996, 110 Stat. 1869, 1890; Pub. L. 111–226, title II, §219(b)(2), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–237, §2(a), Aug. 16, 2010, 124 Stat. 2497; Pub. L. 113–295, div. A, title II, §221(a)(110), Dec. 19, 2014, 128 Stat. 4053; Pub. L. 115–141, div. U, title IV, §401(a)(279), Mar. 23, 2018, 132 Stat. 1197.)
 
 #### Amendments
 
@@ -146,7 +146,7 @@ General rule.—Notwithstanding section 518 of the Highway Revenue Act of 1982, 
 
 "(2)
 
-Special rule where due date falls on saturday, sunday, or holiday.—If, but for this paragraph, the due date under paragraph (1) would fall on a Saturday, Sunday, or holiday in the District of Columbia, such due date shall be deemed to be the immediately preceding day which is not a Saturday, Sunday, or such a holiday."
+Special rule where due date falls on saturday, sunday, or holiday.—If, but for this paragraph,the due date under paragraph (1) would fall on a Saturday, Sunday, or holiday in the District of Columbia, such due date shall be deemed to be the immediately preceding day which is not a Saturday, Sunday, or such a holiday."
 
 <b>1993</b>—Subsec. (f). Pub. L. 103–66 inserted "and diesel fuel" after "gasoline" in heading.
 
@@ -176,7 +176,7 @@ Subsec. (e). Pub. L. 100–418 substituted "For" for "(1) For" and struck out pa
 
 <b>1984</b>—Subsecs. (d), (e). Pub. L. 98–369 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>1980</b>—Subsec. (d). Pub. L. 96–223 designated existing cross reference as par. (1), substituted "For treatmentof earned income advance amounts" for "For treatment of payment of earned income advance amounts", and added par. (2).
+<b>1980</b>—Subsec. (d). Pub. L. 96–223 designated existing cross reference as par. (1), substituted "For treatment of earned income advance amounts" for "For treatment of payment of earned income advance amounts", and added par. (2).
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–600 added subsec. (d).
 
@@ -266,7 +266,7 @@ For provisions that nothing in amendment by section 11801(c)(22)(A) of Pub. L. 1
 
 #### Delayed Deposits of Highway Motor Fuel Tax Revenues
 
-Pub. L. 105–34, title IX, §901(e), Aug. 5, 1997, 111 Stat. 872, provided that: "Notwithstanding section 6302 of the Internal Revenue Code of 1986, in the case of deposits of taxes imposed by sections 4041 and 4081 (other than subsection (a)(2)(A)(ii)) of the Internal Revenue Code of1986, the due date for any deposit which would (but for this subsection) be required to be made after July 31, 1998, and before October 1, 1998, shall be October 5, 1998."
+Pub. L. 105–34, title IX, §901(e), Aug. 5, 1997, 111 Stat. 872, provided that: "Notwithstanding section 6302 of the Internal Revenue Code of 1986, in the case of deposits of taxes imposed by sections 4041 and 4081 (other than subsection (a)(2)(A)(ii)) of the Internal Revenue Code of 1986, the due date for any deposit which would (but for this subsection) be required to be made after July 31, 1998, and before October 1, 1998, shall be October 5, 1998."
 
 #### Waiver of Penalty Through June 30, 1998, on Small Businesses Failing To Make Electronic Fund Transfers of Taxes
 

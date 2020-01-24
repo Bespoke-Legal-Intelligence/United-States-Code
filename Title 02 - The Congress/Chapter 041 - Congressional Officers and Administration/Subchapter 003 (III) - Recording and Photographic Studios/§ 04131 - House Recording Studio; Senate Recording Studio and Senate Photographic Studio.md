@@ -12,7 +12,7 @@ The House Recording Studio shall assist Members of the House of Representatives 
 
 The House Recording Studio shall be operated by the Chief Administrative Officer of the House of Representatives under the direction and control of a committee which is created (hereinafter referred to as the committee) composed of three Members of the House. Two members of the committee shall be from the majority party and one member shall be from the minority party, to be appointed by the Speaker. The committee is authorized to issue such rules and regulations relating to operation of the House Recording Studio as it may deem necessary.
 
-The Senate Recording Studio and the Senate Photographic Studio shall be operated by the Sergeant at Arms of the Senate under the direction and control of the Committee on Rules and Administration of the Senate. The Committee on Rules and Administration is authorized to issue such rules and regulations relating to operation of the Senate Recording Studio and the Senate Photographic Studio as it may deem necessary.
+The Senate Recording Studio and the Senate Photographic Studio shall be operated by the Sergeant at Arms of the Senate under the direction and control of the Committee on Rules and Administration of the Senate. The Committeeon Rules and Administration is authorized to issue such rules and regulations relating to operation of the Senate Recording Studio and the Senate Photographic Studio as it may deem necessary.
 
 #### (d) Prices of disk, film, and tape recordings; collection of moneys
 
@@ -48,7 +48,7 @@ All moneys received by the House Recording Studio from Members of the House of R
 
 #### (j) Availability of existing services and facilities
 
-Pending acquisition of the stock, supplies, materials, and equipment necessary to properly equip both studios, the present services and facilities shall be made available to both studios in order that each studio may carry out its duty.
+Pending acquisition of the stock, supplies, materials, and equipment necessary to properlyequip both studios, the present services and facilities shall be made available to both studios in order that each studio may carry out its duty.
 
 #### (k) Restrictions on employment
 
@@ -60,7 +60,7 @@ The Joint Recording Facility positions and salaries established pursuant to the 
 
 #### (m) Repeals
 
-Effective with the completion of the transfer provided for by subsection (i) hereof the jointresolution entitled "Joint resolution establishing in the Treasury of the United States a revolving fund within the contingent fund of the House of Representatives", approved August 7, 1953, is repealed.
+Effective with the completion of the transfer provided for by subsection (i) hereof the joint resolution entitled "Joint resolution establishing in the Treasury of the United States a revolving fund within the contingent fund of the House of Representatives", approved August 7, 1953, is repealed.
 
 #### (n) Repealed. Pub. L. 92–310, title II, §220(j), June 6, 1972, 86 Stat. 205
 
@@ -124,7 +124,7 @@ House Barber Shops Revolving Fund' in the matter relating to the House of Repres
 
 &emsp;"(2) the revolving fund for the House Beauty Shop, established by the matter under the heading '
 
-house beauty shop' in the matter relating to administrative provisions for the House of Representatives in the Legislative Branch Appropriation Act, 1970 (Public Law 91–145; 83 Stat. 347);
+housebeauty shop' in the matter relating to administrative provisions for the House of Representatives in the Legislative Branch Appropriation Act, 1970 (Public Law 91–145; 83 Stat. 347);
 
 &emsp;"(3) the special deposit account established for the House of Representatives Restaurant by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 (40 U.S.C. 174k note) \[former 40 U.S.C. 174k\]; and
 

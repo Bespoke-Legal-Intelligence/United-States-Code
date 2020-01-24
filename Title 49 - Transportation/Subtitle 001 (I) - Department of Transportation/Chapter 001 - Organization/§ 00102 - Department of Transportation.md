@@ -124,7 +124,7 @@ In subsection (e), the words "The Secretary shall cause a . . . of office" and
 
 Subsec. (e)(1)(A). Pub. L. 114–94, §6011(a)(2), inserted "an Assistant Secretary for Research and Technology," after "Governmental Affairs,".
 
-<b>2012</b>—Subsec. (e). Pub. L. 112–166 inserted subsec. (e) heading, struck out "The Department has 4 AssistantSecretaries and a General Counsel appointed by the President, by and with the advice and consent of the Senate. The Department also has an Assistant Secretary of Transportation for Administration appointed in the competitive service by the Secretary, with the approval of the President. They shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary" before "or the General Counsel,", added par. (1), inserted par. (2) designation and heading, and, in par. (2), inserted "The officers set forth in paragraph (1) shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary".
+<b>2012</b>—Subsec. (e). Pub. L. 112–166 inserted subsec. (e) heading, struck out "The Department has 4 Assistant Secretaries and a General Counsel appointed by the President, by and with the advice and consent of the Senate. The Department also has an Assistant Secretary of Transportation for Administration appointed in the competitive service by the Secretary, with the approval of the President. They shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary" before "or the General Counsel,", added par. (1), inserted par. (2) designation and heading, and, in par. (2), inserted "The officers set forth in paragraph (1) shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary".
 
 <b>2007</b>—Subsecs. (g), (h). Pub. L. 110–140 added subsec. (g) and redesignated former subsec. (g) as (h).
 
@@ -162,6 +162,26 @@ Pub. L. 107–295, title II, §215(c), Nov. 25, 2002, 116 Stat. 2102, provided t
 
 General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
+#### Highly Automated Systems Safety Center of Excellence
+
+Pub. L. 116–94, div. H, title I, §105, Dec. 20, 2019, 133 Stat. 2938, provided that:
+
+"(a) The Secretary shall establish a Highly Automated Systems Safety Center of Excellence within the Department of Transportation, in order to have a Department of Transportation workforce capable of reviewing, assessing, and validating the safety of automated technologies.
+
+"(b) The Highly Automated Systems Safety Center of Excellence shall—
+
+&emsp;"(1) serve as a central location within the Department of Transportation for expertise in automation and human factors, computer science, data analytics, machine learning, sensors, and other technologies involving automated systems;
+
+&emsp;"(2) collaborate with and provide support on highly automated systems to all Operating Administrations of the Department of Transportation; and
+
+&emsp;"(3) have a workforce composed of Department of Transportation employees, including direct hires or detailees from Operating Administrations of the Department of Transportation and other Federal agencies.
+
+"(c) Employees of the Highly Automated Systems Safety Center of Excellence, in conjunction with the relevant Operating Administrations of the Department of Transportation, shall review, assess, and validate highly automated systems to ensure their safety.
+
+"(d) The Highly Automated Systems Safety Center of Excellence shall not supersede laws or regulations granting certification authorities to Operating Administrations of the Department of Transportation.
+
+"(e) No later than 90 days after the date of enactment of this Act \[Dec. 20, 2019\], the Secretary shall report to the Committees on Appropriations of the House of Representatives and the Senate on staffing needs and the staffing plan for the Highly Automated Systems Safety Center of Excellence."
+
 #### Human Trafficking Prevention Coordinator
 
 Pub. L. 115–99, §2, Jan. 3, 2018, 131 Stat. 2242, provided that: "The Secretary of Transportation shall designate an official within the Department of Transportation who shall—
@@ -180,7 +200,7 @@ Pub. L. 109–59, title V, §5510, Aug. 10, 2005, 119 Stat. 1828, provided that:
 
 "(a)
 
-Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations, Transportation and Infrastructure, and Science \[now Science, Space, and Technology\] of the House of Representatives and the Committees on Appropriations and Environment and Public Works of the Senate, notice of that action shall be concurrently provided to the Committee of Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations, Transportation and Infrastructure, and Science \[now Science, Space, and Technology\] of the House of Representatives and the Committees on Appropriations and Environment and Public Works of the Senate, notice of that action shall be concurrently provided to the Committee of Transportation and Infrastructure and the Committee on Science \[now Committee onScience, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
 "(b)
 

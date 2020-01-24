@@ -14,3 +14,4 @@
 - [&sect; 03075 - Function and Department of Defense defined](%C2%A7%2003075%20-%20Function%20and%20Department%20of%20Defense%20defined.md)
 - [&sect; 03076 - Separability](%C2%A7%2003076%20-%20Separability.md)
 - [&sect; 03077 - Effective date](%C2%A7%2003077%20-%20Effective%20date.md)
+- [&sect; 03078 - Repealing and savings provisions](%C2%A7%2003078%20-%20Repealing%20and%20savings%20provisions.md)

@@ -26,6 +26,7 @@
 | [3518a.](%C2%A7%2003518a%20-%20Portability%20of%20overseas%20service%20retirement%20benefit.md) | Portability of overseas service retirement benefit. |
 | [3519\.](%C2%A7%2003519%20-%20Special%20rules%20for%20disability%20retirement%20and%20death-in-service%20benefits%20with%20respect%20to%20certain%20employees.md) | Special rules for disability retirement and death-in-service benefits with respect to certain employees. |
 | [3519a.](%C2%A7%2003519a%20-%20Separation%20pay%20program%20for%20voluntary%20separation%20from%20service.md) | Separation pay program for voluntary separation from service. |
+| [3519b.](%C2%A7%2003519b%20-%20Special%20rules%20for%20certain%20individuals%20injured%20by%20reason%20of%20war%2C%20insurgency%2C%20hostile%20act%2C%20terrorist%20activities%2C%20or%20incidents%20designated%20by%E2%80%A6.md) | Special rules for certain individuals injured by reason of war, insurgency, hostile act, terrorist activities, or incidents designated by the Director. |
 | [3520\.](%C2%A7%2003520%20-%20General%20Counsel%20of%20Central%20Intelligence%20Agency.md) | General Counsel of Central Intelligence Agency. |
 | [3521\.](%C2%A7%2003521%20-%20Central%20services%20program.md) | Central services program. |
 | [3522\.](%C2%A7%2003522%20-%20Detail%20of%20employees.md) | Detail of employees. |
@@ -63,6 +64,7 @@
 - [&sect; 03518a - Portability of overseas service retirement benefit](%C2%A7%2003518a%20-%20Portability%20of%20overseas%20service%20retirement%20benefit.md)
 - [&sect; 03519 - Special rules for disability retirement and death-in-service benefits with respect to certain employees](%C2%A7%2003519%20-%20Special%20rules%20for%20disability%20retirement%20and%20death-in-service%20benefits%20with%20respect%20to%20certain%20employees.md)
 - [&sect; 03519a - Separation pay program for voluntary separation from service](%C2%A7%2003519a%20-%20Separation%20pay%20program%20for%20voluntary%20separation%20from%20service.md)
+- [&sect; 03519b - Special rules for certain individuals injured by reason of war, insurgency, hostile act, terrorist activities, or incidents designated by&#8230;](%C2%A7%2003519b%20-%20Special%20rules%20for%20certain%20individuals%20injured%20by%20reason%20of%20war%2C%20insurgency%2C%20hostile%20act%2C%20terrorist%20activities%2C%20or%20incidents%20designated%20by%E2%80%A6.md)
 - [&sect; 03520 - General Counsel of Central Intelligence Agency](%C2%A7%2003520%20-%20General%20Counsel%20of%20Central%20Intelligence%20Agency.md)
 - [&sect; 03521 - Central services program](%C2%A7%2003521%20-%20Central%20services%20program.md)
 - [&sect; 03522 - Detail of employees](%C2%A7%2003522%20-%20Detail%20of%20employees.md)

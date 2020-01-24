@@ -114,7 +114,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(vi) procedures for immediate steps to be taken to ensure and protect the safety of a victim of child abuse or neglect and of any other child under the same care who may also be in danger of child abuse or neglect and ensuring their placement in a safe environment;
 
-&emsp;&emsp;&emsp;(vii) provisions for immunity from civil or criminal liability under State and local laws and regulations for individuals making good faith reports of suspected or known instances of child abuse or neglect, or who otherwise provide information or assistance, including medical evaluations or consultations, in connection with a report, investigation, or legal intervention pursuant to a good faith report of child abuse or neglect;
+&emsp;&emsp;&emsp;(vii) provisions for immunity from civil or criminal liability under State and local laws and regulations for individuals making good faith reports of suspected orknown instances of child abuse or neglect, or who otherwise provide information or assistance, including medical evaluations or consultations, in connection with a report, investigation, or legal intervention pursuant to a good faith report of child abuse or neglect;
 
 &emsp;&emsp;&emsp;(viii) methods to preserve the confidentiality of all records in order to protect the rights of the child and of the child's parents or guardians, including requirements ensuring that reports and records made and maintained pursuant to the purposes of this subchapter and subchapter III shall only be made available to—
 
@@ -170,7 +170,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(xviii) provisions and procedures to require that a representative of the child protective services agency shall, at the initial time of contact with the individual subject to a child abuse or neglect investigation, advise the individual of the complaints or allegations made against the individual, in a manner that is consistent with laws protecting the rights of the informant;
 
-&emsp;&emsp;&emsp;(xix) provisions addressing the training of representatives of the child protective services system regarding the legal dutiesof the representatives, which may consist of various methods of informing such representatives of such duties, in order to protect the legal rights and safety of children and families from the initial time of contact during investigation through treatment;
+&emsp;&emsp;&emsp;(xix) provisions addressing the training of representatives of the child protective services system regarding the legal duties of the representatives, which may consist of various methods of informing such representatives of such duties, in order to protect the legal rights and safety of children and families from the initial time of contact during investigation through treatment;
 
 &emsp;&emsp;&emsp;(xx) provisions and procedures for improving the training, retention, and supervision of caseworkers;
 
@@ -180,7 +180,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(xxiii) provisions for systems of technology that support the State child protective service system described in subsection (a) and track reports of child abuse and neglect from intake through final disposition;
 
-&emsp;&emsp;&emsp;(xxiv) provisions and procedures requiring identification and assessment of all reports involving children known or suspected to be victims of sex trafficking (as defined in section 7102(10) of title 22); and
+&emsp;&emsp;&emsp;(xxiv) provisions and procedures requiring identification and assessment of all reports involving children known or suspected to be victims of sex trafficking (as defined in section 7102(10) <sup>2</sup> of title 22); and
 
 &emsp;&emsp;&emsp;(xxv) provisions and procedures for training child protective services workers about identifying, assessing, and providing comprehensive services for children who are sex trafficking victims, including efforts to coordinate with State law enforcement, juvenile justice, and social service agencies such as runaway and homeless youth shelters to serve this population;
 
@@ -216,7 +216,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 #### (3) Limitation
 
-&emsp;With regard to clauses (vi) and (vii) of paragraph (2)(B), nothing in this section shall be construed as restricting the ability of a Stateto refuse to disclose identifying information concerning the individual initiating a report or complaint alleging suspected instances of child abuse or neglect, except that the State may not refuse such a disclosure where a court orders such disclosure after such court has reviewed, in camera, the record of the State related to the report or complaint and has found it has reason to believe that the reporter knowingly made a false report.
+&emsp;With regard to clauses (vi) and (vii) of paragraph (2)(B), nothing in this section shall be construed as restricting the ability of a State to refuse to disclose identifying information concerning the individual initiating a report or complaint alleging suspected instances of child abuse or neglect, except that the State may not refuse such a disclosure where a court orders such disclosure after such court has reviewed, in camera, the record of the State related to the report or complaint and has found it has reason to believe that the reporter knowingly made a false report.
 
 #### (4) Definitions
 
@@ -296,7 +296,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 #### (6) Reports
 
-&emsp;Each panel established under paragraph (1) shall prepare and make available to the State and the public, on an annual basis, a report containing a summary of the activities of the panel and recommendations to improve the child protection services system at the State and local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems and the citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system.
+&emsp;Each panel established under paragraph (1) shall prepare and make available to the State and the public, on an annual basis, a report containing a summary of the activities of the panel and recommendations to improve the child protection services system at the State and local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems andthe citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system.
 
 #### (d) Annual State data reports
 
@@ -439,6 +439,8 @@ Within 6 months after receiving the State reports under subsection (d), the Secr
 The Social Security Act, referred to in subsecs. (b)(2)(A), (E), (F) and (c)(4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to part B (§620 et seq.) and part E (§670 et seq.), respectively, of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (b)(2)(B)(xxi) and (d)(16), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+
+Section 7102(10) of title 22, referred to in subsec. (b)(2)(B)(xxiv), was redesignated section 7102(12) of title 22 by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(2)(F), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
@@ -644,7 +646,7 @@ Subsec. (c)(4)(A)(iii)(I). Pub. L. 108–36, §114(c)(1)(A)(ii), substituted "St
 
 Subsec. (c)(4)(C). Pub. L. 108–36, §114(c)(1)(B), added subpar. (C).
 
-Subsec. (c)(6). Pub. L. 108–36, §114(c)(2), substituted "State and the public" for "public" and inserted before period at end "and recommendations to improve the child protection services system at the State and local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems and the citizen review panel that describes whether or how theState will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system".
+Subsec. (c)(6). Pub. L. 108–36, §114(c)(2), substituted "State and the public" for "public" and inserted before period at end "and recommendations to improve the child protection services system at the State and locallevels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems and the citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system".
 
 Subsec. (d)(13), (14). Pub. L. 108–36, §114(d), added pars. (13) and (14).
 
@@ -707,4 +709,6 @@ Pub. L. 102–586, §9(a), Nov. 4, 1992, 106 Stat. 5036, provided that: "The Con
 &emsp;"(9) teams such as those described in paragraph (7) will increase the accountability of child protection services."
 
 <i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

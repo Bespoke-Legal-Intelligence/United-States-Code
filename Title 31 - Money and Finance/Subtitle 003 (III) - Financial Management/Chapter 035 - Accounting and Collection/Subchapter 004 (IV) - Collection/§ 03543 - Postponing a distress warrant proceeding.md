@@ -44,7 +44,7 @@ In subsections (b) and (c), the words "person adversely affected" are substitute
 
 In subsection (b)(1), the words "bring a civil action . . . court" are substituted for "prefer a bill of complaint . . . judge" for consistency in the revised title and with other titles of the Code. The words "of which he complains" are omitted as surplus. The words "any part of a distress warrant proceeding" are substituted for "proceedings on such warrant altogether, or for so much thereof as the nature of" to eliminate unnecessary words. The words "with sufficient security" and "as may be awarded against him" are omitted as surplus.
 
-In subsection (b)(2), the words "in any manner" are omitted as surplus. The words "under section 3542(b)(1)of this title" are substituted for "produced by the issuing of the warrant" for clarity. The last sentence is substituted for 31:518(2d sentence words before semicolon) to eliminate unnecessary words.
+In subsection (b)(2), the words "in any manner" are omitted as surplus. The words "under section 3542(b)(1) of this title" are substituted for "produced by the issuing of the warrant" for clarity. The last sentence is substituted for 31:518(2d sentence words before semicolon) to eliminate unnecessary words.
 
 In subsection (b)(3), the words "on a finding" are substituted for "it appears to the satisfaction of the judge" for clarity and consistency and to eliminate unnecessary words. The words "civil action" are substituted for "application" for consistency. The words "increase the interest rate imposed . . . to" are substituted for "add to the lawful interest assessed . . . such damages as, with such lawful interest, shall" to eliminate unnecessary words. The words "all" and "district" are omitted as surplus.
 

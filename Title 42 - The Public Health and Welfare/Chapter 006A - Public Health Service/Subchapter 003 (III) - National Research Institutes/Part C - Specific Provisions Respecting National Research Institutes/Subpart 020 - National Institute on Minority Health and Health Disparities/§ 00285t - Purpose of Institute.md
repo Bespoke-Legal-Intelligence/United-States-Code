@@ -30,7 +30,7 @@ For purposes of this subpart:
 
 For purposes of this subpart:
 
-&emsp;(1) A population is a health disparity population if, as determined by the Director of the Institute after consultation with the Director of the Agency for Healthcare Research and Quality, there is a significant disparity in the overall rate of disease incidence, prevalence, morbidity, mortality, or survival rates in the population as compared to the health status of the general population.
+&emsp;(1) A population is a health disparity population if, as determined by the Director of theInstitute after consultation with the Director of the Agency for Healthcare Research and Quality, there is a significant disparity in the overall rate of disease incidence, prevalence, morbidity, mortality, or survival rates in the population as compared to the health status of the general population.
 
 &emsp;(2) The Director shall give priority consideration to determining whether minority groups qualify as health disparity populations under paragraph (1).
 
@@ -162,7 +162,7 @@ Subsec. (h)(1). Pub. L. 111–148, §10334(c)(2)(A), in par. (1) of subsec. (h) 
 
 Pub. L. 111–148, §10334(c)(1)(D)(iii), in par. (1) of subsec. (h) relating to research endowments, substituted "Institute" for "Center".
 
-Subsec. (h)(2). Pub. L. 111–148, §10334(c)(1)(D)(iii), in par. (2) of subsec. (h) relating to research endowments, substituted "Institute" for "Center" in introductory provisions.
+Subsec. (h)(2). Pub. L. 111–148, §10334(c)(1)(D)(iii), in par. (2) of subsec. (h) relating to research endowments,substituted "Institute" for "Center" in introductory provisions.
 
 Subsec. (h)(2)(A). Pub. L. 111–148, §10334(c)(2)(B), in par. (2)(A) of subsec. (h) relating to research endowments, substituted "median" for "average".
 

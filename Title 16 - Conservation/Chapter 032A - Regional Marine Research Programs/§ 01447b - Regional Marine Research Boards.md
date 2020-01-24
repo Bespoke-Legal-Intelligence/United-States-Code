@@ -12,7 +12,7 @@ A Regional Marine Research board <sup>1</sup> shall be established for each of 
 
 &emsp;(4) the South Atlantic region, comprised of the marine and coastal waters off the States of North Carolina, South Carolina, Georgia, and Florida, from Cape Fear to the Florida Keys, including the marine and coastal waters off Puerto Rico and the United States Virgin Islands;
 
-&emsp;(5) the Gulf of Mexico region, comprised of the marine and coastal waters off the States of Florida, Alabama, Mississippi, Louisiana, and Texas, along the Gulf coast from the Florida Keys to the Mexican border;
+&emsp;(5) the Gulf of Mexico region, comprised of the marine and coastal waters off the Statesof Florida, Alabama, Mississippi, Louisiana, and Texas, along the Gulf coast from the Florida Keys to the Mexican border;
 
 &emsp;(6) the California region, comprised of the marine and coastal waters off the State of California, from Point Reyes to the Mexican border;
 
@@ -60,7 +60,7 @@ Each Board shall, in accordance with the provisions of this chapter—
 
 &emsp;(2) provide a forum for coordinating research among research institutions and agencies;
 
-&emsp;(3) provide for review and comment on research plans by affected users and interests,such as the commercial and recreational fishing industries, other marine industries, State and local government entities, and environmental organizations;
+&emsp;(3) provide for review and comment on research plans by affected users and interests, such as the commercial and recreational fishing industries, other marine industries, State and local government entities, and environmental organizations;
 
 &emsp;(4) ensure that the highest quality of research projects will be conducted to carry out the comprehensive plan; and
 
@@ -90,7 +90,7 @@ Each Board shall be authorized to—
 
 #### (1) Practices and procedures
 
-&emsp;Each Board shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter. Each Board should use existing research administrative capability to the extent practicable.
+&emsp;Each Board shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter.Each Board should use existing research administrative capability to the extent practicable.
 
 #### (2) Committees and subcommittees
 

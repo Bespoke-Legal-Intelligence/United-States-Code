@@ -10,7 +10,7 @@ The technical panel shall be appointed by the Secretary and shall be comprised o
 
 #### (c) Cooperation
 
-The heads of the departments, agencies, and instrumentalities of the Executive branch of the Federal Government shall cooperate with the technical panel in carrying out the requirements of this section and shall furnish to the technical panel such information as the technical panel deems necessary to carry out this section.
+The heads of the departments, agencies, and instrumentalities of the Executive branch of theFederal Government shall cooperate with the technical panel in carrying out the requirements of this section and shall furnish to the technical panel such information as the technical panel deems necessary to carry out this section.
 
 #### (d) Review
 
@@ -32,5 +32,5 @@ The Secretary shall provide such staff, funds and other support as may be necess
 
 #### Termination of Advisory Panels
 
-Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the Presidentor an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -50,7 +50,7 @@ Resale or Redisclosure.—An authorized recipient of personal information (excep
 
 (d)
 
-Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statementto the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
+Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statement to the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
 
 (e)
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Effective Date
 
-Pub. L. 103–322, title XXX, §300003, Sept. 13, 1994, 108 Stat. 2102, provided that: "The amendments made by section 300002 \[enacting this chapter\] shall become effective on the date that is 3 years after the date of enactment of this Act \[Sept. 13, 1994\]. After the effective date, if a State has implemented a procedure under section 2721(b)(11) and (12) of title 18, United States Code, as added by section 2902 \[probably should be section "300002(a)"\], for prohibiting disclosures or uses of personal information, and the procedure otherwise meets the requirements of subsection (b)(11) and (12), the State shall be in compliance with subsection (b)(11) and (12) even if the procedure is not available to individuals until they renew their license, title, registration or identification card, so long as the State provides some other procedure for individuals to contact the State on their own initiative to prohibit such uses or disclosures. Prior to the effective date, personal information covered by the amendment made by section 300002 may be released consistent with State law or practice."
+Pub. L. 103–322, title XXX, §300003, Sept. 13, 1994, 108 Stat. 2102, provided that: "The amendments made bysection 300002 \[enacting this chapter\] shall become effective on the date that is 3 years after the date of enactment of this Act \[Sept. 13, 1994\]. After the effective date, if a State has implemented a procedure under section 2721(b)(11) and (12) of title 18, United States Code, as added by section 2902 \[probably should be section "300002(a)"\], for prohibiting disclosures or uses of personal information, and the procedure otherwise meets the requirements of subsection (b)(11) and (12), the State shall be in compliance with subsection (b)(11) and (12) even if the procedure is not available to individuals until they renew their license, title, registration or identification card, so long as the State provides some other procedure for individuals to contact the State on their own initiative to prohibit such uses or disclosures. Prior to the effective date, personal information covered by the amendment made by section 300002 may be released consistent with State law or practice."
 
 #### Short Title
 

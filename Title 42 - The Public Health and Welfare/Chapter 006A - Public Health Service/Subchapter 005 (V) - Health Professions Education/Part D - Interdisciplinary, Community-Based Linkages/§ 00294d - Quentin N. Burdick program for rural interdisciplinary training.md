@@ -18,7 +18,7 @@ The Secretary may make grants or contracts under this section to help entities f
 
 &emsp;&emsp;(D) enhance the amount of relevant research conducted concerning health care issues in rural areas; and
 
-&emsp;&emsp;(E) increase the recruitment and retention of health care practitioners from rural areas and make rural practice a more attractive career choice for health care practitioners.
+&emsp;&emsp;(E) increase the recruitment and retention of health care practitioners from rural areasand make rural practice a more attractive career choice for health care practitioners.
 
 #### (2) Methods
 

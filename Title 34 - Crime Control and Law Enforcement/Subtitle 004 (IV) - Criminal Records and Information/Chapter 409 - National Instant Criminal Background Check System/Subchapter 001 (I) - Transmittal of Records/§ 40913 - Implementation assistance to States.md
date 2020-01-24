@@ -34,7 +34,7 @@ To be eligible for a grant under this section, a State shall certify, to the sat
 
 #### (d) Condition
 
-As a condition of receiving a grant under this section, a State shall specify the projects for which grant amounts will be used, and shall usesuch amounts only as specified. A State that violates this subsection shall be liable to the Attorney General for the full amount of the grant received under this section.
+As a condition of receiving a grant under this section, a State shall specify the projects for which grant amounts will be used, and shall use such amounts only as specified. A State that violates this subsection shall be liable to the Attorney General for the full amount of the grant received under this section.
 
 #### (e) Authorization of appropriations
 

@@ -156,7 +156,7 @@ As used in this Act, the following definitions shall apply, except as the contex
 
 This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-Title III, referred to in par. (2), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520. Section 312(c)(1) of title III of Pub. L. 111–203 amended section 1813(q) of this title.
+Title III, referred to in par. (2), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520. Section 312(c)(1) oftitle III of Pub. L. 111–203 amended section 1813(q) of this title.
 
 Title X, referred to in par. (4), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted subchapter V (§5481 et seq.) of this chapter, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note below and Tables.
 
@@ -196,7 +196,7 @@ Pub. L. 111–203, title I, §101, July 21, 2010, 124 Stat. 1391, provided that:
 
 Pub. L. 111–203, title III, §300, July 21, 2010, 124 Stat. 1520, provided that: "This title \[enacting subchapter III of this chapter and sections 4b and 16 of this title, amending sections 1, 11, 248, 461, 481, 482, 1438, 1462 to 1464, 1466a to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, section 906 of Title 2, The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and section 3502 of Title 44, Public Printing and Documents, repealing section 1441a of this title, enacting provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and section 906 of Title 2, and amending provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and section 509 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Enhancing Financial Institution Safety and Soundness Act of 2010'."
 
-Pub. L. 111–203, title VIII, §801, July 21, 2010, 124 Stat. 1802, provided that: "This title \[enacting subchapter IVof this chapter\] may be cited as the 'Payment, Clearing, and Settlement Supervision Act of 2010'."
+Pub. L. 111–203, title VIII, §801, July 21, 2010, 124 Stat. 1802, provided that: "This title \[enacting subchapter IV of this chapter\] may be cited as the 'Payment, Clearing, and Settlement Supervision Act of 2010'."
 
 Pub. L. 111–203, title X, §1001, July 21, 2010, 124 Stat. 1955, provided that: "This title \[see Tables for classification\] may be cited as the 'Consumer Financial Protection Act of 2010'."
 

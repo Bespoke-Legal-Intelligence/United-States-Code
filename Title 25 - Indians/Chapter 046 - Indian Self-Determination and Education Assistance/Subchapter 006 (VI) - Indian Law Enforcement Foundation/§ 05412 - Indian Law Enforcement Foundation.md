@@ -90,7 +90,7 @@ The Foundation shall—
 
 #### (C) Compensation
 
-&emsp;&emsp;A member of the Board shall not receive compensation for service as a member, but shall be reimbursed for actual and necessary travel and subsistence expenses incurred in the performance of the duties of the Foundation.
+&emsp;&emsp;A member of the Board shall not receive compensation for service as a member, butshall be reimbursed for actual and necessary travel and subsistence expenses incurred in the performance of the duties of the Foundation.
 
 #### (g) Officers
 

@@ -22,7 +22,7 @@ Subject to subsection (b), the provisions of (including any amendment made by) t
 
 #### (2) Exception
 
-&emsp;Subsection (a) shall not apply with respect to section 6055 of title 26, or sections 4980H and 6056 of such title in the case of an applicable large employer (as defined in section 4980H of such title), except that statements furnished to individuals may be provided through electronic media and the primary insured shall be deemed to have consented to receive the statements under such sections in electronic form, unless the individual explicitly refuses such consent. Notwithstanding subsection (a), section 4980I of title 26 shall continue to apply with respect to applicable employer-sponsored coverage (as defined in such section) of a qualified expatriate described in subsection (d)(3)(A)(i) who is assigned (rather than transferred) to work in the United States.
+&emsp;Subsection (a) shall not apply with respect to section 6055 of title 26, or sections 4980H and 6056 of such title in the case of an applicable large employer (as defined in section 4980H of such title), except that statements furnished to individuals may be provided through electronic media and the primary insured shall be deemed to have consented to receive the statements under such sections in electronic form, unless the individual explicitly refuses such consent. Notwithstanding subsection (a), section 4980I <sup>1</sup> of title 26 shall continue to apply with respect to applicable employer-sponsored coverage (as defined in such section) of a qualified expatriate described in subsection (d)(3)(A)(i) who is assigned (rather than transferred) to work in the United States.
 
 #### (c) Qualified expatriates, spouses, and dependents not United States health risk
 
@@ -34,7 +34,7 @@ Subject to subsection (b), the provisions of (including any amendment made by) t
 
 &emsp;Notwithstanding paragraph (1), the fee under section 9010 of such Act for each of calendar years 2014 and 2015 with respect to any expatriate health insurance issuer shall be the amount which bears the same ratio to the fee amount determined by the Secretary of the Treasury with respect to such issuer under such section for each such year (determined without regard to this paragraph) as—
 
-&emsp;&emsp;(A) the amount of premiums taken into account under such section with respect to such issuer for each such year, less the amount of premiums for expatriate health plans taken into account under such section with respect to such issuer for each such year, bears to
+&emsp;&emsp;(A) the amount of premiums taken into account under such section with respect to such issuer for each such year, less the amount of premiums for expatriate health plans taken into account under such sectionwith respect to such issuer for each such year, bears to
 
 &emsp;&emsp;(B) the amount of premiums taken into account under such section with respect to such issuer for each such year.
 
@@ -132,6 +132,8 @@ The Patient Protection and Affordable Care Act, referred to in subsecs. (a) and 
 
 The Health Care and Education Reconciliation Act of 2010, referred to in subsecs. (a) and (d)(2)(G), is Pub. L. 111–152, Mar. 30, 2010, 124 Stat. 1029. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1305 of this title and Tables.
 
+Section 4980I of title 26, referred to in subsec. (b)(2), was repealed by Pub. L. 116–94, div. N, title I, §503(a), Dec. 20, 2019, 133 Stat. 3119.
+
 The Public Health Service Act, referred to in subsec. (d)(2)(G), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(2)(G), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
@@ -141,4 +143,6 @@ This Act, referred to in subsecs. (e) and (f), is div. M of Pub. L. 113–235, D
 #### Codification
 
 Section was enacted as part of the Expatriate Health Coverage Clarification Act of 2014, and also as part of the Consolidated and Further Continuing Appropriations Act, 2015, and not as part of title I of the Patient Protection and Affordable Care Act which enacted this chapter.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

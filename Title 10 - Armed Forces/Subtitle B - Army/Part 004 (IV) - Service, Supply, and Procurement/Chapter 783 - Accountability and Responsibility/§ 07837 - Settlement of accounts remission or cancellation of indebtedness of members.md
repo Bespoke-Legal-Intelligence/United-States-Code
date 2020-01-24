@@ -86,7 +86,7 @@ In subsection (g), the words "bought on credit under section 4621(a)(1) of this 
 
 #### 1958 Act
 
-The change \[in subsec. (b)\] reflects the opinion of the Judge Advocate General of the Air Force (June 10, 1957) that the term "rate of pay", as used in the source law for section 4837(b) (Act of May 22, 1928, ch. 676 (45 Stat. 698), as amended), included special pay and incentive pay.
+The change \[in subsec. (b)\] reflects the opinion of the Judge Advocate General of the Air Force (June 10, 1957)that the term "rate of pay", as used in the source law for section 4837(b) (Act of May 22, 1928, ch. 676 (45 Stat. 698), as amended), included special pay and incentive pay.
 
 The change \[in subsec. (f)\] reflects the opinion of the Assistant General Counsel (Fiscal Matters), Department of Defense (July 19, 1957), that section 1304, Revised Statutes (formerly 10 U.S.C. 872), the source law for this section, applied to warrant officers as well as to commissioned officers.
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–328, div. A, title VI, §671(b)(5), Dec. 23, 2016, 130 Stat. 2174, provided that: "The amendmentsmade by this subsection \[amending this section, sections 6161 and 9837 of this title, and section 461 of Title 14, Coast Guard\] shall take effect on the date of the enactment of this Act \[Dec. 23, 2016\], and shall apply with respect to debt incurred on or after October 7, 2001."
+Pub. L. 114–328, div. A, title VI, §671(b)(5), Dec. 23, 2016, 130 Stat. 2174, provided that: "The amendments made by this subsection \[amending this section, sections 6161 and 9837 of this title, and section 461 of Title 14, Coast Guard\] shall take effect on the date of the enactment of this Act \[Dec. 23, 2016\], and shall apply with respect to debt incurred on or after October 7, 2001."
 
 #### Effective Date of 2008 Amendment
 

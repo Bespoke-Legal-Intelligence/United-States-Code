@@ -31,7 +31,12 @@
 | [5723\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005723%20-%20Travel%20and%20transportation%20expenses%20of%20new%20appointees%20and%20student%20trainees.md) | Travel and transportation expenses of new appointees and student trainees. |
 | [5724\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005724%20-%20Travel%20and%20transportation%20expenses%20of%20employees%20transferred%3B%20advancement%20of%20funds%3B%20reimbursement%20on%20commuted%20basis.md) | Travel and transportation expenses of employees transferred; advancement of funds; reimbursement on commuted basis. |
 | [5724a.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005724a%20-%20Relocation%20expenses%20of%20employees%20transferred%20or%20reemployed.md) | Relocation expenses of employees transferred or reemployed. |
-| [5724b.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005724b%20-%20Taxes%20on%20reimbursements%20for%20travel%2C%20transportation%2C%20and%20relocation%20expenses%20of%20employees%20transferred.md) | Taxes on reimbursements for travel, transportation, and relocation expenses of employees transferred. |
+| [5724b.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005724b%20-%20Taxes%20on%20reimbursements%20for%20travel%2C%20transportation%2C%20and%20relocation%20expenses.md) | Taxes on reimbursements for travel, transportation, and relocation expenses <sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [5724c.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005724c%20-%20Relocation%20services.md) | Relocation services. |
 | [5724d.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005724d%20-%20Transportation%20and%20moving%20expenses%20for%20immediate%20family%20of%20certain%20deceased%20Federal%20employees.md) | Transportation and moving expenses for immediate family of certain deceased Federal employees. |
 | [5725\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005725%20-%20Transportation%20expenses%3B%20employees%20assigned%20to%20danger%20areas.md) | Transportation expenses; employees assigned to danger areas. |
@@ -72,13 +77,13 @@
 | [5754\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005754%20-%20Retention%20bonuses.md) | Retention bonuses. |
 | [5755\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005755%20-%20Supervisory%20differentials.md) | Supervisory differentials. |
 | [5756\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005756%20-%20Home%20marketing%20incentive%20payment.md) | Home marketing incentive payment. |
-| 5757\.<sup>1</sup> | Payment of expenses to obtain professional credentials. |
+| 5757\.<sup>2</sup> | Payment of expenses to obtain professional credentials. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |
 | :--- | ---: |
-| 5757\.<sup>1</sup> | Extended assignment incentive. |
+| 5757\.<sup>2</sup> | Extended assignment incentive. |
 | [5759\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005759%20-%201%20Retention%20and%20relocation%20bonuses%20for%20the%20Federal%20Bureau%20of%20Investigation.md) | Retention and relocation bonuses for the Federal Bureau of Investigation. |
 | [5760\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005760%20-%20Travel%20and%20transportation%20allowances%20transportation%20of%20family%20members%20incident%20to%20the%20repatriation%20of%20employees%20held%20captive.md) | Travel and transportation allowances: transportation of family members incident to the repatriation of employees held captive. |
 | [5761\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005761%20-%20Foreign%20language%20proficiency%20pay%20awards%20for%20the%20Federal%20Bureau%20of%20Investigation.md) | Foreign language proficiency pay awards for the Federal Bureau of Investigation. |
@@ -86,6 +91,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2019</b>—Pub. L. 116–92, div. A, title XI, §1114(b), Dec. 20, 2019, 133 Stat. 1604, substituted "Taxes on reimbursements for travel, transportation, and relocation expenses" for "Taxes on reimbursements for travel, transportation, and relocation expenses of employees transferred" in item 5724b.
 
 <b>2010</b>—Pub. L. 111–292, §3(b), Dec. 9, 2010, 124 Stat. 3173, added item 5711.
 
@@ -132,6 +139,8 @@ Pub. L. 91–481, §1(2), Oct. 21, 1970, 84 Stat. 1081, added item 5709.
 <b>1967</b>—Pub. L. 90–206, title II, §222(c)(2), Dec. 16, 1967, 81 Stat. 641, added item 5733.
 
 Pub. L. 90–83 §1(37)(B), Sept. 11, 1967, 81 Stat. 205, added item 5724a.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 <i><sup>1</sup></i><i> So in original. Two sections 5757 have been enacted.</i>
 

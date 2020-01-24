@@ -2,7 +2,7 @@
 
 The Office of Personnel Management may, from time to time, by regulation adjust the maximum amount for the cost of uniforms and the maximum allowance for uniforms under section 5901.
 
-(Added Pub. L. 90–83, §1(40)(A), Sept. 11, 1967, 81 Stat. 206; amended Pub. L. 101–509, title V, §529 \[title II, §202(b)\], Nov. 5, 1990, 104 Stat. 1427, 1456.)
+(Added Pub. L. 90–83, §1(40)(A), Sept. 11, 1967, 81 Stat. 206; amended Pub. L. 101–509, title V, §529\[title II, §202(b)\], Nov. 5, 1990, 104 Stat. 1427, 1456.)
 
 Historical and Revision Notes
 

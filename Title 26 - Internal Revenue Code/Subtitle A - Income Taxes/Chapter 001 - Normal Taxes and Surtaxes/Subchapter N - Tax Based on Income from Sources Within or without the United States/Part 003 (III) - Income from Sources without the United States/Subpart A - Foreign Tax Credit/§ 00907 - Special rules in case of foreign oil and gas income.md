@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (d) Disregard of certain posted prices, etc.
 
-For purposes of this chapter, in determining the amount of taxable income in the case of foreign oil and gas extraction income, if the oil or gas is disposed of, or is acquired other than fromthe government of a foreign country, at a posted price (or other pricing arrangement) which differs from the fair market value for such oil or gas, such fair market value shall be used in lieu of such posted price (or other pricing arrangement).
+For purposes of this chapter, in determining the amount of taxable income in the case of foreign oil and gas extraction income, if the oil or gas is disposed of, or is acquired other than from the government of a foreign country, at a posted price (or other pricing arrangement) which differs from the fair market value for such oil or gas, such fair market value shall be used in lieu of such posted price (or other pricing arrangement).
 
 #### \[(e) Repealed. Pub. L. 101–508, title XI, §11801(a)(32), Nov. 5, 1990, 104 Stat. 1388–521\]
 
@@ -262,7 +262,7 @@ Subsec. (c)(2). Pub. L. 97–248, §211(b), in subpar. (A) substituted "the proc
 
 Subsec. (c)(4). Pub. L. 97–248, §211(a), substituted provisions regarding the recapture of foreign oil and gas extraction losses by recharacterization of later extraction income for provisions that if, for any foreign country for any taxable year, the taxpayer would have had a net operating loss if only items from sources within such country (including deductions properly apportioned or allocated thereto) which related to the extraction of minerals from oil or gas wells had been taken into account, such items would not be taken into account in computing foreign oil and gas extraction income for such year, but would be taken into account in computing foreign oil related income for such year.
 
-Subsec. (e). Pub. L. 97–248, §211(d)(1), substituted rules regarding credits arising in taxable years beginning before Jan. 1, 1983, for rules regarding taxable years ending after Dec. 31, 1974, in par. (1), and in par. (2) substituted rules regarding carryback of credits arising in taxable years beginning after Dec. 31, 1982,for rules regarding taxable years ending after Dec. 31, 1975.
+Subsec. (e). Pub. L. 97–248, §211(d)(1), substituted rules regarding credits arising in taxable years beginning before Jan. 1, 1983, for rules regarding taxable years ending after Dec. 31, 1974, in par. (1), and in par. (2) substituted rules regarding carryback of credits arising in taxable years beginning after Dec. 31, 1982, for rules regarding taxable years ending after Dec. 31, 1975.
 
 Subsec. (f)(1). Pub. L. 97–248, §211(d)(2)(A), substituted "such excess" for "so much of such excess as does not exceed 2 percent of foreign oil and gas extraction income for such taxable year" in first sentence, and struck out former provision that had directed that the above substitution be made regarding taxes deemed paid or accrued in any taxable year which ended in 1975, 1976, or 1977.
 
@@ -348,7 +348,7 @@ Amendment by section 301(b)(14) of Pub. L. 95–600 applicable to taxable years 
 
 Pub. L. 95–600, title VII, §701(u)(8)(D), Nov. 6, 1978, 92 Stat. 2916, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(i) The amendments made by this paragraph \[amending this section and section 904 of this title\] shall apply, in the case of individuals, to taxable yearsending after December 31, 1974, and, in the case of corporations, to taxable years ending after December 31, 1976.
+"(i) The amendments made by this paragraph \[amending this section and section 904 of this title\] shall apply, in the case of individuals, to taxable years ending after December 31, 1974, and, in the case of corporations, to taxable years ending after December 31, 1976.
 
 "(ii) In the case of any taxable year ending after December 31, 1975, with respect to foreign oil related income (within the meaning of section 907(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), the overall limitation provided by section 904(a)(2) of such Code shall apply and the per-country limitation provided by section 904(a)(1) of such Code shall not apply."
 

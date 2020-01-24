@@ -14,7 +14,7 @@ In General.—During war, or a national emergency declared by Presidential procl
 
 &emsp;&emsp;(C) a facility for building or repairing vessels, or an interest therein;
 
-&emsp;(3) issue, assign, or transfer to a person not a citizen of the United States an instrument of indebtedness secured by a mortgage of a vessel to a trustee, by an assignment of an owner's interest in a vessel under construction to a trustee, or by a mortgage of a facility for building or repairing vessels to a trustee, unless the trustee or a substitute trustee is approved by the Secretary under subsection (b);
+&emsp;(3) issue, assign, or transfer to a person not a citizen of the United States an instrument of indebtedness secured by a mortgage of a vesselto a trustee, by an assignment of an owner's interest in a vessel under construction to a trustee, or by a mortgage of a facility for building or repairing vessels to a trustee, unless the trustee or a substitute trustee is approved by the Secretary under subsection (b);
 
 &emsp;(4) enter into an agreement or understanding to construct a vessel in the United States for, or to be delivered to, a person not a citizen of the United States without expressly stipulating that construction will not begin until after the war or national emergency has ended;
 
@@ -46,7 +46,7 @@ Disapproval.—If a trustee or substitute trustee ceases to meet the conditions 
 
 &emsp;(3)
 
-Operation of vessel.—During a period when subsection (a) applies, a trustee referredto in subsection (a)(3), even though approved as a trustee by the Secretary, may not operate the vessel under the mortgage or assignment without the Secretary's approval.
+Operation of vessel.—During a period when subsection (a) applies, a trustee referred to in subsection (a)(3), even though approved as a trustee by the Secretary, may not operate the vessel under the mortgage or assignment without the Secretary's approval.
 
 (c)
 

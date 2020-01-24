@@ -16,7 +16,7 @@ The Congress, after careful review of the problem of child abuse on Indian reser
 
 &emsp;&emsp;(E) funds spent by the United States on Indian reservations or otherwise spent for the benefit of Indians who are victims of child abuse or family violence are inadequate to meet the growing needs for mental health treatment and counseling for victims of child abuse or family violence and their families; and
 
-&emsp;&emsp;(F) there is no resource that is more vital to the continued existence and integrity of Indian tribes than their children and the United States has a direct interest, as trustee, in protecting Indian children who aremembers of, or are eligible for membership in, an Indian tribe; and
+&emsp;&emsp;(F) there is no resource that is more vital to the continued existence and integrity of Indian tribes than their children and the United States has a direct interest, as trustee, in protecting Indian children who are members of, or are eligible for membership in, an Indian tribe; and
 
 &emsp;(2) declares that two major goals of the United States are to—
 

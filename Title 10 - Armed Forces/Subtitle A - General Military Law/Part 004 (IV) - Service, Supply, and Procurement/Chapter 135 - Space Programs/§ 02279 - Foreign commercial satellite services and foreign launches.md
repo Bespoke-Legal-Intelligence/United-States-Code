@@ -52,7 +52,7 @@ Notice and Exception.—The prohibitions in subsections (a) and (b) shall not ap
 
 (d)
 
-Delegation of Notice and Exception Authority.—The Secretary of Defense may only delegate the authority under subsection (c) to enter into a contract subject to the prohibition under subsection (a) or (b) to the Deputy Secretary of Defense, the Under Secretary of Defense for Policy, or the Under Secretary of Defense for Acquisition, Technology, and Logistics and such authority may not be further delegated.
+Delegation of Notice and Exception Authority.—The Secretary of Defense may only delegate the authority under subsection (c) to enter into a contract subject to the prohibition under subsection (a) or (b) to the Deputy Secretary of Defense, the Under Secretary of Defense for Policy, or the Under Secretary of Defense for Acquisition and Sustainment and such authority may not be further delegated.
 
 (e)
 
@@ -70,7 +70,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "cybersecurity risk" means threats to and vulnerabilities of information or information systems and any related consequences caused by or resulting from unauthorized access, use, disclosure, degradation, disruption, modification, or destruction of such information or information systems, including such related consequences caused by an act of terrorism.
 
-(Added Pub. L. 113–66, div. A, title XVI, §1602(a)(1), Dec. 26, 2013, 127 Stat. 941; amended Pub. L. 115–91, div. A, title XVI, §1603(a)–(d)(1), Dec. 12, 2017, 131 Stat. 1722, 1723; Pub. L. 115–232, div. A, title X, §1081(a)(16), Aug. 13, 2018, 132 Stat. 1984.)
+(Added Pub. L. 113–66, div. A, title XVI, §1602(a)(1), Dec. 26, 2013, 127 Stat. 941; amended Pub. L. 115–91, div. A, title XVI, §1603(a)–(d)(1), Dec. 12, 2017, 131 Stat. 1722, 1723; Pub. L. 115–232, div. A, title X, §1081(a)(16), Aug. 13, 2018, 132 Stat. 1984; Pub. L. 116–92, div. A, title IX, §902(30), Dec. 20, 2019, 133 Stat. 1546.)
 
 #### References in Text
 
@@ -84,6 +84,8 @@ A prior section 2279, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to res
 
 #### Amendments
 
+<b>2019</b>—Subsec. (d). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
 <b>2018</b>—Subsec. (c). Pub. L. 115–232 substituted "subsections (a) and (b)" for "subsection (a) and (b)" in introductory provisions.
 
 <b>2017</b>—Pub. L. 115–91, §1603(d)(1)(A), substituted "services and foreign launches" for "services" in section catchline.
@@ -96,13 +98,13 @@ Subsec. (a)(3). Pub. L. 115–91, §1603(a), added par. (3).
 
 Subsec. (b). Pub. L. 115–91, §1603(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 115–91, §1603(b)(1), (d)(1)(D), redesignated subsec. (b) as (c) and substituted "prohibitions in subsection (a) and (b)" for "prohibition in subsection (a)" in introductory provisions. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 115–91, §1603(b)(1), (d)(1)(D), redesignated subsec. (b) as (c) and substituted "prohibitions in subsection (a) and (b)" for "prohibition in subsection\(a)" in introductory provisions. Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 115–91, §1603(b)(1), (d)(1)(B), (E), redesignated subsec. (c) as (d) and substituted "subsection (c)" for "subsection (b)" and "prohibition under subsection (a) or (b)" for "prohibition under subsection (a)". Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 115–91, §1603(b)(1), (d)(1)(B), redesignated subsec. (d) as (e) and substituted "subsection (c)" for "subsection (b)". Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 115–91, §1603(b)(1), (c), redesignated subsec. (e) as (f) and amended it generally. Priorto amendment, text read as follows: "In this section, the term 'covered foreign country' means a country described in section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2019)."
+Subsec. (f). Pub. L. 115–91, §1603(b)(1), (c), redesignated subsec. (e) as (f) and amended it generally. Prior to amendment, text read as follows: "In this section, the term 'covered foreign country' means a country described in section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2019)."
 
 #### Effective Date of 2017 Amendment
 

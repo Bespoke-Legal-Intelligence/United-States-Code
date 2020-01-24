@@ -20,7 +20,7 @@ Activities that may be supported by assistance under subsection (a) include the 
 
 &emsp;(1) To support democratic institutions in Pakistan in order to strengthen civilian rule and long-term stability, including assistance such as—
 
-&emsp;&emsp;(A) support for efforts to strengthen Pakistan's institutions, including the capacity of the National Parliament of Pakistan, such as enhancing the capacity of committees to oversee government activities, including national security issues, enhancing the ability of members of parliament to respond to constituents, and supporting of parliamentary leadership;
+&emsp;&emsp;(A) support for efforts to strengthen Pakistan's institutions, including the capacity ofthe National Parliament of Pakistan, such as enhancing the capacity of committees to oversee government activities, including national security issues, enhancing the ability of members of parliament to respond to constituents, and supporting of parliamentary leadership;
 
 &emsp;&emsp;(B) support for voter education and civil society training as well as appropriate support for political party capacity building and responsiveness to the needs of all the people of Pakistan; and
 
@@ -74,13 +74,13 @@ Activities that may be supported by assistance under subsection (a) include the 
 
 &emsp;&emsp;(A) encouraging civil society, respected scholars, and other leaders to speak out against militancy and violence; and
 
-&emsp;&emsp;(B) expanded exchange activities under the Fulbright Program, the International Visitor Leadership Program, the Youth Exchange and Study Program, and related programs administered by the Department of State designed to promote mutual understanding and interfaith dialogue and expandsister institution programs between United States and Pakistani schools and universities.
+&emsp;&emsp;(B) expanded exchange activities under the Fulbright Program, the International Visitor Leadership Program, the Youth Exchange and Study Program, and related programs administered by the Department of State designed to promote mutual understanding and interfaith dialogue and expand sister institution programs between United States and Pakistani schools and universities.
 
 #### (c) Additional and related activities
 
 #### (1) Availability of amounts for Pakistani police professionalization, equipping, and training
 
-&emsp;Not less than $150,000,000 of the amounts appropriated for fiscal year 2010 pursuant to the authorization of appropriations under section 8412 of this title should be made available for assistance to Pakistan under this section for police professionalization, equipping, and training.
+&emsp;Not less than $150,000,000 of the amounts appropriated for fiscal year 2010 pursuant to the authorization of appropriations under section 8412 of this title should be made available forassistance to Pakistan under this section for police professionalization, equipping, and training.
 
 #### (2) Availability of amounts for administrative expenses
 

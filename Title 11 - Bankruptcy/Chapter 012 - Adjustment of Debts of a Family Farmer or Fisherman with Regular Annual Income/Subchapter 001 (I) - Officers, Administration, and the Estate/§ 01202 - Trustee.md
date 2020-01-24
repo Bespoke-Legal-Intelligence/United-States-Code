@@ -106,7 +106,7 @@ Amendment by section 219(c) of Pub. L. 109–8 effective 180 days after Apr. 20,
 
 #### Effective Dates
 
-Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates ofamendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
 Section effective 30 days after Oct. 27, 1986, and before the amendment by section 227 of Pub. L. 99–554, see section 302(c)(2) of Pub. L. 99–554, set out in an Effective Date of 1986 Amendment; Transition and Administrative Provisions note under section 581 of Title 28, Judiciary and Judicial Procedure.
 

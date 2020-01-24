@@ -180,7 +180,7 @@ Failure to complete service agreement.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), if an individual transferring entitlement under this section fails to complete the service agreed to by the individual under subsection (b)(1) in accordance with the terms of the agreement of the individual under that subsection, the amount ofany transferred entitlement under this section that is used by a dependent of the individual as of the date of such failure shall be treated as an overpayment of educational assistance under paragraph (1).
+In general.—Except as provided in subparagraph (B), if an individual transferring entitlement under this section fails to complete the service agreed to by the individual under subsection (b)(1) in accordance with the terms of the agreement of the individual under that subsection, the amount of any transferred entitlement under this section that is used by a dependent of the individual as of the date of such failure shall be treated as an overpayment of educational assistance under paragraph (1).
 
 &emsp;&emsp;(B)
 
@@ -202,6 +202,8 @@ Regulations.—(1) The Secretary of Defense, in coordination with the Secretary 
 
 &emsp;(C) the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2).
 
+(3) The Secretary of Defense may not prescribe any regulation that would provide for a limitation on eligibility to transfer unused education benefits to family members based on a maximum number of years of service in the Armed Forces.
+
 (k)
 
 Additional Transfer Upon Death of Dependent.—In the case of a dependent to whom entitlement to educational assistance is transferred under this section who dies before using all of such entitlement, the individual who transferred the entitlement to the dependent may transfer any remaining entitlement to a different eligible dependent, notwithstanding whether the individual is serving as a member of the Armed Forces when such transfer is executed.
@@ -210,9 +212,11 @@ Additional Transfer Upon Death of Dependent.—In the case of a dependent to who
 
 Transfer by Dependent.—In the case of an individual who transfers entitlement to educational assistance under this section who dies before the dependent to whom entitlement to educational assistance is so transferred has used all of such entitlement, such dependent may transfer such entitlement to another eligible dependent in accordance with the provisions of this section.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(7), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§110(a), (b), 112(b), title II, §201(b), Jan. 4, 2011, 124 Stat. 4120, 4122, 4123; Pub. L. 114–58, title VI, §601(19), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §110(a), Aug. 16, 2017, 131 Stat. 981.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(7), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§110(a), (b), 112(b), title II, §201(b), Jan. 4, 2011, 124 Stat. 4120, 4122, 4123; Pub. L. 114–58, title VI, §601(19), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §110(a), Aug. 16, 2017, 131 Stat. 981; Pub. L. 116–92, div. A, title V, §578, Dec. 20, 2019, 133 Stat. 1406.)
 
 #### Amendments
+
+<b>2019</b>—Subsec. (j)(3). Pub. L. 116–92 added par. (3).
 
 <b>2017</b>—Subsec. (f)(1). Pub. L. 115–48, §110(a)(1), inserted ", and except as provided in subsection (k) or (l)," after "section 3321".
 

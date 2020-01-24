@@ -68,7 +68,7 @@ In subsection (a), the text of 49:1653(g) (last sentence) is omitted as executed
 
 In subsection (a)(4), the word "ensure" is substituted for "assure" as being more precise. The words "of the United States Government" are substituted for "Federal", and the words "United States" are substituted for "national", for clarity and consistency.
 
-In subsection (b), the words "The Secretaries shall report on April 1 of each year" are substituted for "They shall, within one year after the effective date of the Act, and annually thereafter, report" to omit executed words and to specify the date of April 1 because the President prescribed April 1, 1967, as the effective date of the Department of Transportation Act (Pub. L. 89–670, 80 Stat. 931) by Executive Order No. 11340, March 30, 1967 (32 F.R. 5443). The word "consider" is substituted for "determine" for consistency.
+In subsection (b), the words "The Secretaries shall report on April 1 of each year" are substituted for "They shall, within one year after the effective date of theAct, and annually thereafter, report" to omit executed words and to specify the date of April 1 because the President prescribed April 1, 1967, as the effective date of the Department of Transportation Act (Pub. L. 89–670, 80 Stat. 931) by Executive Order No. 11340, March 30, 1967 (32 F.R. 5443). The word "consider" is substituted for "determine" for consistency.
 
 #### References in Text
 
@@ -100,7 +100,7 @@ In general.—A cooperating authority shall provide modal expertise to the lead 
 
 "(2)
 
-Use of categorical exclusion.—In a case described in paragraph (1), the 1 or more categorical exclusions of a cooperating authority may be applied by the lead authority once the cooperating authority reviews the project on behalf of the lead authority and determines the project satisfies the conditions for a categorical exclusion under the implementing regulations or procedures of the cooperating authority underthe National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and this section."
+Use of categorical exclusion.—In a case described in paragraph (1), the 1 or more categorical exclusions of a cooperating authority may be applied by the lead authority once the cooperating authority reviews the project on behalf of the lead authority and determines the project satisfies the conditions for a categorical exclusion under the implementing regulations or procedures of the cooperating authority under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and this section."
 
 2012–Pub. L. 112–141 amended section generally. Prior to amendment, section related to joint activities with the Secretary of Housing and Urban Development.
 

@@ -30,7 +30,7 @@ Requirements.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary may register a person as a broker under section 13904 only if the person files with the Secretary a surety bond, proof of trust fund, or other financial security, or a combination thereof, in a form and amount, and from a provider, determined by the Secretary to be adequate to ensure financial responsibility.
+In general.—The Secretary may register a person as a broker under section 13904only if the person files with the Secretary a surety bond, proof of trust fund, or other financial security, or a combination thereof, in a form and amount, and from a provider, determined by the Secretary to be adequate to ensure financial responsibility.
 
 &emsp;&emsp;(B)
 

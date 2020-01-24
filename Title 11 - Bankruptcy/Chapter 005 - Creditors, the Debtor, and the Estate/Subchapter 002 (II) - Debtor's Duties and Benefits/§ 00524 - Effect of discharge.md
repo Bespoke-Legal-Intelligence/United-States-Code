@@ -2,15 +2,15 @@
 
 (a) A discharge in a case under this title—
 
-&emsp;(1) voids any judgment at any time obtained, to the extent that such judgment is a determination of the personal liability of the debtor with respect to any debt discharged under section 727, 944, 1141, 1228, or 1328 of this title, whether or not discharge of such debt is waived;
+&emsp;(1) voids any judgment at any time obtained, to the extent that such judgment is a determination of the personal liability of the debtor with respect to any debt discharged under section 727, 944, 1141, 1192, 1228, or 1328 of this title, whether or not discharge of such debt is waived;
 
 &emsp;(2) operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect, recover or offset any such debt as a personal liability of the debtor, whether or not discharge of such debt is waived; and
 
-&emsp;(3) operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect or recover from, or offset against, property of the debtor of the kind specified in section 541(a)(2) of this title that is acquired after the commencement of the case, on account of any allowable community claim, except a community claim that is excepted from discharge under section 523, 1228(a)(1), or 1328(a)(1), or that would be so excepted, determined in accordance with the provisions of sections 523(c) and 523(d) of this title, in a case concerning the debtor's spouse commenced on the date of the filing of the petition in the case concerning the debtor, whether or not discharge of the debt based on such community claim is waived.
+&emsp;(3) operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect or recover from, or offset against, property of the debtor of the kind specified in section 541(a)(2) of this title that is acquired after the commencement of the case, on account of any allowable community claim, except a community claim that is excepted from discharge under section 523, 1192, 1228(a)(1), or 1328(a)(1), or that would be so excepted, determined in accordance with the provisions of sections 523(c) and 523(d) of this title, in a case concerning the debtor's spouse commenced on the date of the filing of the petition in the case concerning the debtor, whether or not discharge of the debt based on such community claim is waived.
 
 (b) Subsection (a)(3) of this section does not apply if—
 
-&emsp;(1)(A) the debtor's spouse is a debtor in a case under this title, or a bankrupt or a debtorin a case under the Bankruptcy Act, commenced within six years of the date of the filing of the petition in the case concerning the debtor; and
+&emsp;(1)(A) the debtor's spouse is a debtor in a case under this title, or a bankrupt or a debtor in a case under the Bankruptcy Act, commenced within six years of the date of the filing of the petition in the case concerning the debtor; and
 
 &emsp;(B) the court does not grant the debtor's spouse a discharge in such case concerning the debtor's spouse; or
 
@@ -18,9 +18,9 @@
 
 &emsp;(B) a determination that the court would not so grant such discharge is made by the bankruptcy court within the time and in the manner provided for a determination under section 727 of this title of whether a debtor is granted a discharge.
 
-(c) An agreement between a holder of a claim and the debtor, the consideration for which, in whole or in part, is based on a debt that is dischargeable in a case under this title is enforceable only to any extent enforceable under applicable nonbankruptcy law, whether or not discharge of such debt is waived, only if—
+(c) An agreement between a holder of a claim and the debtor, the consideration for which, inwhole or in part, is based on a debt that is dischargeable in a case under this title is enforceable only to any extent enforceable under applicable nonbankruptcy law, whether or not discharge of such debt is waived, only if—
 
-&emsp;(1) such agreement was made before the granting of the discharge under section 727, 1141, 1228, or 1328 of this title;
+&emsp;(1) such agreement was made before the granting of the discharge under section 727, 1141, 1192, 1228, or 1328 of this title;
 
 &emsp;(2) the debtor received the disclosures described in subsection (k) at or before the time at which the debtor signed the agreement;
 
@@ -48,7 +48,7 @@
 
 &emsp;(B) Subparagraph (A) shall not apply to the extent that such debt is a consumer debt secured by real property.
 
-(d) In a case concerning an individual, when the court has determined whether to grant or not to grant a discharge under section 727, 1141, 1228, or 1328 of this title, the court may hold a hearing at which the debtor shall appear in person. At any such hearing, the court shall inform the debtor that a discharge has been granted or the reason why a discharge has not been granted. If a discharge has been granted and if the debtor desires to make an agreement of the kind specified in subsection (c) of this section and was not represented by an attorney during the course of negotiating such agreement, then the court shall hold a hearing at which the debtor shall appear in person and at such hearing the court shall—
+(d) In a case concerning an individual, when the court has determined whether to grant or not to grant a discharge under section 727, 1141, 1192, 1228, or 1328 of this title, the court may hold a hearing at which the debtor shall appear in person. At any such hearing, the court shall inform the debtor that a discharge has been granted or the reason why a discharge has not been granted. If a discharge has been granted and if the debtor desires to make an agreement of the kind specified in subsection (c) of this section and was not represented by an attorney during the course of negotiating such agreement, then the court shall hold a hearing at which the debtor shall appear in person and at such hearing the court shall—
 
 &emsp;(1) inform the debtor—
 
@@ -152,7 +152,7 @@
 
 &emsp;&emsp;(cc) a predecessor in interest of the debtor.
 
-(B) Subject to subsection (h), if, under a plan of reorganization, a kind of demand described in such plan is to be paid in whole or in part by a trust described in paragraph (2)(B)(i) in connection with which an injunction described in paragraph (1) is to be implemented, then such injunction shall be valid and enforceable with respect to a demand of such kind made, after such plan is confirmed, against the debtor or debtors involved, or against a third party described in subparagraph (A)(ii), if—
+(B) Subject to subsection (h), if, under a plan of reorganization, a kind of demand described insuch plan is to be paid in whole or in part by a trust described in paragraph (2)(B)(i) in connection with which an injunction described in paragraph (1) is to be implemented, then such injunction shall be valid and enforceable with respect to a demand of such kind made, after such plan is confirmed, against the debtor or debtors involved, or against a third party described in subparagraph (A)(ii), if—
 
 &emsp;(i) as part of the proceedings leading to issuance of such injunction, the court appoints a legal representative for the purpose of protecting the rights of persons that might subsequently assert demands of such kind, and
 
@@ -198,7 +198,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;(3) such act is limited to seeking or obtaining periodic payments associated with a valid security interest in lieu of pursuit of in rem relief to enforce the lien.
 
-(k)(1) The disclosures required under subsection (c)(2) shall consist of the disclosure statement described in paragraph (3), completed as required in that paragraph, together with the agreement specified in subsection (c), statement, declaration, motion and order described,respectively, in paragraphs (4) through (8), and shall be the only disclosures required in connection with entering into such agreement.
+(k)(1) The disclosures required under subsection (c)(2) shall consist of the disclosure statement described in paragraph (3), completed as required in that paragraph, together with the agreement specified in subsection (c), statement, declaration, motion and order described, respectively, in paragraphs (4) through (8), and shall be the only disclosures required in connection with entering into such agreement.
 
 (2) Disclosures made under paragraph (1) shall be made clearly and conspicuously and in writing. The terms "Amount Reaffirmed" and "Annual Percentage Rate" shall be disclosed more conspicuously than other terms, data or information provided in connection with this disclosure, except that the phrases "Before agreeing to reaffirm a debt, review these important disclosures" and "Summary of Reaffirmation Agreement" may be equally conspicuous. Disclosures may be made in a different order and may use terminology different from that set forth in paragraphs (2) through (8), except that the terms "Amount Reaffirmed" and "Annual Percentage Rate" must be used where indicated.
 
@@ -250,7 +250,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;(iii) by describing the debtor's repayment obligations with reasonable specificity to the extent then known by the disclosing party.
 
-&emsp;(I) The following statement: "Note: When this disclosure refers to what a creditor 'may' do, it does not use the word 'may' to give the creditor specific permission. The word 'may' is used to tell you what might occur if the law permits the creditor to take the action. If you have questions about your reaffirming a debt or what the law requires, consult with the attorney who helped you negotiate this agreement reaffirming a debt. If you don't have an attorney helping you, the judge will explain the effect of your reaffirming a debt when the hearing on the reaffirmation agreement is held.".
+&emsp;(I) The following statement: "Note: When this disclosure refers to what a creditor 'may' do, it does not use the word 'may' to give the creditor specific permission. The word 'may' is used to tell you what might occur if the law permits the creditor to take the action. If you have questions about your reaffirming a debt or what the law requires, consult with the attorney who helped you negotiate this agreement reaffirming a debt. If you don't have an attorney helping you, the judge will explainthe effect of your reaffirming a debt when the hearing on the reaffirmation agreement is held.".
 
 &emsp;(J)(i) The following additional statements:
 
@@ -352,7 +352,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 (2) This subsection does not apply to reaffirmation agreements where the creditor is a credit union, as defined in section 19(b)(1)(A)(iv) of the Federal Reserve Act.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2592; Pub. L. 98–353, title III, §§308, 455, July 10, 1984, 98 Stat. 354, 376; Pub. L. 99–554, title II, §§257(o), 282, 283(k), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L.103–394, title I, §§103, 111(a), title V, §501(d)(14), Oct. 22, 1994, 108 Stat. 4108, 4113, 4145; Pub. L. 109–8, title II, §§202, 203(a), title XII, §1210, Apr. 20, 2005, 119 Stat. 43, 194; Pub. L. 111–327, §2(a)(19), Dec. 22, 2010, 124 Stat. 3559.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2592; Pub. L. 98–353, title III, §§308, 455, July 10, 1984, 98 Stat. 354, 376; Pub. L. 99–554, title II, §§257(o), 282, 283(k), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 103–394, title I, §§103, 111(a), title V, §501(d)(14), Oct. 22, 1994, 108 Stat. 4108, 4113, 4145; Pub. L. 109–8, title II, §§202, 203(a), title XII, §1210, Apr. 20, 2005, 119 Stat. 43, 194; Pub. L. 111–327, §2(a)(19), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 116–54, §4(a)(9), Aug. 23, 2019, 133 Stat. 1086.)
 
 #### Historical and Revision Notes
 
@@ -360,7 +360,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 Section 524(a) of the House amendment represents a compromise between the House bill and the Senate amendment. Section 524(b) of the House amendment is new, and represents standards clarifying the operation of section 524(a)(3) with respect to community property.
 
-Sections 524(c) and (d) represent a compromise between the House bill and Senate amendment on the issue of reaffirmation of a debt discharged in bankruptcy. Every reaffirmation to be enforceable must be approved by the court, and any debtor may rescind a reaffirmation for 30 days from the time the reaffirmation becomes enforceable. If the debtor is an individual the court must advise the debtor of various effects of reaffirmation at a hearing. In addition, to any extent the debt is a consumer debt that is not secured by real property of the debtor reaffirmation is permitted only if the court approves the reaffirmation agreement, before granting a discharge under section 727, 1141, or 1328, as not imposing a hardship on the debtor or a dependent of the debtor and in the best interest of the debtor; alternatively, the court may approve an agreement entered into in good faith that is in settlement of litigation of a complaint to determine dischargeability or that is entered into in connection with redemption under section 722. The hearing on discharge under section 524(d) will be held whether or not the debtor desires to reaffirm any debts.
+Sections 524(c) and (d) represent a compromise between the House bill and Senate amendment on the issue of reaffirmation of a debt discharged in bankruptcy. Every reaffirmation to be enforceable must be approved by the court, and any debtor may rescind a reaffirmation for 30 days from the time the reaffirmation becomes enforceable. If the debtor is an individual the court must advise the debtor of various effects ofreaffirmation at a hearing. In addition, to any extent the debt is a consumer debt that is not secured by real property of the debtor reaffirmation is permitted only if the court approves the reaffirmation agreement, before granting a discharge under section 727, 1141, or 1328, as not imposing a hardship on the debtor or a dependent of the debtor and in the best interest of the debtor; alternatively, the court may approve an agreement entered into in good faith that is in settlement of litigation of a complaint to determine dischargeability or that is entered into in connection with redemption under section 722. The hearing on discharge under section 524(d) will be held whether or not the debtor desires to reaffirm any debts.
 
 #### senate report no. 95–989
 
@@ -387,6 +387,14 @@ The Truth in Lending Act, referred to in subsec. (k), is title I of Pub. L. 90�
 Section 19(b)(1)(A)(iv) of the Federal Reserve Act, referred to in subsecs. (k)(6)(B) and (m)(2), is classified to section 461(b)(1)(A)(iv) of Title 12, Banks and Banking.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(1). Pub. L. 116–54, §4(a)(9)(A)(i), inserted "1192," after "1141,".
+
+Subsec. (a)(3). Pub. L. 116–54, §4(a)(9)(A)(ii), inserted "1192," after "523,".
+
+Subsec. (c)(1). Pub. L. 116–54, §4(a)(9)(B), inserted "1192," after "1141,".
+
+Subsec. (d). Pub. L. 116–54, §4(a)(9)(C), inserted "1192," after "1141," in introductory provisions.
 
 <b>2010</b>—Subsec. (k)(3)(J)(i). Pub. L. 111–327, §2(a)(19)(A), in last undesignated par., substituted "property securing the lien" for "security property" and "amount of the allowed secured claim" for "current value of the security property" and inserted "must" before "make a single payment".
 
@@ -445,6 +453,10 @@ Subsec. (c)(6). Pub. L. 98–353, §308(b)(2), (4), redesignated former par. (4)
 Subsec. (d)(2). Pub. L. 98–353, §308(c), substituted "subsection (c)(6)" for "subsection (c)(4)".
 
 Subsec. (f). Pub. L. 98–353, §308(d), added subsec. (f).
+
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under section 101 of this title.
 
 #### Effective Date of 2005 Amendment
 

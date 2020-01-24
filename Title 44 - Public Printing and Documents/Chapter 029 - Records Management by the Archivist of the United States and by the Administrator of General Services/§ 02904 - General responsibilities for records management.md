@@ -82,7 +82,7 @@ Subsec. (c)(4). Pub. L. 98–497 redesignated par. (5) as (4). Former par. (4), 
 
 Subsec. (c)(5). Pub. L. 98–497 redesignated par. (7) as (5) and struck out "the burden placed on the Federal Government by unnecessary paperwork" after "Congress on", "creation" before "maintenance", and "and use, and disposition" after "maintenance". Former par. (5) redesignated (4).
 
-Subsec. (c)(6). Pub. L. 98–497 redesignated par. (8) as (6) and struck out "with particular attention given to standards and procedures governing records creation" at end. Former par. (6) redesignated (3).
+Subsec. (c)(6). Pub. L. 98–497 redesignated par. (8) as (6) and struck out "with particular attention given tostandards and procedures governing records creation" at end. Former par. (6) redesignated (3).
 
 Subsec. (c)(7). Pub. L. 98–497 redesignated par. (9) as (7) and substituted "surveys of the records and the records management programs and practices within and between Federal agencies" for "records management studies which involve a review of the programs and practices of more than one Federal agency and which examine interaction among and relationships between Federal agencies with respect to records and records management". Former par. (7) redesignated (5).
 

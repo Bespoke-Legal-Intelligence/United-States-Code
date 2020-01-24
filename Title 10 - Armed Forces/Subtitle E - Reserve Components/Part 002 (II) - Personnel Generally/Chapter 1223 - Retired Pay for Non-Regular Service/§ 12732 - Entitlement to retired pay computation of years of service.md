@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) A federally recognized status in the National Guard before June 15, 1933.
 
-&emsp;&emsp;(D) The National Guard after June 14, 1933, if his service therein was continuous from the date of his enlistment in the National Guard, or his Federal recognition as an officer therein, to the date of his enlistment or appointment, as the case may be, in the National Guard of the United States, the Army National Guard of the United States, or the Air National Guard of the United States.
+&emsp;&emsp;(D) The National Guard after June 14, 1933, if his service therein was continuous from the date of his enlistment in the National Guard, or his Federal recognition as an officer therein, to the date of his enlistment or appointment, as the case may be, in the National Guard of the United States, the ArmyNational Guard of the United States, or the Air National Guard of the United States.
 
 &emsp;&emsp;(E) The Navy Reserve Force.
 
@@ -242,7 +242,7 @@ Recommendations to Congress.—The Secretary shall submit to Congress, not later
 
 #### Coast Guard Women's Reserve; Constructive Service Credit: Retirement Benefits; Retroactive Pay
 
-Pub. L. 87–482, June 12, 1962, 76 Stat. 95, provided: "That any person who was a member of the CoastGuard Women's Reserve and who served on active duty therein for at least one year prior to July 25, 1947; who was separated therefrom under honorable conditions; and who also had membership therein for any period between November 1, 1949, and July 1, 1956, shall be deemed to have served on inactive duty with the Coast Guard Women's Reserve from July 25, 1947, to November 1, 1949, in the grade or rating satisfactorily held on active duty prior to July 25, 1947.
+Pub. L. 87–482, June 12, 1962, 76 Stat. 95, provided: "That any person who was a member of the Coast Guard Women's Reserve and who served on active duty therein for at least one year prior to July 25, 1947; who was separated therefrom under honorable conditions; and who also had membership therein for any period between November 1, 1949, and July 1, 1956, shall be deemed to have served on inactive duty with the Coast Guard Women's Reserve from July 25, 1947, to November 1, 1949, in the grade or rating satisfactorily held on active duty prior to July 25, 1947.
 
 "
 

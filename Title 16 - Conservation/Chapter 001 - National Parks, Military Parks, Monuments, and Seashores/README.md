@@ -378,7 +378,7 @@
 | [160\.](Subchapter%20019%20%28XIX%29%20-%20Voyageurs%20National%20Park/%C2%A7%2000160%20-%20Congressional%20declaration%20of%20purpose.md) | Congressional declaration of purpose. |
 | [160a.](Subchapter%20019%20%28XIX%29%20-%20Voyageurs%20National%20Park/%C2%A7%2000160a%20-%20Establishment%3B%20notice%20in%20Federal%20Register%3B%20donation%20of%20lands%3B%20acquisition%20by%20purchase%20of%20other%20lands.md) | Establishment; notice in Federal Register; donation of lands; acquisition by purchase of other lands. |
 | 160a–1. | Boundaries. |
-| [160b.](Subchapter%20019%20%28XIX%29%20-%20Voyageurs%20National%20Park/%C2%A7%2000160b%20-%20Acquisition%20of%20lands%3B%20lands%20outside%20of%20boundaries%3B%20transfer%20of%20Federal%20property%20within%20boundaries%20to%20administrative%20jurisdiction%20of%E2%80%A6.md) | Acquisition of lands; lands outside of boundaries; transfer of Federal property within boundaries to administrative jurisdiction of Secretary; consideration by Secretary of offers to sell property within park area. |
+| [160b.](Subchapter%20019%20%28XIX%29%20-%20Voyageurs%20National%20Park/%C2%A7%2000160b%20-%20Land%20acquisitions.md) | Land acquisitions. |
 | [160c.](Subchapter%20019%20%28XIX%29%20-%20Voyageurs%20National%20Park/%C2%A7%2000160c%20-%20Acquisition%20of%20improved%20property.md) | Acquisition of improved property. |
 | [160d.](Subchapter%20019%20%28XIX%29%20-%20Voyageurs%20National%20Park/%C2%A7%2000160d%20-%20Concession%20contracts%20with%20former%20owners%20of%20commercial%2C%20recreational%2C%20resort%2C%20or%20similar%20properties%20within%20park%20boundaries.md) | Concession contracts with former owners of commercial, recreational, resort, or similar properties within park boundaries. |
 | [160e.](Subchapter%20019%20%28XIX%29%20-%20Voyageurs%20National%20Park/%C2%A7%2000160e%20-%20Payment%20of%20value%20differential%20by%20Secretary%20to%20owner%20of%20commercial%20timberlands%20exchanging%20lands%20for%20State%20lands%20outside%20of%20park%E2%80%A6.md) | Payment of value differential by Secretary to owner of commercial timberlands exchanging lands for State lands outside of park; determination of value; prerequisites. |
@@ -746,9 +746,9 @@
 | :--- | ---: |
 | [341\.](Subchapter%20037%20%28XXXVII%29%20-%20Acadia%20National%20Park/%C2%A7%2000341%20-%20Establishment%3B%20description%20of%20area.md) | Establishment; description of area. |
 | [342\.](Subchapter%20037%20%28XXXVII%29%20-%20Acadia%20National%20Park/%C2%A7%2000342%20-%20Administration%2C%20protection%2C%20and%20promotion.md) | Administration, protection, and promotion. |
-| [342a.](Subchapter%20037%20%28XXXVII%29%20-%20Acadia%20National%20Park/%C2%A7%2000342a%20-%20Extension%20of%20boundary%20limits.md) | Extension of boundary limits. |
+| [342a.](Subchapter%20037%20%28XXXVII%29%20-%20Acadia%20National%20Park/%C2%A7%2000342a%20-%20Repealed.%20Pub.%20L.%20116%E2%80%939%2C%20title%20II%2C%20%C2%A72108%28d%29%282%29%2C%20Mar.%2012%2C%202019%2C%20133%20Stat.%20730.md) | Repealed. |
 | [342b.](Subchapter%20037%20%28XXXVII%29%20-%20Acadia%20National%20Park/%C2%A7%2000342b%20-%20Lafayette%20National%20Park%20name%20changed%20to%20Acadia%20National%20Park%3B%20land%20unaffected%20by%20Federal%20Power%20Act.md) | Lafayette National Park name changed to Acadia National Park; land unaffected by Federal Power Act. |
-| [343\.](Subchapter%20037%20%28XXXVII%29%20-%20Acadia%20National%20Park/%C2%A7%2000343%20-%20Acceptance%20of%20property%20on%20Mount%20Desert%20Island.md) | Acceptance of property on Mount Desert Island. |
+| [343\.](Subchapter%20037%20%28XXXVII%29%20-%20Acadia%20National%20Park/%C2%A7%2000343%20-%20Repealed.%20Pub.%20L.%20116%E2%80%939%2C%20title%20II%2C%20%C2%A72108%28d%29%281%29%2C%20Mar.%2012%2C%202019%2C%20133%20Stat.%20730.md) | Repealed. |
 | [343a.](Subchapter%20037%20%28XXXVII%29%20-%20Acadia%20National%20Park/%C2%A7%2000343a%20-%20Naval%20radio%20station%2C%20Seawall%2C%20Maine%2C%20as%20addition%20to%20park.md) | Naval radio station, Seawall, Maine, as addition to park. |
 | [343b.](Subchapter%20037%20%28XXXVII%29%20-%20Acadia%20National%20Park/%C2%A7%2000343b%20-%20Addition%20of%20lands.md) | Addition of lands. |
 | [343c.](Subchapter%20037%20%28XXXVII%29%20-%20Acadia%20National%20Park/%C2%A7%2000343c%20-%20Exchange%20of%20lands%3B%20Jackson%20Memorial%20Laboratory.md) | Exchange of lands; Jackson Memorial Laboratory. |
@@ -1536,13 +1536,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER LIX–Y—CALIFORNIA DESERT LANDS PARKS AND PRESERVE
+#### SUBCHAPTER LIX–Y—CALIFORNIA DESERT LANDS PARKS, PRESERVE, AND OFF-HIGHWAY VEHICLE RECREATION AREAS
 
 #### Part A—Death Valley National Park
 
 |  |  |
 | :--- | ---: |
-| [410aaa.](Subchapter%20059%E2%80%93Y%20%28LIX%E2%80%93Y%29%20-%20California%20Desert%20Lands%20Parks%20and%20Preserve/Part%20A%20-%20Death%20Valley%20National%20Park/%C2%A7%2000410aaa%20-%20Findings.md) | Findings. |
+| [410aaa.](Subchapter%20059%E2%80%93Y%20%28LIX%E2%80%93Y%29%20-%20California%20Desert%20Lands%20Parks%2C%20Preserve%2C%20and%20Off-Highway%20Vehicle%20Recreation%20Areas/Part%20A%20-%20Death%20Valley%20National%20Park/%C2%A7%2000410aaa%20-%20Findings.md) | Findings. |
 | 410aaa–1. | Establishment. |
 | 410aaa–2. | Transfer and administration of lands. |
 | 410aaa–3. | Maps and legal description. |
@@ -1564,6 +1564,7 @@
 | 410aaa–25. | Withdrawal. |
 | 410aaa–26. | Utility rights-of-way. |
 | 410aaa–27. | Joshua Tree National Park Advisory Commission. |
+| 410aaa–28. | Visitor center. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1607,9 +1608,20 @@
 | 410aaa–78. | Access to private property. |
 | 410aaa–79. | Federal facilities fee equity. |
 | 410aaa–80. | Land appraisal. |
-| 410aaa–81. | Definition. |
+| 410aaa–81. | Juniper Flats. |
+| 410aaa–81a. | Transfer of land to Anza-Borrego Desert State Park. |
+| 410aaa–81b. | Wildlife corridors. |
+| 410aaa–81c. | Prohibited uses of acquired, donated, and conservation land. |
 | 410aaa–82. | Military overflights. |
 | 410aaa–83. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part E—Off-Highway Vehicle Recreation Areas
+
+|  |  |
+| :--- | ---: |
+| 410aaa–91. | Designation of Off-Highway Vehicle Recreation Areas. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1860,6 +1872,88 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER LIX–UU—MARTIN LUTHER KING, JR. NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410www.](Subchapter%20059%E2%80%93UU%20%28LIX%E2%80%93UU%29%20-%20Martin%20Luther%20King%2C%20Jr.%20National%20Historical%20Park/%C2%A7%2000410www%20-%20Establishment%20of%20Martin%20Luther%20King%2C%20Jr.%20National%20Historical%20Park.md) | Establishment of Martin Luther King, Jr. National Historical Park. |
+| 410www–1. | Administration. |
+| 410www–2. | Authority of Secretary regarding property and concessions. |
+| 410www–3. | Omitted. |
+| 410www–4. | Entrance or admission fees prohibited. |
+| 410www–5. | Authorization of appropriations; limitation on authority. |
+| 410www–6. | Minimizing adverse impacts on preservation district. |
+| 410www–7. | Omitted. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–VV—STE. GENEVIEVE NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410xxx.](Subchapter%20059%E2%80%93VV%20%28LIX%E2%80%93VV%29%20-%20Ste.%20Genevieve%20National%20Historical%20Park/%C2%A7%2000410xxx%20-%20Ste.%20Genevieve%20National%20Historical%20Park.md) | Ste. Genevieve National Historical Park. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–WW—OCMULGEE MOUNDS NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410yyy.](Subchapter%20059%E2%80%93WW%20%28LIX%E2%80%93WW%29%20-%20Ocmulgee%20Mounds%20National%20Historical%20Park/%C2%A7%2000410yyy%20-%20Establishment%3B%20acquisition%20of%20property.md) | Establishment; acquisition of property. |
+| 410yyy–1. | Donation of property; condemnation proceedings. |
+| 410yyy–2. | Administration, protection, and development. |
+| 410yyy–3. | Ocmulgee Mounds National Historical Park boundary. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–XX—SAINT-GAUDENS NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410zzz.](Subchapter%20059%E2%80%93XX%20%28LIX%E2%80%93XX%29%20-%20Saint-Gaudens%20National%20Historical%20Park/%C2%A7%2000410zzz%20-%20Acquisition%20of%20lands.md) | Acquisition of lands. |
+| 410zzz–1. | Acceptance of funds. |
+| 410zzz–2. | Establishment. |
+| 410zzz–3. | Administration. |
+| 410zzz–4. | Saint-Gaudens Memorial. |
+| 410zzz–5. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–YY—FORT SUMTER AND FORT MOULTRIE NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410aaaa.](Subchapter%20059%E2%80%93YY%20%28LIX%E2%80%93YY%29%20-%20Fort%20Sumter%20and%20Fort%20Moultrie%20National%20Historical%20Park/%C2%A7%2000410aaaa%20-%20Fort%20Sumter%20and%20Fort%20Moultrie%20National%20Historical%20Park.md) | . Fort Sumter and Fort Moultrie National Historical Park. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–ZZ—RECONSTRUCTION ERA NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410bbbb.](Subchapter%20059%E2%80%93ZZ%20%28LIX%E2%80%93ZZ%29%20-%20Reconstruction%20Era%20National%20Historical%20Park/%C2%A7%2000410bbbb%20-%20Reconstruction%20Era%20National%20Historical%20Park%20and%20Reconstruction%20Era%20National%20Historic%20Network.md) | Reconstruction Era National Historical Park and Reconstruction Era National Historic Network. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–AAA—GOLDEN SPIKE NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410cccc.](Subchapter%20059%E2%80%93AAA%20%28LIX%E2%80%93AAA%29%20-%20Golden%20Spike%20National%20Historical%20Park/%C2%A7%2000410cccc%20-%20Acquisition%20of%20lands.md) | Acquisition of lands. |
+| 410cccc–1. | Golden Spike National Historic Site. |
+| 410cccc–2. | Authorization of appropriations. |
+| 410cccc–3. | Golden Spike National Historical Park. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–BBB—WHITE SANDS NATIONAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410dddd.](Subchapter%20059%E2%80%93BBB%20%28LIX%E2%80%93BBB%29%20-%20White%20Sands%20National%20Park/%C2%A7%2000410dddd%20-%20White%20Sands%20National%20Park.md) | White Sands National Park. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER LX—NATIONAL MILITARY PARKS
 
 |  |  |
@@ -1996,6 +2090,7 @@
 | 430f–10. | Park management and administration. |
 | 430f–11. | Repealed. |
 | 430f–12. | Authorization of appropriations. |
+| 430f–13. | Shiloh National Military Park boundary adjustment. |
 | [430g.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430g%20-%20Gettysburg%20National%20Military%20Park.md) | Gettysburg National Military Park. |
 | 430g–1. | Exchange of lands. |
 | 430g–2. | Exchange of lands. |
@@ -2034,6 +2129,7 @@
 | [430r.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430r%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [430s.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430s%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [430t.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430t%20-%20Kennesaw%20Mountain%20National%20Battlefield%20Park%3B%20establishment.md) | Kennesaw Mountain National Battlefield Park; establishment. |
+| 430t–1. | Kennesaw Mountain National Battlefield Park boundary. |
 | [430u.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430u%20-%20Donations%20of%20land%3B%20purchase%20and%20condemnation.md) | Donations of land; purchase and condemnation. |
 | [430v.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430v%20-%20Monuments%20and%20memorials%3B%20regulations%3B%20historical%20markers.md) | Monuments and memorials; regulations; historical markers. |
 | [430w.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430w%20-%20Administration%2C%20protection%2C%20and%20development.md) | Administration, protection, and development. |
@@ -2129,9 +2225,7 @@
 | [445d.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000445d%20-%20Acquisition%20of%20additional%20lands%2C%20Pipestone%20School%20Reserve%20and%20non-Federal%20land%3B%20redefining%20of%20boundaries%3B%20quarry%20rights%20of%20Indians.md) | Acquisition of additional lands, Pipestone School Reserve and non-Federal land; redefining of boundaries; quarry rights of Indians. |
 | [446\.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000446%20-%20Sites%20for%20tablets%20at%20Antietam%3B%20care%20and%20supervision.md) | Sites for tablets at Antietam; care and supervision. |
 | [447\.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000447%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93429%2C%20%C2%A73%28d%29%2C%20Sept.%2028%2C%201976%2C%2090%20Stat.%201342.md) | Repealed. |
-| [447a.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000447a%20-%20Ocmulgee%20National%20Monument%3B%20establishment%3B%20acquisition%20of%20property.md) | Ocmulgee National Monument; establishment; acquisition of property. |
-| [447b.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000447b%20-%20Donation%20of%20property%3B%20condemnation%20proceedings.md) | Donation of property; condemnation proceedings. |
-| [447c.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000447c%20-%20Administration%2C%20protection%2C%20and%20development.md) | Administration, protection, and development. |
+| 447a to 447c. | Transferred. |
 | [448\.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000448%20-%20Pioneer%20National%20Monument%3B%20establishment.md) | Pioneer National Monument; establishment. |
 | [449\.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000449%20-%20Acceptance%20of%20donations%20of%20land%20and%20funds%3B%20acquisition%20of%20land.md) | Acceptance of donations of land and funds; acquisition of land. |
 | [450\.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450%20-%20Administration%2C%20protection%2C%20and%20development.md) | Administration, protection, and development. |
@@ -2176,7 +2270,7 @@
 | [450dd.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450dd%20-%20De%20Soto%20National%20Memorial%3B%20establishment.md) | De Soto National Memorial; establishment. |
 | 450dd–1. | Administration. |
 | [450ee.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450ee%20-%20Fort%20Sumter%20National%20Monument%3B%20establishment.md) | Fort Sumter National Monument; establishment. |
-| 450ee–1. | Administration. |
+| 450ee–1. | Repealed. |
 | [450ff.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450ff%20-%20Fort%20Vancouver%20National%20Historic%20Site%3B%20establishment.md) | Fort Vancouver National Historic Site; establishment. |
 | 450ff–1. | Size of site; effective date; additional lands. |
 | 450ff–2. | Administration, protection, and development. |
@@ -2654,18 +2748,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER LXXIX—INDIANA DUNES NATIONAL LAKESHORE
+#### SUBCHAPTER LXXIX—INDIANA DUNES NATIONAL PARK
 
 |  |  |
 | :--- | ---: |
-| [460u.](Subchapter%20079%20%28LXXIX%29%20-%20Indiana%20Dunes%20National%20Lakeshore/%C2%A7%2000460u%20-%20Establishment%3B%20description%20of%20area.md) | Establishment; description of area. |
+| [460u.](Subchapter%20079%20%28LXXIX%29%20-%20Indiana%20Dunes%20National%20Park/%C2%A7%2000460u%20-%20Establishment%3B%20description%20of%20area.md) | Establishment; description of area. |
 | 460u–1. | Acquisition of property. |
 | 460u–2. | Direction for establishment; publication in Federal Register; continuing acquisition of lands. |
 | 460u–3. | "Improved property" and "appropriate map" defined; terms and conditions for rights of use and occupancy. |
 | 460u–4. | Repealed. |
 | 460u–5. | Owner's retention of right of use and occupancy for residential purposes. |
 | 460u–6. | Administration. |
-| 460u–7. | Indiana Dunes National Lakeshore Advisory Commission. |
+| 460u–7. | Indiana Dunes National Park Advisory Commission. |
 | 460u–8. | State jurisdiction. |
 | 460u–9. | Authorization of appropriations; general management plan; submittal to Congressional committees; feasibility study. |
 | 460u–10. | Rights-of-way and easements; existing property rights of Northern Indiana Public Service Company. |
@@ -3651,26 +3745,50 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER CXXXIX—MARTIN LUTHER KING, JR. NATIONAL HISTORICAL PARK
+#### SUBCHAPTER CXXXIX—ASHLEY KARST NATIONAL RECREATION AND GEOLOGIC AREA
 
 |  |  |
 | :--- | ---: |
-| [460bbbb.](Subchapter%20139%20%28CXXXIX%29%20-%20Martin%20Luther%20King%2C%20Jr.%20National%20Historical%20Park/%C2%A7%2000460bbbb%20-%20Establishment%20of%20Martin%20Luther%20King%2C%20Jr.%20National%20Historical%20Park.md) | Establishment of Martin Luther King, Jr. National Historical Park. |
-| 460bbbb–1. | Administration. |
-| 460bbbb–2. | Authority of Secretary regarding property and concessions. |
-| 460bbbb–3. | Omitted. |
-| 460bbbb–4. | Entrance or admission fees prohibited. |
-| 460bbbb–5. | Authorization of appropriations; limitation on authority. |
-| 460bbbb–6. | Minimizing adverse impacts on preservation district. |
-| 460bbbb–7. | Omitted. |
+| [460bbbb.](Subchapter%20139%20%28CXXXIX%29%20-%20Ashley%20Karst%20National%20Recreation%20and%20Geologic%20Area/%C2%A7%2000460bbbb%20-%20Ashley%20Karst%20National%20Recreation%20and%20Geologic%20Area.md) | Ashley Karst National Recreation and Geologic Area. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER CXL—STE. GENEVIEVE NATIONAL HISTORICAL PARK
+#### SUBCHAPTER CXL—JOHN WESLEY POWELL NATIONAL CONSERVATION AREA
 
 |  |  |
 | :--- | ---: |
-| [460cccc.](Subchapter%20140%20%28CXL%29%20-%20Ste.%20Genevieve%20National%20Historical%20Park/%C2%A7%2000460cccc%20-%20Ste.%20Genevieve%20National%20Historical%20Park.md) | Ste. Genevieve National Historical Park. |
+| [460cccc.](Subchapter%20140%20%28CXL%29%20-%20John%20Wesley%20Powell%20National%20Conservation%20Area/%C2%A7%2000460cccc%20-%20John%20Wesley%20Powell%20National%20Conservation%20Area.md) | John Wesley Powell National Conservation Area. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER CXLI—SAN RAFAEL SWELL RECREATION AREA
+
+|  |  |
+| :--- | ---: |
+| [460dddd.](Subchapter%20141%20%28CXLI%29%20-%20San%20Rafael%20Swell%20Recreation%20Area/%C2%A7%2000460dddd%20-%20Establishment%20of%20Recreation%20Area.md) | Establishment of Recreation Area. |
+| 460dddd–1. | Management of Recreation Area. |
+| 460dddd–2. | San Rafael Swell Recreation Area Advisory Council. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER CXLII—VINAGRE WASH SPECIAL MANAGEMENT AREA
+
+|  |  |
+| :--- | ---: |
+| [460eeee.](Subchapter%20142%20%28CXLII%29%20-%20Vinagre%20Wash%20Special%20Management%20Area/%C2%A7%2000460eeee%20-%20Vinagre%20Wash%20Special%20Management%20Area.md) | Vinagre Wash Special Management Area. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER CXLIII—ALABAMA HILLS NATIONAL SCENIC AREA
+
+|  |  |
+| :--- | ---: |
+| [460ffff.](Subchapter%20143%20%28CXLIII%29%20-%20Alabama%20Hills%20National%20Scenic%20Area/%C2%A7%2000460ffff%20-%20Definitions.md) | Definitions. |
+| 460ffff–1. | Alabama Hills National Scenic Area, California. |
+| 460ffff–2. | Management plan. |
+| 460ffff–3. | Land taken into trust for Lone Pine Paiute-Shoshone Reservation. |
+| 460ffff–4. | Transfer of administrative jurisdiction. |
+| 460ffff–5. | Protection of services and recreational opportunities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3766,7 +3884,7 @@
 - [Subchapter 059&#8211;V (LIX&#8211;V) - Dry Tortugas National Park](Subchapter%20059%E2%80%93V%20%28LIX%E2%80%93V%29%20-%20Dry%20Tortugas%20National%20Park/README.md)
 - [Subchapter 059&#8211;W (LIX&#8211;W) - Keweenaw National Historical Park](Subchapter%20059%E2%80%93W%20%28LIX%E2%80%93W%29%20-%20Keweenaw%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;X (LIX&#8211;X) - Saguaro National Park](Subchapter%20059%E2%80%93X%20%28LIX%E2%80%93X%29%20-%20Saguaro%20National%20Park/README.md)
-- [Subchapter 059&#8211;Y (LIX&#8211;Y) - California Desert Lands Parks and Preserve](Subchapter%20059%E2%80%93Y%20%28LIX%E2%80%93Y%29%20-%20California%20Desert%20Lands%20Parks%20and%20Preserve/README.md)
+- [Subchapter 059&#8211;Y (LIX&#8211;Y) - California Desert Lands Parks, Preserve, and Off-Highway Vehicle Recreation Areas](Subchapter%20059%E2%80%93Y%20%28LIX%E2%80%93Y%29%20-%20California%20Desert%20Lands%20Parks%2C%20Preserve%2C%20and%20Off-Highway%20Vehicle%20Recreation%20Areas/README.md)
 - [Subchapter 059&#8211;Z (LIX&#8211;Z) - New Orleans Jazz National Historical Park](Subchapter%20059%E2%80%93Z%20%28LIX%E2%80%93Z%29%20-%20New%20Orleans%20Jazz%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;AA (LIX&#8211;AA) - Cane River Creole National Historical Park and National Heritage Area](Subchapter%20059%E2%80%93AA%20%28LIX%E2%80%93AA%29%20-%20Cane%20River%20Creole%20National%20Historical%20Park%20and%20National%20Heritage%20Area/README.md)
 - [Subchapter 059&#8211;BB (LIX&#8211;BB) - New Bedford Whaling National Historical Park](Subchapter%20059%E2%80%93BB%20%28LIX%E2%80%93BB%29%20-%20New%20Bedford%20Whaling%20National%20Historical%20Park/README.md)
@@ -3788,6 +3906,14 @@
 - [Subchapter 059&#8211;RR (LIX&#8211;RR) - Harriet Tubman National Historical Park](Subchapter%20059%E2%80%93RR%20%28LIX%E2%80%93RR%29%20-%20Harriet%20Tubman%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;SS (LIX&#8211;SS) - Manhattan Project National Historical Park](Subchapter%20059%E2%80%93SS%20%28LIX%E2%80%93SS%29%20-%20Manhattan%20Project%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;TT (LIX&#8211;TT) - Oregon Caves National Monument and Preserve](Subchapter%20059%E2%80%93TT%20%28LIX%E2%80%93TT%29%20-%20Oregon%20Caves%20National%20Monument%20and%20Preserve/README.md)
+- [Subchapter 059&#8211;UU (LIX&#8211;UU) - Martin Luther King, Jr. National Historical Park](Subchapter%20059%E2%80%93UU%20%28LIX%E2%80%93UU%29%20-%20Martin%20Luther%20King%2C%20Jr.%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;VV (LIX&#8211;VV) - Ste. Genevieve National Historical Park](Subchapter%20059%E2%80%93VV%20%28LIX%E2%80%93VV%29%20-%20Ste.%20Genevieve%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;WW (LIX&#8211;WW) - Ocmulgee Mounds National Historical Park](Subchapter%20059%E2%80%93WW%20%28LIX%E2%80%93WW%29%20-%20Ocmulgee%20Mounds%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;XX (LIX&#8211;XX) - Saint-Gaudens National Historical Park](Subchapter%20059%E2%80%93XX%20%28LIX%E2%80%93XX%29%20-%20Saint-Gaudens%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;YY (LIX&#8211;YY) - Fort Sumter and Fort Moultrie National Historical Park](Subchapter%20059%E2%80%93YY%20%28LIX%E2%80%93YY%29%20-%20Fort%20Sumter%20and%20Fort%20Moultrie%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;ZZ (LIX&#8211;ZZ) - Reconstruction Era National Historical Park](Subchapter%20059%E2%80%93ZZ%20%28LIX%E2%80%93ZZ%29%20-%20Reconstruction%20Era%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;AAA (LIX&#8211;AAA) - Golden Spike National Historical Park](Subchapter%20059%E2%80%93AAA%20%28LIX%E2%80%93AAA%29%20-%20Golden%20Spike%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;BBB (LIX&#8211;BBB) - White Sands National Park](Subchapter%20059%E2%80%93BBB%20%28LIX%E2%80%93BBB%29%20-%20White%20Sands%20National%20Park/README.md)
 - [Subchapter 060 (LX) - National Military Parks](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/README.md)
 - [Subchapter 061 (LXI) - National and International Monuments and Memorials](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/README.md)
 - [Subchapter 062 (LXII) - Miscellaneous](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/README.md)
@@ -3808,7 +3934,7 @@
 - [Subchapter 076 (LXXVI) - Mount Rogers National Recreation Area](Subchapter%20076%20%28LXXVI%29%20-%20Mount%20Rogers%20National%20Recreation%20Area/README.md)
 - [Subchapter 077 (LXXVII) - Pictured Rocks National Lakeshore](Subchapter%20077%20%28LXXVII%29%20-%20Pictured%20Rocks%20National%20Lakeshore/README.md)
 - [Subchapter 078 (LXXVIII) - Bighorn Canyon National Recreation Area](Subchapter%20078%20%28LXXVIII%29%20-%20Bighorn%20Canyon%20National%20Recreation%20Area/README.md)
-- [Subchapter 079 (LXXIX) - Indiana Dunes National Lakeshore](Subchapter%20079%20%28LXXIX%29%20-%20Indiana%20Dunes%20National%20Lakeshore/README.md)
+- [Subchapter 079 (LXXIX) - Indiana Dunes National Park](Subchapter%20079%20%28LXXIX%29%20-%20Indiana%20Dunes%20National%20Park/README.md)
 - [Subchapter 080 (LXXX) - Flaming Gorge National Recreation Area](Subchapter%20080%20%28LXXX%29%20-%20Flaming%20Gorge%20National%20Recreation%20Area/README.md)
 - [Subchapter 081 (LXXXI) - Apostle Islands National Lakeshore](Subchapter%20081%20%28LXXXI%29%20-%20Apostle%20Islands%20National%20Lakeshore/README.md)
 - [Subchapter 082 (LXXXII) - Sleeping Bear Dunes National Lakeshore](Subchapter%20082%20%28LXXXII%29%20-%20Sleeping%20Bear%20Dunes%20National%20Lakeshore/README.md)
@@ -3868,5 +3994,8 @@
 - [Subchapter 136 (CXXXVI) - Fort Stanton-Snowy River Cave National Conservation Area](Subchapter%20136%20%28CXXXVI%29%20-%20Fort%20Stanton-Snowy%20River%20Cave%20National%20Conservation%20Area/README.md)
 - [Subchapter 137 (CXXXVII) - Dominguez-Escalante National Conservation Area](Subchapter%20137%20%28CXXXVII%29%20-%20Dominguez-Escalante%20National%20Conservation%20Area/README.md)
 - [Subchapter 138 (CXXXVIII) - Nellis Dunes Off-Highway Vehicle Recreation Area](Subchapter%20138%20%28CXXXVIII%29%20-%20Nellis%20Dunes%20Off-Highway%20Vehicle%20Recreation%20Area/README.md)
-- [Subchapter 139 (CXXXIX) - Martin Luther King, Jr. National Historical Park](Subchapter%20139%20%28CXXXIX%29%20-%20Martin%20Luther%20King%2C%20Jr.%20National%20Historical%20Park/README.md)
-- [Subchapter 140 (CXL) - Ste. Genevieve National Historical Park](Subchapter%20140%20%28CXL%29%20-%20Ste.%20Genevieve%20National%20Historical%20Park/README.md)
+- [Subchapter 139 (CXXXIX) - Ashley Karst National Recreation and Geologic Area](Subchapter%20139%20%28CXXXIX%29%20-%20Ashley%20Karst%20National%20Recreation%20and%20Geologic%20Area/README.md)
+- [Subchapter 140 (CXL) - John Wesley Powell National Conservation Area](Subchapter%20140%20%28CXL%29%20-%20John%20Wesley%20Powell%20National%20Conservation%20Area/README.md)
+- [Subchapter 141 (CXLI) - San Rafael Swell Recreation Area](Subchapter%20141%20%28CXLI%29%20-%20San%20Rafael%20Swell%20Recreation%20Area/README.md)
+- [Subchapter 142 (CXLII) - Vinagre Wash Special Management Area](Subchapter%20142%20%28CXLII%29%20-%20Vinagre%20Wash%20Special%20Management%20Area/README.md)
+- [Subchapter 143 (CXLIII) - Alabama Hills National Scenic Area](Subchapter%20143%20%28CXLIII%29%20-%20Alabama%20Hills%20National%20Scenic%20Area/README.md)

@@ -56,7 +56,7 @@ Limitations.—
 
 &emsp;&emsp;(A)
 
-Active duty requirement.—Funds shall not be available under paragraph (1) for the participation of a member of the National Guard of a State or territory in activities in a foreign country unless the member is on active duty in the Armed Forces at the time of such participation <sup>1</sup>
+Active duty requirement.—Funds shall not be available under paragraph (1) for the participation of a member of the National Guard of a State or territory in activities in a foreign country unless the member is on active duty in the Armed Forces at the time of such participation.
 
 &emsp;&emsp;(B)
 
@@ -64,43 +64,17 @@ Incremental expenses.—The total amount of payments for incremental expenses of
 
 (f)
 
-Annual Reports.—
-
-&emsp;(1)
-
-In general.—Not later than February 1 following each of fiscal years 2016, 2017, and 2018, the Secretary of Defense shall submit to the appropriate congressional committees a report on activities under each program established under subsection (a) during such fiscal year.
-
-&emsp;(2)
-
-Matters to be included.—Each report shall specify, for the fiscal year covered by such report, the following:
-
-&emsp;&emsp;(A) Each foreign country in which the activities were conducted.
-
-&emsp;&emsp;(B) The type of activities conducted, the duration of the activities, and the number of members of the National Guard of each State or territory involved in such activities.
-
-&emsp;&emsp;(C) The extent of participation in the activities by the military forces and security forces or other government organizations of such foreign country.
-
-&emsp;&emsp;(D) A summary of expenditures to conduct the activities, including the annual cost of the activities, with a breakdown of such expenditures by geographic combatant command and country.
-
-&emsp;&emsp;(E) With respect to activities described in subsection (b), the objective of the activities, and a description of how the activities support the theater campaign plan of the commander of the geographic combatant command with responsibility for the country or countries in which the activities occurred.
-
-&emsp;&emsp;(F) An assessment of the extent to which the activities conducted during the previous year met the objectives described in subparagraph (E).
-
-(g)
-
 Rule of Construction.—Nothing in this section shall be construed to supersede any authority under title 10 as in effect on December 26, 2013.
 
-(Added and amended Pub. L. 114–328, div. A, title XII, §1246(a)–(c), (d)(1), (2)(B), Dec. 23, 2016, 130Stat. 2520, 2521; Pub. L. 115–232, div. A, title XII, §1210, Aug. 13, 2018, 132 Stat. 2023.)
-
-#### Amendment of Subsections (f) and (g)
-
-<i>Pub. L. 114–328, div. A, title XII, §1246(d)(2)(B), Dec. 23, 2016, 130 Stat. 2521, provided that, effective as of Jan. 1, 2020, this section is amended by striking subsection (f) and redesignating subsection (g) as (f). See 2016 Amendment notes below.</i>
+(Added and amended Pub. L. 114–328, div. A, title XII, §1246(a)–(c), (d)(1), (2)(B), Dec. 23, 2016, 130 Stat. 2520, 2521; Pub. L. 115–232, div. A, title XII, §1210, Aug. 13, 2018, 132 Stat. 2023; Pub. L. 116–92, div. A, title XVII, §1731(a)(16), Dec. 20, 2019, 133 Stat. 1813.)
 
 #### Codification
 
 Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (g) of section 1205 of Pub. L. 113–66, div. A, title XII, Dec. 26, 2013, 127 Stat. 897, as amended, which was formerly set out as a note under section 107 of Title 32, National Guard, prior to repeal by Pub. L. 114–328, div. A, title XII, §1246(e), Dec. 23, 2016, 130 Stat. 2521.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (e)(2)(A). Pub. L. 116–92 inserted period at end.
 
 <b>2018</b>—Subsec. (b)(2). Pub. L. 115–232 inserted "assistance" after "any".
 
@@ -123,6 +97,4 @@ Pub. L. 114–328, §1246(c)(2), substituted "under title 10 as in effect on Dec
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–328, div. A, title XII, §1246(d)(2), Dec. 23, 2016, 130 Stat. 2521, provided that the amendment made by section 1246(d)(2)(B) is effective as of Jan. 1, 2020.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

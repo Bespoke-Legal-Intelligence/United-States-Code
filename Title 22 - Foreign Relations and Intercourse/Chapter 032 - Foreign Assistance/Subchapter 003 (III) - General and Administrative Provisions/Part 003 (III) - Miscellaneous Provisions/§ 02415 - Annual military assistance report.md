@@ -18,7 +18,7 @@ Each such report shall show the aggregate dollar value and quantity of defense a
 
 All unclassified portions of such report shall be made available to the public on the Internet through the Department of State.
 
-(Pub. L. 87–195, pt. III, §655, as added Pub. L. 104–106, div. A, title XIII, §1324(c), Feb. 10, 1996, 110 Stat. 481; amended Pub. L. 104–164, title I, §148, July 21, 1996, 110 Stat. 1435; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1306\], Nov. 29, 1999, 113 Stat. 1536, 1501A–512; Pub. L. 106–280, title VII, §702, Oct. 6, 2000, 114 Stat. 861; Pub. L. 107–228, div. B, title XII, §§1205(c), 1262(b), Sept. 30, 2002, 116 Stat. 1428, 1434.)
+(Pub. L. 87–195, pt. III, §655, as added Pub. L. 104–106, div. A, title XIII, §1324(c), Feb. 10, 1996, 110 Stat. 481; amended Pub. L. 104–164, title I, §148, July 21, 1996, 110 Stat. 1435; Pub. L. 106–113,div. B, §1000(a)(7) \[div. B, title XIII, §1306\], Nov. 29, 1999, 113 Stat. 1536, 1501A–512; Pub. L. 106–280, title VII, §702, Oct. 6, 2000, 114 Stat. 861; Pub. L. 107–228, div. B, title XII, §§1205(c), 1262(b), Sept. 30, 2002, 116 Stat. 1428, 1434.)
 
 #### References in Text
 

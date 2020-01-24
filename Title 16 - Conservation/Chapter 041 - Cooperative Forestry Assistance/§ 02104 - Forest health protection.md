@@ -98,7 +98,7 @@ A prior section 8 of Pub. L. 95–313 was renumbered section 11 and is classifie
 
 #### Stewardship End Result Contracting Projects
 
-Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471, provided in part that: "The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with \[former\] section 347 of title III of section 101(e) of division A of Public Law 105–277 \[formerly set out as a note below\] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: <i>Provided</i>, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6."
+Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471, provided in part that: "The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with \[former\] section 347 of title III of section 101(e) of division A of Public Law 105–277 \[formerly set out as a note below\] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: <i>Provided</i>, That ofthe additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6."
 
 Similar provisions were contained in Pub. L. 106–291, title III, §338, Oct. 11, 2000, 114 Stat. 998, as amended by Pub. L. 107–20, title II, §2604, July 24, 2001, 115 Stat. 178.
 

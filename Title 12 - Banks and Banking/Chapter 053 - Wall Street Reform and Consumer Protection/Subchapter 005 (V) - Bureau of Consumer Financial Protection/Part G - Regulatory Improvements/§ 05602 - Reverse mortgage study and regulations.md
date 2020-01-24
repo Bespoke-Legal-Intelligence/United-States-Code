@@ -8,7 +8,7 @@ Not later than 1 year after the designated transfer date, the Bureau shall condu
 
 #### (1) In general
 
-&emsp;If the Bureau determines through the study required under subsection (a) that conditions or limitations on reverse mortgage transactions are necessary or appropriate for accomplishing the purposes and objectives of this title,<sup>1</sup> including protecting borrowers with respect to the obtaining of reverse mortgage loans for the purpose of funding investments, annuities, and other investment products and the suitability of a borrower in obtaining a reverse mortgage for such purpose.<sup>2</sup>
+&emsp;If the Bureau determines through the study required under subsection (a) that conditions or limitations on reverse mortgage transactions are necessary or appropriate for accomplishing the purposes and objectives of this title,<sup>1</sup> including protecting borrowerswith respect to the obtaining of reverse mortgage loans for the purpose of funding investments, annuities, and other investment products and the suitability of a borrower in obtaining a reverse mortgage for such purpose.<sup>2</sup>
 
 #### (2) Identified practices and integrated disclosures
 

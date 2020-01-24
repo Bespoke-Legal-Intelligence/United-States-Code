@@ -28,6 +28,10 @@ Historical and Revision Notes
 
 Title-wide definitions for the terms "Administration" and "Administrator" are added for clarity and convenience.
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 116–94, div. I, title VI, §601, Dec. 20, 2019, 133 Stat. 3027, provided that: "This title \[amending section 20145 of this title\] may be cited as the 'NASA Enhanced Use Leasing Extension Act of 2019'."
+
 #### Short Title of 2018 Amendment
 
 Pub. L. 115–403, §1, Dec. 31, 2018, 132 Stat. 5348, provided that: "This Act \[amending section 20145 of this title\] may be cited as the 'NASA Enhanced Use Leasing Extension Act of 2018'."
@@ -40,9 +44,9 @@ Pub. L. 115–10, title IV, §441, Mar. 21, 2017, 131 Stat. 44, provided that: "
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–90, §1(a), Nov. 25, 2015, 129 Stat. 704, provided that: "This Act \[enacting chapter 513 and sections 60126 and 70104 of this title, amending sections 20113, 50131, 50701, 50702, 50901, 50902, 50904 to 50908, 50914, 50915, 50919, 70101 to 70103, and 70907 of this title and sections 18351, 18353, and 18354 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 20113 and 50918 of this title\] may be cited as the 'U.S. Commercial Space Launch Competitiveness Act'."
+Pub. L. 114–90, §1(a), Nov. 25, 2015, 129 Stat. 704, provided that: "This Act \[enacting chapter 513 and sections 60126 and 70104 of this title, amending sections 20113, 50131, 50701, 50702, 50901, 50902, 50904 to 50908, 50914, 50915, 50919, 70101 to 70103, and 70907 of this title and sections 18351, 18353, and 18354 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 20113 and 50918 ofthis title\] may be cited as the 'U.S. Commercial Space Launch Competitiveness Act'."
 
-Pub. L. 114–90, title I, §101, Nov. 25, 2015, 129 Stat. 705, provided that: "This title \[enacting section 70104 of this title, amending sections 20113, 50131, 50901, 50902, 50904 to 50908, 50914, 50915, 50919, 70101 to 70103, and 70907 of this title and sections 18351, 18353, and 18354 of Title 42,The Public Health and Welfare, and enacting provisions set out as notes under sections 20113 and 50918 of this title\] may be cited as the 'Spurring Private Aerospace Competitiveness and Entrepreneurship Act of 2015' or 'SPACE Act of 2015'."
+Pub. L. 114–90, title I, §101, Nov. 25, 2015, 129 Stat. 705, provided that: "This title \[enacting section 70104 of this title, amending sections 20113, 50131, 50901, 50902, 50904 to 50908, 50914, 50915, 50919, 70101 to 70103, and 70907 of this title and sections 18351, 18353, and 18354 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 20113 and 50918 of this title\] may be cited as the 'Spurring Private Aerospace Competitiveness and Entrepreneurship Act of 2015' or 'SPACE Act of 2015'."
 
 Pub. L. 114–90, title IV, §401, Nov. 25, 2015, 129 Stat. 720, provided that: "This title \[enacting chapter 513 of this title\] may be cited as the 'Space Resource Exploration and Utilization Act of 2015'."
 

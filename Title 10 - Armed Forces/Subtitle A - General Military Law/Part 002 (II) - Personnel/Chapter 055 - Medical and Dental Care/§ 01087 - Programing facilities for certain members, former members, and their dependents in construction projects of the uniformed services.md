@@ -10,7 +10,7 @@
 
 &emsp;(A) the amount of space that would be so programed for the facility based upon projected inpatient and outpatient workloads at the facility for persons covered by sections 1074(b) and 1076(b) of this title; and
 
-&emsp;(B) the anticipated capability of the medical and dental staff of the facility, determined in accordance with regulations prescribed by the Secretary of Defense and based upon realistic projections of the number of physicians and other health-care providers that it can reasonably be expected will be assigned to or will otherwise be available to the facility.
+&emsp;(B) the anticipated capability of the medical and dental staff of the facility, determined in accordance with regulations prescribed by theSecretary of Defense and based upon realistic projections of the number of physicians and other health-care providers that it can reasonably be expected will be assigned to or will otherwise be available to the facility.
 
 (2) In addition, a determination made for the purpose of clause (2) of subsection (a) shall be made in accordance with an economic analysis (including a life-cycle cost analysis) of the facility and consideration of all reasonable and available medical care treatment alternatives (including treatment provided under a contract under section 1086 of this title or under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.)).
 

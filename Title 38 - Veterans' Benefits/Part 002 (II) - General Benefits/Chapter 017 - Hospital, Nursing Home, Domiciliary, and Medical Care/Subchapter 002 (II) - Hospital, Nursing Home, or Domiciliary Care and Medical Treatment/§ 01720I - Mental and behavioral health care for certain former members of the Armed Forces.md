@@ -6,7 +6,7 @@ In General.—The Secretary shall furnish to former members of the Armed Forces 
 
 &emsp;(1) an initial mental health assessment; and
 
-&emsp;(2) the mental healthcare or behavioral healthcare services authorized under this chapter that are required to treat the mental or behavioral health care needs of the former service members, including risk of suicide or harming others.
+&emsp;(2) the mental healthcare or behavioral healthcare services authorized under this chapter that are required to treat the mentalor behavioral health care needs of the former service members, including risk of suicide or harming others.
 
 (b)
 
@@ -34,7 +34,7 @@ Non-Department Care.—(1) In furnishing mental or behavioral health care servic
 
 &emsp;(A) in the judgment of a mental health professional employed by the Department, the receipt of mental or behavioral health care services by that individual in facilities of the Department would be clinically inadvisable; or
 
-&emsp;(B) facilities of the Department are not capable of furnishing such mental or behavioralhealth care services to that individual economically because of geographical inaccessibility.
+&emsp;(B) facilities of the Department are not capable of furnishing such mental or behavioral health care services to that individual economically because of geographical inaccessibility.
 
 (2) The Secretary shall carry out paragraph (1) pursuant to section 1703 of this title or any other provision of law authorizing the Secretary to enter into contracts or agreements to furnish hospital care and medical services to veterans at non-Department facilities.
 

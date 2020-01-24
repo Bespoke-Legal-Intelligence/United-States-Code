@@ -26,7 +26,7 @@ It is therefore declared to be the purpose of the Congress in this chapter to su
 
 <b>1997</b>—Pub. L. 105–146 amended section catchline and text generally, reenacting subsecs. (a)(1), (4), and (b) without change. Prior to amendment, pars. (2) and (3) of subsec. (a) read as follows:
 
-"(2) As a consequence of increased fishing pressure, environmental pollution, the loss and alteration ofhabitat, and the inadequacy of fishery conservation and management practices and controls, certain stocks of Atlantic striped bass have been severely reduced in number.
+"(2) As a consequence of increased fishing pressure, environmental pollution, the loss and alteration of habitat, and the inadequacy of fishery conservation and management practices and controls, certain stocks of Atlantic striped bass have been severely reduced in number.
 
 "(3) Because no single government entity has full management authority throughout the range of the Atlantic striped bass, the harvesting and conservation of these fish have been subject to diverse, inconsistent, and intermittent State regulation that has been detrimental to the long-term maintenance of stocks of the species and to the interests of fishermen and the Nation as a whole."
 
@@ -70,7 +70,7 @@ Sec. 3. <i>Definitions</i>. As used in this order:
 
 (c) "striped bass" means the species <i>Morone saxatilis</i>.
 
-Sec. 4. <i>General Provisions</i>. (a) This order shall be implemented in a manner consistent with applicable law (including but not limited to interstate compacts to which the United States has consented by law, treaties and other international agreements to which the United States is a party, treaties to which the United States and an Indian tribe are parties, and laws of the United States conferring rights on Indian tribes) and subject to the availability of appropriations.
+Sec. 4. <i>General Provisions</i>. (a) This order shall be implemented in a manner consistent with applicable law (including but not limited to interstate compacts to which the United States has consented by law, treaties and other international agreements to which the United States is a party, treaties to which the UnitedStates and an Indian tribe are parties, and laws of the United States conferring rights on Indian tribes) and subject to the availability of appropriations.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, and legislative proposals.
 

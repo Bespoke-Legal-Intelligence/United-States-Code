@@ -50,7 +50,7 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 #### (c) Diseases not significantly occurring in United States
 
-The Secretary may conduct biomedical research, directly or through grants or contracts, for the identification, control, treatment, and prevention of diseases (including tropical diseases) which do not occur to a significant extent in the United States.
+The Secretary may conduct biomedical research, directly or through grants or contracts, for the identification, control, treatment, andprevention of diseases (including tropical diseases) which do not occur to a significant extent in the United States.
 
 #### (d) Protection of privacy of individuals who are research subjects
 
@@ -106,7 +106,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 (B) Each such determination and statement of basis shall be available to the public, upon request, through the Office of the Chief FOIA Officer of the Department of Health and Human Services.
 
-(3) Nothing in this subsection shall be construed to limit a research participant's access to information about such participant collected during the participant's participation in the research.
+(3) Nothing in this subsection shall be construed to limit a research participant's access to information about such participant collectedduring the participant's participation in the research.
 
 #### (g) Inapplicability of Federal information policy
 
@@ -116,7 +116,7 @@ Subchapter I of chapter 35 of title 44 shall not apply to the voluntary collecti
 
 (1) The Secretary may make available to individuals and entities, for biomedical and behavioral research, substances and living organisms. Such substances and organisms shall be made available under such terms and conditions (including payment for them) as the Secretary determines appropriate.
 
-(2) Where research substances and living organisms are made available under paragraph (1) through contractors, the Secretary may direct such contractors to collect payments on behalfof the Secretary for the costs incurred to make available such substances and organisms and to forward amounts so collected to the Secretary, in the time and manner specified by the Secretary.
+(2) Where research substances and living organisms are made available under paragraph (1) through contractors, the Secretary may direct such contractors to collect payments on behalf of the Secretary for the costs incurred to make available such substances and organisms and to forward amounts so collected to the Secretary, in the time and manner specified by the Secretary.
 
 (3) Amounts collected under paragraph (2) shall be credited to the appropriations accounts that incurred the costs to make available the research substances and living organisms involved, and shall remain available until expended for carrying out activities under such accounts.
 
@@ -146,13 +146,13 @@ Subsec. (c). Pub. L. 99–660 added subsec. (c).
 
 <b>1985</b>—Subsec. (a)(3). Pub. L. 99–158, §3(a)(5)(A), substituted "as are recommended by the advisory council to the entity of the Department supporting such projects or, in the case of mental health projects, by the National Advisory Mental Health Council; and make, upon recommendation of the advisory council to the appropriate entity of the Department or the National Advisory Mental Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research" for "as are recommended by the National Advisory Health Council, or, with respect to cancer, recommended by the National Cancer Advisory Board, or, with respect to mental health, recommended by the National Advisory Mental Health Council, or with respect to heart, blood vessel, lung, and blood diseases and blood resources, recommended by the National Heart, Lung, and Blood Advisory Council, or, with respect to dental diseases and conditions, recommended by the National Advisory Dental Research Council; and include in the grants for any such project grants of penicillin and other antibiotic compounds for use in such project; and make, upon recommendation of the National Advisory Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research: <i>Provided</i>, That such uniform percentage, not to exceed 15 per centum, as the Secretary may determine, of the amounts provided for grants for research projects for any fiscal year through the appropriations for the National Institutes of Health may be transferred from such appropriations to a separate account to be available for such research grants-in-aid for such fiscal year".
 
-Subsec. (a)(8). Pub. L. 99–158, §3(a)(5)(B), substituted "recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers" for "recommendation of the National Advisory Health Council, or, with respect to cancer, upon recommendation of the National Cancer Advisory Board, or, with respect to mental health, upon recommendation of the National Advisory Mental Health Council, or, with respect to heart, blood vessel, lung, and blood diseases and blood resources, upon recommendation of the National Heart, Lung and Blood Advisory Council, or, with respect to dental diseases and conditions, upon recommendations of the National Advisory Dental Research Council, such additional means as he deems".
+Subsec. (a)(8). Pub. L. 99–158, §3(a)(5)(B), substituted "recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers" for "recommendation of the National Advisory Health Council, or, with respect to cancer, upon recommendation of the National Cancer Advisory Board, or, with respect to mental health, upon recommendation of the National Advisory Mental Health Council, or, withrespect to heart, blood vessel, lung, and blood diseases and blood resources, upon recommendation of the National Heart, Lung and Blood Advisory Council, or, with respect to dental diseases and conditions, upon recommendations of the National Advisory Dental Research Council, such additional means as he deems".
 
 <b>1978</b>—Pub. L. 95–622 designated existing provisions as subsec. (a), redesignated former pars. (a) to (h) as (1) to (8), respectively, substituted "Secretary" for "Surgeon General" wherever appearing, and inserted following par. (8) provisions relating to authority of Secretary to make available to individuals and entities substances and living organisms, and added subsec. (b).
 
 <b>1976</b>—Subsecs. (c), (h). Pub. L. 94–278 substituted "heart, blood vessel, lung, and blood diseases and blood resources" for "heart diseases" and "National Heart, Lung and Blood Advisory Council" for "National Heart and Lung Advisory Council".
 
-<b>1974</b>—Subsec. (c). Pub. L. 93–348, §104(a)(1), redesignated subsec. (d) as (c) and substituted "research projects" for "research or research training projects" in two places, "general support of their research" for "general support of their research and research training programs" and "research grants-in-aid" for "research and research training program grants-in-aid".Former subsec. (c), authorizing Surgeon General to establish and maintain research fellowships in the Public Health Service with such stipends and allowances, including traveling and subsistence expenses, as he may deem necessary to procure the assistance of the most brilliant and promising research fellows from the United States and abroad, was struck out.
+<b>1974</b>—Subsec. (c). Pub. L. 93–348, §104(a)(1), redesignated subsec. (d) as (c) and substituted "research projects" for "research or research training projects" in two places, "general support of their research" for "general support of their research and research training programs" and "research grants-in-aid" for "research and research training program grants-in-aid". Former subsec. (c), authorizing Surgeon General to establish and maintain research fellowships in the Public Health Service with such stipends and allowances, including traveling and subsistence expenses, as he may deem necessary to procure the assistance of the most brilliant and promising research fellows from the United States and abroad, was struck out.
 
 Subsec. (d). Pub. L. 93–348, §104(a)(1)(C), redesignated subsec. (e) as (d).
 
@@ -220,7 +220,7 @@ Pub. L. 114–255, div. A, title II, §2012(b), Dec. 13, 2016, 130 Stat. 1050, p
 
 #### Coordination of Data Surveys and Reports
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, provided that: "The Secretary of Health and Human Services, through the Assistant Secretary for Planning and Evaluation, shall establish a clearinghouse for the consolidation and coordination of all Federal databases and reports regarding children's health."
+Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, provided that: "The Secretary of Health and Human Services, throughthe Assistant Secretary for Planning and Evaluation, shall establish a clearinghouse for the consolidation and coordination of all Federal databases and reports regarding children's health."
 
 #### Female Genital Mutilation
 

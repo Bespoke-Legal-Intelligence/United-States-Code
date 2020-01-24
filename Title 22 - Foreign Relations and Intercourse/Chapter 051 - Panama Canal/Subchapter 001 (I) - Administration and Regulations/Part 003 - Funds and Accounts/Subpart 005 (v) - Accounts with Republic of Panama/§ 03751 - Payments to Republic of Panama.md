@@ -2,11 +2,11 @@
 
 #### (a) Payments required under Panama Canal Treaty; annual audit
 
-The Commission shall pay to the Republic of Panama those payments required under paragraph 5 of Article III and paragraph 4 of Article XIII of the Panama Canal Treaty of 1977. Payments made under paragraph 5 of Article III of such Treaty shall be audited annually by the Comptroller General and any overpayment, as determined in accordance with Understanding (1) incorporated in the Resolution of Ratification of the Panama Canal Treaty (adopted by the United States Senate on April 18, 1978), for the services described in that paragraph which are provided shall be refunded by the Republic of Panama or set off against amounts payable by the United States to the Republic of Panama under paragraph 5 of Article III of the Panama Canal Treaty of 1977.
+The Commission shall pay to the Republic of Panama those payments required under paragraph 5 of Article III and paragraph 4 of Article XIII of the Panama Canal Treaty of 1977. Payments made under paragraph 5 of Article III of such Treaty shall be audited annually by the Comptroller General and any overpayment, as determined in accordance with Understanding (1) incorporated in the Resolution of Ratification of the Panama Canal Treaty (adopted by the United States Senate on April 18, 1978), for the services described in that paragraph which are provided shall be refunded by the Republic of Panama or set off against amounts payable by the United States to the Republic of Panamaunder paragraph 5 of Article III of the Panama Canal Treaty of 1977.
 
 #### (b) Excess operating revenues
 
-In determining whether operating revenues exceed expenditures for the purpose of payments to the Republic of Panama under paragraph 4(c) of Article XIII of the Panama Canal Treaty of 1977, such operating revenues in a fiscal period shall be reduced by (1) all costs of such period as shown by the accounts established pursuant to section 3721 of this title, and (2) the cumulative sum from prior years (beginning with the year in which the Panama Canal Treaty of 1977 entersinto force) of any excess of costs of the Panama Canal Commission over operating revenues.
+In determining whether operating revenues exceed expenditures for the purpose of payments to the Republic of Panama under paragraph 4(c) of Article XIII of the Panama Canal Treaty of 1977, such operating revenues in a fiscal period shall be reduced by (1) all costs of such period as shown by the accounts established pursuant to section 3721 of this title, and (2) the cumulative sum from prior years (beginning with the year in which the Panama Canal Treaty of 1977 enters into force) of any excess of costs of the Panama Canal Commission over operating revenues.
 
 #### (c) Retroactive taxation
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. 
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–368, §7, Aug. 1, 1986, 100 Stat. 777, provided that: "The amendment made by section 6 \[amending this section\] shall take effect with respect to fiscal year 1986 and subsequent fiscal years."
+Pub. L. 99–368, §7, Aug. 1, 1986, 100 Stat. 777, provided that: "The amendment made by section 6 \[amendingthis section\] shall take effect with respect to fiscal year 1986 and subsequent fiscal years."
 

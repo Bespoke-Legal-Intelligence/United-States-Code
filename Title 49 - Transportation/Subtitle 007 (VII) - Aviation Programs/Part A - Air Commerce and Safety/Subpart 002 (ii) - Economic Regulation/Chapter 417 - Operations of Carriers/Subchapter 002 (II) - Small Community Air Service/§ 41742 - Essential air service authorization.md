@@ -14,11 +14,11 @@ Additional funds.—In addition to amounts authorized under paragraph (1), there
 
 &emsp;(3)
 
-Authorization for additional employees.—In addition to amounts authorized under paragraphs (1) and (2), there are authorized to be appropriated such sums as may be necessary for the Secretary of Transportation to hire and employ 4 additional employees for theoffice responsible for carrying out the essential air service program.
+Authorization for additional employees.—In addition to amounts authorized under paragraphs (1) and (2), there are authorized to be appropriated such sums as may be necessary for the Secretary of Transportation to hire and employ 4 additional employees for the office responsible for carrying out the essential air service program.
 
 (b)
 
-Distribution of Additional Funds.—Notwithstanding any other provision of law, in any fiscal year in which funds credited to the account established under section 45303, including the funds derived from fees imposed under the authority contained in section 45301(a), exceed the $50,000,000 made available under subsection (a)(1), such funds shall be made available immediately for obligation and expenditure to carry out the essential air service program under this subchapter.
+Distribution of Additional Funds.—Notwithstanding any other provision of law, in any fiscal year in which funds credited to the account established under section 45303, including the funds derived from fees imposed under theauthority contained in section 45301(a), exceed the $50,000,000 made available under subsection (a)(1), such funds shall be made available immediately for obligation and expenditure to carry out the essential air service program under this subchapter.
 
 (c)
 

@@ -180,7 +180,7 @@ For purposes of this section—
 
 #### (B) Election
 
-&emsp;&emsp;If the person described in subparagraph (A) makes an election under this subparagraph in such time and manner as the Secretary may prescribe by regulations, the credit under this section—
+&emsp;&emsp;If the person described in subparagraph (A) makes an election under this subparagraphin such time and manner as the Secretary may prescribe by regulations, the credit under this section—
 
 &emsp;&emsp;&emsp;(i) shall be allowable to the person that disposes of the qualified carbon oxide, utilizes the qualified carbon oxide, or uses the qualified carbon oxide as a tertiary injectant, and
 
@@ -299,6 +299,8 @@ Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 11
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2019</b>—Internal Revenue Notice 2019–31.
 
 <b>2018</b>—Internal Revenue Notice 2018–40.
 

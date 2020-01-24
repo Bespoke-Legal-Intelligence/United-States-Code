@@ -106,7 +106,7 @@ Nothing in this section shall be construed to supersede section 4606(i) <sup>1<
 
 #### (g) Presidential authority
 
-The President is authorized, after suitable notice and a public comment period of not lessthan 120 days, to suspend the provisions of this section if a panel of experts has reported to the Dispute Settlement Body of the World Trade Organization (as the term "World Trade Organization" is defined in section 3501(8) of title 19), or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that the provisions of this section are in violation of, or inconsistent with, United States obligations under that trade agreement.
+The President is authorized, after suitable notice and a public comment period of not less than 120 days, to suspend the provisions of this section if a panel of experts has reported to the Dispute Settlement Body of the World Trade Organization (as the term "World Trade Organization" is defined in section 3501(8) of title 19), or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that the provisions of this section are in violation of, or inconsistent with, United States obligations under that trade agreement.
 
 #### (h) Removal or modifications of State restrictions
 
@@ -158,7 +158,7 @@ Subsecs. (c) to (l). Pub. L. 103–45, §2(3), (4), added subsecs. (c) to (f), s
 
 #### Severability of Provisions
 
-Pub. L. 103–45, §4, July 1, 1993, 107 Stat. 228, provided that: "If any provision of this Act \[amending this section and section 620d of this title and enacting provisions set out as a note under section 620 of this title\],or the amendments made by this Act, or the application thereof to any person or circumstance is held invalid, the remainder of this Act and such amendments and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation."
+Pub. L. 103–45, §4, July 1, 1993, 107 Stat. 228, provided that: "If any provision of this Act \[amending this section and section 620d of this title and enacting provisions set out as a note under section 620 of this title\], or the amendments made by this Act, or the application thereof to any person or circumstance is held invalid, the remainder of this Act and such amendments and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation."
 
 #### Extension and Issuance of Order Under Subsection (b)(2)
 

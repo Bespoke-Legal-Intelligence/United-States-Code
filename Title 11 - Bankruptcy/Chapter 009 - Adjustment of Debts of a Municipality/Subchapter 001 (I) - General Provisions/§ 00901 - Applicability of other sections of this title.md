@@ -70,7 +70,7 @@ Section 901 makes applicable appropriate provisions of other chapters of propose
 
 <i>§1125. Postpetition disclosure and solicitation</i>. The change in the confirmation standard necessitates a corresponding change in the disclosure requirements for solicitation of acceptances of a plan. Under current chapter IX \[chapter 9 of former title 11\] there is no disclosure requirement. Incorporation of section 1125 will insure that creditors receive adequate information before they are required to vote on a plan.
 
-<i>§1126(a), (b), (c), (e), (f), (g). Acceptance of plan</i>. Section 1126 incorporates the current chapter IX \[chapter 9 of former title 11\] acceptance requirement: two-thirds in amount and a majority in number, Bankruptcy Act §92 \[section 412 of former title 11\]. Section 1125 permits exclusion of certain acceptances from the computation if the acceptances were obtained in bad faith or, unlike current law, if there is a conflict of interest motivating the acceptance.
+<i>§1126(a), (b), (c), (e), (f), (g). Acceptance of plan</i>. Section 1126 incorporates the current chapter IX \[chapter 9 of former title 11\] acceptance requirement: two-thirds in amount and a majority in number, Bankruptcy Act §92 \[section 412 of former title 11\]. Section 1125 permits exclusion of certain acceptances from the computation if the acceptances were obtained in bad faith or, unlikecurrent law, if there is a conflict of interest motivating the acceptance.
 
 <i>§1127(d). Modification of plan</i>. This section governs the change of a creditor's vote on the plan after a modification is proposed. It is derived from current section 92(e) \[section 412(e) of former title 11\].
 
@@ -78,7 +78,7 @@ Section 901 makes applicable appropriate provisions of other chapters of propose
 
 <i>§1129(a)(2), (3), (8), (b)(1), (2). Confirmation of plan</i>. This section provides the boiler-plate language that the plan be proposed in good faith and that it comply with the provisions of the chapter, and also provides the financial standard for confirmation, which replaces the fair and equitable rule. See §1124, supra.
 
-<i>§1142(b). Execution of plan</i>. Derived from Bankruptcy Act §96(b) \[section 416(b) of former title 11\], this sectionpermits the court to order execution and delivery of instruments in order to execute the plan.
+<i>§1142(b). Execution of plan</i>. Derived from Bankruptcy Act §96(b) \[section 416(b) of former title 11\], this section permits the court to order execution and delivery of instruments in order to execute the plan.
 
 <i>§1143. Distribution</i>. This section is the same in substance as section 96(d) \[section 416(d) of former title 11\], which requires presentment or delivery of securities within five years, and bars creditors that do not act within that time.
 

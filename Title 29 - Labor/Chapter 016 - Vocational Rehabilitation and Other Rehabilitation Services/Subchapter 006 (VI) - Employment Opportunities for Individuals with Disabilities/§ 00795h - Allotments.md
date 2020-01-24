@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) no State shall receive less than $250,000, or 1/3 of 1 percent of the sums appropriated for the fiscal year for which the allotment is made, whichever amount is greater; and
 
-&emsp;&emsp;(B) if the sums appropriated to carry out this subchapter for the fiscal year exceed by $1,000,000 or more the sums appropriated to carry out part B of this subchapter (as in effect on September 30, 1992) in fiscal year 1992, no State shall receive less than $300,000, or 1/3 of 1 percent of the sums appropriated for the fiscal year for which the allotment is made, whichever amount is greater.
+&emsp;&emsp;(B) if the sums appropriated to carry out this subchapter for the fiscal year exceed by$1,000,000 or more the sums appropriated to carry out part B of this subchapter (as in effect on September 30, 1992) in fiscal year 1992, no State shall receive less than $300,000, or 1/3 of 1 percent of the sums appropriated for the fiscal year for which the allotment is made, whichever amount is greater.
 
 #### (2) Certain territories
 
